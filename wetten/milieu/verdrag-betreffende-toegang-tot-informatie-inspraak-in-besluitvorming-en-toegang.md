@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang tot de rechter inzake milieuaangelegenheden"
 identifier: "BWBV0001700"
-categorie: "Milieu"
-publicatiedatum: 2025-04-20
-laatste_update: 2025-04-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001700"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-04-20"
+last_updated: "2025-04-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001700"
+soort: "verdrag"
+stam_id: "10001078953"
+version_id: "10001117622"
+internal_id: "C10006990311"
+label_id: "10001079434"
+original_entry_into_force: "2005-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001700/2025-04-20/0"
+intitule_bron: "Trb.1998-289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-29"
+intitule_published: "1998-12-31"
+intitule_in_force: "2005-02-11"
+intitule_status: "goed"
+original_publication: "Trb.1998-289"
+original_signed_date: "2004-12-29"
+original_published_date: "1998-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-289"
+entry_into_force_date: "2005-03-29"
+jci_1_3: "jci1.3:c:BWBV0001700&z=2025-04-20&g=2025-04-20"
+jci_1_0: "1.0:c:BWBV0001700&g=2025-04-20"
+citeertitel_status: "officieel"
+signed_date: "2004-12-29"
+entry_into_force: "2005-03-29"
 ---
-
 # Verdrag betreffende toegang tot informatie, inspraak in besluitvorming en toegang tot de rechter inzake milieuaangelegenheden
 
 De Partijen bij dit Verdrag,
@@ -62,11 +86,11 @@ Zich ervan bewust dat het aannemen van dit Verdrag een bijdrage zal vormen aan h
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Om bij te dragen aan de bescherming van het recht van elke persoon van de huidige en toekomstige generaties om te leven in een milieu dat passend is voor zijn of haar gezondheid en welzijn, waarborgt elke Partij de rechten op toegang tot informatie, inspraak in de besluitvorming en toegang tot de rechter inzake milieuaangelegenheden in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag,
 
@@ -96,7 +120,7 @@ Deze begripsomschrijving omvat geen organen of instellingen die optreden in een 
 
 5. Wordt onder „het betrokken publiek" verstaan het publiek dat gevolgen ondervindt, of waarschijnlijk ondervindt van, of belanghebbende is bij, milieubesluitvorming; voor de toepassing van deze omschrijving worden niet-gouvernementele organisaties die zich inzetten voor milieubescherming en voldoen aan de eisen van nationaal recht geacht belanghebbende te zijn.
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. Elke Partij neemt de noodzakelijke wet- en regelgevende en andere maatregelen, met inbegrip van maatregelen om verenigbaarheid te bewerkstelligen tussen de bepalingen ter uitvoering van de bepalingen in dit Verdrag betreffende informatie, inspraak en toegang tot de rechter, alsmede passende handhavingsmaatregelen, voor het instellen en in standhouden van een duidelijk, transparant en samenhangend kader voor het uitvoeren van de bepalingen van dit Verdrag.
 
@@ -116,7 +140,7 @@ Deze begripsomschrijving omvat geen organen of instellingen die optreden in een 
 
 9. Binnen het toepassingsgebied van de relevante bepalingen van dit Verdrag heeft het publiek toegang tot informatie, heeft het de mogelijkheid van inspraak in besluitvorming en heeft het toegang tot de rechter inzake milieuaangelegenheden zonder discriminatie op grond van staatsburgerschap, nationaliteit of woonplaats en, in het geval van een rechtspersoon, zonder discriminatie op grond van de plaats van de statutaire zetel of een feitelijk middelpunt van de activiteiten.
 
-#### Artikel 4. Toegang tot milieu-informatie
+##### Artikel 4. Toegang tot milieu-informatie
 
 1. Elke Partij waarborgt dat, met inachtneming van de volgende leden van dit artikel, overheidsinstanties, in antwoord op een verzoek om milieu-informatie, deze informatie beschikbaar stellen aan het publiek, binnen het kader van de nationale wetgeving, waaronder, desgevraagd en behoudens het navolgende onderdeel b., afschriften van de feitelijke documentatie die deze informatie bevat of omvat:
 
@@ -166,7 +190,7 @@ De bovengenoemde gronden voor weigering worden restrictief uitgelegd, met inacht
 
 8. Elke Partij kan haar overheidsinstanties toestaan kosten te heffen voor het verstrekken van informatie, maar deze vergoeding gaat een redelijk bedrag niet te boven. Overheidsinstanties die voornemens zijn dergelijke kosten te heffen voor het verstrekken van informatie stellen aan verzoekers een overzicht beschikbaar van de vergoedingen die kunnen worden geheven, met vermelding van de omstandigheden waarin deze kunnen worden geheven of vrijstelling kan worden verleend en wanneer het verstrekken van informatie afhankelijk is van vooruitbetaling van dergelijke kosten.
 
-#### Artikel 5. Verzamelen en verspreiden van milieu-informatie
+##### Artikel 5. Verzamelen en verspreiden van milieu-informatie
 
 1. Elke Partij waarborgt dat:
 
@@ -226,7 +250,7 @@ De bovengenoemde gronden voor weigering worden restrictief uitgelegd, met inacht
 
 10. Niets in dit artikel doet afbreuk aan het recht van Partijen te weigeren bepaalde milieu-informatie bekend te maken in overeenstemming met artikel 4, derde en vierde lid.
 
-#### Artikel 6. Inspraak in besluiten over specifieke activiteiten
+##### Artikel 6. Inspraak in besluiten over specifieke activiteiten
 
 1. Elke Partij:
 
@@ -290,11 +314,11 @@ De bovengenoemde gronden voor weigering worden restrictief uitgelegd, met inacht
 
 11. Onverminderd artikel 3, lid 5, zijn de bepalingen van dit artikel niet van toepassing op besluiten over het al dan niet toestaan van de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen.
 
-#### Artikel 7. Inspraak betreffende plannen, programma's en beleid betrekking hebbende op het milieu
+##### Artikel 7. Inspraak betreffende plannen, programma's en beleid betrekking hebbende op het milieu
 
 Elke Partij treft passende praktische en/of andere voorzieningen voor inspraak voor het publiek gedurende de voorbereiding van plannen en programma's betrekking hebbende op het milieu, binnen een transparant en eerlijk kader, na het publiek de benodigde informatie te hebben verstrekt. In dit kader wordt artikel 6, derde, vierde en achtste lid toegepast. Het publiek dat kan inspreken wordt door de betreffende overheidsinstantie aangewezen met inachtneming van de doelstellingen van dit Verdrag. Voor zover passend spant elke Partij zich in om, bij de voorbereiding van beleid betrekking hebbende op het milieu mogelijkheden te scheppen voor inspraak.
 
-#### Artikel 8. Inspraak tijdens de voorbereiding van uitvoerende regelingen en/of algemeen toepasselijke wettelijk bindende normatieve instrumenten
+##### Artikel 8. Inspraak tijdens de voorbereiding van uitvoerende regelingen en/of algemeen toepasselijke wettelijk bindende normatieve instrumenten
 
 Elke Partij tracht doeltreffende inspraak in een passend stadium te bevorderen, en terwijl opties nog openstaan, gedurende de voorbereiding door overheidsinstanties van uitvoerende regelingen en andere algemeen toepasselijke wettelijk bindende regels die een aanzienlijk effect kunnen hebben op het milieu. Hiertoe zouden de volgende stappen dienen te worden genomen:
 
@@ -306,7 +330,7 @@ Elke Partij tracht doeltreffende inspraak in een passend stadium te bevorderen, 
 
 Met het resultaat van de inspraak wordt zoveel mogelijk rekening gehouden.
 
-#### Artikel 9. Toegang tot de rechter
+##### Artikel 9. Toegang tot de rechter
 
 1. Elke Partij waarborgt, binnen het kader van haar nationale wetgeving, dat een ieder die meent dat zijn of haar verzoek om informatie ingevolge artikel 4 veronachtzaamd, ten onrechte geheel of gedeeltelijk afgewezen of anderszins niet beantwoord is in overeenstemming met de bepalingen van dat artikel, toegang heeft tot een herzieningsprocedure voor een rechterlijke instantie of een ander bij wet ingesteld onafhankelijk en onpartijdig orgaan.
 
@@ -332,7 +356,7 @@ De bepalingen van dit tweede lid sluiten niet de mogelijkheid uit van een herzie
 
 5. Om de doeltreffendheid van de bepalingen van dit artikel te bevorderen waarborgt elke Partij dat aan het publiek informatie wordt verstrekt over toegang tot bestuursrechtelijke en rechterlijke herzieningsprocedures en overweegt zij het instellen van passende mechanismen voor bijstand om financiële of andere belemmeringen voor de toegang tot de rechter weg te nemen of te verminderen.
 
-#### Artikel 10. Vergadering van Partijen
+##### Artikel 10. Vergadering van Partijen
 
 1. De eerste vergadering van de Partijen wordt niet later bijeengeroepen dan een jaar na de datum van inwerkingtreding van dit Verdrag. Daarna wordt ten minste een maal per twee jaar een gewone vergadering van de Partijen gehouden, tenzij anders besloten door de Partijen, of op schriftelijk verzoek van een Partij, mits binnen zes maanden na het meedelen van het verzoek aan alle Partijen door de Uitvoerend Secretaris van de Economische Commissie voor Europa, het genoemde verzoek gesteund wordt door ten minste een derde van de Partijen.
 
@@ -364,13 +388,13 @@ De bepalingen van dit tweede lid sluiten niet de mogelijkheid uit van een herzie
 
 6. Voor de toepassing van het voorgaande vierde en vijfde lid voorziet het in het voorgaande tweede lid, onderdeel h., bedoelde reglement van orde in praktische regelingen voor de toelatingsprocedure en andere relevante voorwaarden.
 
-#### Artikel 11. Stemrecht
+##### Artikel 11. Stemrecht
 
 1. Behoudens het bepaalde in het navolgende tweede lid heeft elke Partij bij dit Verdrag één stem.
 
 2. Regionale organisaties voor economische intregratie oefenen, ten aanzien van aangelegenheden die onder hun bevoegdheid vallen, hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn bij dit Verdrag. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 12. Secretariaat
+##### Artikel 12. Secretariaat
 
 De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de volgende secretariaatstaken:
 
@@ -380,11 +404,11 @@ De Uitvoerend Secretaris van de Economische Commissie voor Europa verricht de vo
 
 - c. andere taken als door de Partijen kunnen worden bepaald.
 
-#### Artikel 13. Bijlagen
+##### Artikel 13. Bijlagen
 
 De bijlagen bij dit Verdrag maken een integrerend deel daarvan uit.
 
-#### Artikel 14. Wijzigingen van het Verdrag
+##### Artikel 14. Wijzigingen van het Verdrag
 
 1. Elke Partij kan wijzigingen van dit Verdrag voorstellen.
 
@@ -400,11 +424,11 @@ De bijlagen bij dit Verdrag maken een integrerend deel daarvan uit.
 
 7. Voor de toepassing van dit artikel wordt onder „aanwezige Partijen die hun stem uitbrengen", verstaan de Partijen die aanwezig zijn en een stem vóór of tegen een voorstel uitbrengen.
 
-#### Artikel 15. Toezicht op naleving
+##### Artikel 15. Toezicht op naleving
 
 De Vergadering van de Partijen stelt, op basis van consensus, facultatieve regelingen vast van niet-confronterende, niet-rechterlijke en raadplegende aard voor toetsing van de naleving van de bepalingen van dit Verdrag. Deze regelingen laten ruimte voor passende betrokkenheid van het publiek en kunnen de optie omvatten mededelingen van leden van het publiek over aangelegenheden met betrekking tot dit Verdrag in overweging te nemen.
 
-#### Artikel 16. Regeling van geschillen
+##### Artikel 16. Regeling van geschillen
 
 1. Indien tussen twee of meer Partijen een geschil ontstaat over de uitlegging of de toepassing van dit Verdrag, trachten zij dit op te lossen door onderhandeling of volgens een andere voor de partijen bij het geschil aanvaardbare methode voor de regeling van geschillen.
 
@@ -416,15 +440,15 @@ De Vergadering van de Partijen stelt, op basis van consensus, facultatieve regel
 
 3. Indien de partijen bij het geschil beide in het voorgaande tweede lid genoemde methoden voor de regeling van geschillen hebben aanvaard, kan het geschil alleen aan het Internationaal Gerechtshof worden voorgelegd, tenzij de partijen anders overeenkomen.
 
-#### Artikel 17. Ondertekening
+##### Artikel 17. Ondertekening
 
 Dit Verdrag staat op 25 juni 1998 te Aarhus (Denemarken), en daarna tot 21 december 1998 op de Zetel van de Verenigde Naties te New York, open voor ondertekening door de lidstaten van de Economische Commissie voor Europa alsmede door Staten die een consultatieve status bij de Europese Commissie voor Europa hebben krachtens de paragrafen 8 en 11 van resolutie 36 (IV) van 28 maart 1947 van de Economische en Sociale Raad, en door regionale organisaties voor economische integratie opgericht door soevereine Staten die lid zijn van de Economische Commissie voor Europa, waaraan de lidstaten bevoegdheden hebben overgedragen ten aanzien van aangelegenheden die onder dit Verdrag vallen, met inbegrip van de bevoegdheid ten aanzien van deze aangelegenheden verdragen aan te gaan.
 
-#### Artikel 18. Depositaris
+##### Artikel 18. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit Verdrag.
 
-#### Artikel 19. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 19. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenende Staten en regionale organisaties voor economische integratie.
 
@@ -436,7 +460,7 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding vermelden de regionale organisaties voor economische integratie bedoeld in artikel 17 de reikwijdte van hun bevoegdheid ten aanzien van de aangelegenheden die onder dit Verdrag vallen. Deze organisaties doen de Depositaris tevens mededeling van elke wezenlijke verandering in de reikwijdte van hun bevoegdheid.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -444,47 +468,47 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 3. Ten aanzien van elke Staat of organisatie bedoeld in artikel 17 die dit Verdrag bekrachtigt, aanvaardt of goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Verdrag in werking op de negentigste dag na de datum van nederlegging door de Staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 Elke Partij kan, te allen tijde na drie jaar vanaf de datum waarop dit Verdrag ten aanzien van die Partij in werking is getreden, het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht op de negentigste dag na de datum van ontvangst van de kennisgeving door de Depositaris.
 
-#### Artikel 22. Authentieke teksten
+##### Artikel 22. Authentieke teksten
 
 Het originele exemplaar van dit Verdrag, waarvan de Engelse, de Franse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### 1
+##### 1
 
 Indien een geschil aan arbitrage wordt onderworpen ingevolge artikel 16, tweede lid, van dit Verdrag, stelt/stellen een of meer van de partijen bij het geschil het secretariaat in kennis van het onderwerp van arbitrage, onder vermelding van de artikelen van dit Verdrag over de uitlegging of toepassing waarvan een geschil is ontstaan. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 2
+##### 2
 
 Het scheidsgerecht bestaat uit drie leden. De eisende partij(en) en de andere partij(en) bij het geschil benoemen elk een arbiter, en de twee aldus benoemde arbiters wijzen met gezamenlijke instemming de derde arbiter aan, die voorzitter van het scheidsgerecht wordt. De derde arbiter mag geen onderdaan van een van de partijen bij het geschil zijn, noch mag hij of zij zijn of haar gewone verblijfplaats op het grondgebied van een van die partijen hebben, of in dienst zijn bij een van hen, of in een andere hoedanigheid reeds bij de aangelegenheid betrokken zijn geweest.
 
-#### 3
+##### 3
 
 Indien de voorzitter van het scheidsgerecht niet is aangewezen binnen twee maanden na de benoeming van de tweede arbiter, wijst de Uitvoerend Secretaris van de Economische Commissie voor Europa, op verzoek van een van beide partijen bij het geschil, binnen een nieuwe termijn van twee maanden de voorzitter aan.
 
-#### 4
+##### 4
 
 Indien een van de partijen bij het geschil niet binnen een maand nadat zij het verzoek daartoe heeft ontvangen, een arbiter heeft benoemd, kan de andere partij dit mededelen aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die binnen een nieuwe termijn van twee maanden de voorzitter van het scheidsgerecht aanwijst. Vervolgens verzoekt de voorzitter van het scheidsgerecht de partij die nog geen arbiter heeft benoemd, dit binnen twee maanden te doen. Indien zij dit binnen dat tijdvak niet doet, deelt de voorzitter dit mede aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die vervolgens binnen een volgend tijdvak van twee maanden de benoeming verricht.
 
-#### 5
+##### 5
 
 Het scheidsgerecht neemt zijn beslissing in overeenstemming met het internationale recht en met de bepalingen van dit Verdrag.
 
-#### 6
+##### 6
 
 Ieder krachtens de bepalingen van deze Bijlage ingesteld scheidsgerecht stelt zijn eigen procedureregels vast.
 
-#### 7
+##### 7
 
 De beslissingen van het scheidsgerecht betreffende zowel procedures als aan hem voorgelegde aangelegenheden worden genomen met een meerderheid van de stemmen van zijn leden.
 
-#### 8
+##### 8
 
 Het scheidsgerecht kan alle passende maatregelen nemen ter vaststelling van de feiten.
 
-#### 9
+##### 9
 
 De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van het scheidsgerecht te vergemakkelijken, met name door:
 
@@ -492,39 +516,39 @@ De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van 
 
 - b. het scheidsgerecht indien nodig in staat te stellen getuigen of deskundigen op te roepen en te horen.
 
-#### 10
+##### 10
 
 De partijen en de arbiters beschermen de vertrouwelijkheid van de informatie die zij gedurende het werk van het scheidsgerecht in vertrouwen verkrijgen.
 
-#### 11
+##### 11
 
 Het scheidsgerecht kan, op verzoek van een van de partijen, tussentijdse beschermingsmaatregelen aanbevelen.
 
-#### 12
+##### 12
 
 Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en zijn uiteindelijke beslissing te nemen. Het feit dat een partij niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, vormt geen belemmering voor de voortzetting van de procedure.
 
-#### 13
+##### 13
 
 Het scheidsgerecht kan tegeneisen die rechtstreeks voortkomen uit de aangelegenheid die het onderwerp van het geschil is, horen en erover beslissen.
 
-#### 14
+##### 14
 
 Tenzij het scheidsgerecht anders bepaalt vanwege de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, met inbegrip van de honorering van zijn leden, in gelijke delen gedragen door de partijen bij het geschil. Het scheidsgerecht houdt een overzicht van al zijn kosten bij, en verstrekt de partijen daarvan een eindopgave.
 
-#### 15
+##### 15
 
 Iedere Partij bij dit Verdrag die een belang ten aanzien van het recht heeft bij de aangelegenheid die het onderwerp van het geschil is, en waarvoor de beslissing van het scheidsgerecht gevolgen kan hebben, kan zich met de instemming van het scheidsgerecht voegen in de procedure.
 
-#### 16
+##### 16
 
 Het scheidsgerecht doet zijn uitspraak binnen vijf maanden na de datum waarop het werd ingesteld, tenzij het het noodzakelijk acht deze termijn te verlengen met een termijn van ten hoogste vijf maanden.
 
-#### 17
+##### 17
 
 De uitspraak van het scheidsgerecht dient vergezeld te gaan van een uiteenzetting van de gronden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil. De uitspraak wordt door het scheidsgerecht toegezonden aan de partijen bij het geschil en aan het secretariaat. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 18
+##### 18
 
 Ieder geschil dat tussen partijen ontstaat betreffende de uitlegging of tenuitvoerlegging van de uitspraak kan door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan of, indien het daaraan niet kan worden voorgelegd, aan een ander scheidsgerecht dat hiertoe wordt ingesteld op dezelfde wijze als het eerstbedoelde scheidsgerecht.
 
@@ -532,45 +556,45 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Aarhus (Denmark), this twenty-fifth day of June, one thousand nine hundred and ninety-eight.
 
-#### Artikel 6 bis. Inspraak bij besluiten over de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen
+##### Artikel 6 bis. Inspraak bij besluiten over de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen
 
 1. Overeenkomstig de in Bijlage I bis vastgelegde modaliteiten, voorziet elke Partij in een vroeg stadium in doeltreffende informatieverstrekking en inspraak voordat zij een besluit neemt over het al dan niet toestaan van de doelbewuste introductie in het milieu en het op de markt brengen van genetisch gemodificeerde organismen.
 
 2. De overeenkomstig lid 1 van dit artikel door de Partijen vastgestelde eisen dienen de bepalingen van hun nationale kader inzake bioveiligheid aan te vullen en te ondersteunen, met inachtneming van het Protocol van Cartagena inzake bioveiligheid.
 
-#### 1
+##### 1
 
 Indien een geschil aan arbitrage wordt onderworpen ingevolge artikel 16, tweede lid, van dit Verdrag, stelt/stellen een of meer van de partijen bij het geschil het secretariaat in kennis van het onderwerp van arbitrage, onder vermelding van de artikelen van dit Verdrag over de uitlegging of toepassing waarvan een geschil is ontstaan. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 2
+##### 2
 
 Het scheidsgerecht bestaat uit drie leden. De eisende partij(en) en de andere partij(en) bij het geschil benoemen elk een arbiter, en de twee aldus benoemde arbiters wijzen met gezamenlijke instemming de derde arbiter aan, die voorzitter van het scheidsgerecht wordt. De derde arbiter mag geen onderdaan van een van de partijen bij het geschil zijn, noch mag hij of zij zijn of haar gewone verblijfplaats op het grondgebied van een van die partijen hebben, of in dienst zijn bij een van hen, of in een andere hoedanigheid reeds bij de aangelegenheid betrokken zijn geweest.
 
-#### 3
+##### 3
 
 Indien de voorzitter van het scheidsgerecht niet is aangewezen binnen twee maanden na de benoeming van de tweede arbiter, wijst de Uitvoerend Secretaris van de Economische Commissie voor Europa, op verzoek van een van beide partijen bij het geschil, binnen een nieuwe termijn van twee maanden de voorzitter aan.
 
-#### 4
+##### 4
 
 Indien een van de partijen bij het geschil niet binnen een maand nadat zij het verzoek daartoe heeft ontvangen, een arbiter heeft benoemd, kan de andere partij dit mededelen aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die binnen een nieuwe termijn van twee maanden de voorzitter van het scheidsgerecht aanwijst. Vervolgens verzoekt de voorzitter van het scheidsgerecht de partij die nog geen arbiter heeft benoemd, dit binnen twee maanden te doen. Indien zij dit binnen dat tijdvak niet doet, deelt de voorzitter dit mede aan de Uitvoerend Secretaris van de Economische Commissie voor Europa, die vervolgens binnen een volgend tijdvak van twee maanden de benoeming verricht.
 
-#### 5
+##### 5
 
 Het scheidsgerecht neemt zijn beslissing in overeenstemming met het internationale recht en met de bepalingen van dit Verdrag.
 
-#### 6
+##### 6
 
 Ieder krachtens de bepalingen van deze Bijlage ingesteld scheidsgerecht stelt zijn eigen procedureregels vast.
 
-#### 7
+##### 7
 
 De beslissingen van het scheidsgerecht betreffende zowel procedures als aan hem voorgelegde aangelegenheden worden genomen met een meerderheid van de stemmen van zijn leden.
 
-#### 8
+##### 8
 
 Het scheidsgerecht kan alle passende maatregelen nemen ter vaststelling van de feiten.
 
-#### 9
+##### 9
 
 De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van het scheidsgerecht te vergemakkelijken, met name door:
 
@@ -578,39 +602,39 @@ De partijen bij het geschil doen alles wat in hun vermogen ligt om het werk van 
 
 - b. het scheidsgerecht indien nodig in staat te stellen getuigen of deskundigen op te roepen en te horen.
 
-#### 10
+##### 10
 
 De partijen en de arbiters beschermen de vertrouwelijkheid van de informatie die zij gedurende het werk van het scheidsgerecht in vertrouwen verkrijgen.
 
-#### 11
+##### 11
 
 Het scheidsgerecht kan, op verzoek van een van de partijen, tussentijdse beschermingsmaatregelen aanbevelen.
 
-#### 12
+##### 12
 
 Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en zijn uiteindelijke beslissing te nemen. Het feit dat een partij niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, vormt geen belemmering voor de voortzetting van de procedure.
 
-#### 13
+##### 13
 
 Het scheidsgerecht kan tegeneisen die rechtstreeks voortkomen uit de aangelegenheid die het onderwerp van het geschil is, horen en erover beslissen.
 
-#### 14
+##### 14
 
 Tenzij het scheidsgerecht anders bepaalt vanwege de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht, met inbegrip van de honorering van zijn leden, in gelijke delen gedragen door de partijen bij het geschil. Het scheidsgerecht houdt een overzicht van al zijn kosten bij, en verstrekt de partijen daarvan een eindopgave.
 
-#### 15
+##### 15
 
 Iedere Partij bij dit Verdrag die een belang ten aanzien van het recht heeft bij de aangelegenheid die het onderwerp van het geschil is, en waarvoor de beslissing van het scheidsgerecht gevolgen kan hebben, kan zich met de instemming van het scheidsgerecht voegen in de procedure.
 
-#### 16
+##### 16
 
 Het scheidsgerecht doet zijn uitspraak binnen vijf maanden na de datum waarop het werd ingesteld, tenzij het het noodzakelijk acht deze termijn te verlengen met een termijn van ten hoogste vijf maanden.
 
-#### 17
+##### 17
 
 De uitspraak van het scheidsgerecht dient vergezeld te gaan van een uiteenzetting van de gronden. De uitspraak is onherroepelijk en bindend voor alle partijen bij het geschil. De uitspraak wordt door het scheidsgerecht toegezonden aan de partijen bij het geschil en aan het secretariaat. Het secretariaat zendt de ontvangen informatie toe aan alle Partijen bij dit Verdrag.
 
-#### 18
+##### 18
 
 Ieder geschil dat tussen partijen ontstaat betreffende de uitlegging of tenuitvoerlegging van de uitspraak kan door elk van de partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan of, indien het daaraan niet kan worden voorgelegd, aan een ander scheidsgerecht dat hiertoe wordt ingesteld op dezelfde wijze als het eerstbedoelde scheidsgerecht.
 

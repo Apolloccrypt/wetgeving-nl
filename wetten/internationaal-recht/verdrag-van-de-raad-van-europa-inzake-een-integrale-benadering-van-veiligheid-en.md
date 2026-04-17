@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid en gastvrijheid bij voetbalwedstrijden en andere sportevenementen"
 identifier: "BWBV0006615"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006615"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006615"
+soort: "verdrag"
+stam_id: "10005373683"
+version_id: "10005798692"
+internal_id: "C10009686241"
+label_id: "10005356454"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006615/2020-04-01/0"
+intitule_bron: "Trb.2016-111"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-07-26"
+intitule_in_force: "2020-03-18"
+intitule_status: "goed"
+original_publication: "Trb.2016-111"
+original_published_date: "2016-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-111"
+entry_into_force_date: "2020-04-01"
+jci_1_3: "jci1.3:c:BWBV0006615&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBV0006615&g=2020-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-04-01"
 ---
-
 # Verdrag van de Raad van Europa inzake een integrale benadering van veiligheid en gastvrijheid bij voetbalwedstrijden en andere sportevenementen
 
 Preambule
@@ -46,13 +68,13 @@ Er rekening mee houdend dat uitgebreide Europese ervaringen en goede praktijken 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. De partijen nemen, binnen de grenzen van hun respectieve constitutionele bepalingen, de stappen die nodig zijn om uitvoering te geven aan de bepalingen van dit Verdrag ten aanzien van voetbalwedstrijden of -toernooien op hun grondgebied gespeeld door professionele voetbalclubs en nationale teams.
 
 2. De partijen kunnen de bepalingen van dit Verdrag toepassen op andere sporten of sportevenementen die op hun grondgebied worden gehouden, met inbegrip van niet-professionele voetbalwedstrijden, in het bijzonder wanneer er omstandigheden zijn die veiligheids- of beveiligingsrisico’s met zich meebrengen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van dit Verdrag is het bieden van een veilige, beveiligde en gastvrije omgeving bij voetbalwedstrijden en andere sportevenementen. Hiertoe:
 
@@ -62,7 +84,7 @@ Het doel van dit Verdrag is het bieden van een veilige, beveiligde en gastvrije 
 
 - c. houden de partijen rekening met goede praktijken bij het ontwikkelen van een integrale benadering van veiligheid, beveiliging en gastvrijheid.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -84,7 +106,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - i. **„relevante instantie”** een lichaam (publiek of privaat) dat betrokken is bij de organisatie en/of het management van een voetbalwedstrijd of ander sportevenement dat binnen of buiten een sportstadion wordt gehouden.
 
-#### Artikel 4. Coördinatie op binnenlands niveau
+##### Artikel 4. Coördinatie op binnenlands niveau
 
 1. De partijen waarborgen dat er nationale en lokale coördinatiestructuren worden opgezet om op nationaal en lokaal niveau een integrale benadering van veiligheid, beveiliging en gastvrijheid door meerdere instanties te ontwikkelen.
 
@@ -96,7 +118,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. De partijen waarborgen dat in nationale wettelijke, regelgevende of bestuursrechtelijke kaders de onderscheiden taken en verantwoordelijkheden van de relevante instanties duidelijk tot uiting komen en dat deze taken complementair zijn, in overeenstemming met een integrale benadering, en op strategische en operationeel niveau algemeen bekend zijn.
 
-#### Artikel 5. Veiligheid, beveiliging en gastvrijheid in sportstadions
+##### Artikel 5. Veiligheid, beveiliging en gastvrijheid in sportstadions
 
 1. De partijen waarborgen dat in nationale wettelijke, regelgevende of bestuursrechtelijke kaders van organisatoren van evenementen verlangd wordt dat zij, in overleg met alle partnerinstanties, een veilige en beveiligde omgeving bieden aan alle deelnemers en toeschouwers.
 
@@ -118,7 +140,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. De partijen moedigen hun bevoegde instanties aan om te wijzen op de noodzaak voor spelers, coaches of andere vertegenwoordigers van de deelnemende teams om te handelen in overeenstemming met belangrijke beginselen in de sport, zoals tolerantie, respect en fair play, en te erkennen dat gewelddadig, racistisch of ander provocatief gedrag een negatieve invloed kan hebben op het gedrag van toeschouwers.
 
-#### Artikel 6. Veiligheid, beveiliging en gastvrijheid in openbare ruimten
+##### Artikel 6. Veiligheid, beveiliging en gastvrijheid in openbare ruimten
 
 1. De partijen moedigen alle instanties en belanghebbenden die betrokken zijn bij het organiseren van voetbalwedstrijden en andere sportevenementen in publieke ruimten, met inbegrip van de gemeentelijke autoriteiten, politie, lokale gemeenschappen en ondernemingen, vertegenwoordigers van supporters, voetbalclubs en nationale bonden, aan samen te werken, in het bijzonder op de volgende gebieden:
 
@@ -128,17 +150,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. De partijen waarborgen dat bij risicobeoordeling en maatregelen op het gebied van veiligheid en beveiliging rekening wordt gehouden met de reis naar en van het stadion.
 
-#### Artikel 7. Planning voor onvoorziene gebeurtenissen en noodgevallen
+##### Artikel 7. Planning voor onvoorziene gebeurtenissen en noodgevallen
 
 De partijen waarborgen dat er plannen voor onvoorziene gebeurtenissen en noodgevallen worden ontwikkeld waarbij meerdere instanties samenwerken en dat deze plannen worden getest en verfijnd met reguliere gezamenlijke oefeningen. Uit nationale wettelijke, regelgevende of bestuursrechtelijke kaders wordt duidelijk welke instantie verantwoordelijk is voor het initiëren, toezicht houden op en certificeren van de oefeningen.
 
-#### Artikel 8. Relatie met supporters en lokale gemeenschappen
+##### Artikel 8. Relatie met supporters en lokale gemeenschappen
 
 1. De partijen moedigen alle instanties aan beleid te ontwikkelen en in te voeren om op proactieve wijze regelmatig contact te onderhouden met belangrijke belanghebbenden, onder wie vertegenwoordigers van supporters en lokale gemeenschappen, gebaseerd op het beginsel van dialoog en met als doel een gevoel van partnerschap en positieve samenwerking te genereren en oplossingen voor mogelijke problemen te vinden.
 
 2. De partijen moedigen alle publieke en private instanties en overige belanghebbenden, onder wie lokale gemeenschappen en vertegenwoordigers van supporters, aan tot het initiëren van of deelnemen aan door meerdere instanties uitgevoerde projecten met een sociaal, educatief of op criminaliteitspreventie gericht karakter of andere gemeenschapsprojecten, die gericht zijn op het bevorderen van wederzijds respect en begrip, met name bij supporters, sportclubs en sportbonden alsmede instanties die verantwoordelijk zijn voor veiligheid en beveiliging.
 
-#### Artikel 9. Strategieën en operaties van de politie
+##### Artikel 9. Strategieën en operaties van de politie
 
 1. De partijen waarborgen dat er politiestrategieën worden ontwikkeld, regelmatig worden geëvalueerd en worden verfijnd in het licht van nationale en internationale ervaringen en goede praktijken, en dat die aansluiten op de bredere, integrale benadering van veiligheid, beveiliging en gastvrijheid.
 
@@ -146,7 +168,7 @@ De partijen waarborgen dat er plannen voor onvoorziene gebeurtenissen en noodgev
 
 3. De partijen waarborgen dat de politie samenwerkt met organisatoren, supporters, lokale gemeenschappen en overige belanghebbenden om voetbalwedstrijden en andere sportevenementen voor alle betrokkenen veilig en gastvrij te maken.
 
-#### Artikel 10. Preventie en bestraffing van laakbaar gedrag
+##### Artikel 10. Preventie en bestraffing van laakbaar gedrag
 
 1. De partijen nemen alle mogelijke maatregelen om het risico te verminderen dat individuen of groepen deelnemen aan geweldsincidenten of ongeregeldheden of deze organiseren.
 
@@ -156,7 +178,7 @@ De partijen waarborgen dat er plannen voor onvoorziene gebeurtenissen en noodgev
 
 4. Waar van toepassing, en in overeenstemming met het nationale en internationaal recht, nemen de partijen in overweging de rechterlijke of bestuurlijke autoriteiten de bevoegdheid te geven sancties op te leggen aan individuen die voetbalgerelateerd(e) geweld en/of ongeregeldheden hebben veroorzaakt of daaraan hebben bijgedragen, met de mogelijkheid beperkingen te stellen aan het reizen naar voetbalevenementen in een ander land.
 
-#### Artikel 11. Internationale samenwerking
+##### Artikel 11. Internationale samenwerking
 
 1. De partijen werken nauw samen bij alle zaken waarop dit Verdrag van toepassing is en bij daarmee verband houdende zaken, teneinde tot een zo goed mogelijke samenwerking te komen bij internationale evenementen, ervaringen te delen en deel te nemen aan het ontwikkelen van goede praktijken.
 
@@ -178,11 +200,11 @@ De partijen waarborgen dat er plannen voor onvoorziene gebeurtenissen en noodgev
 
 ### PROCEDURELE BEPALINGEN
 
-#### Artikel 12. Verstrekking van informatie
+##### Artikel 12. Verstrekking van informatie
 
 Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle relevante informatie in een van de officiële talen van de Raad van Europa toekomen over wetgevende en andere maatregelen die zij heeft getroffen teneinde te voldoen aan de voorwaarden van dit Verdrag, met betrekking tot voetbal of andere sporten.
 
-#### Artikel 13. Comité veiligheid en beveiliging bij sportevenementen
+##### Artikel 13. Comité veiligheid en beveiliging bij sportevenementen
 
 1. Ten behoeve van dit Verdrag is hierbij het Comité veiligheid en beveiliging bij sportevenementen ingesteld.
 
@@ -198,7 +220,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 7. Met inachtneming van de bepalingen van dit Verdrag stelt het comité zijn eigen reglement van orde op en neemt dat bij consensus aan.
 
-#### Artikel 14. Taken van het Comité veiligheid en beveiliging bij sportevenementen
+##### Artikel 14. Taken van het Comité veiligheid en beveiliging bij sportevenementen
 
 1. Het comité is verantwoordelijk voor het monitoren van de toepassing van dit Verdrag. Het kan in het bijzonder:
 
@@ -222,7 +244,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 4. Voor het vervullen van zijn taken kan het comité uit eigen beweging vergaderingen met deskundigen organiseren.
 
-#### Artikel 15. Wijzigingen
+##### Artikel 15. Wijzigingen
 
 1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door een partij, het Comité veiligheid en beveiliging bij sportevenementen of het Comité van Ministers van de Raad van Europa.
 
@@ -238,7 +260,7 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 ### SLOTBEPALINGEN
 
-#### Artikel 16. Ondertekening
+##### Artikel 16. Ondertekening
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, de staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) en elke niet-lidstaat van de Raad van Europa die voorafgaand aan de datum waarop dit Verdrag voor ondertekening wordt opengesteld, is toegetreden tot de [Europese Overeenkomst inzake gewelddadigheden door en wangedrag van toeschouwers rond sportevenementen en in het bijzonder rond voetbalwedstrijden](onbekend) (ETS nr. 120), opengesteld voor ondertekening te Straatsburg op 19 augustus 1985.
 
@@ -248,13 +270,13 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 4. Bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met het voorgaande lid, kan een verdragsluitende staat verklaren dat hij [Overeenkomst nr. 120](onbekend) blijft toepassen tot de inwerkingtreding van dit Verdrag volgens de bepalingen van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop drie lidstaten van de Raad van Europa hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht overeenkomstig het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=16&z=2020-04-01&g=2020-04-01).
 
 2. Met betrekking tot elke ondertekenende staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 18. Toetreding door niet-lidstaten
+##### Artikel 18. Toetreding door niet-lidstaten
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na overleg met de partijen, elke andere staat die geen lid is van de Raad van Europa uitnodigen toe te treden tot dit Verdrag, bij een besluit genomen met de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
 
@@ -262,13 +284,13 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 3. Een partij die geen lidstaat van de Raad van Europa is draagt bij aan de financiering van het Comité veiligheid en beveiliging bij sportevenementen, op een door het Comité van Ministers vast te stellen wijze.
 
-#### Artikel 19. Gevolgen van het Verdrag
+##### Artikel 19. Gevolgen van het Verdrag
 
 1. In de betrekkingen tussen een partij bij dit Verdrag en een partij bij [Overeenkomst nr. 120](onbekend) die dit Verdrag niet heeft bekrachtigd, blijven de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=4) en [5 van Overeenkomst nr. 120](https://wetten.overheid.nl/jci1.3:c:BWBV0002623&artikel=5) van toepassing.
 
 2. Indien een staat [Overeenkomst nr. 120](onbekend) heeft opgezegd, maar deze opzegging is nog niet van kracht op het tijdstip waarop dit Verdrag wordt bekrachtigd, dan is dit Verdrag, na de inwerkingtreding ervan, van toepassing in overeenstemming met de bepalingen van [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006615&artikel=17&z=2020-04-01&g=2020-04-01).
 
-#### Artikel 20. Territoriale toepassing
+##### Artikel 20. Territoriale toepassing
 
 1. Elke staat kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -276,13 +298,13 @@ Elke partij doet het Comité veiligheid en beveiliging bij sportevenementen alle
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22. Kennisgevingen
+##### Artikel 22. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend) en elke andere staat die is toegetreden tot dit Verdrag in kennis van:
 

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel tegemoetkoming visverbod voor het jaar 2015"
+title: "Beleidsregels van de Staatssecretaris van Economische Zaken van 25 april 2016, nr. WJZ/16009144, houdende de regels betreffende het verstrekken van een tegemoetkoming aan beroepsvissers die schade hebben geleden als gevolg van het verbod op grond van artikel 5.10 van de Wet dieren (Beleidsregel tegemoetkoming visverbod voor het jaar 2015)"
 identifier: "BWBR0037899"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-05-03
-laatste_update: 2016-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037899"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-05-03"
+last_updated: "2016-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037899"
+soort: "beleidsregel"
+stam_id: "13492993"
+version_id: "23153512"
+internal_id: "C33457061"
+label_id: "13459914"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037899/2016-05-03/0"
+intitule_bron: "Stcrt.2016-23602"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-25"
+intitule_published: "2016-05-02"
+intitule_in_force: "2016-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-23602"
+original_signed_date: "2016-04-25"
+original_published_date: "2016-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-23602"
+entry_into_force_date: "2016-05-03"
+jci_1_3: "jci1.3:c:BWBR0037899&z=2016-05-03&g=2016-05-03"
+jci_1_0: "1.0:c:BWBR0037899&g=2016-05-03"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel tegemoetkoming visverbod voor het jaar 2015"
+signed_date: "2016-04-25"
+entry_into_force: "2016-05-03"
 ---
-
 # Beleidsregels van de Staatssecretaris van Economische Zaken van 25 april 2016, nr. WJZ/16009144, houdende de regels betreffende het verstrekken van een tegemoetkoming aan beroepsvissers die schade hebben geleden als gevolg van het verbod op grond van artikel 5.10 van de Wet dieren (Beleidsregel tegemoetkoming visverbod voor het jaar 2015)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - **netto jaarresultaat:** omzet verminderd met de vaste en de variabele kosten, voordat dit bedrag is verminderd met de verschuldigde inkomsten- en vennootschapsbelasting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister verstrekt op aanvraag een tegemoetkoming aan degene die tot en met 31 december 2014 viste in de wateren, bedoeld in [bijlage 16 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=16), en wiens overeenkomst van huur van visrecht of schriftelijke toestemming voor het stellen van vaste vistuigen in 2015 door de Minister is opgezegd onderscheidenlijk ingetrokken als gevolg van het visverbod, bedoeld in [artikel 28b van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=28b), voor zover door de aanvrager geen vervangende vislocatie is geaccepteerd.
 
@@ -56,7 +82,7 @@ In deze beleidsregels wordt verstaan onder:
 
 8. De te verlenen tegemoetkoming, bedoeld in het eerste lid, en de overige steun die de aanvrager reeds heeft ontvangen op grond van de de-minimisverordening, bedraagt maximaal het bedrag aan de-minimis steun dat kan worden verstrekt op grond van de de-minimisverordening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Minister verstrekt op aanvraag een tegemoetkoming aan degene die tot en met 31 december 2014 viste in de wateren, bedoeld in [bijlage 16 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=16), en wiens overeenkomst van huur van visrecht of schriftelijke toestemming voor het stellen van vaste vistuigen in 2015 door de Minister is opgezegd onderscheidenlijk ingetrokken als gevolg van het visverbod, bedoeld in [artikel 28b van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=28b), voor zover door de aanvrager geen vervangende vislocatie is geaccepteerd.
 
@@ -78,7 +104,7 @@ In deze beleidsregels wordt verstaan onder:
 
 6. Indien bedrijfsmiddelen kunnen worden blijven ingezet voor de visserij, zal de tegemoetkoming naar rato worden toegekend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037899&artikel=2&z=2016-05-03&g=2016-05-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037899&artikel=3&z=2016-05-03&g=2016-05-03) kan gedurende een periode van zes weken worden ingediend. De periode vangt aan met ingang van de zevende dag volgend op de dag van inwerkingtreding van dit besluit.
 
@@ -90,15 +116,15 @@ In deze beleidsregels wordt verstaan onder:
 
 - c. een verklaring de-minimissteun, voor zover een beroep wordt gedaan op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037899&artikel=2&z=2016-05-03&g=2016-05-03).
 
-#### Artikel 5
+##### Artikel 5
 
 De tegemoetkoming, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037899&artikel=2&z=2016-05-03&g=2016-05-03), bevat staatssteun en wordt gerechtvaardigd door de de-minimisverordening.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel tegemoetkoming visverbod voor het jaar 2015.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 

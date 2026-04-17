@@ -1,24 +1,48 @@
 ---
 title: "Instelling Commissie schorsing en vrijhedenbeleid"
 identifier: "BWBR0005404"
-categorie: "Overig"
-publicatiedatum: 1992-01-31
-laatste_update: 1992-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005404"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-01-31"
+last_updated: "1992-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005404"
+soort: "ministeriele-regeling"
+stam_id: "4284263"
+version_id: "6047842"
+internal_id: "C6251241"
+label_id: "4262814"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005404/1992-01-31/0"
+intitule_bron: "Stcrt.1992-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-27"
+intitule_published: "1992-01-30"
+intitule_in_force: "1992-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-21"
+original_signed_date: "1992-01-27"
+original_published_date: "1992-01-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-31"
+jci_1_3: "jci1.3:c:BWBR0005404&z=1992-01-31&g=1992-01-31"
+jci_1_0: "1.0:c:BWBR0005404&g=1992-01-31"
+citeertitel_status: "officieel"
+signed_date: "1992-01-27"
+entry_into_force: "1992-01-31"
 ---
-
 # Instelling Commissie schorsing en vrijhedenbeleid
 
 Overwegende, dat het gelet op de noodzaak de belangen van de strafrechtelijke rechtshandhaving te waarborgen, wenselijk is onderzoek te doen instellen naar mogelijke verbeteringen in de wetgeving inzake schorsing van de voorlopige hechtenis en in de praktijk dienaangaande alsmede ten aanzien van de strafonderbreking en het verlof bij de tenuitvoerlegging van vrijheidsstraffen, opgelegd aan meerderjarigen.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Commissie schorsing en vrijhedenbeleid, verder te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak het vorenbedoelde onderzoek in te stellen en de analyse uit te voeren en de minister van Justitie voor 1 juni 1992 te adviseren over de wenselijkheid van:
 
@@ -28,11 +52,11 @@ De commissie heeft tot taak het vorenbedoelde onderzoek in te stellen en de anal
 
 - c. betere criteria voor het verlenen van verlof en effectievere benutting van de in aanmerking komende adviserende instanties hierbij.
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie kan andere dan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005404&artikel=2&z=1992-01-31&g=1992-01-31) genoemde vragen onderzoeken die haars inziens hiervoor in aanmerking komen en aan de minister van Justitie terzake advies uitbrengen.
 
-#### Artikel 4
+##### Artikel 4
 
 In de commissie hebben zitting:
 
@@ -58,14 +82,14 @@ In de commissie hebben zitting:
 
 - mr. J. N. Reinders, juridisch medewerker bij de Directie Staats- en Strafrecht van het Ministerie van Justitie.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie is bevoegd deskundigen uit te nodigen om aan de beraadslagingen in de commissie deel te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie kan zich wenden tot de onder de verantwoordelijkheid van de minister van Justitie ressorterende diensten en instellingen voor het verkrijgen van de inlichtingen die zij behoeft.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit, dat zal worden geplaatst in de Staatscourant en waarvan afschrift wordt gezonden aan de Algemene Rekenkamer, treedt in werking met ingang van de dag na die van dagtekening.

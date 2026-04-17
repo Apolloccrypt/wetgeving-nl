@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten"
+title: "Besluit van 17 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor diensten die toegang geven tot audiovisuele mediadiensten ter implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU, 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten)"
 identifier: "BWBR0049740"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049740"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049740"
+soort: "AMvB"
+stam_id: "17113593"
+version_id: "30119662"
+internal_id: "C43157081"
+label_id: "17022064"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049740/2025-06-28/0"
+intitule_bron: "Stb.2024-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-17"
+intitule_published: "2024-05-28"
+intitule_in_force: "2024-05-28"
+intitule_status: "goed"
+original_publication: "Stb.2024-136"
+original_signed_date: "2024-05-17"
+original_published_date: "2024-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-136"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0049740&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0049740&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten"
+signed_date: "2024-05-17"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit van 17 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor diensten die toegang geven tot audiovisuele mediadiensten ter implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU, 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang geven tot audiovisuele mediadiensten)
 
 Op voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, van 6 juli 2023, nr. WJZ/1307544 (ID14772) directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Onderwijs, Cultuur en Weten
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,17 +70,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **tot audiovisuele mediadiensten toegang verschaffende dienst:** door middel van elektronischecommunicatienetwerken uitgezonden dienst die gebruikt wordt om kennis te nemen van audiovisuele mediadiensten, ze te kiezen, er informatie over te ontvangen en ze te bekijken, alsmede alle beschikbaar gemaakte functies, zoals ondertiteling voor doven en slechthorenden, audiodescriptie, gesproken ondertiteling en vertolking in gebarentaal, die resulteren uit het toepassen van maatregelen voor het toegankelijk maken van die diensten in de zin van artikel 7 van [Richtlijn 2010/13/EU](32010L0013), alsmede elektronische programmagidsen.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Dit besluit is van toepassing op tot audiovisuele mediadiensten toegang verschaffende diensten die na 28 juni 2025 aan consumenten worden verleend.
 
-#### Artikel 3. Toegankelijkheidsvoorschriften
+##### Artikel 3. Toegankelijkheidsvoorschriften
 
 1. Tot audiovisuele mediadiensten toegang verschaffende diensten die worden aangeboden voldoen aan de toegankelijkheidsvoorschriften in bijlage I, afdeling III, en afdeling IV, aanhef en onder b, van de richtlijn.
 
 2. Micro-ondernemingen die tot audiovisuele mediadiensten toegang verschaffende diensten aanbieden zijn vrijgesteld van de verplichtingen vermeld in het eerste lid.
 
-#### Artikel 4. Verplichtingen van dienstverleners
+##### Artikel 4. Verplichtingen van dienstverleners
 
 1. Dienstverleners ontwerpen en verlenen tot audiovisuele mediadiensten toegang verschaffende diensten in overeenstemming met [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049740&artikel=3&z=2025-06-28&g=2025-06-28).
 
@@ -68,7 +94,7 @@ Dit besluit is van toepassing op tot audiovisuele mediadiensten toegang verschaf
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de verplichtingen, bedoeld in het eerste tot en met het vijfde lid.
 
-#### Artikel 5. Fundamentele wijziging en onevenredige last
+##### Artikel 5. Fundamentele wijziging en onevenredige last
 
 1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049740&artikel=3&z=2025-06-28&g=2025-06-28), bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving daarvan:
 
@@ -94,17 +120,17 @@ Dit besluit is van toepassing op tot audiovisuele mediadiensten toegang verschaf
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de beoordeling, bedoeld in het tweede lid.
 
-#### Artikel 6. Vermoeden van conformiteit
+##### Artikel 6. Vermoeden van conformiteit
 
 1. Tot audiovisuele mediadiensten toegang verschaffende diensten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het **Publicatieblad van de Europese Unie** zijn bekendgemaakt, worden geacht in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049740&artikel=3&z=2025-06-28&g=2025-06-28), voor zover deze normen of delen daarvan die voorschriften bestrijken.
 
 2. Tot audiovisuele mediadiensten toegang verschaffende diensten die in overeenstemming zijn met overeenkomstig artikel 15, derde lid, van de richtlijn vastgestelde technische specificaties of delen daarvan, worden geacht in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049740&artikel=3&z=2025-06-28&g=2025-06-28), voor zover deze technische specificaties of delen daarvan die voorschriften bestrijken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 28 juni 2025.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Implementatiebesluit toegankelijkheidsvoorschriften diensten die toegang verlenen tot audiovisuele mediadiensten.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit buitengewone registers van de burgerlijke stand"
+title: "Besluit van 26 maart 1942, houdende bepalingen nopens het ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland opmaken van authentieke akten betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de regeling van de overschrijving van de akten, bedoeld bij de artikelen 35, 60 en 61 van het Burgerlijk Wetboek"
 identifier: "BWBR0002005"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1943-03-24
-laatste_update: 1943-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002005"
+country: "nl"
+rank: "kb"
+publication_date: "1943-03-24"
+last_updated: "1943-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002005"
+soort: "KB"
+stam_id: "307103"
+version_id: "444822"
+internal_id: "C444821"
+label_id: "300764"
+dtd_version: "2.0"
+original_entry_into_force: "1942-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002005/1943-03-24/0"
+intitule_bron: "Stb.1942-C 20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1942-03-26"
+intitule_status: "goed"
+original_publication: "Stb.1942-C 20"
+original_signed_date: "1942-03-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1942-04-03"
+jci_1_3: "jci1.3:c:BWBR0002005&z=1943-03-24&g=1943-03-24"
+jci_1_0: "1.0:c:BWBR0002005&g=1943-03-24"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewone registers van de burgerlijke stand"
+signed_date: "1942-03-26"
+entry_into_force: "1942-04-03"
 ---
-
 # Besluit van 26 maart 1942, houdende bepalingen nopens het ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland opmaken van authentieke akten betreffende geboorten, gesloten huwelijken en gevallen van overlijden en de regeling van de overschrijving van de akten, bedoeld bij de artikelen 35, 60 en 61 van het Burgerlijk Wetboek
 
 Op de voordracht van Onze Ministers van Justitie en van Binnenlandsche Zaken van 16 Maart 1942, N°. 69/J.2243;
@@ -16,7 +38,7 @@ Overwegende, dat het wenschelijk is ten aanzien van Nederlanders in Groot-Britta
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Door Onzen Minister van Binnenlandsche Zaken worden ten aanzien van Nederlanders in Groot-Brittannië en Noord-Ierland registers gehouden van geboorte, gesloten huwelijk en overlijden. Deze registers zijn genaamd: "buitengewone registers van den burgerlijken stand".
 
@@ -26,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 4. Inschrijving in de registers kan geschieden op grond van mondelinge of schriftelijke aangifte of ambtshalve.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van alle registers wordt een dubbel gehouden.
 
 2. Alle bladzijden van de registers moeten door of vanwege Onzen Minister van Justitie worden gewaarmerkt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onzen Minister van Binnenlandsche Zaken is opgedragen de noodige buitengewone ambtenaren van den burgerlijken stand aan te stellen.
 
@@ -42,11 +64,11 @@ Hebben goedgevonden en verstaan:
 
 4. Zij zijn onderworpen aan de verplichtingen, voor ambtenaren van den burgerlijken stand bij de wet gesteld, voor zoover daarvan bij dit besluit niet is afgeweken.
 
-#### Artikel 4
+##### Artikel 4
 
 Het kantoor van den burgerlijken stand is gevestigd op het Departement van Binnenlandsche Zaken. Onze Minister van Binnenlandsche Zaken is gemachtigd, indien noodig, bijkantoren in te stellen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Behoudens het bepaalde in het tweede lid geschiedt inschrijving in de buitengewone registers van den burgerlijken stand slechts, indien van de geboorte, het huwelijk of het overlijden schriftelijk bewijs, althans begin van bewijs bij geschrifte wordt overgelegd; dit bewijs kan door alle bewijsmiddelen worden aangevuld.
 
@@ -58,7 +80,7 @@ Het kantoor van den burgerlijken stand is gevestigd op het Departement van Binne
 
 5. Van de ingevolge het derde en vierde lid genomen beslissingen staat gedurende een maand na den dag der beslissing beroep open bij Onzen Minister van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Iedere akte wordt geteekend door den buitengewonen ambtenaar van den burgerlijken stand, die haar heeft opgemaakt.
 
@@ -66,7 +88,7 @@ Het kantoor van den burgerlijken stand is gevestigd op het Departement van Binne
 
 3. Na deze voorlezing wordt de akte behalve door den ambtenaar ook door de verschenen personen geteekend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een ieder is bevoegd, zich tegen betaling door den buitengewonen ambtenaar van den burgerlijken stand afschriften van een akte te doen afgeven.
 
@@ -76,15 +98,15 @@ Het kantoor van den burgerlijken stand is gevestigd op het Departement van Binne
 
 4. Het tarief voor deze afschriften wordt door Onzen Minister van Binnenlandsche Zaken vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Na afloop der tegenwoordige buitengewonen omstandigheden zal door Ons worden beoordeeld, of en in hoeverre de gegevens, voorkomende in de buitengewone registers van den burgerlijken stand, zullen worden overgeschreven in registers van den burgerlijken stand in Nederland.
 
-#### Artikel 9
+##### Artikel 9
 
 De akten, opgenomen in de buitengewone registers van den burgerlijken stand, en de afschriften daarvan hebben geen bewijskracht ten aanzien van de nationaliteit der personen, omtrent wie aangifte wordt gedaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De akte van geboorte zal vermelden:
 
@@ -106,25 +128,25 @@ den datum der inschrijving.
 
 4. In ieder geval bevat de akte een omschrijving van de geschriften, welke tot bewijs hebben gestrekt en, zoo de ambtenaar zulks dienstig oordeelt, feiten, in bedoelde geschriften vermeld.
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer het kind buiten echt is geboren, wordt de naam van den vader niet in de akte vermeld, tenzij deze het kind, op de wijze als bij het Burgerlijk Wetboek is voorgeschreven, heeft erkend.
 
-#### Artikel 12
+##### Artikel 12
 
 Tot de aangifte van een geboorte zijn bevoegd: de vader, de moeder en personen, die bij de bevalling tegenwoordig zijn geweest.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Van geboorten, welke na de inwerkingtreding van dit besluit hebben plaats gevonden, zal de aangifte slechts kunnen geschieden binnen een maand na de geboorte.
 
 2. Na verloop van dezen termijn, alsmede met betrekking tot geboorten, welke na 14 Mei 1940, doch vóór den datum van inwerkingtreding van dit besluit hebben plaatsgevonden, zal inschrijving uitsluitend ambtshalve kunnen geschieden.
 
-#### Artikel 14
+##### Artikel 14
 
 Met betrekking tot geboorten, welke aan boord van een schip plaats vinden, blijven de artikelen 35, 36 en 37 van het Burgerlijk Wetboek van toepassing, met dien verstande, dat de opzending van het uittreksel, bedoeld in artikel 37 van dat wetboek, zal geschieden aan den buitengewonen ambtenaar van den burgerlijken stand, die daarop verplicht zal zijn tot inschrijving overeenkomstig de bepalingen van dit besluit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De akte van gesloten huwelijk zal vermelden:
 
@@ -152,25 +174,25 @@ den datum der inschrijving.
 
 5. In elk geval bevat de akte een omschrijving van de geschriften, welke tot bewijs hebben gestrekt, en, zoo de ambtenaar zulks dienstig oordeelt, feiten, in bedoelde geschriften vermeld.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien het betreft een huwelijk tusschen personen, die met elkander hertrouwen, nadat hun vorig huwelijk is ontbonden, zal de akte van gesloten huwelijk mede vermelden den dag en de plaats der voltrekking van dat vorig huwelijk.
 
-#### Artikel 17
+##### Artikel 17
 
 Tot aangifte van een gesloten huwelijk zijn bevoegd de echtgenooten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van huwelijken, welke na de inwerkingtreding van dit besluit zijn gesloten, zal de aangifte slechts kunnen geschieden binnen een maand na het sluiten van het huwelijk.
 
 2. Na verloop van dezen termijn, alsmede met betrekking tot huwelijken, welke na 14 Mei 1940, doch vóór den datum van inwerkingtreding van dit besluit zijn gesloten, zal inschrijving uitsluitend ambtshalve kunnen geschieden.
 
-#### Artikel 19
+##### Artikel 19
 
 De inschrijving van een akte van gesloten huwelijk in de buitengewone registers van den burgerlijken stand geeft geen ontheffing van de verplichting tot overschrijving in de registers van den burgerlijken stand in Nederland van de akte van voltrekking van een huwelijk, in een vreemd land aangegaan, zooals bepaald in artikel 139 van het Burgerlijk Wetboek, tenzij ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002005&artikel=8&z=1943-03-24&g=1943-03-24) van dit besluit anders mocht worden bepaald.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De akte van overlijden zal bevatten:
 
@@ -192,11 +214,11 @@ den datum der inschrijving.
 
 4. In elk geval bevat de akte een omschrijving van de geschriften, welke tot bewijs hebben gestrekt, en, zoo de ambtenaar zulks dienstig oordeelt, feiten, in bedoelde geschriften vermeld.
 
-#### Artikel 21
+##### Artikel 21
 
 Tot de aangifte zijn bevoegd de echtgenoot, de familieleden in de rechte lijn van den overledene, alsmede een ieder, die van het overlijden uit eigen wetenschap kennis draagt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De buitengewonen ambtenaar van den burgerlijken stand zal geen akte van overlijden van een pas geboren kind mogen inschrijven, tenzij aan hem zal zijn gebleken, dat de geboorte van het kind in het daartoe bestemde register is ingeschreven.
 
@@ -206,17 +228,17 @@ Tot de aangifte zijn bevoegd de echtgenoot, de familieleden in de rechte lijn va
 
 4. Door deze inschrijving zal niet zijn beslist, of het kind levend, dan wel dood ter wereld is gekomen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Van overlijdensgevallen, welke na de inwerkingtreding van dit besluit hebben plaats gevonden, zal de aangifte slechts kunnen geschieden binnen een maand na het overlijden.
 
 2. Na verloop van dezen termijn, alsmede met betrekking tot overlijdensgevallen, welke na 14 Mei 1940, doch vóór den datum van de inwerkingtreding van dit besluit hebben plaats gevonden, zal de inschrijving uitsluitend ambtshalve kunnen geschieden.
 
-#### Artikel 24
+##### Artikel 24
 
 Artikel 60 van het Burgerlijk Wetboek blijft van toepassing, met dien verstande, dat, anders dan in het derde lid van dat artikel is bepaald, de toezending van het uittreksel zal geschieden aan den buitengewonen ambtenaar van den burgerlijken stand, die daarop verplicht zal zijn tot inschrijving overeenkomstig de bepalingen van dit besluit.
 
-#### Artikel 25
+##### Artikel 25
 
 Ons besluit van 1 April 1909 (**Staatsblad** N°. 87) zooals dit laatstelijk is gewijzigd bij Ons besluit van 24 Maart 1927 (**Staatsblad** N°. 61) blijft van kracht, behoudens dat, voor zoover betreft de akten, in artikel 2 van dat besluit bedoeld,
 
@@ -224,7 +246,7 @@ Ons besluit van 1 April 1909 (**Staatsblad** N°. 87) zooals dit laatstelijk is 
 
 - b. indien de omstandigheden aan het Hoofd van het Departement van Justitie niet veroorloven te handelen overeenkomstig het bepaalde in artikel 6, tweede lid, onder **b**, van dat besluit, de daar bedoelde toezending geschiedt aan den buitengewonen ambtenaar van den burgerlijken stand, die daarop verplicht zal zijn tot inschrijving overeenkomstig de bepalingen van het onderhavige besluit.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Verbetering van buitengewone akten van den burgerlijken stand kan geschieden op last van Onzen Minister van Binnenlandsche Zaken, Onze Minister van Justitie gehoord.
 
@@ -232,7 +254,7 @@ Ons besluit van 1 April 1909 (**Staatsblad** N°. 87) zooals dit laatstelijk is 
 
 3. Verbeteringen worden gesteld op den kant der akte en door of vanwege Onzen Minister van Binnenlandsche Zaken gewaarmerkt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De buitengewone ambtenaar van den burgerlijken stand vermeldt op den kant der akte van geboorte:
 
@@ -244,7 +266,7 @@ Ons besluit van 1 April 1909 (**Staatsblad** N°. 87) zooals dit laatstelijk is 
 
 het overlijden van een der partijen, indien hij wegens het inschrijven van een akte van overlijden hiervan kennis verkrijgt.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit treedt in werking met ingang van den dag volgende op dien zijner opneming in het **Staatsblad**.
 

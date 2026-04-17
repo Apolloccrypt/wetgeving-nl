@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds, in verband met de toetreding van de Republiek Bulgarije, de Republiek Kroatië en Roemenië tot de Europese Unie"
 identifier: "BWBV0006997"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-04-01
-laatste_update: 2022-09-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006997"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-04-01"
+last_updated: "2022-09-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006997"
+soort: "verdrag"
+stam_id: "10005628713"
+version_id: "10006197172"
+internal_id: "C10009993181"
+label_id: "10005610584"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006997/2023-04-01/0"
+intitule_bron: "Trb.2023-69"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-06-20"
+intitule_in_force: "2023-06-20"
+intitule_status: "goed"
+original_publication: "Trb.2023-69"
+original_published_date: "2023-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2023-69"
+entry_into_force_date: "2023-04-01"
+jci_1_3: "jci1.3:c:BWBV0006997&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBV0006997&g=2023-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-04-01"
 ---
-
 # Protocol bij de samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds, in verband met de toetreding van de Republiek Bulgarije, de Republiek Kroatië en Roemenië tot de Europese Unie
 
 de Europese Unie,
@@ -90,19 +112,19 @@ Gezien artikel 6, lid 2, van de Akte betreffende de toetredingsvoorwaarden voor 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Bulgarije, de Republiek Kroatië en Roemenië worden partijen bij de [Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Korea, anderzijds](onbekend), en dienen, op dezelfde wijze als de andere lidstaten, de teksten van de overeenkomst goed te keuren en er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit protocol maakt een integrerend deel uit van [de overeenkomst](onbekend).
 
-#### Artikel 3
+##### Artikel 3
 
 De teksten van [de overeenkomst](onbekend) in de Bulgaarse, de Kroatische en de Roemeense taal zijn aan dit protocol gehecht.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit protocol treedt in werking op de eerste dag van de maand volgende op de datum waarop de partijen de depositaris van [de overeenkomst](onbekend) door middel van de uitwisseling van diplomatieke nota's in kennis hebben gesteld van de voltooiing van hun respectieve interne wettelijke procedures voor de inwerkingtreding van dit protocol.
 

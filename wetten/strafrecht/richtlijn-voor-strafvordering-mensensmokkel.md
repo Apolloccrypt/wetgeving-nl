@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering mensensmokkel"
 identifier: "BWBR0040703"
-categorie: "Strafrecht"
-publicatiedatum: 2018-03-15
-laatste_update: 2018-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040703"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-03-15"
+last_updated: "2018-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040703"
+soort: "beleidsregel"
+stam_id: "14565463"
+version_id: "24927512"
+internal_id: "C35652471"
+label_id: "14519274"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040703/2018-03-15/0"
+intitule_bron: "Stcrt.2018-13535"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-03-12"
+intitule_in_force: "2018-03-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-13535"
+original_published_date: "2018-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-13535"
+entry_into_force_date: "2018-03-15"
+jci_1_3: "jci1.3:c:BWBR0040703&z=2018-03-15&g=2018-03-15"
+jci_1_0: "1.0:c:BWBR0040703&g=2018-03-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-03-15"
 ---
-
 # Richtlijn voor strafvordering mensensmokkel
 
 Deze richtlijn heeft betrekking op mensensmokkel, strafbaar gesteld in [artikel 197a Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=197a). Bij mensensmokkel gaat het om hulp bij illegale toegang, doorreis en verblijf.

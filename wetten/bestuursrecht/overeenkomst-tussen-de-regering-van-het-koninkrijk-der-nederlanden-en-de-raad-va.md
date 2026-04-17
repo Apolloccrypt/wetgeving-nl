@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Raad van Bestuur ingesteld bij het Statuut van de Europese School, betreffende het functioneren van de Europese School in Nederland"
 identifier: "BWBV0004220"
-categorie: "Bestuursrecht"
-publicatiedatum: 1970-10-14
-laatste_update: 1970-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004220"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-10-14"
+last_updated: "1970-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004220"
+soort: "verdrag"
+stam_id: "10004007903"
+version_id: "10004168942"
+internal_id: "C10008336131"
+label_id: "10003992454"
+dtd_version: "2.0"
+original_entry_into_force: "1970-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004220/1970-10-14/0"
+intitule_bron: "Trb.1970-95"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1970-06-24"
+intitule_in_force: "1970-10-20"
+intitule_status: "goed"
+original_publication: "Trb.1970-95"
+original_published_date: "1970-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1970-95"
+entry_into_force_date: "1970-10-14"
+jci_1_3: "jci1.3:c:BWBV0004220&z=1970-10-14&g=1970-10-14"
+jci_1_0: "1.0:c:BWBV0004220&g=1970-10-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-10-14"
 ---
-
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Raad van Bestuur ingesteld bij het Statuut van de Europese School, betreffende het functioneren van de Europese School in Nederland
 
 De Regering van het Koninkrijk der Nederlanden (hierna te noemen: de Regering) en de Raad van Bestuur ingesteld bij het op 12 april 1957 te Luxemburg ondertekende Statuut van de Europese School (hierna te noemen: de Raad van Bestuur),
@@ -18,29 +40,29 @@ Verlangende, overeenkomstig de doelstellingen van genoemd Statuut en genoemd Pro
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 (1). De Regering stelt kosteloos ter beschikking van de School de gebouwen welke voor het doelmatig functioneren van de School, volgens de doelstellingen omschreven in het Statuut van de Europese School, noodzakelijk zijn. Ook stelt zij kosteloos ter beschikking de vaste inrichting van deze gebouwen, overeenkomstig de praktijk ten aanzien van vergelijkbare Nederlandse instellingen van onderwijs.
 
 (2). Ten aanzien van het onderhoud van gebouwen en inrichting, het herstel van schade welke daaraan is ontstaan en het verstrekken aan de School van leermiddelen, handelt de Regering overeenkomstig de praktijk ten aanzien van vergelijkbare Nederlandse instellingen van onderwijs. Onder leermiddelen worden in dit artikel niet verstaan de schoolboeken en het schrijf- en tekenmateriaal van de leerlingen.
 
-#### Artikel II
+##### Artikel II
 
 (1). Kinderen van Nederlandse nationaliteit wier ouders of pleegouders niet op enigerlei wijze aan een instelling in Nederland van een der Europese Gemeenschappen of aan de School zelve zijn verbonden, zijn niet gerechtigd tot het volgen van onderwijs aan de School, tenzij de Nederlandse Minister van Onderwijs en Wetenschappen in een bijzonder geval anders heeft bepaald.
 
 (2). Kinderen van Nederlandse nationaliteit wier ouders of pleegouders zijn verbonden aan een vestiging in Nederland van een intergouvernementele organisatie of instelling, een privaatrechtelijk orgaan of privaatrechtelijke instelling, waarmede de Raad van Bestuur een overeenkomst zoals bedoeld in artikel 4 of 5 van het Protocol nopens de oprichting van Europese Scholen zou sluiten, zijn gerechtigd tot het volgen van onderwijs aan de School, tenzij in de betreffende overeenkomst anders wordt bepaald.
 
-#### Artikel III
+##### Artikel III
 
 De eigendommen van de School zijn niet vatbaar voor vordering en verbeurdverklaring.
 
-#### Artikel IV
+##### Artikel IV
 
 (1). De School en haar bezittingen en inkomsten zijn vrijgesteld van alle directe belastingen.
 
 (2). Geen enkele vrijstelling wordt verleend van belastingen, heffingen en rechten welke niets anders zijn dan een vergoeding voor diensten van openbaar nut.
 
-#### Artikel V
+##### Artikel V
 
 (1). De goederen die de School voor haar officieel gebruik nodig heeft zijn vrijgesteld van alle rechten en heffingen welke ter zake van de invoer worden geheven. Ten aanzien van bedoelde goederen geldt generlei in- of uitvoerverbod of -beperking.
 
@@ -48,31 +70,31 @@ De eigendommen van de School zijn niet vatbaar voor vordering en verbeurdverklar
 
 (3). Voor de toepassing van het eerste lid van dit artikel worden publikaties van de School gelijkgesteld met „goederen die de School voor haar officieel gebruik nodig heeft”.
 
-#### Artikel VI
+##### Artikel VI
 
 Wanneer de School aankopen doet welke noodzakelijk zijn voor de uitoefening van haar officiële taak en in de prijs daarvan omzetbelasting is begrepen, zal de Regering geëigende maatregelen nemen om het bedrag van de belasting kwijt te schelden of terug te betalen aan de School.
 
-#### Artikel VII
+##### Artikel VII
 
 De leden van de Raad van Bestuur en van de Commissies van Inspecteurs genieten gedurende de uitoefening van hun functie en op hun reizen naar en van de plaats van vergadering de voorrechten, immuniteiten of faciliteiten, bedoeld in artikel 11 van het op 8 april 1965 te Brussel ondertekende Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De Directeur en de leden van het onderwijzend en het gedetacheerd administratief personeel van de School die in Nederland hun werkzaamheden uitoefenen, genieten met betrekking tot hun deviezenrechtelijke positie dezelfde faciliteiten als ambtenaren van buitenlandse diplomatieke zendingen in het Koninkrijk der Nederlanden. Dientengevolge worden zij behandeld als ingezetenen in de zin van artikel 2, letter (d), van de Deviezenbekendmaking 2/61 van 11 september 1961 (Bijvoegsel bij de Nederlandse Staatscourant nr. 179 van 14 september 1961).
 
-#### Artikel IX
+##### Artikel IX
 
 Op de Directeur en de leden van het onderwijzend en het gedetacheerd administratief personeel van de School, op wie de wetgeving inzake sociale verzekering van een andere Staat van toepassing is, alsmede op hun echtgenoten en kinderen voor zover deze kinderen geen bedrijf of beroep uitoefenen noch aan de Nederlandse loonbelasting zijn onderworpen, is de Nederlandse sociale verzekeringswetgeving niet van toepassing.
 
-#### Artikel X
+##### Artikel X
 
 De namen, hoedanigheden en adressen van de Directeur, van de leden van het onderwijzend en het gedetacheerd administratief personeel van de School, alsmede van hun gezinsleden, worden op gezette tijden aan de Minister van Buitenlandse Zaken van het Koninkrijk der Nederlanden medegedeeld.
 
-#### Artikel XI
+##### Artikel XI
 
 De voorrechten, immuniteiten en faciliteiten voorzien in deze Overeenkomst worden uitsluitend in het belang van de School verleend.
 
-#### Artikel XII
+##### Artikel XII
 
 (1). Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst alleen voor het in Europa gelegen deel van het Koninkrijk.
 

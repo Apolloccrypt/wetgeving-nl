@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel ontheffing overzetten aal"
+title: "Beleidsregel van de Staatssecretaris van Economische Zaken van 12 juli 2013, nr. WJZ / 13117209, houdende gevallen waarin ontheffing van het visverbod zal worden verleend ten behoeve van het overzetten van aal op locaties die de uittrek naar zee bemoeilijken (Beleidsregel ontheffing overzetten aal)"
 identifier: "BWBR0033699"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-07-23
-laatste_update: 2013-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033699"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-07-23"
+last_updated: "2013-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033699"
+soort: "beleidsregel"
+stam_id: "12319203"
+version_id: "20656742"
+internal_id: "C29572321"
+label_id: "12290294"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033699/2013-07-23/0"
+intitule_bron: "Stcrt.2013-20463"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-12"
+intitule_published: "2013-07-22"
+intitule_in_force: "2013-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-20463"
+original_signed_date: "2013-07-12"
+original_published_date: "2013-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-20463"
+entry_into_force_date: "2013-07-23"
+jci_1_3: "jci1.3:c:BWBR0033699&z=2013-07-23&g=2013-07-23"
+jci_1_0: "1.0:c:BWBR0033699&g=2013-07-23"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ontheffing overzetten aal"
+signed_date: "2013-07-12"
+entry_into_force: "2013-07-23"
 ---
-
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 12 juli 2013, nr. WJZ / 13117209, houdende gevallen waarin ontheffing van het visverbod zal worden verleend ten behoeve van het overzetten van aal op locaties die de uittrek naar zee bemoeilijken (Beleidsregel ontheffing overzetten aal)
 
 Gelet op [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=11) en [12 van het Reglement voor de binnenvisserij 1985](https://wetten.overheid.nl/jci1.3:c:BWBR0009027&artikel=12), [artikel 10.1, eerste en derde lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.1) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ontheffing van het verbod, bedoeld in [artikel 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=32a), en in voorkomend geval van [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=23a), [23b](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=23b) en [28b van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&artikel=28b), ten behoeve van het overzetten van schieraal voorbij locaties die voor die aal bij uittrek een verhoogd risico op sterfte opleveren, wordt op aanvraag verleend.
 
@@ -30,7 +56,7 @@ Besluit:
 
 - e. de beheerder, bedoeld in [artikel 1.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=1.1), heeft aangegeven geen bezwaar te hebben tegen het overzetten.
 
-#### Artikel 2
+##### Artikel 2
 
 Een aanvraag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033699&artikel=1&z=2013-07-23&g=2013-07-23) gaat vergezeld van:
 
@@ -52,7 +78,7 @@ Een aanvraag als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - b. een document waaruit blijkt dat aan het vereiste van [artikel 1, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0033699&artikel=1&z=2013-07-23&g=2013-07-23), is voldaan.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033699&artikel=1&z=2013-07-23&g=2013-07-23) worden in ieder geval de volgende voorschriften verbonden:
 
@@ -66,11 +92,11 @@ Aan een ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:
 
 - e. wolhandkrab, gevangen in de gebieden, genoemd in [bijlage 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=15) en [16 van de Uitvoeringsregeling visserij](https://wetten.overheid.nl/jci1.3:c:BWBR0024539&bijlage=16), wordt onmiddellijk weer uitgezet.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffing overzetten aal.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

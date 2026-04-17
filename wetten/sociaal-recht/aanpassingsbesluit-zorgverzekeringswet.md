@@ -1,100 +1,126 @@
 ---
-title: "Aanpassingsbesluit Zorgverzekeringswet"
+title: "Besluit van 15 december 2005, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Zorgverzekeringswet (Aanpassingsbesluit Zorgverzekeringswet)"
 identifier: "BWBR0019289"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019289"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019289"
+soort: "AMvB"
+stam_id: "7736773"
+version_id: "12621732"
+internal_id: "C17000341"
+label_id: "7725064"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019289/2015-01-01/0"
+intitule_bron: "Stb.2005-690"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-15"
+intitule_published: "2005-12-22"
+intitule_in_force: "2005-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2005-690"
+original_signed_date: "2005-12-15"
+original_published_date: "2005-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-690"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019289&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0019289&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit Zorgverzekeringswet"
+signed_date: "2005-12-15"
+entry_into_force: "2006-01-01"
 ---
-
 # Besluit van 15 december 2005, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Zorgverzekeringswet (Aanpassingsbesluit Zorgverzekeringswet)
 
 ### Hoofdstuk 1. Volksgezondheid, Welzijn en Sport
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Wijzigt het Administratiebesluit Bijzondere Ziektekostenverzekering.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Wijzigt het Besluit bijdrage AWBZ-gemeenten.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Wijzigt het Besluit donorregister.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 1. Het [Besluit opheffing contracteerplicht extramurale zorg AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0017107) berust met ingang van de datum van inwerkingtreding van de [Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830) op [artikel 16b, derde lid, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=16).
 
 2. IWijzigt het Besluit opheffing contracteerplicht extramurale zorg AWBZ.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 Wijzigt het Besluit opleidingseisen verpleegkundige.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering.
 
-#### Artikel 1.8
+##### Artikel 1.8
 
 Het [Besluit werkingssfeer maximumtarieven WTG](https://wetten.overheid.nl/jci1.3:c:BWBR0005343) wordt ingetrokken.
 
-#### Artikel 1.9
+##### Artikel 1.9
 
 Wijzigt het Besluit werkingssfeer WTG 1992.
 
-#### Artikel 1.10
+##### Artikel 1.10
 
 Wijzigt het Besluit zorgaanspraken AWBZ.
 
-#### Artikel 1.11
+##### Artikel 1.11
 
 Wijzigt het Besluit zorgverzekering.
 
-#### Artikel 1.12
+##### Artikel 1.12
 
 Wijzigt het Uitvoeringsbesluit artikel 1, tweede lid, Kwaliteitswet zorginstellingen, enz.
 
-#### Artikel 1.13
+##### Artikel 1.13
 
 Wijzigt het Bijdragebesluit zorg.
 
-#### Artikel 1.14
+##### Artikel 1.14
 
 Wijzigt het Inschrijvingsbesluit bijzondere ziektekostenverzekering 1992.
 
-#### Artikel 1.15
+##### Artikel 1.15
 
 Wijzigt het Opiumwetbesluit.
 
-#### Artikel 1.16
+##### Artikel 1.16
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel 1.17
+##### Artikel 1.17
 
 Wijzigt het Tijdelijk besluit tegemoetkoming buitengewone uitgaven.
 
-#### Artikel 1.18
+##### Artikel 1.18
 
 Wijzigt het Uitvoeringsbesluit Wet op de jeugdzorg.
 
-#### Artikel 1.19
+##### Artikel 1.19
 
 Wijzigt het Vrijstellingsbesluit WTG.
 
-#### Artikel 1.20
+##### Artikel 1.20
 
 Wijzigt het Zorgindicatiebesluit.
 
-#### Artikel 1.21
+##### Artikel 1.21
 
 Ingetrokken worden:
 
@@ -128,7 +154,7 @@ Ingetrokken worden:
 
 - o. het [Besluit invoering individuele tarifering apotheekhoudenden WTG](https://wetten.overheid.nl/jci1.3:c:BWBR0005343).
 
-#### Artikel 1.22
+##### Artikel 1.22
 
 1. De persoon die op de dag voorafgaande aan de inwerkingtreding van [artikel 1.6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0019289&hoofdstuk=1&artikel=1.6&z=2015-01-01&g=2015-01-01), verzekerd was op grond van [artikel 5 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=5), en aanspraak had op een uitkering als bedoeld in [artikel 20, eerste lid, onder b, van het Besluit zorgaanspraken AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0014149&artikel=20), behoudt aanspraak op zodanige uitkering voor de kosten van zorg waarop op die dag aanspraak bestond op grond van [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=6), voor zover:
 
@@ -140,13 +166,13 @@ Ingetrokken worden:
 
 3. De [artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=3.1.3) zijn van overeenkomstige toepassing.
 
-#### Artikel 1.23
+##### Artikel 1.23
 
 1. De zorgverzekeraar, bedoeld in [artikel 1, onderdeel b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) verlangt van een verzekerde als bedoeld in [artikel 1, onderdeel f, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) die op de dag voorafgaande aan de inwerkingtreding van de in [artikel 4.3, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=4.3) genoemde bepalingen van [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) in het bezit was van een indicatiebesluit, een door een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1) verleende toestemming of een verwijzing voor de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1) geregelde zorg, niet dat toestemming wordt gevraagd of een verwijzing wordt overgelegd. Het indicatiebesluit, de toestemming of de verwijzing gelden als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor het indicatiebesluit, de toestemming of de verwijzing geldt.
 
 2. Indien een verzekerde als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) ingevolge de zorgverzekering recht heeft op de levering van zorg door zijn zorgverzekeraar en op de dag voorafgaande aan de inwerkingtreding van de in [artikel 4.3, tweede lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=4.3) genoemde bepalingen van [dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) als verzekerde ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) in dat artikel geregelde zorg ontving van een zorgaanbieder met welke de zorgverzekeraar daartoe geen overeenkomst heeft gesloten, heeft de verzekerde desalniettemin recht op zorgverlening door die zorgaanbieder voor rekening van de zorgverzekeraar.
 
-#### Artikel 1.24
+##### Artikel 1.24
 
 Vervallen
 
@@ -242,141 +268,141 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Volksgezondheid, Welzijn en Sport
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Wijzigt het Besluit tarieven in strafzaken 2003.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 Wijzigt het Besluit ex artikel 162 Wetboek van Strafvordering.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Wijzigt het Besluit aanwijzing instanties of personen die de raden voor de kinderbescherming kosteloos inlichtingen verschaffen.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Wijzigt de Penitentiaire maatregel.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 Wijzigt het Reglement verpleging ter beschikking gestelden.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Wijzigt het Uitvoeringsbesluit Remigratiewet.
 
 ### Hoofdstuk 3. Binnenlandse Zaken en Koninkrijksrelaties
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Wijzigt het Besluit BIBOB.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.
 
 ### Hoofdstuk 4. Onderwijs, Cultuur en Wetenschap
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Wijzigt het Besluit studiefinanciering 2000.
 
 ### Hoofdstuk 5. Financiën
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Hoofdstuk 6. Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Wijzigt het Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Wijzigt het Huursubsidiebesluit.
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 7. Economische Zaken
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Wijzigt het Handelsregisterbesluit 1996.
 
 ### Hoofdstuk 8. Sociale Zaken en Werkgelegenheid
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Wijzigt het Besluit aanspraken van schepelingen die niet verzekerd zijn ingevolge de Ziektewet.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Wijzigt het Besluit verstrekking financiële informatie aan ondernemingsraden 1985.
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Wijzigt het Inkomensbesluit IOAW.
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Wijzigt het Inkomensbesluit Toeslagenwet.
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Wijzigt het Inkomens- en samenloopbesluit Anw.
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 Ten aanzien van aanspraken, rechten en verplichtingen welke voor het tijdstip van inwerkingtreding van dit besluit zijn ontstaan krachtens bij dit besluit ingetrokken algemene maatregelen van bestuur, dan wel na dat tijdstip zijn ontstaan terzake van de afwikkeling van zodanige maatregelen, blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip, behoudens voor zover in dit besluit afwijkende regels zijn gesteld.
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Vervallen
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit Zorgverzekeringswet.
 

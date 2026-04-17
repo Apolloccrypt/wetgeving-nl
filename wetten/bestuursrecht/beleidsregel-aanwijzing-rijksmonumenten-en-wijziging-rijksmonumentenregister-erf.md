@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2016, nr. WJZ/1013167 (7544), inzake het aanwijzen van rijksmonumenten en het wijzigen van het rijksmonumentenregister, bedoeld in artikel 3.1, eerste lid, onderscheidenlijk artikel 3.4 van de Erfgoedwet (Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet)"
 identifier: "BWBR0038125"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-06-30
-laatste_update: 2016-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038125"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-06-30"
+last_updated: "2016-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038125"
+soort: "beleidsregel"
+stam_id: "13664033"
+version_id: "23398142"
+internal_id: "C33722841"
+label_id: "13630784"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038125/2016-06-30/0"
+intitule_bron: "Stcrt.2016-33906"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-25"
+intitule_published: "2016-06-30"
+intitule_in_force: "2016-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-33906"
+original_signed_date: "2016-06-25"
+original_published_date: "2016-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-33906"
+entry_into_force_date: "2016-06-30"
+jci_1_3: "jci1.3:c:BWBR0038125&z=2016-06-30&g=2016-06-30"
+jci_1_0: "1.0:c:BWBR0038125&g=2016-06-30"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet"
+signed_date: "2016-06-25"
+entry_into_force: "2016-06-30"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 25 juni 2016, nr. WJZ/1013167 (7544), inzake het aanwijzen van rijksmonumenten en het wijzigen van het rijksmonumentenregister, bedoeld in artikel 3.1, eerste lid, onderscheidenlijk artikel 3.4 van de Erfgoedwet (Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1), en [3.4, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **waarderingscriteria:** actuele uitwerking van de criteria schoonheid, betekenis voor de wetenschap en cultuurhistorische waarde in [artikel 3.1, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1), zoals gepubliceerd op de website van de Rijksdienst voor het Cultureel Erfgoed.
 
-#### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2. Reikwijdte beleidsregel
 
 Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt van de bevoegdheid tot het:
 
@@ -54,7 +80,7 @@ Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt 
 
 #### Paragraaf 2. Algemene criteria
 
-#### Artikel 3. Terughoudend aanwijzingsbeleid
+##### Artikel 3. Terughoudend aanwijzingsbeleid
 
 1. De Minister maakt terughoudend gebruik van de bevoegdheid tot aanwijzing, bedoeld in [artikel 3.1 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=3.1).
 
@@ -64,17 +90,17 @@ Deze beleidsregel heeft betrekking op de wijze waarop de Minister gebruik maakt 
 
 4. De Minister kan een monument of archeologisch monument in afwijking van het derde lid aanwijzen als rijksmonument indien nieuwe feiten of veranderde omstandigheden daar naar het oordeel van de Minister aanleiding toe geven.
 
-#### Artikel 4. Aanwijzing via aanwijzingsprogramma of verbeterprogramma
+##### Artikel 4. Aanwijzing via aanwijzingsprogramma of verbeterprogramma
 
 De aanwijzing van monumenten of archeologische monumenten als rijksmonument geschiedt bij voorkeur op basis van een aanwijzingsprogramma of verbeterprogramma.
 
-#### Artikel 5. Criteria schrappen rijksmonument uit het rijksmonumentenregister
+##### Artikel 5. Criteria schrappen rijksmonument uit het rijksmonumentenregister
 
 1. Bij het geheel of gedeeltelijk schrappen van een rijksmonument uit het rijksmonumentenregister neemt de Minister de waarderingscriteria als uitgangspunt.
 
 2. De Minister betrekt bij zijn besluit tevens de overwegingen die oorspronkelijk ten grondslag lagen aan de aanwijzing als rijksmonument en de mate waarin deze nog van toepassing zijn op het rijksmonument.
 
-#### Artikel 6. Andere wijzigingen in het rijksmonumentenregister
+##### Artikel 6. Andere wijzigingen in het rijksmonumentenregister
 
 1. De Minister kan ambtshalve een wijziging aanbrengen in de identificerende gegevens van een rijksmonument ter verbetering van het rijksmonumentenregister, indien het register met betrekking tot dit rijksmonument naar het oordeel van de Minister:
 
@@ -94,11 +120,11 @@ De aanwijzing van monumenten of archeologische monumenten als rijksmonument gesc
 
 #### Paragraaf 3. Monumenten
 
-#### Artikel 7. Selectiecriteria aanwijzingsprogramma
+##### Artikel 7. Selectiecriteria aanwijzingsprogramma
 
 De selectiecriteria voor een aanwijzingsprogramma worden samen met dit programma bekendgemaakt op de website van de Rijksdienst voor het Cultureel Erfgoed.
 
-#### Artikel 8. Criteria verbeterprogramma monumenten
+##### Artikel 8. Criteria verbeterprogramma monumenten
 
 Bij het opstellen van een verbeterprogramma voor monumenten past de Minister bij de aanwijzing van een monument als rijksmonument in ieder geval de volgende criteria toe:
 
@@ -106,7 +132,7 @@ Bij het opstellen van een verbeterprogramma voor monumenten past de Minister bij
 
 - b. vormt als onderdeel van het desbetreffende verbeterprogramma een wezenlijke aanvulling op het rijksmonumentenbestand.
 
-#### Artikel 9. Criteria incidentele aanwijzing van monumenten vervaardigd voor 1966
+##### Artikel 9. Criteria incidentele aanwijzing van monumenten vervaardigd voor 1966
 
 De Minister kan een monument dat is vervaardigd voor 1966 ambtshalve aanwijzen, indien het monument naar verwachting niet in aanmerking komt voor bescherming in het kader van een aanwijzingsprogramma of verbeterprogramma en het monument:
 
@@ -118,17 +144,17 @@ De Minister kan een monument dat is vervaardigd voor 1966 ambtshalve aanwijzen, 
 
 - d. naar het oordeel van de Minister een essentiële aanvulling op het rijksmonumentenbestand vormt en daarvoor van onmiskenbare meerwaarde is.
 
-#### Artikel 10. Aanwijzing van monumenten van na 1965
+##### Artikel 10. Aanwijzing van monumenten van na 1965
 
 De Minister kan monumenten die zijn ontworpen na 1965 uitsluitend aanwijzen als rijksmonument op basis van een aanwijzingsprogramma.
 
 #### Paragraaf 4. Archeologische monumenten
 
-#### Artikel 11. Criteria aanwijzingsprogramma
+##### Artikel 11. Criteria aanwijzingsprogramma
 
 De selectiecriteria voor een aanwijzingsprogramma worden samen met dit programma bekendgemaakt op de website van de Rijksdienst voor het Cultureel Erfgoed.
 
-#### Artikel 12. Criteria incidentele aanwijzing van archeologische monumenten
+##### Artikel 12. Criteria incidentele aanwijzing van archeologische monumenten
 
 De Minister kan ambtshalve een archeologisch monument aanwijzen als rijksmonument, indien
 
@@ -142,17 +168,17 @@ het archeologisch monument naar verwachting niet in aanmerking komt voor bescher
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
-#### Artikel 13. Overgangsrecht
+##### Artikel 13. Overgangsrecht
 
 1. De [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937) is van toepassing op aanwijzingsprocedures die zijn gestart voor inwerkingtreding van deze beleidsregel.
 
 2. Bij de procedure tot aanwijzing als rijksmonument van monumenten of archeologische monumenten die met toepassing van de [Beleidsregel aanwijzing beschermde monumenten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032937) zijn opgenomen in een aanwijzingsprogramma en waarvan de aanwijzingsprocedure nog niet is gestart voor inwerkingtreding van deze beleidsregel, wordt die beleidsregel in acht genomen.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking op het moment dat de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) in werking treedt. Indien deze beleidsregel is opgenomen in een Staatscourant waarvan de datum ligt na de datum van inwerkingtreding van de Erfgoedwet, werkt deze beleidsregel terug tot en met de datum van inwerkingtreding van de Erfgoedwet.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel aanwijzing rijksmonumenten en wijziging rijksmonumentenregister Erfgoedwet.
 

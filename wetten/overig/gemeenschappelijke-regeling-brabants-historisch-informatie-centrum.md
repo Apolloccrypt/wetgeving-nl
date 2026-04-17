@@ -1,13 +1,39 @@
 ---
-title: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum"
+title: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum, nr. 969921, van 15 juni 2016"
 identifier: "BWBR0042023"
-categorie: "Overig"
-publicatiedatum: 2021-11-27
-laatste_update: 2021-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042023"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-27"
+last_updated: "2021-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042023"
+soort: "ministeriele-regeling"
+stam_id: "15031163"
+version_id: "25752342"
+internal_id: "C36727361"
+label_id: "14981084"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042023/2021-11-27/0"
+intitule_bron: "Stcrt.2016-41195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-15"
+intitule_published: "2016-08-05"
+intitule_in_force: "2016-08-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-41195"
+original_signed_date: "2016-06-15"
+original_published_date: "2016-08-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-41195"
+entry_into_force_date: "2016-09-01"
+jci_1_3: "jci1.3:c:BWBR0042023&z=2021-11-27&g=2021-11-27"
+jci_1_0: "1.0:c:BWBR0042023&g=2021-11-27"
+citeertitel_status: "officieel"
+short_title: "Gemeenschappelijke Regeling Brabants Historisch Informatie centrum"
+signed_date: "2016-06-15"
+entry_into_force: "2016-09-01"
 ---
-
 # Gemeenschappelijke Regeling Brabants Historisch Informatie centrum, nr. 969921, van 15 juni 2016
 
 Gelet op [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII),
@@ -16,7 +42,7 @@ Besluiten:
 
 tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam met rechtspersoonlijkheid dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Noord-Brabant, de archiefbewaarplaatsen van de gemeenten Bernheze, Boekel, Boxmeer, Cuijk, Grave, Haaren, Landerd, Maasdonk, Mill en Sint Hubert, Oss, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel en Vught, en de waterschappen Aa en Maas en De Dommel;
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 - h. **De provincie:** de provincie Noord-Brabant
 
-#### Artikel 2
+##### Artikel 2
 
 1. De regeling wordt getroffen met het doel de belangen van de Minister, de colleges en de algemene en dagelijkse besturen van de waterschappen bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de Provincie Noord-Brabant en de archiefbewaarplaatsen van de gemeenten en de waterschappen in gezamenlijkheid te behartigen.
 
@@ -46,13 +72,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 4. De Minister, de waterschappen en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Brabants Historisch Informatie Centrum de belangen, bedoeld in het eerste lid, behartigt.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Er is een openbaar lichaam genaamd ‘Brabants Historisch Informatie Centrum’.
 
 2. Het Brabants Historisch Informatie Centrum is gevestigd te ‘s-Hertogenbosch.
 
-#### Artikel 2b
+##### Artikel 2b
 
 Aan het bestuur van het Brabants Historisch Informatie Centrum zijn de navolgende werkzaamheden, taken en bevoegdheden van de colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister overgedragen:
 
@@ -66,11 +92,11 @@ Aan het bestuur van het Brabants Historisch Informatie Centrum zijn de navolgend
 
 - e. het verrichten van door de Minister, de colleges of de algemene en dagelijkse besturen van de waterschappen opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27).
 
-#### Artikel 3
+##### Artikel 3
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor het Nationaal Archief.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het algemeen bestuur bestaat uit acht leden.
 
@@ -90,7 +116,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 9. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder lid van het algemeen bestuur heeft één stem.
 
@@ -110,7 +136,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 7. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Brabants Historisch Informatie Centrum toegekende taak alle bevoegdheden toe die niet aan een ander orgaan zijn opgedragen.
 
@@ -120,11 +146,11 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat de raden van de gemeenten en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, de raden en colleges van burgemeester en wethouders van de gemeenten en de algemene en dagelijkse besturen van de waterschappen de door hen, of een of meerdere van hun leden, gevraagde inlichtingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een lid van het algemeen bestuur dat is aangewezen door de Minister verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
@@ -132,11 +158,11 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister,
 
 3. De colleges, de algemene en de dagelijkse besturen van de waterschappen en de Minister kunnen een lid van het algemeen bestuur dat zij hebben aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister, de colleges van de gemeenten en de algemene en dagelijkse besturen van de waterschappen kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en drie andere door het algemeen bestuur aan te wijzen leden.
 
@@ -152,15 +178,15 @@ De Minister, de colleges van de gemeenten en de algemene en dagelijkse besturen 
 
 7. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 11
+##### Artikel 11
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
-#### Artikel 13
+##### Artikel 13
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -180,7 +206,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 - h. het beheer van de activa en passiva van het Brabants Historisch Informatie Centrum, en de zorg, voor zover deze van het dagelijks bestuur afhangt, voor de controle op het geldelijk beheer en de boekhouding van het Brabants Historisch Informatie Centrum.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter wordt door en uit het algemeen bestuur aangewezen.
 
@@ -192,7 +218,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 5. De voorzitter vertegenwoordigt het Brabants Historisch Informatie Centrum in en buiten rechte. De vertegenwoordiging kan hij opdragen aan een door hem aan te wijzen gevolmachtigde.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder, lid van het algemeen of dagelijks bestuur van het waterschap, of als ambtenaar in rijks-, gemeente- of waterschapsdienst werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van het Brabants Historisch Informatie Centrum.
 
@@ -200,7 +226,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld en als afzonderlijke post opgenomen in de jaarlijkse begroting.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister, de gemeenten en de waterschappen, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
 
@@ -216,7 +242,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 7. Indien de Minister, de gemeenten of de waterschappen een bijzondere taak opdragen als bedoeld in [artikel 2, derde lid onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister, de gemeenten of de waterschappen in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan en een meerjarenbegroting op.
 
@@ -226,7 +252,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 4. De Minister, de colleges van de gemeenten en de algemene en dagelijkse besturen van de waterschappen maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met het Brabants Historisch Informatie Centrum over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
@@ -240,23 +266,23 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. De raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen kunnen bij het algemeen bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
 2. Nadat deze is vastgesteld, zendt het algemeen bestuur, zo nodig, de begroting aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
 2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2021-11-27&g=2021-11-27) en [19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=18&z=2021-11-27&g=2021-11-27), zijn van overeenkomstige toepassing. Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de raden van de gemeenten, de Minister en de algemene en dagelijkse besturen van de waterschappen.
 
-#### Artikel 20
+##### Artikel 20
 
 De Minister, de gemeenten en de waterschappen voldoen de bijdragen bij wijze van voorschot in door hen nader te bepalen termijnen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -268,27 +294,27 @@ De Minister, de gemeenten en de waterschappen voldoen de bijdragen bij wijze van
 
 5. Het algemeen bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister, de raden van de gemeenten en de algemene en dagelijkse besturen van de waterschappen. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister, de gemeenten en de waterschappen.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister, de gemeenten en de waterschappen van dat jaar.
 
-#### Artikel 23
+##### Artikel 23
 
 Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister, de gemeenten en de waterschappen vast.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van het Brabants Historisch Informatie Centrum. Bij deze regels wordt bepaald welke ambtenaren van het Brabants Historisch Informatie Centrum met het doen van ontvangsten en betalingen worden belast.
 
 2. Het algemeen bestuur stelt regels vast met betrekking tot de controle op de financiële administratie en het kasbeheer.
 
-#### Artikel 25
+##### Artikel 25
 
 De Minister, de gemeenten en de waterschappen kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Overeenkomstig door het algemeen bestuur vast te stellen regels, die aan gedeputeerde staten van de provincie worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Brabants Historisch Informatie Centrum.
 
@@ -298,7 +324,7 @@ De Minister, de gemeenten en de waterschappen kunnen gezamenlijk nadere regels s
 
 4. De Minister, de colleges van de gemeenten en de algemene en dagelijkse besturen van de waterschappen kunnen de staat waarin de onder hun verantwoordelijkheid bij het Brabants Historisch Informatie Centrum berustende archieven zich bevinden onderzoeken.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De colleges, de algemene en dagelijkse besturen van de waterschappen, de Minister en het Brabants Historisch Informatie Centrum verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak.
 
@@ -306,17 +332,17 @@ De Minister, de gemeenten en de waterschappen kunnen gezamenlijk nadere regels s
 
 3. Het Brabants Historisch Informatie Centrum stelt de Minister, de colleges en de algemene en dagelijkse besturen van de waterschappen te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27), voor het Brabants Historisch Informatie Centrum van belang zijn.
 
 2. De colleges, de algemene en dagelijkse besturen van de waterschappen en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeentes, de waterschappen of Minister kenbaar maken.
 
-#### Artikel 29
+##### Artikel 29
 
 Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van het Brabants Historisch Informatie Centrum.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van het Brabants Historisch Informatie Centrum die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=2&z=2021-11-27&g=2021-11-27) voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, dagelijks bestuur of de voorzitter.
 
@@ -324,17 +350,17 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 3. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042023&artikel=14&z=2021-11-27&g=2021-11-27), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 32
+##### Artikel 32
 
 Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het dagelijks bestuur. Het dagelijks bestuur is bevoegd deze bevoegdheden aan de directeur te mandateren.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het dagelijks bestuur stelt de rechtspositie- en arbeidsvoorwaardenregeling vast.
 
@@ -342,11 +368,11 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 3. Een regeling die afwijkt van de in het tweede lid bedoelde rechtspositieregeling, behoeft de instemming van de regionale vakbondsbestuurders.
 
-#### Artikel 34
+##### Artikel 34
 
 Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van de Minister, de colleges en de algemene en dagelijkse besturen van de waterschappen, na verkregen toestemming van de raden van de gemeenten, alsmede de toe te treden bestuursorganen of rechtspersonen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Uittreding uit de regeling kan geschieden door toezending van een daartoe strekkende besluiten van de Minister, de colleges en de algemene en dagelijkse besturen van de waterschappen. De colleges overleggen daarbij ook het besluit tot toestemming van de raden van de gemeenten.
 
@@ -354,23 +380,23 @@ Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van d
 
 3. De kosten van uittreding komen voor rekening van het uittredend college van burgemeester van wethouders van een gemeente, het uittredend algemeen of dagelijks bestuur van een waterschap of, in geval van uittreding van de Minister, voor rekening van de Minister.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Deze regeling kan worden gewijzigd bij gezamenlijk besluit van de Minister, de algemene en dagelijkse besturen van de waterschappen en van de colleges.
 
 2. De colleges hebben voor het besluit tot wijziging van de regeling de toestemming van de raden van hun gemeenten nodig.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze regeling kan worden opgeheven bij besluit van de Minister, de algemene en dagelijkse besturen van de waterschappen en de colleges. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Minister en van de waterschappen en de gemeenten om alle rechten en plichten van het openbaar lichaam over de Minister, de waterschappen en de gemeenten te verdelen op een in het plan te bepalen wijze.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand, volgend op de bekendmaking in de Staatscourant door de Minister.
 
 2. De colleges zenden de regeling aan gedeputeerde staten van de provincie.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke Regeling Brabants Historisch Informatie centrum.
 

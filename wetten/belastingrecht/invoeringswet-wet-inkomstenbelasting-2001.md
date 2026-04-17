@@ -1,14 +1,42 @@
 ---
-title: "Invoeringswet Wet inkomstenbelasting 2001"
+title: "Wet van 11 mei 2000 tot vaststelling van de Invoeringswet Wet inkomstenbelasting 2001"
 identifier: "BWBR0011354"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011354"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011354"
+soort: "wet"
+stam_id: "2606313"
+version_id: "3930952"
+internal_id: "C3930951"
+label_id: "2551734"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011354/2026-01-01/0"
+intitule_bron: "Stb.2000-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-11"
+intitule_published: "2000-05-30"
+intitule_in_force: "2000-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2000-216"
+original_signed_date: "2000-05-11"
+original_published_date: "2000-05-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "26728"
+original_url_id: "stb-2000-216"
+entry_into_force_date: "2000-12-31"
+entry_into_force_dossier: "26728"
+jci_1_3: "jci1.3:c:BWBR0011354&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0011354&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringswet Wet inkomstenbelasting 2001"
+signed_date: "2000-05-11"
+entry_into_force: "2000-12-31"
 ---
-
-# Invoeringswet Wet inkomstenbelasting 2001
+# Wet van 11 mei 2000 tot vaststelling van de Invoeringswet Wet inkomstenbelasting 2001
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -22,107 +50,107 @@ De inwerkingtredingsdatum voor art. I (hfd. 2) is gewijzigd bij Stb. 2000/570.
 
 ### Afdeling A. Ministerie van Financiën
 
-#### Artikel I. [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939)
+##### Artikel I. [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939)
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel II. [Successiewet 1956](onbekend)
+##### Artikel II. [Successiewet 1956](onbekend)
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel III. Wet op de herkapitalisatie 1957
+##### Artikel III. Wet op de herkapitalisatie 1957
 
 De Wet op de herkapitalisatie 1957 wordt ingetrokken.
 
-#### Artikel IV. [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
+##### Artikel IV. [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320)
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel V. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
+##### Artikel V. [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471)
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VI. [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515)
+##### Artikel VI. [Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515)
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel VII. [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
+##### Artikel VII. [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629)
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel VIII. [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
+##### Artikel VIII. [Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672)
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IX. [Conjunctuurwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002738)
+##### Artikel IX. [Conjunctuurwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002738)
 
 Wijzigt de Conjunctuurwet.
 
-#### Artikel X. [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740)
+##### Artikel X. [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740)
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XI. Wet verruiming vervroegde afschrijving, investeringsaftrek en verliescompensatie
+##### Artikel XI. Wet verruiming vervroegde afschrijving, investeringsaftrek en verliescompensatie
 
 De wet van 29 augustus 1975 tot verruiming van de vervroegde afschrijving, de investeringsaftrek en de verliescompensatie in het belang van de werkgelegenheid (Stb. 467) wordt ingetrokken.
 
-#### Artikel XII. [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954)
+##### Artikel XII. [Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954)
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XIII. [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
+##### Artikel XIII. [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770)
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XIV. [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251)
+##### Artikel XIV. [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251)
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XV. [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119)
+##### Artikel XV. [Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119)
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel XVI. [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168)
+##### Artikel XVI. [Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168)
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVII. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
+##### Artikel XVII. [Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0007746)
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel XVIII. [Kaderwet financiele verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886)
+##### Artikel XVIII. [Kaderwet financiele verstrekkingen Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0007886)
 
 Wijzigt de Kaderwet financiële verstrekkingen Financiën.
 
-#### Artikel XIX. [Aanpassingswet wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0008463)
+##### Artikel XIX. [Aanpassingswet wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0008463)
 
 Wijzigt de Aanpassingswet Wet waardering onroerende zaken.
 
-#### Artikel XX. [Wet overgang belastingheffing in euro's](https://wetten.overheid.nl/jci1.3:c:BWBR0010136)
+##### Artikel XX. [Wet overgang belastingheffing in euro's](https://wetten.overheid.nl/jci1.3:c:BWBR0010136)
 
 Wijzigt de Wet overgang belastingheffing in euro's.
 
-#### Artikel XXA. [Wet fiscale behandeling pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0010443)
+##### Artikel XXA. [Wet fiscale behandeling pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0010443)
 
 Wijzigt de Wet fiscale behandeling pensioenen.
 
 ### Afdeling B. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel I. [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089)
+##### Artikel I. [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089)
 
 Wijzigt de Pensioen- en spaarfondsenwet.
 
-#### Artikel II. [Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel II. [Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
 
 Wijzigt de Coördinatiewet sociale verzekering.
 
-#### Artikel III. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
+##### Artikel III. [Wet financiering volksverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0004538)
 
 Wijzigt de Wet financiering volksverzekeringen.
 
 ### Hoofdstuk 2. Overgangsrecht
 
-#### Artikel I. Overgangsrecht inkomstenbelasting
+##### Artikel I. Overgangsrecht inkomstenbelasting
 
 - 1. Ten aanzien van de ondernemer die een of meer gehele ondernemingen staakt met betrekking waartoe hij vanaf 1 januari 2001 ondernemer is geweest, wordt het bedrag van € 3630 genoemd in het [tweede en in het vierde lid van artikel 3.79 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.79) voor de kalenderjaren 2001 tot en met 2005 verhoogd. Met inbegrip van de verhoging wordt het bedrag gesteld op:
 
@@ -628,7 +656,7 @@ De in de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Tot de projecten, bedoeld in [artikel 5.14, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), behoren mede projecten die als zodanig zijn aangewezen op grond van artikel 26, tweede lid, van de Wet inkomstenbelasting 1964, zoals dat luidde op 31 december 2000.
 
-#### Artikel II. Overgangsrecht loonbelasting
+##### Artikel II. Overgangsrecht loonbelasting
 
 1. Uitkeringen en verstrekkingen die na 31 december 2000 worden toegekend ter zake van vóór 1 januari 2001 ingevolge een premiespaarregeling ingehouden spaargelden, behoren niet tot het loon, voorzover zij over ieder kalenderjaar waarin de werknemer overeenkomstig die regeling heeft gespaard, niet meer bedragen dan het voor het desbetreffende jaar geldende maximum.
 
@@ -644,11 +672,11 @@ Tot de projecten, bedoeld in [artikel 5.14, derde lid, van de Wet inkomstenbelas
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld voor de toepassing van het tweede lid.
 
-#### Artikel IIA. Overgangsrecht [Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
+##### Artikel IIA. Overgangsrecht [Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126)
 
 Artikel II is van overeenkomstige toepassing met betrekking tot [artikel 6, eerste lid, onderdelen i en s, en zesde, zevende en achtste lid van de Coördinatiewet sociale verzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002126&artikel=6).
 
-#### Artikel III. Overgangsrecht omzetbelasting
+##### Artikel III. Overgangsrecht omzetbelasting
 
 1. De omzetbelasting die na 31 december 2000 verschuldigd wordt ter zake van leveringen en diensten die worden verricht vóór of op deze datum, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
 
@@ -658,7 +686,7 @@ Artikel II is van overeenkomstige toepassing met betrekking tot [artikel 6, eers
 
 4. In geval een ondernemer na 31 december 2000 een onroerende zaak levert in de zin van [artikel 3, eerste lid, onderdeel h, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=3), welke onroerende zaak ingevolge een vóór 1 januari 2001 gesloten overeenkomst in opdracht is vervaardigd onder terbeschikkingstelling van stoffen, waaronder grond is begrepen, blijft de verhoging van de omzetbelasting van 17,5% tot 19% buiten toepassing ten aanzien van het gedeelte van de vergoeding dat gelijk is aan de som van de termijnen die op grond van die overeenkomst vóór 1 januari 2001 zijn vervallen en de in de vergoeding begrepen kosten van de vóór die datum ter beschikking gestelde stoffen.
 
-#### Artikel IV. Overgangsrecht vennootschapsbelasting
+##### Artikel IV. Overgangsrecht vennootschapsbelasting
 
 Sanctiebepaling participatiemaatschappijen
 
@@ -722,7 +750,7 @@ Toepassing herinvesteringsreserve bij fiscale eenheid
 
 E. Indien aan een moedermaatschappij en een dochtermaatschappij die een eenheid vormen in de zin van [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), voor het tijdstip van inwerkingtreding van de onderhavige wet op de voet van het derde lid van dat artikel een voorwaarde is gesteld met betrekking tot transacties binnen die eenheid ten gevolge waarvan de samenstelling van het vermogen van de dochtermaatschappij is gewijzigd, vindt deze voorwaarde ter zake van een in die voorwaarde bedoelde vervangingsreserve in de zin van artikel 14 van de Wet op de inkomstenbelasting 1964 overeenkomstig toepassing ter zake van een herinvesteringsreserve in de zin van [artikel 3.54 van de Wet op de inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54).
 
-#### Artikel VI. Overig overgangsrecht
+##### Artikel VI. Overig overgangsrecht
 
 De Wet op de inkomstenbelasting 1964 en de Wet op de vermogensbelasting 1964 blijven van toepassing met betrekking tot belastingjaren vóór 1 januari 2001.
 
@@ -732,17 +760,17 @@ De [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel I. Nummering
+##### Artikel I. Nummering
 
 Voor de plaatsing in het Staatsblad brengt Onze Minister van Financiën de in deze wet voorkomende aanhalingen van de artikelen, paragrafen, afdelingen en hoofdstukken van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) met de nieuwe nummering van de artikelen, paragrafen, afdelingen en hoofdstukken van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), bedoeld in artikel 11.2 van die wet, in overeenstemming.
 
-#### Artikel IA. Evaluatie
+##### Artikel IA. Evaluatie
 
 1. Onze Minister van Financiën zendt in het jaar 2005 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) in de praktijk. In dat verslag wordt afzonderlijk aandacht besteed aan de ontwikkeling van de heffingsgrondslag in het algemeen en die van het inkomen uit sparen en beleggen in het bijzonder.
 
 2. Onze Minister van Financiën zendt in het jaar 2003 aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de artiesten- en beroepssportersregeling voor de heffing van de loonbelasting in de praktijk. In dat verslag wordt afzonderlijk aandacht besteed aan de werking van de kostenvergoedingsbeschikking in de praktijk.
 
-#### Artikel II. Inwerkingtreding
+##### Artikel II. Inwerkingtreding
 
 1. Deze wet en de [Wet Inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) treden in werking met ingang van 1 januari 2001 met uitzondering van [Hoofdstuk 2, artikel I, onderdeel AF, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011354&hoofdstuk=2&z=2026-01-01&g=2026-01-01), dat in werking treedt op 31 december 2000.
 

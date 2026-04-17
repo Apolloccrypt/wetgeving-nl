@@ -1,20 +1,42 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers"
 identifier: "BWBR0044136"
-categorie: "Overig"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044136"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044136"
+soort: "zbo"
+stam_id: "15641893"
+version_id: "27041402"
+internal_id: "C38259081"
+label_id: "15581724"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044136/2020-10-01/0"
+intitule_bron: "Stcrt.2020-49469"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-09-30"
+intitule_in_force: "2020-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-49469"
+original_published_date: "2020-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-49469"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0044136&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0044136&g=2020-10-01"
+citeertitel_status: "officieel"
+entry_into_force: "2020-10-01"
 ---
-
 # Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
@@ -48,11 +70,11 @@ In de regeling wordt verstaan onder:
 
 - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan musea die van vitaal belang zijn voor de lokale culturele infrastructuur en die liquiditeitsproblemen hebben of verwachten te krijgen, om deze musea zo veel mogelijk in stand te houden.
 
-#### Artikel 3. Doelgroep
+##### Artikel 3. Doelgroep
 
 De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die:
 
@@ -62,7 +84,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 - 3. in de jaren 2017 en 2018 gemiddeld 7.500 en meer betalende bezoekers trok.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 1. Voor subsidie komen uitsluitend musea in aanmerking die
 
@@ -86,7 +108,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 7. Geen subsidie wordt verstrekt aan aanvragers aan wie reeds eerder een bijdrage is toegekend door de minister van OCW op basis van de [Regeling aanvullende ondersteuning culturele en creatieve sector COVID-19](https://wetten.overheid.nl/jci1.3:c:BWBR0043634).
 
-#### Artikel 5. De aanvraag
+##### Artikel 5. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -114,7 +136,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 6. De aanvraag wordt digitaal ingediend.
 
-#### Artikel 6. Beoordeling
+##### Artikel 6. Beoordeling
 
 1. Aanvragen worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
@@ -136,7 +158,7 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 5. Als het subsidieplafond ontoereikend is om alle aanvragen, waarover een positief advies is uitgebracht te honoreren, ook na toepassing van [artikel 7 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=7&z=2020-10-01&g=2020-10-01), plaatst de adviescommissie de overige aanvragen in een rangorde op basis van de in het tweede lid van dit artikel bedoelde aspecten.
 
-#### Artikel 7. Hoogte subsidiebedrag
+##### Artikel 7. Hoogte subsidiebedrag
 
 1. Bij de bepaling van de hoogte van de bijdrage wordt een staffel gehanteerd, gebaseerd op het gemiddelde aantal betalende bezoekers in 2017 en 2018:
 
@@ -152,7 +174,7 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 2. Indien het subsidieplafond door toepassing van het bepaalde in lid 1 zou worden overschreden, wordt voorrang verleend aan instellingen, die niet reeds een tegemoetkoming voor cultuurspecifieke maatregelen ontvingen in het kader van de COVID-19-crisis van een andere departementale begroting dan die van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 8. Besluit
+##### Artikel 8. Besluit
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen.
 
@@ -162,25 +184,25 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 4. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044136&artikel=5&z=2020-10-01&g=2020-10-01) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 Het subsidieplafond bedraagt 3.000.000 euro.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Overig
+##### Artikel 11. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 28 september 2020 treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 28 september 2020.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea 7.500 en meer bezoekers.
 

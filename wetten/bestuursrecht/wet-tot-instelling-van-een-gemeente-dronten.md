@@ -1,14 +1,38 @@
 ---
-title: "Wet tot instelling van een gemeente Dronten"
+title: "Wet van 25 maart 1971, tot instelling van een gemeente Dronten"
 identifier: "BWBR0002754"
-categorie: "Bestuursrecht"
-publicatiedatum: 1985-07-05
-laatste_update: 1985-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002754"
+country: "nl"
+rank: "wet"
+publication_date: "1985-07-05"
+last_updated: "1985-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002754"
+soort: "wet"
+stam_id: "315363"
+version_id: "457662"
+internal_id: "C457661"
+label_id: "309074"
+dtd_version: "2.0"
+original_entry_into_force: "1971-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002754/1985-07-05/0"
+intitule_bron: "Stb.1971-342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-03-25"
+intitule_status: "goed"
+original_publication: "Stb.1971-342"
+original_signed_date: "1971-03-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "10937"
+entry_into_force_date: "1971-06-03"
+entry_into_force_dossier: "10937"
+jci_1_3: "jci1.3:c:BWBR0002754&z=1985-07-05&g=1985-07-05"
+jci_1_0: "1.0:c:BWBR0002754&g=1985-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet tot instelling van een gemeente Dronten"
+signed_date: "1971-03-25"
+entry_into_force: "1971-06-03"
 ---
-
-# Wet tot instelling van een gemeente Dronten
+# Wet van 25 maart 1971, tot instelling van een gemeente Dronten
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +42,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Instelling van een gemeente
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt een gemeente, genaamd Dronten.
 
-#### Artikel 2
+##### Artikel 2
 
 Het gebied van de gemeente Dronten wordt als volgt bepaald:
 
@@ -80,19 +104,19 @@ Vanaaf laatstgenoemd punt volgt de grens, gaande aanvankekelijk in algemeen zuid
 
 Vanaf laatstgenoemd punt volgt de grens, gaande aanvankelijk in zuidelijke richting, de grens van de gemeente Kampen, tot het punt van samenkomst van de grens van deze gemeente met de grens van de gemeente Doornspijk, tevens het punt van samenkomst van de grens tussen de provincie Overijssel en de provincie Gelderland, van welk punt de coördinaten het stelsel van de rijksdriehoekmeting zijn X = + 32384,16 en Y = + 40495,55.
 
-#### Artikel 3
+##### Artikel 3
 
 Het in artikel 2 omschreven gebied houdt op deel uit te maken van het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
 ### Hoofdstuk II. Hoger gezag
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk III. Rechtskracht voorschriften en uitoefening bevoegdheden
 
-#### Artikel 5
+##### Artikel 5
 
 1. De op de dag vóór die van inwerkingtreding van deze wet voor het in artikel 2 omschreven gebied geldende voorschriften van de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" worden geacht te zijn vastgesteld door het bevoegd gezag der gemeente Dronten; zij behouden hun rechtskracht, voor zover dit gezag niet anders bepaalt.
 
@@ -100,17 +124,17 @@ Vervallen
 
 3. De bevoegdheden, welke bij de in het eerste lid bedoelde voorschriften zijn toegekend aan ambtenaren van het openbaar lichaam "Zuidelijke IJsselmeerpolders", worden uitgeoefend door de overeenkomstige ambtenaren van de gemeente Dronten.
 
-#### Artikel 6
+##### Artikel 6
 
 De op de dag vóór die van inwerkingtreding van deze wet voor het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied ingevolge artikel 11 van de Wet openbaar lichaam "Zuidelijke IJsselmeerpolders" geldende plannen tot regeling der bebouwing en der bestemming van gronden worden aangemerkt als door het bevoegde gezag der gemeente Dronten ingevolge de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) vastgestelde en ingevolge die wet goedgekeurde bestemmingsplannen. Deze plannen behouden hun rechtskracht totdat het bevoegde gezag der gemeente Dronten anders bepaalt.
 
-#### Artikel 7
+##### Artikel 7
 
 De bevoegdheid tot het heffen en invorderen van bestaande plaatselijke belastingen in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied over een belastingjaar, dat vóór de dag van inwerkingtreding van deze wet is aangevangen, wordt uitgeoefend door de organen en ambtenaren van de gemeente Dronten.
 
 ### Hoofdstuk IV. Overgang rechten, lasten, verplichtingen en bezittingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op de dag van inwerkingtreding van deze wet gaan alle rechten, lasten, verplichtingen en bezittingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders", daaronder begrepen die betreffende wettelijke procedures dan wel rechtsgedingen, waarbij dat openbaar lichaam betrokken is, uitsluitend betrekking hebbende op of gelegen in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied, over op de gemeente Dronten, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -118,25 +142,25 @@ De bevoegdheid tot het heffen en invorderen van bestaande plaatselijke belasting
 
 3. Ten aanzien van de in het eerste en tweede lid begrepen onroerende zaken zal verandering in de tenaamstelling in de kadastrale leggers plaats hebben. Onze Minister van Binnenlandse Zaken doet de daartoe nodige opgave aan de desbetreffende hypotheekbewaarder.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien in verband met het bepaalde in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=IV&artikel=8&z=1985-07-05&g=1985-07-05), een verrekening dient plaats te vinden, bepaalt Onze Minister van Binnenlandse Zaken, de betrokken besturen gehoord, het bedrag en de wijze van betaling daarvan.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van de uitkeringen, welke van overheidswege over de vóór de datum van inwerkingtreding dezer wet aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren aan het openbaar lichaam "Zuidelijke IJsselmeerpolders" zijn verschuldigd, kan Onze Minister van Binnenlandse Zaken, de betrokken besturen gehoord, bepalen, dat deze met ingang van bedoelde datum geheel of gedeeltelijk aan de gemeente Dronten worden gedaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Tegen een besluit van Onze Minister van Binnenlandse Zaken, als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=IV&artikel=10&z=1985-07-05&g=1985-07-05), in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=IV&artikel=9&z=1985-07-05&g=1985-07-05) of in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=IV&artikel=10&z=1985-07-05&g=1985-07-05), staat voor elk daarbij betrokken bestuur binnen dertig dagen, te rekenen van de dag van verzending beroep bij Ons open.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De begroting van de inkomsten en uitgaven der gemeente Dronten voor het op het tijdstip van inwerkingtreding dezer wet aanvangende dienstjaar wordt vastgesteld binnen drie maanden na de dag van inwerkingtreding dezer wet.
 
 2. Voor het tijdvak, waarin voor de gemeente Dronten nog geen begroting is vastgesteld, zijn burgemeester en wethouders dier gemeente bevoegd tot het doen van de door hen nodig geachte uitgaven, voor zover Onze Minister van Binnenlandse Zaken heeft verklaard, dat daartegen geen bezwaar bestaat.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Wij wijzen op de voordracht van Onze Ministers van Binnenlandse Zaken, van Verkeer en Waterstaat en van Financiën, de raad der gemeente Dronten gehoord, de rijkseigendommen aan, welke in eigendom, beheer en onderhoud op die gemeente overgaan, en bepalen de voorwaarden en tijdstippen van overgang.
 
@@ -144,7 +168,7 @@ Tegen een besluit van Onze Minister van Binnenlandse Zaken, als bedoeld in [arti
 
 ### Hoofdstuk V. Voorzieningen in verband met verkiezingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De kandidaatstelling en de eventuele stemming voor de eerste verkiezing van de leden van de raad der gemeente Dronten geschieden, uiterlijk vier maanden na de dag waarop dit hoofdstuk in werking treedt, op door Onze Minister van Binnenlandse Zaken vast te stellen dagen.
 
@@ -154,23 +178,23 @@ Tegen een besluit van Onze Minister van Binnenlandse Zaken, als bedoeld in [arti
 
 4. Als kiezersregister voor de eerste verkiezing van de raad wordt aangemerkt het gedeelte van het kiezersregister van het openbaar lichaam "Zuidelijke IJsselmeerpolders", betrekking hebbende op degenen, die op de dag der kandidaatstelling werkelijke woonplaats hebben in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor de toepassing van [artikel 21 der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=21) ten aanzien van het lidmaatschap van de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&artikel=14&z=1985-07-05&g=1985-07-05) te kiezen raad worden onder ingezetenen verstaan zij, die hun werkelijke woonplaats hebben binnen het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied.
 
-#### Artikel 16
+##### Artikel 16
 
 Het indelen in stemdistricten en het benoemen van de leden en de plaatsvervangende leden van het hoofdstembureau en van de stembureaus voor de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&artikel=14&z=1985-07-05&g=1985-07-05) bedoelde verkiezing geschieden vóór een door Onze Minister van Binnenlandse Zaken te bepalen dag door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 17
+##### Artikel 17
 
 Voor zover met betrekking tot de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&artikel=14&z=1985-07-05&g=1985-07-05) bedoelde verkiezing ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, onderscheidenlijk door Gedeputeerde Staten of door Onze commissaris in de provincie, geschiedt dit door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" onderscheidenlijk door Gedeputeerde Staten van Gelderland of door Onze commissaris in die provincie.
 
-#### Artikel 18
+##### Artikel 18
 
 De beslissing betreffende de geloofsbrieven van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&artikel=14&z=1985-07-05&g=1985-07-05) gekozen leden geschiedt vóór een door Onze Minister van Binnenlandse Zaken te bepalen dag door de adviesraad tot bijstand van de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 19
+##### Artikel 19
 
 1. De eerste vergadering van de overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&artikel=14&z=1985-07-05&g=1985-07-05) gekozen raad vindt plaats op de eerste werkdag, volgende op de datum van de instelling der gemeente. In deze vergadering worden de wethouders benoemd.
 
@@ -178,31 +202,31 @@ De beslissing betreffende de geloofsbrieven van de overeenkomstig [artikel 14](h
 
 ### Hoofdstuk VI. Rechtspositie van ambtenaren
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" bepaalt tijdig, de betrokkenen gehoord en in overeenstemming met het dagelijks adviescollege, welke in dienst van het openbaar lichaam werkzame ambtenaren - daaronder op arbeidsovereenkomst naar burgerlijk recht werkzaam - naar de gemeente Dronten zullen overgaan. Deze ambtenaren worden van de dag van inwerkingtreding dezer wet af geacht in dezelfde rang, met dezelfde bezoldiging en ook overigens op dezelfde voet in dienst te zijn van de gemeente Dronten.
 
 2. In de gevallen, waarin tussen de Landdrost en het dagelijks adviescollege geen overeenstemming wordt bereikt, beslist Onze Minister van Binnenlandse Zaken.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien het bevoegde gezag besluit tot wijziging of vervanging van de voorschriften betreffende de rechtstoestand van het gemeentepersoneel worden voor de bezoldiging of de wedde van de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=VI&artikel=20&z=1985-07-05&g=1985-07-05) bedoelde ambtenaren tenminste de diensttijd en de bezoldigingsregeling of wedderegeling in aanmerking genomen, welke bij of ten aanzien van het openbaar lichaam "Zuidelijke IJsselmeerpolders" op de dag vóór die van inwerkingtreding van deze wet voor de berekening van hun bezoldiging of wedde zouden hebben gegolden.
 
-#### Artikel 22
+##### Artikel 22
 
 De Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" benoemt uit de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=VI&artikel=20&z=1985-07-05&g=1985-07-05) bedoelde ambtenaren met ingang van de dag van inwerkingtreding dezer wet een tijdelijke secretaris en een tijdelijke functionaris, belast met de taak van een ontvanger, van de gemeente Dronten. Deze benoemingen worden geacht door de raad van de gemeente Dronten te zijn gedaan. Zij gelden tot de dag, waarop de raad overeenkomstig de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) een definitieve voorziening heeft getroffen.
 
-#### Artikel 23
+##### Artikel 23
 
 De ambtenaren, die door de toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=VI&artikel=20&z=1985-07-05&g=1985-07-05) naar de gemeente Dronten overgaan, aanvaarden hun werkzaamheden op de dag van inwerkingtreding dezer wet. De eden of beloften, in verband met hun ambt afgelegd worden geacht mede op die dienstvervulling betrekking te hebben.
 
-#### Artikel 24
+##### Artikel 24
 
 De leidsters, onderwijzers en leraren, werkzaam aan de openbare scholen, welke zijn gevestigd in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied, gaan met ingang van de dag van inwerkingtreding dezer wet in zoverre over in dienst van de gemeente Dronten, op dezelfde voet als die waarop zij op de dag, vóór die van inwerkingtreding dezer wet, werkzaam waren in het gebied van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
 ### Hoofdstuk VII. Voorzieningen in verband met de toepassing van enkele administratieve wetten
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ten aanzien van de vergoedingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, toekomende aan het bestuur van een in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde bijzondere lagere school, geschiedt de vaststelling, bedoeld in artikel 103, tweede lid, en artikel 103**bis** der Lager-onderwijswet 1920, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders". De hieruit voortvloeiende inkomsten of uitgaven komen ten bate of ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
@@ -210,7 +234,7 @@ De leidsters, onderwijzers en leraren, werkzaam aan de openbare scholen, welke z
 
 3. Bij de toepassing van artikel 101, vierde lid, der Lager-onderwijswet 1920 voor het op de dag van inwerkingtreding van deze wet lopende vijfjarige tijdvak wordt de extra-vergoeding bepaald op de som van enerzijds het overschrijdingsbedrag per leerling, berekend over de kalenderjaren vóór de dag van inwerkingtreding van deze wet en anderzijds het overschrijdingsbedrag per leerling in de gemeente Dronten, berekend over de overige jaren van het vijfjarige tijdvak. De hieruit voortvloeiende uitgaven, betrekking hebbende op de kalenderjaren vóór de dag van inwerkingtreding van deze wet, komen ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ten aanzien van de vergoedingen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" over het op de dag van inwerkingtreding van deze wet lopende kalenderjaar, toekomende aan het bestuur van een in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigde bijzondere kleuterschool, geschiedt de vaststelling, bedoeld in artikel 75, derde lid, der Kleuteronderwijswet, door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders". De hieruit voortvloeiende inkomsten en uitgaven komen ten bate of ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
@@ -218,61 +242,61 @@ De leidsters, onderwijzers en leraren, werkzaam aan de openbare scholen, welke z
 
 3. Bij de toepassing van artikel 73, derde lid, der Kleuteronderwijswet voor het op de dag van inwerkingtreding van deze wet lopende vijfjarige tijdvak wordt de extra-vergoeding bepaald op de som van enerzijds het overschrijdingsbedrag per lokaal en per kleuter, berekend over de kalenderjaren vóór de dag van inwerkingtreding van deze wet en anderzijds het overschrijdingsbedrag per lokaal en per kleuter in de gemeente Dronten, berekend over de overige jaren van het vijfjarige tijdvak. De hieruit voortvloeiende uitgaven, betrekking hebbende op de kalenderjaren vóór de dag van inwerkingtreding van deze wet, komen ten laste van het openbaar lichaam "Zuidelijke IJsselmeerpolders".
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" draagt op de dag van inwerkingtreding dezer wet aan burgemeester en wethouders der gemeente Dronten over alle kadastrale en andere stukken, uitsluitend betrekking hebbende op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied.
 
 2. Het bestuur van de gemeente Dronten heeft het recht te allen tijde kosteloos inzage te nemen van het archief van het openbaar lichaam "Zuidelijke IJsselmeerpolders" en op kosten der gemeente afschriften of uittreksels van de zich in dat archief bevindende stukken te vorderen, een en ander voor zover het archief mede betrekking heeft op het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Landdorst van het openbaar lichaam "Zuidelijke IJsselmeerpolders" zendt op de dag van inwerkingtreding dezer wet aan burgemeester en wethouders der gemeente Dronten de delen van het tot het bevolkingsregister behorende persoons- en woningregister, welke betrekking hebben op de personen en de woningen, die op de daaraan voorafgaande dag in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied gevestigd of gelegen zijn.
 
 2. Het in het vorige lid bedoelde deel van het woningregister wordt binnen drie weken door burgemeester en wethouders der gemeente Dronten, nadat daarvan afschrift is gehouden, teruggezonden aan de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders", waar het, gescheiden van het woningregister, wordt bewaard.
 
-#### Artikel 29
+##### Artikel 29
 
 Met betrekking tot zaken, de dienstplicht betreffende, met inbegrip van de mobilisatieuitkeringen, vinden de voorschriften door of namens Onze Minister van Defensie gegeven ter zake van verhuizing, overeenkomstige toepassing ten aanzien van de overgang van personen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" naar de gemeente Dronten krachtens deze wet.
 
-#### Artikel 30
+##### Artikel 30
 
 Met betrekking tot zaken, de noodwachtplicht betreffende, vinden de voorschriften, door Onze Minister van Binnenlandse Zaken gegeven ter zake van verhuizing, overeenkomstige toepassing ten aanzien van de overgang van personen van het openbaar lichaam "Zuidelijke IJsselmeerpolders" naar de gemeente Dronten krachtens deze wet.
 
-#### Artikel 31
+##### Artikel 31
 
 Kosten van bijstand, als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen, die op of vóór de datum van inwerkingtreding dezer wet woonachtig zijn of geweest zijn in het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied, komen met ingang van die datum ten laste der gemeente Dronten.
 
-#### Artikel 32
+##### Artikel 32
 
 Binnen een door Ons te bepalen termijn moeten de in [artikel 27 der Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=27) bedoelde leggers zijn vastgesteld.
 
-#### Artikel 33
+##### Artikel 33
 
 Het door de Landdrost van het openbaar lichaam "Zuidelijke IJsselmeerpolders" genomen besluit tot toetreding van dit openbaar lichaam, voor zoveel betreft het gebied van Oostelijk Flevoland, tot de gemeenschappelijke regeling voor de bescherming van de bevolking in de B-kring Gelderland a wordt met betrekking tot het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=I&artikel=2&z=1985-07-05&g=1985-07-05) omschreven gebied met ingang van de dag van inwerkingtreding van deze wet geacht te zijn genomen door de burgemeester der gemeente Dronten.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze wet is niet van invloed op de bevoegdheid van de rechter en op die van procureurs van partijen met betrekking tot zaken, op de dag, voorafgaande aan die van inwerkingtreding dezer wet, voor enig gerecht aanhangig.
 
-#### Artikel 36
+##### Artikel 36
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 37
+##### Artikel 37
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Geschillen omtrent de toepassing van deze wet, waarvan de beslissing niet aan anderen is opgedragen, worden door Ons beslist.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze wet treedt in werking met ingang van een door Ons te bepalen dag, met uitzondering van [Hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002754&hoofdstuk=V&z=1985-07-05&g=1985-07-05) en de artikelen 20 en 22, die in werking treden op de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin deze wet wordt geplaatst.
 

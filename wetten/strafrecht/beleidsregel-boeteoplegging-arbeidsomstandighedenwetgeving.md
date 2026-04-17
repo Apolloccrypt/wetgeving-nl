@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2012, G&VW/AA/2012/16953, tot vaststelling van de Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving"
 identifier: "BWBR0032326"
-categorie: "Strafrecht"
-publicatiedatum: 2025-02-11
-laatste_update: 2025-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032326"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-11"
+last_updated: "2025-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032326"
+soort: "beleidsregel"
+stam_id: "11926503"
+version_id: "19818752"
+internal_id: "C27834161"
+label_id: "11898444"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032326/2025-02-11/0"
+intitule_bron: "Stcrt.2012-24962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-27"
+intitule_published: "2012-12-11"
+intitule_in_force: "2012-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-24962"
+original_signed_date: "2012-11-27"
+original_published_date: "2012-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-24962"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032326&z=2025-02-11&g=2025-02-11"
+jci_1_0: "1.0:c:BWBR0032326&g=2025-02-11"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving"
+signed_date: "2012-11-27"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 27 november 2012, G&VW/AA/2012/16953, tot vaststelling van de Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving
 
 Gelet op de [artikelen 33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=33), en [34 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=34);
 
 Besluit:
 
-#### Artikel 1. Boeteoplegging
+##### Artikel 1. Boeteoplegging
 
 1. In deze beleidsregel wordt onderscheid gemaakt tussen drie typen overtredingen, te weten:
 
@@ -132,15 +158,15 @@ Bij overtredingen begaan door werknemers of zelfstandigen geldt als uitgangspunt
 
 17. In aanvulling op of in afwijking van de leden drie tot en met vijf en zeven tot en met twaalf, kan het bedrag van de boete worden verhoogd of verlaagd totdat deze evenredig is en daarmee passend en geboden.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Beleidsregels arbeidsomstandighedenwetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0013042) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging arbeidsomstandighedenwetgeving.
 

@@ -1,18 +1,43 @@
 ---
 title: "Wet voorschriften bestrijdingsmiddelen BES"
 identifier: "BWBR0028176"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028176"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028176"
+soort: "wet-BES"
+stam_id: "10688683"
+version_id: "17650202"
+internal_id: "C24818351"
+label_id: "10663664"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028176/2010-10-10/0"
+intitule_bron: "Stb.2010-567"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-567"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-567"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028176&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028176&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet voorschriften bestrijdingsmiddelen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet en de ter uitvoering daarvan te geven voorschriften verstaan onder:
 
@@ -32,7 +57,7 @@ Deze wet en de ter uitvoering daarvan te geven voorschriften verstaan onder:
 
 - **bevoegde instantie:** door Onze Minister aangewezen dienst, autoriteit of instantie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De handel in enig bestrijdingsmiddel is toegestaan, mits door de fabrikant of de importeur tenminste drie maanden te voren van het voornemen daartoe aan de bevoegde instantie schriftelijk kennis is gegeven.
 
@@ -46,7 +71,7 @@ Deze wet en de ter uitvoering daarvan te geven voorschriften verstaan onder:
 
 - d. van een opgave van het doel, waarvoor het bestrijdingsmiddel bestemd is, van de toepassingsmogelijkheden en van een nauwkeurige gebruiksaanwijzing, alsmede van de naam of aanduiding, waaronder het middel in de handel zal worden gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan bepalen, dat op de verpakking van met name of op grond van hun samenstelling algemeen aan te duiden bestrijdingsmiddelen duidelijk moeten worden aangeduid:
 
@@ -58,15 +83,15 @@ Deze wet en de ter uitvoering daarvan te geven voorschriften verstaan onder:
 
 2. De verpakking van bestrijdingsmiddelen moet deugdelijk zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan in het belang van de volksgezondheid de invoer in het vrije verkeer verbieden van met name of op grond van hun samenstelling algemeen aan te duiden bestrijdingsmiddelen.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging verbieden van met name of op grond van hun samenstelling algemeen aan te duiden bestrijdingsmiddelen, indien de invoer daarvan in het vrije verkeer ingevolge het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=1&artikel=4&z=2010-10-10&g=2010-10-10) verboden is of indien deze aankondiging een valse of misleidende aanprijzing bevat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ministeriële regeling, kunnen bestrijdingsmiddelen worden aangewezen, waarvan de aankoop en de aanwending door de gebruiker uitsluitend is toegestaan op grond van een door of vanwege het bestuurscollege verleende vergunning.
 
@@ -76,7 +101,7 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 - b. door of onder het toezicht van de door of vanwege het bestuurscollege aan te wijzen personen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Door of vanwege het bestuurscollege kan de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=1&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde vergunning op met redenen omklede gronden worden geweigerd, gewijzigd en ingetrokken.
 
@@ -86,7 +111,7 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 ### Hoofdstuk 2. Toezicht en handhaving
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -108,7 +133,7 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 5. Een ieder is verplicht aan de in het eerste lid bedoelde ambtenaren alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Overtreding van de bij of krachtens de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=1&artikel=2&z=2010-10-10&g=2010-10-10) gestelde voorschriften of voorwaarden wordt gestraft met hechtenis van ten hoogste veertien dagen of een geldboete van de eerste categorie.
 
@@ -116,13 +141,13 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 3. De in dit artikel strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Op het binnentreden van woningen of van als woning bestemde gedeelten van vaartuigen als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10) is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), voor zover het betreft de zinsnede die aanvangt met «en» en eindigt met «verdenking», en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
 
 2. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking aan de toezichthoudend ambtenaar weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de uitoefening van hun taak dragen de toezichthouders een door Onze Minister te verstrekken legitimatiebewijs bij zich.
 
@@ -132,11 +157,11 @@ Onze Minister kan in het belang van de volksgezondheid de openlijke aankondiging
 
 ## Bestuursdwang
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of verrichten van hetgeen in strijd met in deze wet of de daarop berustende bepalingen is of wordt gedaan, gehouden of nagelaten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een beslissing tot toepassing van bestuursdwang als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=12&z=2010-10-10&g=2010-10-10) wordt op schrift gesteld en geldt als een beschikking.
 
@@ -146,7 +171,7 @@ Onze Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorig
 
 4. Indien de situatie dermate spoedeisend is dat de beslissing tot toepassing van bestuursdwang niet tevoren op schrift kan worden gesteld, wordt alsnog zo spoedig mogelijk voor de opschriftstelling en de bekendmaking ervan gezorgd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De overtreder is de kosten verbonden aan de toepassing van bestuursdwang verschuldigd,tenzij de kosten redelijkerwijze niet of niet geheel te zijnen laste behoren te komen.
 
@@ -158,7 +183,7 @@ Onze Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorig
 
 5. De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.
 
@@ -168,23 +193,23 @@ Onze Minister is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorig
 
 4. Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat kan het gerecht in eerste aanleg de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 16
+##### Artikel 16
 
 De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [artikel 284 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=284), uit de opbrengst van de zaak betaald.
 
-#### Artikel 17
+##### Artikel 17
 
 Om aan een beslissing van bestuursdwang uitvoering te geven, komen de personen die daartoe door de bevoegde instantie zijn aangewezen, de bevoegdheden toe, genoemd in [artikel 8, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10). [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10), is van toepassing.
 
-#### Artikel 18
+##### Artikel 18
 
 Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van gebouwen, terreinen en hetgeen zich daarin of daarop bevindt.
 
-#### Artikel 19
+##### Artikel 19
 
 Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en opslaan van daarvoor vatbare zaken voor zover de toepassing van bestuursdwang dit vereist. Indien zaken zijn meegevoerd en opgeslagen, doet de bevoegde instantie daarvan proces-verbaal opmaken, waarvan afschrift wordt verstrekt aan de rechthebbende. De bevoegde instantie draagt zorg voor de bewaring van de opgeslagen zaken en geeft deze zaken terug aan de rechthebbende, zodra dat redelijkerwijs nodig is. De bevoegde instantie is bevoegd de afgifte op te schorten totdat de verschuldigde kosten zijn voldaan. De Staat is niet aansprakelijk voor afgifte van het opgeslagene aan een onbevoegde.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister is bevoegd, indien een opgeslagen zaak niet binnen dertien weken na de opslag kan worden teruggegeven aan de rechthebbende, deze te doen verkopen of, indien verkoop naar zijn oordeel niet mogelijk is, de zaak om niet aan een derde in eigendom over te dragen of te laten vernietigen.
 
@@ -200,7 +225,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 ## Last onder dwangsom
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onze Minister kan in plaats van het uitoefenen van bestuursdwang aan de overtreder een last onder dwangsom opleggen, die ertoe strekt de overtreding ongedaan te maken dan wel een herhaling van de overtreding te voorkomen.
 
@@ -210,19 +235,19 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 4. In de beschikking tot oplegging van een last onder dwangsom die strekt tot het ongedaan maken of het beëindigen, wordt een termijn gesteld gedurende welke de overtreder de last kan uitvoeren zonder dat een dwangsom wordt verbeurd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Verbeurde dwangsommen komen toe aan de Staat. Onze Minister kan bij dwangbevel het verschuldigde bedrag invorderen.
 
 2. [Artikel 15, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=15&z=2010-10-10&g=2010-10-10), is van toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister kan op verzoek van de overtreder de last opheffen, de looptijd ervan opschorten voor een bepaalde termijn of de dwangsom verminderen in geval van blijvende of tijdelijke gehele of gedeeltelijke onmogelijkheid voor de overtreder om aan zijn verplichtingen te voldoen.
 
 2. Onze Minister kan op verzoek van de overtreder de last opheffen indien de beschikking een jaar van kracht is geweest zonder dat de dwangsom is verbeurd.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De bevoegdheid tot invordering van verbeurde bedragen verjaart door verloop van een jaar na de dag waarop ze zijn verbeurd.
 
@@ -230,7 +255,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 ## Bestuurlijke boete
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ingeval van overtreding van de bij of krachtens deze wet gegeven voorschriften kan Onze Minister aan de overtreder een bestuurlijke boete opleggen van ten hoogste 560.000,– USD.
 
@@ -240,17 +265,17 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het meevoeren en ops
 
 4. Het recht tot strafvervolging vervalt indien Onze Minister aan de betrokkene ter zake van hetzelfde feit reeds een bestuurlijke boete heeft opgelegd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Met het onderzoek in verband met de op te leggen bestuurlijke boete zijn belast de personen bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10).
 
 2. Ten dienste van het onderzoek beschikken zij over de bevoegdheden die hun in deze paragraaf worden toegekend, alsmede, met inachtneming van de daaraan in die artikelen gestelde beperkingen, over de bevoegdheden die hun zijn toegekend ter uitoefening van het toezicht, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 27
+##### Artikel 27
 
 Indien de personen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), een redelijk vermoeden hebben dat een bepaalde natuurlijke persoon of rechtspersoon een overtreding heeft begaan, is er geen verplichting aan de zijde van die natuurlijke persoon of rechtspersoon ter zake een verklaring af te leggen. De betrokkenen worden hiervan in kennis gesteld voordat hun mondeling ter zake om informatie wordt gevraagd.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een persoon als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), die vaststelt dat een overtreding is begaan, maakt daarvan een rapport op.
 
@@ -266,13 +291,13 @@ Indien de personen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.n
 
 4. Op verzoek van de belanghebbende die het rapport wegens zijn gebrekkige kennis van de Nederlandse taal onvoldoende begrijpt, draagt Onze Minister er zoveel mogelijk zorg voor dat de inhoud van het rapport aan de betrokkene wordt meegedeeld in een voor hem begrijpelijke taal.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De belanghebbende wordt schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=28&z=2010-10-10&g=2010-10-10), bedoelde rapport.
 
 2. Indien de belanghebbende zijn zienswijze mondeling naar voren brengt, draagt Onze Minister er op verzoek van de belanghebbende die de Nederlandse taal onvoldoende begrijpt, zorg voor dat een tolk wordt benoemd die de belanghebbende bij het horen kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een bestuurlijke boete wordt opgelegd bij beschikking van Onze Minister. In de beschikking worden in ieder geval vermeld:
 
@@ -284,15 +309,15 @@ Indien de personen, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.n
 
 3. De beschikking dient te worden gegeven binnen twaalf weken nadat het rapport, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=32&z=2010-10-10&g=2010-10-10), is opgemaakt, tenzij binnen deze termijn het rapport aan het openbaar ministerie is gezonden. In dat geval kan een boete worden opgelegd binnen twaalf weken nadat het openbaar ministerie aan Onze Minister heeft meegedeeld dat geen strafvervolging wordt ingesteld.
 
-#### Artikel 31
+##### Artikel 31
 
 De werkzaamheden die verband houden met de uitvoering van de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=29&z=2010-10-10&g=2010-10-10) en [30](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=30&z=2010-10-10&g=2010-10-10) worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=28&z=2010-10-10&g=2010-10-10) bedoelde rapport en het daaraan voorafgaande onderzoek.
 
-#### Artikel 32
+##### Artikel 32
 
 De werking van een beschikking als bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=30&z=2010-10-10&g=2010-10-10), wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een boete wordt betaald binnen zes weken nadat de beschikking waarbij de boete is opgelegd, in werking is getreden.
 
@@ -300,7 +325,7 @@ De werking van een beschikking als bedoeld in [artikel 30, eerste lid](https://w
 
 3. Indien niet is betaald binnen de in de eerste lid genoemde termijn, wordt degene die de boete is verschuldigd schriftelijk bevolen binnen twee weken, alsnog het bedrag van de boete, verhoogd met de krachtens het tweede lid verschuldigde rente en de kosten van de aanmaning, te betalen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in [artikel 33, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=33&z=2010-10-10&g=2010-10-10), kan Onze Minister van de overtreder de verschuldigde boete, verhoogd met de krachtens artikel 33, tweede lid, verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.
 
@@ -312,23 +337,23 @@ De werking van een beschikking als bedoeld in [artikel 30, eerste lid](https://w
 
 5. De in het eerste lid bedoelde bedragen komen toe aan de Staat.
 
-#### Artikel 35
+##### Artikel 35
 
 De bevoegdheid tot het opleggen van een boete vervalt vijf jaar nadat de overtreding is begaan.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vereisten waaraan de ingevolge het eerste lid aangewezen personen dienen te voldoen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Handelen in strijd met de in [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), vervatte verplichting wordt gestraft met hetzij hechtenis van ten hoogste een jaar, hetzij een geldboete van de vierde categorie, hetzij met beide straffen.
 
 2. Het in het eerste lid strafbaar gestelde feit is een overtreding.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Degene die opzettelijk de bij [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028176&hoofdstuk=2&artikel=39&z=2010-10-10&g=2010-10-10) opgelegde plicht tot geheimhouding schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren, hetzij met een geldboete van de vijfde categorie hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een misdrijf.
 
@@ -336,12 +361,12 @@ De bevoegdheid tot het opleggen van een boete vervalt vijf jaar nadat de overtre
 
 3. Geen vervolging wordt ingesteld dan op beklag van degene te wiens aanzien de geheimhouding geschonden is.
 
-#### Artikel 39
+##### Artikel 39
 
 Eenieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 Deze wet wordt aangehaald als: Wet voorschriften bestrijdingsmiddelen BES.

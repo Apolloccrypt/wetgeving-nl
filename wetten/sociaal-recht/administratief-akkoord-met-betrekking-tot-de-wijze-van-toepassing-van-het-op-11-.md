@@ -1,13 +1,35 @@
 ---
 title: "Administratief Akkoord met betrekking tot de wijze van toepassing van het op 11 mei 1977 te Belgrado ondertekende Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië"
 identifier: "BWBV0005013"
-categorie: "Sociaal recht"
-publicatiedatum: 1979-04-01
-laatste_update: 1979-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005013"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-04-01"
+last_updated: "1979-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005013"
+soort: "verdrag"
+stam_id: "10004431343"
+version_id: "10004637792"
+internal_id: "C10006997871"
+label_id: "10004416504"
+dtd_version: "2.0"
+original_entry_into_force: "1979-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005013/1979-04-01/0"
+intitule_bron: "Trb.1977-157"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-11-07"
+intitule_in_force: "1979-03-01"
+intitule_status: "goed"
+original_publication: "Trb.1977-157"
+original_published_date: "1977-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-157"
+entry_into_force_date: "1979-04-01"
+jci_1_3: "jci1.3:c:BWBV0005013&z=1979-04-01&g=1979-04-01"
+jci_1_0: "1.0:c:BWBV0005013&g=1979-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1979-04-01"
 ---
-
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 11 mei 1977 te Belgrado ondertekende Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië
 
 Ter uitvoering van de artikelen 17, tweede lid, 35, eerste lid, en 36 van het op 11 mei 1977 te Belgrado ondertekende Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en de Socialistische Federatieve Republiek Joegoslavië (hierna aangeduid met de term „Verdrag”), hebben de bevoegde Nederlandse en Joegoslavische autoriteiten, te weten:
@@ -20,11 +42,11 @@ in gemeen overleg de volgende bepalingen vastgesteld:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Akkoord hebben de in artikel 1 van het Verdrag omschreven termen de hun in genoemd artikel toegekende betekenis.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Akkoord worden als verbindingsorganen aangewezen:
 
@@ -44,7 +66,7 @@ Voor de toepassing van dit Akkoord worden als verbindingsorganen aangewezen:
 
 - c). voor de kinderbijslagen: de gemeenschappelijke dienst van de Vereniging van ziekteverzekeringsorganen van Joegoslavië en de Vereniging van organen van de pensioen- en invaliditeitsverzekering van Joegoslavië.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het in artikel 8, letter a) van het Verdrag bedoelde geval reikt de hierna genoemde instelling van het land, waarvan de wetgeving van toepassing blijft, de werknemer op verzoek een detacheringsbewijs uit waarin wordt verklaard dat hij aan de wetgeving van dit land onderworpen blijft.
 
@@ -58,7 +80,7 @@ Voor de toepassing van dit Akkoord worden als verbindingsorganen aangewezen:
 
 4. Wanneer verscheidene werknemers tegelijkertijd het land van de plaats, waar de arbeid gewoonlijk wordt verricht, verlaten teneinde gezamenlijk in het andere land te gaan werken en tegelijkertijd in het eerste land terug te keren, kan met één bewijsstuk voor alle werknemers worden volstaan.
 
-#### Artikel 4
+##### Artikel 4
 
 De werknemer die overeenkomstig artikel 9, tweede lid, van het Verdrag zijn keuzerecht uitoefent, deelt dit, door tussenkomst van zijn werkgever, mede aan de in artikel 3, tweede lid, aangewezen instelling van het land voor de wetgeving waarvan hij heeft gekozen. Deze instelling stelt de instelling van het andere land hiervan in kennis.
 
@@ -68,7 +90,7 @@ De keuze wordt van kracht op de datum van inwerkingtreding van het Verdrag of op
 
 ### HOOFDSTUK 1. Prestaties bij ziekte en moederschap
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van dit Hoofdstuk wordt onder „orgaan van de woonplaats” en „orgaan van de verblijfplaats” verstaan:
 
@@ -80,7 +102,7 @@ Voor de toepassing van dit Hoofdstuk wordt onder „orgaan van de woonplaats” 
 
 - -. wat de uitkeringen betreft: de Nieuwe Algemene Bedrijfsvereniging te Amsterdam.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om in aanmerking te komen voor samentelling van tijdvakken van verzekering in de in artikel 11, eerste lid, van het Verdrag bedoelde gevallen, dient de werknemer aan het bevoegde orgaan van het land waarheen hij zich heeft begeven, een verklaring over te leggen met betrekking tot de tijdvakken van verzekering, welke zijn vervuld krachtens de wettelijke regeling waaraan hij onmiddellijk voor de datum van zijn laatste aankomst in het eerstbedoelde land onderworpen is geweest.
 
@@ -94,11 +116,11 @@ Indien de werknemer de verklaring niet overlegt, verzoekt het bevoegde orgaan ge
 
 3. Indien aan de in artikel 12, eerste lid, van het Verdrag bedoelde werknemer voor hemzelf of voor een van zijn gezinsleden recht is toegekend op prothesen, hulpmiddelen van grotere omvang of andere belangrijke verstrekkingen door het bevoegde orgaan van het land waar de werknemer laatstelijk vóór zijn aankomst in het andere land was verzekerd, komen deze verstrekkingen voor rekening van dit orgaan, zelfs indien zij in feite na zijn vertrek worden verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 Om in aanmerking te komen voor verstrekkingen richt de in artikel 12, tweede lid, van het Verdrag bedoelde werknemer een verzoek tot het orgaan van de woonplaats. Dit orgaan verzoekt het bevoegde orgaan om toezending van een verklaring, waaruit blijkt dat hij recht op verstrekkingen heeft en dat de kosten van deze verstrekkingen voor rekening van het laatstbedoelde orgaan komen. Tevens vermeldt deze verklaring de maximumduur waarover de verstrekkingen mogen worden verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Om gedurende een tijdelijk verblijf in het andere dan het bevoegde land in aanmerking te komen voor verstrekkingen, eventueel met inbegrip van opname in een ziekenhuis, legt de in artikel 13, eerste lid, van het Verdrag bedoelde werknemer aan het orgaan van de verblijfplaats een door het bevoegde orgaan, zo mogelijk vóór de aanvang van zijn tijdelijk verblijf in bedoeld land, afgegeven verklaring over, waaruit blijkt, dat hij recht heeft op deze verstrekkingen. In deze verklaring wordt met name de duur vermeld waarover verstrekkingen mogen worden verleend. Indien de werknemer deze verklaring niet overlegt, verzoekt het orgaan van de verblijfplaats het bevoegde orgaan daarom.
 
@@ -106,7 +128,7 @@ Om in aanmerking te komen voor verstrekkingen richt de in artikel 12, tweede lid
 
 3. Het eerste lid is eveneens van toepassing in de in de artikelen 8 en 9, tweede lid, van het Verdrag bedoelde gevallen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij opneming in een ziekenhuis in de gevallen bedoeld in de artikelen 12, tweede lid, en 13, eerste en zesde lid, van het Verdrag geeft het orgaan van de woon- of verblijfplaats zo snel mogelijk aan het bevoegde orgaan kennis van de datum van opneming in een ziekenhuis of andere geneeskundige inrichting, van de vermoedelijke duur van opneming alsmede van de datum van ontslag.
 
@@ -116,7 +138,7 @@ Wanneer deze verstrekkingen in onmiskenbare spoedgevallen zonder machtiging van 
 
 De bevoegde verbindingsorganen stellen de lijst van verstrekkingen samen, waarop artikel 13, vierde lid, van het Verdrag van toepassing is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, dient de in artikel 13, tweede lid, van het Verdrag bedoelde werknemer aan het orgaan van zijn nieuwe woonplaats een verklaring over te leggen, waarbij het bevoegde orgaan hem toestaat na de overbrenging van zijn woonplaats het recht op verstrekkingen te behouden. Bedoeld orgaan geeft in deze verklaring eventueel de maximumduur aan waarover volgens de door dit orgaan toegepaste wettelijke regeling verstrekkingen mogen worden verleend.
 
@@ -124,7 +146,7 @@ Het bevoegde orgaan kan op verzoek van de werknemer of van het orgaan van zijn n
 
 2. Wat betreft het verlenen van verstrekkingen door het orgaan van de nieuwe woonplaats, is artikel 9 van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Om in het land van hun woonplaats in aanmerking te komen voor verstrekkingen, dienen de in artikel 14, eerste lid, van het Verdrag bedoelde gezinsleden zich bij het orgaan van hun woonplaats te laten inschrijven onder overlegging van de volgende bewijsstukken:
 
@@ -138,7 +160,7 @@ Het bevoegde orgaan kan op verzoek van de werknemer of van het orgaan van zijn n
 
 4. Het orgaan van de woonplaats verleent zijn goede diensten aan het bevoegde orgaan, dat voornemens is verhaal uit te oefenen op degene die ten onrechte verstrekkingen heeft genoten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Om in het land van zijn woonplaats in aanmerking te komen voor verstrekkingen dient de in artikel 16, tweede lid, van het Verdrag bedoelde pensioengerechtigde zich te laten inschrijven bij het orgaan van zijn woonplaats, onder overlegging van een verklaring, waarin door het Joegoslavische bevoegde orgaan onderscheidenlijk door de Ziekenfondsraad, wordt opgegeven dat de pensioengerechtigde voor zichzelf en zijn gezinsleden recht heeft op verstrekkingen. De instelling welke deze verklaring heeft opgesteld, zendt hiervan een afschrift aan de Ziekenfondsraad, onderscheidenlijk aan de Vereniging van gemeenschappen voor de ziekteverzekering van werknemers van de republiek of van de betrokken autonome provincie.
 
@@ -146,23 +168,23 @@ Het bevoegde orgaan kan op verzoek van de werknemer of van het orgaan van zijn n
 
 3. De instelling, welke de verklaring heeft opgesteld licht de Ziekenfondsraad, onderscheidenlijk de Vereniging van gemeenschappen voor de ziekteverzekering van werknemers van de republiek of van de betrokken autonome provincie in omtrent het einde van het recht op verstrekkingen van de pensioengerechtigde.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor het verlenen van verstrekkingen aan pensioengerechtigden alsmede aan hun gezinsleden gedurende een tijdelijk verblijf als bedoeld in artikel 16, derde lid, van het Verdrag, zijn de artikelen 8 en 9 van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de in artikel 8 voorgeschreven formaliteiten niet gedurende het tijdelijk verblijf konden worden vervuld, worden de gemaakte kosten op verzoek van de werknemer of de pensioengerechtigde door het bevoegde orgaan vergoed tegen de tarieven die door het orgaan van de verblijfplaats worden toegepast.
 
 2. Het orgaan van de verblijfplaats dient het bevoegde orgaan dat zulks verzoekt de nodige inlichtingen over deze tarieven te verstrekken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De werknemer die aanspraak maakt op uitkeringen krachtens de Nederlandse ziekteverzekering voor een hem tijdens zijn verblijf op het grondgebied van Joegoslavië overkomen arbeidsongeschiktheid, dient zijn aanvraag in bij het orgaan van de verblijfplaats, waarbij hij een door de behandelende arts afgegeven medisch bewijs voegt. Dit orgaan zendt de aanvraag en het medisch bewijs aan het Nederlandse bevoegde orgaan. Het medisch bewijs vermeldt de aanvangsdatum van de arbeidsongeschiktheid alsmede de diagnose en prognose.
 
 2. De werknemer die aanspraak maakt op uitkeringen krachtens de Joegoslavische ziekteverzekering voor een hem tijdens zijn verblijf op het grondgebied van Nederland overkomen arbeidsongeschiktheid, dient zijn aanvraag in bij de Nieuwe Algemene Bedrijfsvereniging, die het bevoegde Joegoslavische orgaan daarvan in kennis stelt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het orgaan van de verblijfplaats voert de medische en administratieve controle uit overeenkomstig de regels welke gelden voor degenen die bij dat orgaan verzekerd zijn.
 
@@ -170,23 +192,23 @@ Voor het verlenen van verstrekkingen aan pensioengerechtigden alsmede aan hun ge
 
 3. Indien de controlerende arts, onderscheidenlijk de geneeskundige commissie van mening is dat de werknemer in staat is de arbeid te hervatten, stelt het orgaan van de verblijfplaats hem hiervan onmiddellijk in kennis en doet het het bevoegde orgaan een afschrift van deze kennisgeving toekomen, waarbij het verslag van de controlerende arts onderscheidenlijk van de geneeskundige commissie wordt gevoegd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De werknemer is onderworpen aan de controlevoorschriften van het orgaan van de verblijfplaats.
 
 2. Wanneer het orgaan van de verblijfplaats vaststelt dat de werknemer de controlevoorschriften overtreedt, stelt het het bevoegde orgaan daarvan onmiddellijk in kennis, waarbij het de aard van de overtreding weergeeft en tevens vermeldt welke gevolgen gewoonlijk aan een dergelijke overtreding zijn verbonden wanneer het een eigen verzekerde betreft.
 
-#### Artikel 18
+##### Artikel 18
 
 Het bevoegde orgaan stelt de uitkeringen met behulp van alle daartoe aangewezen middelen aan de rechthebbende betaalbaar, met name per internationale postwissel. Deze uitkeringen kunnen echter, indien het orgaan van de verblijfplaats hiermede instemt, door dit orgaan voor rekening van het bevoegde orgaan worden verleend. In dit geval geeft het bevoegde orgaan het orgaan van de verblijfplaats machtiging tot uitbetaling, onder vermelding van het bedrag van de uitkeringen, de data van betaalbaarstelling en de maximale uitkeringsduur.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het werkelijke bedrag van de uitgaven terzake van de krachtens de artikelen 12, tweede lid, 13, eerste, tweede en zesde lid, en 16, derde lid, van het Verdrag verleende verstrekkingen, zoals zij uit de boekhouding van de organen die de verstrekkingen nebben verleend, blijken, wordt per kwartaal door de bevoegde organen aan eerstbedoelde organen vergoed.
 
 2. Voor de vergoeding kunnen geen hogere tarieven in rekening worden gebracht dan die welke gelden voor de verstrekkingen, verleend aan werknemers die onderworpen zijn aan de wettelijke regeling welke wordt toegepast door het orgaan, dat de in het eerste lid van dit artikel bedoelde verstrekkingen heeft verleend.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De uitgaven voor de verstrekkingen welke krachtens artikel 14, eerste lid, van het Verdrag zijn verleend, worden voor ieder kalenderjaar op vaste bedragen gewaardeerd.
 
@@ -196,7 +218,7 @@ De gemiddelde jaarlijkse kosten per gezinslid in een republiek of autonome provi
 
 3. Het door de Joegoslavische organen verschuldigde vaste bedrag wordt verkregen door de gemiddelde jaarlijkse kosten per gezinslid te vermenigvuldigen met het gemiddelde jaarlijkse aantal gezinsleden waarmede rekening moet worden gehouden. De gemiddelde jaarlijkse kosten per gezinslid zijn gelijk aan het gemiddelde van de uitgaven voor het totaal van de door de Nederlandse organen verleende verstrekkingen aan alle verzekerden die aan de Nederlandse wettelijke regeling onderworpen zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De uitgaven voor de krachtens artikel 16, tweede lid, van het Verdrag verleende verstrekkingen worden voor ieder kalenderjaar op vaste bedragen gewaardeerd.
 
@@ -208,7 +230,7 @@ De gemiddelde jaarlijkse kosten per gezinslid in een republiek of autonome provi
 
 5. Voor de toepassing van het eerste, tweede en vierde lid van dit artikel kunnen verschillende berekeningen gemaakt worden naar gelang van de leeftijdsklasse, waartoe de pensioengerechtigden behoren.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De in artikel 17 van het Verdrag bedoelde vergoedingen worden betaald door tussenkomst van de verbindingsorganen (voor Joegoslavië per republiek en per autonome provincie).
 
@@ -220,7 +242,7 @@ De gemiddelde jaarlijkse kosten per gezinslid in een republiek of autonome provi
 
 ### Indiening en behandeling van aanvragen
 
-#### Artikel 23
+##### Artikel 23
 
 1. De in Joegoslavië of in Nederland wonende werknemer of nagelaten betrekking van een werknemer, die in aanmerking wenst te komen voor een uitkering krachtens de wettelijke regeling van het andere land of van beide landen, richt zijn aanvraag tot het bevoegde orgaan van het land waarin hij woont.
 
@@ -236,13 +258,13 @@ De gemiddelde jaarlijkse kosten per gezinslid in een republiek of autonome provi
 
 6. Wanneer een ander dan het in het eerste of tweede lid van dit artikel bedoelde orgaan een aanvraag ontvangen heeft, moet het deze aanvraag onverwijld aan het in het eerste of tweede lid van dit artikel bedoelde orgaan doorzenden onder vermelding van de datum waarop de aanvraag is ingediend. Deze datum wordt geacht de datum van indiening bij laatstbedoeld orgaan te zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de behandeling van de aanvragen om uitkeringen maken de bevoegde organen van beide landen gebruik van een contactformulier. Dit formulier bevat met name een opsomming en een samenvatting van de door de verzekerde krachtens de wettelijke regelingen waaraan hij onderworpen is geweest vervulde tijdvakken van verzekering.
 
 2. De toezending van dit formulier aan het bevoegde orgaan van het andere land komt in de plaats van het toezenden van bewijsstukken.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het bevoegde orgaan van het land van de woonplaats vermeldt op het in het vorige artikel bedoelde formulier de tijdvakken van verzekering, welke ingevolge de door dit orgaan toegepaste wettelijke regeling zijn vervuld en zendt twee exemplaren van dit formulier aan het bevoegde orgaan van het andere land.
 
@@ -256,17 +278,17 @@ De gemiddelde jaarlijkse kosten per gezinslid in een republiek of autonome provi
 
 3. Het in het vorige lid bedoelde orgaan zendt het orgaan van het land van de woonplaats een exemplaar van het aldus aangevulde formulier terug en voegt twee exemplaren van de definitieve beslissing bij, onder vermelding van de rechtsmiddelen en de beroepstermijnen.
 
-#### Artikel 26
+##### Artikel 26
 
 In gevallen waarin vertraging kan optreden betaalt het bevoegde orgaan van het land van de woonplaats belanghebbende een terugvorderbaar voorschot, dat zo dicht mogelijk het bedrag benadert dat vermoedelijk zal worden vastgesteld, rekening houdende met de bepalingen van het Verdrag.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien het bevoegde orgaan van het land van de woonplaats vaststelt dat de aanvrager de rechten kan ontlenen aan artikel 22 van het Verdrag, stelt het de aanvulling vast waarop de aanvrager op grond van laatstbedoeld artikel recht heeft.
 
 2. Voor de toepassing van artikel 22 van het Verdrag geschiedt de omrekening van de in verschillende nationale muntsoorten luidende bedragen tegen de officiële wisselkoers van de dag waarop laatstbedoeld artikel moet worden toegepast.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het bevoegde orgaan van het land van de woonplaats stelt de aanvrager in kennis van de genomen beslissingen door middel van een in de taal van de aanvrager opgestelde samenvatting, waarbij de door de desbetreffende organen genomen beslissingen zijn gevoegd.
 
@@ -278,7 +300,7 @@ De beroepstermijnen gaan eerst in na de dag waarop de aanvrager de samenvatting 
 
 ### Betaalbaarstelling van de uitkeringen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien het bevoegde orgaan vaststelt dat de aanvrager krachtens de door dit orgaan toegepaste wettelijke regeling recht heeft op uitkeringen zonder dat er een beroep behoeft te worden gedaan op artikel 18 van het Verdrag, betaalt het deze onmiddellijk als voorlopige uitkering. Bij de definitieve afdoening van de aanvraag om uitkeringen vereffenen de betrokken organen hun rekeningen met toepassing van artikel 43*)[Red: Lees: artikel 42.]van het Verdrag.
 
@@ -286,27 +308,27 @@ De beroepstermijnen gaan eerst in na de dag waarop de aanvrager de samenvatting 
 
 3. In het geval dat ingevolge de voorgaande leden voorlopige uitkeringen worden betaald is artikel 26 niet van toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 De door een orgaan van het ene land verschuldigde uitkeringen aan rechthebbenden die in het andere land wonen, worden rechtstreeks en op de in de door dit orgaan toegepaste wettelijke regeling voorziene vervaldagen uitbetaald. Daarentegen worden de achterstallige betalingen aan het bevoegde orgaan van het land van de woonplaats overgemaakt.
 
-#### Artikel 31
+##### Artikel 31
 
 De bevoegde organen van beide landen kunnen het bewijs van in leven zijn, het bewijs van de burgerlijke stand en de andere, voor het vaststellen van het verdere recht op uitkeringen noodzakelijke documenten opvragen, hetzij rechtstreeks bij de rechthebbende, hetzij door bemiddeling van het bevoegde orgaan van het land van de woonplaats.
 
 ### HOOFDSTUK 3. Werkloosheid en kinderbijslagen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Om in aanmerking te komen voor de toepassing van de artikelen 31 en 33 van het Verdrag dient de belanghebbende aan het bevoegde orgaan een verklaring over te leggen met betrekking tot de in aanmerking te nemen tijdvakken, voorzover het noodzakelijk is daarop een beroep te doen ter aanvulling van de tijdvakken, welke op grond van de door bedoeld orgaan toegepaste wettelijke regeling zijn vervuld.
 
 2. De verklaring wordt op verzoek van de belanghebbende uitgereikt door het orgaan waarbij hij tevoren en laatstelijk in het andere land aangesloten is geweest. Indien de belanghebbende de verklaring niet overlegt, verzoekt het bevoegde orgaan het betrokken orgaan daarom.
 
-#### Artikel 33
+##### Artikel 33
 
 De belanghebbende die een aanvraag om kinderbijslag indient ten behoeve van de kinderen die in het andere dan het bevoegde land wonen of worden opgevoed, legt een verklaring omtrent de gezinssamenstelling over welke door de bevoegde autoriteiten van de burgerlijke stand van dit land is verstrekt. Wat betreft de overige noodzakelijke documenten is artikel 31 van overeenkomstige toepassing.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De kinderbijslag wordt overeenkomstig de voorschriften van de toepasselijke wettelijke regeling en op de in deze wettelijke regeling voorziene vervaldagen uitbetaald.
 
@@ -314,7 +336,7 @@ De belanghebbende die een aanvraag om kinderbijslag indient ten behoeve van de k
 
 ## TITEL III. DIVERSE BEPALINGEN
 
-#### Artikel 35
+##### Artikel 35
 
 1. In de gevallen, bedoeld in de artikelen 11, 18, 19, 31 en 33 van het Verdrag, worden de tijdvakken van verzekering, vervuld krachtens de wetgevingen van de beide landen voorzover nodig overeenkomstig de volgende regels samengeteld met het oog op het verkrijgen, het behoud of het herstel van het recht op uitkeringen, alsmede voor de berekening van de uitkeringen:
 
@@ -328,7 +350,7 @@ De belanghebbende die een aanvraag om kinderbijslag indient ten behoeve van de k
 
 2. Indien krachtens het eerste lid, letter a), van dit artikel geen rekening wordt gehouden met tijdvakken van verzekering, vervuld op grond van een vrijwillige verzekering krachtens de wetgeving inzake invaliditeitsverzekering, ouderdom en overlijden (pensioenen) van een land, worden de premies welke voor deze tijdvakken zijn betaald geacht bestemd te zijn ter verhoging van de krachtens genoemde wetgeving verschuldigde uitkeringen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De administratieve en medische controle van in Nederland wonende of verblijvende rechthebbenden op prestaties krachtens de Joegoslavische wetgeving, wordt op verzoek van het bevoegde orgaan uitgeoefend door tussenkomst van:
 
@@ -344,39 +366,39 @@ De belanghebbende die een aanvraag om kinderbijslag indient ten behoeve van de k
 
 4. Voor de vaststelling van de mate van invaliditeit houden de organen van elk land rekening met de medische bevindingen en de administratieve gegevens, welke door de organen van het andere land zijn verzameld.
 
-#### Artikel 37
+##### Artikel 37
 
 Indien uit de in artikel 36 bedoelde controle blijkt dat de rechthebbende op prestaties werkzaamheden verricht of dat hij inkomsten geniet welke de voorgeschreven grens overschrijden of dat hij het werk heeft hervat, dient het orgaan van de woon- of verblijfplaats een rapport toe te zenden aan het bevoegde orgaan dat om controle heeft verzocht. Dit rapport maakt melding van de door het bevoegde orgaan gevraagde inlichtingen en vermeldt in het bijzonder de aard van de verrichte werkzaamheden, het bedrag van de verdiensten of inkomsten, welke de belanghebbende gedurende het laatstelijk verstreken kwartaal genoot, de normale beloning, welke in hetzelfde gebied werd genoten door een werknemer van de beroepsgroep waartoe de belanghebbende behoorde in het beroep dat hij uitoefende voor hij invalide werd, alsmede in voorkomend geval het oordeel van een medisch deskundige omtrent de gezondheidstoestand van de belanghebbende.
 
-#### Artikel 38
+##### Artikel 38
 
 Wanneer de belanghebbende na schorsing van de uitkeringen welke hij genoot, opnieuw recht op uitkeringen verkrijgt, terwijl hij op het grondgebied van het andere land woont, wisselen de betrokken organen alle nodig geachte inlichtingen uit met het oog op de hervatting van de betaling van deze uitkeringen.
 
-#### Artikel 39
+##### Artikel 39
 
 Alle uitkeringen worden aan de rechthebbenden uitbetaald zonder aftrek van porti of bankkosten.
 
-#### Artikel 40
+##### Artikel 40
 
 De kosten die voortvloeien uit administratieve controle en geneeskundig onderzoek, observaties, reizen en allerlei verificaties, nodig voor de verlening van prestaties of voor de herziening daarvan, worden aan het met deze controle of verificaties belaste orgaan, op basis van het door dit orgaan toegepaste tarief, vergoed.
 
-#### Artikel 41
+##### Artikel 41
 
 Voor de toepassing van artikel 39 van het Verdrag vermeldt de autoriteit, het orgaan of de rechterlijke instantie welke de aanvraag, de verklaring of het beroepschrift heeft ontvangen, dat had moeten worden ingediend bij een autoriteit, orgaan of rechterlijke instantie van het andere land, de datum waarop de aanvraag, de verklaring of het beroepschrift is ontvangen.
 
-#### Artikel 42
+##### Artikel 42
 
 Bij de aan de bevoegde organen gezonden inlichtingen en met name bij de medische rapporten wordt een vertaling in de Franse of Engelse taal gevoegd.
 
-#### Artikel 43
+##### Artikel 43
 
 Alle geschillen met betrekking tot de toepassing van dit Akkoord zullen worden opgelost door een commissie, samengesteld uit op het terrein van de sociale zekerheid bevoegde vertegenwoordigers van de bevoegde autoriteiten, die zich kunnen laten bijstaan door deskundigen. De commissie komt beurtelings bijeen in het ene en in het andere land.
 
-#### Artikel 44
+##### Artikel 44
 
 De verbindingsorganen kunnen, in gemeen overleg, de noodzakelijke formulieren voor verklaringen, aanvragen en andere documenten, benodigd voor de toepassing van het Verdrag en dit Akkoord, vaststellen.
 
-#### Artikel 45
+##### Artikel 45
 
 Dit Akkoord treedt op dezelfde dag in werking als het Verdrag en heeft dezelfde werkingsduur.
 

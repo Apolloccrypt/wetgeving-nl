@@ -1,13 +1,39 @@
 ---
-title: "Regeling provinciale maatregelen landelijk gebied"
+title: "Regeling van de Minister voor Natuur en Stikstof van 7 juni 2024, nr. WJZ/ 58032956, houdende regels voor het verstrekken van specifieke uitkeringen aan provincies voor de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale maatregelen landelijk gebied)"
 identifier: "BWBR0049793"
-categorie: "Overig"
-publicatiedatum: 2025-04-12
-laatste_update: 2025-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049793"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-12"
+last_updated: "2025-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049793"
+soort: "ministeriele-regeling"
+stam_id: "17124193"
+version_id: "30136822"
+internal_id: "C43177411"
+label_id: "17032754"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049793/2025-04-12/0"
+intitule_bron: "Stcrt.2024-18131"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-07"
+intitule_published: "2024-06-10"
+intitule_in_force: "2024-06-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18131"
+original_signed_date: "2024-06-07"
+original_published_date: "2024-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18131"
+entry_into_force_date: "2024-06-11"
+jci_1_3: "jci1.3:c:BWBR0049793&z=2025-04-12&g=2025-04-12"
+jci_1_0: "1.0:c:BWBR0049793&g=2025-04-12"
+citeertitel_status: "officieel"
+short_title: "Regeling provinciale maatregelen landelijk gebied"
+signed_date: "2024-06-07"
+entry_into_force: "2024-06-11"
 ---
-
 # Regeling van de Minister voor Natuur en Stikstof van 7 juni 2024, nr. WJZ/ 58032956, houdende regels voor het verstrekken van specifieke uitkeringen aan provincies voor de gebiedsgerichte aanpak voor natuur, stikstof, water en klimaat (Regeling provinciale maatregelen landelijk gebied)
 
 Gelet op de [artikelen 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Specifieke uitkering voor indirecte uitvoeringskosten
 
-#### Artikel 2. Uitkering voor indirecte uitvoeringskosten 2024
+##### Artikel 2. Uitkering voor indirecte uitvoeringskosten 2024
 
 1. De minister verstrekt aan de provincies ambtshalve een specifieke uitkering voor de financiering van de indirecte uitvoeringskosten die zij in 2024 maken of hebben gemaakt.
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - b. kosten waarvoor al uit anderen hoofde een uitkering of subsidie is of wordt verstrekt.
 
-#### Artikel 3. Uitkeringsplafond en beschikbaar budget
+##### Artikel 3. Uitkeringsplafond en beschikbaar budget
 
 1. Het uitkeringsplafond bedraagt € 38.534.177, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 | **Zeeland** | € 1.376.221 |
 | **Zuid-Holland** | € 2.752.441 |
 
-#### Artikel 4. Verlening en voorschot
+##### Artikel 4. Verlening en voorschot
 
 1. De minister geeft binnen zes weken na inwerkingtreding van deze regeling een beschikking tot verlening van de uitkering.
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3. Specifieke uitkering voor kosten van gebiedsprocessen en maatregelen
 
-#### Artikel 5. Uitkering voor kosten van gebiedsprocessen en maatregelen
+##### Artikel 5. Uitkering voor kosten van gebiedsprocessen en maatregelen
 
 1. De minister kan aan een provincie op aanvraag een of meer specifieke uitkeringen verstrekken voor de financiering van een of meer gebiedsprocessen en maatregelen die de provincie wil uitvoeren als onderdeel van een brede, langjarige gebiedsgerichte aanpak om de stikstofbelasting van de natuur terug te dringen en de natuur te beschermen en te ontwikkelen, een bijdrage te leveren aan het tijdig voldoen aan de kaderrichtlijn water, de emissie van broeikasgassen door de landbouw en door landgebruik te verminderen en een bijdrage te leveren aan de verduurzaming van de landbouw.
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 - d. kosten waarvoor al uit anderen hoofde een specifieke uitkering of subsidie is of wordt verstrekt.
 
-#### Artikel 6. Uitkeringsplafond en beschikbaar budget
+##### Artikel 6. Uitkeringsplafond en beschikbaar budget
 
 1. Het uitkeringsplafond bedraagt € 1.586.590.274, inclusief de omzetbelasting waarvoor de provincie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) voor compensatie in aanmerking komt.
 
@@ -108,7 +134,7 @@ In deze regeling wordt verstaan onder:
 | **Zeeland** | € 28.433.000 |
 | **Zuid-Holland** | € 188.250.000 |
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 1. De aanvraag bevat in ieder geval gegevens of bescheiden waaruit blijkt dat de minister van oordeel is dat de betrokken gebiedsprocessen en maatregelen in aanmerking komen voor de door de provincie gewenste uitkering.
 
@@ -124,7 +150,7 @@ In deze regeling wordt verstaan onder:
 
 5. Een aanvraag voor het extra budget dat voor de provincies Flevoland, Noord-Holland en Zeeland beschikbaar is gesteld bij de Regeling van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, nr. WJZ/86195654, tot wijziging van de Regeling provinciale maatregelen landelijk gebied (tweede verhoging budget) kan worden ingediend tot 1 september 2025.
 
-#### Artikel 8. Beslistermijn, verlening en voorschot
+##### Artikel 8. Beslistermijn, verlening en voorschot
 
 1. De minister geeft binnen acht weken na het indienen van de aanvraag een beschikking omtrent verlening van de uitkering.
 
@@ -134,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. De provincie spant zich ervoor in de uitkering zodanig aan te wenden dat de meest doelmatige en doeltreffende bijdrage wordt geleverd aan de doelen, genoemd in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12).
 
@@ -148,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 6. De minister kan in de beschikking tot verlening andere verplichtingen opleggen die bijdragen aan de in het eerste lid bedoelde doelen.
 
-#### Artikel 10. Periode voor afronden gebiedsprocessen en maatregelen
+##### Artikel 10. Periode voor afronden gebiedsprocessen en maatregelen
 
 1. De minister bepaalt in de beschikking tot verlening tot wanneer de gebiedsprocessen en maatregelen kunnen worden uitgevoerd.
 
@@ -158,7 +184,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 11. Verwerking van gegevens
+##### Artikel 11. Verwerking van gegevens
 
 1. De minister kan voor een beoordeling van de juistheid van de informatie die is verstrekt bij de indiening van aanvragen op grond van deze regeling gebruikmaken van de daarvoor noodzakelijke gegevens die zijn opgenomen in registraties op grond van de volgende wettelijke voorschriften:
 
@@ -178,7 +204,7 @@ In deze regeling wordt verstaan onder:
 
 - b. verstrekken aan kennisinstellingen met het oog op monitoring, voortgang en evaluatie.
 
-#### Artikel 12. Verantwoording en vaststelling
+##### Artikel 12. Verantwoording en vaststelling
 
 1. De provincie legt verantwoording af over de besteding van de in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=2&artikel=2&z=2025-04-12&g=2025-04-12) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049793&paragraaf=3&artikel=5&z=2025-04-12&g=2025-04-12) bedoelde uitkeringen op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -186,13 +212,13 @@ In deze regeling wordt verstaan onder:
 
 3. Nadat de minister voor een uitkering de relevante verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), heeft ontvangen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, stelt de minister die uitkering binnen 22 weken na die ontvangst ambtshalve vast.
 
-#### Artikel 13. Inwerkingtreding en horizonbepaling
+##### Artikel 13. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling provinciale maatregelen landelijk gebied.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling kavels B05, B28, B29 en B34"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 17 juli 2019, nr. WJZ/19094095, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05, B28, B29 en B34, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B05, B28, B29 en B34)"
 identifier: "BWBR0042430"
-categorie: "Overig"
-publicatiedatum: 2019-07-20
-laatste_update: 2019-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042430"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-07-20"
+last_updated: "2019-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042430"
+soort: "ministeriele-regeling"
+stam_id: "15126833"
+version_id: "25937472"
+internal_id: "C36952131"
+label_id: "15074874"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042430/2019-07-20/0"
+intitule_bron: "Stcrt.2019-25845"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-17"
+intitule_published: "2019-07-19"
+intitule_in_force: "2019-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-25845"
+original_signed_date: "2019-07-17"
+original_published_date: "2019-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-25845"
+entry_into_force_date: "2019-07-20"
+jci_1_3: "jci1.3:c:BWBR0042430&z=2019-07-20&g=2019-07-20"
+jci_1_0: "1.0:c:BWBR0042430&g=2019-07-20"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling kavels B05, B28, B29 en B34"
+signed_date: "2019-07-17"
+entry_into_force: "2019-07-20"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 17 juli 2019, nr. WJZ/19094095, handelende in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B05, B28, B29 en B34, de vaststelling van die vergunningen, en de vaststelling van de daaraan te koppelen vergunningen voor digitale radio-omroep (Besluit bekendmaking veiling kavels B05, B28, B29 en B34)
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -25,23 +51,23 @@ De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daa
 | **B29** | 3 | 0,23% |
 | **B34** | 4 | 0,13% |
 
-#### Artikel 2
+##### Artikel 2
 
 De procedure van de veiling vangt aan op 3 september 2019.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042430&artikel=1&z=2019-07-20&g=2019-07-20), zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorschriften en beperkingen behorende bij de aan de vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042430&artikel=1&z=2019-07-20&g=2019-07-20), te koppelen vergunningen voor digitale radio-omroep worden, voor zover dat reeds mogelijk is, vastgesteld in [bijlagen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042430&bijlage=5&z=2019-07-20&g=2019-07-20) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0042430&bijlage=6&z=2019-07-20&g=2019-07-20).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B05, B28, B29 en B34.
 
@@ -57,7 +83,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
@@ -79,7 +105,7 @@ In deze beschikking wordt verstaan onder:
 
 - i. **Regeling:** [Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039578).
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <aanvrager>, ingeschreven in het handelsregister onder nummer <KvK-nummer>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B05).
 
@@ -87,7 +113,7 @@ In deze beschikking wordt verstaan onder:
 
 - 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -97,11 +123,11 @@ In deze beschikking wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -119,11 +145,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en eindigt:
 
@@ -189,7 +215,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
@@ -211,7 +237,7 @@ In deze beschikking wordt verstaan onder:
 
 - i. **Regeling:** [Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039578).
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <aanvrager>, ingeschreven in het handelsregister onder nummer <KvK-nummer>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B28).
 
@@ -219,7 +245,7 @@ In deze beschikking wordt verstaan onder:
 
 - 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -229,11 +255,11 @@ In deze beschikking wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -251,11 +277,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en eindigt:
 
@@ -303,7 +329,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
@@ -325,7 +351,7 @@ In deze beschikking wordt verstaan onder:
 
 - i. **Regeling:** [Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039578).
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <aanvrager>, ingeschreven in het handelsregister onder nummer<KvK-nummer>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B29).
 
@@ -333,7 +359,7 @@ In deze beschikking wordt verstaan onder:
 
 - 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -343,11 +369,11 @@ In deze beschikking wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -365,11 +391,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en eindigt:
 
@@ -419,7 +445,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beschikking wordt verstaan onder:
 
@@ -441,7 +467,7 @@ In deze beschikking wordt verstaan onder:
 
 - i. **Regeling:** [Regeling aanvraag- en veilingprocedure teruggekomen niet-landelijke commerciële FM-vergunningen 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039578).
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <aanvrager>, ingeschreven in het handelsregister onder nummer <KvK-nummer>, hierna te noemen: vergunninghouder, wordt een vergunning verleend voor het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, ten behoeve van niet-landelijke commerciële radio-omroep (kavel B34).
 
@@ -449,7 +475,7 @@ In deze beschikking wordt verstaan onder:
 
 - 3. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 3. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -459,11 +485,11 @@ In deze beschikking wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -481,11 +507,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op instellingen als bedoeld in [artikel 6.24 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=6.24) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en eindigt:
 
@@ -535,7 +561,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. In deze vergunning wordt verstaan onder:
 
@@ -565,7 +591,7 @@ BESLUIT:
 
 - 2. De definities in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) zijn van toepassing.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <naam vergunninghouder>, ingeschreven in het handelsregister onder nummer <nummer KvK>, hierna te noemen: vergunninghouder, wordt, onverminderd het vijfde en zesde lid, een vergunning verleend voor het gebruik van 1/18de deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 195,168 MHz – 196,704 MHz (allotment 8A).
 
@@ -587,7 +613,7 @@ BESLUIT:
 
 - 8. De vergunninghouder die een schriftelijke instemming heeft gegeven als bedoeld in het zesde lid, onderdeel a, zendt hiervan onverwijld een afschrift aan de Minister.
 
-#### Artikel 3. Samenwerking vergunninghouders
+##### Artikel 3. Samenwerking vergunninghouders
 
 - 1. De vergunninghouder gaat de samenwerkingsovereenkomst schriftelijk aan.
 
@@ -599,11 +625,11 @@ BESLUIT:
 
 - 5. Indien na het tijdstip waarop de samenwerkingsovereenkomst in werking treedt een vergunning wordt verleend voor een deel van het gebruik van de capaciteit van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, zorgt de vergunninghouder ervoor dat die nieuwe vergunninghouder op non-discriminatoire voorwaarden partij kan worden bij de samenwerkingsovereenkomst.
 
-#### Artikel 4. Technische beschrijving
+##### Artikel 4. Technische beschrijving
 
 Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technische beschrijving zoals deze in bijlagen I en III is opgenomen. De technische beschrijving omvat tevens het spectrummasker 1 voor T-DAB radioapparaten, werkend in niet-kritische omstandigheden.
 
-#### Artikel 5. Registratie van frequentieruimte
+##### Artikel 5. Registratie van frequentieruimte
 
 - 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte, bedoeld in artikel 2, voor zover dit leidt tot belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
 
@@ -615,7 +641,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 5. Het notificatieverzoek geschiedt met gebruikmaking van het “Formulier kennisgeving ingebruikname en notificatie” bedoeld in bijlage II.
 
-#### Artikel 6. Ingebruiknameverplichting
+##### Artikel 6. Ingebruiknameverplichting
 
 - 1. De vergunninghouder biedt de dienst, omschreven in artikel 2, aan met een geografische verzorging van 85% mobiele ontvangst en een demografische verzorging van 65% binnenontvangst.
 
@@ -623,7 +649,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 3. De geografische verzorging zoals bedoeld in het eerste en tweede lid is voor mobiele ontvangst vastgesteld op een veldsterkte van 60 dBµV/m en de demografische verzorging voor binnenontvangst op een veldsterkte van 66 dBµV/m op 10 meter hoogte voor 50% van de tijd en plaats en bij een referentiefrequentie van 200 MHz. Indien een andere centrumfrequentie wordt gebruikt, wordt de voorgeschreven veldsterkte aangepast conform annex 3.5 van GE06.
 
-#### Artikel 7. Wegnemen belemmeringen
+##### Artikel 7. Wegnemen belemmeringen
 
 - 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radioapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de natuurlijke persoon of rechtspersoon, bedoeld in het vierde lid, dan wel indien deze verzaakt, de vergunninghouder, er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op kosten van de samenwerkende vergunninghouders worden verholpen, voor zover ter plaatse:
 
@@ -643,7 +669,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 5. De vergunninghouder is verplicht 1/N-de deel van de kosten, bedoeld in het eerste lid, te vergoeden.
 
-#### Artikel 8. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 8. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -655,21 +681,21 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 3. Artikel 7, vierde en vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 9. Kennisgeving ingebruikname
+##### Artikel 9. Kennisgeving ingebruikname
 
 De vergunninghouder stelt de Minister van elke ingebruikname van (onderdelen van) de frequentieruimte uiterlijk vier weken van tevoren schriftelijk in kennis en overlegt daarbij de gegevens bedoeld in bijlage II conform het in die bijlage vermelde format.
 
-#### Artikel 10. Correspondentie
+##### Artikel 10. Correspondentie
 
 - 1. Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
 - 2. De verplichting, bedoeld in artikelen 3, tweede lid en 9, geldt niet voor zover een samenwerkende vergunninghouder namens een andere vergunninghouder de verplichte kennisgeving of mededeling doet.
 
-#### Artikel 11. Overeenkomst gezamenlijk gebruik
+##### Artikel 11. Overeenkomst gezamenlijk gebruik
 
 De samenwerkingsovereenkomst wordt gesloten binnen een periode van ten hoogste zes weken na inwerkingtreding van deze vergunning.
 
-#### Artikel 12. Inwerkingtreding en looptijd van de vergunning
+##### Artikel 12. Inwerkingtreding en looptijd van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en loopt tot en met 31 augustus 2022.
 
@@ -731,7 +757,7 @@ Gelet op de [artikelen 3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&art
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. In deze vergunning wordt verstaan onder:
 
@@ -761,7 +787,7 @@ BESLUIT:
 
 - 2. De definities in [artikel 1.1, eerste lid, van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1) zijn van toepassing.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Aan <naam vergunninghouder>, ingeschreven in het handelsregister onder nummer <nummer KvK>, hierna te noemen: vergunninghouder, wordt, onverminderd het vijfde en zesde lid, een vergunning verleend voor het gebruik van 1/18de deel van de capaciteit van de frequentieruimte binnen het frequentiebereik 182,880 MHz – 184,416 MHz (allotment 6B).
 
@@ -783,7 +809,7 @@ BESLUIT:
 
 - 8. De vergunninghouder die een schriftelijke instemming heeft gegeven als bedoeld in het zesde lid, onderdeel a, zendt hiervan onverwijld een afschrift aan de Minister.
 
-#### Artikel 3. Samenwerking vergunninghouders
+##### Artikel 3. Samenwerking vergunninghouders
 
 - 1. De vergunninghouder gaat de samenwerkingsovereenkomst schriftelijk aan.
 
@@ -795,11 +821,11 @@ BESLUIT:
 
 - 5. Indien na het tijdstip waarop de samenwerkingsovereenkomst in werking treedt een vergunning wordt verleend voor een deel van het gebruik van de capaciteit van de frequentieruimte binnen het frequentiebereik genoemd in artikel 2, eerste lid, zorgt de vergunninghouder ervoor dat die nieuwe vergunninghouder op non-discriminatoire voorwaarden partij kan worden bij de samenwerkingsovereenkomst.
 
-#### Artikel 4. Technische beschrijving
+##### Artikel 4. Technische beschrijving
 
 Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technische beschrijving zoals deze in bijlagen I en III is opgenomen. De technische beschrijving omvat tevens het spectrummasker 1 voor T-DAB radioapparaten, werkend in niet-kritische omstandigheden.
 
-#### Artikel 5. Registratie van frequentieruimte
+##### Artikel 5. Registratie van frequentieruimte
 
 - 1. De vergunninghouder staakt of beperkt het gebruik van de frequentieruimte, bedoeld in artikel 2, voor zover dit leidt tot belemmeringen in het gebruik van in het MIFR door anderen geregistreerde frequentieruimte.
 
@@ -811,7 +837,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 5. Het notificatieverzoek geschiedt met gebruikmaking van het “Formulier kennisgeving ingebruikname en notificatie” bedoeld in bijlage II.
 
-#### Artikel 6. Ingebruiknameverplichting
+##### Artikel 6. Ingebruiknameverplichting
 
 - 1. De vergunninghouder biedt de dienst, omschreven in artikel 2, aan met een geografische verzorging van 85% mobiele ontvangst en een demografische verzorging van 65% binnenontvangst.
 
@@ -819,7 +845,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 3. De geografische verzorging zoals bedoeld in het eerste en tweede lid is voor mobiele ontvangst vastgesteld op een veldsterkte van 60 dBµV/m en de demografische verzorging voor binnenontvangst op een veldsterkte van 66 dBµV/m op 10 meter hoogte voor 50% van de tijd en plaats en bij een referentiefrequentie van 200 MHz. Indien een andere centrumfrequentie wordt gebruikt, wordt de voorgeschreven veldsterkte aangepast conform annex 3.5 van GE06.
 
-#### Artikel 7. Wegnemen belemmeringen
+##### Artikel 7. Wegnemen belemmeringen
 
 - 1. Indien op enige plaats binnenshuis door het gewenste signaal van de in het kader van deze vergunning gebruikte radioapparaten belemmeringen in de ontvangst van kabeltelevisie worden veroorzaakt draagt de natuurlijke of rechtspersoon bedoeld in het vierde lid, dan wel indien deze verzaakt, de vergunninghouder, er op verzoek van degene die de belemmeringen ondervindt, zorg voor dat deze onverwijld op kosten van de samenwerkende vergunninghouders worden verholpen, voor zover ter plaatse:
 
@@ -839,7 +865,7 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 5. De vergunninghouder is verplicht 1/N-de deel van de kosten, bedoeld in het eerste lid, te vergoeden.
 
-#### Artikel 8. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
+##### Artikel 8. Beperkingen ter uitvoering van de Beleidsregel storing door het gewenste signaal van radiozendapparaten
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -851,21 +877,21 @@ Het gebruik van de frequentieruimte vindt plaats met inachtneming van de technis
 
 - 3. Artikel 7, vierde en vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 9. Kennisgeving ingebruikname
+##### Artikel 9. Kennisgeving ingebruikname
 
 De vergunninghouder stelt de Minister van elke ingebruikname van (onderdelen van) de frequentieruimte uiterlijk vier weken van tevoren schriftelijk in kennis en overlegt daarbij de gegevens bedoeld in bijlage II conform het in die bijlage vermelde format.
 
-#### Artikel 10. Correspondentie
+##### Artikel 10. Correspondentie
 
 - 1. Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
 - 2. De verplichting, bedoeld in artikelen 3, tweede lid en 9, geldt niet voor zover een samenwerkende vergunninghouder namens een andere vergunninghouder de verplichte kennisgeving of mededeling doet.
 
-#### Artikel 11. Overeenkomst gezamenlijk gebruik
+##### Artikel 11. Overeenkomst gezamenlijk gebruik
 
 De samenwerkingsovereenkomst wordt gesloten binnen een periode van ten hoogste zes weken na inwerkingtreding van deze vergunning.
 
-#### Artikel 12. Inwerkingtreding en looptijd van de vergunning
+##### Artikel 12. Inwerkingtreding en looptijd van de vergunning
 
 Deze vergunning treedt in werking op <de dag na verzending> en loopt tot en met 31 augustus 2022.
 

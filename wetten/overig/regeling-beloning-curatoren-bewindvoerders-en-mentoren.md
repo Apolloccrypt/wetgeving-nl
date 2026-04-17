@@ -1,20 +1,46 @@
 ---
-title: "Regeling beloning curatoren, bewindvoerders en mentoren"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 4 november 2014, nr. 577811 houdende de invoering van de Regeling beloning curatoren, bewindvoerders en mentoren (Regeling beloning curatoren, bewindvoerders en mentoren)"
 identifier: "BWBR0035730"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035730"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035730"
+soort: "ministeriele-regeling"
+stam_id: "12830743"
+version_id: "21798112"
+internal_id: "C31284411"
+label_id: "12800434"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035730/2026-01-01/0"
+intitule_bron: "Stcrt.2014-32149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-04"
+intitule_published: "2014-11-10"
+intitule_in_force: "2014-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-32149"
+original_signed_date: "2014-11-04"
+original_published_date: "2014-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-32149"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035730&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035730&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beloning curatoren, bewindvoerders en mentoren"
+signed_date: "2014-11-04"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 4 november 2014, nr. 577811 houdende de invoering van de Regeling beloning curatoren, bewindvoerders en mentoren (Regeling beloning curatoren, bewindvoerders en mentoren)
 
 Gelet op de [artikelen 380, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=380), [386, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386), [410, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=410), [420, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=420), [447, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=447), en [460, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=460);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Indien de curator, bewindvoerder of mentor verzoekt om een beloning, stelt de kantonrechter die hem benoemt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met zevende lid, tenzij het een curator als bedoeld in [artikel 383, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), een bewindvoerder als bedoeld in [artikel 435, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), of een mentor als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452) betreft.
 
@@ -38,7 +64,7 @@ Besluit:
 
 8. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator, bewindvoerder of mentor op andere wijze vaststellen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kantonrechter die de curator, bedoeld in [artikel 383, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), benoemt, stelt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
@@ -68,7 +94,7 @@ Besluit:
 
 6. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator op andere wijze vaststellen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De kantonrechter die de bewindvoerder, bedoeld in [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), benoemt, stelt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
@@ -94,7 +120,7 @@ Besluit:
 
 6. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de bewindvoerder op andere wijze vaststellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De kantonrechter die de mentor, bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452), benoemt, stelt diens beloning vast overeenkomstig het bepaalde in het tweede tot en met vierde lid.
 
@@ -116,11 +142,11 @@ Besluit:
 
 5. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de mentor op andere wijze vaststellen.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt benoemd, stelt de kantonrechter diens beloning vast overeenkomstig de beloning van een curator als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=1&z=2026-01-01&g=2026-01-01) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de curator, bedoeld in [artikel 383, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het twaalfde lid.
 
@@ -156,7 +182,7 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 13. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de curator, bedoeld in het eerste lid, op andere wijze vaststellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de bewindvoerder, bedoeld in [artikel 435, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
@@ -178,7 +204,7 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 6. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de bewindvoerder, bedoeld in het eerste lid, op andere wijze vaststellen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de mentor, bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=452), wordt benoemd van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid.
 
@@ -198,7 +224,7 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 6. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de mentor, bedoeld in het eerste lid, op andere wijze vaststellen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een persoon wordt benoemd tot curator respectievelijk bewindvoerder van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het tiende lid.
 
@@ -230,7 +256,7 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 11. In afwijking van het eerste lid kan de kantonrechter in geval een bewind niet alle goederen betreft of wegens uitzonderlijke omstandigheden de beloning van de vertegenwoordiger, bedoeld in het eerste lid, op andere wijze vaststellen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien een persoon wordt benoemd tot curator respectievelijk mentor van twee personen die in gemeenschap van goederen zijn getrouwd of op andere wijze een economische eenheid vormen, stelt de kantonrechter zijn beloning vast overeenkomstig het bepaalde in het tweede tot en met het tiende lid.
 
@@ -262,25 +288,25 @@ Indien een persoon zowel tot bewindvoerder als tot mentor van een persoon wordt 
 
 11. In afwijking van het eerste lid kan de kantonrechter wegens uitzonderlijke omstandigheden de beloning van de vertegenwoordiger, bedoeld in het eerste lid, op andere wijze vaststellen.
 
-#### Artikel 11
+##### Artikel 11
 
 De kantonrechter stelt de jaarbeloning voor 2015 van een bewindvoerder die in 2014 een beloning heeft ontvangen op basis van het tarief behandeling schulden door beschermingsbewindvoerder uit de Aanbevelingen meerderjarigenbewind vast overeenkomstig [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 De kantonrechter kan de beloning van de mentor die voor 1 januari 2015 werd begeleid door een mentor als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035730&artikel=4&z=2026-01-01&g=2026-01-01), en die deze mentor heeft gemachtigd om de verschuldigde beloning te vorderen, op diens verzoek vaststellen overeenkomstig artikel 4.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met ingang van 1 januari 2027 worden de beloningen jaarlijks gewijzigd met ingang van 1 januari overeenkomstig [artikel 2, vijfde lid, van het Besluit vergoeding bewindvoerders schuldsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0033711&artikel=2).
 
 2. De beloningen worden afgerond op hele cijfers.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 januari 2015 en is van toepassing op werkzaamheden die op of na die datum worden verricht.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als Regeling beloning curatoren, bewindvoerders en mentoren.
 

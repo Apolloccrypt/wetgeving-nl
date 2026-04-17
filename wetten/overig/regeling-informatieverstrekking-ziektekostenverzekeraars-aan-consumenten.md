@@ -1,20 +1,45 @@
 ---
 title: "Regeling informatieverstrekking ziektekostenverzekeraars aan consumenten"
 identifier: "BWBR0048324"
-categorie: "Overig"
-publicatiedatum: 2023-11-01
-laatste_update: 2023-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048324"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-11-01"
+last_updated: "2023-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048324"
+soort: "zbo"
+stam_id: "16783963"
+version_id: "29479472"
+internal_id: "C42153181"
+label_id: "16699264"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048324/2023-11-01/0"
+intitule_bron: "Stcrt.2023-17348"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-12"
+intitule_published: "2023-06-29"
+intitule_in_force: "2023-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17348"
+original_signed_date: "2023-06-12"
+original_published_date: "2023-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17348"
+entry_into_force_date: "2023-11-01"
+jci_1_3: "jci1.3:c:BWBR0048324&z=2023-11-01&g=2023-11-01"
+jci_1_0: "1.0:c:BWBR0048324&g=2023-11-01"
+citeertitel_status: "officieel"
+signed_date: "2023-06-12"
+entry_into_force: "2023-11-01"
 ---
-
 # Regeling informatieverstrekking ziektekostenverzekeraars aan consumenten
 
 Gelet op [artikel 40, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) juncto [artikel 38, zevende lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (hierna: Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van transparantie van ziektekostenverzekeraars aan consumenten. Ook is de NZa bevoegd om op grond van [artikel 62 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) regels te stellen over welke gegevens en inlichtingen regelmatig moeten worden verstrekt dan wel onder welke omstandigheden deze moeten worden verstrekt door de ziektekostenverzekeraars.
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -58,17 +83,17 @@ In deze regeling wordt verstaan onder:
 
 - 1.16. **Verzekeringsjaar:** Het (gedeelte van het) kalenderjaar waarop de zorgverzekering betrekking heeft. Dit is de verzekerde periode in enig kalender jaar waarin een verzekerde verzekerd is op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Ziektekostenverzekeraars verstrekken relevante informatie over de eigenschappen van aangeboden producten en diensten op zodanige wijze dat deze informatie bruikbaar is en de consumenten hun keuze daarop kunnen baseren.
 
 Deze regeling beschrijft aan welke eisen de informatie moet voldoen om doeltreffend te zijn voor consumenten. De informatie moet daarnaast in ieder geval juist, vindbaar, gemakkelijk vergelijkbaar zijn en aansluiten bij de behoefte en vaardigheden van de consument.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op ziektekostenverzekeraars in de zin van [artikel 1, onderdeel f, onder 1 en 3, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 4. Bruikbaarheid van informatie
+##### Artikel 4. Bruikbaarheid van informatie
 
 - 4.1. Informatie voor consumenten moet bruikbaar zijn, zodat zij hun keuze daarop kunnen baseren.
 
@@ -82,7 +107,7 @@ Deze regeling is van toepassing op ziektekostenverzekeraars in de zin van [artik
 
 - 4.3. Leden 1 en 2 zijn van toepassing op alle hierna volgende verplichtingen in deze regeling.
 
-#### Artikel 5. Typering polissen
+##### Artikel 5. Typering polissen
 
 - 5.1. De zorgverzekeraar maakt alle modelovereenkomsten, voorwaarden en reglementen openbaar via zijn relevante openbare communicatiekanalen.
 
@@ -96,11 +121,11 @@ Deze regeling is van toepassing op ziektekostenverzekeraars in de zin van [artik
 
 - 5.6. De zorgverzekeraar typeert alle modelovereenkomsten die niet onder het vierde lid of het vijfde lid van dit artikel vallen als ‘combinatiepolis’. De zorgverzekeraar geeft daarbij aan voor welke prestaties de verzekerde recht heeft op zorg en voor welke prestaties de verzekerde recht heeft op vergoeding van de kosten van zorg, als bedoeld in [artikel 11, eerste lid, van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11).
 
-#### Artikel 6. Gebruik term marktconform tarief
+##### Artikel 6. Gebruik term marktconform tarief
 
 De zorgverzekeraar gebruikt het begrip marktconform tarief enkel wanneer hiermee bedoeld wordt de kosten die in de Nederlandse marktomstandigheden in redelijkheid passend zijn te achten, als bedoeld in [artikel 2.2, tweede lid, onder b, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.2).
 
-#### Artikel 7. Transparantie over op elkaar lijkende polissen
+##### Artikel 7. Transparantie over op elkaar lijkende polissen
 
 - 7.1. Wanneer vanuit een concern waartoe meer zorgverzekeraars behoren, dan wel vanuit een individuele zorgverzekeraar, modelovereenkomsten worden aangeboden die gelijk zijn of erg op elkaar lijken, vermeldt iedere betrokken zorgverzekeraar in een overzicht dat deze modelovereenkomsten gelijk zijn of erg op elkaar lijken. Dit overzicht moet de zorgverzekeraar plaatsen op alle relevante openbare communicatiekanalen. Dit overzicht dient op een direct zichtbare plek te staan waar ook het aanbod van de polissen en de premies van de zorgverzekeraar zijn geplaatst, zodat de verzekerde het kan gebruiken bij zijn keuze voor een zorgverzekering.
 
@@ -112,7 +137,7 @@ De zorgverzekeraar gebruikt het begrip marktconform tarief enkel wanneer hiermee
 
 - c. de premiegrondslag van de polis.
 
-#### Artikel 8. Informatievoorziening rondom collectieve zorgverzekeringen
+##### Artikel 8. Informatievoorziening rondom collectieve zorgverzekeringen
 
 - 8.1. De zorgverzekeraar draagt er zorg voor dat collectiviteiten met wie hij een collectiviteitsovereenkomst heeft gesloten, aan consumenten duidelijk maken:
 
@@ -124,13 +149,13 @@ De zorgverzekeraar gebruikt het begrip marktconform tarief enkel wanneer hiermee
 
 - 8.3. De zorgverzekeraar draagt er zorg voor dat de informatie, als bedoeld in het eerste lid, ook aan consumenten wordt gegeven als niet de collectiviteiten zelf, maar eventuele derden op basis van afspraken daarover met de zorgverzekeraar een modelovereenkomst aanbieden met een collectitiviteitsovereenkomst.
 
-#### Artikel 9. Inzicht in kosten voor behandeling of dienst
+##### Artikel 9. Inzicht in kosten voor behandeling of dienst
 
 - 9.1. Wanneer een consument vraagt om informatie over de financiële gevolgen van zijn (toekomstige) keuze voor een specifieke behandeling of dienst bij een specifieke zorgaanbieder, verstrekt de zorgverzekeraar de consument alle informatie die de consument nodig heeft om de financiële gevolgen van zijn keuze te kunnen overzien.
 
 - 9.2. Wanneer een consument niet beschikt over alle gegevens op basis waarvan de zorgverzekeraar de in het eerste lid bedoelde informatie kan geven, dan moet de zorgverzekeraar aangeven welke gegevens ontbreken. De zorgverzekeraar vermeldt hierbij, indien van toepassing, waar of bij wie de consument de ontbrekende gegevens kan verkrijgen zodat de informatie bedoeld in het eerste lid alsnog kan worden gegeven.
 
-#### Artikel 10. Informatie over (niet) gecontracteerde zorg
+##### Artikel 10. Informatie over (niet) gecontracteerde zorg
 
 - 10.1. Als de zorgverzekeraar met gecontracteerde zorgaanbieders werkt en dit mogelijk consequenties heeft voor de verzekerde dan:
 
@@ -146,19 +171,19 @@ De zorgverzekeraar gebruikt het begrip marktconform tarief enkel wanneer hiermee
 
 - 10.3. De zorgverzekeraar geeft in of bij het in eerste lid, onder b, bedoelde overzicht tijdens de overstapperiode aan wat de stand van zaken is met betrekking tot de contractering en wat de gevolgen daarvan zijn.
 
-#### Artikel 11. Geneesmiddelenbeleid
+##### Artikel 11. Geneesmiddelenbeleid
 
 De zorgverzekeraar verstrekt informatie over het geneesmiddelenbeleid, zoals het preferentiebeleid en de (financiële) gevolgen ervan voor de verzekerde/consument. De zorgverzekeraar stelt een overzicht van de preferente geneesmiddelen ter beschikking.
 
-#### Artikel 12. Vergoeding grensoverschrijdende zorg
+##### Artikel 12. Vergoeding grensoverschrijdende zorg
 
 De zorgverzekeraar verstrekt informatie over het recht op (vergoeding van) zorg in het buitenland via zijn relevante openbare communicatiekanalen. Deze informatie omvat ook de voorwaarden die gelden voor de vergoeding van zorg in het buitenland, zoals in welke gevallen voorafgaande toestemming is vereist, op welke wijze buitenlandse nota’s kunnen worden ingediend als het gaat om restitutie van de kosten, en welke vergoedingen hiervoor gelden. Daarbij geeft de zorgverzekeraar ook informatie over de European Health Insurance Card (EHIC) of een vervangend document (Provisional Replacement Certificate) welke gebruikt moet worden.
 
-#### Artikel 13. Afwijzingsgronden
+##### Artikel 13. Afwijzingsgronden
 
 Wanneer de zorgverzekeraar een aanvraag voor vergoeding van zorg afwijst, stuurt de zorgverzekeraar aan de verzekerde een afwijzingsbericht. De afwijzing is in het afwijzingsbericht zodanig duidelijk onderbouwd, dat de verzekerde op grond van de informatie in de afwijzingsbrief zelf kan nagaan of de afwijzing terecht is.
 
-#### Artikel 14. Systeem van eigen risico
+##### Artikel 14. Systeem van eigen risico
 
 - 14.1. De zorgverzekeraar stelt in zijn relevante openbare informatiekanalen alle voor de verzekerde relevante informatie over het verplicht en vrijwillig eigen risico beschikbaar. Dit betreft in ieder geval:
 
@@ -180,47 +205,47 @@ Wanneer de zorgverzekeraar een aanvraag voor vergoeding van zorg afwijst, stuurt
 
 - 14.3. De zorgverzekeraar informeert de verzekerde adequaat over welke kosten wel of niet zijn vergoed ten laste van de zorgverzekering en legt dit vast in een voor de verzekerde beschikbaar overzicht.
 
-#### Artikel 15. Beantwoording vragen
+##### Artikel 15. Beantwoording vragen
 
 - 15.1. De ziektekostenverzekeraar beantwoordt vragen van consumenten op zodanige wijze dat dit aansluit bij het moment waarop het nodig is en de manier waarop de consument de informatie nodig heeft.
 
 - 15.2. De zorgverzekeraar kan in zijn polisvoorwaarden eisen stellen aan de vorm waarin vragen worden gesteld en beantwoord.
 
-#### Artikel 16. Premiegrondslag en aspecten die premie beïnvloeden
+##### Artikel 16. Premiegrondslag en aspecten die premie beïnvloeden
 
 De ziektekostenverzekeraar verstrekt informatie in zijn relevante openbare informatiekanalen over de premie, de premiegrondslag en de aspecten die de premie zichtbaar beïnvloeden.
 
-#### Artikel 17. Opzegmogelijkheden van de verzekering
+##### Artikel 17. Opzegmogelijkheden van de verzekering
 
 De ziektekostenverzekeraar verstrekt informatie in zijn relevante openbare communicatiekanalen over hoe en wanneer de verzekering kan worden opgezegd.
 
-#### Artikel 18. Toegangsvoorwaarden voor de aanvullende verzekering
+##### Artikel 18. Toegangsvoorwaarden voor de aanvullende verzekering
 
 De ziektekostenverzekeraar verstrekt informatie in zijn relevante openbare communicatiekanalen over de toegangsvoorwaarden voor de aanvullende ziektekostenverzekering.
 
-#### Artikel 19. Wijzigingen in de polisvoorwaarden
+##### Artikel 19. Wijzigingen in de polisvoorwaarden
 
 - 19.1. De ziektekostenverzekeraar informeert de verzekerden tijdig over de voor hen nadelige wijzigingen in de polisvoorwaarden.
 
 - 19.2. De ziektekostenverzekeraar publiceert de wijzigingen, zoals bedoeld in het eerste lid, tijdig via zijn relevante openbare communicatiekanalen.
 
-#### Artikel 20. Mogelijkheid tot het indienen van een klacht
+##### Artikel 20. Mogelijkheid tot het indienen van een klacht
 
 De zorgverzekeraar informeert de verzekerde over de mogelijkheid tot het indienen van een klacht of een verzoek tot heroverweging van een besluit en de bijbehorende procedure.
 
-#### Artikel 21. Transparantie over zorgplicht
+##### Artikel 21. Transparantie over zorgplicht
 
 De zorgverzekeraar verstrekt adequate informatie over normen voor tijdigheid en bereikbaarheid van zorg en de mogelijkheden tot zorgbemiddeling.
 
-#### Artikel 22. Intrekken oude regeling
+##### Artikel 22. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling Informatieverstrekking ziektekostenverzekeraars aan consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0045844), met kenmerk TH/NR-022 ingetrokken.
 
-#### Artikel 23. Toepasselijkheid voorafgaande regeling
+##### Artikel 23. Toepasselijkheid voorafgaande regeling
 
 De [Regeling Informatieverstrekking ziektekostenverzekeraars aan consumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0045844), met kenmerk TH/NR-022 ingetrokken, blijft van toepassing op gedragingen (handelen en nalaten) van ziektekostenverzekeraars die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-#### Artikel 24. Inwerkingtreding en citeertitel
+##### Artikel 24. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking met ingang van 1 november 2023. Deze regeling wordt bekendgemaakt door plaatsing in de Staatscourant op grond van [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5).
 

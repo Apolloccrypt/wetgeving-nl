@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek"
 identifier: "BWBR0048145"
-categorie: "Overig"
-publicatiedatum: 2023-05-11
-laatste_update: 2023-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048145"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-05-11"
+last_updated: "2023-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048145"
+soort: "zbo"
+stam_id: "16743363"
+version_id: "29398892"
+internal_id: "C41994491"
+label_id: "16659354"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048145/2023-05-11/0"
+intitule_bron: "Stcrt.2023-13503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-11"
+intitule_published: "2023-05-11"
+intitule_in_force: "2023-05-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13503"
+original_signed_date: "2023-04-11"
+original_published_date: "2023-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-13503"
+entry_into_force_date: "2023-05-11"
+jci_1_3: "jci1.3:c:BWBR0048145&z=2023-05-11&g=2023-05-11"
+jci_1_0: "1.0:c:BWBR0048145&g=2023-05-11"
+citeertitel_status: "redactioneel"
+signed_date: "2023-04-11"
+entry_into_force: "2023-05-11"
 ---
-
 # Beleidsregel Toegang niet-openbare informatie in dossiers betreffende uitvoering wetten verzetsdeelnemers en oorlogsgetroffenen ten behoeve van onderzoek
 
 Gelet op het bepaalde in [artikel 5.7 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.7) (Woo)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -42,17 +67,17 @@ In deze beleidsregel wordt verstaan onder:
 
 - l). **Woo:** [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754).
 
-#### Artikel 2. Wijze waarop een verzoek kan worden ingediend
+##### Artikel 2. Wijze waarop een verzoek kan worden ingediend
 
 Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via info.wvo@svb.nl.
 
-#### Artikel 3. Ontvangstbevestiging
+##### Artikel 3. Ontvangstbevestiging
 
 1. De RvB van de SVB bevestigt zo spoedig mogelijk de ontvangst van het verzoek aan de verzoeker.
 
 2. Met de ontvangstbevestiging wordt verzoeker geïnformeerd over de afhandeling van het verzoek.
 
-#### Artikel 4. Voorwaarden waar een verzoek aan moet voldoen
+##### Artikel 4. Voorwaarden waar een verzoek aan moet voldoen
 
 1. Een verzoek moet aan de volgende voorwaarden voldoen:
 
@@ -72,7 +97,7 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 3. Indien het verzoek niet voldoet aan de voorwaarden zoals beschreven in het eerste lid, wordt het verzoek afgewezen zonder dat hiervoor advies aan de Commissie gevraagd hoeft te worden. De RvB van de SVB maakt deze afwijzing schriftelijk bekend aan de verzoeker.
 
-#### Artikel 5. Advies van de Commissie
+##### Artikel 5. Advies van de Commissie
 
 1. Voldoet het verzoek aan de voorwaarden als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048145&artikel=4&z=2023-05-11&g=2023-05-11), en is het voldoende specifiek, compleet en ook anderszins duidelijk dan wordt het verzoek ter advisering doorgestuurd naar de Commissie. Hiervan wordt gelijktijdig melding gemaakt aan de verzoeker.
 
@@ -82,7 +107,7 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 4. Het advies van de Commissie bindt de RvB van de SVB niet.
 
-#### Artikel 6. Beslissing tot toegang
+##### Artikel 6. Beslissing tot toegang
 
 1. De beslissing van de RvB van de SVB op een verzoek wordt ingevolge [artikel 4.3, tweede lid, aanhef en onder c, van de Woo](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=4.3) schriftelijk genomen.
 
@@ -100,7 +125,7 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 - •. de verkregen informatie wordt niet verder verspreid zonder voorafgaand besluit van de RvB als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048145&artikel=8&z=2023-05-11&g=2023-05-11).
 
-#### Artikel 7. Termijn
+##### Artikel 7. Termijn
 
 1. De RvB van de SVB beslist zo spoedig mogelijk op het verzoek, doch uiterlijk binnen acht weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.
 
@@ -116,7 +141,7 @@ Een verzoek wordt schriftelijk ingediend. Dit kan per post of elektronisch via i
 
 7. Indien de RvB van de SVB heeft besloten de toegang te verlenen kan daaraan een termijn worden verbonden waarbinnen ook gebruik moet worden gemaakt van de geboden mogelijkheid.
 
-#### Artikel 8. Beslissing tot publicatie
+##### Artikel 8. Beslissing tot publicatie
 
 1. De verzoeker is gehouden voor enige publicatie of anderszins verspreiding van de verkregen informatie een aanvraag tot publicatie in te dienen bij de RvB van de SVB.
 

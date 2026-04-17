@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017"
+title: "Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041359, handelende in overeenstemming met de Minister van Financiën, houdende regels met betrekking tot het bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017)"
 identifier: "BWBR0039357"
-categorie: "Overig"
-publicatiedatum: 2017-03-23
-laatste_update: 2017-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039357"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-03-23"
+last_updated: "2017-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039357"
+soort: "ministeriele-regeling"
+stam_id: "13956593"
+version_id: "23998242"
+internal_id: "C34493971"
+label_id: "13919774"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039357/2017-03-23/0"
+intitule_bron: "Stcrt.2017-16282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-17"
+intitule_published: "2017-03-22"
+intitule_in_force: "2017-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-16282"
+original_signed_date: "2017-03-17"
+original_published_date: "2017-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-16282"
+entry_into_force_date: "2017-03-23"
+jci_1_3: "jci1.3:c:BWBR0039357&z=2017-03-23&g=2017-03-23"
+jci_1_0: "1.0:c:BWBR0039357&g=2017-03-23"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017"
+signed_date: "2017-03-17"
+entry_into_force: "2017-03-23"
 ---
-
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17041359, handelende in overeenstemming met de Minister van Financiën, houdende regels met betrekking tot het bedrag verschuldigd door verkrijgers of houders van een vergunning voor het gebruik van frequentieruimte bestemd voor landelijke commerciële radio-omroep (Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017)
 
 Gelet op [artikel 3.15 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **vergunning voor digitale radio-omroep:** vergunning voor het gebruik van 1/9e deel van een capaciteit van het frequentieblok bedoeld in nationale voetnoot HOL007A van het Nationaal Frequentieplan 2014 die gekoppeld is aan de te verlengen vergunning.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verkrijger of houder van een vergunning voor landelijke commerciële radio die verleend is respectievelijk waarvan de geldigheidsduur is verlengd met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017](onbekend) is voor het gebruik van de desbetreffende frequentieruimte gedurende de periode van 1 september 2017 tot 1 september 2022 een bedrag verschuldigd, waarvan de hoogte is:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. Indien de verlenging en verlening van vergunningen met toepassing van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep](onbekend) plaatsvindt na 1 september 2017, is voor de resterende periode tot 1 september 2022 een bedrag verschuldigd waarvan de hoogte wordt bepaald door het desbetreffende bedrag, genoemd in het eerste lid, te vermenigvuldigen met een breuk waarvan de teller wordt gevormd door het aantal hele maanden dat na het tijdstip van vergunningverlening resteert tot 1 september 2022 en de noemer door het getal 60.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verkrijger of de houder van de vergunningen betaalt het op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039357&artikel=2&z=2017-03-23&g=2017-03-23) verschuldigde bedrag uiterlijk op een bij besluit van de minister te bepalen datum en tijdstip.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039357&artikel=2&z=2017-03-23&g=2017-03-23).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de aanvraag op grond van de [Regeling verlenging en digitalisering landelijke commerciële radio-omroep 2017](onbekend) wordt afgewezen, wordt de door de aanvrager op grond van [artikel 4, eerste lid, van die regeling](onbekend) verstrekte waarborgsom of bankgarantie door de minister, uiterlijk twee weken nadat de aanvraag is afgewezen, teruggestort, respectievelijk teruggegeven.
 
@@ -70,11 +96,11 @@ In deze regeling wordt verstaan onder:
 
 4. De rente wordt berekend volgens actual/360 op basis van de door de Europese Centrale Bank vastgestelde Euro Overnight Index Average, minus 100 basispunten, met een minimum van 0%.
 
-#### artikel 5
+##### artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### artikel 6
+##### artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vaststelling bedrag landelijke commerciële radio-omroep 2017.
 

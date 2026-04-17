@@ -1,14 +1,42 @@
 ---
-title: "Wet digitale overheid"
+title: "Wet van 24 maart 2023 tot algemene regels inzake het elektronisch verkeer in het publieke domein en inzake de generieke digitale infrastructuur (Wet digitale overheid)"
 identifier: "BWBR0048156"
-categorie: "Overig"
-publicatiedatum: 2025-11-11
-laatste_update: 2025-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048156"
+country: "nl"
+rank: "wet"
+publication_date: "2025-11-11"
+last_updated: "2025-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048156"
+soort: "wet"
+stam_id: "16745203"
+version_id: "31032572"
+internal_id: "C44438891"
+label_id: "16661524"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048156/2025-11-11/0"
+intitule_bron: "Stb.2023-158"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-24"
+intitule_published: "2023-05-11"
+intitule_in_force: "2023-05-11"
+intitule_status: "goed"
+original_publication: "Stb.2025-304"
+original_signed_date: "2025-10-01"
+original_published_date: "2025-11-06"
+original_effect: "structuurwijziging"
+original_dossier: "36639"
+original_url_id: "stb-2025-304"
+entry_into_force_date: "2025-10-01"
+entry_into_force_dossier: "36639"
+jci_1_3: "jci1.3:c:BWBR0048156&z=2025-11-11&g=2025-11-11"
+jci_1_0: "1.0:c:BWBR0048156&g=2025-11-11"
+citeertitel_status: "officieel"
+short_title: "Wet digitale overheid"
+signed_date: "2025-10-01"
+entry_into_force: "2025-10-01"
 ---
-
-# Wet digitale overheid
+# Wet van 24 maart 2023 tot algemene regels inzake het elektronisch verkeer in het publieke domein en inzake de generieke digitale infrastructuur (Wet digitale overheid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 2. Algemene regels
 
-#### Artikel 3. Standaarden
+##### Artikel 3. Standaarden
 
 1. De volgende organen passen de ingevolge het tweede lid aangewezen standaarden voor elektronisch verkeer toe, voor zover die standaard ingevolge het derde lid op hen van toepassing is:
 
@@ -60,17 +88,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 7. Financiële bepalingen
 
-#### Artikel 20. Leges voor verstrekking publiek identificatiemiddel
+##### Artikel 20. Leges voor verstrekking publiek identificatiemiddel
 
 1. De kosten die het Rijk maakt samenhangend met de productie en de verstrekking van een publiek identificatiemiddel worden door het Rijk ten laste gebracht van de verkrijger van dit middel.
 
 2. Bij ministeriële regeling wordt, voor zover deze vergoeding niet krachtens een andere wet wordt vastgesteld, per publiek identificatiemiddel het bedrag ter vergoeding van de kosten, bedoeld in het eerste lid, vastgesteld en kan de wijze van betaling worden vastgesteld.
 
-#### Artikel 21. Doorberekening kosten
+##### Artikel 21. Doorberekening kosten
 
 De kosten die het Rijk maakt samenhangend met de uitvoering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2025-11-11&g=2025-11-11) worden door Onze Minister ten laste gebracht van de bestuursorganen, aangewezen organisaties en andere organen die het betreft. Bij ministeriële regeling worden hierover regels gesteld.
 
-#### Artikel 22. Doorberekening aanvraag erkenning en toezicht op naleving erkenningseisen
+##### Artikel 22. Doorberekening aanvraag erkenning en toezicht op naleving erkenningseisen
 
 1. Onze Minister kan een heffing opleggen ter vergoeding van kosten overeenkomstig een door hem vastgesteld tarief ter zake van de volgende handelingen:
 
@@ -82,15 +110,15 @@ De kosten die het Rijk maakt samenhangend met de uitvoering van de [artikelen 5]
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 23. Evaluatie
+##### Artikel 23. Evaluatie
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. In het bijzonder wordt hierbij aandacht geschonken aan de getroffen maatregelen op het gebied van beveiliging, privacybescherming en de toegankelijkheid van elektronische dienstverlening.
 
-#### Artikel 23a
+##### Artikel 23a
 
 vervallen
 
-#### Artikel 24. Overgangsrecht bedrijfs- en organisatiemiddel
+##### Artikel 24. Overgangsrecht bedrijfs- en organisatiemiddel
 
 1. Een middelenuitgever of authenticatiedienst die onmiddellijk voor inwerkingtreding van dit artikel partij was bij een privaat stelsel van afspraken aangaande elektronische toegangsdiensten met de Staat wordt gedurende een periode van 18 maanden, gerekend van de dag na inwerkingtreding van dit artikel, geacht erkend te zijn op grond van [artikel 11, eerste, onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11) met betrekking tot het bedrijfs- en organisatiemiddel dat door hem in het kader van die afspraken wordt uitgegeven. Gedurende die 18 maanden wordt het betrokken bedrijfs- en organisatiemiddel geacht een erkend bedrijfs- en organisatiemiddel te zijn, met uitzondering van een bedrijfs- en organisatiemiddel dat binnen het stelsel functioneert op het niveau 1.
 
@@ -102,7 +130,7 @@ vervallen
 
 5. Een bedrijfs- of organisatiemiddel dat voor inwerkingtreding van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11) werd gebruikt voor elektronische dienstverlening door een bestuursorgaan of aangewezen organisatie aan een specifieke doelgroep, gelet op de aard van de dienstverlening of de aard van het door de doelgroep uitgeoefende bedrijf of beroep, wordt geacht op grond van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11), aangewezen te zijn gedurende een periode van ten hoogste 18 maanden, gerekend van de dag na inwerkingtreding van deze wet. Deze erkenning van rechtswege vervalt na 18 maanden, gerekend van de dag na inwerkingtreding van deze wet, of zoveel eerder als Onze Minister dat middel op grond van artikel 15, vijfde lid, heeft aangewezen.
 
-#### Artikel 25. Parlementaire betrokkenheid bij gedelegeerde regelgeving
+##### Artikel 25. Parlementaire betrokkenheid bij gedelegeerde regelgeving
 
 1. Een voordracht voor een krachtens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=4&z=2025-11-11&g=2025-11-11), [5, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2025-11-11&g=2025-11-11), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=13&z=2025-11-11&g=2025-11-11) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=7&artikel=22&z=2025-11-11&g=2025-11-11) te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -110,7 +138,7 @@ vervallen
 
 3. Een krachtens [artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11), vastgestelde algemene maatregel van bestuur wordt aan beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkende voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 26. Innovatie
+##### Artikel 26. Innovatie
 
 1. Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van nieuwe methoden waarmee authenticatie doeltreffender en veiliger kan plaatsvinden, worden afgeweken van de bij of krachtens deze wet geldende bepalingen.
 
@@ -120,11 +148,11 @@ vervallen
 
 4. Onze Minister zendt negen maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in het eerste lid aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van het experiment, alsmede een standpunt inzake de voortzetting anders dan als experiment.
 
-#### Artikel 27. Wijziging [Wegenverkeerswet 1994](onbekend)
+##### Artikel 27. Wijziging [Wegenverkeerswet 1994](onbekend)
 
 Wijzigt de Wegenverkeerswet 1994.
 
-#### Artikel 28. Omhangen
+##### Artikel 28. Omhangen
 
 Na de inwerkingtreding van deze wet berust
 
@@ -132,7 +160,7 @@ Na de inwerkingtreding van deze wet berust
 
 - b. het [Tijdelijk besluit digitale toegankelijkheid overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040936) op [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), van deze wet.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -140,7 +168,7 @@ Na de inwerkingtreding van deze wet berust
 
 3. De in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2025-11-11&g=2025-11-11) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11) opgenomen acceptatieplichten zijn voor een bestuursorgaan of aangewezen organisatie niet eerder van toepassing dan nadat dat bestuursorgaan of die aangewezen organisatie kan worden aangesloten op de in [artikel 5, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11) bedoelde infrastructuur en voorzieningen overeenkomstig het bij regeling van Onze Minister, gehoord Onze Ministers die het mede aangaat, op te stellen aansluitschema. Het aansluitschema kan erin voorzien dat de acceptatieplichten voor verschillende diensten van een bestuursorgaan of aangewezen organisatie op verschillende momenten van toepassing worden. De regeling met aansluitschema wordt gepubliceerd in de Staatscourant.
 
-#### Artikel 30. Citeertitel
+##### Artikel 30. Citeertitel
 
 Deze wet wordt aangehaald als: Wet digitale overheid.
 
@@ -150,7 +178,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -190,7 +218,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **toegelaten identificatiemiddel:** identificatiemiddel voor een natuurlijke persoon dat is aangewezen of erkend ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2025-11-11&g=2025-11-11).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Voor zover in deze wet, uitgezonderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), wordt verwezen naar bestuursorganen, wordt hieronder verstaan bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1).
 
@@ -220,7 +248,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Van een besluit tot aanwijzing of intrekking wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 4. Informatieveiligheid
+##### Artikel 4. Informatieveiligheid
 
 1. Bestuursorganen en aangewezen organisaties voldoen aan bij of krachtens algemene maatregel van bestuur te stellen regels met betrekking tot de werking, betrouwbaarheid en beveiliging van de toegang tot elektronische diensten op verschillende betrouwbaarheidsniveaus.
 
@@ -228,7 +256,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop bestuursorganen en aangewezen organisaties aantonen dat zij aan de regels, bedoeld in het eerste lid, voldoen.
 
-#### Artikel 5. Verantwoordelijkheid voor het beheer
+##### Artikel 5. Verantwoordelijkheid voor het beheer
 
 1. Onze Minister draagt zorg voor de inrichting, beschikbaarstelling, instandhouding, werking en beveiliging van de generieke digitale infrastructuur, waaronder infrastructuur:
 
@@ -264,7 +292,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 4.1. Algemeen
 
-#### Artikel 6. Betrouwbaarheidsniveaus
+##### Artikel 6. Betrouwbaarheidsniveaus
 
 1. Bij elektronische dienstverlening waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, verlenen bestuursorganen en aangewezen organisaties uitsluitend toegang tot de dienstverlening indien gebruik wordt gemaakt van identificatiemiddelen die ten minste het voor de betreffende dienstverlening vereiste betrouwbaarheidsniveau hebben.
 
@@ -276,7 +304,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 4.2. Elektronische dienstverlening aan burgers
 
-#### Artikel 7. Acceptatie
+##### Artikel 7. Acceptatie
 
 1. Bestuursorganen accepteren bij hun elektronische dienstverlening aan natuurlijke personen waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, uitsluitend:
 
@@ -300,7 +328,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bestuursorganen en aangewezen organisaties accepteren bij hun elektronische dienstverlening aan natuurlijke personen in de uitoefening van beroep of bedrijf waarvoor authenticatie op betrouwbaarheidsniveau substantieel of hoog vereist is, ook een toegelaten identificatiemiddel indien en voor zover dit bij regeling van Onze Minister in overeenstemming met Onze Ministers die het aangaat is bepaald.
 
-#### Artikel 8. Gebruik in publieke domein
+##### Artikel 8. Gebruik in publieke domein
 
 1. Een publiek identificatiemiddel en de voorziening, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11), worden uitsluitend gebruikt voor de toegang tot elektronische dienstverlening door bestuursorganen en aangewezen organisaties.
 
@@ -308,7 +336,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling kan Onze Minister in overeenstemming met Onze Minister die het aangaat bepalen dat een publiek identificatiemiddel en de voorziening, bedoeld in [artikel 5, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=3&artikel=5&z=2025-11-11&g=2025-11-11), tevens ten behoeve van aangewezen organisaties kan worden gebruikt voor het verlenen van toegang tot een systeem voor de elektronische uitwisseling van gegevens waarbij het burgerservicenummer wordt verwerkt, anders dan een systeem voor elektronische dienstverlening.
 
-#### Artikel 9. Toelaten van identificatiemiddelen en diensten
+##### Artikel 9. Toelaten van identificatiemiddelen en diensten
 
 1. Onze Minister wijst een publiek identificatiemiddel aan als toegelaten identificatiemiddel indien dit middel voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen met betrekking tot de werking, beveiliging en betrouwbaarheid. De eisen hebben mede betrekking op uitgifte en beëindiging van de middelen.
 
@@ -328,7 +356,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de procedure van erkenning, wijziging, schorsing of intrekking en de in dat verband over te leggen gegevens en informatie.
 
-#### Artikel 10. Regels ten aanzien van gebruik
+##### Artikel 10. Regels ten aanzien van gebruik
 
 1. De gebruiker van een toegelaten identificatiemiddel neemt alle nodige maatregelen om misbruik, diefstal, verlies of verspreiding van zijn identificatiemiddel te voorkomen.
 
@@ -338,7 +366,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 5. Bescherming van persoonsgegevens
 
-#### Artikel 16. Bescherming persoonsgegevens
+##### Artikel 16. Bescherming persoonsgegevens
 
 1. Onze Minister, alsmede bestuursorganen en aangewezen organisaties verwerken persoonsgegevens, waaronder het burgerservicenummer, voor zover dit noodzakelijk is voor de goede uitvoering van hun taken en verplichtingen ingevolge deze wet, in het bijzonder het bieden van goede en veilige toegang tot elektronische dienstverlening en het voorkomen van misbruik of oneigenlijk gebruik van de toegang tot elektronische dienstverlening.
 
@@ -350,7 +378,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 6. Naleving
 
-#### Artikel 17. Toezicht en handhaving
+##### Artikel 17. Toezicht en handhaving
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11)door overheidsorganen op het niveau van het Rijk en van het bepaalde bij of krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.1&artikel=6&z=2025-11-11&g=2025-11-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2025-11-11&g=2025-11-11), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2025-11-11&g=2025-11-11), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11) door bestuursorganen op het niveau van het Rijk en door de aangewezen organisaties zijn belast de bij besluit van Onze Minister die het aangaat aangewezen ambtenaren.
 
@@ -368,7 +396,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Onze Minister kan degene die handelt in strijd met het bepaalde bij of krachtens [artikel 9, vierde, zevende of achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2025-11-11&g=2025-11-11), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=13&z=2025-11-11&g=2025-11-11) en [14, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=14&z=2025-11-11&g=2025-11-11), daartoe opdracht heeft gegeven of feitelijk leiding geeft aan de rechtspersoon die in strijd met het bepaalde bij of krachtens artikel 13, eerste, tweede, derde of vierde lid, een bestuurlijke boete opleggen van ten hoogste het bedrag dat is vastgesteld voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23), per overtreding die is begaan.
 
-#### Artikel 18. Bijzondere bevoegdheden
+##### Artikel 18. Bijzondere bevoegdheden
 
 1. Onze Minister kan de toegang tot elektronische dienstverlening van een bestuursorgaan of een aangewezen organisatie onderbreken of doen onderbreken indien sprake is van:
 
@@ -384,7 +412,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister kan de toegang tot elektronische dienstverlening via een welbepaald toegelaten identificatiemiddel of erkend bedrijfs- en organisatiemiddel onderbreken of doen onderbreken bij het vermoeden van misbruik of oneigenlijk gebruik van het desbetreffende middel.
 
-#### Artikel 19. Informatieverstrekking
+##### Artikel 19. Informatieverstrekking
 
 1. Bestuursorganen en aangewezen organisaties, op grond van [artikel 9, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=9&z=2025-11-11&g=2025-11-11), toegelaten houders van een erkenning en op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11) erkende middelenuitgevers en diensten verstrekken aan Onze Minister desgevraagd en uit eigen beweging de gegevens en inlichtingen die hij nodig heeft om maatregelen te kunnen nemen om inbreuk op de veilige en betrouwbare toegang tot elektronische dienstverlening te voorkomen of beëindigen.
 
@@ -404,7 +432,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11. Erkenning bedrijfs- en organisatiemiddel en bijbehorende diensten
+##### Artikel 11. Erkenning bedrijfs- en organisatiemiddel en bijbehorende diensten
 
 1. Onze Minister erkent een middelenuitgever met betrekking tot een door die dienst uit te geven bedrijfs- en organisatiemiddel en het bijbehorende betrouwbaarheidsniveau, indien de dienst en het middel voldoen aan de daartoe bij of krachtens algemene maatregel van bestuur gestelde regels.
 
@@ -422,7 +450,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. Onze Minister weigert een aanvraag tot erkenning, indien zwaarwegende redenen zich tegen erkenning verzetten. Van dergelijke redenen is sprake in geval ernstig gevaar bestaat dat de erkenning mede zal worden gebruikt om strafbare feiten te plegen of uit strafbare feiten verkregen of te verkrijgen voordelen te benutten of anderszins de betrouwbaarheid en veiligheid van het Nederlandse stelsel voor elektronische dienstverlening in gevaar komt.
 
-#### Artikel 12. Aanwijzing van attributen
+##### Artikel 12. Aanwijzing van attributen
 
 1. Onze Minister kan een attribuut aanwijzen dat naar zijn oordeel van belang is voor de identificatie van ondernemingen of rechtspersonen als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11), ten behoeve van bepaalde elektronische dienstverlening op het niveau substantieel of hoog en daartoe door de op grond van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11) erkende diensten moeten worden gehanteerd.
 
@@ -432,7 +460,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Indien een attribuut wordt aangewezen worden bij ministeriële regeling regels gesteld over de wijze waarop het aangewezen attribuut door de erkende diensten bij hun activiteiten moet worden betrokken, voor zover dat nodig is voor een betrouwbare toegang van ondernemingen of rechtspersonen tot elektronische dienstverlening.
 
-#### Artikel 13. Rechten en plichten voor erkende diensten
+##### Artikel 13. Rechten en plichten voor erkende diensten
 
 1. Een krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=11&z=2025-11-11&g=2025-11-11) erkende dienst voldoet aan de voor de betrokken dienst bij of krachtens algemene maatregel van bestuur gestelde regels en aan de aan de erkenning of aanwijzing verbonden voorschriften en beperkingen. De eisen behelzen in ieder geval een leveringsplicht en kunnen regels inzake te hanteren tarieven behelzen. Artikel 11, derde lid, is van overeenkomstige toepassing op de te stellen regels.
 
@@ -446,7 +474,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Onze Minister kan een erkende dienst ontheffing verlenen van bij of krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=13&z=2025-11-11&g=2025-11-11) gestelde regels, indien deze regels in de weg staan aan technologische ontwikkelingen aangaande een betrouwbare toegang van ondernemingen en rechtspersonen tot elektronische dienstverlening. Bij ministeriële regeling kunnen nadere regels worden gesteld over een verzoek om of verlening van een ontheffing.
 
-#### Artikel 14. Intrekking en overdracht van erkenning
+##### Artikel 14. Intrekking en overdracht van erkenning
 
 1. Een erkenning kan op verzoek van de erkende dienst worden ingetrokken. De erkende dienst voegt bij zijn verzoek een beëindigingsplan. Bij ministeriële regeling kunnen nadere eisen gesteld worden aan het beëindigingsplan.
 
@@ -468,7 +496,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 8. Van een besluit als bedoeld in dit artikel doet Onze Minister mededeling in de Staatscourant.
 
-#### Artikel 15. Acceptatie bedrijfs- en organisatiemiddelen
+##### Artikel 15. Acceptatie bedrijfs- en organisatiemiddelen
 
 1. Dit artikel is van toepassing op elektronische dienstverlening, waarvoor ingevolge de regels, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.1&artikel=6&z=2025-11-11&g=2025-11-11), authenticatie op het betrouwbaarheidsniveau substantieel of hoog is vereist, aan ondernemingen of rechtspersonen die ingevolge de [Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777) worden of kunnen worden ingeschreven in het handelsregister.
 
@@ -498,11 +526,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 7A. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 22a
+##### Artikel 22a
 
 Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met inachtneming van dit hoofdstuk, met ingang van een bij Koninklijk Besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. Voor de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=1&artikel=1&z=2025-11-11&g=2025-11-11) wordt onder «onderneming of rechtspersoon als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) onderscheidenlijk [6 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6) of een op grond van [artikel 8, aanhef en onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=8) aangewezen rechtspersoon» verstaan «onderneming of rechtspersoon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=3) onderscheidenlijk [4 van de Handelsregisterwet 2009 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=4)».
 
@@ -520,15 +548,15 @@ Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openb
 
 5. Voor de toepassing van het bepaalde bij of krachtens [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), wordt onder «organen, personen en colleges als bedoeld in [artikel 1:1, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1)» verstaan «organen als bedoeld in [artikel 2, eerste lid, onderdelen a tot en met d, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=2)».
 
-#### Artikel 22c
+##### Artikel 22c
 
 [Artikel 7, eerste lid, onderdeel c, en tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2025-11-11&g=2025-11-11), en [artikel 15, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11), zijn niet van toepassing in een openbaar lichaam.
 
-#### Artikel 22d
+##### Artikel 22d
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=2&artikel=3&z=2025-11-11&g=2025-11-11), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.1&artikel=6&z=2025-11-11&g=2025-11-11), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=7&z=2025-11-11&g=2025-11-11), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.2&artikel=8&z=2025-11-11&g=2025-11-11), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&hoofdstuk=4&paragraaf=4.3&artikel=15&z=2025-11-11&g=2025-11-11) door bestuursorganen op het niveau van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
-#### Artikel 22e
+##### Artikel 22e
 
 Bij regeling van Onze Minister kunnen regels worden gesteld over een bijzondere uitkering aan de openbare lichamen ter bekostiging van de transitie naar digitale dienstverlening in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 

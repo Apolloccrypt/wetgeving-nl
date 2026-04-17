@@ -1,38 +1,64 @@
 ---
-title: "Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 16 november 2022, nr. DGED-DE / 22526727, tot gedeeltelijke verlengbaarheid van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022)"
 identifier: "BWBR0047499"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-11-22
-laatste_update: 2022-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047499"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-11-22"
+last_updated: "2022-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047499"
+soort: "ministeriele-regeling"
+stam_id: "16571463"
+version_id: "29051882"
+internal_id: "C41279171"
+label_id: "16491064"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047499/2022-11-22/0"
+intitule_bron: "Stcrt.2022-31498"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-16"
+intitule_published: "2022-11-21"
+intitule_in_force: "2022-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31498"
+original_signed_date: "2022-11-16"
+original_published_date: "2022-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31498"
+entry_into_force_date: "2022-11-22"
+jci_1_3: "jci1.3:c:BWBR0047499&z=2022-11-22&g=2022-11-22"
+jci_1_0: "1.0:c:BWBR0047499&g=2022-11-22"
+citeertitel_status: "officieel"
+short_title: "Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022"
+signed_date: "2022-11-16"
+entry_into_force: "2022-11-22"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 16 november 2022, nr. DGED-DE / 22526727, tot gedeeltelijke verlengbaarheid van de vergunning voor Public Access Mobile Radio in de 450 – 470 MHz-band (Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022)
 
 Gelet op [artikel 18, tweede, vijfde en zevende lid van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunning met dossiernummer 5749257 voor het gebruik van de frequentieruimte 451,76875 – 454,76875 MHz / 461,76875 – 464,76875 MHz ten behoeve van PAMR (Public Access Mobile Radio) is gedeeltelijk verlengbaar om redenen van algemeen maatschappelijk en economisch belang als bedoeld in [artikel 18, tweede lid, onderdeel a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergunning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047499&artikel=1&z=2022-11-22&g=2022-11-22), is gedeeltelijk verlengbaar voor een vaste periode die aanvangt op 18 november 2024 en loopt tot en met 30 juni 2035.
 
 2. De verlengbaarheid betreft de frequentieruimte 451,76875 – 453,26875 MHz en 461,76875 – 463,26875 MHz.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunning, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047499&artikel=1&z=2022-11-22&g=2022-11-22), wordt met ingang van 18 november 2024 gewijzigd overeenkomstig de wijzigingen aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047499&bijlage=1&z=2022-11-22&g=2022-11-22).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit gedeeltelijke verlengbaarheid PAMR-vergunning 2022.
 

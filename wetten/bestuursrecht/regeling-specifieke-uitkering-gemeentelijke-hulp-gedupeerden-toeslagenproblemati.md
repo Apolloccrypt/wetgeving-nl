@@ -1,66 +1,92 @@
 ---
-title: "Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek"
+title: "Regeling van de Minister van Financiën van 18 november 2020, (nr. 2020-0000226790), houdende regels voor de verstrekking van een eenmalige specifieke uitkering voor gemeentelijke hulp aan gedupeerde rechthebbenden op toeslagen (Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek)"
 identifier: "BWBR0044385"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-23
-laatste_update: 2021-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044385"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-23"
+last_updated: "2021-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044385"
+soort: "ministeriele-regeling"
+stam_id: "15712143"
+version_id: "27230492"
+internal_id: "C38475941"
+label_id: "15650914"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044385/2021-11-23/0"
+intitule_bron: "Stcrt.2020-62609"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-18"
+intitule_published: "2020-11-26"
+intitule_in_force: "2020-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62609"
+original_signed_date: "2020-11-18"
+original_published_date: "2020-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62609"
+entry_into_force_date: "2020-11-27"
+jci_1_3: "jci1.3:c:BWBR0044385&z=2021-11-23&g=2021-11-23"
+jci_1_0: "1.0:c:BWBR0044385&g=2021-11-23"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek"
+signed_date: "2020-11-18"
+entry_into_force: "2020-11-27"
 ---
-
 # Regeling van de Minister van Financiën van 18 november 2020, (nr. 2020-0000226790), houdende regels voor de verstrekking van een eenmalige specifieke uitkering voor gemeentelijke hulp aan gedupeerde rechthebbenden op toeslagen (Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2. Eenmalige specifieke uitkering
+##### Artikel 2. Eenmalige specifieke uitkering
 
 1. Onze Minister verstrekt aan gemeenten eenmalig een specifieke uitkering met het oog op ondersteuning van gedupeerden in hulpvragen op de vijf primaire leefgebieden: financiën, wonen, zorg, gezin en werk.
 
 2. De eenmalige specifieke uitkering sluit aan bij het traject van het bieden van compensatie aan door de Belastingdienst/Toeslagen gedupeerden.
 
-#### Artikel 3. Activiteiten
+##### Artikel 3. Activiteiten
 
 Vervallen
 
-#### Artikel 4. Hoogte van de eenmalige specifieke uitkering
+##### Artikel 4. Hoogte van de eenmalige specifieke uitkering
 
 1. Het uitkeringsplafond bedraagt voor 2020 11 miljoen euro inclusief btw.
 
 2. Onze Minister verstrekt de in het eerste lid genoemde uitkering aan gemeenten overeenkomstig de bij deze regeling horende en daarmee één geheel vormende bijlage.
 
-#### Artikel 5. Uitkering en besteding van de uitkering
+##### Artikel 5. Uitkering en besteding van de uitkering
 
 1. De specifieke uitkering wordt in 2020 aan gemeenten uitgekeerd.
 
 2. Gemeenten kunnen de uitkering in de kalenderjaren 2020 tot en met 2025 besteden.
 
-#### Artikel 6. Voorschot
+##### Artikel 6. Voorschot
 
 Onze Minister verstrekt en betaalt de gemeenten een voorschot van 100% van de eenmalige specifieke uitkering.
 
-#### Artikel 7. Verantwoording
+##### Artikel 7. Verantwoording
 
 Vervallen
 
-#### Artikel 8. Vaststelling en terugvordering
+##### Artikel 8. Vaststelling en terugvordering
 
 Vervallen
 
-#### Artikel 9. Monitoring en evaluatie
+##### Artikel 9. Monitoring en evaluatie
 
 Vervallen
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 De regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek.
 

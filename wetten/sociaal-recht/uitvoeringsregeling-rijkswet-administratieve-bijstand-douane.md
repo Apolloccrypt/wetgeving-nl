@@ -1,13 +1,37 @@
 ---
 title: "Uitvoeringsregeling Rijkswet administratieve bijstand douane"
 identifier: "BWBR0010885"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010885"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010885"
+soort: "ministeriele-regeling"
+stam_id: "3637673"
+version_id: "5420752"
+internal_id: "C5613841"
+label_id: "3617634"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010885/2010-10-10/0"
+intitule_bron: "Stcrt.1999-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-23"
+intitule_published: "1999-11-24"
+intitule_in_force: "1999-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-227"
+original_signed_date: "1999-11-23"
+original_published_date: "1999-11-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0010885&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0010885&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "1999-11-23"
+entry_into_force: "2000-01-01"
 ---
-
 # Uitvoeringsregeling Rijkswet administratieve bijstand douane
 
 Handelende in overeenstemming met de Minister van Financiën van de Nederlandse Antillen en de Minister van Financiën van Aruba;
@@ -16,7 +40,7 @@ Gelet op [artikel 17 van de Rijkswet administratieve bijstand douane](https://we
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling:
 
@@ -24,7 +48,7 @@ Deze regeling:
 
 - b. verstaat hierna onder rijkswet: de [Rijkswet administratieve bijstand douane](https://wetten.overheid.nl/jci1.3:c:BWBR0010576).
 
-#### Artikel 2
+##### Artikel 2
 
 1. In Aruba wordt met betrekking tot de invordering van douanevorderingen als douane-administratie in de zin van [artikel 1, onder f, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=1) aangemerkt: het Hoofd van de Dienst Belastingen.
 
@@ -32,7 +56,7 @@ Deze regeling:
 
 3. In Sint Maarten wordt met betrekking tot de invordering van douanevorderingen als douane-administratie in de zin van [artikel 1, onder f, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=1) aangemerkt: de Belastingdienst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In Nederland worden met betrekking tot de omzetbelasting anders dan bij invoer als andere douane-autoriteit in de zin van [artikel 3, eerste lid, van de rijkswet](https://wetten.overheid.nl/jci1.3:c:BWBR0010576&artikel=3) mede aangemerkt: de eenheden van de Belastingdienst, bevoegd inzake de heffing, onderscheidenlijk invordering, van deze belasting.
 
@@ -58,7 +82,7 @@ Deze regeling:
 
 - b. de Directeur van de Belastingdienst.
 
-#### Artikel 4
+##### Artikel 4
 
 Met de invoering van de rijkswet zijn belast:
 
@@ -94,7 +118,7 @@ Met de invoering van de rijkswet zijn belast:
 
 - 2°. de Belastingdienst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Verzoeken om bijstand door de Nederlandse douane-administratie hebben betrekking op in Nederland geldende algemeen verbindende voorschriften betreffende:
 
@@ -132,15 +156,15 @@ Met de invoering van de rijkswet zijn belast:
 
 - b. verboden, beperkingen en toezicht inzake het grensoverschrijdende goederenverkeer in het belang van de volkshuishouding of van de inwendige of uitwendige veiligheid van Sint Maarten of van de internationale rechtsorde dan wel van een daarop betrekking hebbende internationale afspraak.
 
-#### Artikel 6
+##### Artikel 6
 
 De in artikel 11 van de rijkswet bedoelde ambtenaren zijn tijdens hun verblijf op het grondgebied van een ander land van het Koninkrijk voorzien van een officiële machtiging waaruit blijkt dat zij optreden namens de verzoekende douane-administratie.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Rijkswet administratieve bijstand douane](https://wetten.overheid.nl/jci1.3:c:BWBR0010576) in werking treedt.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Rijkswet administratieve bijstand douane.
 

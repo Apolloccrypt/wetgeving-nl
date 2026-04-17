@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan"
 identifier: "BWBV0003003"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-07-03
-laatste_update: 1998-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003003"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-07-03"
+last_updated: "1998-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003003"
+soort: "verdrag"
+stam_id: "10003290463"
+version_id: "10003314402"
+internal_id: "C10006976991"
+label_id: "10003276264"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003003/1998-07-03/0"
+intitule_bron: "Trb.1991-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-04"
+intitule_published: "1991-08-23"
+intitule_in_force: "1998-06-12"
+intitule_status: "goed"
+original_publication: "Trb.1991-127"
+original_signed_date: "1998-05-04"
+original_published_date: "1991-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-127"
+entry_into_force_date: "1998-07-03"
+jci_1_3: "jci1.3:c:BWBV0003003&z=1998-07-03&g=1998-07-03"
+jci_1_0: "1.0:c:BWBV0003003&g=1998-07-03"
+citeertitel_status: "officieel"
+signed_date: "1998-05-04"
+entry_into_force: "1998-07-03"
 ---
-
 # Verdrag inzake het merken van kneedspringstoffen ten behoeve van de opsporing ervan
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -30,7 +55,7 @@ Met voldoening wijzend op de rol die de Raad van de Internationale Burgerluchtva
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -46,17 +71,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 6. "producerende Staat": iedere Staat op wiens grondgebied springstoffen worden vervaardigd.
 
-#### Artikel II
+##### Artikel II
 
 Elke Staat die Partij is, neemt afdoende maatregelen om de vervaardiging van niet-gemerkte springstoffen op zijn grondgebied te verbieden en te voorkomen.
 
-#### Artikel III
+##### Artikel III
 
 1. Elke Staat die Partij is, neemt afdoende maatregelen om het vervoer van niet-gemerkte springstoffen naar of vanuit zijn grondgebied te verbieden en te voorkomen.
 
 2. Het voorgaande lid is niet van toepassing op vervoer voor doeleinden die niet in strijd zijn met de doelstellingen van dit Verdrag, door autoriteiten van een Staat die Partij is die militaire taken of politietaken verrichten, van niet-gemerkte springstoffen onder toezicht van die Staat in overeenstemming met artikel IV, eerste lid.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Elke Staat die Partij is, neemt de nodige maatregelen om strikt en doeltreffend toezicht te houden op het bezit en de overdracht van het bezit van niet-gemerkte springstoffen die op zijn grondgebied zijn vervaardigd of binnengebracht voorafgaand aan de inwerkingtreding van dit Verdrag ten aanzien van die Staat, ten einde te voorkomen dat zij worden verspreid of gebruikt voor doeleinden die in strijd zijn met de doelstellingen van dit Verdrag.
 
@@ -70,7 +95,7 @@ Elke Staat die Partij is, neemt afdoende maatregelen om de vervaardiging van nie
 
 6. Elke Staat die Partij is, neemt de nodige maatregelen om te verzekeren dat niet-gemerkte springstoffen die na de inwerkingtreding van dit Verdrag ten aanzien van die Staat zijn vervaardigd, en die geen onderdeel vormen van de instrumenten zoals omschreven in paragraaf lid) van Deel 1 van de Technische Bijlage bij dit Verdrag, alsmede niet-gemerkte springstoffen die niet langer onder de omschrijvingen in de overige alinea's van paragraaf II vallen, zo spoedig mogelijk op zijn grondgebied worden vernietigd.
 
-#### Artikel V
+##### Artikel V
 
 1. Bij dit Verdrag wordt een Internationale Technische Commissie inzake Springstoffen ingesteld (hierna te noemen "de Commissie"), bestaande uit ten minste vijftien en ten hoogste negentien leden, die door de Raad van de Internationale Burgerluchtvaartorganisatie (hierna te noemen "de Raad") worden benoemd aan de hand van de voordracht van personen door de Staten die Partij zijn bij dit Verdrag.
 
@@ -82,7 +107,7 @@ Elke Staat die Partij is, neemt afdoende maatregelen om de vervaardiging van nie
 
 5. De Commissie stelt haar eigen procedureregels vast, die door de Raad dienen te worden goedgekeurd.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De Commissie evalueert de technische ontwikkelingen op het gebied van het vervaardigen, merken en opsporen van springstoffen.
 
@@ -92,7 +117,7 @@ Elke Staat die Partij is, neemt afdoende maatregelen om de vervaardiging van nie
 
 4. De Raad kan, op aanbeveling van de Commissie, aan de Staten die Partij zijn voorstellen doen tot wijziging van de Technische Bijlage bij dit Verdrag.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Elke Staat die Partij is, kan, binnen negentig dagen vanaf de datum van kennisgeving van een voorstel tot wijziging van de Technische Bijlage bij dit Verdrag, zijn commentaar daarop aan de Raad toezenden. De Raad doet dit commentaar zo spoedig mogelijk ter bestudering aan de Commissie toekomen. De Raad nodigt elke Staat die commentaar geeft op of bezwaar heeft tegen de voorgestelde wijziging uit de Commissie te raadplegen.
 
@@ -106,21 +131,21 @@ Elke Staat die Partij is, neemt afdoende maatregelen om de vervaardiging van nie
 
 6. Indien de voorgestelde wijziging niet in overeenstemming met het derde lid van dit artikel wordt aangenomen, kan de Raad ook een conferentie beleggen van alle Staten die Partij zijn.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De Staten die Partij zijn, zenden de Raad, indien mogelijk, informatie toe die voor de Commissie van nut kan zijn bij verrichting van haar taken krachtens artikel VI, eerste lid.
 
 2. De Staten die Partij zijn, houden de Raad op de hoogte van alle maatregelen die zij hebben genomen ter uitvoering van de bepalingen van dit Verdrag. De Raad stelt de Staten die partij zijn en de betrokken internationale organisaties daarvan in kennis.
 
-#### Artikel IX
+##### Artikel IX
 
 De Raad neemt, in samenwerking met de Staten die Partij zijn en de betrokken internationale organisaties, passende maatregelen ter vereenvoudiging van de uitvoering van dit Verdrag, met inbegrip van het bieden van technische bijstand en maatregelen voor het uitwisselen van informatie betreffende technische ontwikkelingen op het gebied van het merken en het opsporen van springstoffen.
 
-#### Artikel X
+##### Artikel X
 
 De Technische Bijlage bij dit Verdrag vormt een integrerend onderdeel van dit Verdrag.
 
-#### Artikel XI
+##### Artikel XI
 
 1. Geschillen tussen twee of meer Staten die Partij zijn betreffende de interpretatie of de toepassing van dit Verdrag die niet door middel van onderhandeling kunnen worden beslecht, worden, op verzoek van een van hen, aan arbitrage onderworpen. Indien de partijen er niet in slagen binnen zes maanden na de datum van het verzoek om arbitrage overeenstemming te bereiken over de organisatie van arbitrage, kan elk der partijen het geschil aan het Internationale Gerechtshof voorleggen door middel van een verzoek in overeenstemming met het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -128,11 +153,11 @@ De Technische Bijlage bij dit Verdrag vormt een integrerend onderdeel van dit Ve
 
 3. Elke Staat die Partij is die een voorbehoud heeft gemaakt in overeenstemming met het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Depositaris.
 
-#### Artikel XII
+##### Artikel XII
 
 Met uitzondering van het bepaalde in artikel XI kan ten aanzien van dit Verdrag geen enkel voorbehoud worden gemaakt.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Dit Verdrag staat op 1 maart 1991 te Montreal open voor ondertekening door Staten die deelnemen aan de Internationale Conferentie inzake Luchtrecht die van 12 februari tot 1 maart 1991 te Montreal is gehouden. Na 1 maart 1991 staat het Verdrag open voor ondertekening door alle Staten op de zetel van de Internationale Burgerluchtvaartorganisatie te Montreal, totdat zij in werking treedt in overeenstemming met het derde lid van dit artikel. Staten die dit Verdrag niet ondertekenen, kunnen er te allen tijde toe toetreden.
 
@@ -144,7 +169,7 @@ Met uitzondering van het bepaalde in artikel XI kan ten aanzien van dit Verdrag 
 
 5. Zodra dit Verdrag in werking treedt, wordt het door de Depositaris geregistreerd overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en overeenkomstig [artikel 83 van het Verdrag inzake de Internationale Burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=83) (Chicago, 1944).
 
-#### Artikel XIV
+##### Artikel XIV
 
 De Depositaris stelt alle ondertekenaars en Staten die Partij zijn onverwijld in kennis van:
 
@@ -160,7 +185,7 @@ De Depositaris stelt alle ondertekenaars en Staten die Partij zijn onverwijld in
 
 - 6. elke verklaring krachtens artikel XI, tweede lid.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Elke Staat die Partij is, kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 

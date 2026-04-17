@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende de Internationale Ontwikkelingsassociatie"
 identifier: "BWBV0004977"
-categorie: "Internationaal recht"
-publicatiedatum: 1961-06-30
-laatste_update: 1961-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004977"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-06-30"
+last_updated: "1961-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004977"
+soort: "verdrag"
+stam_id: "10004418353"
+version_id: "10004623382"
+internal_id: "C10006955031"
+label_id: "10004403304"
+dtd_version: "2.0"
+original_entry_into_force: "1961-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004977/1961-06-30/0"
+intitule_bron: "Trb.1960-142"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-11-18"
+intitule_in_force: "1961-08-30"
+intitule_status: "goed"
+original_publication: "Trb.1960-142"
+original_published_date: "1960-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-142"
+entry_into_force_date: "1961-06-30"
+jci_1_3: "jci1.3:c:BWBV0004977&z=1961-06-30&g=1961-06-30"
+jci_1_0: "1.0:c:BWBV0004977&g=1961-06-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-06-30"
 ---
-
 # Overeenkomst betreffende de Internationale Ontwikkelingsassociatie
 
 De Regeringen namens welke deze Overeenkomst is ondertekend,
@@ -22,17 +44,17 @@ Dat de verwezenlijking van deze doeleinden vergemakkelijkt zou worden door een t
 
 komen als volgt overeen:
 
-#### Inleidend artikel
+##### Inleidend artikel
 
 De Internationale Ontwikkelingsassociatie (hierna genoemd „de Associatie”) is opgericht en oefent haar werkzaamheden uit overeenkomstig de volgende bepalingen:
 
-#### Artikel I. Doelstellingen
+##### Artikel I. Doelstellingen
 
 De Associatie heeft tot doel in de minderontwikkelde gebieden van de wereld waar deze Overeenkomst van toepassing is, de economische ontwikkeling te bevorderen en de produktiviteit te verhogen om er op die wijze de levensstandaard te verhogen in het bijzonder door het verstrekken van financiële middelen voor hun belangrijke ontwikkelingsbehoeften op voorwaarden die soepeler zijn en minder zwaar op de betalingsbalans drukken dan die van gebruikelijke leningen, en aldus de ontwikkelingsdoeleinden van de Internationale Bank voor Herstel en Ontwikkeling (hierna genoemd „de Bank”) te bevorderen en haar werkzaamheden aan te vullen.
 
 De Associatie laat zich in al haar beslissingen leiden door de bepalingen van dit artikel.
 
-#### Artikel II. Lidmaatschap; eerste bijdragen
+##### Artikel II. Lidmaatschap; eerste bijdragen
 
 - a). De oorspronkelijke leden van de Associatie zijn die in Tabel A vermelde leden van de Bank die op of voor de in artikel XI, afdeling 2c), genoemde datum het lidmaatschap van de Associatie aanvaarden.
 
@@ -60,7 +82,7 @@ De Associatie laat zich in al haar beslissingen leiden door de bepalingen van di
 
 Geen lid is uit hoofde van zijn lidmaatschap voor de verbintenissen der Associatie aansprakelijk.
 
-#### Artikel III. Aanvulling der middelen
+##### Artikel III. Aanvulling der middelen
 
 **Aanvullende bijdragen**
 
@@ -78,7 +100,7 @@ Geen lid is uit hoofde van zijn lidmaatschap voor de verbintenissen der Associat
 
 - c). De bepalingen van deze afdeling verzetten zich er niet tegen dat de Associatie van een lid middelen in zijn eigen valuta aanneemt op zodanige voorwaarden als de partijen overeenkomen.
 
-#### Artikel IV. Valuta's
+##### Artikel IV. Valuta's
 
 - a). De al dan niet vrij inwisselbare valuta van een in deel II van Tabel A vermeld lid, die door de Associatie ingevolge artikel II, afdeling 2d), is ontvangen ter betaling van het negen tiende deel dat krachtens die bepaling in de valuta van dat lid dient te worden betaald, en de daaruit als hoofdsom, rente of andere kosten voortgekomen valuta van dat lid, kan door de Associatie worden gebruikt voor door haar gemaakte administratieve onkosten in de gebiedsdelen van dat lid en, voorzover niet in strijd met een gezonde monetaire politiek, ter betaling van in de gebiedsdelen van dat lid voortgebrachte goederen en verleende diensten, die nodig zijn voor door de Associatie gefinancierde projecten welke in die gebiedsdelen zijn gelegen. Bovendien zal, wanneer en voorzover het betrokken lid en de Associatie overeenkomen dat de economische en financiële toestand van het lid zulks rechtvaardigt, zulke valuta vrij inwisselbaar zijn of op andere wijze kunnen worden gebruikt voor door de Associatie gefinancierde projecten die buiten de gebiedsdelen van het lid zijn gelegen.
 
@@ -98,7 +120,7 @@ Geen lid is uit hoofde van zijn lidmaatschap voor de verbintenissen der Associat
 
 - d). Bedragen die krachtens de bepalingen van paragraaf a) van deze afdeling worden verschaft ter handhaving van de waarde van een valuta, kunnen in dezelfde mate als die valuta worden ingewisseld en gebruikt.
 
-#### Artikel V. Werkzaamheden
+##### Artikel V. Werkzaamheden
 
 - a). De Associatie verstrekt geldmiddelen ter bevordering van de ontwikkeling in de minderontwikkelde gebieden van de wereld waar deze Overeenkomst van toepassing is.
 
@@ -150,7 +172,7 @@ Behalve de elders in deze Overeenkomst vermelde werkzaamheden, kan de Associatie
 
 De Associatie en haar ambtenaren mengen zich niet in de politieke aangelegenheden van een lid; noch laten zij zich bij hun beslissingen door de politieke aard van het betrokken lid of de betrokken leden beïnvloeden. Bij hun beslissingen laten zij zich slechts door economische overwegingen leiden en deze overwegingen worden onpartijdig gewaardeerd ten einde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.
 
-#### Artikel VI. Organisatie en bestuur
+##### Artikel VI. Organisatie en bestuur
 
 De Associatie heeft een Raad van Bestuur, Bewindvoerders, een President en andere ambtenaren en ander personeel voor het verrichten van door de Associatie vast te stellen werkzaamheden.
 
@@ -236,7 +258,7 @@ Ieder lid wijst een passende instantie aan, waarmee de Associatie in verbinding 
 
 De Raad van Bestuur beslist van tijd tot tijd over de beschikking over het zuiver inkomen der Associatie met inachtneming van de nodige voorzieningen voor reserveringen en onvoorziene omstandigheden.
 
-#### Artikel VII. Opzegging, schorsing van het lidmaatschap, opschorting van de werkzaamheden
+##### Artikel VII. Opzegging, schorsing van het lidmaatschap, opschorting van de werkzaamheden
 
 Ieder lid kan te allen tijde zijn lidmaatschap van de Associatie opzeggen door een schriftelijke mededeling aan het hoofdkantoor van de Associatie. De opzegging wordt van kracht op de dag van ontvangst van een dergelijke mededeling.
 
@@ -276,7 +298,7 @@ Ieder lid dat geschorst is als lid van de Bank, of ophoudt lid van de Bank te zi
 
 - d). Ieder lid dat door de Associatie ingevolge deze afdeling of afdeling 4 verdeelde activa ontvangt, geniet ten aanzien daarvan dezelfde rechten als de Associatie voor hun verdeling genoot.
 
-#### Artikel VIII. Rechtspositie, immuniteiten en voorrechten
+##### Artikel VIII. Rechtspositie, immuniteiten en voorrechten
 
 Teneinde de Associatie in staat te stellen de aan haar toevertrouwde functies te vervullen, worden de in dit artikel vermelde rechtspositie, immuniteiten en voorrechten aan de Associatie toegekend op het grondgebied van elk lid.
 
@@ -328,7 +350,7 @@ Alle bestuurders, bewindvoerders plaatsvervangers, ambtenaren en employés van d
 
 Ieder lid onderneemt in zijn gebiedsdelen de nodige stappen teneinde de in dit artikel vervatte beginselen in zijn eigen wetsbepalingen tot gelding te brengen en stelt de Associatie in bijzonderheden van de genomen maatregelen in kennis.
 
-#### Artikel IX. Wijzigingen
+##### Artikel IX. Wijzigingen
 
 a). Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of de bewindvoerders, ingediend bij de voorzitter van de Raad van Bestuur, die het voorstel aan de Raad voorlegt.
 
@@ -338,7 +360,7 @@ b). Niettegenstaande de bepalingen van paragraaf a), is de goedkeuring van alle 
 
 c). Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij in het rondschrijven of het telegram een kortere termijn bepaald Is.
 
-#### Artikel X. Uitlegging en arbitrage
+##### Artikel X. Uitlegging en arbitrage
 
 a). Iedere vraag omtrent de uitlegging der bepalingen van deze Overeenkomst die zich voordoet tussen een lid en de Associatie of tussen leden van de Associatie onderling wordt aan de bewindvoerders ter beslissing voorgelegd. Indien de vraag in bijzondere mate een lid van de Associatie aangaat, dat niet gerechtigd is een bewindvoerder van de Bank te benoemen, heeft dit lid het recht zich te doen vertegenwoordigen overeenkomstig artikel VI, afdeling 4 g).
 
@@ -346,7 +368,7 @@ b). In elk geval waarin de bewindvoerders ingevolge paragraaf a) een beslissing 
 
 c). Wanneer een geschil ontstaat tussen de Associatie en een land, dat opgehouden heeft lid te zijn, of tussen de Associatie en een lid na de staking der werkzaamheden van de Associatie, wordt een dergelijk geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er één door de Associatie benoemd wordt, een andere door het betrokken land, en een scheidsrechter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit die daarvoor bij een door de Associatie aangenomen regeling aangewezen is. De scheidsrechter heeft de volledige bevoegdheid alle vragen betreffende de procedure te beslissen indien ter zake daarvan onenigheid tussen partijen bestaat.
 
-#### Artikel XI. Slotbepalingen
+##### Artikel XI. Slotbepalingen
 
 Deze Overeenkomst treedt in werking, wanneer zij ondertekend is namens regeringen welker bijdragen tezamen niet minder dan 65 percent bedragen van de totale bijdragen vermeld in Tabel A en wanneer de in afdeling 2 a) van dit artikel genoemde akten namens hen zijn nedergelegd, maar deze Overeenkomst treedt in geen geval voor 15 september 1960 in werking.
 

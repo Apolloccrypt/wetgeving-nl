@@ -1,13 +1,38 @@
 ---
 title: "Protocol tegen de smokkel van migranten over land, over zee en door de lucht, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad"
 identifier: "BWBV0001750"
-categorie: "Milieu"
-publicatiedatum: 2005-08-26
-laatste_update: 2000-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001750"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-08-26"
+last_updated: "2000-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001750"
+soort: "verdrag"
+stam_id: "10001912143"
+version_id: "10002000442"
+internal_id: "C10006992271"
+label_id: "10001912474"
+dtd_version: "2.0"
+original_entry_into_force: "2005-08-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001750/2005-08-26/0"
+intitule_bron: "Trb.2001-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-27"
+intitule_published: "2001-04-13"
+intitule_in_force: "2005-10-04"
+intitule_status: "goed"
+original_publication: "Trb.2001-70"
+original_signed_date: "2005-07-27"
+original_published_date: "2001-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-70"
+entry_into_force_date: "2005-08-26"
+jci_1_3: "jci1.3:c:BWBV0001750&z=2005-08-26&g=2005-08-26"
+jci_1_0: "1.0:c:BWBV0001750&g=2005-08-26"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-27"
+entry_into_force: "2005-08-26"
 ---
-
 # Protocol tegen de smokkel van migranten over land, over zee en door de lucht, tot aanvulling van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad
 
 PREAMBULE
@@ -34,7 +59,7 @@ Zijn het volgende overeengekomen:
 
 ### I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Verhouding met het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad
+##### Artikel 1. Verhouding met het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad
 
 1. Dit Protocol vult het [Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) aan. Het dient tezamen met het Verdrag te worden uitgelegd.
 
@@ -42,11 +67,11 @@ Zijn het volgende overeengekomen:
 
 3. De overeenkomstig artikel 6 van dit Protocol strafbaar gestelde feiten worden beschouwd als overeenkomstig het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) strafbaar gestelde feiten.
 
-#### Artikel 2. Verklaring omtrent het doel
+##### Artikel 2. Verklaring omtrent het doel
 
 Het doel van dit Protocol is de smokkel van migranten te voorkomen en te bestrijden, alsmede de samenwerking tussen de Staten die partij zijn daartoe te bevorderen, waarbij de rechten van gesmokkelde migranten worden beschermd.
 
-#### Artikel 3. Gebruikte termen
+##### Artikel 3. Gebruikte termen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -64,15 +89,15 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - d. „schip": elk soort vaartuig, met inbegrip van vaartuigen zonder diepgang en watervliegtuigen, dat wordt gebruikt of kan worden gebruikt als transportmiddel over het water, uitgezonderd oorlogsschepen, hulpschepen of andere schepen die eigendom zijn van of worden geëxploiteerd door een overheid, en, tijdelijk, alleen voor niet-commerciële overheidsdiensten worden gebruikt.
 
-#### Artikel 4. Werkingssfeer
+##### Artikel 4. Werkingssfeer
 
 Dit Protocol is van toepassing, tenzij hierin anders is bepaald, op de voorkoming, opsporing en vervolging van de overeenkomstig artikel 6 van dit Protocol strafbaar gestelde feiten, indien deze een grensoverschrijdend karakter hebben en er een criminele organisatie bij betrokken is, alsmede op de bescherming van de rechten van personen die het voorwerp zijn geweest van deze strafbare feiten.
 
-#### Artikel 5. Strafrechtelijke aansprakelijkheid van migranten
+##### Artikel 5. Strafrechtelijke aansprakelijkheid van migranten
 
 Migranten mogen niet strafrechtelijk worden vervolgd uit hoofde van dit Protocol wegens het feit dat zij het voorwerp zijn geweest van in artikel 6 van dit Protocol bedoelde handelingen.
 
-#### Artikel 6. Strafbaarstelling
+##### Artikel 6. Strafbaarstelling
 
 1. Elke Staat die partij is, neemt de wettelijke en andere maatregelen die nodig kunnen zijn om de volgende handelingen strafbaar te stellen, indien zij opzettelijk zijn gepleegd en om rechtstreeks of onrechtstreeks een financieel of ander materieel voordeel te verkrijgen:
 
@@ -104,11 +129,11 @@ Migranten mogen niet strafrechtelijk worden vervolgd uit hoofde van dit Protocol
 
 ### II. SMOKKELEN VAN MIGRANTEN OVER ZEE
 
-#### Artikel 7. Samenwerking
+##### Artikel 7. Samenwerking
 
 De Staten die partij zijn, werken zoveel mogelijk samen teneinde het smokkelen van migranten over zee in overeenstemming met het internationale recht van de zee te voorkomen en te bestrijden.
 
-#### Artikel 8. Maatregelen tegen het smokkelen van migranten over zee
+##### Artikel 8. Maatregelen tegen het smokkelen van migranten over zee
 
 1. Een Staat die partij is die redelijke gronden heeft voor de verdenking dat een schip dat onder zijn vlag vaart of waarvan beweerd wordt dat het in die Staat is ingeschreven, dat geen nationaliteit heeft of dat, hoewel het vaart onder een vreemde vlag of weigert een vlag te voeren, in feite de nationaliteit heeft van de betrokken Staat die partij is, betrokken is bij het smokkelen van migranten over zee, kan de andere Staten die partij zijn verzoeken om bijstand bij het bestrijden van het gebruik van het schip voor dat doel. De Staten die partij zijn, verlenen desgevraagd bijstand voor zover dat binnen hun macht ligt.
 
@@ -130,7 +155,7 @@ De Staten die partij zijn, werken zoveel mogelijk samen teneinde het smokkelen v
 
 7. Een Staat die partij is die redelijke gronden heeft voor de verdenking dat een schip betrokken is bij het smokkelen van migranten over zee en geen nationaliteit heeft of kan worden gelijkgesteld aan een schip zonder nationaliteit, kan aan boord gaan en het schip doorzoeken. Indien bewijs wordt gevonden dat de verdenking bevestigt, neemt die Staat die partij is passende maatregelen in overeenstemming met het toepasselijke nationale en internationale recht.
 
-#### Artikel 9. Beveiligingsclausules
+##### Artikel 9. Beveiligingsclausules
 
 1. Indien een Staat die partij is maatregelen neemt tegen een schip overeenkomstig artikel 8 van dit Protocol,
 
@@ -154,7 +179,7 @@ De Staten die partij zijn, werken zoveel mogelijk samen teneinde het smokkelen v
 
 ### III. PREVENTIE, SAMENWERKING EN ANDERE MAATREGELEN
 
-#### Artikel 10. Informatie
+##### Artikel 10. Informatie
 
 1. Onverminderd de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=27) en [28 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=28), wisselen de Staten die partij zijn, in het bijzonder die met gemeenschappelijke grenzen of die welke gelegen zijn aan routes waarlangs migranten worden gesmokkeld, ten behoeve van het verwezenlijken van de doelstellingen van dit Protocol, onderling, in overeenstemming met hun onderscheiden nationale rechts- en bestuursstelsels, relevante informatie uit over aangelegenheden als:
 
@@ -172,7 +197,7 @@ De Staten die partij zijn, werken zoveel mogelijk samen teneinde het smokkelen v
 
 2. Een Staat die partij is die informatie ontvangt dient te voldoen aan ieder verzoek van de Staat die partij is die de informatie heeft verzonden, dat beperkingen stelt aan het gebruik ervan.
 
-#### Artikel 11. Grensmaatregelen
+##### Artikel 11. Grensmaatregelen
 
 1. Onverminderd internationale verplichtingen ten aanzien van het vrije verkeer van personen, scherpen de Staten die partij zijn voor zover mogelijk de grenscontroles aan die nodig kunnen zijn ter voorkoming en opsporing van mensensmokkel.
 
@@ -186,7 +211,7 @@ De Staten die partij zijn, werken zoveel mogelijk samen teneinde het smokkelen v
 
 6. Onverminderd [artikel 27 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=27) overwegen de Staten die partij zijn de samenwerking tussen instellingen voor grenscontroles te versterken, onder andere door het creëren en onderhouden van rechtstreekse communicatiekanalen.
 
-#### Artikel 12. Betrouwbaarheid en controle van documenten
+##### Artikel 12. Betrouwbaarheid en controle van documenten
 
 Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om, binnen de beschikbare middelen:
 
@@ -194,11 +219,11 @@ Elke Staat die partij is, neemt de maatregelen die nodig kunnen zijn om, binnen 
 
 - b. de integriteit en betrouwbaarheid van reis- of identiteitsdocumenten afgegeven door of namens de Staat die partij is te verzekeren en om de onrechtmatige vervaardiging, afgifte en gebruikmaking ervan te voorkomen.
 
-#### Artikel 13. Rechtmatigheid en rechtsgeldigheid van documenten
+##### Artikel 13. Rechtmatigheid en rechtsgeldigheid van documenten
 
 Op verzoek van een andere Staat die partij is, verifieert een Staat die partij is, in overeenstemming met zijn nationale recht, binnen een redelijke termijn de rechtmatigheid en rechtsgeldigheid van reis- of identiteitsdocumenten die namens hem zijn afgegeven of beschouwd worden als zijnde namens hem afgegeven en ten aanzien waarvan de verdenking bestaat dat zij zijn gebruikt voor de in artikel 6 van dit Protocol bedoelde handelingen.
 
-#### Artikel 14. Opleiding en technische samenwerking
+##### Artikel 14. Opleiding en technische samenwerking
 
 1. De Staten die partij zijn, verzorgen of verbeteren de gespecialiseerde opleiding van immigratie- en andere bevoegde functionarissen ten behoeve van de voorkoming van de in artikel 6 van dit Protocol bedoelde handelingen en ten behoeve van de humane behandeling van migranten die het voorwerp zijn geweest van dergelijke handelingen, waarbij hun rechten als bedoeld in dit Protocol worden geëerbiedigd.
 
@@ -216,7 +241,7 @@ Op verzoek van een andere Staat die partij is, verifieert een Staat die partij i
 
 3. De Staten die partij zijn met relevante deskundigheid overwegen technische bijstand te verlenen aan Staten die vaak het land van herkomst of doorvoer zijn voor personen die het voorwerp zijn geweest van de in artikel 6 van dit Protocol bedoelde handelingen. De Staten die partij zijn, stellen alles in het werk om de nodige middelen te verschaffen, zoals voertuigen, computersystemen en documentlezers, ter bestrijding van de in artikel 6 bedoelde handelingen.
 
-#### Artikel 15. Andere preventieve maatregelen
+##### Artikel 15. Andere preventieve maatregelen
 
 1. Elke Staat die partij is, neemt maatregelen voor het opzetten of verbeteren van informatieprogramma's ter bevordering van de bewustwording van het publiek van het feit dat de in artikel 6 van dit Protocol bedoelde handelingen criminele activiteiten zijn die frequent worden gepleegd door criminele groepen met winstoogmerk en ernstige risico's met zich meebrengen voor de betrokken migranten.
 
@@ -224,7 +249,7 @@ Op verzoek van een andere Staat die partij is, verifieert een Staat die partij i
 
 3. Elke Staat die partij is, bevordert of verleent ondersteuning aan, naar gelang wat van toepassing is, ontwikkelingsprogramma's en samenwerking op nationaal, regionaal en internationaal niveau, rekening houdend met de sociaal-economische realiteit van migratie en bijzondere aandacht bestedend aan economisch en sociaal achtergebleven gebieden, teneinde de sociaal-economische factoren die ten grondslag liggen aan het smokkelen van migranten, zoals armoede en onderontwikkeling, te bestrijden.
 
-#### Artikel 16. Maatregelen ten behoeve van bescherming en bijstand
+##### Artikel 16. Maatregelen ten behoeve van bescherming en bijstand
 
 1. Bij de uitvoering van dit Protocol neemt elke Staat die partij is, in overeenstemming met zijn verplichtingen uit hoofde van het internationale recht, alle passende maatregelen, indien nodig met inbegrip van wetgeving, teneinde de krachtens het toepasselijke internationale recht toegekende rechten van de personen die het voorwerp zijn geweest van de in artikel 6 van dit Protocol bedoelde handelingen, te handhaven en te beschermen, in het bijzonder het recht op leven en het recht niet te worden blootgesteld aan marteling of andere vormen van wrede, onmenselijke of vernederende behandeling of bestraffing.
 
@@ -236,7 +261,7 @@ Op verzoek van een andere Staat die partij is, verifieert een Staat die partij i
 
 5. In het geval van hechtenis van een persoon die het voorwerp is geweest van de in artikel 6 van dit Protocol bedoelde handelingen, voldoet iedere Staat die partij is aan zijn verplichtingen uit hoofde van het [Verdrag van Wenen inzake consulaire betrekkingen](https://wetten.overheid.nl/jci1.3:c:BWBV0004334), indien van toepassing, waaronder de verplichting tot het onverwijld informeren van de betrokken persoon over de bepalingen inzake de kennisgeving aan en communicatie met consulaire ambtenaren.
 
-#### Artikel 17. Overeenkomsten en regelingen
+##### Artikel 17. Overeenkomsten en regelingen
 
 De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of operationele regelingen of akkoorden te sluiten ten behoeve van:
 
@@ -244,7 +269,7 @@ De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of o
 
 - b. de onderlinge uitwerking van de bepalingen van dit Protocol.
 
-#### Artikel 18. Terugkeer van gesmokkelde migranten
+##### Artikel 18. Terugkeer van gesmokkelde migranten
 
 1. Elke Staat die partij is, neemt op zich de terugkeer van een persoon die het voorwerp is geweest van de in artikel 6 van dit Protocol bedoelde handelingen en die zijn onderdaan is of recht heeft op permanent verblijf op zijn grondgebied ten tijde van de terugkeer, zonder onnodige of onredelijke vertraging te vergemakkelijken en te aanvaarden.
 
@@ -264,13 +289,13 @@ De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of o
 
 ### SLOTBEPALINGEN IV
 
-#### Artikel 19. Vrijwaringsclausule
+##### Artikel 19. Vrijwaringsclausule
 
 1. Geen enkele bepaling van dit Protocol tast de andere rechten, verplichtingen en verantwoordelijkheden van Staten en personen uit hoofde van het internationale recht aan, met inbegrip van het internationale humanitaire recht en het internationale recht inzake mensenrechten en, in het bijzonder, waar toepasselijk, uit hoofde van het [Verdrag van 1951](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) en het [Protocol van 1967 betreffende de status van vluchtelingen](onbekend) en het daarin vervatte grondbeginsel van „non-refoulement".
 
 2. De in dit Protocol bedoelde maatregelen worden uitgelegd en toegepast op een wijze die niet discriminerend is voor personen op grond van het feit dat zij het voorwerp zijn van de in artikel 6 van dit Protocol bedoelde handelingen. De uitleg en toepassing van die maatregelen dient in overeenstemming te zijn met de internationaal erkende beginselen van non-discriminatie.
 
-#### Artikel 20. Beslechting van geschillen
+##### Artikel 20. Beslechting van geschillen
 
 1. De Staten die partij zijn, streven ernaar geschillen betreffende de uitleg of toepassing van dit Protocol te beslechten door onderhandeling.
 
@@ -280,7 +305,7 @@ De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of o
 
 4. Een Staat die partij is die een voorbehoud heeft gemaakt overeenkomstig het derde lid van dit artikel, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 21. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 21. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol is voor alle Staten opengesteld voor ondertekening van 12 tot en met 15 december 2000 te Palermo, Italië, en daarna tot en met 12 december 2002 op het hoofdkwartier van de Verenigde Naties te New York.
 
@@ -290,13 +315,13 @@ De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of o
 
 4. Dit Protocol staat open voor toetreding door elke Staat of elke regionale organisatie voor economische integratie waarvan ten minste een lidstaat Partij is bij dit Protocol. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties. Bij haar toetreding geeft een regionale organisatie voor economische integratie de omvang van haar bevoegdheden ter zake van door dit Protocol geregelde aangelegenheden aan. Een dergelijke organisatie stelt de depositaris ook in kennis van elke relevante wijziging in de omvang van haar bevoegdheden.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, met dien verstande dat het niet vóór de inwerkingtreding van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668) in werking treedt. Voor de toepassing van dit lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door de lidstaten van deze organisatie reeds nedergelegde akten.
 
 2. Voor elke Staat of regionale organisatie voor economische integratie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de desbetreffende veertigste akte, treedt dit Protocol in werking dertig dagen na de datum van nederlegging door een dergelijke Staat of organisatie van de desbetreffende akte of op de datum waarop dit Protocol in werking treedt ingevolge het eerste lid van dit artikel, naar gelang van welke datum het laatste valt.
 
-#### Artikel 23. Wijziging
+##### Artikel 23. Wijziging
 
 1. Na het verstrijken van een termijn van vijf jaar na de inwerkingtreding van dit Protocol kan een Staat die partij is bij het Protocol een wijziging voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties, die de voorgestelde wijziging vervolgens toezendt aan de Staten die partij zijn en aan de Conferentie van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001668), teneinde het voorstel te bestuderen en erover te beslissen. De Staten die partij zijn bij dit Protocol die bijeenkomen tijdens de Conferentie van de Partijen stellen alles in het werk om consensus te bereiken over iedere wijziging. Indien alle pogingen om consensus te bereiken zijn mislukt en er geen overeenstemming wordt bereikt, wordt de wijziging in laatste instantie aangenomen met een tweederde meerderheid van de Staten die partij zijn bij dit Protocol, die aanwezig zijn en hun stem uitbrengen tijdens de Conferentie van de Partijen.
 
@@ -308,13 +333,13 @@ De Staten die partij zijn, overwegen bilaterale of regionale overeenkomsten of o
 
 5. Wanneer een wijziging van kracht wordt, is zij bindend voor de Staten die partij zijn die het feit dat zij ermee instemmen erdoor gebonden te worden tot uitdrukking hebben gebracht. De andere Staten die partij zijn, blijven gebonden door de bepalingen van dit Protocol en alle eerdere wijzigingen die zij hebben bekrachtigd, aanvaard of goedgekeurd.
 
-#### Artikel 24. Opzegging
+##### Artikel 24. Opzegging
 
 1. Iedere Staat die partij is, kan dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
 2. Een regionale organisatie voor economische integratie houdt op partij te zijn bij dit Protocol wanneer al haar lidstaten het hebben opgezegd.
 
-#### Artikel 25. Depositaris en talen
+##### Artikel 25. Depositaris en talen
 
 1. De Secretaris-Generaal van de Verenigde Naties wordt aangewezen als depositaris van dit Protocol.
 

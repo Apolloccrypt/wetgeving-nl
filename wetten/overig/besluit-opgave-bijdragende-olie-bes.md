@@ -1,13 +1,39 @@
 ---
-title: "Besluit opgave bijdragende olie BES"
+title: "Besluit van 23 juni 2014, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen BES"
 identifier: "BWBR0035314"
-categorie: "Overig"
-publicatiedatum: 2014-07-16
-laatste_update: 2014-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035314"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2014-07-16"
+last_updated: "2014-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035314"
+soort: "AMvB-BES"
+stam_id: "12724243"
+version_id: "21533882"
+internal_id: "C30915141"
+label_id: "12694134"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035314/2014-07-16/0"
+intitule_bron: "Stb.2014-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-23"
+intitule_published: "2014-07-15"
+intitule_in_force: "2014-07-15"
+intitule_status: "goed"
+original_publication: "Stb.2014-261"
+original_signed_date: "2014-06-23"
+original_published_date: "2014-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-261"
+entry_into_force_date: "2014-07-16"
+jci_1_3: "jci1.3:c:BWBR0035314&z=2014-07-16&g=2014-07-16"
+jci_1_0: "1.0:c:BWBR0035314&g=2014-07-16"
+citeertitel_status: "officieel"
+short_title: "Besluit opgave bijdragende olie BES"
+signed_date: "2014-06-23"
+entry_into_force: "2014-07-16"
 ---
-
 # Besluit van 23 juni 2014, houdende nadere regels betreffende de opgave van de hoeveelheid bijdragende olie als bedoeld in artikel 5 van de Wet schadefonds olietankschepen BES
 
 Op de voordracht van Onze Minister van Economische Zaken, gedaan in overeenstemming met Onze Minister van Veiligheid en Justitie, van 7 maart 2014, nr. WJZ / 14034673, directie Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken, gedaan in over
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt onder wet verstaan: [Wet schadefonds olietankschepen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028246).
 
@@ -34,13 +60,13 @@ Hebben goedgevonden en verstaan:
 
 4. Voor zover niet ingevolge het derde lid een persoon wordt aangemerkt als degene die in een kalenderjaar bijdragende olie heeft ontvangen, wordt voor de toepassing van het bij en krachtens [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=5) bepaalde als zodanig aangemerkt degene, die de in dat jaar ontvangen bijdragende olie al dan niet ten behoeve van een ander bij de ontvangst in opslag heeft genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Degene, die in de openbare lichamen Bonaire, Sint Eustatius en Saba in een kalenderjaar in totaal 100.000 metrische ton of minder bijdragende olie heeft ontvangen, is voor wat betreft dat kalenderjaar vrijgesteld van de verplichting tot het doen van de opgave, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=5).
 
 2. Het eerste lid vindt geen toepassing, indien het totaal van de door de betrokkene en door een of meer met hem geassocieerde personen als bedoeld in [artikel 1, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=1) in de openbare lichamen Bonaire, Sint Eustatius en Saba ontvangen hoeveelheden bijdragende olie in het betreffende kalenderjaar meer dan 100.000 metrische ton bedraagt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter voldoening aan de verplichting, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028246&artikel=5), dient opgave te worden gedaan van:
 
@@ -58,13 +84,13 @@ Hebben goedgevonden en verstaan:
 
 5. De beschikking, houdende vaststelling van het model van het formulier en de toelichting daarop, wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De opgave over een kalenderjaar geschiedt vóór 15 april van het daaropvolgende kalenderjaar.
 
 2. In afwijking van het bepaalde in het eerste lid geschiedt de opgave over het jaar 2013 vóór de dertigste dag na de datum van inwerkingtreding van dit besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit wordt aangehaald als: Besluit opgave bijdragende olie BES.
 

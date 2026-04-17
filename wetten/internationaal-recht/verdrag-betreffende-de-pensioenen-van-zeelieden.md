@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de pensioenen van zeelieden"
 identifier: "BWBV0005408"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-11-13
-laatste_update: 1964-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005408"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-11-13"
+last_updated: "1964-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005408"
+soort: "verdrag"
+stam_id: "10004619173"
+version_id: "10004873422"
+internal_id: "C10007496391"
+label_id: "10004603764"
+dtd_version: "2.0"
+original_entry_into_force: "1962-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005408/1964-11-13/0"
+intitule_bron: "Trb.1955-3"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-01-10"
+intitule_in_force: "1962-09-19"
+intitule_status: "goed"
+original_publication: "Trb.1955-3"
+original_published_date: "1955-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-3"
+entry_into_force_date: "1962-10-10"
+jci_1_3: "jci1.3:c:BWBV0005408&z=1964-11-13&g=1964-11-13"
+jci_1_0: "1.0:c:BWBV0005408&g=1964-11-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-10-10"
 ---
-
 # Verdrag betreffende de pensioenen van zeelieden
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie, door de Raad van Beheer van het Internationaal Arbeidsbureau bijeengeroepen te Seattle en aldaar bijeengekomen op 6 Juni 1946 in haar achtentwintigste zitting,
@@ -18,11 +40,11 @@ besloten hebbende, dat deze voorstellen de vorm zullen aannemen van een internat
 
 neemt heden, de 28ste Juni 1946, het volgende Verdrag aan, dat genoemd zal worden „Verdrag betreffende de pensioenen van zeelieden, 1946”.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt onder de uitdrukking „zeelieden” verstaan iedere persoon, die werkzaam is aan boord of in dienst is van een schip, geen oorlogsschip zijnde, en ingeschreven in een gebied, waarvoor dit Verdrag van kracht is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elk Lid van de Internationale Arbeidsorganisatie waarvoor dit Verdrag van kracht is, moet in overeenstemming met zijn nationale wetgeving een stelsel van pensioenen voor zeelieden, die uit de zeedienst ontslag nemen, vaststellen of doen vaststellen.
 
@@ -64,7 +86,7 @@ Voor de toepassing van dit Verdrag wordt onder de uitdrukking „zeelieden” ve
 
 - k. personen, die niet de nationaliteit van het Lid bezitten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het pensioenstelsel zal aan een van de volgende regelen moeten voldoen:
 
@@ -78,7 +100,7 @@ Voor de toepassing van dit Verdrag wordt onder de uitdrukking „zeelieden” ve
 
 2. De zeelieden mogen te samen niet meer dan de helft van de kosten dragen, die krachtens de regeling der pensioenen betaald moeten worden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De regeling moet passende bepalingen inhouden voor het handhaven van de aanspraken van de verzekerden, die ophouden onder de toepassing der regeling te vallen, of voor de betaling van een uitkering aan die personen, als tegenprestatie voor de op hun rekening geboekte bijdragen.
 
@@ -88,11 +110,11 @@ Voor de toepassing van dit Verdrag wordt onder de uitdrukking „zeelieden” ve
 
 4. De reders en de zeelieden, die bijdragen in de kosten der pensioenen krachtens deze regeling te betalen, moeten het recht hebben om door middel van hun vertegenwoordigers aan de uitvoering deel te nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 De officiële bekrachtigingen van dit Verdrag zullen worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden geregistreerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Verdrag zal slechts verbindend zijn voor de Leden van de Internationale Arbeidsorganisatie, die hun bekrachtigingen door de Directeur hebben doen registreren.
 
@@ -100,27 +122,27 @@ De officiële bekrachtigingen van dit Verdrag zullen worden medegedeeld aan de D
 
 3. Vervolgens zal dit Verdrag voor ieder der andere Leden in werking treden zes maanden na de datum, waarop de bekrachtiging van dat Lid zal zijn geregistreerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ieder Lid, dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na de datum, waarop dit Verdrag van kracht is geworden, zulks bij een verklaring, toegezonden aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door deze in te schrijven. De opzegging wordt eerst van kracht een jaar, nadat zij is geregistreerd.
 
 2. Ieder Lid, dat dit Verdrag heeft bekrachtigd en binnen een jaar na verloop van de termijn van tien jaren, bedoeld in het vorig lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, zal voor een nieuwe termijn van tien jaren gebonden zijn en zal in het vervolg dit Verdrag kunnen opzeggen na verloop van elke termijn van tien jaren, onder de voorwaarden, bedoeld in dit artikel.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan alle Leden der Organisatie mededeling doen van de registratie van alle bekrachtigingen en opzeggingen, welke hem door de Leden der Organisatie zullen worden medegedeeld.
 
 2. Bij de mededeling aan de Leden der Organisatie van de registratie van de laatste bekrachtiging, nodig voor het van kracht worden van het Verdrag, zal de Directeur-Generaal de aandacht van de Leden der Organisatie vestigen op de datum, waarop dit Verdrag van kracht zal worden.
 
-#### Artikel 9
+##### Artikel 9
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan de Secretaris-Generaal van de Verenigde Naties ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), mededeling doen van de volledige bijzonderheden betreffende alle bekrachtigingen en opzeggingen, welke hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 10
+##### Artikel 10
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke wijziging van het onderhavige Verdrag, zal tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -130,6 +152,6 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Het onderhavige Verdrag zal echter van kracht blijven naar vorm en inhoud voor die Leden, die het bekrachtigd hebben en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 12
+##### Artikel 12
 
 Zowel de Franse als de Engelse tekst van dit Verdrag is authentiek.

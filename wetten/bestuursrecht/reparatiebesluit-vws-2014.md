@@ -1,52 +1,78 @@
 ---
-title: "Reparatiebesluit VWS 2014"
+title: "Besluit van 1 december 2014, houdende wijziging van enkele besluiten op het terrein van de volksgezondheid in verband met het aanbrengen van wetstechnische aanpassingen in deze besluiten (Reparatiebesluit VWS 2014)"
 identifier: "BWBR0035897"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-12-13
-laatste_update: 2014-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035897"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-12-13"
+last_updated: "2014-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035897"
+soort: "AMvB"
+stam_id: "12875133"
+version_id: "21882562"
+internal_id: "C31404781"
+label_id: "12844644"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035897/2014-12-13/0"
+intitule_bron: "Stb.2014-485"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-01"
+intitule_published: "2014-12-12"
+intitule_in_force: "2014-12-12"
+intitule_status: "goed"
+original_publication: "Stb.2014-485"
+original_signed_date: "2014-12-01"
+original_published_date: "2014-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-485"
+entry_into_force_date: "2014-12-13"
+jci_1_3: "jci1.3:c:BWBR0035897&z=2014-12-13&g=2014-12-13"
+jci_1_0: "1.0:c:BWBR0035897&g=2014-12-13"
+citeertitel_status: "officieel"
+short_title: "Reparatiebesluit VWS 2014"
+signed_date: "2014-12-01"
+entry_into_force: "2014-12-13"
 ---
-
 # Besluit van 1 december 2014, houdende wijziging van enkele besluiten op het terrein van de volksgezondheid in verband met het aanbrengen van wetstechnische aanpassingen in deze besluiten (Reparatiebesluit VWS 2014)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit actieve implantaten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bestuurlijke boete Drank- en Horecawet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit in-vitro diagnostica.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit medische hulpmiddelen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Eisenbesluit lichaamsmateriaal 2006.
 
-#### Artikel VII
+##### Artikel VII
 
 Het [besluit van 20 oktober 2006, houdende intrekking van het Besluit volksgezondheidssubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0020448) (Stb. 2006, 556) wordt ingetrokken.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Het [besluit van 6 juli 2004 tot wijziging van het Besluit subsidies investeringen kennisinfrastructuur (aanwijzen Minister van Volksgezondheid, Welzijn en Sport als bevoegde minister)](https://wetten.overheid.nl/jci1.3:c:BWBR0016988) (Stb. 2004, 556) wordt ingetrokken.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit besluit wordt aangehaald als: Reparatiebesluit VWS 2014.
 
-#### Artikel X
+##### Artikel X
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

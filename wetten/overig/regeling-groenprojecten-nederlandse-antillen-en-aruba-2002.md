@@ -1,20 +1,44 @@
 ---
 title: "Regeling groenprojecten Nederlandse Antillen en Aruba 2002"
 identifier: "BWBR0013273"
-categorie: "Overig"
-publicatiedatum: 2002-10-20
-laatste_update: 2002-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013273"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-10-20"
+last_updated: "2002-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013273"
+soort: "ministeriele-regeling"
+stam_id: "4119203"
+version_id: "5872762"
+internal_id: "C6075591"
+label_id: "4098874"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013273/2002-10-20/0"
+intitule_bron: "Stcrt.2002-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-21"
+intitule_published: "2002-01-02"
+intitule_in_force: "2002-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-1"
+original_signed_date: "2001-12-21"
+original_published_date: "2002-01-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-04"
+jci_1_3: "jci1.3:c:BWBR0013273&z=2002-10-20&g=2002-10-20"
+jci_1_0: "1.0:c:BWBR0013273&g=2002-10-20"
+citeertitel_status: "officieel"
+signed_date: "2001-12-21"
+entry_into_force: "2002-01-04"
 ---
-
 # Regeling groenprojecten Nederlandse Antillen en Aruba 2002
 
 Gelet op [artikel 5.14, derde lid, onderdeel a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), en [artikel 10.10, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan [artikel 5.14, derde lid, onderdeel a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), en [artikel 10.10, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10) met betrekking tot projecten welke op de Nederlandse Antillen en Aruba zijn gelegen.
 
@@ -22,7 +46,7 @@ Besluit:
 
 a. **project:** in het Koninkrijk der Nederlanden buiten Europa gelegen technisch, functioneel en in de tijd samenhangend geheel van activa en werkzaamheden; b. **bestaand project:** project dat een jaar voor de dag waarop de aanvraag tot afgifte van een verklaring wordt ingediend reeds voldoet aan een van de projectomschrijvingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013273&artikel=2&z=2002-10-20&g=2002-10-20) dan wel een project waarvoor een jaar voor die dag reeds een begin met de uitvoering van de bijbehorende fysieke werkzaamheden is gemaakt; c. **projectbeheerder:** degene voor wiens rekening en risico het project wordt ontwikkeld en in stand gehouden; d. **projectvermogen:** vermogen dat nodig is voor de financiering van activa die noodzakelijk zijn voor en uitsluitend dienstbaar zijn aan de uitvoering van een project; e. **verklaring:** schriftelijk besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als bedoeld in [artikel 10.10. derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), waarin wordt verklaard dat een project in het belang is van de bescherming van het milieu, waaronder natuur en bos; f. **accountantsverklaring:** verklaring afgegeven door een registeraccountant of een accountant-administratieconsulent. g. **de ministers:** de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, in overeenstemming met de Staatssecretaris van Financiën, en na overleg met de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Verkeer en Waterstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Een verklaring kan slechts worden afgegeven voor projecten die naar het oordeel van de ministers:
 
@@ -46,7 +70,7 @@ Een verklaring kan slechts worden afgegeven voor projecten die naar het oordeel 
 
 - b. die naar zijn oordeel in het belang zijn van de bescherming van het milieu, waaronder natuur en bos.
 
-#### Artikel 3
+##### Artikel 3
 
 Een verklaring wordt niet afgegeven op aanvragen voor:
 
@@ -64,7 +88,7 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 - g. projecten die het lokale belang dan wel het lokale milieu in onvoldoende mate dienen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een verklaring kan slechts worden aangevraagd door en afgegeven aan:
 
@@ -82,13 +106,13 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 6. Aan een aanvrager kan worden verzocht een accountantsverklaring te overleggen, waaruit de juistheid of aannemelijkheid van de in de aanvraag vermelde gegevens blijkt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer beslist, in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Minister van Landbouw, Natuurbeheer en Visserij, de Minister van Verkeer en Waterstaat en gehoord hebbende de Minister van Volksgezondheid en Milieuhygiëne van de Nederlandse Antillen dan wel gehoord hebbende de Minister van Volkshuisvesting, Ruimtelijke Ontwikkeling en Milieu (Aruba), op een aanvraag binnen acht weken na de indiening ervan.
 
 2. Een afschrift van het besluit wordt gezonden aan de projectbeheerder.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verklaring kan maximaal negen maanden na afgifte van de verklaring in werking treden en wordt voor geen langere periode dan voor de verwachte levensduur van het project en de duur van ten hoogste tien jaar afgegeven.
 
@@ -100,7 +124,7 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 5. In de verklaring kunnen nadere voorwaarden worden opgenomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verklaring kan door de ministers worden ingetrokken indien:
 
@@ -122,29 +146,29 @@ Een verklaring wordt niet afgegeven op aanvragen voor:
 
 4. Een afschrift van het besluit wordt gezonden aan de projectbeheerder en aan de inspecteur van de Belastingdienst/Grote Ondernemingen Amsterdam.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kredietinstelling en de beleggingsinstelling, bedoeld in [artikel 5.14, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), die kapitaal verschaft ten behoeve van een project waarvoor een verklaring is afgegeven, ziet er op toe dat de vermogenstoestand van het project door de projectbeheerder afzonderlijk wordt geadministreerd op een zodanige wijze dat te allen tijde uit boeken en andere bescheiden de voor de belastingheffing van belang zijnde gegevens duidelijk blijken.
 
 2. Indien de uitvoering van een project wordt gewijzigd doet de kredietinstelling of de beleggingsinstelling, die kapitaal verschaft ten behoeve van een project waarvoor een verklaring is afgegeven, daarvan onverwijld melding aan de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten behoeve van de uitvoering van deze regeling is met betrekking tot de kredietinstelling en de beleggingsinstelling, bedoeld in [artikel 5.14, tweede lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14) en de projectbeheerder, [Hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=VIII), [afdeling 2, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&afdeling=2) van overeenkomstige toepassing, waarbij de aldaar jegens de inspecteur opgelegde verplichtingen mede gelden jegens de door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, of de Staatssecretaris van Financiën aangewezen ambtenaren.
 
-#### Artikel 10
+##### Artikel 10
 
 Met de in deze regeling bedoelde normen, meetvoorschriften, tests, verklaringen en certificaten, worden gelijkgesteld normen, meetvoorschriften, tests, verklaringen en certificaten die tenminste een gelijkwaardig niveau waarborgen dan wel indien het verklaringen en certificaten betreft, deze zijn afgegeven op basis van onderzoekingen die aan tenminste gelijkwaardige eisen voldoen.
 
-#### Artikel 11
+##### Artikel 11
 
 De Regeling groenprojecten Nederlandse Antillen en Aruba (Stcrt. 82, 1998) vervalt.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2002.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling kan worden aangehaald als: Regeling groenprojecten Nederlandse Antillen en Aruba 2002.
 

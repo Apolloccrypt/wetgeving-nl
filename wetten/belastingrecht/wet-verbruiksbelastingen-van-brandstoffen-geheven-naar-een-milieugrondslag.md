@@ -1,14 +1,37 @@
 ---
-title: "Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag"
+title: "Wet van 24 juni 1992, tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne en van enige andere wetten, onder meer ter omzetting van de bestemmingsheffingen op brandstoffen in verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud van de brandstoffen"
 identifier: "BWBR0005564"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005564"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005564"
+soort: "wet"
+stam_id: "365023"
+version_id: "537362"
+internal_id: "C537361"
+label_id: "356684"
+dtd_version: "2.0"
+original_entry_into_force: "1992-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005564/1995-01-01/0"
+intitule_bron: "Stb.1992-317"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-317"
+original_signed_date: "1992-06-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "22405"
+entry_into_force_date: "1992-07-01"
+jci_1_3: "jci1.3:c:BWBR0005564&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0005564&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag"
+signed_date: "1992-06-24"
+entry_into_force: "1992-07-01"
 ---
-
-# Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag
+# Wet van 24 juni 1992, tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne en van enige andere wetten, onder meer ter omzetting van de bestemmingsheffingen op brandstoffen in verbruiksbelastingen van brandstoffen, geheven naar het koolstofgehalte en de energie-inhoud van de brandstoffen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +39,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is voor het jaar 1992 v
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Indien deze wet in werking treedt met ingang van 1 juni 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
@@ -51,7 +74,7 @@ Bevat wijzigingen in andere regelgeving.
 | b. vloeibare brandstof, per 1000 kilogram | f 39,04 |
 | c. gasvormige brandstof, per 1000 gigajoule | f 278,54 |
 
-#### Artikel V
+##### Artikel V
 
 1. Indien deze wet in werking treedt op of na 1 juli 1992 bedraagt, in afwijking in zoverre van artikel 61**i**, eerste lid, van de Wet algemene bepalingen milieuhygiëne, het tarief vanaf het tijdstip van inwerkingtreding tot 1 januari 1993 voor:
 
@@ -74,23 +97,23 @@ Bevat wijzigingen in andere regelgeving.
 | b. vloeibare brandstof, per 1000 kilogram | f 42,56 |
 | c. gasvormige brandstof, per 1000 gigajoule | f 304,04 |
 
-#### Artikel VI
+##### Artikel VI
 
 De Wet algemene bepalingen milieuhygiëne, zoals die luidde een dag voor de inwerkingtreding van deze wet, blijft van toepassing op de bestemmingsheffingen op brandstof en de regulerende heffingen op gelode lichte olie met een researchoktaangetal lager dan 97 en op ongelode lichte olie met een researchoktaangetal lager dan 95, die voor de inwerkingtreding van deze wet krachtens de Wet algemene bepalingen milieuhygiëne verschuldigd zijn geworden.
 
-#### Artikel VII
+##### Artikel VII
 
 [Bevat wijzigingen in andere regelgeving.]
 
-#### Artikel VIII
+##### Artikel VIII
 
 Indien het bij koninklijke boodschap van 4 december 1989 ingediende voorstel van wet tot wijziging van het hoofdstuk Financiële bepalingen van de Wet algemene bepalingen milieuhygiëne (Kamerstukken 21 407) tot wet wordt verheven, vervallen de artikelen I, onderdelen B en C, en V van die wet.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel X
+##### Artikel X
 
 Deze wet kan worden aangehaald als Wet verbruiksbelastingen van brandstoffen, geheven naar een milieugrondslag.
 

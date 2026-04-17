@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake Nederlandse oorlogsgraven in de Bondsrepubliek Duitsland (Oorlogsgravenovereenkomst)"
 identifier: "BWBV0004803"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-09-01
-laatste_update: 1998-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004803"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-09-01"
+last_updated: "1998-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004803"
+soort: "verdrag"
+stam_id: "10004330023"
+version_id: "10004529522"
+internal_id: "C10007164591"
+label_id: "10004315014"
+dtd_version: "2.0"
+original_entry_into_force: "1963-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004803/1998-09-01/0"
+intitule_bron: "Trb.1960-72"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-07-18"
+intitule_in_force: "1963-07-31"
+intitule_status: "goed"
+original_publication: "Trb.1960-72"
+original_published_date: "1960-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-72"
+entry_into_force_date: "1963-08-01"
+jci_1_3: "jci1.3:c:BWBV0004803&z=1998-09-01&g=1998-09-01"
+jci_1_0: "1.0:c:BWBV0004803&g=1998-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-08-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake Nederlandse oorlogsgraven in de Bondsrepubliek Duitsland (Oorlogsgravenovereenkomst)
 
 Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstemming bereikt over de volgende bepalingen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Bondsrepubliek Duitsland waarborgt het Koninkrijk der Nederlanden voor altijd het kosteloos gebruik van de voor de bijzetting van overleden Nederlandse gedeporteerde burgers ingerichte afdelingen der volgende begraafplaatsen:
 
@@ -32,7 +54,7 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstem
 
 2. Tevens waarborgt de Bondsrepubliek Duitsland voor altijd het kosteloos gebruik van de in de Bondsrepubliek Duitsland verspreid liggende graven van overleden Nederlandse gedeporteerde burgers.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Bondsrepubliek Duitsland zal de op de in artikel 1 genoemde begraafplaatsen aanwezige of alsnog aan te leggen of op te richten graven, gedenktekenen of andere bouwwerken, alsmede aanplantingen, niet zonder toestemming van de Regering van het Koninkrijk der Nederlanden verwijderen, veranderen of daaraan een andere bestemming geven.
 
@@ -42,27 +64,27 @@ Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland hebben overeenstem
 
 4. De kosten van instandhouding en onderhoud van de Nederlandse graven en gedenktekens die zich bevinden op de in artikel 1, eerste lid, genoemde afdelingen, komen voor rekening van de Oorlogsgravenstichting. Voor het overige komen de kosten van instandhouding en onderhoud van Nederlandse oorlogsgraven voor rekening van de Bondsrepubliek Duitsland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Bondsrepubliek Duitsland verleent het Koninkrijk der Nederlanden binnen het kader van de navolgende bepalingen faciliteiten bij het naspeuringswerk, alsook bij het zoeken naar en de bijzetting van de stoffelijke resten van de Nederlandse gedeporteerde burgers die nog niet op een der in artikel 1 genoemde begraafplaatsen of in een der in de Bondsrepubliek verspreid liggende oorlogsgraven een definitieve rustplaats gevonden hebben.
 
 2. Het herbegraven van stoffelijke resten in de Bondsrepubliek op last van de Bondsrepubliek Duitsland vindt alleen plaats, wanneer het algemeen belang dit dringend vereist. Van voornemens terzake wordt de Regering van het Koninkrijk der Nederlanden tijdig langs diplomatieke weg op de hoogte gebracht. Aan wensen van Nederlandse zijde met betrekking tot het overbrengen, respectievelijk herbegraven wordt voor zover mogelijk voldaan. De kosten van het herbegraven op last of verzoek van de Bondsrepubliek Duitsland worden door de Bondsrepubliek gedragen.
 
-#### Artikel 4
+##### Artikel 4
 
 De voor het zoeken naar en de definitieve bijzetting van de stoffelijke resten gemaakte kosten, alsmede andere daarmede verband houdende kosten, komen ten laste van het Koninkrijk der Nederlanden. De kosten welke ontstaan ten gevolge van het openen en dichtmaken der graven bij overbrenging, alsmede voor het kisten van de stoffelijke resten, worden echter door de Bondsrepubliek Duitsland gedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Ter uitvoering van de in deze Overeenkomst aangegeven taken is de Oorlogsgravenstichting (hierna te noemen de Stichting) in opdracht van de Regering van het Koninkrijk der Nederlanden werkzaam. De Stichting bezit in de Bondsrepubliek Duitsland de status van rechtspersoon.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Stichting mag met inachtneming der Duitse wetten ter plaatse de voor haar taken benodigde arbeidskrachten te werk stellen; deze arbeidskrachten mogen Nederlanders zijn.
 
 2. Bij alle werkzaamheden dienen de in de Bondsrepubliek Duitsland van kracht zijnde voorschriften op het gebied van de volksgezondheid in acht te worden genomen, met uitzondering van voorschriften op grond van de Internationale Overeenkomst betreffende het vervoer van lijken van 10 februari 1937.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ter vergemakkelijking van het naspeuringswerk naar overleden gedeporteerde burgers draagt de Bondsrepubliek Duitsland ervoor zorg dat de Stichting alle mogelijke steun ontvangt. In het bijzonder verstrekken de bevoegde Duitse autoriteiten, voor zover mogelijk, gegevens uit de archieven die betrekking hebben op de periode van 10 mei 1940 tot en met 31 december 1945 en de volgende instanties betreffen:
 
@@ -78,35 +100,35 @@ Ter uitvoering van de in deze Overeenkomst aangegeven taken is de Oorlogsgravens
 
 4. De Regering van de Bondsrepubliek Duitsland zal in gevallen waarin zij geen rechtstreekse invloed kan uitoefenen, bij de bevoegde instanties bemiddeling verlenen voor het vergemakkelijken van het naspeuringswerk.
 
-#### Artikel 8
+##### Artikel 8
 
 De Duitse autoriteiten stellen, voor zover hun dit bekend wordt, uiterlijk een maand vóór iedere opening of iedere nieuwe aanleg van afzonderlijke of gemeenschappelijke graven van gedeporteerde burgers de Stichting hiervan in kennis, indien de omstandigheden in aanmerking genomen, er rekening mede moet worden gehouden dat zich in de graven de stoffelijke resten van Nederlandse gedeporteerde burgers bevinden.
 
-#### Artikel 9
+##### Artikel 9
 
 De Stichting kan zich voor de uitvoering van de in deze Overeenkomst aangegeven taken rechtstreeks met de hoogste bevoegde Duitse autoriteiten van de „Länder” in verbinding stellen.
 
-#### Artikel 10
+##### Artikel 10
 
 Op de voorwerpen welke de Stichting ter uitoefening van haar officiële werkzaamheden in de Bondsrepubliek Duitsland invoert, worden geen rechten (zoals invoerrechten en accijnzen, belasting op de omzet bij invoer inbegrepen) geheven, wanneer het doel waarvoor deze voorwerpen zullen worden gebruikt blijkt uit een aan de douanekantoren over te leggen verklaring van de Stichting.
 
-#### Artikel 11
+##### Artikel 11
 
 De Bondsrepubliek Duitsland ontheft de Stichting van belasting op de door de Stichting ten behoeve van haar dienstauto's in de Bondsrepubliek aangeschafte aardolieprodukten.
 
-#### Artikel 12
+##### Artikel 12
 
 De Stichting is, voor zover zij bij de uitoefening van haar officiële werkzaamheden over inkomsten, opbrengsten en vermogen in de Bondsrepubliek Duitsland beschikt, vrijgesteld van de hierop verschuldigde belastingen.
 
-#### Artikel 13
+##### Artikel 13
 
 Ter vereffening van de omzetbelasting geheven in de Bondsrepubliek Duitsland terzake van aan de Stichting gedane leveringen of voor haar verrichte diensten, zal de Stichting op haar verzoek van een door de Bondsminister van Financiën aan te wijzen financiële instantie een vergoeding ontvangen ter grootte van 4 percent van het bedrag der overgelegde rekeningen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Bondsrepubliek Duitsland waarborgt de vrije toegang tot de in de Bondsrepubliek gelegen begraafplaatsen van en gedenkplaatsen voor Nederlandse gedeporteerde burgers. De deelnemende personen kunnen met inachtneming van de Duitse wetten op deze plaatsen in het bijzonder voor het houden van herdenkingsplechtigheden bijeenkomen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Familieleden van een in Duitse gevangenschap overleden gedeporteerde burger kunnen eenmaal per jaar op de in artikel 16 vervatte voorwaarden een bezoek brengen aan de in de Bondsrepubliek Duitsland gelegen begraafplaatsen en gedenkplaatsen.
 
@@ -114,7 +136,7 @@ De Bondsrepubliek Duitsland waarborgt de vrije toegang tot de in de Bondsrepubli
 
 3. Nadat een periode van tien jaar na de inwerkingtreding van deze Overeenkomst is verstreken en daarna telkens na het verstrijken van een periode van vijf jaar, zullen de Overeenkomstsluitende Partijen te zijner tijd een regeling treffen inzake het aantal bezoekers dat dan nog jaarlijks tot deze reizen kan worden toegelaten.
 
-#### Artikel 16
+##### Artikel 16
 
 De Bondsrepubliek Duitsland zal de in artikel 15 bedoelde personen de toegang tot haar grondgebied vergemakkelijken en de kosten dragen voor de heen- en terugreis 1e klasse op de desbetreffende trajecten van de Duitse Bondsspoorwegen. Bijzonderheden zullen tussen de wederzijds bevoegde autoriteiten worden geregeld.
 

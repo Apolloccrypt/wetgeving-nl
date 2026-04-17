@@ -1,28 +1,53 @@
 ---
-title: "Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 februari 2004, nr. AV/KO/2004/4719 houdende vaststelling van verantwoordingsformulieren ten behoeve van de Regeling uitbreiding kinderopvang en buitenschoolse opvang (Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang)"
 identifier: "BWBR0016418"
-categorie: "Onderwijs"
-publicatiedatum: 2005-01-29
-laatste_update: 2005-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016418"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-01-29"
+last_updated: "2005-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016418"
+soort: "ministeriele-regeling"
+stam_id: "5748333"
+version_id: "11521152"
+internal_id: "C15536001"
+label_id: "5728564"
+original_entry_into_force: "2005-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016418/2005-01-29/0"
+intitule_bron: "Stcrt.2004-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-20"
+intitule_published: "2004-03-01"
+intitule_in_force: "2004-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-19"
+original_signed_date: "2005-01-18"
+original_published_date: "2005-01-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2005-19-p12-SC68617"
+entry_into_force_date: "2005-01-18"
+jci_1_3: "jci1.3:c:BWBR0016418&z=2005-01-29&g=2005-01-29"
+jci_1_0: "1.0:c:BWBR0016418&g=2005-01-29"
+citeertitel_status: "officieel"
+short_title: "Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang"
+signed_date: "2005-01-18"
+entry_into_force: "2005-01-18"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 februari 2004, nr. AV/KO/2004/4719 houdende vaststelling van verantwoordingsformulieren ten behoeve van de Regeling uitbreiding kinderopvang en buitenschoolse opvang (Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang)
 
 Gelet op [artikel 56 van het Bekostigingsbesluit welzijnsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0007133&artikel=56);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de verantwoording door gemeenten van de uitkeringen gedaan op grond van de Regeling uitbreiding kinderopvang en buitenschoolse opvang gebruikt de gemeente de verantwoordingsformulieren vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2005-01-29&g=2005-01-29), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2005-01-29&g=2005-01-29), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2005-01-29&g=2005-01-29), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2005-01-29&g=2005-01-29) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2005-01-29&g=2005-01-29) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling verantwoordingsformulieren Regeling uitbreiding kinderopvang en buitenschoolse opvang.
 
@@ -736,7 +761,7 @@ De voorgeschreven tekst voor de accountantsverklaring is opgenomen in hoofdstuk 
 
 Deze regeling wordt met de toelichting en de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1&z=2004-03-03&g=2004-03-03), [1a](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1a&z=2004-03-03&g=2004-03-03), [1b](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=1b&z=2004-03-03&g=2004-03-03), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=2&z=2004-03-03&g=2004-03-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=3&z=2004-03-03&g=2004-03-03) in de Staatscourant geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Bij de verantwoording door gemeenten van de uitkering gedaan op grond van [artikel 2, tweede lid, van de Regeling uitbreiding kinderopvang en buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0011626&artikel=2) ten behoeve van de verlenging van de Extra taakstelling 2003, gebruikt de gemeente de verantwoordingsformulieren vastgesteld overeenkomstig [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=4&z=2005-01-29&g=2005-01-29), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=5&z=2005-01-29&g=2005-01-29), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=6&z=2005-01-29&g=2005-01-29) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0016418&bijlage=7&z=2005-01-29&g=2005-01-29) bij deze regeling.
 

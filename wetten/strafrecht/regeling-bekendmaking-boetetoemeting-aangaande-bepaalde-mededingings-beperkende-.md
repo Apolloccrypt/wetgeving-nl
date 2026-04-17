@@ -1,13 +1,38 @@
 ---
 title: "Regeling bekendmaking boetetoemeting aangaande bepaalde mededingings- beperkende activiteiten in de installatie-deelsector"
 identifier: "BWBR0033026"
-categorie: "Strafrecht"
-publicatiedatum: 2005-04-22
-laatste_update: 2005-04-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033026"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-04-22"
+last_updated: "2005-04-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033026"
+soort: "zbo"
+stam_id: "12139793"
+version_id: "20258002"
+internal_id: "C28493661"
+label_id: "12111414"
+dtd_version: "2.0"
+original_entry_into_force: "2005-04-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033026/2005-04-22/0"
+intitule_bron: "Stcrt.2005-78"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-04-21"
+intitule_published: "2005-04-22"
+intitule_in_force: "2005-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-78"
+original_signed_date: "2005-04-21"
+original_published_date: "2005-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-78-p34-SC69714"
+entry_into_force_date: "2005-04-22"
+jci_1_3: "jci1.3:c:BWBR0033026&z=2005-04-22&g=2005-04-22"
+jci_1_0: "1.0:c:BWBR0033026&g=2005-04-22"
+citeertitel_status: "redactioneel"
+signed_date: "2005-04-21"
+entry_into_force: "2005-04-22"
 ---
-
 # Regeling bekendmaking boetetoemeting aangaande bepaalde mededingings- beperkende activiteiten in de installatie-deelsector
 
 ### I. Inleiding en definities

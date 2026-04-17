@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien)"
 identifier: "BWBV0006663"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006663"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006663"
+soort: "verdrag"
+stam_id: "10005398293"
+version_id: "10005832732"
+internal_id: "C10009285431"
+label_id: "10005381234"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006663/2017-12-01/0"
+intitule_bron: "Trb.2017-27"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-02-08"
+intitule_in_force: "2017-09-27"
+intitule_status: "goed"
+original_publication: "Trb.2017-27"
+original_published_date: "2017-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2017-27"
+entry_into_force_date: "2017-12-01"
+jci_1_3: "jci1.3:c:BWBV0006663&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBV0006663&g=2017-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-12-01"
 ---
-
 # Verdrag van de Raad van Europa inzake cinematografische coproductie (herzien)
 
 Preambule
@@ -44,11 +66,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doel van het Verdrag
+##### Artikel 1. Doel van het Verdrag
 
 De partijen bij dit Verdrag verbinden zich ertoe de ontwikkeling van internationale cinematografische coproducties te bevorderen in overeenstemming met de volgende bepalingen.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit Verdrag regelt de betrekkingen tussen de partijen op het gebied van multilaterale coproducties die hun oorsprong vinden op het grondgebied van de partijen.
 
@@ -64,7 +86,7 @@ In het geval van multilaterale coproducties hebben de bepalingen van dit Verdrag
 
 4. Bij gebreke van een verdrag waarin de bilaterale betrekkingen ter zake van coproducties tussen twee partijen bij dit Verdrag zijn geregeld, is het Verdrag ook van toepassing op bilaterale coproducties, tenzij door één van de betrokken partijen een voorbehoud is gemaakt ingevolge [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=III&artikel=22&z=2017-12-01&g=2017-12-01).
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -78,13 +100,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. REGELS DIE OP COPRODUCTIES VAN TOEPASSING ZIJN
 
-#### Artikel 4. Gelijkstelling met nationale films
+##### Artikel 4. Gelijkstelling met nationale films
 
 1. Voor cinematografische werken die als multilaterale coproducties zijn vervaardigd en binnen de reikwijdte van dit Verdrag vallen, kan aanspraak worden gemaakt op de voordelen die aan nationale films worden toegekend door de wet- en regelgeving die van kracht is in elk van de partijen bij dit Verdrag die aan de desbetreffende coproductie deelnemen.
 
 2. De voordelen worden aan elke coproducent toegekend door de partij waarin de coproducent is gevestigd, onder de voorwaarden en binnen de grenzen bepaald in de wet- en regelgeving die in die partij van kracht is en in overeenstemming met de bepalingen van dit Verdrag.
 
-#### Artikel 5. Voorwaarden voor het verkrijgen van de coproductiestatus
+##### Artikel 5. Voorwaarden voor het verkrijgen van de coproductiestatus
 
 1. Elke cinematografische coproductie dient te worden goedgekeurd door de bevoegde autoriteiten van de partijen waarin de coproducenten zijn gevestigd, na overleg tussen de bevoegde autoriteiten en in overeenstemming met de procedures vervat in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&bijlage=I&z=2017-12-01&g=2017-12-01). Deze bijlage vormt een integrerend onderdeel van dit Verdrag.
 
@@ -96,25 +118,25 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Elke verdragsluitende staat wijst de in het tweede lid van dit artikel genoemde bevoegde autoriteiten aan door middel van een verklaring, afgelegd bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. Deze verklaring kan daarna te allen tijde worden gewijzigd.
 
-#### Artikel 6. Verhouding tussen de inbreng van de coproducenten
+##### Artikel 6. Verhouding tussen de inbreng van de coproducenten
 
 1. In het geval van een multilaterale coproductie mag de kleinste inbreng niet minder dan 5% en de grootste inbreng niet meer dan 80% bedragen van de totale productiekosten van een cinematografisch werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
 
 2. Wanneer dit Verdrag ingevolge de bepalingen van [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), tussen twee partijen als bilateraal verdrag geldt, mag de kleinste inbreng niet minder dan 10% en de grootste inbreng niet meer dan 90% bedragen van de totale productiekosten van het cinematografische werk. Wanneer de kleinste inbreng minder dan 20% bedraagt of de coproductie louter financieel van aard is, kan de betrokken partij stappen ondernemen om de toegang tot nationale steunmaatregelen voor producties te beperken of te blokkeren.
 
-#### Artikel 7. Rechten van coproducenten op cinematografisch werk
+##### Artikel 7. Rechten van coproducenten op cinematografisch werk
 
 1. De coproductie-overeenkomst dient te waarborgen dat elke coproducent de gezamenlijke eigendom verkrijgt van alle materiële en immateriële eigendomsrechten van de film. De overeenkomst dient een bepaling te bevatten dat de master van de film (eerste gemonteerde versie) wordt bewaard op een door beide coproducenten gezamenlijk overeen te komen locatie, waartoe zij vrije toegang dienen te hebben.
 
 2. De coproductie-overeenkomst dient tevens te waarborgen dat elke coproducent tevens recht krijgt op toegang tot het materiaal en de master van de film voor gebruik als medium voor het maken van duplicaten.
 
-#### Artikel 8. Technische en artistieke bijdrage
+##### Artikel 8. Technische en artistieke bijdrage
 
 1. De inbreng van elke coproducent dient een wezenlijke technische en artistieke bijdrage te omvatten. In beginsel, en in overeenstemming met internationale verplichtingen die de partijen binden, dient de inbreng van de coproducenten in de vorm van creatief, technisch en artistiek personeel, acteurs en faciliteiten, evenredig te zijn aan hun investering.
 
 2. Met inachtneming van de internationale verplichtingen die de partijen binden en de eisen van het scenario, dient de filmploeg te bestaan uit onderdanen van de staten die in de coproductie deelnemen en dient de post-productie in beginsel in die staten plaats te vinden.
 
-#### Artikel 9. Financiële coproducties
+##### Artikel 9. Financiële coproducties
 
 1. Niettegenstaande de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=8&z=2017-12-01&g=2017-12-01) en met inachtneming van de specifieke voorwaarden en grenzen vastgesteld in de wet- en regelgeving die in de partijen van kracht is, kan aan coproducties krachtens de bepalingen van dit Verdrag de coproductiestatus worden toegekend indien zij aan de volgende voorwaarden voldoen:
 
@@ -128,23 +150,23 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Financiële coproducties komen slechts in aanmerking voor de coproductiestatus indien de bevoegde autoriteiten in elk afzonderlijk geval hun goedkeuring hebben verleend, hierbij in het bijzonder rekening houdend met de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=10&z=2017-12-01&g=2017-12-01) hieronder.
 
-#### Artikel 10. Algemeen evenwicht
+##### Artikel 10. Algemeen evenwicht
 
 1. Er dient een algemeen evenwicht te worden gehandhaafd in de cinematografische betrekkingen tussen de partijen, zowel wat betreft het totaal geïnvesteerde bedrag, als wat betreft de artistieke en technische deelneming aan cinematografische coproducties.
 
 2. Een partij die na een redelijke periode vaststelt dat er sprake is van onevenwichtige betrekkingen op het gebied van coproducties met één of meer partijen, kan weigeren haar goedkeuring te verlenen aan een volgende coproductie totdat het evenwicht in de cinematografische betrekkingen met die partij(en) is hersteld.
 
-#### Artikel 11. Binnenkomst en verblijf
+##### Artikel 11. Binnenkomst en verblijf
 
 In overeenstemming met de geldende wet- en regelgeving en internationale verplichtingen vergemakkelijkt elke partij de binnenkomst en het verblijf, alsmede het verlenen van werkvergunningen op haar grondgebied, van technisch en artistiek personeel uit andere partijen die aan een coproductie deelnemen. Op dezelfde manier staat elke partij de tijdelijke invoer en wederuitvoer toe van apparatuur die noodzakelijk is voor de productie en distributie van cinematografische werken die binnen de reikwijdte van dit Verdrag vallen.
 
-#### Artikel 12. Vermelding van coproducerende landen
+##### Artikel 12. Vermelding van coproducerende landen
 
 1. De coproducerende landen dienen in de in coproductie vervaardigde cinematografische werken te worden vermeld.
 
 2. De namen van deze landen dienen duidelijk te worden vermeld in de titelrollen, in al het reclame- en promotiemateriaal en bij de vertoning van de cinematografische werken.
 
-#### Artikel 13. Uitvoer
+##### Artikel 13. Uitvoer
 
 Wanneer een in coproductie vervaardigd cinematografisch werk wordt uitgevoerd naar een land waar quota gelden voor de invoer van cinematografische werken en één van de coproducerende partijen voor haar cinematografische werken niet beschikt over het recht van vrije toegang tot het invoerende land:
 
@@ -154,23 +176,23 @@ Wanneer een in coproductie vervaardigd cinematografisch werk wordt uitgevoerd na
 
 - c. wordt het cinematografische werk wanneer de bepalingen van de onderdelen a en b hierboven niet kunnen worden toegepast, opgenomen in de quota van de partij die de regisseur levert.
 
-#### Artikel 14. Talen
+##### Artikel 14. Talen
 
 Wanneer de coproductiestatus wordt verleend, kan de bevoegde autoriteit van een partij van de daarin gevestigde coproducent een definitieve versie van het cinematografische werk eisen in één van de talen van die partij.
 
-#### Artikel 15. Festivals
+##### Artikel 15. Festivals
 
 Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cinematografische werken op internationale festivals vertoond door de partij waar de meerderheidscoproducent is gevestigd of, in het geval van gelijke financiële deelneming, door de partij die de regisseur levert.
 
 ### HOOFDSTUK III. SLOTBEPALINGEN
 
-#### Artikel 16. Gevolgen van het Verdrag
+##### Artikel 16. Gevolgen van het Verdrag
 
 1. Dit Verdrag treedt ten aanzien van de staten die er partij bij zijn in de plaats van het [Europees Verdrag inzake cinematografische coproduktie](onbekend), dat op 2 oktober 1992 werd opengesteld voor ondertekening.
 
 2. In de betrekkingen tussen een partij bij dit Verdrag en een partij bij het [Verdrag van 1992](onbekend) die dit Verdrag niet heeft bekrachtigd blijft het Verdrag van 1992 van toepassing.
 
-#### Artikel 17. Follow-up van het Verdrag en wijzigingen van de Aanhangsels I en II
+##### Artikel 17. Follow-up van het Verdrag en wijzigingen van de Aanhangsels I en II
 
 1. De Raad van Bestuur van het Europees fonds voor de ondersteuning van coproductie en distributie van oorspronkelijke cinematografische en audiovisuele werken “Eurimages” is verantwoordelijk voor de follow-up van dit Verdrag.
 
@@ -194,7 +216,7 @@ Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cin
 
 9. Indien een wijziging is aanvaard door het Comité van Ministers, kan een staat of de Europese Unie zijn of haar instemming te worden gebonden door het Verdrag niet tot uitdrukking brengen zonder tegelijkertijd de wijziging te aanvaarden.
 
-#### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
+##### Artikel 18. Ondertekening, bekrachtiging, aanvaarding, goedkeuring
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en door de andere staten die partij zijn bij het [Europees Cultureel Verdrag](onbekend), die hun instemming door het Verdrag gebonden te worden tot uitdrukking kunnen brengen door:
 
@@ -204,19 +226,19 @@ Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cin
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 1. Het Verdrag treedt in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum waarop drie Staten, waaronder ten minste twee lidstaten van de Raad van Europa, hun instemming door het Verdrag te worden gebonden tot uitdrukking hebben gebracht in overeenstemming met de bepalingen van artikel 18.
 
 2. Ten aanzien van een ondertekenende staat die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het Verdrag in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum van ondertekening of de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 20. Toetreding van niet-lidstaten
+##### Artikel 20. Toetreding van niet-lidstaten
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging van de partijen, elke staat die geen lid is van de Raad van Europa alsmede de Europese Unie uitnodigen tot dit Verdrag toe te treden, door middel van een besluit dat is genomen met de meerderheid voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van](onbekend) Europa en met eenparigheid van stemmen van de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
 
 2. Ten aanzien van een toetredende staat of de Europese Unie, ingeval zij toetreedt, treedt het Verdrag in werking op de eerste dag van de maand volgend na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 21. Territoriale toepassing
+##### Artikel 21. Territoriale toepassing
 
 1. Elke staat kan op het tijdstip van de ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aangeven.
 
@@ -224,19 +246,19 @@ Tenzij de coproducenten anders beslissen, worden in coproductie vervaardigde cin
 
 3. Elke ingevolge de twee voorgaande leden afgelegde verklaring kan ten aanzien van elk in die verklaring aangegeven grondgebied worden ingetrokken door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 22. Voorbehouden
+##### Artikel 22. Voorbehouden
 
 1. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=I&artikel=2&z=2017-12-01&g=2017-12-01), niet van toepassing is op zijn bilaterale betrekkingen op het gebied van coproducties met één of meer partijen. Bovendien kan hij zich het recht voorbehouden een maximale deelneming vast te stellen die afwijkt van de in [artikel 9, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0006663&hoofdstuk=II&artikel=9&z=2017-12-01&g=2017-12-01), bepaalde deelneming. Andere voorbehouden mogen niet worden gemaakt.
 
 2. Elke partij die ingevolge het voorgaande lid een voorbehoud heeft gemaakt, kan dit geheel of gedeeltelijk intrekken door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 23. Opzegging
+##### Artikel 23. Opzegging
 
 1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 24. Kennisgeving
+##### Artikel 24. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de Europese Unie en elke staat die is toegetreden of uitgenodigd toe te treden tot dit Verdrag in kennis van:
 

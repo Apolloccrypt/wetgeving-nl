@@ -1,13 +1,37 @@
 ---
 title: "Nummerplan internationale signaleringspuntcodes"
 identifier: "BWBR0008836"
-categorie: "Overig"
-publicatiedatum: 2016-09-23
-laatste_update: 2016-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008836"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-09-23"
+last_updated: "2016-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008836"
+soort: "ministeriele-regeling"
+stam_id: "4327593"
+version_id: "6091922"
+internal_id: "C6295431"
+label_id: "4306214"
+dtd_version: "2.0"
+original_entry_into_force: "1997-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008836/2016-09-23/0"
+intitule_bron: "Stcrt.1997-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-11"
+intitule_published: "1997-07-22"
+intitule_in_force: "1997-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-137"
+original_signed_date: "1997-07-11"
+original_published_date: "1997-07-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-07-24"
+jci_1_3: "jci1.3:c:BWBR0008836&z=2016-09-23&g=2016-09-23"
+jci_1_0: "1.0:c:BWBR0008836&g=2016-09-23"
+citeertitel_status: "officieel"
+signed_date: "1997-07-11"
+entry_into_force: "1997-07-24"
 ---
-
 # Nummerplan internationale signaleringspuntcodes
 
 Gelet op artikel 40d, eerste lid, onder a, van de Wet op de telecommunicatievoorzieningen;
@@ -16,7 +40,7 @@ Gezien Aanbeveling Q.708 van de Telecommunication Standardization Sector van de 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een nummer als bedoeld in dit besluit bestaat uitsluitend uit cijfers.
 
@@ -24,11 +48,11 @@ Besluit:
 
 3. De in dit besluit bedoelde nummers die beschikbaar zijn voor toekenning bevinden zich uitsluitend in de nummerblokken die zijn aangegeven in de bij dit besluit behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Een nummer dat is toegekend, kan niet nogmaals worden toegekend.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
@@ -38,19 +62,19 @@ Aan de toekenning van een nummer worden de volgende voorschriften verbonden:
 
 - c. de nummerhouder die een nummer heeft toegekend gekregen waarmee hij de in onder b bedoelde koppeling kan realiseren en daarmee in zijn behoefte kan voorzien, kan niet nog een ander nummer aanvragen voor deze koppeling.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Nummerplan internationale signaleringspuntcodes.
 

@@ -1,13 +1,38 @@
 ---
-title: "Wijziging formulieren geneeskundige verklaringen Wet B.o.p.z."
+title: "Wijziging formulier geneeskundige verklaring Wet B.o.p.z"
 identifier: "BWBR0007856"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1996-02-01
-laatste_update: 1996-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007856"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-02-01"
+last_updated: "1996-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007856"
+soort: "circulaire"
+stam_id: "6334113"
+version_id: "10987812"
+internal_id: "C14879861"
+label_id: "6322934"
+original_entry_into_force: "1996-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007856/1996-02-01/0"
+intitule_bron: "Stcrt.1996-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-01-22"
+intitule_published: "1996-02-01"
+intitule_in_force: "1996-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-23"
+original_signed_date: "1996-01-22"
+original_published_date: "1996-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-23-p21-SC5117"
+entry_into_force_date: "1996-02-01"
+jci_1_3: "jci1.3:c:BWBR0007856&z=1996-02-01&g=1996-02-01"
+jci_1_0: "1.0:c:BWBR0007856&g=1996-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijziging formulieren geneeskundige verklaringen Wet B.o.p.z."
+signed_date: "1996-01-22"
+entry_into_force: "1996-02-01"
 ---
-
 # Wijziging formulier geneeskundige verklaring Wet B.o.p.z
 
 Circulaire aan: de president van de Hoge Raad der Nederlanden

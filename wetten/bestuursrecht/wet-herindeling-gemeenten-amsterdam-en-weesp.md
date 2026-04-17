@@ -1,14 +1,41 @@
 ---
-title: "Wet herindeling gemeenten Amsterdam en Weesp"
+title: "Wet van 9 juni 2021 tot herindeling van de gemeenten Amsterdam en Weesp"
 identifier: "BWBR0045261"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-09-15
-laatste_update: 2021-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045261"
+country: "nl"
+rank: "wet"
+publication_date: "2021-09-15"
+last_updated: "2021-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045261"
+soort: "wet"
+stam_id: "15991093"
+version_id: "27831242"
+internal_id: "C39505771"
+label_id: "15924984"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045261/2021-09-15/0"
+intitule_bron: "Stb.2021-296"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-09"
+intitule_published: "2021-06-23"
+intitule_in_force: "2021-09-14"
+intitule_status: "goed"
+original_publication: "Stb.2021-296"
+original_signed_date: "2021-06-09"
+original_published_date: "2021-06-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "35623"
+original_url_id: "stb-2021-296"
+entry_into_force_date: "2021-09-15"
+jci_1_3: "jci1.3:c:BWBR0045261&z=2021-09-15&g=2021-09-15"
+jci_1_0: "1.0:c:BWBR0045261&g=2021-09-15"
+citeertitel_status: "redactioneel"
+short_title: "Wet herindeling gemeenten Amsterdam en Weesp"
+signed_date: "2021-06-09"
+entry_into_force: "2021-09-15"
 ---
-
-# Wet herindeling gemeenten Amsterdam en Weesp
+# Wet van 9 juni 2021 tot herindeling van de gemeenten Amsterdam en Weesp
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,15 +45,15 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Opheffing, instelling en rechtsopvolging
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling wordt de gemeente Weesp opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling wordt het grondgebied van de op te heffen gemeente Weesp toegevoegd aan de gemeente Amsterdam door een grenswijziging van de gemeente Amsterdam, zoals aangegeven op de bij deze wet behorende kaart.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de op te heffen gemeente Weesp wordt de gemeente Amsterdam aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -38,17 +65,17 @@ Voor de op te heffen gemeente Weesp wordt de gemeente Amsterdam aangewezen voor 
 
 #### § 2. Datum herindeling, herindelingsverkiezingen en eerste raadsvergadering
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van [artikel 1, eerste lid, onderdeel h, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=1) is de datum van herindeling 24 maart 2022.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In afwijking van [artikel 55, tweede lid, eerste volzin, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=55) vindt de kandidaatstelling voor de tussentijdse raadsverkiezing, bedoeld in [artikel 52 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52), plaats op maandag 31 januari 2022.
 
 2. De reguliere gemeenteraadsverkiezingen van 2022 blijven in de gemeente Amsterdam en de op te heffen gemeente Weesp achterwege.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van [artikel 56, derde lid, eerste volzin, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=56) wordt de eerste raadsvergadering gehouden op de datum van herindeling.
 
@@ -56,7 +83,7 @@ In afwijking van [artikel 1, eerste lid, onderdeel h, van de Wet algemene regels
 
 #### § 3. Financiële bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van [artikel 6 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=6) wordt voor het jaar 2022 ervan uitgegaan dat het grondgebied van de gemeente Weesp met ingang van 1 januari 2022 is toegevoegd aan de gemeente Amsterdam.
 
@@ -70,29 +97,29 @@ In afwijking van [artikel 1, eerste lid, onderdeel h, van de Wet algemene regels
 
 - b. het aantal inwoners van de gemeenten Amsterdam en Weesp op 1 januari 2021.
 
-#### Artikel 8
+##### Artikel 8
 
 De verantwoording, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), van de gemeente Amsterdam over het jaar 2022, vermeldt afzonderlijk de verantwoording van de op te heffen gemeente Weesp over het jaar 2022 tot de datum van herindeling.
 
 #### § 4. Wijziging andere wetten en overgangsrecht
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Kieswet.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 13
+##### Artikel 13
 
 1. [Artikel 41, vierde tot en met zesde lid, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=41) is van overeenkomstige toepassing op bij deze herindeling betrokken gemeenschappelijke regelingen die van kracht zijn voor een gebied waarvan de omvang bij of krachtens de wet is vastgesteld.
 
@@ -100,7 +127,7 @@ Wijzigt de Wet veiligheidsregio’s.
 
 #### § 4*. Inwerkingtreding
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

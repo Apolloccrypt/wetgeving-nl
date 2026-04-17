@@ -1,18 +1,43 @@
 ---
 title: "Besluit slacht- en vleeskeuring BES"
 identifier: "BWBR0028462"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028462"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028462"
+soort: "AMvB-BES"
+stam_id: "10794473"
+version_id: "17772922"
+internal_id: "C25750831"
+label_id: "10769484"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028462/2010-10-10/0"
+intitule_bron: "Stb.2010-568"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-568"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-568"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028462&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028462&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit slacht- en vleeskeuring BES
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,11 +67,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. **invoer:** het brengen van niet van het openbaar lichaam Bonaire afkomstig vee, vlees of vleesprodukten in het vrije verkeer van het openbaar lichaam Bonaire.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit is van toepassing in het openbaar lichaam Bonaire.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij ministeriële regeling kan dit besluit geheel of gedeeltelijk van toepassing worden verklaard op andere dieren dan vee.
 
@@ -56,13 +81,13 @@ Dit besluit is van toepassing in het openbaar lichaam Bonaire.
 
 ### Hoofdstuk II. Het slachten en het gebruik van het slachthuis
 
-#### Artikel 3
+##### Artikel 3
 
 1. Hij die vee wil slachten of doen slachten geeft daarvan tevoren kennis aan de door Onze Minister aangewezen ambtenaar of persoon.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld over de kennisgeving, bedoeld in het eerste lid, en over de wijze waarop vee mag worden geslacht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De eigenaar of houder van vee dat doodgeboren, gestorven of in nood gedood is, geeft daarvan kennis aan de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10).
 
@@ -70,13 +95,13 @@ Dit besluit is van toepassing in het openbaar lichaam Bonaire.
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de kennisgeving bedoeld in het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over de toegang en het gebruik van het slachthuis en de daarin aanwezige voorzieningen.
 
 ### Hoofdstuk III. De keuring van slachtvee en daarvan afkomstig vlees
 
-#### Artikel 6
+##### Artikel 6
 
 1. Slachtvee wordt voor en na het slachten door een dierenarts of namens deze door een keurmeester gekeurd.
 
@@ -84,33 +109,33 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de toegang e
 
 3. Doodgeboren vee, vruchten, welke bij het slachten worden aangetroffen, gestorven eenhoevige dieren en runderen, jonger dan zeven dagen, en gestorven schapen, geiten en varkens, jonger dan 30 dagen, worden op last van de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), vernietigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij de keuring vóór het slachten wordt door de dierenarts of namens deze door de keurmeester toestemming tot slachten gegeven. De toestemming kan onder voorwaarden worden verleend.
 
 2. De toestemming vervalt, indien het dier niet binnen tweemaal vieren twintig uren na de dag waarop de keuring plaatsvond is geslacht. Deze termijn kan tweemaal telkens met ten hoogste tweemaal vierentwintig uren verlengd worden.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij de keuring na het slachten wordt het vlees goedgekeurd, voorwaardelijk goedgekeurd of afgekeurd.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien bij de keuring vlees voorwaardelijk is goedgekeurd en niet binnen de bij deze goedkeuring gestelde termijn aan de voorwaarden is voldaan, wordt het vlees op last van de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), vernietigd.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien bij de keuring het vlees is afgekeurd, wordt het vlees op last van de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), vernietigd.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bepaalde in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=III&artikel=9&z=2010-10-10&g=2010-10-10) en [10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=III&artikel=10&z=2010-10-10&g=2010-10-10), is niet van toepassing op afgekeurd vlees dat door Onze Minister op door hem te stellen voorwaarden bestemd wordt voor de voedering van dieren.
 
-#### Artikel 12
+##### Artikel 12
 
 Bij de keuring vóór het slachten wordt het dier en bij de keuring na het slachten wordt het vlees door of namens de dierenarts voorzien van één of meer merken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien een overtreding van het bepaalde in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VII&artikel=22&z=2010-10-10&g=2010-10-10) of [24, sub a](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VII&artikel=24&z=2010-10-10&g=2010-10-10), is opgespoord wordt het vlees waarmede dat feit is gepleegd, in beslag genomen en op kosten van de overtreder voor zover mogelijk gekeurd.
 
@@ -124,7 +149,7 @@ Bij de keuring vóór het slachten wordt het dier en bij de keuring na het slach
 
 6. Indien een overtreding van het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VII&artikel=23&z=2010-10-10&g=2010-10-10) of [artikel 25, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VII&artikel=25&z=2010-10-10&g=2010-10-10), is opgespoord, worden de vleesproducten of het vlees, waarmede het feit is gepleegd, in beslag genomen en vernietigd. Het vierde en het vijfde lid zijn van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij ministeriële regeling wordt bepaald:
 
@@ -140,33 +165,33 @@ Bij ministeriële regeling wordt bepaald:
 
 ### Hoofdstuk IV. De keuring van in te voeren vlees en vleesprodukten
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij ministeriële regeling wordt bepaald aan welke eisen in te voeren vlees en vleesprodukten moeten voldoen, van welke bescheiden het vlees en vleesprodukten vergezeld moeten gaan en van welke merken het vlees of de vleesprodukten moeten zijn voorzien.
 
 2. Degene die voornemens is vlees of vleesprodukten in te voeren dient daarvan minstens vierentwintig uur van tevoren mededeling te doen aan de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), onder vermelding van de herkomst en de hoeveelheid van het in te voeren vlees of de in te voeren vleesprodukten.
 
-#### Artikel 16
+##### Artikel 16
 
 Vlees en vleesprodukten mogen niet uit het schip of het vliegtuig waarmee zij zijn aangevoerd worden gelost zonder toestemming van of vanwege een dierenarts.
 
-#### Artikel 17
+##### Artikel 17
 
 Het in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=IV&artikel=16&z=2010-10-10&g=2010-10-10) bedoelde vlees wordt, onderscheidenlijk de in dat artikel bedoelde vleesprodukten worden, door een dierenarts gecontroleerd op het voldoen aan het ten aanzien van vlees, onderscheidenlijk de vleesprodukten, bij of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=IV&artikel=15&z=2010-10-10&g=2010-10-10) bepaalde. Bij ministeriële regeling kan een heffing voor deze controle worden vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Vlees dat en vleesprodukten die niet voldoen aan het bij of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=IV&artikel=15&z=2010-10-10&g=2010-10-10) bepaalde, dienen binnen tweemaal vierentwintig uur nadat dit is vastgesteld, het openbaar lichaam te verlaten.
 
 2. Indien het in het vorige lid bedoelde vlees of de aldaar bedoelde vleesprodukten het openbaar lichaam niet binnen de aldaar gestelde termijn heeft/hebben verlaten wordt dit vlees onderscheidenlijk deze vleesprodukten op last van Onze Minister, gehoord de dierenarts, vernietigd.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister kan bepalen dat de taken en bevoegdheden die in dit besluit aan de dierenarts worden toegekend, door een door Onze Minister aangewezen ambtenaar of persoon worden uitgeoefend.
 
 ### Hoofdstuk V. Eisen waaraan inrichtingen moeten voldoen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij ministeriële regeling kunnen ter wering van voor de volksgezondheid schadelijk vlees en schadelijke vleesprodukten eisen worden gesteld waaraan inrichtingen moeten voldoen.
 
@@ -194,13 +219,13 @@ Onze Minister kan bepalen dat de taken en bevoegdheden die in dit besluit aan de
 
 ### Hoofdstuk VI. Vervoer van vlees en vleesprodukten
 
-#### Artikel 21
+##### Artikel 21
 
 Bij ministeriële regeling kunnen voorschriften worden vastgesteld waaraan bij het vervoer van vlees en bepaalde vleesprodukten, anders dan voor huishoudelijk gebruik, het laden en lossen daaronder begrepen, moet worden voldaan.
 
 ### Hoofdstuk VII. Verbodsbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het is verboden:
 
@@ -214,17 +239,17 @@ Bij ministeriële regeling kunnen voorschriften worden vastgesteld waaraan bij h
 
 2. Van noodslachting dient tevoren of onmiddellijk daarna kennis te worden gegeven aan de ambtenaar of persoon, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10). Onmiddellijk na de noodslachting moet het aldus geslachte dier door of vanwege de eigenaar of rechthebbende in ongedeelde toestand naar het slachthuis worden gebracht. Slechts de in het in nood geslachte dier, in ongeschonden staat naar het slachthuis worden gebracht. Hij, die niet voldoet aan de in dit lid vermelde verplichtingen, wordt geacht het dier anders dan in een slachthuis te hebben geslacht.
 
-#### Artikel 23
+##### Artikel 23
 
 Het is verboden vlees, dat aan keuring is onderworpen, doch niet overeenkomstig dit besluit en de bij ministeriële regeling ter uitvoering van dit besluit gestelde regels is gekeurd, of dat na keuring niet van het voorgeschreven merk is voorzien, te koop aan te bieden, te verkopen, af te leveren, ten geschenke te geven, te vervoeren of te doen vervoeren, anders dan ter naleving van een wettelijk voorschrift, of, tenzij in afwachting van keuring, in voorraad te hebben.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het is verboden vlees of vleesprodukten uit een schip of vliegtuig te lossen zonder toestemming van of vanwege een dierenarts.
 
 2. Het is verboden zonder inachtneming van de ten aanzien van de invoer van vlees en vleesprodukten krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=IV&artikel=15&z=2010-10-10&g=2010-10-10) vastgestelde voorschriften vlees of vleesprodukten in te voeren of, wetende dat zij aldus zijn ingevoerd, te koop aan te bieden, te verkopen, af te leveren, ten geschenke te geven, te vervoeren of te doen vervoeren, anders dan ter naleving van een wettelijk voorschrift, of in voorraad of voorhanden te hebben.
 
-#### Artikel 25
+##### Artikel 25
 
 Het is verboden:
 
@@ -234,23 +259,23 @@ Het is verboden:
 
 - c. vleesprodukten, die bereid zijn in strijd met de voorschriften, vastgesteld krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=I&artikel=2&z=2010-10-10&g=2010-10-10), te koop aan te bieden, te verkopen, af te leveren, ten geschenke te geven, voorhanden of in voorraad te hebben of, tenzij ter naleving van enig wettelijk voorschrift, te vervoeren of te doen vervoeren.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het is aan anderen dan dierenartsen en daartoe door hen aangewezen personen verboden vee, vlees of vleesprodukten van een of meer merken, vastgesteld bij of krachtens dit besluit te voorzien.
 
 2. Het is verboden, voor zover het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) daarin niet voorziet, stempels waarmee merken als in dit besluit bedoeld kunnen worden aangebracht en stempels, waarmee valse merken, gelijkend op merken als in dit besluit bedoeld, kunnen worden aangebracht, wederrechtelijk te vervaardigen, te doen vervaardigen of onder zich te hebben.
 
-#### Artikel 27
+##### Artikel 27
 
 Het is verboden een inrichting te exploiteren, indien gehandeld wordt in strijd met één of meer krachtens [artikel 20, lid 1 of lid 2, sub b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=V&artikel=20&z=2010-10-10&g=2010-10-10), gestelde eisen of krachtens artikel 20, lid 2, sub a, gestelde regelen.
 
-#### Artikel 28
+##### Artikel 28
 
 Het is verboden vlees te vervoeren in strijd met de voorschriften vastgesteld krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VI&artikel=21&z=2010-10-10&g=2010-10-10).
 
 ### Hoofdstuk VIII. De wering en bestrijding van veeziekten
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het is verboden vee in het openbaar lichaam Bonaire in te voeren, tenzij het gedekt is door een verklaring van herkomst.
 
@@ -258,7 +283,7 @@ Het is verboden vlees te vervoeren in strijd met de voorschriften vastgesteld kr
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de documenten die in te voeren dieren, producten of voorwerpen vergezellen en het tonen of overleggen van deze documenten.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het is verboden vee in het openbaar lichaam Bonaire in te voeren alvorens het is gekeurd. Bij ministeriële regeling wordt bepaald, van welk merkteken het voor de invoer goedgekeurde vee voorzien moet zijn.
 
@@ -268,7 +293,7 @@ Het is verboden vlees te vervoeren in strijd met de voorschriften vastgesteld kr
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over de maatregelen, bedoeld in het tweede en derde lid.
 
-#### Artikel 31
+##### Artikel 31
 
 Onverminderd het bepaalde in [hoofdstuk II van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&hoofdstuk=II) en in het [Besluit invoer kleine dieren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028443), en onverminderd het bepaalde in [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VIII&artikel=29&z=2010-10-10&g=2010-10-10) en [30, 1ste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028462&hoofdstuk=VIII&artikel=30&z=2010-10-10&g=2010-10-10) kan bij of krachtens ministeriële regeling tot wering van enige besmettelijke veeziekte de in- en doorvoer in het openbaar lichaam Bonaire worden verboden of niet dan onder bepaalde voorwaarden worden toegelaten van:
 
@@ -278,24 +303,24 @@ Onverminderd het bepaalde in [hoofdstuk II van de Douane- en Accijnswet BES](htt
 
 ### Hoofdstuk IX. Strafbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 [vervallen]
 
-#### Artikel 33
+##### Artikel 33
 
 [vervallen]
 
-#### Artikel 34
+##### Artikel 34
 
 [vervallen]
 
 ### Hoofdstuk X. Slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit berust op de [artikelen 18.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.1), [18.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.2) en [18.2.4 van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.2.4).
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: Besluit slacht- en vleeskeuring BES.

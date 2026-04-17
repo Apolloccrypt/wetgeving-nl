@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling financiële educatie voor onderwijsinstellingen"
+title: "Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 18 augustus 2023, nr.2023-0000495330 houdende regels over het verstrekken van subsidies voor inbedding van financiële educatie op mbo-instellingen ter preventie van geldzorgen (Subsidieregeling financiële educatie voor mbo-instellingen)"
 identifier: "BWBR0048586"
-categorie: "Onderwijs"
-publicatiedatum: 2025-12-23
-laatste_update: 2025-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048586"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-23"
+last_updated: "2025-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048586"
+soort: "ministeriele-regeling"
+stam_id: "16846363"
+version_id: "29598512"
+internal_id: "C42336971"
+label_id: "16758704"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048586/2025-12-23/0"
+intitule_bron: "Stcrt.2023-23825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-18"
+intitule_published: "2023-08-28"
+intitule_in_force: "2023-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23825"
+original_signed_date: "2023-08-18"
+original_published_date: "2023-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-23825"
+entry_into_force_date: "2023-08-29"
+jci_1_3: "jci1.3:c:BWBR0048586&z=2025-12-23&g=2025-12-23"
+jci_1_0: "1.0:c:BWBR0048586&g=2025-12-23"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling financiële educatie voor onderwijsinstellingen"
+signed_date: "2023-08-18"
+entry_into_force: "2023-08-29"
 ---
-
 # Regeling van de Minister voor Armoedebeleid, Participatie en Pensioenen van 18 augustus 2023, nr.2023-0000495330 houdende regels over het verstrekken van subsidies voor inbedding van financiële educatie op mbo-instellingen ter preventie van geldzorgen (Subsidieregeling financiële educatie voor mbo-instellingen)
 
 Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3) en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -52,17 +78,17 @@ In deze regeling wordt verstaan onder:
 
 - **vo-instelling:** uit ’s Rijks kas bekostigde school als bedoeld in [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1) of [artikel 1 van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=1).
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
 
 1. Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603), met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1), van toepassing.
 
 2. De formulieren, modellen en formats waarnaar in deze regeling wordt verwezen, zijn door de minister elektronisch beschikbaar gesteld op [www.uitvoeringvanbeleidszw.nl](http://www.uitvoeringvanbeleidszw.nl).
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 Het doel van deze regeling is het creëren, ontwikkelen en bevorderen van structurele aandacht voor financiële educatie in onderwijsinstellingen.
 
-#### Artikel 4. Subsidieplafond en het subsidiebedrag per aanvraag
+##### Artikel 4. Subsidieplafond en het subsidiebedrag per aanvraag
 
 1. Het subsidieplafond bedraagt € 8.620.000,– voor aanvragen gedaan in het tijdvak, bedoeld in [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=5&z=2025-12-23&g=2025-12-23).
 
@@ -96,7 +122,7 @@ Het doel van deze regeling is het creëren, ontwikkelen en bevorderen van struct
 
 10. Indien in het aanvraagtijdvak, bedoeld in [artikel 5, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=5&z=2025-12-23&g=2025-12-23), het beschikbare bedrag voor een van de onderwijsinstellingen, genoemd in [artikel 4, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=4&z=2025-12-23&g=2025-12-23), niet geheel wordt verleend, kan het resterende bedrag aangewend worden voor de aanvragen van de andere onderwijsinstellingen, genoemd in artikel 4, zevende lid. De verdeling van dit bedrag vindt plaats op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 5. Aanvraagtijdvak
+##### Artikel 5. Aanvraagtijdvak
 
 Subsidieaanvragen met betrekking tot een project in het kader van deze regeling worden ingediend in het aanvraagtijdvak van:
 
@@ -108,7 +134,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze regeling 
 
 - d. 2 februari 2026, 09.00 uur, tot en met 16 maart 2026, 17.00 uur, voor de projectperiode in een mbo-instelling, vo-instelling of po-school, bedoeld in [artikel 6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=6&z=2025-12-23&g=2025-12-23).
 
-#### Artikel 6. Projectperiode
+##### Artikel 6. Projectperiode
 
 1. Activiteiten voor een project in het kader van deze regeling vinden plaats binnen de periode van:
 
@@ -122,7 +148,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze regeling 
 
 2. De voor subsidie in aanmerking komende kosten worden gemaakt in een door de minister aangewezen projectperiode.
 
-#### Artikel 7. Subsidiabele activiteiten
+##### Artikel 7. Subsidiabele activiteiten
 
 1. Voor subsidie komen uitsluitend de volgende activiteiten in aanmerking:
 
@@ -170,7 +196,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze regeling 
 
 4. Door de minister goedgekeurde opleidingen worden opgenomen op [www.geldlessen.nl](http://www.geldlessen.nl).
 
-#### Artikel 8. Subsidiabele kosten
+##### Artikel 8. Subsidiabele kosten
 
 1. Voor subsidie komen uitsluitend de volgende kosten in aanmerking:
 
@@ -188,7 +214,7 @@ Subsidieaanvragen met betrekking tot een project in het kader van deze regeling 
 
 2. De subsidiabele kosten voor de activiteit, bedoeld in [artikel 7, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2025-12-23&g=2025-12-23), bedragen per onderdeel maximaal 25% van de subsidiabele kosten, bedoeld in het eerste lid, onderdeel a tot en met e.
 
-#### Artikel 9. Niet subsidiabele kosten;
+##### Artikel 9. Niet subsidiabele kosten;
 
 Niet voor subsidie komen in aanmerking:
 
@@ -200,11 +226,11 @@ Niet voor subsidie komen in aanmerking:
 
 - d. externe kosten waarvoor geen factuur of betaalbewijs kan worden overlegd.
 
-#### Artikel 10. Bevoorschotting
+##### Artikel 10. Bevoorschotting
 
 De minister verstrekt bij de beschikking van de subsidieverlening een voorschot tot maximaal 80% van het verleende subsidiebedrag.
 
-#### Artikel 11. Subsidieaanvraag
+##### Artikel 11. Subsidieaanvraag
 
 1. De subsidieaanvraag door een mbo-instelling of vo-instelling heeft in ieder geval betrekking op de activiteiten, bedoeld in [artikel 7, eerste lid, onderdeel a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=7&z=2025-12-23&g=2025-12-23).
 
@@ -248,11 +274,11 @@ De minister verstrekt bij de beschikking van de subsidieverlening een voorschot 
 
 11. Een subsidieaanvraag als bedoeld in [artikel 5, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=5&z=2025-12-23&g=2025-12-23), kan mede worden gedaan door een vo-instelling gevestigd op Bonaire, Sint-Eustatius of Saba’.
 
-#### Artikel 12. Rangschikking
+##### Artikel 12. Rangschikking
 
 De subsidieaanvragen worden behandeld op volgorde van ontvangst, waarbij alleen volledige subsidieaanvragen in behandeling worden genomen.
 
-#### Artikel 13. Weigering van de subsidie
+##### Artikel 13. Weigering van de subsidie
 
 Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:25), en [4:35, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan een aanvraag voor subsidie deels of geheel worden afgewezen:
 
@@ -262,7 +288,7 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 - c. indien de mbo-instelling, vo-instelling of po-school ten behoeve waarvan de aanvraag is ingediend reeds eerder een subsidie heeft ontvangen op grond van deze regeling.
 
-#### Artikel 14. Rapportageverplichting
+##### Artikel 14. Rapportageverplichting
 
 1. Indien een project langer dan achttien maanden duurt, wordt binnen acht weken na afloop van deze periode een voortgangsrapportage in het voorgeschreven format ingediend.
 
@@ -276,13 +302,13 @@ Onverminderd de [artikelen 4:25, tweede lid](https://wetten.overheid.nl/jci1.3:c
 
 4. Indien de verleende subsidie, exclusief de accountantskosten bedoeld in [artikel 8, eerste lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0048586&artikel=8&z=2025-12-23&g=2025-12-23), € 125.000,– of meer bedraagt, bevat het verzoek tot vaststelling, in aanvulling op het tweede lid, tevens een controleverklaring omtrent de naleving van de aan de verleende subsidie verbonden verplichtingen door het bevoegd gezag, opgesteld door een accountant overeenkomstig een door de minister beschikbaar gesteld model met inachtneming van een door de minister beschikbaar gesteld accountantsprotocol.
 
-#### Artikel 15. Inwerkingtreding en vervallen van de regeling
+##### Artikel 15. Inwerkingtreding en vervallen van de regeling
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 17 oktober 2028.
 
 2. In afwijking van het eerste lid blijft deze regeling, zoals die luidde op 16 oktober 2028, van toepassing op de afwikkeling van verleende subsidies op grond van deze regeling.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling financiële educatie voor onderwijsinstellingen.
 

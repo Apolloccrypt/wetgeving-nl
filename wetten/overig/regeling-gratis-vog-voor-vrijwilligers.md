@@ -1,18 +1,44 @@
 ---
-title: "Regeling Gratis VOG voor vrijwilligers"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)"
 identifier: "BWBR0041494"
-categorie: "Overig"
-publicatiedatum: 2019-03-14
-laatste_update: 2019-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041494"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-03-14"
+last_updated: "2019-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041494"
+soort: "ministeriele-regeling"
+stam_id: "14845383"
+version_id: "25379622"
+internal_id: "C36242531"
+label_id: "14796994"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041494/2019-03-14/0"
+intitule_bron: "Stcrt.2018-60474"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-01"
+intitule_published: "2018-10-31"
+intitule_in_force: "2018-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-60474"
+original_signed_date: "2018-11-01"
+original_published_date: "2018-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-60474"
+entry_into_force_date: "2018-11-01"
+jci_1_3: "jci1.3:c:BWBR0041494&z=2019-03-14&g=2019-03-14"
+jci_1_0: "1.0:c:BWBR0041494&g=2019-03-14"
+citeertitel_status: "officieel"
+short_title: "Regeling Gratis VOG voor vrijwilligers"
+signed_date: "2018-11-01"
+entry_into_force: "2018-11-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 november 2018, kenmerk 1430593-182478-DMO, houdende voorwaarden waaronder organisaties goedgekeurd en geregistreerd worden in het kader van de toepassing van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden (Regeling Gratis VOG voor vrijwilligers)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -20,7 +46,7 @@ Besluit:
 
 - **vrijwilliger:** de natuurlijke persoon, die niet bij wijze van beroep onverplicht en onbetaald werkt in een georganiseerd verband ten behoeve van anderen of de samenleving.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister merkt een organisatie op aanvraag voor een periode van maximaal vijf jaar aan als Gratis VOG-organisatie, indien is voldaan aan de volgende voorwaarden:
 
@@ -42,7 +68,7 @@ Besluit:
 
 3. Voor organisaties die reeds zijn geregistreerd bij de inwerkingtreding van deze regeling geldt dat deze als Gratis VOG-organisatie worden aangemerkt vanaf de datum van registratie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag om als Gratis VOG-organisatie te worden aangemerkt geschiedt langs elektronische weg. Voor de aanvraag wordt een door de Minister vastgesteld formulier gebruikt.
 
@@ -52,7 +78,7 @@ Besluit:
 
 - b. een schatting van het aantal vrijwilligers dat per jaar in aanmerking zal komen voor een kosteloze verstrekking van de verklaring omtrent het gedrag op basis van [artikel 1, onder a, sub 2, van de Regeling vergoeding verklaring omtrent het gedrag en gedragsverklaring aanbesteden](https://wetten.overheid.nl/jci1.3:c:BWBR0033111&artikel=1).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een als Gratis VOG-organisatie aangemerkte organisatie toont op verzoek van de Minister aan dat zij voldoet aan de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041494&artikel=2&z=2019-03-14&g=2019-03-14).
 
@@ -66,10 +92,10 @@ Besluit:
 
 3. Een verzoek, als bedoeld in het eerste lid, wordt niet vaker dan eens per jaar gedaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 november 2018.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling Gratis VOG voor vrijwilligers.

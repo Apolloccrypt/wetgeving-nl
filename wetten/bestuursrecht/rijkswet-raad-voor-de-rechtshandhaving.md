@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet Raad voor de rechtshandhaving"
+title: "Rijkswet van 7 juli 2010 tot regeling van de instelling, taken en bevoegdheden van de Raad voor de rechtshandhaving van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Raad voor de rechtshandhaving)"
 identifier: "BWBR0028075"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028075"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028075"
+soort: "rijkswet"
+stam_id: "10646813"
+version_id: "17589392"
+internal_id: "C24668251"
+label_id: "10622144"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028075/2010-10-10/0"
+intitule_bron: "Stb.2010-338"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-338"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32020"
+original_url_id: "stb-2010-338"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028075&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028075&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet Raad voor de rechtshandhaving"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010 tot regeling van de instelling, taken en bevoegdheden van de Raad voor de rechtshandhaving van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Raad voor de rechtshandhaving)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +47,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze rijkswet wordt verstaan onder:
 
@@ -54,7 +81,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 2. Instelling en taak
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Raad voor de rechtshandhaving.
 
@@ -62,7 +89,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 3. De Raad bezit rechtspersoonlijkheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad is in de landen belast met algemene inspectie van de volgende organisaties:
 
@@ -88,7 +115,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 6. De Raad voert geen inspectie uit voor zover de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=2), een onderzoek instelt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Ministers kunnen de Raad met betrekking tot de uitvoering van het jaarplan aanwijzingen geven.
 
@@ -100,21 +127,21 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 #### § 1. De Raad en zijn leden
 
-#### Artikel 5
+##### Artikel 5
 
 De Raad bestaat uit drie leden.
 
-#### Artikel 6
+##### Artikel 6
 
 De leden van de Raad worden benoemd, geschorst en ontslagen bij koninklijk besluit. Zij worden benoemd voor maximaal vier jaar en kunnen eenmaal worden herbenoemd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister van één van de landen, doet een voorstel voor benoeming van één van de leden in overeenstemming met Onze Minister van beide andere landen.
 
 2. Alvorens hun ambt te aanvaarden leggen de leden in handen van de president van het Gemeenschappelijk Hof van Justitie de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De leden van de Raad worden benoemd op grond van de deskundigheid die nodig is voor de uitoefening van de taken van de Raad.
 
@@ -126,11 +153,11 @@ De leden van de Raad worden benoemd, geschorst en ontslagen bij koninklijk beslu
 
 5. De Raad maakt de nevenfuncties openbaar door publicatie op de website van de Raad.
 
-#### Artikel 9
+##### Artikel 9
 
 Het voorzitterschap van de Raad rouleert jaarlijks tussen de drie leden.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan een lid van de Raad wordt ontslag verleend:
 
@@ -150,7 +177,7 @@ Aan een lid van de Raad wordt ontslag verleend:
 
 - h. indien hij naar het oordeel van Onze Ministers door handelen of nalaten ernstig nadeel toebrengt aan het in hem te stellen vertrouwen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een lid van de Raad wordt geschorst indien:
 
@@ -164,17 +191,17 @@ Aan een lid van de Raad wordt ontslag verleend:
 
 3. In het geval, bedoeld in het tweede lid, eindigt schorsing na drie maanden. De schorsing kan telkens met ten hoogste drie maanden worden verlengd. De schorsing wordt beëindigd zodra de grond voor schorsing is vervallen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het voorstel voor de besluiten die worden genomen op grond van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=3&paragraaf=1&artikel=10&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=3&paragraaf=1&artikel=11&z=2010-10-10&g=2010-10-10) worden gedaan door Onze Ministers.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij of krachtens algemene maatregel van rijksbestuur wordt de rechtspositie van de leden van de Raad geregeld, voor zover daarin niet bij deze rijkswet is voorzien.
 
 #### § 2. Het secretariaat
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Raad beschikt voor zijn ondersteuning over een secretariaat.
 
@@ -190,13 +217,13 @@ Bij of krachtens algemene maatregel van rijksbestuur wordt de rechtspositie van 
 
 7. Ieder lid van het secretariaat is bevoegd en inzetbaar in alle landen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Op de rechtspositie van de leden van het secretariaat met als standplaats Curaçao of Sint Maarten zijn de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries in Curaçao respectievelijk Sint Maarten van toepassing, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan een minister, deze bevoegdheid wordt uitgeoefend door de Raad, tenzij het de bevoegdheid betreft regels te stellen.
 
 2. Op de rechtspositie van de leden van het secretariaat met als standplaats Bonaire, Sint Eustatius of Saba zijn de regels van toepassing die gelden voor ambtenaren die door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties zijn aangesteld om uitsluitend werkzaam te zijn op Bonaire, Sint Eustatius of Saba, met dien verstande dat waar in deze regels een bevoegdheid is toegekend aan de minister, deze bevoegdheid wordt uitgeoefend door de Raad, tenzij het de bevoegdheid betreft regels te stellen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Raad stelt voor zijn werkzaamheden een protocol voor de werkwijze vast.
 
@@ -206,7 +233,7 @@ Bij of krachtens algemene maatregel van rijksbestuur wordt de rechtspositie van 
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De leden van de Raad hebben zitting zonder last.
 
@@ -226,33 +253,33 @@ Bij of krachtens algemene maatregel van rijksbestuur wordt de rechtspositie van 
 
 - c. als vertegenwoordiger of adviseur werkzaam zijn voor derden in verband met het met de Raad aangaan van overeenkomsten als bedoeld onder b.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Raad kan voor de uitoefening van zijn bevoegdheden gebruik maken van deskundigen, waaronder in ieder geval begrepen toezichthouders werkzaam bij inspectiediensten van de landen.
 
 2. De Raad maakt voor de uitoefening van zijn bevoegdheden met betrekking tot Bonaire, Sint Eustatius en Saba gebruik van terzake deskundige Nederlandse inspectiediensten.
 
-#### Artikel 19
+##### Artikel 19
 
 De Raad kondigt een inspectie van tevoren aan bij de betrokken dienst of instelling, tenzij in het belang van het onderzoek een onaangekondigde inspectie wenselijk is.
 
-#### Artikel 20
+##### Artikel 20
 
 Een ieder die is betrokken bij de uitvoering van deze rijkswet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij de uitvoering van deze rijkswet de noodzaak tot mededeling voortvloeit.
 
 #### § 2. Bevoegdheden van de Raad
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Raad is bevoegd uit eigen beweging in het kader van zijn inspectietaken, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), onderzoek in te stellen.
 
 2. De Raad verricht voorts een onderzoek als bedoeld in het eerste lid op een daartoe strekkend verzoek van Onze Minister.
 
-#### Artikel 22
+##### Artikel 22
 
 De Raad maakt van de uitoefening van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Raad is bevoegd, met medeneming van de benodigde apparatuur, terreinen en gebouwen van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), genoemde organisaties te betreden.
 
@@ -262,15 +289,15 @@ De Raad maakt van de uitoefening van zijn bevoegdheden slechts gebruik voor zove
 
 4. Het legitimatiebewijs bevat een foto van de drager en vermeldt in ieder geval diens naam en hoedanigheid.
 
-#### Artikel 24
+##### Artikel 24
 
 De Raad is bevoegd inlichtingen te vorderen.
 
-#### Artikel 25
+##### Artikel 25
 
 De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen bij of krachtens landsverordening of bij of krachtens wet erkend identiteitsbewijs.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Raad is bevoegd inzage te vorderen van zakelijke gegevens en bescheiden.
 
@@ -278,7 +305,7 @@ De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen
 
 3. Indien het maken van kopieën niet ter plaatse kan geschieden, is de Raad bevoegd de gegevens en bescheiden voor dat doel korte tijd mee te nemen tegen een door hem af te geven schriftelijk bewijs.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Raad is bevoegd vervoermiddelen te onderzoeken met betrekking waartoe hij een inspectietaak heeft.
 
@@ -290,13 +317,13 @@ De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen
 
 5. De Raad stelt in een reglement vast op welke wijze de vordering tot stilhouden wordt gedaan.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een ieder is verplicht aan de Raad binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
 2. Zij die uit hoofde van hun ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het ten aanzien van de Raad gestelde in de [artikelen 22 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=4&paragraaf=2&artikel=22&z=2010-10-10&g=2010-10-10) geldt ook voor daartoe door de Raad aangewezen personen, voor zover de Raad in de aanwijzing vermeldt over welke bevoegdheden deze personen beschikken. Deze bevoegdheden worden vermeld in het legitimatiebewijs, bedoeld in [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=4&paragraaf=2&artikel=23&z=2010-10-10&g=2010-10-10).
 
@@ -306,7 +333,7 @@ De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen
 
 #### § 3. Rapportage door de Raad
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Raad stelt naar aanleiding van het door hem verrichte onderzoek een inspectierapport op.
 
@@ -318,7 +345,7 @@ De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen
 
 5. Onze betrokken Minister zendt het inspectierapport alsmede zijn reactie daarop binnen zes weken aan het vertegenwoordigende orgaan van het betrokken land.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Raad maakt een inspectierapport, bedoeld in [artikel 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=4&paragraaf=3&artikel=30&z=2010-10-10&g=2010-10-10), behoudens het bepaalde in het tweede en derde lid openbaar niet eerder dan zes weken nadat het rapport is toegezonden aan Onze betrokken Minister.
 
@@ -346,11 +373,11 @@ De Raad is bevoegd van personen inzage te vorderen van een in de landen algemeen
 
 - f. het voorkomen van onevenredige bevoordeling of benadeling van natuurlijke personen of rechtspersonen.
 
-#### Artikel 32
+##### Artikel 32
 
 Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbevelingen van de Raad, kan de Raad daarvan mededeling doen aan het vertegenwoordigend orgaan van het betrokken land en de raad van ministers van het Koninkrijk.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De Raad brengt elk jaar voor 1 mei over ieder land een verslag uit over de staat van de rechtshandhaving naar aanleiding van zijn werkzaamheden in het voorafgaande jaar.
 
@@ -358,7 +385,7 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 ### Hoofdstuk 5. De behandeling van klachten
 
-#### Artikel 34
+##### Artikel 34
 
 1. Indien de Raad bij landsverordening of bij wet is belast met advisering over de afhandeling van klachten als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=2&artikel=3&z=2010-10-10&g=2010-10-10), zijn het tweede tot en met zesde lid van dit artikel van toepassing.
 
@@ -374,7 +401,7 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 ### Hoofdstuk 6. De bekostiging en het beheer van de Raad
 
-#### Artikel 35
+##### Artikel 35
 
 1. De kosten van de Raad worden vergoed uit een door de landen beschikbaar te stellen bijdrage.
 
@@ -384,7 +411,7 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 4. Onze Ministers verdelen de kosten voor algemene ondersteuning van de Raad.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Raad zendt jaarlijks voor 1 oktober aan Onze Ministers een jaarplan en een begroting voor het daaropvolgende jaar.
 
@@ -398,7 +425,7 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 6. Onze Ministers zenden het jaarplan naar de vertegenwoordigende organen.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De Raad verstrekt desgevraagd aan Onze Ministers de voor de uitoefening van zijn taak benodigde inlichtingen. De Raad verstrekt deze inlichtingen onverwijld uit eigen beweging aan Onze Ministers indien er aanmerkelijke verschillen ontstaan of dreigen te ontstaan tussen de werkelijke en de begrote baten en lasten dan wel inkomsten en uitgaven.
 
@@ -414,7 +441,7 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 7. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Raad vormt een egalisatiereserve.
 
@@ -424,11 +451,11 @@ Indien Onze betrokken Minister stelselmatig geen gevolg geeft aan de aanbeveling
 
 4. Onze Ministers kunnen regels stellen met betrekking tot de vorming en de omvang van reserves.
 
-#### Artikel 39
+##### Artikel 39
 
 De Raad kan privaatrechtelijke rechtshandelingen verrichten, voor zover die voortvloeien uit het jaarplan en zijn gedekt binnen het budget van de ingevolge [artikel 36, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=6&artikel=36&z=2010-10-10&g=2010-10-10), goedgekeurde begroting van de Raad.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Raad bij unanimiteit aangewezen accountant.
 
@@ -438,27 +465,27 @@ De Raad kan privaatrechtelijke rechtshandelingen verrichten, voor zover die voor
 
 4. De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de Raad voldoen aan eisen van doelmatigheid.
 
-#### Artikel 41
+##### Artikel 41
 
 De bevoegdheden van de Algemene Rekenkamers in de landen strekken zich uit tot de Raad. Over het toezicht op de Raad treden de Algemene Rekenkamers met elkaar in overleg.
 
 ### Hoofdstuk 7. Slot- en overgangsbepalingen
 
-#### Artikel 42
+##### Artikel 42
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze rijkswet aan de vertegenwoordigende organen een evaluatieverslag over de doeltreffendheid en de effecten van deze rijkswet in de praktijk. Voorafgaande aan de evaluatie zullen de landen gezamenlijk de criteria, de thema’s en de samenstelling van de evaluatiecommissie vaststellen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Deze rijkswet kan in onderling overleg worden gewijzigd bij rijkswet op grond van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38).
 
 2. Naar aanleiding van de evaluatie, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028075&hoofdstuk=7&artikel=42&z=2010-10-10&g=2010-10-10), kan deze rijkswet in onderlinge overeenstemming worden beëindigd.
 
-#### Artikel 44
+##### Artikel 44
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze rijkswet wordt aangehaald als: Rijkswet Raad voor de rechtshandhaving.
 

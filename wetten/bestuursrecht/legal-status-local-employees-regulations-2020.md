@@ -1,20 +1,45 @@
 ---
 title: "Legal Status (Local Employees) Regulations 2020"
 identifier: "BWBR0047757"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-07
-laatste_update: 2026-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047757"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-07"
+last_updated: "2026-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047757"
+soort: "beleidsregel"
+stam_id: "16638433"
+version_id: "29184322"
+internal_id: "C41458791"
+label_id: "16558054"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047757/2026-01-07/0"
+intitule_bron: "Stcrt.2023-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-13"
+intitule_published: "2023-01-02"
+intitule_in_force: "2023-01-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32"
+original_signed_date: "2019-11-13"
+original_published_date: "2023-01-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047757&z=2026-01-07&g=2026-01-07"
+jci_1_0: "1.0:c:BWBR0047757&g=2026-01-07"
+citeertitel_status: "officieel"
+signed_date: "2019-11-13"
+entry_into_force: "2023-01-01"
 ---
-
 # Legal Status (Local Employees) Regulations 2020
 
 **Version as amended with effect from 1 January 2023**
 
 ### Chapter 1. General provisions
 
-#### Article 1.1. Definitions
+##### Article 1.1. Definitions
 
 The following definitions are used in these Regulations:
 
@@ -60,25 +85,25 @@ The following definitions are used in these Regulations:
 
 - r. **3W:** the director of 3W WorldWide Working (3W **WereldWijd Werken**) at the Ministry of Foreign Affairs.
 
-#### Article 1.2. Powers
+##### Article 1.2. Powers
 
 1. The ministers grant power of attorney and authorisation to perform juristic acts and to perform acts that constitute neither a decision nor a juristic act under private law to the Secretary-General and Deputy Secretary-General of the Ministry of Foreign Affairs, HDPO and 3W, in relation to all local employees, and to heads of mission, in relation to local employees working at their mission, pursuant to these Regulations, the regulations based on them, such as the mission versions, and any further instructions.
 
 2. The ministers also authorise the officials referred to in paragraph 1 to record in the competence table that is part of the Ministry of Foreign Affairs’ administrative organisation which officials accountable to them are jointly competent to exercise the power of attorney and authorisation.
 
-#### Article 1.3. Applicable law and regulations
+##### Article 1.3. Applicable law and regulations
 
 1. Employment contracts and any disputes arising from them are subject to local employment law and – in so far as the following do not conflict with peremptory provisions of that employment law – to these Regulations and the mission version and other regulations adopted pursuant to these Regulations.
 
 2. Provisions contained in or adopted pursuant to these Regulations which conflict with local usage may be declared wholly or partially inapplicable in the mission version.
 
-#### Article 1.4. Equal treatment
+##### Article 1.4. Equal treatment
 
 1. The employer may not make a distinction between employees on the grounds of religion, beliefs, political convictions, race, sex, nationality, sexual orientation, civil status, a difference in working hours, or any other grounds whatsoever, unless such a distinction is objectively justified.
 
 2. Any claim under this article is subject to a limitation period of six months.
 
-#### Article 1.5. Mission version
+##### Article 1.5. Mission version
 
 1. 3W draws up a mission version for the mission or missions in the district served by an embassy, together with the heads of mission of the embassy and any other missions in the district.
 
@@ -94,7 +119,7 @@ The following definitions are used in these Regulations:
 
 - b. thb adoption, amendment or withdrawal of a mission version in connection with an amendment to these Regulations that entails the adoption, amendment or withdrawal of a number of mission versions.
 
-#### Article 1.6. Disputes committee and courts
+##### Article 1.6. Disputes committee and courts
 
 1. The Ministry of Foreign Affairs has an independent disputes committee (the LSR Disputes Committee) consisting of a chair, several alternate chairs and several ordinary members. The chair and alternate chairs do not operate under the responsibility of the employer and are members of the Dutch judiciary. The task, working methods and composition of the disputes committee are to be further determined by the Secretary-General of the Ministry of Foreign Affairs in the LSR Disputes Committee Regulations.
 
@@ -108,11 +133,11 @@ The following definitions are used in these Regulations:
 
 6. An employee’s or ex-employee’s decision to submit a dispute to the disputes committee does not affect the employee’s or ex-employee’s right to bring the same dispute before a court in the country where the mission at which the employee or ex-employee works or worked is located or before a court in another country.
 
-#### Article 1.7. Limitation period
+##### Article 1.7. Limitation period
 
 Any claim arising from the employment contract between an employee and the employer is subject to a limitation period of five years from the date on which the claim arose, in so far as these Regulations do not provide otherwise.
 
-#### Article 1.8. Notification of regulations and instructions
+##### Article 1.8. Notification of regulations and instructions
 
 1. Regulations governing the legal status of employees and other regulations and instructions which employees must comply with in performing their duties, and amendments to such regulations and instructions, must be communicated to the employee and be deposited for inspection at a place to which the employee has access. The employee may make copies of such regulations free of charge, in so far as this is reasonably necessary.
 
@@ -120,13 +145,13 @@ Any claim arising from the employment contract between an employee and the emplo
 
 3. The employee must be properly informed of any regulations and instructions that are not recorded in writing.
 
-#### Article 1.9. Hardship clause
+##### Article 1.9. Hardship clause
 
 The employer can, either at the suggestion of the head of mission or otherwise, exclude the application of articles of these Regulations or deviate from them for the benefit of an employee in so far as their application would be materially unfair in view of the employee’s interest in having a strong legal status and good employment conditions.
 
 ### Chapter 2. Start of employment
 
-#### Article 2.1. Filling vacancies
+##### Article 2.1. Filling vacancies
 
 1. The head of mission notifies the employees at the mission, the partners of staff members posted to the mission and, if relevant, the employees of other missions within the same district and the partners of staff members posted to these missions, of vacancies at the mission entailing an employment contract for an employee and gives them two weeks to submit an application. This two-week time limit may be reduced if, in the opinion of the head of mission, the vacancy must be filled urgently.
 
@@ -142,13 +167,13 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 5. Notwithstanding paragraphs 1 and 3, in special cases where haste is required and there is not expected to be a suitable candidate among the persons referred to in paragraph 1, the head of mission may simultaneously announce a vacancy internally at the mission or missions referred to in paragraph 1 and advertise it externally. If a person referred to in paragraph 1 and another applicant are equally suitable, the former is to be given priority, without prejudice to the provisions of paragraph 4.
 
-#### Article 2.2. Medical examination
+##### Article 2.2. Medical examination
 
 1. The employer may require a prospective employee to undergo a medical examination if, in the opinion of the employer, the duties of the job to which the employment contract relates necessitate that special requirements be imposed in terms of medical suitability, including protection of the health and safety of the prospective employee and of third parties in relation to the performance of the work concerned.
 
 2. The costs of the medical examination are borne by the employer. The travel and subsistence expenses necessarily incurred by the prospective employee are reimbursed in accordance with chapter 4, part 5.
 
-#### Article 2.3. Psychological examination
+##### Article 2.3. Psychological examination
 
 1. A prospective employee may be required to undergo a psychological examination if the employer considers this desirable in view of the nature of the job to be performed.
 
@@ -156,7 +181,7 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 3. Paragraphs 1 and 2 apply **mutatis mutandis** to an employee who applies for another job at the mission or another mission.
 
-#### Article 2.4. Investigation of a prospective employee’s trustworthiness and suitability
+##### Article 2.4. Investigation of a prospective employee’s trustworthiness and suitability
 
 1. Except in the cases referred to in paragraphs 2 and 4, the employer may require a prospective employee to submit a certificate of conduct as referred to in the Justice System Data Act, or an equivalent certificate issued by the authorities of a country other than the Netherlands.
 
@@ -168,7 +193,7 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 5. The costs of obtaining a certificate as referred to in paragraph 1 are borne by the employer.
 
-#### Article 2.5. Engagement and probationary period
+##### Article 2.5. Engagement and probationary period
 
 1. An employee is engaged for a fixed period or an open-ended period.
 
@@ -184,7 +209,7 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 7. The costs of obtaining a residence or work permit or comparable document are borne by the prospective employee, unless these costs must be wholly or partly borne by the employer in accordance with local regulations or local usage.
 
-#### Article 2.6. The employment contract
+##### Article 2.6. The employment contract
 
 1. The employment contract is entered into in writing in English, French or Spanish; if necessary a translation is added in a language of which the employee has an adequate command. In Belgium and Suriname it is also possible for the employment contract to be entered into in Dutch. The standard contracts provided by 3W must be used.
 
@@ -214,7 +239,7 @@ The employer can, either at the suggestion of the head of mission or otherwise, 
 
 ### Chapter 3. Working hours, holiday and leave
 
-#### Article 3.1. Working hours, working times and breaks
+##### Article 3.1. Working hours, working times and breaks
 
 The following information is included in the mission version, with due observance of local regulations or local usage:
 
@@ -232,7 +257,7 @@ The following information is included in the mission version, with due observanc
 
 - b. provisions concerning the determination of the allowance which employees receive if they perform their duties at times outside the working times arrangement applicable to them.
 
-#### Article 3.2. Changes to weekly working hours
+##### Article 3.2. Changes to weekly working hours
 
 1. An employee who has worked at a mission for at least one year may request a change in the weekly working hours laid down in the employment contract.
 
@@ -242,7 +267,7 @@ The following information is included in the mission version, with due observanc
 
 4. An employee may submit a new request two years after the employer has granted or rejected a request for a change in weekly working hours.
 
-#### Article 3.3. Holiday
+##### Article 3.3. Holiday
 
 1. An employee is entitled to a number of hours’ holiday in accordance with local regulations and local usage. The number of annual holiday hours is stated in the mission version.
 
@@ -262,7 +287,7 @@ The following information is included in the mission version, with due observanc
 
 6. If an employee has unused holiday hours when the employment contract ends, the employee is entitled to receive payment for each hour at the rate of the hourly pay the employee earned immediately preceding the end of employment.
 
-#### Article 3.4. Leave
+##### Article 3.4. Leave
 
 1. An employee is entitled to leave on public holidays and special leave in accordance with local regulations and local usage.
 
@@ -278,7 +303,7 @@ The following information is included in the mission version, with due observanc
 
 ### § 1. Job evaluation, pay scales and salary
 
-#### Article 4.1. Job evaluation, pay scales, pay numbers and salary amounts
+##### Article 4.1. Job evaluation, pay scales, pay numbers and salary amounts
 
 1. The employer assigns one of the pay scales set out in [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07) to each job performed at a mission.
 
@@ -296,13 +321,13 @@ The following information is included in the mission version, with due observanc
 
 8. The salary amounts referred to in this article are included in the mission version.
 
-#### Article 4.2. Adjustments to salary amounts where these amounts are not fixed in the local currency
+##### Article 4.2. Adjustments to salary amounts where these amounts are not fixed in the local currency
 
 1. If salary amounts are fixed in a currency other than the local currency, HDPO may, after consultation with the head of mission, adjust them with effect from the first day of the following month if HDPO believes that devaluations, revaluations or other developments are bringing about an undesirable change in the salary amounts compared with usual local salary levels.
 
 2. If a situation as referred to in paragraph 1 arises, the mission version will be amended as soon as possible with retroactive effect from the day referred to in paragraph 1.
 
-#### Article 4.3. The pay scale, pay number and salary amount applicable to an employee
+##### Article 4.3. The pay scale, pay number and salary amount applicable to an employee
 
 1. The pay scale applicable to an employee is the pay scale attached to the employee’s job in accordance with [annexe 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&bijlage=1&z=2026-01-07&g=2026-01-07).
 
@@ -314,13 +339,13 @@ The following information is included in the mission version, with due observanc
 
 ### § 2. Allowances
 
-#### Article 4.4. Market-related allowance
+##### Article 4.4. Market-related allowance
 
 1. The employer may, after consultation with the head of mission, grant an employee an individual market-related allowance as a supplement to the salary amount, if circumstances in the local labour market are such that this is desirablegiven the specific job requirements.
 
 2. A market-related allowance is granted for a period not exceeding three years. The employer may extend the allowance for a maximum of three years at a time, after consultation with the head of mission, if the employer believes that there are reasons for doing so.
 
-#### Article 4.5. Other allowances that are treated as salary
+##### Article 4.5. Other allowances that are treated as salary
 
 1. An employee is granted allowances supplementing the salary amount if this is in keeping with local regulations or local usage.
 
@@ -328,7 +353,7 @@ The following information is included in the mission version, with due observanc
 
 ### § 3. Additional remuneration
 
-#### Article 4.6. Special remuneration
+##### Article 4.6. Special remuneration
 
 1. The employer may award an employee additional remuneration for exceptional dedication or excellent job performance. This may take the form of:
 
@@ -342,7 +367,7 @@ The following information is included in the mission version, with due observanc
 
 2. If it is in keeping with local regulations or local usage to do so, an employee will be awarded a long-service bonus. Provision for this long-service bonus is included in the mission version, stating the amount and duration thereof and the conditions under which it is awarded.
 
-#### Article 4.7. Emergency service allowance
+##### Article 4.7. Emergency service allowance
 
 1. An employee designated as an in-house emergency officer as referred to in [article 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.8&z=2026-01-07&g=2026-01-07) is entitled to an emergency service allowance immediately after the end of each calendar year if the employee has performed the emergency service duties to an adequate extent. This allowance is a percentage of the monthly salary for the highest pay number of pay scale 5 at the time of payment at the mission in question, namely:
 
@@ -364,7 +389,7 @@ The following information is included in the mission version, with due observanc
 
 - c. 19% after fifteen years and every five years thereafter.
 
-#### Article 4.7a. Stand-by allowance
+##### Article 4.7a. Stand-by allowance
 
 1. Employees who, in the interests of the service and in accordance with the employer’s written instructions, are regularly or fairly regularly required to be on stand-by outside the working times fixed for them in order to perform work immediately upon being called up are granted an allowance for each hour that they are on stand-by.
 
@@ -380,13 +405,13 @@ The following information is included in the mission version, with due observanc
 
 ### § 4. Fixing of gross salary and payment of gross or net salary
 
-#### Article 4.8. Fixing of gross salary
+##### Article 4.8. Fixing of gross salary
 
 1. An employee’s salary is fixed as a gross amount.
 
 2. The contributions to be remitted by the employer that are payable by the employee pursuant to [article 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.3&z=2026-01-07&g=2026-01-07), or the amounts to be withheld pursuant to [article 5.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.5&z=2026-01-07&g=2026-01-07) or [article 5.6, paragraphs 1 and 2 (a)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.6&z=2026-01-07&g=2026-01-07) are in any event deducted from the gross salary.
 
-#### Article 4.9. Payment of gross or net salary; local tax liability
+##### Article 4.9. Payment of gross or net salary; local tax liability
 
 1. If salary is not taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. The net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07):
 
@@ -406,7 +431,7 @@ The following information is included in the mission version, with due observanc
 
 6. The head of mission or 3W may provide the competent local authorities with a statement of the salary earned by the employee, as well as of the tax remitted locally on the salary by the employer and other information relevant to the levying of tax.
 
-#### Article 4.10. Payment of net salary; Dutch tax liability
+##### Article 4.10. Payment of net salary; Dutch tax liability
 
 1. If salary is taxable under the [Salaries Tax Act 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471), it is paid net. This net salary is calculated by deducting from the salary amount referred to in [article 4.8, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07):
 
@@ -422,7 +447,7 @@ The following information is included in the mission version, with due observanc
 
 5. If the employer has remitted too much salaries tax to the Dutch tax authorities, the employee is required to cooperate in claiming a refund of the excess tax from the Dutch tax authorities. If the employee fails to cooperate, an amount equal to the excess tax will be withheld from the employee’s salary.
 
-#### Article 4.11. Payment of gross or net salary; double tax liability
+##### Article 4.11. Payment of gross or net salary; double tax liability
 
 1. If salary is taxable both locally and in the Netherlands, [article 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.9&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis.**
 
@@ -432,7 +457,7 @@ The following information is included in the mission version, with due observanc
 
 ### § 5. Official travel and travel for the purposes of training
 
-#### Article 4.12. Official travel and travel for the purposes of training; general provisions
+##### Article 4.12. Official travel and travel for the purposes of training; general provisions
 
 1. Instructions to undertake an official trip or a trip for the purposes of training are issued by the employer.
 
@@ -444,7 +469,7 @@ The following information is included in the mission version, with due observanc
 
 5. An employee who fails to submit an expense claim within three months of the trip during which the expenses were incurred forfeits the right to reimbursement.
 
-#### Article 4.13. Extension of official travel or travel for the purposes of training
+##### Article 4.13. Extension of official travel or travel for the purposes of training
 
 1. An employee undertaking an official trip or a trip for the purposes of training may, if necessary in the employer’s opinion, arrive at the destination up to 24 hours before the work or training begins in order to acclimatise.
 
@@ -464,13 +489,13 @@ The following information is included in the mission version, with due observanc
 
 5. Official trips or trips for the purposes of training may not be extended for private purposes if the employee has been given permission to arrive at the destination earlier in accordance with paragraph 1.
 
-#### Article 4.14. Compensation for delays and loyalty programmes
+##### Article 4.14. Compensation for delays and loyalty programmes
 
 1. Entitlements to compensation from a travel company on account of delays during official travel or travel for the purposes of training accrue to the employer. The employee must afford the employer the cooperation that can reasonably be expected of the employee in enforcing such claims.
 
 2. Benefits gained from loyalty programmes arising directly from official travel or travel for the purposes of training accrue to the employer, unless the employee, in accordance with the employer's instructions, uses them for subsequent official travel.
 
-#### Article 4.15. Tickets and bookings
+##### Article 4.15. Tickets and bookings
 
 1. Tickets and bookings for overnight accommodation for official travel or travel for the purposes of training must be requested by the employee or, with the prior written permission of the employer, respectively bought or made by the employee as soon as possible, but in any case no later than 21 calendar days before departure. If this is not possible, the employee must explain why in writing to the employer.
 
@@ -478,7 +503,7 @@ The following information is included in the mission version, with due observanc
 
 3. The employer can indicate to the employee which facility or facilities should be used for overnight stays.
 
-#### Article 4.16. Travel costs
+##### Article 4.16. Travel costs
 
 1. The employer decides what modes of transport are to be used on official trips and trips for the purposes of training. The costs of travel by public transport, by boat or by air are reimbursed on submission of supporting documents.
 
@@ -496,7 +521,7 @@ The following information is included in the mission version, with due observanc
 
 4. Travel costs incurred for a visit home are reimbursed on submission of supporting documents, provided that and in so far as the journey is undertaken by public transport, by air or by boat in the lowest fare class, as agreed with the employer.
 
-#### Article 4.17. Public transport, air, official vehicle or employee’s own vehicle
+##### Article 4.17. Public transport, air, official vehicle or employee’s own vehicle
 
 1. Official trips and trips for the purposes of training are to be undertaken by public transport if:
 
@@ -536,11 +561,11 @@ The journey time is calculated from the employee's place of work to the destinat
 
 10. The employer may allow an employee flying in economy class or equivalent to claim the cost of using a business lounge at an airport if there are special reasons for doing so and if the employee submits a reasoned request.
 
-#### Article 4.18. Hired vehicle or taxi
+##### Article 4.18. Hired vehicle or taxi
 
 If, in the opinion of the employer, it is in the interests of the service for an employee to use a hired vehicle or a taxi during an official trip, the associated costs will be reimbursed in full.
 
-#### Article 4.19. Subsistence costs
+##### Article 4.19. Subsistence costs
 
 1. Subsistence costs are costs necessarily incurred by an employee for meals, accommodation and minor expenses during an official trip or a trip for the purposes of training.
 
@@ -584,13 +609,13 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 9. If an employee can provide supporting documents demonstrating that due to special circumstances reimbursement under the rules referred to in paragraph 2 is insufficient to cover subsistence costs incurred during an official trip, the employer may allow the employee to claim some or all of the additional costs.
 
-#### Article 4.20. Benefits in kind provided by the employer
+##### Article 4.20. Benefits in kind provided by the employer
 
 1. If during a trip an employee incurs costs for employer-provided overnight accommodation, these costs will be reimbursed. If the employer-provided accommodation is not used, there will be no entitlement to reimbursement of costs incurred for accommodation elsewhere.
 
 2. Reimbursement cannot be claimed for the cost of meals if, during a trip, the employer has provided an opportunity to take meals either free of charge or for payment, unless the employee was unable to make use of this opportunity and can demonstrate this.
 
-#### Article 4.21. Reimbursement of other costs relating to official travel or travel for the purposes of training
+##### Article 4.21. Reimbursement of other costs relating to official travel or travel for the purposes of training
 
 1. An employee who undertakes an official trip or a trip for the purposes of training lasting at least seven days, including days spent in transit, is eligible for reimbursement of the costs necessarily incurred to launder clothes the employee expects to wear again during the trip.
 
@@ -600,13 +625,13 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 4. The costs incurred for work-related national and international telephone calls in connection with a trip will be reimbursed on submission of supporting documents.
 
-#### Article 4.22. Clothing costs
+##### Article 4.22. Clothing costs
 
 1. If climatic conditions or other special circumstances in a country that will be visited in the course of an official trip or a trip for the purposes of training differ significantly from those in the country where the employee works, the employer may grant an allowance to the employee towards the demonstrably and, in the opinion of the employer, necessarily incurred costs of special clothing and equipment.
 
 2. The allowance is equal to half of the costs necessarily incurred. The maximum allowance for each calendar year is € 453.78, consisting of € 226.89 for locations with a tropical climate and € 226.89 for locations with a polar climate.
 
-#### Article 4.23. Costs related to sickness, accident or the loss, theft of or damage to luggage
+##### Article 4.23. Costs related to sickness, accident or the loss, theft of or damage to luggage
 
 1. If an employee demonstrably incurs necessary costs during an official trip or a trip for the purposes of training as a result of sickness or an accident, the employer can set an amount for the reimbursement of these costs.
 
@@ -614,7 +639,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 ### § 6. Reimbursement of other costs
 
-#### Article 4.24. Reimbursement of hospitality and other costs
+##### Article 4.24. Reimbursement of hospitality and other costs
 
 1. If an employee carries out hospitality activities at the request of the employer and incurs costs in doing so, these costs will be fully or partially reimbursed in accordance with the applicable rules at the mission on the reimbursement of hospitality costs. These costs will be charged to the designated budget for hospitality activities at the mission in question.
 
@@ -622,7 +647,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 3. Provision for reimbursements or contributions as referred to in paragraph 2 is included in the mission version, along with details on the amount and duration thereof and the conditions under which they are granted.
 
-#### Article 4.24a. Homeworking allowance
+##### Article 4.24a. Homeworking allowance
 
 1. An employee who works from home with their manager's permission is entitled to a homeworking allowance if the employee:
 
@@ -636,7 +661,7 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 3. If an employee does not claim the homeworking allowance within six months after the month in which they worked from home, entitlement to the homeworking allowance will lapse.
 
-#### Article 4.25. Indemnification
+##### Article 4.25. Indemnification
 
 1. The employer may provide fair indemnification to an employee, except in the cases referred to in paragraph 2.
 
@@ -654,15 +679,15 @@ If, in the opinion of the employer, it is in the interests of the service for an
 
 ### § 7. Setoffs and payments
 
-#### Article 4.26. Setoffs
+##### Article 4.26. Setoffs
 
 Amounts owed by the employee to the employer may be set off against amounts owed by the employer to the employee.
 
-#### Article 4.27. No payment if duties not performed
+##### Article 4.27. No payment if duties not performed
 
 No salary or other payments are owed in respect of a period during which the employee has not performed the stipulated work in so far as these Regulations or the mission version do not provide otherwise.
 
-#### Article 4.28. Currency; fixing and payment
+##### Article 4.28. Currency; fixing and payment
 
 1. An employee’s financial entitlements under these Regulations are fixed and paid in the usual local currency unless these Regulations determine otherwise.
 
@@ -678,19 +703,19 @@ No salary or other payments are owed in respect of a period during which the emp
 
 ### § 1. Social provisions
 
-#### Article 5.1. General
+##### Article 5.1. General
 
 The obligatory and standard social provisions that are applicable are laid down in the mission version.
 
 ### § 2. Employees to whom the local social security system is applicable
 
-#### Article 5.2. Registration with the local social security authorities
+##### Article 5.2. Registration with the local social security authorities
 
 1. If the participation of the employee in the local social security system is compulsory or if participation is possible and HDPO considers it advisable, 3W must arrange for the registration of the employee with the local authorities.
 
 2. The employee will arrange for registration as referred to in paragraph 1 instead of the employer if this is in keeping with local regulations or local usage.
 
-#### Article 5.3. Payment of contributions to the local social security authorities
+##### Article 5.3. Payment of contributions to the local social security authorities
 
 1. The contributions owed under the local social security system are paid by the employee or the employer in accordance with local regulations or local usage.
 
@@ -698,11 +723,11 @@ The obligatory and standard social provisions that are applicable are laid down 
 
 ### § 3. Employees to whom the Dutch social security system is applicable
 
-#### Article 5.4. Registration with the Dutch social security authorities
+##### Article 5.4. Registration with the Dutch social security authorities
 
 If the Dutch social security system is applicable to an employee, 3W arranges for the registration of the employee with the relevant authorities in the Netherlands.
 
-#### Article 5.5. Payment of contributions to the Dutch social security authorities
+##### Article 5.5. Payment of contributions to the Dutch social security authorities
 
 1. The employer’s and employee’s contributions and national insurance contributions that are payable are remitted by 3W to the relevant authorities in the Netherlands.
 
@@ -712,7 +737,7 @@ If the Dutch social security system is applicable to an employee, 3W arranges fo
 
 ### § 4. Employees to whom neither the Dutch nor the local social security system is applicable
 
-#### Article 5.6. General
+##### Article 5.6. General
 
 1. If the employee is unable to participate in either the local or the Dutch social security system, the amount that the employee would have to pay in social insurance contributions if the local social security system applied is withheld from the employee’s salary.
 
@@ -726,7 +751,7 @@ The mission version also stipulates to what extent the employee and any survivin
 
 ### § 5. Occupational health support
 
-#### Article 5.7. General provisions and computer glasses
+##### Article 5.7. General provisions and computer glasses
 
 1. The head of mission is responsible for the occupational health support provided to employees. The head of mission is assisted by the occupational health service in providing such support.
 
@@ -736,7 +761,7 @@ The mission version also stipulates to what extent the employee and any survivin
 
 4. The head of mission may pay a contribution towards the cost of buying computer glasses if an eye examination shows that the employee needs computer glasses to perform their duties.
 
-#### Article 5.8. Medical examination
+##### Article 5.8. Medical examination
 
 1. An employee may consult the occupational health service directly about work-related health problems. An employee may also request the employer to arrange for an examination by or on behalf of the occupational health service. The cost of the consultation and examination are borne by the employer.
 
@@ -754,7 +779,7 @@ The employee is required to cooperate with such a medical examination.
 
 ### § 6. Medical expenses
 
-#### Article 5.9. Contribution towards medical expenses
+##### Article 5.9. Contribution towards medical expenses
 
 1. If HDPO is of the opinion that the applicable social security system provides insufficient cover, or none at all, for necessary medical expenses in the country in which the mission is located, and:
 
@@ -780,7 +805,7 @@ The amount of the contribution towards medical expenses and any further conditio
 
 9. The head of mission may permit the employee, following the end of the employment contract, to continue participating at the employee’s own expense in the health insurance policy taken out by the employer, provided that the insurer allows this. The previous sentence applies **mutatis mutandis** to the members of the employee’s family. The head of mission may set conditions for such participation.
 
-#### Article 5.10. Reimbursement of medical expenses in the event of a work-related accident or occupational sickness
+##### Article 5.10. Reimbursement of medical expenses in the event of a work-related accident or occupational sickness
 
 1. If the sickness that has caused an employee to be unfit to work has arisen from a work-related accident or an occupational sickness, the employer will reimburse all medical expenses that the employee continues to bear that the employer considers to have been necessarily incurred in the country in which the mission is located.
 
@@ -794,7 +819,7 @@ The amount of the contribution towards medical expenses and any further conditio
 
 ### § 7. Sick pay
 
-#### Article 5.11. Continuation of salary payment in the event of sickness
+##### Article 5.11. Continuation of salary payment in the event of sickness
 
 1. Employees who are not fit to perform their duties due to sickness receive their full salary or a percentage of their salary, in accordance with local regulations or local usage, for a given period, with effect from the first day on which they are unfit to perform their duties.
 
@@ -808,7 +833,7 @@ The amount of the contribution towards medical expenses and any further conditio
 
 6. The provisions to which an employee is entitled due to sickness pursuant to the applicable social security system are deducted from the entitlement referred to in paragraph 1.
 
-#### Article 5.12. Article 5.12 Limitation of pay entitlement
+##### Article 5.12. Article 5.12 Limitation of pay entitlement
 
 No entitlement to salary as referred to in [article 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=5&artikel=5.11&z=2026-01-07&g=2026-01-07) exists:
 
@@ -834,7 +859,7 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 ### § 8. Pregnancy and birth
 
-#### Article 5.13. Provisions in the case of pregnancy and birth
+##### Article 5.13. Provisions in the case of pregnancy and birth
 
 1. Female employees are entitled to paid pregnancy and maternity leave in connection with giving birth.
 
@@ -850,7 +875,7 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 5. The duration of pregnancy and maternity leave, which is at least 16 weeks in total, and the periods in which such leave may be taken are determined with reference to local regulations and local usage and are included in the mission version.
 
-#### Article 5.14. Employee who is breastfeeding
+##### Article 5.14. Employee who is breastfeeding
 
 1. An employee who is breastfeeding and has notified the employer of this will, until her child is nine months old, be given the opportunity to interrupt her work to breastfeed her child or to express breast milk for a maximum of one hour per day. The maximum duration of the interruptions for an employee with a part-time employment contract is a proportionate part of the maximum applicable to an employee with a full-time employment contract.
 
@@ -858,7 +883,7 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 3. The interruptions referred to in paragraph 1 are treated as work time for which the employee retains her entitlement to salary.
 
-#### Article 5.15. Prohibition of termination of an employment contract during pregnancy
+##### Article 5.15. Prohibition of termination of an employment contract during pregnancy
 
 1. The employer may not terminate an employment contract of an employee during pregnancy, during pregnancy and maternity leave or during a period of six weeks after the employee has returned to work following such leave, unless such termination is unrelated to her pregnancy, to the birth of her child, to the consequences thereof or to her breastfeeding the child. The employer bears the burden of proving that the termination of an employment contract is not related to the employee’s pregnancy, to the birth of her child, to the consequences thereof or to her breastfeeding the child.
 
@@ -874,7 +899,7 @@ No entitlement to salary as referred to in [article 5.11](https://wetten.overhei
 
 ### § 1. Obligations and prohibitions
 
-#### Article 6.1. Good conduct as an employee and oath or affirmation
+##### Article 6.1. Good conduct as an employee and oath or affirmation
 
 1. Employees are obliged to perform the duties arising from their employment contract conscientiously and diligently and to conduct themselves in a manner befitting a good employee. Employees must at all times be conscious of the fact that they work at a representation of the Kingdom of the Netherlands abroad.
 
@@ -896,13 +921,13 @@ This I affirm and promise.
 
 4. An employee swears the oath or makes the affirmation only if this is necessary, in the opinion of the employer, in view of the job to be performed.
 
-#### Article 6.2. Reporting obligation
+##### Article 6.2. Reporting obligation
 
 1. Employees who are unable to perform their duties on account of sickness or for other reasons must report this at the earliest possible opportunity and in the manner stated in the mission version.
 
 2. If circumstances or changes occur which affect or may affect the rights and duties established by these Regulations or by the mission version, the employee must notify the employer accordingly in writing without delay, no later than seven days after the date on which the circumstance or change occurs.
 
-#### Article 6.3. Outside work and acting as a contractor
+##### Article 6.3. Outside work and acting as a contractor
 
 1. An employee who performs or intends to perform any outside work that could touch on interests of the service in so far as those interests relate to the employee’s performance of duties is obliged to notify the employer in a manner to be determined by the latter.
 
@@ -912,11 +937,11 @@ This I affirm and promise.
 
 4. An employee is forbidden to take part, directly or indirectly, in tendering and contracting for public services, unless the consent of the employer has been obtained. The employer may issue instructions regarding tendering and contracts for other persons.
 
-#### Article 6.4. Rewards, donations and promises of third parties
+##### Article 6.4. Rewards, donations and promises of third parties
 
 Employees acting in an official capacity are forbidden to demand, request or accept rewards, donations or promises from third parties, other than with the approval of the employer.
 
-#### Article 6.5. Official workclothes and wearing of insignia
+##### Article 6.5. Official workclothes and wearing of insignia
 
 1. An employee is required to wear official workclothes and insignia if this is prescribed by the employer and to do so in the prescribed manner.
 
@@ -928,15 +953,15 @@ Employees acting in an official capacity are forbidden to demand, request or acc
 
 5. An employee, when wearing official workclothes, is forbidden to wear badges or other insignia unless they have been provided or prescribed by the government of the Netherlands or unless the employer has given permission for them to be worn.
 
-#### Article 6.6. Place of residence
+##### Article 6.6. Place of residence
 
 An employee is obliged to reside in or near to – and if necessary to move to – the place where the mission is located if this is deemed necessary by the employer to ensure the employee’s proper performance of duties.
 
-#### Article 6.7. Instructions to perform other duties
+##### Article 6.7. Instructions to perform other duties
 
 The employer may require an employee temporarily to perform duties other than those the employee usually performs, provided that the employee can reasonably be instructed to perform such work.
 
-#### Article 6.8. In-house emergency service
+##### Article 6.8. In-house emergency service
 
 1. The head of mission draws on the assistance of one or more employees appointed by the head of mission as in-house emergency officers, for the purpose of taking effective measures to enable employees to move quickly to a place of safety or take other appropriate measures and for the purpose of minimising damage to health whenever a situation arises in which there is a direct threat to safety or health.
 
@@ -952,11 +977,11 @@ The employer may require an employee temporarily to perform duties other than th
 
 ### § 2. Staff residences
 
-#### Article 6.9. Staff residences; general provisions
+##### Article 6.9. Staff residences; general provisions
 
 The conditions that apply when a staff residence is made available to an employee, including the division of the maintenance costs and the manner in which availability of the residence is terminated, are specified in the mission version.
 
-#### Article 6.10. Use of staff residences by surviving family members
+##### Article 6.10. Use of staff residences by surviving family members
 
 1. After the death of the employee, the surviving family members may continue, during the month in which the employee died and for the following three months, to occupy the staff residence in which they lived with the employee. This period may be shortened if the employer considers it necessary in the interests of the service. In such a case the said family members will be given fair compensation.
 
@@ -964,7 +989,7 @@ The conditions that apply when a staff residence is made available to an employe
 
 ### § 3. Training
 
-#### Article 6.11. Mandatory training
+##### Article 6.11. Mandatory training
 
 1. Employees may be instructed to undergo training in the interests of the service, in so far as this can reasonably be required of them.
 
@@ -982,7 +1007,7 @@ The conditions that apply when a staff residence is made available to an employe
 
 - c. after the termination of employment, the employee is entitled to benefit as referred to in [chapter 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&z=2026-01-07&g=2026-01-07).
 
-#### Article 6.12. Training on the employee’s initiative
+##### Article 6.12. Training on the employee’s initiative
 
 1. Employees who take the initiative to undergo training may at their request be fully or partially reimbursed for the necessary costs of training or granted paid training leave, if training is the interests of the service.
 
@@ -990,25 +1015,25 @@ The conditions that apply when a staff residence is made available to an employe
 
 ### § 4. Introductory interviews, staff interviews and assessments
 
-#### Article 6.13. Introductory interviews
+##### Article 6.13. Introductory interviews
 
 1. Within a month after the employee enters into employment or is assigned to a new job, or within a month after a new manager starts work, an introductory interview takes place between the employee and the manager.
 
 2. In the introductory interview, clear agreements are made about the duties that the employee is expected to perform and the way in which the employee and the manager will work together.
 
-#### Article 6.14. Staff interviews
+##### Article 6.14. Staff interviews
 
 1. At least once a year, a staff interview takes place between the employee and the manager.
 
 2. At a minimum, the following matters are discussed during the staff interview: the tasks performed and to be performed, knowledge, skills and competences to be developed, integrity, a safe and supportive working environment, diversity and inclusion, the employee’s potential and career, mobility and other working conditions.
 
-#### Article 6.15. Assessments
+##### Article 6.15. Assessments
 
 If the employer considers it desirable or the employee so requests, the employee’s performance is assessed in conformity with the guidelines established by the employer.
 
 ### § 5. Reorganisation
 
-#### Article 6.16. Developing a plan of action
+##### Article 6.16. Developing a plan of action
 
 1. If an alteration that would affect the legal status of five or more employees is to be made to the organisation of a mission, or if the mission is to be closed, the employer will draw up a plan of action covering the various stages of the reorganisation process.
 
@@ -1030,11 +1055,11 @@ If the employer considers it desirable or the employee so requests, the employee
 
 - h. the planned times at which the employee participation body at the mission and the employees involved will receive updates.
 
-#### Article 6.17. Adopting the plan of action
+##### Article 6.17. Adopting the plan of action
 
 The employer adopts the plan of action after the head of mission has consulted with the employee participation body at the mission.
 
-#### Article 6.18. General provisions
+##### Article 6.18. General provisions
 
 1. In this part, a job loser means:
 
@@ -1056,7 +1081,7 @@ A job loser who is informed by the employer that, on reflection, the employment 
 
 3. If, on the basis of local regulations or otherwise, any entitlement already exists on other grounds to a contribution, allowance or payment for the costs referred to in this part, only the amount by which the contribution, allowance or payment on the basis of this part exceeds the aforesaid entitlement is awarded.
 
-#### Article 6.19. Support finding a job or setting up a business
+##### Article 6.19. Support finding a job or setting up a business
 
 1. Wherever possible, the employer provides a job loser with support in finding a new job.
 
@@ -1064,7 +1089,7 @@ A job loser who is informed by the employer that, on reflection, the employment 
 
 3. A job loser is granted up to five working days’ special paid leave for job interviews and activities relating to setting up a business.
 
-#### Article 6.20. Article 6.20 Priority in the event of job vacancies
+##### Article 6.20. Article 6.20 Priority in the event of job vacancies
 
 1. Notwithstanding [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-07), the head of mission must first notify any vacancies entailing an employment contract solely to any job losers employed at the mission or at other missions in the same country.
 
@@ -1078,7 +1103,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 3. If more than one job loser expresses interest in a timely manner in a vacancy as referred to in paragraph 1 and satisfies the job requirements or will be able to do so within three months, the most suitable candidate will be selected. The employer may deviate from this rule in special cases.
 
-#### Article 6.21. Termination
+##### Article 6.21. Termination
 
 1. The employment contract of a job loser who is not employed in a different job is terminated with effect from the date on which the job ceases to exist, unless the employment contract is for a fixed term and automatically ends on that date. In special cases the employer may set a later date.
 
@@ -1086,7 +1111,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 3. The termination of the employment contract can be postponed for, in principle, up to six months, if a job loser is given the opportunity to perform similar work at another mission or another unit of the employer in the Netherlands to which the tasks in question have been transferred, at the job loser’s own request and with the consent of the job loser’s head of mission and the head of mission of the other mission concerned or the director concerned. Such a request will be granted only if the local authorities in the country in question permit the job loser to live there and perform the work in question. The performance of the duties in question is deemed official travel within the meaning of [articles 4.12 to 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.12&z=2026-01-07&g=2026-01-07).
 
-#### Article 6.22. Redundancy payment in the event of reorganisation
+##### Article 6.22. Redundancy payment in the event of reorganisation
 
 1. Notwithstanding [article 8.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.3&z=2026-01-07&g=2026-01-07), second sentence, if the employer terminates a job loser’s employment contract as a result of the job loser’s job ceasing to exist, the transition redundancy payment is a month’s salary for each year the employment contract or successive employment contracts have been in effect.
 
@@ -1094,7 +1119,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 3. If a job loser does not accept an offer of continued employment for a reduced number of hours or on a lower scale and the employment contract is subsequently terminated in full, the job loser will be compensated in accordance with paragraph 1.
 
-#### Article 6.23. Contribution towards outplacement costs
+##### Article 6.23. Contribution towards outplacement costs
 
 1. At the job loser’s request, the employer may grant a contribution towards the cost of an outplacement programme for help in finding a new job with a different employer.
 
@@ -1102,7 +1127,7 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 3. A job loser is eligible for this contribution if the outplacement programme begins no sooner than 12 months before the date with effect from which the employer has terminated the employment contract or expects to do so and no later than six months after the date on which the employment contract ends.
 
-#### Article 6.24. Contribution towards training costs
+##### Article 6.24. Contribution towards training costs
 
 1. Notwithstanding [article 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.12&z=2026-01-07&g=2026-01-07), at the request of a job loser who undergoes training that increases the job loser’s chances of finding a new job with a different employer or of setting up a business, the employer may grant a contribution towards the training costs.
 
@@ -1112,29 +1137,29 @@ This two-week period may be reduced to one week in special cases where haste is 
 
 4. Job losers who, due to their own fault or actions, achieve an unsatisfactory result or do not complete the training course are required to repay the contribution. Job losers who terminate their employment contract or do not complete the training course due to finding another job at the mission or elsewhere, as a result of which there is no longer any need to complete the training course, are not required to repay the contribution.
 
-#### Article 6.25. Training leave
+##### Article 6.25. Training leave
 
 1. At the request of a job loser who begins training as referred to in [article 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-07) before the date on which the employment contract ends, the employer may grant paid training leave, until that date, of up to 20% of the job loser’s normal working hours. In special cases the employer may grant more leave.
 
 2. If the employer considers that it is not in the interests of the service to grant leave as referred to in paragraph 1, the job loser is granted one hour’s gross pay for every hour of leave not granted for that reason, subject to a maximum of twice the full-time equivalent of the job loser’s gross monthly salary.
 
-#### Article 6.26. Contribution towards the costs of setting up a business
+##### Article 6.26. Contribution towards the costs of setting up a business
 
 1. At the request of a job loser who sets up a business, the employer may grant a contribution towards the costs of doing so. Requests must include a concise business plan and an estimate of the startup costs.
 
 2. To be eligible for this contribution the job loser must begin setting up a business no sooner than 12 months before the date with effect from which the employer has terminated the employment contract or expects to do so and no later than six months after the date on which the employment contract ends.
 
-#### Article 6.27. Contribution amounts
+##### Article 6.27. Contribution amounts
 
 The total sum of the contributions referred to in [articles 6.23](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.23&z=2026-01-07&g=2026-01-07), [6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.24&z=2026-01-07&g=2026-01-07) and [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.26&z=2026-01-07&g=2026-01-07) must not exceed four times the full-time equivalent of the job loser’s gross monthly salary.
 
-#### Article 6.28. Contribution towards removal and refurbishment costs
+##### Article 6.28. Contribution towards removal and refurbishment costs
 
 1. A job loser who, on account of accepting a new job or setting up a business, relocates within the country where the mission is based or to another country to avoid an increase of more than an hour in the daily commuting time is on request granted a contribution towards removal and refurbishment costs amounting to twice the full-time equivalent of the job loser’s gross monthly salary.
 
 2. A job loser is eligible for this contribution if the job loser relocates no sooner than 12 months before the date with effect from which the employer has terminated the employment contract or expects to do so and no later than six months after the date on which the employment contract ends.
 
-#### Article 6.29. Allowances in the event of employment in another unit of the employer
+##### Article 6.29. Allowances in the event of employment in another unit of the employer
 
 1. A job loser whose employment contract has been or is expected to be terminated by the employer due to the job ceasing to exist and who relocates to another city in order to start a job at another unit of the employer is entitled to the allowances referred to in paragraphs 2 to 6. This eligibility lapses if the job loser has not moved to the vicinity of the other unit within six months after starting the new job.
 
@@ -1164,17 +1189,17 @@ The total sum of the contributions referred to in [articles 6.23](https://wetten
 
 8. [Article 6.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.28&z=2026-01-07&g=2026-01-07) does not apply for the purposes of this article.
 
-#### Article 6.30. Internal candidate status
+##### Article 6.30. Internal candidate status
 
 An ex-employee whose employment contract has been terminated by the employer due to the job ceasing to exist is given the opportunity for up to one year after the date on which the employment contract ends to apply as an internal candidate for vacancies entailing an employment contract at the mission where the ex-employee worked or at another mission in the same country, in accordance with [article 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=2&artikel=2.1&z=2026-01-07&g=2026-01-07).
 
 ### Chapter 7. Prohibition of entry, suspension, compensation, dereliction of duty and disciplinary penalties
 
-#### Article 7.1. Prohibition of entry
+##### Article 7.1. Prohibition of entry
 
 An employee may be prohibited by the head of mission from entering official rooms or buildings or from working or residing there.
 
-#### Article 7.2. Suspension
+##### Article 7.2. Suspension
 
 1. Employees who have been deprived of their liberty pursuant to a statutory measure are automatically suspended, unless such deprivation of liberty is the result of a measure taken in the interests of public health.
 
@@ -1182,17 +1207,17 @@ An employee may be prohibited by the head of mission from entering official room
 
 3. The employer determines whether an employee is to be suspended on full salary or whether all or part of the salary is to be withheld.
 
-#### Article 7.3. Compensation
+##### Article 7.3. Compensation
 
 An employee may be required to pay full or partial compensation for damage suffered by the employer in so far as the employee is seriously at fault.
 
-#### Article 7.4. Dereliction of duty
+##### Article 7.4. Dereliction of duty
 
 1. Employees who fail to fulfil the obligations imposed on them or are guilty of some other dereliction of duty may be penalised by the employer.
 
 2. Dereliction of duty includes both breaking a rule and doing something which a good employee in the same circumstances should refrain from doing or omitting to do something which a good employee in the same circumstances should do.
 
-#### Article 7.5. Disciplinary penalties
+##### Article 7.5. Disciplinary penalties
 
 The following disciplinary penalties may be imposed for dereliction of duty:
 
@@ -1214,7 +1239,7 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 ### § 1. End of an employment contract and redundancy payment
 
-#### Article 8.1. Employment contract for a fixed period; automatic termination; premature termination
+##### Article 8.1. Employment contract for a fixed period; automatic termination; premature termination
 
 1. If the employment contract is entered into for a fixed term, it will end automatically when this period expires. Prior notice of termination is not necessary in this case.
 
@@ -1222,7 +1247,7 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 3. Notwithstanding the provisions of paragraph 1, a fixed-term contract may also be ended prematurely in accordance with [article 8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.2&z=2026-01-07&g=2026-01-07).
 
-#### Article 8.2. Termination of an open-ended employment contract
+##### Article 8.2. Termination of an open-ended employment contract
 
 1. An employment contract entered into for an open-ended period may be terminated by notice.
 
@@ -1240,7 +1265,7 @@ The following disciplinary penalties may be imposed for dereliction of duty:
 
 6. In these Regulations the termination of an employment contract by a court or other body at the request of the employer or the employee is equated with the termination of an employment contract by the employer or the employee.
 
-#### Article 8.3. Redundancy payments
+##### Article 8.3. Redundancy payments
 
 1. An employee whose employment contract ends is entitled to a one-off redundancy payment as compensation for the disadvantageous consequences of termination of employment, the transition redundancy payment, unless:
 
@@ -1274,7 +1299,7 @@ The transition redundancy payment amounts to half a month’s salary for each ye
 
 ### § 2. End of an employment contract due to sickness, retirement, death or a compelling reason
 
-#### Article 8.4. Termination of an employment contract due to sickness
+##### Article 8.4. Termination of an employment contract due to sickness
 
 1. The employer may not, during a period specified in the mission version, terminate an employment contract with an employee who is partly or wholly unfit to perform their duties due to sickness, unless the termination is unrelated to the sickness and its consequences. The period referred to in the previous sentence is determined in accordance with local regulations or local usage. The employer bears the burden of proving that termination of an employment contract is unrelated to the employee’s sickness and its consequences.
 
@@ -1292,11 +1317,11 @@ The transition redundancy payment amounts to half a month’s salary for each ye
 
 6. Any claim in connection with annulment as referred to in paragraph 4 (a) is subject to a limitation period of six months following the date on which termination took effect.
 
-#### Article 8.5. End of an employment contract upon reaching the age of retirement
+##### Article 8.5. End of an employment contract upon reaching the age of retirement
 
 The employment contract ends on the first day following the day on which the employee reaches the age of retirement specified in the mission version. The age of retirement is set in accordance with local usage, but subject to a minimum age of 60 years and a maximum age of 67 years.
 
-#### Article 8.6. End of an employment contract due to death
+##### Article 8.6. End of an employment contract due to death
 
 1. The death of the employee ends the employment contract. From the day after the death of the employee, no further salary is paid.
 
@@ -1304,13 +1329,13 @@ The employment contract ends on the first day following the day on which the emp
 
 3. If the deceased has no surviving partner or dependent children, the lump sum referred to in paragraph 2 may be used in whole or part to cover the costs of the employee’s final illness and funeral expenses, if the estate of the deceased is insufficient for these purposes.
 
-#### Article 8.7. End of an employment contract when an employee is missing
+##### Article 8.7. End of an employment contract when an employee is missing
 
 1. If an employee is missing and, considering all the circumstances, it can be regarded as certain that the employee is dead, the employee will be deemed to have died on a date to be determined by the employer. In such a case [article 8.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) applies **mutatis mutandis**.
 
 2. [Article 8.6, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.6&z=2026-01-07&g=2026-01-07) does not apply if there is good reason to believe that the employee is absent without leave.
 
-#### Article 8.8. Termination of an employment contract for a compelling reason
+##### Article 8.8. Termination of an employment contract for a compelling reason
 
 1. Either the employer or the employee may terminate the employment contract with immediate effect for a compelling reason, while at the same time notifying the other party of the reason.
 
@@ -1324,7 +1349,7 @@ The employment contract ends on the first day following the day on which the emp
 
 ### § 3. Manifestly unreasonable termination
 
-#### Article 8.9. Manifestly unreasonable termination
+##### Article 8.9. Manifestly unreasonable termination
 
 1. If the employer’s termination of the employment contract is manifestly unreasonable, regardless of whether the applicable provisions have been complied with, the employer is obliged to pay the employee fair compensation.
 
@@ -1344,7 +1369,7 @@ The employment contract ends on the first day following the day on which the emp
 
 ### § 4. Special obligations of the employer upon termination of an employment contract
 
-#### Article 8.10. Employer’s declaration
+##### Article 8.10. Employer’s declaration
 
 1. An employee who so requests must be given an employer’s declaration on termination of the employment contract. The employer’s declaration states the nature of the work performed and the duration of the employment contract.
 
@@ -1354,7 +1379,7 @@ The employment contract ends on the first day following the day on which the emp
 
 ### § 1. General provisions
 
-#### Article 9.1. Definitions
+##### Article 9.1. Definitions
 
 1. The following definitions apply for the purposes of this chapter:
 
@@ -1380,7 +1405,7 @@ The employment contract ends on the first day following the day on which the emp
 
 Where necessary, this calculation must take into account the average life expectancy in the relevant country or region according to the table in the most recent available version of the United Nations’ Demographic Yearbook. The calculation must also take account of the statutory interest rate for non-commercial transactions published by De Nederlandsche Bank N.V.
 
-#### Article 9.2. Obligations of the employee, ex-employee or surviving dependant
+##### Article 9.2. Obligations of the employee, ex-employee or surviving dependant
 
 1. The employee, ex-employee or surviving dependant is obliged to provide the employer in good time with all the information that is necessary for the proper implementation of the provisions of this chapter. An employee, ex-employee or surviving dependant who does not do so forfeits all rights under this chapter and is liable for any damage sustained by the employer.
 
@@ -1396,7 +1421,7 @@ Where necessary, this calculation must take into account the average life expect
 
 ### § 2. Old age pensions, surviving dependants’ benefits and invalidity benefits
 
-#### Article 9.3. Old age pensions, surviving dependants’ benefits and invalidity benefits; general provisions
+##### Article 9.3. Old age pensions, surviving dependants’ benefits and invalidity benefits; general provisions
 
 1. Where local regulations or local usage so require, the employer must locally take out insurance or make comparable provision to ensure the accrual of an old age pension and provide cover in the event of death. In that case the employer must deduct part or all of the premium from the employee’s salary in accordance with local regulations or local usage. The nature of the insurance or provision and the percentage of the premium withheld from the employee’s salary are specified in the mission version.
 
@@ -1404,7 +1429,7 @@ Where necessary, this calculation must take into account the average life expect
 
 ### § 3. Supplementation of old age pensions
 
-#### Article 9.4. Supplementation of old age pensions; general provisions
+##### Article 9.4. Supplementation of old age pensions; general provisions
 
 1. If during the period of the employment contract no insurance is in effect and no comparable provision is made to ensure the accrual of an old age pension, as referred to in [article 9.3, paragraph 1 (i)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07), the ex-employee will be entitled to supplementation of old age pension if the employment contract was in effect for at least seven years. The term ‘employment contract’ is deemed to include the following for the purposes of this article:
 
@@ -1430,7 +1455,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ### § 4. Supplementation of surviving dependants’ benefits
 
-#### Article 9.5. Supplementation of surviving dependants’ benefits; general provisions
+##### Article 9.5. Supplementation of surviving dependants’ benefits; general provisions
 
 1. On the death of an employee or of an ex-employee who was receiving a supplement to invalidity benefits as referred to in [article 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.8&z=2026-01-07&g=2026-01-07) or a supplement to old age pension as referred to in [article 9.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), if no insurance providing cover in the event of death as referred to in [article 9.3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) has been taken out, any surviving partner or any child who was the employee’s or ex-employee’s dependant at the time of the employee’s or ex-employee’s death will be entitled to a supplement to surviving dependants’ benefits. This entitlement lapses if the partner or dependent child is culpable for the death of the employee or ex-employee.
 
@@ -1440,7 +1465,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 4. If the employee or ex-employee’s marriage, registered partnership or cohabitation agreement, as referred to in paragraph 3, ends other than as a result of the death of the employee or ex-employee, the partner will cease to have any entitlement under this part.
 
-#### Article 9.6. Supplementation of surviving partners’ benefits
+##### Article 9.6. Supplementation of surviving partners’ benefits
 
 1. The supplement to surviving dependants’ benefits for the partner referred to in [article 9.5, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-07) equals 70% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07), on the understanding that in such a case the calculation is based on the qualifying period for supplementation which would have applied for the employee or ex-employee on the pension date if the employment contract had continued until that date.
 
@@ -1460,7 +1485,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 - c. on the first day of the month following the month in which the surviving dependant enters into a new marriage, registered partnership or cohabitation agreement with a partner as referred to in [article 1.1 (g)](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=1&artikel=1.1&z=2026-01-07&g=2026-01-07).
 
-#### Article 9.7. Supplementation of orphan’s benefits
+##### Article 9.7. Supplementation of orphan’s benefits
 
 1. Without prejudice to [article 9.5, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.5&z=2026-01-07&g=2026-01-07), the supplementation ceiling that applies to the supplement to surviving dependants’ benefits for dependent children, as referred to in article 9.5, paragraph 1, equals 14% of the supplementation ceiling referred to in [article 9.4, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.4&z=2026-01-07&g=2026-01-07). If there is no partner on the date of the employee’s or ex-employee’s death, the percentage referred to in the previous sentence is 28%.
 
@@ -1478,7 +1503,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ### § 5. Supplementation of invalidity benefits
 
-#### Article 9.8. Supplementation of invalidity benefits; general provisions
+##### Article 9.8. Supplementation of invalidity benefits; general provisions
 
 1. If an employee’s employment contract is terminated due to sickness and the employee is not covered at that time by invalidity insurance as referred to in [article 9.3, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=9&artikel=9.3&z=2026-01-07&g=2026-01-07) and, subsequent to the termination of employment, is unfit to perform any other suitable employment, the employee is entitled to supplementation of invalidity benefits.
 
@@ -1514,7 +1539,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 - b. the salary associated with that employment is equal to or greater than the supplement referred to in paragraph 1.
 
-#### Article 9.9. Supplementation of invalidity benefits; medical examination
+##### Article 9.9. Supplementation of invalidity benefits; medical examination
 
 1. An ex-employee who receives a supplement to invalidity benefits is medically examined by the occupational health service once every two years to determine whether that ex-employee is still unfit to work. The employer may decide to have the ex-employee medically examined, as referred to in the previous sentence, more or less often than once every two years.
 
@@ -1526,7 +1551,7 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ### § 6. Payment of supplements
 
-#### Article 9.10. Fixing and payment of supplements
+##### Article 9.10. Fixing and payment of supplements
 
 1. [Articles 4.8 to 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.8&z=2026-01-07&g=2026-01-07) and [4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=4&artikel=4.28&z=2026-01-07&g=2026-01-07) apply **mutatis mutandis** to fixing and paying supplements. 3W may, in individual cases, deviate from article 4.28, paragraph 5.
 
@@ -1558,15 +1583,15 @@ The provisions referred to in the first sentence are deemed to include a transit
 
 ### Chapter 10. Transitional and final provisions
 
-#### Article 10.1. Transitional provision concerning social plans
+##### Article 10.1. Transitional provision concerning social plans
 
 Any social plan that applies to an employee or ex-employee on the date of entry into force of these Regulations will continue to apply to that employee or ex-employee and [articles 6.16 to 6.30](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=6&artikel=6.16&z=2026-01-07&g=2026-01-07) of these Regulations will not apply.
 
-#### Article 10.2. Entry into force
+##### Article 10.2. Entry into force
 
 These Regulations enter into force on 1 January 2020.
 
-#### Article 10.2a. Transitional provisions concerning one-off redundancy payments
+##### Article 10.2a. Transitional provisions concerning one-off redundancy payments
 
 1. [Article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) concerning one-off redundancy payments is repealed in the various mission versions.
 
@@ -1590,7 +1615,7 @@ Until [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&
 
 4. Notwithstanding paragraph 1, in the Mission version for Libya 2020 [article 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047757&hoofdstuk=8&artikel=8.1&z=2026-01-07&g=2026-01-07) is not repealed but article 8.1a concerning one-off redundancy payments.
 
-#### Article 10.3. Short title
+##### Article 10.3. Short title
 
 These Regulations are to be cited as: Legal Status (Local Employees) Regulations 2020.
 

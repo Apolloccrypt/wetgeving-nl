@@ -1,14 +1,37 @@
 ---
-title: "Wijzigingswet Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep"
+title: "Wet van 28 april 1994, houdende wijziging van bepalingen van de Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep en het bieden van langdurige zekerheid aan omroepinstellingen"
 identifier: "BWBR0006643"
-categorie: "Overig"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006643"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006643"
+soort: "wet"
+stam_id: "511243"
+version_id: "750362"
+internal_id: "C750361"
+label_id: "496684"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006643/1995-01-01/0"
+intitule_bron: "Stb.1994-385"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-28"
+intitule_status: "goed"
+original_publication: "Stb.1994-385"
+original_signed_date: "1994-04-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "23257"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0006643&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0006643&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep"
+signed_date: "1994-04-28"
+entry_into_force: "1995-01-01"
 ---
-
-# Wijzigingswet Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep
+# Wet van 28 april 1994, houdende wijziging van bepalingen van de Mediawet in verband met het versterken van de organisatie van de landelijke publieke omroep en het bieden van langdurige zekerheid aan omroepinstellingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +39,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Mediawet](https:
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 1. Op de dag voor die waarop [artikel I, onderdelen E tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0006643&artikel=I&z=1995-01-01&g=1995-01-01), van deze wet in werking treedt, doet Onze Minister van Welzijn, Volksgezondheid en Cultuur een notariële akte verlijden, waarbij met ingang van de daarop volgende dag:
 
@@ -40,23 +63,23 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Ter zake van de overgang, bedoeld in het derde lid, is geen overdrachtsbelasting of omzetbelasting verschuldigd.
 
-#### Artikel IV
+##### Artikel IV
 
 De Nederlandse Omroep Stichting en de Nederlandse Programma Stichting staan als hoofdelijk schuldenaar over en weer garant voor de nakoming van de financiële verplichtingen die de Nederlandse Omroepprogramma Stichting voor de inwerkingtreding van [artikel I, onderdelen E tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0006643&artikel=I&z=1995-01-01&g=1995-01-01), van deze wet is aangegaan.
 
-#### Artikel V
+##### Artikel V
 
 Een instelling die op het tijdstip van inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0006643&artikel=I&z=1995-01-01&g=1995-01-01) KK, van deze wet een vergoeding voor kosten van investeringen voor nieuwbouw ontvangt van het Commissariaat voor de Media ingevolge [artikel 103 van de Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149&artikel=103), zoals dat artikel luidde voor de inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0006643&artikel=I&z=1995-01-01&g=1995-01-01) KK, van deze wet, behoudt tot uiterlijk drie jaren na de inwerkingtreding van [artikel I, onderdeel](https://wetten.overheid.nl/jci1.3:c:BWBR0006643&artikel=I&z=1995-01-01&g=1995-01-01) KK, van deze wet recht op die vergoeding.
 
-#### Artikel VI
+##### Artikel VI
 
 Bij algemene maatregel van bestuur kunnen tot twee jaar na de inwerkingtreding van deze bepaling, in gevallen waarin deze wet niet voorziet, regels worden gesteld met betrekking tot de invoering van artikelen van deze wet of onderdelen daarvan.
 
-#### Artikel VII
+##### Artikel VII
 
 De tekst van de [Mediawet](https://wetten.overheid.nl/jci1.3:c:BWBR0004149) wordt in het **Staatsblad** geplaatst.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

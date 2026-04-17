@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet verdrag chemische wapens"
+title: "Wet van 8 juni 1995, houdende regels betreffende de uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens"
 identifier: "BWBR0007434"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007434"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007434"
+soort: "wet"
+stam_id: "1780103"
+version_id: "2645422"
+internal_id: "C2645421"
+label_id: "1735944"
+dtd_version: "2.0"
+original_entry_into_force: "1997-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007434/2024-01-01/0"
+intitule_bron: "Stb.1995-338"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-06-08"
+intitule_published: "1995-07-04"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stb.1995-338"
+original_signed_date: "1995-06-08"
+original_published_date: "1995-07-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "23911"
+original_url_id: "stb-1995-338"
+entry_into_force_date: "1997-04-30"
+jci_1_3: "jci1.3:c:BWBR0007434&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0007434&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet verdrag chemische wapens"
+signed_date: "1995-06-08"
+entry_into_force: "1997-04-30"
 ---
-
-# Uitvoeringswet verdrag chemische wapens
+# Wet van 8 juni 1995, houdende regels betreffende de uitvoering van het Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,7 +99,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Verboden
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden chemische wapens te ontwikkelen, te produceren, anderszins te verwerven, op te slaan, voorhanden te hebben, over te dragen of te gebruiken.
 
@@ -80,7 +107,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het eerste lid is niet van toepassing ingeval de [Wet Oorlogsstrafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002099) van toepassing is.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden bij of krachtens algemene maatregel van bestuur aangewezen stoffen te ontwikkelen, te produceren, anderszins te verwerven, op te slaan, voorhanden te hebben, over te dragen of te gebruiken. Tot de aan te wijzen stoffen behoren de stoffen, bedoeld in artikel VI, paragraaf 3, van het verdrag.
 
@@ -96,7 +123,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Kennisgevingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die een inrichting als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), in bedrijf houdt, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (D), paragrafen 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
 
@@ -106,7 +133,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Degene die een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), heeft verkregen, verstrekt aan Onze Minister de gegevens, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VI (B), paragrafen 5 en 6, van het verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die een inrichting in bedrijf houdt waar bij of krachtens algemene maatregel van bestuur aangewezen stoffen worden geproduceerd, verwerkt of verbruikt in hoeveelheden, aangegeven bij die algemene maatregel van bestuur, verstrekt aan Onze Minister de gegevens, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen stoffen behoren de stoffen, bedoeld in artikel VI, paragrafen 4 en 5, van het verdrag. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, afdeling VII (A), paragrafen 6 tot en met 8, onderscheidenlijk afdeling VIII (A), paragrafen 6 tot en met 8, van het verdrag.
 
@@ -114,43 +141,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Degene die de in het eerste lid bedoelde stoffen in- of uitvoert, doet aan Onze Minister mededeling van de in- en uitgevoerde hoeveelheden, gespecificeerd naar land van herkomst of bestemming.
 
-#### Artikel 6
+##### Artikel 6
 
 Degene die een inrichting als bedoeld in artikel VI, paragraaf 6, van het verdrag in bedrijf houdt waar bij of krachtens in algemene maatregel van bestuur aangewezen stoffen worden geproduceerd in hoeveelheden, aangegeven bij die maatregel, verstrekt aan Onze Minister de gegevens die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen stoffen behoren de stoffen, bedoeld in artikel VI, paragraaf 6, van het verdrag, en de gegevens, bedoeld in de Verificatiebijlage, afdeling IX, paragrafen 4 tot en met 6 van het verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) een kennisgeving heeft gedaan, bewaart de in die artikelen bedoelde gegevens ten minste tot vijf jaar na de indiening van de kennisgeving.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01).
 
 ### Hoofdstuk 3. Toezicht
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de **Staatscourant**.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 [Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) is jegens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01) aangewezen ambtenaren, alsmede jegens de ambtenaren die zijn belast met de opsporing van overtredingen van het bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01) bepaalde, niet van toepassing op de ambtenaren, bedoeld in artikel 32 van de Arbeidsomstandighedenwet en [artikel 18.6 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6).
 
 ### Hoofdstuk 4. Internationale routine- en uitdagingsinspecties
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister wijst het hoofd van het begeleidingsteam aan.
 
 2. Het hoofd van het begeleidingsteam is bij een internationale routine- of uitdagingsinspectie bevoegd van een ieder alle medewerking te vorderen die nodig is voor de uitvoering van de taken die bij het verdrag zijn opgedragen aan het internationale inspectieteam en het begeleidingsteam.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het internationale inspectieteam is bevoegd om, vergezeld door het begeleidingsteam en met medeneming van de benodigde apparatuur, bij het verrichten van een internationale routine-inspectie fabriekscomplexen, fabrieken en eenheden te betreden voor zover het dat voor de uitvoering van die inspectie nodig acht. Het hoofd van het begeleidingsteam kan daartoe zo nodig de hulp van de sterke arm inroepen.
 
@@ -164,21 +191,21 @@ Vervallen
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 De Nederlandse strafwet is van toepassing op de Nederlander die zich buiten Nederland schuldig maakt aan handelen in strijd met het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=2&z=2024-01-01&g=2024-01-01) en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007434&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet op de economische delicten.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Uitvoeringswet verdrag chemische wapens.
 

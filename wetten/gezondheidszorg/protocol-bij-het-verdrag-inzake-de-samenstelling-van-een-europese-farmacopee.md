@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij het Verdrag inzake de samenstelling van een Europese farmacopee"
 identifier: "BWBV0004550"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1992-11-01
-laatste_update: 1992-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004550"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-11-01"
+last_updated: "1992-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004550"
+soort: "verdrag"
+stam_id: "10004187843"
+version_id: "10004363372"
+internal_id: "C10006999551"
+label_id: "10004172894"
+dtd_version: "2.0"
+original_entry_into_force: "1992-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004550/1992-11-01/0"
+intitule_bron: "Trb.1990-7"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1990-01-17"
+intitule_in_force: "1992-11-05"
+intitule_status: "goed"
+original_publication: "Trb.1990-7"
+original_published_date: "1990-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-7"
+entry_into_force_date: "1992-11-01"
+jci_1_3: "jci1.3:c:BWBV0004550&z=1992-11-01&g=1992-11-01"
+jci_1_0: "1.0:c:BWBV0004550&g=1992-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1992-11-01"
 ---
-
 # Protocol bij het Verdrag inzake de samenstelling van een Europese farmacopee
 
 Preambule
@@ -24,31 +46,31 @@ Overwegende dat hiertoe enkele bepalingen van het [Verdrag](https://wetten.overh
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straatsburg, 22 juli 1964.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit Protocol staat open ter ondertekening door de Lidstaten van de Raad van Europa die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) hebben ondertekend of daartoe zijn toegetreden en die hun instemming kunnen betuigen erdoor te worden gebonden, door:
 
@@ -62,11 +84,11 @@ Wijzigt het Verdrag inzake de samenstelling van een Europese farmacopee; Straats
 
 4. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Protocol treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop alle Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004454) hun instemming tot uitdrukking hebben gebracht door het Protocol te worden gebonden overeenkomstig de bepalingen van artikel 7.
 
-#### Artikel 9
+##### Artikel 9
 
 De Secretaris-Generaal van de Raad van Europa doet de Lidstaten van de Raad, de andere Verdragsluitende Staten en de Europese Economische Gemeenschap mededeling van:
 

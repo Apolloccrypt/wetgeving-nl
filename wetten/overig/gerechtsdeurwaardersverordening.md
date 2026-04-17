@@ -1,13 +1,39 @@
 ---
-title: "Gerechtsdeurwaardersverordening"
+title: "Besluit van de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders van 8 juli 2022 houdende de vaststelling van de Gerechtsdeurwaardersverordening (Gerechtsdeurwaardersverordening)"
 identifier: "BWBR0047777"
-categorie: "Overig"
-publicatiedatum: 2023-02-01
-laatste_update: 2023-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047777"
+country: "nl"
+rank: "pbo"
+publication_date: "2023-02-01"
+last_updated: "2023-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047777"
+soort: "pbo"
+stam_id: "16646193"
+version_id: "29198392"
+internal_id: "C41486321"
+label_id: "16565124"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047777/2023-02-01/0"
+intitule_bron: "Stcrt.2023-858"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-08"
+intitule_published: "2023-01-20"
+intitule_in_force: "2023-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-858"
+original_signed_date: "2022-07-08"
+original_published_date: "2023-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-858"
+entry_into_force_date: "2023-02-01"
+jci_1_3: "jci1.3:c:BWBR0047777&z=2023-02-01&g=2023-02-01"
+jci_1_0: "1.0:c:BWBR0047777&g=2023-02-01"
+citeertitel_status: "officieel"
+short_title: "Gerechtsdeurwaardersverordening"
+signed_date: "2022-07-08"
+entry_into_force: "2023-02-01"
 ---
-
 # Besluit van de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders van 8 juli 2022 houdende de vaststelling van de Gerechtsdeurwaardersverordening (Gerechtsdeurwaardersverordening)
 
 Gelet op de [artikelen 17, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=17), [25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25), [57, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=57), [57a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=57a), [73](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=73) en [78, tweede lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=78);
@@ -22,7 +48,7 @@ Besluit de volgende verordening vast te stellen:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. (begripsbepalingen)
+##### Artikel 1.1. (begripsbepalingen)
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197).
 
-#### Artikel 1.2. (betamelijkheid)
+##### Artikel 1.2. (betamelijkheid)
 
 De gerechtsdeurwaarder gedraagt zich zoals een goed gerechtsdeurwaarder betaamt.
 
@@ -50,13 +76,13 @@ De gerechtsdeurwaarder gedraagt zich zoals een goed gerechtsdeurwaarder betaamt.
 
 #### Paragraaf 2.1. Beroepsstage
 
-#### Artikel 2.1. (inrichting beroepsstage)
+##### Artikel 2.1. (inrichting beroepsstage)
 
 1. De beroepsstage is gericht op het voorbereiden van de kandidaat-gerechtsdeurwaarder op zelfstandige beroepsuitoefening.
 
 2. De beroepsstage bestaat uit door de kandidaat-gerechtsdeurwaarder te volgen onderwijs en werkzaamheden onder begeleiding van de gerechtsdeurwaarder aan wie de kandidaat-gerechtsdeurwaarder voor de beroepsstage is toegevoegd.
 
-#### Artikel 2.2. (onderwijsprogramma)
+##### Artikel 2.2. (onderwijsprogramma)
 
 1. Het bestuur stelt een onderwijsprogramma voor de beroepsstage vast met het oog op de voor zelfstandige beroepsuitoefening vereiste kennis en vaardigheden.
 
@@ -64,11 +90,11 @@ De gerechtsdeurwaarder gedraagt zich zoals een goed gerechtsdeurwaarder betaamt.
 
 3. Het bestuur kan de kandidaat-gerechtsdeurwaarder van deelname uitsluiten zolang de verschuldigde vergoeding niet is voldaan.
 
-#### Artikel 2.3. (begeleiding werkzaamheden)
+##### Artikel 2.3. (begeleiding werkzaamheden)
 
 De gerechtsdeurwaarder aan wie de kandidaat-gerechtsdeurwaarder voor de beroepsstage is toegevoegd geeft voorlichting en raad bij het verrichten van de werkzaamheden.
 
-#### Artikel 2.4. (stageverklaring)
+##### Artikel 2.4. (stageverklaring)
 
 1. Het bestuur verstrekt de kandidaat-gerechtsdeurwaarder op aanvraag een stageverklaring als deze voldoende blijk heeft gegeven van de kennis, de kunde en de ervaring in het verrichten van werkzaamheden in de praktijk om het ambt zelfstandig uit te oefenen.
 
@@ -80,13 +106,13 @@ De gerechtsdeurwaarder aan wie de kandidaat-gerechtsdeurwaarder voor de beroepss
 
 #### Paragraaf 2.2. Permanente educatie
 
-#### Artikel 2.5. (doelstelling)
+##### Artikel 2.5. (doelstelling)
 
 1. De gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder en kandidaat-gerechtsdeurwaarder volgen onderwijs of verrichten andere activiteiten met het oog op het onderhouden van de voor een goede beroepsuitoefening vereiste kennis en vaardigheden.
 
 2. Deze paragraaf is niet van toepassing op de kandidaat-gerechtsdeurwaarder, die is toegevoegd op grond van de stage in het kader van de opleiding bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=25).
 
-#### Artikel 2.6. (opleidingspunten)
+##### Artikel 2.6. (opleidingspunten)
 
 1. De gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder heeft voldaan aan [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2023-02-01&g=2023-02-01) door ten minste een door het bestuur vastgesteld aantal opleidingspunten te behalen in ieder tijdvak van twee kalenderjaren, dat begint in een oneven jaar.
 
@@ -96,7 +122,7 @@ De gerechtsdeurwaarder aan wie de kandidaat-gerechtsdeurwaarder voor de beroepss
 
 4. Het bestuur stelt nadere regels over het aantal punten dat gehaald moet worden op een specifiek gebied.
 
-#### Artikel 2.7. (toekennen opleidingspunten)
+##### Artikel 2.7. (toekennen opleidingspunten)
 
 1. Op aanvraag van een opleidingsinstelling, gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder kent het bestuur opleidingspunten toe aan onderwijs en activiteiten, als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2023-02-01&g=2023-02-01).
 
@@ -104,11 +130,11 @@ De gerechtsdeurwaarder aan wie de kandidaat-gerechtsdeurwaarder voor de beroepss
 
 3. Het bestuur stelt nadere regels over het aantal opleidingspunten dat aan onderwijs of activiteiten wordt toegekend.
 
-#### Artikel 2.8. (verplichte onderwijsvormen)
+##### Artikel 2.8. (verplichte onderwijsvormen)
 
 Het bestuur kan regels stellen over vormen van onderwijs als bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.5&z=2023-02-01&g=2023-02-01), waaraan de deelname verplicht is.
 
-#### Artikel 2.9. (registratie opleidingspunten)
+##### Artikel 2.9. (registratie opleidingspunten)
 
 1. Het bestuur registreert de door de gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder behaalde opleidingspunten en het gevolgde onderwijs, bedoeld in [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.8&z=2023-02-01&g=2023-02-01).
 
@@ -116,7 +142,7 @@ Het bestuur kan regels stellen over vormen van onderwijs als bedoeld in [artikel
 
 3. Het bestuur verstrekt een overzicht van de behaalde opleidingspunten over het lopende of daaraan voorafgaande tijdvak, uiterlijk vier weken na een verzoek daartoe of na afloop van het tijdvak, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2023-02-01&g=2023-02-01).
 
-#### Artikel 2.10. (ontheffing)
+##### Artikel 2.10. (ontheffing)
 
 1. Van een verplichting als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=2&paragraaf=2.2&artikel=2.6&z=2023-02-01&g=2023-02-01), kan door het bestuur ontheffing worden verleend. Aan een ontheffing kunnen voorschriften worden verbonden of beperkingen worden gesteld.
 
@@ -124,15 +150,15 @@ Het bestuur kan regels stellen over vormen van onderwijs als bedoeld in [artikel
 
 ### Hoofdstuk 3. Ambtsuitoefening
 
-#### Artikel 3.1. (reikwijdte)
+##### Artikel 3.1. (reikwijdte)
 
 De [artikelen 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.2&z=2023-02-01&g=2023-02-01), [3.3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.3&z=2023-02-01&g=2023-02-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.4&z=2023-02-01&g=2023-02-01), [3.5, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.5&z=2023-02-01&g=2023-02-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.6&z=2023-02-01&g=2023-02-01) en [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.7&z=2023-02-01&g=2023-02-01) zijn van overeenkomstige toepassing op toegevoegd gerechtsdeurwaarders en kandidaat-gerechtsdeurwaarders.
 
-#### Artikel 3.2. (onafhankelijk en onpartijdig)
+##### Artikel 3.2. (onafhankelijk en onpartijdig)
 
 De gerechtsdeurwaarder is onafhankelijk en onpartijdig in de uitoefening van het ambt.
 
-#### Artikel 3.3. (voortvarend)
+##### Artikel 3.3. (voortvarend)
 
 1. De gerechtsdeurwaarder vervult zijn ambtsverplichtingen op voortvarende wijze.
 
@@ -142,11 +168,11 @@ De gerechtsdeurwaarder is onafhankelijk en onpartijdig in de uitoefening van het
 
 4. Alle transacties die de justitiabele of opdrachtgever raken worden tijdig, volledig en juist afgewikkeld.
 
-#### Artikel 3.4. (zorgvuldig en nauwgezet)
+##### Artikel 3.4. (zorgvuldig en nauwgezet)
 
 De gerechtsdeurwaarder is zorgvuldig en nauwgezet in de uitoefening van het ambt.
 
-#### Artikel 3.5. (transparant en toegankelijk)
+##### Artikel 3.5. (transparant en toegankelijk)
 
 1. De gerechtsdeurwaarder maakt diens hoedanigheid kenbaar in de uitoefening van het ambt.
 
@@ -156,13 +182,13 @@ De gerechtsdeurwaarder is zorgvuldig en nauwgezet in de uitoefening van het ambt
 
 4. De gerechtsdeurwaarder houdt de gegevens geheim waarover deze bij de uitoefening van het ambt de beschikking krijgt en waarvan deze het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden. Deze verplichting geldt niet voor zover enig wettelijk voorschrift de gerechtsdeurwaarder tot mededeling verplicht of voor zover uit het ambt de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 3.6. (evenredig)
+##### Artikel 3.6. (evenredig)
 
 1. De gerechtsdeurwaarder verricht ambtshandelingen voor zover de wet, een titel of het met de maatregel beoogde doel dit, mede gelet op de daaraan verbonden gevolgen, rechtvaardigt.
 
 2. De gerechtsdeurwaarder oefent geen druk uit door maatregelen aan te kondigen die voor het beoogde doel in redelijkheid niet worden getroffen.
 
-#### Artikel 3.7. (verdiensten ambtshandelingen)
+##### Artikel 3.7. (verdiensten ambtshandelingen)
 
 1. De gerechtsdeurwaarder brengt voor zijn ambtelijke diensten ten minste een redelijke vergoeding in rekening.
 
@@ -172,27 +198,27 @@ De gerechtsdeurwaarder is zorgvuldig en nauwgezet in de uitoefening van het ambt
 
 ### Hoofdstuk 4. Dienstverlening
 
-#### Artikel 4.1. (reikwijdte)
+##### Artikel 4.1. (reikwijdte)
 
 De [artikelen 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.4&z=2023-02-01&g=2023-02-01) en [4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.5&z=2023-02-01&g=2023-02-01) zijn van overeenkomstige toepassing op toegevoegd gerechtsdeurwaarders en kandidaat-gerechtsdeurwaarders.
 
-#### Artikel 4.2. (onafhankelijkheid van opdrachtgever)
+##### Artikel 4.2. (onafhankelijkheid van opdrachtgever)
 
 1. De gerechtsdeurwaarder heeft een evenwichtige opdrachtportefeuille van meerdere opdrachtgevers.
 
 2. De gerechtsdeurwaarder die op enig moment niet voldoet aan het eerste lid, maakt een plan om een evenwichtige opdrachtportefeuille te bereiken en voert dat plan uit.
 
-#### Artikel 4.3. (capaciteit voor ambtshandelingen)
+##### Artikel 4.3. (capaciteit voor ambtshandelingen)
 
 De voor de ambtsuitoefening benodigde capaciteit wordt niet door nevenwerkzaamheden verdrongen.
 
-#### Artikel 4.4. (zorgvuldig en nauwgezet)
+##### Artikel 4.4. (zorgvuldig en nauwgezet)
 
 1. De gerechtsdeurwaarder is zorgvuldig en nauwgezet in zijn dienstverlening.
 
 2. De gerechtsdeurwaarder legt gemaakte afspraken onverwijld vast in het dossier.
 
-#### Artikel 4.5. (transparant richting derden)
+##### Artikel 4.5. (transparant richting derden)
 
 1. Communicatie door een gerechtsdeurwaarder waarin zijn diensten direct of indirect worden aangeprezen is:
 
@@ -206,7 +232,7 @@ De voor de ambtsuitoefening benodigde capaciteit wordt niet door nevenwerkzaamhe
 
 4. [Artikel 3.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.5&z=2023-02-01&g=2023-02-01), is van overeenkomstige toepassing op alle gegevens waarover de gerechtsdeurwaarder in de uitoefening van zijn beroep de beschikking krijgt.
 
-#### Artikel 4.6. (transparant richting opdrachtgever)
+##### Artikel 4.6. (transparant richting opdrachtgever)
 
 1. De gerechtsdeurwaarder verstrekt opdrachtgever inlichtingen over de voor de dienstverlening relevante feiten.
 
@@ -222,7 +248,7 @@ De voor de ambtsuitoefening benodigde capaciteit wordt niet door nevenwerkzaamhe
 
 7. Als wordt afgeweken van de gemaakte afspraken, dan informeert de gerechtsdeurwaarder de opdrachtgever over de alternatieven en de consequenties daarvan.
 
-#### Artikel 4.7. (geen onevenredige bevoordeling van opdrachtgever)
+##### Artikel 4.7. (geen onevenredige bevoordeling van opdrachtgever)
 
 1. De gerechtsdeurwaarder neemt de risico’s van een vordering niet geheel of gedeeltelijk over en participeert niet in een organisatie die vorderingen opkoopt.
 
@@ -236,11 +262,11 @@ De voor de ambtsuitoefening benodigde capaciteit wordt niet door nevenwerkzaamhe
 
 6. Het tweede lid is niet van toepassing op afdrachten tussen gerechtsdeurwaarders onderling. Het derde en vierde lid zijn niet van toepassing op overeenkomsten tussen gerechtsdeurwaarders of gerechtsdeurwaarderskantoren.
 
-#### Artikel 4.8. (betalingsregelingen)
+##### Artikel 4.8. (betalingsregelingen)
 
 De gerechtsdeurwaarder werkt niet mee aan de totstandkoming van een betalingsregeling waaraan kosten voor de schuldenaar verbonden zijn.
 
-#### Artikel 4.9. (klachtbehandeling)
+##### Artikel 4.9. (klachtbehandeling)
 
 De gerechtsdeurwaarder beschikt over een procedure die wordt gevolgd bij de behandeling van schriftelijke klachten.
 
@@ -248,11 +274,11 @@ De gerechtsdeurwaarder beschikt over een procedure die wordt gevolgd bij de beha
 
 #### Paragraaf 5.1. Verantwoordelijkheid
 
-#### Artikel 5.1. (reikwijdte)
+##### Artikel 5.1. (reikwijdte)
 
 Dit hoofdstuk is niet van toepassing op toegevoegd gerechtsdeurwaarders en kandidaat-gerechtsdeurwaarders.
 
-#### Artikel 5.2. (verantwoordelijkheid)
+##### Artikel 5.2. (verantwoordelijkheid)
 
 1. De gerechtsdeurwaarder neemt maatregelen die gericht zijn op de naleving van wet- en regelgeving.
 
@@ -260,7 +286,7 @@ Dit hoofdstuk is niet van toepassing op toegevoegd gerechtsdeurwaarders en kandi
 
 3. De gerechtsdeurwaarder zorgt ervoor dat alle beslissingen over het beleid van het kantoor en de werkzaamheden in het kader van opdrachten, waaronder de afhandeling ervan, worden genomen door een gerechtsdeurwaarder of onder diens directe verantwoordelijkheid.
 
-#### Artikel 5.3. (kwaliteitstoets)
+##### Artikel 5.3. (kwaliteitstoets)
 
 1. Een gerechtsdeurwaarder laat het kantoor ten minste eens in de drie jaar beoordelen op de overeenstemming met de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.3&z=2023-02-01&g=2023-02-01), [3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=3&artikel=3.5&z=2023-02-01&g=2023-02-01), [4.2 tot en met 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.2&z=2023-02-01&g=2023-02-01), [4.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.8&z=2023-02-01&g=2023-02-01), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.9&z=2023-02-01&g=2023-02-01), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.1&artikel=5.2&z=2023-02-01&g=2023-02-01), [5.12](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2023-02-01&g=2023-02-01), [5.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2023-02-01&g=2023-02-01), [5.14 tot en met 5.15](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2023-02-01&g=2023-02-01) en de krachtens [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=8&paragraaf=8.1&artikel=8.1&z=2023-02-01&g=2023-02-01), met deze artikelen samenhangende bepalingen:
 
@@ -280,17 +306,17 @@ Dit hoofdstuk is niet van toepassing op toegevoegd gerechtsdeurwaarders en kandi
 
 #### Paragraaf 5.2. Financiën
 
-#### Artikel 5.4. (inzichtelijkheid)
+##### Artikel 5.4. (inzichtelijkheid)
 
 De gerechtsdeurwaarder kent de toestand van zijn onderneming en de mate waarin deze aan de financiële verplichtingen kan voldoen.
 
-#### Artikel 5.5. (continuïteit van de onderneming)
+##### Artikel 5.5. (continuïteit van de onderneming)
 
 1. De bedrijfsvoering door de gerechtsdeurwaarder is erop gericht dat te allen tijde kan worden voldaan aan zijn financiële verplichtingen.
 
 2. De bedrijfsvoering door de gerechtsdeurwaarder is erop gericht dat structurele kosten zijn gedekt, noodzakelijke investeringen kunnen worden gedaan en reserves kunnen worden opgebouwd.
 
-#### Artikel 5.6. (solvabiliteit en liquiditeit)
+##### Artikel 5.6. (solvabiliteit en liquiditeit)
 
 1. De gerechtsdeurwaarder draagt zorg voor een liquide en solvabele bedrijfsvoering. Aan deze verplichtingen is in ieder geval voldaan door:
 
@@ -302,11 +328,11 @@ De gerechtsdeurwaarder kent de toestand van zijn onderneming en de mate waarin d
 
 3. Het eerste lid is niet van toepassing op een gerechtsdeurwaarder in de eerste drie jaar na zijn benoeming.
 
-#### Artikel 5.7. (beroepsaansprakelijkheidsverzekering)
+##### Artikel 5.7. (beroepsaansprakelijkheidsverzekering)
 
 De gerechtsdeurwaarder is adequaat verzekerd voor beroepsaansprakelijkheid. De verzekering is adequaat als deze rekening houdt met de aard en inhoud van de opdrachtenportefeuille.
 
-#### Artikel 5.8. (kasgelden)
+##### Artikel 5.8. (kasgelden)
 
 1. De gerechtsdeurwaarder heeft een adequaat stelsel van interne controle voor contante betalingen.
 
@@ -314,7 +340,7 @@ De gerechtsdeurwaarder is adequaat verzekerd voor beroepsaansprakelijkheid. De v
 
 #### Paragraaf 5.3. Administratie
 
-#### Artikel 5.9. (toereikende administratie)
+##### Artikel 5.9. (toereikende administratie)
 
 1. De gerechtsdeurwaarder legt opdrachten en financiële rechten en verplichtingen volledig, juist en tijdig vast met een bijbehorende verantwoording. De gerechtsdeurwaarder heeft een toereikende administratieve organisatie ingesteld met een stelsel van controlemaatregelen.
 
@@ -330,29 +356,29 @@ De gerechtsdeurwaarder is adequaat verzekerd voor beroepsaansprakelijkheid. De v
 
 3. De administratie is zodanig dat de gerechtsdeurwaarder zorg kan dragen voor een zorgvuldige bewaring van voor opdrachtgever ontvangen gelden en voor een juiste en tijdige doorbetaling van de geïnde gelden.
 
-#### Artikel 5.10. (administratieve vastlegging)
+##### Artikel 5.10. (administratieve vastlegging)
 
 1. Het bestuur stelt, gehoord het Bureau Financieel Toezicht, bij bestuursregel de voorschriften en verslagstaten vast.
 
 2. Bij de inrichting en de vastlegging in de administratie neemt de gerechtsdeurwaarder de staten en voorschriften, bedoeld in het eerste lid, in acht.
 
-#### Artikel 5.11. (accountantscontrole)
+##### Artikel 5.11. (accountantscontrole)
 
 De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=31), wordt aangegeven in hoeverre in opzet is voldaan aan de [artikelen 5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.2&artikel=5.8&z=2023-02-01&g=2023-02-01), [5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.9&z=2023-02-01&g=2023-02-01), [5.10](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.10&z=2023-02-01&g=2023-02-01), [5.13](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.13&z=2023-02-01&g=2023-02-01) en [5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2023-02-01&g=2023-02-01).
 
-#### Artikel 5.12. (standaardisering van dossiers)
+##### Artikel 5.12. (standaardisering van dossiers)
 
 1. Voor iedere aanvaarde opdracht houdt de gerechtsdeurwaarder een dossier bij. De op een opdracht betrekking hebbende documenten vormen een dossier. Een dossier bevat in ieder geval een verwijzing naar met de opdrachtgever gemaakte werkafspraken.
 
 2. Ieder dossier is systematisch samengesteld. Dossiervorming is gestandaardiseerd.
 
-#### Artikel 5.13. (archief)
+##### Artikel 5.13. (archief)
 
 1. Gerechtsdeurwaarders treffen passende maatregelen om hun documenten in goede, geordende en toegankelijke staat te brengen en te bewaren. Onder document wordt verstaan ieder schriftelijk stuk of ander geheel van vastgelegde gegevens dat door de gerechtsdeurwaarder is opgemaakt dat met zijn taak of werkzaamheden verband houdt en financiële bescheiden over het privé-vermogen.
 
 2. De documenten waarvan de bewaartermijn is verstreken en die niet krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197) van vernietiging zijn uitgezonderd, worden vernietigd.
 
-#### Artikel 5.14. (integriteit van systemen)
+##### Artikel 5.14. (integriteit van systemen)
 
 1. De gerechtsdeurwaarder spant zich in voor de continuïteit en integriteit van de in het kantoor gebruikte geautomatiseerde systemen die nodig zijn voor de ambtsuitoefening, de dienstverlening en financiële aangelegenheden.
 
@@ -360,7 +386,7 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 #### Paragraaf 5.4. Gerechtsdeurwaarder als werkgever
 
-#### Artikel 5.15. (bijzonder werkgeverschap)
+##### Artikel 5.15. (bijzonder werkgeverschap)
 
 1. De functies, taken en bevoegdheden van de personen die onder het gezag van de gerechtsdeurwaarder werken, zijn voor deze personen inzichtelijk beschreven.
 
@@ -372,7 +398,7 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 #### Paragraaf 6.1. Beslagen
 
-#### Artikel 6.1. (collegiale bevraging beslagposities)
+##### Artikel 6.1. (collegiale bevraging beslagposities)
 
 1. De gerechtsdeurwaarder verstrekt onverwijld inlichtingen over een gelegd beslag aan een ambtsgenoot die daartoe een verzoek doet dat gerechtvaardigd is met het oog op een te verrichten ambtshandeling.
 
@@ -380,7 +406,7 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 3. Bij twijfel over de juistheid van ontvangen inlichtingen informeert de gerechtsdeurwaarder de verantwoordelijke gerechtsdeurwaarder.
 
-#### Artikel 6.2. (beslagregister)
+##### Artikel 6.2. (beslagregister)
 
 1. Er is een beslagregister waarin gegevens worden opgenomen over door het bestuur aangewezen soorten beslagen.
 
@@ -396,13 +422,13 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 - c. het kantoor van de gerechtsdeurwaarder.
 
-#### Artikel 6.3. (beslagregister, inschrijven beslag)
+##### Artikel 6.3. (beslagregister, inschrijven beslag)
 
 1. Een gerechtsdeurwaarder wordt toegang verleend tot het beslagregister voor het inschrijven en doorhalen van een beslag en het raadplegen en wijzigen van gegevens van beslagen van het kantoor van de gerechtsdeurwaarder. De gerechtsdeurwaarder kan onder zijn verantwoordelijkheid werkzame personen toegang verlenen en hen machtigen voor het doen van deze handelingen.
 
 2. De gerechtsdeurwaarder schrijft binnen drie werkdagen nadat een beslag als bedoeld in [artikel 6.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-02-01&g=2023-02-01), is gelegd, gewijzigd of opgeheven, de actuele gegevens in. Onder werkdag wordt verstaan een dag, niet zijnde een zaterdag, zondag, algemeen erkende feestdag in de zin van de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) of een daarmee gelijkgestelde dag als bedoeld in [artikel 3, tweede en derde lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3).
 
-#### Artikel 6.4. (beslagregister, raadplegen)
+##### Artikel 6.4. (beslagregister, raadplegen)
 
 1. Een gerechtsdeurwaarder wordt toegang verleend tot het beslagregister voor het raadplegen van ingeschreven beslagen. De gerechtsdeurwaarder kan onder zijn verantwoordelijkheid werkzame personen toegang verlenen en hen machtigen voor het doen van deze handelingen.
 
@@ -412,19 +438,19 @@ De gerechtsdeurwaarder zorgt ervoor dat in het verslag van de accountant, bedoel
 
 4. De gerechtsdeurwaarder raadpleegt het beslagregister, met het oog op het informeren van de opdrachtgever over de kans dat, behoudens veranderde omstandigheden, de vordering en de voor een ambtshandeling gemaakte of te maken kosten niet verhaalbaar blijken op een justitiabele, bedoeld in [artikel 4.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=4&artikel=4.6&z=2023-02-01&g=2023-02-01), voor zover dat verband houdt met een ambtshandeling en past binnen de doelen van [artikel 6.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-02-01&g=2023-02-01).
 
-#### Artikel 6.5. (meerdere beslagen)
+##### Artikel 6.5. (meerdere beslagen)
 
 Het bestuur stelt regels vast over de ordentelijke afwikkeling van beslagen, waaronder voor die gevallen waarin ten laste van dezelfde schuldenaar twee of meer beslagen zijn gelegd.
 
 #### Paragraaf 6.2. Zeggenschap van derden en externe participatie
 
-#### Artikel 6.6. (reikwijdte)
+##### Artikel 6.6. (reikwijdte)
 
 1. Deze paragraaf, met uitzondering van [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=6&paragraaf=6.2&artikel=6.11&z=2023-02-01&g=2023-02-01), is alleen van toepassing op de onderneming waarmee de gerechtsdeurwaarder de ambtelijke activiteiten verricht en de rechtspersoon of het samenwerkingsverband waaraan deze toebehoort.
 
 2. Waar in deze paragraaf sprake is van gerechtsdeurwaarder wordt niet bedoeld: toegevoegd gerechtsdeurwaarder of kandidaat-gerechtsdeurwaarder.
 
-#### Artikel 6.7. (zeggenschap)
+##### Artikel 6.7. (zeggenschap)
 
 1. De gerechtsdeurwaarder draagt er zorg voor dat de bestuurders van een rechtspersoon, de maten, de vennoten en de natuurlijke personen die uiteindelijk eigenaar zijn van of zeggenschap hebben in de rechtspersoon in meerderheid gerechtsdeurwaarder zijn.
 
@@ -438,7 +464,7 @@ Het bestuur stelt regels vast over de ordentelijke afwikkeling van beslagen, waa
 
 3. De gerechtsdeurwaarder draagt er zorg voor dat taken en bevoegdheden van de functionaris, bedoeld in het tweede lid, eindigen als deze niet langer in aanmerking komt voor afgifte van een verklaring omtrent gedrag.
 
-#### Artikel 6.8. (deelneming in gerechtsdeurwaarderskantoren)
+##### Artikel 6.8. (deelneming in gerechtsdeurwaarderskantoren)
 
 1. Een gerechtsdeurwaarder laat niet toe dat personen die niet de hoedanigheid van gerechtsdeurwaarder hebben gezamenlijk een groter belang dan een minderheidsbelang hebben in de onderneming.
 
@@ -452,7 +478,7 @@ Het bestuur stelt regels vast over de ordentelijke afwikkeling van beslagen, waa
 
 - d. hebben zich verbonden jegens de gerechtsdeurwaarder aan het verlenen van medewerking aan het toezicht bedoeld in [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=30) en [31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=31), met het oog op de financiële positie van de gerechtsdeurwaarder en de onderneming waarmee de gerechtsdeurwaarder zijn activiteiten verricht.
 
-#### Artikel 6.9. (aandeelhoudersovereenkomst)
+##### Artikel 6.9. (aandeelhoudersovereenkomst)
 
 1. De overeenkomst met de aandeelhouders bevat ten minste:
 
@@ -474,11 +500,11 @@ Het bestuur stelt regels vast over de ordentelijke afwikkeling van beslagen, waa
 
 2. Het eerste lid is van overeenkomstige toepassing op personenvennootschappen, met dien verstande dat onder aandeelhouder telkens wordt verstaan: vennoot.
 
-#### Artikel 6.10. (gezagsverhouding)
+##### Artikel 6.10. (gezagsverhouding)
 
 De gerechtsdeurwaarder is niet in dienst van een aandeelhouder in de vennootschap waaraan het gerechtsdeurwaarderskantoor toebehoort, als die aandeelhouder of de natuurlijk persoon die in de aandeelhouder uiteindelijk zeggenschap heeft geen gerechtsdeurwaarder is.
 
-#### Artikel 6.11. (participatie door gerechtsdeurwaarder in derden)
+##### Artikel 6.11. (participatie door gerechtsdeurwaarder in derden)
 
 Uitgezonderd bij zijn eigen gerechtsdeurwaarderskantoor is een gerechtsdeurwaarder alleen bestuurder, maat of vennoot, aandeelhouder of anderszins belanghebbende bij een onderneming, rechtspersoon of samenwerkingsverband, als deze:
 
@@ -492,13 +518,13 @@ Uitgezonderd bij zijn eigen gerechtsdeurwaarderskantoor is een gerechtsdeurwaard
 
 #### Paragraaf 7.1. Samenstelling van de ledenraad
 
-#### Artikel 7.1. (vrijval van plaatsen in ledenraad)
+##### Artikel 7.1. (vrijval van plaatsen in ledenraad)
 
 1. In geval een lid van de ledenraad defungeert, vinden verkiezingen voor deze positie plaats tijdens de eerstvolgende algemene ledenvergadering.
 
 2. Bij de aankondiging van de verkiezingen maakt het bestuur bekend op hoeveel posities van de ledenraad de verkiezing betrekking heeft.
 
-#### Artikel 7.2. (verkiezing leden ledenraad)
+##### Artikel 7.2. (verkiezing leden ledenraad)
 
 1. Iedere gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder, kandidaat-gerechtsdeurwaarder en waarnemend gerechtsdeurwaarder kan zich kandidaat stellen voor de ledenraad.
 
@@ -508,11 +534,11 @@ Uitgezonderd bij zijn eigen gerechtsdeurwaarderskantoor is een gerechtsdeurwaard
 
 4. De algemene ledenvergadering stemt over de verkiesbare leden voor de opengevallen plaatsen.
 
-#### Artikel 7.3. (benoeming ledenraadslid)
+##### Artikel 7.3. (benoeming ledenraadslid)
 
 Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot ledenraadslid.
 
-#### Artikel 7.4. (plaatsvervangers)
+##### Artikel 7.4. (plaatsvervangers)
 
 1. De verkiezing van plaatsvervangers van ledenraadsleden vindt plaats overeenkomstig [artikel 7.1 tot en met artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0047777&hoofdstuk=7&paragraaf=7.1&artikel=7.1&z=2023-02-01&g=2023-02-01).
 
@@ -520,7 +546,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 3. De plaatsvervanger oefent de rechten en plichten uit van het ledenraadslid dat het vervangt.
 
-#### Artikel 7.5. (einde lidmaatschap van de ledenraad)
+##### Artikel 7.5. (einde lidmaatschap van de ledenraad)
 
 1. Het lidmaatschap van de ledenraad eindigt door:
 
@@ -534,7 +560,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 2. Een lid van de ledenraad kan door iedere gerechtsdeurwaarder, toegevoegd gerechtsdeurwaarder, kandidaat-gerechtsdeurwaarder en waarnemend gerechtsdeurwaarder worden voorgedragen voor ontslag door de algemene ledenvergadering.
 
-#### Artikel 7.6. (voorzitterschap)
+##### Artikel 7.6. (voorzitterschap)
 
 1. De ledenraad wijst uit de ledenraadsleden de voorzitter en plaatsvervangend voorzitter van de ledenraad aan. De aanwijzing geldt voor een termijn van ten hoogste een jaar.
 
@@ -546,7 +572,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 5. Degene die de vergadering voorzit kan zijn stemrecht door een ander ledenraadslid laten uitoefenen.
 
-#### Artikel 7.7. (commissies)
+##### Artikel 7.7. (commissies)
 
 1. De ledenraad kan zich doen bijstaan door een of meer commissies ter voorbereiding of uitvoering van zijn taken en besluiten.
 
@@ -558,7 +584,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 #### Paragraaf 7.2. Vergaderorde van de ledenraad
 
-#### Artikel 7.8. (oproeping)
+##### Artikel 7.8. (oproeping)
 
 1. Wanneer het bestuur de ledenraad wil oproepen om te vergaderen geeft het hiervan kennis aan de voorzitter van de ledenraad.
 
@@ -570,7 +596,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 5. De termijn, bedoeld in het derde lid, kan in spoedeisende gevallen, ter beoordeling van de voorzitter, worden verkort tot vijf dagen.
 
-#### Artikel 7.9. (agenda)
+##### Artikel 7.9. (agenda)
 
 1. Het bestuur of een ledenraadslid kan een voorstel op de agenda van de ledenraad plaatsen door schriftelijke kennisgeving ervan aan de voorzitter.
 
@@ -578,7 +604,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 3. Voorstellen die later worden ingediend kunnen alleen worden behandeld met goedkeuring van een volstrekte meerderheid van de ter vergadering aanwezige leden. Deze voorstellen kunnen slechts aangenomen worden met ten minste twee derde van de geldig uitgebrachte stemmen.
 
-#### Artikel 7.10. (quorum)
+##### Artikel 7.10. (quorum)
 
 1. De vergadering van de ledenraad kent een quorum van tien ledenraadsleden, die blijkens de presentielijst aanwezig zijn.
 
@@ -588,7 +614,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 4. Een verdaagde vergadering wordt gehouden, ongeacht het aantal aanwezige ledenraadsleden.
 
-#### Artikel 7.11. (presentielijst)
+##### Artikel 7.11. (presentielijst)
 
 1. Bij de vergadering wordt een presentielijst bijgehouden om de aanwezigheid van leden vast te stellen. Bij binnenkomst tekent een aanwezig ledenraadslid de presentielijst.
 
@@ -596,7 +622,7 @@ Het lid dat een absolute meerderheid van stemmen behaalt, wordt benoemd tot lede
 
 #### Paragraaf 7.3. Beraadslaging door de ledenraad
 
-#### Artikel 7.12. (volgorde van werkzaamheden)
+##### Artikel 7.12. (volgorde van werkzaamheden)
 
 De volgorde van werkzaamheden is:
 
@@ -612,7 +638,7 @@ De volgorde van werkzaamheden is:
 
 - f. sluiting.
 
-#### Artikel 7.13. (vergaderorde)
+##### Artikel 7.13. (vergaderorde)
 
 1. De voorzitter bepaalt de vergaderorde. Ieder volgens de presentielijst aanwezig ledenraadslid kan een ordevoorstel indienen bij de voorzitter.
 
@@ -622,7 +648,7 @@ De volgorde van werkzaamheden is:
 
 4. De voorzitter kan besluiten dat anderen dan de leden mogen deelnemen aan de beraadslaging.
 
-#### Artikel 7.14. (uitsluiting)
+##### Artikel 7.14. (uitsluiting)
 
 De voorzitter kan uitsluiten van deelname aan de vergadering:
 
@@ -630,7 +656,7 @@ De voorzitter kan uitsluiten van deelname aan de vergadering:
 
 - b. een lid dat is voorgedragen voor ontslag of schorsing door de algemene ledenvergadering op grond van [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=70).
 
-#### Artikel 7.15. (recht van amendement)
+##### Artikel 7.15. (recht van amendement)
 
 1. Ieder ledenraadslid kan een amendement indienen.
 
@@ -640,7 +666,7 @@ De voorzitter kan uitsluiten van deelname aan de vergadering:
 
 #### Paragraaf 7.4. Besluitvorming door de ledenraad
 
-#### Artikel 7.16. (stemming)
+##### Artikel 7.16. (stemming)
 
 1. Ieder volgens de presentielijst aanwezig ledenraadslid heeft een stem.
 
@@ -664,7 +690,7 @@ De voorzitter kan uitsluiten van deelname aan de vergadering:
 
 - d. biedt inzage in de resultaten van de stemming.
 
-#### Artikel 7.17. (besluitvorming)
+##### Artikel 7.17. (besluitvorming)
 
 1. De ledenraad neemt een besluit aan bij volstrekte meerderheid van het aantal geldig uitgebrachte stemmen, tenzij dit hoofdstuk anders bepaalt.
 
@@ -676,7 +702,7 @@ De voorzitter kan uitsluiten van deelname aan de vergadering:
 
 5. De voorzitter maakt de uitslag terstond bekend.
 
-#### Artikel 7.18. (verslaglegging)
+##### Artikel 7.18. (verslaglegging)
 
 1. Van iedere vergadering wordt een verslag en een besluitenlijst gemaakt.
 
@@ -698,13 +724,13 @@ De voorzitter kan uitsluiten van deelname aan de vergadering:
 
 6. De voorzitter zendt het vastgestelde verslag en de besluitenlijst aan de ledenraadsleden en het bestuur.
 
-#### Artikel 7.19. (bekendmaking door bestuur)
+##### Artikel 7.19. (bekendmaking door bestuur)
 
 1. Het bestuur stelt het verslag en de besluitenlijst beschikbaar voor alle leden van de KBvG.
 
 2. Het bestuur is belast met de onverwijlde bekendmaking van besluiten van de ledenraad.
 
-#### Artikel 7.20. (geheimhouding)
+##### Artikel 7.20. (geheimhouding)
 
 Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is verplicht, houdt hij geheim:
 
@@ -714,7 +740,7 @@ Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is ver
 
 #### Paragraaf 7.5. Ondersteuning bestuur KBvG
 
-#### Artikel 7.21. (ondersteuning door commissies)
+##### Artikel 7.21. (ondersteuning door commissies)
 
 1. Het bestuur kan zich doen bijstaan door deskundigen, commissies of afzonderlijke leden.
 
@@ -722,7 +748,7 @@ Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is ver
 
 #### Paragraaf 7.6. Medewerking van gerechtsdeurwaarder
 
-#### Artikel 7.22. (gegevensverstrekking aan KBvG)
+##### Artikel 7.22. (gegevensverstrekking aan KBvG)
 
 1. Een gerechtsdeurwaarder meldt bij het bestuur:
 
@@ -746,7 +772,7 @@ Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is ver
 
 5. Het bestuur kan bepalen dat andere gegevens die verband houden met de beroepsuitoefening incidenteel worden verstrekt aan het bestuur.
 
-#### Artikel 7.23. (heffing per exploot)
+##### Artikel 7.23. (heffing per exploot)
 
 1. Ter dekking van de kosten voor het toezicht en de tuchtrechtspraak stelt het bestuur het bedrag vast dat een gerechtsdeurwaarder per gemeld exploot is verschuldigd.
 
@@ -756,7 +782,7 @@ Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is ver
 
 #### Paragraaf 8.1. Delegatie van regelgevende bevoegdheid
 
-#### Artikel 8.1. (gedelegeerde regelgeving)
+##### Artikel 8.1. (gedelegeerde regelgeving)
 
 1. Het bestuur kan over de vakbekwaamheid, de goede ambtsuitoefening en dienstverlening, de bedrijfsvoering en de samenwerking bestuursregels vaststellen, voor zover het gaat om:
 
@@ -770,13 +796,13 @@ Behoudens wanneer het ledenraadslid daartoe bij wettelijk voorschrift toe is ver
 
 #### Paragraaf 8.2. Evaluatie
 
-#### Artikel 8.2. (evaluatie)
+##### Artikel 8.2. (evaluatie)
 
 Het bestuur zendt binnen vijf jaar na inwerkingtreding van deze verordening en vervolgens telkens na vijf jaar aan de ledenraad een verslag over de doeltreffendheid en de effecten van deze verordening in de praktijk.
 
 #### Paragraaf 8.3. Intrekking van verordeningen
 
-#### Artikel 8.3. (intrekking van verordeningen)
+##### Artikel 8.3. (intrekking van verordeningen)
 
 1. De volgende verordeningen worden ingetrokken:
 
@@ -804,7 +830,7 @@ Het bestuur zendt binnen vijf jaar na inwerkingtreding van deze verordening en v
 
 #### Paragraaf 8.4. Overgangsrecht
 
-#### Artikel 8.4. (eerbiedigende werking overgangsrecht)
+##### Artikel 8.4. (eerbiedigende werking overgangsrecht)
 
 Het recht zoals dat gold onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze verordening blijft van toepassing op:
 
@@ -814,11 +840,11 @@ Het recht zoals dat gold onmiddellijk voorafgaand aan het tijdstip van inwerking
 
 #### Paragraaf 8.5. Slotbepalingen
 
-#### Artikel 8.5. (inwerkingtreding)
+##### Artikel 8.5. (inwerkingtreding)
 
 Deze verordening treedt in werking met ingang van 1 februari 2023.
 
-#### Artikel 8.6. (citeertitel)
+##### Artikel 8.6. (citeertitel)
 
 Deze verordening wordt aangehaald als Gerechtsdeurwaardersverordening.
 

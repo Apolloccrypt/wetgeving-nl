@@ -1,13 +1,39 @@
 ---
-title: "Boetebesluit socialezekerheidswetten"
+title: "Besluit van 14 oktober 2000, houdende regels omtrent de hoogte van op te leggen administratieve boeten op grond van enkele socialezekerheidswetten alsmede het tijdstip van inwerkingtreding van enkele wettelijke bepalingen (Boetebesluit socialezekerheidswetten)"
 identifier: "BWBR0011708"
-categorie: "Strafrecht"
-publicatiedatum: 2018-11-14
-laatste_update: 2018-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011708"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-11-14"
+last_updated: "2018-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011708"
+soort: "AMvB"
+stam_id: "1922203"
+version_id: "23583362"
+internal_id: "C34040291"
+label_id: "1872084"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011708/2018-11-14/0"
+intitule_bron: "Stb.2000-462"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-10-14"
+intitule_published: "2000-10-31"
+intitule_in_force: "2000-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2016-342"
+original_signed_date: "2016-09-19"
+original_published_date: "2016-09-29"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-342"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0011708&z=2018-11-14&g=2018-11-14"
+jci_1_0: "1.0:c:BWBR0011708&g=2018-11-14"
+citeertitel_status: "officieel"
+short_title: "Boetebesluit socialezekerheidswetten"
+signed_date: "2016-09-19"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van 14 oktober 2000, houdende regels omtrent de hoogte van op te leggen administratieve boeten op grond van enkele socialezekerheidswetten alsmede het tijdstip van inwerkingtreding van enkele wettelijke bepalingen (Boetebesluit socialezekerheidswetten)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid, van 4 juli 2000, Directie Sociale Verzekeringen, Nr. SV/UB/00/42726;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - u. **werkgeversboete ZW/WAO:** de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38aa), en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) en [artikel 71a, derde en vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) zoals dit artikel luidde voor 1 april 2002.
 
-#### Artikel 2. Berekening bestuurlijke boete
+##### Artikel 2. Berekening bestuurlijke boete
 
 1. Indien als gevolg van overtreding van de inlichtingenverplichting sprake is van een benadelingsbedrag, worden bij de vaststelling van de hoogte van de bestuurlijke boete de uitgangspunten in het tweede tot en met het tiende lid in acht genomen.
 
@@ -94,17 +120,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 11. Indien een overtreding van de inlichtingenverplichting niet heeft geleid tot een benadelingsbedrag, en niet volstaan wordt met het geven van een schriftelijke waarschuwing, wordt als uitgangspunt een bestuurlijke boete van € 150 vastgesteld, tenzij een afwijkend bedrag noodzakelijk is voor de vaststelling van een evenredige boete.
 
-#### Artikel 3. Afstemming
+##### Artikel 3. Afstemming
 
 Vervallen
 
-#### Artikel 4. Intrekking van een besluit en vervallen van artikelen
+##### Artikel 4. Intrekking van een besluit en vervallen van artikelen
 
 1. Het Besluit tarieven administratieve boeten Abw, Ioaw en Ioaz wordt ingetrokken.
 
 2. Wijzigt het Uitvoeringsbesluit WIK.
 
-#### Artikel 5. Overgangsrecht
+##### Artikel 5. Overgangsrecht
 
 1. Het Besluit tarieven administratieve boeten Abw, Ioaw en Ioaz, het Boetebesluit Tica, het Boetebesluit AOW, het Boetebesluit Anw en het Boetebesluit AKW, zoals die luidden op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit, blijven van toepassing op de niet of niet behoorlijke nakoming van de inlichtingenverplichting die voorafgaat aan de dag van inwerkingtreding van dit besluit.
 
@@ -112,21 +138,21 @@ Vervallen
 
 3. Het Boetebesluit socialezekerheidswetten, zoals dat luidde voor 1 juli 2007, blijft van toepassing op de niet of niet behoorlijke nakoming van de inlichtingenverplichting die voorafgaat aan die datum, tenzij de beschikking waarbij de boete wordt opgelegd wordt genomen op of na die datum en sindsdien een gunstiger boete geldt.
 
-#### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 6. Overgangsbepaling in verband met het intrekken van de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 [Artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=1&z=2018-11-14&g=2018-11-14), zoals dat luidde op de dag voorafgaand aan de dag waarop op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, blijft van toepassing op bestuurlijke boeten, verplichtingen, subsidies en voorzieningen die tot de dag dat de [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) werd ingetrokken, onderscheidenlijk zijn opgelegd, golden of zijn toegekend.
 
-#### Artikel 7. Inwerkingtreding van dit besluit.
+##### Artikel 7. Inwerkingtreding van dit besluit.
 
 Dit besluit treedt in werking met ingang van 1 februari 2001.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Boetebesluit socialezekerheidswetten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a. Criteria verwijtbaarheid
+##### Artikel 2a. Criteria verwijtbaarheid
 
 1. Bij de bepaling van de hoogte van de bestuurlijke boete wordt de mate waarin de gedraging aan de betrokkene kan worden verweten beoordeeld naar de omstandigheden waarin betrokkene verkeerde op het moment dat hij de inlichtingenverplichting had moeten nakomen.
 
@@ -156,7 +182,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. het verzwijgen van de gezinssamenstelling, de inkomsten van de gezinsleden of het bezit van vermogen of goederen van waarde.
 
-#### Artikel 2b. Niet of niet behoorlijke melding door werkgever
+##### Artikel 2b. Niet of niet behoorlijke melding door werkgever
 
 1. De verplichtingen, bedoeld in de [artikelen 38, eerste lid en tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), [38aa, eerste en tweede lid](onbekend), en [38b, tweede en derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38b) zijn niet behoorlijk nagekomen indien:
 
@@ -168,7 +194,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De verplichting, bedoeld in [artikel 38a, zevende lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a) is niet behoorlijk nagekomen indien de werkgever de melding niet binnen 7 kalenderdagen heeft gedaan.
 
-#### Artikel 2c. Hoogte van de werkgeversboete bij niet of niet behoorlijke melding
+##### Artikel 2c. Hoogte van de werkgeversboete bij niet of niet behoorlijke melding
 
 1. De hoogte van de bestuurlijke boete, bedoeld in de [artikelen 38, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38), [38a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38a), 38aa, derde lid, en [63c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63c) bedraagt:
 
@@ -184,25 +210,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a. Overgangsbepaling met betrekking tot wijziging van de Ziektewet
+##### Artikel 6a. Overgangsbepaling met betrekking tot wijziging van de Ziektewet
 
 De [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2a&z=2018-11-14&g=2018-11-14) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0011708&artikel=2b&z=2018-11-14&g=2018-11-14), zoals die luidden op de dag voorafgaand aan de inwerkingtreding van [artikel VIII, onderdelen L en M, van de Wet harmonisatie en vereenvoudiging sociale zekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334&artikel=VIII), blijven van toepassing indien [artikel 86d van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=86d) van toepassing is.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2d. Werkgeversboete bij het niet indienen van en het niet meewerken aan het opstellen of uitvoeren van het reïntegratieplan
+##### Artikel 2d. Werkgeversboete bij het niet indienen van en het niet meewerken aan het opstellen of uitvoeren van het reïntegratieplan
 
 1. Indien de werkgever de verplichtingen, bedoeld in [artikel 71a, eerste, tweede of derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a), zoals dat artikel luidde voor 1 april 2002, niet of niet behoorlijk nakomt ten aanzien van de werknemer of de in dat artikel bedoelde verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van arbeid is gelegen voor die datum, is artikel 4 van het Besluit boete ZW/WAO werkgevers 2002, zoals dat luidde voor inwerkingtreding van dit besluit, van toepassing.
 
 2. Indien de werkgever de verplichting, bedoeld in [artikel 71a, vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a), zoals dat artikel luidde voor 1 april 2002, niet nakomt ten aanzien van de werknemer of de in dat artikel bedoelde verzekerde wiens eerste dag van ongeschiktheid tot het verrichten van arbeid is gelegen voor die datum, is artikel 5 van het Besluit boete ZW/WAO werkgevers 2002, zoals dat luidde voor inwerkingtreding van dit besluit, van toepassing.
 
-#### Artikel 6b. Grondslag
+##### Artikel 6b. Grondslag
 
 Dit besluit is mede gebaseerd op de [artikelen 20a, negende lid, van de IOAW](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=20a), [20a, negende lid, van de IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=20a),[18a, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=18a), en [47g, negende lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=47g) en [6b, zevende lid, van de RW](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6b).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2aa. Waarschuwing
+##### Artikel 2aa. Waarschuwing
 
 1. Het bestuursorgaan kan afzien van een bestuurlijk boete en volstaan met het geven van een schriftelijke waarschuwing indien:
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid aanvulling verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975"
+title: "Besluit van de Minister van Financiën d.d. 18 februari 2008, nr. BenC 2008-373 M, tot beperking van de openbaarheid van de naar het Nationaal Archief over te brengen aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975"
 identifier: "BWBR0023620"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-03-14
-laatste_update: 2008-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023620"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-03-14"
+last_updated: "2008-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023620"
+soort: "ministeriele-regeling"
+stam_id: "9449213"
+version_id: "15215222"
+internal_id: "C20733221"
+label_id: "9426684"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023620/2008-03-14/0"
+intitule_bron: "Stcrt.2008-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-18"
+intitule_published: "2008-03-12"
+intitule_in_force: "2008-03-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-51"
+original_signed_date: "2008-02-18"
+original_published_date: "2008-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-51-p11-SC84859"
+entry_into_force_date: "2008-03-14"
+jci_1_3: "jci1.3:c:BWBR0023620&z=2008-03-14&g=2008-03-14"
+jci_1_0: "1.0:c:BWBR0023620&g=2008-03-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid aanvulling verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975"
+signed_date: "2008-02-18"
+entry_into_force: "2008-03-14"
 ---
-
 # Besluit van de Minister van Financiën d.d. 18 februari 2008, nr. BenC 2008-373 M, tot beperking van de openbaarheid van de naar het Nationaal Archief over te brengen aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15),
@@ -16,15 +42,15 @@ Gezien het advies van het Nationaal Archief d.d. 18 januari 2008 nr. C/SA/07/217
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen danwel van derden worden aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van de door het Project Wegwerken Archief-achterstanden bewerkte aanvulling op het verbaalarchief van de Administratie der Belastingen en het Directoraat-generaal der Belastingen (1934) 1936–1975, met de inventarisnummers zoals opgenomen in de bijlage, de in het volgende lid genoemde beperkingen gesteld voor een termijn van vijfenzeventig jaren gerekend vanaf het jaar van de datering van de archiefbescheiden.
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging van de in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0023620&artikel=1&z=2008-03-14&g=2008-03-14) genoemde bescheiden is slechts mogelijk nadat de directeur van het Nationaal Archief daarmee heeft ingestemd. Voor het doen van het verzoek tot instemming wordt gebruik gemaakt van het door het Nationaal Archief voorgeschreven formulier voor toestemming tot raadpleging van niet-openbare archieven.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 

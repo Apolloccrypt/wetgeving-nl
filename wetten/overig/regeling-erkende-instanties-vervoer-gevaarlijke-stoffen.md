@@ -1,13 +1,36 @@
 ---
-title: "Regeling erkende instanties vervoer gevaarlijke stoffen"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende regels omtrent erkenning en toezicht op erkende instanties inzake het vervoer van gevaarlijke stoffen (Regeling erkende instanties vervoer gevaarlijke stoffen)"
 identifier: "BWBR0026901"
-categorie: "Overig"
-publicatiedatum: 2025-08-14
-laatste_update: 2025-08-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026901"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-14"
+last_updated: "2025-08-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026901"
+soort: "ministeriele-regeling"
+stam_id: "10333103"
+version_id: "16960632"
+internal_id: "C23385851"
+label_id: "10308514"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026901/2025-08-14/0"
+intitule_bron: "Stcrt.2009-19721"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-12-21"
+intitule_in_force: "2009-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19721"
+original_published_date: "2009-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19721"
+entry_into_force_date: "2010-04-01"
+jci_1_3: "jci1.3:c:BWBR0026901&z=2025-08-14&g=2025-08-14"
+jci_1_0: "1.0:c:BWBR0026901&g=2025-08-14"
+citeertitel_status: "officieel"
+short_title: "Regeling erkende instanties vervoer gevaarlijke stoffen"
+entry_into_force: "2010-04-01"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende regels omtrent erkenning en toezicht op erkende instanties inzake het vervoer van gevaarlijke stoffen (Regeling erkende instanties vervoer gevaarlijke stoffen)
 
 Gelet op de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=10a) en [34 van de Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=34);
@@ -16,7 +39,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +67,7 @@ In deze regeling wordt verstaan onder:
 
 - **Wvgs:** [Wet vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0007606).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is uitsluitend van toepassing op:
 
@@ -74,7 +97,7 @@ In deze regeling wordt verstaan onder:
 
 3. Voor zover de uitvoering van de in het tweede lid genoemde handelingen betrekking heeft op drukhouders en tanks als bedoeld in de [Regeling vervoerbare drukapparatuur 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030099), is de uitvoering van deze handelingen voorbehouden aan de op grond van die regeling aangemelde instanties.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager verstrekt bij de aanvraag tot erkenning in elk geval de volgende bescheiden en gegevens:
 
@@ -84,65 +107,65 @@ De aanvrager verstrekt bij de aanvraag tot erkenning in elk geval de volgende be
 
 - c. de polis van een verzekering als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=12&z=2025-08-14&g=2025-08-14).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister kan een erkenning verlenen aan een onderneming, indien die onderneming voldoet aan de in de [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&z=2025-08-14&g=2025-08-14) van deze regeling opgenomen voorwaarden.
 
 2. De erkenning heeft alleen betrekking op de handelingen die worden vermeld in de beschikking waarmee de erkenning wordt verleend en die een nadere uitvoering zijn van de voorschriften van [bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1), [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1), [bijlage 1 bij de VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115&bijlage=1), de IMSBC-Code of de Technische Voorschriften.
 
-#### Artikel 5
+##### Artikel 5
 
 De erkenning is gedurende tien jaar vanaf de bekendmaking geldig.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien een erkende instantie voornemens is wijzigingen door te voeren in de bescheiden en gegevens, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=3&z=2025-08-14&g=2025-08-14), die gevolgen kunnen hebben voor de uitvoering van de handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), legt die erkende instantie de bescheiden en gegevens met de voorgenomen wijzigingen voorafgaand aan het doorvoeren daarvan ter beoordeling en goedkeuring voor aan de Inspectie Leefomgeving en Transport.
 
 #### § 2. Organisatorische en inhoudelijke vereisten voor erkende instanties
 
-#### Artikel 7
+##### Artikel 7
 
 De erkende instantie hanteert geen tarieven of andere vereisten, die de toegang tot het uitvoeren van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), door die erkende instantie onnodig belemmeren.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De erkende instantie waarborgt de onafhankelijkheid en onpartijdigheid van de onderneming zowel als die van de personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), ten opzichte van een opdrachtgever en andere betrokken partijen.
 
 2. Indien de bezoldiging van personen die zijn betrokken bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), op enige wijze afhankelijk is van het aantal van die handelingen dat is uitgevoerd, of het resultaat van die handelingen, is dat in elk geval in strijd met het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 De erkende instantie beschikt over een geschikt kwaliteitssysteem, waarin de organisatorische, personele en procedurele kwaliteitsborging is beschreven en handelt ernaar.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De erkende instantie heeft voor de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), de beschikking over medewerkers met voldoende vakbekwaamheid voor de uitvoering van die werkzaamheden alsmede voor het toezicht op de uitvoering van die werkzaamheden.
 
 2. In het kwaliteitssysteem, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=2&artikel=9&z=2025-08-14&g=2025-08-14), wordt aandacht besteed aan opleiding, kwalificatie en ervaring.
 
-#### Artikel 11
+##### Artikel 11
 
 De erkende instantie draagt zorg voor uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), in overeenstemming met de geldende voorschriften, waaronder in elk geval die in de [VBG](https://wetten.overheid.nl/jci1.3:c:BWBR0010115), de [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054), de [VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053), de IMSBC-Code of de Technische Voorschriften.
 
-#### Artikel 12
+##### Artikel 12
 
 De erkende instantie beschikt over een aansprakelijkheidsverzekering die de risico’s dekt die gepaard gaan met de uitgevoerde handelingen.
 
-#### Artikel 13
+##### Artikel 13
 
 Voorafgaand aan de uitvoering van handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), stelt de erkende instantie aan een opdrachtgever een document ter beschikking waarin per categorie objecten is vastgelegd welke van de handelingen als bedoeld in artikel 2, tweede lid, worden uitgevoerd, de te hanteren methode en de eisen waaraan zal worden getoetst.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De erkende instantie verstrekt zonder schriftelijke toestemming van de opdrachtgever geen informatie aan derden over handelingen als bedoeld in [artikel 2, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), met uitzondering van overheidsdienaren in de uitoefening van hun functie.
 
 2. De erkende instantie verplicht alle bij handelingen als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), betrokken medewerkers tot geheimhouding als bedoeld in het eerste lid.
 
-#### Artikel 15
+##### Artikel 15
 
 De erkende instantie doet jaarlijks voor 1 april verslag aan de minister, waarbij voor elke handeling als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), het aantal verrichte handelingen en het resultaat van de beoordeling wordt vermeld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Alle handelingen waarvoor een erkenning is verleend, worden binnen een periode van twaalf maanden na het verlenen daarvan tenminste eenmaal uitgevoerd.
 
@@ -150,7 +173,7 @@ De erkende instantie doet jaarlijks voor 1 april verslag aan de minister, waarbi
 
 3. Als een handeling waarvoor een erkenning is verleend langer dan een aaneengesloten periode van twaalf maanden niet is uitgevoerd, kan de erkenning worden ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026901&paragraaf=1&artikel=2&z=2025-08-14&g=2025-08-14), niet uit, tenzij:
 
@@ -164,7 +187,7 @@ De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [arti
 
 - e. de erkende instantie waarborgt dat geen verdere onderaanbesteding dan de onderaannemer plaatsvindt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De erkende instantie houdt een register bij van elke uitbesteding van keuring of certificatie.
 
@@ -172,7 +195,7 @@ De erkende instantie besteedt het uitvoeren van de handelingen, bedoeld in [arti
 
 #### § 3. Slot- en overgangsbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij het eerste verlenen van een erkenning met toepassing van deze regeling vervalt een erkenning voor die onderneming, genoemd in:
 
@@ -186,11 +209,11 @@ zoals die luidden tot het moment van inwerkingtreding van deze regeling.
 
 2. Een erkenning als bedoeld in de in het eerste lid, onder a tot en met c, genoemde regelingen, vervalt in elk geval met ingang van twee jaar na de datum waarop deze regeling in werking is getreden.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van 1 april 2010.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling erkende instanties vervoer gevaarlijke stoffen.
 
@@ -329,7 +352,7 @@ Deze regeling wordt aangehaald als: Regeling erkende instanties vervoer gevaarli
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een wijziging van de IMSBC-Code gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop die wijziging internationaal in werking treedt, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -581,7 +604,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 18a
+##### Artikel 18a
 
 De erkende instantie houdt toezicht op de juiste werking van de kwaliteitssystemen van de bij haar aangesloten onderaannemers, producenten en bedrijfslaboratoria.
 
@@ -593,7 +616,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling is tevens gebaseerd op [artikel 6.51a, tweede lid, van de Wlv](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51a).
 

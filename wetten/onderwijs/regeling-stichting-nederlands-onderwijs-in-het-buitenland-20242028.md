@@ -1,20 +1,46 @@
 ---
-title: "Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 november 2023, nr. PO/42234368, houdende regels met betrekking tot subsidieverstrekking aan de Stichting Nederlands Onderwijs in het Buitenland voor de jaren 2024 tot en met 2028 (Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028)"
 identifier: "BWBR0048981"
-categorie: "Onderwijs"
-publicatiedatum: 2023-12-01
-laatste_update: 2023-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048981"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-01"
+last_updated: "2023-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048981"
+soort: "ministeriele-regeling"
+stam_id: "16942143"
+version_id: "29775722"
+internal_id: "C42670131"
+label_id: "16852934"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048981/2023-12-01/0"
+intitule_bron: "Stcrt.2023-32884"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-16"
+intitule_published: "2023-11-30"
+intitule_in_force: "2023-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32884"
+original_signed_date: "2023-11-16"
+original_published_date: "2023-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32884"
+entry_into_force_date: "2023-12-01"
+jci_1_3: "jci1.3:c:BWBR0048981&z=2023-12-01&g=2023-12-01"
+jci_1_0: "1.0:c:BWBR0048981&g=2023-12-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028"
+signed_date: "2023-11-16"
+entry_into_force: "2023-12-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 16 november 2023, nr. PO/42234368, houdende regels met betrekking tot subsidieverstrekking aan de Stichting Nederlands Onderwijs in het Buitenland voor de jaren 2024 tot en met 2028 (Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en [10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In deze regeling wordt verstaan onder:
 
 - **toezichthouder:** toezichthouder als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=6&z=2023-12-01&g=2023-12-01).
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 2. [Artikel 8.3 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.3) is niet van toepassing.
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De Minister verstrekt aan de stichting voor de kalenderjaren 2024 tot en met 2028 instellingssubsidie voor:
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 - d. staan ingeschreven bij een tot de ondersteuning toegelaten onderwijsvoorziening.
 
-#### Artikel 4. Subsidie
+##### Artikel 4. Subsidie
 
 1. De Minister verstrekt leerlinggebonden subsidie aan de rechtspersoon die een tot de ondersteuning toegelaten onderwijsvoorziening in stand houdt.
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 5. De directeur-bestuurder van de stichting kan ondermandaat verlenen aan één of meer onder hem ressorterende medewerkers.
 
-#### Artikel 5. Beoordeling toelating onderwijsvoorziening
+##### Artikel 5. Beoordeling toelating onderwijsvoorziening
 
 1. De stichting kan een onderwijsvoorziening slechts toelaten indien deze toegankelijk is voor leerlingen van ouders afkomstig uit de Europese Unie, mits de leerlingen Nederlandstalig zijn, in de leeftijd van 2,5 tot en met 18 jaar en zich bevinden buiten het Nederlands en Belgisch grondgebied.
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 6. De stichting publiceert de criteria op haar website.
 
-#### Artikel 6. Toezichthouder
+##### Artikel 6. Toezichthouder
 
 1. Als toezichthouder als bedoeld in [artikel 10 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10) en belast met het toezicht op de naleving van deze regeling wordt aangewezen: de inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=3).
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister stelt na overleg met de stichting en in overeenstemming met de toezichthouder vast wat in ieder geval behoort tot de werkzaamheden van de toezichthouder als bedoeld in het eerste lid. De toezichthouder hanteert bij haar toezichtactiviteiten de door de Minister vastgestelde onderzoekskaders Nederlands onderwijs in het buitenland.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 1. De subsidie ten behoeve van de in [artikel 3, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=3&z=2023-12-01&g=2023-12-01), bedoelde activiteiten bedraagt ten hoogste € 2.708.120,00 per kalenderjaar.
 
@@ -126,13 +152,13 @@ In deze regeling wordt verstaan onder:
 
 5. Met ingang van het kalenderjaar 2024 kunnen de genoemde bedragen in telkens worden bijgesteld met het percentage dat de Minister van de Minister van Financiën in het voorgaande kalenderjaar voor loonbijstelling heeft ontvangen, mits de Minister deze heeft ontvangen.
 
-#### Artikel 8. Egalisatiereserve
+##### Artikel 8. Egalisatiereserve
 
 1. De stichting vormt een egalisatiereserve als bedoeld in de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 2. De egalisatiereserve bedraagt ten hoogste 10% van de bedragen, bedoeld in [artikel 7, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=7&z=2023-12-01&g=2023-12-01), dat door de Minister bij de beschikking tot verlening is bepaald.
 
-#### Artikel 9. Subsidieaanvraag en betaling
+##### Artikel 9. Subsidieaanvraag en betaling
 
 1. In afwijking van [artikel 8.2 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.2) dient de stichting uiterlijk zes weken voor de aanvang van het kalenderjaar waarvoor de subsidie wordt aangevraagd een aanvraag in tot subsidieverlening voor het daaropvolgende kalenderjaar aan de hand van een sluitende begroting en een activiteitenplan. De subsidieaanvraag kan worden ingediend met het digitale aanvraagformulier dat te vinden is op de website [www.dus-i.nl](onbekend).
 
@@ -140,33 +166,33 @@ In deze regeling wordt verstaan onder:
 
 3. Voor zover van toepassing in afwijking van [artikel 8.4 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=8.4) wordt de subsidie betaald in maandelijkse gelijke termijnen met uitzondering van de subsidie bedoeld onder [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=3&z=2023-12-01&g=2023-12-01), die uiterlijk op 1 februari in zijn geheel worden betaald.
 
-#### Artikel 10. Subsidievaststelling
+##### Artikel 10. Subsidievaststelling
 
 1. Onverminderd [artikel 7.8 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8) neemt de stichting in het activiteitenverslag in ieder geval een overzicht op van het vastgestelde aantal leerlingen per onderwijsvoorziening dat in aanmerking komt voor de leerlinggebonden subsidie, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=3&z=2023-12-01&g=2023-12-01), op 1 oktober van het kalenderjaar waarop het activiteitenplan betrekking heeft.
 
 2. Een afschrift van het activiteitenverslag wordt gezonden aan de toezichthouder.
 
-#### Artikel 11. ABP-status
+##### Artikel 11. ABP-status
 
 1. Het personeel dat wordt aangesteld in dienst van de stichting is deelnemer in de Stichting Pensioenfonds ABP in de zin van de statuten van de Stichting Pensioenfonds ABP op grond van het bepaalde in de [Wet Privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791).
 
 2. Jaarlijks overlegt de stichting een verklaring dat alle over het voorafgaande kalenderjaar aan de Stichting Pensioenfonds ABP verschuldigde pensioenbijdragen voor het personeel in dienst van de stichting zijn voldaan.
 
-#### Artikel 12. Overgangsbepaling
+##### Artikel 12. Overgangsbepaling
 
 Belgische onderwijsvoorzieningen met een fysieke leslocatie in België die op grond van de [Regeling Stichting Nederlands Onderwijs in het Buitenland 2014-2018](https://wetten.overheid.nl/jci1.3:c:BWBR0034300) waren aangemerkt als onderwijsvoorziening, kunnen tot de ondersteuning toegelaten blijven zolang zij voldoen aan de criteria, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=5&z=2023-12-01&g=2023-12-01). Zij komen echter niet in aanmerking voor de leerlinggebonden subsidie, bedoeld in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0048981&artikel=3&z=2023-12-01&g=2023-12-01), of voor andere financiële middelen.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029.
 
-#### Artikel 14. Intrekking
+##### Artikel 14. Intrekking
 
 De Regeling Stichting Nederlands Onderwijs in het Buitenland 2019-2023 vervalt.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Stichting Nederlands Onderwijs in het Buitenland 2024–2028.
 

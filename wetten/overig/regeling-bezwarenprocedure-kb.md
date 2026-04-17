@@ -1,13 +1,35 @@
 ---
 title: "Regeling bezwarenprocedure KB"
 identifier: "BWBR0039456"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039456"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039456"
+soort: "zbo"
+stam_id: "13979263"
+version_id: "24052472"
+internal_id: "C34558921"
+label_id: "13942434"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039456/2015-01-01/0"
+intitule_bron: "Stcrt.2015-24327"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-08-31"
+intitule_in_force: "2015-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-24327"
+original_published_date: "2015-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-24327"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0039456&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0039456&g=2015-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling bezwarenprocedure KB
 
 Gelet op artikel 9.13 van de CAO-onderzoekinstellingen;
@@ -22,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Adviescommissie Personeel
 
-#### Artikel 2. Adviescommissie Personeel
+##### Artikel 2. Adviescommissie Personeel
 
 1. Er is een adviescommissie Personeelsaangelegenheden Koninklijke Bibliotheek, hierna te noemen de Adviescommissie Personeel.
 
@@ -50,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. In voorkomende gevallen brengt de Adviescommissie Personeel advies uit over een bij het bevoegd gezag ingediende klacht uit hoofde van de Klachtenregeling ongewenste omgangsvormen KB.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. De Adviescommissie Personeel bestaat uit:
 
@@ -66,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Adviescommissie Subsidie
 
-#### Artikel 4. Adviescommissie Subsidie
+##### Artikel 4. Adviescommissie Subsidie
 
 1. Er is een Adviescommissie Subsidie Koninklijke Bibliotheek, hierna te noemen de Adviescommissie Subsidie.
 
@@ -74,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. In voorkomende gevallen brengt de Adviescommissie Subsidie advies uit over een bij het bevoegd gezag ingediend bezwaarschrift over verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) of overige bestuursrechtelijke aangelegenheden, met uitzondering van personeelsaangelegenheden.
 
-#### Artikel 5. Samenstelling
+##### Artikel 5. Samenstelling
 
 1. De Adviescommissie Subsidie bestaat uit:
 
@@ -88,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 4. Procedure
 
-#### Artikel 6. Bezwaar
+##### Artikel 6. Bezwaar
 
 1. De belanghebbende, die door een besluit van het bestuursorgaan rechtstreeks in zijn belang is getroffen, kan binnen zes weken na ontvangst dan wel na kennisname van een besluit, een schriftelijke weigering om te besluiten of het niet tijdig nemen van een besluit, bezwaar maken als bedoeld in [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) door een bezwaarschrift in te dienen bij het bevoegd gezag.
 
@@ -96,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 3. De termijn vangt aan met ingang van de dag waarop het besluit op de voorgeschreven wijze bekend is gemaakt.
 
-#### Artikel 7. Inhoud bezwaarschrift
+##### Artikel 7. Inhoud bezwaarschrift
 
 Het bezwaarschrift wordt overeenkomstig [artikel 6:5 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5) ondertekend en bevat tenminste:
 
@@ -108,29 +130,29 @@ Het bezwaarschrift wordt overeenkomstig [artikel 6:5 Algemene wet bestuursrecht]
 
 - d. de gronden van het bezwaar.
 
-#### Artikel 8. Herstellen verzuim
+##### Artikel 8. Herstellen verzuim
 
 Indien niet is voldaan aan [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0039456&hoofdstuk=4&artikel=7&z=2015-01-01&g=2015-01-01) kan het bezwaar niet ontvankelijk worden verklaard, mits de belanghebbende in de gelegenheid is gesteld het verzuim te herstellen, binnen een hem daartoe gestelde redelijke termijn.
 
-#### Artikel 9. Termijn
+##### Artikel 9. Termijn
 
 1. Een bezwaarschrift is tijdig ingediend indien het voor het einde van de termijn is ontvangen of, bij verzending binnen Nederland, indien het voor het einde van de termijn per post is bezorgd.
 
 2. Indien het bezwaarschrift buiten de termijn genoemd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039456&hoofdstuk=4&artikel=6&z=2015-01-01&g=2015-01-01) of onredelijk laat wordt ingediend, wordt het bezwaar niet ontvankelijk verklaard, tenzij redelijkerwijs niet geoordeeld kan worden dat belanghebbende in verzuim is geweest.
 
-#### Artikel 10. Ontvangstbevestiging
+##### Artikel 10. Ontvangstbevestiging
 
 De ontvangst van het bezwaarschrift wordt schriftelijk bevestigd.
 
-#### Artikel 11. Géén opschortende werking
+##### Artikel 11. Géén opschortende werking
 
 Het bezwaar schorst niet de werking van het bestreden besluit, tenzij bij of krachtens wettelijk voorschrift anders is bepaald.
 
-#### Artikel 12. Advies aanvragen
+##### Artikel 12. Advies aanvragen
 
 Ten behoeve van de beslissing op het bezwaar wordt advies gevraagd aan een adviescommissie.
 
-#### Artikel 13. Géén advies aanvragen
+##### Artikel 13. Géén advies aanvragen
 
 Geen advies wordt gevraagd indien:
 
@@ -144,7 +166,7 @@ Geen advies wordt gevraagd indien:
 
 - e. volledig aan het bezwaar van de belanghebbende tegemoet wordt gekomen en andere belanghebbenden daardoor niet in hun belangen kunnen worden geschaad.
 
-#### Artikel 14. Behandeling bezwaarschrift
+##### Artikel 14. Behandeling bezwaarschrift
 
 1. Een adviescommissie stelt de belanghebbende in de gelegenheid te worden gehoord.
 
@@ -174,7 +196,7 @@ Geen advies wordt gevraagd indien:
 
 14. Over de toepassing van [artikel 7:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:3) en [7:4, zesde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) beslist de voorzitter van een adviescommissie.
 
-#### Artikel 15. Het uitbrengen van het advies
+##### Artikel 15. Het uitbrengen van het advies
 
 1. Na de zitting gaat een adviescommissie over tot beraadslaging over het uit te brengen advies.
 
@@ -192,7 +214,7 @@ Geen advies wordt gevraagd indien:
 
 ### Hoofdstuk 5. De beslissing op bezwaar
 
-#### Artikel 16. De termijn
+##### Artikel 16. De termijn
 
 1. Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek of het bevoegd gezag neemt binnen twaalf weken na ontvangst van het bezwaarschrift een gemotiveerd besluit.
 
@@ -202,7 +224,7 @@ Geen advies wordt gevraagd indien:
 
 4. Het Algemeen Bestuurscollege van de Koninklijke Bibliotheek of het bevoegd gezag kan de beslissing voor ten hoogste zes weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 17. Het besluit
+##### Artikel 17. Het besluit
 
 1. De beslissing op het bezwaarschrift wordt bekend gemaakt door toezending of uitreiking aan belanghebbende.
 
@@ -212,15 +234,15 @@ Geen advies wordt gevraagd indien:
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 18. Hardheidsclausule
+##### Artikel 18. Hardheidsclausule
 
 In gevallen waarin deze regeling niet voorziet besluit de Algemeen Directeur.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling vervang het reglement van 1 januari 2005 (dat is gewijzigd op 1 oktober 2009) en treedt in werking op 1 januari 2015.
 
-#### Artikel 20. Citeertitel en publicatie
+##### Artikel 20. Citeertitel en publicatie
 
 Deze regeling wordt aangehaald als Regeling bezwarenprocedure KB.
 

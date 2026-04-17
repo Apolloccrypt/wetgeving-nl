@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (prestatie impactvolle transformaties)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 9 oktober 2023, kenmerk 3696063-1053658-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de prestatie impactvolle transformaties"
 identifier: "BWBR0048769"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-11
-laatste_update: 2025-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048769"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-11"
+last_updated: "2025-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048769"
+soort: "ministeriele-regeling"
+stam_id: "16887623"
+version_id: "29681822"
+internal_id: "C42493111"
+label_id: "16799604"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048769/2025-10-11/0"
+intitule_bron: "Stcrt.2023-28922"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-09"
+intitule_published: "2023-10-24"
+intitule_in_force: "2023-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28922"
+original_signed_date: "2023-10-09"
+original_published_date: "2023-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-28922"
+entry_into_force_date: "2023-10-24"
+jci_1_3: "jci1.3:c:BWBR0048769&z=2025-10-11&g=2025-10-11"
+jci_1_0: "1.0:c:BWBR0048769&g=2025-10-11"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (prestatie impactvolle transformaties)"
+signed_date: "2023-10-09"
+entry_into_force: "2023-10-24"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 9 oktober 2023, kenmerk 3696063-1053658-PZo, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake de prestatie impactvolle transformaties
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 26 juni 2023 schriftelijk mededeling te hebben gedaan aan de Eerste en Twe
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,11 +64,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg of overige diensten als bedoeld in [artikel 11, eerste lid, onderdeel a, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11).
 
-#### Artikel 3. Prestatiebeschrijvingen, tarieven en bovengrens
+##### Artikel 3. Prestatiebeschrijvingen, tarieven en bovengrens
 
 1. De zorgautoriteit stelt prestatiebeschrijvingen met een vrij tarief vast voor impactvolle transformaties.
 
@@ -58,7 +84,7 @@ Deze aanwijzing is van toepassing op zorg of overige diensten als bedoeld in [ar
 
 5. De zorgautoriteit neemt na 31 december 2028 geen nieuwe tweezijdige aanvraag voor impactvolle transformaties in behandeling.
 
-#### Artikel 4. Macrobeheersbaarheid
+##### Artikel 4. Macrobeheersbaarheid
 
 1. De zorgautoriteit stelt voor elke impactvolle zorgtransformatie voor alle betrokken zorgaanbieders van de betreffende zorg één individuele bovengrens vast als bedoeld in [artikel 50, tweede lid, aanhef en onder c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
@@ -66,7 +92,7 @@ Deze aanwijzing is van toepassing op zorg of overige diensten als bedoeld in [ar
 
 3. In afwijking van eerder gegeven aanwijzingen aan de zorgautoriteit, maken de tarieven, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048769&artikel=3&z=2025-10-11&g=2025-10-11), geen onderdeel uit van geldende macrobeheersinstrumenten.
 
-#### Artikel 5. Opdracht
+##### Artikel 5. Opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en waar nodig regels vast.
 

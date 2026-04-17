@@ -1,13 +1,39 @@
 ---
-title: "Aanvullingsbesluit natuur Omgevingswet"
+title: "Besluit van 16 december 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingsbesluit natuur Omgevingswet)"
 identifier: "BWBR0044730"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044730"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044730"
+soort: "AMvB"
+stam_id: "15817193"
+version_id: "27454642"
+internal_id: "C42589251"
+label_id: "15754654"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044730/2025-07-01/0"
+intitule_bron: "Stb.2021-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-16"
+intitule_published: "2021-01-21"
+intitule_in_force: "2023-04-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-22"
+original_signed_date: "2020-12-16"
+original_published_date: "2021-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-22"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0044730&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0044730&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingsbesluit natuur Omgevingswet"
+signed_date: "2020-12-16"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 16 december 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten in verband met de overgang van de Wet natuurbescherming naar de Omgevingswet (Aanvullingsbesluit natuur Omgevingswet)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 13 juli 2020, nr. WJZ / 20186584, mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -24,21 +50,21 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Wijzigingen in enkele algemene maatregelen van bestuur
 
-#### Artikel I. (Wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+##### Artikel I. (Wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel II. (Wijziging [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
+##### Artikel II. (Wijziging [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel III. (Wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
+##### Artikel III. (Wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
 ### Hoofdstuk 2. Overgangs- en invoeringsbepalingen
 
-#### Artikel IV. (Overgangsrecht)
+##### Artikel IV. (Overgangsrecht)
 
 1. Het verbod, bedoeld in [artikel 5.1, tweede lid, aanhef en onder g, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1) om zonder omgevingsvergunning een flora- en fauna-activiteit te verrichten, geldt niet voor activiteiten als bedoeld in de [artikelen 11.37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.37), [11.39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.39), [11.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), [11.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47), en [11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), die aantoonbaar worden uitgevoerd in overeenstemming met de wijze die is beschreven in een gedragscode als bedoeld in [artikel 3.31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=3.31), of [9.6, vijfde lid, van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=9.6), zoals deze artikelen luidden onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 3.1 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&artikel=3.1), waarvoor een goedkeuring van Onze Minister van Landbouw, Natuur en Voedselkwaliteit geldt, totdat de periode waarvoor de goedkeuring geldt is verstreken of de goedkeuring wordt ingetrokken.
 
@@ -60,49 +86,49 @@ Wijzigt het Omgevingsbesluit.
 
 10. Een register waarin stikstofdepositieruimte is geregistreerd op grond van [artikel 5.5a van de Wet natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0037552&artikel=5.5a), zoals dat artikel luidde onmiddellijk voorafgaand aan de inwerkingtreding van [artikel 3.1 van de Aanvullingswet natuur Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044063&artikel=3.1), geldt als register als bedoeld in [artikel 11.71 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=11.71).
 
-#### Artikel V. (Samenloop Aanpassingswet Rijkswet nationaliteit zeeschepen)
+##### Artikel V. (Samenloop Aanpassingswet Rijkswet nationaliteit zeeschepen)
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel VI. (Wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
+##### Artikel VI. (Wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel VII. (Wijziging [Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
+##### Artikel VII. (Wijziging [Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel VIII. ([Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217))
+##### Artikel VIII. ([Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217))
 
 Wijzigt het Besluit houders van dieren.
 
-#### Artikel IX. ([Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544))
+##### Artikel IX. ([Besluit justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0016544))
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
-#### Artikel X. ([Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086))
+##### Artikel X. ([Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086))
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel XI. ([Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914))
+##### Artikel XI. ([Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914))
 
 Wijzigt het Rangschikkingsbesluit Natuurschoonwet 1928.
 
-#### Artikel XII. (Intrekken [Besluit natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038662))
+##### Artikel XII. (Intrekken [Besluit natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038662))
 
 Het [Besluit natuurbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0038662) wordt ingetrokken.
 
-#### Artikel XIII. (Intrekken [Besluit uitvoering exotenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0037731))
+##### Artikel XIII. (Intrekken [Besluit uitvoering exotenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0037731))
 
 Het [Besluit uitvoering exotenverordening](https://wetten.overheid.nl/jci1.3:c:BWBR0037731) wordt ingetrokken.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel XIV. (Inwerkingtreding)
+##### Artikel XIV. (Inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XV. (Citeertitel)
+##### Artikel XV. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Aanvullingsbesluit natuur Omgevingswet.
 

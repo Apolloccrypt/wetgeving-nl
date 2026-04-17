@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Duitse Bondsrepubliek inzake de begrenzing van het continentaal plat onder de Noordzee"
 identifier: "BWBV0003545"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-12-07
-laatste_update: 1972-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003545"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-12-07"
+last_updated: "1972-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003545"
+soort: "verdrag"
+stam_id: "10003581633"
+version_id: "10003639172"
+internal_id: "C10006983691"
+label_id: "10003567084"
+dtd_version: "2.0"
+original_entry_into_force: "1972-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003545/1972-12-07/0"
+intitule_bron: "Trb.1971-53"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-04-06"
+intitule_in_force: "1972-11-21"
+intitule_status: "goed"
+original_publication: "Trb.1971-53"
+original_published_date: "1971-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-53"
+entry_into_force_date: "1972-12-07"
+jci_1_3: "jci1.3:c:BWBV0003545&z=1972-12-07&g=1972-12-07"
+jci_1_0: "1.0:c:BWBV0003545&g=1972-12-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "1972-12-07"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Duitse Bondsrepubliek inzake de begrenzing van het continentaal plat onder de Noordzee
 
 Het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland,
@@ -22,7 +44,7 @@ Met inachtneming van de grenzen op het continentaal plat die door het arrest van
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De grens tussen het Nederlandse en het Duitse deel van het continentaal plat onder de Noordzee wordt, in aansluiting aan het bij het Verdrag van 1 december 1964 vastgestelde grensgedeelte, gevormd door de bogen van grootcirkels tussen de volgende punten in de volgorde zoals hieronder aangegeven:
 
@@ -40,7 +62,7 @@ De ligging van de punten E4 tot en met E8 is uitgedrukt in lengte en breedte vol
 
 (3). Deze grens, alsmede het bij het Verdrag van 1 december 1964 vastgestelde grensgedeelte, zijn ter verduidelijking ingetekend op de als Bijlage 1 bij dit Verdrag gevoegde kaart.
 
-#### Artikel 2
+##### Artikel 2
 
 (1). Indien in of op het continentaal plat van een der Verdragsluitende Partijen een voorkomen van delfstoffen wordt vastgesteld en de andere Verdragsluitende Partij van oordeel is dat dit vastgestelde voorkomen zich in of op haar continentaal plat uitstrekt, dan kan zij dit onder overlegging van de gegevens waarop zij haar oordeel baseert, aan de eerstgenoemde Partij kenbaar maken. Indien deze de opvatting van de andere Partij niet deelt, dan doet het scheidsgerecht overeenkomstig artikel 5, op verzoek van een der Partijen, hierover uitspraak.
 
@@ -50,17 +72,17 @@ De ligging van de punten E4 tot en met E8 is uitgedrukt in lengte en breedte vol
 
 (4). Indien een regeling overeenkomstig de leden 2 of 3 niet binnen een redelijke termijn tot stand komt, kan elk der Verdragsluitende Partijen een beroep doen op het scheidsgerecht overeenkomstig artikel 5. Het scheidsgerecht kan in zulke gevallen ook ex aequo et bono een uitspraak doen. Het scheidsgerecht is bevoegd, na het horen van de Verdragsluitende Partijen, voorlopige voorzieningen te treffen.
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd de volkenrechtelijke regels betreffende het leggen van pijpleidingen op het continentaal plat, zijn pijpleidingen die in verband met de winning van delfstoffen op het continentaal plat worden gelegd, met het oog op het tegengaan van verontreiniging van de zee en het afwenden van andere gevaren onderworpen aan de bepalingen betreffende de aanleg en het gebruik van pijpleidingen van de Verdragsluitende Partij over wier continentaal plat zodanige pijpleidingen worden gelegd.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). De in Bijlage 2 bij dit Verdrag genoemde ondernemingen wordt voor de in deze Bijlage aangegeven gebieden, voor zover die overeenkomstig artikel 1 van dit Verdrag behoren tot het Duitse continentaal plat, op aanvraag de opsporings- en winningsvergunning naar Duits recht voor aardolie en aardgas, alsmede voor bij de winning daarvan gelijktijdig verkregen andere stoffen, verleend.
 
 (2). De vergunning bedoeld in het eerste lid moet binnen een jaar na de inwerkingtreding van dit Verdrag bij de bevoegde Duitse autoriteit worden aangevraagd.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). Geschillen tussen de Verdragsluitende Partijen over de uitlegging of de toepassing van dit Verdrag of van een ingevolge het tweede lid van artikel 2 getroffen regeling zullen zoveel mogelijk door onderhandeling worden beslecht.
 
@@ -80,15 +102,15 @@ De leden dienen te worden benoemd binnen twee maanden, de voorzitter binnen nogm
 
 (7). Het scheidsgerecht of de enkele scheidsman bepalen zelf de procedure voor zover deze niet bij dit Verdrag of door de Verdragsluitende Partijen bij de instelling van het scheidsgerecht of de benoeming van de enkele scheidsman is bepaald.
 
-#### Artikel 6
+##### Artikel 6
 
 De artikelen 2 en 3, alsmede artikel 5 voor zover dit de beslechting van geschillen over de uitlegging of de toepassing van de artikelen 2 en 3 betreft, worden op overeenkomstige wijze toegepast ten aanzien van het gebied van het continentaal plat in de nabijheid van de kust, dat is begrensd bij het Verdrag van 1 december 1964.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Verdrag geldt eveneens voor het „Land” Berlijn, tenzij de Regering van de Bondsrepubliek Duitsland binnen drie maanden na de inwerkingtreding van dit Verdrag de Regering van het Koninkrijk der Nederlanden mededeling doet van het tegendeel.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging zullen te Bonn worden uitgewisseld.
 

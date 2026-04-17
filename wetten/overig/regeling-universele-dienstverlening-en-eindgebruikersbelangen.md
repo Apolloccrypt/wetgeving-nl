@@ -1,13 +1,39 @@
 ---
-title: "Regeling universele dienstverlening en eindgebruikersbelangen"
+title: "Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028595, houdende regels met betrekking tot universele dienstverlening en eindgebruikersbelangen (Regeling universele dienstverlening en eindgebruikersbelangen)"
 identifier: "BWBR0016709"
-categorie: "Overig"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016709"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016709"
+soort: "ministeriele-regeling"
+stam_id: "5865423"
+version_id: "17556422"
+internal_id: "C24297071"
+label_id: "5845464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016709/2023-10-01/0"
+intitule_bron: "Stcrt.2004-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-10"
+intitule_published: "2004-05-14"
+intitule_in_force: "2004-05-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-12111"
+original_signed_date: "2010-07-23"
+original_published_date: "2010-07-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2010-12111"
+entry_into_force_date: "2010-07-23"
+jci_1_3: "jci1.3:c:BWBR0016709&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0016709&g=2023-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling universele dienstverlening en eindgebruikersbelangen"
+signed_date: "2010-07-23"
+entry_into_force: "2010-07-23"
 ---
-
 # Regeling van de Minister van Economische Zaken van 10 mei 2004, nr. WJZ 4028595, houdende regels met betrekking tot universele dienstverlening en eindgebruikersbelangen (Regeling universele dienstverlening en eindgebruikersbelangen)
 
 Gelet op:
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevi
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Universele dienstverlening
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het maandelijkse tarief, bedoeld in [artikel 2.5, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.5) bedraagt ten hoogste € 11,57.
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 3. De in dit artikel genoemde tarieven zijn inclusief omzetbelasting.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. De aanbieder van spraakcommunicatiediensten op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt, onverminderd het bepaalde bij of krachtens [hoofdstuk 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=11), op verzoek van zijn abonnee een gespecificeerde rekening van de kosten voor de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en het gebruik van de spraakcommunicatiedienst over die aansluiting.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 3. Gesprekken die voor de oproepende abonnee kosteloos zijn worden niet op de gespecificeerde rekening van de oproepende abonnee vermeld.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2&artikel=2.2&z=2023-10-01&g=2023-10-01) bedoelde basisniveau van specificatie van rekeningen voor het gebruik van de spraakcommunicatiedienst op een vaste locatie omvat:
 
@@ -100,13 +126,13 @@ Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2
 
 - g. het totale bedrag van de rekening, onder vermelding van het toepasselijke tarief voor omzetbelasting alsmede het totale bedrag dat aan omzetbelasting moet worden betaald.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. De aanbieder van de spraakcommunicatiedienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen blokkeert op verzoek van zijn abonnee bepaalde categorieën uitgaande gesprekken of oproepen naar bepaalde categorieën nummers en de mogelijkheid tot het afnemen van Premium SMS-diensten of Premium MMS-diensten.
 
 2. De blokkering geschiedt kosteloos.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. De aanbieder van de aansluiting op het openbare elektronische communicatienetwerk op een vaste locatie en de spraakcommunicatiedienst over die aansluiting die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen, treft jegens een abonnee die zijn rekening geheel of gedeeltelijk niet betaalt uitsluitend maatregelen die in verhouding staan tot de ernst van de wanbetaling, die niet-discriminerend zijn en die vooraf op genoegzame wijze zijn bekendgemaakt.
 
@@ -116,21 +142,21 @@ Het in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=2
 
 - b. gaat de aanbieder niet over tot beperking van de dienstverlening of verbreking van de aansluiting, dan nadat de abonnee van het voornemen tot beperking of afsluiting op genoegzame wijze op de hoogte is gesteld en hem een redelijke termijn is gegund om alsnog aan zijn betalingsverplichtingen te voldoen.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Het bedrag van de omzet, bedoeld in [artikel 2.13, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.13) is € 2 miljoen.
 
 #### § 3. Eindgebruikersbelangen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Vervallen
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Vervallen
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Aanbieders van openbare telefoonnetwerken of voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst bieden eindgebruikers de mogelijkheid aan van nummeridentificatie als bedoeld in [artikel 1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=1.1).
 
@@ -144,45 +170,45 @@ Vervallen
 
 #### § 3. Eindgebruikersbelangen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 In deze paragraaf wordt onder aanbieder verstaan: een aanbieder van een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst die door middel van dat netwerk of als onderdeel van die dienst nummeridentificatie aanbiedt.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Een aanbieder biedt de in [artikel 11.9, eerste lid, onderdeel b, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.9) genoemde mogelijkheid kosteloos aan. Een aanbieder is echter bevoegd van een abonnee een redelijke vergoeding voor het gebruik van deze mogelijkheid te verlangen, indien herhaald gebruik zonder redelijk doel door de abonnee daartoe aanleiding geeft.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Een aanbieder richt de in [artikel 11.9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.9) bedoelde mogelijkheden zodanig in, dat het gebruik, de bediening of de inwerkingstelling daarvan van eenvoudige aard is.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Een aanbieder draagt er zorg voor dat de in [artikel 11.9, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.9) bedoelde mogelijkheid, beschikbaar is voor oproepen van in Nederland aanwezige netwerkaansluitpunten naar andere landen.
 
 2. Een aanbieder draagt er zorg voor dat de in [artikel 11.9, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.9), bedoelde mogelijkheden beschikbaar zijn voor oproepen gedaan uit andere landen naar in Nederland aanwezige netwerkaansluitpunten.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Een aanbieder draagt er zorg voor dat voor eenieder op genoegzame wijze informatie beschikbaar is met betrekking tot nummeridentificatie, de daarbij geboden mogelijkheden tot weigering en blokkering van deze faciliteit, en de financiële aspecten daarvan.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 De [Regeling basisniveau notaspecificatie vaste telefoniediensten](https://wetten.overheid.nl/jci1.3:c:BWBR0014297), de [Regeling nummeridentificatie](https://wetten.overheid.nl/jci1.3:c:BWBR0010036) en de [Regeling tarieven universele dienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0010037) worden ingetrokken.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop de [Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0016635) in werking treedt.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 Deze regeling wordt aangehaald als: Regeling universele dienstverlening en eindgebruikersbelangen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.2a
+##### Artikel 3.2a
 
 1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers uit de reeksen 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan de tarieven door die aanbieder bij de eindgebruiker in rekening worden gebracht, draagt er zorg voor dat voorafgaand aan een oproep worden vermeld:
 
@@ -204,7 +230,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. De melding bedoeld in het eerste, tweede en derde lid en de voorziening voor gebruik in een eindapparaat zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten en waarvan de tarieven door die aanbieder bij de consument in rekening worden gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670 tot en met 0679, of internationale nummers, biedt de consument tenminste een van de volgende voorzieningen voor het begrenzen van het gebruik van nummers met bijzondere toegang aan:
 
@@ -224,7 +250,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Voor een voorziening bedoeld in het eerste en tweede lid kunnen door die aanbieder redelijke kosten in rekening gebracht worden.
 
-#### Artikel 3.5a
+##### Artikel 3.5a
 
 1. Indien een consument een klacht heeft ingediend bij een aanbieder als bedoeld in [artikel 3.2a, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01), of bij een nummergebruiker als bedoeld in [artikel 3.2b, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), omtrent de hoogte van de rekening, kan de aanbieder geen betaling van het betwiste deel van de rekening verlangen tot op de klacht is beslist.
 
@@ -240,7 +266,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.2b
+##### Artikel 3.2b
 
 1. Een nummergebruiker die een nummer gebruikt uit de reeks 0900, 0906, 0909 of 18 uit het Nummerplan telefoon- en ISDN-diensten waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht draagt er zorg voor dat voorafgaand aan een oproep de in [artikel 3.2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01), bedoelde vermelding plaatsvindt.
 
@@ -250,7 +276,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De in het eerste en tweede lid bedoelde vermeldingen zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
-#### Artikel 3.2c
+##### Artikel 3.2c
 
 1. Een aanbieder van een openbare elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900 of 18 uit het Nummerplan telefoon- en ISDN-diensten, waarvan het verkeerstarief en het informatietarief door die aanbieder bij de eindgebruiker in rekening worden gebracht, en de desbetreffende nummergebruiker stellen het maximale informatietarief voor een oproep naar dat nummer vast, dat is berekend met inachtneming van het informatietarief dat ingevolge [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01), en [artikel 3.2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), wordt vermeld.
 
@@ -266,7 +292,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. De vermeldingen, bedoeld in het derde lid, zijn kosteloos voor de consument en zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
-#### Artikel 3.2d
+##### Artikel 3.2d
 
 1. Indien het gebruik van een nummer als bedoeld in [artikel 3.2b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), wordt aangeprezen in het openbaar, zorgt de nummergebruiker ervoor dat daarbij de in [artikel 3.2a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01), bedoelde informatie wordt vermeld.
 
@@ -274,21 +300,21 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De vermeldingen, bedoeld in het eerste en tweede lid, zijn ondubbelzinnig en duidelijk leesbaar of verstaanbaar.
 
-#### Artikel 3.2e
+##### Artikel 3.2e
 
 Vervallen
 
-#### Artikel 3.2f
+##### Artikel 3.2f
 
 1. Voor zover een aanbieder als bedoeld in [artikel 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2023-10-01&g=2023-10-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2023-10-01&g=2023-10-01), worden gedaan, is de nummergebruiker van dat nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
 
 2. Voor zover een nummergebruiker als bedoeld in [artikel 3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2023-10-01&g=2023-10-01) ten aanzien van een nummer ervoor heeft zorg gedragen dat de vermeldingen, bedoeld in de [artikelen 3.2a](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01) en [3.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2b&z=2023-10-01&g=2023-10-01), respectievelijk [artikel 3.2c](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2c&z=2023-10-01&g=2023-10-01), worden gedaan, is een aanbieder van de openbare elektronische communicatiedienst die toegang verschaft tot het aangekozen 090x nummer ontheven van de verplichting zorg te dragen voor de desbetreffende vermeldingen.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 De nummergebruiker die een nummer met bijzondere toegang gebruikt uit het Nummerplan telefoon- en ISDN-diensten, waarvan het tarief door een aanbieder van een elektronische communicatiedienst bij de consument in rekening wordt gebracht, uitgezonderd geografische nummers en nummers uit de reeks 0670 tot en met 0679, beëindigt de oproep naar dat nummer onmiddellijk nadat de oproeper van het nummer heeft aangegeven de ontvangst van de aan dat nummer verbonden dienst te willen beëindigen.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 De in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.3), [artikel 4.7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.7), [artikel 4.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.9), [artikel 7.3a , eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3a) en [artikel 7.3b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3b) bedoelde categorieën van nummers zijn:
 
@@ -296,7 +322,7 @@ De in [artikel 4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&a
 
 - b. nummers met bijzondere toegang uit het Nummerplan telefoon- en ISDN-diensten, uitgezonderd geografische nummers, nummers uit de reeks 0670 tot en met 0679 en nummers als bedoeld in onderdeel a.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 De in [artikel 4.9, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.9) bedoelde gegevens met betrekking tot een nummer uit de in dat lid bedoelde categorie van nummers zijn:
 
@@ -368,7 +394,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.2g
+##### Artikel 3.2g
 
 1. Een aanbieder van een elektronische communicatiedienst die eindgebruikers toegang verschaft tot een nummer uit de reeks 0900, 0906 of 0909 uit het Nummerplan telefoon- en ISDN-diensten,
 
@@ -390,13 +416,13 @@ stelt voor een oproep naar dit nummer het informatietarief vast op € 0.
 
 4. Iedere aanbieder van een elektronische communicatiedienst die een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft en die een melding ontvangt als bedoeld in het vijfde lid, geeft deze melding door aan de partij of partijen waarmee hij een voor het gebruik van het nummer relevante interconnectieovereenkomst heeft.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 1. Een aanbieder van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst biedt een consument te allen tijde kosteloos de mogelijkheid tot het aangaan van een overeenkomst met betrekking tot de levering van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst waarbij de mogelijkheid tot het afnemen van Premium SMS-diensten is geblokkeerd.
 
 2. Een aanbieder van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst biedt een consument met wie hij een overeenkomst is aangegaan tot levering van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst te allen tijde de mogelijkheid om die overeenkomst gedurende de looptijd daarvan kosteloos in die zin te wijzigen dat de mogelijkheid tot het afnemen van Premium SMS-diensten op verzoek van die consument wordt geblokkeerd.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 1. Een aanbieder van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst kan de levering van de communicatiedienst uitsluitend opschorten of beëindigen op grond van het feit dat een consument met wie hij een overeenkomst is aangegaan tot levering van de communicatiedienst een door die aanbieder in rekening gebracht bedrag voor een Premium SMS-dienst niet betaalt, indien die consument bij de aanbieder geen klacht heeft ingediend over dat bedrag.
 
@@ -422,17 +448,17 @@ stelt voor een oproep naar dit nummer het informatietarief vast op € 0.
 
 - c. hij de consument, tegelijkertijd met een afwijzing van de klacht als bedoeld in het derde lid, schriftelijk of door een andere aan die consument ter beschikking staande en voor hem toegankelijke duurzame gegevensdrager heeft geïnformeerd over diens recht om een geschil hierover aanhangig te maken bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1) en de consument gedurende een maand nadat hij deze informatie heeft ontvangen, geen gebruik heeft gemaakt van dat recht.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 1. Wanneer een consument die met een aanbieder van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst een overeenkomst is aangegaan tot het afnemen van die communicatiedienst bij die aanbieder een klacht als bedoeld in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.10&z=2023-10-01&g=2023-10-01), heeft ingediend en de aanbieder de klacht afwijst, informeert de aanbieder die consument gelijktijdig met het afwijzen van deze klacht schriftelijk of door een andere aan die consument ter beschikking staande duurzame gegevensdrager dat die consument een geschil met betrekking tot deze klacht binnen een maand na de datum van het afwijzen van de klacht aanhangig kan maken bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1).
 
 2. Indien een consument die met een aanbieder van een voor het publiek beschikbare nummergebaseerde interpersoonlijke communicatiedienst een overeenkomst is aangegaan tot het afnemen van de communicatiedienst het geschil, bedoeld in het eerste lid, binnen de daarvoor gestelde termijn, aanhangig heeft gemaakt bij een geschillencommissie als bedoeld in [artikel 12.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=12.1), kan die aanbieder de levering van de communicatiedienst aan die consument uitsluitend opschorten of beëindigen op grond van het feit dat de consument het in geschil zijnde bedrag dat de aanbieder aan hem in rekening heeft gebracht voor een Premium SMS-dienst niet betaalt, indien de geschillencommissie daartoe heeft beslist.
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 De [artikelen 3.9 tot en met 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.9&z=2023-10-01&g=2023-10-01) en [artikel 7.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.3) zijn van overeenkomstige toepassing op Premium SMS-berichten verzonden met een ander doel dan het afnemen van een Premium SMS-dienst.
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 Vervallen
 
@@ -488,11 +514,11 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2.5a
+##### Artikel 2.5a
 
 De aanbieder van de spraakcommunicatiedienst via het openbare elektronische communicatienetwerk op een vaste locatie die krachtens [artikel 9.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen biedt de mogelijkheid om een abonnement af te sluiten waarbij ongeacht de hoeveelheid gebelde minuten naar binnenlandse niet-betaalnummers niet meer dan een bij de abonnee bekend bedrag per maand in rekening wordt gebracht.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. De bemiddelingsdienst, bedoeld in [artikel 2.3a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.3a):
 
@@ -510,7 +536,7 @@ De aanbieder van de spraakcommunicatiedienst via het openbare elektronische comm
 
 - b. bij oproepen bedoeld in het eerste lid, onder b, voor 85% van de oproepen maximaal 60 seconden.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen:
 
@@ -520,7 +546,7 @@ De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, v
 
 - c. wordt vermoed een adequaat managementsysteem voor informatiebeveiliging als bedoeld in onderdeel b te hebben, indien wordt voldaan aan de norm ISO/IEC 27001.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=9.2) is aangewezen verstrekt aan de eindgebruiker op duidelijke, volledige en begrijpelijke wijze de volgende informatie over de bemiddelingsdienst:
 
@@ -538,7 +564,7 @@ De aanbieder van de bemiddelingsdienst die krachtens [artikel 9.2, eerste lid, v
 
 #### § 4. Nummeridentificatie
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 De op grond van [artikel 11.10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=11.10) te verstrekken locatiegegevens wijken in ten hoogste 15% van de gevallen meer dan 5000 meter af van de werkelijke locatie van het oproepende netwerkaansluitpunt.
 
@@ -594,7 +620,7 @@ De op grond van [artikel 11.10, tweede lid, van de wet](https://wetten.overheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 Vervallen
 
@@ -652,7 +678,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 1. De aanbieder van een openbare elektronische communicatiedienst is een compensatie als bedoeld in [artikel 7.1a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7.1a) verschuldigd als de levering van die openbare elektronische communicatiedienst als gevolg van een storing voor meer dan 12 uur is onderbroken.
 
@@ -674,7 +700,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3.2h
+##### Artikel 3.2h
 
 1. Een nummergebruiker gebruikt een nummer uit de reeks 18 uit het Nummerplan telefoon- en ISDN-diensten om daarover diensten te leveren slechts indien is voldaan aan het bepaalde in het tweede en derde lid.
 
@@ -714,7 +740,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. verbreekt de nummergebruiker de verbinding direct nadat de beller de toestemming, bedoeld in onderdeel b, heeft geweigerd.
 
-#### Artikel 3.2i
+##### Artikel 3.2i
 
 De [artikelen 3.2a tot en met 3.2h](https://wetten.overheid.nl/jci1.3:c:BWBR0016709&paragraaf=3&artikel=3.2a&z=2023-10-01&g=2023-10-01) zijn van toepassing op elk gebruik van een nummer.
 

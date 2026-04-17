@@ -1,13 +1,38 @@
 ---
 title: "Slotdocument inzake de eerste Toetsingsconferentie van het Verdrag inzake Conventionele strijdkrachten in Europa"
 identifier: "BWBV0001228"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-05-15
-laatste_update: 1997-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001228"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-05-15"
+last_updated: "1997-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001228"
+soort: "verdrag"
+stam_id: "10001933933"
+version_id: "10002022302"
+internal_id: "C10006988871"
+label_id: "10001934334"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001228/1997-05-15/0"
+intitule_bron: "Trb.1996-256"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-31"
+intitule_published: "1996-09-27"
+intitule_in_force: "1997-07-30"
+intitule_status: "goed"
+original_publication: "Trb.1996-256"
+original_signed_date: "1996-05-31"
+original_published_date: "1996-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-256"
+entry_into_force_date: "1997-05-15"
+jci_1_3: "jci1.3:c:BWBV0001228&z=1997-05-15&g=1997-05-15"
+jci_1_0: "1.0:c:BWBV0001228&g=1997-05-15"
+citeertitel_status: "redactioneel"
+signed_date: "1996-05-31"
+entry_into_force: "1997-05-15"
 ---
-
 # Slotdocument inzake de eerste Toetsingsconferentie van het Verdrag inzake Conventionele strijdkrachten in Europa
 
 Vienna, 15–31 May 1996
@@ -30,7 +55,7 @@ The 30 States Parties to the [Treaty on Conventional Armed Forces in Europe of N
 
 Have agreed as follows:
 
-#### I
+##### I
 
 1. Each State Party shall, taking into account the clarification set forth in this Document relating to the area described in [Article V, subparagraph 1(A), of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V) and taking into account the understandings on flexibility set forth in this Document, comply fully with the numerical limitations set forth in the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009), including [Article V](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V) thereof, no later than 31 May 1999.
 
@@ -38,7 +63,7 @@ Have agreed as follows:
 
 3. Pursuant to the Decision of the Joint Consultative Group of 17 November 1995, the States Parties shall co-operate to the maximum extent possible to ensure the full implementation of the provisions of this Document.
 
-#### II
+##### II
 
 1. Within the area described in [Article V, subparagraph 1(A), of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V), as understood by the Union of Soviet Socialist Republics at the time the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009) was signed, Russian Federation shall limit its battle tanks, armoured combat vehicles, and artillery so that, no later than 31 May 1999 and thereafter, the aggregate numbers do not exceed:
 
@@ -64,13 +89,13 @@ Have agreed as follows:
 
 - C). 2,422 pieces of artillery.
 
-#### III
+##### III
 
 1. For the purposes of this Document and the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009), the following territory, as constituted on 1 January 1996, of the Russian Federation shall be deemed to be located in the area described in [Article IV, paragraph 2, of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=IV) rather than in the area described in [Article V, subparagraph 1(A), of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V): the Pskov oblast; the Volgograd oblast; the Astrakhan oblast; that part of the Rostov oblast east of the line extending from Kushchevskaya to Volgodonsk to the Volgograd oblast border, including Volgodonsk; and Kushchevskaya and a narrow corridor in Krasnodar kray leading to Kushchevskaya.
 
 2. For the purposes of this Document and the Treaty, the territory of the Odessa oblast, as constituted on 1 January 1996, of Ukraine shall be deemed to be located in the area described in [Article IV, paragraph 3, of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=IV) rather than in the area described in [Article V, subparagraph 1(A), of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V).
 
-#### IV
+##### IV
 
 1. The States Parties shall, during the period before 31 May 1999, examine the Treaty provisions on designated permanent storage sites so as to allow all battle tanks, armoured combat vehicles, and artillery in designated permanent storage sites, including those subject to regional numerical limitations, to be located with active units.
 
@@ -80,7 +105,7 @@ Have agreed as follows:
 
 4. The Russian Federation shall count against the numerical limitations established in the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009) and paragraph 1 of Section II of this Document any armoured combat vehicles listed as “to be removed" in its information exchange of 1 January 1996 that are not so removed by 31 May 1999.
 
-#### V
+##### V
 
 1. In addition to the annual information exchange provided pursuant to Section VII, subparagraph 1(C), of the Protocol on Notification and Exchange of Information, the Russian Federation shall provide information equal to that reported in the annual information exchange on the area described in [Article V, subparagraph 1(A), of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=V), as understood by the Union of Soviet Socialist Republics at the time the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009) was signed, upon provisional application of this Document and every six months after the annual information exchange. In the case of Kush- chevskaya, the Russian Federation shall provide such additional information every three months after the annual information exchange.
 
@@ -102,17 +127,17 @@ Have agreed as follows:
 
 - B). at the discretion of the inspecting State Party, shall be conducted either as a sequential inspection or as a separate inspection.
 
-#### VI
+##### VI
 
 1. This Document shall enter into force upon receipt by the Depositary of notification of confirmation of approval by all States Parties. Section II, paragraphs 2 and 3, Section IV and Section V of this Document are hereby provisionally applied as of 31 May 1996 through 15 December 1996. If this Document does not enter into force by 15 December 1996, then it shall be reviewed by the States Parties.
 
 2. This Document, in all six official languages of the Treaty, shall be deposited with the Government of the Kingdom of the Netherlands, as the designated Depositary for the Treaty, which shall circulate copies of this Document to all States Parties.
 
-#### 1
+##### 1
 
 The States Parties stress the need to ensure that relevant Government authorities charged with Treaty implementation fulfil all the obligations of the Decision of the Joint Consultative Group on the cost of inspections dated 23 May 1995.
 
-#### 2
+##### 2
 
 The States Parties agree that, pursuant to the Protocol on Inspection, Section VII, paragraph 1,
 
@@ -124,35 +149,35 @@ The States Parties agree that, pursuant to the Protocol on Inspection, Section V
 
 - b. in case of such a delay due to **force majeure,**the provisions of Section XI, paragraph 2, of the Protocol on Inspection shall apply.
 
-#### 3
+##### 3
 
 Each State Party shall provide to all other States Parties annually, but not later than 15 December, the complete updated list of inspectors and transport crew members. In case of additions to the list of inspectors and transport crew members, the State Party shall provide the complete updated list, highlighting the additions.
 
-#### 4
+##### 4
 
 Each State Party with territory in the area of application shall provide to all other States Parties during the annual exchange of information the standing diplomatic clearance numbers for their aviation transportation means for the subsequent calendar year.
 
-#### 5
+##### 5
 
 Each State Party shall provide to all other States Parties during the annual exchange of information the list of its officially recognized holidays for the subsequent calendar year.
 
-#### 6
+##### 6
 
 The State Party whose inspection team intends to transit the territory of another State Party prior to conducting the inspection should inform the transited State(s) Party (Parties) about the estimated time of transit, cross-border points and transportation means to be used by the inspection team, as well as a list of inspectors and drivers with passport numbers.
 
-#### 7
+##### 7
 
 The States Parties agree that a specified area may contain declared sites of their own and stationed forces; but all declared sites within a specified area are excluded from an inspection of the specified area (inspections in accordance with Section VIII of the Protocol on Inspection) as they can be inspected only in accordance with Section VII of the Protocol on Inspection.
 
-#### 8
+##### 8
 
 The States Parties agree to send the notification of the intent to inspect simultaneously to the host and the stationing States Parties, if the inspecting State intends to conduct a sequential inspection which involves stationed forces.
 
-#### 9
+##### 9
 
 Where appropriate and with the agreement of the State Party on whose territory an inspection is to be carried out in respect of conventional armaments and equipment limited by the [Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009) of a stationing State Party, the stationing State Party shall assist the host nation in the provision of security protection to both the inspection team and the escort team for the duration of the inspection.
 
-#### 10
+##### 10
 
 Notifications of changes of 10 per cent of holdings:
 
@@ -160,7 +185,7 @@ Notifications of changes of 10 per cent of holdings:
 
 - –. The notification of any change of 10 per cent or more shall be given no later than five days after such change occurs. The time period of five days is understood as being five working days.
 
-#### 11
+##### 11
 
 The States Parties agree to notify:
 
@@ -170,10 +195,10 @@ The States Parties agree to notify:
 
 - –. Any creation of, or relocation of, an object of verification at least 42 days in advance.
 
-#### 12
+##### 12
 
 The States Parties agree that, in addition to the requirements for the submission of information and notifications as prescribed in [Article XVII of the Treaty](https://wetten.overheid.nl/jci1.3:c:BWBV0002009&artikel=XVII) and in paragraph 1 of the Annex on the Format for the Exchange of Information to the Protocol on Notification and Exchange of Information, they will endeavour to supplement the annual exchange of information pursuant to the aforementioned Protocol in written form by an electronic data version on diskette in the agreed format, the written form remaining the official version.
 
-#### 13
+##### 13
 
 Each State Party should notify to all other States Parties its passive declared site inspection quota coincident with each annual exchange of information provided pursuant to the Protocol on Notification and Exchange of Information, Section VII, subparagraph 1(C).

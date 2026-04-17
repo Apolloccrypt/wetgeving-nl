@@ -1,13 +1,32 @@
 ---
 title: "Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden"
 identifier: "BWBV0006419"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-09-18
-laatste_update: 2014-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006419"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-09-18"
+last_updated: "2014-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006419"
+soort: "verdrag"
+stam_id: "10005242283"
+version_id: "10005630572"
+internal_id: "C10008775561"
+label_id: "10005225514"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006419/2014-09-18/0"
+intitule_bron: "Trb.2014-192"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-11-11"
+intitule_status: "nogniet"
+original_publication: "Trb.2014-192"
+original_published_date: "2014-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-192"
+jci_1_3: "jci1.3:c:BWBV0006419&z=2014-09-18&g=2014-09-18"
+jci_1_0: "1.0:c:BWBV0006419&g=2014-09-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-11-11"
 ---
-
 # Verdrag van de Raad van Europa inzake de manipulatie van sportwedstrijden
 
 Preambule
@@ -70,7 +89,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOEL, RICHTSNOEREN, BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Doel en voornaamste doelstellingen
+##### Artikel 1. Doel en voornaamste doelstellingen
 
 1. Het doel van dit Verdrag is de manipulatie van sportwedstrijden te bestrijden teneinde de integriteit van de sport en de ethiek in de sport te beschermen in overeenstemming met het beginsel van de autonomie van de sport.
 
@@ -80,7 +99,7 @@ Zijn het volgende overeengekomen:
 
 - b. het stimuleren van nationale en internationale samenwerking tegen de manipulatie van sportwedstrijden tussen de betrokken publieke autoriteiten alsmede de organisaties die betrokken zijn bij sport en sportweddenschappen.
 
-#### Artikel 2. Richtsnoeren
+##### Artikel 2. Richtsnoeren
 
 1. Bij de bestrijding van de manipulatie van sportwedstrijden dient de eerbiediging van onder meer de volgende beginselen te worden gewaarborgd:
 
@@ -92,7 +111,7 @@ Zijn het volgende overeengekomen:
 
 - d. bescherming van de persoonlijke levenssfeer en persoonsgegevens.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -124,23 +143,23 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. PREVENTIE, SAMENWERKING EN ANDERE MAATREGELEN
 
-#### Artikel 4. Nationale coördinatie
+##### Artikel 4. Nationale coördinatie
 
 1. Elke partij coördineert het beleid en de maatregelen van alle publieke autoriteiten die betrokken zijn bij de bestrijding van de manipulatie van sportwedstrijden.
 
 2. Elke partij moedigt binnen haar rechtsgebied sportorganisaties, wedstrijdorganisatoren en exploitanten van sportweddenschappen aan samen te werken bij de bestrijding van de manipulatie van sportwedstrijden en vertrouwt hun, indien van toepassing, de uitvoering van de relevante bepalingen van dit Verdrag toe.
 
-#### Artikel 5. Risicobeoordeling en risicomanagement
+##### Artikel 5. Risicobeoordeling en risicomanagement
 
 1. Elke partij identificeert, analyseert en evalueert – indien van toepassing in samenwerking met sportorganisaties, wedstrijdorganisatoren en exploitanten van sportweddenschappen en andere relevante organisaties – de risico’s die verband houden met de manipulatie van sportwedstrijden.
 
 2. Elke partij moedigt sportorganisaties, exploitanten van sportweddenschappen, wedstrijdorganisatoren, en andere betrokken organisaties aan procedures en regels vast te stellen teneinde de manipulatie van sportwedstrijden te bestrijden en, indien van toepassing, neemt de daartoe benodigde wetgevende of andere maatregelen.
 
-#### Artikel 6. Voorlichting en bewustwording
+##### Artikel 6. Voorlichting en bewustwording
 
 1. Elke partij moedigt bewustwording, voorlichting, training en onderzoek aan ter versterking van de bestrijding van de manipulatie van sportwedstrijden.
 
-#### Artikel 7. Sportorganisaties en wedstrijdorganisatoren
+##### Artikel 7. Sportorganisaties en wedstrijdorganisatoren
 
 1. Elke partij moedigt sportorganisaties en wedstrijdorganisatoren aan regels aan te nemen en te implementeren ter bestrijding van de manipulatie van sportwedstrijden alsmede beginselen van goed bestuur, die onder meer betrekking hebben op:
 
@@ -170,7 +189,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Door sportorganisaties vastgestelde tuchtrechtelijke verantwoordelijkheid sluit geen strafrechtelijke, civiele of bestuursrechtelijke verantwoordelijkheid uit.
 
-#### Artikel 8. Maatregelen ten aanzien van de financiering van sportorganisaties
+##### Artikel 8. Maatregelen ten aanzien van de financiering van sportorganisaties
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn voor het waarborgen van voldoende transparantie omtrent de financiering van sportorganisaties die financieel ondersteund worden door die partij.
 
@@ -180,7 +199,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Indien van toepassing neemt elke partij stappen teneinde financiële of andere aan sport gerelateerde ondersteuning geheel of gedeeltelijk te onthouden aan sportorganisaties die de voorschriften voor de bestrijding van de manipulatie van sportwedstrijden niet effectief toepassen.
 
-#### Artikel 9. Maatregelen ten aanzien van de regelgevende autoriteit op het gebied van weddenschappen of andere verantwoordelijke autoriteiten
+##### Artikel 9. Maatregelen ten aanzien van de regelgevende autoriteit op het gebied van weddenschappen of andere verantwoordelijke autoriteiten
 
 1. Elke partij wijst een of meer verantwoordelijke autoriteiten aan die binnen de rechtsorde van de partij belast wordt of worden met de implementatie van de regelgeving omtrent sportweddenschappen en met de toepassing van de relevante maatregelen ter bestrijding van de manipulatie van sportwedstrijden met betrekking tot sportweddenschappen, indien van toepassing met inbegrip van:
 
@@ -202,7 +221,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Elke partij doet de Secretaris-Generaal van de Raad van Europa de naam en het adres toekomen van de autoriteit of autoriteiten aangewezen uit hoofde van het eerste lid van dit artikel.
 
-#### Artikel 10. Exploitanten van sportweddenschappen
+##### Artikel 10. Exploitanten van sportweddenschappen
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om belangenverstrengeling en misbruik van voorkennis door natuurlijke personen of rechtspersonen die betrokken zijn bij het aanbieden van producten op het gebied van sportweddenschappen te voorkomen, in het bijzonder via het beperken van de mogelijkheid:
 
@@ -218,7 +237,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om exploitanten van sportweddenschappen te verplichten onregelmatige of verdachte weddenschappen onverwijld te melden aan de regelgevende autoriteit op het gebied van weddenschappen, de overige verantwoordelijke autoriteit(en) of het nationale platform.
 
-#### Artikel 11. De bestrijding van illegale sportweddenschappen
+##### Artikel 11. De bestrijding van illegale sportweddenschappen
 
 1. Ten behoeve van de bestrijding van de manipulatie van sportwedstrijden onderzoekt elke partij de meest geschikte manieren om exploitanten van illegale sportweddenschappen aan te pakken en overweegt zij het nemen van maatregelen in overeenstemming met het toepasselijke recht op het desbetreffende grondgebied, waaronder:
 
@@ -232,7 +251,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. UITWISSELING VAN INFORMATIE
 
-#### Artikel 12. Uitwisseling van informatie tussen de bevoegde publieke autoriteiten, sportorganisaties en exploitanten van sportweddenschappen
+##### Artikel 12. Uitwisseling van informatie tussen de bevoegde publieke autoriteiten, sportorganisaties en exploitanten van sportweddenschappen
 
 1. Onverminderd [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=III&artikel=14&z=2014-09-18&g=2014-09-18) maakt elke partij op nationaal en internationaal niveau en in overeenstemming met haar nationale recht de uitwisseling van informatie mogelijk tussen de relevante publieke autoriteiten, sportorganisaties, wedstrijdorganisatoren, exploitanten van sportweddenschappen en nationale platforms. Elke partij verplicht zich in het bijzonder mechanismen in te stellen voor het delen van relevante informatie, met name het vooraf verstrekken van informatie aan de wedstrijdorganisatoren over de soorten en onderwerpen van producten op het gebied van weddenschappen, wanneer dergelijke informatie kan helpen bij de uitvoering van de risicoanalyses bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=II&artikel=5&z=2014-09-18&g=2014-09-18) en bij het instellen of uitvoeren van onderzoek of procedures inzake de manipulatie van sportwedstrijden.
 
@@ -240,7 +259,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke partij onderzoekt mogelijkheden voor het ontwikkelen of verbeteren van de samenwerking en uitwisseling van informatie in het kader van de bestrijding van illegale sportweddenschappen zoals omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=II&artikel=11&z=2014-09-18&g=2014-09-18) van dit Verdrag.
 
-#### Artikel 13. Nationaal platform
+##### Artikel 13. Nationaal platform
 
 1. Elke partij wijst een nationaal platform aan voor de aanpak van de manipulatie van sportwedstrijden. In overeenstemming met het nationale recht zal het nationale platform onder meer:
 
@@ -256,7 +275,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Elke partij stelt de Secretaris-Generaal van de Raad van Europa in kennis van de naam en de adressen van het nationale platform.
 
-#### Artikel 14. Bescherming van persoonsgegevens
+##### Artikel 14. Bescherming van persoonsgegevens
 
 1. Elke partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om te waarborgen dat alle maatregelen tegen de manipulatie van sportwedstrijden voldoen aan de desbetreffende nationale en internationale wetgeving en normen inzake de bescherming van persoonsgegevens, in het bijzonder wat betreft de uitwisseling van informatie waarop dit Verdrag betrekking heeft.
 
@@ -268,11 +287,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK IV. MATERIEEL STRAFRECHT EN SAMENWERKING TEN BEHOEVE VAN DE HANDHAVING
 
-#### Artikel 15. Strafbare feiten die betrekking hebben op de manipulatie van sportwedstrijden
+##### Artikel 15. Strafbare feiten die betrekking hebben op de manipulatie van sportwedstrijden
 
 1. Elke partij ziet erop toe dat haar nationale wetgeving het mogelijk maakt de manipulatie van sportwedstrijden strafbaar te stellen indien daarbij gebruik wordt gemaakt van dwang, corruptie of frauduleuze praktijken zoals omschreven in haar nationale wetgeving.
 
-#### Artikel 16. Witwassen van de opbrengsten van strafbare feiten die betrekking hebben op de manipulatie van sportwedstrijden
+##### Artikel 16. Witwassen van de opbrengsten van strafbare feiten die betrekking hebben op de manipulatie van sportwedstrijden
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om te waarborgen dat gedragingen bedoeld in [artikel 9, eerste en tweede lid, van het Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en confiscatie van opbrengsten van misdrijven en de financiering van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBV0003045&artikel=9) (2005, CETS nr. 198), in [artikel 6, eerste lid, van het Verdrag van de Verenigde Naties tegen grensoverschrijdende georganiseerde misdaad](https://wetten.overheid.nl/jci1.3:c:BWBV0001668&artikel=6) (2000) of in [artikel 23, eerste lid, van het Verdrag van de Verenigde Naties tegen corruptie](https://wetten.overheid.nl/jci1.3:c:BWBV0001830&artikel=23) (2003), onder de daarin bedoelde voorwaarden strafbaar worden gesteld in haar nationale wetgeving, indien het gronddelict dat leidt tot opbrengsten behoort tot de feiten omschreven in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IV&artikel=15&z=2014-09-18&g=2014-09-18) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IV&artikel=17&z=2014-09-18&g=2014-09-18) van dit Verdrag en in elk geval van afpersing, corruptie en fraude.
 
@@ -280,11 +299,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke partij overweegt de manipulatie van sportwedstrijden op te nemen in haar kader ter voorkoming van het witwassen van geld door van de exploitanten van sportweddenschappen te verlangen dat zij vereisten van due diligence hanteren ten aanzien van klanten, registratie en rapportage.
 
-#### Artikel 17. Deelneming en medeplichtigheid
+##### Artikel 17. Deelneming en medeplichtigheid
 
 1. Elke partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om de opzettelijke deelneming en medeplichtigheid aan elk van de overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IV&artikel=15&z=2014-09-18&g=2014-09-18) van dit Verdrag omschreven feiten strafbaar te stellen volgens haar nationale wetgeving.
 
-#### Artikel 18. Strafrechtelijke aansprakelijkheid van rechtspersonen
+##### Artikel 18. Strafrechtelijke aansprakelijkheid van rechtspersonen
 
 1. Elke partij neemt de wetgevende en andere maatregelen die nodig kunnen zijn om zich ervan te vergewissen dat rechtspersonen aansprakelijk kunnen worden gesteld voor de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag, wanneer deze te hunner voordele zijn gepleegd door een natuurlijke persoon, handelend ofwel individueel ofwel als lid van een orgaan van de rechtspersoon, die binnen die rechtspersoon een leidinggevende functie vervult die gebaseerd is op:
 
@@ -302,7 +321,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK V. RECHTSMACHT, STRAFRECHTELIJKE PROCEDURE EN HANDHAVING
 
-#### Artikel 19. Rechtsmacht
+##### Artikel 19. Rechtsmacht
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig kunnen zijn om haar rechtsmacht te vestigen met betrekking tot de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag, indien een dergelijk strafbaar feit wordt gepleegd:
 
@@ -322,11 +341,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Onverminderd de algemene regels van internationaal recht, sluit dit Verdrag geen strafrechtelijke, civiele en bestuursrechtelijke rechtsmacht uit in strafzaken die een partij in overeenstemming met haar nationale recht uitoefent.
 
-#### Artikel 20. Maatregelen teneinde elektronisch bewijsmateriaal veilig te stellen
+##### Artikel 20. Maatregelen teneinde elektronisch bewijsmateriaal veilig te stellen
 
 1. Elke partij neemt wetgevende of andere maatregelen om elektronisch bewijs veilig te stellen, onder meer door het met spoed bewaren van opgeslagen computergegevens, met spoed bewaren en bekendmaken van verkeersgegevens, bevelen tot het overleggen van stukken, opsporen van en beslag leggen op opgeslagen computergegevens, real-time verzamelen van verkeersgegevens en het onderscheppen van inhoudelijke gegevens in overeenstemming met haar nationale recht tijdens het onderzoek naar de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag.
 
-#### Artikel 21. Beschermende maatregelen
+##### Artikel 21. Beschermende maatregelen
 
 1. Elke partij overweegt het nemen van de wettelijke maatregelen die nodig kunnen zijn voor het verschaffen van effectieve bescherming aan:
 
@@ -338,11 +357,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK VI. SANCTIES EN MAATREGELEN
 
-#### Artikel 22. Strafrechtelijke sancties tegen natuurlijke personen
+##### Artikel 22. Strafrechtelijke sancties tegen natuurlijke personen
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag gepleegd door natuurlijke personen worden bestraft met doeltreffende, proportionele en afschrikkende straffen, met inbegrip van financiële sancties, rekening houdend met de ernst van de feiten. Deze sancties omvatten straffen die vrijheidsbeneming met zich brengen en tot uitlevering kunnen leiden, zoals omschreven in het nationale recht.
 
-#### Artikel 23. Sancties tegen rechtspersonen
+##### Artikel 23. Sancties tegen rechtspersonen
 
 1. Elke partij neemt de wetgevende of andere maatregelen die nodig zijn om te waarborgen dat rechtspersonen die aansprakelijk worden gesteld overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IV&artikel=18&z=2014-09-18&g=2014-09-18) onderworpen worden aan doeltreffende, proportionele en afschrikkende straffen, met inbegrip van financiële sancties en eventueel andere maatregelen, zoals:
 
@@ -352,13 +371,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. een gerechtelijke maatregel tot liquidatie.
 
-#### Artikel 24. Bestuursrechtelijke sancties
+##### Artikel 24. Bestuursrechtelijke sancties
 
 1. Elke partij neemt waar nodig de wetgevende of andere maatregelen ter zake van volgens haar nationale recht strafbaar gestelde feiten zodat in overeenstemming met dit Verdrag vastgestelde overtredingen worden bestraft met doeltreffende, proportionele en afschrikkende straffen en maatregelen na procedures ingesteld door de bestuurlijke autoriteiten, indien de beslissing aanleiding kan zijn voor een procedure ten overstaan van een bevoegde rechter.
 
 2. Elke partij ziet erop toe dat bestuursrechtelijke maatregelen worden toegepast. Dit kan worden gedaan door de regelgevende autoriteit op het gebied van weddenschappen of andere verantwoordelijke autoriteiten in overeenstemming met haar nationale recht.
 
-#### Artikel 25. Inbeslagneming en verbeurdverklaring
+##### Artikel 25. Inbeslagneming en verbeurdverklaring
 
 1. Elke partij neemt in overeenstemming met haar nationale recht de wetgevende of andere maatregelen die nodig zijn teneinde inbeslagneming en verbeurdverklaring toe te staan van:
 
@@ -368,7 +387,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK VII. INTERNATIONALE SAMENWERKING IN JUSTITIËLE EN ANDERE AANGELEGENHEDEN
 
-#### Artikel 26. Maatregelen met het oog op internationale samenwerking bij strafzaken
+##### Artikel 26. Maatregelen met het oog op internationale samenwerking bij strafzaken
 
 1. De partijen werken in de ruimst mogelijke mate met elkaar samen in overeenstemming met de bepalingen van dit Verdrag en in overeenstemming met de relevante van toepassing zijnde internationale en regionale instrumenten en regelingen overeengekomen op basis van uniforme of wederkerige wetgeving en met hun nationale recht ten behoeve van de opsporing, vervolging en gerechtelijke procedures met betrekking tot de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag, met inbegrip van inbeslagneming en verbeurdverklaring.
 
@@ -378,21 +397,21 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. Indien een partij die uitlevering of wederzijdse rechtshulp in strafzaken afhankelijk maakt van het bestaan van een verdrag, een verzoek tot uitlevering of rechtshulp in strafzaken ontvangt van een partij waarmee zij een dergelijk verdrag niet heeft gesloten, kan zij mits zij volledig voldoet aan haar verplichtingen uit hoofde van internationaal recht en overeenkomstig de voorwaarden voorzien in haar eigen nationale recht, dit Verdrag beschouwen als de juridische grondslag voor uitlevering of wederzijdse rechtshulp in strafzaken op grond van de strafbare feiten bedoeld in de artikelen 15 tot en met 17 van dit Verdrag.
 
-#### Artikel 27. Andere maatregelen tot internationale samenwerking ten behoeve van preventie
+##### Artikel 27. Andere maatregelen tot internationale samenwerking ten behoeve van preventie
 
 1. Elke partij streeft ernaar waar mogelijk de preventie en bestrijding van de manipulatie van sportwedstrijden te integreren in hulpprogramma’s ten behoeve van derde staten.
 
-#### Artikel 28. Internationale samenwerking met internationale sportorganisaties
+##### Artikel 28. Internationale samenwerking met internationale sportorganisaties
 
 1. Elke partij werkt in overeenstemming met haar nationale recht samen met internationale sportorganisaties bij de bestrijding van de manipulatie van sportwedstrijden.
 
 ### HOOFDSTUK VIII. FOLLOW-UP
 
-#### Artikel 29. Verstrekking van informatie
+##### Artikel 29. Verstrekking van informatie
 
 1. Elke partij doet de Secretaris-Generaal van de Raad van Europa alle relevante informatie in een van de officiële talen van de Raad van Europa toekomen over de wetgevende en andere maatregelen die zij heeft getroffen teneinde te voldoen aan de voorwaarden van dit Verdrag.
 
-#### Artikel 30. Comité voor de follow-up van het Verdrag
+##### Artikel 30. Comité voor de follow-up van het Verdrag
 
 1. Voor de toepassing van dit Verdrag wordt hierbij het Comité voor de follow-up van het Verdrag ingesteld.
 
@@ -406,7 +425,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Het Comité voor de follow-up van het Verdrag krijgt bij de uitvoering van zijn taken ondersteuning van het Secretariaat van de Raad van Europa.
 
-#### Artikel 31. Taken van het Comité voor de follow-up van het Verdrag
+##### Artikel 31. Taken van het Comité voor de follow-up van het Verdrag
 
 1. Het Comité voor de follow-up van het Verdrag is verantwoordelijk voor de follow-up van de implementatie van dit Verdrag.
 
@@ -432,7 +451,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK IX. SLOTBEPALINGEN
 
-#### Artikel 32. Ondertekening en inwerkingtreding
+##### Artikel 32. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, de andere staten die partij zijn bij het Europees Cultureel Verdrag, de Europese Unie en de niet-lidstaten die hebben deelgenomen aan de opstelling ervan of de status van waarnemer hebben bij de Raad van Europa.
 
@@ -446,7 +465,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Een verdragsluitende partij die geen lid is van de Raad van Europa draagt bij aan de financiering van het Comité voor de follow-up van het Verdrag op een wijze vast te stellen door het Comité van Ministers na overleg met die partij.
 
-#### Artikel 33. Gevolgen van het Verdrag en de verhouding tot andere internationale instrumenten
+##### Artikel 33. Gevolgen van het Verdrag en de verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag laat onverlet de rechten en verplichtingen van de partijen die voortvloeien uit internationale multilaterale verdragen inzake specifieke aangelegenheden. Dit Verdrag leidt niet tot verandering van hun rechten en verplichtingen die voortvloeien uit andere, eerder gesloten verdragen ter zake van de bestrijding van doping en verenigbaar zijn met het onderwerp en het doel van dit Verdrag.
 
@@ -466,7 +485,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Niets in dit Verdrag tast de overige rechten, beperkingen, verplichtingen en verantwoordelijkheden van de partijen aan.
 
-#### Artikel 34. Voorwaarden en waarborgen
+##### Artikel 34. Voorwaarden en waarborgen
 
 1. Elke partij ziet erop toe dat op het vaststellen, implementeren en toepassen van de bevoegdheden en procedures voorzien in de hoofdstukken II tot en met VII de voorwaarden en waarborgen voorzien in haar nationale recht van toepassing zijn, die moeten voorzien in de adequate bescherming van de rechten en vrijheden van de mens, met inbegrip van de rechten die voortvloeien uit de verplichtingen die zij heeft aanvaard uit hoofde van het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000), het [Internationaal Verdrag van de Verenigde Naties inzake burgerrechten en politieke rechten](https://wetten.overheid.nl/jci1.3:c:BWBV0001017) van 1966 en andere van toepassing zijnde internationale instrumenten op het gebied van mensenrechten en die het beginsel van proportionaliteit integreren in haar nationale recht.
 
@@ -474,7 +493,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Voor zover zulks verenigbaar is met het openbaar belang, in het bijzonder met een behoorlijke rechtsbedeling, neemt elke partij de gevolgen van de bevoegdheden en procedures in deze hoofdstukken voor de rechten, verantwoordelijkheden en gerechtvaardigde belangen van derden in overweging.
 
-#### Artikel 35. Territoriale toepassing
+##### Artikel 35. Territoriale toepassing
 
 1. Elke staat of de Europese Unie kan, op het tijdstip van de ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding of goedkeuring het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -482,7 +501,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 36. Federale clausule
+##### Artikel 36. Federale clausule
 
 1. Een federale staat kan zich het recht voorbehouden verplichtingen ingevolge de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=II&z=2014-09-18&g=2014-09-18), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IV&z=2014-09-18&g=2014-09-18), [V](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=V&z=2014-09-18&g=2014-09-18) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=VI&z=2014-09-18&g=2014-09-18) van dit Verdrag te aanvaarden conform zijn fundamentele beginselen die van toepassing zijn op de relatie tussen zijn centrale overheid en constituerende staten of andere soortgelijke territoriale entiteiten, mits hij in staat blijft tot samenwerking ingevolge de hoofdstukken [III](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=III&z=2014-09-18&g=2014-09-18) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=VII&z=2014-09-18&g=2014-09-18).
 
@@ -490,7 +509,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Ten aanzien van de bepalingen van dit Verdrag, waarvan de toepassing onder de rechtsmacht valt van de afzonderlijke constituerende staten of andere soortgelijke territoriale entiteiten die door het constitutionele stelsel van de federatie niet verplicht zijn wetgevende maatregelen te treffen, stelt de federale regering de bevoegde autoriteiten van deze staten in kennis van genoemde bepalingen, tezamen met haar aanbeveling de passende maatregelen te nemen teneinde er gevolg aan te geven.
 
-#### Artikel 37. Voorbehouden
+##### Artikel 37. Voorbehouden
 
 1. Door middel van een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa kan een staat of de Europese Unie op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding of goedkeuring verklaren dat hij of zij gebruikmaakt van de voorbehouden voorzien in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=V&artikel=19&z=2014-09-18&g=2014-09-18), en [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IX&artikel=36&z=2014-09-18&g=2014-09-18). Andere voorbehouden zijn niet toegestaan.
 
@@ -500,7 +519,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De Secretaris-Generaal van de Raad van Europa kan met regelmatige tussenpozen bij de partijen die een of meerdere voorbehouden hebben gemaakt, informeren naar de mogelijke intrekking daarvan.
 
-#### Artikel 38. Wijzigingen
+##### Artikel 38. Wijzigingen
 
 1. Wijzigingen van artikelen van dit Verdrag kunnen worden voorgesteld door een partij, het Comité voor de follow-up van dit Verdrag of het Comité van Ministers van de Raad van Europa.
 
@@ -514,7 +533,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Indien een wijziging is aangenomen door het Comité van Ministers, maar nog niet in werking is getreden in overeenstemming met het vijfde lid, mag een staat of de Europese Unie niet verklaren zich door het Verdrag gebonden te achten zonder tegelijkertijd de wijziging te aanvaarden.
 
-#### Artikel 39. Beslechting van geschillen
+##### Artikel 39. Beslechting van geschillen
 
 1. Het Comité voor de follow-up van dit Verdrag wordt in nauwe samenwerking met de relevante intergouvernementele comités van de Raad van Europa op de hoogte gehouden van eventuele moeilijkheden met betrekking tot de uitlegging en toepassing van dit Verdrag.
 
@@ -522,13 +541,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Het Comité van Ministers van de Raad van Europa kan procedures voor de regeling van geschillen vaststellen die partijen bij een geschil met wederzijds goedvinden kunnen gebruiken.
 
-#### Artikel 40. Opzegging
+##### Artikel 40. Opzegging
 
 1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 41. Kennisgeving
+##### Artikel 41. Kennisgeving
 
 1. De Secretaris-Generaal van de Raad van Europa stelt de partijen, de lidstaten van de Raad van Europa, de overige staten die partij zijn bij het Europees Cultureel Verdrag, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag of de status van waarnemer genieten bij de Raad van Europa, de Europese Unie en elke staat die is uitgenodigd dit Verdrag te ondertekenen in overeenstemming met de bepalingen van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0006419&hoofdstuk=IX&artikel=32&z=2014-09-18&g=2014-09-18) in kennis van:
 

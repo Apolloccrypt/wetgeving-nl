@@ -1,13 +1,35 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Internationaal Instituut voor Democratie en Verkiezingsondersteuning inzake de immuniteit en privileges van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning en zijn functionarissen"
 identifier: "BWBV0005877"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-09-01
-laatste_update: 2012-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005877"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-09-01"
+last_updated: "2012-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005877"
+soort: "verdrag"
+stam_id: "10004909283"
+version_id: "10005224012"
+internal_id: "C10008007741"
+label_id: "10004892804"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005877/2012-09-01/0"
+intitule_bron: "Trb.2012-157"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-08-29"
+intitule_in_force: "2012-08-29"
+intitule_status: "goed"
+original_publication: "Trb.2012-157"
+original_published_date: "2012-08-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-157"
+entry_into_force_date: "2012-09-01"
+jci_1_3: "jci1.3:c:BWBV0005877&z=2012-09-01&g=2012-09-01"
+jci_1_0: "1.0:c:BWBV0005877&g=2012-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-09-01"
 ---
-
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en het Internationaal Instituut voor Democratie en Verkiezingsondersteuning inzake de immuniteit en privileges van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning en zijn functionarissen
 
 The Kingdom of the Netherlands
@@ -32,7 +54,7 @@ Desiring to lay down conditions concerning the immunity and privileges of the Or
 
 have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purpose of this Agreement,
 
@@ -66,11 +88,11 @@ For the purpose of this Agreement,
 
 - k). “premises” means the building or part thereof, including installations and facilities made available to, maintained or occupied or used by International IDEA in connection with its functions and purposes.
 
-#### Article 2. Purpose
+##### Article 2. Purpose
 
 This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of International IDEA in the Host Country. It shall, inter alia, create conditions conducive to the stability and independence of the Organization and facilitate its smooth and efficient functioning.
 
-#### Article 3. Legal status and juridical personality
+##### Article 3. Legal status and juridical personality
 
 International IDEA shall possess in the Host Country full legal personality in accordance with Article 1.3 of its Statutes. This shall, in particular, include the capacity:
 
@@ -80,25 +102,25 @@ International IDEA shall possess in the Host Country full legal personality in a
 
 - c). to institute proceedings.
 
-#### Article 4. Inviolability of the premises
+##### Article 4. Inviolability of the premises
 
 1. The premises of International IDEA shall be inviolable. The competent authorities shall ensure that the Organization is not dispossessed or deprived of all or any part of its premises without its proper consent. Judicial actions and the service and execution of legal process, including the seizure of private property, cannot be enforced on the premises of International IDEA except with the consent and in accordance with conditions approved by the Secretary-General.
 
 2. In case of fire or other emergency requiring prompt protective action or in the event that the competent authorities have reasonable cause to believe that such an emergency has occurred or is about to occur on the premises, the consent by the Head of Office or a staff member of the Organization so designated by him or her, to any necessary entry into the premises shall be presumed if neither of them can be contacted in time.
 
-#### Article 5. Protection of the premises
+##### Article 5. Protection of the premises
 
 1. The Host Country shall exercise due diligence to ensure that the security and tranquility of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the Host Country authorities shall provide adequate police protection on the boundaries and in the vicinity of the Organization’s premises.
 
 2. International IDEA shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-#### Article 6. Public services for the premises
+##### Article 6. Public services for the premises
 
 1. The competent authorities shall secure, upon request of the Head of Office or a staff member to whom such tasks are delegated, on fair and equitable conditions the public services required by International IDEA, such as, but not limited to, postal, telephone, internet, telegraphic sources, any means of communication, electricity, water, gas, sewage, waste collection, fire protection and cleaning of public streets.
 
 2. In case of interruption or threatened interruption of any such sources, the Organization shall be accorded the priority given to essential agencies and organs of the Government and the competent authorities shall act accordingly to ensure that the work of the Organization is not prejudiced.
 
-#### Article 7. Law and authority on the premises
+##### Article 7. Law and authority on the premises
 
 1. The premises shall be under the control and authority of International IDEA as provided in this Agreement.
 
@@ -106,17 +128,17 @@ International IDEA shall possess in the Host Country full legal personality in a
 
 3. International IDEA may expel or exclude persons from the premises for violation of its regulations.
 
-#### Article 8. Facilities and immunities in respect of communications
+##### Article 8. Facilities and immunities in respect of communications
 
 1. The Government shall permit International IDEA to communicate freely and without a need for special permission, for all official purposes and shall protect the right of the Organization to do so.
 
 2. No censorship shall be applied to the official communications or correspondence of International IDEA, whether in physical or digital form or in any other electronic format.
 
-#### Article 9. Inviolability of archives, documents and materials
+##### Article 9. Inviolability of archives, documents and materials
 
 The archives of the Organization, and all papers and documents in whatever form and materials being sent from or to the Organization, held by the Organization or belonging to it, wherever located and by whomsoever held, shall be inviolable.
 
-#### Article 10. Freedom of financial assets from restrictions
+##### Article 10. Freedom of financial assets from restrictions
 
 1. Without being subject to any financial controls, regulations, notification requirements in respect of financial transactions or moratoria of any kind, International IDEA may freely:
 
@@ -130,7 +152,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 2. International IDEA shall enjoy treatment not less favorable than that accorded by the Host Country to any intergovernmental organization in respect of rates of exchange for its financial transactions.
 
-#### Article 11. Funds, assets and other property
+##### Article 11. Funds, assets and other property
 
 1. International IDEA, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process and execution in the Netherlands, except insofar as in any particular case the Organization has expressly waived its immunity. It is understood, however, that no waiver of immunity shall extend to any measure of execution.
 
@@ -138,7 +160,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 3. To the extent necessary to carry out the functions of the Organization, funds, assets and other property of International IDEA, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.
 
-#### Article 12. Exemption from taxes and duties
+##### Article 12. Exemption from taxes and duties
 
 1. Within the scope of its official activities, International IDEA, its assets, income and other property shall be exempt from all direct taxes levied by the Host Country authorities.
 
@@ -170,7 +192,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 5. No exemption will be granted in respect of taxes and duties which represent charges for specific services rendered.
 
-#### Article 13. Entry, stay and departure
+##### Article 13. Entry, stay and departure
 
 1. The Government shall facilitate, if required, the entry, stay and departure for purposes of official business of the persons listed below and members of the family of such persons, forming part of the household:
 
@@ -188,7 +210,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 3. Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.
 
-#### Article 14. Privileges, immunities and facilities of members of the Council and other organs of International IDEA
+##### Article 14. Privileges, immunities and facilities of members of the Council and other organs of International IDEA
 
 1. Representatives of States who are members of the Council of International IDEA shall enjoy, while exercising their functions within the Kingdom of the Netherlands, the privileges (except for the financial and fiscal privileges), immunities and facilities accorded to heads of diplomatic missions accredited to the Kingdom of the Netherlands in accordance with the [Vienna Convention on Diplomatic Relations](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) of 18 April 1961.
 
@@ -202,7 +224,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 - c). the same facilities as regards monetary and exchange regulations and as regards their personal luggage as are accorded to Officials of foreign governments on temporary official mission.
 
-#### Article 15. Privileges, immunities and facilities of Officials and Experts of International IDEA
+##### Article 15. Privileges, immunities and facilities of Officials and Experts of International IDEA
 
 1. Officials of International IDEA shall enjoy within the Kingdom of the Netherlands the following privileges and immunities:
 
@@ -248,7 +270,7 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 - d). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for International IDEA.
 
-#### Article 16. Interns
+##### Article 16. Interns
 
 1. Within eight days of the first arrival of interns in the Kingdom of the Netherlands International IDEA shall request the Government to register them in accordance with paragraph 2 of this Article.
 
@@ -276,19 +298,19 @@ The archives of the Organization, and all papers and documents in whatever form 
 
 6. International IDEA shall notify the Government of the final departure of the intern from International IDEA within eight days after such departure, and shall at the same time return the intern’s identity card.
 
-#### Article 17. Personnel recruited locally and not otherwise covered by this Agreement
+##### Article 17. Personnel recruited locally and not otherwise covered by this Agreement
 
 Personnel recruited locally and assigned to hourly rates by International IDEA and not otherwise covered by this Agreement shall be accorded immunity from legal process in respects of words spoken or written and all acts performed by them in their official capacity for the Organization. The terms and conditions of employment of such individuals shall be in accordance with the relevant rules and regulations and policies of the Organization.
 
-#### Article 18. Exceptions to immunities
+##### Article 18. Exceptions to immunities
 
 The immunity granted to persons mentioned in [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=14&z=2012-09-01&g=2012-09-01), and [Article 15, paragraph 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-09-01&g=2012-09-01), shall not extend to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
-#### Article 19. Protection of personnel
+##### Article 19. Protection of personnel
 
 The Government shall – if so requested by the Head of Office – take all reasonable steps to ensure the necessary safety and protection to the persons mentioned in this Agreement whose security is endangered due to their services to International IDEA.
 
-#### Article 20. Notification
+##### Article 20. Notification
 
 1. International IDEA shall promptly notify the Government of:
 
@@ -310,21 +332,21 @@ The Government shall – if so requested by the Head of Office – take all reas
 
 3. International IDEA shall promptly return the identification cards upon termination of employment of the Official.
 
-#### Article 21. Social security
+##### Article 21. Social security
 
 Officials of the Organization shall be covered by appropriate social security arrangements made by the Organization and shall be exempt from any social security scheme established by the law of the Kingdom of the Netherlands, unless the Officials to whom the aforementioned scheme applies take up gainful activity in the Netherlands.
 
-#### Article 22. Employment
+##### Article 22. Employment
 
 Members of the family forming part of the household of Officials who are not nationals of a European Union member State, shall be granted working permits for the duration of the employment of the Official with International IDEA in the Kingdom of the Netherlands.
 
-#### Article 23. Waiver of immunities
+##### Article 23. Waiver of immunities
 
 1. Privileges and immunities are granted to Officials and Experts in the interest of International IDEA and not for the personal benefit of the individuals themselves. The Secretary-General shall have the right and the duty to waive the immunity of any person mentioned in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=15&z=2012-09-01&g=2012-09-01) and [16](https://wetten.overheid.nl/jci1.3:c:BWBV0005877&artikel=16&z=2012-09-01&g=2012-09-01) in any case where, in his or her opinion, the immunity would impede the course of justice and can be waived without prejudice to the Organization. The Council shall have the right to waive the immunity of the Secretary-General.
 
 2. International IDEA shall co-operate at all times with the appropriate authorities of the Kingdom of the Netherlands to facilitate the proper administration of justice and shall prevent any abuse of privileges and immunities granted to it under this Agreement.
 
-#### Article 24. Settlement of disputes
+##### Article 24. Settlement of disputes
 
 1. International IDEA shall make provision for appropriate modes of settlement of:
 
@@ -336,21 +358,21 @@ Members of the family forming part of the household of Officials who are not nat
 
 3. Unless the Parties decide otherwise, the arbitral tribunal shall determine its own procedure. The arbitral tribunal shall reach its decision by a majority of votes on the basis of the applicable rules of international law. The decision shall be final and binding on the Parties to the dispute, even if rendered in default of one of the Parties to the dispute.
 
-#### Article 25. Interpretation of the Agreement
+##### Article 25. Interpretation of the Agreement
 
 This Agreement shall be interpreted in the light of its primary purpose of enabling International IDEA at its office in the Netherlands, to fully and efficiently discharge its responsibilities and fulfill its purposes.
 
-#### Article 26. Termination and amendments of the Agreement
+##### Article 26. Termination and amendments of the Agreement
 
 1. This Agreement shall cease to be in force by mutual consent of the Parties.
 
 2. This Agreement may be amended by mutual consent and consultation between the Parties at any time.
 
-#### Article 27. Application
+##### Article 27. Application
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 28. Entry into force
+##### Article 28. Entry into force
 
 This Agreement shall enter into force on the first day of the month after both Parties have notified each other in writing that the legal requirements for entry into force have been complied with.
 

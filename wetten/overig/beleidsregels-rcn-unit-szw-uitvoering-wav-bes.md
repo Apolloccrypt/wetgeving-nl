@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels RCN-unit SZW uitvoering Wav BES"
 identifier: "BWBR0039527"
-categorie: "Overig"
-publicatiedatum: 2018-11-30
-laatste_update: 2018-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039527"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2018-11-30"
+last_updated: "2018-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039527"
+soort: "beleidsregel-BES"
+stam_id: "13995693"
+version_id: "24082762"
+internal_id: "C34607211"
+label_id: "13957964"
+dtd_version: "2.0"
+original_entry_into_force: "2017-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039527/2018-11-30/0"
+intitule_bron: "Stcrt.2017-24538"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-28"
+intitule_published: "2017-05-03"
+intitule_in_force: "2017-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-24538"
+original_signed_date: "2017-03-28"
+original_published_date: "2017-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-24538"
+entry_into_force_date: "2017-05-04"
+jci_1_3: "jci1.3:c:BWBR0039527&z=2018-11-30&g=2018-11-30"
+jci_1_0: "1.0:c:BWBR0039527&g=2018-11-30"
+citeertitel_status: "officieel"
+signed_date: "2017-03-28"
+entry_into_force: "2017-05-04"
 ---
-
 # Beleidsregels RCN-unit SZW uitvoering Wav BES
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&artikel=6) en [9 van het Organisatie-, mandaat- en volmachtbesluit directie Werknemersregelingen 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037446&artikel=9);

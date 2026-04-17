@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst archiefbescheiden Provinciale Organen 2005"
 identifier: "BWBR0019621"
-categorie: "Overig"
-publicatiedatum: 2006-05-10
-laatste_update: 2006-05-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019621"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-05-10"
+last_updated: "2006-05-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019621"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8241173"
+version_id: "13043572"
+internal_id: "C25319811"
+label_id: "8222324"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019621/2006-05-10/0"
+intitule_bron: "Stcrt.2006-89"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-02"
+intitule_published: "2006-05-08"
+intitule_in_force: "2006-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-89"
+original_signed_date: "2006-03-02"
+original_published_date: "2006-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-89-p19-SC74711"
+entry_into_force_date: "2006-05-10"
+jci_1_3: "jci1.3:c:BWBR0019621&z=2006-05-10&g=2006-05-10"
+jci_1_0: "1.0:c:BWBR0019621&g=2006-05-10"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-02"
+entry_into_force: "2006-05-10"
 ---
-
 # Vaststellingsbesluit selectielijst archiefbescheiden Provinciale Organen 2005
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,7 +41,7 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 27 september 2
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor archiefbescheiden van Provinciale Organen 2005’ en de daarbij behorende toelichting wordt vastgesteld voor:
 
@@ -70,13 +95,13 @@ De bij dit besluit gevoegde ‘Selectielijst voor archiefbescheiden van Provinci
 
 - –. Havenschap Moerdijk
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘[Selectielijst voor provinciale organen 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011749)’ (**Stcrt.** 2000, 229) wordt ingetrokken.
 
 De vernietigingslijst archiefstukken provinciale en interprovinciale organen 1989/1994 (**Stcrt.** 1994, 110) blijft van kracht voor de rijkstaken van de Commissaris der Koningin.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

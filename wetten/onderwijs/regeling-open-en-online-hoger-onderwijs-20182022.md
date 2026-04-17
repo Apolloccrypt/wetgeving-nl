@@ -1,20 +1,46 @@
 ---
-title: "Regeling open en online hoger onderwijs 2018–2022"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juli 2017, nr. HOenS/1188771 houdende voorschriften inzake stimulering open en online hoger onderwijs 2018–2022 (Regeling open en online hoger onderwijs 2018–2022)"
 identifier: "BWBR0039848"
-categorie: "Onderwijs"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039848"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039848"
+soort: "ministeriele-regeling"
+stam_id: "14088883"
+version_id: "24255152"
+internal_id: "C34834811"
+label_id: "14049914"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039848/2017-09-01/0"
+intitule_bron: "Stcrt.2017-43113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-12"
+intitule_published: "2017-07-28"
+intitule_in_force: "2017-07-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-43113"
+original_signed_date: "2017-07-12"
+original_published_date: "2017-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-43113"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0039848&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0039848&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Regeling open en online hoger onderwijs 2018–2022"
+signed_date: "2017-07-12"
+entry_into_force: "2017-09-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 juli 2017, nr. HOenS/1188771 houdende voorschriften inzake stimulering open en online hoger onderwijs 2018–2022 (Regeling open en online hoger onderwijs 2018–2022)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - **SURF:** Coöperatie SURF U.A. waarin Nederlandse universiteiten, hogescholen, universitaire medische centra, onderzoeksinstellingen en mbo-instellingen samenwerken aan ICT-innovatie.
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Te subsidiëren activiteiten
+##### Artikel 3. Te subsidiëren activiteiten
 
 1. De minister kan aan instellingen voor hoger onderwijs subsidie verstrekken voor projectvoorstellen die zich richten op:
 
@@ -50,7 +76,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 2. Vóór de start van de tranche wordt op www.surf.nl het thema, bedoeld in het eerste lid onder a, bekendgemaakt.
 
-#### Artikel 4. Subsidieplafond en hoogte subsidie
+##### Artikel 4. Subsidieplafond en hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor vijf tranches het volgende bedrag beschikbaar:
 
@@ -64,7 +90,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Het subsidiebedrag wordt door de ontvanger aangevuld met ten minste hetzelfde bedrag aan eigen middelen.
 
-#### Artikel 5. Wijze van verdeling beschikbare middelen
+##### Artikel 5. Wijze van verdeling beschikbare middelen
 
 1. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag na onderlinge afweging van de aanvragen.
 
@@ -82,7 +108,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS
 
 4. Het format voor de beoordeling is beschikbaar op www.surf.nl.
 
-#### Artikel 6. Aanvraag van subsidie
+##### Artikel 6. Aanvraag van subsidie
 
 1. Voor een aanvraag van een subsidie wordt het aanvraagformulier gebruikt dat beschikbaar is op
 
@@ -98,7 +124,7 @@ www.dus-i.nl.
 
 6. De aanvraag moet voorzien zijn van een handtekening van zowel het aanvragende als het deelnemende bevoegd gezag, of van iemand die bevoegd is namens het bevoegd gezag te ondertekenen.
 
-#### Artikel 7. Samenwerkende instellingen
+##### Artikel 7. Samenwerkende instellingen
 
 1. Indien de aanvraag in samenwerking met andere instellingen wordt gedaan, treedt één van de instellingen namens alle betrokken instellingen als contactpersoon op richting de minister en SURF. De contactpersoon dient namens de andere instellingen de subsidieaanvraag in.
 
@@ -106,7 +132,7 @@ www.dus-i.nl.
 
 3. Bij de aanvraag wordt een door alle betrokken instellingen getekende verklaring gevoegd waarin zij verklaren dat de instelling die als contactpersoon optreedt gemachtigd is om hen in het kader van de subsidieverstrekking in en buiten rechte te vertegenwoordigen, en dat alle gegevens die noodzakelijk zijn voor de verantwoording door de als contactpersoon optredende instelling van de besteding van de subsidie, op verzoek aan deze instelling worden verstrekt.
 
-#### Artikel 8. Advisering en besluit
+##### Artikel 8. Advisering en besluit
 
 1. De minister wint ten behoeve van de subsidieverstrekking advies in van SURF. SURF kan de minister ook adviseren over de intrekking of wijziging van de subsidie.
 
@@ -120,7 +146,7 @@ www.dus-i.nl.
 
 6. De minister voorziet in een gelijktijdige beslissing op de aanvragen met betrekking tot soortgelijke projecten op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstellingen van de subsidie.
 
-#### Artikel 9. Subsidie aan bekostigde instellingen
+##### Artikel 9. Subsidie aan bekostigde instellingen
 
 1. Voor zover het betreft subsidie aan bekostigde instellingen stelt de minister de subsidie direct vast.
 
@@ -132,7 +158,7 @@ www.dus-i.nl.
 
 5. De minister betaalt het subsidiebedrag ineens.
 
-#### Artikel 10. Subsidie aan niet bekostigde instellingen
+##### Artikel 10. Subsidie aan niet bekostigde instellingen
 
 Voor zover het betreft subsidie aan niet bekostigde instellingen, wordt de subsidie uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend, en
 
@@ -142,13 +168,13 @@ Voor zover het betreft subsidie aan niet bekostigde instellingen, wordt de subsi
 
 - c. de verantwoording van de subsidie geschiedt conform de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 11. Inwerkingtreding en vervaldatum
+##### Artikel 11. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 september 2017.
 
 2. Deze regeling vervalt met ingang van 1 september 2022 met dien verstande dat deze van toepassing blijft voor zover het betreft besluiten die vóór de vervaldatum zijn genomen.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling open en online hoger onderwijs 2018–2022.
 

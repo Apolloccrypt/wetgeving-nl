@@ -1,13 +1,36 @@
 ---
-title: "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014 (nieuwe normering primaire waterkeringen, Rijkswaterstaat)"
+title: "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014, zoals gewijzigd op 2 december 2016 (nr. IENM/BSK-2016/280861), in verband met de nieuwe normering van de primaire waterkeringen, Rijkswaterstaat"
 identifier: "BWBR0039824"
-categorie: "Milieu"
-publicatiedatum: 2017-07-22
-laatste_update: 2017-07-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039824"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-07-22"
+last_updated: "2017-07-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039824"
+soort: "ministeriele-regeling"
+stam_id: "14078883"
+version_id: "24243792"
+internal_id: "C34823061"
+label_id: "14039844"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039824/2017-07-22/0"
+intitule_bron: "Stcrt.2017-30938"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-21"
+intitule_in_force: "2017-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-30938"
+original_published_date: "2017-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-30938"
+entry_into_force_date: "2017-07-22"
+jci_1_3: "jci1.3:c:BWBR0039824&z=2017-07-22&g=2017-07-22"
+jci_1_0: "1.0:c:BWBR0039824&g=2017-07-22"
+citeertitel_status: "redactioneel"
+short_title: "Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014 (nieuwe normering primaire waterkeringen, Rijkswaterstaat)"
+entry_into_force: "2017-07-22"
 ---
-
 # Controleprotocol behorend bij de Regeling subsidies hoogwaterbescherming 2014, zoals gewijzigd op 2 december 2016 (nr. IENM/BSK-2016/280861), in verband met de nieuwe normering van de primaire waterkeringen, Rijkswaterstaat
 
 ### 1. Inleiding

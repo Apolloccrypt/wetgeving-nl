@@ -1,13 +1,39 @@
 ---
-title: "Besluit vertrouwensdiensten"
+title: "Besluit van 22 februari 2017, houdende vaststelling van eisen inzake verlening van vertrouwensdiensten, tot intrekking van het Besluit elektronische handtekeningen en tot aanpassing van enige andere besluiten (Besluit vertrouwensdiensten)"
 identifier: "BWBR0039284"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-09
-laatste_update: 2023-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039284"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-11-09"
+last_updated: "2023-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039284"
+soort: "AMvB"
+stam_id: "13932073"
+version_id: "23955832"
+internal_id: "C34444651"
+label_id: "13895904"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039284/2023-11-09/0"
+intitule_bron: "Stb.2017-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-22"
+intitule_published: "2017-03-08"
+intitule_in_force: "2017-03-09"
+intitule_status: "goed"
+original_publication: "Stb.2017-75"
+original_signed_date: "2017-02-22"
+original_published_date: "2017-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-75"
+entry_into_force_date: "2017-03-10"
+jci_1_3: "jci1.3:c:BWBR0039284&z=2023-11-09&g=2023-11-09"
+jci_1_0: "1.0:c:BWBR0039284&g=2023-11-09"
+citeertitel_status: "officieel"
+short_title: "Besluit vertrouwensdiensten"
+signed_date: "2017-02-22"
+entry_into_force: "2017-03-10"
 ---
-
 # Besluit van 22 februari 2017, houdende vaststelling van eisen inzake verlening van vertrouwensdiensten, tot intrekking van het Besluit elektronische handtekeningen en tot aanpassing van enige andere besluiten (Besluit vertrouwensdiensten)
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -16,41 +42,41 @@ bron: "https://wetten.overheid.nl/BWBR0039284"
 
 ### Hoofdstuk 3. Intrekking en wijziging andere besluiten
 
-#### Artikel 4. Intrekking [Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047)
+##### Artikel 4. Intrekking [Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047)
 
 Het [Besluit elektronische handtekeningen](https://wetten.overheid.nl/jci1.3:c:BWBR0015047) wordt ingetrokken.
 
-#### Artikel 5. Wijziging [Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919)
+##### Artikel 5. Wijziging [Aanbestedingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032919)
 
 Wijzigt het Aanbestedingsbesluit.
 
-#### Artikel 6. Wijziging [Aanbestedingsbesluit op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032903)
+##### Artikel 6. Wijziging [Aanbestedingsbesluit op defensie- en veiligheidsgebied](https://wetten.overheid.nl/jci1.3:c:BWBR0032903)
 
 Wijzigt het Aanbestedingsbesluit op defensie- en veiligheidsgebied.
 
-#### Artikel 7. Wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
+##### Artikel 7. Wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
 
 Wijzigt het Besluit doorberekening kosten ACM.
 
-#### Artikel 8. Wijziging [Besluit elektronische dienstverlening burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0036618)
+##### Artikel 8. Wijziging [Besluit elektronische dienstverlening burgerlijke stand](https://wetten.overheid.nl/jci1.3:c:BWBR0036618)
 
 Wijzigt het Besluit elektronische dienstverlening burgerlijke stand.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 9. Wijziging [Besluit elektronisch verkeer met de bestuursrechter](https://wetten.overheid.nl/jci1.3:c:BWBR0027917)
+##### Artikel 9. Wijziging [Besluit elektronisch verkeer met de bestuursrechter](https://wetten.overheid.nl/jci1.3:c:BWBR0027917)
 
 Wijzigt het Besluit elektronisch verkeer met de bestuursrechter.
 
-#### Artikel 10. Wijziging [Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334)
+##### Artikel 10. Wijziging [Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334)
 
 Wijzigt het Besluit vergoedingen Telecommunicatiewet.
 
-#### Artikel 11. Wijziging [Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067)
+##### Artikel 11. Wijziging [Handelsregisterbesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024067)
 
 Wijzigt het Handelsregisterbesluit 2008.
 
-#### Artikel 12. Wijziging [Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021934)
+##### Artikel 12. Wijziging [Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021934)
 
 Wijzigt het Uitvoeringsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
@@ -66,7 +92,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 20 februari
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Inhoudelijke bepalingen inzake vertrouwensdiensten
 
-#### Artikel 2. Kennisgeving inbreuk veiligheid of verlies integriteit
+##### Artikel 2. Kennisgeving inbreuk veiligheid of verlies integriteit
 
 1. Dit artikel is van toepassing op een verlener van een vertrouwensdienst die op grond van artikel 19, tweede lid, van de eidas-verordening een kennisgeving doet van een inbreuk op de veiligheid of het verlies van integriteit.
 
@@ -112,7 +138,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De kennisgeving aan Onze Minister, aan Onze Minister van Veiligheid en Justitie en, voor zover het persoonsgegevens betreft, aan het College bescherming persoonsgegevens wordt gedaan met gebruik making van een door Onze Minister, Onze Minister van Veiligheid en Justitie respectievelijk het College bescherming persoonsgegevens ter beschikking gesteld middel.
 
-#### Artikel 3. Aanwijzing certificerende instellingen gekwalificeerde middelen aanmaken elektronische handtekeningen
+##### Artikel 3. Aanwijzing certificerende instellingen gekwalificeerde middelen aanmaken elektronische handtekeningen
 
 1. Een instelling die in aanmerking wenst te komen voor een aanwijzing als bedoeld in [artikel 18.17a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.17a) dient daartoe een aanvraag in en voldoet aan de volgende eisen:
 
@@ -170,7 +196,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Het besluit kan of de verschillende artikelen of onderdelen daarvan kunnen terugwerken tot en met een in dat koninklijk besluit te bepalen tijdstip.
 
@@ -178,13 +204,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien de Europese Commissie uitvoeringshandelingen inzake de criteria waaraan de certificeringsinstellingen voor gekwalificeerde middelen voor het aanmaken van elektronische handtekeningen moeten voldoen, vaststelt op grond van artikel 30, vierde lid, van de eidas-verordening, vervalt [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039284&hoofdstuk=2&artikel=3&z=2023-11-09&g=2023-11-09), of vervallen onderdelen daarvan, op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit Besluit wordt aangehaald als: Besluit vertrouwensdiensten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. Nadere regeling elektronische handtekening of zegel
+##### Artikel 3a. Nadere regeling elektronische handtekening of zegel
 
 Onder het in [artikel 18.18, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=18.18) opgenomen verbod wordt mede verstaan de situatie waarin een elektronische handtekening of zegel wordt aangeboden als geavanceerde elektronische handtekening of geavanceerd elektronisch zegel, terwijl niet wordt voldaan aan de voor die handtekening onderscheidenlijk dat zegel in de eidas-verordening opgenomen eisen.
 

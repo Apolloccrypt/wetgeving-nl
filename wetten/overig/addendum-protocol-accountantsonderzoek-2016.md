@@ -1,13 +1,35 @@
 ---
 title: "Addendum Protocol Accountantsonderzoek 2016"
 identifier: "BWBR0039503"
-categorie: "Overig"
-publicatiedatum: 2017-04-26
-laatste_update: 2017-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039503"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-04-26"
+last_updated: "2017-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039503"
+soort: "zbo"
+stam_id: "13989573"
+version_id: "24070722"
+internal_id: "C34588181"
+label_id: "13952054"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039503/2017-04-26/0"
+intitule_bron: "Stcrt.2017-23054"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-04-26"
+intitule_in_force: "2017-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-23054"
+original_published_date: "2017-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-23054"
+entry_into_force_date: "2017-04-26"
+jci_1_3: "jci1.3:c:BWBR0039503&z=2017-04-26&g=2017-04-26"
+jci_1_0: "1.0:c:BWBR0039503&g=2017-04-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-04-26"
 ---
-
 # Addendum Protocol Accountantsonderzoek 2016
 
 ### 1. Addendum Protocol Accountantsonderzoek

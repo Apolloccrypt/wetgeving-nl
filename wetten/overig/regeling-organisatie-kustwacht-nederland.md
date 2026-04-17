@@ -1,13 +1,39 @@
 ---
-title: "Regeling organisatie Kustwacht Nederland"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat en van de Minister van Defensie, van 25 mei 2019, nr. IENW/BSK-2019/95910, tot vaststelling van de organisatie van de Kustwacht voor Nederland (Regeling organisatie Kustwacht Nederland)"
 identifier: "BWBR0042251"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042251"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042251"
+soort: "ministeriele-regeling"
+stam_id: "15082573"
+version_id: "25851622"
+internal_id: "C36849211"
+label_id: "15031454"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042251/2025-07-01/0"
+intitule_bron: "Stcrt.2019-28763"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-25"
+intitule_published: "2019-05-28"
+intitule_in_force: "2019-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-28763"
+original_signed_date: "2019-05-25"
+original_published_date: "2019-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-28763"
+entry_into_force_date: "2019-07-01"
+jci_1_3: "jci1.3:c:BWBR0042251&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0042251&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling organisatie Kustwacht Nederland"
+signed_date: "2019-05-25"
+entry_into_force: "2019-07-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat en van de Minister van Defensie, van 25 mei 2019, nr. IENW/BSK-2019/95910, tot vaststelling van de organisatie van de Kustwacht voor Nederland (Regeling organisatie Kustwacht Nederland)
 
 Handelende in overeenstemming met de Ministers van Justitie en Veiligheid, van Financiën, van Economische Zaken en Klimaat en van Landbouw, Natuur en Voedselkwaliteit,
@@ -18,7 +44,7 @@ BESLUITEN
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **taakuitvoering in de Kustwacht:** geheel van bij of krachtens een verdrag of wet vastgestelde taken die de diensten of de Directeur Kustwacht gelet op het APB uitvoeren en andere, uit het APB voortvloeiende taken die de diensten of de Directeur Kustwacht uitvoeren in de Kustwacht;
 
-#### Artikel 2. Doel van de Kustwacht
+##### Artikel 2. Doel van de Kustwacht
 
 1. Er is een Kustwacht.
 
@@ -62,13 +88,13 @@ In deze regeling wordt verstaan onder:
 
 3. De Kustwacht is een samenwerkingsverband van de ministers en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=2&artikel=6&z=2025-07-01&g=2025-07-01) genoemde diensten.
 
-#### Artikel 3. Kustwachtcentrum
+##### Artikel 3. Kustwachtcentrum
 
 1. Er is een kustwachtcentrum.
 
 2. Het kustwachtcentrum is het maritiem operatiecentrum, aeronautisch en maritiem reddings- en coördinatiecentrum en het maritiem informatieknooppunt ten behoeve van het doel van de Kustwacht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=1&artikel=2&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 4. Kustwachtorganisatie
+##### Artikel 4. Kustwachtorganisatie
 
 De kustwachtorganisatie omvat
 
@@ -76,7 +102,7 @@ De kustwachtorganisatie omvat
 
 - b. ten behoeve van de taakuitvoering in de Kustwacht beschikbaar gesteld materieel en daarbij in te zetten personeel.
 
-#### Artikel 5. Geografisch gebied
+##### Artikel 5. Geografisch gebied
 
 Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
@@ -92,7 +118,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 #### § 2. Bepalingen met betrekking tot de samenwerkende diensten
 
-#### Artikel 6. De samenwerkende diensten
+##### Artikel 6. De samenwerkende diensten
 
 1. De volgende diensten werken samen in de Kustwacht:
 
@@ -118,7 +144,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 - b. in andere bij of krachtens verdrag of wet vastgestelde taken en andere taken en verantwoordelijkheden van een dienst.
 
-#### Artikel 7. Inzet van personeel door de diensten
+##### Artikel 7. Inzet van personeel door de diensten
 
 1. Elke dienst wijst, indien van toepassing in opdracht van het gezag, voldoende en gekwalificeerd personeel aan ten behoeve van de inzet in de Kustwacht.
 
@@ -128,7 +154,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 4. De Directeur Kustwacht coördineert de taakuitvoering van de in het eerste lid bedoelde personen in de Kustwacht.
 
-#### Artikel 8. Het beschikbaar stellen van informatie door de diensten
+##### Artikel 8. Het beschikbaar stellen van informatie door de diensten
 
 1. De diensten stellen ten behoeve van de taakuitvoering in de Kustwacht in het kustwachtcentrum zo veel mogelijk informatie beschikbaar aan de Directeur Kustwacht of aan de andere diensten voor zover de Directeur Kustwacht of die diensten deze informatie nodig hebben voor de taakuitvoering in de Kustwacht en voor zover tegen terbeschikkingstelling geen beletselen bestaan bij of krachtens een verdrag of een wet of om andere zwaarwegende redenen.
 
@@ -136,7 +162,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 #### § 3. Taken en verantwoordelijkheden van de betrokken ministers
 
-#### Artikel 9. Algemene bepalingen met betrekking tot de verantwoordelijkheden van de ministers
+##### Artikel 9. Algemene bepalingen met betrekking tot de verantwoordelijkheden van de ministers
 
 1. De ministers zijn gezamenlijk verantwoordelijk voor het functioneren van de Kustwacht.
 
@@ -148,7 +174,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 5. Elke minister neemt de exploitatie-uitgaven en investeringsuitgaven, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=5&artikel=17&z=2025-07-01&g=2025-07-01) op in zijn eigen begroting en legt hierover verantwoording af voor zover deze budgetten nog niet zijn overgeheveld naar de Minister van Defensie. Tot dat tijdstip neemt elke minister in de begroting meerjarige reeksen op inzake de bekostiging van de Kustwacht, ter borging van de continuïteit van de kustwachtorganisatie.
 
-#### Artikel 10. Specifieke taken en verantwoordelijkheden van de Minister van Infrastructuur en Waterstaat
+##### Artikel 10. Specifieke taken en verantwoordelijkheden van de Minister van Infrastructuur en Waterstaat
 
 1. De Minister van Infrastructuur en Waterstaat treedt op als coördinerend bewindspersoon voor de Kustwacht. Dit betekent dat hij verantwoordelijk is voor:
 
@@ -168,7 +194,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 6. De Minister van Infrastructuur en Waterstaat legt het gecombineerd jaarplan ter goedkeuring voor aan de ministerraad.
 
-#### Artikel 11. Specifieke taken en verantwoordelijkheden van Minister van Justitie en Veiligheid
+##### Artikel 11. Specifieke taken en verantwoordelijkheden van Minister van Justitie en Veiligheid
 
 1. De Minister van Justitie en Veiligheid is verantwoordelijk voor het jaarlijks opstellen van een handhavingsplan en legt dit met inachtneming van [artikel 10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), als onderdeel van het gecombineerde jaarplan, ter goedkeuring voor aan de ministerraad.
 
@@ -176,7 +202,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 3. De Minister van Justitie en Veiligheid organiseert de afstemmingsprocessen tussen de ministers en het gezag die het aangaan en opdracht geven tot uitvoering van toezichts- en handhavingstaken om zo te komen tot een samenhangende opdrachtverlening ten behoeve van de uitvoering van deze taken.
 
-#### Artikel 12. Specifieke taken en verantwoordelijkheden van de Minister van Defensie
+##### Artikel 12. Specifieke taken en verantwoordelijkheden van de Minister van Defensie
 
 1. De Minister van Defensie is verantwoordelijk voor de organisatie en het beheer van de kustwachtorganisatie. Dit betekent dat hij verantwoordelijk is voor:
 
@@ -196,7 +222,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 5. De Minister van Defensie benoemt de Directeur Kustwacht, gehoord de andere ministers.
 
-#### Artikel 13. Raad voor de Kustwacht
+##### Artikel 13. Raad voor de Kustwacht
 
 1. De ministers laten zich, ten behoeve van de coördinatie van de uitvoering van de taken genoemd in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=3&artikel=9&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=3&artikel=11&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0042251&paragraaf=3&artikel=12&z=2025-07-01&g=2025-07-01), bijstaan door de Raad voor de Kustwacht.
 
@@ -226,7 +252,7 @@ Het gebied waarin de taakuitvoering in de Kustwacht wordt verricht omvat:
 
 #### § 4. De Directeur Kustwacht
 
-#### Artikel 14. Taken Directeur Kustwacht
+##### Artikel 14. Taken Directeur Kustwacht
 
 De Directeur Kustwacht:
 
@@ -250,7 +276,7 @@ De Directeur Kustwacht:
 
 - j. is bevoegd om namens de Minister van Defensie de coördinatie en ondersteuning van de taakuitvoering in de Kustwacht aan te passen indien een minister of een dienst zijn financiële, materiele of personele verplichtingen niet of niet volledig nakomt.
 
-#### Artikel 15. Bijzondere bepalingen ten aanzien van de inzet van middelen door de Directeur Kustwacht
+##### Artikel 15. Bijzondere bepalingen ten aanzien van de inzet van middelen door de Directeur Kustwacht
 
 1. De Directeur Kustwacht krijgt ten behoeve van opsporing en redding, rampenbestrijding, of ten behoeve van de coördinatie en ondersteuning in verband met de noodzakelijke opsporing van strafbare feiten en incidenten, op diens eerste verzoek onmiddellijk de beschikking over één of meer schepen of luchtvaartuigen en daarbij behorende bemanning van de diensten.
 
@@ -258,7 +284,7 @@ De Directeur Kustwacht:
 
 3. Directeur Kustwacht en een dienst sluiten een operationele overeenkomst in verband met de specifieke inzet van materieel en personeel van de betreffende dienst.
 
-#### Artikel 16. Bevoegdheid Directeur Kustwacht in de samenwerking met derden
+##### Artikel 16. Bevoegdheid Directeur Kustwacht in de samenwerking met derden
 
 1. De Directeur Kustwacht is na instemming van de ministers binnen de kaders van het APB, gemachtigd om namens een of meer ministers die het aangaan of een of meer diensten die het aangaan, bindende afspraken te maken met betrekking tot de taakuitvoering in de Kustwacht met:
 
@@ -272,7 +298,7 @@ De Directeur Kustwacht:
 
 #### § 5. Financiële bepalingen
 
-#### Artikel 17. Begroting en verantwoording
+##### Artikel 17. Begroting en verantwoording
 
 1. De begroting van de kustwachtorganisatie is opgebouwd uit een exploitatiedeel en een investeringendeel. De begroting wordt onderbouwd met het APB.
 
@@ -282,61 +308,61 @@ De Directeur Kustwacht:
 
 #### § 6. Overige en slotbepalingen
 
-#### Artikel 18. Uiterlijke kenmerken schepen en luchtvaartuigen
+##### Artikel 18. Uiterlijke kenmerken schepen en luchtvaartuigen
 
 1. Schepen en luchtvaartuigen, die toebehoren aan een dienst of aan de Minister van Defensie of worden ingehuurd en langdurig worden ingezet voor de taakuitvoering in de Kustwacht zijn in de kustwachtkleuren geschilderd respectievelijk voorzien van het kustwachtlogo.
 
 2. Andere dan de in het eerste lid bedoelde schepen of luchtvaartuigen die worden ingezet voor de taakuitvoering in de Kustwacht, voeren de kustwachtvlag, respectievelijk zijn voorzien van het kustwachtlogo.
 
-#### Artikel 19. Regeling ten behoeve van gemaakte afspraken op basis van het [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546)
+##### Artikel 19. Regeling ten behoeve van gemaakte afspraken op basis van het [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546)
 
 Op basis van [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546) bestaande overeenkomsten en andere afspraken worden, tenzij in die documenten anders is bepaald, geacht onder deze regeling te vallen.
 
-#### Artikel 20. Wijziging van [Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037411)
+##### Artikel 20. Wijziging van [Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037411)
 
 Wijzigt het Besluit uitvoerings- en handhavingsvoorzieningen Wet bestrijding maritieme ongevallen.
 
-#### Artikel 21. Wijziging van [Regeling meldingen en communicatie scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031567)
+##### Artikel 21. Wijziging van [Regeling meldingen en communicatie scheepvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0031567)
 
 Wijzigt de Regeling meldingen en communicatie scheepvaart.
 
-#### Artikel 22. Wijziging van [Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0028910)
+##### Artikel 22. Wijziging van [Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0028910)
 
 Wijzigt het Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu.
 
-#### Artikel 23. Wijziging van [Bijdrageregeling opgeviste explosieven 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005727)
+##### Artikel 23. Wijziging van [Bijdrageregeling opgeviste explosieven 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005727)
 
 Wijzigt de Bijdrageregeling opgeviste explosieven 1992.
 
-#### Artikel 24. Wijziging van [Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895)
+##### Artikel 24. Wijziging van [Regeling inzake de SAR-dienst 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006895)
 
 Wijzigt de Regeling inzake de SAR-dienst 1994.
 
-#### Artikel 25. Wijziging van [Vrijstellingsregeling Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035900)
+##### Artikel 25. Wijziging van [Vrijstellingsregeling Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035900)
 
 Wijzigt de Vrijstellingsregeling Besluit luchtverkeer 2014.
 
-#### Artikel 26. Wijziging van [Beschikking wind- en stormwaarschuwingsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0012825)
+##### Artikel 26. Wijziging van [Beschikking wind- en stormwaarschuwingsdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0012825)
 
 Wijzigt de Beschikking wind- en stormwaarschuwingsdienst.
 
-#### Artikel 27. Wijziging van [Premieregeling opgeviste milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004611)
+##### Artikel 27. Wijziging van [Premieregeling opgeviste milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0004611)
 
 Wijzigt de Premieregeling opgeviste milieugevaarlijke stoffen.
 
-#### Artikel 28. Wijziging van [Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728)
+##### Artikel 28. Wijziging van [Regeling veiligheid zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0017728)
 
 Wijzigt de Regeling veiligheid zeeschepen.
 
-#### Artikel 29. Intrekking
+##### Artikel 29. Intrekking
 
 Het [Besluit instelling Kustwacht](https://wetten.overheid.nl/jci1.3:c:BWBR0020546) wordt ingetrokken.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2019.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling organisatie Kustwacht Nederland.
 

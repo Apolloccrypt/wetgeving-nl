@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Analytics"
+title: "Besluit van de Minister van Financiën van 7 april 2023, nr. 80552, houdende instelling van de Adviescommissie Analytics (Instellingsbesluit Adviescommissie Analytics)"
 identifier: "BWBR0048082"
-categorie: "Overig"
-publicatiedatum: 2023-04-21
-laatste_update: 2023-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048082"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-21"
+last_updated: "2023-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048082"
+soort: "ministeriele-regeling"
+stam_id: "16728423"
+version_id: "29347852"
+internal_id: "C41875811"
+label_id: "16645044"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048082/2023-04-21/0"
+intitule_bron: "Stcrt.2023-11469"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-07"
+intitule_published: "2023-04-20"
+intitule_in_force: "2023-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-11469"
+original_signed_date: "2023-04-07"
+original_published_date: "2023-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-11469"
+entry_into_force_date: "2023-04-21"
+jci_1_3: "jci1.3:c:BWBR0048082&z=2023-04-21&g=2023-04-21"
+jci_1_0: "1.0:c:BWBR0048082&g=2023-04-21"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Analytics"
+signed_date: "2023-04-07"
+entry_into_force: "2023-04-21"
 ---
-
 # Besluit van de Minister van Financiën van 7 april 2023, nr. 80552, houdende instelling van de Adviescommissie Analytics (Instellingsbesluit Adviescommissie Analytics)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **Belastingdienst:** het directoraat-generaal Belastingdienst, het directoraat-generaal Douane en het directoraat-generaal Toeslagen.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Adviescommissie Analytics.
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 3. De adviescommissie kan bij de taakuitoefening deskundigen raadplegen.
 
-#### Artikel 3. Adviezen
+##### Artikel 3. Adviezen
 
 1. De adviezen zijn openbaar.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 - 5. ethiek.
 
-#### Artikel 4. Samenstelling, benoeming, ontslag
+##### Artikel 4. Samenstelling, benoeming, ontslag
 
 1. De adviescommissie bestaat uit een voorzitter en ten hoogste tien leden en ten hoogste tien plaatsvervangend leden.
 
@@ -98,11 +124,11 @@ In dit besluit wordt verstaan onder:
 
 - k). dr. A. van Wissen (Arlette)
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 De adviescommissie wordt ingesteld voor de duur van zes jaar, te rekenen vanaf de datum van inwerkingtreding van dit besluit.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De minister voorziet in het secretariaat van de adviescommissie.
 
@@ -112,7 +138,7 @@ De adviescommissie wordt ingesteld voor de duur van zes jaar, te rekenen vanaf d
 
 4. Indien ambtenaren, in dienst van het Ministerie van Financiën, tot secretaris of medewerker van het secretariaat worden benoemd, zijn zij tegenover anderen dan de commissie verplicht tot geheimhouding van hetgeen hen in het verband van de werkzaamheden van de commissie bekend is geworden.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De adviescommissie stelt haar werkwijze vast en stelt een integriteitscode op die in lijn is met de integriteits- en geheimhoudingsverklaring van het Ministerie van Financiën.
 
@@ -122,11 +148,11 @@ De adviescommissie wordt ingesteld voor de duur van zes jaar, te rekenen vanaf d
 
 4. De adviescommissie verantwoordt haar werkwijze in de adviezen.
 
-#### Artikel 8. Inlichtingen en aanwijzingen
+##### Artikel 8. Inlichtingen en aanwijzingen
 
 De minister geeft geen aanwijzingen met betrekking tot de werkwijze en de inhoud van de adviezen.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. De voorzitter ontvangt een bruto vergoeding per vergadering van € 390,87.
 
@@ -134,25 +160,25 @@ De minister geeft geen aanwijzingen met betrekking tot de werkwijze en de inhoud
 
 3. De kosten worden specifiek gedekt op de financiënbegroting
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 1. De commissie zendt rapporten, adviezen en andere producten die door of namens de adviescommissie worden vervaardigd na vaststelling onverwijld aan de Minister van Financiën.
 
 2. De door de adviescommissie uitgebrachte rapporten en adviezen worden, voorzien van een reactie, openbaar gemaakt door de Minister van Financiën.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 1. Het beheer van bescheiden betreffende de werkzaamheden van de adviescommissie geschiedt op eenzelfde wijze als bij het Ministerie van Financiën.
 
 2. De adviescommissie draagt, zodra de omstandigheden daartoe aanleiding geven, of bij beëindiging van haar werkzaamheden, de bescheiden betreffende die werkzaamheden ter archivering over aan het Ministerie van Financiën.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de
 
 Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Analytics.
 

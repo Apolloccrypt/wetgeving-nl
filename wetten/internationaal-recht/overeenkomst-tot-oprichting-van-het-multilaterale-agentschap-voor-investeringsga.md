@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tot oprichting van het Multilaterale Agentschap voor Investeringsgaranties"
 identifier: "BWBV0002598"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-11-14
-laatste_update: 2010-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002598"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-11-14"
+last_updated: "2010-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002598"
+soort: "verdrag"
+stam_id: "10002943113"
+version_id: "10002947752"
+internal_id: "C10006958661"
+label_id: "10002931804"
+dtd_version: "2.0"
+original_entry_into_force: "1988-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002598/2010-11-14/0"
+intitule_bron: "Trb.1986-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-10-09"
+intitule_published: "1986-03-11"
+intitule_in_force: "1988-05-04"
+intitule_status: "goed"
+original_publication: "Trb.1986-39"
+original_signed_date: "1987-10-09"
+original_published_date: "1986-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-39"
+entry_into_force_date: "1988-04-12"
+jci_1_3: "jci1.3:c:BWBV0002598&z=2010-11-14&g=2010-11-14"
+jci_1_0: "1.0:c:BWBV0002598&g=2010-11-14"
+citeertitel_status: "officieel"
+signed_date: "1987-10-09"
+entry_into_force: "1988-04-12"
 ---
-
 # Overeenkomst tot oprichting van het Multilaterale Agentschap voor Investeringsgaranties
 
 De Overeenkomstsluitende Staten,
@@ -26,7 +51,7 @@ Zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. OPRICHTING, STATUS, DOELEINDEN EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Oprichting en status van het Agentschap
+##### Artikel 1. Oprichting en status van het Agentschap
 
 (a). Hierbij wordt het Multilaterale Agentschap voor Investeringsgaranties opgericht (hierna te noemen: „het Agentschap”)
 
@@ -38,7 +63,7 @@ Zijn als volgt overeengekomen:
 
 - (iii). gerechtelijke procedures aan te spannen.
 
-#### Artikel 2. Doeleinden en taken
+##### Artikel 2. Doeleinden en taken
 
 Het doel van het Agentschap is de bevordering van de investeringsstroom voor produktiedoeleinden tussen de lidstaten en in het bijzonder naar de ontwikkelingslanden die lid zijn van het Agentschap, ter aanvulling van de werkzaamheden van de Internationale Bank voor Herstel en Ontwikkeling (hierna te noemen: „de Bank”), de Internationale Financieringsmaatschappij en andere internationale instellingen voor ontwikkelingsfinanciering. Daartoe zal het Agentschap:
 
@@ -50,7 +75,7 @@ Het doel van het Agentschap is de bevordering van de investeringsstroom voor pro
 
 Op alle besluiten van het Agentschap zijn de bepalingen van dit artikel van toepassing.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Ten behoeve van de uitvoering van deze Overeenkomst wordt verstaan onder:
 
@@ -66,13 +91,13 @@ Ten behoeve van de uitvoering van deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK II. LIDMAATSCHAP EN KAPITAAL
 
-#### Artikel 4. Lidmaatschap
+##### Artikel 4. Lidmaatschap
 
 (a). Het lidmaatschap van het Agentschap staat open voor alle leden van de Bank en voor Zwitserland.
 
 (b). De oorspronkelijke leden zijn de Staten die in Aanhangsel A van deze Overeenkomst zijn vermeld en partij bij deze Overeenkomst worden vóór of op 30 oktober 1987.
 
-#### Artikel 5. Kapitaal
+##### Artikel 5. Kapitaal
 
 (a). Het maatschappelijk aandelenkapitaal van het Agentschap bedraagt één miljard aan Bijzondere Trekkingsrechten (SDR 1.000.000.000). Het maatschappelijk aandelenkapitaal wordt verdeeld in 100.000 aandelen met een pariwaarde van SDR 10.000 per aandeel, waarop door de leden kan worden ingeschreven. Alle betalingsverplichtingen van de leden met betrekking tot het maatschappelijk aandelenkapitaal worden vereffend op de grondslag van de gemiddelde waarde van de SDR, uitgedrukt in Amerikaanse dollars, over het tijdvak van 1 januari 1981 tot en met 30 juni 1985, waarbij deze waarde is vastgesteld op Am. $ 1,082 per SDR.
 
@@ -80,11 +105,11 @@ Ten behoeve van de uitvoering van deze Overeenkomst wordt verstaan onder:
 
 (c). Met een bijzondere meerderheid van stemmen kan de Raad te allen tijde het maatschappelijk aandelenkapitaal van het Agentschap verhogen.
 
-#### Artikel 6. Inschrijving op aandelen
+##### Artikel 6. Inschrijving op aandelen
 
 Elk oorspronkelijk lid van het Agentschap schrijft a pari in op het aantal aandelen van het aandelenkapitaal, vermeld achter zijn naam in Aanhangsel A van deze Overeenkomst. Alle andere leden schrijven in op het door de Raad vastgestelde aantal aandelen van het aandelenkapitaal en op de door de Raad vastgestelde voorwaarden, doch in geen geval tegen een prijs van uitgifte beneden pari. Elk lid dient op ten minste vijftig aandelen in te schrijven. De Raad kan voorschriften geven aan de hand waarvan de leden kunnen inschrijven op aanvullende aandelen van het maatschappelijk aandelenkapitaal.
 
-#### Artikel 7. Verdeling en verzoeken tot storting van het kapitaal waarvoor is ingeschreven
+##### Artikel 7. Verdeling en verzoeken tot storting van het kapitaal waarvoor is ingeschreven
 
 Het bedrag van de aanvankelijke inschrijving van elk lid wordt als volgt voldaan:
 
@@ -92,7 +117,7 @@ Het bedrag van de aanvankelijke inschrijving van elk lid wordt als volgt voldaan
 
 - (ii). Het resterende bedrag kan worden gevorderd indien het Agentschap dit nodig heeft om aan zijn verplichtingen te voldoen.
 
-#### Artikel 8. Betaling van de inschrijvingen op aandelen
+##### Artikel 8. Betaling van de inschrijvingen op aandelen
 
 (a). De betalingen van de inschrijvingen geschieden in vrij inwisselbare valuta, met dien verstande dat betalingen door ontwikkelingslanden die lid van het Agentschap zijn, mogen plaatsvinden in hun eigen valuta tot en met een bedrag dat overeenkomt met vijfentwintig procent van het à contant volgestorte gedeelte van de inschrijvingen dat verschuldigd is krachtens het bepaalde in artikel 7 (i).
 
@@ -102,11 +127,11 @@ Het bedrag van de aanvankelijke inschrijving van elk lid wordt als volgt voldaan
 
 (d). De aansprakelijkheid ten aanzien van de aandelen is beperkt tot het niet-volgestorte deel van de prijs bij uitgifte.
 
-#### Artikel 9. Waardebepaling van valuta's
+##### Artikel 9. Waardebepaling van valuta's
 
 Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde van een valuta uit te drukken in een andere valuta, wordt deze waarde op billijke wijze door het Agentschap vastgesteld, na overleg met het Internationale Monetaire Fonds.
 
-#### Artikel 10. Restituties
+##### Artikel 10. Restituties
 
 (a). Zodra zulks mogelijk is, betaalt het Agentschap aan de leden die bedragen terug die betaald zijn na verzoeken tot storting op de aandelen waarop zij hebben ingeschreven, indien en voor zover:
 
@@ -122,7 +147,7 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 ### HOOFDSTUK III. WERKZAAMHEDEN
 
-#### Artikel 11. Gedekte risico's
+##### Artikel 11. Gedekte risico's
 
 (a). Behoudens het bepaalde in de leden (b) en (c) hieronder kan het Agentschap de daarvoor in aanmerking komende investeringen garanderen tegen verliezen, voortvloeiend uit één of meer van de volgende risico’s:
 
@@ -142,7 +167,7 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 - (ii). een maatregel of een verzuim van de regering van een gastheerland of een andere gebeurtenis die plaats heeft gevonden vóór het sluiten van de garantieovereenkomst.
 
-#### Artikel 12. Investeringen die in aanmerking komen voor een garantie
+##### Artikel 12. Investeringen die in aanmerking komen voor een garantie
 
 (a). Investeringen die in aanmerking komen voor een garantie, omvatten mede deelnemingen in het aandelenkapitaal, met inbegrip van leningen op middellange en op lange termijn, gesloten of gegarandeerd door houders van aandelen in de betrokken onderneming, alsmede die vormen van rechtstreekse investering waartoe door het College wordt besloten.
 
@@ -174,7 +199,7 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 - (iv). of de investeringsvoorwaarden in het gastheerland voldoen en voorzien in een billijke en onpartijdige behandeling en wettelijke bescherming van de investering.
 
-#### Artikel 13. Investeerders die in aanmerking komen voor een garantie
+##### Artikel 13. Investeerders die in aanmerking komen voor een garantie
 
 (a). Iedere natuurlijke persoon en elke rechtspersoon kan in aanmerking komen voor een garantie van het Agentschap, mits:
 
@@ -188,23 +213,23 @@ Indien het voor de uitvoering van deze Overeenkomst noodzakelijk is de waarde va
 
 (c). Na een gemeenschappelijk verzoek van de investeerder en het gastheerland kan het College, met een bijzondere meerderheid van stemmen, de inaanmerkingkoming voor een garantie uitbreiden tot een natuurlijke persoon die de nationaliteit bezit van het gastheerland, of tot een rechtspersoon die in het gastheerland is opgericht, of waarvan de meerderheid van het kapitaal in handen is van onderdanen van het gastheerland, mits de geïnvesteerde activa afkomstig zijn van buiten het gastheerland.
 
-#### Artikel 14. Gastheerlanden die voor een investeringsgarantie in aanmerking komen
+##### Artikel 14. Gastheerlanden die voor een investeringsgarantie in aanmerking komen
 
 Investeringen worden slechts krachtens het bepaalde in dit hoofdstuk gegarandeerd, indien zij worden gedaan op het grondgebied van een ontwikkelingsland dat lid van het Agentschap is.
 
-#### Artikel 15. Goedkeuring van het gastheerland
+##### Artikel 15. Goedkeuring van het gastheerland
 
 Het Agentschap sluit geen garantieovereenkomsten af, voordat het gastheerland de garantieverlening door het Agentschap met betrekking tot de ter dekking aangewezen risico's heeft goedgekeurd.
 
-#### Artikel 16. Voorwaarden en bedingen
+##### Artikel 16. Voorwaarden en bedingen
 
 De voorwaarden en bedingen van elke garantieovereenkomst worden door het Agentschap vastgesteld met inachtneming van de door het College gegeven regels en voorschriften, met dien verstande dat het Agentschap niet het totale verlies van de gegarandeerde investering dekt. Garantieovereenkomsten worden door de President volgens de aanwijzingen van het College goedgekeurd.
 
-#### Artikel 17. Betaling van vorderingen
+##### Artikel 17. Betaling van vorderingen
 
 De President beslist, volgens de aanwijzingen van het College, over de betaling van vorderingen aan een houder van een garantie in overeenstemming met de garantieovereenkomst en met de door het College goedgekeurde richtlijnen. Ingevolge de bepalingen van de garantieovereenkomst dienen de houders van garanties, alvorens een betaling door het Agentschap wordt gedaan, de in de gegeven omstandigheden passend geachte administratieve rechtsmiddelen aan te wenden, mits zij daartoe krachtens de wetten van het gastheerland gemakkelijk toegang hebben. In deze overeenkomsten kan worden voorgeschreven dat er een bepaalde redelijke tijdsperiode dient te verlopen tussen het tijdstip van de gebeurtenis waaruit de vordering voortvloeit, en het tijdstip van betaling van de vordering.
 
-#### Artikel 18. Subrogatie
+##### Artikel 18. Subrogatie
 
 (a). Bij betaling of bij toestemming tot betaling van een vergoeding aan een houder van een garantie treedt het Agentschap in de op de gegarandeerde investering betrekking hebbende rechten of vorderingen die de houder van de garantie heeft kunnen doen gelden jegens het gastheerland en andere schuldenaars. De voorwaarden bedingen van deze subrogatie zijn vermeld in de garantieovereenkomst.
 
@@ -212,11 +237,11 @@ De President beslist, volgens de aanwijzingen van het College, over de betaling 
 
 (c). Bedragen in de valuta van het gastheerland die door het Agentschap als gesubrogeerde zijn verkregen ingevolge het bepaalde in lid (a), ontvangen van het gastheerland een behandeling, met betrekking tot het gebruik en de omrekening, die even gunstig is als de behandeling die zulke gelden in het bezit van de houder van de garantie zouden ontvangen. Deze bedragen kunnen in elk geval door het Agentschap worden gebruikt voor de betaling van zijn administratieve kosten en andere onkosten. Het Agentschap tracht tevens overeenkomsten te sluiten met gastheerlanden inzake andere mogelijkheden tot gebruik van deze valuta's voor zover deze niet vrij inwisselbaar zijn.
 
-#### Artikel 19. Betrekkingen met nationale en regionale instellingen
+##### Artikel 19. Betrekkingen met nationale en regionale instellingen
 
 Het Agentschap werkt samen met, en tracht de werkzaamheden aan te vullen van, de nationale instellingen van leden en van de regionale instellingen waarvan de meerderheid van het kapitaal in handen is van de leden, die soortgelijke werkzaamheden verrichten als het Agentschap, ten einde zowel de doeltreffendheid van de door hen verleende onderscheiden diensten als hun bijdrage tot versterkte toestroming van buitenlandse investeringen zo groot mogelijk te maken. Daartoe kan het Agentschap overeenkomsten sluiten met deze instellingen inzake de bijzonderheden van deze samenwerking, met inbegrip van inzonderheid de methoden van herverzekering en medeverzekering.
 
-#### Artikel 20. Herverzekering met betrekking tot nationale en regionale instellingen
+##### Artikel 20. Herverzekering met betrekking tot nationale en regionale instellingen
 
 (a). Het Agentschap kan met betrekking tot een specifieke investering een herverzekering verstrekken tegen een verlies dat voortvloeit uit één of meer niet-commerciële risico's die verzekerd zijn door een lid of een instelling daarvan of door een regionale instelling voor investeringsgaranties waarvan de meerderheid van het kapitaal in handen is van de leden. Het College stelt van tijd tot tijd, met een bijzondere meerderheid van stemmen, maximumbedragen vast voor de eventuele verplichtingen die door het Agentschap kunnen worden aanvaard met betrekking tot herverzekeringsovereenkomsten. Met betrekking tot specifieke investeringen die ten minste twaalf maanden vóór de ontvangst van het verzoek om herverzekering door het Agentschap zijn voltooid, wordt het maximumbedrag aanvankelijk bepaald op tien procent van het totale bedrag van de eventuele verplichtingen van het Agentschap krachtens het bepaalde in dit hoofdstuk. De in de artikelen 11 tot en met 14 omschreven voorwaarden om voor garantieverlening in aanmerking te komen, zijn van toepassing op herverzekeringstransacties, met dien verstande dat de herverzekerde investeringen niet behoeven te worden uitgevoerd na het verzoek om herverzekering.
 
@@ -224,7 +249,7 @@ Het Agentschap werkt samen met, en tracht de werkzaamheden aan te vullen van, de
 
 (c). Het Agentschap zorgt er zoveel mogelijk voor dat het Agentschap of de herverzekerde instelling dezelfde rechten van subrogatie en arbitrage heeft als waarover het Agentschap zou beschikken indien het de eerste borg zou zijn. Krachtens de voorwaarden en bedingen voor herverzekering dient van administratieve rechtsmiddelen gebruik te worden gemaakt overeenkomstig het bepaalde in artikel 17, alvorens een betaling wordt gedaan door het Agentschap. De subrogatie wordt met betrekking tot het desbetreffende gastheerland pas van kracht, nadat dit land de herverzekering door het Agentschap heeft goedgekeurd. Het Agentschap neemt in de herverzekeringsovereenkomsten bepalingen op krachtens welke de herverzekerde verplicht is de rechten of vorderingen met betrekking tot de herverzekerde investering naar zijn beste vermogen te trachten te verwezenlijken.
 
-#### Artikel 21. Samenwerking met particuliere verzekeraars en met herverzekeraars
+##### Artikel 21. Samenwerking met particuliere verzekeraars en met herverzekeraars
 
 (a). Het Agentschap kan overeenkomsten sluiten met particuliere verzekeraars in lidlanden, ten einde zijn eigen werkzaamheden te bevorderen en deze verzekeraars aan te moedigen dekking van niet-commerciële risico's te verschaffen in ontwikkelingslanden die lid van het Agentschap zijn, op dezelfde voorwaarden als die welke door het Agentschap worden toegepast. Deze overeenkomsten kunnen voorzien in de herverzekering door het Agentschap volgens de in artikel 20 omschreven voorwaarden en procedures.
 
@@ -232,7 +257,7 @@ Het Agentschap werkt samen met, en tracht de werkzaamheden aan te vullen van, de
 
 (c). Het Agentschap streeft er in het bijzonder naar investeringen te garanderen waarvoor geen vergelijkbare dekking op redelijke voorwaarden beschikbaar is van de zijde van particuliere verzekeraars en herverzekeraars.
 
-#### Artikel 22. Garantiebeperkingen
+##### Artikel 22. Garantiebeperkingen
 
 (a). Tenzij anderszins door de Raad met een bijzondere meerderheid van stemmen is bepaald, mag het totale bedrag van de eventuele verplichtingen die door het Agentschap krachtens het bepaalde in dit hoofdstuk kunnen worden aanvaard, niet meer zijn dan honderdvijftig procent van het bedrag van het onaangetaste kapitaal van het Agentschap waarvoor is ingeschreven, en zijn reserves, plus het door het College vastgestelde gedeelte van de herverzekeringsdekking. Het College beoordeelt van tijd tot tijd de samenstelling van de risicoportefeuille van het Agentschap aan de hand van zijn ervaring met vorderingen, de mate van risicospreiding, de herverzekeringsdekking en andere van belang zijnde factoren, ten einde te kunnen vaststellen of wijzigingen in het maximale totaalbedrag van de eventuele verplichtingen dienen te worden aanbevolen aan de Raad. Het maximumbedrag dat door de Raad wordt vastgesteld, mag in geen geval groter zijn dan vijfmaal het bedrag van het onaangetaste kapitaal van het Agentschap waarvoor is ingeschreven, zijn reserves, plus het noodzakelijk geachte gedeelte van de herverzekeringsdekking.
 
@@ -242,7 +267,7 @@ Het Agentschap werkt samen met, en tracht de werkzaamheden aan te vullen van, de
 
 - (ii). de eventuele verplichtingen die door het Agentschap kunnen worden aanvaard met betrekking tot de risicospreidende factoren als individuele projecten, individuele gastheerlanden en soorten investeringen of risico's.
 
-#### Artikel 23. Bevordering van investeringen
+##### Artikel 23. Bevordering van investeringen
 
 (a). Het Agentschap verricht onderzoek, onderneemt stappen ter bevordering van de toestroming van investeringen en verspreidt informatie over investeringsmogelijkheden in ontwikkelingslanden die lid van het Agentschap zijn, ten einde het klimaat voor buitenlandse investeringen in deze landen te verbeteren. Het Agentschap kan, op verzoek van een lid, technische adviezen en hulp geven ter verbetering van de investeringsvoorwaarden op het grondgebied van dit lid. Bij de uitvoering van deze werkzaamheden zal het Agentschap:
 
@@ -262,41 +287,41 @@ Het Agentschap werkt samen met, en tracht de werkzaamheden aan te vullen van, de
 
 (c). Het Agentschap schenkt in zijn activiteiten ter bevordering van investeringen bijzondere aandacht aan het belang van de toeneming van de investeringsstroom tussen de ontwikkelingslanden die lid van het Agentschap zijn.
 
-#### Artikel 24. Garanties van investeringen met borgstelling
+##### Artikel 24. Garanties van investeringen met borgstelling
 
 Behalve het verlenen van garanties ingevolge het bepaalde in dit hoofdstuk kan het Agentschap ook investeringen garanderen ingevolge de borgstellingsregelingen, zoals bepaald in Bijlage I bij deze Overeenkomst.
 
 ### HOOFDSTUK IV. FINANCIËLE BEPALINGEN
 
-#### Artikel 25. Financieel beheer
+##### Artikel 25. Financieel beheer
 
 Het Agentschap voert zijn werkzaamheden uit op de grondslag van gezond zakelijk en voorzichtig financieel beheer, ten einde onder alle omstandigheden aan zijn financiële verplichtingen te kunnen blijven voldoen.
 
-#### Artikel 26. Premies en vergoedingen
+##### Artikel 26. Premies en vergoedingen
 
 Het Agentschap stelt de voor elk type risico toepasselijke premies, vergoedingen en eventuele andere kosten vast en herziet deze periodiek.
 
-#### Artikel 27. Bestemming van het netto-inkomen
+##### Artikel 27. Bestemming van het netto-inkomen
 
 (a). Behoudens het bepaalde in lid (a)(iii) van artikel 10 bestemt het Agentschap het netto-inkomen voor de reserves, totdat deze een bedrag van vijfmaal het aandelenkapitaal van het Agentschap waarvoor is ingeschreven, hebben bereikt.
 
 (b). Nadat de reserves van het Agentschap het in lid (a) voorgeschreven peil hebben bereikt, beslist de Raad of, en in welke mate, het netto-inkomen van het Agentschap bij de reserves wordt gevoegd, of wordt verdeeld over de leden van het Agentschap, of anderszins wordt gebruikt. Een verdeling van het netto-inkomen over de leden van het Agentschap geschiedt in verhouding tot het aandeel van elk lid in het aandelenkapitaal van het Agentschap in overeenstemming met een besluit van de Raad dat met een bijzondere meerderheid van stemmen is genomen.
 
-#### Artikel 28. Begroting
+##### Artikel 28. Begroting
 
 De president stelt een jaarlijkse begroting van de inkomsten en uitgaven van het Agentschap op, die aan het College ter goedkeuring wordt voorgelegd.
 
-#### Artikel 29. Financiële verantwoording
+##### Artikel 29. Financiële verantwoording
 
 Het Agentschap publiceert een jaarverslag dat onder andere de balans van het Agentschap en die van het in Bijlage I bij deze Overeenkomst genoemde Borgstellingsfonds bevat, zoals geverifieerd door een onafhankelijk accountantsbureau. Het Agentschap zendt periodiek aan de leden een beknopt verslag van zijn financiële positie, alsmede een verlies- en winstrekening waaruit de resultaten van zijn werkzaamheden blijken.
 
 ### HOOFDSTUK V. ORGANISATIE EN BESTUUR
 
-#### Artikel 30. Structuur van het Agentschap
+##### Artikel 30. Structuur van het Agentschap
 
 Het Agentschap heeft een Raad van Bestuur, een College van Bewindvoerders, een President en personeel voor het uitvoeren van de taken die het Agentschap nodig oordeelt.
 
-#### Artikel 31. De Raad van Bestuur
+##### Artikel 31. De Raad van Bestuur
 
 (a). Alle bevoegdheden van het Agentschap berusten bij de Raad van Bestuur, met uitzondering van de bevoegdheden die, krachtens het bepaalde in deze Overeenkomst, in het bijzonder zijn verleend aan een ander orgaan van het Agentschap. De Raad kan de uitvoering van elk van zijn bevoegdheden overdragen aan het College, met uitzondering van de bevoegdheid:
 
@@ -324,7 +349,7 @@ Het Agentschap heeft een Raad van Bestuur, een College van Bewindvoerders, een P
 
 (c). De Raad houdt een jaarvergadering, alsmede andere vergaderingen die door de Raad nodig worden geacht of die door het College worden bijeengeroepen. Het College roept de Raad bijeen op verzoek van vijf leden of van leden die over vijfentwintig procent van het totale aantal stemmen beschikken.
 
-#### Artikel 32. Het College van Bewindvoerders
+##### Artikel 32. Het College van Bewindvoerders
 
 (a). Het College is verantwoordelijk voor de uitvoering van de algemene werkzaamheden van het Agentschap en neemt ten behoeve van de uitvoering van deze taak alle maatregelen die nodig of toegestaan zijn krachtens het bepaalde in deze Overeenkomst.
 
@@ -336,7 +361,7 @@ Het Agentschap heeft een Raad van Bestuur, een College van Bewindvoerders, een P
 
 (e). Tot aan het tijdstip waarop de Raad besluit dat het Agentschap een vast College krijgt dat in permanente zitting bijeen is, ontvangen de Bestuurders en de Plaatsvervangers slechts vergoeding voor de kosten van bijwoning van de vergaderingen van het College en voor de vervulling van andere officiële functies namens het Agentschap. Bij de instelling van een College dat in permanente zitting bijeen is, ontvangen de Bewindvoerders en de Plaatsvervangers een vergoeding die de Raad passend oordeelt.
 
-#### Artikel 33. President en personeel
+##### Artikel 33. President en personeel
 
 (a). De President bestuurt, onder het algemene toezicht van het College, de gewone werkzaamheden van het Agentschap. Hij is belast met de organisatie, de aanstelling en het ontslag van het personeel.
 
@@ -348,25 +373,25 @@ Het Agentschap heeft een Raad van Bestuur, een College van Bewindvoerders, een P
 
 (e). De President en het personeel handhaven te allen tijde het vertrouwelijke karakter van informatie die verkregen is bij de uitvoering van de werkzaamheden van het Agentschap.
 
-#### Artikel 34. Verbod van politieke activiteiten
+##### Artikel 34. Verbod van politieke activiteiten
 
 Het Agentschap, de President en het personeel daarvan mengen zich niet in de politieke aangelegenheden van een lid. Behoudens het recht van het Agentschap rekening te houden met alle omstandigheden met betrekking tot een investering, laten zij zich bij hun beslissingen niet beïnvloeden door het politieke karakter van het betrokken lid of de betrokken leden. Overwegingen die van belang zijn voor hun beslissingen, worden onpartijdig tegen elkaar afgewogen, ten einde de in artikel 2 omschreven doeleinden te verwezenlijken.
 
-#### Artikel 35. Betrekkingen met internationale organisaties
+##### Artikel 35. Betrekkingen met internationale organisaties
 
 Het Agentschap werkt, binnen het kader van de voorwaarden van deze Overeenkomst, samen met de Verenigde Naties en met andere intergouvernementele organisaties die gespecialiseerde taken op verwante gebieden hebben, waaronder in het bijzonder de Bank en de Internationale Financieringsmaatschappij.
 
-#### Artikel 36. Plaats van het hoofdkantoor
+##### Artikel 36. Plaats van het hoofdkantoor
 
 (a). Het hoofdkantoor van het Agentschap wordt gevestigd in Washington, D.C., tenzij de Raad met een bijzondere meerderheid van stemmen besluit het hoofdkantoor in een andere plaats te vestigen.
 
 (b). Het Agentschap kan andere kantoren oprichten, indien de werkzaamheden zulks noodzakelijk maken.
 
-#### Artikel 37. Depositobanken voor activa
+##### Artikel 37. Depositobanken voor activa
 
 Elk lid wijst zijn centrale bank aan als depositobank waarbij het Agentschap tegoeden in de valuta van dit lid of andere activa van het Agentschap in bewaring kan geven, of, indien het lid geen centrale bank heeft, wijst het voor dit doel een andere instelling aan die door het Agentschap aanvaardbaar wordt geacht.
 
-#### Artikel 38. Communicatiekanaal
+##### Artikel 38. Communicatiekanaal
 
 (a). Elk lid wijst een passend bevoegd gezag aan waarmee het Agentschap in verbinding kan treden in alle aangelegenheden die uit deze Overeenkomst voortvloeien. Het Agentschap kan de mededelingen van dit bevoegd gezag beschouwen als waren zij door het lid zelf gedaan. Op verzoek van een lid pleegt het Agentschap overleg met dit lid met betrekking tot de in de artikelen 19 tot en met 21 behandelde zaken betreffende instellingen of verzekeraars van dit lid.
 
@@ -374,7 +399,7 @@ Elk lid wijst zijn centrale bank aan als depositobank waarbij het Agentschap teg
 
 ### HOOFDSTUK VI. STEMRECHT, WIJZIGINGEN IN INSCHRIJVINGEN EN VERTEGENWOORDIGING
 
-#### Artikel 39. Stemrecht en wijzigingen in inschrijvingen
+##### Artikel 39. Stemrecht en wijzigingen in inschrijvingen
 
 (a). Ten einde zowel het gelijke belang in het Agentschap van de in Aanhangsel A van deze Overeenkomst genoemde twee categorieën Staten als het belang van de financiële deelneming van elk lid tot uitdrukking te brengen in het stemrecht, mag elk lid 177 stemmen uitbrengen op grond van zijn lidmaatschap en één stem op grond van zijn inschrijving op elk aandeel dat dit lid bezit.
 
@@ -394,7 +419,7 @@ Elk lid wijst zijn centrale bank aan als depositobank waarbij het Agentschap teg
 
 (f). De Raad vaardigt voorschriften uit betreffende het doen van aanvullende inschrijvingen krachtens het bepaalde in lid (e) van dit artikel. In deze voorschriften worden redelijke tijdslimieten gegeven voor de indiening van verzoeken tot inschrijving door de leden.
 
-#### Artikel 40. Uitoefening van stemrecht in de Raad
+##### Artikel 40. Uitoefening van stemrecht in de Raad
 
 (a). Elke Bestuurder is gerechtigd het aantal stemmen van het lid dat hij vertegenwoordigt, uit te brengen. Tenzij in deze Overeenkomst anders is bepaald, worden de besluiten van de Raad bij meerderheid van stemmen genomen.
 
@@ -402,13 +427,13 @@ Elk lid wijst zijn centrale bank aan als depositobank waarbij het Agentschap teg
 
 (c). De Raad kan door middel van een voorschrift een procedure vaststellen waarbij het College, indien dit zulks in het belang van het Agentschap acht, de Raad kan verzoeken om een beslissing te nemen inzake een specifieke kwestie, zonder de Raad in vergadering bijeen te roepen.
 
-#### Artikel 41. Verkiezing van Bewindvoerders
+##### Artikel 41. Verkiezing van Bewindvoerders
 
 (a). De bewindvoerders worden gekozen overeenkomstig het bepaalde in Aanhangsel B.
 
 (b). De Bewindvoerders blijven in functie tot hun opvolgers zijn gekozen. Indien de functie van Bewindvoerder meer dan negentig dagen vóór afloop van zijn ambtstermijn vacant wordt, wordt voor het overblijvende gedeelte van deze termijn een nieuwe Bewindvoerder gekozen door de Bestuurders die de vorige Bewindvoerder hebben gekozen. Voor deze verkiezing is een meerderheid van de uitgebrachte stemmen nodig. Zolang de functie vacant blijft, oefent de Plaatsvervanger van de vorige Bewindvoerder diens bevoegdheden uit, met uitzondering van zijn bevoegdheid een Plaatsvervanger te benoemen.
 
-#### Artikel 42. Uitoefening van stemrecht in het College
+##### Artikel 42. Uitoefening van stemrecht in het College
 
 (a). Elke Bewindvoerder is gerechtigd het aantal stemmen van de leden wier stemmen hij voor zijn verkiezing op zich heeft verenigd, uit te brengen. Alle stemmen die een Bewindvoerder mag uitbrengen, worden als eenheid uitgebracht. Tenzij in deze Overeenkomst anders is bepaald, worden de besluiten van het College bij meerderheid van stemmen genomen.
 
@@ -418,15 +443,15 @@ Elk lid wijst zijn centrale bank aan als depositobank waarbij het Agentschap teg
 
 ### HOOFDSTUK VII. IMMUNITEITEN EN VOORRECHTEN
 
-#### Artikel 43. Doel
+##### Artikel 43. Doel
 
 Ten einde het Agentschap in staat te stellen zijn taken te vervullen, worden de in dit hoofdstuk vermelde immuniteiten en voorrechten toegekend aan het Agentschap op het grondgebied van elk lid.
 
-#### Artikel 44. Rechtshandelingen
+##### Artikel 44. Rechtshandelingen
 
 Andere vorderingen dan die welke binnen de werkingssfeer van het bepaalde in de artikelen 57 en 58 vallen, kunnen tegen het Agentschap slechts worden ingesteld voor een bevoegde rechter op het grondgebied van een lid waar het Agentschap een kantoor heeft of een vertegenwoordiger heeft aangewezen voor de inontvangstneming van gerechtelijke stukken. Tegen het Agentschap mogen zulke processen niet worden aangespannen door (i) leden of personen die optreden namens of vordering hebben op leden, of (ii) met betrekking tot personeelsaangelegenheden. De eigendommen en de activa van het Agentschap, ongeacht waar zij zich bevinden en wie daarvan de houder is, zijn onvatbaar voor elke vorm van inbeslagneming, beslaglegging of executie vóór het uitspreken van het eindvonnis of de definitieve gerechtelijke beslissing tegen het Agentschap.
 
-#### Artikel 45. Activa
+##### Artikel 45. Activa
 
 (a). De eigendommen en de activa van het Agentschap, ongeacht waar deze zich bevinden en wie daarvan de houder is, zijn onvatbaar voor onderzoek, vordering, inbeslagneming of onteigening of andere vormen van beslaglegging op last van de uitvoerende of de wetgevende macht.
 
@@ -434,13 +459,13 @@ Andere vorderingen dan die welke binnen de werkingssfeer van het bepaalde in de 
 
 (c). Ten behoeve van de uitvoering van het bepaalde in dit hoofdstuk worden onder „activa” tevens begrepen de activa van het in Bijlage I bij deze Overeenkomst genoemde Borgstellingsfonds, alsmede de andere door het Agentschap beheerde activa ten behoeve van de verwezenlijking van zijn doel.
 
-#### Artikel 46. Archief en mededelingen
+##### Artikel 46. Archief en mededelingen
 
 (a). Het archief van het Agentschap is onschendbaar, ongeacht de plaats waar het zich bevindt.
 
 (b). De officiële mededelingen van het Agentschap worden door de leden op dezelfde wijze behandeld als de officiële mededelingen van de Bank.
 
-#### Artikel 47. Belastingen
+##### Artikel 47. Belastingen
 
 (a). Het Agentschap, zijn activa, eigendommen en inkomsten, alsmede de werkzaamheden en transacties tot de uitvoering waarvan het Agentschap krachtens deze Overeenkomst bevoegd is, zijn vrijgesteld van alle belastingen en douanerechten. Het Agentschap is tevens vrijgesteld van de verplichting tot inning of betaling van belastingen of heffingen.
 
@@ -448,7 +473,7 @@ Andere vorderingen dan die welke binnen de werkingssfeer van het bepaalde in de 
 
 (c). Er wordt geen belasting geheven, van welke aard ook, op een door het Agentschap gegarandeerde of herverzekerde investering (met inbegrip van de winst daaruit) of op door het Agentschap herverzekerde verzekeringspolissen (met inbegrip van premies en andere inkomsten daaruit), ongeacht wie daarvan de houder is: (i) indien deze belasting onderscheid zou maken ten nadele van zulke investeringen of verzekeringspolissen, uitsluitend op grond van het feit dat deze worden gegarandeerd of herverzekerd door het Agentschap; of (ii) indien de plaats waar een kantoor van het Agentschap is gevestigd of waar het Agentschap zijn bedrijf uitoefent, de enige rechtsgrond van deze belasting zou zijn.
 
-#### Artikel 48. Functionarissen van het Agentschap
+##### Artikel 48. Functionarissen van het Agentschap
 
 Alle Bestuurders, Bewindvoerders, Plaatsvervangers, de President en het personeel van het Agentschap:
 
@@ -458,23 +483,23 @@ Alle Bestuurders, Bewindvoerders, Plaatsvervangers, de President en het personee
 
 - (iii). genieten dezelfde behandeling met betrekking tot reisfaciliteiten als door de betrokken leden aan de vertegenwoordigers, leidinggevend en ander personeel van vergelijkbare rang in dienst van andere leden wordt verleend.
 
-#### Artikel 49. Toepassing van het bepaalde in dit hoofdstuk
+##### Artikel 49. Toepassing van het bepaalde in dit hoofdstuk
 
 Elk lid neemt de nodige maatregelen op zijn eigen grondgebied om overeenkomstig zijn eigen wetgeving uitvoering te geven aan de in dit hoofdstuk uiteengezette beginselen en stelt het Agentschap in kennis van de genomen maatregelen.
 
-#### Artikel 50. Afstand van voorrechten en immuniteiten
+##### Artikel 50. Afstand van voorrechten en immuniteiten
 
 De in dit hoofdstuk bepaalde immuniteiten, vrijstellingen en voorrechten worden in het belang van het Agentschap toegekend en daarvan kan afstand worden gedaan, voor zover en op de voorwaarden door het Agentschap te bepalen, in die gevallen waarin zulks niet schadelijk is voor de belangen van het Agentschap. Het Agentschap doet afstand van de immuniteit van een lid van zijn personeel in die gevallen waarin, naar de mening van het Agentschap, de immuniteit de loop van het recht zou belemmeren en afstand van de immuniteit kan worden gedaan zonder de belangen van het Agentschap te schaden.
 
 ### HOOFDSTUK VIII. OPZEGGING, SCHORSING VAN HET LIDMAATSCHAP EN BEËINDIGING VAN DE WERKZAAMHEDEN
 
-#### Artikel 51. Opzegging
+##### Artikel 51. Opzegging
 
 Ieder lid kan, nadat een tijdvak van drie jaar is verstreken na de datum waarop deze Overeenkomst ten aanzien van dit lid in werking is getreden, op elk tijdstip zijn lidmaatschap van het Agentschap opzeggen door middel van een schriftelijke mededeling aan het hoofdkantoor van het Agentschap. Het Agentschap stelt de Bank, als depositaris van deze Overeenkomst, in kennis van de ontvangst van deze mededeling. Een opzegging wordt van kracht negentig dagen na de datum waarop het Agentschap deze mededeling heeft ontvangen.
 
 Een lid kan deze mededeling herroepen, zolang de opzegging nog niet van kracht is geworden.
 
-#### Artikel 52. Schorsing van leden
+##### Artikel 52. Schorsing van leden
 
 (a). Een lid dat zijn verplichtingen krachtens het bepaalde in deze Overeenkomst niet nakomt, kan door de Raad worden geschorst met een meerderheid van stemmen van zijn leden die de meerderheid van het totale aantal stemmen bezitten.
 
@@ -484,13 +509,13 @@ Een lid kan deze mededeling herroepen, zolang de opzegging nog niet van kracht i
 
 (d). Het geschorste lid houdt één jaar na de datum van schorsing automatisch op lid te zijn, tenzij de Raad besluit de periode van schorsing te verlengen of het lid in zijn waardigheid te herstellen.
 
-#### Artikel 53. Rechten en verplichtingen van Staten die ophouden lid te zijn
+##### Artikel 53. Rechten en verplichtingen van Staten die ophouden lid te zijn
 
 (a). Indien een Staat ophoudt lid te zijn, blijft deze aansprakelijk voor al zijn verplichtingen, met inbegrip van zijn onvoorziene verplichtingen, ingevolge deze Overeenkomst die van kracht zijn geweest vóór het ophouden van het lidmaatschap.
 
 (b). Behoudens het bepaalde in lid (a) sluit het Agentschap een overeenkomst met deze Staat inzake de regeling van hun onderscheiden vorderingen en verplichtingen. Het College dient zijn goedkeuring te hechten aan deze overeenkomst.
 
-#### Artikel 54. Opschorting van de werkzaamheden
+##### Artikel 54. Opschorting van de werkzaamheden
 
 (a). Indien het College zulks gerechtvaardigd acht, kan het de afgifte van nieuwe garanties voor een bepaalde periode opschorten.
 
@@ -498,7 +523,7 @@ Een lid kan deze mededeling herroepen, zolang de opzegging nog niet van kracht i
 
 (c). Het besluit tot opschorting van de Werkzaamheden is niet van invloed op de verplichtingen van de leden ingevolge deze Overeenkomst of op de verplichtingen van het Agentschap jegens de houders van een garantie- of een herverzekeringspolis of jegens derden.
 
-#### Artikel 55. Liquidatie
+##### Artikel 55. Liquidatie
 
 (a). De Raad kan bij een bijzondere meerderheid van stemmen besluiten de werkzaamheden te beëindigen en het Agentschap te liquideren. Het Agentschap houdt daarna onmiddellijk op met alle verrichtingen, met uitzondering van die welke nodig zijn voor het op ordelijke wijze te-gelde-maken, in-stand-houden en beschermen van de activa en vereffenen van de schulden. Tot de definitieve vereffening van de schulden en de verdeling van de activa blijft het Agentschap bestaan en blijven alle rechten en verplichtingen van de leden ingevolge deze Overeenkomst onverminderd voortbestaan.
 
@@ -508,25 +533,25 @@ Een lid kan deze mededeling herroepen, zolang de opzegging nog niet van kracht i
 
 ### HOOFDSTUK IX. REGELING VAN GESCHILLEN
 
-#### Artikel 56. Uitleg en toepassing van de Overeenkomst
+##### Artikel 56. Uitleg en toepassing van de Overeenkomst
 
 (a). Meningsverschillen omtrent de uitleg van de bepalingen van deze Overeenkomst die rijzen tussen een lid van het Agentschap en het Agentschap of tussen leden van het Agentschap, worden ter beslissing voorgelegd aan het College. Een lid dat in bijzondere mate bij het meningsverschil is betrokken en dat niet anderszins wordt vertegenwoordigd door een onderdaan in het College, kan een vertegenwoordiger afvaardigen om elke vergadering van het College waarin dit meningsverschil wordt behandeld, bij te wonen.
 
 (b). In elk geval waarin het College volgens het bepaalde in lid (a) een beslissing heeft genomen, kan een lid verzoeken dat de zaak wordt verwezen naar de Raad, waarvan het oordeel bindend is. Hangende de uitslag van de verwijzing naar de Raad kan het Agentschap, voor zover het dit nodig acht, op grond van de beslissing van het College handelen.
 
-#### Artikel 57. Geschillen tussen het Agentschap en de leden
+##### Artikel 57. Geschillen tussen het Agentschap en de leden
 
 (a). Behoudens het bepaalde in artikel 56 en in lid (b) van dit artikel wordt elk geschil tussen het Agentschap en een lid of een instelling daarvan, alsmede elk geschil tussen het Agentschap en een land (of een instelling daarvan) dat niet langer lid is, geregeld overeenkomstig de in Bijlage II bij deze Overeenkomst vermelde procedure.
 
 (b). Geschillen betreffende vorderingen van het Agentschap in zijn hoedanigheid van gesubrogeerde of investeerder worden geregeld overeenkomstig (i) de in Bijlage II bij deze Overeenkomst beschreven procedure, of (ii) een tussen het Agentschap en het betrokken lid te sluiten overeenkomst inzake een alternatieve methode of alternatieve methoden voor de regeling van deze geschillen. In het laatste geval vormt het bepaalde in Bijlage II bij deze Overeenkomst de grondslag voor een zodanige overeenkomst, die in elk afzonderlijk geval met een bijzondere meerderheid van stemmen dient te worden goedgekeurd door het College, alvorens het Agentschap met de werkzaamheden aanvangt op het grondgebied van het betrokken lid.
 
-#### Artikel 58. Geschillen waarbij houders van een garantie of een herverzekering betrokken zijn
+##### Artikel 58. Geschillen waarbij houders van een garantie of een herverzekering betrokken zijn
 
 Geschillen die naar aanleiding van een garantie- of herverzekeringsovereenkomst rijzen tussen de betrokken partijen, worden aan arbitrage onderworpen ten behoeve van een definitieve beslissing overeenkomstig de in de garantie- of de herverzekeringsovereenkomst bepaalde of bedoelde regels.
 
 ### HOOFDSTUK X. WIJZIGINGEN
 
-#### Artikel 59. Wijziging door de Raad
+##### Artikel 59. Wijziging door de Raad
 
 (a). Deze Overeenkomst en de Bijlagen daarbij kunnen worden gewijzigd met een meerderheid van drievijfde van de stemmen van de Bestuurders die viervijfde van het totale aantal stemmen uitbrengen, met dien verstande dat:
 
@@ -538,13 +563,13 @@ Geschillen die naar aanleiding van een garantie- of herverzekeringsovereenkomst 
 
 (c). Indien een wijziging van invloed is op een bepaling van Bijlage I bij deze Overeenkomst, dienen in het totale aantal stemmen ook de extra stemmen te zijn begrepen die krachtens het bepaalde in artikel 7 van deze Bijlage zijn toegekend aan leden en landen die borgstelling hebben verleend en tevens investeringen met borgstelling ontvangen.
 
-#### Artikel 60. Procedure
+##### Artikel 60. Procedure
 
 Ieder voorstel tot wijziging van deze Overeenkomst, hetzij afkomstig van een lid of een Bestuurder of een Bewindvoerder, wordt ingediend bij de Voorzitter van het College, die het voorstel aan het College voorlegt. Indien de voorgestelde wijziging door het College wordt aanbevolen, wordt deze ter goedkeuring voorgelegd aan de Raad overeenkomstig het bepaalde in artikel 59. Indien een wijziging naar behoren is goedgekeurd door de Raad, legt het Agentschap dit in een officiële mededeling aan alle leden vast. Wijzigingen worden negentig dagen na de datum van de officiële mededeling voor alle leden van kracht, tenzij de Raad daarvoor een andere datum vaststelt.
 
 ### HOOFDSTUK XI. SLOTBEPALINGEN
 
-#### Artikel 61. Inwerkingtreding
+##### Artikel 61. Inwerkingtreding
 
 (a). Deze Overeenkomst staat open voor ondertekening door alle leden van de Bank en Zwitserland en dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten in overeenstemming met hun constitutionele procedures.
 
@@ -554,19 +579,19 @@ Ieder voorstel tot wijziging van deze Overeenkomst, hetzij afkomstig van een lid
 
 (d). Indien deze Overeenkomst niet binnen twee jaar na de openstelling voor ondertekening daarvan in werking is getreden, belegt de President van de Bank een conferentie van de belanghebbende landen, ten einde de toekomstige gedragslijn te bepalen.
 
-#### Artikel 62. Openingsbijeenkomst
+##### Artikel 62. Openingsbijeenkomst
 
 Na de inwerkingtreding van deze Overeenkomst belegt de President van de Bank de openingsbijeenkomst van de Raad. Deze bijeenkomst wordt gehouden op het hoofdkantoor van het Agentschap binnen zestig dagen na de datum waarop deze Overeenkomst in werking is getreden, of zo spoedig mogelijk daarna.
 
-#### Artikel 63. Depositaris
+##### Artikel 63. Depositaris
 
 De akten van bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst, alsmede van de wijzigingen daarop, worden bij de Bank nedergelegd, die optreedt als de Depositaris van deze Overeenkomst. De Depositaris zendt gewaarmerkte afschriften van deze Overeenkomst aan de lidstaten van de Bank en aan Zwitserland.
 
-#### Artikel 64. Registratie
+##### Artikel 64. Registratie
 
 De Depositaris laat deze Overeenkomst registreren bij het Secretariaat van de Verenigde Naties overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) en het krachtens dat artikel door de Algemene Vergadering aangenomen Reglement.
 
-#### Artikel 65. Kennisgeving
+##### Artikel 65. Kennisgeving
 
 De Depositaris stelt alle ondertekenende Staten en, na de inwerkingtreding van deze Overeenkomst, het Agentschap in kennis van:
 
@@ -580,17 +605,17 @@ De Depositaris stelt alle ondertekenende Staten en, na de inwerkingtreding van d
 
 - (e). de uittreding van een lid uit het Agentschap ingevolge het bepaalde in artikel 51.
 
-#### Artikel 66. Territoriale toepassing
+##### Artikel 66. Territoriale toepassing
 
 Deze Overeenkomst is van toepassing op het gehele grondgebied onder de rechtsmacht van een lid, met inbegrip van de gebieden waarvan een lid de internationale betrekkingen behartigt, behalve die welke door dit lid zijn uitgezonderd door middel van een schriftelijke kennisgeving aan de Depositaris van deze Overeenkomst hetzij op het tijdstip van bekrachtiging, aanvaarding of goedkeuring, hetzij op enig later tijdstip.
 
-#### Artikel 67. Periodieke beoordelingen
+##### Artikel 67. Periodieke beoordelingen
 
 (a). De Raad geeft periodiek uitgebreide beoordelingen van de werkzaamheden van het Agentschap, alsmede van de behaalde resultaten, met het oog op de invoering van wijzigingen die noodzakelijk zijn om het Agentschap zijn doeleinden beter te kunnen doen verwezenlijken.
 
 (b). De eerste beoordeling geschiedt vijf jaar na de inwerkingtreding van deze Overeenkomst. De data van de volgende beoordelingen worden door de Raad vastgesteld.
 
-#### Artikel 1. Borgstelling
+##### Artikel 1. Borgstelling
 
 (a). Elk lid kan zich borg stellen voor een investering die door een investeerder van een bepaalde nationaliteit of door investeerders van een bepaalde nationaliteit of van diverse nationaliteiten wordt gedaan.
 
@@ -600,7 +625,7 @@ Deze Overeenkomst is van toepassing op het gehele grondgebied onder de rechtsmac
 
 (d). Het Agentschap pleegt periodiek overleg met de borgstelling verlenende leden met betrekking tot zijn werkzaamheden ingevolge het bepaalde in deze Bijlage.
 
-#### Artikel 2. Borgstellingsfonds
+##### Artikel 2. Borgstellingsfonds
 
 (a). Premies en andere inkomsten uit garanties van investeringen met borgstelling, met inbegrip van winsten uit de investering van deze premies en inkomsten, worden op een afzonderlijke rekening gestort, het Borgstellingsfonds genaamd.
 
@@ -608,7 +633,7 @@ Deze Overeenkomst is van toepassing op het gehele grondgebied onder de rechtsmac
 
 (c). De activa van het Borgstellingsfonds worden bewaard en beheerd voor gezamenlijke rekening van de borgstelling verlenende leden en worden gescheiden en afzonderlijk gehouden van de activa van het Agentschap.
 
-#### Artikel 3. Verzoeken aan leden die borgstelling hebben verleend
+##### Artikel 3. Verzoeken aan leden die borgstelling hebben verleend
 
 (a). Voor zover een bedrag door het Agentschap verschuldigd is in verband met een verlies ingevolge een garantie waarvoor borgstelling is verleend, en dit bedrag niet kan worden voldaan uit de activa van het Borgstellingsfonds, verzoekt het Agentschap elk lid dat borgstelling heeft verleend, zijn aandeel van dit bedrag, vastgesteld overeenkomstig het bepaalde in lid (b) van artikel 1 van deze Bijlage, aan het Fonds te betalen.
 
@@ -620,33 +645,33 @@ Deze Overeenkomst is van toepassing op het gehele grondgebied onder de rechtsmac
 
 (e). Elke betaling van een lid dat borgstelling heeft verleend, ingevolge een verzoek overeenkomstig het bepaalde in dit artikel geschiedt onverwijld en in vrij inwisselbare valuta.
 
-#### Artikel 4. Waardebepaling van valuta's en terugbetalingen
+##### Artikel 4. Waardebepaling van valuta's en terugbetalingen
 
 De bepalingen in deze Overeenkomst inzake de waardebepaling van valuta's en terugbetalingen met betrekking tot de kapitaalinschrijvingen zijn **mutatis mutandis** van toepassing op bedragen die door leden worden betaald wegens investeringen waarvoor borgstelling is verleend.
 
-#### Artikel 5. Herverzekering
+##### Artikel 5. Herverzekering
 
 (a). Het Agentschap kan, op de in artikel 1 van deze Bijlage vermelde voorwaarden, herverzekeringsdiensten verlenen aan een lid, een instelling daarvan, een regionale instelling, zoals omschreven in lid (a) van artikel 20 van deze Overeenkomst, of een particuliere verzekeraar in een lidland. Het bepaalde in deze Bijlage betreffende de garanties en in de artikelen 20 en 21 van deze Overeenkomst is **mutatis mutandis** van toepassing op de krachtens dit lid verleende herverzekeringsdiensten.
 
 (b). Het Agentschap kan herverzekering verkrijgen van investeringen die het Agentschap ingevolge het bepaalde in deze Bijlage heeft gegarandeerd, en voldoet de kosten van deze herverzekering uit het Borgstellingsfonds. Het College kan bepalen of en in hoever de in lid (b) van artikel 1 van deze Bijlage bedoelde verplichting van leden die borgstelling hebben verleend, tot deling in de verliezen kan worden beperkt op grond van de verkregen herverzekeringsdekking.
 
-#### Artikel 6. Toe te passen beginselen
+##### Artikel 6. Toe te passen beginselen
 
 Behoudens het bepaalde in deze Bijlage zijn de bepalingen met betrekking tot de garantieverlening krachtens het bepaalde in hoofdstuk III van deze Overeenkomst en met betrekking tot het financiële beheer krachtens het bepaalde in hoofdstuk IV van deze Overeenkomst **mutatis mutandis** van toepassing op de garanties voor investeringen met borgstelling, mits (i) deze investeringen in aanmerking komen voor borgstelling, indien zij op het grondgebied van een lid, en in het bijzonder van een lid dat een ontwikkelingsland is, worden gedaan door (een) investeerders(s) die daarvoor krachtens het bepaalde in lid (a) van artikel 1 van deze Bijlage in aanmerking kom(t)(en), en mits (ii) het Agentschap niet aansprakelijk is met betrekking tot zijn eigen activa voor een garantie of herverzekering, verleend ingevolge het bepaalde in deze Bijlage, en in elke garantie- of herverzekeringsovereenkomst die ingevolge het bepaalde in deze Bijlage is gesloten, zulks uitdrukkelijk wordt bepaald.
 
-#### Artikel 7. Stemrecht
+##### Artikel 7. Stemrecht
 
 Bij het nemen van beslissingen inzake investeringen met borgstelling bezit elk borgstelling verlenend lid één extra stem voor elk bedrag van de tegenwaarde van 10.000 Bijzondere Trekkingsrechten dat gelijk is aan het bedrag dat op grond van zijn borgstelling gegarandeerd of herverzekerd is, terwijl elk lid dat als gastheerland optreedt voor een investering met borgstelling, één extra stem bezit voor elk bedrag van de tegenwaarde van 10.000 Bijzondere Trekkingsrechten dat gelijk is aan het bedrag dat gegarandeerd of herverzekerd is met betrekking tot een investering met borgstelling waarvoor het lid als gastheerland optreedt. Deze extra stemmen worden slechts uitgebracht bij het nemen van beslissingen die verband houden met investeringen met borgstelling, en blijven overigens buiten beschouwing bij de vaststelling van het aantal stemmen van de leden.
 
-#### Artikel 1. Toepassing van het bepaalde in de Bijlage
+##### Artikel 1. Toepassing van het bepaalde in de Bijlage
 
 Alle geschillen binnen de werkingssfeer van het bepaalde in artikel 57 van deze Overeenkomst worden geregeld overeenkomstig de in deze Bijlage omschreven procedure, behalve in die gevallen waarin het Agentschap een overeenkomst met een lid heeft gesloten ingevolge het bepaalde in lid (b)(ii) van artikel 57.
 
-#### Artikel 2. Onderhandelingen
+##### Artikel 2. Onderhandelingen
 
 De partijen bij een geschil binnen de werkingssfeer van het bepaalde in deze Bijlage trachten dit geschil te regelen door middel van onderhandelingen, alvorens om bemiddeling of arbitrage te verzoeken. De onderhandelingsmogelijkheden worden geacht te zijn uitgeput, indien de partijen geen overeenstemming bereiken binnen een termijn van honderdtwintig dagen, te rekenen van de datum van het verzoek om de onderhandelingen te beginnen.
 
-#### Artikel 3. Bemiddeling
+##### Artikel 3. Bemiddeling
 
 (a). Indien het geschil niet door middel van onderhandelingen wordt opgelost, kan elk van de partijen het geschil aan arbitrage onderwerpen overeenkomstig het bepaalde in artikel 4 van deze Bijlage, tenzij de partijen met wederzijdse instemming hebben besloten eerst gebruik te maken van de in dit artikel bepaalde bemiddelingsprocedure.
 
@@ -672,7 +697,7 @@ De partijen bij een geschil binnen de werkingssfeer van het bepaalde in deze Bij
 
 (h). Tenzij de partijen anders overeenkomen, worden de vergoedingen van de bemiddelaar vastgesteld aan de hand van de tarieven die van toepassing zijn op bemiddeling door het ICSID. Deze vergoedingen, alsmede de overige onkosten van de bemiddelingsprocedure, komen gelijkelijk ten laste van de partijen. Elke partij betaalt haar eigen uitgaven.
 
-#### Artikel 4. Arbitrage
+##### Artikel 4. Arbitrage
 
 (a). De arbitrageprocedure vangt aan door middel van een kennisgeving van de arbitrage verzoekende partij (de eiser) aan de andere partij of partijen bij het geschil (de gedaagde(n)). In de kennisgeving worden de aard van het geschil, de gevraagde hulp en de naam van de door de eiser benoemde scheidsman vermeld. Binnen dertig dagen na de datum van ontvangst van de kennisgeving stelt de gedaagde de eiser in kennis van de naam van de door hem benoemde scheidsman. De twee partijen kiezen, binnen een termijn van dertig dagen na de datum van de benoeming van de tweede scheidsman, een derde scheidsman, die optreedt als voorzitter van het scheidsgerecht.
 
@@ -696,7 +721,7 @@ De partijen bij een geschil binnen de werkingssfeer van het bepaalde in deze Bij
 
 (k). Tenzij de partijen anders overeenkomen, worden de aan de scheidsmannen verschuldigde honoraria en vergoedingen vastgesteld aan de hand van de tarieven die van toepassing zijn op de arbitrage van het ICSID. Elke partij betaalt haar eigen kosten die verbonden zijn aan de arbitrageprocedure. De kosten van het scheidsgerecht komen naar evenredigheid ten laste van de partijen, tenzij het scheidsgerecht anders beslist. Kwesties met betrekking tot de verdeling van de kosten van het scheidsgerecht of de procedure voor de betaling van deze kosten worden door het scheidsgerecht beslist.
 
-#### Artikel 5. Betekening van dagvaardingen
+##### Artikel 5. Betekening van dagvaardingen
 
 Betekening van een mededeling of dagvaarding in verband meteen rechtsgeding ingevolge het bepaalde in deze Bijlage geschiedt schriftelijk. Zij geschiedt door het Agentschap aan de autoriteit die door het betrokken lid is aangewezen ingevolge het bepaalde in artikel 38 van deze Overeenkomst, en door dit lid op het hoofdkantoor van het Agentschap.
 

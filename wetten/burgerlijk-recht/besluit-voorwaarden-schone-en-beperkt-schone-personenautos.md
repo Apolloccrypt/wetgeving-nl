@@ -1,13 +1,35 @@
 ---
-title: "Besluit voorwaarden schone en beperkt schone personenauto's"
+title: "Besluit van 26 maart 1986, houdende voorwaarden schone en beperkt schone personenauto's"
 identifier: "BWBR0003932"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1986-04-01
-laatste_update: 1986-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003932"
+country: "nl"
+rank: "amvb"
+publication_date: "1986-04-01"
+last_updated: "1986-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003932"
+soort: "AMvB"
+stam_id: "1221813"
+version_id: "1799052"
+internal_id: "C1799051"
+label_id: "1183044"
+dtd_version: "2.0"
+original_entry_into_force: "1986-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003932/1986-04-01/0"
+intitule_bron: "Stb.1986-113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-03-26"
+intitule_status: "goed"
+original_publication: "Stb.1986-113"
+original_signed_date: "1986-03-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-04-01"
+jci_1_3: "jci1.3:c:BWBR0003932&z=1986-04-01&g=1986-04-01"
+jci_1_0: "1.0:c:BWBR0003932&g=1986-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit voorwaarden schone en beperkt schone personenauto's"
+signed_date: "1986-03-26"
+entry_into_force: "1986-04-01"
 ---
-
 # Besluit van 26 maart 1986, houdende voorwaarden schone en beperkt schone personenauto's
 
 Op de voordracht van de Staatssecretaris van Financiën van 4 november 1985, nr. 085-2934, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -20,7 +42,7 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 20 maart 198
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van artikel 3, eerste lid, van de Wet houdende tijdelijke fiscale maatregelen ter bevordering van het gebruik van ongelode benzine en de aankoop van schone en van beperkt schone personenauto’s (**Stb.** 1986, 112) wordt als een schone onderscheidenlijk beperkt schone personenauto aangemerkt een personenauto die is bestemd om te worden voortbewogen door een kracht die wordt ontleend aan lichte olie als is bedoeld in artikel 2, eerste lid, onderdeel **a**, onder 1°, van de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) van minerale oliën (**Stb.** 1964, 207) en die behoort tot een type motorrijtuig waarvan is vastgesteld dat de uitworp van verontreinigende uitlaatgassen niet hoger is dan de in grammen per proef uitgedrukte grenswaarden die zijn gesteld in onderscheidenlijk het tweede lid en het derde lid.
 
@@ -51,7 +73,7 @@ Hebben goedgevonden en verstaan:
 
 8. Onze Minister van Financiën kan regelen stellen ter zake van de uitvoering.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit treedt in werking op het tijdstip waarop de Wet houdende tijdelijke fiscale maatregelen ter bevordering van het gebruik van ongelode benzine en de aankoop van schone en van beperkt schone personenauto’s in werking treedt.
 

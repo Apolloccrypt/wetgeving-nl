@@ -1,13 +1,34 @@
 ---
 title: "Regeling reiskosten buitenland Nederlands Letterenfonds"
 identifier: "BWBR0032528"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032528"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032528"
+soort: "zbo"
+stam_id: "11975853"
+version_id: "20121262"
+internal_id: "C30452431"
+label_id: "11947764"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032528/2013-01-01/0"
+intitule_bron: "Stcrt.2012-26704"
+intitule_effect: "wijziging"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26704"
+original_published_date: "2012-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26704"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032528&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032528&g=2013-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling reiskosten buitenland Nederlands Letterenfonds
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +39,7 @@ gelet op het [Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR003273
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,17 +61,17 @@ In deze regeling wordt verstaan onder:
 
 - 9. **uitgeverij:** een rechtspersoon die op continue basis bedrijfsactiviteiten ontplooit met als doel onder meer de uitgave van literaire boekwerken.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt voor promotiereizen, studiereizen en reizen ten behoeve van een **writer-in-residence** buitenlandprogramma.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 1. Een aanvraag voor een subsidie voor een promotiereis wordt ingediend door een buitenlandse uitgeverij of een buitenlandse organisatie.
 
 2. Een aanvraag voor een subsidie voor een studiereis of ten behoeve van een **writer-in-residence** buitenlandprogramma wordt ingediend door een natuurlijk persoon die oorspronkelijk Nederlands- of Friestalig literair werk schrijft zoals proza (fictie en non-fictie), poëzie, drama en/of kinder- en jeugdliteratuur of door een natuurlijk persoon die niet-Nederlands literair werk in het Nederlands of Fries vertaalt.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag wordt uitsluitend ingediend met gebruikmaking van een door het Letterenfonds ter beschikking gesteld aanvraagformulier.
 
@@ -70,7 +91,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt vo
 
 9. Een aanvraag kan uitsluitend bij ofwel het Letterenfonds ofwel het Vlaams Fonds voor de Letteren worden ingediend.
 
-#### Artikel 5. Vereisten promotiereis
+##### Artikel 5. Vereisten promotiereis
 
 Subsidie voor de reiskosten van een promotiereis kan slechts worden verstrekt indien naar het oordeel van het bestuur:
 
@@ -90,7 +111,7 @@ Subsidie voor de reiskosten van een promotiereis kan slechts worden verstrekt in
 
 - h. het bestuur de reis van belang acht voor de beeldvorming van de Nederlands- en Friestalige literatuur en cultuur in het algemeen en voor de presentatie van het vertaalde eigen werk van de schrijver in het bijzonder.
 
-#### Artikel 6. Vereisten studiereis
+##### Artikel 6. Vereisten studiereis
 
 Subsidie voor reis en logieskosten van een studiereis kan slechts worden verstrekt indien naar het oordeel van het bestuur:
 
@@ -106,7 +127,7 @@ Subsidie voor reis en logieskosten van een studiereis kan slechts worden verstre
 
 - f. een bijdrage van het Letterenfonds noodzakelijk is.
 
-#### Artikel 7. Vereisten reis ten behoeve van een writer-in residence buitenlandprogramma
+##### Artikel 7. Vereisten reis ten behoeve van een writer-in residence buitenlandprogramma
 
 Subsidie voor reis- en projectkosten van een reis ten behoeve van het**writer-in residence buitenlandprogramma** kan slechts worden verstrekt indien naar het oordeel van het bestuur:
 
@@ -118,7 +139,7 @@ Subsidie voor reis- en projectkosten van een reis ten behoeve van het**writer-in
 
 - d. de aanvrager voldoet aan de selectiecriteria zoals vastgesteld door de buitenlandse organisatie die de residentie beheert.
 
-#### Artikel 8. Subsidieplafond en hoogte van de subsidies
+##### Artikel 8. Subsidieplafond en hoogte van de subsidies
 
 1. Het bestuur kan binnen deze regeling afzonderlijke subsidieplafonds vaststellen.
 
@@ -126,11 +147,11 @@ Subsidie voor reis- en projectkosten van een reis ten behoeve van het**writer-in
 
 3. Het besluit hiertoe wordt bekendgemaakt via de website van het Letterenfonds.
 
-#### Artikel 9. Adviseurs
+##### Artikel 9. Adviseurs
 
 Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door leden van de raad van advies of door externe adviseurs zoals bedoeld in het Huishoudelijk reglement van het Letterenfonds. Het bestuur betrekt bij zijn besluit over de aanvraag het eventuele advies van de adviseur.
 
-#### Artikel 10. Verplichtingen subsidieontvanger
+##### Artikel 10. Verplichtingen subsidieontvanger
 
 1. De subsidie wordt door de subsidieontvanger besteed aan de uitvoering van de in de aanvraag beschreven reis of het in de aanvraag beschreven programma.
 
@@ -146,17 +167,17 @@ Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door le
 
 7. Indien bij de aanvraag een intentieverklaring van de uitgever is overgelegd, wordt de uitgave-overeenkomst tussen de uitgever en de aanvrager uiterlijk binnen één maand na de uitgave van de publicatie overgelegd.
 
-#### Artikel 11. Subsidieverlening en -vaststelling
+##### Artikel 11. Subsidieverlening en -vaststelling
 
 Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot subsidievaststelling.
 
-#### Artikel 12. Termijnen
+##### Artikel 12. Termijnen
 
 1. Het bestuur beslist binnen 13 weken na ontvangst van de aanvraag.
 
 2. De termijn genoemd in het vorige lid bedraagt 22 weken, indien over de aanvraag advies wordt ingewonnen dan wel een nader onderzoek wordt ingesteld.
 
-#### Artikel 13. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 13. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als deze niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -168,11 +189,11 @@ Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot su
 
 5. De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is vastgesteld, tenzij bij de intrekking of wijziging anders is bepaald.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 15. Overgangs- en slotbepalingen
+##### Artikel 15. Overgangs- en slotbepalingen
 
 1. In alle gevallen waarin dit regeling niet voorziet, beslist het bestuur.
 

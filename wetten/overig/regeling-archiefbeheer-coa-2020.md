@@ -1,13 +1,39 @@
 ---
-title: "Regeling archiefbeheer COA 2020"
+title: "Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)"
 identifier: "BWBR0044332"
-categorie: "Overig"
-publicatiedatum: 2020-11-12
-laatste_update: 2020-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044332"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-11-12"
+last_updated: "2020-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044332"
+soort: "zbo"
+stam_id: "15695603"
+version_id: "27194092"
+internal_id: "C38424831"
+label_id: "15634874"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044332/2020-11-12/0"
+intitule_bron: "Stcrt.2020-56335"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-18"
+intitule_published: "2020-11-11"
+intitule_in_force: "2020-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-56335"
+original_signed_date: "2020-08-18"
+original_published_date: "2020-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-56335"
+entry_into_force_date: "2020-11-12"
+jci_1_3: "jci1.3:c:BWBR0044332&z=2020-11-12&g=2020-11-12"
+jci_1_0: "1.0:c:BWBR0044332&g=2020-11-12"
+citeertitel_status: "officieel"
+short_title: "Regeling archiefbeheer COA 2020"
+signed_date: "2020-08-18"
+entry_into_force: "2020-11-12"
 ---
-
 # Besluit van het bestuur van het Centraal Orgaan opvang asielzoekers (COA) van 18 augustus 2020 tot vaststelling van regels voor het archiefbeheer van het COA (Regeling archiefbeheer COA 2020)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14):
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 2. Bestuur
+##### Artikel 2. Bestuur
 
 1. Het bestuur is zorgdrager in de zin van [artikel 1 lid d van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1) voor de archiefbescheiden van het COA.
 
@@ -74,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Het bestuur verleent mandaat aan de manager en locatiemanager voor het archiefbeheer voor de afdeling c.q. de locatie.
 
-#### Artikel 3. Chief Information Officer
+##### Artikel 3. Chief Information Officer
 
 1. De Chief Information Officer is verantwoordelijk voor het archiefbeheer van het COA, ook indien hij met toestemming van het bestuur werkzaamheden via ondermandaat heeft uitbesteed.
 
@@ -94,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De Chief Information Officer kan alle bevoegdheden die de managers of locatiemanagers op grond van deze regeling verkrijgen, bij verwaarlozing van die bevoegdheden, uitoefenen.
 
-#### Artikel 4. Teamhoofd RDM & Functioneel Beheer
+##### Artikel 4. Teamhoofd RDM & Functioneel Beheer
 
 1. Het teamhoofd RDM & Functioneel Beheer:
 
@@ -112,7 +138,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. verstrekt op verzoek van de Chief Information Officer informatie over de staat van archiefbescheiden en over de wijze waarop aan de zorg vorm wordt gegeven.
 
-#### Artikel 5. Manager
+##### Artikel 5. Manager
 
 1. De manager:
 
@@ -128,7 +154,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. verleent op verzoek van het teamhoofd RDM & Functioneel Beheer medewerking aan het opstellen van procedures, voorschriften en selectielijsten door het beschikbaar stellen van deskundigen op het gebied van de taken en werkprocessen van het organisatieonderdeel.
 
-#### Artikel 6. Locatiemanager
+##### Artikel 6. Locatiemanager
 
 1. De locatiemanager:
 
@@ -144,13 +170,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. verleent op verzoek van het teamhoofd RDM & Functioneel Beheer medewerking aan het opstellen van procedures, voorschriften en selectielijsten door het beschikbaar stellen van deskundigen op het gebied van de taken en werkprocessen van het organisatieonderdeel.
 
-#### Artikel 7. Medewerkers
+##### Artikel 7. Medewerkers
 
 Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde archiefbescheiden op de juiste manier opneemt in de daarvoor door het teamhoofd RDM & Functioneel Beheer bepaalde systemen of op correcte wijze ter opname aanbiedt aan de beheerder van het lopende archief.
 
 ### Hoofdstuk 3. Beheer van archiefbescheiden
 
-#### Artikel 8. Materiële verzorging
+##### Artikel 8. Materiële verzorging
 
 1. Het teamhoofd RDM & Functioneel Beheer beheert de archiefbescheiden zodanig dat bij het raadplegen van deze archiefbescheiden geen noemenswaardige achteruitgang van de archiefbescheiden is te constateren.
 
@@ -160,7 +186,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. Digitale archiefbescheiden worden, uiterlijk op het tijdstip van overbrenging, opgeslagen in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard, tenzij dit redelijkerwijs niet mogelijk is.
 
-#### Artikel 9. Registratie
+##### Artikel 9. Registratie
 
 1. Registratie van de bij het COA centraal inkomende archiefbescheiden vindt plaats door de archiefbeheerder.
 
@@ -168,7 +194,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 3. Bij de registratie van de archiefbescheiden worden ten minste de metagegevens vastgelegd uit de door de archiefbeheerder vastgestelde set van verplichte metadata.
 
-#### Artikel 10. Dossiervorming
+##### Artikel 10. Dossiervorming
 
 1. Archiefbescheiden worden op logisch samenhangende wijze geordend, zodanig dat:
 
@@ -180,7 +206,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 2. Bij de dossierregistratie worden ten minste de metagegevens vastgelegd uit de door de archiefbeheerder vastgestelde set van verplichte metadata.
 
-#### Artikel 11. Vernietiging
+##### Artikel 11. Vernietiging
 
 1. Archiefbescheiden worden uitsluitend vernietigd indien:
 
@@ -194,7 +220,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. Vernietiging geschiedt zodanig dat het niet mogelijk is op enige wijze nog informatie uit de archiefbescheiden te herleiden.
 
-#### Artikel 12. Vervanging
+##### Artikel 12. Vervanging
 
 1. De Chief Information Officer kan besluiten tot de vervanging van archiefbescheiden.
 
@@ -202,7 +228,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 3. Van de vervanging wordt een verklaring opgemaakt die een specificatie bevat van de vervangen archiefbescheiden.
 
-#### Artikel 13. Vervreemding
+##### Artikel 13. Vervreemding
 
 1. Het teamhoofd RDM & Functioneel Beheer kan in overleg de archiefbescheiden die niet zijn overgebracht naar het Nationaal Archief vervreemden.
 
@@ -212,7 +238,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. Van de vervreemding wordt een verklaring opgemaakt die een specificatie bevat van de vervreemde archiefbescheiden.
 
-#### Artikel 14. Overdragen
+##### Artikel 14. Overdragen
 
 1. Het teamhoofd RDM & Functioneel Beheer is belast met het archiefbeheer van alle semi-statische archiefbescheiden.
 
@@ -222,7 +248,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. Van de overdracht wordt een verklaring opgemaakt die een specificatie bevat van de overgedragen semi-statische archiefbescheiden.
 
-#### Artikel 15. Overbrengen
+##### Artikel 15. Overbrengen
 
 1. De semi-statische archiefbescheiden worden indien zij de leeftijd van twintig jaar hebben bereikt binnen een periode van 10 jaar door het teamhoofd RDM & Functioneel Beheer in goede, geordende en toegankelijke staat overgebracht naar het Nationaal Archief.
 
@@ -236,7 +262,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 ### Hoofdstuk 4. Beschikbaar stellen van archiefbescheiden
 
-#### Artikel 16. Interne beschikbaarstelling
+##### Artikel 16. Interne beschikbaarstelling
 
 1. Archiefbescheiden zijn beschikbaar ter raadpleging voor de medewerkers van het COA, tenzij er beperkende voorschriften gelden.
 
@@ -246,7 +272,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. De COA-medewerker die archiefbescheiden geleend heeft, draagt er zorg voor dat deze tijdig en in oorspronkelijke staat worden terugbezorgd bij de archiefbeheerder.
 
-#### Artikel 17. Informatieverstrekking aan derden
+##### Artikel 17. Informatieverstrekking aan derden
 
 1. Verzoeken van derden om informatie over, of beschikbaarstelling van, kopieën van, dan wel inzage in archiefbescheiden worden door de manager behandeld met inachtneming van de wet- en regelgeving, in het bijzonder de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252).
 
@@ -258,7 +284,7 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 ### Hoofdstuk 5. Bijzondere bepalingen inzake het archiefbeheer
 
-#### Artikel 18. Reorganisatie
+##### Artikel 18. Reorganisatie
 
 1. Bij een organisatiewijziging, zoals reorganisatie, opheffing, samenvoeging, splitsing of privatisering, waarbij een of meerdere taken worden overgedragen of eindigen, wordt door het teamhoofd RDM & Functioneel Beheer, in overleg met de desbetreffende manager een voorziening getroffen voor de desbetreffende archiefbescheiden.
 
@@ -268,24 +294,24 @@ Elke medewerker draagt er zorg voor dat hij/zij de door hem/haar behandelde arch
 
 4. Bij de instelling van tijdelijke organisatieonderdelen wordt, in overleg met het teamhoofd RDM & Functioneel Beheer, een voorziening getroffen voor het archiefbeheer van de archiefbescheiden na opheffing van het organisatieonderdeel.
 
-#### Artikel 19. Uitbesteding
+##### Artikel 19. Uitbesteding
 
 Een regeling waarbij taken en bevoegdheden namens het bestuur worden uitgevoerd door een andere rechtspersoon bevat een voorziening over het archiefbeheer overeenkomstig het gestelde in deze regeling.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 20. Intrekking
+##### Artikel 20. Intrekking
 
 De [Regeling Archiefbeheer COA](https://wetten.overheid.nl/jci1.3:c:BWBR0035334) wordt ingetrokken.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 22. Bekendmaking
+##### Artikel 22. Bekendmaking
 
 Deze regeling zal binnen het COA bekend worden gemaakt en daarnaast met de toelichting worden geplaatst in de Staatscourant.
 
-#### Artikel 23. Citeertitel
+##### Artikel 23. Citeertitel
 
 De regeling kan worden aangehaald als 'Regeling Archiefbeheer COA 2020'.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bekendmaking intensivering spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van belastingdiensten"
+title: "Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten"
 identifier: "BWBR0036880"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-07-14
-laatste_update: 2015-07-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036880"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-07-14"
+last_updated: "2015-07-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036880"
+soort: "beleidsregel"
+stam_id: "13229193"
+version_id: "22609712"
+internal_id: "C32414991"
+label_id: "13197504"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036880/2015-07-14/0"
+intitule_bron: "Stcrt.2015-21781"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-17"
+intitule_published: "2015-07-24"
+intitule_in_force: "2015-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-21781"
+original_signed_date: "2015-07-17"
+original_published_date: "2015-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-21781"
+entry_into_force_date: "2015-07-14"
+jci_1_3: "jci1.3:c:BWBR0036880&z=2015-07-14&g=2015-07-14"
+jci_1_0: "1.0:c:BWBR0036880&g=2015-07-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit bekendmaking intensivering spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van belastingdiensten"
+signed_date: "2015-07-17"
+entry_into_force: "2015-07-14"
 ---
-
 # Besluit bekendmaking van het op 14 juli 2015 tussen de Ministers van Financiën van Duitsland en Nederland gesloten Memorandum van Overeenstemming inzake de intensivering van de spontane inlichtingenuitwisseling m.b.t. grensoverschrijdende belastingafspraken met en beslissingen van de belastingdiensten
 
 **De Staatssecretaris van Financiën maakt het volgende bekend.**
@@ -40,7 +66,7 @@ Intensify the spontaneous exchange of information regarding all information with
 
 Have agreed the following:
 
-#### Article 1
+##### Article 1
 
 1. For the application of this Memorandum the competent authorities are:
 
@@ -50,7 +76,7 @@ Have agreed the following:
 
 2. The Participants shall inform each other by exchange of letters about the names and addresses of the authorized representatives concerned and about any subsequent changes in these representatives.
 
-#### Article 2
+##### Article 2
 
 1. The competent authorities of the participating States will provide each other spontaneously with information about any agreement or decision of their tax authorities which has a potential cross border impact on the tax assessment(s) of the other participating State and in particular information about the following agreements and decisions:
 
@@ -68,15 +94,15 @@ Have agreed the following:
 
 4. If it should appear that the provided information is incorrect or incomplete, the competent authorities are obliged to contact each other about this as soon as possible.
 
-#### Article 3
+##### Article 3
 
 Any exchange of information shall be either in English or accompanied by an English translation of the relevant information.
 
-#### Article 4
+##### Article 4
 
 This Memorandum does not bind in any way the Participants with respect to the forthcoming changes in EU legislation on exchange of information.
 
-#### Article 5
+##### Article 5
 
 1. If necessary, the Participants confer on the way in which the obligations resulting from this Memorandum are executed.
 
@@ -84,7 +110,7 @@ This Memorandum does not bind in any way the Participants with respect to the fo
 
 3. The information to be exchanged includes, if available, the information as mentioned under 5.1 and 5.2 of the EU Model Instruction.
 
-#### Article 6
+##### Article 6
 
 1. This Memorandum is concluded for a period of two years and will take effect from the date of signature.
 
@@ -94,11 +120,11 @@ This Memorandum does not bind in any way the Participants with respect to the fo
 
 4. The Memorandum may be terminated at any time by written notification by either Participant and will remain operative for six months from the date of receiving such notification by the other Participant.
 
-#### Article 7
+##### Article 7
 
 This Memorandum may be referred to as ‘Memorandum of Understanding between Germany and the Netherlands on the intensification of spontaneous exchange of information regarding cross-border tax agreements and decisions.’
 
-#### Article 8
+##### Article 8
 
 This Memorandum will be evaluated two years after the date of commencement, unless new EU legislation requires an earlier review. However, questions with regard to this Memorandum can be addressed at any time by one of the Participants.
 

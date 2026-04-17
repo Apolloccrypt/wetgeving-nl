@@ -1,14 +1,42 @@
 ---
-title: "Wet open overheid"
+title: "Wet van 25 oktober 2021, houdende regels over de toegankelijkheid van informatie van publiek belang (Wet open overheid)"
 identifier: "BWBR0045754"
-categorie: "Overig"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045754"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045754"
+soort: "wet"
+stam_id: "16114663"
+version_id: "28111442"
+internal_id: "C39644561"
+label_id: "16045964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045754/2026-02-20/0"
+intitule_bron: "Stb.2021-499"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-25"
+intitule_published: "2021-10-27"
+intitule_in_force: "2021-10-27"
+intitule_status: "goed"
+original_publication: "Stb.2021-499"
+original_signed_date: "2021-10-25"
+original_published_date: "2021-10-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "33328"
+original_url_id: "stb-2021-499"
+entry_into_force_date: "2022-05-01"
+entry_into_force_dossier: "33328"
+jci_1_3: "jci1.3:c:BWBR0045754&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0045754&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Wet open overheid"
+signed_date: "2021-10-25"
+entry_into_force: "2022-05-01"
 ---
-
-# Wet open overheid
+# Wet van 25 oktober 2021, houdende regels over de toegankelijkheid van informatie van publiek belang (Wet open overheid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,13 +46,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Rechten
 
-#### Artikel 1.1. Recht op toegang
+##### Artikel 1.1. Recht op toegang
 
 Eenieder heeft recht op toegang tot publieke informatie zonder daartoe een belang te hoeven stellen, behoudens bij deze wet gestelde beperkingen.
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 2.1. Begripsbepalingen
+##### Artikel 2.1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +64,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **publieke informatie:** informatie neergelegd in documenten die berusten bij een orgaan, persoon of college als bedoeld in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.2&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 2.2. Reikwijdte
+##### Artikel 2.2. Reikwijdte
 
 1. Deze wet is van toepassing op:
 
@@ -54,7 +82,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Voor de toepassing van deze wet worden de organen, personen en colleges, bedoeld in het eerste lid, onderdelen b tot en met f, die op grond van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) geen bestuursorgaan zijn, gelijk gesteld met een bestuursorgaan.
 
-#### Artikel 2.4. Zorgplicht en openbaarmaking
+##### Artikel 2.4. Zorgplicht en openbaarmaking
 
 1. Een bestuursorgaan draagt er zorg voor dat de documenten die het ontvangt, vervaardigt of anderszins onder zich heeft, zich in goede, geordende en toegankelijke staat bevinden.
 
@@ -76,13 +104,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Indien het bestuursorgaan informatie verstrekt, verstrekt het zo nodig, en voor zover deze informatie voorhanden is, tevens informatie over de methoden die zijn gebruikt bij het samenstellen van de informatie.
 
-#### Artikel 2.5. Belang openbaarheid
+##### Artikel 2.5. Belang openbaarheid
 
 Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openbaarheid van publieke informatie voor de democratische samenleving.
 
 ### Hoofdstuk 3. Openbaarmaking uit eigen beweging
 
-#### Artikel 3.1. Actieve openbaarmaking als inspanningsverplichting
+##### Artikel 3.1. Actieve openbaarmaking als inspanningsverplichting
 
 1. Het bestuursorgaan dat het rechtstreeks aangaat, maakt bij de uitvoering van zijn taak uit eigen beweging de bij het bestuursorgaan berustende informatie neergelegd in documenten voor eenieder openbaar, indien dit zonder onevenredige inspanning of kosten redelijkerwijs mogelijk is, behoudens voor zover de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) aan openbaarmaking in de weg staan of met de openbaarmaking geen redelijk belang wordt gediend. Deze informatie betreft in ieder geval informatie over het beleid, inclusief de voorbereiding, uitvoering, naleving, handhaving en evaluatie.
 
@@ -92,7 +120,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 4. Het bestuursorgaan deelt een belanghebbende mede dat toepassing wordt gegeven aan het eerste lid, onder vermelding van het tijdstip van openbaarmaking en de openbaar te maken documenten. De mededeling wordt gelijkgesteld met een besluit.
 
-#### Artikel 3.3. Actieve openbaarmaking van categorieën informatie
+##### Artikel 3.3. Actieve openbaarmaking van categorieën informatie
 
 1. Een bestuursorgaan maakt in ieder geval uit eigen beweging openbaar:
 
@@ -174,7 +202,7 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 9. Onze Minister kan bij ministeriële regeling nadere regels stellen over de wijze waarop in dit artikel genoemde documenten actief openbaar worden gemaakt.
 
-#### Artikel 3.3a. Actieve openbaarmaking in de vorm van overzichten
+##### Artikel 3.3a. Actieve openbaarmaking in de vorm van overzichten
 
 1. Een bestuursorgaan kan in plaats van door openbaarmaking overeenkomstig [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), de informatie over beschikkingen inzake subsidies aan anderen dan natuurlijke personen openbaar maken in een voor personen elektronisch raadpleegbaar overzicht, waarbij, voor zover de informatie in de beschikking is opgenomen en de [artikelen 5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) niet aan openbaarmaking in de weg staan, in ieder geval openbaar wordt gemaakt:
 
@@ -226,21 +254,21 @@ Bij de toepassing van deze wet wordt uitgegaan van het algemeen belang van openb
 
 6. Onze Minister kan bij ministeriële regeling nadere regels stellen over de wijze waarop in dit artikel genoemde overzichten actief openbaar worden gemaakt.
 
-#### Artikel 3.3b
+##### Artikel 3.3b
 
 De openbaarmaking van de in de [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20) en [3.3a](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3a&z=2026-02-20&g=2026-02-20) genoemde documenten geschiedt elektronisch op een algemeen toegankelijke wijze door middel van een door Onze Minister in stand gehouden digitale infrastructuur. Deze infrastructuur is beschikbaar voor de openbaarmaking van andere documenten.
 
-#### Artikel 3.4. Openbaarheid bij zwaarwegend algemeen belang
+##### Artikel 3.4. Openbaarheid bij zwaarwegend algemeen belang
 
 In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) kan een bestuursorgaan informatie uit eigen beweging openbaar maken, wanneer een ander zwaarwegend algemeen belang, daaronder begrepen het belang van openbare veiligheid, de volksgezondheid of het milieu of de bescherming van de democratische rechtsorde, dat in een concreet geval vergt.
 
-#### Artikel 3.5. Openbaarheidsparagraaf
+##### Artikel 3.5. Openbaarheidsparagraaf
 
 Een bestuursorgaan besteedt in de jaarlijkse begroting dan wel de jaarlijkse begroting van het openbaar lichaam of de rechtspersoon waarvan het bestuursorgaan deel uit maakt, aandacht aan de beleidsvoornemens inzake de uitvoering van deze wet en doet in de jaarlijkse verantwoording verslag van de uitvoering ervan, mede in relatie tot de beleidsvoornemens.
 
 ### Hoofdstuk 4. Openbaarmaking op verzoek
 
-#### Artikel 4.1. Verzoek
+##### Artikel 4.1. Verzoek
 
 1. Eenieder kan een verzoek om publieke informatie richten tot een bestuursorgaan of een onder verantwoordelijkheid van een bestuursorgaan werkzame instelling, dienst of bedrijf. In het laatste geval beslist het verantwoordelijke bestuursorgaan op het verzoek.
 
@@ -256,11 +284,11 @@ Een bestuursorgaan besteedt in de jaarlijkse begroting dan wel de jaarlijkse beg
 
 7. Een verzoek om informatie wordt ingewilligd met inachtneming van het bepaalde in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 4.1a. Borgen behoud documenten
+##### Artikel 4.1a. Borgen behoud documenten
 
 Het bestuursorgaan waarborgt het behoud van de documenten waarop een door hem ontvangen verzoek betrekking heeft.
 
-#### Artikel 4.2. Doorverwijzing
+##### Artikel 4.2. Doorverwijzing
 
 1. Voor zover het verzoek betrekking heeft op informatie die berust bij een ander bestuursorgaan dan dat waarbij het verzoek is ingediend, wordt de verzoeker zo nodig naar dat bestuursorgaan verwezen. Is het verzoek schriftelijk gedaan, dan wordt het voor zover betrekking hebbend op informatie die bij een ander bestuursorgaan berust, onverwijld doorgezonden aan dat bestuursorgaan, onder mededeling van de doorzending aan de verzoeker.
 
@@ -268,11 +296,11 @@ Het bestuursorgaan waarborgt het behoud van de documenten waarop een door hem on
 
 3. Voor zover een verzoek als bedoeld in [artikel 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2026-02-20&g=2026-02-20), dat is gericht aan een der Kamers of de verenigde vergadering der Staten-Generaal, betrekking heeft op informatie die door de regering vertrouwelijk aan de Staten-Generaal is verstrekt, zendt de Kamer of de verenigde vergadering het verzoek ter behandeling door aan Onze Minister of Onze Ministers die deze informatie vertrouwelijk heeft of hebben verstrekt.
 
-#### Artikel 4.2a. Overleg tussen bestuursorgaan en verzoeker
+##### Artikel 4.2a. Overleg tussen bestuursorgaan en verzoeker
 
 Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binnen de termijn van [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.4&z=2026-02-20&g=2026-02-20), kan worden beslist, treedt het bestuursorgaan voor het einde van die termijn in overleg met de verzoeker over de prioritering van de afhandeling van het verzoek. Het bestuursorgaan verstrekt de gevraagde documenten zo veel mogelijk in de door de verzoeker gewenste volgorde.
 
-#### Artikel 4.3. Beslissing
+##### Artikel 4.3. Beslissing
 
 1. De beslissing op een verzoek om informatie wordt mondeling of schriftelijk genomen.
 
@@ -288,7 +316,7 @@ Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binne
 
 3. Bij de afwijzing van een mondeling verzoek, wordt de verzoeker gewezen op de mogelijkheid van een schriftelijk besluit.
 
-#### Artikel 4.4. Termijn
+##### Artikel 4.4. Termijn
 
 1. Het bestuursorgaan beslist op het verzoek om informatie zo spoedig mogelijk, doch uiterlijk binnen vier weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.
 
@@ -302,23 +330,23 @@ Indien een voldoende gespecificeerd verzoek zodanig omvangrijk is dat niet binne
 
 6. Indien het bestuursorgaan heeft besloten informatie te verstrekken die rechtstreeks betrekking heeft op een derde of die van een derde afkomstig is, deelt het bestuursorgaan dit besluit gelijktijdig mede aan deze derde.
 
-#### Artikel 4.5. Verstrekking
+##### Artikel 4.5. Verstrekking
 
 1. Het bestuursorgaan verstrekt de informatie in de door verzoeker verzochte vorm of, indien dit redelijkerwijs niet gevergd kan worden, met inachtneming van het bepaalde in [artikel 2.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2026-02-20&g=2026-02-20).
 
 2. Indien de informatie reeds in een voor de verzoeker gemakkelijk toegankelijke vorm voor het publiek beschikbaar is, wijst het bestuursorgaan de verzoeker daarop.
 
-#### Artikel 4.6. Antimisbruikbepaling
+##### Artikel 4.6. Antimisbruikbepaling
 
 Indien de verzoeker kennelijk een ander doel heeft dan het verkrijgen van publieke informatie of indien het verzoek evident geen bestuurlijke aangelegenheid betreft, kan het bestuursorgaan binnen twee weken na ontvangst van het verzoek, dan wel onverwijld nadat is gebleken dat de verzoeker kennelijk een ander doel heeft dan het verkrijgen van publieke informatie, besluiten het verzoek niet te behandelen.
 
-#### Artikel 4.7. Contactpersoon
+##### Artikel 4.7. Contactpersoon
 
 Ter beantwoording van vragen over de beschikbaarheid van publieke informatie wijst het bestuursorgaan een of meer contactpersonen aan.
 
 ### Hoofdstuk 5. Uitzonderingen
 
-#### Artikel 5.1. Uitzonderingen
+##### Artikel 5.1. Uitzonderingen
 
 1. Het openbaar maken van informatie ingevolge deze wet blijft achterwege voor zover dit:
 
@@ -362,7 +390,7 @@ Ter beantwoording van vragen over de beschikbaarheid van publieke informatie wij
 
 7. Het eerste en tweede lid zijn niet van toepassing op milieu-informatie die betrekking heeft op emissies in het milieu.
 
-#### Artikel 5.2. Persoonlijke beleidsopvattingen
+##### Artikel 5.2. Persoonlijke beleidsopvattingen
 
 1. In geval van een verzoek om informatie uit documenten, opgesteld ten behoeve van intern beraad, wordt geen informatie verstrekt over daarin opgenomen persoonlijke beleidsopvattingen. Onder persoonlijke beleidsopvattingen worden verstaan ambtelijke adviezen, visies, standpunten en overwegingen ten behoeve van intern beraad, niet zijnde feiten, prognoses, beleidsalternatieven, de gevolgen van een bepaald beleidsalternatief of andere onderdelen met een overwegend objectief karakter.
 
@@ -372,21 +400,21 @@ Ter beantwoording van vragen over de beschikbaarheid van publieke informatie wij
 
 4. In afwijking van het eerste lid wordt bij milieu-informatie het belang van de bescherming van de persoonlijke beleidsopvattingen afgewogen tegen het belang van openbaarmaking. Informatie over persoonlijke beleidsopvattingen kan worden verstrekt in niet tot personen herleidbare vorm. Indien degene die deze opvattingen heeft geuit of zich erachter heeft gesteld, daarmee heeft ingestemd, kan de informatie in tot personen herleidbare vorm worden verstrekt.
 
-#### Artikel 5.3. Informatie ouder dan vijf jaar
+##### Artikel 5.3. Informatie ouder dan vijf jaar
 
 Bij een verzoek om informatie die ouder is dan vijf jaar motiveert het bestuursorgaan bij een weigering van die informatie waarom de in [artikel 5.1, tweede of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20), of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) bedoelde belangen ondanks het tijdsverloop zwaarder wegen dan het algemeen belang van openbaarheid.
 
-#### Artikel 5.4. Formatie
+##### Artikel 5.4. Formatie
 
 In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) is informatie die berust bij de formateur of de informateur, dan wel informatie die door een bestuursorgaan aan de formateur of de informateur is gezonden niet openbaar totdat de formatie is afgerond.
 
-#### Artikel 5.4a. Ondersteuning Kamerleden, statenleden en raadsleden
+##### Artikel 5.4a. Ondersteuning Kamerleden, statenleden en raadsleden
 
 1. In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) is niet openbaar de informatie betreffende de ondersteuning van individuele leden van de Eerste Kamer of de Tweede Kamer der Staten-Generaal, provinciale staten of de gemeenteraad door ambtenaren werkzaam bij de Eerste Kamer of de Tweede Kamer, de griffie van provinciale staten of de griffie van de gemeenteraad.
 
 2. In afwijking van [artikel 5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20), wordt met betrekking tot informatie die aan individuele Kamerleden wordt verstrekt onder persoonlijke beleidsopvattingen verstaan ambtelijke adviezen, visies, standpunten en overwegingen ten behoeve van intern beraad.
 
-#### Artikel 5.5. Verstrekking van informatie die de verzoeker betreft
+##### Artikel 5.5. Verstrekking van informatie die de verzoeker betreft
 
 1. Onverminderd het elders bij wet bepaalde, verstrekt een bestuursorgaan iedere natuurlijke of rechtspersoon op diens verzoek de op de verzoeker betrekking hebbende in documenten neergelegde informatie, tenzij een in [artikel 5.1, eerste lid, onderdelen a, b en c, alsmede d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20), voor zover betrekking hebbend op derden, genoemd belang aan de orde is of een in artikel 5.1, tweede of vijfde lid, of [artikel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) genoemd belang zwaarder weegt dan het belang van de verzoeker bij toegang tot op hem betrekking hebbende informatie. De verzoeker vermeldt bij zijn verzoek de aangelegenheid of het daarop betrekking hebbende document, waarover hij informatie wenst te ontvangen.
 
@@ -396,7 +424,7 @@ In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045
 
 4. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20), tenzij de gevraagde informatie met toepassing van de artikelen 5.1 en 5.2 openbaar voor eenieder zou zijn.
 
-#### Artikel 5.6. Verstrekking van niet-openbare informatie wegens klemmende redenen
+##### Artikel 5.6. Verstrekking van niet-openbare informatie wegens klemmende redenen
 
 1. Het bestuursorgaan kan, in geval informatie ingevolge de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) niet openbaar gemaakt kan worden, besluiten de informatie uitsluitend aan de verzoeker te verstrekken, indien er klemmende redenen zijn om de verzoeker niettegenstaande de toepasselijke uitzonderingsgrond of -gronden de gevraagde informatie niet te onthouden.
 
@@ -404,7 +432,7 @@ In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045
 
 3. Het bestuursorgaan kan aan de verstrekking voorwaarden verbinden ter bescherming van een van de belangen, genoemd in de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20) en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 5.7. Toegang tot niet-openbare informatie ten behoeve van onderzoek
+##### Artikel 5.7. Toegang tot niet-openbare informatie ten behoeve van onderzoek
 
 1. Een bestuursorgaan kan ten behoeve van historisch, statistisch, wetenschappelijk of journalistiek onderzoek toegang bieden tot informatie:
 
@@ -418,11 +446,11 @@ In afwijking van de [artikelen 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045
 
 ### Hoofdstuk 6. Digitale informatiehuishouding
 
-#### Artikel 6.1. Doel
+##### Artikel 6.1. Doel
 
 Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk maken van de digitale documenten, bedoeld in [artikel 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=2&artikel=2.4&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 6.2. Meerjarenplan
+##### Artikel 6.2. Meerjarenplan
 
 1. Onze Minister, in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap, zendt een meerjarenplan naar de Staten-Generaal over de wijze waarop bestuursorganen hun digitale overheidsinformatie duurzaam toegankelijk maken.
 
@@ -434,7 +462,7 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 ### Hoofdstuk 7. Het adviescollege openbaarheid en informatiehuishouding
 
-#### Artikel 7.1. Adviescollege openbaarheid en informatiehuishouding
+##### Artikel 7.1. Adviescollege openbaarheid en informatiehuishouding
 
 1. Er is een Adviescollege openbaarheid en informatiehuishouding.
 
@@ -444,7 +472,7 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 4. De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=16) en [19 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19) zijn van overeenkomstige toepassing.
 
-#### Artikel 7.2. Taken
+##### Artikel 7.2. Taken
 
 1. Het college adviseert de regering en de beide Kamers der Staten-Generaal gevraagd en ongevraagd over de uitvoering van de regels over openbaarmaking van publieke informatie.
 
@@ -464,7 +492,7 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 - d. het publiceren van richtsnoeren ter bevordering van de openbaarmaking uit eigen beweging en de ontsluiting van informatie.
 
-#### Artikel 7.3. Bemiddeling
+##### Artikel 7.3. Bemiddeling
 
 1. Alvorens een advies als bedoeld in [artikel 7.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=7&artikel=7.2&z=2026-02-20&g=2026-02-20), uit te brengen, bemiddelt het college tussen het bestuursorgaan en de klager. Het bestuursorgaan werkt aan de bemiddeling mee.
 
@@ -474,11 +502,11 @@ Het bestuursorgaan treft maatregelen ten behoeve van het duurzaam toegankelijk m
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze waarop klachten worden ingediend en het college tussen het bestuursorgaan en de klager bemiddelt als bedoeld in het eerste lid.
 
-#### Artikel 7.4. Informatieplicht
+##### Artikel 7.4. Informatieplicht
 
 Een bestuursorgaan verstrekt desgevraagd het college alle gegevens die het nodig heeft voor zijn taak.
 
-#### Artikel 7.5. Geheimhouding
+##### Artikel 7.5. Geheimhouding
 
 1. De leden van het college alsmede de ambtenaren van zijn bureau zijn tot geheimhouding verplicht voor zover zij krachtens deze wet beschikken over documenten die door het bestuursorgaan waarvan zij afkomstig zijn niet openbaar zijn gemaakt.
 
@@ -486,17 +514,17 @@ Een bestuursorgaan verstrekt desgevraagd het college alle gegevens die het nodig
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 8.1. Strafbepaling
+##### Artikel 8.1. Strafbepaling
 
 1. Overtreding van een voorwaarde die op grond van [artikel 5.5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.5&z=2026-02-20&g=2026-02-20), [5.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.6&z=2026-02-20&g=2026-02-20), of [artikel 5.7, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.7&z=2026-02-20&g=2026-02-20), aan een verstrekking is verbonden, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie.
 
 2. Het in het eerste lid strafbaar gestelde feit is een misdrijf.
 
-#### Artikel 8.2. Geen dwangsom niet tijdig beslissen
+##### Artikel 8.2. Geen dwangsom niet tijdig beslissen
 
 [Paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) is niet van toepassing op besluiten op grond van deze wet en op beslissingen op bezwaar tegen deze besluiten.
 
-#### Artikel 8.4. Beroep bij niet tijdig beslissen
+##### Artikel 8.4. Beroep bij niet tijdig beslissen
 
 1. In geval van een gegrond beroep tegen het niet tijdig nemen van een besluit op grond van deze wet of een beslissing op bezwaar tegen een dergelijk besluit, waarbij nog geen besluit is bekendgemaakt, bepaalt de bestuursrechter, indien de omvang van het verzoek hiertoe aanleiding geeft, in afwijking van [artikel 8:55d, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:55d) de termijn waarbinnen het bestuursorgaan alsnog een besluit bekendmaakt.
 
@@ -510,11 +538,11 @@ Een bestuursorgaan verstrekt desgevraagd het college alle gegevens die het nodig
 
 4. De bestuursrechter kan eveneens [artikel 8:74, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) buiten toepassing laten en een proceskostenveroordeling op grond van [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) achterwege laten, indien hij oordeelt dat het niet tijdig nemen van een besluit kennelijk het gevolg is van de wijze van indiening van het verzoek.
 
-#### Artikel 8.5. Last onder dwangsom
+##### Artikel 8.5. Last onder dwangsom
 
 Het bestuursorgaan is bevoegd tot oplegging van een last onder dwangsom ter handhaving van [artikel 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.2&z=2026-02-20&g=2026-02-20).
 
-#### Artikel 8.6. Kosten
+##### Artikel 8.6. Kosten
 
 1. De openbaarmaking van informatie op grond van deze wet is kosteloos.
 
@@ -522,15 +550,15 @@ Het bestuursorgaan is bevoegd tot oplegging van een last onder dwangsom ter hand
 
 3. Op voordracht van Onze Minister kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld met betrekking tot het tweede lid.
 
-#### Artikel 8.7. Uitvoeringsregels
+##### Artikel 8.7. Uitvoeringsregels
 
 Op voordracht van Onze Minister kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld over de wijze waarop een bestuursorgaan de uitvoering van deze wet organiseert.
 
-#### Artikel 8.8. Verhouding met andere wetten
+##### Artikel 8.8. Verhouding met andere wetten
 
 De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.1&z=2026-02-20&g=2026-02-20), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=4&artikel=4.1&z=2026-02-20&g=2026-02-20), [5.1, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.1&z=2026-02-20&g=2026-02-20), en [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=5&artikel=5.2&z=2026-02-20&g=2026-02-20) zijn niet van toepassing op informatie waarvoor een bepaling geldt die is opgenomen in de bijlage bij deze wet.
 
-#### Artikel 8.9. Evaluatiebepaling
+##### Artikel 8.9. Evaluatiebepaling
 
 1. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
@@ -538,249 +566,249 @@ De [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&a
 
 ### Hoofdstuk 9. Wijziging van enige wetten
 
-#### Artikel 9.1. Wijziging [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
+##### Artikel 9.1. Wijziging [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
 
 Wijzigt de Wet Nationale ombudsman.
 
-#### Artikel 9.2. Wijziging [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367)
+##### Artikel 9.2. Wijziging [Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367)
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel 9.3. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 9.3. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 9.4. Wijziging [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508)
+##### Artikel 9.4. Wijziging [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508)
 
 Wijzigt de Bankwet 1998.
 
-#### Artikel 9.5. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 9.5. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 9.6. Wijziging [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092)
+##### Artikel 9.6. Wijziging [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012092)
 
 Wijzigt de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000.
 
-#### Artikel 9.7. Wijziging [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429)
+##### Artikel 9.7. Wijziging [Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429)
 
 Wijzigt de Comptabiliteitswet 2016.
 
-#### Artikel 9.8. Wijziging [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
+##### Artikel 9.8. Wijziging [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel 9.13. Wijziging [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
+##### Artikel 9.13. Wijziging [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416)
 
 Wijzigt de Gemeentewet.
 
-#### Artikel 9.14. Wijziging [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
+##### Artikel 9.14. Wijziging [Mijnbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0014168)
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel 9.15. Wijziging [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
+##### Artikel 9.15. Wijziging [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
 
 Wijzigt de Provinciewet.
 
-#### Artikel 9.17. Wijziging [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
+##### Artikel 9.17. Wijziging [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896)
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2017.
 
-#### Artikel 9.18. Wijziging [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026158)
+##### Artikel 9.18. Wijziging [Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie](https://wetten.overheid.nl/jci1.3:c:BWBR0026158)
 
 Wijzigt de Implementatiewet EG-richtlijn infrastructuur ruimtelijke informatie.
 
-#### Artikel 9.19. Wijziging [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
+##### Artikel 9.19. Wijziging [Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108)
 
 Wijzigt de Waterschapswet.
 
-#### Artikel 9.20. Wijziging [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
+##### Artikel 9.20. Wijziging [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740)
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-#### Artikel 9.21. Wijziging [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
+##### Artikel 9.21. Wijziging [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
 Wijzigt de Arbeidsomstandighedenwet.
 
-#### Artikel 9.22. Wijziging [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338)
+##### Artikel 9.22. Wijziging [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338)
 
 Wijzigt de Drinkwaterwet.
 
-#### Artikel 9.23. Wijziging [Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202)
+##### Artikel 9.23. Wijziging [Gezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202)
 
 Wijzigt de Gezondheidswet.
 
-#### Artikel 9.24. Wijziging [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
+##### Artikel 9.24. Wijziging [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495)
 
 Wijzigt de Kaderwet zelfstandige bestuursorganen.
 
-#### Artikel 9.25. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
+##### Artikel 9.25. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
 Wijzigt de Pensioenwet.
 
-#### Artikel 9.29. Wijziging [Wet basisregistratie grootschalige topografie](https://wetten.overheid.nl/jci1.3:c:BWBR0034026)
+##### Artikel 9.29. Wijziging [Wet basisregistratie grootschalige topografie](https://wetten.overheid.nl/jci1.3:c:BWBR0034026)
 
 Wijzigt de Wet basisregistratie grootschalige topografie.
 
-#### Artikel 9.30. Wijziging [Wet basisregistraties adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466)
+##### Artikel 9.30. Wijziging [Wet basisregistraties adressen en gebouwen](https://wetten.overheid.nl/jci1.3:c:BWBR0023466)
 
 Wijzigt de Wet basisregistraties adressen en gebouwen.
 
-#### Artikel 9.31. Wijziging [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 9.31. Wijziging [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
-#### Artikel 9.32. Wijziging [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
+##### Artikel 9.32. Wijziging [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994)
 
 Wijzigt de Wet bodembescherming.
 
-#### Artikel 9.33. Wijziging [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004)
+##### Artikel 9.33. Wijziging [Wet financiering politieke partijen](https://wetten.overheid.nl/jci1.3:c:BWBR0033004)
 
 Wijzigt de Wet financiering politieke partijen.
 
-#### Artikel 9.34. Wijziging [Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121)
+##### Artikel 9.34. Wijziging [Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121)
 
 Wijzigt de Wet Justitie-subsidies.
 
-#### Artikel 9.35. Wijziging [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
+##### Artikel 9.35. Wijziging [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078)
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 9.36. Wijziging [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920)
+##### Artikel 9.36. Wijziging [Wet medezeggenschap cliënten zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007920)
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
-#### Artikel 9.38. Wijziging [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
+##### Artikel 9.38. Wijziging [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830)
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel 9.39. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 9.39. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 9.40. Wijziging [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470)
+##### Artikel 9.40. Wijziging [Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470)
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel 9.41. Wijziging [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
+##### Artikel 9.41. Wijziging [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel 9.42. Wijziging [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657)
+##### Artikel 9.42. Wijziging [Wet toezicht effectenverkeer 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007657)
 
 Wijzigt de Wet toezicht effectenverkeer 1995.
 
-#### Artikel 9.43. Wijziging [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466)
+##### Artikel 9.43. Wijziging [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466)
 
 Wijzigt de Wet veiligheidsregio’s.
 
-#### Artikel 9.44. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 9.44. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel 9.45. Wijziging [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
+##### Artikel 9.45. Wijziging [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827)
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 9.47. Wijziging [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
+##### Artikel 9.47. Wijziging [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181)
 
 Wijzigt de Woningwet.
 
-#### Artikel 9.48. Wijziging [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142)
+##### Artikel 9.48. Wijziging [Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142)
 
 Wijzigt de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 9.49. Wijziging [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883)
+##### Artikel 9.49. Wijziging [Wet financiële markten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030883)
 
 Wijzigt de Wet financiële markten BES.
 
-#### Artikel 9.50. [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825)
+##### Artikel 9.50. [Wet op de parlementaire enquête 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023825)
 
 Wijzigt de Wet op de parlementaire enquête 2008.
 
-#### Artikel 9.51. [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 9.51. [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 Wijzigt de Archiefwet 1995.
 
-#### Artikel 9.52. Wijziging [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043)
+##### Artikel 9.52. Wijziging [Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043)
 
 Wijzigt de Instellingswet Autoriteit Consument en Markt.
 
-#### Artikel 9.53. Wijziging [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)
+##### Artikel 9.53. Wijziging [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925)
 
 Wijzigt de Jeugdwet.
 
-#### Artikel 9.53a. Wijziging [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
+##### Artikel 9.53a. Wijziging [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362)
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015.
 
-#### Artikel 9.56. samenloop initiatiefwetsvoorstel Wet toegankelijkheid en bereikbaarheid basisbetaaldiensten (29 688)
+##### Artikel 9.56. samenloop initiatiefwetsvoorstel Wet toegankelijkheid en bereikbaarheid basisbetaaldiensten (29 688)
 
 Wijzigt de Wet toegankelijkheid en bereikbaarheid basisbetaaldiensten.
 
-#### Artikel 9.60. Wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
+##### Artikel 9.60. Wijziging [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950)
 
 Wijzigt de Telecommunicatiewet.
 
-#### Artikel 9.62. Wijziging [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706)
+##### Artikel 9.62. Wijziging [Wet aanpak schijnconstructies](https://wetten.overheid.nl/jci1.3:c:BWBR0036706)
 
 Wijzigt de Wet aanpak schijnconstructies.
 
-#### Artikel 9.63. Wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+##### Artikel 9.63. Wijziging [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt de Omgevingswet.
 
-#### Artikel 9.64. Wijziging [Boek 6 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289)
+##### Artikel 9.64. Wijziging [Boek 6 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289)
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
 
-#### Artikel 9.65. Wijziging [Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095)
+##### Artikel 9.65. Wijziging [Wet basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0037095)
 
 Wijzigt de Wet basisregistratie ondergrond.
 
-#### Artikel 9.66. Wijziging [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369)
+##### Artikel 9.66. Wijziging [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369)
 
 Wijzigt de Wet toezicht financiële verslaggeving.
 
-#### Artikel 9.67. Wijziging [Verzamelwet SZW 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041571)
+##### Artikel 9.67. Wijziging [Verzamelwet SZW 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041571)
 
 Wijzigt de Verzamelwet SZW 2019.
 
-#### Artikel 9.68. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
+##### Artikel 9.68. Wijziging [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682)
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel 9.69. Wijziging [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191)
+##### Artikel 9.69. Wijziging [Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191)
 
 Wijzigt de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek.
 
-#### Artikel 9.70. Wijziging [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906)
+##### Artikel 9.70. Wijziging [TNO-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003906)
 
 Wijzigt de TNO-wet.
 
-#### Artikel 9.71. Samenloop [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012)
+##### Artikel 9.71. Samenloop [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012)
 
 Wijzigt deze wet.
 
-#### Artikel 9.72. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
+##### Artikel 9.72. Wijziging [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625)
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel 9.73. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
+##### Artikel 9.73. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399)
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel 9.74. Wijziging [Besluit bestuursorganen WNo en Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0009896)
+##### Artikel 9.74. Wijziging [Besluit bestuursorganen WNo en Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0009896)
 
 Wijzigt het Besluit bestuursorganen WNo en Wob.
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 10.1. Intrekking [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
+##### Artikel 10.1. Intrekking [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252)
 
 De [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) wordt ingetrokken.
 
-#### Artikel 10.2. Overgangsrecht actieve openbaarmaking
+##### Artikel 10.2. Overgangsrecht actieve openbaarmaking
 
 1. Bij tijdelijke regeling van Onze Minister wordt bepaald welke onderdelen van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), niet van toepassing zijn op in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode.
 
@@ -790,11 +818,11 @@ De [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR000525
 
 - b. voor in die regeling aangewezen bestuursorganen voor een in die regeling bepaalde periode het in die regeling aangewezen type beschikkingen als bedoeld in [artikel 3.3, tweede lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), de verplichting tot openbaarmaking reeds geldt of nog niet van toepassing is.
 
-#### Artikel 10.2a. Overgangsrecht bestaande documenten
+##### Artikel 10.2a. Overgangsrecht bestaande documenten
 
 De in [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), opgenomen verplichting tot openbaarmaking geldt niet voor documenten die zijn vastgesteld of ontvangen voordat deze verplichting op het bestuursorgaan waarbij de documenten berusten, van toepassing is geworden.
 
-#### Artikel 10.2b. Overgangsrecht adviezen Raad van State
+##### Artikel 10.2b. Overgangsrecht adviezen Raad van State
 
 1. Zolang [artikel 3.3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), niet in werking is getreden, draagt de Afdeling advisering van de Raad van State zorg voor de openbaarmaking van:
 
@@ -806,15 +834,15 @@ De in [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 2. [Artikel 3.3 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), is van toepassing, tenzij Onze Minister die het rechtstreeks aangaat heeft verzocht om toepassing van artikel 3.3, vijfde lid, onderdeel a.
 
-#### Artikel 10.2c. Overgangsrecht DNB en AFM
+##### Artikel 10.2c. Overgangsrecht DNB en AFM
 
 Gedurende drie jaar na de inwerkingtreding van [artikel 9.74](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=9&artikel=9.74&z=2026-02-20&g=2026-02-20) blijft [artikel 1, aanhef en onderdelen b en c, van het Besluit bestuursorganen WNo en Wob](https://wetten.overheid.nl/jci1.3:c:BWBR0009896&artikel=1), zoals dat luidde op het tijdstip onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9.74, van overeenkomstige toepassing op verzoeken om informatie die op dat tijdstip berust bij de Nederlandsche Bank N.V. of de Stichting Autoriteit Financiële Markten.
 
-#### Artikel 10.2d. Samenloop [artikel 10.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=10&artikel=10.2b&z=2026-02-20&g=2026-02-20) en Rijkswet Koninkrijksgeschillen
+##### Artikel 10.2d. Samenloop [artikel 10.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=10&artikel=10.2b&z=2026-02-20&g=2026-02-20) en Rijkswet Koninkrijksgeschillen
 
 Wijzigt deze wet.
 
-#### Artikel 10.2f. Vervallen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2026-02-20&g=2026-02-20)
+##### Artikel 10.2f. Vervallen [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2026-02-20&g=2026-02-20)
 
 1. [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=6&z=2026-02-20&g=2026-02-20) vervalt bij koninklijk besluit, met dien verstande dat de voordracht voor dat koninklijk besluit niet eerder gedaan wordt dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
@@ -822,17 +850,17 @@ Wijzigt deze wet.
 
 2. Het college adviseert Onze Minister over de stand van de informatiehuishouding in het bestuur en de toegang tot de publieke informatie.
 
-#### Artikel 10.2g. Vervallen artikel 10.2e
+##### Artikel 10.2g. Vervallen artikel 10.2e
 
 Wijzigt deze wet.
 
-#### Artikel 10.3. Inwerkingtreding
+##### Artikel 10.3. Inwerkingtreding
 
 1. Deze wet treedt, met uitzondering van [artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), in werking met ingang van de eerste dag van de zevende kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
 2. [Artikel 3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&hoofdstuk=3&artikel=3.3&z=2026-02-20&g=2026-02-20), treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 10.4. Citeertitel
+##### Artikel 10.4. Citeertitel
 
 Deze wet wordt aangehaald als: Wet open overheid.
 

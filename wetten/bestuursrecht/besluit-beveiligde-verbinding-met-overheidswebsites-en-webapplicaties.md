@@ -1,13 +1,39 @@
 ---
-title: "Besluit beveiligde verbinding met overheidswebsites en -webapplicaties"
+title: "Besluit van 11 mei 2023, houdende aanwijzing van de open informatieveiligheidsstandaarden HTTPS en HSTS voor websites en webapplicaties van bestuursorganen (Besluit beveiligde verbinding met overheidswebsites en -webapplicaties)"
 identifier: "BWBR0048225"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048225"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048225"
+soort: "AMvB"
+stam_id: "16758753"
+version_id: "29430972"
+internal_id: "C42090631"
+label_id: "16674644"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048225/2023-07-01/0"
+intitule_bron: "Stb.2023-179"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-11"
+intitule_published: "2023-06-02"
+intitule_in_force: "2023-06-02"
+intitule_status: "goed"
+original_publication: "Stb.2023-179"
+original_signed_date: "2023-05-11"
+original_published_date: "2023-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-179"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048225&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048225&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beveiligde verbinding met overheidswebsites en -webapplicaties"
+signed_date: "2023-05-11"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van 11 mei 2023, houdende aanwijzing van de open informatieveiligheidsstandaarden HTTPS en HSTS voor websites en webapplicaties van bestuursorganen (Besluit beveiligde verbinding met overheidswebsites en -webapplicaties)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 maart 2020, nr. 2020-0000110583;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Konin
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **Webapplicatie-richtlijnen:** de ICT-Beveiligingsrichtlijnen voor Webapplicaties, versie 2015, gepubliceerd op [https://www.ncsc.nl/documenten/publicaties/2019/mei/01/ict-beveiligingsrichtlijnen-voor-webapplicaties](onbekend)
 
-#### Artikel 2. Aanwijzing
+##### Artikel 2. Aanwijzing
 
 Bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), beveiligen hun publiek toegankelijke websites en webapplicaties door toepassing van HTTPS en HSTS, met dien verstande dat:
 
@@ -42,11 +68,11 @@ Bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Alg
 
 - c. een HSTS-geldigheidsduur van tenminste twaalf maanden (max-age=31536000) wordt gehanteerd.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 juli 2023
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit beveiligde verbinding met overheidswebsites en -webapplicaties.
 

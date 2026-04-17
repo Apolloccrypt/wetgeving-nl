@@ -1,13 +1,37 @@
 ---
 title: "Kapitaalverzekeringen overeengekomen met de eigen BV"
 identifier: "BWBR0007505"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-08-10
-laatste_update: 1995-08-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007505"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1995-08-10"
+last_updated: "1995-08-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007505"
+soort: "beleidsregel"
+stam_id: "8285153"
+version_id: "13145702"
+internal_id: "C17708151"
+label_id: "8266594"
+dtd_version: "2.0"
+original_entry_into_force: "1995-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007505/1995-08-10/0"
+intitule_bron: "Infob.1995-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-08-10"
+intitule_published: "1995-01-01"
+intitule_in_force: "1995-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1995-8"
+original_signed_date: "1995-08-10"
+original_published_date: "1995-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-08-10"
+jci_1_3: "jci1.3:c:BWBR0007505&z=1995-08-10&g=1995-08-10"
+jci_1_0: "1.0:c:BWBR0007505&g=1995-08-10"
+citeertitel_status: "redactioneel"
+signed_date: "1995-08-10"
+entry_into_force: "1995-08-10"
 ---
-
 # Kapitaalverzekeringen overeengekomen met de eigen BV
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

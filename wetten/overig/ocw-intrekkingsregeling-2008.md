@@ -1,13 +1,39 @@
 ---
-title: "OCW-intrekkingsregeling 2008"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/34454 (2661), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2008)"
 identifier: "BWBR0024297"
-categorie: "Overig"
-publicatiedatum: 2008-08-01
-laatste_update: 2008-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024297"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-08-01"
+last_updated: "2008-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024297"
+soort: "ministeriele-regeling"
+stam_id: "9681923"
+version_id: "15624382"
+internal_id: "C21332591"
+label_id: "9659014"
+dtd_version: "2.0"
+original_entry_into_force: "2008-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024297/2008-08-01/0"
+intitule_bron: "Stcrt.2008-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-10"
+intitule_published: "2008-07-30"
+intitule_in_force: "2008-07-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-145"
+original_signed_date: "2008-07-10"
+original_published_date: "2008-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-145-p39-SC86904"
+entry_into_force_date: "2008-08-01"
+jci_1_3: "jci1.3:c:BWBR0024297&z=2008-08-01&g=2008-08-01"
+jci_1_0: "1.0:c:BWBR0024297&g=2008-08-01"
+citeertitel_status: "officieel"
+short_title: "OCW-intrekkingsregeling 2008"
+signed_date: "2008-07-10"
+entry_into_force: "2008-08-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 juli 2008, nr. WJZ/34454 (2661), houdende intrekking van diverse regelingen op het terrein van het Ministerie van Onderwijs, Cultuur en Wetenschap in verband met het feit dat deze hun betekenis hebben verloren (OCW-intrekkingsregeling 2008)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister van Economische Zaken, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Intrekking van regelingen en besluiten
 
-#### Artikel I. Primair onderwijs
+##### Artikel I. Primair onderwijs
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -68,7 +94,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - w. Vaststelling bedragen programma’s van eisen basisonderwijs, (v)so en pro voor het jaar 2006.
 
-#### Artikel II. Voortgezet onderwijs
+##### Artikel II. Voortgezet onderwijs
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -112,7 +138,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - t. Thema’s centraal examen klassieke taal en letterkunde 2006;
 
-#### Artikel III. Beroepsonderwijs en volwasseneneducatie
+##### Artikel III. Beroepsonderwijs en volwasseneneducatie
 
 De volgende regelingen worden ingetrokken:
 
@@ -152,7 +178,7 @@ De volgende regelingen worden ingetrokken:
 
 - r. Subsidieregeling week van het leren 2006.
 
-#### Artikel IV. Hoger onderwijs
+##### Artikel IV. Hoger onderwijs
 
 De volgende regelingen worden ingetrokken:
 
@@ -162,7 +188,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 december 2004, nr. HO/BS-2004/61760, houdende Wijzigingsregeling Richtlijn jaarverslaggeving hoger onderwijs en wetenschappelijk onderzoek (Uitleg 2005, 1).
 
-#### Artikel V. Onderzoek en wetenschapsbeleid
+##### Artikel V. Onderzoek en wetenschapsbeleid
 
 De volgende regelingen (en besluiten) worden ingetrokken:
 
@@ -170,7 +196,7 @@ De volgende regelingen (en besluiten) worden ingetrokken:
 
 - b. Subsidieregeling WeTeN 2001–2004.
 
-#### Artikel VI. Arbeidsmarkt en Personeelsbeleid
+##### Artikel VI. Arbeidsmarkt en Personeelsbeleid
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -186,7 +212,7 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - f. Spaarloonregeling onderwijspersoneel.
 
-#### Artikel VII. Centrale Financiën Instellingen
+##### Artikel VII. Centrale Financiën Instellingen
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -220,13 +246,13 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - o. Regeling verstrekken leerlinggegevens schooljaar 1994–1995.
 
-#### Artikel VIII. Emancipatie
+##### Artikel VIII. Emancipatie
 
 De volgende regeling wordt ingetrokken:
 
 Subsidieregeling emancipatie-ondersteuning 1998.
 
-#### Artikel IX. Overig
+##### Artikel IX. Overig
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -248,17 +274,17 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 #### § 2. Overgangs- en slotbepalingen
 
-#### Artikel X. Overgangsbepaling
+##### Artikel X. Overgangsbepaling
 
 1. Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBR0024297&paragraaf=1&artikel=I&z=2008-08-01&g=2008-08-01), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikel I tot en met IX](https://wetten.overheid.nl/jci1.3:c:BWBR0024297&paragraaf=1&artikel=I&z=2008-08-01&g=2008-08-01) blijven in stand.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2008.
 
-#### Artikel XII. Citeertitel
+##### Artikel XII. Citeertitel
 
 Deze regeling wordt aangehaald als: OCW-intrekkingsregeling 2008.
 

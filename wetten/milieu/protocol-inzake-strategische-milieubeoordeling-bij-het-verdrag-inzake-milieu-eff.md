@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake strategische milieubeoordeling bij het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband"
 identifier: "BWBV0004167"
-categorie: "Milieu"
-publicatiedatum: 2010-07-11
-laatste_update: 2010-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004167"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-07-11"
+last_updated: "2010-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004167"
+soort: "verdrag"
+stam_id: "10003988673"
+version_id: "10004144102"
+internal_id: "C10008430361"
+label_id: "10003973464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004167/2010-07-11/0"
+intitule_bron: "Trb.2003-154"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-09-22"
+intitule_in_force: "2010-06-23"
+intitule_status: "goed"
+original_publication: "Trb.2003-154"
+original_published_date: "2003-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-154"
+entry_into_force_date: "2010-07-11"
+jci_1_3: "jci1.3:c:BWBV0004167&z=2010-07-11&g=2010-07-11"
+jci_1_0: "1.0:c:BWBV0004167&g=2010-07-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-07-11"
 ---
-
 # Protocol inzake strategische milieubeoordeling bij het Verdrag inzake milieu-effectrapportage in grensoverschrijdend verband
 
 De Partijen bij dit Protocol,
@@ -30,7 +52,7 @@ Indachtig de noodzaak en het belang van het versterken van de internationale sam
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstelling
+##### Artikel 1. Doelstelling
 
 De doelstelling van dit Protocol is te voorzien in een hoge mate van bescherming van het milieu, met inbegrip van de gezondheid, door:
 
@@ -44,7 +66,7 @@ De doelstelling van dit Protocol is te voorzien in een hoge mate van bescherming
 
 - e. op deze wijze aangelegenheden op het gebied van milieu, met inbegrip van gezondheid, te integreren in maatregelen en instrumenten die bedoeld zijn om duurzame ontwikkeling te bevorderen.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -68,7 +90,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 8. „het publiek”: een of meer natuurlijke of rechtspersonen, en overeenkomstig de nationale wetgeving of praktijk, verenigingen, organisaties of groepen ervan.
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. Elke Partij neemt de noodzakelijke wet- en regelgevende en andere passende maatregelen om de bepalingen van dit Protocol binnen een duidelijk, transparant kader uit te voeren.
 
@@ -84,7 +106,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 7. Binnen het toepassingsgebied van de relevante bepalingen van dit Protocol kan het publiek zijn rechten uitoefenen zonder discriminatie op grond van staatsburgerschap, nationaliteit of woonplaats en, in het geval van een rechtspersoon, zonder discriminatie op grond van de plaats van de statutaire zetel of een feitelijk middelpunt van zijn activiteiten.
 
-#### Artikel 4. Toepassingsgebied betreffende plannen en programma's
+##### Artikel 4. Toepassingsgebied betreffende plannen en programma's
 
 1. Elke Partij verzekert dat een strategische milieubeoordeling wordt uitgevoerd voor de plannen en programma's bedoeld in het tweede, derde en vierde lid die waarschijnlijk aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, hebben.
 
@@ -100,7 +122,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - b. financiële of begrotingsplannen en -programma's.
 
-#### Artikel 5. Screening
+##### Artikel 5. Screening
 
 1. Elke Partij bepaalt of de plannen en programma's bedoeld in [artikel 4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=4&z=2010-07-11&g=2010-07-11), waarschijnlijk aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, hebben door ofwel een onderzoek per geval ofwel het aanwijzen van de soorten plannen en programma's ofwel een combinatie van beide werkwijzen. Elke Partij zal hiertoe in alle gevallen rekening houden met de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=III&z=2010-07-11&g=2010-07-11) vastgestelde criteria.
 
@@ -110,7 +132,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Elke Partij waarborgt de tijdige beschikbaarheid voor het publiek van de conclusies ingevolge het eerste lid, met inbegrip van de redenen om geen strategische milieubeoordeling te vereisen, hetzij door officiële berichtgeving, hetzij door middel van andere passende middelen, zoals elektronische media.
 
-#### Artikel 6. Afbakening toepassingsgebied
+##### Artikel 6. Afbakening toepassingsgebied
 
 1. Elke Partij stelt regelingen vast voor de vaststelling van de relevante informatie die in overeenstemming met [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=7&z=2010-07-11&g=2010-07-11), moet worden opgenomen in het milieurapport.
 
@@ -118,7 +140,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. Voor zover passend streeft elke Partij ernaar het betrokken publiek mogelijkheden tot inspraak te bieden bij de vaststelling van de relevante informatie die in het milieurapport moet worden opgenomen.
 
-#### Artikel 7. Milieurapport
+##### Artikel 7. Milieurapport
 
 1. Elke Partij verzekert dat met betrekking tot plannen en programma's die onderworpen zijn aan een strategische milieubeoordeling, een milieurapport wordt opgesteld.
 
@@ -134,7 +156,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. Elke Partij verzekert dat de milieurapporten van voldoende kwaliteit zijn om aan de vereisten van dit Protocol te voldoen.
 
-#### Artikel 8. Inspraak van het publiek
+##### Artikel 8. Inspraak van het publiek
 
 1. Elke Partij verzekert dat het publiek zo vroeg mogelijk, tijdig en op effectieve wijze, wanneer alle opties nog mogelijk zijn, mogelijkheden tot inspraak krijgt bij de strategische milieubeoordeling inzake plannen en programma's.
 
@@ -146,7 +168,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 5. Elke Partij verzekert dat de gedetailleerde regelingen voor het informeren van het publiek en het raadplegen van het betrokken publiek worden vastgesteld en publiek beschikbaar gesteld. Hiertoe houdt elke Partij voor zover passend rekening met de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=V&z=2010-07-11&g=2010-07-11) opgesomde factoren.
 
-#### Artikel 9. Overleg met milieu- en gezondheidsinstanties
+##### Artikel 9. Overleg met milieu- en gezondheidsinstanties
 
 1. Elke Partij wijst de te raadplegen instanties aan die vanwege hun specifieke verantwoordelijkheden op het gebied van milieu of gezondheid waarschijnlijk betrokken zijn bij de milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van het plan of programma.
 
@@ -156,7 +178,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Elke Partij stelt de gedetailleerde regelingen vast voor het informeren en raadplegen van de in het eerste lid bedoelde milieu- en gezondheidsinstanties.
 
-#### Artikel 10. Grensoverschrijdend overleg
+##### Artikel 10. Grensoverschrijdend overleg
 
 1. Indien een Partij van herkomst van oordeel is dat de uitvoering van een plan of programma waarschijnlijk aanzienlijke grensoverschrijdende milieugevolgen, met inbegrip van gezondheidsgevolgen, zal hebben of indien een Partij die waarschijnlijk in aanzienlijke mate zal worden getroffen daarom verzoekt, doet de Partij van herkomst zo spoedig mogelijk vóór de aanneming van het plan of programma kennisgeving aan de mogelijk benadeelde Partij.
 
@@ -170,7 +192,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Wanneer dergelijk overleg plaatsvindt, komen de betrokken Partijen gedetailleerde regelingen overeen om te verzekeren dat het betrokken publiek en de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), bedoelde instanties in de benadeelde Partij worden geïnformeerd en de gelegenheid krijgen binnen een redelijke termijn hun zienswijze over het ontwerp-plan of -programma en het milieurapport kenbaar te maken.
 
-#### Artikel 11. Besluit
+##### Artikel 11. Besluit
 
 1. Elke Partij verzekert dat, wanneer een plan of programma wordt aangenomen, naar behoren rekening wordt gehouden met:
 
@@ -182,13 +204,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 2. Elke Partij verzekert dat, wanneer een plan of programma wordt aangenomen, het publiek, de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), bedoelde instanties, en de overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2010-07-11&g=2010-07-11) geraadpleegde instanties worden geïnformeerd, en dat het plan of programma aan hen ter beschikking wordt gesteld samen met een verklaring waarin wordt samengevat op welke wijze de milieuoverwegingen, met inbegrip van gezondheidsoverwegingen, erin zijn geïntegreerd, op welke wijze het overeenkomstig de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=8&z=2010-07-11&g=2010-07-11) ontvangen commentaar in aanmerking is genomen en welke de redenen waren voor het aannemen ervan in het licht van de overwogen redelijke alternatieven.
 
-#### Artikel 12. Monitoring
+##### Artikel 12. Monitoring
 
 1. Elke Partij houdt toezicht op de aanzienlijke milieugevolgen, met inbegrip van gezondheidsgevolgen, van de uitvoering van de krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2010-07-11&g=2010-07-11) aangenomen plannen en programma's, om onder andere onvoorziene nadelige gevolgen in een vroeg stadium te kunnen vaststellen en passende herstelmaatregelen te kunnen nemen.
 
 2. De resultaten van de uitgevoerde monitoring worden, in overeenstemming met de nationale wetgeving, ter beschikking gesteld van de instanties bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=9&z=2010-07-11&g=2010-07-11), en van het publiek.
 
-#### Artikel 13. Beleid en wetgeving
+##### Artikel 13. Beleid en wetgeving
 
 1. Elke Partij streeft ernaar te verzekeren dat aangelegenheden op het gebied van milieu, met inbegrip van gezondheid, voor zover passend worden overwogen en geïntegreerd in de voorbereiding van haar voorstellen inzake beleid en wetgeving die waarschijnlijk aanzienlijke gevolgen op het milieu, met inbegrip van gezondheid, hebben.
 
@@ -198,7 +220,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 4. Elke Partij brengt aan de Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) fungerend als de Vergadering van de Partijen bij dit Protocol verslag uit over haar toepassing van dit artikel.
 
-#### Artikel 14. De Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) fungerend als de Vergadering van de Partijen bij het Protocol
+##### Artikel 14. De Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) fungerend als de Vergadering van de Partijen bij het Protocol
 
 1. De Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) fungeert als de Vergadering van de Partijen bij dit Protocol. De eerste vergadering van de Partijen bij het Verdrag fungerend als Vergadering van de Partijen bij dit Protocol wordt bijeengeroepen uiterlijk één jaar na de datum van inwerkingtreding van dit Protocol, en samen met een vergadering van de Partijen bij het Verdrag, indien een vergadering van deze laatste gepland is binnen die periode. Daaropvolgende vergaderingen van de Partijen bij het Verdrag fungerend als Vergaderingen van de Partijen bij dit Protocol worden samen met Vergaderingen van de Partijen bij het Verdrag gehouden tenzij door de Vergadering van de Partijen bij het Verdrag fungerend als de Vergadering van de Partijen bij dit Protocol anders wordt beslist.
 
@@ -228,25 +250,25 @@ Wanneer de Vergadering van de Partijen bij het [Verdrag](https://wetten.overheid
 
 7. Elke Partij brengt, met tussenpozen die moeten worden vastgesteld door de Vergadering van de Partijen fungerend als de Vergadering van de Partijen bij dit Protocol, verslag uit aan de Vergadering van de Partijen fungerend als de Vergadering van de Partijen bij dit Protocol betreffende maatregelen die zij heeft genomen om het Protocol uit te voeren.
 
-#### Artikel 15. Verhouding tot andere internationale verdragen
+##### Artikel 15. Verhouding tot andere internationale verdragen
 
 De relevante bepalingen van dit Protocol zijn van toepassing onverminderd het [Verdrag inzake milieueffectrapportage in grensoverschrijdend verband](https://wetten.overheid.nl/jci1.3:c:BWBV0002731) en het [Verdrag betreffende toegang tot informatie, inspraak bij de besluitvorming en toegang tot de rechter inzake milieuaangelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001700) van de Economische Commissie voor Europa van de VN (UNECE).
 
-#### Artikel 16. Stemrecht
+##### Artikel 16. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel, heeft elke Partij bij dit Protocol één stem.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij dit Protocol zijn. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen en vice versa.
 
-#### Artikel 17. Secretariaat
+##### Artikel 17. Secretariaat
 
 Het bij [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731&artikel=13) ingestelde secretariaat fungeert als secretariaat van dit Protocol en artikel 13, onderdeel a tot en met c, van het Verdrag inzake de functies van het secretariaat is van overeenkomstige toepassing op dit Protocol.
 
-#### Artikel 18. Bijlagen
+##### Artikel 18. Bijlagen
 
 De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2010-07-11&g=2010-07-11) bij dit Protocol maken een integrerend deel daarvan uit.
 
-#### Artikel 19. Wijzigingen van het Protocol
+##### Artikel 19. Wijzigingen van het Protocol
 
 1. Elke Partij kan voorstellen doen tot wijziging van dit Protocol.
 
@@ -254,19 +276,19 @@ De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&bijlage=I&z=2010-0
 
 3. Voor dit Protocol wordt de drievierde meerderheid van de Partijen die vereist is voor de inwerkingtreding van een wijziging ten aanzien van de Partijen die deze hebben bekrachtigd, goedgekeurd of aanvaard, berekend op basis van het aantal Partijen op het tijdstip van aanneming van de wijziging.
 
-#### Artikel 20. Regeling van geschillen
+##### Artikel 20. Regeling van geschillen
 
 De bepalingen van [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002731&artikel=15) inzake de regeling van geschillen zijn van overeenkomstige toepassing op dit Protocol.
 
-#### Artikel 21. Ondertekening
+##### Artikel 21. Ondertekening
 
 Dit Protocol staat van 21 tot en met 23 mei 2003 te Kiev (Oekraïne) en daarna tot 31 december 2003 op het Hoofdkwartier van de Verenigde Naties te New York open voor ondertekening door de lidstaten van de Economische Commissie voor Europa alsmede door staten die een consultatieve status bij de Economische Commissie voor Europa hebben krachtens de paragrafen 8 en 11 van resolutie 36 (IV) van 28 maart 1947 van de Economische en Sociale Raad, en door regionale organisaties voor economische integratie opgericht door soevereine staten die lid zijn van de Economische Commissie voor Europa waaraan de lidstaten bevoegdheden hebben overgedragen ten aanzien van aangelegenheden die onder dit Protocol vallen, met inbegrip van de bevoegdheid ten aanzien van die aangelegenheden verdragen aan te gaan.
 
-#### Artikel 22. Depositaris
+##### Artikel 22. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit Protocol.
 
-#### Artikel 23. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 23. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde ondertekenende staten en regionale organisaties voor economische integratie.
 
@@ -278,7 +300,7 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 5. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=21&z=2010-07-11&g=2010-07-11) bedoelde regionale organisaties voor economische integratie de reikwijdte van hun bevoegdheid ter zake van de aangelegenheden die onder dit Protocol vallen aan. Deze organisaties doen de Depositaris tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 1. Dit Protocol treedt in werking negentig dagen na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -288,11 +310,11 @@ De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit
 
 4. Dit Protocol is van toepassing op plannen, programma's, beleid en wetgeving ten aanzien waarvan de eerste formele voorbereidende handeling volgt op de datum van inwerkingtreding van dit Protocol. Indien een Partij onder wier rechtsmacht een plan, programma, beleid of wetgeving wordt voorgenomen, een Partij is waarop het derde lid van toepassing is, is dit Protocol van toepassing op plannen, programma's, beleid en wetgeving ten aanzien waarvan de eerste formele voorbereidende handeling volgt op de datum waarop dit Protocol in werking treedt voor die Partij.
 
-#### Artikel 25. Opzegging
+##### Artikel 25. Opzegging
 
 Elke Partij kan, te allen tijde na vier jaar vanaf de datum waarop dit Protocol ten aanzien van die Partij in werking is getreden, het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht negentig dagen na de datum van ontvangst van de kennisgeving door de Depositaris. De opzegging doet geen afbreuk aan de toepassing van de [artikelen 5 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=5&z=2010-07-11&g=2010-07-11), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=11&z=2010-07-11&g=2010-07-11) en [13](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=13&z=2010-07-11&g=2010-07-11) op een reeds begonnen strategische milieubeoordeling krachtens dit Protocol, of de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0004167&artikel=10&z=2010-07-11&g=2010-07-11) ten aanzien van een reeds gedane kennisgeving of een reeds gedaan verzoek, voordat een dergelijke opzegging van kracht wordt.
 
-#### Artikel 26. Authentieke teksten
+##### Artikel 26. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Protocol, waarvan de Engelse, de Franse en de Russische teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

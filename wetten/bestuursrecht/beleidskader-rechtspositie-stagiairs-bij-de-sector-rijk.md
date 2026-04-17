@@ -1,13 +1,35 @@
 ---
 title: "Beleidskader rechtspositie stagiairs bij de sector Rijk"
 identifier: "BWBR0049761"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-06-04
-laatste_update: 2024-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049761"
+country: "nl"
+rank: "circulaire"
+publication_date: "2024-06-04"
+last_updated: "2024-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049761"
+soort: "circulaire"
+stam_id: "17116723"
+version_id: "30125402"
+internal_id: "C43164061"
+label_id: "17025404"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049761/2024-06-04/0"
+intitule_bron: "Stcrt.2024-17657"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-04"
+intitule_in_force: "2024-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17657"
+original_published_date: "2024-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17657"
+entry_into_force_date: "2024-06-04"
+jci_1_3: "jci1.3:c:BWBR0049761&z=2024-06-04&g=2024-06-04"
+jci_1_0: "1.0:c:BWBR0049761&g=2024-06-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-06-04"
 ---
-
 # Beleidskader rechtspositie stagiairs bij de sector Rijk
 
 ### 1. Inleiding
@@ -146,23 +168,23 @@ en
 
 verklaren het volgende te zijn overeengekomen:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 De stageverlener verbindt zich de stagiair in de gelegenheid te stellen, ten behoeve van zijn/haar opleiding en/of vorming, stage te lopen bij **[naam organisatie en organisatieonderdeel]**.
 
-#### Artikel 2. Stageperiode
+##### Artikel 2. Stageperiode
 
 De stageperiode loopt van **[begindatum stage]** tot en met **[einddatum stage]**.
 
-#### Artikel 3. Omvang stage
+##### Artikel 3. Omvang stage
 
 De stage is aangegaan voor **[aantal]** uur per week, verdeeld over **[aantal]** dagen per week.
 
-#### Artikel 4. Vakantie
+##### Artikel 4. Vakantie
 
 De stagiair heeft recht op **[aantal]** uur vakantie.
 
-#### Artikel 5. Vergoeding(en)
+##### Artikel 5. Vergoeding(en)
 
 De stageverlener betaalt de stagiair een vergoeding van € **[bedrag]** per maand (bruto).
 
@@ -184,35 +206,35 @@ De stageverlener betaalt de stagiair een vergoeding van € **[bedrag]** per maa
 
 - 4. De stagiair heeft vanwege zijn/haar stage bij een diplomatieke of consulaire post in het buitenland aanspraak op een vergoeding voor de kosten van tijdelijke andere woonruimte voor verblijf in of nabij de plaats van de stageplek van € **[bedrag]** per maand.
 
-#### Artikel 6. Meldingsplicht ziekte en ongevallen
+##### Artikel 6. Meldingsplicht ziekte en ongevallen
 
 De stagiair dient bij ziekte of ongeval onmiddellijk hierover zijn/haar stagebegeleider te informeren.
 
-#### Artikel 7. Inhoud stage
+##### Artikel 7. Inhoud stage
 
 - 1. In onderling overleg bepalen de stageverlener, de onderwijsinstelling en de stagiair hoe de stage zal worden ingericht en wat daarbij de leerdoelen zijn. Het stageprogramma kan in onderling overleg worden gewijzigd.
 
 - 2. De stageverlener laat de stagiair slechts werkzaamheden verrichten, primair gericht op onderwijskundige aspecten: het uitbreiden van de kennis en ervaring van de stagiair en het toepassen van theoretische kennis in de praktijk.
 
-#### Artikel 8. Begeleiding stagiair
+##### Artikel 8. Begeleiding stagiair
 
 - 1. De stageverlener wijst een stagebegeleider aan die belast is met de zorg voor en de begeleiding van de stagiair alsmede met de contacten met de onderwijsinstelling.
 
 - 2. De onderwijsinstelling wijst een stagedocent aan, die belast is met de begeleiding van de stagiair. De stagedocent kan in het belang van het goede verloop van de stage aanbevelingen geven aan de stageverlener en stagebegeleider.
 
-#### Artikel 9. Toegang
+##### Artikel 9. Toegang
 
 De stageverlener verschaft de stagiair toegang tot alle plaatsen waar de stage plaatsvindt, voor zover dat voor de vervulling van de stage noodzakelijk is.
 
-#### Artikel 10. Gedragsregels en aanwijzingen
+##### Artikel 10. Gedragsregels en aanwijzingen
 
 De stagiair neemt de in het belang van de orde, veiligheid en gezondheid gegeven gedragsregels en aanwijzingen in acht, zoals deze gelden voor het personeel van de dienst of het dienstonderdeel van de stageverlener waar de stage plaatsvindt.
 
-#### Artikel 11. Verklaring omtrent gedrag
+##### Artikel 11. Verklaring omtrent gedrag
 
 De stageverlener vereist/vereist niet **[opnemen wat van toepassing is]** dat de stagiair voor aanvang van de stage een verklaring omtrent het gedrag (VOG) overlegt.
 
-#### Artikel 12. Geheimhouding en integriteit
+##### Artikel 12. Geheimhouding en integriteit
 
 - 1. De onderwijsinstelling en de stagiair verklaren geheim te zullen houden alles wat omtrent **[naam organisatie waar stage plaatsvindt]** hen bekend is geworden en waaromtrent geheimhouding is opgelegd, dan wel waarvan het vertrouwelijke karakter hen redelijkerwijs bekend had kunnen zijn
 
@@ -220,17 +242,17 @@ De stageverlener vereist/vereist niet **[opnemen wat van toepassing is]** dat de
 
 - 3. De Gedragscode Integriteit Rijk 2020 en de Gedragsregeling voor de digitale werkomgeving Rijk zijn gedurende de stageperiode van toepassing op de stagiair. Daarnaast is gedurende de stageperiode is het hoofdstuk Regels en voorzieningen bij melden vermoeden misstand van de CAO Rijk van toepassing.
 
-#### Artikel 13. Geschillen
+##### Artikel 13. Geschillen
 
 Bij problemen tijdens de stage richt de stagiair zich in de eerste plaats tot de stagebegeleider van de stageverlener. Mochten partijen niet tot een oplossing komen kan het geschil door de stagiair of de stageverlener aan de stagedocent worden voorgelegd. Indien zij gezamenlijk niet tot een oplossing kunnen komen, dan zal het probleem aan de directe leidinggevende van de stagebegeleider en aan de onderwijsinstelling (stagecoördinator) worden voorgelegd. In overleg dienen zij een oplossing voor het probleem te zoeken.
 
-#### Artikel 14. Schade en aansprakelijkheid
+##### Artikel 14. Schade en aansprakelijkheid
 
 - 1. In het geval de stagiair bij de uitvoering van de stageovereenkomst schade toebrengt aan (eigendommen van) de stageverlener is de stageverlener aansprakelijk voor de schade. Dit geldt ook als de stagiair schade toebrengt aan (eigendommen van) derden bij de uitvoering van de stageovereenkomst. De stageverlener is niet aansprakelijk als sprake is van aantoonbare bewuste roekeloosheid of opzet aan de kant van de stagiair.
 
 - 2. Als de stagiair zelf schade lijdt als gevolg van de stageactiviteiten is de stageverlener aansprakelijk voor deze schade, tenzij de stageverlener kan aantonen dat hij aan zijn zorgplicht voor een veilige werkomgeving heeft voldaan of er sprake is van aantoonbare bewuste roekeloosheid of opzet aan de kant van de stagiair.
 
-#### Artikel 15. Intellectueel eigendom
+##### Artikel 15. Intellectueel eigendom
 
 - 1. De door stageverlener ten behoeve van de stage ingebrachte kennis en achtergrondinformatie (**know-how**), inclusief daarop rustende rechten van intellectuele eigendom, blijven eigendom van of berusten bij de stageverlener en creëren buiten het kader van de stage geen gebruiksrechten. De door de onderwijsinstelling ten behoeve van de stage ingebrachte achtergrondinformatie inclusief daarop rustende rechten van intellectuele eigendom blijven eigendom van c.q. berusten bij de onderwijsinstelling en creëren geen gebruiksrechten.
 
@@ -248,11 +270,11 @@ Bij problemen tijdens de stage richt de stagiair zich in de eerste plaats tot de
 
 - 6. Partijen zullen elkaar voorafgaand aan een publicatie en, indien van toepassing, voorafgaand aan registratie van rechten van intellectuele eigendom, schriftelijk informeren over door hen gegenereerde resultaten in de stage en daarop rustende of te vestigen intellectuele eigendomsrechten.
 
-#### Artikel 16. Aard overeenkomst
+##### Artikel 16. Aard overeenkomst
 
 Deze stageovereenkomst is geen arbeidsovereenkomst tussen de Staat der Nederlanden en de stagiair. De CAO Rijk is daarom niet van toepassing op de stagiair.
 
-#### Artikel 17. Beëindiging stage
+##### Artikel 17. Beëindiging stage
 
 - 1. De stage eindigt aan het einde van het onder artikel 2 genoemde tijdvak.
 
@@ -286,23 +308,23 @@ en
 
 verklaren het volgende te zijn overeengekomen:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 De stageverlener verbindt zich de stagiair in de gelegenheid te stellen, ten behoeve van zijn/haar opleiding en/of vorming, stage te lopen bij **[naam organisatie en organisatieonderdeel]**.
 
-#### Artikel 2. Stageperiode
+##### Artikel 2. Stageperiode
 
 De stageperiode loopt van **[begindatum stage]** tot en met **[einddatum stage]**.
 
-#### Artikel 3. Omvang stage
+##### Artikel 3. Omvang stage
 
 De stage is aangegaan voor **[aantal]** uur per week, verdeeld over **[aantal]** dagen per week.
 
-#### Artikel 4. Vakantie
+##### Artikel 4. Vakantie
 
 De stagiair heeft recht op **[aantal]** uur vakantie.
 
-#### Artikel 5. Vergoeding(en)
+##### Artikel 5. Vergoeding(en)
 
 De stageverlener betaalt de stagiair een vergoeding van € **[bedrag]** per maand (bruto).
 
@@ -324,33 +346,33 @@ De stageverlener betaalt de stagiair een vergoeding van € **[bedrag]** per maa
 
 - 4. De stagiair heeft vanwege zijn/haar stage bij een diplomatieke of consulaire post in het buitenland aanspraak op een vergoeding voor de kosten van tijdelijke andere woonruimte voor verblijf in of nabij de plaats van de stageplek van € **[bedrag]** per maand.
 
-#### Artikel 6. Meldingsplicht ziekte en ongevallen
+##### Artikel 6. Meldingsplicht ziekte en ongevallen
 
 De stagiair dient bij ziekte of ongeval onmiddellijk hierover zijn/haar stagebegeleider te informeren.
 
-#### Artikel 7. Inhoud stage
+##### Artikel 7. Inhoud stage
 
 - 1. In onderling overleg bepalen de stageverlener en de stagiair hoe de stage zal worden ingericht en wat daarbij de leerdoelen zijn. Het stageprogramma kan in onderling overleg worden gewijzigd.
 
 - 2. De stageverlener laat de stagiair slechts werkzaamheden verrichten, primair gericht op onderwijskundige aspecten: het uitbreiden van de kennis en ervaring van de stagiair en het toepassen van theoretische kennis in de praktijk.
 
-#### Artikel 8. Begeleiding stagiair
+##### Artikel 8. Begeleiding stagiair
 
 De stageverlener wijst een stagebegeleider aan die belast is met de zorg voor en de begeleiding van de stagiair alsmede met de contacten met de onderwijsinstelling.
 
-#### Artikel 9. Toegang
+##### Artikel 9. Toegang
 
 De stageverlener verschaft de stagiair toegang tot alle plaatsen waar de stage plaatsvindt, voor zover dat voor de vervulling van de stage noodzakelijk is.
 
-#### Artikel 10. Gedragsregels en aanwijzingen
+##### Artikel 10. Gedragsregels en aanwijzingen
 
 De stagiair neemt de in het belang van de orde, veiligheid en gezondheid gegeven gedragsregels en aanwijzingen in acht, zoals deze gelden voor het personeel van de dienst of het dienstonderdeel van de stageverlener waar de stage plaatsvindt.
 
-#### Artikel 11. Verklaring omtrent gedrag
+##### Artikel 11. Verklaring omtrent gedrag
 
 De stageverlener vereist/vereist niet **[opnemen wat van toepassing is]** dat de stagiair voor aanvang van de stage een verklaring omtrent het gedrag (VOG) overlegt.
 
-#### Artikel 12. Geheimhouding en integriteit
+##### Artikel 12. Geheimhouding en integriteit
 
 - 1. De stagiair verklaart geheim te zullen houden alles wat omtrent **[naam organisatie waar stage plaatsvindt]** hem/haar bekend is geworden en waaromtrent geheimhouding is opgelegd, dan wel waarvan het vertrouwelijke karakter hem/haar redelijkerwijs bekend had kunnen zijn.
 
@@ -358,17 +380,17 @@ De stageverlener vereist/vereist niet **[opnemen wat van toepassing is]** dat de
 
 - 3. De Gedragscode Integriteit Rijk 2020 en de Gedragsregeling voor de digitale werkomgeving Rijk zijn gedurende de stageperiode van toepassing op de stagiair. Daarnaast is gedurende de stageperiode is het hoofdstuk Regels en voorzieningen bij melden vermoeden misstand van de CAO Rijk van toepassing.
 
-#### Artikel 13. Geschillen
+##### Artikel 13. Geschillen
 
 Bij problemen tijdens de stage richt de stagiair zich in de eerste plaats tot de stagebegeleider van de stageverlener. Mochten partijen niet tot een oplossing komen kan het geschil door de stagiair of de stageverlener aan de stagedocent worden voorgelegd. Indien zij gezamenlijk niet tot een oplossing kunnen komen, dan zal het probleem aan de directe leidinggevende van de stagebegeleider en aan de onderwijsinstelling (stagecoördinator) worden voorgelegd. In overleg dienen zij een oplossing voor het probleem te zoeken.
 
-#### Artikel 14. Schade en aansprakelijkheid
+##### Artikel 14. Schade en aansprakelijkheid
 
 - 1. In het geval de stagiair schade toebrengt aan (eigendommen van) de stageverlener is de stageverlener in beginsel aansprakelijk voor de schade. Dit is ook zo als de stagiair schade toebrengt aan derden als gevolg van het verrichten van stageactiviteiten bij de stageverlener. Stageverlener is niet aansprakelijk als sprake is van aantoonbare bewuste roekeloosheid of opzet aan de kant van de stagiair.
 
 - 2. Als de stagiair zelf schade lijdt als gevolg van de stageactiviteiten is de stageverlener aansprakelijk voor deze schade, tenzij de stageverlener kan aantonen dat hij aan zijn zorgplicht heeft voldaan of er sprake is van aantoonbare bewuste roekeloosheid of opzet aan de kant van de stagiair.
 
-#### Artikel 15. Intellectueel eigendom
+##### Artikel 15. Intellectueel eigendom
 
 - 1. De door stageverlener ten behoeve van de stage ingebrachte kennis en achtergrondinformatie (**know-how**), inclusief daarop rustende rechten van intellectuele eigendom, blijven eigendom van c.q. berusten bij de stageverlener en creëren buiten het kader van de stage geen gebruiksrechten.
 
@@ -380,11 +402,11 @@ Bij problemen tijdens de stage richt de stagiair zich in de eerste plaats tot de
 
 - 5. Partijen zullen elkaar voorafgaand aan enige publicatie en, indien van toepassing, voorafgaand aan registratie van rechten van intellectuele eigendom, schriftelijk informeren over door hen gegenereerde resultaten in de stage en daarop rustende of te vestigen intellectuele eigendomsrechten.
 
-#### Artikel 16. Aard overeenkomst
+##### Artikel 16. Aard overeenkomst
 
 Deze stageovereenkomst is geen arbeidsovereenkomst tussen de Staat der Nederlanden en de stagiair. De CAO Rijk is daarom niet van toepassing op de stagiair.
 
-#### Artikel 17. Beëindiging stage
+##### Artikel 17. Beëindiging stage
 
 - 1. De stage eindigt aan het einde van het onder artikel 2 genoemde tijdvak.
 

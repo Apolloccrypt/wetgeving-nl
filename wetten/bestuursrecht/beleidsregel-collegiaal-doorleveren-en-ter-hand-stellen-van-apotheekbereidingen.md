@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2024, kenmerk 4013782-1075740-GMT, houdende het niet handhavend optreden tegen het collegiaal doorleveren en ter hand stellen van apotheekbereidingen (Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen)"
 identifier: "BWBR0050656"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050656"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050656"
+soort: "beleidsregel"
+stam_id: "17336513"
+version_id: "30550312"
+internal_id: "C43791761"
+label_id: "17240584"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050656/2025-02-01/0"
+intitule_bron: "Stcrt.2024-39917"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-28"
+intitule_published: "2024-12-06"
+intitule_in_force: "2024-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39917"
+original_signed_date: "2024-11-28"
+original_published_date: "2024-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39917"
+entry_into_force_date: "2025-02-01"
+jci_1_3: "jci1.3:c:BWBR0050656&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0050656&g=2025-02-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen"
+signed_date: "2024-11-28"
+entry_into_force: "2025-02-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2024, kenmerk 4013782-1075740-GMT, houdende het niet handhavend optreden tegen het collegiaal doorleveren en ter hand stellen van apotheekbereidingen (Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) wordt in deze beleidsregel verstaan onder:
 
@@ -32,13 +58,13 @@ In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl
 
 - **inspectie:** Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 2. Niet handhavend optreden bij het collegiaal doorleveren en ter hand stellen van apotheekbereidingen
+##### Artikel 2. Niet handhavend optreden bij het collegiaal doorleveren en ter hand stellen van apotheekbereidingen
 
 1. Als een apotheekbereiding collegiaal wordt doorgeleverd, treedt de Minister niet handhavend op tegen het overtreden van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=18) en [40 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=40) door de bereidende apotheek indien de bereidende apotheek in het bezit is van een geldige gedoogverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=3&z=2025-02-01&g=2025-02-01) en voldoet aan de voorwaarden bedoeld in de artikelen 3, derde lid en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=4&z=2025-02-01&g=2025-02-01).
 
 2. Als een apotheekbereiding collegiaal wordt doorgeleverd, treedt de Minister niet handhavend op tegen het overtreden van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=18) en [40 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=40) door de ter hand stellende apotheek indien de ter hand stellende apotheek voldoet aan de voorwaarden bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=7&z=2025-02-01&g=2025-02-01).
 
-#### Artikel 3. Gedoogverklaring
+##### Artikel 3. Gedoogverklaring
 
 1. Voor het verkrijgen van een gedoogverklaring dient een bereidende apotheek een schriftelijk verzoek in bij de inspectie door middel van een door de inspectie beschikbaar gesteld formulier.
 
@@ -64,7 +90,7 @@ In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl
 
 8. Een gedoogverklaring kan ambtshalve telkens worden verlengd voor maximaal drie jaar indien voldaan wordt aan de voorwaarden uit de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=3&z=2025-02-01&g=2025-02-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&artikel=4&z=2025-02-01&g=2025-02-01).
 
-#### Artikel 4. Vermelding in Z-index
+##### Artikel 4. Vermelding in Z-index
 
 1. De bereidende apotheek meldt een apotheekbereiding die collegiaal wordt doorgeleverd, binnen vijf werkdagen na de eerste doorlevering aan bij de G-Standaard van Z-index.
 
@@ -74,7 +100,7 @@ In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl
 
 4. Het eerste lid is niet van toepassing indien sprake is van een individuele apotheekbereiding voor een van tevoren geïdentificeerde patiënt, waarbij de bereidende apotheek bij het collegiaal doorleveren aan de ter hand stellende apotheek, de betreffende patiënt voldoende nauwkeurig heeft vermeld. De patiënt zoals vermeld op het recept, dient bekend te zijn vóór elke apotheekbereiding van de betreffende collegiaal door te leveren apotheekbereiding en de apotheekbereiding wordt specifiek voor die patiënt verricht. Het expliciet vermelden van de naam van de patiënt is niet noodzakelijk.
 
-#### Artikel 5. Productdossier
+##### Artikel 5. Productdossier
 
 1. De bereidende apotheek heeft een productdossier op productniveau voor iedere collegiaal doorgeleverde apotheekbereiding.
 
@@ -88,7 +114,7 @@ In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl
 
 6. Het productdossier is direct ter inzage beschikbaar bij een inspectie.
 
-#### Artikel 6. Melden van bijwerkingen
+##### Artikel 6. Melden van bijwerkingen
 
 1. De bereidende apotheek meldt onverwijld bijwerkingen die optreden bij het gebruik van collegiaal doorgeleverde apotheekbereidingen bij Bijwerkingencentrum Lareb. Ernstige bijwerkingen worden gemeld binnen vijftien kalenderdagen en niet-ernstige bijwerkingen binnen negentig kalenderdagen.
 
@@ -100,17 +126,17 @@ In aanvulling op [artikel 1 van de Geneesmiddelenwet](https://wetten.overheid.nl
 
 5. Het farmacovigilantiesysteem wordt ondersteund door een kwaliteitssysteem dat bestaat uit procedures, nalevingsbeheer en documentbeheer volgens de voorwaarden opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0050656&bijlage=II&z=2025-02-01&g=2025-02-01).
 
-#### Artikel 7. Ter hand stellende apotheek
+##### Artikel 7. Ter hand stellende apotheek
 
 1. De ter hand stellende apotheek kan uitsluitend een collegiaal doorgeleverde apotheekbereiding ter hand stellen indien er geen geregistreerd adequaat alternatief beschikbaar is.
 
 2. De ter hand stellende apotheek beoordeelt voorafgaand aan de terhandstelling per patiënt of sprake is van een geregistreerd adequaat alternatief en draagt er zorg voor dat uit het patiëntendossier blijkt waarom geregistreerd adequate alternatieven ontbreken.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel collegiaal doorleveren en ter hand stellen van apotheekbereidingen.
 
-#### Artikel 9. Inwerkingtreding en overgangsrecht
+##### Artikel 9. Inwerkingtreding en overgangsrecht
 
 1. Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
 

@@ -1,20 +1,44 @@
 ---
 title: "Vervanging openbare registers door microfoto's"
 identifier: "BWBR0006459"
-categorie: "Overig"
-publicatiedatum: 1994-03-01
-laatste_update: 1994-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006459"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-03-01"
+last_updated: "1994-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006459"
+soort: "ministeriele-regeling"
+stam_id: "3765003"
+version_id: "5547842"
+internal_id: "C5740931"
+label_id: "3744724"
+dtd_version: "2.0"
+original_entry_into_force: "1994-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006459/1994-03-01/0"
+intitule_bron: "Stcrt.1994-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-07"
+intitule_published: "1994-02-18"
+intitule_in_force: "1994-02-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-35"
+original_signed_date: "1994-02-07"
+original_published_date: "1994-02-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-03-01"
+jci_1_3: "jci1.3:c:BWBR0006459&z=1994-03-01&g=1994-03-01"
+jci_1_0: "1.0:c:BWBR0006459&g=1994-03-01"
+citeertitel_status: "officieel"
+signed_date: "1994-02-07"
+entry_into_force: "1994-03-01"
 ---
-
 # Vervanging openbare registers door microfoto's
 
 Gelet op [artikel 9 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=9),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De inhoud van de registers van inschrijving van feiten die betrekking hebben op onroerende zaken en de rechten waaraan deze onderworpen zijn, gehouden aan de kantoren van de Dienst van het Kadaster en de Openbare Registers te Alkmaar, Arnhem, Assen, Eindhoven, 's-Gravenhage, Groningen, Leeuwarden, Lelystad, Middelburg, Roermond en Utrecht, wordt vervangen door afschriften daarvan in dubbel in de vorm van microfoto's, voor zover het betreft:
 
@@ -40,6 +64,6 @@ De inhoud van de registers van inschrijving van feiten die betrekking hebben op 
 
 - k. de van 30 december 1989 tot en met 18 januari 1993 verschenen delen van het register Hypotheken 4 van het genoemde kantoor te Utrecht, zijnde de delen 6376 tot en met 7393;
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 maart 1994 en wordt opgenomen in de Staatscourant.

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de aanwerving in Tunesië en de tewerkstelling in Nederland van Tunesische werknemers"
 identifier: "BWBV0003874"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1971-03-08
-laatste_update: 1971-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003874"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-03-08"
+last_updated: "1971-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003874"
+soort: "verdrag"
+stam_id: "10003757023"
+version_id: "10003820262"
+internal_id: "C10006983891"
+label_id: "10003742194"
+dtd_version: "2.0"
+original_entry_into_force: "1971-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003874/1971-03-08/0"
+intitule_bron: "Trb.1971-82"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-05-10"
+intitule_in_force: "1971-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1971-82"
+original_published_date: "1971-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-82"
+entry_into_force_date: "1971-03-08"
+jci_1_3: "jci1.3:c:BWBV0003874&z=1971-03-08&g=1971-03-08"
+jci_1_0: "1.0:c:BWBV0003874&g=1971-03-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-03-08"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake de aanwerving in Tunesië en de tewerkstelling in Nederland van Tunesische werknemers
 
 Le Gouvernement du Royaume des Pays-Bas et
@@ -24,7 +46,7 @@ Sont convenus de ce qui suit:
 
 ## Dispositions générales
 
-#### Article 1
+##### Article 1
 
 Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tunisiens et leur placement aux Pays-Bas:
 
@@ -32,7 +54,7 @@ Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tu
 
 - -. Du côté Néerlandais, la Direction Générale de l'Emploi du Ministère des Affaires Sociales et de la Santé Publique, dénommée ci-après „La Direction Générale”.
 
-#### Article 2
+##### Article 2
 
 1. Afin que les autorités tunisiennes compétentes puissent prendre à temps les dispositions qui s'imposent et satisfaire les demandes, la Direction Générale fournit à l'Office des renseignements au sujet des besoins évalués en travailleurs tunisiens de l'économie néerlandaise. L'Office informe la Direction Générale du volume de main-d'oeuvre tunisienne disponible.
 
@@ -42,7 +64,7 @@ Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tu
 
 ## Le recrutement et le placement
 
-#### Article 3
+##### Article 3
 
 1. Compte tenu des renseignements donnés conformément à l'article 2, la Direction Générale transmet à l'Office les offres d'emploi émanant des employeurs néerlandais.
 
@@ -50,7 +72,7 @@ Ont compétence, en ce qui concerne le recrutement en Tunisie de travailleurs tu
 
 3. L'Office prend les mesures nécessaires pour porter à la connaissance des travailleurs tunisiens intéressés toutes les données utiles relatives aux offres d'emploi agréées par lui.
 
-#### Article 4
+##### Article 4
 
 Les limites d'âge pour l'emploi des travailleurs tunisiens aux Pays-Bas ont été établies de la façon suivante:
 
@@ -60,7 +82,7 @@ Les limites d'âge pour l'emploi des travailleurs tunisiens aux Pays-Bas ont ét
 
 Ces limites d'âge peuvent être modifiées pour les travailleurs qui ont été demandés nominativement ou, dans des cas spéciaux, par accord entre l'Office et la Direction Générale.
 
-#### Article 5
+##### Article 5
 
 1. L'examen de l'état physique des candidats qui se présentent pour un placement aux Pays-Bas est assuré par l'Office qui contrôle les aptitudes professionnelles des candidats et vérifie qu'ils répondent aux autres conditions spéciales posées par la Direction Générale et inhérentes aux conditions de travail.
 
@@ -72,17 +94,17 @@ Ces limites d'âge peuvent être modifiées pour les travailleurs qui ont été 
 
 5. La liste des candidats approuvés ainsi que les formulaires remplis pour chacun d'eux seront adressés par l'Office à la Direction Générale.
 
-#### Article 6
+##### Article 6
 
 1. La Direction Générale peut envoyer en Tunisie une délégation chargée de la sélection définitive des candidats présentés par l'Office.
 
 2. Pour permettre à ladite délégation, qui pourra être établie en Tunisie à titre permanent ou temporaire, d'effectuer de façon rapide et efficace les examens nécessaires, l'Office met à la disposition de la délégation dans les lieux de sélection à désigner d'un commun accord, les locaux et autres équipements nécessaires à son activité.
 
-#### Article 7
+##### Article 7
 
 La Direction Générale ou sa délégation à Tunis fait parvenir dans les meilleurs délais à l'Office une liste des candidats définitivement acceptés.
 
-#### Article 8
+##### Article 8
 
 1. Pour chaque travailleur définitivement accepté pour placement aux Pays-Bas, la Direction Générale envoie à l'Office un contrat de travail signé par l'employeur et rédigé dans les langues des deux pays, conformément à un modèle établi d'un commun accord, et où sont stipulés les droits et obligations respectifs de l'employeur et du travailleur. Il doit être signé par le travailleur avant sont départ de la Tunisie en présence d'un représentant de l'Office.
 
@@ -90,7 +112,7 @@ La Direction Générale ou sa délégation à Tunis fait parvenir dans les meill
 
 3. La durée de validité doit être indiquée clairement dans le contrat de travail. Elle est limitée en principe à douze mois.
 
-#### Article 9
+##### Article 9
 
 1. Le travailleur doit être en possession:
 
@@ -104,17 +126,17 @@ La Direction Générale ou sa délégation à Tunis fait parvenir dans les meill
 
 En outre, ce travailleur doit avoir obtenu un visa valable pour les Pays-Bas, dénommé „autorisation de séjour provisoire”. Cette autorisation, inscrite au passeport, est délivrée gratuitement par le Représentant diplomatique ou consulaire néerlandais compétent en Tunisie, ou en son nom.
 
-#### Article 10
+##### Article 10
 
 1. L'Office veille à ce que les travailleurs recrutés soient présents à la date et au lieu de départ pour les Pays-Bas convenus avec la Direction Générale.
 
 2. Le transport depuis le lieu de départ pour les Pays-Bas est organisé et payé par la Direction Générale.
 
-#### Article 11
+##### Article 11
 
 Dès l'arrivée aux Pays-Bas des travailleurs engagés, les autorités compétentes néerlandaises apporteront dans les meilleurs délais toutes facilités pour l'obtention des permis de travail et de séjour nécessaires.
 
-#### Article 12
+##### Article 12
 
 1. Les employeurs néerlandais ne peuvent dénoncer le contrat de travail conclu avec le travailleur qui a été recruté par la Direction Générale ou par la Délégation que dans les cas où l'inaptitude ou l'incapacité du travailleur à exécuter son travail apparaît de façon évidente. Dans ces cas, les Bureaux de travail néerlandais s'engagent à lui prêter tout le concours nécessaire pour lui offrir un emploi correspondant à ses capacités professionnelles.
 
@@ -126,7 +148,7 @@ Dès l'arrivée aux Pays-Bas des travailleurs engagés, les autorités compéten
 
 5. En cas de mutation d'un travailleur d'une entreprise à une autre entreprise, effectuée d'un commun accord entre toutes les parties intéressées, le nouveau contrat se substitue à l'ancien.
 
-#### Article 13
+##### Article 13
 
 1. Les frais entraînés par la présélection prévue à l'article 5 sont supportés par la partie tunisienne; ces frais comprennent les frais de l'examen médical et du contrôle des aptitudes professionelles des travailleurs, les frais de voyage des travailleurs depuis leur lieu de résidence, aux endroits où se déroulent l'examen et le contrôle et ceux de leur nourriture et de leur logement durant leur séjour aux lieux de sélection.
 
@@ -134,11 +156,11 @@ Dès l'arrivée aux Pays-Bas des travailleurs engagés, les autorités compéten
 
 3. Les frais de fonctionnement de la délégation sont supportés par la partie néerlandaise.
 
-#### Article 14
+##### Article 14
 
 La Direction Générale enverra directement à l'Office, avec copie à l'Ambassade de la République Tunisienne, les listes des travailleurs arrivés aux Pays-Bas dans le cadre de cette Convention, avec l'adresse de l'employeur et la première adresse de chaque travailleur.
 
-#### Article 15
+##### Article 15
 
 Au cas où une délégation ne serait pas envoyée en Tunisie:
 
@@ -152,7 +174,7 @@ Au cas où une délégation ne serait pas envoyée en Tunisie:
 
 ## Conditions générales de travail
 
-#### Article 16
+##### Article 16
 
 1. Les travailleurs tunisiens sont placés aux Pays-Bas dans les mêmes conditions de rémunération et de travail, y compris les congés payés, que celles en vigueur pour les travailleurs néerlandais, et ce en vertu des dispositions légales, des conventions collectives, des usages professionnels et des habitudes locales.
 
@@ -164,11 +186,11 @@ Au cas où une délégation ne serait pas envoyée en Tunisie:
 
 5. Les travailleurs tunisiens peuvent saisir les autorités administratives ou judiciaires compétentes aux Pays-Bas, en cas de différends de travail, et ce dans les mêmes conditions que celles en vigueur pour les Néerlandais.
 
-#### Article 17
+##### Article 17
 
 Les travailleurs tunisiens peuvent transférer en Tunisie le montant total de leurs économies, dans le cadre de la législation et de la réglementation en vigueur aux Pays-Bas.
 
-#### Article 18
+##### Article 18
 
 1. Les autorités compétentes néerlandaises et les employeurs néerlandais fourniront aux travailleurs tunisiens toute l'assistance nécessaire en vue de les familiariser avec leur nouveau milieu, et ce particulièrement dans la période initiale de leur emploi.
 
@@ -178,7 +200,7 @@ Les travailleurs tunisiens peuvent transférer en Tunisie le montant total de le
 
 4. A la demande du travailleur, et avec l'assentiment de l'employeur, les jours fériés légaux aux Pays-Bas peuvent être remplacés par les jours fériés légaux tunisiens.
 
-#### Article 19
+##### Article 19
 
 1. A l'expiration du contrat, le travailleur quittera les Pays-Bas à moins que son contrat ne soit renouvelé ou qu'il n'accepte un autre placement, sous réserve de l'autorisation des autorités néerlandaises.
 
@@ -190,17 +212,17 @@ Les travailleurs tunisiens peuvent transférer en Tunisie le montant total de le
 
 ## Formation professionnelle
 
-#### Article 20
+##### Article 20
 
 L'accès dans les centres de formation professionnelle des adultes placés sous l'autorité du Gouvernement Néerlandais est ouvert aux travailleurs tunisiens.
 
 Leur admission dans les centres s'effectue conformément à la politique de l'emploi aux Pays-Bas, dans les mêmes conditions que pour les Néerlandais et dans la mesure des places disponibles. Les travailleurs tunisiens y bénéficient des mêmes avantages que les travailleurs néerlandais.
 
-#### Article 21
+##### Article 21
 
 Les autorités tunisiennes compétentes accorderont leur aide dans la mesure du possible aux travailleurs tunisiens formés aux Pays-Bas, pour trouver un emploi après leur retour en Tunisie.
 
-#### Article 22
+##### Article 22
 
 A la demande d'entreprises néerlandaises des cours de formation professionnelle spécialement destinés aux travailleurs candidats à l'emploi aux Pays-Bas peuvent être organisés en Tunisie à la diligence des autorités tunisiennes. Le programme de ces cours sera établi de commun accord entre les autorités compétentes et les entreprises intéressées.
 
@@ -208,15 +230,15 @@ Les conditions de remboursement par les entreprises intéressées des frais corr
 
 ## Dispositions finales
 
-#### Article 23
+##### Article 23
 
 Les autorités compétentes des deux pays s'efforceront par le moyen d'une publicité adéquate à faire en sorte que l'emploi des Tunisiens dans les Pays-Bas se fasse dans le cadre de la présente Convention.
 
-#### Article 24
+##### Article 24
 
 Le Gouvernement tunisien admettra sur son territoire, en tout temps et sans formalités, les travailleurs tunisiens se trouvant aux Pays-Bas et à qui en vertu des dispositions néerlandaises sur les étrangers, il n'est pas permis ou il n'est plus permis de séjourner aux Pays-Bas. Ledit Gouvernement facilitera la remise des documents de voyage requis pour le retour en Tunisie.
 
-#### Article 25
+##### Article 25
 
 1. Il est institué une commission mixte, composée au maximum de trois représentants de chaque Partie. Chaque délégation au sein de cette commission peut être secondée par des experts.
 
@@ -232,19 +254,19 @@ Le Gouvernement tunisien admettra sur son territoire, en tout temps et sans form
 
 3. La Commission mixte fixe son organisation intéreure et sa méthode de travail. Ses réunions se tiennent, alternativement, en Tunisie et aux Pays-Bas à la requête de l'une ou de l'autre Partie.
 
-#### Article 26
+##### Article 26
 
 En ce qui concerne le Royaume des Pays-Bas, la présente Convention s'applique uniquement au territoire du Royaume situé en Europe.
 
-#### Article 27
+##### Article 27
 
 Le Gouvernement néerlandais prendra dans les limites de ses compétences les mesures adéquates en vue de l'extension aux travailleurs tunisiens immigrés antérieurement à la date de la signature de la présente Convention des droits et avantages accordés par la présente Convention aux travailleurs tunisiens employés aux Pays-Bas.
 
-#### Article 28
+##### Article 28
 
 Seuls les représentants qualifiés des Gouvernements tunisien et néerlandais ou d'autres personnes dûment autorisées a cet effet par les Gouvernements peuvent intervenir dans le recrutement de travailleurs tunisiens destinés aux entreprises néerlandaises.
 
-#### Article 29
+##### Article 29
 
 1. La présente Convention entrera en vigueur le jour de sa signature.
 

@@ -1,13 +1,32 @@
 ---
 title: "Verdrag inzake exportcontrole in het defensiedomein"
 identifier: "BWBV0007130"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-09-17
-laatste_update: 2021-09-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007130"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-09-17"
+last_updated: "2021-09-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007130"
+soort: "verdrag"
+stam_id: "10005721013"
+version_id: "10006321512"
+internal_id: "C10010233891"
+label_id: "10005702594"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007130/2021-09-17/0"
+intitule_bron: "Trb.2026-19"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-03-13"
+intitule_status: "nogniet"
+original_publication: "Trb.2026-19"
+original_published_date: "2026-03-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2026-19"
+jci_1_3: "jci1.3:c:BWBV0007130&z=2021-09-17&g=2021-09-17"
+jci_1_0: "1.0:c:BWBV0007130&g=2021-09-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-03-13"
 ---
-
 # Verdrag inzake exportcontrole in het defensiedomein
 
 De Staten die partij zijn bij dit Verdrag, hierna de „verdragsluitende partijen” genoemd,
@@ -26,7 +45,7 @@ Verwijzend naar de verschillende samenwerkingsverdragen en bilaterale veiligheid
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Intergouvernementele programma’s en hun subsystemen
+##### Artikel 1. Intergouvernementele programma’s en hun subsystemen
 
 1. Indien twee of meer verdragsluitende partijen aan dezelfde intergouvernementele programma’s deelnemen, dan zijn de in dit artikel beschreven beginselen voor de betreffende verdragsluitende partijen van toepassing op die intergouvernementele programma’s en hun subsystemen.
 
@@ -36,7 +55,7 @@ Zijn het volgende overeengekomen:
 
 4. Indien een betrokken verdragsluitende partij voornemens is bezwaar te maken tegen een overdracht of uitvoer, stelt zij de andere betrokken verdragsluitende partijen daarvan zo spoedig mogelijk in kennis, uiterlijk binnen een termijn van twee maanden nadat zij van de voorgenomen overdracht of uitvoer in kennis is gesteld. Deze verdragsluitende partijen organiseren onmiddellijk overleg op hoog niveau om hun beoordeling te delen en passende oplossingen te vinden. De verdragsluitende partij die bezwaar maakt tegen een overdracht of uitvoer stelt alles in het werk om alternatieven voor te stellen.
 
-#### Artikel 2. Defensiegerelateerde producten ontstaan door industriële samenwerking
+##### Artikel 2. Defensiegerelateerde producten ontstaan door industriële samenwerking
 
 1. Een verdragsluitende partij verzet zich niet tegen de uitvoer of overdracht door een andere verdragsluitende partij aan een derde partij van een wapensysteem van een producent uit het land van een andere verdragsluitende partij waarin defensiegerelateerde producten zijn verwerkt die op zijn grondgebied zijn ontwikkeld in het kader van de verdere integratie van hun defensie-industrie, behalve in uitzonderlijke omstandigheden, wanneer die overdracht of uitvoer haar directe belangen of de nationale veiligheid schaadt.
 
@@ -44,7 +63,7 @@ Zijn het volgende overeengekomen:
 
 3. De nadere bepalingen voor de toepassing van dit artikel zijn vastgesteld in bijlage 1 bij dit Verdrag, die daarvan een integraal deel uitmaakt.
 
-#### Artikel 3. Het de-minimisbeginsel
+##### Artikel 3. Het de-minimisbeginsel
 
 1. Voor defensiegerelateerde producten die door een producent uit een van de verdragsluitende partijen zijn ontwikkeld en die buiten het toepassingsgebied van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=1&z=2021-09-17&g=2021-09-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=2&z=2021-09-17&g=2021-09-17) van dit Verdrag vallen en die bestemd zijn om te worden geïntegreerd in een wapensysteem van een producent van een andere verdragsluitende partij (hierna „componenten” genoemd), geldt het **de-minimis-**beginsel.
 
@@ -52,7 +71,7 @@ Zijn het volgende overeengekomen:
 
 3. De nadere bepalingen voor de toepassing van dit artikel zijn vastgesteld in [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=2&z=2021-09-17&g=2021-09-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=3&z=2021-09-17&g=2021-09-17) bij dit Verdrag, die daarvan een integraal deel uitmaken.
 
-#### Artikel 4. Het Permanent Comité
+##### Artikel 4. Het Permanent Comité
 
 1. De verdragsluitende partijen stellen een permanent comité in om elkaar te raadplegen over alle algemene aangelegenheden die onder dit Verdrag vallen, teneinde geschillen over de operationele uitvoering op te lossen.
 
@@ -60,11 +79,11 @@ Zijn het volgende overeengekomen:
 
 3. De betrokken verdragsluitende partijen richten ad-hoc-organen op voor het overleg bedoeld in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=1&z=2021-09-17&g=2021-09-17), [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&artikel=2&z=2021-09-17&g=2021-09-17), en [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=1&z=2021-09-17&g=2021-09-17) en [2](https://wetten.overheid.nl/jci1.3:c:BWBV0007130&bijlage=2&z=2021-09-17&g=2021-09-17) van dit Verdrag, of voor alle andere specifieke, onder dit Verdrag vallende aangelegenheden die niet alle verdragsluitende partijen betreffen.
 
-#### Artikel 5. Uitwisseling van gerubriceerde gegevens
+##### Artikel 5. Uitwisseling van gerubriceerde gegevens
 
 Gerubriceerde of beschermde gegevens die op grond van dit Verdrag worden verstrekt of gegenereerd, worden bewaard, behandeld, doorgegeven en beveiligd overeenkomstig het toepasselijke bilaterale beveiligingsverdrag tussen de betrokken verdragsluitende partijen. Indien een bilateraal beveiligingsverdrag tussen de betrokken verdragsluitende partijen ontbreekt worden geen gerubriceerde gegevens uitgewisseld noch gegenereerd.
 
-#### Artikel 6. Slotbepalingen
+##### Artikel 6. Slotbepalingen
 
 1. Dit Verdrag is voorlopig van toepassing met ingang van de datum van ondertekening ervan. Het treedt in werking op de datum waarop de laatste ondertekenende staat bij de regering van de Franse Republiek, die is aangewezen als depositaris, kennisgeving doet van de voltooiing van zijn daartoe vereiste interne procedures.
 

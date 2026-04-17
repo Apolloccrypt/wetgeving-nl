@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel bestuurlijke boete Wmg 2024"
 identifier: "BWBR0049591"
-categorie: "Strafrecht"
-publicatiedatum: 2024-05-01
-laatste_update: 2024-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049591"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-01"
+last_updated: "2024-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049591"
+soort: "zbo"
+stam_id: "17078163"
+version_id: "30056252"
+internal_id: "C43075481"
+label_id: "16987144"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049591/2024-05-01/0"
+intitule_bron: "Stcrt.2024-12555"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-02"
+intitule_published: "2024-04-19"
+intitule_in_force: "2024-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12555"
+original_signed_date: "2024-04-02"
+original_published_date: "2024-04-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12555"
+entry_into_force_date: "2024-05-01"
+jci_1_3: "jci1.3:c:BWBR0049591&z=2024-05-01&g=2024-05-01"
+jci_1_0: "1.0:c:BWBR0049591&g=2024-05-01"
+citeertitel_status: "officieel"
+signed_date: "2024-04-02"
+entry_into_force: "2024-05-01"
 ---
-
 # Beleidsregel bestuurlijke boete Wmg 2024
 
 Ingevolge [afdeling 6.4. van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=6.4) (Wmg) is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het opleggen van een bestuurlijke boete. In deze beleidsregel geeft de NZa nadere invulling aan deze bevoegdheid.

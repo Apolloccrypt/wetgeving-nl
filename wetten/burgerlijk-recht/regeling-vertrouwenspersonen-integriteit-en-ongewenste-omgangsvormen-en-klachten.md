@@ -1,13 +1,39 @@
 ---
-title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ"
+title: "Regeling van de Minister van Algemene Zaken, van 25 november 2019, nr. 4100268, inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen Ministerie van Algemene Zaken"
 identifier: "BWBR0042863"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042863"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042863"
+soort: "ministeriele-regeling"
+stam_id: "15266033"
+version_id: "26295742"
+internal_id: "C37380271"
+label_id: "15212184"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042863/2020-01-01/0"
+intitule_bron: "Stcrt.2019-65518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-25"
+intitule_published: "2019-12-03"
+intitule_in_force: "2019-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-65518"
+original_signed_date: "2019-11-25"
+original_published_date: "2019-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-65518"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042863&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0042863&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ"
+signed_date: "2019-11-25"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Minister van Algemene Zaken, van 25 november 2019, nr. 4100268, inzake vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen Ministerie van Algemene Zaken
 
 Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14), [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=4) en [6 van de Klachtenregeling seksuele intimidatie burgerlijk rijkspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0006835&artikel=6);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -52,7 +78,7 @@ Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrel
 
 #### § 2. Werkingsgebied
 
-#### Artikel 2
+##### Artikel 2
 
 1. De medewerker die een schending van de integriteit of een misstand vermoedt kan zich wenden tot een vertrouwenspersoon.
 
@@ -64,19 +90,19 @@ Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrel
 
 #### § 3. Vertrouwenspersoon integriteit en ongewenste omgangsvormen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er zijn ten minste twee vertrouwenspersonen integriteit en ongewenste omgangsvormen.
 
 2. De vertrouwenspersoon ressorteert als zodanig rechtstreeks onder de secretaris-generaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vertrouwenspersoon wordt aangewezen en van zijn taak ontheven door de secretaris-generaal.
 
 2. Aanwijzing vindt, behoudens tussentijdse taakontheffing, plaats voor de duur van 4 jaar en kan twee maal met 4 jaar worden verlengd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vertrouwenspersoon heeft op het gebied van de integriteit in ieder geval de volgende taken:
 
@@ -92,7 +118,7 @@ Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrel
 
 2. De vertrouwenspersoon heeft op het gebied van het melden van het vermoeden van een misstand de taak die is omschreven in Hoofdstuk 13 van de CAO Rijk 2020.
 
-#### Artikel 6
+##### Artikel 6
 
 De vertrouwenspersoon heeft op het gebied van ongewenste omgangsvormen in ieder geval de volgende taken:
 
@@ -110,11 +136,11 @@ De vertrouwenspersoon heeft op het gebied van ongewenste omgangsvormen in ieder 
 
 - g. het geven van voorlichting op het gebied van ongewenste omgangsvormen.
 
-#### Artikel 7
+##### Artikel 7
 
 Ingeval zich zowel de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042863&paragraaf=2&artikel=2&z=2020-01-01&g=2020-01-01), bedoelde medewerker als de betrokkene zich tot een vertrouwenspersoon wenden, vindt de taakvervulling plaats door twee verschillende vertrouwenspersonen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De vertrouwenspersonen brengen jaarlijks voor 1 mei een gezamenlijk verslag uit aan de secretaris-generaal.
 
@@ -122,11 +148,11 @@ Ingeval zich zowel de in [artikel 2, eerste en tweede lid](https://wetten.overhe
 
 #### § 4. Klachtencommissie ongewenste omgangsvormen AZ
 
-#### Artikel 9
+##### Artikel 9
 
 Er is een Klachtencommissie ongewenste omgangsvormen AZ.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De commissie wordt telkens na het indienen van een klacht samengesteld.
 
@@ -142,11 +168,11 @@ Er is een Klachtencommissie ongewenste omgangsvormen AZ.
 
 5. De Manager Arbeidsjuridisch Advies van UBR | Personeel i.o. benoemt de leden en de plaatsvervangend leden van de commissie, waarbij de Manager Unit P&O/I een bij het ministerie werkzame persoon als lid kan voordragen.
 
-#### Artikel 11
+##### Artikel 11
 
 De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de Manager Arbeidsjuridisch Advies van UBR | Personeel i.o.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De commissie heeft tot taak het verrichten van onderzoek naar elke bij haar ingediende klacht en het uitbrengen van een rapport van bevindingen, vergezeld van een advies en eventuele aanbevelingen. Deze taak heeft mede betrekking op klachten over gedragingen die gerelateerd zijn aan de ongewenste omgangsvormen waarop de ingediende klacht betrekking heeft.
 
@@ -156,7 +182,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 4. Als tijdens het onderzoek naar de klacht zowel klager als betrokkene bereid blijken tot bemiddeling of mediation schort de commissie de behandeling van de klacht op.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De bij de behandeling van een klacht betrokken leden van de commissie stellen het rapport en het advies bij meerderheid van stemmen vast.
 
@@ -164,7 +190,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 3. De secretaris draagt zorg voor de verzending van het rapport, het advies en de eventuele aanbevelingen aan de secretaris-generaal, respectievelijk de minister als de klacht de secretaris-generaal betreft.
 
-#### Artikel 14
+##### Artikel 14
 
 De commissie is bevoegd:
 
@@ -178,7 +204,7 @@ De commissie is bevoegd:
 
 - e. ook anderszins de medewerking te verlangen die zij nodig acht voor de behandeling van de klacht.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De secretaris van de commissie registreert alle schriftelijk ingediende klachten.
 
@@ -186,7 +212,7 @@ De commissie is bevoegd:
 
 3. Het verslag bevat een geanonimiseerd overzicht van het aantal en de aard van de klachten in het voorgaande kalenderjaar en de strekking van de adviezen die daarover zijn uitgebracht. Het verslag kan aanbevelingen van algemene aard bevatten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De commissie draagt zorg dat de op klachten betrekking hebbende dossiers die door de commissie zijn aangelegd worden overgedragen aan de Manager Unit P&O/I. De dossiers zijn alleen toegankelijk voor de voorzitter van de commissie, de secretaris-generaal, de Manager Unit P&O/I en de door dezen daartoe aangewezen medewerkers.
 
@@ -194,7 +220,7 @@ De commissie is bevoegd:
 
 #### § 5. Rechtspositie
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een lid of gewezen lid van de commissie respectievelijk een vertrouwenspersoon of gewezen vertrouwenspersoon ondervindt in zijn positie als medewerker geen nadeel van zijn activiteiten in het kader van de uitvoering van deze regeling.
 
@@ -202,19 +228,19 @@ De commissie is bevoegd:
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Voor de eerste maal worden als vertrouwenspersonen aangewezen de personen die reeds als zodanig waren aangewezen. Deze aanwijzing geldt voor de resterende duur van hun eerdere aanwijzing.
 
-#### Artikel 19
+##### Artikel 19
 
 Het Besluit klachtencommissie AZ wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van 1 januari 2020.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling vertrouwenspersonen integriteit en ongewenste omgangsvormen en Klachtencommissie ongewenste omgangsvormen AZ.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet belastingen op milieugrondslag (invoering van een regulerende energiebelasting) (2)"
+title: "Wet van 13 december 1995 tot wijziging van de Wet belastingen op milieugrondslag in verband met de invoering van een regulerende energiebelasting"
 identifier: "BWBR0007723"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007723"
+country: "nl"
+rank: "wet"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007723"
+soort: "wet"
+stam_id: "522483"
+version_id: "765932"
+internal_id: "C20615981"
+label_id: "507524"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007723/1998-01-01/0"
+intitule_bron: "Stb.1995-662"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-13"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-662"
+original_signed_date: "1995-12-13"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24250"
+original_url_id: "stb-1995-662"
+entry_into_force_date: "1996-01-01"
+entry_into_force_dossier: "24250"
+jci_1_3: "jci1.3:c:BWBR0007723&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0007723&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet belastingen op milieugrondslag (invoering van een regulerende energiebelasting) (2)"
+signed_date: "1995-12-13"
+entry_into_force: "1996-01-01"
 ---
-
-# Wijzigingswet Wet belastingen op milieugrondslag (invoering van een regulerende energiebelasting) (2)
+# Wet van 13 december 1995 tot wijziging van de Wet belastingen op milieugrondslag in verband met de invoering van een regulerende energiebelasting
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,17 +44,17 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een regulerende ener
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 1. De in artikel 36**c**, tweede en derde lid, alsmede de in [artikel 36**j**, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36j) genoemde hoeveelheidsgrenzen worden naar evenredigheid verlaagd indien de periode gelegen tussen het tijdstip van inwerkingtreding van deze wet en het einde van de voor een verbruiker geldende verbruiksperiode korter is dan 12 maanden.
 
 2. De in [artikel 36**l**, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36l) genoemde hoeveelheidsgrenzen worden naar evenredigheid verlaagd indien de periode gelegen tussen het tijdstip van inwerkingtreding van deze wet en het einde van het jaar waarin deze wet in werking is getreden korter is dan 12 maanden.
 
-#### Artikel III
+##### Artikel III
 
 1. In afwijking van [artikel 36**i**, eerste lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36i) bedraagt het tarief van 1 januari 1996 tot 1 januari 1997 voor:
 
@@ -48,7 +76,7 @@ Bevat wijzigingen in andere regelgeving.
 
 - d. aardgas, met een bovenste verbrandingswaarde van 35,17 megajoule, per m3 f 0,064.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Ter zake van het bij het ingaan van 1 januari 1996 voorhanden hebben in een opslagplaats van halfzware olie, gasolie of vloeibaar gemaakt petroleumgas als bedoeld in [artikel 36**b**, onderdelen **a, b** en **c**, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=36b), wordt regulerende energiebelasting geheven, die voor halfzware olie en gasolie per 1000 L gelijk is aan f 28,20 respectievelijk f 28,40 en voor vloeibaar gemaakt petroleumgas per 1000 kilogram gelijk is aan f 33,60.
 
@@ -70,23 +98,23 @@ Onder het voorhanden hebben wordt mede begrepen het vervoer naar een opslagplaat
 
 7. De heffing van de regulerende energiebelasting, bedoeld in het eerste lid, blijft achterwege indien de te heffen belasting niet meer bedraagt dan f 200.
 
-#### Artikel V
+##### Artikel V
 
 [Artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007723&artikel=IV&z=1998-01-01&g=1998-01-01) is van overeenkomstige toepassing met betrekking tot de verhoging van de regulerende energiebelasting met ingang van 1 januari 1997.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze wet treedt in werking met ingang van 1 januari 1996, mits het bij koninklijke boodschap van 14 september 1995 ingediende voorstel van wet tot wijziging van de inkomstenbelasting en de vennootschapsbelasting in verband met de invoering van een regulerende energiebelasting (Kamerstukken II 1994/95, 24 344) (**Stb.** 1995, 664) tot wet wordt verheven en met ingang van 1 januari 1996 in werking treedt alsmede het bij koninklijke boodschap van 23 augustus 1995 ingediende voorstel van wet tot wijziging van de [Wet brutering overhevelingstoeslag lonen](https://wetten.overheid.nl/jci1.3:c:BWBR0006353) (Kamerstukken II 1994/95, 24 285) (**Stb.** 1995, 566) tot wet wordt verheven en het in dat wetsvoorstel opgenomen [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0007723&artikel=III&z=1998-01-01&g=1998-01-01), en de daarin genoemde algemene maatregel van bestuur eveneens met ingang van 1 januari 1996 in werking treden.
 

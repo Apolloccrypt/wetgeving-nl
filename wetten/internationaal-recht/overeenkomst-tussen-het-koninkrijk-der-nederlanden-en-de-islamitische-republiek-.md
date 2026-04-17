@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan inzake economische samenwerking en bescherming van investeringen"
 identifier: "BWBV0002923"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-10-01
-laatste_update: 1989-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002923"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-10-01"
+last_updated: "1989-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002923"
+soort: "verdrag"
+stam_id: "10003251193"
+version_id: "10003271032"
+internal_id: "C10006985351"
+label_id: "10003237424"
+dtd_version: "2.0"
+original_entry_into_force: "1989-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002923/1989-10-01/0"
+intitule_bron: "Trb.1988-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-05-31"
+intitule_published: "1988-11-22"
+intitule_in_force: "1989-10-04"
+intitule_status: "goed"
+original_publication: "Trb.1988-149"
+original_signed_date: "1989-05-31"
+original_published_date: "1988-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-149"
+entry_into_force_date: "1989-10-01"
+jci_1_3: "jci1.3:c:BWBV0002923&z=1989-10-01&g=1989-10-01"
+jci_1_0: "1.0:c:BWBV0002923&g=1989-10-01"
+citeertitel_status: "officieel"
+signed_date: "1989-05-31"
+entry_into_force: "1989-10-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Islamitische Republiek Pakistan inzake economische samenwerking en bescherming van investeringen
 
 De Regering van de Islamitische Republiek Pakistan en de Regering van het Koninkrijk der Nederlanden, hierna te noemen de Overeenkomstsluitende Partijen;
@@ -18,7 +43,7 @@ Geleid door de wens deze betrekkingen te intensiveren, de economische samenwerki
 
 zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst
 
@@ -44,11 +69,11 @@ Voor de toepassing van deze Overeenkomst
 
 - (c). omvat de term „grondgebied”: de zeegebieden grenzend aan de kust van het betrokken land, voor zover dat land overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen doen al het mogelijke, binnen het kader van hun wetten en voorschriften en rekening houdend met hun internationale verplichtingen, om de economische en technologische samenwerking tussen beide landen te ontwikkelen en te versterken tot wederzijds voordeel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Overeenkomstsluitende Partijen stimuleren en bevorderen in het bijzonder de duurzame economische en technologische samenwerking tussen:
 
@@ -58,13 +83,13 @@ De Overeenkomstsluitende Partijen doen al het mogelijke, binnen het kader van hu
 
 2. De samenwerking tot de bevordering waarvan de Overeenkomstsluitende Partijen zich verplichten op grond van het eerste lid omvat in het bijzonder de totstandkoming van projecten en de oprichting of vestiging van bedrijven. Bedoelde samenwerking kan geschieden door middel van deelneming in het aandelenkapitaal, verschaffing van leningen, gezamenlijke ondernemingen of anders zins.
 
-#### Artikel 4
+##### Artikel 4
 
 De Overeenkomstsluitende Partijen erkennen dat de samenwerking onder andere betrekking kan hebben op industrie, mijnbouw, energie, land- en waterontwikkeling, handel, landbouw, gebieds- en plattelandsontwikkeling, infrastructuur, vervoersinfrastructuur, verbindingen, constructiewerkzaamheden en andere diensten.
 
 Zij doen elkander mededeling van specifieke sectoren waarin zij samenwerking wenselijk achten.
 
-#### Artikel 5
+##### Artikel 5
 
 De in artikel 3 bedoelde technologische samenwerking kan worden verwezenlijkt, met inachtneming van de wetten en voorschriften van beide Overeenkomstsluitende Partijen, door middel van projecten en ondernemingen waarin hun onderscheiden onderdanen economische samenwerking aangaan of deze versterken. Zodanige samenwerking kan onder andere omvatten:
 
@@ -80,13 +105,13 @@ De in artikel 3 bedoelde technologische samenwerking kan worden verwezenlijkt, m
 
 - (f). de belegging van symposia en bijeenkomsten over onderwerpen van wederzijds belang.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Iedere Overeenkomstsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van onderdanen van de andere Overeenkomstsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik en het genot hiervan of de beschikking hierover door die onderdanen.
 
 2. Met name kent iedere Overeenkomstsluitende Partij zodanige investeringen, binnen het kader van haar wetten en voorschriften, een volledige veiligheid en bescherming toe, die in elk geval niet minder is dan die welke wordt toegekend aan investeringen van onderdanen van een derde Staat.
 
-#### Artikel 7
+##### Artikel 7
 
 Iedere Overeenkomstsluitende Partij laat toe dat betalingen die voortvloeien uit investeringsactiviteiten zonder onnodige beperking of vertraging in de valuta van het betrokken land of in vrij inwisselbare valuta worden overgemaakt naar het land van de andere Overeenkomstsluitende Partij, in het bijzonder betalingen betreffende:
 
@@ -102,7 +127,7 @@ Iedere Overeenkomstsluitende Partij laat toe dat betalingen die voortvloeien uit
 
 - (f). royalty's.
 
-#### Artikel 8
+##### Artikel 8
 
 Geen der Overeenkomstsluitende Partijen neemt maatregelen waardoor aan onderdanen van de andere Overeenkomstsluitende Partij direct of indirect hun investeringen worden ontnomen, tenzij aan de volgende voorwaarden is voldaan:
 
@@ -112,15 +137,15 @@ Geen der Overeenkomstsluitende Partijen neemt maatregelen waardoor aan onderdane
 
 - (c). de maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient de echte waarde van de getroffen investeringen te vertegenwoordigen en zij moet, wil zij doeltreffend zijn voor de gerechtigden, zonder onnodige vertraging worden betaald en overgemaakt naar het land waarvan die gerechtigden onderdaan zijn en in de valuta van dat land of in een vrij inwisselbare valuta.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien de investeringen van een onderdaan van de ene Overeenkomstsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechten van genoemde onderdaan, ingevolge de voorwaarden van deze verzekering, door de andere Overeenkomstsluitende Partij erkend.
 
-#### Artikel 10
+##### Artikel 10
 
 De Overeenkomstsluitende Partij op het grondgebied waarvan een onderdaan van de andere Overeenkomstsluitende Partij een investering doet of voornemens is een investering te doen stemt ermee in elk geschil dat ontstaat in verband met die investering op verzoek van die onderdaan voor arbitrage of conciliatie voor te leggen aan het Centrum dat is opgericht krachtens het Verdrag van Washington van 18 maart 1965 inzake de beslechting van investeringsgeschillen tussen Staten en onderdanen van andere Staten.
 
-#### Artikel 11
+##### Artikel 11
 
 De bepalingen van deze Overeenkomst zijn vanaf de datum van inwerkingtreding ook van toepassing,
 
@@ -128,7 +153,7 @@ De bepalingen van deze Overeenkomst zijn vanaf de datum van inwerkingtreding ook
 
 - -. wat het Koninkrijk der Nederlanden betreft, op investeringen van onderdanen van de Islamitische Republiek Pakistan die zijn gedaan in overeenstemming met de wetten en voorschriften van het Koninkrijk vóór de inwerkingtreding van deze Overeenkomst.
 
-#### Artikel 12
+##### Artikel 12
 
 De Overeenkomstsluitende Partijen komen overeen een Gemengde Commissie inzake economische en technologische samenwerking in te stellen. De Commissie wordt samengesteld uit vertegenwoordigers die in verband met een bijeenkomst van de Commissie door de onderscheiden Regeringen worden benoemd. Deskundigen en adviseurs van zowel de privé-sector als de publieke sector kunnen op verzoek van één der Partijen worden aangezocht de bijeenkomst van de Commissie bij te wonen.
 
@@ -142,11 +167,11 @@ De Commissie kan speciale werkgroepen voor de samenwerking in bepaalde sectoren 
 
 De Commissie komt op verzoek van één der Partijen bij de Overeenkomst bijeen.
 
-#### Artikel 13
+##### Artikel 13
 
 Ten aanzien van aangelegenheden die door deze Overeenkomst worden beheerst, kan geen enkele bepaling van deze Overeenkomst een onderdaan van de ene Overeenkomstsluitende Partij beletten een recht uit te oefenen dat gunstiger voor hem is en dat voor de andere Overeenkomstsluitende Partij is verleend.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Enig geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet binnen een redelijke termijn langs diplomatieke weg kan worden geregeld, wordt, tenzij de partijen anderszins zijn overeengekomen, op verzoek van één der partijen bij het geschil voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Iedere partij benoemt een scheidsman en de beide aldus benoemde scheidsmannen benoemen te zamen een derde scheidsman, die geen onderdaan is van één van beide Staten, tot hun voorzitter.
 
@@ -162,11 +187,11 @@ Ten aanzien van aangelegenheden die door deze Overeenkomst worden beheerst, kan 
 
 7. Het scheidsgerecht doet uitspraak bij meerderheid van stemmen. De uitspraak is onherroepelijk en bindend voor de partijen bij het geschil.
 
-#### Artikel 15
+##### Artikel 15
 
 Ten aanzien van het Koninkrijk der Nederlanden is deze Overeenkomst van toepassing op het deel van het Rijk in Europa en op Aruba, tenzij de kennisgeving, voorzien in artikel 16, eerste lid, anders luidt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Overeenkomstsluitende Partijen elkander schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiertoe constitutioneel vereiste procedures is voldaan, en zij blijft van kracht gedurende een tijdvak van 15 jaar.
 

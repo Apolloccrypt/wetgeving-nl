@@ -1,13 +1,36 @@
 ---
 title: "Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs"
 identifier: "BWBR0011246"
-categorie: "Sociaal recht"
-publicatiedatum: 2000-04-19
-laatste_update: 2000-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011246"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-04-19"
+last_updated: "2000-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011246"
+soort: "beleidsregel"
+stam_id: "6501643"
+version_id: "11188452"
+internal_id: "C15116851"
+label_id: "6490244"
+original_entry_into_force: "2000-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011246/2000-04-19/0"
+intitule_bron: "Uitleg.2000-11/12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-03-22"
+intitule_published: "2000-04-19"
+intitule_in_force: "2000-04-19"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-11/12"
+original_signed_date: "2000-03-22"
+original_published_date: "2000-04-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-04-19"
+jci_1_3: "jci1.3:c:BWBR0011246&z=2000-04-19&g=2000-04-19"
+jci_1_0: "1.0:c:BWBR0011246&g=2000-04-19"
+citeertitel_status: "redactioneel"
+signed_date: "2000-03-22"
+entry_into_force: "2000-04-19"
 ---
-
 # Aanpassing rekenregels zorgformatie en extra vergoeding materiële instandhouding speciale scholen voor basisonderwijs
 
 ### 1. Inleiding

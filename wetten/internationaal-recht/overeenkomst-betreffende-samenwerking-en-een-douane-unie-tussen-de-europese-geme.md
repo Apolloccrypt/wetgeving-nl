@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende samenwerking en een douane-unie tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds"
 identifier: "BWBV0002917"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-02-01
-laatste_update: 2002-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002917"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-02-01"
+last_updated: "2002-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002917"
+soort: "verdrag"
+stam_id: "10003248543"
+version_id: "10003267762"
+internal_id: "C10006976971"
+label_id: "10003234784"
+dtd_version: "2.0"
+original_entry_into_force: "2002-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002917/2008-02-01/0"
+intitule_bron: "Trb.2008-40"
+intitule_effect: "wijziging"
+intitule_signed: "2008-01-31"
+intitule_published: "2008-03-13"
+intitule_in_force: "2008-03-13"
+intitule_status: "goed"
+original_publication: "Trb.1992-77"
+original_signed_date: "1993-01-07"
+original_published_date: "1992-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-77"
+entry_into_force_date: "2002-04-01"
+jci_1_3: "jci1.3:c:BWBV0002917&z=2008-02-01&g=2008-02-01"
+jci_1_0: "1.0:c:BWBV0002917&g=2008-02-01"
+citeertitel_status: "officieel"
+signed_date: "1993-01-07"
+entry_into_force: "2002-04-01"
 ---
-
 # Overeenkomst betreffende samenwerking en een douane-unie tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek San Marino, anderzijds
 
 Zijne Majesteit de Koning der Belgen,
@@ -48,17 +73,17 @@ Overwegende dat het vanwege de situatie van San Marino en zijn huidige integrati
 
 Komen het volgende overeen:
 
-#### Artikel 1
+##### Artikel 1
 
 Krachtens deze Overeenkomst tussen de Europese Economische Gemeenschap en de Republiek San Marino wordt een douane-unie tussen beide partijen tot stand gebracht. De overeenkomst heeft tot doel een algemene samenwerking tussen deze partijen te bevorderen ten einde bij te dragen tot de economische en sociale ontwikkeling van de Republiek San Marino en de versteviging van hun betrekking aan te moedigen.
 
 ## TITEL I. DOUANE-UNIE
 
-#### Artikel 2
+##### Artikel 2
 
 Tussen de Europese Economische Gemeenschap en de Republiek San Marino wordt voor de onder de hoofdstukken 1 tot en met 97 van het gemeenschappelijk douanetarief vallende produkten een douaneunie tot stand gebracht, met uitzondering van de produkten die onder het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal vallen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bepalingen van deze titel zijn van toepassing:
 
@@ -68,17 +93,17 @@ Tussen de Europese Economische Gemeenschap en de Republiek San Marino wordt voor
 
 2. Als zich in de Gemeenschap of in de Republiek San Marino in het vrije verkeer bevindend worden beschouwd, produkten uit derde landen waarvoor invoerformaliteiten zijn vervuld en de verschuldigde douanerechten en heffingen van gelijke werking zijn geïnd en waarvoor geen gehele of gedeeltelijke teruggave van deze rechten of heffingen heeft plaatsgevonden.
 
-#### Artikel 4
+##### Artikel 4
 
 De bepalingen van deze titel zijn eveneens van toepassing op in de Gemeenschap of in de Republiek San Marino vervaardigde goederen waarin produkten uit derde landen zijn verwerkt, die zich noch in de Gemeenschap noch in de Republiek San Marino in het vrije verkeer bevonden. De toepassing van deze bepalingen op bedoelde goederen is echter afhankelijk van de inning, door de overeenkomstsluitende partij van uitvoer, van de in de Gemeenschap geldende douanerechten op de in die goederen verwerkte produkten uit derde landen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De overeenkomstsluitende partijen onthouden zich ervan onderling nieuwe in- en uitvoerrechten en heffingen van gelijke werking in te stellen.
 
 2. Onverminderd de verbintenissen tussen de Republiek San Marino en Italië op grond van de briefwisseling van 21 december 1972, verbindt de Republiek San Marino zich er verder toe de in lid 1 genoemde rechten die op 1 januari 1991 van toepassing waren op de invoer uit de Gemeenschap, niet te wijzigen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoudens de bepalingen van de leden 2 en 3 vindt het handelsverkeer tussen de Gemeenschap en de Republiek San Marino plaats met vrijdom van in- en uitvoerrechten en heffingen van gelijke werking.
 
@@ -90,7 +115,7 @@ De bepalingen van deze titel zijn eveneens van toepassing op in de Gemeenschap o
 
 4. Ten aanzien van de handel in landbouwprodukten tussen de Gemeenschap en San Marino, verbindt de Republiek San Marino zich ertoe om de communautaire regeling over te nemen op veterinair en fytosanitair gebied en met betrekking tot de kwaliteit, voor zover die nodig is voor de goede werking van de overeenkomst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Republiek San Marino past vanaf de inwerkingtreding van de overeenkomst ten opzichte van de landen die niet tot de Gemeenschap behoren het volgende toe:
 
@@ -110,7 +135,7 @@ Voor de in dit lid bedoelde bepalingen geldt de versie die telkens in de Gemeens
 
 3. In afwijking van lid 1, eerste streepje, zijn aan de Regering van de Republiek San Marino aangeboden publikaties, kunstvoorwerpen, wetenschappelijk of didactisch materiaal, geneesmiddelen of sanitaire apparaten alsmede insignes en medailles, zegels, drukwerken en andere voor het gebruik van de regering bestemde soortgelijke waardevolle voorwerpen, van douanerechten vrijgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 - a. Vooreen periode van vijf jaar vanaf de inwerkingtreding van de overeenkomst of langer indien krachtens het bepaalde onder b. geen overeenkomst kan worden bereikt, machtigt de Republiek San Marino de Europese Economische Gemeenschap in haar naam en voor haar rekening de inklaringsformaliteiten te vervullen en met name goederen uit derde landen bestemd voor de Republiek San Marino in het vrije verkeer te brengen. Deze formaliteiten zullen worden vervuld bij de communautaire douanekantoren, vermeld in de bijlage.
 
@@ -128,21 +153,21 @@ Voor de in dit lid bedoelde bepalingen geldt de versie die telkens in de Gemeens
 
 4. De rechten en heffingen bij invoer van landbouwprodukten kunnen door de Republiek San Marino worden gebruikt ter ondersteuning van de produktie of de uitvoer. De Republiek San Marino verbindt zich er echter toe geen restituties bij uitvoer of compenserende bedragen toe te staan die hoger zijn dan die welke de Europese Economische Gemeenschap bij uitvoer naar derde landen verleent.
 
-#### Artikel 9
+##### Artikel 9
 
 Kwantitatieve in- en uitvoerbeperkingen alsmede alle maatregelen van gelijke werking tussen de Gemeenschap en de Republiek San Marino zijn vanaf de inwerkingtreding van de overeenkomst verboden.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze overeenkomst vormt geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, de bescherming van het nationaal artistiek, historisch en archeologisch bezit of uit hoofde van de bescherming van de intellectuele, industriële en commerciële eigendom, noch voor voorschriften op het gebied van goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie noch een verkapte beperking van de handel tussen de overeenkomstsluitende partijen vormen.
 
-#### Artikel 11
+##### Artikel 11
 
 De overeenkomstsluitende partijen onthouden zich van iedere maatregel of gedraging van interne fiscale aard die al dan niet rechtstreeks leidt tot discriminatie tussen de produkten van een overeenkomstsluitende partij en gelijksoortige produkten van oorsprong uit de andere partij.
 
 Voor produkten die naar het grondgebied van een van de overeenkomstsluitende partijen worden verzonden, mag geen hogere teruggave van binnenlandse belastingen plaatsvinden dan de direct of indirect daarop geheven belastingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In geval van ernstige verstoringen in een sector van het bedrijfsleven van een van de partijen bij de overeenkomst, kan de betrokken partij bij de overeenkomst de nodige vrijwaringsregelen treffen overeenkomstig de voorwaarden en procedures zoals hieronder uiteengezet.
 
@@ -154,7 +179,7 @@ Voor produkten die naar het grondgebied van een van de overeenkomstsluitende par
 
 De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van het Samenwerkingscomité dat hierover periodiek overleg pleegt, vooral met het oog op de opheffing ervan zodra de omstandigheden dit toelaten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ter aanvulling van de in artikel 23, lid 8, bedoelde samenwerking staan de bestuursorganen die door de overeenkomstsluitende partijen met de uitvoering van de bepalingen van deze overeenkomst zijn belast, elkaar in alle andere gevallen bij ten einde de naleving van deze bepalingen te waarborgen.
 
@@ -162,23 +187,23 @@ De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van het Samenwer
 
 ## TITEL II. SAMENWERKING
 
-#### Artikel 14
+##### Artikel 14
 
 Tussen de Gemeenschap en de Republiek San Marino wordt een samenwerking tot stand gebracht ten einde de onderlinge banden te verstevigen op een zo ruim mogelijke basis in het wederzijdse belang van beide partijen en met inachtneming van de bevoegdheden die hun eigen zijn. Deze samenwerking heeft vooral betrekking op de in de artikelen 15 tot en met 18 van deze titel bedoelde prioritaire gebieden.
 
-#### Artikel 15
+##### Artikel 15
 
 De overeenkomstsluitende partijen komen overeen de groei en de diversifiëring van de economie van San Marino in de industrie en de dienstensector te bevorderen door hun samenwerkingsacties met name te richten op kleine en middelgrote bedrijven.
 
-#### Artikel 16
+##### Artikel 16
 
 De overeenkomstsluitende partijen verbinden zich ertoe samen te werken op het gebied van de milieubescherming en -verbetering ten einde de problemen op te lossen die veroorzaakt worden door de water-, grond- en luchtvervuiling, de erosie en de ontbossing; zij zullen bijzondere aandacht besteden aan de problemen in verband met de vervuiling van de Adriatische Zee.
 
-#### Artikel 17
+##### Artikel 17
 
 De overeenkomstsluitende partijen zullen overeenkomstig hun respectieve wetgeving de samenwerking in het toerisme bevorderen door acties zoals de uitwisseling van functionarissen en deskundigen in het toerisme, de uitwisseling van informatie en statistieken over het toerisme, opleidingen in hotelbeheer en -administratie; de overeenkomstsluitende partijen zullen in verband hiermee bijzondere aandacht besteden aan de bevordering van het toerisme buiten het seizoen in San Marino.
 
-#### Artikel 18
+##### Artikel 18
 
 De overeenkomstsluitende partijen zijn overeengekomen gemeenschappelijke acties te ondernemen op het gebied van communicatie, voorlichting en cultuur, ten einde de onderlinge culturele banden te verstevigen.
 
@@ -192,19 +217,19 @@ Deze acties kunnen uit het volgende bestaan:
 
 - -. academische uitwisselingen.
 
-#### Artikel 19
+##### Artikel 19
 
 De overeenkomstsluitende partijen kunnen deze overeenkomst met onderlinge goedkeuring uitbreiden ten einde de samenwerkingsgebieden aan te vullen met overeenkomsten die betrekkingen hebben op specifieke sectoren of activiteiten.
 
 ## TITEL III. BEPALINGEN OP SOCIAAL VLAK
 
-#### Artikel 20
+##### Artikel 20
 
 Elke Lid-Staat past op de werknemers van Sanmarinese nationaliteit die op zijn grondgebied werkzaam zijn, een regeling toe die wordt gekenmerkt door het ontbreken van iedere discriminatie op grond van nationaliteit tussen deze werknemers en zijn eigen onderdanen, voor wat betreft de arbeidsvoorwaarden en de lonen.
 
 De Republiek San Marino past dezelfde regeling toe op de op haar grondgebied werkzame werknemers die onderdaan zijn van de LidStaten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Behoudens het bepaalde in de onderstaande leden vallen de werknemers van Sanmarinese nationaliteit en de bij hen woonachtige gezinsleden op het gebied van de sociale zekerheid onder een regeling die wordt gekenmerkt door het ontbreken van elke discriminatie op grond van nationaliteit tussen deze werknemers en de eigen onderdanen van de Lid-Staten waar zij werkzaam zijn.
 
@@ -216,7 +241,7 @@ De Republiek San Marino past dezelfde regeling toe op de op haar grondgebied wer
 
 5. De Republiek San Marino past een soortgelijke regeling als vermeld in de leden 1, 3 en 4 toe op de op haar grondgebied werkzame werknemers die onderdaan zijn van de Lid-Staten en op hun gezinsleden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor het einde van het eerste jaar na de inwerkingtreding van deze overeenkomst, stelt het Samenwerkingscomité de nodige bepalingen vast met het oog op de toepassing van de in artikel 21 vervatte beginselen.
 
@@ -226,7 +251,7 @@ De Republiek San Marino past dezelfde regeling toe op de op haar grondgebied wer
 
 ## TITEL IV. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Er wordt een Samenwerkingscomité ingesteld dat belast is met het beheer van deze overeenkomst en toeziet op de juiste uitvoering ervan. Het Comité doet hiertoe aanbevelingen. Het neemt besluiten in de gevallen bedoeld in deze overeenkomst. Deze besluiten worden door de overeenkomstsluitende partijen volgens hun eigen voorschriften uitgevoerd.
 
@@ -244,7 +269,7 @@ De Republiek San Marino past dezelfde regeling toe op de op haar grondgebied wer
 
 8. Het Samenwerkingscomité bepaalt, volgens de in lid 1 bedoelde procedure en naar het voorbeeld van de door de Gemeenschap ten aanzien van het goederenverkeer tussen de Lid-Staten vastgestelde methoden, de methoden van administratieve samenwerking met het oog op de toepassing van de artikelen 3 en 4.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Geschillen betreffende de uitlegging van de overeenkomst tussen de overeenkomstsluitende partijen worden aan het Samenwerkingscomité voorgelegd.
 
@@ -256,7 +281,7 @@ De besluiten van de scheidsrechters worden bij meerderheid van stemmen genomen.
 
 Elke partij bij het geschil is gehouden de nodige maatregelen te treffen om ervoor te zorgen dat de besluiten van de scheidsrechter worden uitgevoerd.
 
-#### Artikel 25
+##### Artikel 25
 
 Op het gebied van het handelsverkeer dat onder deze overeenkomst valt:
 
@@ -264,33 +289,33 @@ Op het gebied van het handelsverkeer dat onder deze overeenkomst valt:
 
 - -. mag de regeling die de Gemeenschap ten aanzien van de Republiek San Marino toepast, geen aanleiding geven tot discriminatie tussen de onderdanen of vennootschappen van San Marino.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze overeenkomst wordt voor onbeperkte tijd gesloten. Ten laatste vijfjaar na de inwerkingtreding ervan treden de twee partijen met elkaar in overleg om de resultaten van de toepassing van de overeenkomst te onderzoeken, en zo nodig, onderhandelingen aan te gaan voor het wijzigen van de overeenkomst in het licht van dit onderzoek.
 
-#### Artikel 27
+##### Artikel 27
 
 Elke overeenkomstsluitende partij kan deze overeenkomst door schriftelijke kennisgeving aan de andere overeenkomstsluitende partij opzeggen. In dat geval houdt de overeenkomst zes maanden na die kennisgeving op van kracht te zijn.
 
-#### Artikel 28
+##### Artikel 28
 
 De bepalingen van deze overeenkomst treden in de plaats van de bepalingen van de tussen de Lid-Staten van de Gemeenschap en de Republiek San Marino gesloten verdragen die onverenigbaar zijn met eerstgenoemde bepalingen of eraan gelijk zijn.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze overeenkomst is van toepassing, enerzijds, op de gebieden waar het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag neergelegde voorwaarden, en, anderzijds, op het grondgebied van de Republiek San Marino.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze overeenkomst wordt door de partijen bij de overeenkomst goedgekeurd volgens hun eigen procedures.
 
 Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de overeenkomstsluitende partijen elkaar ervan in kennis hebben gesteld dat de in de eerste alinea bedoelde procedures zijn voltooid.
 
-#### Artikel 31
+##### Artikel 31
 
 De bijlage vormt een integrerend deel van de overeenkomst.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

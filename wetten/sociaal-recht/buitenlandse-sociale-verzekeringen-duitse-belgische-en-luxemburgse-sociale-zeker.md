@@ -1,13 +1,38 @@
 ---
 title: "Buitenlandse sociale verzekeringen, Duitse, Belgische en Luxemburgse sociale zekerheid, aftrek premie en belastbaarheid uitkeringen"
 identifier: "BWBR0035025"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-04-08
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035025"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-04-08"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035025"
+soort: "beleidsregel"
+stam_id: "12642653"
+version_id: "21351142"
+internal_id: "C30654391"
+label_id: "12613444"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035025/2014-04-08/0"
+intitule_bron: "Stcrt.2014-9763"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-24"
+intitule_published: "2014-04-07"
+intitule_in_force: "2014-04-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-9763"
+original_signed_date: "2014-03-24"
+original_published_date: "2014-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-9763"
+entry_into_force_date: "2014-04-08"
+jci_1_3: "jci1.3:c:BWBR0035025&z=2014-04-08&g=2014-04-08"
+jci_1_0: "1.0:c:BWBR0035025&g=2014-04-08"
+citeertitel_status: "redactioneel"
+signed_date: "2014-03-24"
+entry_into_force: "2014-04-08"
 ---
-
 # Buitenlandse sociale verzekeringen, Duitse, Belgische en Luxemburgse sociale zekerheid, aftrek premie en belastbaarheid uitkeringen
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

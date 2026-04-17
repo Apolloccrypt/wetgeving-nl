@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden"
 identifier: "BWBV0001615"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-01-18
-laatste_update: 2004-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001615"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-01-18"
+last_updated: "2004-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001615"
+soort: "verdrag"
+stam_id: "10000383643"
+version_id: "10000393042"
+internal_id: "C10006988001"
+label_id: "10000384454"
+original_entry_into_force: "2004-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001615/2004-01-18/0"
+intitule_bron: "Trb.1996-277"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-19"
+intitule_published: "1996-10-10"
+intitule_in_force: "2004-05-19"
+intitule_status: "goed"
+original_publication: "Trb.1996-277"
+original_signed_date: "2003-12-19"
+original_published_date: "1996-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-277"
+entry_into_force_date: "2004-01-18"
+jci_1_3: "jci1.3:c:BWBV0001615&z=2004-01-18&g=2004-01-18"
+jci_1_0: "1.0:c:BWBV0001615&g=2004-01-18"
+citeertitel_status: "officieel"
+signed_date: "2003-12-19"
+entry_into_force: "2004-01-18"
 ---
-
 # Overeenkomst over de toepassing van de bepalingen van het Verdrag van de Verenigde Naties inzake het recht van de zee van 10 december 1982 die betrekking hebben op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden
 
 De Staten die Partij zijn bij deze Overeenkomst;
@@ -36,7 +60,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begrippen en toepassingsgebied van de Overeenkomst
+##### Artikel 1. Begrippen en toepassingsgebied van de Overeenkomst
 
 1. In deze Overeenkomst wordt verstaan onder
 
@@ -58,11 +82,11 @@ Zijn als volgt overeengekomen:
 
 3. Deze Overeenkomst is mutatis mutandis van toepassing voor andere lichamen waarvan vaartuigen op de volle zee vissen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze Overeenkomst is, om via doeltreffende uitvoering van de betrokken bepalingen van het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), instandhouding op lange termijn en duurzaam gebruik van de grensoverschrijdende en de over grote afstanden trekkende visbestanden te waarborgen.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 1. Deze Overeenkomst is, tenzij anders bepaald, van toepassing voor de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden in gebieden die niet onder nationale jurisdictie vallen, met dien verstande evenwel dat de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=6&z=2004-01-18&g=2004-01-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=7&z=2004-01-18&g=2004-01-18) ook van toepassing zijn voor dergelijke visbestanden in gebieden onder nationale jurisdictie, onverminderd de verschillende juridische stelsels die krachtens het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) van toepassing zijn in de gebieden onder nationale jurisdictie en de gebieden daarbuiten.
 
@@ -70,13 +94,13 @@ Het doel van deze Overeenkomst is, om via doeltreffende uitvoering van de betrok
 
 3. De Staten houden, zoals bepaald in deze Overeenkomst, rekening met de individuele capaciteit van de ontwikkelingslanden om het bepaalde in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=5&z=2004-01-18&g=2004-01-18), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=6&z=2004-01-18&g=2004-01-18) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=7&z=2004-01-18&g=2004-01-18) toe te passen in de gebieden onder hun nationale jurisdictie en met hun behoefte aan bijstand. Daartoe is [deel VII](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=VII&z=2004-01-18&g=2004-01-18) mutatis mutandis van toepassing voor gebieden onder nationale jurisdictie.
 
-#### Artikel 4. Verhouding tussen deze Overeenkomst en het Zeerechtverdrag
+##### Artikel 4. Verhouding tussen deze Overeenkomst en het Zeerechtverdrag
 
 Deze Overeenkomst verandert niets in de rechten, de jurisdictie en de plichten van de Staten op grond van het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172). Deze Overeenkomst wordt uitgelegd en toegepast in samenhang met het Zeerechtverdrag en op een wijze die coherent is met dat Verdrag.
 
 ## DEEL II. INSTANDHOUDING EN BEHEER VAN DE GRENSOVERSCHRIJDENDE EN DE OVER GROTE AFSTANDEN TREKKENDE VISBESTANDEN
 
-#### Artikel 5. Algemene beginselen
+##### Artikel 5. Algemene beginselen
 
 Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden dienen de Kuststaten en de Staten die op de volle zee vissen, bij het uitvoeren van de in het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) neergelegde plicht tot samenwerking
 
@@ -104,7 +128,7 @@ Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de
 
 - l. de instandhoudings- en beheersmaatregelen toe te passen en te doen naleven via doeltreffende monitoring-, controle- en toezichtregelingen.
 
-#### Artikel 6. Preventieve aanpak
+##### Artikel 6. Preventieve aanpak
 
 1. Ter bescherming van de levende rijkdommen van de zee en voor het behoud van het mariene milieu volgen de Staten voor de instandhouding, het beheer en de exploitatie van de grensoverschrijdende en de over grote afstanden trekkende visbestanden op ruime schaal de preventieve aanpak.
 
@@ -128,7 +152,7 @@ Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de
 
 7. Bij een natuurverschijnsel met aanzienlijke negatieve effecten op de situatie van de grensoverschrijdende en de over grote afstanden trekkende visbestanden nemen de Staten op korte termijn instandhoudings- en beheersmaatregelen om ervoor te zorgen dat die negatieve effecten niet door de visserij worden verergerd. Dergelijke spoedmaatregelen worden door de Staten ook vastgesteld wanneer de visserij een ernstige bedreiging vormt voor de duurzaamheid van genoemde visbestanden. Spoedmaatregelen zijn tijdelijk en worden gebaseerd op de beste beschikbare wetenschappelijke gegevens.
 
-#### Artikel 7. Compatibiliteit van instandhoudings- en beheersmaatregelen
+##### Artikel 7. Compatibiliteit van instandhoudings- en beheersmaatregelen
 
 1. Onverminderd de in het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) vastgelegde soevereine rechten van de Kuststaten inzake exploratie, exploitatie, instandhouding en beheer van de levende rijkdommen van de zee in de gebieden onder hun nationale jurisdictie en het overeenkomstig het Zeerechtverdrag voor alle Staten geldende recht om hun onderdanen op de volle zee te laten vissen,
 
@@ -164,7 +188,7 @@ Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de
 
 ## DEEL III. MECHANISMEN VOOR INTERNATIONALE SAMENWERKING MET BETREKKING TOT DE GRENSOVERSCHRIJDENDE EN DE OVER GROTE AFSTANDEN TREKKENDE VISBESTANDEN
 
-#### Artikel 8. Samenwerking voor instandhouding en beheer
+##### Artikel 8. Samenwerking voor instandhouding en beheer
 
 1. De Kuststaten en de Staten die op de volle zee vissen, streven, overeenkomstig het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), rechtstreeks of in het kader van geëigende subregionale of regionale organisaties en akkoorden voor visserijbeheer en rekening houdende met de specifieke kenmerken van de subregio of regio, naar samenwerking met betrekking tot de grensoverschrijdende en de over grote afstanden trekkende visbestanden met het oog op doeltreffende instandhouding en een doeltreffend beheer van die bestanden.
 
@@ -178,7 +202,7 @@ Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de
 
 6. Iedere Staat die voornemens is voor te stellen dat maatregelen worden genomen door een intergouvernementele organisatie die bevoegd is voor de levende rijkdommen van de zee, zorgt, wanneer die maatregelen aanzienlijke effecten zouden hebben voor de instandhoudings- en beheersmaatregelen die reeds zijn vastgesteld in het kader van subregionale of regionale organisaties of akkoorden voor visserijbeheer, via hun instanties voor overleg met de leden van die organisatie of de partijen bij die akkoorden. Voor zover mogelijk gebeurt dat overleg voordat het voorstel bij de intergouvernementele organisatie wordt ingediend.
 
-#### Artikel 9. Subregionale en regionale organisaties en akkoorden voor visserijbeheer
+##### Artikel 9. Subregionale en regionale organisaties en akkoorden voor visserijbeheer
 
 1. Bij de oprichting van subregionale of regionale organisaties en bij het aangaan van subregionale of regionale akkoorden voor het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden dienen de Staten onder andere overeenstemming te bereiken over
 
@@ -192,7 +216,7 @@ Met het oog op de instandhouding en het beheer van de grensoverschrijdende en de
 
 2. De Staten die samenwerken voor de oprichting van een subregionale of regionale organisatie of de totstandbrenging van een subregionaal of regionaal akkoord voor visserijbeheer, geven daarvan kennis aan andere Staten waarvan hun bekend is dat zij een reëel belang hebben bij de werkzaamheden in het kader van de beoogde organisatie of het beoogde akkoord.
 
-#### Artikel 10. Uit te voeren taken in het kader van subregionale en regionale organisaties en akkoorden voor visserijbeheer
+##### Artikel 10. Uit te voeren taken in het kader van subregionale en regionale organisaties en akkoorden voor visserijbeheer
 
 In het kader van hun plicht tot samenwerking binnen subregionale of regionale organisaties en akkoorden voor visserijbeheer dienen de Staten
 
@@ -222,7 +246,7 @@ In het kader van hun plicht tot samenwerking binnen subregionale of regionale or
 
 - m. passende bekendheid te geven aan de instandhoudings- en beheersmaatregelen die in het kader van de betrokken organisatie of het betrokken akkoord zijn vastgesteld.
 
-#### Artikel 11. Nieuwe leden of partijen
+##### Artikel 11. Nieuwe leden of partijen
 
 Bij het vaststellen van de aard en de omvang van de rechten van nieuwe leden van of nieuwe partijen bij een organisatie of akkoord voor visserijbeheer in subregionaal of regionaal verband dienen de Staten onder andere rekening te houden met
 
@@ -238,17 +262,17 @@ Bij het vaststellen van de aard en de omvang van de rechten van nieuwe leden van
 
 - f. de belangen van de Ontwikkelingslanden in de subregio of regio, als de betrokken visbestanden ook voorkomen in de gebieden onder nationale jurisdictie van die Staten.
 
-#### Artikel 12. Doorzichtigheid van de werkzaamheden in het kader van subregionale en regionale organisaties en akkoorden voor visserijbeheer
+##### Artikel 12. Doorzichtigheid van de werkzaamheden in het kader van subregionale en regionale organisaties en akkoorden voor visserijbeheer
 
 1. De Staten zorgen voor doorzichtigheid van het besluitvormingsproces en de andere werkzaamheden in het kader van subregionale en regionale organisaties en akkoorden voor visserijbeheer.
 
 2. Vertegenwoordigers van andere intergouvernementele organisaties en vertegenwoordigers van niet-gouvernementele organisaties die zich bezighouden met de grensoverschrijdende en de over grote afstanden trekkende visbestanden krijgen de gelegenheid om, naar gelang van het geval, als waarnemer of in een andere hoedanigheid, aan vergaderingen in het kader van de subregionale organisaties en akkoorden voor visserijbeheer deel te nemen overeenkomstig de voor de betrokken organisatie of het betrokken akkoord vastgestelde procedures. Deze procedures mogen op dit punt niet nodeloos restrictief zijn. Deze intergouvernementele organisaties en niet-gouvernementele organisaties krijgen tijdig toegang tot de verslagen en rapporten in verband met de werkzaamheden in het kader van deze organisaties en akkoorden, een en ander onverminderd de procedurebepalingen inzake de toegang tot die stukken.
 
-#### Artikel 13. Versterking van bestaande organisaties en akkoorden
+##### Artikel 13. Versterking van bestaande organisaties en akkoorden
 
 De Staten werken samen voor versterking van bestaande subregionale en regionale organisaties en akkoorden voor visserijbeheer om hun instandhoudings- en beheersmaatregelen voor de grensoverschrijdende en over grote afstanden trekkende visbestanden doeltreffender te kunnen vaststellen en uitvoeren.
 
-#### Artikel 14. Verzamelen en verstrekken van gegevens en samenwerking bij wetenschappelijk onderzoek
+##### Artikel 14. Verzamelen en verstrekken van gegevens en samenwerking bij wetenschappelijk onderzoek
 
 1. De Staten zorgen ervoor dat de vissersvaartuigen die hun vlag voeren hun de gegevens verstrekken die zij nodig hebben om de uit deze Overeenkomst voortvloeiende verplichtingen na te komen. Daartoe nemen de Staten overeenkomstig [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&bijlage=I&z=2004-01-18&g=2004-01-18) de volgende maatregelen:
 
@@ -266,11 +290,11 @@ De Staten werken samen voor versterking van bestaande subregionale en regionale 
 
 3. In overeenstemming met [Deel XIII van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XIII) werken de Staten, rechtstreeks of in het kader van bevoegde internationale organisaties, samen voor versterking van de mogelijkheden voor wetenschappelijk onderzoek op visserijgebied en voor bevordering van wetenschappelijk onderzoek met betrekking tot de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden dat wordt uitgevoerd in het algemeen belang. Daartoe bevorderen Staten of bevoegde internationale organisaties die dergelijk onderzoek uitvoeren buiten de gebieden onder nationale jurisdictie, actief dat de uitkomsten van dat onderzoek en de gegevens over de doelstellingen en methoden worden bekendgemaakt aan en verspreid in alle belanghebbende Staten en vergemakkelijken zij, in de mate van het mogelijke, deelneming van wetenschapsmensen uit de belanghebbende Staten aan dat onderzoek.
 
-#### Artikel 15. Ingesloten of half-ingesloten zeeën
+##### Artikel 15. Ingesloten of half-ingesloten zeeën
 
 Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee houden de Staten rekening met de natuurlijke kenmerken van die zee en handelen zij in overeenstemming met [Deel IX van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=IX) en de andere relevante bepalingen daarvan.
 
-#### Artikel 16. Gebieden van de volle zee die volledig omgeven zijn door een gebied onder de nationale jurisdictie van een enkele Staat
+##### Artikel 16. Gebieden van de volle zee die volledig omgeven zijn door een gebied onder de nationale jurisdictie van een enkele Staat
 
 1. De Staten die op grensoverschrijdende en over grote afstanden trekkende visbestanden vissen in een gebied van de volle zee dat volledig omgeven is door een gebied onder de nationale jurisdictie van een enkele Staat, en laatstbedoelde Staat werken samen voor de vaststelling van instandhoudings- en beheersmaatregelen voor de betrokken visbestanden in de volle zee. Rekening houdende met de natuurlijke kenmerken van het gebied en in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=II&artikel=7&z=2004-01-18&g=2004-01-18) geven de Staten bijzondere aandacht aan compatibele instandhoudings- en beheersmaatregelen voor de betrokken visbestanden. Bij de vaststelling van de maatregelen voor de volle zee wordt rekening gehouden met de rechten, plichten en belangen van de kuststaat op grond van het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), met de beste beschikbare wetenschappelijke gegevens, en met de instandhoudings- en beheersmaatregelen die de Kuststaat overeenkomstig [artikel 61 van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=61) heeft aangenomen en toepast voor dezelfde visbestanden in het gebied onder zijn nationale jurisdictie. De Staten komen ook maatregelen overeen inzake monitoring, controle, toezicht en rechtshandhaving om de instandhoudings- en beheersmaatregelen voor de volle zee te doen naleven.
 
@@ -278,7 +302,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 ## DEEL IV. STATEN DIE GEEN LID, NOCH PARTIJ ZIJN
 
-#### Artikel 17. Staten die geen lid van een organisatie, noch partij bij een akkoord voor visserijbeheer zijn
+##### Artikel 17. Staten die geen lid van een organisatie, noch partij bij een akkoord voor visserijbeheer zijn
 
 1. Een Staat die geen lid is van of geen partij is bij een organisatie of akkoord voor visserijbeheer in subregionaal of regionaal verband of die niet op andere wijze accepteert om de in het kader van een dergelijke organisatie of een dergelijk akkoord vastgestelde instandhoudings- en beheersmaatregelen toe te passen, is daarmee niet ontslagen van de plicht om, in overeenstemming met het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172) en deze Overeenkomst, mee te werken bij de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden.
 
@@ -290,7 +314,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 ## DEEL V. PLICHTEN VAN DE VLAGGESTAAT
 
-#### Artikel 18. Plichten van de Vlaggestaat
+##### Artikel 18. Plichten van de Vlaggestaat
 
 1. De Staten waarvan de vaartuigen op de volle zee vissen, nemen de nodige maatregelen opdat de vaartuigen die hun vlag voeren de in het kader van subregionale of regionale organisaties en akkoorden vastgestelde instandhoudings- en beheersmaatregelen naleven en geen activiteiten uitvoeren die de efficiëntie van bedoelde maatregelen aantasten.
 
@@ -334,7 +358,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 ## DEEL VI. NALEVING VAN DE BEPALINGEN EN RECHTSHANDHAVING
 
-#### Artikel 19. Naleving van de bepalingen en rechtshandhaving door de Vlaggestaat
+##### Artikel 19. Naleving van de bepalingen en rechtshandhaving door de Vlaggestaat
 
 1. De Staten zorgen ervoor dat de vaartuigen die hun vlag voeren de in subregionaal of regionaal verband vastgestelde maatregelen voor de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden naleven. Daartoe nemen de Staten de volgende maatregelen:
 
@@ -350,7 +374,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 2. Alle onderzoeken en gerechtelijke acties moeten snel worden uitgevoerd. Sancties voor overtredingen moeten voldoende streng zijn om ervoor te zorgen dat de maatregelen worden nageleefd en om de betrokkenen te weerhouden van overtredingen, waar dan ook, en moeten voorts meebrengen dat de overtreders de winst uit hun onwettige activiteiten wordt ontnomen. De maatregelen ten aanzien van kapiteins en andere officieren van vissersvaartuigen dienen bepalingen te omvatten op grond waarvan onder andere vergunningen om op die vaartuigen in die functies te werken, kunnen worden geweigerd, ingetrokken of geschorst.
 
-#### Artikel 20. Internationale samenwerking bij rechtshandhaving
+##### Artikel 20. Internationale samenwerking bij rechtshandhaving
 
 1. De Staten werken rechtstreeks of in het kader van subregionale of regionale organisaties en akkoorden voor visserijbeheer samen om ervoor te zorgen dat in dat kader vastgestelde instandhoudings- en beheersmaatregelen voor de grensoverschrijdende en de over grote afstanden trekkende visbestanden worden nageleefd en in rechte worden gehandhaafd.
 
@@ -366,7 +390,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 7. De Staten die lid zijn van of partij zijn bij een organisatie of een akkoord voor visserijbeheer in subregionaal of regionaal verband mogen, overeenkomstig het internationale recht, waaronder de daartoe in subregionaal of regionaal verband vastgestelde procedures, totdat de Vlaggestaat passende maatregelen treft, maatregelen nemen om vaartuigen waarvan de activiteiten de efficiëncy van de in het kader van die organisatie of dat akkoord vastgestelde instandhoudings- en beheersmaatregelen aantasten of op enige andere wijze een overtreding daarvan inhouden, ervan te weerhouden om in de volle zee in de subregio of regio te vissen.
 
-#### Artikel 21. Subregionale en regionale samenwerking bij rechtshandhaving
+##### Artikel 21. Subregionale en regionale samenwerking bij rechtshandhaving
 
 1. De Staten die partij zijn bij deze Overeenkomst en tevens lid zijn van of partij zijn bij een organisatie of een akkoord voor visserijbeheer in subregionaal verband, mogen in alle gebieden van de volle zee die daaronder vallen hun naar behoren gemachtigde inspecteurs, overeenkomstig lid 2, vissersvaartuigen die de vlag voeren van een andere Staat die partij is bij deze Overeenkomst, laten aanhouden en laten inspecteren, ongeacht of zo'n Staat ook lid is van de betrokken organisatie of partij is bij het betrokken akkoord, teneinde ervoor te zorgen dat de in het kader van die organisatie of dat akkoord vastgestelde instandhoudings- en beheersmaatregelen voor de grensoverschrijdende en de over grote afstanden trekkende visbestanden worden nageleefd.
 
@@ -426,7 +450,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 18. De Staten zijn aansprakelijk voor schade of verliezen als gevolg van optreden op grond van dit artikel, wanneer dat optreden onwettig is of verder gaat dan, gezien de beschikbare informatie, redelijkerwijs nodig is voor toepassing van de bepalingen van dit artikel.
 
-#### Artikel 22. Basisprocedures voor aanhouding en inspectie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=VI&artikel=21&z=2004-01-18&g=2004-01-18)
+##### Artikel 22. Basisprocedures voor aanhouding en inspectie op grond van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=VI&artikel=21&z=2004-01-18&g=2004-01-18)
 
 1. De inspecterende Staat zorgt ervoor dat zijn naar behoren gemachtigde inspecteurs
 
@@ -460,7 +484,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 4. Voor het geval de kapitein van een vaartuig aanhouding en inspectie overeenkomstig dit artikel en [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=VI&artikel=21&z=2004-01-18&g=2004-01-18) weigert, geeft de vlaggestaat, behalve in omstandigheden waarin het volgens algemeen aanvaarde internationale regels, procedures en praktijken voor de veiligheid op zee nodig is de aanhouding en inspectie uit te stellen, de kapitein van het vaartuig bevel om onmiddellijk aanhouding en inspectie te accepteren en schorst die Staat, als de kapitein dat bevel niet opvolgt, de visvergunning van het betrokken vaartuig en geeft hij dat vaartuig het bevel onmiddellijk naar de haven terug te keren. Wanneer de in dit lid bedoelde omstandigheden zich voordoen, deelt de vlaggestaat de inspecterende Staat mee welke maatregelen hij genomen heeft.
 
-#### Artikel 23. Maatregelen van een Havenstaat
+##### Artikel 23. Maatregelen van een Havenstaat
 
 1. Een Havenstaat heeft het recht en de plicht om, overeenkomstig het internationale recht, maatregelen te nemen om de efficiëncy te bevorderen van instandhoudings- en beheersmaatregelen die in subregional, regionaal of mondiaal verband zijn vastgesteld. Daarbij maakt de Havenstaat noch naar de vorm, noch in feite onderscheid ten aanzien van de vaartuigen van welke Staat ook.
 
@@ -472,7 +496,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 ## DEEL VII. BIJZONDERE OMSTANDIGHEDEN VAN ONTWIKKELINGSLANDEN
 
-#### Artikel 24. Erkenning van de bijzondere omstandigheden van ontwikkelingslanden
+##### Artikel 24. Erkenning van de bijzondere omstandigheden van ontwikkelingslanden
 
 1. De Staten houden ten volle rekening met de bijzondere omstandigheden van de Ontwikkelingslanden wat betreft de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden en de ontwikkeling van de visserij op die bestanden. Daartoe verlenen de Staten bijstand aan de Ontwikkelingslanden hetzij rechtstreeks, hetzij via het ontwikkelingsprogramma van de Verenigde Naties (UNDP), de Voedsel- en Landbouworganisatie (FAO) van de Verenigde Naties en andere speciale bureaus, de Mondiale Milieufaciliteit (GEF), de Commissie Duurzame Ontwikkeling, en andere internationale en regionale organisaties en lichamen.
 
@@ -484,7 +508,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 - c. de noodzaak om ervoor te zorgen dat deze maatregelen er niet toe leiden dat, direct of indirect, de lasten van de instandhoudingsmaatregelen onevenredig voor rekening komen van de Ontwikkelingslanden.
 
-#### Artikel 25. Vormen van samenwerking met ontwikkelingslanden
+##### Artikel 25. Vormen van samenwerking met ontwikkelingslanden
 
 1. De Staten werken rechtstreeks of in het kader van subregionale, regionale of mondiale organisaties samen om
 
@@ -504,7 +528,7 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 - c. monitoring, controle, toezicht en rechtshandhaving, met inbegrip van opleiding en van vergroting van de eigen plaatselijke mogelijkheden, opstellen en ondersteuning van nationale en regionale waarnemersprogramma's, en toegang tot technologie en apparatuur.
 
-#### Artikel 26. Speciale bijstand voor de uitvoering van deze Overeenkomst
+##### Artikel 26. Speciale bijstand voor de uitvoering van deze Overeenkomst
 
 1. De Staten werken samen voor de oprichting van speciale fondsen om de Ontwikkelingslanden bijstand te verlenen bij de uitvoering van deze Overeenkomst en ook voor de kosten van procedures voor de beslechting van geschillen waarbij zij Partij zijn.
 
@@ -512,19 +536,19 @@ Bij toepassing van deze Overeenkomst in een ingesloten of half-ingesloten zee ho
 
 ## DEEL VIII. VREEDZAME BESLECHTING VAN GESCHILLEN
 
-#### Artikel 27. Verplichting geschillen langs vreedzame weg te beslechten
+##### Artikel 27. Verplichting geschillen langs vreedzame weg te beslechten
 
 De Staten zijn verplicht hun geschillen te beslechten via onderhandelingen, feitenonderzoek, bemiddeling, conciliatie, arbitrage, een rechterlijke beslissing, een beroep op regionale organen of akkoorden, of andere vreedzame middelen naar hun eigen keuze.
 
-#### Artikel 28. Voorkomen van geschillen
+##### Artikel 28. Voorkomen van geschillen
 
 De Staten werken samen om geschillen te voorkomen. Daartoe komen de Staten in het kader van de organisaties en akkoorden voor visserijbeheer in subregionaal of regionaal verband efficiënte en snelle besluitvormingsprocedures overeen en worden bestaande besluitvormingsprocedures zo nodig verbeterd.
 
-#### Artikel 29. Technische geschillen
+##### Artikel 29. Technische geschillen
 
 Bij geschillen over aangelegenheden van technische aard kunnen de Staten het geschil voorleggen aan een door hen ad hoc uit deskundigen samengesteld scheidsgerecht. Dit scheidsgerecht spreekt met de betrokken Staten en tracht het geschil snel op te lossen zonder bindende procedures voor geschillenbeslechting te volgen.
 
-#### Artikel 30. Procedures voor geschillenbeslechting
+##### Artikel 30. Procedures voor geschillenbeslechting
 
 1. De in [deel XV van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) vastgestelde bepalingen voor geschillenbeslechting zijn mutatis mutandis van toepassing op geschillen over de interpretatie of de toepassing van deze Overeenkomst tussen de Staten die daarbij partij zijn, ongeacht of die Staten ook Partij zijn bij het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172).
 
@@ -536,7 +560,7 @@ Bij geschillen over aangelegenheden van technische aard kunnen de Staten het ges
 
 5. Een hof- of scheidsgerecht waaraan krachtens het bepaalde in dit Deel een geschil is voorgelegd, past de betrokken bepalingen van het [Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172), van deze Overeenkomst, van relevante visserijovereenkomsten in subregionaal, regionaal of mondiaal verband, en de algemeen aanvaarde regels voor de instandhouding en het beheer van de levende rijkdommen van de zee, alsmede de andere regels van internationaal recht die niet in strijd zijn met het Zeerechtverdrag toe in het perspectief van de instandhouding van de betrokken grensoverschrijdende en over grote afstanden trekkende visbestanden.
 
-#### Artikel 31. Voorlopige maatregelen
+##### Artikel 31. Voorlopige maatregelen
 
 1. In afwachting van de beslechting van een geschil overeenkomstig het bepaalde in dit Deel stellen de partijen bij het geschil alles in het werk om tot voorlopige praktische regelingen te komen.
 
@@ -544,13 +568,13 @@ Bij geschillen over aangelegenheden van technische aard kunnen de Staten het ges
 
 3. Een Staat die Partij is bij deze Overeenkomst, maar geen Partij is bij het [Zeerechtverdrag](onbekend) mag verklaren dat, ongeacht [artikel 290, lid 5, van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=290), het Internationale Hof voor het Recht van de Zee niet het recht heeft om zonder instemming van die Staat voorlopige maatregelen voor te schrijven, te wijzigen of te herroepen.
 
-#### Artikel 32. Beperkingen inzake de toepasselijkheid van de geschillenbeslechtingsprocedures
+##### Artikel 32. Beperkingen inzake de toepasselijkheid van de geschillenbeslechtingsprocedures
 
 [Artikel 297, lid 3, van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=297) is ook van toepassing voor deze Overeenkomst.
 
 ## DEEL IX. STATEN DIE GEEN PARTIJ ZIJN BIJ DEZE OVEREENKOMST
 
-#### Artikel 33. Staten die geen Partij zijn bij deze Overeenkomst
+##### Artikel 33. Staten die geen Partij zijn bij deze Overeenkomst
 
 1. De Staten die Partij zijn bij deze Overeenkomst moedigen de Staten die daarbij geen Partij zijn aan om Partij te worden en om wetten en reglementen vast te stellen die in overeenstemming zijn met de bepalingen ervan.
 
@@ -558,19 +582,19 @@ Bij geschillen over aangelegenheden van technische aard kunnen de Staten het ges
 
 ## DEEL X. GOEDE TROUW EN MISBRUIK VAN RECHT
 
-#### Artikel 34. Goede trouw en misbruik van recht
+##### Artikel 34. Goede trouw en misbruik van recht
 
 De Staten die Partij zijn, komen de verplichtingen die zij bij deze Overeenkomst op zich hebben genomen, te goeder trouw na en oefenen de rechten die in deze Overeenkomst worden erkend, uit op een wijze die geen misbruik van recht vormt.
 
 ## DEEL XI. VERANTWOORDELIJKHEID EN AANSPRAKELIJKHEID
 
-#### Artikel 35. Verantwoordelijkheid en aansprakelijkheid
+##### Artikel 35. Verantwoordelijkheid en aansprakelijkheid
 
 De Staten die Partij zijn bij deze Overeenkomst, zijn overeenkomstig het internationale recht aansprakelijk voor aan hen te wijten schade of verliezen in verband met deze Overeenkomst.
 
 ## DEEL XII. HERZIENINGSCONFERENTIE
 
-#### Artikel 36. Herzieningsconferentie
+##### Artikel 36. Herzieningsconferentie
 
 1. Vier jaar na de datum van inwerkingtreding van deze Overeenkomst roept de Secretaris-Generaal van de Verenigde Naties een conferentie bijeen om de efficiëncy van deze Overeenkomst op het punt van de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden te evalueren. De Secretaris-Generaal zendt voor deze conferentie een uitnodiging aan alle Staten die partij zijn en aan alle Staten en lichamen die partij mogen worden bij deze Overeenkomst, alsmede aan de intergouvernementele en niet-gouvernementele organisaties die als waarnemer aan de werkzaamheden in het kader van de Overeenkomst mogen deelnemen.
 
@@ -578,41 +602,41 @@ De Staten die Partij zijn bij deze Overeenkomst, zijn overeenkomstig het interna
 
 ## DEEL XIII. SLOTBEPALINGEN
 
-#### Artikel 37. Ondertekening
+##### Artikel 37. Ondertekening
 
 Deze Overeenkomst staat open voor ondertekening door alle Staten en door de andere in [artikel 1, lid 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=I&artikel=1&z=2004-01-18&g=2004-01-18), bedoelde lichamen en blijft, gedurende twaalf maanden vanaf 4 december 1995, openstaan voor ondertekening op de zetel van de Verenigde Naties.
 
-#### Artikel 38. Bekrachtiging
+##### Artikel 38. Bekrachtiging
 
 Deze Overeenkomst dient te worden bekrachtigd door de Staten en door de andere in [artikel 1, lid 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=I&artikel=1&z=2004-01-18&g=2004-01-18), bedoelde lichamen.
 
 De akten van bekrachtiging dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 39. Toetreding
+##### Artikel 39. Toetreding
 
 Deze Overeenkomst staat open voor toetreding door de Staten en door de andere in [artikel 1, lid 2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=I&artikel=1&z=2004-01-18&g=2004-01-18), bedoelde lichamen. De akten van toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 40. Inwerkingtreding
+##### Artikel 40. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking 30 dagen na de datum van nederlegging van de dertigste akte van bekrachtiging of toetreding.
 
 2. Voor iedere Staat die of ieder lichaam dat de Overeenkomst bekrachtigt of ertoe toetreedt na de nederlegging van de dertigste akte van bekrachtiging of toetreding, treedt de Overeenkomst in werking op de dertigste dag volgende op de dag van nederlegging van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 41. Voorlopige toepassing
+##### Artikel 41. Voorlopige toepassing
 
 1. Deze Overeenkomst wordt voorlopig toegepast door een Staat die of een lichaam dat door een schriftelijke kennisgeving aan de depositaris instemt met voorlopige toepassing ervan. De voorlopige toepassing gaat in vanaf de datum van ontvangst van de kennisgeving.
 
 2. De voorlopige toepassing door een Staat of lichaam eindigt bij inwerkingtreding van deze Overeenkomst voor die Staat of dat lichaam of bij schriftelijke kennisgeving aan de depositaris door die Staat of dat lichaam van het voornemen om de voorlopige toepassing te beëindigen.
 
-#### Artikel 42. Voorbehouden en excepties
+##### Artikel 42. Voorbehouden en excepties
 
 Ten aanzien van deze Overeenkomst kunnen geen voorbehouden of excepties worden gemaakt.
 
-#### Artikel 43. Verklaringen
+##### Artikel 43. Verklaringen
 
 Artikel 42 verhindert niet dat een Staat of een lichaam bij de ondertekening of bekrachtiging van of de toetreding tot dit Verdrag verklaringen aflegt, in welke bewoordingen of onder welke naam ook, onder andere met het oog op harmonisatie van zijn wetgeving met de bepalingen van deze Overeenkomst, mits dergelijke verklaringen niet strekken tot uitsluitings- of wijzigingsbepalingen inzake de juridische werking van deze Overeenkomst voor die Staat of dat lichaam.
 
-#### Artikel 44. Verhouding tot andere overeenkomsten
+##### Artikel 44. Verhouding tot andere overeenkomsten
 
 1. Deze Overeenkomst verandert voor de Staten die hierbij partij zijn niets aan hun rechten en verplichtingen op grond van andere overeenkomsten welke verenigbaar zijn met deze Overeenkomst en geen afbreuk doen aan de rechten en verplichtingen van andere Staten die partij zijn bij deze Overeenkomst.
 
@@ -620,7 +644,7 @@ Artikel 42 verhindert niet dat een Staat of een lichaam bij de ondertekening of 
 
 3. De Staten die Partij zijn en die het voornemen hebben om een overeenkomst als bedoeld in lid 2 te sluiten, stellen de andere Staten die partij zijn daarvan in kennis via de depositaris van deze Overeenkomt en ook van de wijzigingen of schorsingen waarin hun overeenkomst voorziet.
 
-#### Artikel 45. Wijziging
+##### Artikel 45. Wijziging
 
 1. Een Staat die Partij is bij deze Overeenkomst kan door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties wijzigingen op deze Overeenkomst voorstellen en verzoeken om bijeenroeping van een conferentie die de voorgestelde wijzigingen moet bespreken. De Secretaris-Generaal brengt die kennisgeving over aan alle Staten die Partij zijn. Hij roept de conferentie bijeen als binnen zes maanden vanaf de datum van toezending van de kennisgeving ten minste de helft van de Staten die Partij zijn, positief antwoordt op het verzoek.
 
@@ -640,13 +664,13 @@ Artikel 42 verhindert niet dat een Staat of een lichaam bij de ondertekening of 
 
 - b. Partij bij de ongewijzigde Overeenkomst ten opzichte van iedere Staat die Partij is, maar die niet gebonden is door de wijzigingen.
 
-#### Artikel 46. Opzegging
+##### Artikel 46. Opzegging
 
 1. Een Staat die Partij is, kan door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties deze Overeenkomst opzeggen en daarbij de redenen aangeven. Als geen redenen worden aangegeven, verandert dat niets aan de geldigheid van de opzegging. De opzegging wordt een jaar na de datum van ontvangst van de kennisgeving van kracht, tenzij een latere datum wordt aangegeven.
 
 2. De opzegging verandert niets aan de plicht van een Staat die partij is, om elke in deze Overeenkomst neergelegde verplichting na te komen die, onafhankelijk van deze Overeenkomst, volgens het internationale recht voor hem zou gelden.
 
-#### Artikel 47. Deelneming van internationale organisaties
+##### Artikel 47. Deelneming van internationale organisaties
 
 1. Als een internationale organisatie als bedoeld in [Bijlage IX, artikel 1, van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=1) niet bevoegd is voor alle onderwerpen die door deze Overeenkomst worden geregeld, is [bijlage IX van het Zeerechtverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&bijlage=IX) mutatis mutandis van toepassing voor de deelneming van zo'n internationale organisatie aan deze Overeenkomst, met uitzondering echter van het bepaalde in
 
@@ -670,27 +694,27 @@ van genoemde bijlage.
 
 - c. in het geval van strijdigheid tussen de verplichtingen van een internationale organisatie krachtens deze Overeenkomst en haar verplichtingen krachtens de overeenkomst tot oprichting van die organisatie of krachtens enige daarmee verband houdende akte, hebben de verplichtingen krachtens deze Overeenkomst voorrang.
 
-#### Artikel 48. Bijlagen
+##### Artikel 48. Bijlagen
 
 1. De Bijlagen vormen een integrerend deel van deze Overeenkomst en een verwijzing naar deze Overeenkomst of naar een van de Delen ervan houdt, tenzij uitdrukkelijk anders bepaald, tevens een verwijzing in naar de betrokken Bijlagen.
 
 2. De Bijlagen kunnen van tijd tot tijd door de Staten die Partij zijn, worden herzien. Die herzieningen worden gebaseerd op wetenschappelijke en technische overwegingen. Ongeacht het bepaalde in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=XIII&artikel=45&z=2004-01-18&g=2004-01-18) wordt een herziening van een Bijlage die bij consensus is aangenomen in een vergadering van de Staten die Partij zijn, in de Overeenkomst opgenomen vanaf de datum van aanneming of de andere datum die in die herziening is bepaald, en geldt die herziening ook vanaf de betrokken datum. Als een herziening van een Bijlage niet bij consensus in een dergelijke vergadering wordt aangenomen, zijn de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBV0001615&deel=XIII&artikel=45&z=2004-01-18&g=2004-01-18) vastgestelde wijzigingsprocedures van toepassing.
 
-#### Artikel 49. Depositaris
+##### Artikel 49. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is de depositaris van deze Overeenkomst en van de wijzigingen en herzieningen ervan.
 
-#### Artikel 50. Authentieke teksten
+##### Artikel 50. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van deze Overeenkomst zijn gelijkelijk authentiek.
 
-#### Artikel 1. Algemene beginselen
+##### Artikel 1. Algemene beginselen
 
 1. Voor een doeltreffende instandhouding en een doeltreffend beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden is het van fundamenteel belang dat tijdig gegevens worden verzameld, gegroepeerd en geanalyseerd. Daartoe moeten gegevens over de visserij op deze bestanden in de volle zee en in de gebieden onder nationale jurisdictie zo worden verzameld en gegroepeerd dat relevante statistische analyses voor de instandhouding en het beheer van de betrokken bestanden kunnen worden gemaakt. Deze gegevens omvatten statistieken over vangsten en visserij-inspanning en andere met de visserij verband houdende gegevens, zoals gegevens met betrekking tot vaartuigen en andere gegevens voor normalisatie van de visserij-inspanning. De gegevens dienen ook informatie te verschaffen over niet-doelsoorten en verwante of afhankelijke soorten. Met het oog op de juistheid ervan worden alle gegevens geverifieerd. Niet-geaggregeerde gegevens blijven vertrouwelijk. Voor verspreiding van die gegevens blijven de voorwaarden gelden waarop zij zijn verstrekt.
 
 2. Aan de Ontwikkelingslanden wordt bijstand gegeven, waaronder opleidingen, zowel financiële als technische bijstand, om hun eigen mogelijkheden op het vlak van de instandhouding en het beheer van de levende rijkdommen van de zee te vergroten. De bijstand wordt geconcentreerd op vergroting van de capaciteit wat betreft het verzamelen en de verificatie van gegevens, waarnemersprogramma's, analyse van gegevens, alsmede onderzoekprojecten voor ondersteuning van de evaluatie van visbestanden. Er worden zoveel mogelijk wetenschapsmensen en managers uit Ontwikkelingslanden bij de instandhouding en het beheer van de grensoverschrijdende en de over grote afstanden trekkende visbestanden betrokken.
 
-#### Artikel 2. Beginselen voor het verzamelen, de groepering en de uitwisseling van gegevens
+##### Artikel 2. Beginselen voor het verzamelen, de groepering en de uitwisseling van gegevens
 
 Bij het bepalen van de parameters voor het verzamelen, de groepering en de uitwisseling van gegevens over de visserij op de grensoverschrijdende en de over grote afstanden trekkende visbestanden wordt uitgegaan van de volgende algemene beginselen:
 
@@ -706,7 +730,7 @@ Bij het bepalen van de parameters voor het verzamelen, de groepering en de uitwi
 
 - f. de wetenschapsmensen van de Vlaggestaat en de wetenschapsmensen die actief zijn in het kader van de betrokken organisatie of het betrokken akkoord voor visserijbeheer in subregionaal of regionaal verband analyseren, naar gelang van het geval, de gegevens afzonderlijk of in samenwerking.
 
-#### Artikel 3. Basisgegevens over de visserij
+##### Artikel 3. Basisgegevens over de visserij
 
 1. De Staten verzamelen de volgende categorieën gegevens gedetailleerd genoeg en stellen ze beschikbaar aan de instanties van de betrokken subregionale of regionale organisaties en akkoorden voor visserijbeheer voor een doeltreffende evaluatie van de visbestanden volgens erkende procedures:
 
@@ -728,7 +752,7 @@ Bij het bepalen van de parameters voor het verzamelen, de groepering en de uitwi
 
 - c. ander relevant onderzoek, waaronder bestandopnames ter bepaling van de getalssterkte, bestandopnames ter bepaling van de biomassa, hydro-akoestische bestandopnames, onderzoek met betrekking tot milieufactoren die van invloed zijn op de getalssterkte, en oceanografisch en ecologisch onderzoek.
 
-#### Artikel 4. Gegevens en informatie over vissersvaartuigen
+##### Artikel 4. Gegevens en informatie over vissersvaartuigen
 
 1. De Staten verzamelen de volgende categorieën op de vaartuigen betrekking hebbende gegevens met het oog op gestandaardiseerde overzichten van de samenstelling van de vloot en het motorvermogen, en om bij de analyse van gegevens over vangsten en visserij-inspanning de ene meeteenheid in de andere te kunnen omrekenen:
 
@@ -748,11 +772,11 @@ Bij het bepalen van de parameters voor het verzamelen, de groepering en de uitwi
 
 - c. grootte van de bemanning.
 
-#### Artikel 5. Gegevensmelding
+##### Artikel 5. Gegevensmelding
 
 De Staten zorgen ervoor dat de vaartuigen die hun vlag voeren aan de bevoegde nationale instanties voor de visserij en, indien zulks is overeengekomen, de instanties van de betrokken subregionale of regionale organisaties en akkoorden voor visserijbeheer, de logboekgegevens over de vangsten en de visserij-inspanning, met inbegrip van de gegevens over de visserij-activiteit op de volle zee, met een zodanige frequentie doen toekomen dat aan de nationale bepalingen en aan de regionale en internationale verplichtingen wordt voldaan. Deze gegevens worden, zo nodig, per radio, telex, fax, satelliet of via andere middelen doorgegeven.
 
-#### Artikel 6. Verificatie van de gegevens
+##### Artikel 6. Verificatie van de gegevens
 
 De Staten of, naar gelang van het geval, de instanties van de subregionale of regionale organisaties en akkoorden voor visserijbeheer treffen regelingen om de gegevens over de visserij te verifiëren, zoals bij voorbeeld
 
@@ -764,37 +788,37 @@ De Staten of, naar gelang van het geval, de instanties van de subregionale of re
 
 - d. bemonstering in de havens.
 
-#### Artikel 7. Uitwisseling van gegevens
+##### Artikel 7. Uitwisseling van gegevens
 
 1. De Vlaggestaten delen, via de instanties van de betrokken subregionale of regionale organisaties en akkoorden voor visserijbeheer, de gegevens die zij hebben verzameld, met andere Vlaggestaten en betrokken Kuststaten. De instanties van die organisaties en akkoorden groeperen de gegevens en stellen ze, onder de in dat kader vastgestelde voorwaarden, tijdig en in een overeengekomen formaat beschikbaar aan alle belangstellende Staten, er daarbij voor zorgend dat de vertrouwelijkheid van de niet-geaggregeerde gegevens behouden blijft; deze instanties ontwikkelen, in de mate van het mogelijke, gegevensbanken met efficiënte toegang tot die gegevens.
 
 2. Op mondiaal niveau worden de betrokken gegevens verzameld en verspreid via de Voedsel- en Landbouworganisatie van de Verenigde Naties. Bij gebreke van een organisatie of akkoord voor visserijbeheer in subregionaal of regionaal verband mag de FAO, mits instemming van de betrokken Staten, die werkzaamheden voor de betrokken subregio of regio uitvoeren.
 
-#### 1
+##### 1
 
 Een preventieve referentiewaarde is een via een erkende wetenschappelijke procedure geraamde waarde die overeenkomt met de situatie van het bestand en de betrokken visserij en die kan worden gebruikt als oriëntatiepunt voor het visserijbeheer.
 
-#### 2
+##### 2
 
 Er worden twee soorten preventieve referentiewaarden gebruikt: instandhoudingslimieten en streefcijfers. Instandhoudingslimieten geven grenzen aan om de bevissing binnen veilige biologische grenzen te houden waarbij de visbestanden een maximale duurzame opbrengst geven. Streefcijfers worden gehanteerd met het oog op beheersdoelstellingen.
 
-#### 3
+##### 3
 
 Preventieve referentiewaarden moeten per bestand worden vastgesteld, zodat onder andere rekening kan worden gehouden met het reproduktievermogen, het herstelvermogen en de kenmerken van de bevissing van het betrokken bestand, alsmede met andere oorzaken van mortaliteit en met de belangrijkste onzekerheidsfactoren.
 
-#### 4
+##### 4
 
 De beheersstrategieën dienen erop gericht te zijn om de beviste bestanden, en zo nodig de verwante of afhankelijke soorten, te houden of terug te brengen op een niveau dat consistent is met vooraf overeengekomen preventieve referentiewaarden. Deze referentiewaarden dienen om bij het bereiken ervan te reageren met vooraf overeengekomen instandhoudings- en beheersmaatregelen. De beheersstrategieën omvatten maatregelen die kunnen worden toegepast wanneer de referentiewaarden bijna bereikt zijn.
 
-#### 5
+##### 5
 
 De strategieën voor visserijbeheer worden zo opgezet dat het risico dat de instandhoudingslimieten overschreden worden zeer gering is. Als de grootte van een bestand daalt of dreigt te dalen tot onder een instandhoudingslimiet, moet worden begonnen met instandhoudings- en beheersmaatregelen om het herstel van dat bestand te bevorderen. De strategieën voor visserijbeheer worden zo opgezet dat de streefcijfers gemiddeld niet worden overschreden.
 
-#### 6
+##### 6
 
 Wanneer over een visserijtak weinig of geen gegevens beschikbaar zijn om de referentiewaarden te bepalen, worden voorlopige referentiewaarden vastgesteld. Voorlopige referentiewaarden kunnen worden vastgesteld naar analogie van die voor soortgelijke visbestanden waarover meer gegevens bekend zijn. In die gevallen is verscherpte monitoring ten aanzien van de betrokken visserijtak geboden, zodat de voorlopige referentiewaarden kunnen worden herzien zodra betere gegevens beschikbaar komen.
 
-#### 7
+##### 7
 
 De visserijmortaliteit waarbij de maximaal duurzame opbrengst wordt behaald, is de minimumnorm voor de instandhoudingslimieten. Voor bestanden die niet overbevist zijn, worden de strategieën voor visserijbeheer zo opgezet dat de visserijmortaliteit niet groter is dan die welke overeenkomt met de maximaal duurzame opbrengst en dat de biomassa niet onder een vooraf bepaald niveau daalt. Voor overbeviste bestanden kan de biomassa die de maximaal duurzame opbrengst zou geven, als doel voor het herstel van het bestand gelden.
 

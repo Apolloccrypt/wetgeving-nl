@@ -1,20 +1,46 @@
 ---
-title: "Benoemingsbesluit leden beoordelingscommissie MDT"
+title: "Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)"
 identifier: "BWBR0049026"
-categorie: "Overig"
-publicatiedatum: 2025-10-16
-laatste_update: 2025-10-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049026"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-16"
+last_updated: "2025-10-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049026"
+soort: "ministeriele-regeling"
+stam_id: "16952683"
+version_id: "30973792"
+internal_id: "C44358511"
+label_id: "16863084"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049026/2025-10-16/0"
+intitule_bron: "Stcrt.2023-33513"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-22"
+intitule_published: "2023-12-07"
+intitule_in_force: "2023-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34704"
+original_signed_date: "2025-09-26"
+original_published_date: "2025-10-15"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-34704"
+entry_into_force_date: "2025-09-26"
+jci_1_3: "jci1.3:c:BWBR0049026&z=2025-10-16&g=2025-10-16"
+jci_1_0: "1.0:c:BWBR0049026&g=2025-10-16"
+citeertitel_status: "officieel"
+short_title: "Benoemingsbesluit leden beoordelingscommissie MDT"
+signed_date: "2025-09-26"
+entry_into_force: "2025-09-26"
 ---
-
 # Besluit van de Minister voor Primair en Voortgezet Onderwijs van 22 november 2023, nr. MDT/38992918, houdende benoeming van de leden van de beoordelingscommissie MDT (Benoemingsbesluit leden beoordelingscommissie MDT)
 
 Gelet op [artikel 4, vierde lid, van het Instellingsbesluit beoordelingscommissie MDT](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=4);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - **commissie:** beoordelingscommissie als bedoeld in [artikel 2 van het Instellingsbesluit beoordelingscommissie MDT](https://wetten.overheid.nl/jci1.3:c:BWBR0048996&artikel=2).
 
-#### Artikel 2. Vaste voorzitter en leden
+##### Artikel 2. Vaste voorzitter en leden
 
 1. De vaste voorzitter van de commissie is mevrouw K. (Karen) Klijnhout.
 
@@ -118,19 +144,19 @@ In dit besluit wordt verstaan onder:
 
 3. De minister benoemt de leden en de voorzitter ten behoeve van de beoordeling van subsidieregeling MDT 2024 voor de periode tot 1 februari 2025.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juni 2023.
 
 2. Dit besluit vervalt met ingang van 1 juli 2027.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Benoemingsbesluit leden beoordelingscommissie MDT.
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 2a. beoordelingscommissie tijdvak 2025
+##### Artikel 2a. beoordelingscommissie tijdvak 2025
 
 1. De vaste voorzitter van de commissie voor het tijdvak 2025 is H.A.M (Hans) Migchielsen.
 

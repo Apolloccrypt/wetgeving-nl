@@ -1,28 +1,54 @@
 ---
-title: "Wijzigingsregeling Regeling zorgverzekering (vaststelling vereveningsbijdragen van zorgverzekeraars voor 2006 en 2007), enz."
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2006, nr. Z/F-2717267, tot wijziging van de Regeling zorgverzekering in verband met de vaststelling van de vereveningsbijdragen van zorgverzekeraars voor 2006 en 2007, alsmede wijziging van de Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005"
 identifier: "BWBR0020331"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-09-30
-laatste_update: 2006-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020331"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-09-30"
+last_updated: "2006-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020331"
+soort: "ministeriele-regeling"
+stam_id: "8632123"
+version_id: "13607432"
+internal_id: "C18293211"
+label_id: "8612334"
+dtd_version: "2.0"
+original_entry_into_force: "2006-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020331/2006-09-30/0"
+intitule_bron: "Stcrt.2006-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-25"
+intitule_published: "2006-09-28"
+intitule_in_force: "2006-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-189"
+original_signed_date: "2006-09-25"
+original_published_date: "2006-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-189-p19-SC77008"
+entry_into_force_date: "2006-09-30"
+jci_1_3: "jci1.3:c:BWBR0020331&z=2006-09-30&g=2006-09-30"
+jci_1_0: "1.0:c:BWBR0020331&g=2006-09-30"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling zorgverzekering (vaststelling vereveningsbijdragen van zorgverzekeraars voor 2006 en 2007), enz."
+signed_date: "2006-09-25"
+entry_into_force: "2006-09-30"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 25 september 2006, nr. Z/F-2717267, tot wijziging van de Regeling zorgverzekering in verband met de vaststelling van de vereveningsbijdragen van zorgverzekeraars voor 2006 en 2007, alsmede wijziging van de Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005
 
 Gelet op [artikel 32, vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), de [artikelen 3.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.3), [3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.9, eerste, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.9), [3.10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.12 eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12), [3.15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15) en [3.17 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17) en [artikel 2.1.13 van de Invoerings- en aanpassingswet Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018830&artikel=2.1.13), juncto [artikel 19, tweede en zevende lid, van de Ziekenfondswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002460&artikel=19);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel III
+##### Artikel III
 
 De [Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017355) wordt gewijzigd als volgt:
 
@@ -38,11 +64,11 @@ De [Regeling beschikbare middelen verstrekkingen en vergoedingen Zfw 2005](https
 
 - b. Er wordt een nieuw tweede lid toegevoegd, luidende: 2. Bij de toepassing van hogekostencompensatie is het College zorgverzekeringen gemachtigd de inbreng met betrekking tot het deelbedrag variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp te corrigeren voor de vaste bedragen ter verrekening van de opbrengstresultaten.
 
-#### Artikel IV
+##### Artikel IV
 
 [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3), zoals dat luidde voor de inwerkingtreding van [artikel II, onderdelen A tot en met E](https://wetten.overheid.nl/jci1.3:c:BWBR0020331&artikel=II&z=2006-09-30&g=2006-09-30), blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen in 2006.
 
-#### Artikel V
+##### Artikel V
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. Indien de staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 30 september 2006, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 oktober 2006.
 

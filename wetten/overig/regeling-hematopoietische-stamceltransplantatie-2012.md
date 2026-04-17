@@ -1,36 +1,62 @@
 ---
-title: "Regeling hematopoietische stamceltransplantatie 2012"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 juni 2012, nr. CZ-3115693, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van hematopoietische stamceltransplantatie (Regeling hematopoietische stamceltransplantatie 2012)"
 identifier: "BWBR0031688"
-categorie: "Overig"
-publicatiedatum: 2024-06-05
-laatste_update: 2024-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031688"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-05"
+last_updated: "2024-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031688"
+soort: "ministeriele-regeling"
+stam_id: "11763803"
+version_id: "19446732"
+internal_id: "C27262321"
+label_id: "11736144"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031688/2024-06-05/0"
+intitule_bron: "Stcrt.2012-12274"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-12"
+intitule_published: "2012-06-21"
+intitule_in_force: "2012-06-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-12274"
+original_signed_date: "2012-06-12"
+original_published_date: "2012-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-12274"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031688&z=2024-06-05&g=2024-06-05"
+jci_1_0: "1.0:c:BWBR0031688&g=2024-06-05"
+citeertitel_status: "officieel"
+short_title: "Regeling hematopoietische stamceltransplantatie 2012"
+signed_date: "2012-06-12"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 juni 2012, nr. CZ-3115693, houdende regels ten aanzien van het verlenen van vergunningen voor het toepassen van hematopoietische stamceltransplantatie (Regeling hematopoietische stamceltransplantatie 2012)
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Planningsregeling wordt onder transplantatie van hematopoietische stamcellen verstaan: hetgeen [artikel 1, eerste lid, onder c, van het Besluit aanwijzing bijzondere medische verrichtingen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) daaronder verstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 De omvang van de behoefte aan het aantal centra waar hematopoietische stamceltransplantaties plaatsvinden en de wijze waarop in deze behoefte kan worden voorzien, zijn neergelegd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=1&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 3
+##### Artikel 3
 
 De voorschriften behorend bij een vergunning voor hematopoietische stamceltransplantaties zijn neergelegd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031688&bijlage=2&z=2024-06-05&g=2024-06-05).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 juli 2012.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling hematopoietische stamceltransplantatie 2012.
 

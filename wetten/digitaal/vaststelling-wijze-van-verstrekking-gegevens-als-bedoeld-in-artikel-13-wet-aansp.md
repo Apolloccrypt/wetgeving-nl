@@ -1,28 +1,52 @@
 ---
 title: "Vaststelling wijze van verstrekking gegevens als bedoeld in artikel 13 Wet aansprakelijkheidsverzekering motorrijtuigen"
 identifier: "BWBR0003759"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1996-07-01
-laatste_update: 1996-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003759"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-07-01"
+last_updated: "1996-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003759"
+soort: "ministeriele-regeling"
+stam_id: "4757683"
+version_id: "6564992"
+internal_id: "C7014741"
+label_id: "4735874"
+dtd_version: "2.0"
+original_entry_into_force: "1985-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003759/1996-07-01/0"
+intitule_bron: "Stcrt.1985-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-01-24"
+intitule_published: "1985-01-30"
+intitule_in_force: "1985-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1985-21"
+original_signed_date: "1985-01-24"
+original_published_date: "1985-01-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-02-01"
+jci_1_3: "jci1.3:c:BWBR0003759&z=1996-07-01&g=1996-07-01"
+jci_1_0: "1.0:c:BWBR0003759&g=1996-07-01"
+citeertitel_status: "officieel"
+signed_date: "1985-01-24"
+entry_into_force: "1985-02-01"
 ---
-
 # Vaststelling wijze van verstrekking gegevens als bedoeld in artikel 13 Wet aansprakelijkheidsverzekering motorrijtuigen
 
 Gelet op [artikel 2 van het Besluit kennisgevingen aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002459&artikel=2) (Stb. 1964, 380);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De verzekeraar of zijn gevolmachtigde dient de gegevens, bedoeld in [artikel 13 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=13) (Stb. 1984, 269), te verstrekken door middel van magneetbanden of floppy-disks. De verzekeraar of gevolmachtigde met een portefeuille van maximaal 300 posten mag de gegevens verstrekken door middel van computer-geprinte of met de typemachine ingevulde ponsconcepten.
 
-#### Artikel 2
+##### Artikel 2
 
 Verstrekking van gegevens door middel van magneetbanden en floppy-disks mag slechts geschieden met gebruikmaking van magneetbanden en floppy-disks die door de Dienst Wegverkeer ter beschikking zijn gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gegevens op magneetband en floppy-disk moeten gesorteerd worden aangeleverd op code verzekeraar/gevolmachtigde en per code verzekeraar/gevolgmachtigde op mutatiecode, waarbij de volgorde van beide sorteersleutels oplopend dient te zijn.
 
@@ -32,11 +56,11 @@ Verstrekking van gegevens door middel van magneetbanden en floppy-disks mag slec
 
 4. Het tellingenrecord bevat de aantallen per mutatiecode van de onmiddellijk voorafgaande code verzekeraar/gevolmachtigde.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke magneetband en floppy-disk dient te zijn voorzien van een geleidebon in tweevoud, waarop een totaaltelling van alle op de desbetreffende magneetband of floppy-disk vermelde records per code verzekeraar/gevolmachtigde alsmede de naam en het adres van de afzender en de naam en het telefoonnummer van de contactpersoon moeten zijn vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Verstrekking van gegevens door middel van computer-geprinte of met de typemachine ingevulde ponsconcepten dient te geschieden op formulieren volgens het volgende model:
 
@@ -113,12 +137,12 @@ De gegevens dienen op de volgende wijze op magneetband, floppy-disk of ponsconce
 | volgnummer rdw | **niet invullen** |   |
 | Formaat A6: 105 × 148 mm. | Formaat A6: 105 × 148 mm. |   |
 
-#### Artikel 6
+##### Artikel 6
 
 De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003759&artikel=1&z=1996-07-01&g=1996-07-01) zijn niet van toepassing op de verzekeraar of zijn gevolmachtigde ten aanzien van wie nog geen aanwijzing als bedoeld in artikel 11, eerste lid, van de Wet van 30 november 1983, houdende wijziging van de Wet aansprakelijkheidsverzekering motorrijtuigen (Stb. 1983, 613) heeft plaatsgevonden.
 
 De verzekeraar of zijn gevolmachtigde dient tot het moment van aanwijzing de kennisgevingen op grond van [artikel 13, eerste en tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=13) schriftelijk te doen met gebruikmaking van door de Dienst Rijksdienst voor het Wegeverkeer vastgestelde of goedgekeurde modellen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 juli 1984.

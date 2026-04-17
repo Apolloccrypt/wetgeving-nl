@@ -1,13 +1,38 @@
 ---
 title: "Premieheffing, volksverzekeringen, werknemersverzekeringen en Zorgverzekeringswet; Internationale aspecten"
 identifier: "BWBR0022216"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-07-12
-laatste_update: 2007-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022216"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-07-12"
+last_updated: "2007-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022216"
+soort: "beleidsregel"
+stam_id: "9144543"
+version_id: "14626222"
+internal_id: "C19909871"
+label_id: "9123944"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022216/2007-07-12/0"
+intitule_bron: "Stcrt.2007-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-02"
+intitule_published: "2007-07-10"
+intitule_in_force: "2007-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-130"
+original_signed_date: "2007-07-02"
+original_published_date: "2007-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-130-p8-SC81228"
+entry_into_force_date: "2007-07-12"
+jci_1_3: "jci1.3:c:BWBR0022216&z=2007-07-12&g=2007-07-12"
+jci_1_0: "1.0:c:BWBR0022216&g=2007-07-12"
+citeertitel_status: "redactioneel"
+signed_date: "2007-07-02"
+entry_into_force: "2007-07-12"
 ---
-
 # Premieheffing, volksverzekeringen, werknemersverzekeringen en Zorgverzekeringswet; Internationale aspecten
 
 Dit besluit is een actualisering per 1 januari 2006 en samenvoeging van de besluiten van:

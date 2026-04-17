@@ -1,13 +1,39 @@
 ---
-title: "Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie"
+title: "Besluit van de Minister van Veiligheid en Justitie van 14 maart 2017 nr. 2049837, houdende de benoeming van en vaststelling van de vergoeding van de leden van de taskforce lijkschouw en gerechtelijke sectie (Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie)"
 identifier: "BWBR0039413"
-categorie: "Overig"
-publicatiedatum: 2017-04-04
-laatste_update: 2017-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039413"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-04"
+last_updated: "2017-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039413"
+soort: "ministeriele-regeling"
+stam_id: "13968873"
+version_id: "24030562"
+internal_id: "C34534741"
+label_id: "13931924"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039413/2017-04-04/0"
+intitule_bron: "Stcrt.2017-19587"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-14"
+intitule_published: "2017-04-03"
+intitule_in_force: "2017-04-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-19587"
+original_signed_date: "2017-03-14"
+original_published_date: "2017-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-19587"
+entry_into_force_date: "2017-04-04"
+jci_1_3: "jci1.3:c:BWBR0039413&z=2017-04-04&g=2017-04-04"
+jci_1_0: "1.0:c:BWBR0039413&g=2017-04-04"
+citeertitel_status: "officieel"
+short_title: "Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie"
+signed_date: "2017-03-14"
+entry_into_force: "2017-04-04"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 14 maart 2017 nr. 2049837, houdende de benoeming van en vaststelling van de vergoeding van de leden van de taskforce lijkschouw en gerechtelijke sectie (Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie)
 
 Gelet op [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=6), en [artikel 19, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=19);
@@ -16,7 +42,7 @@ Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commi
 
 Besluit:
 
-#### Artikel 1. (Begripsbepalingen)
+##### Artikel 1. (Begripsbepalingen)
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **Taskforce:** de taskforce lijkschouw en gerechtelijke sectie.
 
-#### Artikel 2. (Samenstelling)
+##### Artikel 2. (Samenstelling)
 
 1. Tot leden van de tasktaree worden benoemd:
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 - b. J.A.J.T. Vissers, politiechef van de eenheid Zeeland-West-Brabant.
 
-#### Artikel 3. (Vergoeding)
+##### Artikel 3. (Vergoeding)
 
 1. De voorzitter ontvangt een vaste vergoeding per maand. De toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) voor de voorzitter is schaal 18, trede 10. De arbeidsduurfactor voor voorzitter is 7,2/36.
 
@@ -54,13 +80,13 @@ In dit besluit wordt verstaan onder:
 
 3. De voorzitter en leden van de Taskforce ontvangen deze vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
-#### Artikel 4. (Secretariaat)
+##### Artikel 4. (Secretariaat)
 
 1. De taskforce wordt ondersteund door een ambtelijk secretariaat.
 
 2. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de taskforce.
 
-#### Artikel 5. (Werkwijze)
+##### Artikel 5. (Werkwijze)
 
 1. De taskforce stelt haar eigen werkwijze vast.
 
@@ -70,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 4. De Minister draagt, na overleg met de taskforce, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de taskforce.
 
-#### Artikel 6. (Inwerkingtreding)
+##### Artikel 6. (Inwerkingtreding)
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 maart 2017.
 
 2. Dit besluit vervalt op het moment dat de taskforce wordt opgeheven.
 
-#### Artikel 7. (Citeertitel)
+##### Artikel 7. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit benoeming en vergoeding leden taskforce lijkschouw en gerechtelijke sectie.
 

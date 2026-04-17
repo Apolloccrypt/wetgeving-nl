@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Fondsverdrag 1992)"
 identifier: "BWBV0004146"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-11-01
-laatste_update: 2003-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004146"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-11-01"
+last_updated: "2003-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004146"
+soort: "verdrag"
+stam_id: "10003958163"
+version_id: "10004095932"
+internal_id: "C10006998601"
+label_id: "10003943914"
+dtd_version: "2.0"
+original_entry_into_force: "1982-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004146/2003-11-01/0"
+intitule_bron: "Trb.1973-101"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-07-27"
+intitule_in_force: "1982-08-19"
+intitule_status: "goed"
+original_publication: "Trb.1973-101"
+original_published_date: "1973-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-101"
+entry_into_force_date: "1982-11-01"
+jci_1_3: "jci1.3:c:BWBV0004146&z=2003-11-01&g=2003-11-01"
+jci_1_0: "1.0:c:BWBV0004146&g=2003-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1982-11-01"
 ---
-
 # Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992 (Fondsverdrag 1992)
 
 De Staten, Partijen bij dit Verdrag,
@@ -32,7 +54,7 @@ Zijn overeengekomen als volgt:
 
 ### Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit Verdrag:
 
 - 9. wordt, voor de vaststelling van de datum van een voorval dat bestaat uit een opeenvolging van feiten, dit voorval geacht te hebben plaatsgevonden op de datum van het eerste feit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Hierbij wordt ingesteld een internationaal fonds voor vergoeding van schade door verontreiniging, genaamd „Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1992”, hierna te noemen „het Fonds”. Het Fonds heeft ten doel:
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag:
 
 2. Het Fonds wordt in elke Verdragsluitende Staat erkend als een rechtspersoon, die ingevolge de wetten van die Staat bevoegd is rechten en plichten te aanvaarden en partij te zijn bij gedingen voor de gerechten van die Staat. Elke Verdragsluitende Staat erkent de Directeur van het Fonds (hierna te noemen „de Directeur”) als wettelijke vertegenwoordiger van het Fonds.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag is uitsluitend van toepassing:
 
@@ -84,7 +106,7 @@ Dit Verdrag is uitsluitend van toepassing:
 
 ### Vergoeding
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ter vervulling van zijn in artikel 2, eerste lid, onder a, genoemde taak, betaalt het Fonds schadevergoeding aan iedere persoon die schade door verontreiniging heeft geleden en niet in staat is geweest een volledige en passende vergoeding van die schade te verkrijgen op grond van de bepalingen van het Aansprakelijkheidsverdrag, 1992:
 
@@ -122,15 +144,15 @@ Voor de toepassing van dit artikel worden door de eigenaar vrijwillig en binnen 
 
 8. Het Fonds kan, op in het huishoudelijk reglement nader te bepalen voorwaarden, kredietfaciliteiten verschaffen voor het nemen van maatregelen ter voorkoming van schade door verontreiniging ten gevolge van een voorval, met betrekking waartoe op grond van dit Verdrag een beroep kan worden gedaan op het Fonds tot betaling van schadevergoeding.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Het recht op schadevergoeding ingevolge artikel 4 vervalt, wanneer niet binnen drie jaar na de datum waarop de schade is ontstaan een rechtsvordering ter zake is ingesteld of een kennisgeving is gedaan ingevolge het zesde lid van artikel 7. In geen geval kan echter een rechtsvordering worden ingesteld nadat zes jaar zijn verstreken na de datum van het voorval dat de schade heeft veroorzaakt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onder voorbehoud van hetgeen hierna in dit artikel is bepaald, kan een vordering tot betaling van schadevergoeding ingevolge artikel 4 van dit Verdrag slechts tegen het Fonds worden ingesteld bij de rechter, die op grond van artikel IX van het Aansprakelijkheidsverdrag, 1992 bevoegd is tot de kennisneming van vorderingen tegen de eigenaar die voor schade door verontreiniging, veroorzaakt door het desbetreffende voorval, aansprakelijk is, of die aansprakelijk zou zijn geweest bij ontbreken van de bepaling van artikel III, tweede lid, van dat Verdrag.
 
@@ -144,11 +166,11 @@ Het recht op schadevergoeding ingevolge artikel 4 vervalt, wanneer niet binnen d
 
 6. Onverminderd het in het vierde lid bepaalde moet, indien op grond van het Aansprakelijkheidsverdrag, 1992 een vordering tot vergoeding van schade door verontreiniging tegen een eigenaar of zijn garant is ingesteld bij een bevoegde rechter in een Verdragsluitende Staat, elke partij in het geding op grond van de nationale wetgeving van deze Staat het recht hebben, het Fonds van het geding in kennis te stellen. Indien een zodanige kennisgeving op de wijze als voorgeschreven door de wet van de Staat van het betrokken gerecht is gedaan op een zodanig tijdstip en op zodanige wijze dat het Fonds zich als partij heeft kunnen voegen in het geding, wordt een uitspraak van de rechter in een zodanig geding, nadat deze onherroepelijk en voor tenuitvoerlegging vatbaar is geworden in de Staat waar hij is gegeven, bindend voor het Fonds, zelfs indien het zich niet als partij heeft gevoegd in het geding, in die zin dat het Fonds de gronden en de beslissing van het vonnis niet kan bestrijden.
 
-#### Artikel 8
+##### Artikel 8
 
 Onder voorbehoud van besluiten betreffende de verdeling, als bedoeld in het vijfde lid van artikel 4, worden uitspraken die tegen het Fonds zijn gegeven door een uit hoofde van het eerste en derde lid van artikel 7 bevoegde rechter en die voor tenuitvoerlegging vatbaar zijn in de Staat waar zij zijn gedaan en waartegen in die Staat geen gewoon rechtsmiddel meer openstaat, in elke Verdragsluitende Staat erkend en zijn vatbaar voor tenuitvoerlegging onder de voorwaarden genoemd in artikel X van het Aansprakelijkheidsverdrag, 1992.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Fonds treedt voor elk bedrag dat het aan vergoeding van schade door verontreiniging op grond van artikel 4, eerste lid, van dit Verdrag heeft betaald, bij wege van subrogatie in de rechten die de persoon wiens schade aldus is vergoed, op grond van het Aansprakelijkheidsverdrag, 1992, zou hebben kunnen doen gelden ten aanzien van de eigenaar of zijn garant.
 
@@ -158,7 +180,7 @@ Onder voorbehoud van besluiten betreffende de verdeling, als bedoeld in het vijf
 
 ### Bijdragen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor elke Verdragsluitende Staat worden aan het Fonds jaarlijks bijdragen betaald door iedere persoon die, in het kalenderjaar bedoeld in artikel 12, tweede lid, onder a of b, bijdragende olie heeft ontvangen in hoeveelheden die in totaal meer dan 150.000 ton bedragen, en wel:
 
@@ -170,11 +192,11 @@ Onder voorbehoud van besluiten betreffende de verdeling, als bedoeld in het vijf
 
 - b. Onder „geassocieerde persoon” wordt verstaan elk filiaal of elke eenheid die onder een zelfde gemeenschappelijk beheer staat. De vraag of een persoon onder deze begripsomschrijving valt, wordt beoordeeld naar de nationale wet van de betrokken Staat.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ter bepaling van het bedrag dat eventueel verschuldigd is aan jaarlijkse bijdragen, stelt de Algemene Vergadering, rekening houdende met de noodzaak van het beschikbaar zijn van voldoende liquide fondsen, voor elk kalenderjaar een voorlopige begroting op van:
 
@@ -206,7 +228,7 @@ Vervallen
 
 5. De Algemene Vergadering kan, op de voorwaarden te bepalen in het financiële reglement van het Fonds, besluiten, overschrijvingen te verrichten tussen gelden ontvangen overeenkomstig artikel 12, tweede lid, onder a, en gelden ontvangen overeenkomstig artikel 12, tweede lid, onder b.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bedrag van achterstallige, op grond van artikel 12 verschuldigde bijdragen draagt rente tegen een percentage dat wordt vastgesteld overeenkomstig het huishoudelijk reglement van het Fonds, met dien verstande dat naar gelang van omstandigheden verschillende percentages kunnen worden bepaald.
 
@@ -214,7 +236,7 @@ Vervallen
 
 3. Indien een persoon die op grond van de artikelen 10 en 12 is gehouden aan het Fonds bij te dragen, zijn verplichting ten aanzien van een zodanige bijdrage of een deel ervan niet nakomt en achterstallig is, neemt de Directeur namens het Fonds de nodige maatregelen tegen een zodanige persoon ten einde het verschuldigde bedrag te innen. Indien echter de in gebreke blijvende bijdrageplichtige kennelijk insolvent is of anderszins de omstandigheden zulks rechtvaardigen, kan de Algemene Vergadering op aanbeveling van de Directeur besluiten af te zien van het nemen of vervolgen van maatregelen tegen de bijdrageplichtige.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elke Verdragsluitende Staat kan op het tijdstip van nederlegging van zijn akte van bekrachtiging of toetreding of op elk tijdstip daarna verklaren, dat hij verplichtingen op zich neemt die op grond van dit Verdrag rusten op personen, die ingevolge het eerste lid van artikel 10 gehouden zijn aan het Fonds bij te dragen voor olie die op het grondgebied van deze Staat ontvangen is. Deze verklaring wordt schriftelijk gedaan en vermeldt welke verplichtingen worden overgenomen.
 
@@ -226,7 +248,7 @@ Vervallen
 
 5. Elke Staat die door een verklaring als bedoeld in dit artikel is gebonden, dient, wanneer tegen hem voor de bevoegde rechter ten aanzien van enige verplichting als in de verklaring omschreven een geding wordt aangespannen, afstand te doen van elk mogelijk beroep op immuniteit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elke Verdragsluitende Staat draagt er zorg voor, dat een persoon die op zijn grondgebied bijdragende olie ontvangt in zodanige hoeveelheden dat hij verplicht is aan het Fonds bij te dragen, vermeld staat op een lijst die door de Directeur van het Fonds in overeenstemming met de navolgende bepalingen wordt aangelegd en bijgehouden.
 
@@ -238,17 +260,17 @@ Vervallen
 
 ### Organisatie en administratie
 
-#### Artikel 16
+##### Artikel 16
 
 Het Fonds heeft een Algemene Vergadering en een Secretariaat onder leiding van een Directeur.
 
 ### De Algemene Vergadering
 
-#### Artikel 17
+##### Artikel 17
 
 De Algemene Vergadering wordt gevormd door alle Staten die Partij zijn bij dit Verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 De Algemene Vergadering heeft de volgende taken:
 
@@ -280,55 +302,55 @@ De Algemene Vergadering heeft de volgende taken:
 
 - 14. het vervullen van alle andere taken die haar worden toegewezen ingevolge het Verdrag of die anderszins noodzakelijk zijn voor de goede werking van het Fonds.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Gewone zittingen van de Algemene Vergadering worden eenmaal per kalenderjaar gehouden en bijeengeroepen door de Directeur.
 
 2. Buitengewone zittingen van de Algemene Vergadering worden bijeengeroepen door de Directeur op verzoek van ten minste een derde van de leden van de Algemene Vergadering; zij kunnen ook worden bijeengeroepen op eigen initiatief door de Directeur, na overleg met de Voorzitter van de Algemene Vergadering. De Directeur moet de leden ten minste dertig dagen tevoren mededeling doen van zodanige zittingen.
 
-#### Artikel 20
+##### Artikel 20
 
 Een meerderheid van de leden van de Algemene Vergadering vormt het voor haar bijeenkomsten vereiste quorum.
 
 ### De Uitvoerende Commissie
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Het Secretariaat
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het Secretariaat wordt gevormd door de Directeur en zoveel stafleden als voor de administratie van het Fonds nodig zijn.
 
 2. De Directeur is de wettelijke vertegenwoordiger van het Fonds.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Directeur is de hoogste administratieve ambtenaar van het Fonds. Met inachtneming van de hem door de Algemene Vergadering gegeven instructies, oefent hij de taken uit die hem op grond van dit Verdrag of het huishoudelijk reglement van het Fonds of door de Algemene Vergadering zijn opgedragen.
 
@@ -350,13 +372,13 @@ Vervallen
 
 - h. de stukken, documenten, agenda, notulen en gegevens voor te bereiden, te verzamelen en rond te zenden welke nodig zijn voor de werkzaamheden van de Algemene Vergadering, en de ondergeschikte organen.
 
-#### Artikel 30
+##### Artikel 30
 
 Bij het vervullen van hun taak vragen noch ontvangen de Directeur en zijn personeel, alsmede de door de Directeur benoemde deskundigen, instructies van enige Regering of enige autoriteit buiten het Fonds. Zij onthouden zich van elk optreden dat op hun positie als internationale ambtenaren een nadelige invloed zou kunnen hebben. Elke Verdragsluitende Staat van zijn kant verbindt zich, het uitsluitend internationale karakter van de verantwoordelijkheden van de Directeur, het personeel en de door de Directeur benoemde deskundigen te eerbiedigen en zich te onthouden van elke poging invloed op hen uit te oefenen bij de uitoefening van hun taak.
 
 ### Financiën
 
-#### Artikel 31
+##### Artikel 31
 
 1. Elke Verdragsluitende Staat draagt de kosten van het salaris, de reiskosten en andere kosten van zijn delegatie naar de Algemene Vergadering en van zijn vertegenwoordigers in de ondergeschikte organen.
 
@@ -364,7 +386,7 @@ Bij het vervullen van hun taak vragen noch ontvangen de Directeur en zijn person
 
 ### Stemming
 
-#### Artikel 32
+##### Artikel 32
 
 Bij de stemmingen in de Algemene Vergadering worden de volgende regels in acht genomen:
 
@@ -376,7 +398,7 @@ Bij de stemmingen in de Algemene Vergadering worden de volgende regels in acht g
 
 - d. voor de toepassing van dit artikel wordt verstaan onder „aanwezige leden”: „leden die aanwezig zijn op de vergadering op het ogenblik van de stemming” en onder „leden die aanwezig zijn en hun stem uitbrengen”: „leden die aanwezig zijn en die in bevestigende of ontkennende zin een stem uitbrengen”. Leden die zich onthouden van stemming worden geacht niet te hebben gestemd.
 
-#### Artikel 33
+##### Artikel 33
 
 De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid van twee derden der stemmen:
 
@@ -386,7 +408,7 @@ De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid va
 
 - c. de instelling van ondergeschikte organen op grond van artikel 18, negende lid, en aangelegenheden dienaangaande.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het Fonds, zijn activa, inkomsten met inbegrip van de bijdragen, en andere bezittingen genieten in alle Verdragsluitende Staten vrijstelling van alle directe belastingen.
 
@@ -404,15 +426,15 @@ De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid va
 
 ### Overgangsbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Vorderingen tot schadevergoeding ingevolge artikel 4 die voortvloeien uit voorvallen die plaatsvinden na de datum van inwerkingtreding van dit Verdrag kunnen niet eerder tegen het Fonds worden ingesteld dan op de honderdtwintigste dag na die datum.
 
-#### Artikel 36
+##### Artikel 36
 
 De Secretaris-Generaal van de Organisatie roept de eerste gewone zitting van de Algemene Vergadering bijeen. Deze zitting vindt plaats zo spoedig mogelijk na de inwerkingtreding van dit Verdrag en in elk geval niet later dan dertig dagen na die inwerkingtreding.
 
-#### Artikel 36 bis
+##### Artikel 36 bis
 
 De volgende overgangsbepalingen zijn van toepassing gedurende de periode, hierna te noemen de overgangsperiode, aanvangend op de datum van inwerkingtreding van dit Verdrag en eindigend op de datum waarop de opzeggingen krachtens artikel 31 van het Protocol van 1992 tot wijziging van het Fondsverdrag, 1971, van kracht worden:
 
@@ -424,7 +446,7 @@ De volgende overgangsbepalingen zijn van toepassing gedurende de periode, hierna
 
 - d. Het eerste lid van artikel 9 van dit Verdrag is tevens van toepassing op de rechten genoten ingevolge het Aansprakelijkheidsverdrag, 1969.
 
-#### Artikel 36 ter
+##### Artikel 36 ter
 
 1. Behoudens het vierde lid van dit artikel, is het totale bedrag van de verschuldigde jaarlijkse bijdragen ten aanzien van bijdragende olie ontvangen in één Verdragsluitende Staat gedurende een kalenderjaar, niet hoger dan 27,5% van het totale bedrag van de jaarlijkse bijdragen ingevolge het Protocol van 1992 tot wijziging van het Fondsverdrag, 1971, met betrekking tot dat kalenderjaar.
 
@@ -434,7 +456,7 @@ De volgende overgangsbepalingen zijn van toepassing gedurende de periode, hierna
 
 4. Het bepaalde in het eerste tot en met het derde lid van dit artikel is van toepassing totdat de totale hoeveelheid bijdragende olie die in een kalenderjaar is ontvangen in alle Verdragsluitende Staten 750 miljoen ton heeft bereikt, of totdat een periode van 5 jaar na de datum van inwerkingtreding van het Protocol van 1992 is verstreken, welke van beide tijdstippen het eerst valt.
 
-#### Artikel 36 quater
+##### Artikel 36 quater
 
 Niettegenstaande de bepalingen van dit Verdrag zijn de volgende bepalingen van toepassing op het beheer van het Fonds gedurende het tijdvak waarin zowel het Fondsverdrag, 1971, als dit Verdrag van kracht zijn:
 
@@ -450,13 +472,13 @@ Niettegenstaande de bepalingen van dit Verdrag zijn de volgende bepalingen van t
 
 - f. Het Fonds vergoedt aan het Fonds 1971 alle kosten en uitgaven voortvloeiend uit administratieve diensten door het Fonds 1971 namens het Fonds verricht.
 
-#### Artikel 36 quinquies. Slotbepalingen
+##### Artikel 36 quinquies. Slotbepalingen
 
 De slotbepalingen van dit Verdrag zijn de artikelen 28 tot en met 39 van het Protocol van 1992 houdende wijziging van het Fondsverdrag, 1971. Verwijzingen in dit Verdrag naar Verdragsluitende Staten dienen te worden uitgelegd als verwijzingen naar de Verdragsluitende Staten van dat Protocol.
 
 ### SLOTBEPALINGEN
 
-#### Artikel 28*. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 28*. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening te Londen van 15 januari 1993 tot en met 14 januari 1994 door iedere Staat die het Aansprakelijkheidsverdrag, 1992, heeft ondertekend.
 
@@ -472,13 +494,13 @@ De slotbepalingen van dit Verdrag zijn de artikelen 28 tot en met 39 van het Pro
 
 7. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, die zijn nedergelegd nadat een wijziging van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, in werking is getreden, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door bedoelde wijziging.
 
-#### Artikel 29*. Informatie omtrent bijdragende olie
+##### Artikel 29*. Informatie omtrent bijdragende olie
 
 1. Alvorens dit Protocol ten aanzien van een Staat in werking treedt, moet die Staat bij de nederlegging van een akte bedoeld in artikel 28, vijfde lid, en vervolgens jaarlijks op een door de Secretaris-Generaal van de Organisatie vast te stellen tijdstip, deze de naam en het adres mededelen van de personen die voor die Staat op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, verplicht zouden zijn aan het Fonds bij te dragen, alsmede gegevens betreffende de in aanmerking komende hoeveelheden bijdragende olie die binnen het grondgebied van die Staat gedurende het voorgaande kalenderjaar door die personen zijn ontvangen.
 
 2. Tijdens de overgangsperiode verstrekt de Directeur, namens de Partijen, jaarlijks aan de Secretaris-Generaal van de Organisatie gegevens betreffende de hoeveelheden bijdragende olie ontvangen door personen die verplicht zouden zijn aan het Fonds bij te dragen op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 30*. Inwerkingtreding
+##### Artikel 30*. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop aan de volgende eisen is voldaan:
 
@@ -496,7 +518,7 @@ De slotbepalingen van dit Verdrag zijn de artikelen 28 tot en met 39 van het Pro
 
 6. Iedere Staat die een verklaring ingevolge artikel 13, tweede lid, van het Protocol van 1992 tot wijziging van het Aansprakelijkheidsverdrag, 1969, heeft afgelegd, wordt geacht tevens een verklaring ingevolge het vierde lid van dit artikel te hebben afgelegd. De intrekking van een verklaring ingevolge genoemd artikel 13, tweede lid, wordt geacht tevens een intrekking ingevolge het vijfde lid van dit artikel te vormen.
 
-#### Artikel 31*. Opzegging van de Verdragen van 1969 en 1971
+##### Artikel 31*. Opzegging van de Verdragen van 1969 en 1971
 
 Onverminderd het bepaalde in artikel 30 dient, binnen zes maanden na de datum waarop is voldaan aan de eis dat:
 
@@ -506,13 +528,13 @@ Onverminderd het bepaalde in artikel 30 dient, binnen zes maanden na de datum wa
 
 elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, al dan niet met toepassing van artikel 30, vierde lid, heeft nedergelegd, indien deze Partij daarbij is, het Fondsverdrag, 1971, en het Aansprakelijkheidsverdrag, 1969, op te zeggen met ingang van twaalf maanden na het verstrijken van de bovengenoemde periode van zes maanden.
 
-#### Artikel 32*. Herziening en wijziging
+##### Artikel 32*. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van het Fondsverdrag, 1992, bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van het Fondsverdrag, 1992, op verzoek van ten minste een derde van alle Verdragsluitende Staten.
 
-#### Artikel 33*. Wijziging van de vergoedingsgrenzen
+##### Artikel 33*. Wijziging van de vergoedingsgrenzen
 
 1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de vergoedingsgrenzen neergelegd in artikel 4, vierde lid van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -538,7 +560,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak een Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak een Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor de Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 34*. Opzegging
+##### Artikel 34*. Opzegging
 
 1. Een Partij kan dit Protocol, na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
 
@@ -554,7 +576,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 7. Niettegenstaande een opzegging van dit Protocol door een Partij ingevolge dit artikel blijven de bepalingen van dit Protocol welke verband houden met de verplichtingen om bij te dragen op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, van toepassing ten aanzien van een voorval zoals bedoeld in artikel 12, tweede lid, onder b, van dat gewijzigde Verdrag dat zich heeft voorgedaan voordat de opzegging van kracht wordt.
 
-#### Artikel 35*. Buitengewone zittingen van de Algemene Vergadering
+##### Artikel 35*. Buitengewone zittingen van de Algemene Vergadering
 
 1. Iedere Verdragsluitende Staat kan binnen negentig dagen na de nederlegging van een akte van opzegging, welke naar zijn mening een belangrijke stijging van de bijdragen voor overblijvende Verdragsluitende Staten ten gevolge zal hebben, de Directeur verzoeken een buitengewone zitting van de Algemene Vergadering bijeen te roepen. De Directeur moet de Algemene Vergadering uiterlijk zestig dagen na ontvangst van het verzoek bijeenroepen.
 
@@ -562,13 +584,13 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Indien de Algemene Vergadering, in een buitengewone zitting bijeengeroepen overeenkomstig het eerste of het tweede lid, besluit dat de opzegging zal leiden tot een belangrijke stijging van de bijdragen voor de overblijvende Verdragsluitende Staten, kan ieder van deze Staten, uiterlijk honderdtwintig dagen voor de datum waarop de opzegging van kracht wordt, dit Protocol opzeggen met ingang van dezelfde datum.
 
-#### Artikel 36*. Beëindiging
+##### Artikel 36*. Beëindiging
 
 1. Dit Protocol houdt op van kracht te zijn op de datum waarop het aantal Verdragsluitende Staten minder wordt dan drie.
 
 2. De Staten die door dit Protocol zijn gebonden op de dag voorafgaande aan die waarop dit Protocol ophoudt van kracht te zijn, dienen het Fonds in staat te stellen zijn functies als beschreven in artikel 37 van dit Protocol uit te oefenen en blijven slechts voor dit doel door dit Protocol gebonden.
 
-#### Artikel 37*. Vereffening van het Fonds
+##### Artikel 37*. Vereffening van het Fonds
 
 1. Indien dit Protocol ophoudt van kracht te zijn, is het Fonds niettemin:
 
@@ -580,7 +602,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Voor de toepassing van dit artikel blijft het Fonds een rechtspersoon.
 
-#### Artikel 38*. Depositaris
+##### Artikel 38*. Depositaris
 
 1. Dit Protocol en alle ingevolge artikel 33 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -610,13 +632,13 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
-#### Artikel 39*. Talen
+##### Artikel 39*. Talen
 
 Dit Protocol is opengesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
 ### Slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 1. Dit Verdrag staat open voor ondertekening door de Staten die het Aansprakelijkheidsverdrag hebben ondertekend of hiertoe toetreden en door elke Staat die vertegenwoordigd was op de Conferentie van 1971 tot oprichting van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie. Het Verdrag staat open voor ondertekening tot 31 december 1972.
 
@@ -626,17 +648,17 @@ Dit Protocol is opengesteld in één oorspronkelijk exemplaar in de Arabische, d
 
 4. Slechts de Staten die het Aansprakelijkheidsverdrag hebben bekrachtigd, aanvaard, goedgekeurd of tot dat Verdrag zijn toegetreden, kunnen dit Verdrag bekrachtigen, aanvaarden, goedkeuren of tot dit Verdrag toetreden.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal van de Organisatie.
 
 2. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, welke zijn nedergelegd nadat een wijziging van dit Verdrag ten aanzien van alle Verdragsluitende Staten in werking is getreden, of nadat alle maatregelen welke zijn vereist voor de inwerkingtreding van de wijziging ten aanzien van deze Partijen zijn voltooid, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag.
 
-#### Artikel 39
+##### Artikel 39
 
 Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van een akte bedoeld in het eerste lid van artikel 38 en vervolgens jaarlijks op een door de Secretaris-Generaal vast te stellen tijdstip, aan hem de naam en het adres mededelen van de personen die wat betreft die Staat op grond van artikel 10 verplicht zouden zijn aan het Fonds bij te dragen, alsmede de gegevens betreffende de in aanmerking komende hoeveelheden bijdragende olie welke op het grondgebied van die Staat gedurende het voorgaande kalenderjaar door die personen zijn ontvangen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum waarop aan de volgende eisen is voldaan:
 
@@ -648,7 +670,7 @@ Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van e
 
 3. Ten aanzien van elke Staat die dit Verdrag daarna bekrachtigt, aanvaardt, goedkeurt of daartoe toetreedt, treedt het Verdrag in werking op de negentigste dag na nederlegging door die Staat van de daartoe strekkende akte.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Een Verdragsluitende Staat kan dit Verdrag na de datum waarop het voor die Staat in werking is getreden te allen tijde opzeggen.
 
@@ -660,7 +682,7 @@ Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van e
 
 5. Niettegenstaande een opzegging door een Verdragsluitende Staat overeenkomstig dit artikel, blijven de bepalingen welke verband houden met de verplichting op grond van artikel 10 bij te dragen van kracht ten aanzien van een voorval als bedoeld in het tweede lid, letter b, van artikel 12 dat zich heeft voorgedaan voor het van kracht worden van de opzegging.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Elke Verdragsluitende Staat mag binnen negentig dagen na de nederlegging van een akte van opzegging, welke naar zijn mening een belangrijke stijging van de bijdragen van de overblijvende Verdragsluitende Staten ten gevolge zal hebben, de Directeur verzoeken een buitengewone zitting van de Algemene Vergadering bijeen te roepen. De Directeur moet de Algemene Vergadering uiterlijk zestig dagen na ontvangst van het verzoek bijeenroepen.
 
@@ -668,13 +690,13 @@ Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van e
 
 3. Indien de Algemene Vergadering, bijeengeroepen in een buitengewone zitting overeenkomstig het in het eerste en tweede lid bepaalde, besluit dat de opzegging zal leiden tot een aanzienlijke stijging van de bijdragen der overblijvende Verdragsluitende Staten, kan elk dezer Staten uiterlijk honderd en twintig dagen voor de datum waarop de opzegging van kracht wordt, dit Verdrag opzeggen met ingang van dezelfde datum.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Dit Verdrag houdt op van kracht te zijn op de datum waarop het aantal Verdragsluitende Staten minder wordt dan drie.
 
 2. Verdragsluitende Staten die door dit Verdrag zijn gebonden op de dag voorafgaande aan die, waarop dit Verdrag ophoudt van kracht te zijn, zijn verplicht het Fonds in staat te stellen zijn functies als beschreven in artikel 44 uit te oefenen en blijven slechts voor dit doel door dit Verdrag gebonden.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien dit Verdrag ophoudt van kracht te zijn, is het Fonds niettemin
 
@@ -686,13 +708,13 @@ Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van e
 
 3. Voor de toepassing van dit artikel blijft het Fonds een rechtspersoon.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De Organisatie kan een Conferentie tot herziening of wijziging van dit Verdrag bijeenroepen.
 
 2. De Organisatie roept een Conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van dit Verdrag op verzoek van ten minste een derde van de Verdragsluitende Staten.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -708,11 +730,11 @@ Alvorens dit Verdrag in werking treedt, moet een Staat bij de nederlegging van e
 
 - b. doet voor eensluidend gewaarmerkte afschriften van dit Verdrag toekomen aan alle ondertekenende Staten en aan alle Staten die tot dit Verdrag toetreden.
 
-#### Artikel 47
+##### Artikel 47
 
 Zodra dit Verdrag in werking treedt, wordt een gewaarmerkt afschrift door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
-#### Artikel 48
+##### Artikel 48
 
 Dit Verdrag is, in een enkel exemplaar, opgesteld in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek. Officiële vertalingen in de Russische en Spaanse taal worden door het Secretariaat van de Organisatie vervaardigd en nedergelegd bij het ondertekende origineel.
 

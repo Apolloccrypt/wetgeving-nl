@@ -1,13 +1,36 @@
 ---
 title: "Centrale examens beeldende vakken (Tehatex) havo en vwo met ingang van 2003"
 identifier: "BWBR0012483"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-07-25
-laatste_update: 2001-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012483"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-07-25"
+last_updated: "2001-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012483"
+soort: "beleidsregel"
+stam_id: "6451853"
+version_id: "11125852"
+internal_id: "C15042761"
+label_id: "6440714"
+original_entry_into_force: "2001-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012483/2001-07-25/0"
+intitule_bron: "Uitleg.2001-18a deel 2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-11"
+intitule_published: "2001-07-25"
+intitule_in_force: "2001-07-25"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-18a deel 2"
+original_signed_date: "2001-05-11"
+original_published_date: "2001-07-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-07-25"
+jci_1_3: "jci1.3:c:BWBR0012483&z=2001-07-25&g=2001-07-25"
+jci_1_0: "1.0:c:BWBR0012483&g=2001-07-25"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-11"
+entry_into_force: "2001-07-25"
 ---
-
 # Centrale examens beeldende vakken (Tehatex) havo en vwo met ingang van 2003
 
 ### 1. Beeldende vakken als eindexamenvak

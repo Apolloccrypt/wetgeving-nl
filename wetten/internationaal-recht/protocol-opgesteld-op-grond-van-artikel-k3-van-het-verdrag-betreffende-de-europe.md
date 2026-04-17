@@ -1,13 +1,37 @@
 ---
 title: "Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen"
 identifier: "BWBV0001528"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-10-17
-laatste_update: 2002-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001528"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-17"
+last_updated: "2002-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001528"
+soort: "verdrag"
+stam_id: "10000617783"
+version_id: "10000635922"
+internal_id: "C10006988381"
+label_id: "10000617934"
+original_entry_into_force: "2002-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001528/2002-10-17/0"
+intitule_bron: "Trb.1996-330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-28"
+intitule_published: "1996-12-05"
+intitule_in_force: "2002-10-04"
+intitule_status: "goed"
+original_publication: "Trb.1996-330"
+original_signed_date: "2002-03-28"
+original_published_date: "1996-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-330"
+entry_into_force_date: "2002-10-17"
+jci_1_3: "jci1.3:c:BWBV0001528&z=2002-10-17&g=2002-10-17"
+jci_1_0: "1.0:c:BWBV0001528&g=2002-10-17"
+citeertitel_status: "officieel"
+signed_date: "2002-03-28"
+entry_into_force: "2002-10-17"
 ---
-
 # Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen
 
 De Hoge Verdragsluitende Partijen bij dit Protocol, Lid-Staten van de Europese Unie,
@@ -34,7 +58,7 @@ Overwegende tenslotte dat de relevante bepalingen van de [Overeenkomst van 26 ju
 
 Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen](https://wetten.overheid.nl/jci1.3:c:BWBV0001473):
 
@@ -52,19 +76,19 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 - 2. wordt onder „[Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473)” verstaan: de Overeenkomst die op 26 juli 1995 is vastgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen.1)PBEG nr. C 316 van 27.11.1995, blz. 49.
 
-#### Artikel 2. Passieve corruptie
+##### Artikel 2. Passieve corruptie
 
 1. Voor de toepassing van dit Protocol bestaat passieve corruptie in het feit dat een ambtenaar opzettelijk, onmiddellijk of middellijk, voordelen, ongeacht de aard daarvan, voor zichzelf of voor een ander aanneemt of vraagt, dan wel ingaat op een desbetreffende toezegging ten einde in strijd met zijn ambtsplicht, een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten, waardoor de financiële belangen van de Europese Gemeenschappen worden of kunnen worden geschaad.
 
 2. Elke Lid-Staat treft de nodige maatregelen om ervoor te zorgen dat de in lid 1 bedoelde gedragingen strafbaar worden gesteld.
 
-#### Artikel 3. Actieve corruptie
+##### Artikel 3. Actieve corruptie
 
 1. Voor de toepassing van dit Protocol bestaat actieve omkoping in het feit dat iemand opzettelijk een ambtenaar onmiddellijk of middellijk een voordeel, ongeacht de aard daarvan, voor hemzelf of voor een ander belooft of verstrekt, om in strijd met zijn ambtsplicht een ambtshandeling of een handeling in de uitoefening van zijn ambt te verrichten of na te laten, waardoor de financiële belangen van de Europese Gemeenschappen worden of kunnen worden geschaad.
 
 2. Elke Lid-Staat treft de nodige maatregelen om ervoor te zorgen dat de in lid 1 bedoelde gedragingen strafbaar worden gesteld.
 
-#### Artikel 4. Assimilatie
+##### Artikel 4. Assimilatie
 
 1. Elke Lid-Staat treft de nodige maatregelen om ervoor te zorgen dat in zijn strafrecht de omschrijving van de overtredingen die een van de in [artikel 1 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=1) bedoelde gedragingen uitmaken en die worden begaan door zijn nationale ambtenaren in de uitoefening van hun ambt, ook van toepassing is in gevallen waarin de feiten worden begaan door communautaire ambtenaren in de uitoefening van hun ambt.
 
@@ -76,13 +100,13 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 5. Dit Protocol is van toepassing onverminderd de bepalingen van de Verdragen tot oprichting van de Europese Gemeenschappen, van het [Protocol betreffende de voorrechten en immuniteiten van de Europese Gemeenschappen](onbekend), van de Statuten van het Hof van Justitie, en van de teksten ter uitvoering daarvan, betreffende de opheffing van de immuniteiten.
 
-#### Artikel 5. Sancties
+##### Artikel 5. Sancties
 
 1. Elke Lid-Staat treft de nodige maatregelen om ervoor te zorgen dat de in de artikelen 2 en 3 bedoelde gedragingen alsmede medeplichtigheid aan en uitlokking van die gedragingen, worden gestraft met doeltreffende, evenredige en afschrikkende straffen, waaronder, ten minste in ernstige gevallen, vrijheidsstraffen die aanleiding kunnen geven tot uitlevering.
 
 2. Lid 1 geldt onverminderd de uitoefening van disciplinaire bevoegdheden tegen nationale of communautaire ambtenaren door de bevoegde instanties. De nationale rechterlijke instanties kunnen bij de straftoemeting op grond van de beginselen van hun nationale recht rekening houden met eventuele disciplinaire straffen die dezelfde persoon voor dezelfde gedragingen reeds zijn opgelegd.
 
-#### Artikel 6. Rechtsmacht
+##### Artikel 6. Rechtsmacht
 
 1. Elke Lid-Staat treft de nodige maatregelen om zijn rechtsmacht te vestigen ten aanzien van de overeenkomstig de artikelen 2, 3 en 4 strafbaar gestelde feiten in de volgende gevallen:
 
@@ -96,7 +120,7 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 2. Elke Lid-Staat kan bij de in artikel 9, lid 2, bedoelde kennisgeving verklaren dat hij een of meer van de in lid 1, onder b, c, en d, genoemde regels niet of alleen in bepaalde gevallen of onder bepaalde voorwaarden toepast.
 
-#### Artikel 7. Verband met de Overeenkomst
+##### Artikel 7. Verband met de Overeenkomst
 
 1. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=3), [artikel 5, de leden 1, 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=5), en [artikel 6 van de Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=6) zijn ook van toepassing alsof naar de in de artikelen 2, 3 en 4 van dit Protocol bedoelde gedragingen verwezen was.
 
@@ -108,7 +132,7 @@ Voor de toepassing van dit Protocol bij de [Overeenkomst aangaande de beschermin
 
 - –. [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001473&artikel=10).
 
-#### Artikel 8. Hof van Justitie
+##### Artikel 8. Hof van Justitie
 
 1. Geschillen tussen de Lid-Staten over de uitlegging of de toepassing van dit Protocol worden, met het oog op een oplossing, in een eerste fase in de Raad besproken volgens de procedure van [titel VI van het Verdrag betreffende de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&titeldeel=VI).
 
@@ -116,7 +140,7 @@ Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij h
 
 2. Ieder geschil tussen een of meer Lid-Staten en de Commissie van de Europese Gemeenschappen betreffende artikel 1, met uitzondering van punt 1, onder c, en betreffende de artikelen 2, 3 en 4 en artikel 7, lid 2, derde streepje, van dit Protocol, dat niet door onderhandelingen kon worden opgelost, kan aan het Hof van Justitie van de Europese Gemeenschappen worden voorgelegd.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 1. Dit Protocol wordt de Lid-Staten ter aanneming volgens hun onderscheiden grondwettelijke bepalingen voorgelegd.
 
@@ -124,7 +148,7 @@ Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij h
 
 3. Dit Protocol treedt in werking negentig dagen na de in lid 2 bedoelde kennisgeving door de Lid-Staat van de Europese Unie die als laatste daartoe overgaat. Indien de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001473)evenwel op die datum nog niet in werking is getreden, treedt het Protocol in werking op de datum van inwerkingtreding van de Overeenkomst.
 
-#### Artikel 10. Toetreding van nieuwe Lid-Staten
+##### Artikel 10. Toetreding van nieuwe Lid-Staten
 
 1. Elke Staat die lid wordt van de Europese Unie, kan tot dit Protocol toetreden.
 
@@ -134,13 +158,13 @@ Indien binnen zes maanden geen oplossing is gevonden, kan de zaak door een bij h
 
 4. Dit Protocol treedt ten aanzien van elke toetredende Staat in werking negentig dagen nadat diens akte van toetreding is neergelegd, of op de datum van zijn inwerkingtreding indien dit Protocol bij het verstrijken van de genoemde periode van negentig dagen nog niet in werking is getreden.
 
-#### Artikel 11. Voorbehouden
+##### Artikel 11. Voorbehouden
 
 1. Behoudens in het in artikel 6, lid 2, genoemde geval, kunnen er geen voorbehouden worden gemaakt.
 
 2. Lid-Staten die een voorbehoud hebben gemaakt, kunnen dat te allen tijde geheel of gedeeltelijk intrekken door middel van een kennisgeving aan de depositaris. De intrekking wordt van kracht op de datum waarop de depositaris de kennisgeving ontvangt.
 
-#### Artikel 12. Depositaris
+##### Artikel 12. Depositaris
 
 1. De Secretaris-Generaal van de Raad van de Europese Unie is depositaris van dit Protocol.
 

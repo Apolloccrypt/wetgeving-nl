@@ -1,13 +1,35 @@
 ---
-title: "Besluit fondsen en spaarregelingen"
+title: "Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid, onder c en d, Burgerlijk Wetboek"
 identifier: "BWBR0002868"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-09-23
-laatste_update: 2017-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002868"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-09-23"
+last_updated: "2017-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002868"
+soort: "AMvB"
+stam_id: "453613"
+version_id: "669442"
+internal_id: "C669441"
+label_id: "441804"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002868/2017-09-23/0"
+intitule_bron: "Stb.1973-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-01-23"
+intitule_status: "goed"
+original_publication: "Stb.1973-33"
+original_signed_date: "1973-01-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBR0002868&z=2017-09-23&g=2017-09-23"
+jci_1_0: "1.0:c:BWBR0002868&g=2017-09-23"
+citeertitel_status: "officieel"
+short_title: "Besluit fondsen en spaarregelingen"
+signed_date: "1973-01-23"
+entry_into_force: "1973-01-01"
 ---
-
 # Besluit van 23 januari 1973, ter uitvoering van artikel 1637s, tweede lid, onder c en d, Burgerlijk Wetboek
 
 Op de gemeenschappelijke voordracht van Onze Ministers van Justitie en van Sociale Zaken van 31 augustus 1972, Stafafdeling Wetgeving Privaatrecht, nr. 422/672.
@@ -26,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ## Titel 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een fonds als bedoeld in [artikel 631, derde lid, onder c, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=631) is een rechtspersoon met volledige rechtsbevoegdheid.
 
@@ -38,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ## Titel 2. Fondsen ter behartiging van algemene belangen van werknemers of werkgevers
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De statuten of reglementen moeten bepalen dat aan de verplichting van de werknemers tot het bijdragen aan een fonds als bedoeld in artikel 1, tweede of derde lid, ten grondslag moet liggen:
 
@@ -58,15 +80,15 @@ hetzij een regeling krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Nieuwe werknemers ontvangen de in het derde lid genoemde informatie uiterlijk op de dag van indiensttreding schriftelijk of elektronisch.
 
-#### Artikel 1b
+##### Artikel 1b
 
 De statuten of reglementen van een fonds als bedoeld in [artikel 1, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=1&artikel=1&z=2017-09-23&g=2017-09-23), houden de doelstellingen in, met een nauwkeurige aanduiding van de belangen die het fonds behartigt en de deelnemende bedrijfstak of bedrijfstakken dan wel de deelnemende onderneming of ondernemingen.
 
-#### Artikel 1c
+##### Artikel 1c
 
 Het bestuur van het fonds moet ingevolge de statuten voor tenminste éénderde bestaan uit vertegenwoordigers van werknemers, met dien verstande dat het aantal vertegenwoordigers van werknemers tenminste gelijk dient te zijn aan het aantal vertegenwoordigers van werkgevers.
 
-#### Artikel 1d
+##### Artikel 1d
 
 1. Het bestuur van het fonds moet ingevolge de statuten met het beheer van het fondsvermogen zijn belast.
 
@@ -78,7 +100,7 @@ Het bestuur van het fonds moet ingevolge de statuten voor tenminste éénderde b
 
 - c. de vaststelling en de wijze van verrekening van de kosten van het beheer.
 
-#### Artikel 1e
+##### Artikel 1e
 
 De statuten of reglementen van het fonds moeten voorts bepalingen inhouden betreffende:
 
@@ -86,7 +108,7 @@ De statuten of reglementen van het fonds moeten voorts bepalingen inhouden betre
 
 - b. de bestemming van het vermogen van het fonds in geval van vereffening.
 
-#### Artikel 1f
+##### Artikel 1f
 
 1. Het bestuur van het fonds stelt ingevolge de statuten jaarlijks een verslag op, dat een getrouw beeld geeft van de grootte en de samenstelling van het vermogen van het fonds en van de ontwikkeling daarvan gedurende het boekjaar. Het bestuur legt in het verslag rekenschap af van het gevoerde beleid.
 
@@ -100,17 +122,17 @@ De statuten of reglementen van het fonds moeten voorts bepalingen inhouden betre
 
 4. Het verslag wordt op aanvraag aan de bij het fonds betrokken werkgevers en werknemers toegezonden tegen betaling van de daaraan verbonden kosten.
 
-#### Artikel 1g
+##### Artikel 1g
 
 De statuten moeten bepalen dat de reglementen, alsmede de in de statuten en reglementen aangebrachte wijzigingen niet in werking zullen treden alvorens een volledig exemplaar van die stukken onderscheidenlijk van de wijzigingen daarin, door het bestuur ondertekend, voor een ieder ter inzage is neergelegd ter griffie van de rechtbank in het arrondissement waarin het fonds is gevestigd.
 
 ## Titel 3. Andere fondsen
 
-#### Artikel 2
+##### Artikel 2
 
 Het bestuur van het fonds moet ingevolge de statuten voor ten minste de helft bestaan uit vertegenwoordigers van de deelnemers.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur van het fonds moet ingevolge de statuten met het beheer van het fondsvermogen zijn belast.
 
@@ -126,7 +148,7 @@ Het bestuur van het fonds moet ingevolge de statuten voor ten minste de helft be
 
 4. Onder schuldvorderingen en aandelen als bedoeld in het vorige lid, worden begrepen schuldvorderingen op een natuurlijke persoon of een rechtspersoon en aandelen in een rechtspersoon, wanneer die natuurlijke persoon of die rechtspersoon rechtstreeks of middellijk de meerderheid bezit van de aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn; tevens worden onder schuldvorderingen en aandelen begrepen schuldvorderingen op en aandelen in een rechtspersoon, waarvan de aandelen in meerderheid rechtstreeks of middellijk in het bezit zijn van de werkgever of van één van de werkgevers bij wie deelnemers in dienst zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Behoudens het bepaalde in het volgende lid hebben alle deelnemers ingevolge de statuten toegang tot de algemene vergadering.
 
@@ -134,7 +156,7 @@ Het bestuur van het fonds moet ingevolge de statuten voor ten minste de helft be
 
 De verkiezing, het aantal leden en alle verdere bijzonderheden, de ledenraad betreffende, worden bij de statuten geregeld. De ledenraad is ontbonden, als het aantal deelnemers beneden tweehonderd daalt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestuur van het fonds legt ingevolge de statuten jaarlijks aan de algemene vergadering een verslag over, dat een getrouw beeld geeft van de grootte en de samenstelling van het vermogen van het fonds en van de ontwikkeling daarvan gedurende het boekjaar. Het legt in die vergadering rekenschap af van zijn beleid.
 
@@ -142,7 +164,7 @@ De verkiezing, het aantal leden en alle verdere bijzonderheden, de ledenraad bet
 
 3. Het verslag en de verklaring van de accountant worden aan de deelnemers ter beschikking gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 De statuten moeten voorts bepalingen inhouden betreffende:
 
@@ -154,7 +176,7 @@ De statuten moeten voorts bepalingen inhouden betreffende:
 
 - d. de wijze van beslechting van geschillen, voortvloeiende uit de toepassing van de statuten en reglementen van het fonds, met dien verstande dat de beslechting van geschillen niet uitsluitend mag worden opgedragen aan de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn of zijn geweest.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De statuten of reglementen moeten een nauwkeurige omschrijving inhouden van:
 
@@ -176,27 +198,27 @@ De statuten moeten voorts bepalingen inhouden betreffende:
 
 3. De deelnemers en hun rechtverkrijgenden mogen tengevolge van een bepaling in de statuten of reglementen of tengevolge van een wijziging daarin geen recht jegens het fonds kunnen verliezen. Niettemin is toegelaten een bepaling krachtens welke een spaartegoed aan het fonds vervalt, indien ten minste twee jaren zijn verstreken sinds de beëindiging van de deelneming en de datum waarop het tegoed opeisbaar is geworden, en indien gedurende die termijn een mededeling aan het fonds omtrent de beschikking over het tegoed achterwege is gebleven.
 
-#### Artikel 8
+##### Artikel 8
 
 De statuten moeten bepalen dat de reglementen, alsmede de in de statuten en reglementen aangebrachte wijzigingen niet in werking zullen treden alvorens een volledig exemplaar van die stukken, onderscheidenlijk van de wijzigingen daarin, door het bestuur ondertekend, voor een ieder ter inzage is neergelegd ter griffie van de rechtbank in het arrondissement waarin het fonds is gevestigd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur van het fonds moet ingevolge de statuten aan iedere deelnemer een exemplaar van de statuten en reglementen, alsmede van de daarin aangebrachte wijzigingen verstrekken.
 
 2. Een spaarfonds moet ingevolge zijn statuten bovendien aan iedere deelnemer een of meer bewijzen van deelgerechtigdheid in het fonds verstrekken en voorts de waarde van diens deelneming in het fonds regelmatig opgeven.
 
-#### Artikel 10
+##### Artikel 10
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van een fonds ontheffing verlenen van het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&titeldeel=3&artikel=3&z=2017-09-23&g=2017-09-23) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
 
 ### Hoofdstuk II. Regelingen tot sparen anders dan door fondsvorming
 
-#### Artikel 11
+##### Artikel 11
 
 Een regeling tot sparen als bedoeld in [artikel 631, derde lid, onder d, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=631) moet schriftelijk worden vastgesteld en mede voldoen aan de voorschriften, gesteld in de [artikelen 12-14](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2017-09-23&g=2017-09-23).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ingevolge de regeling moet het sparen geschieden bij een in de regeling aangewezen instelling, die de spaartegoeden beheert en voor iedere deelnemer afzonderlijk administreert op een op naam van de deelnemer gestelde rekening.
 
@@ -206,7 +228,7 @@ Een regeling tot sparen als bedoeld in [artikel 631, derde lid, onder d, van Boe
 
 4. Onder schuldvorderingen en aandelen als bedoeld in het derde lid worden begrepen schuldvorderingen op een natuurlijke persoon of een rechtspersoon en aandelen in een rechtspersoon, wanneer die natuurlijke persoon of die rechtspersoon rechtstreeks of middellijk de meerderheid bezit van de aandelen in het vermogen van de werkgever of één van de werkgevers bij wie deelnemers in dienst zijn; tevens worden onder schuldvorderingen en aandelen begrepen schuldvorderingen op en aandelen in een rechtspersoon, waarvan de aandelen in meerderheid rechtstreeks of middellijk in het bezit zijn van de werkgever of van een van de werkgevers bij wie deelnemers in dienst zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De regeling moet een nauwkeurige omschrijving inhouden van:
 
@@ -230,27 +252,27 @@ Een regeling tot sparen als bedoeld in [artikel 631, derde lid, onder d, van Boe
 
 3. De deelnemers en hun rechtverkrijgenden mogen ten gevolge van een bepaling in de regeling of tengevolge van een wijziging daarin geen rechten op het tegoed verliezen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De regeling dient voor te schrijven dat aan iedere deelnemer een exemplaar van de regeling, alsmede van de daarin aangebrachte wijzigingen wordt verstrekt.
 
 2. Iedere deelnemer moet van de instelling die het tegoed beheert, regelmatig een opgave ontvangen van het totaal van de gelden, schuldvorderingen en aandelen, die zij ten name van de deelnemer beheert.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister van Sociale Zaken en Werkgelegenheid kan op verzoek van de betrokken werkgever of werkgevers ontheffing verlenen van het in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=II&artikel=12&z=2017-09-23&g=2017-09-23) bepaalde. De ontheffing kan onder beperkingen worden verleend. Aan de ontheffing kunnen voorschriften worden verbonden; zij kan voorts worden gewijzigd en ingetrokken. De ontheffing wordt verleend voor bepaalde of onbepaalde tijd.
 
 ### Hoofdstuk III. Overgangs- en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Een bij de inwerkingtreding van dit besluit bestaand fonds als bedoeld in [artikel 1637**s**, tweede lid, onder **c**, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0006000&artikel=1637s), dat voldoet aan de voorwaarden gesteld bij het Koninklijk besluit van 31 maart 1908, **Stb.** 94, doch niet aan [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0002868&hoofdstuk=I&z=2017-09-23&g=2017-09-23) van dit besluit, wordt niettemin tot 1 januari 1974 geacht aan dit hoofdstuk te voldoen.
 
-#### Artikel 17
+##### Artikel 17
 
 Het Koninklijk besluit van 31 maart 1908, **Stb.** 94, wordt ingetrokken.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit besluit kan worden aangehaald als: Besluit fondsen en spaarregelingen.
 

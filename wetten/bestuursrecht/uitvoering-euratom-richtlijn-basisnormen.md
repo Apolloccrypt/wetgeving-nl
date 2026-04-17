@@ -1,13 +1,39 @@
 ---
-title: "Uitvoering Euratom-richtlijn basisnormen"
+title: "Besluit van 8 juli 2002 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen (uitvoering Euratom-richtlijn basisnormen)"
 identifier: "BWBR0013872"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-10-01
-laatste_update: 2002-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013872"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-10-01"
+last_updated: "2002-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013872"
+soort: "AMvB"
+stam_id: "3101073"
+version_id: "20198622"
+internal_id: "C28401021"
+label_id: "3063914"
+dtd_version: "2.0"
+original_entry_into_force: "2002-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013872/2002-10-01/0"
+intitule_bron: "Stb.2002-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-08"
+intitule_published: "2002-08-01"
+intitule_in_force: "2002-08-01"
+intitule_status: "goed"
+original_publication: "Stb.2002-407"
+original_signed_date: "2002-07-08"
+original_published_date: "2002-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-407"
+entry_into_force_date: "2002-10-01"
+jci_1_3: "jci1.3:c:BWBR0013872&z=2002-10-01&g=2002-10-01"
+jci_1_0: "1.0:c:BWBR0013872&g=2002-10-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoering Euratom-richtlijn basisnormen"
+signed_date: "2002-07-08"
+entry_into_force: "2002-10-01"
 ---
-
 # Besluit van 8 juli 2002 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen (uitvoering Euratom-richtlijn basisnormen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 14 november 2001, nr. MJZ2001120 764, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens Onze Minister van Economische Zaken en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
 
-#### Artikel II
+##### Artikel II
 
 A. Het in artikel 15, onder a, van de wet vervatte verbod geldt niet voor het voorhanden hebben of het zich ontdoen van splijtstoffen of ertsen, indien:
 
@@ -38,11 +64,11 @@ A. Het in artikel 15, onder a, van de wet vervatte verbod geldt niet voor het vo
 
 C. Na de inwerkingtreding van dit besluit berust de beschikking van 31 augustus 1987 inzake de erkenning van de Centrale Organisatie voor Radioactief Afval N.V. als ophaaldienst op [artikel 42, derde lid, onder c, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=42).
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Definitiebesluit Kernenergiewet.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

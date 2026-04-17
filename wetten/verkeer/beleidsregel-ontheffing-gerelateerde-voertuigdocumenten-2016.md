@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016"
 identifier: "BWBR0038343"
-categorie: "Verkeer"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038343"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038343"
+soort: "zbo"
+stam_id: "13712553"
+version_id: "23492482"
+internal_id: "C33832341"
+label_id: "13679234"
+dtd_version: "2.0"
+original_entry_into_force: "2016-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038343/2020-01-01/0"
+intitule_bron: "Stcrt.2016-38296"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-11"
+intitule_published: "2016-07-21"
+intitule_in_force: "2016-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-38296"
+original_signed_date: "2016-07-11"
+original_published_date: "2016-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-38296"
+entry_into_force_date: "2016-08-01"
+jci_1_3: "jci1.3:c:BWBR0038343&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0038343&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2016-07-11"
+entry_into_force: "2016-08-01"
 ---
-
 # Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016
 
 Gelet op [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48) en [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), [artikel 4:83 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83), het [Besluit Voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025554), [artikel 4, vierde lid van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4), het [Besluit ontheffing verlening exceptioneel vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018680) en de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) overgenomen.
 
@@ -42,11 +67,11 @@ Voorts wordt verstaan onder:
 
 - j. **principeakkoord:** een document dat wordt afgegeven nadat een beoordeling en onderzoek is uitgevoerd te behoeve van de afgifte van een kenteken als bedoeld in [artikel 48, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48), en een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een ontheffing gerelateerd voertuigdocument die noodzakelijk is ten behoeve van de aanvraag van een kenteken als bedoeld in [artikel 48, derde lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48), of de aanvraag en het gebruik van een ontheffing als bedoeld in [artikel 149a, tweede lid van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a).
 
-#### Artikel 3. Soorten ontheffing gerelateerde documenten
+##### Artikel 3. Soorten ontheffing gerelateerde documenten
 
 De ontheffing gerelateerde voertuigdocumenten worden onderscheiden in:
 
@@ -58,27 +83,27 @@ De ontheffing gerelateerde voertuigdocumenten worden onderscheiden in:
 
 #### § 2. Aanvragen ontheffing gerelateerde documenten
 
-#### Artikel 4. Aanvragen van de ontheffing gerelateerde documenten
+##### Artikel 4. Aanvragen van de ontheffing gerelateerde documenten
 
 1. De aanvrager van een ontheffing gerelateerd document dient zijn aanvraag te doen op het door de Dienst Wegverkeer vastgestelde model aanvraagformulier.
 
 2. Het aanvraagformulier wordt schriftelijk beschikbaar gesteld.
 
-#### Artikel 5. Wijze van indienen van de aanvraag
+##### Artikel 5. Wijze van indienen van de aanvraag
 
 Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
-#### Artikel 6. Intrekken van de aanvraag
+##### Artikel 6. Intrekken van de aanvraag
 
 Een aanvraag kan uitsluitend schriftelijk door de indiener worden ingetrokken.
 
-#### Artikel 7. Modellen
+##### Artikel 7. Modellen
 
 De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&artikel=3&z=2020-01-01&g=2020-01-01) opgenomen documenten worden afgegeven volgens een door de RDW vastgesteld model, opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&bijlage=A&z=2020-01-01&g=2020-01-01).
 
 #### § 3. Beoordeling aanvragen principeakkoord
 
-#### Artikel 8. toepassingsgebied principeakkoord
+##### Artikel 8. toepassingsgebied principeakkoord
 
 1. Een principeakkoord kan worden afgegeven voor:
 
@@ -106,7 +131,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 4. Voor aanhangwagens met een breedte van meer dan 3,00 m wordt geen principe akkoord afgegeven.
 
-#### Artikel 9. Principeakkoord [artikel 8, eerste lid, onder a, b en e onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01).
+##### Artikel 9. Principeakkoord [artikel 8, eerste lid, onder a, b en e onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01).
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder a, b en e onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -128,7 +153,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 2. Indien de aanvraag betrekking heeft op een buitenlands voertuig moet, naast de in het eerste lid genoemde documenten, tevens worden overgelegd het door de buitenlandse autoriteiten afgegeven kentekenbewijs en een document van de registrerende autoriteiten waaruit de afmetingen van het voertuig blijkt, indien deze gegevens niet op buitenlands kentekenbewijs staan vermeld.
 
-#### Artikel 10. Principeakkoord [artikel 8, eerste lid, onder c en e onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
+##### Artikel 10. Principeakkoord [artikel 8, eerste lid, onder c en e onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder c en e onder 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -148,7 +173,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 2. Indien de aanvraag betrekking heeft op een buitenlands voertuig moet, naast de in het eerste lid genoemde documenten, tevens worden overgelegd het door de buitenlandse autoriteiten afgegeven kentekenbewijs en een document van de registrerende autoriteiten waaruit de afmetingen van het voertuig blijken, indien deze gegevens niet op buitenlands kentekenbewijs staan vermeld.
 
-#### Artikel 11. Principeakkoord [artikel 8, eerste lid, onder d en e onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
+##### Artikel 11. Principeakkoord [artikel 8, eerste lid, onder d en e onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01)
 
 1. Indien een principeakkoord wordt aangevraagd als bedoeld in [artikel 8, eerste lid, onder d en e onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=3&artikel=8&z=2020-01-01&g=2020-01-01) moeten de volgende stukken worden overlegd:
 
@@ -164,7 +189,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 2. Indien de aanvraag betrekking heeft op een buitenlands voertuig moet, naast de in het eerste lid genoemde documenten, tevens worden overgelegd het door de buitenlandse autoriteiten afgegeven kentekenbewijs en een document van de registrerende autoriteiten waaruit de massa’s van het voertuig blijken, indien deze gegevens niet op buitenlands kentekenbewijs staan vermeld.
 
-#### Artikel 12. Keuringen en onderzoeken
+##### Artikel 12. Keuringen en onderzoeken
 
 1. Na beoordeling van de aanvraag vinden de keuring en onderzoeken van de getrokken voertuigen plaats op de door de RDW daartoe aangewezen locatie.
 
@@ -184,7 +209,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - f. kermis- of circusvoertuig.
 
-#### Artikel 13. Wijze van beoordeling getrokken voertuig niet zijnde werktuig of kermis- en circusvoertuig
+##### Artikel 13. Wijze van beoordeling getrokken voertuig niet zijnde werktuig of kermis- en circusvoertuig
 
 1. Indien het een aanvraag van een getrokken voertuig, niet zijnde werktuig of kermis- en circusvoertuig betreft, waarbij in onbeladen toestand niet wordt voldaan aan [artikel 5.12.6, derde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6), geldt het volgende:
 
@@ -204,7 +229,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 3. Aanhangwagens waarbij niet wordt voldaan aan [artikel 5.12.6, zesde lid van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.12.6) mag de breedte niet worden veroorzaakt door de breedte van de as of het asstel.
 
-#### Artikel 14. Wijze van beoordeling getrokken werktuig
+##### Artikel 14. Wijze van beoordeling getrokken werktuig
 
 1. Indien het een aanvraag voor een getrokken werktuig betreft, waarbij niet wordt voldaan aan [artikel 5.18.11 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11), geldt het volgende:
 
@@ -228,7 +253,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 - c. een aanhangwagen, niet zijnde oplegger of middenasaanhangwagen, met minimaal 4 assen kan in aanmerking komen voor een verhoging van de aslasten tot maximaal 10.000 kg, indien het een compenserend asstel betreft.
 
-#### Artikel 15. Wijze van beoordeling getrokken kermis – of circusvoertuig
+##### Artikel 15. Wijze van beoordeling getrokken kermis – of circusvoertuig
 
 1. Indien het een aanvraag voor een getrokken kermis- of circusvoertuig betreft en waarbij niet wordt voldaan aan [artikel 5.18.11 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=5.18.11), geldt het volgende:
 
@@ -252,7 +277,7 @@ De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=1&ar
 
 #### § 4. Beoordeling aanvragen ontheffingsattesten
 
-#### Artikel 16. Overlegging documenten ontheffingsattesten
+##### Artikel 16. Overlegging documenten ontheffingsattesten
 
 Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documenten worden overgelegd:
 
@@ -272,7 +297,7 @@ Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documen
 
 - 3. Een verklaring wegrijhulpinrichting conform [richtlijn 97/27/EG](31997L0027) of verordening (EU) Nr. 1230/2012 indien van toepassing.
 
-#### Artikel 17. Wijze van beoordeling trekker
+##### Artikel 17. Wijze van beoordeling trekker
 
 1. Het GTW 1GTW = Gross train weight, maximum massa samenstel., GVW 2GVW = Gross vehicle weight, maximum massa voertuig. en de aslasten van de trekker wordt beoordeeld aan de hand van de zwaar transportverklaring van de fabrikant en de gegevens van de koppeling en inrichting. Dit wordt berekend aan de hand van de volgende formule: D 3D = disselwaarde koppeling. = 0.6* GVW(GTW- mt4Mt = massa rijklaar trekkend voertuig.) / GTW.
 
@@ -284,13 +309,13 @@ Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documen
 
 - b. indien een staalgeveerde sleepas is gemonteerd en het een compenserend asstel betreft.
 
-#### Artikel 18. Wijze van beoordeling voor een bedrijfswagen, niet zijnde een trekker
+##### Artikel 18. Wijze van beoordeling voor een bedrijfswagen, niet zijnde een trekker
 
 1. Het GTW van de bedrijfswagen wordt beoordeeld aan de hand van de zwaar transportverklaring van de fabrikant en de gegevens van de koppeling en de bevestiging. Dit wordt berekend aan de hand van de volgende formule: D = GVW * ma5Ma = massa aanhangwagen. / GTW.
 
 2. Bij een GTW tot 100.000 kg geldt dat het GTW maximaal vijf keer het toegestane gewicht van de aangedreven assen bedraagt en wordt mede bepaald door de te trekken aanhangwagen.
 
-#### Artikel 19. Wijze van beoordeling voor een bedrijfswagen uitgevoerd als ballasttrekker
+##### Artikel 19. Wijze van beoordeling voor een bedrijfswagen uitgevoerd als ballasttrekker
 
 1. Het GTW, GVW en de aslasten van de bedrijfswagen wordt beoordeeld aan de hand van de zwaar transportverklaring van de fabrikant en de gegevens van de koppeling en inrichting. Dit wordt berekend aan de hand van de volgende formule: D= GVW * ma / GTW.
 
@@ -300,7 +325,7 @@ Indien een aanvraag ontheffingsattest wordt ingediend moeten de volgende documen
 
 #### § 5. SERT documenten
 
-#### Artikel 20. Soorten SERT documenten
+##### Artikel 20. Soorten SERT documenten
 
 SERT documenten kunnen uitsluitend door voertuigfabrikanten worden aangevraagd voor:
 
@@ -312,7 +337,7 @@ SERT documenten kunnen uitsluitend door voertuigfabrikanten worden aangevraagd v
 
 - d. een combinatie van het bepaalde onder a b en c.
 
-#### Artikel 21. Over te leggen documenten [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 21. Over te leggen documenten [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 Indien een SERT document wordt aangevraagd voor het verhogen van de op het kentekenbewijs vermelde aslasten moeten bij de aanvraag de volgende documenten worden overgelegd:
 
@@ -320,7 +345,7 @@ Indien een SERT document wordt aangevraagd voor het verhogen van de op het kente
 
 - b. een goedgekeurd remschema of remberekening volgens ECE reglement R13 of [richtlijn 71/320/EEG](31971L0320), zoals deze gold ten tijde van de datum eerste toelating van het voertuig, zoals vermeld op het Nederlandse kentekenbewijs dan wel het door een andere EU-lidstaat afgegeven kentekenbewijs.
 
-#### Artikel 22. Wijze van beoordeling [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 22. Wijze van beoordeling [artikel 20, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 1. De RDW beoordeelt de op het aanvraagformulier vermelde aslastgaranties geldend bij 80 km/u, aan de hand van de volgende criteria:
 
@@ -330,7 +355,7 @@ Indien een SERT document wordt aangevraagd voor het verhogen van de op het kente
 
 - c. de koppelingen volgens ECE reglement R55 of [richtlijn 94/20/EG](31994L0020).
 
-#### Artikel 23. Over te leggen documenten [artikel 20, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 23. Over te leggen documenten [artikel 20, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 Indien een SERT document wordt aangevraagd voor het aantonen van de van de technische specificaties van het voertuig ten behoeve van de ontheffingverlening
 
@@ -340,7 +365,7 @@ moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 - b. indien gewenst aanvullende informatie met betrekking tot de aangeleverde specificaties.
 
-#### Artikel 24. Over te leggen documenten [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 24. Over te leggen documenten [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 1. Indien een SERT document wordt aangevraagd voor configuraties van modulaire voertuigen moeten bij de aanvraag de volgende documenten worden overgelegd:
 
@@ -368,7 +393,7 @@ moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 - c. een bewijs van voldoende verzekering overleggen tegen mogelijke aansprakelijkheidstelling als gevolg van technisch falen van de aan elkaar gekoppelde voertuigen.
 
-#### Artikel 25. Wijze van beoordeling [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 25. Wijze van beoordeling [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 1. In geval van een aanvraag als bedoeld in [artikel 20, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01) hanteert de RDW de volgende beoordelingscriteria:
 
@@ -384,7 +409,7 @@ moeten bij de aanvraag de volgende documenten worden overgelegd:
 
 4. Alle asstellen waaruit het modulaire voertuig wordt samengesteld moeten aantoonbaar zijn toegelaten in Nederland dan wel enige andere EU-lidstaat.
 
-#### Artikel 26. Aanvulling reeds afgegeven SERT document
+##### Artikel 26. Aanvulling reeds afgegeven SERT document
 
 Indien op een reeds afgegeven SERT document voor modulaire voertuigen een aanvulling wordt gevraagd moet de aanvrager overleggen:
 
@@ -392,7 +417,7 @@ Indien op een reeds afgegeven SERT document voor modulaire voertuigen een aanvul
 
 - b. een afschrift van het eerder afgegeven SERT document.
 
-#### Artikel 27. Over te leggen documenten en wijze van beoordeling [artikel 20, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
+##### Artikel 27. Over te leggen documenten en wijze van beoordeling [artikel 20, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01)
 
 1. Indien een SERT document wordt aangevraagd voor een combinatie van het bepaalde in [artikel 20 onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=20&z=2020-01-01&g=2020-01-01) moeten alle in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=21&z=2020-01-01&g=2020-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=23&z=2020-01-01&g=2020-01-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0038343&paragraaf=5&artikel=24&z=2020-01-01&g=2020-01-01) genoemde gegevens worden overgelegd.
 
@@ -400,19 +425,19 @@ Indien op een reeds afgegeven SERT document voor modulaire voertuigen een aanvul
 
 #### § 6. Slotbepalingen
 
-#### Artikel 28. Overgangsrecht
+##### Artikel 28. Overgangsrecht
 
 De voor de inwerkingtreding van deze beleidsregel afgegeven principe akkoorden, ontheffingsattesten en SERT documenten behouden hun geldigheid.
 
-#### Artikel 29. Intrekking
+##### Artikel 29. Intrekking
 
 De [Beleidsregel ontheffing gerelateerde voertuigdocumenten](https://wetten.overheid.nl/jci1.3:c:BWBR0032805) (Stcrt 2013, nr 1872) wordt ingetrokken.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 augustus 2016.
 
-#### Artikel 32. Citeertitel
+##### Artikel 32. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffing gerelateerde voertuigdocumenten 2016.
 

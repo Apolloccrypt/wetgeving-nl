@@ -1,13 +1,38 @@
 ---
 title: "Besluit belastingplicht van stichtingen en verenigingen"
 identifier: "BWBR0048564"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-08-24
-laatste_update: 2023-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048564"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-08-24"
+last_updated: "2023-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048564"
+soort: "beleidsregel"
+stam_id: "16840853"
+version_id: "29589812"
+internal_id: "C42321991"
+label_id: "16753714"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048564/2023-08-24/0"
+intitule_bron: "Stcrt.2023-23036"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-08"
+intitule_published: "2023-08-23"
+intitule_in_force: "2023-08-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-23036"
+original_signed_date: "2023-08-08"
+original_published_date: "2023-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-23036"
+entry_into_force_date: "2023-08-24"
+jci_1_3: "jci1.3:c:BWBR0048564&z=2023-08-24&g=2023-08-24"
+jci_1_0: "1.0:c:BWBR0048564&g=2023-08-24"
+citeertitel_status: "officieel"
+signed_date: "2023-08-08"
+entry_into_force: "2023-08-24"
 ---
-
 # Besluit belastingplicht van stichtingen en verenigingen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

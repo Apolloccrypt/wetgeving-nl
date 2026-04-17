@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht"
 identifier: "BWBV0004614"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1971-02-03
-laatste_update: 1971-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004614"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-02-03"
+last_updated: "1971-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004614"
+soort: "verdrag"
+stam_id: "10004223903"
+version_id: "10004404882"
+internal_id: "C10009638471"
+label_id: "10004209014"
+dtd_version: "2.0"
+original_entry_into_force: "1971-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004614/1971-02-03/0"
+intitule_bron: "Trb.1969-221"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-11-19"
+intitule_in_force: "1971-02-17"
+intitule_status: "goed"
+original_publication: "Trb.1969-221"
+original_published_date: "1969-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-221"
+entry_into_force_date: "1971-02-03"
+jci_1_3: "jci1.3:c:BWBV0004614&z=1971-02-03&g=1971-02-03"
+jci_1_0: "1.0:c:BWBV0004614&g=1971-02-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-02-03"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika;
@@ -24,11 +46,11 @@ die, na elkaar mededeling te hebben gedaan van hun volmachten, welke in goede en
 
 ### HOOFDSTUK I. Reikwijdte van de Overeenkomst
 
-#### Artikel 1. Nalatenschappen waarop de Overeenkomst van toepassing is
+##### Artikel 1. Nalatenschappen waarop de Overeenkomst van toepassing is
 
 Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke onder het bereik van de belastingheffing van een van de Staten of van beide Staten vallen, doordat de overledene bij zijn overlijden aldaar zijn woonplaats had of daarvan staatsburger was. Een overledene die bij zijn overlijden staatsburger van de Verenigde Staten was, maar volgens de wetgeving van de Verenigde Staten voor de toepassing van hun belastingheffing geacht wordt een niet-inwoner niet-staatsburger van de Verenigde Staten te zijn geweest, wordt voor de toepassing van deze Overeenkomst geacht noch zijn woonplaats in de Verenigde Staten te hebben gehad noch een staatsburger daarvan te zijn geweest.
 
-#### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 (1). De belastingen waarop deze Overeenkomst van toepassing is, zijn:
 
@@ -50,7 +72,7 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 ### HOOFDSTUK II. Begripsbepalingen
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 (1). In deze Overeenkomst:
 
@@ -72,7 +94,7 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (2). Elke in deze Overeenkomst niet anders omschreven uitdrukking heeft, tenzij het zinsverband anders vereist, de betekenis welke die uitdrukking heeft volgens de wetgeving van de Staat waarvan de belasting wordt vastgesteld.
 
-#### Artikel 4. Fiscale woonplaats
+##### Artikel 4. Fiscale woonplaats
 
 (1). Voor de toepassing van deze Overeenkomst wordt de vraag of een overledene bij zijn overlijden zijn woonplaats in een van de Staten had, beslist overeenkomstig de wetgeving van die Staat.
 
@@ -96,7 +118,7 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 ### HOOFDSTUK III. Regels voor de belastingheffing
 
-#### Artikel 5. Toepassing van de nationale wetgevingen
+##### Artikel 5. Toepassing van de nationale wetgevingen
 
 (1). Behoudens voor zover in deze Overeenkomst anders is bepaald, heft iedere Staat zijn belasting en verleent hij vrijstellingen, aftrekken, verrekeningen en andere tegemoetkomingen in overeenstemming met zijn wetgeving.
 
@@ -104,7 +126,7 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (3). De bepalingen van deze Overeenkomst mogen niet leiden tot een verhoging van het bedrag van de door elk van de Staten geheven belasting (behoudens voor zover de verhoging voortvloeit uit een in de bepalingen van deze Overeenkomst voorziene vermindering van de aan een Staat betaalde belasting ter zake waarvan een verrekening kan worden verleend.
 
-#### Artikel 6. Onroerende vermogensbestanddelen
+##### Artikel 6. Onroerende vermogensbestanddelen
 
 (1). Onroerende vermogensbestanddelen mogen door een Staat worden belast, indien die vermogensbestanddelen in die Staat zijn gelegen.
 
@@ -114,7 +136,7 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (4). De bepalingen van dit artikel mogen er niet toe leiden dat vermogensbestanddelen, die door een Staat ingevolge zijn wetgeving niet kunnen worden belast, door die Staat worden belast (of bij het vaststellen van het tarief van de belasting in aanmerking worden genomen).
 
-#### Artikel 7. Bedrijfsvermogen van een vaste inrichting en bezittingen die behoren tot een vast middelpunt gebezigd voor de uitoefening van een vrij beroep
+##### Artikel 7. Bedrijfsvermogen van een vaste inrichting en bezittingen die behoren tot een vast middelpunt gebezigd voor de uitoefening van een vrij beroep
 
 (1). Behoudens het in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) bepaalde mogen bezittingen (niet zijnde schepen en luchtvaartuigen die in internationaal verkeer worden geëxploiteerd en roerende zaken die worden gebruikt bij de exploitatie van deze schepen en luchtvaartuigen) deel uitmakende van het bedrijfsvermogen van een vaste inrichting door een Staat worden belast, indien de vaste inrichting in die Staat is gelegen.
 
@@ -160,15 +182,15 @@ Deze Overeenkomst is van toepassing op nalatenschappen van overledenen welke ond
 
 (9). De bepalingen van dit artikel mogen er niet toe leiden dat vermogensbestanddelen die door een Staat ingevolge zijn wetgeving niet kunnen worden belast, door die Staat worden belast (of bij het vaststellen van het tarief van de belasting in aanmerking worden genomen).
 
-#### Artikel 8. Belastingheffing op grond van woonplaats
+##### Artikel 8. Belastingheffing op grond van woonplaats
 
 Onder voorbehoud van de bepalingen van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=9&z=1971-02-03&g=1971-02-03) en behoudens het in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) bepaalde, mag vermogen slechts worden belast (of bij het vaststellen van het tarief van de belasting in aanmerking worden genomen) door de Staat waar de overledene bij zijn overlijden zijn woonplaats had.
 
-#### Artikel 9. Belastingheffing op grond van staatsburgerschap
+##### Artikel 9. Belastingheffing op grond van staatsburgerschap
 
 Indien de overledene bij zijn overlijden staatsburger van een van de Staten was, mag die Staat vermogen belasten in overeenstemming met zijn wetgeving, met inbegrip van vermogensbestanddelen die niet in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) zijn genoemd, ongeacht of hij in die Staat zijn woonplaats had of niet.
 
-#### Artikel 10. Vrijstellingen
+##### Artikel 10. Vrijstellingen
 
 (1). De vermogensbestanddelen (niet zijnde vermogensbestanddelen van een huwelijksgemeenschap) welke worden verkregen door de overlevende echtgenoot van een overledene die inwoner of staatsburger van de Verenigde Staten was, en welke door Nederland uitsluitend op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) mogen worden belast, worden voor het vaststellen van het Nederlandse recht van overgang bij overlijden slechts in de nalatenschap begrepen voor zover hun waarde 50 percent van de waarde van alle in de nalatenschap begrepen vermogensbestanddelen die Nederland mag belasten, te boven gaat. Voor de toepassing van dit lid wordt de waarde van de nalatenschap die Nederland mag belasten, en van de vermogensbestanddelen die worden verkregen door de overlevende echtgenoot, vastgesteld, nadat met alle voor aftrek in aanmerking komende schulden en lasten rekening is gehouden, doch voordat het tweede lid wordt toegepast.
 
@@ -182,7 +204,7 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 ### HOOFDSTUK IV. Vermijding van dubbele belasting
 
-#### Artikel 11. Verrekeningen
+##### Artikel 11. Verrekeningen
 
 (1). Indien beide Staten belasting heffen met betrekking tot vermogensbestanddelen welke door een van de Staten overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=6&z=1971-02-03&g=1971-02-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=7&z=1971-02-03&g=1971-02-03) mogen worden belast, verleent een Staat die zijn belasting heft omdat de overledene bij zijn overlijden zijn woonplaats in die Staat had of staatsburger daarvan was, een verrekening gelijk aan het bedrag van de belasting die door de andere Staat is geheven met betrekking tot vermogensbestanddelen welke door die andere Staat overeenkomstig artikel 6 of 7 mogen worden belast.
 
@@ -206,7 +228,7 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 ### HOOFDSTUK V. Bijzondere bepalingen
 
-#### Artikel 12. Beperking van verzoeken om verrekening of teruggaaf
+##### Artikel 12. Beperking van verzoeken om verrekening of teruggaaf
 
 (1). Verzoeken om verrekening of teruggaaf van belasting gegrond op de bepalingen van deze Overeenkomst moeten worden ingediend voordat van de volgende termijnen de laatst vallende is verstreken:
 
@@ -218,7 +240,7 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (2). Teruggaaf gegrond op de bepalingen van deze Overeenkomst vindt plaats zonder betaling van interest over het aldus teruggegeven bedrag.
 
-#### Artikel 13. Bevoegde autoriteiten
+##### Artikel 13. Bevoegde autoriteiten
 
 (1). Een persoon die van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met deze Overeenkomst, kan, onverminderd de rechtsmiddelen waarin de wetgevingen van die Staten voorzien, zijn geval voorleggen aan de bevoegde autoriteit van elk van de Staten. Zulk een geval moet worden voorgelegd binnen de termijn die krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=V&artikel=12&z=1971-02-03&g=1971-02-03) is voorgeschreven voor het indienen van een verzoek om verrekening of teruggaaf. Indien de klacht van die persoon door de bevoegde autoriteit van de Staat bij welke de klacht wordt ingediend gegrond wordt geacht, tracht deze met de bevoegde autoriteit van de andere Staat tot overeenstemming te komen, ten einde belastingheffing welke in strijd met de bepalingen van deze Overeenkomst is, te vermijden.
 
@@ -230,7 +252,7 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (5). De bevoegde autoriteit van elke Staat kan zodanige uitvoeringsvoorschriften en formulieren vaststellen als nodig of geëigend mochten zijn om uitvoering te geven aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 14. Uitwisseling van inlichtingen
+##### Artikel 14. Uitwisseling van inlichtingen
 
 (1). De bevoegde autoriteit van elke Staat verstrekt aan de bevoegde autoriteit van de andere Staat zodanige inlichtingen als nodig zijn om (a) uitvoering te geven aan de bepalingen van deze Overeenkomst of aan de wetgeving van die andere Staat met betrekking tot zijn belasting, voor zover de belastingheffing ingevolge die wetgeving in overeenstemming is met deze Overeenkomst, of om (b) fraude of het ontgaan van belasting te voorkomen met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken (daaronder begrepen inlichtingen betreffende vermogen dat krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=III&artikel=8&z=1971-02-03&g=1971-02-03) van de belasting van de eerstbedoelde Staat is vrijgesteld). Dit lid verplicht evenwel de bevoegde autoriteit van een Staat niet inlichtingen te verstrekken welke die Staat niet bezit, betreffende vermogen dat krachtens artikel 8 is vrijgesteld van zijn belasting. Elke verstrekte inlichting wordt geheim gehouden en niet ter kennis gebracht van andere personen (daaronder begrepen een rechterlijke instantie of uitvoeringsorgaan) dan die belast met de vaststelling, inning, invordering, of strafvervolging met betrekking tot de belastingen die het onderwerp van deze Overeenkomst uitmaken.
 
@@ -244,7 +266,7 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 (3). Inlichtingen worden verstrekt hetzij ambtshalve, hetzij op verzoek met betrekking tot speciale gevallen. De bevoegde autoriteiten van de Staten zullen in onderlinge overeenstemming de lijst van inlichtingen die ambtshalve worden verstrekt, vaststellen.
 
-#### Artikel 15. Diplomatieke en consulaire ambtenaren
+##### Artikel 15. Diplomatieke en consulaire ambtenaren
 
 (1). De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voorrrechten aan die diplomatieke of consulaire ambtenaren of ambtenaren van internationale organisaties ontlenen aan de algemene regelen van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
@@ -252,19 +274,19 @@ Indien de overledene bij zijn overlijden staatsburger van een van de Staten was,
 
 ### HOOFDSTUK VI. Slotbepalingen
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 (1). Deze Overeenkomst dient te worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 
 (2). Deze Overeenkomst treedt in werking op de dag waarop de akten van bekrachtiging worden uitgewisseld en de bepalingen ervan vinden toepassing op nalatenschappen van personen die op of na die dag overlijden.
 
-#### Artikel 17. Uitbreiding tot andere gebieden
+##### Artikel 17. Uitbreiding tot andere gebieden
 
 (1). Deze Overeenkomst kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de landen Suriname of de Nederlandse Antillen of tot een van die landen en tot alle gebieden of elk gebied voor de internationale betrekkingen waarvan de Verenigde Staten verantwoordelijk zijn, indien het desbetreffende land of gebied belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop deze Overeenkomst van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling. Deze notawisseling dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden uitgewisseld.
 
 (2). Tenzij anders is vastgesteld in de kennisgeving van beëindiging bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004614&hoofdstuk=VI&artikel=18&z=1971-02-03&g=1971-02-03), wordt door de beëindiging van deze Overeenkomst niet tevens de toepasselijkheid van deze Overeenkomst op het land of gebied waartoe zij ingevolge dit artikel is uitgebreid, beëindigd.
 
-#### Artikel 18. Beëindiging
+##### Artikel 18. Beëindiging
 
 Deze Overeenkomst blijft van kracht totdat zij door een van de Staten is beëindigd. Elk van de Staten kan deze Overeenkomst langs diplomatieke weg tegen het einde van ieder kalenderjaar, niet eerder vallende dan vijf jaren na de datum van haar inwerkingtreding, beëindigen, door tenminste zes maanden tevoren van zodanige beëindiging schriftelijk kennis te geven. In dat geval zal deze Overeenkomst niet van toepassing zijn op nalatenschappen van personen die na het verstrijken van het kalenderjaar aan het einde waarvan deze Overeenkomst is beëindigd, overlijden.
 

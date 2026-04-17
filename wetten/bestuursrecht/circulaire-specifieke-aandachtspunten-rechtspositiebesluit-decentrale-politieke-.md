@@ -1,13 +1,39 @@
 ---
-title: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten"
+title: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten, d.d. 10 december 2019, kenmerk 2019-0000652446"
 identifier: "BWBR0042920"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-12-20
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042920"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-12-20"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042920"
+soort: "circulaire"
+stam_id: "15281343"
+version_id: "26327382"
+internal_id: "C37420531"
+label_id: "15227804"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042920/2019-12-20/0"
+intitule_bron: "Stcrt.2019-69198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-10"
+intitule_published: "2019-12-19"
+intitule_in_force: "2019-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-69198"
+original_signed_date: "2019-12-10"
+original_published_date: "2019-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-69198"
+entry_into_force_date: "2019-12-20"
+jci_1_3: "jci1.3:c:BWBR0042920&z=2019-12-20&g=2019-12-20"
+jci_1_0: "1.0:c:BWBR0042920&g=2019-12-20"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten"
+signed_date: "2019-12-10"
+entry_into_force: "2019-12-20"
 ---
-
 # Circulaire Specifieke aandachtspunten Rechtspositiebesluit decentrale politieke ambtsdragers voor gemeenten, d.d. 10 december 2019, kenmerk 2019-0000652446
 
 **Van verzending circulaires naar publicatie op internet**

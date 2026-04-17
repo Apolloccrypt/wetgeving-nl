@@ -1,13 +1,37 @@
 ---
 title: "Instelling Landelijke Coördinatiecommissie Dijkversterkingen"
 identifier: "BWBR0004623"
-categorie: "Overig"
-publicatiedatum: 1989-10-17
-laatste_update: 1989-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004623"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1989-10-17"
+last_updated: "1989-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004623"
+soort: "ministeriele-regeling"
+stam_id: "3948723"
+version_id: "5711792"
+internal_id: "C5905901"
+label_id: "3928584"
+dtd_version: "2.0"
+original_entry_into_force: "1989-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004623/1989-10-17/0"
+intitule_bron: "Stcrt.1989-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-09-19"
+intitule_published: "1989-10-17"
+intitule_in_force: "1989-10-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1989-202"
+original_signed_date: "1989-09-19"
+original_published_date: "1989-10-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-10-17"
+jci_1_3: "jci1.3:c:BWBR0004623&z=1989-10-17&g=1989-10-17"
+jci_1_0: "1.0:c:BWBR0004623&g=1989-10-17"
+citeertitel_status: "officieel"
+signed_date: "1989-09-19"
+entry_into_force: "1989-10-17"
 ---
-
 # Instelling Landelijke Coördinatiecommissie Dijkversterkingen
 
 Gezien de nog uit te voeren werken voor de beveiliging van het land tegen overstromingen, in het bijzonder de versterking van de waterkeringen in het rivieren- en IJsselmeergebied;
@@ -18,11 +42,11 @@ Overwegende dat in overleg op landelijk niveau prioriteiten worden gesteld bij d
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Landelijke Coördinatiecommissie Dijkversterkingen.
 
-#### Artikel 2
+##### Artikel 2
 
 De commissie heeft tot taak:
 
@@ -34,7 +58,7 @@ De commissie heeft tot taak:
 
 - d. het signaleren van zich voordoende knelpunten met betrekking tot de voortgang van de werken.
 
-#### Artikel 3
+##### Artikel 3
 
 In de commissie worden benoemd:
 
@@ -44,19 +68,19 @@ In de commissie worden benoemd:
 
 - c. tot **lid en secretaris:** drs. P. Brolsma, landelijke coördinator dijkversterkingen en medewerker van de afdeling Waterkeringen bij de Hoofdafdeling Waterbeheersing van de Hoofddirectie van de Waterstaat.
 
-#### Artikel 4
+##### Artikel 4
 
 De leden genoemd in voorgaand artikel kunnen zich later vervangen en/of doen bijstaan door één medewerker op technisch niveau.
 
-#### Artikel 5
+##### Artikel 5
 
 Na de opheffing van de commissie dient de secretaris het archief over te dragen aan het hoofd van de onderafdeling Algemene Secretarie van de Hoofddirectie van de Waterstaat. Voor het overige archiefbeheer wordt verwezen naar mijn beschikking van 13 mei 1983, nr. A 23146.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beschikking treedt met ingang van heden in werking en werkt terug tot 1 juni 1989.
 
-#### Artikel 7
+##### Artikel 7
 
 Afschrift van deze beschikking, die wordt geplaatst in de Nederlandse Staatscourant, wordt gezonden aan:
 

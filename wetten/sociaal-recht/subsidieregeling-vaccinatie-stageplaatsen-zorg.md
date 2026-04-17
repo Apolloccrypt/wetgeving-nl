@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling vaccinatie stageplaatsen zorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2008, nr. MEVA/ABA/2860370, houdende regels voor het verstrekken van subsidie voor de tegemoetkoming in de kosten voor vaccinatie tegen Hepatitis B voor leerlingen in het zorgonderwijs (Subsidieregeling vaccinatie stageplaatsen zorg)"
 identifier: "BWBR0024188"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-01
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024188"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-01"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024188"
+soort: "ministeriele-regeling"
+stam_id: "9652483"
+version_id: "23074632"
+internal_id: "C33347001"
+label_id: "9629654"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024188/2026-03-01/0"
+intitule_bron: "Stcrt.2008-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-07"
+intitule_published: "2008-07-16"
+intitule_in_force: "2008-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-14895"
+original_signed_date: "2016-03-16"
+original_published_date: "2016-03-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-14895"
+entry_into_force_date: "2016-03-16"
+jci_1_3: "jci1.3:c:BWBR0024188&z=2026-03-01&g=2026-03-01"
+jci_1_0: "1.0:c:BWBR0024188&g=2026-03-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling vaccinatie stageplaatsen zorg"
+signed_date: "2016-03-16"
+entry_into_force: "2016-03-16"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2008, nr. MEVA/ABA/2860370, houdende regels voor het verstrekken van subsidie voor de tegemoetkoming in de kosten voor vaccinatie tegen Hepatitis B voor leerlingen in het zorgonderwijs (Subsidieregeling vaccinatie stageplaatsen zorg)
 
 Handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport,
@@ -16,7 +42,7 @@ Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jc
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 - f. deelnemer: door een onderwijsinstelling voor bekostiging aangemeld natuurlijke persoon die in een studiejaar ingeschreven staat of heeft gestaan voor een zorgopleiding en in het daaraan voorafgaande studiejaar niet stond ingeschreven voor een opleiding.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan aan een onderwijsinstelling jaarlijks een subsidie verstrekken voor het aanbieden en toedienen van vaccinatie tegen hepatitis B aan een deelnemer van een zorgopleiding.
 
 2. De subsidie wordt per studiejaar verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 5. De Minister kan vrijstelling en ontheffing verlenen van de in het derde lid genoemde aanvraagtermijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Minister geeft een beschikking op een aanvraag van de subsidie binnen dertien weken na ontvangst van de aanvraag.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 5. De Minister kan bij de vaststelling van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
 
-#### Artikel 5
+##### Artikel 5
 
 De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waarbij wordt verstaan onder:
 
@@ -78,7 +104,7 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 - B. een normbedrag van € 125.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aantal personen, bedoeld in [artikel 5, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0024188&artikel=5&z=2026-03-01&g=2026-03-01), wordt ontleend aan:
 
@@ -92,7 +118,7 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 4. Een persoon die is ingeschreven voor de zorgopleiding Bachelor Social Work met code 34116 of Bachelor Sociaal Werk met code 34608, telt mee voor 0,75 in plaats van 1.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het studiejaar waarvoor de subsidie wordt verstrekt, biedt de onderwijsinstelling aan elke deelnemer vanaf de aanvang van zijn deelname aan de zorgopleiding, ongeacht de datum van beëindiging van zijn deelname aan de zorgopleiding, volledige vaccinatie tegen hepatitis B aan, met inbegrip van het bepalen van het titer antistoffen ter afronding van de vaccinatie.
 
@@ -104,7 +130,7 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 3. De onderwijsinstelling streeft naar een zo hoog mogelijke vaccinatiegraad van haar deelnemers.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De onderwijsinstelling zorgt er voor dat de administratie van de vaccinatie tegen hepatitis B op overzichtelijke en doelmatige wijze wordt gevoerd, zodat te allen tijde in ieder geval de volgende gegevens per studiejaar en per zorgopleiding kunnen worden nagegaan:
 
@@ -124,31 +150,31 @@ De subsidie bestaat uit het bedrag dat wordt berekend met de formule A × B, waa
 
 5. De onderwijsinstelling werkt mee aan de door of namens de Minister ingestelde onderzoekingen die erop zijn gericht de Minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van het beleid.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 De Minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 juli 2027 met dien verstande dat deze regeling van toepassing blijft op subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zorg.
 
@@ -285,7 +311,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling vaccinatie stageplaatsen zo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 

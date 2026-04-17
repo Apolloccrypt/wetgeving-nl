@@ -1,13 +1,32 @@
 ---
 title: "Protocol tot wijziging van het verdrag inzake sociale zekerheid tussen de regering van het Koninkrijk der Nederlanden en de regering van de Republiek Kaapverdië, met Slotprotocol, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd en ondertekend op 23 januari 1995 en op 22 mei 2000, van het Protocol bij het Verdrag, ondertekend te Praia op 22 mei 2000, en van het Administratief Akkoord, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd op 23 januari 1995"
 identifier: "BWBV0006781"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006781"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006781"
+soort: "verdrag"
+stam_id: "10005464713"
+version_id: "10005934602"
+internal_id: "C10009505201"
+label_id: "10005447904"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006781/2019-07-01/0"
+intitule_bron: "Trb.2018-223"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-27"
+intitule_status: "nogniet"
+original_publication: "Trb.2018-223"
+original_published_date: "2018-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-223"
+jci_1_3: "jci1.3:c:BWBV0006781&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBV0006781&g=2019-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-12-27"
 ---
-
 # Protocol tot wijziging van het verdrag inzake sociale zekerheid tussen de regering van het Koninkrijk der Nederlanden en de regering van de Republiek Kaapverdië, met Slotprotocol, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd en ondertekend op 23 januari 1995 en op 22 mei 2000, van het Protocol bij het Verdrag, ondertekend te Praia op 22 mei 2000, en van het Administratief Akkoord, ondertekend te 's-Gravenhage op 18 november 1981, zoals gewijzigd op 23 januari 1995
 
 De regering van het Koninkrijk der Nederlanden
@@ -20,19 +39,19 @@ Hebben besloten over te gaan tot wijziging van het [Verdrag inzake sociale zeker
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Administratief Akkoord met betrekking tot de wijze van toepassing van het op 18 november 1981 te 's-Gravenhage tussen het Koninkrijk der Nederlanden en de Republiek Kaapverdië ondertekende Verdrag inzake sociale zekerheid; 's-Gravenhage, 18 november 1981.
 
-#### Artikel 4. Overgangsbepalingen
+##### Artikel 4. Overgangsbepalingen
 
 1. Wanneer een persoon recht heeft op verstrekkingen op de dag voorafgaande aan de dag waarop dit Protocol uit hoofde van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006781&artikel=5&z=2019-07-01&g=2019-07-01), voorlopig wordt toegepast, of de dag voorafgaande aan de datum van inwerkingtreding van dit Protocol tijdens een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij, blijven de bepalingen van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=13), [het vijfde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=14) en het [eerste lid van artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002964&artikel=15) zoals gelezen vóór wijziging van dit Protocol, van toepassing tot en met de datum waarop de geneeskundige behandeling tijdens dit verblijf eindigt, evenwel met een maximale duur van een jaar.
 
@@ -54,7 +73,7 @@ vanaf het vierde jaar heeft de rechthebbende geen recht meer op een toeslag krac
 
 ## SLOTBEPALINGEN
 
-#### Artikel 5. Inwerkingtreding, voorlopige toepassing en consolidatie
+##### Artikel 5. Inwerkingtreding, voorlopige toepassing en consolidatie
 
 1. De regeringen van de Verdragsluitende Partijen stellen elkaar door de uitwisseling van nota’s langs diplomatieke weg ervan in kennis dat hun respectieve constitutionele procedures, vereist voor de inwerkingtreding van dit Protocol, zijn voltooid.
 

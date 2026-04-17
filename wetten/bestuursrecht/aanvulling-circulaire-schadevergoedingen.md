@@ -1,13 +1,37 @@
 ---
 title: "Aanvulling circulaire schadevergoedingen"
 identifier: "BWBR0009782"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-09-04
-laatste_update: 1998-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009782"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-09-04"
+last_updated: "1998-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009782"
+soort: "circulaire"
+stam_id: "6442293"
+version_id: "11114002"
+internal_id: "C16101691"
+label_id: "6430964"
+original_entry_into_force: "1998-09-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009782/1998-09-04/0"
+intitule_bron: "Stcrt.1998-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-13"
+intitule_published: "1998-09-04"
+intitule_in_force: "1998-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-168"
+original_signed_date: "1998-07-13"
+original_published_date: "1998-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-168-p9-SC15377"
+entry_into_force_date: "1998-09-04"
+jci_1_3: "jci1.3:c:BWBR0009782&z=1998-09-04&g=1998-09-04"
+jci_1_0: "1.0:c:BWBR0009782&g=1998-09-04"
+citeertitel_status: "redactioneel"
+signed_date: "1998-07-13"
+entry_into_force: "1998-09-04"
 ---
-
 # Aanvulling circulaire schadevergoedingen
 
 Circulaire aan de colleges van Burgemeester en Wethouders en de colleges van Gedeputeerde Staten

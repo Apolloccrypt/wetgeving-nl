@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet enkele belastingwetten c.a. 1998 (fiscale milieuversterking)"
+title: "Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale milieuversterking)"
 identifier: "BWBR0009219"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-06-12
-laatste_update: 2015-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009219"
+country: "nl"
+rank: "wet"
+publication_date: "2015-06-12"
+last_updated: "2015-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009219"
+soort: "wet"
+stam_id: "688323"
+version_id: "1001992"
+internal_id: "C1001991"
+label_id: "667174"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009219/2015-06-12/0"
+intitule_bron: "Stb.1997-732"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-18"
+intitule_published: "1997-12-29"
+intitule_in_force: "1997-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-732"
+original_signed_date: "1997-12-18"
+original_published_date: "1997-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "25689"
+original_url_id: "stb-1997-732"
+entry_into_force_date: "1998-01-01"
+entry_into_force_dossier: "25689"
+jci_1_3: "jci1.3:c:BWBR0009219&z=2015-06-12&g=2015-06-12"
+jci_1_0: "1.0:c:BWBR0009219&g=2015-06-12"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet enkele belastingwetten c.a. 1998 (fiscale milieuversterking)"
+signed_date: "1997-12-18"
+entry_into_force: "1998-01-01"
 ---
-
-# Wijzigingswet enkele belastingwetten c.a. 1998 (fiscale milieuversterking)
+# Wet van 18 december 1997, houdende wijziging van enkele belastingwetten c.a. 1998 (fiscale milieuversterking)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,43 +44,43 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het belastingpla
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 Wijzigt de Wet van 23 december 1994 tot wijziging van de Wet belastingen op milieugrondslag in verband met het aanbrengen van een permanente verfijning alsmede twee tijdelijke verfijningen (Stb. 925).
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 Indien met betrekking tot gebruikte personenauto’s en motorrijwielen het tijdstip waarop overeenkomstig artikel 6 van de Wet op de belasting van personenauto’s en motorrijwielen 1992 de aangifte wordt gedaan, is gelegen vóór het tijdstip waarop de [onderdelen B en C van artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009219&artikel=IV&z=2015-06-12&g=2015-06-12) in werking treden, terwijl het tijdstip van registratie is gelegen na die datum, wordt de vermindering van de belasting vastgesteld overeenkomstig artikel 10 van die wet zoals dat luidt ten tijde van het doen van die aangifte.
 
-#### ARTIKEL X
+##### ARTIKEL X
 
 1. Ten aanzien van de in het tweede lid aangeduide lichamen bedraagt, in afwijking van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), de belasting over het eerste boekjaar dat aanvangt na 31 december 1997 tot en met het eerste boekjaar dat aanvangt na 31 december 2000: nihil.
 
@@ -80,25 +108,25 @@ Indien met betrekking tot gebruikte personenauto’s en motorrijwielen het tijds
 
 - b. verliezen ter zake van activiteiten waarop het eerste lid geen toepassing vindt zoveel mogelijk verrekend met winsten waarop het eerste lid eveneens geen toepassing vond of vindt.
 
-#### ARTIKEL XI
+##### ARTIKEL XI
 
 Voor de heffing van de vennootschapsbelasting wordt op de balans aan het begin van het eerste boekjaar dat aanvangt op of na 1 januari 1998 van een onderneming als bedoeld in het tot het moment van inwerkingtreding van de Wet modernisering Vpb-plicht overheidsondernemingen geldende [artikel 2, derde lid, tweede volzin, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), of van een lichaam als bedoeld in het tot het moment van inwerkingtreding van de [Wet modernisering Vpb-plicht overheidsondernemingen](onbekend) geldende het zevende lid, tweede volzin, onderdeel j, van dat artikel, dan wel van een lichaam als bedoeld in het tot het moment van inwerkingtreding van de Wet modernisering Vpb-plicht overheidsondernemingen geldende het slot van dat artikel, geen goodwill opgevoerd met betrekking tot de activiteiten waarvoor de belastingplicht een aanvang neemt als gevolg van de in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0009219&artikel=III&z=2015-06-12&g=2015-06-12) opgenomen wijzigingen van [artikel 2 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2).
 
-#### ARTIKEL XII
+##### ARTIKEL XII
 
 1. Indien in de periode van 5 juli 1996 tot het begin van het eerste boekjaar dat aanvangt op of na 1 januari 1998 van een door een publiekrechtelijke rechtspersoon gedreven onderneming als bedoeld in het tot het moment van inwerkingtreding van de [Wet modernisering Vpb-plicht overheidsondernemingen](onbekend) geldende [artikel 2, derde lid, tweede volzin, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2), door deze rechtspersoon activiteiten als bedoeld in die tweede volzin zijn ingebracht in of vervreemd aan een ander lichaam waarin de inbrenger of de vervreemder voor ten minste een derde gedeelte een belang heeft, waarmee hij in een groep is verbonden in de zin van artikel 24b van boek 2 van het Burgerlijk Wetboek of waarvan hij een bestuurder kan benoemen of ontslaan, vindt in afwijking in zoverre van de artikelen 10 en 10a, eerste lid, van de Wet op de inkomstenbelasting 1964 bij dat andere lichaam geen afschrijving plaats op goodwill met betrekking tot de van de inbrenger of de vervreemder daarbij verkregen vermogensbestanddelen.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing met betrekking tot de inbreng of vervreemding van activiteiten door een lichaam als bedoeld in het tot het moment van inwerkingtreding van de [Wet modernisering Vpb-plicht overheidsondernemingen](onbekend) geldende [artikel 2, zevende lid, tweede volzin, onderdeel j, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=2) of door een lichaam als bedoeld in het slot van dat tot dat moment geldende artikel.
 
-#### ARTIKEL XIII
+##### ARTIKEL XIII
 
 Wijzigt het bij koninklijke boodschap van 18 april 1997 ingediende voorstel van wet tot wijziging van bepalingen van de Mediawet in verband met de privatisering van het Nederlands Omroepproduktie Bedrijf N.V.
 
-#### ARTIKEL XIV
+##### ARTIKEL XIV
 
 Wijzigt deze wet.
 
-#### ARTIKEL XV
+##### ARTIKEL XV
 
 1. Deze wet treedt in werking met ingang van 1 januari 1998, met uitzondering van:
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst nopens handelsschulden van personen woonachtig in Turkije"
 identifier: "BWBV0004907"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1962-11-16
-laatste_update: 1959-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004907"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-11-16"
+last_updated: "1959-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004907"
+soort: "verdrag"
+stam_id: "10004375353"
+version_id: "10004577522"
+internal_id: "C10007087531"
+label_id: "10004360444"
+dtd_version: "2.0"
+original_entry_into_force: "1959-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004907/1962-11-16/0"
+intitule_bron: "Trb.1959-106"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-09-01"
+intitule_in_force: "1959-12-30"
+intitule_status: "goed"
+original_publication: "Trb.1959-106"
+original_published_date: "1959-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-106"
+entry_into_force_date: "1959-11-26"
+jci_1_3: "jci1.3:c:BWBV0004907&z=1962-11-16&g=1962-11-16"
+jci_1_0: "1.0:c:BWBV0004907&g=1962-11-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-11-26"
 ---
-
 # Overeenkomst nopens handelsschulden van personen woonachtig in Turkije
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland, het Koninkrijk Zweden, de Zwitserse Bondsstaat en de Turkse Republiek (hieronder genoemd de „Turkse Regering”);
@@ -34,13 +56,13 @@ Overwegende dat het beginsel van een ongeveer gelijke behandeling tussen de onde
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Werkingssfeer van de Overeenkomst
+##### Artikel 1. Werkingssfeer van de Overeenkomst
 
 a. De Overeenkomstsluitende Partijen erkennen dat de vaststelling, krachtens de onderhavige Overeenkomst, en de inwerkingstelling van het aflossingsschema voor de terugbetaling van schulden van ingezetenen van Turkije aan ingezetenen van landen van de andere Overeenkomstsluitende Partijen, de rechten en verplichtingen van de individuele belanghebbende crediteuren, debiteuren of garanten niet zullen aantasten.
 
 b. Eveneens erkennen de Overeenkomstsluitende Partijen, dat de enige verplichtingen die de Turkse Regering op zich zal nemen teneinde de betaling te verzekeren van schulden van ingezetenen van Turkije, behorende tot de categorieën bedoeld in de onderhavige Overeenkomst, die zullen zijn die in de onderhavige Overeenkomst en in de bilaterale overeenkomsten, gesloten ingevolge artikel 13, zijn genoemd.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor wat betreft de onderhavige Overeenkomst en Bijlage I daarbij:
 
@@ -78,7 +100,7 @@ Voor wat betreft de onderhavige Overeenkomst en Bijlage I daarbij:
 
 - 17. heeft de uitdrukking „31 december”, gebruikt als referentiedatum, voor elk jaar, betrekking op de stand van de rekeningen bij het afsluiten van de zaken op die datum.
 
-#### Artikel 3. Schulden
+##### Artikel 3. Schulden
 
 a. Onder voorbehoud van het bepaalde in Artikel 4 zullen de bepalingen van de onderhavige Overeenkomst van toepassing zijn op iedere schuld van een persoon woonachtig in Turkije, als oorspronkelijk debiteur of als garant, jegens een persoon woonachtig in een crediteurland (welke personen hieronder onderscheidenlijk als „debiteur” of „crediteur” worden aangeduid), op voorwaarde:
 
@@ -90,7 +112,7 @@ a. Onder voorbehoud van het bepaalde in Artikel 4 zullen de bepalingen van de on
 
 b. De term „schuld” omvat eveneens alle contractuele rente vervallen of vervallende vóór 1 januari 1964, evenals de contractuele moratoire interesse, vervallen vóór de datum van ondertekening van de onderhavige Overeenkomst.
 
-#### Artikel 4. Uitzonderingen
+##### Artikel 4. Uitzonderingen
 
 De bepalingen van de onderhavige Overeenkomst zullen geen toepassing vinden op het ten uitvoer leggen van:
 
@@ -104,7 +126,7 @@ De bepalingen van de onderhavige Overeenkomst zullen geen toepassing vinden op h
 
 - v. iedere betaling met betrekking tot goederen geleverd of diensten verricht binnen het kader van een internationale overeenkomst gesloten vóór 5 augustus 1958 en omschreven in bepaalde bilaterale overeenkomsten.
 
-#### Artikel 5. Betalingen
+##### Artikel 5. Betalingen
 
 a. De betalingen in Turkse ponden, met betrekking tot schulden, zullen geschieden bij de Centrale Bank van de Turkse Republiek, die deze betalingen zal aanvaarden op de door de Turkse autoriteiten goedgekeurde vervaldatum, op voorwaarde dat:
 
@@ -128,7 +150,7 @@ d. In de kennisgeving zal worden vermeld:
 
 - ii. het bedrag der storting uitgedrukt in dezelfde valuta als de oorspronkelijke verplichting, waarvoor vergunning verleend was door de Turkse autoriteiten of, in het geval van een in Turkse ponden uitgedrukte schuld, in de valuta van het crediteurland waar de crediteur woonachtig is (beide valuta's hieronder aangeduid als „de geëigende valuta's”). Voor deze berekening zal de toe te passen wisselkoers de effectieve wisselkoers zijn, die in Turkije geldt overeenkomstig de Turkse regelingen van kracht op de datum waarop de storting is verricht of wordt geacht te zijn verricht, overeenkomstig lid **b**.
 
-#### Artikel 6. Verplichtingen voortvloeiende uit de toepassing van Artikel 5
+##### Artikel 6. Verplichtingen voortvloeiende uit de toepassing van Artikel 5
 
 De Turkse Regering zal er zorg voor dragen:
 
@@ -140,7 +162,7 @@ De Turkse Regering zal er zorg voor dragen:
 
 - b. dat de gestorte bedragen, zolang zij niet getransfereerd worden, moratoire interesse, overeenkomstig Artikel 10, zullen dragen, welke moratoire interesse getransfereerd zal worden overeenkomstig de bepalingen van genoemd artikel.
 
-#### Artikel 7. Transferschema
+##### Artikel 7. Transferschema
 
 a. Teneinde de afwikkeling van de schulden als bedoeld in de onderhavige Overeenkomst te verzekeren, zal de Turkse Regering, in de periode van 12 jaar volgend op de ondertekening van die Overeenkomst, elk jaar zorg dragen voor de transfer, in de geëigende valuta's, van een bedrag (hieronder genoemd „annuïteit”) dat bepaald en getransfereerd zal worden overeenkomstig de bepalingen van dit Artikel. Bovendien zal de Turkse Regering zorg dragen voor de transfer van moratoire interesse of van contractuele moratoire interesse al naar gelang het geval dat zich voordoet, zoals zulks is voorzien in Artikel 10.
 
@@ -172,7 +194,7 @@ g. De Turkse Regering zal iedere annuïteit, overeenkomstig de lijsten bedoeld i
 
 - ii. het bedrag te transfereren overeenkomstig de bepalingen van dit lid, verminderd zal worden met het bedrag van iedere storting waarvan de tegenwaarde is aangewend in Turkije krachtens Artikel 9, en dat getransfereerd had moeten worden in de loop van het overeenkomstige jaar.
 
-#### Artikel 8. Uitvoering van het transferschema
+##### Artikel 8. Uitvoering van het transferschema
 
 a. De bevoegde Turkse autoriteiten zullen periodiek, in overleg met de bevoegde instelling van elk crediteurland, lijsten opstellen, teneinde de crediteuren in het betrokken land aan te wijzen ten gunste van wie de bevoegde instelling van Turkije de transfers zal verrichten.
 
@@ -180,13 +202,13 @@ b. De in het voorafgaande lid bedoelde lijsten zullen worden opgesteld in de ran
 
 c. Teneinde de transfer ten gunste van de crediteuren gespecificeerd in de lijsten voorzien in de voorafgaande leden, te bewerkstelligen zal de bevoegde instelling van Turkije, door tussenkomst van de bevoegde instelling van het betrokken crediteurland, een betalingsopdracht toezenden ten gunste van ieder dier crediteuren, daarbij rekening houdend met de bepalingen van Artikel 10, en in overeenstemming met de kennisgeving overeenkomstig de leden **c** en **d** van Artikel 5.
 
-#### Artikel 9. Aanwending van gelden in Turkije
+##### Artikel 9. Aanwending van gelden in Turkije
 
 a. Op voorwaarde dat hij daartoe behoorlijk gemachtigd is door de Turkse autoriteiten en, zonodig, onder voorbehoud van de deviezenbepalingen van het betrokken crediteurland, mag een crediteur het geheel of een gedeelte van een in afwachting van transfer gestort en aan hem verschuldigd bedrag, aanwenden in Turkse valuta voor het voor eigen rekening doen van investeringen of andere uitgaven in Turkije.
 
 b. In de mate waarin het aangewend zal worden overeenkomstig de bepalingen van het voorgaande lid zal het in afwachting van transfer gestorte bedrag wederom omgezet worden in Turkse valuta tegen de wisselkoers die op de datum van omzetting in Turkije geldt voor transacties van dezelfde soort die worden uitgevoerd door middel van nieuwe overmakingen in vreemde valuta.
 
-#### Artikel 10. Moratoire interesse
+##### Artikel 10. Moratoire interesse
 
 a. De Turkse Regering zal aan de crediteur een moratoire interesse betalen van 3 % per jaar voor ieder in afwachting van transfer gestort bedrag mits het gestorte bedrag niet aangewend is in Turkije krachtens Artikel 9.
 
@@ -202,7 +224,7 @@ d. Onverminderd het bepaalde in lid **e** zal de moratoire interesse worden beta
 
 e. Niettegenstaande de bepalingen van lid **d** kan moratoire interesse die betrekking heeft op in afwachting van transfer gestorte bedragen, en welke ingevolge dat lid opeisbaar is op 31 december 1959, later getransfereerd worden, op voorwaarde dat de transfer zo spoedig mogelijk plaatsvindt en in elk geval vóór 1 januari 1961. Indien de rente wordt getransfereerd op enigerlei datum na 31 december 1959 zal het totaal bedrag van de tot die datum betaalbare rente, overeenkomstig lid **c,** gelijktijdig betaald en getransfereerd worden.
 
-#### Artikel 11. Vroegere amortisatie-overeenkomsten
+##### Artikel 11. Vroegere amortisatie-overeenkomsten
 
 a. Vroeger door de Turkse Regering met enige andere Overeenkomstsluitende Partij terzake van de amortisatie van Turkse buitenlandse handelsschulden gesloten bilaterale overeenkomsten, evenals daarop betrekking hebbende bepalingen van andere overeenkomsten tussen de Turkse Regering en enige andere Overeenkomstsluitende Partij, zullen geen toepassing meer vinden vanaf de datum der ondertekening van de onderhavige Overeenkomst en zullen ingetrokken worden op de datum van inwerkingtreding van de onderhavige Overeenkomst door de bilaterale overeenkomsten die gesloten zullen worden ingevolge Artikel 13 van de onderhavige Overeenkomst.
 
@@ -212,17 +234,17 @@ b. Bij het intrekken van de bedoelde overeenkomsten of bepalingen zullen de betr
 
 - ii. bedragen waarvoor genoemde Centrale Bank is gecrediteerd vanaf die datum ter beschikking zullen worden gesteld van genoemde Centrale Bank.
 
-#### Artikel 12. Centrale Bank van de Turkse Republiek
+##### Artikel 12. Centrale Bank van de Turkse Republiek
 
 Bij de uitvoering van de bepalingen van de onderhavige Overeenkomst zal de Centrale Bank van de Turkse Republiek handelen als agent van de Turkse Regering en zal zij in geen geval enigerlei verplichting krijgen uit hoofde van de onderhavige Overeenkomst.
 
-#### Artikel 13. Bilaterale overeenkomsten
+##### Artikel 13. Bilaterale overeenkomsten
 
 a. Bilaterale overeenkomsten betreffende de regels van technische aard ter toepassing van de onderhavige Overeenkomst zullen worden gesloten tussen de Turkse Regering en elke andere Overeenkomstsluitende Partij. Deze bilaterale overeenkomsten zullen tevens bepalingen bevatten met betrekking tot het vervallen van iedere vroegere amortisatie-overeenkomst en van alle daarop betrekking hebbende bepalingen, overeenkomstig Artikel 11 van de onderhavige Overeenkomst.
 
 b. De bilaterale overeenkomsten moeten in overeenstemming zijn met de bepalingen van de onderhavige Overeenkomst. Ingeval van strijdigheid tussen de bepalingen van de onderhavige Overeenkomst en de bepalingen van een bilaterale overeenkomst zullen de bepalingen van de onderhavige Overeenkomst prevaleren. Echter zullen de bepalingen van de bilaterale overeenkomst tussen de Turkse Regering en de Italiaanse Regering, verband houdend met de speciale regelingen welke door de Italiaanse autoriteiten worden overwogen met het oog op de toepassing van de onderhavige Overeenkomst op crediteuren woonachtig in Italië, en die voortvloeien uit de eventuele substitutie van bedoelde crediteuren door een instelling die door bedoelde autoriteiten zal worden aangewezen in de bilaterale overeenkomst, niet beschouwd worden als strijdig met de bepalingen van de onderhavige Overeenkomst.
 
-#### Artikel 14. Uitwisseling van gegevens
+##### Artikel 14. Uitwisseling van gegevens
 
 a. De Overeenkomstsluitende Partijen zullen onderling de teksten van de bilaterale overeenkomsten uitwisselen, evenals ook alle gegevens die noodzakelijk zijn voor een goede uitvoering van de onderhavige Overeenkomst. Deze gegevens zullen speciaal de volgende zijn:
 
@@ -240,11 +262,11 @@ c. De staten, voorzien in de alinea's **i** en **ii** van lid **a** zullen voora
 
 d. De betrokken Overeenkomstsluitende Partijen zullen de Organisatie in kennis stellen van de teksten der bilaterale overeenkomsten. Hetzelfde geldt voor de krachtens lid **a** opgestelde staten, na onderscheidenlijk verificatie of vergelijking, overeenkomstig de bepalingen van lid **c.** Genoemde Overeenkomstsluitende Partijen zullen de Organisatie verzoeken deze teksten en deze staten ter kennis te brengen van de andere Overeenkomstsluitende Partijen en van de Regering der Verenigde Staten van Amerika.
 
-#### Artikel 15. Bijeenroeping van een conferentie
+##### Artikel 15. Bijeenroeping van een conferentie
 
 Een conferentie, waarbij de Overeenkomstsluitende Partijen en de Regering van de Verenigde Staten van Amerika zullen worden uitgenodigd zich te doen vertegenwoordigen, kan worden bijeengeroepen op uitnodiging van één van die regeringen. In de uitnodiging zullen het doel en de redenen voor het bijeenroepen van de conferentie worden vermeld.
 
-#### Artikel 16. Bekrachtiging, inwerkingtreding, beëindiging
+##### Artikel 16. Bekrachtiging, inwerkingtreding, beëindiging
 
 a. De onderhavige Overeenkomst dient te worden bekrachtigd. De Overeenkomstsluitende Partijen zullen, binnen een tijdvak van zes maanden, een aanvang maken met de grondwettelijke procedure vereist voor de bekrachtiging van de onderhavige Overeenkomst.
 

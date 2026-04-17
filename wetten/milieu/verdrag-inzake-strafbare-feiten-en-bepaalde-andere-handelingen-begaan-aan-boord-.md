@@ -1,20 +1,42 @@
 ---
 title: "Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen"
 identifier: "BWBV0004659"
-categorie: "Milieu"
-publicatiedatum: 2021-05-01
-laatste_update: 2021-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004659"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-05-01"
+last_updated: "2021-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004659"
+soort: "verdrag"
+stam_id: "10004246503"
+version_id: "10004433882"
+internal_id: "C10006977451"
+label_id: "10004231664"
+dtd_version: "2.0"
+original_entry_into_force: "1970-02-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004659/2021-05-01/0"
+intitule_bron: "Trb.1964-115"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-08-21"
+intitule_in_force: "1970-01-07"
+intitule_status: "goed"
+original_publication: "Trb.1964-115"
+original_published_date: "1964-08-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-115"
+entry_into_force_date: "1970-02-12"
+jci_1_3: "jci1.3:c:BWBV0004659&z=2021-05-01&g=2021-05-01"
+jci_1_0: "1.0:c:BWBV0004659&g=2021-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-02-12"
 ---
-
 # Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen
 
 De staten die partij zijn bij dit Verdrag zijn als volgt overeengekomen:
 
 ### Hoofdstuk I. Werkingssfeer van het Verdrag
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op:
 
@@ -32,13 +54,13 @@ De staten die partij zijn bij dit Verdrag zijn als volgt overeengekomen:
 
 4. Dit Verdrag is niet van toepassing op luchtvaartuigen gebruikt door de strijdkrachten, de douane of de politie.
 
-#### Artikel 2
+##### Artikel 2
 
 Onverminderd de bepalingen van artikel 4 en behalve wanneer de veiligheid van het luchtvaartuig of van personen of goederen aan boord dit vereist, wordt geen bepaling van dit Verdrag zo uitgelegd dat zij een optreden rechtvaardigt of vereist ten aanzien van overtredingen van strafrechtelijke bepalingen van politieke aard of gebaseerd op onderscheid op welke grond dan ook, zoals ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht.
 
 ### Hoofdstuk II. Rechtsmacht
 
-#### Artikel 3
+##### Artikel 3
 
 1. De staat waar het luchtvaartuig is ingeschreven is bevoegd rechtsmacht uit te oefenen met betrekking tot strafbare feiten en handelingen die aan boord zijn begaan.
 
@@ -64,7 +86,7 @@ Onverminderd de bepalingen van artikel 4 en behalve wanneer de veiligheid van he
 
 3. Dit Verdrag sluit geen rechtsmacht in strafzaken uit die wordt uitgeoefend in overeenstemming met de nationale wetgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 Een Verdragsluitende Staat die niet de staat van inschrijving is, mag een zich in de lucht bevindend luchtvaartuig niets in de weg leggen teneinde zijn rechtsmacht in strafzaken uit te oefenen ten aanzien van een aan boord begaan strafbaar feit, behalve in de volgende gevallen:
 
@@ -80,11 +102,11 @@ Een Verdragsluitende Staat die niet de staat van inschrijving is, mag een zich i
 
 ### Hoofdstuk III. Bevoegdheden van de gezagvoerder van het luchtvaartuig
 
-#### Artikel 5
+##### Artikel 5
 
 De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en handelingen die begaan zijn of op het punt staan begaan te worden door een persoon aan boord van een luchtvaartuig dat zich bevindt in het luchtruim boven de staat van inschrijving of boven de volle zee of een gebied dat niet tot het grondgebied van een staat behoort tenzij het laatste punt van vertrek of het punt van de eerstvolgende voorgenomen landing in een andere staat ligt dan de staat van inschrijving, of het luchtvaartuig vervolgens vliegt in het luchtruim van een andere staat dan de staat van inschrijving met die persoon nog aan boord.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gezagvoerder van het luchtvaartuig mag, indien hij redelijke gronden heeft om aan te nemen dat een persoon aan boord van het luchtvaartuig een strafbaar feit of een handeling als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=I&artikel=1&z=2021-05-01&g=2021-05-01), heeft begaan of op het punt staat te begaan, ten aanzien van die persoon alle redelijke maatregelen nemen, vrijheidsbeperking daaronder begrepen, die nodig zijn om:
 
@@ -100,7 +122,7 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en 
 
 4. Geen enkele bepaling van dit Verdrag wordt geacht een verplichting te scheppen voor een Verdragsluitende Staat om een programma voor meereizende veiligheidsfunctionarissen in te stellen of in te stemmen met een bilaterale of multilaterale overeenkomst of regeling waarbij buitenlandse meereizende veiligheidsfunctionarissen worden gemachtigd op zijn grondgebied op te treden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Vrijheidbeperkende maatregelen genomen ten aanzien van een persoon overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=2021-05-01&g=2021-05-01) worden beëindigd zodra het luchtvaartuig is geland, tenzij:
 
@@ -112,13 +134,13 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en 
 
 2. Indien een luchtvaartuig landt op het grondgebied van een staat met aan boord een persoon die overeenkomstig de bepalingen van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=6&z=2021-05-01&g=2021-05-01) aan een vrijheidbeperkende maatregel is onderworpen, dient de gezagvoerder de autoriteiten van die staat onverwijld, zo mogelijk vóór de landing, mede te delen dat er zich iemand aan boord bevindt, die aan een vrijheidbeperkende maatregel is onderworpen, onder vermelding van de reden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gezagvoerder van een luchtvaartuig mag, voor zover dit nodig is in verband met het bepaalde in artikel 6, eerste lid, onder **a**) of **b**), op het grondgebied van enige staat waar het luchtvaartuig landt iedere persoon het luchtvaartuig doen verlaten van wie hij redelijkerwijs mag aannemen dat deze aan boord van het luchtvaartuig een handeling heeft begaan of op het punt staat te begaan, als bedoeld in artikel 1, eerste lid, onder **b**).
 
 2. Indien de gezagvoerder van een luchtvaartuig in een staat, krachtens dit artikel, een persoon het luchtvaartuig doet verlaten, doet hij daarvan mededeling aan de autoriteiten van die staat, onder vermelding van de reden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gezagvoerder van een luchtvaartuig kan iedere persoon ten aanzien van wie hij redelijke gronden heeft om aan te nemen dat hij aan boord van het luchtvaartuig een handeling heeft begaan die naar zijn mening een ernstig strafbaar feit vormt, overdragen aan de bevoegde autoriteiten van de Verdragsluitende Staat op het grondgebied waarvan het luchtvaartuig landt.
 
@@ -126,13 +148,13 @@ De bepalingen van dit hoofdstuk zijn niet van toepassing op strafbare feiten en 
 
 3. De gezagvoerder van een luchtvaartuig dient de autoriteiten aan wie een verdachte overeenkomstig het bepaalde in dit artikel wordt overgedragen de bewijzen en inlichtingen te verschaffen waarover hij op rechtmatige wijze de beschikking heeft gekregen.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor maatregelen genomen overeenkomstig dit Verdrag wordt noch de gezagvoerder van het luchtvaartuig, enig ander lid van de bemanning, enige passagier, meereizende veiligheidsfunctionaris, eigenaar of exploitant van het luchtvaartuig, noch de persoon voor wiens rekening de vlucht werd uitgevoerd, aansprakelijk gesteld in enig geding naar aanleiding van de behandeling ondergaan door de persoon tegen wie de maatregelen waren gericht.
 
 ### Hoofdstuk IV. Onwettige overmeestering van luchtvaartuigen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien een persoon aan boord met geweld of onder bedreiging met geweld een luchtvaartuig tijdens de vlucht wederrechtelijk hindert, overmeestert of op andere onrechtmatige wijze onder zijn macht brengt, of wanneer zulks op het punt staat te geschieden, nemen de Verdragsluitende Staten alle passende maatregelen om aan de wettige gezagvoerder wederom het gezag over het luchtvaartuig te geven of om ervoor te zorgen dat hij het gezag over het luchtvaartuig behoudt.
 
@@ -140,11 +162,11 @@ Voor maatregelen genomen overeenkomstig dit Verdrag wordt noch de gezagvoerder v
 
 ### Hoofdstuk V. Bevoegdheden en verplichtingen van staten
 
-#### Artikel 12
+##### Artikel 12
 
 Iedere Verdragsluitende Staat geeft de gezagvoerder van een in een andere Verdragsluitende Staat ingeschreven luchtvaartuig toestemming een persoon krachtens artikel 8, eerste lid, het luchtvaartuig te doen verlaten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Iedere Verdragsluitende Staat neemt iedere persoon over die door de gezagvoerder van een luchtvaartuig krachtens artikel 9, eerste lid, wordt overgedragen.
 
@@ -156,13 +178,13 @@ Iedere Verdragsluitende Staat geeft de gezagvoerder van een in een andere Verdra
 
 5. Wanneer een staat, krachtens het bepaalde in dit artikel iemand in hechtenis heeft genomen, verwittigt hij onmiddellijk de staat waar het vliegtuig is ingeschreven en de staat waarvan de in hechtenis genomen persoon onderdaan is en, indien hij dit nodig oordeelt, iedere andere belanghebbende staat van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn hechtenis rechtvaardigen. De staat die het voorlopig onderzoek bedoeld in het vierde lid van dit artikel instelt, deelt zijn bevindingen onverwijld mede aan genoemde staten en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer iemand krachtens de bepalingen van artikel 8, eerste lid, het luchtvaartuig heeft moeten verlaten of krachtens de bepalingen van artikel 9, eerste lid, is overgedragen of het luchtvaartuig heeft verlaten na een handeling als bedoeld in artikel 11, eerste lid, te hebben begaan en wanneer deze persoon zijn reis niet kan of niet wenst voort te zetten en de staat waar het luchtvaartuig is geland weigert hem toe te laten, kan deze staat, indien betrokkene geen onderdaan of ingezetene van die staat is, hem terugzenden naar het grondgebied van de staat waarvan hij onderdaan of ingezetene is of naar het grondgebied van de staat waar hij zijn luchtreis aanving.
 
 2. Noch het van boord gaan, noch het overdragen, noch het in hechtenis nemen of andere maatregelen bedoeld in artikel 13, tweede lid, noch het terugzenden van betrokkene wordt beschouwd als toelating tot het grondgebied van de betrokken Verdragsluitende Staat in de zin van de wet van die staat inzake het binnenkomen of het toelaten van personen en de bepalingen van dit Verdrag laten de wetten van de Verdragsluitende Staten inzake de verwijdering van personen van hun grondgebied onverlet.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onverminderd het bepaalde in artikel 14 staat het iemand die krachtens de bepalingen van artikel 8, eerste lid, het luchtvaartuig heeft moeten verlaten of krachtens de bepalingen van artikel 9, eerste lid, is overgedragen of het luchtvaartuig heeft verlaten na een handeling als bedoeld in artikel 11, eerste lid, te hebben begaan en die zijn reis wenst voort te zetten, vrij om zo spoedig mogelijk door te reizen naar een bestemming van zijn keuze, tenzij zijn aanwezigheid wordt vereist door de wet van de staat waar het vliegtuig is geland voor het instellen van een uitleveringsprocedure of strafvervolging.
 
@@ -170,53 +192,53 @@ Iedere Verdragsluitende Staat geeft de gezagvoerder van een in een andere Verdra
 
 ### Hoofdstuk VI. Verdere bepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Strafbare feiten begaan aan boord worden ten behoeve van uitlevering tussen de Verdragsluitende Staten behandeld alsof zij niet alleen zijn begaan op de plaats waar zij hebben plaatsgevonden, maar ook op het grondgebied van de Verdragsluitende Staten die hun rechtsmacht dienen te vestigen in overeenstemming met [artikel 3, tweede lid en tweede lid **bis**](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=3&z=2021-05-01&g=2021-05-01).
 
 2. Onverminderd het bepaalde in het voorgaande lid mag geen bepaling van dit Verdrag zo worden uitgelegd dat zij de verplichting schept om een verzoek om uitlevering in te willigen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer de Verdragsluitende Staten een maatregel ter opsporing of aanhouding nemen of op andere wijze rechtsmacht uitoefenen met betrekking tot een strafbaar feit aan boord van een luchtvaartuig, houden zij terdege rekening met de veiligheid en andere belangen van de luchtvaart en gaan zodanig te werk dat onnodig oponthoud van het luchtvaartuig, de passagiers, de bemanning of de lading wordt vermeden.
 
 2. Elke Verdragsluitende Staat handelt bij het nakomen van zijn verplichtingen of bij het gebruikmaken van de beoordelingsvrijheid uit hoofde van dit Verdrag, in overeenstemming met de verplichtingen en verantwoordelijkheden van staten op grond van het internationaal recht. Elke Verdragsluitende Staat houdt in dit verband rekening met de beginselen van een behoorlijke rechtsgang en een eerlijke behandeling.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien Verdragsluitende Staten voor het luchtvervoer gemeenschappelijke exploitatieorganisaties of internationale exploitatieorganisaties oprichten, die gebruik maken van luchtvaartuigen die niet in een bepaalde staat zijn ingeschreven, wijzen deze staten, al naar de omstandigheden, een staat uit hun midden aan die, wat dit Verdrag betreft, als de staat van inschrijving zal worden beschouwd en doen daarvan mededeling aan de Internationale Burgerlijke Luchtvaartorganisatie, die op haar beurt alle staten die partij zijn bij dit Verdrag kennis geeft van deze mededeling.
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Tot aan de datum waarop dit Verdrag overeenkomstig de bepalingen van artikel 21 in werking treedt, staat het open voor ondertekening namens iedere staat die op die datum lid is van de Verenigde Naties of van een der Gespecialiseerde Organisaties.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit Verdrag dient door de ondertekenende staten overeenkomstig hun grondwettelijke voorschriften te worden bekrachtigd.
 
 2. De akten van bekrachtiging worden nedergelegd bij de Internationale Burgerlijke Luchtvaartorganisatie.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Zodra twaalf der ondertekenende staten hun akten van bekrachtiging hebben nedergelegd, treedt dit Verdrag tussen hen in werking op de negentigste dag na de datum van nederlegging van de twaalfde akte van bekrachtiging. Voor iedere staat die het Verdrag daarna bekrachtigt treedt het Verdrag in werking op de negentigste dag na de nederlegging van zijn akte van bekrachtiging.
 
 2. Zodra dit Verdrag in werking is getreden, wordt het door de Internationale Burgerlijke Luchtvaartorganisatie geregistreerd bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Nadat dit Verdrag in werking is getreden, staat het open ter toetreding door iedere staat die lid is van de Verenigde Naties of van een der Gespecialiseerde Organisaties.
 
 2. De toetreding geschiedt door het nederleggen van een akte van toetreding bij de Internationale Burgerlijke Luchtvaartorganisatie en gaat in op de negentigste dag na die nederlegging.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Iedere Verdragsluitende Staat kan dit Verdrag opzeggen door een tot de Internationale Burgerlijke Luchtvaartorganisatie gerichte mededeling.
 
 2. De opzegging wordt van kracht zes maanden na ontvangst van de desbetreffende mededeling door de Internationale Burgerlijke Luchtvaartorganisatie.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Ieder geschil tussen twee of meer Verdragsluitende Staten inzake de uitleg of toepassing van dit Verdrag, dat niet door onderhandelingen kan worden beslecht, wordt op verzoek van een der partijen onderworpen aan arbitrage. Indien partijen er binnen zes maanden na het verzoek om arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van deze arbitrage, kan ieder der betrokken partijen het geschil voorleggen aan het Internationale Gerechtshof, door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -224,11 +246,11 @@ Tot aan de datum waarop dit Verdrag overeenkomstig de bepalingen van artikel 21 
 
 3. Een Verdragsluitende Staat die een voorbehoud heeft gemaakt als bedoeld in het voorgaande lid, kan dit voorbehoud te allen tijde intrekken door daarvan mededeling te doen aan de Internationale Burgerlijke Luchtvaartorganisatie.
 
-#### Artikel 25
+##### Artikel 25
 
 Met uitzondering van het bepaalde in artikel 24 mogen ten aanzien van dit Verdrag geen voorbehouden worden gemaakt.
 
-#### Artikel 26
+##### Artikel 26
 
 De Internationale Burgerlijke Luchtvaartorganisatie doet aan alle staten die lid zijn van de Verenigde Naties of van een der Gespecialiseerde Organisaties mededeling van:
 
@@ -248,7 +270,7 @@ DONE at Tokyo on the fourteenth day of September One Thousand Nine Hundred and S
 
 This Convention shall be deposited with the International Civil Aviation Organization with which, in accordance with Article 19, it shall remain open for signature and the said Organization shall send certified copies thereof to all States Members of the United Nations or of any Specialized Agency.
 
-#### Artikel 3 bis
+##### Artikel 3 bis
 
 Indien een Verdragsluitende Staat die uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=II&artikel=3&z=2021-05-01&g=2021-05-01) zijn rechtsmacht uitoefent ervan in kennis is gesteld of op andere wijze heeft vernomen dat één of meer Verdragsluitende Staten een onderzoek, vervolging of gerechtelijke procedure hebben ingesteld ter zake van dezelfde strafbare feiten of handelingen, treedt die Verdragsluitende Staat, naargelang van toepassing, in overleg met deze andere Verdragsluitende Staten teneinde hun maatregelen af te stemmen. De verplichtingen in dit artikel laten de verplichtingen van een Verdragsluitende Staat uit hoofde van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=V&artikel=13&z=2021-05-01&g=2021-05-01) onverlet.
 
@@ -258,7 +280,7 @@ Indien een Verdragsluitende Staat die uit hoofde van [artikel 3](https://wetten.
 
 ### Hoofdstuk V. Bevoegdheden en verplichtingen van staten
 
-#### Artikel 15 bis
+##### Artikel 15 bis
 
 1. Elke Verdragsluitende Staat wordt aangemoedigd de maatregelen te nemen die nodig kunnen zijn om een passende strafrechtelijke, bestuursrechtelijke of andere gerechtelijke procedure in te stellen tegen een persoon die een strafbaar feit of een handeling zoals bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=I&artikel=1&z=2021-05-01&g=2021-05-01), begaat, met name:
 
@@ -270,7 +292,7 @@ Indien een Verdragsluitende Staat die uit hoofde van [artikel 3](https://wetten.
 
 ### Hoofdstuk VI. Verdere bepalingen
 
-#### Artikel 18 bis
+##### Artikel 18 bis
 
 Geen enkele bepaling in dit Verdrag vormt een beletsel voor het recht uit hoofde van het nationale recht schadevergoeding te vorderen van een persoon die het luchtvaartuig heeft moeten verlaten ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=8&z=2021-05-01&g=2021-05-01) of is overgedragen ingevolge [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004659&hoofdstuk=III&artikel=9&z=2021-05-01&g=2021-05-01).
 

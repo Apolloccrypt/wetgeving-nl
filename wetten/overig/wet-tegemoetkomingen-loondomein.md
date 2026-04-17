@@ -1,14 +1,42 @@
 ---
-title: "Wet tegemoetkomingen loondomein"
+title: "Wet van 23 december 2015, houdende tegemoetkomingen in de loonkosten van specifieke groepen (Wet tegemoetkomingen loondomein)"
 identifier: "BWBR0037522"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037522"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037522"
+soort: "wet"
+stam_id: "13390113"
+version_id: "23863922"
+internal_id: "C34327921"
+label_id: "13358184"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037522/2026-01-01/0"
+intitule_bron: "Stb.2015-542"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-23"
+intitule_published: "2015-12-30"
+intitule_in_force: "2016-09-02"
+intitule_status: "goed"
+original_publication: "Stb.2017-24"
+original_signed_date: "2017-01-25"
+original_published_date: "2017-02-08"
+original_effect: "structuurwijziging"
+original_dossier: "34573"
+original_url_id: "stb-2017-24"
+entry_into_force_date: "2017-01-25"
+entry_into_force_dossier: "34573"
+jci_1_3: "jci1.3:c:BWBR0037522&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0037522&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet tegemoetkomingen loondomein"
+signed_date: "2017-01-25"
+entry_into_force: "2017-01-25"
 ---
-
-# Wet tegemoetkomingen loondomein
+# Wet van 23 december 2015, houdende tegemoetkomingen in de loonkosten van specifieke groepen (Wet tegemoetkomingen loondomein)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1.1. Algemene begrippen
+##### Artikel 1.1. Algemene begrippen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,17 +74,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk III. Tegemoetkoming loondomein zonder doelgroepverklaring
 
-#### Artikel 3.1. Lage-inkomensvoordeel
+##### Artikel 3.1. Lage-inkomensvoordeel
 
 Vervallen
 
-#### Artikel 3.2. Hoogte lage-inkomensvoordeel
+##### Artikel 3.2. Hoogte lage-inkomensvoordeel
 
 Vervallen
 
 ### Hoofdstuk IIIa. **Tegemoetkoming verhoging minimumjeugdloon**
 
-#### Artikel 4.1. Behandeling verzoek en samenloop van verzoeken
+##### Artikel 4.1. Behandeling verzoek en samenloop van verzoeken
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen beoordeelt alle door een werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) gezamenlijk, berekent de hoogte van de tegemoetkomingen en stelt de uitkomst beschikbaar aan de inspecteur, waarbij:
 
@@ -70,7 +98,7 @@ Vervallen
 
 4. De inspecteur verstrekt aan werkgevers een overzicht van de werknemers waarvoor de werkgever een verzoek heeft gedaan en de voorgenomen beoordeling en berekening, bedoeld in het eerste lid, met betrekking tot deze werknemers. De verstrekking van dit overzicht vindt plaats vóór 15 maart volgend op het kalenderjaar waarover de tegemoetkomingen zijn aangevraagd waarbij rekening gehouden wordt met verzoeken die uiterlijk op 31 januari van het jaar volgend op het kalenderjaar waarover de tegemoetkomingen zijn aangevraagd zijn ingediend.
 
-#### Artikel 4.2. Beslissing
+##### Artikel 4.2. Beslissing
 
 1. Op alle door de werkgever in het kalenderjaar gedane verzoeken om een of meer tegemoetkomingen als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) gezamenlijk beslist de inspecteur. Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels gesteld worden met betrekking tot de gegevens die op de beschikking vermeld worden.
 
@@ -78,13 +106,13 @@ Vervallen
 
 3. De beschikking van de inspecteur, bedoeld in het eerste lid, wordt gegeven vóór 1 augustus volgend op het kalenderjaar waarover de tegemoetkoming wordt aangevraagd.
 
-#### Artikel 4.3. Herziening
+##### Artikel 4.3. Herziening
 
 1. De inspecteur is bevoegd de op de voet van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2026-01-01&g=2026-01-01) gegeven beschikking tot vaststelling van een tegemoetkoming te herzien ten nadele van de werkgever of gewezen werkgever indien enig feit grond oplevert voor het vermoeden dat de beschikking is gegeven op grond van onjuiste of onvolledige gegevens. Een herziening is uitsluitend mogelijk indien de onjuistheid van de beschikking een gevolg is van een feit dat aan de werkgever of de gewezen werkgever kan worden toegerekend of de werkgever of de gewezen werkgever redelijkerwijs kenbaar had kunnen zijn. De inspecteur stelt de herziening bij beschikking vast. De bevoegdheid tot herziening vervalt door verloop van 5 jaren na het einde van het kalenderjaar waarop de beschikking tot vaststelling van een tegemoetkoming betrekking heeft.
 
 2. Beschikkingen van de inspecteur op grond van dit artikel worden gegeven in overeenstemming met het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 4.4. Uitbetaling en terugvordering
+##### Artikel 4.4. Uitbetaling en terugvordering
 
 1. De uitbetaling van een tegemoetkoming geschiedt door de ontvanger met toepassing van de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770) en de [Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645) als ware die tegemoetkoming een terug te geven bedrag aan rijksbelastingen.
 
@@ -94,13 +122,13 @@ Vervallen
 
 4. Een terug te vorderen bedrag is invorderbaar zes weken na dagtekening van de herzieningsbeschikking, bedoeld in [artikel 4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.5. Bezwaar en beroep
+##### Artikel 4.5. Bezwaar en beroep
 
 1. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de beschikkingen, bedoeld in de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.2&z=2026-01-01&g=2026-01-01), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.3&z=2026-01-01&g=2026-01-01) en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.7&z=2026-01-01&g=2026-01-01), is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing.
 
 2. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist de inspecteur op het bezwaarschrift binnen 26 weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken. De inspecteur beslist op het bezwaarschrift inzake de verstrekking van een tegemoetkoming als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) na overleg met het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 4.6. Informatiebepaling
+##### Artikel 4.6. Informatiebepaling
 
 1. De rijksbelastingdienst en het college van burgemeester en wethouders zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen kosteloos de opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet.
 
@@ -108,7 +136,7 @@ Vervallen
 
 3. Het Uitvoeringsinstituut werknemersverzekeringen en de rijksbelastingdienst zijn bevoegd de gegevens die zij op grond van [artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=33) verwerken in de polisadministratie en op grond van [artikel 38d van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38d) verwerken in de registratie van arbeidsbeperkten voor zover noodzakelijk tevens te verwerken voor de vaststelling van de tegemoetkomingen, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 4.7. Bestuurlijke boete
+##### Artikel 4.7. Bestuurlijke boete
 
 1. Indien de werkgever een verzoek als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) heeft gedaan met betrekking tot een werknemer die niet voldoet aan de voorwaarden, bedoeld in de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.6&z=2026-01-01&g=2026-01-01), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01) of [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.14&z=2026-01-01&g=2026-01-01), vormt dit een verzuim waarvoor de inspecteur hem een bestuurlijke boete van ten hoogste € 1.319 per verzoek kan opleggen.
 
@@ -126,11 +154,11 @@ Vervallen
 
 ### Hoofdstuk V. Wijziging van overige wetten
 
-#### Artikel 6.1. Aanpassing hoogte
+##### Artikel 6.1. Aanpassing hoogte
 
 Teneinde zo veel mogelijk evenwicht te bereiken tussen de tegemoetkomingen, bedoeld in de [artikelen 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.6&z=2026-01-01&g=2026-01-01), [2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01) en [2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.14&z=2026-01-01&g=2026-01-01), en de hiervoor in de rijksbegroting opgenomen bedragen, kunnen bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid met ingang van 1 januari van enig jaar de in de [artikelen 2.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.9&z=2026-01-01&g=2026-01-01), [2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.13&z=2026-01-01&g=2026-01-01) en [2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.17&z=2026-01-01&g=2026-01-01) opgenomen bedragen worden verlaagd dan wel verhoogd.
 
-#### Artikel 6.2. Overgangsrecht loonkostenvoordeel doelgroep banenafspraak
+##### Artikel 6.2. Overgangsrecht loonkostenvoordeel doelgroep banenafspraak
 
 1. Indien het recht op een loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01), zoals dat luidde voor de datum van inwerkingtreding van [artikel 8, onderdeel E, onderdelen 1, 3, 4 en 5, van de Wet banenafspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&artikel=8), is aangevangen voor die datum van inwerkingtreding, en dat recht voor die datum niet is geëindigd, wordt dat loonkostenvoordeel ten hoogste verstrekt:
 
@@ -146,15 +174,15 @@ Teneinde zo veel mogelijk evenwicht te bereiken tussen de tegemoetkomingen, bedo
 
 5. Vanaf de datum van inwerkingtreding van [artikel 8, onderdeel E, onderdelen 1, 3, 4 en 5, van de Wet banenafspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0051018&artikel=8) wordt onder een loonkostenvoordeel doelgroep banenafspraak mede verstaan een loonkostenvoordeel doelgroep banenafspraak en scholingsbelemmerden op grond van [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01), zoals dat luidde voor die datum van inwerkingtreding.
 
-#### Artikel 6.3. Evaluatiebepaling
+##### Artikel 6.3. Evaluatiebepaling
 
 Onze Minister van Sociale Zaken en Werkgelegenheid zendt binnen vier jaar na de inwerkingtreding van deze wet of onderdelen daarvan, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de tegemoetkomingen, bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01), in de praktijk.
 
-#### Artikel 6.4. Inwerkingtreding
+##### Artikel 6.4. Inwerkingtreding
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-#### Artikel 6.5. Citeertitel
+##### Artikel 6.5. Citeertitel
 
 1. Deze wet wordt aangehaald als: Wet tegemoetkomingen loondomein.
 
@@ -170,7 +198,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2.1. Tegemoetkomingen in de vorm van loonkostenvoordelen
 
-#### Artikel 2.1. Loonkostenvoordelen
+##### Artikel 2.1. Loonkostenvoordelen
 
 Een werkgever kan in de loonaangifte een verzoek doen voor de volgende tegemoetkomingen:
 
@@ -184,25 +212,25 @@ waarbij een uiterlijk op de in [artikel 4.1, tweede lid](https://wetten.overheid
 
 #### § 2.2. Loonkostenvoordeel oudere werknemer
 
-#### Artikel 2.2. Doelgroep
+##### Artikel 2.2. Doelgroep
 
 Vervallen
 
-#### Artikel 2.3. Doelgroepverklaring
+##### Artikel 2.3. Doelgroepverklaring
 
 Vervallen
 
-#### Artikel 2.4. Duur loonkostenvoordeel oudere werknemer
+##### Artikel 2.4. Duur loonkostenvoordeel oudere werknemer
 
 Vervallen
 
-#### Artikel 2.5. Hoogte loonkostenvoordeel oudere werknemer
+##### Artikel 2.5. Hoogte loonkostenvoordeel oudere werknemer
 
 Vervallen
 
 #### § 2.3. Loonkostenvoordeel arbeidsgehandicapte werknemer
 
-#### Artikel 2.6. Doelgroep
+##### Artikel 2.6. Doelgroep
 
 1. Een werkgever die een verzoek als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) heeft gedaan, heeft recht op een loonkostenvoordeel arbeidsgehandicapte werknemer indien bij deze werkgever een werknemer in een of meerdere dienstbetrekkingen is die:
 
@@ -236,7 +264,7 @@ is de voorwaarde, bedoeld in het eerste lid, onderdeel a, niet van toepassing
 
 5. Voor de toepassing van dit artikel worden onderbrekingen van een dienstbetrekking tussen dezelfde werkgever en werknemer binnen de periode, bedoeld in [artikel 2.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.8&z=2026-01-01&g=2026-01-01), geacht niet te hebben plaatsgevonden.
 
-#### Artikel 2.7. Doelgroepverklaring
+##### Artikel 2.7. Doelgroepverklaring
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt uitsluitend aan degene die een dienstbetrekking met een werkgever aangaat en, met inachtneming van [artikel 2.6, derde tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.6&z=2026-01-01&g=2026-01-01), voldoet aan de voorwaarden, bedoeld in artikel 2.6, eerste lid, onderdelen a en b, of aan de voorwaarden, bedoel in artikel 2.6, tweede lid, op diens verzoek een verklaring dat de aanvrager aan de genoemde voorwaarden voldoet. Indien de doelgroepverklaring niet kan worden verstrekt, wordt het besluit tot weigering uitsluitend verstrekt aan de aanvrager van de doelgroepverklaring. De doelgroepverklaring wordt aangevraagd binnen drie maanden na aanvang van de dienstbetrekking. Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels worden gesteld met betrekking tot de geldigheid van de doelgroepverklaring, bedoeld in de eerste volzin.
 
@@ -244,19 +272,19 @@ is de voorwaarde, bedoeld in het eerste lid, onderdeel a, niet van toepassing
 
 3. De werkgever bewaart de doelgroepverklaring, bedoeld in het eerste lid, bij de loonadministratie.
 
-#### Artikel 2.8. Duur loonkostenvoordeel arbeidsgehandicapte werknemer
+##### Artikel 2.8. Duur loonkostenvoordeel arbeidsgehandicapte werknemer
 
 1. Een loonkostenvoordeel arbeidsgehandicapte werknemer wordt ten hoogste verstrekt over een aaneengesloten periode van drie jaar vanaf de aanvang van de eerste dienstbetrekking tussen de werkgever en de werknemer waarbij aan de voorwaarden, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.6&z=2026-01-01&g=2026-01-01), wordt voldaan.
 
 2. Ingeval de periode waarin het loonkostenvoordeel arbeidsgehandicapte werknemer van toepassing is in de loop van een aangiftetijdvak begint of eindigt, wordt die periode verlengd met het buiten die periode vallende deel van het aangiftetijdvak waarin die periode begint, onderscheidenlijk eindigt.
 
-#### Artikel 2.9. Hoogte loonkostenvoordeel arbeidsgehandicapte werknemer
+##### Artikel 2.9. Hoogte loonkostenvoordeel arbeidsgehandicapte werknemer
 
 Een loonkostenvoordeel arbeidsgehandicapte werknemer bedraagt € 3,05 per verloond uur van de werknemers die voldoen aan de voorwaarden, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.3&artikel=2.6&z=2026-01-01&g=2026-01-01), doch ten hoogste € 6.000 per werknemer per kalenderjaar.
 
 #### § 2.4. Loonkostenvoordeel doelgroep banenafspraak
 
-#### Artikel 2.10. Doelgroep
+##### Artikel 2.10. Doelgroep
 
 1. Een werkgever die een verzoek als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) heeft gedaan, heeft recht op een loonkostenvoordeel doelgroep banenafspraak indien bij deze werkgever een werknemer in een of meerdere dienstbetrekkingen is die in het aangiftetijdvak waarover het loonkostenvoordeel wordt verstrekt een arbeidsbeperkte is als bedoeld in [artikel 38b van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38b), of daarmee gelijkgesteld is op grond van [artikel 38f, vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38f).
 
@@ -268,23 +296,23 @@ Een loonkostenvoordeel arbeidsgehandicapte werknemer bedraagt € 3,05 per verlo
 
 3. Het recht op een loonkostenvoordeel doelgroep banenafspraak eindigt als de periode, bedoeld in [artikel 2.12](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.12&z=2026-01-01&g=2026-01-01) of [artikel 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=VI&artikel=6.2&z=2026-01-01&g=2026-01-01), is verstreken.
 
-#### Artikel 2.11. Doelgroepverklaring
+##### Artikel 2.11. Doelgroepverklaring
 
 Vervallen
 
-#### Artikel 2.12. Duur loonkostenvoordeel doelgroep banenafspraak
+##### Artikel 2.12. Duur loonkostenvoordeel doelgroep banenafspraak
 
 1. Een loonkostenvoordeel doelgroep banenafspraak wordt ten hoogste verstrekt voor de periode waarin de betreffende werknemer in dienstbetrekking staat tot de betreffende werkgever en voor zo lang aan de voorwaarden, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01), wordt voldaan.
 
 2. Ingeval de periode waarin het loonkostenvoordeel doelgroep banenafspraak van toepassing is in de loop van een aangiftetijdvak begint of eindigt, wordt die periode verlengd met het buiten die periode vallende deel van het aangiftetijdvak waarin die periode begint, onderscheidenlijk eindigt.
 
-#### Artikel 2.13. Hoogte loonkostenvoordeel doelgroep banenafspraak
+##### Artikel 2.13. Hoogte loonkostenvoordeel doelgroep banenafspraak
 
 Een loonkostenvoordeel doelgroep banenafspraak bedraagt € 1,01 per verloond uur van de werknemers die voldoen aan de voorwaarden, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.4&artikel=2.10&z=2026-01-01&g=2026-01-01), doch ten hoogste € 2.000 per werknemer per kalenderjaar.
 
 #### § 2.5. Loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer
 
-#### Artikel 2.14. Doelgroep
+##### Artikel 2.14. Doelgroep
 
 1. Een werkgever die een verzoek als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01) heeft gedaan, heeft recht op een loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer indien bij deze werkgever een werknemer in een of meerdere dienstbetrekkingen is die:
 
@@ -308,7 +336,7 @@ Een loonkostenvoordeel doelgroep banenafspraak bedraagt € 1,01 per verloond uu
 
 4. Voor de toepassing van dit artikel worden onderbrekingen van een dienstbetrekking tussen dezelfde werkgever en werknemer binnen de periode, bedoeld in [artikel 2.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.16&z=2026-01-01&g=2026-01-01), geacht niet te hebben plaatsgevonden.
 
-#### Artikel 2.15. Doelgroepverklaring
+##### Artikel 2.15. Doelgroepverklaring
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verstrekt uitsluitend aan degene die zijn eigen arbeid geheel of gedeeltelijk hervat of een andere functie bij dezelfde werkgever gaat bekleden en, met inachtneming van [artikel 2.14, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.14&z=2026-01-01&g=2026-01-01), voldoet aan de voorwaarden, bedoeld in artikel 2.14, eerste lid, onderdeel a, op diens verzoek een verklaring dat de aanvrager aan de genoemde voorwaarden voldoet. Indien de doelgroepverklaring niet kan worden verstrekt, wordt het besluit tot weigering uitsluitend verstrekt aan de aanvrager van de doelgroepverklaring. De doelgroepverklaring wordt aangevraagd binnen drie maanden na de gehele of gedeeltelijke hervatting van zijn eigen arbeid of het gaan bekleden van een andere functie. Indien een werknemer als bedoeld in artikel 2.14, eerste lid, onder a, onder 1°, de eigen arbeid geheel of gedeeltelijk hervat of een andere functie bij dezelfde werkgever gaat bekleden vóór het moment waarop een recht op een uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) is ontstaan, wordt de aanvraag van een doelgroepverklaring ingediend binnen drie maanden na de afloop van de wachttijd, bedoeld in [artikel 23 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=23), of van het tijdvak, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=24), [25, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), of [26, tweede lid, tweede zin, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=26) of na afloop van het tijdvak, bedoeld in [artikel 629, elfde lid, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel van het tijdvak, bedoeld in [artikel 29, tiende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), of [artikel 76a, zesde lid, onderdeel a, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a). Bij regeling van Onze Minister van Financiën kunnen, in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, nadere regels worden gesteld met betrekking tot de geldigheid van de doelgroepverklaring, bedoeld in de eerste volzin.
 
@@ -316,13 +344,13 @@ Een loonkostenvoordeel doelgroep banenafspraak bedraagt € 1,01 per verloond uu
 
 3. De werkgever bewaart de doelgroepverklaring, bedoeld in het eerste lid, bij de loonadministratie.
 
-#### Artikel 2.16. Duur loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer
+##### Artikel 2.16. Duur loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer
 
 1. Een loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer wordt ten hoogste verstrekt over een aaneengesloten periode van een jaar vanaf de datum van aanvang van de aanvraagtermijn van de doelgroepverklaring op grond van [artikel 2.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.15&z=2026-01-01&g=2026-01-01).
 
 2. Ingeval de periode waarin het loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer van toepassing is in de loop van een aangiftetijdvak begint of eindigt, wordt die periode verlengd met het buiten die periode vallende deel van het aangiftetijdvak waarin die periode begint, onderscheidenlijk eindigt.
 
-#### Artikel 2.17. Hoogte loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer
+##### Artikel 2.17. Hoogte loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer
 
 Een loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer bedraagt € 3,05 per verloond uur van de werknemers die voldoen aan de voorwaarden, bedoeld in [artikel 2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.5&artikel=2.14&z=2026-01-01&g=2026-01-01), doch ten hoogste € 6.000 per werknemer per kalenderjaar.
 
@@ -330,11 +358,11 @@ Een loonkostenvoordeel herplaatsen arbeidsgehandicapte werknemer bedraagt € 3,
 
 ### Hoofdstuk IIIa. **Tegemoetkoming verhoging minimumjeugdloon**
 
-#### Artikel 3.3. Minimumjeugdloon voordeel
+##### Artikel 3.3. Minimumjeugdloon voordeel
 
 Vervallen
 
-#### Artikel 3.4. Hoogte minimumjeugdloon voordeel
+##### Artikel 3.4. Hoogte minimumjeugdloon voordeel
 
 Vervallen
 
@@ -342,17 +370,17 @@ Vervallen
 
 ### Hoofdstuk V. Wijziging van overige wetten
 
-#### Artikel 5.1. Wijzigingen in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
+##### Artikel 5.1. Wijzigingen in de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745)
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel 5.2. Samenloopbepaling
+##### Artikel 5.2. Samenloopbepaling
 
 Wijzigt deze wet.
 
 ### Hoofdstuk VI. Overgangs- en slotbepalingen
 
-#### Artikel 6.2a. Overgangsrecht loonkostenvoordelen oudere werknemer en herplaatsen arbeidsgehandicapte werknemer
+##### Artikel 6.2a. Overgangsrecht loonkostenvoordelen oudere werknemer en herplaatsen arbeidsgehandicapte werknemer
 
 1. De [artikelen 2.1 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=II&paragraaf=2.1&artikel=2.1&z=2026-01-01&g=2026-01-01), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=IV&artikel=4.7&z=2026-01-01&g=2026-01-01) en [6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037522&hoofdstuk=VI&artikel=6.1&z=2026-01-01&g=2026-01-01), zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel I, onderdelen Ba en Bb, van de Wet van 18 april 2024, houdende wijzigingen van de Wet tegemoetkomingen loondomein teneinde het lage inkomensvoordeel te laten vervallen en in verband met enkele andere wijzigingen, zijn van toepassing op de verstrekking van een loonkostenvoordeel oudere werknemer dat wordt verstrekt voor een dienstbetrekking die is aangevangen voor 1 januari 2024.
 

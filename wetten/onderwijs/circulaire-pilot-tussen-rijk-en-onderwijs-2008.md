@@ -1,13 +1,39 @@
 ---
-title: "Circulaire pilot Tussen Rijk en Onderwijs (2008)"
+title: "Circulaire pilot Tussen Rijk en Onderwijs"
 identifier: "BWBR0023956"
-categorie: "Onderwijs"
-publicatiedatum: 2008-06-09
-laatste_update: 2008-06-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023956"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-06-09"
+last_updated: "2008-06-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023956"
+soort: "circulaire"
+stam_id: "9520843"
+version_id: "15391202"
+internal_id: "C20998121"
+label_id: "9498024"
+dtd_version: "2.0"
+original_entry_into_force: "2008-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023956/2008-06-09/0"
+intitule_bron: "Stcrt.2008-108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-20"
+intitule_published: "2008-06-09"
+intitule_in_force: "2008-06-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-108"
+original_signed_date: "2008-05-20"
+original_published_date: "2008-06-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-108-p8-SC85968"
+entry_into_force_date: "2008-06-09"
+jci_1_3: "jci1.3:c:BWBR0023956&z=2008-06-09&g=2008-06-09"
+jci_1_0: "1.0:c:BWBR0023956&g=2008-06-09"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire pilot Tussen Rijk en Onderwijs (2008)"
+signed_date: "2008-05-20"
+entry_into_force: "2008-06-09"
 ---
-
 # Circulaire pilot Tussen Rijk en Onderwijs
 
 ### **Inleiding**

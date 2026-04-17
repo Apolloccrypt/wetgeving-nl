@@ -1,18 +1,43 @@
 ---
 title: "Memorandum van Overeenstemming tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de fase van het definitieve ontwerp van de voorgestelde Europese Transsone Windtunnel"
 identifier: "BWBV0002726"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-04-13
-laatste_update: 1988-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002726"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-04-13"
+last_updated: "1988-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002726"
+soort: "verdrag"
+stam_id: "10003066733"
+version_id: "10003070582"
+internal_id: "C10006978741"
+label_id: "10003053984"
+dtd_version: "2.0"
+original_entry_into_force: "1988-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002726/1988-04-13/0"
+intitule_bron: "Trb.1986-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-04-13"
+intitule_published: "1986-01-17"
+intitule_in_force: "1988-04-18"
+intitule_status: "goed"
+original_publication: "Trb.1986-11"
+original_signed_date: "1988-04-13"
+original_published_date: "1986-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-11"
+entry_into_force_date: "1988-04-13"
+jci_1_3: "jci1.3:c:BWBV0002726&z=1988-04-13&g=1988-04-13"
+jci_1_0: "1.0:c:BWBV0002726&g=1988-04-13"
+citeertitel_status: "officieel"
+signed_date: "1988-04-13"
+entry_into_force: "1988-04-13"
 ---
-
 # Memorandum van Overeenstemming tussen de Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de fase van het definitieve ontwerp van de voorgestelde Europese Transsone Windtunnel
 
 ## Inleiding
 
-#### 1
+##### 1
 
 De Regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, hierna te noemen: de Regeringen,
 
@@ -22,11 +47,11 @@ Bevestigen opnieuw hun wens de samenwerking bij dit project, hierna te noemen: d
 
 ## Grondslag van de samenwerking
 
-#### 2
+##### 2
 
 Bijgevolg wordt in dit Memorandum van Overeenstemming (hierna te noemen: dit MvO) de overeenkomst opgenomen dat de Regeringen overgaan tot de uitvoering van Fase 2.2, de Fase van het Definitieve Ontwerp, en tijdens deze Fase onderling overleg plegen met het vaste voornemen over te gaan tot de uitvoering van Fase 3 van het project, die betrekking heeft op de bouw en de exploitatie van de ETW. Het overleg vindt plaats op de grondslag van de „Principles for Phase 3, the Construction and Operation of the ETW” (Grondbeginselen voor Fase 3, de bouw en de exploitatie van de ETW), vastgelegd in de Bijlage die deel uitmaakt van dit MvO. Eventuele wijziging van deze Grondbeginselen vindt slechts plaats met een eenparig genomen besluit van de Regeringen. In ieder geval zal Fase 3 te zijner tijd onderwerp van een overeenkomst tussen de Regeringen zijn.
 
-#### 3
+##### 3
 
 De Regeringen zijn overeengekomen dat, indien zij overgaan tot de uitvoering van Fase 3, zulks geschiedt op de volgende grondslag:
 
@@ -42,7 +67,7 @@ De Regeringen zijn overeengekomen dat, indien zij overgaan tot de uitvoering van
 
 ## Doeleinden en omvang
 
-#### 4
+##### 4
 
 De Fase van het Definitieve Ontwerp omvat:
 
@@ -54,69 +79,69 @@ De Fase van het Definitieve Ontwerp omvat:
 
 - d. het treffen van alle voorbereidingen welke noodzakelijk zijn om zo vroeg mogelijk te beginnen aan Fase 3.
 
-#### 5
+##### 5
 
 Hoewel verwacht wordt dat in de Fase van het Definitieve Ontwerp over het algemeen tot in details uitvoering wordt gegeven aan de aanbevelingen inzake het ontwerp uit de Fase van het Voorlopige Ontwerp, kunnen de Regeringen (via de met de leiding van het project belaste Stuurgroep) toestemming verlenen voor het aanbrengen van wijzigingen in het ontwerp, indien de uitkomsten van nadere werkzaamheden daartoe aanleiding geven.
 
-#### 6
+##### 6
 
 De voltooiing van de Fase van het Definitieve Ontwerp zal, naar verwacht wordt, ongeveer twee jaar in beslag nemen.
 
 ## Regelingen met betrekking tot de bedrijfsvoering
 
-#### 7
+##### 7
 
 Teneinde op doeltreffende wijze leiding te kunnen geven aan de uitvoering van de Fase van het Definitieve Ontwerp, wordt de uit twee niveaus bestaande organisatie, gevormd door een Stuurgroep en een Projectgroep, welke organisatie voor de Fase van het Voorlopige Ontwerp werd gebruikt, gehandhaafd. De Projectgroep wordt geleid door een Projectdirecteur die verantwoording verschuldigd is aan de Stuurgroep.
 
-#### 8
+##### 8
 
 De officiële gunning van de contracten en het beheer van de financiën geschieden door een organisatie, hierna aangeduid als het Agentschap, welke in het begin het Nationaal Lucht- en Ruimtevaartlaboratorium (NLR) te Amsterdam zal zijn en later de Deutsche Forschungsund Versuchsanstalt für Luft-und Raumfahrt e.V. (DFVLR) te Keulen-Porz.
 
 ## De Stuurgroep
 
-#### 9
+##### 9
 
 De Stuurgroep bestaat uit twee vertegenwoordigers van elke Regering, van wie er één de als zodanig aangewezen stemgerechtigde is. De Stuurgroep komt ten minste tweemaal per jaar bijeen.
 
-#### 10
+##### 10
 
 De vertegenwoordigers die zitting hebben in de Stuurgroep, zijn bevoegd het nationale standpunt inzake de op de taak van de Stuurgroep betrekking hebbende kwesties weer te geven.
 
-#### 11
+##### 11
 
 Het voorzitterschap van de Stuurgroep wordt beurtelings door de officiële vertegenwoordiger van een der Regeringen bekleed voor een tijdvak van ongeveer een jaar, waarbij zoveel mogelijk het voor Fase 2.1 vastgestelde rooster wordt gevolgd.
 
-#### 12
+##### 12
 
 De Stuurgroep schenkt nader aandacht aan de technische, financiële, economische, administratieve, wettelijke en politieke aspecten van de bouw en het gebruik van de voorgestelde windtunnel, zoals de beheersvormen, de financieringsmethode, de kostenverdelingen de kostenfasering, de totale hoeveelheid te verrichten werk, de rendabiliteit enz.
 
-#### 13
+##### 13
 
 De Stuurgroep wordt bijgestaan door een permanent secretariaat en kan hulporganen ad hoc, naast de Projectgroep, in het leven roepen om zich bezig te houden met bijzondere aspecten van de werkzaamheden die krachtens dit MvO worden verricht.
 
-#### 14
+##### 14
 
 De Stuurgroep onderneemt alle naar haar mening geëigende stappen om te komen tot een beslissing omtrent de bouw en de exploitatie van de windtunnel, in het bijzonder tot bevestiging van de geschiktheid van de windtunnel voor de behoeften van de gebruikers (met inbegrip van die met betrekking tot de toepassing van beveiligingsprocedures tijdens het gebruik) en onderzoekingen op het gebied van de kosten en baten.
 
-#### 15
+##### 15
 
 De Stuurgroep is belast met de leiding van de gehele Fase van het Definitieve Ontwerp, met inbegrip van het goedkeuren van de procedure voor het kiezen en het sluiten van contracten met raadgevende ingenieursbureaus en andere bedrijven, zoals bedoeld in paragraaf 19, alsmede het geven van algemene richtlijnen aan de hulporganen, met inbegrip van de Projectgroep, binnen de in de paragrafen 22 t/m 29 vastgestelde financiële grenzen. De bovengenoemde taak van de Stuurgroep sluit tevens de volledige bevoegdheid in met betrekking tot de PETW die tijdens Fase 2.1 werd gebouwd.
 
-#### 16
+##### 16
 
 De Stuurgroep doet aanbevelingen aan de Regeringen betreffende de voortzetting van de samenwerking in de daaropvolgende Fase 3 op de grondslag van de Grondbeginselen in de Bijlage. Een aanbeveling om met deze volgende Fase aan te vangen, dient tevens voorstellen voor de organisatie, de leiding en de financiering daarvan te bevatten.
 
-#### 17
+##### 17
 
 Hoewel de krachtens dit MvO ingestelde Stuurgroep geen bevoegdheid met betrekking tot Fase 3 van het project bezit, is zij desondanks bevoegd tot onderhandelen met de bij Fase 2.2 betrokken gecontracteerde bedrijven over de basis waarop deze aan Fase 3 wensen deel te nemen, indien het project voortgang zou vinden. Voorwaardelijke overeenkomsten van deze aard, d.w.z. betrekking hebbend op Fase 3, worden slechts aangegaan, indien deze wenselijk lijken voor het versterken van de onderhandelingspositie van enig orgaan dat eventueel daarna wordt ingesteld om leiding te geven aan de bouw van de windtunnel.
 
-#### 18
+##### 18
 
 De Stuurgroep neemt haar besluiten met eenparigheid van stemmen. Indien echter geen eenstemmigheid inzake een bepaalde kwestie kan worden verkregen, zijn alle leden verplicht al het mogelijke te doen om tot een oplossing te komen door middel van de normale onderhandelingsprocedure. Indien dan nog geen beslissing kan worden bereikt, verwijzen de leden van de Stuurgroep de kwestie onverwijld terug naar hun onderscheiden Regeringen.
 
 ## Projectgroep
 
-#### 19
+##### 19
 
 De Projectdirecteur wordt benoemd door de Stuurgroep. Hij leidt de Projectgroep en voert de aanwijzingen van de Stuurgroep uit overeenkomstig de door deze voorgeschreven procedures. De Projectgroep heeft onder andere tot taak:
 
@@ -130,17 +155,17 @@ De Projectdirecteur wordt benoemd door de Stuurgroep. Hij leidt de Projectgroep 
 
 - e. de Stuurgroep alle informatie en hulp welke voor het uitvoeren van haar taak van nut zou kunnen zijn, rechtstreeks gevraagd dan wel ongevraagd, te verschaffen.
 
-#### 20
+##### 20
 
 Elk van de Regeringen stelt geschikte kandidaten voor de Projectgroep ter beschikking. De leden van de Projectgroep worden geworven en aangesteld overeenkomstig de door de Stuurgroep goedgekeurde procedures. De grootte, de kundigheden en de nationale samenstelling van de Projectgroep worden op voorstel van de Projectdirecteur vastgesteld door de Stuurgroep.
 
-#### 21
+##### 21
 
 De leden van de Projectgroep zijn in het begin werkzaam in het Nationaal Lucht- en Ruimtevaartlaboratorium (NLR) te Amsterdam. De Stuurgroep bezit echter de bevoegdheid te beslissen over de gehele of gedeeltelijke overplaatsing van de Projectgroep op een later tijdstip naar Keulen-Porz en te onderhandelen over de voorwaarden waarop dit zal geschieden.
 
 ## Financiële en administratieve regelingen
 
-#### 22
+##### 22
 
 Voor het uitvoeren van de in paragraaf 19 aangeduide taken verlenen de Regeringen machtiging tot het doen van de noodzakelijke uitgaven, tot een bedrag van ten hoogste DM 38,9 miljoen tegen het prijspeil van 1 januari 1984, plus een compensatie voor de inflatie. In onderstaande tabel is het begrotingsschema vermeld, behoudens herziening door de Stuurgroep:
 
@@ -150,7 +175,7 @@ Voor het uitvoeren van de in paragraaf 19 aangeduide taken verlenen de Regeringe
 | 1987 | DM 22,2 miljoen |
 | 1988 | DM 6,9 miljoen |
 
-#### 23
+##### 23
 
 De Regeringen stellen de in paragraaf 22 vermelde bedragen beschikbaar in de volgende verhoudingen:
 
@@ -162,15 +187,15 @@ De Regeringen stellen de in paragraaf 22 vermelde bedragen beschikbaar in de vol
 
 Deze verdeling laat de verdeling van toekomstige middelen onverlet (o.a. in verband met de vestigingsplaats die voor de windtunnel is gekozen).
 
-#### 24
+##### 24
 
 Deze bijdragen vormen het Gemeenschappelijke Fonds, waaruit de uit dit MvO voortvloeiende, in paragraaf 26 uitvoerig omschreven kosten worden bestreden.
 
-#### 25
+##### 25
 
 Het Gemeenschappelijke Fonds wordt beheerd door het Agentschap (in het begin het NLR en later de DFVLR).
 
-#### 26
+##### 26
 
 De volgende kosten komen ten laste van het Gemeenschappelijke Fonds:
 
@@ -188,15 +213,15 @@ De volgende kosten komen ten laste van het Gemeenschappelijke Fonds:
 
 - g. de kosten van alle werkzaamheden, uitbesteed aan ingenieursbureaus, nationale instellingen voor wetenschappelijk onderzoek, de industrie e.d.; de werkzaamheden worden verdeeld overeenkomstig het bepaalde in paragraaf 28, met uitzondering van de gevallen waarin de landen van de Regeringen niet beschikken over de speciale deskundigheid.
 
-#### 27
+##### 27
 
 De Projectgroep legt voor elk boekjaar (1 januari-31 december) de begroting ter goedkeuring voor aan de Stuurgroep.
 
-#### 28
+##### 28
 
 De Stuurgroep streeft ernaar dat de uit dit MvO voortvloeiende en bij contract uitbestede werkzaamheden worden uitgevoerd door bedrijven uit de landen van de Regeringen en dat het onderscheiden werkaandeel van deze landen in overeenstemming is met de in paragraaf 23 genoemde verhoudingen.
 
-#### 29
+##### 29
 
 De procedures voor de financiering en de financiële controle worden door middel van onderhandeling uitgewerkt en in voorschriften vastgelegd door de Stuurgroep en het Agentschap met inachtneming van de volgende richtlijnen:
 
@@ -208,13 +233,13 @@ De procedures voor de financiering en de financiële controle worden door middel
 
 ## Contractuele procedures
 
-#### 30
+##### 30
 
 Tijdens de geldigheidsduur van dit MvO sluit het Agentschap contracten met ingenieursbureaus en andere partijen. Deze contracten worden ter goedkeuring voorgelegd aan de Stuurgroep, behalve in die gevallen waarin zulks in de in paragraaf 29 bedoelde procedures anderszins is vastgesteld. De voorwaarden van deze contracten worden overeengekomen met de Stuurgroep.
 
 ## Informatie en rechten van de gebruiker
 
-#### 31
+##### 31
 
 De Regeringen zijn zich ervan bewust dat gedurende de Fase van het Definitieve Ontwerp informatie ter beschikking komt uit de volgende bronnen:
 
@@ -230,25 +255,25 @@ De Regeringen zijn zich ervan bewust dat gedurende de Fase van het Definitieve O
 
 - f. uitwisseling met niet-deelnemende landen.
 
-#### 32
+##### 32
 
 De informatie uit de in paragraaf 31 a, b, c en d genoemde bronnen wordt ter kennis van de Regeringen gebracht en mag kosteloos worden gebruikt voor het doel van het programma in het kader van de Fase van het Definitieve Ontwerp, alsmede voor elke toekomstige ontwikkeling of constructie waartoe door de Regeringen besloten wordt als onderdeel van het programma, alsook voor elke toekomstige ontwikkeling of constructie waartoe door de Regeringen besloten wordt ten behoeve van hun nationale programma's.
 
 De informatie wordt niet gebruikt voor andere doeleinden, noch ter kennis gebracht van derden zonder toestemming van degene van wie zij afkomstig is en/of van de Stuurgroep.
 
-#### 33
+##### 33
 
 Informatie, afkomstig uit de in paragraaf 31 e genoemde bron, wordt in het algemeen op dezelfde wijze behandeld als informatie, afkomstig uit de in paragraaf 31 onder a, b, c en d genoemde bronnen, behalve in die gevallen waarin een overeenkomst bestaat die het gebruik van de verstrekte informatie voor buiten het project gelegen doeleinden beperkt.
 
-#### 34
+##### 34
 
 Informatie, afkomstig uit de in paragraaf 31 f genoemde bron, mag worden gebruikt voor de doeleinden van het programma in het kader van de Fase van het Definitieve Ontwerp, alsmede voor elke toekomstige ontwikkeling of constructie waartoe door de Regeringen wordt besloten als onderdeel van het programma. Alle verdere gebruik is onderworpen aan de voorwaarden van de regelingen die door de Stuurgroep met de niet-deelnemende landen worden getroffen.
 
-#### 35
+##### 35
 
 Bij de uitvoering van dit MvO is de op 19 oktober 1970 te Brussel gesloten „NATO Agreement on the Communication of Technical Information for Defence Purposes” (NAVO-Overeenkomst inzake de verstrekking van technische informatie voor defensiedoeleinden) van toepassing.
 
-#### 36
+##### 36
 
 De Stuurgroep geeft het Agentschap voorschriften inzake de in de contracten met bedrijven en nationale instellingen op te nemen bepalingen dat met betrekking tot de aan deze bedrijven en instellingen namens de Stuurgroep verstrekte informatie de volgende regels in acht dienen te worden genomen:
 
@@ -264,63 +289,63 @@ De Stuurgroep geeft het Agentschap voorschriften inzake de in de contracten met 
 
 ## Eisen tot schadevergoeding
 
-#### 37
+##### 37
 
 Elk der Regeringen ziet af van het recht tot het instellen van een vordering tegen een van de andere Regeringen wegens verlies van of schade aan haar eigendom of wegens enigerlei letsel (hieronder tevens begrepen letsel de dood ten gevolge hebbende), schade of verlies, opgelopen of geleden door haar ambtenaren of vertegenwoordigers, voortvloeiend uit de werkzaamheden die ingevolge dit MvO worden verricht, behalve in het geval van grove nalatigheid, zoals gedefinieerd in paragraaf 39. Elk der Regeringen vrijwaart de andere Regeringen met betrekking tot een vordering wegens dit letsel, dit verlies of deze schade, opgelopen of geleden door haar ambtenaren of vertegenwoordigers.
 
-#### 38
+##### 38
 
 Ingeval schade is toegebracht aan gemeenschappelijk eigendom van de Regeringen of indien letsel, verlies of schade met betrekking tot derden is veroorzaakt, waarvoor de Regeringen verantwoordelijkheid dragen of een van de Regeringen verantwoordelijkheid draagt, zijn de Regeringen gelijkelijk aansprakelijk, behalve in het geval van grove nalatigheid, zoals gedefinieerd in paragraaf 39. Elk zodanig letsel of verlies of elke zodanige schade, veroorzaakt door personeel of uitrusting van een gecontracteerd bedrijf, tijdens proeven of anderszins, wordt door een passende, door het gecontracteerde bedrijf gesloten, verzekering gedekt. Het Agentschap zal een clausule in zijn contracten opnemen volgens welke het gecontracteerde bedrijf een zodanige verzekering dient te hebben of te sluiten en de Regeringen dient schadeloos te stellen met betrekking tot tegen de Regeringen ingestelde vorderingen die voortvloeien uit dit letsel, dit verlies of deze schade.
 
-#### 39
+##### 39
 
 In het geval van grove nalatigheid van een ambtenaar of een vertegenwoordiger van een der Regeringen aanvaardt de Regering die verantwoordelijkheid draagt voor het handelen of het nalaten van de ambtenaar of de vertegenwoordiger, de aansprakelijkheid daarvoor. Onder ,,grove nalatigheid” wordt verstaan: een opzettelijke fout, een grove vergissing of een ernstige onachtzaamheid.
 
-#### 40
+##### 40
 
 Ten aanzien van enigerlei verlies, letsel of schade, veroorzaakt door niet tot het ambtelijke personeel behorende leden van de Projectgroep, wordt door het Agentschap een passende verzekering gesloten, voor zover de aansprakelijkheid niet reeds is gedekt door bestaande verzekeringsstelsels. De kosten van deze (aanvullende) verzekering komen ten laste van het Gemeenschappelijke Fonds.
 
 ## Beveiliging
 
-#### 41
+##### 41
 
 De classificatie van de informatie die betrekking heeft op de Fase van het Definitieve Ontwerp, wordt door de Stuurgroep vastgesteld.
 
-#### 42
+##### 42
 
 Alle geclassificeerde informatie die wordt uitgewisseld, gebruikt, geproduceerd of bewaard in verband met de werkzaamheden aan het ETW-project, wordt, in afwachting van een overeenkomst inzake bijzondere beveiligingsregelingen ten behoeve van de samenwerking, op even zorgvuldige wijze verzonden, opgeslagen, behandeld en beveiligd als voorgeschreven in ,,NATO Security Regulations C-M(55) 15 (Final)” Beveiligingsvoorschriften van de NAVO C-M(55)15 (Definitief), d.d. 31 juli 1972, met inbegrip van alle aanvullingen en wijzigingen daarop.
 
 ## Toegang tot de instellingen voor wetenschappelijk onderzoek
 
-#### 43
+##### 43
 
 De Regeringen verlenen op verzoek toegang tot de instellingen voor wetenschappelijk onderzoek, voor het voeren van besprekingen in verband met de Fase van het Definitieve Ontwerp, aan leden van de Stuurgroep en van de Projectgroep, alsmede aan andere daarvoor in aanmerking komende personen. Bezoekers dienen zich te houden aan de beveiligingsvoorschriften en beveiligingsprocedures die bij de instellingen van kracht zijn.
 
 ## Uitvindingen
 
-#### 44
+##### 44
 
 Alle uitvindingen die uit de uitvoering van het programma voortvloeien, worden zo tijdig ter kennis van de Stuurgroep en de Regeringen gebracht, dat indiening van octrooiaanvragen mogelijk is; de Stuurgroep beoordeelt of het dienstig is stappen inzake octrooiering te ondernemen, en kan aanbevelingen doen aan de Regeringen met betrekking tot de grondslag waarop octrooiaanvragen kunnen worden ingediend in landen waarin wettelijke bescherming wenselijk wordt geacht.
 
 ## Wijzigingen
 
-#### 45
+##### 45
 
 Dit MvO kan door een met eenparigheid van stemmen genomen besluit van de Regeringen worden gewijzigd.
 
 ## Beëindiging, duur en opzegging van het MvO
 
-#### 46
+##### 46
 
 Dit MvO zal van kracht blijven tot de inwerkingtreding van de Intergouvernementele Overeenkomst voor Fase 3, met dien verstande dat het niet langer dan drie jaar van kracht zal blijven. Bepalingen die betrekking hebben op de rechten en verplichtingen in de paragrafen 31 t/m 42, blijven van kracht nadat dit MvO buiten werking is getreden.
 
-#### 47
+##### 47
 
 Elk der Regeringen kan dit MvO opzeggen, mits zij de Voorzitter van de Stuurgroep twaalf maanden van tevoren schriftelijk kennis geeft van haar voornemen tot opzegging. De Regering die kennis geeft van opzegging dient haar aandeel in de begroting(en) over deze periode van twaalf maanden te betalen, alsmede haar aandeel in de contractuele verplichtingen die reeds vóór de datum van de kennisgeving van opzegging zijn aangegaan, in zoverre deze de opzeggingstermijn van twaalf maanden overschrijden. De Regering die kennis geeft van opzegging, verleent de andere Regeringen alle hulp die redelijkerwijs kan worden verlangd, om hen in staat te stellen de Fase van het Definitieve Ontwerp voort te zetten, indien zij zulks wensen. In het geval van opzegging blijft het bepaalde in de paragrafen 31 t/m 36 en in de paragrafen 41 en 42 daarna van toepassing, evenals het bepaalde in de paragrafen 37 t/m 40 met betrekking tot vorderingen, voortvloeiend uit gebeurtenissen die hebben plaatsgevonden voor de opzegging.
 
 ## Datum van inwerkingtreding
 
-#### 48
+##### 48
 
 Elk der Regeringen kan haar instemming betuigen met dit MvO hetzij door:
 
@@ -328,13 +353,13 @@ Elk der Regeringen kan haar instemming betuigen met dit MvO hetzij door:
 
 - b. ondertekening behoudens vervulling van de binnenlandse constitutionele procedures, gevolgd door een kennisgeving aan de andere Regeringen dat deze procedures zijn vervuld.
 
-#### 49
+##### 49
 
 Dit MvO treedt in werking op de dag waarop de laatste kennisgeving van instemming overeenkomstig het bepaalde in paragraaf 48 is ontvangen.
 
 ## Authenticiteit
 
-#### 50
+##### 50
 
 Dit document wordt in de Franse, de Duitse, de Nederlandse en de Engelse taal in viervoud ondertekend, waarbij alle teksten gelijkelijk authentiek zijn.
 
@@ -342,17 +367,17 @@ Dit document wordt in de Franse, de Duitse, de Nederlandse en de Engelse taal in
 
 ### 1. ALGEMEEN
 
-#### 1.1. Basisovereenkomst
+##### 1.1. Basisovereenkomst
 
 1.1.1. De Basisovereenkomst voor de bouw en de exploitatie van de ETW (met inbegrip van de exploitatie van de PETW) heeft nog geen definitieve vorm, zal ten minste tien jaar geldig zijn en zal daarna van kracht blijven tot het tijdstip waarop alle Regeringen eenstemmig besluiten tot beëindiging daarvan.
 
 1.1.2. Bij eenzijdige opzegging zal geen terugbetaling van bijdragen plaatsvinden, terwijl de overblijvende partijen het recht zullen hebben de exploitatie van de ETW voort te zetten.
 
-#### 1.2. Rechtsvorm van de ETW-organisatie
+##### 1.2. Rechtsvorm van de ETW-organisatie
 
 Over de rechtsvorm van de ETW-organisatie dient nog een beslissing te worden genomen, maar het ligt in de bedoeling dat deze organisatie rechtspersoonlijkheid verkrijgt volgens de wetten van het land dat als gastheer optreedt.
 
-#### 1.3. Structuur van de ETW-organisatie
+##### 1.3. Structuur van de ETW-organisatie
 
 1.3.1. De ETW-organisatie heeft twee bestuurlijke niveaus, nl. de Raad en de Directie.
 
@@ -366,15 +391,15 @@ Over de rechtsvorm van de ETW-organisatie dient nog een beslissing te worden gen
 
 1.3.6. De leiding berust bij een directeur, bijgestaan door een college van staffunctionarissen; voor zover zulks mogelijk en/of uitvoerbaar is, wordt elk deelnemend land in dit college vertegenwoordigd.
 
-#### 1.4. Personeelsbezetting van de ETW-organisatie
+##### 1.4. Personeelsbezetting van de ETW-organisatie
 
 Het is de bedoeling dat de ETW-organisatie haar personeel in rechtstreekse dienst heeft. Met betrekking tot de functies waarvoor een universitaire of een gelijkwaardige opleiding vereist is, zal worden gestreefd naar een billijke verdeling daarvan tussen de deelnemende landen.
 
-#### 1.5. Verlening van gerichte ondersteuning
+##### 1.5. Verlening van gerichte ondersteuning
 
 Het is de bedoeling dat de ETW-organisatie contracten sluit voor de gerichte ondersteuning (personeel, diensten, voorzieningen) die door de onderscheiden nationale instellingen voor wetenschappelijk onderzoek aan deze organisatie zal worden verleend.
 
-#### 1.6. Eigendom en plaats van de PETW
+##### 1.6. Eigendom en plaats van de PETW
 
 1.6.1. De eigendom van de PETW zal worden overgedragen aan de ETW-organisatie onmiddellijk nadat deze formeel is opgericht.
 
@@ -382,7 +407,7 @@ Het is de bedoeling dat de ETW-organisatie contracten sluit voor de gerichte ond
 
 ### 2. BOUW
 
-#### 2.1. Vestigingsplaats
+##### 2.1. Vestigingsplaats
 
 2.1.1. De ETW wordt gebouwd te Keulen-Porz.
 
@@ -390,7 +415,7 @@ Het is de bedoeling dat de ETW-organisatie contracten sluit voor de gerichte ond
 
 2.1.3. De kosten van de aanleg van de infrastructuur ten behoeve van de ETW buiten de grenzen van de bouwplaats (toegangswegen, water, elektriciteit, riolering enz.) zijn voor rekening van het land dat als gastheer optreedt.
 
-#### 2.2. Bouwkosten
+##### 2.2. Bouwkosten
 
 De totale bouwkosten van het ETW-project worden geacht de volgende bestanddelen te omvatten:
 
@@ -402,33 +427,33 @@ De totale bouwkosten van het ETW-project worden geacht de volgende bestanddelen 
 
 - d. kosten van het programma voor cryogene technologie, de werkzaamheden in de PETW daarbij inbegrepen.
 
-#### 2.3. Financiering van de bouwkosten
+##### 2.3. Financiering van de bouwkosten
 
 De bouwkosten - vast te stellen in de munteenheid van het land dat als gastheer optreedt- worden gefinancierd door middel van subsidies.
 
-#### 2.4. Structuur en leiding van het project
+##### 2.4. Structuur en leiding van het project
 
 Het ETW-project wordt uitgevoerd door de verstrekking van afzonderlijke opdrachten voor de levering van een aantal belangrijke subsystemen, waarbij de leiding van het project berust bij de ETW-organisatie, die zo nodig de hulp van een of meer ingenieursbureaus kan inroepen.
 
-#### 2.5. Gunning van de bouwcontracten
+##### 2.5. Gunning van de bouwcontracten
 
 De kosten en de technische kwaliteit zijn de doorslaggevende factoren bij de gunning van contracten voor de bouw van de ETW; er wordt evenwel gestreefd naar een billijk rendement voor de deelnemende landen.
 
 ### 3. EXPLOITATIE
 
-#### 3.1
+##### 3.1
 
 De ETW-organisatie is een zichzelf bedruipende organisatie zonder winstoogmerk.
 
-#### 3.2
+##### 3.2
 
 Tenzij de Regeringen anderszins hebben bepaald, zijn alle exploitatiekosten van de ETW - met inbegrip van de kosten van kleine investeringen - voor rekening van de gebruikers van de windtunnel. Tegelijkertijd met de geactualiseerde kostenramingen zal aan de Regeringen een gezamenlijk voorstel worden aangeboden betreffende een regeling voor de verdeling van exploitatie-overschotten of -tekorten. Over dit voorstel wordt een beslissing genomen voor het einde van Fase 2.2.
 
-#### 3.3
+##### 3.3
 
 In het geval van onvoldoende capaciteit wordt voorrang gegeven aan projecten uit de deelnemende landen die recht hebben om een aandeel volgens een nader overeen te komen verdeelsleutel te gebruiken.
 
-#### 3.4
+##### 3.4
 
 Alle door de ETW-organisatie verschuldigde lokale of binnenlandse belastingen zijn voor rekening van de Regering van het land dat als gastheer optreedt.
 

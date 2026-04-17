@@ -1,13 +1,35 @@
 ---
 title: "Regeling Literatuur Caribe"
 identifier: "BWBR0050194"
-categorie: "Overig"
-publicatiedatum: 2024-09-11
-laatste_update: 2024-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050194"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-09-11"
+last_updated: "2024-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050194"
+soort: "zbo"
+stam_id: "17215273"
+version_id: "30319662"
+internal_id: "C43493371"
+label_id: "17121244"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050194/2024-09-11/0"
+intitule_bron: "Stcrt.2024-29268"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-09-10"
+intitule_in_force: "2024-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-29268"
+original_published_date: "2024-09-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-29268"
+entry_into_force_date: "2024-09-11"
+jci_1_3: "jci1.3:c:BWBR0050194&z=2024-09-11&g=2024-09-11"
+jci_1_0: "1.0:c:BWBR0050194&g=2024-09-11"
+citeertitel_status: "officieel"
+entry_into_force: "2024-09-11"
 ---
-
 # Regeling Literatuur Caribe
 
 gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overhe
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 - **Papiaments:** Papiamento en Papiamentu.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Met deze regeling wil het Letterenfonds het literaire aanbod in het Caribisch deel van het Koninkrijk vergroten, in het bijzonder het aanbod Papiamentstalige werken. Daarnaast wil het Letterenfonds de literaire infrastructuur ter plaatse versterken en talentontwikkelingstrajecten ondersteunen.
 
-#### Artikel 3. Activiteiten waarvoor subsidie kan worden aangevraagd
+##### Artikel 3. Activiteiten waarvoor subsidie kan worden aangevraagd
 
 Subsidie kan uitsluitend worden aangevraagd voor een project in de volgende categorieën:
 
@@ -56,7 +78,7 @@ Subsidie kan uitsluitend worden aangevraagd voor een project in de volgende cate
 
 - c. literaire activiteiten.
 
-#### Artikel 4. Vereisten aanvrager
+##### Artikel 4. Vereisten aanvrager
 
 1. Subsidie kan uitsluitend worden aangevraagd door:
 
@@ -64,7 +86,7 @@ Subsidie kan uitsluitend worden aangevraagd voor een project in de volgende cate
 
 - b. organisaties.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 De subsidie wordt in ieder geval geweigerd als:
 
@@ -76,7 +98,7 @@ De subsidie wordt in ieder geval geweigerd als:
 
 - d. de activiteiten uitsluitend wetenschappelijk van aard zijn of het vervaardigen van lesmateriaal betreffen.
 
-#### Artikel 6. Aanvraagperiode, verdelingssysteem en subsidieplafond
+##### Artikel 6. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
 1. De aanvraagperiode loopt vanaf de dag na publicatie van deze regeling in de Staatscourant tot en met 1 november 2024 of zoveel eerder als het subsidieplafond is bereikt. Het Letterenfonds maakt op haar website bekend wanneer het subsidieplafond is overschreden.
 
@@ -88,7 +110,7 @@ De subsidie wordt in ieder geval geweigerd als:
 
 5. De subsidieplafonds voor de jaren 2025 en later, alsook de start- en einddata van de aanvraagperiodes in die jaren, worden jaarlijks in januari bekendgemaakt op de website van het Letterenfonds en in de Staatscourant.
 
-#### Artikel 7. Vereisten aanvraag
+##### Artikel 7. Vereisten aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend met behulp van een voor deze regeling door het Letterenfonds opgesteld aanvraagformulier.
 
@@ -102,13 +124,13 @@ De subsidie wordt in ieder geval geweigerd als:
 
 4. Aanvragen die op grond van de toets aan de beoordelingscriteria, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050194&artikel=9&z=2024-09-11&g=2024-09-11), zijn afgewezen, kunnen niet meer voor hetzelfde project opnieuw worden ingediend.
 
-#### Artikel 8. Hoogte van de subsidie en looptijd project
+##### Artikel 8. Hoogte van de subsidie en looptijd project
 
 1. De subsidie bedraagt per aanvraag voor een literaire maker maximaal € 25.000 en voor een organisatie maximaal € 50.000.
 
 2. Een project dient binnen een looptijd van maximaal 1 jaar na het verlenen van de subsidie te zijn afgerond.
 
-#### Artikel 9. Beoordelingscriteria
+##### Artikel 9. Beoordelingscriteria
 
 1. Alle aanvragen worden getoetst aan de volgende criteria:
 
@@ -126,17 +148,17 @@ De subsidie wordt in ieder geval geweigerd als:
 
 2. Voor toekenning van de aanvraag dient het oordeel over alle toegepaste criteria positief te zijn.
 
-#### Artikel 10. Adviezen
+##### Artikel 10. Adviezen
 
 1. Aanvragen die in aanmerking komen voor een inhoudelijke beoordeling worden voor advies voorgelegd aan ten minste één externe adviseur.
 
 2. De externe adviseur beoordeelt de aanvragen op basis van de beoordelingscriteria, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050194&artikel=9&z=2024-09-11&g=2024-09-11), en adviseert over het al dan niet toewijzen van de subsidie en de subsidiehoogte.
 
-#### Artikel 11. Besluit
+##### Artikel 11. Besluit
 
 Het bestuur informeert de aanvrager binnen 22 weken na ontvangst van de volledige aanvraag schriftelijk over zijn besluit.
 
-#### Artikel 12. Verplichtingen subsidieontvanger
+##### Artikel 12. Verplichtingen subsidieontvanger
 
 1. Het bestuur legt aan de subsidieontvanger de verplichting op dat:
 
@@ -170,13 +192,13 @@ Het bestuur informeert de aanvrager binnen 22 weken na ontvangst van de volledig
 
 - c. de subsidieontvanger meewerkt aan dan wel er zorg voor draagt dat de accountant meewerkt aan onderzoeken naar de door hem verrichte (controle)werkzaamheden door een door het bestuur van het Letterenfonds aan te wijzen partij. De daaraan verbonden kosten worden geacht te zijn begrepen in de subsidie.
 
-#### Artikel 13. Verlening, vaststelling en betaling subsidie tot en met € 25.000
+##### Artikel 13. Verlening, vaststelling en betaling subsidie tot en met € 25.000
 
 1. Subsidieverleningen tot en met € 25.000 worden bij de verlening direct vastgesteld.
 
 2. Het vastgestelde bedrag wordt binnen acht weken aan de aanvrager betaald.
 
-#### Artikel 14. Verlening, bevoorschotting en vaststelling subsidie hoger dan € 25.000
+##### Artikel 14. Verlening, bevoorschotting en vaststelling subsidie hoger dan € 25.000
 
 1. Subsidieverleningen hoger dan € 25.000 worden binnen acht weken aan de aanvrager in de vorm van een voorschot betaald.
 
@@ -184,7 +206,7 @@ Het bestuur informeert de aanvrager binnen 22 weken na ontvangst van de volledig
 
 3. Bij subsidieverleningen hoger dan € 25.000 geldt dat als de activiteiten volgens de aanvraag zijn uitgevoerd en is voldaan aan alle aan de subsidie verbonden verplichtingen, de subsidieontvanger binnen 13 weken na het verrichten van de activiteiten waarvoor subsidie is verleend een aanvraag indient van een beschikking tot subsidievaststelling. De beschikking tot subsidievaststelling wordt door het bestuur gegeven binnen 22 weken na de aanvraag daarvan.
 
-#### Artikel 15. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
+##### Artikel 15. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
 
 1. Het bestuur kan de subsidieverlening of -vaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -196,19 +218,19 @@ Het bestuur informeert de aanvrager binnen 22 weken na ontvangst van de volledig
 
 5. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel reeds betaalde gedeelten van de subsidie of teruggevorderd. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht zoals genoemd in [artikel 12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050194&artikel=12&z=2024-09-11&g=2024-09-11), kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
-#### Artikel 16. Hardheidsclausule
+##### Artikel 16. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 17. Slotbepaling
+##### Artikel 17. Slotbepaling
 
 In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 31 december 2028. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Literatuur Caribe.
 

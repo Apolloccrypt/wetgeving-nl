@@ -1,13 +1,37 @@
 ---
-title: "Selectielijst Raad van State inzake advisering over wet- en regelgeving in hoogste en laatste instantie"
+title: "Besluit van 18 september 2003, nr. 03.003838 houdende vaststelling van een selectielijst van de Raad van State in verband met de advisering door de Raad over wet- en regelgeving in hoogste en laatste instantie"
 identifier: "BWBR0015593"
-categorie: "Overig"
-publicatiedatum: 2003-10-05
-laatste_update: 2003-10-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015593"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2003-10-05"
+last_updated: "2003-10-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015593"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5413273"
+version_id: "9707522"
+internal_id: "C25309291"
+label_id: "5388294"
+original_entry_into_force: "2003-10-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015593/2003-10-05/0"
+intitule_bron: "Stcrt.2003-191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-18"
+intitule_published: "2003-10-03"
+intitule_in_force: "2003-10-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-191"
+original_signed_date: "2003-09-18"
+original_published_date: "2003-10-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-10-05"
+jci_1_3: "jci1.3:c:BWBR0015593&z=2003-10-05&g=2003-10-05"
+jci_1_0: "1.0:c:BWBR0015593&g=2003-10-05"
+citeertitel_status: "redactioneel"
+short_title: "Selectielijst Raad van State inzake advisering over wet- en regelgeving in hoogste en laatste instantie"
+signed_date: "2003-09-18"
+entry_into_force: "2003-10-05"
 ---
-
 # Besluit van 18 september 2003, nr. 03.003838 houdende vaststelling van een selectielijst van de Raad van State in verband met de advisering door de Raad over wet- en regelgeving in hoogste en laatste instantie
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, M.C. van der Laan, van 12 september 2003, nr. WJZ/2003/41696(8139), directie Wetgeving en Juridische Zaken, gedaan in overeenstemming met de Raad van State;
@@ -18,11 +42,11 @@ Gezien het advies van de Raad voor cultuur van 13 augustus 2001, nr. arc-2001.28
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst Raad van State inzake advisering over wet- en regelgeving in hoogste en laatste instantie’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

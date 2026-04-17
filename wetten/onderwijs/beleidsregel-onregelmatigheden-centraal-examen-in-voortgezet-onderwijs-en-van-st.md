@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023"
+title: "Beleidsregel van de Inspecteur-generaal van het onderwijs van 21 september 2023, nr. 41801739, houdende regels met betrekking tot het niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs en van het staatsexamen (Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023)"
 identifier: "BWBR0048744"
-categorie: "Onderwijs"
-publicatiedatum: 2023-10-18
-laatste_update: 2023-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048744"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-10-18"
+last_updated: "2023-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048744"
+soort: "beleidsregel"
+stam_id: "16882123"
+version_id: "29671252"
+internal_id: "C42470701"
+label_id: "16794244"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048744/2023-10-18/0"
+intitule_bron: "Stcrt.2023-28371"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-21"
+intitule_published: "2023-10-17"
+intitule_in_force: "2023-10-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28371"
+original_signed_date: "2023-09-21"
+original_published_date: "2023-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-28371"
+entry_into_force_date: "2023-10-18"
+jci_1_3: "jci1.3:c:BWBR0048744&z=2023-10-18&g=2023-10-18"
+jci_1_0: "1.0:c:BWBR0048744&g=2023-10-18"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023"
+signed_date: "2023-09-21"
+entry_into_force: "2023-10-18"
 ---
-
 # Beleidsregel van de Inspecteur-generaal van het onderwijs van 21 september 2023, nr. 41801739, houdende regels met betrekking tot het niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs en van het staatsexamen (Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 2.61 tweede lid WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61) en [artikel 2.82 derde lid WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.82);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### Paragraaf 2. Centraal examen in het voortgezet onderwijs
 
-#### Artikel 2. Onregelmatigheid centraal examen
+##### Artikel 2. Onregelmatigheid centraal examen
 
 1. Onder het niet op regelmatige wijze plaatsvinden van het centraal examen, bedoeld in [artikel 2.61 tweede lid van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.61), wordt in ieder geval verstaan:
 
@@ -52,7 +78,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Indien er geen sprake is van een onregelmatigheid als bedoeld in het eerste lid, beslist de directeur Toezicht VO van de inspectie of het centraal examen op niet regelmatige wijze heeft plaatsgevonden.
 
-#### Artikel 3. Signaalbehandeling
+##### Artikel 3. Signaalbehandeling
 
 Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogelijk als volgt:
 
@@ -62,7 +88,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 - c. bij deze beoordeling vraagt de inspectie de signaalgever om een toelichting op het signaal en bespreekt de inspectie de onregelmatigheid met het bevoegd gezag en de directeur of rector van de school waar de onregelmatigheid heeft plaatsgevonden en, indien van toepassing, van de school waar de onregelmatigheid is geconstateerd.
 
-#### Artikel 4. Opnieuw afnemen van het centraal examen en ongeldig verklaren van examenwerk
+##### Artikel 4. Opnieuw afnemen van het centraal examen en ongeldig verklaren van examenwerk
 
 1. Indien de inspectie naar aanleiding van het signaal, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=2&artikel=3&z=2023-10-18&g=2023-10-18), oordeelt dat er sprake is van een onregelmatigheid beslist de inspectie of het centraal examen geheel of gedeeltelijk voor een of meer kandidaten opnieuw moet worden afgenomen en verklaart zij daartoe het gemaakte examenwerk geheel of gedeeltelijk ongeldig.
 
@@ -84,7 +110,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 - d. de inspectie besluit in het geval, bedoeld onder c, dat het centraal examen niet opnieuw hoeft worden afgenomen voor deze kandidaat.
 
-#### Artikel 5. Procedure opnieuw afnemen centraal examen
+##### Artikel 5. Procedure opnieuw afnemen centraal examen
 
 1. De inspectie volgt voor zover mogelijk de volgende procedure bij het geheel of gedeeltelijk voor een of meer kandidaten opnieuw afnemen van het centraal examen:
 
@@ -98,7 +124,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 2. Onderdeel a van het eerste lid is niet van toepassing op het cspe.
 
-#### Artikel 6. Specifiek onderzoek [artikel 15 Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15)
+##### Artikel 6. Specifiek onderzoek [artikel 15 Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15)
 
 1. De inspectie kan, naast het geheel of gedeeltelijk opnieuw laten afnemen van het centraal examen, een onderzoek doen als bedoeld in artikel 15 van de Wet op het onderwijstoezicht.
 
@@ -106,7 +132,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 #### Paragraaf 3. Centraal examen van het staatsexamen of deelstaatsexamen
 
-#### Artikel 7. Onregelmatigheid centraal examen van het staatsexamen
+##### Artikel 7. Onregelmatigheid centraal examen van het staatsexamen
 
 1. Onder het niet op regelmatige wijze plaatsvinden van het centraal examen van het staatsexamen, bedoeld in [artikel 2.82 derde lid van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.82), wordt in ieder geval verstaan:
 
@@ -124,7 +150,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 2. Indien er geen sprake is van een onregelmatigheid, bedoeld in het eerste lid, beslist de directeur Toezicht VO van de inspectie of het centraal examen van het staatsexamen op niet regelmatige wijze heeft plaatsgevonden.
 
-#### Artikel 8. Signaalbehandeling
+##### Artikel 8. Signaalbehandeling
 
 Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogelijk als volgt:
 
@@ -134,7 +160,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 - c. bij deze beoordeling vraagt de inspectie de signaalgever om een toelichting op het signaal en bespreekt de inspectie de onregelmatigheid met het College.
 
-#### Artikel 9. Opnieuw afnemen van het centraal examen van het staatsexamen en ongeldig verklaren van examenwerk
+##### Artikel 9. Opnieuw afnemen van het centraal examen van het staatsexamen en ongeldig verklaren van examenwerk
 
 1. Indien de inspectie naar aanleiding van het signaal, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048744&paragraaf=3&artikel=8&z=2023-10-18&g=2023-10-18), oordeelt dat er sprake is van een onregelmatigheid beslist de inspectie of het centraal examen van het staatsexamen geheel of gedeeltelijk voor een of meer kandidaten opnieuw moet worden afgenomen en verklaart zij daartoe het gemaakte examenwerk geheel of gedeeltelijk ongeldig.
 
@@ -144,7 +170,7 @@ Bij een signaal over een onregelmatigheid handelt de inspectie voor zover mogeli
 
 - b. aan de kandidaat examenopgaven van de verkeerde schoolsoort zijn voorgelegd.
 
-#### Artikel 10. Procedure opnieuw afnemen centraal examen van het staatsexamen
+##### Artikel 10. Procedure opnieuw afnemen centraal examen van het staatsexamen
 
 De inspectie volgt voor zover mogelijk de volgende procedure bij het geheel of gedeeltelijk voor een of meer kandidaten opnieuw afnemen van het centraal examen van het staatsexamen, met dien verstande dat DUO Examendiensten de logistiek rond het centraal examen van het staatsexamen uitvoert:
 
@@ -156,15 +182,15 @@ De inspectie volgt voor zover mogelijk de volgende procedure bij het geheel of g
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 11. Intrekken beleidsregel
+##### Artikel 11. Intrekken beleidsregel
 
 De [Beleidsregel niet op regelmatige wijze afnemen van het centraal examen in het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0038355) wordt ingetrokken.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel onregelmatigheden centraal examen in voortgezet onderwijs en van staatsexamen 2023.
 
-#### Artikel 13. Inwerkingtreding beleidsregel
+##### Artikel 13. Inwerkingtreding beleidsregel
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze beleidsregel wordt geplaatst.
 

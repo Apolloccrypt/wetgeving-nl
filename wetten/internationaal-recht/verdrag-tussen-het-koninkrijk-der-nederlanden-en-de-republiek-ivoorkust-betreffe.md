@@ -1,13 +1,24 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust betreffende de status van het personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden dat zich op het Ivoriaanse grondgebied bevindt in het kader van militaire activiteiten"
 identifier: "BWBV0007034"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-01-08
-laatste_update: 2024-01-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007034"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-01-08"
+last_updated: "2024-01-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007034"
+soort: "verdrag"
+stam_id: "10005650053"
+version_id: "10006224052"
+internal_id: "C10010067251"
+label_id: "10005631934"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007034/2024-01-08/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007034&z=2024-01-08&g=2024-01-08"
+jci_1_0: "1.0:c:BWBV0007034&g=2024-01-08"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ivoorkust betreffende de status van het personeel van het Ministerie van Defensie van het Koninkrijk der Nederlanden dat zich op het Ivoriaanse grondgebied bevindt in het kader van militaire activiteiten
 
 Het Koninkrijk der Nederlanden, enerzijds,
@@ -20,11 +31,11 @@ hierna te noemen „de Partijen”,
 
 Komen het volgende overeen:
 
-#### Artikel I. Doel
+##### Artikel I. Doel
 
 Dit Verdrag heeft als doel de aangelegenheden te regelen die verband houden met de status van burgerpersoneel en militair personeel van het ministerie van Defensie van het Koninkrijk der Nederlanden dat in het kader van militaire activiteiten tijdelijk op het grondgebied van Ivoorkust aanwezig is.
 
-#### Artikel II. Definities
+##### Artikel II. Definities
 
 Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volgende verstaan:
 
@@ -36,7 +47,7 @@ Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volge
 
 - 4. „Militair personeel”: het militair personeel van het Ministerie van Defensie van de Zendstaat, met inbegrip van buitenlands militair personeel dat een integrerend onderdeel uitmaakt van militaire eenheden van de Zendstaat op basis van een uitwisselingsprogramma.
 
-#### Artikel III. Voorwaarden bij binnenkomst en vertrek
+##### Artikel III. Voorwaarden bij binnenkomst en vertrek
 
 1. Het personeel van de Zendstaat geniet het recht het grondgebied van de Ontvangende staat binnen te komen, er te verblijven en het te verlaten. Het personeel van de Zendstaat geniet dezelfde bewegingsvrijheid als de onderdanen van de Ontvangende staat.
 
@@ -46,7 +57,7 @@ Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volge
 
 4. De autoriteiten van de Ontvangende staat verlenen assistentie aan de leden van het Personeel van de Zendstaat bij het oplossen van alle problemen die zich bij binnenkomst op of vertrek van het grondgebied kunnen voordoen met de douane- of politieautoriteiten van de Ontvangende staat.
 
-#### Artikel IV. Discipline en rechtsmacht
+##### Artikel IV. Discipline en rechtsmacht
 
 1. De disciplinaire rechtsmacht over het Personeel van de Zendstaat blijft voorbehouden aan de bevoegde autoriteiten van de Zendstaat.
 
@@ -64,7 +75,7 @@ Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volge
 
 6. De Zendstaat en diens Personeel zullen geen onderwerp zijn van rechtsmacht van de Ontvangende Staat in rechtszaken die zijn ingesteld wegens verliezen, schade of letsel veroorzaakt tijdens of als gevolg van de uitvoering van militaire activiteiten.
 
-#### Artikel V. Invoer en uitvoer
+##### Artikel V. Invoer en uitvoer
 
 1. De Ontvangende staat ziet af van diens recht bij invoer en uitvoer rechten, heffingen en belastingen te heffen of andere kosten in rekening te brengen ter zake van uitrusting, materieel, voorraden en overige goederen die de Zendstaat in verband met dit Verdrag invoert.
 
@@ -72,7 +83,7 @@ Voor de toepassing van dit Verdrag wordt onder de navolgende begrippen het volge
 
 3. Bagage, persoonlijke eigendommen, producten en andere goederen die worden ingevoerd voor exclusief gebruik van het personeel van de Zendstaat, zijn vrijgesteld van rechten, heffingen en belastingen bij invoer en uitvoer of andere kosten die in de Ontvangende staat kunnen worden opgelegd.
 
-#### Artikel VI. Uniformen, wapens en munitie
+##### Artikel VI. Uniformen, wapens en munitie
 
 In de uitoefening van militaire activiteiten in het kader van dit Verdrag:
 
@@ -88,11 +99,11 @@ In de uitoefening van militaire activiteiten in het kader van dit Verdrag:
 
 - 3. De wapens en de munitie worden opgeslagen en bewaakt in overeenstemming met de geldende wetgeving van de Ontvangende Staat.
 
-#### Artikel VII. Rijbewijzen
+##### Artikel VII. Rijbewijzen
 
 De Ontvangende staat zal als geldig aanvaarden, zonder een voorafgaand rijexamen of vergoeding, het geldige nationaal civiel of militair rijbewijs van het Personeel van de Zendstaat voor de categorie motorvoertuigen die gelijk is aan de categorie waarvoor het rijbewijs door de Zendstaat is afgegeven.
 
-#### Artikel VIII. Vorderingen tot schadevergoeding
+##### Artikel VIII. Vorderingen tot schadevergoeding
 
 1. De Partijen zien af van het instellen van vorderingen tot schadevergoeding tegen elkaar wegens schade aan of verlies van overheidseigendommen die door hun Personeel worden gebruikt en wegens letsel (met inbegrip van letsel de dood tot gevolg hebbende) geleden door hun Personeel, bij de uitoefening van diens officiële taken in het kader van dit Verdrag.
 
@@ -110,7 +121,7 @@ De Ontvangende staat zal als geldig aanvaarden, zonder een voorafgaand rijexamen
 
 5. De Zendstaat vrijwaart de Ontvangststaat voor schade aan eigendommen van laatstgenoemde of aan derden die, naar gelang van het geval, voortvloeit uit handelingen van het Personeel van de Zendstaat buiten zijn officiële taken.
 
-#### Artikel IX. Medische en tandheelkundige hulp
+##### Artikel IX. Medische en tandheelkundige hulp
 
 1. Het Personeel van de Zendstaat dient voorafgaand aan deelname aan activiteiten in de Ontvangende staat in geneeskundig en tandheelkundig opzicht gezond te zijn verklaard.
 
@@ -118,7 +129,7 @@ De Ontvangende staat zal als geldig aanvaarden, zonder een voorafgaand rijexamen
 
 3. De overige geneeskundige en tandheelkundige zorg, met inbegrip van opname in een ziekenhuis, worden verleend onder dezelfde voorwaarden als die welke gelden voor Personeel van de Ontvangende staat.
 
-#### Artikel X. Overlijden
+##### Artikel X. Overlijden
 
 1. De autoriteiten van de Zendstaat die aanwezig zijn in de Ontvangende staat zijn bevoegd zorg te dragen voor de repatriëring van het stoffelijk overschot van een overleden lid van het personeel van de Zendstaat, alsmede van zijn persoonlijke bezittingen, en mogen daartoe gepaste maatregelen nemen
 
@@ -126,25 +137,25 @@ De Ontvangende staat zal als geldig aanvaarden, zonder een voorafgaand rijexamen
 
 3. De Ontvangende staat en de Zendstaat werken zo veel mogelijk samen om op zo kort mogelijke termijn de repatriëring te waarborgen van het stoffelijk overschot van een overleden lid van het Personeel van de Zendstaat.
 
-#### Artikel XI. Gedetailleerde afspraken
+##### Artikel XI. Gedetailleerde afspraken
 
 Tussen de bevoegde autoriteiten van de Partijen kunnen gedetailleerde afspraken worden gemaakt over de uitvoering van dit Verdrag.
 
-#### Artikel XII. Geschillenbeslechting
+##### Artikel XII. Geschillenbeslechting
 
 Elk geschil dat voortvloeit uit de interpretatie, de toepassing of uitvoering van dit Verdrag wordt in der minne en in onderlinge overeenstemming geschikt.
 
-#### Artikel XIII. Wijziging
+##### Artikel XIII. Wijziging
 
 1. De Partijen kunnen te allen tijde wijzigingen in dit Verdrag voorstellen na de inwerkingtreding ervan. Elke wijziging van dit Verdrag zal in onderling overleg worden aangenomen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat elke Partij de andere Partij schriftelijk en langs diplomatieke weg heeft medegedeeld dat aan de grondwettelijke of interne voorwaarden voor de inwerkingtreding van de wijziging is voldaan.
 
 2. Indien er geen overeenstemming is bereikt, kan elke partij dit Verdrag opzeggen overeenkomstig [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0007034&artikel=XIV&z=2024-01-08&g=2024-01-08).
 
-#### Artikel XIV. Opzegging
+##### Artikel XIV. Opzegging
 
 De Partijen kunnen dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving en via diplomatieke weg. Deze kennisgeving wordt door de ene Partij aan de andere gedaan met inachtneming van een opzegtermijn van zes maanden.
 
-#### Artikel XV. Inwerkingtreding
+##### Artikel XV. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de Partijen elkaar schriftelijk en langs diplomatieke weg ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingstelling van dit Verdrag is voldaan.
 

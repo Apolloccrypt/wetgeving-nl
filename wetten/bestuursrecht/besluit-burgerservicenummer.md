@@ -1,13 +1,39 @@
 ---
-title: "Besluit burgerservicenummer"
+title: "Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet algemene bepalingen burgerservicenummer (Besluit burgerservicenummer)"
 identifier: "BWBR0022829"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-06
-laatste_update: 2025-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022829"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-06"
+last_updated: "2025-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022829"
+soort: "AMvB"
+stam_id: "9276513"
+version_id: "14891122"
+internal_id: "C20260291"
+label_id: "9255334"
+dtd_version: "2.0"
+original_entry_into_force: "2007-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022829/2025-12-06/0"
+intitule_bron: "Stb.2007-443"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-30"
+intitule_published: "2007-11-15"
+intitule_in_force: "2007-11-15"
+intitule_status: "goed"
+original_publication: "Stb.2007-443"
+original_signed_date: "2007-10-30"
+original_published_date: "2007-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-443"
+entry_into_force_date: "2007-11-16"
+jci_1_3: "jci1.3:c:BWBR0022829&z=2025-12-06&g=2025-12-06"
+jci_1_0: "1.0:c:BWBR0022829&g=2025-12-06"
+citeertitel_status: "officieel"
+short_title: "Besluit burgerservicenummer"
+signed_date: "2007-10-30"
+entry_into_force: "2007-11-16"
 ---
-
 # Besluit van 30 oktober 2007, houdende regels ter uitvoering van de Wet algemene bepalingen burgerservicenummer (Besluit burgerservicenummer)
 
 ### Hoofdstuk 1. Begripsbepalingen
@@ -20,11 +46,11 @@ bron: "https://wetten.overheid.nl/BWBR0022829"
 
 ### Hoofdstuk 4. Transparantie en controle
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Wijzigingsbesluit Besluit gemeentelijke basisadministratie persoonsgegevens (invoering verstrekkingsvoorziening).
 
@@ -62,7 +88,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -76,11 +102,11 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 1. Inrichting, instandhouding, werking en beveiliging van de beheervoorziening
 
-#### Artikel 2
+##### Artikel 2
 
 Bij ministeriële regeling wordt een systeembeschrijving vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De systeembeschrijving bevat een beschrijving van:
 
@@ -102,11 +128,11 @@ De systeembeschrijving bevat een beschrijving van:
 
 - i. de hoofdlijnen van het beheer van de beheervoorziening.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister draagt zorg dat de beheervoorziening functioneert op een wijze die overeenstemt met de systeembeschrijving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister draagt zorg voor de nodige maatregelen van technische en organisatorische aard ter beveiliging van de in het nummerregister opgenomen gegevens tegen verlies of aantasting van deze gegevens en tegen onbevoegde kennisneming, opneming, wijziging, verwijdering of verstrekking van deze gegevens.
 
@@ -130,11 +156,11 @@ Onze Minister draagt zorg dat de beheervoorziening functioneert op een wijze die
 
 #### Paragraaf 2. Het nummerregister
 
-#### Artikel 6
+##### Artikel 6
 
 Het nummerregister bevat met betrekking tot de nummers die daarin zijn opgenomen de administratieve gegevens die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=1&z=2025-12-06&g=2025-12-06) bij dit besluit.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
@@ -142,11 +168,11 @@ Vervallen
 
 #### Paragraaf 1. De aansluiting op de beheervoorziening
 
-#### Artikel 8
+##### Artikel 8
 
 Een gebruiker die is aangesloten op de beheervoorziening draagt er zorg voor dat de verbinding van zijn geautomatiseerde systeem met de beheervoorziening en de uitwisseling van gegevens tussen zijn geautomatiseerde systeem en de beheervoorziening functioneren op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verantwoordelijke voor een registratie als bedoeld in [artikel 3, eerste lid, onder d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=3) draagt er zorg voor dat zijn geautomatiseerde systeem ten behoeve van de uitwisseling van gegevens tussen hem en Onze Minister functioneert op een wijze die overeenstemt met hetgeen daarover in de systeembeschrijving is vastgelegd.
 
@@ -154,17 +180,17 @@ Een gebruiker die is aangesloten op de beheervoorziening draagt er zorg voor dat
 
 #### Paragraaf 2. De verstrekking van gegevens in verband met de toekenning van burgerservicenummers
 
-#### Artikel 10
+##### Artikel 10
 
 Onze Minister deelt desgevraagd aan een college van burgemeester en wethouders of een bestuurscollege in verband met de uitvoering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) of [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22) mede of een door het college opgegeven nummer een burgerservicenummer is.
 
-#### Artikel 11
+##### Artikel 11
 
 1. In verband met de uitvoering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) of [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22) verstrekt Onze Minister aan het bestuursorgaan dat het burgerservicenummer toekent op verzoek de gegevens die zijn vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=2&z=2025-12-06&g=2025-12-06).
 
 2. Uit de basisregistratie personen worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het eerste lid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In verband met de uitvoering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=8) of [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=22) verstrekt Onze Minister aan het bestuursorgaan dat het burgerservicenummer toekent op verzoek over een Nederlands document als bedoeld in [artikel 1, eerste lid, onder 1°, 2° of 4°, van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1), met behulp waarvan een persoon zich identificeert:
 
@@ -176,11 +202,11 @@ Onze Minister deelt desgevraagd aan een college van burgemeester en wethouders o
 
 #### Paragraaf 3. De verstrekking van gegevens aan gebruikers
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering van [artikel 14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=14) mede of het door de gebruiker opgegeven nummer een burgerservicenummer is.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Aan een gebruiker worden op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15) de gegevens verstrekt, die zijn vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&bijlage=3&z=2025-12-06&g=2025-12-06).
 
@@ -188,7 +214,7 @@ Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering va
 
 3. Uit de basisregistratie personen worden aan Onze Minister de gegevens verstrekt, die hij nodig heeft in verband met de uitvoering van het tweede lid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan een gebruiker wordt op verzoek in verband met de uitvoering van [artikel 15, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=15) medegedeeld:
 
@@ -202,11 +228,11 @@ Onze Minister deelt op verzoek van een gebruiker in verband met de uitvoering va
 
 ### Hoofdstuk 4. Transparantie en controle
 
-#### Artikel 16
+##### Artikel 16
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop de inlichtingen, bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=18), worden verstrekt.
 
-#### Artikel 17
+##### Artikel 17
 
 Het onderzoek, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=21), leidt tot een oordeel over:
 
@@ -218,11 +244,11 @@ Het onderzoek, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.ov
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Het Besluit burgerservicenummer treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2025-12-06&g=2025-12-06), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het Besluit burgerservicenummer wordt geplaatst. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 november 2007, treedt [artikel 19, aanhef en onder 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022829&hoofdstuk=5&artikel=19&z=2025-12-06&g=2025-12-06), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin het besluit wordt geplaatst en werkt het terug tot en met 2 november 2007.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit burgerservicenummer.
 

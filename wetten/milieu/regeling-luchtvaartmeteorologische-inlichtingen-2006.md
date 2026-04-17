@@ -1,13 +1,38 @@
 ---
 title: "Regeling luchtvaartmeteorologische inlichtingen 2006"
 identifier: "BWBR0019375"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019375"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019375"
+soort: "ministeriele-regeling"
+stam_id: "7783663"
+version_id: "22892282"
+internal_id: "C33108521"
+label_id: "7771394"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019375/2024-01-01/0"
+intitule_bron: "Stcrt.2006-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-22"
+intitule_published: "2006-01-19"
+intitule_in_force: "2006-01-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44671"
+original_signed_date: "2015-12-08"
+original_published_date: "2015-12-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-44671"
+entry_into_force_date: "2015-12-08"
+jci_1_3: "jci1.3:c:BWBR0019375&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0019375&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2015-12-08"
+entry_into_force: "2015-12-08"
 ---
-
 # Regeling luchtvaartmeteorologische inlichtingen 2006
 
 Handelende in overeenstemming met de Staatssecretaris van Defensie;
@@ -16,7 +41,7 @@ Gelet op [artikel 8 van de Wet op het Koninklijk Nederlands Meteorologisch Insti
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -80,7 +105,7 @@ weerradar: samengesteld beeld van Nederlandse weerradar-ontvangers;
 
 windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verticale of horizontale windrichtingsverandering of windsnelheidsveranderingen.
 
-#### Artikel 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
+##### Artikel 2. Luchtvaartmeteorologische inlichtingen ten behoeve van de burgerluchtvaart
 
 1. De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie verstrekt ten behoeve van de taakuitvoering van de navolgende gebruikers, luchtvaartmeteorologische inlichtingen aan:
 
@@ -136,7 +161,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 4. Medewerkers die werkzaamheden uitvoeren ten behoeve van de vergaring, beschikbaarstelling en verstrekking van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling voldoen aan ten minste de eisen van de Internationale Burgerluchtvaartorganisatie vastgelegd in bijlage 3 bij het verdrag en van de Wereld Meteorologische Organisatie vastgelegd in technisch voorschrift 49 Volume I en publicatienummers 1083 en 1205.
 
-#### Artikel 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor het vluchtinformatiegebied Amsterdam en het continentaal plat
+##### Artikel 3. Luchtvaartmeteorologische inlichtingen beschikbaar voor het vluchtinformatiegebied Amsterdam en het continentaal plat
 
 1. De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers in het vluchtinformatiegebied Amsterdam en het continentaal plat de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
@@ -168,7 +193,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 2. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste lid, hebben een bewaartermijn van minimaal 100 dagen.
 
-#### Artikel 4. Luchtvaartmeteorologische inlichtingen beschikbaar op luchthavens in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer
+##### Artikel 4. Luchtvaartmeteorologische inlichtingen beschikbaar op luchthavens in gebruik of aangewezen als uitwijkluchthaven voor internationaal geregeld luchtvervoer
 
 1. De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt tijdens de reguliere openstellingsuren van luchthavens, gepubliceerd in de luchtvaartgids, de volgende luchtvaartmeteorologische inlichtingen beschikbaar:
 
@@ -230,7 +255,7 @@ windshear waarschuwingen: waarschuwing voor opgetreden of verwachte sterke verti
 
 4. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld in dit artikel, hebben een bewaartermijn van minimaal 100 dagen.
 
-#### Artikel 5. Luchtvaartmeteorologische inlichtingen beschikbaar op luchthavens in gebruik voor internationaal privé en zakenluchtverkeer
+##### Artikel 5. Luchtvaartmeteorologische inlichtingen beschikbaar op luchthavens in gebruik voor internationaal privé en zakenluchtverkeer
 
 De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt tijdens de reguliere openstellingsuren van de luchthaven, indien sprake is van Aerodrome Flight Information Service (AFIS) dienstverlening, de volgende luchtvaartmeteorologische inlichtingen beschikbaar voor de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers:
 
@@ -246,7 +271,7 @@ De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&a
 
 - f. de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert onder instrumentweersomstandigheden.
 
-#### Artikel 6. Luchtvaartmeteorologische inlichtingen beschikbaar op helikopterdekken op de Noordzee en het continentaal plat
+##### Artikel 6. Luchtvaartmeteorologische inlichtingen beschikbaar op helikopterdekken op de Noordzee en het continentaal plat
 
 1. De vergunninghouder van de aangewezen mijnbouwinstallatie stelt ingevolge [artikel 6.3.1 van de Mijnbouwregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0014468&artikel=6.3.1) de meteorologische parameters beschikbaar aan de in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie. De in artikel 1b, eerste lid, aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie stelt op basis hiervan AUTO METARs beschikbaar ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers.
 
@@ -254,7 +279,7 @@ De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&a
 
 3. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste en tweede lid, hebben een bewaartermijn van minimaal 100 dagen.
 
-#### Artikel 7. Luchtvaartmeteorologische inlichtingen beschikbaar op militaire luchthavens met burgermedegebruik
+##### Artikel 7. Luchtvaartmeteorologische inlichtingen beschikbaar op militaire luchthavens met burgermedegebruik
 
 1. Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers maakt de Minister van Defensie de volgende specifieke luchtvaartmeteorologische inlichtingen tijdens de reguliere openstellingsuren van de luchthaven beschikbaar:
 
@@ -272,7 +297,7 @@ De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&a
 
 2. Luchtvaartmeteorologische inlichtingen beschikbaar gemaakt als bedoeld onder het eerste lid, hebben een bewaartermijn van minimaal 100 dagen.
 
-#### Artikel 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
+##### Artikel 8. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van de voorbereiding van een vlucht
 
 Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers verstrekt de in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen dienstverlener van meteorologische diensten voor de luchtvaartnavigatie luchtvaartmeteorologische inlichtingen als bedoeld onder artikel 2, tweede lid, door middel van:
 
@@ -282,7 +307,7 @@ Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https
 
 - c. teletekst.
 
-#### Artikel 9. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchthavenoperaties en het verlenen van luchtverkeersdiensten
+##### Artikel 9. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van vluchtuitvoering, luchthavenoperaties en het verlenen van luchtverkeersdiensten
 
 1. De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie verstrekt ten behoeve van de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen b, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers luchtvaartmeteorologische inlichtingen door middel van:
 
@@ -292,7 +317,7 @@ Voor de voorbereiding van een vlucht door de onder [artikel 2, eerste lid](https
 
 2. De in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen verlener van meteorologische diensten voor de luchtvaartnavigatie kan voorwaarden verbinden aan de toegang tot de gegevensdragers als bedoeld in het eerste lid om zorg te dragen voor een veilige en efficiënte verstrekking van luchtvaartmeteorologische inlichtingen.
 
-#### Artikel 10. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
+##### Artikel 10. Verstrekking van luchtvaartmeteorologische inlichtingen ten behoeve van het onderzoek van ongevallen en incidenten
 
 Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=2&z=2024-01-01&g=2024-01-01), genoemde gebruikers worden luchtvaartmeteorologische inlichtingen verstrekt door middel van:
 
@@ -300,31 +325,31 @@ Voor de taakuitvoering van de onder [artikel 2, eerste lid, onderdelen f tot en 
 
 - b. internet self-briefing systeem.
 
-#### Artikel 11. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
+##### Artikel 11. Luchtvaartmeteorologische inlichtingen aan buitenlandse organisaties
 
 In overeenstemming met de normen van de Internationale Burgerluchtvaartorganisatie en bilaterale overeenkomsten maakt de in [artikel 1b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=1b&z=2024-01-01&g=2024-01-01), aangewezen dienstverlener van meteorologische diensten voor de luchtvaartnavigatie luchtvaartmeteorologische inlichtingen als genoemd in [artikel 3, eerste lid, onderdelen a, b, c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=3&z=2024-01-01&g=2024-01-01), [artikel 4, eerste lid, onderdeel b, tweede lid, onder 1°, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=4&z=2024-01-01&g=2024-01-01), [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=6&z=2024-01-01&g=2024-01-01) en [artikel 7, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0019375&artikel=7&z=2024-01-01&g=2024-01-01), beschikbaar aan buitenlandse organisaties.
 
-#### Artikel 12
+##### Artikel 12
 
 De [Regeling luchtvaart meteorologische inlichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008732) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen 2006.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Deze regeling berust op [artikel 5.13a van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.13a) en [artikel 26, tweede lid, van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=26).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1b. Aanwijzing
+##### Artikel 1b. Aanwijzing
 
 1. Het Koninklijk Nederlands Meteorologisch Instituut wordt aangewezen als verlener van meteorologische diensten voor de luchtvaartnavigatie ten behoeve van het burgerluchtverkeer, als bedoeld in artikel 9, eerste lid, van de luchtvaartnavigatiedienstenverordening, voor het gehele luchtruim dat onder de verantwoordelijkheid van de Minister van Infrastructuur en Waterstaat valt. Hiertoe vervult het Koninklijk Nederlands Meteorologisch Instituut in ieder geval de functies van:
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 22 februari 2022, nr. PO/FenV/31402895, houdende regels voor het verstrekken van bijzondere en aanvullende bekostiging voor het voortgezet speciaal onderwijs en praktijkonderwijs in verband met de aanpak van jeugdwerkloosheid als gevolg van de coronacrisis voor 2022 (Regeling bijzondere en aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022)"
 identifier: "BWBR0046401"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046401"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046401"
+soort: "ministeriele-regeling"
+stam_id: "16290403"
+version_id: "28530232"
+internal_id: "C40254741"
+label_id: "16216674"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046401/2022-08-01/0"
+intitule_bron: "Stcrt.2022-6434"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-22"
+intitule_published: "2022-03-08"
+intitule_in_force: "2022-03-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-8090"
+original_signed_date: "2022-03-15"
+original_published_date: "2022-03-25"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-8090"
+entry_into_force_date: "2022-03-15"
+jci_1_3: "jci1.3:c:BWBR0046401&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0046401&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022"
+signed_date: "2022-03-15"
+entry_into_force: "2022-03-15"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 22 februari 2022, nr. PO/FenV/31402895, houdende regels voor het verstrekken van bijzondere en aanvullende bekostiging voor het voortgezet speciaal onderwijs en praktijkonderwijs in verband met de aanpak van jeugdwerkloosheid als gevolg van de coronacrisis voor 2022 (Regeling bijzondere en aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022)
 
 Gelet op [artikel 120, eerste en vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=120), [artikel 82, eerste en tweede lid, van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=82) en [artikel 2.2.3, derde en vierde lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.2.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020**: [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Aanvullende bekostiging voortgezet speciaal onderwijs
+##### Artikel 2. Aanvullende bekostiging voortgezet speciaal onderwijs
 
 1. Het bevoegd gezag van een school voor voortgezet speciaal onderwijs waar op 1 oktober 2021 ten minste één leerling met het arbeidsmarktgerichte uitstroomprofiel was ingeschreven en van wie het persoonsgebonden nummer tezamen met de basisgegevens, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=8), uiterlijk op 1 december 2021 waren opgenomen in het register onderwijsdeelnemers, bedoeld in [artikel 14 van de Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012&artikel=14), ontvangt voor het kalenderjaar 2022 aanvullende bekostiging.
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 5. [Artikel 113 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=113) is van overeenkomstige toepassing.
 
-#### Artikel 3. Aanvullende bekostiging praktijkonderwijs
+##### Artikel 3. Aanvullende bekostiging praktijkonderwijs
 
 1. Voor het kalenderjaar 2022 ontvangt het bevoegd gezag van een school voor praktijkonderwijs aanvullende bekostiging praktijkonderwijs.
 
@@ -60,29 +86,29 @@ In deze regeling wordt verstaan onder:
 
 5. [Artikel 5.39 van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.39) is van overeenkomstige toepassing, met dien verstande dat de aanvullende bekostiging praktijkonderwijs zowel kan worden aangewend voor voorzieningen in de huisvesting, als voor personeels- of exploitatiekosten.
 
-#### Artikel 4. Vaststelling en betaling
+##### Artikel 4. Vaststelling en betaling
 
 1. De minister stelt de bekostiging, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=2&z=2022-08-01&g=2022-08-01), uiterlijk in mei 2022 ambtshalve vast. De Minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022.
 
 2. De minister stelt de bekostiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046401&artikel=3&z=2022-08-01&g=2022-08-01), uiterlijk in mei 2022 ambtshalve vast op basis van de voorlopige telling op 1 oktober 2021 en stelt deze uiterlijk in december 2022 ambtshalve gewijzigd vast op basis van de definitieve telling op 1 oktober 2021. De minister betaalt het bedrag van bekostiging ineens uiterlijk in mei 2022 en wijzigt het bedrag van bekostiging ineens uiterlijk in december 2022 indien de definitieve telling daartoe aanleiding geeft.
 
-#### Artikel 5. Verantwoording aanvullende bekostiging
+##### Artikel 5. Verantwoording aanvullende bekostiging
 
 De besteding van de aanvullende bekostiging op grond van deze regeling wordt verantwoord in de jaarverslaglegging overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en heeft betrekking op kalenderjaar 2022.
 
 2. Deze regeling vervalt met ingang van 31 december 2030.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging voor aanpak jeugdwerkloosheid als gevolg van de coronacrisis 2022.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Omhangbepaling
+##### Artikel 5a. Omhangbepaling
 
 Deze regeling is mede gebaseerd op [artikel 117, tweede en derde lid, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [artikel 5.9, eerste lid, van de WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9).
 

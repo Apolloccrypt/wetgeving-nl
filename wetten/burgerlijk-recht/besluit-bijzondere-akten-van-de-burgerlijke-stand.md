@@ -1,13 +1,39 @@
 ---
-title: "Besluit bijzondere akten van de burgerlijke stand"
+title: "Besluit van 11 september 1997, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (Besluit bijzondere akten van de burgerlijke stand)"
 identifier: "BWBR0008900"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008900"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008900"
+soort: "AMvB"
+stam_id: "615883"
+version_id: "895542"
+internal_id: "C895541"
+label_id: "597754"
+dtd_version: "2.0"
+original_entry_into_force: "1997-09-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008900/2014-04-01/0"
+intitule_bron: "Stb.1997-400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-11"
+intitule_published: "1997-09-25"
+intitule_in_force: "1997-09-25"
+intitule_status: "goed"
+original_publication: "Stb.1997-400"
+original_signed_date: "1997-09-11"
+original_published_date: "1997-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-400"
+entry_into_force_date: "1997-09-26"
+jci_1_3: "jci1.3:c:BWBR0008900&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0008900&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bijzondere akten van de burgerlijke stand"
+signed_date: "1997-09-11"
+entry_into_force: "1997-09-26"
 ---
-
 # Besluit van 11 september 1997, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (Besluit bijzondere akten van de burgerlijke stand)
 
 Op voordracht van de Staatssecretaris van Justitie van 29 januari 1997, Directie Wetgeving, nr. 603203/97/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Justitie van 5 september 19
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente, waar een persoon is geboren of overleden, ontbreekt of niet bereikbaar is, kan een voorlopige akte van geboorte of overlijden worden opgemaakt buiten de registers van de burgerlijke stand door een ambtenaar van de burgerlijke stand van een andere gemeente, een buitengewoon ambtenaar van de burgerlijke stand, de burgemeester, de secretaris of een wethouder van de gemeente waar de geboorte of het overlijden plaatsvond, een notaris, of een ten kantore van een notaris werkzame kandidaat-notaris, een advocaat, een door Onze Minister van Defensie aangewezen officier van de krijgsmacht of een door Onze Minister van Justitie aangewezen ambtenaar.
 
@@ -28,11 +54,11 @@ Hebben goedgevonden en verstaan:
 
 3. Hij neemt bij het opmaken van de akte, zoveel als het naar zijn oordeel mogelijk is, de bepalingen van de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=2014-04-01&g=2014-04-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2014-04-01&g=2014-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2014-04-01&g=2014-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=2014-04-01&g=2014-04-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=2014-04-01&g=2014-04-01), in acht.
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buitengewone omstandigheden de ambtenaar van de burgerlijke stand van de gemeente waar een persoon is geboren of overleden, naar zijn oordeel verhinderd wordt overeenkomstig de bepalingen van het Burgerlijk Wetboek een akte van geboorte of overlijden in de registers op te nemen, maakt hij buiten die registers een voorlopige akte op, waarbij hij voor het overige, zoveel als het naar zijn oordeel mogelijk is, de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=4&z=2014-04-01&g=2014-04-01) tot en met [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2014-04-01&g=2014-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2014-04-01&g=2014-04-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=13&z=2014-04-01&g=2014-04-01) en [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=14&z=2014-04-01&g=2014-04-01), in acht neemt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot het buiten de registers van de burgerlijke stand opmaken van de voorlopige akten van overlijden van militairen en van andere tot de krijgsmacht behorende personen die te velde, in de slag, of in 's Rijks dienst buiten Nederland zijn overleden, zijn mede bevoegd de officieren van administratie of van de militaire administratie, of degenen die als zodanig optreden. Is een zodanige officier of als zodanig optredend militair niet aanwezig, dan wijst de bevelvoerende officier een andere militair voor het opmaken van deze akten aan.
 
@@ -42,7 +68,7 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 4. Hij kan de voorlopige akte van overlijden ook opmaken indien van het overlijden geen aangifte is gedaan, doch het overlijden blijkt uit een rapport, afkomstig van het met berging, identificatie en begraven belaste onderdeel van de krijgsmacht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorlopige akten worden duidelijk leesbaar in de Nederlandse taal gesteld. Zij mogen uitsluitend worden vervaardigd met toepassing van de in artikel 2, tweede lid, van de Regeling papier en schrijfmiddelen voor de burgerlijke stand genoemde middelen.
 
@@ -50,11 +76,11 @@ Wanneer ten gevolge van een verbod van verkeer of ten gevolge van andere buiteng
 
 3. De akte wordt ondertekend door de aangever, behalve in het geval van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2014-04-01&g=2014-04-01), en door degene die haar heeft opgemaakt. Zo mogelijk leest degene die de akte heeft opgemaakt haar, voor de ondertekening plaatsvindt, aan de aangever voor.
 
-#### Artikel 5
+##### Artikel 5
 
 Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duidelijk aan de voet van de akte aangegeven en worden goedgekeurd en ondertekend door degenen die de akte ondertekenen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In de voorlopige akten mag, behoudens het vijfde lid van dit artikel en artikel 7, sub **a**, niets bij verkorting worden uitgedrukt.
 
@@ -68,7 +94,7 @@ Bijvoegingen en doorhalingen bij het opmaken van de voorlopige akten worden duid
 
 6. De aanduiding van een plaats omvat zo mogelijk de vermelding van de gemeente.
 
-#### Artikel 7
+##### Artikel 7
 
 In de voorlopige akten worden opgenomen:
 
@@ -78,11 +104,11 @@ In de voorlopige akten worden opgenomen:
 
 - c). de handtekeningen van degene die de akte heeft opgemaakt en van de aangever, behalve in het geval, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=3&z=2014-04-01&g=2014-04-01).
 
-#### Artikel 8
+##### Artikel 8
 
 De voorlopige akten van geboorte en van overlijden bestaan uit vijf gedeelten die door horizontale lijnen van elkaar zijn gescheiden. In het eerste gedeelte worden opgenomen de gegevens die in een uittreksel uit de akte moeten worden opgenomen. In het tweede gedeelte worden opgenomen de gegevens die wegens hun vertrouwelijk karakter niet in een uittreksel worden opgenomen. In het derde gedeelte worden de overige gegevens opgenomen. In het vierde gedeelte worden de ambtelijke gegevens en de handtekeningen opgenomen. In het vijfde gedeelte worden de door degene die de voorlopige akte opmaakt aan te brengen bijvoegingen of doorhalingen opgenomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De voorlopige akte van geboorte vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -114,11 +140,11 @@ De voorlopige akten van geboorte en van overlijden bestaan uit vijf gedeelten di
 
 5. Is de dag van de geboorte van het kind niet bekend, dan vermeldt de akte, in het eerste gedeelte, de vermoedelijke dag van geboorte.
 
-#### Artikel 10
+##### Artikel 10
 
 Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identiteit vast van de aangever aan de hand van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&artikel=1).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorlopige akte van overlijden vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -164,13 +190,13 @@ Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identit
 
 7. De plaats waar het lijk is gevonden, wordt zo nauwkeurig mogelijk aangeduid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op de akte van aangifte van een kind dat levenloos ter wereld is gekomen, is [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2014-04-01&g=2014-04-01) van overeenkomstige toepassing, met dien verstande dat de akte alleen een geslachtsnaam en voornamen vermeldt voor zover de ouders dit wensen.
 
 2. Wanneer een pasgeboren kind overlijdt voordat aangifte van geboorte heeft plaatsgevonden, wordt zowel een voorlopige akte van geboorte als een voorlopige akte van overlijden opgemaakt overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=9&z=2014-04-01&g=2014-04-01) respectievelijk [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008900&artikel=11&z=2014-04-01&g=2014-04-01).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De voorlopige akten worden door de in de voorgaande artikelen genoemde personen in tweevoud opgemaakt, zorgvuldig bewaard en in volgorde van de datum van opmaken gerangschikt.
 
@@ -178,15 +204,15 @@ Degene die de voorlopige akte van geboorte opmaakt, stelt zo mogelijk de identit
 
 3. De ambtenaar van de burgerlijke stand maakt in het desbetreffende register een akte op aan de hand van de voorlopige akte, met dien verstande dat hij gegevens die ontbreken of hem blijken onjuist te zijn, zoveel mogelijk aanvult of verbetert.
 
-#### Artikel 14
+##### Artikel 14
 
 Het Besluit bijzondere akten van de Burgerlijke Stand, wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit bijzondere akten van de burgerlijke stand.
 

@@ -1,14 +1,41 @@
 ---
-title: "Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek"
+title: "Wet van 19 mei 2011 tot vaststelling en invoering van Boek 10 (Internationaal privaatrecht) van het Burgerlijk Wetboek (Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek)"
 identifier: "BWBR0030059"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030059"
+country: "nl"
+rank: "wet"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030059"
+soort: "wet"
+stam_id: "11339943"
+version_id: "18599482"
+internal_id: "C26068901"
+label_id: "11313744"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030059/2012-01-01/0"
+intitule_bron: "Stb.2011-272"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-19"
+intitule_published: "2011-06-08"
+intitule_in_force: "2011-07-08"
+intitule_status: "goed"
+original_publication: "Stb.2011-272"
+original_signed_date: "2011-05-19"
+original_published_date: "2011-06-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "32137"
+original_url_id: "stb-2011-272"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030059&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0030059&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek"
+signed_date: "2011-05-19"
+entry_into_force: "2012-01-01"
 ---
-
-# Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek
+# Wet van 19 mei 2011 tot vaststelling en invoering van Boek 10 (Internationaal privaatrecht) van het Burgerlijk Wetboek (Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,27 +43,27 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is de bestaande wettelij
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Burgerlijk Wetboek.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet algemene bepalingen.
 
-#### Artikel IIIa
+##### Artikel IIIa
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel IIIB
+##### Artikel IIIB
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel IV
+##### Artikel IV
 
 De volgende wetten worden ingetrokken:
 
@@ -72,15 +99,15 @@ De volgende wetten worden ingetrokken:
 
 - p. de [Wet van 18 maart 1993, Stb. 168, houdende enige bepalingen van internationaal privaatrecht met betrekking tot het zeerecht, het binnenvaartrecht en het luchtrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005917).
 
-#### Artikel IVA
+##### Artikel IVA
 
 Wijzigt het Burgerlijk Wetboek Boek 10.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel VI
+##### Artikel VI
 
 Deze wet wordt aangehaald als: Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek.
 

@@ -1,13 +1,36 @@
 ---
 title: "Wijziging regelingen kinderopvang en buitenschoolse opvang"
 identifier: "BWBR0012926"
-categorie: "Onderwijs"
-publicatiedatum: 2001-11-07
-laatste_update: 2001-11-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012926"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-11-07"
+last_updated: "2001-11-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012926"
+soort: "beleidsregel"
+stam_id: "6525773"
+version_id: "11267862"
+internal_id: "C15200341"
+label_id: "6514454"
+original_entry_into_force: "2001-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012926/2001-11-07/0"
+intitule_bron: "Uitleg.2001-25"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-25"
+intitule_published: "2001-11-07"
+intitule_in_force: "2001-11-07"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-25"
+original_signed_date: "2001-10-25"
+original_published_date: "2001-11-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-11-07"
+jci_1_3: "jci1.3:c:BWBR0012926&z=2001-11-07&g=2001-11-07"
+jci_1_0: "1.0:c:BWBR0012926&g=2001-11-07"
+citeertitel_status: "redactioneel"
+signed_date: "2001-10-25"
+entry_into_force: "2001-11-07"
 ---
-
 # Wijziging regelingen kinderopvang en buitenschoolse opvang
 
 ### 1. Aanleiding

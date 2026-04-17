@@ -1,13 +1,36 @@
 ---
 title: "Instelling Werkgroep medische zorg in penitentiaire inrichtingen"
 identifier: "BWBR0007328"
-categorie: "Sociaal recht"
-publicatiedatum: 1995-04-08
-laatste_update: 1995-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007328"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-04-08"
+last_updated: "1995-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007328"
+soort: "ministeriele-regeling"
+stam_id: "3543043"
+version_id: "5326122"
+internal_id: "C5519211"
+label_id: "3522994"
+original_entry_into_force: "1995-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007328/1995-04-08/0"
+intitule_bron: "Stcrt.1995-95"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-07"
+intitule_published: "1995-05-17"
+intitule_in_force: "1995-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-95"
+original_signed_date: "1995-04-07"
+original_published_date: "1995-05-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-04-08"
+jci_1_3: "jci1.3:c:BWBR0007328&z=1995-04-08&g=1995-04-08"
+jci_1_0: "1.0:c:BWBR0007328&g=1995-04-08"
+citeertitel_status: "officieel"
+signed_date: "1995-04-07"
+entry_into_force: "1995-04-08"
 ---
-
 # Instelling Werkgroep medische zorg in penitentiaire inrichtingen
 
 Overwegende dat in 1994 vier ernstige klachten bij de Nationale ombudsman zijn ingediend die alle betrekking hadden op de medische zorg in penitentiaire inrichtingen en waarbij de aanleiding was de dood van een gedetineerde;

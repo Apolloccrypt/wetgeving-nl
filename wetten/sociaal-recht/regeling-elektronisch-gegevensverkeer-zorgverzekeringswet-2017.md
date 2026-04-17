@@ -1,13 +1,38 @@
 ---
 title: "Regeling elektronisch gegevensverkeer Zorgverzekeringswet 2017"
 identifier: "BWBR0039010"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039010"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039010"
+soort: "zbo"
+stam_id: "13853173"
+version_id: "23787662"
+internal_id: "C34227851"
+label_id: "13818354"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039010/2017-01-01/0"
+intitule_bron: "Stcrt.2016-70777"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-01"
+intitule_published: "2016-12-27"
+intitule_in_force: "2016-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-70777"
+original_signed_date: "2016-12-01"
+original_published_date: "2016-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-70777"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0039010&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0039010&g=2017-01-01"
+citeertitel_status: "officieel"
+signed_date: "2016-12-01"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling elektronisch gegevensverkeer Zorgverzekeringswet 2017
 
 Gelet op [artikel 92 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=92);
@@ -16,11 +41,11 @@ in aanmerking nemende dat de [Wet van 8 april 2016 tot wijziging van de Zorgverz
 
 besluit om de volgende regeling vast te stellen:
 
-#### Artikel 1
+##### Artikel 1
 
 De zorgverzekeraars dragen zorg voor de totstandkoming en instandhouding van een gemeenschappelijke voorziening voor elektronische gegevensuitwisseling met de instanties, bedoeld in [artikel 88, eerste lid van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=88).
 
-#### Artikel 2
+##### Artikel 2
 
 De zorgverzekeraars dragen zorg voor:
 
@@ -30,19 +55,19 @@ De zorgverzekeraars dragen zorg voor:
 
 - c. de bekostiging van de gemeenschappelijke voorziening, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039010&artikel=1&z=2017-01-01&g=2017-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De zorgverzekeraars dragen er zorg voor dat de gemeenschappelijke voorziening, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039010&artikel=1&z=2017-01-01&g=2017-01-01), is aangesloten op het netwerk van de Stichting Routerings Instituut (inter)Nationale Informatiestromen (RINIS).
 
-#### Artikel 4
+##### Artikel 4
 
 Zorgverzekeraars maken voor de uitvoering van de wettelijke regelingen genoemd in de bijlage bij deze regeling gebruik van de gemeenschappelijke voorziening, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039010&artikel=1&z=2017-01-01&g=2017-01-01). Bij deze uitvoering houden zij zich aan de verplichtingen die in de bijlage zijn opgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling elektronisch gegevensverkeer Zorgverzekeringswet 2017.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 

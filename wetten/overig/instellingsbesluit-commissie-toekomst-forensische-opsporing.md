@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Toekomst Forensische Opsporing"
+title: "Besluit van de Minister van Veiligheid en Justitie van 1 maart 2013 nr. 1700483, houdende instelling van de Commissie Toekomst Forensisch Onderzoek (Instellingsbesluit Commissie Toekomst Forensisch Onderzoek)"
 identifier: "BWBR0033233"
-categorie: "Overig"
-publicatiedatum: 2013-04-16
-laatste_update: 2013-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033233"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-16"
+last_updated: "2013-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033233"
+soort: "ministeriele-regeling"
+stam_id: "12203253"
+version_id: "20416152"
+internal_id: "C28699341"
+label_id: "12174704"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033233/2013-04-16/0"
+intitule_bron: "Stcrt.2013-9733"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-01"
+intitule_published: "2013-04-15"
+intitule_in_force: "2013-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-9733"
+original_signed_date: "2013-03-01"
+original_published_date: "2013-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-9733"
+entry_into_force_date: "2013-04-16"
+jci_1_3: "jci1.3:c:BWBR0033233&z=2013-04-16&g=2013-04-16"
+jci_1_0: "1.0:c:BWBR0033233&g=2013-04-16"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Toekomst Forensische Opsporing"
+signed_date: "2013-03-01"
+entry_into_force: "2013-04-16"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie van 1 maart 2013 nr. 1700483, houdende instelling van de Commissie Toekomst Forensisch Onderzoek (Instellingsbesluit Commissie Toekomst Forensisch Onderzoek)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,11 +48,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **de Commissie:** de Commissie Toekomst Forensisch Onderzoek, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033233&artikel=2&z=2013-04-16&g=2013-04-16)
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Commissie Toekomst Forensisch Onderzoek die de Minister van Veiligheid en Justitie adviseert over de optimale aansluiting tussen werkzaamheden die in de tien voorgenomen en deels reeds bestaande regionale onderzoeksruimten van de Nationale Politie, bij het Nederlands Forensisch Instituut (NFI) en door particuliere onderzoeksinstituten worden verricht alsmede over het werken voor commerciële derden door het NFI.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De Commissie heeft tot taak onderzoek te doen naar:
 
@@ -36,7 +62,7 @@ De Commissie heeft tot taak onderzoek te doen naar:
 
 En de minister over deze twee onderdelen van advies te voorzien.
 
-#### Artikel 4. Samenstelling
+##### Artikel 4. Samenstelling
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste drie andere leden.
 
@@ -48,7 +74,7 @@ En de minister over deze twee onderdelen van advies te voorzien.
 
 5. Nieuwe leden van de Commissie worden, op aanbeveling van de voorzitter, door de Minister benoemd.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Als leden van de Commissie worden benoemd:
 
@@ -60,7 +86,7 @@ Als leden van de Commissie worden benoemd:
 
 - d. De heer mr. P. Vogelzang.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De Commissie heeft een secretariaat.
 
@@ -70,11 +96,11 @@ Als leden van de Commissie worden benoemd:
 
 5. De Minister draagt, na overleg met de Commissie, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Commissie.
 
-#### Artikel 7. Inbreng deskundigen
+##### Artikel 7. Inbreng deskundigen
 
 De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen van zowel binnen als buiten de overheid, van wie de deskundige inbreng van belang kan zijn voor het onderzoek.
 
-#### Artikel 8. Rapport
+##### Artikel 8. Rapport
 
 1. De Commissie brengt binnen zes maanden na haar instelling een advies uit aan de Minister.
 
@@ -84,23 +110,23 @@ De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen v
 
 5. De Minister beslist over de eventuele verlenging van de termijn bedoeld in het eerste lid en brengt de Commissie daarvan schriftelijk op de hoogte.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 Aan de leden wordt een vergoeding per vergadering toegekend volgens de regels van de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) en het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279). De leden hebben daarnaast overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842) recht op vergoeding wegens reis- en verblijfkosten.
 
-#### Artikel 10. Archivering
+##### Artikel 10. Archivering
 
 De archiefbescheiden van de Commissie worden na haar opheffing of, zo de omstandigheden daartoe
 
 eerder aanleiding geven, zoveel eerder, overgebracht naar het archief van het ministerie van Veiligheid en Justitie.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant
 
 waarin het wordt geplaatst en werkt terug tot en met 1 maart 2013.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Toekomst Forensische Opsporing.
 

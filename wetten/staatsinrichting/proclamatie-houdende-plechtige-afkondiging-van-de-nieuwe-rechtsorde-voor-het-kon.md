@@ -1,13 +1,35 @@
 ---
-title: "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk"
+title: "Proclamatie van 29 December 1954, houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk, zoals deze is vervat in het Statuut voor het Koninkrijk der Nederlanden en van de acte van bevestiging van het Statuut voor het Koninkrijk der Nederlanden"
 identifier: "BWBR0002167"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1954-12-29
-laatste_update: 1954-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002167"
+country: "nl"
+rank: "rijkswet"
+publication_date: "1954-12-29"
+last_updated: "1954-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002167"
+soort: "rijkswet"
+stam_id: "175013"
+version_id: "240082"
+internal_id: "C240081"
+label_id: "172804"
+dtd_version: "2.0"
+original_entry_into_force: "1954-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002167/1954-12-29/0"
+intitule_bron: "Stb.1954-596"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1954-596"
+original_signed_date: "1954-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1954-12-29"
+jci_1_3: "jci1.3:c:BWBR0002167&z=1954-12-29&g=1954-12-29"
+jci_1_0: "1.0:c:BWBR0002167&g=1954-12-29"
+citeertitel_status: "officieel"
+short_title: "Proclamatie houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk"
+signed_date: "1954-12-29"
+entry_into_force: "1954-12-29"
 ---
-
 # Proclamatie van 29 December 1954, houdende plechtige afkondiging van de nieuwe rechtsorde voor het Koninkrijk, zoals deze is vervat in het Statuut voor het Koninkrijk der Nederlanden en van de acte van bevestiging van het Statuut voor het Koninkrijk der Nederlanden
 
 Op heden de vijftiende December negentienhonderd vier en vijftig, in plechtige bijeenkomst in de Ridderzaal te 's-Gravenhage;

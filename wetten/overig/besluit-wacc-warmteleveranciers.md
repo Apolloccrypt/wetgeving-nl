@@ -1,13 +1,38 @@
 ---
 title: "Besluit WACC warmteleveranciers"
 identifier: "BWBR0048574"
-categorie: "Overig"
-publicatiedatum: 2023-08-25
-laatste_update: 2023-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048574"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-08-25"
+last_updated: "2023-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048574"
+soort: "zbo"
+stam_id: "16843123"
+version_id: "29593532"
+internal_id: "C42327801"
+label_id: "16755794"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048574/2023-08-25/0"
+intitule_bron: "Stcrt.2023-24024"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-22"
+intitule_published: "2023-08-25"
+intitule_in_force: "2023-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-24024"
+original_signed_date: "2023-08-22"
+original_published_date: "2023-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-24024"
+entry_into_force_date: "2023-08-25"
+jci_1_3: "jci1.3:c:BWBR0048574&z=2023-08-25&g=2023-08-25"
+jci_1_0: "1.0:c:BWBR0048574&g=2023-08-25"
+citeertitel_status: "redactioneel"
+signed_date: "2023-08-22"
+entry_into_force: "2023-08-25"
 ---
-
 # Besluit WACC warmteleveranciers
 
 **Uitwerking van de methode van het redelijk rendement (WACC) voor warmteleveranciers over de periode 2018–2022 en 2023–2025 ten behoeve van de rendementstoets warmte**

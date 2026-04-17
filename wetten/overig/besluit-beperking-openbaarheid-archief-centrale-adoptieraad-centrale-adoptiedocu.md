@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
+title: "Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3955715, houdende beperking van de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
 identifier: "BWBR0047912"
-categorie: "Overig"
-publicatiedatum: 2023-02-28
-laatste_update: 2023-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047912"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-28"
+last_updated: "2023-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047912"
+soort: "ministeriele-regeling"
+stam_id: "16683393"
+version_id: "29265082"
+internal_id: "C41684841"
+label_id: "16600964"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047912/2023-02-28/0"
+intitule_bron: "Stcrt.2023-5400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-07"
+intitule_published: "2023-02-27"
+intitule_in_force: "2023-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-5400"
+original_signed_date: "2023-02-07"
+original_published_date: "2023-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-5400"
+entry_into_force_date: "2023-02-28"
+jci_1_3: "jci1.3:c:BWBR0047912&z=2023-02-28&g=2023-02-28"
+jci_1_0: "1.0:c:BWBR0047912&g=2023-02-28"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999"
+signed_date: "2023-02-07"
+entry_into_force: "2023-02-28"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid d.d. 7 februari 2023, kenmerk 3955715, houdende beperking van de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris d.d. 30 november 2022, met kenmerk 100604.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -3146,14 +3172,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 9317 | 2095 | 9356 | 2083 | 9395 | 2098 |
 | 9318 | 2096 | 9357 | 2089 | 9396 | 2097 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047912&artikel=1&z=2023-02-28&g=2023-02-28), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047912&artikel=1&z=2023-02-28&g=2023-02-28), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van archief van de Centrale Adoptieraad (centrale adoptiedocumentatie) 1957–1999’.

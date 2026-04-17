@@ -1,13 +1,39 @@
 ---
-title: "Regeling gegevensverstrekking uit het rijbewijzenregister"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 26 november 2018, nr. IENW/BSK-2018/117815, tot vaststelling van regels inzake gegevensverstrekking uit het rijbewijzenregister (Regeling gegevensverstrekking uit het rijbewijzenregister)"
 identifier: "BWBR0041604"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041604"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041604"
+soort: "ministeriele-regeling"
+stam_id: "14887573"
+version_id: "25461442"
+internal_id: "C36335721"
+label_id: "14838994"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041604/2026-04-01/0"
+intitule_bron: "Stcrt.2018-66683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-26"
+intitule_published: "2018-11-30"
+intitule_in_force: "2018-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-66683"
+original_signed_date: "2018-11-26"
+original_published_date: "2018-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-66683"
+entry_into_force_date: "2018-12-01"
+jci_1_3: "jci1.3:c:BWBR0041604&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0041604&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevensverstrekking uit het rijbewijzenregister"
+signed_date: "2018-11-26"
+entry_into_force: "2018-12-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 26 november 2018, nr. IENW/BSK-2018/117815, tot vaststelling van regels inzake gegevensverstrekking uit het rijbewijzenregister (Regeling gegevensverstrekking uit het rijbewijzenregister)
 
 Gelet op de [artikelen 125a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125a), en [127, vijfde en zevende lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127);
@@ -16,23 +42,23 @@ BESLUIT:
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt onder ‘groene boa’ verstaan: buitengewoon opsporingsambtenaar, werkzaam als boa Milieu, welzijn en infrastructuur als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend), Domein II. Milieu, welzijn en infrastructuur, die uitsluitend of in hoofdzaak is belast met de opsporing van strafbare feiten ter bescherming van natuur of milieu buiten de bebouwde kom, niet zijnde vergunning-gebonden strafbare feiten.
 
 #### § 2. Aanwijzing overheidsorganen
 
-#### Artikel 2
+##### Artikel 2
 
 Als overheidsorgaan als bedoeld in [artikel 125a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125a) wordt aangewezen het Waarborgfonds Motorverkeer, bedoeld in [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=23), ten behoeve van de schadeafwikkeling en het verhaal van uitgekeerde schadevergoedingen bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=25), [26a tot en met 26c](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=26a), en [27 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=27).
 
 #### § 3. Te verstrekken gegevens
 
-#### Artikel 3
+##### Artikel 3
 
 Verstrekking van gegevens, waaronder mede begrepen persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) uit het rijbewijzenregister vindt uitsluitend plaats overeenkomstig de bepalingen van deze paragraaf.
 
-#### Artikel 4
+##### Artikel 4
 
 Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna genoemde overheidsorganen, bedoeld in [artikel 125a, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=125a) de volgende gegevens verstrekt:
 
@@ -64,7 +90,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna genoe
 
 - g. aan overheidsorganen waarvoor personen werkzaam zijn als boa Openbare ruimte als bedoeld in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend), Domein I. Openbare ruimte, of als groene boa, ten behoeve van de identificatie van een staande gehouden persoon in het kader van de opsporing van strafbare feiten behorend tot Domein I. Openbare ruimte respectievelijk Domein II. Milieu, welzijn en infrastructuur, zoals opgenomen in die bijlage en voor zover de buitengewoon opsporingsambtenaar aangeeft deze nodig te hebben voor de identificatie van een staande gehouden persoon waarvan de buitengewoon opsporingsambtenaar de identiteit niet op andere wijze zelfstandig kan vaststellen: na opgave van het burgerservicenummer en geboortedatum van de staande gehouden persoon: de pasfoto in het rijbewijzenregister van de persoon aan wie het opgegeven burgerservicenummer toebehoort.
 
-#### Artikel 5
+##### Artikel 5
 
 Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan het Waarborgfonds Motorverkeer de volgende gegevens verstrekt:
 
@@ -76,7 +102,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan het Waarborgfon
 
 - 4°. de handtekening bij het opgegeven rijbewijsnummer, voor zover die is geregistreerd in het rijbewijzenregister.
 
-#### Artikel 6
+##### Artikel 6
 
 Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader gespecificeerde instanties, bedoeld in [artikel 155, eerste lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=155) aangewezen instanties alleen de volgende gegevens verstrekt:
 
@@ -86,7 +112,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 - c. aan instanties binnen een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die tevens partij is bij het Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (Eucaris): gegevens, waaronder mede begrepen persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) die nodig zijn voor de uitvoering van dat verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader gespecificeerde instanties bedoeld in [artikel 155, tweede, derde en vierde lid, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=155) de volgende gegevens verstrekt:
 
@@ -96,7 +122,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 - c. aan instanties binnen een staat, niet zijnde een andere lidstaat van de Europese Unie of een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die partij is bij het Verdrag betreffende een Europees voertuig- en rijbewijsinformatiesysteem (Eucaris): gegevens, waaronder mede begrepen persoonsgegevens, bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) onderscheidenlijk [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) die nodig zijn voor de uitvoering van dat verdrag.
 
-#### Artikel 8
+##### Artikel 8
 
 Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader genoemde personen of instanties, bedoeld in [artikel 156 van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=156) de volgende gegevens verstrekt:
 
@@ -110,7 +136,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 - c. aan onderzoeks- en onderwijsinstellingen, ten behoeve van wetenschappelijk onderzoek voor zover zij aantonen dat dit onderzoek namens of in opdracht van een overheidsorgaan wordt uitgevoerd: de gegevens, waaronder begrepen mede begrepen persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2), die noodzakelijk zijn voor het desbetreffende onderzoek.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Uit het rijbewijzenregister worden door de Dienst Wegverkeer de in [artikel 127, vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=127) bedoelde gegevens, verstrekt aan de Algemene Nederlandse Wielrijders Bond (ANWB), ten behoeve van de afgifte van internationale rijbewijzen.
 
@@ -124,7 +150,7 @@ Uit het rijbewijzenregister worden door de Dienst Wegverkeer aan de hierna nader
 
 #### § 4. Overige bepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -134,17 +160,17 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - c. het [Besluit aanwijzing Stichting Waarborgfonds Motorverkeer voor ontvangen van gegevens uit het rijbewijzenregister](https://wetten.overheid.nl/jci1.3:c:BWBR0022998).
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 25 mei 2018.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking uit het rijbewijzenregister.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De door de Dienst Wegverkeer verstrekte pasfoto als bedoeld in [artikel 4, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0041604&paragraaf=3&artikel=4&z=2026-04-01&g=2026-04-01),
 

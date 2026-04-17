@@ -1,13 +1,38 @@
 ---
 title: "Beleidsbesluit doorschuiffaciliteit afschaffing open CV"
 identifier: "BWBR0049147"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-05
-laatste_update: 2024-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049147"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-12-05"
+last_updated: "2024-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049147"
+soort: "beleidsregel"
+stam_id: "16981043"
+version_id: "30456912"
+internal_id: "C43670061"
+label_id: "16891884"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049147/2024-12-05/0"
+intitule_bron: "Stcrt.2023-32435"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36655"
+original_signed_date: "2024-11-21"
+original_published_date: "2024-12-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-36655"
+entry_into_force_date: "2024-11-21"
+jci_1_3: "jci1.3:c:BWBR0049147&z=2024-12-05&g=2024-12-05"
+jci_1_0: "1.0:c:BWBR0049147&g=2024-12-05"
+citeertitel_status: "officieel"
+signed_date: "2024-11-21"
+entry_into_force: "2024-11-21"
 ---
-
 # Beleidsbesluit doorschuiffaciliteit afschaffing open CV
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

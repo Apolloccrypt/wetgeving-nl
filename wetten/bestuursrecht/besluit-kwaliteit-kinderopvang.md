@@ -1,13 +1,39 @@
 ---
-title: "Besluit kwaliteit kinderopvang"
+title: "Besluit van 23 augustus 2017 tot het stellen van eisen aan de kwaliteit van de kinderopvang en het peuterspeelzaalwerk (Besluit kwaliteit kinderopvang en peuterspeelzaalwerk)"
 identifier: "BWBR0039936"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039936"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039936"
+soort: "AMvB"
+stam_id: "14142693"
+version_id: "24324292"
+internal_id: "C34918131"
+label_id: "14104004"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039936/2024-07-01/0"
+intitule_bron: "Stb.2017-323"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-23"
+intitule_published: "2017-09-01"
+intitule_in_force: "2017-09-01"
+intitule_status: "goed"
+original_publication: "Stb.2017-323"
+original_signed_date: "2017-08-23"
+original_published_date: "2017-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-323"
+entry_into_force_date: "2017-09-02"
+jci_1_3: "jci1.3:c:BWBR0039936&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0039936&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kwaliteit kinderopvang"
+signed_date: "2017-08-23"
+entry_into_force: "2017-09-02"
 ---
-
 # Besluit van 23 augustus 2017 tot het stellen van eisen aan de kwaliteit van de kinderopvang en het peuterspeelzaalwerk (Besluit kwaliteit kinderopvang en peuterspeelzaalwerk)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 26 mei 2017, nr. 2017-0000080440;
@@ -26,11 +52,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Kwaliteitseisen dagopvang en buitenschoolse opvang
 
-#### Artikel 19a. Vrijstellingen
+##### Artikel 19a. Vrijstellingen
 
 De [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-07-01&g=2024-07-01), [9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=9&z=2024-07-01&g=2024-07-01), en [15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=15&z=2024-07-01&g=2024-07-01), zijn niet toepassing op een ouderparticipatiecrèche.
 
-#### Artikel 19b. Het pedagogisch beleidsplan
+##### Artikel 19b. Het pedagogisch beleidsplan
 
 1. De houder van een ouderparticipatiecrèche beschrijft in het pedagogisch beleidsplan, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-07-01&g=2024-07-01), in concrete termen op welke wijze hij zorg draagt voor de geschiktheid van de participerende ouder voor het verzorgen van ouderparticipatieopvang waarbij in ieder geval wordt ingegaan op:
 
@@ -58,7 +84,7 @@ De [artikelen 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - d. de omstandigheid dat de mentor een participerende ouder is die niet de ouder is van het kind dat wordt opgevangen in een ouderparticipatiecrèche.
 
-#### Artikel 19c. Veiligheid en gezondheid
+##### Artikel 19c. Veiligheid en gezondheid
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -90,7 +116,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 5. De houder draagt er zorg voor dat er gedurende het peuterspeelzaalwerk te allen tijde ten minste één volwassene aanwezig is die gekwalificeerd is voor het verlenen van eerste hulp aan kinderen. Bij ministeriële regeling worden nadere regels gesteld aan deze kwalificatie.
 
-#### Artikel 19d. Meldcode huiselijk geweld en kindermishandeling
+##### Artikel 19d. Meldcode huiselijk geweld en kindermishandeling
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -116,7 +142,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - e. beslissen: zelf hulp bieden of hulp organiseren dan wel het doen van een melding.
 
-#### Artikel 19e. Opleidingseisen
+##### Artikel 19e. Opleidingseisen
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -128,7 +154,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de opleidingseisen waaraan pedagogisch beleidsmedewerkers voldoen.
 
-#### Artikel 19f. Aantal beroepskrachten
+##### Artikel 19f. Aantal beroepskrachten
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -152,7 +178,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 10. De pedagogisch beleidsmedewerker kan worden meegeteld bij de berekening van het minimaal aantal in te zetten beroepskrachten op grond van dit artikel voor zover deze in het kader van het coachen van beroepskrachten bij de uitvoering van hun werkzaamheden tevens op de peuterspeelzaalgroep bezig is met de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen.
 
-#### Artikel 19g. Inzet pedagogisch beleidsmedewerkers
+##### Artikel 19g. Inzet pedagogisch beleidsmedewerkers
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -162,7 +188,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. De houder bepaalt jaarlijks, indien hij meer dan één peuterspeelzaal exploiteert, de wijze waarop hij het op grond van het tweede lid verplichte minimaal aantal uren waarvoor pedagogisch beleidsmedewerkers worden ingezet, verdeelt over de verschillende peuterspeelzalen en legt dit schriftelijk vast zodat dit inzichtelijk is voor de beroepskrachten en ouders. De houder geeft de verdeling zodanig vorm dat iedere beroepskracht jaarlijks coaching ontvangt in de uitvoering van de werkzaamheden.
 
-#### Artikel 19h. Stabiliteit van de opvang voor kinderen
+##### Artikel 19h. Stabiliteit van de opvang voor kinderen
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -186,7 +212,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 10. Aan ieder kind wordt een mentor toegewezen. De mentor is een beroepskracht van het kind en bespreekt de ontwikkeling van het kind periodiek met de ouders. Tevens is de mentor voor de ouders aanspreekpunt bij vragen over de ontwikkeling en het welbevinden van het kind.
 
-#### Artikel 19i. Eisen aan ruimtes
+##### Artikel 19i. Eisen aan ruimtes
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2017/324.
 
@@ -198,67 +224,67 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel 20. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=1&artikel=1&z=2024-07-01&g=2024-07-01) Begrippen
+##### Artikel 20. Wijziging [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=1&artikel=1&z=2024-07-01&g=2024-07-01) Begrippen
 
 Wijzigt dit besluit.
 
-#### Artikel 21. Wijziging [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01) Pedagogisch beleid
+##### Artikel 21. Wijziging [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=3&z=2024-07-01&g=2024-07-01) Pedagogisch beleid
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/301.
 
 Wijzigt dit besluit.
 
-#### Artikel 22. Wijziging [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-07-01&g=2024-07-01) Meldcode huiselijk geweld en kindermishandeling
+##### Artikel 22. Wijziging [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=5&z=2024-07-01&g=2024-07-01) Meldcode huiselijk geweld en kindermishandeling
 
 Wijzigt dit besluit.
 
-#### Artikel 23. Wijziging [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=10&z=2024-07-01&g=2024-07-01) Eisen aan ruimtes
+##### Artikel 23. Wijziging [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=10&z=2024-07-01&g=2024-07-01) Eisen aan ruimtes
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/301.
 
 Wijzigt dit besluit.
 
-#### Artikel 24. Wijziging [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-07-01&g=2024-07-01) Pedagogisch beleid
+##### Artikel 24. Wijziging [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=12&z=2024-07-01&g=2024-07-01) Pedagogisch beleid
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/301.
 
 Wijzigt dit besluit.
 
-#### Artikel 25. Wijziging [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=14&z=2024-07-01&g=2024-07-01) Meldcode huiselijk geweld en kindermishandeling
+##### Artikel 25. Wijziging [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=14&z=2024-07-01&g=2024-07-01) Meldcode huiselijk geweld en kindermishandeling
 
 Wijzigt dit besluit.
 
-#### Artikel 26. Wijziging [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01) Eisen aan ruimtes
+##### Artikel 26. Wijziging [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=19&z=2024-07-01&g=2024-07-01) Eisen aan ruimtes
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2018/301.
 
 Wijzigt dit besluit.
 
-#### Artikel 27. Wijziging van het [Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
+##### Artikel 27. Wijziging van het [Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
 
 Wijzigt het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
-#### Artikel 28. Wijziging van het [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
+##### Artikel 28. Wijziging van het [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
 
 Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.
 
-#### Artikel 29. Wijziging van het [Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892)
+##### Artikel 29. Wijziging van het [Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0030892)
 
 Wijzigt het Besluit registers kinderopvang, buitenlandse kinderopvang en peuterspeelzaalwerk.
 
-#### Artikel 30. Wijziging van het [Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039641)
+##### Artikel 30. Wijziging van het [Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk](https://wetten.overheid.nl/jci1.3:c:BWBR0039641)
 
 Wijzigte het Tijdelijk besluit experiment meertalige dagopvang en meertalig peuterspeelzaalwerk.
 
-#### Artikel 31. Overgangsbepaling veiligheids- en gezondheidsbeleid
+##### Artikel 31. Overgangsbepaling veiligheids- en gezondheidsbeleid
 
 Indien een houder op 1 januari 2018 een kindercentrum exploiteert beschikt de houder, in afwijking van de [artikelen 4, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=4&z=2024-07-01&g=2024-07-01), en [13, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=13&z=2024-07-01&g=2024-07-01), op dat tijdstip over een schriftelijk vastgesteld veiligheids- en gezondheidsbeleid.
 
-#### Artikel 32. Overgangsbepaling bijlagen
+##### Artikel 32. Overgangsbepaling bijlagen
 
 Vervallen
 
-#### Artikel 33. Inwerkingtreding
+##### Artikel 33. Inwerkingtreding
 
 1. Dit besluit treedt, met uitzondering van de [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-07-01&g=2024-07-01), [7, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-07-01&g=2024-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=8&z=2024-07-01&g=2024-07-01), [15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=15&z=2024-07-01&g=2024-07-01), [16, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=17&z=2024-07-01&g=2024-07-01), [hoofdstuk 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2A&z=2024-07-01&g=2024-07-01) met de [artikelen 19a tot en met 19i](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2A&artikel=19a&z=2024-07-01&g=2024-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=20&z=2024-07-01&g=2024-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=22&z=2024-07-01&g=2024-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=25&z=2024-07-01&g=2024-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=27&z=2024-07-01&g=2024-07-01), en [29, onderdelen B tot en met F](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=29&z=2024-07-01&g=2024-07-01), in werking met ingang van 1 januari 2018.
 
@@ -266,7 +292,7 @@ Vervallen
 
 3. De [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=6&z=2024-07-01&g=2024-07-01), [7, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-07-01&g=2024-07-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=8&z=2024-07-01&g=2024-07-01), [15, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=15&z=2024-07-01&g=2024-07-01), [16, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=16&z=2024-07-01&g=2024-07-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=2&artikel=17&z=2024-07-01&g=2024-07-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=20&z=2024-07-01&g=2024-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=22&z=2024-07-01&g=2024-07-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=25&z=2024-07-01&g=2024-07-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=3&artikel=27&z=2024-07-01&g=2024-07-01) treden in werking met ingang van 1 januari 2019.
 
-#### Artikel 34. Citeertitel
+##### Artikel 34. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit kwaliteit kinderopvang.
 
@@ -284,7 +310,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -314,7 +340,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Kwaliteitseisen dagopvang
 
-#### Artikel 2. Verantwoorde dagopvang
+##### Artikel 2. Verantwoorde dagopvang
 
 In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in ieder geval zorg voor dat, rekening houdend met de ontwikkelingsfase waarin kinderen zich bevinden:
 
@@ -326,7 +352,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 - d. kinderen worden gestimuleerd om op een open manier kennis te maken met de algemeen aanvaarde waarden en normen in de samenleving met het oog op een respectvolle omgang met anderen en een actieve participatie in de maatschappij.
 
-#### Artikel 3. Pedagogisch beleid
+##### Artikel 3. Pedagogisch beleid
 
 1. Elk kindercentrum beschikt over een pedagogisch beleidsplan. De houder draagt er zorg voor dat er in de dagopvang conform het pedagogisch beleidsplan wordt gehandeld.
 
@@ -366,7 +392,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 - 3°. de wijze waarop de houder het personeelsbestand vormgeeft om te kunnen voldoen aan de percentages, bedoeld in subonderdeel 1°, en de wijze waarop vervanging is geregeld bij afwezigheid van de beroepskrachten meertalige kinderopvang.
 
-#### Artikel 4. Veiligheid en gezondheid
+##### Artikel 4. Veiligheid en gezondheid
 
 1. De houder heeft voor elk kindercentrum een beleid dat ertoe leidt dat de veiligheid en gezondheid van de op te vangen kinderen zoveel mogelijk is gewaarborgd. De houder draagt er zorg voor dat er in de dagopvang conform het veiligheids- en gezondheidsbeleid wordt gehandeld.
 
@@ -396,7 +422,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 5. De houder draagt er zorg voor dat er gedurende de dagopvang te allen tijde ten minste één volwassene aanwezig is die gekwalificeerd is voor het verlenen van eerste hulp aan kinderen. Bij ministeriële regeling worden nadere regels gesteld aan deze kwalificatie.
 
-#### Artikel 5. Meldcode huiselijk geweld en kindermishandeling
+##### Artikel 5. Meldcode huiselijk geweld en kindermishandeling
 
 1. De door de houder voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
 
@@ -426,7 +452,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 - 2°. het inzetten van de noodzakelijke hulp.
 
-#### Artikel 6. Opleidingseisen
+##### Artikel 6. Opleidingseisen
 
 1. Beroepskrachten beschikken over een voor de werkzaamheden passende opleiding.
 
@@ -436,7 +462,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de opleidingseisen waaraan pedagogisch beleidsmedewerkers voldoen.
 
-#### Artikel 7. Aantal beroepskrachten
+##### Artikel 7. Aantal beroepskrachten
 
 1. Het minimaal aantal in te zetten beroepskrachten op een stamgroep wordt afgestemd op het aantal aanwezige kinderen in de stamgroep, waarbij naarmate de kinderen ouder zijn, minder beroepskrachten hoeven te worden ingezet.
 
@@ -462,7 +488,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 12. Andersgekwalificeerde beroepskrachten worden niet ingezet als beroepskracht in de dagopvang.
 
-#### Artikel 8. Inzet pedagogisch beleidsmedewerkers
+##### Artikel 8. Inzet pedagogisch beleidsmedewerkers
 
 1. Het minimaal aantal uren waarvoor de houder jaarlijks pedagogisch beleidsmedewerkers in de dagopvang inzet, wordt afgestemd op het aantal in te zetten beroepskrachten en het aantal kindercentra dat de houder exploiteert waarbij, naarmate er meer beroepskrachten worden ingezet, er voor meer uren pedagogisch beleidsmedewerkers worden ingezet ten behoeve van het coachen van beroepskrachten bij de uitvoering van hun werkzaamheden en naarmate de houder meer kindercentra exploiteert, er voor meer uren pedagogisch beleidsmedewerkers worden ingezet ten behoeve van de totstandkoming en implementatie van pedagogische beleidsvoornemens.
 
@@ -470,7 +496,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 3. De houder bepaalt jaarlijks, indien hij meer dan één kindercentrum exploiteert, de wijze waarop hij het op grond van het tweede lid verplichte minimaal aantal uren waarvoor pedagogisch beleidsmedewerkers worden ingezet, verdeelt over de verschillende kindercentra en legt dit schriftelijk vast zodat dit inzichtelijk is voor de beroepskrachten en ouders. De houder geeft de verdeling zodanig vorm dat iedere beroepskracht jaarlijks coaching ontvangt in de uitvoering van de werkzaamheden.
 
-#### Artikel 9. Stabiliteit van de opvang voor kinderen
+##### Artikel 9. Stabiliteit van de opvang voor kinderen
 
 1. Bij dagopvang vindt de opvang plaats in stamgroepen. Een kind wordt opgevangen in één stamgroep. De maximale grootte van de stamgroep wordt afgestemd op de leeftijd van de kinderen in de stamgroep, waarbij naarmate de kinderen in de stamgroep ouder zijn, de stamgroep uit meer kinderen mag bestaan.
 
@@ -494,7 +520,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 11. Aan ieder kind wordt een mentor toegewezen. De mentor is een beroepskracht van het kind en bespreekt de ontwikkeling van het kind periodiek met de ouders. Tevens is de mentor voor de ouders aanspreekpunt bij vragen over de ontwikkeling en het welbevinden van het kind.
 
-#### Artikel 10. Eisen aan ruimtes
+##### Artikel 10. Eisen aan ruimtes
 
 1. De binnen- en buitenruimtes waar kinderen verblijven gedurende de tijd dat zij worden opgevangen, zijn veilig, toegankelijk en passend ingericht in overeenstemming met het aantal en de leeftijd van de op te vangen kinderen.
 
@@ -506,7 +532,7 @@ In het kader van het bieden van verantwoorde dagopvang, draagt de houder er in i
 
 #### Paragraaf 2. Kwaliteitseisen buitenschoolse opvang
 
-#### Artikel 11. Verantwoorde buitenschoolse opvang
+##### Artikel 11. Verantwoorde buitenschoolse opvang
 
 In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de houder er in ieder geval zorg voor dat, rekening houdend met de ontwikkelingsfase waarin kinderen zich bevinden:
 
@@ -518,7 +544,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 - d. kinderen worden gestimuleerd om op een open manier kennis te maken met de algemeen aanvaarde waarden en normen in de samenleving met het oog op een respectvolle omgang met anderen en een actieve participatie in de maatschappij.
 
-#### Artikel 12. Pedagogisch beleid
+##### Artikel 12. Pedagogisch beleid
 
 1. Elk kindercentrum beschikt over een pedagogisch beleidsplan. De houder draagt er zorg voor dat er in de buitenschoolse opvang conform het pedagogisch beleidsplan wordt gehandeld.
 
@@ -570,7 +596,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 4. De houder informeert de ouders over de schoolvrije dagen waarop kindercentrum-overstijgende opvang plaats zal vinden en de vormgeving hiervan, bedoeld in het derde lid, onderdeel g.
 
-#### Artikel 13. Veiligheid en gezondheid
+##### Artikel 13. Veiligheid en gezondheid
 
 1. De houder heeft voor elk kindercentrum een beleid dat ertoe leidt dat de veiligheid en gezondheid van de op te vangen kinderen zoveel mogelijk is gewaarborgd. De houder draagt er zorg voor dat er in de buitenschoolse opvang conform het veiligheids- en gezondheidsbeleid wordt gehandeld.
 
@@ -598,7 +624,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 4. De houder draagt er zorg voor dat er gedurende de buitenschoolse opvang te allen tijde ten minste één volwassene aanwezig is die gekwalificeerd is voor het verlenen van eerste hulp aan kinderen. Bij ministeriële regeling worden nadere regels gesteld aan deze kwalificatie.
 
-#### Artikel 14. Meldcode huiselijk geweld en kindermishandeling
+##### Artikel 14. Meldcode huiselijk geweld en kindermishandeling
 
 1. De door de houder voor het personeel vast te stellen meldcode bevat ten minste de volgende elementen:
 
@@ -628,7 +654,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 - 2°. het inzetten van de noodzakelijke hulp.
 
-#### Artikel 15. Opleidingseisen
+##### Artikel 15. Opleidingseisen
 
 1. Beroepskrachten beschikken over een voor de werkzaamheden passende opleiding.
 
@@ -638,7 +664,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de opleidingseisen waaraan pedagogisch beleidsmedewerkers voldoen.
 
-#### Artikel 16. Aantal beroepskrachten
+##### Artikel 16. Aantal beroepskrachten
 
 1. Het minimaal aantal in te zetten beroepskrachten op een kindercentrum wordt afgestemd op het aantal aanwezige kinderen in het kindercentrum, waarbij naarmate de kinderen ouder zijn, minder beroepskrachten hoeven te worden ingezet.
 
@@ -660,7 +686,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 10. Bij de inzet van een andersgekwalificeerde beroepskracht is ter ondersteuning van deze andersgekwalificeerde beroepskracht ten minste een andere beroepskracht op het kindercentrum of op de locatie van een activiteit aanwezig.
 
-#### Artikel 17. Inzet pedagogisch beleidsmedewerkers
+##### Artikel 17. Inzet pedagogisch beleidsmedewerkers
 
 1. Het minimaal aantal uren waarvoor de houder jaarlijks pedagogisch beleidsmedewerkers in de buitenschoolse opvang inzet, wordt afgestemd op het aantal in te zetten beroepskrachten en het aantal kindercentra dat de houder exploiteert waarbij, naarmate er meer beroepskrachten worden ingezet, er voor meer uren pedagogisch beleidsmedewerkers worden ingezet ten behoeve van het coachen van beroepskrachten bij de uitvoering van hun werkzaamheden en naarmate de houder meer kindercentra exploiteert, er voor meer uren pedagogisch beleidsmedewerkers worden ingezet ten behoeve van de totstandkoming en implementatie van pedagogische beleidsvoornemens.
 
@@ -668,7 +694,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 3. De houder bepaalt jaarlijks, indien hij meer dan één kindercentrum exploiteert, de wijze waarop hij het op grond van het tweede lid verplichte minimaal aantal uren waarvoor pedagogisch beleidsmedewerkers worden ingezet, verdeelt over de verschillende kindercentra en legt dit schriftelijk vast zodat dit inzichtelijk is voor de beroepskrachten en ouders. De houder geeft de verdeling zodanig vorm dat iedere beroepskracht jaarlijks coaching ontvangt in de uitvoering van de werkzaamheden.
 
-#### Artikel 18. Stabiliteit van de opvang voor kinderen
+##### Artikel 18. Stabiliteit van de opvang voor kinderen
 
 1. Bij buitenschoolse opvang vindt de opvang plaats in basisgroepen. Een kind wordt opgevangen in één basisgroep.
 
@@ -684,7 +710,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 7. Het eerste lid, tweede zin, en het vierde lid zijn niet van toepassing op kindercentrum-overstijgende opvang gedurende schoolvrije dagen.
 
-#### Artikel 19. Eisen aan ruimtes
+##### Artikel 19. Eisen aan ruimtes
 
 1. De binnen- en buitenruimtes waar kinderen verblijven gedurende de tijd dat zij worden opgevangen, zijn veilig, toegankelijk en passend ingericht in overeenstemming met het aantal en de leeftijd van de op te vangen kinderen.
 
@@ -696,7 +722,7 @@ In het kader van het bieden van verantwoorde buitenschoolse opvang, draagt de ho
 
 ### Hoofdstuk 3. Overgangs- en slotbepalingen
 
-#### Artikel 32a. Gewijzigde grondslag
+##### Artikel 32a. Gewijzigde grondslag
 
 Dit besluit berust op de [artikelen 1.45, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.45), [1.49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.49), [1.50, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.50), en [1.51a, vijfde lid, van de Wet kinderopvang](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.51a).
 
@@ -832,7 +858,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a. Overzicht van ingezette beroepskrachten en presentielijsten
+##### Artikel 7a. Overzicht van ingezette beroepskrachten en presentielijsten
 
 De houder toont door middel van een overzicht van de ingezette beroepskrachten en presentielijsten van kinderen, inclusief een indicatie van aankomst- en vertrektijden, aan:
 
@@ -840,7 +866,7 @@ De houder toont door middel van een overzicht van de ingezette beroepskrachten e
 
 - b. indien van toepassing de afwijking daarvan, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=7&z=2024-07-01&g=2024-07-01).
 
-#### Artikel 9a. Tijdelijke afwijking aanwezigheid toegewezen vaste beroepskrachten
+##### Artikel 9a. Tijdelijke afwijking aanwezigheid toegewezen vaste beroepskrachten
 
 De houder kan afwijken van de verplichting dat per dag ten minste een vaste beroepskracht aanwezig is in de stamgroep, bedoeld in [artikel 9, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=9&z=2024-07-01&g=2024-07-01), indien:
 
@@ -854,7 +880,7 @@ De houder kan afwijken van de verplichting dat per dag ten minste een vaste bero
 
 #### Paragraaf 2. Kwaliteitseisen buitenschoolse opvang
 
-#### Artikel 16a. Overzicht van ingezette beroepskrachten en presentielijsten
+##### Artikel 16a. Overzicht van ingezette beroepskrachten en presentielijsten
 
 De houder toont door middel van een overzicht van de ingezette beroepskrachten en presentielijsten van kinderen, inclusief een indicatie van de aankomst- en vertrektijden aan:
 
@@ -888,7 +914,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 9c. Voorwaarden tijdelijke afwijking maximumpercentage bij meertalige kinderopvang
+##### Artikel 9c. Voorwaarden tijdelijke afwijking maximumpercentage bij meertalige kinderopvang
 
 1. De voorwaarden waaronder de houder kan afwijken van het percentage, bedoeld in [artikel 1.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.55), zijn:
 
@@ -904,7 +930,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 2. Kwaliteitseisen buitenschoolse opvang
 
-#### Artikel 18a. Voorwaarden tijdelijke afwijking maximumpercentage bij meertalige kinderopvang
+##### Artikel 18a. Voorwaarden tijdelijke afwijking maximumpercentage bij meertalige kinderopvang
 
 1. De voorwaarden waaronder de houder kan afwijken van het percentage, bedoeld in [artikel 1.55, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.55), zijn:
 
@@ -946,7 +972,7 @@ Het minimaal aantal in te zetten beroepskrachten in relatie tot het aantal aanwe
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 9b. Beroepskracht in opleiding als vaste beroepskracht
+##### Artikel 9b. Beroepskracht in opleiding als vaste beroepskracht
 
 In afwijking van [artikel 9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039936&hoofdstuk=2&paragraaf=1&artikel=9&z=2024-07-01&g=2024-07-01), kan een beroepskracht in opleiding als vaste beroepskracht aan een kind worden toegewezen, indien:
 

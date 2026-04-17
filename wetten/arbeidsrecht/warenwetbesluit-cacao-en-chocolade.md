@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Cacao en chocolade"
+title: "Besluit van 2 november 2001, houdende het Warenwetbesluit Cacao en chocolade"
 identifier: "BWBR0012958"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2014-12-13
-laatste_update: 2014-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012958"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-12-13"
+last_updated: "2014-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012958"
+soort: "AMvB"
+stam_id: "1553273"
+version_id: "2305142"
+internal_id: "C2305141"
+label_id: "1509164"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012958/2014-12-13/0"
+intitule_bron: "Stb.2001-542"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-02"
+intitule_published: "2001-11-15"
+intitule_in_force: "2001-11-15"
+intitule_status: "goed"
+original_publication: "Stb.2001-542"
+original_signed_date: "2001-11-02"
+original_published_date: "2001-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-542"
+entry_into_force_date: "2003-08-03"
+jci_1_3: "jci1.3:c:BWBR0012958&z=2014-12-13&g=2014-12-13"
+jci_1_0: "1.0:c:BWBR0012958&g=2014-12-13"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Cacao en chocolade"
+signed_date: "2001-11-02"
+entry_into_force: "2003-08-03"
 ---
-
 # Besluit van 2 november 2001, houdende het Warenwetbesluit Cacao en chocolade
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juli 2001, GZB/VVB 2197687, gedaan in overeenstemming met Onze Ministers van Landbouw, Natuurbeheer en Visserij, en van Economische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - n. **verordening (EG) 1334/2008:** verordening (EG) nr. 1334/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 (PbEU L 354) inzake aroma’s en bepaalde voedselingrediënten met aromatiserende eigenschappen voor gebruik in levensmiddelen en tot wijziging van verordening (EG) nr. 1601/91 van de Raad, verordening nr. (EG)2232/96, verordening (EG) nr. 110/2008 en richtlijn 2000/13/EG.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden bij dit besluit bedoelde eet- of drinkwaren te verhandelen anders dan met inachtneming van de bij dit besluit gestelde voorschriften met betrekking tot hun aanduiding.
 
@@ -64,7 +90,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Samenstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de eet- of drinkwaar, krachtens § 3 aangeduid als **chocolade, melkchocolade, huishoudmelkchocolade, witte chocolade, chocolata a la taza** of **chocolata familiar a la taza** mogen worden toegevoegd:
 
@@ -101,13 +127,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. De toegevoegde hoeveelheid andere plantaardige vetten dan cacaoboter, bedoeld in het eerste lid, onder a, bedraagt ten hoogste 5% van het totale gewicht van de voor consumptie gerede waar, na aftrek van het totale gewicht van de daarin verwerkte andere eet- of drinkwaren, bedoeld in het eerste lid, onder b. Het minimumgehalte aan cacaoboter of het totaalgehalte aan droge cacaobestanddelen van de waar wordt daarbij niet verminderd.
 
-#### Artikel 4
+##### Artikel 4
 
 In afwijking van verordening (EG) 1334/2008 mogen aan de eet- of drinkwaren, krachtens [§ 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&z=2014-12-13&g=2014-12-13) aangeduid als **cacaopoeder, cacao, mager cacaopoeder, magere cacao, sterk ontvet cacaopoeder, sterk ontvette cacao, chocoladepoeder, huishoudchocoladepoeder, gesuikerde huishoudcacao, gesuikerd huishoudcacaopoeder, chocolade, melkchocolade, huishoudmelkchocolade, witte chocolade, chocolate a la taza,** of als **chocolate familiar al la taza,** slechts aroma's worden toegevoegd waarmee de smaak van chocolade of melkvet niet wordt nagebootst.
 
 #### § 3. Etikettering
 
-#### Artikel 5
+##### Artikel 5
 
 De aanduiding **cacaoboter** mag uitsluitend en moet worden gebezigd voor cacaoboter met ten hoogste:
 
@@ -115,7 +141,7 @@ De aanduiding **cacaoboter** mag uitsluitend en moet worden gebezigd voor cacaob
 
 - b. 0,5% onverzeepbare bestanddelen, bepaald door middel van petroleumether, met dien verstande dat dit maximum voor cacaopersboter 0,35% bedraagt.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanduiding **cacaopoeder** of **cacao**mag uitsluitend en moet worden gebezigd voor cacaopoeder of cacao met:
 
@@ -123,19 +149,19 @@ De aanduiding **cacaopoeder** of **cacao**mag uitsluitend en moet worden gebezig
 
 - b. ten hoogste 9% water.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanduiding **mager cacaopoeder, magere cacao, sterk ontvet cacaopoeder,** of **sterk ontvette cacao,** mag uitsluitend en moet worden gebezigd voor cacaopoeder met minder dan 20% cacaoboter, uitgedrukt als gewichtsprocent van de droge stof.
 
-#### Artikel 8
+##### Artikel 8
 
 De aanduiding **chocoladepoeder, gesuikerd cacaopoeder** of**gesuikerde cacao** mag uitsluitend en moet worden gebezigd voor chocoladepoeder met ten minste 32% cacaopoeder.
 
-#### Artikel 9
+##### Artikel 9
 
 De aanduiding **huishoudchocoladepoeder, gesuikerde huishoudcacao** of **gesuikerd huishoudcacaopoeder** mag uitsluitend en moet worden gebezigd voor chocoladepoeder met ten minste 25% en minder dan 32% cacaopoeder.
 
-#### Artikel 10
+##### Artikel 10
 
 De aanduiding **mager huishoudchocoladepoeder** of **sterk ontvet huishoudchocoladepoeder, magere gesuikerde huishoudcacao** of **sterk ontvette huishoudcacao,** dan wel**mager gesuikerd huishoudcacaopoeder of sterk ontvet gesuikerd huishoudcacaopoeder** mag uitsluitend en moet worden gebezigd voor chocoladepoeder met:
 
@@ -145,7 +171,7 @@ De aanduiding **mager huishoudchocoladepoeder** of **sterk ontvet huishoudchocol
 
 uitgedrukt als gewichtsprocent van de droge stof.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanduiding **chocolade** mag uitsluitend en moet worden gebezigd voor chocolade met in totaal ten minste 35% droge cacaobestanddelen, inclusief ten minste 18% cacaoboter en ten minste 14% vetvrije droge cacaobestanddelen.
 
@@ -169,7 +195,7 @@ uitgedrukt als gewichtsprocent van de droge stof.
 
 - 4°. amandelen, hazelnoten en andere noten, geheel of in stukken, in een zodanige verhouding dat het gewicht daarvan, gevoegd bij dat van de fijngemaakte hazelnoten, niet meer dan 60% van het totale gewicht van de waar uitmaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De aanduiding **melkchocolade** mag uitsluitend en moet worden gebezigd voor melkchocolade met:
 
@@ -209,7 +235,7 @@ uitgedrukt als gewichtsprocent van de droge stof.
 
 - b. **van magere melk**, voor zover de waar ten hoogste 1% melkvet bevat.
 
-#### Artikel 13
+##### Artikel 13
 
 De aanduiding **huishoudmelkchocolade** mag uitsluitend en moet worden gebezigd voor huishoudmelkchocolade met:
 
@@ -223,7 +249,7 @@ De aanduiding **huishoudmelkchocolade** mag uitsluitend en moet worden gebezigd 
 
 - e. in totaal aan cacaoboter en melkvet ten minste 25% vetten.
 
-#### Artikel 14
+##### Artikel 14
 
 De aanduiding **witte chocolade** mag uitsluitend en moet worden gebezigd voor witte chocolade met:
 
@@ -231,7 +257,7 @@ De aanduiding **witte chocolade** mag uitsluitend en moet worden gebezigd voor w
 
 - b. ten minste 14% droge melkbestanddelen, inclusief ten minste 3,5% melkvet.
 
-#### Artikel 15
+##### Artikel 15
 
 De aanduiding **gevulde chocolade** of **chocolade met ...vulling** mag uitsluitend en moet worden gebezigd voor de gevulde waar waarvan:
 
@@ -241,7 +267,7 @@ De aanduiding **gevulde chocolade** of **chocolade met ...vulling** mag uitsluit
 
 - c. waarvan het buitenste chocoladegedeelte ten minste 25% uitmaakt van het totale gewicht.
 
-#### Artikel 16
+##### Artikel 16
 
 De aanduiding **chocolate a la taza** mag uitsluitend en moet worden gebezigd voor chocolate a la taza met:
 
@@ -249,7 +275,7 @@ De aanduiding **chocolate a la taza** mag uitsluitend en moet worden gebezigd vo
 
 - b. ten hoogste 8% meel of zetmeel.
 
-#### Artikel 17
+##### Artikel 17
 
 De aanduiding **chocolate familiar a la taza** mag uitsluitend en moet worden gebezigd voor chocolate familiar a la taza met:
 
@@ -257,7 +283,7 @@ De aanduiding **chocolate familiar a la taza** mag uitsluitend en moet worden ge
 
 - b. ten hoogste 18% meel of zetmeel.
 
-#### Artikel 18
+##### Artikel 18
 
 De aanduiding **chocoladebonbon/praline** mag uitsluitend en moet worden gebezigd voor de waar in de vorm van een bonbon die bestaat uit:
 
@@ -265,7 +291,7 @@ De aanduiding **chocoladebonbon/praline** mag uitsluitend en moet worden gebezig
 
 - b. een enkel chocolaatje of een combinatie dan wel mengsel van de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=11&z=2014-12-13&g=2014-12-13), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=12&z=2014-12-13&g=2014-12-13), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=13&z=2014-12-13&g=2014-12-13) of [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&artikel=14&z=2014-12-13&g=2014-12-13) bedoelde waren en andere eet- of drinkwaren, voor zover de chocolade ten minste 25% uitmaakt van het totale gewicht van de waar.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij een op de voet van deze paragraaf aangeduide waar die andere plantaardige vetten bevat dan cacaoboter wordt de vermelding gebezigd **bevat naast cacaoboter ook andere plantaardige vetten**. Deze vermelding is:
 
@@ -273,7 +299,7 @@ Bij een op de voet van deze paragraaf aangeduide waar die andere plantaardige ve
 
 - b. opvallend en duidelijk leesbaar, vetgedrukt, in een lettertype dat ten minste even groot is als het lettertype dat gebruikt is voor de lijst van ingrediënten.
 
-#### Artikel 20
+##### Artikel 20
 
 Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raad van 25 oktober 2011 betreffende de verstrekking van voedselinformatie aan consumenten (PbEU 2011, L 304):
 
@@ -297,21 +323,21 @@ Onverminderd Verordening (EU) nr. 1169/2011 van het Europees Parlement en de Raa
 
 #### § 4. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. De in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=3&z=2014-12-13&g=2014-12-13) bedoelde minimumgehalten worden berekend na aftrek van het gewicht van de in [artikel 3, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=3&z=2014-12-13&g=2014-12-13), bedoelde andere eet- of drinkwaren, en van de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0012958&paragraaf=2&artikel=4&z=2014-12-13&g=2014-12-13) bedoelde aroma's, met dien verstande dat bij gevulde chocolade, chocolade met... vulling en bij chocoladebonbon/praline ook het gewicht van de vulling wordt afgetrokken.
 
 2. Het chocoladegehalte van **gevulde chocolade, chocolade met... vulling** en **chocoladebonbon/praline** wordt berekend ten opzichte van het totale gewicht van de voor consumptie gerede waar, inclusief de vulling.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit treedt in werking met ingang van 3 augustus 2003, met dien verstande dat eet- of drinkwaren die vóór 3 augustus 2003 rechtmatig zijn geëtiketteerd overeenkomstig Verordening Akk Cacao en chocoladeprodukten 1974, verhandeld mogen worden totdat de voorraden daarvan zijn opgebruikt.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Cacao en chocolade.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling tenaamstelling en kentekenbewijzen"
+title: "Regeling kentekenbewijzen"
 identifier: "BWBR0007090"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007090"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007090"
+soort: "ministeriele-regeling"
+stam_id: "5222793"
+version_id: "30703702"
+internal_id: "C44010921"
+label_id: "5197574"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007090/2026-01-01/0"
+intitule_bron: "Stcrt.1994-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-13"
+intitule_published: "1994-12-23"
+intitule_in_force: "1994-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12887"
+original_signed_date: "2025-04-03"
+original_published_date: "2025-04-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-12887"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0007090&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007090&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tenaamstelling en kentekenbewijzen"
+signed_date: "2025-04-03"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling kentekenbewijzen
 
 Gelet op de [artikelen 36, derde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36), en [50, eerste en vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50) en de [artikelen 1, onderdelen f en i](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=1), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=21), [27, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=27), [31, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=32), [33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=33), [36, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=36), en [37, vijfde en zesde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=37);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 hetgeen daaronder wordt verstaan in [artikel 1.1 van de Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798&artikel=1.1).
 
-#### Artikel 2. Modellen kentekenbewijzen en overige modellen
+##### Artikel 2. Modellen kentekenbewijzen en overige modellen
 
 1. Voor kentekenbewijzen en delen daarvan worden de volgende, in de bijlage bij deze regeling opgenomen, modellen vastgesteld:
 
@@ -68,7 +94,7 @@ hetgeen daaronder wordt verstaan in [artikel 1.1 van de Regeling voertuigen](htt
 
 - e. een tenaamstellingsverslag: af te geven door de Dienst Wegverkeer: model D.4.
 
-#### Artikel 4. Gegevens bij aanvraag inschrijving en tenaamstelling bijzondere bromfietsen
+##### Artikel 4. Gegevens bij aanvraag inschrijving en tenaamstelling bijzondere bromfietsen
 
 De gegevens, bedoeld in [artikel 58y, vierde lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=58y), die bij een aanvraag voor inschrijving en tenaamstelling als bedoeld in artikel 58x, eerste lid, van het Kentekenreglement worden verstrekt zijn:
 
@@ -80,7 +106,7 @@ De gegevens, bedoeld in [artikel 58y, vierde lid, van het Kentekenreglement](htt
 
 - d. foto’s waarop de kenmerken van het voertuig, waaronder in ieder geval het voertuigidentificatienummer, zichtbaar zijn.
 
-#### Artikel 4. Aanwijzing instantie
+##### Artikel 4. Aanwijzing instantie
 
 1. De aanvrager van een kentekenbewijs dient, overeenkomstig het bepaalde in [artikel 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), persoonlijk te verschijnen bij:
 
@@ -92,7 +118,7 @@ De gegevens, bedoeld in [artikel 58y, vierde lid, van het Kentekenreglement](htt
 
 2. De erkenninghouder of diens gemachtigde, bedoeld in [artikel 50, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=50), verschijnt bij de in het eerste lid, onderdeel a of b, bedoelde instantie.
 
-#### Artikel 5. Documenten bij tenaamstelling met incompleet kentekenbewijs
+##### Artikel 5. Documenten bij tenaamstelling met incompleet kentekenbewijs
 
 Als documenten, als bedoeld in [artikel 27, achtste lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=27), worden aangewezen:
 
@@ -100,15 +126,15 @@ Als documenten, als bedoeld in [artikel 27, achtste lid, van het Kentekenregleme
 
 - b. een ingevulde en ondertekende verklaring van een door de Dienst Wegverkeer vastgesteld model.
 
-#### Artikel 6. Overleggen bescheiden bij uitvoer
+##### Artikel 6. Overleggen bescheiden bij uitvoer
 
 Vervallen
 
-#### Artikel 7. Toestemming eigenaar voor afgifte vervangend kentekenbewijs
+##### Artikel 7. Toestemming eigenaar voor afgifte vervangend kentekenbewijs
 
 Vervallen
 
-#### Artikel 8. Vervallenverklaring centraal
+##### Artikel 8. Vervallenverklaring centraal
 
 1. Indien een voertuig voorgoed buiten Nederland is gebracht en niet meer kan worden voldaan aan de [artikelen 31 tot en met 33 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=31), verklaart de Dienst Wegverkeer de tenaamstelling vervallen, indien een verklaring van een autoriteit in het buitenland bij hem is ingeleverd, waaruit blijkt dat het voertuig in het buitenland achterblijft. In dat geval behoeven de betrokken kentekenplaten niet te worden ingeleverd bij de Dienst Wegverkeer.
 
@@ -150,21 +176,21 @@ Vervallen
 
 4. Indien een voertuig voorgoed buiten Nederland wordt gebracht door een ander dan een erkend bedrijf en de betrokken kentekenplaten vermist zijn, verklaart de Dienst Wegverkeer de tenaamstelling vervallen mits een daartoe strekkende verklaring op een door de Dienst Wegverkeer voorgeschreven wijze bij deze dienst wordt ingediend.
 
-#### Artikel 9. Overgangsbepaling
+##### Artikel 9. Overgangsbepaling
 
 1. Op basis van de Wegenverkeerswet afgegeven modellen van kentekenbewijzen en delen daarvan, registratiebewijzen, kopieën deel III en ontvangstbewijzen behouden hun geldigheid tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) hun geldigheid verliezen. Op basis van de Wegenverkeerswet afgegeven modellen vrijwaringsbewijzen behouden hun geldigheid.
 
 2. Ontvangstbewijzen afgegeven volgens model D.2 van de bijlage zoals deze bijlage luidde voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), blijven geldig tot het moment waarop zij op basis van de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622) hun geldigheid verliezen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 januari 1995.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling tenaamstelling en kentekenbewijzen.
 
@@ -328,11 +354,11 @@ Aan de uitvoerverklaring is tevens een groene en een gele doorslag gehecht, welk
 
 Indien op de uitvoerverklaring een uitvoerkenteken is ingevuld, dient de verklaring tevens als uitvoerkentekenbewijs.
 
-#### Artikel 3
+##### Artikel 3
 
 De afgifte van een kentekenbewijs geschiedt elektronisch in het geval de aanvraag betrekking heeft op een kenteken als bedoeld in [artikel 4, derde lid, onderdeel c, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4).
 
-#### Artikel 8a
+##### Artikel 8a
 
 Vervallen
 

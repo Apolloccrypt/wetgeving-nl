@@ -1,13 +1,38 @@
 ---
 title: "Bevoegdhedenregeling NWO"
 identifier: "BWBR0045229"
-categorie: "Overig"
-publicatiedatum: 2025-03-05
-laatste_update: 2024-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045229"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-05"
+last_updated: "2024-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045229"
+soort: "zbo"
+stam_id: "15981333"
+version_id: "27814792"
+internal_id: "C43603321"
+label_id: "15915674"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045229/2025-03-05/0"
+intitule_bron: "Stcrt.2021-27744"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-26"
+intitule_published: "2021-06-04"
+intitule_in_force: "2021-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-27744"
+original_signed_date: "2021-05-26"
+original_published_date: "2021-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-27744"
+entry_into_force_date: "2021-06-04"
+jci_1_3: "jci1.3:c:BWBR0045229&z=2025-03-05&g=2025-03-05"
+jci_1_0: "1.0:c:BWBR0045229&g=2025-03-05"
+citeertitel_status: "officieel"
+signed_date: "2021-05-26"
+entry_into_force: "2021-06-04"
 ---
-
 # Bevoegdhedenregeling NWO
 
 Vastgesteld door de raad van bestuur op 26 mei 2021.

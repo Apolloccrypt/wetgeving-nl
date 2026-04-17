@@ -1,20 +1,44 @@
 ---
 title: "Regeling radarinstallaties en bochtaanwijzers 1995"
 identifier: "BWBR0007588"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007588"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007588"
+soort: "ministeriele-regeling"
+stam_id: "4569203"
+version_id: "6385372"
+internal_id: "C6632271"
+label_id: "4547584"
+dtd_version: "2.0"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007588/2024-01-01/0"
+intitule_bron: "Stcrt.1995-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-29"
+intitule_published: "1995-10-02"
+intitule_in_force: "1995-10-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-190"
+original_signed_date: "1995-09-29"
+original_published_date: "1995-10-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007588&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0007588&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "1995-09-29"
+entry_into_force: "1995-10-01"
 ---
-
 # Regeling radarinstallaties en bochtaanwijzers 1995
 
 Gelet op artikel 4A.02 van het [Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628), alsmede gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=6) en [19 van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19).
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +46,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **bochtaanwijzer:** een aanwijzer van de snelheid van draaiing van een schip.
 
-#### Artikel 2. Goedkeuring
+##### Artikel 2. Goedkeuring
 
 1. De Minister van Infrastructuur en Milieu verleent typegoedkeuring van een radarinstallatie dan wel van een bochtaanwijzer.
 
@@ -30,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een bochtaanwijzer als bedoeld in [artikel 4.06, eerste lid, onderdeel a, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), of als bedoeld in [artikel 19, zesde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](https://wetten.overheid.nl/jci1.3:c:BWBR0005315&artikel=19), is een bochtaanwijzer van een type dat door de Minister van Infrastructuur en Milieu is goedgekeurd volgens [bijlage M van het Reglement onderzoek schepen op de Rijn 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0025973&bijlage=M).
 
-#### Artikel 3. Bijzondere bepalingen voor aangewezen vaarwegen
+##### Artikel 3. Bijzondere bepalingen voor aangewezen vaarwegen
 
 1. De vaarwegen, bedoeld in [artikel 4.06, derde en vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=4.06), zijn:
 
@@ -70,33 +94,33 @@ In deze regeling wordt verstaan onder:
 
 6. Met een klein schip dat niet wordt gebezigd voor het bedrijfsmatig vervoer van goederen of personen worden gelijkgesteld een reddingsvaartuig en een vissersschip, zomede een door de Minister van Infrastructuur en Milieu aangewezen schip.
 
-#### Artikel 4. Veerponten
+##### Artikel 4. Veerponten
 
 1. Voor veerponten, die zijn ingericht om in twee richtingen te kunnen varen, geldt als keuringseis, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2024-01-01&g=2024-01-01), dat de koerslijn zich voortdurend over de gehele diameter van het scherm van 000 - 180 graden aftekent. Voor deze veerponten is een middelpuntsverschuiving niet vereist.
 
 2. Niet vrijvarende veerponten mogen zijn uitgerust met een radarinstallatie als bedoeld in [artikel 3, derde lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=3&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 5. Overgangstermijn
+##### Artikel 5. Overgangstermijn
 
 1. Een radarinstallatie van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2024-01-01&g=2024-01-01), van deze regeling bedoelde voorschriften.
 
 2. Een bochtaanwijzer van een type, dat volgens de Beschikking vaartuigen met radar (Stcrt. 1980, 209) of het Besluit schepen met Marifoon en Radar (Stcrt. 1984, 75) is goedgekeurd, wordt met ingang van 1 januari 2000 niet meer in een schip ingebouwd en wordt, indien de goedkeuring geschiedde voor 1 januari 1990, geacht tot 1 januari 2010 te zijn goedgekeurd overeenkomstig de in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007588&artikel=2&z=2024-01-01&g=2024-01-01), van deze regeling bedoelde voorschriften.
 
-#### Artikel 6. Eenmansstuurstelling
+##### Artikel 6. Eenmansstuurstelling
 
 De stuurstelling van een schip die zodanig is ingericht dat het voeren van het schip op radar door één persoon kan geschieden, moet voldoen aan de voorschriften die zijn vermeld in de bij deze regeling behorende bijlage.
 
-#### Artikel 7. Wederzijdse erkenning
+##### Artikel 7. Wederzijdse erkenning
 
 1. Met de in deze regeling bedoelde typegoedkeuring wordt gelijkgesteld een typegoedkeuring verleend door een onafhankelijke keuringsinstelling in een andere lid-staat van de Europese Unie danwel een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, welke typegoedkeuring is verleend op basis van onderzoekingen die ten minste aan gelijkwaardige eisen voldoen.
 
 2. Met de in deze regeling vastgestelde technische eisen worden gelijkgesteld daaraan gelijkwaardige technische eisen, vastgesteld door of vanwege een andere lid-staat van de Europese Unie danwel door of vanwege een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling radarinstallaties en bochtaanwijzers 1995.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
@@ -104,7 +128,7 @@ Vervallen
 
 De stuurstelling van een schip, die zodanig is ingericht, dat het voeren van het schip op radar door één persoon kan geschieden, moet voldoen aan de volgende voorschriften:
 
-#### I. Algemene bepalingen
+##### I. Algemene bepalingen
 
 1. De stuurhut moeten zodanig zijn ingericht dat de roerganger zijn werkzaamheden tijdens de vaart zittend kan verrichten.
 
@@ -112,7 +136,7 @@ De stuurstelling van een schip, die zodanig is ingericht, dat het voeren van het
 
 3. Controle-instrumenten moeten gemakkelijk kunnen worden afgelezen; zij moeten traploos regelbaar kunnen worden verlicht. Lichtbronnen mogen niet storen of de zichtbaarheid van de controle-instrumenten beïnvloeden.
 
-#### II. Installaties voor het besturen van het schip
+##### II. Installaties voor het besturen van het schip
 
 1. De bediening en de controle van de voortstuwingsmotoren en van de stuurinrichtingen moet vanaf de stuurstelling mogelijk zijn.
 
@@ -124,7 +148,7 @@ De stuurstelling van een schip, die zodanig is ingericht, dat het voeren van het
 
 5. Wanneer het schip is voorzien van koproeren of bijzondere roeren (b.v. voor achteruitvaren), moeten deze door speciale hefbomen kunnen worden bediend, die aan de in het vierde lid genoemde toepasselijke eisen voldoen. Dit geldt ook wanneer bij samenstellen de roerinrichtingen van andere schepen dan het voor het voeren van het samenstel gebruikte schip worden gebruikt.
 
-#### III. Bediening en controle van navigatielichten, lichtseinen en geluidsseinen
+##### III. Bediening en controle van navigatielichten, lichtseinen en geluidsseinen
 
 1. Ter controle van de navigatielichten en de lichtseinen moeten controlelampen in de stuurstelling zijn ingebouwd. De schakelaars van de navigatielichten moeten in of vlakbij de daarbij behorende controlelampen zijn aangebracht en daar duidelijk bij behoren. De groepering en de kleur van de controlelampen van de navigatielichten en de lichtseinen moet overeenkomen met de werkelijke opstelling en de kleur van de ingeschakelde navigatielichten en lichtseinen.
 
@@ -132,17 +156,17 @@ Het niet-functioneren van een navigatielicht of lichtsein moet het uitgaan van d
 
 2. De bediening van de geluidsseinen dient met de voet te kunnen geschieden. Dit geldt niet voor het ’blijf weg’-sein.
 
-#### IV. Radarinstallatie en bochtaanwijzer
+##### IV. Radarinstallatie en bochtaanwijzer
 
 Het radarscherm mag niet buiten de blikrichting van de roerganger vallen. Het radarbeeld moet zonder kap of scherm, ongeacht de buiten de stuurhut heersende verlichtingsomstandigheden, duidelijk zichtbaar zijn. De bochtaanwijzer moet direct boven of onder het radarbeeld zijn geplaatst of hierin zijn geïntegreerd.
 
-#### V. Marifooninstallatie
+##### V. Marifooninstallatie
 
 1. Op schepen moet voor het schip-schipverkeer en de nautische informatie het luisteren door een luidspreker en het spreken door een vast opgestelde microfoon geschieden. Het overschakelen van luisteren naar spreken moet door middel van drukknoppen geschieden. In geen geval mag de microfoon van dit verkeer voor verbindingen van het openbaar verkeer kunnen worden gebruikt.
 
 2. Wanneer een schip is uitgerust met een marifooninstallatie bestemd voor het openbaar verkeer, moet de ontvangst daarvan vanaf de zitplaats van de roerganger mogelijk zijn.
 
-#### VI. Interne spreekverbinding aan boord
+##### VI. Interne spreekverbinding aan boord
 
 Aan boord van schepen moet een interne spreekverbinding aanwezig zijn.
 
@@ -158,11 +182,11 @@ Vanaf de stuurstelling moeten de volgende spreekverbindingen tot stand kunnen wo
 
 Op alle punten van deze spreekverbinding dient het luisteren door luidsprekers en het spreken door vast opgestelde microfoons te kunnen geschieden. Met het voorschip en het achterschip van het schip of van het samenstel is een marifoonverbinding toegestaan.
 
-#### VII. Alarminstallatie
+##### VII. Alarminstallatie
 
 De roerganger moet een schakelaar ’AAN/UIT’ voor de bediening van het alarmsein binnen zijn bereik hebben. Voor dit sein mag geen schakelaar worden gebruikt die, wanneer men hem loslaat, automatisch in de stand ’UIT’ kan terugspringen.
 
-#### VIII. Installatie voor het bedienen van hekankers
+##### VIII. Installatie voor het bedienen van hekankers
 
 Op schepen en samenstellen, waarvan de lengte meer dan 86 m of de breedte meer dan 22,90 m bedraagt, moet de roerganger de hekankers vanaf zijn plaats kunnen presenteren.
 

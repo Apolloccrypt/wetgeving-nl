@@ -1,14 +1,40 @@
 ---
-title: "Wet bestuursrechtspraak bedrijfsorganisatie"
+title: "Wet van 16 september 1954, houdende administratieve rechtspraak bedrijfsorganisatie"
 identifier: "BWBR0002144"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-11-16
-laatste_update: 2023-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002144"
+country: "nl"
+rank: "wet"
+publication_date: "2023-11-16"
+last_updated: "2023-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002144"
+soort: "wet"
+stam_id: "2263303"
+version_id: "3469292"
+internal_id: "C3469291"
+label_id: "2214004"
+dtd_version: "2.0"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002144/2023-11-16/0"
+intitule_bron: "Stb.1954-416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-09-16"
+intitule_published: "1954-09-28"
+intitule_status: "goed"
+original_publication: "Stb.1999-592"
+original_signed_date: "1999-12-22"
+original_published_date: "1999-12-30"
+original_effect: "structuurwijziging"
+original_dossier: "26415"
+original_url_id: "stb-1999-592"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0002144&z=2023-11-16&g=2023-11-16"
+jci_1_0: "1.0:c:BWBR0002144&g=2023-11-16"
+citeertitel_status: "officieel"
+short_title: "Wet bestuursrechtspraak bedrijfsorganisatie"
+signed_date: "1999-12-22"
+entry_into_force: "2000-01-01"
 ---
-
-# Wet bestuursrechtspraak bedrijfsorganisatie
+# Wet van 16 september 1954, houdende administratieve rechtspraak bedrijfsorganisatie
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,17 +44,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ## Titel I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
 ## Titel II. Het College van Beroep voor het bedrijfsleven
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een College van Beroep voor het bedrijfsleven, verder te noemen het College, gevestigd te 's-Gravenhage.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij het College zijn werkzaam:
 
@@ -44,7 +70,7 @@ Er is een College van Beroep voor het bedrijfsleven, verder te noemen het Colleg
 
 - c. raadsheren-plaatsvervangers.
 
-#### Artikel 4
+##### Artikel 4
 
 Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1), [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=1a), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=2) en [6 van hoofdstuk 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&afdeling=6) is, met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=3), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=9), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11), [20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21), [21b](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b), [21c](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21c) en [23a](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=23a), van overeenkomstige toepassing op het College, met dien verstande dat:
 
@@ -62,7 +88,7 @@ Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.
 
 - g. de voorzitter en het andere rechterlijk lid van het bestuur niet tevens lid kunnen zijn van het bestuur van een rechtbank, het bestuur van een gerechtshof of het bestuur van de Centrale Raad van Beroep, behoudens het geval van tijdelijke waarneming, en het niet-rechterlijk lid van het bestuur, naast het geval van tijdelijke waarneming, slechts in bijzondere gevallen tevens lid kan zijn van het bestuur van één rechtbank, het bestuur van één gerechtshof of het bestuur van de Centrale Raad van Beroep.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op de leden met rechtspraak belast is de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365), voor zover betrekking hebbend op rechterlijke ambtenaren met rechtspraak belast, met uitzondering van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5a), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b), [5c, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5c), en [5g, tweede lid, onderdeel a, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5g), van overeenkomstige toepassing, met dien verstande dat:
 
@@ -86,51 +112,51 @@ Het bepaalde bij en krachtens de [afdelingen 1](https://wetten.overheid.nl/jci1.
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de overeenkomstige toepassing van het krachtens de [Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365) bepaalde ten aanzien van de in het eerste en tweede lid genoemde leden met rechtspraak belast, senior-gerechtsauditeurs en gerechtsauditeurs.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over de werkwijze van het College.
 
-#### Artikel 7
+##### Artikel 7
 
 De rechtbanken en de presidenten geven inlichtingen wanneer die door de president van het College voor de behandeling van een zaak noodzakelijk worden geacht.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
@@ -138,63 +164,63 @@ Vervallen
 
 ### HOOFDSTUK I. BEROEP
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### HOOFDSTUK II. HOGER BEROEP
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 ## Titel IV. Citeertitel
 
-#### Artikel 31
+##### Artikel 31
 
 Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
@@ -278,7 +304,7 @@ Deze wet wordt aangehaald als: Wet bestuursrechtspraak bedrijfsorganisatie.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Het College vormt en bezet op voorstel van de president grote kamers. Deze bestaan uit vijf leden, van wie een als voorzitter optreedt.
 
@@ -296,7 +322,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De leden met rechtspraak belast worden voor de overeenkomstige toepassing van [artikel 54a van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=54a) gelijkgesteld met een rechterlijk ambtenaar als bedoeld in [artikel 1, onderdeel b, onder 2° en 3°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1).
 

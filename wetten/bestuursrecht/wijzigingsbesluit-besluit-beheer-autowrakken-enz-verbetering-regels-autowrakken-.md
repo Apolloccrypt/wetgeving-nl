@@ -1,28 +1,54 @@
 ---
-title: "Wijzigingsbesluit Besluit beheer autowrakken, enz. (verbetering regels autowrakken en autobanden)"
+title: "Besluit van 19 juni 2007, houdende wijziging van het Besluit beheer autowrakken in verband met een verbetering van de implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), alsmede in verband met een rechterlijke uitspraak, en wijziging van het Besluit beheer autobanden in verband met verbetering van de handhaafbaarheid en vermindering van lasten (verbetering regels autowrakken en autobanden)"
 identifier: "BWBR0022132"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-10-01
-laatste_update: 2007-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022132"
+country: "nl"
+rank: "amvb"
+publication_date: "2007-10-01"
+last_updated: "2007-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022132"
+soort: "AMvB"
+stam_id: "9127433"
+version_id: "14590872"
+internal_id: "C19858971"
+label_id: "9106294"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022132/2007-10-01/0"
+intitule_bron: "Stb.2007-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-19"
+intitule_published: "2007-06-28"
+intitule_in_force: "2007-06-28"
+intitule_status: "goed"
+original_publication: "Stb.2007-231"
+original_signed_date: "2007-06-19"
+original_published_date: "2007-06-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-231"
+entry_into_force_date: "2007-06-29"
+jci_1_3: "jci1.3:c:BWBR0022132&z=2007-10-01&g=2007-10-01"
+jci_1_0: "1.0:c:BWBR0022132&g=2007-10-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit beheer autowrakken, enz. (verbetering regels autowrakken en autobanden)"
+signed_date: "2007-06-19"
+entry_into_force: "2007-06-29"
 ---
-
 # Besluit van 19 juni 2007, houdende wijziging van het Besluit beheer autowrakken in verband met een verbetering van de implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269), alsmede in verband met een rechterlijke uitspraak, en wijziging van het Besluit beheer autobanden in verband met verbetering van de handhaafbaarheid en vermindering van lasten (verbetering regels autowrakken en autobanden)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit beheer autowrakken.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit beheer autobanden.
 
-#### Artikel III
+##### Artikel III
 
 Het bevoegd gezag draagt er zorg voor dat op 1 juli 2009 de voor de datum van inwerkingtreding van dit besluit verleende vergunningen voor inrichtingen als bedoeld in [artikel 5, eerste lid, van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=5) aan dit besluit voldoen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Dit besluit treedt in werking met ingang van 1 oktober 2007.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)"
+title: "Wet van 21 november 2002 tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)"
 identifier: "BWBR0014314"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2003-08-01
-laatste_update: 2003-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014314"
+country: "nl"
+rank: "wet"
+publication_date: "2003-08-01"
+last_updated: "2003-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014314"
+soort: "wet"
+stam_id: "3269293"
+version_id: "5044742"
+internal_id: "C6676941"
+label_id: "3249454"
+dtd_version: "2.0"
+original_entry_into_force: "2003-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014314/2003-08-01/0"
+intitule_bron: "Stb.2002-588"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-21"
+intitule_published: "2002-12-19"
+intitule_in_force: "2003-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2002-588"
+original_signed_date: "2002-11-21"
+original_published_date: "2002-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "26932"
+original_url_id: "stb-2002-588"
+entry_into_force_date: "2003-08-01"
+jci_1_3: "jci1.3:c:BWBR0014314&z=2003-08-01&g=2003-08-01"
+jci_1_0: "1.0:c:BWBR0014314&g=2003-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Wet tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)"
+signed_date: "2002-11-21"
+entry_into_force: "2003-08-01"
 ---
-
-# Wet tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)
+# Wet van 21 november 2002 tot vaststelling van afdeling 7.4.6 van het Burgerlijk Wetboek (huur van bedrijfsruimte)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,51 +43,51 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [vijfde afdeling 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt Boek 7 van het Burgerlijk Wetboek.
 
-#### Artikel III
+##### Artikel III
 
 De [Huurwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002066) wordt ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt Boek 3 van het Burgerlijk Wetboek.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt Boek 5 van het Burgerlijk Wetboek.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de expertisecentra.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Tijdelijke wet huurkoop onroerende zaken.
 
-#### Artikel XI
+##### Artikel XI
 
 Vervallen
 
-#### Artikel XII
+##### Artikel XII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat artikel 290 lid 1 tot de inwerkingtreding van het bij Koninklijke Boodschap van 8 juni 1995 ingediende wetsvoorstel tot vaststelling en invoering van afdeling 7.1.12 (huurkoop onroerende zaken) van het nieuwe Burgerlijk Wetboek, als volgt luidt:
 

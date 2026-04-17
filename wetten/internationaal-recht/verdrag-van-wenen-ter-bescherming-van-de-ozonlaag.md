@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van Wenen ter bescherming van de ozonlaag"
 identifier: "BWBV0002799"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-12-27
-laatste_update: 1988-12-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002799"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-12-27"
+last_updated: "1988-12-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002799"
+soort: "verdrag"
+stam_id: "10003120733"
+version_id: "10003125472"
+internal_id: "C10006978811"
+label_id: "10003107474"
+dtd_version: "2.0"
+original_entry_into_force: "1988-12-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002799/1988-12-27/0"
+intitule_bron: "Trb.1985-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-09-28"
+intitule_published: "1985-11-12"
+intitule_in_force: "1988-11-15"
+intitule_status: "goed"
+original_publication: "Trb.1985-144"
+original_signed_date: "1988-09-28"
+original_published_date: "1985-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-144"
+entry_into_force_date: "1988-12-27"
+jci_1_3: "jci1.3:c:BWBV0002799&z=1988-12-27&g=1988-12-27"
+jci_1_0: "1.0:c:BWBV0002799&g=1988-12-27"
+citeertitel_status: "officieel"
+signed_date: "1988-09-28"
+entry_into_force: "1988-12-27"
 ---
-
 # Verdrag van Wenen ter bescherming van de ozonlaag
 
 Preambule
@@ -32,7 +57,7 @@ Vastbesloten de gezondheid van de mens en het milieu te beschermen tegen de scha
 
 Hebben als volgt besloten:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 7. „protocollen”: protocollen bij dit Verdrag.
 
-#### Artikel 2. Algemene verplichtingen
+##### Artikel 2. Algemene verplichtingen
 
 1. De Partijen treffen, in overeenstemming met de bepalingen van dit Verdrag en van de van kracht zijnde protocollen waarbij zij partij zijn, passende maatregelen ter bescherming van de gezondheid van de mens en van het milieu tegen de schadelijke gevolgen, voortvloeiend of vermoedelijk voortvloeiend uit menselijke activiteiten die veranderingen veroorzaken of vermoedelijk veroorzaken in de ozonlaag.
 
@@ -68,7 +93,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De toepassing van dit artikel wordt gebaseerd op ter zake dienende wetenschappelijke en technische overwegingen.
 
-#### Artikel 3. Wetenschappelijk onderzoek en systematische waarnemingen
+##### Artikel 3. Wetenschappelijk onderzoek en systematische waarnemingen
 
 1. De Partijen verplichten zich ertoe, al naar zulks van toepassing is, rechtstreeks of via bevoegde internationale organen het initiatief te nemen tot en mede te werken aan de uitvoering van wetenschappelijke onderzoekingen en wetenschappelijke evaluaties betreffende:
 
@@ -92,7 +117,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De Partijen verplichten zich tot samenwerking, rechtstreeks of via de bevoegde internationale organen, ten behoeve van het geregeld en tijdig verzamelen, beoordelen en verzenden van wetenschappelijke gegevens en gegevens van waarnemingen via de desbetreffende informatiecentra in de wereld.
 
-#### Artikel 4. Samenwerking op juridisch, wetenschappelijk en technisch gebied
+##### Artikel 4. Samenwerking op juridisch, wetenschappelijk en technisch gebied
 
 1. De Partijen vergemakkelijken en bevorderen de uitwisseling van wetenschappelijke, technische, sociaal-economische, commerciële en juridische informatie met betrekking tot dit Verdrag, zoals nader is uitgewerkt in Bijlage II. Deze informatie wordt verschaft aan door de Partijen overeengekomen organen. Elk orgaan dat informatie ontvangt die als vertrouwelijk wordt beschouwd door de Partij die deze informatie verschaft, zorgt ervoor dat de informatie niet wordt bekendgemaakt, en voegt deze samen, ten einde het vertrouwelijke karakter daarvan te beschermen, alvorens de informatie aan alle Partijen ter beschikking wordt gesteld.
 
@@ -106,11 +131,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - d). passende opleiding van wetenschappelijk en technisch personeel.
 
-#### Artikel 5. Verstrekking van informatie
+##### Artikel 5. Verstrekking van informatie
 
 De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in artikel 6 in het leven geroepen Conferentie der Partijen informatie over de door hen getroffen maatregelen ter uitvoering van dit Verdrag en van de protocollen waarbij zij partij zijn, in zodanige vorm en met zodanige tussenruimten als in de vergaderingen van de Partijen bij de desbetreffende akten wordt vastgesteld.
 
-#### Artikel 6. Conferentie der partijen
+##### Artikel 6. Conferentie der partijen
 
 1. Een Conferentie der Partijen wordt hierbij ingesteld. De eerste vergadering van de Conferentie der Partijen wordt bijeengeroepen door het secretariaat dat krachtens het bepaalde in artikel 7 voorlopig is aangewezen, ten hoogste één jaar na de inwerkingtreding van dit Verdrag. Daarna worden de gewone vergaderingen van de Conferentie der Partijen gehouden met door de Conferentie tijdens haar eerste vergadering vastgestelde geregelde tussenruimten.
 
@@ -144,7 +169,7 @@ De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in 
 
 5. De Verenigde Naties, hun gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke Staat die geen Partij bij dit Verdrag is, kunnen door waarnemers worden vertegenwoordigd op de vergaderingen van de Conferentie der Partijen. Alle organen of instellingen, hetzij nationaal of internationaal, gouvernementeel of niet-gouvernementeel, welke bevoegd zijn op gebieden die betrekking hebben op de bescherming van de ozonlaag, die aan het secretariaat hebben medegedeeld dat zij door waarnemers op een vergadering van de Conferentie der Partijen wensen te worden vertegenwoordigd, kunnen worden toegelaten, tenzij ten minste eenderde deel van de aanwezige Partijen daartegen bezwaar maakt. De toelating en deelneming van waarnemers zijn onderworpen aan het huishoudelijk reglement dat door de Conferentie der Partijen is aanvaard.
 
-#### Artikel 7. Secretariaat
+##### Artikel 7. Secretariaat
 
 1. Het secretariaat heeft de volgende taken:
 
@@ -162,13 +187,13 @@ De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in 
 
 2. De taken van het secretariaat worden voorlopig verricht door het Milieuprogramma van de Verenigde Naties tot na afloop van de eerste gewone vergadering van de Conferentie der Partijen die ingevolge het bepaalde in artikel 6 wordt gehouden. Tijdens de eerste gewone vergadering kiest de Conferentie der Partijen het secretariaat uit de bestaande bevoegde internationale organisaties die zich bereid hebben verklaard de secretariaatszaken krachtens dit Verdrag te verrichten.
 
-#### Artikel 8. Aanneming van protocollen
+##### Artikel 8. Aanneming van protocollen
 
 1. De Conferentie der Partijen kan tijdens een vergadering protocollen krachtens het bepaalde in artikel 2 aanvaarden.
 
 2. De tekst van elk voorgesteld protocol wordt door het secretariaat aan de Partijen medegedeeld ten minste zes maanden vóór deze vergadering.
 
-#### Artikel 9. Wijziging van het Verdrag of de protocollen
+##### Artikel 9. Wijziging van het Verdrag of de protocollen
 
 1. Elke Partij kan wijzigingen in dit Verdrag of in een protocol voorstellen. In deze wijzigingen wordt onder andere naar behoren rekening gehouden met van belang zijnde wetenschappelijke en technische overwegingen.
 
@@ -182,7 +207,7 @@ De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in 
 
 6. Voor de uitvoering van het bepaalde in dit artikel wordt verstaan onder „Partijen die aanwezig zijn en hun stem uitbrengen”: Partijen die aanwezig zijn en hun stem vóór of tegen een voorstel uitbrengen.
 
-#### Artikel 10. Aanneming en wijziging van Bijlagen
+##### Artikel 10. Aanneming en wijziging van Bijlagen
 
 1. De Bijlagen bij dit Verdrag of bij een protocol vormen een wezenlijk bestanddeel van dit Verdrag of van dat protocol, naar gelang het geval is, en een verwijzing naar dit Verdrag of de protocollen daarvan betekent tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald. Deze bijlagen worden beperkt tot wetenschappelijke, technische en administratieve aangelegenheden.
 
@@ -198,7 +223,7 @@ De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in 
 
 4. Indien een aanvullende bijlage of een wijziging van een bijlage een wijziging van dit Verdrag of van een protocol tot gevolg heeft, wordt de aanvullende bijlage of de gewijzigde bijlage pas van kracht als de wijziging van dit Verdrag of het desbetreffende protocol van kracht wordt.
 
-#### Artikel 11. Regeling van geschillen
+##### Artikel 11. Regeling van geschillen
 
 1. In geval van een geschil tussen de Partijen betreffende de uitlegging of de toepassing van dit Verdrag zoeken de betrokken partijen naar een oplossing door middel van onderhandelingen.
 
@@ -216,11 +241,11 @@ De Partijen verstrekken, via het secretariaat, aan de krachtens het bepaalde in 
 
 6. De bepalingen van dit artikel zijn van toepassing op elk protocol, tenzij in het desbetreffende protocol anders is overeengekomen.
 
-#### Artikel 12. Ondertekening
+##### Artikel 12. Ondertekening
 
 Dit Verdrag staat open voor ondertekening in het Bondsministerie van Buitenlandse Zaken van de Republiek Oostenrijk te Wenen van 22 maart 1985 tot en met 21 september 1985 en op het Hoofdkantoor van de Verenigde Naties te New York van 22 september 1985 tot en met 21 maart 1986.
 
-#### Artikel 13. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 13. Bekrachtiging, aanvaarding of goedkeuring
 
 1. Dit Verdrag en eventuele protocollen dienen te worden bekrachtigd, aanvaard of goedgekeurd door Staten en door organisaties voor regionale economische integratie. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Depositaris.
 
@@ -228,7 +253,7 @@ Dit Verdrag staat open voor ondertekening in het Bondsministerie van Buitenlands
 
 3. In hun akten van bekrachtiging, aanvaarding of goedkeuring geven de in het eerste lid bedoelde organisaties aan in welke mate zij bevoegd zijn met betrekking tot de aangelegenheden die door dit Verdrag of het desbetreffende protocol zijn geregeld. Deze organisaties geven de Depositaris voorts kennis van elke belangrijke wijziging in de omvang van hun bevoegdheden.
 
-#### Artikel 14. Toetreding
+##### Artikel 14. Toetreding
 
 1. Dit Verdrag en elk protocol daarbij staat open voor toetreding door Staten en door organisaties voor regionale economische integratie vanaf de datum waarop dit Verdrag of het desbetreffende protocol niet meer voor ondertekening open staat. De akten van toetreding worden bij de Depositaris nedergelegd.
 
@@ -236,19 +261,19 @@ Dit Verdrag staat open voor ondertekening in het Bondsministerie van Buitenlands
 
 3. De bepalingen van artikel 13, tweede lid, zijn van toepassing op organisaties voor regionale economische integratie die tot dit Verdrag of een protocol toetreden.
 
-#### Artikel 15. Stemrecht
+##### Artikel 15. Stemrecht
 
 1. Elke Partij bij dit Verdrag of bij een protocol brengt één stem uit.
 
 2. Behoudens het bepaalde in het eerste lid brengen de organisaties voor regionale economische integratie bij de uitoefening van hun stemrecht in aangelegenheden die binnen hun bevoegdheden vallen, zoveel stemmen uit als overeenkomen met het aantal van hun Lid-Staten dat Partij is bij dit Verdrag of bij het desbetreffende protocol. Deze organisaties oefenen hun stemrecht niet uit, indien hun Lid-Staten het hunne uitoefenen, en omgekeerd.
 
-#### Artikel 16. Betrekking tussen dit Verdrag en de protocollen daarbij
+##### Artikel 16. Betrekking tussen dit Verdrag en de protocollen daarbij
 
 1. Een Staat of een organisatie voor regionale economische integratie kan geen partij bij een protocol worden zonder tegelijkertijd Partij bij dit Verdrag te zijn of te worden.
 
 2. Besluiten betreffende een protocol worden uitsluitend genomen door de partijen bij het desbetreffende protocol.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -260,11 +285,11 @@ Dit Verdrag staat open voor ondertekening in het Bondsministerie van Buitenlands
 
 5. Voor de uitvoering van het bepaalde in het eerste en tweede lid wordt een akte die door een organisatie voor regionale economische integratie wordt nedergelegd, niet geteld bij die welke door de Lid-Staten van deze organisatie zijn nedergelegd.
 
-#### Artikel 18. Voorbehoud
+##### Artikel 18. Voorbehoud
 
 Er mogen geen voorbehouden worden gemaakt ten aanzien van dit Verdrag.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Na afloop van een termijn van vier jaar, te rekenen vanaf de datum waarop dit Verdrag in werking is getreden voor een Partij, kan deze Partij op elk tijdstip dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -274,7 +299,7 @@ Er mogen geen voorbehouden worden gemaakt ten aanzien van dit Verdrag.
 
 4. Elke Partij die dit Verdrag opzegt, wordt geacht tevens de protocollen waarbij zij partij is, te hebben opgezegd.
 
-#### Artikel 20. Depositaris
+##### Artikel 20. Depositaris
 
 1. De Secretaris-Generaal van de Verenigde Naties neemt de functies van depositaris van dit Verdrag en eventuele protocollen op zich.
 
@@ -294,11 +319,11 @@ Er mogen geen voorbehouden worden gemaakt ten aanzien van dit Verdrag.
 
 - g). verklaringen overeenkomstig het bepaalde in artikel 11, derde lid.
 
-#### Artikel 21. Authentieke teksten
+##### Artikel 21. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### 1
+##### 1
 
 De Partijen bij dit Verdrag stellen vast dat de belangrijkste wetenschappelijke vraagstukken zijn:
 
@@ -306,7 +331,7 @@ De Partijen bij dit Verdrag stellen vast dat de belangrijkste wetenschappelijke 
 
 - b). de verandering van de verticale verdeling van ozon, waardoor de temperatuurstructuur van de atmosfeer zou kunnen worden gewijzigd, alsmede de mogelijke gevolgen daarvan voor het weer en het klimaat.
 
-#### 2
+##### 2
 
 De Partijen bij dit Verdrag werken krachtens het bepaalde in artikel 3 samen bij de uitvoering van wetenschappelijk onderzoek en systematische waarnemingen, alsmede bij de opstelling van aanbevelingen voor toekomstige wetenschappelijke onderzoekingen en waarnemingen op de volgende gebieden:
 
@@ -362,11 +387,11 @@ De Partijen bij dit Verdrag werken krachtens het bepaalde in artikel 3 samen bij
 
 - (viii). Sporengassen, temperaturen, zonnestralingsflux en aërosols met behulp van verbeterde methoden voor het analyseren van gegevens op wereldschaal.
 
-#### 3
+##### 3
 
 Rekening houdend met de bijzondere behoeften van de ontwikkelingslanden, werken de Partijen bij dit Verdrag samen bij het bevorderen van een passende wetenschappelijke en technische opleiding die nodig is om aan de uitvoering van het wetenschappelijk onderzoek en de systematische waarnemingen, zoals in deze Bijlage zijn beschreven, deel te nemen. Er dient in het bijzonder aandacht te worden besteed aan de vergelijkende ijking van de instrumenten en de waarnemingsmethoden ten behoeve van de verkrijging van vergelijkbare en gestandaardiseerde wetenschappelijke gegevensverzamelingen.
 
-#### 4
+##### 4
 
 Van de volgende chemische stoffen van natuurlijke en antropogene oorsprong, die niet in volgorde van belangrijkheid zijn vermeld, wordt aangenomen dat zij het vermogen bezitten de chemische en fysische eigenschappen van de ozonlaag kunnen wijzigen.
 
@@ -400,15 +425,15 @@ Van de volgende chemische stoffen van natuurlijke en antropogene oorsprong, die 
 
 - (ii). **Water (H2O)** Water, dat van natuurlijke oorsprong is, speelt een essentiële rol in de fotochemische processen in zowel de troposfeer als de stratosfeer. Stratosferische bronnen van waterdamp worden onder andere gevormd door de oxidatie van methaan en, in mindere maten, van waterstof.
 
-#### 1
+##### 1
 
 De Partijen bij dit Verdrag erkennen dat het verzamelen en het ter-beschikking-stellen van informatie een belangrijk middel is om de doeleinden van dit Verdrag te verwezenlijken en te verzekeren dat alle maatregelen die kunnen worden genomen, passend en billijk zijn. De Partijen wisselen derhalve wetenschappelijke, technische, sociaal-economische, commerciële en juridische informatie uit.
 
-#### 2
+##### 2
 
 Bij het nemen van een beslissing welke informatie dient te worden verzameld en uitgewisseld, houden de Partijen bij dit Verdrag rekening met de bruikbaarheid van de informatie en met de kosten van verwerving daarvan. De Partijen erkennen voorts dat de samenwerking krachtens het bepaalde in deze Bijlage in overeenstemming dient te zijn met de nationale wetten, voorschriften en gewoonten met betrekking tot octrooien, fabrieksgeheimenen bescherming van vertrouwelijke informatie omtrent eigendomsrechten.
 
-#### 3. Wetenschappelijke informatie
+##### 3. Wetenschappelijke informatie
 
 Deze omvat informatie omtrent:
 
@@ -420,7 +445,7 @@ Deze omvat informatie omtrent:
 
 - (d). de beoordeling van de resultaten van het wetenschappelijk onderzoek en de aanbevelingen voor het toekomstige wetenschappelijke onderzoek.
 
-#### 4. Technische informatie
+##### 4. Technische informatie
 
 Deze omvat informatie omtrent:
 
@@ -428,7 +453,7 @@ Deze omvat informatie omtrent:
 
 - (b). de beperkingen en de eventuele risico's bij het gebruik van chemische of andere vervangingsmiddelen en alternatieve technologieën.
 
-#### 5. Sociaal-economische en commerciële informatie over de in Bijlage I genoemde stoffen
+##### 5. Sociaal-economische en commerciële informatie over de in Bijlage I genoemde stoffen
 
 Deze omvat informatie omtrent:
 
@@ -440,7 +465,7 @@ Deze omvat informatie omtrent:
 
 - (d). de kosten, risico's en voordelen van menselijke activiteiten die indirect de ozonlaag kunnen aantasten, en van de invloed van regulerende maatregelen die genomen zijn of worden overwogen voor de beheersing van deze activiteiten.
 
-#### 6. Juridische informatie
+##### 6. Juridische informatie
 
 Deze omvat informatie omtrent:
 

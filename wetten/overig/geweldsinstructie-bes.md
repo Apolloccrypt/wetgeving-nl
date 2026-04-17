@@ -1,13 +1,38 @@
 ---
 title: "Geweldsinstructie BES"
 identifier: "BWBR0034242"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034242"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034242"
+soort: "ministeriele-regeling"
+stam_id: "12441743"
+version_id: "20909162"
+internal_id: "C30021831"
+label_id: "12412674"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034242/2014-01-01/0"
+intitule_bron: "Stcrt.2013-33233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-15"
+intitule_published: "2013-11-29"
+intitule_in_force: "2013-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-33233"
+original_signed_date: "2013-11-15"
+original_published_date: "2013-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-33233"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034242&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034242&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-11-15"
+entry_into_force: "2014-01-01"
 ---
-
 # Geweldsinstructie BES
 
 Gelet op [artikel 37k van de Wet beginselen gevangeniswezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028596&artikel=37k);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -62,7 +87,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **onrust:** een ernstige en onmiddellijke ordeverstoring door meer dan één gedetineerde.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het gebruik van een geweldsmiddel of vrijheidsbeperkend middel is uitsluitend toegestaan aan een daartoe door de directeur aangewezen ambtenaar:
 
@@ -76,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 3. Er worden alleen geweldsmiddelen en vrijheidsbeperkende middelen gebruikt van een door Onze Minister goedgekeurd merk en type.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De directeur stelt een voor zijn inrichting geldende dienstinstructie voor het personeel vast.
 
@@ -86,7 +111,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Geweldsmiddelen
 
-#### Artikel 4
+##### Artikel 4
 
 Het gebruik van een vuurwapen is slechts geoorloofd:
 
@@ -98,21 +123,21 @@ Het gebruik van een vuurwapen is slechts geoorloofd:
 
 - d. ter afwending van direkt gevaar voor het leven van personen.
 
-#### Artikel 5
+##### Artikel 5
 
 Een vuurwapen mag slechts uit voorzorg ter hand worden genomen indien redelijkerwijs kan worden aangenomen dat zich een situatie als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034242&hoofdstuk=2&artikel=4&z=2014-01-01&g=2014-01-01) zal voordoen. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Alvorens gericht met een vuurwapen te schieten geeft de ambtenaar een mondelinge waarschuwing. De waarschuwing kan worden vervangen door een waarschuwingsschot, indien de omstandigheden de waarschuwing niet toelaten.
 
 2. Een waarschuwingsschot wordt op zodanige wijze afgevuurd dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-#### Artikel 7
+##### Artikel 7
 
 Een wapenstok mag slechts worden gebruikt ter afwending van ernstig geweld tegen personen of zaken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Pepperspray mag slechts worden gebruikt ter aanhouding van een gedetineerde indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
 
@@ -132,7 +157,7 @@ Een wapenstok mag slechts worden gebruikt ter afwending van ernstig geweld tegen
 
 ### Hoofdstuk 3. Vrijheidsbeperkende middelen
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vrijheidsbeperkende middelen, bedoeld in [artikel 1, sub f, onder 1° en 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0034242&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), kunnen worden gebruikt ten behoeve van vervoer of (interne) overplaatsing van een gedetineerde ter voorkoming van ontvluchting.
 
@@ -140,13 +165,13 @@ Een wapenstok mag slechts worden gebruikt ter afwending van ernstig geweld tegen
 
 3. Indien de toestand van de gedetineerde dit vereist, kunnen meerdere vrijheidsbeperkende middelen tegelijkertijd worden toegepast.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het gebruik van vrijheidsbeperkende middelen beperkt de gedetineerde niet verder in zijn vrijheid dan noodzakelijk ter voorkoming van ontvluchting of afwending van het van de gedetineerde ernstige gevaar voor diens gezondheid of veiligheid of de veiligheid van anderen.
 
 2. Bij het gebruik van vrijheidsbeperkende middelen bedoeld in [artikel 1, sub f, onder 3° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0034242&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), wordt zoveel mogelijk voorkomen dat de gedetineerde wordt belemmerd in de zelfstandige uitoefening van de lichaamsfuncties eten, drinken, urineren, ontlasten en slapen.
 
-#### Artikel 11
+##### Artikel 11
 
 Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 
@@ -158,7 +183,7 @@ Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 
 - d. het middel kan eenvoudig gereinigd worden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De daartoe aangewezen ambtenaar stelt zich tenminste eenmaal per uur door persoonlijke waarneming op de hoogte van de toestand van de gedetineerde op wie een vrijheidsbeperkend middel wordt toegepast, bedoeld in [artikel 1, sub f, onder 3° tot en met 9°](https://wetten.overheid.nl/jci1.3:c:BWBR0034242&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), en maakt daarvan verslag op.
 
@@ -168,7 +193,7 @@ Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 
 4. Indien het verslag van de ambtenaar of de bevindingen van de arts of diens plaatsvervanger daartoe aanleiding geven, doch in elk geval twee maal per etmaal, overweegt de directeur na overleg met de aan de inrichting verbonden arts of diens vervanger, of de toestand van de gedetineerde zodanig is gewijzigd dat kan worden volstaan met de bevestiging van vrijheidsbeperkende middelen die de gedetineerde minder vergaand in zijn vrijheid beperken, dan wel de bevestiging van vrijheidsbeperkende middelen kan worden beeïndigd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gedetineerde op wie een vrijheidsbeperkend middel wordt toegepast ontvangt tenminste drie maal per dag eten en drinken.
 
@@ -180,7 +205,7 @@ Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 
 ### Hoofdstuk 4. Meldplicht
 
-#### Artikel 14
+##### Artikel 14
 
 1. De ambtenaar die een geweldsmiddel of vrijheidsbeperkend middel heeft gebruikt maakt hiervan onverwijld melding aan de directeur door middel van een op ambtseed opgemaakt schriftelijk verslag. Dit verslag bevat de redenen voor en de gevolgen van het gebruik van het geweldsmiddel of vrijheidsbeperkend middel alsmede een vermelding van degene op wiens last het gebruik hiervan heeft plaatsgevonden.
 
@@ -190,7 +215,7 @@ Een vrijheidsbeperkend middel voldoet aan de volgende eisen:
 
 ### Hoofdstuk 5. Slotbepaling
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014.
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek China"
 identifier: "BWBV0003389"
-categorie: "Internationaal recht"
-publicatiedatum: 1984-10-01
-laatste_update: 1984-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003389"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-10-01"
+last_updated: "1984-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003389"
+soort: "verdrag"
+stam_id: "10003509643"
+version_id: "10003556872"
+internal_id: "C10006979961"
+label_id: "10003495034"
+dtd_version: "2.0"
+original_entry_into_force: "1984-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003389/1984-10-01/0"
+intitule_bron: "Trb.1981-12"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-01-19"
+intitule_in_force: "1984-08-31"
+intitule_status: "goed"
+original_publication: "Trb.1981-12"
+original_published_date: "1981-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-12"
+entry_into_force_date: "1984-10-01"
+jci_1_3: "jci1.3:c:BWBV0003389&z=1984-10-01&g=1984-10-01"
+jci_1_0: "1.0:c:BWBV0003389&g=1984-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1984-10-01"
 ---
-
 # Overeenkomst inzake economische en technologische samenwerking tussen het Koninkrijk der Nederlanden en de Volksrepubliek China
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China,
@@ -18,15 +40,15 @@ Kennis nemend van de Handelsovereenkomst tussen de Europese Economische Gemeensc
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Partijen stimuleren en bevorderen, tot hun wederzijds voordeel, de voortgaande ontwikkeling van de economische samenwerking tussen hun onderscheiden landen, binnen het kader van hun wetten en voorschriften en met inachtneming van hun internationale verplichtingen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen moedigen belanghebbende maatschappijen, organisaties en organen in hun onderscheiden landen aan, met elkander de contracten te sluiten en de andere regelingen te treffen die overeenkomen met de behoeften en mogelijkheden van hun beide landen, teneinde de ontwikkeling van hun economieën tot hun wederzijds voordeel te bevorderen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Overeenkomstsluitende Partijen stellen vast dat de samenwerking de volgende sectoren kan betreffen: industrie, mijnbouw, energie, de behandeling van afvalwater en de watervoorziening, handel, landbouw, tuinbouw, vervoersinfrastructuur, telecommunicatie, werktuigbouw en andere diensten.
 
@@ -34,7 +56,7 @@ De Overeenkomstsluitende Partijen moedigen belanghebbende maatschappijen, organi
 
 3. Projecten betreffende economische samenwerking en de voorwaarden aangaande zodanige projecten worden overeengekomen tussen de betrokken maatschappijen, organisaties en organen van de beide landen, binnen het kader van de desbetreffende wetten en voorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 De Overeenkomstsluitende Partijen komen overeen dat de samenwerking in de in artikel 3 van deze Overeenkomst aangegeven sectoren zal bestaan uit samenwerking tussen de belanghebbende maatschappijen, organisaties en organen in hun onderscheiden landen inzake onder meer de volgende aangelegenheden:
 
@@ -46,7 +68,7 @@ De Overeenkomstsluitende Partijen komen overeen dat de samenwerking in de in art
 
 - 4). de afzet van produkten.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen zijn zich bewust van het belang van nauwe samenwerking op het gebied van toegepast wetenschappelijk onderzoek en technologie, in het bijzonder in verband met de in artikel 3 van deze Overeenkomst aangegeven sectoren.
 
@@ -62,15 +84,15 @@ Zij stellen vast dat zodanige samenwerking in het bijzonder zal zijn gediend doo
 
 - 5). de uitwisseling van stagiairs en bezoeken van deskundigen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Overeenkomstsluitende Partijen zijn zich bewust van de betekenis die passende financieringsvoorwaarden hebben voor de oprichting van ondernemingen waarin wordt samengewerkt. Zij houden rekening met de doelstellingen van deze Overeenkomst, zodat de gunstigst mogelijke financiële voorwaarden kunnen worden geboden.
 
-#### Artikel 7
+##### Artikel 7
 
 De Overeenkomstsluitende Partijen komen overeen dat ter vergemakkelijking van de uitvoering van gezamenlijk overeengekomen ondernemingen waarin wordt samengewerkt zij elkander een zo gunstig mogelijke behandeling toekennen, binnen het kader van de in de onderscheiden landen bestaande en van toepassing zijnde wetten en voorschriften.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Overeenkomstsluitende Partijen komen overeen een Gemengde Commissie in te stellen, die zal bestaan uit vertegenwoordigers van de betrokken diensten van de beide regeringen en indien de onderscheiden delegaties in de Commissie hiertoe besluiten, kunnen deskundigen en vertegenwoordigers van belanghebbende maatschappijen, organisaties en organen in de beide landen deelnemen aan de werkzaamheden van de Commissie.
 
@@ -86,7 +108,7 @@ De bijeenkomsten van de Commissie worden beurtelings gehouden in 's-Gravenhage e
 
 2. Bij de inwerkingtreding van deze Overeenkomst wordt de Overeenkomst van 7 mei 1974 betreffende de instelling van een Gemengde Nederlands-Chinese Commissie voor Economie en Handel beëindigd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Overeenkomstsluitende Partijen elkander schriftelijk ervan in kennis hebben gesteld dat aan de wettelijke procedures in hun onderscheiden landen is voldaan en blijft van kracht voor een tijdvak van 5 jaar.
 

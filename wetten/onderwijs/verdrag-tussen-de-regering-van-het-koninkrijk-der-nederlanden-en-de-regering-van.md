@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake de wederzijdse erkenning van graden van instellingen voor hoger onderwijs en de toegang tot hoger onderwijs"
 identifier: "BWBV0001787"
-categorie: "Onderwijs"
-publicatiedatum: 2006-06-01
-laatste_update: 2005-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001787"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-06-01"
+last_updated: "2005-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001787"
+soort: "verdrag"
+stam_id: "10002521383"
+version_id: "10002507812"
+internal_id: "C10006996981"
+label_id: "10002510834"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001787/2006-06-01/0"
+intitule_bron: "Trb.2005-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-08"
+intitule_published: "2005-07-14"
+intitule_in_force: "2006-10-20"
+intitule_status: "goed"
+original_publication: "Trb.2005-180"
+original_signed_date: "2006-02-08"
+original_published_date: "2005-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-180"
+entry_into_force_date: "2006-06-01"
+jci_1_3: "jci1.3:c:BWBV0001787&z=2006-06-01&g=2006-06-01"
+jci_1_0: "1.0:c:BWBV0001787&g=2006-06-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-02-08"
+entry_into_force: "2006-06-01"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Volksrepubliek China inzake de wederzijdse erkenning van graden van instellingen voor hoger onderwijs en de toegang tot hoger onderwijs
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Geleid door de wens de kwaliteit van de banden op het gebied van onderwijs tusse
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte en doel
+##### Artikel 1. Reikwijdte en doel
 
 1. Dit Verdrag heeft tot doel in beide landen, ten behoeve van studiedoeleinden, de toegang tot hoger onderwijs en de wederzijdse erkenning van graden die aan studenten zijn verleend door hun instellingen van hoger onderwijs te vergemakkelijken.
 
@@ -34,7 +59,7 @@ Zijn het volgende overeengekomen:
 
 5. Dit Verdrag laat bestaande nationale wet- en regelgeving onverlet.
 
-#### Artikel 2. Graden van instellingen voor hoger onderwijs waarop dit Verdrag betrekking heeft
+##### Artikel 2. Graden van instellingen voor hoger onderwijs waarop dit Verdrag betrekking heeft
 
 1. Met betrekking tot Nederland:
 
@@ -78,7 +103,7 @@ De graden van instellingen voor hoger onderwijs waarop dit Verdrag betrekking he
 
 De **boshi** betreft primair een graad verbonden aan onderzoek, waarvoor een proefschrift gebaseerd op oorspronkelijk onderzoek moet worden geschreven, dat in het openbaar verdedigd moet worden. De**boshi** kan worden verleend door een universiteit of door onderzoeksinstellingen die door de nationale autoriteiten zijn goedgekeurd.
 
-#### Artikel 3. Wijze van toegang tot instellingen voor hoger onderwijs
+##### Artikel 3. Wijze van toegang tot instellingen voor hoger onderwijs
 
 1. Met betrekking tot Nederland:
 
@@ -108,7 +133,7 @@ De individuele instelling voor hoger onderwijs neemt zelfstandig beslissingen om
 
 De individuele instelling voor hoger onderwijs neemt zelfstandig beslissingen omtrent de toelating van studenten. De individuele instelling kan in elk afzonderlijk geval aanvullende eisen stellen.
 
-#### Artikel 4. Toepassing van de academische graden
+##### Artikel 4. Toepassing van de academische graden
 
 1. De volgende bezitters van graden in China:
 
@@ -126,11 +151,11 @@ De individuele instelling voor hoger onderwijs neemt zelfstandig beslissingen om
 
 - c. doctor (**boshi**); mogen in China op dezelfde wijze als in Nederland gebruik maken van de bovengenoemde academische titels met de verklaring tussen haakjes.
 
-#### Artikel 5. Territoriale toepasselijkheid
+##### Artikel 5. Territoriale toepasselijkheid
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied in Europa.
 
-#### Artikel 6. Inwerkingtreding, werkingsduur en beëindiging
+##### Artikel 6. Inwerkingtreding, werkingsduur en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop beide Verdragsluitende Partijen elkaar in kennis hebben gesteld van de voltooiing van hun onderscheiden grondwettelijke procedures.
 

@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling regelen vergoeding voor behandeling en verpleging"
 identifier: "BWBR0004285"
-categorie: "Overig"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004285"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004285"
+soort: "ministeriele-regeling"
+stam_id: "3784043"
+version_id: "5566892"
+internal_id: "C5759981"
+label_id: "3763774"
+dtd_version: "2.0"
+original_entry_into_force: "1988-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004285/2011-01-01/0"
+intitule_bron: "Stcrt.1988-38"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-01-27"
+intitule_published: "1988-02-24"
+intitule_in_force: "1988-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-38"
+original_signed_date: "1988-01-27"
+original_published_date: "1988-02-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-02-25"
+jci_1_3: "jci1.3:c:BWBR0004285&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0004285&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "1988-01-27"
+entry_into_force: "1988-02-25"
 ---
-
 # Vaststelling regelen vergoeding voor behandeling en verpleging
 
 Gelet op [artikel 3, tweede lid, van het koninklijk besluit van 23 oktober 1986 (Stb. 595) tot uitvoering van artikel 15 van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0004038&artikel=3) (Stb. 1986, 360);
@@ -16,7 +40,7 @@ Gehoord de Buitengewone Pensioenraad, de Commissie Indisch Verzet en de Stichtin
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - d. **de belanghebbende:** de deelnemer aan het verzet in de zin van de wet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De vergoeding ter zake van de kosten van behandeling en verpleging, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=15) en [artikel 3 van het koninklijk besluit van 23 oktober 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0004038&artikel=3) (Stb. 595) wordt aan de belanghebbende uitbetaald na overlegging van een rekening betreffende die behandeling en verpleging. Deze rekening dient vóór het einde van het kalenderjaar, volgende op dat waarin de kosten de belanghebbende in rekening zijn gebracht of de uitgaven door hem zijn gedaan, op de door de Sociale verzekeringsbank aan te geven wijze bij hem te worden ingediend.
 
 2. Indien de belanghebbende de rekening niet zelf voldoet, wordt de vergoeding uitbetaald aan degene die de behandeling en verpleging heeft verstrekt dan wel te wiens laste deze zijn gekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004285&artikel=2&z=2011-01-01&g=2011-01-01) bedoelde vergoeding wordt verleend met inachtneming van de volgende regelen:
 
@@ -78,6 +102,6 @@ De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004285&artikel=2&z=20
 
 - III. **Kosten van andere voorzieningen** Indien naar het oordeel van de Raad of de Sociale verzekeringsbank in verband met de invaliditeit waaraan recht op buitengewoon pensioen wordt ontleend, een voorziening van andere aard dan de onder I en II genoemde voorzieningen is vereist, welke niet uit een aan belanghebbende toekomende vermeerdering, als bedoeld in de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=13) en [14 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=14), kan worden bekostigd en welke voorziening in verhouding tot zijn levensomstandigheden kostbaar moet worden geacht, kan hem een door de Raad of de Sociale verzekeringsbank naar redelijkheid vast te stellen tegemoetkoming in de kosten van die voorziening worden verleend. Bij vaststelling van deze tegemoetkoming wordt door de Sociale verzekeringsbank geen rekening gehouden met de vaste vergoeding, bedoeld in [artikel 3, derde lid, van het koninklijk besluit van 23 oktober 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0004039&artikel=3) (Stb. 595).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na die van haar bekendmaking in de Nederlandse Staatscourant en werkt terug tot en met 1 januari 1983.

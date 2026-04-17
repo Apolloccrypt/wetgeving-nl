@@ -1,13 +1,37 @@
 ---
 title: "Samenwerking gelijktijdige boekenonderzoeken tussen de Staatsbelastingdienst van Oekraïne en de Belastingdienst van Nederland"
 identifier: "BWBR0014150"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-10-04
-laatste_update: 2002-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014150"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-10-04"
+last_updated: "2002-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014150"
+soort: "beleidsregel"
+stam_id: "8362723"
+version_id: "13234522"
+internal_id: "C17806271"
+label_id: "8343494"
+dtd_version: "2.0"
+original_entry_into_force: "2002-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014150/2002-10-04/0"
+intitule_bron: "Infob.2002-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-28"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-10"
+original_signed_date: "2002-10-28"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-10-04"
+jci_1_3: "jci1.3:c:BWBR0014150&z=2002-10-04&g=2002-10-04"
+jci_1_0: "1.0:c:BWBR0014150&g=2002-10-04"
+citeertitel_status: "redactioneel"
+signed_date: "2002-10-28"
+entry_into_force: "2002-10-04"
 ---
-
 # Samenwerking gelijktijdige boekenonderzoeken tussen de Staatsbelastingdienst van Oekraïne en de Belastingdienst van Nederland
 
 De Directeur-Generaal Belastingdienst geeft namens de Staatssecretaris van Financiën kennis van het volgende.

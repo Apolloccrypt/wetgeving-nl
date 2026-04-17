@@ -1,13 +1,39 @@
 ---
-title: "Besluit bijzondere vergaring nummergegevens telecommunicatie"
+title: "Besluit van 18 december 2001, houdende regels voor de vergaring van nummergegevens door middel van afwijkend frequentiegebruik en bestandsanalyse met het oog op het onderzoek van telecommunicatie (Besluit bijzondere vergaring nummergegevens telecommunicatie)"
 identifier: "BWBR0013213"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013213"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013213"
+soort: "AMvB"
+stam_id: "1668753"
+version_id: "2460602"
+internal_id: "C2460601"
+label_id: "1622114"
+dtd_version: "2.0"
+original_entry_into_force: "2002-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013213/2017-07-01/0"
+intitule_bron: "Stb.2002-31"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-18"
+intitule_published: "2002-01-29"
+intitule_in_force: "2002-02-26"
+intitule_status: "goed"
+original_publication: "Stb.2002-31"
+original_signed_date: "2001-12-18"
+original_published_date: "2002-01-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-31"
+entry_into_force_date: "2002-03-01"
+jci_1_3: "jci1.3:c:BWBR0013213&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0013213&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bijzondere vergaring nummergegevens telecommunicatie"
+signed_date: "2001-12-18"
+entry_into_force: "2002-03-01"
 ---
-
 # Besluit van 18 december 2001, houdende regels voor de vergaring van nummergegevens door middel van afwijkend frequentiegebruik en bestandsanalyse met het oog op het onderzoek van telecommunicatie (Besluit bijzondere vergaring nummergegevens telecommunicatie)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 16 mei 2001, nr. DGTP/01/2472/RJD, Directoraat-Generaal Telecommunicatie en Post, mede namens Onze Minister van Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Afwijkend gebruik van frequentieruimte
 
-#### Artikel 2
+##### Artikel 2
 
 1. De apparatuur waarmee op grond van [artikel 3.22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22) een gebruik van frequentieruimte is toegestaan dat afwijkt van het bepaalde bij of krachtens [hoofdstuk 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) voldoet aan de volgende eisen:
 
@@ -56,11 +82,11 @@ In dit besluit wordt verstaan onder:
 
 2. Door of namens de korpschef, Onze Minister van Defensie of Onze Minister van Financiën wordt een plaats aangewezen voor de opslag van de apparatuur, bedoeld in het eerste lid, en wordt ervoor zorg gedragen dat deze plaats beveiligd is en uitsluitend toegankelijk is voor of onder begeleiding van daartoe geautoriseerd personeel.
 
-#### Artikel 3
+##### Artikel 3
 
 Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01) bedoelde apparatuur wordt gelijkgesteld apparatuur die rechtmatig is vervaardigd of in de handel is gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig is vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die aan tenminste gelijkwaardige technische eisen voldoet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bevoegd tot het gebruik van de apparatuur, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=2&artikel=2&z=2017-07-01&g=2017-07-01), is de door de korpschef, Onze Minister van Defensie of Onze Minister van Financiën aangewezen opsporingsambtenaar die voldoet aan de door Onze Minister van Veiligheid en Justitie vastgestelde eisen betreffende kennis van de juridische, operationele en technische aspecten van het gebruik van de apparatuur.
 
@@ -76,7 +102,7 @@ Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=
 
 #### § 3. Bestandsanalyse
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op het verzoek van de bevoegde autoriteit in een geval als bedoeld in [artikel 13.4, tweede lid, jo artikel 13.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4), achterhaalt en verstrekt de aanbieder het aan de gebruiker verleende nummer.
 
@@ -94,7 +120,7 @@ Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=
 
 - c. een geval waarin het nummer waarmee de gebruiker van telecommunicatie contact zoekt, bekend is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanbieder achterhaalt het nummer, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2017-07-01&g=2017-07-01), door een bewerking toe te passen op de gegevens betreffende het gebruik van het door hem aangeboden openbare telecommunicatienetwerk of de door hem aangeboden openbare telecommunicatiedienst.
 
@@ -102,7 +128,7 @@ Met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=
 
 3. De aanbieder verstrekt, in afwijking van het tweede lid, het nummer zo spoedig mogelijk indien het verzoek niet ten minste de gegevens bevat, genoemd in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013213&paragraaf=3&artikel=5&z=2017-07-01&g=2017-07-01).
 
-#### Artikel 7
+##### Artikel 7
 
 Als gegevens, bedoeld in [artikel 13.4, tweede lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4), worden aangewezen:
 
@@ -114,11 +140,11 @@ Als gegevens, bedoeld in [artikel 13.4, tweede lid, tweede volzin, van de wet](h
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit bijzondere vergaring nummergegevens telecommunicatie.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

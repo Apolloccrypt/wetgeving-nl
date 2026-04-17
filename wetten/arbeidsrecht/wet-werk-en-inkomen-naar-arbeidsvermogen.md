@@ -1,14 +1,42 @@
 ---
-title: "Wet werk en inkomen naar arbeidsvermogen"
+title: "Wet van 10 november 2005, houdende bevordering van het naar arbeidsvermogen verrichten van werk of van werkhervatting van verzekerden die gedeeltelijk arbeidsgeschikt zijn en tot het treffen van een regeling van inkomen voor deze personen alsmede voor verzekerden die volledig en duurzaam arbeidsongeschikt zijn (Wet werk en inkomen naar arbeidsvermogen)"
 identifier: "BWBR0019057"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019057"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019057"
+soort: "wet"
+stam_id: "7599023"
+version_id: "21538322"
+internal_id: "C30922501"
+label_id: "7588324"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019057/2026-01-01/0"
+intitule_bron: "Stb.2005-572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-10"
+intitule_published: "2005-11-22"
+intitule_in_force: "2005-12-08"
+intitule_status: "goed"
+original_publication: "Stb.2014-259"
+original_signed_date: "2014-06-04"
+original_published_date: "2014-07-15"
+original_effect: "structuurwijziging"
+original_dossier: "33726"
+original_url_id: "stb-2014-259"
+entry_into_force_date: "2014-06-04"
+entry_into_force_dossier: "33726"
+jci_1_3: "jci1.3:c:BWBR0019057&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0019057&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet werk en inkomen naar arbeidsvermogen"
+signed_date: "2014-06-04"
+entry_into_force: "2014-06-04"
 ---
-
-# Wet werk en inkomen naar arbeidsvermogen
+# Wet van 10 november 2005, houdende bevordering van het naar arbeidsvermogen verrichten van werk of van werkhervatting van verzekerden die gedeeltelijk arbeidsgeschikt zijn en tot het treffen van een regeling van inkomen voor deze personen alsmede voor verzekerden die volledig en duurzaam arbeidsongeschikt zijn (Wet werk en inkomen naar arbeidsvermogen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -22,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 3. De wachttijd en de verlenging van de loondoorbetalingsverplichting
 
-#### Artikel 23. De wachttijd
+##### Artikel 23. De wachttijd
 
 1. Voordat de verzekerde aanspraak kan maken op een uitkering op grond van deze wet geldt voor hem een wachttijd van 104 weken.
 
@@ -52,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Op aanvraag van de verzekerde stelt het UWV, in afwijking van het eerste lid, een verkorte wachttijd vast indien de verzekerde volledig en duurzaam arbeidsongeschikt is als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.2&artikel=4&z=2026-01-01&g=2026-01-01), en bij de aanvraag [artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=66&z=2026-01-01&g=2026-01-01) in acht is genomen. Een verkorte wachttijd bedraagt ten minste 13 weken en ten hoogste 78 weken. Het einde van een verkorte wachttijd wordt niet eerder vastgesteld dan tien weken na de dag waarop de aanvraag daartoe is ingediend.
 
-#### Artikel 24. Vrijwillige loondoorbetaling werkgever
+##### Artikel 24. Vrijwillige loondoorbetaling werkgever
 
 1. Na afloop van de wachttijd wordt het tijdvak, gedurende welke de verzekerde jegens zijn werkgever recht heeft op loon of bezoldiging, op gezamenlijk verzoek van de verzekerde en die werkgever door het UWV verlengd, tenzij:
 
@@ -64,7 +92,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het UWV stelt bij toepassing van het tweede lid een nieuwe datum vast waarop het verlengde tijdvak eindigt, met dien verstande dat dit tijdvak niet eerder eindigt dan dertien weken na het verzoek, bedoeld in het tweede lid, tenzij de werkgever voor het verstrijken van het tijdvak van die dertien weken geen loon meer verschuldigd is, omdat de dienstbetrekking is geëindigd.
 
-#### Artikel 25. Reïntegratieverplichtingen en verplichte loondoorbetaling werkgever
+##### Artikel 25. Reïntegratieverplichtingen en verplichte loondoorbetaling werkgever
 
 1. De werkgever jegens wie de verzekerde, bij ongeschiktheid tot het verrichten van arbeid wegens ziekte, recht heeft op loon als bedoeld in [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) dan wel aanspraak heeft op bezoldiging op grond van [artikel 76a, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=76a) houdt aantekening van het verloop van de ziekte en de reïntegratie van de verzekerde.
 
@@ -102,7 +130,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 16. Bij ministeriële regeling kunnen voor de toepassing van het negende tot en met het vijftiende lid nadere regels worden gesteld.
 
-#### Artikel 26. Vangnetsituaties
+##### Artikel 26. Vangnetsituaties
 
 1. Ten aanzien van de verzekerde die op grond van [artikel 29, tweede lid, onderdelen a, b, c of d, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29) recht heeft op ziekengeld, is op het UWV [artikel 25, tweede, vierde, vijfde, en achtste tot en met zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2026-01-01&g=2026-01-01), niet van toepassing en is artikel 25, eerste, derde en zesde lid, van overeenkomstige toepassing. Het UWV stelt, binnen een bij ministeriële regeling nader te bepalen termijn, in overleg met die verzekerde, een plan van aanpak op. Het plan van aanpak wordt periodiek geëvalueerd. [Artikel 30a, zesde en zevende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30a) is van overeenkomstige toepassing, waarbij voor «de re-integratievisie» telkens wordt gelezen: het plan van aanpak.
 
@@ -124,7 +152,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 8.1. De aanvraag van de uitkering
 
-#### Artikel 64. Aanvraag van de uitkering
+##### Artikel 64. Aanvraag van de uitkering
 
 1. Het UWV stelt op aanvraag vast of recht op een uitkering op grond van [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2026-01-01&g=2026-01-01) of [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=54&z=2026-01-01&g=2026-01-01) ontstaat.
 
@@ -158,11 +186,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 13. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gegevens die door de verzekerde bij de aanvraag worden verstrekt.
 
-#### Artikel 65. Reïntegratieverslag bij aanvraag
+##### Artikel 65. Reïntegratieverslag bij aanvraag
 
 De aanvraag voor een uitkering op grond van deze wet gaat vergezeld van een reïntegratieverslag als bedoeld in [artikel 25, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2026-01-01&g=2026-01-01). De eerste zin is niet van toepassing voorzover [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=26&z=2026-01-01&g=2026-01-01), toepassing vindt. Het UWV beoordeelt of de werkgever en de verzekerde dan wel de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1) en de personen, bedoeld in [artikel 29, tweede lid, onderdelen a, b en c, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), die laatstelijk tot hem in dienstbetrekking stonden in redelijkheid hebben kunnen komen tot de reïntegratie-inspanningen, die zijn verricht.
 
-#### Artikel 66. Aanvraag van de uitkering bij verkorte wachttijd
+##### Artikel 66. Aanvraag van de uitkering bij verkorte wachttijd
 
 1. Een aanvraag voor een verkorte wachttijd als bedoeld in [artikel 23, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2026-01-01&g=2026-01-01), wordt tevens aangemerkt als aanvraag, bedoeld in [artikel 64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2026-01-01&g=2026-01-01).
 
@@ -198,7 +226,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 1.1. Diverse algemene begrippen
 
-#### Artikel 1. Algemene begrippen
+##### Artikel 1. Algemene begrippen
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -260,7 +288,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 - 3°. die directeur-grootaandeelhouder is, en het werk tot stand brengt uitsluitend voor rekening en risico van de onderneming van de rechtspersoon waarvan hij directeur-grootaandeelhouder is.
 
-#### Artikel 2. Gelijkstelling niet-gehuwden met gehuwden
+##### Artikel 2. Gelijkstelling niet-gehuwden met gehuwden
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met:
 
@@ -294,7 +322,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 8. Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-#### Artikel 3. Woon- en vestigingsplaats
+##### Artikel 3. Woon- en vestigingsplaats
 
 1. Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.
 
@@ -302,7 +330,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 #### § 1.2. Begrip volledig en duurzaam arbeidsongeschikt en gedeeltelijk arbeidsgeschikt
 
-#### Artikel 4. Definitie volledig en duurzaam arbeidsongeschikt
+##### Artikel 4. Definitie volledig en duurzaam arbeidsongeschikt
 
 1. Volledig en duurzaam arbeidsongeschikt is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling duurzaam slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur.
 
@@ -310,11 +338,11 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 3. Onder duurzaam wordt mede verstaan een medische situatie waarbij op lange termijn een geringe kans op herstel bestaat.
 
-#### Artikel 5. Definitie gedeeltelijk arbeidsgeschikt
+##### Artikel 5. Definitie gedeeltelijk arbeidsgeschikt
 
 Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebrek, zwangerschap of bevalling slechts in staat is met arbeid ten hoogste 65% te verdienen van het maatmaninkomen per uur, doch die niet volledig en duurzaam arbeidsongeschikt is.
 
-#### Artikel 6. Nadere bepalingen definitie volledig en duurzaam arbeidsongeschikt en definitie gedeeltelijk arbeidsgeschikt
+##### Artikel 6. Nadere bepalingen definitie volledig en duurzaam arbeidsongeschikt en definitie gedeeltelijk arbeidsgeschikt
 
 1. De beoordeling of iemand volledig en duurzaam arbeidsongeschikt of gedeeltelijk arbeidsgeschikt is, wordt gebaseerd op een verzekeringsgeneeskundig en een arbeidskundig onderzoek.
 
@@ -330,13 +358,13 @@ Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch va
 
 #### § 1.3. Begrip verplicht verzekerde
 
-#### Artikel 7. De verplicht verzekerde
+##### Artikel 7. De verplicht verzekerde
 
 1. Verplicht verzekerd is de werknemer.
 
 2. Een aanvraag tot het geven van een beschikking over het verplicht verzekerd zijn op grond van deze wet kan door de werknemer uitsluitend bij het UWV worden ingediend.
 
-#### Artikel 8. De werknemer
+##### Artikel 8. De werknemer
 
 1. Werknemer is de werknemer in de zin van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) met uitzondering van de werknemer:
 
@@ -348,7 +376,7 @@ Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch va
 
 3. Bij de toepassing van het eerste lid blijft [artikel 6, tweede lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=6) buiten toepassing ten aanzien van de persoon die geen arbeid verricht wegens het genieten van ononderbroken onbetaald verlof tot een maximum van achttien maanden, waarbij perioden van onbetaald verlof die elkaar met een onderbreking van minder dan vier weken opvolgen als ononderbroken onbetaald verlof worden aangemerkt.
 
-#### Artikel 9. Uitbreiding werknemerschap
+##### Artikel 9. Uitbreiding werknemerschap
 
 Als werknemer wordt mede beschouwd:
 
@@ -360,7 +388,7 @@ Als werknemer wordt mede beschouwd:
 
 - b. de persoon, die wegens werkloosheid niet werkt en die op grond van een bij ministeriële regeling aan te wijzen, van overheidswege getroffen regeling, uitkering ontvangt.
 
-#### Artikel 10. Nawerking verzekering
+##### Artikel 10. Nawerking verzekering
 
 1. De persoon die binnen vier weken na het einde van zijn verzekering ziek wordt, wordt voor het recht op een uitkering op grond van deze wet beschouwd alsof hij verzekerd was gebleven. Indien de verzekering berust op een dienstbetrekking als bedoeld in [artikel 3 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=3), is de eerste zin eerst na het eindigen van die dienstbetrekking van toepassing.
 
@@ -370,7 +398,7 @@ Als werknemer wordt mede beschouwd:
 
 #### § 1.4. Begrip werkgever
 
-#### Artikel 11. De werkgever
+##### Artikel 11. De werkgever
 
 1. Werkgever is de werkgever in de zin van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) behoudens voorzover deze zijn werkgeverschap ontleent aan [artikel 10, onder 1°, onder g, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=10).
 
@@ -378,7 +406,7 @@ Als werknemer wordt mede beschouwd:
 
 3. In de gevallen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=9&z=2026-01-01&g=2026-01-01), wordt als werkgever aangemerkt de persoon of instantie, die door Onze Minister als werkgever wordt aangewezen.
 
-#### Artikel 12. Het loon
+##### Artikel 12. Het loon
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -390,7 +418,7 @@ Als werknemer wordt mede beschouwd:
 
 3. De persoon die op grond van een regeling als bedoeld in [artikel 9, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=9&z=2026-01-01&g=2026-01-01), een uitkering ontvangt, wordt geacht op elke dag waarover hij die uitkering ontvangt, loon te ontvangen, ter hoogte van die uitkering.
 
-#### Artikel 13. Dagloon en maandloon
+##### Artikel 13. Dagloon en maandloon
 
 1. Voor de berekening van een uitkering waarop op grond van deze wet recht bestaat, wordt als dagloon beschouwd 1/261 deel van het loon dat de werknemer verdiende in de periode van één jaar, die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ziekte, het gebrek, de zwangerschap of de bevalling, die tot volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid heeft geleid, is ingetreden doch ten hoogste het in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) bedoelde bedrag met betrekking tot een loontijdvak van een dag.
 
@@ -404,7 +432,7 @@ Als werknemer wordt mede beschouwd:
 
 - b. indien niet over een volledige kalendermaand recht op een uitkering bestaat: de uitkomst van het aantal dagen in de betreffende kalendermaand waarover recht op een uitkering bestaat gedeeld door het totaal aantal dagen in de betreffende kalendermaand vermenigvuldigd met 21,75 maal het dagloon. Bij het bepalen van het aantal dagen worden de zaterdagen en zondagen buiten beschouwing gelaten.
 
-#### Artikel 14. Indexering
+##### Artikel 14. Indexering
 
 1. De daglonen worden herzien met ingang van de dag waarop en in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) wordt herzien.
 
@@ -416,7 +444,7 @@ Als werknemer wordt mede beschouwd:
 
 #### § 1.6. Het begrip arbeidsverleden
 
-#### Artikel 15. Arbeidsverleden
+##### Artikel 15. Arbeidsverleden
 
 1. In deze wet en de daarop berustende bepalingen wordt onder arbeidsverleden verstaan de periode die wordt berekend door samentelling van:
 
@@ -472,17 +500,17 @@ Als werknemer wordt mede beschouwd:
 
 #### § 2.1. De verzekering
 
-#### Artikel 16. De verzekerden
+##### Artikel 16. De verzekerden
 
 Naast de op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=7&z=2026-01-01&g=2026-01-01) verplicht verzekerde personen en de op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=10&z=2026-01-01&g=2026-01-01) als verzekerd beschouwde personen zijn op grond van deze wet en de daarop berustende bepalingen eveneens verzekerd personen die zich vrijwillig hebben verzekerd op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&z=2026-01-01&g=2026-01-01) van dit hoofdstuk.
 
-#### Artikel 17. Aaneensluitende verzekeringen
+##### Artikel 17. Aaneensluitende verzekeringen
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen gelden aaneensluitende verzekeringen op grond van deze wet als één verzekering.
 
 #### § 2.2. De vrijwillige verzekering
 
-#### Artikel 18. Verplichte toelating tot vrijwillige verzekering
+##### Artikel 18. Verplichte toelating tot vrijwillige verzekering
 
 1. Het UWV laat op grond van deze paragraaf tot de vrijwillige verzekering toe, mits hij hier te lande woont:
 
@@ -528,7 +556,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen gelden aaneen
 
 6. De in het eerste lid, onderdelen c respectievelijk d, genoemde voorwaarde van een verzekeringsduur van één jaar respectievelijk van drie jaren wordt geacht te zijn vervuld, indien de betrokkene een uitkering ontvangt op grond van deze wet.
 
-#### Artikel 19. Indiening verzoek en aanvang vrijwillige verzekering
+##### Artikel 19. Indiening verzoek en aanvang vrijwillige verzekering
 
 1. Het verzoek om toelating tot de vrijwillige verzekering wordt ingediend bij het UWV:
 
@@ -554,7 +582,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen gelden aaneen
 
 - d. voor de in [artikel 18, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&artikel=18&z=2026-01-01&g=2026-01-01), bedoelde persoon: op de dag, waarop zijn werkzaamheden buiten Nederland een aanvang hebben genomen.
 
-#### Artikel 20. Beëindiging vrijwillige verzekering
+##### Artikel 20. Beëindiging vrijwillige verzekering
 
 Het UWV beëindigt de vrijwillige verzekering:
 
@@ -570,7 +598,7 @@ Het UWV beëindigt de vrijwillige verzekering:
 
 - f. indien niet langer wordt voldaan aan andere vereisten voor toelating tot de vrijwillige verzekering, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&artikel=18&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 21. Hoogte dagloon en WGA-uitkering vrijwillige verzekering
+##### Artikel 21. Hoogte dagloon en WGA-uitkering vrijwillige verzekering
 
 1. De persoon, die om toelating tot de vrijwillige verzekering verzoekt, bepaalt bij de aanvang van de vrijwillige verzekering de hoogte van het dagloon, met dien verstande dat dit niet meer kan bedragen dan:
 
@@ -608,7 +636,7 @@ Het UWV beëindigt de vrijwillige verzekering:
 
 6. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
-#### Artikel 21a. Nadere regels UWV
+##### Artikel 21a. Nadere regels UWV
 
 Het UWV stelt nadere regels met betrekking tot de vrijwillige verzekering. Deze regels bevatten in ieder geval bepalingen met betrekking tot:
 
@@ -618,7 +646,7 @@ Het UWV stelt nadere regels met betrekking tot de vrijwillige verzekering. Deze 
 
 - c. het dagloon, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&artikel=21&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 22. Schakelbepaling
+##### Artikel 22. Schakelbepaling
 
 Voorzover daarvan in deze paragraaf niet wordt afgeweken zijn de overige artikelen van deze wet en de daarop berustende bepalingen van overeenkomstige toepassing op deze paragraaf.
 
@@ -628,7 +656,7 @@ Voorzover daarvan in deze paragraaf niet wordt afgeweken zijn de overige artikel
 
 #### § 4.1. Verplichtingen van de verzekerde
 
-#### Artikel 27. Informatieplicht en medewerking aan controle
+##### Artikel 27. Informatieplicht en medewerking aan controle
 
 1. De verzekerde die een aanvraag voor een uitkering heeft ingediend of een recht heeft op een uitkering op grond van deze wet en de instelling waaraan op grond van [artikel 71](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=71&z=2026-01-01&g=2026-01-01) een uitkering op grond van deze wet wordt uitbetaald, verstrekt op verzoek of uit eigen beweging zo spoedig mogelijk alle informatie, waarvan het hem redelijkerwijs duidelijk moet zijn dat die van invloed kan zijn op het recht op uitkering, de hoogte van de uitkering of de betaling van de uitkering, waaronder mede is begrepen informatie in het kader van reïntegratie, aan het UWV. Deze verplichting geldt niet indien die feiten en omstandigheden door het UWV kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
@@ -662,7 +690,7 @@ Voorzover daarvan in deze paragraaf niet wordt afgeweken zijn de overige artikel
 
 8. De werkgever die een aanvraag heeft ingediend voor of recht heeft op een subsidie als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2026-01-01&g=2026-01-01) en de persoon, niet zijnde verzekerde, bedoeld in het eerste lid, die een aanvraag heeft ingediend voor of recht heeft op een voorziening als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01), verstrekken op verzoek van het UWV of uit eigen beweging zo spoedig mogelijk alle informatie, waarvan het hem redelijkerwijs duidelijk moet zijn dat zij van invloed kan zijn op de verstrekking of toekenning of op de duur of de hoogte van het reïntegratie-instrument, aan het UWV.
 
-#### Artikel 28. Plichten ter voorkoming van ontstaan en bestaan van recht op uitkering op grond van deze wet
+##### Artikel 28. Plichten ter voorkoming van ontstaan en bestaan van recht op uitkering op grond van deze wet
 
 1. De verzekerde voorkomt het ontstaan van arbeidsongeschiktheid of verminderde arbeidsgeschiktheid en beperkt het bestaan van arbeidsongeschiktheid of verminderde arbeidsgeschiktheid, voorzover dit redelijkerwijs van hem verwacht mag worden.
 
@@ -678,7 +706,7 @@ Voor de toepassing van dit artikellid wordt onder werkgever mede verstaan de eig
 
 3. Dit artikel is van overeenkomstige toepassing op de persoon die tijdens de wachttijd, met uitzondering van de eerste dag van die wachttijd, geen verzekerde is op grond van deze wet.
 
-#### Artikel 29. Plichten gericht op vergroten van mogelijkheden tot het verrichten van arbeid
+##### Artikel 29. Plichten gericht op vergroten van mogelijkheden tot het verrichten van arbeid
 
 1. De verzekerde die recht heeft op een WGA-uitkering is verplicht in voldoende mate te trachten mogelijkheden tot het verrichten van passende arbeid te behouden of te verkrijgen.
 
@@ -694,7 +722,7 @@ Voor de toepassing van dit artikellid wordt onder werkgever mede verstaan de eig
 
 - e. te voldoen aan verplichtingen die zijn opgenomen in de reïntegratievisie en het reïntegratieplan.
 
-#### Artikel 30. Plichten gericht op inschakeling in de arbeid
+##### Artikel 30. Plichten gericht op inschakeling in de arbeid
 
 1. De verzekerde die recht heeft op een WGA-uitkering is verplicht:
 
@@ -716,11 +744,11 @@ Voor de toepassing van dit artikellid wordt onder werkgever mede verstaan de eig
 
 5. Het door de verzekerde, bedoeld in het derde lid, niet voeren van verweer tegen of het instemmen met een beëindiging van de dienstbetrekking door of op verzoek van de werkgever leidt niet tot overtreding van de verplichting, bedoeld in het derde lid, aanhef en onderdeel a.
 
-#### Artikel 31. Plichten wettelijk vertegenwoordiger
+##### Artikel 31. Plichten wettelijk vertegenwoordiger
 
 De plichten, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=29&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=30&z=2026-01-01&g=2026-01-01) en [64, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2026-01-01&g=2026-01-01), worden, indien de in die artikelen genoemde verzekerde een wettelijk vertegenwoordiger heeft, door die vertegenwoordiger nageleefd. Voorzover de plichten slechts door de verzekerde kunnen worden nageleefd, bevordert de wettelijk vertegenwoordiger die naleving.
 
-#### Artikel 32. Delegatiebevoegdheid
+##### Artikel 32. Delegatiebevoegdheid
 
 1. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=29&z=2026-01-01&g=2026-01-01) en [30, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=30&z=2026-01-01&g=2026-01-01).
 
@@ -730,17 +758,17 @@ De plichten, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR001
 
 #### § 4.2. Rechten van de verzekerde en reïntegratie-instrumenten
 
-#### Artikel 33. Mogelijkheid geldend maken aanspraken en naleven plichten
+##### Artikel 33. Mogelijkheid geldend maken aanspraken en naleven plichten
 
 De verzekerde die een aanvraag voor een uitkering heeft ingediend, of een recht heeft op een uitkering op grond van deze wet wordt door zijn werkgever in de gelegenheid gesteld tot het geldend maken van de hem op grond van deze wet en de daarop berustende bepalingen toekomende aanspraken en tot het nakomen van de hem op grond van deze wet en de daarop berustende bepalingen opgelegde verplichtingen, voorzover de uitoefening van die bevoegdheden en de nakoming van die verplichtingen niet buiten de arbeidstijd kan geschieden.
 
-#### Artikel 34. Recht op ondersteuning bij arbeidsinschakeling van UWV
+##### Artikel 34. Recht op ondersteuning bij arbeidsinschakeling van UWV
 
 1. De verzekerde die recht heeft op een WGA-uitkering die niet ten laste komt van een eigenrisicodrager, heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV noodzakelijk geachte voorziening gericht op arbeidsinschakeling, tenzij [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.4&artikel=42&z=2026-01-01&g=2026-01-01) van toepassing is.
 
 2. Dit artikel is niet van toepassing op de verzekerde, die werkzaam is als werknemer in de zin van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
-#### Artikel 35. Arbeidsplaatsvoorzieningen en voorzieningen ter ondersteuning van toeleiding naar arbeid
+##### Artikel 35. Arbeidsplaatsvoorzieningen en voorzieningen ter ondersteuning van toeleiding naar arbeid
 
 1. Het UWV kan aan de persoon met een naar het oordeel van het UWV structurele functionele beperking, en die arbeid in dienstbetrekking verricht of die arbeid in dienstbetrekking gaat verrichten, doch niet werkzaam is of zal zijn als werknemer in de zin van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), of die scholing of opleiding in het kader van de bevordering van de inschakeling in het arbeidsproces volgt of gaat volgen of arbeid op een proefplaats verricht of gaat verrichten, met uitzondering van de persoon die werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening, op aanvraag voorzieningen toekennen die strekken tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, het volgen van de scholing of opleiding of het verrichten van arbeid op die proefplaats.
 
@@ -764,7 +792,7 @@ De verzekerde die een aanvraag voor een uitkering heeft ingediend, of een recht 
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 36. Subsidieregeling werkgever
+##### Artikel 36. Subsidieregeling werkgever
 
 1. Het UWV kan op aanvraag van de werkgever die met een werknemer een dienstbetrekking, anders dan een dienstbetrekking in de zin van de [WSW](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), van ten minste zes maanden is aangegaan of waarmee door elkaar opvolgende dienstbetrekkingen gedurende ten minste zes maanden een dienstbetrekking blijkt te bestaan, subsidie verstrekken voor meerkosten voorzover:
 
@@ -798,7 +826,7 @@ De verzekerde die een aanvraag voor een uitkering heeft ingediend, of een recht 
 
 6. De bedragen in dit artikel worden verlaagd naar evenredigheid van de kortere duur van de dienstbetrekking.
 
-#### Artikel 37. Proefplaatsing
+##### Artikel 37. Proefplaatsing
 
 1. Het UWV en de eigenrisicodrager kunnen, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de gedeeltelijk arbeidsgeschikte die recht heeft op een uitkering op grond van deze wet om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.
 
@@ -820,11 +848,11 @@ De verzekerde die een aanvraag voor een uitkering heeft ingediend, of een recht 
 
 #### § 4.3. Bevoegdheden en verplichtingen van het UWV
 
-#### Artikel 38. Controlevoorschriften
+##### Artikel 38. Controlevoorschriften
 
 Het UWV kan controlevoorschriften vaststellen. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
-#### Artikel 39. Reïntegratie-aanpak door het UWV
+##### Artikel 39. Reïntegratie-aanpak door het UWV
 
 1. Nadat het recht op een WGA-uitkering is vastgesteld, stelt het UWV in samenspraak met de verzekerde een reïntegratievisie vast waarin verplichtingen en rechten van de verzekerde zijn vermeld.
 
@@ -840,21 +868,21 @@ Het UWV kan controlevoorschriften vaststellen. Deze voorschriften gaan niet verd
 
 7. Dit artikel is niet van toepassing indien [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.4&artikel=42&z=2026-01-01&g=2026-01-01) van toepassing is.
 
-#### Artikel 40. Instroomcijfers WIA
+##### Artikel 40. Instroomcijfers WIA
 
 Vervallen
 
-#### Artikel 41. Periodieke beoordeling volledig en duurzaam arbeidsongeschikte met geringe kans op herstel
+##### Artikel 41. Periodieke beoordeling volledig en duurzaam arbeidsongeschikte met geringe kans op herstel
 
 Vervallen
 
-#### Artikel 41a. Reiskostenvergoeding
+##### Artikel 41a. Reiskostenvergoeding
 
 In door het UWV vast te stellen gevallen worden reiskosten, verblijfkosten en tijdverlies vergoed van personen die door het UWV zijn opgeroepen en van hun begeleiders indien de toestand van de persoon begeleiding noodzakelijk maakt.
 
 #### § 4.4. Verplichtingen van de eigenrisicodrager
 
-#### Artikel 42. Reïntegratieplicht eigenrisicodrager
+##### Artikel 42. Reïntegratieplicht eigenrisicodrager
 
 1. De eigenrisicodrager bevordert ten aanzien van de verzekerde, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01), die recht heeft op een WGA-uitkering, de inschakeling in de arbeid in zijn bedrijf of in het bedrijf van een andere werkgever.
 
@@ -870,7 +898,7 @@ In door het UWV vast te stellen gevallen worden reiskosten, verblijfkosten en ti
 
 ### Hoofdstuk 5. Uitsluitingsgronden voor het recht op een uitkering
 
-#### Artikel 43. Uitsluitingsgronden
+##### Artikel 43. Uitsluitingsgronden
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen worden de volgende uitsluitingsgronden onderscheiden:
 
@@ -896,7 +924,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden de vol
 
 - i. een uitreiziger zijn.
 
-#### Artikel 44. Nadere bepalingen met betrekking tot vrijheidsstraffen en vrijheidsbenemende maatregelen
+##### Artikel 44. Nadere bepalingen met betrekking tot vrijheidsstraffen en vrijheidsbenemende maatregelen
 
 1. [Artikel 43, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), is niet van toepassing op:
 
@@ -908,7 +936,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden de vol
 
 3. Voor de toepassing van het tweede lid, worden perioden van vrijheidsontneming samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen.
 
-#### Artikel 45. Nadere bepalingen met betrekking tot in Nederland wonen
+##### Artikel 45. Nadere bepalingen met betrekking tot in Nederland wonen
 
 1. [Artikel 43, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), is niet van toepassing op de verzekerde die woont in een land waarin op grond van een verdrag of een besluit van een volkenrechtelijke organisatie recht op een uitkering op grond van deze wet kan bestaan.
 
@@ -920,7 +948,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen worden de vol
 
 - c. de gezinsleden van de in de onderdelen a of b bedoelde verzekerde.
 
-#### Artikel 46. Arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid bij aanvang van de verzekering
+##### Artikel 46. Arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid bij aanvang van de verzekering
 
 Vervallen
 
@@ -928,7 +956,7 @@ Vervallen
 
 #### § 6.1. Bepalingen in verband met het recht op een arbeidsongeschiktheidsuitkering
 
-#### Artikel 47. Ontstaan van het recht op een arbeidsongeschiktheidsuitkering
+##### Artikel 47. Ontstaan van het recht op een arbeidsongeschiktheidsuitkering
 
 1. Recht op een arbeidsongeschiktheidsuitkering ontstaat voor de verzekerde die ziek wordt indien:
 
@@ -940,7 +968,7 @@ Vervallen
 
 2. Het recht op een arbeidsongeschiktheidsuitkering ontstaat niet eerder dan op de eerste dag na afloop van de wachttijd of indien op die dag de uitsluitingsgrond, bedoeld in [artikel 43, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), van toepassing is, op de dag dat zich die uitsluitingsgrond niet meer voordoet.
 
-#### Artikel 48. Later ontstaan van het recht op een arbeidsongeschiktheidsuitkering
+##### Artikel 48. Later ontstaan van het recht op een arbeidsongeschiktheidsuitkering
 
 1. Indien op de dag, bedoeld in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.1&artikel=47&z=2026-01-01&g=2026-01-01), geen recht op een arbeidsongeschiktheidsuitkering is ontstaan, ontstaat het recht op een arbeidsongeschiktheidsuitkering op de dag dat de verzekerde duurzaam en volledig arbeidsongeschikt is, indien hij op de dag daaraan voorafgaand:
 
@@ -962,7 +990,7 @@ Vervallen
 
 3. Het recht op arbeidsongeschiktheidsuitkering ontstaat alsnog op de dag dat geen van de uitsluitingsgronden als bedoeld in [artikel 43, onderdeel a, onder 2°, d, e, f of i](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01) zich meer voordoet, mits de verzekerde op die dag volledig en duurzaam arbeidsongeschikt is.
 
-#### Artikel 49. Eindigen van het recht op een arbeidsongeschiktheidsuitkering
+##### Artikel 49. Eindigen van het recht op een arbeidsongeschiktheidsuitkering
 
 1. Het recht op een arbeidsongeschiktheidsuitkering eindigt op de dag dat:
 
@@ -972,7 +1000,7 @@ Vervallen
 
 2. In afwijking van het eerste lid, onderdeel a, eindigt het recht op een arbeidsongeschiktheidsuitkering van de persoon die aansluitend aan het recht op een arbeidsongeschiktheidsuitkering als gevolg van het feit dat hij niet gedeeltelijk arbeidsgeschikt is geen recht krijgt op een WGA-uitkering, na twee maanden.
 
-#### Artikel 50. Herleven van het recht op een arbeidsongeschiktheidsuitkering
+##### Artikel 50. Herleven van het recht op een arbeidsongeschiktheidsuitkering
 
 1. Indien op grond van [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.1&artikel=49&z=2026-01-01&g=2026-01-01) het recht op een arbeidsongeschiktheidsuitkering is geëindigd, herleeft het recht op die uitkering op de dag dat de verzekerde weer volledig en duurzaam arbeidsongeschikt is, indien hij op de dag daaraan voorafgaand:
 
@@ -996,11 +1024,11 @@ Vervallen
 
 #### § 6.1. Bepalingen in verband met het recht op een arbeidsongeschiktheidsuitkering
 
-#### Artikel 51. De hoogte van de arbeidsongeschiktheidsuitkering
+##### Artikel 51. De hoogte van de arbeidsongeschiktheidsuitkering
 
 De arbeidsongeschiktheidsuitkering bedraagt per kalendermaand 75% van het maandloon.
 
-#### Artikel 52. Inkomen tijdens het recht op de arbeidsongeschiktheidsuitkering
+##### Artikel 52. Inkomen tijdens het recht op de arbeidsongeschiktheidsuitkering
 
 1. Op de arbeidsongeschiktheidsuitkering wordt per kalendermaand in mindering gebracht:
 
@@ -1018,7 +1046,7 @@ De arbeidsongeschiktheidsuitkering bedraagt per kalendermaand 75% van het maandl
 
 4. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
-#### Artikel 53. Verhoging uitkering bij hulpbehoevendheid
+##### Artikel 53. Verhoging uitkering bij hulpbehoevendheid
 
 Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid die geregeld oppassing en verzorging nodig maakt, wordt de arbeidsongeschiktheidsuitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste een factor 100/75. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.
 
@@ -1026,7 +1054,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 #### § 6.2. De duur en hoogte van de arbeidsongeschiktheidsuitkering
 
-#### Artikel 54. Ontstaan van het recht op een WGA-uitkering
+##### Artikel 54. Ontstaan van het recht op een WGA-uitkering
 
 1. Recht op een WGA-uitkering ontstaat voor de verzekerde die ziek wordt indien:
 
@@ -1042,7 +1070,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 4. De WGA-uitkering bestaat voor de verzekerde die niet voldoet aan de referte-eis, bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=58&z=2026-01-01&g=2026-01-01) uit een loonaanvullingsuitkering of een vervolguitkering.
 
-#### Artikel 55. Later ontstaan van het recht op een WGA-uitkering
+##### Artikel 55. Later ontstaan van het recht op een WGA-uitkering
 
 1. Indien op de dag, bedoeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=54&z=2026-01-01&g=2026-01-01), geen recht op een WGA-uitkering is ontstaan, ontstaat het recht op een WGA uitkering op de dag dat de verzekerde gedeeltelijk arbeidsgeschikt is, indien hij op de dag daaraan voorafgaand:
 
@@ -1064,7 +1092,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 3. Het recht op een WGA-uitkering ontstaat alsnog op de dag dat geen van de uitsluitingsgronden als bedoeld in [artikel 43, onderdeel a, onder 2°, d, e, f of i](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01) zich meer voordoet binnen vijf jaar na de in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=54&z=2026-01-01&g=2026-01-01), of [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.1&artikel=49&z=2026-01-01&g=2026-01-01) bedoelde dag, mits de verzekerde op die dag gedeeltelijk arbeidsgeschikt is.
 
-#### Artikel 56. Eindigen van het recht op een WGA-uitkering
+##### Artikel 56. Eindigen van het recht op een WGA-uitkering
 
 1. Het recht op een WGA-uitkering eindigt op de dag dat:
 
@@ -1076,7 +1104,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 3. In afwijking van het tweede lid, eindigt het recht op een WGA-uitkering van de verzekerde wiens mate van arbeidsongeschiktheid lager is dan 35%, omdat hij met arbeid meer verdient dan 65% van het maatmaninkomen per uur, één jaar na de dag waarop hij niet langer gedeeltelijk arbeidsgeschikt is, doch niet eerder dan op de dag dat de loongerelateerde uitkering van de WGA-uitkering eindigt.
 
-#### Artikel 57. Herleven van een recht op een WGA-uitkering
+##### Artikel 57. Herleven van een recht op een WGA-uitkering
 
 1. Indien op grond van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=56&z=2026-01-01&g=2026-01-01) het recht op een WGA-uitkering is geëindigd, herleeft het recht op die uitkering op de dag dat de verzekerde weer gedeeltelijk arbeidsgeschikt is, indien hij op de dag daaraan voorafgaand:
 
@@ -1100,7 +1128,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 4. In afwijking van het derde lid geldt de voorwaarde van gedeeltelijke arbeidsgeschiktheid niet indien op de dag waarop het recht op WGA-uitkering is geëindigd omdat een of meer van de uitsluitingsgronden als bedoeld in [artikel 43, a, onder 2°, onderdeel d, e, f of i](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01) van toepassing waren, de duur van de loongerelateerde uitkering nog niet was verstreken.
 
-#### Artikel 58. Referte-eis
+##### Artikel 58. Referte-eis
 
 1. De verzekerde voldoet aan de referte-eis indien:
 
@@ -1130,7 +1158,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 #### § 7.1. Bepalingen in verband met het recht op een WGA-uitkering
 
-#### Artikel 59. De duur van de loongerelateerde uitkering van de WGA-uitkering
+##### Artikel 59. De duur van de loongerelateerde uitkering van de WGA-uitkering
 
 1. De duur van de loongerelateerde uitkering van de WGA-uitkering is ten minste drie maanden en ten hoogste 24 maanden, te rekenen vanaf de eerste dag waarop het recht op uitkering is ontstaan.
 
@@ -1150,7 +1178,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 7. De duur van de loongerelateerde uitkering, bedoeld in het eerste lid, wordt verlengd indien als gevolg van de uitsluitingsgrond, bedoeld in [artikel 43, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), geen recht op een uitkering is ontstaan indien de eerste dag van de wachttijd van dit niet ontstane recht op een uitkering is gelegen voor de dag dat recht op de loongerelateerde uitkering is ontstaan en dit niet ontstane recht op een uitkering tot een langere duur van de loongerelateerde uitkering zou hebben geleid.
 
-#### Artikel 60. De loonaanvullingsuitkering en de vervolguitkering van de WGA-uitkering
+##### Artikel 60. De loonaanvullingsuitkering en de vervolguitkering van de WGA-uitkering
 
 1. Indien de duur van de loongerelateerde uitkering van de WGA-uitkering is verstreken of als gevolg van [artikel 54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.1&artikel=54&z=2026-01-01&g=2026-01-01), geen aanspraak heeft bestaan op deze uitkering, bestaat de WGA-uitkering uit:
 
@@ -1166,7 +1194,7 @@ Indien de verzekerde verkeert in een blijvende of voorlopig blijvende toestand v
 
 5. Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen als bedoeld in dit artikel wordt verstaan. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.
 
-#### Artikel 61. De hoogte van de loongerelateerde uitkering en de loonaanvullingsuitkering van de WGA-uitkering
+##### Artikel 61. De hoogte van de loongerelateerde uitkering en de loonaanvullingsuitkering van de WGA-uitkering
 
 1. De loongerelateerde uitkering van de WGA-uitkering bedraagt per kalendermaand:
 
@@ -1230,7 +1258,7 @@ wordt de hoogte van de uitkering, bedoeld in het vierde lid, vastgesteld op G ×
 
 gedurende de periode dat, in het geval hij wel recht zou hebben gehad op een loongerelateerde uitkering en in het geval de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de loonaanvullingsuitkering van de WGA-uitkering zoals die op grond van het tweede, vierde, vijfde of zevende lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.
 
-#### Artikel 62. De hoogte van de vervolguitkering van de WGA-uitkering
+##### Artikel 62. De hoogte van de vervolguitkering van de WGA-uitkering
 
 1. De vervolguitkering van de WGA-uitkering bedraagt per kalendermaand: G × H waarbij:
 
@@ -1254,7 +1282,7 @@ Indien niet over een volledige kalendermaand recht op een uitkering bestaat bedr
 
 gedurende de periode dat, in het geval hij wel recht zou hebben gehad op een loongerelateerde uitkering en in het geval dat de hoogte van de loongerelateerde uitkering hoger zou zijn geweest dan de hoogte van de vervolguitkering zoals die op grond van het eerste tot en met vierde lid is vastgesteld, vastgesteld op de hoogte van die loongerelateerde uitkering.
 
-#### Artikel 63. Verhoging uitkering bij hulpbehoevendheid
+##### Artikel 63. Verhoging uitkering bij hulpbehoevendheid
 
 Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen per uur, verkeert in een blijvende of voorlopig blijvende toestand van hulpbehoevendheid welke geregeld oppassing en verzorging nodig maakt, wordt de WGA-uitkering voor de duur van die hulpbehoevendheid verhoogd door vermenigvuldiging met ten hoogste de factor 100/70. Voornoemde factor bedraagt ten hoogste 100/75 gedurende de eerste twee maanden van de loongerelateerde uitkering. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.
 
@@ -1264,7 +1292,7 @@ Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te v
 
 #### § 8.1. De aanvraag van de uitkering
 
-#### Artikel 67. Betaalbaarstelling
+##### Artikel 67. Betaalbaarstelling
 
 1. Het UWV betaalt de uitkering waarop op grond van deze wet recht bestaat. De betaling geschiedt in termijnen van een kalendermaand.
 
@@ -1284,7 +1312,7 @@ Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te v
 
 6. Het UWV kan onder door hem te stellen voorwaarden, op verzoek van de in het vijfde lid bedoelde organen, gelijktijdig met een uitkering op grond van deze wet, invaliditeitsuitkeringen of pensioenen verschuldigd door die organen, betaalbaar stellen.
 
-#### Artikel 68. Betaling vakantiebijslag
+##### Artikel 68. Betaling vakantiebijslag
 
 1. In afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=67&z=2026-01-01&g=2026-01-01), betaalt het UWV een gedeelte van de uitkering waarop op grond van deze wet recht bestaat als vakantiebijslag jaarlijks in de maand mei over de aan die maand voorafgaande kalendermaanden, of, indien het recht op uitkering eerder dan in de maand mei geheel eindigt, in de desbetreffende kalendermaand. De vakantiebijslag bedraagt 8/108 van de uitkering.
 
@@ -1296,17 +1324,17 @@ Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te v
 
 5. Indien na de uitbetaling van de vakantiebijslag in een andere maand dan de maand mei wederom recht op een uitkering ontstaat en dientengevolge het eerste lid moet worden toegepast, wordt daarbij rekening gehouden met hetgeen in die andere maand reeds werd uitbetaald.
 
-#### Artikel 69. Opschorting betaling uitkering aan vreemdelingen
+##### Artikel 69. Opschorting betaling uitkering aan vreemdelingen
 
 1. Het UWV schort de betaling van een uitkering op grond van deze wet op indien de persoon die recht heeft op die uitkering een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De betaling van de uitkering op grond van deze wet wordt hervat indien de betrokkene daartoe een aanvraag indient en het UWV is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt en aan de overige voorwaarden voor het recht op uitkering voldoet.
 
-#### Artikel 70. Betaling aan een minderjarige
+##### Artikel 70. Betaling aan een minderjarige
 
 Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze wet en het verlenen van kwijting voor de betaling daarvan, wordt een minderjarige met een meerderjarige gelijkgesteld. Indien de wettelijke vertegenwoordiger zich tegen de betaling aan de minderjarige schriftelijk verzet bij het UWV geschiedt de uitbetaling aan de wettelijke vertegenwoordiger.
 
-#### Artikel 71. Betaling aan instellingen
+##### Artikel 71. Betaling aan instellingen
 
 1. Indien de persoon aan wie een uitkering op grond van deze wet is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan degene aan wie de uitkering is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
@@ -1318,7 +1346,7 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 
 5. Een herziening van de uitkering op grond van het eerste of tweede lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
-#### Artikel 72. Betaling door UWV bij meerdere werkgevers
+##### Artikel 72. Betaling door UWV bij meerdere werkgevers
 
 1. Indien de persoon die recht heeft op een uitkering op grond van deze wet bij aanvang van de wachttijd meer dan een werkgever heeft, wordt de uitkering betaald door het UWV, ook indien een of meer werkgevers eigenrisicodrager zijn.
 
@@ -1328,13 +1356,13 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 
 4. Het UWV kan de in het tweede lid bedoelde bedragen invorderen bij dwangbevel.
 
-#### Artikel 73. Betaling in geval van samenloop
+##### Artikel 73. Betaling in geval van samenloop
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van een uitkering op grond van deze wet met een uitkering in verband met volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid op grond van andere wetten.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld ter voorkoming of beperking van samenloop van uitkering op grond van deze wet met uitkering op grond van de sociale wetgeving van Aruba, Curaçao, Sint Maarten, de sociale wetgeving van Nederland ten behoeve van de openbare lichamen Bonaire, Sint Eustatius en Saba of van een andere Mogendheid.
 
-#### Artikel 74. Overlijdensuitkering
+##### Artikel 74. Overlijdensuitkering
 
 1. Na het overlijden van de persoon, die recht had op een uitkering op grond van deze wet, wordt met ingang van de dag na het overlijden een overlijdensuitkering uitbetaald:
 
@@ -1354,11 +1382,11 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 
 6. Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan uitkering op grond van deze wet dat, over na het overlijden gelegen dagen reeds is uitbetaald.
 
-#### Artikel 75. Verjaringstermijn
+##### Artikel 75. Verjaringstermijn
 
 Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ingevorderd binnen twee jaar na de dag van betaalbaarstelling worden door het UWV niet meer betaald.
 
-#### Artikel 76. Intrekking en herziening beschikkingen
+##### Artikel 76. Intrekking en herziening beschikkingen
 
 1. Het UWV herziet beschikkingen op grond van deze wet of trekt dergelijke beschikkingen in, indien:
 
@@ -1372,7 +1400,7 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 3. Indien daarvoor dringende redenen zijn, kan het UWV geheel of gedeeltelijk van herziening of intrekking afzien.
 
-#### Artikel 77. Terugvordering
+##### Artikel 77. Terugvordering
 
 1. Een uitkering die op grond van deze wet alsmede hetgeen anderszins onverschuldigd is betaald en hetgeen als gevolg van een beschikking als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=76&z=2026-01-01&g=2026-01-01) door het UWV onverschuldigd is betaald of verstrekt wordt door het UWV teruggevorderd.
 
@@ -1402,17 +1430,17 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 8. In afwijking van het eerste lid kan het UWV, onder bij ministeriële regeling te stellen voorwaarden, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een bij ministeriële regeling vast te stellen bedrag niet te boven gaat.
 
-#### Artikel 78. Invordering bij dwangbevel
+##### Artikel 78. Invordering bij dwangbevel
 
 1. Het UWV kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 77, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=77&z=2026-01-01&g=2026-01-01), invorderen bij dwangbevel.
 
 2. [Artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=96&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de persoon gedurende drie jaar de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) niet te boven is gegaan, het UWV de aflossingsbedragen lager vaststelt.
 
-#### Artikel 79. Nadere regels tenuitvoerlegging onverschuldigde betaling
+##### Artikel 79. Nadere regels tenuitvoerlegging onverschuldigde betaling
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze van tenuitvoerlegging van de beschikking waarbij is vastgesteld dat onverschuldigd is betaald.
 
-#### Artikel 80. Onvervreemdbaarheid van verstrekkingen
+##### Artikel 80. Onvervreemdbaarheid van verstrekkingen
 
 1. Een uitkering op grond van deze wet en een voorziening als bedoeld in [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01), of [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01) zijn onvervreemdbaar en niet vatbaar voor verpanding of belening.
 
@@ -1420,13 +1448,13 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wi
 
 3. Elk beding, strijdig met dit artikel, is nietig.
 
-#### Artikel 81. Niet voor beslag vatbare verstrekkingen
+##### Artikel 81. Niet voor beslag vatbare verstrekkingen
 
 De voorzieningen, bedoeld in de [artikelen 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01), en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01), de verhoging, bedoeld in de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.2&artikel=53&z=2026-01-01&g=2026-01-01) en [63](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=63&z=2026-01-01&g=2026-01-01), alsmede de overlijdensuitkering, bedoeld in [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=74&z=2026-01-01&g=2026-01-01), zijn niet vatbaar voor beslag.
 
 ### Hoofdstuk 9. Eigenrisicodragen door de werkgever
 
-#### Artikel 82. Afbakening eigenrisico
+##### Artikel 82. Afbakening eigenrisico
 
 1. De eigenrisicodrager draagt met inachtneming van [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=83&z=2026-01-01&g=2026-01-01) het risico van betaling van de WGA-uitkering aan de verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot hem in dienstbetrekking stond dan wel arbeidsongeschikt is geworden nadat de dienstbetrekking met hem is beëindigd en [artikel 46 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46) van toepassing is, alsmede het risico van betaling van de overlijdensuitkering, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=74&z=2026-01-01&g=2026-01-01), aan de rechthebbende of rechthebbenden, bedoeld in dat lid, indien die wachttijd is ingegaan op of na de dag waarop deze werkgever eigenrisicodrager werd.
 
@@ -1450,7 +1478,7 @@ De voorzieningen, bedoeld in de [artikelen 34a, eerste lid](https://wetten.overh
 
 8. Indien de eigenrisicodrager een overheidswerkgever is op wie [artikel 7:662 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=662) niet van toepassing is, en deze geheel of gedeeltelijk is overgegaan naar een andere werkgever, alsmede in geval van een dergelijke overgang bij faillissement van die overheidswerkgever, zijn het derde, vierde en vijfde lid van overeenkomstige toepassing, met dien verstande dat onder werkgever die de onderneming overdraagt of heeft overgedragen wordt verstaan de overheidswerkgever die niet langer bestaat of deels is overgegaan en onder de werkgever die de onderneming verkrijgt de rechtsopvolger van deze overheidswerkgever dan wel de verkrijger van een organisatieonderdeel daarvan.
 
-#### Artikel 83. Periode van eigenrisicodragen
+##### Artikel 83. Periode van eigenrisicodragen
 
 1. De eigenrisicodrager draagt gedurende een bij ministeriële regeling te bepalen periode nadat het recht op een WGA-uitkering is ontstaan het eigenrisico, bedoeld in [artikel 82](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01).
 
@@ -1458,7 +1486,7 @@ De voorzieningen, bedoeld in de [artikelen 34a, eerste lid](https://wetten.overh
 
 3. Indien [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2026-01-01&g=2026-01-01) is toegepast wordt de periode, bedoeld in het eerste lid, bekort met de duur van het verlengde tijdvak, bedoeld in artikel 24, eerste lid.
 
-#### Artikel 84. Betaling bij eigenrisicodragen
+##### Artikel 84. Betaling bij eigenrisicodragen
 
 1. De eigenrisicodrager is bevoegd, met inachtneming van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=72&z=2026-01-01&g=2026-01-01), de door het UWV toegekende WGA-uitkering en de overlijdensuitkering, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=74&z=2026-01-01&g=2026-01-01), namens het UWV te betalen aan de verzekerde, bedoeld in [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01), onderscheidenlijk de rechthebbende of rechthebbenden, bedoeld in artikel 74, eerste lid.
 
@@ -1478,23 +1506,23 @@ De voorzieningen, bedoeld in de [artikelen 34a, eerste lid](https://wetten.overh
 
 7. Het eerste, tweede, derde, vijfde en zesde lid zijn van overeenkomstige toepassing op de werkgever die op grond van [artikel 82, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01), het in dat artikel bedoelde risico van betaling draagt.
 
-#### Artikel 85. Vrijstelling aangifte ziekte
+##### Artikel 85. Vrijstelling aangifte ziekte
 
 Vervallen
 
-#### Artikel 86. Administratiekosten
+##### Artikel 86. Administratiekosten
 
 1. Het UWV kan bij de eigenrisicodrager kosten in rekening brengen ter zake van de betaling van de uitkering door het UWV en het verhaal op de eigenrisicodrager, bedoeld in [artikel 84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=84&z=2026-01-01&g=2026-01-01).
 
 2. Het UWV vergoedt aan de eigenrisicodrager of de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) op aanvraag de schade die deze lijdt door toepassing van [artikel 117, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.4&artikel=117&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 87. Nadere regelgeving
+##### Artikel 87. Nadere regelgeving
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit hoofdstuk.
 
 ### Hoofdstuk 9. Eigenrisicodragen door de werkgever
 
-#### Artikel 88. Maatregelen UWV
+##### Artikel 88. Maatregelen UWV
 
 1. Het UWV weigert een uitkering op grond van deze wet geheel of gedeeltelijk, blijvend of tijdelijk indien:
 
@@ -1514,7 +1542,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 5. Het UWV kan afzien van het opleggen van een maatregel indien daarvoor dringende redenen aanwezig zijn.
 
-#### Artikel 89. Maatregelen eigenrisicodrager
+##### Artikel 89. Maatregelen eigenrisicodrager
 
 1. De eigenrisicodrager kan in verband met de uitvoering van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.4&artikel=42&z=2026-01-01&g=2026-01-01) de WGA-uitkering gedeeltelijk en blijvend, geheel en tijdelijk of gedeeltelijk en tijdelijk weigeren indien:
 
@@ -1530,7 +1558,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 90. Afstemming maatregel
+##### Artikel 90. Afstemming maatregel
 
 1. Een maatregel als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=88&z=2026-01-01&g=2026-01-01) of [89](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=89&z=2026-01-01&g=2026-01-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de verzekerde de gedraging verweten kan worden. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
@@ -1538,7 +1566,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste lid, waarbij in ieder geval kan worden geregeld in welke gevallen het UWV kan afzien van het opleggen van een maatregel.
 
-#### Artikel 91. Boete bij niet-nakoming inlichtingenverplichting
+##### Artikel 91. Boete bij niet-nakoming inlichtingenverplichting
 
 1. Het UWV legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=27&z=2026-01-01&g=2026-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 27, eerste lid, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 27, eerste lid, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -1568,23 +1596,23 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 14. Het besluit tot kwijtschelding, bedoeld in het dertiende lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding is begaan wegens eenzelfde gedraging als bedoeld in het zesde lid.
 
-#### Artikel 92. Voorschriften rond voorgenomen boete-oplegging
+##### Artikel 92. Voorschriften rond voorgenomen boete-oplegging
 
 Vervallen
 
-#### Artikel 93. Nadere regels tenuitvoerlegging bestuurlijke boete
+##### Artikel 93. Nadere regels tenuitvoerlegging bestuurlijke boete
 
 Vervallen
 
-#### Artikel 94. Niet-oplegging van boete
+##### Artikel 94. Niet-oplegging van boete
 
 Vervallen
 
-#### Artikel 95. Termijnstelling van boete
+##### Artikel 95. Termijnstelling van boete
 
 Vervallen
 
-#### Artikel 96. Invordering bestuurlijke boete
+##### Artikel 96. Invordering bestuurlijke boete
 
 1. Het UWV verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in [artikel 91, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=91&z=2026-01-01&g=2026-01-01), met een uitkering op grond van deze wet, de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.
 
@@ -1600,17 +1628,17 @@ Vervallen
 
 - b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:116), niet bij de invordering van een bestuurlijke boete bij dwangbevel.
 
-#### Artikel 97. Verrekening bestuurlijke boete bij recidive
+##### Artikel 97. Verrekening bestuurlijke boete bij recidive
 
 Vervallen
 
 ### Hoofdstuk 10. Handhaving
 
-#### Artikel 98. Samenloop aanspraken
+##### Artikel 98. Samenloop aanspraken
 
 Bij de vaststelling van de schadevergoeding waarop een persoon, die recht heeft op een uitkering op grond van deze wet, naar burgerlijk recht aanspraak kan maken in verband met zijn volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid, houdt de rechter rekening met de aanspraken, die hij op grond van deze wet en de daarop berustende bepalingen heeft.
 
-#### Artikel 99. Regresrecht UWV en eigenrisicodrager
+##### Artikel 99. Regresrecht UWV en eigenrisicodrager
 
 1. Het UWV heeft voor de op grond van deze wet en de daarop berustende bepalingen gemaakte kosten verhaal op de persoon, die naar burgerlijk recht verplicht is schade te vergoeden aan de persoon die recht heeft op een uitkering op grond van deze wet, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de persoon die recht heeft op een uitkering op grond van deze wet naar burgerlijk recht is gehouden.
 
@@ -1622,7 +1650,7 @@ Bij de vaststelling van de schadevergoeding waarop een persoon, die recht heeft 
 
 5. De werkgever en het UWV verstrekken elkaar op verzoek informatie, die noodzakelijk is voor de uitoefening van het regresrecht. Bij deze informatieverstrekking worden persoonsgegevens, waaronder het burgerservicenummer, verwerkt.
 
-#### Artikel 100. Regresrecht binnen arbeidsverhouding
+##### Artikel 100. Regresrecht binnen arbeidsverhouding
 
 1. [Artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=11&artikel=99&z=2026-01-01&g=2026-01-01) geldt ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de persoon die recht heeft op een uitkering of voorziening op grond van deze wet, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte verzekerde, die in dienstbetrekking staat tot dezelfde werkgever als de persoon jegens wie naar burgerlijk recht een verplichting tot schadevergoeding bestaat, slechts indien de volledig en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk die verzekerde.
 
@@ -1632,11 +1660,11 @@ Bij de vaststelling van de schadevergoeding waarop een persoon, die recht heeft 
 
 #### § 12.1. Beslistermijnen
 
-#### Artikel 101. Beslistermijn
+##### Artikel 101. Beslistermijn
 
 Indien in verband met het geven van een beschikking een in het buitenland wonende persoon is opgeroepen en om die reden de beschikking niet binnen de redelijke termijn, bedoeld in [artikel 4:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13), gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
 
-#### Artikel 102. Bijzondere beslistermijnen
+##### Artikel 102. Bijzondere beslistermijnen
 
 1. Een beschikking over het verzekerd zijn als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=7&z=2026-01-01&g=2026-01-01), wordt door het UWV gegeven binnen dertien weken na ontvangst van de aanvraag.
 
@@ -1652,7 +1680,7 @@ Indien in verband met het geven van een beschikking een in het buitenland wonend
 
 #### § 12.1. Beslistermijnen
 
-#### Artikel 103. Definitiebepalingen
+##### Artikel 103. Definitiebepalingen
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
@@ -1662,11 +1690,11 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - c. de medebelanghebbende: de werkgever of de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) in de situaties, genoemd in [artikel 84, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=84&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 104. Toestemming werknemer voor inzage medische stukken door werkgever
+##### Artikel 104. Toestemming werknemer voor inzage medische stukken door werkgever
 
 Vervallen
 
-#### Artikel 105. Inzage door de gemachtigde
+##### Artikel 105. Inzage door de gemachtigde
 
 1. De inzage in, dan wel kennisname of toezending van stukken die medische gegevens bevatten, is voorbehouden aan een gemachtigde van de medebelanghebbende, die advocaat of arts is danwel daarvoor van het UWV bijzondere toestemming heeft gekregen.
 
@@ -1682,7 +1710,7 @@ voorzover betrekking hebbend op medische gegevens.
 
 3. [Artikel 7:4, tweede, vierde en zesde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) is niet van toepassing op stukken of inlichtingen die medische gegevens bevatten.
 
-#### Artikel 106. Motivering medische beschikking
+##### Artikel 106. Motivering medische beschikking
 
 1. Het UWV vermeldt de motivering van een medische beschikking, voorzover betrekking hebbend op medische gegevens, op een aparte bijlage.
 
@@ -1690,73 +1718,73 @@ voorzover betrekking hebbend op medische gegevens.
 
 3. Het tweede lid is van overeenkomstige toepassing op een rapport of een advies van een arts of een psycholoog, waarnaar bij de motivering van een medische beschikking wordt verwezen.
 
-#### Artikel 107. Bekendmaking medische beschikking
+##### Artikel 107. Bekendmaking medische beschikking
 
 Bij de bekendmaking van een medische beschikking wordt gewezen op de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.2&artikel=105&z=2026-01-01&g=2026-01-01), [106](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.2&artikel=106&z=2026-01-01&g=2026-01-01) en [108](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.2&artikel=108&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 108. Gronden bezwaar en beroep in bijlage
+##### Artikel 108. Gronden bezwaar en beroep in bijlage
 
 De gronden van het bezwaar of beroep, bedoeld in [artikel 6:5, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:5), worden in een aparte bijlage vermeld voorzover ze betrekking hebben op medische gegevens.
 
-#### Artikel 109. Onderzoek ter zitting met gesloten deuren
+##### Artikel 109. Onderzoek ter zitting met gesloten deuren
 
 1. Indien [artikel 8:32, tweede lid van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:32) is toegepast, vindt in afwijking van [artikel 8:62, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62) het onderzoek ter zitting, voorzover betrekking hebbend op medische gegevens, met gesloten deuren plaats, tenzij de bestuursrechter ambtshalve of op verzoek van een van de partijen bepaalt dat het onderzoek openbaar is.
 
 2. In de uitnodiging, bedoeld in [artikel 8:56 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:56) wordt mededeling gedaan van het eerste lid.
 
-#### Artikel 110. Voorlopige voorziening en hoger beroep
+##### Artikel 110. Voorlopige voorziening en hoger beroep
 
 [Artikel 109](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.2&artikel=109&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing bij de behandeling van het hoger beroep en bij de behandeling van een verzoek om een voorlopige voorziening.
 
 #### § 12.1. Beslistermijnen
 
-#### Artikel 111. Beslistermijn in bezwaar
+##### Artikel 111. Beslistermijn in bezwaar
 
 In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist het UWV binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
-#### Artikel 112. Bijzondere beslistermijn in bezwaar
+##### Artikel 112. Bijzondere beslistermijn in bezwaar
 
 1. Indien bezwaar wordt gemaakt tegen een beschikking waaraan een verzekeringsgeneeskundige of arbeidskundige beoordeling ten grondslag ligt, beslist het UWV, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), binnen zeventien weken of, indien het advies vraagt aan een deskundige die niet onder zijn verantwoordelijkheid werkzaam is binnen eenentwintig weken, gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
 2. Indien in verband met het geven van een beslissing op bezwaar een in het buitenland wonende persoon is opgeroepen en om die reden de beslissing op bezwaar niet binnen de in het eerste lid bedoelde termijn gegeven kan worden, wordt de beslissing, in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), verdaagd met ten hoogste zes maanden en wordt de aanvrager van deze verdaging schriftelijk in kennis gesteld.
 
-#### Artikel 113. Afzien van horen belanghebbende
+##### Artikel 113. Afzien van horen belanghebbende
 
 Vervallen
 
 #### § 12.4. Overige bepalingen in verband met de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en de rechtsgang
 
-#### Artikel 114. Beperking begrip belanghebbende
+##### Artikel 114. Beperking begrip belanghebbende
 
 In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is de werkgever of de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) geen belanghebbende bij een beschikking van het UWV over het verzekerd zijn op grond van deze wet.
 
-#### Artikel 115. Beperking bezwaar- en beroepsgronden werkgever
+##### Artikel 115. Beperking bezwaar- en beroepsgronden werkgever
 
 Het bezwaar of beroep van een werkgever of bank of verzekeraar, als bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) tegen de in [artikel 84](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=84&z=2026-01-01&g=2026-01-01) bedoelde betaling danwel tegen een in [artikel 38, derde of vierde lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38), bedoelde opslag of korting kan niet zijn gegrond op de grief, dat een uitkering op grond van deze wet ten onrechte of tot een te hoog bedrag is vastgesteld.
 
-#### Artikel 116. Beroep in cassatie
+##### Artikel 116. Beroep in cassatie
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de [artikelen 2, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.1&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.1&artikel=3&z=2026-01-01&g=2026-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=8&z=2026-01-01&g=2026-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=9&z=2026-01-01&g=2026-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.4&artikel=11&z=2026-01-01&g=2026-01-01) en [12, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.5&artikel=12&z=2026-01-01&g=2026-01-01), en de daarop berustende bepalingen.
 
 2. Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen de uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.
 
-#### Artikel 117. Wijzigingen in uitkering na bezwaar of beroep door werkgever
+##### Artikel 117. Wijzigingen in uitkering na bezwaar of beroep door werkgever
 
 1. Intrekking van het recht op een uitkering op grond van deze wet of verlaging van de hoogte ervan, die voortvloeien uit het door de werkgever ingesteld bezwaar of beroep, vinden niet eerder plaats dan zes weken na de dag waarop de beslissing op bezwaar is bekendgemaakt of de uitspraak is gedaan. De eerste zin is van overeenkomstige toepassing in geval van intrekking van het bezwaar of beroep omdat het UWV geheel of gedeeltelijk is tegemoet gekomen aan het bezwaar of beroep van de werkgever. De eerste en tweede zin zijn van overeenkomstige toepassing indien het bezwaar of beroep of de intrekking daarvan heeft plaatsgevonden door de bank of verzekeraar, bedoeld in [artikel 40, tweede lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) in de situaties, genoemd in [artikel 84, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=84&z=2026-01-01&g=2026-01-01).
 
 2. Het eerste lid geldt niet, indien de uitkering door eigen schuld of toedoen van de werknemer ten onrechte of tot een te hoog bedrag is vastgesteld.
 
-#### Artikel 118. Afwijking [8:69 Awb](onbekend)
+##### Artikel 118. Afwijking [8:69 Awb](onbekend)
 
 Vervallen
 
-#### Artikel 119. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
+##### Artikel 119. [Titel 4.2 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2)
 
 [Titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) is niet van toepassing op aanspraken op grond van [artikel 34a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01), en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 13. Overgangsrecht
 
-#### Artikel 120. Samenloop met [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en [WAMIL](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
+##### Artikel 120. Samenloop met [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) en [WAMIL](https://wetten.overheid.nl/jci1.3:c:BWBR0002822)
 
 Geen recht op uitkering op grond van deze wet heeft de persoon die:
 
@@ -1766,7 +1794,7 @@ Geen recht op uitkering op grond van deze wet heeft de persoon die:
 
 - c. belanghebbende is als bedoeld in [artikel 1 van de Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822&artikel=1).
 
-#### Artikel 121. Overgangsrecht in verband met nawerking verzekering
+##### Artikel 121. Overgangsrecht in verband met nawerking verzekering
 
 1. Indien een persoon voorafgaand aan zijn verzekering, verzekerd was op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) wordt voor de toepassing van [artikel 10, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=10&z=2026-01-01&g=2026-01-01) mede verstaan onder:
 
@@ -1776,11 +1804,11 @@ Geen recht op uitkering op grond van deze wet heeft de persoon die:
 
 2. Indien het eerste lid toepassing vindt, wordt in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=10&z=2026-01-01&g=2026-01-01), voor «beschouwd alsof hij verzekerd was gebleven» gelezen: beschouwd alsof hij verzekerd is.
 
-#### Artikel 122. Overgangsrecht in verband met aansluitende verzekeringen
+##### Artikel 122. Overgangsrecht in verband met aansluitende verzekeringen
 
 Voor de toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.1&artikel=17&z=2026-01-01&g=2026-01-01) wordt mede verstaan onder «verzekeringen op grond van deze wet»: verzekeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-#### Artikel 123. Overgangsrecht met betrekking tot de vrijwillige verzekering
+##### Artikel 123. Overgangsrecht met betrekking tot de vrijwillige verzekering
 
 1. Een vrijwillige verzekering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) die op het tijdstip waarop [artikel 1.1, onderdelen DD en GG, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=1.1) in werking treden, op grond van [artikel 83b, onderdeel d, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=83b) wordt beëindigd, wordt aangemerkt als een vrijwillige verzekering op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&artikel=18&z=2026-01-01&g=2026-01-01).
 
@@ -1796,7 +1824,7 @@ Voor de toepassing van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0019
 
 7. Voor de toepassing van [artikel 18, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=2&paragraaf=2.2&artikel=18&z=2026-01-01&g=2026-01-01), wordt mede verstaan onder «een uitkering ontvangt op grond van deze wet»: een uitkering ontving op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524).
 
-#### Artikel 123a. Overgangsrecht in verband met [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2026-01-01&g=2026-01-01)
+##### Artikel 123a. Overgangsrecht in verband met [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2026-01-01&g=2026-01-01)
 
 In afwijking van [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2026-01-01&g=2026-01-01), worden bij het bepalen van de wachttijd tot 1 september 2005 de volgende perioden in aanmerking genomen:
 
@@ -1808,7 +1836,7 @@ Deze perioden worden samengeteld, indien zij elkaar met een onderbreking van min
 
 Bij het vaststellen van de periode van vier weken, bedoeld in dit artikel blijven perioden waarin uitkering in verband met zwangerschap en bevalling op grond van [artikel 3:7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:7), [3:8](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:8) of [3:10, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10) wordt genoten, buiten beschouwing.
 
-#### Artikel 123b. Overgangsrecht in verband met [artikel 25, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2026-01-01&g=2026-01-01)
+##### Artikel 123b. Overgangsrecht in verband met [artikel 25, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2026-01-01&g=2026-01-01)
 
 1. De [artikelen 25, negende, tiende tot en met vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=25&z=2026-01-01&g=2026-01-01), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=26&z=2026-01-01&g=2026-01-01), [64, tweede lid, derde zin, derde, vierde, zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2026-01-01&g=2026-01-01) en [102, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.1&artikel=102&z=2026-01-01&g=2026-01-01), van deze wet en de [artikelen 629 lid 3, onderdeel f, en lid 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), en [670, lid 11, onderdeel a, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670), zijn niet van toepassing op personen die voor 15 augustus 2004 arbeidsongeschikt zijn geworden.
 
@@ -1816,19 +1844,19 @@ Bij het vaststellen van de periode van vier weken, bedoeld in dit artikel blijve
 
 3. Op personen die voor 15 augustus 2004 arbeidsongeschikt zijn geworden zijn de [artikelen 64, tweede, derde, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.1&artikel=64&z=2026-01-01&g=2026-01-01) en [102, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=12&paragraaf=12.1&artikel=102&z=2026-01-01&g=2026-01-01), van deze wet en de [artikelen 629, derde en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), en [670, tiende lid, van Titel 10 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=670) zoals deze luidden voorafgaand aan de inwerkingtreding van de Aanpassings- en verzamelwet Wet werk en inkomen naar arbeidsvermogen van toepassing.
 
-#### Artikel 124. Overgangsrecht in verband met arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid bij aanvang van de verzekering
+##### Artikel 124. Overgangsrecht in verband met arbeidsongeschiktheid en gedeeltelijke arbeidsgeschiktheid bij aanvang van de verzekering
 
 Vervallen
 
-#### Artikel 125. Overgangsrecht met betrekking tot de maatregelen
+##### Artikel 125. Overgangsrecht met betrekking tot de maatregelen
 
 Voorzover de wachttijd van de verzekerde is aangevangen voor de inwerkingtreding van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.1&artikel=28&z=2026-01-01&g=2026-01-01), wordt in de [artikelen 88, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=88&z=2026-01-01&g=2026-01-01), en [89, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=89&z=2026-01-01&g=2026-01-01), mede gelezen: de verzekerde verplichtingen, bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=25) of [28 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), niet of niet behoorlijk is nagekomen.
 
-#### Artikel 126. Overgangsrecht in verband met artikel 51
+##### Artikel 126. Overgangsrecht in verband met artikel 51
 
 Vervallen
 
-#### Artikel 127. Overgangsrecht betreffende de duur van de loongerelateerde uitkering van de WGA-uitkering
+##### Artikel 127. Overgangsrecht betreffende de duur van de loongerelateerde uitkering van de WGA-uitkering
 
 Voor de verzekerde wiens recht op uitkering ontstaat voor 1 januari 2008, wordt [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01), als volgt gelezen:
 
@@ -1852,19 +1880,19 @@ Voor de verzekerde wiens recht op uitkering ontstaat voor 1 januari 2008, wordt 
 
 - i. jonger dan 23 jaar is, zes maanden.
 
-#### Artikel 128. Overgangsrecht in verband met [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=11&artikel=99&z=2026-01-01&g=2026-01-01)
+##### Artikel 128. Overgangsrecht in verband met [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=11&artikel=99&z=2026-01-01&g=2026-01-01)
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=11&artikel=99&z=2026-01-01&g=2026-01-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=11&artikel=99&z=2026-01-01&g=2026-01-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
-#### Artikel 129. Overgangsrecht betreffende arbeidsplaatsvoorzieningen ex [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) toegekend aan niet-zelfstandigen
+##### Artikel 129. Overgangsrecht betreffende arbeidsplaatsvoorzieningen ex [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) toegekend aan niet-zelfstandigen
 
 De voorziening die op de dag voorafgaand aan de dag waarop [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22) respectievelijk [artikel 31 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) vervallen, is toegekend op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=22) of [artikel 31 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=31), wordt voor de duur van het tijdvak waarvoor deze voorziening is toegekend en voorzover die voorziening niet is verstrekt in het kader van de inschakeling in de arbeid als zelfstandige, aangemerkt als een voorziening als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 130. Overgangsrecht inzake publicatie instroomcijfers WGA
+##### Artikel 130. Overgangsrecht inzake publicatie instroomcijfers WGA
 
 Vervallen
 
-#### Artikel 131. Overgangsrecht inzake delegatiebevoegdheid nadere regels maatregeloplegging
+##### Artikel 131. Overgangsrecht inzake delegatiebevoegdheid nadere regels maatregeloplegging
 
 1. Tot een bij koninklijk besluit te bepalen tijdstip luidt [artikel 90, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=90&z=2026-01-01&g=2026-01-01), als volgt:
 
@@ -1874,59 +1902,59 @@ Vervallen
 
 4. Het UWV stelt nadere regels met betrekking tot het eerste lid, voorzover dat betrekking heeft op nadere regels omtrent een maatregel als bedoeld in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=10&artikel=88&z=2026-01-01&g=2026-01-01), waarbij in ieder geval kan worden geregeld in welke gevallen het UWV kan afzien van het opleggen van een maatregel.
 
-#### Artikel 132. Overgangsrecht inzake werkgeverssubsidie ex [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 132. Overgangsrecht inzake werkgeverssubsidie ex [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 De subsidie die op de dag voorafgaand aan de dag waarop [artikel 16 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=16) op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10) vervalt, was toegekend op grond van [artikel 16 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=16) wordt voor de duur van het tijdvak waarvoor die subsidie op grond van de [Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565) is toegekend aangemerkt als subsidie als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 133. Overgangsrecht inzake de periode van eigenrisicodragen
+##### Artikel 133. Overgangsrecht inzake de periode van eigenrisicodragen
 
 Vervallen
 
 ### Hoofdstuk 14. Strafbepalingen
 
-#### Artikel 134. Strafbepaling overtreding wetsartikel
+##### Artikel 134. Strafbepaling overtreding wetsartikel
 
 De werkgever die niet voldoet aan de verplichting, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=33&z=2026-01-01&g=2026-01-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 135. Verval van recht tot strafvordering
+##### Artikel 135. Verval van recht tot strafvordering
 
 Vervallen
 
-#### Artikel 136. Overtredingen
+##### Artikel 136. Overtredingen
 
 Het in [artikel 134](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=14&artikel=134&z=2026-01-01&g=2026-01-01) bedoelde strafbare feit is een overtreding.
 
 ### Hoofdstuk 14. Strafbepalingen
 
-#### Artikel 137. Vervallen particuliere verzekering
+##### Artikel 137. Vervallen particuliere verzekering
 
 1. Een overeenkomst met betrekking tot de verzekering van geldelijke gevolgen van langdurige arbeidsongeschiktheid waaronder mede wordt verstaan gedeeltelijke arbeidsgeschiktheid, gesloten door de persoon, die verplicht verzekerd wordt, vervalt met ingang van de dag, waarop de verzekeraar van de verzekerde mededeling van het verplicht verzekerd worden ontvangt, voorzover aan de overeenkomst rechten kunnen worden ontleend, gelijkwaardig aan die, welke uit de in deze wet geregelde verplichte verzekering voortvloeien. Bereikt deze mededeling de verzekeraar vóór de dag, waarop de betrokkene verplicht verzekerd wordt, dan vervalt de overeenkomst met ingang van die dag.
 
 2. De premie, die de persoon, wiens verzekering op grond van het eerste lid geheel of gedeeltelijk is vervallen, heeft vooruitbetaald, wordt door de verzekeraar al naar gelang van het vervallen gedeelte der overeenkomst terugbetaald, onder aftrek van ten hoogste 25 procent van het terug te betalen bedrag voor administratiekosten.
 
-#### Artikel 138. Buiten toepassingverklaring van [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
+##### Artikel 138. Buiten toepassingverklaring van [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijnen, gesteld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=1&paragraaf=1.3&artikel=10&z=2026-01-01&g=2026-01-01), [23, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=23&z=2026-01-01&g=2026-01-01), [49, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=6&paragraaf=6.1&artikel=49&z=2026-01-01&g=2026-01-01), [60, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=60&z=2026-01-01&g=2026-01-01), [61, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2026-01-01&g=2026-01-01), en [74](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=74&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 139. Evaluatiebepaling
+##### Artikel 139. Evaluatiebepaling
 
 Onze minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 140. Nummering
+##### Artikel 140. Nummering
 
 Voor de plaatsing in het Staatsblad stelt Onze Minister de nummering van de artikelen, paragrafen en hoofdstukken van deze wet opnieuw vast waarbij rekening wordt gehouden met de artikelen die in het bij koninklijke boodschap van 17 mei 2005 ingediende voorstel van wet, betreffende regels omtrent de invoering en financiering van de Wet werk en inkomen naar arbeidsvermogen alsmede met betrekking tot de intrekking van de Wet op de (re)integratie arbeidsgehandicapten ([Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058)) (Kamerstukken II 2004/05, 30 118, nr. 2) worden ingevoegd en brengt hij de in deze wet voorkomende aanhalingen van artikelen, paragrafen en hoofdstukken met de nieuwe nummering in overeenstemming.
 
-#### Artikel 141. Inwerkingtreding
+##### Artikel 141. Inwerkingtreding
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 142. Citeertitel
+##### Artikel 142. Citeertitel
 
 Deze wet wordt aangehaald als: Wet werk en inkomen naar arbeidsvermogen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133a. Overgangsrecht in verband met de inwerkingtreding van de [Wet wijziging WW-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0023243)
+##### Artikel 133a. Overgangsrecht in verband met de inwerkingtreding van de [Wet wijziging WW-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0023243)
 
 Met betrekking tot de persoon wiens recht op een WGA-uitkering is ontstaan voor de dag van inwerkingtreding van [artikel III, onderdeel D, van de Wet wijziging WW-stelsel](https://wetten.overheid.nl/jci1.3:c:BWBR0023243&artikel=III), blijft [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=61&z=2026-01-01&g=2026-01-01) zoals dat luidde op die dag van toepassing met betrekking tot dat recht.
 
@@ -1936,7 +1964,7 @@ Met betrekking tot de persoon wiens recht op een WGA-uitkering is ontstaan voor 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 46a. Niet meewerken aan medisch onderzoek vóór recht op uitkering
+##### Artikel 46a. Niet meewerken aan medisch onderzoek vóór recht op uitkering
 
 Indien voor het vaststellen van het recht op uitkering op grond van deze wet, in het kader van een aanvraag voor de toekenning van een uitkering op grond van deze wet, naar het oordeel van het UWV een medisch onderzoek nodig is en de betrokkene niet meewerkt aan dat onderzoek, blijven eventuele uit deze wet voortvloeiende aanspraken op een uitkering op grond van deze wet buiten aanmerking, voor zolang het recht op uitkering niet kan worden vastgesteld.
 
@@ -1976,7 +2004,7 @@ Indien voor het vaststellen van het recht op uitkering op grond van deze wet, in
 
 ### Hoofdstuk 13. Overgangsrecht
 
-#### Artikel 133b
+##### Artikel 133b
 
 [Artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2026-01-01&g=2026-01-01), zoals dat luidde op de dag voor inwerkingtreding van [artikel XII, onderdeel E, van de Verzamelwet sociale verzekeringen 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0020804&artikel=XII), blijft van toepassing op een verzoek om verlenging als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=3&artikel=24&z=2026-01-01&g=2026-01-01), dat op of voor die dag is ingediend en waarop nog geen beslissing is genomen.
 
@@ -1986,7 +2014,7 @@ Indien voor het vaststellen van het recht op uitkering op grond van deze wet, in
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133c. Overgangsrecht in verband met de inwerkingtreding van de Wet van 12 december 2007, houdende regels tot bevordering van de activering van personen die aanspraak maken op een uitkering op grond van de Ziektewet (Stb. 553) en de [Wet wijziging verrekening inkomsten met ziekengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0030113)
+##### Artikel 133c. Overgangsrecht in verband met de inwerkingtreding van de Wet van 12 december 2007, houdende regels tot bevordering van de activering van personen die aanspraak maken op een uitkering op grond van de Ziektewet (Stb. 553) en de [Wet wijziging verrekening inkomsten met ziekengeld](https://wetten.overheid.nl/jci1.3:c:BWBR0030113)
 
 Ten aanzien van personen van wie de eerste dag van de wachttijd is gelegen:
 
@@ -1998,7 +2026,7 @@ Ten aanzien van personen van wie de eerste dag van de wachttijd is gelegen:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 123c. Overgangsrecht in verband met [artikel 59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01)
+##### Artikel 123c. Overgangsrecht in verband met [artikel 59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01)
 
 Bij de toepassing van [artikel 59, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01), van deze wet is de duur van de te ontvangen loongerelateerde uitkering van de WGA-uitkering niet korter dan de nog resterende duur van de beëindigde en niet herleefde loongerelateerde uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
@@ -2006,7 +2034,7 @@ Bij de toepassing van [artikel 59, zesde lid](https://wetten.overheid.nl/jci1.3:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 79a. Schuldregeling
+##### Artikel 79a. Schuldregeling
 
 1. In afwijking van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=77&z=2026-01-01&g=2026-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van degene van wie wordt teruggevorderd, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien bij medewerking aan een schuldregeling, indien:
 
@@ -2032,7 +2060,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.
 
-#### Artikel 79b. Preferentie
+##### Artikel 79b. Preferentie
 
 Een vordering van het Uitvoeringsinstituut werknemersverzekeringen, als bedoeld in [artikel 77](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=77&z=2026-01-01&g=2026-01-01) en [79a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=79a&z=2026-01-01&g=2026-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
@@ -2062,11 +2090,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 37a. Loonkostensubsidie
+##### Artikel 37a. Loonkostensubsidie
 
 Vervallen
 
-#### Artikel 37b
+##### Artikel 37b
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een WGA-uitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. [Artikel 10a, tweede tot en met tiende lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10a) is van overeenkomstige toepassing.
 
@@ -2108,7 +2136,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft
 
 ### Hoofdstuk 13. Overgangsrecht
 
-#### Artikel 133d
+##### Artikel 133d
 
 [Artikel 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=37a&z=2026-01-01&g=2026-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -2120,7 +2148,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34a. Voorzieningen ter bevordering en ondersteuning van arbeid als zelfstandige
+##### Artikel 34a. Voorzieningen ter bevordering en ondersteuning van arbeid als zelfstandige
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan het UWV op aanvraag van de persoon met een naar het oordeel van het UWV structurele functionele beperking, die arbeid als zelfstandige verricht of gaat verrichten, in het kader van de bevordering van de inschakeling in en ondersteuning bij de arbeid als zelfstandige, voorzieningen kan verstrekken.
 
@@ -2178,7 +2206,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 13. Overgangsrecht
 
-#### Artikel 133e. Overgangsbepaling in verband met [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01)
+##### Artikel 133e. Overgangsbepaling in verband met [artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01)
 
 1. [Artikel 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01) is niet van toepassing op de persoon, wiens arbeid als zelfstandige als bedoeld in artikel 34a, vierde lid is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589), tenzij deze persoon aanspraak had op een voorziening op grond van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34&z=2026-01-01&g=2026-01-01), [artikel 3:64 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:64), [artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=65e), [artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=67c) of [artikel 52d van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52d), zoals die artikelen luidden voor de inwerkingtreding van die wet.
 
@@ -2190,11 +2218,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133f. Overgangsrecht in verband met arbeidsongeschiktheid bij aanvang verzekering
+##### Artikel 133f. Overgangsrecht in verband met arbeidsongeschiktheid bij aanvang verzekering
 
 De [artikelen 43, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), [46](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=46&z=2026-01-01&g=2026-01-01) en [124](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=13&artikel=124&z=2026-01-01&g=2026-01-01) zoals die luidden op de dag voorafgaand aan de inwerkingtreding van de [Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0029334) blijven van toepassing op de persoon wiens eerste werkdag waarop door hem wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt, is gelegen voor die dag.
 
-#### Artikel 133g. Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
+##### Artikel 133g. Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
 
 [Artikel 43, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=5&artikel=43&z=2026-01-01&g=2026-01-01), is niet van toepassing op de persoon op wie dat artikel als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op een arbeidsongeschiktheidsuitkering of een WGA-uitkering.
 
@@ -2202,7 +2230,7 @@ De [artikelen 43, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&h
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133h. Overgangsrecht inzake loonkostensubsidie
+##### Artikel 133h. Overgangsrecht inzake loonkostensubsidie
 
 Vervallen
 
@@ -2212,7 +2240,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onder arbeidsuur wordt in deze wet verstaan:
 
@@ -2284,7 +2312,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 97a. In kennis stellen reïntegratiebedrijf van sanctie-oplegging
+##### Artikel 97a. In kennis stellen reïntegratiebedrijf van sanctie-oplegging
 
 Indien het UWV de verzekerde de uitkering op grond van deze wet geheel of gedeeltelijk heeft geweigerd dan wel hem een bestuurlijke boete heeft opgelegd, stelt het UWV het reïntegratiebedrijf dat ten behoeve van die verzekerde werkzaamheden gericht op vergroting van de mogelijkheden tot het verrichten van arbeid of op inschakeling in arbeid verricht, van die beschikking in kennis, voorzover dat noodzakelijk is voor de uitvoering van de werkzaamheden door het reïntegratiebedrijf.
 
@@ -2306,7 +2334,7 @@ Indien het UWV de verzekerde de uitkering op grond van deze wet geheel of gedeel
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a. Opnieuw vaststellen dagloon
+##### Artikel 13a. Opnieuw vaststellen dagloon
 
 1. Het dagloon van de verzekerde,
 
@@ -2362,7 +2390,7 @@ wordt met ingang van de dag waarop het tweede recht op een uitkering zou zijn on
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 69a. Opschorting betaling bij vertrek naar onbekende bestemming
+##### Artikel 69a. Opschorting betaling bij vertrek naar onbekende bestemming
 
 1. Is van de aanvrager of ontvanger van een uitkering bij het UWV een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het UWV hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.
 
@@ -2386,7 +2414,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 63a. Tegemoetkoming arbeidsongeschikten
+##### Artikel 63a. Tegemoetkoming arbeidsongeschikten
 
 1. De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering of een WGA-uitkering, heeft recht op een tegemoetkoming.
 
@@ -2438,7 +2466,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 13. Overgangsrecht
 
-#### Artikel 133i. Overgangsrecht in verband met [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01)
+##### Artikel 133i. Overgangsrecht in verband met [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=7&paragraaf=7.2&artikel=59&z=2026-01-01&g=2026-01-01)
 
 Vervallen
 
@@ -2446,11 +2474,11 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133j. Overgangsrecht in verband met overgang voorzieningen en subsidie
+##### Artikel 133j. Overgangsrecht in verband met overgang voorzieningen en subsidie
 
 In afwijking van [artikel 7 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=7) blijven de [artikelen 34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2026-01-01&g=2026-01-01) zoals die artikelen luidden voor de datum van inwerkingtreding van [artikel VII van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=VII), van toepassing op de voorziening die op grond van artikel 34a of 35 is toegekend en op de subsidie die op grond van artikel 36 is verstrekt voor die datum.
 
-#### Artikel 133k. Overgangsrecht in verband met aanvraag voorzieningen en subsidie
+##### Artikel 133k. Overgangsrecht in verband met aanvraag voorzieningen en subsidie
 
 1. Een nog niet afgehandeld en tot het UWV gericht verzoek met betrekking tot een persoon op wie met ingang van de dag van inwerkingtreding van [artikel VII van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=VII) de artikelen [34a](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=34a&z=2026-01-01&g=2026-01-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=35&z=2026-01-01&g=2026-01-01) of [36](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=4&paragraaf=4.2&artikel=36&z=2026-01-01&g=2026-01-01) niet meer van toepassing zijn om op grond van een of meer van die artikelen een besluit te nemen, wordt vanaf de dag van inwerkingtreding van artikel VII van die wet beschouwd als een aanvraag voor een voorziening gericht op arbeidsinschakeling als bedoeld in [artikel 10, eerste lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10). Deze aanvraag wordt beschouwd als te zijn gericht tot het college van burgemeester en wethouders van de betrokken gemeente.
 
@@ -2462,7 +2490,7 @@ In afwijking van [artikel 7 van de Participatiewet](https://wetten.overheid.nl/j
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133l. Afbakening eigenrisico voor werkgevers die uiterlijk 1 juli 2015 eigenrisicodrager zijn geworden
+##### Artikel 133l. Afbakening eigenrisico voor werkgevers die uiterlijk 1 juli 2015 eigenrisicodrager zijn geworden
 
 1. In afwijking van [artikel 82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01), draagt de eigenrisicodrager die uiterlijk op 1 juli 2015 eigenrisicodrager is geworden tot het moment dat dit eigenrisicodragen is beëindigd of geëindigd overeenkomstig [artikel 83](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=83&z=2026-01-01&g=2026-01-01) het risico van de betaling van de WGA-uitkering aan de verzekerde, die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot hem in dienstbetrekking stond dan wel arbeidsongeschikt is geworden nadat de dienstbetrekking met hem is beëindigd en [artikel 46 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46) van toepassing is, alsmede het risico van betaling van de overlijdensuitkering, bedoeld in [artikel 74, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=8&paragraaf=8.2&artikel=74&z=2026-01-01&g=2026-01-01), aan de rechthebbende of rechthebbenden, bedoeld in dat lid, ook als die wachttijd is ingegaan voor de dag waarop deze werkgever eigenrisicodrager werd.
 
@@ -2472,7 +2500,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 133m
+##### Artikel 133m
 
 1. In afwijking van [artikel 82, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&hoofdstuk=9&artikel=82&z=2026-01-01&g=2026-01-01), draagt de eigenrisicodrager het risico van betaling van de WGA-uitkering aan de verzekerde niet indien:
 

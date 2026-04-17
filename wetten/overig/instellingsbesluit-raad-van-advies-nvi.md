@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Raad van Advies NVI"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI"
 identifier: "BWBR0022973"
-categorie: "Overig"
-publicatiedatum: 2008-01-01
-laatste_update: 2008-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-01-01"
+last_updated: "2008-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022973"
+soort: "ministeriele-regeling"
+stam_id: "9308193"
+version_id: "14947322"
+internal_id: "C20336081"
+label_id: "9286734"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022973/2008-01-01/0"
+intitule_bron: "Stcrt.2007-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-28"
+intitule_published: "2007-12-06"
+intitule_in_force: "2007-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-237"
+original_signed_date: "2007-11-28"
+original_published_date: "2007-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-237-p1-SC83291"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0022973&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0022973&g=2008-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Raad van Advies NVI"
+signed_date: "2007-11-28"
+entry_into_force: "2008-01-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 28 november 2007, nr. DBO/ADV-2815959, houdende de instelling van de Raad van Advies NVI
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze regeling wordt verstaan onder:
 
 - 5. SVOP: Strategisch Vaccin Onderzoek Programma.
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Raad van Advies voor het NVI. Deze Raad van Advies neemt de taken over van de Raad van Toezicht van het NVI, die met ingang van de inwerkingtreding van de Raad van Advies wordt opgeheven.
 
-#### Artikel 3. Taken van de Raad van Advies
+##### Artikel 3. Taken van de Raad van Advies
 
 1. De Raad heeft tot taak te adviseren over de gehele beleidsvorming, uitvoering en kwaliteitsborging van de productie (incl. inkoop en distributie), ontwikkelings- en onderzoekstaken van het NVI. De Raad wordt daarin ondersteund door de risicomanager/centrale auditor van het NVI. Daarnaast geeft de Raad advies over het SVOP.
 
@@ -38,7 +64,7 @@ Er is een Raad van Advies voor het NVI. Deze Raad van Advies neemt de taken over
 
 3. De Raad spreekt minstens eenmaal per jaar met de opdrachtgever of de eigenaar van het NVI. De Raad kan te allen tijde tussentijds advies uitbrengen aan de Minister als hij zulks nodig acht.
 
-#### Artikel 4. Samenstelling van de Raad van Advies
+##### Artikel 4. Samenstelling van de Raad van Advies
 
 1. De Raad bestaat uit tenminste vijf leden en ten hoogste zeven leden, waaronder de voorzitter. De leden van de Raad kunnen slechts natuurlijke personen zijn.
 
@@ -58,7 +84,7 @@ Er is een Raad van Advies voor het NVI. Deze Raad van Advies neemt de taken over
 
 - b. ambtenaren werkzaam bij het NVI.
 
-#### Artikel 5. Benoeming van de voorzitter
+##### Artikel 5. Benoeming van de voorzitter
 
 1. De voorzitter wordt benoemd voor ten hoogste vier jaar en kan zich door middel van een sollicitatie aan de Minister kandidaat stellen voor een tweede termijn van ten hoogste vier jaar.
 
@@ -70,7 +96,7 @@ Er is een Raad van Advies voor het NVI. Deze Raad van Advies neemt de taken over
 
 5. De Raad kiest uit zijn midden een plaatsvervangend voorzitter en doet hiervan mededeling aan de Minister.
 
-#### Artikel 6. Benoeming leden
+##### Artikel 6. Benoeming leden
 
 1. De leden worden benoemd voor een periode van ten hoogste 4 jaar.
 
@@ -82,7 +108,7 @@ Er is een Raad van Advies voor het NVI. Deze Raad van Advies neemt de taken over
 
 5. Degene die ter vervulling van een tussentijdse ontstane vacature tot lid van de Raad is benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij of zij is benoemd zou hebben moeten aftreden.
 
-#### Artikel 7. Beëindiging lidmaatschap
+##### Artikel 7. Beëindiging lidmaatschap
 
 Het lidmaatschap van de Raad eindigt:
 
@@ -94,7 +120,7 @@ Het lidmaatschap van de Raad eindigt:
 
 - d. indien het lid door de Minister, op grond van [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022973&artikel=5&z=2008-01-01&g=2008-01-01) en [6 vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022973&artikel=6&z=2008-01-01&g=2008-01-01), wordt ontslagen.
 
-#### Artikel 8. Reglement
+##### Artikel 8. Reglement
 
 1. De Raad regelt zijn werkwijze en de orde van zijn vergaderingen in een reglement met inachtneming van het bepaalde in deze regeling.
 
@@ -108,7 +134,7 @@ Het lidmaatschap van de Raad eindigt:
 
 - c. geheimhouding.
 
-#### Artikel 9. Adviestaak en rapportage
+##### Artikel 9. Adviestaak en rapportage
 
 1. De Raad stelt met betrekking tot het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022973&artikel=3&z=2008-01-01&g=2008-01-01) bepaalde, een advies op over de gehele beleidsvorming, uitvoering en kwaliteitsborging van de productie-, ontwikkelings- en onderzoekstaken van het NVI. Meer in het bijzonder geeft de Raad hierbij advies over de door het NVI uitgevoerde risicoanalyse en de maatregelen die hierbij zijn voorgesteld.
 
@@ -120,7 +146,7 @@ Het lidmaatschap van de Raad eindigt:
 
 5. Jaarlijks wordt uiterlijk per 1 april door de Directie schriftelijk verantwoording afgelegd aan de Secretaris-Generaal van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 10. Ambtelijke ondersteuning
+##### Artikel 10. Ambtelijke ondersteuning
 
 1. Ter ondersteuning bij zijn in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022973&artikel=3&z=2008-01-01&g=2008-01-01) bedoelde taak wordt de Raad bijgestaan door een bureau.
 
@@ -128,11 +154,11 @@ Het lidmaatschap van de Raad eindigt:
 
 3. Het NVI wijst na overleg met de Raad een van de in het tweede lid bedoelde personeelsleden aan als secretaris.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en in elk geval niet eerder of later dan 1 januari 2008.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Instellingsbesluit Raad van Advies NVI.
 

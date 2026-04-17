@@ -1,13 +1,39 @@
 ---
-title: "Regeling publieke gezondheid"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2008, nr. PG/ZP-2.892.655, houdende nieuwe eisen inzake de publieke gezondheid (Regeling publieke gezondheid)"
 identifier: "BWBR0024758"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024758"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024758"
+soort: "ministeriele-regeling"
+stam_id: "9777513"
+version_id: "30625522"
+internal_id: "C43897541"
+label_id: "9754464"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024758/2026-04-01/0"
+intitule_bron: "Stcrt.2008-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-18"
+intitule_published: "2008-11-28"
+intitule_in_force: "2008-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-6534"
+original_signed_date: "2025-02-14"
+original_published_date: "2025-02-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-6534"
+entry_into_force_date: "2025-03-01"
+jci_1_3: "jci1.3:c:BWBR0024758&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0024758&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling publieke gezondheid"
+signed_date: "2025-02-14"
+entry_into_force: "2025-03-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 november 2008, nr. PG/ZP-2.892.655, houdende nieuwe eisen inzake de publieke gezondheid (Regeling publieke gezondheid)
 
 In overeenstemming met de Minister van Verkeer en Waterstaat;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Meldingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de meldingsplicht van de arts op grond van [artikel 22, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), gelden voor de hieronder genoemde infectieziekten de volgende voorwaarden:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 2. Voor de meldingsplicht van de arts op grond van [artikel 22, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22), geldt voor het Middle East respiratory syndrome coronavirus (MERS-CoV) het volgende: de meldingsplicht wordt beperkt tot de vaststelling van een infectie bij een persoon, die op grond van de ernst van dit ziektebeeld is opgenomen in een ziekenhuis, door de behandelend arts van het ziekenhuis.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de meldingsplicht van het hoofd van het laboratorium op grond van [artikel 25, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=25), gelden de volgende termijnen:
 
@@ -60,17 +86,17 @@ Voor de meldingsplicht van het hoofd van het laboratorium op grond van [artikel 
 
 - c. de vaststelling van mpox of tuberculose, de vaststelling van een verwekker van een infectieziekte behorend tot groep B2, met uitzondering van een invasieve groep A streptokokkeninfectie, alsmede de vaststelling van een verwekker van een infectieziekte behorend tot groep C, met uitzondering van meningokokkenziekte, wordt op normale werktijden binnen 24 uur gemeld aan de gemeentelijke gezondheidsdienst.
 
-#### Artikel 4
+##### Artikel 4
 
 De meldingsplicht van het hoofd van een instelling op grond van [artikel 26, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=26), wordt binnen normale werktijden zo spoedig mogelijk uitgevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=22) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=25), alsmede bij de aanvraag, bedoeld in [artikel 25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=25), voldoet aan de NEN 7510 norm voor informatiebeveiliging in de zorg.
 
 #### § 2. Plaatsen van binnenkomst
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ter uitvoering van [artikel 48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=48) worden de volgende havens aangewezen:
 
@@ -84,17 +110,17 @@ De gegevensverwerking bij de meldingen, bedoeld in de [artikelen 21](https://wet
 
 - b. als behorende tot categorie B: de burgerluchthavens van de gemeenten Beek (Maastricht Aachen Airport), Eindhoven (Eindhoven Airport), Rotterdam (Rotterdam Airport) en Tynaarloo (Groningen Airport Eelde), alsmede Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 7
+##### Artikel 7
 
 De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot afgifte van het certificaat van sanitaire controle van schepen en van het certificaat tot vrijstelling van sanitaire controle van schepen: Amsterdam, Beverwijk, Den Helder, Delfzijl, Dordrecht, Eemsmond, Harlingen, Maassluis, Moerdijk, Rotterdam, Schiedam, Terneuzen, Velsen, Vlaardingen, Vlissingen en Zaandam, alsmede Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ter verkrijging van een certificaat van sanitaire controle van schepen of een certificaat tot vrijstelling van sanitaire controle van schepen, worden de inspecties uitgevoerd conform [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=1&z=2026-04-01&g=2026-04-01) bij deze regeling.
 
 2. Indien vanwege buitengewone omstandigheden in de haven geen certificaat als bedoeld in het eerste lid kan worden afgegeven, en het schip is voorzien van een nog geldig certificaat van sanitaire controle van schepen of certificaat tot vrijstelling van sanitaire controle van schepen, kan de burgemeester dit certificaat met één maand verlengen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het tarief voor het onderzoek ter verkrijging van een certificaat tot vrijstelling van sanitaire controle van schepen of een certificaat van sanitaire controle van schepen als bedoeld in [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=57), bedraagt:
 
@@ -118,7 +144,7 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 #### § 3. Certificaten van inenting
 
-#### Artikel 10
+##### Artikel 10
 
 1. Organisaties mogen tegen gele koorts inenten indien de organisatie een certificaat ter zake van de reizigersadvisering heeft van de Stichting Harmonisatie Kwaliteitsbeoordeling in de Zorgsector, dan wel
 
@@ -134,15 +160,15 @@ De burgemeesters van de gemeenten met de volgende burgerhavens zijn bevoegd tot 
 
 - b. een abonnement hebben op de landelijke protocollen reizigersadvisering van het Landelijk Coördinatiecentrum Reizigersadvisering, of een abonnement hebben op een kwalitatief vergelijkbare bron van informatie.
 
-#### Artikel 11
+##### Artikel 11
 
 De organisaties en huisartsen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&hoofdstuk=II&paragraaf=3&artikel=10&z=2026-04-01&g=2026-04-01), laten zich voorafgaande aan het uitvoeren van de inentingen tegen gele koorts registreren bij het Landelijk Coördinatiecentrum Reizigersadvisering, postbus 1008, 1000 BA Amsterdam.
 
-#### Artikel 12
+##### Artikel 12
 
 De inenting van personen tegen gele koorts geschiedt uitsluitend met een door de Wereldgezondheidsorganisatie (WHO) goedgekeurde entstof.
 
-#### Artikel 13
+##### Artikel 13
 
 Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts dient:
 
@@ -160,21 +186,21 @@ Het internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezo
 
 - –. tussen de eerste ‘S’ van STAATSTOEZICHT en de ‘P’ van PUBLIC, alsmede tussen de laatste ‘D’ van VOLKSGEZONDHEID en de laatste ‘E’ van SERVICE bevindt zich een punt.
 
-#### Artikel 14
+##### Artikel 14
 
 Het tarief voor de vaccinaties ter verkrijging van een internationaal certificaat, bedoeld in artikel 36 van de Internationale Gezondheidsregeling, van inenting tegen gele koorts is niet meer dan kostendekkend.
 
 ### Hoofdstuk III. Overige bepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Regeling Geneesmiddelenwet.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 december 2008.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling publieke gezondheid.
 
@@ -852,7 +878,7 @@ Vectoren zijn dieren die op zichzelf geen plaagdier hoeven te zijn, maar wel (an
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
@@ -1282,7 +1308,7 @@ De Wereldgezondheidsorganisatie (World Health Organization, WHO) is een gespecia
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Een melding als bedoeld in [artikel 29a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=29a) bevat in ieder geval de volgende gegevens:
 
@@ -1302,7 +1328,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk IIA. Vergunning- en meldplicht poliovirus
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Een aanvraag om verlening van een vergunning als bedoeld in [artikel 12b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=12b) wordt ingediend bij de minister met gebruikmaking van het door hem beschikbaar gestelde aanvraagformulier, vergezeld van de in dat formulier genoemde bescheiden.
 
@@ -1310,13 +1336,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Onverminderd [artikel 4:15 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:15) wordt de termijn voor het geven van een beschikking op de aanvraag opgeschort met ingang van de dag na de in het tweede lid bedoelde melding tot en met de dag waarop een beslissing op die melding is genomen. De minister beslist vervolgens zo spoedig mogelijk op de aanvraag, doch uiterlijk binnen zes weken gerekend vanaf de dag waarop voormelde beslissing op de melding, bedoeld in het tweede lid, is genomen.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. Ter zake van het bewaren, bewerken, gebruiken of anderszins verwerken van de in [artikel 17a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=17a) aangewezen typen poliovirus gelden de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=2&z=2026-04-01&g=2026-04-01) bij deze regeling gestelde eisen die verband houden met de uitvoering van Resolutie WHA71.16 van de Wereld Gezondheidsorganisatie.
 
 2. In afwijking van het eerste lid, zijn de eisen, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024758&bijlage=3&z=2026-04-01&g=2026-04-01), niet van toepassing op de in die bijlage genoemde typen poliovirus.
 
-#### Artikel 14c
+##### Artikel 14c
 
 Een melding als bedoeld in [artikel 17c, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0024708&artikel=17c) wordt gedaan via NAC@igj.nl.
 

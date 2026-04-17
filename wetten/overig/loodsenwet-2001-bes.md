@@ -1,18 +1,43 @@
 ---
 title: "Loodsenwet 2001 BES"
 identifier: "BWBR0028220"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028220"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028220"
+soort: "wet-BES"
+stam_id: "10709753"
+version_id: "17673252"
+internal_id: "C24838791"
+label_id: "10684604"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028220/2010-10-10/0"
+intitule_bron: "Stb.2010-623"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-09"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-623"
+original_signed_date: "2010-09-09"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-623"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028220&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028220&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-09"
+entry_into_force: "2010-10-10"
 ---
-
 # Loodsenwet 2001 BES
 
 ### Hoofdstuk I. Algemene Bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +65,7 @@ bron: "https://wetten.overheid.nl/BWBR0028220"
 
 ### Hoofdstuk II. Loodsen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De loods adviseert aan boord de kapitein of degene die de feitelijke leiding heeft over de te voeren navigatie. De loods mag met instemming van de kapitein de leiding over de navigatie voeren.
 
@@ -48,13 +73,13 @@ bron: "https://wetten.overheid.nl/BWBR0028220"
 
 3. In het belang van de orde en veiligheid van het scheepvaartverkeer of de instandhouding van scheepvaartwegen of werken gelegen in of over scheepvaartwegen of ter voorkoming of beperking van hinder of gevaar door het scheepvaartverkeer voor personen die zich anders dan op een schip te water bevinden of schade door het scheepvaartverkeer aan de landschappelijke of natuurwetenschappelijke waarden van een gebied waarin scheepvaartwegen zijn gelegen, worden bij ministeriële regeling regels gegeven die de loodsen voor en bij de uitoefening van hun beroep in acht dienen te nemen. Deze voorschriften hebben onder andere betrekking op de omstandigheden en voorwaarden waaronder en de plaatsen vanaf waar de loods adviezen als bedoeld in het tweede lid mag geven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De loods is, voor zover hij handelt in de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10) genoemde taken en bevoegdheden, slechts aansprakelijk voor schade door hem veroorzaakt door opzet of grove schuld.
 
 2. Het openbaar lichaam Bonaire, Sint Eustatius of Saba, dan wel een instantie of rechtspersoon aan wie het openbaar lichaam het loodswezen geheel of gedeeltelijk heeft op- of overgedragen, in wiens opdracht een loods zijn diensten verleent, is niet aansprakelijk voor het handelen of nalaten van de loods in de uitoefening van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10) genoemde taken en bevoegdheden noch voor het handelen of nalaten van degenen die bij de uitoefening van die taken betrokken zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij ministeriële regeling worden regels gegeven met betrekking tot de bevoegdheid van de loods ten aanzien van loodsplichtige scheepvaartwegen en categorieën van schepen, voor de toelating tot het verkrijgen van de bevoegdheid van loods, de toelating tot het beroep van loods, vakbekwaamheidseisen en de bij de beroepsuitoefening in acht te nemen verplichtingen, alsmede het verliezen van de bevoegdheid van loods.
 
@@ -64,13 +89,13 @@ bron: "https://wetten.overheid.nl/BWBR0028220"
 
 #### § 1. Algemeen
 
-#### Artikel 5
+##### Artikel 5
 
 De kapitein is verplicht om tijdens de vaart van het schip op loodsplichtige scheepvaartwegen gebruik te maken van de diensten van een loods.
 
 #### § 2. Vrijstellingen en ontheffingen
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Van de verplichting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10), zijn uitgezonderd:
 
@@ -104,7 +129,7 @@ De kapitein is verplicht om tijdens de vaart van het schip op loodsplichtige sch
 
 6. In geval van intrekking der vergunning, wordt, op daartoe gedaan verzoek en tegen overlegging van het schriftelijk bewijs van de vergunning, het reeds over het lopende jaar betaalde vergunningsrecht gerestitueerd met ingang van de eerste dag van de maand volgende op die waarin de beslissing tot intrekking der vergunning door het bestuurscollege is genomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=2&artikel=5a&z=2010-10-10&g=2010-10-10) kan bij eilandsverordening vrijstelling worden verleend van de verplichting, bedoeld in artikel 5, voor:
 
@@ -114,7 +139,7 @@ De kapitein is verplicht om tijdens de vaart van het schip op loodsplichtige sch
 
 2. Door het bestuurscollege kan aan een schip dat gebruik maakt van een loodsplichtige scheepvaartweg, in bij eilandsverordening aan te geven gevallen, ontheffing worden verleend. Aan ontheffing kunnen voorschriften worden verbonden. Eveneens kunnen deze onder beperkingen worden verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij eilandsverordening, kan worden bepaald in welke gevallen en omstandigheden, en op welke wijze:
 
@@ -128,13 +153,13 @@ Bij eilandsverordening, kan worden bepaald in welke gevallen en omstandigheden, 
 
 - 2°. het gebruik maken van de diensten van een loods aan boord van het schip, dan wel vanaf de wal of vanaf een ander schip.
 
-#### Artikel 8
+##### Artikel 8
 
 Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van een schip dat geen zeeschip is alsmede ten aanzien van degene die daarover de feitelijke leiding heeft, indien dit schip zich op zee bevindt.
 
 #### § 3. Verklaring van vrijstelling
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een verklaring van vrijstelling wordt afgegeven aan degene die voldoet aan daartoe bij ministeriële regeling te stellen eisen.
 
@@ -142,13 +167,13 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 ### Hoofdstuk IV. Vergoedingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De kosten verbonden aan de aanvraag en de afgifte van diploma's en verklaringen van vrijstelling als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=3&artikel=9&z=2010-10-10&g=2010-10-10), de deelname aan de daarvoor vereiste opleidingen en examens en de afgifte van andere documenten, verplicht gesteld bij of krachtens deze wet, worden ten laste gebracht van de aanvrager van het diploma of andere documenten, onderscheidenlijk de kandidaat voor de bedoelde examens.
 
 2. Bij eilandsverordening worden de tarieven voor de kosten, bedoeld in het eerste lid, vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De kapitein op wie een verplichting als bedoeld in de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=2&artikel=7&z=2010-10-10&g=2010-10-10) rust, is gehouden loodsgeld te betalen.
 
@@ -156,7 +181,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 3. De verplichting, bedoeld in het eerste en tweede lid, rust mede op de scheepsbeheerder en diens vertegenwoordiger ieder afzonderlijk.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij ministeriële regeling worden na overleg met het openbaar lichaam Bonaire, Sint Eustatius of Saba of de instantie of rechtspersoon, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), de minimumtarieven voor loodsgelden vastgesteld.
 
@@ -166,13 +191,13 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 4. Het bestuurscollege kan voor een schip geheel of gedeeltelijk ontheffing verlenen van de verplichting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=IV&artikel=11&z=2010-10-10&g=2010-10-10), in door het bestuurscollege te bepalen omstandigheden of gevallen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het loodsgeld strekt tot vergoeding van de kosten met betrekking tot het loodsen.
 
 2. Het loodsgeld is verschuldigd aan het openbaar lichaam Bonaire, Sint Eustatius of Saba of de instantie of rechtspersoon, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De betaling van het loodsgeld geschiedt ten kantore van het bestuurscollege of aan de door het bestuurscollege aangewezen ambtenaar voor uit zee komende schepen binnen zesmaal 24 uren, doch in ieder geval vóór het vertrek en voor naar zee gaande schepen vóór het vertrek.
 
@@ -182,7 +207,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 4. De loods zal zijn diensten niet verlenen alvorens hem gebleken is dat aan de bepalingen van deze wet is voldaan.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Het bestuurscollege kan toestaan dat een doorlopende zekerheid wordt gesteld tot een door hem te bepalen bedrag voor de betaling van de verschuldigde loodsgelden.
 
@@ -190,31 +215,31 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 
 3. Bij niet nakoming van de bepaling van het tweede lid kan door het bestuurscollege de gunst van zekerheidsstelling worden ingetrokken.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. De te stellen zekerheid kan zijn persoonlijk of zakelijk en dient te geschieden ten genoegen van het openbaar lichaam.
 
 2. De kosten van de zekerheidsstelling komen ten laste van de belanghebbende.
 
-#### Artikel 13d
+##### Artikel 13d
 
 Het bestuurscollege zorgt voor kennisgeving aan de loodsdienst van elke zekerheidsstelling en eventueel ook van het vervallen daarvan.
 
-#### Artikel 13e
+##### Artikel 13e
 
 De terugvordering van teveel betaalde loodsgelden verjaart met één jaar, te rekenen van de dag waarop zij betaald zijn.
 
-#### Artikel 13f
+##### Artikel 13f
 
 Het bestuurscollege kan in bijzondere gevallen van dwaling of van verschoonbaar verzuim in de nakoming van de bepalingen van deze wet gehele of gedeeltelijke kwijtschelding van het verschuldigde of restitutie van het betaalde loodsgeld verlenen.
 
-#### Artikel 13g
+##### Artikel 13g
 
 Het bestuurscollege kan ontheffing of vermindering van het verschuldigde loodsgeld verlenen wanneer en naarmate door daden of verzuimen van ambtenaren van de loodsdienst schade aan of door een beloodst vaartuig is veroorzaakt.
 
 ### Hoofdstuk V. Strafbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Handelen in strijd met de voorschriften, gesteld bij [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=I&artikel=1&z=2010-10-10&g=2010-10-10), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=III&paragraaf=1&artikel=5&z=2010-10-10&g=2010-10-10) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=IV&artikel=11&z=2010-10-10&g=2010-10-10) of krachtens [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=2&z=2010-10-10&g=2010-10-10), of overtreding van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=II&artikel=4&z=2010-10-10&g=2010-10-10), wordt gestraft met hetzij hechtenis van ten hoogste twaalf maanden, hetzij geldboete van ten hoogste de vijfde categorie.
 
@@ -222,7 +247,7 @@ Het bestuurscollege kan ontheffing of vermindering van het verschuldigde loodsge
 
 3. Bij herhaling van een overtreding als bedoeld in het tweede lid, kan de geldboete worden verhoogd tot ten hoogste de keren van herhalen te vermenigvuldigen met ten hoogste de vierde categorie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij veroordeling wegens een overtreding als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028220&hoofdstuk=V&artikel=14&z=2010-10-10&g=2010-10-10), kan het vonnis tevens inhouden:
 
@@ -232,12 +257,12 @@ Het bestuurscollege kan ontheffing of vermindering van het verschuldigde loodsge
 
 2. Het in het eerste lid gestelde geldt ook bij veroordeling van de loods wegens handelen in strijd met of overtreden van verboden in andere wettelijke voorschriften die op scheepvaartwegen van toepassing zijn, indien de loods dit handelen of die overtreding heeft begaan bij de uitoefening van zijn beroep.
 
-#### Artikel 16
+##### Artikel 16
 
 Met de opsporing van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren.
 
 ### Hoofdstuk VI. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Loodsenwet 2001 BES.

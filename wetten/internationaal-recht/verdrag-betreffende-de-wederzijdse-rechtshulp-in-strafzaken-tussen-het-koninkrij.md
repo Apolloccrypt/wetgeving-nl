@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de wederzijdse rechtshulp in strafzaken tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko"
 identifier: "BWBV0004727"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-12-01
-laatste_update: 2012-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004727"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-12-01"
+last_updated: "2012-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004727"
+soort: "verdrag"
+stam_id: "10004282653"
+version_id: "10004475582"
+internal_id: "C10008201891"
+label_id: "10004267804"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004727/2012-12-01/0"
+intitule_bron: "Trb.2010-285"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-11-26"
+intitule_in_force: "2012-12-04"
+intitule_status: "goed"
+original_publication: "Trb.2010-285"
+original_published_date: "2010-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-285"
+entry_into_force_date: "2012-12-01"
+jci_1_3: "jci1.3:c:BWBV0004727&z=2012-12-01&g=2012-12-01"
+jci_1_0: "1.0:c:BWBV0004727&g=2012-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-12-01"
 ---
-
 # Verdrag betreffende de wederzijdse rechtshulp in strafzaken tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ Geleid door de wens hun samenwerking in strafzaken te verbeteren op het terrein 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Toepassingsbereik
+##### Artikel 1. Toepassingsbereik
 
 1. De partijen verbinden zich ertoe om, overeenkomstig de bepalingen van dit Verdrag, elkaar wederzijds in zo ruim mogelijke mate rechtshulp te verlenen in elke procedure die betrekking heeft op strafbare feiten waarvan de bestraffing op het tijdstip van het verzoek om rechtshulp tot de bevoegdheid behoort van de rechterlijke autoriteiten van de verzoekende partij.
 
@@ -36,11 +58,11 @@ Zijn het volgende overeengekomen:
 
 3. Dit Verdrag is niet van toepassing op de tenuitvoerlegging van een bevel tot aanhouding, noch op de tenuitvoerlegging van veroordelingen.
 
-#### Artikel 2. Bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten
 
 Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepassing van dit Verdrag de justitiële autoriteiten van het Koninkrijk der Nederlanden en het Koninkrijk Marokko.
 
-#### Artikel 3. Beperkingen aan en weigering van rechtshulp
+##### Artikel 3. Beperkingen aan en weigering van rechtshulp
 
 1. De rechtshulp kan worden geweigerd:
 
@@ -60,7 +82,7 @@ Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepass
 
 6. Elke weigering of elk uitstel van de rechtshulp wordt, met redenen omkleed, aan de verzoekende partij medegedeeld.
 
-#### Artikel 4. Inhoud van verzoeken om rechtshulp
+##### Artikel 4. Inhoud van verzoeken om rechtshulp
 
 1. In een verzoek om rechtshulp dienen de volgende gegevens te worden vermeld:
 
@@ -82,11 +104,11 @@ Tenzij dit Verdrag anders bepaalt, zijn de bevoegde autoriteiten voor de toepass
 
 - c). de termijn waarbinnen het verzoek dient te worden ingewilligd en de redenen voor de gestelde termijn.
 
-#### Artikel 5. Taal waarin verzoeken om rechtshulp worden gesteld
+##### Artikel 5. Taal waarin verzoeken om rechtshulp worden gesteld
 
 Verzoeken om rechtshulp en de bijbehorende stukken kunnen worden toegezonden in de taal van de verzoekende partij, vergezeld van een vertaling in de taal van de aangezochte partij of in de Franse taal.
 
-#### Artikel 6. Toezending van verzoeken om rechtshulp
+##### Artikel 6. Toezending van verzoeken om rechtshulp
 
 1. Verzoeken om rechtshulp worden schriftelijk gedaan, of op een andere wijze, welke dan ook, waarbij een schriftelijk bewijs van het verzoek kan worden verkregen aan de hand waarvan de ontvangende partij de echtheid ervan kan controleren. De verzoeken dienen door de centrale autoriteit van de verzoekende partij rechtstreeks te worden verzonden aan de centrale autoriteit van de aangezochte partij en de antwoorden dienen via dezelfde weg te worden teruggezonden.
 
@@ -94,11 +116,11 @@ Verzoeken om rechtshulp en de bijbehorende stukken kunnen worden toegezonden in 
 
 3. Indien de autoriteit die een verzoek om rechtshulp ontvangt, niet bevoegd is hieraan gevolg te geven, zendt zij dit verzoek ambtshalve door naar de bevoegde autoriteit in haar land en stelt zij de verzoekende partij daarvan op de hoogte.
 
-#### Artikel 7. Centrale autoriteiten
+##### Artikel 7. Centrale autoriteiten
 
 De centrale autoriteit voor het Koninkrijk der Nederlanden is hetzij de minister van Veiligheid en Justitie van Nederland, hetzij de minister van Justitie van Aruba, hetzij de minister van Justitie van Curaçao, hetzij de minister van Justitie van Sint Maarten, al naar gelang het land waar het verzoek dient te worden uitgevoerd. De centrale autoriteit voor het Koninkrijk Marokko is het ministerie van Justitie.
 
-#### Artikel 8. Procedures voor de uitvoering van rechtshulpverzoeken
+##### Artikel 8. Procedures voor de uitvoering van rechtshulpverzoeken
 
 1. Verzoeken om rechtshulp worden uitgevoerd overeenkomstig de wetgeving van de aangezochte partij.
 
@@ -110,7 +132,7 @@ Voor zover toegestaan door de wetgeving van de aangezochte partij kunnen de auto
 
 4. Indien het verzoek niet of niet geheel kan worden uitgevoerd, stellen de autoriteiten van de aangezochte partij de autoriteiten van de verzoekende partij hiervan onverwijld in kennis, onder vermelding van de voorwaarden waaronder het verzoek zou kunnen worden uitgevoerd. De autoriteiten van de verzoekende en de aangezochte partij kunnen vervolgens overeenkomen welk gevolg aan het verzoek zal worden gegeven en, waar nodig, dat bij de uitvoering ervan aan de gestelde voorwaarden zal worden voldaan.
 
-#### Artikel 9. Termijn voor de uitvoering van rechtshulpverzoeken
+##### Artikel 9. Termijn voor de uitvoering van rechtshulpverzoeken
 
 1. De aangezochte partij voldoet zo spoedig mogelijk aan het verzoek om rechtshulp en houdt daarbij zoveel mogelijk rekening met de door de verzoekende partij aangegeven procedurele en andere termijnen. De verzoekende partij licht de redenen voor de gestelde termijn toe.
 
@@ -118,7 +140,7 @@ Voor zover toegestaan door de wetgeving van de aangezochte partij kunnen de auto
 
 3. De aangezochte partij kan de rechtshulp opschorten indien de uitvoering van het verzoek eventueel een belemmering is voor een lopend onderzoek of een lopende vervolging.
 
-#### Artikel 10. Verzending van de resultaten van de uitvoering van rechtshulpverzoeken
+##### Artikel 10. Verzending van de resultaten van de uitvoering van rechtshulpverzoeken
 
 1. De aangezochte partij verzendt het resultaat van de uitvoering van het verzoek aan de verzoekende partij overeenkomstig de in haar wetgeving voorziene procedure.
 
@@ -130,7 +152,7 @@ Voor zover toegestaan door de wetgeving van de aangezochte partij kunnen de auto
 
 5. De voorwerpen, alsook de originele dossiers en documenten, die ter uitvoering van een verzoek om rechtshulp zijn overgedragen, worden zo spoedig mogelijk door de verzoekende partij aan de aangezochte partij teruggegeven, tenzij laatstgenoemde er afstand van doet.
 
-#### Artikel 11. Vertrouwelijkheid en bijzonderheden
+##### Artikel 11. Vertrouwelijkheid en bijzonderheden
 
 1. De aangezochte partij dient het vertrouwelijke karakter van het verzoek om rechtshulp en de inhoud daarvan te bewaren, voor zover haar wetgeving dit toelaat.
 
@@ -140,7 +162,7 @@ Indien het verzoek om rechtshulp niet kan worden uitgevoerd zonder het vertrouwe
 
 3. Indien zij daartoe aanleiding ziet, kan de partij die de gegevens of bewijsstukken heeft verstrekt de partij waaraan de gegevens of bewijsstukken zijn verstrekt, verzoeken haar op de hoogte te stellen van de wijze waarop deze zijn gebruikt.
 
-#### Artikel 12. Aanvullende rechtshulpverzoeken
+##### Artikel 12. Aanvullende rechtshulpverzoeken
 
 1. Indien het, tijdens de uitvoering van een verzoek om rechtshulp, de bevoegde autoriteit van de aangezochte partij nodig lijkt dat er onderzoek wordt verricht waarom in het verzoek om rechtshulp niet uitdrukkelijk is verzocht, maar dat van belang zou kunnen zijn voor het vaststellen van de feiten, dienen haar autoriteiten de autoriteiten van de verzoekende partij hiervan onverwijld op de hoogte te stellen, teneinde hen in staat te stellen hun verzoek aan te vullen.
 
@@ -148,13 +170,13 @@ Indien het verzoek om rechtshulp niet kan worden uitgevoerd zonder het vertrouwe
 
 3. Indien de bevoegde autoriteit die een verzoek om rechtshulp heeft ingediend, bij de uitvoering van het verzoek aanwezig is op het grondgebied van de aangezochte partij, kan zij in geval van spoed, zolang zij zich op het grondgebied bevindt van deze partij, rechtstreeks haar verzoek om rechtshulpverzoek aanvullen bij de bevoegde autoriteit van de aangezochte partij.
 
-#### Artikel 13. Videoconferentie
+##### Artikel 13. Videoconferentie
 
 1. Indien een persoon zich op het grondgebied van de aangezochte partij bevindt en als getuige of deskundige dient te worden gehoord door de justitiële autoriteiten van de verzoekende partij kan de verzoekende partij, waar mogelijk en voor zover het nationale recht dit toelaat, de aangezochte partij verzoeken toe te stemmen in een verhoor per videoconferentie door een rechterlijke autoriteit van de verzoekende partij in aanwezigheid van een rechterlijke autoriteit van de aangezochte partij.
 
 2. De partijen kunnen overeenkomen aan welke nadere voorwaarden een verhoor per videoconferentie dient te voldoen, rekening houdend met hun nationale recht.
 
-#### Artikel 14. Verschijnen van een getuige of een deskundige op het grondgebied van de verzoekende partij
+##### Artikel 14. Verschijnen van een getuige of een deskundige op het grondgebied van de verzoekende partij
 
 1. Indien de verzoekende partij het van bijzonder belang acht dat een getuige of een deskundige in persoon voor haar rechterlijke autoriteiten verschijnt, vermeldt zij dit in haar verzoek tot uitreiking van de dagvaarding en de aangezochte partij nodigt deze getuige of deskundige uit te verschijnen.
 
@@ -168,7 +190,7 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 5. Wanneer de bevoegde autoriteiten van de verzoekende partij of van de aangezochte partij dit noodzakelijk achten, kunnen zij maatregelen overeenkomen ter bescherming van de getuige of de deskundige.
 
-#### Artikel 15. Immuniteiten
+##### Artikel 15. Immuniteiten
 
 1. Een getuige of deskundige, van welke nationaliteit ook, die na te zijn gedagvaard voor de rechterlijke autoriteiten van de verzoekende partij verschijnt, kan op het grondgebied van die partij noch worden vervolgd, noch in hechtenis genomen, noch aan enige andere vrijheidsbeperking worden onderworpen voor feiten of veroordelingen die voorafgingen aan zijn vertrek van het grondgebied van de aangezochte partij.
 
@@ -176,7 +198,7 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 3. De in dit artikel bedoelde immuniteit houdt op wanneer de getuige, deskundige of verdachte, hoewel hij gedurende vijftien achtereenvolgende dagen na het tijdstip waarop zijn aanwezigheid niet meer door de rechterlijke autoriteiten werd vereist, de mogelijkheid had het grondgebied van de verzoekende partij te verlaten, daar desalniettemin is gebleven of op dat grondgebied is teruggekeerd na het te hebben verlaten.
 
-#### Artikel 16. Overbrenging van gedetineerden ter fine van rechtshulp
+##### Artikel 16. Overbrenging van gedetineerden ter fine van rechtshulp
 
 1. Indien de verzoekende partij de verschijning in persoon, hetzij als getuige, hetzij met het oog op een confrontatie of andere benodigde onderzoeksmaatregel, noodzakelijk acht van een persoon die op het grondgebied van de aangezochte partij gedetineerd is, kan zij verzoeken om de tijdelijke overbrenging van deze persoon naar haar grondgebied, op voorwaarde dat hij binnen de door de aangezochte partij vastgestelde termijn wordt teruggebracht en onder voorbehoud van het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01), voor zover van toepassing.
 
@@ -194,7 +216,7 @@ De aangezochte partij brengt het antwoord van de getuige of deskundige ter kenni
 
 4. Voor de in het eerste en tweede lid voorziene overbrenging is de instemming van de aangezochte partij vereist.
 
-#### Artikel 17. Aanvullende voorwaarden voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01)
+##### Artikel 17. Aanvullende voorwaarden voor de toepassing van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01)
 
 Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01):
 
@@ -208,7 +230,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 - e). het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=15&z=2012-12-01&g=2012-12-01) is van overeenkomstige toepassing.
 
-#### Artikel 18. Gecontroleerde afleveringen
+##### Artikel 18. Gecontroleerde afleveringen
 
 1. Beide partijen verbinden zich ertoe te waarborgen dat op verzoek van de andere partij gecontroleerde afleveringen op haar grondgebied kunnen worden toegestaan, voor zover haar nationale recht dit toelaat.
 
@@ -216,19 +238,19 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 3. Een gecontroleerde aflevering wordt uitgevoerd volgens de procedures van de aangezochte partij. Het recht te handelen en het optreden te leiden en te controleren berust bij de bevoegde autoriteiten van die partij.
 
-#### Artikel 19. Doorzoeking en inbeslagneming van stukken van overtuiging
+##### Artikel 19. Doorzoeking en inbeslagneming van stukken van overtuiging
 
 1. De aangezochte partij voert een verzoek tot doorzoeking en inbeslagneming van stukken van overtuiging van de verzoekende partij uit wanneer de feiten die aan het verzoek ten grondslag liggen naar het recht van zowel de aangezochte partij als de verzoekende partij strafbaar zijn gesteld met een vrijheidsstraf van ten minste een jaar. De verzoekende partij voegt het bevel tot doorzoeking en inbeslagneming van de bevoegde autoriteit van deze partij bij haar verzoek.
 
 2. De aangezochte partij stelt de verzoekende partij in kennis van de resultaten van de uitvoering van de betreffende verzoeken.
 
-#### Artikel 20. Verzoek om inlichtingen over bankrekeningen
+##### Artikel 20. Verzoek om inlichtingen over bankrekeningen
 
 1. Op verzoek van de verzoekende partij verstrekt de aangezochte partij op een zo kort mogelijke termijn alle inlichtingen met betrekking tot rekeningen, van welke aard dan ook, aangehouden of beheerd bij een bank, welke dan ook, op haar grondgebied, door een natuurlijke persoon of rechtspersoon naar wie op het grondgebied van de verzoekende partij een strafrechtelijk onderzoek is ingesteld. De verzoekende partij geeft in haar verzoek aan op welke gronden zij veronderstelt dat de natuurlijke persoon of rechtspersoon op het grondgebied van de aangezochte partij over een bankrekening beschikt.
 
 2. De aangezochte partij treft de nodige maatregelen om te waarborgen dat banken niet aan de betrokken cliënt of derden mededelen dat aan de verzoekende partij inlichtingen zijn verstrekt op grond van dit artikel.
 
-#### Artikel 21. Verzoek om inlichtingen over banktransacties
+##### Artikel 21. Verzoek om inlichtingen over banktransacties
 
 1. Op verzoek van de verzoekende partij, zal de aangezochte partij:
 
@@ -240,7 +262,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 3. De aangezochte partij treft de nodige maatregelen om te waarborgen dat banken niet aan de betrokken cliënt of derden mededelen dat aan de verzoekende partij inlichtingen zijn verstrekt op grond van dit artikel.
 
-#### Artikel 22. Opsporing van opbrengsten van strafbare feiten en toepassing van voorlopige maatregelen met het oog op confiscatie
+##### Artikel 22. Opsporing van opbrengsten van strafbare feiten en toepassing van voorlopige maatregelen met het oog op confiscatie
 
 1. Op verzoek van de verzoekende partij spant de aangezochte partij zich in om vast te stellen of de opbrengsten van een strafbaar feit zich in haar rechtsgebied bevinden en stelt de verzoekende partij in kennis van de resultaten van haar onderzoek. De verzoekende partij geeft in haar verzoek aan op welke gronden zij veronderstelt dat dergelijke opbrengsten zich in het rechtsgebied van de aangezochte partij bevinden en geeft tevens, indien bekend, de locatie aan waar deze opbrengsten zich bevinden.
 
@@ -248,13 +270,13 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 3. De verzoekende partij dient de aangezochte partij om de zes maanden mede te delen of het noodzakelijk is de voorlopige maatregelen te verlengen. Wanneer de genomen voorlopige maatregelen niet meer nodig blijken, stelt de verzoekende partij de aangezochte partij hiervan onverwijld in kennis.
 
-#### Artikel 23. Confiscatie van de opbrengsten van een strafbaar feit
+##### Artikel 23. Confiscatie van de opbrengsten van een strafbaar feit
 
 1. De aangezochte partij voert overeenkomstig haar wetgeving een verzoek om rechtshulp uit gericht op de confiscatie van de opbrengsten van een strafbaar feit, op basis van een onherroepelijke beslissing tot confiscatie van een strafrechter van de verzoekende partij.
 
 2. De aangezochte partij neemt de teruggave van de opbrengsten van strafbare feiten aan de verzoekende partij in overweging, voor zover haar wetgeving dit toelaat en onder voorbehoud van de rechten van derden te goeder trouw.
 
-#### Artikel 24. Toezending en uitreiking van gerechtelijke stukken in strafzaken
+##### Artikel 24. Toezending en uitreiking van gerechtelijke stukken in strafzaken
 
 1. De verzoekende partij kan de aangezochte partij verzoeken gerechtelijke stukken en rechterlijke beslissingen die haar met dat doel door de verzoekende partij worden toegezonden, uit te reiken. De uitreiking van deze documenten geschiedt op de wijze als voorzien in de wetgeving van de aangezochte partij voor soortgelijke uitreikingen.
 
@@ -268,7 +290,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 6. Als bewijs dat het stuk werd uitgereikt dient ofwel een gedateerd ontvangstbewijs dat door de geadresseerde ondertekend is ofwel een verklaring van de aangezochte partij waarin het feit van de uitreiking en de wijze en de datum waarop deze is geschied zijn vermeld. Het ontvangstbewijs of de verklaring wordt onverwijld aan de verzoekende partij toegezonden. De aangezochte partij verklaart of de uitreiking overeenkomstig haar recht heeft plaatsgevonden. Indien de uitreiking niet heeft kunnen plaatsvinden, deelt de aangezochte partij de reden daarvan mee aan de verzoekende partij.
 
-#### Artikel 25. Aangifte ter fine van vervolging
+##### Artikel 25. Aangifte ter fine van vervolging
 
 1. De partijen plegen overleg over voorgenomen aangiften ter fine van vervolging teneinde na te gaan of strafvervolging op het grondgebied van de andere partij mogelijk is.
 
@@ -276,7 +298,7 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 3. De aangezochte partij dient binnen een termijn van drie maanden te laten weten welk gevolg er is gegeven aan deze aangifte en houdt de verzoekende partij op de hoogte van het verloop van de procedure alsmede van het resultaat ervan.
 
-#### Artikel 26. Strafregister
+##### Artikel 26. Strafregister
 
 1. De partijen verstrekken elkaar een keer per jaar gegevens uit het strafregister betreffende onderdanen van de andere partij, daaronder begrepen personen met een dubbele nationaliteit, die op het grondgebied van de ontvangende partij wonen.
 
@@ -284,15 +306,15 @@ Ten behoeve van de toepassing van het bepaalde in [artikel 16](https://wetten.ov
 
 3. Voor het Koninkrijk der Nederlanden is de bevoegde dienst de „Justitiële Informatiedienst”. Voor het Koninkrijk Marokko is de bevoegde dienst de „Service du Casier Judiciaire National”. De partijen houden elkaar op de hoogte van elke wijziging van de bevoegde dienst.
 
-#### Artikel 27. Vrijstelling van legalisatie
+##### Artikel 27. Vrijstelling van legalisatie
 
 De stukken en documenten welke krachtens dit Verdrag worden overgedragen zijn vrijgesteld van alle formaliteiten van legalisatie.
 
-#### Artikel 28. Kosten
+##### Artikel 28. Kosten
 
 Onder voorbehoud van de bepalingen van het [derde lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=14&z=2012-12-01&g=2012-12-01) worden kosten, van welke aard dan ook, voor de tenuitvoerlegging van de verzoeken om rechtshulp niet vergoed, met uitzondering van de kosten voor inschakeling van deskundigen op het grondgebied van de aangezochte partij en die voor de overbrenging van gedetineerden krachtens [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=16&z=2012-12-01&g=2012-12-01).
 
-#### Artikel 29. Geschillenregeling
+##### Artikel 29. Geschillenregeling
 
 1. In geval van een geschil tussen de partijen ten aanzien van de uitleg of toepassing van dit Verdrag, trachten vertegenwoordigers van de ministeries van Justitie van Nederland en van Marokko, na een schriftelijk verzoek daartoe van een van de ministeries, een oplossing te vinden.
 
@@ -300,15 +322,15 @@ Onder voorbehoud van de bepalingen van het [derde lid van artikel 14](https://we
 
 3. Elk geschil dat niet overeenkomstig het eerste en het tweede lid kan worden beslecht, wordt langs diplomatieke weg geregeld.
 
-#### Artikel 30. Toepassing in de tijd
+##### Artikel 30. Toepassing in de tijd
 
 Dit Verdrag is van toepassing zonder beperking in de tijd ten aanzien van feiten die voor de inwerkingtreding zijn begaan, op voorwaarde dat het verzoek om rechtshulp door de aangezochte partij wordt ontvangen na de inwerkingtreding van dit Verdrag.
 
-#### Artikel 31. Territoriale toepassing
+##### Artikel 31. Territoriale toepassing
 
 Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Koninkrijk in Europa alsmede op elk deel van het Koninkrijk buiten Europa, tenzij anders is bepaald in de in het [eerste lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0004727&artikel=32&z=2012-12-01&g=2012-12-01) bedoelde kennisgeving.
 
-#### Artikel 32. Slotbepalingen
+##### Artikel 32. Slotbepalingen
 
 1. Elk van de partijen stelt de andere partij in kennis van de voltooiing van de voor de inwerkingtreding van dit Verdrag grondwettelijk vereiste procedures.
 

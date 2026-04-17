@@ -1,13 +1,38 @@
 ---
 title: "Regeling volmacht personele aangelegenheden CBR 2024"
 identifier: "BWBR0049656"
-categorie: "Overig"
-publicatiedatum: 2024-05-04
-laatste_update: 2024-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049656"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-04"
+last_updated: "2024-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049656"
+soort: "zbo"
+stam_id: "17092143"
+version_id: "30081442"
+internal_id: "C43105641"
+label_id: "17001004"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049656/2024-05-04/0"
+intitule_bron: "Stcrt.2024-13689"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-06"
+intitule_published: "2024-05-03"
+intitule_in_force: "2024-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-13689"
+original_signed_date: "2024-02-06"
+original_published_date: "2024-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-13689"
+entry_into_force_date: "2024-05-04"
+jci_1_3: "jci1.3:c:BWBR0049656&z=2024-05-04&g=2024-05-04"
+jci_1_0: "1.0:c:BWBR0049656&g=2024-05-04"
+citeertitel_status: "officieel"
+signed_date: "2024-02-06"
+entry_into_force: "2024-05-04"
 ---
-
 # Regeling volmacht personele aangelegenheden CBR 2024
 
 Gelet op [boek 7, titel 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10), [artikelen 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1), en [2, lid 1, sub h van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2), de lopende collectieve arbeidsovereenkomst van het CBR,
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -60,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 - t. **vervangingsregeling:** de laatstelijk door de directie vastgestelde regeling waarin de directie bepaalt welke functionarissen elkaar vervangen bij afwezigheid en of verhindering.
 
-#### Artikel 2. Grenzen volmacht
+##### Artikel 2. Grenzen volmacht
 
 1. De gevolmachtigde oefent de volmacht niet uit, indien de aard of de inhoud van een stuk een zodanig gewicht heeft dat het door de volmachtverlener behoort te worden afgedaan.
 
@@ -68,7 +93,7 @@ In deze regeling wordt verstaan onder:
 
 3. De gevolmachtigde oefent de volmacht niet uit, indien de betrokken personeelsaangelegenheid ook hemzelf betreft.
 
-#### Artikel 3. Verlenen ondervolmacht
+##### Artikel 3. Verlenen ondervolmacht
 
 1. Een gevolmachtigde is niet bevoegd ondervolmacht te verlenen tenzij dit noodzakelijk is voor de praktische uitvoering van zijn volmacht, de aard van de bevoegdheid zich niet tegen ondervolmacht verzet en de gevolmachtigde goedkeuring krijgt van het directielid onder wiens portefeuille de bevoegdheid valt.
 
@@ -78,7 +103,7 @@ In deze regeling wordt verstaan onder:
 
 4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=2&z=2024-05-04&g=2024-05-04) is van overeenkomstige toepassing op de ondergevolmachtigde.
 
-#### Artikel 4. Ondertekeningsvolmacht en machtiging
+##### Artikel 4. Ondertekeningsvolmacht en machtiging
 
 1. Voor de toepassing van deze regeling wordt onder (onder)volmacht tevens verstaan het ondertekenen van nodige documenten namens het CBR alsmede de machtiging tot uitvoering van andere handelingen die samenhangen met de afgegeven (onder)volmacht.
 
@@ -94,7 +119,7 @@ namens deze:
 
 3. Degene die bevoegd is tot het ondertekenen van stukken is ook bevoegd tot het digitaal ondertekenen van stukken.
 
-#### Artikel 5. Voorbehouden (rechts)handelingen
+##### Artikel 5. Voorbehouden (rechts)handelingen
 
 De directie behoudt de bevoegdheid tot de volgende rechtshandelingen:
 
@@ -108,7 +133,7 @@ De directie behoudt de bevoegdheid tot de volgende rechtshandelingen:
 
 - e. de beslissing op een beroep tegen een functiewaardering zoals bedoeld in bijlage 1 van de CAO CBR;
 
-#### Artikel 6. Register
+##### Artikel 6. Register
 
 1. De manager JZ houdt een register bij van alle op grond van deze regeling verleende (onder)volmachten. De manager JZ ziet erop toe dat het register wordt bekendgemaakt;
 
@@ -116,7 +141,7 @@ De directie behoudt de bevoegdheid tot de volgende rechtshandelingen:
 
 #### § 2. Volmachten
 
-#### Artikel 7. Bevoegdheid directieleden
+##### Artikel 7. Bevoegdheid directieleden
 
 De afzonderlijke directieleden hebben – behoudens het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=1&artikel=5&z=2024-05-04&g=2024-05-04) – binnen de grenzen van hun portefeuille volmacht ten aanzien van alle bevoegdheden waarover de directie beschikt in het bijzonder:
 
@@ -136,7 +161,7 @@ De afzonderlijke directieleden hebben – behoudens het bepaalde in [artikel 5](
 
 betreffende alle onder het directielid ressorterende medewerkers.
 
-#### Artikel 8. Bevoegdheid divisiemanager / manager stafafdeling
+##### Artikel 8. Bevoegdheid divisiemanager / manager stafafdeling
 
 1. De divisiemanagers en managers van de stafafdelingen hebben binnen de grenzen van hun eigen divisie dan wel afdeling en binnen de vastgestelde begroting volmacht ten aanzien van:
 
@@ -152,7 +177,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 - f. het toepassen van de hardheidsclausule conform artikel 12 van bijlage 5 van de CAO CBR
 
-#### Artikel 9. Bevoegdheid direct leidinggevende
+##### Artikel 9. Bevoegdheid direct leidinggevende
 
 1. De direct leidinggevenden hebben volmacht binnen de grenzen van hun functionele verantwoordelijkheid en binnen de vastgestelde begroting ten aanzien van rechtstreeks onder hen ressorterende medewerkers voor:
 
@@ -210,7 +235,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 2. De direct leidinggevende is niet bevoegd de volmacht uit te oefenen voor zover dat in strijd is met of overlapt met een handeling die reeds is genomen of waarvan bekend is dat deze zal plaatsvinden op grond van de volmachten genoemd in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=7&z=2024-05-04&g=2024-05-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049656&paragraaf=2&artikel=8&z=2024-05-04&g=2024-05-04).
 
-#### Artikel 10. Bevoegdheid HR
+##### Artikel 10. Bevoegdheid HR
 
 1. De manager HR heeft volmacht ten aanzien van:
 
@@ -232,7 +257,7 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 - b. het verlenen van zwangerschaps- en bevallingsverlof.
 
-#### Artikel 11. Vervanging
+##### Artikel 11. Vervanging
 
 1. Bij afwezigheid of verhindering van een gevolmachtigde wordt, voor de duur van de afwezigheid of verhindering de volmacht uitgeoefend conform de vervangingsregeling.
 
@@ -240,19 +265,19 @@ betreffende alle onder het directielid ressorterende medewerkers.
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 12. Evaluatie
+##### Artikel 12. Evaluatie
 
 De directie evalueert deze regeling iedere twee jaar, voor het eerst uiterlijk 31 december 2025.
 
-#### Artikel 13. Intrekking
+##### Artikel 13. Intrekking
 
 Volmachten verleend vóór het tijdstip van inwerkingtreding van deze regeling, vervallen met ingang van de dag dat deze regeling in werking treedt.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na bekendmaking daarvan in de Staatscourant en werkt terug tot en met 1 januari 2024.
 
-#### Artikel 15. Citeertitel en bekendmaking
+##### Artikel 15. Citeertitel en bekendmaking
 
 Deze regeling wordt aangehaald als: Regeling volmacht personele aangelegenheden CBR 2024.
 

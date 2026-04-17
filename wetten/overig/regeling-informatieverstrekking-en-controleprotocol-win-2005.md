@@ -1,36 +1,62 @@
 ---
-title: "Regeling informatieverstrekking en controleprotocol WIN 2005"
+title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 8 december 2005, nr. DDS 5389476, tot het geven van voorschriften voor de verstrekking van informatie over de inburgering van nieuwkomers en tot vaststelling van een controleprotocol (Regeling informatieverstrekking en controleprotocol WIN 2005)"
 identifier: "BWBR0019189"
-categorie: "Overig"
-publicatiedatum: 2006-01-20
-laatste_update: 2006-01-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019189"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-01-20"
+last_updated: "2006-01-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019189"
+soort: "ministeriele-regeling"
+stam_id: "7887613"
+version_id: "12770872"
+internal_id: "C17225221"
+label_id: "7875274"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019189/2006-01-20/0"
+intitule_bron: "Stcrt.2006-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-08"
+intitule_published: "2006-01-18"
+intitule_in_force: "2006-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-13"
+original_signed_date: "2005-12-08"
+original_published_date: "2006-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-13-p12-SC73432"
+entry_into_force_date: "2006-01-20"
+jci_1_3: "jci1.3:c:BWBR0019189&z=2006-01-20&g=2006-01-20"
+jci_1_0: "1.0:c:BWBR0019189&g=2006-01-20"
+citeertitel_status: "officieel"
+short_title: "Regeling informatieverstrekking en controleprotocol WIN 2005"
+signed_date: "2005-12-08"
+entry_into_force: "2006-01-20"
 ---
-
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 8 december 2005, nr. DDS 5389476, tot het geven van voorschriften voor de verstrekking van informatie over de inburgering van nieuwkomers en tot vaststelling van een controleprotocol (Regeling informatieverstrekking en controleprotocol WIN 2005)
 
 Gelet op [artikel 4, zevende en achtste lid, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=4) en [artikel 15, vierde en zesde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het verstrekken van de gegevens, bedoeld in [artikel 4, eerste lid, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=4) en [artikel 15, tweede lid, aanhef en onderdelen a en b, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15), geschiedt door middel van het volledig invullen, ondertekenen en verzenden van de in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019189&bijlage=1&z=2006-01-20&g=2006-01-20) van deze regeling opgenomen formulieren.
 
-#### Artikel 2
+##### Artikel 2
 
 De formulieren, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019189&artikel=1&z=2006-01-20&g=2006-01-20), dienen te zijn gewaarmerkt door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) en vergezeld te gaan van een verklaring van bovengenoemde accountant met betrekking tot de juistheid van de gegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 Het controleprotocol ten behoeve van de verklaring omtrent de getrouwheid en rechtmatigheid, bedoeld in [artikel 4, achtste lid, van het Bekostigingsbesluit inburgering nieuwkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0009768&artikel=4), alsmede ten behoeve van de verklaring omtrent de getrouwheid, bedoeld in [artikel 15, zesde lid, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0018238&artikel=15) wordt vastgesteld volgens de bij deze regeling horende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0019189&bijlage=2&z=2006-01-20&g=2006-01-20).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling informatieverstrekking en controleprotocol WIN 2005.
 

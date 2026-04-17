@@ -1,20 +1,46 @@
 ---
-title: "Regeling kinderopvang BES"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 november 2025, nr. 2025-0000255483, houdende nadere regels over kinderopvang op Bonaire, Sint Eustatius en Saba (Regeling kinderopvang BES) [KetenID WGK027087]"
 identifier: "BWBR0051777"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051777"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051777"
+soort: "ministeriele-regeling-BES"
+stam_id: "17603083"
+version_id: "31080322"
+internal_id: "C44499031"
+label_id: "17503494"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051777/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-11"
+intitule_published: "2025-11-19"
+intitule_in_force: "2025-11-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39220"
+original_signed_date: "2025-11-11"
+original_published_date: "2025-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39220"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051777&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051777&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling kinderopvang BES"
+signed_date: "2025-11-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 november 2025, nr. 2025-0000255483, houdende nadere regels over kinderopvang op Bonaire, Sint Eustatius en Saba (Regeling kinderopvang BES) [KetenID WGK027087]
 
 Gelet op de [artikelen 2.2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.2), [3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.7), en [4.1 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=4.1) en de [artikelen 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.7) en [2.11, tweede lid, van het Besluit kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.11);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **kinderopvangorganisatie:** voorziening van een houder of gastouder waar kinderopvang plaatsvindt.
 
-#### Artikel 2. Kinderopvangovereenkomst
+##### Artikel 2. Kinderopvangovereenkomst
 
 1. De kinderopvangovereenkomst vermeldt de volgende gegevens:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. In afwijking van het eerste lid, onderdeel f, is het niet noodzakelijk het ID-nummer te vermelden indien het kind of de ouder of de partner van de ouder niet als ingezetene staat ingeschreven bij het openbaar lichaam waar de opvang plaatsvindt en kinderopvangvergoeding wordt verstrekt op grond van [artikel 3.2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.2).
 
-#### Artikel 3. Gegevens aanvraag kinderopvangvergoeding en voorschot daarop
+##### Artikel 3. Gegevens aanvraag kinderopvangvergoeding en voorschot daarop
 
 1. De houder of gastouder levert bij de aanvraag voor het verstrekken van kinderopvangvergoeding als bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.2), of voor een voorschot als bedoeld in [artikel 3.7, eerste lid, van de wet de volgende gegevens aan](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=3.7):
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van het eerste lid, onderdeel e, wordt het bankafschrift of de bankverklaring enkel aangeleverd bij de eerste aanvraag voor het verstrekken van kinderopvangvergoeding of een voorschot, of bij wijziging van deze gegevens.
 
-#### Artikel 4. Administratie en bewaartermijnen
+##### Artikel 4. Administratie en bewaartermijnen
 
 1. De administratie van een houder van een kindercentrum of gastouder is actueel, inzichtelijk en controleerbaar ingericht.
 
@@ -148,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 7. De houder of gastouder kan de gegevens, bedoeld in het tweede en derde lid, op een andere plaats administreren dan op de plaats van vestiging van het kindercentrum of van de gastouderopvang mits de gegevens op verzoek van de toezichthouder, bedoeld in [artikel 5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=5.1), onverwijld beschikbaar komen op de plaats van vestiging van het kindercentrum of van de gastouderopvang.
 
-#### Artikel 5. Ehbo
+##### Artikel 5. Ehbo
 
 1. Voor de kwalificatie, bedoeld in [artikel 2.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.11) beschikt de in dat artikel bedoelde volwassene over de volgende vaardigheden:
 
@@ -182,7 +208,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het certificaat, bedoeld in het tweede lid, is niet meer dan twee jaar geleden afgegeven.
 
-#### Artikel 6. Bewijsstukken met betrekking tot ervaringseisen
+##### Artikel 6. Bewijsstukken met betrekking tot ervaringseisen
 
 1. De houder van een kindercentrum beschikt over een afschrift van bewijsstukken met betrekking tot ervaringseisen als bedoeld in [artikel 2.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0051582&artikel=2.8), waaruit blijkt dat de in dat lid bedoelde beroepskracht de volgende taken kan uitvoeren op het niveau, bedoeld in artikel 2.8, eerste lid, van het besluit:
 
@@ -194,7 +220,7 @@ In deze regeling wordt verstaan onder:
 
 2. De bewijsstukken, bedoeld in het eerste lid, bestaan uit documenten, gegevens of ander bewijsmateriaal die aantonen dat de beroepskracht bij de uitvoering van de taken handelt op het vereiste niveau en een schriftelijke toelichting waarin wordt uitgelegd waarom die bewijsstukken dat aantonen.
 
-#### Artikel 7. Overgangsrecht voor EHBO-kwalificaties en bewijsstukken met betrekking tot ervaringseisen
+##### Artikel 7. Overgangsrecht voor EHBO-kwalificaties en bewijsstukken met betrekking tot ervaringseisen
 
 1. Een kwalificatie, afgegeven op grond van artikel 13, tweede lid, van de Eilandsverordening Kinderopvang Bonaire 2020, artikel 14, tweede lid, van de Basis Eilandsverordening Kinderopvang of artikel 14, tweede lid, van de Basis Eilandsverordening Kinderopvang Sint Eustatius, wordt aangemerkt als certificaat als bedoeld in artikel 5, tweede lid, onverminderd het vierde lid van dat artikel.
 
@@ -208,11 +234,11 @@ In deze regeling wordt verstaan onder:
 
 - 2°. 2 van de Caribbean Vocational Qualification.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2026.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kinderopvang BES.
 

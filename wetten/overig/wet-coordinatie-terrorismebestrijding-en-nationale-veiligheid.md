@@ -1,14 +1,41 @@
 ---
-title: "Wet coördinatie terrorismebestrijding en nationale veiligheid"
+title: "Wet van 6 december 2023, houdende regels inzake de coördinatie ten aanzien van terrorismebestrijding en de bescherming van de nationale veiligheid ten behoeve van het verhogen van de weerbaarheid tegen dreigingen en risico’s (Wet coördinatie terrorismebestrijding en nationale veiligheid)"
 identifier: "BWBR0049262"
-categorie: "Overig"
-publicatiedatum: 2025-06-04
-laatste_update: 2025-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049262"
+country: "nl"
+rank: "wet"
+publication_date: "2025-06-04"
+last_updated: "2025-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049262"
+soort: "wet"
+stam_id: "17007523"
+version_id: "29914022"
+internal_id: "C44082321"
+label_id: "16917484"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049262/2025-06-04/0"
+intitule_bron: "Stb.2023-454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-06"
+intitule_published: "2023-12-12"
+intitule_in_force: "2025-06-03"
+intitule_status: "goed"
+original_publication: "Stb.2023-454"
+original_signed_date: "2023-12-06"
+original_published_date: "2023-12-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "35958"
+original_url_id: "stb-2023-454"
+entry_into_force_date: "2025-06-04"
+jci_1_3: "jci1.3:c:BWBR0049262&z=2025-06-04&g=2025-06-04"
+jci_1_0: "1.0:c:BWBR0049262&g=2025-06-04"
+citeertitel_status: "officieel"
+short_title: "Wet coördinatie terrorismebestrijding en nationale veiligheid"
+signed_date: "2023-12-06"
+entry_into_force: "2025-06-04"
 ---
-
-# Wet coördinatie terrorismebestrijding en nationale veiligheid
+# Wet van 6 december 2023, houdende regels inzake de coördinatie ten aanzien van terrorismebestrijding en de bescherming van de nationale veiligheid ten behoeve van het verhogen van de weerbaarheid tegen dreigingen en risico’s (Wet coördinatie terrorismebestrijding en nationale veiligheid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een wettelijke grond
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -24,7 +51,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **Visumcode:** [verordening 810/2009/EG](32009R0810) van het Europees Parlement en de Raad van 13 juli 2009 tot vaststelling van een gemeenschappelijke visumcode (PbEU 2009, L 243).
 
-#### Artikel 2. Coördinatietaak
+##### Artikel 2. Coördinatietaak
 
 1. Onverminderd de taken en bevoegdheden van betrokken overheidsorganisaties op grond van de op hen toepasselijke wetgeving, coördineert Onze Minister de samenhang en effectiviteit van het beleid en de door overheidsorganisaties te nemen maatregelen in het kader van terrorismebestrijding en de bescherming van de nationale veiligheid, met het oog op het verhogen van de weerbaarheid tegen dreigingen en risico’s, het beschermen van de nationale veiligheidsbelangen en het voorkomen van maatschappelijke ontwrichting.
 
@@ -38,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. In verband met de taak, bedoeld in het eerste lid, kan Onze Minister trends en fenomenen signaleren, analyseren en duiden. In dat kader wordt geen onderzoek gedaan gericht op personen, of organisaties.
 
-#### Artikel 3. Gegevensverwerking
+##### Artikel 3. Gegevensverwerking
 
 1. Onze Minister kan, voor zover dit noodzakelijk is voor de uitvoering van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2&z=2025-06-04&g=2025-06-04) bedoelde taak, gegevens, waaronder persoonsgegevens, verwerken:
 
@@ -58,11 +85,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Onze Minister is de verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens op grond van deze wet.
 
-#### Artikel 4. Functionaris gegevensbescherming
+##### Artikel 4. Functionaris gegevensbescherming
 
 Onze Minister benoemt een functionaris voor gegevensbescherming die in het bijzonder is belast met de taken, bedoeld in artikel 37 van de Algemene verordening gegevensbescherming, ten aanzien van de verwerking van persoonsgegevens op grond van deze wet.
 
-#### Artikel 5. Gegevensbeschermingsaudit
+##### Artikel 5. Gegevensbeschermingsaudit
 
 1. Onze Minister draagt zorg voor het periodiek doen verrichten van gegevensbeschermingsaudits ten aanzien van het gebruik van de in [artikel 3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=3&z=2025-06-04&g=2025-06-04), bedoelde bronnen, voor zover dit online bronnen zijn.
 
@@ -70,11 +97,11 @@ Onze Minister benoemt een functionaris voor gegevensbescherming die in het bijzo
 
 3. Bij algemene maatregel van bestuur worden nadere regels gesteld betreffende de inhoud en wijze van uitvoering van de controles bedoeld in het eerste en tweede lid.
 
-#### Artikel 5a. Toetsing en rapportage
+##### Artikel 5a. Toetsing en rapportage
 
 Onze Minister laat de wijze waarop uitvoering wordt gegeven aan zijn in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2&z=2025-06-04&g=2025-06-04) bedoelde taak toetsen. Een rapportage van de resultaten van deze toetsing wordt aan de Staten-Generaal gezonden.
 
-#### Artikel 6. Gegevensverstrekking door overheidsorganisaties
+##### Artikel 6. Gegevensverstrekking door overheidsorganisaties
 
 Voor zover dit noodzakelijk is met het oog op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2&z=2025-06-04&g=2025-06-04) bedoelde taak, kunnen de verwerkingsverantwoordelijken voor de gegevens die worden verwerkt in verband met de onderstaande taken en bevoegdheden, deze gegevens, waaronder persoonsgegevens, verstrekken aan Onze Minister:
 
@@ -106,7 +133,7 @@ Voor zover dit noodzakelijk is met het oog op de in [artikel 2](https://wetten.o
 
 - f. andere taken en bevoegdheden indien de betreffende wetgeving in de verstrekking voorziet met inachtneming van die wetgeving.
 
-#### Artikel 7. Gegevensverstrekking door Onze Minister
+##### Artikel 7. Gegevensverstrekking door Onze Minister
 
 1. Onze Minister kan ten behoeve van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2&z=2025-06-04&g=2025-06-04) bedoelde taak, gegevens, waaronder persoonsgegevens, verstrekken aan:
 
@@ -126,13 +153,13 @@ Voor zover dit noodzakelijk is met het oog op de in [artikel 2](https://wetten.o
 
 3. Onverminderd [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=2&z=2025-06-04&g=2025-06-04), ziet een verstrekking als bedoeld in het eerste lid niet op een duiding van de uitingen van een persoon waardoor die persoon in verband wordt gebracht met een trend of fenomeen.
 
-#### Artikel 8. Bijzondere persoonsgegevens en persoonsgegevens van strafrechtelijke aard
+##### Artikel 8. Bijzondere persoonsgegevens en persoonsgegevens van strafrechtelijke aard
 
 1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om gegevens waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken en verwerking van gegevens over gezondheid niet van toepassing, indien de verwerking geschiedt door Onze Minister, voor zover de verwerking van deze gegevens noodzakelijk is voor de uitoefening van zijn taak op grond van deze wet.
 
 2. Gelet op artikel 10 van de Algemene verordening gegevensbescherming kan Onze Minister persoonsgegevens van strafrechtelijke aard verwerken, indien de verwerking noodzakelijk is voor de uitoefening van zijn taak op grond van deze wet.
 
-#### Artikel 9. Rechten van betrokkenen
+##### Artikel 9. Rechten van betrokkenen
 
 1. Onze Minister kan de verplichtingen en rechten als bedoeld in artikel 23, eerste lid, van de Algemene verordening gegevensbescherming, beperken indien dit noodzakelijk en evenredig is ter waarborging van de in artikel 23, eerste lid, onderdelen a, c, d of i van die verordening genoemde belangen.
 
@@ -140,15 +167,15 @@ Voor zover dit noodzakelijk is met het oog op de in [artikel 2](https://wetten.o
 
 3. In afwijking van het tweede lid, wordt geen mededeling gedaan aan de betrokkene indien dit afbreuk doet aan het doel van de beperking.
 
-#### Artikel 10. Parlementaire betrokkenheid
+##### Artikel 10. Parlementaire betrokkenheid
 
 Het ontwerp van een krachtens de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=3&z=2025-06-04&g=2025-06-04), of [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049262&artikel=5&z=2025-06-04&g=2025-06-04), vast te stellen algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der Kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze wet wordt aangehaald als: Wet coördinatie terrorismebestrijding en nationale veiligheid.
 

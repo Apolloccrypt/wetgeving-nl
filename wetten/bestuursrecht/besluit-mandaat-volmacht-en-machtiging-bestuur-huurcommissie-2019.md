@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)"
 identifier: "BWBR0042105"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-11
-laatste_update: 2019-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042105"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-04-11"
+last_updated: "2019-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042105"
+soort: "ministeriele-regeling"
+stam_id: "15049783"
+version_id: "25789222"
+internal_id: "C36772211"
+label_id: "14999224"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042105/2019-04-11/0"
+intitule_bron: "Stcrt.2019-19673"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-14"
+intitule_published: "2019-04-10"
+intitule_in_force: "2019-04-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-19673"
+original_signed_date: "2019-03-14"
+original_published_date: "2019-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-19673"
+entry_into_force_date: "2019-04-11"
+jci_1_3: "jci1.3:c:BWBR0042105&z=2019-04-11&g=2019-04-11"
+jci_1_0: "1.0:c:BWBR0042105&g=2019-04-11"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019"
+signed_date: "2019-03-14"
+entry_into_force: "2019-04-11"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties, van 14 maart 2019, nr. MA/2019-059/UP, houdende de verlening van mandaat, volmacht en machtiging aan het bestuur van de huurcommissie ten aanzien van de administratieve ondersteuning van de huurcommissie (Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2019)
 
 Gelet op de [Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315),
@@ -18,7 +44,7 @@ Gelet op de instemming van het bestuur van de huurcommissie overeenkomstig [arti
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 - n. **functionaris:** medewerker van een eenheid van de dienst van de huurcommissie, bedoeld in [artikel 1, onder j, van het Organisatiebesluit dienst van de huurcommissie 2019](onbekend).
 
-#### Artikel 2. Mandaat betreffende personeelsaangelegenheden en inrichting dienst van de huurcommissie
+##### Artikel 2. Mandaat betreffende personeelsaangelegenheden en inrichting dienst van de huurcommissie
 
 1. Aan het bestuur wordt mandaat verleend met betrekking tot
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het vaststellen van regels met betrekking tot de aangelegenheden die verband houden met de bevoegdheden, in mandaat verleend krachtens de artikelen 2 en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=3&z=2019-04-11&g=2019-04-11) en met betrekking tot de taken van de dienst van de huurcommissie ten behoeve van de huurcommissie.
 
-#### Artikel 3. Mandaat betreffende andere bevoegdheden ten aanzien van de dienst van de huurcommissie
+##### Artikel 3. Mandaat betreffende andere bevoegdheden ten aanzien van de dienst van de huurcommissie
 
 1. Aan het bestuur wordt mandaat verleend voor het besluiten tot en het verrichten van privaatrechtelijke rechtshandelingen, die betrekking hebben op de taken van de huurcommissie en de werkzaamheden van de dienst van de huurcommissie.
 
@@ -92,11 +118,11 @@ In dit besluit wordt verstaan onder:
 
 - d. voormalige zittingsvoorzitters en voormalige zittingsleden die betrekking hebben op gebeurtenissen die zich hebben voorgedaan gedurende de periode waarin zij deel uitmaakten van de huurcommissie.
 
-#### Artikel 4. Bezwaar en beroep
+##### Artikel 4. Bezwaar en beroep
 
 Aan het bestuur wordt mandaat en machtiging verleend voor het behandelen van bezwaar- en beroepschriften gericht tegen besluiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=2&z=2019-04-11&g=2019-04-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=3&z=2019-04-11&g=2019-04-11) hiervoor, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.
 
-#### Artikel 5. Ondermandaat
+##### Artikel 5. Ondermandaat
 
 1. Het bestuur kan ten aanzien van de in een of meer van in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=2&z=2019-04-11&g=2019-04-11) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=3&z=2019-04-11&g=2019-04-11) genoemde bevoegdheden ondermandaat verlenen aan de directeur.
 
@@ -106,11 +132,11 @@ Aan het bestuur wordt mandaat en machtiging verleend voor het behandelen van bez
 
 4. De verlening van ondermandaat geschiedt schriftelijk.
 
-#### Artikel 6. Besluitvorming en uitoefening bevoegdheid
+##### Artikel 6. Besluitvorming en uitoefening bevoegdheid
 
 De voorzitter en de plaatsvervangend voorzitter kunnen elkaar machtigen de in mandaat verleende bevoegdheden afzonderlijk namens het bestuur uit te oefenen.
 
-#### Artikel 7. Begrenzing van het mandaat
+##### Artikel 7. Begrenzing van het mandaat
 
 1. De uitoefening van mandaat geschiedt binnen de grenzen van de in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) vastgestelde taken, de benoemingsbesluiten betreffende de voorzitter en de plaatsvervangend voorzitter, het bestuursreglement van de huurcommissie, de ter zake geldende overige wetgeving en regelgeving en de beleidsregels van de minister ten aanzien van de uitoefening van de bij of krachtens dit besluit verleende bevoegdheden.
 
@@ -124,17 +150,17 @@ De voorzitter en de plaatsvervangend voorzitter kunnen elkaar machtigen de in ma
 
 - d. het [Besluit privaatrechtelijke rechtshandelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007804) en de door de minister ter zake gestelde kaders, waaronder de kaders ten aanzien van inkoop en aanbesteding.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 1. Een ieder aan wie bij of krachtens dit besluit mandaat of ondermandaat is verleend informeert de minister bij zwaarwegende omstandigheden en gebeurtenissen die betrekking hebben op de gemandateerde bevoegdheden.
 
 2. Onverminderd het eerste lid, heeft het bestuur een aan de uitoefening van de bevoegdheid voorafgaande informatie- en signaleringsplicht jegens de directeur-generaal Bestuur, Ruimte en Wonen betreffende de gemandateerde bevoegdheden, genoemd in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042105&artikel=2&z=2019-04-11&g=2019-04-11).
 
-#### Artikel 9. Volmacht en machtiging
+##### Artikel 9. Volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met mandaat gelijkgesteld, de verlening van volmacht voor het verrichten van privaatrechtelijke rechtshandelingen en machtiging om handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 10. Overige bepalingen
+##### Artikel 10. Overige bepalingen
 
 1. Indien een besluit wordt genomen bij of krachtens een in dit besluit gemandateerde bevoegdheid, luidt de ondertekening:
 
@@ -148,7 +174,7 @@ gevolgd door functieaanduiding, handtekening en naam van de functionaris.
 
 3. Besluiten of handelingen die op grond van het [Besluit mandaat, volmacht en machtiging bestuur huurcommissie 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0033211) zijn genomen of verricht in de periode tot de datum van inwerkingtreding van dit besluit en waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, worden aangemerkt als te zijn genomen of verricht namens de Minister.
 
-#### Artikel 11. Slotbepalingen
+##### Artikel 11. Slotbepalingen
 
 1. Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het besluit wordt geplaatst en heeft terugwerkende kracht tot en met 1 januari 2019.
 

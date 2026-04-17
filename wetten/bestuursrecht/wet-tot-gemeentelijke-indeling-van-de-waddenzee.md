@@ -1,14 +1,37 @@
 ---
-title: "Wet tot gemeentelijke indeling van de Waddenzee"
+title: "Wet van 12 december 1985, tot gemeentelijke indeling van de Waddenzee"
 identifier: "BWBR0003894"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003894"
+country: "nl"
+rank: "wet"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003894"
+soort: "wet"
+stam_id: "314133"
+version_id: "455692"
+internal_id: "C455691"
+label_id: "307704"
+dtd_version: "2.0"
+original_entry_into_force: "1985-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003894/1996-01-01/0"
+intitule_bron: "Stb.1985-648"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-12-12"
+intitule_status: "goed"
+original_publication: "Stb.1985-648"
+original_signed_date: "1985-12-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "18456"
+entry_into_force_date: "1985-12-25"
+jci_1_3: "jci1.3:c:BWBR0003894&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0003894&g=1996-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot gemeentelijke indeling van de Waddenzee"
+signed_date: "1985-12-12"
+entry_into_force: "1985-12-25"
 ---
-
-# Wet tot gemeentelijke indeling van de Waddenzee
+# Wet van 12 december 1985, tot gemeentelijke indeling van de Waddenzee
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -30,7 +53,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Grenswijziging
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met ingang van de datum van grenswijziging worden de grenzen van de aan de Waddenzee gelegen provincies en gemeenten in dier voege gewijzigd dat zij komen te lopen als in de volgende leden omschreven.
 
@@ -228,7 +251,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk III. Rechtskracht voorschriften
 
-#### Artikel 3
+##### Artikel 3
 
 1. De op de dag, voorafgaande aan de datum van grenswijziging, geldende voorschriften van een provincie of van een gemeente gelden met ingang van die datum mede voor aan die provincie of aan die gemeente toegevoegd gebied.
 
@@ -238,7 +261,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk IV. Overgang rechten en verplichtingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003894&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01) gaan op de datum van grenswijziging alle rechten en verplichtingen van de gemeenten Bierum, Hefshuizen, Dongeradeel en Schiermonnikoog, betrekking hebbende op overgaand gebied, over op de gemeente waaraan dat gebied wordt toegevoegd, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -246,11 +269,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Ten aanzien van de in het eerste lid begrepen registergoederen zal verandering van de tenaamstelling in de kadastrale legger plaatshebben. Gedeputeerde staten van de provincie waartoe de gemeente behoort waaraan het betrokken gebied wordt toegevoegd, doen de daartoe nodige opgave aan de desbetreffende hypotheekbewaarder.
 
-#### Artikel 5
+##### Artikel 5
 
 De uitkeringen die door onderscheidenlijk aan het rijk, de provincie of gemeente over de vóór de datum van grenswijziging aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren met betrekking tot overgaand gebied van een gemeente verschuldigd zijn, worden gedaan aan onderscheidenlijk door de gemeente waartoe dat gebied vóór die datum behoorde.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien in verband met het bepaalde in [de artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003894&hoofdstuk=IV&artikel=4&z=1996-01-01&g=1996-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0003894&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01) een verrekening tussen gemeenten dient plaats te vinden, bepalen gedeputeerde staten van de provincies waartoe de betrokken gemeenten behoren, de besturen dier gemeenten gehoord, het bedrag en, zo nodig, de wijze van betaling daarvan.
 
@@ -258,7 +281,7 @@ De uitkeringen die door onderscheidenlijk aan het rijk, de provincie of gemeente
 
 3. Tegen een besluit van gedeputeerde staten als bedoeld in het eerste en het tweede lid kan het bestuur van elke daarbij betrokken gemeente binnen een maand, te rekenen van de dag van verzending van het besluit, bij de Kroon voorziening vragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Alle archiefbescheiden van een gemeente, uitsluitend betrekking hebbend op overgaand gebied, gaan op datum van grenswijziging over naar de gemeente waaraan dat gebied wordt toegevoegd, met dien verstande dat de overbrenging als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) (**Stb.** 276) ten aanzien van deze bescheiden geschiedt als had geen herindeling plaatsgevonden. Van de overgang wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
 
@@ -266,11 +289,11 @@ De uitkeringen die door onderscheidenlijk aan het rijk, de provincie of gemeente
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Geschillen omtrent de toepassing van deze wet waarvan de beslissing niet aan anderen is opgedragen, worden bij koninklijk besluit beslist.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 

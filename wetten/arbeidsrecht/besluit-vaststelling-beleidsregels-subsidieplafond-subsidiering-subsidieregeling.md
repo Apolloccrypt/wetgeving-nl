@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidsregels subsidieplafond subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Bestrijding Kinderarbeid)"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 november 2016, MINBUZA-2016.732089, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Bestrijding Kinderarbeid)"
 identifier: "BWBR0038707"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2016-11-12
-laatste_update: 2016-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038707"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-11-12"
+last_updated: "2016-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038707"
+soort: "ministeriele-regeling"
+stam_id: "13788753"
+version_id: "23648462"
+internal_id: "C34044551"
+label_id: "13754964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038707/2016-11-12/0"
+intitule_bron: "Stcrt.2016-60276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-04"
+intitule_published: "2016-11-11"
+intitule_in_force: "2016-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-60276"
+original_signed_date: "2016-11-04"
+original_published_date: "2016-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-60276"
+entry_into_force_date: "2016-11-12"
+jci_1_3: "jci1.3:c:BWBR0038707&z=2016-11-12&g=2016-11-12"
+jci_1_0: "1.0:c:BWBR0038707&g=2016-11-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidsregels subsidieplafond subsidiëring Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Bestrijding Kinderarbeid)"
+signed_date: "2016-11-04"
+entry_into_force: "2016-11-12"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking van 4 november 2016, MINBUZA-2016.732089, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Subsidieprogramma Fonds Bestrijding Kinderarbeid)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=5.1) met het oog op subsidiëring van activiteiten op het gebied van mensenrechten die strekken tot het tegengaan van kinderarbeid gelden de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aanvragen voor subsidie in het kader van het Subsidieprogramma Fonds Bestrijding Kinderarbeid worden ingediend in twee openstellingen.
 
@@ -30,17 +56,17 @@ Voor subsidieverlening op grond van [artikel 5.1 van de Subsidieregeling Ministe
 
 4. Aanvragen voor subsidies in het kader van het Subsidieprogramma Fonds Bestrijding Kinderarbeid worden ingediend aan de hand van een door de minister beschikbaar gesteld formulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1www.rvo.nl/fbk
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor subsidieverlening in het kader van het Subsidieprogramma Fonds Bestrijding Kinderarbeid geldt voor de periode vanaf de datum van inwerkingtreding van dit besluit tot en met 31 oktober 2021 een subsidieplafond van € 950.000 voor due diligence projecten en een subsidieplafond van € 2.850.000 voor multi stakeholder projecten.
 
 2. Indien middelen resteren van één van de subsidieplafonds bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038707&artikel=2&z=2016-11-12&g=2016-11-12), kunnen deze worden ingezet voor de honorering van aanvragen die betrekking hebben op het andere deelplafond, indien deze aanvragen niet kunnen worden gehonoreerd wegens uitputting van het voor die aanvragen geldende deelplafond.
 
-#### Artikel 4
+##### Artikel 4
 
 In het geval dat er voor één van de soorten van projecten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038707&artikel=3&z=2016-11-12&g=2016-11-12), meer dan één aanvraag op een dag wordt ontvangen, bepaalt de Minister de volgorde van behandeling van deze aanvragen door middel van loting.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 november 2021, met dien verstande dat het besluit van toepassing blijft op subsidies die voor die datum zijn verleend.
 

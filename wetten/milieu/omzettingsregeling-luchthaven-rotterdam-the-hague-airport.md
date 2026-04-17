@@ -1,13 +1,39 @@
 ---
-title: "Omzettingsregeling luchthaven Rotterdam The Hague Airport"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 april 2013, nr. IENM/BSK-2013/72460, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Rotterdam The Hague Airport, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Rotterdam The Hague Airport)"
 identifier: "BWBR0033333"
-categorie: "Milieu"
-publicatiedatum: 2013-05-01
-laatste_update: 2013-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033333"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-05-01"
+last_updated: "2013-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033333"
+soort: "ministeriele-regeling"
+stam_id: "12232743"
+version_id: "20458802"
+internal_id: "C28760051"
+label_id: "12204244"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033333/2013-05-01/0"
+intitule_bron: "Stcrt.2013-11153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-19"
+intitule_published: "2013-04-26"
+intitule_in_force: "2013-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-11153"
+original_signed_date: "2013-04-19"
+original_published_date: "2013-04-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-11153"
+entry_into_force_date: "2013-05-01"
+jci_1_3: "jci1.3:c:BWBR0033333&z=2013-05-01&g=2013-05-01"
+jci_1_0: "1.0:c:BWBR0033333&g=2013-05-01"
+citeertitel_status: "officieel"
+short_title: "Omzettingsregeling luchthaven Rotterdam The Hague Airport"
+signed_date: "2013-04-19"
+entry_into_force: "2013-05-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 19 april 2013, nr. IENM/BSK-2013/72460, houdende omzetting van bepalingen omtrent het luchthavenluchtverkeer uit het aanwijzingsbesluit van de luchthaven Rotterdam The Hague Airport, in verband met de vernieuwing van de regelgeving voor burgerluchthavens (Omzettingsregeling luchthaven Rotterdam The Hague Airport)
 
 Gelet op [artikel X van de Wet van 18 december 2008 houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X) (Stb. 2008, 561);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -58,13 +84,13 @@ Besluit:
 
 ### Hoofdstuk 2. Luchthaven
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op de luchthaven Rotterdam The Hague Airport.
 
 2. Het luchthavengebied is aangegeven op de kaart in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&bijlage=1&z=2013-05-01&g=2013-05-01) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op de luchthaven is de verharde start- en landingsbaan 06-24 gelegen in de geografische richting 57°-237°, met een lengte van 2.200 meter en een breedte van 45 meter, die voor het gebruik door het luchtverkeer is ingedeeld onder codenummer 4 en codeletter E, als bedoeld in bijlage 14, deel 1, van het verdrag.
 
@@ -72,7 +98,7 @@ Besluit:
 
 ### Hoofdstuk 3. Regels en grenswaarden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het gebruik of het doen of laten gebruiken van de luchthaven is niet toegestaan:
 
@@ -132,7 +158,7 @@ Besluit:
 
 - i. regeringsvluchten ten behoeve van personenvervoer.
 
-#### Artikel 5
+##### Artikel 5
 
 Het uitvoeren van circuitvluchten in het kader van een les- of oefenvlucht is verboden:
 
@@ -144,31 +170,31 @@ Het uitvoeren van circuitvluchten in het kader van een les- of oefenvlucht is ve
 
 - d. op zaterdagen voor luchtvaartuigen uitgerust met turbinestraalmotor(en).
 
-#### Artikel 6
+##### Artikel 6
 
 Op de luchthaven is incidenteel gebruik door militaire luchtvaartuigen toegestaan. Op dit gebruik is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=3&artikel=4&z=2013-05-01&g=2013-05-01) niet van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 De ligging van de handhavingspunten, bedoeld in [artikel X, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&bijlage=1&z=2013-05-01&g=2013-05-01) bij deze regeling.
 
-#### Artikel 8
+##### Artikel 8
 
 De exploitant dient binnen de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&hoofdstuk=3&artikel=7&z=2013-05-01&g=2013-05-01) genoemde grenswaarden voor de geluidbelasting een geluidruimte te reserveren waarbinnen een jaarlijks door de Minister van Infrastructuur en Milieu vast te stellen aantal regerings- en militaire vluchten kan worden afgewikkeld.
 
 ### Hoofdstuk 4. Ruimtelijke beperkingen
 
-#### Artikel 9
+##### Artikel 9
 
 De beperkingengebieden, bedoeld in [artikel X, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024928&artikel=X), zijn aangegeven op de kaarten in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&bijlage=2&z=2013-05-01&g=2013-05-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0033333&bijlage=3&z=2013-05-01&g=2013-05-01) bij deze regeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 1 mei 2013.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Rotterdam The Hague Airport.
 

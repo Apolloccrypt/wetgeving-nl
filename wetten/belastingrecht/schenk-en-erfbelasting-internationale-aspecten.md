@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, internationale aspecten"
 identifier: "BWBR0051038"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-05-16
-laatste_update: 2025-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051038"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-05-16"
+last_updated: "2025-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051038"
+soort: "beleidsregel"
+stam_id: "17428343"
+version_id: "30728772"
+internal_id: "C44039981"
+label_id: "17331584"
+dtd_version: "2.0"
+original_entry_into_force: "2025-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051038/2025-05-16/0"
+intitule_bron: "Stcrt.2025-16767"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-13"
+intitule_published: "2025-05-15"
+intitule_in_force: "2025-05-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-16767"
+original_signed_date: "2025-05-13"
+original_published_date: "2025-05-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-16767"
+entry_into_force_date: "2025-05-16"
+jci_1_3: "jci1.3:c:BWBR0051038&z=2025-05-16&g=2025-05-16"
+jci_1_0: "1.0:c:BWBR0051038&g=2025-05-16"
+citeertitel_status: "redactioneel"
+signed_date: "2025-05-13"
+entry_into_force: "2025-05-16"
 ---
-
 # Schenk- en erfbelasting, internationale aspecten
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

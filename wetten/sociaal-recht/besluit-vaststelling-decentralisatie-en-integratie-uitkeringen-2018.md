@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2018"
+title: "Besluit van 23 november 2021, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2018 (Besluit vaststelling decentralisatie-en integratie-uitkeringen 2018)"
 identifier: "BWBR0046011"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-12-15
-laatste_update: 2021-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046011"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-12-15"
+last_updated: "2021-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046011"
+soort: "AMvB"
+stam_id: "16178693"
+version_id: "28231992"
+internal_id: "C39805381"
+label_id: "16107084"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046011/2021-12-15/0"
+intitule_bron: "Stb.2021-606"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-23"
+intitule_published: "2021-12-14"
+intitule_in_force: "2021-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2021-606"
+original_signed_date: "2021-11-23"
+original_published_date: "2021-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-606"
+entry_into_force_date: "2021-12-15"
+jci_1_3: "jci1.3:c:BWBR0046011&z=2021-12-15&g=2021-12-15"
+jci_1_0: "1.0:c:BWBR0046011&g=2021-12-15"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2018"
+signed_date: "2021-11-23"
+entry_into_force: "2021-12-15"
 ---
-
 # Besluit van 23 november 2021, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2018 (Besluit vaststelling decentralisatie-en integratie-uitkeringen 2018)
 
 #### § 1. Decentralisatie-uitkeringen aan gemeenten en provincies
 
-#### Artikel 1
+##### Artikel 1
 
 In het jaar 2018 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=1&z=2021-12-15&g=2021-12-15) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 In het jaar 2018 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=2&z=2021-12-15&g=2021-12-15) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
-#### Artikel 3
+##### Artikel 3
 
 In het jaar 2018 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&bijlage=3&z=2021-12-15&g=2021-12-15) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
@@ -5981,13 +6007,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Slotbepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046011&paragraaf=1&artikel=1&z=2021-12-15&g=2021-12-15) werken terug tot en met 1 januari 2018.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2018.
 

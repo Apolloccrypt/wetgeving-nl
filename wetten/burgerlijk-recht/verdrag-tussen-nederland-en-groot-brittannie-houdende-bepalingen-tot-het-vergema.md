@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen Nederland en Groot-Brittannië, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken"
 identifier: "BWBV0006132"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-08-01
-laatste_update: 2014-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006132"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-08-01"
+last_updated: "2014-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006132"
+soort: "verdrag"
+stam_id: "10005044193"
+version_id: "10005375732"
+internal_id: "C10008365251"
+label_id: "10005027214"
+dtd_version: "2.0"
+original_entry_into_force: "1933-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006132/2014-08-01/0"
+intitule_bron: "Stb.1933-364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1933-07-12"
+intitule_published: "1933-07-21"
+intitule_in_force: "1966-12-29"
+intitule_status: "goed"
+original_publication: "Stb.1933-364"
+original_signed_date: "1933-07-12"
+original_published_date: "1933-07-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1933-07-29"
+jci_1_3: "jci1.3:c:BWBV0006132&z=2014-08-01&g=2014-08-01"
+jci_1_0: "1.0:c:BWBV0006132&g=2014-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "1933-07-12"
+entry_into_force: "1933-07-29"
 ---
-
 # Verdrag tussen Nederland en Groot-Brittannië, houdende bepalingen tot het vergemakkelijken van het voeren van rechtsgedingen in burgerlijke en handelszaken
 
 Hare Majesteit de Koningin der Nederlanden,
@@ -36,7 +60,7 @@ die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te heb
 
 ### I. Inleidende bepalingen.
 
-#### Artikel 1
+##### Artikel 1
 
 (a). Dit Verdrag is uitsluitend van toepassing op burgerlijke en handelszaken.
 
@@ -44,11 +68,11 @@ die, na elkander hunne in goeden en behoorlijken vorm bevonden volmachten te heb
 
 ### II. Mededeeling van gerechtelijke en buitengerechtelijke stukken.
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer met het oog op rechtsgedingen, die aanhangig zijn of, naar te verwachten is, in de toekomst zullen worden bij de rechterlijke autoriteiten binnen het grondgebied van een der Hooge Verdragsluitende Partijen, gerechtelijke of buitengerechtelijke stukken dienen te worden medegedeeld binnen het grondgebied der andere Hooge Verdragsluitende Partij, kunnen deze stukken aan hem voor wien zij zijn bestemd, welke ook diens nationaliteit moge zijn, op de bij artikel 3 omschreven wijze, worden medegedeeld.
 
-#### Artikel 3
+##### Artikel 3
 
 (a). Eene aanvrage om mededeeling wordt door een consulairen ambtenaar van de Hooge Verdragsluitende Partij, uit wier grondgebied de mede te deelen stukken afkomstig zijn, gericht tot de bevoegde autoriteit van het land, alwaar de stukken moeten worden medegedeeld, met het verzoek aan die autoriteit om de mededeeling van de stukken te doen plaats vinden. De aanvrage wordt door den bedoelden consulairen ambtenaar aan de voormelde autoriteit toegezonden.
 
@@ -76,7 +100,7 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 (g). De autoriteit, door welke aan de aanvrage om mededeeling gevolg is gegeven, geeft een bewijsstuk af, vermeldende hetzij dat de mededeeling is geschied, hetzij de reden waarom zulks niet heeft kunnen plaats vinden, en voorts het feit zelf der mededeeling, de wijze en den datum waarop zij is geschied of van de poging daartoe; dit bewijsstuk wordt door bedoelde autoriteit toegezonden aan den consulairen ambtenaar, door wien de aanvrage om mededeeling was gedaan. Het bewijsstuk betreffende de mededeeling of de poging tot mededeeling wordt gesteld op of gehecht aan een der beide exemplaren der stukken.
 
-#### Artikel 4
+##### Artikel 4
 
 (a). Door de bepalingen van de artikelen 2 en 3 wordt geen inbreuk gemaakt op de bevoegdheid om binnen het grondgebied van elk der Hooge Verdragsluitende Partijen zonder eenige aanvrage aan, of tusschenkomst van de autoriteiten van het land, alwaar de mededeeling geschiedt, zich te bedienen van een der na te melden wijzen van mededeeling van gerechtelijke en buitengerechtelijke stukken:
 
@@ -94,7 +118,7 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 (c). Tusschen de Hooge Verdragsluitende Partijen bestaat overeenstemming dat het in beginsel wenschelijk is dat stukken, die op een dezer wijzen worden medegedeeld, hetzij gesteld worden in de taal van het land, alwaar de mededeeling moet geschieden, hetzij vergezeld zijn van eene vertaling in die taal, tenzij degeen voor wien zij bestemd zijn, een onderdaan is van de Hooge Verdragsluitende Partij, uit wier grondgebied de mede te deelen stukken afkomstig zijn. Niettemin wordt bij gebreke van binnen het grondgebied van laatstbedoelden Staat geldende wettelijke bepalingen, welke eene vertaling in zulke gevallen voorschrijven, door de Hooge Verdragsluitende Partijen geene verplichting te dien aanzien aanvaard.
 
-#### Artikel 5
+##### Artikel 5
 
 (a). Behoudens het in de volgende alinea's van dit artikel bepaalde zijn geen heffingen of vergoedingen van welken aard ook ter zake der mededeeling van stukken door de eene Hooge Verdragsluitende Partij aan de andere verschuldigd.
 
@@ -104,13 +128,13 @@ Indien de autoriteit aan wie een aanvraag om mededeling is gezonden, niet bevoeg
 
 ### III. Bewijslevering.
 
-#### Artikel 6
+##### Artikel 6
 
 (a). Ingeval eene rechterlijke autoriteit binnen het grondgebied van een der Hooge Verdragsluitende Partijen gelast, dat binnen het grondgebied van de andere Hooge Verdragsluitende Partij eene instructie zal plaats vinden, zal zulks op eene der in de artikelen 7 of 8 omschreven wijzen kunnen geschieden.
 
 (b). Hierbij wordt vastgesteld, dat in het onderhavige verdrag (1) de uitdrukking „bewijslevering” mede omvat het opnemen van onder eede of op andere wijze afgelegde verklaringen van den eischer of den gedaagde, het afnemen van een eed van den eischer, van den gedaagde, van deskundigen of van andere personen, alsmede het overleggen, onderzoeken en voor echt erkennen van stukken, monsters of alle andere voorwerpen, een en ander in verband met eenig rechtsgeding; (2) de uitdrukking „getuigen” mede omvat een ieder (hetzij eischer, hetzij gedaagde of welke andere persoon ook) ten aanzien van wien eene bewijslevering in bovenbedoelden zin wordt verlangd.
 
-#### Artikel 7
+##### Artikel 7
 
 (a). De rechterlijke autoriteit, welke de bewijslevering gelast, kan zich, overeenkomstig de bepalingen van het voor haar geldende recht, bij rogatoire commissie wenden tot de bevoegde autoriteit van het land, alwaar de bewijslevering moet plaats vinden met het tot die autoriteit gericht verzoek om de bewijslevering te doen geschieden.
 
@@ -140,7 +164,7 @@ Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd
 
 (g). In elk geval, waarin de rogatoire commissie door de aangezochte autoriteit niet wordt uitgevoerd, stelt deze onverwijld den consulairen ambtenaar, door wien zij was overgemaakt, daarvan in kennis, met vermelding van de redenen waarom de uitvoering van de rogatoire commissie geweigerd is, of van de autoriteit, aan welke zij is overgedragen.
 
-#### Artikel 8
+##### Artikel 8
 
 (a). De bewijslevering zal ook kunnen geschieden zonder eenig verzoek aan, of eenige tusschenkomst van de autoriteiten van het land, alwaar zij moet plaats vinden en wel door bemiddeling van een zich in dat land bevindend persoon, daartoe rechtstreeks benoemd door de rechterlijke autoriteit, die de bewijslevering verlangt. Als zoodanig kan een Consulair Ambtenaar van de Hooge Verdragsluitende Partij, welker rechterlijke autoriteit de bewijslevering verlangt, of een ander daartoe geschikt persoon worden benoemd.
 
@@ -150,11 +174,11 @@ Indien de autoriteit aan wie de rogatoire commissie is overgemaakt, niet bevoegd
 
 (d). De bewijslevering kan geschieden met inachtneming van de proces-regels, geldende volgens de wet van het land door welks rechterlijke autoriteit de bewijslevering wordt verlangd; de partijen hebben het recht daarbij aanwezig te zijn, hetzij in persoon, hetzij vertegenwoordigd door advocaten („barristers”) of procureurs („solicitors”) van dat land of door alle andere personen, die bevoegd zijn voor de rechterlijke macht van een der beide betrokken landen op te treden.
 
-#### Artikel 9
+##### Artikel 9
 
 De omstandigheid, dat eene poging tot bewijslevering op de bij artikel 8 omschreven wijze niet geslaagd is tengevolge van de weigering van eenigen getuige om aan het tot hem gericht verzoek gevolg te geven, verhindert niet, dat daarna eene rogatoire commissie overeenkomstig artikel 7 wordt uitgezonden.
 
-#### Artikel 10
+##### Artikel 10
 
 (a). Behoudens het in de volgende alinea's van dit artikel bepaalde, zijn geen heffingen of kosten van welken aard ook door de eene Hooge Verdragsluitende Partij aan de andere met betrekking tot de bewijslevering verschuldigd.
 
@@ -164,15 +188,15 @@ De omstandigheid, dat eene poging tot bewijslevering op de bij artikel 8 omschre
 
 ### IV. Algemeene Bepalingen.
 
-#### Artikel 11
+##### Artikel 11
 
 Alle moeilijkheden, die met betrekking tot de werking van het onderhavige Verdrag mochten rijzen, zullen langs diplomatieken weg worden geregeld.
 
-#### Artikel 12
+##### Artikel 12
 
 Het onderhavige Verdrag, welks Engelsche en Nederlandsche teksten gelijkelijk verbindend zijn, is aan bekrachtiging onderworpen. De akten van bekrachtiging zullen in Londen worden uitgewisseld. Het Verdrag treedt in werking na verloop van één maand na den datum, waarop de akten van bekrachtiging zijn uitgewisseld en zal gedurende drie jaren na den datum van het in werking treden van kracht blijven. Indien geen der Hooge Verdragsluitende Partijen tenminste zes maanden vóór den afloop van den bovenvermelden termijn van drie jaren het Verdrag langs diplomatieken weg heeft opgezegd, zal hetzelve van kracht blijven tot den afloop van een termijn van zes maanden, te rekenen van den dag, waarop door een der Hooge Verdragsluitende Partijen aan de andere eene opzegging zal zijn gedaan.
 
-#### Artikel 13
+##### Artikel 13
 
 (a). Het onderhavige Verdrag is niet van rechtswege toepasselijk op Schotland en Noord-Ierland, noch op eenige der Koloniën of Protectoraten van Zijne Majesteit, noch op eenig grondgebied staande onder Zijne suzereiniteit, noch op eenig mandaatsgebied bestuurd door Zijne Regeering in Groot-Britannië, doch Zijne Majesteit zal te allen tijde, zoolang het Verdrag krachtens artikel 12 van kracht is, de werking daarvan tot eenig gebied als bovenbedoeld kunnen uitbreiden, door middel eener kennisgeving, gedaan door tusschenkomst van Hoogstdeszelfs Gezant te 's-Gravenhage.
 
@@ -182,7 +206,7 @@ Het onderhavige Verdrag, welks Engelsche en Nederlandsche teksten gelijkelijk ve
 
 (d). De beëindiging van het Verdrag volgens het in artikel 12 bepaalde, zal, tenzij door de Hooge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen, van rechtswege beëindiging medebrengen ten opzichte van eenig gebied tot hetwelk de werking van het Verdrag volgens het onder (**a**) van dit artikel bepaalde, is uitgebreid.
 
-#### Artikel 14
+##### Artikel 14
 
 (a). Dit Verdrag is niet van rechtswege toepasselijk op eenig overzeesch grondgebied van het Koninkrijk der Nederlanden, doch Hare Majesteit de Koningin der Nederlanden zal te allen tijde zoolang het Verdrag krachtens artikel 12, of uit hoofde van eenige toetreding krachtens artikel 15, van kracht is, de werking van het Verdrag tot eenig overzeesch grondgebied kunnen uitbreiden door middel van eene kennisgeving, gedaan door tusschenkomst van Hoogstderzelver Gezant te Londen.
 
@@ -190,7 +214,7 @@ Het onderhavige Verdrag, welks Engelsche en Nederlandsche teksten gelijkelijk ve
 
 (c). De bepalingen van de paragrafen (**c**) en (**d**) van artikel 13 zijn van toepassing op elk overzeesch grondgebied van het Koninkrijk der Nederlanden tot hetwelk dit Verdrag zal zijn uitgebreid.
 
-#### Artikel 15
+##### Artikel 15
 
 (a). Zijne Majesteit zal te allen tijde zoolang dit Verdrag, hetzij volgens artikel 12, hetzij door eenige toetreding volgens het onderhavige artikel, van kracht is, tot het Verdrag ten behoeve van een Zijner zelfbesturende Dominions of van Indië kunnen toetreden, door middel eener kennisgeving langs diplomatieken weg, met dien verstande, dat geen kennisgeving van toetreding zal kunnen worden gedaan op een tijdstip, waarop Hare Majesteit de Koningin der Nederlanden het Verdrag mocht hebben opgezegd met betrekking tot alle gebied van Zijne Majesteit, waarop dit Verdrag alsdan van toepassing zal zijn. De bepalingen van artikel 13 (**b**) zijn op deze kennisgeving van toepassing. Iedere zoodanige toetreding zal van kracht worden na verloop van drie maanden na den datum van de te dien opzichte gedane kennisgeving.
 

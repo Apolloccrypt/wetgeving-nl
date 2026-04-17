@@ -1,13 +1,37 @@
 ---
 title: "Regeling verkeersbrigadiers"
 identifier: "BWBR0005219"
-categorie: "Verkeer"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005219"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005219"
+soort: "ministeriele-regeling"
+stam_id: "4942523"
+version_id: "7999782"
+internal_id: "C9923841"
+label_id: "4920404"
+dtd_version: "2.0"
+original_entry_into_force: "1991-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005219/2013-01-01/0"
+intitule_bron: "Stcrt.1991-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-01"
+intitule_published: "1991-10-17"
+intitule_in_force: "1991-10-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-202"
+original_signed_date: "1991-10-01"
+original_published_date: "1991-10-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-11-01"
+jci_1_3: "jci1.3:c:BWBR0005219&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0005219&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "1991-10-01"
+entry_into_force: "1991-11-01"
 ---
-
 # Regeling verkeersbrigadiers
 
 Gelet op [artikel 58 van het Besluit administratieve bepalingen inzake het wegverkeer (BABW)](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=58) (Stb. 1990, 460);
@@ -16,41 +40,41 @@ Besluit:
 
 #### Paragraaf 1. Opleiding
 
-#### Artikel 1
+##### Artikel 1
 
 De opleiding tot verkeersbrigadier vindt plaats onder verantwoordelijkheid van de korpschef.
 
-#### Artikel 2
+##### Artikel 2
 
 De opleiding bestaat uit een theoretisch en een praktisch gedeelte.
 
 #### Paragraaf 2. Aanstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanstelling tot verkeersbrigadier geschiedt door de burgemeester van de gemeente waar de betrokkene zijn taak zal uitoefenen.
 
 2. Voor zover het gaat om minderjarigen, die als leerling bij een school staan ingeschreven geschiedt de aanstelling na overleg met het hoofd van deze school.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanstelling geschiedt nadat het theoretische gedeelte van de opleiding is voltooid en voordat het praktische gedeelte van de opleiding een aanvang neemt.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanstelling geschiedt schriftelijk.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor aanstelling komen slechts in aanmerking personen die de leeftijd van 10 jaar hebben bereikt.
 
 2. Indien de aanstelling minderjarigen betreft, dienen zij een schriftelijke verklaring van ouders of voogden over te leggen houdende de toestemming tot het verrichten van de werkzaamheden van verkeersbrigadier.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De burgemeester verklaart de aanstelling vervallen:
 
@@ -68,7 +92,7 @@ Vervallen
 
 #### Paragraaf 3. Plaats van optreden
 
-#### Artikel 9
+##### Artikel 9
 
 Verkeersbrigadiers mogen voor de uitoefening van hun taak slechts worden ingezet:
 
@@ -80,13 +104,13 @@ Verkeersbrigadiers mogen voor de uitoefening van hun taak slechts worden ingezet
 
 #### Paragraaf 4. Tijdstippen van optreden
 
-#### Artikel 10
+##### Artikel 10
 
 Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse kinderen zich naar en van school begeven en overigens gedurende de perioden waarin hun hulp naar het oordeel van door de korpschef aangewezen politiefunctionarissen noodzakelijk is in het kader van het laten oversteken van voetgangers.
 
 #### Paragraaf 5. Uitrusting
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de uitoefening van hun taak dienen verkeersbrigadiers ten minste te zijn uitgerust met:
 
@@ -102,21 +126,21 @@ Verkeersbrigadiers oefenen hun taak uit gedurende de perioden waarin ter plaatse
 
 #### Paragraaf 6. Toezicht
 
-#### Artikel 12
+##### Artikel 12
 
 Op verkeersbrigadiers wordt geregeld toezicht gehouden onder verantwoordelijkheid van de korpschef.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling berust op [artikel 13, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=13).
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 november 1991.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling verkeersbrigadiers.
 

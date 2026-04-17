@@ -1,20 +1,43 @@
 ---
-title: "Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, houdende regels over commerciële vluchtuitvoeringen met verhoogd risico (Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico)"
 identifier: "BWBR0038460"
-categorie: "Milieu"
-publicatiedatum: 2016-09-02
-laatste_update: 2016-09-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038460"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-09-02"
+last_updated: "2016-09-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038460"
+soort: "beleidsregel"
+stam_id: "13740793"
+version_id: "23551622"
+internal_id: "C33908721"
+label_id: "13706984"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038460/2016-09-02/0"
+intitule_bron: "Stcrt.2016-46233"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-09-01"
+intitule_in_force: "2016-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-46233"
+original_published_date: "2016-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-46233"
+entry_into_force_date: "2016-09-02"
+jci_1_3: "jci1.3:c:BWBR0038460&z=2016-09-02&g=2016-09-02"
+jci_1_0: "1.0:c:BWBR0038460&g=2016-09-02"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico"
+entry_into_force: "2016-09-02"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, houdende regels over commerciële vluchtuitvoeringen met verhoogd risico (Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico)
 
 Gelet op de artikelen ARO.OPS.150 en ORO.SPO.110 van Verordening (EU) Nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,15 +49,15 @@ In deze beleidsregel wordt verstaan onder:
 
 - **verordening (EU) nr. 1178/2011:** verordening (EU) nr. 1178/2011 van de Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees Parlement en de Raad.
 
-#### Artikel 2
+##### Artikel 2
 
 Buiten de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038460&artikel=1&z=2016-09-02&g=2016-09-02) genoemde verordeningen en de daarin beschreven vluchtuitvoeringen met risico’s voor derden zijn er op dit moment in Nederland geen vluchtuitvoeringen met verhoogd risico gedefinieerd waarvoor een autorisatie moet worden aangevraagd op grond van artikel ORO.SPO.110 van verordening (EU) nr. 965/2012.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel commerciële vluchtuitvoeringen met verhoogd risico.
 

@@ -1,13 +1,35 @@
 ---
 title: "Statuut van de Voedsel- en Landbouworganisatie van de Verenigde Naties"
 identifier: "BWBV0003179"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-12-08
-laatste_update: 2003-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003179"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-12-08"
+last_updated: "2003-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003179"
+soort: "verdrag"
+stam_id: "10003387623"
+version_id: "10003426862"
+internal_id: "C10008429471"
+label_id: "10003373484"
+dtd_version: "2.0"
+original_entry_into_force: "1945-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003179/2003-12-08/0"
+intitule_bron: "Trb.1996-341"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1996-12-11"
+intitule_in_force: "1996-12-11"
+intitule_status: "goed"
+original_publication: "Trb.1996-341"
+original_published_date: "1996-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-341"
+entry_into_force_date: "1945-10-16"
+jci_1_3: "jci1.3:c:BWBV0003179&z=2003-12-08&g=2003-12-08"
+jci_1_0: "1.0:c:BWBV0003179&g=2003-12-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1945-10-16"
 ---
-
 # Statuut van de Voedsel- en Landbouworganisatie van de Verenigde Naties
 
 **Preambule**
@@ -28,7 +50,7 @@ De Engelse tekst van het Statuut is oorspronkelijk gepubliceerd in Stb. I 77. De
 
 Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktober 1945.
 
-#### Artikel 1. Taken van de Organisatie
+##### Artikel 1. Taken van de Organisatie
 
 1. De Organisatie verzamelt, analyseert, interpreteert en verspreidt informatie die betrekking heeft op voeding, voedsel en landbouw. In dit Statuut worden onder de uitdrukking „landbouw” en de afgeleiden daarvan mede verstaan visserij, mariene producten, bosbouw en primaire bosbouwproducten.
 
@@ -54,7 +76,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 - c. in het algemeen alle noodzakelijke en passende maatregelen te nemen voor het verwezenlijken van de doelstellingen van de Organisatie zoals vervat in de preambule.
 
-#### Artikel II. Lidmaatschap en geassocieerd lidmaatschap
+##### Artikel II. Lidmaatschap en geassocieerd lidmaatschap
 
 1. De oorspronkelijke Leden van de Organisatie zijn de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003179&bijlage=I&z=2003-12-08&g=2003-12-08) genoemde landen die dit Statuut aanvaarden, met inachtneming van de bepalingen van [artikel XXI](https://wetten.overheid.nl/jci1.3:c:BWBV0003179&artikel=XXI&z=2003-12-08&g=2003-12-08).
 
@@ -82,7 +104,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 13. Het lidmaatschap en geassocieerde lidmaatschap vangen aan op de datum waarop de Vergadering de aanvraag goedkeurt.
 
-#### Artikel III. De Vergadering
+##### Artikel III. De Vergadering
 
 1. Er is een Vergadering van de Organisatie waarin elk Lid en elk Geassocieerd Lid wordt vertegenwoordigd door één afgevaardigde. Geassocieerde Leden hebben het recht deel te nemen aan de beraadslagingen van de Vergadering, maar bekleden geen functies en hebben geen stemrecht.
 
@@ -104,7 +126,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 8. Tenzij in dit Statuut of in de door de Vergadering opgestelde regels uitdrukkelijk anders is bepaald, wordt over alle beslissingen van de Vergadering bij meerderheid van de uitgebrachte stemmen beslist.
 
-#### Artikel IV. Taken van de Vergadering
+##### Artikel IV. Taken van de Vergadering
 
 1. De Vergadering stelt het beleid vast en keurt de begroting van de Organisatie goed en oefent de andere bevoegdheden uit die aan haar zijn verleend bij dit Statuut.
 
@@ -116,7 +138,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 5. De Vergadering kan elke door de Raad of door een commissie of comité van de Vergadering of Raad of hulporganen daarvan genomen beslissing toetsen.
 
-#### Artikel V. De Raad van de Organisatie
+##### Artikel V. De Raad van de Organisatie
 
 1. De Raad van de Organisatie bestaande uit negenenveertig Leden wordt gekozen door de Vergadering. Elk Lid van de Raad heeft één vertegenwoordiger en ten hoogste één stem. Elk Lid van de Raad kan plaatsvervangende afgevaardigden, toegevoegde afgevaardigden en adviseurs voor zijn vertegenwoordiger aanwijzen. De Raad kan de voorwaarden vaststellen voor de deelname door plaatsvervangende afgevaardigden, toegevoegde afgevaardigden en adviseurs aan haar werkzaamheden, maar zij hebben daarbij geen stemrecht, met uitzondering van plaatsvervangende afgevaardigden, toegevoegde afgevaardigden of adviseurs die deelnemen in plaats van een afgevaardigde. Een vertegenwoordiger mag ten hoogste één Lid van de Raad vertegenwoordigen. De ambtstermijn en andere voorwaarden verbonden aan het ambt van Lid van de Raad zijn onderworpen aan door de Vergadering opgestelde regels.
 
@@ -130,7 +152,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 6. Bij de uitvoering van zijn taken wordt de Raad bijgestaan door een programmacommissie, een financiële commissie, een commissie voor constitutionele en juridische aangelegenheden, een commissie voor grondstoffenproblematiek, een commissie voor visserij, een commissie voor bosbouw, een commissie voor landbouw en een commissie voor de wereldwijde voedselzekerheid. Deze commissies rapporteren aan de Raad en op hun samenstelling en mandaat zijn de door de Vergadering aangenomen regels van toepassing.
 
-#### Artikel VI. Commissies, comités, conferenties, werkgroepen en consultaties
+##### Artikel VI. Commissies, comités, conferenties, werkgroepen en consultaties
 
 1. De Vergadering of de Raad kan commissies in het leven roepen waarvan het lidmaatschap openstaat voor alle Leden en Geassocieerde Leden, of regionale commissies die openstaan voor alle Leden en Geassocieerde Leden wier grondgebied geheel of gedeeltelijk gelegen is in één of meer regio’s, teneinde haar of hem te adviseren over het formuleren en implementeren van beleid en teneinde de implementatie van beleid te coördineren. De Vergadering of de Raad kan voorts, samen met andere intergouvernementele organisaties, gezamenlijke commissies in het leven roepen die openstaan voor alle Leden en Geassocieerde Leden van de Organisatie en van de andere betrokken organisaties, of gezamenlijke regionale commissies die openstaan voor Leden en Geassocieerde Leden van de Organisatie en van de overige betrokken organisaties wier grondgebied geheel of gedeeltelijk gelegen is in de regio.
 
@@ -146,7 +168,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 7. Geassocieerde Leden die deel uitmaken van de commissies, comités of werkgroepen of die de in het eerste, tweede en vijfde lid van dit artikel bedoelde conferenties, werkgroepen of consultaties bijwonen, hebben het recht deel te nemen aan de beraadslagingen van dergelijke commissies, comités, conferenties, werkgroepen en consultaties, maar bekleden geen functie en hebben geen stemrecht.
 
-#### Artikel VII. De Directeur-Generaal
+##### Artikel VII. De Directeur-Generaal
 
 1. De Organisatie heeft een Directeur-Generaal die door de Vergadering voor een termijn van zes jaar wordt benoemd. Hij kan voor een tijdvak van ten hoogste vier jaar opnieuw worden benoemd.
 
@@ -158,7 +180,7 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 5. De Directeur-Generaal of een door hem aangewezen vertegenwoordiger neemt zonder stemrecht deel aan alle bijeenkomsten van de Vergadering en van de Raad en formuleert, ter overweging door de Vergadering en de Raad, voorstellen voor passende maatregelen met betrekking tot aangelegenheden die hun worden voorgelegd.
 
-#### Artikel VIII. Staf
+##### Artikel VIII. Staf
 
 1. De staf van de Organisatie wordt benoemd door de Directeur-Generaal in overeenstemming met de procedures die worden vastgesteld volgens door de Vergadering opgestelde regels.
 
@@ -168,17 +190,17 @@ Het Statuut is oorspronkelijk door Trb. 1964/103 in werking getreden op 16 oktob
 
 4. Elk Lid en elk Geassocieerd Lid verplicht zich, voor zover zulks mogelijk is uit hoofde van zijn constitutionele procedures, de Directeur-Generaal en het hoger kader personeel de diplomatieke voorrechten en immuniteiten toe te kennen en de overige leden van de staf alle voorzieningen en immuniteiten toe te kennen die worden toegekend aan niet-diplomatiek personeel dat verbonden is aan diplomatieke vertegenwoordigingen, of in plaats daarvan aan de overige leden van de staf de immuniteiten en voorzieningen toe te kennen die op een later tijdstip worden toegekend aan vergelijkbare leden van de staf van andere publieke internationale organisaties.
 
-#### Artikel IX. Zetel
+##### Artikel IX. Zetel
 
 De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
-#### Artikel X. Regionale en contactbureaus
+##### Artikel X. Regionale en contactbureaus
 
 1. De Directeur-Generaal richt, met goedkeuring van de Vergadering, regionale en subregionale bureaus op.
 
 2. De Directeur-Generaal kan, met instemming van de desbetreffende regering, verbindingsambtenaren voor bepaalde landen of regio’s aanwijzen.
 
-#### Artikel XI. Rapporten van Leden en Geassocieerde Leden
+##### Artikel XI. Rapporten van Leden en Geassocieerde Leden
 
 1. Alle Leden en Geassocieerde Leden doen de Directeur-Generaal regelmatig de teksten van wet- en regelgeving toekomen die verband houdt met aangelegenheden binnen de bevoegdheden van de Organisatie die de Directeur-Generaal nuttig acht voor de doelstellingen van de Organisatie.
 
@@ -186,13 +208,13 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 3. Leden en Geassocieerde Leden kan verzocht worden op de tijdstippen en in de vorm die de Vergadering, de Raad of de Directeur-Generaal kan aangeven, andere gegevens, rapporten of documenten te verstrekken die verband houden met aangelegenheden die binnen de bevoegdheid van de Organisatie vallen, met inbegrip van rapporten ter zake van de maatregelen die zijn genomen op grond van resoluties of aanbevelingen van de Vergadering.
 
-#### Artikel XII. Betrekkingen met de Verenigde Naties
+##### Artikel XII. Betrekkingen met de Verenigde Naties
 
 1. De Organisatie onderhoudt als een gespecialiseerde organisatie in de zin van [artikel 57 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57) betrekkingen met de Verenigde Naties.
 
 2. Overeenkomsten waarin de betrekkingen tussen de Organisatie en de Verenigde Naties worden omschreven, dienen door de Vergadering te worden goedgekeurd.
 
-#### Artikel XIII. Samenwerking met organisaties en personen
+##### Artikel XIII. Samenwerking met organisaties en personen
 
 1. Ten behoeve van nauwe samenwerking tussen de Organisatie en andere internationale organisaties met verwante verantwoordelijkheden, kan de Vergadering overeenkomsten aangaan met de bevoegde autoriteiten van dergelijke organisaties waarin de verdeling van de verantwoordelijkheden en wijzen van samenwerking worden omschreven.
 
@@ -202,7 +224,7 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 4. De Vergadering stelt de regels vast voor de procedure die gevolgd moet worden teneinde voldoende overleg met regeringen over betrekkingen tussen de Organisatie en nationale instellingen of natuurlijke personen te waarborgen.
 
-#### Artikel XIV. Verdragen en overeenkomsten
+##### Artikel XIV. Verdragen en overeenkomsten
 
 1. De Vergadering kan, bij een tweederdemeerderheid van de uitgebrachte stemmen en overeenkomstig door de Vergadering aangenomen regels, verdragen en overeenkomsten inzake kwesties op het gebied van voedsel en landbouw goedkeuren en voorleggen aan de Leden.
 
@@ -228,7 +250,7 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 7. Twee afschriften in de oorspronkelijke taal of talen van elk verdrag, elke overeenkomst, elk aanvullend verdrag of elke aanvullende overeenkomst dat of die is goedgekeurd door de Vergadering of de Raad, worden gewaarmerkt door respectievelijk de voorzitter van de Vergadering of van de Raad en door de Directeur-Generaal. Eén van deze afschriften wordt nedergelegd in het archief van de Organisatie. Het andere afschrift wordt ter inschrijving toegezonden aan de Secretaris-Generaal van de Verenigde Naties, zodra het verdrag, de overeenkomst, het aanvullende verdrag of de aanvullende overeenkomst in werking is getreden ten gevolge van een uit hoofde van dit artikel genomen maatregel. De Directeur-Generaal waarmerkt voorts afschriften van die verdragen, overeenkomsten, aanvullende verdragen en aanvullende overeenkomsten en doet daarvan een afschrift toekomen aan elk Lid van de Organisatie en aan de staten die geen Lid zijn, of aan regionale organisaties voor economische integratie die partij kunnen worden bij die verdragen, overeenkomsten, aanvullende verdragen of aanvullende overeenkomsten.
 
-#### Artikel XV. Overeenkomsten tussen de Organisatie en Leden
+##### Artikel XV. Overeenkomsten tussen de Organisatie en Leden
 
 1. De Vergadering kan de Directeur-Generaal machtigen overeenkomsten aan te gaan met Leden tot oprichting van internationale instellingen die zich bezighouden met kwesties op het gebied van voedsel en landbouw.
 
@@ -236,7 +258,7 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 3. Alvorens de Directeur-Generaal dergelijke overeenkomsten ondertekent, dienen zij door de Vergadering te worden goedgekeurd met een tweederdemeerderheid van de uitgebrachte stemmen. In bepaalde gevallen kan de Vergadering de bevoegdheid tot goedkeuring delegeren aan de Raad, in welk geval de instemming vereist is van ten minste twee derde van de leden van de Raad.
 
-#### Artikel XVI. Rechtspositie
+##### Artikel XVI. Rechtspositie
 
 1. De Organisatie is een rechtspersoon en kan alle rechtshandelingen verrichten die in overeenstemming zijn met haar doelstellingen en die niet buiten de bevoegdheden vallen die haar krachtens dit Statuut verleend zijn.
 
@@ -244,7 +266,7 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 3. De Vergadering voorziet in een administratief scheidsgerecht voor de regeling van geschillen die verband houden met de arbeids- en aanstellingsvoorwaarden van leden van de staf.
 
-#### Artikel XVII. Interpretatie van het Statuut en regeling van juridische kwesties
+##### Artikel XVII. Interpretatie van het Statuut en regeling van juridische kwesties
 
 1. Elke kwestie of elk geschil omtrent de interpretatie van dit Statuut die of dat niet door de Vergadering kan worden geregeld, wordt voorgelegd aan het Internationale Hof van Justitie overeenkomstig het [statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), of aan een ander door de Vergadering te bepalen orgaan.
 
@@ -252,7 +274,7 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 3. Op de verwijzing van een kwestie of geschil krachtens dit artikel, of een verzoek om advies, zijn de door de Vergadering vast te stellen procedures van toepassing.
 
-#### Artikel XVIII. Begroting en bijdragen
+##### Artikel XVIII. Begroting en bijdragen
 
 1. De Directeur-Generaal dient tijdens elke gewone zitting van de Vergadering de begroting van de Organisatie ter goedkeuring in.
 
@@ -266,11 +288,11 @@ De zetel van de Organisatie wordt vastgesteld door de Vergadering.
 
 6. Een organisatie die Lid is, is niet verplicht aan de begroting bij te dragen zoals omschreven in het tweede lid van dit artikel, maar betaalt aan de Organisatie een door de Vergadering te bepalen bedrag ter dekking van de administratieve en overige kosten die voortvloeien uit haar lidmaatschap van de Organisatie. Een organisatie die Lid is, stemt niet over de begroting.
 
-#### Artikel XIX. Terugtrekking
+##### Artikel XIX. Terugtrekking
 
 Elk Lid kan, na het verstrijken van vier jaar na de datum van zijn aanvaarding van dit Statuut, te allen tijde kennisgeving doen van zijn terugtrekking uit de Organisatie. De kennisgeving van terugtrekking van een Geassocieerd Lid wordt gedaan door het Lid dat of door de autoriteit die verantwoordelijk is voor zijn internationale betrekkingen. Deze kennisgeving wordt van kracht een jaar na de datum van de toezending ervan aan de Directeur-Generaal. De financiële verplichtingen van de Organisatie van een Lid dat kennisgeving van terugtrekking heeft gedaan of van een Geassocieerd Lid namens welk kennisgeving van terugtrekking is gedaan, betreffen het volledige kalenderjaar waarin de kennisgeving van kracht wordt.
 
-#### Artikel XX. Wijziging van het Statuut
+##### Artikel XX. Wijziging van het Statuut
 
 1. De Vergadering kan dit Statuut wijzigen bij een tweederdemeerderheid van de uitgebrachte stemmen, mits deze meerderheid bestaat uit meer dan de helft van het aantal Leden van de Organisatie.
 
@@ -280,7 +302,7 @@ Elk Lid kan, na het verstrijken van vier jaar na de datum van zijn aanvaarding v
 
 4. Op de agenda van een zitting van de Vergadering wordt geen voorstel tot wijziging van het Statuut geplaatst, tenzij de Directeur-Generaal hiervan ten minste 120 dagen voor de opening van de zitting kennisgeving heeft gedaan aan de Leden en Geassocieerde Leden.
 
-#### Artikel XXI. Inwerkingtreding van het Statuut
+##### Artikel XXI. Inwerkingtreding van het Statuut
 
 1. Dit Statuut staat open voor aanvaarding door de landen genoemd in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003179&bijlage=I&z=2003-12-08&g=2003-12-08).
 
@@ -290,6 +312,6 @@ Elk Lid kan, na het verstrijken van vier jaar na de datum van zijn aanvaarding v
 
 4. Aanvaardingen waarvan de kennisgeving wordt ontvangen na de inwerkingtreding van dit Statuut, worden van kracht na de daadwerkelijke ontvangst ervan door de Tijdelijke Commissie of de Organisatie.
 
-#### Artikel XXII. Authentieke teksten van het Statuut
+##### Artikel XXII. Authentieke teksten van het Statuut
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van dit Statuut zijn gelijkelijk gezaghebbend.

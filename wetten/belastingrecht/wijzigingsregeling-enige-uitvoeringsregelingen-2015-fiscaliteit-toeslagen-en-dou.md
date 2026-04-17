@@ -1,120 +1,146 @@
 ---
-title: "Wijzigingsregeling enige uitvoeringsregelingen 2015 (fiscaliteit, toeslagen en douane en Wet op de accijns)"
+title: "Regeling van de Staatssecretaris van Financiën van 30 december 2015, nr. DB/2015/465M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit, toeslagen en douane alsmede van de Wet op de accijns"
 identifier: "BWBR0037468"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037468"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037468"
+soort: "ministeriele-regeling"
+stam_id: "13371723"
+version_id: "22927992"
+internal_id: "C33153751"
+label_id: "13339654"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037468/2020-07-01/0"
+intitule_bron: "Stcrt.2015-47716"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-30"
+intitule_published: "2015-12-30"
+intitule_in_force: "2015-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-47716"
+original_signed_date: "2015-12-30"
+original_published_date: "2015-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-47716"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037468&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0037468&g=2020-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige uitvoeringsregelingen 2015 (fiscaliteit, toeslagen en douane en Wet op de accijns)"
+signed_date: "2015-12-30"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 30 december 2015, nr. DB/2015/465M, tot wijziging van enige uitvoeringsregelingen inzake de fiscaliteit, toeslagen en douane alsmede van de Wet op de accijns
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel V
+##### Artikel V
 
 De [artikelen 7.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=7.9), [8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=8.1) en [9.4, tweede lid, van de Uitvoeringsregeling loonbelasting 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0028236&artikel=9.4) zijn van overeenkomstige toepassing op tegemoetkomingen als bedoeld in [artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0025003&artikel=11a) zoals dat luidde op 31 december 2015.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling functionele valuta.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting stedelijke herstructurering.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Regeling vrijstelling overdrachtsbelasting voor investeringen in stedelijke herstructurering.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Deze regeling treedt in werking met ingang van 1 januari 2016, met dien verstande dat:
 

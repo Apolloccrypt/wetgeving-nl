@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4"
+title: "Regeling van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097583, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in restruimte laag 4 (Regeling aanvraag- en veilingprocedure vergunningen digitale radio-omroep DAB+ laag 4)"
 identifier: "BWBR0039706"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-06-30
-laatste_update: 2017-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039706"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-30"
+last_updated: "2017-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039706"
+soort: "ministeriele-regeling"
+stam_id: "14031533"
+version_id: "24166952"
+internal_id: "C34727901"
+label_id: "13993114"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039706/2017-06-30/0"
+intitule_bron: "Stcrt.2017-35936"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-23"
+intitule_published: "2017-06-29"
+intitule_in_force: "2017-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-35936"
+original_signed_date: "2017-06-23"
+original_published_date: "2017-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-35936"
+entry_into_force_date: "2017-06-30"
+jci_1_3: "jci1.3:c:BWBR0039706&z=2017-06-30&g=2017-06-30"
+jci_1_0: "1.0:c:BWBR0039706&g=2017-06-30"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4"
+signed_date: "2017-06-23"
+entry_into_force: "2017-06-30"
 ---
-
 # Regeling van de Minister van Economische Zaken van 23 juni 2017, nr. WJZ/17097583, houdende vaststelling van regels met betrekking tot de aanvraag en veiling van vergunningen voor digitale radio-omroep DAB+ in restruimte laag 4 (Regeling aanvraag- en veilingprocedure vergunningen digitale radio-omroep DAB+ laag 4)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Beschikbare vergunningen
 
-#### Artikel 2
+##### Artikel 2
 
 Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel van een veiling te worden verdeeld:
 
@@ -62,7 +88,7 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel v
 
 #### § 3. Vergunningaanvraag en zekerheidsstelling
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die voor een vergunning voor digitale radio-omroep in aanmerking wil komen, dient daartoe een aanvraag in.
 
@@ -94,11 +120,11 @@ Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel v
 
 11. De aanvrager informeert de minister per aangetekende brief, die wordt geadresseerd op de in het tweede lid genoemde wijze, onverwijld over wijzigingen met betrekking tot de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&bijlage=I&z=2017-06-30&g=2017-06-30) bedoelde gegevens en bescheiden.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18), wijst de minister de aanvraag af indien niet is voldaan aan [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van het bod en teneinde te borgen dat de vergunning wordt verleend aan een financieel bestendige vergunninghouder een waarborgsom of een bankgarantie per vergunning voor digitale radio-omroep waar de aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), betrekking op heeft, ter grootte van de waarde, opgenomen in tabel 1, corresponderend met het aantal vergunningen voor digitale radio-omroep waar de aanvraag ingevolge artikel 3, vierde lid, betrekking op heeft.
 
@@ -124,7 +150,7 @@ Onverminderd het bepaalde in [artikel 3.18 van de wet](https://wetten.overheid.n
 
 - b. de bankgarantie, verstrekt volgens het model, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&bijlage=II&z=2017-06-30&g=2017-06-30), is ontvangen op het in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), genoemde adres.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 3, vierde lid tot en met achtste lid, en het tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=5&z=2017-06-30&g=2017-06-30), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -138,7 +164,7 @@ Verzuimherstel aangaande de waarborgsom geschiedt binnen dezelfde termijn, en me
 
 5. Indien het verzuim niet binnen de termijn, bedoeld in het tweede en het derde lid, en op de wijze, vermeld in het derde lid, is hersteld of indien na herstel niet wordt voldaan aan de in [artikel 3, vierde lid tot en met achtste lid, en het tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=5&z=2017-06-30&g=2017-06-30), gestelde eisen, kan de minister besluiten de aanvraag met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) niet te behandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te kunnen voldoen aan diens aan de vergunning voor digitale radio-omroep verbonden verplichtingen en de daaruit voortvloeiende investeringen:
 
@@ -146,11 +172,11 @@ Een aanvrager verstrekt ter onderbouwing van zijn financiële draagkracht om te 
 
 - b. een kopie van een bankafschrift van de rekening op naam van de aanvrager waaruit ten tijde van de aanvraag of in ten hoogste vier weken voorafgaande aan het indienen van de aanvraag een positief saldo blijkt van ten minste € 15.000,– per vergunning voor digitale radio-omroep waar zijn aanvraag ingevolge [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), betrekking op heeft.
 
-#### Artikel 8
+##### Artikel 8
 
 De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de Media, bedoeld in [artikel 3.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.1).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -164,7 +190,7 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 4. De minister wijst de aanvraag af, indien uit de aanvraag niet blijkt dat aan de eisen, bedoeld in het eerste en tweede lid is voldaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een aanvrager verklaart door middel van een door hem ondertekende verklaring, overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&bijlage=IV&z=2017-06-30&g=2017-06-30) bij deze regeling, dat hij zich voorafgaand aan de indiening van de aanvraag heeft onthouden van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure en zich na het indienen van de aanvraag zal onthouden van het maken van dergelijke afspraken of het verrichten van dergelijke gedragingen.
 
@@ -172,11 +198,11 @@ De aanvrager beschikt over de vereiste toestemming van het Commissariaat voor de
 
 #### § 4. Vaststelling eventuele schaarste
 
-#### Artikel 11
+##### Artikel 11
 
 In geval de minister ten aanzien van een bij een frequentieblok behorende allotment vaststelt dat, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, op grond van [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=3&artikel=3&z=2017-06-30&g=2017-06-30), meer voorkeuren voor dat allotment zijn aangegeven dan er in dat allotment aan vergunningen beschikbaar zijn, worden alle vergunningen voor digitale radio-omroep met toepassing van de in paragraaf 5 van deze regeling vermelde veilingprocedure verdeeld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien na toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=4&artikel=11&z=2017-06-30&g=2017-06-30) de noodzaak van veilen van een vergunning voor digitale radio-omroep is komen vast te staan, deelt de minister de aanvragers, uitgezonderd de aanvragers waarvan de aanvraag buiten behandeling is gesteld, de aanvraag is afgewezen, of waarvan de aanvraag op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, schriftelijk mee dat zij als deelnemer worden toegelaten tot de veiling.
 
@@ -188,7 +214,7 @@ In geval de minister ten aanzien van een bij een frequentieblok behorende allotm
 
 #### § 5. De veiling
 
-#### Artikel 13
+##### Artikel 13
 
 1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem, en geschiedt door middel van een simultane meerrondenveiling.
 
@@ -200,7 +226,7 @@ In geval de minister ten aanzien van een bij een frequentieblok behorende allotm
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 14
+##### Artikel 14
 
 De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veiling schriftelijk mee:
 
@@ -216,7 +242,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - f. het internetadres waarop de deelnemer inlogt teneinde aan de veiling deel te nemen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een deelnemer, inbegrepen diegene die een deelnemer ten behoeve van de veiling bijstaat, onthoudt zich van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan de mededinging in het kader van de veilingprocedure.
 
@@ -226,7 +252,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 4. Onverminderd het derde lid, kan de minister, indien een deelnemer naar het oordeel van de minister in strijd heeft gehandeld met het eerste lid, de uitkomst van een of meer biedronden ongeldig verklaren en besluiten dat een of meer biedronden opnieuw moeten worden gehouden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
@@ -234,7 +260,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 3. In afwijking van het tweede lid, kan de minister bij het vaststellen van de duur van een biedronde, bedoeld in het eerste lid, bepalen dat de biedronde niet eerder eindigt dan nadat de door hem vastgestelde duur van die biedronde is verstreken, ongeacht of alle deelnemers die op grond van hun beschikbare activiteitsniveau daartoe gerechtigd zijn eerder dan het verstrijken van de biedronde een bod hebben uitgebracht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een deelnemer een biedronde laat verstrijken zonder dat hij een bod uitbrengt op een of meerdere vergunningen, wordt die biedronde voor die deelnemer eenmalig van rechtswege verlengd met een termijn van 30 minuten.
 
@@ -246,7 +272,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 5. De minister deelt in het geval, bedoeld in het eerste lid, zo spoedig mogelijk aan alle deelnemers mee dat de biedronde ten behoeve van een of meer deelnemers is verlengd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De minister kan de veiling opschorten indien zich naar zijn oordeel bijzondere omstandigheden voordoen buiten de beïnvloedingssfeer van de minister of de deelnemers of indien technische problemen optreden waardoor de veiling tijdelijk geen doorgang kan vinden. Een bijzondere omstandigheid of technisch probleem wordt door een deelnemer onverwijld maar uiterlijk binnen 10 minuten na afloop van een biedronde of verlengde biedronde per telefoon gemeld aan de minister.
 
@@ -258,7 +284,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 - b. die biedronde ongeldig wordt verklaard en opnieuw moet worden gehouden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke vergunning voor digitale radio-omroep komt overeen met 1 activiteitspunt.
 
@@ -282,7 +308,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 5. Het vierde lid, onderdeel b, is niet van toepassing in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 23, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=5&artikel=23&z=2017-06-30&g=2017-06-30).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een bieding wordt uitgebracht in eenheden van honderd euro en bedraagt minimaal de voor die biedronde vastgestelde rondeprijs.
 
@@ -294,13 +320,13 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 5. Het eerste lid is niet van toepassing op een bieding in de laatste biedronde die door de minister is aangekondigd, bedoeld in [artikel 23, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=5&artikel=23&z=2017-06-30&g=2017-06-30).
 
-#### Artikel 21
+##### Artikel 21
 
 1. Na elke biedronde stelt de minister per vergunning voor digitale radio-omroep het hoogst geboden bedrag voor die vergunning vast als hoogste bod.
 
 2. Indien in een biedronde twee of meer deelnemers hetzelfde hoogste bedrag voor eenzelfde vergunning voor digitale radio-omroep hebben geboden, wordt door middel van loting met gebruikmaking van de veilingsoftware vastgesteld wie van hen wordt aangemerkt als de deelnemer die het hoogste bod in die ronde op die vergunning voor digitale radio-omroep heeft uitgebracht.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De minister deelt elke deelnemer zo spoedig mogelijk na het einde van een biedronde mee:
 
@@ -330,7 +356,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 3. In afwijking van het eerste en tweede lid, wordt geen informatie over een volgende biedronde gegeven indien de biedronden op grond van [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=5&artikel=23&z=2017-06-30&g=2017-06-30), definitief eindigen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De laatste biedronde is:
 
@@ -346,7 +372,7 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 #### § 6. Vergunningverlening na veiling
 
-#### Artikel 24
+##### Artikel 24
 
 1. Na beëindiging van de veiling, verleent de minister telkens de betreffende vergunning voor digitale radio-omroep aan de deelnemer die ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0039706&paragraaf=5&artikel=23&z=2017-06-30&g=2017-06-30) het winnende bod voor die vergunning voor digitale radio-omroep heeft uitgebracht. De minister deelt alle deelnemers mee aan welke deelnemers de vergunningen voor digitale radio-omroep worden verleend.
 
@@ -382,11 +408,11 @@ De minister deelt een deelnemer uiterlijk twee weken voor de aanvang van de veil
 
 #### § 7. Slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen voor digitale radio-omroep DAB+ laag 4.
 

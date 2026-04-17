@@ -1,24 +1,50 @@
 ---
-title: "Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade"
+title: "Regeling van de Staatssecretaris van Financiën van 11 juni 2021 houdende instelling van een tijdelijke commissie voor beoordeling van verzoeken om aanvullende schadevergoeding voor werkelijke schade (Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade)"
 identifier: "BWBR0045235"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045235"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045235"
+soort: "ministeriele-regeling"
+stam_id: "15982763"
+version_id: "29659862"
+internal_id: "C42447151"
+label_id: "15916634"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045235/2025-01-01/0"
+intitule_bron: "Stcrt.2021-29438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-11"
+intitule_published: "2021-06-16"
+intitule_in_force: "2021-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27308"
+original_signed_date: "2023-10-04"
+original_published_date: "2023-10-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-27308"
+entry_into_force_date: "2023-10-04"
+jci_1_3: "jci1.3:c:BWBR0045235&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0045235&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade"
+signed_date: "2023-10-04"
+entry_into_force: "2023-10-04"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 11 juni 2021 houdende instelling van een tijdelijke commissie voor beoordeling van verzoeken om aanvullende schadevergoeding voor werkelijke schade (Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade)
 
 Gelet op [artikel 49e van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=49e);
 
 Besluit:
 
-#### Artikel 1. Grondslag
+##### Artikel 1. Grondslag
 
 Deze regeling berust op [artikel 5.2 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=5.2).
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436).
 
-#### Artikel 3. Instelling en taak
+##### Artikel 3. Instelling en taak
 
 1. Er is een Commissie aanvullende schadevergoeding werkelijke schade.
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 4. De commissie is bevoegd gedurende het onderzoek aanvullende vragen te formuleren en deze te onderzoeken en beantwoorden, indien zij dat dienstig acht aan haar opdracht.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en wordt opgeheven bij het intrekken of vervallen van deze regeling.
 
-#### Artikel 5. Samenstelling, benoeming en ontslag
+##### Artikel 5. Samenstelling, benoeming en ontslag
 
 1. De commissie bestaat uit ten minste een voorzitter en twee andere leden.
 
@@ -76,7 +102,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 8. Het door een lid niet voldoen aan het tweede of het zevende lid vormt een zwaarwegende grond als bedoeld in het vijfde lid.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De minister voorziet in het secretariaat van de commissie.
 
@@ -86,7 +112,7 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 4. Indien personen, in dienst van het ministerie, tot secretaris of medewerker van het secretariaat worden benoemd, zijn zij tegenover anderen dan de commissie verplicht tot geheimhouding van hetgeen hen in het verband van de werkzaamheden van de commissie bekend is geworden.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast, met inachtneming van de bepalingen van deze regeling.
 
@@ -104,29 +130,29 @@ De commissie wordt met terugwerkende kracht ingesteld tot en met 7 juli 2020 en 
 
 8. Indien de stemmen staken, wordt de besluitvorming aangehouden tot de volgende vergadering, tenzij de advisering niet uitgesteld kan worden of de vergadering voltallig is. In deze gevallen beslist de stem van de voorzitter.
 
-#### Artikel 8. Verantwoording en evaluatieverslag
+##### Artikel 8. Verantwoording en evaluatieverslag
 
 1. De commissie legt over het vervullen van haar taken verantwoording af aan de minister. De commissie verstrekt daartoe gevraagd en ongevraagd informatie aan de door de minister aangewezen ambtenaren.
 
 2. De commissie brengt jaarlijks voor 1 april een evaluatieverslag uit aan de minister omtrent haar werkzaamheden en taakvervulling in het voorafgaande kalenderjaar.
 
-#### Artikel 9. Archiefbescheiden
+##### Artikel 9. Archiefbescheiden
 
 1. De commissie draagt na haar opheffing de bescheiden betreffende haar werkzaamheden over aan het archief van het ministerie.
 
 2. De commissie kan de bescheiden, bedoeld in het eerste lid, eerder aan het archief van het ministerie overdragen, als omstandigheden daartoe aanleiding geven.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 7 juli 2020.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling Commissie aanvullende schadevergoeding werkelijke schade.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Uitwisseling van gegevens
+##### Artikel 3a. Uitwisseling van gegevens
 
 1. De Dienst Toeslagen stelt per verzoek het dossier en de relevante informatie ter beschikking aan de commissie die nodig is voor een goede vervulling van de taken van de commissie, bedoeld in [artikel 3, tweede lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0045235&artikel=3&z=2025-01-01&g=2025-01-01).
 
@@ -136,7 +162,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. Een commissielid of een medewerker van het secretariaat kan zich voor het inwinnen van inlichtingen en overleg wenden tot daartoe door de minister aangewezen ambtenaren.
 
-#### Artikel 5a. De voorzitter
+##### Artikel 5a. De voorzitter
 
 1. De voorzitter is eindverantwoordelijk voor:
 

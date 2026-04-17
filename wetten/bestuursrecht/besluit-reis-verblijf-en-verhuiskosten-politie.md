@@ -1,13 +1,39 @@
 ---
-title: "Besluit reis-, verblijf-, en verhuiskosten politie"
+title: "Besluit van 24 juni 2008 tot vaststelling van regels ten aanzien van tegemoetkomingen en vergoedingen voor reis-, verblijf- en verhuiskosten van de politie (Besluit reis-, verblijf-, en verhuiskosten politie)"
 identifier: "BWBR0024064"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-23
-laatste_update: 2025-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024064"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-09-23"
+last_updated: "2025-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024064"
+soort: "AMvB"
+stam_id: "9557583"
+version_id: "15455212"
+internal_id: "C21092931"
+label_id: "9535124"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024064/2025-09-23/0"
+intitule_bron: "Stb.2008-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-24"
+intitule_published: "2008-06-27"
+intitule_in_force: "2008-06-27"
+intitule_status: "goed"
+original_publication: "Stb.2008-234"
+original_signed_date: "2008-06-24"
+original_published_date: "2008-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-234"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBR0024064&z=2025-09-23&g=2025-09-23"
+jci_1_0: "1.0:c:BWBR0024064&g=2025-09-23"
+citeertitel_status: "officieel"
+short_title: "Besluit reis-, verblijf-, en verhuiskosten politie"
+signed_date: "2008-06-24"
+entry_into_force: "2008-07-01"
 ---
-
 # Besluit van 24 juni 2008 tot vaststelling van regels ten aanzien van tegemoetkomingen en vergoedingen voor reis-, verblijf- en verhuiskosten van de politie (Besluit reis-, verblijf-, en verhuiskosten politie)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 30 mei 2008, nummer 2008-0000229974, directoraat-generaal Veiligheid, directie Politie, afdeling Arbeidsvoorwaardenbeleid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - **plaats van tewerkstelling:** de plaats van tewerkstelling, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-#### Artikel 2. Samenloop
+##### Artikel 2. Samenloop
 
 Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of voorziening voor de in dit besluit bedoelde uitgaven, wordt de tegemoetkoming, vergoeding of voorziening, bedoeld in dit besluit, slechts toegekend tot het bedrag, waarmee deze de eerstbedoelde aanspraak overschrijdt.
 
@@ -46,7 +72,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 #### § 1. Algemeen
 
-#### Artikel 3. Aanspraak
+##### Artikel 3. Aanspraak
 
 1. De ambtenaar heeft aanspraak op een tegemoetkoming in de kosten voor het dagelijks reizen tussen:
 
@@ -70,7 +96,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 #### § 2. Reizen met openbaar vervoer
 
-#### Artikel 4. Openbaar vervoer
+##### Artikel 4. Openbaar vervoer
 
 1. Voor reizen, als bedoeld in [artikel 3, tweede lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=1&artikel=3&z=2025-09-23&g=2025-09-23), verstrekt het bevoegd gezag een vervoersbewijs op basis van het tarief van de tweede klasse.
 
@@ -84,7 +110,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 4. In het geval de ambtenaar niet beschikt over het vervoersbewijs, bedoeld in het eerste lid, kan het bevoegd gezag de ambtenaar de door hem op grond van het eerste en derde lid gemaakte kosten vergoeden.
 
-#### Artikel 5. Berekening en procedures bij reizen met openbaar vervoer
+##### Artikel 5. Berekening en procedures bij reizen met openbaar vervoer
 
 1. De ambtenaar, aan wie een tegemoetkoming of een vervoersbewijs is verstrekt als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-09-23&g=2025-09-23) dient zijn vervoersbewijzen direct na afloop van de geldigheid in te leveren bij het bevoegd gezag.
 
@@ -102,7 +128,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 #### § 3. Reizen met eigen vervoer al of niet in combinatie met openbaar vervoer
 
-#### Artikel 6. Eigen vervoer al of niet in combinatie met openbaar vervoer
+##### Artikel 6. Eigen vervoer al of niet in combinatie met openbaar vervoer
 
 1. Voor reizen waarbij gebruik wordt gemaakt van eigen vervoer, wordt voor woon-werkverkeer een tegemoetkoming van € 0,23 per afgelegde kilometer verstrekt. Voor iedere combinatie van reizen met openbaar vervoer en reizen met eigen vervoer, wordt voor de afzonderlijke delen een vergoeding toegekend, gelijk aan de voor eigen vervoer en openbaar vervoer vastgestelde vergoedingen.
 
@@ -116,7 +142,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 6. Bij ministeriële regeling kan in geval van een reorganisatie als bedoeld in [hoofdstuk VII.b van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&hoofdstuk=VII.b), van de beperking van het maximum aantal kilometers enkele reis, zoals bedoeld in het tweede lid, worden afgeweken ter voorkoming van negatieve financiële gevolgen voor de ambtenaar.
 
-#### Artikel 7. Berekening en procedure eigen vervoer al of niet in combinatie met openbaar vervoer
+##### Artikel 7. Berekening en procedure eigen vervoer al of niet in combinatie met openbaar vervoer
 
 1. De tegemoetkoming, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=3&artikel=6&z=2025-09-23&g=2025-09-23), wordt toegekend op declaratiebasis, tenzij het bevoegd gezag bepaalt dat de tegemoetkoming als vaste tegemoetkoming per maand wordt toegekend.
 
@@ -144,7 +170,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 #### § 1. Dienstreizen binnenland
 
-#### Artikel 8. Dienstreis
+##### Artikel 8. Dienstreis
 
 1. Onder dienstreis wordt in deze paragraaf verstaan: het door de ambtenaar, in het kader van zijn werkzaamheden, reizen en verblijven binnen Nederland en buiten de plaats van tewerkstelling, tenzij de ambtenaar kiest om zijn werkzaamheden te verrichten op een andere locatie dan de plaats van tewerkstelling.
 
@@ -152,13 +178,13 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 3. Dienstreizen die binnen Nederland zijn begonnen, waarbij het reisgedeelte buiten Nederland gering is, of waarbij de grensoverschrijding niet leidt tot uitgaven voor maaltijden of overnachting in het buitenland worden eveneens aangemerkt als dienstreis.
 
-#### Artikel 9. Begin- en eindpunt van de dienstreis
+##### Artikel 9. Begin- en eindpunt van de dienstreis
 
 1. Voor de tegemoetkoming in reis- en verblijfkosten wordt uitgegaan van de plaats van tewerkstelling als begin- en eindpunt van een dienstreis.
 
 2. Het bevoegd gezag kan van het gestelde in het eerste lid afwijken door de woning van de ambtenaar als begin- en/of eindpunt van de dienstreis aan te wijzen.
 
-#### Artikel 10. Dienstreis met beschikbaar gesteld vervoer
+##### Artikel 10. Dienstreis met beschikbaar gesteld vervoer
 
 1. Wordt de dienstreis gemaakt met een door de dienst beschikbaar gesteld vervoermiddel, dan heeft de ambtenaar geen aanspraak op een tegemoetkoming in de reiskosten.
 
@@ -168,7 +194,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 4. Indien de ambtenaar gebruik maakt van een dienstvoertuig of een door de dienst gehuurd vervoermiddel en er tijdens de dienstreis parkeer-, brug-, tol-, of veerkosten worden gemaakt, worden de gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
 
-#### Artikel 11. Dienstreis met openbaar vervoer
+##### Artikel 11. Dienstreis met openbaar vervoer
 
 1. Indien er geen door de dienst beschikbaar gesteld vervoermiddel voorhanden is, wordt de dienstreis met openbaar vervoer gemaakt met gebruikmaking van het vervoersbewijs, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=II&paragraaf=2&artikel=4&z=2025-09-23&g=2025-09-23). De ambtenaar kan gebruikmaken van de eerste vervoersklasse.
 
@@ -188,13 +214,13 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 5. In het geval de ambtenaar niet beschikt over het vervoersbewijs, bedoeld in het eerste lid, kan het bevoegd gezag de ambtenaar de door hem op grond van het eerste en vierde lid gemaakte kosten vergoeden.
 
-#### Artikel 12. Dienstreis met eigen vervoer
+##### Artikel 12. Dienstreis met eigen vervoer
 
 1. Indien door het bevoegd gezag aan de ambtenaar is verzocht voor het maken van de dienstreis gebruik te maken van een eigen vervoermiddel en de ambtenaar heeft hiermee ingestemd, ontvangt de ambtenaar per afgelegde kilometer een vergoeding van € 0,23 voor het gebruik van een eigen motorvoertuig dan wel eigen fiets of bromfiets.
 
 2. Indien de ambtenaar overeenkomstig het eerste lid gebruik maakt van een eigen motorvoertuig en er tijdens de dienstreis parkeer-, brug-, tol-, of veerkosten worden gemaakt, worden de gemaakte kosten volledig vergoed op basis van overgelegde bewijsstukken.
 
-#### Artikel 13. Verblijfkosten
+##### Artikel 13. Verblijfkosten
 
 1. Aan de ambtenaar wordt bij een dienstreis langer dan vier uren een vergoeding toegekend voor tijdens die dienstreis gemaakte verblijfkosten.
 
@@ -216,7 +242,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 5. Bij een meerdaagse dienstreis kan de avondcomponent niet langer dan voor de eerste tien avonden volledig worden toegekend. Voor iedere etmaal dat de dienstreis langer duurt wordt het bedrag van de avondcomponent gehalveerd.
 
-#### Artikel 14. Tewerkstelling elders (detachering)
+##### Artikel 14. Tewerkstelling elders (detachering)
 
 1. Indien een ambtenaar overeenkomstig [artikel 62 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=62) wordt gedetacheerd en op een andere plaats van tewerkstelling werkzaam is, en indien dagelijks heen en weer reizen tussen de woning en de plaats van tijdelijke tewerkstelling naar het oordeel van het bevoegd gezag niet mogelijk is, heeft de ambtenaar aanspraak op vergoeding van kosten voor logies, welke gelijk is aan het bedrag van de werkelijke gemaakte kosten met een maximum van € 146,45 per dag, op basis van overgelegde bewijsstukken.
 
@@ -226,7 +252,7 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 4. Indien de ambtenaar een vervoersbewijs wenst op basis van eerste klasse of indien de ambtenaar een vervoersbewijs wenst welke ruimere mogelijkheden biedt dan bedoeld in het derde lid, komen de meerkosten hiervan voor rekening van de ambtenaar.
 
-#### Artikel 15. Declaraties
+##### Artikel 15. Declaraties
 
 1. De ambtenaar declareert de reis- en verblijfkosten op de voorgeschreven wijze onder overlegging van de vereiste bewijsstukken.
 
@@ -236,11 +262,11 @@ Indien uit anderen hoofde aanspraak bestaat op een tegemoetkoming, vergoeding of
 
 #### § 2. Dienstreizen buitenland
 
-#### Artikel 16. Dienstreis
+##### Artikel 16. Dienstreis
 
 Onder dienstreis wordt in deze paragraaf verstaan: een reis naar, in of uit het buitenland wanneer daartoe door het bevoegd gezag een opdracht is gegeven. In bijzondere gevallen kan een dergelijke opdracht ook achteraf worden gegeven.
 
-#### Artikel 17. Vervoermiddelen
+##### Artikel 17. Vervoermiddelen
 
 1. De ambtenaar maakt bij een dienstreis gebruik van één of meer van de volgende vervoermiddelen:
 
@@ -252,7 +278,7 @@ Onder dienstreis wordt in deze paragraaf verstaan: een reis naar, in of uit het 
 
 2. Het bevoegd gezag kan bij geven van een opdracht voor een dienstreis bepalen welke vervoersmiddelen daarvoor mogen worden gebruikt, behoudens het bepaalde in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=16a&z=2025-09-23&g=2025-09-23).
 
-#### Artikel 18. Vliegtuig, boot of openbaar vervoer
+##### Artikel 18. Vliegtuig, boot of openbaar vervoer
 
 1. Bij gebruik van vliegtuig, boot en openbaar vervoer worden de reiskosten die in verband met de dienstreis noodzakelijkerwijs zijn gemaakt op basis van de overgelegde bewijsstukken vergoed.
 
@@ -288,15 +314,15 @@ Onder dienstreis wordt in deze paragraaf verstaan: een reis naar, in of uit het 
 
 6. In afwijking van het derde lid, onder b, en het vijfde lid, kan het bevoegd gezag met redenen omkleed toestemming verlenen om te reizen in de naast hogere vervoersklasse dan wel in business class.
 
-#### Artikel 19. Het door het bevoegd gezag ter beschikking gestelde vervoermiddel
+##### Artikel 19. Het door het bevoegd gezag ter beschikking gestelde vervoermiddel
 
 Indien het bevoegd gezag aan de ambtenaar een vervoermiddel ter beschikking stelt, maakt de ambtenaar van het desbetreffende vervoermiddel gebruik, tenzij dit redelijkerwijs niet van hem kan worden gevergd. De werkelijk gemaakte kosten bij het gebruik van een ter beschikking gesteld vervoermiddel worden aan de ambtenaar vergoed op basis van overgelegde bewijsstukken.
 
-#### Artikel 20. Openbaar vervoer, gehuurd vervoermiddel of taxi
+##### Artikel 20. Openbaar vervoer, gehuurd vervoermiddel of taxi
 
 Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt van openbaar vervoer, een gehuurd vervoermiddel of een taxi, worden de hieraan verbonden kosten aan de ambtenaar vergoed op basis van overgelegde bewijsstukken.
 
-#### Artikel 21. Bezoekreis
+##### Artikel 21. Bezoekreis
 
 1. Aan de ambtenaar kan bij een dienstreis van minimaal drie maanden toestemming worden verleend om met gebruik van openbaar vervoer, vliegtuig, boot of eigen vervoer, voor één of meer bezoeken van korte duur naar zijn woonplaats terug te keren.
 
@@ -308,7 +334,7 @@ Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt 
 
 3. [Artikel 18, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=18&z=2025-09-23&g=2025-09-23), is van overeenkomstige toepassing.
 
-#### Artikel 22. Verblijfkosten
+##### Artikel 22. Verblijfkosten
 
 1. De ambtenaar ontvangt een tegemoetkoming in de in verband met een dienstreis door hem gemaakte verblijfkosten voor maaltijd, logies en kleine uitgaven.
 
@@ -328,7 +354,7 @@ Indien het noodzakelijk is dat de ambtenaar tijdens de dienstreis gebruik maakt 
 
 4. Indien een bewijsstuk van kosten voor logies en ontbijt wordt overgelegd waaruit niet blijkt welk deel van de kosten voor logies en welk deel van de kosten voor ontbijt zijn gemaakt, worden de op het bewijsstuk vermelde kosten vergoed, voor zover deze niet meer bedragen dan de som van de tegemoetkomingen, genoemd in het derde lid, onderdelen b en c.
 
-#### Artikel 23. Nadere voorwaarden voor verblijfkosten
+##### Artikel 23. Nadere voorwaarden voor verblijfkosten
 
 De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
@@ -336,7 +362,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 - b. voor de periode dat een ambtenaar voor een bezoekreis als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=2&artikel=21&z=2025-09-23&g=2025-09-23) in zijn woonplaats verblijft.
 
-#### Artikel 24. Vergoeding van overige reiskosten
+##### Artikel 24. Vergoeding van overige reiskosten
 
 1. Indien door een medisch deskundige aan de ambtenaar vaccinatie of geneesmiddelen zijn voorgeschreven in verband met de dienstreis, worden de kosten daarvan aan de ambtenaar vergoed.
 
@@ -352,13 +378,13 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 7. Indien klimatologische of andere bijzondere omstandigheden in een tijdens een dienstreis te bezoeken land daartoe aanleiding geven, kan aan de ambtenaar een vergoeding worden toegekend in de aangetoonde en noodzakelijk gemaakte kosten voor bijzondere kleding en uitrusting. De vergoeding bedraagt de helft van de noodzakelijk gemaakte kosten van aanschaf van bijzondere kleding en uitrusting. Per kalenderjaar bedraagt de vergoeding maximaal € 453,78, waarvan € 226,89 voor gebieden met tropische warmte en € 226,89 voor gebieden met polaire koude, waartoe in ieder geval de gebieden, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&bijlage=II&z=2025-09-23&g=2025-09-23) bij dit besluit, worden gerekend.
 
-#### Artikel 25. Declaraties
+##### Artikel 25. Declaraties
 
 [Artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=15&z=2025-09-23&g=2025-09-23) is van overeenkomstige toepassing.
 
 ### Hoofdstuk IV. Verhuizen
 
-#### Artikel 26. Algemene bepaling
+##### Artikel 26. Algemene bepaling
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -372,7 +398,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 2. Voor de toepassing van dit hoofdstuk wordt onder de echtgenote of echtgenoot mede verstaan: de geregistreerde partner of de levenspartner met wie de niet-gehuwde ambtenaar samenwoont – en met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voert op basis van een notarieel verleden samenlevingscontract bevattende de wederzijdse rechten en verplichtingen ter zake van die samenwoning en gemeenschappelijke huishouding.
 
-#### Artikel 27. Tegemoetkoming in verhuiskosten en pensionkosten mét verhuisplicht
+##### Artikel 27. Tegemoetkoming in verhuiskosten en pensionkosten mét verhuisplicht
 
 1. De ambtenaar die in verband met een verplaatsing of aanstelling in opdracht van het bevoegde gezag is verhuisd en een woning in of nabij een reisafstand van 20 kilometer van zijn plaats van tewerkstelling heeft betrokken, wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23).
 
@@ -382,7 +408,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 4. Geen tegemoetkoming in verhuiskosten wordt verleend, indien de verhuizing niet heeft plaatsgevonden binnen twee jaren nadat de verplichting tot verhuizen is opgelegd dan wel na de datum van het ontslag, het overlijden of de verplaatsing.
 
-#### Artikel 28. Tegemoetkoming in (verhuis)kosten zonder verhuisplicht
+##### Artikel 28. Tegemoetkoming in (verhuis)kosten zonder verhuisplicht
 
 1. De ambtenaar die zich met een verhuizing, zonder dat daartoe opdracht is gegeven door het bevoegd gezag, heeft gevestigd binnen een reisafstand van 20 kilometer van zijn plaats van tewerkstelling wordt een tegemoetkoming in de verhuiskosten verleend overeenkomstig de [artikelen 29 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23), indien de reisafstand tussen de oude woning en de plaats van tewerkstelling ten minste 50 kilometer bedraagt.
 
@@ -404,7 +430,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 4. De tegemoetkoming op grond van dit artikel wordt slechts toegekend, indien de ambtenaar schriftelijk heeft verklaard dat een verplichting tot terugbetalen hem bekend is.
 
-#### Artikel 29. Tegemoetkoming bij verhuizing binnen Nederland
+##### Artikel 29. Tegemoetkoming bij verhuizing binnen Nederland
 
 1. De tegemoetkoming in verhuiskosten, voor een verhuizing binnen Nederland, bestaat uit een bedrag voor:
 
@@ -428,7 +454,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 5. Indien aan de ambtenaar door het bevoegd gezag is medegedeeld dat de verplaatsing maximaal twee jaren zal duren, bestaat slechts aanspraak op vergoeding van transportkosten van de bagage. Voorts kan het bevoegd gezag, indien bijzondere omstandigheden daartoe aanleiding geven, een tegemoetkoming als bedoeld in eerste lid, onderdeel d, toekennen van 3% van de berekeningsbasis als bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=30&z=2025-09-23&g=2025-09-23).
 
-#### Artikel 30. Berekeningsbasis en berekeningstijdstip
+##### Artikel 30. Berekeningsbasis en berekeningstijdstip
 
 1. De berekeningsbasis voor de tegemoetkoming in de verhuiskosten, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&artikel=29&z=2025-09-23&g=2025-09-23), is het twaalfvoud van de bezoldiging in de zin van het [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517) die de ambtenaar geniet op het berekeningstijdstip, vermeerderd met de aanspraak op de vakantie-uitkering, bedoeld in [artikel 23 van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=23), en de eindejaarsuitkering, bedoeld in [artikel 25b van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=25b). Indien er sprake is van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof geldt de bezoldiging zoals die zou zijn genoten indien er geen sprake was geweest van gehele of gedeeltelijke werkloosheid of arbeidsongeschiktheid, dan wel prepensionering of levensloopverlof.
 
@@ -440,7 +466,7 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 5. De tegemoetkoming in de verhuiskosten op grond van dit besluit, wordt voor de ambtenaar die voor het eerst is aangesteld, verminderd met 50%.
 
-#### Artikel 31. Procedure
+##### Artikel 31. Procedure
 
 1. De aanvraag voor tegemoetkoming in de verhuiskosten dient vóór de datum van verhuizing bij het bevoegd gezag te zijn ingediend.
 
@@ -458,23 +484,23 @@ De ambtenaar ontvangt geen tegemoetkoming in verblijfkosten:
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 32. Wijziging [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
+##### Artikel 32. Wijziging [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
 
 Wijzigt het Besluit bezoldiging politie.
 
-#### Artikel 33. Wijziging [Besluit Bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022)
+##### Artikel 33. Wijziging [Besluit Bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022)
 
 Wijzigt het Besluit bovenwettelijke werkloosheidsuitkering politie.
 
-#### Artikel 34. Wijziging [Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321)
+##### Artikel 34. Wijziging [Besluit rechtspositie vrijwillige politie](https://wetten.overheid.nl/jci1.3:c:BWBR0007321)
 
 Wijzigt het Besluit rechtspositie vrijwillige politie.
 
-#### Artikel 35. Mogelijkheid tot het vaststellen van nadere regels
+##### Artikel 35. Mogelijkheid tot het vaststellen van nadere regels
 
 Onze Minister kan in afwijking van dit besluit nadere regels vaststellen ten aanzien van een door hem aan te wijzen groep van ambtenaren, indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van deze regels zouden voortkomen.
 
-#### Artikel 36. Routeplanner
+##### Artikel 36. Routeplanner
 
 1. Voor het vaststellen van alle reisafstanden in dit besluit, wordt gebruik gemaakt van een door Onze Minister aangewezen routeplanner.
 
@@ -492,23 +518,23 @@ Onze Minister kan in afwijking van dit besluit nadere regels vaststellen ten aan
 
 - f. indien bij het verschijnen van een nieuwe versie van de routeplanner, de route een gewijzigde reisafstand geeft, is die reisafstand bepalend voor de aanspraak.
 
-#### Artikel 37. Constatering van onbillijkheden
+##### Artikel 37. Constatering van onbillijkheden
 
 Het bevoegd gezag kan besluiten om in individuele gevallen af te wijken van het gestelde in dit besluit, indien de afwijking strekt tot het vermijden van onbillijkheden van overwegende aard welke uit de toepassing van deze regels zouden voortkomen.
 
-#### Artikel 38
+##### Artikel 38
 
 De bedragen, genoemd in de [artikelen 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=13&z=2025-09-23&g=2025-09-23), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14&z=2025-09-23&g=2025-09-23), en [14a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=III&paragraaf=1&artikel=14a&z=2025-09-23&g=2025-09-23), worden per 1 januari van elk kalenderjaar bij ministeriële regeling gewijzigd, overeenkomstig de geschoonde consumentenprijsindex voor restaurants en accommodaties, vastgesteld door het Centraal bureau voor de statistiek.
 
-#### Artikel 39
+##### Artikel 39
 
 Het [Besluit vergoeding verplaatsingskosten politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006520) en het [Besluit vergoeding dienstreizen politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006519) worden ingetrokken.
 
-#### Artikel 40. Inwerkingtreding
+##### Artikel 40. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 juli 2008.
 
-#### Artikel 41. Citeertitel
+##### Artikel 41. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit reis-, verblijf-, en verhuiskosten politie.
 
@@ -2366,7 +2392,7 @@ Algerije: Algiers
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. De aspirant heeft aanspraak op vergoeding van kosten voor tijdelijke huisvesting, die gelijk is aan 90% van het bedrag van de werkelijk gemaakte kosten met een maximum van € 605,32 per maand, indien:
 
@@ -2388,7 +2414,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
@@ -2402,7 +2428,7 @@ Vervallen
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 38a
+##### Artikel 38a
 
 [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0024064&hoofdstuk=IV&z=2025-09-23&g=2025-09-23) is niet van toepassing op de vrijwillige ambtenaar, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
@@ -3875,7 +3901,7 @@ Argentinië: Buenos Aires
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 31a. Tijdelijke tegemoetkoming dubbele woonlasten politiechef
+##### Artikel 31a. Tijdelijke tegemoetkoming dubbele woonlasten politiechef
 
 Vervallen
 
@@ -3913,11 +3939,11 @@ Peru: Lima
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 38b
+##### Artikel 38b
 
 Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
-#### Artikel 16a. Voorwaarden
+##### Artikel 16a. Voorwaarden
 
 1. Door het bevoegd gezag wordt enkel opdracht gegeven voor een dienstreis indien alternatieve middelen om het voorziene doel van de dienstreis te bewerkstelligen niet volstaan.
 
@@ -3945,7 +3971,7 @@ Uruguay: Montevideo
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. Voor de duur van de vervulling van het ambt kan aan de korpschef een verblijfsvoorziening in of nabij ‘s-Gravenhage ter beschikking worden gesteld, indien:
 

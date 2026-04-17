@@ -1,13 +1,39 @@
 ---
-title: "Regeling bijzondere uitkering integrale projecten 2013"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 april 2013 DCB/CZW/S&B, houdende regels inzake een eenmalige bijzondere uitkering voor integrale projecten aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering integrale projecten 2013)"
 identifier: "BWBR0033367"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-11-22
-laatste_update: 2014-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033367"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2014-11-22"
+last_updated: "2014-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033367"
+soort: "ministeriele-regeling-BES"
+stam_id: "12244303"
+version_id: "20485512"
+internal_id: "C28813181"
+label_id: "12215734"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033367/2014-11-22/0"
+intitule_bron: "Stcrt.2013-11910"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-23"
+intitule_published: "2013-05-08"
+intitule_in_force: "2013-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-11910"
+original_signed_date: "2013-04-23"
+original_published_date: "2013-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-11910"
+entry_into_force_date: "2013-05-09"
+jci_1_3: "jci1.3:c:BWBR0033367&z=2014-11-22&g=2014-11-22"
+jci_1_0: "1.0:c:BWBR0033367&g=2014-11-22"
+citeertitel_status: "officieel"
+short_title: "Regeling bijzondere uitkering integrale projecten 2013"
+signed_date: "2013-04-23"
+entry_into_force: "2013-05-09"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 23 april 2013 DCB/CZW/S&B, houdende regels inzake een eenmalige bijzondere uitkering voor integrale projecten aan de openbare lichamen Bonaire, Sint Eustatius en Saba (Regeling bijzondere uitkering integrale projecten 2013)
 
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, de Minister voor Wonen en Rijksdienst en de Minister van Volksgezondheid, Welzijn en Sport;
@@ -16,7 +42,7 @@ Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonair
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **Minister:** de minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2. Doel bijzondere uitkering integrale projecten
+##### Artikel 2. Doel bijzondere uitkering integrale projecten
 
 1. Een openbaar lichaam ontvangt over 2013 een bijzondere uitkering integrale projecten ten behoeve van activiteiten en diensten die ten doel hebben het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie.
 
@@ -34,11 +60,11 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister verstrekt aan een openbaar lichaam de bijzondere uitkering integrale projecten ten behoeve van de kosten van de in deze regeling bedoelde activiteiten en diensten.
 
-#### Artikel 3. Totale bijdrage
+##### Artikel 3. Totale bijdrage
 
 Het bedrag van de bijzondere uitkering integrale projecten is voor 2013 maximaal USD 1.647.355.
 
-#### Artikel 4. Aanvragen
+##### Artikel 4. Aanvragen
 
 1. De middelen voor de bijzondere uitkering integrale projecten worden als projectgelden uitgekeerd. Om in aanmerking te komen voor deze gelden, dienen de bestuurscolleges van de openbare lichamen een of meerdere projectvoorstellen in bij de minister van Sociale Zaken en Werkgelegenheid. Het projectvoorstel heeft betrekking op de verwezenlijking van een of meerdere doelen als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22).
 
@@ -48,35 +74,35 @@ Het bedrag van de bijzondere uitkering integrale projecten is voor 2013 maximaal
 
 4. De minister van Sociale Zaken en Werkgelegenheid beslist op de projectvoorstellen. Een voorstel voldoet aan de vereisten zoals opgenomen in deze regeling en in het beleidskader ten behoeve van projecten integrale aanpak Caribisch Nederland. Dat beleidskader is als bijlage bij deze regeling gevoegd.
 
-#### Artikel 5. Besteding
+##### Artikel 5. Besteding
 
 De bijzondere uitkering integrale projecten wordt door het openbaar lichaam uitsluitend besteed aan een in het ingediende projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22).
 
-#### Artikel 6. Niet of niet volledig bestede bijzondere uitkering integrale projecten
+##### Artikel 6. Niet of niet volledig bestede bijzondere uitkering integrale projecten
 
 1. Het openbaar lichaam kan de niet of niet volledig bestede bijzondere uitkering integrale projecten over het kalenderjaar 2013 eveneens besteden aan een in het projectvoorstel opgenomen doel ten behoeve van het kalenderjaar 2014 of 2015.
 
 2. De niet in de kalenderjaren 2013, 2014 of 2015 aan een in het projectvoorstel opgenomen doel als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22), bestede bijzondere uitkering integrale projecten wordt in het kalenderjaar 2016 door de Minister teruggevorderd.
 
-#### Artikel 7. Informatievoorziening
+##### Artikel 7. Informatievoorziening
 
 De openbare lichamen verstrekken desgevraagd aan de Minister de gegevens die hij voor de statistiek en de beleidsvorming met betrekking tot deze regeling nodig heeft. De gegevens worden kosteloos verstrekt.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De openbare lichamen leggen over de besteding van de bijzondere uitkering integrale projecten verantwoording af aan de Minister via de jaarlijkse, door de openbare lichamen, op te stellen jaarrekening, bedoeld in [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=31).
 
 2. Het openbaar lichaam vermeldt in de jaarrekening, in de paragraaf verantwoordingsinformatie bijzondere uitkering, bedoeld in [artikel 21, derde lid, onder c, van het Besluit begroting en verantwoording openbare lichamen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030060&artikel=21), welk bedrag is besteed aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033367&artikel=2&z=2014-11-22&g=2014-11-22), genoemde doelen.
 
-#### Artikel 9. Betaling
+##### Artikel 9. Betaling
 
 De middelen voor de bijzondere uitkering integrale projecten worden op grond van [artikel 88, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=88) verstrekt uit de begroting van het BES-fonds. De betaling van de bijzondere uitkering integrale projecten geschiedt na goedkeuring door de minister van Sociale Zaken en Werkgelegenheid van het door de bestuurscolleges van de openbare lichamen ingediende projectvoorstel.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering integrale projecten 2013.
 

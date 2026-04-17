@@ -1,13 +1,38 @@
 ---
-title: "Griekse uitvoeringsvoorschriften belastingovereenkomst Nederland-Griekenland"
+title: "Griekse voorschriften tot uitvoering van de op 16 juli 1981 tussen Nederland en Griekenland gesloten Overeenkomst tot het vermijden van dubbele belasting"
 identifier: "BWBR0007906"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007906"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007906"
+soort: "ministeriele-regeling"
+stam_id: "4275603"
+version_id: "6039202"
+internal_id: "C6242601"
+label_id: "4254174"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007906/1997-06-19/0"
+intitule_bron: "Stcrt.1996-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-23"
+intitule_published: "1996-03-04"
+intitule_in_force: "1996-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-45"
+original_signed_date: "1996-02-23"
+original_published_date: "1996-03-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-03-06"
+jci_1_3: "jci1.3:c:BWBR0007906&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0007906&g=1997-06-19"
+citeertitel_status: "officieel"
+short_title: "Griekse uitvoeringsvoorschriften belastingovereenkomst Nederland-Griekenland"
+signed_date: "1996-02-23"
+entry_into_force: "1996-03-06"
 ---
-
 # Griekse voorschriften tot uitvoering van de op 16 juli 1981 tussen Nederland en Griekenland gesloten Overeenkomst tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering van Griekse belasting op dividenden, interest, royalty’s en enige andere soorten van inkomsten uit Griekse bron, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 16 juli 1981 tussen Nederland en Griekenland gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1981, nr. 178) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -34,7 +59,7 @@ De in de onderdelen a tot en met e van dit artikel vermelde verminderingen zijn 
 
 De in de onderdelen a tot en met e van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty’s in Griekenland een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Griekenland zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de schuldvordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vast middelpunt behoort (artikel 10, vierde lid, respectievelijk artikel 11, vierde lid, en artikel 12, vierde lid).
 
-#### Artikel 2
+##### Artikel 2
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007906&artikel=1&z=1997-06-19&g=1997-06-19) is van Griekse zijde de volgende regeling getroffen:
 
@@ -56,11 +81,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0007906&a
 
 - 5. Verkrijgbaarheid van de Griekse formulieren Exemplaren van de Griekse formulieren ’Claim for the application of the Double Taxation Convention’ en E 230 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Griekenland bij The Ministry of Finance, International Relations Division, Section A: Tax Affairs, 20, Panepistimiou Street, GR-101 84 Athens, Greece.
 
-#### Artikel 3
+##### Artikel 3
 
 De regeling van de Staatssecretaris van Financiën van 27 november 1990, nr. IFZ90/1906 (Stcrt. van 27 november 1990, nr. 231) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze regeling kan worden aangehaald als: Griekse uitvoeringsvoorschriften belastingovereenkomst Nederland-Griekenland.
 

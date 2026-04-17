@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man tot het vermijden van dubbele belasting met betrekking tot ondernemingen die schepen of luchtvaartuigen exploiteren in het internationale verkeer"
 identifier: "BWBV0001816"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-08-23
-laatste_update: 2005-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001816"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-08-23"
+last_updated: "2005-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001816"
+soort: "verdrag"
+stam_id: "10002505033"
+version_id: "10002498672"
+internal_id: "C10008231771"
+label_id: "10002494484"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001816/2006-08-23/0"
+intitule_bron: "Trb.2005-292"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-24"
+intitule_published: "2005-11-21"
+intitule_in_force: "2006-09-15"
+intitule_status: "goed"
+original_publication: "Trb.2005-292"
+original_signed_date: "2006-07-24"
+original_published_date: "2005-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-292"
+entry_into_force_date: "2006-08-23"
+jci_1_3: "jci1.3:c:BWBV0001816&z=2006-08-23&g=2006-08-23"
+jci_1_0: "1.0:c:BWBV0001816&g=2006-08-23"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-24"
+entry_into_force: "2006-08-23"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Eiland Man tot het vermijden van dubbele belasting met betrekking tot ondernemingen die schepen of luchtvaartuigen exploiteren in het internationale verkeer
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,7 +45,7 @@ Geleid door de wens een verdrag te sluiten tot het vermijden van dubbele belasti
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -60,7 +85,7 @@ Zijn het volgende overeengekomen:
 
 2. Wat betreft de toepassing van het Verdrag op enig moment door een Verdragsluitende Partij heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Partij met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Partij prevaleert boven een betekenis die volgens andere wetgeving van die Partij aan die uitdrukking wordt gegeven.
 
-#### Artikel 2. Vermijden van dubbele belasting
+##### Artikel 2. Vermijden van dubbele belasting
 
 1. Een onderneming van een Verdragsluitende Partij die schepen of luchtvaartuigen exploiteert in het internationale verkeer is in de andere Verdragsluitende Partij vrijgesteld van belasting van elke soort en benaming naar daaruit voortvloeiende inkomsten, ongeacht de wijze van heffing.
 
@@ -70,13 +95,13 @@ Zijn het volgende overeengekomen:
 
 4. Niettegenstaande de voorgaande bepalingen van dit artikel mag de beloning verkregen ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of een luchtvaartuig dat in het internationale verkeer wordt geëxploiteerd, belast worden in de Verdragsluitende Partij waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
-#### Artikel 3. Regeling voor onderling overleg
+##### Artikel 3. Regeling voor onderling overleg
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen trachten moeilijkheden of twijfelpunten die mochten rijzen met betrekking tot de uitlegging of de toepassing van het Verdrag in onderlinge overeenstemming op te lossen. Het overleg waar de bevoegde autoriteit van een Verdragsluitende Partij om heeft verzocht, vangt aan binnen 90 dagen na de datum van ontvangst van het desbetreffende verzoek.
 
 2. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming als bedoeld in de voorgaande leden te bereiken.
 
-#### Artikel 4. Uitbreiding tot andere gebieden
+##### Artikel 4. Uitbreiding tot andere gebieden
 
 1. Ten aanzien van het Koninkrijk der Nederlanden kan dit Verdrag, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de Nederlandse Antillen en Aruba of tot de Nederlandse Antillen of Aruba afzonderlijk, indien de Regering van het Eiland Man daarmee instemt. De Regering van het Koninkrijk der Nederlanden stelt de Regering van het Eiland Man in kennis van de uitbreiding tot de Nederlandse Antillen en/of Aruba en van de „bevoegde autoriteiten’’ genoemd in artikel 1, eerste lid, onderdeel j, van de Nederlandse Antillen en/of Aruba.
 
@@ -84,13 +109,13 @@ Zijn het volgende overeengekomen:
 
 3. Tenzij anders overeengekomen, wordt door de beëindiging van dit Verdrag tevens de toepassing van dit Verdrag met betrekking tot delen van het Koninkrijk der Nederlanden waartoe het is uitgebreid beëindigd.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking dertig dagen na de laatste van de data waarop de onderscheiden Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld, dat de in hun onderscheiden Partijen grondwettelijk vereiste formaliteiten zijn vervuld, en de bepalingen ervan vinden toepassing voor de belastingjaren en –tijdvakken die aanvangen op of na 1 januari van het kalenderjaar dat volgt op dat waarin het Verdrag in werking is getreden.
 
 2. Onverminderd het eerste lid van dit artikel, treedt het Verdrag uitsluitend in werking indien het Verdrag tussen het Eiland Man en het Koninkrijk der Nederlanden inzake de uitwisseling van informatie betreffende belastingzaken van kracht is voor zowel strafrechtelijke als civiele belastingzaken.
 
-#### Artikel 6. Beëindiging
+##### Artikel 6. Beëindiging
 
 1. Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Partijen wordt beëindigd. Elk van de Partijen kan het Verdrag beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van het Verdrag schriftelijk kennis te geven van de beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn voor belastingjaren en -tijdvakken die aanvangen na het einde van het kalenderjaar waarin de kennisgeving van de beëindiging is gedaan.
 

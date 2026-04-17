@@ -1,13 +1,35 @@
 ---
 title: "Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit"
 identifier: "BWBV0005631"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-11-17
-laatste_update: 2016-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005631"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-11-17"
+last_updated: "2016-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005631"
+soort: "verdrag"
+stam_id: "10004793603"
+version_id: "10005091792"
+internal_id: "C10009424161"
+label_id: "10004777714"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005631/2016-11-17/0"
+intitule_bron: "Trb.2012-16"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-01-26"
+intitule_in_force: "2018-08-16"
+intitule_status: "goed"
+original_publication: "Trb.2012-16"
+original_published_date: "2012-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-16"
+entry_into_force_date: "2016-11-17"
+jci_1_3: "jci1.3:c:BWBV0005631&z=2016-11-17&g=2016-11-17"
+jci_1_0: "1.0:c:BWBV0005631&g=2016-11-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-11-17"
 ---
-
 # Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit
 
 De partijen bij dit Protocol,
@@ -68,11 +90,11 @@ Bevestigend dat niets in dit Protocol mag worden uitgelegd als een beperking of 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van dit Protocol is de eerlijke en billijke verdeling van de voordelen die voortvloeien uit het gebruik van genetische rijkdommen, onder meer via passende toegang tot genetische rijkdommen en passende overdracht van relevante technologieën, rekening houdend met alle rechten ter zake van die bronnen en technologieën, en via passende financiering, zodat wordt bijgedragen aan het behoud van biologische diversiteit en het duurzaam gebruik van de bestanddelen daarvan.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 De termen omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=2) zijn van toepassing op dit Protocol. Voor de toepassing van dit Protocol wordt voorts verstaan onder:
 
@@ -86,11 +108,11 @@ De termen omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/j
 
 - e. „derivaat”: een in de natuur voorkomende biochemische verbinding die voortkomt uit de genetische expressie of het metabolisme van biologische of genetische rijkdommen, ook wanneer deze geen functionele eenheden van erfelijkheid bevat.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 Dit Protocol is van toepassing op de genetische rijkdommen binnen de werkingssfeer van [artikel 15 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=15) en op de voordelen die voortvloeien uit het gebruik van deze rijkdommen. Dit Protocol is tevens van toepassing op traditionele kennis met betrekking tot genetische rijkdommen binnen de werkingssfeer van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) en op de voordelen die voortvloeien uit het gebruik van deze kennis.
 
-#### Artikel 4. Verhouding tot internationale verdragen en instrumenten
+##### Artikel 4. Verhouding tot internationale verdragen en instrumenten
 
 1. De bepalingen van dit Protocol laten de rechten en verplichtingen van elke partij die voortvloeien uit bestaande internationale verdragen onverlet, behalve indien de uitoefening van die rechten of de nakoming van die verplichtingen een ernstige schade zou veroorzaken aan, of een bedreiging zou vormen voor, de biologische diversiteit. Met dit lid wordt niet beoogd een hiërarchie aan te brengen tussen dit Protocol en andere internationale instrumenten.
 
@@ -100,7 +122,7 @@ Dit Protocol is van toepassing op de genetische rijkdommen binnen de werkingssfe
 
 4. Dit Protocol is het instrument voor de tenuitvoerlegging van de bepalingen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) voor toegang en verdeling van voordelen. Indien een specifiek internationaal instrument voor toegang tot en verdeling van voordelen van toepassing is dat verenigbaar is met en niet indruist tegen de doelen van het Verdrag en dit Protocol, is dit Protocol niet van toepassing op de partij of partijen bij het specifieke instrument voor wat de specifieke genetische rijkdom betreft die onder dat specifieke instrument valt en voor wat het doel van dat instrument betreft.
 
-#### Artikel 5. Eerlijke en billijke verdeling van voordelen
+##### Artikel 5. Eerlijke en billijke verdeling van voordelen
 
 1. Overeenkomstig [artikel 15, derde en zevende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=15) worden voordelen die voortvloeien uit het gebruik van genetische rijkdommen alsmede uit daaruit voortvloeiende toepassingen en de commercialisering daarvan op een eerlijke en billijke wijze gedeeld met de partij die de rijkdommen heeft geleverd en het land van oorsprong daarvan is of een partij is die de genetische rijkdommen heeft verworven in overeenstemming met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136). De verdeling geschiedt op grond van onderling overeengekomen voorwaarden.
 
@@ -112,7 +134,7 @@ Dit Protocol is van toepassing op de genetische rijkdommen binnen de werkingssfe
 
 5. Elke partij neemt maatregelen van wetgevende of bestuurlijke aard, dan wel beleidsmaatregelen, waar passend, teneinde te bewerkstelligen dat de voordelen die voortvloeien uit het gebruik van traditionele kennis met betrekking tot genetische rijkdommen op een eerlijke en billijke wijze worden gedeeld met de inheemse en lokale gemeenschappen die deze kennis houden. De verdeling geschiedt op grond van onderling overeengekomen voorwaarden.
 
-#### Artikel 6. Toegang tot genetische rijkdommen
+##### Artikel 6. Toegang tot genetische rijkdommen
 
 1. Bij de uitoefening van soevereine rechten over natuurlijke rijkdommen en met inachtneming van de eisen krachtens interne wet- of regelgeving over toegang en verdeling van voordelen, is de toegang tot genetische rijkdommen voor hun gebruik onderworpen aan de voorafgaande geïnformeerde toestemming van de partij die deze rijkdommen levert en het land van oorsprong van deze rijkdommen is of van een partij die de genetische rijkdommen in overeenstemming met het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) heeft verworven, tenzij anderszins bepaald door die partij.
 
@@ -142,11 +164,11 @@ Dit Protocol is van toepassing op de genetische rijkdommen binnen de werkingssfe
 
 - iv. waar toepasselijk, voorwaarden voor het wijzigen van het doel.
 
-#### Artikel 7. Toegang tot traditionele kennis met betrekking tot genetische rijkdommen
+##### Artikel 7. Toegang tot traditionele kennis met betrekking tot genetische rijkdommen
 
 In overeenstemming met het interne recht neemt elke partij maatregelen, waar passend, met de bedoeling te waarborgen dat toegang tot traditionele kennis met betrekking tot genetische rijkdommen die gehouden worden door inheemse en lokale gemeenschappen wordt verkregen met de voorafgaande en geïnformeerde toestemming of goedkeuring en betrokkenheid van deze inheemse en lokale gemeenschappen, en dat onderling overeengekomen voorwaarden zijn vastgesteld.
 
-#### Artikel 8. Bijzondere overwegingen
+##### Artikel 8. Bijzondere overwegingen
 
 Bij het uitwerken en uitvoeren van zijn wet- en regelgeving over toegang tot en verdeling van voordelen, dient elke partij:
 
@@ -156,21 +178,21 @@ Bij het uitwerken en uitvoeren van zijn wet- en regelgeving over toegang tot en 
 
 - c. zich rekenschap te geven van het belang van genetische rijkdommen voor voedsel en landbouw en hun bijzondere betekenis voor de voedselzekerheid.
 
-#### Artikel 9. Bijdrage aan behoud en duurzaam gebruik
+##### Artikel 9. Bijdrage aan behoud en duurzaam gebruik
 
 De partijen moedigen gebruikers en leveranciers aan de voordelen die voortvloeien uit het gebruik van genetische rijkdommen in te zetten voor het behoud van de biologische diversiteit en het duurzame gebruik van de bestanddelen daarvan.
 
-#### Artikel 10. Mondiaal multilateraal mechanisme voor de verdeling van voordelen
+##### Artikel 10. Mondiaal multilateraal mechanisme voor de verdeling van voordelen
 
 Partijen overwegen de behoefte aan en modaliteiten van een mondiaal multilateraal mechanisme voor de verdeling van voordelen ten behoeve van de eerlijke en billijke verdeling van voordelen die voortvloeien uit het gebruik van genetische rijkdommen en traditionele kennis met betrekking tot genetische rijkdommen die voorkomen in grensoverschrijdende situaties of voor situaties waarin het onmogelijk is voorafgaande geïnformeerde toestemming te verlenen of te verkrijgen. De voordelen die door gebruikers van genetische rijkdommen en traditionele kennis met betrekking tot genetische rijkdommen via dit mechanisme worden gedeeld, worden ingezet ter ondersteuning van het wereldwijde behoud van biologische diversiteit en duurzaam gebruik van de bestanddelen daarvan.
 
-#### Artikel 11. Grensoverschrijdende samenwerking
+##### Artikel 11. Grensoverschrijdende samenwerking
 
 1. In situaties waarin dezelfde genetische rijkdommen in situ worden gevonden binnen het grondgebied van meer dan een partij, trachten deze partijen waar passend samen te werken, met de betrokkenheid van de desbetreffende inheemse en lokale gemeenschappen, waar toepasselijk, ten behoeve van de tenuitvoerlegging van dit Protocol.
 
 2. Indien dezelfde traditionele kennis met betrekking tot genetische rijkdommen wordt gedeeld door een of meer inheemse en lokale gemeenschappen in verschillende partijen, trachten deze partijen waar passend samen te werken, met de betrokkenheid van de desbetreffende inheemse en lokale gemeenschappen ten behoeve van de verwezenlijking van het doel van dit Protocol.
 
-#### Artikel 12. Traditionele kennis met betrekking tot genetische rijkdommen
+##### Artikel 12. Traditionele kennis met betrekking tot genetische rijkdommen
 
 1. Bij de uitvoering van hun verplichtingen krachtens dit Protocol houden de partijen in overeenstemming met hun interne recht rekening met het gewoonterecht, de gemeenschapsprotocollen en de procedures van inheemse en lokale gemeenschappen, al naargelang van toepassing, op het gebied van traditionele kennis met betrekking tot genetische rijkdommen.
 
@@ -186,7 +208,7 @@ Partijen overwegen de behoefte aan en modaliteiten van een mondiaal multilateraa
 
 4. Bij de tenuitvoerlegging van dit Protocol onthouden partijen zich zoveel mogelijk van beperking van het op de gewoonte stoelende gebruik en uitwisseling van genetische rijkdommen en daarmee verbonden traditionele kennis binnen en tussen inheemse en lokale gemeenschappen in overeenstemming met de doelen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
 
-#### Artikel 13. Nationale contactpunten en bevoegde nationale instanties
+##### Artikel 13. Nationale contactpunten en bevoegde nationale instanties
 
 1. Elke partij wijst een nationaal contactpunt aan voor toegang en verdeling van voordelen. Het nationale contactpunt stelt informatie op de volgende wijze beschikbaar:
 
@@ -206,7 +228,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 5. Het Secretariaat stelt de krachtens het vierde lid ontvangen informatie ter beschikking via het uitwisselingscentrum voor toegang en verdeling van voordelen.
 
-#### Artikel 14. Uitwisselingscentrum voor toegang en verdeling van voordelen en het delen van informatie
+##### Artikel 14. Uitwisselingscentrum voor toegang en verdeling van voordelen en het delen van informatie
 
 1. Als onderdeel van het uitwisselingsmechanisme overeenkomstig [artikel 18, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=18) wordt een uitwisselingscentrum voor toegang en verdeling van voordelen opgericht. Het fungeert als een middel om informatie te delen met betrekking tot toegang en verdeling van voordelen. Het verschaft in het bijzonder toegang tot door partijen ter beschikking gestelde informatie relevant voor de tenuitvoerlegging van dit Protocol.
 
@@ -230,7 +252,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 4. De werkwijze van het uitwisselingscentrum voor toegang en verdeling van voordelen, met inbegrip van de rapportage over zijn activiteiten, wordt door de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, tijdens haar eerste vergadering besproken en vastgesteld en vervolgens periodiek getoetst.
 
-#### Artikel 15. Naleving van interne wet- of regelgeving over toegang en verdeling van voordelen
+##### Artikel 15. Naleving van interne wet- of regelgeving over toegang en verdeling van voordelen
 
 1. Elke partij neemt passende, doeltreffende en evenredige maatregelen van wetgevende of bestuurlijke aard, dan wel beleidsmaatregelen, om te bewerkstelligen dat de toegang tot genetische rijkdommen, die onder haar rechtsmacht worden gebruikt, is verkregen met voorafgaande geïnformeerde toestemming en dat er onderling overeengekomen voorwaarden zijn vastgesteld, zoals bepaald in de interne wet- en regelgeving over toegang en verdeling van voordelen van de andere partij.
 
@@ -238,7 +260,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 3. Partijen werken voor zover mogelijk en passend samen in gevallen van vermeende schending van interne wet- en regelgeving over toegang en verdeling van voordelen, bedoeld in het eerste lid.
 
-#### Artikel 16. Naleving van interne wet- of regelgeving over toegang en verdeling van voordelen van traditionele kennis met betrekking tot genetische rijkdommen
+##### Artikel 16. Naleving van interne wet- of regelgeving over toegang en verdeling van voordelen van traditionele kennis met betrekking tot genetische rijkdommen
 
 1. Elke partij neemt, waar passend, passende, doeltreffende en evenredige maatregelen van wetgevende of bestuurlijke aard, dan wel beleidsmaatregelen, om te bewerkstelligen dat de toegang tot traditionele kennis met betrekking tot genetische rijkdommen, die onder haar rechtsmacht worden gebruikt, is verkregen met voorafgaande geïnformeerde toestemming of goedkeuring en betrokkenheid van inheemse en lokale gemeenschappen en dat er onderling overeengekomen voorwaarden zijn vastgesteld, zoals bepaald in de interne wet- en regelgeving over toegang en verdeling van voordelen van de andere partij waar deze inheemse en lokale gemeenschappen zich bevinden.
 
@@ -246,7 +268,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 3. Partijen werken voor zover mogelijk en passend samen in gevallen van vermeende schending van interne wet- en regelgeving over toegang en verdeling van voordelen, bedoeld in het eerste lid.
 
-#### Artikel 17. Het volgen van het gebruik van genetische rijkdommen
+##### Artikel 17. Het volgen van het gebruik van genetische rijkdommen
 
 1. Teneinde naleving te ondersteunen, neemt elke partij maatregelen, waar passend, om het gebruik van genetische rijkdommen te volgen en de transparantie over het gebruik daarvan te vergroten. Dergelijke maatregelen omvatten:
 
@@ -288,7 +310,7 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 - i. commerciële en/of niet-commerciële toepassing.
 
-#### Artikel 18. Naleving van onderling overeengekomen voorwaarden
+##### Artikel 18. Naleving van onderling overeengekomen voorwaarden
 
 1. Bij de tenuitvoerlegging van [artikel 6, derde lid, onderdeel g, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=6&z=2016-11-17&g=2016-11-17), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=7&z=2016-11-17&g=2016-11-17), moedigt elke partij leveranciers en gebruikers van genetische rijkdommen en/of traditionele kennis met betrekking tot genetische rijkdommen aan in hun onderling overeen te komen voorwaarden, waar passend, bepalingen voor de regeling van geschillen op te nemen, waaronder:
 
@@ -308,19 +330,19 @@ Het nationale contactpunt is verantwoordelijk voor de contacten met het Secretar
 
 4. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, toetst de doeltreffendheid van dit artikel in overeenstemming met [artikel 31 van dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005631&artikel=31&z=2016-11-17&g=2016-11-17).
 
-#### Artikel 19. Contractuele modelbepalingen
+##### Artikel 19. Contractuele modelbepalingen
 
 1. Elke partij moedigt, waar passend, de ontwikkeling, de modernisering en het gebruik aan van sectorale en sectoroverschrijdende contractuele modelbepalingen voor onderling over te komen voorwaarden.
 
 2. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, inventariseert periodiek het gebruik van sectorale en sectoroverschrijdende contractuele modelbepalingen.
 
-#### Artikel 20. Gedragscodes, richtlijnen en beste praktijken en/of normen
+##### Artikel 20. Gedragscodes, richtlijnen en beste praktijken en/of normen
 
 1. Elke partij moedigt, waar passend, de ontwikkeling, de modernisering en het gebruik aan van vrijwillige gedragscodes, richtlijnen en beste praktijken en/of normen voor toegang en verdeling van voordelen.
 
 2. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert inventariseert periodiek het gebruik van vrijwillige gedragscodes, richtlijnen en beste praktijken en/of normen en neemt de aanneming van specifieke gedragscodes, richtlijnen en beste praktijken en/of normen in overweging.
 
-#### Artikel 21. Bewustmaking
+##### Artikel 21. Bewustmaking
 
 Elke partij neemt maatregelen ter bewustmaking van het belang van genetische rijkdommen en traditionele kennis met betrekking tot genetische rijkdommen en daarmee samenhangende kwesties op het gebied van toegang en verdeling van voordelen. Deze maatregelen kunnen onder andere omvatten:
 
@@ -342,7 +364,7 @@ Elke partij neemt maatregelen ter bewustmaking van het belang van genetische rij
 
 - i. bewustmaking van gemeenschapsprotocollen en procedures van inheemse en lokale gemeenschappen.
 
-#### Artikel 22. Capaciteit
+##### Artikel 22. Capaciteit
 
 1. De partijen werken samen bij de capaciteitsvorming, capaciteitsontwikkeling en versterking van de personele middelen en institutionele capaciteiten om dit Protocol effectief uit te voeren in partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en kleine eilandstaten in ontwikkeling, en partijen met een economie in overgang, onder andere via bestaande mondiale, regionale, subregionale en nationale instellingen en organisaties. In dit verband zouden partijen de betrokkenheid van inheemse en lokale gemeenschappen en relevante belanghebbenden, met inbegrip van non-gouvernementele organisaties en de private sector, moeten bevorderen.
 
@@ -384,15 +406,15 @@ Elke partij neemt maatregelen ter bewustmaking van het belang van genetische rij
 
 6. Aan het uitwisselingcentrum voor de toegang tot en verdeling van voordelen zou informatie moeten worden verstrekt over capaciteitsvorming en ontwikkelingsinitiatieven die in overeenstemming met het eerste tot en met vijfde lid op nationaal, regionaal en internationaal niveau zijn ontplooid ten einde synergie en afstemming op het gebied van capaciteitsvorming en ontwikkeling voor de toegang tot en verdeling van voordelen te bevorderen.
 
-#### Artikel 23. Overdracht van technologie en samenwerking
+##### Artikel 23. Overdracht van technologie en samenwerking
 
 In overeenstemming met de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=16), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=18) en [19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=19) werken de partijen met elkaar samen bij technische en wetenschappelijke onderzoeks- en ontwikkelingsprogramma's, met inbegrip van biotechnologische onderzoeksactiviteiten, ter verwezenlijking van het doel van dit Protocol. De partijen verplichten zich de toegang tot technologie door en de overdracht daarvan aan partijen die ontwikkelingslanden zijn, met name de minstontwikkelde landen en kleine eilandstaten in ontwikkeling, en partijen met een economie in overgang te bevorderen en aan te moedigen, teneinde de ontwikkeling en versterking van een gedegen en levensvatbare technologische en wetenschappelijke basis mogelijk te maken ter verwezenlijking van de doelen van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) en dit Protocol. Waar mogelijk en passend vindt zulke samenwerking plaats in en met een partij of partijen die genetische rijkdommen levert of leveren en het land of de landen van herkomst van deze rijkdommen is of zijn of een partij of partijen die de genetische rijkdommen heeft of hebben verkregen in overeenstemming met het Verdrag.
 
-#### Artikel 24. Niet-partijen
+##### Artikel 24. Niet-partijen
 
 De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het uitwisselingscentrum voor toegang en verdeling van voordelen relevante informatie te verstrekken.
 
-#### Artikel 25. Financieel mechanisme en middelen
+##### Artikel 25. Financieel mechanisme en middelen
 
 1. Bij de bestudering van financiële middelen voor de tenuitvoerlegging van dit Protocol houden de partijen rekening met de bepalingen van [artikel 20 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20).
 
@@ -406,7 +428,7 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 6. Langs bilaterale, regionale en multilaterale kanalen kunnen de partijen die ontwikkelde landen zijn tevens financiële en andere middelen verschaffen voor de tenuitvoerlegging van de bepalingen van dit Protocol, waarvan de partijen die ontwikkelingslanden zijn en de partijen met een economie in overgang gebruik kunnen maken.
 
-#### Artikel 26. Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert
+##### Artikel 26. Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert
 
 1. De Conferentie van de partijen fungeert als de vergadering van de partijen bij dit Protocol.
 
@@ -436,7 +458,7 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke lidstaat daarvan of waarnemer daarbij die geen partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) is, kunnen als waarnemer worden vertegenwoordigd op de vergaderingen van de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Protocol vallen en het Secretariaat haar wens te kennen heeft gegeven op een vergadering van de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, als waarnemer te zijn vertegenwoordigd, kan als zodanig worden toegelaten, tenzij ten minste een derde van de aanwezige partijen hiertegen bezwaar maakt. Tenzij in dit artikel anders is bepaald, geldt voor de toelating en de deelneming van waarnemers het in het in het vijfde lid bedoelde reglement van orde.
 
-#### Artikel 27. Hulporganen
+##### Artikel 27. Hulporganen
 
 1. Bij of krachtens het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) ingestelde hulporganen kunnen, mede na een besluit van de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, ten behoeve van dit Protocol fungeren. Een dergelijk besluit omschrijft de te verrichten taken.
 
@@ -444,7 +466,7 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 3. Wanneer een hulporgaan van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) zijn functies uitoefent met betrekking tot aangelegenheden die verband houden met dit Protocol, wordt elk lid van het bureau van dat hulporgaan dat een partij bij het Verdrag vertegenwoordigt, die op dat tijdstip geen partij bij dit Protocol is, vervangen door een lid dat door en uit de partijen bij dit Protocol wordt gekozen.
 
-#### Artikel 28. Secretariaat
+##### Artikel 28. Secretariaat
 
 1. Het bij [artikel 24 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24) ingestelde Secretariaat fungeert als secretariaat van dit Protocol.
 
@@ -452,23 +474,23 @@ De partijen moedigen niet-partijen aan zich aan dit Protocol te houden en het ui
 
 3. Voorzover zij te onderscheiden zijn, worden de kosten van de diensten van het Secretariaat voor dit Protocol door de partijen bij dit Protocol gedragen. De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, besluit tijdens haar eerste vergadering over de daartoe benodigde budgettaire bepalingen.
 
-#### Artikel 29. Toezicht en rapportage
+##### Artikel 29. Toezicht en rapportage
 
 Elke partij houdt toezicht op de tenuitvoerlegging van haar verplichtingen krachtens dit Protocol en brengt met tussenpozen en in de vorm die wordt bepaald door de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, verslag uit aan de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert over maatregelen die zij voor de tenuitvoerlegging van dit Protocol heeft genomen.
 
-#### Artikel 30. Procedures en mechanismen om de naleving van dit Protocol te bevorderen
+##### Artikel 30. Procedures en mechanismen om de naleving van dit Protocol te bevorderen
 
 De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, overweegt en aanvaardt tijdens haar eerste vergadering samenwerkingsprocedures en institutionele mechanismen om de naleving van de bepalingen van dit Protocol te bevorderen en gevallen van niet-naleving aan de orde te stellen. De procedures en mechanismen omvatten bepalingen om waar nodig advies of bijstand aan te bieden. Zij staan los van en doen geen afbreuk aan de in [artikel 27 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=27) vastgestelde procedures en mechanismen voor de regeling van geschillen.
 
-#### Artikel 31. Evaluatie en toetsing
+##### Artikel 31. Evaluatie en toetsing
 
 De Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert, voert vier jaar na de inwerkingtreding van dit Protocol en daarna met tussenpozen die worden bepaald door de Conferentie van de partijen die als vergadering van de partijen bij dit Protocol fungeert een evaluatie van de doeltreffendheid van dit Protocol uit.
 
-#### Artikel 32. Ondertekening
+##### Artikel 32. Ondertekening
 
 Dit Protocol staat open voor ondertekening door partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136) op het Hoofdkwartier van de Verenigde Naties in New York van 2 februari 2011 tot 1 februari 2012.
 
-#### Artikel 33. Inwerkingtreding
+##### Artikel 33. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op de negentigste dag na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door staten of regionale organisaties voor economische integratie die partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
 
@@ -476,17 +498,17 @@ Dit Protocol staat open voor ondertekening door partijen bij het [Verdrag](https
 
 3. Voor de toepassing van het eerste en tweede lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door lidstaten van die organisatie nedergelegde akten.
 
-#### Artikel 34. Voorbehouden
+##### Artikel 34. Voorbehouden
 
 Ten aanzien van dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 35. Opzegging
+##### Artikel 35. Opzegging
 
 1. Na het verstrijken van twee jaar te rekenen vanaf de datum waarop dit Protocol voor een partij in werking is getreden, kan die partij dit Protocol te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht na het verstrijken van een jaar na de datum van ontvangst ervan door de depositaris of op enige latere datum vermeld in de kennisgeving van de opzegging.
 
-#### Artikel 36. Authentieke teksten
+##### Artikel 36. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

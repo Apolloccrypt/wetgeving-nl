@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende de overdracht en mutualisatie van de bijdragen aan het gemeenschappelijk afwikkelingsfonds"
 identifier: "BWBV0006380"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006380"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006380"
+soort: "verdrag"
+stam_id: "10005207173"
+version_id: "10005590562"
+internal_id: "C10009031111"
+label_id: "10005190124"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006380/2016-01-01/0"
+intitule_bron: "Trb.2014-146"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-08-06"
+intitule_in_force: "2016-02-08"
+intitule_status: "goed"
+original_publication: "Trb.2014-146"
+original_published_date: "2014-08-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-146"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBV0006380&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBV0006380&g=2016-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-01-01"
 ---
-
 # Overeenkomst betreffende de overdracht en mutualisatie van de bijdragen aan het gemeenschappelijk afwikkelingsfonds
 
 De overeenkomstsluitende partijen, het Koninkrijk België, de Republiek Bulgarije, de Tsjechische Republiek, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Republiek Estland, Ierland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, de Republiek Kroatië, de Italiaanse Republiek, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, het Groothertogdom Luxemburg, Hongarije, de Republiek Malta, het Koninkrijk der Nederlanden, de Republiek Oostenrijk, de Republiek Polen, de Portugese Republiek, Roemenië de Republiek Slovenië, de Slowaakse Republiek en de Republiek Finland;
@@ -72,7 +94,7 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. DOEL EN TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 1. Door middel van deze overeenkomst verbinden de overeenkomstsluitende partijen zich ertoe,
 
@@ -86,7 +108,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 ## TITEL II. CONSISTENTIE MET EN VERHOUDING TOT HET RECHT VAN DE UNIE
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze overeenkomst wordt door de overeenkomstsluitende partijen toegepast en uitgelegd conform de Verdragen waarop de Europese Unie is gegrondvest en conform het recht van de Europese Unie, met name [artikel 4, lid 3, van het VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507&artikel=4) en de wetgeving van de Unie betreffende de afwikkeling van instellingen.
 
@@ -96,7 +118,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 ## TITEL III. OVERDRACHT VAN BIJDRAGEN EN COMPARTIMENTEN
 
-#### Artikel 3. Overdracht van bijdragen
+##### Artikel 3. Overdracht van bijdragen
 
 1. De overeenkomstsluitende partijen verbinden zich er gezamenlijk toe om de bijdragen die zij innen van de instellingen waaraan op hun respectieve grondgebied vergunning is verleend, onherroepelijk over te dragen aan het Fonds, uit hoofde van de artikelen 70 en 71 van de GAM-verordening en volgens de criteria die zijn neergelegd in die artikelen en in de in die artikelen bedoelde gedelegeerde en uitvoeringshandelingen. De overdracht van bijdragen geschiedt conform de in de artikelen 4 tot en met 10 van deze overeenkomst neergelegde voorwaarden.
 
@@ -108,7 +130,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 5. De overeenkomstsluitende partijen dragen de achteraf te betalen bijdragen onmiddellijk na de inning ervan over.
 
-#### Artikel 4. Compartimenten
+##### Artikel 4. Compartimenten
 
 1. Gedurende de overgangsperiode worden de op nationaal niveau geïnde bijdragen aan het Fonds overgedragen op zodanige wijze dat zij worden toegewezen aan de met elk van de overeenkomstsluitende partijen overeenstemmende compartimenten.
 
@@ -116,7 +138,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 3. De afwikkelingsraad stelt op de datum van inwerkingtreding van deze overeenkomst, louter voor informatieve doeleinden, een lijst op die de omvang van de compartimenten van elke overeenkomstsluitende partij nader omschrijft. Die lijst wordt gedurende de overgangsperiode jaarlijks geactualiseerd.
 
-#### Artikel 5. Werking van de compartimenten
+##### Artikel 5. Werking van de compartimenten
 
 1. Indien conform de toepasselijke bepalingen van de GAM-verordening wordt besloten een beroep op het Fonds te doen, is de afwikkelingsraad bevoegd om op de volgende manier gebruik te maken van de compartimenten van het Fonds:
 
@@ -144,7 +166,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 3. Alle compartimenten worden samengevoegd en houden op te bestaan na het verstrijken van de overgangsperiode.
 
-#### Artikel 6. Overdracht van aanvullende vooraf te betalen bijdragen en streefbedrag
+##### Artikel 6. Overdracht van aanvullende vooraf te betalen bijdragen en streefbedrag
 
 1. De overeenkomstsluitende partijen zorgen ervoor dat, in voorkomend geval, het Fonds wordt aangevuld met vooraf te betalen bijdragen, die verschuldigd zijn binnen de in artikel 69, leden 2 en 3, en lid 5, punt a), van de GAM-verordening bedoelde termijnen, en dit voor een bedrag gelijk aan het bedrag dat nodig is om het in artikel 69, lid 1, van de GAM-verordening bedoelde streefbedrag te bereiken.
 
@@ -154,7 +176,7 @@ waardoor zij de doeltreffendheid van de activiteiten en de werking van het Fonds
 
 - b). Alle overeenkomstsluitende partijen dragen conform [artikel 5, lid 1, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=III&artikel=5&z=2016-01-01&g=2016-01-01), bijdragen over naar het gedeelte van hun respectieve compartimenten die zijn gemutualiseerd.
 
-#### Artikel 7. Tijdelijke overdracht tussen compartimenten
+##### Artikel 7. Tijdelijke overdracht tussen compartimenten
 
 1. Onverminderd de in [artikel 5, lid 1, punten a) tot en met d)](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=III&artikel=5&z=2016-01-01&g=2016-01-01), bedoelde verplichtingen kunnen de bij de afwikkeling betrokken overeenkomstsluitende partijen gedurende de overgangsperiode een verzoek richten aan de afwikkelingsraad om tijdelijk gebruik te mogen maken van de financiële middelen die beschikbaar zijn in het gedeelte van de met de andere overeenkomstsluitende partijen overeenstemmende compartimenten van het Fonds die nog niet zijn gemutualiseerd. In een dergelijk geval dragen de betrokken overeenkomstsluitende partijen nadien, vóór het verstrijken van de overgangsperiode, aan het Fonds buitengewone achteraf te betalen bijdragen over voor een bedrag gelijk aan het door hun respectieve compartiment ontvangen bedrag, vermeerderd met de opgelopen rente, zodat de andere compartimenten terugbetaald worden.
 
@@ -182,7 +204,7 @@ In dat geval worden de overeenkomstsluitende partijen die oorspronkelijk voordee
 
 6. De afwikkelingsraad formuleert algemene criteria ter bepaling van de voorwaarden waaronder de in dit artikel bedoelde tijdelijke overdracht van financiële middelen tussen compartimenten plaatsvindt.
 
-#### Artikel 8. Overeenkomstsluitende partijen die niet de euro als munt hebben
+##### Artikel 8. Overeenkomstsluitende partijen die niet de euro als munt hebben
 
 1. Indien op een latere datum dan de datum van toepassing van deze overeenkomst conform [artikel 12, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=IV&artikel=12&z=2016-01-01&g=2016-01-01), de Raad van de Europese Unie een besluit tot intrekking van de derogatie van een overeenkomstsluitende partij die niet de euro als munt heeft, als omschreven in
 
@@ -206,7 +228,7 @@ Beëindiging van de nauwe samenwerking met de ECB heeft geen gevolgen voor de re
 
 - –. de tijdelijke overdracht tussen compartimenten op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=III&artikel=7&z=2016-01-01&g=2016-01-01).
 
-#### Artikel 9. Eerbiediging van de algemene beginselen en doelstellingen van afwikkeling
+##### Artikel 9. Eerbiediging van de algemene beginselen en doelstellingen van afwikkeling
 
 1. Het gebruik van het Fonds op wederkerige basis en de overdracht van bijdragen aan het Fonds zijn onderworpen aan het permanent voorhanden zijn van een juridisch kader voor afwikkeling waarvan de regels gelijkwaardig zijn aan en ten minste hetzelfde resultaat opleveren als de volgende in de GAM-verordening neergelegde regels, zonder deze te wijzigen:
 
@@ -222,7 +244,7 @@ Beëindiging van de nauwe samenwerking met de ECB heeft geen gevolgen voor de re
 
 3. De in lid 2 van dit artikel bedoelde procedure doet geen afbreuk aan en heeft geen gevolgen voor de rechtsmiddelen waarin in de [artikelen 258](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=258), [259](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=259), [260](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=260), [263](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=263), [265](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=265) en [266 VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=266) is voorzien.
 
-#### Artikel 10. Naleving
+##### Artikel 10. Naleving
 
 1. De overeenkomstsluitende partijen nemen in hun nationale rechtsorde de maatregelen die nodig zijn tot naleving van hun verplichting om de bijdragen conform deze overeenkomst gezamenlijk over te dragen.
 
@@ -234,13 +256,13 @@ Indien de afwikkelingsraad oordeelt dat een overeenkomstsluitende partij niet he
 
 ## TITEL IV. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 11. Bekrachtiging, goedkeuring of aanvaarding, en inwerkingtreding
+##### Artikel 11. Bekrachtiging, goedkeuring of aanvaarding, en inwerkingtreding
 
 1. Deze overeenkomst wordt door haar ondertekenaars bekrachtigd, goedgekeurd of aanvaard conform hun onderscheiden grondwettelijke bepalingen. De akten van bekrachtiging, goedkeuring of aanvaarding worden neergelegd bij het secretariaat-generaal van de Raad van de Europese Unie („de depositaris”). De depositaris stelt de andere ondertekenaars in kennis van iedere neerlegging en van de datum waarop deze heeft plaatsgevonden.
 
 2. Deze overeenkomst treedt in werking op de eerste dag van de tweede maand na de datum waarop de akten van bekrachtiging, goedkeuring of aanvaarding zijn neergelegd door aan het gemeenschappelijk toezichtsmechanisme en het gemeenschappelijk afwikkelingsmechanisme deelnemende ondertekenaars die samen niet minder dan 90% vertegenwoordigen van de som van de gewogen stemmen van alle aan het gemeenschappelijk toezichtsmechanisme en het gemeenschappelijk afwikkelingsmechanisme deelnemende lidstaten, als bepaald in het aan het [VEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001507) en het [VWEU](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) gehechte [Protocol Nr. 36 betreffende de overgangsbepalingen](onbekend).
 
-#### Artikel 12. Toepassing
+##### Artikel 12. Toepassing
 
 1. Deze overeenkomst is van toepassing onder de overeenkomstsluitende partijen die hun akte van bekrachtiging, goedkeuring of aanvaarding neergelegd hebben op voorwaarde dat de GAM-verordening reeds in werking is getreden.
 
@@ -254,11 +276,11 @@ Op de in de eerste alinea bedoelde overeenkomstsluitende partijen is zij van toe
 
 Behoudens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=III&artikel=8&z=2016-01-01&g=2016-01-01) houdt deze overeenkomst op van toepassing te zijn op de overeenkomstsluitende partijen die de in artikel 7, lid 2, van Verordening (EU) nr. 1024/2013 bedoelde nauwe samenwerking met de ECB zijn aangegaan met ingang van de datum waarop deze nauwe samenwerking conform artikel 7, lid 8, van die verordening wordt beëindigd.
 
-#### Artikel 13. Toetreding
+##### Artikel 13. Toetreding
 
 Deze overeenkomst staat open voor toetreding door andere lidstaten dan de overeenkomstsluitende partijen. Behoudens [artikel 8, leden 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=III&artikel=8&z=2016-01-01&g=2016-01-01), wordt de toetreding van kracht op de datum van de neerlegging van de akte van toetreding bij de depositaris, die de andere overeenkomstsluitende partijen hiervan in kennis stelt. Na waarmerking door de overeenkomstsluitende partijen wordt de tekst van deze overeenkomst in de officiële taal van de toetredende lidstaat die ook een officiële taal van de instellingen van de Unie is, neergelegd in het archief van de depositaris als een authentieke tekst van deze overeenkomst.
 
-#### Artikel 14. Geschillenbeslechting
+##### Artikel 14. Geschillenbeslechting
 
 1. Indien een overeenkomstsluitende partij het oneens is met een andere overeenkomstsluitende partij over de uitlegging van een bepaling van deze overeenkomst of indien zij van mening is dat een andere overeenkomstsluitende partij haar verplichtingen krachtens deze overeenkomst niet heeft nageleefd, kan zij de zaak voorleggen aan het Hof van Justitie. Het arrest van het Hof van Justitie is bindend voor de partijen bij de procedure.
 
@@ -268,7 +290,7 @@ Indien het Hof van Justitie oordeelt dat een overeenkomstsluitende partij haar v
 
 3. Lidstaten die niet de euro als munt hebben en die deze overeenkomst niet bekrachtigd hebben, kunnen de depositaris kennis geven van hun voornemen om deel uit te maken het in lid 2 van dit artikel bedoelde compromis wat betreft het voorleggen van geschillen omtrent de uitlegging en de tenuitvoerlegging van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0006380&titeldeel=IV&artikel=15&z=2016-01-01&g=2016-01-01) aan het Hof van Justitie. De depositaris deelt de kennisgeving van de betrokken lidstaat mee aan de overeenkomstsluitende partijen, waarop de betrokken lidstaat partij wordt bij het in lid 2 van dit artikel bedoelde compromis voor de toepassing van dit lid.
 
-#### Artikel 15. Vergoeding
+##### Artikel 15. Vergoeding
 
 1. De overeenkomstsluitende partijen verbinden zich ertoe gezamenlijk, onverwijld en met rente elke lidstaat die niet aan het gemeenschappelijk toezichtsmechanisme en het gemeenschappelijk afwikkelingsmechanisme deelneemt („niet-deelnemende lidstaat”) te vergoeden voor het bedrag dat die niet-deelnemende lidstaat heeft betaald in de vorm van eigen middelen en dat overeenkomt met het gebruik van de algemene begroting van de Unie in gevallen van niet-contractuele aansprakelijkheid en daarmee verbonden kosten, met betrekking tot de uitoefening van bevoegdheden door de instellingen van de Unie krachtens de GAM-verordening.
 
@@ -282,7 +304,7 @@ Mogelijke rente wordt berekend volgens de bepalingen inzake achterstandsrente va
 
 5. De Commissie coördineert alle vergoedingsmaatregelen van de overeenkomstsluitende partijen volgens de in de leden 1 tot en met 3 neergelegde criteria. De coördinerende rol van de Commissie bestaat er onder meer in dat zij berekent op welke basis betalingen dienen te worden verricht, dat zij de overeenkomstsluitende partijen in kennis stelt van te verrichten betalingen en dat zij rente berekent.
 
-#### Artikel 16. Evaluatie
+##### Artikel 16. Evaluatie
 
 1. Binnen uiterlijk twee jaar na de datum van inwerkingtreding van deze overeenkomst, en vervolgens om de 18 maanden, evalueert de afwikkelingsraad de tenuitvoerlegging van deze overeenkomst en met name de goede werking van het wederkerig gebruik van het Fonds en de effecten ervan op de financiële stabiliteit en de interne markt. Hij brengt hierover verslag uit aan het Europees Parlement en de Raad.
 

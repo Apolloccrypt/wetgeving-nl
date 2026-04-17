@@ -1,13 +1,39 @@
 ---
-title: "Regeling beoordelingskader doorstroomtoets PO"
+title: "Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00976, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs (Regeling beoordelingskader doorstroomtoets PO)"
 identifier: "BWBR0047614"
-categorie: "Overig"
-publicatiedatum: 2026-01-06
-laatste_update: 2026-01-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047614"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-06"
+last_updated: "2026-01-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047614"
+soort: "zbo"
+stam_id: "16592293"
+version_id: "29098832"
+internal_id: "C41361231"
+label_id: "16511564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047614/2026-01-06/0"
+intitule_bron: "Stcrt.2022-33368"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-28"
+intitule_published: "2022-12-13"
+intitule_in_force: "2022-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33368"
+original_signed_date: "2022-11-28"
+original_published_date: "2022-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-33368"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047614&z=2026-01-06&g=2026-01-06"
+jci_1_0: "1.0:c:BWBR0047614&g=2026-01-06"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingskader doorstroomtoets PO"
+signed_date: "2022-11-28"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van het College voor toetsen en examens van 28 november 2022, nummer CvTE-22.00976, houdende vaststelling van het beoordelingskader voor de doorstroomtoets in het primair onderwijs (Regeling beoordelingskader doorstroomtoets PO)
 
 Gelet op [artikel 3a, eerste lid, onderdeel g, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
@@ -18,19 +44,19 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel VIII, onderdeel B, van de Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
 
-#### Artikel 1. Beoordelingskader
+##### Artikel 1. Beoordelingskader
 
 Het beoordelingskader voor de doorstroomtoets als bedoeld in [artikel 3a, eerste lid, onderdeel g van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0047614&bijlage=1&z=2026-01-06&g=2026-01-06) van deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 De technische specificaties voor de levering van de gegevens voor de beoordeling van de doorstroomtoetsen staan in het handboek normering en het handboek gezamenlijk anker.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel VIII, onderdeel B, van de Wet van 9 februari 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=VIII) tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beoordelingskader doorstroomtoets PO.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz."
+title: "Wet van 14 december 2000 tot wijziging van de Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Coördinatiewet Sociale Verzekering"
 identifier: "BWBR0011980"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-06-01
-laatste_update: 2007-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011980"
+country: "nl"
+rank: "wet"
+publication_date: "2007-06-01"
+last_updated: "2007-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011980"
+soort: "wet"
+stam_id: "1445863"
+version_id: "2167552"
+internal_id: "C2167551"
+label_id: "1405064"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011980/2007-06-01/0"
+intitule_bron: "Stb.2000-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-14"
+intitule_published: "2000-12-27"
+intitule_in_force: "2000-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2000-551"
+original_signed_date: "2000-12-14"
+original_published_date: "2000-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "27030"
+original_url_id: "stb-2000-551"
+entry_into_force_date: "2000-12-28"
+entry_into_force_dossier: "27030"
+jci_1_3: "jci1.3:c:BWBR0011980&z=2007-06-01&g=2007-06-01"
+jci_1_0: "1.0:c:BWBR0011980&g=2007-06-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz."
+signed_date: "2000-12-14"
+entry_into_force: "2000-12-28"
 ---
-
-# Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz.
+# Wet van 14 december 2000 tot wijziging van de Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, de Wet op de vennootschapsbelasting 1969 en de Coördinatiewet Sociale Verzekering
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,27 +46,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikel I, onderdelen B, C, onder 2 en 3 werken terug tot en met 28 februari 2000.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Gemeentewet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wijzigingswet Natuurschoonwet 1928 enz. (verruiming fiscale faciliteiten ten behoeve van de aanleg van bossen).
 
-#### Artikel VI
+##### Artikel VI
 
 1. Een landgoed dat bestaat uit onroerende zaken die krachtens [artikel 1, tweede lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1) zoals dat luidde op de dag voorafgaande aan het in [artikel X, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011980&artikel=X&z=2007-06-01&g=2007-06-01), bedoelde tijdstip als één onroerende zaak werden aangemerkt, wordt met ingang van een bij koninklijk besluit te bepalen tijdstip niet meer als zodanig aangemerkt.
 
@@ -62,19 +90,19 @@ Wijzigt de Wijzigingswet Natuurschoonwet 1928 enz. (verruiming fiscale facilitei
 
 - b. vindt, eveneens in afwijking van het achtste lid, [artikel 8 van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8) slechts toepassing met betrekking tot het recht verschuldigd wegens schenking ter zake van verkrijgingen in de zin van de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226) tenzij wordt aangetoond dat de verkrijging heeft plaatsgevonden vóór de datum van de koninklijke boodschap, waarbij dit voorstel van wet aan de Tweede Kamer der Staten-Generaal is gezonden, dan wel, ingeval het gaat om een verkrijging ten gevolge van de vervulling van een voorwaarde, wordt aangetoond dat deze zijn oorsprong vindt in een op de genoemde datum reeds bestaande rechtsverhouding.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel X
+##### Artikel X
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
@@ -90,11 +118,11 @@ Wijzigt de Coördinatiewet Sociale Verzekering.
 
 7. Wijzigt deze wet.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet ondernemerspakket 2001.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Invoeringswet Wet inkomstenbelasting 2001.
 

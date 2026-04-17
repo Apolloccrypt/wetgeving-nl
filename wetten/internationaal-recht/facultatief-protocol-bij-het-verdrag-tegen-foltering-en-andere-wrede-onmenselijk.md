@@ -1,13 +1,35 @@
 ---
 title: "Facultatief Protocol bij het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing"
 identifier: "BWBV0004712"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-10-28
-laatste_update: 2010-10-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004712"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-10-28"
+last_updated: "2010-10-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004712"
+soort: "verdrag"
+stam_id: "10004277403"
+version_id: "10004466542"
+internal_id: "C10006994501"
+label_id: "10004262664"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004712/2010-10-28/0"
+intitule_bron: "Trb.2005-243"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2005-10-17"
+intitule_in_force: "2010-11-15"
+intitule_status: "goed"
+original_publication: "Trb.2005-243"
+original_published_date: "2005-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-243"
+entry_into_force_date: "2010-10-28"
+jci_1_3: "jci1.3:c:BWBV0004712&z=2010-10-28&g=2010-10-28"
+jci_1_0: "1.0:c:BWBV0004712&g=2010-10-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-10-28"
 ---
-
 # Facultatief Protocol bij het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing
 
 PREAMBULE
@@ -32,11 +54,11 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 De doelstelling van dit Protocol is een systeem in het leven te roepen van periodieke bezoeken door onafhankelijke internationale en nationale organen aan plaatsen waar personen gedetineerd worden teneinde foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing te voorkomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder het Comité tegen Foltering wordt een Subcomité ter preventie van foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing (hierna te noemen het Subcomité ter Preventie) ingesteld dat de in dit Protocol neergelegde taken zal vervullen.
 
@@ -46,11 +68,11 @@ De doelstelling van dit Protocol is een systeem in het leven te roepen van perio
 
 4. Het Subcomité ter Preventie en de Staten die Partij zijn, werken samen bij de uitvoering van dit Protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen ten behoeve van de voorkoming van foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing in, wijst deze aan of houdt deze in stand (hierna te noemen nationaal preventiemechanisme).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elke Staat die Partij is, staat bezoeken in overeenstemming met dit Protocol, overeenkomstig het stelsel bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=2&z=2010-10-28&g=2010-10-28) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=I&artikel=3&z=2010-10-28&g=2010-10-28) toe aan elke plaats onder zijn rechtsmacht en invloedssfeer waar personen gedetineerd worden of kunnen worden, hetzij uit hoofde van een bevel of op aanstichten van het openbaar gezag of met zijn instemming of berusting (hierna te noemen plaatsen van detentie). Deze bezoeken worden afgelegd met het oogmerk de bescherming van deze personen tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing zo nodig te versterken.
 
@@ -58,7 +80,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 ## DEEL II. SUBCOMITÉ TER PREVENTIE
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Subcomité ter Preventie bestaat uit tien leden. Na de vijftigste bekrachtiging van of toetreding tot dit Protocol, zal het aantal leden van het Subcomité ter Preventie toenemen tot vijfentwintig.
 
@@ -72,7 +94,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 6. De leden van het Subcomité ter Preventie nemen op persoonlijke titel zitting, zijn onafhankelijk, onpartijdig en beschikbaar om op doeltreffende wijze in het Subcomité te fungeren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Staat die Partij is, kan in overeenstemming met het tweede lid van dit artikel ten hoogste twee kandidaten voordragen die beschikken over de kwalificaties en voldoen aan de vereisten omschreven in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2010-10-28&g=2010-10-28), en verstrekt daarbij gedetailleerde informatie over de kwalificaties van de genomineerden.
 
@@ -86,7 +108,7 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 3. Ten minste vijf maanden voor de datum van de vergadering van de Staten die Partij zijn, gedurende welke de verkiezingen zullen worden gehouden, richt de Secretaris-Generaal van de Verenigde Naties een brief aan de Staten die Partij zijn, met de uitnodiging binnen drie maanden hun voordrachten in te zenden. De Secretaris-Generaal legt een alfabetische lijst voor van alle aldus voorgedragen personen onder vermelding van de Staten die Partij zijn, die hen hebben voorgedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leden van het Subcomité ter Preventie worden op de volgende wijze gekozen:
 
@@ -106,15 +128,15 @@ Elke Staat die Partij is, stelt op nationaal niveau een of meer visitatieorganen
 
 - c. Indien geen van de kandidaten is voorgedragen door de Staat die Partij is waarvan hij of zij onderdaan is, wordt een afzonderlijke geheime stemming gehouden teneinde te bepalen welke kandidaat lid wordt.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een lid van het Subcomité ter Preventie overlijdt of terugtreedt, of om enige andere reden zijn of haar taken niet langer kan vervullen, benoemt de Staat die Partij is die het lid had voorgedragen een andere daarvoor in aanmerking komende persoon die beschikt over de kwalificaties en voldoet aan de vereisten vervat in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=5&z=2010-10-28&g=2010-10-28), waarbij rekening wordt gehouden met een goede balans tussen de verschillende competentiegebieden, teneinde de taken te vervullen tot de volgende vergadering van de Staten die Partij zijn, zulks onder voorbehoud van de goedkeuring van de meerderheid van de Staten die Partij zijn. Deze goedkeuring wordt geacht gegeven te zijn, tenzij de helft of meer van de Staten die Partij zijn, binnen zes weken nadat zij door de Secretaris-Generaal van de Verenigde Naties van de voorgestelde benoeming in kennis zijn gesteld, afwijzend reageren.
 
-#### Artikel 9
+##### Artikel 9
 
 De leden van het Subcomité ter Preventie worden gekozen voor een tijdvak van vier jaar. Zij zijn eenmalig herkiesbaar indien zij opnieuw worden voorgedragen. De ambtstermijn van de helft van de bij de eerste verkiezing benoemde leden loopt na twee jaar af; terstond na de eerste verkiezing worden die leden bij loting aangewezen door de voorzitter van de in [artikel 7, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=II&artikel=7&z=2010-10-28&g=2010-10-28), bedoelde vergadering.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Subcomité ter Preventie kiest zijn functionarissen voor een ambtstermijn van twee jaar. Zij zijn herkiesbaar.
 
@@ -130,7 +152,7 @@ De leden van het Subcomité ter Preventie worden gekozen voor een tijdvak van vi
 
 ## DEEL III. MANDAAT VAN HET SUBCOMITÉ TER PREVENTIE
 
-#### Artikel 11
+##### Artikel 11
 
 Het Subcomité ter Preventie zal:
 
@@ -148,7 +170,7 @@ Het Subcomité ter Preventie zal:
 
 - c. ter voorkoming van foltering in het algemeen samenwerken met de desbetreffende organen en mechanismen van de Verenigde Naties alsmede met de internationale, regionale en nationale instellingen of organisaties die zich inzetten voor de versterking van de bescherming van eenieder tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing.
 
-#### Artikel 12
+##### Artikel 12
 
 Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als vervat in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2010-10-28&g=2010-10-28) uit te voeren, verplichten de Staten die Partij zijn, zich:
 
@@ -160,7 +182,7 @@ Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als verva
 
 - d. de aanbevelingen van het Subcomité ter Preventie te bestuderen en er de dialoog mee aan te gaan over mogelijke uitvoeringsmaatregelen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Subcomité ter Preventie stelt, in eerste instantie bij loting, een programma op van periodieke bezoeken aan Staten die Partij zijn, teneinde zijn mandaat als vastgesteld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&artikel=11&z=2010-10-28&g=2010-10-28) uit te voeren.
 
@@ -170,7 +192,7 @@ Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als verva
 
 4. Indien het Subcomité ter Preventie zulks dienstig acht, kan het na een regulier bezoek een kort vervolgbezoek voorstellen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat uit te voeren, verplichten alle Staten die Partij zijn, zich het Subcomité:
 
@@ -186,11 +208,11 @@ Teneinde het Subcomité ter Preventie in staat te stellen zijn mandaat als verva
 
 2. Tegen een bezoek aan een specifieke plaats van detentie kan uitsluitend bezwaar worden gemaakt op dringende en zwaarwegende gronden van nationale defensie, openbare veiligheid, natuurrampen of ernstige ongeregeldheden op de te bezoeken plaats die het afleggen van het bezoek tijdelijk beletten. Het bestaan van een uitgeroepen noodtoestand als zodanig mag door een Staat die Partij is niet worden ingeroepen als reden om bezwaar te maken tegen een bezoek.
 
-#### Artikel 15
+##### Artikel 15
 
 Autoriteiten of functionarissen geven geen opdracht tot, verzoek om of toestemming voor sancties tegen een persoon of organisatie die het Subcomité ter Preventie of zijn afgevaardigden informatie heeft doen toekomen, ongeacht of deze op waarheid berust of niet, noch tolereren deze. Dergelijke personen of organisaties mogen op geen enkele andere wijze worden benadeeld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het Subcomité ter Preventie doet zijn aanbevelingen en opmerkingen op basis van vertrouwelijkheid toekomen aan de Staat die Partij is en indien van toepassing aan het nationale preventiemechanisme.
 
@@ -202,11 +224,11 @@ Autoriteiten of functionarissen geven geen opdracht tot, verzoek om of toestemmi
 
 ## DEEL IV. NATIONALE PREVENTIEMECHANISMEN
 
-#### Artikel 17
+##### Artikel 17
 
 Elke Staat die Partij is, zal uiterlijk een jaar na de inwerkingtreding of bekrachtiging van dit Protocol, dan wel de toetreding ertoe één of meer onafhankelijke nationale preventiemechanismen onderhouden, aanwijzen of oprichten ter voorkoming van foltering op nationaal niveau. Ten behoeve van de uitvoering van dit Protocol kunnen door gedecentraliseerde eenheden opgerichte mechanismen worden aangewezen als nationale preventiemechanismen, indien zij voldoen aan de bepalingen ervan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Staten die Partij zijn, waarborgen de functionele onafhankelijkheid van de nationale preventiemechanismen bij de uitoefening van hun taken, alsmede de onafhankelijkheid van hun personeel.
 
@@ -216,7 +238,7 @@ Elke Staat die Partij is, zal uiterlijk een jaar na de inwerkingtreding of bekra
 
 4. Bij het instellen van nationale preventiemechanismen houden de Staten die Partij zijn, naar behoren rekening met de Beginselen met betrekking tot de status van nationale instellingen voor de bevordering en bescherming van mensenrechten.
 
-#### Artikel 19
+##### Artikel 19
 
 De nationale preventiemechanismen krijgen ten minste de bevoegdheid:
 
@@ -226,7 +248,7 @@ De nationale preventiemechanismen krijgen ten minste de bevoegdheid:
 
 - c. voorstellen en opmerkingen in te dienen betreffende bestaande of ontwerpwetgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 Teneinde de nationale preventiemechanismen in staat te stellen hun mandaat uit te voeren, verplichten alle Staten die Partij zijn bij dit Protocol, zich hun:
 
@@ -242,23 +264,23 @@ Teneinde de nationale preventiemechanismen in staat te stellen hun mandaat uit t
 
 - f. het recht contact te onderhouden met het Subcomité ter Preventie, het informatie toe te zenden en ermee bijeen te komen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Autoriteiten of functionarissen geven geen opdracht tot, verzoek om of toestemming voor sancties tegen een persoon of organisatie die het nationale preventiemechanisme informatie heeft doen toekomen, ongeacht of deze op waarheid berust of niet, noch tolereren deze. Dergelijke personen of organisaties mogen op geen enkele andere wijze worden benadeeld.
 
 2. Door het nationale preventiemechanisme verzamelde vertrouwelijke informatie wordt vertrouwelijk behandeld. Persoonsgegevens mogen niet gepubliceerd worden zonder de uitdrukkelijke toestemming van de betrokkene.
 
-#### Artikel 22
+##### Artikel 22
 
 De bevoegde autoriteiten van de betrokken Staat die Partij is, bestuderen de aanbevelingen van het nationale preventiemechanisme en gaan er de dialoog mee aan over mogelijke uitvoeringsmaatregelen.
 
-#### Artikel 23
+##### Artikel 23
 
 De Staten die Partij zijn bij dit Protocol, verplichten zich de jaarverslagen van de nationale preventiemechanismen te publiceren en te verspreiden.
 
 ## DEEL V. VERKLARING
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bij de bekrachtiging kunnen de Staten die Partij zijn, verklaren dat zij de uitvoering van hun verplichtingen uit hoofde van [deel III](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=III&z=2010-10-28&g=2010-10-28) of [deel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0004712&deel=IV&z=2010-10-28&g=2010-10-28) van dit Protocol opschorten.
 
@@ -266,13 +288,13 @@ De Staten die Partij zijn bij dit Protocol, verplichten zich de jaarverslagen va
 
 ## DEEL VI. FINANCIËLE BEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 1. De door het Subcomité ter Preventie gemaakte kosten ter uitvoering van dit Protocol worden gedragen door de Verenigde Naties.
 
 2. De Secretaris-Generaal van de Verenigde Naties stelt de benodigde personeelsleden en voorzieningen ter beschikking ten behoeve van de doeltreffende uitvoering van de taken van het Subcomité ter Preventie uit hoofde van dit Protocol.
 
-#### Artikel 26
+##### Artikel 26
 
 1. In overeenstemming met de desbetreffende procedures van de Algemene Vergadering wordt een Speciaal Fonds ingesteld dat beheerd wordt overeenkomstig de financiële voorschriften en regels van de Verenigde Naties, teneinde de implementatie van de aanbevelingen gedaan door het Subcomité ter Preventie na een bezoek aan een Staat die Partij is alsmede voorlichtingsprogramma’s van de nationale preventiemechanismen te helpen financieren.
 
@@ -280,7 +302,7 @@ De Staten die Partij zijn bij dit Protocol, verplichten zich de jaarverslagen va
 
 ## DEEL VII. SLOTBEPALINGEN
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Protocol staat open voor ondertekening door elke Staat die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002507) heeft ondertekend.
 
@@ -292,29 +314,29 @@ De Staten die Partij zijn bij dit Protocol, verplichten zich de jaarverslagen va
 
 5. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die dit Protocol hebben ondertekend of ertoe zijn toegetreden in kennis van de nederlegging van elke akte van bekrachtiging of toetreding.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Dit Protocol treedt in werking op de dertigste dag na de datum van nederlegging van de twintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Voor iedere Staat die dit Protocol bekrachtigt of ertoe toetreedt na de nederlegging bij de Secretaris-Generaal van de Verenigde Naties van de twintigste akte van bekrachtiging of toetreding, treedt dit Protocol in werking op de dertigste dag na de datum van de nederlegging van zijn eigen akte van bekrachtiging of toetreding.
 
-#### Artikel 29
+##### Artikel 29
 
 De bepalingen van dit Protocol strekken zich zonder beperking of uitzondering uit tot alle delen van federale Staten.
 
-#### Artikel 30
+##### Artikel 30
 
 Bij dit Protocol wordt geen voorbehoud gemaakt.
 
-#### Artikel 31
+##### Artikel 31
 
 De bepalingen van dit Protocol laten de verplichtingen van de Staten die Partij zijn, uit hoofde van regionale verdragen waarbij een stelsel van bezoeken aan plaatsen van detentie wordt ingesteld onverlet. Het Subcomité ter Preventie en de organen die uit hoofde van dergelijke regionale verdragen zijn ingesteld worden aangemoedigd met elkaar te overleggen en samen te werken teneinde dubbel werk te voorkomen en de doelstellingen van dit Protocol doeltreffend te bevorderen.
 
-#### Artikel 32
+##### Artikel 32
 
 De bepalingen van dit Protocol laten de verplichtingen van Staten die Partij zijn, bij de vier verdragen van Genève van 12 augustus 1949 en de aanvullende protocollen daarbij van 8 juni 1977 onverlet evenals de mogelijkheid waarover elke Staat die Partij is beschikt, het Internationale Rode Kruis te machtigen plaatsen van detentie te bezoeken in situaties waarop het internationale humanitaire recht niet van toepassing is.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Iedere Staat die Partij is, kan dit Protocol te allen tijde opzeggen door een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties, die vervolgens de andere Staten die Partij zijn bij dit Protocol en het Verdrag, in kennis stelt. De opzegging wordt van kracht één jaar na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
@@ -322,7 +344,7 @@ De bepalingen van dit Protocol laten de verplichtingen van Staten die Partij zij
 
 3. Na de datum waarop de opzegging door de Staat die Partij is van kracht wordt, neemt het Subcomité ter Preventie geen nieuwe aangelegenheden die verband houden met die Staat in behandeling.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Elke Staat die Partij is, kan een wijziging van dit Protocol voorstellen en indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt de voorgestelde wijziging vervolgens mede aan de Staten die Partij zijn bij dit Protocol, met het verzoek hem te berichten of zij een conferentie van Staten die Partij zijn, verlangen teneinde het voorstel te bestuderen en in stemming te brengen. Indien, binnen vier maanden na de datum van deze mededeling, ten minste een derde van de Staten die Partij zijn, een dergelijke conferentie verlangt, roept de Secretaris-Generaal de vergadering onder auspiciën van de Verenigde Naties bijeen. Iedere wijziging die wordt aangenomen door een meerderheid van twee derde van de aanwezige Staten die Partij zijn, en tijdens de conferentie hun stem uitbrengen, wordt ter aanvaarding voorgelegd door de Secretaris-Generaal van de Verenigde Naties aan alle Staten die Partij zijn.
 
@@ -330,11 +352,11 @@ De bepalingen van dit Protocol laten de verplichtingen van Staten die Partij zij
 
 3. Wanneer wijzigingen van kracht worden, zijn ze bindend voor de Staten die Partij zijn die de wijzigingen hebben aanvaard; andere Staten die Partij zijn, blijven gebonden door de bepalingen van dit Protocol en eventuele eerdere wijzigingen die zij hebben aanvaard.
 
-#### Artikel 35
+##### Artikel 35
 
 Aan de leden van het Subcomité ter Preventie en van de nationale preventiemechanismen worden de immuniteiten en voorrechten toegekend die nodig zijn teneinde hun taken op onafhankelijke wijze te kunnen vervullen. Aan de leden van het Subcomité ter Preventie worden de voorrechten en immuniteiten omschreven in artikel 22 van het Verdrag nopens de voorrechten en immuniteiten van de Verenigde Naties van 13 februari 1946 toegekend met inachtneming van de bepalingen van artikel 23 van dat Verdrag.
 
-#### Artikel 36
+##### Artikel 36
 
 Bij het bezoeken van een Staat die Partij is, zullen de leden van het Subcomité ter Preventie onverminderd de bepalingen en doelstellingen van dit Protocol en de voorrechten en immuniteiten die zij genieten:
 
@@ -342,7 +364,7 @@ Bij het bezoeken van een Staat die Partij is, zullen de leden van het Subcomité
 
 - b. zich onthouden van gedragingen of activiteiten die onverenigbaar zijn met het onpartijdige en internationale karakter van hun taken.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

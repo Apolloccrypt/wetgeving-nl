@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES"
+title: "Besluit van 13 februari 2015, houdende regels omtrent de verstrekking van tijdelijke bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie (Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES)"
 identifier: "BWBR0036411"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-12-09
-laatste_update: 2017-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036411"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2017-12-09"
+last_updated: "2017-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036411"
+soort: "AMvB-BES"
+stam_id: "13010673"
+version_id: "22231772"
+internal_id: "C31875781"
+label_id: "12979494"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036411/2017-12-09/0"
+intitule_bron: "Stb.2015-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-13"
+intitule_published: "2015-03-17"
+intitule_in_force: "2015-03-17"
+intitule_status: "goed"
+original_publication: "Stb.2015-107"
+original_signed_date: "2015-02-13"
+original_published_date: "2015-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-107"
+entry_into_force_date: "2015-03-18"
+jci_1_3: "jci1.3:c:BWBR0036411&z=2017-12-09&g=2017-12-09"
+jci_1_0: "1.0:c:BWBR0036411&g=2017-12-09"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES"
+signed_date: "2015-02-13"
+entry_into_force: "2015-03-18"
 ---
-
 # Besluit van 13 februari 2015, houdende regels omtrent de verstrekking van tijdelijke bijzondere uitkeringen aan de openbare lichamen Bonaire, Sint Eustatius en Saba voor het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie (Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, Onze Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, Onze Minister voor Wonen en Rijksdienst en Onze Minister van Veiligheid en Justitie van 2 oktober 2014, nr. 2014-0000526780;
@@ -20,7 +46,7 @@ Gelet op [artikel 92, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028151
 
 Hebben goed gevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In dit besluit wordt verstaan onder:
 
 - –. **wet:** [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151).
 
-#### Artikel 2. Verstrekking en doel bijzondere uitkering integrale projecten
+##### Artikel 2. Verstrekking en doel bijzondere uitkering integrale projecten
 
 Onze Minister kan over de kalenderjaren 2014 tot en met 2019 bijzondere uitkeringen verstrekken aan een openbaar lichaam voor integrale projecten die uitsluitend ten doel hebben het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie op het beleidsterrein van de arbeidsmarkt, kinderopvang, armoede- en schuldenproblematiek, onderwijs, integrale wijkenaanpak, zorg, sport en jeugd.
 
-#### Artikel 3. Aanvragen bijzondere uitkering
+##### Artikel 3. Aanvragen bijzondere uitkering
 
 1. De aanvraag voor één of meerdere bijzondere uitkeringen wordt door een bestuurscollege van een openbaar lichaam gedaan aan Onze Minister van Sociale Zaken en Werkgelegenheid, middels een door die Minister te verstrekken formulier.
 
@@ -44,17 +70,17 @@ Onze Minister kan over de kalenderjaren 2014 tot en met 2019 bijzondere uitkerin
 
 4. Onze Minister van Sociale Zaken en Werkgelegenheid beslist, in overeenstemming met Onze Minister, Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister voor Wonen en Rijksdienst, op de aanvraag.
 
-#### Artikel 4. Totale bijdrage
+##### Artikel 4. Totale bijdrage
 
 Het jaarlijkse totale bedrag voor bijzondere uitkeringen wordt per kalenderjaar bij ministeriële regeling vastgesteld.
 
-#### Artikel 5. Verstrekking en vaststelling
+##### Artikel 5. Verstrekking en vaststelling
 
 1. Onze Minister verstrekt de bijzondere uitkering aan een openbaar lichaam zo spoedig mogelijk na de beslissing, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036411&artikel=3&z=2017-12-09&g=2017-12-09).
 
 2. Onze Minister stelt de bijzondere uitkering uiterlijk vast in het derde jaar dat volgt op het jaar waarin de bijzondere uitkering is aangevraagd.
 
-#### Artikel 6. Besteding en terugvordering van de bijzondere uitkering
+##### Artikel 6. Besteding en terugvordering van de bijzondere uitkering
 
 1. Een openbaar lichaam besteedt een bijzondere uitkering:
 
@@ -66,15 +92,15 @@ Het jaarlijkse totale bedrag voor bijzondere uitkeringen wordt per kalenderjaar 
 
 3. Indien een bijzondere uitkering niet is besteed op de wijze, bedoeld in het eerste of tweede lid, dan vordert Onze Minister het deel terug dat niet uitsluitend, respectievelijk niet volledig is besteed aan de integrale projecten waarvoor het is verstrekt.
 
-#### Artikel 7. Informatievoorziening
+##### Artikel 7. Informatievoorziening
 
 Een openbaar lichaam verstrekt desgevraagd aan Onze Minister de gegevens die voor de statistiek, beleidsvorming en het monitoren van de voortgang van de integrale projecten nodig zijn. De gegevens worden kosteloos verstrekt.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2014.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk Besluit bijzondere uitkeringen integrale projecten BES.
 

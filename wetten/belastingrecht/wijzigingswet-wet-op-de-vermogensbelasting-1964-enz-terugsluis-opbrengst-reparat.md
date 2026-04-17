@@ -1,13 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de vermogensbelasting 1964, enz. (terugsluis opbrengst reparatiewetsvoorstel-btw)"
+title: "Wet in 18 december 1995 tot wijziging van de Wet op de vermogensbelasting 1964, de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (terugsluis opbrengst reparatiewetsvoorstel-btw)"
 identifier: "BWBR0007757"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-09-01
-laatste_update: 1998-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007757"
+country: "nl"
+rank: "wet"
+publication_date: "1998-09-01"
+last_updated: "1998-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007757"
+soort: "wet"
+stam_id: "547453"
+version_id: "799472"
+internal_id: "C799471"
+label_id: "531484"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007757/1998-09-01/0"
+intitule_bron: "Stb.1995-660"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-18"
+intitule_published: "1995-12-28"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.1995-660"
+original_signed_date: "1995-12-18"
+original_published_date: "1995-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "24428"
+original_url_id: "stb-1995-660"
+entry_into_force_date: "1996-01-01"
+entry_into_force_dossier: "24428"
+jci_1_3: "jci1.3:c:BWBR0007757&z=1998-09-01&g=1998-09-01"
+jci_1_0: "1.0:c:BWBR0007757&g=1998-09-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de vermogensbelasting 1964, enz. (terugsluis opbrengst reparatiewetsvoorstel-btw)"
+signed_date: "1995-12-18"
+entry_into_force: "1996-01-01"
 ---
-
 # Wet in 18 december 1995 tot wijziging van de Wet op de vermogensbelasting 1964, de Wet op de omzetbelasting 1968, de Wet op belastingen van rechtsverkeer, de Wet op de vennootschapsbelasting 1969 en de Invorderingswet 1990 (terugsluis opbrengst reparatiewetsvoorstel-btw)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -16,23 +44,23 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treff
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelingen.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Indien het bij koninklijke boodschap van 14 september 1995 ingediende voorstel van wet tot wijziging van de inkomstenbelasting en de vennootschapsbelasting in verband met de invoering van een regulerende energiebelasting (Kamerstukken II 1994/95, 24 344, nrs. 1-2) tot wet wordt verheven en met ingang van 1 januari 1996 in werking treedt, vervallen daarvan de [artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=IV&z=1998-09-01&g=1998-09-01) tot en met [IX](https://wetten.overheid.nl/jci1.3:c:BWBR0007757&artikel=IX&z=1998-09-01&g=1998-09-01), vervalt artikel IV van de onderhavige wet, wordt [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22) als volgt gewijzigd en wordt de vennootschapsbelasting over een gebroken boekjaar als volgt berekend.
 
@@ -64,15 +92,15 @@ G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag.
 
 - F. De vennootschapsbelasting over een boekjaar dat voor 1 januari 1998 begint en op of na die datum eindigt wordt, in afwijking in zoverre van [artikel 22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de volgende formule: belasting = (X/B * To * G) + (Y/B * Tn * G), waarin X voorstelt: het aantal voor 1 januari 1998 vallende dagen van het boekjaar; Y voorstelt: het aantal op of na 1 januari 1998 vallende dagen van het boekjaar; B voorstelt: het totale aantal dagen van het boekjaar; To voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief voor 1 januari 1998 van toepassing is; Tn voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief met ingang van 1 januari 1998 van toepassing is; G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelingen.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De omzetbelasting die na de inwerkingtreding van deze wet verschuldigd wordt ter zake van leveringen en diensten die worden verricht vóór deze inwerkingtreding, wordt berekend naar het tarief dat geldt op het tijdstip waarop de levering of de dienst wordt verricht.
 
@@ -80,7 +108,7 @@ Bevat wijzigingen in andere regelingen.
 
 3. De ondernemer aan wie de in het tweede lid bedoelde credit-factuur is uitgereikt, wordt het op deze factuur vermelde bedrag als belasting verschuldigd op het tijdstip waarop die factuur is uitgereikt, voor zover deze ondernemer ter zake van de desbetreffende leveringen en diensten recht heeft op aftrek van voorbelasting op de voet van [artikel 15 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15).
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze wet treedt in werking met ingang van de dag waarop het bij koninklijke boodschap van 24 mei 1995 ingediende voorstel van wet tot wijziging van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), de [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740) en enkele andere belastingwetten in verband met de bestrijding van constructies met betrekking tot onroerende zaken (Kamerstukken II 1994/95, 24 172, nrs. 1-2) tot wet wordt verheven en in werking treedt, dan wel zo dit tijdstip vóór 1 januari 1996 zou liggen met ingang van 1 januari 1996.
 

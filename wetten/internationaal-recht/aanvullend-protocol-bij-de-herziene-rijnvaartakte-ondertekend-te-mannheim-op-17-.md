@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij de Herziene Rijnvaartakte ondertekend te Mannheim op 17 oktober 1868"
 identifier: "BWBV0003383"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-02-27
-laatste_update: 1975-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003383"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-02-27"
+last_updated: "1975-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003383"
+soort: "verdrag"
+stam_id: "10003508223"
+version_id: "10003555292"
+internal_id: "C10006999151"
+label_id: "10003493614"
+dtd_version: "2.0"
+original_entry_into_force: "1975-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003383/1975-02-27/0"
+intitule_bron: "Trb.1973-21"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-02-13"
+intitule_in_force: "1975-04-14"
+intitule_status: "goed"
+original_publication: "Trb.1973-21"
+original_published_date: "1973-02-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-21"
+entry_into_force_date: "1975-02-27"
+jci_1_3: "jci1.3:c:BWBV0003383&z=1975-02-27&g=1975-02-27"
+jci_1_0: "1.0:c:BWBV0003383&g=1975-02-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-02-27"
 ---
-
 # Aanvullend Protocol bij de Herziene Rijnvaartakte ondertekend te Mannheim op 17 oktober 1868
 
 De Bondsrepubliek Duitsland,
@@ -30,7 +52,7 @@ dat het op 18 september 1895 te Mannheim ondertekende Aanvullend Protocol bij de
 
 zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Elke Verdragsluitende Staat draagt er zorg voor dat de sancties terzake van de in [artikel 32 van de Akte](https://wetten.overheid.nl/jci1.3:c:BWBV0003363&artikel=32) bedoelde overtredingen worden opgelegd:
 
@@ -54,15 +76,15 @@ zijn als volgt overeengekomen:
 
 5. De voor tenuitvoerlegging vatbare beslissingen in de in het eerste lid onder b bedoelde procedures hebben dezelfde rechtskracht als de vonnissen en andere uitspraken van de Rijnvaartrechtbanken. Zij worden in de andere Verdragsluitende Staten ten uitvoer gelegd door de autoriteiten die belast zijn met de tenuitvoerlegging van vonnissen van de Rijnvaartrechtbanken.
 
-#### Artikel II
+##### Artikel II
 
 De Verdragsluitende Staten doen elkander, door tussenkomst van de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart, mededeling van de wettelijke bepalingen of andere voorschriften welke tot stand zijn gebracht ter toepassing van dit Protocol.
 
-#### Artikel III
+##### Artikel III
 
 Het Aanvullend Protocol bij de Herziene Rijnvaartakte van 17 oktober 1868, ondertekend te Mannheim op 18 september 1895, vervalt op het tijdstip van inwerkingtreding van dit Aanvullend Protocol.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit Aanvullend Protocol dient te worden bekrachtigd.
 
@@ -70,11 +92,11 @@ De Akten van bekrachtiging worden nedergelegd bij het Secretariaat van de Centra
 
 De Secretaris-Generaal maakt een proces-verbaal van de nederlegging der akten van bekrachtiging op; hij zendt aan iedere ondertekenende Staat een voor eensluidend gewaarmerkt afschrift van de akten van bekrachtiging, alsmede van het proces-verbaal van de nederlegging.
 
-#### Artikel V
+##### Artikel V
 
 Dit Aanvullend Protocol treedt in werking op de dag na de nederlegging van de zesde Akte van bekrachtiging bij het Secretariaat van de Centrale Commissie, dat de andere ondertekenende Staten hiervan in kennis zal stellen.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit Aanvullend Protocol, opgesteld in een enkel exemplaar in de Duitse, de Franse en de Nederlandse taal, wordt bewaard in het archief van de Centrale Commissie; in geval van verschil is de Franse tekst doorslaggevend.
 

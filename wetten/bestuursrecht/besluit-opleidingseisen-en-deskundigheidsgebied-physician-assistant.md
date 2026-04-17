@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied physician assistant"
+title: "Besluit van 19 april 2018, houdende regels inzake de opleiding tot en de deskundigheid van de physician assistant en wijziging van enkele daarmee samenhangende besluiten (Besluit opleidingseisen en deskundigheidsgebied physician assistant)"
 identifier: "BWBR0040886"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040886"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040886"
+soort: "AMvB"
+stam_id: "14607293"
+version_id: "25010392"
+internal_id: "C35772831"
+label_id: "14561004"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040886/2023-01-01/0"
+intitule_bron: "Stb.2018-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-19"
+intitule_published: "2018-05-11"
+intitule_in_force: "2018-05-11"
+intitule_status: "goed"
+original_publication: "Stb.2018-130"
+original_signed_date: "2018-04-19"
+original_published_date: "2018-05-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-130"
+entry_into_force_date: "2018-05-15"
+jci_1_3: "jci1.3:c:BWBR0040886&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0040886&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied physician assistant"
+signed_date: "2018-04-19"
+entry_into_force: "2018-05-15"
 ---
-
 # Besluit van 19 april 2018, houdende regels inzake de opleiding tot en de deskundigheid van de physician assistant en wijziging van enkele daarmee samenhangende besluiten (Besluit opleidingseisen en deskundigheidsgebied physician assistant)
 
 Op de voordracht van Onze Minister voor Medische Zorg van 19 februari 2018, kenmerk 1298944-173614-WJZ;
@@ -30,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Opleiding
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister kan voor de inwerkingtreding van artikel I, onderdeel B, van de Wet van 4 oktober 2017, houdende wijziging van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) in verband met het opnemen van de physician assistant in de lijst van registerberoepen, het toekennen van zelfstandige bevoegdheid voor bepaalde voorbehouden handelingen aan physician assistants en verpleegkundig specialisten en het opnemen van de mogelijkheid tot het instellen van een tijdelijk register voor experimenteerberoepen (Stb. 2017, 374) reeds besluiten op aanvragen tot inschrijving in het register voor physician assistants. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel I, onderdeel B, als bedoeld in de eerste volzin.
 
@@ -38,15 +64,15 @@ Hebben goedgevonden en verstaan:
 
 #### § 6. Overige bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), treedt in werking op 15 mei 2018.
 
@@ -54,7 +80,7 @@ Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
 3. Artikel I, onderdelen A, B, C, D, F, G en H van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) in verband met het opnemen van de physician assistant in de lijst van registerberoepen, het toekennen van zelfstandige bevoegdheid voor bepaalde voorbehouden handelingen aan physician assistants en verpleegkundig specialisten en het opnemen van de mogelijkheid tot het instellen van een tijdelijk register voor experimenteerberoepen (Stb. 2017, 374), treden in werking op 1 september 2018.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 
@@ -62,7 +88,7 @@ Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -72,11 +98,11 @@ In dit besluit wordt verstaan onder:
 
 - c. **Onze Minister:** de Minister voor Medische Zorg.
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van physician assistants te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een opleiding voor physician assistant heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), heeft een studielast van 150 studiepunten, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040886&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), ter zake van:
 
@@ -94,7 +120,7 @@ De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - g. professionaliteit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De competentie medische deskundigheid omvat de bekwaamheid om:
 
@@ -170,7 +196,7 @@ De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 #### § 4. Deskundigheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot het gebied van deskundigheid van de physician assistant wordt gerekend het verrichten van handelingen op het deelgebied van de geneeskunst waarbinnen de physician assistant is opgeleid. Deze handelingen omvatten het onderzoeken, behandelen en begeleiden van patiënten met veel voorkomende aandoeningen binnen dat deelgebied van de geneeskunst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Inschrijving geprivilegieerden in de GBA"
 identifier: "BWBR0013983"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-09-01
-laatste_update: 2002-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013983"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-09-01"
+last_updated: "2002-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013983"
+soort: "circulaire"
+stam_id: "6388273"
+version_id: "11048902"
+internal_id: "C14951461"
+label_id: "6377284"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013983/2002-09-01/0"
+intitule_bron: "Stcrt.2002-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-08-23"
+intitule_published: "2002-08-27"
+intitule_in_force: "2002-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-163"
+original_signed_date: "2002-08-23"
+original_published_date: "2002-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-163-p6-SC36036"
+entry_into_force_date: "2002-09-01"
+jci_1_3: "jci1.3:c:BWBR0013983&z=2002-09-01&g=2002-09-01"
+jci_1_0: "1.0:c:BWBR0013983&g=2002-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-08-23"
+entry_into_force: "2002-09-01"
 ---
-
 # Inschrijving geprivilegieerden in de GBA
 
 Aan: College van Burgemeesters en Wethouders

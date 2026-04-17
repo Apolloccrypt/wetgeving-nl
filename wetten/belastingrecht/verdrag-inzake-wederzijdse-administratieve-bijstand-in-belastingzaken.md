@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake wederzijdse administratieve bijstand in belastingzaken"
 identifier: "BWBV0005131"
-categorie: "Belastingrecht"
-publicatiedatum: 2013-09-01
-laatste_update: 2013-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005131"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-09-01"
+last_updated: "2013-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005131"
+soort: "verdrag"
+stam_id: "10004480973"
+version_id: "10004694562"
+internal_id: "C10006933721"
+label_id: "10004466484"
+dtd_version: "2.0"
+original_entry_into_force: "1997-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005131/2013-09-01/0"
+intitule_bron: "Trb.1991-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-15"
+intitule_published: "1991-01-07"
+intitule_in_force: "1997-01-16"
+intitule_status: "goed"
+original_publication: "Trb.1991-4"
+original_signed_date: "1996-10-15"
+original_published_date: "1991-01-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-4"
+entry_into_force_date: "1997-02-01"
+jci_1_3: "jci1.3:c:BWBV0005131&z=2013-09-01&g=2013-09-01"
+jci_1_0: "1.0:c:BWBV0005131&g=2013-09-01"
+citeertitel_status: "officieel"
+signed_date: "1996-10-15"
+entry_into_force: "1997-02-01"
 ---
-
 # Verdrag inzake wederzijdse administratieve bijstand in belastingzaken
 
 De lidstaten van de Raad van Europa en de lidstaten van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) die dit Verdrag hebben ondertekend,
@@ -32,7 +57,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. WERKINGSSFEER VAN HET VERDRAG
 
-#### Artikel 1. Doel van het Verdrag en personen op wie het van toepassing is
+##### Artikel 1. Doel van het Verdrag en personen op wie het van toepassing is
 
 1. De Partijen verlenen elkaar, behoudens de bepalingen van Hoofdstuk IV, administratieve bijstand in fiscale aangelegenheden. Deze bijstand kan, indien van toepassing, door rechterlijke instanties genomen maatregelen omvatten.
 
@@ -46,7 +71,7 @@ Zijn het volgende overeengekomen:
 
 3. Een Partij verleent administratieve bijstand ongeacht of de betrokkene een inwoner of onderdaan van een Partij of van een andere Staat is.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op:
 
@@ -90,7 +115,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK II. ALGEMENE BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt, tenzij het zinsverband anders vereist, verstaan onder:
 
@@ -118,7 +143,7 @@ Voor iedere Partij die een daartoe strekkende verklaring heeft afgelegd, worden 
 
 ## Deel I. Uitwisseling van inlichtingen
 
-#### Artikel 4. Algemene bepaling
+##### Artikel 4. Algemene bepaling
 
 1. De Partijen wisselen alle inlichtingen uit, met name zoals voorzien in dit deel, die naar verwachting van belang zijn voor de toepassing of handhaving van hun nationale wetten ter zake van de belastingen waarop dit Verdrag van toepassing is.
 
@@ -126,17 +151,17 @@ Voor iedere Partij die een daartoe strekkende verklaring heeft afgelegd, worden 
 
 3. Iedere Partij kan, door middel van een aan een van de Depositarissen gerichte verklaring, te kennen geven dat haar autoriteiten volgens haar nationale wetgeving haar inwoner of onderdaan in kennis kunnen stellen alvorens hem betreffende inlichtingen te verstrekken, in overeenstemming met de artikelen 5 en 7.
 
-#### Artikel 5. Uitwisseling van inlichtingen op verzoek
+##### Artikel 5. Uitwisseling van inlichtingen op verzoek
 
 1. Op verzoek van de verzoekende Staat verstrekt de aangezochte Staat aan de verzoekende Staat alle in artikel 4 bedoelde inlichtingen die betrekking hebben op bepaalde personen of transacties.
 
 2. Indien de inlichtingen die voorhanden zijn in de belastingdossiers van de aangezochte Staat niet voldoende zijn om deze in staat te stellen aan het verzoek om inlichtingen te voldoen, neemt die Staat alle passende maatregelen om de verzoekende Staat de gevraagde inlichtingen te verstrekken.
 
-#### Artikel 6. Automatische uitwisseling van inlichtingen
+##### Artikel 6. Automatische uitwisseling van inlichtingen
 
 Ten aanzien van categorieën van gevallen en in overeenstemming met procedures die zij in onderlinge overeenstemming vaststellen, wisselen twee of meer Partijen automatisch de in artikel 4 bedoelde inlichtingen uit.
 
-#### Artikel 7. Spontane uitwisseling van inlichtingen
+##### Artikel 7. Spontane uitwisseling van inlichtingen
 
 1. Een Partij verstrekt een andere Partij zonder voorafgaand verzoek inlichtingen waarover zij beschikt in de volgende situaties:
 
@@ -152,13 +177,13 @@ Ten aanzien van categorieën van gevallen en in overeenstemming met procedures d
 
 2. Elke Partij neemt de maatregelen en legt de procedures ten uitvoer die noodzakelijk zijn om te verzekeren dat de in het eerste lid beschreven inlichtingen beschikbaar worden gesteld om aan een andere Partij te worden toegezonden.
 
-#### Artikel 8. Gelijktijdige boekenonderzoeken
+##### Artikel 8. Gelijktijdige boekenonderzoeken
 
 1. Op verzoek van één van hen plegen twee of meer Partijen onderling overleg ten einde te bepalen welke gevallen worden onderworpen aan en procedures vast te stellen voor gelijktijdige boekenonderzoeken. Elke betrokken Partij beslist per geval of zij al dan niet deelneemt aan een gelijktijdig boekenonderzoek.
 
 2. Voor de toepassing van dit Verdrag wordt onder een gelijktijdig boekenonderzoek verstaan een regeling tussen twee of meer Partijen om gelijktijdig, elke Partij op haar eigen grondgebied, de fiscale aangelegenheden van een persoon of personen te onderzoeken waarbij zij een gemeenschappelijk belang of verwante belangen hebben, ten einde alle van belang zijnde inlichtingen die zij aldus verkrijgen, uit te wisselen.
 
-#### Artikel 9. Boekenonderzoeken in het buitenland
+##### Artikel 9. Boekenonderzoeken in het buitenland
 
 1. Op verzoek van de bevoegde autoriteit van de verzoekende Staat kan de bevoegde autoriteit van de aangezochte Staat vertegenwoordigers van de bevoegde autoriteit van de verzoekende Staat toestaan aanwezig te zijn bij het voor die Staat van belang zijnde gedeelte van een boekenonderzoek in de aangezochte Staat.
 
@@ -166,13 +191,13 @@ Ten aanzien van categorieën van gevallen en in overeenstemming met procedures d
 
 3. Een Partij kan de Depositarissen haar voornemen mededelen verzoeken zoals bedoeld in het eerste lid in de regel niet te aanvaarden. Een zodanige verklaring kan te allen tijde worden afgelegd of ingetrokken.
 
-#### Artikel 10. Tegenstrijdige inlichtingen
+##### Artikel 10. Tegenstrijdige inlichtingen
 
 Indien een Partij van een andere Partij inlichtingen over de belastingzaken van een persoon ontvangt die klaarblijkelijk in strijd zijn met inlichtingen waarover zij beschikt, deelt zij dit mede aan de Partij die de inlichtingen heeft verstrekt.
 
 ## Deel II. Bijstand bij invordering
 
-#### Artikel 11. De invordering van verschuldigde belasting
+##### Artikel 11. De invordering van verschuldigde belasting
 
 1. Op verzoek van de verzoekende Staat onderneemt de aangezochte Staat, behoudens de bepalingen van de artikelen 14 en 15, de nodige stappen om verschuldigde belasting van de eerstbedoelde Staat in te vorderen alsof het aan hemzelf verschuldigde belasting betrof.
 
@@ -182,11 +207,11 @@ Indien de vordering echter een persoon betreft die geen inwoner van de verzoeken
 
 3. De verplichting om bijstand te verlenen bij het invorderen van verschuldigde belasting betreffende een overledene of zijn nalatenschap is beperkt tot de waarde van de nalatenschap of van de goederen verkregen door iedere begunstigde van de nalatenschap, afhankelijk van de vraag of de verschuldigde belasting dient te worden ingevorderd uit de nalatenschap of bij de erfgenamen.
 
-#### Artikel 12. Conservatoire maatregelen
+##### Artikel 12. Conservatoire maatregelen
 
 Op verzoek van de verzoekende Staat neemt de aangezochte Staat, met het oog op de invordering van een belastingbedrag, conservatoire maatregelen zelfs indien de vordering wordt bestreden en nog niet invorderbaar is.
 
-#### Artikel 13. Documenten waarvan het verzoek vergezeld gaat
+##### Artikel 13. Documenten waarvan het verzoek vergezeld gaat
 
 1. Het verzoek om administratieve bijstand krachtens dit Deel gaat vergezeld van:
 
@@ -198,7 +223,7 @@ Op verzoek van de verzoekende Staat neemt de aangezochte Staat, met het oog op d
 
 2. De akte die het nemen van dwangmaatregelen toestaat in de verzoekende Staat wordt, indien passend en in overeenstemming met de in de aangezochte Staat van kracht zijnde bepalingen, zo spoedig mogelijk na de datum van ontvangst van het verzoek om bijstand aanvaard, erkend of aangevuld, dan wel vervangen door een akte die het nemen van dwangmaatregelen toestaat in de aangezochte Staat.
 
-#### Artikel 14. Termijnen
+##### Artikel 14. Termijnen
 
 1. Vragen betreffende het tijdvak waarbuiten niet langer kan worden ingevorderd vallen onder de wetgeving van de verzoekende Staat. Het verzoek om bijstand geeft bijzonderheden aangaande dat tijdvak.
 
@@ -206,17 +231,17 @@ Op verzoek van de verzoekende Staat neemt de aangezochte Staat, met het oog op d
 
 3. De aangezochte Staat is in geen enkel geval verplicht te voldoen aan een verzoek om bijstand dat wordt ingediend na het verstrijken van een tijdvak van 15 jaar vanaf de datum van de oorspronkelijke akte die het nemen van dwangmaatregelen toestaat.
 
-#### Artikel 15. Prioriteit
+##### Artikel 15. Prioriteit
 
 De verschuldigde belasting bij de invordering waarvan bijstand wordt verleend, heeft in de aangezochte Staat niet de prioriteit die in het bijzonder wordt toegekend aan invordering van verschuldigde belasting van die Staat, ook al wordt dezelfde invorderingsprocedure toegepast als die welke op aan hemzelf verschuldigde belasting van toepassing is.
 
-#### Artikel 16. Uitstel van betaling
+##### Artikel 16. Uitstel van betaling
 
 De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan indien zijn wetgeving of zijn administratieve praktijk dit toestaat in soortgelijke omstandigheden, echter niet zonder de verzoekende Staat hiervan eerst mededeling te doen.
 
 ## Deel III. Bezorging van documenten
 
-#### Artikel 17. Uitreiking van documenten
+##### Artikel 17. Uitreiking van documenten
 
 1. Op verzoek van de verzoekende Staat reikt de aangezochte Staat documenten uit aan de geadresseerde, met inbegrip van documenten betreffende rechterlijke beslissingen, die afkomstig zijn van de verzoekende Staat en verband houden met een belasting waarop dit Verdrag van toepassing is.
 
@@ -234,7 +259,7 @@ De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan 
 
 ### HOOFDSTUK IV. BEPALINGEN BETREFFENDE ALLE VORMEN VAN BIJSTAND
 
-#### Artikel 18. Inlichtingen die dienen te worden verstrekt door de verzoekende Staat
+##### Artikel 18. Inlichtingen die dienen te worden verstrekt door de verzoekende Staat
 
 1. Een verzoek om bijstand geeft aan voor zover van toepassing, inlichtingen betreffende:
 
@@ -252,11 +277,11 @@ De aangezochte Staat kan uitstel van betaling of betaling in termijnen toestaan 
 
 2. Zodra de verzoekende Staat andere inlichtingen verkrijgt die verband houden met het verzoek om bijstand, zendt de verzoekende Staat deze aan de aangezochte Staat.
 
-#### Artikel 19. De mogelijkheid een verzoek af te wijzen
+##### Artikel 19. De mogelijkheid een verzoek af te wijzen
 
 Vervallen
 
-#### Artikel 20. Antwoord op het verzoek om bijstand
+##### Artikel 20. Antwoord op het verzoek om bijstand
 
 1. Indien het verzoek om bijstand wordt ingewilligd, doet de aangezochte Staat de verzoekende Staat zo spoedig mogelijk mededeling van de genomen maatregelen en van het resultaat van de bijstand.
 
@@ -264,7 +289,7 @@ Vervallen
 
 3. Indien de verzoekende Staat ten aanzien van een verzoek om inlichtingen heeft aangegeven in welke vorm hij de inlichtingen wenst te ontvangen, en indien de aangezochte Staat in staat is hieraan te voldoen, verstrekt de aangezochte Staat de inlichtingen in de gevraagde vorm.
 
-#### Artikel 21. Bescherming van personen en grenzen aan de verplichting tot het verlenen van bijstand
+##### Artikel 21. Bescherming van personen en grenzen aan de verplichting tot het verlenen van bijstand
 
 1. Geen enkele bepaling van dit Verdrag tast de rechten en waarborgen aan die personen hebben volgens de wetgeving of de administratieve praktijk van de aangezochte Staat.
 
@@ -290,7 +315,7 @@ Vervallen
 
 4. De bepalingen van dit Verdrag, in het bijzonder die van het eerste en tweede lid, mogen in geen geval zodanig worden uitgelegd dat het een aangezochte Staat toegestaan is het verstrekken van inlichtingen te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een persoon.
 
-#### Artikel 22. Geheimhouding
+##### Artikel 22. Geheimhouding
 
 1. Alle door een Partij krachtens dit Verdrag verkregen inlichtingen worden op dezelfde wijze geheim gehouden en beschermd als inlichtingen die krachtens de nationale wetgeving van die Partij zijn verkregen, en, voor zover nodig teneinde het noodzakelijke beschermingsniveau voor persoonsgegevens veilig te stellen, in overeenstemming met de waarborgen die de Partij die de gegevens verstrekt kan voorschrijven indien deze worden vereist krachtens haar nationale wetgeving.
 
@@ -300,7 +325,7 @@ Vervallen
 
 4. Niettegenstaande de bepalingen van het eerste, tweede en derde lid kan van inlichtingen die een Partij heeft ontvangen gebruik worden gemaakt voor andere doeleinden, indien die inlichtingen voor die andere doeleinden kunnen worden gebruikt krachtens de wetgeving van de Partij die de inlichtingen heeft verstrekt en indien de bevoegde autoriteit van die Partij toestemming voor dat gebruik verleent. Door een Partij aan een andere Partij verstrekte inlichtingen kunnen door de laatstbedoelde worden doorgegeven aan een derde Partij, afhankelijk van voorafgaande toestemming van de bevoegde autoriteit van de eerstbedoelde Partij.
 
-#### Artikel 23. Rechtsgedingen
+##### Artikel 23. Rechtsgedingen
 
 1. Rechtsgedingen betreffende door de aangezochte Staat krachtens dit Verdrag genomen maatregelen worden slechts aanhangig gemaakt bij de daartoe bevoegde instantie van die Staat.
 
@@ -310,7 +335,7 @@ Vervallen
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 24. Tenuitvoerlegging van het Verdrag
+##### Artikel 24. Tenuitvoerlegging van het Verdrag
 
 1. De Partijen plegen onderling overleg met betrekking tot de tenuitvoerlegging van dit Verdrag door tussenkomst van hun onderscheiden bevoegde autoriteiten. De bevoegde autoriteiten kunnen hiertoe rechtstreeks overleg plegen en kunnen ondergeschikte autoriteiten machtigen namens hen op te treden. De bevoegde autoriteiten van twee of meer Partijen kunnen onderling overeenstemming bereiken over de wijze van toepassing van het Verdrag tussen hen.
 
@@ -324,11 +349,11 @@ Vervallen
 
 6. De Secretaris-Generaal van de OESO doet de Partijen en de Ondertekenende Staten die het Verdrag nog niet hebben bekrachtigd, aanvaard of goedgekeurd, mededeling van de adviezen die door het coördinerend lichaam zijn gegeven overeenkomstig de bepalingen van het vierde lid hierboven en in gevallen waarin op voet van het voorgaande lid onderlinge overeenstemming is bereikt.
 
-#### Artikel 25. Talen
+##### Artikel 25. Talen
 
 Verzoeken om bijstand en antwoorden daarop worden gesteld in één van de officiële talen van de OESO en van de Raad van Europa of in iedere andere taal waarover de betrokken Verdragsluitende Staten bilateraal overeenstemming hebben bereikt.
 
-#### Artikel 26. Kosten
+##### Artikel 26. Kosten
 
 Tenzij door de Partijen bilateraal anders overeengekomen:
 
@@ -338,13 +363,13 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 27. Andere internationale overeenkomsten of regelingen
+##### Artikel 27. Andere internationale overeenkomsten of regelingen
 
 1. De mogelijkheden van bijstand voorzien bij dit Verdrag scheppen geen beperking voor en worden evenmin beperkt door mogelijkheden vervat in bestaande of toekomstige internationale overeenkomsten of andere regelingen tussen de betrokken Partijen of in andere akten die verband houden met samenwerking in belastingzaken.
 
 2. Niettegenstaande het eerste lid, kunnen Partijen die lid zijn van de Europese Unie in hun onderlinge betrekkingen de mogelijkheden voor bijstand voorzien in het Verdrag toepassen indien deze meer ruimte voor samenwerking bieden dan de mogelijkheden geboden door de van toepassing zijnde regelgeving van de Europese Unie.
 
-#### Artikel 28. Ondertekening en inwerkingtreding van het Verdrag
+##### Artikel 28. Ondertekening en inwerkingtreding van het Verdrag
 
 1. Dit Verdrag staat ter ondertekening open voor de lidstaten van de Raad van Europa en de lidstaten van de OESO. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij één van de Depositarissen.
 
@@ -360,7 +385,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 7. Niettegenstaande het zesde lid zijn de bepalingen van dit Verdrag, zoals gewijzigd bij het Protocol van 2010, vanaf de datum van inwerkingtreding ter zake van een Partij met betrekking tot eerdere belastingtijdvakken of belastingvorderingen van toepassing op belastingzaken waarbij sprake is van opzettelijke gedragingen die vervolgd kunnen worden krachtens de strafwetten van de verzoekende Partij.
 
-#### Artikel 29. Territoriale toepassing van het Verdrag
+##### Artikel 29. Territoriale toepassing van het Verdrag
 
 1. Iedere Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring aangeven op welk grondgebied of welke grondgebieden dit Verdrag van toepassing zal zijn.
 
@@ -368,7 +393,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 3. Iedere krachtens het bepaalde in de twee voorgaande leden afgelegde verklaring kan, ten aanzien van ieder in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan één van de Depositarissen gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Depositaris.
 
-#### Artikel 30. Voorbehouden
+##### Artikel 30. Voorbehouden
 
 1. Een Staat kan bij ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring of op iedere datum daarna, verklaren zich het recht voor te behouden:
 
@@ -392,7 +417,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 5. Een Partij die een voorbehoud heeft gemaakt ten aanzien van een bepaling van dit Verdrag kan niet van een andere Partij verlangen dat zij die bepaling toepast; zij kan echter, indien het voorbehoud gedeeltelijk is, verlangen dat de bepaling wordt toegepast voor zover zijzelf deze heeft aanvaard.
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Een Partij kan dit Verdrag te allen tijde opzeggen door middel van een aan één van de Depositarissen gerichte kennisgeving.
 
@@ -400,7 +425,7 @@ Tenzij door de Partijen bilateraal anders overeengekomen:
 
 3. Een Partij die het Verdrag opzegt, blijft gebonden door de bepalingen van artikel 22 zolang zij krachtens het Verdrag verkregen documenten of inlichtingen in haar bezit houdt.
 
-#### Artikel 32. De Depositarissen en hun functies
+##### Artikel 32. De Depositarissen en hun functies
 
 1. De Depositaris bij wie een akte is nedergelegd dan wel een kennisgeving of mededeling is gedaan, stelt de lidstaten van de Raad van Europa en de lidstaten van de OESO en elke Partij bij dit Verdrag in kennis van:
 

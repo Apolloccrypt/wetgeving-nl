@@ -1,13 +1,38 @@
 ---
 title: "Besluit Totaalwinst"
 identifier: "BWBR0048018"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-03-31
-laatste_update: 2023-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048018"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-03-31"
+last_updated: "2023-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048018"
+soort: "beleidsregel"
+stam_id: "16713033"
+version_id: "29316462"
+internal_id: "C41757501"
+label_id: "16630214"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048018/2023-03-31/0"
+intitule_bron: "Stcrt.2023-9568"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-21"
+intitule_published: "2023-03-30"
+intitule_in_force: "2023-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-9568"
+original_signed_date: "2023-03-21"
+original_published_date: "2023-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-9568"
+entry_into_force_date: "2023-03-31"
+jci_1_3: "jci1.3:c:BWBR0048018&z=2023-03-31&g=2023-03-31"
+jci_1_0: "1.0:c:BWBR0048018&g=2023-03-31"
+citeertitel_status: "officieel"
+signed_date: "2023-03-21"
+entry_into_force: "2023-03-31"
 ---
-
 # Besluit Totaalwinst
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

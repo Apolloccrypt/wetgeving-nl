@@ -1,14 +1,41 @@
 ---
-title: "Wet medezeggenschap op scholen"
+title: "Wet van 30 november 2006, houdende nieuwe bepalingen met betrekking tot medezeggenschap op scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs (Wet medezeggenschap op scholen)"
 identifier: "BWBR0020685"
-categorie: "Overig"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020685"
+country: "nl"
+rank: "wet"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020685"
+soort: "wet"
+stam_id: "8778083"
+version_id: "13907192"
+internal_id: "C18960321"
+label_id: "8758394"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020685/2025-08-01/0"
+intitule_bron: "Stb.2006-658"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-30"
+intitule_published: "2006-12-19"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-658"
+original_signed_date: "2006-11-30"
+original_published_date: "2006-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "30414"
+original_url_id: "stb-2006-658"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020685&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0020685&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Wet medezeggenschap op scholen"
+signed_date: "2006-11-30"
+entry_into_force: "2007-01-01"
 ---
-
-# Wet medezeggenschap op scholen
+# Wet van 30 november 2006, houdende nieuwe bepalingen met betrekking tot medezeggenschap op scholen als bedoeld in de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet op het voortgezet onderwijs (Wet medezeggenschap op scholen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Deze wet verstaat onder:
 
@@ -50,11 +77,11 @@ Deze wet verstaat onder:
 
 - k. «geleding»: de afzonderlijke groepen van leden, bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=1&artikel=3&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 2. Aard bepalingen
+##### Artikel 2. Aard bepalingen
 
 De bij of krachtens deze wet gegeven voorschriften, voor zover zij de scholen en de samenwerkingsverbanden betreffen, zijn regels voor het openbaar onderwijs en voorwaarden voor bekostiging van het bijzonder onderwijs.
 
-#### Artikel 3. Medezeggenschapsraad
+##### Artikel 3. Medezeggenschapsraad
 
 1. Aan een school, een centrale dienst en een samenwerkingsverband is een medezeggenschapsraad verbonden.
 
@@ -92,7 +119,7 @@ De bij of krachtens deze wet gegeven voorschriften, voor zover zij de scholen en
 
 13. De beëindiging anders dan op eigen verzoek van de betrekking van een lid van het personeel mag geen verband houden met de kandidaatstelling voor het lidmaatschap, het lidmaatschap of het voormalig lidmaatschap van de betrokkene van de medezeggenschapsraad. Een beëindiging van de betrekking in strijd met dit lid is nietig.
 
-#### Artikel 4. Gemeenschappelijke medezeggenschapsraad
+##### Artikel 4. Gemeenschappelijke medezeggenschapsraad
 
 1. Indien het bevoegd gezag meer dan een school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), dan wel als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) dan wel als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) in stand houdt, stelt het bevoegd gezag een gemeenschappelijke medezeggenschapsraad in voor de scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) respectievelijk de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212). Het bevoegd gezag kan ten behoeve van scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) één gemeenschappelijke medezeggenschapsraad instellen, indien de instemming van twee derden van de leden van de desbetreffende medezeggenschapsraden is verkregen.
 
@@ -102,13 +129,13 @@ De bij of krachtens deze wet gegeven voorschriften, voor zover zij de scholen en
 
 4. [Artikel 3, tweede, derde, vierde en zevende tot en met dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=1&artikel=3&z=2025-08-01&g=2025-08-01), is van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad.
 
-#### Artikel 5. Voorzitter (gemeenschappelijke) medezeggenschapsraad en ondersteuningsplanraad
+##### Artikel 5. Voorzitter (gemeenschappelijke) medezeggenschapsraad en ondersteuningsplanraad
 
 De medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad en de ondersteuningsplanraad kiezen uit hun midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering een plaatsvervangende voorzitter, vertegenwoordigt de raad in rechte.
 
 ### Hoofdstuk 2. Algemene bevoegdheden, taken, en informatierechten
 
-#### Artikel 6. Algemene bevoegdheden medezeggenschapsraad en vertegenwoordiging bevoegd gezag
+##### Artikel 6. Algemene bevoegdheden medezeggenschapsraad en vertegenwoordiging bevoegd gezag
 
 1. Het bevoegd gezag en de medezeggenschapsraad komen bijeen, indien daarom onder opgave van redenen wordt verzocht door de medezeggenschapsraad, een geleding of het bevoegd gezag.
 
@@ -120,7 +147,7 @@ De medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad en de onders
 
 5. De besprekingen in de medezeggenschapsraad kunnen namens het bevoegd gezag worden gevoerd. Het bevoegd gezag kan een lid van de schoolleiding dan wel een personeelslid dat managementtaken verricht ten behoeve van meer dan een school opdragen de besprekingen met de medezeggenschapsraad dan wel bepaalde besprekingen met de medezeggenschapsraad namens hem te voeren. Op verzoek van het lid dat namens het bevoegd gezag het overleg voert of op verzoek van de medezeggenschapsraad kan het bevoegd gezag dit lid ontheffen van de taak om een bespreking namens het bevoegd gezag te voeren. Op verzoek van de medezeggenschapsraad voert het bevoegd gezag in bijzondere gevallen naast de gevallen, bedoeld in [artikel 24, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), zelf de besprekingen met de medezeggenschapsraad.
 
-#### Artikel 7. Algemene taken medezeggenschapsraad
+##### Artikel 7. Algemene taken medezeggenschapsraad
 
 1. De medezeggenschapsraad bevordert naar vermogen openheid en onderling overleg in de school.
 
@@ -128,7 +155,7 @@ De medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad en de onders
 
 3. De medezeggenschapsraad doet aan alle bij de school betrokkenen schriftelijk verslag van zijn werkzaamheden en stelt de eventuele raden, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=20&z=2025-08-01&g=2025-08-01), in de gelegenheid om over aangelegenheden die hen in het bijzonder aangaan, met hem overleg te voeren.
 
-#### Artikel 8. Algemeen informatierecht medezeggenschapsraad
+##### Artikel 8. Algemeen informatierecht medezeggenschapsraad
 
 1. Het bevoegd gezag verstrekt de medezeggenschapsraad, ongevraagd, tijdig alle inlichtingen die de medezeggenschapsraad voor de vervulling van zijn taak naar redelijkheid en billijkheid nodig kan hebben en, gevraagd, tijdig alle inlichtingen die deze voor de vervulling van zijn taak naar redelijkheid en billijkheid nodig acht.
 
@@ -160,7 +187,7 @@ De medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad en de onders
 
 6. Indien het bevoegd gezag een voorstel voor advies of instemming voorlegt aan een geleding van de medezeggenschapsraad, wordt dat voorstel gelijktijdig ter kennisneming aan de andere geleding of geledingen aangeboden. Daarbij wordt tevens een overzicht verstrekt van de beweegredenen voor het voorstel, alsmede van de gevolgen die de uitwerking van het voorstel naar verwachting zal hebben voor het personeel, ouders en leerlingen en van de naar aanleiding daarvan genomen maatregelen.
 
-#### Artikel 9. Van overeenkomstige toepassing verklaring van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=6&z=2025-08-01&g=2025-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7&z=2025-08-01&g=2025-08-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7a&z=2025-08-01&g=2025-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8&z=2025-08-01&g=2025-08-01) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8a&z=2025-08-01&g=2025-08-01)
+##### Artikel 9. Van overeenkomstige toepassing verklaring van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=6&z=2025-08-01&g=2025-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7&z=2025-08-01&g=2025-08-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7a&z=2025-08-01&g=2025-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8&z=2025-08-01&g=2025-08-01) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8a&z=2025-08-01&g=2025-08-01)
 
 De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=6&z=2025-08-01&g=2025-08-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7&z=2025-08-01&g=2025-08-01), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=7a&z=2025-08-01&g=2025-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8&z=2025-08-01&g=2025-08-01) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=8a&z=2025-08-01&g=2025-08-01) zijn, met uitzondering van de onderdelen c en d voor wat betreft artikel 8a, van overeenkomstige toepassing op:
 
@@ -176,7 +203,7 @@ De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&art
 
 ### Hoofdstuk 3. Instemmings- en adviesbevoegdheden
 
-#### Artikel 10. Instemmingsbevoegdheid medezeggenschapsraad
+##### Artikel 10. Instemmingsbevoegdheid medezeggenschapsraad
 
 Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad voor elk door het bevoegd gezag te nemen besluit met betrekking tot in ieder geval de volgende aangelegenheden:
 
@@ -200,7 +227,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 - j. vaststelling of wijziging van de data, bedoeld in [artikel 2.42, derde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.42).
 
-#### Artikel 11. Adviesbevoegdheid medezeggenschapsraad
+##### Artikel 11. Adviesbevoegdheid medezeggenschapsraad
 
 1. De medezeggenschapsraad wordt vooraf in de gelegenheid gesteld om advies uit te brengen over elk door het bevoegd gezag te nemen besluit met betrekking tot in ieder geval de volgende aangelegenheden:
 
@@ -244,7 +271,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 2. Het eerste lid, onderdeel q, is niet van toepassing op de medezeggenschapsraad van het samenwerkingsverband.
 
-#### Artikel 12. Instemmingsbevoegdheid personeelsdeel medezeggenschapsraad
+##### Artikel 12. Instemmingsbevoegdheid personeelsdeel medezeggenschapsraad
 
 1. Het bevoegd gezag behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door het personeel is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden:
 
@@ -286,7 +313,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 2. Het bevoegd gezag van een speciale school voor basisonderwijs dat tevens bevoegd gezag is van een of meer basisscholen behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door het personeel van eerstgenoemde school is gekozen voor elk door hem te nemen besluit met betrekking tot de inzet van de bekostiging die op grond van [artikel 122, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=122) aan eerstgenoemde school is toegekend.
 
-#### Artikel 13. Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), met uitzondering van scholen voor voortgezet speciaal onderwijs
+##### Artikel 13. Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), met uitzondering van scholen voor voortgezet speciaal onderwijs
 
 1. Het bevoegd gezag van een school als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders of de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden:
 
@@ -314,7 +341,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 2. Het bevoegd gezag van een school als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549), met uitzondering van scholen voor voortgezet speciaal onderwijs, behoeft, ten aanzien van voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra, voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel g, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in [artikel 2.38, eerste tot en met vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) dan wel [artikel 25, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25) wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in [artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=22).
 
-#### Artikel 14. Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of een school voor voortgezet speciaal onderwijs als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
+##### Artikel 14. Instemmingsbevoegdheid ouders/leerlingendeel medezeggenschapsraad bij een school als bedoeld in de [WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) of een school voor voortgezet speciaal onderwijs als bedoeld in de [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549)
 
 1. Het bevoegd gezag van een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en van een school voor voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) behoeft de voorafgaande instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen, voor elk door het bevoegd gezag te nemen besluit met betrekking tot de volgende aangelegenheden:
 
@@ -352,7 +379,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 4. Het bevoegd gezag van een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) en van een school voor voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) behoeft voorafgaand aan instemming met betrekking tot de vaststelling van de gehele schoolgids als bedoeld in het eerste lid, onderdeel a, afzonderlijk instemming van het deel van de medezeggenschapsraad dat uit en door de ouders en de leerlingen is gekozen voor het in die schoolgids opgenomen onderdeel met betrekking tot de jaarlijkse vaststelling van het totaal aantal uren en het soort activiteiten dat als onderwijstijd als bedoeld in [artikel 2.38, eerste tot en met vijfde lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.38) dan wel [artikel 25, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=25) wordt geprogrammeerd alsmede voor het onderdeel met betrekking tot het beleid ten aanzien van lesuitval als bedoeld in [artikel 2.92, tweede lid, onderdeel c, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.92) onderscheidenlijk [artikel 22, eerste lid, onderdeel c, onder 2°, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=22).
 
-#### Artikel 15. Tenuitvoerlegging bepaalde besluiten
+##### Artikel 15. Tenuitvoerlegging bepaalde besluiten
 
 1. Een besluit met betrekking tot een aangelegenheid als bedoeld in [artikel 11, eerste lid, onderdelen c, d, e en m](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=11&z=2025-08-01&g=2025-08-01), wordt niet ten uitvoer gelegd voordat een definitief besluit is genomen over de regeling van de gevolgen van dat besluit voor het personeel, dan wel voor de ouders of leerlingen, tenzij dringende redenen in het belang van de school een eerdere tenuitvoerlegging noodzakelijk maken.
 
@@ -360,7 +387,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 3. Een besluit met betrekking tot een aangelegenheid als bedoeld in de [artikelen 10, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=10&z=2025-08-01&g=2025-08-01), [11, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=11&z=2025-08-01&g=2025-08-01), voor zover het de beëindiging van de school betreft, en onderdeel p, en [13, eerste lid, onderdelen b en h](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=13&z=2025-08-01&g=2025-08-01), wordt niet genomen dan na raadpleging van de ouders.
 
-#### Artikel 16. Bevoegdheden (geledingen) gemeenschappelijke medezeggenschapsraad
+##### Artikel 16. Bevoegdheden (geledingen) gemeenschappelijke medezeggenschapsraad
 
 1. De gemeenschappelijke medezeggenschapsraad treedt, indien het aangelegenheden betreft die van gemeenschappelijk belang zijn voor alle scholen of voor de meerderheid van de scholen, in de plaats van de medezeggenschapsraad van die scholen. De eerste volzin is van overeenkomstige toepassing op de onderscheiden geledingen van de gemeenschappelijke medezeggenschapsraad indien het bevoegdheden van een geleding van de medezeggenschapsraad betreft.
 
@@ -374,7 +401,7 @@ Het bevoegd gezag behoeft de voorafgaande instemming van de medezeggenschapsraad
 
 3. Het bevoegd gezag behoeft de voorafgaande instemming van het deel van de gemeenschappelijke medezeggenschapsraad dat uit en door het personeel is gekozen voor elk door het bevoegd gezag te nemen besluit met betrekking tot vaststelling of wijziging van de samenstelling van de formatie van personeel dat is benoemd of te werk gesteld zonder benoeming dat werkzaamheden verricht ten behoeve van meer dan een school.
 
-#### Artikel 17. Adviesaanvrage
+##### Artikel 17. Adviesaanvrage
 
 Indien een te nemen besluit ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=11&z=2025-08-01&g=2025-08-01), dan wel op grond van het medezeggenschapsreglement krachtens [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), vooraf voor advies dient te worden voorgelegd aan de medezeggenschapsraad, draagt het bevoegd gezag er zorg voor dat:
 
@@ -386,7 +413,7 @@ Indien een te nemen besluit ingevolge [artikel 11](https://wetten.overheid.nl/jc
 
 - d. de medezeggenschapsraad, indien het bevoegd gezag het advies niet of niet geheel wil volgen, in de gelegenheid wordt gesteld nader overleg met hem te voeren alvorens het besluit definitief wordt genomen.
 
-#### Artikel 18. Nadere regels bijzondere bevoegdheden
+##### Artikel 18. Nadere regels bijzondere bevoegdheden
 
 1. De bevoegdheden op grond van de [artikelen 10 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=10&z=2025-08-01&g=2025-08-01), dan wel op grond van het bepaalde in het medezeggenschapsreglement krachtens [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), zijn niet van toepassing, voor zover:
 
@@ -396,13 +423,13 @@ Indien een te nemen besluit ingevolge [artikel 11](https://wetten.overheid.nl/jc
 
 2. De bevoegdheden van het deel van de medezeggenschapsraad dat uit en door het personeel is gekozen, zijn niet van toepassing, voor zover de desbetreffende aangelegenheid voor de school reeds inhoudelijk is geregeld in een collectieve arbeidsovereenkomst.
 
-#### Artikel 19. Overeenkomstige toepassing t.a.v. GMR
+##### Artikel 19. Overeenkomstige toepassing t.a.v. GMR
 
 De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=15&z=2025-08-01&g=2025-08-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=17&z=2025-08-01&g=2025-08-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=18&z=2025-08-01&g=2025-08-01) zijn van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad.
 
 ### Hoofdstuk 4. Organisatie medezeggenschap
 
-#### Artikel 20. Specifieke inrichting medezeggenschapsstructuur
+##### Artikel 20. Specifieke inrichting medezeggenschapsstructuur
 
 1. Op verzoek van de medezeggenschapsraad en met instemming van het bevoegd gezag kan met instemming van twee derden van de leden van de medezeggenschapsraad een deelraad worden verbonden aan een deel van een school. De deelraad treedt in dat geval in de bevoegdheden van de medezeggenschapsraad voor zover uitoefening van die bevoegdheden geen betrekking heeft op een ander deel van de school.
 
@@ -414,13 +441,13 @@ De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&ar
 
 5. Indien van elk bevoegd gezag van scholen als bedoeld in de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420), of de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) of de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) de gemeenschappelijke medezeggenschapsraden dan wel bij het ontbreken van een gemeenschappelijke medezeggenschapsraad alle medezeggenschapsraden, daarmee instemmen kan een bovenbestuurlijke medezeggenschapsraad worden ingesteld.
 
-#### Artikel 21. Medezeggenschapsstatuut
+##### Artikel 21. Medezeggenschapsstatuut
 
 1. Het bevoegd gezag stelt, met inachtneming van de voorschriften bij of krachtens deze wet, ten minste eenmaal in de twee jaar een medezeggenschapsstatuut vast.
 
 2. Het bevoegd gezag legt het medezeggenschapsstatuut, daaronder elke wijziging ervan mede begrepen, als voorstel aan de gemeenschappelijke medezeggenschapsraad of bij het ontbreken daarvan aan de medezeggenschapsraad voor en stelt het slechts vast indien het voorstel de instemming van twee derden van het aantal leden van de gemeenschappelijke medezeggenschapsraad of bij het ontbreken van een gemeenschappelijke medezeggenschapsraad van de medezeggenschapsraad heeft verworven.
 
-#### Artikel 22. Inhoud medezeggenschapsstatuut
+##### Artikel 22. Inhoud medezeggenschapsstatuut
 
 In het medezeggenschapsstatuut wordt in ieder geval geregeld:
 
@@ -436,13 +463,13 @@ In het medezeggenschapsstatuut wordt in ieder geval geregeld:
 
 - f. indien besprekingen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=2&artikel=6&z=2025-08-01&g=2025-08-01), namens het bevoegd gezag worden gevoerd, in welke gevallen en door wie dat geschiedt en in welke gevallen die persoon op zijn verzoek van die taak wordt ontheven.
 
-#### Artikel 23. Medezeggenschapsreglement
+##### Artikel 23. Medezeggenschapsreglement
 
 1. Het bevoegd gezag stelt, met inachtneming van de voorschriften bij of krachtens deze wet, een medezeggenschapsreglement voor de medezeggenschapsraad en de gemeenschappelijke medezeggenschapsraad vast.
 
 2. Het bevoegd gezag stelt het reglement, daaronder elke wijziging ervan mede begrepen, slechts vast voor zover het voorstel de instemming van twee derden van het aantal leden van de medezeggenschapsraad onderscheidenlijk van de gemeenschappelijke medezeggenschapsraad heeft verworven. Indien het een omzetting dan wel een overdracht als bedoeld in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01) betreft, behoeft dat deel van het reglement tevens de instemming van de geleding die de bevoegdheden omzet dan wel overdraagt.
 
-#### Artikel 24. Inhoud medezeggenschapsreglement medezeggenschapsraad
+##### Artikel 24. Inhoud medezeggenschapsreglement medezeggenschapsraad
 
 1. In het reglement wordt in ieder geval geregeld:
 
@@ -480,21 +507,21 @@ In het medezeggenschapsstatuut wordt in ieder geval geregeld:
 
 5. De voorwaarde, bedoeld in het vierde lid, onderdeel a, kan slechts worden toegepast, indien zij door of namens het bevoegd gezag voorafgaand aan de toelating aan de betrokkenen bekend is gemaakt.
 
-#### Artikel 25. Geldigheidsduur bovenbestuurlijke medezeggenschapsraad en bijzondere bevoegdheden ingevolge toepassing [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01)
+##### Artikel 25. Geldigheidsduur bovenbestuurlijke medezeggenschapsraad en bijzondere bevoegdheden ingevolge toepassing [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01)
 
 1. De geldigheidsduur van de instelling van een bovenbestuurlijke gemeenschappelijke medezeggenschapsraad, bedoeld in [artikel 20, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=20&z=2025-08-01&g=2025-08-01), bedraagt ten hoogste twee jaren. De in de eerste volzin bedoelde termijn kan telkens met ten hoogste twee jaren worden verlengd indien alle gemeenschappelijke medezeggenschapsraden daarmee instemmen dan wel bij ontbreken van een gemeenschappelijke medezeggenschapsraad alle medezeggenschapsraden.
 
 2. De geldigheidsduur van advies- en instemmingsbevoegdheden die ingevolge de toepassing van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), in het medezeggenschapsreglement zijn opgenomen, bedraagt ten hoogste twee jaren. De in de eerste volzin bedoelde termijn kan telkens worden verlengd met ten hoogste twee jaren, indien ten minste twee derden van het aantal leden van de medezeggenschapsraad daartoe besluiten ten aanzien van alle of een aantal van de in de eerste volzin bedoelde bevoegdheden.
 
-#### Artikel 26. Reglement gemeenschappelijke medezeggenschapsraad
+##### Artikel 26. Reglement gemeenschappelijke medezeggenschapsraad
 
 De [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=23&z=2025-08-01&g=2025-08-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01) zijn van overeenkomstige toepassing op het reglement van de gemeenschappelijke medezeggenschapsraad.
 
-#### Artikel 27. Mogelijkheid regeling voor specifieke gevallen
+##### Artikel 27. Mogelijkheid regeling voor specifieke gevallen
 
 Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifieke situaties bij een categorie van scholen. De voordracht voor een krachtens de eerste volzin vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overgelegd.
 
-#### Artikel 28. Faciliteiten
+##### Artikel 28. Faciliteiten
 
 1. Het bevoegd gezag staat de medezeggenschapsraad het gebruik toe van de voorzieningen waarover het kan beschikken en die de medezeggenschapsraad voor de vervulling van zijn taak redelijkerwijs nodig heeft.
 
@@ -508,7 +535,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 6. Het eerste, tweede, derde, vierde en vijfde lid zijn van overeenkomstige toepassing op de leden van de gemeenschappelijke medezeggenschapsraad en van een raad als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=20&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 29. Afwijking in verband met eigen aard
+##### Artikel 29. Afwijking in verband met eigen aard
 
 1. Op gronden die verband houden met de godsdienstige of levensbeschouwelijke overtuiging die aan de school ten grondslag ligt, kan het bevoegd gezag in het medezeggenschapsreglement in afwijking van [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), een aan de medezeggenschapsraad of een geleding toekomend instemmingsrecht omzetten in een adviesrecht dan wel een aan een geleding toekomend instemmingsrecht overdragen aan de medezeggenschapsraad dan wel een aan de leerlinggeleding toekomend instemmingsrecht overdragen aan de oudergeleding dan wel een aan de gezamenlijke ouder- en leerlinggeleding toekomend instemmingsrecht, omzetten in een instemmingsrecht voor de oudergeleding en een adviesrecht voor de leerlinggeleding. In afwijking van de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=21&z=2025-08-01&g=2025-08-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=23&z=2025-08-01&g=2025-08-01) stelt het bevoegd gezag in dat geval het medezeggenschapsstatuut, respectievelijk het medezeggenschapsreglement, daaronder elke wijziging ervan mede begrepen, slechts vast nadat het hierover advies heeft ontvangen van de medezeggenschapsraad onderscheidenlijk van de gemeenschappelijke medezeggenschapsraad. Het bevoegd gezag kan slechts toepassing geven aan de eerste volzin indien een meerderheid van twee derden zowel van het personeel van de school als van de ouders en leerlingen dat ondersteunt.
 
@@ -518,7 +545,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 ### Hoofdstuk 5. Regeling geschillen
 
-#### Artikel 30. Commissie voor geschillen
+##### Artikel 30. Commissie voor geschillen
 
 1. Er is een landelijke commissie voor geschillen waarbij elke school, samenwerkingsverband en centrale dienst is aangesloten. Tot voorzitter en tot plaatsvervangend voorzitter kunnen alleen personen worden benoemd die voldoen aan de bij of krachtens [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5) gestelde vereisten om te kunnen worden benoemd tot rechterlijk ambtenaar met rechtspraak belast.
 
@@ -526,7 +553,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 3. De leden en de plaatsvervangende leden mogen niet deel uitmaken van het bevoegd gezag of van de medezeggenschapsraad van een school, samenwerkingsverband en centrale dienst.
 
-#### Artikel 31. Competentie commissie
+##### Artikel 31. Competentie commissie
 
 1. De commissie neemt kennis van de geschillen, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=32&z=2025-08-01&g=2025-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=33&z=2025-08-01&g=2025-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=34&z=2025-08-01&g=2025-08-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=35&z=2025-08-01&g=2025-08-01).
 
@@ -536,7 +563,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 4. De bepalingen van de derde afdeling van de vijfde titel van het tweede boek van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) zijn van overeenkomstige toepassing, met dien verstande dat in geval van een geschil als bedoeld in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=35&z=2025-08-01&g=2025-08-01) een dwangsom uitsluitend kan worden opgelegd aan het bevoegd gezag.
 
-#### Artikel 32. Geschillen instemmingsbevoegdheid
+##### Artikel 32. Geschillen instemmingsbevoegdheid
 
 1. Indien de medezeggenschapsraad aan een besluit van het bevoegd gezag de instemming onthoudt die is vereist ingevolge de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=10&z=2025-08-01&g=2025-08-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=12&z=2025-08-01&g=2025-08-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=13&z=2025-08-01&g=2025-08-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=14&z=2025-08-01&g=2025-08-01) dan wel ingevolge de toepassing van artikel 24, tweede en derde lid, kan het bevoegd gezag de commissie binnen zes weken na de onthouding van de instemming toestemming vragen om het besluit te nemen. De commissie geeft slechts toestemming indien de medezeggenschapsraad niet in redelijkheid tot het onthouden van instemming heeft kunnen komen of indien sprake is van zwaarwegende omstandigheden die het te nemen besluit van het bevoegd gezag rechtvaardigen.
 
@@ -546,7 +573,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 4. De medezeggenschapsraad kan de commissie verzoeken aan het bevoegd gezag de plicht op te leggen, zich te onthouden van handelingen die strekken tot uitvoering of toepassing van een nietig besluit als bedoeld in het derde lid. Het bevoegd gezag kan de commissie verzoeken te verklaren dat de medezeggenschapsraad ten onrechte een beroep heeft gedaan op nietigheid als bedoeld in het derde lid.
 
-#### Artikel 33. Geschillen inhoud medezeggenschapsreglement en medezeggenschapsstatuut
+##### Artikel 33. Geschillen inhoud medezeggenschapsreglement en medezeggenschapsstatuut
 
 1. Indien de medezeggenschapsraad het bevoegd gezag de instemming voor vaststelling of wijziging van het medezeggenschapsstatuut, of van het medezeggenschapsreglement, voor wat betreft onderwerpen als bedoeld in [artikel 24, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), onthoudt, kan het bevoegd gezag de commissie binnen zes weken na de onthouding van de instemming toestemming vragen het statuut of reglement vast te stellen of te wijzigen. De commissie geeft toestemming, tenzij het bevoegd gezag bij afweging van de betrokken belangen niet in redelijkheid tot zijn voorstel heeft kunnen komen.
 
@@ -558,7 +585,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 5. De medezeggenschapsraad kan de commissie verzoeken het bevoegd gezag te verplichten zich te onthouden van handelingen die strekken tot uitvoering of toepassing van een nietig besluit als bedoeld in het vierde lid. Het bevoegd gezag kan de commissie verzoeken te verklaren dat de medezeggenschapsraad ten onrechte een beroep heeft gedaan op nietigheid als bedoeld in het vierde lid.
 
-#### Artikel 34. Geschillen adviesbevoegdheid
+##### Artikel 34. Geschillen adviesbevoegdheid
 
 1. Indien het bevoegd gezag een besluit neemt waarbij het een advies van de medezeggenschapsraad, vereist ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=3&artikel=11&z=2025-08-01&g=2025-08-01), dan wel ingevolge de toepassing van [artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), niet of niet geheel volgt, wordt de uitvoering van het besluit opgeschort met zes weken, tenzij de medezeggenschapsraad tegen onmiddellijke uitvoering van het besluit geen bedenkingen heeft.
 
@@ -576,7 +603,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 - b. het opleggen van een verplichting aan het bevoegd gezag tot nalaten om handelingen te verrichten of te doen verrichten ter uitvoering van het besluit of van onderdelen daarvan.
 
-#### Artikel 35. Geschil naleving WMS en onderwijswetten
+##### Artikel 35. Geschil naleving WMS en onderwijswetten
 
 1. De medezeggenschapsraad kan aan de commissie een geschil voorleggen inzake naleving door het bevoegd gezag van de bij of krachtens deze wet of een onderwijswet geldende verplichtingen jegens de medezeggenschapsraad.
 
@@ -584,7 +611,7 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 3. De commissie kan in haar uitspraak aan de medezeggenschapsraad onderscheidenlijk het bevoegd gezag de verplichting opleggen om bepaalde handelingen te verrichten of na te laten. Wanneer de medezeggenschapsraad een zodanige verplichting niet nakomt, kan de commissie de medezeggenschapsraad ontbinden, onder oplegging aan het bevoegd gezag van de verplichting tot het doen verkiezen van een nieuwe medezeggenschapsraad dan wel, na toepassing van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=37&z=2025-08-01&g=2025-08-01), onder oplegging aan het samenwerkingsverband van de verplichting tot het doen afvaardigen van een nieuwe ondersteuningsplanraad.
 
-#### Artikel 36. Beroep
+##### Artikel 36. Beroep
 
 1. De medezeggenschapsraad dan wel het bevoegd gezag kan bij de ondernemingskamer van het gerechtshof Amsterdam beroep instellen tegen een uitspraak van de commissie als bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=32&z=2025-08-01&g=2025-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=33&z=2025-08-01&g=2025-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=34&z=2025-08-01&g=2025-08-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=35&z=2025-08-01&g=2025-08-01).
 
@@ -596,41 +623,41 @@ Bij algemene maatregel van bestuur kunnen regels worden vastgesteld voor specifi
 
 5. In afwijking van [artikel 237 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) kan de medezeggenschapsraad, de gemeenschappelijke medezeggenschapsraad, een geleding onderscheidenlijk een raad als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=20&z=2025-08-01&g=2025-08-01) niet in de proceskosten worden veroordeeld.
 
-#### Artikel 37. Overeenkomstige toepassing
+##### Artikel 37. Overeenkomstige toepassing
 
 De [artikelen 31](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=31&z=2025-08-01&g=2025-08-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=32&z=2025-08-01&g=2025-08-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=33&z=2025-08-01&g=2025-08-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=34&z=2025-08-01&g=2025-08-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=35&z=2025-08-01&g=2025-08-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=35a&z=2025-08-01&g=2025-08-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=36&z=2025-08-01&g=2025-08-01) zijn van overeenkomstige toepassing op de gemeenschappelijke medezeggenschapsraad, de geledingen, de raden, bedoeld in [artikel 20, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=20&z=2025-08-01&g=2025-08-01), de raad, bedoeld in artikel 20, vierde lid, voor zover het een aangelegenheid betreft waarvoor de raad is ingesteld en de ondersteuningsplanraad.
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 38. Inhouding bekostiging
+##### Artikel 38. Inhouding bekostiging
 
 1. Indien het bevoegd gezag van een school of een samenwerkingsverband de bij of krachtens deze wet gegeven voorschriften niet nakomt, kan Onze Minister besluiten dat de bekostiging uit de openbare kas geheel of gedeeltelijk wordt ingehouden of opgeschort.
 
 2. De bekostiging wordt wederom toegekend, indien Onze Minister blijkt, dat de reden voor de toepassing van het eerste lid is vervallen.
 
-#### Artikel 39. Wet op de ondernemingsraden
+##### Artikel 39. Wet op de ondernemingsraden
 
 De [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) is niet van toepassing op de scholen, samenwerkingsverbanden en centrale diensten in de zin van deze wet.
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 40. [Besluit medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003710)
+##### Artikel 40. [Besluit medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003710)
 
 Het [Besluit medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003710) blijft van kracht totdat de algemene maatregel van bestuur op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=27&z=2025-08-01&g=2025-08-01) tot stand is gekomen. Het geldt tot dat tijdstip als besluit, gebaseerd op [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=27&z=2025-08-01&g=2025-08-01) van deze wet.
 
-#### Artikel 41. Overgangsrecht medezeggenschapreglement en medezeggenschapsstatuut
+##### Artikel 41. Overgangsrecht medezeggenschapreglement en medezeggenschapsstatuut
 
 Vervallen
 
-#### Artikel 42. Geldigheidsduur ontheffing/toestemming op grond van [art. 31 WMO 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005746&artikel=31)
+##### Artikel 42. Geldigheidsduur ontheffing/toestemming op grond van [art. 31 WMO 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005746&artikel=31)
 
 Vervallen
 
-#### Artikel 43. Aantreden nieuwe commissie; beslissing aanhangige geschillen
+##### Artikel 43. Aantreden nieuwe commissie; beslissing aanhangige geschillen
 
 Vervallen
 
-#### Artikel 44. Voorlopige medezeggenschapsraad
+##### Artikel 44. Voorlopige medezeggenschapsraad
 
 1. Indien aan een school nog geen medezeggenschapsraad is verbonden, wordt aan de school binnen een half jaar een voorlopige medezeggenschapsraad gekozen.
 
@@ -640,27 +667,27 @@ Vervallen
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing indien aan scholen nog geen gemeenschappelijke medezeggenschapsraad is verbonden.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt de Experimentenwet onderwijs, de Arbeidstijdenwet en de Wet op de rechterlijke organisatie.
 
 ### Hoofdstuk 7. Invoerings- en overgangsbepalingen
 
-#### Artikel 46. Evaluatie
+##### Artikel 46. Evaluatie
 
 Vervallen
 
-#### Artikel 47. Inwerkingtreding
+##### Artikel 47. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 48. Citeertitel
+##### Artikel 48. Citeertitel
 
 Deze wet wordt aangehaald als «Wet medezeggenschap op scholen».
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. Ondersteuningsplanraad
+##### Artikel 4a. Ondersteuningsplanraad
 
 1. Het samenwerkingsverband stelt naast de medezeggenschapsraad, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=1&artikel=3&z=2025-08-01&g=2025-08-01), een ondersteuningsplanraad in.
 
@@ -672,13 +699,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 3. Instemmings- en adviesbevoegdheden
 
-#### Artikel 14a. Instemmingsbevoegdheid ondersteuningsplanraad
+##### Artikel 14a. Instemmingsbevoegdheid ondersteuningsplanraad
 
 Het samenwerkingsverband behoeft de voorafgaande instemming van de ondersteuningsplanraad voor elk door het samenwerkingsverband te nemen besluit met betrekking tot vaststelling of wijziging van het ondersteuningsplan, bedoeld in [artikel 18a van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a), respectievelijk [artikel 2.47 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.47).
 
 ### Hoofdstuk 4. Organisatie medezeggenschap
 
-#### Artikel 29a. Bepalingen van overeenkomstige toepassing op ondersteuningsplanraad
+##### Artikel 29a. Bepalingen van overeenkomstige toepassing op ondersteuningsplanraad
 
 De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=21&z=2025-08-01&g=2025-08-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=22&z=2025-08-01&g=2025-08-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=23&z=2025-08-01&g=2025-08-01), [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=24&z=2025-08-01&g=2025-08-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=28&z=2025-08-01&g=2025-08-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&artikel=29&z=2025-08-01&g=2025-08-01) zijn van overeenkomstige toepassing op de ondersteuningsplanraad, met dien verstande dat artikel 29 van toepassing is indien ten minste tweederde van het aantal scholen in het samenwerkingsverband gebruik maakt van de in dat artikel genoemde mogelijkheid.
 
@@ -690,7 +717,7 @@ De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=4&ar
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11a. Adviesbevoegdheid ondersteuningsplanraad
+##### Artikel 11a. Adviesbevoegdheid ondersteuningsplanraad
 
 De ondersteuningsplanraad wordt vooraf in de gelegenheid gesteld om advies uit te brengen over elk door het samenwerkingsverband te nemen besluit met betrekking tot in ieder geval de volgende aangelegenheden:
 
@@ -710,7 +737,7 @@ De ondersteuningsplanraad wordt vooraf in de gelegenheid gesteld om advies uit t
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 35a. Executoriale titel
+##### Artikel 35a. Executoriale titel
 
 1. De tenuitvoerlegging van een uitspraak van de commissie waaraan een dwangsom als bedoeld in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&hoofdstuk=5&artikel=31&z=2025-08-01&g=2025-08-01), is verbonden kan plaatsvinden nadat de voorzieningenrechter van de rechtbank van het arrondissement waarin het bevoegd gezag is gevestigd, ter griffie van welke rechtbank het origineel van de uitspraak is neergelegd, daartoe op verzoek van de medezeggenschapsraad verlof heeft verleend.
 
@@ -730,7 +757,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a. Sollicitatiecommissie bestuurder
+##### Artikel 8a. Sollicitatiecommissie bestuurder
 
 Voor het benoemen van een bestuurder wordt een sollicitatiecommissie ingesteld waarvan in elk geval deel uitmaken:
 
@@ -750,7 +777,7 @@ Voor het benoemen van een bestuurder wordt een sollicitatiecommissie ingesteld w
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a. Toepassingsbereik WMS
+##### Artikel 1a. Toepassingsbereik WMS
 
 Deze wet is niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -766,7 +793,7 @@ Deze wet is niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7a. Onder de aandacht brengen instemmings- of adviesbevoegdheid
+##### Artikel 7a. Onder de aandacht brengen instemmings- of adviesbevoegdheid
 
 Indien het bevoegd gezag een voorstel voor advies of instemming voorlegt aan de medezeggenschapsraad of een geleding, wijst het bevoegd gezag de medezeggenschapsraad of die geleding uitdrukkelijk op haar instemmings- of adviesbevoegdheid.
 

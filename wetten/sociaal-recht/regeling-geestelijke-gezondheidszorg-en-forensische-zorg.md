@@ -1,20 +1,45 @@
 ---
 title: "Regeling geestelijke gezondheidszorg en forensische zorg"
 identifier: "BWBR0051654"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051654"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051654"
+soort: "zbo"
+stam_id: "17563293"
+version_id: "30992102"
+internal_id: "C44384621"
+label_id: "17464594"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051654/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36711"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-10-24"
+intitule_in_force: "2025-10-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36711"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36711"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051654&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051654&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-21"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling geestelijke gezondheidszorg en forensische zorg
 
 Gelet op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62), [65](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65) en [68 van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de geneeskundige geestelijke gezondheidszorg en de forensische zorg.
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 - **Acute-ggz-historie:** Patiënt heeft op enig moment in de 365 dagen voorafgaande aan het typeringsmoment een interventie door of namens een GMAP-regievoerder acute zorg.
 
@@ -100,11 +125,11 @@ Gelet op [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16
 
 - **Zorgvraagtypering fz:** Een methode om, in geval het **Forensische zorg** betreft of (delict)gevaarlijke patiënten zonder een forensische titel in de ggz, de zorgvraag voor een **patiënt** te categoriseren. Het FZ-model gebruikt hiervoor een risicotaxatie-instrument, de bepaling van de ernst van het gepleegde delict en een klinische inschatting van de responsiviteit als input. In [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051654&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze regeling is de Zorgvraagtypering FZ vastgelegd. Bijlage 3 is een integraal onderdeel van deze regel.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Het doel van deze regeling is het stellen van voorschriften voor de geestelijke gezondheidszorg en forensische zorg op het gebied van de registratie, administratie, declaratie en informatie.
 
-#### Artikel 1.3. Reikwijdte
+##### Artikel 1.3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die geestelijke gezondheidszorg (ggz) leveren als omschreven bij of krachtens de [Zorgverzekeringswet (Zvw)](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
@@ -114,7 +139,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 ### Hoofdstuk 2. Informatie-elementen
 
-#### Artikel 2.1. Informatie-elementen
+##### Artikel 2.1. Informatie-elementen
 
 - A. **Gegevens zorgaanbieder**
 
@@ -228,7 +253,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 ### Hoofdstuk 3. Registratie verplichtingen
 
-#### Artikel 3.1. Algemene Registratieverplichtingen
+##### Artikel 3.1. Algemene Registratieverplichtingen
 
 Lid 1
 
@@ -294,7 +319,7 @@ Lid 4
 
 De **zorgaanbieder** registreert per **patiënt** de gegevens die noodzakelijk zijn om vast te stellen of de prestatie behoort tot het verzekerde pakket, conform [artikel 7.2, aanhef en onder g, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=7.2). Deze regel geldt voor de geneeskundige ggz en niet voor de forensische zorg.
 
-#### Artikel 3.2. Registratieverplichtingen verantwoording consulten
+##### Artikel 3.2. Registratieverplichtingen verantwoording consulten
 
 Lid 1
 
@@ -304,7 +329,7 @@ Lid 2
 
 De **zorgaanbieder** mag afwijken van de hoofdregel in lid 1 en op een eigen manier invulling geven aan het registreren van de werkelijk bestede tijd aan het **contact** als de eigen invulling conform de veldafspraak over planning is realisatie in het zorgprestatiemodel plaatsvindt. Dit geldt ook voor groepsconsulten, maar niet voor asynchrone digitale zorg. De zorgaanbieder toetst periodiek, maar minimaal 1 keer per jaar, of de gehanteerde invulling een goede benadering is van de werkelijk bestede tijd. Als op deze wijze wordt gewerkt dient informatie-element f4 Geplande starttijd consult te worden geregistreerd.
 
-#### Artikel 3.3. Registratieverplichtingen zorgvraag GGZ
+##### Artikel 3.3. Registratieverplichtingen zorgvraag GGZ
 
 Lid 1
 
@@ -354,21 +379,21 @@ De onderstaande informatie-elementen worden op grond van [artikel 3.1 lid 1](htt
 
 - d10. **Gekozen zorgvraagtype**.
 
-#### Artikel 3.4. Registratieverplichtingen zorgtraject ggz
+##### Artikel 3.4. Registratieverplichtingen zorgtraject ggz
 
 De **zorgaanbieder** bepaalt een **zorgtrajectnummer** zodra een **patiënt** in zorg komt. Het zorgtraject krijgt als openingsdatum de uitvoerings**datum** van de eerste prestatie. De **zorgaanbieder** koppelt het **zorgtrajectnummer** aan alle ggz prestaties voor die **patiënt** geleverd door de **zorgaanbieder** tot het moment waarop de zorgverlener en/of **patiënt** de behandeling afsluiten. Bij terugval/recidive binnen een jaar na de laatste prestatie moet hetzelfde **zorgtrajectnummer** opnieuw worden gebruikt.
 
-#### Artikel 3.5. Registratieverplichtingen zorgtraject FZ
+##### Artikel 3.5. Registratieverplichtingen zorgtraject FZ
 
 De **indicatiesteller fz** bepaalt een **zorgtrajectnummer**. Het zorgtraject krijgt als openingsdatum de datum waarop de indicatie is vastgesteld. De zorgaanbieder ontvangt dit zorgtrajectnummer via het plaatsingsbesluit en registreert het **zorgtrajectnummer** bij alle fz-prestaties die aan de betreffende patiënt worden geleverd.
 
-#### Artikel 3.6. Registratieverplichtingen zorglabel
+##### Artikel 3.6. Registratieverplichtingen zorglabel
 
 De **zorgaanbieder** registreert het **zorglabel** indien het een verplicht **zorglabel** betreft en het van toepassing is op de betreffende **prestatie**.
 
 In [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051654&bijlage=1&z=2026-01-01&g=2026-01-01) bij deze regeling is een overzicht opgenomen van de publieke zorglabels. Bijlage 1 is een integraal onderdeel van deze regel.
 
-#### Artikel 3.7. Registratieverplichtingen Overige prestaties
+##### Artikel 3.7. Registratieverplichtingen Overige prestaties
 
 Lid 1
 
@@ -436,7 +461,7 @@ Voor de Overige prestaties Consult Acute ggz ter dekking van het budget en Inter
 
 ### Hoofdstuk 4. Informatie verplichtingen
 
-#### Artikel 4.1. Informatieverplichtingen bij declaratie
+##### Artikel 4.1. Informatieverplichtingen bij declaratie
 
 Lid 1
 
@@ -482,7 +507,7 @@ Uitgezonderd van de verplichting in lid 1 van dit artikel zijn de volgende infor
 
 - f6. Naam zorgverlener die de prestatie heeft geleverd, onder de voorwaarden dat het een elektronische declaratie is en informatie-element f7 ‘**AGB-code zorgverlener** die de prestatie heeft geleverd’ is ingevuld.
 
-#### Artikel 4.2. Informatieverplichtingen aan de NZa
+##### Artikel 4.2. Informatieverplichtingen aan de NZa
 
 Lid 1 **Informatie verplichting Zorgprestatiemodel**
 
@@ -536,7 +561,7 @@ Uitgezonderd van de verplichting in lid 1 van dit artikel zijn de volgende infor
 
 - f10. Contractnummer (fz).
 
-#### Artikel 4.3. Uitzondering in geval van privacybezwaren ggz
+##### Artikel 4.3. Uitzondering in geval van privacybezwaren ggz
 
 Lid 1
 
@@ -568,11 +593,11 @@ Informatie-elementen vallend onder de verklaring als genoemd in lid 1:
 
 ### Hoofdstuk 5. Overige verplichtingen
 
-#### Artikel 5.1. Administratieverplichting
+##### Artikel 5.1. Administratieverplichting
 
 De administratieve organisatie is zodanig ingericht dat een **audittrail** mogelijk is. De NZa en de zorgverzekeraar moeten altijd de mogelijkheid hebben om de registratie op juistheid te controleren, met het oog op [artikel 36 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [hoofdstuk 7 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=7) en de [Nadere regel controle en administratie zorgverzekeraars](https://wetten.overheid.nl/jci1.3:c:BWBR0037337).
 
-#### Artikel 5.2. Voorschriften en beperkingen in de tariefbeschikking
+##### Artikel 5.2. Voorschriften en beperkingen in de tariefbeschikking
 
 In de tariefbeschikking neemt de NZa op grond van [artikel 50 lid 3 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) de onderstaande voorschriften en /of beperkingen op als declaratie voorwaarde:
 
@@ -580,7 +605,7 @@ Bij declaratie moeten c1 Naam Regiebehandelaar en c2 AGB-code regiebehandelaar v
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Intrekking oude regelingen
+##### Artikel 6.1. Intrekking oude regelingen
 
 Gelijktijdig met de inwerkingtreding van deze Regeling geestelijke gezondheidszorg en forensische zorg, met kenmerk NR/REG-2616b wordt de [Regeling geestelijke gezondheidszorg en forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050523), met kenmerk NR/REG-2508a, ingetrokken.
 
@@ -588,7 +613,7 @@ Gelijktijdig met de inwerkingtreding van deze Regeling geestelijke gezondheidszo
 
 Gelijktijdig met de inwerkingtreding van deze Regeling geestelijke gezondheidszorg en forensische zorg, met kenmerk NR/REG-2616b, wordt de gepubliceerde maar nog niet in werking getreden [Regeling geestelijke gezondheidszorg en forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0051305), met kenmerk NR/REG-2616a, ingetrokken.
 
-#### Artikel 6.2. Overgangsbepaling en inwerkingtreding
+##### Artikel 6.2. Overgangsbepaling en inwerkingtreding
 
 De Regeling Geestelijke gezondheidszorg en forensische zorg, met kenmerk NR/REG-2508a, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regelingen vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regelingen golden.
 
@@ -596,7 +621,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2026. Ingevolge [artike
 
 De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 
-#### Artikel 6.3. Citeertitel
+##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling geestelijke gezondheidszorg en forensische zorg.
 

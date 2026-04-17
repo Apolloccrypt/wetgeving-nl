@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels Protocollaire Basisadministratie"
 identifier: "BWBR0014172"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-02-08
-laatste_update: 2019-02-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014172"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-02-08"
+last_updated: "2019-02-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014172"
+soort: "beleidsregel"
+stam_id: "6188823"
+version_id: "10873542"
+internal_id: "C14731331"
+label_id: "6177934"
+original_entry_into_force: "2002-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014172/2019-02-08/0"
+intitule_bron: "Stcrt.2002-214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-01"
+intitule_published: "2002-11-06"
+intitule_in_force: "2002-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-214"
+original_signed_date: "2002-11-01"
+original_published_date: "2002-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-214-p13-SC36916"
+entry_into_force_date: "2002-11-08"
+jci_1_3: "jci1.3:c:BWBR0014172&z=2019-02-08&g=2019-02-08"
+jci_1_0: "1.0:c:BWBR0014172&g=2019-02-08"
+citeertitel_status: "officieel"
+signed_date: "2002-11-01"
+entry_into_force: "2002-11-08"
 ---
-
 # Beleidsregels Protocollaire Basisadministratie
 
 De Minister van Buitenlandse Zaken;
@@ -30,7 +54,7 @@ Gelet op de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -46,13 +70,13 @@ In dit besluit wordt verstaan onder:
 
 - f. derde: elke andere persoon of instelling dan een afnemer en de geprivilegieerde.
 
-#### Artikel 2. PROBAS
+##### Artikel 2. PROBAS
 
 1. De Minister is ten aanzien van PROBAS de verwerkingsverantwoordelijke in de zin van artikel 4, onder 7, van de Algemene verordening gegevensbescherming.
 
 2. DPG is ten aanzien van PROBAS de beheerder aan wie het feitelijk beheer en de bevoegdheden van de Minister ten aanzien van de verwerkingen van persoonsgegevens van geprivilegieerden zijn gemandateerd.
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 PROBAS heeft tot doel:
 
@@ -60,7 +84,7 @@ PROBAS heeft tot doel:
 
 - b. de afnemers te voorzien van de persoonsgegevens, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2019-02-08&g=2019-02-08), voor zover deze gegevens noodzakelijk zijn voor de vervulling van de taken van de afnemers.
 
-#### Artikel 4. Soorten opgenomen persoonsgegevens
+##### Artikel 4. Soorten opgenomen persoonsgegevens
 
 PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
@@ -84,15 +108,15 @@ PROBAS omvat de volgende persoonsgegevens van geprivilegieerden:
 
 - j. een digitale foto.
 
-#### Artikel 5. Verwijdering en vernietiging van persoonsgegevens
+##### Artikel 5. Verwijdering en vernietiging van persoonsgegevens
 
 Vervallen
 
-#### Artikel 6. Afnemers
+##### Artikel 6. Afnemers
 
 Vervallen
 
-#### Artikel 7. Verstrekking aan afnemers
+##### Artikel 7. Verstrekking aan afnemers
 
 1. Uit PROBAS worden, voor zover zulks voortvloeit uit het doel van PROBAS, persoonsgegevens verstrekt aan afnemers. De verstrekking vindt slechts plaats op een verzoek dat de grondslag voor de verstrekking vermeldt. Het persoonsgegeven, genoemd in [artikel 4, onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=4&z=2019-02-08&g=2019-02-08), wordt uitsluitend verstrekt aan de afnemers, genoemd in het tweede lid, onder c en d.
 
@@ -126,7 +150,7 @@ Vervallen
 
 6. De aantekening wordt verwijderd na afloop van 5 jaren nadat de verstrekking heeft plaatsgevonden.
 
-#### Artikel 8. Rechtstreekse toegang, beheer en veiligheid
+##### Artikel 8. Rechtstreekse toegang, beheer en veiligheid
 
 1. Rechtstreekse toegang tot PROBAS, dan wel onderdelen daarvan, hebben personen die daartoe door DPG zijn geautoriseerd. De autorisatie geeft aan voor welk doel de rechtstreekse toegang is verleend.
 
@@ -134,7 +158,7 @@ Vervallen
 
 3. Indien aan DPG, al dan niet naar aanleiding van een verzoek van de geprivilegieerde als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0014172&artikel=10&z=2019-02-08&g=2019-02-08) blijkt dat bepaalde persoonsgegevens in PROBAS onjuist zijn, draagt DPG zo spoedig mogelijk zorg voor verbetering van die gegevens.
 
-#### Artikel 9. Kennisgeving
+##### Artikel 9. Kennisgeving
 
 1. Indien de persoonsgegevens bij de geprivilegieerde worden verkregen, deelt DPG vóór het moment van verkrijging mee welke gegevens zullen worden opgenomen in PROBAS. Tevens wordt mededeling gedaan van het doel van PROBAS alsmede het beleid omtrent het verstrekken van persoonsgegevens uit PROBAS.
 
@@ -142,7 +166,7 @@ Vervallen
 
 3. De mededelingen, bedoeld in het eerste en tweede lid, kunnen achterwege blijven indien de geprivilegieerde reeds van deze informatie op de hoogte is. De mededeling blijft tevens achterwege indien mededeling van de informatie onmogelijk blijkt of een onevenredige inspanning kost. In dat geval legt DPG de herkomst van de gegevens vast.
 
-#### Artikel 10. Recht van kennisneming
+##### Artikel 10. Recht van kennisneming
 
 1. DPG deelt op verzoek van een geprivilegieerde aan hem mee:
 
@@ -158,7 +182,7 @@ Vervallen
 
 4. Op een verzoek, bedoeld in het eerste lid, wordt binnen vier weken, nadat het verzoek is ontvangen, schriftelijk beslist.
 
-#### Artikel 11. Recht van verbetering en afscherming
+##### Artikel 11. Recht van verbetering en afscherming
 
 1. Een geprivilegieerde kan DPG verzoeken bepaalde persoonsgegevens over hem te verbeteren, aan te vullen, te verwijderen of af te schermen.
 
@@ -168,11 +192,11 @@ Vervallen
 
 4. Op een verzoek, bedoeld in het eerste lid, wordt binnen vier weken na ontvangst, schriftelijk beslist.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregels Protocollaire Basisadministratie.
 

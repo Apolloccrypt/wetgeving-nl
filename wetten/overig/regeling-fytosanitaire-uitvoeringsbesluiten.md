@@ -1,20 +1,46 @@
 ---
-title: "Regeling fytosanitaire uitvoeringsbesluiten"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20040426, tot vaststelling van bepalingen voor de implementatie van fytosanitaire uitvoeringsbesluiten (Regeling fytosanitaire uitvoeringsbesluiten)"
 identifier: "BWBR0044858"
-categorie: "Overig"
-publicatiedatum: 2025-01-26
-laatste_update: 2025-01-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044858"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-26"
+last_updated: "2025-01-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044858"
+soort: "ministeriele-regeling"
+stam_id: "15860053"
+version_id: "28044902"
+internal_id: "C39556451"
+label_id: "15795124"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044858/2025-01-26/0"
+intitule_bron: "Stcrt.2021-9541"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-02-10"
+intitule_published: "2021-02-25"
+intitule_in_force: "2021-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-42361"
+original_signed_date: "2021-09-28"
+original_published_date: "2021-09-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-42361"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0044858&z=2025-01-26&g=2025-01-26"
+jci_1_0: "1.0:c:BWBR0044858&g=2025-01-26"
+citeertitel_status: "officieel"
+short_title: "Regeling fytosanitaire uitvoeringsbesluiten"
+signed_date: "2021-09-28"
+entry_into_force: "2021-10-01"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 10 februari 2021, nr. WJZ/ 20040426, tot vaststelling van bepalingen voor de implementatie van fytosanitaire uitvoeringsbesluiten (Regeling fytosanitaire uitvoeringsbesluiten)
 
 Gelet op Verordening (EU) 2016/2031 van het Europees parlement en de Raad van 26 oktober 2016 betreffende beschermende maatregelen tegen plaagorganismen bij planten, tot wijziging van de Verordeningen (EU) nr. 228/213, (EU) nr. 652/2014 en (EU) nr. 1143/2014 van het Europees parlement en de Raad tot intrekking van de [Richtlijnen 69/464/EEG](31969L0464), [74/467/EEG](31974L0467), [93/85/EEG](31993L0085), [98/57/EG](31998L0057), [2000/29/EG](32000L0029), [2006/91/EG](32006L0091) en [2007/33/EG](32007L0033) van de Raad (PbEU 2016, L 317) en [artikel 9 van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=9);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 **wet**: [Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194).
 
-#### Artikel 2
+##### Artikel 2
 
 1. In dit artikel wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 3. De afvalstoffen die overblijven na het verpakken en verwerken van knollen van Solanum tuberosum L., andere dan bestemd voor opplant, van oorsprong uit Egypte worden zo verwijderd dat het schadelijk organisme zich niet in de Europese Unie kan vestigen of verspreiden.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -82,15 +108,15 @@ Vervallen
 
 7. Hout afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, wordt slechts in de Europese Unie binnengebracht als het voldoet aan de specifieke invoervoorschriften, bedoeld in artikel 12 van uitvoeringsbesluit 2018/1503.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -128,7 +154,7 @@ Vervallen
 
 9. Houten verpakkingsmateriaal, van oorsprong afkomstig uit een overeenkomstig artikel 7 van uitvoeringsbesluit 2015/893 afgebakend gebied, mag slechts worden vervoerd als het voldoet aan de voorwaarden van bijlage II, rubriek 2, punt C, bij uitvoeringsbesluit 2015/893.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -148,15 +174,15 @@ Vervallen
 
 5. Knollen van Solanum tuberosum L. van oorsprong uit gebieden in de Europese Unie die overeenkomstig artikel 5 van uitvoeringsbesluit 2012/270 zijn afgebakend, mogen alleen binnen de Europese Unie worden vervoerd als zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit 2012/270.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -172,15 +198,15 @@ Vervallen
 
 5. De minister verleent op verzoek een erkenning voor de verwerkingslocatie, bedoeld in het derde lid, en voor de opslaglocatie, bedoeld in het vierde lid.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor de toepassing van dit artikel wordt verstaan onder:
 
@@ -204,7 +230,7 @@ Vervallen
 
 6. Hout van gevoelige planten, hout van coniferen (Pinales) en bast van coniferen (Pinales) van oorsprong uit niet-Europese derde landen, mag slechts in de Europese Unie worden binnengebracht als het voldoet aan de specifieke invoervoorschriften als bedoeld in artikel 10 van uitvoeringsbesluit 2019/2032.
 
-#### Artikel 16
+##### Artikel 16
 
 1. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=4&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 juli 2023.
 
@@ -218,11 +244,11 @@ Vervallen
 
 6. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044858&artikel=7&z=2025-01-26&g=2025-01-26) vervalt met ingang van 1 januari 2024.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling fytosanitaire uitvoeringsbesluiten.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van 1 maart 2021.
 

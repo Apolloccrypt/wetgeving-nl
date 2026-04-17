@@ -1,18 +1,40 @@
 ---
 title: "Bilaterale Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru"
 identifier: "BWBV0005609"
-categorie: "Milieu"
-publicatiedatum: 1968-04-19
-laatste_update: 1968-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005609"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-04-19"
+last_updated: "1968-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005609"
+soort: "verdrag"
+stam_id: "10004759753"
+version_id: "10005036512"
+internal_id: "C10008343481"
+label_id: "10004743684"
+dtd_version: "2.0"
+original_entry_into_force: "1956-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005609/1968-04-19/0"
+intitule_bron: "Trb.1953-60"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1953-07-21"
+intitule_in_force: "1956-07-11"
+intitule_status: "goed"
+original_publication: "Trb.1953-60"
+original_published_date: "1953-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1953-60"
+entry_into_force_date: "1956-06-01"
+jci_1_3: "jci1.3:c:BWBV0005609&z=1968-04-19&g=1968-04-19"
+jci_1_0: "1.0:c:BWBV0005609&g=1968-04-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-06-01"
 ---
-
 # Bilaterale Overeenkomst inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru, bezield door de wens het burgerlijke en commerciële luchtvervoer tussen haar onderscheiden grondgebieden te bevorderen, en gelet op de aanbeveling, uitgesproken door de Internationale Burgerlijke Luchtvaart Conferentie, in vergadering bijeen te Chicago van 1 November tot 7 December 1944, welke aanbeveling is vervat in resolutie VIII van 7 December 1944 en welke aanbeveelt om de grootst mogelijke eenvormigheid te verkrijgen tussen de Overeenkomsten inzake de luchtdiensten, welke de Staten overkomen, hebben besloten de volgende bilaterale Overeenkomst inzake luchtvervoer te sluiten, welke de geregelde luchtdiensten omvat, welke in het hiernavolgende zijn omschreven, en welke door de volgende bepalingen zal worden beheerst:
 
-#### Artikel I. Definities
+##### Artikel I. Definities
 
 Met betrekking tot deze Overeenkomst zullen de uitdrukkingen, welke hieronder worden omschreven, de betekenis hebben, welke in dit Artikel blijkt, behalve wanneer in de tekst van de Overeenkomst uitdrukkelijk anders is vermeld.
 
@@ -30,11 +52,11 @@ Met betrekking tot deze Overeenkomst zullen de uitdrukkingen, welke hieronder wo
 
 - g. De uitdrukking „luchtroute” zal betekenen de vastgestelde route, te volgen door een luchtvaartuig, dat een regelmatige dienst uitvoert voor het openbaar vervoer van passagiers, vracht en/of post.
 
-#### Artikel II
+##### Artikel II
 
 Beide Overeenkomstsluitende Partijen verlenen elkaar wederkerig de rechten, opgesomd in de Bijlage bij deze Overeenkomst, in de mate, zoals in die Bijlage omschreven, teneinde internationale luchtroutes en -diensten van commerciële aard tussen hun onderscheiden grondgebieden in te stellen.
 
-#### Artikel III
+##### Artikel III
 
 a. De luchtdiensten, omschreven in de Bijlage, mogen onmiddellijk dan wel op een latere datum worden ingesteld, naar keuze van de Overeenkomstsluitende Partij, aan welke de rechten worden verleend; doch deze diensten zullen niet mogen worden geopend:
 
@@ -46,7 +68,7 @@ b. De door een der Overeenkomstsluitende Partijen aangewezen luchtvaartmaatschap
 
 c. Wanneer het zones betreft, welke militair bezet zijn of welke verband houden met militaire eisen, zal de opening van de diensten afhankelijk zijn van de goedkeuring van de bevoegde militaire autoriteiten van het betrokken land.
 
-#### Artikel IV
+##### Artikel IV
 
 Teneinde discriminerende praktijken te voorkomen en gelijkheid van behandeling te verzekeren, komen beide Overeenkomstsluitende Partijen overeen, dat:
 
@@ -58,29 +80,29 @@ Teneinde discriminerende praktijken te voorkomen en gelijkheid van behandeling t
 
 - d. De artikelen, vrijgesteld volgens het vorige lid, slechts gelost zullen mogen worden met toestemming van de douane-autoriteiten van de andere Overeenkomstsluitende Partij en, indien zij weer uitgevoerd moeten worden, zij tot weder uitvoer onder het toezicht van die autoriteiten zullen blijven.
 
-#### Artikel V
+##### Artikel V
 
 De bewijzen van luchtwaardigheid en de bewijzen van bevoegdheid, uitgereikt of geldig verklaard door een van de Overeenkomstsluitende Partijen, zullen door de andere Overeenkomstsluitende Partij voor de exploitatie van in de Bijlage omschreven routes en diensten als geldig worden erkend zonder afbreuk te doen aan de rechten van inschrijving of registratie, welke voor de erkenning van die geldigheid vereist kunnen zijn. Elk van de Overeenkomstsluitende Partijen behoudt zich evenwel het recht voor om voor vluchten boven haar eigen grondgebied de erkenning van bewijzen van bevoegdheid door een andere Staat aan haar eigen onderdanen uitgereikt, te weigeren.
 
-#### Artikel VI
+##### Artikel VI
 
 a. De wetten en voorschriften van een Overeenkomstsluitende Partij betreffende de binnenkomst in of het vertrek uit haar grondgebied van de luchtvaartuigen, bestemd voor de internationale luchtvaart of die betreffende de exploitatie van en het vliegen met die luchtvaartuigen binnen dat grondgebied, zullen zonder onderscheid van nationaliteit van toepassing zijn op de luchtvaartuigen, welke door de luchtvaartmaatschappij, aangewezen door de andere Overeenkomstsluitende Partij, worden gebruikt en zullen worden in acht genomen en nageleefd door de genoemde luchtvaartuigen bij binnenkomst in of vertrek uit het grondgebied van eerstgenoemde Partij of terwijl zij zich binnen het grondgebied bevinden.
 
 b. De wetten en voorschriften van een Overeenkomstsluitende Partij betreffende de binnenkomst in of het vertrek uit haar grondgebied van passagiers, bemanning of vracht van de luchtvaartuigen, zoals de voorschriften betreffende de binnenkomst, afhandeling, immigratie, paspoorten, douane, quarantaine en dergelijke zullen door de passagiers, bemanning en vracht van luchtvaartuigen in gebruik bij de luchtvaartmaatschappij, aangewezen door de andere Overeenkomstsluitende Partij, of namens hen in acht genomen en nageleefd worden, zowel bij binnenkomst als vertrek of terwijl zij vertoeven binnen het grondgebied van eerstgenoemde der Overeenkomstsluitende Partijen.
 
-#### Artikel VII
+##### Artikel VII
 
 Beide Overeenkomstsluitende Partijen behouden zich wederkerig het recht voor de uitoefening van de rechten, vermeld in de Bijlage bij deze Overeenkomst en verleend aan een luchtvaartmaatschappij, aangewezen door de andere Overeenkomstsluitende Partij, te weigeren of te doen eindigen, wanneer het overwegende eigendomsrecht en de daadwerkelijke leiding van die luchtvaartmaatschappij niet berust bij personen, die de nationaliteit van de andere Overeenkomstsluitende Partij hebben. Dit zelfde voorbehoud geldt, wanneer de luchtvaartmaatschappij, aangewezen door de andere Overeenkomstsluitende Partij, de wetten en voorschriften van Overheidswege van de andere Overeenkomstsluitende Partij, bedoeld in het vorige Artikel, niet in acht neemt of de verplichtingen, vervat in deze Overeenkomst of haar Bijlage, niet nakomt.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Deze Overeenkomst en de contracten en vergunningen, welke daarop betrekking hebben, zullen bij de Internationale Burgerlijke Luchtvaart Organisatie worden geregistreerd.
 
-#### Artikel IX
+##### Artikel IX
 
 De luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen zullen met elkaar overleg plegen, op ieder tijdstip dat een van hen daartoe de wens te kennen geeft, ten einde te bepalen, of een of meerdere bepalingen van de Bijlage bij deze Overeenkomst dienen te worden gewijzigd en zij zullen evenzo overleg plegen ten einde te bepalen, of de beginselen, neergelegd in deze Overeenkomst en haar Bijlag, door de luchtvaartmaatschappijen, aangewezen door de Regeringen van de beide Overeenkomstsluitende Partijen, worden nageleefd. Het vermelde overleg zal aanvangen binnen negentig dagen nadat een Overeenkomstsluitende Partij het verzoek tot overleg doet. In geval het overleg leidt tot overeenstemming om bepalingen van de Bijlage te wijzigen zullen die wijzigingen van kracht worden door een rechtstreeks accoord tussen de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen en zullen zij worden bevestigd door een uitwisseling van diplomatieke nota's.
 
-#### Artikel X
+##### Artikel X
 
 Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of toepassing van deze Overeenkomst zullen deze Overeenkomstsluitende Partijen trachten op te lossen door middel van onderlinge besprekingen. Indien de Overeenkomstsluitende Partijen het geschil niet door middel van dergelijke besprekingen kunnen oplossen:
 
@@ -90,39 +112,39 @@ Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging o
 
 De Overeenkomstsluitende Partijen zullen de uitspraak, welke overeenkomstig dit Artikel gegeven wordt, nakomen. Indien een der Overeenkomstsluitende Partijen of een, door een van hen aangewezen, luchtvaartmaatschappij zich niet zou houden aan een uitspraak, gegeven overeenkomstig dit Artikel, zal de andere Overeenkomstsluitende Partij ieder recht, verleend krachtens deze Overeenkomst aan de Overeenkomstsluitende Partij of aan de aangewezen luchtvaartmaatschappij, die in overtreding is, kunnen beperken, opschorten of intrekken.
 
-#### Artikel XI
+##### Artikel XI
 
 Elk van de Overeenkomstsluitende Partijen zal te allen tijde, wanneer zij deze Overeenkomst voor geëindigd wenst te verklaren, aan de andere Overeenkomstsluitende Partij een bericht van opzegging kunnen zenden, waarvan tegelijkertijd aan de Internationale Burgerlijke Luchtvaart Organisatie mededeling moet worden gedaan. Indien besloten wordt aldus te handelen, zal deze Overeenkomst ophouden van kracht te zijn twaalf maanden na de datum, waarop de andere Overeenkomstsluitende Partij het bericht van opzegging heeft ontvangen, tenzij dit wordt ingetrokken met wederzijds goedvinden vóór de aangegeven termijn is verlopen. Indien de Overeenkomstsluitende Partij, waaraan dit bericht gestuurd is, in gebreke blijft de ontvangst te bevestigen, zal aangenomen worden, dat het bericht is ontvangen veertien dagen nadat het ter kennis is gekomen van de Internationale Burgerlijke Luchtvaart Organisatie.
 
-#### Artikel XII
+##### Artikel XII
 
 Deze Overeenkomst zal voorlopig in werking treden zodra zij zal zijn ondertekend en definitief van kracht worden wanneer zij zal zijn goedgekeurd en bekrachtigd overeenkomstig de binnenlandse wetgeving van elk van beide Overeenkomstsluitende Partijen.1)Bij nadere notawisseling tussen de Nederlandse en de Peruaanse Regering is overeengekomen, dat, waar deze Overeenkomst krachtens de Nederlandse binnenlandse wetgeving geen goedkeuring en bekrachtiging behoeft, de definitieve inwerkingtreding geacht wordt afhankelijk te zijn van een latere notawisseling nadat zal zijn voldaan aan de voorschriften van de Peruaanse binnenlandse wetgeving.
 
-#### 1
+##### 1
 
 De Regering van de Republiek Peru verleent aan de Regering van het Koninkrijk der Nederlanden het recht een luchtvervoersdienst in en over haar grondgebied in te stellen door middel van een luchtvaartmaatschappij van Nederlandse nationaliteit, welke door de Regering van het Koninkrijk der Nederlanden zal worden aangewezen, volgens de routes, omschreven in Tabel I.
 
-#### 2
+##### 2
 
 De Regering van het Koninkrijk der Nederlanden verleent aan de Regering van de Republiek Peru het recht een luchtvervoersdienst in en over haar grondgbied in te stellen door middel van een luchtvaartmaatschappij van Peruviaanse nationaliteit, welke door de Regering van de Republiek Peru zal worden aangewezen, volgend de routes, omschreven in Tabel II.
 
-#### 3
+##### 3
 
 De luchtvaartmaatschappij, aangewezen door een Overeenkomstsluitende Partij, overeenkomstig de bepalingen, vervat in de Overeenkomst, zal op het grondgebied van de andere Overeenkomstsluitende Partij het recht genieten om over te vliegen, om technische landigen te verrichten en om passagiers, post en vracht in internationaal verkeer op te nemen en af te zetten op elk van de routes, aangegeven in de onderscheidene Tabellen, uitgezonderd het recht tot cabotage of commercieel binnenlands verkeer.
 
-#### 4
+##### 4
 
 Bij de exploitatie door de aangewezen luchtvaartmaatschappijen, zal op de gemeenschappelijke gedeelten van de in deze Bijlage omschreven routes rekening gehouden worden met de belangen van de luchtvaartmaatschappij van d andere Overeenkomstsluitende Partij, teneinde hun wederzijdse diensten niet onredelijk te beïnvloeden en hun wederzijdse belangen te beschermen.
 
-#### 5
+##### 5
 
 De luchtvervoersdiensten, welke de luchtvaartmaatschappijen van beide landen onderhouden, moeten nauw verband houden met de behoeften van het publiek aan en de vraag naar die diensten.
 
-#### 6
+##### 6
 
 De luchtvaartmaatschappijen, overeenkomstig de Overeenkomst en de Bijlage aangewezen, zullen er naar streven, dat het eerste doel van hun diensten zal zijn het verschaffen van een capaciteit, voldoende voor de verkeersbehoefte tussen het grondgebied van het land, waartoe de luchtvaartmaatschappij behoort en het grondgebied van het land, waarvoor het verkeer is bestemd.
 
-#### 7
+##### 7
 
 Het recht van een door een van beide landen aangewezen luchtvaartmaatschappij om op punten van het grondgebied van het andere land passagiers, vracht en post van internationale aard, bestemd voor derde landen of daarvan afkomstig, op te nemen of af te zetten op een of meerdere punten van de in de aangehechte Routetabellen vermelde punten, zal worden uitgeoefend overeenkomstig de algemene beginselen van luchtverkeer, welke beide Regeringen erkennen, toegepast op een voortuitstrevende wijze en zal onderworpen zijn aan het algemene beginsel, dat de luchtvaartmaatschappijen ernaar moeten streven, dat hun capaciteit verband houdt met:
 
@@ -132,7 +154,7 @@ Het recht van een door een van beide landen aangewezen luchtvaartmaatschappij om
 
 - 3. de verkeersbehoeften van het gebied, waarover de luchtlijn voert, nadat rekening gehouden is met locale en regionale diensten.
 
-#### 8
+##### 8
 
 De te heffen tarieven op elk van de overeengekomen diensten zullen op redelijke hoogten worden vastgesteld, waarbij rekening gehouden zal worden met terzake dienende factoren, zoals economische exploitatie, redelijke winst, verschillen in de hoedanigheden van de dienst en met de tarieven, welke door andere luchtvaartmaatschappijen op enig deel van de route worden berekend. Deze tarieven zullen overeenkomstig de volgende bepalingen worden vastgesteld. De tarieven zullen, indien mogelijk, voor iedere route worden overeengekomen door de aangewezen luchtvaartmaatschappijen. Een zodanige overeenkomst zal gebaseerd zijn op het tarievensysteem van de Internationale Luchtvervoer Vereniging. Van de aldus overeengekomen tarieven moet kennis gegeven worden aan de luchtvaartautoriteiten van beide Overeenkomstsluitende Partijen. Wanneer de luchtvaartmaatschappijen geen overeenstemming omtrent de tarieven kunnen bereiken of indien de luchtvaartautoriteiten van een der Overeenkomstsluitende Partijen daartegen bezwaar hebben, zullen de luchtvaartautoriteiten van de Republiek Peru en van het Koninkrijk der Nederlanden trachten deze in onderlinge overeenstemming vast te stellen.
 

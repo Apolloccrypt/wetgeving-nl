@@ -1,13 +1,38 @@
 ---
 title: "Wet inkomstenbelasting BES, eigen woning; aftrek van kosten als persoonlijke lasten"
 identifier: "BWBR0044462"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-12-11
-laatste_update: 2020-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044462"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2020-12-11"
+last_updated: "2020-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044462"
+soort: "beleidsregel-BES"
+stam_id: "15741613"
+version_id: "27276322"
+internal_id: "C38536221"
+label_id: "15679974"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044462/2020-12-11/0"
+intitule_bron: "Stcrt.2020-62994"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-07"
+intitule_published: "2020-12-10"
+intitule_in_force: "2020-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62994"
+original_signed_date: "2020-12-07"
+original_published_date: "2020-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62994"
+entry_into_force_date: "2020-12-11"
+jci_1_3: "jci1.3:c:BWBR0044462&z=2020-12-11&g=2020-12-11"
+jci_1_0: "1.0:c:BWBR0044462&g=2020-12-11"
+citeertitel_status: "redactioneel"
+signed_date: "2020-12-07"
+entry_into_force: "2020-12-11"
 ---
-
 # Wet inkomstenbelasting BES, eigen woning; aftrek van kosten als persoonlijke lasten
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

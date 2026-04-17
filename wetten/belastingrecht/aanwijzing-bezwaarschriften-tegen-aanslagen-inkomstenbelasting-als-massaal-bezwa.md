@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting als massaal bezwaar"
 identifier: "BWBR0036754"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-07-28
-laatste_update: 2015-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036754"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-07-28"
+last_updated: "2015-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036754"
+soort: "beleidsregel"
+stam_id: "13191353"
+version_id: "22483272"
+internal_id: "C32309011"
+label_id: "13159684"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036754/2015-07-28/0"
+intitule_bron: "Stcrt.2015-18400"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-26"
+intitule_published: "2015-06-30"
+intitule_in_force: "2015-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-18400"
+original_signed_date: "2015-06-26"
+original_published_date: "2015-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-18400"
+entry_into_force_date: "2015-07-28"
+jci_1_3: "jci1.3:c:BWBR0036754&z=2015-07-28&g=2015-07-28"
+jci_1_0: "1.0:c:BWBR0036754&g=2015-07-28"
+citeertitel_status: "redactioneel"
+signed_date: "2015-06-26"
+entry_into_force: "2015-07-28"
 ---
-
 # Aanwijzing bezwaarschriften tegen aanslagen inkomstenbelasting als massaal bezwaar
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

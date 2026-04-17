@@ -1,16 +1,41 @@
 ---
 title: "Wet beëindiging arbeidsovereenkomsten BES"
 identifier: "BWBR0028174"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028174"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028174"
+soort: "wet-BES"
+stam_id: "10688393"
+version_id: "17649542"
+internal_id: "C24832811"
+label_id: "10663064"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028174/2012-01-01/0"
+intitule_bron: "Stb.2010-595"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-595"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-595"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028174&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0028174&g=2012-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet beëindiging arbeidsovereenkomsten BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze wet wordt verstaan onder:
 
 - d. **dringende reden voor de werkgever:** zodanige daden, eigenschappen of gedragingen van de werknemer, welke ten gevolge hebben, dat van de werkgever redelijkerwijze niet kan worden gevergd de dienstbetrekking te laten voortduren.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
@@ -36,7 +61,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 - e. directeuren van een vennootschap of een doelvermogen.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Bij ministeriële regeling worden op schriftelijk verzoek van het bestuurscollege van het desbetreffende openbare lichaam Bonaire, Sint Eustatius of Saba bedrijfstakken aangewezen ten aanzien waarvan voor de beëindiging van de binnen die bedrijfstakken aangegane arbeidsovereenkomsten de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), al dan niet voor een bepaalde tijd, niet van toepassing zijn. Intrekking van de ministeriële regeling geschiedt eveneens op schriftelijk verzoek van het Bestuurscollege.
 
@@ -82,7 +107,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 5. Een bedrijf, waarop de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01) en [4 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01) ingevolge een ministeriële regeling, bedoeld in het eerste of derde lid, niet van toepassing zijn, is verplicht Onze Minister onverwijld schriftelijk in kennis te stellen van de beëindiging van een arbeidsovereenkomst, waarvoor hij zonder evenbedoelde ministeriële regeling toestemming van Onze Minister als bedoeld in artikel 4, nodig zou hebben.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij regeling van Onze Minister wordt zoveel mogelijk voor elk openbaar lichaam afzonderlijk een commissie ingesteld die tot taak heeft Onze Minister van advies te dienen met betrekking tot ieder bij hem ingediend verzoek om toestemming tot het beëindigen van een arbeidsovereenkomst.
 
@@ -94,7 +119,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 5. De voorzitter en de leden van een commissie zijn verplicht tot geheimhouding van al hetgeen zij in hun hoedanigheid vernemen, voorzover mededeling daarvan niet bij of krachtens wet is voorgeschreven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is de werkgever verboden de arbeidsovereenkomst te beëindigen door deze op te zeggen zonder toestemming van Onze Minister dan wel in strijd met een voorwaarde waaronder de toestemming is gegeven.
 
@@ -114,7 +139,7 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 4. Het verzoek om toestemming tot het beëindigen van een arbeidsovereenkomst wordt gedaan aan Onze Minister. Het verzoek wordt geacht niet te zijn gedaan, zolang de vereiste gegevens niet zijn verstrekt en de vereiste bewijsstukken niet zijn overgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01) dient een werkgever, zodra hij voornemens is binnen een termijn van drie maanden vijf en twintig werknemers of meer dan wel meer dan 25% van het aantal werknemers in een vestiging ener onderneming, voorzover dit percentage niet resulteert in vijf of minder werknemers, te ontslaan dit voornemen minstens twee maanden voor het beëindigen der arbeidsovereenkomst aan Onze Minister te kennen te geven.
 
@@ -124,17 +149,17 @@ Deze wet is niet van toepassing op de arbeidsovereenkomst van:
 
 4. Het is de werkgever verboden een arbeidsovereenkomst te beëindigen, zolang Onze Minister, met inachtneming van het derde lid, geen beoordeling heeft gegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij ministeriële regeling kunnen nadere voorschrift worden gegeven ter uitvoering van de bepalingen van deze wet.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Handelingen in strijd met de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), en [5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2012-01-01&g=2012-01-01), zijn vernietigbaar.
 
 2. De werknemer kan deze vernietigbaarheid inroepen gedurende zes maanden na de opzegging, die gericht is op beëindiging van de arbeidsovereenkomst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Met het toezicht op de naleving van deze wet en daarop berustende bepalingen zijn belast de daartoe door Onze Minister aangewezen ambtenaren. Deze aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -154,13 +179,13 @@ Bij ministeriële regeling kunnen nadere voorschrift worden gegeven ter uitvoeri
 
 5. Een ieder is verplicht aan de krachtens het eerste lid aangewezen personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Hij die handelt in strijd met het bepaalde bij of krachtens [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=2a&z=2012-01-01&g=2012-01-01), [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=4&z=2012-01-01&g=2012-01-01), of [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=5&z=2012-01-01&g=2012-01-01) wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de derde categorie.
 
 2. De strafbare feiten bedoeld in het eerste lid worden beschouwd als overtredingen.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Overtreding van het voorschrift gesteld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028174&artikel=3&z=2012-01-01&g=2012-01-01), wordt, voor zover opzettelijk begaan, beschouwd als misdrijf en gestraft met gevangenisstraf van ten hoogste twee jaar of een geldboete van de tweede categorie.
 
@@ -168,18 +193,18 @@ Bij ministeriële regeling kunnen nadere voorschrift worden gegeven ter uitvoeri
 
 3. Indien de overtreding tegen een bepaalde persoon gepleegd is, wordt zij slechts vervolgd op diens klacht.
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: Wet beëindiging arbeidsovereenkomsten BES.

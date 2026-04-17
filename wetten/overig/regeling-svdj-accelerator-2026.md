@@ -1,13 +1,39 @@
 ---
-title: "Regeling SVDJ Accelerator 2026"
+title: "Stimuleringsfonds voor de Journalistiek van 3 december 2025, nr. INV2026, tot vaststelling van een subsidieregeling Journalistieke Innovatie 2026"
 identifier: "BWBR0052381"
-categorie: "Overig"
-publicatiedatum: 2026-03-04
-laatste_update: 2026-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052381"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-04"
+last_updated: "2026-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052381"
+soort: "zbo"
+stam_id: "17791373"
+version_id: "31456012"
+internal_id: "C44927251"
+label_id: "17689384"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052381/2026-03-04/0"
+intitule_bron: "Stcrt.2026-8352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-03"
+intitule_published: "2026-03-03"
+intitule_in_force: "2026-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8352"
+original_signed_date: "2025-12-03"
+original_published_date: "2026-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8352"
+entry_into_force_date: "2026-03-04"
+jci_1_3: "jci1.3:c:BWBR0052381&z=2026-03-04&g=2026-03-04"
+jci_1_0: "1.0:c:BWBR0052381&g=2026-03-04"
+citeertitel_status: "officieel"
+short_title: "Regeling SVDJ Accelerator 2026"
+signed_date: "2025-12-03"
+entry_into_force: "2026-03-04"
 ---
-
 # Stimuleringsfonds voor de Journalistiek van 3 december 2025, nr. INV2026, tot vaststelling van een subsidieregeling Journalistieke Innovatie 2026
 
 Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,17 +56,17 @@ In deze regeling wordt verstaan onder:
 
 - d). **Stimuleringsfonds:** het Stimuleringsfonds voor de Journalistiek, bedoeld in [artikel 8.2 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=8.2).
 
-#### Artikel 1.2. Doel van de subsidie
+##### Artikel 1.2. Doel van de subsidie
 
 Subsidieverstrekking op grond van deze regeling heeft tot doel het stimuleren van vernieuwing binnen de journalistieke sector door het ondersteunen van deelnemers bij innovatie, als bedoeld in [artikel 1.1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=1&artikel=1.1&z=2026-03-04&g=2026-03-04). Om dat doel te bereiken is deelname aan een door het Stimuleringsfonds aangeboden begeleidingsprogramma onlosmakelijk aan de subsidieverstrekking verbonden.
 
-#### Artikel 1.3. Subsidieperiode
+##### Artikel 1.3. Subsidieperiode
 
 De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoerd in de periode 11 mei 2026 tot en met 25 november 2026.
 
 ### Hoofdstuk 2. Begeleidingsprogramma
 
-#### Artikel 2.1. Toegang
+##### Artikel 2.1. Toegang
 
 1. Toegang tot het begeleidingsprogramma wordt op verzoek verleend.
 
@@ -50,7 +76,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 4. Indien de voor de desbetreffende activiteiten verantwoordelijke rechts- of natuurlijke personen niet in Nederland zijn gevestigd, maar wel in een Europese lidstaat, dient de inschrijving vergezeld te gaan van een verklaring, dat de activiteiten binnen het begeleidingsprogramma zich primair richten op de journalistieke sector binnen het land Nederland, m.u.v. de bijzondere gemeenten vallend onder Caribisch Nederland. Onder primair wordt verstaan: meer dan 75% van de activiteiten die worden verricht. Dergelijke rechtspersonen dienen ook te zijn ingeschreven in het handelsregister van hun vestigingsland.
 
-#### Artikel 2.2. Verzoek tot toelating
+##### Artikel 2.2. Verzoek tot toelating
 
 1. Een verzoek wordt uitsluitend ingediend door het invullen van een door het Stimuleringsfonds vastgesteld formulier op de website van het Stimuleringsfonds, volgens de daarbij vermelde instructies, en omvat in ieder geval:
 
@@ -90,13 +116,13 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 4. Een verzoek wordt alleen in behandeling genomen als deze volledig is. Het Stimuleringsfonds beoordeelt binnen een week na indiening van het verzoek de volledigheid daarvan. Als het verzoek onvolledig is, krijgt de verzoeker bericht over de ontbrekende gegevens, met de eenmalige uitnodiging om de ontbrekende gegevens alsnog binnen één week, maar in elk geval vóór het einde van de periode als genoemd in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2026-03-04), aan te leveren. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
 
-#### Artikel 2.3. Termijn indiening verzoek
+##### Artikel 2.3. Termijn indiening verzoek
 
 1. Een verzoek tot toelating van het begeleidingsprogramma wordt ingediend in de periode van 10 februari 2026 tot en met 23 maart 2026, 23:59 uur.
 
 2. Het Stimuleringsfonds kan andere data vaststellen waarop verzoeken uiterlijk moeten worden ingediend. Deze data worden gepubliceerd op de website van het Stimuleringsfonds [www.svdj.nl](http://www.svdj.nl).
 
-#### Artikel 2.4. Drempelcriteria
+##### Artikel 2.4. Drempelcriteria
 
 1. Verzoeken worden door het Stimuleringsfonds beoordeeld aan de hand van de volgende drempelcriteria:
 
@@ -124,7 +150,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 3. Als uit de de-minimisverklaring volgt dat de aanvrager in de afgelopen drie jaren reeds voor € 300.000 de-minimissteun heeft ontvangen, dan wijst het Stimuleringsfonds het verzoek af.
 
-#### Artikel 2.5. Inhoudelijke criteria
+##### Artikel 2.5. Inhoudelijke criteria
 
 1. Verzoeken worden door het Stimuleringsfonds beoordeeld aan de hand van de volgende inhoudelijke criteria:
 
@@ -136,7 +162,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 2. In de toelichting op deze regeling zijn de criteria en de wijze waarop het Stimuleringsfonds de criteria weegt, uitgewerkt.
 
-#### Artikel 2.6. Procedure beoordeling toegang tot begeleidingsprogramma
+##### Artikel 2.6. Procedure beoordeling toegang tot begeleidingsprogramma
 
 1. Het Stimuleringsfonds beslist gelijktijdig op de verzoeken die in behandeling zijn genomen en aan de drempelcriteria voldoen.
 
@@ -168,7 +194,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 8. Wanneer op basis van de verdeling uit het zevende lid het maximale aantal van toelaatbare teams uit [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.1&z=2026-03-04&g=2026-03-04), is bereikt, worden de daaropvolgende verzoeken in de rangschikking afgewezen.
 
-#### Artikel 2.7. Besluit verzoek en start begeleiding
+##### Artikel 2.7. Besluit verzoek en start begeleiding
 
 1. Het Stimuleringsfonds beslist binnen 6 weken na verstrijken van de termijn, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=2&artikel=2.3&z=2026-03-04&g=2026-03-04), op de ingediende verzoeken voor toelating tot het begeleidingsprogramma.
 
@@ -178,7 +204,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 ### Hoofdstuk 3. Subsidieverlening
 
-#### Artikel 3.1. Subsidieaanvraag
+##### Artikel 3.1. Subsidieaanvraag
 
 1. Subsidie kan alleen worden aangevraagd door deelnemers die zijn toegelaten tot het begeleidingsprogramma en met het volledige team deelnemen aan alle georganiseerde activiteiten binnen het begeleidingsprogramma.
 
@@ -192,7 +218,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 4. Een aanvraag wordt alleen in behandeling genomen als deze volledig is. Blijft tijdige en volledige aanlevering van de gegevens uit, dan wordt de aanvraag geweigerd.
 
-#### Artikel 3.2. Kosten die voor subsidie in aanmerking komen
+##### Artikel 3.2. Kosten die voor subsidie in aanmerking komen
 
 1. Voor subsidie komen uitsluitend de in het vierde lid van dit artikel genoemde kosten in aanmerking die in rechtstreeks verband staan tot de subsidiabele activiteiten en waarvan in redelijkheid mag worden aangenomen dat deze noodzakelijk zijn om de activiteiten te kunnen uitvoeren.
 
@@ -206,7 +232,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 6. Verschuldigde btw komt uitsluitend voor subsidie in aanmerking ingeval de aanvrager de btw niet kan verrekenen met de door hem af te dragen omzetbelasting.
 
-#### Artikel 3.3. Subsidieplafond
+##### Artikel 3.3. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in totaal 600.000 euro beschikbaar.
 
@@ -214,13 +240,13 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 3. Het Stimuleringsfonds kan besluiten het subsidieplafond te verhogen. Een besluit tot het verhogen van een subsidieplafond wordt bekendgemaakt door middel van publicatie in de Staatscourant en op de website van het Stimuleringsfonds [www.svdj.nl](http://www.svdj.nl).
 
-#### Artikel 3.4. Termijn indiening subsidieaanvraag
+##### Artikel 3.4. Termijn indiening subsidieaanvraag
 
 1. Subsidieaanvragen voor de sprints kunnen op maximaal zes aangewezen data worden ingediend, gedurende de gehele looptijd van het begeleidingsprogramma. Deze data zullen bij de start van het begeleidingsprogramma bekend worden gemaakt.
 
 2. Alle subsidieaanvragen die op de subsidieverlening van de eerste sprint volgen, kunnen enkel worden ingediend als de subsidieverlening van de daaraan voorafgaande sprint is vastgesteld en de subsidieontvanger heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 3.5. Verdeling subsidie en beoordeling subsidieaanvragen
+##### Artikel 3.5. Verdeling subsidie en beoordeling subsidieaanvragen
 
 1. Het Stimuleringsfonds beslist op volgorde van binnenkomst op de subsidieaanvragen, tenzij de verwachting is dat in een sprint het in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0052381&hoofdstuk=3&artikel=3.3&z=2026-03-04&g=2026-03-04) bedoelde subsidieplafond wordt overschreden. In dat geval kan het Stimuleringsfonds ertoe besluiten dat het resterende subsidiebudget op gelijkmatige wijze wordt verdeeld over de subsidieaanvragers. Het bestuur van het Stimuleringsfonds bericht de deelnemers/subsidieaanvragers hierover zo spoedig mogelijk, maar uiterlijk voor de datum waarop de aanvraag voor de nieuwe sprint kan worden ingediend.
 
@@ -236,7 +262,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 5. Wanneer de subsidieverlening niet aan de voorwaarden van de de-minimisverordening voldoet, wordt de subsidieverlening geweigerd of wordt, indien mogelijk, minder subsidie verleend dan aangevraagd.
 
-#### Artikel 3.6. Verstrekking subsidievoorschot
+##### Artikel 3.6. Verstrekking subsidievoorschot
 
 1. Bij de eerste subsidieverlening wordt bij wijze van voorschot het volledig verleende subsidiebedrag uitgekeerd.
 
@@ -246,7 +272,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 ### Hoofdstuk 4. Subsidievaststelling
 
-#### Artikel 4.1. Aanvraag tot vaststelling
+##### Artikel 4.1. Aanvraag tot vaststelling
 
 1. Een aanvraag tot subsidievaststelling wordt ingediend na afloop van elke sprint binnen het begeleidingsprogramma, uiterlijk op de daartoe door het Stimuleringsfonds vast te stellen data.
 
@@ -256,7 +282,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 4. De subsidie wordt vastgesteld op basis van het activiteitenverslag en het financieel verslag.
 
-#### Artikel 4.2. Activiteitenverslag en financieel verslag
+##### Artikel 4.2. Activiteitenverslag en financieel verslag
 
 1. Het activiteitenverslag bevat een overzicht van de activiteiten waarvoor subsidie is verstrekt en van de daarmee bereikte resultaten, in het bijzonder:
 
@@ -278,7 +304,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 5. Het Stimuleringsfonds kan nadere verplichtingen opleggen in verband met de inrichting van het financieel verslag en de controleverklaring.
 
-#### Artikel 4.3. Wijziging, intrekking en terugvordering
+##### Artikel 4.3. Wijziging, intrekking en terugvordering
 
 1. Zolang de subsidie niet is vastgesteld kan het Stimuleringsfonds de subsidieverlening intrekken of ten nadele van de subsidieontvanger wijzigen als:
 
@@ -304,7 +330,7 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 ### Hoofdstuk 5. Verplichtingen
 
-#### Artikel 5.1. Medewerkings- en informatieplicht
+##### Artikel 5.1. Medewerkings- en informatieplicht
 
 1. Deelnemers zijn verplicht de subsidiabele activiteiten uit te voeren overeenkomstig het activiteitenplan.
 
@@ -326,11 +352,11 @@ De subsidie wordt verstrekt voor de kosten van activiteiten die worden uitgevoer
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Begrotingsvoorbehoud
+##### Artikel 6.1. Begrotingsvoorbehoud
 
 Voor zover subsidies worden verleend ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, gebeurt dit onder de voorwaarde dat door de Minister van Onderwijs, Cultuur en Wetenschap voldoende middelen ter beschikking worden gesteld aan het Stimuleringsfonds ter uitvoering van deze regeling.
 
-#### Artikel 6.2. Inwerkingtreding
+##### Artikel 6.2. Inwerkingtreding
 
 1. Deze regeling treedt in werking op 3 december 2025.
 
@@ -338,7 +364,7 @@ Voor zover subsidies worden verleend ten laste van een begroting die nog niet is
 
 3. Deze regeling vervalt met ingang van 30 januari 2027. In afwijking van de eerste volzin blijft deze regeling zoals hij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende verzoeken, aanvragen en verleende subsidies.
 
-#### Artikel 6.3. Citeertitel
+##### Artikel 6.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling SVDJ Accelerator 2026.
 

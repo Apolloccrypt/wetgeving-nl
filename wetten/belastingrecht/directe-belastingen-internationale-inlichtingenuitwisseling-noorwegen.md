@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, Internationale inlichtingenuitwisseling; Noorwegen"
 identifier: "BWBR0037857"
-categorie: "Belastingrecht"
-publicatiedatum: 2016-04-06
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037857"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-04-06"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037857"
+soort: "beleidsregel"
+stam_id: "13479943"
+version_id: "23133062"
+internal_id: "C33434661"
+label_id: "13446914"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037857/2016-04-06/0"
+intitule_bron: "Stcrt.2016-20455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-06"
+intitule_published: "2016-04-22"
+intitule_in_force: "2016-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-20455"
+original_signed_date: "2016-04-06"
+original_published_date: "2016-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-20455"
+entry_into_force_date: "2016-04-06"
+jci_1_3: "jci1.3:c:BWBR0037857&z=2016-04-06&g=2016-04-06"
+jci_1_0: "1.0:c:BWBR0037857&g=2016-04-06"
+citeertitel_status: "redactioneel"
+signed_date: "2016-04-06"
+entry_into_force: "2016-04-06"
 ---
-
 # Directe belastingen, Internationale inlichtingenuitwisseling; Noorwegen
 
 De staatssecretaris van Financiën maakt het volgende bekend.

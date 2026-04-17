@@ -1,13 +1,35 @@
 ---
 title: "Standaarden voor Kwaliteitsmanagement 2025"
 identifier: "BWBR0050801"
-categorie: "Overig"
-publicatiedatum: 2025-02-21
-laatste_update: 2025-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050801"
+country: "nl"
+rank: "pbo"
+publication_date: "2025-02-21"
+last_updated: "2025-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050801"
+soort: "pbo"
+stam_id: "17374083"
+version_id: "30626922"
+internal_id: "C43904311"
+label_id: "17276984"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050801/2025-02-21/0"
+intitule_bron: "Stcrt.2025-5145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-02-20"
+intitule_in_force: "2025-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-5145"
+original_published_date: "2025-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-5145"
+entry_into_force_date: "2025-02-21"
+jci_1_3: "jci1.3:c:BWBR0050801&z=2025-02-21&g=2025-02-21"
+jci_1_0: "1.0:c:BWBR0050801&g=2025-02-21"
+citeertitel_status: "officieel"
+entry_into_force: "2025-02-21"
 ---
-
 # Standaarden voor Kwaliteitsmanagement 2025
 
 Kwaliteitsmanagementstandaarden als bedoeld in [artikel 12 van de Verordening accountantsorganisaties 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050613&artikel=12) en [artikel 24 van de Verordening gedrags- en beroepsregels accountants](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=24).

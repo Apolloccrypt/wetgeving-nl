@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake de bestrijding van terroristische bomaanslagen"
 identifier: "BWBV0001520"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-03-09
-laatste_update: 2002-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001520"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-03-09"
+last_updated: "2002-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001520"
+soort: "verdrag"
+stam_id: "10000308503"
+version_id: "10000327412"
+internal_id: "C10006989551"
+label_id: "10000308804"
+original_entry_into_force: "2002-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001520/2002-03-09/0"
+intitule_bron: "Trb.1998-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-07"
+intitule_published: "1998-04-06"
+intitule_in_force: "2002-03-25"
+intitule_status: "goed"
+original_publication: "Trb.1998-84"
+original_signed_date: "2002-02-07"
+original_published_date: "1998-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-84"
+entry_into_force_date: "2002-03-09"
+jci_1_3: "jci1.3:c:BWBV0001520&z=2002-03-09&g=2002-03-09"
+jci_1_0: "1.0:c:BWBV0001520&g=2002-03-09"
+citeertitel_status: "officieel"
+signed_date: "2002-02-07"
+entry_into_force: "2002-03-09"
 ---
-
 # Verdrag inzake de bestrijding van terroristische bomaanslagen
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -36,7 +60,7 @@ Vaststellend dat de activiteiten van strijdkrachten van Staten onderworpen zijn 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -56,7 +80,7 @@ Voor de toepassing van dit Verdrag:
 
 - 6. wordt onder „openbaar vervoerssysteem" verstaan alle openbare of particuliere voorzieningen, vervoermiddelen en middelen, die worden gebruikt bij of ten behoeve van voor het publiek beschikbare diensten op het gebied van vervoer van personen of goederen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een persoon pleegt een strafbaar feit in de zin van dit Verdrag indien deze persoon wederrechtelijk en opzettelijk een springstof of ander dodelijk instrument aflevert, plaatst, tot ontlading of ontploffing brengt op, bij of in een openbare plaats, een staats- of regeringsvoorziening, een openbaar vervoerssysteem of een infrastructurele voorziening,
 
@@ -74,11 +98,11 @@ Voor de toepassing van dit Verdrag:
 
 - c. op enige andere wijze bijdraagt tot het plegen van een of meer strafbare feiten als omschreven in het eerste of tweede lid door een groep personen die optreden met een gemeenschappelijk doel; deze bijdrage dient opzettelijk te zijn, en te worden geleverd hetzij met het oog op de bevordering van de criminele activiteit of het doel van de groep in het algemeen, hetzij met de wetenschap van de bedoeling van de groep het desbetreffende strafbare feit of de desbetreffende strafbare feiten te plegen.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag is niet van toepassing indien het strafbaar feit wordt gepleegd binnen één Staat, de vermoedelijke dader en de slachtoffers onderdanen zijn van die Staat, de vermoedelijke dader wordt aangetroffen op het grondgebied van die Staat en geen andere Staat een grond heeft krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=6&z=2002-03-09&g=2002-03-09) of [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=6&z=2002-03-09&g=2002-03-09), van dit Verdrag tot uitoefening van rechtsmacht, met dien verstande dat de bepalingen van de [artikelen 10 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=10&z=2002-03-09&g=2002-03-09), voor zover deze zich daartoe lenen, in dergelijke gevallen van toepassing zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Staat die Partij is neemt de maatregelen die nodig zijn om:
 
@@ -86,11 +110,11 @@ Elke Staat die Partij is neemt de maatregelen die nodig zijn om:
 
 - b. op deze feiten passende straffen te stellen die rekening houden met de ernst van deze feiten.
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere Staat die Partij is treft de nodige maatregelen, eventueel met inbegrip van de benodigde nationale wetgeving, om zeker te stellen dat strafbare handelingen die vallen binnen het toepassingsgebied van dit Verdrag, met name indien zij zijn bedoeld om of ermee wordt beoogd het publiek, een groep personen of bepaalde personen grote angst aan te jagen, onder geen enkele omstandigheid worden gerechtvaardigd door overwegingen van politieke, filosofische, ideologische, raciale, etnische, religieuze of andere soortgelijke aard en worden bestraft met straffen die passen bij de ernst van deze handelingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Staat die Partij is neemt de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten, indien:
 
@@ -118,7 +142,7 @@ Iedere Staat die Partij is treft de nodige maatregelen, eventueel met inbegrip v
 
 5. Dit Verdrag sluit niet de uitoefening uit van enige rechtsmacht in strafrechtelijke aangelegenheden die een Staat die Partij is in overeenstemming met zijn nationale wetgeving heeft gevestigd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een Staat die Partij is informatie verkrijgt dat de pleger of vermoedelijke pleger van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbaar feit zich mogelijk op zijn grondgebied bevindt, neemt de desbetreffende Staat die Partij is de maatregelen die krachtens zijn nationale wetgeving nodig zijn voor een onderzoek naar de in de verstrekte informatie opgenomen feiten.
 
@@ -138,13 +162,13 @@ Iedere Staat die Partij is treft de nodige maatregelen, eventueel met inbegrip v
 
 6. Wanneer een Staat die Partij is krachtens dit artikel een persoon in detentie heeft gesteld, stelt hij de Staten die Partij zijn en die overeenkomstig [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=6&z=2002-03-09&g=2002-03-09), hun rechtsmacht hebben gevestigd, alsmede wanneer hij dit nodig acht, alle andere belanghebbende Staten die Partij zijn, rechtstreeks of via de Secretaris-Generaal van de Verenigde Naties, onverwijld in kennis van het feit dat de betrokken persoon in detentie is gesteld en van de omstandigheden die zijn detentie rechtvaardigen. De Staat die het in het eerste lid van dit artikel bedoelde onderzoek instelt, deelt zijn bevindingen onverwijld mee aan genoemde Staten die Partij zijn en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staat die Partij is en op het grondgebied waarvan de vermoedelijke dader zich bevindt, is, in de gevallen waarop [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=8&z=2002-03-09&g=2002-03-09) van toepassing is, indien hij deze persoon niet uitlevert, zonder enige uitzondering en ongeacht of het strafbare feit op zijn grondgebied is gepleegd of niet, verplicht de zaak zonder onnodige vertraging over te dragen aan zijn bevoegde autoriteiten voor vervolging door middel van een procedure overeenkomstig het recht van die Staat. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van elk ander strafbaar feit van ernstige aard krachtens het recht van die Staat.
 
 2. Wanneer het een Staat die Partij is op grond van zijn nationale wetgeving alleen is toegestaan een onderdaan uit te leveren of op andere wijze over te leveren op voorwaarde dat deze wordt teruggezonden naar die Staat om de straf te ondergaan die is opgelegd als gevolg van het proces of de procedure waarvoor de uitlevering of overgave van de persoon werd verzocht, en deze Staat en de Staat die verzoekt om uitlevering van de persoon instemmen met deze optie en andere voorwaarden die zij gepast achten, is een dergelijke voorwaardelijke uitlevering of overgave voldoende voor ontheffing van de in het eerste lid omschreven verplichting.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voordat dit Verdrag in werking treedt, worden de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten in alle tussen de Staten die Partij zijn bestaande uitleveringsverdragen geacht te zijn begrepen als uitleveringsdelicten. De Staten die Partij zijn verplichten zich ertoe bedoelde strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat vervolgens tussen hen wordt gesloten.
 
@@ -156,21 +180,21 @@ Iedere Staat die Partij is treft de nodige maatregelen, eventueel met inbegrip v
 
 5. De bepalingen van alle uitleveringsverdragen en -regelingen die tussen de Staten die Partij zijn bestaan met betrekking tot de strafbare feiten omschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09), worden geacht in hun onderlinge betrekkingen te zijn gewijzigd, voor zover zij niet verenigbaar zijn met dit Verdrag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Staten die Partij zijn verlenen elkaar de ruimst mogelijke rechtshulp bij onderzoeken, bij strafzaken of bij uitleveringsprocedures op grond van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten, met inbegrip van rechtshulp ter verkrijging van bewijs in hun bezit dat nodig is voor het proces.
 
 2. De Staten die Partij zijn komen hun verplichtingen uit hoofde van het eerste lid na in overeenstemming met de verdragen en regelingen inzake wederzijdse rechtshulp die tussen hen bestaan. Indien dergelijke verdragen of regelingen ontbreken, verlenen de Staten die Partij zijn elkaar rechtshulp overeenkomstig hun nationale recht.
 
-#### Artikel 11
+##### Artikel 11
 
 Geen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten zal, ten behoeve van uitlevering of wederzijdse rechtshulp, worden beschouwd als een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven. Dienovereenkomstig mag een verzoek om uitlevering of wederzijdse rechtshulp op basis van een dergelijk delict niet worden geweigerd met als enige reden dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.
 
-#### Artikel 12
+##### Artikel 12
 
 Niets in dit Verdrag mag zo worden uitgelegd dat het verplicht tot uitlevering of tot het verlenen van wederzijdse rechtshulp in gevallen waarin de aangezochte Staat die Partij is ernstige redenen heeft om aan te nemen dat het verzoek tot uitlevering voor in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten of tot wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst of politieke overtuiging, of dat inwilliging van het verzoek de positie van betrokkene om een van deze redenen ongunstig zou kunnen beïnvloeden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een persoon die in detentie zit of een straf ondergaat op het grondgebied van een Staat die Partij is, en om wiens aanwezigheid op het grondgebied van een andere Staat die Partij is wordt verzocht voor het afleggen van een getuigenverklaring, identificatie of voor het op andere wijze verlenen van medewerking ter verkrijging van bewijs voor onderzoek of vervolging inzake strafbare feiten krachtens dit Verdrag, mag worden overgebracht, indien wordt voldaan aan de volgende voorwaarden:
 
@@ -190,11 +214,11 @@ Niets in dit Verdrag mag zo worden uitgelegd dat het verplicht tot uitlevering o
 
 3. Tenzij de Staat die Partij is vanwaar een persoon overeenkomstig dit artikel moet worden overgebracht daarvoor toestemming geeft, wordt die persoon, ongeacht zijn of haar nationaliteit, niet vervolgd of in detentie gesteld, noch aan enige andere beperking van zijn of haar persoonlijke vrijheid onderworpen op het grondgebied van de Staat waarnaar deze persoon wordt overgebracht, wegens feiten of veroordelingen voorafgaand aan zijn of haar vertrek uit het grondgebied van de Staat vanwaar deze persoon werd overgebracht.
 
-#### Artikel 14
+##### Artikel 14
 
 Een ieder die in detentie wordt gesteld of tegen wie andere maatregelen worden getroffen of een proces aanhangig wordt gemaakt op grond van dit Verdrag, heeft recht op een eerlijke behandeling, met inbegrip van het genot van alle rechten en waarborgen in overeenstemming met de wetgeving van de Staat op wiens grondgebied die persoon zich bevindt en de toepasselijke bepalingen van het internationaal recht, met inbegrip van die bepalingen die betrekking hebben op de rechten van de mens.
 
-#### Artikel 15
+##### Artikel 15
 
 De Staten die Partij zijn werken samen ter voorkoming van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001520&artikel=2&z=2002-03-09&g=2002-03-09) omschreven strafbare feiten, met name door:
 
@@ -204,25 +228,25 @@ De Staten die Partij zijn werken samen ter voorkoming van de in [artikel 2](http
 
 - c. indien van toepassing, onderzoek en ontwikkeling inzake de opsporingsmethoden van springstoffen en andere gevaarlijke stoffen die de dood of lichamelijk letsel kunnen veroorzaken, overleg over de ontwikkeling van normen voor het merken van springstoffen teneinde hun oorsprong te achterhalen bij onderzoek na explosie, uitwisseling van informatie inzake preventieve maatregelen, samenwerking, en overdracht van technologie, apparatuur en aanverwant materiaal.
 
-#### Artikel 16
+##### Artikel 16
 
 De Staat die Partij is waar de vermoedelijke dader wordt vervolgd, deelt, in overeenstemming met zijn nationale wetgeving of de toepasselijke procedures, de afloop van de procedures mede aan de Secretaris-Generaal van de Verenigde Naties, die de inlichtingen zal mededelen aan de andere Staten die Partij zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 De Staten die Partij zijn komen hun verplichtingen uit hoofde van dit Verdrag na op een wijze die in overeenstemming is met de beginselen van soevereine gelijkheid en territoriale integriteit van Staten en van non-interventie in de interne aangelegenheden van andere Staten.
 
-#### Artikel 18
+##### Artikel 18
 
 Niets in dit Verdrag geeft een Staat die Partij is de bevoegdheid op het grondgebied van een andere Staat die Partij is rechtsmacht uit te oefenen en functies te vervullen die door zijn nationale wetgeving uitsluitend zijn voorbehouden aan de autoriteiten van die andere Staat die Partij is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van Staten en personen op grond van het internationaal recht, met name de doelstellingen en beginselen van het Handvest van de Verenigde Naties en het internationaal humanitair recht.
 
 2. De handelingen van strijdkrachten tijdens een gewapend conflict als gedefinieerd in en onderworpen aan het internationaal humanitair recht vallen niet onder dit Verdrag, evenmin als de handelingen ondernomen door de strijdkrachten van een Staat bij de uitoefening van hun officiële taken, voorzover onderworpen aan andere bepalingen van internationaal recht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elk geschil tussen twee of meer Staten die Partij zijn inzake de uitleg of toepassing van dit Verdrag dat niet binnen een redelijke termijn door onderhandelingen kan worden beslecht, wordt op verzoek van één van hen onderworpen aan arbitrage. Indien de partijen binnen zes maanden na de datum van het verzoek om arbitrage er niet in zijn geslaagd overeenstemming te bereiken over de regeling van deze arbitrage, kan ieder van deze partijen het geschil voorleggen aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het Statuut van het Hof.
 
@@ -230,7 +254,7 @@ Niets in dit Verdrag geeft een Staat die Partij is de bevoegdheid op het grondge
 
 3. Een Staat die een voorbehoud heeft gemaakt overeenkomstig het tweede lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag staat van 12 januari 1998 tot en met 31 december 1999 open voor ondertekening door alle Staten op het hoofdkwartier van de Verenigde Naties in New York.
 
@@ -238,19 +262,19 @@ Niets in dit Verdrag geeft een Staat die Partij is de bevoegdheid op het grondge
 
 3. Dit Verdrag staat open voor toetreding door alle Staten. De akten van toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Verdrag treedt in werking op de dertigste dag volgende op de datum van nederlegging van de tweeëntwintigste akte van bekrachtiging, goedkeuring, aanvaarding of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Ten aanzien van iedere Staat die dit Verdrag bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de datum van de nederlegging van de tweeëntwintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de dertigste dag na de datum van nederlegging door de betreffende Staat van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Iedere Staat die Partij is kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. Een opzegging wordt van kracht één jaar na de datum waarop de kennisgeving is ontvangen door de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 24
+##### Artikel 24
 
 Het origineel van dit Verdrag, waarvan de Arabische, Chinese, Engelse, Franse, Russische en Spaanse teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften hiervan aan alle Staten doet toekomen.
 

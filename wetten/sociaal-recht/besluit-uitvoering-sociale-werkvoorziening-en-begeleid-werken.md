@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitvoering sociale werkvoorziening en begeleid werken"
+title: "Besluit van 24 september 2004 tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet sociale werkvoorziening alsmede de bepalingen betreffende de indicatie en herindicatie in het kader van genoemde wet in de Wet structuur uitvoeringsorganisatie werk en inkomen (Besluit uitvoering sociale werkvoorziening en begeleid werken)"
 identifier: "BWBR0017240"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017240"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017240"
+soort: "AMvB"
+stam_id: "6184173"
+version_id: "22402632"
+internal_id: "C32091421"
+label_id: "6173554"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017240/2018-07-28/0"
+intitule_bron: "Stb.2004-491"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-09-24"
+intitule_published: "2004-10-05"
+intitule_in_force: "2004-10-05"
+intitule_status: "goed"
+original_publication: "Stb.2015-155"
+original_signed_date: "2015-04-14"
+original_published_date: "2015-04-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-155"
+entry_into_force_date: "2015-04-14"
+jci_1_3: "jci1.3:c:BWBR0017240&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0017240&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoering sociale werkvoorziening en begeleid werken"
+signed_date: "2015-04-14"
+entry_into_force: "2015-04-14"
 ---
-
 # Besluit van 24 september 2004 tot vaststelling van een algemene maatregel van bestuur ter uitvoering van de Wet sociale werkvoorziening alsmede de bepalingen betreffende de indicatie en herindicatie in het kader van genoemde wet in de Wet structuur uitvoeringsorganisatie werk en inkomen (Besluit uitvoering sociale werkvoorziening en begeleid werken)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 14 juni 2004, nr. ABG/GA/04/40953;
@@ -22,7 +48,7 @@ Hebben goed gevonden en verstaan:
 
 ### Hoofdstuk 1. Indicatie en herindicatie
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. begeleidingsorganisatie: een organisatie die de arbeidsinpassing van de geïndiceerde, met inbegrip van de begeleiding op zijn werkplek gedurende het begeleid werken, verzorgt.
 
-#### Artikel 2. De aanvraag
+##### Artikel 2. De aanvraag
 
 1. Telkens uiterlijk 16 weken voor het verstrijken van de geldigheidsduur van een indicatie vraagt het college van de gemeente waar de geïndiceerde woont namens de geïndiceerde een herindicatie aan bij het Uitvoeringsinstituut werknemersverzekeringen.
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Het Uitvoeringsinstituut werknemersverzekeringen betrekt bij een besluit over de herindicatie de op grond van het tweede lid van het college verkregen gegevens.
 
-#### Artikel 3. Het onderzoek
+##### Artikel 3. Het onderzoek
 
 1. In het kader van de aanvraag tot herindicatie verricht het Uitvoeringsinstituut werknemersverzekeringen, met inachtneming van de bijlage behorend bij dit besluit, onderzoek naar:
 
@@ -90,7 +116,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen het onderzoek uitvoert.
 
-#### Artikel 4. De herindicatie
+##### Artikel 4. De herindicatie
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen deelt de geïndiceerde in de arbeidshandicapcategorie matig of ernstig in, op grond van de noodzakelijke aanpassingen en van het prestatieniveau volgens de bijlage behorend bij dit besluit.
 
@@ -106,7 +132,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de geldigheidsduur van de indicatie.
 
-#### Artikel 5. Mededeling herindicatie en intrekking beschikking
+##### Artikel 5. Mededeling herindicatie en intrekking beschikking
 
 1. De herindicatiebeschikking wordt door het Uitvoeringsinstituut werknemersverzekeringen zo spoedig mogelijk na vaststelling toegezonden aan de geïndiceerde aan het college van de gemeente waar de geïndiceerde woonachtig is en, voor zover van toepassing, aan de in [artikel 2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) bedoelde rechtspersoon.
 
@@ -116,15 +142,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij de toepassing van het derde lid wordt de werknemer die buiten Nederland woont als inwoner aangemerkt van de gemeente waarin hij laatstelijk in Nederland woonde.
 
-#### Artikel 6. Herindicatie
+##### Artikel 6. Herindicatie
 
 Vervallen
 
-#### Artikel 7. Advies bij voorgenomen opzegging van de dienstbetrekking
+##### Artikel 7. Advies bij voorgenomen opzegging van de dienstbetrekking
 
 Vervallen
 
-#### Artikel 8. Arbeidsinpassing door de gemeente
+##### Artikel 8. Arbeidsinpassing door de gemeente
 
 1. Bij het tot stand doen brengen van begeleid werken, draagt het college zorg voor de arbeidsinpassing met inbegrip van de begeleiding van de geïndiceerde op zijn werkplek.
 
@@ -132,7 +158,7 @@ Vervallen
 
 3. Indien het college niet binnen zes maanden na de mededeling, bedoeld in het tweede lid, voor de geïndiceerde begeleid werken tot stand heeft gebracht, kan de geïndiceerde verzoeken een door hem aangewezen begeleidingsorganisatie in te schakelen ten behoeve van de totstandkoming van een dienstbetrekking. Het college willigt het verzoek van de geïndiceerde in, tenzij het verzoek kennelijk onredelijk is.
 
-#### Artikel 9. Wijziging begeleidingsorganisatie
+##### Artikel 9. Wijziging begeleidingsorganisatie
 
 1. Indien de geïndiceerde begeleid werkt kan hij het college gemotiveerd verzoeken een andere begeleidingsorganisatie in te schakelen voor begeleiding op zijn werkplek, dan wel het college gemotiveerd verzoeken voor arbeidsinpassing ten behoeve van ander begeleid werk en begeleiding op zijn werkplek zorg te dragen. Het college willigt het verzoek van de geïndiceerde in, tenzij het verzoek kennelijk onredelijk is.
 
@@ -140,113 +166,113 @@ Vervallen
 
 ### Hoofdstuk 2. Begeleid werken
 
-#### Artikel 10. Overgangsrecht financiële indeling oude populatie
+##### Artikel 10. Overgangsrecht financiële indeling oude populatie
 
 1. Personen die op 31 december 1997 al in de sociale werkvoorziening werkzaam waren, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie matig.
 
 2. Personen met beperkingen ten gevolge van stoornissen, zoals gekwalificeerd in de internationale classificatie van stoornissen, beperkingen en handicaps onder punt 50.0 tot en met 50.5, 51 en 52 en die op de dag voorafgaand aan de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) werkzaam zijn bij de blindenwerkplaats Blizo, behorend tot de bestuurlijke eenheid WSD te Boxtel, en de Blindenwerkplaats Proson, behorende tot de bestuurlijke eenheid DSW, te Nunspeet, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie ernstig.
 
-#### Artikel 11. Intrekking besluiten
+##### Artikel 11. Intrekking besluiten
 
 1. Het [Besluit indicatie sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008954), het [Besluit arbeidsinpassing en begeleiding sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008952), het [Besluit financieel verdeelmodel sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008953) en het [Besluit vaststelling subsidie Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0012782) worden ingetrokken.
 
 2. De in het eerste lid genoemde besluiten, zoals deze luidden op 31 december 2004, blijven van toepassing op de subsidievaststelling over perioden die gelegen zijn vóór 1 januari 2005, met dien verstande dat [artikel 11 van het Besluit vaststelling subsidie Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0012782&artikel=11) bij de subsidievaststelling over de subsidiejaren 2003 en 2004 niet wordt toegepast.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2005.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en begeleid werken.
 
-#### Artikel 14
+##### Artikel 14
 
 Door vernummering vervallen.
 
 ### Hoofdstuk 3. FINANCIERING
 
-#### Artikel 15. Arbeidsjaren
+##### Artikel 15. Arbeidsjaren
 
 Vervallen
 
-#### Artikel 16. Berekening taakstelling
+##### Artikel 16. Berekening taakstelling
 
 Vervallen
 
-#### Artikel 17. Berekening uitkering
+##### Artikel 17. Berekening uitkering
 
 Vervallen
 
-#### Artikel 18. Stimuleringsuitkering begeleid werken
+##### Artikel 18. Stimuleringsuitkering begeleid werken
 
 Vervallen
 
-#### Artikel 19. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551)
+##### Artikel 19. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551)
 
 1. Het college verstrekt gegevens uit de administratie aangelegd voor uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551) aan het Uitvoeringsinstituut werknemersverzekeringen, voor zover deze noodzakelijk zijn voor de uitvoering van de Wet banenafspraak en quotum arbeidsbeperkten.
 
 2. Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid, nader bepaald en kan een daartoe aangewezen verwerker worden gemachtigd deze gegevens aan het Uitvoeringsinstituut werknemersverzekeringen te verstrekken.
 
-#### Artikel 20. Opschorting betaalbaarstelling
+##### Artikel 20. Opschorting betaalbaarstelling
 
 Vervallen
 
-#### Artikel 21. Wijziging uitvoering
+##### Artikel 21. Wijziging uitvoering
 
 Vervallen
 
 ### Hoofdstuk 4. Subsidievaststelling
 
-#### Artikel 22. Definitie maatregel
+##### Artikel 22. Definitie maatregel
 
 Vervallen
 
-#### Artikel 23. Vaststelling subsidie
+##### Artikel 23. Vaststelling subsidie
 
 Vervallen
 
-#### Artikel 24. Werknemers die niet meer tot de doelgroep behoren
+##### Artikel 24. Werknemers die niet meer tot de doelgroep behoren
 
 Vervallen
 
-#### Artikel 25. Handelen in strijd met de [wet](onbekend)
+##### Artikel 25. Handelen in strijd met de [wet](onbekend)
 
 Vervallen
 
-#### Artikel 26. Vaststelling percentage
+##### Artikel 26. Vaststelling percentage
 
 Vervallen
 
-#### Artikel 27. Realisatie begeleid werken
+##### Artikel 27. Realisatie begeleid werken
 
 Vervallen
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
-#### Artikel 28. Overgangsrecht voorrangsgarantie
+##### Artikel 28. Overgangsrecht voorrangsgarantie
 
 1. In afwijking van [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2012-07-01&g=2012-07-01), wordt een persoon die op 31 december 1997 werkzaam was met toepassing van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11) en [12 van de Regeling samenloop arbeidsongeschikheidsuitkering met inkomsten uit arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=12) en de Regeling vergoeding persoonlijke ondersteuning gehandicapte werknemers, zoals deze regelingen luidde tot die datum en die na die datum deze arbeidsovereenkomst in het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) heeft voortgezet, op zijn verzoek, door het college op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot genoemde regelingen was toegelaten en krijgt hij bij voorrang begeleid werken aangeboden, indien hij onvrijwillig werkloos wordt.
 
 2. In afwijking van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=1&artikel=9&z=2012-07-01&g=2012-07-01), wordt een persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening (Stb. 1967, 687) zoals die luidde tot die datum en die na die datum deze dienstbetrekking heeft voortgezet, op zijn verzoek, door het college wederom op de wachtlijst geplaatst op de volgorde van de datum waarop hij tot de personenkring van de Wet Sociale Werkvoorziening (Stb. 1967, 687) was toegelaten en krijgt hij bij voorrang een dienstbetrekking aangeboden, indien hij in aansluiting op zijn dienstbetrekking arbeid gaat verrichten buiten het kader van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) en vervolgens binnen drie jaar onvrijwillig werkloos wordt. Daarbij wordt zijn nieuwe dienstbetrekking aangemerkt als een voortzetting van zijn eerdere dienstbetrekking in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903).
 
-#### Artikel 29. Overgangsrecht financiële indeling oude populatie
+##### Artikel 29. Overgangsrecht financiële indeling oude populatie
 
 1. Personen die op 31 december 1997 al in de sociale werkvoorziening werkzaam waren, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie matig.
 
 2. Personen met beperkingen ten gevolge van stoornissen, zoals gekwalificeerd in de internationale classificatie van stoornissen, beperkingen en handicaps onder punt 50.0 tot en met 50.5, 51 en 52 en die op de dag voorafgaand aan de inwerkingtreding van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) werkzaam zijn bij de blindenwerkplaats Blizo, behorend tot de bestuurlijke eenheid WSD te Boxtel, en de Blindenwerkplaats Proson, behorende tot de bestuurlijke eenheid DSW, te Nunspeet, worden, zolang die dienstbetrekking voortduurt, ingedeeld in de arbeidshandicapcategorie ernstig.
 
-#### Artikel 30. Intrekking besluiten
+##### Artikel 30. Intrekking besluiten
 
 1. Het [Besluit indicatie sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008954), het [Besluit arbeidsinpassing en begeleiding sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008952), het [Besluit financieel verdeelmodel sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008953) en het [Besluit vaststelling subsidie Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0012782) worden ingetrokken.
 
 2. De in het eerste lid genoemde besluiten, zoals deze luidden op 31 december 2004, blijven van toepassing op de subsidievaststelling over perioden die gelegen zijn vóór 1 januari 2005, met dien verstande dat [artikel 11 van het Besluit vaststelling subsidie Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0012782&artikel=11) bij de subsidievaststelling over de subsidiejaren 2003 en 2004 niet wordt toegepast.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2005.
 
-#### Artikel 32. Citeertitel
+##### Artikel 32. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitvoering sociale werkvoorziening en begeleid werken.
 
@@ -346,7 +372,7 @@ Er zijn evenwel situaties denkbaar waarin aanwezigheid of acute beschikbaarheid 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.
 
-#### Artikel 30a. Overgangsartikel voor het jaar 2008
+##### Artikel 30a. Overgangsartikel voor het jaar 2008
 
 1. Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2012-07-01&g=2012-07-01), voor het jaar 2008 staat bij de berekening van de factoren A en B:
 
@@ -376,7 +402,7 @@ M staat voor (K-L) voor alle desbetreffende gemeenten samen.
 
 (K-L) / M x € 25 miljoen.
 
-#### Artikel 30b. Overgangsartikel voor het jaar 2009
+##### Artikel 30b. Overgangsartikel voor het jaar 2009
 
 Voor de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&hoofdstuk=3&artikel=16&z=2012-07-01&g=2012-07-01), voor het jaar 2009 staat bij de berekening van de factoren A en B:
 

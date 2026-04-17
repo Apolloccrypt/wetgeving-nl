@@ -1,13 +1,37 @@
 ---
-title: "Aanmelding staatsexamen Nederlands als tweede taal (NT2) examens 2004 en 2005"
+title: "Aanmelding staatsexamen Nederlands als tweede taal (NT2)"
 identifier: "BWBR0015950"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-12-10
-laatste_update: 2003-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015950"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-12-10"
+last_updated: "2003-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015950"
+soort: "beleidsregel"
+stam_id: "6470733"
+version_id: "11148062"
+internal_id: "C15067731"
+label_id: "6459354"
+original_entry_into_force: "2003-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015950/2003-12-10/0"
+intitule_bron: "Uitleg.2003-29/30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-25"
+intitule_published: "2003-12-10"
+intitule_in_force: "2003-12-10"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-29/30"
+original_signed_date: "2003-11-25"
+original_published_date: "2003-12-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-12-10"
+jci_1_3: "jci1.3:c:BWBR0015950&z=2003-12-10&g=2003-12-10"
+jci_1_0: "1.0:c:BWBR0015950&g=2003-12-10"
+citeertitel_status: "redactioneel"
+short_title: "Aanmelding staatsexamen Nederlands als tweede taal (NT2) examens 2004 en 2005"
+signed_date: "2003-11-25"
+entry_into_force: "2003-12-10"
 ---
-
 # Aanmelding staatsexamen Nederlands als tweede taal (NT2)
 
 Het staatsexamen Nederlands als tweede taal kent twee programma’s:

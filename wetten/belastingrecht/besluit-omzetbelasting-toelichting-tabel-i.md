@@ -1,13 +1,39 @@
 ---
-title: "Besluit omzetbelasting toelichting tabel I"
+title: "Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-30110 over Tabel I behorend bij de Wet op de omzetbelasting 1968 (Besluit omzetbelasting toelichting tabel I)"
 identifier: "BWBR0052086"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052086"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052086"
+soort: "beleidsregel"
+stam_id: "17716403"
+version_id: "31265712"
+internal_id: "C44749041"
+label_id: "17615274"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052086/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39463"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-22"
+intitule_published: "2025-12-24"
+intitule_in_force: "2025-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39463"
+original_signed_date: "2025-12-22"
+original_published_date: "2025-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39463"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052086&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052086&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit omzetbelasting toelichting tabel I"
+signed_date: "2025-12-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-30110 over Tabel I behorend bij de Wet op de omzetbelasting 1968 (Besluit omzetbelasting toelichting tabel I)
 
 **De Staatssecretaris van Financiën,**

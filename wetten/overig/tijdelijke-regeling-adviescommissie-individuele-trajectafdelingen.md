@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling adviescommissie individuele trajectafdelingen"
+title: "Tijdelijke regeling van de Staatssecretaris van Justitie van 29 februari 2008, nr. 5532992/08/DJI, houdende de instelling van de adviescommissie individuele trajectafdelingen (Tijdelijke regeling adviescommissie individuele trajectafdelingen)"
 identifier: "BWBR0023593"
-categorie: "Overig"
-publicatiedatum: 2010-03-04
-laatste_update: 2010-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023593"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-03-04"
+last_updated: "2010-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023593"
+soort: "ministeriele-regeling"
+stam_id: "9444583"
+version_id: "15207322"
+internal_id: "C29396371"
+label_id: "9422114"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023593/2010-03-04/0"
+intitule_bron: "Stcrt.2008-47"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-02-29"
+intitule_published: "2008-03-06"
+intitule_in_force: "2008-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-47"
+original_signed_date: "2008-02-29"
+original_published_date: "2008-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-47-p14-SC84829"
+entry_into_force_date: "2008-03-08"
+jci_1_3: "jci1.3:c:BWBR0023593&z=2010-03-04&g=2010-03-04"
+jci_1_0: "1.0:c:BWBR0023593&g=2010-03-04"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling adviescommissie individuele trajectafdelingen"
+signed_date: "2008-02-29"
+entry_into_force: "2008-03-08"
 ---
-
 # Tijdelijke regeling van de Staatssecretaris van Justitie van 29 februari 2008, nr. 5532992/08/DJI, houdende de instelling van de adviescommissie individuele trajectafdelingen (Tijdelijke regeling adviescommissie individuele trajectafdelingen)
 
 Gelet op [artikel 16, zevende lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=16);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. Minister: de Minister van Justitie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een adviescommissie individuele trajectafdelingen, hierna aangeduid als: de adviescommissie.
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - b. een onafhankelijke kinder- en jeugdpsychiater verbonden aan het Nederlands Instituut voor Forensische Psychiatrie en Psychologie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van de adviescommissie worden door de Minister benoemd en ontslagen. De leden wijzen uit hun midden één van hen als voorzitter aan.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 4. De Minister beslist binnen twee maanden op een verzoek tot benoeming als bedoeld in het eerste, tweede of derde lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van de adviescommissie wordt door de Minister tussentijds ontslagen:
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 3. Hangende de procedure voor ontslag kan de Minister het lid van de adviescommissie in de uitoefening van zijn functie schorsen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De adviescommissie vergadert ten minste eenmaal in de twee maanden.
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 4. De Minister is bevoegd vergaderingen van de adviescommissie door een, door hem aan te wijzen ambtenaar van zijn Ministerie te doen bijwonen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De directeur van de inrichting waar een jeugdige geplaatst is dan wel de selectiefunctionaris kan een jeugdige voordragen voor plaatsing op een individuele trajectafdeling.
 
@@ -92,25 +118,25 @@ In dit besluit wordt verstaan onder:
 
 4. De directeur van de inrichting waar een jeugdige geplaatst is, dan wel de selectiefunctionaris brengt alle voor de uitoefening van de taak van de adviescommissie belangrijke feiten en omstandigheden ter kennis van de adviescommissie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de adviescommissie de selectiefunctionaris adviseert een jeugdige op een individuele trajectafdeling te plaatsen, dan adviseert zij tevens omtrent de plaats van tenuitvoerlegging.
 
 2. De directeur van de inrichting waar de jeugdige op de individuele trajectafdeling is geplaatst, bepaalt telkens binnen ten hoogste drie maanden en na advies van de adviescommissie of de noodzaak tot voortzetting van het verblijf op de individuele trajectafdeling nog bestaat. De adviescommissie adviseert de directeur van de inrichting waar de jeugdige op de individuele trajectafdeling is geplaatst, op basis van een door deze directeur op te stellen verslag omtrent de behandeling van de jeugdige.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kosten van de adviescommissie worden door de Staat gedragen.
 
 2. Voor zover een lid, de secretaris of de plaatsvervangend secretaris van de adviescommissie geen ambtenaar is, komt deze in aanmerking voor vergoeding van reis- en verblijfskosten overeenkomstig de bepalingen welke te dien aanzien voor de burgerlijke rijksambtenaren zijn vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als:
 
 Tijdelijke regeling adviescommissie individuele trajectafdelingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit vervalt, indien het bij koninklijke boodschap van 7 april 2009 ingediende voorstel van wet tot Wijziging van de Beginselenwet justitiële jeugdinrichtingen, het Wetboek van Strafrecht, het Wetboek van Strafvordering en enige andere wetten, in verband met de aanpassing van de tenuitvoerlegging van vrijheidsbenemende jeugdsancties (31 915), tot wet is of wordt verheven, op het tijdstip waarop artikel I, onderdeel Sa, van die wet in werking treedt.
 

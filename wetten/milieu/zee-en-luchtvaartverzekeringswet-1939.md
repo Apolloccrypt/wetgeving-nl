@@ -1,14 +1,38 @@
 ---
-title: "Zee- en luchtvaartverzekeringswet 1939"
+title: "Wet van 24 Juni 1939, houdende regelen teneinde de Regeering te machtigen tot het aangaan in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden van verzekeringsovereenkomsten op het terrein van de scheepvaart en de luchtvaart"
 identifier: "BWBR0001999"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001999"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001999"
+soort: "rijkswet"
+stam_id: "615543"
+version_id: "894902"
+internal_id: "C894901"
+label_id: "597394"
+dtd_version: "2.0"
+original_entry_into_force: "1939-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001999/2025-07-01/0"
+intitule_bron: "Stb.1939-637"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1939-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1939-637"
+original_signed_date: "1939-06-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "274"
+entry_into_force_date: "1939-07-01"
+entry_into_force_dossier: "274"
+jci_1_3: "jci1.3:c:BWBR0001999&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0001999&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Zee- en luchtvaartverzekeringswet 1939"
+signed_date: "1939-06-24"
+entry_into_force: "1939-07-01"
 ---
-
-# Zee- en luchtvaartverzekeringswet 1939
+# Wet van 24 Juni 1939, houdende regelen teneinde de Regeering te machtigen tot het aangaan in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden van verzekeringsovereenkomsten op het terrein van de scheepvaart en de luchtvaart
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stell
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze wet verstaat onder:
 
@@ -42,7 +66,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 3. Voor de toepassing van deze wet worden met Nederlandse zeeschepen gelijk gesteld de in het tweede lid bedoelde binnenschepen, die voldoen aan ten minste één der in het eerste lid van [artikel 784 van boek 8 van het Nederlandse Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) genoemde voorwaarden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Ministers worden gemachtigd voor den Staat der Nederlanden met Nederlandsche verzekeraars herverzekeringsovereenkomsten aan te gaan tegen het gevaar van molest, zoomede tegen de gewone transportgevaren, mits:
 
@@ -66,7 +90,7 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 - d. belangen, welke samenhangen met de exploitatie van Nederlandse zeeschepen of luchtvaartuigen of met het vervoer van de hiervoor onder **c** bedoelde goederen.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgende bijzondere bepalingen:
 
@@ -88,7 +112,7 @@ Bij de in het voorgaande artikel bedoelde herverzekering zullen gelden de volgen
 
 - 5°. op straffe van nietigheid kunnen de hierboven onder 1° en onder 3° bedoelde, bij voorrecht ten behoeve van de oorspronkelijke verzekerde of van de Staat der Nederlanden verbonden vorderingen, voorwerpen en rechten niet zonder medewerking van deze worden vervreemd of met zakelijke rechten worden belast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien Nederlandse, Curaçaose, Sint Maartense of Arubaanse belanghebbenden bij Nederlandse, Curaçaose, Sint Maartense of Arubaanse zeeschepen of luchtvaartuigen, dan wel bij goederen, als bedoeld in [artikel 2, lid 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=2&z=2025-07-01&g=2025-07-01), niet tegen een redelijke premie voldoende dekking kunnen vinden tegen het gevaar van molest, dan wel tegen de gewone transportgevaren, zijn Onze Ministers - in gevallen, waarin naar hun oordeel het algemeen belang zulks vordert - gemachtigd ten opzichte van de vorenbedoelde zeeschepen, luchtvaartuigen en goederen op voorwaarden en tegen premiën, als door hen te bepalen, voor den Staat der Nederlanden, als verzekeraar verzekeringsovereenkomsten tegen vorenbedoelde gevaren aan te gaan.
 
@@ -96,23 +120,23 @@ De hiervoor bedoelde machtiging tot het aangaan van verzekeringsovereenkomsten t
 
 2. Zeeschepen, als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001999&artikel=1&z=2025-07-01&g=2025-07-01), en luchtvaartuigen, welke ingevolge wettelijk voorschrift worden gevorderd, zullen in omstandigheden, als in lid 1 bedoeld, steeds door Onze Ministers worden verzekerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Ministers worden voorts gemachtigd de ingevolge deze wet voor den Staat der Nederlanden aangenomen risico’s door herverzekering te dekken.
 
-#### Artikel 6
+##### Artikel 6
 
 De uit deze wet voortvloeiende baten en lasten zullen over Nederland, Aruba, Curaçao en Sint Maarten worden verdeeld volgens regelen door Ons te stellen.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet kan worden aangehaald onder den titel "Zee- en luchtvaartverzekeringswet 1939".
 
-#### Artikel 9
+##### Artikel 9
 
 1. De tijdstippen van inwerkingtreding dezer wet worden telkens door Ons bij besluit bepaald.
 

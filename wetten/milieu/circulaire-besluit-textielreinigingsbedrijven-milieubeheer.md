@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Besluit textielreinigingsbedrijven milieubeheer"
 identifier: "BWBR0019712"
-categorie: "Milieu"
-publicatiedatum: 2006-04-01
-laatste_update: 2006-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019712"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-04-01"
+last_updated: "2006-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019712"
+soort: "circulaire"
+stam_id: "8215253"
+version_id: "13024792"
+internal_id: "C17529761"
+label_id: "8196324"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019712/2006-04-01/0"
+intitule_bron: "Stcrt.2006-71"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-28"
+intitule_published: "2006-04-10"
+intitule_in_force: "2006-04-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-71"
+original_signed_date: "2006-03-28"
+original_published_date: "2006-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-71-p19-SC74548"
+entry_into_force_date: "2006-04-01"
+jci_1_3: "jci1.3:c:BWBR0019712&z=2006-04-01&g=2006-04-01"
+jci_1_0: "1.0:c:BWBR0019712&g=2006-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-28"
+entry_into_force: "2006-04-01"
 ---
-
 # Circulaire Besluit textielreinigingsbedrijven milieubeheer
 
 Geacht college,

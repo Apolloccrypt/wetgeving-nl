@@ -1,20 +1,44 @@
 ---
 title: "Beleidsregel amateurluchtvaartuigen"
 identifier: "BWBR0008263"
-categorie: "Milieu"
-publicatiedatum: 1996-10-30
-laatste_update: 1996-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008263"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1996-10-30"
+last_updated: "1996-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008263"
+soort: "beleidsregel"
+stam_id: "6238383"
+version_id: "10913912"
+internal_id: "C14794071"
+label_id: "6227344"
+original_entry_into_force: "1996-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008263/1996-10-30/0"
+intitule_bron: "Stcrt.1996-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-01"
+intitule_published: "1996-10-28"
+intitule_in_force: "1996-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-208"
+original_signed_date: "1996-10-01"
+original_published_date: "1996-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-208-p7-SC7270"
+entry_into_force_date: "1996-10-30"
+jci_1_3: "jci1.3:c:BWBR0008263&z=1996-10-30&g=1996-10-30"
+jci_1_0: "1.0:c:BWBR0008263&g=1996-10-30"
+citeertitel_status: "officieel"
+signed_date: "1996-10-01"
+entry_into_force: "1996-10-30"
 ---
-
 # Beleidsregel amateurluchtvaartuigen
 
 Gelet op de [artikelen 79, eerste lid](onbekend), [87, tweede lid](onbekend) en[88, tweede lid, van de Regeling Toezicht Luchtvaart](onbekend) en op [artikel 4, tweede lid van de Regeling luchtwaardigheid](onbekend);
 
 Maakt bekend:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,11 +52,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. **log-entry:** een verklaring met betrekking tot uitgevoerde werkzaamheden.
 
-#### Artikel 2
+##### Artikel 2
 
 Amateurluchtvaartuigen behoeven niet vervaardigd te worden door of onder toezicht van een hiertoe erkend bedrijf als bedoeld in [artikel 93 van de Regeling Toezicht Luchtvaart](onbekend).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het verlengen van de termijn van geldigheid van het bewijs van luchtwaardigheid wordt door de eigenaar of houder van een amateurluchtvaartuig een aanvraag ingediend bij de directeur-generaal.
 
@@ -50,7 +74,7 @@ Amateurluchtvaartuigen behoeven niet vervaardigd te worden door of onder toezich
 
 3. Bij de aanvraag wordt een log-entry gevoegd waaruit blijkt dat wordt voldaan aan de van toepassing zijnde luchtwaardigheidsaanwijzingen (AD), bijzondere luchtwaardigheidsaanwijzingen (BLA) en onderhoudsaanwijzingen voor luchtvaartmaterieel (OAL);
 
-#### Artikel 4
+##### Artikel 4
 
 De eigenaar of houder van een amateurluchtvaartuig is met betrekking tot het onderhoud, de revisie en de herstelling van dit luchtvaartuig verplicht:
 
@@ -60,7 +84,7 @@ De eigenaar of houder van een amateurluchtvaartuig is met betrekking tot het ond
 
 - c. zeker te stellen dat de vervaardigde delen ten minste gelijkwaardig zijn aan de te vervangen oorspronkelijke delen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het onderhoud en de revisie van een amateurluchtvaartuig, onderdelen en uitrustingsstukken daarvan, worden uitgevoerd overeenkomstig de aanbevelingen van de ontwerper, aangevuld met:
 
@@ -70,7 +94,7 @@ De eigenaar of houder van een amateurluchtvaartuig is met betrekking tot het ond
 
 - c. de door de ontwerper aanbevolen wijzigingen die aan de luchtwaardigheid zijn gerelateerd.
 
-#### Artikel 6
+##### Artikel 6
 
 In het RLD-vlieghandboek van een amateurluchtvaartuig worden in het algemeen de volgende gebruiksbeperkingen opgenomen:
 
@@ -96,11 +120,11 @@ In het RLD-vlieghandboek van een amateurluchtvaartuig worden in het algemeen de 
 
 - 4. De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht over het experimentele karakter van dit luchtvaartuig.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 april 1996.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel amateurluchtvaartuigen.
 

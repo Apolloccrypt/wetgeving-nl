@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel recreatief medegebruik van defensieterreinen"
 identifier: "BWBR0019360"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-12-21
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019360"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-12-21"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019360"
+soort: "beleidsregel"
+stam_id: "7726973"
+version_id: "12617082"
+internal_id: "C16987961"
+label_id: "7715524"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019360/2005-12-21/0"
+intitule_bron: "Stcrt.2005-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-21"
+intitule_published: "2005-12-21"
+intitule_in_force: "2005-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-248"
+original_signed_date: "2005-12-21"
+original_published_date: "2005-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-248-p28-SC72790"
+entry_into_force_date: "2005-12-21"
+jci_1_3: "jci1.3:c:BWBR0019360&z=2005-12-21&g=2005-12-21"
+jci_1_0: "1.0:c:BWBR0019360&g=2005-12-21"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-21"
+entry_into_force: "2005-12-21"
 ---
-
 # Beleidsregel recreatief medegebruik van defensieterreinen
 
 ### Inhoud

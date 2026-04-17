@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie"
 identifier: "BWBV0001639"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-08-23
-laatste_update: 2004-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001639"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-08-23"
+last_updated: "2004-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001639"
+soort: "verdrag"
+stam_id: "10001417203"
+version_id: "10001495722"
+internal_id: "C10006992191"
+label_id: "10001417634"
+dtd_version: "2.0"
+original_entry_into_force: "2005-08-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001639/2005-08-23/0"
+intitule_bron: "Trb.2000-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-02"
+intitule_published: "2000-09-01"
+intitule_in_force: "2005-11-11"
+intitule_status: "goed"
+original_publication: "Trb.2000-96"
+original_signed_date: "2004-04-02"
+original_published_date: "2000-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-96"
+entry_into_force_date: "2005-08-23"
+jci_1_3: "jci1.3:c:BWBV0001639&z=2005-08-23&g=2005-08-23"
+jci_1_0: "1.0:c:BWBV0001639&g=2005-08-23"
+citeertitel_status: "redactioneel"
+signed_date: "2004-04-02"
+entry_into_force: "2005-08-23"
 ---
-
 # Overeenkomst, door de Raad vastgesteld overeenkomstig artikel 34 van het Verdrag betreffende de Europese Unie, betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie
 
 De Hoge Verdragsluitende Partijen bij deze overeenkomst, lidstaten van de Europese Unie,
@@ -38,7 +63,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Verhouding tot andere rechtshulpverdragen
+##### Artikel 1. Verhouding tot andere rechtshulpverdragen
 
 1. Deze overeenkomst strekt tot het aanvullen en het vergemakkelijken van de toepassing, tussen de lidstaten van de Europese Unie, van:
 
@@ -52,19 +77,19 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 2. Deze overeenkomst laat onverlet de toepasselijkheid van verdergaande bepalingen van bilaterale en multilaterale overeenkomsten tussen lidstaten, alsmede, overeenkomstig [artikel 26, lid 4, van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=26), van regelingen inzake de wederzijdse rechtshulp in strafzaken op grond van een eenvormige wet of van een bijzonder stelsel dat in onderlinge toepassing van maatregelen van wederzijdse rechtshulp op elkaars grondgebied voorziet.
 
-#### Artikel 2. Bepalingen betreffende het Schengenacquis
+##### Artikel 2. Bepalingen betreffende het Schengenacquis
 
 1. De artikelen 3, 5, 6, 7, 12, 23 en, voorzover van belang voor artikel 12, de artikelen 15 en 16, alsmede, voorzover van belang voor de artikelen waarnaar wordt verwezen, artikel 1, zijn maatregelen tot wijziging of uitbreiding van de bepalingen genoemd in bijlage A van de tussen de Raad van de Europese Unie, de Republiek IJsland en het Koninkrijk Noorwegen gesloten Overeenkomst inzake de wijze waarop IJsland en Noorwegen worden betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis.1)PB L 176 van 10.7.1999, blz. 36.
 
 2. De bepalingen van de artikelen 49, onder a, 52, 53 en 73 van de Schengenuitvoeringsovereenkomst worden hierbij ingetrokken.
 
-#### Artikel 3. Procedures waarvoor eveneens wederzijdse rechtshulp wordt verleend
+##### Artikel 3. Procedures waarvoor eveneens wederzijdse rechtshulp wordt verleend
 
 1. Wederzijdse rechtshulp wordt eveneens verleend ten behoeve van procedures wegens feiten die volgens het nationale recht van de verzoekende of van de aangezochte lidstaat, of van beide, als vergrijpen tegen voorschriften betreffende de orde door bestuurlijke autoriteiten worden bestraft, mits van hun beslissingen beroep openstaat op een ook in strafzaken bevoegde rechter.
 
 2. Wederzijdse rechtshulp wordt eveneens verleend ten behoeve van strafvervolging en procedures, bedoeld in lid 1, in verband met strafbare feiten waarvoor in de verzoekende lidstaat een rechtspersoon aansprakelijk kan worden gesteld.
 
-#### Artikel 4. Formaliteiten en procedures bij de uitvoering van rechtshulpverzoeken
+##### Artikel 4. Formaliteiten en procedures bij de uitvoering van rechtshulpverzoeken
 
 1. Bij het verlenen van wederzijdse rechtshulp neemt de aangezochte lidstaat de door de verzoekende lidstaat uitdrukkelijk aangegeven formaliteiten en procedures in acht, tenzij deze overeenkomst anders bepaalt en voorzover de aangegeven formaliteiten en procedures niet strijdig zijn met de fundamentele beginselen van het recht van de aangezochte lidstaat.
 
@@ -74,7 +99,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 4. Indien te verwachten valt dat niet binnen de door de verzoekende lidstaat gestelde termijn aan het verzoek kan worden voldaan en de in lid 2, tweede zin, bedoelde redenen concrete aanwijzingen bevatten dat elke vertraging de lopende procedures in de verzoekende lidstaat aanzienlijk zal schaden, berichten de autoriteiten van de aangezochte lidstaat onverwijld hoeveel tijd zij nodig achten voor de uitvoering van het verzoek. De autoriteiten van de verzoekende lidstaat geven onverwijld te kennen of het verzoek desalniettemin wordt gehandhaafd. De autoriteiten van de verzoekende en de aangezochte lidstaat kunnen vervolgens afspreken welk gevolg aan het verzoek zal worden gegeven.
 
-#### Artikel 5. Toezending en uitreiking van gerechtelijke stukken
+##### Artikel 5. Toezending en uitreiking van gerechtelijke stukken
 
 1. Elke lidstaat zendt aan de personen die zich op het grondgebied van een andere lidstaat bevinden, voor hen bestemde gerechtelijke stukken rechtstreeks over de post toe.
 
@@ -94,7 +119,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 5. Dit artikel doet geen afbreuk aan de toepassing van de [artikelen 8, 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=8) en [12 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=12) en de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=32), [34](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=34) en [35 van het Benelux-Verdrag.](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=35)
 
-#### Artikel 6. Toezending van verzoeken om rechtshulp
+##### Artikel 6. Toezending van verzoeken om rechtshulp
 
 1. Verzoeken om rechtshulp alsook de in artikel 7 bedoelde uitwisseling van gegevens op eigen initiatief worden schriftelijk gedaan, dan wel op zodanige wijze dat het verzoek schriftelijk kan worden vastgelegd en de ontvangende lidstaat de echtheid ervan kan vaststellen. Dergelijke verzoeken worden rechtstreeks gedaan tussen de rechterlijke autoriteiten die territoriaal bevoegd zijn voor de indiening en uitvoering ervan en op dezelfde wijze beantwoord, tenzij in dit artikel anders is bepaald.
 
@@ -124,7 +149,7 @@ Elke lidstaat kan ten aanzien van bovenbedoelde verklaringen het wederkerigheids
 
 - b. mededelingen omtrent veroordelingen, bedoeld in [artikel 22 van het Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009&artikel=22) en [artikel 43 van het Benelux-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001006&artikel=43). Verzoeken om afschriften van vonnissen en maatregelen, bedoeld in artikel 4 van het Aanvullend Protocol bij het Europees Rechtshulpverdrag, kunnen evenwel rechtstreeks tot de bevoegde autoriteiten worden gericht.
 
-#### Artikel 7. Uitwisseling van gegevens op eigen initiatief
+##### Artikel 7. Uitwisseling van gegevens op eigen initiatief
 
 1. De bevoegde autoriteiten van de lidstaten kunnen binnen de grenzen van het nationale recht, zonder een daartoe strekkend verzoek, gegevens uitwisselen met betrekking tot strafbare feiten en vergrijpen tegen voorschriften betreffende de orde, bedoeld in artikel 3, lid 1, waarvan de bestraffing of behandeling op het tijdstip waarop de gegevens worden verstrekt tot de bevoegdheid behoort van de ontvangende autoriteit.
 
@@ -134,7 +159,7 @@ Elke lidstaat kan ten aanzien van bovenbedoelde verklaringen het wederkerigheids
 
 ## TITEL II. VERZOEKEN OM SPECIFIEKE VORMEN VAN RECHTSHULP
 
-#### Artikel 8. Teruggave
+##### Artikel 8. Teruggave
 
 1. De aangezochte lidstaat kan, op verzoek van de verzoekende lidstaat en onverminderd de rechten van derden te goeder trouw, de voorwerpen die door een strafbaar feit zijn verkregen, ter beschikking stellen van de verzoekende lidstaat met het oog op de teruggave ervan aan de rechtmatige eigenaar.
 
@@ -144,7 +169,7 @@ Elke lidstaat kan ten aanzien van bovenbedoelde verklaringen het wederkerigheids
 
 Afstand, bedoeld in lid 2, laat het recht van de aangezochte lidstaat om belastingen of rechten van de rechtmatige eigenaar te eisen, onverlet.
 
-#### Artikel 9. Tijdelijke overbrenging van gedetineerden ten behoeve van een onderzoek
+##### Artikel 9. Tijdelijke overbrenging van gedetineerden ten behoeve van een onderzoek
 
 1. Wanneer de bevoegde autoriteiten van de betrokken lidstaten daarover overeenstemming hebben bereikt, kan een lidstaat die heeft verzocht om een onderzoek waarvoor de aanwezigheid van een op zijn grondgebied gedetineerde persoon is vereist, deze persoon tijdelijk overbrengen naar het grondgebied van de lidstaat waar het onderzoek moet plaatsvinden.
 
@@ -158,7 +183,7 @@ Afstand, bedoeld in lid 2, laat het recht van de aangezochte lidstaat om belasti
 
 6. Elke lidstaat kan bij de in artikel 27, lid 2, bedoelde kennisgeving verklaren dat alvorens overeenstemming in de zin van lid 1 wordt bereikt, de in lid 3 bedoelde instemming is vereist of onder bepaalde, in de verklaring genoemde voorwaarden is vereist.
 
-#### Artikel 10. Verhoor per videoconferentie
+##### Artikel 10. Verhoor per videoconferentie
 
 1. Indien een persoon die zich op het grondgebied van een lidstaat bevindt, door de rechterlijke autoriteiten van een andere lidstaat als getuige of deskundige dient te worden verhoord, kan laatstgenoemde lidstaat, indien het niet wenselijk of mogelijk is dat de te verhoren persoon in persoon op zijn grondgebied verschijnt, verzoeken dat het verhoor overeenkomstig de leden 2 tot en met 8 per videoconferentie plaatsvindt.
 
@@ -192,7 +217,7 @@ Elke lidstaat kan, wanneer hij de in artikel 27, lid 2, bedoelde kennisgeving do
 
 Voor een dergelijk verhoor is de instemming van deze persoon vereist. Voorschriften die nodig zouden kunnen zijn voor de bescherming van de rechten van verdachten, worden door de Raad door middel van een juridisch bindend instrument vastgesteld.
 
-#### Artikel 11. Verhoor van getuigen en deskundigen per telefoonconferentie
+##### Artikel 11. Verhoor van getuigen en deskundigen per telefoonconferentie
 
 1. Indien een persoon die zich op het grondgebied van een lidstaat bevindt, door de rechterlijke autoriteiten van een andere lidstaat als getuige of deskundige dient te worden verhoord, kan laatstgenoemde lidstaat, indien zijn nationale wetgeving daarin voorziet, eerstgenoemde lidstaat om bijstand verzoeken teneinde het verhoor overeenkomstig de leden 2 tot en met 5 per telefoonconferentie af te nemen.
 
@@ -210,7 +235,7 @@ Voor een dergelijk verhoor is de instemming van deze persoon vereist. Voorschrif
 
 - c. vast te stellen dat de getuige of deskundige instemt met het verhoor per telefoonconferentie. De aangezochte lidstaat kan zijn instemming geheel of gedeeltelijk laten afhangen van de nakoming van het bepaalde in artikel 10, leden 5 en 8. Tenzij anders wordt overeengekomen, is artikel 10, lid 7, van overeenkomstige toepassing.
 
-#### Artikel 12. Gecontroleerde aflevering
+##### Artikel 12. Gecontroleerde aflevering
 
 1. Elke lidstaat verbindt zich ertoe ervoor te zorgen dat op verzoek van een andere lidstaat gecontroleerde aflevering in het kader van strafrechtelijke onderzoeken naar strafbare feiten die aanleiding kunnen geven tot uitlevering, op zijn grondgebied kan worden toegestaan.
 
@@ -218,7 +243,7 @@ Voor een dergelijk verhoor is de instemming van deze persoon vereist. Voorschrif
 
 3. Een gecontroleerde aflevering wordt uitgevoerd volgens de procedures van de aangezochte lidstaat. Het recht om te handelen en om het optreden te leiden en te controleren berust bij de bevoegde autoriteiten van die lidstaat.
 
-#### Artikel 13. Gemeenschappelijke onderzoeksteams
+##### Artikel 13. Gemeenschappelijke onderzoeksteams
 
 1. De bevoegde autoriteiten van twee of meer lidstaten kunnen onderling overeenkomen een gemeenschappelijk onderzoeksteam in te stellen voor een bepaald doel en voor een beperkte periode, die in onderlinge overeenstemming kan worden verlengd, om strafrechtelijke onderzoeken uit te voeren in een of meer van de lidstaten die het team instellen. De samenstelling van het team wordt in de overeenkomst vermeld.
 
@@ -266,7 +291,7 @@ Een verzoek om instelling van een gemeenschappelijk onderzoeksteam kan van elk v
 
 12. Voorzover toegestaan krachtens het recht van de betrokken lidstaten of de bepalingen van een tussen hen geldend rechtsinstrument, kan worden overeengekomen dat andere personen dan vertegenwoordigers van de bevoegde autoriteiten van de lidstaten die het gemeenschappelijk onderzoeksteam instellen, deelnemen aan de activiteiten van het team. Dat kunnen bijvoorbeeld ambtenaren van bij het Verdrag betreffende de Europese Unie ingestelde instanties zijn. De rechten die uit hoofde van dit artikel aan de leden en de gedetacheerde leden van het team worden verleend, strekken zich niet uit tot die personen, tenzij uitdrukkelijk anders is overeengekomen.
 
-#### Artikel 14. Infiltratie
+##### Artikel 14. Infiltratie
 
 1. De verzoekende en de aangezochte lidstaat kunnen overeenkomen elkaar hulp te verlenen ten behoeve van strafrechtelijk onderzoek dat wordt verricht door ambtenaren die onder een valse of fictieve identiteit optreden, hierna te noemen infiltratie.
 
@@ -276,11 +301,11 @@ Een verzoek om instelling van een gemeenschappelijk onderzoeksteam kan van elk v
 
 4. Elke lidstaat kan bij de in artikel 27, lid 2, bedoelde kennisgeving verklaren niet gebonden te zijn door dit artikel. Die verklaring kan te allen tijde worden ingetrokken.
 
-#### Artikel 15. Strafrechtelijke aansprakelijkheid van ambtenaren
+##### Artikel 15. Strafrechtelijke aansprakelijkheid van ambtenaren
 
 Tijdens een optreden, bedoeld in de artikelen 12, 13 en 14, worden de ambtenaren uit een andere lidstaat dan de lidstaat waar het optreden plaatsvindt, met ambtenaren van die lidstaat gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan.
 
-#### Artikel 16. Burgerrechtelijke aansprakelijkheid van ambtenaren
+##### Artikel 16. Burgerrechtelijke aansprakelijkheid van ambtenaren
 
 1. Wanneer ambtenaren van een lidstaat overeenkomstig de artikelen 12, 13 en 14 in een andere lidstaat optreden, is de eerstgenoemde lidstaat overeenkomstig het recht van de lidstaat op het grondgebied waarvan zij optreden aansprakelijk voor de schade die zij aldaar tijdens hun optreden veroorzaken.
 
@@ -292,11 +317,11 @@ Tijdens een optreden, bedoeld in de artikelen 12, 13 en 14, worden de ambtenaren
 
 ## TITEL III. HET AFTAPPEN VAN TELECOMMUNICATIE
 
-#### Artikel 17. Autoriteiten die bevoegd zijn om opdracht te geven tot het aftappen van telecommunicatie
+##### Artikel 17. Autoriteiten die bevoegd zijn om opdracht te geven tot het aftappen van telecommunicatie
 
 In de artikelen 18, 19 en 20 wordt onder „bevoegde autoriteit" verstaan een rechterlijke autoriteit of, indien rechterlijke autoriteiten geen bevoegdheid bezitten op het door die bepalingen bestreken gebied, een gelijkwaardige bevoegde autoriteit die overeenkomstig artikel 24, lid l, onder e), wordt aangewezen en handelt ten behoeve van een strafrechtelijk onderzoek.
 
-#### Artikel 18. Verzoeken om het aftappen van telecommunicatie
+##### Artikel 18. Verzoeken om het aftappen van telecommunicatie
 
 1. Ten behoeve van een strafrechtelijk onderzoek kan een bevoegde autoriteit van de verzoekende lidstaat, in overeenstemming met de voorschriften van zijn nationale recht, een verzoek richten tot een bevoegde autoriteit van de aangezochte lidstaat, voor:
 
@@ -342,7 +367,7 @@ In de artikelen 18, 19 en 20 wordt onder „bevoegde autoriteit" verstaan een re
 
 9. De lidstaat die de uit hoofde van de leden 3 en 4 verstrekte gegevens ontvangt, dient deze met inachtneming van zijn nationale recht als vertrouwelijk te behandelen.
 
-#### Artikel 19. Het aftappen van telecommunicatie op eigen grondgebied door tussenkomst van dienstenverstrekkers
+##### Artikel 19. Het aftappen van telecommunicatie op eigen grondgebied door tussenkomst van dienstenverstrekkers
 
 1. De lidstaten dragen er zorg voor dat de via een toegangspoort op hun grondgebied geëxploiteerde telecommunicatienetwerken, die op het grondgebied van een andere lidstaat niet rechtstreeks toegankelijk zijn voor het rechtmatig aftappen van communicatie van een persoon die zich in die andere lidstaat bevindt, rechtstreeks toegankelijk kunnen worden gemaakt voor het rechtmatig aftappen door die lidstaat door de tussenkomst van een daartoe aangewezen dienstenverstrekker op zijn grondgebied.
 
@@ -352,7 +377,7 @@ In de artikelen 18, 19 en 20 wordt onder „bevoegde autoriteit" verstaan een re
 
 4. Het bepaalde in dit artikel belet de lidstaten niet een verzoek om het rechtmatig aftappen van telecommunicatie overeenkomstig artikel 18 te richten tot de lidstaat op het grondgebied waarvan de toegangspoort zich bevindt, in het bijzonder wanneer er in de verzoekende lidstaat geen dienstenverstrekker is.
 
-#### Artikel 20. Het aftappen van telecommunicatie zonder technische bijstand van een andere lidstaat
+##### Artikel 20. Het aftappen van telecommunicatie zonder technische bijstand van een andere lidstaat
 
 1. Onverminderd de algemene beginselen van het internationale recht en de bepalingen van artikel 18, lid 2, onder c, zijn de verplichtingen krachtens dit artikel van toepassing op aftapbevelen die door de bevoegde autoriteit van een lidstaat zijn gegeven of toegestaan in het kader van een strafrechtelijk onderzoek dat de kenmerken vertoont van een onderzoek naar aanleiding van een specifiek strafbaar feit, met inbegrip van pogingen daartoe voorzover deze krachtens de nationale wetgeving strafbaar zijn gesteld, teneinde de verantwoordelijken te identificeren en aan te houden, in beschuldiging te stellen, te vervolgen of te berechten.
 
@@ -406,17 +431,17 @@ In de artikelen 18, 19 en 20 wordt onder „bevoegde autoriteit" verstaan een re
 
 7. Elke lidstaat kan bij de in artikel 27 lid 2, bedoelde kennisgeving of op enig ander later tijdstip verklaren dat het niet noodzakelijk is hem de gegevens over het aftappen, bedoeld in dit artikel, te verstrekken.
 
-#### Artikel 21. Aansprakelijkheid voor de door aanbieders van telecommunicatienetwerken gemaakte kosten
+##### Artikel 21. Aansprakelijkheid voor de door aanbieders van telecommunicatienetwerken gemaakte kosten
 
 De kosten die door aanbieders van telecommunicatienetwerken of dienstenverstrekkers worden gemaakt bij de uitvoering van verzoeken uit hoofde van artikel 18, komen ten laste van de verzoekende lidstaat.
 
-#### Artikel 22. Bilaterale regelingen
+##### Artikel 22. Bilaterale regelingen
 
 Niets in deze titel belet de lidstaten bilaterale of multilaterale regelingen te treffen ter vergemakkelijking van het gebruik van de huidige en toekomstige technische mogelijkheden voor het rechtmatig aftappen van telecommunicatie.
 
 ## TITEL IV
 
-#### Artikel 23. Bescherming van persoonsgegevens
+##### Artikel 23. Bescherming van persoonsgegevens
 
 1. Persoonsgegevens die uit hoofde van deze overeenkomst worden meegedeeld, kunnen worden gebruikt door de lidstaten waaraan zij zijn verstrekt:
 
@@ -446,7 +471,7 @@ Indien Luxemburg in een bepaald geval weigert in te stemmen met een verzoek van 
 
 ## TITEL V. SLOTBEPALINGEN
 
-#### Artikel 24. Verklaringen
+##### Artikel 24. Verklaringen
 
 1. Bij de in artikel 27, lid 2, bedoelde kennisgeving vermeldt elke lidstaat in een verklaring de autoriteiten die, naast de autoriteiten welke al worden aangegeven in het [Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) en het [Benelux-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001006), bevoegd zijn voor de toepassing van deze overeenkomst en voor de toepassing tussen de lidstaten van de bepalingen inzake wederzijdse rechtshulp in strafzaken van de in artikel 1, lid 1, genoemde instrumenten, waaronder:
 
@@ -462,17 +487,17 @@ Indien Luxemburg in een bepaald geval weigert in te stemmen met een verzoek van 
 
 2. De overeenkomstig lid 1 afgelegde verklaringen kunnen te allen tijde geheel of gedeeltelijk worden gewijzigd volgens dezelfde procedure.
 
-#### Artikel 25. Voorbehouden
+##### Artikel 25. Voorbehouden
 
 Andere voorbehouden dan die waarin deze overeenkomst uitdrukkelijk voorziet, zijn niet toegestaan.
 
-#### Artikel 26. Territoriale toepassing
+##### Artikel 26. Territoriale toepassing
 
 Deze overeenkomst wordt van toepassing op Gibraltar na de uitbreiding van het [Europees Rechtshulpverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001009) tot Gibraltar.
 
 Wanneer het Verenigd Koninkrijk de overeenkomst wenst toe te passen op de Kanaaleilanden en het eiland Man na de uitbreiding van het Europees Rechtshulpverdrag tot die gebieden, stelt het de voorzitter van de Raad daarvan schriftelijk in kennis. De Raad neemt met eenparigheid van stemmen van zijn leden een besluit over dat verzoek.
 
-#### Artikel 27. Inwerkingtreding
+##### Artikel 27. Inwerkingtreding
 
 1. Deze overeenkomst wordt de lidstaten ter aanneming overeenkomstig hun onderscheiden grondwettelijke bepalingen voorgelegd.
 
@@ -486,7 +511,7 @@ Wanneer het Verenigd Koninkrijk de overeenkomst wenst toe te passen op de Kanaal
 
 6. Deze overeenkomst is van toepassing op verzoeken om wederzijdse rechtshulp die zijn ingediend na de datum waarop de overeenkomst tussen de betrokken lidstaten in werking is getreden of uit hoofde van lid 5 wordt toegepast.
 
-#### Artikel 28. Toetreding van nieuwe lidstaten
+##### Artikel 28. Toetreding van nieuwe lidstaten
 
 1. Elke staat die lid wordt van de Europese Unie kan tot deze overeenkomst toetreden.
 
@@ -498,7 +523,7 @@ Wanneer het Verenigd Koninkrijk de overeenkomst wenst toe te passen op de Kanaal
 
 5. Indien de overeenkomst nog niet in werking is getreden op het tijdstip waarop een toetredende staat zijn akte van toetreding neerlegt, is voor deze staat artikel 27, lid 5, van toepassing.
 
-#### Artikel 29. Inwerkingtreding voor IJsland en Noorwegen
+##### Artikel 29. Inwerkingtreding voor IJsland en Noorwegen
 
 1. Onverminderd het bepaalde in artikel 8 van de tussen de Raad van de Europese Unie, de Republiek IJsland en het Koninkrijk Noorwegen gesloten overeenkomst inzake de wijze waarop IJsland en Noorwegen worden betrokken bij de uitvoering, de toepassing en de ontwikkeling van het Schengenacquis, hierna te noemen de associatieovereenkomst, de in artikel 2, lid 1, bedoelde bepalingen voor IJsland en Noorwegen in hun wederzijdse betrekkingen met iedere lidstaat waarvoor deze overeenkomst op grond van artikel 27, lid 3 of lid 4, reeds in werking is getreden, in werking negentig dagen na de ontvangst door de Raad en de Commissie van de in artikel 8, lid 2, van de associatieovereenkomst bedoelde mededeling nadat aan hun grondwettelijke verplichtingen is voldaan.
 
@@ -508,7 +533,7 @@ Wanneer het Verenigd Koninkrijk de overeenkomst wenst toe te passen op de Kanaal
 
 4. Onverminderd de leden 1, 2 en 3 treden de in artikel 2, lid 1, bedoelde bepalingen voor IJsland en Noorwegen uiterlijk in werking op de dag van de inwerkingtreding van deze overeenkomst ten aanzien van de vijftiende staat die, ten tijde van de aanneming door de Raad van de Akte tot vaststelling van deze overeenkomst, lid is van de Europese Unie.
 
-#### Artikel 30. Depositaris
+##### Artikel 30. Depositaris
 
 1. De secretaris-generaal van de Raad van de Europese Unie is depositaris van deze overeenkomst.
 

@@ -1,13 +1,37 @@
 ---
-title: "Warenwetbesluit machines"
+title: "Besluit van 30 juni 1992 houdende regelen betreffende de veiligheid van machines"
 identifier: "BWBR0005577"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-02-01
-laatste_update: 2020-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005577"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-02-01"
+last_updated: "2020-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005577"
+soort: "AMvB"
+stam_id: "1445883"
+version_id: "9157072"
+internal_id: "C12184201"
+label_id: "1404904"
+dtd_version: "2.0"
+original_entry_into_force: "2003-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005577/2020-02-01/0"
+intitule_bron: "Stb.1992-379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2003-315"
+original_signed_date: "2003-07-03"
+original_published_date: "2003-07-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2003-315"
+entry_into_force_date: "2003-07-03"
+jci_1_3: "jci1.3:c:BWBR0005577&z=2020-02-01&g=2020-02-01"
+jci_1_0: "1.0:c:BWBR0005577&g=2020-02-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit machines"
+signed_date: "2003-07-03"
+entry_into_force: "2003-07-03"
 ---
-
 # Besluit van 30 juni 1992 houdende regelen betreffende de veiligheid van machines
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 13 december 1991, VVP/P-U 692408, gedaan in overeenstemming met Onze Minister van Economische Zaken en Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -24,7 +48,7 @@ Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -126,7 +150,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. wijziging: een wijziging van een hijs- en hefwerktuig voor beroepsmatig personenvervoer, anders dan de wijzigingen in de vorm van uitbreidingen of varianten van het hijs- en hefwerktuig, waarvoor de afgegeven EG-verklaring van overeenstemming geldt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden machines en niet voltooide machines die niet voldoen aan de vervaardigingsvoorschriften bij of krachtens dit besluit gesteld in de handel te brengen of in bedrijf te stellen.
 
@@ -142,17 +166,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden apparaten die geconstrueerd of bestemd zijn voor het manipuleren van tachografen in de handel te brengen, in bedrijf te stellen of reclame voor deze apparaten te maken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De fabrikant of diens gemachtigde draagt er zorg voor dat machines zodanig zijn ontworpen, samengesteld en vervaardigd, zodanige eigenschappen hebben en van zodanige vermeldingen zijn voorzien, dat zij geen gevaar opleveren voor de veiligheid of gezondheid van de mens en, in voorkomend geval, huisdieren of de veiligheid van zaken, wanneer zij op passende wijze zijn geïnstalleerd en onderhouden en overeenkomstig hun bestemming of in redelijkerwijs voorzienbare omstandigheden worden gebruikt.
 
 2. Indien op grond van de richtlijn van toepassing, draagt de fabrikant of diens gemachtigde er tevens zorg voor dat machines zodanig zijn ontworpen, samengesteld en vervaardigd, zodanige eigenschappen hebben en van zodanige vermeldingen zijn voorzien, dat zij geen gevaar opleveren voor het milieu, indien zij op passende wijze zijn geïnstalleerd en onderhouden en overeenkomstig hun bestemming of in redelijkerwijs voorzienbare omstandigheden worden gebruikt.
 
-#### Artikel 4
+##### Artikel 4
 
 Machines die voldoen aan de door Onze Minister aangewezen normen, en die met inachtneming van de procedures, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2020-02-01&g=2020-02-01), voorzien zijn van de in bijlage III van de richtlijn bedoelde aanduiding houdende de CE-markering en vergezeld gaan van de in bijlage II, punt A, van de richtlijn bedoelde EG-verklaring van overeenstemming, bestaande uit de in die bijlage aangegeven onderdelen voor zover deze van toepassing zijn, worden vermoed te voldoen aan de essentiële veiligheids- en gezondheidseisen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De CE-markering wordt uitsluitend op de machine aangebracht, indien de fabrikant of diens gemachtigde:
 
@@ -174,21 +198,21 @@ Machines die voldoen aan de door Onze Minister aangewezen normen, en die met ina
 
 2. De kosten verbonden aan het afgeven van een verklaring van EG- typeonderzoek of van een goedkeuring van het kwaliteitborgingssysteem zijn voor rekening van de fabrikant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde aanduiding wordt duidelijk leesbaar en onuitwisbaar op de machine aangebracht, overeenkomstig de bijlagen I, punt 1.7.3, en III van de richtlijn.
 
 2. Ten aanzien van machines mogen geen vermeldingen, vaststellingen of aanduidingen worden gebezigd, welke met de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2020-02-01&g=2020-02-01) bedoelde aanduiding kunnen worden verward. Op de machines mogen andere markeringen worden aangebracht op voorwaarde dat de zichtbaarheid en de leesbaarheid van de CE-markering niet worden verminderd.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit kan worden aangehaald als: Warenwetbesluit machines.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 januari 1993, met dien verstande dat machines, met uitzondering van machines waarop het [Besluit machines](https://wetten.overheid.nl/jci1.3:c:BWBR0005884) van toepassing was, die voor de datum van inwerkingtreding voor het eerst zijn verhandeld en die voldoen aan de van toepassing zijnde regelgeving zoals die luidde direct voor de inwerkingtreding van dit besluit, nog tot 31 december 1994 mogen worden verhandeld.
 
@@ -200,13 +224,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 2. Vervaardiging
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De fabrikant of diens gemachtigde die voornemens is aan het model van de machine of aan te vervaardigen en in de handel te brengen machines, waarvoor door een EU-conformiteitsbeoordelingsinstantie een verklaring van EG-typeonderzoek is afgegeven, wijzigingen aan te brengen, stelt deze instelling hiervan onverwijld in kennis.
 
 2. De EU-conformiteitsbeoordelingsinstantie beoordeelt de wijzigingen en bevestigt de geldigheid van de bestaande verklaring van EG-typeonderzoek of stelt een nieuwe verklaring op als de overeenstemming met de essentiële veiligheids- en gezondheidseisen of met de gebruiksvoorwaarden van het type door de wijzigingen in het geding kan komen. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=3&artikel=5&z=2020-02-01&g=2020-02-01), is van overeenkomstige toepassing.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien een EU-conformiteitsbeoordelingsinstantie vaststelt dat de fabrikant niet of niet langer aan de toepasselijke eisen van dit besluit voldoet of dat geen verklaring van EG-typeonderzoek of goedkeuring van het kwaliteitsborgingssysteem verleend had mogen worden, schort zij de verleende verklaring of goedkeuring op, dan wel trekt zij deze in of verbindt zij daar beperkingen aan, tenzij de naleving van de eisen is gewaarborgd door de toepassing van passende corrigerende maatregelen van de fabrikant.
 
@@ -214,15 +238,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 4. Verkeer en gebruik
 
-#### Artikel 6b
+##### Artikel 6b
 
 Vervallen
 
-#### Artikel 6c
+##### Artikel 6c
 
 [Artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=1&artikel=2&z=2020-02-01&g=2020-02-01), is niet van toepassing op het tentoonstellen en demonstreren op (jaar)beurzen, exposities en bij demonstraties van machines of niet voltooide machines die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord duidelijk is aangegeven dat zij niet in overeenstemming zijn met dit besluit en niet te koop zijn voordat zij door de fabrikant of zijn in de Europese Economische Ruimte gevestigde gevolmachtigde in overeenstemming zijn gebracht met dit besluit. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de bescherming van de mens te waarborgen.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. Een hijskraan met een bedrijfslast die gelijk is aan of hoger is dan twee ton wordt ten minste eenmaal per 12 maanden gekeurd. In aanvulling daarop wordt een mobiele kraan of torenkraan, die behoort tot een bij ministeriële regeling omschreven categorie, ten hoogste 24 maanden na de eerste ingebruikneming en vervolgens telkens na verloop van ten hoogste vierentwintig maanden gekeurd. Bij ministeriële regeling kan worden bepaald dat een NL-conformiteitsbeoordelingsinstantie kan verlangen dat een mobiele of torenkraan in geval van door haar geconstateerde ernstige gebreken, na een kortere termijn dan de termijnen, genoemd in de eerste en tweede volzin, wordt onderzocht op de staat van veiligheid.
 
@@ -232,7 +256,7 @@ Vervallen
 
 4. De certificaathouder verstrekt de deskundige, Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie heeft aangewezen, deze instelling, desgevraagd kosteloos alle informatie die nodig is voor de uitvoering van het bepaalde bij of krachtens dit artikel.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. De deskundige, bedoeld in [artikel 6d, derde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01), Onze Minister of, indien Onze Minister een NL-conformiteitsbeoordelingsinstantie heeft aangewezen, deze instelling, geeft op verzoek een certificaat van goedkeuring af wanneer hij respectievelijk zij heeft vastgesteld dat de hijskraan, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01), voldoet aan de bij of krachtens dit besluit gestelde eisen.
 
@@ -240,7 +264,7 @@ Vervallen
 
 3. De kosten van het afgeven van een certificaat van goedkeuring zijn voor rekening van de verzoeker tot afgifte van het certificaat.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. In de nabijheid van een hijskraan als bedoeld in [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01), bevindt zich een kraanboek. In dit boek zijn in ieder geval de resultaten van de op grond van [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01) uitgevoerde keuringen op adequate wijze vermeld.
 
@@ -250,7 +274,7 @@ Vervallen
 
 ### Hoofdstuk 4. Verkeer en gebruik
 
-#### Artikel 6g. Criteria voor aanwijzing
+##### Artikel 6g. Criteria voor aanwijzing
 
 1. Als EU-conformiteitsbeoordelingsinstantie kunnen worden aangewezen de instellingen die voldoen aan de volgende voorwaarden:
 
@@ -314,7 +338,7 @@ Vervallen
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 6h. Criteria voor aanwijzing als NL-conformiteitsbeoordelingsinstantie
+##### Artikel 6h. Criteria voor aanwijzing als NL-conformiteitsbeoordelingsinstantie
 
 1. Als NL-conformiteitsbeoordelingsinstantie kunnen worden aangewezen de instellingen die voldoen aan de volgende eisen:
 
@@ -348,27 +372,27 @@ Vervallen
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 6i. De weigering, schorsing, wijziging of intrekking van een aanwijzing
+##### Artikel 6i. De weigering, schorsing, wijziging of intrekking van een aanwijzing
 
 Vervallen
 
-#### Artikel 6j. Periodieke controle van een aangewezen instelling en aangewezen aangemelde instelling
+##### Artikel 6j. Periodieke controle van een aangewezen instelling en aangewezen aangemelde instelling
 
 Vervallen
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 6k
+##### Artikel 6k
 
 Vervallen
 
-#### Artikel 6l
+##### Artikel 6l
 
 Instellingen die op het tijdstip waarop artikel II, eerste, derde en vierde lid, van de [Wet van 1 november 2001 tot wijziging van de Warenwet met het oog op de incorporatie van productveiligheidsvoorschriften uit de Wet op de gevaarlijke werktuigen, zulks onder intrekking van deze wet en de Stoomwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012951) (Stb. 557) in werking treedt, door Onze Minister krachtens [artikel 20 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20) zijn aangewezen om de keuringen, bedoeld in [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01), uit te voeren, worden aangemerkt als aangewezen instellingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Dit besluit is niet van toepassing op:
 
@@ -422,15 +446,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Dit besluit is niet van toepassing op liften en veiligheidscomponenten als bedoeld in [artikel 1 van het Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&artikel=1), tenzij deze in het [Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650) zijn uitgezonderd van het toepassingsbereik van dat besluit.
 
-#### Artikel 1b
+##### Artikel 1b
 
 Vervallen
 
-#### Artikel 2a
+##### Artikel 2a
 
 Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=21), en [30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=30) die betrekking hebben op machines worden onverwijld door Onze Minister bekendgemaakt in de Staatscourant dan wel op andere passende wijze.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De fabrikant of diens gemachtigde:
 
@@ -452,7 +476,7 @@ Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.over
 
 5. De verwijzingen naar de toegepaste regelingen, zoals in het Publicatieblad van de Europese Unie bekendgemaakt, worden in de EG-verklaring van overeenstemming vermeld.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. De fabrikant of diens gemachtigde vergewist zich, alvorens een niet voltooide machine in de handel te brengen, ervan dat:
 
@@ -464,13 +488,13 @@ Besluiten bedoeld in de [artikelen 21, eerste en tweede lid](https://wetten.over
 
 2. De fabrikant of diens gemachtigde voegt de montagehandleiding en de inbouwverklaring bij de niet voltooide machine totdat de inbouw is geschied, en zorgt dat deze vervolgens deel uitmaken van het technische dossier van de voltooide machine.
 
-#### Artikel 3c
+##### Artikel 3c
 
 De CE-markering wordt niet aangebracht op machines, waarop dit besluit niet van toepassing is, tenzij de CE-markering op grond van een ander besluit mag worden aangebracht.
 
 ### Hoofdstuk 3. Keuring en certificering
 
-#### Artikel 6ea
+##### Artikel 6ea
 
 1. De afgifte van een certificaat van goedkeuring, als bedoeld in [artikel 6e](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6e&z=2020-02-01&g=2020-02-01), wordt geweigerd indien de verzoeker niet heeft voldaan aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
 
@@ -484,7 +508,7 @@ De CE-markering wordt niet aangebracht op machines, waarop dit besluit niet van 
 
 - d. indien de certificaathouder met zijn werkzaamheden, voor zover die door het certificaat worden gereguleerd, of door de wijze waarop hij die werkzaamheden verricht, ernstig gevaar veroorzaakt of kan veroorzaken voor personen.
 
-#### Artikel 6fa
+##### Artikel 6fa
 
 1. Hijs- en hefwerktuigen voor beroepsmatig personenvervoer worden na elke montage op een nieuwe arbeidsplaats en vervolgens telkens na verloop van ten hoogste zes maanden, op de arbeidsplaats door een aangewezen instelling gekeurd.
 
@@ -500,7 +524,7 @@ De CE-markering wordt niet aangebracht op machines, waarop dit besluit niet van 
 
 ### Hoofdstuk 5. Aanwijzing EU- en NL-conformiteitsbeoordelingsinstantie
 
-#### Artikel 6ja. Verstrekken van gegevens
+##### Artikel 6ja. Verstrekken van gegevens
 
 Vervallen
 
@@ -508,11 +532,11 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 7a. Certificaat van goedkeuring
+##### Artikel 7a. Certificaat van goedkeuring
 
 Een certificaat van goedkeuring, afgegeven op grond van de wet, en geldend op dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395 wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van inwerkingtreding van evengenoemd besluit, onverminderd het bepaalde bij of krachtens de [artikelen 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6d&z=2020-02-01&g=2020-02-01) en [6ea](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=4&artikel=6ea&z=2020-02-01&g=2020-02-01).
 
-#### Artikel 7b. Aangewezen (aangemelde) instelling op verzoek
+##### Artikel 7b. Aangewezen (aangemelde) instelling op verzoek
 
 1. De aanwijzing als aangewezen instelling en aangewezen aangemelde instelling op verzoek, afgegeven op grond van de wet, en geldend op de dag, voorafgaand aan de datum van inwerkingtreding van het besluit van 7 september 2009, Stb. 395 worden geacht te zijn gegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, zoals die luiden met ingang van de datum van evengenoemd besluit.
 
@@ -530,7 +554,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 1. EU-conformiteitsbeoordelingsinstantie
 
-#### Artikel 6ga. Uitbesteden taken door EU-conformiteitsbeoordelingsinstanties
+##### Artikel 6ga. Uitbesteden taken door EU-conformiteitsbeoordelingsinstanties
 
 1. Indien een EU-conformiteitsbeoordelingsinstantie conformiteitsbeoordelingstaken uitbesteedt of door een dochteronderneming laat uitvoeren, waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen, bedoeld in [artikel 6g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6g&z=2020-02-01&g=2020-02-01), voldoet, en brengt zij Onze Minister hiervan op de hoogte.
 
@@ -542,7 +566,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Een EU-conformiteitsbeoordelingsinstantie houdt alle relevante documenten betreffende de beoordeling van de kwalificaties van een onderaannemer of dochteronderneming en betreffende de door een onderaannemer of dochteronderneming uit hoofde van dit besluit verrichte conformiteitsbeoordelingstaken ter beschikking van Onze Minister.
 
-#### Artikel 6gb. De aanvraag tot aanwijzing
+##### Artikel 6gb. De aanvraag tot aanwijzing
 
 1. De instelling, bedoeld in [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6g&z=2020-02-01&g=2020-02-01), dient de aanvraag tot aanwijzing in bij Onze Minister.
 
@@ -552,7 +576,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 6gc. Weigering, schorsing, wijziging of intrekking aanwijzing
+##### Artikel 6gc. Weigering, schorsing, wijziging of intrekking aanwijzing
 
 1. Een aanwijzing als EU-conformiteitsbeoordelingsinstantie wordt geweigerd door Onze Minister indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 6g, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6g&z=2020-02-01&g=2020-02-01), [6ga](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6ga&z=2020-02-01&g=2020-02-01) en [6gb, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6gb&z=2020-02-01&g=2020-02-01).
 
@@ -564,11 +588,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
-#### Artikel 6gd. Aanmeldende autoriteit
+##### Artikel 6gd. Aanmeldende autoriteit
 
 Bij de uitoefening van zijn taken als aanmeldende autoriteit voldoet Onze Minister aan artikel 14 van de richtlijn.
 
-#### Artikel 6ge. Periodieke controle
+##### Artikel 6ge. Periodieke controle
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie:
 
@@ -582,11 +606,11 @@ Bij de uitoefening van zijn taken als aanmeldende autoriteit voldoet Onze Minist
 
 #### Paragraaf 2. NL-conformiteitsbeoordelingsinstantie
 
-#### Artikel 6ha. Uitbesteden taken door NL-conformiteitsbeoordelingsinstanties
+##### Artikel 6ha. Uitbesteden taken door NL-conformiteitsbeoordelingsinstanties
 
 Op het uitbesteden van conformiteitsbeoordelingstaken door een NL-conformiteitsbeoordelingsinstantie is [artikel 6ga](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6ga&z=2020-02-01&g=2020-02-01) van overeenkomstige toepassing.
 
-#### Artikel 6hb. De aanvraag tot aanwijzing
+##### Artikel 6hb. De aanvraag tot aanwijzing
 
 1. De instelling, bedoeld in [artikel 6h](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=2&artikel=6h&z=2020-02-01&g=2020-02-01), dient de aanvraag tot aanwijzing in bij Onze Minister.
 
@@ -596,7 +620,7 @@ Op het uitbesteden van conformiteitsbeoordelingstaken door een NL-conformiteitsb
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 6hc. Weigering, schorsing, wijziging of intrekking aanwijzing
+##### Artikel 6hc. Weigering, schorsing, wijziging of intrekking aanwijzing
 
 1. Een aanwijzing als NL-conformiteitsbeoordelingsinstantie wordt geweigerd indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 6h, eerste, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=2&artikel=6h&z=2020-02-01&g=2020-02-01), [6ha](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=2&artikel=6ha&z=2020-02-01&g=2020-02-01) en [6hb, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=2&artikel=6hb&z=2020-02-01&g=2020-02-01).
 
@@ -608,7 +632,7 @@ Op het uitbesteden van conformiteitsbeoordelingstaken door een NL-conformiteitsb
 
 - c. Indien een NL-conformiteitsbeoordelingsinstantie haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
-#### Artikel 6hd. Periodieke controle
+##### Artikel 6hd. Periodieke controle
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of een NL-conformiteitsbeoordelingsinstantie:
 
@@ -620,7 +644,7 @@ Op het uitbesteden van conformiteitsbeoordelingstaken door een NL-conformiteitsb
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 7c. Overgangsbepaling aangewezen en aangemelde aangewezen instellingen
+##### Artikel 7c. Overgangsbepaling aangewezen en aangemelde aangewezen instellingen
 
 De aanwijzing als aangemelde aangewezen instelling of aangewezen instelling op verzoek als bedoeld in [artikel 6g](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=1&artikel=6g&z=2020-02-01&g=2020-02-01) en [6h](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&paragraaf=2&artikel=6h&z=2020-02-01&g=2020-02-01), zoals die luidden op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid, van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037650&artikel=42), afgegeven op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) en geldend op de dag voorafgaand aan de datum van inwerkingtreding, genoemd in artikel 42, tweede lid, van genoemd besluit, worden geacht te zijn afgegeven met inachtneming van de bij of krachtens [Hoofdstuk 5, paragrafen 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005577&hoofdstuk=5&z=2020-02-01&g=2020-02-01), gestelde bepalingen van genoemd besluit.
 

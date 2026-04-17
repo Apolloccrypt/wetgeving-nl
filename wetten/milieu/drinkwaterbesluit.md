@@ -1,13 +1,39 @@
 ---
-title: "Drinkwaterbesluit"
+title: "Besluit van 23 mei 2011, houdende bepalingen inzake de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening (Drinkwaterbesluit)"
 identifier: "BWBR0030111"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030111"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030111"
+soort: "AMvB"
+stam_id: "11353593"
+version_id: "18630352"
+internal_id: "C26031171"
+label_id: "11328284"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030111/2024-01-01/0"
+intitule_bron: "Stb.2011-293"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-23"
+intitule_published: "2011-06-21"
+intitule_in_force: "2011-06-27"
+intitule_status: "goed"
+original_publication: "Stb.2011-293"
+original_signed_date: "2011-05-23"
+original_published_date: "2011-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-293"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030111&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0030111&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Drinkwaterbesluit"
+signed_date: "2011-05-23"
+entry_into_force: "2011-07-01"
 ---
-
 # Besluit van 23 mei 2011, houdende bepalingen inzake de productie en distributie van drinkwater en de organisatie van de openbare drinkwatervoorziening (Drinkwaterbesluit)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 17 december 2010, nr. BJZ2010033451, Hoofddirectie Bestuurlijke en Juridische Zaken i.o.;
@@ -26,7 +52,7 @@ Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
 #### § 1.1. Begripsomschrijvingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -114,13 +140,13 @@ Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
 #### § 1.2. Huishoudwater
 
-#### Artikel 2. Uitgezonderd van toepassing
+##### Artikel 2. Uitgezonderd van toepassing
 
 1. Op huishoudwater is de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338), met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=1), [21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=31), niet van toepassing.
 
 2. Voor zover huishoudwater door een drinkwaterbedrijf wordt geleverd, zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=8), en [11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=11) wel van toepassing.
 
-#### Artikel 3. Productie en distributie van huishoudwater
+##### Artikel 3. Productie en distributie van huishoudwater
 
 1. Bij ministeriële regeling worden in het belang van de volksgezondheid nadere eisen gesteld aan de productie, distributie en het gebruik van huishoudwater. Daarbij kan met het oog op dat belang onderscheid worden gemaakt tussen eigenaars van drinkwaterbedrijven, collectieve watervoorzieningen, collectieve leidingnetten of andere huishoudwatervoorzieningen.
 
@@ -134,11 +160,11 @@ Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
 - c. kan een verleende ontheffing worden ingetrokken.
 
-#### Artikel 4. Gebruik van huishoudwater
+##### Artikel 4. Gebruik van huishoudwater
 
 De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zijn vermogen ligt, zorg voor dat een consument of andere afnemer van het huishoudwater dat water alleen gebruikt of kan gebruiken voor toiletspoeling.
 
-#### Artikel 5. Productie van huishoudwater
+##### Artikel 5. Productie van huishoudwater
 
 1. De eigenaar van een huishoudwatervoorziening gebruikt voor de productie van huishoudwater uitsluitend hemelwater dat op een dak is opgevangen of grondwater.
 
@@ -152,13 +178,13 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 #### § 2.1. Tarieven
 
-#### Artikel 6. Vermogenskostenvoet
+##### Artikel 6. Vermogenskostenvoet
 
 1. Als methode, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=10), voor het bepalen van de gewogen gemiddelde vermogenskostenvoet wordt vastgesteld de methode, opgenomen in de bij dit besluit behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=C&z=2024-01-01&g=2024-01-01).
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de berekening van de gewogen gemiddelde vermogenskostenvoet overeenkomstig de methode bedoeld in het eerste lid.
 
-#### Artikel 7. Aandeel eigen vermogen
+##### Artikel 7. Aandeel eigen vermogen
 
 1. Het aandeel eigen vermogen wordt bepaald als het totaal vermogen, verminderd met het vreemd vermogen, gedeeld door het totaal vermogen.
 
@@ -180,7 +206,7 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 4. Een verzoek tot afwijking als bedoeld in [artikel 10, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=10), is met redenen omkleed.
 
-#### Artikel 8. In tarief door te berekenen kosten
+##### Artikel 8. In tarief door te berekenen kosten
 
 1. Als kosten, bedoeld in [artikel 13, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=13), die ten grondslag liggen aan het tarief, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=11), worden aangemerkt kosten die zijn of worden gemaakt ten behoeve van de taken, genoemd in [artikel 7, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=7).
 
@@ -190,7 +216,7 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze van berekening van de vermogenskosten, bedoeld in [artikel 11, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=11).
 
-#### Artikel 8a. Advies door Autoriteit Consument en Markt
+##### Artikel 8a. Advies door Autoriteit Consument en Markt
 
 1. Onze Minister kan advies vragen aan de Autoriteit Consument en Markt voorafgaande aan:
 
@@ -208,7 +234,7 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 3. Bij ministeriële regeling wordt bepaald onder welke omstandigheden Onze Minister respectievelijk de inspecteur gebruikmaakt van zijn in het eerste respectievelijk tweede lid neergelegde bevoegdheid.
 
-#### Artikel 9. Raming van omzet en kosten
+##### Artikel 9. Raming van omzet en kosten
 
 1. De elementen en wijze van berekening van de tarieven, bedoeld in [artikel 13, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=13), worden gevormd door:
 
@@ -224,7 +250,7 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 3. Aan het vereiste van kostendekkendheid van het tarief, bedoeld in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=11), wordt in ieder geval voldaan indien de geraamde omzet uit het tarief niet meer bedraagt dan de som van de geraamde kosten, bedoeld in het eerste lid, onder b.
 
-#### Artikel 10. Kostenposten en toerekening
+##### Artikel 10. Kostenposten en toerekening
 
 1. De eigenaar van een drinkwaterbedrijf publiceert jaarlijks voor 1 december een overzicht van de tarieven die hij in het daarop volgende kalenderjaar voor de beschikbaarstelling en levering van drinkwater in rekening brengt.
 
@@ -250,7 +276,7 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 #### § 2.2. Fusies
 
-#### Artikel 11. Beoordeling fusieverzoek
+##### Artikel 11. Beoordeling fusieverzoek
 
 1. Bij een verzoek tot fusie als bedoeld in [artikel 18, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=18), maken de betrokken drinkwaterbedrijven inzichtelijk dat zij na de voorgenomen fusie blijven voldoen aan de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=7), en [32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=32).
 
@@ -264,11 +290,11 @@ De eigenaar van een huishoudwatervoorziening draagt er, voor zover dat binnen zi
 
 #### § 3.1.1. De hoedanigheid van het water
 
-#### Artikel 12. Relatie met zorgplicht deugdelijk drinkwater
+##### Artikel 12. Relatie met zorgplicht deugdelijk drinkwater
 
 Voor zover de eigenaar van een drinkwaterbedrijf voldoet aan de in deze paragraaf opgenomen bepalingen en de daarop berustende voorschriften, voldoet hij daarmee, voor zover het betreft de in die bepalingen en voorschriften geregelde onderwerpen, tevens aan [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21).
 
-#### Artikel 13. Kwaliteitseisen
+##### Artikel 13. Kwaliteitseisen
 
 1. Eisen met betrekking tot microbiologische en chemische parameters voor drinkwater als bedoeld in [artikel 21, derde lid, aanhef en onderdeel a, onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), zijn opgenomen in de tabellen I en II van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit.
 
@@ -278,7 +304,7 @@ Voor zover de eigenaar van een drinkwaterbedrijf voldoet aan de in deze paragraa
 
 4. Het derde lid geldt niet voor zover het betreft drinkwater dat aan het tappunt ter beschikking komt en dat niet aan de in dat lid bedoelde eisen voldoet door een oorzaak die is gelegen in een op het leidingnet van het desbetreffende drinkwaterbedrijf aangesloten woninginstallatie, collectief leidingnet, collectieve watervoorziening of andere op het leidingnet van een drinkwaterbedrijf aangesloten installatie.
 
-#### Artikel 14. Monitoring
+##### Artikel 14. Monitoring
 
 1. De monitoring van het water dat als grondstof wordt gebruikt voor de bereiding van drinkwater, het behandelde water of halffabrikaat en het geleverde drinkwater vindt plaats met inachtneming van de artikelen 9, derde tot en met zesde lid, en 13 en bijlage II van de Drinkwaterrichtlijn en de daarop berustende bepalingen.
 
@@ -294,7 +320,7 @@ Voor zover de eigenaar van een drinkwaterbedrijf voldoet aan de in deze paragraa
 
 #### § 3.1.2. Kwaliteitsmanagementsysteem
 
-#### Artikel 15. Handleiding en bedrijfsprocessen
+##### Artikel 15. Handleiding en bedrijfsprocessen
 
 1. Het toezicht door de eigenaar van een drinkwaterbedrijf, bedoeld in [artikel 21, derde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), vindt plaats overeenkomstig het tweede en derde lid en omvat het uitvoeren van risicobeoordeling en risicobeheer van het watervoorzieningssysteem, met dien verstande dat dit plaatsvindt voor:
 
@@ -354,11 +380,11 @@ Voor zover de eigenaar van een drinkwaterbedrijf voldoet aan de in deze paragraa
 
 - j. de bewaking van de vakbekwaamheid van het personeel dat werkzaam is in de primaire bedrijfsprocessen.
 
-#### Artikel 16. Certificering
+##### Artikel 16. Certificering
 
 Een kwaliteitsmanagementsysteem is of wordt gecertificeerd door een bij de Raad voor Accreditatie daarvoor geaccrediteerde certificatie-instelling of door een certificatie-instelling die daarvoor is geaccrediteerd door een andere accreditatie-instelling die ondertekenaar is van de Multilateral Agreement van de European co-operation for Accreditation (EA-01/06).
 
-#### Artikel 17. Betrokkenheid inspecteur
+##### Artikel 17. Betrokkenheid inspecteur
 
 1. De eigenaar van een drinkwaterbedrijf draagt er zorg voor dat jaarlijks een auditrapport wordt opgesteld door een certificatie-instelling als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=16&z=2024-01-01&g=2024-01-01) en dat dit rapport ter inzage ligt voor de inspecteur.
 
@@ -366,13 +392,13 @@ Een kwaliteitsmanagementsysteem is of wordt gecertificeerd door een bij de Raad 
 
 3. Indien het kwaliteitsmanagementsysteem van een drinkwaterbedrijf niet voldoet aan de eisen die daaraan worden gesteld overeenkomstig de handleiding, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&artikel=15&z=2024-01-01&g=2024-01-01), kan de inspecteur aanwijzingen geven en daarbij bepalen op welke wijze en binnen welke termijn alsnog aan die eisen moet worden voldaan.
 
-#### Artikel 18. Inrichting, werkzaamheden, vakbekwaamheid en voorlichting
+##### Artikel 18. Inrichting, werkzaamheden, vakbekwaamheid en voorlichting
 
 Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen worden gesteld als bedoeld in [artikel 21, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21).
 
 #### § 3.1.3. Materialen, chemicaliën en distributienet
 
-#### Artikel 19. Zorgplicht
+##### Artikel 19. Zorgplicht
 
 1. Onverminderd de [paragrafen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&z=2024-01-01&g=2024-01-01) en [3.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.2&z=2024-01-01&g=2024-01-01) draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat de materialen en chemicaliën, die gebruikt worden bij de winning, de bereiding, de behandeling, de opslag, het transport of de distributie van drinkwater:
 
@@ -382,7 +408,7 @@ Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen wor
 
 2. Het eerste lid is niet van toepassing indien bij de distributie van drinkwater te gebruiken materialen deel uitmaken van een gebouw als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I).
 
-#### Artikel 20. Eisen aan en beoordeling van materialen
+##### Artikel 20. Eisen aan en beoordeling van materialen
 
 1. Bij regeling van Onze Minister worden eisen gesteld aan de materialen, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=19&z=2024-01-01&g=2024-01-01), en aan de wijze van beoordeling daarvan, volgens een systeem van kwaliteitsverklaringen of op andere gelijkwaardige wijze.
 
@@ -406,7 +432,7 @@ Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen wor
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld in het belang van een goede omzetting of uitvoering van de in dit artikel genoemde artikelen van de Drinkwaterrichtlijn.
 
-#### Artikel 21. Aanleg en herstel transport- en distributienet
+##### Artikel 21. Aanleg en herstel transport- en distributienet
 
 1. De eigenaar van een drinkwaterbedrijf draagt er zorg voor dat de leidingen die deel uitmaken van zijn watervoorzieningswerken en distributienet worden aangelegd overeenkomstig NEN 3650, NEN 3651, NEN 7171-1 en NPR 7171-2.
 
@@ -414,7 +440,7 @@ Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen wor
 
 #### § 3.1.4. Niet voldoen aan kwaliteitseisen
 
-#### Artikel 22. Onderzoek en herstelmaatregelen
+##### Artikel 22. Onderzoek en herstelmaatregelen
 
 1. Het door de eigenaar van een drinkwaterbedrijf krachtens [artikel 21, derde lid, onder d, aanhef en onderdeel 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), te verrichten onderzoek indien het drinkwater niet voldoet aan het eerste lid van dat artikel of aan een in de tabel I of II van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit, gestelde eis, of aan een krachtens [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13a&z=2024-01-01&g=2024-01-01) gestelde eis, betreft de oorzaak en de mogelijke nadelige gevolgen daarvan voor de volksgezondheid. Dit onderzoek wordt terstond en volledig uitgevoerd.
 
@@ -422,17 +448,17 @@ Bij ministeriële regeling kunnen in het belang van de volksgezondheid eisen wor
 
 3. Voor zover uit het in het eerste lid bedoelde onderzoek blijkt dat het niet voldoen aan de daar bedoelde eis of eisen veroorzaakt wordt door een op het leidingnet van het drinkwaterbedrijf aangesloten collectieve watervoorziening, collectief leidingnet, woninginstallatie of andere daarop aangesloten installatie, wordt de eigenaar of beheerder daarvan terstond en volledig geïnformeerd door de eigenaar van het drinkwaterbedrijf.
 
-#### Artikel 23. Informeren toezichthouder
+##### Artikel 23. Informeren toezichthouder
 
 Indien drinkwater niet voldoet aan [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21) of aan een in tabel I of II van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit, gestelde eis, informeert de eigenaar van een drinkwaterbedrijf terstond en volledig de toezichthouder hierover alsmede over het onderzoek en de te nemen herstelmaatregelen, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=22).
 
-#### Artikel 24. Aan consumenten te verstrekken informatie
+##### Artikel 24. Aan consumenten te verstrekken informatie
 
 1. De eigenaar van een drinkwaterbedrijf informeert terstond en volledig de consumenten en andere afnemers, indien het aan hen geleverde drinkwater niet voldoet aan [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21) of aan een in tabel I of II van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit, gestelde eis.
 
 2. Ingeval van een situatie als bedoeld in [artikel 21, derde lid, onder e, sub 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), adviseert de eigenaar van een drinkwaterbedrijf terstond en volledig de eigenaars van percelen waar drinkwater aan wordt geleverd alsmede consumenten en andere afnemers omtrent de voorzorgs- en herstelmaatregelen die zij kunnen nemen om nadelige gevolgen voor de gezondheid te voorkomen.
 
-#### Artikel 25. Overschrijding van een parameterwaarde voor indicatoren als bedoeld in tabel IIIa, IIIb of IIIc, van een parameterwaarde als bedoeld in tabel IV van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01) of van een richtwaarde als bedoeld in artikel 13, achtste lid, van de Drinkwaterrichtlijn
+##### Artikel 25. Overschrijding van een parameterwaarde voor indicatoren als bedoeld in tabel IIIa, IIIb of IIIc, van een parameterwaarde als bedoeld in tabel IV van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01) of van een richtwaarde als bedoeld in artikel 13, achtste lid, van de Drinkwaterrichtlijn
 
 1. Indien het drinkwater niet voldoet aan een in tabel IIIa, IIIb, IIIc of IV van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit, gestelde eis, een krachtens [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13a&z=2024-01-01&g=2024-01-01) gestelde eis of een richtwaarde als bedoeld in artikel 13, achtste lid, van de Drinkwaterrichtlijn, informeert de eigenaar terstond en volledig de toezichthouder hierover en verricht hij terstond onderzoek naar de oorzaak en de mogelijke nadelige gevolgen voor de volksgezondheid.
 
@@ -442,7 +468,7 @@ Indien drinkwater niet voldoet aan [artikel 21, eerste lid, van de wet](https://
 
 #### § 3.1.5. Verstrekking, publicatie en archivering kwaliteitsgegevens
 
-#### Artikel 26. Bewaren en bekendmaking gegevens
+##### Artikel 26. Bewaren en bekendmaking gegevens
 
 1. De eigenaar van een drinkwaterbedrijf houdt de op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=14&z=2024-01-01&g=2024-01-01) verkregen gegevens gedurende ten minste vijf jaar onder zich.
 
@@ -460,7 +486,7 @@ Indien drinkwater niet voldoet aan [artikel 21, eerste lid, van de wet](https://
 
 #### § 3.1.6. Warm tapwater
 
-#### Artikel 27. Grondstof en borging kwaliteit
+##### Artikel 27. Grondstof en borging kwaliteit
 
 1. Warm tapwater wordt bereid uit drinkwater dat voldoet aan de kwaliteitseisen, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2024-01-01&g=2024-01-01).
 
@@ -468,7 +494,7 @@ Indien drinkwater niet voldoet aan [artikel 21, eerste lid, van de wet](https://
 
 #### § 3.1.5. Verstrekking, publicatie en archivering kwaliteitsgegevens
 
-#### Artikel 28. Ontheffingverlening
+##### Artikel 28. Ontheffingverlening
 
 1. De verlening van een ontheffing, bedoeld in [artikel 21, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=21), door Onze Minister is uitsluitend mogelijk:
 
@@ -504,7 +530,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 - f. de periode waarvoor de ontheffing geldt.
 
-#### Artikel 29. Kortdurende overschrijdingen zonder nadelige gevolgen
+##### Artikel 29. Kortdurende overschrijdingen zonder nadelige gevolgen
 
 1. In afwijking van [artikel 28, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.7&artikel=28&z=2024-01-01&g=2024-01-01), kan de toezichthouder op verzoek van de eigenaar van een drinkwaterbedrijf ontheffing verlenen voor afwijking van een in tabel II van [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=A&z=2024-01-01&g=2024-01-01), behorende bij dit besluit, opgenomen eis voor een chemische parameter of van een krachtens [artikel 13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13a&z=2024-01-01&g=2024-01-01) vastgestelde eis voor een chemische parameter voor zover:
 
@@ -518,7 +544,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 3.1.6. Warm tapwater
 
-#### Artikel 30. Monitoring en kwaliteitseisen
+##### Artikel 30. Monitoring en kwaliteitseisen
 
 1. Bij ministeriële regeling worden:
 
@@ -544,13 +570,13 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 3.2. Collectieve watervoorzieningen
 
-#### Artikel 31. Artikelen die van overeenkomstige toepassing zijn
+##### Artikel 31. Artikelen die van overeenkomstige toepassing zijn
 
 1. De [artikelen 12 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=12&z=2024-01-01&g=2024-01-01), [19 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=19&z=2024-01-01&g=2024-01-01), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.4&artikel=25&z=2024-01-01&g=2024-01-01), [26 tot en met 30](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.5&artikel=26&z=2024-01-01&g=2024-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.3&artikel=44&z=2024-01-01&g=2024-01-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de eigenaar van een collectieve watervoorziening.
 
 2. [Artikel 26, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.5&artikel=26&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing indien om de desbetreffende gegevens wordt verzocht door de toezichthouder.
 
-#### Artikel 32. Vrijstellingen kleine en zeer kleine collectieve watervoorzieningen
+##### Artikel 32. Vrijstellingen kleine en zeer kleine collectieve watervoorzieningen
 
 1. In afwijking van [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.2&artikel=31&z=2024-01-01&g=2024-01-01), is op een zeer kleine collectieve watervoorziening, die deel uitmaakt van een paalkampeerterrein, of die anderszins geen drinkwater of warm tapwater levert in het kader van een commerciële of openbare activiteit, [hoofdstuk III van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&hoofdstuk=III) niet van toepassing en zijn de in dat lid genoemde artikelen niet van overeenkomstige toepassing, voor zover bij die voorziening op duidelijk zichtbare wijze in meerdere talen en met een visueel symbool is aangegeven dat het water, ook na koken of filtreren, niet bestemd is om te drinken of voedsel mee te bereiden.
 
@@ -560,13 +586,13 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 3.3. Collectieve leidingnetten
 
-#### Artikel 33. Artikelen die van overeenkomstige toepassing zijn
+##### Artikel 33. Artikelen die van overeenkomstige toepassing zijn
 
 1. De [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=12&z=2024-01-01&g=2024-01-01), [13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2024-01-01&g=2024-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=14&z=2024-01-01&g=2024-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=19&z=2024-01-01&g=2024-01-01), voor zover het betreft de in een collectief leidingnet toe te passen materialen, [21 tot en met 25](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=21&z=2024-01-01&g=2024-01-01), [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.5&artikel=26&z=2024-01-01&g=2024-01-01), en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.3&artikel=44&z=2024-01-01&g=2024-01-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de eigenaar van een collectief leidingnet.
 
 2. [Artikel 26, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.5&artikel=26&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing op de eigenaar van een collectief leidingnet, voor zover daarmee gemiddeld meer dan 1000 m3 drinkwater per dag of aan gemiddeld meer dan 5000 personen per dag drinkwater wordt geleverd.
 
-#### Artikel 34. Toepassing NEN 1006
+##### Artikel 34. Toepassing NEN 1006
 
 1. De eigenaar van een collectief leidingnet draagt zorg, op de wijze en in de mate, welke redelijkerwijs van hem kunnen worden gevergd, dat het leidingnet, voor zover dat geen deel uitmaakt van een gebouw als bedoeld in [bijlage I bij het Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297&bijlage=I), voldoet aan NEN 1006.
 
@@ -578,7 +604,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 4.1. Reikwijdte en kwaliteitseis
 
-#### Artikel 35. Reikwijdte
+##### Artikel 35. Reikwijdte
 
 1. Dit hoofdstuk is van toepassing op de eigenaar van een collectieve watervoorziening of collectief leidingnet waarop direct of indirect tappunten als bedoeld in het vierde lid zijn aangesloten, voor zover die tappunten aanwezig zijn:
 
@@ -624,7 +650,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 - d. alle tappunten in een instelling als bedoeld in het eerste lid, onderdeel a, voor zover het een afdeling hematologie of oncologie is, dan wel daar transplantaties worden uitgevoerd of daar patiënten met chronische longaandoeningen of stoornissen van het immuunsysteem verblijven.
 
-#### Artikel 36. Kwaliteitseis
+##### Artikel 36. Kwaliteitseis
 
 1. Drinkwater en warm tapwater bevatten minder dan 100 kolonie vormende eenheden legionellabacteriën per liter van de bij ministeriële regeling te bepalen soorten legionellabacterie. In de regeling, bedoeld in de vorige volzin, kan een equivalent worden opgenomen van het in de vorige volzin opgenomen toegestane aantal legionellabacteriën per liter.
 
@@ -634,7 +660,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 4.2. Legionella-risicoanalyse en legionella-beheersplan
 
-#### Artikel 37. Legionella-risicoanalyse
+##### Artikel 37. Legionella-risicoanalyse
 
 1. De eigenaar van een collectieve watervoorziening draagt zorg voor de uitvoering van een legionella-risicoanalyse met betrekking tot de kans, dat niet wordt voldaan aan [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.6&artikel=27&z=2024-01-01&g=2024-01-01) of [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2024-01-01&g=2024-01-01), overeenkomstig daarvoor bij ministeriële regeling te stellen voorschriften.
 
@@ -648,7 +674,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 6. Indien de inspecteur van oordeel is dat de legionella-risicoanalyse, bedoeld in het eerste, tweede of vierde lid, onjuist of onvolledig is uitgevoerd dan wel anderszins niet voldoet aan de bij ministeriële regeling vastgestelde voorschriften, kan hij de eigenaar, bedoeld in het eerste of tweede lid, verplichten tot het wijzigen, aanvullen of opnieuw uitvoeren van de legionella-risicoanalyse binnen een daarbij aangegeven termijn. Het vijfde lid is van overeenkomstige toepassing.
 
-#### Artikel 38. Legionella-beheersplan
+##### Artikel 38. Legionella-beheersplan
 
 1. Indien uit een legionella-risicoanalyse als bedoeld in [artikel 37, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2024-01-01&g=2024-01-01), blijkt dat er een risico is dat niet wordt voldaan aan [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.6&artikel=27&z=2024-01-01&g=2024-01-01) of [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2024-01-01&g=2024-01-01), draagt de eigenaar van de desbetreffende collectieve watervoorziening of het desbetreffende collectieve leidingnet er zorg voor dat een daarvoor overeenkomstig BRL 6010 gecertificeerd bedrijf op basis van de legionella-risicoanalyse een legionella-beheersplan opstelt met betrekking tot de inrichting en het beheer van die collectieve watervoorziening of dat collectieve leidingnet, dan wel laat hij door dit bedrijf een daarop betrekking hebbend, bestaand legionella-beheersplan herzien. Het legionella-beheersplan strekt ertoe dat voldaan wordt aan de artikelen 27 en 36, eerste lid.
 
@@ -674,13 +700,13 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 - h. de maatregelen die worden genomen indien er aanwijzingen zijn dat niet wordt voldaan aan [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.6&artikel=27&z=2024-01-01&g=2024-01-01) of [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 39. Terinzagelegging en wijziging
+##### Artikel 39. Terinzagelegging en wijziging
 
 1. In gevallen waarin op grond van [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2024-01-01&g=2024-01-01) een verplichting bestaat tot het opstellen van een legionella-beheersplan, draagt de eigenaar van een collectieve watervoorziening of collectief leidingnet er zorg voor dat het legionella-beheersplan voor de inspecteur ter inzage ligt ter plaatse van die collectieve watervoorziening of dat collectieve leidingnet. De inspecteur kan op verzoek van de eigenaar toestaan dat het legionella-beheersplan op een andere plaats voor hem ter inzage ligt. De inspecteur kan verzoeken om toezending van de gegevens in een door hem aangegeven vorm.
 
 2. Indien de inspecteur van oordeel is dat het legionella-beheersplan, bedoeld in [artikel 38, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.2&artikel=38&z=2024-01-01&g=2024-01-01), onjuist of onvolledig is dan wel anderszins niet voldoet aan de voorschriften, opgenomen in artikel 38, vierde lid, kan hij de eigenaar verplichten tot het wijzigen, aanvullen of opnieuw opstellen van het legionella-beheersplan binnen een daarbij aangegeven termijn. Het eerste lid is van overeenkomstige toepassing.
 
-#### Artikel 40. Uitvoering maatregelen, logboek
+##### Artikel 40. Uitvoering maatregelen, logboek
 
 1. De eigenaar van een collectieve watervoorziening of collectief leidingnet voert maatregelen en controles uit overeenkomstig het legionella-beheersplan.
 
@@ -690,7 +716,7 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 #### § 4.2. Legionella-risicoanalyse en legionella-beheersplan
 
-#### Artikel 41. Informeren inspecteur, nemen maatregelen
+##### Artikel 41. Informeren inspecteur, nemen maatregelen
 
 1. In geval van omstandigheden die, naar de eigenaar van een collectieve watervoorziening of collectief leidingnet redelijkerwijze kan weten of vermoeden, gevaar of beletsel kunnen vormen voor het voldoen aan [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.6&artikel=27&z=2024-01-01&g=2024-01-01) of [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2024-01-01&g=2024-01-01), voert hij uit voorzorg de maatregelen en controles uit die met het oog op deze omstandigheden in het legionella-beheersplan zijn opgenomen of, voor zover daaromtrent in het legionella-beheersplan geen maatregelen zijn opgenomen dan wel geen legionella-beheersplan van toepassing is, de maatregelen en controles die in deze omstandigheden redelijkerwijs van hem kunnen worden gevergd.
 
@@ -700,11 +726,11 @@ Een ontheffing wordt beperkt tot de in artikel 15, eerste lid, onderdeel a, b of
 
 4. Indien de eigenaar van de collectieve watervoorziening of het collectief leidingnet vaststelt dat drinkwater niet voldoet aan [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=36&z=2024-01-01&g=2024-01-01), ten gevolge van een oorzaak die gelegen is in een op zijn leidingnet aangesloten woninginstallatie, collectieve watervoorziening, collectief leidingnet of andere installatie, informeert hij terstond en volledig de eigenaar daarvan en adviseert hij deze over de te nemen herstelmaatregelen. Tevens informeert hij terstond en volledig de inspecteur.
 
-#### Artikel 42. Wijze van monstername en analyse
+##### Artikel 42. Wijze van monstername en analyse
 
 Het nemen en analyseren van monsters ter uitvoering van hoofdstuk 4 en de daarop berustende bepalingen geschiedt overeenkomstig een bij ministeriële regeling vast te stellen methode.
 
-#### Artikel 43. Frequentie monstername
+##### Artikel 43. Frequentie monstername
 
 1. Bij de uitvoering van de legionella-risicoanalyse, bedoeld in [artikel 37, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2024-01-01&g=2024-01-01), en vervolgens ten minste om de zes maanden, onderzoekt de eigenaar van een collectieve watervoorziening of collectief leidingnet het drinkwater op de aanwezigheid van legionellabacteriën bij de tappunten, bedoeld in [artikel 35, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.1&artikel=35&z=2024-01-01&g=2024-01-01).
 
@@ -712,7 +738,7 @@ Het nemen en analyseren van monsters ter uitvoering van hoofdstuk 4 en de daarop
 
 3. Bij ministeriële regeling wordt vastgesteld op welke wijze het aantal in dit onderzoek te betrekken meetpunten wordt bepaald. De inspecteur kan bepalen dat de meetfrequentie of het aantal in het onderzoek te betrekken meetpunten verlaagd of verhoogd wordt.
 
-#### Artikel 44. Volgorde beheersmaatregelen
+##### Artikel 44. Volgorde beheersmaatregelen
 
 1. De te nemen beheersmaatregelen zijn gebaseerd op thermisch beheer, op fysisch beheer, voor zover dit gecertificeerd is op basis van BRL K14010-1, op fotochemisch beheer, voor zover dit gecertificeerd is op basis van BRL K14010-1 en onverminderd [artikel 14 van het Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=14), of op een combinatie van deze beheersvormen.
 
@@ -728,17 +754,17 @@ Het nemen en analyseren van monsters ter uitvoering van hoofdstuk 4 en de daarop
 
 ### Hoofdstuk 5. Leveringszekerheid en continuïteit
 
-#### Artikel 45. Hoeveelheid en druk
+##### Artikel 45. Hoeveelheid en druk
 
 1. De eigenaar van een drinkwaterbedrijf voldoet aan de in [artikel 32, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=32) bepaalde hoeveelheideis en drukeis onder niet verstoorde omstandigheden, indien de inrichtingvan het distributienet en de productiecapaciteit het mogelijk maken om op een willekeurig moment van de dag in één uur tijd 1000 liter water op het leveringspunt van een enkelvoudige huishoudelijke installatie te leveren, terwijl de druk ter plaatse van het leveringspunt ten minste 150 kPa ten opzichte van het maaiveld is.
 
 2. In omstandigheden waarin naar het oordeel van de inspecteur naleving van de hoeveelheideis of drukeis, bedoeld in het eerste lid, redelijkerwijs niet mogelijk is, kan gedurende een door de inspecteur bepaalde periode en tot een daarbij bepaalde waarde worden afgeweken van die eis.
 
-#### Artikel 46. Prognose waterbehoefte
+##### Artikel 46. Prognose waterbehoefte
 
 De eigenaar van een drinkwaterbedrijf verschaft, middels het leveringsplan, inzicht in de redelijkerwijs te verwachten toekomstige behoefte aan drinkwater in het distributiegebied van zijn drinkwaterbedrijf en in de daaraan verbonden consequenties ten aanzien van de winning, zuivering en distributie van drinkwater en neemt in dat plan een daarop aansluitende planning voor de drinkwatervoorziening op voor een periode van ten minste tien jaar.
 
-#### Artikel 47. Verstorings-risicoanalyse
+##### Artikel 47. Verstorings-risicoanalyse
 
 1. Een verstorings-risicoanalyse omvat het inventariseren en analyseren van de voor het leveringsgebied van een drinkwaterbedrijf bestaande en te verwachten dreigingen voor de openbare drinkwatervoorziening. Een beschrijving van deze dreigingen wordt met het oog op goedkeuring van het leveringsplan, bedoeld in [artikel 37, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=37), voorafgaand aan de indiening van het leveringsplan aan de inspecteur ter beoordeling voorgelegd.
 
@@ -750,7 +776,7 @@ De eigenaar van een drinkwaterbedrijf verschaft, middels het leveringsplan, inzi
 
 5. Aan de hand van de uitkomsten van de verstorings-risicoanalyse stelt de eigenaar van een drinkwaterbedrijf als onderdeel van het leveringsplan een verstoringsparagraaf op overeenkomstig de vereisten, opgenomen in [bijlage B, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&bijlage=B&z=2024-01-01&g=2024-01-01), behorende bij dit besluit,.
 
-#### Artikel 48. Nooddrinkwater
+##### Artikel 48. Nooddrinkwater
 
 1. De eigenaar van een drinkwaterbedrijf stelt op basis van de dreigingen, bedoeld in [artikel 47, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=5&artikel=47&z=2024-01-01&g=2024-01-01), in overeenstemming met de inspecteur vast:
 
@@ -760,21 +786,21 @@ De eigenaar van een drinkwaterbedrijf verschaft, middels het leveringsplan, inzi
 
 2. De eigenaar van een drinkwaterbedrijf draagt er zorg voor dat in geval van een verstoring als bedoeld in [artikel 35, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=35) een nooddrinkwatervoorziening wordt ingezet waarmee ten minste drie liter nooddrinkwater per persoon per dag kan worden geleverd op de door de gemeente aangewezen distributiepunten. Deze distributiepunten zijn zodanig ingericht dat met één distributiepunt een gebied van nooddrinkwater wordt voorzien, waar in niet-verstoorde omstandigheden maximaal 2500 personen verblijven.
 
-#### Artikel 49. Noodwater-risicoanalyse
+##### Artikel 49. Noodwater-risicoanalyse
 
 1. In overleg met de inspecteur draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat bij de inzet van noodwater een noodwater-risicoanalyse ten grondslag ligt aan de beoordeling of het noodwater geen onaanvaardbare risico’s voor de volksgezondheid of het distributienet oplevert.
 
 2. De inspecteur stelt ten behoeve van de uitvoering van een noodwater-risicoanalyse parameters ter beoordeling van de kwaliteit van noodwater op.
 
-#### Artikel 50. Eigen voorziening bij uitval externe leveranties
+##### Artikel 50. Eigen voorziening bij uitval externe leveranties
 
 De eigenaar van een drinkwaterbedrijf beschikt over onafhankelijke voorzieningen, die een continue levering van deugdelijk drinkwater gedurende ten minste tien dagen waarborgen op basis van een gemiddeld dagverbruik, teneinde de gevolgen van uitval van externe leveranties zo veel mogelijk te beperken.
 
-#### Artikel 51. Oefening
+##### Artikel 51. Oefening
 
 In overleg met de inspecteur oefent de eigenaar van een drinkwaterbedrijf ten minste een maal per twee jaar de inzet van het drinkwaterbedrijf bij verstoringen, welke oefeningen eenmaal per vier jaar worden gecombineerd met de diensten en organisaties die deel uitmaken van het openbaar lichaam, bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9) en met de politie.
 
-#### Artikel 52. Voortzetting levering
+##### Artikel 52. Voortzetting levering
 
 1. Bij uitval van een zelfstandig onderdeel van een watervoorzieningswerk draagt de eigenaar van een drinkwaterbedrijf er zorg voor dat binnen 24 uur een hoeveelheid drinkwater kan worden geleverd die op dagbasis ten minste 75% bedraagt van de hoeveelheid die wordt geleverd op de maximumdag. Onder maximumdag wordt verstaan de dag in een kalenderjaar waarop het drinkwaterwaterverbruik op etmaalbasis in een distributiegebied het hoogst is, met een overschrijdingskans van eenmaal per tien jaar. De eerste en tweede volzin gelden voor aansluitingen of clusters van aansluitingen met een verbruik gelijk aan dat van 2000 huishoudelijke aansluitingen of meer.
 
@@ -784,7 +810,7 @@ In overleg met de inspecteur oefent de eigenaar van een drinkwaterbedrijf ten mi
 
 4. In omstandigheden waarin naar het oordeel van de inspecteur naleving van het eerste lid redelijkerwijs niet mogelijk is, kan de inspecteur voor een daarbij te bepalen periode ontheffing verlenen van het in dat lid bepaalde.
 
-#### Artikel 53. Leveringsplan
+##### Artikel 53. Leveringsplan
 
 1. Het leveringsplan, bedoeld in [artikel 37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=37), bevat:
 
@@ -804,7 +830,7 @@ In overleg met de inspecteur oefent de eigenaar van een drinkwaterbedrijf ten mi
 
 6. Bij regeling van Onze Minister kunnen nadere regels worden gesteld in het belang van een goede uitvoering van de [artikelen 46a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=5&artikel=46a&z=2024-01-01&g=2024-01-01), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=5&artikel=47&z=2024-01-01&g=2024-01-01) en het eerste tot en met vijfde lid.
 
-#### Artikel 54. Optreden inspecteur
+##### Artikel 54. Optreden inspecteur
 
 1. Onverminderd [artikel 50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=50), kan de inspecteur, indien de eigenaar van een drinkwaterbedrijf verzuimt het leveringsplan tijdig op te stellen, de eigenaar van een drinkwaterbedrijf verzoeken om dit binnen een daarbij aangegeven termijn alsnog te doen.
 
@@ -818,11 +844,11 @@ In overleg met de inspecteur oefent de eigenaar van een drinkwaterbedrijf ten mi
 
 #### § 6.1. Prestatievergelijking
 
-#### Artikel 55. Frequentie
+##### Artikel 55. Frequentie
 
 De uitvoering van de prestatievergelijking vindt plaats volgens een bij ministeriële regeling te bepalen frequentie.
 
-#### Artikel 56. Protocol
+##### Artikel 56. Protocol
 
 1. Het protocol, bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=40), bevat naast de in dat lid genoemde elementen:
 
@@ -840,7 +866,7 @@ De uitvoering van de prestatievergelijking vindt plaats volgens een bij minister
 
 2. Financiële gegevens worden voorzien van een goedkeurende verklaring van een registeraccountant.
 
-#### Artikel 57. Prestatie-indicatoren
+##### Artikel 57. Prestatie-indicatoren
 
 1. De in het protocol op te nemen prestatie-indicatoren voor kwaliteit hebben ten minste betrekking op:
 
@@ -884,7 +910,7 @@ De uitvoering van de prestatievergelijking vindt plaats volgens een bij minister
 
 #### § 6.2. Verslag prestatievergelijking
 
-#### Artikel 58. Inhoud van verslag
+##### Artikel 58. Inhoud van verslag
 
 1. Het verslag, bedoeld in [artikel 43, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=43), bevat ten minste:
 
@@ -908,49 +934,49 @@ De uitvoering van de prestatievergelijking vindt plaats volgens een bij minister
 
 ### Hoofdstuk 7. Maatregelen in het belang van de volksgezondheid
 
-#### Artikel 59. Verstrekking gegevens
+##### Artikel 59. Verstrekking gegevens
 
 Bij ministeriële regeling worden in het belang van de volksgezondheid gegevens als bedoeld in [artikel 51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=51) aangewezen die door de eigenaar van een drinkwaterbedrijf aan de toezichthouder worden verstrekt, op een bij die regeling aangegeven wijze.
 
 ### Hoofdstuk 7. Maatregelen in het belang van de volksgezondheid
 
-#### Artikel 60. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 60. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 61. Wijziging [Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060)
+##### Artikel 61. Wijziging [Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060)
 
 Wijzigt het Besluit gegevensverwerving CBS.
 
-#### Artikel 62. Wijziging [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530)
+##### Artikel 62. Wijziging [Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530)
 
 Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
 
-#### Artikel 63. Wijziging [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003716)
+##### Artikel 63. Wijziging [Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden](https://wetten.overheid.nl/jci1.3:c:BWBR0003716)
 
 Wijzigt het Besluit hygiëne en veiligheid badinrichtingen en zwemgelegenheden.
 
-#### Artikel 64. Wijziging [Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061)
+##### Artikel 64. Wijziging [Besluit kwaliteitseisen en monitoring water 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027061)
 
 Wijzigt het Besluit kwaliteitseisen en monitoring water 2009.
 
-#### Artikel 65. Wijziging [Besluit milieu-effectrapportage 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006788)
+##### Artikel 65. Wijziging [Besluit milieu-effectrapportage 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006788)
 
 Wijzigt het Besluit milieu-effectrapportage 1994.
 
-#### Artikel 66. Wijziging [Besluit houdende tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter](https://wetten.overheid.nl/jci1.3:c:BWBR0019262)
+##### Artikel 66. Wijziging [Besluit houdende tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter](https://wetten.overheid.nl/jci1.3:c:BWBR0019262)
 
 Wijzigt het Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter.
 
-#### Artikel 67. Wijziging [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
+##### Artikel 67. Wijziging [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
 
 Wijzigt het Mijnbouwbesluit.
 
-#### Artikel 68. [Warenwetbesluit Verpakte waters](https://wetten.overheid.nl/jci1.3:c:BWBR0009828)
+##### Artikel 68. [Warenwetbesluit Verpakte waters](https://wetten.overheid.nl/jci1.3:c:BWBR0009828)
 
 Wijzigt het Warenwetbesluit Verpakte waters.
 
-#### Artikel 69. Overgangsregime
+##### Artikel 69. Overgangsregime
 
 1. Een risicoanalyse, uitgevoerd op grond van of overeenkomstig [artikel 17k, eerste en tweede lid, van het Waterleidingbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002339&artikel=17k), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit, geldt als een legionella-risicoanalyse, uitgevoerd op grond van [artikel 37, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.2&artikel=37&z=2024-01-01&g=2024-01-01).
 
@@ -966,11 +992,11 @@ Wijzigt het Warenwetbesluit Verpakte waters.
 
 7. Een melding, gedaan op grond van of overeenkomstig de brieven inzake gedifferentieerde handhaving van koper-zilverionisatie (d.d. 20 februari 2007 en 20 augustus 2008) of de brief inzake gedifferentieerde handhaving van anodische oxidatie (d.d. 6 maart 2008), geldt als een melding, gedaan op grond van [artikel 14, derde lid, van het Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530&artikel=14).
 
-#### Artikel 70. Inwerkingtreding
+##### Artikel 70. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop de [Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338) in werking treedt.
 
-#### Artikel 71. Citeertitel
+##### Artikel 71. Citeertitel
 
 Dit besluit wordt aangehaald als: Drinkwaterbesluit.
 
@@ -1447,7 +1473,7 @@ Noot 3: De wijze van monitoring en berekening van de indicatieve dosis is gerege
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 44a. Als gecertificeerd beschouwd beheer
+##### Artikel 44a. Als gecertificeerd beschouwd beheer
 
 1. Fysisch, fotochemisch of elektrochemisch beheer als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4&paragraaf=4.3&artikel=44&z=2024-01-01&g=2024-01-01) dat uiterlijk op 3 september 2013 werd toegepast wordt tevens als gecertificeerd beschouwd indien:
 
@@ -1573,7 +1599,7 @@ Ten aanzien van de organisatie, maatregelen, verantwoordelijkheden, taken en bev
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Eisen als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.1&artikel=13&z=2024-01-01&g=2024-01-01), kunnen indien dringend noodzakelijk in het belang van de volksgezondheid bij ministeriële regeling worden vastgesteld.
 
@@ -1649,7 +1675,7 @@ mrp = marktrisicopremie3De marktrisicopremie is het verschil tussen het verwacht
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 20a. Eisen aan en beoordeling van chemicaliën en filtermaterialen
+##### Artikel 20a. Eisen aan en beoordeling van chemicaliën en filtermaterialen
 
 1. Bij regeling van Onze Minister worden eisen gesteld aan de chemicaliën en filtermaterialen, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=19&z=2024-01-01&g=2024-01-01), en aan de wijze van beoordeling daarvan volgens een systeem van kwaliteitsverklaringen of op andere gelijkwaardige wijze.
 
@@ -1659,7 +1685,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. indien op andere wijze, volgens bij de regeling vastgestelde criteria, is aangetoond dat de chemicaliën of filtermaterialen voor het desbetreffende gebruik of toepassing aan de eisen voldoen.
 
-#### Artikel 20b. Uitvoering
+##### Artikel 20b. Uitvoering
 
 1. Bij regeling van Onze Minister kan een commissie van deskundigen of andere instantie worden aangewezen die is belast met daarbij genoemde taken ter uitvoering van de [artikelen 19 tot en met 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.3&artikel=19&z=2024-01-01&g=2024-01-01), volgens daarbij te stellen nadere regels.
 
@@ -1667,11 +1693,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3.1.4. Niet voldoen aan kwaliteitseisen
 
-#### Artikel 22a. Informeren consumenten
+##### Artikel 22a. Informeren consumenten
 
 Voor zover uit het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.4&artikel=22&z=2024-01-01&g=2024-01-01), bedoelde onderzoek blijkt dat het niet voldoen aan een daar bedoelde eis veroorzaakt wordt door een op het distributienet van het drinkwaterbedrijf aangesloten collectieve watervoorziening, collectief leidingnet, woninginstallatie of andere daarop aangesloten installatie, wordt de eigenaar of beheerder daarvan terstond en volledig geïnformeerd door de eigenaar van het drinkwaterbedrijf. Dit omvat mede de mogelijke maatregelen om de risico’s voor de volksgezondheid weg te nemen of te beperken, preventiemaatregelen en advies aan consumenten over het gebruik van drinkwater.
 
-#### Artikel 26a. Overige voor consumenten ter beschikking te stellen informatie
+##### Artikel 26a. Overige voor consumenten ter beschikking te stellen informatie
 
 1. De eigenaar van een drinkwaterbedrijf draagt zorg voor het overeenkomstig artikel 17, eerste lid, van de Drinkwaterrichtlijn ter beschikking stellen aan consumenten van de informatie, bedoeld in bijlage IV van de Drinkwaterrichtlijn, op de in die bijlage bedoelde wijze, voor zover deze gegevens niet al op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=3&paragraaf=3.1&sub-paragraaf=3.1.5&artikel=26&z=2024-01-01&g=2024-01-01), ter beschikking worden gesteld.
 
@@ -1693,13 +1719,13 @@ Voor zover uit het in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk 5. Leveringszekerheid en continuïteit
 
-#### Artikel 45a. (nadere regels met betrekking tot maatregelen als bedoeld in [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=44))
+##### Artikel 45a. (nadere regels met betrekking tot maatregelen als bedoeld in [artikel 44 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=44))
 
 1. In geval van overschrijding van de drempelwaarde voor lekverliezen, bedoeld in artikel 4, derde lid, een na laatste alinea, van de Drinkwaterrichtlijn, stelt de eigenaar van een drinkwaterbedrijf maatregelen vast ter vermindering van het lekkagepercentage met de termijnen voor het realiseren daarvan en maakt hij deze maatregelen en termijnen kenbaar aan Onze Minister overeenkomstig [artikel 44, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=44).
 
 2. In geval van overschrijding van de drempelwaarde, bedoeld in het eerste lid, worden de verplichtingen, bedoeld in dat lid, voor de eerste maal uitgevoerd voor 1 januari 2029.
 
-#### Artikel 46a. Risicobeoordeling watervoorzieningssysteem
+##### Artikel 46a. Risicobeoordeling watervoorzieningssysteem
 
 1. De risicobeoordeling van het watervoorzieningssysteem bevat de elementen, genoemd in artikel 9, tweede en vijfde lid, van de Drinkwaterrichtlijn.
 

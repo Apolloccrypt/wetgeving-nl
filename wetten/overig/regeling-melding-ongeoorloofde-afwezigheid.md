@@ -1,13 +1,39 @@
 ---
-title: "Regeling melding ongeoorloofde afwezigheid"
+title: "Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen"
 identifier: "BWBR0023428"
-categorie: "Overig"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023428"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023428"
+soort: "ministeriele-regeling"
+stam_id: "9409963"
+version_id: "15147892"
+internal_id: "C20649381"
+label_id: "9387874"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023428/2025-09-04/0"
+intitule_bron: "Stcrt.2008-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-29"
+intitule_published: "2008-02-04"
+intitule_in_force: "2008-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-24"
+original_signed_date: "2008-01-29"
+original_published_date: "2008-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-24-p11-SC84156"
+entry_into_force_date: "2008-02-06"
+jci_1_3: "jci1.3:c:BWBR0023428&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0023428&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "Regeling melding ongeoorloofde afwezigheid"
+signed_date: "2008-01-29"
+entry_into_force: "2008-02-06"
 ---
-
 # Regeling van de Staatssecretaris van Justitie van 29 januari 2008, nr. 5519777/07/DJI, houdende regels over de melding van ongeoorloofde afwezigheid uit penitentiaire inrichtingen, inrichtingen voor verpleging van ter beschikking gestelden en justitiële jeugdinrichtingen
 
 Gelet op [artikel 5a, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5a), [artikel 7a, tweede lid, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=7a) en [artikel 5, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze Regeling wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In deze Regeling wordt verstaan onder:
 
 - g. het CJIB: het Centraal Justitieel Incassobureau van het Ministerie van Veiligheid en Justitie.
 
-#### Artikel 1.2. Aanvang en einde van ongeoorloofde afwezigheid
+##### Artikel 1.2. Aanvang en einde van ongeoorloofde afwezigheid
 
 1. Ongeoorloofde afwezigheid vangt aan op de dag van het zich onttrekken aan de tenuitvoerlegging bedoeld in [artikel 1.1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=1&artikel=1.1&z=2025-09-04&g=2025-09-04).
 
 2. Ongeoorloofde afwezigheid eindigt op de dag dat de ongeoorloofd afwezige zichzelf meldt of wordt aangehouden.
 
-#### Artikel 1.3. Meldingsprocedure ongeoorloofde afwezigheid
+##### Artikel 1.3. Meldingsprocedure ongeoorloofde afwezigheid
 
 De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&z=2025-09-04&g=2025-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&z=2025-09-04&g=2025-09-04) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&z=2025-09-04&g=2025-09-04) van deze regeling meldt ongeoorloofde afwezigheid en het einde daarvan aan de Minister van Veiligheid en Justitie, de politie en overige betrokkenen volgens de procedure beschreven in het betreffende hoofdstuk.
 
@@ -48,11 +74,11 @@ De directeur dan wel het hoofd van de inrichting bedoeld in respectievelijk [hoo
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 2.1. Begripsbepalingen
+##### Artikel 2.1. Begripsbepalingen
 
 Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), van toepassing
 
-#### Artikel 2.2. Ontstaan ongeoorloofde afwezigheid
+##### Artikel 2.2. Ontstaan ongeoorloofde afwezigheid
 
 Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken aan de tenuitvoerlegging op één van de navolgende wijzen:
 
@@ -70,11 +96,11 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 - g. het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens onbegeleid verlof, deelname aan een penitentiair programma, of ander toegestaan verblijf buiten de inrichting zonder begeleiding.
 
-#### Artikel 2.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
+##### Artikel 2.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
 De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2025-09-04&g=2025-09-04) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de gedetineerde zich heeft onttrokken. In de gevallen waarin de ongeoorloofd afwezige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 2.2, onder b, c, d, f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=1&artikel=2.2&z=2025-09-04&g=2025-09-04), berust die verantwoordelijkheid bij de directeur van de inrichting waar hij staat ingeschreven.
 
-#### Artikel 2.4. Indeling ongeoorloofd afwezigen
+##### Artikel 2.4. Indeling ongeoorloofd afwezigen
 
 In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolgende twee groepen ongeoorloofd afwezigen onderscheiden:
 
@@ -88,11 +114,11 @@ In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolge
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
-#### Artikel 2.5. Melding bij constatering op heterdaad
+##### Artikel 2.5. Melding bij constatering op heterdaad
 
 Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt de directeur onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van degene die zich onttrekt.
 
-#### Artikel 2.6. Meldingen na constatering ongeoorloofde afwezigheid groep A
+##### Artikel 2.6. Meldingen na constatering ongeoorloofde afwezigheid groep A
 
 1. De directeur meldt de ongeoorloofde afwezigheid behorend tot groep A onmiddellijk na constatering ervan telefonisch aan:
 
@@ -108,7 +134,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 5. De directeur zendt zo spoedig mogelijk het penitentiair dossier van de ongeoorloofd afwezige naar de divisiedirecteur IZ.
 
-#### Artikel 2.7. Meldingen na constatering ongeoorloofde afwezigheid groep B
+##### Artikel 2.7. Meldingen na constatering ongeoorloofde afwezigheid groep B
 
 1. De directeur meldt de ongeoorloofde afwezigheid behorend tot groep B, onder 1°, onmiddellijk na constatering ervan aan:
 
@@ -134,7 +160,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 3. Overige inlichtingen
 
-#### Artikel 2.8. Overige inlichtingen
+##### Artikel 2.8. Overige inlichtingen
 
 1. De directeur verstrekt aan de divisiedirecteur GW/VB, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
@@ -142,7 +168,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
-#### Artikel 2.9. Meldingen bij einde ongeoorloofde afwezigheid
+##### Artikel 2.9. Meldingen bij einde ongeoorloofde afwezigheid
 
 1. Indien de ongeoorloofd afwezige behorend tot groep A zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
 
@@ -160,7 +186,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 3.1. Begripsbepalingen
+##### Artikel 3.1. Begripsbepalingen
 
 1. Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1), van toepassing.
 
@@ -170,7 +196,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - b. het hoofd: het hoofd van de inrichting voor verpleging van ter beschikking gestelden bedoeld in [artikel 1, onder h, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1).
 
-#### Artikel 3.2. Ontstaan ongeoorloofde afwezigheid
+##### Artikel 3.2. Ontstaan ongeoorloofde afwezigheid
 
 Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken van een verpleegde aan de tenuitvoerlegging op één van de navolgende wijzen:
 
@@ -184,17 +210,17 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 - e. het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens enige vorm van onbegeleid verlof, proefverlof, transmuraal verlof of ander toegestaan verblijf buiten de inrichting zonder begeleiding.
 
-#### Artikel 3.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
+##### Artikel 3.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
 De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2025-09-04&g=2025-09-04) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij het hoofd van de inrichting vanwaar de verpleegde zich heeft onttrokken. In de gevallen waarin de verpleegde zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 3.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=3&paragraaf=1&artikel=3.2&z=2025-09-04&g=2025-09-04), berust die verantwoordelijkheid bij het hoofd van de inrichting waar de verpleegde staat ingeschreven.
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
-#### Artikel 3.4. Melding bij constatering op heterdaad
+##### Artikel 3.4. Melding bij constatering op heterdaad
 
 Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt het hoofd onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van de verpleegde die zich onttrekt.
 
-#### Artikel 3.5. Meldingen na constatering ongeoorloofde afwezigheid
+##### Artikel 3.5. Meldingen na constatering ongeoorloofde afwezigheid
 
 1. Het hoofd meldt de ongeoorloofde afwezigheid onmiddellijk na constatering ervan telefonisch aan:
 
@@ -210,7 +236,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 3. Overige inlichtingen
 
-#### Artikel 3.6. Overige inlichtingen
+##### Artikel 3.6. Overige inlichtingen
 
 1. Het hoofd verstrekt aan de divisiedirecteur ForZo/JJI, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
@@ -218,7 +244,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 3. Overige inlichtingen
 
-#### Artikel 3.7. Meldingen bij einde ongeoorloofde afwezigheid
+##### Artikel 3.7. Meldingen bij einde ongeoorloofde afwezigheid
 
 Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inrichting waar hij zich heeft gemeld, dan wel het hoofd van de inrichting waar hij staat ingeschreven, hierover onmiddellijk telefonisch:
 
@@ -230,11 +256,11 @@ Indien de ongeoorloofd afwezige zichzelf meldt, informeert het hoofd van de inri
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 4.1. Begripsbepalingen
+##### Artikel 4.1. Begripsbepalingen
 
 Op dit hoofdstuk zijn de begripsbepalingen, bedoeld in [artikel 1 van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1), van toepassing.
 
-#### Artikel 4.2. Ontstaan ongeoorloofde afwezigheid
+##### Artikel 4.2. Ontstaan ongeoorloofde afwezigheid
 
 Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zich onttrekken van een jeugdige aan de tenuitvoerlegging op één van de navolgende wijzen:
 
@@ -248,11 +274,11 @@ Ongeoorloofde afwezigheid als bedoeld in dit hoofdstuk is het gevolg van het zic
 
 - e. het zich niet tijdig op de afgesproken plaats bevinden of daar terugkeren na of tijdens enige vorm van onbegeleid verlof, deelname aan een scholings- en trainingsprogramma of ander toegestaan verblijf buiten de inrichting zonder begeleiding.
 
-#### Artikel 4.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
+##### Artikel 4.3. Verantwoordelijkheid voor de meldingen bij ongeoorloofde afwezigheid
 
 De verantwoordelijkheid voor de in de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=3&z=2025-09-04&g=2025-09-04) bedoelde meldingen en inlichtingen bij ongeoorloofde afwezigheid berust bij de directeur van de inrichting vanwaar de jeugdige zich heeft onttrokken. In de gevallen waarin de jeugdige zich met toestemming buiten de inrichting bevond op het moment van zijn onttrekking, bedoeld in [artikel 4.2, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.2&z=2025-09-04&g=2025-09-04), berust die verantwoordelijkheid bij de directeur van de inrichting waar de jeugdige staat ingeschreven.
 
-#### Artikel 4.4. Indeling ongeoorloofd afwezigen
+##### Artikel 4.4. Indeling ongeoorloofd afwezigen
 
 In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolgende twee groepen ongeoorloofd afwezigen onderscheiden:
 
@@ -274,11 +300,11 @@ In dit hoofdstuk worden met het oog op de te volgen meldingsprocedure de navolge
 
 #### Paragraaf 2. Meldingen bij aanvang ongeoorloofde afwezigheid
 
-#### Artikel 4.5. Melding bij constatering op heterdaad
+##### Artikel 4.5. Melding bij constatering op heterdaad
 
 Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat deze heeft plaatsgevonden, belt de directeur onmiddellijk het alarmnummer van de politie met het oog op de aanhouding van de jeugdige die zich onttrekt.
 
-#### Artikel 4.6. Meldingen na constatering ongeoorloofde afwezigheid strafrechtelijk geplaatsten
+##### Artikel 4.6. Meldingen na constatering ongeoorloofde afwezigheid strafrechtelijk geplaatsten
 
 1. De directeur meldt de ongeoorloofde afwezigheid van de strafrechtelijk geplaatste jeugdigen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2025-09-04&g=2025-09-04), en van de strafrechtelijk geplaatste jeugdigen bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2025-09-04&g=2025-09-04), onmiddellijk na constatering ervan telefonisch aan:
 
@@ -306,7 +332,7 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 - c. de officier van justitie of advocaat-generaal die de ongeoorloofd afwezige vervolgt of heeft vervolgd.
 
-#### Artikel 4.7. Meldingen na constatering ongeoorloofde afwezigheid niet-strafrechtelijk geplaatsten
+##### Artikel 4.7. Meldingen na constatering ongeoorloofde afwezigheid niet-strafrechtelijk geplaatsten
 
 1. De directeur meldt de ongeoorloofde afwezigheid van de jeugdigen bedoeld in [artikel 4.4, onder b, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2025-09-04&g=2025-09-04), onmiddellijk na constatering ervan telefonisch aan de betrokken gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1).
 
@@ -320,19 +346,19 @@ Bij constatering van een onttrekking, terwijl deze plaatsvindt of terstond nadat
 
 #### Paragraaf 3. Overige inlichtingen en registratie
 
-#### Artikel 4.8. Overige inlichtingen
+##### Artikel 4.8. Overige inlichtingen
 
 1. De directeur verstrekt aan de divisiedirecteur ForZo/JJI, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
 2. De directeur verstrekt aan het Landelijk Meldpunt dan wel de politie, naast de in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=2&paragraaf=2&z=2025-09-04&g=2025-09-04) bedoelde informatie, te allen tijde alle benodigde inlichtingen.
 
-#### Artikel 4.9. Registratie
+##### Artikel 4.9. Registratie
 
 De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkdag elektronisch aan de divisiedirecteur IZ door middel van registratie in het daartoe bestemde registratiesysteem.
 
 #### Paragraaf 4. Meldingen bij einde ongeoorloofde afwezigheid
 
-#### Artikel 4.10. Meldingen bij einde ongeoorloofde afwezigheid
+##### Artikel 4.10. Meldingen bij einde ongeoorloofde afwezigheid
 
 1. Indien de ongeoorloofd afwezige jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, bedoeld in [artikel 4.4, onder a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2025-09-04&g=2025-09-04), of de ongeoorloofd afwezige jeugdige bedoeld in [artikel 4.4, onder a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0023428&hoofdstuk=4&paragraaf=1&artikel=4.4&z=2025-09-04&g=2025-09-04), zichzelf meldt, informeert de directeur van de inrichting waar hij zich heeft gemeld, dan wel de directeur van de inrichting waar hij staat ingeschreven, hierover:
 
@@ -368,17 +394,17 @@ De directeur meldt de ongeoorloofde afwezigheid uiterlijk de eerstvolgende werkd
 
 ### Hoofdstuk 5. Inwerkingtreding en citeertitel
 
-#### Artikel 5.1. Inwerkingtreding
+##### Artikel 5.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling melding ongeoorloofde afwezigheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.1a
+##### Artikel 1.1a
 
 Deze regeling berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
 
@@ -396,7 +422,7 @@ Deze regeling berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid, 
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 3.1a
+##### Artikel 3.1a
 
 Dit hoofdstuk berust mede op [artikel 6.11, eerste lid, onder c, en tweede lid van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.11).
 

@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit drukapparatuur 2016"
+title: "Besluit van 15 juni 2016, houdende vaststelling van het Warenwetbesluit drukapparatuur 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit liften 2016 en het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit drukapparatuur 2016)"
 identifier: "BWBR0038083"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-02-01
-laatste_update: 2020-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038083"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-02-01"
+last_updated: "2020-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038083"
+soort: "AMvB"
+stam_id: "13655133"
+version_id: "23381322"
+internal_id: "C33701071"
+label_id: "13622314"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038083/2020-02-01/0"
+intitule_bron: "Stb.2016-229"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-15"
+intitule_published: "2016-06-22"
+intitule_in_force: "2016-06-22"
+intitule_status: "goed"
+original_publication: "Stb.2016-229"
+original_signed_date: "2016-06-15"
+original_published_date: "2016-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-229"
+entry_into_force_date: "2016-06-23"
+jci_1_3: "jci1.3:c:BWBR0038083&z=2020-02-01&g=2020-02-01"
+jci_1_0: "1.0:c:BWBR0038083&g=2020-02-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit drukapparatuur 2016"
+signed_date: "2016-06-15"
+entry_into_force: "2016-06-23"
 ---
-
 # Besluit van 15 juni 2016, houdende vaststelling van het Warenwetbesluit drukapparatuur 2016 en wijziging van het Arbeidsomstandighedenbesluit, het Warenwetbesluit liften 2016 en het Warenwetbesluit bestuurlijke boeten (Warenwetbesluit drukapparatuur 2016)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 18 maart 2016, nr. 2016-0000081054;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -76,7 +102,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op drukapparatuur en samenstellen als bedoeld in artikel 1, tweede lid, van de richtlijn.
 
-#### Artikel 2. Algemene verplichtingen
+##### Artikel 2. Algemene verplichtingen
 
 1. Het is verboden drukapparatuur en samenstellen in de handel te brengen, in bedrijf te stellen, op de markt aan te bieden of te gebruiken die niet voldoen aan de bij of krachtens dit besluit gestelde voorschriften.
 
@@ -88,11 +114,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. EU-conformiteitsverklaring en CE-markering
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=4&z=2020-02-01&g=2020-02-01), [6, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=6&z=2020-02-01&g=2020-02-01), en [7, eerste lid, onder a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=7&z=2020-02-01&g=2020-02-01), is niet van toepassing op drukapparatuur en samenstellen als bedoeld in artikel 4, derde lid, van de richtlijn.
 
-#### Artikel 4. Verplichtingen fabrikant
+##### Artikel 4. Verplichtingen fabrikant
 
 1. Fabrikanten voldoen bij het ontwerpen, vervaardigen, het in de handel brengen en het voor eigen doeleinden gebruiken van drukapparatuur en samenstellen aan de volgende bepalingen van de richtlijn:
 
@@ -122,13 +148,13 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 3. De EU-conformiteitsverklaring, bedoeld in de artikelen 6, tweede lid, en 17, eerste lid, van de richtlijn, is in ieder geval gesteld in de Nederlandse of Engelse taal.
 
-#### Artikel 5. Gemachtigde van de fabrikant
+##### Artikel 5. Gemachtigde van de fabrikant
 
 1. De fabrikant die een gemachtigde aanstelt, voldoet en zorgt dat wordt voldaan aan artikel 7 van de richtlijn.
 
 2. De gemachtigde, bedoeld in het eerste lid, voldoet aan de artikelen 7, tweede lid, en 11 van de richtlijn.
 
-#### Artikel 6. Verplichtingen importeur
+##### Artikel 6. Verplichtingen importeur
 
 1. Importeurs voldoen bij het in de handel brengen van drukapparatuur en samenstellen aan de volgende bepalingen van de richtlijn:
 
@@ -146,7 +172,7 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 2. Instructies en informatie aangaande de veiligheid, bedoeld in artikel 8, vierde lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 7. Verplichtingen distributeur
+##### Artikel 7. Verplichtingen distributeur
 
 1. Distributeurs voldoen bij het op de markt aanbieden van drukapparatuur en samenstellen aan de volgende bepalingen van de richtlijn:
 
@@ -162,19 +188,19 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 2. Instructies en informatie aangaande de veiligheid, bedoeld in artikel 9, tweede lid, van de richtlijn, zijn in ieder geval gesteld in de Nederlandse taal.
 
-#### Artikel 8. EU-conformiteit
+##### Artikel 8. EU-conformiteit
 
 1. Drukapparatuur en samenstellen voldoen aan de essentiële veiligheidseisen als vermeld in bijlage I van de richtlijn.
 
 2. Drukapparatuur en samenstellen die door fabrikanten en importeurs in de handel worden gebracht of door distributeurs op de markt worden aangeboden, die in overeenstemming zijn met geharmoniseerde normen of delen daarvan, waarvan de referentienummers in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden vermoed te voldoen aan de eisen die door die normen of delen daarvan worden bestreken, zoals beschreven in artikel 12 en bijlage I van de richtlijn.
 
-#### Artikel 9. CE-markering
+##### Artikel 9. CE-markering
 
 1. Drukapparatuur en samenstellen die in de handel worden gebracht of op de markt worden aangeboden, met uitzondering van die genoemd in artikel 16, tweede lid, zijn overeenkomstig de artikelen 18 en 19 van de richtlijn voorzien van de CE-markering.
 
 2. Drukapparatuur en samenstellen die niet zijn voorzien van de CE-markering of anderszins niet aan dit besluit voldoen, mogen op beurzen en exposities en bij demonstraties worden tentoongesteld met inachtneming van artikel 3, derde lid, van de richtlijn.
 
-#### Artikel 10. Procedure EU-conformiteitsbeoordeling
+##### Artikel 10. Procedure EU-conformiteitsbeoordeling
 
 1. De beoordeling van de conformiteit van drukapparatuur en samenstellen, de afgifte van verklaringen en de verlening van goedkeuringen ter zake vinden plaats met inachtneming van de artikelen 12, eerste lid, 14 en 17 van de richtlijn.
 
@@ -184,13 +210,13 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 4. De verlening van de goedkeuring, genoemd in bijlage I, onderdelen 3.1.2 en 3.1.3, bij de richtlijn, kan naast de EU-conformiteitsbeoordelingsinstantie geschieden door een erkende onafhankelijke instelling. Het derde lid is van overeenkomstige toepassing.
 
-#### Artikel 11. Europese materiaalgoedkeuring
+##### Artikel 11. Europese materiaalgoedkeuring
 
 1. De Europese materiaalgoedkeuring, bedoeld in artikel 15 van de richtlijn, wordt op verzoek van één of meer materiaalfabrikanten of fabrikanten van drukapparatuur, met inachtneming van genoemd artikel, verleend door een hiertoe door Onze Minister aangewezen EU-conformiteitsbeoordelingsinstantie. De kosten van de materiaalgoedkeuring zijn voor rekening van de betrokken fabrikant of fabrikanten.
 
 2. De voor de fabricage van drukapparatuur gebruikte materialen die voldoen aan de Europese materiaalgoedkeuringen waarvan de referenties door de Commissie van de Europese Unie zijn gepubliceerd in het Publicatieblad van de Europese Unie, worden geacht te voldoen aan de daarop van toepassing zijnde essentiële veiligheidseisen, bedoeld in bijlage I bij de richtlijn.
 
-#### Artikel 12. Intrekking verklaringen en goedkeuringen
+##### Artikel 12. Intrekking verklaringen en goedkeuringen
 
 1. De EU-conformiteitsbeoordelingsinstantie en EU-keuringsdienst van gebruikers trekken een door hen afgegeven verklaring van EU-typeonderzoek of EU-ontwerponderzoek of een verleende goedkeuring van het kwaliteitssysteem, bedoeld in bijlage III bij de richtlijn, in, indien de essentiële veiligheidseisen of voorgeschreven gebruiksomstandigheden, bedoeld in bijlage I bij de richtlijn, zodanig zijn gewijzigd dat het type, ontwerp of kwaliteitssysteem niet meer voldoet aan de gewijzigde eisen op het tijdstip waarop deze volgens de richtlijn van toepassing zijn.
 
@@ -198,7 +224,7 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 3. De EU-conformiteitsbeoordelingsinstantie en EU-keuringsdienst van gebruikers en erkende onafhankelijke instelling trekken een door hen verleende goedkeuring, genoemd in bijlage I, onderdelen 3.1.2 en 3.1.3, bij de richtlijn, in, indien die naar hun oordeel niet verleend had mogen worden of er niet meer wordt voldaan aan bijlage I, onderdelen 3.1.2 of 3.1.3, bij de richtlijn.
 
-#### Artikel 13. Aanwijzingsprocedure
+##### Artikel 13. Aanwijzingsprocedure
 
 1. Bij een verzoek aan Onze Minister als bedoeld in [artikel 7a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7a), voldoet de aanvrager aan artikel 28, eerste en tweede lid, van de richtlijn.
 
@@ -220,7 +246,7 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 5. Indien de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst voor gebruikers of erkende onafhankelijke instelling geen bewijs van accreditatie kan overleggen, verschaft zij Onze Minister alle bewijsstukken die nodig zijn om aan te tonen dat zij voldoet aan de criteria, genoemd in het eerste, tweede en derde lid.
 
-#### Artikel 14. Weigering, schorsing, wijziging of intrekking aanwijzing
+##### Artikel 14. Weigering, schorsing, wijziging of intrekking aanwijzing
 
 1. Onze Minister weigert een aanwijzing als EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens [artikel 13, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2020-02-01&g=2020-02-01), voor zover op hen van toepassing.
 
@@ -232,13 +258,13 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 - c. indien de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
-#### Artikel 15. Aanmeldende autoriteit
+##### Artikel 15. Aanmeldende autoriteit
 
 1. Bij de uitoefening van zijn taken als aanmeldende autoriteit voldoet Onze Minister aan artikelen 22 en 29 van de richtlijn.
 
 2. Onze Minister verricht de taken, bedoeld in artikel 21, tweede lid, van de richtlijn.
 
-#### Artikel 16. Periodieke controle
+##### Artikel 16. Periodieke controle
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers en erkende onafhankelijke instelling:
 
@@ -250,7 +276,7 @@ Dit hoofdstuk, met uitzondering van de [artikelen 4, eerste lid, onder a, en twe
 
 3. Een EU-conformiteitsbeoordelingsinstantie, een EU-keuringsdienst van gebruikers of een erkende onafhankelijke instelling die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum waarop de aanwijzing eindigt, haar dossiers over te dragen aan een EU-conformiteitsbeoordelingsinstantie waarmee de marktdeelnemer een overeenkomst is aangegaan. Indien er geen EU-conformiteitsbeoordelingsinstantie is, draagt de EU-conformiteitsbeoordelingsinstantie, EU-keuringsdienst van gebruikers of erkende onafhankelijke instelling de dossiers over aan Onze Minister.
 
-#### Artikel 17. Wijziging richtlijn
+##### Artikel 17. Wijziging richtlijn
 
 Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -260,7 +286,7 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 ### Hoofdstuk 5. NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers
 
-#### Artikel 28. Criteria voor aanwijzing als NL-conformiteitsbeoordelingsinstantie
+##### Artikel 28. Criteria voor aanwijzing als NL-conformiteitsbeoordelingsinstantie
 
 1. Als NL-conformiteitsbeoordelingsinstantie kunnen worden aangewezen de instellingen die voldoen aan de volgende eisen:
 
@@ -300,7 +326,7 @@ Een wijziging van de richtlijn gaat voor de toepassing van dit besluit gelden me
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot dit artikel.
 
-#### Artikel 29. Taken NL-conformiteitsbeoordelingsinstantie
+##### Artikel 29. Taken NL-conformiteitsbeoordelingsinstantie
 
 Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor zover hiervoor aangewezen:
 
@@ -312,7 +338,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 - d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2020-02-01&g=2020-02-01).
 
-#### Artikel 30. Uitbesteden taken
+##### Artikel 30. Uitbesteden taken
 
 1. Indien NL-conformiteitsbeoordelingsinstanties conformiteitsbeoordelingstaken uitbesteden of door een dochteronderneming laten uitvoeren, waarborgen zij dat de onderaannemer of dochteronderneming aan de criteria, bedoeld in [artikel 28, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2020-02-01&g=2020-02-01), voldoet, en brengen zij Onze Minister hiervan op de hoogte.
 
@@ -324,7 +350,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 5. NL-conformiteitsbeoordelingsinstanties houden alle relevante documenten betreffende de beoordeling van de kwalificaties van een onderaannemer of dochterondernemer en betreffende de door een onderaannemer of dochteronderneming uit hoofde van dit besluit verrichte conformiteitsbeoordelingstaken ter beschikking van de aanwijzende autoriteit.
 
-#### Artikel 31. Criteria voor aanwijzing als NL-keuringsdienst van gebruikers
+##### Artikel 31. Criteria voor aanwijzing als NL-keuringsdienst van gebruikers
 
 1. Als NL-keuringsdienst van gebruikers kan worden aangewezen een keuringsdienst die voldoet aan de volgende eisen:
 
@@ -366,7 +392,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 6. Een NL-keuringsdienst van gebruikers die deel uitmaakt van een mijnbouwonderneming, wordt aangewezen door Onze Minister in overeenstemming met Onze Minister van Economische Zaken.
 
-#### Artikel 32. Taken NL-keuringsdienst van gebruikers
+##### Artikel 32. Taken NL-keuringsdienst van gebruikers
 
 1. Een NL-keuringsdienst van gebruikers werkt uitsluitend voor de groep waarvan hij deel uitmaakt, welke groep een gemeenschappelijk veiligheidsbeleid hanteert ten aanzien van de technische specificaties voor ontwerp, fabricage, controle, onderhoud en gebruik van drukapparatuur en samenstellen.
 
@@ -380,7 +406,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 - d. de beoordelingen en de onderzoeken bij voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=2&artikel=26&z=2020-02-01&g=2020-02-01).
 
-#### Artikel 33. Aanwijzingsprocedure
+##### Artikel 33. Aanwijzingsprocedure
 
 1. De NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers dienen de aanvraag tot aanwijzing in bij Onze Minister.
 
@@ -392,7 +418,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de accreditatie, bedoeld in het tweede, derde of vierde lid, en de indiening en afhandeling van aanvraag, bedoeld in het eerste lid.
 
-#### Artikel 34. Weigering, schorsing, wijziging of intrekking aanwijzing
+##### Artikel 34. Weigering, schorsing, wijziging of intrekking aanwijzing
 
 1. Een aanwijzing als NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers wordt geweigerd, indien de aanvrager niet heeft voldaan aan het bepaalde bij of krachtens de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2020-02-01&g=2020-02-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2020-02-01&g=2020-02-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2020-02-01&g=2020-02-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2020-02-01&g=2020-02-01).
 
@@ -404,7 +430,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 - c. indien de NL-conformiteitsbeoordelingsinstantie of NL-keuringsdienst van gebruikers haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.
 
-#### Artikel 35. Periodieke controle
+##### Artikel 35. Periodieke controle
 
 1. Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers:
 
@@ -416,7 +442,7 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 3. Een NL-conformiteitsbeoordelingsinstantie die haar taken waarvoor zij is aangewezen, beëindigt, of waarvan de aanwijzing door Onze Minister wordt ingetrokken, is verplicht tijdig voorafgaand aan de beëindiging van de werkzaamheden respectievelijk de datum, waarop de aanwijzing eindigt, haar dossiers over te dragen aan een andere NL-conformiteitsbeoordelingsinstantie waarmee de marktdeelnemer een overeenkomst is aangegaan. Indien er geen andere NL-conformiteitsbeoordelingsinstantie is, draagt de NL-conformiteitsbeoordelingsinstantie de dossiers over aan Onze Minister.
 
-#### Artikel 36. Inspectieafdeling van de gebruiker
+##### Artikel 36. Inspectieafdeling van de gebruiker
 
 1. Een inspectieafdeling van de gebruiker werkt uitsluitend voor de groep waarvan de inspectieafdeling deel uitmaakt. Deze groep hanteert een gemeenschappelijk veiligheidsbeleid ten aanzien van de technische specificaties voor ontwerp, fabricage, levering, installatie, gebruik, controle en onderhoud van drukapparatuur.
 
@@ -436,21 +462,21 @@ Een NL-conformiteitsbeoordelingsinstantie is belast met de volgende taken, voor 
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 37. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 37. Wijziging van het [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 38. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
+##### Artikel 38. Wijziging van het [Warenwetbesluit bestuurlijke boeten](https://wetten.overheid.nl/jci1.3:c:BWBR0011841)
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 39. Wijziging van het [Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650)
+##### Artikel 39. Wijziging van het [Warenwetbesluit liften 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037650)
 
 Wijzigt het Warenwetbesluit liften 2016.
 
 ### Hoofdstuk 5. NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers
 
-#### Artikel 40. Overgangsbepaling
+##### Artikel 40. Overgangsbepaling
 
 1. Drukapparatuur die voldoet aan het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586), zoals dat onmiddellijk vóór 19 juli 2016 luidde en vóór dat tijdstip in de handel is gebracht, mag ook op en na dat tijdstip op de markt worden aangeboden.
 
@@ -458,33 +484,33 @@ Wijzigt het Warenwetbesluit liften 2016.
 
 3. Een verklaring of goedkeuring genoemd in [artikel 19 van het Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586&artikel=19), en geldend op de dag, onmiddellijk voorafgaand aan de datum van inwerkingtreding, genoemd in [artikel 42, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=42&z=2020-02-01&g=2020-02-01), wordt geacht te zijn afgegeven met inachtneming van de bij of krachtens dit besluit gestelde bepalingen, onverminderd het bepaalde bij of krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=11&z=2020-02-01&g=2020-02-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=12&z=2020-02-01&g=2020-02-01) en [27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=3&artikel=27&z=2020-02-01&g=2020-02-01).
 
-#### Artikel 41. Intrekking [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586)
+##### Artikel 41. Intrekking [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586)
 
 Het [Warenwetbesluit drukapparatuur](https://wetten.overheid.nl/jci1.3:c:BWBR0010586) wordt ingetrokken.
 
-#### Artikel 42. Inwerkingtreding
+##### Artikel 42. Inwerkingtreding
 
 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=1&z=2020-02-01&g=2020-02-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=13&z=2020-02-01&g=2020-02-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=14&z=2020-02-01&g=2020-02-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=15&z=2020-02-01&g=2020-02-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=16&z=2020-02-01&g=2020-02-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=28&z=2020-02-01&g=2020-02-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=29&z=2020-02-01&g=2020-02-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=30&z=2020-02-01&g=2020-02-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=31&z=2020-02-01&g=2020-02-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=32&z=2020-02-01&g=2020-02-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=33&z=2020-02-01&g=2020-02-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=34&z=2020-02-01&g=2020-02-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=35&z=2020-02-01&g=2020-02-01), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=39&z=2020-02-01&g=2020-02-01) en [40, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2020-02-01&g=2020-02-01), van dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. De [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=1&artikel=2&z=2020-02-01&g=2020-02-01), [17 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=2&artikel=17&z=2020-02-01&g=2020-02-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=5&artikel=36&z=2020-02-01&g=2020-02-01), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=37&z=2020-02-01&g=2020-02-01), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=6&artikel=38&z=2020-02-01&g=2020-02-01), [40, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=40&z=2020-02-01&g=2020-02-01), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=7&artikel=41&z=2020-02-01&g=2020-02-01) van dit besluit treden in werking met ingang van 19 juli 2016.
 
-#### Artikel 43. Citeertitel
+##### Artikel 43. Citeertitel
 
 Dit besluit wordt aangehaald als: Warenwetbesluit drukapparatuur 2016.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 18. Gebruiksaanwijzing
+##### Artikel 18. Gebruiksaanwijzing
 
 Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestemd voor de gebruiker, met alle voor de veiligheid van belang zijnde informatie als bedoeld in punt 3.4 van bijlage I bij de richtlijn, en die ten minste in de Nederlandse taal is gesteld.
 
-#### Artikel 19. Opstelling drukapparatuur en samenstellen
+##### Artikel 19. Opstelling drukapparatuur en samenstellen
 
 1. De opstelling van drukapparatuur en samenstellen voorzien van een CE-markering, zijn zodanig dat zij toegankelijk en bereikbaar zijn voor het gebruik en uitvoeren van onderhoud, onderzoek, inspectie, reparatie en keuringen. Zij zijn voorzien van een zodanige ondersteuning dat de veiligheid niet in gevaar wordt gebracht.
 
 2. Bij ministeriële regeling kunnen ter uitvoering van het eerste lid nadere regels worden gesteld.
 
-#### Artikel 20. Onderhoud en gebruik
+##### Artikel 20. Onderhoud en gebruik
 
 1. Degene die drukapparatuur of samenstellen voorhanden heeft, aflevert, tentoonstelt of gebruikt zorgt ervoor dat die in goede staat van onderhoud verkeren.
 
@@ -496,7 +522,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 #### Paragraaf 1. Keuring drukapparatuur
 
-#### Artikel 21. Keuring voor ingebruikneming
+##### Artikel 21. Keuring voor ingebruikneming
 
 1. Bij ministeriële regeling wordt drukapparatuur aangewezen die overeenkomstig dit artikel wordt gekeurd.
 
@@ -542,7 +568,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 14. Dit artikel is niet van toepassing, indien een verklaring als bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2020-02-01&g=2020-02-01), is afgegeven, tot het tijdstip waarop de betreffende drukapparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.
 
-#### Artikel 22. Herkeuring
+##### Artikel 22. Herkeuring
 
 1. Bij ministeriële regeling wordt in verband met de veiligheid en gezondheid van personen en het milieu drukapparatuur aangewezen die overeenkomstig dit artikel wordt herkeurd.
 
@@ -584,7 +610,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 12. Bij ministeriële regeling kunnen met betrekking tot bepaalde drukapparatuur als bedoeld in het eerste lid, regels worden gesteld die strekken ter aanvulling van dit artikel of onderdelen daarvan.
 
-#### Artikel 23. Intredekeuring
+##### Artikel 23. Intredekeuring
 
 1. Dit artikel is van toepassing op drukapparatuur die:
 
@@ -634,7 +660,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 12. De gebruiker draagt er zorg voor dat de keuring, bedoeld in het tweede lid, veilig kan worden uitgevoerd.
 
-#### Artikel 24. Aantekenblad
+##### Artikel 24. Aantekenblad
 
 1. De verklaring van ingebruikneming, bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2020-02-01&g=2020-02-01), en de verklaring van intredekeuring en ingebruikneming, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2020-02-01&g=2020-02-01), gaan vergezeld van een aantekenblad.
 
@@ -642,7 +668,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 3. Uitsluitend de betrokken NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers zijn bevoegd op het aantekenblad aantekeningen te maken.
 
-#### Artikel 25. Bewaren documenten
+##### Artikel 25. Bewaren documenten
 
 1. Gedurende tien jaar na de vervaardiging van drukapparatuur of samenstellen of indien deze in een serie zijn vervaardigd, na de vervaardiging van de laatste drukapparatuur of samenstellen, bewaart de fabrikant overeenkomstig bijlage III bij de richtlijn, voor zover van toepassing, de technische documentatie, een afschrift van de EG-verklaring van overeenstemming, van de EU-conformiteitsverklaring en van de verklaring van EG-typeonderzoek of EG-ontwerponderzoek, bedoeld in [Richtlijn 97/23/EG](31997L0023) van het Europees Parlement en de Raad van 29 mei 1997 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur (Pb 1997, L 181), het certificaat van EU-typeonderzoek of EU-ontwerponderzoek inclusief de aanvullingen daarop, en de gegevens, bedoeld in punt 5 van module D, onderscheidenlijk punt 7 van module D1, onderscheidenlijk punt 5 van module E, onderscheidenlijk punt 7 van module E1, onderscheidenlijk punt 5 van module H van bijlage III bij de richtlijn.
 
@@ -652,7 +678,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 #### Paragraaf 2. Voorgenomen en uitgevoerde wijzigingen en reparaties in de gebruiksfase
 
-#### Artikel 26. Wijzigingen en reparaties
+##### Artikel 26. Wijzigingen en reparaties
 
 1. Op voorgenomen wijzigingen en reparaties aan drukapparatuur, bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2020-02-01&g=2020-02-01), is bijlage I, met uitzondering van het aanbrengen van de CE-markering, bij de richtlijn van overeenkomstige toepassing.
 
@@ -688,7 +714,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 #### Paragraaf 3. Intrekking verklaringen en goedkeuringen
 
-#### Artikel 27. Intrekking
+##### Artikel 27. Intrekking
 
 1. Een NL-conformiteitsbeoordelingsinstantie en NL-keuringsdienst van gebruikers trekt een door haar afgegeven verklaring van ingebruikneming, een verklaring van herkeuring of een verklaring van intredekeuring en ingebruikneming in, indien de drukapparatuur niet meer voldoet aan de eisen, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=21&z=2020-02-01&g=2020-02-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=22&z=2020-02-01&g=2020-02-01) of [23](https://wetten.overheid.nl/jci1.3:c:BWBR0038083&hoofdstuk=4&paragraaf=1&artikel=23&z=2020-02-01&g=2020-02-01).
 
@@ -702,7 +728,7 @@ Drukapparatuur en samenstellen gaan vergezeld van een gebruiksaanwijzing, bestem
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a. Verplichtingen gebruiker
+##### Artikel 17a. Verplichtingen gebruiker
 
 1. Gebruikers voldoen bij het ontwerpen, vervaardigen, laten ontwerpen en het laten vervaardigen en in eigen beheer assembleren van drukapparatuur of samenstellen voor eigen doeleinden aan de volgende bepalingen van de richtlijn:
 

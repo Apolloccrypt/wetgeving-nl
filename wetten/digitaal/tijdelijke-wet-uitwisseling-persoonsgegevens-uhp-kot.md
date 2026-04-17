@@ -1,14 +1,42 @@
 ---
-title: "Tijdelijke wet uitwisseling persoonsgegevens UHP KOT"
+title: "Wet van 3 juni 2023, houdende regels aangaande een tijdelijke uitwisseling van persoonsgegevens ter identificering van de ouders die gedupeerd zijn als gevolg van problemen bij de uitvoering van de kinderopvangtoeslag en geconfronteerd zijn met uithuisplaatsing van kinderen (Tijdelijke wet uitwisseling persoonsgegevens UHP KOT)"
 identifier: "BWBR0048336"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048336"
+country: "nl"
+rank: "wet"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048336"
+soort: "wet"
+stam_id: "16786973"
+version_id: "29484592"
+internal_id: "C42159611"
+label_id: "16702044"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048336/2023-07-01/0"
+intitule_bron: "Stb.2023-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-03"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2023-234"
+original_signed_date: "2023-06-03"
+original_published_date: "2023-06-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "36275"
+original_url_id: "stb-2023-234"
+entry_into_force_date: "2023-07-01"
+entry_into_force_dossier: "36275"
+jci_1_3: "jci1.3:c:BWBR0048336&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048336&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke wet uitwisseling persoonsgegevens UHP KOT"
+signed_date: "2023-06-03"
+entry_into_force: "2023-07-01"
 ---
-
-# Tijdelijke wet uitwisseling persoonsgegevens UHP KOT
+# Wet van 3 juni 2023, houdende regels aangaande een tijdelijke uitwisseling van persoonsgegevens ter identificering van de ouders die gedupeerd zijn als gevolg van problemen bij de uitvoering van de kinderopvangtoeslag en geconfronteerd zijn met uithuisplaatsing van kinderen (Tijdelijke wet uitwisseling persoonsgegevens UHP KOT)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om regels te stellen
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet wordt verstaan onder:
 
@@ -60,7 +88,7 @@ In deze wet wordt verstaan onder:
 
 - c. een machtiging is verleend om de jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 6.1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.2), [6.1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.3) of [6.1.4 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.1.4) of een machtiging is verleend om een jeugdige in een accommodatie te doen opnemen en te doen verblijven als bedoeld in de [artikelen 29b](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29b) en [29c van de Wet op de Jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637&artikel=29c).
 
-#### Artikel 2. Taak en doel verstrekken en verwerken van persoonsgegevens
+##### Artikel 2. Taak en doel verstrekken en verwerken van persoonsgegevens
 
 1. Onze Minister heeft, ten behoeve van de in het tweede lid bedoelde doelen, tot taak:
 
@@ -82,17 +110,17 @@ In deze wet wordt verstaan onder:
 
 - e. het informeren van UHP KOT-ouders en UHP KOT-kinderen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=9&z=2023-07-01&g=2023-07-01) over wat er met de persoonsgegevens is gedaan.
 
-#### Artikel 3. Verstrekken persoonsgegevens door de Belastingdienst/Toeslagen aan Onze Minister
+##### Artikel 3. Verstrekken persoonsgegevens door de Belastingdienst/Toeslagen aan Onze Minister
 
 De Belastingdienst/Toeslagen verstrekt aan Onze Minister de burgerservicenummers, namen, geboortedata, geslacht en adresgegevens van de gedupeerde aanvragers van een kinderopvangtoeslag en hun kinderen, ten behoeve van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doelen.
 
-#### Artikel 4. Verstrekken persoonsgegevens door de raad voor de kinderbescherming, de Raad voor de rechtspraak en de gerechten aan Onze Minister
+##### Artikel 4. Verstrekken persoonsgegevens door de raad voor de kinderbescherming, de Raad voor de rechtspraak en de gerechten aan Onze Minister
 
 1. De raad voor de kinderbescherming verstrekt aan Onze Minister de burgerservicenummers, namen, geboortedata, geslacht en adresgegevens van de kinderen waarvoor een verzoek tot uithuisplaatsing is gedaan en de uithuisgeplaatste kinderen, ten behoeve van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doelen.
 
 2. De Raad voor de rechtspraak en de gerechten verstrekken aan Onze Minister de burgerservicenummers, namen, geboortedata, geslacht en adresgegevens van de kinderen waarvoor een verzoek tot uithuisplaatsing is gedaan en de uithuisgeplaatste kinderen, en de door de gerechten ten behoeve van die kinderen aangemaakte zaaknummers, ten behoeve van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doelen.
 
-#### Artikel 5. Totstandkoming lijsten van UHP KOT-kinderen en UHP KOT-ouders door Onze Minister
+##### Artikel 5. Totstandkoming lijsten van UHP KOT-kinderen en UHP KOT-ouders door Onze Minister
 
 1. Onze Minister draagt zorg voor een lijst van UHP KOT-kinderen en een lijst van UHP KOT-ouders, door de op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=3&z=2023-07-01&g=2023-07-01) van de Belastingdienst/Toeslagen ontvangen persoonsgegevens te koppelen aan de op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=4&z=2023-07-01&g=2023-07-01) van de raad voor de kinderbescherming en de Raad voor de rechtspraak en de gerechten ontvangen persoonsgegevens, ten behoeve van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doelen.
 
@@ -100,7 +128,7 @@ De Belastingdienst/Toeslagen verstrekt aan Onze Minister de burgerservicenummers
 
 3. De lijst van UHP KOT-kinderen bestaat uit de burgerservicenummers en geboortedata van de UHP KOT-kinderen.
 
-#### Artikel 6. Verstrekken lijst van UHP KOT-kinderen door Onze Minister aan de organisaties
+##### Artikel 6. Verstrekken lijst van UHP KOT-kinderen door Onze Minister aan de organisaties
 
 1. Onze Minister verstrekt aan de gecertificeerde instellingen de lijst van UHP KOT-kinderen, ten behoeve van de in [artikel 2, tweede lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doelen.
 
@@ -110,7 +138,7 @@ De Belastingdienst/Toeslagen verstrekt aan Onze Minister de burgerservicenummers
 
 4. Onze Minister kan de lijst van UHP KOT-kinderen verstrekken aan een instelling of dienst, ten behoeve van het in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doel.
 
-#### Artikel 7. Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire
+##### Artikel 7. Commissie onderzoek uithuisplaatsingen in relatie tot de toeslagenaffaire
 
 1. Onze Minister verstrekt aan de commissie de lijst van UHP KOT-ouders en de lijst van UHP KOT-kinderen, ten behoeve van het in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01), genoemde doel. Onze Minister verstrekt de lijst van UHP KOT-ouders en de lijst van UHP KOT-kinderen aan de commissie tenminste zes weken na het doen van een ondersteuningsaanbod aan de UHP KOT-ouders.
 
@@ -132,7 +160,7 @@ De Belastingdienst/Toeslagen verstrekt aan Onze Minister de burgerservicenummers
 
 7. In het eindrapport van de commissie worden geen tot personen herleidbare gegevens opgenomen.
 
-#### Artikel 8. Vernietiging persoonsgegevens UHP KOT-ouders en UHP KOT-kinderen
+##### Artikel 8. Vernietiging persoonsgegevens UHP KOT-ouders en UHP KOT-kinderen
 
 1. Onmiddellijk na ontvangst van de op grond van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=6&z=2023-07-01&g=2023-07-01), verstrekte lijst van UHP KOT-kinderen, vernietigt de gecertificeerde instelling de persoonsgegevens van de UHP KOT-kinderen waarbij de gecertificeerde instelling niet betrokken is of is geweest.
 
@@ -140,7 +168,7 @@ De Belastingdienst/Toeslagen verstrekt aan Onze Minister de burgerservicenummers
 
 3. Onze Minister verwijdert de persoonsgegevens van een UHP KOT-kind van de lijst van UHP KOT-kinderen, op een daartoe strekkend verzoek van de UHP KOT-ouder van dat kind, op een daartoe strekkend verzoek van de wettelijk vertegenwoordiger van dat UHP KOT-kind jonger dan zestien jaren of op een daartoe strekkend verzoek van dat UHP KOT-kind van zestien jaren of ouder. Op verzoek van Onze Minister vernietigen de in deze wet genoemde organisaties de op grond van deze wet verstrekte persoonsgegevens van dat UHP KOT-kind van de lijst van UHP KOT-kinderen.
 
-#### Artikel 9. Rapportage over het gebruik van persoonlijke gegevens
+##### Artikel 9. Rapportage over het gebruik van persoonlijke gegevens
 
 Voordat Onze Minister en de in deze wet genoemde organisaties overgaan tot het vernietigen van de persoonsgegevens als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=10&z=2023-07-01&g=2023-07-01), stellen zij de UHP KOT-ouders en de UHP KOT-kinderen van wie de persoonsgegevens zijn gebruikt er schriftelijk in begrijpelijke taal van op de hoogte:
 
@@ -152,11 +180,11 @@ Voordat Onze Minister en de in deze wet genoemde organisaties overgaan tot het v
 
 - d. welke resultaten er bekend zijn naar aanleiding van reflectie of verricht onderzoek als bedoeld in [artikel 2, tweede lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0048336&artikel=2&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 10. Vernietiging persoonsgegevens vóór het vervallen van de wet
+##### Artikel 10. Vernietiging persoonsgegevens vóór het vervallen van de wet
 
 Onze Minister en de in deze wet genoemde organisaties vernietigen vóór het vervallen van de wet de op grond van deze wet verstrekte persoonsgegevens, de lijst van UHP KOT-kinderen en de lijst van UHP KOT-ouders.
 
-#### Artikel 11. Inwerkingtreding en verval
+##### Artikel 11. Inwerkingtreding en verval
 
 1. Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en vervalt op 1 januari 2025.
 
@@ -164,7 +192,7 @@ Onze Minister en de in deze wet genoemde organisaties vernietigen vóór het ver
 
 3. De voordracht voor het koninklijk besluit wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers van de Staten-Generaal is overgelegd.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze wet wordt aangehaald als: Tijdelijke wet uitwisseling persoonsgegevens UHP KOT.
 

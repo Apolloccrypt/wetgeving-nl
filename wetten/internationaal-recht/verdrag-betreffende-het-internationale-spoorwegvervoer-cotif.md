@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende het internationale spoorwegvervoer (COTIF)"
 identifier: "BWBV0004155"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004155"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004155"
+soort: "verdrag"
+stam_id: "10003977573"
+version_id: "10004127402"
+internal_id: "C10008368191"
+label_id: "10003965434"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004155/2025-01-01/0"
+intitule_bron: "Trb.2000-70"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-07-28"
+intitule_in_force: "2006-08-11"
+intitule_status: "goed"
+original_publication: "Trb.2000-70"
+original_published_date: "2000-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-70"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBV0004155&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBV0004155&g=2025-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2006-07-01"
 ---
-
 # Verdrag betreffende het internationale spoorwegvervoer (COTIF)
 
 Met toepassing van de artikelen 6 en 19, § 2 van het Verdrag betreffende het internationale spoorwegvervoer, ondertekend te Bern op 9 mei 1980, hierna te noemen „COTIF 1980”, heeft van 26 mei tot en met 3 juni 1999 te Vilnius de vijfde Algemene Vergadering van de Intergouvernementele organisatie voor het internationale spoorwegvervoer (OTIF) plaatsgevonden.
@@ -30,11 +52,11 @@ heeft de Algemene Vergadering het volgende besloten:
 
 De Franse tekst van het Verdrag is oorspronkelijk gepubliceerd in Trb. 1980/160. De vertaling is gepubliceerd in Trb. 1981/211. Het Verdrag is in werking getreden op 1 mei 1985, zie Trb. 1985/12. Het Verdrag is gewijzigd door Trb. 1991/6, Trb. 1991/142 en Trb. 1992/202.
 
-#### Artikel 1. Nieuwe versie van het Verdrag
+##### Artikel 1. Nieuwe versie van het Verdrag
 
 De COTIF 1980 wordt gewijzigd volgens de in de bijlage opgenomen versie, die een integrerend deel vormt van dit Protocol.
 
-#### Artikel 2. Voorlopige depositaris
+##### Artikel 2. Voorlopige depositaris
 
 § 1. De in de artikelen 22 tot en met 26 van de COTIF 1980 genoemde taken van de depositaris worden, vanaf de openstelling ter ondertekening van dit Protocol tot aan de datum van inwerkingtreding hiervan, door de OTIF als voorlopige depositaris vervuld.
 
@@ -46,7 +68,7 @@ De COTIF 1980 wordt gewijzigd volgens de in de bijlage opgenomen versie, die een
 
 en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
-#### Artikel 3. Ondertekening. Bekrachtiging. Aanvaarding. Goedkeuring. Toetreding
+##### Artikel 3. Ondertekening. Bekrachtiging. Aanvaarding. Goedkeuring. Toetreding
 
 § 1. Dit Protocol blijft tot en met 31 december 1999 openstaan voor ondertekening door de Lidstaten. Deze ondertekening vindt plaats te Bern bij de voorlopige depositaris.
 
@@ -56,17 +78,17 @@ en vervult de overige taken van de depositaris zoals vermeld in [Deel VII van he
 
 § 4. De toetreding van een Staat tot de COTIF 1980 overeenkomstig artikel 23 daarvan, waarvoor het verzoek is gedaan na de openstelling ter ondertekening van dit Protocol maar voor de inwerkingtreding hiervan, geldt zowel voor de COTIF 1980 als voor het Verdrag in de versie van de Bijlage bij dit Protocol.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 § 1. Dit Protocol treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de voorlopige depositaris de Lidstaten kennis heeft gegeven van de nederlegging van de akte waardoor de voorwaarden van artikel 20, § 2 van de COTIF 1980 zijn vervuld. Als Lidstaten in de zin van dit artikel 20, § 2 worden de Staten aangemerkt, die ten tijde van het besluit van de vijfde Algemene Vergadering Lidstaten waren en dit nog steeds zijn op het tijdstip waarop de voorwaarden voor de inwerkingtreding van dit Protocol zijn vervuld.
 
 § 2. [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=3&z=2025-01-01&g=2025-01-01) is evenwel van toepassing vanaf de openstelling ter ondertekening van dit Protocol.
 
-#### Artikel 5. Verklaringen en voorbehouden
+##### Artikel 5. Verklaringen en voorbehouden
 
 De in [artikel 42, § 1 van het Verdrag in de versie van de Bijlage bij dit Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01) bedoelde verklaringen en voorbehouden kunnen op elk tijdstip worden afgelegd of gemaakt, zelfs voor de inwerkingtreding van dit Protocol. Deze verklaringen en voorbehouden worden van kracht op het tijdstip van inwerkingtreding van dit Protocol.
 
-#### Artikel 6. Overgangsbepalingen
+##### Artikel 6. Overgangsbepalingen
 
 § 1. Uiterlijk zes maanden na de inwerkingtreding van dit Protocol roept de Secretaris-Generaal van de OTIF de Algemene Vergadering bijeen teneinde:
 
@@ -108,7 +130,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 9. De dwingende bepalingen van de Uniforme Regelen CUV en de Uniforme Regelen CUI zijn een jaar na de inwerkingtreding van dit Protocol van toepassing op de overeenkomsten die zijn gesloten voor de inwerkingtreding van dit Protocol.
 
-#### Artikel 7. Teksten van het Protocol
+##### Artikel 7. Teksten van het Protocol
 
 § 1. Dit Protocol is gesloten en ondertekend in de Duitse, de Engelse en de Franse taal. In geval van verschillen is de Franse tekst doorslaggevend.
 
@@ -116,7 +138,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Intergouvernementele organisatie
+##### Artikel 1. Intergouvernementele organisatie
 
 § 1. De Partijen bij dit Verdrag vormen, als Lidstaten, de Intergouvernementele organisatie voor het internationale spoorwegvervoer (OTIF), hierna genoemd „de Organisatie”.
 
@@ -130,7 +152,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 6. De werktalen van de Organisatie zijn het Duits, het Engels en het Frans. De Algemene Vergadering kan andere werktalen invoeren.
 
-#### Artikel 2. Doel van de Organisatie
+##### Artikel 2. Doel van de Organisatie
 
 § 1. De Organisatie heeft tot doel het internationale spoorwegverkeer in alle opzichten te bevorderen, te verbeteren en te vergemakkelijken, met name:
 
@@ -160,13 +182,13 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 - b. een kader vormen waarbinnen de Lidstaten andere internationale verdragen kunnen uitwerken die ten doel hebben het internationale spoorwegverkeer te bevorderen, te verbeteren en te vergemakkelijken.
 
-#### Artikel 3. Internationale samenwerking
+##### Artikel 3. Internationale samenwerking
 
 § 1. De Lidstaten verplichten zich ertoe hun internationale samenwerking op spoorweggebied in beginsel te concentreren binnen de Organisatie, voorzover er sprake is van een samenhang met de taken die haar overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2025-01-01&g=2025-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=4&z=2025-01-01&g=2025-01-01) zijn opgedragen. Teneinde dit doel te bereiken zullen de Lidstaten alle maatregelen treffen die nodig en nuttig zijn voor de aanpassing van de multilaterale internationale verdragen en overeenkomsten waarbij zij partij zijn, voorzover deze verdragen en overeenkomsten betrekking hebben op internationale samenwerking op spoorweggebied en deze aan andere intergouvernementele en niet-gouvernementele organisaties bevoegdheden overdragen, die samenvallen met de aan de Organisatie opgedragen taken.
 
 § 2. De uit § 1 voortvloeiende verplichtingen voor de Lidstaten, die tevens lid zijn van de Europese Gemeenschappen of als Staat partij zijn bij de [Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070), hebben geen voorrang op hun verplichtingen uit hoofde van hun lidmaatschap van de Europese Gemeenschappen of uit hoofde van hun hoedanigheid van Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 4. Overname en overdracht van bevoegdheden
+##### Artikel 4. Overname en overdracht van bevoegdheden
 
 § 1. De Organisatie is, bij besluit van de Algemene Vergadering, bevoegd, in overeenstemming met de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2025-01-01&g=2025-01-01) genoemde doelen, tot het overnemen van bevoegdheden, middelen en verplichtingen die aan haar worden overgedragen door andere intergouvernementele organisaties krachtens met deze organisaties gesloten overeenkomsten.
 
@@ -174,7 +196,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 3. De Organisatie kan, met goedkeuring van het Comité van Beheer, administratieve taken op zich nemen die verband houden met haar doelen en die haar door een Lidstaat worden toevertrouwd. De uitgaven van de Organisatie die verband houden met deze taken komen ten laste van de betrokken Lidstaat.
 
-#### Artikel 5. Bijzondere verplichtingen van de Lidstaten
+##### Artikel 5. Bijzondere verplichtingen van de Lidstaten
 
 § 1. De Lidstaten komen overeen alle nodige maatregelen te treffen teneinde het internationale spoorwegverkeer te vergemakkelijken en te bespoedigen. Hiertoe verplicht iedere Lidstaat zich ertoe, voorzover mogelijk:
 
@@ -188,7 +210,7 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 3. De Lidstaten komen overeen het sluiten van overeenkomsten tussen infrastructuurbeheerders te vergemakkelijken welke tot doel hebben het internationale spoorwegverkeer te optimaliseren.
 
-#### Artikel 6. Uniforme regelen
+##### Artikel 6. Uniforme regelen
 
 § 1. Het internationale spoorwegverkeer en de toelating van spoorwegmaterieel tot gebruik in het internationale verkeer, worden, voorzover er geen verklaringen of voorbehouden overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01) zijn afgelegd of gemaakt, geregeld door:
 
@@ -210,13 +232,13 @@ Deze bepaling is niet van toepassing op de Lidstaten die de minimale bijdrage ve
 
 § 2. De Uniforme Regelen, het Reglement en de stelsels genoemd in § 1 vormen met hun Bijlagen een integrerend deel van het Verdrag.
 
-#### Artikel 7. Omschrijving van het begrip „Verdrag”
+##### Artikel 7. Omschrijving van het begrip „Verdrag”
 
 In de onderstaande bepalingen wordt onder het begrip „Verdrag” verstaan: het eigenlijke Verdrag, het in [artikel 1, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2025-01-01&g=2025-01-01) bedoelde Protocol en de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=6&z=2025-01-01&g=2025-01-01) bedoelde Aanhangsels met hun Bijlagen.
 
 ## TITEL II. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 8. Nationaal recht
+##### Artikel 8. Nationaal recht
 
 § 1. Bij de interpretatie en de toepassing van het Verdrag zal rekening worden gehouden met de internationaal-rechtelijke aard ervan en met de noodzaak de uniformiteit te bevorderen.
 
@@ -224,7 +246,7 @@ In de onderstaande bepalingen wordt onder het begrip „Verdrag” verstaan: het
 
 § 3. Onder nationaal recht wordt verstaan het recht van de Staat waar de rechthebbende zijn rechten doet gelden, de conflictregels daaronder begrepen.
 
-#### Artikel 9. Rekeneenheid
+##### Artikel 9. Rekeneenheid
 
 § 1. De in de Aanhangsels bedoelde rekeneenheid is het Bijzondere Trekkingsrecht, zoals dit is omschreven door het Internationale Monetaire Fonds.
 
@@ -238,17 +260,17 @@ De Secretaris-Generaal geeft van deze mededelingen kennis aan de Lidstaten.
 
 § 5. Een bedrag uitgedrukt in rekeneenheden wordt omgerekend in de nationale munteenheid van de Staat van de rechtbank waarbij de zaak aanhangig is gemaakt. De omrekening vindt plaats overeenkomstig de waarde van de desbetreffende munteenheid op de dag van de rechterlijke beslissing of op de door de partijen overeengekomen dag.
 
-#### Artikel 10. Aanvullende bepalingen
+##### Artikel 10. Aanvullende bepalingen
 
 § 1. Twee of meer Lidstaten of twee of meer vervoerders kunnen voor de uitvoering van de Uniforme Regelen CIV en de Uniforme Regelen CIM aanvullende bepalingen overeenkomen, mits deze niet van deze Uniforme Regelen afwijken.
 
 § 2. De in § 1 bedoelde aanvullende bepalingen treden in werking en worden gepubliceerd op de bij de wetten en voorschriften van iedere Staat bepaalde wijze. De aanvullende bepalingen van Staten en hun inwerkingtreding worden aan de Secretaris-Generaal van de Organisatie medegedeeld. De Secretaris-Generaal geeft van deze mededelingen kennis aan de andere Lidstaten.
 
-#### Artikel 11. Gerechtelijke zekerheidstelling
+##### Artikel 11. Gerechtelijke zekerheidstelling
 
 De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter gelegenheid van rechtsvorderingen gegrond op de Uniforme Regelen CIV, de Uniforme Regelen CIM, de Uniforme Regelen CUV of de Uniforme Regelen CUI.
 
-#### Artikel 12. Tenuitvoerlegging van uitspraken. Beslaglegging
+##### Artikel 12. Tenuitvoerlegging van uitspraken. Beslaglegging
 
 § 1. De uitspraken die krachtens de bepalingen van het Verdrag, op tegenspraak of bij verstek, zijn gedaan door de bevoegde rechter en die volgens de door die rechter toegepaste wetten voor tenuitvoerlegging vatbaar zijn, kunnen ten uitvoer worden gelegd in ieder van de andere Lidstaten, zodra de formaliteiten die zijn voorgeschreven in de Staat waar de tenuitvoerlegging moet plaatsvinden, zijn vervuld. Toetsing van de zaak ten gronde is niet toegestaan. Deze bepalingen zijn eveneens van toepassing op gerechtelijke schikkingen.
 
@@ -262,7 +284,7 @@ De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter
 
 ## TITEL III. STRUCTUUR EN WERKING
 
-#### Artikel 13. Organen
+##### Artikel 13. Organen
 
 § 1. De werking van de Organisatie wordt verzekerd door de volgende organen:
 
@@ -286,7 +308,7 @@ De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter
 
 § 4. Het voorzitterschap van de Algemene Vergadering, het voorzitterschap van het Comité van Beheer alsmede de functie van Secretaris-Generaal moeten in beginsel worden toebedeeld aan onderdanen van verschillende Lidstaten.
 
-#### Artikel 14. Algemene Vergadering
+##### Artikel 14. Algemene Vergadering
 
 § 1. De Algemene Vergadering bestaat uit alle Lidstaten.
 
@@ -342,7 +364,7 @@ De zekerheidstelling voor de betaling van de kosten kan niet worden verlangd ter
 
 met een adviserende stem deelnemen aan de zittingen van de Algemene Vergadering.
 
-#### Artikel 15. Comité van Beheer
+##### Artikel 15. Comité van Beheer
 
 § 1. Het Comité van Beheer bestaat uit een derde van de Lidstaten.
 
@@ -408,7 +430,7 @@ met een adviserende stem deelnemen aan de zittingen van de Algemene Vergadering.
 
 § 10. Het Comité kan, binnen zijn eigen bevoegdheden, de voorzitter opdragen bepaalde specifieke taken uit te voeren.
 
-#### Artikel 16. Commissies
+##### Artikel 16. Commissies
 
 § 1. De in [artikel 13, § 1, onder c tot en met f en § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2025-01-01&g=2025-01-01) bedoelde Commissies zijn in beginsel samengesteld uit alle Lidstaten. Wanneer de Herzieningscommissie, de Commissie van RID-deskundigen of de Commissie van technisch deskundigen in het kader van hun bevoegdheden beraadslagen en besluiten over wijzigingen van de Aanhangsels bij het Verdrag, zijn de Lidstaten die, overeenkomstig [artikel 42, § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01), een verklaring hebben afgelegd met betrekking tot de desbetreffende Aanhangsels, geen lid van de betrokken Commissie.
 
@@ -442,7 +464,7 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 10. De Commissies stellen hun huishoudelijk reglement op.
 
-#### Artikel 17. Herzieningscommissie
+##### Artikel 17. Herzieningscommissie
 
 § 1. De Herzieningscommissie:
 
@@ -452,13 +474,13 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2025-01-01&g=2025-01-01)) van de Herzieningscommissie wordt bereikt wanneer de meerderheid van de Lidstaten hierin is vertegenwoordigd.
 
-#### Artikel 18. Commissie van RID-deskundigen
+##### Artikel 18. Commissie van RID-deskundigen
 
 § 1. De Commissie van RID-deskundigen besluit, overeenkomstig [artikel 33, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2025-01-01&g=2025-01-01), over voorstellen tot wijziging van het Verdrag.
 
 § 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2025-01-01&g=2025-01-01)) van de Commissie van RID-deskundigen wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
 
-#### Artikel 19. Commissie vergemakkelijking spoorwegverkeer
+##### Artikel 19. Commissie vergemakkelijking spoorwegverkeer
 
 § 1. De Commissie vergemakkelijking spoorwegverkeer:
 
@@ -468,7 +490,7 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 2. Het quorum ([artikel 13, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2025-01-01&g=2025-01-01)) van de Commissie vergemakkelijking spoorwegverkeer wordt bereikt wanneer een derde van de Lidstaten hierin is vertegenwoordigd.
 
-#### Artikel 20. Commissie van technisch deskundigen
+##### Artikel 20. Commissie van technisch deskundigen
 
 § 1. De Commissie van technisch deskundigen:
 
@@ -486,7 +508,7 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 3. De Commissie van technisch deskundigen kan hetzij technische normen verbindend verklaren of uniforme technische voorschriften aannemen, hetzij weigeren deze verbindend te verklaren of aan te nemen; de Commissie van technisch deskundigen kan de normen of voorschriften in geen geval wijzigen.
 
-#### Artikel 21. Secretaris-Generaal
+##### Artikel 21. Secretaris-Generaal
 
 § 1. De Secretaris-Generaal verzorgt de taken van het secretariaat van de Organisatie.
 
@@ -528,17 +550,17 @@ met een adviserende stem deelnemen aan de zittingen van de Commissies.
 
 § 4. De Secretaris-Generaal kan op eigen initiatief voorstellen doen tot wijziging van het Verdrag.
 
-#### Artikel 22. Personeel van de Organisatie
+##### Artikel 22. Personeel van de Organisatie
 
 De rechten en plichten van het personeel van de Organisatie worden vastgelegd in het door het Comité van Beheer overeenkomstig [artikel 15, § 5, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2025-01-01&g=2025-01-01) opgestelde statuut van het personeel.
 
-#### Artikel 23. Tijdschrift
+##### Artikel 23. Tijdschrift
 
 § 1. De Organisatie geeft een tijdschrift uit met officiële mededelingen alsmede mededelingen die voor de toepassing van het Verdrag noodzakelijk en nuttig zijn.
 
 § 2. De mededelingen die de Secretaris-Generaal krachtens het Verdrag moet doen, kunnen in voorkomend geval worden gedaan door middel van een publicatie in het tijdschrift.
 
-#### Artikel 24. Lijsten van de lijnen
+##### Artikel 24. Lijsten van de lijnen
 
 § 1. De in artikel 1 van de Uniforme Regelen CIV en Uniforme Regelen CIM bedoelde lijnen over zee en binnenwateren waarop, in aanvulling op een vervoer per spoor, vervoer plaatsvindt dat het onderwerp vormt van een en dezelfde overeenkomst, worden ingeschreven op twee lijsten:
 
@@ -560,7 +582,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 ## TITEL IV. FINANCIËN
 
-#### Artikel 25. Werkprogramma. Begroting. Rekeningen. Verslag
+##### Artikel 25. Werkprogramma. Begroting. Rekeningen. Verslag
 
 § 1. Het werkprogramma, de begroting en de rekeningen van de Organisatie hebben betrekking op een periode van twee kalenderjaren.
 
@@ -568,7 +590,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 § 3. De hoogte van de uitgaven van de Organisatie wordt voor iedere begrotingsperiode door het Comité van Beheer vastgesteld op voorstel van de Secretaris-Generaal.
 
-#### Artikel 26. Financiering van de uitgaven
+##### Artikel 26. Financiering van de uitgaven
 
 § 1. Behoudens de §§ 2 tot en met 4 worden de uitgaven van de Organisatie die niet door andere inkomsten worden gedekt, gedragen door de Lidstaten voor twee vijfde deel, op basis van de verdeelsleutel voor de bijdragen van het stelsel van de Verenigde Naties, en voor drie vijfde naar evenredigheid van de totale lengte van de spoorweginfrastructuur alsook van de overeenkomstig [artikel 24, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2025-01-01&g=2025-01-01) ingeschreven lijnen over zee en binnenwateren. De lijnen over zee en binnenwateren worden evenwel slechts gerekend voor de helft van hun lengte.
 
@@ -602,7 +624,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 § 11. De Organisatie heft een vergoeding ter dekking van de bijzondere kosten die voortvloeien uit de in [artikel 21, § 3, onder j tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=21&z=2025-01-01&g=2025-01-01) bedoelde werkzaamheden. In de in artikel 21, § 3, onder j en k bedoelde gevallen wordt deze vergoeding vastgesteld door het Comité van Beheer op voorstel van de Secretaris-Generaal; in het in artikel 21, § 3, onder l bedoelde geval is [artikel 31, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=31&z=2025-01-01&g=2025-01-01) van toepassing.
 
-#### Artikel 27. Controle van de boekhouding
+##### Artikel 27. Controle van de boekhouding
 
 § 1. Tenzij de Algemene Vergadering overeenkomstig [artikel 14, § 2, onder k](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=14&z=2025-01-01&g=2025-01-01), anders besluit, wordt de controle van de boekhouding uitgevoerd door de Lidstaat waar de zetel is gevestigd volgens de regels van dit artikel en, behoudens alle bijzondere richtlijnen van het Comité van Beheer, in overeenstemming met het reglement betreffende de financiën en de boekhouding van de Organisatie ([artikel 15, § 5, onder e](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=15&z=2025-01-01&g=2025-01-01)).
 
@@ -614,7 +636,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 ## TITEL V. ARBITRAGE
 
-#### Artikel 28. Bevoegdheid
+##### Artikel 28. Bevoegdheid
 
 § 1. De geschillen tussen de Lidstaten voortvloeiende uit de interpretatie of de toepassing van het Verdrag, alsmede de geschillen tussen de Lidstaten en de Organisatie voortvloeiende uit de interpretatie of de toepassing van het Protocol over de voorrechten en immuniteiten, kunnen, op verzoek van een van de partijen, worden voorgelegd aan een scheidsgerecht. De partijen zijn vrij te beslissen over de samenstelling van het scheidsgerecht en over de scheidsrechterlijke procedure.
 
@@ -624,7 +646,7 @@ De rechten en plichten van het personeel van de Organisatie worden vastgelegd in
 
 § 4. De Staat die een voorbehoud heeft gemaakt overeenkomstig § 3 kan dit voorbehoud te allen tijde intrekken door de depositaris hiervan op de hoogte te stellen. Deze intrekking wordt van kracht een maand na de datum waarop de depositaris hiervan kennis geeft aan de Lidstaten.
 
-#### Artikel 29. Arbitrageovereenkomst. Griffie
+##### Artikel 29. Arbitrageovereenkomst. Griffie
 
 De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt geregeld:
 
@@ -634,7 +656,7 @@ De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt ger
 
 - c. de overeengekomen plaats waar het scheidsgerecht zitting houdt. De arbitrageovereenkomst moet worden medegedeeld aan de Secretaris-Generaal, die optreedt als griffier.
 
-#### Artikel 30. Scheidsmannen
+##### Artikel 30. Scheidsmannen
 
 § 1. Er wordt een lijst van scheidsmannen opgesteld en bijgehouden door de Secretaris-Generaal. Iedere Lidstaat kan twee van zijn onderdanen op de lijst van scheidsmannen laten opnemen.
 
@@ -644,7 +666,7 @@ De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt ger
 
 § 4. De tussenkomst in het geschil door een derde partij heeft geen invloed op de samenstelling van het scheidsgerecht.
 
-#### Artikel 31. Procedure. Kosten
+##### Artikel 31. Procedure. Kosten
 
 § 1. Het scheidsgerecht stelt de te volgen procedure vast, waarbij met name rekening wordt gehouden met de volgende bepalingen:
 
@@ -660,7 +682,7 @@ De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt ger
 
 § 3. In de scheidsrechterlijke uitspraak worden de kosten en uitgaven vastgesteld en wordt beslist hoe deze alsmede de honoraria van de scheidsmannen tussen de partijen worden verdeeld.
 
-#### Artikel 32. Verjaring. Uitvoerbaarheid
+##### Artikel 32. Verjaring. Uitvoerbaarheid
 
 § 1. Het in werking stellen van de scheidsrechterlijke procedure heeft, wat de stuiting van de verjaring betreft, hetzelfde gevolg als dat voorzien in het materiële recht dat van toepassing is op het instellen van de vordering voor de gewone rechter.
 
@@ -668,7 +690,7 @@ De partijen sluiten een arbitrageovereenkomst, waarin in het bijzonder wordt ger
 
 ## TITEL VI. WIJZIGING VAN HET VERDRAG
 
-#### Artikel 33. Bevoegdheid
+##### Artikel 33. Bevoegdheid
 
 § 1. De Secretaris-Generaal brengt de door de Lidstaten aan hem gezonden of door hemzelf uitgewerkte voorstellen tot wijziging van het Verdrag onmiddellijk ter kennis van de Lidstaten.
 
@@ -698,7 +720,7 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 6. De Commissie van technisch deskundigen beslist over wijzigingsvoorstellen met betrekking tot de Bijlagen van de Uniforme Regelen APTU. Wanneer dergelijke voorstellen aan de Commissie van technisch deskundigen worden voorgelegd, kan een derde van de in de Commissie vertegenwoordigde Staten verlangen dat deze voorstellen ter beslissing aan de Algemene Vergadering worden voorgelegd.
 
-#### Artikel 34. Besluiten van de Algemene Vergadering
+##### Artikel 34. Besluiten van de Algemene Vergadering
 
 § 1. De wijzigingen van het Verdrag waartoe de Algemene Vergadering heeft besloten, worden door de Secretaris-Generaal ter kennis gebracht aan de Lidstaten.
 
@@ -714,7 +736,7 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 7. Wanneer de besluiten van de Algemene Vergadering betrekking hebben op de Aanhangsels bij het Verdrag, wordt de toepassing van het desbetreffende Aanhangsel volledig geschorst, vanaf het tijdstip waarop de besluiten in werking treden, voor het verkeer met en tussen de Lidstaten die zich overeenkomstig § 3 binnen de gestelde termijn tegen de besluiten hebben verzet. De Secretaris-Generaal geeft de Lidstaten kennis van deze schorsing; de schorsing eindigt na verloop van een maand, te rekenen van de datum waarop de Secretaris-Generaal de andere Lidstaten kennis heeft gegeven dat het verzet is ingetrokken.
 
-#### Artikel 35. Besluiten van de Commissies
+##### Artikel 35. Besluiten van de Commissies
 
 § 1. De wijzigingen van het Verdrag waartoe de Commissies hebben besloten, worden door de Secretaris-Generaal ter kennis gebracht aan de Lidstaten.
 
@@ -736,13 +758,13 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 ## TITEL VII. SLOTBEPALINGEN
 
-#### Artikel 36. Depositaris
+##### Artikel 36. Depositaris
 
 § 1. De Secretaris-Generaal is de depositaris van dit Verdrag. Zijn taken van depositaris zijn die welke worden vermeld in [Deel VII van het Verdrag van Wenen van 23 mei 1969 inzake het verdragenrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0003441&deel=VII).
 
 § 2. Wanneer tussen een Lidstaat en de depositaris een geschil rijst met betrekking tot de vervulling van de taken van de depositaris, brengt de depositaris of de betrokken Lidstaat deze kwestie onder de aandacht van de Lidstaten of legt hij, in voorkomend geval, deze ter beslissing voor aan het Comité van Beheer.
 
-#### Artikel 37. Toetreding tot het Verdrag
+##### Artikel 37. Toetreding tot het Verdrag
 
 § 1. De toetreding tot het Verdrag staat open voor iedere Staat op het grondgebied waarvan een spoorweginfrastructuur wordt geëxploiteerd.
 
@@ -754,7 +776,7 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 5. Behoudens [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01), kan elke toetreding tot het Verdrag slechts betrekking hebben op het Verdrag in de versie die geldt op het tijdstip waarop de toetreding van kracht wordt.
 
-#### Artikel 38. Toetreding door regionale organisaties voor economische integratie
+##### Artikel 38. Toetreding door regionale organisaties voor economische integratie
 
 § 1. De toetreding tot het Verdrag staat open voor regionale organisaties voor economische integratie die zelf de bevoegdheid hebben voor hun leden bindende wetgeving aan te nemen met betrekking tot de aangelegenheden die in dit Verdrag worden geregeld en waarvan een of meer Lidstaten lid zijn. De voorwaarden van deze toetreding worden vastgelegd in een overeenkomst tussen de Organisatie en de regionale organisatie.
 
@@ -764,7 +786,7 @@ Wanneer wijzigingsvoorstellen overeenkomstig onder a tot en met g aan de Herzien
 
 § 4. Voor de beëindiging van het lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
-#### Artikel 39. Geassocieerde leden
+##### Artikel 39. Geassocieerde leden
 
 § 1. Elke Staat op het grondgebied waarvan een spoorweginfrastructuur wordt geëxploiteerd, kan geassocieerd lid van de Organisatie worden. [Artikel 37, §§ 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=37&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
@@ -774,7 +796,7 @@ Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Behe
 
 § 3. Voor de beëindiging van het geassocieerd lidmaatschap is [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
-#### Artikel 40. Schorsing van het lidmaatschap
+##### Artikel 40. Schorsing van het lidmaatschap
 
 § 1. Een Lidstaat kan, zonder het Verdrag op te zeggen, een schorsing van zijn lidmaatschap van de Organisatie verzoeken, wanneer op zijn grondgebied geen internationaal spoorwegverkeer meer plaatsvindt en de redenen hiervoor niet aan deze Lidstaat zijn toe te schrijven.
 
@@ -790,35 +812,35 @@ Een geassocieerd lid kan niet worden aangewezen als lid van het Comité van Behe
 
 - c. het recht van bezwaar ingevolge [artikel 34, §§ 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2025-01-01&g=2025-01-01) en ingevolge [artikel 35, §§ 2 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2025-01-01&g=2025-01-01) wordt geschorst.
 
-#### Artikel 41. Opzegging van het Verdrag
+##### Artikel 41. Opzegging van het Verdrag
 
 § 1. Het Verdrag kan op elk tijdstip worden opgezegd.
 
 § 2. Elke Lidstaat die het Verdrag wenst op te zeggen, doet hiervan mededeling aan de depositaris. De opzegging wordt van kracht op 31 december van het volgende jaar.
 
-#### Artikel 42. Verklaringen en voorbehouden met betrekking tot het Verdrag
+##### Artikel 42. Verklaringen en voorbehouden met betrekking tot het Verdrag
 
 § 1. Iedere Lidstaat kan op elk tijdstip verklaren dat hij bepaalde Aanhangsels bij het Verdrag niet in hun geheel zal toepassen. Bovendien zijn voorbehouden alsook verklaringen dat bepaalde bepalingen van het Verdrag zelf of van de Aanhangsels daarbij niet worden toegepast, slechts toegestaan indien in dergelijke voorbehouden en verklaringen uitdrukkelijk wordt voorzien in de bepalingen zelf.
 
 § 2. De voorbehouden of de verklaringen worden gericht aan de depositaris. Zij worden van kracht op het tijdstip waarop het Verdrag voor de desbetreffende Staat in werking treedt. Elke verklaring die na deze inwerkingtreding wordt gedaan, wordt van kracht op 31 december van het jaar volgend op deze verklaring. De depositaris doet hiervan mededeling aan de Lidstaten.
 
-#### Artikel 43. Opheffing van de Organisatie
+##### Artikel 43. Opheffing van de Organisatie
 
 § 1. De Algemene Vergadering kan besluiten tot opheffing van de Organisatie en van de eventuele overdracht van haar bevoegdheden aan een andere intergouvernementele organisatie, waarbij zij voorzover nodig met deze organisatie de voorwaarden van deze overdracht vaststelt.
 
 § 2. In geval van opheffing van de Organisatie wordt haar vermogen verdeeld onder de Lidstaten die gedurende de vijf kalenderjaren voorafgaand aan het kalenderjaar, waarin het besluit ingevolge § 1 is genomen, zonder onderbreking lid van de Organisatie zijn geweest, een en ander naar evenredigheid van het percentage waarmee zij deze voorgaande vijf jaar hebben bijgedragen aan de uitgaven van de Organisatie.
 
-#### Artikel 44. Overgangsbepaling
+##### Artikel 44. Overgangsbepaling
 
 In de gevallen bedoeld in [artikel 34, § 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2025-01-01&g=2025-01-01), [artikel 35, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2025-01-01&g=2025-01-01), [artikel 41, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=41&z=2025-01-01&g=2025-01-01) en [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01), blijft het recht dat gold op het tijdstip van het sluiten van de overeenkomsten onderworpen aan de Uniforme Regelen CIV, de Uniforme Regelen CIM, de Uniforme Regelen CUV of de Uniforme Regelen CUI van toepassing op bestaande overeenkomsten.
 
-#### Artikel 45. Teksten van het Verdrag
+##### Artikel 45. Teksten van het Verdrag
 
 § 1. Het Verdrag is opgesteld in de Duitse, de Engelse en de Franse taal. In geval van verschillen is de Franse tekst doorslaggevend.
 
 § 2. Op voorstel van een van de betrokken Staten publiceert de Organisatie officiële vertalingen van het Verdrag in andere talen, voorzover een van deze talen een officiële taal is op het grondgebied van ten minste twee Lidstaten. Deze vertalingen worden verzorgd in samenwerking met de bevoegde diensten van de betrokken Lidstaten.
 
-#### Artikel 1. Immuniteit van rechtsmacht, executie en beslag
+##### Artikel 1. Immuniteit van rechtsmacht, executie en beslag
 
 § 1. In het kader van haar officiële werkzaamheden geniet de Organisatie immuniteit van rechtsmacht en executie behoudens:
 
@@ -832,11 +854,11 @@ In de gevallen bedoeld in [artikel 34, § 7](https://wetten.overheid.nl/jci1.3:c
 
 § 2. De tegoeden en andere vermogensbestanddelen van de Organisatie genieten, ongeacht waar deze zich bevinden, immuniteit ten aanzien van elke vorm van vordering, verbeurdverklaring, sekwester en andere vormen van beslag of dwangmaatregel, behalve voorzover deze tijdelijk vereist zijn ter voorkoming van ongevallen veroorzaakt door motorvoertuigen die toebehoren aan de Organisatie of die voor haar rekening rijden en de onderzoeken waartoe genoemde ongevallen aanleiding kunnen geven.
 
-#### Artikel 2. Bescherming tegen onteigening
+##### Artikel 2. Bescherming tegen onteigening
 
 Indien een onteigening om redenen van algemeen belang noodzakelijk is, moeten alle geschikte maatregelen worden genomen teneinde te voorkomen dat de onteigening een belemmering vormt voor de uitoefening van de werkzaamheden van de Organisatie en moet een voorafgaande, onmiddellijke en passende schadevergoeding worden betaald.
 
-#### Artikel 3. Vrijstelling van belastingen
+##### Artikel 3. Vrijstelling van belastingen
 
 § 1. Iedere Lidstaat stelt de Organisatie, haar vermogen en inkomsten voor de uitoefening van haar officiële werkzaamheden, vrij van directe belastingen. Wanneer aankopen of diensten van een aanzienlijk bedrag, die strikt noodzakelijk zijn voor de officiële werkzaamheden van de Organisatie, door de Organisatie worden verricht of gebruikt en wanneer in de prijs van deze aankopen of diensten heffingen of rechten zijn begrepen, nemen de Lidstaten, iedere keer als het mogelijk is, geschikte maatregelen met het oog op de vrijstelling van deze heffingen of rechten of de terugbetaling daarvan.
 
@@ -844,7 +866,7 @@ Indien een onteigening om redenen van algemeen belang noodzakelijk is, moeten al
 
 § 3. De goederen die overeenkomstig § 1 zijn verkregen mogen slechts verkocht, afgestaan of gebruikt worden onder de voorwaarden die zijn vastgesteld door de Lidstaat die de vrijstellingen heeft verleend.
 
-#### Artikel 4. Vrijstelling van rechten en heffingen
+##### Artikel 4. Vrijstelling van rechten en heffingen
 
 § 1. De goederen die door de Organisatie zijn ingevoerd of uitgevoerd en die noodzakelijk zijn voor de oefening van haar officiële werkzaamheden, zijn vrijgesteld van alle rechten en heffingen die geïnd worden bij de invoer of de uitvoer.
 
@@ -852,19 +874,19 @@ Indien een onteigening om redenen van algemeen belang noodzakelijk is, moeten al
 
 § 3. Artikel 3, § 3 is van overeenkomstige toepassing op de goederen die overeenkomstig § 1 zijn ingevoerd.
 
-#### Artikel 5. Officiële werkzaamheden
+##### Artikel 5. Officiële werkzaamheden
 
 De in dit Protocol bedoelde officiële werkzaamheden van de Organisatie zijn de werkzaamheden die overeenstemmen met de doelstellingen omschreven in [artikel 2 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=2&z=2025-01-01&g=2025-01-01) van de Organisatie.
 
-#### Artikel 6. Geldverkeer
+##### Artikel 6. Geldverkeer
 
 De Organisatie kan alle soorten geldmiddelen, deviezen, contant geld of waardepapieren ontvangen en bezitten. Zij kan daarover vrijelijk beschikken voor elk gebruik zoals voorzien in het Verdrag en rekeningen aanhouden in elke valuta voorzover nodig voor het nakomen van haar verplichtingen.
 
-#### Artikel 7. Berichtenverkeer
+##### Artikel 7. Berichtenverkeer
 
 Voor haar officiële berichtenverkeer en het overbrengen van al haar documenten geniet de Organisatie een behandeling die niet minder gunstig is dan die welke door iedere Lidstaat aan andere vergelijkbare internationale organisaties wordt verleend.
 
-#### Artikel 8. Voorrechten en immuniteiten van de vertegenwoordigers van de Staten
+##### Artikel 8. Voorrechten en immuniteiten van de vertegenwoordigers van de Staten
 
 De vertegenwoordigers van de Lidstaten genieten, in de uitoefening van hun functies en tijdens de duur van hun dienstreizen, op het grondgebied van iedere Lidstaat de volgende voorrechten en immuniteiten:
 
@@ -880,7 +902,7 @@ De vertegenwoordigers van de Lidstaten genieten, in de uitoefening van hun funct
 
 - f. dezelfde faciliteiten met betrekking tot de monetaire of de valutavoorschriften zoals verleend aan de vertegenwoordigers van buitenlandse Regeringen met een tijdelijke officiële opdracht.
 
-#### Artikel 9. Voorrechten en immuniteiten van de personeelsleden van de Organisatie
+##### Artikel 9. Voorrechten en immuniteiten van de personeelsleden van de Organisatie
 
 De personeelsleden van de Organisatie genieten, gedurende de uitoefening van hun functies, op het grondgebied van iedere Lidstaat de volgende voorrechten en immuniteiten:
 
@@ -896,7 +918,7 @@ De personeelsleden van de Organisatie genieten, gedurende de uitoefening van hun
 
 - f. in periode van internationale crisis, dezelfde faciliteiten van terugkeer naar het vaderland voor hen en hun familieleden die deel uitmaken van hun huishouden als die in het algemeen zijn verleend aan de personeelsleden van internationale organisaties.
 
-#### Artikel 10. Voorrechten en immuniteiten van de deskundigen
+##### Artikel 10. Voorrechten en immuniteiten van de deskundigen
 
 De deskundigen op wie de Organisatie een beroep doet, genieten, wanneer zij functies bij de Organisatie uitoefenen of opdrachten voor deze uitvoeren, met inbegrip van tijdens de in de uitoefening van deze functies of in het kader van die opdrachten verrichte reizen, de volgende voorrechten en immuniteiten, voorzover deze noodzakelijk zijn voor de uitoefening van hun functies:
 
@@ -908,7 +930,7 @@ De deskundigen op wie de Organisatie een beroep doet, genieten, wanneer zij func
 
 - d. dezelfde faciliteiten, met betrekking tot hun persoonlijke bagage, als die zijn verleend aan de vertegenwoordigers van buitenlandse Regeringen met een tijdelijke officiële opdracht.
 
-#### Artikel 11. Doel van de verleende voorrechten en immuniteiten
+##### Artikel 11. Doel van de verleende voorrechten en immuniteiten
 
 § 1. De in dit Protocol bedoelde voorrechten en immuniteiten zijn uitsluitend ingesteld teneinde, onder alle omstandigheden, het onbelemmerd functioneren van de Organisatie en de volledige onafhankelijkheid van de personen aan wie ze zijn verleend, te verzekeren. De bevoegde autoriteiten heffen elke immuniteit op in alle gevallen waarin de handhaving het optreden van de justitie kan belemmeren en waarin zij kan worden opgeheven zonder de verwezenlijking van het doel waartoe deze is verleend, aan te tasten.
 
@@ -920,13 +942,13 @@ De deskundigen op wie de Organisatie een beroep doet, genieten, wanneer zij func
 
 - c. de Secretaris-Generaal, ten aanzien van de andere personeelsleden van de Organisatie evenals ten aanzien van de deskundigen op wie de Organisatie een beroep doet.
 
-#### Artikel 12. Voorkoming van misbruik
+##### Artikel 12. Voorkoming van misbruik
 
 § 1. Geen enkele bepaling van dit Protocol kan afbreuk doen aan het recht van iedere Lidstaat om in het belang van zijn openbare veiligheid alle dienstige voorzorgsmaatregelen te nemen.
 
 § 2. De Organisatie werkt te allen tijde met de bevoegde autoriteiten van de Lidstaten samen met de bedoeling een goede rechtsgang te vergemakkelijken, de naleving van de wetten en voorschriften van de betrokken Lidstaten te verzekeren en elk misbruik te verhinderen waartoe de in dit Protocol bedoelde voorrechten en immuniteiten aanleiding zouden kunnen geven.
 
-#### Artikel 13. Behandeling van eigen onderdanen
+##### Artikel 13. Behandeling van eigen onderdanen
 
 Geen enkele Lidstaat is verplicht de voorrechten en immuniteiten genoemd:
 
@@ -938,13 +960,13 @@ Geen enkele Lidstaat is verplicht de voorrechten en immuniteiten genoemd:
 
 te verlenen aan zijn eigen onderdanen of aan de personen die in deze Staat hun permanente woonplaats hebben.
 
-#### Artikel 14. Aanvullende overeenkomsten
+##### Artikel 14. Aanvullende overeenkomsten
 
 De Organisatie kan met een of verscheidene Lidstaten aanvullende overeenkomsten sluiten met het oog op de toepassing van dit Protocol ten aanzien van deze Lidstaat of deze Lidstaten, alsook andere overeenkomsten met de bedoeling de goede werking van de Organisatie te verzekeren.
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 § 1. Deze Uniforme Regelen zijn van toepassing op elke overeenkomst van spoorwegvervoer van reizigers, onder bezwarende titel of om niet, wanneer de plaats van vertrek en de plaats van bestemming zijn gelegen in twee verschillende Lidstaten. Dit geldt ongeacht de woonplaats of zetel en de nationaliteit van de partijen bij de vervoerovereenkomst.
 
@@ -964,13 +986,13 @@ De Organisatie kan met een of verscheidene Lidstaten aanvullende overeenkomsten 
 
 § 7. De Staat die overeenkomstig § 6 een verklaring heeft afgelegd, kan die op elk tijdstip herroepen door hiervan mededeling te doen aan de depositaris. Deze herroeping wordt van kracht een maand na de dag waarop de depositaris de Lidstaten hiervan kennis heeft gegeven. De verklaring verliest haar werking, wanneer het in § 6, eerste volzin bedoelde verdrag voor die Staat buiten werking treedt.
 
-#### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van dood en letsel van reizigers
+##### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van dood en letsel van reizigers
 
 § 1. Iedere Staat kan op elk tijdstip verklaren dat hij alle bepalingen van deze Uniforme Regelen betreffende de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers niet zal toepassen op slachtoffers van een ongeval op zijn grondgebied, die zijn onderdanen zijn of hun gewone verblijfplaats hebben in deze Staat.
 
 § 2. De Staat die een verklaring overeenkomstig § 1 heeft afgelegd, kan deze op elk tijdstip herroepen door hiervan mededeling te doen aan de depositaris. Deze herroeping wordt van kracht een maand na de dag waarop de depositaris de Lidstaten hiervan kennis heeft gegeven.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -982,7 +1004,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - d. „voertuig”, motorvoertuig of aanhangwagen die ter gelegenheid van vervoer van reizigers wordt vervoerd.
 
-#### Artikel 4. Afwijkingen
+##### Artikel 4. Afwijkingen
 
 § 1. De Lidstaten kunnen overeenkomsten sluiten waarin van deze Uniforme Regelen wordt afgeweken voor vervoer dat uitsluitend wordt verricht tussen twee stations gelegen aan weerszijden van de grens, wanneer zich tussen deze stations en de grens geen ander station bevindt.
 
@@ -992,13 +1014,13 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 4. De in de §§ 1 tot en met 3 bedoelde overeenkomsten, alsmede hun inwerkingtreding worden medegedeeld aan de Intergouvernementele organisatie voor het internationale spoorwegvervoer. De Secretaris-Generaal van de Organisatie stelt de Lidstaten en de belanghebbende ondernemingen hiervan op de hoogte.
 
-#### Artikel 5. Dwingend recht
+##### Artikel 5. Dwingend recht
 
 Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding dat middellijk of onmiddellijk afwijkt van deze Uniforme Regelen nietig en zonder rechtsgevolgen. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bepalingen van de vervoerovereenkomst tot gevolg. Niettemin kan een vervoerder een zwaardere aansprakelijkheid en zwaardere verplichtingen op zich nemen dan die welke in deze Uniforme Regelen zijn bepaald.
 
 ## TITEL II. SLUITING EN UITVOERING VAN DE VERVOEROVEREENKOMST
 
-#### Artikel 6. Vervoerovereenkomst
+##### Artikel 6. Vervoerovereenkomst
 
 § 1. Op grond van de vervoerovereenkomst is de vervoerder verplicht de reiziger alsmede, in voorkomend geval, bagage en voertuigen te vervoeren naar de plaats van bestemming en de bagage en de voertuigen af te leveren op de plaats van bestemming.
 
@@ -1006,7 +1028,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 3. Het vervoerbewijs levert volledig bewijs, behoudens tegenbewijs, van het sluiten en de inhoud van de vervoerovereenkomst.
 
-#### Artikel 7. Vervoerbewijs
+##### Artikel 7. Vervoerbewijs
 
 § 1. De Algemene vervoervoorwaarden bepalen de vorm en de inhoud van de vervoerbewijzen, alsmede de taal waarin en de lettertekens waarmee zij moeten worden gedrukt en ingevuld.
 
@@ -1024,13 +1046,13 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 5. Het vervoerbewijs kan ook worden opgesteld in de vorm van elektronische registratie van gegevens, die kunnen worden omgezet in leesbare lettertekens. De voor de registratie en verwerking van de gegevens gebruikte procedures moeten uit functioneel oogpunt gelijkwaardig zijn, in het bijzonder wat betreft de bewijskracht van het vervoerbewijs, dat door deze elektronische gegevens wordt gevormd.
 
-#### Artikel 8. Betaling en terugbetaling van de vervoerprijs
+##### Artikel 8. Betaling en terugbetaling van de vervoerprijs
 
 § 1. Tenzij tussen de reiziger en de vervoerder anders is overeengekomen, moet de vervoerprijs vooraf worden betaald.
 
 § 2. De Algemene vervoervoorwaarden bepalen onder welke voorwaarden een terugbetaling van de vervoerprijs plaatsvindt.
 
-#### Artikel 9. Recht op vervoer. Uitsluiting van vervoer
+##### Artikel 9. Recht op vervoer. Uitsluiting van vervoer
 
 § 1. De reiziger moet vanaf het begin van de reis voorzien zijn van een geldig vervoerbewijs en dit bij een controle van de vervoerbewijzen tonen. De Algemene vervoervoorwaarden kunnen bepalen:
 
@@ -1048,11 +1070,11 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 van het vervoer zijn uitgesloten of onderweg van het vervoer kunnen worden uitgesloten en dat deze personen geen recht hebben op terugbetaling van de vervoerprijs, noch van de prijs die ze hebben betaald voor het vervoer van hun bagage.
 
-#### Artikel 10. Naleving van overheidsvoorschriften
+##### Artikel 10. Naleving van overheidsvoorschriften
 
 De reiziger moet de voorschriften van de douane of andere overheidsinstanties naleven.
 
-#### Artikel 11. Uitvallen en vertraging van een trein. Missen van een aansluiting
+##### Artikel 11. Uitvallen en vertraging van een trein. Missen van een aansluiting
 
 De vervoerder moet eventueel op het vervoerbewijs vermelden dat de trein is uitgevallen of de aansluiting is gemist.
 
@@ -1060,7 +1082,7 @@ De vervoerder moet eventueel op het vervoerbewijs vermelden dat de trein is uitg
 
 ### HOOFDSTUK I. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 12. Toegelaten voorwerpen en dieren
+##### Artikel 12. Toegelaten voorwerpen en dieren
 
 § 1. De reiziger mag, overeenkomstig de Algemene vervoervoorwaarden, makkelijk draagbare voorwerpen (handbagage) alsook levende dieren meenemen. Bovendien mag de reiziger voorwerpen van grote omvang meenemen, overeenkomstig de bijzondere bepalingen in de Algemene vervoervoorwaarden. Voorwerpen of dieren die voor de reizigers hinderlijk kunnen zijn of schade kunnen veroorzaken, zijn van het vervoer uitgesloten.
 
@@ -1070,25 +1092,25 @@ De vervoerder moet eventueel op het vervoerbewijs vermelden dat de trein is uitg
 
 § 4. Het vervoer van gevaarlijke goederen als handbagage, bagage in of op voertuigen die overeenkomstig deze Titel per spoor worden vervoerd, moet in overeenstemming zijn met het Reglement betreffende het internationale spoorwegvervoer van gevaarlijke goederen (RID).
 
-#### Artikel 13. Onderzoek
+##### Artikel 13. Onderzoek
 
 § 1. De vervoerder heeft bij een ernstig vermoeden van overtreding van de vervoervoorwaarden het recht te onderzoeken of de vervoerde voorwerpen (handbagage, bagage, voertuigen met inbegrip van hun lading) en dieren voldoen aan de vervoervoorwaarden, wanneer de wetten en voorschriften van de Staat waar het onderzoek moet plaatsvinden zulks niet verbieden. De reiziger moet worden verzocht bij het onderzoek aanwezig te zijn. Indien hij zich niet meldt of niet kan worden bereikt, moet de vervoerder een beroep doen op twee onafhankelijke getuigen.
 
 § 2. Wanneer wordt vastgesteld dat de vervoervoorwaarden niet zijn nageleefd, kan de vervoerder van de reiziger betaling verlangen van de kosten die in verband met het onderzoek zijn gemaakt.
 
-#### Artikel 14. Naleving van overheidsvoorschriften
+##### Artikel 14. Naleving van overheidsvoorschriften
 
 De reiziger moet tijdens zijn vervoer de voorschriften van de douane of andere overheidsinstanties met betrekking tot het vervoer van voorwerpen (handbagage, bagage, voertuigen met inbegrip van hun lading) en dieren, ter gelegenheid van zijn vervoer, naleven. Tenzij in de wetten en voorschriften van de desbetreffende Staat anders wordt bepaald, moet de reiziger bij het onderzoek van deze voorwerpen aanwezig zijn.
 
 ### HOOFDSTUK II. HANDBAGAGE EN DIEREN
 
-#### Artikel 15. Toezicht
+##### Artikel 15. Toezicht
 
 De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meeneemt.
 
 ### HOOFDSTUK III. BAGAGE
 
-#### Artikel 16. Aanbieding ten vervoer van bagage
+##### Artikel 16. Aanbieding ten vervoer van bagage
 
 § 1. De contractuele verplichtingen met betrekking tot het vervoer van bagage moeten worden vastgelegd in een bagagebewijs dat aan de reiziger wordt overhandigd.
 
@@ -1098,7 +1120,7 @@ De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meene
 
 § 4. Behoudens tegenbewijs wordt vermoed dat bij de inontvangstneming door de vervoerder de bagage in uiterlijk goede staat was en dat het aantal en de massa van de colli overeenkwamen met de vermelding op het bagagebewijs.
 
-#### Artikel 17. Bagagebewijs
+##### Artikel 17. Bagagebewijs
 
 § 1. De Algemene vervoervoorwaarden bepalen de vorm en de inhoud van het bagagebewijs, alsmede de taal waarin en de lettertekens waarmee het moet worden gedrukt en ingevuld. [Artikel 7, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=7&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
@@ -1112,7 +1134,7 @@ De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meene
 
 § 3. De reiziger moet er zich bij het in ontvangst nemen van het bagagebewijs van overtuigen, dat dit met zijn aanwijzingen overeenstemt.
 
-#### Artikel 18. Inschrijving en vervoer
+##### Artikel 18. Inschrijving en vervoer
 
 § 1. Behoudens in de Algemene vervoervoorwaarden bepaalde uitzonderingen, wordt bagage slechts ingeschreven op vertoon van een vervoerbewijs dat ten minste geldig is tot de plaats van bestemming van de bagage. De inschrijving geschiedt overigens volgens de op de plaats van verzending geldende voorschriften.
 
@@ -1120,11 +1142,11 @@ De reiziger moet toezicht uitoefenen op de handbagage en de dieren die hij meene
 
 § 3. De vervoerder kan de bagage met een andere trein of met een ander vervoermiddel en over een ander vervoertraject vervoeren dan die welke door de reiziger worden gebruikt.
 
-#### Artikel 19. Betaling van de prijs voor het vervoer van bagage
+##### Artikel 19. Betaling van de prijs voor het vervoer van bagage
 
 Tenzij tussen de reiziger en de vervoerder anders is overeengekomen, moet de prijs voor het vervoer van bagage worden betaald bij de inschrijving.
 
-#### Artikel 20. Merken van de bagage
+##### Artikel 20. Merken van de bagage
 
 De reiziger moet op een goed zichtbare plaats op ieder collo een houdbare en duidelijke aanduiding plaatsen van:
 
@@ -1132,13 +1154,13 @@ De reiziger moet op een goed zichtbare plaats op ieder collo een houdbare en dui
 
 - b. de plaats van bestemming.
 
-#### Artikel 21. Recht om over de bagage te beschikken
+##### Artikel 21. Recht om over de bagage te beschikken
 
 § 1. Indien de omstandigheden dit toestaan en de voorschriften van de douane of van andere overheidsinstanties zich daartegen niet verzetten, kan de reiziger om de teruggave van de bagage verzoeken op de plaats van verzending tegen afgifte van het bagagebewijs en, wanneer de Algemene vervoervoorwaarden zulks bepalen, op vertoon van het vervoerbewijs.
 
 § 2. In de Algemene vervoervoorwaarden kunnen andere bepalingen zijn opgenomen betreffende het recht om over de bagage te beschikken, in het bijzonder het wijzigen van de plaats van bestemming en de eventuele hieruit voortvloeiende financiële gevolgen voor de reiziger.
 
-#### Artikel 22. Aflevering
+##### Artikel 22. Aflevering
 
 § 1. De aflevering van bagage geschiedt tegen afgifte van het bagagebewijs en eventueel tegen betaling van de op de zending drukkende kosten. De vervoerder heeft het recht doch niet de verplichting te onderzoeken of de houder van het bagagebewijs bevoegd is tot inontvangstneming.
 
@@ -1162,11 +1184,11 @@ De reiziger moet op een goed zichtbare plaats op ieder collo een houdbare en dui
 
 ### HOOFDSTUK IV. VOERTUIGEN
 
-#### Artikel 23. Vervoervoorwaarden
+##### Artikel 23. Vervoervoorwaarden
 
 De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoervoorwaarden regelen met name de voorwaarden voor de toelating tot het vervoer, de inschrijving, de belading en het vervoer, het lossen en de aflevering, alsook de verplichtingen van de reiziger.
 
-#### Artikel 24. Vervoerbewijs
+##### Artikel 24. Vervoerbewijs
 
 § 1. De contractuele verplichtingen met betrekking tot het vervoer van voertuigen moeten worden vastgelegd in een vervoerbewijs dat aan de reiziger wordt overhandigd. Dit vervoerbewijs kan deel uitmaken van het vervoerbewijs van de reiziger.
 
@@ -1182,7 +1204,7 @@ De bijzondere bepalingen voor het vervoer van voertuigen in de Algemene vervoerv
 
 § 4. De reiziger moet zich bij het in ontvangst nemen van het vervoerbewijs ervan overtuigen, dat dit met zijn aanwijzingen overeenstemt.
 
-#### Artikel 25. Toepasselijk recht
+##### Artikel 25. Toepasselijk recht
 
 Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&z=2025-01-01&g=2025-01-01) betreffende het vervoer van bagage van toepassing op voertuigen.
 
@@ -1190,7 +1212,7 @@ Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III]
 
 ### HOOFDSTUK I. AANSPRAKELIJKHEID IN GEVAL VAN DOOD EN LETSEL VAN REIZIGERS
 
-#### Artikel 26. Aansprakelijkheidsgronden
+##### Artikel 26. Aansprakelijkheidsgronden
 
 § 1. De vervoerder is aansprakelijk voor de schade ten gevolge van dood, verwonding of elk ander lichamelijk of geestelijk letsel van de reiziger, veroorzaakt door een ongeval dat in verband met de uitoefening van het spoorwegbedrijf aan de reiziger is overkomen tijdens zijn verblijf in de spoorvoertuigen of bij het in- of uitstappen, ongeacht welke spoorweginfrastructuur wordt gebruikt.
 
@@ -1208,7 +1230,7 @@ Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III]
 
 § 5. Wanneer een vervoer dat het onderwerp vormt van een en dezelfde vervoerovereenkomst door opeenvolgende vervoerders wordt verricht, is in geval van dood en letsel van reizigers die vervoerder aansprakelijk, die volgens de vervoerovereenkomst verplicht is tot het uitvoeren van het vervoer gedurende welke het ongeval zich heeft voortgedaan. Wanneer het vervoer niet is verricht door de vervoerder maar door een ondervervoerder, zijn beide vervoerders overeenkomstig deze Uniforme Regelen hoofdelijk aansprakelijk.
 
-#### Artikel 27. Schadevergoeding in geval van dood
+##### Artikel 27. Schadevergoeding in geval van dood
 
 § 1. In geval van dood van de reiziger omvat de schadevergoeding:
 
@@ -1218,7 +1240,7 @@ Behoudens de bepalingen van dit hoofdstuk zijn de bepalingen van [Hoofdstuk III]
 
 § 2. Indien door de dood van de reiziger andere personen, jegens wie hij een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de reiziger zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
-#### Artikel 28. Schadevergoeding in geval van letsel
+##### Artikel 28. Schadevergoeding in geval van letsel
 
 In geval van verwonding of elk ander lichamelijk of geestelijk letsel van de reiziger omvat de schadevergoeding:
 
@@ -1226,17 +1248,17 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel van de rei
 
 - b. het vermogensnadeel dat de reiziger lijdt door een gehele of gedeeltelijke arbeidsongeschiktheid of door een toename van zijn behoeften.
 
-#### Artikel 29. Vergoeding van andere personenschade
+##### Artikel 29. Vergoeding van andere personenschade
 
 Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in de [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2025-01-01&g=2025-01-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2025-01-01&g=2025-01-01) bedoelde personenschade moet vergoeden.
 
-#### Artikel 30. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
+##### Artikel 30. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
 § 1. De in de [artikelen 27, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=27&z=2025-01-01&g=2025-01-01) en [28 onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=28&z=2025-01-01&g=2025-01-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de gewonde reiziger of de in artikel 27, § 2 bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per reiziger een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
-#### Artikel 31. Andere vervoermiddelen
+##### Artikel 31. Andere vervoermiddelen
 
 § 1. Behoudens § 2 zijn de bepalingen betreffende de aansprakelijkheid in geval van dood en letsel van reizigers niet van toepassing op schade die is ontstaan tijdens het vervoer dat overeenkomstig de vervoerovereenkomst geen spoorwegvervoer was.
 
@@ -1246,7 +1268,7 @@ Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in d
 
 ### HOOFDSTUK II. AANSPRAKELIJKHEID IN GEVAL VAN NIET-NAKOMING VAN DE DIENSTREGELING
 
-#### Artikel 32. Aansprakelijkheid in geval van uitvallen, vertraging van een trein of gemiste aansluiting
+##### Artikel 32. Aansprakelijkheid in geval van uitvallen, vertraging van een trein of gemiste aansluiting
 
 § 1. De vervoerder is jegens de reiziger aansprakelijk voor schade die het gevolg is van het feit dat door het uitvallen, door de vertraging van een trein of door het missen van een aansluiting de reis niet op dezelfde dag kan worden voortgezet, of dat de voortzetting hiervan als gevolg van de gegeven omstandigheden niet in redelijkheid kan worden verlangd. De schadevergoeding omvat de redelijke kosten voor overnachting en voor het waarschuwen van personen die de reiziger verwachten.
 
@@ -1264,23 +1286,23 @@ Het nationale recht bepaalt of en in welke mate de vervoerder andere dan de in d
 
 ### AFDELING 1. HANDBAGAGE EN DIEREN
 
-#### Artikel 33. Aansprakelijkheid
+##### Artikel 33. Aansprakelijkheid
 
 § 1. In geval van dood en letsel van reizigers is de vervoerder bovendien aansprakelijk voor de schade ten gevolge van het gehele of gedeeltelijke verlies of van beschadiging van voorwerpen die de reiziger bij zich droeg of als handbagage bij zich had; dit geldt eveneens voor de dieren die de reiziger meegenomen had. [Artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
 § 2. Overigens is de vervoerder slechts aansprakelijk voor schade ten gevolge van het gehele of gedeeltelijke verlies van voorwerpen, handbagage of dieren, waarover de reiziger overeenkomstig [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=II&artikel=15&z=2025-01-01&g=2025-01-01) verplicht is toezicht uit te oefenen, indien deze schade wordt veroorzaakt door schuld van de vervoerder. De overige artikelen van Titel IV, met uitzondering van [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=IV&artikel=51&z=2025-01-01&g=2025-01-01), en Titel VI zijn in dit geval niet van toepassing.
 
-#### Artikel 34. Beperking van schadevergoeding in geval van verlies of beschadiging van voorwerpen
+##### Artikel 34. Beperking van schadevergoeding in geval van verlies of beschadiging van voorwerpen
 
 Wanneer de vervoerder krachtens [artikel 33, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=1&artikel=33&z=2025-01-01&g=2025-01-01) aansprakelijk is, moet hij de schade vergoeden tot ten hoogste 1400 rekeneenheden per reiziger.
 
-#### Artikel 35. Ontheffing van aansprakelijkheid
+##### Artikel 35. Ontheffing van aansprakelijkheid
 
 De vervoerder is jegens de reiziger niet aansprakelijk voor schade ten gevolge van het feit dat de reiziger de voorschriften van de douane of van andere overheidsinstanties niet heeft nageleefd.
 
 ### AFDELING 2. BAGAGE
 
-#### Artikel 36. Aansprakelijkheidsgronden
+##### Artikel 36. Aansprakelijkheidsgronden
 
 § 1. De vervoerder is aansprakelijk voor de schade ten gevolge van geheel of gedeeltelijk verlies of beschadiging van de bagage vanaf de aanneming ten vervoer tot aan de aflevering, alsmede ten gevolge van de vertraging in de aflevering.
 
@@ -1294,17 +1316,17 @@ De vervoerder is jegens de reiziger niet aansprakelijk voor schade ten gevolge v
 
 - c. de inschrijving van voorwerpen als bagage, die van het vervoer zijn uitgesloten.
 
-#### Artikel 37. Bewijslast
+##### Artikel 37. Bewijslast
 
 § 1. Het bewijs dat het verlies, de beschadiging of de vertraging in de aflevering door een van de in [artikel 36, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2025-01-01&g=2025-01-01) genoemde feiten is veroorzaakt, rust op de vervoerder.
 
 § 2. Wanneer de vervoerder bewijst dat het verlies of de beschadiging, gelet op de omstandigheden van het geval, kan zijn ontstaan uit een of meer van de in [artikel 36, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&artikel=36&z=2025-01-01&g=2025-01-01) genoemde bijzondere risico's, wordt vermoed dat het verlies of de beschadiging daardoor is veroorzaakt. De rechthebbende heeft evenwel het recht te bewijzen dat de schade geheel of gedeeltelijk niet door een van deze risico's is veroorzaakt.
 
-#### Artikel 38. Opvolgende vervoerders
+##### Artikel 38. Opvolgende vervoerders
 
 Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereenkomst, door meer opvolgende vervoerders wordt verricht, treedt iedere vervoerder door het overnemen van de bagage met het bagagebewijs of door het overnemen van het voertuig met het vervoerbewijs, met betrekking tot het vervoer van de bagage of van de voertuigen, toe tot de vervoerovereenkomst overeenkomstig de bepalingen van het bagagebewijs of het vervoerbewijs en neemt hij de daaruit voortvloeiende verplichtingen op zich. In dit geval is iedere vervoerder aansprakelijk voor de uitvoering van het vervoer op het gehele vervoertraject tot aan de aflevering.
 
-#### Artikel 39. Ondervervoerder
+##### Artikel 39. Ondervervoerder
 
 § 1. Wanneer de vervoerder de uitvoering van het vervoer geheel of gedeeltelijk heeft toevertrouwd aan een ondervervoerder, al dan niet op grond van een aan hem in de vervoerovereenkomst toegekende bevoegdheid, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer.
 
@@ -1318,7 +1340,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 6. Dit artikel doet geen afbreuk aan de mogelijke regresrechten tussen de vervoerder en de ondervervoerder.
 
-#### Artikel 40. Vermoeden van verlies
+##### Artikel 40. Vermoeden van verlies
 
 § 1. De rechthebbende kan zonder nader bewijs een collo als verloren beschouwen, wanneer het niet binnen 14 dagen na het overeenkomstig [artikel 22, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=22&z=2025-01-01&g=2025-01-01) gedane verzoek tot aflevering aan hem is afgeleverd of te zijner beschikking is gesteld.
 
@@ -1328,7 +1350,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 4. Indien het teruggevonden collo niet binnen de in § 3 bedoelde termijn is opgeëist of indien het collo meer dan een jaar na het verzoek tot aflevering wordt teruggevonden, beschikt de vervoerder daarover overeenkomstig de wetten en voorschriften die gelden op de plaats waar het collo zich bevindt.
 
-#### Artikel 41. Schadevergoeding in geval van verlies
+##### Artikel 41. Schadevergoeding in geval van verlies
 
 § 1. In geval van geheel of gedeeltelijk verlies van bagage moet de vervoerder, met uitsluiting van elke andere schadevergoeding, betalen:
 
@@ -1340,7 +1362,7 @@ De wijze van vergoeding, per ontbrekend kilogram of per collo, wordt in de Algem
 
 § 2. De vervoerder moet bovendien de vervoerprijs van de bagage en de overige ter zake van het vervoer van het verloren collo betaalde bedragen, alsook de reeds betaalde douanerechten en accijnzen terugbetalen.
 
-#### Artikel 42. Schadevergoeding in geval van beschadiging
+##### Artikel 42. Schadevergoeding in geval van beschadiging
 
 § 1. In geval van beschadiging van bagage moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen gelijk aan de waardevermindering van de bagage.
 
@@ -1350,7 +1372,7 @@ De wijze van vergoeding, per ontbrekend kilogram of per collo, wordt in de Algem
 
 - b. indien slechts een gedeelte van de bagage door de beschadiging in waarde is verminderd, het in geval van verlies van het in waarde verminderde gedeelte te betalen bedrag.
 
-#### Artikel 43. Schadevergoeding in geval van vertraging in de aflevering
+##### Artikel 43. Schadevergoeding in geval van vertraging in de aflevering
 
 § 1. In geval van vertraging in de aflevering van de bagage moet de vervoerder voor elk ondeelbaar tijdvak van 24 uur te rekenen vanaf het verzoek tot aflevering, doch met een maximum van 14 dagen, betalen:
 
@@ -1370,33 +1392,33 @@ De wijze van vergoeding, per kilogram of per collo, wordt in de Algemene vervoer
 
 ### AFDELING 3. VOERTUIGEN
 
-#### Artikel 44. Schadevergoeding in geval van vertraging
+##### Artikel 44. Schadevergoeding in geval van vertraging
 
 § 1. In geval van aan de vervoerder te wijten vertraging bij het laden of in geval van vertraging bij de aflevering van een voertuig moet de vervoerder, wanneer de rechthebbende bewijst dat daardoor een schade is ontstaan, een schadevergoeding betalen die niet meer kan bedragen dan de vervoerprijs van het voertuig.
 
 § 2. Indien de rechthebbende, in geval van aan de vervoerder te wijten vertraging bij het laden, afziet van uitvoering van de vervoerovereenkomst wordt de vervoerprijs aan hem terugbetaald. Bovendien kan hij, wanneer hij bewijst dat door deze vertraging schade is ontstaan, een schadevergoeding eisen die niet meer kan bedragen dan de vervoerprijs.
 
-#### Artikel 45. Schadevergoeding in geval van verlies
+##### Artikel 45. Schadevergoeding in geval van verlies
 
 Bij geheel of gedeeltelijk verlies van een voertuig wordt de aan de rechthebbende voor de bewezen schade te betalen schadevergoeding berekend volgens de gebruikelijke waarde van het voertuig. Deze vergoeding kan niet meer dan 8000 rekeneenheden bedragen. Een al dan niet beladen aanhangwagen wordt als een afzonderlijk voertuig beschouwd.
 
-#### Artikel 46. Aansprakelijkheid met betrekking tot andere voorwerpen
+##### Artikel 46. Aansprakelijkheid met betrekking tot andere voorwerpen
 
 § 1. Met betrekking tot voorwerpen achtergelaten in het voertuig of in stevig aan het voertuig bevestigde houders (bijvoorbeeld dakkoffers voor bagage of ski's) is de vervoerder slechts aansprakelijk voor door zijn schuld veroorzaakte schade. De totale schadevergoeding bedraagt niet meer dan 1400 rekeneenheden.
 
 § 2. Met betrekking tot aan de buitenkant van het voertuig bevestigde voorwerpen, met inbegrip van de in § 1 bedoelde houders, is de vervoerder slechts aansprakelijk indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 47. Toepasselijk recht
+##### Artikel 47. Toepasselijk recht
 
 Behoudens de bepalingen van deze Afdeling zijn de bepalingen van [Afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=III&afdeling=2&z=2025-01-01&g=2025-01-01) met betrekking tot de aansprakelijkheid voor bagage van toepassing op voertuigen.
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 48. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 48. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de bepalingen van het nationale recht die de vergoedingen tot een bepaald bedrag beperken, zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 49. Omrekening en rente
+##### Artikel 49. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers die geldt op de dag en de plaats van betaling van de schadevergoeding.
 
@@ -1408,15 +1430,15 @@ De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de
 
 § 5. Met betrekking tot bagage loopt de rente niet, indien de rechthebbende niet binnen een hem gestelde redelijke termijn de voor de definitieve regeling van de vordering nodige bewijsstukken aan de vervoerder overlegt, tussen de afloop van deze termijn en de daadwerkelijke overlegging van de stukken.
 
-#### Artikel 50. Aansprakelijkheid in geval van een kernongeval
+##### Artikel 50. Aansprakelijkheid in geval van een kernongeval
 
 De vervoerder is ontheven van de krachtens deze Uniforme Regelen op hem rustende aansprakelijkheid, wanneer de schade is veroorzaakt door een kernongeval en wanneer de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten en voorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 51. Personen voor wie de vervoerder aansprakelijk is
+##### Artikel 51. Personen voor wie de vervoerder aansprakelijk is
 
 De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen van wier diensten hij gebruik maakt bij de uitvoering van het vervoer, wanneer deze ondergeschikten of andere personen handelen in de uitoefening van hun werkzaamheden. De beheerders van de spoorweginfrastructuur waarop het vervoer wordt verricht, worden beschouwd als personen van wier diensten de vervoerder gebruik maakt bij de uitvoering van het vervoer.
 
-#### Artikel 52. Andere vorderingen
+##### Artikel 52. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
@@ -1424,7 +1446,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 ## TITEL V. AANSPRAKELIJKHEID VAN DE REIZIGER
 
-#### Artikel 53. Bijzondere aansprakelijkheidsgronden
+##### Artikel 53. Bijzondere aansprakelijkheidsgronden
 
 De reiziger is jegens de vervoerder aansprakelijk voor alle schade:
 
@@ -1444,7 +1466,7 @@ tenzij hij bewijst dat de schade een gevolg is van omstandigheden die hij, ondan
 
 ## TITEL VI. UITOEFENING VAN RECHTEN
 
-#### Artikel 54. Vaststelling van gedeeltelijk verlies of beschadiging
+##### Artikel 54. Vaststelling van gedeeltelijk verlies of beschadiging
 
 § 1. Wanneer een gedeeltelijk verlies of een beschadiging van een voorwerp dat onder de hoede van de vervoerder wordt vervoerd (bagage, voertuigen), door de vervoerder wordt ontdekt of vermoed of door de rechthebbende wordt beweerd, moet de vervoerder onverwijld en zo mogelijk in aanwezigheid van de rechthebbende een proces-verbaal opmaken dat naargelang de aard van de schade, de toestand van het voorwerp en zo mogelijk de omvang, de oorzaak en het tijdstip van ontstaan van de schade vermeldt.
 
@@ -1452,7 +1474,7 @@ tenzij hij bewijst dat de schade een gevolg is van omstandigheden die hij, ondan
 
 § 3. Wanneer de rechthebbende niet met de vermeldingen in het proces-verbaal instemt, kan hij verlangen dat de toestand van de bagage of van het voertuig alsmede de oorzaak en het bedrag van de schade worden vastgesteld door een door de partijen bij de vervoerovereenkomst of door de rechter benoemde deskundige. De procedure is onderworpen aan de wetten en voorschriften van de Staat waar de vaststelling geschiedt.
 
-#### Artikel 55. Vorderingen buiten rechte
+##### Artikel 55. Vorderingen buiten rechte
 
 § 1. Vorderingen buiten rechte met betrekking tot de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers moeten schriftelijk worden ingediend bij de vervoerder tegen wie de rechtsvordering kan worden ingesteld.
 
@@ -1462,7 +1484,7 @@ Wanneer het een vervoer betreft dat het onderwerp vormt van een en dezelfde over
 
 § 3. De stukken die de rechthebbende bij zijn vordering buiten rechte wil voegen, moeten worden overgelegd in origineel of, in voorkomend geval op verzoek van de vervoerder, in een naar behoren gewaarmerkt afschrift. Bij de regeling van de vordering buiten rechte kan de vervoerder de teruggave van het vervoerbewijs, het bagagebewijs en het vervoerbewijs van het voertuig verlangen.
 
-#### Artikel 56. Vervoerders die in rechte kunnen worden aangesproken
+##### Artikel 56. Vervoerders die in rechte kunnen worden aangesproken
 
 § 1. De op de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers gegronde rechtsvordering kan slechts worden ingesteld tegen een krachtens [artikel 26, § 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=IV&hoofdstuk=I&artikel=26&z=2025-01-01&g=2025-01-01) aansprakelijke vervoerder.
 
@@ -1478,13 +1500,13 @@ Wanneer het een vervoer betreft dat het onderwerp vormt van een en dezelfde over
 
 § 7. Indien de eiser de keuze heeft tussen meer vervoerders, vervalt zijn keuzerecht zodra de rechtsvordering tegen een van hen is ingesteld; dit geldt eveneens indien de eiser de keuze heeft tussen een of meer vervoerders en een ondervervoerder.
 
-#### Artikel 57. Rechtsmacht
+##### Artikel 57. Rechtsmacht
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen kunnen worden ingesteld bij de rechterlijke instanties van de door de partijen in onderlinge overeenstemming aangewezen Lidstaten of bij de rechter van de Lidstaat op wiens grondgebied de verweerder zijn woonplaats of gewone verblijfplaats, zijn hoofdzetel of bijkantoor of vestiging waar de vervoerovereenkomst is gesloten, heeft. Het instellen van een rechtsvordering bij een andere rechter is niet mogelijk.
 
 § 2. Wanneer een op deze Uniforme Regelen gegronde rechtsvordering aanhangig is bij een in § 1 bedoelde bevoegde rechterlijke instantie of wanneer in een dergelijk geschil deze rechter uitspraak heeft gedaan, kan geen nieuwe rechtsvordering worden ingesteld voor dezelfde zaak tussen dezelfde partijen, tenzij de uitspraak van de rechter bij wie de eerste rechtsvordering is ingesteld niet ten uitvoer kan worden gelegd in de Staat waar de nieuwe rechtsvordering is ingesteld.
 
-#### Artikel 58. Verval van de vordering in geval van dood en letsel
+##### Artikel 58. Verval van de vordering in geval van dood en letsel
 
 § 1. Elke vordering van de rechthebbende, gegrond op de aansprakelijkheid van de vervoerder in geval van dood of letsel van reizigers, vervalt indien hij niet binnen twaalf maanden, te rekenen vanaf het ogenblik dat hij kennis heeft van de schade, het aan de reiziger overkomen ongeval heeft meegedeeld aan een van de vervoerders, bij wie een vordering buiten rechte kan worden ingesteld volgens [artikel 55, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=55&z=2025-01-01&g=2025-01-01).
 
@@ -1500,7 +1522,7 @@ Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerde
 
 - d. de rechthebbende bewijst dat het ongeval is veroorzaakt door de schuld van de vervoerder.
 
-#### Artikel 59. Verval van de vordering uit bagagevervoer
+##### Artikel 59. Verval van de vordering uit bagagevervoer
 
 § 1. Door de inontvangstneming van de bagage door de rechthebbende vervalt elke vordering uit de vervoerovereenkomst tegen de vervoerder in geval van gedeeltelijk verlies, beschadiging of vertraging in de aflevering.
 
@@ -1522,7 +1544,7 @@ Wanneer de rechthebbende het ongeval mondeling heeft meegedeeld aan de vervoerde
 
 - d. indien de rechthebbende bewijst dat de schade het gevolg is van de schuld van de vervoerder.
 
-#### Artikel 60. Verjaring
+##### Artikel 60. Verjaring
 
 § 1. De op de aansprakelijkheid van de vervoerder in geval van dood en letsel van reizigers gegronde rechtsvorderingen tot schadevergoeding verjaren:
 
@@ -1550,13 +1572,13 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ## TITEL VII. ONDERLINGE BETREKKINGEN TUSSEN DE VERVOERDERS
 
-#### Artikel 61. Verdeling van de vervoerprijs
+##### Artikel 61. Verdeling van de vervoerprijs
 
 § 1. Elke vervoerder moet aan de betrokken vervoerders het hun toekomende aandeel betalen van een vervoerprijs, die hij heeft geïnd of had moet innen. De wijze van betaling wordt in een overeenkomst tussen de vervoerders vastgelegd.
 
 § 2. [Artikel 6, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=6&z=2025-01-01&g=2025-01-01), [artikel 16, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=III&artikel=16&z=2025-01-01&g=2025-01-01) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&hoofdstuk=IV&artikel=25&z=2025-01-01&g=2025-01-01) zijn eveneens van toepassing op de betrekkingen tussen opvolgende vervoerders.
 
-#### Artikel 62. Recht van regres
+##### Artikel 62. Recht van regres
 
 § 1. De vervoerder die krachtens deze Uniforme Regelen een schadevergoeding heeft betaald, heeft recht van regres jegens de bij het vervoer betrokken vervoerders overeenkomstig de volgende bepalingen:
 
@@ -1568,7 +1590,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 § 2. In geval van onvermogen om te betalen van een van de vervoerders wordt het te zijnen laste komende en door hem niet betaalde aandeel onder de andere bij het vervoer betrokken vervoerders verdeeld naar evenredigheid van het aandeel in de vervoerprijs dat aan elk van hen toekomt.
 
-#### Artikel 63. Regres-procedure
+##### Artikel 63. Regres-procedure
 
 § 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2025-01-01&g=2025-01-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
 
@@ -1582,13 +1604,13 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 § 6. Regresvorderingen kunnen niet aanhangig worden gemaakt door het instellen van een rechtsvordering in het geding dat de rechthebbende heeft ingesteld om schadevergoeding te verlangen op grond van de vervoerovereenkomst.
 
-#### Artikel 64. Overeenkomsten betreffende regres
+##### Artikel 64. Overeenkomsten betreffende regres
 
 De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 61](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=61&z=2025-01-01&g=2025-01-01) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=62&z=2025-01-01&g=2025-01-01).
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 § 1. Deze Uniforme Regelen zijn van toepassing op elke overeenkomst van spoorwegvervoer van goederen onder bezwarende titel, wanneer de plaats waar de goederen ten vervoer worden aangenomen en de voor de aflevering voorgeschreven plaats zijn gelegen in twee verschillende Lidstaten. Dit geldt ongeacht de zetel en de nationaliteit van de partijen bij de vervoerovereenkomst.
 
@@ -1608,11 +1630,11 @@ De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [ar
 
 § 7. De Staat die overeenkomstig § 6 een verklaring heeft afgelegd, kan die op elk tijdstip herroepen door hiervan mededeling te doen aan de depositaris. Deze herroeping wordt van kracht een maand na de dag waarop de depositaris de Lidstaten hiervan kennis heeft gegeven. De verklaring verliest haar werking, wanneer het in § 6, eerste volzin bedoelde verdrag voor die Staat buiten werking treedt.
 
-#### Artikel 2. Bepalingen van publiek recht
+##### Artikel 2. Bepalingen van publiek recht
 
 Vervoer waarop deze Uniforme Regelen van toepassing zijn, blijft onderworpen aan de bepalingen van publiek recht, in het bijzonder aan de bepalingen betreffende het vervoer van gevaarlijke goederen, de bepalingen betreffende de douanewetgeving en dierenbescherming.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -1624,7 +1646,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - d. „intermodale transporteenheid”: containers, wissellaadbakken, opleggers of andere soortgelijke bij intermodaal vervoer gebruikte laadeenheden.
 
-#### Artikel 4. Afwijkingen
+##### Artikel 4. Afwijkingen
 
 § 1. De Lidstaten kunnen overeenkomsten sluiten waarin van deze Uniforme Regelen wordt afgeweken voor vervoer dat uitsluitend wordt verricht tussen twee stations gelegen aan weerszijden van de grens, wanneer zich tussen deze stations en de grens geen ander station bevindt.
 
@@ -1632,13 +1654,13 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 3. De in de §§ 1 en 2 bedoelde overeenkomsten, alsmede hun inwerkingtreding worden medegedeeld aan de Intergouvernementele organisatie voor het internationale spoorwegvervoer. De Secretaris-Generaal van de Organisatie stelt de Lidstaten en de belanghebbende ondernemingen hiervan op de hoogte.
 
-#### Artikel 5. Dwingend recht
+##### Artikel 5. Dwingend recht
 
 Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding dat middellijk of onmiddellijk afwijkt van deze Uniforme Regelen nietig en zonder rechtsgevolgen. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bepalingen van de vervoerovereenkomst tot gevolg. Niettemin kan een vervoerder een zwaardere aansprakelijkheid en zwaardere verplichtingen op zich nemen dan die welke in deze Uniforme Regelen zijn bepaald.
 
 ## TITEL II. SLUITING EN UITVOERING VAN DE VERVOEROVEREENKOMST
 
-#### Artikel 6. Vervoerovereenkomst
+##### Artikel 6. Vervoerovereenkomst
 
 § 1. Op grond van de vervoerovereenkomst is de vervoerder verplicht onder bezwarende titel de goederen naar de plaats van bestemming te vervoeren en ze daar aan de geadresseerde af te leveren.
 
@@ -1658,7 +1680,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 9. De vrachtbrief, met inbegrip van de duplicaat-vrachtbrief, kan ook worden opgesteld in de vorm van elektronische registratie van gegevens, die kunnen worden omgezet in leesbare lettertekens. De voor de registratie en verwerking van de gegevens gebruikte procedures moeten uit functioneel oogpunt gelijkwaardig zijn, in het bijzonder wat betreft de bewijskracht van de vrachtbrief, die door deze elektronische gegevens wordt gevormd.
 
-#### Artikel 7. Inhoud van de vrachtbrief
+##### Artikel 7. Inhoud van de vrachtbrief
 
 § 1. De vrachtbrief moet de volgende aanduidingen bevatten:
 
@@ -1714,7 +1736,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 3. In de vrachtbrief kunnen de partijen bij de vervoerovereenkomst andere aanduidingen opnemen die zij nuttig achten.
 
-#### Artikel 8. Aansprakelijkheid voor de aanduidingen op de vrachtbrief
+##### Artikel 8. Aansprakelijkheid voor de aanduidingen op de vrachtbrief
 
 § 1. De afzender is aansprakelijk voor alle kosten en schade, die bij de vervoerder ontstaan ten gevolge van:
 
@@ -1726,17 +1748,17 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 3. Indien de vrachtbrief de in artikel 7, § 1 onder p genoemde aanduiding niet bevat, is de vervoerder aansprakelijk voor alle kosten en schade die de rechthebbende ten gevolge van dit verzuim lijdt.
 
-#### Artikel 9. Gevaarlijke goederen
+##### Artikel 9. Gevaarlijke goederen
 
 Wanneer de afzender heeft verzuimd de door het RID voorgeschreven aanduidingen te vermelden, kan de vervoerder op elk ogenblik, al naargelang de omstandigheden vereisen, de goederen uitladen, vernietigen of onschadelijk maken zonder dat dit aanleiding geeft tot enige schadeloosstelling, behalve indien hij bij de aanneming ten vervoer van de goederen kennis had van de gevaarlijke aard van de goederen.
 
-#### Artikel 10. Betaling der kosten
+##### Artikel 10. Betaling der kosten
 
 § 1. Behoudens andersluidend beding tussen de afzender en de vervoerder moeten de kosten (vrachtprijs, bijkomende kosten, douanerechten en andere kosten, die vanaf het sluiten van de overeenkomst tot de aflevering ontstaan) door de afzender worden betaald.
 
 § 2. Wanneer, op grond van een beding tussen de afzender en de vervoerder, de kosten ten laste van de geadresseerde worden gelegd en wanneer de geadresseerde noch de vrachtbrief in ontvangst genomen heeft, noch zijn rechten uit de vervoerovereenkomst overeenkomstig [artikel 17, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=17&z=2025-01-01&g=2025-01-01) heeft doen gelden, noch de vervoerovereenkomst overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2025-01-01&g=2025-01-01) heeft gewijzigd, blijven de kosten ten laste van de afzender.
 
-#### Artikel 11. Onderzoek
+##### Artikel 11. Onderzoek
 
 § 1. De vervoerder heeft steeds het recht te onderzoeken of de vervoervoorwaarden vervuld zijn en of de zending overeenstemt met de door de afzender op de vrachtbrief vermelde gegevens. Wanneer dit onderzoek betrekking heeft op de inhoud van de zending vindt het voorzover mogelijk plaats in aanwezigheid van de rechthebbende; in het geval dat dit niet mogelijk is, doet de vervoerder beroep op twee onafhankelijke getuigen, voorzover de wetten en de voorschriften van de Staat waar het onderzoek plaatsvindt niets anders voorschrijven.
 
@@ -1744,7 +1766,7 @@ Wanneer de afzender heeft verzuimd de door het RID voorgeschreven aanduidingen t
 
 § 3. Wanneer de afzender zorg draagt voor de belading, kan hij eisen dat de vervoerder de staat van de goederen en van hun verpakking onderzoekt, alsook de juistheid van de op de vrachtbrief vermelde aanduidingen over het aantal colli, hun merktekens en nummers alsmede de brutomassa of de op andere wijze uitgedrukte hoeveelheid. De vervoerder is daartoe slechts verplicht, wanneer hem de daarvoor geëigende middelen ter beschikking staan. De vervoerder kan de kosten van het onderzoek terugvorderen. Het resultaat van de onderzoekingen wordt op de vrachtbrief vermeld.
 
-#### Artikel 12. Bewijskracht van de vrachtbrief
+##### Artikel 12. Bewijskracht van de vrachtbrief
 
 § 1. De vrachtbrief levert volledig bewijs, behoudens tegenbewijs, van het sluiten en de inhoud van de vervoerovereenkomst alsmede van het ten vervoer aannemen van de goederen door de vervoerder.
 
@@ -1754,17 +1776,17 @@ Wanneer de afzender heeft verzuimd de door het RID voorgeschreven aanduidingen t
 
 § 4. De vrachtbrief levert evenwel niet volledig bewijs in het geval dat zij een met redenen omkleed voorbehoud bevat. Een voorbehoud kan met name gemotiveerd worden door het feit dat de vervoerder niet over geëigende middelen beschikte om te onderzoeken of de zending beantwoordt aan de gegevens op de vrachtbrief.
 
-#### Artikel 13. Laden en lossen van goederen
+##### Artikel 13. Laden en lossen van goederen
 
 § 1. Afzender en vervoerder komen onderling overeen wie van hen het laden en lossen der goederen moet uitvoeren. Bij gebreke van een dergelijk beding ligt voor het laden en lossen van stukgoed de verplichting bij de vervoerder, terwijl voor wagenladingen de verplichting voor het laden bij de afzender ligt en die voor het lossen na de aflevering bij de geadresseerde.
 
 § 2. De afzender is aansprakelijk voor alle gevolgen van de gebrekkige belading die hij heeft uitgevoerd en hij moet met name de door dit feit door de vervoerder geleden schade vergoeden. Het bewijs van de gebrekkige belading rust op de vervoerder.
 
-#### Artikel 14. Verpakking
+##### Artikel 14. Verpakking
 
 De afzender is jegens de vervoerder aansprakelijk voor alle schade en kosten veroorzaakt door het ontbreken of de gebrekkigheid van de verpakking tenzij het gebrek uiterlijk zichtbaar was of de vervoerder er kennis van had bij het ten vervoer aannemen van de goederen en hij daarvoor geen voorbehoud maakte.
 
-#### Artikel 15. Naleving van overheidsvoorschriften
+##### Artikel 15. Naleving van overheidsvoorschriften
 
 § 1. Met het oog op het naleven van de vereiste voorschriften van douane of andere overheidsinstanties moet de afzender voorafgaand aan de aflevering van de goederen bij de vrachtbrief de noodzakelijke bescheiden voegen of deze aan de vervoerder ter beschikking stellen en hem alle gewenste inlichtingen verschaffen.
 
@@ -1790,7 +1812,7 @@ In deze gevallen mogen noch de afzender, noch de geadresseerde die het recht hee
 
 § 8. De afzender moet voldoen aan de douane- en andere overheidsvoorschriften voor wat betreft de verpakking en de afdekking van de goederen. Indien de afzender de goederen niet overeenkomstig deze voorschriften heeft verpakt of afgedekt, kan de vervoerder daarvoor zorgen; de daardoor ontstane kosten komen ten laste van de goederen.
 
-#### Artikel 16. Afleveringstermijnen
+##### Artikel 16. Afleveringstermijnen
 
 § 1. De afzender en de vervoerder komen de afleveringstermijn overeen. Bij gebreke van een beding hieromtrent kan de afleveringstermijn nochtans nooit langer zijn dan die welke volgt uit de §§ 2 tot en met 4.
 
@@ -1826,7 +1848,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 4. De afleveringstermijn begint te lopen vanaf de aanneming ten vervoer van de goederen; hij wordt verlengd met de duur van een niet door de schuld van de vervoerder veroorzaakt oponthoud. De afleveringstermijn wordt geschorst op zondagen en wettelijke feestdagen.
 
-#### Artikel 17. Aflevering
+##### Artikel 17. Aflevering
 
 § 1. De vervoerder moet de vrachtbrief afgeven en de goederen afleveren aan de geadresseerde op de voor de aflevering voorziene plaats tegen kwijting en betaling van de uit de vervoerovereenkomst voortvloeiende vorderingen.
 
@@ -1844,7 +1866,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 6. Indien de goederen aan de geadresseerde zijn afgeleverd zonder voorafgaande inning van het rembours dat rust op de goederen, is de vervoerder gehouden de afzender de schade te vergoeden tot ten hoogste het bedrag van het rembours, onverminderd zijn regres op de geadresseerde.
 
-#### Artikel 18. Het recht om over de goederen te beschikken
+##### Artikel 18. Het recht om over de goederen te beschikken
 
 § 1. De afzender heeft het recht om over de goederen te beschikken en de vervoerovereenkomst door nadere opdrachten te wijzigen. Met name kan hij vragen aan de vervoerder
 
@@ -1880,7 +1902,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 5. Indien de geadresseerde heeft voorgeschreven de goederen aan een derde af te leveren, is deze laatste niet bevoegd om de vervoerovereenkomst te wijzigen.
 
-#### Artikel 19. Uitoefening van het beschikkingsrecht
+##### Artikel 19. Uitoefening van het beschikkingsrecht
 
 § 1. Wanneer de afzender of in geval van [artikel 18, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=18&z=2025-01-01&g=2025-01-01) de geadresseerde de vervoerovereenkomst wil wijzigen door latere opdrachten, moet hij de vervoerder de duplicaat-vrachtbrief aanbieden waarop de wijzigingen aangebracht moeten zijn.
 
@@ -1896,13 +1918,13 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 7. De vervoerder die gevolg geeft aan latere wijzigingen van de afzender zonder het overleggen van de duplicaat-vrachtbrief te eisen, is jegens de geadresseerde aansprakelijk voor de daaruit voortvloeiende schade, indien de duplicaat-vrachtbrief aan deze laatste is overhandigd. De eventuele schadevergoeding bedraagt evenwel niet meer dan die in geval van verlies van de goederen.
 
-#### Artikel 20. Belemmeringen in het vervoer
+##### Artikel 20. Belemmeringen in het vervoer
 
 § 1. In geval van een belemmering in het vervoer beslist de vervoerder of het de voorkeur verdient de goederen ambtshalve verder te voeren over een ander vervoertraject dan wel of het in het belang is van de rechthebbende hem om instructies te verzoeken, waarbij hij aan hem alle nuttige inlichtingen waarover hij beschikt, meedeelt.
 
 § 2. Indien een verder vervoer niet mogelijk is, verzoekt de vervoerder de beschikkingsgerechtigde om instructies. Indien de vervoerder deze instructies niet tijdig kan verkrijgen, moet hij die maatregelen treffen welke hem het voordeligst lijken voor de belangen van degene die gerechtigd is over de goederen te beschikken.
 
-#### Artikel 21. Belemmeringen in de aflevering
+##### Artikel 21. Belemmeringen in de aflevering
 
 § 1. In geval van een belemmering in de aflevering moet de vervoerder de afzender daarvan onverwijld op de hoogte stellen en moet hij hem om instructies verzoeken, tenzij de afzender door een vermelding op de vrachtbrief gevraagd heeft om in geval van een belemmering in de aflevering de goederen ambtshalve terug te zenden.
 
@@ -1912,7 +1934,7 @@ De duur van de toeslagtermijnen moet opgenomen zijn in de Algemene vervoervoorwa
 
 § 4. Wanneer de belemmering in de aflevering optreedt, nadat de geadresseerde de vervoerovereenkomst overeenkomstig [artikel 19, §§ 3 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2025-01-01&g=2025-01-01) gewijzigd heeft, moet de vervoerder deze geadresseerde inlichten.
 
-#### Artikel 22. Gevolgen van de belemmeringen in het vervoer en in de aflevering
+##### Artikel 22. Gevolgen van de belemmeringen in het vervoer en in de aflevering
 
 § 1. De vervoerder heeft recht op vergoeding van de kosten veroorzaakt door:
 
@@ -1938,7 +1960,7 @@ tenzij deze kosten door zijn schuld veroorzaakt zijn. Hij kan met name de vracht
 
 ## TITEL III. AANSPRAKELIJKHEID
 
-#### Artikel 23. Aansprakelijkheidsgronden
+##### Artikel 23. Aansprakelijkheidsgronden
 
 § 1. De vervoerder is aansprakelijk voor de schade ten gevolge van geheel of gedeeltelijk verlies of beschadiging van de goederen vanaf de aanneming ten vervoer tot aan de aflevering, alsmede ten gevolge van de vertraging in de aflevering, ongeacht welke spoorweginfrastructuur wordt gebruikt.
 
@@ -1960,13 +1982,13 @@ tenzij deze kosten door zijn schuld veroorzaakt zijn. Hij kan met name de vracht
 
 - g. vervoer dat krachtens de toepasselijke bepalingen of op de vrachtbrief vermelde bedingen tussen de afzender en de vervoerder uitgevoerd moet worden onder begeleiding, indien het verlies of de beschadiging het gevolg is van een gevaar dat de begeleiding had moeten vermijden.
 
-#### Artikel 24. Aansprakelijkheid in geval van vervoer van spoorvoertuigen als te vervoeren goed
+##### Artikel 24. Aansprakelijkheid in geval van vervoer van spoorvoertuigen als te vervoeren goed
 
 § 1. In geval van een vervoer van op eigen wielen rollende spoorvoertuigen die als te vervoeren goed ten vervoer worden aangeboden, is de vervoerder aansprakelijk voor de schade ten gevolge van het verlies of beschadiging van de spoorvoertuigen en de bestanddelen daarvan vanaf de aanneming ten vervoer tot de aflevering alsmede voor de schade ten gevolge van de overschrijding van afleveringstermijn, tenzij hij bewijst dat de schade niet door zijn schuld veroorzaakt is.
 
 § 2. De vervoerder is niet aansprakelijk voor schade die het gevolg is van het verlies van de losse bestanddelen waarvan geen melding wordt gemaakt op beide zijden van het voertuig of die niet opgenomen zijn in de inventaris die het voertuig begeleidt.
 
-#### Artikel 25. Bewijslast
+##### Artikel 25. Bewijslast
 
 § 1. Het bewijs dat het verlies, de beschadiging of de vertraging in de aflevering door een van de in artikel 23, § 2 genoemde feiten is veroorzaakt, rust op de vervoerder.
 
@@ -1974,11 +1996,11 @@ tenzij deze kosten door zijn schuld veroorzaakt zijn. Hij kan met name de vracht
 
 § 3. Het vermoeden volgens § 2 is niet van toepassing in het geval bedoeld in artikel 23, § 3, onder a, indien het een ongewoon groot verlies of een verlies van colli betreft.
 
-#### Artikel 26. Opvolgende vervoerders
+##### Artikel 26. Opvolgende vervoerders
 
 Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereenkomst, door meer opvolgende vervoerders wordt verricht, treedt iedere vervoerder door het overnemen van de goederen met de vrachtbrief toe tot de vervoerovereenkomst overeenkomstig de bepalingen van de vrachtbrief en neemt hij de daaruit voortvloeiende verplichtingen op zich. In dit geval is iedere vervoerder aansprakelijk voor de uitvoering van het vervoer op het gehele vervoertraject tot aan de aflevering.
 
-#### Artikel 27. Ondervervoerder
+##### Artikel 27. Ondervervoerder
 
 § 1. Wanneer de vervoerder de uitvoering van het vervoer geheel of gedeeltelijk heeft toevertrouwd aan een ondervervoerder, al dan niet op grond van een aan hem in de vervoerovereenkomst toegekende bevoegdheid, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer.
 
@@ -1992,7 +2014,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 6. Dit artikel doet geen afbreuk aan de mogelijke regresrechten tussen de vervoerder en de ondervervoerder.
 
-#### Artikel 28. Vermoeden van schade in geval van doorzending
+##### Artikel 28. Vermoeden van schade in geval van doorzending
 
 § 1. Wanneer een zending, die overeenkomstig deze Uniforme Regelen verzonden is, onder dezelfde Regelen is doorverzonden en wanneer na deze doorzending een gedeeltelijk verlies of een schade is vastgesteld, wordt vermoed dat het gedeeltelijk verlies of de schade is ontstaan tijdens de laatste vervoerovereenkomst, indien de zending onder de hoede van de vervoerder is gebleven en is doorgezonden in dezelfde toestand waarin zij op de plaats van doorzending is aangekomen.
 
@@ -2000,7 +2022,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 3. Dit vermoeden is bovendien van toepassing, wanneer de vervoerovereenkomst die aan de doorzending voorafging, onderworpen was aan een ander vergelijkbaar internationaal verdrag over rechtstreeks internationaal spoorvervoer en dat verdrag eenzelfde rechtsvermoeden bevat ten voordele van zendingen die overeenkomstig deze Uniforme Regelen verzonden worden.
 
-#### Artikel 29. Vermoeden van verlies van de goederen
+##### Artikel 29. Vermoeden van verlies van de goederen
 
 § 1. De rechthebbende kan zonder nader bewijs de goederen als verloren beschouwen, wanneer zij niet binnen 30 dagen na afloop van de afleveringstermijn aan de geadresseerde zijn afgeleverd of te zijner beschikking zijn gesteld.
 
@@ -2010,7 +2032,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 4. Bij gebreke van een in § 2 bedoeld verzoek of van binnen de in § 3 bedoelde termijn gegeven instructies, of indien de goederen meer dan een jaar na de betaling van de schadevergoeding teruggevonden zijn, beschikt de vervoerder daarover overeenkomstig de wetten en voorschriften die gelden op de plaats waar de goederen zich bevinden.
 
-#### Artikel 30. Schadevergoeding in geval van verlies
+##### Artikel 30. Schadevergoeding in geval van verlies
 
 § 1. In geval van geheel of gedeeltelijk verlies van de goederen moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen berekend volgens de beursprijs, bij gebreke daarvan volgens de marktprijs en, bij gebreke van beide, volgens de gebruikelijke waarde van goederen van dezelfde aard en kwaliteit op de dag en de plaats waar de goederen in ontvangst zijn genomen.
 
@@ -2020,7 +2042,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 4. De vervoerder moet bovendien de vrachtprijs, de betaalde douanerechten en de overige ter zake van het vervoer van de verloren goederen betaalde bedragen terugbetalen, met uitzondering van de accijnzen op goederen die vervoerd worden onder opschorting van die accijnzen.
 
-#### Artikel 31. Aansprakelijkheid in geval van gewichtsverlies
+##### Artikel 31. Aansprakelijkheid in geval van gewichtsverlies
 
 § 1. Met betrekking tot goederen, die ingevolge hun aard in het algemeen een gewichtsverlies ondergaan tijdens het vervoer, is de vervoerder, ongeacht de lengte van het afgelegde traject, slechts aansprakelijk voor het gedeelte van het verlies dat meer bedraagt dan:
 
@@ -2036,7 +2058,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 5. Dit artikel laat de artikelen 23 en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=25&z=2025-01-01&g=2025-01-01) onverlet.
 
-#### Artikel 32. Schadevergoeding in geval van beschadiging
+##### Artikel 32. Schadevergoeding in geval van beschadiging
 
 § 1. In geval van beschadiging van de goederen moet de vervoerder, met uitsluiting van elke andere schadevergoeding, een schadevergoeding betalen gelijk aan de waardevermindering van de goederen. Dit bedrag wordt berekend door op de overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2025-01-01&g=2025-01-01) bepaalde waarde van de goederen het op de plaats van bestemming vastgestelde percentage van de waardevermindering toe te passen.
 
@@ -2050,7 +2072,7 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 4. De vervoerder moet bovendien de in [artikel 30, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2025-01-01&g=2025-01-01) vermelde kosten in de in § 1 bepaalde verhouding terugbetalen.
 
-#### Artikel 33. Schadevergoeding in geval van overschrijding van de afleveringstermijn
+##### Artikel 33. Schadevergoeding in geval van overschrijding van de afleveringstermijn
 
 § 1. Indien een schade, met inbegrip van een beschadiging, voortvloeit uit het overschrijden van de afleveringstermijn, moet de vervoerder een schadevergoeding betalen die niet meer bedraagt dan het viervoud van de vrachtprijs.
 
@@ -2064,19 +2086,19 @@ Wanneer een vervoer dat het onderwerp vormt van één en dezelfde vervoerovereen
 
 § 6. Wanneer de afleveringstermijn overeenkomstig [artikel 16, § 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2025-01-01&g=2025-01-01) is vastgesteld bij overeenkomst, kan daarin in een van § 1 afwijkende regeling tot schadevergoeding voorzien worden. Indien in dit geval de in [artikel 16, §§ 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=16&z=2025-01-01&g=2025-01-01) bedoelde afleveringstermijnen overschreden worden, kan de rechthebbende hetzij de schadevergoeding uit de bovenvermelde overeenkomst verlangen, hetzij de schadevergoeding die in de §§ 1 tot en met 5 is voorzien.
 
-#### Artikel 34. Schadevergoeding in geval van aangifte van waarde
+##### Artikel 34. Schadevergoeding in geval van aangifte van waarde
 
 De afzender en de vervoerder kunnen overeenkomen dat de afzender in de vrachtbrief een waarde der goederen opneemt die het in [artikel 30, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2025-01-01&g=2025-01-01) voorgeschreven maximumbedrag overschrijdt. In dat geval treedt het aangegeven bedrag in de plaats van dit maximumbedrag.
 
-#### Artikel 35. Schadevergoeding in geval van belang bij de aflevering
+##### Artikel 35. Schadevergoeding in geval van belang bij de aflevering
 
 De afzender en de vervoerder kunnen overeenkomen dat de afzender een bijzonder belang bij de aflevering aangeeft door op de vrachtbrief een bedrag in cijfers te vermelden voor het geval van verlies of beschadiging en het geval van overschrijding van de afleveringstermijn. In geval van aangifte van een belang bij de aflevering kan boven op de in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2025-01-01&g=2025-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2025-01-01&g=2025-01-01) en [33](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=33&z=2025-01-01&g=2025-01-01) bedoelde schadevergoedingen de vergoeding van de overige bewezen schade verlangd worden tot ten hoogste het bedrag van het aangegeven belang.
 
-#### Artikel 36. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 36. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=15&z=2025-01-01&g=2025-01-01), [19, §§ 6 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=19&z=2025-01-01&g=2025-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=30&z=2025-01-01&g=2025-01-01), [32 tot en met 35](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=32&z=2025-01-01&g=2025-01-01) bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 37. Omrekening en rente
+##### Artikel 37. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers die geldt op de dag en de plaats van betaling van de schadevergoeding.
 
@@ -2084,7 +2106,7 @@ De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&ti
 
 § 3. Indien de rechthebbende niet binnen een hem gestelde redelijke termijn de voor de definitieve regeling van de vordering nodige bewijsstukken aan de vervoerder overlegt, loopt de rente niet tussen de afloop van deze termijn en de daadwerkelijke overlegging van de stukken.
 
-#### Artikel 38. Aansprakelijkheid in spoor/zeevervoer
+##### Artikel 38. Aansprakelijkheid in spoor/zeevervoer
 
 § 1. Voor spoor/zeevervoer over de in [artikel 24 § 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=24&z=2025-01-01&g=2025-01-01) bedoelde lijnen over zee kan iedere Lidstaat door een desbetreffende vermelding op de lijst van de aan de Uniforme Regelen onderworpen lijnen te doen opnemen, het geheel van de hierna genoemde gronden tot uitsluiting van de aansprakelijkheid toevoegen aan de in artikel 23 genoemde gronden:
 
@@ -2104,15 +2126,15 @@ De in de [artikelen 15, § 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&ti
 
 § 5. De overeenkomstig de §§ 1 en 4 genomen maatregelen worden aan de Secretaris-Generaal meegedeeld. Zij treden niet eerder in werking dan na verloop van dertig dagen te rekenen vanaf de dag waarop de Secretaris-Generaal de andere Staten in kennis heeft gesteld van deze maatregelen. Zendingen onderweg worden door deze maatregelen niet getroffen.
 
-#### Artikel 39. Aansprakelijkheid in geval van een kernongeval
+##### Artikel 39. Aansprakelijkheid in geval van een kernongeval
 
 De vervoerder is ontheven van de krachtens deze Uniforme Regelen op hem rustende aansprakelijkheid, wanneer de schade is veroorzaakt door een kernongeval en wanneer de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten en voorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 40. Personen voor wie de vervoerder aansprakelijk is
+##### Artikel 40. Personen voor wie de vervoerder aansprakelijk is
 
 De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen van wier diensten hij gebruik maakt bij de uitvoering van het vervoer, wanneer deze ondergeschikten of andere personen handelen in de uitoefening van hun werkzaamheden. De beheerders van de spoorweginfrastructuur waarop het vervoer wordt verricht, worden beschouwd als personen van wier diensten de vervoerder gebruik maakt bij de uitvoering van het vervoer.
 
-#### Artikel 41. Andere vorderingen
+##### Artikel 41. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
@@ -2120,7 +2142,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 ## TITEL IV. UITOEFENING VAN RECHTEN
 
-#### Artikel 42. Proces-verbaal van vaststelling
+##### Artikel 42. Proces-verbaal van vaststelling
 
 § 1. Wanneer een gedeeltelijk verlies of een beschadiging door de vervoerder wordt ontdekt of vermoed of door de rechthebbende wordt beweerd, moet de vervoerder onverwijld en zo mogelijk in aanwezigheid van de rechthebbende een proces-verbaal opmaken dat naargelang de aard van de schade, de toestand van de goederen en zo mogelijk de omvang, de oorzaak en het tijdstip van ontstaan van de schade vermeldt.
 
@@ -2128,7 +2150,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 3. Wanneer de rechthebbende niet met de vermeldingen in het proces-verbaal instemt, kan hij verlangen dat de toestand en de massa van de goederen alsmede de oorzaak en het bedrag van de schade worden vastgesteld door een door de partijen bij de vervoerovereenkomst of door de rechter benoemde deskundige. De procedure is onderworpen aan de wetten en voorschriften van de Staat waar de vaststelling geschiedt.
 
-#### Artikel 43. Vorderingen buiten rechte
+##### Artikel 43. Vorderingen buiten rechte
 
 § 1. Vorderingen buiten rechte met betrekking tot de vervoerovereenkomst moeten schriftelijk worden ingediend bij de vervoerder tegen wie de rechtsvordering kan worden ingesteld.
 
@@ -2142,7 +2164,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 6. Bij de regeling van de vordering buiten rechte kan de vervoerder de overlegging van het origineel van de vrachtbrief, de duplicaat-vrachtbrief of het remboursbewijs verlangen om er de regeling op te vermelden.
 
-#### Artikel 44. Personen die de vervoerder in rechte kunnen aanspreken
+##### Artikel 44. Personen die de vervoerder in rechte kunnen aanspreken
 
 § 1. Behoudens de §§ 3 en 4, zijn tot het instellen van de op de vervoerovereenkomst gegronde rechtsvorderingen gerechtigd:
 
@@ -2172,7 +2194,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 6. Om rechtsvorderingen in te stellen moet de geadresseerde de vrachtbrief overleggen, indien deze aan hem is afgegeven.
 
-#### Artikel 45. Vervoerders die in rechte kunnen worden aangesproken
+##### Artikel 45. Vervoerders die in rechte kunnen worden aangesproken
 
 § 1. Behoudens de §§ 3 en 4, kunnen de op de vervoerovereenkomst gegronde rechtsvorderingen uitsluitend worden ingesteld tegen de eerste of laatste vervoerder of tegen de vervoerder die dat deel van het vervoer verrichtte gedurende welke het feit dat tot de rechtsvordering heeft geleid, zich heeft voorgedaan.
 
@@ -2188,7 +2210,7 @@ De vervoerder is aansprakelijk voor zijn ondergeschikten en voor andere personen
 
 § 7. Indien de eiser de keuze heeft tussen meer vervoerders, vervalt zijn keuzerecht zodra de rechtsvordering tegen een van hen is ingesteld; dit geldt eveneens indien de eiser de keuze heeft tussen een of meer vervoerders en een ondervervoerder.
 
-#### Artikel 46. Rechtsmacht
+##### Artikel 46. Rechtsmacht
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen kunnen worden ingesteld bij de rechterlijke instanties van de door de partijen in onderlinge overeenstemming aangewezen Lidstaten of bij de rechter van de Lidstaat op wiens grondgebied:
 
@@ -2200,7 +2222,7 @@ Het instellen van een rechtsvordering bij een andere rechter is niet mogelijk.
 
 § 2. Wanneer een op deze Uniforme Regelen gegronde rechtsvordering aanhangig is bij een in § 1 bedoelde bevoegde rechterlijke instantie of wanneer in een dergelijk geschil deze rechter uitspraak heeft gedaan, kan geen nieuwe rechtsvordering worden ingesteld voor dezelfde zaak tussen dezelfde partijen, tenzij de uitspraak van de rechter bij wie de eerste rechtsvordering is ingesteld niet ten uitvoer kan worden gelegd in de Staat waar de nieuwe rechtsvordering is ingesteld.
 
-#### Artikel 47. Verval van de vordering
+##### Artikel 47. Verval van de vordering
 
 § 1. Door de inontvangstneming van de goederen door de rechthebbende vervalt elke vordering uit de vervoerovereenkomst tegen de vervoerder in geval van gedeeltelijk verlies, beschadiging of overschrijding van de afleveringstermijn.
 
@@ -2224,7 +2246,7 @@ Het instellen van een rechtsvordering bij een andere rechter is niet mogelijk.
 
 § 3. Indien de goederen overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=28&z=2025-01-01&g=2025-01-01) doorgezonden zijn, vervallen de vorderingen uit een der voorafgaande vervoerovereenkomsten in geval van gedeeltelijk verlies of beschadiging als betrof het een enkele overeenkomst.
 
-#### Artikel 48. Verjaring
+##### Artikel 48. Verjaring
 
 § 1. De uit de vervoerovereenkomst voortvloeiende rechtsvordering verjaart door verloop van 1 jaar. De verjaringstermijn bedraagt evenwel twee jaar indien de rechtsvordering:
 
@@ -2254,13 +2276,13 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 ## TITEL V. ONDERLINGE BETREKKINGEN TUSSEN DE VERVOERDERS
 
-#### Artikel 49. Verdeling
+##### Artikel 49. Verdeling
 
 § 1. Elke vervoerder moet aan de betrokken vervoerders het hun toekomende aandeel betalen van de kosten of andere uit de vervoerovereenkomst ontstane schuldvorderingen, die hij ofwel bij vertrek, ofwel bij aankomst heeft geïnd of had moeten innen. De wijze van betaling wordt in een overeenkomst tussen de vervoerders vastgelegd.
 
 § 2. Artikel 12 is eveneens van toepassing op de betrekkingen tussen opvolgende vervoerders.
 
-#### Artikel 50. Recht van regres
+##### Artikel 50. Recht van regres
 
 § 1. De vervoerder die krachtens deze Uniforme Regelen een schadevergoeding heeft betaald, heeft recht van regres jegens de bij het vervoer betrokken vervoerders overeenkomstig de volgende bepalingen:
 
@@ -2272,7 +2294,7 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 § 2. In geval van onvermogen om te betalen van een van de vervoerders wordt het te zijnen laste komende en door hem niet betaalde aandeel onder de andere bij het vervoer betrokken vervoerders verdeeld naar evenredigheid van het aandeel in de vrachtprijs dat aan ieder van hen toekomt.
 
-#### Artikel 51. Regresprocedure
+##### Artikel 51. Regresprocedure
 
 § 1. De gegrondheid van de betaling verricht door de vervoerder die krachtens [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2025-01-01&g=2025-01-01) het regres uitoefent, kan niet betwist worden door de vervoerder tegen wie het bedoeld regres wordt uitgeoefend, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer deze laatstgenoemde vervoerder, naar behoren gedagvaard, de mogelijkheid is geboden tot tussenkomst in het geding. De rechter bij wie de hoofdvordering aanhangig is, stelt de termijnen voor de betekening van de dagvaarding en voor de tussenkomst vast.
 
@@ -2286,11 +2308,11 @@ De als begin van de verjaringstermijn vermelde dag is nimmer in deze termijn beg
 
 § 6. Regresvorderingen kunnen niet aanhangig worden gemaakt door het instellen van een rechtsvordering in het geding dat de rechthebbende heeft ingesteld om schadevergoeding te verlangen op grond van de vervoerovereenkomst.
 
-#### Artikel 52. Overeenkomsten betreffende regres
+##### Artikel 52. Overeenkomsten betreffende regres
 
 De vervoerders kunnen onderling overeenkomsten afsluiten die afwijken van de [artikelen 49](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=49&z=2025-01-01&g=2025-01-01) en [50](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=50&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 § 1. Dit Reglement is van toepassing:
 
@@ -2302,19 +2324,19 @@ evenals op de in de Bijlage van dit Reglement vermelde werkzaamheden.
 
 § 2. De gevaarlijke goederen, waarvan het vervoer overeenkomstig de Bijlage uitgesloten is, mogen niet het onderwerp zijn van een internationaal vervoer.
 
-#### Artikel 2. Vrijstellingen
+##### Artikel 2. Vrijstellingen
 
 Dit Reglement is geheel of gedeeltelijk niet van toepassing op het vervoer van gevaarlijke goederen, waarvan in de Bijlage de vrijstelling is voorzien. Vrijstellingen zijn slechts toegelaten, wanneer de hoeveelheid, de aard van het vrijgestelde vervoer of de verpakking de veiligheid van het vervoer waarborgen.
 
-#### Artikel 3. Beperkingen
+##### Artikel 3. Beperkingen
 
 Iedere Lidstaat behoudt het recht om het internationale vervoer van gevaarlijke goederen op zijn grondgebied op andere gronden dan die van de veiligheid gedurende het vervoer te regelen of te verbieden.
 
-#### Artikel 4. Andere voorschriften
+##### Artikel 4. Andere voorschriften
 
 Het vervoer, waarop dit Reglement van toepassing is, blijft onderworpen aan de algemene nationale of internationale voorschriften, die in hun algemeenheid van toepassing zijn op het spoorwegvervoer van goederen.
 
-#### Artikel 5. Toegelaten treinsoorten. Vervoer als handbagage, reisbagage of in motorvoertuigen
+##### Artikel 5. Toegelaten treinsoorten. Vervoer als handbagage, reisbagage of in motorvoertuigen
 
 § 1. De gevaarlijke goederen mogen alleen in goederentreinen vervoerd worden, met uitzondering van:
 
@@ -2324,15 +2346,15 @@ Het vervoer, waarop dit Reglement van toepassing is, blijft onderworpen aan de a
 
 § 2. De reiziger mag gevaarlijke goederen niet als handbagage meenemen of deze als reisbagage of in motorvoertuigen verzenden, indien deze niet voldoen aan de bijzondere voorwaarden van de Bijlage.
 
-#### Artikel 6. Bijlage
+##### Artikel 6. Bijlage
 
 De Bijlage vormt een integrerend deel van dit Reglement.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen zijn van toepassing op bilaterale of multilaterale overeenkomsten inzake het gebruik van spoorvoertuigen als vervoermiddel voor het verrichten van vervoer volgens de Uniforme Regelen CIV en de Uniforme Regelen CIM.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -2344,7 +2366,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - d. „depotstation”: de plaats die op het voertuig is vermeld en waarnaar dit voertuig, overeenkomstig de voorwaarden in de gebruiksovereenkomst, kan of moet worden teruggezonden.
 
-#### Artikel 3. Tekens en opschriften op de voertuigen
+##### Artikel 3. Tekens en opschriften op de voertuigen
 
 § 1. Onverminderd de voorschriften inzake de technische toelating van voertuigen tot het internationale verkeer, moet degene die krachtens een in artikel 1 bedoelde overeenkomst een voertuig ter beschikking stelt, ervoor zorgdragen dat de volgende gegevens op het voertuig worden vermeld:
 
@@ -2358,7 +2380,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 2. De in § 1 bedoelde tekens en opschriften kunnen worden aangevuld met elektronische identificatiemiddelen.
 
-#### Artikel 4. Aansprakelijkheid in geval van verlies of beschadiging van een voertuig
+##### Artikel 4. Aansprakelijkheid in geval van verlies of beschadiging van een voertuig
 
 § 1. Tenzij de spoorwegvervoeronderneming aan wie het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld, bewijst dat de schade niet het gevolg is van haar schuld, is zij aansprakelijk voor de schade die het gevolg is van het verlies of de beschadiging van het voertuig of zijn losse bestanddelen.
 
@@ -2370,11 +2392,11 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 5. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van de §§ 1 tot en met 4.
 
-#### Artikel 5. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 5. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in artikel 4, §§ 3 en 4 bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 6. Vermoeden van verlies van een voertuig
+##### Artikel 6. Vermoeden van verlies van een voertuig
 
 § 1. De rechthebbende kan, zonder nader bewijs, een voertuig als verloren beschouwen, wanneer hij de spoorwegvervoeronderneming waaraan hij het voertuig voor gebruik als vervoermiddel ter beschikking heeft gesteld, heeft verzocht dit voertuig op te sporen en indien dit voertuig niet binnen drie maanden na ontvangst van zijn verzoek te zijner beschikking is gesteld, of wanneer hij geen enkele aanwijzing heeft gekregen omtrent de plaats waar het voertuig zich bevindt. Deze termijn wordt verlengd met de duur van de stilstand van het voertuig ontstaan door een niet aan de spoorwegvervoeronderneming te wijten oorzaak welke dan ook of door schade.
 
@@ -2384,13 +2406,13 @@ De in artikel 4, §§ 3 en 4 bedoelde beperkingen van aansprakelijkheid zijn nie
 
 § 4. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van de §§ 1 tot en met 3.
 
-#### Artikel 7. Aansprakelijkheid voor door een voertuig veroorzaakte schade
+##### Artikel 7. Aansprakelijkheid voor door een voertuig veroorzaakte schade
 
 § 1. Degene die krachtens een in artikel 1 bedoelde overeenkomst een voertuig voor gebruik als vervoermiddel ter beschikking heeft gesteld, is aansprakelijk voor de door dat voertuig veroorzaakte schade, wanneer deze schade aan zijn schuld te wijten is.
 
 § 2. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van § 1.
 
-#### Artikel 8. Subrogatie
+##### Artikel 8. Subrogatie
 
 Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat de spoorwegvervoeronderneming het voertuig aan andere spoorwegvervoerondernemingen ter beschikking kan stellen voor gebruik als vervoermiddel, kan de spoorwegvervoeronderneming, met instemming van de houder, met de andere spoorwegvervoerondernemingen overeenkomen:
 
@@ -2398,7 +2420,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 - b. dat alleen de houder jegens de andere spoorwegvervoerondernemingen aansprakelijk is voor door het voertuig veroorzaakte schade, maar dat alleen de spoorwegvervoeronderneming die de contractuele wederpartij van de houder is, bevoegd is de rechten van de andere spoorwegvervoerondernemingen te doen gelden.
 
-#### Artikel 9. Aansprakelijkheid voor ondergeschikten en andere personen
+##### Artikel 9. Aansprakelijkheid voor ondergeschikten en andere personen
 
 § 1. De partijen bij de overeenkomst zijn aansprakelijk voor hun ondergeschikten en voor andere personen, van wier diensten zij gebruik maken bij de uitvoering van de overeenkomst, wanneer deze ondergeschikten of andere personen handelen in de uitoefening van hun werkzaamheden.
 
@@ -2406,7 +2428,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 § 3. De §§ 1 en 2 zijn eveneens van toepassing in geval van subrogatie overeenkomstig artikel 8.
 
-#### Artikel 10. Andere vorderingen
+##### Artikel 10. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de spoorwegvervoeronderneming waaraan het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld slechts een vordering wegens aansprakelijkheid voor verlies of beschadiging van het voertuig of zijn losse bestanddelen, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen en die van de gebruiksovereenkomst.
 
@@ -2414,13 +2436,13 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 § 3. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de spoorwegvervoeronderneming, waaraan het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld, aansprakelijk is.
 
-#### Artikel 11. Rechtsmacht
+##### Artikel 11. Rechtsmacht
 
 § 1. De rechtsvorderingen voortvloeiend uit een op grond van deze Uniforme Regelen gesloten overeenkomst, kunnen worden ingesteld bij de in onderlinge overeenstemming door de partijen bij de overeenkomst aangewezen rechterlijke instantie.
 
 § 2. Tenzij de partijen anders zijn overeengekomen, is de rechterlijke instantie van de Lidstaat waar de verweerder zijn zetel heeft, bevoegd. Indien de verweerder geen zetel heeft in een Lidstaat, is de rechterlijke instantie van de Lidstaat waar de schade is ontstaan, bevoegd.
 
-#### Artikel 12. Verjaring
+##### Artikel 12. Verjaring
 
 § 1. De rechtsvorderingen gegrond op de artikelen 4 en 7 verjaren door verloop van drie jaar.
 
@@ -2432,7 +2454,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 § 1. Deze Uniforme Regelen zijn van toepassing op elke overeenkomst inzake het gebruik van een spoorweginfrastructuur ten behoeve van internationaal vervoer in de zin van de Uniforme Regelen CIV en Uniforme Regelen CIM. Dit geldt ongeacht de zetel en de nationaliteit van de partijen bij de overeenkomst. Deze Uniforme Regelen zijn eveneens van toepassing, wanneer de spoorweginfrastructuur wordt beheerd of gebruikt door Staten of overheidsinstellingen of -organisaties.
 
@@ -2442,13 +2464,13 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 - b. de aansprakelijkheid tussen de vervoerder of de beheerder enerzijds en derden anderzijds.
 
-#### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van personenschade
+##### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van personenschade
 
 § 1. Iedere Staat kan op elk tijdstip verklaren dat hij alle bepalingen betreffende de aansprakelijkheid in geval van personenschade niet zal toepassen op slachtoffers van een ongeval op zijn grondgebied, die zijn onderdanen zijn of hun gewone verblijfplaats hebben in deze Staat.
 
 § 2. De Staat die een verklaring overeenkomstig § 1 heeft afgelegd, kan deze op elk tijdstip herroepen door hiervan mededeling te doen aan de depositaris. Deze herroeping wordt van kracht een maand na de dag waarop de depositaris de Lidstaten hiervan kennis heeft gegeven.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -2470,13 +2492,13 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - – het in te zetten personeel en de te gebruiken voertuigen op de gebruikte infrastructuur, voldoen aan de gestelde veiligheidseisen teneinde op deze infrastructuur een veilige dienst te waarborgen.
 
-#### Artikel 4. Dwingend recht
+##### Artikel 4. Dwingend recht
 
 Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding dat middellijk of onmiddellijk afwijkt van deze Uniforme Regelen nietig en zonder rechtsgevolgen. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bepalingen van de overeenkomst tot gevolg. Niettemin kunnen de partijen bij de overeenkomst een zwaardere aansprakelijkheid en zwaardere verplichtingen op zich nemen dan die welke in deze Uniforme Regelen zijn bepaald of een maximumbedrag voor de vergoeding van zaakschade vaststellen.
 
 ## TITEL II. GEBRUIKSOVEREENKOMST
 
-#### Artikel 5. Inhoud en vorm
+##### Artikel 5. Inhoud en vorm
 
 § 1. De betrekkingen tussen de beheerder en de vervoerder worden geregeld in een gebruiksovereenkomst.
 
@@ -2498,7 +2520,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 3. De overeenkomst moet schriftelijk of in een gelijkwaardige vorm worden vastgelegd. Het ontbreken of de onregelmatigheid van een schriftelijke of in een andere vorm gedane vastlegging of het ontbreken van een van de in § 2 bedoelde gegevens tast noch het bestaan, noch de geldigheid van de overeenkomst aan, die onderworpen blijft aan deze Uniforme Regelen.
 
-#### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
+##### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
 
 § 1. De vervoerder moet bevoegd zijn de activiteit van spoorwegvervoerder uit te oefenen. Het in te zetten personeel en de te gebruiken voertuigen moeten voldoen aan de veiligheidseisen. De beheerder kan verlangen dat de vervoerder, door middel van overlegging van een geldige vergunning en een geldig veiligheidscertificaat of van gewaarmerkte afschriften dan wel op andere wijze, bewijst dat aan deze voorwaarden is voldaan.
 
@@ -2508,7 +2530,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 4. De partijen bij de overeenkomst moeten elkaar in kennis stellen van elke gebeurtenis die de uitvoering van de door hen gesloten overeenkomst zou kunnen verhinderen.
 
-#### Artikel 7. Duur van de overeenkomst
+##### Artikel 7. Duur van de overeenkomst
 
 § 1. De gebruiksovereenkomst kan worden gesloten voor bepaalde of onbepaalde tijd.
 
@@ -2536,7 +2558,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 ## TITEL III. AANSPRAKELIJKHEID
 
-#### Artikel 8. Aansprakelijkheid van de beheerder
+##### Artikel 8. Aansprakelijkheid van de beheerder
 
 § 1. De beheerder is aansprakelijk voor:
 
@@ -2564,7 +2586,7 @@ toegebracht aan de vervoerder of aan zijn hulppersonen gedurende het gebruik van
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de beheerder aansprakelijk is voor aan de vervoerder toegebrachte schade als gevolg van een vertraging of een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 9. Aansprakelijkheid van de vervoerder
+##### Artikel 9. Aansprakelijkheid van de vervoerder
 
 § 1. De vervoerder is aansprakelijk voor:
 
@@ -2590,7 +2612,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de vervoerder aansprakelijk is voor aan de beheerder toegebrachte schade als gevolg van een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 10. Medeschuld
+##### Artikel 10. Medeschuld
 
 § 1. Wanneer oorzaken die aan de beheerder en oorzaken die aan de vervoerder toe te rekenen zijn, hebben bijgedragen aan de schade, is iedere partij bij de overeenkomst slechts aansprakelijk voorzover de oorzaken die krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2010-12-01&g=2010-12-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2010-12-01&g=2010-12-01) aan haar toe te rekenen zijn, aan de schade hebben bijgedragen. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, draagt iedere partij de door haar geleden schade.
 
@@ -2598,7 +2620,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 3. In geval van schade zoals bedoeld in [artikel 9, is § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2010-12-01&g=2010-12-01) van overeenkomstige toepassing, wanneer oorzaken die hebben bijgedragen aan de schade, toe te rekenen zijn aan meerdere vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, zijn de vervoerders jegens de beheerder voor gelijke delen aansprakelijk.
 
-#### Artikel 11. Schadevergoeding in geval van dood
+##### Artikel 11. Schadevergoeding in geval van dood
 
 § 1. In geval van dood omvat de schadevergoeding:
 
@@ -2608,7 +2630,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 2. Indien door de dood personen, jegens wie de overledene een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de overledene zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
-#### Artikel 12. Schadevergoeding in geval van letsel
+##### Artikel 12. Schadevergoeding in geval van letsel
 
 In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de schadevergoeding:
 
@@ -2616,47 +2638,47 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de s
 
 - b. het vermogensnadeel dat de benadeelde persoon lijdt door een gehele of gedeeltelijke arbeidsongeschiktheid of door een toename van zijn behoeften.
 
-#### Artikel 13. Vergoeding van andere personenschade
+##### Artikel 13. Vergoeding van andere personenschade
 
 Het nationale recht bepaalt of, en in welke mate, de beheerder of de vervoerder andere dan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2010-12-01&g=2010-12-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2010-12-01&g=2010-12-01) bedoelde personenschade moet vergoeden.
 
-#### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
+##### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
 § 1. De in de [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2010-12-01&g=2010-12-01) en [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2010-12-01&g=2010-12-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de benadeelde persoon of de in [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2010-12-01&g=2010-12-01) bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per persoon een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
-#### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de bepalingen van het nationale recht die de vergoedingen tot een bepaald bedrag beperken, zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de veroorzaker van de schade geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 16. Omrekening en rente
+##### Artikel 16. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers geldend op de dag en de plaats van betaling van de schadevergoeding.
 
 § 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van aanvang van een bemiddelingsprocedure, van het beroep op het in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2010-12-01&g=2010-12-01) bedoelde scheidsgerecht of van het instellen van de rechtsvordering.
 
-#### Artikel 17. Aansprakelijkheid in geval van een kernongeval
+##### Artikel 17. Aansprakelijkheid in geval van een kernongeval
 
 De beheerder en de vervoerder zijn ontheven van de krachtens deze Uniforme Regelen op hen rustende aansprakelijkheid, wanneer de schade is veroorzaakt door een kernongeval en wanneer de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten en voorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 18. Aansprakelijkheid voor hulppersonen
+##### Artikel 18. Aansprakelijkheid voor hulppersonen
 
 De beheerder en de vervoerder zijn aansprakelijk voor hun hulppersonen.
 
-#### Artikel 19. Andere vorderingen
+##### Artikel 19. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de beheerder of tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
 § 2. Hetzelfde geldt voor een vordering ingesteld tegen de hulppersonen voor wie de beheerder of de vervoerder krachtens artikel 18 aansprakelijk is.
 
-#### Artikel 20. Beding voor geschillenregeling
+##### Artikel 20. Beding voor geschillenregeling
 
 De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun recht op schadevergoeding ten aanzien van de andere partij bij de overeenkomst kunnen doen gelden of hiervan kunnen afzien.
 
 ## TITEL IV. VORDERINGEN VAN HULPPERSONEN
 
-#### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
+##### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
 
 § 1. Elke vordering van hulppersonen van de vervoerder wegens aansprakelijkheid tegen de beheerder met betrekking tot door deze laatste veroorzaakte schade, kan, ongeacht de rechtsgrond, slechts worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
@@ -2664,21 +2686,21 @@ De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun rech
 
 ## TITEL IV. VORDERINGEN VAN HULPPERSONEN
 
-#### Artikel 22. Bemiddelingsprocedure
+##### Artikel 22. Bemiddelingsprocedure
 
 De partijen bij de overeenkomst kunnen bemiddelingsprocedures overeenkomen of een beroep doen op een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2010-12-01&g=2010-12-01) voorgeschreven scheidsgerecht.
 
-#### Artikel 23. Regres
+##### Artikel 23. Regres
 
 De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of Uniforme Regelen CIM gedane betaling kan niet worden betwist, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer de beheerder, naar behoren gedagvaard, in staat is gesteld zich in de rechtszaak te voegen.
 
-#### Artikel 24. Rechtsmacht
+##### Artikel 24. Rechtsmacht
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen kunnen worden ingesteld bij de rechterlijke instanties van de door de partijen bij de overeenkomst in onderlinge overeenstemming aangewezen Lidstaten.
 
 § 2. Tenzij de partijen anders zijn overeengekomen, is de rechterlijke instantie van de Lidstaat waar de beheerder zijn zetel heeft, bevoegd.
 
-#### Artikel 25. Verjaring
+##### Artikel 25. Verjaring
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen verjaren door verloop van drie jaar.
 
@@ -2692,11 +2714,11 @@ De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of
 
 § 6. Overigens geldt voor de schorsing en de stuiting van de verjaring het nationale recht.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast voor de verbindendverklaring van technische normen en de aanneming van uniforme technische voorschriften voor het spoorwegmaterieel bestemd voor gebruik in internationaal verkeer.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onder:
 
@@ -2726,7 +2748,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 - m. „Commissie van technisch deskundigen” de Commissie die genoemd is in [artikel 13, § 1, onder f van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2010-12-01&g=2010-12-01).
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 § 1. De verbindendverklaring van technische normen betreffende het spoorwegmaterieel en de aanneming van uniforme technische voorschriften die van toepassing zijn op het spoorwegmaterieel hebben tot doel:
 
@@ -2744,13 +2766,13 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 - b. zijn de technische normen en de uniforme technische voorschriften resultaatgericht; in voorkomend geval bevatten zij varianten.
 
-#### Artikel 4. Ontwikkeling van technische normen en voorschriften
+##### Artikel 4. Ontwikkeling van technische normen en voorschriften
 
 § 1. De ontwikkeling van technische normen en uniforme technische voorschriften betreffende het spoorwegmaterieel is het werkterrein van de instellingen van wie de bevoegdheid terzake erkend is.
 
 § 2. De normalisatie van industriële producten en procedures is het werkterrein van de erkende nationale en internationale normalisatie-instituten.
 
-#### Artikel 5. Verbindendverklaring van technische normen
+##### Artikel 5. Verbindendverklaring van technische normen
 
 § 1. Een verzoek voor het verbindendverklaren van een technische norm kan ingediend worden door:
 
@@ -2764,7 +2786,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 § 2. De Commissie van technisch deskundigen beslist over de verbindendverklaring van een technische norm volgens de procedure voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2010-12-01&g=2010-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2010-12-01&g=2010-12-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2010-12-01&g=2010-12-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2010-12-01&g=2010-12-01).
 
-#### Artikel 6. Aanneming van uniforme technische voorschriften
+##### Artikel 6. Aanneming van uniforme technische voorschriften
 
 § 1. Een verzoek voor het aannemen van een uniform technisch voorschrift kan ingediend worden door:
 
@@ -2776,11 +2798,11 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 § 2. De Commissie van technisch deskundigen beslist over de aanneming van een uniform technisch voorschrift volgens de procedure voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2010-12-01&g=2010-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2010-12-01&g=2010-12-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2010-12-01&g=2010-12-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2010-12-01&g=2010-12-01).
 
-#### Artikel 7. Vorm van de verzoeken
+##### Artikel 7. Vorm van de verzoeken
 
 De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en met redenen omkleed zijn. Deze moeten aan de Secretaris-Generaal van de Organisatie worden gericht in een van haar werktalen.
 
-#### Artikel 8. Technische bijlagen
+##### Artikel 8. Technische bijlagen
 
 § 1. De verbindendverklaarde technische normen en de aangenomen uniforme technische voorschriften zijn opgenomen in de navolgende Bijlagen van deze Uniforme Regelen:
 
@@ -2804,7 +2826,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en me
 
 § 3. De Bijlagen zullen de versie bevatten die, na de inwerkingtreding van het Protocol van 3 juni 1999 houdende wijziging van het Verdrag, aangenomen zal worden door de Commissie van technisch deskundigen volgens dezelfde procedure als voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2010-12-01&g=2010-12-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2010-12-01&g=2010-12-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2010-12-01&g=2010-12-01) voor het wijzigingen van de Bijlagen.
 
-#### Artikel 9. Verklaringen
+##### Artikel 9. Verklaringen
 
 § 1. Elke Verdragsstaat kan, binnen een termijn van vier maanden te rekenen vanaf de dag van de bekendmaking door de Secretaris-Generaal van het besluit van de Commissie van technisch deskundigen, ten overstaan van hem een met redenen omklede verklaring afleggen op grond waarvan hij de verbindendverklaarde technische norm of het uniform technisch voorschrift met betrekking tot de spoorweginfrastructuur op zijn grondgebied en het verkeer op deze infrastructuur niet of slechts gedeeltelijk zal toepassen.
 
@@ -2812,11 +2834,11 @@ De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en me
 
 § 3. De Staat die een verklaring heeft afgelegd overeenkomstig § 1 kan deze op elk moment intrekken door de Secretaris-Generaal hiervan op de hoogte te brengen. Deze intrekking wordt van kracht op de eerste dag van de tweede maand die volgt op de mededeling.
 
-#### Artikel 10. Opheffing van de Technische Eenheid
+##### Artikel 10. Opheffing van de Technische Eenheid
 
 De inwerkingtreding in alle Staten, die partij zijn bij het internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938, van de Bijlagen, die overeenkomstig artikel 8, § 3 zijn aangenomen door de Commissie van technisch deskundigen, heeft de opheffing van vorengenoemd Verdrag tot gevolg.
 
-#### Artikel 11. Voorrang van de Bijlagen
+##### Artikel 11. Voorrang van de Bijlagen
 
 § 1. Na de inwerkingtreding van de Bijlagen, die overeenkomstig artikel 8, § 3 zijn aangenomen door de Commissie van technisch deskundigen, hebben de technische normen en de uniforme technische voorschriften, die in deze Bijlagen zijn opgenomen, in de relaties tussen de Verdragsstaten voorrang op de bepalingen van het internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938.
 
@@ -2826,11 +2848,11 @@ De inwerkingtreding in alle Staten, die partij zijn bij het internationale Verdr
 
 - b. van het Reglement voor het wederzijds gebruik van wagens in internationaal verkeer (RIV).
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast volgens welke spoorwegvoertuigen en ander spoorwegmaterieel tot het rijden of tot het gebruik in internationaal verkeer toegelaten worden.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder:
 
@@ -2856,7 +2878,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 - k. „Commissie van technisch deskundigen” de Commissie die genoemd is in [artikel 13, § 1, onder f van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2010-12-01&g=2010-12-01).
 
-#### Artikel 3. Toelating tot het internationaal verkeer
+##### Artikel 3. Toelating tot het internationaal verkeer
 
 § 1. Om in internationaal verkeer te rijden, moet ieder spoorwegvoertuig overeenkomstig deze Uniforme Regelen zijn toegelaten.
 
@@ -2870,7 +2892,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 § 3. De §§ 1 en 2 alsook de volgende artikelen zijn van overeenkomstige toepassing op de technische toelating van ander spoorwegmaterieel en op de afzonderlijke bouwonderdelen van zowel spoorwegvoertuigen als van ander spoorwegmaterieel.
 
-#### Artikel 4. Procedure
+##### Artikel 4. Procedure
 
 § 1. De technische toelating geschiedt:
 
@@ -2884,17 +2906,17 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 § 2. Deze bepaling laat de toepassing van artikel 10 onverlet.
 
-#### Artikel 5. Bevoegde overheid
+##### Artikel 5. Bevoegde overheid
 
 § 1. De technische toelating van spoorwegvoertuigen tot het rijden in internationaal verkeer behoort tot de taak van de nationale of internationale overheden die overeenkomstig de geldende wetten en voorschriften in iedere Verdragsstaat terzake bevoegd zijn.
 
 § 2. De in § 1 genoemde overheden kunnen de bevoegdheid voor het verlenen van de technische toelating overdragen aan als bekwaam erkende instellingen, op voorwaarde dat zij voor het toezicht zorgen. De overdracht van de bevoegdheid om de technische toelating te verlenen aan een spoorwegvervoeronderneming waarbij andere van deze bevoegdheid worden uitgesloten, is niet toegelaten. Bovendien is de overdracht aan een beheerder van de infrastructuur die direct of indirect betrokken is bij de bouw van spoorwegmaterieel uitgesloten.
 
-#### Artikel 6. Erkenning van de technische toelating
+##### Artikel 6. Erkenning van de technische toelating
 
 De overeenkomstig deze Uniforme Regelen door de bevoegde overheid van een Verdragsstaat verleende typetoelating en de gebruikstoelating, alsook de overeenkomstige certificaten worden door de overheden, de spoorwegvervoerondernemingen en de beheerders van de infrastructuur in de andere Verdragsstaten erkend zonder dat er een nieuw onderzoek en een nieuwe technische toelating nodig is met het oog op het rijden en het gebruik op het grondgebied van deze andere Staten.
 
-#### Artikel 7. Bouwvoorschriften die van toepassing zijn op de voertuigen
+##### Artikel 7. Bouwvoorschriften die van toepassing zijn op de voertuigen
 
 § 1. Om toegelaten te worden tot het rijden in internationaal verkeer moeten de spoorwegvoertuigen beantwoorden aan:
 
@@ -2914,7 +2936,7 @@ blijvend gewaarborgd zijn.
 
 § 4. Wanneer een Verdragsstaat de bedoeling heeft overeenkomstig § 2 of § 3 een spoorwegvoertuig toe te laten, brengt deze de Secretaris-Generaal van de Organisatie daarvan onverwijld op de hoogte. Die deelt deze informatie mee aan de andere Verdragsstaten. Binnen een termijn van een maand na ontvangst van de mededeling van de Secretaris-Generaal kan een Verdragsstaat verzoeken de Commissie van technisch deskundigen bijeen te roepen om te onderzoeken of de voorwaarden voor de toepassing van § 2 of § 3 vervuld zijn. De Commissie beslist hierover binnen een termijn van drie maanden te rekenen vanaf de ontvangst door de Secretaris-Generaal van het verzoek tot bijeenroeping.
 
-#### Artikel 8. Bouwvoorschriften die van toepassing zijn op ander materieel
+##### Artikel 8. Bouwvoorschriften die van toepassing zijn op ander materieel
 
 § 1. Om toegelaten te worden tot het gebruik in internationaal verkeer moet het ander spoorwegmaterieel beantwoorden aan de bouwvoorschriften in de Bijlagen van de Uniforme Regelen APTU.
 
@@ -2922,13 +2944,13 @@ blijvend gewaarborgd zijn.
 
 § 3. De verplichtingen van de Verdragsstaten die voor hen voortvloeien uit de Europese Overeenkomst over de grote internationale spoorweglijnen (AGC) van 31 mei 1985 en de Europese Overeenkomst over de hoofdlijnen van internationaal gecombineerd vervoer en de daarmee samenhangende installaties (AGTC) van 1 februari 1991, waarbij zij eveneens partij zijn, blijven van toepassing.
 
-#### Artikel 9. Bedrijfsvoorschriften
+##### Artikel 9. Bedrijfsvoorschriften
 
 § 1. De spoorwegvervoerondernemingen die een spoorwegvoertuig in bedrijf hebben dat toegelaten is tot het rijden in internationaal verkeer zijn verplicht de voorschriften betreffende het in bedrijf hebben van een voertuig in internationaal verkeer, die in de Bijlagen van de Uniforme Regelen APTU zijn opgenomen, in acht te nemen.
 
 § 2. De ondernemingen of de administraties die in de Verdragsstaten een infrastructuur met inbegrip van de verkeersveiligheids- en de regelingssystemen, bestemd en geschikt om gebruikt te worden in internationaal verkeer, beheren, zijn verplicht de technische voorschriften in de Bijlagen van de Uniforme Regelen APTU in acht te nemen en deze voortdurend na te leven bij de bouw of het beheer van deze infrastructuur.
 
-#### Artikel 10. Technische toelating
+##### Artikel 10. Technische toelating
 
 § 1. De technische toelating (typetoelating, gebruikstoelating) heeft betrekking op het prototype van een spoorwegvoertuig of op het spoorwegvoertuig.
 
@@ -2974,7 +2996,7 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 11. Bij het ontbreken van bepalingen in deze Uniforme Regelen wordt de procedure van de technische toelating geregeld door het nationale recht van de Verdragsstaat waarin een aanvraag tot technische toelating wordt ingediend.
 
-#### Artikel 11. Certificaten
+##### Artikel 11. Certificaten
 
 § 1. De typetoelating en de gebruikstoelating worden vastgelegd in afzonderlijke documenten, genaamd: „Certificaat van de typetoelating” en „Certificaat van de gebruikstoelating”.
 
@@ -3000,13 +3022,13 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 4. De certificaten moeten in tenminste twee talen worden afgedrukt waarvan minstens één een werktaal van de Organisatie moet zijn.
 
-#### Artikel 12. Standaardmodellen
+##### Artikel 12. Standaardmodellen
 
 § 1. De Organisatie schrijft uniforme modellen voor van het „Certificaat van de typetoelating” en van het „Certificaat van de gebruikstoelating”. Deze worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen.
 
 § 2. [Artikel 35, §§ 1 en 3 tot en met 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2010-12-01&g=2010-12-01) is van overeenkomstige toepassing.
 
-#### Artikel 13. Databank
+##### Artikel 13. Databank
 
 § 1. Een databank betreffende de spoorwegvoertuigen die toegelaten zijn tot het rijden in internationaal verkeer, wordt opgericht en bijgehouden onder de verantwoordelijkheid van de Organisatie.
 
@@ -3028,7 +3050,7 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 5. De gegevens, waartoe de in § 4 bedoelde rechthebbenden toegang hebben alsook de toegangsvoorwaarden worden vastgelegd in een Bijlage bij deze Uniforme Regelen. Deze Bijlage vormt een integrerend deel van deze Uniforme Regelen. Deze krijgt de inhoud die de Herzieningscommissie beslist volgens de procedure die voorgeschreven is in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2010-12-01&g=2010-12-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=17&z=2010-12-01&g=2010-12-01) en [33, § 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2010-12-01&g=2010-12-01).
 
-#### Artikel 14. Opschriften en tekens
+##### Artikel 14. Opschriften en tekens
 
 § 1. De spoorwegvoertuigen die toegelaten zijn tot het rijden in internationaal verkeer, moeten voorzien zijn van:
 
@@ -3040,11 +3062,11 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 3. [Artikel 35, §§ 1 en 3 tot en met 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2010-12-01&g=2010-12-01) is van overeenkomstige toepassing.
 
-#### Artikel 15. Onderhoud
+##### Artikel 15. Onderhoud
 
 De spoorwegvoertuigen en het ander spoorwegmaterieel moeten in een zodanig goede staat gehouden worden dat de veiligheid van de bedrijfsvoering op geen enkele wijze in het gedrang komt en dat het milieu en de volksgezondheid geen schade ondervinden bij het rijden of hun gebruik in internationaal verkeer. Daartoe moeten de spoorwegvoertuigen worden onderworpen aan de revisies en de onderhoudswerkzaamheden die zijn voorgeschreven in de Bijlagen van de Uniforme Regelen APTU, in de bijzondere toelatingsvoorwaarden met toepassing van artikel 7, § 2 of § 3 of in bouw- en uitrustingsvoorwaarden in de Bijlage van het RID.
 
-#### Artikel 16. Ongevallen en ernstige beschadigingen
+##### Artikel 16. Ongevallen en ernstige beschadigingen
 
 § 1. In geval van een ongeval of een ernstige beschadiging van spoorwegvoertuigen zijn de beheerders van de infrastructuur, in voorkomend geval gezamenlijk met de houders en de betrokken spoorwegvervoerondernemingen, verplicht om:
 
@@ -3058,17 +3080,17 @@ De spoorwegvoertuigen en het ander spoorwegmaterieel moeten in een zodanig goede
 
 § 4. De bevoegde overheden van de Verdragsstaten brengen de Organisatie op de hoogte van de oorzaken van de ongevallen en van de ernstige beschadigingen in internationaal verkeer. De Commissie van technisch deskundigen kan op verzoek van een Verdragsstaat de oorzaken van ernstige ongevallen in internationaal verkeer onderzoeken met het oog op de eventueel verdere ontwikkeling van de bouw- en bedrijfsvoorschriften voor de voertuigen en ander spoorwegmaterieel in de Bijlagen van de Uniforme Regelen APTU.
 
-#### Artikel 17. Stilzetten en weigering van voertuigen
+##### Artikel 17. Stilzetten en weigering van voertuigen
 
 De in artikel 5 bedoelde overheid, een andere spoorwegonderneming of een beheerder van de infrastructuur kunnen spoorwegvoertuigen niet weigeren of stilzetten wanneer deze Uniforme Regelen, de voorschriften van de Bijlagen van de Uniforme Regelen APTU, de bijzondere voorwaarden van een toelating met toepassing van artikel 7, § 2 of § 3 alsook de bouw- en uitrustingsvoorschriften in de Bijlage van het RID in acht zijn genomen.
 
-#### Artikel 18. Niet inachtneming van voorschriften
+##### Artikel 18. Niet inachtneming van voorschriften
 
 § 1. Behoudens § 2 en artikel 10, § 9, onder c, worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en van de voorschriften van de Bijlagen van de Uniforme Regelen APTU geregeld door het nationale recht van de Verdragsstaat waarvan de bevoegde overheid de gebruikstoelating heeft verleend, de conflictregels daaronder begrepen.
 
 § 2. De burgerrechtelijke en strafrechtelijke gevolgen die voortvloeien uit het niet in acht nemen van deze Uniforme Regelen en van de voorschriften van de Bijlagen van de Uniforme Regelen APTU worden, wat de infrastructuur betreft, geregeld door het nationale recht van de Verdragsstaat waar de beheerder van de infrastructuur zijn zetel heeft, de conflictregels daaronder begrepen.
 
-#### Artikel 19. Meningsverschillen
+##### Artikel 19. Meningsverschillen
 
 Twee of meer Verdragsstaten die een meningsverschil hebben over de technische toelating van voertuigen en ander spoorwegmaterieel dat bestemd is om te worden gebruikt in internationaal verkeer, kunnen dit voorleggen aan de Commissie van technisch deskundigen indien zij er niet in geslaagd zijn dit te regelen door rechtstreekse onderhandelingen. Dergelijke meningsverschillen kunnen ook aan een scheidsgerecht worden onderworpen overeenkomstig de in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2010-12-01&g=2010-12-01) bedoelde procedure.
 
@@ -3076,23 +3098,23 @@ EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs 
 
 FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des langues française, allemande et anglaise; ces exemplaires restent déposés dans les archives de l'OTIF. Des copies certifiées conformes en seront remises à chacun des Etats membres.
 
-#### Artikel 1bis. Begripsomschrijvingen
+##### Artikel 1bis. Begripsomschrijvingen
 
 Voor de toepassing van dit Reglement en de Bijlage daarbij wordt onder „ RID-Verdragsstaat” elke Lidstaat van de Organisatie verstaan die geen verklaring ten aanzien van dit Reglement heeft afgelegd, in overeenstemming met [artikel 42, §1, eerste volzin, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VII&artikel=42&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 2. Vrijstellingen
+##### Artikel 2. Vrijstellingen
 
 Dit Reglement is geheel of gedeeltelijk niet van toepassing op het vervoer van gevaarlijke goederen, waarvan in de Bijlage de vrijstelling is voorzien. Vrijstellingen zijn slechts toegelaten, wanneer de hoeveelheid, de aard van het vrijgestelde vervoer of de verpakking de veiligheid van het vervoer waarborgen.
 
-#### Artikel 3. Beperkingen
+##### Artikel 3. Beperkingen
 
 Iedere RID-Verdragsstaat behoudt het recht om het internationale vervoer van gevaarlijke goederen op zijn grondgebied op andere gronden dan die van de veiligheid gedurende het vervoer te regelen of te verbieden.
 
-#### Artikel 4. Andere voorschriften
+##### Artikel 4. Andere voorschriften
 
 Het vervoer, waarop dit Reglement van toepassing is, blijft onderworpen aan de algemene nationale of internationale voorschriften, die in hun algemeenheid van toepassing zijn op het spoorwegvervoer van goederen.
 
-#### Artikel 5. Toegelaten treinsoorten. Vervoer als handbagage, aangegeven bagage of in voertuigen
+##### Artikel 5. Toegelaten treinsoorten. Vervoer als handbagage, aangegeven bagage of in voertuigen
 
 § 1. De gevaarlijke goederen mogen alleen in goederentreinen vervoerd worden, met uitzondering van:
 
@@ -3102,15 +3124,15 @@ Het vervoer, waarop dit Reglement van toepassing is, blijft onderworpen aan de a
 
 § 2. Gevaarlijke goederen mogen uitsluitend als handbagage worden meegenomen of worden verzonden of vervoerd als aangegeven bagage of aan boord van voertuigen indien zij voldoen aan de bijzondere voorwaarden van de Bijlage.
 
-#### Artikel 6. Bijlage
+##### Artikel 6. Bijlage
 
 De Bijlage vormt een integrerend deel van dit Reglement.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen zijn van toepassing op bilaterale of multilaterale overeenkomsten inzake het gebruik van spoorvoertuigen als vervoermiddel voor het verrichten van vervoer volgens de Uniforme Regelen CIV en de Uniforme Regelen CIM.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -3122,7 +3144,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - d. „depotstation”: de plaats die op het voertuig is vermeld en waarnaar dit voertuig, overeenkomstig de voorwaarden in de gebruiksovereenkomst, kan of moet worden teruggezonden.
 
-#### Artikel 3. Tekens en opschriften op de voertuigen
+##### Artikel 3. Tekens en opschriften op de voertuigen
 
 § 1. Onverminderd de voorschriften inzake de technische toelating van voertuigen tot het internationale verkeer, moet degene die krachtens een in artikel 1 bedoelde overeenkomst een voertuig ter beschikking stelt, ervoor zorgdragen dat de volgende gegevens op het voertuig worden vermeld:
 
@@ -3136,7 +3158,7 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 2. De in § 1 bedoelde tekens en opschriften kunnen worden aangevuld met elektronische identificatiemiddelen.
 
-#### Artikel 4. Aansprakelijkheid in geval van verlies of beschadiging van een voertuig
+##### Artikel 4. Aansprakelijkheid in geval van verlies of beschadiging van een voertuig
 
 § 1. Tenzij de spoorwegvervoeronderneming aan wie het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld, bewijst dat de schade niet het gevolg is van haar schuld, is zij aansprakelijk voor de schade die het gevolg is van het verlies of de beschadiging van het voertuig of zijn losse bestanddelen.
 
@@ -3148,11 +3170,11 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 § 5. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van de §§ 1 tot en met 4.
 
-#### Artikel 5. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 5. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in artikel 4, §§ 3 en 4 bedoelde beperkingen van aansprakelijkheid zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de vervoerder geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 6. Vermoeden van verlies van een voertuig
+##### Artikel 6. Vermoeden van verlies van een voertuig
 
 § 1. De rechthebbende kan, zonder nader bewijs, een voertuig als verloren beschouwen, wanneer hij de spoorwegvervoeronderneming waaraan hij het voertuig voor gebruik als vervoermiddel ter beschikking heeft gesteld, heeft verzocht dit voertuig op te sporen en indien dit voertuig niet binnen drie maanden na ontvangst van zijn verzoek te zijner beschikking is gesteld, of wanneer hij geen enkele aanwijzing heeft gekregen omtrent de plaats waar het voertuig zich bevindt. Deze termijn wordt verlengd met de duur van de stilstand van het voertuig ontstaan door een niet aan de spoorwegvervoeronderneming te wijten oorzaak welke dan ook of door schade.
 
@@ -3162,13 +3184,13 @@ De in artikel 4, §§ 3 en 4 bedoelde beperkingen van aansprakelijkheid zijn nie
 
 § 4. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van de §§ 1 tot en met 3.
 
-#### Artikel 7. Aansprakelijkheid voor door een voertuig veroorzaakte schade
+##### Artikel 7. Aansprakelijkheid voor door een voertuig veroorzaakte schade
 
 § 1. Degene die krachtens een in artikel 1 bedoelde overeenkomst een voertuig voor gebruik als vervoermiddel ter beschikking heeft gesteld, is aansprakelijk voor de door dat voertuig veroorzaakte schade, wanneer deze schade aan zijn schuld te wijten is.
 
 § 2. De partijen bij de overeenkomst kunnen bedingen overeenkomen die afwijken van § 1.
 
-#### Artikel 8. Subrogatie
+##### Artikel 8. Subrogatie
 
 Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat de spoorwegvervoeronderneming het voertuig aan andere spoorwegvervoerondernemingen ter beschikking kan stellen voor gebruik als vervoermiddel, kan de spoorwegvervoeronderneming, met instemming van de houder, met de andere spoorwegvervoerondernemingen overeenkomen:
 
@@ -3176,7 +3198,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 - b. dat alleen de houder jegens de andere spoorwegvervoerondernemingen aansprakelijk is voor door het voertuig veroorzaakte schade, maar dat alleen de spoorwegvervoeronderneming die de contractuele wederpartij van de houder is, bevoegd is de rechten van de andere spoorwegvervoerondernemingen te doen gelden.
 
-#### Artikel 9. Aansprakelijkheid voor ondergeschikten en andere personen
+##### Artikel 9. Aansprakelijkheid voor ondergeschikten en andere personen
 
 § 1. De partijen bij de overeenkomst zijn aansprakelijk voor hun ondergeschikten en voor andere personen, van wier diensten zij gebruik maken bij de uitvoering van de overeenkomst, wanneer deze ondergeschikten of andere personen handelen in de uitoefening van hun werkzaamheden.
 
@@ -3184,7 +3206,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 § 3. De §§ 1 en 2 zijn eveneens van toepassing in geval van subrogatie overeenkomstig artikel 8.
 
-#### Artikel 10. Andere vorderingen
+##### Artikel 10. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de spoorwegvervoeronderneming waaraan het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld slechts een vordering wegens aansprakelijkheid voor verlies of beschadiging van het voertuig of zijn losse bestanddelen, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen en die van de gebruiksovereenkomst.
 
@@ -3192,13 +3214,13 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 § 3. Hetzelfde geldt voor een vordering ingesteld tegen de ondergeschikten en de andere personen voor wie de spoorwegvervoeronderneming, waaraan het voertuig voor gebruik als vervoermiddel ter beschikking is gesteld, aansprakelijk is.
 
-#### Artikel 11. Rechtsmacht
+##### Artikel 11. Rechtsmacht
 
 § 1. De rechtsvorderingen voortvloeiend uit een op grond van deze Uniforme Regelen gesloten overeenkomst, kunnen worden ingesteld bij de in onderlinge overeenstemming door de partijen bij de overeenkomst aangewezen rechterlijke instantie.
 
 § 2. Tenzij de partijen anders zijn overeengekomen, is de rechterlijke instantie van de Lidstaat waar de verweerder zijn zetel heeft, bevoegd. Indien de verweerder geen zetel heeft in een Lidstaat, is de rechterlijke instantie van de Lidstaat waar de schade is ontstaan, bevoegd.
 
-#### Artikel 12. Verjaring
+##### Artikel 12. Verjaring
 
 § 1. De rechtsvorderingen gegrond op de artikelen 4 en 7 verjaren door verloop van drie jaar.
 
@@ -3210,7 +3232,7 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 § 1. Deze Uniforme Regelen zijn van toepassing op elke overeenkomst inzake het gebruik van een spoorweginfrastructuur ten behoeve van internationaal vervoer in de zin van de Uniforme Regelen CIV en Uniforme Regelen CIM. Dit geldt ongeacht de zetel en de nationaliteit van de partijen bij de overeenkomst. Deze Uniforme Regelen zijn eveneens van toepassing, wanneer de spoorweginfrastructuur wordt beheerd of gebruikt door Staten of overheidsinstellingen of -organisaties.
 
@@ -3220,13 +3242,13 @@ Wanneer in de overeenkomst inzake het gebruik van voertuigen wordt bepaald dat d
 
 - b. de aansprakelijkheid tussen de vervoerder of de beheerder enerzijds en derden anderzijds.
 
-#### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van personenschade
+##### Artikel 2. Verklaring betreffende de aansprakelijkheid in geval van personenschade
 
 § 1. Iedere Staat kan op elk tijdstip verklaren dat hij alle bepalingen betreffende de aansprakelijkheid in geval van personenschade niet zal toepassen op slachtoffers van een ongeval op zijn grondgebied, die zijn onderdanen zijn of hun gewone verblijfplaats hebben in deze Staat.
 
 § 2. De Staat die een verklaring overeenkomstig § 1 heeft afgelegd, kan deze op elk tijdstip herroepen door hiervan mededeling te doen aan de depositaris. Deze herroeping wordt van kracht een maand na de dag waarop de depositaris de Lidstaten hiervan kennis heeft gegeven.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
@@ -3248,13 +3270,13 @@ Voor de toepassing van deze Uniforme Regelen wordt verstaan onder:
 
 - –. het in te zetten personeel en de te gebruiken voertuigen op de infrastructuur,
 
-#### Artikel 4. Dwingend recht
+##### Artikel 4. Dwingend recht
 
 Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding dat middellijk of onmiddellijk afwijkt van deze Uniforme Regelen nietig en zonder rechtsgevolgen. De nietigheid van dergelijke bedingen heeft niet de nietigheid van de overige bepalingen van de overeenkomst tot gevolg. Niettemin kunnen de partijen bij de overeenkomst een zwaardere aansprakelijkheid en zwaardere verplichtingen op zich nemen dan die welke in deze Uniforme Regelen zijn bepaald of een maximumbedrag voor de vergoeding van zaakschade vaststellen.
 
 ## TITEL II. GEBRUIKSOVEREENKOMST
 
-#### Artikel 5. Inhoud en vorm
+##### Artikel 5. Inhoud en vorm
 
 § 1. De betrekkingen tussen de beheerder en de vervoerder of elke andere persoon die, overeenkomstig de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, gemachtigd is een dergelijke overeenkomst aan te gaan, worden geregeld in een gebruiksovereenkomst.
 
@@ -3262,7 +3284,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 3. De overeenkomst moet schriftelijk of in een gelijkwaardige vorm worden vastgelegd. Het ontbreken of de onregelmatigheid van een schriftelijke of in een andere vorm gedane vastlegging of het ontbreken van een van de in § 2 bedoelde gegevens tast noch het bestaan, noch de geldigheid van de overeenkomst aan, die onderworpen blijft aan deze Uniforme Regelen.
 
-#### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
+##### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
 
 § 1. De vervoerder moet bevoegd zijn de activiteit van spoorwegvervoerder uit te oefenen. Het in te zetten personeel en de te gebruiken voertuigen moeten voldoen aan de veiligheidseisen. De beheerder kan verlangen dat de vervoerder, door middel van overlegging van een geldige vergunning en een geldig veiligheidscertificaat of van gewaarmerkte afschriften dan wel op andere wijze, bewijst dat aan deze voorwaarden is voldaan.
 
@@ -3272,7 +3294,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 § 4. De partijen bij de overeenkomst moeten elkaar in kennis stellen van elke gebeurtenis die de uitvoering van de door hen gesloten overeenkomst zou kunnen verhinderen.
 
-#### Artikel 7. Duur van de overeenkomst
+##### Artikel 7. Duur van de overeenkomst
 
 § 1. De gebruiksovereenkomst kan worden gesloten voor bepaalde of onbepaalde tijd.
 
@@ -3300,7 +3322,7 @@ Voorzover deze Uniforme Regelen het niet uitdrukkelijk toelaten, is elk beding d
 
 ## TITEL III. AANSPRAKELIJKHEID
 
-#### Artikel 8. Aansprakelijkheid van de beheerder
+##### Artikel 8. Aansprakelijkheid van de beheerder
 
 § 1. De beheerder is aansprakelijk voor:
 
@@ -3328,7 +3350,7 @@ toegebracht aan de vervoerder of aan zijn hulppersonen gedurende het gebruik van
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de beheerder aansprakelijk is voor aan de vervoerder toegebrachte schade als gevolg van een vertraging of een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 9. Aansprakelijkheid van de vervoerder
+##### Artikel 9. Aansprakelijkheid van de vervoerder
 
 § 1. De vervoerder is aansprakelijk voor:
 
@@ -3354,7 +3376,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de vervoerder aansprakelijk is voor aan de beheerder toegebrachte schade als gevolg van een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 10. Medeschuld
+##### Artikel 10. Medeschuld
 
 § 1. Wanneer oorzaken die aan de beheerder en oorzaken die aan de vervoerder toe te rekenen zijn, hebben bijgedragen aan de schade, is iedere partij bij de overeenkomst slechts aansprakelijk voorzover de oorzaken die krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2011-01-01&g=2011-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2011-01-01&g=2011-01-01) aan haar toe te rekenen zijn, aan de schade hebben bijgedragen. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, draagt iedere partij de door haar geleden schade.
 
@@ -3362,7 +3384,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 3. In geval van schade zoals bedoeld in [artikel 9, is § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing, wanneer oorzaken die hebben bijgedragen aan de schade, toe te rekenen zijn aan meerdere vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, zijn de vervoerders jegens de beheerder voor gelijke delen aansprakelijk.
 
-#### Artikel 11. Schadevergoeding in geval van dood
+##### Artikel 11. Schadevergoeding in geval van dood
 
 § 1. In geval van dood omvat de schadevergoeding:
 
@@ -3372,7 +3394,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 2. Indien door de dood personen, jegens wie de overledene een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de overledene zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
-#### Artikel 12. Schadevergoeding in geval van letsel
+##### Artikel 12. Schadevergoeding in geval van letsel
 
 In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de schadevergoeding:
 
@@ -3380,47 +3402,47 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de s
 
 - b. het vermogensnadeel dat de benadeelde persoon lijdt door een gehele of gedeeltelijke arbeidsongeschiktheid of door een toename van zijn behoeften.
 
-#### Artikel 13. Vergoeding van andere personenschade
+##### Artikel 13. Vergoeding van andere personenschade
 
 Het nationale recht bepaalt of, en in welke mate, de beheerder of de vervoerder andere dan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2011-01-01&g=2011-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2011-01-01&g=2011-01-01) bedoelde personenschade moet vergoeden.
 
-#### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
+##### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
 § 1. De in de [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2011-01-01&g=2011-01-01) en [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2011-01-01&g=2011-01-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de benadeelde persoon of de in [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2011-01-01&g=2011-01-01) bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per persoon een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
-#### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de bepalingen van het nationale recht die de vergoedingen tot een bepaald bedrag beperken, zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de veroorzaker van de schade geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 16. Omrekening en rente
+##### Artikel 16. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers geldend op de dag en de plaats van betaling van de schadevergoeding.
 
 § 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van aanvang van een bemiddelingsprocedure, van het beroep op het in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2011-01-01&g=2011-01-01) bedoelde scheidsgerecht of van het instellen van de rechtsvordering.
 
-#### Artikel 17. Aansprakelijkheid in geval van een kernongeval
+##### Artikel 17. Aansprakelijkheid in geval van een kernongeval
 
 De beheerder en de vervoerder zijn ontheven van de krachtens deze Uniforme Regelen op hen rustende aansprakelijkheid, wanneer de schade is veroorzaakt door een kernongeval en wanneer de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten en voorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 18. Aansprakelijkheid voor hulppersonen
+##### Artikel 18. Aansprakelijkheid voor hulppersonen
 
 De beheerder en de vervoerder zijn aansprakelijk voor hun hulppersonen.
 
-#### Artikel 19. Andere vorderingen
+##### Artikel 19. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de beheerder of tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
 § 2. Hetzelfde geldt voor een vordering ingesteld tegen de hulppersonen voor wie de beheerder of de vervoerder krachtens artikel 18 aansprakelijk is.
 
-#### Artikel 20. Beding voor geschillenregeling
+##### Artikel 20. Beding voor geschillenregeling
 
 De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun recht op schadevergoeding ten aanzien van de andere partij bij de overeenkomst kunnen doen gelden of hiervan kunnen afzien.
 
 ## TITEL IV. VORDERINGEN VAN HULPPERSONEN
 
-#### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
+##### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
 
 § 1. Elke vordering van hulppersonen van de vervoerder wegens aansprakelijkheid tegen de beheerder met betrekking tot door deze laatste veroorzaakte schade, kan, ongeacht de rechtsgrond, slechts worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
@@ -3428,21 +3450,21 @@ De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun rech
 
 ## TITEL V. UITOEFENING VAN RECHTEN
 
-#### Artikel 22. Bemiddelingsprocedure
+##### Artikel 22. Bemiddelingsprocedure
 
 De partijen bij de overeenkomst kunnen bemiddelingsprocedures overeenkomen of een beroep doen op een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2011-01-01&g=2011-01-01) voorgeschreven scheidsgerecht.
 
-#### Artikel 23. Regres
+##### Artikel 23. Regres
 
 De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of Uniforme Regelen CIM gedane betaling kan niet worden betwist, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer de beheerder, naar behoren gedagvaard, in staat is gesteld zich in de rechtszaak te voegen.
 
-#### Artikel 24. Rechtsmacht
+##### Artikel 24. Rechtsmacht
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen kunnen worden ingesteld bij de rechterlijke instanties van de door de partijen bij de overeenkomst in onderlinge overeenstemming aangewezen Lidstaten.
 
 § 2. Tenzij de partijen anders zijn overeengekomen, is de rechterlijke instantie van de Lidstaat waar de beheerder zijn zetel heeft, bevoegd.
 
-#### Artikel 25. Verjaring
+##### Artikel 25. Verjaring
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen verjaren door verloop van drie jaar.
 
@@ -3456,11 +3478,11 @@ De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of
 
 § 6. Overigens geldt voor de schorsing en de stuiting van de verjaring het nationale recht.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast voor de verbindendverklaring van technische normen en de aanneming van uniforme technische voorschriften voor het spoorwegmaterieel bestemd voor gebruik in internationaal verkeer.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onder:
 
@@ -3490,7 +3512,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 - m. „Commissie van technisch deskundigen” de Commissie die genoemd is in [artikel 13, § 1, onder f van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2011-01-01&g=2011-01-01).
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 § 1. De verbindendverklaring van technische normen betreffende het spoorwegmaterieel en de aanneming van uniforme technische voorschriften die van toepassing zijn op het spoorwegmaterieel hebben tot doel:
 
@@ -3508,13 +3530,13 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 - b. zijn de technische normen en de uniforme technische voorschriften resultaatgericht; in voorkomend geval bevatten zij varianten.
 
-#### Artikel 4. Ontwikkeling van technische normen en voorschriften
+##### Artikel 4. Ontwikkeling van technische normen en voorschriften
 
 § 1. De ontwikkeling van technische normen en uniforme technische voorschriften betreffende het spoorwegmaterieel is het werkterrein van de instellingen van wie de bevoegdheid terzake erkend is.
 
 § 2. De normalisatie van industriële producten en procedures is het werkterrein van de erkende nationale en internationale normalisatie-instituten.
 
-#### Artikel 5. Verbindendverklaring van technische normen
+##### Artikel 5. Verbindendverklaring van technische normen
 
 § 1. Een verzoek voor het verbindendverklaren van een technische norm kan ingediend worden door:
 
@@ -3528,7 +3550,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 § 2. De Commissie van technisch deskundigen beslist over de verbindendverklaring van een technische norm volgens de procedure voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2011-01-01&g=2011-01-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2011-01-01&g=2011-01-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2011-01-01&g=2011-01-01).
 
-#### Artikel 6. Aanneming van uniforme technische voorschriften
+##### Artikel 6. Aanneming van uniforme technische voorschriften
 
 § 1. Een verzoek voor het aannemen van een uniform technisch voorschrift kan ingediend worden door:
 
@@ -3540,11 +3562,11 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlagen wordt verstaan onde
 
 § 2. De Commissie van technisch deskundigen beslist over de aanneming van een uniform technisch voorschrift volgens de procedure voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2011-01-01&g=2011-01-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2011-01-01&g=2011-01-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2011-01-01&g=2011-01-01).
 
-#### Artikel 7. Vorm van de verzoeken
+##### Artikel 7. Vorm van de verzoeken
 
 De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en met redenen omkleed zijn. Deze moeten aan de Secretaris-Generaal van de Organisatie worden gericht in een van haar werktalen.
 
-#### Artikel 8. Technische bijlagen
+##### Artikel 8. Technische bijlagen
 
 § 1. De verbindendverklaarde technische normen en de aangenomen uniforme technische voorschriften zijn opgenomen in de navolgende Bijlagen van deze Uniforme Regelen:
 
@@ -3568,7 +3590,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en me
 
 § 3. De Bijlagen zullen de versie bevatten die, na de inwerkingtreding van het Protocol van 3 juni 1999 houdende wijziging van het Verdrag, aangenomen zal worden door de Commissie van technisch deskundigen volgens dezelfde procedure als voorgeschreven in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2011-01-01&g=2011-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2011-01-01&g=2011-01-01) en [33, § 6 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2011-01-01&g=2011-01-01) voor het wijzigingen van de Bijlagen.
 
-#### Artikel 9. Verklaringen
+##### Artikel 9. Verklaringen
 
 § 1. Elke Verdragsstaat kan, binnen een termijn van vier maanden te rekenen vanaf de dag van de bekendmaking door de Secretaris-Generaal van het besluit van de Commissie van technisch deskundigen, ten overstaan van hem een met redenen omklede verklaring afleggen op grond waarvan hij de verbindendverklaarde technische norm of het uniform technisch voorschrift met betrekking tot de spoorweginfrastructuur op zijn grondgebied en het verkeer op deze infrastructuur niet of slechts gedeeltelijk zal toepassen.
 
@@ -3576,11 +3598,11 @@ De in de artikelen 5 en 6 bedoelde verzoeken moeten volledig, begrijpelijk en me
 
 § 3. De Staat die een verklaring heeft afgelegd overeenkomstig § 1 kan deze op elk moment intrekken door de Secretaris-Generaal hiervan op de hoogte te brengen. Deze intrekking wordt van kracht op de eerste dag van de tweede maand die volgt op de mededeling.
 
-#### Artikel 10. Opheffing van de Technische Eenheid
+##### Artikel 10. Opheffing van de Technische Eenheid
 
 De inwerkingtreding in alle Staten, die partij zijn bij het internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938, van de Bijlagen, die overeenkomstig artikel 8, § 3 zijn aangenomen door de Commissie van technisch deskundigen, heeft de opheffing van vorengenoemd Verdrag tot gevolg.
 
-#### Artikel 11. Voorrang van de Bijlagen
+##### Artikel 11. Voorrang van de Bijlagen
 
 § 1. Na de inwerkingtreding van de Bijlagen, die overeenkomstig artikel 8, § 3 zijn aangenomen door de Commissie van technisch deskundigen, hebben de technische normen en de uniforme technische voorschriften, die in deze Bijlagen zijn opgenomen, in de relaties tussen de Verdragsstaten voorrang op de bepalingen van het internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938.
 
@@ -3590,11 +3612,11 @@ De inwerkingtreding in alle Staten, die partij zijn bij het internationale Verdr
 
 - b. van het Reglement voor het wederzijds gebruik van wagens in internationaal verkeer (RIV).
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast volgens welke spoorwegvoertuigen en ander spoorwegmaterieel tot het rijden of tot het gebruik in internationaal verkeer toegelaten worden.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder:
 
@@ -3620,7 +3642,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 - k. „Commissie van technisch deskundigen” de Commissie die genoemd is in [artikel 13, § 1, onder f van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=13&z=2011-01-01&g=2011-01-01).
 
-#### Artikel 3. Toelating tot het internationaal verkeer
+##### Artikel 3. Toelating tot het internationaal verkeer
 
 § 1. Om in internationaal verkeer te rijden, moet ieder spoorwegvoertuig overeenkomstig deze Uniforme Regelen zijn toegelaten.
 
@@ -3634,7 +3656,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 § 3. De §§ 1 en 2 alsook de volgende artikelen zijn van overeenkomstige toepassing op de technische toelating van ander spoorwegmaterieel en op de afzonderlijke bouwonderdelen van zowel spoorwegvoertuigen als van ander spoorwegmaterieel.
 
-#### Artikel 4. Procedure
+##### Artikel 4. Procedure
 
 § 1. De technische toelating geschiedt:
 
@@ -3648,17 +3670,17 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage wordt verstaan onder
 
 § 2. Deze bepaling laat de toepassing van artikel 10 onverlet.
 
-#### Artikel 5. Bevoegde overheid
+##### Artikel 5. Bevoegde overheid
 
 § 1. De technische toelating van spoorwegvoertuigen tot het rijden in internationaal verkeer behoort tot de taak van de nationale of internationale overheden die overeenkomstig de geldende wetten en voorschriften in iedere Verdragsstaat terzake bevoegd zijn.
 
 § 2. De in § 1 genoemde overheden kunnen de bevoegdheid voor het verlenen van de technische toelating overdragen aan als bekwaam erkende instellingen, op voorwaarde dat zij voor het toezicht zorgen. De overdracht van de bevoegdheid om de technische toelating te verlenen aan een spoorwegvervoeronderneming waarbij andere van deze bevoegdheid worden uitgesloten, is niet toegelaten. Bovendien is de overdracht aan een beheerder van de infrastructuur die direct of indirect betrokken is bij de bouw van spoorwegmaterieel uitgesloten.
 
-#### Artikel 6. Erkenning van de technische toelating
+##### Artikel 6. Erkenning van de technische toelating
 
 De overeenkomstig deze Uniforme Regelen door de bevoegde overheid van een Verdragsstaat verleende typetoelating en de gebruikstoelating, alsook de overeenkomstige certificaten worden door de overheden, de spoorwegvervoerondernemingen en de beheerders van de infrastructuur in de andere Verdragsstaten erkend zonder dat er een nieuw onderzoek en een nieuwe technische toelating nodig is met het oog op het rijden en het gebruik op het grondgebied van deze andere Staten.
 
-#### Artikel 7. Bouwvoorschriften die van toepassing zijn op de voertuigen
+##### Artikel 7. Bouwvoorschriften die van toepassing zijn op de voertuigen
 
 § 1. Om toegelaten te worden tot het rijden in internationaal verkeer moeten de spoorwegvoertuigen beantwoorden aan:
 
@@ -3678,7 +3700,7 @@ blijvend gewaarborgd zijn.
 
 § 4. Wanneer een Verdragsstaat de bedoeling heeft overeenkomstig § 2 of § 3 een spoorwegvoertuig toe te laten, brengt deze de Secretaris-Generaal van de Organisatie daarvan onverwijld op de hoogte. Die deelt deze informatie mee aan de andere Verdragsstaten. Binnen een termijn van een maand na ontvangst van de mededeling van de Secretaris-Generaal kan een Verdragsstaat verzoeken de Commissie van technisch deskundigen bijeen te roepen om te onderzoeken of de voorwaarden voor de toepassing van § 2 of § 3 vervuld zijn. De Commissie beslist hierover binnen een termijn van drie maanden te rekenen vanaf de ontvangst door de Secretaris-Generaal van het verzoek tot bijeenroeping.
 
-#### Artikel 8. Bouwvoorschriften die van toepassing zijn op ander materieel
+##### Artikel 8. Bouwvoorschriften die van toepassing zijn op ander materieel
 
 § 1. Om toegelaten te worden tot het gebruik in internationaal verkeer moet het ander spoorwegmaterieel beantwoorden aan de bouwvoorschriften in de Bijlagen van de Uniforme Regelen APTU.
 
@@ -3686,13 +3708,13 @@ blijvend gewaarborgd zijn.
 
 § 3. De verplichtingen van de Verdragsstaten die voor hen voortvloeien uit de Europese Overeenkomst over de grote internationale spoorweglijnen (AGC) van 31 mei 1985 en de Europese Overeenkomst over de hoofdlijnen van internationaal gecombineerd vervoer en de daarmee samenhangende installaties (AGTC) van 1 februari 1991, waarbij zij eveneens partij zijn, blijven van toepassing.
 
-#### Artikel 9. Bedrijfsvoorschriften
+##### Artikel 9. Bedrijfsvoorschriften
 
 § 1. De spoorwegvervoerondernemingen die een spoorwegvoertuig in bedrijf hebben dat toegelaten is tot het rijden in internationaal verkeer zijn verplicht de voorschriften betreffende het in bedrijf hebben van een voertuig in internationaal verkeer, die in de Bijlagen van de Uniforme Regelen APTU zijn opgenomen, in acht te nemen.
 
 § 2. De ondernemingen of de administraties die in de Verdragsstaten een infrastructuur met inbegrip van de verkeersveiligheids- en de regelingssystemen, bestemd en geschikt om gebruikt te worden in internationaal verkeer, beheren, zijn verplicht de technische voorschriften in de Bijlagen van de Uniforme Regelen APTU in acht te nemen en deze voortdurend na te leven bij de bouw of het beheer van deze infrastructuur.
 
-#### Artikel 10. Technische toelating
+##### Artikel 10. Technische toelating
 
 § 1. De technische toelating (typetoelating, gebruikstoelating) heeft betrekking op het prototype van een spoorwegvoertuig of op het spoorwegvoertuig.
 
@@ -3738,7 +3760,7 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 11. Bij het ontbreken van bepalingen in deze Uniforme Regelen wordt de procedure van de technische toelating geregeld door het nationale recht van de Verdragsstaat waarin een aanvraag tot technische toelating wordt ingediend.
 
-#### Artikel 11. Certificaten
+##### Artikel 11. Certificaten
 
 § 1. De typetoelating en de gebruikstoelating worden vastgelegd in afzonderlijke documenten, genaamd: „Certificaat van de typetoelating” en „Certificaat van de gebruikstoelating”.
 
@@ -3764,13 +3786,13 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 4. De certificaten moeten in tenminste twee talen worden afgedrukt waarvan minstens één een werktaal van de Organisatie moet zijn.
 
-#### Artikel 12. Standaardmodellen
+##### Artikel 12. Standaardmodellen
 
 § 1. De Organisatie schrijft uniforme modellen voor van het „Certificaat van de typetoelating” en van het „Certificaat van de gebruikstoelating”. Deze worden uitgewerkt en aangenomen door de Commissie van technisch deskundigen.
 
 § 2. [Artikel 35, §§ 1 en 3 tot en met 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 13. Databank
+##### Artikel 13. Databank
 
 § 1. Een databank betreffende de spoorwegvoertuigen die toegelaten zijn tot het rijden in internationaal verkeer, wordt opgericht en bijgehouden onder de verantwoordelijkheid van de Organisatie.
 
@@ -3792,7 +3814,7 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 5. De gegevens, waartoe de in § 4 bedoelde rechthebbenden toegang hebben alsook de toegangsvoorwaarden worden vastgelegd in een Bijlage bij deze Uniforme Regelen. Deze Bijlage vormt een integrerend deel van deze Uniforme Regelen. Deze krijgt de inhoud die de Herzieningscommissie beslist volgens de procedure die voorgeschreven is in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2011-01-01&g=2011-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=17&z=2011-01-01&g=2011-01-01) en [33, § 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=34&z=2011-01-01&g=2011-01-01).
 
-#### Artikel 14. Opschriften en tekens
+##### Artikel 14. Opschriften en tekens
 
 § 1. De spoorwegvoertuigen die toegelaten zijn tot het rijden in internationaal verkeer, moeten voorzien zijn van:
 
@@ -3804,11 +3826,11 @@ De aanvraag kan worden ingediend bij elke bevoegde overheid van een van de Verdr
 
 § 3. [Artikel 35, §§ 1 en 3 tot en met 5 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2011-01-01&g=2011-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 15. Onderhoud
+##### Artikel 15. Onderhoud
 
 De spoorwegvoertuigen en het ander spoorwegmaterieel moeten in een zodanig goede staat gehouden worden dat de veiligheid van de bedrijfsvoering op geen enkele wijze in het gedrang komt en dat het milieu en de volksgezondheid geen schade ondervinden bij het rijden of hun gebruik in internationaal verkeer. Daartoe moeten de spoorwegvoertuigen worden onderworpen aan de revisies en de onderhoudswerkzaamheden die zijn voorgeschreven in de Bijlagen van de Uniforme Regelen APTU, in de bijzondere toelatingsvoorwaarden met toepassing van artikel 7, § 2 of § 3 of in bouw- en uitrustingsvoorwaarden in de Bijlage van het RID.
 
-#### Artikel 16. Ongevallen en ernstige beschadigingen
+##### Artikel 16. Ongevallen en ernstige beschadigingen
 
 § 1. In geval van een ongeval of een ernstige beschadiging van spoorwegvoertuigen zijn de beheerders van de infrastructuur, in voorkomend geval gezamenlijk met de houders en de betrokken spoorwegvervoerondernemingen, verplicht om:
 
@@ -3822,17 +3844,17 @@ De spoorwegvoertuigen en het ander spoorwegmaterieel moeten in een zodanig goede
 
 § 4. De bevoegde overheden van de Verdragsstaten brengen de Organisatie op de hoogte van de oorzaken van de ongevallen en van de ernstige beschadigingen in internationaal verkeer. De Commissie van technisch deskundigen kan op verzoek van een Verdragsstaat de oorzaken van ernstige ongevallen in internationaal verkeer onderzoeken met het oog op de eventueel verdere ontwikkeling van de bouw- en bedrijfsvoorschriften voor de voertuigen en ander spoorwegmaterieel in de Bijlagen van de Uniforme Regelen APTU.
 
-#### Artikel 17. Stilzetten en weigering van voertuigen
+##### Artikel 17. Stilzetten en weigering van voertuigen
 
 De in artikel 5 bedoelde overheid, een andere spoorwegonderneming of een beheerder van de infrastructuur kunnen spoorwegvoertuigen niet weigeren of stilzetten wanneer deze Uniforme Regelen, de voorschriften van de Bijlagen van de Uniforme Regelen APTU, de bijzondere voorwaarden van een toelating met toepassing van artikel 7, § 2 of § 3 alsook de bouw- en uitrustingsvoorschriften in de Bijlage van het RID in acht zijn genomen.
 
-#### Artikel 18. Niet inachtneming van voorschriften
+##### Artikel 18. Niet inachtneming van voorschriften
 
 § 1. Behoudens § 2 en artikel 10, § 9, onder c, worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en van de voorschriften van de Bijlagen van de Uniforme Regelen APTU geregeld door het nationale recht van de Verdragsstaat waarvan de bevoegde overheid de gebruikstoelating heeft verleend, de conflictregels daaronder begrepen.
 
 § 2. De burgerrechtelijke en strafrechtelijke gevolgen die voortvloeien uit het niet in acht nemen van deze Uniforme Regelen en van de voorschriften van de Bijlagen van de Uniforme Regelen APTU worden, wat de infrastructuur betreft, geregeld door het nationale recht van de Verdragsstaat waar de beheerder van de infrastructuur zijn zetel heeft, de conflictregels daaronder begrepen.
 
-#### Artikel 19. Meningsverschillen
+##### Artikel 19. Meningsverschillen
 
 Twee of meer Verdragsstaten die een meningsverschil hebben over de technische toelating van voertuigen en ander spoorwegmaterieel dat bestemd is om te worden gebruikt in internationaal verkeer, kunnen dit voorleggen aan de Commissie van technisch deskundigen indien zij er niet in geslaagd zijn dit te regelen door rechtstreekse onderhandelingen. Dergelijke meningsverschillen kunnen ook aan een scheidsgerecht worden onderworpen overeenkomstig de in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2011-01-01&g=2011-01-01) bedoelde procedure.
 
@@ -3840,7 +3862,7 @@ EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs 
 
 FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des langues française, allemande et anglaise; ces exemplaires restent déposés dans les archives de l'OTIF. Des copies certifiées conformes en seront remises à chacun des Etats membres.
 
-#### Artikel 5bis. Wetgeving die onverlet blijft
+##### Artikel 5bis. Wetgeving die onverlet blijft
 
 § 1. De bepalingen van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=II&artikel=5&z=2025-01-01&g=2025-01-01) alsmede die van de artikelen 6, 7 en [22](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&artikel=22&z=2025-01-01&g=2025-01-01) laten de verplichtingen waaraan de partijen bij de gebruiksovereenkomst van de infrastructuur moeten voldoen uit hoofde van de wetten en voorschriften die van kracht zijn in de Staat waarin de infrastructuur zich bevindt, onverlet; hetzelfde geldt, in voorkomend geval, voor het recht van de Europese Unie.
 
@@ -3862,7 +3884,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 - –. regeling van geschillen.
 
-#### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
+##### Artikel 6. Bijzondere verplichtingen van de vervoerder en de beheerder
 
 § 1. De vervoerder moet bevoegd zijn de activiteit van spoorwegvervoerder uit te oefenen. Het in te zetten personeel en de te gebruiken voertuigen moeten voldoen aan de veiligheidseisen. De beheerder kan verlangen dat de vervoerder, door middel van overlegging van een geldige vergunning en een geldig veiligheidscertificaat of van gewaarmerkte afschriften dan wel op andere wijze, bewijst dat aan deze voorwaarden is voldaan.
 
@@ -3872,7 +3894,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 § 4. De partijen bij de overeenkomst moeten elkaar in kennis stellen van elke gebeurtenis die de uitvoering van de door hen gesloten overeenkomst zou kunnen verhinderen.
 
-#### Artikel 7. Einde van de overeenkomst
+##### Artikel 7. Einde van de overeenkomst
 
 § 1. De beheerder kan de gebruiksovereenkomst onmiddellijk opzeggen wanneer:
 
@@ -3898,7 +3920,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 ## TITEL III. AANSPRAKELIJKHEID
 
-#### Artikel 8. Aansprakelijkheid van de beheerder
+##### Artikel 8. Aansprakelijkheid van de beheerder
 
 § 1. De beheerder is aansprakelijk voor:
 
@@ -3926,7 +3948,7 @@ toegebracht aan de vervoerder of aan zijn hulppersonen gedurende het gebruik van
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de beheerder aansprakelijk is voor aan de vervoerder toegebrachte schade als gevolg van een vertraging of een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 9. Aansprakelijkheid van de vervoerder
+##### Artikel 9. Aansprakelijkheid van de vervoerder
 
 § 1. De vervoerder is aansprakelijk voor:
 
@@ -3952,7 +3974,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 4. De partijen bij de overeenkomst kunnen overeenkomen of, en in hoeverre, de vervoerder aansprakelijk is voor aan de beheerder toegebrachte schade als gevolg van een verstoring van de bedrijfsuitoefening.
 
-#### Artikel 10. Medeschuld
+##### Artikel 10. Medeschuld
 
 § 1. Wanneer oorzaken die aan de beheerder en oorzaken die aan de vervoerder toe te rekenen zijn, hebben bijgedragen aan de schade, is iedere partij bij de overeenkomst slechts aansprakelijk voorzover de oorzaken die krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=8&z=2025-01-01&g=2025-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2025-01-01&g=2025-01-01) aan haar toe te rekenen zijn, aan de schade hebben bijgedragen. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, draagt iedere partij de door haar geleden schade.
 
@@ -3960,7 +3982,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 3. In geval van schade zoals bedoeld in [artikel 9, is § 1, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=9&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, wanneer oorzaken die hebben bijgedragen aan de schade, toe te rekenen zijn aan meerdere vervoerders die dezelfde spoorweginfrastructuur hebben gebruikt. Indien niet kan worden vastgesteld in welke mate de verschillende oorzaken aan de schade hebben bijgedragen, zijn de vervoerders jegens de beheerder voor gelijke delen aansprakelijk.
 
-#### Artikel 11. Schadevergoeding in geval van dood
+##### Artikel 11. Schadevergoeding in geval van dood
 
 § 1. In geval van dood omvat de schadevergoeding:
 
@@ -3970,7 +3992,7 @@ toegebracht aan de beheerder of aan zijn hulppersonen gedurende het gebruik van 
 
 § 2. Indien door de dood personen, jegens wie de overledene een wettelijke onderhoudsplicht had of in de toekomst gehad zou hebben, hun onderhoud verliezen, moeten ook dezen voor dit verlies schadeloos gesteld worden. De vordering tot schadevergoeding van personen, van wie de overledene zonder wettelijke verplichting het onderhoud verzorgde, blijft onderworpen aan het nationale recht.
 
-#### Artikel 12. Schadevergoeding in geval van letsel
+##### Artikel 12. Schadevergoeding in geval van letsel
 
 In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de schadevergoeding:
 
@@ -3978,45 +4000,45 @@ In geval van verwonding of elk ander lichamelijk of geestelijk letsel omvat de s
 
 - b. het vermogensnadeel dat de benadeelde persoon lijdt door een gehele of gedeeltelijke arbeidsongeschiktheid of door een toename van zijn behoeften.
 
-#### Artikel 13. Vergoeding van andere personenschade
+##### Artikel 13. Vergoeding van andere personenschade
 
 Het nationale recht bepaalt of, en in welke mate, de beheerder of de vervoerder andere dan de in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2025-01-01&g=2025-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2025-01-01&g=2025-01-01) bedoelde personenschade moet vergoeden.
 
-#### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
+##### Artikel 14. Wijze en hoogte van de schadevergoeding in geval van dood of letsel
 
 § 1. De in de [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2025-01-01&g=2025-01-01) en [artikel 12, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=12&z=2025-01-01&g=2025-01-01) bedoelde schadevergoeding moet als gekapitaliseerde som worden uitgekeerd. Indien evenwel het nationale recht de toekenning van een periodieke uitkering toelaat, wordt de vergoeding op deze wijze uitgekeerd, wanneer de benadeelde persoon of de in [artikel 11, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde rechthebbenden zulks verlangen.
 
 § 2. De hoogte van de krachtens § 1 toe te kennen schadevergoeding wordt bepaald volgens het nationale recht. Bij de toepassing van deze Uniforme Regelen geldt evenwel per persoon een maximumbedrag van 175000 rekeneenheden in een gekapitaliseerde som of in een met deze som overeenstemmende jaarlijkse uitkering, voorzover in het nationale recht een lager maximumbedrag is bepaald.
 
-#### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
+##### Artikel 15. Verlies van het recht om beperkingen van aansprakelijkheid in te roepen
 
 De in deze Uniforme Regelen bedoelde beperkingen van aansprakelijkheid alsook de bepalingen van het nationale recht die de vergoedingen tot een bepaald bedrag beperken, zijn niet van toepassing, indien is bewezen dat de schade is ontstaan uit een handeling of nalaten van de veroorzaker van de schade geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zal voortvloeien.
 
-#### Artikel 16. Omrekening en rente
+##### Artikel 16. Omrekening en rente
 
 § 1. Wanneer voor de berekening van de schadevergoeding omrekening van bedragen uitgedrukt in buitenlandse munteenheden vereist is, vindt omrekening plaats volgens de koers geldend op de dag en de plaats van betaling van de schadevergoeding.
 
 § 2. De rechthebbende kan een rente ten bedrage van vijf procent per jaar over de schadevergoeding verlangen, vanaf de dag van aanvang van een bemiddelingsprocedure, van het beroep op het in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2025-01-01&g=2025-01-01) bedoelde scheidsgerecht of van het instellen van de rechtsvordering.
 
-#### Artikel 17. Aansprakelijkheid in geval van een kernongeval
+##### Artikel 17. Aansprakelijkheid in geval van een kernongeval
 
 De beheerder en de vervoerder zijn ontheven van de krachtens deze Uniforme Regelen op hen rustende aansprakelijkheid, wanneer de schade is veroorzaakt door een kernongeval en wanneer de exploitant van een kerninstallatie of een voor hem in de plaats tredende persoon voor die schade aansprakelijk is krachtens de wetten en voorschriften van een Staat die de aansprakelijkheid op het gebied van de kernenergie regelen.
 
-#### Artikel 18. Aansprakelijkheid voor hulppersonen
+##### Artikel 18. Aansprakelijkheid voor hulppersonen
 
 De beheerder en de vervoerder zijn aansprakelijk voor hun hulppersonen.
 
-#### Artikel 19. Andere vorderingen
+##### Artikel 19. Andere vorderingen
 
 § 1. In alle gevallen waar deze Uniforme Regelen van toepassing zijn, kan tegen de beheerder of tegen de vervoerder slechts een vordering wegens aansprakelijkheid, ongeacht de rechtsgrond, worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
 § 2. Hetzelfde geldt voor een vordering ingesteld tegen de hulppersonen voor wie de beheerder of de vervoerder krachtens artikel 18 aansprakelijk is.
 
-#### Artikel 20. Beding voor geschillenregeling
+##### Artikel 20. Beding voor geschillenregeling
 
 De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun recht op schadevergoeding ten aanzien van de andere partij bij de overeenkomst kunnen doen gelden of hiervan kunnen afzien.
 
-#### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
+##### Artikel 21. Vorderingen tegen de beheerder of tegen de vervoerder
 
 § 1. Elke vordering van hulppersonen van de vervoerder wegens aansprakelijkheid tegen de beheerder met betrekking tot door deze laatste veroorzaakte schade, kan, ongeacht de rechtsgrond, slechts worden ingesteld onder de voorwaarden en beperkingen van deze Uniforme Regelen.
 
@@ -4024,21 +4046,21 @@ De partijen bij de overeenkomst kunnen bedingen overeenkomen waarin zij hun rech
 
 ## TITEL V. UITOEFENING VAN RECHTEN
 
-#### Artikel 22. Bemiddelingsprocedure
+##### Artikel 22. Bemiddelingsprocedure
 
 De partijen bij de overeenkomst kunnen bemiddelingsprocedures overeenkomen of een beroep doen op een in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2025-01-01&g=2025-01-01) voorgeschreven scheidsgerecht.
 
-#### Artikel 23. Regres
+##### Artikel 23. Regres
 
 De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of Uniforme Regelen CIM gedane betaling kan niet worden betwist, wanneer de schadevergoeding door de rechter is vastgesteld en wanneer de beheerder, naar behoren gedagvaard, in staat is gesteld zich in de rechtszaak te voegen.
 
-#### Artikel 24. Rechtsmacht
+##### Artikel 24. Rechtsmacht
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen kunnen worden ingesteld bij de rechterlijke instanties van de door de partijen bij de overeenkomst in onderlinge overeenstemming aangewezen Lidstaten.
 
 § 2. Tenzij de partijen anders zijn overeengekomen, is de rechterlijke instantie van de Lidstaat waar de beheerder zijn zetel heeft, bevoegd.
 
-#### Artikel 25. Verjaring
+##### Artikel 25. Verjaring
 
 § 1. De op deze Uniforme Regelen gegronde rechtsvorderingen verjaren door verloop van drie jaar.
 
@@ -4052,11 +4074,11 @@ De gegrondheid van de door de vervoerder op basis van de Uniforme Regelen CIV of
 
 § 6. Overigens geldt voor de schorsing en de stuiting van de verjaring het nationale recht.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast voor de verbindendverklaring van technische normen en de aanneming van uniforme technische voorschriften (UTP) voor het spoorwegmaterieel bestemd voor gebruik in het internationaal verkeer.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt aanvullend op de uitdrukkingen omschreven in artikel 2 van de ATMF, verstaan onder de uitdrukking:
 
@@ -4074,7 +4096,7 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 - g. „wagen”, een spoorvoertuig dat niet is voorzien van tractiemiddelen en dat bestemd is voor het vervoer van goederen.
 
-#### Artikel 3. Doel
+##### Artikel 3. Doel
 
 § 1. De verbindendverklaring van technische normen betreffende het spoorwegmaterieel en de aanneming van UTP’s die van toepassing zijn op het spoorwegmaterieel hebben tot doel:
 
@@ -4092,13 +4114,13 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 - b. zijn de technische normen en de UTP’s prestatiegericht; in voorkomend geval bevatten zij varianten.
 
-#### Artikel 4. Ontwikkeling van technische normen en UTP
+##### Artikel 4. Ontwikkeling van technische normen en UTP
 
 § 1. De ontwikkeling van technische normen betreffende het spoorwegmaterieel en de normalisatie van industriële producten en procedures is het werkterrein van erkende nationale en internationale normalisatie-instituten.
 
 § 2. De ontwikkeling van UTP’s behoort tot het werkterrein van de Commissie van technisch deskundigen, bijgestaan door ad hoc werkgroepen en de Secretaris-Generaal op basis van aanvragen ingediend in overeenstemming met artikel 6.
 
-#### Artikel 5. Verbindendverklaring van technische normen
+##### Artikel 5. Verbindendverklaring van technische normen
 
 § 1. De Commissie van technisch deskundigen beslist of een technische norm of onderdelen daarvan verbindend worden verklaard in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2025-01-01&g=2025-01-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2025-01-01&g=2025-01-01). De beslissingen treden in werking volgens [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2025-01-01&g=2025-01-01).
 
@@ -4116,7 +4138,7 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 § 4. De toepassing van verbindend verklaarde technisch normen geschiedt vrijwillig; een norm of een deel ervan kan evenwel verbindend worden op grond van bepalingen in een UTP.
 
-#### Artikel 6. Aanneming van UTP’s
+##### Artikel 6. Aanneming van UTP’s
 
 § 1. De Commissie van technisch deskundigen beslist over de aanneming van een UTP of van een bepaling tot wijziging ervan in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2025-01-01&g=2025-01-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2025-01-01&g=2025-01-01). De beslissingen treden in werking in overeenstemming met [artikel 35, §§ 3 en 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2025-01-01&g=2025-01-01).
 
@@ -4128,11 +4150,11 @@ Voor de toepassing van deze Uniforme Regelen, hun Bijlage(n) en de UTP’s wordt
 
 - c. elke representatieve internationale vereniging, voor de leden waarvan het bestaan van UTP’s betreffende spoorwegmaterieel om veiligheids- en bedrijfseconomische redenen onmisbaar is in de uitoefening van hun activiteit.
 
-#### Artikel 7. Vorm van de verzoeken
+##### Artikel 7. Vorm van de verzoeken
 
 De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-Generaal en gericht aan de Commissie van technisch deskundigen in een van de werktalen volgens [artikel 1, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=I&artikel=1&z=2025-01-01&g=2025-01-01). De Commissie van technisch deskundigen kan een verzoek afwijzen, indien zij meent dat het verzoek niet volledig, samenhangend, behoorlijk gemotiveerd of gerechtvaardigd is. Het verzoek moet een raming van de sociale, economische en milieukundige gevolgen bevatten.
 
-#### Artikel 7a. Raming van de gevolgen
+##### Artikel 7a. Raming van de gevolgen
 
 § 1. De Commissie van technisch deskundigen neemt haar beslissing na bestudering van de door de verzoeker verschafte motivering en rechtvaardiging.
 
@@ -4140,7 +4162,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 3. Alle betrokken entiteiten nemen deel aan de raming door kosteloos de benodigde gegevens te verstekken tenzij deze beschermd zijn door intellectuele eigendomsrechten.
 
-#### Artikel 8. UTP
+##### Artikel 8. UTP
 
 § 1. De aangenomen UTP’s worden gepubliceerd op de website van de Organisatie.
 
@@ -4188,7 +4210,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 9. De UTP’s verschijnen in een formaat bestaande uit twee kolommen. Wanneer de tekst over de volle breedte van de pagina verschijnt zonder kolommen is deze gelijk aan de desbetreffende teksten van de technische specificaties inzake operabiliteit (TSI) van de Europese Unie. Wanneer de tekst verdeeld is over twee kolommen wijkt deze af voor de UTP’s en voor de desbetreffende TSI’s of andere regelgeving van de Europese Unie. De linkerkolom bevat de tekst van de UTP (OTIF-voorschriften) en de rechterkolom bevat de TSI-tekst (Europese Unie). Uiterst rechts staat de verwijzing naar de TSI.
 
-#### Artikel 8a. Vastgestelde gebreken in UTP’s
+##### Artikel 8a. Vastgestelde gebreken in UTP’s
 
 § 1. Indien de Commissie van technisch deskundigen verneemt dat een aangenomen UTP fouten of gebreken bevat, met inbegrip van gevallen waarin een aangenomen UTP niet volledig voldoet aan de essentiële eisen, neemt de Commissie de passende maatregelen, waaronder:
 
@@ -4198,7 +4220,7 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 2. De Verdragsstaten, regionale organisaties en beoordelingsorganen zijn verplicht de Secretaris-Generaal onverwijld in kennis te stellen van elke vastgestelde fout of gebrek in een UTP.
 
-#### Artikel 9. Verklaringen
+##### Artikel 9. Verklaringen
 
 § 1. Elke Verdragsstaat kan, binnen een termijn van vier maanden te rekenen vanaf de dag van de bekendmaking door de Secretaris-Generaal van het besluit van de Commissie van technisch deskundigen, ten overstaan van hem een met redenen omklede verklaring afleggen op grond waarvan hij de verbindendverklaarde technische norm of de aangenomen UTP met betrekking tot de spoorweginfrastructuur op zijn grondgebied en het verkeer op deze infrastructuur niet of slechts gedeeltelijk zal toepassen.
 
@@ -4206,11 +4228,11 @@ De in de artikelen 5 en 6 bedoelde verzoeken worden gezonden aan de Secretaris-G
 
 § 3. De Staat die een verklaring heeft afgelegd overeenkomstig § 1 kan deze op elk moment intrekken door de Secretaris-Generaal hiervan in kennis te stellen. Deze intrekking wordt van kracht op de eerste dag van de tweede maand die volgt op de kennisgeving.
 
-#### Artikel 10. Opheffing van de Technische Eenheid
+##### Artikel 10. Opheffing van de Technische Eenheid
 
 De inwerkingtreding in alle Staten die partij zijn bij het Internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938, van de UTP’s die overeenkomstig artikel 6, § 1, zijn aangenomen door de Commissie van technisch deskundigen, heeft de opheffing van dat Verdrag tot gevolg.
 
-#### Artikel 11. Voorrang van de UTP’s
+##### Artikel 11. Voorrang van de UTP’s
 
 § 1. Na de inwerkingtreding van de UTP’s, die overeenkomstig artikel 6, § 1, zijn aangenomen door de Commissie van technisch deskundigen, hebben de technische normen en de UTP’s in de relaties tussen de Verdragsstaten voorrang op de bepalingen van het Internationale Verdrag van de Technische Eenheid der Spoorwegen, ondertekend te Bern op 21 oktober 1882 in de versie van 1938.
 
@@ -4220,7 +4242,7 @@ De inwerkingtreding in alle Staten die partij zijn bij het Internationale Verdra
 
 - b. van het Reglement voor het wederzijds gebruik van wagens in het internationaal verkeer (RIV).
 
-#### Artikel 12. Nationale technische specificaties
+##### Artikel 12. Nationale technische specificaties
 
 § 1. De Verdragsstaten waarborgen dat de Secretaris-Generaal in kennis wordt gesteld van hun nationale technische specificaties die van toepassing zijn op spoorvoertuigen. De Secretaris-Generaal publiceert deze specificaties in de databank genoemd in artikel 13 van de Uniforme Regelen van de ATMF.
 
@@ -4236,7 +4258,7 @@ De nationale technische specificaties blijven uitsluitend van kracht wanneer de 
 
 § 3. De genotificeerde informatie bevat de volledige tekst van de nationale technische bepaling in een officiële taal van de Verdragsstaat, alsmede de titel en een samenvatting ervan in een van de officiële OTIF-talen.
 
-#### Artikel 13. Equivalentietabel
+##### Artikel 13. Equivalentietabel
 
 § 1. Teneinde het aantal beoordelingen en daarmee de kosten van verzoeken om technische toelating tot een minimum te beperken, worden nationale technische specificaties overeenkomstig artikel 12 geclassificeerd volgens de lijst van parameters en de beginselen vervat in de Bijlage bij dit Aanhangsel. De classificatie wordt uitgevoerd onder de verantwoordelijkheid van de Commissie van technisch deskundigen. De Verdragsstaten en de regionale organisaties werken bij de uitvoering van deze taak samen met de Commissie van technisch deskundigen en de Secretaris-Generaal.
 
@@ -4254,11 +4276,11 @@ De nationale technische specificaties blijven uitsluitend van kracht wanneer de 
 
 De kenbaar gemaakte equivalentie wordt aangegeven in een equivalentietabel in het in § 3 hierboven genoemde referentiedocument.
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Uniforme Regelen leggen de procedure vast volgens welke spoorvoertuigen en ander spoorwegmaterieel tot het rijden of tot het gebruik in het internationaal verkeer toegelaten worden.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Uniforme Regelen en hun Bijlage(n), de APTU Uniforme Regelen en hun Bijlage(n) en de APTU Uniforme Technische Voorschriften (UTP) zijn de volgende begripsomschrijvingen van toepassing:
 
@@ -4350,7 +4372,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage(n), de APTU Uniforme
 
 - hh. „gebruiksgebied van een voertuig”, de netwerken die in twee of meer Verdragstaten zijn gelegen waarop een voertuig gebruikt zal gaan worden.
 
-#### Artikel 3. Toelating tot het internationaal verkeer
+##### Artikel 3. Toelating tot het internationaal verkeer
 
 § 1. Om in het internationaal verkeer te rijden moet ieder spoorvoertuig overeenkomstig deze Uniforme Regelen zijn toegelaten.
 
@@ -4364,7 +4386,7 @@ Voor de toepassing van deze Uniforme Regelen en hun Bijlage(n), de APTU Uniforme
 
 § 3. De §§ 1 en 2 alsmede de volgende artikelen zijn van overeenkomstige toepassing op de technische toelating van ander spoorwegmaterieel en op de elementen van constructie van voertuigen of ander spoorwegmaterieel.
 
-#### Artikel 3a. Verhouding tot andere internationale overeenkomsten
+##### Artikel 3a. Verhouding tot andere internationale overeenkomsten
 
 § 1. Voertuigen in dienst gesteld of op de markt overeenkomstig de van toepassing zijnde wetgeving van de Europese Unie (EU) en de desbetreffende nationale wetgeving worden geacht door alle Verdragsstaten overeenkomstig deze Uniforme Regelen te zijn toegelaten voor gebruik:
 
@@ -4404,7 +4426,7 @@ Indien niet aan de voorwaarden van a tot en met e wordt voldaan, moet het voertu
 
 De Commissie van technisch deskundigen is bevoegd om de overeenstemming tussen de in de Europese Unie geldende regels en de in [artikel 15, § 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=15&z=2025-01-01&g=2025-01-01) bedoelde regels van het COTIF vast te stellen.
 
-#### Artikel 4. Procedure
+##### Artikel 4. Procedure
 
 § 1. De technische toelating van een voertuig geschiedt:
 
@@ -4426,7 +4448,7 @@ De beoordelingen over de conformiteit van een voertuig met de bepalingen van de 
 
 § 3. Op de procedures voor de technische toelating van spoorweginfrastructuur zijn de bepalingen van toepassing die van kracht zijn in de desbetreffende Verdragsstaat.
 
-#### Artikel 5. Bevoegde autoriteit
+##### Artikel 5. Bevoegde autoriteit
 
 § 1. De technische toelating behoort tot de taak van de nationale of internationale autoriteit die overeenkomstig de van kracht zijnde wetten en voorschriften in iedere Verdragsstaat bevoegd is, hierna te noemen de bevoegde autoriteit.
 
@@ -4464,7 +4486,7 @@ De kennisgevingen kunnen worden gedaan door de regionale organisaties die tot he
 
 § 7. Een Verdragsstaat die meent dat een beoordelende entiteit of bevoegde autoriteit van een andere Verdragsstaat niet voldoet aan de criteria van § 3, kan de kwestie voorleggen aan de Commissie van technisch deskundigen die de desbetreffende Verdragsstaat binnen vier maanden in kennis stelt van de wijzigingen van enigerlei aard die nodig zijn opdat de beoordelende entiteit of autoriteit de aan haar overgedragen bevoegdheden kan behouden. In dit verband kan de Commissie van technisch deskundigen besluiten de Verdragsstaat te gelasten de afgegeven technische certificaten gebaseerd op de werkzaamheden verricht door de beoordelende entiteit of de autoriteit in kwestie op te schorten of in te trekken.
 
-#### Artikel 6. Geldigheid van technische certificaten
+##### Artikel 6. Geldigheid van technische certificaten
 
 § 1. De overeenkomstig deze Uniforme Regelen door de bevoegde autoriteit van een Verdragsstaat afgegeven technische certificaten, zoals omschreven in artikel 11, gelden in alle andere Verdragsstaten. Op het rijden en het gebruik van de voertuigen waarop deze certificaten betrekking hebben op het grondgebied van deze andere Staten zijn evenwel de in dit artikel omschreven voorwaarden van toepassing.
 
@@ -4498,17 +4520,17 @@ De kennisgevingen kunnen worden gedaan door de regionale organisaties die tot he
 
 § 5. §§ 2 tot en met 4 zijn van overeenkomstige toepassing op de toelating van een constructietype.
 
-#### Artikel 6a. Erkenning van documentatie
+##### Artikel 6a. Erkenning van documentatie
 
 § 1. Beoordelingen, verklaringen en andere overeenkomstig deze Uniforme Regelen opgestelde documentatie worden als zodanig aanvaard door de autoriteiten en bevoegde organen, de spoorwegvervoerondernemingen, de houders en de infrastructuurbeheerders in alle Verdragsstaten.
 
 § 2. Indien een vereiste of bepaling in overeenstemming met artikel 13 van de APTU Uniforme Regelen equivalent is verklaard, worden de desbetreffende beoordelingen en tests die reeds zijn uitgevoerd en gedocumenteerd niet herhaald.
 
-#### Artikel 6b. Erkenning van technische en operationele tests
+##### Artikel 6b. Erkenning van technische en operationele tests
 
 De Commissie van technisch deskundigen kan regels aannemen die worden opgenomen in een Bijlage bij deze Uniforme Regelen en specificaties om te worden opgenomen in een of meer UTP’s inzake de bepalingen met betrekking tot technische inspecties, onderhoudsdossiers van de toegelaten voertuigen en operationele tests zoals remtests voor treinen en hun wederzijdse erkenning.
 
-#### Artikel 7. Voorschriften voor voertuigen
+##### Artikel 7. Voorschriften voor voertuigen
 
 § 1. Teneinde te worden toegelaten tot het rijden in het internationaal verkeer moet een voertuig voldoen aan:
 
@@ -4532,13 +4554,13 @@ De Commissie van technisch deskundigen onderzoekt of het noodzakelijk is een Bij
 
 - c. van toepassing zijnde nationale technische specificaties die van kracht zijn overeenkomstig artikel 12 van de APTU Uniforme Regelen.
 
-#### Artikel 7a. Afwijkingen
+##### Artikel 7a. Afwijkingen
 
 De Commissie van technisch deskundigen is bevoegd richtlijnen of bindende voorschriften aan te nemen voor afwijkingen van de structurele en functionele UTP’s.
 
 Deze richtlijnen en bepalingen zijn vervat in Aanhangsel B bij deze Uniforme Regelen.
 
-#### Artikel 8. Voorschriften voor spoorweginfrastructuur
+##### Artikel 8. Voorschriften voor spoorweginfrastructuur
 
 § 1. Spoorweginfrastructuur moet voldoen aan:
 
@@ -4552,13 +4574,13 @@ Deze richtlijnen en bepalingen zijn vervat in Aanhangsel B bij deze Uniforme Reg
 
 § 3. De artikelen 7 en 7a zijn van overeenkomstige toepassing op de infrastructuur.
 
-#### Artikel 9. Exploitatievoorschriften
+##### Artikel 9. Exploitatievoorschriften
 
 § 1. De spoorwegondernemingen die spoorvoertuigen gebruiken die zijn toegelaten tot het rijden in het internationaal verkeer moeten voldoen aan de in de UTP’s omschreven exploitatievoorschriften voor voertuigen in het internationaal verkeer.
 
 § 2. De ondernemingen en administraties die infrastructuur beheren in de Verdragsstaten, met inbegrip van veiligheidssystemen en controlesystemen van de exploitatie, bestemd en geschikt voor gebruik in het internationaal verkeer, zijn verplicht te voldoen aan de in de UTP’s omschreven technische voorschriften en deze voortdurend na te leven bij de constructie en het beheer van die infrastructuur.
 
-#### Artikel 10. Aanvraag en verlening van technische certificaten en verklaringen en daarmee verband houdende voorwaarden
+##### Artikel 10. Aanvraag en verlening van technische certificaten en verklaringen en daarmee verband houdende voorwaarden
 
 § 1. De verlening van een technisch certificaat is afhankelijk van het constructietype van een voertuig of het voertuig zelf.
 
@@ -4612,7 +4634,7 @@ Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden
 
 § 12. § 11 is van overeenkomstige toepassing op een certificaat van het typeontwerp en elke verklaring betreffende de constructie of de onderdelen van de desbetreffende constructie.
 
-#### Artikel 10a. Regels voor de intrekking of opschorting van technische certificaten
+##### Artikel 10a. Regels voor de intrekking of opschorting van technische certificaten
 
 § 1. Indien de bevoegde autoriteit van een Verdragsstaat niet zijnde de staat die de (eerste) gebruikstoelating heeft verleend, vaststelt dat niet voldaan wordt aan de eisen, stelt zij de autoriteit die de (eerste) toelating heeft verleend met alle details in kennis; indien de niet-naleving betrekking heeft op een certificaat van het typeontwerp, wordt tevens de autoriteit die dit certificaat heeft afgegeven in kennis gesteld.
 
@@ -4646,11 +4668,11 @@ Indien een nieuwe toelating vereist is en indien de UTP’s niet volledig worden
 
 § 6. §§ 1 tot en met 4 zijn van overeenkomstige toepassing op een certificaat van het typeontwerp.
 
-#### Artikel 10b. Regels voor beoordelingen en procedures
+##### Artikel 10b. Regels voor beoordelingen en procedures
 
 De Commissie van technisch deskundigen is bevoegd (andere) bindende bepalingen aan te nemen voor beoordelingen en procedureregels voor technische toelating. Bepalingen voor de beoordelingen zijn vervat in de relevante UTP.
 
-#### Artikel 11. Technische certificaten
+##### Artikel 11. Technische certificaten
 
 § 1. De constructietypetoelating en de gebruikstoelating worden vastgelegd in afzonderlijke documenten genoemd: „Certificaat van het typeontwerp” en „Gebruikscertificaat”.
 
@@ -4702,7 +4724,7 @@ De Commissie van technisch deskundigen is bevoegd (andere) bindende bepalingen a
 
 § 9. § 8 is van overeenkomstige toepassing op voertuigen en spoorwegmaterieel dat overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2025-01-01&g=2025-01-01) is toegelaten, waarbij de desbetreffende documentatie bestaat uit de documentatie met betrekking tot de goedkeuring en andere documentatie die informatie bevat die geheel of gedeeltelijk beantwoordt aan de specificaties voor het technisch dossier en onderhoudsdossier.
 
-#### Artikel 12. Standaardmodellen
+##### Artikel 12. Standaardmodellen
 
 § 1. De Organisatie schrijft uniforme modellen voor van de certificaten bedoeld in artikel 11 en van het beoordelingsrapport ingevolge artikel 10, § 7.
 
@@ -4710,7 +4732,7 @@ De Commissie van technisch deskundigen is bevoegd (andere) bindende bepalingen a
 
 § 3. De Commissie van technisch deskundigen kan besluiten dat certificaten volgens een ander omschreven model dan hetgeen in de Uniforme Regelen wordt voorgeschreven, mits die de ingevolge artikel 11 vereiste gegevens bevatten, als gelijkwaardig substituut mogen worden aangemerkt.
 
-#### Artikel 13. Registers
+##### Artikel 13. Registers
 
 § 1. Er worden voertuigregisters in de vorm van een of meer nationale of regionale elektronische databanken opgericht die informatie over voertuigen bevatten ter zake waarvan een gebruikscertificaat is afgegeven. Het register omvat tevens voertuigen die zijn toegelaten overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=19&z=2025-01-01&g=2025-01-01); het kan tevens voertuigen bevatten die uitsluitend voor het rijden in nationaal verkeer zijn toegelaten. Het register of de registers:
 
@@ -4736,7 +4758,7 @@ De Commissie van technisch deskundigen is bevoegd (andere) bindende bepalingen a
 
 § 7. De Commissie van technisch deskundigen kan besluiten dat de kosten van oprichting en beheer van de databank geheel of gedeeltelijk worden gedragen door de gebruikers.
 
-#### Artikel 14. Opschriften en tekens
+##### Artikel 14. Opschriften en tekens
 
 § 1. De voertuigen die toegelaten zijn tot het verkeer moeten zijn voorzien van de in de UTP’s voorgeschreven opschriften en tekens, met inbegrip van een uniek voertuignummer. De bevoegde autoriteit die de (eerste) gebruikstoelating verleent moet waarborgen dat aan elk voertuig een alfanumerieke identificatiecode wordt toegekend. Deze code, die de landcode van de eerste Staat van toelating omvat, moet op elk voertuig worden aangebracht en worden opgenomen in het NVR van die Staat.
 
@@ -4744,7 +4766,7 @@ De Commissie van technisch deskundigen is bevoegd (andere) bindende bepalingen a
 
 § 3. De Commissie van technisch deskundigen kan de overgangsperiodes vaststellen gedurende welke de tot het rijden in het internationaal verkeer toegelaten voertuigen voorzien mogen zijn van opschriften en tekens die afwijken van hetgeen wordt voorgeschreven in §§ 1 en 2.
 
-#### Artikel 15. Onderhoud van voertuigen
+##### Artikel 15. Onderhoud van voertuigen
 
 § 1. De voertuigen moeten in een zodanig goede staat van onderhoud gehouden worden dat zij voldoen aan de in artikel 7 omschreven bepalingen. Hun staat bij het rijden of bij het gebruik in het internationaal verkeer mag op geen enkele wijze schadelijk zijn voor de operationele veiligheid, de infrastructuur, het milieu of de volksgezondheid. De voertuigen moeten daartoe beschikbaar gesteld worden voor en onderworpen worden aan de revisies, inspecties en het onderhoud zoals voorgeschreven in het onderhoudsdossier. Het is de verantwoordelijkheid van de houder hiertoe een ECM aan te wijzen.
 
@@ -4768,7 +4790,7 @@ De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te 
 
 § 4. De ECM van een toegelaten voertuig legt van dat voertuig een onderhoudsdossier en dossier omtrent de staat van onderhoud aan en houdt deze actueel. De ECM stelt de houder in kennis van updates van het dossier omtrent de staat van onderhoud. De dossiers moeten beschikbaar zijn voor inspectie door de bevoegde nationale autoriteit.
 
-#### Artikel 16. Ongevallen, incidenten en ernstige schade
+##### Artikel 16. Ongevallen, incidenten en ernstige schade
 
 § 1. Bij ongevallen of incidenten met of ernstige schade aan spoorvoertuigen zijn alle betrokkenen (de infrastructuurbeheerders, de houders, de ECM, de betrokken spoorwegondernemingen en eventuele andere actoren) verplicht:
 
@@ -4786,7 +4808,7 @@ De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te 
 
 § 5. De Commissie van technisch deskundigen kan nadere bindende regels opstellen en aannemen voor het onderzoek naar ongevallen, incidenten en ernstige schade, alsmede eisen stellen aan onafhankelijke onderzoeksorganen van een staat alsmede de vorm en inhoud van rapporten. Ook kan zij de waarden/getallen in § 2 en in artikel 2, onderdeel ff., wijzigen.
 
-#### Artikel 17. Stilzetten en weigeren van voertuigen
+##### Artikel 17. Stilzetten en weigeren van voertuigen
 
 § 1. Een bevoegde autoriteit, een andere spoorwegonderneming of een infrastructuurbeheerder mag spoorvoertuigen niet weigeren of stilzetten teneinde te beletten dat ze rijden op compatibele spoorweginfrastructuren, wanneer ze voldoen aan deze Uniforme Regelen, de in de UTP’s vervatte voorschriften, de eventueel door de toelatende autoriteit gestelde bijzondere voorwaarden voor de toelating alsmede aan de in het RID vervatte voorschriften voor constructie en exploitatie.
 
@@ -4794,13 +4816,13 @@ De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te 
 
 § 3. Indien een Verdragsstaat een certificaat evenwel niet binnen de in artikel 5, § 7, of [artikel 16, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=16&z=2012-01-01&g=2012-01-01), bedoelde termijn schorst of intrekt, zijn andere Verdragsstaten bevoegd het voertuig of de voertuigen in kwestie te weigeren of stil te zetten.
 
-#### Artikel 18. Niet in acht nemen van de voorschriften
+##### Artikel 18. Niet in acht nemen van de voorschriften
 
 § 1. Met inachtneming van § 2 en [artikel 10a, § 3, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=10a&z=2012-01-01&g=2012-01-01), worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarvan de bevoegde autoriteit de gebruikstoelating heeft verleend, met inbegrip van de regels inzake wetsconflicten.
 
 § 2. De civielrechtelijke en strafrechtelijke gevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s worden voor zover het de infrastructuur betreft geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarin de infrastructuurbeheerder zijn zetel heeft, met inbegrip van de regels inzake wetsconflicten.
 
-#### Artikel 19. Overgangsbepalingen
+##### Artikel 19. Overgangsbepalingen
 
 § 1. Artikel 3, § 1, is van toepassing op bestaande, vernieuwde en verbeterde voertuigen. Overgangsbepalingen voor voertuigen die uit hoofde van RIV, RIC of andere relevante internationale overeenkomsten zijn toegelaten tot het internationaal verkeer en dienovereenkomstig zijn gemarkeerd zijn vastgelegd in dit artikel.
 
@@ -4818,7 +4840,7 @@ De spoorwegexploitant moet, hetzij rechtstreeks hetzij via de houder, de ECM te 
 
 § 7. De Commissie van technisch deskundigen kan andere overgangsbepalingen aannemen.
 
-#### Artikel 20. Geschillen
+##### Artikel 20. Geschillen
 
 Geschillen omtrent de technische toelating van spoorvoertuigen en ander spoorwegmaterieel beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2012-01-01&g=2012-01-01) ook aan het scheidsgerecht worden voorgelegd.
 
@@ -4826,7 +4848,7 @@ EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs 
 
 FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des langues française, allemande et anglaise; ces exemplaires restent déposés dans les archives de l'OTIF. Des copies certifiées conformes en seront remises à chacun des Etats membres.
 
-#### Artikel 15a. Samenstelling en exploitatie van treinen
+##### Artikel 15a. Samenstelling en exploitatie van treinen
 
 § 1. De spoorwegvervoeronderneming beheerst de risico’s die met haar activiteiten samenhangen, met name de risico’s die verband houden met de exploitatie van treinen. Daartoe waarborgt zij dat deze treinen voldoen aan de essentiële eisen en zal met name:
 
@@ -4846,7 +4868,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 § 4. Voor zover nodig voor de exploitatie stelt de infrastructuurmanager elke spoorwegonderneming die het voertuig op zijn netwerk exploiteert de elementen ter beschikking die betrekking hebben op de kenmerken van de infrastructuur.
 
-#### Artikel 16. Ongevallen, incidenten en ernstige schade
+##### Artikel 16. Ongevallen, incidenten en ernstige schade
 
 § 1. Bij ongevallen, incidenten of ernstige schade aan voertuigen zijn alle betrokkenen (de infrastructuurbeheerders, de houders, de ECM, de betrokken spoorwegondernemingen en eventuele andere actoren) verplicht:
 
@@ -4864,7 +4886,7 @@ FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des
 
 § 5. De Commissie van technisch deskundigen kan nadere bindende regels opstellen en aannemen voor het onderzoek naar ernstige ongevallen, incidenten en ernstige schade, alsmede eisen stellen aan onafhankelijke onderzoeksorganen van een staat alsmede de vorm en inhoud van rapporten. Ook kan zij de waarden en getallen in § 2 en in artikel 2, onder ff., wijzigen.
 
-#### Artikel 17. Stilzetten en weigeren van voertuigen
+##### Artikel 17. Stilzetten en weigeren van voertuigen
 
 § 1. Een bevoegde autoriteit, een spoorwegonderneming of een infrastructuurbeheerder mag voertuigen niet beletten te rijden op compatibele spoorweginfrastructuren, wanneer ze voldoen aan deze Uniforme Regelen, de in de UTP’s vervatte voorschriften, de eventueel door de toelatende autoriteit gestelde bijzondere voorwaarden voor de toelating alsmede aan de in het RID vervatte voorschriften voor constructie en exploitatie.
 
@@ -4874,13 +4896,13 @@ Dit artikel laat de verantwoordelijkheid van de spoorwegonderneming zoals omschr
 
 § 3. Indien een Verdragsstaat een certificaat evenwel niet binnen de inartikel 5, § 7, of [artikel 16, § 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=16&z=2025-01-01&g=2025-01-01), bedoelde termijn opschort of intrekt, zijn andere Verdragsstaten bevoegd het voertuig of de voertuigen in kwestie te weigeren of stil te zetten.
 
-#### Artikel 18. Niet in acht nemen van de voorschriften
+##### Artikel 18. Niet in acht nemen van de voorschriften
 
 § 1. Met inachtneming van § 2 en [artikel 10a, § 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&artikel=10a&z=2025-01-01&g=2025-01-01), worden de rechtsgevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s geregeld door de bepalingen die van kracht zijn in de Verdragsstaat waarvan de bevoegde autoriteit de gebruikstoelating heeft verleend, met inbegrip van de regels inzake wetsconflicten.
 
 § 2. De civielrechtelijke en strafrechtelijke gevolgen van het niet in acht nemen van deze Uniforme Regelen en de UTP’s worden voor zover het de infrastructuur betreft geregeld door de voorschriften die van kracht zijn in de Verdragsstaat waarin de infrastructuurbeheerder zijn zetel heeft, met inbegrip van de regels inzake wetsconflicten.
 
-#### Artikel 19. Overgangsbepalingen
+##### Artikel 19. Overgangsbepalingen
 
 § 1. [gereserveerd]
 
@@ -4896,7 +4918,7 @@ Dit artikel laat de verantwoordelijkheid van de spoorwegonderneming zoals omschr
 
 § 7. De Commissie van technisch deskundigen kan aanvullende overgangsbepalingen aannemen.
 
-#### Artikel 20. Geschillen
+##### Artikel 20. Geschillen
 
 Geschillen omtrent de technische toelating van voertuigen beoogd voor gebruik in het internationaal verkeer kunnen worden behandeld door de Commissie van technisch deskundigen indien ze niet beslecht zijn via rechtstreekse onderhandelingen tussen de betrokken partijen. Dergelijke geschillen kunnen in overeenstemming met de procedure omschreven in [Titel V van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=V&z=2025-01-01&g=2025-01-01) ook aan het scheidsgerecht worden voorgelegd.
 
@@ -4904,7 +4926,7 @@ EN FOI DE QUOI, les plénipotentiaires soussignés dûment autorisés par leurs 
 
 FAIT à Vilnius, le 3 juin 1999, en un seul exemplaire original dans chacune des langues française, allemande et anglaise; ces exemplaires restent déposés dans les archives de l'OTIF. Des copies certifiées conformes en seront remises à chacun des Etats membres.
 
-#### Artikel 21. Bijlagen en aanbevelingen
+##### Artikel 21. Bijlagen en aanbevelingen
 
 § 1. De Commissie van technisch deskundigen beslist over het aannemen en wijzigen van elke Bijlage in overeenstemming met de procedure neergelegd in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=16&z=2025-01-01&g=2025-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=III&artikel=20&z=2025-01-01&g=2025-01-01) en [33, § 6, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=33&z=2025-01-01&g=2025-01-01). De beslissingen treden in werking volgens de bepalingen van [artikel 35, §§ 3 en 4, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004155&titeldeel=VI&artikel=35&z=2025-01-01&g=2025-01-01).
 

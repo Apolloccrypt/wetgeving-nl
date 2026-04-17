@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens betreffende de zetel van de Commissie"
 identifier: "BWBV0001113"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-02-23
-laatste_update: 1994-02-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001113"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-02-23"
+last_updated: "1994-02-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001113"
+soort: "verdrag"
+stam_id: "10002059553"
+version_id: "10002147362"
+internal_id: "C10006977641"
+label_id: "10002049784"
+dtd_version: "2.0"
+original_entry_into_force: "1994-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001113/1994-02-23/0"
+intitule_bron: "Trb.1994-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-08"
+intitule_published: "1994-01-21"
+intitule_in_force: "1994-04-08"
+intitule_status: "goed"
+original_publication: "Trb.1994-22"
+original_signed_date: "1993-12-08"
+original_published_date: "1994-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-22"
+entry_into_force_date: "1994-02-23"
+jci_1_3: "jci1.3:c:BWBV0001113&z=1994-02-23&g=1994-02-23"
+jci_1_0: "1.0:c:BWBV0001113&g=1994-02-23"
+citeertitel_status: "redactioneel"
+signed_date: "1993-12-08"
+entry_into_force: "1994-02-23"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens betreffende de zetel van de Commissie
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +49,7 @@ Overwegend dat voor de vestiging van de zetel van de Commissie op het grondgebie
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag:
 
@@ -50,7 +75,7 @@ In dit Verdrag:
 
 - k. wordt verstaan onder „deskundigen": personen, buiten degenen bedoeld onder letter g van dit artikel, die door de Commissie worden aangewezen om officiële missies voor de Commissie te verrichten.
 
-#### Artikel 2. De rechtspersoonlijkheid van de Commissie
+##### Artikel 2. De rechtspersoonlijkheid van de Commissie
 
 De Commissie bezit volledige rechtspersoonlijkheid. Zij heeft de bevoegdheid:
 
@@ -60,7 +85,7 @@ De Commissie bezit volledige rechtspersoonlijkheid. Zij heeft de bevoegdheid:
 
 - c. juridische procedures in te stellen en in rechte op te treden.
 
-#### Artikel 3. Immuniteit van rechtsvervolging
+##### Artikel 3. Immuniteit van rechtsvervolging
 
 1. Binnen de reikwijdte van haar officiële activiteiten geniet de Commissie immuniteit van alle vormen van rechtsvervolging, behalve in geval van:
 
@@ -70,11 +95,11 @@ De Commissie bezit volledige rechtspersoonlijkheid. Zij heeft de bevoegdheid:
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel zijn eigendommen en bezittingen van de Commissie, waar deze ook gelegen zijn en wie deze ook onder zich heeft, vrijgesteld van onderzoek, executie, inbeslagneming, alle vormen van beslaglegging, gerechtelijke bevelen of andere vormen van rechtsvervolging.
 
-#### Artikel 4. Vrijstelling van bezittingen van andere maatregelen
+##### Artikel 4. Vrijstelling van bezittingen van andere maatregelen
 
 De eigendommen en bezittingen van de Commissie, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van onderzoek, vordering, confiscatie, onteigening of iedere andere vorm van ingrijpen, ongeacht of het optreden van uitvoerende, administratieve, rechterlijke of wetgevende aard betreft.
 
-#### Artikel 5. Onschendbaarheid van gebouwen en terreinen
+##### Artikel 5. Onschendbaarheid van gebouwen en terreinen
 
 1. De gebouwen en terreinen van de Commissie zijn onschendbaar. Personen die krachtens de wet bevoegd zijn gebouwen of terreinen te betreden, oefenen deze bevoegdheid niet uit ten aanzien van de gebouwen en terreinen van de Commissie tenzij daarvoor toestemming is verleend door of namens de Uitvoerend Secretaris. Deze toestemming kan echter worden verondersteld in geval van brand. Personen die de gebouwen en terreinen hebben betreden met de veronderstelde toestemming van de Uitvoerend Secretaris, verlaten de gebouwen en terreinen onmiddellijk indien zij daarom worden verzocht door of namens de Uitvoerend Secretaris.
 
@@ -82,19 +107,19 @@ De eigendommen en bezittingen van de Commissie, waar deze ook gelegen zijn en wi
 
 3. De Uitvoerend Secretaris voorkomt dat de gebouwen en terreinen worden gebruikt om personen onder te brengen die trachten aanhouding krachtens het Nederlandse recht te vermijden, die door de Regering worden gezocht voor uitzetting naar een ander land, of die trachten een dagvaarding te ontlopen.
 
-#### Artikel 6. Bescherming van gebouwen en terreinen
+##### Artikel 6. Bescherming van gebouwen en terreinen
 
 De Regering betracht de nodige zorgvuldigheid om te verzekeren dat de veiligheid en de rust van de gebouwen en de terreinen niet worden verstoord door onbevoegde personen of groepen personen die de gebouwen of terreinen trachten te betreden, of ordeverstoringen veroorzaken in de onmiddellijke omgeving daarvan. Wanneer nodig bieden de desbetreffende autoriteiten voldoende politiebescherming in de omgeving van de gebouwen en terreinen en daarbinnen, indien de Uitvoerend Secretaris daarom verzoekt.
 
-#### Artikel 7. Onschendbaarheid van de archieven van de Commissie
+##### Artikel 7. Onschendbaarheid van de archieven van de Commissie
 
 De archieven van de Commissie, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn onschendbaar.
 
-#### Artikel 8. Faciliteiten en immuniteiten met betrekking tot berichtenverkeer en publikaties
+##### Artikel 8. Faciliteiten en immuniteiten met betrekking tot berichtenverkeer en publikaties
 
 De Regering staat het de Commissie toe vrijelijk te communiceren voor alle officiële doeleinden, en beschermt haar recht hiertoe. De Commissie heeft het recht codes te gebruiken en officiële correspondentie en andere officiële berichten te verzenden en te ontvangen per koerier of in verzegelde tassen, ten aanzien waarvan dezelfde voorrechten en immuniteiten gelden als voor diplomatieke koeriers en tassen. De Commissie geniet, voor zover verenigbaar met het internationale recht, wat haar officiële berichtenverkeer betreft een niet minder gunstige behandeling dan die welke door de Regering wordt toegekend aan andere organisaties of regeringen, met inbegrip van diplomatieke zendingen van die andere regeringen ter zake van prioriteiten en tarieven voor poststukken, kabeltelegrammen, telegrammen, telexberichten, radiogrammen, televisie, telefoon, telefax en andere vormen van berichtenverkeer, alsmede perstarieven voor mededelingen aan de pers en de radio. De Regering erkent het recht van de Commissie om binnen het Koninkrijk der Nederlanden vrijelijk berichten te publiceren en uit te zenden voor de doeleinden die zijn omschreven in de Resolutie inzake de oprichting van de Voorbereidende Commissie voor de Organisatie voor het Verbod van Chemische Wapens. De Commissie mag, evenwel, een radiozender installeren en gebruiken met toestemming van de Regering; nadat de golflengte is overeengekomen, wordt deze toestemming niet op onredelijke gronden geweigerd. Overeengekomen wordt echter dat de Commissie alle wetten van het Koninkrijk der Nederlanden alsmede alle internationale verdragen waarbij het Koninkrijk der Nederlanden partij is met betrekking tot auteursrechten eerbiedigt.
 
-#### Artikel 9. Vrijstelling van belastingen en heffingen
+##### Artikel 9. Vrijstelling van belastingen en heffingen
 
 1. Binnen het kader van haar officiële taken worden de Commissie, haar bezittingen, inkomsten en andere eigendommen vrijgesteld van alle directe belastingen, daaronder begrepen de inkomstenbelasting, vermogensbelasting, vennootschapsbelasting en directe belastingen die door de plaatselijke autoriteiten worden geheven.
 
@@ -114,7 +139,7 @@ De Regering staat het de Commissie toe vrijelijk te communiceren voor alle offic
 
 5. Goederen die worden verworven of ingevoerd op de in het tweede lid van dit artikel omschreven voorwaarden worden niet verkocht, weggegeven of op andere wijze vervreemd, behalve overeenkomstig met de Regering overeengekomen voorwaarden.
 
-#### Artikel 10. Vrijheid van beperkingen ten aanzien van financiële bezittingen
+##### Artikel 10. Vrijheid van beperkingen ten aanzien van financiële bezittingen
 
 De Commissie wordt niet beperkt door financiële controles, regelingen, kennisgevingsvereisten met betrekking tot financiële transacties, of moratoria van enigerlei aard, en kan:
 
@@ -122,7 +147,7 @@ De Commissie wordt niet beperkt door financiële controles, regelingen, kennisge
 
 - b. haar fondsen, goud of valuta's vrijelijk overbrengen naar of uit Nederland of binnen Nederland, en valuta's die zij bezit omwisselen in welke andere valuta ook.
 
-#### Artikel 11. Voorrechten en immuniteiten van de Uitvoerend Secretaris en de functionarissen
+##### Artikel 11. Voorrechten en immuniteiten van de Uitvoerend Secretaris en de functionarissen
 
 Voorrechten en immuniteiten van de Uitvoerend Secretaris, de Plaatsvervangend Uitvoerend Secretaris en andere functionarissen:
 
@@ -140,13 +165,13 @@ Voorrechten en immuniteiten van de Uitvoerend Secretaris, de Plaatsvervangend Ui
 
 - iii. immuniteit van inspectie van officiële bagage.
 
-#### Artikel 12. Voorrechten en immuniteiten van vertegenwoordigers bij de Commissie
+##### Artikel 12. Voorrechten en immuniteiten van vertegenwoordigers bij de Commissie
 
 1. De vertegenwoordigers die permanent in Nederland verblijven, genieten dezelfde voorrechten en immuniteiten als die welke door de Regering aan diplomaten van vergelijkbare rang van bij Nederland geaccrediteerde diplomatieke zendingen worden verleend overeenkomstig het Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961.
 
 2. De vertegenwoordigers die niet permanent in Nederland verblijven, genieten tijdens hun verblijf in Nederland voor de uitoefening van hun officiële functies voorrechten en immuniteiten zoals omschreven in artikel V, paragraaf 13, letters a tot en met f, en de paragrafen 14 tot en met 17 van het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties van 21 november 1947.
 
-#### Artikel 13. Voorrechten en immuniteiten van deskundigen
+##### Artikel 13. Voorrechten en immuniteiten van deskundigen
 
 Deskundigen genieten in de uitoefening van hun functies die verband houden met de Commissie of tijdens de verrichting van missies voor de Commissie de volgende voorrechten en immuniteiten, voor zover deze noodzakelijk zijn voor de uitvoering van hun taken, met inbegrip van reizen die in het kader van hun functies en tijdens dergelijke missies worden gemaakt:
 
@@ -156,7 +181,7 @@ Deskundigen genieten in de uitoefening van hun functies die verband houden met d
 
 - c. onschendbaarheid van al hun stukken, documenten en ander officieel materiaal.
 
-#### Artikel 14. Kennisgeving
+##### Artikel 14. Kennisgeving
 
 1. De Commissie doet de Regering onmiddellijk kennisgeving van:
 
@@ -172,17 +197,17 @@ Deskundigen genieten in de uitoefening van hun functies die verband houden met d
 
 3. De Regering verstrekt identiteitskaarten aan vertegenwoordigers en andere personen voor zover passend binnen de reikwijdte van artikel 12.
 
-#### Artikel 15. Sociale zekerheid
+##### Artikel 15. Sociale zekerheid
 
 1. In aanmerking genomen dat de Commissie haar eigen regelingen voor sociale zekerheid heeft vastgesteld, worden de Commissie en de functionarissen op wie bedoelde regelingen van toepassing zijn, vrijgesteld van alle verplichte bijdragen aan Nederlandse organisaties voor sociale zekerheid. Hieruit volgt dat zij niet vallen onder de Nederlandse regelingen voor sociale zekerheid.
 
 2. De bepalingen van het eerste lid van dit artikel zijn **mutatis mutandis** van toepassing op gezinsleden die deel uitmaken van het huishouden van personen bedoeld in het eerste lid, tenzij zij in Nederland in dienst zijn bij een andere werkgever dan de Commissie, of binnen dat huishouden behoren tot het huishoudelijk personeel.
 
-#### Artikel 16. Tewerkstelling
+##### Artikel 16. Tewerkstelling
 
 Aan functionarissen van de Commissie die geen diplomatieke status hebben en niet de nationaliteit van een van de lidstaten van de Europese Gemeenschap hebben, wordt een tijdelijke verblijfsvergunning verleend voor de duur van hun tewerkstelling bij de Commissie in Nederland.
 
-#### Artikel 17. Diverse bepalingen
+##### Artikel 17. Diverse bepalingen
 
 1. De krachtens de bepalingen van dit Verdrag verleende voorrechten en immuniteiten worden verleend in het belang van de Commissie en niet tot persoonlijk voordeel van de betrokkenen zelf. Het is de plicht van de Commissie en alle personen die dergelijke voorrechten en immuniteiten genieten in alle overige opzichten de wetten en regelingen van Nederland in acht te nemen.
 
@@ -194,7 +219,7 @@ Aan functionarissen van de Commissie die geen diplomatieke status hebben en niet
 
 5. Na beëindiging van dit Verdrag blijven de goederen, het meubilair, de uitrusting en andere zaken die beschikbaar zijn gesteld door de Stichting voor de Organisatie voor het Verbod van Chemische Wapens eigendom van de leverancier en/of van Nederland.
 
-#### Artikel 18. Beslechting van geschillen
+##### Artikel 18. Beslechting van geschillen
 
 1. Geschillen tussen de Partijen betreffende de uitlegging of toepassing van dit Verdrag die niet in der minne kunnen worden geschikt, worden op verzoek van een van beide Partijen bij het geschil voorgelegd aan een tribunaal van drie scheidsmannen. Elke Partij benoemt een scheidsman, en de twee aldus benoemde scheidsmannen benoemen samen een derde scheidsman als hun voorzitter.
 
@@ -206,17 +231,17 @@ Aan functionarissen van de Commissie die geen diplomatieke status hebben en niet
 
 5. Het scheidsgerecht komt tot een uitspraak met meerderheid van stemmen. De uitspraken van het scheidsgerecht zijn onherroepelijk en bindend voor de Partijen bij het geschil.
 
-#### Artikel 19. Wijzigingen
+##### Artikel 19. Wijzigingen
 
 1. Op verzoek van een van beide Partijen kan dit Verdrag met wederzijdse instemming te allen tijde worden gewijzigd.
 
 2. Wijzigingen kunnen tot stand worden gebracht door middel van een notawisseling.
 
-#### Artikel 20. Beëindiging
+##### Artikel 20. Beëindiging
 
 Dit Verdrag wordt beëindigd ingeval de zetel buiten het grondgebied van Nederland wordt gevestigd of ingeval de Commissie ophoudt te bestaan. De bepalingen van dit Verdrag met betrekking tot de ordelijke beëindiging van de werkzaamheden van de Commissie in Nederland en de beschikking over haar eigendommen blijven van toepassing zo lang als noodzakelijk, maar niet langer dan zes maanden nadat de Regering ervan in kennis is gesteld dat de Commissie haar werkzaamheden in Nederland zal beëindigen.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking daags nadat beide Partijen elkaar er schriftelijk van in kennis hebben gesteld dat aan de wettelijke vereisten voor de inwerkingtreding is voldaan.
 

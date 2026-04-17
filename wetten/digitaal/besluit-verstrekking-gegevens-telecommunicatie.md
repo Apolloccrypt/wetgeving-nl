@@ -1,13 +1,39 @@
 ---
-title: "Besluit verstrekking gegevens telecommunicatie"
+title: "Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)"
 identifier: "BWBR0011123"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011123"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011123"
+soort: "AMvB"
+stam_id: "1211343"
+version_id: "1785472"
+internal_id: "C1785471"
+label_id: "1173154"
+dtd_version: "2.0"
+original_entry_into_force: "2000-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011123/2022-03-02/0"
+intitule_bron: "Stb.2000-71"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-01-26"
+intitule_published: "2000-02-15"
+intitule_in_force: "2000-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2000-71"
+original_signed_date: "2000-01-26"
+original_published_date: "2000-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-71"
+entry_into_force_date: "2000-02-16"
+jci_1_3: "jci1.3:c:BWBR0011123&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0011123&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Besluit verstrekking gegevens telecommunicatie"
+signed_date: "2000-01-26"
+entry_into_force: "2000-02-16"
 ---
-
 # Besluit van 26 januari 2000, houdende regels voor de verstrekking van gegevens door aanbieders van openbare telecommunicatienetwerken en -diensten met het oog op het onderzoek van telecommunicatie (Besluit verstrekking gegevens telecommunicatie)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van
@@ -22,7 +48,7 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 19 janu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,11 +78,11 @@ In dit besluit wordt verstaan onder:
 
 - 3°. bij spraakcommunicatiediensten: het bij een netwerkaansluitpunt behorende nummer dan wel het Mobile Station Integrated Systems Digital Netwerk Number.
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Minister van Justitie en Veiligheid is belast met het langs geautomatiseerde weg doorgeleiden van verzoeken om en verstrekkingen van informatie. Hij voert deze taak uit door middel van het Centraal informatiepunt onderzoek telecommunicatie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het informatiepunt, de bevoegde autoriteit en de aanbieder treffen ieder de technische voorzieningen die nodig zijn teneinde uitvoering te geven aan het tweede, derde en vierde lid. De technische voorzieningen voldoen aan de voorwaarden bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=5&z=2022-03-02&g=2022-03-02) en aan de specificaties die zijn opgenomen in de bijlage bij dit besluit.
 
@@ -70,7 +96,7 @@ Onze Minister van Justitie en Veiligheid is belast met het langs geautomatiseerd
 
 6. Een aanbieder en het informatiepunt komen overeen dat het informatiepunt optreedt als verwerker van de bestanden, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02), indien de apparatuur waarin de bestanden zijn opgeslagen in beheer is bij het informatiepunt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanbieder van vaste openbare telefoonnetwerken dan wel van mobiele openbare telefoonnetwerken of van spraakcommunicatiediensten, beschikt over een bestand waarin de volgende gegevens zijn opgenomen van de personen die gebruik maken van een dienst of netwerk van de aanbieder:
 
@@ -94,7 +120,7 @@ Onze Minister van Justitie en Veiligheid is belast met het langs geautomatiseerd
 
 3. De aanbieder actualiseert de gegevens in het bestand, bedoeld in het eerste respectievelijk het tweede lid, ten minste iedere 24 uur, door een aanpassing van de gegevens aan de meest actuele gegevens die hij gebruikt voor zijn bedrijfsvoering.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verzoek van de bevoegde autoriteit, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2022-03-02&g=2022-03-02), kan slechts in het systeem worden ingevoerd door een door Onze Minister van Justitie en Veiligheid geautoriseerde ambtenaar die daartoe gebruik maakt van een hem toegekende toegangscode.
 
@@ -114,17 +140,17 @@ Onze Minister van Justitie en Veiligheid is belast met het langs geautomatiseerd
 
 6. De doorgeleiding, bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2022-03-02&g=2022-03-02), betreft slechts de gegevens waarop het verzoek zich richt.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij regeling van Onze Minister van Justitie en Veiligheid kunnen regels worden gesteld met betrekking tot de werkwijze van het informatiepunt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister van Justitie en Veiligheid draagt er zorg voor dat het informatiepunt voor elke informatieverstrekking een kenmerk vastlegt aan de hand waarvan kan worden herleid door welke aanbieder, aan welke bevoegde autoriteit en op welke rechtsgrondslag informatie is verstrekt. De vastlegging wordt gedurende drie jaren bewaard.
 
 2. Onze Minister van Justitie en Veiligheid draagt er zorg voor dat het informatiepunt geen gegevens opslaat als bedoeld in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=4&z=2022-03-02&g=2022-03-02), tenzij de gegevens worden opgeslagen onder verantwoordelijkheid van de aanbieder op basis van een overeenkomst als bedoeld in [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2022-03-02&g=2022-03-02). De vastlegging, bedoeld in het eerste lid, vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een verzoek om informatie betrekking heeft.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister van Justitie en Veiligheid stelt jaarlijks een verslag op waarin voor wat betreft de opsporing van strafbare feiten melding wordt gemaakt van het aantal malen waarin door tussenkomst van het informatiepunt aan een bevoegde autoriteit informatie is verstrekt. Deze vermelding is in ieder geval uitgesplitst naar:
 
@@ -142,23 +168,23 @@ Daarbij worden ten minste de volgende onderwerpen behandeld:
 
 - c. de bevraging van gegevens.
 
-#### Artikel 9
+##### Artikel 9
 
 Met de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011123&artikel=3&z=2022-03-02&g=2022-03-02), bedoelde technische voorzieningen worden gelijkgesteld technische voorzieningen die rechtmatig zijn geproduceerd of in de handel zijn gebracht in een andere lid-staat van de Europese Unie dan wel rechtmatig zijn geproduceerd in een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, en die ten minste aan gelijkwaardige eisen voldoen.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit aftappen openbare telecommunicatienetwerken en -diensten.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit verstrekking gegevens telecommunicatie.
 

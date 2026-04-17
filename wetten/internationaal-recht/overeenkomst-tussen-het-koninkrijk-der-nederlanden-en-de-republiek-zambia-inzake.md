@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zambia inzake technische samenwerking"
 identifier: "BWBV0003785"
-categorie: "Internationaal recht"
-publicatiedatum: 1987-04-16
-laatste_update: 1987-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003785"
+country: "nl"
+rank: "verdrag"
+publication_date: "1987-04-16"
+last_updated: "1987-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003785"
+soort: "verdrag"
+stam_id: "10003711113"
+version_id: "10003772552"
+internal_id: "C10006980201"
+label_id: "10003696254"
+dtd_version: "2.0"
+original_entry_into_force: "1987-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003785/1987-04-16/0"
+intitule_bron: "Trb.1980-17"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-02-13"
+intitule_in_force: "1987-05-18"
+intitule_status: "goed"
+original_publication: "Trb.1980-17"
+original_published_date: "1980-02-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-17"
+entry_into_force_date: "1987-04-16"
+jci_1_3: "jci1.3:c:BWBV0003785&z=1987-04-16&g=1987-04-16"
+jci_1_0: "1.0:c:BWBV0003785&g=1987-04-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-04-16"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Zambia inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zambia,
@@ -20,13 +42,13 @@ Verlangend de technische samenwerking te bevorderen en daartoe het noodzakelijke
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Overeenkomst is het bevorderen van de technische samenwerking en het daartoe scheppen van het juridische en administratieve kader voor de projecten van technische samenwerking waartoe de bevoegde autoriteiten van de beide Partijen ter uitvoering van deze Overeenkomst besluiten.
 
 2. Een besluit tot samenwerking als bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop een project zal worden uitgevoerd, worden voor elk afzonderlijk geval nedergelegd in een door beide bevoegde autoriteiten op te stellen akkoord.
 
-#### Artikel II
+##### Artikel II
 
 In verband met een project verbindt de Zambiaanse Regering zich ertoe:
 
@@ -50,7 +72,7 @@ In verband met een project verbindt de Zambiaanse Regering zich ertoe:
 
 - j. er voor te zorgen dat de deskundigen en hun gezinnen een behandeling wordt toegekend die niet minder gunstig is dan die welke wordt toegekend aan personeel van enig ander land dat in het kader van de technische hulpverlening in Zambia is tewerkgesteld.
 
-#### Artikel III
+##### Artikel III
 
 1. De deskundigen dienen zich te houden aan de wetten, voorschriften en regelingen die te enigerlei tijd in Zambia van kracht zijn tenzij anders is bepaald in deze Overeenkomst of aanvullende overeenkomsten hierbij.
 
@@ -58,13 +80,13 @@ In verband met een project verbindt de Zambiaanse Regering zich ertoe:
 
 3. De Nederlandse Regering heeft het recht om, nadat zij de Zambiaanse Regering ten minste twee maanden van te voren hiervan schriftelijk op de hoogte heeft gesteld, iedere deskundige terug te roepen die door de Nederlandse Regering ter beschikking is gesteld krachtens deze Overeenkomst. Alvorens dit recht uit te oefenen, pleegt de Nederlandse Regering overleg met de Zambiaanse Regering en stelt zij alles in het werk om te zorgen voor een passende vervanging van de aldus teruggeroepen deskundige.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De bepalingen van deze Overeenkomst betreffende Nederlandse deskundigen zijn eveneens van toepassing op personen, niet zijnde Zambiaanse onderdanen, in dienst van de Nederlandse Regering en op personen, niet zijnde Zambiaanse onderdanen, in dienst van ondernemingen waarmee de Nederlandse Regering een contract heeft afgesloten voor het verrichten van werkzaamheden vallend onder of verband houdend met deze Overeenkomst.
 
 2. De ter beschikking gestelde deskundigen kunnen ter vervulling van hun taken hetzij zelf werkzaamheden uitvoeren hetzij adviseren.
 
-#### Artikel V
+##### Artikel V
 
 1. De Zambiaanse Regering stelt de door de Nederlandse Regering voor een project verschafte uitrusting (met inbegrip van motorvoertuigen) en andere voorraden vrij van alle in- en uitvoerrechten en andere officiële heffingen.
 
@@ -74,13 +96,13 @@ In verband met een project verbindt de Zambiaanse Regering zich ertoe:
 
 Saldi van bankrekeningen waarop alleen deze soort gelden zijn gestort mogen vrijelijk worden omgezet in iedere andere convertibele valuta.
 
-#### Artikel VI
+##### Artikel VI
 
 Voor de follow-up en de evaluatie van de samenwerking krachtens deze Overeenkomst zijn de bevoegde autoriteiten, steeds wanneer dit nodig mocht zijn, voor elkaar beschikbaar voor overleg en verstrekken zij elkaar ten aanzien van de samenwerking die van belang zijnde informatie waarom redelijkerwijze zou kunnen worden verzocht.
 
 Voorts stelt de Zambiaanse Regering, wanneer dit wenselijk en uitvoerbaar is, de vertegenwoordigers van de Nederlandse Regering in staat een studie te maken van de verschillende activiteiten die door de Nederlandse Regering worden ondersteund.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de beide Regeringen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.
 

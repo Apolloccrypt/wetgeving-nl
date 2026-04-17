@@ -1,13 +1,39 @@
 ---
-title: "Besluit Omzetbelasting. Reisbureauregeling"
+title: "Omzetbelasting. Reisbureauregeling"
 identifier: "BWBR0048038"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-04-07
-laatste_update: 2023-04-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048038"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-04-07"
+last_updated: "2023-04-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048038"
+soort: "beleidsregel"
+stam_id: "16718813"
+version_id: "29327342"
+internal_id: "C41771161"
+label_id: "16635664"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048038/2023-04-07/0"
+intitule_bron: "Stcrt.2023-10047"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-24"
+intitule_published: "2023-04-06"
+intitule_in_force: "2023-04-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10047"
+original_signed_date: "2023-03-24"
+original_published_date: "2023-04-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-10047"
+entry_into_force_date: "2023-04-07"
+jci_1_3: "jci1.3:c:BWBR0048038&z=2023-04-07&g=2023-04-07"
+jci_1_0: "1.0:c:BWBR0048038&g=2023-04-07"
+citeertitel_status: "officieel"
+short_title: "Besluit Omzetbelasting. Reisbureauregeling"
+signed_date: "2023-03-24"
+entry_into_force: "2023-04-07"
 ---
-
 # Omzetbelasting. Reisbureauregeling
 
 **Dit besluit vervangt en actualiseert het besluit van 19 augustus 2019, nr. 2019-7277 (** **Stcrt. 2019, nr. 47961** **) laatstelijk gewijzigd bij besluit van 22 februari 2021, nr. 2021-1926 (** **Stcrt. 2021, nr. 10781** **). In dit besluit wordt in onderdeel 7 ingegaan op de gevolgen voor de omzetbelasting ingeval van annulering van (reis)overeenkomsten. De overgangsmaatregel inzake de reikwijdte van de reisbureauregeling opgenomen in onderdeel 3. Algemeen komt te vervallen. Vanwege het tijdsverloop heeft deze goedkeuring haar belang verloren. Daarnaast is een aantal redactionele wijzigingen doorgevoerd.**

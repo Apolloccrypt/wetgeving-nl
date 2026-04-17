@@ -1,13 +1,39 @@
 ---
-title: "Regeling verlof en STP jeugdigen"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 1 april 2014, houdende regels aangaande het verlaten van de justitiële jeugdinrichting bij wijze van verlof of scholings- en trainingsprogramma (Regeling verlof en STP jeugdigen)"
 identifier: "BWBR0035001"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035001"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035001"
+soort: "ministeriele-regeling"
+stam_id: "12632733"
+version_id: "21333422"
+internal_id: "C30635291"
+label_id: "12603284"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035001/2014-04-01/0"
+intitule_bron: "Stcrt.2014-9440"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-04-01"
+intitule_published: "2014-03-31"
+intitule_in_force: "2014-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-9440"
+original_signed_date: "2014-04-01"
+original_published_date: "2014-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-9440"
+entry_into_force_date: "2014-04-01"
+jci_1_3: "jci1.3:c:BWBR0035001&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0035001&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verlof en STP jeugdigen"
+signed_date: "2014-04-01"
+entry_into_force: "2014-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 1 april 2014, houdende regels aangaande het verlaten van de justitiële jeugdinrichting bij wijze van verlof of scholings- en trainingsprogramma (Regeling verlof en STP jeugdigen)
 
 Gelet op de [artikelen 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=8), [12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=12), en [40 van het Reglement justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=40);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene en begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 - f. **scholings- en trainingsprogrammaplan:** een schriftelijke omschrijving van het scholings- en trainingsprogramma als bedoeld in [artikel 2, derde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 Verlofaanvragen en aanvragen voor de deelname aan een scholings- en trainingsprogramma worden door de directeur van de inrichting schriftelijk ingediend bij de minister.
 
 ### Hoofdstuk 2. Incidenteel en planmatig verlof
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvraag voor incidenteel verlof bevat in ieder geval:
 
@@ -54,7 +80,7 @@ De aanvraag voor incidenteel verlof bevat in ieder geval:
 
 - f. het advies van de Immigratie- en Naturalisatiedienst, in het geval van [artikel 34, vierde lid van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=34).
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
@@ -70,7 +96,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 - f. indien van toepassing meldingen van bijzondere voorvallen, als bedoeld in de [Regeling melding bijzondere voorvallen jeugdigen](https://wetten.overheid.nl/jci1.3:c:BWBR0012739).
 
-#### Artikel 5
+##### Artikel 5
 
 1. In de aanvraag voor het begeleid verlof wordt aangegeven welke personeelsleden of medewerker(s) de jeugdige begeleiden.
 
@@ -78,7 +104,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 3. Het begeleid verlof duurt maximaal een dag zonder overnachting.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Eendaags onbegeleid verlof kan worden aangevraagd indien de jeugdige minimaal vijf keer met begeleid verlof is geweest, tenzij;
 
@@ -88,7 +114,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 2. [Artikel 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij meerdaags onbegeleid verlof verblijft de jeugdige één of meerdere dagen met overnachting buiten de inrichting. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=5&z=2014-04-01&g=2014-04-01), is van overeenkomstige toepassing.
 
@@ -96,7 +122,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 3. Bij iedere volgende aanvraag voor een machtiging voor meerdaags onbegeleid verlof kan om een hogere frequentie van zowel het dagverlof als van de overnachtingen worden verzocht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Voor iedere nieuwe verlofstatus, de verlenging ervan of bij een structurele wijziging van het verlofplan vraagt de directeur een nieuwe machtiging aan.
 
@@ -104,7 +130,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 3. Elk planmatig verlof wordt afgesloten met een evaluatie. De evaluatie wordt besproken met de jeugdige.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer bij planmatig verlof de toepassing van elektronisch toezicht wordt overwogen, vraagt de directeur daarover advies van de reclassering of de jeugdreclassering.
 
@@ -112,7 +138,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 3. In de machtiging planmatig verlof wordt het doel, de invulling van het toezicht door de reclassering of de jeugdreclassering en de duur van het elektronisch toezicht vastgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister beslist onverwijld op aanvragen voor incidenteel verlof. Indien spoed vereist is, stelt de directeur van de inrichting de minister hiervan van tevoren op de hoogte.
 
@@ -122,7 +148,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 4. De minister neemt bij de beslissing een machtiging af te geven het advies van het multidisciplinair overleg in aanmerking.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De geldigheid van een machtiging incidenteel verlof is gelijk aan het doel dan wel de gebeurtenis bedoeld in [artikel 32, vijfde lid, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=32).
 
@@ -132,7 +158,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 4. Bij een overplaatsing naar een andere inrichting blijft de machtiging zes weken geldig. De directeur van de ontvangende inrichting kan beslissen het verlofplan over te nemen dan wel aan te passen. In beide gevallen vraagt de directeur binnen twee weken een nieuwe machtiging aan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De minister kan voor de duur van maximaal vier weken een machtiging planmatig verlof afgeven, indien een nieuwe machtiging niet aansluitend aan de bestaande machtiging kan worden afgegeven, in afwachting van een advies van het multidisciplinair overleg bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=10&z=2014-04-01&g=2014-04-01).
 
@@ -140,7 +166,7 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 3. De minister kan bij het verlenen van de in het vorige lid bedoelde machtiging aanvullende voorwaarden stellen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een verlofmachtiging eindigt indien:
 
@@ -164,17 +190,17 @@ De aanvraag voor planmatig verlof bevat in ieder geval het perspectiefplan met
 
 - f. als het doel van het verlof is bereikt waarvoor de machtiging is verleend.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een verlofmachtiging is afgegeven en de directeur gebruikt maakt van zijn bevoegdheden op grond van de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=36) of [39 van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=39), wordt de duur van de machtiging door het tijdelijk niet toestaan van het verlof, niet opgeschort. De directeur maakt melding van het tijdelijk niet toestaan van het verlof in de verlofevaluatie.
 
 ### Hoofdstuk 3. Scholings- en trainingsprogramma
 
-#### Artikel 15
+##### Artikel 15
 
 Deelname aan een scholings- en trainingsprogramma vindt plaats in aansluiting op planmatig verlof.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De aanvraag voor een scholings- en trainingsprogramma bevat:
 
@@ -196,7 +222,7 @@ Deelname aan een scholings- en trainingsprogramma vindt plaats in aansluiting op
 
 2. [Artikel 10, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035001&hoofdstuk=2&artikel=10&z=2014-04-01&g=2014-04-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer bij een scholings- en trainingsprogramma elektronisch toezicht wordt overwogen, vraagt de directeur het advies van de reclassering of jeugdreclassering.
 
@@ -204,7 +230,7 @@ Deelname aan een scholings- en trainingsprogramma vindt plaats in aansluiting op
 
 3. In de machtiging scholings- en trainingsprogramma wordt het doel, de invulling van het toezicht door de reclassering of jeugdreclassering en de duur van het elektronisch toezicht vastgelegd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een tijdelijke terugplaatsing bedoeld in [artikel 12, derde lid, onderdeel c, van het reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&artikel=12) duurt maximaal twee weken. Indien een terugplaatsing van langere duur nodig is, overlegt de directeur met de minister of de terugplaatsing eenmalig met twee weken kan worden verlengd.
 
@@ -214,7 +240,7 @@ Deelname aan een scholings- en trainingsprogramma vindt plaats in aansluiting op
 
 4. De directeur stelt de minister in kennis van een herstart van een scholings- en trainingsprogramma.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een machtiging scholings- en trainingsprogramma geldt:
 
@@ -228,15 +254,15 @@ Deelname aan een scholings- en trainingsprogramma vindt plaats in aansluiting op
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling is van toepassing op alle verlofaanvragen en aanvragen voor scholings- en trainingsprogramma’s die vier weken na de inwerkingtreding van deze regeling worden ingediend.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking op 1 april 2014.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling verlof en STP jeugdigen.
 

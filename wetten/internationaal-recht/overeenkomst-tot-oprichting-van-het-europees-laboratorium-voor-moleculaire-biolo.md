@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie"
 identifier: "BWBV0003423"
-categorie: "Internationaal recht"
-publicatiedatum: 1974-07-04
-laatste_update: 1974-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003423"
+country: "nl"
+rank: "verdrag"
+publication_date: "1974-07-04"
+last_updated: "1974-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003423"
+soort: "verdrag"
+stam_id: "10003526513"
+version_id: "10003575862"
+internal_id: "C10006982411"
+label_id: "10003512284"
+dtd_version: "2.0"
+original_entry_into_force: "1974-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003423/1974-07-04/0"
+intitule_bron: "Trb.1973-162"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-11-14"
+intitule_in_force: "1974-08-16"
+intitule_status: "goed"
+original_publication: "Trb.1973-162"
+original_published_date: "1973-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-162"
+entry_into_force_date: "1974-07-04"
+jci_1_3: "jci1.3:c:BWBV0003423&z=1974-07-04&g=1974-07-04"
+jci_1_0: "1.0:c:BWBV0003423&g=1974-07-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1974-07-04"
 ---
-
 # Overeenkomst tot oprichting van het Europees Laboratorium voor Moleculaire Biologie
 
 Het Koninkrijk Denemarken
@@ -42,13 +64,13 @@ Gelet op de aanvaarding door de ECMB van de bepalingen in deze Overeenkomst voor
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Oprichting van het Laboratorium
+##### Artikel I. Oprichting van het Laboratorium
 
 1. Hierbij wordt een Europees Laboratorium voor Moleculaire Biologie opgericht (hierna te noemen „het Laboratorium”) als een intergouvernementele instelling.
 
 2. De zetel van het Laboratorium is gevestigd te Heidelberg in de Bondsrepubliek Duitsland.
 
-#### Artikel II. Doeleinden en middelen
+##### Artikel II. Doeleinden en middelen
 
 1. Het Laboratorium bevordert de samenwerking tussen de Europese Staten in het fundamenteel wetenschappelijk onderzoek, in de ontwikkeling van een geavanceerd instrumentarium en in onderwijs op hoog niveau in de moleculaire biologie alsook op andere daarmede wezenlijk verband houdende terreinen van onderzoek en richt hiertoe zijn activiteiten op werk dat gewoonlijk niet of niet licht wordt verricht in nationale instellingen. De resultaten van het experimentele en theoretische werk van het Laboratorium worden gepubliceerd of op andere wijze algemeen toegankelijk gemaakt.
 
@@ -72,21 +94,21 @@ Het Laboratorium omvat:
 
 4. Het Laboratorium organiseert en bevordert de internationale samenwerking, in de ruimst mogelijke zin, op de terreinen en binnen het programma van activiteiten omschreven in het eerste en tweede lid van dit artikel, en in overeenstemming met het Algemene Programma van de ECMB. Deze samenwerking omvat met name het bevorderen van contacten tussen en de uitwisseling van wetenschapsmensen en de verspreiding van kennis. Binnen het kader van zijn doelstellingen streeft het Laboratorium ook naar samenwerking, in de ruimst mogelijke zin, met instellingen voor onderzoek en wel door medewerking en verstrekking van adviezen. Het Laboratorium dient duplicering te vermijden van werk dat reeds in de genoemde instellingen wordt verricht.
 
-#### Artikel III. Lidmaatschap
+##### Artikel III. Lidmaatschap
 
 De Staten die Partij zijn bij deze Overeenkomst zijn de Lid-Staten van het Laboratorium.
 
-#### Artikel IV. Samenwerking
+##### Artikel IV. Samenwerking
 
 1. Het Laboratorium onderhoudt een nauwe samenwerking met de ECMB.
 
 2. Het Laboratorium kan samenwerking overeenkomen met niet-Lid-Staten, nationale lichamen in deze Staten, internationale gouvernementele of niet-gouvernementele organisaties. De totstandkoming, voorwaarden en bedingen van een zodanige samenwerking worden door de Raad, met eenparigheid van stemmen van de aanwezige Lid-Staten die hun stem uitbrengen, vastgesteld, telkens naar gelang van de omstandigheden.
 
-#### Artikel V. Organen
+##### Artikel V. Organen
 
 De organen van het Laboratorium zijn de Raad en de Directeur-Generaal.
 
-#### Artikel VI. De Raad
+##### Artikel VI. De Raad
 
 1. De Raad bestaat uit alle Lid-Staten van het Laboratorium. Elke Lid-Staat wordt vertegenwoordigd door ten hoogste twee afgevaardigden, die door raadgevers kunnen worden vergezeld.
 
@@ -150,7 +172,7 @@ De Raad kiest een Voorzitter en twee Vice-Voorzitters die deze functie een jaar 
 
 - d. Ondergeschikte organen stellen hun eigen huishoudelijk reglement vast.
 
-#### Artikel VII. Directeur-Generaal en personeel
+##### Artikel VII. Directeur-Generaal en personeel
 
 - a. De Raad benoemt met een twee-derde meerderheid van alle Lid-Staten een Directeur-Generaal voor een vastgesteld tijdvak en ontslaat hem met dezelfde meerderheid van stemmen,
 
@@ -174,13 +196,13 @@ De Raad kiest een Voorzitter en twee Vice-Voorzitters die deze functie een jaar 
 
 6. Elke Lid-Staat eerbiedigt het uitsluitend internationale karakter van de verantwoordelijkheden van de Directeur-Generaal en het personeel ten aanzien van het Laboratorium. Bij de uitoefening van hun functies vragen noch aanvaarden zij instructies van een Lid-Staat of een regering of van enige andere autoriteit buiten het Laboratorium.
 
-#### Artikel VIII. Wetenschappelijke Adviescommissie
+##### Artikel VIII. Wetenschappelijke Adviescommissie
 
 1. De Wetenschappelijke Adviescommissie ingesteld overeenkomstig het zevende lid van artikel VI van deze Overeenkomst geeft de Raad advies, met name ten aanzien van voorstellen van de Directeur-Generaal inzake de uitvoering van het programma van het Laboratorium.
 
 2. De Commissie is samengesteld uit vooraanstaande wetenschapsmensen, die worden benoemd in hun persoonlijke hoedanigheid en niet als vertegenwoordigers van de Lid-Staten. De leden van de Commissie dienen te worden gekozen uit wetenschapsmensen werkzaam op een breed terrein van in aanmerking komende gebieden van wetenschap ten einde voor zover mogelijk zowel het gebied van de moleculaire biologie als andere passende takken van wetenschap te bestrijken. Na behoorlijk overleg met inzonderheid de Raad van de EMBO en daarvoor in aanmerking komende nationale instellingen, stelt de Directeur-Generaal aan de Raad een lijst van kandidaten voor, waarmede de Raad rekening houdt bij de benoeming van de leden van de Commissie.
 
-#### Artikel IX. Begroting
+##### Artikel IX. Begroting
 
 1. Het boekjaar van het Laboratorium loopt van 1 januari tot en met 31 december.
 
@@ -196,7 +218,7 @@ De Raad kiest een Voorzitter en twee Vice-Voorzitters die deze functie een jaar 
 
 4. De begroting van het Laboratorium is uitgedrukt in rekeneenheden met een gewicht van 0,88867088 gram fijn goud.
 
-#### Artikel X. Bijdragen en accountantsonderzoek
+##### Artikel X. Bijdragen en accountantsonderzoek
 
 1. Elke Lid-Staat draagt jaarlijks bij in de kapitaalsuitgaven en in de lopende exploitatiekosten van het Laboratorium tot een totaal bedrag aan inwisselbare valuta overeenkomstig een om de drie jaar door de Raad met een twee-derde meerderheid der stemmen van alle Lid-Staten vast te stellen verdeelsleutel, die is gebaseerd op het gemiddelde netto nationale inkomen tegen factorkosten van elk Lid-Staat over de laatste drie voorafgaande kalenderjaren, waarover gegevens beschikbaar zijn.
 
@@ -216,15 +238,15 @@ De Raad kiest een Voorzitter en twee Vice-Voorzitters die deze functie een jaar 
 
 8. De Directeur-Generaal verstrekt de accountants alle inlichtingen en verleent alle hulp die zij, voor de uitvoering van hun taak, kunnen nodig hebben.
 
-#### Artikel XI. Juridische status
+##### Artikel XI. Juridische status
 
 Het Laboratorium bezit rechtspersoonlijkheid. In het bijzonder heeft het de bevoegdheid overeenkomsten aan te gaan, roerende en onroerende goederen te verwerven en te vervreemden en rechtsgedingen aan te spannen. De Staat waar het Laboratorium is gevestigd sluit met het Laboratorium een overeenkomst inzake de zetel, die door de Raad moet worden goedgekeurd met een twee-derde meerderheid der stemmen van alle Lid-Staten, betreffende de status van het Laboratorium, alsmede de voorrechten en immuniteiten van het Laboratorium en zijn personeel die noodzakelijk zijn voor de verwezenlijking van zijn doeleinden en de uitoefening van zijn functies.
 
-#### Artikel XII. Regeling van geschillen
+##### Artikel XII. Regeling van geschillen
 
 Elk geschil tussen twee of meer Lid-Staten met betrekking tot de uitlegging of de toepassing van deze Overeenkomst dat niet kan worden geregeld door tussenkomst van de Raad wordt, op verzoek van een der partijen bij het geschil, voorgelegd aan het Internationale Gerechtshof, tenzij de betrokken Lid-Staten binnen drie maanden na de datum waarop de Voorzitter van de Raad verklaart dat het geschil niet door tussenkomst van de Raad kan worden geregeld, overeenstemming bereiken over een andere wijze van regeling van het geschil.
 
-#### Artikel XIII. Wijzigingen
+##### Artikel XIII. Wijzigingen
 
 1. Een voorstel van een Lid-Staat tot wijziging van deze Overeenkomst wordt geplaatst op de agenda van de eerstvolgende gewone zitting nadat het voorstel bij de Directeur-Generaal is nedergelegd. Voor de behandeling van een zodanig voorstel kan ook een buitengewone zitting worden bijeengeroepen.
 
@@ -232,11 +254,11 @@ Elk geschil tussen twee of meer Lid-Staten met betrekking tot de uitlegging of d
 
 3. Wijzigingen worden dertig dagen na nederlegging van de laatste schriftelijke kennisgeving van aanvaarding van kracht.
 
-#### Artikel XIV. Opheffing
+##### Artikel XIV. Opheffing
 
 Het Laboratorium wordt opgeheven indien er op enig tijdstip minder dan drie Lid-Staten zijn. Met inachtneming van eventuele afspraken tussen de Lid-Staten op het tijdstip van de liquidatie is de Staat waar de zetel van het Laboratorium is gevestigd verantwoordelijk voor de liquidatie. Tenzij de Lid-Staten anders beslissen, wordt het overschot tussen de Staten die Lid van het Laboratorium zijn op het tijdstip van de liquidatie verdeeld naar rato van alle door hen verrichte betalingen. In het geval dat er een tekort is, wordt dit door de Lid-Staten aangezuiverd op basis van dezelfde verdeelsleutel als die welke gold bij het vaststellen van hun bijdragen voor het lopende boekjaar.
 
-#### Artikel XV. Ondertekening, bekrachtiging, toetreding, inwerkingtreding
+##### Artikel XV. Ondertekening, bekrachtiging, toetreding, inwerkingtreding
 
 1. Deze Overeenkomst staat open ter ondertekening door de Lid-Staten van de ECMB tot de datum van haar inwerkingtreding overeenkomstig het vierde lid, letter a, van dit artikel.
 
@@ -260,13 +282,13 @@ Het Laboratorium wordt opgeheven indien er op enig tijdstip minder dan drie Lid-
 
 - ii. De beëindiging van de [Overeenkomst tot instelling van de ECMB](https://wetten.overheid.nl/jci1.3:c:BWBV0004298) tast de geldigheid van deze Overeenkomst niet aan.
 
-#### Artikel XVI. Opzegging
+##### Artikel XVI. Opzegging
 
 1. Nadat deze Overeenkomst zes jaar van kracht is geweest, kan een Staat die Partij is bij de Overeenkomst, onder voorbehoud van het bepaalde in het derde lid, letter b, van artikel VI van deze Overeenkomst, haar opzeggen door van zijn voornemen daartoe kennis te geven aan de Zwitserse Bondsraad. Een zodanige opzegging wordt van kracht aan het eind van het daaropvolgende boekjaar.
 
 2. Indien een Lid-Staat zijn verplichtingen ingevolge deze Overeenkomst niet nakomt, kan hem, bij besluit van de Raad genomen met een twee-derde meerderheid van stemmen van alle Lid-Staten, zijn lidmaatschap worden ontnomen. De Directeur-Generaal stelt de ondertekenende en toetredende Staten van een zodanig besluit in kennis.
 
-#### Artikel XVII. Kennisgevingen en registratie
+##### Artikel XVII. Kennisgevingen en registratie
 
 1. De Zwitserse Bondsraad geeft de ondertekenende en toetredende Staten kennis van:
 
@@ -284,7 +306,7 @@ Het Laboratorium wordt opgeheven indien er op enig tijdstip minder dan drie Lid-
 
 2. De Zwitserse Bondsraad laat deze Overeenkomst, nadat zij in werking is getreden, overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), registreren bij het Secretariaat van de Verenigde Naties.
 
-#### Artikel XVIII. Overgangsbepalingen
+##### Artikel XVIII. Overgangsbepalingen
 
 1. Voor het tijdvak lopende van de inwerkingtreding van de Overeenkomst tot de daaropvolgende eenendertigste december, treft de Raad regelingen voor de begroting en worden de uitgaven bestreden uit aan de Lid-Staten opgelegde aanslagen, vastgesteld overeenkomstig het bepaalde in de volgende twee leden.
 

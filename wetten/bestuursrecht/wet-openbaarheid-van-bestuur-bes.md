@@ -1,18 +1,43 @@
 ---
 title: "Wet openbaarheid van bestuur BES"
 identifier: "BWBR0028154"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028154"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028154"
+soort: "wet-BES"
+stam_id: "10682653"
+version_id: "17642822"
+internal_id: "C24978121"
+label_id: "10657464"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028154/2010-10-10/0"
+intitule_bron: "Stb.2010-391"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-391"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-391"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028154&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028154&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet openbaarheid van bestuur BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,13 +59,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Openbaarheid
 
-#### Artikel 2
+##### Artikel 2
 
 Een bestuursorgaan betracht bij de uitvoering van zijn taak openbaarheid en verstrekt hiertoe informatie.
 
 #### § 3. Informatie op verzoek
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een ieder kan verzoeken om informatie neergelegd in documenten over een bestuurlijke aangelegenheid richten tot een bestuurorgaan of tot de onder verantwoordelijkheid van een bestuursorgaan werkzame departementen, diensten, bureaus en instellingen.
 
@@ -50,11 +75,11 @@ Een bestuursorgaan betracht bij de uitvoering van zijn taak openbaarheid en vers
 
 4. Een verzoek wordt ingewilligd met inachtneming van het bepaalde in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&paragraaf=6&artikel=11&z=2010-10-10&g=2010-10-10) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028154&paragraaf=6&artikel=12&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 4
+##### Artikel 4
 
 Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij een ander bestuurorgaan dan dat waarbij het verzoek is ingediend, wordt de verzoeker zo nodig naar dat orgaan verwezen. Is het verzoek schriftelijk gedaan, dan wordt het doorgezonden onder mededeling van de doorzending aan de verzoeker.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De beslissing op een verzoek wordt genomen door of vanwege het bestuursorgaan.
 
@@ -62,11 +87,11 @@ Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij e
 
 3. Indien de informatie op een verzoek als bedoeld in het eerste lid, betrekking heeft op een derde, wordt deze hiervan op de hoogste gesteld en worden de beslissingen en de informatie, voor zover die op hem betrekking hebben, schriftelijk aan deze medegedeeld, indien hij dit verzoekt.
 
-#### Artikel 6
+##### Artikel 6
 
 Het bestuursorgaan beslist op het verzoek zo spoedig mogelijk, doch uiterlijk binnen drie weken na de dag waarop het verzoek is ontvangen. Het bestuursorgaan kan de beslissing voor ten hoogste drie weken verdagen. Van de verdaging wordt voor de afloop van de eerste termijn schriftelijk gemotiveerd mededeling gedaan aan de verzoeker.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuursorgaan verstrekt de met betrekking tot documenten verlangde informatie door:
 
@@ -82,11 +107,11 @@ Het bestuursorgaan beslist op het verzoek zo spoedig mogelijk, doch uiterlijk bi
 
 #### § 4. Informatie uit eigen beweging
 
-#### Artikel 8
+##### Artikel 8
 
 Het bestuursorgaan verschaft uit eigen beweging informatie over het beleid, de voorbereiding en de uitvoering daaronder begrepen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuursorgaan draagt zorg voor het openbaar maken, zo mogelijk met toelichting, van door niet-ambtelijke adviescommissies aan het orgaan uitgebrachte adviezen met het oog op het te vormen beleid, tezamen met de door het orgaan aan de commissies voorgelegde adviesaanvragen en voorstellen.
 
@@ -104,7 +129,7 @@ Het bestuursorgaan verschaft uit eigen beweging informatie over het beleid, de v
 
 #### § 6. Uitzonderingen en beperkingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het verstrekken van informatie ingevolge deze wet blijft achterwege voor zover dit:
 
@@ -128,21 +153,21 @@ Het bestuursorgaan verschaft uit eigen beweging informatie over het beleid, de v
 
 - f. het voorkomen van onevenredige bevoordeling of benadeling van bij de aangelegenheid betrokken natuurlijke personen of rechtspersonen dan wel van derden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In geval van een verzoek om informatie uit documenten, opgesteld ten behoeve van intern beraad, wordt geen informatie verstrekt over tot personen herleidbare beleidsopvattingen. Onder intern beraad wordt verstaan het beraad over een bestuurlijke aangelegenheid binnen een bestuursorgaan dan wel een kring van bestuursorganen in het kader van de gezamenlijke verantwoordelijkheid voor die bestuurlijke aangelegenheid. Onder tot personen herleidbare beleidsopvatting wordt verstaan een opvatting, voorstel, aanbeveling of conclusie van een of meer personen over een bestuurlijke aangelegenheid en de daartoe door hen aangevoerde argumenten.
 
 #### § 7. Overige bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Bij algemene maatregel van bestuur kunnen voor de Rijksvertegenwoordiger en bij eilandsbesluit, houdende algemene maatregelen, voor de openbare lichamen, nadere regels worden gesteld omtrent de uitvoering van deze wet.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij algemene maatregel van bestuur kunnen voor de Rijksvertegenwoordiger en bij eilandsbesluit, houdende algemene maatregelen, voor de openbare lichamen, regels worden gesteld met betrekking tot in rekening te brengen vergoedingen voor het ingevolge een ingekomen verzoek vervaardigen van kopieën van documenten en van uittreksels of samenvattingen van de inhoud daarvan.
 
-#### Artikel 15
+##### Artikel 15
 
 De gezaghebbers van de openbare lichamen zenden jaarlijks voor 1 april aan de eilandsraden een verslag over de wijze waarop in het daaraan voorafgaande jaar de wet door de bestuursorganen van de openbare lichamen is toegepast.
 
@@ -150,22 +175,22 @@ De gezaghebbers van de openbare lichamen zenden jaarlijks voor 1 april aan de ei
 
 #### § 9. Overgangs- en slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet verplicht niet tot het openbaarmaken van adviezen van niet-ambtelijke adviescommissies die zijn uitgebracht voor het tijdstip van inwerkingtreding van deze wet.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet is niet van toepassing op procedures die ten tijde van de inwerkingtreding van deze wet aanhangig zijn voor de burgerlijke rechter inzake onderwerpen die door deze wet worden geregeld.
 
-#### Artikel 19
+##### Artikel 19
 
 Het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba is belast met de beslissing van de geschillen die uit deze wet voortvloeien.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze landsverordening treedt in werking met ingang van 1 september 1996, met uitzondering van artikel 16, dat in werking treedt op een bij landsbesluit te bepalen later tijdstip.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet wordt aangehaald als: Wet openbaarheid van bestuur BES.

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Adresonderzoek BRP"
 identifier: "BWBR0048118"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-05-15
-laatste_update: 2023-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048118"
+country: "nl"
+rank: "circulaire"
+publication_date: "2023-05-15"
+last_updated: "2023-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048118"
+soort: "circulaire"
+stam_id: "16736043"
+version_id: "29384522"
+internal_id: "C41923631"
+label_id: "16652564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048118/2023-05-15/0"
+intitule_bron: "Stcrt.2023-12045"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-22"
+intitule_published: "2023-05-01"
+intitule_in_force: "2023-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12045"
+original_signed_date: "2023-03-22"
+original_published_date: "2023-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12045"
+entry_into_force_date: "2023-05-15"
+jci_1_3: "jci1.3:c:BWBR0048118&z=2023-05-15&g=2023-05-15"
+jci_1_0: "1.0:c:BWBR0048118&g=2023-05-15"
+citeertitel_status: "redactioneel"
+signed_date: "2023-03-22"
+entry_into_force: "2023-05-15"
 ---
-
 # Circulaire Adresonderzoek BRP
 
 Deze circulaire vervangt de circulaire Adresonderzoek BRP, opgesteld door het Ministerie van BZK, ingangsdatum 1 november 2018, kenmerk 2018-0000266452

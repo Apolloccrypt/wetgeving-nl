@@ -1,13 +1,39 @@
 ---
-title: "Regeling tarieven veiligheidsonderzoeken"
+title: "Regeling van de Minister van Binnenlandse Zaken van 17 juni 2015, 2015-0000341400, houdende de vaststelling van tarieven voor veiligheidsonderzoeken als bedoeld in artikel 9a van de Wet veiligheidsonderzoeken (Regeling tarieven veiligheidsonderzoeken)"
 identifier: "BWBR0036736"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036736"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036736"
+soort: "ministeriele-regeling"
+stam_id: "13187893"
+version_id: "22477442"
+internal_id: "C32257561"
+label_id: "13156174"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036736/2026-01-01/0"
+intitule_bron: "Stcrt.2015-17545"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-17"
+intitule_published: "2015-07-01"
+intitule_in_force: "2015-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17545"
+original_signed_date: "2015-06-17"
+original_published_date: "2015-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-17545"
+entry_into_force_date: "2015-09-01"
+jci_1_3: "jci1.3:c:BWBR0036736&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0036736&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tarieven veiligheidsonderzoeken"
+signed_date: "2015-06-17"
+entry_into_force: "2015-09-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken van 17 juni 2015, 2015-0000341400, houdende de vaststelling van tarieven voor veiligheidsonderzoeken als bedoeld in artikel 9a van de Wet veiligheidsonderzoeken (Regeling tarieven veiligheidsonderzoeken)
 
 Handelende in overeenstemming met de Minister van Defensie,
@@ -16,7 +42,7 @@ Gelet op [artikel 9a van de Wet veiligheidsonderzoeken](https://wetten.overheid.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **verklaring:** een verklaring van geen bezwaar als bedoeld in [artikel 1, eerste lid, onder b, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het verrichten van een veiligheidsonderzoek op A-niveau is de werkgever een tarief van € 3.113,– verschuldigd.
 
@@ -38,15 +64,15 @@ In deze regeling wordt verstaan onder:
 
 4. Voor het verrichten van een veiligheidsonderzoek burgerluchtvaart (BL) is de werkgever een tarief van € 189,– verschuldigd.
 
-#### Artikel 3
+##### Artikel 3
 
 Een betaalverplichting voor de werkgever ontstaat slechts na een aanmelding.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 september 2015.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling tarieven veiligheidsonderzoeken.
 

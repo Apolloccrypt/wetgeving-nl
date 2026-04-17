@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen Koninklijke Notariële Beroepsorganisatie beleidsterrein Notariaat over de periode na 1975"
 identifier: "BWBR0018647"
-categorie: "Overig"
-publicatiedatum: 2005-11-03
-laatste_update: 2005-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018647"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-11-03"
+last_updated: "2005-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018647"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7487333"
+version_id: "12424612"
+internal_id: "C25314211"
+label_id: "7475034"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018647/2005-11-03/0"
+intitule_bron: "Stcrt.2005-212"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-08-09"
+intitule_published: "2005-11-01"
+intitule_in_force: "2005-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-212"
+original_signed_date: "2005-08-09"
+original_published_date: "2005-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-212-p12-SC71947"
+entry_into_force_date: "2005-11-03"
+jci_1_3: "jci1.3:c:BWBR0018647&z=2005-11-03&g=2005-11-03"
+jci_1_0: "1.0:c:BWBR0018647&g=2005-11-03"
+citeertitel_status: "redactioneel"
+signed_date: "2005-08-09"
+entry_into_force: "2005-11-03"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen Koninklijke Notariële Beroepsorganisatie beleidsterrein Notariaat over de periode na 1975
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 9 mei 2005, nr
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Koninklijke Notariële Beroepsorganisatie en de onder hem ressorterende actoren, de Stichting Beroepsopleiding Notariaat, de Bewaarders en de Notarissen op het beleidsterrein Notariaat over de periode na 1975’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Elfde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het bij dat Verdrag ingestelde controlemechanisme"
 identifier: "BWBV0001271"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-11-01
-laatste_update: 1998-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001271"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-11-01"
+last_updated: "1998-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001271"
+soort: "verdrag"
+stam_id: "10002384833"
+version_id: "10002390772"
+internal_id: "C10006986651"
+label_id: "10002374484"
+dtd_version: "2.0"
+original_entry_into_force: "1998-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001271/1998-11-01/0"
+intitule_bron: "Trb.1994-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-01-21"
+intitule_published: "1994-07-01"
+intitule_in_force: "1998-04-17"
+intitule_status: "goed"
+original_publication: "Trb.1994-141"
+original_signed_date: "1997-01-21"
+original_published_date: "1994-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-141"
+entry_into_force_date: "1998-11-01"
+jci_1_3: "jci1.3:c:BWBV0001271&z=1998-11-01&g=1998-11-01"
+jci_1_0: "1.0:c:BWBV0001271&g=1998-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "1997-01-21"
+entry_into_force: "1998-11-01"
 ---
-
 # Elfde Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, betreffende herstructurering van het bij dat Verdrag ingestelde controlemechanisme
 
 De Lidstaten van de Raad van Europa die dit Protocol bij het op 4 november 1950 te Rome ondertekende [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) (hierna te noemen „het Verdrag”), hebben ondertekend,
@@ -24,11 +49,11 @@ Gelet op het besluit inzake hervorming van het controlemechanisme van het [Verdr
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
 
-#### Artikel 2
+##### Artikel 2
 
 1. Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden; Rome, 04-11-1950
 
@@ -46,7 +71,7 @@ Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentel
 
 8. Het Negende Protocol wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit Protocol staat open voor ondertekening door de Lidstaten van de Raad van Europa die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) hebben ondertekend, die blijk kunnen geven van het feit dat zij ermede instemmen te worden gebonden door middel van:
 
@@ -56,11 +81,11 @@ Wijzigt het Verdrag tot bescherming van de rechten van de mens en de fundamentel
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit Protocol treedt in werking op de eerste dag van de maand die volgt na het verstrijken van een tijdvak van een jaar na de datum waarop alle Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) hun instemming door dit Protocol te worden gebonden tot uitdrukking hebben gebracht overeenkomstig bepalingen van artikel 3. De verkiezing van nieuwe rechters kan plaatsvinden en alle noodzakelijke stappen voor de instelling van het nieuwe Hof kunnen worden ondernomen, in overeenstemming met de bepalingen van dit Protocol, vanaf de datum waarop alle Partijen bij het Verdrag hun instemming door dit Protocol te worden gebonden tot uitdrukking hebben gebracht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd de bepalingen van het derde en vierde lid hieronder, eindigt de ambtstermijn van de rechters, de leden van de Commissie, de griffier en de plaatsvervangend griffier op de datum van inwerkingtreding van dit Protocol.
 
@@ -74,11 +99,11 @@ Dit Protocol treedt in werking op de eerste dag van de maand die volgt na het ve
 
 6. Zaken die bij het Comité van Ministers aanhangig zijn en die op de datum van inwerkingtreding van dit Protocol nog niet zijn afgehandeld ingevolge het oude artikel 32 van het Verdrag, worden door het Comité van Ministers afgedaan in overeenstemming met dat artikel.
 
-#### Artikel 6
+##### Artikel 6
 
 Wanneer een Hoge Verdragsluitende Partij door middel van een verklaring ingevolge het oude artikel 25 of het oude artikel 46 van het Verdrag slechts de bevoegdheid van de Commissie of de rechtsmacht van het Hof heeft erkend ten aanzien van zaken die zijn ontstaan na of zijn gebaseerd op feiten die zich hebben voorgedaan na bedoelde verklaring, blijft deze beperking gelden voor de rechtsmacht van het Hof op grond van dit Protocol.
 
-#### Artikel 7
+##### Artikel 7
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa in kennis van:
 

@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties"
 identifier: "BWBV0002316"
-categorie: "Onderwijs"
-publicatiedatum: 1989-12-17
-laatste_update: 1989-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002316"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-12-17"
+last_updated: "1989-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002316"
+soort: "verdrag"
+stam_id: "10002778873"
+version_id: "10002778002"
+internal_id: "C10006984981"
+label_id: "10002766444"
+dtd_version: "2.0"
+original_entry_into_force: "1989-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002316/1989-12-17/0"
+intitule_bron: "Trb.1989-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-05-11"
+intitule_published: "1989-06-15"
+intitule_in_force: "1990-01-17"
+intitule_status: "goed"
+original_publication: "Trb.1989-75"
+original_signed_date: "1989-05-11"
+original_published_date: "1989-06-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-75"
+entry_into_force_date: "1989-12-17"
+jci_1_3: "jci1.3:c:BWBV0002316&z=1989-12-17&g=1989-12-17"
+jci_1_0: "1.0:c:BWBV0002316&g=1989-12-17"
+citeertitel_status: "officieel"
+signed_date: "1989-05-11"
+entry_into_force: "1989-12-17"
 ---
-
 # Memorandum van Overeenstemming tussen het Koninkrijk der Nederlanden en de Universiteit van de Verenigde Naties
 
 De Regering van het Koninkrijk der Nederlanden (hierna te noemen „de Regering”) en

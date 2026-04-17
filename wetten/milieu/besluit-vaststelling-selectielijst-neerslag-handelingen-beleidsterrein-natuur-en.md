@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuur- en landschapsbeheer vanaf 1998 (Staatsbosbeheer)"
 identifier: "BWBR0022120"
-categorie: "Milieu"
-publicatiedatum: 2007-06-28
-laatste_update: 2007-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022120"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-06-28"
+last_updated: "2007-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022120"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9125363"
+version_id: "14586042"
+internal_id: "C25325421"
+label_id: "9104224"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022120/2007-06-28/0"
+intitule_bron: "Stcrt.2007-120"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-05-30"
+intitule_published: "2007-06-26"
+intitule_in_force: "2007-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-120"
+original_signed_date: "2007-05-30"
+original_published_date: "2007-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-120-p14-SC80868"
+entry_into_force_date: "2007-06-28"
+jci_1_3: "jci1.3:c:BWBR0022120&z=2007-06-28&g=2007-06-28"
+jci_1_0: "1.0:c:BWBR0022120&g=2007-06-28"
+citeertitel_status: "redactioneel"
+signed_date: "2007-05-30"
+entry_into_force: "2007-06-28"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Natuur- en landschapsbeheer vanaf 1998 (Staatsbosbeheer)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 29 maart 2007,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van Staatsbosbeheer en de onder hem ressorterende actoren op het beleidsterrein Natuur- en landschapsbeheer over de periode vanaf 1998’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘Lijst van voor vernietiging in aanmerking komende archiefbescheiden van het onder het Ministerie van Landbouw en Visserij ressorterende Staatsbosbeheer en van de onder deze dienst ressorterende consulentschappen, houtvesterijen, commissies en ambtenaren, alsmede van het Rijksinstituut voor Natuurbeheer en het Rijksinstituut voor onderzoek in de bos- en landschapsbouw ‘De Dorschkamp’, vastgesteld bij beschikking van de Ministers van Cultuur, Recreatie en Maatschappelijk Werk en van Landbouw en Visserij d.d. 9 en 17 november 1976, nrs. Dir. MMA/Ar 186.335 en PAZ 240, gepubliceerd in Staatscourant 1976, nr. 107 en 1976, nr. 248,
 
@@ -44,7 +69,7 @@ de ‘Selectielijsten voor de neerslag van de handelingen van de Minister van La
 
 worden alle ingetrokken voor wat betreft de handelingen van Staatsbosbeheer vanaf 1998.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

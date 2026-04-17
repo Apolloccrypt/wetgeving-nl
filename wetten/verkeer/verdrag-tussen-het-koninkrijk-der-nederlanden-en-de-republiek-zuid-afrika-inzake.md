@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake scheepvaart"
 identifier: "BWBV0001213"
-categorie: "Verkeer"
-publicatiedatum: 1995-04-21
-laatste_update: 1995-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001213"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-04-21"
+last_updated: "1995-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001213"
+soort: "verdrag"
+stam_id: "10001832363"
+version_id: "10001920572"
+internal_id: "C10006988851"
+label_id: "10001832604"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001213/1995-04-21/0"
+intitule_bron: "Trb.1995-183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-07"
+intitule_published: "1995-07-26"
+intitule_status: "nogniet"
+original_publication: "Trb.1995-183"
+original_signed_date: "1996-03-07"
+original_published_date: "1995-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-183"
+jci_1_3: "jci1.3:c:BWBV0001213&z=1995-04-21&g=1995-04-21"
+jci_1_0: "1.0:c:BWBV0001213&g=1995-04-21"
+citeertitel_status: "redactioneel"
+signed_date: "1996-03-07"
+entry_into_force: "1995-07-26"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Zuid-Afrika inzake scheepvaart
 
 De Regering van het Koninkrijk der Nederlanden
@@ -18,7 +40,7 @@ de Regering van de Republiek Zuid-Afrika,
 
 hierna te noemen de Verdragsluitende Partijen, met het oog op de verdere ontwikkeling van de vriendschappelijke betrekkingen tussen het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika en de versterking van de samenwerking op het gebied van de scheepvaart, overeenkomstig de beginselen van soevereine gelijkheid en wederzijds voordeel, komen het volgende overeen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt, tenzij uit het zinsverband een andere betekenis blijkt, verstaan onder:
 
@@ -28,21 +50,21 @@ Voor de toepassing van dit Verdrag wordt, tenzij uit het zinsverband een andere 
 
 „schip van een Verdragsluitende Partij": elk zeeschip gebruikt voor commerciële doeleinden, met uitzondering van visserij- en fabrieksschepen, dat is geregistreerd in en de vlag voert van een Verdragsluitende Partij in overeenstemming met haar nationale wetten en voorschriften.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 De bepalingen van dit Verdrag zijn van toepassing op de internationale scheepvaart tussen de Verdragsluitende Partijen, naar of uit derde landen, en op het vervoer van goederen en passagiers binnen het grondgebied van elk van beide Verdragsluitende Partijen, hierna te noemen „cabotage", verricht door een schip van een Verdragsluitende Partij.
 
-#### Artikel 3. Algemeen
+##### Artikel 3. Algemeen
 
 De Verdragsluitende Partijen dragen in hun onderlinge betrekkingen in alle opzichten bij aan de vrijheid van de handelsscheepvaart en onthouden zich van elke handeling die de ontwikkeling van de internationale scheepvaart zou kunnen schaden.
 
-#### Artikel 4. Toegang tot de lading
+##### Artikel 4. Toegang tot de lading
 
 1. Elke Verdragsluitende Partij past dit Verdrag toe in overeenstemming met haar internationale verplichtingen; het Koninkrijk der Nederlanden past dit Verdrag met name toe in overeenstemming met de verplichtingen die het heeft ingevolge de Verdragen tot oprichting van de Europese Gemeenschappen.
 
 2. Onverminderd de verplichtingen van het Koninkrijk der Nederlanden als Partij bij het Verdrag van de Verenigde Naties inzake een gedragscode voor lijnvaartconferences, onthoudt elke Verdragsluitende Partij zich van discriminatoire maatregelen ten aanzien van de schepen van de andere Verdragsluitende Partij met betrekking tot de lijnvaart, de wilde vaart en de bulkvaart tussen de twee landen, en kent zij de schepen van de andere Verdragsluitende Partij een niet minder gunstige behandeling toe dan die welke aan schepen van derde landen wordt toegekend met betrekking tot de lijnvaart, de wilde vaart en de bulkvaart tussen de twee landen en tussen een van beide landen en derde landen.
 
-#### Artikel 5. Ontwikkeling van de scheepvaart en overdracht van technische kennis
+##### Artikel 5. Ontwikkeling van de scheepvaart en overdracht van technische kennis
 
 De Verdragsluitende Partijen komen overeen:
 
@@ -52,21 +74,21 @@ De Verdragsluitende Partijen komen overeen:
 
 - c. de vrije toegang op het land tot gecombineerd vervoer te waarborgen.
 
-#### Artikel 6. Nationale behandeling
+##### Artikel 6. Nationale behandeling
 
 1. Elke Verdragsluitende Partij kent aan schepen van de andere Verdragsluitende Partij in haar havens die openstaan voor buitenlandse handel en scheepvaart de nationale behandeling toe. Dit geldt ook voor door rederijen van de andere Verdragsluitende Partij geëxploiteerde schepen die de vlag van een derde land voeren, tenzij de bevoegde scheepvaartautoriteit van die Verdragsluitende Partij daartegen bezwaar maakt.
 
 2. De bepalingen van het eerste lid van dit artikel zijn van toepassing op douaneformaliteiten, de inning van heffingen en havengelden, vrijheid van toegang tot en gebruik van de havens, alsmede op alle aan de scheepvaart en commerciële handelingen verleende faciliteiten met betrekking tot schepen, bemanningsleden, passagiers en lading. Met name heeft dit betrekking op de toewijzing van ligplaatsen aan kaden, laad- en losvoorzieningen en havendiensten, met inbegrip van voorzieningen voor het bunkeren.
 
-#### Artikel 7. Vergemakkelijking
+##### Artikel 7. Vergemakkelijking
 
 De Verdragsluitende Partijen nemen, binnen de grenzen van hun onderscheiden nationale wetten en voorschriften, alle passende maatregelen om het verkeer over zee te vergemakkelijken en te bespoedigen, onnodig oponthoud van schepen te voorkomen, en de afwikkeling van douaneformaliteiten en andere vereiste formaliteiten in de havens zo veel mogelijk te bespoedigen en te vereenvoudigen.
 
-#### Artikel 8. Betaling van belastingen
+##### Artikel 8. Betaling van belastingen
 
 Winsten uit de exploitatie van schepen in internationaal verkeer verricht door een onderneming van een van de Verdragsluitende Partijen zijn slechts belastbaar in die Verdragsluitende Partij, in overeenstemming met de Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Zuid-Afrika tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en het Protocol daarbij (ondertekend te Kaapstad, op 15 maart 1971).
 
-#### Artikel 9. Overmaking van inkomsten
+##### Artikel 9. Overmaking van inkomsten
 
 Elke Verdragsluitende Partij verleent de rederij die haar plaats van daadwerkelijke leiding op het grondgebied van de andere Verdragsluitende Partij heeft het recht van vrije overmaking in inwisselbare munteenheid naar het door de rederij aangewezen land van haar investeringen en de opbrengst daarvan, alsmede van het batig saldo van uitgaven en ontvangsten van die rederij op het grondgebied van de eerstgenoemde Verdragsluitende Partij.
 
@@ -74,13 +96,13 @@ De procedure voor de vrije overmaking van investeringen dient echter in overeens
 
 Zulke overmakingen worden regelmatig en zonder vertraging toegestaan en worden gebaseerd op de officiële wisselkoersen voor lopende betalingen, of wanneer er geen officiële wisselkoersen zijn, op de geldende marktkoersen voor buitenlandse valuta voor lopende betalingen. Op zulke overmakingen zijn geen andere heffingen van toepassing dan de normale bankkosten.
 
-#### Artikel 10. Erkenning van scheepsdocumenten
+##### Artikel 10. Erkenning van scheepsdocumenten
 
 1. De Verdragsluitende Partijen erkennen wederzijds de nationaliteit van schepen op basis van het registratiebewijs dat door de bevoegde autoriteiten van een van beide Partijen is afgegeven overeenkomstig haar desbetreffende wetten en voorschriften.
 
 2. De Verdragsluitende Partijen erkennen wederzijds, in overeenstemming met de desbetreffende internationale Verdragen, de meetbrief en andere scheepsdocumenten die zijn afgegeven door de bevoegde autoriteiten van een van beide Partijen of die worden erkend door de ene Verdragsluitende Partij en waartegen de andere Partij geen bezwaar maakt, zonder de betrokken schepen opnieuw te meten. Alle havengelden en kosten worden op basis van deze documenten geïnd.
 
-#### Artikel 11. Documenten van zeevarenden
+##### Artikel 11. Documenten van zeevarenden
 
 De Verdragsluitende Partijen erkennen de identiteitsbewijzen voor zeevarenden, afgegeven door de bevoegde autoriteiten van de andere Verdragsluitende Partij. Deze identiteitsbewijzen zijn:
 
@@ -88,31 +110,31 @@ De Verdragsluitende Partijen erkennen de identiteitsbewijzen voor zeevarenden, a
 
 - b. voor bemanningsleden op Nederlandse schepen: het Nederlandse monsterboekje.
 
-#### Artikel 12. Verblijfsrecht van zeevarenden
+##### Artikel 12. Verblijfsrecht van zeevarenden
 
 1. Elk bemanningslid van een schip van de ene Verdragsluitende Partij mag zonder visa aan wal gaan voor tijdelijk walverlof gedurende het verblijf van zijn schip in een haven van de andere Verdragsluitende Partij, mits de kapitein van het schip de bemanningslijst overeenkomstig de in die haven geldende voorschriften heeft voorgelegd aan de bevoegde autoriteiten.
 
 2. Bij het aan wal gaan en bij de terugkeer naar het schip is de betrokkene onderworpen aan de in die haven geldende paspoortcontrole- en douaneformaliteiten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bemanningsleden hebben het recht, ongeacht de wijze van vervoer, het grondgebied van de andere Verdragsluitende Partij binnen te komen of door dat grondgebied te reizen ten einde zich weer bij hun schip te voegen, te worden overgebracht naar een ander schip, naar hun land terug te keren of ten behoeve van enig ander doel te reizen met toestemming van de bevoegde autoriteiten van die andere Verdragsluitende Partij.
 
 2. Indien een bemanningslid van boord gaat op het grondgebied van de andere Verdragsluitende Partij om gezondheidsredenen of andere door de bevoegde autoriteiten erkende redenen, geven deze autoriteiten de benodigde machtiging om het bemanningslid in staat te stellen op hun grondgebied te verblijven om geneeskundige behandeling te ondergaan of in een ziekenhuis te worden opgenomen, en met ieder vervoermiddel naar zijn land van herkomst terug te keren of naar een andere haven van inscheping te gaan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onverminderd de algemene toepasselijkheid van de artikelen 12 en 13 zijn de wetten en voorschriften van de Verdragsluitende Partijen betreffende de binnenkomst en het verblijf en de beëindiging van het verblijf van vreemdelingen van toepassing.
 
 2. De in de artikelen 12 en 13 vervatte machtigingen houden geen beperking in van het recht van een der Verdragsluitende Partijen om een bemanningslid de toegang tot haar grondgebied te weigeren.
 
-#### Artikel 15. Ongevallen op zee
+##### Artikel 15. Ongevallen op zee
 
 1. Mochten schepen van een der Verdragsluitende Partijen betrokken zijn bij ongevallen op zee of stuiten op andere gevaren in de territoriale zee, de binnenwateren of havens van de andere Verdragsluitende Partij, dan verleent de laatstgenoemde Partij alle mogelijke hulp en aandacht aan de in gevaar verkerende schepen, bemanningsleden, lading en passagiers en stelt zij de desbetreffende autoriteiten van de betrokken Verdragsluitende Partij onverwijld op de hoogte. Bij het innen van de daaraan verbonden kosten wordt de nationale behandeling toegekend.
 
 2. Wanneer lading aan boord van een schip van een van beide Verdragsluitende Partijen dat betrokken is bij een scheepsongeval moet worden gelost en tijdelijk moet worden opgeslagen op het grondgebied van de andere Verdragsluitende Partij voorafgaand aan de terugkeer naar het land van verzending of het vervoer naar derde landen, verleent de andere Verdragsluitende Partij alle vereiste faciliteiten en wordt die lading vrijgesteld van alle douanerechten, heffingen en belastingen.
 
-#### Artikel 16. Gerechtelijke procedures tegen een bemanningslid
+##### Artikel 16. Gerechtelijke procedures tegen een bemanningslid
 
 1. De schepen en bemanningsleden van beide Verdragsluitende Partijen houden zich aan de desbetreffende wetten en voorschriften van de andere Verdragsluitende Partij gedurende hun verblijf in de territoriale zee, de binnenwateren en havens van laatstgenoemde Partij.
 
@@ -132,7 +154,7 @@ De autoriteiten van beide Verdragsluitende Partijen oefenen geen rechtsmacht uit
 
 3. De bepalingen van het tweede lid laten onverlet het recht van een Verdragsluitende Partij om door haar wetten toegestane stappen te ondernemen ten behoeve van de aanhouding of het onderzoek aan boord van een buitenlands schip dat door de territoriale zee vaart na het verlaten van de binnenwateren.
 
-#### Artikel 17. Gemengde Commissie
+##### Artikel 17. Gemengde Commissie
 
 1. De bevoegde scheepvaartautoriteiten van de Verdragsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en de toepassing van dit Verdrag.
 
@@ -148,17 +170,17 @@ De autoriteiten van beide Verdragsluitende Partijen oefenen geen rechtsmacht uit
 
 - c. bespreekt aangelegenheden die zouden kunnen voortvloeien uit de toepassing van het Verdrag en alle andere aangelegenheden betreffende de verbetering van de betrekkingen in de scheepvaart en doet passende aanbevelingen.
 
-#### Artikel 18. Toepassing van het Verdrag
+##### Artikel 18. Toepassing van het Verdrag
 
 1. Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing op het Koninkrijk in Europa.
 
 2. Dit Verdrag kan worden uitgebreid tot de Nederlandse Antillen en Aruba.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit Verdrag treedt in de plaats van de Overeenkomst ter voorlopige regeling van de handels- en scheepvaartbetrekkingen tussen het Koninkrijk der Nederlanden en de Unie van Zuid-Afrika, Kaapstad, 20 februari 1935, en het desbetreffende proces-verbaal van 20 februari 1935, totstandgekomen door een notawisseling.
 
-#### Artikel 20. Inwerkingtreding en duur
+##### Artikel 20. Inwerkingtreding en duur
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkander schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste formaliteiten is voldaan.
 

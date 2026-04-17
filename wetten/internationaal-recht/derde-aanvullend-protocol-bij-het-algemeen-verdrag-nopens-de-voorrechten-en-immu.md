@@ -1,13 +1,35 @@
 ---
 title: "Derde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa"
 identifier: "BWBV0005277"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-08-08
-laatste_update: 1978-08-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005277"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-08-08"
+last_updated: "1978-08-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005277"
+soort: "verdrag"
+stam_id: "10004548083"
+version_id: "10004770302"
+internal_id: "C10007242981"
+label_id: "10004533014"
+dtd_version: "2.0"
+original_entry_into_force: "1978-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005277/1978-08-08/0"
+intitule_bron: "Trb.1978-75"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-06-20"
+intitule_in_force: "1978-09-07"
+intitule_status: "goed"
+original_publication: "Trb.1978-75"
+original_published_date: "1978-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-75"
+entry_into_force_date: "1978-08-08"
+jci_1_3: "jci1.3:c:BWBV0005277&z=1978-08-08&g=1978-08-08"
+jci_1_0: "1.0:c:BWBV0005277&g=1978-08-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-08-08"
 ---
-
 # Derde Aanvullend Protocol bij het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa
 
 De ondertekenende Regeringen, Leden van de Raad van Europa, die het [Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005781) hebben ondertekend of partij bij genoemd Verdrag zijn en tegelijkertijd Lid zijn van het Vestigingsfonds van de Raad van Europa voor nationale vluchtelingen en bevolkingsoverschotten;
@@ -26,7 +48,7 @@ Komen overeen als volgt:
 
 ## TITEL I. [STATUUT](https://wetten.overheid.nl/jci1.3:c:BWBV0005105), PERSOONLIJKHEID, BEVOEGDHEID
 
-#### Artikel 1
+##### Artikel 1
 
 Het [Statuut van het Vestigingsfonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005105) van de Raad van Europa, zoals goedgekeurd door het Comité van Ministers in Resolutie (56) 9, of zoals gewijzigd door dit Comité, of door het College van Bewindvoerders, handelend binnen de grenzen vastgelegd in [artikel IX letter (h) van genoemd Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005105&artikel=IX), is een integrerend deel van dit Protocol.
 
@@ -44,7 +66,7 @@ De werkzaamheden, handelingen en overeenkomsten van het Vestigingsfonds worden g
 
 ## TITEL II. RECHTBANKEN, EIGENDOMMEN, BEZITTINGEN, WERKZAAMHEDEN
 
-#### Artikel 2
+##### Artikel 2
 
 Iedere bevoegde rechtbank van een Lid van het Fonds of van een Staat op het grondgebied waarvan het Fonds leningen heeft aangegaan of gewaarborgd, mag rechtsgedingen behandelen waarin het Fonds gedaagde is.
 
@@ -54,19 +76,19 @@ Echter:
 
 - (ii). Geschillen voortvloeiend uit een lening- of waarborgovereenkomst door het Fonds gesloten met een Lid of met andere door dat Lid goedgekeurde leningnemers, worden geregeld volgens de procedure vastgelegd in die overeenkomst. Geschillen voortvloeiende uit een door het Fonds ondertekende lening- of waarborgovereenkomst, worden geregeld door middel van een scheidsrechterlijke procedure krachtens regelingen aangegeven in de leningsvoorwaarden opgesteld ingevolge [artikel X, eerste lid, letter (d), van het Statuut van het Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005105&artikel=X).
 
-#### Artikel 3
+##### Artikel 3
 
 De eigendommen en bezittingen van het Fonds, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van iedere vorm van beslag of executie zolang er tegen het Fonds geen vonnis is gewezen dat uitvoerbaar is en in kracht van gewijsde is gegaan.
 
 De gedwongen tenuitvoerlegging van vonnissen die tot stand zijn gekomen na een scheidsrechterlijke procedure overeenkomstig de derde alinea van artikel 2, vindt plaats op het grondgebied van Leden van het Fonds op de in elk van die Lid-Staten voorgeschreven wijze en nadat het vonnis is voorzien van het in de Staat waar het ten uitvoer gelegd moet worden gebruikelijke formulier van tenuitvoerlegging; voor dit laatste hoeft men slechts na te gaan of het vonnis naar de vorm geldig is, of het in overeenstemming is met de regels betreffende bevoegdheid en procedure neergelegd in de leningsvoorwaarden van het Fonds en of het niet in strijd is met het eindvonnis dat uitgesproken werd in het betrokken land. Iedere ondertekenaar stelt bij de nederlegging van zijn akte van bekrachtiging de andere ondertekenaars, door bemiddeling van de Secretaris-Generaal van de Raad van Europa, ervan in kennis welke autoriteit wettelijk bevoegd is deze formaliteit te vervullen.
 
-#### Artikel 4
+##### Artikel 4
 
 De eigendommen en bezittingen van het Fonds, waar deze ook gelegen zijn en wie deze ook onder zich heeft, zijn vrijgesteld van onderzoek, vordering, confiscatie, onteigening of iedere andere vorm van ingrijpen door de uitvoerende of wetgevende macht.
 
 De gebouwen en terreinen gebruikt voor de werkzaamheden van het Fonds, alsmede zijn archieven, zijn onschendbaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Fonds mag voor zover noodzakelijk voor het verwezenlijken van zijn statutaire doeleinden:
 
@@ -76,11 +98,11 @@ Het Fonds mag voor zover noodzakelijk voor het verwezenlijken van zijn statutair
 
 Bij de uitoefening van de rechten welke het zijn verleend krachtens dit artikel, schenkt het Fonds de nodige aandacht aan uiteenzettingen van de regering van een Lid.
 
-#### Artikel 6
+##### Artikel 6
 
 De eigendommen en bezittingen van het Fonds zijn vrij van beperkingen, voorschriften, controles of moratoria van welke aard ook.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Vestigingsfonds, zijn bezittingen, inkomsten en andere eigendommen zijn vrijgesteld van alle directe belastingen.
 
@@ -100,25 +122,25 @@ Er wordt geen enkele belasting geheven op door het Fonds uitgegeven of gewaarbor
 
 - (b). als de enige wettelijke basis van een zodanige belasting wordt gevormd door de plaats of valuta waarin de effecten of obligaties zijn uitgegeven of gewaarborgd, betaalbaar gesteld of betaald, of door de plaats van vestiging van het hoofdkantoor of een door het Fonds aangehouden kantoor of bedrijfsinrichting.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Fonds is vrijgesteld van alle douanerechten, verboden en beperkingen van in- en uitvoer met betrekking tot artikelen die het voor officieel gebruik nodig heeft, tenzij zodanige verboden of beperkingen zijn opgelegd om redenen van de openbare orde, de openbare veiligheid of de volksgezondheid. Artikelen die met een vrijstelling zijn ingevoerd, worden op geen enkele wijze vervreemd in het land waarin zij zijn ingevoerd, anders dan op voorwaarden waaraan de Regering van dat land haar goedkeuring heeft gehecht.
 
 ## TITEL III. ORGANEN
 
-#### Artikel 9
+##### Artikel 9
 
 De organen bedoeld in [artikel VIII van het Statuut van het Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005105&artikel=VIII) genieten op het grondgebied van elke Lid-Staat ten behoeve van hun officiële communicatiemiddelen een behandeling die ten minste even gunstig is als die welke door dit Lid wordt toegekend aan de diplomatieke missies van andere regeringen. Er wordt geen censuur toegepast op de officiële correspondentie en andere officiële mededelingen van de organen van het Fonds.
 
-#### Artikel 10
+##### Artikel 10
 
 Leden van het College van Bewindvoerders, de Raad van Bestuur en de Controlecommissie genieten immuniteit van rechtsvervolging met betrekking tot door hen gesproken of geschreven woorden en alle handelingen door hen verricht in hun officiële hoedanigheid en binnen de grenzen van hun bevoegdheid. Deze immuniteit blijft van kracht na het verstrijken van hun ambtsperiode. Daarnaast genieten zij dezelfde vrijstelling van immigratiebeperkingen en vreemdelingenregistratie en dezelfde faciliteiten inzake het wisselen van geld en het reizen als die welke door de Lid-Staten worden toegekend aan vertegenwoordigers van andere regeringen van het Fonds van vergelijkbare rang. Bedragen aan hen uitbetaald met betrekking tot noodzakelijke onkosten gemaakt bij het verrichten van hun taken zijn vrijgesteld van belasting.
 
-#### Artikel 11
+##### Artikel 11
 
 De voorrechten en immuniteiten worden aan de in artikel 10 genoemde personen niet toegekend voor hun eigen voordeel, doch ten einde de onafhankelijke uitoefening van hun functies te verzekeren. Derhalve heeft een Lid niet alleen het recht, maar tevens de plicht de immuniteit van zijn vertegenwoordiger op te heffen, telkens wanneer naar het oordeel van het Lid de immuniteit de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder dat inbreuk wordt gemaakt op het doel waarvoor de immuniteit wordt toegekend.
 
-#### Artikel 12
+##### Artikel 12
 
 (a). De bepalingen van de artikelen 10 en 11 mogen door een vertegenwoordiger niet worden aangevoerd tegen de autoriteiten van de Staat waarvan hij vertegenwoordiger is of is geweest.
 
@@ -126,7 +148,7 @@ De voorrechten en immuniteiten worden aan de in artikel 10 genoemde personen nie
 
 ## TITEL IV. FUNCTIONARISSEN
 
-#### Artikel 13
+##### Artikel 13
 
 Aan de President en functionarissen van het Fonds worden de in [artikel 18 van het Algemeen Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005781&artikel=18) aangegeven voorrechten en immuniteiten toegekend.
 
@@ -138,23 +160,23 @@ De Secretaris-Generaal heeft, na overleg met de President van het Fonds, het rec
 
 ## TITEL V. TOEPASSING VAN HET [VERDRAG](https://wetten.overheid.nl/jci1.3:c:BWBV0005781)
 
-#### Artikel 14
+##### Artikel 14
 
 De Regeringen van de Lid-Staten van het Fonds verbinden zich ertoe de constitutionele bevoegdheden te verkrijgen die eventueel noodzakelijk zijn om te kunnen voldoen aan de statutaire verplichtingen die deze Staten op zich genomen hebben jegens het Vestigingsfonds. Tevens verbinden zij zich ertoe zodanige bevoegdheden tijdig te verkrijgen om in staat te zijn de verbintenissen na te komen die zij zijn aangegaan als leningnemer of als borg, overeenkomstig [artikel VI, derde lid, van het Statuut van het Vestigingsfonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005105&artikel=VI).
 
-#### Artikel 15
+##### Artikel 15
 
 Het Fonds kan met elke Lid-Staat bijzondere overeenkomsten sluiten inzake de details van de toepassing van de bepalingen van dit Protocol, waarbij men genoemde bepalingen aanvult, of afwijkt van de bepalingen van bovenstaand artikel 13. Tevens kan het overeenkomsten sluiten met een Staat die geen lid is van het Fonds, waarbij de toepassing van de bepalingen van dit Protocol, voor zover het die Staat betreft, wordt gewijzigd.
 
 ## TITEL VI. SLOTBEPALINGEN
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Protocol dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa. Het treedt in werking zodra drie van de ondertekenaars, die ten minste een derde van de bezittingen van het Fonds vertegenwoordigen, hun akte van bekrachtiging hebben nedergelegd. Voor de andere Leden van het Fonds treedt het in werking op het tijdstip waarop hun onderscheiden akten van bekrachtiging worden nedergelegd.
 
 Ten einde een bevredigend functioneren van het Fonds niet te vertragen, komen de ondertekenaars echter overeen, hangende de inwerkingtreding van dit Protocol overeenkomstig de vorige alinea, het voorlopig toe te passen met ingang van 1 september 1958 of uiterlijk met ingang van de datum van ondertekening, voor zover zulks verenigbaar is met hun constitutionele bepalingen.
 
-#### Artikel 17
+##### Artikel 17
 
 Iedere Regering die Lid wordt van het Vestigingsfonds na de ondertekening van dit Protocol kan daartoe toetreden door een akte van toetreding neder te leggen bij de Secretaris-Generaal van de Raad van Europa. Een zodanige toetreding wordt van kracht op de datum van nederlegging indien deze plaatsvindt nadat het Protocol in werking is getreden, en op de datum van inwerkingtreding indien de toetreding voor dat tijdstip plaatsvindt.
 

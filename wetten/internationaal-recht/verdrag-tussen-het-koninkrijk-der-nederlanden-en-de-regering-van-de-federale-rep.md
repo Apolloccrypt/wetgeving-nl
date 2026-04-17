@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Federale Republiek Brazilië inzake samenwerking ter zake van defensiegerelateerde aangelegenheden"
 identifier: "BWBV0005623"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-02-01
-laatste_update: 2018-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005623"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-02-01"
+last_updated: "2018-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005623"
+soort: "verdrag"
+stam_id: "10004781113"
+version_id: "10005072352"
+internal_id: "C10009509361"
+label_id: "10004764844"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005623/2018-02-01/0"
+intitule_bron: "Trb.2012-8"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-01-06"
+intitule_in_force: "2019-01-24"
+intitule_status: "goed"
+original_publication: "Trb.2012-8"
+original_published_date: "2012-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-8"
+entry_into_force_date: "2018-02-01"
+jci_1_3: "jci1.3:c:BWBV0005623&z=2018-02-01&g=2018-02-01"
+jci_1_0: "1.0:c:BWBV0005623&g=2018-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Regering van de Federale Republiek Brazilië inzake samenwerking ter zake van defensiegerelateerde aangelegenheden
 
 De Regering van het Koninkrijk der Nederlanden
@@ -24,7 +46,7 @@ Geleid door de wens de verschillende vormen van samenwerking tussen de partijen 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 De samenwerking tussen de partijen, die wordt beheerst door de beginselen van gelijkheid, wederkerigheid en wederzijds belang in overeenstemming met de nationale wetgeving en internationale verplichtingen van elke partij, dient de volgende doelen:
 
@@ -38,7 +60,7 @@ De samenwerking tussen de partijen, die wordt beheerst door de beginselen van ge
 
 - e. samenwerken ten behoeve van andere defensiegerelateerde aangelegenheden die voor beide partijen van wederzijds belang kunnen zijn.
 
-#### Artikel 2. Samenwerking
+##### Artikel 2. Samenwerking
 
 Samenwerking tussen de partijen ten behoeve van defensiegerelateerde aangelegenheden kan door middel van de volgende activiteiten worden geïmplementeerd:
 
@@ -56,17 +78,17 @@ Samenwerking tussen de partijen ten behoeve van defensiegerelateerde aangelegenh
 
 - g. andere door de partijen gezamenlijk overeen te komen onderwerpen.
 
-#### Artikel 3. Waarborgen
+##### Artikel 3. Waarborgen
 
 Bij de uitvoering van de samenwerkingsactiviteiten uit hoofde van dit Verdrag verplichten de partijen zich de desbetreffende beginselen en doelstellingen van het Handvest van de Verenigde Naties te eerbiedigen, waaronder de soevereine gelijkheid van staten, territoriale integriteit en onschendbaarheid en niet-inmenging in de interne aangelegenheden van andere staten.
 
-#### Artikel 4. Financiële regelingen
+##### Artikel 4. Financiële regelingen
 
 1. Tenzij onderling schriftelijk anders is overeengekomen, is elke partij verantwoordelijk voor de kosten die haar personeel maakt in verband met de uitvoering van officiële taken uit hoofde van dit Verdrag.
 
 2. Alle uit hoofde van dit Verdrag uitgevoerde activiteiten zijn afhankelijk van de beschikbaarheid van financiële middelen van de partijen.
 
-#### Artikel 5. Beveiliging van gerubriceerde informatie
+##### Artikel 5. Beveiliging van gerubriceerde informatie
 
 1. Nadere regelingen voor de beveiliging van gerubriceerde informatie worden vastgelegd in een tussen de partijen te sluiten afzonderlijke overeenkomst inzake de beveiliging van gerubriceerde informatie.
 
@@ -88,7 +110,7 @@ Bij de uitvoering van de samenwerkingsactiviteiten uit hoofde van dit Verdrag ve
 
 - h. onverminderd de beëindiging van dit Verdrag blijven de bepalingen ter zake van de verantwoordelijkheid van de partijen voor het gebruik van gerubriceerde informatie en het voorkomen van onthulling van toepassing.
 
-#### Artikel 6. Vorderingen
+##### Artikel 6. Vorderingen
 
 1. Een partij stelt geen vorderingen tegen de andere partij in naar aanleiding van verlies of beschadiging van eigendommen van de overheid die door hun strijdkrachten worden gebruikt of wegens letsel (met inbegrip van letsel met de dood tot gevolg) van hun personeel ontstaan bij de uitvoering van de officiële taken van dit Verdrag.
 
@@ -102,29 +124,29 @@ Bij de uitvoering van de samenwerkingsactiviteiten uit hoofde van dit Verdrag ve
 
 6. Voorafgaand aan de afwikkeling van vorderingen van derden treedt de ontvangende partij in overleg met de zendende partij.
 
-#### Artikel 7. Geschillenbeslechting
+##### Artikel 7. Geschillenbeslechting
 
 1. Elk geschil omtrent de uitlegging of toepassing van dit Verdrag wordt langs diplomatieke weg beslecht door middel van direct overleg en onderhandelingen tussen de partijen.
 
 2. Tijdens het proces van geschillenbeslechting blijven beide partijen hun verplichtingen in overeenstemming met dit Verdrag nakomen.
 
-#### Artikel 8. Aanvullend protocol en uitvoeringsregelingen
+##### Artikel 8. Aanvullend protocol en uitvoeringsregelingen
 
 1. Teneinde de doelstellingen van dit Verdrag te verwezenlijken kunnen tussen de partijen aanvullende protocols worden gesloten ter zake van onderwerpen binnen dit kaderverdrag.
 
 2. Teneinde de doelstellingen van dit Verdrag of de aanvullende protocollen daarbij te verwezenlijken kunnen tussen de bevoegde autoriteiten van de ministeries van Defensie van de partijen uitvoeringsregelingen worden gesloten. Deze uitvoeringsregelingen dienen te worden beperkt tot de onderwerpen van dit Verdrag en verenigbaar te zijn met de onderscheiden wetgeving van de partijen.
 
-#### Artikel 9. Status van personeel
+##### Artikel 9. Status van personeel
 
 De partijen sluiten een overeenkomst over de status van hun personeel dat wordt uitgewisseld ten behoeve van samenwerking ter zake van defensiegerelateerde aangelegenheden.
 
-#### Artikel 10. Wijzigingen
+##### Artikel 10. Wijzigingen
 
 1. Dit Verdrag kan na instemming van de partijen langs diplomatieke weg schriftelijk worden gewijzigd.
 
 2. Wijzigingen worden van kracht zoals omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005623&artikel=11&z=2018-02-01&g=2018-02-01) van dit Verdrag.
 
-#### Artikel 11. Inwerkingtreding en beëindiging
+##### Artikel 11. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van ontvangst van de laatste schriftelijke kennisgeving waarbij de ene partij de andere er langs diplomatieke weg van in kennis stelt dat de voor de inwerkingtreding van dit Verdrag vereiste interne procedures zijn voltooid.
 

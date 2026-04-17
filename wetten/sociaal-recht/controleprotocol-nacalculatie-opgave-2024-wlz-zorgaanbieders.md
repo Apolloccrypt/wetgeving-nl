@@ -1,13 +1,38 @@
 ---
 title: "Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders"
 identifier: "BWBR0049477"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-03-19
-laatste_update: 2024-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049477"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-19"
+last_updated: "2024-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049477"
+soort: "zbo"
+stam_id: "17053673"
+version_id: "30006182"
+internal_id: "C43014871"
+label_id: "16963464"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049477/2024-03-19/0"
+intitule_bron: "Stcrt.2024-8201"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-01"
+intitule_published: "2024-03-19"
+intitule_in_force: "2024-03-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8201"
+original_signed_date: "2024-03-01"
+original_published_date: "2024-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8201"
+entry_into_force_date: "2024-03-19"
+jci_1_3: "jci1.3:c:BWBR0049477&z=2024-03-19&g=2024-03-19"
+jci_1_0: "1.0:c:BWBR0049477&g=2024-03-19"
+citeertitel_status: "redactioneel"
+signed_date: "2024-03-01"
+entry_into_force: "2024-03-19"
 ---
-
 # Controleprotocol nacalculatie-opgave 2024 Wlz-zorgaanbieders
 
 Versie 1, maart 2024

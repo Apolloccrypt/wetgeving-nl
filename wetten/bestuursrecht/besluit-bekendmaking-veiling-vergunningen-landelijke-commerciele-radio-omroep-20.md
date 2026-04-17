@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 24 februari 2023, nr. DGED/DE/22544466, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van de landelijke commerciële FM-vergunningen en de landelijke DAB-vergunningen in frequentieblok 11C (Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023)"
 identifier: "BWBR0047936"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-03-01
-laatste_update: 2023-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047936"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-01"
+last_updated: "2023-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047936"
+soort: "ministeriele-regeling"
+stam_id: "16687493"
+version_id: "29272602"
+internal_id: "C41693451"
+label_id: "16605214"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047936/2023-03-01/0"
+intitule_bron: "Stcrt.2023-6051"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-24"
+intitule_published: "2023-02-28"
+intitule_in_force: "2023-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-6051"
+original_signed_date: "2023-02-24"
+original_published_date: "2023-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-6051"
+entry_into_force_date: "2023-03-01"
+jci_1_3: "jci1.3:c:BWBR0047936&z=2023-03-01&g=2023-03-01"
+jci_1_0: "1.0:c:BWBR0047936&g=2023-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023"
+signed_date: "2023-02-24"
+entry_into_force: "2023-03-01"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 24 februari 2023, nr. DGED/DE/22544466, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van de landelijke commerciële FM-vergunningen en de landelijke DAB-vergunningen in frequentieblok 11C (Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023)
 
 Gelet op [artikel 3.10, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor landelijke commerciële radio-omroep in de FM-band en de DAB-vergunningen in frequentieblok 11C, genoemd in tabel 1, worden, met de daaraan te verbinden voorschriften en beperkingen, verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -30,19 +56,19 @@ De vergunningen voor landelijke commerciële radio-omroep in de FM-band en de DA
 | LCO8 | A08 50,38% | ongeclausuleerd | 8, 10, 18 | 20, 21 |
 | LCO9 | A09 60,90% | Nederlandstalige muziek | 9, 10, 19 | 20, 21 |
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag- en veilingprocedure vangt aan op 7 maart 2023.
 
-#### Artikel 3
+##### Artikel 3
 
 De voorschriften en beperkingen inclusief de (technische) bijlagen behorende bij de vergunningen voor landelijke commerciële radio-omroep in de FM-band en de DAB-vergunningen in frequentieblok 11C, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047936&artikel=1&z=2023-03-01&g=2023-03-01), worden voor zover dat reeds mogelijk is, vastgesteld in [bijlagen 1 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0047936&bijlage=1&z=2023-03-01&g=2023-03-01).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling vergunningen landelijke commerciële radio-omroep 2023.
 

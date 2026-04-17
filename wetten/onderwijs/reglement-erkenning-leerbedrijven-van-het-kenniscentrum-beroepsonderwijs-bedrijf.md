@@ -1,16 +1,38 @@
 ---
 title: "Reglement erkenning leerbedrijven van het Kenniscentrum Beroepsonderwijs Bedrijfsleven van SVO"
 identifier: "BWBR0033511"
-categorie: "Onderwijs"
-publicatiedatum: 2012-10-01
-laatste_update: 2012-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033511"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-10-01"
+last_updated: "2012-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033511"
+soort: "zbo"
+stam_id: "12280253"
+version_id: "20564992"
+internal_id: "C28916801"
+label_id: "12251604"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033511/2012-10-01/0"
+intitule_bron: "Stcrt.2013-15719"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-06-12"
+intitule_in_force: "2013-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15719"
+original_published_date: "2013-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15719"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBR0033511&z=2012-10-01&g=2012-10-01"
+jci_1_0: "1.0:c:BWBR0033511&g=2012-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-10-01"
 ---
-
 # Reglement erkenning leerbedrijven van het Kenniscentrum Beroepsonderwijs Bedrijfsleven van SVO
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -32,11 +54,11 @@ In dit reglement wordt verstaan onder:
 
 - 9. **Praktijkopleider:** een natuurlijk persoon binnen het leerbedrijf die verantwoordelijk is voor het praktijkleren en het begeleiden van deelnemers in de beroepspraktijk van het leerbedrijf.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door het kenniscentrum als zodanig zijn erkend, zijn bevoegd om op te treden als leerbedrijf.
 
-#### Artikel 3. Verzoek tot erkenning
+##### Artikel 3. Verzoek tot erkenning
 
 1. Met inachtneming van de bepalingen in dit reglement wordt een erkenning afgegeven op verzoek van het bedrijf of de organisatie die de beroepspraktijkvorming wil verzorgen, of op verzoek van de uitzend- of detacheringorganisatie worden, met voorafgaande instemming, bedrijven of organisaties waar de beroepspraktijkvorming wordt verzorgd voorgedragen voor erkenning.
 
@@ -44,7 +66,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 
 3. Een aanvraag wordt uitsluitend in behandeling genomen indien dit een eerste aanvraag betreft of indien na een eerdere aanvraag en de nieuwe aanvraag tenminste zes maanden verstreken zijn.
 
-#### Artikel 4. Beoordeling van het verzoek
+##### Artikel 4. Beoordeling van het verzoek
 
 1. Het kenniscentrum verleent de erkenning indien naar haar oordeel aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=5&z=2012-10-01&g=2012-10-01) genoemde voorwaarden is voldaan.
 
@@ -52,7 +74,7 @@ Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit regle
 
 3. Aan de beoordeling van de aanvraag is het bedrijf of de organisatie verplicht zijn medewerking te verlenen.
 
-#### Artikel 5. Voorwaarden voor erkenning
+##### Artikel 5. Voorwaarden voor erkenning
 
 Het bedrijf of de organisatie wordt geacht:
 
@@ -74,7 +96,7 @@ Voor de erkenning van leerbedrijven waarbij de uitzendorganisatie als werkgever 
 
 - 3. bereid te zijn tot overleg met de onderwijsinstelling en het Kenniscentrum.
 
-#### Artikel 6. Verlenen van de erkenning
+##### Artikel 6. Verlenen van de erkenning
 
 1. Uiterlijk tien werkdagen na dagtekening van het verzoek als bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=3&z=2012-10-01&g=2012-10-01) beslist het kenniscentrum over de verlening van de erkenning en maakt dit aan het bedrijf of de organisatie bekend. Overschrijding van deze termijn is in uitzonderlijke gevallen toegestaan en dient in de beslissing te worden gemotiveerd.
 
@@ -86,13 +108,13 @@ Voor de erkenning van leerbedrijven waarbij de uitzendorganisatie als werkgever 
 
 5. De erkenning is geldig voor een periode van 4 jaar.
 
-#### Artikel 7. Verlengen van de erkenning
+##### Artikel 7. Verlengen van de erkenning
 
 1. Na het verstrijken van de in [artikel 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=6&z=2012-10-01&g=2012-10-01) genoemde periode, wordt de erkenning voor dezelfde duur door het kenniscentrum verleend. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=4&z=2012-10-01&g=2012-10-01) is van overeenkomstige toepassing.
 
 2. Van de beslissing over het verlengen wordt het leerbedrijf in kennis gesteld. Indien de verlenging geweigerd wordt, wordt het leerbedrijf schriftelijk onder opgave van redenen van deze beslissing op de hoogte gebracht.
 
-#### Artikel 8. Intrekken van de erkenning
+##### Artikel 8. Intrekken van de erkenning
 
 1. Het Kenniscentrum zal besluiten tot intrekking van de erkenning, indien naar haar oordeel:
 
@@ -106,24 +128,24 @@ Voor de erkenning van leerbedrijven waarbij de uitzendorganisatie als werkgever 
 
 3. Bij faillissement of overname vervalt de erkenning.
 
-#### Artikel 9. Dienstverlening
+##### Artikel 9. Dienstverlening
 
 Het leerbedrijf heeft recht op ondersteuning van het kenniscentrum bij het vervullen van de rol als leerbedrijf. Ondersteuning is gericht op het verhogen van de kwaliteit van de leeromgeving en van het
 
 praktijkleren. De erkenningsaanvraag wordt altijd door een bedrijfsbezoek van de Adviseur praktijkopleiding van SVO beoordeeld.
 
-#### Artikel 10. Bezwaar
+##### Artikel 10. Bezwaar
 
 Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de [artikelen 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=6&z=2012-10-01&g=2012-10-01), [7 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=7&z=2012-10-01&g=2012-10-01) en [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033511&artikel=8&z=2012-10-01&g=2012-10-01) binnen 6 weken na dagtekening van de beslissing bezwaar maken bij het kenniscentrum. Op de bezwaarprocedure is de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) van toepassing ([hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6)).
 
-#### Artikel 11. Onvoorziene omstandigheden
+##### Artikel 11. Onvoorziene omstandigheden
 
 In alle gevallen waarin dit reglement niet voorziet beslist het SVO kenniscentrum.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit reglement treedt in werking met ingang van 1 oktober 2012 en vervangt de oude regeling van 1 december 2010
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 Wijzigingen in het reglement worden vastgesteld door het Bestuur van SVO Kenniscentrum.

@@ -1,18 +1,40 @@
 ---
 title: "Controleprotocol nacalculatie-opgave 2025 Wlz-zorgaanbieders"
 identifier: "BWBR0051083"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-06-03
-laatste_update: 2025-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051083"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-06-03"
+last_updated: "2025-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051083"
+soort: "zbo"
+stam_id: "17440943"
+version_id: "30753172"
+internal_id: "C44081311"
+label_id: "17343724"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051083/2025-06-03/0"
+intitule_bron: "Stcrt.2025-18431"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-03"
+intitule_in_force: "2025-06-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-18431"
+original_published_date: "2025-06-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-18431"
+entry_into_force_date: "2025-06-03"
+jci_1_3: "jci1.3:c:BWBR0051083&z=2025-06-03&g=2025-06-03"
+jci_1_0: "1.0:c:BWBR0051083&g=2025-06-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-06-03"
 ---
-
 # Controleprotocol nacalculatie-opgave 2025 Wlz-zorgaanbieders
 
 Versie 1, mei 2025
 
-#### Artikel 1. Inleiding
+##### Artikel 1. Inleiding
 
 Zorgaanbieders die Wlz-zorg in natura leveren, moeten aan de NZa gegevens en inlichtingen verstrekken, waaronder een nacalculatie-opgave, zoals bedoeld in de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025. De zorgaanbieder draagt er zorg voor dat een accountant een uitspraak doet over de betrouwbaarheid en nauwkeurigheid van de aan de NZa verstrekte gegevens en inlichtingen.
 
@@ -116,7 +138,7 @@ Indien de bevindingen uit de controle daartoe aanleiding geven, wordt de tekst v
 
 Als de zorgaanbieder op basis van artikel 9 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2025 aan de NZa een controleverklaring moet verstrekken, moet de gehele nacalculatie-opgave 2025 worden gewaarmerkt door de accountant. Met waarmerking geeft de accountant aan dat de betreffende pagina onderdeel is van de nacalculatie-opgave van de zorgaanbieder waar de controleverklaring onderdeel van is. Waarmerking door de accountant vindt plaats door een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie, of een gekwalificeerde elektronische handtekening volgens EU [Verordening 910/2014](32014R0910).
 
-#### Artikel 2. Onderzoeksaanpak
+##### Artikel 2. Onderzoeksaanpak
 
 Het object van onderzoek voor de accountant bestaat uit formulier Ondertekening Langdurige zorg nacalculatie 2025 (hierna: ondertekeningsdocument) en (indien van toepassing) het consolidatieoverzicht 2025.
 

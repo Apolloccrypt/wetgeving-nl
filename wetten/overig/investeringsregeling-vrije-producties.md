@@ -1,13 +1,38 @@
 ---
 title: "Investeringsregeling vrije producties"
 identifier: "BWBR0047852"
-categorie: "Overig"
-publicatiedatum: 2024-04-16
-laatste_update: 2024-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047852"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-04-16"
+last_updated: "2024-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047852"
+soort: "zbo"
+stam_id: "16666933"
+version_id: "29233812"
+internal_id: "C41531911"
+label_id: "16584914"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047852/2024-04-16/0"
+intitule_bron: "Stcrt.2023-4450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-16"
+intitule_published: "2023-02-06"
+intitule_in_force: "2023-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4450"
+original_signed_date: "2023-01-16"
+original_published_date: "2023-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-4450"
+entry_into_force_date: "2023-02-06"
+jci_1_3: "jci1.3:c:BWBR0047852&z=2024-04-16&g=2024-04-16"
+jci_1_0: "1.0:c:BWBR0047852&g=2024-04-16"
+citeertitel_status: "officieel"
+signed_date: "2023-01-16"
+entry_into_force: "2023-02-06"
 ---
-
 # Investeringsregeling vrije producties
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,13 +51,13 @@ In deze regeling wordt verstaan onder:
 
 - **vrije productie:** productie op het gebied van de professionele podiumkunst die gefinancierd wordt uit de opbrengsten van de commerciële exploitatie van deze productie en alle daarmee samenhangende uitingen.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkunstenaanbod voor een groot publiek zodat zij in staat zijn extra te investeren in nieuwe Nederlandse producties. Hiermee beoogt het bestuur artistieke risico’s te stimuleren alsmede de werkgelegenheid in de culturele en creatieve sector te vergroten.
 
 #### Paragraaf 2. De aanvraag
 
-#### Artikel 2.1. Aanvrager
+##### Artikel 2.1. Aanvrager
 
 1. Een aanvraag kan worden ingediend door een organisatie met privaatrechtelijke rechtspersoonlijkheid die:
 
@@ -50,7 +75,7 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 
 3. Het bestuur weigert de aanvraag als de aanvrager meerjarig wordt gesubsidieerd door het Fonds Podiumkunsten of de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 2.2. De productie
+##### Artikel 2.2. De productie
 
 1. Een aanvraag heeft betrekking op één specifieke vrije productie.
 
@@ -82,13 +107,13 @@ Het bestuur verstrekt subsidies onder voorwaarden aan producenten van podiumkuns
 
 7. De subsidie kan worden geweigerd indien de première van de productie, waarvoor subsidie wordt aangevraagd, plaatsvindt binnen zes maanden dan wel later dan twee jaar na de indiendatum.
 
-#### Artikel 2.3. Inhoud aanvraag
+##### Artikel 2.3. Inhoud aanvraag
 
 1. In het plan wordt een beschrijving van de inhoud van de productie gegeven, waarbij tevens wordt beschreven hoe de aanvrager te werk wil gaan en met welke makers en partijen er wordt samengewerkt.
 
 2. Bij de aanvraag wordt een planning en een daarop aansluitende begroting en dekkingsplan gevoegd, waaruit blijkt dat aan alle voorwaarden is voldaan om een gedegen artistieke en productionele ontwikkeling mogelijk te maken van de activiteit waarvoor een subsidie onder voorwaarden wordt gevraagd. Ook wordt opgenomen hoe de kosten en inkomsten eruit zien als de voorstelling meer speelbeurten krijgt, bijvoorbeeld in een succesreprise, dan initieel voorzien.
 
-#### Artikel 2.4. Vereisten algemeen
+##### Artikel 2.4. Vereisten algemeen
 
 Een subsidie onder voorwaarden op grond van deze regeling kan slechts worden verstrekt, indien naar het oordeel van het bestuur:
 
@@ -100,7 +125,7 @@ Een subsidie onder voorwaarden op grond van deze regeling kan slechts worden ver
 
 #### Paragraaf 3. Beoordeling en besluit
 
-#### Artikel 3.1. Beoordeling
+##### Artikel 3.1. Beoordeling
 
 Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voor een subsidie onder voorwaarden als:
 
@@ -114,7 +139,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 - e. de geprognosticeerde inkomsten realistisch en haalbaar zijn.
 
-#### Artikel 3.2. Hoogte en aard van de bijdrage
+##### Artikel 3.2. Hoogte en aard van de bijdrage
 
 1. De subsidie die kan worden verstrekt, kent een maximale hoogte van 20% van de begrote inkomsten, met een maximaal bedrag van 500.000 euro.
 
@@ -122,7 +147,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 3. De voorwaardelijke subsidie kan alleen worden toegezegd als de aanvrager aannemelijk kan maken dat de overige dekking realistisch is.
 
-#### Artikel 3.3. Overeenkomst
+##### Artikel 3.3. Overeenkomst
 
 1. Het bestuur verbindt, in het geval een subsidie onder voorwaarden wordt verstrekt, aan het besluit de opschortende voorwaarde dat een overeenkomst tussen het Fonds Podiumkunsten en de aanvrager tot stand komt.
 
@@ -138,7 +163,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 - e). de consequenties van het niet nakomen van verplichtingen.
 
-#### Artikel 3.4. Bijdrage bij succes
+##### Artikel 3.4. Bijdrage bij succes
 
 1. In de situatie dat meer inkomsten worden gerealiseerd dan begroot, doet de aanvrager een bijdrage aan het budget van 20% van de extra inkomsten die zijn gerealiseerd ten opzichte van de begrote inkomsten.
 
@@ -148,7 +173,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 #### Paragraaf 4. De procedure
 
-#### Artikel 4.1. Indienen van de aanvraag
+##### Artikel 4.1. Indienen van de aanvraag
 
 1. De aanvraag wordt digitaal ingediend.
 
@@ -156,7 +181,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 3. Het bestuur kan als onderdeel van de beoordelingsprocedure nadere informatie opvragen die noodzakelijk is voor het beoordelen van de aanvraag.
 
-#### Artikel 4.2. Beoordeling
+##### Artikel 4.2. Beoordeling
 
 1. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
 
@@ -164,7 +189,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 3. Het bestuur informeert de aanvrager zo spoedig mogelijk, maar uiterlijk binnen 13 weken na de datum uit het vorige lid schriftelijk over zijn besluit.
 
-#### Artikel 4.3. Budget
+##### Artikel 4.3. Budget
 
 1. Het bestuur kan een of meer budgetten vaststellen.
 
@@ -176,7 +201,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 5. Indien het beschikbare budget voor een ronde wordt overschreden, worden alle te verlenen voorwaardelijke bedragen naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut.
 
-#### Artikel 4.4. Aan de subsidie verbonden verplichtingen
+##### Artikel 4.4. Aan de subsidie verbonden verplichtingen
 
 1. De ontvanger van de voorwaardelijke subsidie meldt onverwijld aan het bestuur als:
 
@@ -188,7 +213,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 2. Het bestuur kan bij beschikking andere dan de in het eerste lid opgenomen verplichtingen aan de subsidie verbinden.
 
-#### Artikel 4.5. Verantwoording
+##### Artikel 4.5. Verantwoording
 
 1. Na het verstrijken van de in de beschikking opgenomen einddatum stuurt de aanvrager bewijsstukken waarmee kan worden aangetoond dat de activiteiten volgens plan hebben plaatsgevonden en dat is voldaan aan de in de beschikking en de overeenkomst verbonden verplichtingen.
 
@@ -200,15 +225,15 @@ Belangrijke verschillen tussen financieel verslag en begroting worden toegelicht
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 5.1. Overig
+##### Artikel 5.1. Overig
 
 In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 februari 2023.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Investeringsregeling vrije producties.
 

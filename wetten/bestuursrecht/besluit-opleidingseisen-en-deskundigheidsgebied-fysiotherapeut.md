@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut"
+title: "Besluit van 13 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de fysiotherapeut (Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut)"
 identifier: "BWBR0008962"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008962"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008962"
+soort: "AMvB"
+stam_id: "635413"
+version_id: "921882"
+internal_id: "C921881"
+label_id: "616244"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008962/2023-01-01/0"
+intitule_bron: "Stb.1997-516"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-13"
+intitule_published: "1997-11-18"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-516"
+original_signed_date: "1997-10-13"
+original_published_date: "1997-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-516"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0008962&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0008962&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut"
+signed_date: "1997-10-13"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 13 oktober 1997, houdende regels inzake de opleiding tot en de deskundigheid van de fysiotherapeut (Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut)
 
 Op de voordracht Van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 mei 1997, CSZ/BO-976967;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,11 +60,11 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Opleiding
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) bedoelde register van fysiotherapeuten te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor fysiotherapie die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=4&z=2023-01-01&g=2023-01-01) van dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een opleiding tot fysiotherapeut als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01) omvat zowel theoretisch als praktisch onderwijs dat gericht is op het verwerven van kennis van en inzicht en vaardigheid in de volgende aspecten van de beroepsuitoefening van de fysiotherapeut die betrekking hebben op het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01):
 
@@ -56,7 +82,7 @@ Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006
 
 2. Het praktische onderwijs omvat ten minste stages in het werkveld inzake het toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008962&paragraaf=3&artikel=5&z=2023-01-01&g=2023-01-01), onder toezicht van een fysiotherapeut.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het aspect diagnostiek en behandeling is zo ingericht dat betrokkene in staat is om in het kader van dat aspect, volgens de vigerende beroeps- en gezondheidszorgstandaarden, op methodische wijze de volgende interventies voor te bereiden, uit te voeren, te evalueren, bij te stellen en af te ronden:
 
@@ -142,7 +168,7 @@ Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006
 
 #### § 3. Deskundigheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. De tot het gebied van deskundigheid van de fysiotherapeut te rekenen handelingen, bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=29), bestaan uit het:
 
@@ -162,17 +188,17 @@ Om in het in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006
 
 - c. fysische therapie in engere zin, waaronder wordt verstaan het aan de patiënt toedienen van fysische prikkels, niet zijnde ioniserende stralen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### § 4. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied fysiotherapeut.
 

@@ -1,13 +1,38 @@
 ---
 title: "Leidraad FATCA/CRS met technische toelichting bij de NL IGA en de CRS-regelgeving"
 identifier: "BWBR0043777"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-08-31
-laatste_update: 2021-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043777"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-08-31"
+last_updated: "2021-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043777"
+soort: "beleidsregel"
+stam_id: "15537823"
+version_id: "26843802"
+internal_id: "C38028281"
+label_id: "15481594"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043777/2021-08-31/0"
+intitule_bron: "Stcrt.2020-34988"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-23"
+intitule_published: "2020-07-02"
+intitule_in_force: "2020-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-34988"
+original_signed_date: "2020-06-23"
+original_published_date: "2020-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-34988"
+entry_into_force_date: "2020-07-03"
+jci_1_3: "jci1.3:c:BWBR0043777&z=2021-08-31&g=2021-08-31"
+jci_1_0: "1.0:c:BWBR0043777&g=2021-08-31"
+citeertitel_status: "officieel"
+signed_date: "2020-06-23"
+entry_into_force: "2020-07-03"
 ---
-
 # Leidraad FATCA/CRS met technische toelichting bij de NL IGA en de CRS-regelgeving
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

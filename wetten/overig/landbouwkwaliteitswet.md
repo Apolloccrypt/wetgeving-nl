@@ -1,14 +1,39 @@
 ---
-title: "Landbouwkwaliteitswet"
+title: "Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij"
 identifier: "BWBR0002755"
-categorie: "Overig"
-publicatiedatum: 2021-03-01
-laatste_update: 2021-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002755"
+country: "nl"
+rank: "wet"
+publication_date: "2021-03-01"
+last_updated: "2021-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002755"
+soort: "wet"
+stam_id: "1589833"
+version_id: "26518452"
+internal_id: "C38876721"
+label_id: "1544644"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002755/2021-03-01/0"
+intitule_bron: "Stb.1971-371"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-04-08"
+intitule_status: "goed"
+original_publication: "Stb.2020-65"
+original_signed_date: "2020-02-05"
+original_published_date: "2020-02-19"
+original_effect: "structuurwijziging"
+original_dossier: "35083"
+original_url_id: "stb-2020-65"
+entry_into_force_date: "2021-03-01"
+jci_1_3: "jci1.3:c:BWBR0002755&z=2021-03-01&g=2021-03-01"
+jci_1_0: "1.0:c:BWBR0002755&g=2021-03-01"
+citeertitel_status: "officieel"
+short_title: "Landbouwkwaliteitswet"
+signed_date: "2020-02-05"
+entry_into_force: "2021-03-01"
 ---
-
-# Landbouwkwaliteitswet
+# Wet van 8 april 1971, houdende een algemene regeling betreffende de kwaliteit van voortbrengselen van de landbouw en de visserij
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +41,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is ter bevordering van 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder:
 
@@ -42,7 +67,7 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 - verordening (EU) 2017/625: Verordening (EU) 2017/625 van het Europees Parlement en de Raad van 15 maart 2017 betreffende officiële controles en andere officiële activiteiten die worden uitgevoerd om de toepassing van de levensmiddelen- en diervoederwetgeving en van de voorschriften inzake diergezondheid, dierenwelzijn, plantgezondheid en gewasbeschermingsmiddelen te waarborgen, tot wijziging van de Verordeningen (EG) nr. 999/2001, (EG) nr. 396/2005, (EG) nr. 1069/2009, (EG) nr. 1107/2009, (EU) nr. 1151/2012, (EU) nr. 652/2014, (EU) 2016/429 en (EU) 2016/2031 van het Europees Parlement en de Raad, de Verordeningen (EG) nr. 1/2005 en (EG) nr. 1099/2009 van de Raad en de [Richtlijnen 98/58/EG](31998L0058), [1999/74/EG](31999L0074), [2007/43/EG](32007L0043), [2008/119/EG](32008L0119) en [2008/120/EG](32008L0120) van de Raad, en tot intrekking van de Verordeningen (EG) nr. [854/2004](32754L2004) en (EG) nr. [882/2004](32782L2004) van het Europees Parlement en de Raad, de Richtlijnen [89/608/EEG](31989L0608), [89/662/EEG](31989L0662), [90/425/EEG](31990L0425), [91/496/EEG](31991L0496), [96/23/EG](31996L0023), [96/93/EG](31996L0093) en [97/78/EG](31997L0078) van de Raad en Besluit [92/438/EEG](31992L0438) van de Raad (verordening officiële controles) (PbEU 2017, L 95).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ter bevordering van de afzet regelen worden gesteld betreffende de kwaliteit van produkten. Deze regelen kunnen betrekking hebben op de oorsprong, de hoedanigheid, de sortering, de verzorging, de verpakking, de vorm, de afwerking, de aanduiding, de maat en het gewicht van produkten.
 
@@ -62,13 +87,13 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 3. Een voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, in het eerste lid bedoeld, wordt Ons gedaan door Onze Minister en Onze Ministers, wie het mede aangaat, tezamen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij of krachtens een landbouwkwaliteitsbesluit kan worden voorzien in het verlenen van vrijstelling, en, op aanvrage, ontheffing van hetgeen bij of krachtens dat besluit is geregeld.
 
 2. Aan vrijstellingen en ontheffingen, bedoeld in het eerste lid, kunnen voorschriften worden verbonden. Zij kunnen onder beperkingen worden verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij landbouwkwaliteitsbesluit worden één of meer bevoegde autoriteiten als bedoeld in artikel 3, derde lid, van verordening (EU) 2017/625 aangewezen voor zover het betreft het gebied, genoemd in artikel 1, tweede lid, onderdelen i en j, van verordening (EU) 2017/625.
 
@@ -80,31 +105,31 @@ Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan ond
 
 5. Een krachtens het derde lid vast te stellen ministeriële regeling wordt aan de beide kamers der Staten-Generaal overgelegd. De ministeriële regeling wordt niet eerder vastgesteld dan vier weken na de overlegging.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien bij of krachtens een landbouwkwaliteitsbesluit regelen zijn gesteld omtrent keuring van produkten, kunnen daarbij merken, tekenen of bewijsstukken worden vastgesteld als uitsluitend bestemd om door of vanwege de daartoe gerechtigde op produkten of op hun verpakking te worden aangebracht, dan wel bij die produkten te worden gevoegd.
 
 2. Bij of krachtens een besluit, in het eerste lid bedoeld, kunnen regelen worden gesteld betreffende het vervaardigen, voorhanden en in voorraad hebben, zomede het afleveren en gebruiken van merken, tekenen of bewijsstukken en van cliché's, stempels en andere werktuigen tot het vervaardigen of aanbrengen van die merken, tekenen of bewijsstukken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met het toezicht op de naleving van de bij of krachtens dat besluit gestelde regels.
 
 2. In een landbouwkwaliteitsbesluit kunnen een of meer privaatrechtelijke rechtspersonen met volledige rechtsbevoegdheid worden belast met de keuring, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=7&z=2021-03-01&g=2021-03-01), of met het toezicht daarop. Zij kunnen daarbij tevens bevoegd worden verklaard tot het uitreiken van merken, tekenen of bewijsstukken, in hetzelfde artikel bedoeld.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een controle-instelling is niet werkzaam met het oogmerk om winst te behalen.
 
@@ -114,7 +139,7 @@ Vervallen
 
 4. De statuten van een controle-instelling alsmede wijzigingen daarvan behoeven, alvorens zij van kracht zijn, de instemming van Onze Minister. Onze Minister draagt zorg voor de publicatie van de statuten in de Staatscourant.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een controle-instelling kan tarieven vaststellen voor de kosten ter zake van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01) bedoelde toezicht en de keuring.
 
@@ -134,13 +159,13 @@ Vervallen
 
 7. De controle-instelling of Onze Minister kan besluiten geen activiteiten als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01), te verrichten of deze te staken, indien niet het ingevolge dit artikel verschuldigde bedrag wordt voldaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De benoeming en het ontslag van de voorzitter van een controle-instelling behoeven goedkeuring van Onze Minister.
 
 2. Op een controle-instelling wordt rijkstoezicht uitgeoefend door Onze Minister overeenkomstig bij ministeriële regeling vast te stellen regels.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij overtreding van bij of krachtens een landbouwkwaliteitsbesluit gestelde regelen kunnen een of meer van de volgende tuchtrechtelijke maatregelen worden opgelegd:
 
@@ -158,7 +183,7 @@ Vervallen
 
 4. In verband met de uitvoering van voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen kan in afwijking van het eerste lid bij of krachtens algemene maatregel van bestuur worden bepaald dat geen tuchtrechtelijke maatregelen worden gesteld op overtreding van de bij of krachtens die algemene maatregel van bestuur aangewezen bepalingen of onderdelen daarvan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De houder van een geografische aanduiding of geografische oorsprongsbenaming kan zijn recht handhaven jegens een ieder die, zonder daartoe gerechtigd te zijn, een van de handelingen genoemd in artikel 13, eerste lid, van verordening (EU) 1151/2012 verricht.
 
@@ -184,7 +209,7 @@ Vervallen
 
 12. De rechter kan op vordering van de houder van een geografische aanduiding of geografische oorsprongsbenaming gelasten dat op kosten van degene die inbreuk op diens recht heeft gemaakt passende maatregelen worden getroffen tot verspreiding van informatie over de uitspraak.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Met het toezicht op de naleving van bij of krachtens een landbouwkwaliteitsbesluit gestelde eisen zijn belast de bij besluit van Onze Minister aangewezen ambtenaren en de bij besluit van Onze Minister aangewezen personen, werkzaam bij een controle-instelling.
 
@@ -192,25 +217,25 @@ Vervallen
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Aan het slot van [artikel 1, onder 4**e**, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=1) wordt toegevoegd de zinsnede: de Landbouwkwaliteitswet, de artikelen 2, eerste en tweede lid, 3, tweede lid, 4, vierde lid, 6 en 9, eerste lid.
 
 2. [Artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13&z=2021-03-01&g=2021-03-01) vindt geen toepassing, indien de Officier van Justitie, na overleg met de controle-instelling, heeft beslist, dat een overtreding strafrechtelijk zal worden afgedaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Deze wet kan worden aangehaald als: "Landbouwkwaliteitswet".
 
@@ -218,19 +243,19 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De tuchtrechtelijke maatregel van berisping bestaat uit een schriftelijke of mondelinge vermaning tot de betrokkene in verband met het begane feit.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Op een privaatrechtelijke rechtspersoon als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=8&z=2021-03-01&g=2021-03-01) is de [Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) van toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. De tuchtrechtelijke maatregel van geldboete bedraagt ten minste € 3 en ten hoogste een bedrag van de derde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -238,13 +263,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De geldboete kan geheel of gedeeltelijk voorwaardelijk worden opgelegd.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. In de gevallen, waarin het tuchtgerecht de openbaarmaking van zijn uitspraak gelast, bepaalt het tevens de wijze, waarop aan die last uitvoering wordt gegeven.
 
 2. De kosten van openbaarmaking worden in de uitspraak op een bepaald bedrag geschat.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. Indien een feit, dat tuchtrechtelijk kan worden afgedaan, wordt begaan door of vanwege een rechtspersoon of een vennootschap, wordt de tuchtrechtelijke vervolging ingesteld en worden maatregelen genomen tegen:
 
@@ -258,7 +283,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Indien een tuchtrechtelijke vervolging wordt ingesteld tegen een rechtspersoon of een vennootschap, wordt deze tijdens de vervolging vertegenwoordigd door de bestuurder en, indien er meer bestuurders zijn, door één dezer.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. Op gezamenlijk verzoek van de controle-instelling en de eigenaar van het bedrijf waar de maatregel is opgelegd, kan het tuchtgerecht besluiten om de sanctie van het verscherpt toezicht op te heffen.
 
@@ -290,13 +315,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 13. Tegen de uitspraak op het verzoek staat geen hoger beroep open.
 
-#### Artikel 13f
+##### Artikel 13f
 
 1. De betrokkene dan wel de controle-instelling kan binnen zes weken na de verzending van de uitspraak van het tuchtgerecht hoger beroep instellen bij het College, tenzij tegen die uitspraak verzet kan of kon worden gedaan.
 
 2. De controle-instelling kan voorts hoger beroep instellen tegen een uitspraak bij verstek, tenzij de betrokkene verzet doet. Het hoger beroep kan worden ingesteld binnen zes weken nadat de termijn voor het doen van verzet ongebruikt is verstreken.
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. Het hoger beroep wordt ingesteld door het indienen van een beroepschrift bij het College.
 
@@ -304,11 +329,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. De griffier zendt binnen een week na ontvangst van het beroepschrift een afschrift daarvan aan het tuchtgerecht en aan de betrokkene, dan wel de controle-instelling.
 
-#### Artikel 13h
+##### Artikel 13h
 
 Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het beroepschrift, bedoeld in [artikel 13g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13g&z=2021-03-01&g=2021-03-01), de stukken toekomen aan de griffier van het College.
 
-#### Artikel 13i
+##### Artikel 13i
 
 1. Als het beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan het College of de president zonder nader onderzoek door het College uitspraak doen. De uitspraak wordt onverwijld aan de betrokkene, het tuchtgerecht en de controle-instelling gezonden.
 
@@ -320,7 +345,7 @@ Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het b
 
 5. De uitspraak op het verzet wordt onverwijld aan de betrokkene, het tuchtgerecht en de controle-instelling gezonden.
 
-#### Artikel 13j
+##### Artikel 13j
 
 1. Tenzij artikel 13i, eerste lid wordt toegepast, bepaalt de president de dag voor de behandeling van de zaak. Betrokkene en de controle-instelling worden uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het College te verschijnen.
 
@@ -332,7 +357,7 @@ Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het b
 
 5. In de gevallen, waarin op de terechtzitting de behandeling van de zaak voor een bepaalde tijd wordt uitgesteld of geschorst, wordt geen nieuwe kennisgeving gedaan.
 
-#### Artikel 13k
+##### Artikel 13k
 
 1. De zitting is openbaar.
 
@@ -340,7 +365,7 @@ Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het b
 
 3. Het College houdt zitting met drie of vijf leden, onder wie de voorzitter of een plaatsvervangend voorzitter.
 
-#### Artikel 13l
+##### Artikel 13l
 
 1. De voorzitter heeft de leiding van de zitting.
 
@@ -358,13 +383,13 @@ Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het b
 
 8. Het College kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.
 
-#### Artikel 13m
+##### Artikel 13m
 
 1. Het College kan de behandeling ter zitting schorsen.
 
 2. In dat geval bepaalt het College zo spoedig mogelijk het tijdstip waarop de behandeling wordt hervat en worden de betrokkene en de controle-instelling hiervan op de hoogte gesteld.
 
-#### Artikel 13n
+##### Artikel 13n
 
 1. De betrokkene of de controle-instelling kan, tenzij het College beveelt dat hij in persoon zal verschijnen, zich op de terechtzitting doen vertegenwoordigen door een advocaat, indien deze aldaar verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of wel door een daartoe bij bijzondere volmacht schriftelijk gemachtigde.
 
@@ -376,19 +401,19 @@ Het tuchtgerecht doet binnen drie weken na ontvangst van het afschrift van het b
 
 5. Het College kan weigeren bepaalde personen, die niet zijn advocaat, als raadsman toe te laten. Bij zodanige weigering houdt het College op verzoek van de betrokkene of de controle-instelling de zaak tot een volgende zitting aan.
 
-#### Artikel 13o
+##### Artikel 13o
 
 Op verzoek van de betrokkene kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van het College schade zou kunnen lijden. De [artikelen 513 tot en met 515 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=513) zijn van overeenkomstige toepassing.
 
-#### Artikel 13p
+##### Artikel 13p
 
 Op grond van feiten en omstandigheden als bedoeld in [artikel 13o](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13o&z=2021-03-01&g=2021-03-01) kan de voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De [artikelen 517, tweede en derde lid, tot en met 518 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=517) zijn van overeenkomstige toepassing.
 
-#### Artikel 13q
+##### Artikel 13q
 
 Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan de raadsman wordt de gelegenheid gegeven het woord te voeren en de gronden van het beroep toe te lichten.
 
-#### Artikel 13r
+##### Artikel 13r
 
 1. Het College kan ambtshalve of op verzoek van de betrokkene of de controle-instelling getuigen oproepen.
 
@@ -398,7 +423,7 @@ Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan 
 
 4. De voorzitter kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.
 
-#### Artikel 13s
+##### Artikel 13s
 
 1. Het College kan ambtshalve of op verzoek van de betrokkene of de controle-instelling deskundigen benoemen, teneinde het College voor te lichten, zo nodig, met opdracht een onderzoek in te stellen en het College een verslag uit te brengen.
 
@@ -406,7 +431,7 @@ Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan 
 
 3. Het College kan de deskundige geheimhouding opleggen.
 
-#### Artikel 13t
+##### Artikel 13t
 
 1. Het College sluit het onderzoek ter zitting, wanneer het van oordeel is dat het is voltooid.
 
@@ -414,13 +439,13 @@ Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan 
 
 3. Na de behandeling van de zaak ter terechtzitting bepaalt de voorzitter de dag voor de uitspraak, tenzij het College onmiddellijk mondeling uitspraak doet.
 
-#### Artikel 13u
+##### Artikel 13u
 
 1. Het College verklaart het beroep niet-ontvankelijk, ongegrond of gegrond.
 
 2. Indien het College niet voldoende is ingelicht, kan het bevelen, dat de behandeling der zaak op een nader te bepalen datum zal worden hervat.
 
-#### Artikel 13v
+##### Artikel 13v
 
 1. Indien het College het beroep gegrond verklaart, vernietigt het de uitspraak van het tuchtgerecht. In dat geval doet het College de zaak zelf af of verwijst haar naar het betrokken tuchtgerecht om haar af te doen met inachtneming van de beslissing van het College.
 
@@ -430,7 +455,7 @@ Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan 
 
 4. [Artikel 13e, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13e&z=2021-03-01&g=2021-03-01), is van overeenkomstige toepassing.
 
-#### Artikel 13w
+##### Artikel 13w
 
 1. Het College doet schriftelijk uitspraak.
 
@@ -444,11 +469,11 @@ Aan de betrokkene of de controle-instelling dan wel aan hun gemachtigden en aan 
 
 6. De uitspraak wordt onverwijld aan de betrokkene, de controle-instelling en het tuchtgerecht gezonden.
 
-#### Artikel 13x
+##### Artikel 13x
 
 De tenuitvoerlegging van uitspraken van een tuchtgerecht en van het College geschiedt op last van de controle-instelling. De controle-instelling kan niet van tenuitvoerlegging afzien, tenzij met goedkeuring van de voorzitter van het College.
 
-#### Artikel 13y
+##### Artikel 13y
 
 1. De controle-instelling brengt binnen twee weken na het onherroepelijk worden van de uitspraak van het tuchtgerecht of van het College ter kennis van de betrokkene, binnen welke termijn hij de opgelegde geldboete, of de kosten van openbaarmaking van de uitspraak moet voldoen. Deze termijn kan op ten hoogste twee maanden worden gesteld en kan telkens worden verlengd, maar mag ook na verlenging niet langer zijn dan twee jaren.
 

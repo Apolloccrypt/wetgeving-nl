@@ -1,13 +1,35 @@
 ---
 title: "NAVO-Overeenkomst inzake de uitwisseling van technische gegevens voor defensiedoeleinden"
 identifier: "BWBV0004399"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1971-09-18
-laatste_update: 1971-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004399"
+country: "nl"
+rank: "verdrag"
+publication_date: "1971-09-18"
+last_updated: "1971-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004399"
+soort: "verdrag"
+stam_id: "10004099463"
+version_id: "10004268192"
+internal_id: "C10006915251"
+label_id: "10004084094"
+dtd_version: "2.0"
+original_entry_into_force: "1971-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004399/1971-09-18/0"
+intitule_bron: "Trb.1971-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-04-15"
+intitule_in_force: "1971-09-28"
+intitule_status: "goed"
+original_publication: "Trb.1971-65"
+original_published_date: "1971-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-65"
+entry_into_force_date: "1971-09-18"
+jci_1_3: "jci1.3:c:BWBV0004399&z=1971-09-18&g=1971-09-18"
+jci_1_0: "1.0:c:BWBV0004399&g=1971-09-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1971-09-18"
 ---
-
 # NAVO-Overeenkomst inzake de uitwisseling van technische gegevens voor defensiedoeleinden
 
 De Regeringen van België, Canada, Denemarken, de Bondsrepubliek Duitsland, Frankrijk, Griekenland, Italië, Luxemburg, Nederland, Noorwegen, Portugal, Turkije, het Verenigd Koninkrijk en de Verenigde Staten van Amerika;
@@ -22,7 +44,7 @@ Overwegend dat de rechten van eigenaars van in particulier bezit zijnde technisc
 
 Zijn de volgende bepalingen overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -42,7 +64,7 @@ Voor de toepassing van deze Overeenkomst:
 
 - (h). wordt onder „onbevoegd gebruik” verstaan: elk gebruik van technische gegevens in particulier bezit zonder voorafgaande machtiging of niet in overeenstemming met de voorwaarden waarop zij aan een Ontvanger waren medegedeeld.
 
-#### Artikel II
+##### Artikel II
 
 A. Wanneer voor defensiedoeleinden door een Regering of Organisatie van Oorsprong aan een of meer Ontvangers technische gegevens worden medegedeeld, die in particulier bezit zijn, is iedere Ontvanger, behoudens het bepaalde in paragraaf B van dit artikel, verantwoordelijk voor de bescherming van deze gegevens, als technische gegevens in particulier bezit die vertrouwelijk openbaar zijn gemaakt. De Ontvanger behandelt deze technische gegevens overeenkomstig alle opgelegde voorwaarden en neemt passende en met deze voorwaarden verenigbare maatregelen om te voorkomen dat deze gegevens aan iemand worden medegedeeld, worden gepubliceerd of gebruikt zonder machtiging dan wel behandeld op enigerlei andere wijze die de eigenaar schade zou kunnen berokkenen. Indien een Ontvanger de opgelegde voorwaarden veranderd wenst te zien richt hij, tenzij anders overeengekomen, elk verzoek hiertoe tot de Regering of Organisatie van Oorsprong van wie de technische gegevens in particulier bezit waren ontvangen.
 
@@ -50,7 +72,7 @@ B. Indien een Ontvanger vaststelt dat een deel van de hem als technische gegeven
 
 C. Geen enkele bepaling in deze Overeenkomst kan worden beschouwd als een beperking van een de Ontvanger ter beschikking staand verweer bij elk verschil van mening voortvloeiend uit uitwisseling van technische gegevens.
 
-#### Artikel III
+##### Artikel III
 
 A. Indien de eigenaar van technische gegevens in particulier bezit die voor defensiedoeleinden zijn uitgewisseld schade lijdt door de onbevoegde openbaarmaking of het onbevoegde gebruik van de gegevens door een Ontvanger of door degenen aan wie deze Ontvanger de gegevens openbaar heeft gemaakt, dient deze Ontvanger de eigenaar de schade te vergoeden:
 
@@ -66,7 +88,7 @@ C. Op verzoek van een Regering die Partij is bij deze Overeenkomst, of van een b
 
 D. Geen enkele bepaling in dit artikel maakt inbreuk op de rechten die de benadeelde eigenaar kan doen gelden tegenover een Regering of een NAVO-organisatie.
 
-#### Artikel IV
+##### Artikel IV
 
 De Regeringen die Partij zijn bij deze Overeenkomst werken binnen de Noord-Atlantische Verdragsorganisatie regelingen uit voor de toepassing van deze Overeenkomst. Deze regelingen omvatten in het bijzonder bepalingen betreffende:
 
@@ -78,23 +100,23 @@ De Regeringen die Partij zijn bij deze Overeenkomst werken binnen de Noord-Atlan
 
 - (d). verzoeken om verandering van de voorwaarden opgelegd aan technische gegevens in particulier bezit zoals bedoeld in artikel II, letter A.
 
-#### Artikel V
+##### Artikel V
 
 1. Geen enkele bepaling in deze Overeenkomst wordt zo uitgelegd dat zij afbreuk doet aan de verbintenissen inzake beveiliging tussen de Regeringen die Partij zijn bij deze Overeenkomst.
 
 2. Elke Ontvanger kent alle technische gegevens in particulier bezit die hem ter beschikking worden gesteld krachtens deze Overeenkomst ten minste dezelfde rubriceringsgraad toe als aan die technische gegevens is toegekend door de Regering of Organisatie van Oorsprong.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Geen enkele bepaling in deze Overeenkomst belet de Regeringen die Partij zijn bij deze Overeenkomst, bestaande Overeenkomsten van eenzelfde strekking in stand te houden of onderling nieuwe Overeenkomsten te sluiten.
 
 2. Geen enkele bepaling in deze Overeenkomst wordt zo uitgelegd dat zij de bepalingen aantast van de [NAVO-Overeenkomst betreffende de wederzijdse geheimhouding van uitvindingen die voor de verdediging van belang zijn en onderwerp van octrooiaanvragen vormen](https://wetten.overheid.nl/jci1.3:c:BWBV0005054), ondertekend te Parijs op 21 september 1960.
 
-#### Artikel VII
+##### Artikel VII
 
 Geen enkele bepaling in deze Overeenkomst is van toepassing op de mededeling of het gebruik van technische gegevens betreffende atoomenergie.
 
-#### Artikel VIII
+##### Artikel VIII
 
 A. De akten van bekrachtiging of goedkeuring van deze Overeenkomst worden zo spoedig mogelijk nedergelegd bij de Regering van de Verenigde Staten van Amerika die de datum van nederlegging van elke akte aan elke ondertekenende Regering en de Secretaris-Generaal van de NAVO mededeelt.
 
@@ -102,7 +124,7 @@ Deze Overeenkomst treedt in werking dertig dagen na de nederlegging door twee on
 
 B. De Noord-Atlantische Raad stelt de datum vast waarop deze Overeenkomst van toepassing zal worden of niet langer van toepassing zal zijn op NAVO-organisaties.
 
-#### Artikel IX
+##### Artikel IX
 
 Elke Partij kan ophouden partij bij deze Overeenkomst te zijn een jaar nadat zij kennisgeving van opzegging heeft gedaan aan de Regering van de Verenigde Staten van Amerika, die de andere ondertekenende Regeringen en de Secretaris-Generaal van de Noord-Atlantische Verdragsorganisatie de nederlegging van elke kennisgeving van opzegging mededeelt. De opzegging tast echter de door Partijen uit hoofde van de bepalingen van deze Overeenkomst reeds aangegane verplichtingen en verkregen rechten of voorrechten niet aan.
 

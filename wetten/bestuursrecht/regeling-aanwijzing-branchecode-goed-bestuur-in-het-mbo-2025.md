@@ -1,32 +1,58 @@
 ---
-title: "Regeling aanwijzing Branchecode goed bestuur in het mbo 2025"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 augustus 2025, nr. MBO/ 53085098, houdende de aanwijzing van de ‘Branchecode goed bestuur in het mbo 2025’ (Regeling aanwijzing Branchecode goed bestuur in het mbo 2025)"
 identifier: "BWBR0051517"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-09-23
-laatste_update: 2025-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051517"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-23"
+last_updated: "2025-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051517"
+soort: "ministeriele-regeling"
+stam_id: "17527543"
+version_id: "30927012"
+internal_id: "C44307261"
+label_id: "17429144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051517/2025-09-23/0"
+intitule_bron: "Stcrt.2025-32019"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-01"
+intitule_published: "2025-09-22"
+intitule_in_force: "2025-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-32019"
+original_signed_date: "2025-08-01"
+original_published_date: "2025-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-32019"
+entry_into_force_date: "2025-09-23"
+jci_1_3: "jci1.3:c:BWBR0051517&z=2025-09-23&g=2025-09-23"
+jci_1_0: "1.0:c:BWBR0051517&g=2025-09-23"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing Branchecode goed bestuur in het mbo 2025"
+signed_date: "2025-08-01"
+entry_into_force: "2025-09-23"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 1 augustus 2025, nr. MBO/ 53085098, houdende de aanwijzing van de ‘Branchecode goed bestuur in het mbo 2025’ (Regeling aanwijzing Branchecode goed bestuur in het mbo 2025)
 
 Gelet op [artikel 2.5.4, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.4);
 
 Besluit:
 
-#### Artikel 1. Aanwijzing branchecode
+##### Artikel 1. Aanwijzing branchecode
 
 De Code goed bestuur in het mbo 2025, die is opgenomen als de bijlage bij deze regeling, wordt aangewezen als branchecode, als bedoeld in [artikel 2.5.4, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=2.5.4).
 
-#### Artikel 2. Intrekking Regeling aanwijzing Branchecode goed bestuur in het mbo
+##### Artikel 2. Intrekking Regeling aanwijzing Branchecode goed bestuur in het mbo
 
 De [Regeling aanwijzing Branchecode goed bestuur in het mbo 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0046940) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 1 augustus 2025, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 augustus 2025.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing Branchecode goed bestuur in het mbo 2025.
 

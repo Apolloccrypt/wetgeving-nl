@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de prestaties bij arbeidsongevallen en beroepsziekten"
 identifier: "BWBV0004636"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1982-03-05
-laatste_update: 1982-03-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004636"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-03-05"
+last_updated: "1982-03-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004636"
+soort: "verdrag"
+stam_id: "10004230363"
+version_id: "10004417132"
+internal_id: "C10006987351"
+label_id: "10004215694"
+dtd_version: "2.0"
+original_entry_into_force: "1967-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004636/1982-03-05/0"
+intitule_bron: "Trb.1965-16"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-02-10"
+intitule_in_force: "1966-10-18"
+intitule_status: "goed"
+original_publication: "Trb.1965-16"
+original_published_date: "1965-02-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-16"
+entry_into_force_date: "1967-08-02"
+jci_1_3: "jci1.3:c:BWBV0004636&z=1982-03-05&g=1982-03-05"
+jci_1_0: "1.0:c:BWBV0004636&g=1982-03-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-08-02"
 ---
-
 # Verdrag betreffende de prestaties bij arbeidsongevallen en beroepsziekten
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,7 +44,7 @@ Neemt heden, de 8ste juli 1964, het volgende Verdrag aan, hetwelk kan worden aan
 
 Opgezegd per 22 juli 1988 (Trb. 1997/191). Zie voor de herroeping Trb. 1997/191.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag
 
@@ -40,7 +62,7 @@ Voor de toepassing van dit Verdrag
 
 - ii). onder bij de nationale wetgeving vastgestelde voorwaarden, een kind dat een leeftijd die hoger is dan die vermeld in alinea i) nog niet heeft bereikt wanneer het wordt opgeleid voor een beroep, zijn studie voortzet of lijdende is aan een chronische ziekte of een gebrek waardoor het niet geschikt is tot het verrichten van enige beroepsarbeid, tenzij de definitie van „ten laste komend kind” in de nationale wetgeving ieder kind omvat, dat een leeftijd die aanmerkelijk hoger is dan die genoemd in alinea i), nog niet heeft bereikt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een Lid dat op economisch en medisch gebied nog onvoldoende is ontwikkeld kan zich, door een bij zijn akte van bekrachtiging gevoegde gemotiveerde verklaring, het recht voorbehouden tot tijdelijke toepassing van de afwijkende bepalingen voorkomende in de volgende artikelen: 5, 9, lid 3, alinea **b)**, 12, 15, lid 2 en 18, lid 3.
 
@@ -50,7 +72,7 @@ Voor de toepassing van dit Verdrag
 
 - b). dat het met ingang van een bepaalde datum afstand doet van zijn recht tot toepassing van de desbetreffende afwijkende bepaling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk Lid dat dit Verdrag bekrachtigt kan door een bij zijn akte van bekrachtiging gevoegde verklaring van de toepassing van dit Verdrag uitsluiten:
 
@@ -64,7 +86,7 @@ wanneer deze categorieën worden beschermd door speciale regelingen welke voorzi
 
 3. Elk Lid dat een verklaring ingevolge het eerste lid van dit artikel heeft afgelegd kan later aan de Directeur-Generaal van het Internationaal Arbeidsbureau kennisgeven dat het de verplichtingen van dit Verdrag aanvaardt ten aanzien van de categorie of categorieën personen die het bij zijn bekrachtiging heeft uitgesloten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De nationale wetgeving inzake prestaties bij arbeidsongevallen en beroepsziekten moet bescherming bieden aan alle loontrekkenden (met inbegrip van de leerlingen) werkzaam in het bedrijfsleven en in de overheidssector, met inbegrip van de coöperaties, en in geval van overlijden van de kostwinner aan de voorgeschreven categorieën rechthebbenden.
 
@@ -78,11 +100,11 @@ wanneer deze categorieën worden beschermd door speciale regelingen welke voorzi
 
 - d). andere categorieën loontrekkenden, waarvan het aantal niet meer mag bedragen dan 10% van het totaal der loontrekkenden, daarbij zij die met toepassing van de alinea's **a** tot en met **c** van dit lid zijn uitgezonderd, niet meegerekend.
 
-#### Artikel 5
+##### Artikel 5
 
 Wanneer een ingevolge artikel 2 afgelegde verklaring van kracht is, kan de toepassing van de nationale wetgeving inzake prestaties bij arbeidsongevallen en beroepsziekten worden beperkt tot voorgeschreven categorieën loontrekkenden, welke in totaal tenminste 75 procent van het totale aantal loontrekkenden in de industriële inrichtingen omvatten, en in geval van overlijden van de kostwinner tot voorgeschreven categorieën rechthebbenden.
 
-#### Artikel 6
+##### Artikel 6
 
 Onder de door verzekering gedekte gevallen moeten de volgende worden begrepen, wanneer deze het gevolg zijn van een arbeidsongeval of van een beroepsziekte:
 
@@ -94,13 +116,13 @@ Onder de door verzekering gedekte gevallen moeten de volgende worden begrepen, w
 
 - d). verlies van middelen van bestaan, ten gevolge van het overlijden van de kostwinner, door voorgeschreven categorieën rechthebbenden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elk Lid dient een definitie van „arbeidsongeval” voor te schrijven, waarin tevens de voorwaarden worden opgenomen waaronder een ongeval dat op weg van of naar het werk heeft plaatsgevonden, als arbeidsongeval wordt aangemerkt, en in de rapporten over de toepassing van dit Verdrag die het krachtens [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) moet uitbrengen, deze definitie weer te geven en toe te lichten.
 
 2. Indien de ongevallen die plaatsvinden op weg van en naar het werk, reeds gedekt worden door andere regelingen van de Sociale Zekerheid dan die met betrekking tot de schadeloosstelling van arbeidsongevallen en die regelingen bij ongevallen op weg van en naar het werk in prestaties voorzien, welke in totaal tenminste gelijkwaardig zijn aan die waarin dit Verdrag voorziet, behoeft van het ongeval op weg van en naar het werk geen gewag te worden gemaakt in het kader van de definitie van „arbeidsongeval”.
 
-#### Artikel 8
+##### Artikel 8
 
 Elk Lid moet
 
@@ -110,7 +132,7 @@ Elk Lid moet
 
 - c). bij de wet een lijst van ziekten vaststellen overeenkomstig het bepaalde onder **a),** aangevuld door een algemene definitie van beroepsziekten, of door bepalingen welke het mogelijk maken vast te stellen of andere dan in de lijst genoemde ziekten of ziekten die zich niet onder de voorwaarden als voorgeschreven openbaren in het beroep zijn ontstaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elk Lid moet overeenkomstig de voorgeschreven bepalingen aan de beschermde personen de volgende prestaties waarborgen:
 
@@ -126,7 +148,7 @@ Elk Lid moet
 
 - b). wanneer een overeenkomstig artikel 2 afgelegde verklaring van kracht is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De geneeskundige zorg en de daaraan verbonden diensten moeten in geval van ziektetoestand omvatten:
 
@@ -150,13 +172,13 @@ Elk Lid moet
 
 2. De overeenkomstig lid 1 van dit artikel verleende verstrekkingen moeten met alle daartoe geëigende middelen strekken tot instandhouding, herstel, dan wel, zo dit niet mogelijk is, verbetering van de gezondheid van de getroffene, alsmede van diens geschiktheid om te werken en om te voorzien in zijn persoonlijke behoeften.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Elk Lid dat de geneeskundige zorg en de daaraan verbonden diensten verleent door middel van een algemene gezondheidsregeling of een regeling voor geneeskundige zorg voor loontrekkenden kan in zijn wetgeving bepalen dat deze zorg aan hen die getroffen zijn door een arbeidsongeval of een beroepsziekte, onder dezelfde voorwaarden wordt verleend als aan andere rechthebbenden, mits de desbetreffende bepalingen zodanig zijn gesteld, dat de betrokkenen niet in behoeftige omstandigheden geraken.
 
 2. Elk Lid dat de geneeskundige zorg en de daaraan verbonden diensten verleent in de vorm van terugbetaling van door de getroffene gedane uitgaven kan in zijn wetgeving bijzondere bepalingen opnemen voor gevallen waarin de omvang, duur of de kosten van deze zorg redelijke grenzen overschrijden, mits deze bepalingen niet in tegenspraak zijn met de doeleinden vermeld in artikel 10, tweede lid, en zodanig gesteld zijn, dat de betrokkenen niet in behoeftige omstandigheden geraken.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien een krachtens artikel 2 afgelegde verklaring van kracht is, moeten de geneeskundige zorg en de daaraan verbonden diensten tenminste omvatten:
 
@@ -170,11 +192,11 @@ Indien een krachtens artikel 2 afgelegde verklaring van kracht is, moeten de gen
 
 - e). zo mogelijk, op het werk, eerste hulp aan slachtoffers van arbeidsongevallen.
 
-#### Artikel 13
+##### Artikel 13
 
 Ingeval van tijdelijke of beginnende arbeidsongeschiktheid bestaat de uitkering in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 19 of artikel 20.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ingeval van verlies van de geschiktheid om inkomsten uit arbeid te verwerven, wanneer dit verlies waarschijnlijk blijvend zal zijn, of van overeenkomstige vermindering van de lichaamsgesteldheid, worden de uitkeringen verleend in alle gevallen waarin dit verlies of deze vermindering een voorgeschreven graad overschrijdt en na afloop van het tijdvak gedurende hetwelk uitkeringen overeenkomstig artikel 13 verschuldigd zijn nog voortduurt.
 
@@ -186,21 +208,21 @@ Ingeval van tijdelijke of beginnende arbeidsongeschiktheid bestaat de uitkering 
 
 5. De graden van verlies van de geschiktheid om inkomsten uit arbeid te verwerven of van de overeenkomstige vermindering van de lichaamsgesteldheid bedoeld in de leden 1 en 3 van dit artikel, worden door de nationale wetgeving zodanig vastgesteld, dat de betrokkenen niet in behoeftige omstandigheden geraken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In bijzondere omstandigheden kan met goedvinden van de getroffene de periodieke betaling bedoeld in de leden 2 en 3 van artikel 14, geheel of ten dele, worden omgezet in een uitkering ineens welke overeenkomt met de contante waarde van die periodieke betaling, indien de bevoegde autoriteit redenen heeft om aan te nemen dat een zodanige uitkering ineens op een voor de getroffene bijzonder gunstige wijze zal worden aangewend.
 
 2. Indien een overeenkomstig artikel 2 afgelegde verklaring van kracht is en het Lid meent niet over voldoende administratieve middelen te beschikken om een regelmatige betaalbaarstelling van de periodieke betalingen te verzekeren, kan het in de leden 2 en 3 van artikel 14 bedoelde periodieke betalingen omzetten in een uitkering ineens, overeenkomende met hun contante waarde berekend op basis van de bestaande gegevens.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor getroffenen die in een toestand verkeren, welke geregeld oppassing en verzorging door een derde nodig maakt, moet worden voorzien in verhogingen van de periodieke betalingen of andere bijzondere of aanvullende uitkeringen, naar gelang wordt voorgeschreven.
 
-#### Artikel 17
+##### Artikel 17
 
 De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of intrekking van de periodieke uitkeringen terzake van verlies van de geschiktheid om inkomsten uit arbeid te verwerven of van een overeenkomstige vermindering van de lichamelijke gesteldheid zal plaatsvinden in verband met de wijzigingen welke in de mate van dit verlies of deze vermindering kunnen optreden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Ingeval van overlijden van de kostwinner bestaat de uitkering aan een weduwe als voorgeschreven, aan de invalide en ten laste komende weduwnaar, aan de ten laste komende kinderen van de overledene en aan alle andere eventueel door deze nationale wetgeving aangewezen personen, in een periodieke betaling, berekend overeenkomstig de bepalingen van artikel 19 of 20. Aan de invalide en ten laste komende weduwnaar behoeft echter geen uitkering te worden verleend, wanneer de uitkeringen aan de andere nagelaten betrekkingen die voorzien bij dit Verdrag aanmerkelijk te boven gaan en andere regelingen inzake Sociale Zekerheid aan een zodanige weduwnaar uitkeringen toekennen, welke aanmerkelijk hoger liggen dan die welke ter zake van invaliditeit bij het [Verdrag inzake Sociale Zekerheid (minimumnormen)](https://wetten.overheid.nl/jci1.3:c:BWBV0004942) 1952 zijn voorzien.
 
@@ -208,7 +230,7 @@ De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of 
 
 3. Indien een overeenkomstig artikel 2 afgelegde verklaring van kracht is en het Lid meent niet over voldoende administratieve middelen te beschikken om een regelmatige betaalbaarstelling van de periodieke betalingen te verzekeren, kan het de in lid 1 van dit artikel bedoelde periodieke betalingen omzetten in een uitkering ineens, overeenkomende met hun contante waarde berekend op basis van de bestaande gegevens.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ten aanzien van elke periodieke uitkering waarop dit artikel van toepassing is, moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens het door verzekering gedekte geval verstrekte kinderbijslag, zodanig zijn, dat het voor de modelgerechtigde bedoeld in de bij dit Verdrag gevoegde Tabel II, tenminste gelijk is aan het in die tabel voor het onderhavige geval aangegeven percentage van het totaal van de vroegere inkomsten uit arbeid van de gerechtigde of van zijn kostwinner en van het bedrag van de kinderbijslag verstrekt aan een beschermd persoon die dezelfde gezinslasten heeft als die modelgerechtigde.
 
@@ -238,7 +260,7 @@ De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of 
 
 10. Geen enkele periodieke uitkering mag lager zijn dan het voorgeschreven minimumbedrag.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Ten aanzien van elke periodieke betaling waarop dit artikel van toepassing is moet het bedrag van de uitkering, vermeerderd met het bedrag van de tijdens het door verzekering gedekte geval verstrekte kinderbijslag, zodanig zijn dat het voor de modelgerechtigde, bedoeld in de bij dit Verdrag gevoegde Tabel II, tenminste gelijk is aan het in die tabel voor het desbetreffende geval aangegeven percentage van het loon van een volwassen ongeschoolde mannelijke arbeider, vermeerderd met het bedrag van de kinderbijslag, verleend aan een beschermd persoon die dezelfde gezinslasten heeft als de modelgerechtigde.
 
@@ -260,13 +282,13 @@ De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of 
 
 8. Geen enkele periodieke betaling mag minder bedragen dan het Voorgeschreven minimumbedrag.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De bedragen van de lopende periodieke betalingen bedoeld in de leden 2 en 3 van artikel 14 en in lid 1 van artikel 18, worden herzien bij aanmerkelijke veranderingen in het algemeen loonpeil welke het gevolg zijn van aanmerkelijke veranderingen in de kosten van levensonderhoud.
 
 2. Elk Lid moet in de rapporten over de toepassing van dit Verdrag die het krachtens [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) moet uitbrengen, de uit bovenbedoelde veranderingen getrokken conclusies vermelden en aangeven wat in dit opzicht is ondernomen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een uitkering waarop een beschermd persoon op grond van dit Verdrag recht zou hebben gehad, kan worden geschorst tot op zulk een hoogte als wordt voorgeschreven:
 
@@ -286,7 +308,7 @@ De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of 
 
 2. In voorgeschreven gevallen en binnen voorgeschreven grenzen wordt een deel van de uitkeringen die anders zouden zijn toegekend, betaalbaar gesteld aan de personen die ten laste van de belanghebbende komen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een ieder die aanspraak maakt op een uitkering moet het recht hebben om beroep in te stellen, wanneer hem een uitkering wordt geweigerd of wanneer hij zich niet kan verenigen met de hoedanigheid of de omvang daarvan.
 
@@ -294,17 +316,17 @@ De nationale wetgeving bepaalt de voorwaarde waaronder herziening, schorsing of 
 
 3. Wanneer verzoeken worden behandeld door rechterlijke colleges welke speciaal zijn ingesteld voor de behandeling van zaken aangaande prestaties bij arbeidsongevallen en beroepsziekten of aangaande de sociale zekerheid in het algemeen en waarin de beschermde personen vertegenwoordigd zijn, behoeft het recht van beroep niet te worden toegekend.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Wanneer het beheer niet wordt gevoerd door een op overheidsvoorschriften berustende instelling of door een departement van algemeen bestuur dat verantwoording schuldig is aan een volksvertegenwoordiging, moeten vertegenwoordigers van de beschermde personen deelnemen aan het beheer of met raadgevende stem daarbij betrokken worden onder voorgeschreven voorwaarden; de nationale wetgeving kan eveneens bepalingen bevatten inzake de deelneming van vertegenwoordigers van de werkgevers en van de overheid.
 
 2. Het Lid moet algemene verantwoordelijkheid aanvaarden voor een goed beheer van de instellingen en diensten die betrokken zijn bij de toepassing van dit Verdrag.
 
-#### Artikel 25
+##### Artikel 25
 
 Elk Lid aanvaardt een algemene verantwoordelijkheid wat betreft het verlenen van de krachtens dit Verdrag toegekende prestaties en neemt alle hiertoe dienende maatregelen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Elk Lid moet onder voorgeschreven voorwaarden:
 
@@ -316,11 +338,11 @@ Elk Lid aanvaardt een algemene verantwoordelijkheid wat betreft het verlenen van
 
 2. Elk Lid moet voor zover mogelijk in de rapporten over de toepassing van dit Verdrag die het krachtens [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) moet uitbrengen, inlichtingen verstrekken met betrekking tot de veelvuldigheid en de ernst van de arbeidsongevallen.
 
-#### Artikel 27
+##### Artikel 27
 
 Elk Lid moet, wat betreft de prestaties bij arbeidsongevallen en beroepsziekten, op zijn grondgebied aan vreemdelingen gelijkheid van behandeling met zijn eigen onderdanen verlenen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Dit Verdrag herziet het Verdrag betreffende de schadeloosstelling voor ongevallen in de landbouw, 1921, het Verdrag betreffende de schadeloosstelling voor arbeidsongevallen, 1925, het Verdrag betreffende de schadeloosstelling voor beroepsziekten, 1925, en het Verdrag (herzien) betreffende schadeloosstelling voor beroepsziekten, 1934.
 
@@ -328,15 +350,15 @@ Elk Lid moet, wat betreft de prestaties bij arbeidsongevallen en beroepsziekten,
 
 De inwerkingtreding van dit Verdrag sluit echter de verdere bekrachtiging van het Verdrag (herzien) betreffende schadeloosstelling voor beroepsziekten, 1934, niet uit.
 
-#### Artikel 29
+##### Artikel 29
 
 Overeenkomstig [artikel 75 van het Verdrag betreffende de sociale zekerheid (minimumnormen)](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=75), 1952, houden [Deel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&deel=VI) en de overeenkomstige bepalingen van andere delen van genoemd Verdrag op van toepassing te zijn voor elk Lid dat dit Verdrag bekrachtigt, van de datum af waarop dit Verdrag voor het betrokken Lid in werking treedt. De aanvaarding van de verplichtingen van dit Verdrag wordt evenwel, voor de toepassing van [artikel 2 van het Verdrag betreffende de sociale zekerheid (minimumnormen)](https://wetten.overheid.nl/jci1.3:c:BWBV0004942&artikel=2), 1952, beschouwd als zijnde een aanvaarding van de verplichtingen van Deel VI en de overeenkomstige bepalingen van de andere delen van genoemd Verdrag.
 
-#### Artikel 30
+##### Artikel 30
 
 Wanneer zulks wordt bepaald in een later door de Conferentie aangenomen Verdrag, hetwelk betrekking heeft op een of meer van de in dit Verdrag behandelde onderwerpen, houden de bepalingen van dit Verdrag welke in het nieuwe Verdrag worden genoemd, op van toepassing te zijn op elk Lid dat dat laatste Verdrag heeft bekrachtigd, van de datum af waarop het voor het betrokken Lid in werking treedt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De Internationale Arbeidsconferentie kan op een zitting, waarbij dit onderwerp op de agenda is geplaatst, met tweederde meerderheid wijzigingen in de bij dit Verdrag gevoegde Tabel I aannemen.
 
@@ -344,11 +366,11 @@ Wanneer zulks wordt bepaald in een later door de Conferentie aangenomen Verdrag,
 
 3. Tenzij de Conferentie anders besluit bij de aanvaarding van zodanige wijzigingen, zijn deze als gevolg van hun aanvaarding door de Conferentie van kracht voor elk Lid, dat het Verdrag later bekrachtigt.
 
-#### Artikel 32
+##### Artikel 32
 
 De formele bekrachtigingen van dit Verdrag dienen aan de Directeur-Generaal van het Internationaal Arbeidsbureau te worden medegedeeld en door deze geregistreerd.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.
 
@@ -356,27 +378,27 @@ De formele bekrachtigingen van dit Verdrag dienen aan de Directeur-Generaal van 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaar na de datum van inwerkingtreding van dit Verdrag, door middel van een tot de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na het verloop van de termijn van tien jaar als bedoeld in het vorige lid gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau geeft aan alle Leden van de Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden der Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden der Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum, waarop dit Verdrag van kracht wordt.
 
-#### Artikel 36
+##### Artikel 36
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden betreffende alle bekrachtigingen en opzeggingen, welke door hem overeenkomstig de voorgaande artikelen zijn geregistreerd.
 
-#### Artikel 37
+##### Artikel 37
 
 Telkens wanneer de Raad van Beheer van het Internationale Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -386,7 +408,7 @@ Telkens wanneer de Raad van Beheer van het Internationale Arbeidsbureau zulks no
 
 2. Het onderhavige Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het bekrachtigd hebben en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 39
+##### Artikel 39
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit LOCOV"
 identifier: "BWBR0010771"
-categorie: "Overig"
-publicatiedatum: 1999-10-27
-laatste_update: 1999-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010771"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-10-27"
+last_updated: "1999-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010771"
+soort: "ministeriele-regeling"
+stam_id: "3535483"
+version_id: "5318662"
+internal_id: "C5511751"
+label_id: "3515534"
+dtd_version: "2.0"
+original_entry_into_force: "1999-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010771/1999-10-27/0"
+intitule_bron: "Stcrt.1999-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-10-13"
+intitule_published: "1999-10-25"
+intitule_in_force: "1999-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-205"
+original_signed_date: "1999-10-13"
+original_published_date: "1999-10-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-10-27"
+jci_1_3: "jci1.3:c:BWBR0010771&z=1999-10-27&g=1999-10-27"
+jci_1_0: "1.0:c:BWBR0010771&g=1999-10-27"
+citeertitel_status: "officieel"
+signed_date: "1999-10-13"
+entry_into_force: "1999-10-27"
 ---
-
 # Instellingsbesluit LOCOV
 
 Overwegende:
@@ -30,11 +54,11 @@ dat op 28 mei 1999 een brief aan de Tweede Kamer der Staten-Generaal is gestuurd
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noemen: LOCOV.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het LOCOV heeft tot taak informatieverstrekking, overleg en advies over het openbaar vervoer per spoor te faciliteren tussen consumentenorganisaties en de Minister van Verkeer en Waterstaat en voorts tussen consumentenorganisaties, spoorvervoerders en beheerders van stations.
 
@@ -42,7 +66,7 @@ Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noem
 
 3. Tot het moment waarop de herziening van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848) is voltooid, kan de Minister van Verkeer en Waterstaat onderwerpen vaststellen waarbij de spoorvervoerders of de beheerders van stations of de Minister van Verkeer en Waterstaat verplicht zijn om advies te vragen aan de consumentenorganisaties, en verplicht zijn om daaraan voorafgaand overleg met hen te voeren. Voorts kan de Minister van Verkeer en Waterstaat, tot het moment waarop de herziening van de [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001848) is voltooid, onderwerpen vaststellen waarover de consumentenorganisaties verplicht geïnformeerd worden door de spoorvervoerders of de beheerders van stations of de Minister van Verkeer en Waterstaat.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van het LOCOV zijn de Minister van Verkeer en Waterstaat, spoorvervoerders, beheerders van stations en consumentenorganisaties.
 
@@ -60,7 +84,7 @@ Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noem
 
 4. Beheerders van stations kunnen als lid van het LOCOV worden benoemd indien zij rechtspersoonlijkheid bezitten en hun activiteiten hoofdzakelijk richten op het exploiteren van stations op nationale schaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorzitter van het LOCOV wordt, het LOCOV gehoord, door de Minister van Verkeer en Waterstaat benoemd, geschorst en ontslagen.
 
@@ -72,7 +96,7 @@ Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noem
 
 5. Het LOCOV wijst uit zijn midden een plaatsvervangend voorzitter aan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op verzoek benoemt de Minister van Verkeer en Waterstaat de leden van het LOCOV met inachtneming van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010771&artikel=3&z=1999-10-27&g=1999-10-27) en nadat het LOCOV is gehoord.
 
@@ -80,31 +104,31 @@ Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noem
 
 3. De Minister van Verkeer en Waterstaat laat zich in het LOCOV vertegenwoordigen door het Directoraat-Generaal dat verantwoordelijk is voor het openbaar vervoer per spoor.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De secretaris van het LOCOV wordt, de voorzitter van het LOCOV gehoord, door de Minister van Verkeer en Waterstaat benoemd, geschorst en ontslagen.
 
 2. De secretaris van het LOCOV is voor zijn werkzaamheden verantwoording schuldig aan het LOCOV.
 
-#### Artikel 7
+##### Artikel 7
 
 Met inachtneming van de bepalingen van dit besluit regelt het LOCOV naar eigen inzicht zijn werkwijze. Het LOCOV stelt hiertoe een huishoudelijk reglement vast.
 
-#### Artikel 8
+##### Artikel 8
 
 Het beheer van de bescheiden betreffende de werkzaamheden van het LOCOV geschiedt met inachtneming van de bepalingen van het Besluit algemene secretarie-aangelegenheden rijksadministratie op overeenkomstige wijze als bij het Ministerie van Verkeer en Waterstaat. De bescheiden worden bij opheffing van het LOCOV in het archief van dat ministerie opgenomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kosten die voor het functioneren van het LOCOV noodzakelijk zijn, komen ten laste van het Ministerie van Verkeer en Waterstaat.
 
 2. Jaarlijks wordt ter goedkeuring een begroting ingediend bij de Minister van Verkeer en Waterstaat.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 september 1998.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Instellingsbesluit LOCOV.
 

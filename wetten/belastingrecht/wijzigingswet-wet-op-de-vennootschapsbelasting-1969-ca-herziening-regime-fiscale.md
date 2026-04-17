@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
+title: "Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
 identifier: "BWBR0014441"
-categorie: "Belastingrecht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014441"
+country: "nl"
+rank: "wet"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014441"
+soort: "wet"
+stam_id: "3271033"
+version_id: "5049222"
+internal_id: "C5167811"
+label_id: "3251164"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014441/2003-01-01/0"
+intitule_bron: "Stb.2002-618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-11"
+intitule_published: "2002-12-19"
+intitule_in_force: "2002-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2002-618"
+original_signed_date: "2002-12-11"
+original_published_date: "2002-12-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "26854"
+original_url_id: "stb-2002-618"
+entry_into_force_date: "2003-01-01"
+entry_into_force_dossier: "26854"
+jci_1_3: "jci1.3:c:BWBR0014441&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014441&g=2003-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)"
+signed_date: "2002-12-11"
+entry_into_force: "2003-01-01"
 ---
-
-# Wijzigingswet Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)
+# Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a. (herziening regime fiscale eenheid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +44,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is het regime van de fi
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Voor de heffing van de vennootschapsbelasting wordt een beschikking:
 
@@ -52,7 +80,7 @@ Wijzigt de Invorderingswet 1990.
 
 8. Dit artikel is van overeenkomstige toepassing ten aanzien van belastingplichtigen als bedoeld in [artikel 15a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15a).
 
-#### Artikel V
+##### Artikel V
 
 1. Indien belastingplichtigen voor de vennootschapsbelasting op het tijdstip onmiddellijk voorafgaande aan het tijdstip waarop deze wet op hen van toepassing wordt, een eenheid vormen in de zin van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) of [artikel 30, tweede lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=30), op het tijdstip waarop deze wet op hen van toepassing wordt, niet voldoen aan de bij of krachtens [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) gestelde vereisten voor de totstandkoming van een fiscale eenheid in de zin van het eerste lid van dat artikel, eindigt die fiscale eenheid met ingang van het laatstgenoemde tijdstip. Op verzoek van de belastingplichtigen vinden in dat geval, in plaats van de bepalingen die ten aanzien van die eenheid met betrekking tot de beëindiging van die eenheid golden, de regels toepassing die van het tijdstip van inwerkingtreding van deze wet bij of krachtens [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15), [15af](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15af), [15ag](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ag), [15ai](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ai) en [15aj van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15ai) zijn gesteld met betrekking tot een beëindiging van een fiscale eenheid.
 
@@ -60,7 +88,7 @@ Wijzigt de Invorderingswet 1990.
 
 3. Dit artikel is van overeenkomstige toepassing ten aanzien van belastingplichtigen als bedoeld in [artikel 15a van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15a).
 
-#### Artikel VI
+##### Artikel VI
 
 1. Indien ten aanzien van een lichaam [artikel 15 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=15) vanaf enig tijdstip geen toepassing meer vindt als gevolg van de in [artikel I, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0014441&artikel=I&z=2003-01-01&g=2003-01-01), opgenomen wijziging van artikel 2, vierde lid, van die wet, worden de vermogensbestanddelen van dat lichaam op het onmiddellijk daaraan voorafgaande tijdstip geacht te zijn vervreemd tegen de waarde in het economische verkeer.
 
@@ -70,7 +98,7 @@ Wijzigt de Invorderingswet 1990.
 
 4. Het eerste en tweede lid zijn niet van toepassing op vermogensbestanddelen die tot een in Nederland aanwezige vaste inrichting van de belastingplichtige behoren en op in Nederland gelegen onroerende zaken.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Een op het tijdstip onmiddellijk voorafgaand aan het ontvoegingstijdstip bij de fiscale eenheid aanwezige reserve als bedoeld in artikel 13, eerste lid, onderdeel b of c, van de Wet op de inkomstenbelasting 1964, zoals dit artikel luidde op 31 december 1999, wordt als volgt over de moedermaatschappij en de dochtermaatschappijen verdeeld:
 
@@ -80,7 +108,7 @@ Wijzigt de Invorderingswet 1990.
 
 2. Artikel 15aj, derde lid, is van overeenkomstige toepassing op een aan een dochtermaatschappij toe te rekenen reserve als bedoeld in artikel 13, eerste lid, onderdeel b of c, van de Wet op de inkomstenbelasting 1964, zoals dit artikel luidde op 31 december 1999.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke Referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking op 1 januari 2003 en vindt voor het eerst toepassing met betrekking tot de heffing over het boekjaar dat aanvangt op of na 1 januari 2003.
 

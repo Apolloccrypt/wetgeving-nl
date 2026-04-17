@@ -1,32 +1,58 @@
 ---
-title: "Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2023"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 16 oktober 2022, nr. POR/202206/000049, houdende aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023 (Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023)"
 identifier: "BWBR0047394"
-categorie: "Onderwijs"
-publicatiedatum: 2023-08-01
-laatste_update: 2023-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047394"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-08-01"
+last_updated: "2023-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047394"
+soort: "ministeriele-regeling"
+stam_id: "16546023"
+version_id: "29004512"
+internal_id: "C41057281"
+label_id: "16467094"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047394/2023-08-01/0"
+intitule_bron: "Stcrt.2022-28567"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-16"
+intitule_published: "2022-10-28"
+intitule_in_force: "2022-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28567"
+original_signed_date: "2022-10-16"
+original_published_date: "2022-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-28567"
+entry_into_force_date: "2023-08-01"
+jci_1_3: "jci1.3:c:BWBR0047394&z=2023-08-01&g=2023-08-01"
+jci_1_0: "1.0:c:BWBR0047394&g=2023-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2023"
+signed_date: "2022-10-16"
+entry_into_force: "2023-08-01"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs, van 16 oktober 2022, nr. POR/202206/000049, houdende aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023 (Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs in 2023)
 
 Gelet op de [artikelen 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=76), [139, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=139), en [141, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=141);
 
 Besluit:
 
-#### Artikel 1. Vaststelling nieuwe stichtings- en opheffingsnormen
+##### Artikel 1. Vaststelling nieuwe stichtings- en opheffingsnormen
 
 Voor de basisscholen worden voor elke gemeente de stichtings- en opheffingsnormen vastgesteld, zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047394&bijlage=1&z=2023-08-01&g=2023-08-01) bij deze regeling.
 
-#### Artikel 2. Vaststelling afzonderlijke opheffingsnormen
+##### Artikel 2. Vaststelling afzonderlijke opheffingsnormen
 
 Voor de basisscholen in delen van gemeenten, zoals omschreven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047394&bijlage=2&z=2023-08-01&g=2023-08-01) bij deze regeling, worden de opheffingsnormen vastgesteld zoals in die bijlage aangegeven.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2023 en vervalt met ingang van 1 augustus 2028.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanpassing van de stichtings- en opheffingsnormen voor het basisonderwijs 2023.
 

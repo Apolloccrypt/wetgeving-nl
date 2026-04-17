@@ -1,13 +1,39 @@
 ---
-title: "Regeling eenmalig bedrag verlenging GSM-vergunningen 2013"
+title: "Regeling van de Minister van Economische Zaken van, 19 december 2012, nr. WJZ/12357302, houdende voorschriften omtrent het eenmalig bedrag voor verlenging van de GSM-vergunningen (Regeling eenmalig bedrag verlenging GSM-vergunningen 2013)"
 identifier: "BWBR0032703"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032703"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032703"
+soort: "ministeriele-regeling"
+stam_id: "12033093"
+version_id: "20032742"
+internal_id: "C28138571"
+label_id: "12004854"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032703/2013-01-01/0"
+intitule_bron: "Stcrt.2012-27190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-19"
+intitule_published: "2012-12-31"
+intitule_in_force: "2012-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-27190"
+original_signed_date: "2012-12-19"
+original_published_date: "2012-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-27190"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032703&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032703&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalig bedrag verlenging GSM-vergunningen 2013"
+signed_date: "2012-12-19"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van, 19 december 2012, nr. WJZ/12357302, houdende voorschriften omtrent het eenmalig bedrag voor verlenging van de GSM-vergunningen (Regeling eenmalig bedrag verlenging GSM-vergunningen 2013)
 
 Handelend in overeenstemming met de Minister van Financiën;
@@ -16,7 +42,7 @@ Gelet op [artikel 3.3a, eerste lid, van de Telecommunicatiewet](https://wetten.o
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,11 +56,11 @@ In deze regeling wordt verstaan onder:
 
 - e. **ingetrokken vergunning:** de ingetrokken vergunning of het deel van de vergunning dat is ingetrokken als bedoeld in onderdeel d.
 
-#### Artikel 2
+##### Artikel 2
 
 Degene die op 26 februari 2013 om 0:00 uur houder is van een vergunning voor het gebruik van frequentieruimte genoemd in de eerste kolom van tabel 1 in de bijlage is voor het gebruik van de onder de verlengde vergunning vallende frequentieruimte genoemd in de tweede kolom van tabel 1, een eenmalig bedrag verschuldigd. Dit bedrag wordt berekend door de respectievelijke volgens de derde kolom van tabel 1 bij deze frequentieruimte behorende rekenprijs in tabel 2, te vermenigvuldigen met het respectievelijke aantal eenheden van 100 KHz van de betreffende frequentieruimte in de verlengde vergunning, en dit bedrag te vermenigvuldigen met de in tabel 3 opgenomen factor behorend bij het totale aantal maanden waarmee de vergunning voor deze frequentieruimte wordt verlengd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vergunninghouder, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032703&artikel=2&z=2013-01-01&g=2013-01-01), betaalt het op grond van artikel 2 verschuldigde bedrag binnen zes weken nadat het besluit tot vaststelling van het bedrag door de Minister aan hem is bekendgemaakt.
 
@@ -44,7 +70,7 @@ Degene die op 26 februari 2013 om 0:00 uur houder is van een vergunning voor het
 
 4. De Minister kan een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit, verrekenen met een vordering op de vergunninghouder op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032703&artikel=2&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een verlengde vergunning voor afloop van de vergunningstermijn wordt ingetrokken, herberekent de Minister het bedrag dat bij overeenkomstige toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032703&artikel=2&z=2013-01-01&g=2013-01-01) voor de ingetrokken vergunning verschuldigd zou zijn geweest als daarbij was uitgegaan van de werkelijke duur van de verlenging, naar boven afgerond in hele maanden.
 
@@ -60,11 +86,11 @@ Degene die op 26 februari 2013 om 0:00 uur houder is van een vergunning voor het
 
 5. De Minister kan een vordering van de vergunninghouder op grond van dit artikel verrekenen met een geldschuld jegens de vergunninghouder die verband houdt met een bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) genomen besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling eenmalig bedrag verlenging GSM-vergunningen 2013.
 

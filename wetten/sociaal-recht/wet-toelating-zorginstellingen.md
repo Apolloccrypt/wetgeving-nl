@@ -1,14 +1,41 @@
 ---
-title: "Wet toelating zorginstellingen"
+title: "Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheidsbemoeienis met het aanbod van zorginstellingen (Wet toelating zorginstellingen)"
 identifier: "BWBR0018906"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018906"
+country: "nl"
+rank: "wet"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018906"
+soort: "wet"
+stam_id: "7589783"
+version_id: "26859452"
+internal_id: "C39345861"
+label_id: "7578204"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018906/2022-01-01/0"
+intitule_bron: "Stb.2005-571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-10-20"
+intitule_published: "2005-11-22"
+intitule_in_force: "2005-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2020-181"
+original_signed_date: "2020-06-10"
+original_published_date: "2020-06-19"
+original_effect: "structuurwijziging"
+original_dossier: "34768"
+original_url_id: "stb-2020-181"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0018906&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0018906&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet toelating zorginstellingen"
+signed_date: "2020-06-10"
+entry_into_force: "2022-01-01"
 ---
-
-# Wet toelating zorginstellingen
+# Wet van 20 oktober 2005 tot vereenvoudiging van het stelsel van overheidsbemoeienis met het aanbod van zorginstellingen (Wet toelating zorginstellingen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +63,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2. Bij algemene maatregel van bestuur kan met betrekking tot daarbij aan te wijzen categorieën van instellingen worden bepaald dat delen van deze wet op die instellingen of een deel daarvan niet van toepassing zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met het oog op de totstandkoming van een beleidsregel van de Nederlandse Zorgautoriteit op grond van [artikel 57 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), kan bij ministeriële regeling met betrekking tot de instelling of instellingen waarvoor die beleidsregel geldt, worden bepaald dat delen van deze wet op die instellingen of een deel daarvan niet van toepassing zijn voor de duur van het in die beleidsregel bedoelde experiment.
 
@@ -48,69 +75,69 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Winstoogmerk
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk III. Toelating en bouwprocedure
 
-#### Artikel 5
+##### Artikel 5
 
 Een instelling heeft geen winstoogmerk, behoudens de bij algemene maatregel van bestuur aan te wijzen categorieën van instellingen.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 ### Hoofdstuk IV. Exploitatie
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### Hoofdstuk V. Sanering
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het bestuur van een instelling wendt zich tot het College sanering binnen zes weken na bekendmaking van een beslissing tot beëindiging van de uitvoering van bijzondere medische verrichtingen of beëindiging van het gebruik van apparatuur op grond van [artikel 6, vijfde lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6).
 
@@ -148,7 +175,7 @@ Vervallen
 
 11. Het College sanering is tevens belast met het toezicht op de sanering. Bij de algemene maatregel van bestuur, bedoeld in het vierde lid, kunnen hieromtrent regels worden gesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het bestuur van een instelling, met uitzondering van een academisch ziekenhuis als bedoeld in [artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.13), dat voornemens is om gebouwen of terreinen, of delen daarvan, blijvend niet meer voor de instelling te gebruiken, doet hiervan onverwijld mededeling aan het College sanering.
 
@@ -160,7 +187,7 @@ Vervallen
 
 #### Paragraaf 1. College bouw zorginstellingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Er is een College sanering zorginstellingen, dat rechtspersoonlijkheid bezit. Het College sanering is gevestigd in een door Onze Minister te bepalen plaats.
 
@@ -168,7 +195,7 @@ Vervallen
 
 3. Het College sanering wordt in en buiten rechte vertegenwoordigd door de voorzitter.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het College sanering bestaat uit ten hoogste drie leden, onder wie de voorzitter.
 
@@ -182,7 +209,7 @@ Vervallen
 
 6. Onze Minister stelt de bezoldiging en de regels ten aanzien van de rechtspositie van de leden van het College sanering vast.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het College sanering stelt een bestuursreglement vast.
 
@@ -192,13 +219,13 @@ Vervallen
 
 4. Het bestuursreglement behoeft de goedkeuring van Onze Minister. De goedkeuring kan worden onthouden indien het doelmatig en doeltreffend functioneren van het College sanering onvoldoende wordt gewaarborgd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor het personeel van het College sanering gelden de arbeidsvoorwaarden die zijn opgenomen in de collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn bij het ministerie, waaronder het College sanering ressorteert.
 
 2. Bij algemene maatregel van bestuur kan worden bepaald voor welke aangelegenheden van het eerste lid kan worden afgeweken.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het College sanering zendt jaarlijks voor 1 oktober aan Onze Minister een jaarplan voor het volgende kalenderjaar.
 
@@ -210,7 +237,7 @@ Vervallen
 
 - c. een meerjarenraming voor de vier kalenderjaren volgend op het begrotingsjaar.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onze Minister stelt jaarlijks voor 1 december het budget voor de beheerskosten van het College sanering voor het volgende kalenderjaar vast.
 
@@ -226,7 +253,7 @@ Vervallen
 
 7. Het door Onze Minister vastgestelde budget voor de beheerskosten van het College sanering wordt gedekt uit 's Rijks kas.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het College sanering zendt jaarlijks voor 15 maart aan Onze Minister een jaarverantwoording over het afgelopen kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het zesde lid.
 
@@ -244,7 +271,7 @@ Vervallen
 
 6. De accountant voegt bij de verklaring een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De onderdelen «werkprogramma» en «begroting» van het jaarplan, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=23&z=2022-01-01&g=2022-01-01), en het onderdeel «jaarrekening» van de jaarverantwoording, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=25&z=2022-01-01&g=2022-01-01), behoeven de goedkeuring van Onze Minister.
 
@@ -264,191 +291,191 @@ Vervallen
 
 4. Bij ministeriële regeling worden regels gesteld over de wijze waarop en de voorwaarden waaronder het budget, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=24&z=2022-01-01&g=2022-01-01), wordt vastgesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Na de goedkeuring, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VI&artikel=26&z=2022-01-01&g=2022-01-01), stelt het College sanering het jaarplan en de jaarverantwoording algemeen verkrijgbaar.
 
 2. Onze Minister brengt zijn oordeel over het functioneren van het College sanering ter kennis van beide Kamers der Staten-Generaal.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Onze Minister kan beleidsregels vaststellen met betrekking tot de werkwijze en de uitoefening van de taken van het College sanering.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een besluit van het College sanering kan bij koninklijk besluit worden vernietigd.
 
 2. Van een besluit tot vernietiging wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
 #### Paragraaf 2. College sanering zorginstellingen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 #### Paragraaf 3. Inlichtingen
 
-#### Artikel 33
+##### Artikel 33
 
 Het College sanering verstrekt desgevraagd aan de Nederlandse Zorgautoriteit, bedoeld in de [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), de voor de uitoefening van diens taak benodigde inlichtingen. De Nederlandse Zorgautoriteit kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 34
+##### Artikel 34
 
 Het College sanering verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen en gegevens. Het College sanering verleent aan door Onze Minister aangewezen personen toegang tot en inzage in alle gegevens die Onze Minister nodig acht voor de uitoefening van zijn taak.
 
 ### Hoofdstuk VIII. Sancties
 
-#### Artikel 35
+##### Artikel 35
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, behoudens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=II&artikel=5&z=2022-01-01&g=2022-01-01), zijn belast de bij besluit van Onze Minister aangewezen personen.
 
-#### Artikel 36
+##### Artikel 36
 
 De in [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VII&artikel=35&z=2022-01-01&g=2022-01-01) bedoelde personen beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Het College sanering is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bepaalde bij of krachtens de [artikelen 17, eerste en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=17&z=2022-01-01&g=2022-01-01), en [18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=V&artikel=18&z=2022-01-01&g=2022-01-01).
 
 ### Hoofdstuk IX. Rechtsbescherming
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
 ### Hoofdstuk X. Overgangs- en slotbepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 1. De [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=15&z=2022-01-01&g=2022-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=16&z=2022-01-01&g=2022-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=VIII&artikel=37&z=2022-01-01&g=2022-01-01), zoals die artikelen luidden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van [artikel I, onderdeel E, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=I), blijven ten aanzien van een instelling van toepassing voor zover die instelling in de periode, voorafgaand aan dat tijdstip aan de in de artikelen 15 en 16 opgenomen verplichtingen diende te voldoen.
 
 2. Ten aanzien van bezwaar en beroep tegen een besluit dat ter handhaving van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&hoofdstuk=IV&artikel=13&z=2022-01-01&g=2022-01-01) is genomen voorafgaand aan het tijdstip van inwerkingtreding van [artikel I, onderdeel E, van de Aanpassingswet Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043812&artikel=I), is het recht zoals dat gold onmiddellijk voorafgaand aan dat tijdstip van toepassing.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Bij algemene maatregel van bestuur kunnen, zo nodig in afwijking van deze wet, tijdelijke voorzieningen worden getroffen voor het geval het College sanering zijn uit de wet voortvloeiende verplichtingen niet naar behoren nakomt.
 
-#### Artikel 65
+##### Artikel 65
 
 Een krachtens deze wet vastgestelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. Zij treedt in werking op een tijdstip dat nadat dertig dagen na de overlegging zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der Kamers de wens te kennen wordt gegeven dat het in de algemene maatregel geregelde onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel ingetrokken.
 
-#### Artikel 66
+##### Artikel 66
 
 1. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 2. Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van het College sanering.
 
-#### Artikel 67
+##### Artikel 67
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 68
+##### Artikel 68
 
 Deze wet wordt aangehaald als: Wet toelating zorginstellingen.
 

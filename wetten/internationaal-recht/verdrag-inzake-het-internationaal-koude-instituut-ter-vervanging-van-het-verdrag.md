@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het Internationaal Koude-Instituut, ter vervanging van het Verdrag van 21 juni 1920, gewijzigd op 31 mei 1937"
 identifier: "BWBV0004967"
-categorie: "Internationaal recht"
-publicatiedatum: 1960-06-02
-laatste_update: 1960-06-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004967"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-06-02"
+last_updated: "1960-06-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004967"
+soort: "verdrag"
+stam_id: "10004411503"
+version_id: "10004617182"
+internal_id: "C10007098311"
+label_id: "10004397104"
+dtd_version: "2.0"
+original_entry_into_force: "1960-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004967/1960-06-02/0"
+intitule_bron: "Trb.1956-95"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1956-08-28"
+intitule_in_force: "1960-08-18"
+intitule_status: "goed"
+original_publication: "Trb.1956-95"
+original_published_date: "1956-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1956-95"
+entry_into_force_date: "1960-06-02"
+jci_1_3: "jci1.3:c:BWBV0004967&z=1960-06-02&g=1960-06-02"
+jci_1_0: "1.0:c:BWBV0004967&g=1960-06-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-06-02"
 ---
-
 # Verdrag inzake het Internationaal Koude-Instituut, ter vervanging van het Verdrag van 21 juni 1920, gewijzigd op 31 mei 1937
 
 De Regeringen van de bij het Internationale Koude-Instituut aangesloten landen,
@@ -24,13 +46,13 @@ Zijn overeengekomen als volgt:
 
 ## TITEL I. Doel, titel, zetel, taak
 
-#### Artikel I. Doel, titel, zetel
+##### Artikel I. Doel, titel, zetel
 
 1. De Verdragsluitende Partijen zullen nauw samenwerken bij de bestudering van de wetenschappelijke en technische op de koude betrekking hebbende problemen, alsmede bij de ontwikkeling van de toepassingen van de koude, welke de levensomstandigheden van de mens verbeteren.
 
 2. Te dien einde verbinden zij zich, het Internationale Koude-Instituut, hierna te noemen „het Instituut”, met zetel te Parijs, in stand te houden en te onderhouden.
 
-#### Artikel II. Taak
+##### Artikel II. Taak
 
 De doelstellingen van het Instituut, voor al datgene wat verband houdt met de studie, de opwekking en het gebruik van de kunstmatige koude op internationaal gebied, zijn de volgende:
 
@@ -54,7 +76,7 @@ De doelstellingen van het Instituut, voor al datgene wat verband houdt met de st
 
 ## TITEL II. Leden
 
-#### Artikel III. Landen-leden, toetredingen
+##### Artikel III. Landen-leden, toetredingen
 
 Van het Instituut maken deel uit, in de hoedanigheid van landen-leden, met de rechten en verplichtingen omschreven in dit Verdrag:
 
@@ -66,29 +88,29 @@ Van het Instituut maken deel uit, in de hoedanigheid van landen-leden, met de re
 
 - d). de gebieden welke op bovenvermelde lijst niet vermeld staan, indien door de Verdragsluitende Partijen welke verantwoordelijk zijn voor de internationale betrekkingen van deze gebieden, daarvan mededeling wordt gedaan aan het Instituut en indien hun toelating door het Uitvoerend Comité wordt aanvaard.
 
-#### Artikel IV. Categorieën van Landen-leden
+##### Artikel IV. Categorieën van Landen-leden
 
 1. Om de landen-leden in staat te stellen, aan de werkzaamheden van het Instituut deel te nemen naar de mate van hun economische belangrijkheid en van hun belangstelling voor de problemen van de koude, zijn zes categorieën van landen-leden vastgesteld, hoofdzakelijk ingedeeld naar de mate van hun financiële bijdrage, het aantal stemmen bij de beraadslagingen en het aantal kosteloos ontvangen publikaties.
 
 2. Elk deelnemend land bepaalt, bij welke categorie het wenst te worden ingedeeld.
 
-#### Artikel V. Opzegging, wijziging van categorie
+##### Artikel V. Opzegging, wijziging van categorie
 
 Ieder lid heeft het recht het lidmaatschap van het Instituut op te zeggen of zich te laten indelen bij een lagere categorie, doch dient daartoe een termijn van ten minste een jaar in acht te nemen. Het overgaan naar een hogere categorie kan op elk tijdstip plaatsvinden door storting van de aanvullende bijdrage.
 
-#### Artikel VI. Overdracht van rechten en verplichtingen aan een bevoegde instelling of organisatie
+##### Artikel VI. Overdracht van rechten en verplichtingen aan een bevoegde instelling of organisatie
 
 De landen-leden kunnen op eigen verantwoordelijkheid hun rechten en verplichtingen ten aanzien van het Instituut geheel of gedeeltelijk overdragen aan een bevoegde instelling of organisatie.
 
-#### Artikel VII. Contacten met nationale organisaties
+##### Artikel VII. Contacten met nationale organisaties
 
 Ieder lid beijvert zich om in de werkzaamheden van het Instituut de belangrijkste wetenschappelijke, technische en culturele lichamen en vakgroeperingen te betrekken, die in de vraagstukken op het gebied van de koude belangstellen.
 
-#### Artikel VIII. Ereleden
+##### Artikel VIII. Ereleden
 
 In speciale gevallen kunnen personen die bijzondere verdiensten hebben op het gebied van de koude en de koude-industrie, alsmede de begunstigers van het Instituut, door het Uitvoerend Comité van het Instituut tot erelid worden benoemd.
 
-#### Artikel IX. Toegevoegde leden
+##### Artikel IX. Toegevoegde leden
 
 1. Bevoegde personen, bedrijven en instellingen die deelnemen in de ontwikkeling van de koude-wetenschap of de koude-industrie en periodiek contributie bijdragen, waarvan de grootte en de wijze van betaling worden vastgesteld door het Besturend Comité, kunnen door dit Comité tot toegevoegd lid van het Instituut worden benoemd.
 
@@ -98,7 +120,7 @@ In speciale gevallen kunnen personen die bijzondere verdiensten hebben op het ge
 
 ### Algemene Conferentie
 
-#### Artikel X. Bevoegdheden van de Algemene Conferentie
+##### Artikel X. Bevoegdheden van de Algemene Conferentie
 
 1. Het Instituut wordt geplaatst onder het gezag en het toezicht van een Algemene Conferentie.
 
@@ -112,7 +134,7 @@ In speciale gevallen kunnen personen die bijzondere verdiensten hebben op het ge
 
 - d). het kiezen van de voorzitter en de vice-voorzitters van de Technische Raad en de voorzitters en de vice-voorzitters van de Commissies die deze Technische Raad completeren.
 
-#### Artikel XI. Samenstelling en werkwijze van de Algemene Conferentie
+##### Artikel XI. Samenstelling en werkwijze van de Algemene Conferentie
 
 1. De Algemene Conferentie is samengesteld uit vertegenwoordigers, aangewezen door de landen-leden of door de bevoegde organen en groeperingen welke in hun plaats zijn getreden.
 
@@ -134,7 +156,7 @@ In speciale gevallen kunnen personen die bijzondere verdiensten hebben op het ge
 
 6. De directeur is rechtens secretaris van de Algemene Conferentie.
 
-#### Artikel XII. De Voorzitter van de Algemene Conferentie
+##### Artikel XII. De Voorzitter van de Algemene Conferentie
 
 1. Bij de opening van haar gewone zitting kiest de Algemene Conferentie haar voorzitter.
 
@@ -144,7 +166,7 @@ In speciale gevallen kunnen personen die bijzondere verdiensten hebben op het ge
 
 4. De voorzitter van de Algemene Conferentie wordt uitgenodigd voor en neemt met adviserende stem deel aan de vergaderingen van het Uitvoerend Comité, de Technische Raad en het Besturend Comité.
 
-#### Artikel XIII. Bevoegdheden van het Uitvoerend Comité
+##### Artikel XIII. Bevoegdheden van het Uitvoerend Comité
 
 De uitvoerende macht van het Instituut berust bij een Uitvoerend Comité.
 
@@ -166,7 +188,7 @@ De uitvoerende macht van het Instituut berust bij een Uitvoerend Comité.
 
 Deze besluiten moeten in de eerstvolgende zitting der Algemene Conferentie ter bekrachtiging worden voorgelegd.
 
-#### Artikel XIV. Samenstelling en werkwijze van het Uitvoerend Comité
+##### Artikel XIV. Samenstelling en werkwijze van het Uitvoerend Comité
 
 1. Het Uitvoerend Comité bestaat uit gedelegeerden, aangewezen door de landen-leden of de hen vervangende instellingen en groeperingen op basis van één gedelegeerde per lid.
 
@@ -184,7 +206,7 @@ Deze besluiten moeten in de eerstvolgende zitting der Algemene Conferentie ter b
 
 8. Het Uitvoerend Comité stelt, indien nodig, binnen het kader van dit Verdrag en van het Algemeen Reglement zijn eigen huishoudelijk reglement vast.
 
-#### Artikel XV. De voorzitter en vice-voorzitters van het Uitvoerend Comité
+##### Artikel XV. De voorzitter en vice-voorzitters van het Uitvoerend Comité
 
 1. De voorzitter van het Uitvoerend Comité en de vice-voorzitters ten getale van 3 tot 6, worden gekozen door de Algemene Conferentie in haar gewone zitting.
 
@@ -196,7 +218,7 @@ Deze besluiten moeten in de eerstvolgende zitting der Algemene Conferentie ter b
 
 ### Besturend Comité
 
-#### Artikel XVI. Bevoegdheden, samenstelling en werkwijze van het Besturend Comité
+##### Artikel XVI. Bevoegdheden, samenstelling en werkwijze van het Besturend Comité
 
 1. Het Besturend Comité is, in de periode tussen de vergaderingen van het Uitvoerend Comité en overeenkomstig de besluiten van de Algemene Conferentie en van het Uitvoerend Comité, ermede belast, toe te zien op het functioneren van het Instituut, vooral op de financiële aangelegenheden, en de jaarlijkse begroting aan het Uitvoerend Comité voor te leggen.
 
@@ -212,7 +234,7 @@ Deze besluiten moeten in de eerstvolgende zitting der Algemene Conferentie ter b
 
 ### Technische Raad en Commissies
 
-#### Artikel XVII. Bevoegdheden, samenstelling en werkwijze van de Technische Raad
+##### Artikel XVII. Bevoegdheden, samenstelling en werkwijze van de Technische Raad
 
 1. De technische en wetenschappelijke problemen welke tot het gebied van het Instituut behoren, worden bestudeerd door een Technische Raad en door Commissies.
 
@@ -234,7 +256,7 @@ Deze besluiten moeten in de eerstvolgende zitting der Algemene Conferentie ter b
 
 10. De Technische Raad stelt zo nodig zijn eigen huishoudelijk reglement vast binnen het kader van dit Verdrag en van het Algemeen Reglement.
 
-#### Artikel XVIII. Bevoegdheden, samenstelling en werkwijze der Commissies
+##### Artikel XVIII. Bevoegdheden, samenstelling en werkwijze der Commissies
 
 1. Het aantal en de bevoegdheden van de Commissies zijn vastgelegd in het Algemeen Reglement.
 
@@ -254,13 +276,13 @@ De Technische Raad kan de voorzitter machtigen, tot tussentijdse benoemingen ove
 
 ### Werkgroepen
 
-#### Artikel XIX. Werkgroepen
+##### Artikel XIX. Werkgroepen
 
 Om de oplossing van bepaalde vraagstukken waarvoor het Instituut belangstelling heeft voor te bereiden, kunnen werkgroepen worden gevormd.
 
 ### Beheer
 
-#### Artikel XX. De directeur
+##### Artikel XX. De directeur
 
 1. De directeur is belast met de dagelijkse leiding van het Instituut; hij wordt bijgestaan door vaste medewerkers en door hulpkrachten.
 
@@ -268,7 +290,7 @@ Om de oplossing van bepaalde vraagstukken waarvoor het Instituut belangstelling 
 
 3. De directeur is rechtens secretaris van de Algemene Conferentie, van het Besturend Comité en van de Technische Raad.
 
-#### Artikel XXI. Het personeel in vaste dienst en de hulpkrachten
+##### Artikel XXI. Het personeel in vaste dienst en de hulpkrachten
 
 1. Het personeel in vaste dienst en de hulpkrachten worden benoemd en ontslagen door de directeur. Hun rechten en plichten zijn in het Algemeen Reglement vastgelegd.
 
@@ -276,7 +298,7 @@ Om de oplossing van bepaalde vraagstukken waarvoor het Instituut belangstelling 
 
 ### De Internationale Koude-Congressen
 
-#### Artikel XXII. Internationale Koude-Congressen
+##### Artikel XXII. Internationale Koude-Congressen
 
 1. Het Instituut heeft tot taak om, in de regel elke vier jaar, een Internationaal Koude-Congres te organiseren.
 
@@ -284,7 +306,7 @@ Om de oplossing van bepaalde vraagstukken waarvoor het Instituut belangstelling 
 
 ### Publikaties
 
-#### Artikel XXIII. Publikaties
+##### Artikel XXIII. Publikaties
 
 1. De werkzaamheden van de Technische Raad en van de Commissies, zomede de door de directie verzamelde inlichtingen van elke aard, vormen het onderwerp van periodiek verschijnende publikaties, uitgegeven door het Instituut en geredigeerd in de officiële talen van het Instituut.
 
@@ -294,7 +316,7 @@ Om de oplossing van bepaalde vraagstukken waarvoor het Instituut belangstelling 
 
 ## TITEL IV. Geldmiddelen
 
-#### Artikel XXIV. Inkomsten van het Instituut
+##### Artikel XXIV. Inkomsten van het Instituut
 
 De voor het functioneren van het Instituut noodzakelijke uitgaven worden bestreden door:
 
@@ -306,13 +328,13 @@ De voor het functioneren van het Instituut noodzakelijke uitgaven worden bestred
 
 - d). inkomsten uit bezit.
 
-#### Artikel XXV. Begroting
+##### Artikel XXV. Begroting
 
 1. Het Uitvoerend Comité controleert in zijn gewone jaarlijkse zitting de rekening en verantwoording over het afgelopen jaar. De begroting voor het volgend jaar wordt in de gewone jaarlijkse zitting door het Uitvoerend Comité goedgekeurd.
 
 2. Het Uitvoerend Comité kan het Besturend Comité machtigen, in de loop van het jaar in de begroting bepaalde wijzigingen aan te brengen.
 
-#### Artikel XXVI. De gewone jaarlijkse bijdragen van de landen-leden
+##### Artikel XXVI. De gewone jaarlijkse bijdragen van de landen-leden
 
 1. De gewone jaarlijkse bijdragen van de landen-leden kunnen worden voldaan in Franse franken dan wel in deviezen verhandelbaar in Frankrijk, indien de inwisselbaarheid door het debiteurland wordt gegarandeerd. Zij worden vastgesteld in goudfranken van een gewicht van 10/31e gram met een gehalte van 0.900 fijn en naar de categorie waartoe de leden behoren, op de volgende basis:
 
@@ -330,25 +352,25 @@ De voor het functioneren van het Instituut noodzakelijke uitgaven worden bestred
 
 3. Het nieuwe bedrag van de subsidies is van toepassing gedurende de volgende vier jaar.
 
-#### Artikel XXVII. Achterstallige bijdragen
+##### Artikel XXVII. Achterstallige bijdragen
 
 Landen-leden die meer dan twee jaar achterstand hebben in de betaling van hun jaarlijkse bijdrage, verliezen de voordelen aan het lidmaatschap verbonden, en in het bijzonder hun stemrecht, tot op het ogenblik waarop zij aan hun financiële verplichtingen hebben voldaan.
 
 ## TITEL V. Diverse clausules
 
-#### Artikel XXVIII. Betrekkingen met andere internationale organisaties
+##### Artikel XXVIII. Betrekkingen met andere internationale organisaties
 
 Het Instituut onderhoudt met de Gespecialiseerde Organisaties van de Verenigde Naties en met de andere internationale organisaties alle betrekkingen welke tot een samenwerking kunnen leiden, verband houdende met hun onderscheidene doelstellingen en met die van het Instituut.
 
-#### Artikel XXIX. Juridische bevoegdheden, voorrechten en immuniteiten
+##### Artikel XXIX. Juridische bevoegdheden, voorrechten en immuniteiten
 
 Het Instituut geniet op het grondgebied van elk der landen-leden de juridische bevoegdheden en de status nodig voor de tenuitvoerlegging van zijn taak en voor het bereiken van zijn doelstellingen, op de voorwaarden welke in bijzondere overeenkomsten met de landen-leden zijn vastgelegd.
 
-#### Artikel XXX. Officiële talen
+##### Artikel XXX. Officiële talen
 
 De officiële talen van het Instituut zijn Engels en Frans.
 
-#### Artikel XXXI. Wijzigingen in het Verdrag
+##### Artikel XXXI. Wijzigingen in het Verdrag
 
 1. Wijzigingen in dit Verdrag, welke geen inbreuk maken op de fundamentele doelstellingen van het Instituut en de verplichtingen van de landen-leden niet verzwaren, treden terstond na goedkeuring door de Algemene Conferentie in werking.
 
@@ -356,15 +378,15 @@ De officiële talen van het Instituut zijn Engels en Frans.
 
 3. In alle gevallen moeten de ontwerpen van wijziging door de directeur aan de regeringen van de landen-leden worden toegezonden ten minste zes maanden voordat de betreffende wijzigingen bij de Algemene Conferentie in behandeling komen.
 
-#### Artikel XXXII. Werkingsduur van het Verdrag
+##### Artikel XXXII. Werkingsduur van het Verdrag
 
 Dit Verdrag wordt gesloten voor een termijn van tien jaar, behoudens het recht om overeenkomstig de bepalingen van artikel 5 het Verdrag op te zeggen. Na het verstrijken van deze termijn wordt dit Verdrag iedere vier jaar stilzwijgend verlengd.
 
-#### Artikel XXXIII. Geschillen
+##### Artikel XXXIII. Geschillen
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek. Elk geschil met betrekking tot de interpretatie van dit Verdrag wordt onderworpen aan de uitspraak van het Internationale Gerechtshof of aan een arbitrage-procedure op voorwaarden welke door de Algemene Conferentie worden vastgesteld.
 
-#### Artikel XXXIV. Bekrachtiging en inwerkingtreding
+##### Artikel XXXIV. Bekrachtiging en inwerkingtreding
 
 1. Dit Verdrag staat tot 1 juni 1955 open ter ondertekening voor de landen-leden van het Internationale Koude-Instituut.
 

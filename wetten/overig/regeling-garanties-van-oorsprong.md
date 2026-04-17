@@ -1,13 +1,39 @@
 ---
-title: "Regeling garanties van oorsprong"
+title: "Regeling van de Minister van Economische Zaken van 9 december 2014, nr. WJZ/14198645, houdende regels omtrent garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit (Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit)"
 identifier: "BWBR0035971"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035971"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035971"
+soort: "ministeriele-regeling"
+stam_id: "12895083"
+version_id: "28916262"
+internal_id: "C40940171"
+label_id: "12864984"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035971/2026-01-01/0"
+intitule_bron: "Stcrt.2014-35704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-09"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-25998"
+original_signed_date: "2022-09-27"
+original_published_date: "2022-09-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-25998"
+entry_into_force_date: "2022-09-27"
+jci_1_3: "jci1.3:c:BWBR0035971&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035971&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling garanties van oorsprong"
+signed_date: "2022-09-27"
+entry_into_force: "2022-09-27"
 ---
-
 # Regeling van de Minister van Economische Zaken van 9 december 2014, nr. WJZ/14198645, houdende regels omtrent garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit (Regeling garanties van oorsprong voor energie uit hernieuwbare energiebronnen en HR-WKK-elektriciteit)
 
 Gelet op [richtlijn nr. 2012/27](32012L0027)/EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van de Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PbEU 2012, L 315) en [2009/28](32009L0028)/EU van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van [Richtlijn 2001/77/EG](32001L0077) en [Richtlijn 2003/30/EG](32003L0030) (PbEG 2009, L28) en de [artikelen 77 van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77), [66l van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=66l) en [29 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=29);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -118,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Onderzoek productie-installatie en openen rekening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien een producent de transmissie- of distributiesysteembeheerder verzoekt om de vaststelling, bedoeld in [artikel 3.63 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=3.63), te verrichten of het meetbedrijf verzoekt om de vaststelling, bedoeld in [artikel 27 van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=27) of [artikel 4 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=4), te verrichten, maakt hij daarbij gebruik van een formulier dat door de Minister beschikbaar wordt gesteld. De producent verklaart via dat formulier energie uit hernieuwbare bronnen of elektriciteit uit niet-hernieuwbare bronnen te produceren en verzoekt de transmissie- of distributiesysteembeheerder of het meetbedrijf de bijbehorende meetgegevens mede te delen aan de Minister. De producent overlegt bij het verzoek:
 
@@ -172,7 +198,7 @@ In deze regeling wordt verstaan onder:
 
 10. Indien een producent voornemens is een aanpassing door te voeren in zijn productie-installatie die een wijziging van een van de gegevens, vermeld in het vaststellingsverzoek, ten gevolge heeft, dient de producent alvorens hij die aanpassing daadwerkelijk doorvoert, een nieuw verzoek tot vaststelling in bij de transmissie- of distributiesysteembeheerder of, in geval van thermische energie uit hernieuwbare bronnen of ander gas uit hernieuwbare bronnen, het meetbedrijf. Het vierde tot en met negende lid zijn in dat geval van toepassing, de eerder verrichte vaststelling vervalt en de termijn van vijf jaar, bedoeld in het tweede lid, vangt aan op de eerste dag van de eerste kalendermaand na de datum van indiening van het nieuw ingevulde formulier.
 
-#### Artikel 3
+##### Artikel 3
 
 De minister verifieert voorafgaand aan het openen van een rekening door een leverancier, handelaar, marktdeelnemer die aggregeert ten behoeve van een actieve afnemer of handelaar in garanties van oorsprong de identiteit van de aanvrager van een rekening.
 
@@ -180,7 +206,7 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 #### § 3.1. Algemeen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De meetinrichting van de productie-installatie voldoet aan dezelfde nauwkeurigheidseisen als de meetinrichting op de aansluiting waarachter deze installatie zich bevindt en zoals deze zijn vastgesteld in:
 
@@ -196,7 +222,7 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 3. Een productie-installatie voor het produceren van gas uit hernieuwbare bronnen of ander gas uit hernieuwbare bronnen is voorzien van een nippel waarop gasanalyse apparatuur kan worden aangesloten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien zich achter een aansluiting één productie-installatie bevindt:
 
@@ -212,7 +238,7 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 4. Indien een producent als bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), beschikt over een Ferrarismeter met of zonder terugloopblokkering of een elektronische éénrichtingmeter, wordt de hoeveelheid elektriciteit uit hernieuwbare bronnen die door de betreffende productie-installaties op een transmissie- of distributiesysteem wordt ingevoed gesteld op nul kWh.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de productie-installatie van de producent voor de opwekking van elektriciteit gebruik maakt van elektriciteit die is onttrokken van een transmissie- of distributiesysteem, brengt de transmissie- of distributiesysteembeheerder de hoeveelheid elektriciteit die daarvoor is afgenomen van het net in mindering op de hoeveelheid elektriciteit.
 
@@ -220,7 +246,7 @@ De minister verifieert voorafgaand aan het openen van een rekening door een leve
 
 #### § 3.2. Meetprotocol en meetrapport
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor het verkrijgen van garanties van oorsprong stelt een producent die een productie-installatie in stand houdt voor:
 
@@ -246,13 +272,13 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 9. De producent legt het goedgekeurde meetprotocol over aan de minister, wanneer het verzoek om de vaststelling, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2026-01-01&g=2026-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat alle energiestromen die zijn omschreven in de meetvoorwaarden die zijn opgenomen in [bijlagen 2A tot en met 2F](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&bijlage=2A&z=2026-01-01&g=2026-01-01) en die de systeemgrens passeren gemeten worden volgens het meetprotocol.
 
 2. Indien een meetverantwoordelijke partij of meetbedrijf afwijkingen van het meetprotocol constateert meldt de meetverantwoordelijke partij of het meetbedrijf de Minister dat binnen vier weken na constatering.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien zich achter de aansluiting meerdere productie-installaties bevinden meet de producent de hoeveelheid energie uit hernieuwbare bronnen of HR- WKK-elektriciteit die de betreffende productie-installatie heeft opgewekt.
 
@@ -262,7 +288,7 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 4. Indien niet alle installaties achter de aansluiting een geschikte meetinrichting hebben, worden door de meetverantwoordelijke partij de meetwaarden voor energie die op een transmissie- of distributiesysteem is ingevoed gesteld op nul kWh.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de producent op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2026-01-01&g=2026-01-01) een meetprotocol vaststelt, draagt de producent er zorg voor dat per kalendermaand onder toepassing van het meetprotocol een meetrapport wordt opgesteld dat:
 
@@ -280,7 +306,7 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 5. Indien de producent een actieve afnemer is die elektriciteit of gas verkoopt aan een marktdeelnemer die ten behoeve van die producent aggregeert, overlegt de producent de meetrapporten aan de marktdeelnemer.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een producent of marktdeelnemer die aggregeert ten behoeve van een producent legt uiterlijk vier maanden na afloop van het kalenderjaar de meetrapporten die betrekking hebben op dat jaar over de minister.
 
@@ -306,7 +332,7 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 - b. een nationaal schema, waarvan de Europese Commissie op grond van artikel 30, zesde lid, van [richtlijn (EU) 2018/2001](32018L2001) heeft besloten dat dit voldoet aan de in die richtlijn bepaalde voorwaarden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In afwijking van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2026-01-01&g=2026-01-01) legt een producent of marktdeelnemer die aggregeert ten behoeve van een producent die een productie-installatie voor gas uit hernieuwbare bronnen in stand houdt het meetrapport uiterlijk 20 dagen na afloop van de kalendermaand waar het meetrapport betrekking op heeft over aan de transmissie- of distributiesysteembeheerder.
 
@@ -314,17 +340,17 @@ iedere vijf jaar een meetprotocol vast dat voldoet aan de meetvoorwaarden die zi
 
 3. De transmissie- of distributiesysteembeheerder vermeldt de in het tweede lid bedoelde hoeveelheid gas in het meetbericht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.1&artikel=5&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 #### § 4. Biomassa
 
-#### Artikel 14
+##### Artikel 14
 
 Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien in een productie-installatie zuivere biomassa wordt verwerkt, verklaart de producent of de marktdeelnemer die aggregeert ten behoeve van de producent dat de producent door middel van een daartoe geëigende methode als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=16&z=2026-01-01&g=2026-01-01) aan de hand van bemonstering per partij vaststelt dat het materiaal waaruit de energie uit hernieuwbare bronnen wordt opgewekt, is aan te merken als zuivere biomassa.
 
@@ -336,7 +362,7 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 5. Indien in een productie-installatie niet naar zijn aard zuiver biogas of niet-zuiver biogas wordt verwerkt, hanteert de producent ten aanzien van de grondstof die bij het ontstaan van dit biogas wordt gebruikt een daartoe geëigende methode om aan de hand van bemonstering per partij vast te stellen dat materiaal waaruit de energie uit hernieuwbare bronnen is opgewekt, is aan te merken als zuivere of als niet-zuivere biomassa.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De methode van vaststelling, bedoeld in [artikel 15, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=4&artikel=15&z=2026-01-01&g=2026-01-01), is geëigend als de producent ter zake van de werkzaamheden voor de bepaling van het biologisch afbreekbare gedeelte van de biomassa beschikt over:
 
@@ -352,7 +378,7 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 3. De certificeringinstantie is geaccrediteerd door de Raad voor Accreditatie of een andere accreditatie-instantie als bedoeld in artikel 4 van [verordening (EG) nr. 765/2008](32008R0765) van het Europees Parlement en de Raad van 9 juli 2008 tot vaststelling van de eisen inzake accreditatie en markttoezicht betreffende het verhandelen van producten en tot intrekking van [verordening (EEG) nr. 339/93](31993R0339) (PbEU 2008 L 218) of een accreditatie-instantie die is aangesloten bij Global Accreditation Cooperation Incorporated.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit artikel is uitsluitend van toepassing op producenten die:
 
@@ -390,19 +416,19 @@ Deze paragraaf is niet van toepassing op afvalverbrandingsinstallaties.
 
 11. Indien geen aanvullend onderzoek wordt uitgevoerd op het door de minister bepaalde tijdstip, dan wel indien uit het aanvullende onderzoek blijkt dat de biomassa niet aangemerkt kan worden als naar haar aard zuivere biomassa of naar zijn aard zuiver biogas, wordt de energie, opgewekt in het kalenderjaar waarin het aanvullende onderzoek wordt uitgevoerd, aangemerkt als energie uit niet-hernieuwbare bronnen.
 
-#### Artikel 18
+##### Artikel 18
 
 De minister bepaalt na ontvangst van het meetrapport op verzoek van de producent die een productie-installatie in stand houdt voor de productie van thermische energie uit hernieuwbare bronnen de nuttig aangewende warmte in MWh.
 
 #### § 5. Afvalverbrandingsinstallaties
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister stelt jaarlijks uiterlijk op 1 december ten behoeve van het daaropvolgende kalenderjaar een percentage vast dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van verbranding van huishoudelijk afval of vergelijkbaar bedrijfsafval in een afvalverbrandingsinstallatie, elektriciteit uit hernieuwbare bronnen of thermische energie uit hernieuwbare bronnen is.
 
 2. Indien de minister constateert dat in een afvalverbrandingsinstallatie of in een AVI-eenheid substantiële hoeveelheden homogemene afvalstromen worden verwerkt met een substantieel ander percentage dan bedoeld in het eerste lid, of dat er substantiële hoeveelheden fossiele brandstoffen worden gebruikt, kan de minister, in afwijking van het eerste lid, voor die afvalverbrandingsinstallatie of die AVI-eenheid het percentage vaststellen dat uitdrukt welk gedeelte van de totale hoeveelheid elektriciteit die wordt opgewekt door middel van die homogene afvalstromen, elektriciteit uit hernieuwbare bronnen of thermische energie uit hernieuwbare bronnen is.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit artikel is uitsluitend van toepassing op een producent als bedoeld in [artikel 7, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=7&z=2026-01-01&g=2026-01-01).
 
@@ -440,11 +466,11 @@ Rm-1 = het rendement als bedoeld in het derde lid voor de maand voorafgaand aan 
 
 #### § 6. Garanties van oorsprong en certificaten van oorsprong
 
-#### Artikel 21
+##### Artikel 21
 
 Een garantie van oorsprong heeft betrekking op een hoeveelheid energie ter grootte van 1 MWh.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De minister boekt garanties van oorsprong die betrekking hebben op de energie die is opgewekt vanaf de eerste dag van de kalendermaand waarin de producent het verzoek, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), heeft gedaan op de door de producent gespecificeerde rekening, indien:
 
@@ -454,7 +480,7 @@ Een garantie van oorsprong heeft betrekking op een hoeveelheid energie ter groot
 
 2. Indien de producent een afvalverbrandingsinstallatie in stand houdt, hanteert de minister bij het bepalen van het aantal uit te geven garanties van oorsprong de percentages, bedoeld in [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=5&artikel=19&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een rekeninghouder die over garanties van oorsprong beschikt kan deze garanties van oorsprong, niet zijnde garanties van oorsprong voor niet-netlevering overboeken op een andere rekening.
 
@@ -470,7 +496,7 @@ Een garantie van oorsprong heeft betrekking op een hoeveelheid energie ter groot
 
 7. Een producent of handelaar die over garanties van oorsprong voor gas uit hernieuwbare bronnen beschikt waarop de gegevens, genoemd in [artikel 24, derde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=6&artikel=24&z=2026-01-01&g=2026-01-01), zijn vermeld, die hij wil gebruiken of wil doen gebruiken om emissiereductie-eenheden als bedoeld in [artikel 9.7.3.1. van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.3.1) te verwerven, boekt deze garanties over op de rekening van de Nederlandse Emissieautoriteit.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Op een garantie van oorsprong wordt in ieder geval vermeld:
 
@@ -562,11 +588,11 @@ Een garantie van oorsprong heeft betrekking op een hoeveelheid energie ter groot
 
 - c. de afgegeven certificaten, bedoeld in [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2026-01-01&g=2026-01-01), in het geval van gebruik van biomassa.
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 1. Garantie van oorsprong, niet zijnde een garantie van oorsprong voor gas uit hernieuwbare bronnen of een garantie van oorsprong voor ander gas uit hernieuwbare bronnen die is overgeboekt aan de Nederlandse Emissieautoriteit, verliest haar geldigheid:
 
@@ -576,13 +602,13 @@ Vervallen
 
 2. Een garantie van oorsprong voor gas uit hernieuwbare bronnen of een garantie van oorsprong voor ander gas uit hernieuwbare bronnen die is overgeboekt aan de Nederlandse Emissieautoriteit verliest haar geldigheid uiterlijk na twaalf maanden na de einddatum van de productie van het gas uit hernieuwbare bronnen of het ander gas uit hernieuwbare bronnen waarvoor de garantie van oorsprong is afgeboekt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De minister trekt garanties van oorsprong die in strijd met het bepaalde in deze regeling zijn afgegeven, in.
 
 2. Indien de garanties van oorsprong, bedoeld in het eerste lid, al zijn afgeboekt, vermindert de minister het aantal garanties van oorsprong op de rekening van de rekeninghouder met het aantal ten onrechte afgegeven garanties van oorsprong.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De minister corrigeert het ten gevolge van een afwijking ontstane verschil door garanties van oorsprong bij te boeken of af te boeken van de desbetreffende rekening:
 
@@ -610,7 +636,7 @@ OT = aantal overschrijdingstijdvakken van één dag.
 
 #### § 7. Tarieven
 
-#### Artikel 29
+##### Artikel 29
 
 1. De tarieven ter dekking van de kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong zijn gebaseerd op de volgende kosten:
 
@@ -644,13 +670,13 @@ OT = aantal overschrijdingstijdvakken van één dag.
 
 3. De Minister kan een tarief in rekening brengen voor het op verzoek van de aanvrager herstellen van een aanvraag of een rekening.
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 #### § 7. Tarieven
 
-#### Artikel 31
+##### Artikel 31
 
 De [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0023563) wordt als volgt gewijzigd:
 
@@ -658,7 +684,7 @@ De [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://
 
 - 2. De [bijlagen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=4) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&bijlage=6) vervallen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Een rekeninghouder die beschikt over een rekening die op grond van [artikel 77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77), of [artikel 77cb, eerste lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=77cb) zoals dat luidde op 31 december 2014, is geopend bij de garantiebeheersinstantie, wordt geacht te beschikken over een rekening als bedoeld in [artikel 73, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=73).
 
@@ -670,7 +696,7 @@ De [Algemene uitvoeringsregeling stimulering duurzame energieproductie](https://
 
 5. Het aantal certificaten dat door Vertogas B.V. zijn geboekt op rekening als bewijs dat gas uit hernieuwbare bronnen is geproduceerd, wordt geacht te zijn geboekt op een rekening als bedoeld in [artikel 2.58, tweede lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.58).
 
-#### Artikel 33
+##### Artikel 33
 
 De volgende regelingen worden ingetrokken:
 
@@ -680,11 +706,11 @@ De volgende regelingen worden ingetrokken:
 
 - c. [Regeling garanties van oorsprong voor elektriciteit opgewekt in een installatie voor hoogrenderende warmtekrachtkoppeling](https://wetten.overheid.nl/jci1.3:c:BWBR0022539).
 
-#### Artikel 34
+##### Artikel 34
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling wordt aangehaald als: Regeling garanties van oorsprong.
 
@@ -1899,7 +1925,7 @@ Ingeval van niet zuivere biomassa
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Voor de toepassing van [artikel 2.59 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.59), [artikel 5 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=5) en [artikel 28a van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=28a) geldt een:
 
@@ -1909,7 +1935,7 @@ Voor de toepassing van [artikel 2.59 van de Energiewet](https://wetten.overheid.
 
 - c. garantie van oorsprong voor niet-netlevering voor elektriciteit uit niet-hernieuwbare bronnen slechts als bewijs voor levering aan een eindafnemer die aan dezelfde directe lijn aangesloten is als waar de energie is ingevoed of op wiens installatie de energie direct is ingevoed.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
@@ -1917,7 +1943,7 @@ Vervallen
 
 #### § 8. Overgangs- en slotbepalingen
 
-#### Artikel 33a
+##### Artikel 33a
 
 Etiketteringscertificaten die zijn afgegeven op grond van [artikel 15 van de Regeling afnemers en monitoring Elektriciteitswet 1998 en Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0016979&artikel=15) voor elektriciteit opgewekt in juli tot en met december 2019 worden vanaf 1 januari 2020 gezien als certificaten van oorsprong en vanaf 1 januari 2026 als garanties van oorsprong voor elektriciteit uit niet-hernieuwbare bronnen.
 
@@ -2244,7 +2270,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 7 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong](https://wetten.overheid.nl/jci1.3:c:BWBR0046743&artikel=7), [artikel 1, derde lid, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=1) en de [artikelen 2.58, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.58), [2.61, eerste en tweede lid, van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=2.61).
 
@@ -2296,7 +2322,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Het percentage, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035971&paragraaf=5&artikel=19&z=2026-01-01&g=2026-01-01), bedraagt in het kalenderjaar 2026 53 procent.
 

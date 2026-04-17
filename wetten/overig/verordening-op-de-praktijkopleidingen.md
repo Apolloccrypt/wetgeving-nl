@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de praktijkopleidingen"
 identifier: "BWBR0033795"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033795"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033795"
+soort: "pbo"
+stam_id: "12341533"
+version_id: "26384592"
+internal_id: "C37493151"
+label_id: "12313064"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033795/2022-01-01/0"
+intitule_bron: "Stcrt.2013-23902"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-08-27"
+intitule_in_force: "2013-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-71321"
+original_published_date: "2019-12-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-71321"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0033795&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0033795&g=2022-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2020-01-01"
 ---
-
 # Verordening op de praktijkopleidingen
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=5), [19, tweede lid, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19), [47](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=47), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=48) en [49 van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=49);
@@ -16,7 +38,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +62,7 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De Raad voor de Praktijkopleidingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Raad voor de Praktijkopleidingen.
 
@@ -54,11 +76,11 @@ In deze verordening en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Het bestuur bevordert dat in de Raad voor de Praktijkopleidingen de verschillende professionele omgevingen waarin de praktijkopleiding AA of de praktijkopleiding RA wordt gevolgd, evenwichtig zijn vertegenwoordigd.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur benoemt de voorzitter en de overige leden van de Raad voor de Praktijkopleidingen voor een periode van vier jaren.
 
@@ -72,7 +94,7 @@ Vervallen
 
 ### Hoofdstuk 2a. De examencommissie
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een stagebureau is binnen een onderneming, een instelling of de Rijksoverheid en een daarmee gelijk te stellen dienst verantwoordelijk voor de interne organisatie en de uitvoering van de praktijkopleiding van de aan de onderneming, de instelling of de overheid en een daarmee gelijk te stellen dienst verbonden trainees.
 
@@ -80,7 +102,7 @@ Vervallen
 
 3. Een stagebureau heeft een stagebestuur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur wijst op schriftelijk verzoek een stagebureau aan indien:
 
@@ -94,13 +116,13 @@ Vervallen
 
 3. Het bestuur kan de aanwijzing van een stagebureau intrekken indien door een stagebureau niet langer wordt voldaan aan de eisen, genoemd in het eerste lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een stagebureau verleent op verzoek van het bestuur medewerking aan een onderzoek en verschaft inlichtingen over de uitvoering van zijn taken, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2022-01-01&g=2022-01-01).
 
 2. Een accountant die is benoemd tot lid van een stagebestuur als bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=5&z=2022-01-01&g=2022-01-01), draagt er zorg voor dat het stagebureau waarvan hij (mede) het bestuur vormt, de aanwijzingen opvolgt die het bestuur geeft ten aanzien van de naleving van de eisen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=3&artikel=6&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het bestuur stelt binnen een stagebureau beoordelaars en praktijkbegeleiders aan.
 
@@ -112,7 +134,7 @@ Vervallen
 
 #### Paragraaf 4.1. Toelating tot de praktijkopleiding AA
 
-#### Artikel 9
+##### Artikel 9
 
 Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
@@ -124,7 +146,7 @@ Het bestuur laat tot de praktijkopleiding AA toe, degene die:
 
 #### Paragraaf 4.2. Toelating tot de praktijkopleiding RA
 
-#### Artikel 10
+##### Artikel 10
 
 Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
@@ -136,11 +158,11 @@ Het bestuur laat tot de praktijkopleiding RA toe, degene die:
 
 #### Paragraaf 5.1. De praktijkopleiding AA
 
-#### Artikel 11
+##### Artikel 11
 
 Aan de voortzetting van de praktijkopleiding na een onderbreking, kan het bestuur voorwaarden verbinden, waaronder het met goed gevolg afronden van een of meer cursussen of een aanvullende toets.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De trainee stelt gedurende de praktijkopleiding een portfolio samen.
 
@@ -152,11 +174,11 @@ Aan de voortzetting van de praktijkopleiding na een onderbreking, kan het bestuu
 
 #### Paragraaf 5.2. De praktijkopleiding RA
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -164,21 +186,21 @@ Vervallen
 
 #### Paragraaf 6.1. Het examen ter afsluiting van de praktijkopleiding AA
 
-#### Artikel 15
+##### Artikel 15
 
 Het examen ter afsluiting van de praktijkopleiding toetst de vaardigheid in de praktijk met betrekking tot de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
-#### Artikel 16
+##### Artikel 16
 
 Het bestuur wijst examinatoren aan die het examen, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=6&artikel=15&z=2022-01-01&g=2022-01-01) afnemen.
 
 #### Paragraaf 6.2. Het examen ter afsluiting van de praktijkopleiding RA
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
@@ -186,7 +208,7 @@ Vervallen
 
 #### Paragraaf 7.1. Toelating tot het examen ter afsluiting van de praktijkopleiding AA
 
-#### Artikel 19
+##### Artikel 19
 
 De trainee wordt tot het mondeling examen toegelaten indien:
 
@@ -194,23 +216,23 @@ De trainee wordt tot het mondeling examen toegelaten indien:
 
 - b. het getuigschrift voor de opleiding tot accountant, niet zijnde de praktijkopleiding, is overgelegd.
 
-#### Artikel 20
+##### Artikel 20
 
 Onder nader te stellen voorwaarden kan het bestuur personen die niet voldoen aan de eis, bedoeld in [artikel 19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=7&artikel=19&z=2022-01-01&g=2022-01-01), toelaten tot het examen, mits deze personen beroepswerkzaamheden hebben verricht waardoor zij voldoende ervaring hebben op het gebied van de vakgebieden, bedoeld in [artikel 46 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=46).
 
 #### Paragraaf 7.2. Toelating tot het examen ter afsluiting van de praktijkopleiding RA
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### Hoofdstuk 8. Vrijstellingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het bestuur kan op een daartoe strekkend verzoek een vrijstelling verlenen van de toetsing van het vermogen om de theoretische kennis in de praktijk toe te passen indien daarvoor relevante praktische werkervaring is opgedaan in het kader van een praktijkopleiding die is afgerond met een door de staat erkend examen of diploma.
 
@@ -222,17 +244,17 @@ Vervallen
 
 ### Hoofdstuk 9. Examengelden
 
-#### Artikel 24
+##### Artikel 24
 
 Degene die aan een praktijkopleiding, het mondeling examen of onderdelen daarvan wenst deel te nemen, wordt daartoe niet toegelaten dan na betaling van bij verordening vast te stellen bedragen.
 
 ### Hoofdstuk 10. Overige bepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 Het bestuur kan nadere voorschriften vaststellen over de in deze verordening geregelde onderwerpen.
 
-#### Artikel 26
+##### Artikel 26
 
 Een trainee kan om een herbeoordeling vragen van:
 
@@ -240,37 +262,37 @@ Een trainee kan om een herbeoordeling vragen van:
 
 - b. de beoordeling van het mondeling examen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een trainee kan bij het bestuur schriftelijk een met redenen omkleed verzoek doen tot toewijzing van een andere praktijkbegeleider dan wel een andere beoordelaar.
 
 2. Het bestuur beslist op dit verzoek binnen twee weken na ontvangst van dit verzoek.
 
-#### Artikel 28
+##### Artikel 28
 
 De [Verordening op de praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0025948) (Stcrt. 2006, 252, nadien gewijzigd) wordt ingetrokken.
 
-#### Artikel 29
+##### Artikel 29
 
 De [Verordening op de praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0022594) (Stcrt. 2007,12) wordt ingetrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de [Verordening op de praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0025948) (Stcrt. 2006, 252) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.
 
 2. Op praktijkopleidingen welke zijn aangevangen voorafgaand aan de inwerkingtreding van deze verordening, blijven de [Verordening op de praktijkstage](https://wetten.overheid.nl/jci1.3:c:BWBR0022594) (Stcrt. 2007, 12) en de daarop berustende bepalingen van toepassing, met uitzondering van de bepalingen houdende regels over de hoogte van de examengelden.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Deze verordening treedt in werking op 1 januari 2014.
 
 2. Deze verordening wordt aangehaald als: Verordening op de praktijkopleidingen.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Aan de toelating tot de praktijkopleiding van degene die beschikt over een getuigschrift, bedoeld in de [artikel 9, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=9&z=2022-01-01&g=2022-01-01), of [artikel 10, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0033795&hoofdstuk=4&artikel=10&z=2022-01-01&g=2022-01-01), dat bij het verzoek tot toelating ouder is dan zes jaar, kan het bestuur nadere voorwaarden verbinden, waaronder:
 
@@ -300,7 +322,7 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 
 ### Hoofdstuk 9. Examengelden
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Indien een trainee fraudeert, kan het bestuur:
 
@@ -324,7 +346,7 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 
 ### Hoofdstuk 10. Overige bepalingen
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Het bestuur kan een vrijstelling verlenen aan een trainee die:
 
@@ -338,7 +360,7 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 
 ### Hoofdstuk 8. Vrijstellingen
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Er is een examencommissie.
 
@@ -348,7 +370,7 @@ Aan de toelating tot de praktijkopleiding van degene die beschikt over een getui
 
 - b. de kwaliteit van de organisatie en de procedures met betrekking tot het examen te waarborgen.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De examencommissie bestaat uit zes leden, waaronder een voorzitter.
 

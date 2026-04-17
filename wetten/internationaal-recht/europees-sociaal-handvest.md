@@ -1,13 +1,38 @@
 ---
 title: "Europees Sociaal Handvest"
 identifier: "BWBV0001021"
-categorie: "Internationaal recht"
-publicatiedatum: 1980-05-22
-laatste_update: 1980-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001021"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-05-22"
+last_updated: "1980-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001021"
+soort: "verdrag"
+stam_id: "10002385263"
+version_id: "10002391942"
+internal_id: "C10006992311"
+label_id: "10002375654"
+dtd_version: "2.0"
+original_entry_into_force: "1980-05-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001021/1980-05-22/0"
+intitule_bron: "Trb.1962-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-04-22"
+intitule_published: "1962-01-12"
+intitule_in_force: "1980-05-12"
+intitule_status: "goed"
+original_publication: "Trb.1962-3"
+original_signed_date: "1980-04-22"
+original_published_date: "1962-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-3"
+entry_into_force_date: "1980-05-22"
+jci_1_3: "jci1.3:c:BWBV0001021&z=1980-05-22&g=1980-05-22"
+jci_1_0: "1.0:c:BWBV0001021&g=1980-05-22"
+citeertitel_status: "redactioneel"
+signed_date: "1980-04-22"
+entry_into_force: "1980-05-22"
 ---
-
 # Europees Sociaal Handvest
 
 De ondertekenende Regeringen, Leden van de Raad van Europa,
@@ -26,7 +51,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL II
 
-#### Artikel 1. Recht op arbeid
+##### Artikel 1. Recht op arbeid
 
 Ten einde de onbelemmerde uitoefening van het recht op arbeid te waarborgen verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -38,7 +63,7 @@ Ten einde de onbelemmerde uitoefening van het recht op arbeid te waarborgen verb
 
 - 4. te zorgen voor doelmatige beroepskeuzevoorlichting, vakopleiding en revalidatie en deze te bevorderen.
 
-#### Artikel 2. Recht op billijke arbeidsvoorwaarden
+##### Artikel 2. Recht op billijke arbeidsvoorwaarden
 
 Ten einde de onbelemmerde uitoefening van het recht op billijke arbeidsvoorwaarden te waarborgen verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -52,7 +77,7 @@ Ten einde de onbelemmerde uitoefening van het recht op billijke arbeidsvoorwaard
 
 - 5. een wekelijkse rusttijd te waarborgen, die zoveel mogelijk samenvalt met de dag die volgens traditie of gewoonte in het betrokken land of in de betrokken streek als rustdag wordt erkend.
 
-#### Artikel 3. Recht op veilige en hygiënische arbeidsomstandigheden
+##### Artikel 3. Recht op veilige en hygiënische arbeidsomstandigheden
 
 Ten einde de onbelemmerde uitoefening van het recht op veilige en hygiënische arbeidsomstandigheden te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -62,7 +87,7 @@ Ten einde de onbelemmerde uitoefening van het recht op veilige en hygiënische a
 
 - 3. zo nodig overleg te plegen met organisaties van werkgevers en werknemers omtrent maatregelen, bedoeld om de bedrijfsveiligheid en -hygiëne te verhogen.
 
-#### Artikel 4. Recht op billijke beloning
+##### Artikel 4. Recht op billijke beloning
 
 Om de onbelemmerde uitoefening van het recht op een billijke beloning te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -78,11 +103,11 @@ Om de onbelemmerde uitoefening van het recht op een billijke beloning te waarbor
 
 De uitoefening van deze rechten dient te worden verwezenlijkt door middel van vrijelijk gesloten collectieve arbeidsovereenkomsten, bij de wet ingestelde procedures voor loonvaststelling, of andere bij de nationale omstandigheden passende middelen.
 
-#### Artikel 5. Recht op vrijheid van organisatie
+##### Artikel 5. Recht op vrijheid van organisatie
 
 Ten einde het recht van werknemers en werkgevers tot oprichting van plaatselijke, nationale of internationale organisaties voor de bescherming van hun economische en sociale belangen en tot aansluiting bij deze organisaties te waarborgen, verplichten de Overeenkomstsluitende Partijen zich dit recht op generlei wijze door de nationale wetgeving of door de toepassing daarvan te laten beperken. De mate waarin de in dit artikel voorziene waarborgen van toepassing zullen zijn op de politie, wordt bepaald door nationale wetten of verordeningen. Het beginsel volgens hetwelk deze waarborgen van toepassing zullen zijn ten aanzien van leden der strijdkrachten, en de mate waarin deze waarborgen van toepassing zullen zijn op personen in deze categorie, wordt eveneens bepaald door nationale wetten of verordeningen.
 
-#### Artikel 6. Recht op collectief onderhandelen
+##### Artikel 6. Recht op collectief onderhandelen
 
 Ten einde de onbelemmerde uitoefening van het recht op collectief onderhandelen te waarborgen verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -94,7 +119,7 @@ Ten einde de onbelemmerde uitoefening van het recht op collectief onderhandelen 
 
 - 4. het recht van werknemers en werkgevers op collectief optreden in gevallen van belangengeschillen, met inbegrip van het stakingsrecht, behoudens verplichtingen uit hoofde van reeds eerder gesloten collectieve arbeidsovereenkomsten.
 
-#### Artikel 7. Recht van kinderen en jeugdige personen op bescherming
+##### Artikel 7. Recht van kinderen en jeugdige personen op bescherming
 
 Om de onbelemmerde uitoefening van het recht van kinderen en jeugdige personen op bescherming te waarborgen, verplichten de Overeenkomstsluitende Partijen zich:
 
@@ -118,7 +143,7 @@ Om de onbelemmerde uitoefening van het recht van kinderen en jeugdige personen o
 
 - 10. een bijzondere bescherming tegen gevaren voor lichaam en geest, waaraan kinderen en jeugdige personen zijn blootgesteld, te waarborgen, in het bijzonder tegen die gevaren welke al dan niet rechtstreeks uit hun arbeid voortvloeien.
 
-#### Artikel 8. Recht van vrouwelijke werknemers op bescherming
+##### Artikel 8. Recht van vrouwelijke werknemers op bescherming
 
 Om de onbelemmerde uitoefening van het recht van vrouwelijke werknemers op bescherming te waarborgen, verplichten de Overeenkomstsluitende Partijen zich:
 
@@ -134,11 +159,11 @@ Om de onbelemmerde uitoefening van het recht van vrouwelijke werknemers op besch
 
 - (b). de tewerkstelling van vrouwelijke werknemers voor ondergrondse mijnarbeid te verbieden, en, zo nodig, voor alle andere arbeid die voor hen ongeschikt is op grond van de gevaarlijke, voor de gezondheid schadelijke of vermoeiende aard daarvan.
 
-#### Artikel 9. Recht op beroepskeuzevoorlichting
+##### Artikel 9. Recht op beroepskeuzevoorlichting
 
 Ten einde de onbelemmerde uitoefening van het recht op beroepskeuzevoorlichting te waarborgen, verplichten de Overeenkomstsluitende Partijen zich, zo nodig een dienst in het leven te roepen of hieraan medewerking te verlenen, die allen, met inbegrip van de minder-validen, dient te helpen bij de oplossing van vraagstukken met betrekking tot beroepskeuze en vorderingen in een beroep, met inachtneming van hun persoonlijke eigenschappen, alsmede van het verband tussen deze en de bestaande werkgelegenheid; deze hulp dient kosteloos te worden gegeven, zowel aan jeugdige personen, met inbegrip van schoolkinderen, als aan volwassenen.
 
-#### Artikel 10. Recht op vakopleiding
+##### Artikel 10. Recht op vakopleiding
 
 Ten einde de onbelemmerde uitoefening van het recht op vakopleiding te waarborgen, verplichten de Overeenkomstsluitende Partijen zich:
 
@@ -162,7 +187,7 @@ Ten einde de onbelemmerde uitoefening van het recht op vakopleiding te waarborge
 
 - (d). in overleg met de organisaties van werkgevers en werknemers, de doeltreffendheid van leerlingstelsels en andere opleidingsstelsels voor jeugdige werknemers door het uitoefenen van voldoende toezicht te waarborgen, alsmede zorg te dragen voor afdoende bescherming van jeugdige arbeiders in het algemeen.
 
-#### Artikel 11. Recht op bescherming van de gezondheid
+##### Artikel 11. Recht op bescherming van de gezondheid
 
 Ten einde.de onbelemmerde uitoefening van het recht op bescherming van de gezondheid te waarborgen, verplichten de Overeenkomstsluitende Partijen zich, hetzij rechtstreeks, hetzij in samenwerking met openbare of particuliere organisaties, passende maatregelen te nemen o.a. met het oogmerk:
 
@@ -172,7 +197,7 @@ Ten einde.de onbelemmerde uitoefening van het recht op bescherming van de gezond
 
 - 3. epidemische, endemische en andere ziekten zoveel mogelijk te voorkomem
 
-#### Artikel 12. Recht op sociale zekerheid
+##### Artikel 12. Recht op sociale zekerheid
 
 Ten einde de onbelemmerde uitoefening van het recht op sociale zekerheid te waarborgen, verplichten de Overeenkomstsluitende Partijen zich:
 
@@ -188,7 +213,7 @@ Ten einde de onbelemmerde uitoefening van het recht op sociale zekerheid te waar
 
 - (b). de verlening, handhaving en het herstel van rechten op sociale zekerheid, o.a. door het samentellen van tijdvakken van verzekering of tewerkstelling der betrokkenen overeenkomstig de wetgeving van elk der Overeenkomstsluitende Partijen.
 
-#### Artikel 13. Recht op sociale en geneeskundige bijstand
+##### Artikel 13. Recht op sociale en geneeskundige bijstand
 
 Ten einde de onbelemmerde uitoefening van het recht op sociale en geneeskundige bijstand te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -200,7 +225,7 @@ Ten einde de onbelemmerde uitoefening van het recht op sociale en geneeskundige 
 
 - 4. de bepalingen sub 1, 2 en 3 van dit artikel, op onderdanen van andere Overeenkomstsluitende Partijen die wettig binnen hun grondgebied verblijven, toe te passen op gelijke wijze als op hun eigen onderdanen, in overeenstemming met hun verplichtingen krachtens het [Europese Verdrag betreffende sociale en medische bijstand](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), op 11 december 1953 te Parijs ondertekend.
 
-#### Artikel 14. Recht op het gebruik van diensten voor sociale zorg
+##### Artikel 14. Recht op het gebruik van diensten voor sociale zorg
 
 Ten einde de onbelemmerde uitoefening van het recht op het gebruik van diensten voor sociale zorg te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -208,7 +233,7 @@ Ten einde de onbelemmerde uitoefening van het recht op het gebruik van diensten 
 
 - 2. deelneming van individuele personen en particuliere of andere organisaties aan de instelling en instandhouding van dergelijke diensten te stimuleren.
 
-#### Artikel 15. Recht van lichamelijk of geestelijk minder-validen op vakopleiding en revalidatie in beroep en samenleving
+##### Artikel 15. Recht van lichamelijk of geestelijk minder-validen op vakopleiding en revalidatie in beroep en samenleving
 
 Ten einde de onbelemmerde uitoefening van het recht van lichamelijk of geestelijk minder-validen op vakopleiding en revalidatie in beroep en samenleving te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -216,15 +241,15 @@ Ten einde de onbelemmerde uitoefening van het recht van lichamelijk of geestelij
 
 - 2. passende maatregelen te treffen voor de tewerkstelling van minder-validen, zoals het oprichten van gespecialiseerde bemiddelingsbureaus, het verschaffen van gelegenheid voor beschutte arbeid en maatregelen tot aanmoediging van werkgevers minder-validen in dienst te nemen.
 
-#### Artikel 16. Recht van hei gezin op sociale, wettelijke en economische bescherming
+##### Artikel 16. Recht van hei gezin op sociale, wettelijke en economische bescherming
 
 Ten einde de noodzakelijke voorwaarden te scheppen voor de volledige ontplooiing van het gezin als fundamentele maatschappelijke eenheid, verbinden de Overeenkomstsluitende Partijen zich de economische, wettelijke en sociale bescherming van het gezinsleven te bevorderen, o.a. door het doen van sociale en gezinsuitkeringen, het treffen van fiscale regelingen, het verschaffen van gezinshuisvesting, en het doen van uitkeringen bij huwelijk.
 
-#### Artikel 17. Recht van moeders en kinderen op sociale en economische bescherming
+##### Artikel 17. Recht van moeders en kinderen op sociale en economische bescherming
 
 Ten einde de onbelemmerde uitoefening van het recht van moeders en kinderen op sociale en economische bescherming te waarborgen, treffen de Overeenkomstsluitende Partijen alle nuttige en noodzakelijke maatregelen te dien einde, met inbegrip van de oprichting of instandhouding van passende instellingen of diensten.
 
-#### Artikel 18. Recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van andere Overeenkomstsluitende Partijen
+##### Artikel 18. Recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van andere Overeenkomstsluitende Partijen
 
 Ten einde de onbelemmerde uitoefening van het recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van elke andere Overeenkomstsluitende Partij te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -236,7 +261,7 @@ Ten einde de onbelemmerde uitoefening van het recht op het uitoefenen van een op
 
 - 4. het recht van hun onderdanen om het land te verlaten ten einde op het grondgebied van de andere Overeenkomstsluitende Partijen een op winst gerichte bezigheid uit te oefenen.
 
-#### Artikel 19. Recht van migrerende werknemers en hun gezinnen op bescherming en bijstand
+##### Artikel 19. Recht van migrerende werknemers en hun gezinnen op bescherming en bijstand
 
 Ten einde de onbelemmerde uitoefening van het recht van migrerende werknemers en hun gezinnen op bescherming en bijstand op het grondgebied van elke andere Overeenkomstsluitende Partij te waarborgen, verbinden de Overeenkomstsluitende Partijen zich:
 
@@ -268,7 +293,7 @@ Ten einde de onbelemmerde uitoefening van het recht van migrerende werknemers en
 
 ## DEEL III
 
-#### Artikel 20. Verplichtingen
+##### Artikel 20. Verplichtingen
 
 1. Ieder der Overeenkomstsluitende Partijen is verplicht:
 
@@ -288,25 +313,25 @@ Ten einde de onbelemmerde uitoefening van het recht van migrerende werknemers en
 
 ## DEEL IV
 
-#### Artikel 21. Rapporten inzake de aanvaarde bepalingen
+##### Artikel 21. Rapporten inzake de aanvaarde bepalingen
 
 De Overeenkomstsluitende Partijen zenden, in een nader door het Comité van Ministers te bepalen vorm, tweejaarlijkse rapporten inzake de toepassing van de door hen aanvaarde bepalingen van deel II van het Handvest aan de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 22. Rapporten inzake de niet aanvaarde bepalingen
+##### Artikel 22. Rapporten inzake de niet aanvaarde bepalingen
 
 De Overeenkomstsluitende Partijen doen de Secretaris-Generaal van de Raad van Europa met passende tussenruimten, op verzoek van het Comité van Ministers, rapporten toekomen inzake de bepalingen van deel II van het Handvest, welke zij noch ten tijde van de bekrachtiging of goedkeuring noch bij latere kennisgeving hebben aanvaard. Het Comité van Ministers bepaalt op gezette tijden ten aanzien van welke bepalingen deze rapporten zullen worden gevraagd en in welke vorm deze moeten worden ingediend.
 
-#### Artikel 23. Verstrekking van exemplaren
+##### Artikel 23. Verstrekking van exemplaren
 
 1. Ieder der Overeenkomstsluitende Partijen zendt exemplaren van de in de artikelen 21 en 22 bedoelde rapporten aan haar nationale organisaties welke zijn aangesloten bij de internationale organisaties van werkgevers en werknemers, die overeenkomstig artikel 27, lid 2, worden uitgenodigd zich te doen vertegenwoordigen op de bijeenkomsten van het sub-comité van het sociale regeringscomité.
 
 2. De Overeenkomstsluitende Partijen doen de Secretaris-Generaal de van deze nationale organisaties ontvangen opmerkingen over genoemde rapporten toekomen, indien laatstgenoemden dit verzoeken.
 
-#### Artikel 24. Bestudering van de rapporten
+##### Artikel 24. Bestudering van de rapporten
 
 De krachtens de artikelen 21 en 22 aan de Secretaris-Generaal toegezonden rapporten worden bestudeerd door een comité van deskundigen, dat eveneens de beschikking dient te hebben over alle overeenkomstig artikel 23, lid 2, aan de Secretaris-Generaal toegezonden opmerkingen.
 
-#### Artikel 25. Comité van deskundigen
+##### Artikel 25. Comité van deskundigen
 
 1. Het Comité van deskundigen bestaat uit ten hoogste zeven leden, die door het Comité van Ministers worden benoemd uit een lijst van door de Overeenkomstsluitende Partijen voorgedragen onafhankelijke deskundigen van onbesproken reputatie en erkende bekwaamheid op het gebied van internationale sociale aangelegenheden.
 
@@ -316,11 +341,11 @@ De krachtens de artikelen 21 en 22 aan de Secretaris-Generaal toegezonden rappor
 
 4. Een lid van het Comité van deskundigen, dat benoemd is in de plaats van een lid wiens mandaat nog niet is afgelopen, heeft zitting voor de resterende tijd van het mandaat van zijn voorganger.
 
-#### Artikel 26. Deelneming van de Internationale Arbeidsorganisatie
+##### Artikel 26. Deelneming van de Internationale Arbeidsorganisatie
 
 De Internationale Arbeidsorganisatie wordt uitgenodigd een vertegenwoordiger aan te wijzen, die met raadgevende stem de beraadslagingen van het Comité van deskundigen bijwoont.
 
-#### Artikel 27. Sub-comité van het sociale regeringscomité
+##### Artikel 27. Sub-comité van het sociale regeringscomité
 
 1. De rapporten van de Overeenkomstsluitende Partijen en de conclusies van het Comité van deskundigen worden aan een sub-comité van het sociale regeringscomité van de Raad van Europa ter bestudering voorgelegd.
 
@@ -328,17 +353,17 @@ De Internationale Arbeidsorganisatie wordt uitgenodigd een vertegenwoordiger aan
 
 3. Het Sub-comité legt een rapport met zijn conclusies, alsmede het rapport van het Comité van deskundigen, voor aan het Comité van Ministers.
 
-#### Artikel 28. Raadgevende Vergadering
+##### Artikel 28. Raadgevende Vergadering
 
 De Secretaris-Generaal van de Raad van Europa doet de conclusies van het Comité van deskundigen toekomen aan de Raadgevende Vergadering. De Raadgevende Vergadering stelt het Comité van Ministers in kennis van haar mening over deze conclusies.
 
-#### Artikel 29. Comité van Ministers
+##### Artikel 29. Comité van Ministers
 
 Het Comité van Ministers kan met een meerderheid van twee derde der leden die hierin zitting hebben, op grond van het rapport van het Sub-comité en na raadpleging van de Raadgevende Vergadering, tot ieder der Overeenkomstsluitende Partijen alle noodzakelijke aanbevelingen richten.
 
 ## DEEL V
 
-#### Artikel 30. Afwijking in geval van oorlog of noodtoestand
+##### Artikel 30. Afwijking in geval van oorlog of noodtoestand
 
 1. In geval van oorlog of een andere noodtoestand, waardoor het voortbestaan van het land wordt bedreigd, kan iedere Overeenkomstsluitende Partij maatregelen nemen in afwijking van de in het onderhavige Handvest genoemde verplichtingen, doch uitsluitend voor zover de omstandigheden zulks absoluut vereisen en deze maatregelen niet in strijd zijn met andere volkenrechtelijke verplichtingen,
 
@@ -346,23 +371,23 @@ Het Comité van Ministers kan met een meerderheid van twee derde der leden die h
 
 3. De Secretaris-Generaal stelt de overige Overeenkomstsluitende Partijen, alsmede de Directeur-Generaal van het Internationale Arbeidsbureau, op de hoogte van alle overeenkomstig lid 2 van dit artikel ontvangen mededelingen.
 
-#### Artikel 31. Beperkingen
+##### Artikel 31. Beperkingen
 
 1. Wanneer de in deel I genoemde rechten en beginselen en de in deel II geregelde onbelemmerde uitoefening en toepassing hiervan zijn verwezenlijkt, kunnen zij buiten de in deel I en deel II vermelde gevallen generlei beperkingen ondergaan, met uitzondering van die welke bij de wet zijn voorgeschreven en in een democratische samenleving noodzakelijk zijn voor de bescherming van de rechten en vrijheden van anderen en voor de bescherming van de openbare orde, de nationale veiligheid, de volksgezondheid of de goede zeden.
 
 2. De krachtens het onderhavige Handvest geoorloofde beperkingen op de daarin vermelde rechten en verplichtingen kunnen uitsluitend worden toegepast voor het doel waarvoor zij zijn bestemd.
 
-#### Artikel 32. Verhouding van het Handvest tot het nationale recht of tot internationale overeenkomsten
+##### Artikel 32. Verhouding van het Handvest tot het nationale recht of tot internationale overeenkomsten
 
 De bepalingen van het onderhavige Handvest laten de bepalingen van nationaal recht en van alle reeds van kracht zijnde of nog van kracht wordende bilaterale of multilaterale verdragen of overeenkomsten welke gunstiger zijn voor de beschermde personen, onverlet.
 
-#### Artikel 33. Toepassing door middel van collectieve overeenkomsten
+##### Artikel 33. Toepassing door middel van collectieve overeenkomsten
 
 1. In de lid-staten waar de bepalingen van de leden 1, 2, 3, 4 en 5 van artikel 2, de leden 4, 6 en 7 van artikel 7, en de leden 1, 2, 3 en 4 van artikel 10 van deel II van het onderhavige Handvest gewoonlijk behoren tot het terrein van overeenkomsten tussen werkgevers of organisaties van werkgevers en organisaties van werknemers, of gewoonlijk anders dan krachtens de wet worden toegepast, kunnen de Overeenkomstsluitende Partijen dienovereenkomstige verplichtingen aangaan, welke verplichtingen zullen worden geacht te zijn nagekomen, zodra deze bepalingen door zodanige overeenkomsten of andere middelen worden toegepast op de overgrote meerderheid der betrokken werknemers.
 
 2. In de lid-staten waar deze bepalingen gewoonlijk tot het terrein van de wetgeving behoren, kunnen de Overeenkomstsluitende Partijen dienovereenkomstige verplichtingen aangaan, welke verplichtingen zullen worden geacht te zijn nagekomen, zodra deze bepalingen krachtens de wet worden toegepast op de overgrote meerderheid der betrokken werknemers.
 
-#### Artikel 34. Territoriale toepassing
+##### Artikel 34. Territoriale toepassing
 
 1. Dit Handvest is van toepassing op het grondgebied van het moederland van elk der Overeenkomstsluitende Partijen. Elke ondertekenende regering kan op het tijdstip van ondertekening, dan wel op het tijdstip van de nederlegging van haar akte van bekrachtiging of goedkeuring, het grondgebied dat voor de toepassing van dit Handvest als haar moederland dient te worden beschouwd, nader omschrijven in een aan de Secretaris-Generaal van de Raad van Europa te richten verklaring.
 
@@ -374,7 +399,7 @@ De bepalingen van het onderhavige Handvest laten de bepalingen van nationaal rec
 
 5. De Secretaris-Generaal stelt de overige ondertekenende regeringen en de Directeur-Generaal van het Internationale Arbeidsbureau in kennis van elke door hem uit hoofde van dit artikel ontvangen kennisgeving.
 
-#### Artikel 35. Ondertekening, bekrachtiging, inwerkingtreding
+##### Artikel 35. Ondertekening, bekrachtiging, inwerkingtreding
 
 1. Elk lid van de Raad van Europa kan dit Handvest ondertekenen. Het moet worden bekrachtigd of goedgekeurd. De akten van bekrachtiging of goedkeuring worden nedergelegd bij de Secretaris-Generaal.
 
@@ -384,11 +409,11 @@ De bepalingen van het onderhavige Handvest laten de bepalingen van nationaal rec
 
 4. De Secretaris-Generaal stelt alle leden van de Raad van Europa en de Directeur-Generaal van het Internationale Arbeidsbureau in kennis van de inwerkingtreding van dit Handvest, van de namen der Overeenkomstsluitende Partijen die het Handvest hebben bekrachtigd of goedgekeurd, alsmede van elke op een later tijdstip verrichte nederlegging van een akte van bekrachtiging of goedkeuring.
 
-#### Artikel 36. Wijzigingen
+##### Artikel 36. Wijzigingen
 
 Elk lid van de Raad van Europa kan wijzigingen op dit Handvest voorstellen door deze mede te delen aan de Secretaris-Generaal. De Secretaris-Generaal brengt de aldus voorgestelde wijzigingen ter kennis van de overige leden van de Raad van Europa, waarna deze voorstellen door het Comité van Ministers worden onderzocht en voor advies aan de Raadgevende Vergadering worden voorgelegd. Elke door het Comité van Ministers goedgekeurde wijziging wordt van kracht op de dertigste dag nadat alle Overeenkomstsluitende Partijen de Secretaris-Generaal hun instemming daarmede hebben betuigd. De Secretaris-Generaal stelt alle lid-staten van de Raad van Europa en de Directeur-Generaal van het Internationale Arbeidsbureau in kennis van de inwerkingtreding van deze wijzigingen.
 
-#### Artikel 37. Opzegging
+##### Artikel 37. Opzegging
 
 1. Een Overeenkomstsluitende Partij kan dit Handvest slechts opzeggen na verloop van een periode van vijf jaar na de datum waarop het Handvest ten aanzien van de betrokken Partij in werking is getreden, of binnen elke periode van twee jaar daaropvolgend; in elk van deze gevallen dient de opzegging met inachtneming van een termijn van zes maanden ter kennis te worden gebracht van de Secretaris-Generaal van de Raad van Europa, die de overige Overeenkomstsluitende Partijen en de Directeur-Generaal van het Internationale Arbeidsbureau hiervan mededeling doet. Een opzegging heeft geen gevolgen ten opzichte van de overige Overeenkomstsluitende Partijen, mits hun aantal nooit minder dan vijf bedraagt.
 
@@ -396,17 +421,17 @@ Elk lid van de Raad van Europa kan wijzigingen op dit Handvest voorstellen door 
 
 3. Elke Overeenkomstsluitende Partij kan dit Handvest of elk der artikelen of leden van deel II van het Handvest overeenkomstig de bepalingen van lid 1 van dit artikel opzegggen ten aanzien van elk grondgebied waarop dit Handvest van toepassing is krachtens een overeenkomstig artikel 34, lid 2, afgelegde verklaring.
 
-#### Artikel 38. Bijlage
+##### Artikel 38. Bijlage
 
 De bijlage bij dit Handvest vormt een integrerend deel ervan.
 
-#### 1
+##### 1
 
 Behoudens het bepaalde in artikel 12, lid 4, en in artikel 13, lid 4, zijn onder de in de artikelen 1 tot en met 17 bedoelde personen slechts die buitenlanders begrepen die onderdaan zijn van andere Overeenkomstsluitende Partijen en rechtmatig woonachtig zijn in, dan wel geregeld werkzaam zijn op, het grondgebied van de betrokken Overeenkomstsluitende Partij, met dien verstande dat de genoemde artikelen dienen te worden uitgelegd overeenkomstig het bepaalde in de artikelen 18 en 19.
 
 Deze uitlegging sluit een uitbreiding van overeenkomstige rechten tot andere personen door een der Overeenkomstsluitende Partijen niet uit.
 
-#### 2
+##### 2
 
 Elke Overeenkomstsluitende Partij ziet erop toe dat vluchtelingen in de zin van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) die rechtmatig woonachtig zijn op haar grondgebied, een zo gunstig mogelijke behandeling genieten en in elk geval een niet minder gunstige dan waartoe zij zich krachtens dit Verdrag heeft verbonden, alsmede krachtens alle andere bestaande en op de bedoelde vluchtelingen van toepassing zijnde internationale verdragen.
 
@@ -418,47 +443,47 @@ Deze bepalingen hebben geen betrekking op de betreding van het grondgebied van d
 
 ## DEEL II
 
-#### Artikel 1. lid 2
+##### Artikel 1. lid 2
 
 Deze bepaling mag niet in dier voege worden uitgelegd dat clausules en feitelijke gedragingen ter beveiliging van het vakbondswezen zijn verboden of toegestaan.
 
-#### Artikel 4. lid 4
+##### Artikel 4. lid 4
 
 Deze bepaling mag niet worden uitgelegd als inhoudende een verbod van ontslag op staande voet wegens een ernstig vergrijp.
 
-#### Artikel 4. lid 5
+##### Artikel 4. lid 5
 
 Een Overeenkomstsluitende Partij kan de in dit lid bedoelde verplichting slechts op zich nemen indien inhoudingen op de lonen hetzij bij de wet, hetzij bij collectieve overeenkomsten of bij scheidsrechterlijke uitspraken, verboden zijn ten aanzien van de overgrote meerderheid der werknemers, waarbij de niet onder zodanige maatregelen vallende personen de enige uitzondering vormen.
 
-#### Artikel 6. lid 4
+##### Artikel 6. lid 4
 
 Elke Overeenkomstsluitende Partij kan zelf het recht van staking bij de wet regelen, mits elke eventuele verdere beperking van dit recht in de bepalingen van artikel 31 rechtvaardiging vindt.
 
-#### Artikel 7. lid 8
+##### Artikel 7. lid 8
 
 Een Overeenkomstsluitende Partij wordt geacht aan de geest van de in dit lid genoemde verplichting te hebben voldaan indien zij in de geest van deze verplichting bij de wet bepaalt dat de overgrote meerderheid van de minderjarigen die de leeftijd van 18 jaar nog niet hebben bereikt, geen nachtarbeid mag verrichten.
 
-#### Artikel 12. lid 4
+##### Artikel 12. lid 4
 
 De zinsnede „en met inachtneming van de in zulke overeenkomsten neergelegde voorwaarden" van de inleiding tot dit lid wordt geacht onder meer in te houden dat een Overeenkomstsluitende Partij ten aanzien van de niet van verzekeringspremies afhankelijke uitkeringen het ingezetenschap gedurende een voorgeschreven periode verplicht kan stellen alvorens deze uitkeringen aan onderdanen van andere Overeenkomstsluitende Partijen te verlenen.
 
-#### Artikel 13. lid 4
+##### Artikel 13. lid 4
 
 De regeringen die het Europese Verdrag betreffende sociale en medische bijstand niet hebben ondertekend, kunnen het Sociale Handvest ten aanzien van dit lid bekrachtigen, mits zij erop toezien dat onderdanen van andere Overeenkomstsluitende Partijen een met de bepalingen van genoemd Verdrag strokende behandeling genieten.
 
-#### Artikel 19. lid 6
+##### Artikel 19. lid 6
 
 Voor de toepassing van deze bepaling wordt de zinsnede „gezin van een migrerende werknemer" geacht ten minste zijn echtgenote, en kinderen te zijnen laste die de leeftijd van 21 jaar nog niet hebben bereikt, te omvatten.
 
 ## DEEL III
 
-#### Artikel 20. lid 1
+##### Artikel 20. lid 1
 
 De uitdrukking „genummerde leden" kan eveneens betrekking hebben op artikelen welke slechts een enkel lid omvatten.
 
 ## DEEL V
 
-#### Artikel 30
+##### Artikel 30
 
 De zinsnede „in geval van oorlog of een andere noodtoestand" heeft eveneens betrekking op oorlogs**dreiging.**
 

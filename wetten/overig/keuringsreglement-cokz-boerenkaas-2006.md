@@ -1,13 +1,38 @@
 ---
 title: "Keuringsreglement COKZ Boerenkaas 2006"
 identifier: "BWBR0019408"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019408"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019408"
+soort: "zbo"
+stam_id: "8255933"
+version_id: "13093222"
+internal_id: "C17637281"
+label_id: "8237384"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019408/2006-01-01/0"
+intitule_bron: "Stcrt.2006-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-29"
+intitule_published: "2006-05-02"
+intitule_in_force: "2006-05-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-85"
+original_signed_date: "2005-12-29"
+original_published_date: "2006-05-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-85-p23-SC74773"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019408&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0019408&g=2006-01-01"
+citeertitel_status: "officieel"
+signed_date: "2005-12-29"
+entry_into_force: "2006-01-01"
 ---
-
 # Keuringsreglement COKZ Boerenkaas 2006
 
 Gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), [artikel 6 van de Landbouwkwaliteitsregeling kaas 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=6), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63);
@@ -20,7 +45,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### Terminologie
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt, tenzij uitdrukkelijk anders is bepaald, de terminologie van de [Landbouwkwaliteitsregeling kaas](https://wetten.overheid.nl/jci1.3:c:BWBR0009794) overgenomen en wordt voorts verstaan onder:
 
@@ -46,7 +71,7 @@ bestuur: bestuur van het COKZ.
 
 #### Voorschriften inzake rijkskaasmerken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Rijkskaasmerken worden gedrukt:
 
@@ -62,7 +87,7 @@ bestuur: bestuur van het COKZ.
 
 #### Rijkskaasmerken in de vorm van caseïneplaatjes
 
-#### Artikel 3
+##### Artikel 3
 
 1. Rijkskaasmerken in de vorm van caseïneplaatjes worden door of namens het COKZ aan de bereider verstrekt, uitsluitend om te worden aangebracht op de in zijn bedrijf bereide boerenkaas.
 
@@ -84,7 +109,7 @@ bestuur: bestuur van het COKZ.
 
 #### Rijkskaasmerken in de vorm van etiketten of rechtstreeks aangebracht op de verpakking
 
-#### Artikel 4
+##### Artikel 4
 
 1. Door of namens het COKZ worden aan de bereider verstrekt:
 
@@ -122,7 +147,7 @@ welke niet rechtstreeks door of namens het COKZ aan hem of te zijnen behoeve zij
 
 Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze waarop deze administratie moet worden gevoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van de boerenkaas of van zijn verpakking verwijderde of losgelaten rijkskaasmerken mogen niet opnieuw worden gebruikt.
 
@@ -146,13 +171,13 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 #### Administratieve voorschriften met betrekking tot boerenkaas
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een productdossier dient minimaal 5 werkdagen voordat de in het productdossier beschreven boerenkaas voor het eerst wordt bereid, te worden ingediend bij het COKZ.
 
 2. Het COKZ beoordeelt het productdossier aan het gestelde in [artikel 14 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019231&artikel=14).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bereider is verplicht, dagelijks, met betrekking tot elke kaassoort afzonderlijk, aantekening te houden van:
 
@@ -190,7 +215,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 #### Voorschriften inzake de keuring van boerenkaas
 
-#### Artikel 8
+##### Artikel 8
 
 1. De keuring van:
 
@@ -236,7 +261,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur bepaalt het aantal monsters dat ten behoeve van het in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019408&hoofdstuk=3&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde onderzoek wordt genomen en de wijze waarop de monsters uit de aanwezige voorraad worden gekozen.
 
@@ -244,11 +269,11 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 3. De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens de voorgaande leden bepaalde.
 
-#### Artikel 10
+##### Artikel 10
 
 Het resultaat van de in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019408&hoofdstuk=3&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde onderdelen van de keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten aan de bereider van de boerenkaas bekend gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019408&hoofdstuk=3&artikel=8&z=2006-01-01&g=2006-01-01), laat onverlet dat boerenkaas kan worden gekeurd
 
@@ -262,7 +287,7 @@ Het resultaat van de in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3
 
 De gevolgen van de keuring
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het door of namens het COKZ met keuring en toezicht belaste personeel kan de aflevering verbieden van een bak, charge of partij boerenkaas, welke kazen bevat, die naar het oordeel van het genoemde personeel:
 
@@ -286,7 +311,7 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 #### Methoden voor monsterneming en onderzoek
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0019231) bepaalde moet worden gebruik gemaakt van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019408&bijlage=1&z=2006-01-01&g=2006-01-01) vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast.
 
@@ -296,7 +321,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 #### Het maken van bezwaar tegen de monsterneming
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aangeslotene kan bezwaar maken tegen
 
@@ -312,7 +337,7 @@ Voor de vaststelling of boerenkaas voldoet aan het bij het besluit of bij de [re
 
 #### Het maken van bezwaar tegen de keuringsuitslag
 
-#### Artikel 15
+##### Artikel 15
 
 1. Tegen een door of namens het COKZ vastgestelde keuringsuitslag staat bezwaar open bij het bestuur van het COKZ. Zodanig bezwaar heeft geen schorsende werking.
 
@@ -324,7 +349,7 @@ Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot afl
 
 #### Het inwinnen van advies
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het bestuur kan, alvorens een beslissing op het bezwaarschrift te nemen, advies inwinnen bij het RIKILT of een ander orgaan met specifieke deskundigheid met betrekking tot de aard van het bezwaar.
 
@@ -336,11 +361,11 @@ Indien bij de keuringsuitslag, waartegen bezwaar was gericht, een verbod tot afl
 
 #### Algemene en slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvinden in het kader van de [Landbouwkwaliteitsregeling kaas](https://wetten.overheid.nl/jci1.3:c:BWBR0009794), onverwijld ter kennis te brengen van het COKZ, onder opgave van het adres en de plaats van vestiging.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit reglement kan worden aangehaald als ‘Keuringsreglement COKZ boerenkaas 2006’, en treedt in werking met ingang van 1 januari 2006.
 

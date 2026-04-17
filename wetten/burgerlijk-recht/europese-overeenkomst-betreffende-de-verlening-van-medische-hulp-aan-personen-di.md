@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst betreffende de verlening van medische hulp aan personen die tijdelijk in het buitenland verblijven"
 identifier: "BWBV0003948"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1983-02-01
-laatste_update: 1983-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003948"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-02-01"
+last_updated: "1983-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003948"
+soort: "verdrag"
+stam_id: "10003783423"
+version_id: "10003848572"
+internal_id: "C10006980341"
+label_id: "10003768504"
+dtd_version: "2.0"
+original_entry_into_force: "1983-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003948/1983-02-01/0"
+intitule_bron: "Trb.1982-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1982-04-28"
+intitule_in_force: "1983-01-10"
+intitule_status: "goed"
+original_publication: "Trb.1982-49"
+original_published_date: "1982-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1982-49"
+entry_into_force_date: "1983-02-01"
+jci_1_3: "jci1.3:c:BWBV0003948&z=1983-02-01&g=1983-02-01"
+jci_1_0: "1.0:c:BWBV0003948&g=1983-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-02-01"
 ---
-
 # Europese Overeenkomst betreffende de verlening van medische hulp aan personen die tijdelijk in het buitenland verblijven
 
 De Staten die deze Overeenkomst hebben ondertekend,
@@ -20,7 +42,7 @@ Rekening houdend met het belang van de problemen op het gebied van de sociale ze
 
 Zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst, wordt verstaan onder:
 
@@ -48,7 +70,7 @@ Voor de toepassing van deze Overeenkomst, wordt verstaan onder:
 
 - j). „noodgevallen”: de gevallen waarin het verlenen van medische hulp of de daarbij behorende prestaties niet kan worden uitgesteld zonder het leven of de gezondheid van de belanghebbende in gevaar te brengen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van deze Overeenkomst zijn van toepassing op alle personen die recht op medische hulp kunnen doen gelden krachtens de wetgeving van een Overeenkomstsluitende Partij of die recht op medische hulp zouden kunnen doen gelden krachtens de wetgeving van bedoelde Partij indien zij zich zouden bevinden op het grondgebied van bedoelde Partij.
 
@@ -56,13 +78,13 @@ Voor de toepassing van deze Overeenkomst, wordt verstaan onder:
 
 3. Iedere betrokken Overeenkomstsluitende Partij brengt, overeenkomstig het bepaalde in artikel 18, eerste lid, iedere in bijlage I aan te brengen wijziging ter kennis.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze Overeenkomst vervangt, in de betrekkingen tussen de Overeenkomstsluitende Partijen, de overeenkomstige bepalingen van iedere overeenkomst inzake sociale zekerheid, mits deze bepalingen in gemeen overleg tussen de betrokken Overeenkomstsluitende Partijen worden vermeld in bijlage II.
 
 2. De desbetreffende Overeenkomstsluitende Partijen brengen in gemeen overleg, wat hen betreft, overeenkomstig het bepaalde in artikel 18, eerste lid, iedere in bijlage II aan te brengen wijziging ter kennis.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De personen op wie de bepalingen van deze Overeenkomst van toepassing zijn en die, in verband met hun gezondheidstoestand, op medisch advies onmiddellijk medische hulp nodig hebben tijdens hun verblijf op het grondgebied van een andere Overeenkomstsluitende Partij dan de bevoegde Staat, ontvangen de voor hun gezondheidstoestand vereiste medische hulp alsof zij hierop recht hadden krachtens de wetgeving van eerstbedoelde Partij. Deze hulp wordt verleend door het orgaan van de verblijfplaats volgens de bepalingen van de door dit orgaan toegepaste wetgeving alsof de belanghebbenden onder bedoeld orgaan ressorteerden, totdat zij zijn genezen of totdat hun gezondheidstoestand hen, volgens medisch advies, in staat stelt terug te keren of te worden gerepatrieerd naar het grondgebied van de Overeenkomstsluitende Partij waar zij wonen, onder de voorwaarden bedoeld in het derde lid van dit artikel.
 
@@ -74,7 +96,7 @@ Voor de toepassing van deze Overeenkomst, wordt verstaan onder:
 
 5. Onverminderd het bepaalde in het eerste lid van dit artikel, zijn de bepalingen van deze Overeenkomst niet van toepassing op personen die zich begeven naar het grondgebied van een andere Overeenkomstsluitende Partij dan de bevoegde Staat met het doel medische hulp te ontvangen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Om in aanmerking te komen voor medische hulp krachtens het bepaalde in artikel 4, eerste lid, dient de belanghebbende het bewijs te leveren dat hij recht op medische hulp heeft krachtens de wetgeving van een andere Overeenkomstsluitende Partij dan die op het grondgebied waarvan hij zich bevindt.
 
@@ -88,7 +110,7 @@ Niettegenstaande het bepaalde in het eerste lid van artikel 2, kunnen de Overeen
 
 5. Indien het leven of de gezondheid van een persoon voor wie medische hulp is vereist, ernstig wordt bedreigd, of indien het een in een ziekenhuis opgenomen persoon betreft die jonger dan 18 jaar is en die van zijn familie is gescheiden, is het wenselijk om in het belang van deze persoon de consulaire autoriteit van de Overeenkomstsluitende Partij op het grondgebied waarvan deze persoon woont, te waarschuwen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten van medische hulp die krachtens het bepaalde in artikel 4 zijn betaald door het orgaan van de verblijfplaats:
 
@@ -104,13 +126,13 @@ al naar gelang de betrokken Overeenkomstsluitende Partijen zijn overeengekomen h
 
 3. In de betrekkingen tussen Overeenkomstsluitende Partijen die zijn overeengekomen het bepaalde onder letter c) van het eerste lid van dit artikel toe te passen, betaalt het bevoegde orgaan het bedrag van de kosten van de medische hulp die het orgaan van de verblijfplaats krachtens het bepaalde in artikel 4 heeft betaald, terug overeenkomstig tussen deze Partijen gesloten bijzondere regelingen met name op basis van vaste bedragen die in gemeen overleg tussen de bevoegde autoriteiten van bedoelde Partijen zijn vastgesteld aan de hand van een passend referentiekader, ontleend aan de beschikbare gegevens.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wanneer het orgaan van een Overeenkomstsluitende Partij, krachtens deze Overeenkomst bedragen verschuldigd is voor de terugbetaling van kosten die zijn betaald door het orgaan van een andere Overeenkomstsluitende Partij, wordt het verschuldigde bedrag uitgedrukt in de munteenheid van de tweede Partij. Het eerstbedoelde orgaan kan het verschuldigde bedrag rechtsgeldig betalen in deze munteenheid tenzij de betrokken Overeenkomstsluitende Partijen andere regelingen zijn overeengekomen.
 
 2. De overmakingen die voortvloeien uit de toepassing van deze Overeenkomst geschieden, voorzover nodig, overeenkomstig de op het moment van de overmaking tussen de betrokken Overeenkomstsluitende Partijen op dit gebied van kracht zijnde regelingen. Wanneer zulke regelingen niet bestaan, dienen tussen de betrokken Partijen aparte regelingen te worden overeengekomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen verstrekken elkaar:
 
@@ -128,27 +150,27 @@ al naar gelang de betrokken Overeenkomstsluitende Partijen zijn overeengekomen h
 
 5. De bevoegde autoriteiten van de Overeenkomstsluitende Partijen nemen alle maatregelen die eventueel noodzakelijk blijken te zijn om, in het belang van de personen op wie de bepalingen van deze Overeenkomst van toepassing zijn, de oplossing van bepaalde bijzondere, individuele of collectieve gevallen te vergemakkelijken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vrijstelling of verlaging van rechten, zegelrechten, griffie- of registratierechten waarin bij de wetgeving van een Overeenkomstsluitende Partij is voorzien voor bescheiden of documenten die ter uitvoering van de wetgeving van deze Partij dienen te worden overgelegd, geldt eveneens voor overeenkomstige bescheiden of documenten die ter uitvoering van de wetgeving van een andere Overeenkomstsluitende Partij of van deze Overeenkomst dienen te worden overgelegd.
 
 2. Alle akten, documenten of overige bescheiden van officiële aard welke voor de toepassing van deze Overeenkomst dienen te worden overgelegd, zijn vrijgesteld van legalisatie en van alle andere soortgelijke formaliteiten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aanvragen of beroepschriften die volgens de wetgeving van een Overeenkomstsluitende Partij binnen een bepaalde termijn moeten worden ingediend bij een orgaan van die Partij, zijn ontvankelijk indien zij binnen dezelfde termijn worden ingediend bij een overeenkomstig orgaan van een andere Overeenkomstsluitende Partij. In dat geval zal het orgaan waarop aldus een beroep wordt gedaan, deze aanvragen of beroepschriften onverwijld aan het orgaan van eerstbedoelde Partij dat bevoegd is hierover te beslissen, doen toekomen, hetzij rechtstreeks hetzij door bemiddeling van de bevoegde autoriteiten van de betrokken Overeenkomstsluitende Partijen. De datum waarop die aanvragen of beroepschriften bij een orgaan van de tweede Overeenkomstsluitende Partij zijn ingediend, wordt beschouwd als de datum waarop deze zijn ingediend bij het orgaan dat bevoegd is hierover te beslissen.
 
 2. De aanvragen, verklaringen, beroepschriften en andere bescheiden die voor de toepassing van deze Overeenkomst worden ingediend bij een autoriteit of een orgaan van een Overeenkomstsluitende Partij mogen niet worden afgewezen op grond van het feit dat zij zijn opgesteld in een officiële taal van een andere Overeenkomstsluitende Partij.
 
-#### Artikel 11
+##### Artikel 11
 
 Ieder geschil dat met betrekking tot de uitlegging of de toepassing van deze Overeenkomst tussen twee of meer Overeenkomstsluitende Partijen ontstaat, wordt geregeld door middel van rechtstreekse onderhandelingen tussen de bevoegde autoriteiten van de betrokken Overeenkomstsluitende Partijen. Indien het een zaak betreft die de gezamenlijke Overeenkomstsluitende Partijen aangaat, kan de Directeur-Generaal van het Internationaal Arbeidsbureau, op verzoek van deze autoriteiten en na overleg met de bevoegde autoriteiten van de andere Overeenkomstsluitende Partijen, het geschil voorleggen aan een vergadering van de vertegenwoordigers van de bevoegde autoriteiten van de gezamenlijke Overeenkomstsluitende Partijen, die zich over deze zaak uitspreekt.
 
-#### Artikel 12
+##### Artikel 12
 
 De bijlagen bedoeld in artikel 2, tweede lid en artikel 3, eerste lid, alsmede de wijzigingen die in deze bijlagen worden aangebracht, vormen een wezenlijk bestanddeel van deze Overeenkomst.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze Overeenkomst staat open voor ondertekening door iedere Europese Staat op het Internationaal Arbeidsbureau.
 
@@ -158,7 +180,7 @@ De bijlagen bedoeld in artikel 2, tweede lid en artikel 3, eerste lid, alsmede d
 
 4. Ten aanzien van iedere Staat die de Overeenkomst later bekrachtigt, treedt deze Overeenkomst in werking op de eerste dag van de tweede maand volgende op de maand waarin zijn akte van bekrachtiging is nedergelegd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Na het verstrijken van een periode van twee jaar na de datum waarop deze Overeenkomst voor het eerst in werking is getreden, kan ieder niet-Europees lid van de Internationale Arbeidsorganisatie tot deze Overeenkomst toetreden.
 
@@ -170,7 +192,7 @@ De bijlagen bedoeld in artikel 2, tweede lid en artikel 3, eerste lid, alsmede d
 
 5. De akten van bekrachtiging van de toetredende Staten worden nedergelegd bij de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In de betrekkingen tussen een toetredende Staat en een Overeenkomstsluitende Partij die geen bezwaar heeft gemaakt tegen de toetreding van die Staat, treedt deze Overeenkomst in werking op de eerste dag van de tweede maand volgende op de maand waarin de termijn van zes maanden waarover deze Partij krachtens het tweede lid van artikel 14 beschikt om bezwaar te maken, is afgelopen of, ten aanzien van een Europese Staat bedoeld in het derde lid van artikel 14, op de eerste dag van de tweede maand volgende op de maand waarin zijn akte van bekrachtiging is nedergelegd.
 
@@ -180,19 +202,19 @@ De bijlagen bedoeld in artikel 2, tweede lid en artikel 3, eerste lid, alsmede d
 
 4. In de gevallen bedoeld in het vorige lid van dit artikel brengen de betrokken Overeenkomstsluitende Partijen, overeenkomstig het bepaalde in het eerste lid van artikel 18, de datum ter kennis waarop deze Overeenkomst tussen hen van kracht wordt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
 
 2. Iedere Overeenkomstsluitende Partij kan deze Overeenkomst evenwel opzeggen na het verstrijken van een periode van vijf jaar vanaf de datum waarop deze Overeenkomst voor het eerst in werking is getreden, en wel door dit overeenkomstig het bepaalde in het eerste lid van artikel 18 ter kennis te brengen. De opzegging wordt eerst van kracht zes maanden nadat deze is geregistreerd door de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Na het verstrijken van een periode van vijf jaar vanaf de datum waarop deze Overeenkomst voor het eerst in werking is getreden, kan iedere Overeenkomstsluitende Partij de Directeur-Generaal van het Internationaal Arbeidsbureau verzoeken een bijeenkomst te beleggen ten einde na te gaan of de Overeenkomst dient te worden herzien.
 
 2. Zodra de Directeur-Generaal van het Internationaal Arbeidsbureau een daartoe strekkend verzoek heeft ontvangen, doet deze de andere Overeenkomstsluitende Partijen hiervan mededeling en kan hij, na overleg met de bevoegde autoriteiten van de Overeenkomstsluitende Partijen een bijeenkomst van de vertegenwoordigers van de Overeenkomstsluitende Partijen en de ondertekenende Staten beleggen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kennisgevingen bedoeld in artikel 2, derde lid, artikel 3, tweede lid, artikel 14, tweede en derde lid, artikel 15, tweede en vierde lid, en artikel 16, tweede lid, worden gericht aan de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
@@ -204,19 +226,19 @@ De bijlagen bedoeld in artikel 2, tweede lid en artikel 3, eerste lid, alsmede d
 
 - c). iedere kennisgeving ontvangen overeenkomstig het bepaalde in het vorige lid van dit artikel.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Zodra deze Overeenkomst voor het eerst in werking is getreden, wordt door de Directeur-Generaal van het Internationaal Arbeidsbureau een voor eensluidend gewaarmerkt afschrift, overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), ter registratie gezonden aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. Overeenkomstig het bepaalde in [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), doet de Directeur van het Internationaal Arbeidsbureau, met het oog op registratie, de Secretaris-Generaal van de Verenigde Naties mededeling van iedere bekrachtiging en iedere opzegging waarvan hij kennisgeving heeft ontvangen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Twee of meer Overeenkomstsluitende Partijen kunnen, voor zover nodig, bilaterale of multilaterale akkoorden sluiten voor de toepassing van deze Overeenkomst.
 
 2. Het Internationaal Arbeidsbureau stelt een model akkoord op ten einde het sluiten van akkoorden bedoeld in het vorige lid van dit artikel te vergemakkelijken.
 
-#### Artikel 21
+##### Artikel 21
 
 Een origineel exemplaar van de Duitse, de Engelse, de Franse, de Russische en de Spaanse tekst van deze Overeenkomst wordt nedergelegd in het archief van het Internationaal Arbeidsbureau. De Engelse en de Franse tekst zijn gelijkelijk gezaghebbend.
 

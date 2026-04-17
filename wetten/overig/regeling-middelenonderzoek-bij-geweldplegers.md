@@ -1,26 +1,52 @@
 ---
-title: "Regeling middelenonderzoek bij geweldplegers"
+title: "Regeling van de Minister van Veiligheid en Justitie van 2 december 2016, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol en drugs bij geweldplegers (Regeling middelenonderzoek bij geweldplegers)"
 identifier: "BWBR0038841"
-categorie: "Overig"
-publicatiedatum: 2024-09-20
-laatste_update: 2024-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038841"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-20"
+last_updated: "2024-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038841"
+soort: "ministeriele-regeling"
+stam_id: "13815363"
+version_id: "24316962"
+internal_id: "C34909431"
+label_id: "13781424"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038841/2024-09-20/0"
+intitule_bron: "Stcrt.2016-66613"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-02"
+intitule_published: "2016-12-09"
+intitule_in_force: "2016-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-48104"
+original_signed_date: "2017-08-15"
+original_published_date: "2017-08-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-48104"
+entry_into_force_date: "2017-09-01"
+jci_1_3: "jci1.3:c:BWBR0038841&z=2024-09-20&g=2024-09-20"
+jci_1_0: "1.0:c:BWBR0038841&g=2024-09-20"
+citeertitel_status: "officieel"
+short_title: "Regeling middelenonderzoek bij geweldplegers"
+signed_date: "2017-08-15"
+entry_into_force: "2017-09-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 2 december 2016, houdende bepalingen met betrekking tot onderzoek ter vaststelling van het gebruik van alcohol en drugs bij geweldplegers (Regeling middelenonderzoek bij geweldplegers)
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=5), [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=7), [11, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=11), [12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12), [13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=13), [14, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=14), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=17), en [19, derde lid, van het Besluit middelenonderzoek bij geweldplegers](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=19);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 - **het Besluit:** het [Besluit middelenonderzoek bij geweldplegers](https://wetten.overheid.nl/jci1.3:c:BWBR0038778).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als uiterlijke kenmerken als bedoeld in [artikel 7, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=7) waarop een onderzoek van de psychomotorische functies en de oog- en spraakfuncties is gericht voor het verkrijgen van een vermoeden van alcoholgebruik worden aangewezen:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - d. de motoriek: onvast ter been, trillen, zich veelvuldig krabben, wrijven of plukken aan de kleding of bewegingsdrang.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het verrichten van een nader ademonderzoek als bedoeld in [artikel 11, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=11) worden de ademanalyseapparaten van het type Dräger Alcotest 9510 NL aangewezen die zijn voorzien van het goedkeuringsteken T7802.
 
@@ -52,7 +78,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het resultaat van een nader ademonderzoek mag niet worden aangewezen of afgedrukt indien het verschil tussen de beide meetresultaten groter is dan 10% van het kleinste meetresultaat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de bloedafname ten behoeve van het bloedonderzoek, bedoeld in [artikel 13, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=13) worden de volgende hulpmiddelen voorgeschreven:
 
@@ -80,29 +106,29 @@ In deze regeling wordt verstaan onder:
 
 - d. drie fraudebestendige sluitzegels.
 
-#### Artikel 5
+##### Artikel 5
 
 De methode voor de uitvoering van bloedonderzoek voor het bepalen van het gehalte van alcohol of een of meer van de middelen bedoeld in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3), voldoet aan de eisen genoemd in de bijlage bij deze regeling.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het verschuldigde bedrag voor de bloedafname, bedoeld in [artikel 12, derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=12) ten behoeve van een tegenonderzoek bedraagt € 78,– indien het afnemen van bloed door een arts of verpleegkundige geschiedt in de periode van 8.00 uur tot 18.00 uur en €102,– indien het afnemen geschiedt in de periode 18.00 uur ’s avonds tot 08.00 uur ’s ochtends of in de periode van 18.00 uur vrijdagavond tot 08.00 uur maandagochtend.
 
 2. Voor de verzending van het buisje met bloed bestemd voor het tegenonderzoek naar het gehalte van alcohol en naar het gehalte van een of meer van de in [artikel 3 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&artikel=3) aangewezen stoffen zijn de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038841&bijlage=2&z=2024-09-20&g=2024-09-20) opgenomen kosten verschuldigd.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor het verrichten van een voorlopig ademonderzoek van uitgeademde lucht als bedoeld in [artikel 5, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=5) wordt de Dräger Alcotest 7510 ademtester aangewezen.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling middelenonderzoek bij geweldplegers.
 
@@ -155,7 +181,7 @@ Bij bloedonderzoek naar het bepalen van het gehalte van alcohol of een of meer v
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Voor het verrichten van een onderzoek van speeksel als bedoeld in [artikel 9, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&artikel=9), worden het type Securetec DrugWipe 5S en tot 1 maart 2023 tevens het type Dräger DrugCheck® 3000 als speekseltesters aangewezen.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling acceptatie afvalstoffen op stortplaatsen"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juli 2009, nr. BJZ2009044653, houdende vervanging van de Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (Regeling acceptatie afvalstoffen op stortplaatsen)"
 identifier: "BWBR0026131"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026131"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026131"
+soort: "ministeriele-regeling"
+stam_id: "10132173"
+version_id: "20236522"
+internal_id: "C28469031"
+label_id: "10108754"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026131/2024-01-01/0"
+intitule_bron: "Stcrt.2009-10808"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-09"
+intitule_published: "2009-07-17"
+intitule_in_force: "2009-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-6432"
+original_signed_date: "2013-03-07"
+original_published_date: "2013-03-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-6432"
+entry_into_force_date: "2013-03-07"
+jci_1_3: "jci1.3:c:BWBR0026131&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0026131&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling acceptatie afvalstoffen op stortplaatsen"
+signed_date: "2013-03-07"
+entry_into_force: "2013-03-07"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 juli 2009, nr. BJZ2009044653, houdende vervanging van de Regeling acceptatie geconditioneerde gevaarlijke afvalstoffen op stortplaatsen in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (Regeling acceptatie afvalstoffen op stortplaatsen)
 
 Gelet op beschikking nr. 2003/33/EG van de Raad van de Europese Unie van 19 december 2002 tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen overeenkomstig artikel 16 en bijlage II van [Richtlijn 1999/31/EG](31999L0031) betreffende het storten van afvalstoffen (PbEG L 11) en de [artikelen 11f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11f), en [11h, vierde lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -66,7 +92,7 @@ Besluit:
 
 2. Met normen, richtlijnen, protocollen of accreditatieprogramma's als bedoeld in deze regeling worden gelijkgesteld normen, richtlijnen, protocollen of accreditatieprogramma's die zijn vastgesteld of aangewezen in een andere lidstaat van de Europese Unie, dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&z=2024-01-01&g=2024-01-01) is uitsluitend van toepassing op sterk uitloogbare afvalstoffen die worden of zijn omgevormd tot geconditioneerde afvalstoffen.
 
@@ -78,15 +104,15 @@ Besluit:
 
 ### Hoofdstuk 2. Sterk uitloogbare afvalstoffen die worden of zijn omgevormd tot geconditioneerde afvalstoffen
 
-#### Artikel 3
+##### Artikel 3
 
 Een compartiment voor te conditioneren afvalstoffen wordt uitsluitend gebruikt voor het storten van een blok of een mengsel van sterk uitloogbare afvalstoffen en toeslagstoffen.
 
-#### Artikel 4
+##### Artikel 4
 
 Een mengsel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) wordt in een compartiment tot een blok gevormd, waarvan het volume na uitharding niet meer bedraagt dan 125% van het volume van de te conditioneren afvalstof.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Per mengsel met dezelfde samenstelling van sterk uitloogbare afvalstoffen en toeslagstoffen worden voor aanvang van het uithardingsproces ten minste twee representatieve monsters genomen. Deze monsters worden gebruikt voor het vervaardigen van ten minste twee proefstukken die op vergelijkbare wijze als het te conditioneren mengsel worden uitgehard. De beoordeling van de kwaliteit van de geconditioneerde afvalstoffen wordt bepaald aan de hand van deze proefstukken.
 
@@ -98,11 +124,11 @@ Een mengsel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - b. dat ten minste vijf analyseresultaten bekend zijn voor de desbetreffende parameter.
 
-#### Artikel 6
+##### Artikel 6
 
 De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/mm2.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De emissiewaarden van een proefstuk overschrijden niet de waarden van de in de bijlage bij deze regeling opgenomen tabel.
 
@@ -122,19 +148,19 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 4. Degene die de stortplaats exploiteert, toont ten genoegen van het bevoegd gezag aan dat de bouwstoffen of afvalstoffen die overeenkomstig het derde lid worden toegepast, een vloeistofkerende werking hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01) mogen de emissiewaarden van de andere dan de in het tweede lid van dat artikel genoemde parameters van een proefstuk in geval van buitengewone omstandigheden waarden van de tabel van de bijlage overschrijden, voor zover het totaal van de afvalstoffen die de waarden van de tabel overschrijden, in een compartiment niet meer dan 10% (gewicht) van de totale vergunde capaciteit van dat compartiment bedraagt en het desbetreffende blok ten minste drie meter van de buitengrens van het compartiment is gesitueerd.
 
 2. [Artikel 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=7&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De druksterkte van een blok wordt bepaald aan de hand van één of meerdere proefstukken na een uitharding van 28 dagen volgens ontwerp NEN-EN 12394.
 
 2. De druksterkte wordt vastgesteld met een meetnauwkeurigheid beter dan 0,1 N/mm2.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De uitloging van een blok wordt bepaald aan de hand van één of meerdere proefstukken met een diffusieproef overeenkomstig NEN 7375.
 
@@ -142,25 +168,25 @@ De druksterkte van een proefstuk bedraagt na 28 dagen uitharden minimaal 1,0 N/m
 
 3. Het proefstuk mag tijdens de duur van de in het eerste lid genoemde proef niet desintegreren. Van het proefstuk mag niet meer dan 1% (gewicht) vast materiaal op de bodem van de onderzoekbak neerslaan binnen de proefduur van 64 dagen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een compartiment is aan de onderzijde voorzien van een bufferlaag van ten minste 0,5 meter dikte en ten hoogste 1 meter dikte, bestaande uit organische stof of rijk grondachtig materiaal met bewezen pH-bufferende en metaalbindende eigenschappen.
 
 2. Ten behoeve van drainage in een bufferlaag en taluds mogen korrelvormige anorganische afvalstoffen of bouwstoffen worden gebruikt.
 
-#### Artikel 12
+##### Artikel 12
 
 Het compartiment is zodanig ingericht dat de geconditioneerde, sterk uitloogbare afvalstoffen, na zetting van de ondergrond, minimaal 0,7 meter boven de te verwachten gemiddeld hoogste grondwaterstand blijven.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien een compartiment wordt gerealiseerd bovenop bestaande delen van de stortplaats waar reeds afvalstoffen zijn gestort, bieden de onderliggende afvalstoffen voldoende stabiliteit en draagvermogen voor het compartiment.
 
-#### Artikel 14
+##### Artikel 14
 
 In geval van desintegratie als gevolg van weersinvloeden worden zo spoedig mogelijk maatregelen genomen, die de gevolgen daarvan compenseren.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een volledig gevuld compartiment wordt voorafgaand aan de definitieve afdichting zo snel als technisch mogelijk afgedekt met hoge dichtheid polyethyleenfolie met een dikte van minimaal 1 mm.
 
@@ -180,11 +206,11 @@ In geval van desintegratie als gevolg van weersinvloeden worden zo spoedig mogel
 
 #### § 3.1. Vaststelling kritische parameters en monsternemingsfrequentie
 
-#### Artikel 16
+##### Artikel 16
 
 Degene die de stortplaats exploiteert, draagt er zorg voor dat ter uitvoering van [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h) overeenkomstig het bepaalde in de [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=17&z=2024-01-01&g=2024-01-01) wordt gehandeld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het gemiddelde per parameter wordt bepaald en getoetst aan de ingevolge het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094) van toepassing zijnde grenswaarden over:
 
@@ -202,7 +228,7 @@ rekenwaarde: waarde die gebruikt kan worden voor het berekenen van het gemiddeld
 
 3. Het gemiddelde van een of meerdere parameters van de ingevolge het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094) van toepassing zijnde grenswaarden mag niet worden overschreden.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na ontvangst van de analyseresultaten wordt per parameter terstond de k-waarde als volgt bepaald:
 
@@ -218,7 +244,7 @@ s: standaarddeviatie voor de logaritmisch getransformeerde (10-log) analyseresul
 
 2. Aan de hand van de k-waarden worden de kritische parameters bepaald. Een parameter is kritisch als de k-waarde lager is dan of gelijk is aan de waarde waarvoor in de tabel geen monsterneming hoeft plaats te vinden, corresponderend met het aantal analyseresultaten.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de laatste vijf analyseresultaten aan elkaar gelijk zijn, is de k-waarde:
 
@@ -228,7 +254,7 @@ s: standaarddeviatie voor de logaritmisch getransformeerde (10-log) analyseresul
 
 2. Indien alle analyseresultaten aan elkaar gelijk en hoger dan de bepalingsgrens zijn en niet eerder een k-waarde is bepaald, wordt er vanuit gegaan dat de k-waarde is gelegen binnen de marge die correspondeert met een monsternemingsfrequentie van 1 op de 10 vrachten voor het betreffende aantal analyseresultaten.
 
-#### Artikel 20
+##### Artikel 20
 
 De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter die op basis van de tabel in de categorie met de hoogste frequentie valt.
 
@@ -268,7 +294,7 @@ De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter d
 | 0,26 tot en met 0,83 | 1 op 2 vrachten | 20 vrachten |
 | < 0,26 | Elke vracht | 10 vrachten |
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het gezamenlijk analyseren van afvalstromen is toegestaan indien:
 
@@ -286,11 +312,11 @@ De monsternemingsfrequentie van de afvalstroom wordt bepaald door de parameter d
 
 #### § 3.2. Monsterneming
 
-#### Artikel 22
+##### Artikel 22
 
 Degene die de monsterneming, bedoeld in [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h), uitvoert, handelt overeenkomstig de [artikelen 23 tot en met 29](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.2&artikel=23&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een vracht wordt bemonsterd indien:
 
@@ -300,7 +326,7 @@ Degene die de monsterneming, bedoeld in [artikel 11h, eerste lid, van het beslui
 
 2. De daarop volgende vrachten worden bemonsterd met een overeenkomstig [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3&paragraaf=3.1&artikel=20&z=2024-01-01&g=2024-01-01) bepaalde frequentie.
 
-#### Artikel 24
+##### Artikel 24
 
 De deeltjesgrootte van de te bemonsteren vracht wordt geschat, waarbij onderscheid wordt gemaakt tussen:
 
@@ -310,7 +336,7 @@ De deeltjesgrootte van de te bemonsteren vracht wordt geschat, waarbij ondersche
 
 - c. percentage (v/v) van de deeltjes dat groter is dan 40 mm.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De monsterneming wordt uitgevoerd overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=2&artikel=5&z=2024-01-01&g=2024-01-01), met uitzondering van de daarin opgenomen verplichting met betrekking tot het gebruik van meetlint, piketten en machinale boor, de artikelen 6.1.1, 6.1.2, 6.1.3, 6.1.4, 6.2.3, 6.2.4, 6.2.6, met uitzondering van het daarin bepaalde met betrekking tot de wijze van controleren van het aantal grepen, 6.2.8, 6.2.9 en 6.2.10, met uitzondering van de daarin vermelde termijn voor monsteroverdracht, van het VKB-protocol 1004, met dien verstande dat van de te bemonsteren vracht vijf grepen worden genomen, waarbij de greepgrootte:
 
@@ -326,15 +352,15 @@ De deeltjesgrootte van de te bemonsteren vracht wordt geschat, waarbij ondersche
 
 4. Indien een vracht niet wordt bemonsterd, wordt de eerstvolgende vracht voor monsterneming geselecteerd.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor de bepaling van het zuurbindend vermogen worden ten minste vijf grepen van een vracht genomen.
 
-#### Artikel 27
+##### Artikel 27
 
 De monsters worden bewaard gedurende ten hoogste één jaar.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien de monsterneming in eigen beheer wordt uitgevoerd, zorgt degene die de stortplaats exploiteert er door middel van organisatorische maatregelen op aantoonbare, transparante en controleerbare wijze voor dat de monsterneming uitsluitend wordt verricht door een onderdeel van de organisatie dat, of een persoon die:
 
@@ -348,7 +374,7 @@ De monsters worden bewaard gedurende ten hoogste één jaar.
 
 3. Het tweede lid is van overeenkomstige toepassing indien de monsterneming niet in eigen beheer wordt uitgevoerd.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een verzamelmonster wordt in ieder geval voor analyse overgedragen indien:
 
@@ -376,11 +402,11 @@ een jaar is verstreken sinds:
 
 #### § 3.3. Analyse van monsters
 
-#### Artikel 30
+##### Artikel 30
 
 De analyse van monsters, bedoeld in [artikel 11h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11h), wordt uitgevoerd overeenkomstig AP04-A, AP04-V, AP04-SB, AP04-U en AP04-E en door een laboratorium dat voor het betrokken accreditatieprogramma geaccrediteerd is.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Degene die de stortplaats exploiteert, draagt er zorg voor dat een heranalyse van monsters wordt uitgevoerd indien het laatste analyseresultaat lager is dan het gemiddelde over de daaraan voorafgaande vijf analyseresultaten verminderd met vijf keer de standaarddeviatie.
 
@@ -388,7 +414,7 @@ De analyse van monsters, bedoeld in [artikel 11h, eerste lid, van het besluit](h
 
 #### § 3.4. Registratie
 
-#### Artikel 32
+##### Artikel 32
 
 Degene die de stortplaats exploiteert, registreert voor zover van toepassing:
 
@@ -414,19 +440,19 @@ Degene die de stortplaats exploiteert, registreert voor zover van toepassing:
 
 ### Hoofdstuk 3a. Tijdelijke opslag van metallisch kwik dat als afval wordt beschouwd op stortplaatsen gedurende meer dan één jaar
 
-#### Artikel 33
+##### Artikel 33
 
 De in deze regeling opgenomen verwijzingen naar NEN-normen hebben betrekking op de laatst uitgegeven NEN-normen met de daarop uitgegeven aanvullingen en correctiebladen. Een uitgegeven aanvulling, onderscheidenlijk correctieblad, wordt eerst van toepassing op 1 januari van het kalenderjaar volgende op dat waarin de uitgifte heeft plaatsgevonden.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze regeling berust tevens op Richtlijn 2011/97/EU van de Raad van 5 december 2011 tot wijziging van Richtlijn 1999/31/EG met betrekking tot specifieke criteria voor opslag van metallisch kwik dat als afval wordt beschouwd (PbEU 2011, L328/49) en op [artikel 11f, zevende lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094&artikel=11f).
 
-#### Artikel 35
+##### Artikel 35
 
 Deze regeling treedt in werking met ingang van 21 juli 2009.
 
-#### Artikel 36
+##### Artikel 36
 
 Deze regeling wordt aangehaald als: Regeling acceptatie afvalstoffen op stortplaatsen.
 
@@ -461,7 +487,7 @@ In deze bijlage zijn de emissiewaarden uitgedrukt in mg/m2. De in [artikel 10](h
 
 Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Alleen metallisch kwik dat voldoet aan de eisen, genoemd in [artikel 32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2024-01-01&g=2024-01-01), wordt geaccepteerd op stortplaatsen.
 
@@ -471,7 +497,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 4. Beschadigde, lekkende of gecorrodeerde vaten worden niet geaccepteerd.
 
-#### Artikel 32b
+##### Artikel 32b
 
 1. Het kwikgehalte van metallisch kwik dat wordt opgeslagen is hoger dan 99,9 gewichtsprocent.
 
@@ -481,7 +507,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 4. Metallisch kwik wordt gedurende een periode van ten hoogste vijf jaar opgeslagen, met dien verstande dat een tussentijdse onderbreking van de opslag niet leidt tot onderbreking van deze periode.
 
-#### Artikel 32c
+##### Artikel 32c
 
 1. De vaten die voor de tijdelijke opslag van metallisch kwik worden gebruikt zijn:
 
@@ -501,7 +527,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 6. Ieder vat dat voor de tijdelijke opslag van metallisch kwik wordt gebruikt is voorzien van een certificaat als bedoeld in [artikel 32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2024-01-01&g=2024-01-01), en draagt een permanent op het vat bevestigd plaatje waarop het identificatienummer van het certificaat vermeld staat.
 
-#### Artikel 32d
+##### Artikel 32d
 
 1. Het certificaat, bedoeld in [artikel 32c, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2024-01-01&g=2024-01-01), bevat de volgende gegevens:
 
@@ -523,7 +549,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 3. De certificaten worden afgegeven door de producent van de afvalstoffen of, bij het ontbreken daarvan, door de persoon die verantwoordelijk is voor het beheer ervan.
 
-#### Artikel 32e
+##### Artikel 32e
 
 1. De vaten met daarin het metallisch kwik worden opgeslagen in een opslagvoorziening voor metallisch kwik.
 
@@ -533,7 +559,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 4. Iedere opslagvoorziening voor metallisch kwik is zodanig ingericht dat alle vaten gemakkelijk bereikbaar zijn.
 
-#### Artikel 32f
+##### Artikel 32f
 
 1. De opslaglocatie voor metallisch kwik is voorzien van kunstmatige of natuurlijke barrières die geschikt zijn om het milieu tegen kwikemissies te beschermen.
 
@@ -545,7 +571,7 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 5. De opslaglocatie voor metallisch kwik is uitgerust met een toereikend brandbeveiligingssysteem.
 
-#### Artikel 32g
+##### Artikel 32g
 
 Op de opslaglocatie voor metallisch kwik is een permanent meetsysteem voor kwikdamp met een gevoeligheid van ten minste 0,02 mg kwik/m3 geïnstalleerd, waarbij:
 
@@ -553,17 +579,17 @@ Op de opslaglocatie voor metallisch kwik is een permanent meetsysteem voor kwikd
 
 - b. het meetsysteem een visueel en akoestisch alarmmechanisme omvat en jaarlijks onderhouden wordt.
 
-#### Artikel 32h
+##### Artikel 32h
 
 1. De opslaglocatie voor metallisch kwik en de vaten worden ten minste eenmaal per maand visueel onderzocht door of namens degene die de stortplaats exploiteert.
 
 2. Wanneer lekkage van kwik wordt vastgesteld, onderneemt degene die de stortplaats exploiteert onmiddellijk de nodige maatregelen om elke kwikemissie in het milieu te voorkomen en de veiligheid van de opslag van het kwik te herstellen en stelt deze het bevoegd gezag onmiddellijk van de lekkage in kennis.
 
-#### Artikel 32i
+##### Artikel 32i
 
 Op de opslaglocatie voor metallisch kwik staan noodplannen met het oog op mogelijke optredende calamiteiten en passende beschermende uitrusting voor het hanteren van metallisch kwik ter beschikking.
 
-#### Artikel 32j
+##### Artikel 32j
 
 1. De gegevens betreffende het bepaalde in de [artikelen 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32a&z=2024-01-01&g=2024-01-01), [32b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32b&z=2024-01-01&g=2024-01-01), [32c](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32c&z=2024-01-01&g=2024-01-01), [32d](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32d&z=2024-01-01&g=2024-01-01), [32g](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32g&z=2024-01-01&g=2024-01-01), [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32h&z=2024-01-01&g=2024-01-01) en [32i](https://wetten.overheid.nl/jci1.3:c:BWBR0026131&hoofdstuk=3a&artikel=32i&z=2024-01-01&g=2024-01-01) worden door middel van het bijhouden en archiveren van daartoe geschikte documenten, al dan niet in elektronische vorm, vastgelegd en ter beschikking gehouden van het bevoegd gezag.
 
@@ -571,7 +597,7 @@ Op de opslaglocatie voor metallisch kwik staan noodplannen met het oog op mogeli
 
 3. Alle documenten betreffende de afvoer van metallisch kwik na de tijdelijke opslag ervan en documenten betreffende de bestemming en voorgenomen behandeling, zoals bedoeld in [artikel 10.38, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38), worden gedurende ten minste vijf jaar na het einde van de tijdelijke opslag bewaard.
 
-#### Artikel 32k
+##### Artikel 32k
 
 1. Metallisch kwik wordt na de tijdelijke opslag van een periode van maximaal vijf jaar afgevoerd naar een locatie voor permanente opslag van metallisch kwik.
 

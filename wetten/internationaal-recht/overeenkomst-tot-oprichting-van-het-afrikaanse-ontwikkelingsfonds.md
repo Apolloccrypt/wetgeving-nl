@@ -1,20 +1,42 @@
 ---
 title: "Overeenkomst tot oprichting van het Afrikaanse Ontwikkelingsfonds"
 identifier: "BWBV0003816"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-07-04
-laatste_update: 2003-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003816"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-07-04"
+last_updated: "2003-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003816"
+soort: "verdrag"
+stam_id: "10003727233"
+version_id: "10003790762"
+internal_id: "C10006982961"
+label_id: "10003713724"
+dtd_version: "2.0"
+original_entry_into_force: "1973-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003816/2003-07-04/0"
+intitule_bron: "Trb.1973-51"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-05-01"
+intitule_in_force: "1974-04-02"
+intitule_status: "goed"
+original_publication: "Trb.1973-51"
+original_published_date: "1973-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-51"
+entry_into_force_date: "1973-06-30"
+jci_1_3: "jci1.3:c:BWBV0003816&z=2003-07-04&g=2003-07-04"
+jci_1_0: "1.0:c:BWBV0003816&g=2003-07-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-06-30"
 ---
-
 # Overeenkomst tot oprichting van het Afrikaanse Ontwikkelingsfonds
 
 De Staten die bij deze Overeenkomst partij zijn en de Afrikaanse Ontwikkelingsbank zijn overeengekomen hierbij het Afrikaanse Ontwikkelingsfonds op te richten, waarop de onderstaande bepalingen van toepassing zijn:
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 (1). Overal waar de onderstaande uitdrukkingen in deze Overeenkomst worden gebezigd, wordt daaraan de hieronder aangegeven betekenis gehecht, tenzij uit het zinsverband duidelijk blijkt of het zinsverband vereist dat een andere betekenis aan deze termen moet worden toegekend:
 
@@ -46,11 +68,11 @@ De Staten die bij deze Overeenkomst partij zijn en de Afrikaanse Ontwikkelingsba
 
 ### HOOFDSTUK II. Doel en deelneming
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het Fonds heeft ten doel de Bank te helpen een steeds doeltreffender bijdrage te leveren aan de economische en sociale ontwikkeling van de leden van de Bank, alsmede aan het bevorderen van samenwerking (met inbegrip van regionale en sub-regionale samenwerking) en van een omvangrijker internationaal handelsverkeer, met name tussen de leden. Het verschaft op concessionele voorwaarden geldmiddelen voor doeleinden die van het grootste belang zijn voor en dienstbaar zijn aan een zodanige ontwikkeling.
 
-#### Artikel 3. Deelneming
+##### Artikel 3. Deelneming
 
 (1). Deelnemers in het Fonds zijn de Bank en de Staten die overeenkomstig de bepalingen van deze Overeenkomst daarbij partij zijn geworden.
 
@@ -62,7 +84,7 @@ Het Fonds heeft ten doel de Bank te helpen een steeds doeltreffender bijdrage te
 
 ### HOOFDSTUK III. Middelen
 
-#### Artikel 4. Middelen
+##### Artikel 4. Middelen
 
 De middelen van het Fonds worden gevormd door:
 
@@ -74,11 +96,11 @@ De middelen van het Fonds worden gevormd door:
 
 - (iv). fondsen afkomstig uit werkzaamheden of uit anderen hoofde toevloeiend aan het Fonds.
 
-#### Artikel 5. Bijdragen van de Bank
+##### Artikel 5. Bijdragen van de Bank
 
 De Bank betaalt het Fonds als aanvangsbijdrage het in rekeneenheden uitgedrukte bedrag dat achter haar naam staat vermeld in bijlage A, waarbij zij voor dat doel de fondsen aanwendt die op het tegoed van het „Afrikaanse Ontwikkelingsfonds” van de Bank staan geboekt. De betaling geschiedt op dezelfde voorwaarden als vervat in artikel 6, tweede lid, voor de betaling van de aanvangsbijdrage van deelnemende Staten. Daarna draagt de Bank andere door de Raad van Bestuur van de Bank te bepalen bijdragen bij, op met het Fonds overeengekomen voorwaarden.
 
-#### Artikel 6. Aanvangsbijdragen van deelnemende Staten
+##### Artikel 6. Aanvangsbijdragen van deelnemende Staten
 
 (1). Iedere deelnemende Staat schrijft bij deelneming in voor een bijdrage voor het door deze Staat vastgestelde bedrag. Zulke bijdragen worden hierna aangeduid met de term „aanvangsbijdragen”.
 
@@ -90,7 +112,7 @@ De Bank betaalt het Fonds als aanvangsbijdrage het in rekeneenheden uitgedrukte 
 
 (5). Niettegenstaande de voorgaande bepalingen van dit artikel, kan een deelnemende Staat gedurende een tijdvak van niet meer dan drie maanden het verrichten van een krachtens dit artikel vereiste betaling uitstellen, wanneer overwegingen van budgettaire aard of andere overwegingen een zodanig uitstel noodzakelijk maken.
 
-#### Artikel 7. Aanvullende bijdragen van deelnemende Staten
+##### Artikel 7. Aanvullende bijdragen van deelnemende Staten
 
 (1). Wanneer het Fonds, gezien het betalingsschema voor de aanvangsbijdragen van oorspronkelijke deelnemers, en gezien zijn eigen werkzaamheden zulks passend acht, alsook met passende tussenpozen daarna, neemt het de toereikendheid van zijn middelen in studie en kan het, zo het zulks wenselijk acht, zijn goedkeuring hechten aan een algemene verhoging van de bijdragen van de deelnemende Staten op door het Fonds vast te stellen voorwaarden. Niettegenstaande het voorgaande kan het Fonds te allen tijde aan algemene of individuele verhogingen van bijdragen zijn goedkeuring hechten, met dien verstande dat een individuele verhoging slechts op verzoek van de betrokken deelnemende Staat in overweging wordt genomen.
 
@@ -100,7 +122,7 @@ De Bank betaalt het Fonds als aanvangsbijdrage het in rekeneenheden uitgedrukte 
 
 (4). Machtigingen tot, en beslissingen ten aanzien van algemene verhogingen krachtens het eerste lid worden verstrekt, onderscheidenlijk genomen, met een meerderheid van 85% van het totale aantal stemmen van de deelnemers.
 
-#### Artikel 8. Andere middelen
+##### Artikel 8. Andere middelen
 
 (1). Onverminderd de volgende bepalingen van dit artikel, kan het Fonds overeenkomsten aangaan met het doel andere middelen, daarbij inbegrepen schenkingen en leningen, te ontvangen van leden, deelnemers, Staten die geen deelnemer zijn, of van enigerlei openbare of particuliere instantie of instanties.
 
@@ -112,17 +134,17 @@ De Bank betaalt het Fonds als aanvangsbijdrage het in rekeneenheden uitgedrukte 
 
 (5). Het Fonds aanvaardt geen leningen (behalve tijdelijke voorschotten die het voor zijn werkzaamheden nodig heeft) die niet op concessionele voorwaarden worden verstrekt en leent niet op geldmarkten, of neemt niet als leningnemer, als degene die een zekerheid stelt of anderszins deel in de uitgifte van effecten op geldmarkten en geeft geen verhandelbare of overdraagbare schuldbrieven uit, waaruit de schuldverplichting blijkt voor krachtens het eerste lid ontvangen leningen.
 
-#### Artikel 9. Betaling der bijdragen
+##### Artikel 9. Betaling der bijdragen
 
 Het Fonds aanvaardt elk deel van de bijdage van een deelnemer dat krachtens de artikelen 5, 6 of 7 of krachtens artikel 13 door de deelnemer moet worden betaald en dat het Fonds niet nodig heeft bij zijn werkzaamheden, in de vorm van promessen, kredietbrieven of soortgelijke schuldbrieven uitgegeven door de deelnemer of de eventuele bewaarinstelling, aangewezen door de deelnemer krachtens artikel 33. Zodanige promessen of andere schuldbrieven zijn niet verhandelbaar, niet rentedragend en op verzoek tegen pari-waarde betaalbaar op de rekening van het Fonds bij de aangewezen bewaarinstelling, of indien er geen bewaar instelling is aangewezen, volgens aanwijzingen van het Fonds. Ongeacht de uitgifte of aanvaarding van een zodanige promesse, kredietbrief of andere schuldbrief, blijft de verplichting van de deelnemer krachtens de artikelen 5, 6 of 7 en artikel 13 bestaan. Gelden in het bezit van het Fonds op grond van bijdragen van deelnemers die geen gebruik maken van de bepalingen van dit artikel kunnen door het Fonds ter bewaring worden gesteld of belegd ter verwerving van inkomen ten einde zijn administratieve en andere uitgaven te helpen bestrijden. Voor zover over een redelijke termijn uitvoerbaar neemt het Fonds op basis van evenredigheid gelden op van alle ontvangen bijdragen ter financiering van zijn uitgaven, ongeacht de vorm waarin zodanige bijdragen zijn geleverd.
 
-#### Artikel 10. Beperking van aansprakelijkheid
+##### Artikel 10. Beperking van aansprakelijkheid
 
 De deelnemers zijn niet op grond van hun deelneming aansprakelijk voor handelingen of verplichtingen van het Fonds.
 
 ### HOOFDSTUK IV. Valuta’s
 
-#### Artikel 11. Het gebruik der valuta’s
+##### Artikel 11. Het gebruik der valuta’s
 
 (1). De valuta’s ontvangen ter betaling van, of krachtens artikel 13 ten aanzien van, bijdragen verricht krachtens artikel 5 en artikel 6, tweede lid, kunnen door het Fonds worden gebruikt en omgewisseld voor al zijn werkzaamheden en, behoudens goedkeuring door het College van Bewindvoerders, voor het tijdelijk beleggen van middelen die het Fonds niet voor zijn werkzaamheden nodig heeft.
 
@@ -132,13 +154,13 @@ De deelnemers zijn niet op grond van hun deelneming aansprakelijk voor handeling
 
 (4). Er worden geen beperkingen opgelegd die in strijd zijn met het bepaalde in dit artikel.
 
-#### Artikel 12. De waardebepaling der valuta’s
+##### Artikel 12. De waardebepaling der valuta’s
 
 (1). Wanneer het krachtens deze Overeenkomst noodzakelijk is de waarde van een valuta te bepalen uitgedrukt in een andere valuta of valuta’s of in de rekeneenheid, dient deze waarde naar alle redelijkheid door het Fonds na overleg met het Internationale Monetaire Fonds te worden vastgesteld.
 
 (2). Bij een valuta die geen bij het Internationale Monetaire Fonds vastgestelde pariteit bezit, wordt de in de rekeneenheid uitgedrukte waarde van deze valuta telkens wanneer dit nodig blijkt door het Fonds vastgesteld krachtens het eerste lid van dit artikel; de aldus vastgestelde waarde wordt, wat deze Overeenkomst betreft, beschouwd als de pariteit van deze valuta, waarbij de bepalingen van artikel 13, eerste en tweede lid, zonder enige beperking van toepassing zijn.
 
-#### Artikel 13. De handhaving van de waarde van het valutabezit
+##### Artikel 13. De handhaving van de waarde van het valutabezit
 
 (1). Steeds wanneer de pariteit in het Internationale Monetaire Fonds van de valuta van een deelnemende Staat wordt verminderd in verhouding tot de rekeneenheid, of zijn wisselkoers naar de mening van het Fonds in aanmerkelijke mate is gedeprecieerd binnen het grondgebied van die deelnemer, betaalt die deelnemer het Fonds binnen een redelijke termijn een bedrag van zijn valuta vereist om de waarde te handhaven, berekend naar het tijdstip van inschrijving, van het bedrag aan valuta dat in het Fonds was gestort door die deelnemer krachtens artikel 6 en krachtens de bepalingen van dit lid, ongeacht of deze valuta wordt gehouden in de vorm van promessen, kredietbrieven of andere schuldbrieven aanvaard krachtens artikel 9 met dien verstande dat het voorgaande alleen van toepassing is indien en voor zover deze valuta niet voor de eerste maal is uitbetaald of omgewisseld in een andere valuta.
 
@@ -148,13 +170,13 @@ De deelnemers zijn niet op grond van hun deelneming aansprakelijk voor handeling
 
 ### HOOFDSTUK V. Werkzaamheden
 
-#### Artikel 14. Het gebruik der geldmiddelen
+##### Artikel 14. Het gebruik der geldmiddelen
 
 (1). Het Fonds verstrekt geldmiddelen voor projecten en programma’s ter bevordering van de economische en sociale ontwikkeling op het grondgebied van de leden. Het Fonds verstrekt deze geldmiddelen ten behoeve van leden waarvan de economische situatie en de economische vooruitzichten het noodzakelijk maken dat aan hen geldmiddelen op concessionele voorwaarden worden verstrekt.
 
 (2). De door het Fonds verstrekte geldmiddelen dienen voor doeleinden die naar de mening van het Fonds, gezien de behoeften van het betrokken gebied of de betrokken gebieden, voor de ontwikkeling hoge voorrang verdienen, en dienen, behoudens bijzondere omstandigheden, te worden gebruikt voor nauwkeurig omschreven projecten of groepen projecten, vooral die welke een onderdeel vormen van een nationaal of regionaal of sub-regionaal programma, met inbegrip van de verstrekking van geldmiddelen aan nationale ontwikkelingsbanken of aan andere daarvoor in aanmerking komende instellingen met het oog op het doorlenen van gelden voor door het Fonds goedgekeurde nauwkeurig omschreven projecten.
 
-#### Artikel 15. Financieringsvoorwaarden
+##### Artikel 15. Financieringsvoorwaarden
 
 (1). Het Fonds verstrekt geen geldmiddelen ter financiering van een project op het grondgebied van een lid indien dat lid daartegen bezwaar maakt, met dien verstande dat indien geldmiddelen worden verstrekt aan een publiekrechtelijke internationale, regionale of subregionale organisatie het Fonds zich er niet van behoeft te overtuigen dat individuele leden geen bezwaar maken.
 
@@ -182,7 +204,7 @@ De deelnemers zijn niet op grond van hun deelneming aansprakelijk voor handeling
 
 (11). Het Fonds neemt de maatregelen die nodig zijn om een doeltreffende toepassing van dit artikel te verzekeren.
 
-#### Artikel 16. Financieringsvorm en -voorwaarden
+##### Artikel 16. Financieringsvorm en -voorwaarden
 
 (1). Financiering door het Fonds uit middelen verstrekt krachtens de artikelen 5, 6 en 7 en uit terugbetaling van en inkomen voortvloeiend uit deze financiering, vindt plaats bij wege van leningen. Het Fonds kan andere financiering verstrekken, met inbegrip van schenkingen, uit middelen ontvangen krachtens regelingen uit hoofde van artikel 8, die uitdrukkelijk een zodanige financiering toestaan.
 
@@ -198,33 +220,33 @@ De deelnemers zijn niet op grond van hun deelneming aansprakelijk voor handeling
 
 (6). Voordat geldmiddelen ter beschikking worden gesteld aan of ten behoeve van een lid of voor een project op het grondgebied van een lid, overtuigt het Fonds zich ervan dat zulk een lid alle bestuursrechtelijke en wettelijke maatregelen ten aanzien van dit gebied heeft getroffen, die nodig zijn om uitvoering te geven aan het bepaalde in artikel 11, vierde lid, en Hoofdstuk VIII, alsof het lid een deelnemende Staat is; voorwaarde voor een zodanige financiering is dat deze bestuursrechtelijke en wettelijke maatregelen gehandhaafd blijven en dat in geval van een geschil tussen het Fonds en een lid, en bij gebreke van andere regelingen ter zake, het bepaalde in artikel 53 van toepassing is alsof het lid een deelnemende Staat is zich bevindend in de omstandigheden waarop dat artikel van toepassing is.
 
-#### Artikel 17. Toepassing en beoordeling
+##### Artikel 17. Toepassing en beoordeling
 
 Door het Fonds gefinancierde voltooide projecten, programma’s en activiteiten worden aan een grondig en voortdurend onderzoek onderworpen ten einde het College van Bewindvoerders en de President bij te staan bij het beoordelen of het Fonds bij de verwezenlijking van zijn doelstellingen doelmatig te werk gaat. Met instemming van het College van Bewindvoerders treft de President regelingen voor het verrichten van zodanige beoordelingen, waarvan de resultaten via de President ter kennis van het College van Bewindvoerders worden gebracht.
 
-#### Artikel 18. Samenwerking met andere internationale organisaties, andere instellingen en Staten
+##### Artikel 18. Samenwerking met andere internationale organisaties, andere instellingen en Staten
 
 Ter bevordering van de verwezenlijking van zijn doelstellingen streeft het Fonds naar samenwerking en kan het regelingen treffen voor samenwerking met andere internationale organisaties, regionale en sub-regionale organisaties, andere instellingen en Staten, met dien verstande dat geen zodanige regeling met een Staat die geen lid of deelnemer is of met een organisatie van die Staat wordt getroffen, tenzij deze is goedgekeurd met een meerderheid van 85% van het totale aantal stemmen van de deelnemers.
 
-#### Artikel 19. Technische hulp
+##### Artikel 19. Technische hulp
 
 Ter bevordering van de verwezenlijking van zijn doelstellingen kan het Fonds technische hulp verlenen, maar deze hulp zal gewoonlijk moeten worden terugbetaald, indien zij niet wordt verleend krachtens bijzondere schenkingen voor technische hulp of uit andere middelen die aan het Fonds voor dit doel ter beschikking zijn gesteld.
 
-#### Artikel 20. Diverse werkzaamheden
+##### Artikel 20. Diverse werkzaamheden
 
 Naast de uitoefening van de elders in deze Overeenkomst bedoelde bevoegdheden kan het Fonds andere met zijn werkzaamheden samenhangende activiteiten ondernemen, die nodig of wenselijk zijn ter bevordering van zijn doelstellingen en die niet strijdig zijn met de bepalingen van deze Overeenkomst.
 
-#### Artikel 21. Verbod van politieke activiteit
+##### Artikel 21. Verbod van politieke activiteit
 
 Het Fonds noch functionarissen of andere personen die namens het Fonds optreden, mengen zich in de politieke aangelegenheden van een lid; noch laten zij zich bij hun beslissingen door de politieke instelling van het betrokken lid of de betrokken leden beïnvloeden. Bij hun beslissingen laten zij zich slechts leiden door overwegingen betreffende de economische en sociale ontwikkeling van de leden en deze overwegingen worden op onpartijdige wijze beoordeeld ten einde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.
 
 ### HOOFDSTUK VI. Organisatie en bestuur
 
-#### Artikel 22. Organisatie van het Fonds
+##### Artikel 22. Organisatie van het Fonds
 
 Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders en een President. Het Fonds maakt voor de uitoefening van zijn taken gebruik van de functionarissen, het personeel, de organisatie, de diensten en toerusting van de Bank en, indien het College van Bewindvoerders tot de conclusie komt dat er behoefte is aan extra personeel, krijgt het Fonds dit personeel toegewezen, dat door de President in dienst wordt genomen krachtens artikel 30, vierde lid, onder (v).
 
-#### Artikel 23. Raad van Bestuur: bevoegdheden
+##### Artikel 23. Raad van Bestuur: bevoegdheden
 
 (1). Alle bevoegdheden van het Fonds berusten bij de Raad van Bestuur.
 
@@ -252,7 +274,7 @@ Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders en een Pres
 
 (3). De Raad van Bestuur kan de overdracht van een bepaalde bevoegdheid aan het College van Bewindvoerders te allen tijde herroepen.
 
-#### Artikel 24. Raad van Bestuur: samenstelling
+##### Artikel 24. Raad van Bestuur: samenstelling
 
 (1). De Bestuurders en plaatsvervangende bestuurders van de Bank zijn ambtshalve bestuurders onderscheidenlijk plaatsvervangende bestuurders van het Fonds. De President van de Bank stelt het Fonds eventueel in kennis van de namen van deze bestuurders en plaatsvervangende bestuurders.
 
@@ -262,7 +284,7 @@ Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders en een Pres
 
 (4). Behoudens het bepaalde in artikel 60, vierde lid, vervullen de bestuurders en plaatsvervangende bestuurders hun taak zonder beloning of vergoeding van onkosten door het Fonds.
 
-#### Artikel 25. Raad van Bestuur: procedure
+##### Artikel 25. Raad van Bestuur: procedure
 
 (1). De Raad van Bestuur houdt een jaarvergadering en alle andere vergaderingen die de Raad nodig acht of die door het College van Bewindvoerders worden bijeengeroepen. De Voorzitter van de Raad van Bestuur van de Bank is ambtshalve Voorzitter van de Raad van Bestuur van het Fonds.
 
@@ -276,7 +298,7 @@ Het Fonds heeft een Raad van Bestuur, een College van Bewindvoerders en een Pres
 
 (6). De Raad van Bestuur, en het College van Bewindvoerders voor zover het daartoe is gemachtigd door de Raad van Bestuur of door deze Overeenkomst, kunnen voorschriften vaststellen, die niet strijdig zijn met deze Overeenkomst en die noodzakelijk zijn of wenselijk worden geacht voor de uitoefening van de werkzaamheden van het Fonds.
 
-#### Artikel 26. Het College van Bewindvoerders: taken
+##### Artikel 26. Het College van Bewindvoerders: taken
 
 Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, is het College van Bewindvoerders belast met de leiding van de algemene werkzaamheden van het Fonds en oefent het tot dit doel alle taken uit die dit College uitdrukkelijk door deze Overeenkomst zijn verleend of door de Raad van Bestuur aan dit College zijn overgedragen, en wel in het bijzonder:
 
@@ -294,7 +316,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, 
 
 - (vii). het goedkeuren van de begroting en het algemene, programma voor leningen, alsmede van het beleid van het Fonds, overeenkomstig de middelen die onderscheidenlijk voor deze doeleinden beschikbaar zijn.
 
-#### Artikel 27. College van Bewindvoerders: samenstelling
+##### Artikel 27. College van Bewindvoerders: samenstelling
 
 (1). Er is een College van Bewindvoerders bestaande uit twaalf bewindvoerders.
 
@@ -322,13 +344,13 @@ Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, 
 
 (8). Bewindvoerders en hun plaatsvervangers vervullen hun taak zonder beloning of vergoeding van onkosten door het Fonds.
 
-#### Artikel 28. College van Bewindvoerders: procedure
+##### Artikel 28. College van Bewindvoerders: procedure
 
 (1). Het College van Bewindvoerders vergadert telkens wanneer de werkzaamheden van het Fonds dit vereisen. De Voorzitter roept een vergadering van het College van Bewindvoerders bijeen wanneer daarom wordt verzocht door vier bewindvoerders.
 
 (2). Het quorum voor een vergadering van het College van Bewindvoerders wordt gevormd door een meerderheid van het totale aantal bewindvoerders die niet minder dan drie/vierde van het totale aantal stemmen van de deelnemers bezitten.
 
-#### Artikel 29. Stemrecht
+##### Artikel 29. Stemrecht
 
 (1). De Bank en de deelnemende Staten als groep hebben elk 1000 stemmen.
 
@@ -344,7 +366,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, 
 
 (7). Voor zover in deze Overeenkomst niet anders is bepaald, worden alle besluiten van de Raad van Bestuur of het College van Bewindvoerders genomen met een meerderheid van drie/vierde van het totale aantal stemmen van de deelnemers.
 
-#### Artikel 30. De President
+##### Artikel 30. De President
 
 (1). De President van de Bank is ambtshalve President van het Fonds. Hij is Voorzitter van het College van Bewindvoerders, doch heeft geen stemrecht. Hij mag deelnemen aan vergaderingen van de Raad van Bestuur, doch heeft geen stemrecht.
 
@@ -364,7 +386,7 @@ Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, 
 
 - (v). hij neemt het personeel, daarbij inbegrepen adviseurs en deskundigen, in dienst dat het Fonds behoeft en kan het dienstverband daarvan beëindigen.
 
-#### Artikel 31. Verhouding tot de Bank
+##### Artikel 31. Verhouding tot de Bank
 
 (1). Het Fonds vergoedt de Bank op billijke wijze voor het gebruik van de functionarissen, het personeel, de organisatie, de diensten en de toerusting van de Bank, overeenkomstig tussen het Fonds en de Bank getroffen regelingen.
 
@@ -372,19 +394,19 @@ Onverminderd de bevoegdheden van de Raad van Bestuur als bepaald in artikel 23, 
 
 (3). Geen bepaling van deze Overeenkomst stelt het Fonds aansprakelijk voor de handelingen of verbintenissen van de Bank, of stelt de Bank aansprakelijk voor de handelingen of verbintenissen van het Fonds.
 
-#### Artikel 32. Kantoor van het Fonds
+##### Artikel 32. Kantoor van het Fonds
 
 Het kantoor van het Fonds is het hoofdkantoor van de Bank.
 
-#### Artikel 33. Bewaarinstellingen
+##### Artikel 33. Bewaarinstellingen
 
 Elke deelnemende Staat wijst zijn centrale bank of een andere instelling die voor het Fonds aanvaardbaar is aan als een bewaarinstelling waar het Fonds saldi in de valuta van die deelnemer of andere activa van het Fonds kan aanhouden. Bij gebreke van een andere aanwijzing is de bewaarinstelling voor elk lid de door hem aangewezen bewaarinstelling voor de toepassing van de Overeenkomst tot oprichting van de Bank.
 
-#### Artikel 34. Verbindingen
+##### Artikel 34. Verbindingen
 
 Elke deelnemende Staat wijst een passende instantie aan, waarmede het Fonds zich in verbinding kan stellen in verband met ieder vraagstuk dat zich als gevolg van deze Overeenkomst kan voordoen. Bij gebreke van een andere aanwijzing is de door een lid voor de Bank aangewezen verbindingsinstantie de verbindingsinstantie voor het Fonds.
 
-#### Artikel 35. Publikatie van verslagen en het verstrekken van inlichtingen
+##### Artikel 35. Publikatie van verslagen en het verstrekken van inlichtingen
 
 (1). Het Fonds publiceert een jaarverslag dat de door accountants gecontroleerde jaarrekening bevat en verstrekt met passende tussenpozen aan deelnemers en leden een beknopt overzicht van zijn financiële positie, alsmede een staat van inkomsten en uitgaven waaruit de resultaten van zijn werkzaamheden blijken.
 
@@ -392,23 +414,23 @@ Elke deelnemende Staat wijst een passende instantie aan, waarmede het Fonds zich
 
 (3). Van alle verslagen, overzichten en publikaties die krachtens dit artikel worden samengesteld, worden afschriften verstrekt aan de deelnemers en de leden.
 
-#### Artikel 36. Verdeling van het netto-inkomen
+##### Artikel 36. Verdeling van het netto-inkomen
 
 De Raad van Bestuur neemt telkens wanneer dit nodig blijkt beslissingen omtrent de verdeling van het netto-inkomen van het Fonds, met inachtneming van de nodige voorzieningen voor reserveringen en onvoorziene omstandigheden.
 
 ### HOOFDSTUK VII. Opzegging; schorsing van deelneming; beëindiging der werkzaamheden
 
-#### Artikel 37. Opzegging door deelnemers
+##### Artikel 37. Opzegging door deelnemers
 
 Iedere deelnemer kan te allen tijde zijn deelneming in het Fonds opzeggen door middel van een schriftelijke mededeling aan het hoofdkantoor van het Fonds. De opzegging wordt van kracht op de dag van ontvangst van een dergelijke mededeling of op een in deze mededeling aangegeven datum, die uiterlijk 6 maanden later mag liggen.
 
-#### Artikel 38. Schorsing van deelneming
+##### Artikel 38. Schorsing van deelneming
 
 (1). Indien een deelnemer enige verplichting tegenover het Fonds niet nakomt, kan het Fonds bij besluit van de Raad van Bestuur de deelnemer schorsen. De op deze wijze geschorste deelnemer houdt één jaar na de datum van zijn schorsing automatisch op deelnemer te zijn, tenzij door de Raad van Bestuur wordt besloten de deelnemer in ere te herstellen.
 
 (2). Zolang de deelnemer geschorst is, is hij niet bevoegd enig recht uit hoofde van deze Overeenkomst uit te oefenen, behalve het recht van opzegging, maar de deelnemer blijft aan alle verplichtingen gebonden.
 
-#### Artikel 39. Rechten en verplichtingen van Staten die ophouden deelnemer te zijn
+##### Artikel 39. Rechten en verplichtingen van Staten die ophouden deelnemer te zijn
 
 (1). Indien een Staat ophoudt deelnemer te zijn, heeft hij geen rechten krachtens deze Overeenkomst met uitzondering van die vervat in dit artikel en in artikel 53, maar hij blijft voor zover in dit artikel niet anders wordt bepaald, aansprakelijk voor alle door hem tegenover het Fonds als deelnemer, debiteur, garant of anderszins aangegane financiële verplichtingen.
 
@@ -434,7 +456,7 @@ Iedere deelnemer kan te allen tijde zijn deelneming in het Fonds opzeggen door m
 
 (4). In geen geval wordt enig aan een Staat krachtens dit artikel verschuldigd bedrag eerder uitbetaald dan zes maanden na de datum waarop hij ophield deelnemer te zijn. Indien het Fonds binnen zes maanden na de datum waarop een Staat ophoudt deelnemer te zijn in het Fonds, zijn werkzaamheden overeenkomstig artikel 40 beëindigt, worden alle rechten van die Staat door artikel 40 bepaald en wordt hij voor de toepassing van artikel 40 als deelnemer in het Fonds beschouwd, met dien verstande dat hij geen stemrecht heeft.
 
-#### Artikel 40. Beëindiging van werkzaamheden en regeling van verplichtingen
+##### Artikel 40. Beëindiging van werkzaamheden en regeling van verplichtingen
 
 (1). Het Fonds kan zijn werkzaamheden beëindigen bij besluit van de Raad van Bestuur. Opzegging door de Bank of door alle deelnemende Staten krachtens artikel 37 betekent beëindiging van de werkzaamheden van het Fonds. Na een zodanige beëindiging van de werkzaamheden staakt het Fonds onmiddellijk alle activiteiten, behalve die welke verband houden met het ordelijk te gelde maken, in stand houden en beschermen van zijn activa en de regeling van zijn verplichtingen. Tot het tijdstip van de uiteindelijke regeling van die verplichtingen en de uitwerking van die activa blijft het Fonds voortbestaan en blijven alle wederzijdse rechten en verplichtingen van het Fonds en zijn deelnemers ingevolge deze Overeenkomst onverminderd van kracht, met dien verstande dat geen deelnemer wordt geschorst of zijn deelneming kan opzeggen en dat geen uitkering aan de deelnemers wordt gedaan, behalve als in dit artikel bepaald.
 
@@ -446,11 +468,11 @@ Iedere deelnemer kan te allen tijde zijn deelneming in het Fonds opzeggen door m
 
 ### HOOFDSTUK VIII. Rechtspositie; immuniteiten; vrijstellingen en voorrechten
 
-#### Artikel 41. Doel van het Hoofdstuk
+##### Artikel 41. Doel van het Hoofdstuk
 
 Ten einde het Fonds in staat te stellen op doeltreffende wijze zijn doelstellingen te verwezenlijken en zijn taken te vervullen, worden op het grondgebied van elke deelnemende Staat in het Fonds de in dit Hoofdstuk vermelde rechtspositie, immuniteiten, vrijstellingen en voorrechten toegekend en deelt elke deelnemende Staat aan het Fonds de bijzondere maatregelen mede die hij te dien einde heeft getroffen.
 
-#### Artikel 42. Rechtspositie
+##### Artikel 42. Rechtspositie
 
 Het Fonds bezit onverkorte rechtspersoonlijkheid en heeft in het bijzonder de bevoegdheid:
 
@@ -460,7 +482,7 @@ Het Fonds bezit onverkorte rechtspersoonlijkheid en heeft in het bijzonder de be
 
 - (iii). rechtsgedingen te voeren.
 
-#### Artikel 43. Rechtsvordering
+##### Artikel 43. Rechtsvordering
 
 (1). Het Fonds geniet immuniteit van iedere vorm van rechtsvordering, behalve in gevallen voortspruitende uit of verbandhoudend met zijn bevoegdheid leningen te ontvangen overeenkomstig artikel 8, in welke gevallen vorderingen tegen het Fonds mogen worden ingesteld voor een bevoegde rechter op het grondgebied van een land waar het kantoor van het Fonds is gevestigd of waar het een vertegenwoordiger heeft aangewezen voor het aannemen van gerechtelijke aanzeggingen of anderszins met de rechtsvervolging heeft ingestemd.
 
@@ -470,23 +492,23 @@ Het Fonds bezit onverkorte rechtspersoonlijkheid en heeft in het bijzonder de be
 
 (4). In gevallen waarin uit hoofde van de bepalingen van deze Overeenkomst het Fonds geen immuniteit van rechtsvordering geniet, zijn het Fonds en zijn eigendommen en activa, waar zij zich ook bevinden en wie deze ook in bezit heeft, niettemin vrij van iedere vorm van inbeslagneming, beslaglegging of executie alvorens een eindvonnis tegen het Fonds is uitgesproken.
 
-#### Artikel 44. Immuniteit van activa
+##### Artikel 44. Immuniteit van activa
 
 Eigendommen en andere activa van het Fonds, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van onderzoek, vordering, inbeslagneming, onteigening of andere vormen van beslaglegging of uitsluiting op last van de uitvoerende of wetgevende macht.
 
-#### Artikel 45. Immuniteit van het archief
+##### Artikel 45. Immuniteit van het archief
 
 Het archief van het Fonds en in het algemeen alle documenten die het Fonds bezit of die bij het Fonds berusten, zijn onschendbaar, waar deze zich ook bevinden.
 
-#### Artikel 46. Vrijstelling der activa van beperkende maatregelen
+##### Artikel 46. Vrijstelling der activa van beperkende maatregelen
 
 Voor zover zulks nodig is voor de uitoefening van de taken en functies van het Fonds en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en andere activa van het Fonds vrijgesteld van beperkingen als gevolg van financieel toezicht, dan wel van voorschriften of moratoria van welke aard ook.
 
-#### Artikel 47. Bevoorrechte behandeling van mededelingen
+##### Artikel 47. Bevoorrechte behandeling van mededelingen
 
 Door elke deelnemende Staat wordt aan de officiële mededelingen van het Fonds dezelfde behandeling toegekend als aan de officiële mededelingen van andere internationale financiële instellingen waarvan hij lid is.
 
-#### Artikel 48. Immuniteiten en voorrechten van functionarissen en personeel
+##### Artikel 48. Immuniteiten en voorrechten van functionarissen en personeel
 
 Alle bestuurders en bewindvoerders en hun plaatsvervangers, de President en het personeel, alsmede deskundigen die voor het Fonds een opdracht vervullen:
 
@@ -496,7 +518,7 @@ Alle bestuurders en bewindvoerders en hun plaatsvervangers, de President en het 
 
 - (iii). genieten geen minder gunstige behandeling ten aanzien van reisfaciliteiten dan door de betrokken deelnemende Staat worden toegekend aan de vertegenwoordigers, functionarissen en employés van vergelijkbare rang in dienst van andere internationale financiële instellingen waarvan hij lid is.
 
-#### Artikel 49. Vrijstelling van belasting
+##### Artikel 49. Vrijstelling van belasting
 
 (1). Het Fonds, zijn activa, eigendommen, inkomsten, werkzaamheden en transacties zijn vrijgesteld van alle directe belastingen en van alle douanerechten of belastingen met gelijke werking op voor zijn officiële gebruik ingevoerde of uitgevoerde goederen. Het Fonds is eveneens vrijgesteld van iedere verplichting tot betaling, inhouding of inning van belastingen of heffingen.
 
@@ -506,7 +528,7 @@ Alle bestuurders en bewindvoerders en hun plaatsvervangers, de President en het 
 
 (4). Er wordt geen belasting geheven op of ter zake van salarissen en vergoedingen door het Fonds betaald aan de President en het personeel, met inbegrip van deskundigen die voor het Fonds een opdracht vervullen.
 
-#### Artikel 50. Afstand van immuniteiten, vrijstellingen en voorrechten door het Fonds
+##### Artikel 50. Afstand van immuniteiten, vrijstellingen en voorrechten door het Fonds
 
 (1). De immuniteiten, vrijstellingen en voorrechten bedoeld in dit Hoofdstuk worden verleend in het belang van het Fonds. Het College van Bewindvoerders kan, in een door dit College te bepalen mate en op door dit College te bepalen voorwaarden, afstand doen van de in dit Hoofdstuk bedoelde immuniteiten, vrijstellingen en voorrechten indien het van oordeel is dat de belangen van het Fonds hiermede zijn gediend.
 
@@ -514,7 +536,7 @@ Alle bestuurders en bewindvoerders en hun plaatsvervangers, de President en het 
 
 ### HOOFDSTUK IX. Wijzigingen
 
-#### Artikel 51
+##### Artikel 51
 
 (1). Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een deelnemer, een bestuurder of het College van Bewindvoerders, ingediend bij de voorzitter van de Raad van Bestuur, die het voorstel aan de Raad voorlegt. Indien de voorgestelde wijziging door de Raad wordt goedgekeurd, vraagt het Fonds, bij rondschrijven of per telegram, aan de deelnemers of zij de voorgestelde wijziging aannemen. Wanneer drie vierde van de deelnemers die 85% van het totale aantal stemmen bezitten de voorgestelde wijziging hebben aangenomen, bericht het Fonds dit door een officiële mededeling aan de deelnemers. De wijzigingen worden voor alle leden van kracht drie maanden na de datum van de officiële mededeling bedoeld in dit lid, tenzij de Raad van Bestuur een andere termijn of datum heeft bepaald.
 
@@ -530,39 +552,39 @@ Alle bestuurders en bewindvoerders en hun plaatsvervangers, de President en het 
 
 ### HOOFDSTUK X. Uitlegging en arbitrage
 
-#### Artikel 52. Uitlegging
+##### Artikel 52. Uitlegging
 
 (1). Meningsverschillen omtrent de uitlegging of toepassing van de bepalingen van deze Overeenkomst, die rijzen tussen een deelnemer en het Fonds of tussen deelnemers onderling, worden ter beslissing voorgelegd aan het College van Bewindvoerders. Indien een deelnemende Staat die niet in het College is vertegenwoordigd door een bewindvoerder van zijn eigen nationaliteit in bijzondere mate bij het desbetreffende meningsverschil is betrokken, is hij gerechtigd zich in zulke gevallen rechtstreeks te doen vertegenwoordigen. Zodanige rechten van vertegenwoordiging worden geregeld door de Raad van Bestuur.
 
 (2). In elk geval waarin het College van Bewindvoerders ingevolge het eerste lid een beslissing heeft genomen, kan een deelnemer verzoeken de zaak naar de Raad van Bestuur te verwijzen, tegen wiens oordeel geen beroep mogelijk is. Hangende de beslissing van de Raad van Bestuur kan het Fonds, voor zover het dit nodig acht, handelen op grond van de beslissing van het College van Bewindvoerders.
 
-#### Artikel 53. Arbitrage
+##### Artikel 53. Arbitrage
 
 In geval van een geschil tussen het Fonds en een Staat die opgehouden heeft deelnemer te zijn, of tussen het Fonds en een deelnemer bij de beëindiging van de werkzaamheden van het Fonds, wordt een zodanig geschil onderworpen aan arbitrage door een scheidsgerecht van drie scheidsmannen. Een van de scheidsmannen wordt benoemd door het Fonds, een andere door de betrokken deelnemer of voormalige deelnemer en beide partijen benoemen de derde scheidsman, die optreedt als Voorzitter. Indien binnen 45 dagen na de ontvangst van het verzoek om arbitrage een der partijen geen scheidsman heeft benoemd of indien binnen 30 dagen na de benoeming van twee scheidsmannen de derde scheidsman niet is benoemd, kan een der partijen de President van het Internationale Gerechtshof, of een andere autoriteit die daarvoor bij een door de Raad van Bestuur aangenomen regeling aangewezen is, verzoeken een scheidsman te benoemen. De scheidsrechterlijke procedure wordt vastgesteld door de scheidsmannen, doch de derde scheidsman heeft de volledige bevoegdheid alle vraagstukken de procedure betreffende te regelen indien ter zake daarvan onenigheid tussen partijen mocht bestaan. Een gewone meerderheid van stemmen van de scheidsmannen is voldoende om een beslissing te nemen, die voor partijen definitief en bindend is.
 
 ### HOOFDSTUK XI. Slotbepalingen
 
-#### Artikel 54. Ondertekening
+##### Artikel 54. Ondertekening
 
 Het origineel van deze Overeenkomst blijft tot 31 maart 1973 openstaan voor ondertekening door de Bank en door de Staten wier namen zijn opgenomen in bijlage A.
 
-#### Artikel 55. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 55. Bekrachtiging, aanvaarding of goedkeuring
 
 (1). Deze Overeenkomst dient door de ondertekenaren te worden bekrachtigd, aanvaard of goedgekeurd.
 
 (2). De akten van bekrachtiging, aanvaarding of goedkeuring worden vóór 31 december 1973 door elke ondertekenaar bij de Bank op zijn hoofdkantoor nedergelegd, met dien verstande dat, indien deze Overeenkomst op die datum nog niet in werking is getreden overeenkomstig artikel 56, het College van Bewindvoerders van de Bank de termijn voor nederlegging van akten van bekrachtiging, aanvaarding of goedkeuring kan verlengen met ten hoogste zes maanden.
 
-#### Artikel 56. Inwerkingtreding
+##### Artikel 56. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de datum waarop de Bank en acht ondertekenende Staten wier aanvangsbijdragen, als opgenomen in bijlage A bij deze Overeenkomst, in totaal niet minder dan 55 miljoen rekeneenheden omvatten, hun akte van bekrachtiging, aanvaarding of goedkeuring hebben nedergelegd.
 
-#### Artikel 57. Deelneming
+##### Artikel 57. Deelneming
 
 (1). Een ondertekenaar wiens akte van bekrachtiging, aanvaarding of goedkeuring is nedergelegd op of vóór de datum waarop deze Overeenkomst in werking treedt, wordt op die datum deelnemer. Een ondertekenaar wiens akte van bekrachtiging, aanvaarding of goedkeuring daarna wordt nedergelegd, doch vóór de datum voorgeschreven in of krachtens artikel 55, tweede lid, wordt deelnemer op de datum van een zodanige nederlegging.
 
 (2). Een Staat die niet een oorspronkelijk deelnemer is, kan deelnemer worden krachtens artikel 3, derde lid, en ongeacht het bepaalde in de artikelen 54 en 55 komt een zodanige deelneming tot stand door ondertekening van deze Overeenkomst en door nederlegging bij de Bank van een akte van bekrachtiging, aanvaarding of goedkeuring, en wordt op de datum van een zodanige nederlegging van kracht.
 
-#### Artikel 58. Voorbehouden
+##### Artikel 58. Voorbehouden
 
 Een Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring verklaren:
 
@@ -574,7 +596,7 @@ Een Staat kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding o
 
 - (iv). dat het bepaalde in artikel 49, derde lid, van toepassing is op goederen ten aanzien waarvan kwijtschelding of teruggave van heffing of belasting door die Staat is verleend ingevolge de sub (iii) bedoelde regelingen.
 
-#### Artikel 59. Kennisgeving
+##### Artikel 59. Kennisgeving
 
 De Bank geeft alle ondertekenaars kennis van:
 
@@ -586,7 +608,7 @@ De Bank geeft alle ondertekenaars kennis van:
 
 - (d). elke verklaring afgelegd of elk voorbehoud gemaakt op het tijdstip van de nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 60. Oprichtingsvergadering
+##### Artikel 60. Oprichtingsvergadering
 
 (1). Zodra deze Overeenkomst in werking treedt benoemt elke deelnemende Staat een bestuurder en belegt de Voorzitter van de Raad van Bestuur de oprichtingsvergadering van de Raad van Bestuur.
 

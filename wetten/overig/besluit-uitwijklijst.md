@@ -1,13 +1,38 @@
 ---
 title: "Besluit Uitwijklijst"
 identifier: "BWBR0033582"
-categorie: "Overig"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033582"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033582"
+soort: "zbo"
+stam_id: "12294963"
+version_id: "20597012"
+internal_id: "C28969341"
+label_id: "12266534"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033582/2013-07-01/0"
+intitule_bron: "Stcrt.2013-17541"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-11"
+intitule_published: "2013-06-26"
+intitule_in_force: "2013-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-17541"
+original_signed_date: "2013-06-11"
+original_published_date: "2013-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-17541"
+entry_into_force_date: "2013-07-01"
+jci_1_3: "jci1.3:c:BWBR0033582&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0033582&g=2013-07-01"
+citeertitel_status: "officieel"
+signed_date: "2013-06-11"
+entry_into_force: "2013-07-01"
 ---
-
 # Besluit Uitwijklijst
 
 Gelet op:
@@ -22,7 +47,7 @@ Stelt de Raad voor Rechtsbijstand het volgende Besluit Uitwijklijst Wbtv (hierna
 
 #### Begrippen en definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -64,7 +89,7 @@ In dit besluit wordt verstaan onder:
 
 #### De Uitwijklijst
 
-#### Artikel 2
+##### Artikel 2
 
 De Uitwijklijst bevat ten aanzien van iedere geplaatste tolk en/of vertaler in elk geval de volgende gegevens:
 
@@ -76,11 +101,11 @@ De Uitwijklijst bevat ten aanzien van iedere geplaatste tolk en/of vertaler in e
 
 #### Het verzoek tot plaatsing
 
-#### Artikel 3
+##### Artikel 3
 
 Het verzoek tot plaatsing op de Uitwijklijst wordt ingediend door middel van het daarvoor bestemde inschrijfformulier, te vinden op www.bureaubtv.nl. Binnen zes weken na ontvangst wordt een beslissing genomen op het verzoek tot plaatsing.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij het verzoek tot plaatsing worden ten minste de volgende stukken overgelegd:
 
@@ -92,13 +117,13 @@ Bij het verzoek tot plaatsing worden ten minste de volgende stukken overgelegd:
 
 - d. een document waaruit blijkt dat de tolk of vertaler de bron- of doeltaal, voor zover toetsbaar, op ten minste C1-niveau beheerst;
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het behandelen van een verzoek tot plaatsing op de Uitwijklijst wordt een bedrag van€ 125,– in rekening gebracht.
 
 #### De voorwaarden
 
-#### Artikel 6
+##### Artikel 6
 
 Een tolk of vertaler kan op de Uitwijklijst worden geplaatst als hij wegens het ontbreken van opleidingen en het ontbreken van onafhankelijke deskundigen die de kennis kunnen toetsen, niet kan aantonen te beschikken over de vereiste competenties taalvaardigheid in de bron- of doeltaal en kennis van de cultuur van het land of gebied van de bron- of doeltaal.
 
@@ -122,11 +147,11 @@ Een tolk of vertaler kan op de Uitwijklijst worden geplaatst als hij wegens het 
 
 - 4. ten minste vijf jaar werkervaring als beroepsvertaler in de betreffende vertaalrichting direct voorafgaand aan het verzoek tot plaatsing op de Uitwijklijst.
 
-#### Artikel 7
+##### Artikel 7
 
 De Raad voor Rechtsbijstand kan, in de door haar nader te bepalen gevallen, een verzoek tot plaatsing op de Uitwijklijst ter advisering voorleggen aan de Commissie beëdigde tolken en vertalers.
 
-#### Artikel 8
+##### Artikel 8
 
 Het verzoek tot plaatsing op de Uitwijklijst, alsmede het verzoek tot verlenging van de plaatsing op de Uitwijklijst en het verzoek tot hernieuwde plaatsing wordt afgewezen indien:
 
@@ -142,7 +167,7 @@ Het verzoek tot plaatsing op de Uitwijklijst, alsmede het verzoek tot verlenging
 
 #### Duur van de plaatsing
 
-#### Artikel 9
+##### Artikel 9
 
 De plaatsing op de Uitwijklijst geschiedt voor een periode van vijf jaar en eindigt van rechtswege.
 
@@ -150,15 +175,15 @@ De plaatsing op de Uitwijklijst geschiedt voor een periode van vijf jaar en eind
 
 #### Het verzoek tot verlenging van de plaatsing
 
-#### Artikel 10
+##### Artikel 10
 
 Een verzoek tot verlenging van de plaatsing op de Uitwijklijst wordt ingediend door middel van het daarvoor bestemde formulier, te vinden op www.bureaubtv.nl. Binnen vier weken na ontvangst wordt een beslissing genomen op het verzoek tot verlenging.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij het verzoek tot verlenging worden de verklaringen, zoals bedoeld in [artikel 4, tweede tot en met vierde lid, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4) overgelegd.
 
-#### Artikel 12
+##### Artikel 12
 
 - a. Een verzoek tot verlenging dient tijdig, dat wil zeggen voor het verlopen van de termijn van plaatsing, te worden ingediend.
 
@@ -166,13 +191,13 @@ Bij het verzoek tot verlenging worden de verklaringen, zoals bedoeld in [artikel
 
 - c. Het verzoek tot verlenging wordt afgewezen indien niet objectief wordt aangetoond dat aan de daarvoor geldende voorwaarden wordt voldaan.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor het behandelen van een verzoek tot verlenging van de plaatsing op de Uitwijklijst wordt een bedrag van€ 75,– in rekening gebracht.
 
 #### De voorwaarden
 
-#### Artikel 14
+##### Artikel 14
 
 Een tolk of vertaler kan op aanvraag voor een periode van nogmaals vijf jaar op de Uitwijklijst worden geplaatst indien:
 
@@ -188,7 +213,7 @@ Een tolk of vertaler kan op aanvraag voor een periode van nogmaals vijf jaar op 
 
 #### Verzoek tot hernieuwde plaatsing
 
-#### Artikel 15
+##### Artikel 15
 
 - a. Van een verzoek tot hernieuwde plaatsing is sprake indien een tolk of vertaler het verzoek tot verlenging van de plaatsing indient binnen vijf jaar na het verlopen van de termijn van die plaatsing op de Uitwijklijst, na uitschrijving van de Uitwijklijst op eigen verzoek of na doorhaling op grond van [artikel 9 van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=9).
 
@@ -198,25 +223,25 @@ Een tolk of vertaler kan op aanvraag voor een periode van nogmaals vijf jaar op 
 
 - 2. alsnog voldaan is aan de bijscholingsverplichting zoals genoemd in het [Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0033579) die gold tijdens de periode van plaatsing waarop het verzoek tot hernieuwde plaatsing betrekking heeft.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor het behandelen van een verzoek tot hernieuwde plaatsing op de Uitwijklijst wordt een bedrag van€ 125,– in rekening gebracht.
 
 #### Schakelbepaling Register beëdigde tolken en vertalers
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2), [4, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=4), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=11), [16 tot en met 27, van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=16) en de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=9), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=12), [15 tot en met 19, van het Besluit btv](https://wetten.overheid.nl/jci1.3:c:BWBR0024896&artikel=15) zijn van overeenkomstige toepassing op de plaatsing op de Uitwijklijst.
 
 #### De Gedragscode voor tolken en vertalers in het kader van de [Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704)
 
-#### Artikel 18
+##### Artikel 18
 
 De [Gedragscode voor tolken en vertalers in het kader van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0026509) van 22 september 2009 (Stcrt. 15 oktober 2009, 15358, hierna: de Gedragscode) is van toepassing op een tolk of vertaler die op de Uitwijklijst is geplaatst.
 
 #### Overgangsbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een tolk of vertaler, die ten tijde van de inwerkingtreding van dit besluit geplaatst is op de Uitwijklijst kan, in tegenstelling tot de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0033582&artikel=14&z=2013-07-01&g=2013-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0033582&artikel=15&z=2013-07-01&g=2013-07-01), tot 1 juli 2016 op de Uitwijklijst worden geplaatst in de betrokken talencombinaties als hij aantoont dat:
 
@@ -232,14 +257,14 @@ De [Gedragscode voor tolken en vertalers in het kader van de Wbtv](https://wette
 
 #### Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Het [Besluit Uitwijklijst Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0031043) van 22 december 2011 (Stcrt. 30 december 2011, nr. 23.956) wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als Besluit Uitwijklijst.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit treedt in werking op 1 juli 2013.

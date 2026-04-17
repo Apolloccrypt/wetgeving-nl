@@ -1,13 +1,39 @@
 ---
-title: "Besluit taken telecommunicatie en post en vergoedingen post BES"
+title: "Besluit van 19 december 2012, houdende regels inzake taken op het terrein van telecommunicatie en post en inzake vergoedingen op het terrein van post met betrekking tot Bonaire, Sint Eustatius en Saba (Besluit taken telecommunicatie en post en vergoedingen post BES)"
 identifier: "BWBR0032728"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032728"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032728"
+soort: "AMvB-BES"
+stam_id: "12037783"
+version_id: "20043942"
+internal_id: "C28152651"
+label_id: "12009554"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032728/2013-04-01/0"
+intitule_bron: "Stb.2012-692"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-19"
+intitule_published: "2012-12-28"
+intitule_in_force: "2012-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2012-692"
+original_signed_date: "2012-12-19"
+original_published_date: "2012-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-692"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032728&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0032728&g=2013-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit taken telecommunicatie en post en vergoedingen post BES"
+signed_date: "2012-12-19"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 19 december 2012, houdende regels inzake taken op het terrein van telecommunicatie en post en inzake vergoedingen op het terrein van post met betrekking tot Bonaire, Sint Eustatius en Saba (Besluit taken telecommunicatie en post en vergoedingen post BES)
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie, van 30 oktober 2012, nr. WJZ / 12331692;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 13 december
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder Autoriteit Consument en Markt: Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De Autoriteit Consument en Markt heeft tot taak:
 
@@ -40,21 +66,21 @@ De Autoriteit Consument en Markt heeft tot taak:
 
 - c. het nemen van besluiten in verband met de toekenning van nummers die in een nummerplan zijn opgenomen overeenkomstig het bepaalde in [artikel 44e van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=44e).
 
-#### Artikel 3
+##### Artikel 3
 
 De Autoriteit Consument en Markt is bevoegd geschillen te beslechten tussen concessiehouders, tussen andere aanbieders van openbare telecommunicatiediensten en tussen concessiehouders en andere aanbieders van openbare telecommunicatiediensten inzake de nakoming van een verplichting ingevolge de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=II), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=III) of [4 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&hoofdstuk=IV). De beslissing van de Autoriteit Consument en Markt is bindend.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien concessiehouders of andere aanbieders van openbare telecommunicatiediensten een geschil hebben, kunnen zij zich onder opgaaf van redenen schriftelijk richten tot de Autoriteit Consument en Markt met het verzoek hieromtrent een beslissing te nemen. Een zodanig verzoek wordt ingediend bij de Autoriteit Consument en Markt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Binnen één maand na de indiening van het verzoek om een beslissing verstrekken beide partijen in het geschil de Autoriteit Consument en Markt alle gegevens die benodigd zijn om een beslissing te kunnen nemen.
 
 2. Indien de Autoriteit Consument en Markt niettemin de verstrekte gegevens onvoldoende acht, verzoekt zij de betrokken partij binnen twee weken aanvullende informatie te verstrekken.
 
-#### Artikel 6
+##### Artikel 6
 
 De Autoriteit Consument en Markt toetst een geschil inzake de toegang tot of de koppeling van infrastructuur in ieder geval aan de volgende uitgangspunten:
 
@@ -64,11 +90,11 @@ De Autoriteit Consument en Markt toetst een geschil inzake de toegang tot of de 
 
 - c. de vergoedingen voor toegang en koppeling, als onderdeel van de voorwaarden, dienen kostengeoriënteerd te zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Binnen drie maanden na de indiening van het verzoek neemt de Autoriteit Consument en Markt een beslissing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De op grond van [artikel 14 van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=14) verschuldigde vergoeding wordt jaarlijks vastgesteld aan de hand van de voor het kalenderjaar waarvoor de vergoeding geldt, geraamde kosten.
 
@@ -78,19 +104,19 @@ Binnen drie maanden na de indiening van het verzoek neemt de Autoriteit Consumen
 
 4. De invordering van de op grond van [artikel 14 van de Wet post BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=14) verschuldigde vergoeding vindt plaats met overeenkomstige toepassing van [artikel 15, vijfde tot en met achtste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028263&artikel=15).
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt dit besluit.
 
-#### Artikel 10
+##### Artikel 10
 
 Het [Besluit geschillenbeslechting concessiehouders BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028388) wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit taken telecommunicatie en post en vergoedingen post BES.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit rijksbijdragen bijstands- en bestrijdingskosten"
+title: "Besluit van 24 januari 2002 inzake rijksbijdragen in de kosten van het verlenen van bijstand en van de bestrijding van een ramp of zwaar ongeval in Nederland, als ook in België of Duitsland (Besluit rijksbijdragen bijstands- en bestrijdingskosten)"
 identifier: "BWBR0013371"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013371"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013371"
+soort: "AMvB"
+stam_id: "1670553"
+version_id: "2463102"
+internal_id: "C2463101"
+label_id: "1623914"
+dtd_version: "2.0"
+original_entry_into_force: "2002-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013371/2013-01-01/0"
+intitule_bron: "Stb.2002-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-24"
+intitule_published: "2002-02-07"
+intitule_in_force: "2002-02-07"
+intitule_status: "goed"
+original_publication: "Stb.2002-50"
+original_signed_date: "2002-01-24"
+original_published_date: "2002-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-50"
+entry_into_force_date: "2002-04-01"
+jci_1_3: "jci1.3:c:BWBR0013371&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0013371&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit rijksbijdragen bijstands- en bestrijdingskosten"
+signed_date: "2002-01-24"
+entry_into_force: "2002-04-01"
 ---
-
 # Besluit van 24 januari 2002 inzake rijksbijdragen in de kosten van het verlenen van bijstand en van de bestrijding van een ramp of zwaar ongeval in Nederland, als ook in België of Duitsland (Besluit rijksbijdragen bijstands- en bestrijdingskosten)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 27 november 2001, nr. EB2001/97219;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Bijdrage in de kosten gemaakt voor bijstand of voor de bestrijding van een ramp in Nederland
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister verleent op aanvraag van het bestuur van de veiligheidsregio een bijdrage voor de kosten die voor de regionale brandweer voortvloeien uit de verlening van bijstand, voor zover die kosten een bedrag van € 4500,– te boven gaan.
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 3. Indien bijstand is verleend in het kader van de bestrijding van een ramp en de gevolgen daarvan, wordt de aanvraag, bedoeld in het eerste lid, ingediend door tussenkomst van de gemeente waaraan de bijstand is verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister verleent op aanvraag van het college van burgemeester en wethouders een bijdrage in de kosten die een gemeente heeft gemaakt in verband met de daadwerkelijke bestrijding van een ramp en de gevolgen daarvan.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Bijdrage in de kosten gemaakt voor bijstand bij de bestrijding van een ramp in België of Duitsland
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister verleent op aanvraag een bijdrage in de kosten die voortvloeien uit het verlenen van bijstand bij de bestrijding van rampen in België of Duitsland ingevolge de met deze landen gesloten overeenkomsten.
 
@@ -94,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 4. Procedurele bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvragen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=2&z=2013-01-01&g=2013-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013371&paragraaf=3&artikel=4&z=2013-01-01&g=2013-01-01), worden uiterlijk twaalf maanden na het einde van de bijstandsverlening of de bestrijding van de ramp en de gevolgen daarvan ingediend bij Onze Minister.
 
@@ -102,15 +128,15 @@ In dit besluit wordt verstaan onder:
 
 3. Kosten waarvan de hoogte nog niet is vast te stellen worden geraamd.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister beslist binnen zes maanden na indiening van de aanvraag.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister kan een bijdragevaststelling intrekken of ten nadele van de ontvanger wijzigen:
 
@@ -120,21 +146,21 @@ Onze Minister kan een bijdragevaststelling intrekken of ten nadele van de ontvan
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Het Besluit rijksbijdragen gemeenten bij rampen en zware ongevallen en het Besluit rijksbijdragen bijstandskosten gemeenten en regionale brandweren worden ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit rijksbijdragen bijstands- en bestrijdingskosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Dit besluit berust op [artikel 55, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=55).
 

@@ -1,13 +1,37 @@
 ---
 title: "Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997"
 identifier: "BWBR0008462"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-01-18
-laatste_update: 2014-01-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008462"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-18"
+last_updated: "2014-01-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008462"
+soort: "ministeriele-regeling"
+stam_id: "4375493"
+version_id: "6142152"
+internal_id: "C6346361"
+label_id: "4353934"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008462/2014-01-18/0"
+intitule_bron: "Stcrt.1996-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-20"
+intitule_published: "1996-12-24"
+intitule_in_force: "1996-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-249"
+original_signed_date: "1996-12-20"
+original_published_date: "1996-12-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008462&z=2014-01-18&g=2014-01-18"
+jci_1_0: "1.0:c:BWBR0008462&g=2014-01-18"
+citeertitel_status: "officieel"
+signed_date: "1996-12-20"
+entry_into_force: "1997-01-01"
 ---
-
 # Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997
 
 Gelet op [artikel 243 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=243);
@@ -16,7 +40,7 @@ Besluiten:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Van de volgende gemeentelijke belastingen wordt in de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=II&artikel=2&z=2014-01-18&g=2014-01-18) vrijstelling verleend:
 
@@ -40,7 +64,7 @@ Besluiten:
 
 ### Hoofdstuk II. Diplomatieke en consulaire vrijstellingen gemeentelijke belastingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een vrijstelling van een belasting, genoemd in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), ten behoeve van een diplomatieke of consulaire vertegenwoordiging, wordt uitsluitend verleend voor zover die belasting betrekking heeft op belastbare feiten die zich voordoen in het kader van de officiële werkzaamheden van die diplomatieke of consulaire vertegenwoordiging.
 
@@ -48,7 +72,7 @@ Besluiten:
 
 3. Een vrijstelling als bedoeld in dit hoofdstuk wordt niet verleend in de gevallen waarin de Minister van Binnenlandse Zaken heeft verklaard dat ter zake van die vrijstelling de wederkerigheid niet is gewaarborgd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van de in [artikel 1, eerste lid, onderdelen a, b, c, d, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen, zijn vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden, mits zij geen Nederlander zijn en zij niet duurzaam verblijf houden in Nederland. Honoraire consuls genieten deze vrijstellingen niet.
 
@@ -60,7 +84,7 @@ Besluiten:
 
 ### Hoofdstuk III. Bijzondere internationale vrijstellingen gemeentelijke belastingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van de in [artikel 1, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen zijn, voor zover van toepassing, vrijgesteld:
 
@@ -98,7 +122,7 @@ Besluiten:
 
 3. Een vrijstelling als bedoeld in het eerste lid, onderdelen c, f, g, h, i, j, k, l, en n wordt niet verleend in de gevallen waarin de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft verklaard dat ter zake van die vrijstelling de wederkerigheid niet is gewaarborgd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van de in [artikel 1, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008462&hoofdstuk=I&artikel=1&z=2014-01-18&g=2014-01-18), genoemde belastingen zijn vrijgesteld:
 
@@ -110,14 +134,14 @@ Besluiten:
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 De Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 januari 1997. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 1996, treedt zij in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 1997.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen gemeentelijke belastingen 1997.

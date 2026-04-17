@@ -1,20 +1,46 @@
 ---
-title: "Regeling onwerkbaar weer"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2019, 2019-0000157117, tot vaststelling van omstandigheden en daarbij geldende voorwaarden waarbij de verplichting tot loondoorbetaling niet geldt (Regeling onwerkbaar weer)"
 identifier: "BWBR0043008"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043008"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043008"
+soort: "ministeriele-regeling"
+stam_id: "15304013"
+version_id: "26384562"
+internal_id: "C37493121"
+label_id: "15249924"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043008/2020-01-01/0"
+intitule_bron: "Stcrt.2019-70095"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-19"
+intitule_published: "2019-12-24"
+intitule_in_force: "2019-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-70095"
+original_signed_date: "2019-12-19"
+original_published_date: "2019-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-70095"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0043008&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0043008&g=2020-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling onwerkbaar weer"
+signed_date: "2019-12-19"
+entry_into_force: "2020-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 december 2019, 2019-0000157117, tot vaststelling van omstandigheden en daarbij geldende voorwaarden waarbij de verplichting tot loondoorbetaling niet geldt (Regeling onwerkbaar weer)
 
 Gelet op [artikel 628, negende lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=628);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **UWV:** het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5).
 
-#### Artikel 2. Vrijstelling in verband met buitengewone natuurlijke omstandigheden
+##### Artikel 2. Vrijstelling in verband met buitengewone natuurlijke omstandigheden
 
 1. De werkgever is vrijgesteld van de loondoorbetalingsplicht indien op dag waarop de buitengewone natuurlijke omstandigheid zich voordoet voldaan is aan de hierna genoemde voorwaarden:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 2. De vrijstelling op grond van het eerste lid geldt niet voor zover een werknemer verlof heeft of vakantie geniet.
 
-#### Artikel 3. Wachtdagen
+##### Artikel 3. Wachtdagen
 
 Het aantal te verstrijken wachtdagen bedraagt bij:
 
@@ -56,7 +82,7 @@ Het aantal te verstrijken wachtdagen bedraagt bij:
 
 - c. andere buitengewone natuurlijke omstandigheden: twee werkdagen per kalenderjaar, waarop als gevolg van buitengewone natuurlijke omstandigheden, anders dan in verband met vorst, ijzel, sneeuwval of overvloedige regenval, niet gewerkt kan worden.
 
-#### Artikel 4. Melding bij buitengewone natuurlijke omstandigheden
+##### Artikel 4. Melding bij buitengewone natuurlijke omstandigheden
 
 1. Op elke dag waarop de overeengekomen arbeid ten gevolge van buitengewone natuurlijke omstandigheden niet kan worden verricht, meldt de werkgever aan het UWV per werknemer voor welk aantal arbeidsuren op welke werklocatie en voor welk tijdvak van de dag de arbeid niet kan worden verricht, alsmede de functie van de werknemer en de reden voor het niet kunnen verrichten van de arbeid.
 
@@ -64,11 +90,11 @@ Het aantal te verstrijken wachtdagen bedraagt bij:
 
 3. Bij de melding, bedoeld in het eerste lid, maakt de werkgever gebruik van het daartoe door het UWV beschikbaar gestelde formulier.
 
-#### Artikel 5. Vrijstelling wegens ontheffing van het verbod op werktijdverkorting
+##### Artikel 5. Vrijstelling wegens ontheffing van het verbod op werktijdverkorting
 
 De werkgever is vrijgesteld van de loondoorbetalingsplicht indien het niet verrichten van de overeengekomen arbeid het gevolg is van andere buitengewone omstandigheden dan buitengewone natuurlijke omstandigheden, voor zover ten gevolge daarvan een ontheffing is verleend als bedoeld in [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8).
 
-#### Artikel 6. Vrijstelling geldt niet of vervalt
+##### Artikel 6. Vrijstelling geldt niet of vervalt
 
 1. De vrijstelling op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043008&artikel=2&z=2020-01-01&g=2020-01-01) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043008&artikel=5&z=2020-01-01&g=2020-01-01) geldt niet of vervalt met terugwerkende kracht tot de aanvang van de betreffende omstandigheid, indien:
 
@@ -86,11 +112,11 @@ De werkgever is vrijgesteld van de loondoorbetalingsplicht indien het niet verri
 
 2. Indien de vrijstelling niet geldt of vervalt op grond van het eerste lid, onderdelen a tot en met f, geldt voor de dagen, waarop in verband met buitengewone natuurlijke omstandigheden de overeengekomen arbeid niet kan worden verricht, gedurende een jaar na de dag waarop het vervallen van de betreffende vrijstelling is ingegaan, geen vrijstelling van de loondoorbetalingsplicht voor alle werknemers die werkzaam zijn bij de betreffende werkgever en tellen deze dagen niet mee als wachtdagen.
 
-#### Artikel 7. Wijziging van een andere regeling
+##### Artikel 7. Wijziging van een andere regeling
 
 Wijzigt de Wijzigingsregeling Gelijkstellingsregeling arbeidsuren, enz. (i.v.m. onder meer de invoering van de Wet werk en zekerheid) (Stcrt. 2015, 17649).
 
-#### Artikel 8. Overgangsartikel
+##### Artikel 8. Overgangsartikel
 
 1. In afwijking van [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043008&artikel=2&z=2020-01-01&g=2020-01-01), geldt in de periode van 1 januari 2020 tot 1 november 2020 in plaats van de in dat onderdeel genoemde voorwaarde als voorwaarde voor vrijstelling van de loondoorbetalingsplicht dat bij collectieve arbeidsovereenkomst of regeling door of namens daartoe bevoegde bestuursorganen geregeld is onder welke voorwaarden als gevolg van buitengewone natuurlijke omstandigheden de overeengekomen arbeid niet kan worden verricht.
 
@@ -98,11 +124,11 @@ Wijzigt de Wijzigingsregeling Gelijkstellingsregeling arbeidsuren, enz. (i.v.m. 
 
 3. Dagen waarop ten gevolge van vorst, ijzel of sneeuwval niet kan worden gewerkt, gelegen in de periode van 1 november 2019 tot en met 31 december 2019 tellen niet als wachtdag voor de periode, bedoeld in [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043008&artikel=3&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2020.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onwerkbaar weer.
 

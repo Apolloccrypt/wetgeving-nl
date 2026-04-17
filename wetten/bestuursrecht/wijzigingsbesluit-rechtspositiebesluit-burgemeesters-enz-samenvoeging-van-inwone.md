@@ -1,40 +1,66 @@
 ---
-title: "Wijzigingsbesluit Rechtspositiebesluit burgemeesters, enz. (samenvoeging van inwonersklassen en enkele technische aanpassingen)"
+title: "Besluit van 16 december 2009 houdende wijziging van enkele rechtspositiebesluiten politieke ambtsdragers in verband met de samenvoeging van inwonersklassen en enkele technische aanpassingen"
 identifier: "BWBR0026906"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026906"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026906"
+soort: "AMvB"
+stam_id: "10334443"
+version_id: "16963332"
+internal_id: "C23390221"
+label_id: "10309674"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026906/2010-01-01/0"
+intitule_bron: "Stb.2009-561"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-16"
+intitule_published: "2009-12-22"
+intitule_in_force: "2009-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2009-561"
+original_signed_date: "2009-12-16"
+original_published_date: "2009-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-561"
+entry_into_force_date: "2009-12-23"
+jci_1_3: "jci1.3:c:BWBR0026906&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0026906&g=2010-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Rechtspositiebesluit burgemeesters, enz. (samenvoeging van inwonersklassen en enkele technische aanpassingen)"
+signed_date: "2009-12-16"
+entry_into_force: "2009-12-23"
 ---
-
 # Besluit van 16 december 2009 houdende wijziging van enkele rechtspositiebesluiten politieke ambtsdragers in verband met de samenvoeging van inwonersklassen en enkele technische aanpassingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Rechtspositiebesluit burgemeesters.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Rechtspositiebesluit commissarissen van de Koning.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Rechtspositiebesluit raads- en commissieleden.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Rechtspositiebesluit staten- en commissieleden.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Rechtspositiebesluit wethouders.
 
-#### Artikel VI
+##### Artikel VI
 
 [Artikel I, onderdeel J](https://wetten.overheid.nl/jci1.3:c:BWBR0026906&artikel=I&z=2010-01-01&g=2010-01-01), is niet van toepassing op burgemeesters die gebruik maken van een regeling die de gemeente op of voor 31 december 2008 heeft getroffen ter verstrekking van een hypothecaire geldlening ter verkrijging van een eigen woning.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

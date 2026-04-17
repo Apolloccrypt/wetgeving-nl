@@ -1,13 +1,39 @@
 ---
-title: "Besluit archeologische monumentenzorg"
+title: "Besluit van 9 augustus 2007, houdende regels ter uitvoering van de Wet op de archeologische monumentenzorg en enkele technische wijzigingen van het Besluit indieningsvereisten aanvraag bouwvergunning (Besluit archeologische monumentenzorg)"
 identifier: "BWBR0022429"
-categorie: "Sociaal recht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022429"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022429"
+soort: "AMvB"
+stam_id: "9189923"
+version_id: "14713272"
+internal_id: "C20023381"
+label_id: "9169064"
+dtd_version: "2.0"
+original_entry_into_force: "2007-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022429/2012-01-01/0"
+intitule_bron: "Stb.2007-292"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-09"
+intitule_published: "2007-08-28"
+intitule_in_force: "2007-08-28"
+intitule_status: "goed"
+original_publication: "Stb.2007-292"
+original_signed_date: "2007-08-09"
+original_published_date: "2007-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-292"
+entry_into_force_date: "2007-09-01"
+jci_1_3: "jci1.3:c:BWBR0022429&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0022429&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit archeologische monumentenzorg"
+signed_date: "2007-08-09"
+entry_into_force: "2007-09-01"
 ---
-
 # Besluit van 9 augustus 2007, houdende regels ter uitvoering van de Wet op de archeologische monumentenzorg en enkele technische wijzigingen van het Besluit indieningsvereisten aanvraag bouwvergunning (Besluit archeologische monumentenzorg)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 28 februari 2007, nr. WJZ/2007/2608 (8129), directie Wetgeving en Juridische Zaken, in overeenstemming met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Economische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definitiebepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,17 +82,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Met de vergunningseisen ter zake van het doen van opgravingen als bedoeld in dit besluit worden gelijkgesteld vergunningseisen die worden gesteld in een andere lidstaat van de Europese Unie of een andere staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend verdrag of mede daartoe strekkend verdrag dat Nederland bindt, en die een vergunningsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 16
+##### Artikel 16
 
 Een vergunning is niet overdraagbaar.
 
 #### § 3. Uitkeringsplafond
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze minister verleent de vergunning indien de aanvrager genoegzaam aantoont dat zijn organisatie zodanig is ingericht dat een goed kwaliteitsniveau van het doen van opgravingen is gewaarborgd.
 
@@ -98,7 +124,7 @@ Een vergunning is niet overdraagbaar.
 
 #### § 4. Verlening van de specifieke uitkering
 
-#### Artikel 18
+##### Artikel 18
 
 1. De aanvraag van een vergunning gaat in ieder geval vergezeld van:
 
@@ -124,7 +150,7 @@ Een vergunning is niet overdraagbaar.
 
 #### § 4. Beperkingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze minister kan een vergunning beperken tot:
 
@@ -138,31 +164,31 @@ Een vergunning is niet overdraagbaar.
 
 2. Indien de organisatie van de aanvrager niet voldoet aan [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=3&paragraaf=2&artikel=17&z=2012-01-01&g=2012-01-01), maar de verwachting bestaat dat dit binnen afzienbare termijn het geval zal zijn, verleent Onze minister een tijdelijke vergunning.
 
-#### Artikel 20
+##### Artikel 20
 
 Een vergunning voor een organisatieonderdeel van het Rijk wordt uitsluitend verleend voor het doen van opgravingen in het kader van ontwikkeling en innovatie van kennis over het behouden en beheren van archeologische monumenten of voor de aanwijzing, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=3).
 
-#### Artikel 21
+##### Artikel 21
 
 Een vergunning voor een gemeente of een provincie wordt uitsluitend verleend voor het doen van opgravingen binnen het grondgebied van de desbetreffende gemeente of provincie.
 
-#### Artikel 22
+##### Artikel 22
 
 Een vergunning voor een universiteit als bedoeld in de [onderdelen a, b of h van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](onbekend) wordt uitsluitend verleend voor het doen van opgravingen in verband met wetenschappelijk onderwijs of wetenschappelijk onderzoek als bedoeld in [artikel 1.3, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.3).
 
-#### Artikel 23
+##### Artikel 23
 
 Een vergunning voor het doen van opgravingen buiten de territoriale wateren wordt uitsluitend voor een bepaald gebied en voor een bepaalde tijd verleend.
 
 #### § 5. Voorschriften
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bij de naleving van de voorschriften, bedoeld in [artikel 46, tweede tot en met vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004471&artikel=46), of bij het doen van opgravingen houdt de vergunninghouder zich aan de normen die in de archeologische beroepsgroep gelden voor het doen van opgravingen.
 
 2. Indien de vergunninghouder voldoet aan een door Onze minister aan te wijzen versie van de Kwaliteitsnorm Nederlandse Archeologie of onderdelen daarvan, is het aannemelijk dat hij voldoet aan het eerste lid.
 
-#### Artikel 25
+##### Artikel 25
 
 De vergunninghouder zorgt ervoor dat een ieder in zijn organisatie die zich daadwerkelijk bezighoudt met het doen van opgravingen:
 
@@ -172,21 +198,21 @@ De vergunninghouder zorgt ervoor dat een ieder in zijn organisatie die zich daad
 
 ### Hoofdstuk 4. Wijzigingen van andere algmene maatregelen van bestuur
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt het Mijnbouwbesluit.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 De hoofdstukken van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit wordt aangehaald als: Besluit archeologische monumentenzorg.
 
@@ -194,7 +220,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1. Berekening van de drempelbijdrage
 
-#### Artikel 2
+##### Artikel 2
 
 1. De drempelbijdrage bestaat uit het inwoneraantal van de betreffende gemeente of provincie vermenigvuldigd met een door Onze minister vast te stellen bedrag.
 
@@ -202,7 +228,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 2. Aanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvraag gaat vergezeld van:
 
@@ -214,35 +240,35 @@ De aanvraag gaat vergezeld van:
 
 - d. het programma van eisen met betrekking tot het doen van de betreffende opgravingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze minister stelt jaarlijks vast tot welk bedrag ten hoogste verplichtingen kunnen worden aangegaan voor het verstrekken van specifieke uitkeringen.
 
 2. Onze minister verleent specifieke uitkeringen in de volgorde van ontvangst van de aanvragen.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze minister kan een specifieke uitkering verlenen voor de excessieve kosten.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze minister kan het verstoordersdeel anders vaststellen dan de aanvrager, indien hij van oordeel is dat de aanvrager niet in redelijkheid het desbetreffende bedrag heeft kunnen vaststellen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het besluit tot verlening vermeldt in ieder geval het bedrag van de te verlenen specifieke uitkering dat ten hoogste zal worden verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze minister kan voorschotten verlenen.
 
-#### Artikel 9
+##### Artikel 9
 
 [Artikel 4:34, eerste, derde en vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34) is van overeenkomstige toepassing.
 
 #### § 5. Weigering van de specifieke uitkering
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze minister kan een specifieke uitkering weigeren geheel of gedeeltelijk te verlenen:
 
@@ -252,25 +278,25 @@ Onze minister kan voorschotten verlenen.
 
 2. Onze minister weigert een specifieke uitkering voor zover het uitkeringsplafond, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=3&artikel=4&z=2012-01-01&g=2012-01-01), voor het desbetreffende jaar door verlening van die specifieke uitkering zou worden overschreden.
 
-#### Artikel 11
+##### Artikel 11
 
 Aanvragen die op grond van [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=5&artikel=10&z=2012-01-01&g=2012-01-01), zijn geweigerd, komen in de volgorde van ontvangst in een volgend jaar opnieuw in aanmerking voor verlening van een specifieke uitkering.
 
 #### § 6. Verplichtingen verbonden aan de specifieke uitkering
 
-#### Artikel 12
+##### Artikel 12
 
 De ontvanger van een specifieke uitkering doet zo spoedig mogelijk schriftelijk mededeling aan Onze minister van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging of intrekking van een specifieke uitkering. Daarbij worden de relevante stukken overgelegd.
 
 #### § 7. Verantwoording over de specifieke uitkering
 
-#### Artikel 13
+##### Artikel 13
 
 Voor zover niet uit de jaarrekening van de gemeente of provincie over het jaar waarin het doen van opgravingen is afgerond, alsmede uit de accountantsverklaring en het verslag van bevindingen, behorend bij die jaarrekening krachtens [artikel 213 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) of [artikel 217 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=217), blijkt dat een specifieke uitkering rechtmatig is besteed, kan het bedrag waarvan de rechtmatige besteding niet vaststaat, worden teruggevorderd.
 
 #### § 8. Vaststelling van de specifieke uitkering
 
-#### Artikel 14
+##### Artikel 14
 
 1. Binnen vier maanden na ontvangst van de jaarrekening, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022429&hoofdstuk=2&paragraaf=7&artikel=13&z=2012-01-01&g=2012-01-01), geeft Onze minister een beschikking tot vaststelling van de specifieke uitkering.
 

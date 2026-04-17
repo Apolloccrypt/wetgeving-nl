@@ -1,14 +1,39 @@
 ---
-title: "Wet behoud scheepsruimte 1939"
+title: "Wet van 24 juni 1939, houdende regelen teneinde te waarborgen, dat Nederland, in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden, in voldoende mate de beschikking blijft behouden over scheepsruimte"
 identifier: "BWBR0001998"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001998"
+country: "nl"
+rank: "wet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001998"
+soort: "wet"
+stam_id: "1842093"
+version_id: "2748962"
+internal_id: "C2748961"
+label_id: "1796474"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001998/2010-10-10/0"
+intitule_bron: "Stb.1939-636"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1939-06-24"
+intitule_status: "goed"
+original_publication: "Stb.1996-366"
+original_signed_date: "1996-04-03"
+original_published_date: "1996-07-09"
+original_effect: "structuurwijziging"
+original_dossier: "23791"
+original_url_id: "stb-1996-366"
+entry_into_force_date: "1997-05-01"
+jci_1_3: "jci1.3:c:BWBR0001998&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0001998&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Wet behoud scheepsruimte 1939"
+signed_date: "1996-04-03"
+entry_into_force: "1997-05-01"
 ---
-
-# Wet behoud scheepsruimte 1939
+# Wet van 24 juni 1939, houdende regelen teneinde te waarborgen, dat Nederland, in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden, in voldoende mate de beschikking blijft behouden over scheepsruimte
 
 Allen, die deze zullen zien of hooren lezen, saluut! doen te weten:
 
@@ -16,7 +41,7 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is regelen te stell
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In deze wet wordt verstaan onder:
 
 - c. **«binnenschepen, die in Nederland thuisbehoren»:** binnenschepen in de zin van [artikel 3, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=3) die voldoen aan tenminste één van de voorwaarden, bedoeld in [artikel 784, eerste lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784).
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=3&z=2010-10-10&g=2010-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2010-10-10&g=2010-10-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=8&z=2010-10-10&g=2010-10-10) in werking worden gesteld.
 
@@ -40,7 +65,7 @@ In deze wet wordt verstaan onder:
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -56,13 +81,13 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. De in het eerste lid omschreven bevoegdheden komen insgelijks toe aan Onze Minister van Defensie; hij maakt hiervan evenwel slechts gebruik na overleg met Onze Minister van Verkeer en Waterstaat.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), kan ook uitsluitend bepaalde schepen of groepen van schepen betreffen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -74,7 +99,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 4. Onze in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10) genoemde Ministers gedragen zich bij het verleenen en onthouden van vergunningen tot handelingen, als omschreven in lid 1, onder a en b, van dat artikel, naar regelen bij algemeenen maatregel van bestuur gesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij die door handelen of nalaten een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), opzettelijk overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500.
 
@@ -86,7 +111,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 5. Niet strafbaar is de overtreding van een verbod, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=2&z=2010-10-10&g=2010-10-10), voorzoover betreft het aanvangen of vervolgen van een vaart, een reis of een reeks van reizen in het buitenland, indien kan worden aannemelijk gemaakt, dat gedurende vijf dagen onmiddellijk hieraan voorafgaande, geenerlei berichtgeving tusschen het schip en Nederland mogelijk is geweest.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Hij die een voorwaarde, als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=4&z=2010-10-10&g=2010-10-10), opzettelijk niet nakomt, dan wel door handelen of nalaten opzettelijk bewerkt of opzettelijk medebewerkt, dat een zoodanige voorwaarde niet wordt nagekomen, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van ten hoogste € 4 500.
 
@@ -96,7 +121,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 4. Dit artikel is ook van toepassing op feiten, buiten Nederland gepleegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met de opsporing van de bij of krachtens deze rijkswet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast:
 
@@ -110,21 +135,21 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Processen-verbaal opgemaakt door een ambtenaar als bedoeld in onderdeel d, gelden als wettig bewijsmiddel, mits zij bevestigd worden door zijn daarin opgenomen schriftelijken eed (belofte).
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 De [artikelen 5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing ten aanzien van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001998&artikel=7&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren in Nederland.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet kan worden aangehaald onder den titel "Wet behoud scheepsruimte 1939".
 
-#### Artikel 11
+##### Artikel 11
 
 1. De tijdstippen van inwerkingtreding dezer wet worden telkens door Ons bij besluit bepaald.
 

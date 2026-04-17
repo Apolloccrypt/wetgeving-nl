@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling Impuls muziekonderwijs PO 2015–2020"
 identifier: "BWBR0037083"
-categorie: "Onderwijs"
-publicatiedatum: 2015-10-14
-laatste_update: 2015-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037083"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-10-14"
+last_updated: "2015-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037083"
+soort: "zbo"
+stam_id: "13273663"
+version_id: "22719752"
+internal_id: "C32849371"
+label_id: "13241784"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037083/2015-10-14/0"
+intitule_bron: "Stcrt.2015-34149"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-10-13"
+intitule_in_force: "2015-10-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-34149"
+original_published_date: "2015-10-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-34149"
+entry_into_force_date: "2015-10-14"
+jci_1_3: "jci1.3:c:BWBR0037083&z=2015-10-14&g=2015-10-14"
+jci_1_0: "1.0:c:BWBR0037083&g=2015-10-14"
+citeertitel_status: "officieel"
+entry_into_force: "2015-10-14"
 ---
-
 # Deelregeling Impuls muziekonderwijs PO 2015–2020
 
 Gelet op [artikel 10, vierde lid, van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -18,7 +40,7 @@ Besluit:
 
 #### Paragraaf 1. : Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -34,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 - **Nederland:** het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
 
-#### Artikel 1.2. Doel subsidieverstrekking
+##### Artikel 1.2. Doel subsidieverstrekking
 
 Het doel van deze regeling is het verstrekken van projectsubsidies voor het realiseren van een duurzame inbedding van kwalitatief goed muziekonderwijs in het primair onderwijs door deskundigheidsbevordering van de mensen die voor de klas staan, het structureel verzorgen van muziekonderwijs onder schooltijd en het vormen van verbindingen tussen binnenschoolse en buitenschoolse muziekeducatie.
 
 #### Paragraaf 2. : Subsidieverlening
 
-#### Artikel 2.1. Subsidieaanvraag
+##### Artikel 2.1. Subsidieaanvraag
 
 1. Een schoolbestuur gevestigd in Nederland kan voor één of meerdere locaties een aanvraag voor subsidie indienen. Per locatie wordt een aparte aanvraag ingediend.
 
@@ -82,7 +104,7 @@ Het doel van deze regeling is het verstrekken van projectsubsidies voor het real
 
 - d. afspraken over de inzet van uren en financiële middelen.
 
-#### Artikel 2.2. Weigeringsgronden
+##### Artikel 2.2. Weigeringsgronden
 
 Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), geweigerd worden indien:
 
@@ -90,7 +112,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 - b. de aanvrager voor dezelfde activiteiten reeds een subsidie heeft ontvangen.
 
-#### Artikel 2.3. Behandeling aanvragen
+##### Artikel 2.3. Behandeling aanvragen
 
 1. Het Fonds voor Cultuurparticipatie verdeelt het beschikbare bedrag, genoemd in [artikel 2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037083&paragraaf=2&artikel=2.4&z=2015-10-14&g=2015-10-14), in de volgorde van ontvangst van de volledige aanvragen. Van een volledige aanvraag is sprake indien wordt voldaan aan [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037083&paragraaf=2&artikel=2.1&z=2015-10-14&g=2015-10-14).
 
@@ -100,7 +122,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 4. Op een aanvraag wordt binnen een termijn van dertien weken na het indienen van de volledige aanvraag beslist.
 
-#### Artikel 2.4. Aanvraagtijdvakken en subsidieplafonds
+##### Artikel 2.4. Aanvraagtijdvakken en subsidieplafonds
 
 1. Aanvragen voor subsidie kunnen worden ingediend:
 
@@ -124,7 +146,7 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 5. Besluiten als bedoeld in het derde en vierde lid worden bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.
 
-#### Artikel 2.5. Hoogte subsidie en eigen bijdrage
+##### Artikel 2.5. Hoogte subsidie en eigen bijdrage
 
 1. De subsidie bedraagt voor 3 schooljaren:
 
@@ -144,13 +166,13 @@ Subsidie kan, onverminderd het bepaalde in de [artikelen 4:5](https://wetten.ove
 
 4. Maximaal 15% van de subsidie wordt besteed aan materiaalkosten, zoals aanschaf of huur van muziekinstrumenten en lesmaterialen.
 
-#### Artikel 2.6. Begrotingsvoorbehoud
+##### Artikel 2.6. Begrotingsvoorbehoud
 
 Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verstrekt onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 #### Paragraaf 3. : Verplichtingen en verantwoording
 
-#### Artikel 3.1. Meldingsplicht
+##### Artikel 3.1. Meldingsplicht
 
 De subsidieontvanger meldt onverwijld aan het Fonds voor Cultuurparticipatie als:
 
@@ -160,27 +182,27 @@ De subsidieontvanger meldt onverwijld aan het Fonds voor Cultuurparticipatie als
 
 - c. er aanzienlijke wijzigingen zijn ten opzichte van het projectplan op basis waarvan de subsidie is verstrekt.
 
-#### Artikel 3.2. Verantwoording, voorschotten, vaststelling en betaling
+##### Artikel 3.2. Verantwoording, voorschotten, vaststelling en betaling
 
 Verantwoording, bevoorschotting, vaststelling en betaling van de subsidie geschiedt overeenkomstig het daarover bepaalde in [hoofdstukken 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=10) en [11 van het Algemeen reglement van het Fonds voor Cultuurparticipatie](https://wetten.overheid.nl/jci1.3:c:BWBR0030858&hoofdstuk=11).
 
-#### Artikel 3.3. Monitoring en evaluatie
+##### Artikel 3.3. Monitoring en evaluatie
 
 Activiteiten die in het kader van deze regeling worden ontwikkeld en uitgevoerd worden gemonitord en geëvalueerd.
 
 #### Paragraaf 4. : Overige bepalingen
 
-#### Artikel 4.1. Wijziging [Regeling Professionalisering Cultuuronderwijs PO](https://wetten.overheid.nl/jci1.3:c:BWBR0036872)
+##### Artikel 4.1. Wijziging [Regeling Professionalisering Cultuuronderwijs PO](https://wetten.overheid.nl/jci1.3:c:BWBR0036872)
 
 Wijzigt de Regeling Professionalisering Cultuuronderwijs PO.
 
-#### Artikel 4.2. Inwerkingtreding
+##### Artikel 4.2. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij is geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2023. Op bezwaar-en beroepsprocedures die op dat moment nog niet zijn afgerond, blijft het bepaalde in deze regeling van overeenkomstige toepassing.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Impuls muziekonderwijs PO 2015–2020
 

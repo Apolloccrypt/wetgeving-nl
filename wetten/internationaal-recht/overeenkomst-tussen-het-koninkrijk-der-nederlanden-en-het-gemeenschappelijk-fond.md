@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen betreffende de zetel van het Fonds"
 identifier: "BWBV0002794"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-01-25
-laatste_update: 2002-01-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002794"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-01-25"
+last_updated: "2002-01-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002794"
+soort: "verdrag"
+stam_id: "10003118353"
+version_id: "10003122622"
+internal_id: "C10006976911"
+label_id: "10003104644"
+dtd_version: "2.0"
+original_entry_into_force: "1992-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002794/2002-01-25/0"
+intitule_bron: "Trb.1992-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-19"
+intitule_published: "1992-01-20"
+intitule_in_force: "1992-03-06"
+intitule_status: "goed"
+original_publication: "Trb.1992-8"
+original_signed_date: "1991-12-19"
+original_published_date: "1992-01-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-8"
+entry_into_force_date: "1992-02-19"
+jci_1_3: "jci1.3:c:BWBV0002794&z=2002-01-25&g=2002-01-25"
+jci_1_0: "1.0:c:BWBV0002794&g=2002-01-25"
+citeertitel_status: "officieel"
+signed_date: "1991-12-19"
+entry_into_force: "1992-02-19"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Gemeenschappelijk Fonds voor Grondstoffen betreffende de zetel van het Fonds
 
 The Government of the Kingdom of the Netherlands
@@ -26,7 +51,7 @@ Taking into account that the establishment of the Headquarters of the Common Fun
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 In this Agreement:
 
@@ -54,11 +79,11 @@ In this Agreement:
 
 - l). "experts" means persons, other than those referred to in sub-paragraph g. of this Article, designated by the Fund to perform official missions for the Fund.
 
-#### Article 2. Status, privileges and immunities of the Fund
+##### Article 2. Status, privileges and immunities of the Fund
 
 The status, privileges and immunities of the Fund in the Netherlands shall be governed by the provisions of Chapter X of the Agreement of 1980, as supplemented and augmented by the provisions of this Agreement.
 
-#### Article 3. Legal Personality of the Fund
+##### Article 3. Legal Personality of the Fund
 
 With reference to Article 41 of the Agreement of 1980, the Fund shall in the Netherlands possess full juridical personality under Netherlands law. This shall include the capacity:
 
@@ -68,7 +93,7 @@ With reference to Article 41 of the Agreement of 1980, the Fund shall in the Net
 
 - c). to institute legal proceedings.
 
-#### Article 4. Immunity from Juridical Proceedings
+##### Article 4. Immunity from Juridical Proceedings
 
 1. The Fund shall enjoy immunity from every form of legal process, except for actions which may be brought against the Fund:
 
@@ -88,21 +113,21 @@ The Fund may agree with its creditors to limit the property or assets of the Fun
 
 4. In any event, immunity shall not extend to an action for damages arising out of an accident caused by a vehicle belonging to or operated on behalf of the Fund, where those damages are not recoverable from insurance.
 
-#### Article 5. Immunity of assets from other actions
+##### Article 5. Immunity of assets from other actions
 
 The property and assets of the Fund, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation and any other form of interference or taking whether by executive or legislative action.
 
-#### Article 6. The Headquarters
+##### Article 6. The Headquarters
 
 1. In consultation with and with the agreement of the Fund, the Government shall assist the Fund in securing suitable premises and facilities required for its functioning as long as its Headquarters are located in the Netherlands.
 
 2. The Government and the Fund shall, as and when necessary, through an Exchange of Notes specify the respective responsibilities of the Government and the Fund in matters such as the payment of rent, provision of furniture and equipment, insurance, routine maintenance, liability in respect of third parties and any other pertinent matters.
 
-#### Article 7. Protection of the Headquarters
+##### Article 7. Protection of the Headquarters
 
 The Government of the Netherlands shall exercise due diligence to ensure that the security and tranquility of the Headquarters are not impaired by any person or group of persons attempting unauthorized entry into, or creating a disturbance in the immediate vicinity of the Headquarters. When necessary for these purposes, the appropriate authorities shall provide adequate police protection in the vicinity of the Headquarters and within those Headquarters if so requested by the Managing Director when he or she has reasonable grounds for believing that disturbances of a serious nature have occurred or are about to occur in the Headquarters.
 
-#### Article 8. Inviolability of the Premises
+##### Article 8. Inviolability of the Premises
 
 1. The premises of the Fund shall be inviolable. Any person authorized to enter any place under any legal provision shall not exercise that authority in respect of the premises of the Fund unless permission to do so has been given by or on behalf of the Managing Director. Such permission may, however, be presumed in case of fire or other emergencies requiring prompt protective action. Any person who has entered the premises with the presumed consent of the Managing Director, shall, if so requested by the Managing Director, leave the premises immediately. In other cases the Managing Director will give serious consideration to a request for permission from the Netherlands authorities to enter the premises without prejudice to the interests of the Fund.
 
@@ -110,21 +135,21 @@ The Government of the Netherlands shall exercise due diligence to ensure that th
 
 3. The Managing Director shall prevent the Headquarters from being used as a refuge by persons who are avoiding arrest under any law of the Netherlands, who are required by the Government for extradition to another country, or who are endeavouring to avoid service of legal process.
 
-#### Article 9. Inviolability of Archives
+##### Article 9. Inviolability of Archives
 
 The archives of the Fund, wherever located and by whomever held, shall be inviolable.
 
-#### Article 10. Facilities and Immunities in respect of Communications
+##### Article 10. Facilities and Immunities in respect of Communications
 
 1. The Fund shall have the right to use codes and to dispatch and receive official correspondence and other official communications by courier or in sealed bags, which shall have the same privileges and immunities as diplomatic couriers and bags.
 
 2. No censorship shall be applied to official communications to or from the Fund by whatsoever means of communication.
 
-#### Article 11. Facilities and Immunities in respect of Publications
+##### Article 11. Facilities and Immunities in respect of Publications
 
 The circulation of publications and other information material sent by or to the Fund, in the fulfilment of its purposes, shall not be restricted in any way.
 
-#### Article 12. Exemption from taxes and duties
+##### Article 12. Exemption from taxes and duties
 
 1. The Government shall give full effect to all the provisions of Article 48 of the Agreement of 1980. In particular and in addition, the Fund shall, in respect of taxes and duties in the Netherlands:
 
@@ -144,7 +169,7 @@ The circulation of publications and other information material sent by or to the
 
 3. Goods acquired or imported under paragraph 1 of this Article shall not be sold, given away, or otherwise disposed of, except in accordance with conditions agreed upon with the Government.
 
-#### Article 13. Freedom of Financial Assets from Restriction
+##### Article 13. Freedom of Financial Assets from Restriction
 
 Without being restricted by financial controls, regulations, notification requirements in respect of financial transactions, or moratoria of any kind, the Fund may:
 
@@ -152,11 +177,11 @@ Without being restricted by financial controls, regulations, notification requir
 
 - b). freely transfer its funds, gold or currency to or from the Netherlands or within the Netherlands and convert any currency held by it into any other currency.
 
-#### Article 14. Permanent Liaison with the Fund
+##### Article 14. Permanent Liaison with the Fund
 
 A Member may, after it has given due notification to the Government, assign its head of mission accredited in the Netherlands or any member of his or her diplomatic staff to serve as a permanent liaison between the member concerned and the Fund.
 
-#### Article 15. Privileges and Immunities of Governors, Executive Directors, Members of the Consultative Committee, Alternates, Advisers and Experts
+##### Article 15. Privileges and Immunities of Governors, Executive Directors, Members of the Consultative Committee, Alternates, Advisers and Experts
 
 1. Governors, Executive Directors, members of the Consultative Committee, Alternates of the foregoing, advisers and experts while exercising their functions and in the course of their journeys to or from the Headquarters of the Fund shall enjoy the following privileges and immunities:
 
@@ -176,7 +201,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 2. Persons other than those referred to in paragraph 1 of this Article, invited by the Common Fund on official business in accordance with the Agreement of 1980, shall enjoy the privileges and immunities referred to in sub-paragraphs (b) and (f) of paragraph 1 of this Article.
 
-#### Article 16. Privileges and Immunities of the Managing Director and his senior staff
+##### Article 16. Privileges and Immunities of the Managing Director and his senior staff
 
 1. In addition to the privileges and immunities accorded to staff members of the Fund, the Managing Director shall, together with members of the family forming part of his or her household, not being private servants, enjoy the privileges and immunities to which a head of a diplomatic mission is entitled, unless he or she is either a Netherlands national or a permanent resident of the Netherlands.
 
@@ -188,7 +213,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 5. With regard to activities referred to in paragraph 4 of this Article the persons concerned shall not enjoy any fiscal privilege or exemption from Netherlands social security provisions.
 
-#### Article 17. Privileges and Immunities of the Staff of the Fund
+##### Article 17. Privileges and Immunities of the Staff of the Fund
 
 1. The staff members of the Fund shall enjoy:
 
@@ -212,7 +237,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 - d). shall, in accordance with the regulations in force, have relief from import duties and taxes, except payments for services, in respect of their furniture and personal effects and the right on the termination of their function in the Netherlands to export with relief from duties and taxes their furniture and personal effects.
 
-#### Article 18. Notification
+##### Article 18. Notification
 
 1. The Fund shall notify the Government of:
 
@@ -226,13 +251,13 @@ A Member may, after it has given due notification to the Government, assign its 
 
 3. The Government shall issue an identity card to staff members and members of their families forming part of their households.
 
-#### Article 19. Social Security
+##### Article 19. Social Security
 
 1. In the event that the Fund shall have established its own social system or has adhered to a social scheme offering coverage comparable to the coverage under Netherlands legislation, the Fund and its staff members and other employees to whom the aforementioned scheme applies, shall be exempt from social security provisions in force in the Netherlands.
 
 2. The provisions of paragraph 1 of this Article shall apply, **mutatis mutandis,**to the members of the family forming part of the households of the individuals referred to in paragraph 1, unless they are employed in the Netherlands otherwise than by the Fund or unless they are in the domestic service of the aforesaid households.
 
-#### Article 19A. Employment of Family Members of Officials
+##### Article 19A. Employment of Family Members of Officials
 
 1. Members of the family forming part of the household of the officials of the Fund shall be authorised to engage in gainful employment in the Netherlands for the duration of the term of office of the officials concerned.
 
@@ -250,7 +275,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 5. The employment referred to in paragraph l of this Article shall be in accordance with Netherlands legislation, including fiscal and social security legislation, unless any other applicable international legal instrument provides otherwise.
 
-#### Article 20. General provisions
+##### Article 20. General provisions
 
 1. The privileges and immunities provided for in this Agreement are conferred in the interests of the Fund and not for the personal benefit of the individuals themselves. It is the duty of the Fund and all persons enjoying such privileges and immunities to observe in all others respects the laws and regulations of the Netherlands.
 
@@ -262,7 +287,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 5. The Fund shall make provision for appropriate modes of settlement of disputes of a private law character arising out of contracts or other transactions to which the Fund is a party and in respect of which the Fund is immune from juridical proceedings under Article 4 of this Agreement. The Fund shall also make provision for appropriate modes of settlement of disputes involving a member of the staff of the Fund who, by reason of his or her official position, enjoys immunity, if such immunity has not been waived.
 
-#### Article 21. Settlement of Disputes
+##### Article 21. Settlement of Disputes
 
 1. Any dispute between the Parties concerning the interpretation or application of this Agreement, or any supplemental agreement, which cannot be settled amicably, shall be submitted, at the request of either Party to the dispute, to an arbitral tribunal, composed of three members. Each Party shall appoint one arbitrator and the two arbitrators thus appointed shall together appoint a third arbitrator as their chairman.
 
@@ -274,7 +299,7 @@ A Member may, after it has given due notification to the Government, assign its 
 
 5. The tribunal shall reach its decision by a majority of votes. Such decision shall be final and binding on the Parties to the dispute.
 
-#### Article 22. Entry into force
+##### Article 22. Entry into force
 
 1. The provisions of this Agreement will be applied provisonally from the date of signature.
 
@@ -282,13 +307,13 @@ A Member may, after it has given due notification to the Government, assign its 
 
 3. With respect to the Kingdom of the Netherlands this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 23. Revision and Modifications
+##### Article 23. Revision and Modifications
 
 1. At the request of either Party at any time, or in the event that the Fund becomes a specialized agency of the United Nations, this Agreement may be revised or modified.
 
 2. Any such revision or modification may be given effect to either in a new Agreement or by an exchange of notes.
 
-#### Article 24. Termination
+##### Article 24. Termination
 
 This Agreement shall be terminated in the event that the Headquarters are transferred from the territory of the Netherlands. The provisions of this Agreement relevant in connection with the orderly termination of the operations of the Fund in the Netherlands and the disposal of its property shall, however, remain applicable as long as necessary, but no longer than six months after notification to the Government that the Fund will terminate its operations in the Netherlands.
 

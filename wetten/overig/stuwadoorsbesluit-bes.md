@@ -1,20 +1,45 @@
 ---
 title: "Stuwadoorsbesluit BES"
 identifier: "BWBR0028421"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028421"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028421"
+soort: "AMvB-BES"
+stam_id: "10778923"
+version_id: "17755722"
+internal_id: "C24839541"
+label_id: "10753824"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028421/2010-10-10/0"
+intitule_bron: "Stb.2010-620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-620"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-620"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028421&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028421&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Stuwadoorsbesluit BES
 
 ### Hoofdstuk I. Voorschriften, als bedoeld bij [artikel 2, 1ste lid, sub a, b, c, e, f, g en h Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2)
 
 #### § 1. De veiligheid in verband met de te verrichten werkzaamheden, het vervoer in het bedrijf der havenarbeiders naar en van de plaatsen waar die werkzaamheden verricht worden inbegrepen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het dek van een zeeschip moet voor havenarbeiders, die aan boord van het schip stuwadoorsarbeid gaan verrichten, veilig te bereiken zijn.
 
@@ -24,7 +49,7 @@ bron: "https://wetten.overheid.nl/BWBR0028421"
 
 4. Ter plaatse, waar loopplanken, trappen of ladders toegang tot het zeeschip geven, moeten goed vaststaande trappen of andere doelmatige hulpmiddelen van den bovenkant der verschansing naar het dek leiden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien havenarbeiders over water naar een zeeschip moeten worden vervoerd, moeten vaartuigen beschikbaar worden gesteld om de havenarbeiders kosteloos van den wal van aanwerving naar het schip en van het schip naar den wal van aanwerving te brengen.
 
@@ -38,21 +63,21 @@ bron: "https://wetten.overheid.nl/BWBR0028421"
 
 3a. Met deze voertuigen mag geen groter aantal personen tegelijk worden vervoerd, dan de veiligheid toelaat, welk aantal op een goed zichtbare plaats op elk voertuig moet zijn vermeld. Indien behalve personen tevens goederen worden vervoerd, wordt voor elke 75 kg vervoerd goed het aantal toe te laten personen met één verminderd.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan een zeeschip, waarheen havenarbeiders over water worden vervoerd, moet eene statietrap of eene goede, binnenboords bevestigde, stormladder van voldoende lengte aanwezig zijn, opdat vanuit de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028421&hoofdstuk=I&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde vaartuigen gemakkelijk de bovenzijde der verschansing kan bereikt worden, tenzij toegang tot het zeeschip wordt verkregen door middel van ladders, geplaatst op een langszij liggend vaartuig van voldoende grootte.
 
-#### Artikel 4
+##### Artikel 4
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028421&hoofdstuk=I&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde vaartuigen mogen slechts daar aan den wal aanleggen, waar doelmatige trappen of ladders of andere voldoende hulpmiddelen aanwezig zijn, om van den wal die vaartuigen of vanuit laatstgenoemde den wal te bereiken.
 
-#### Artikel 5
+##### Artikel 5
 
 De toegangen tot de vaartuigen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028421&hoofdstuk=I&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), en tot de zeeschepen, waaraan stuwadoorsarbeid verricht wordt, moeten bij het aan boord komen en van boord gaan der havenarbeiders voldoende verlicht zijn.
 
 #### § 2. Het voorkomen van ongevallen en het verleenen van hulp bij ongevallen
 
-#### Artikel 6
+##### Artikel 6
 
 Ter plaatse, waar de stuwadoorsarbeid verricht wordt, moeten de zich op minder dan 1,80 m boven de vloeren, bordessen of traptreden bevindende, gevaar doen vreezende, deelen van:
 
@@ -60,7 +85,7 @@ Ter plaatse, waar de stuwadoorsarbeid verricht wordt, moeten de zich op minder d
 
 - b. drijfwerken, zooals krukken, assen, kettingen, snaren, riemen, schijven, raderen, spieën, bouten, koppelingen, stelschroeven: voldoende zijn beschut en in goeden staat van onderhoud verkeeren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ter plaatse, waar stuwadoorsarbeid verricht wordt, moeten hijschkranen, lieren, elevators en andere hefwerktuigen aan de volgende vereischten voldoen:
 
@@ -78,7 +103,7 @@ Ter plaatse, waar de stuwadoorsarbeid verricht wordt, moeten de zich op minder d
 
 2. Met hijschkranen mogen geen zwaardere lasten worden verplaatst dan overeenkomt met het hefvermogen van die werktuigen, dat uit een oogpunt van veiligheid ten hoogste kan worden toegelaten. Dat hefvermogen moet op de hijschkranen op een goed zichtbare plaats vermeld staan, terwijl het bij kranen met verstelbaren dirk automatisch bij elken stand van den dirk moet worden aangegeven.
 
-#### Artikel 8
+##### Artikel 8
 
 Op een zeeschip, waaraan stuwadoorsarbeid wordt verricht, moeten:
 
@@ -88,7 +113,7 @@ Op een zeeschip, waaraan stuwadoorsarbeid wordt verricht, moeten:
 
 - c. de schilden en merkels voorzien zijn van zoodanige hulpmiddelen om hen weg te nemen of te plaatsen, dat het niet noodig is om op de schilden of merkels te klimmen om deze hulpmiddelen te bevestigen.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van ruimen, tusschendekken, bunkerruimen en andere onder het opperdek gelegen plaatsen van een zeeschip, waaraan stuwadoorsarbeid verricht wordt, gelden de volgende voorschriften:
 
@@ -98,7 +123,7 @@ Ten aanzien van ruimen, tusschendekken, bunkerruimen en andere onder het opperde
 
 - c. de tunnels moeten aan beide zijden van een voldoend aantal handgrepen zijn voorzien, zoodat onbelemmerd en zonder gevaar daarover kan worden geklommen.
 
-#### Artikel 10
+##### Artikel 10
 
 Stellingen, waarop stuwadoorsarbeid verricht wordt en die van den wal naar het schip leiden, moeten aan de volgende vereischten voldoen:
 
@@ -106,7 +131,7 @@ Stellingen, waarop stuwadoorsarbeid verricht wordt en die van den wal naar het s
 
 - b. de stellingen moeten eene breedte hebben van ten minste 1,40 m. Indien deze stellingen in de breedte uit verschillende planken bestaan, moeten deze planken ten minste 0.07 m dik zijn en onderling verbonden zijn door daaronder aangebrachte leggers van ten minste 0,10 m bij 0,10 m in doorsnede, welke leggers op niet meer dan 1,50 m afstand van elkander verwijderd mogen zijn, terwijl zij ten minste 0,15 m buiten de planken moeten uitsteken.
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van hangstellingen buiten boord, waarop stuwadoorsarbeid verricht wordt, en ten aanzien van den arbeid op zulke stellingen gelden de volgende voorschriften:
 
@@ -114,7 +139,7 @@ Ten aanzien van hangstellingen buiten boord, waarop stuwadoorsarbeid verricht wo
 
 - b. wanneer geen behoorlijke omschutting van de hangstelling aanwezig is, moet iedere arbeider door een gordel met een touw van voldoende lengte en sterkte beveiligd zijn; dit touw moet binnenboord aan een geschikt punt zijn vastgemaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet aan de volgende voorschriften zijn voldaan:
 
@@ -132,7 +157,7 @@ Ten aanzien van hangstellingen buiten boord, waarop stuwadoorsarbeid verricht wo
 
 2. Met liften mogen geen zwaardere lasten worden vervoerd, dan uit een oogpunt van veiligheid ten hoogste kunnen worden toegelaten. Het toelaatbaar gewicht moet bij de toegangen tot de lift of op den liftbak op een goed zichtbare plaats vermeld staan.
 
-#### Artikel 13
+##### Artikel 13
 
 Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet ten aanzien van de daarbij gebezigde, hieronder vermelde werktuigen aan de volgende voorschriften zijn voldaan:
 
@@ -152,7 +177,7 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet ten aanzien van de daarb
 
 - h. balkhaken, die bij de lossing of lading van balken gebezigd worden, mogen niet door onvoldoend scherpe punten of ondoelmatigen vorm, in verband met den vorm der balken, gevaar voor het neervallen daarvan opleveren.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ter plaatse, waar stuwadoorsarbeid wordt verricht, moet aan de volgende voorschriften zijn voldaan:
 
@@ -194,17 +219,17 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet ten aanzien van de daarb
 
 3. [vervallen]
 
-#### Artikel 15
+##### Artikel 15
 
 1. Zoo nodig moeten ten aanzien van kettingwerk, dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, de herkomst, het jaar van aanmaak, de veilig toelaatbare belasting, zoomede de tijdstippen van beproeving en van uitgloeiing genoteerd worden in een door of namens het hoofd of den bestuurder der onderneming bij te houden register. De in het register vermelde, veilig toelaatbare, belasting en een mede in het register aangegeven merkteeken moeten op het kettingwerk zijn ingeslagen. Dit register wordt de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2), op eerste aanvrage ter inzage gegeven.
 
 2. Het kettingwerk en het overige los- en laadgerei dat ter plaatse, waar stuwadoorsarbeid wordt verricht, gebezigd wordt, moet voor zoover de aard van die hulpmiddelen beproeving noodig en mogelijk maakt, aan eene beproeving of eene periodieke beproeving door een door Onze Minister erkende deskundige worden onderworpen. Van deze beproeving wordt de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2), op eerste aanvrage een door de deskundige opgesteld bewijs overgelegd. Voldoende bewijs moet kunnen worden geleverd, dat het behoorlijk en tijdig met gunstigen uitslag is beproefd.
 
-#### Artikel 16
+##### Artikel 16
 
 Ter plaatse, waar stuwadoorsarbeid verricht wordt en zich vaste, vloeibare of gasvormige stoffen bevinden, die ontplofbaar of licht ontvlambaar zijn, mag geen ander dan goed geïsoleerd kunstlicht worden gebezigd en geen vuur aanwezig zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ter plaatse, waar stuwadoorsarbeid verricht wordt, moeten:
 
@@ -216,7 +241,7 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt en zich vaste, vloeibare of ga
 
 #### § 3. Het voorkomen van schade aan de gezondheid tengevolge van den arbeid
 
-#### Artikel 18
+##### Artikel 18
 
 1. Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet aan de volgende voorschriften zijn voldaan:
 
@@ -232,13 +257,13 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt en zich vaste, vloeibare of ga
 
 #### § 4. Het beschikbaar stellen van drinkwater en/of alcoholvrije dranken
 
-#### Artikel 19
+##### Artikel 19
 
 Ter plaatse, waar stuwadoorsarbeid wordt verricht, moet aan de havenarbeiders goed drinkwater of andere geschikte alcoholvrije drank op doelmatige wijze en in voldoende hoeveelheid kosteloos worden verstrekt.
 
 #### § 5. Het bevorderen van de zindelijkheid
 
-#### Artikel 20
+##### Artikel 20
 
 1. Werklokalen, terreinen en dekken van zeeschepen, waar stuwadoorsarbeid wordt verricht, moeten zindelijk en zooveel mogelijk vrij van stof en afval worden gehouden.
 
@@ -246,13 +271,13 @@ Ter plaatse, waar stuwadoorsarbeid wordt verricht, moet aan de havenarbeiders go
 
 3. Privaten en urinoirs moeten zindelijk worden gehouden.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien havenarbeiders bij het verrichten van stuwadoorsarbeid aan groote warmte, stof of vuil zijn blootgesteld, moet ingeval de arbeid plaats vindt op een terrein, behoorende tot of in gebruik zijnde bij eene stuwadoorsonderneming, of op een schip, dat aan zulk een terrein gemeerd ligt, op dit terrein een doelmatig ingerichte en gelegen binnenshuis opgestelde bad- en waschgelegenheid aanwezig zijn, die op doelmatige tijden in verband met de schafttijden en het eind van dien arbeid voor de arbeiders toegankelijk moeten wezen.
 
 2. Indien de aanvoer ter plaatse van bruikbaar water in voldoende hoeveelheid bijzondere bezwaren oplevert, kan de ambtenaar, bedoeld in [artikel 2, vijfde lid, van de Stuwadoorswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2), van deze bepaling voorwaardelijke of onvoorwaardelijke ontheffing verleenen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Aan boord van een zeeschip, waaraan stuwadoorsarbeid wordt verricht, of wel op het terrein, waaraan het zeeschip gemeerd ligt, moet ten minste één privaat en een voldoend aantal urinoirs voor de havenarbeiders beschikbaar zijn.
 
@@ -260,7 +285,7 @@ Ter plaatse, waar stuwadoorsarbeid wordt verricht, moet aan de havenarbeiders go
 
 #### § 7. Kleedkamers, kleederbergplaatsen en schaftlokalen
 
-#### Artikel 23
+##### Artikel 23
 
 Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet aan de volgende voorschriften worden voldaan:
 
@@ -272,19 +297,19 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet aan de volgende voorschr
 
 ### Hoofdstuk II. Overgangsbepaling
 
-#### Artikel 24
+##### Artikel 24
 
 [vervallen]
 
 ### Hoofdstuk III. Slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. De havenarbeiders hebben de verplichting om de voorschriften van dit besluit, voorzoover zulks van hen afhangt, na te leven en de voor hen bestemde beveiligingsmiddelen en andere voorzieningen, welke aan de eischen voldoen bij dit besluit gesteld, aan te wenden.
 
 2. De voormannen hebben toe te zien op de juiste naleving van deze voorschriften en het behoorlijk gebruik van bovenbedoelde beveiligingsmiddelen en andere voorzieningen.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid kan van het bij of krachtens dit besluit bepaalde vrijstelling verlenen.
 
@@ -304,14 +329,14 @@ Ter plaatse, waar stuwadoorsarbeid verricht wordt, moet aan de volgende voorschr
 
 6. De werking van een beschikking inzake een ontheffing wordt opgeschort totdat de termijn voor het indienen van een bezwaar- of beroepschrift is verstreken of, indien bezwaar is gemaakt of beroep is ingesteld, op het bezwaar of beroep is beslist.
 
-#### Artikel 25b
+##### Artikel 25b
 
 Dit besluit berust op [artikel 2, eerste lid, van de Stuwadoorswet 1946 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2).
 
-#### Artikel 26
+##### Artikel 26
 
 Dit besluit wordt aangehaald als: Stuwadoorsbesluit BES.
 
-#### Artikel 27
+##### Artikel 27
 
 [vervallen]

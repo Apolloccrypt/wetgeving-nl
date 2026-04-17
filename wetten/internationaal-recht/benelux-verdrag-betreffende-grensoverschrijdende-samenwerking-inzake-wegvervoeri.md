@@ -1,13 +1,35 @@
 ---
 title: "Benelux-verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie"
 identifier: "BWBV0006431"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-06-01
-laatste_update: 2017-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006431"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-06-01"
+last_updated: "2017-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006431"
+soort: "verdrag"
+stam_id: "10005262363"
+version_id: "10005652242"
+internal_id: "C10009242351"
+label_id: "10005245554"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006431/2017-06-01/0"
+intitule_bron: "Trb.2014-218"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-12-19"
+intitule_in_force: "2017-06-08"
+intitule_status: "goed"
+original_publication: "Trb.2014-218"
+original_published_date: "2014-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-218"
+entry_into_force_date: "2017-06-01"
+jci_1_3: "jci1.3:c:BWBV0006431&z=2017-06-01&g=2017-06-01"
+jci_1_0: "1.0:c:BWBV0006431&g=2017-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-06-01"
 ---
-
 # Benelux-verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie
 
 Het Koninkrijk België, vertegenwoordigd door:
@@ -56,7 +78,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOEL, BEGRIPSOMSCHRIJVINGEN EN VERHOUDING TOT ANDERE REGELINGEN
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Dit Verdrag beoogt:
 
@@ -66,7 +88,7 @@ Dit Verdrag beoogt:
 
 - c. de grensoverschrijdende, wederzijdse bijstand van de inspectiediensten inzake wegvervoer en de modaliteiten ervan.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -96,25 +118,25 @@ Dit Verdrag beoogt:
 
 2. Een lijst van bevoegde autoriteiten en ambtenaren wordt vastgesteld en geactualiseerd door middel van een in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag bedoelde uitvoeringsafspraak.
 
-#### Artikel 3. Verhouding tot andere regelingen
+##### Artikel 3. Verhouding tot andere regelingen
 
 Voor zover in dit Verdrag niet uitdrukkelijk anders is bepaald, geschiedt de samenwerking in het kader van het respectievelijke recht en de internationale verplichtingen van de Verdragsluitende Partijen.
 
 ### HOOFDSTUK II. DE VERDERGAANDE HARMONISATIE VAN HET TOEZICHT OP EN DE HANDHAVING VAN DE EU-WEGVERVOERREGELGEVING
 
-#### Artikel 4. Harmonisatie
+##### Artikel 4. Harmonisatie
 
 1. De Verdragsluitende Partijen streven naar een verdergaande harmonisatie van het toezicht op en de handhaving van de EU-wegvervoerregelgeving.
 
 2. In de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=27&z=2017-06-01&g=2017-06-01) van dit Verdrag genoemde actieplannen worden ter zake voorstellen opgenomen.
 
-#### Artikel 5. Risicoclassificatiesystemen
+##### Artikel 5. Risicoclassificatiesystemen
 
 De Verdragsluitende Partijen streven naar een onderlinge afstemming van hun risicoclassificatiesystemen zoals bedoeld in artikel 9 van [Richtlijn 2006/22/EG](32006L0022) van het Europees Parlement en de Raad van 15 maart 2006 inzake minimumvoorwaarden voor de uitvoering van de [Verordeningen (EEG) nr. 3820/85](31985R3820) en [(EEG) nr. 3821/85](31985R3821) van de Raad betreffende voorschriften van sociale aard voor het wegvervoer en tot intrekking van [Richtlijn 88/599/EEG](31988L0599) van de Raad.
 
 ### HOOFDSTUK III. HET BENUTTEN VAN SCHAALVOORDELEN OP HET TERREIN VAN CAPACITEIT (PERSONEEL, MIDDELEN EN MATERIEEL), EXPERTISE, ERVARING EN OPLEIDING
 
-#### Artikel 6. Kennis, expertise, ervaring, opleiding, personeel, middelen en materieel
+##### Artikel 6. Kennis, expertise, ervaring, opleiding, personeel, middelen en materieel
 
 De Verdragsluitende Partijen ondersteunen de grensoverschrijdende samenwerking in het kader van dit Verdrag door:
 
@@ -134,11 +156,11 @@ De Verdragsluitende Partijen ondersteunen de grensoverschrijdende samenwerking i
 
 - h. het verlenen van een recht tot toegang in het kader van een grensoverschrijdend optreden aan de grensoverschrijdende ambtenaren van de andere Verdragsluitende Partijen tot de nationale elektronische registers die elke Verdragsluitende Partij bijhoudt overeenkomstig de artikelen 16 en 17 van [Verordening (EG) nr. 1071/2009](32009R1071) van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gemeenschappelijke regels betreffende de voorwaarden waaraan moet zijn voldaan om het beroep van wegvervoerondernemer uit te oefenen en tot intrekking van [Richtlijn 96/26/EG](31996L0026) van de Raad, alsmede tot andere nationale registers bepaald in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag, met inachtneming van de op die registers van toepassing zijnde wetgeving inzake de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
 
-#### Artikel 7. Praktische modaliteiten van samenwerking
+##### Artikel 7. Praktische modaliteiten van samenwerking
 
 De praktische modaliteiten van de samenwerking op grond van dit Verdrag worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 
-#### Artikel 8. Middelen en materieel
+##### Artikel 8. Middelen en materieel
 
 1. De bevoegde autoriteit van de zendstaat kan op verzoek van de ontvangststaat middelen en materieel ter beschikking stellen. Bij de terbeschikkingstelling van de middelen en het materieel gaat een inventaris, die desgevraagd wordt voorgelegd aan de bevoegde autoriteit van de ontvangststaat.
 
@@ -148,15 +170,15 @@ De praktische modaliteiten van de samenwerking op grond van dit Verdrag worden d
 
 ### HOOFDSTUK IV. DE GRENSOVERSCHRIJDENDE, WEDERZIJDSE BIJSTAND VAN DE INSPECTIEDIENSTEN INZAKE WEGVERVOER EN DE MODALITEITEN ERVAN
 
-#### Artikel 9. Grensoverschrijdend optreden
+##### Artikel 9. Grensoverschrijdend optreden
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen, afhankelijk van hun operationele behoeften, een grensoverschrijdend optreden organiseren.
 
-#### Artikel 10. Taken bij grensoverschrijdend optreden
+##### Artikel 10. Taken bij grensoverschrijdend optreden
 
 De praktische modaliteiten van de samenwerking en de toekenning van taken bij deelname aan een grensoverschrijdend optreden worden door de bevoegde autoriteiten geregeld door middel van uitvoeringsafspraken zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag. Daarbij wordt bij de toekenning van taken rekening gehouden met eventueel tussen de ambtenaren bestaande verschillen in de bevoegdheden waarover zij op hun eigen grondgebied beschikken.
 
-#### Artikel 11. Verzoek tot grensoverschrijdend optreden
+##### Artikel 11. Verzoek tot grensoverschrijdend optreden
 
 1. Een grensoverschrijdend optreden is slechts mogelijk op verzoek. Het verzoek wordt schriftelijk of elektronisch door de bevoegde autoriteit van de verzoekende Verdragsluitende Partij gericht aan de bevoegde autoriteit van de aangezochte Verdragsluitende Partij. Het verzoek wordt ondertekend door de bevoegde autoriteit van de verzoekende Verdragsluitende Partij. In geval van een elektronisch verzoek is een ondertekening met een elektronische handtekening vereist.
 
@@ -164,37 +186,37 @@ De praktische modaliteiten van de samenwerking en de toekenning van taken bij de
 
 3. De bevoegde autoriteit van de aangezochte Verdragsluitende Partij neemt onverwijld een beslissing betreffende het verzoek. Van die beslissing wordt zo spoedig mogelijk maar in ieder geval ten laatste een week voor het beoogde grensoverschrijdend optreden schriftelijk of elektronisch mededeling gedaan aan de bevoegde autoriteit van de verzoekende Verdragsluitende Partij. De beslissing wordt ondertekend door de aangezochte Verdragsluitende Partij. In geval van een elektronische beslissing is een ondertekening met een elektronische handtekening vereist.
 
-#### Artikel 12. Informatieplicht
+##### Artikel 12. Informatieplicht
 
 1. De grensoverschrijdende ambtenaar wordt onverwijld in het bezit gesteld van een afschrift van de beslissing bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=IV&artikel=11&z=2017-06-01&g=2017-06-01), van dit Verdrag.
 
 2. De grensoverschrijdende ambtenaar is in het bezit van een inventaris van desgevallend meegevoerde middelen en materieel, zoals vastgesteld door de bevoegde autoriteit. Hij legt deze inventaris desgevraagd voor aan de daartoe bevoegde autoriteit van de ontvangststaat.
 
-#### Artikel 13. Gebruik van dwangmiddelen
+##### Artikel 13. Gebruik van dwangmiddelen
 
 Tijdens een grensoverschrijdend optreden mogen de ambtenaren de tot de basisuitrusting in de zendstaat behorende individuele materiële dwangmiddelen vervoeren, meevoeren of dragen, mits deze zijn toegestaan door de ontvangststaat. Deze dwangmiddelen mogen alleen worden gebruikt met inachtneming van de wetgeving toepasselijk in de ontvangststaat.
 
-#### Artikel 14. Vertrouwelijkheid
+##### Artikel 14. Vertrouwelijkheid
 
 Voor de grensoverschrijdende ambtenaar, de grensoverschrijdende inspectie-eenheid en de bevoegde autoriteit van de zendstaat gelden dezelfde regels inzake vertrouwelijkheid als die welke gelden voor de ambtenaren en bevoegde autoriteiten van de ontvangststaat.
 
 ### HOOFDSTUK V. ALGEMENE BEPALINGEN BETREFFENDE GRENSOVERSCHRIJDEND OPTREDEN
 
-#### Artikel 15. Toepasselijk recht en procedures
+##### Artikel 15. Toepasselijk recht en procedures
 
 1. De ambtenaar treedt tijdens het grensoverschrijdend optreden op in overeenstemming met het in de ontvangststaat geldende recht.
 
 2. Een grensoverschrijdend optreden wordt uitgevoerd volgens de wettelijke procedures van de ontvangststaat.
 
-#### Artikel 16. Gezag
+##### Artikel 16. Gezag
 
 Gedurende het grensoverschrijdend optreden is de grensoverschrijdende ambtenaar gehouden de aanwijzingen van de betreffende bevoegde autoriteiten en de bevelen van de betreffende leidinggevende van de ontvangststaat op te volgen.
 
-#### Artikel 17. Identificatie
+##### Artikel 17. Identificatie
 
 De grensoverschrijdende ambtenaar is te allen tijde in staat zijn officiële functie aan te tonen, door middel van een legitimatiebewijs dat aan hem is verstrekt in de zendstaat.
 
-#### Artikel 18. Uiterlijke herkenbaarheid
+##### Artikel 18. Uiterlijke herkenbaarheid
 
 1. De grensoverschrijdende ambtenaar is als zodanig uiterlijk herkenbaar door het dragen van dienstkledij of herkenningstekens die wijzen op het grensoverschrijdend karakter van het optreden.
 
@@ -202,55 +224,55 @@ De grensoverschrijdende ambtenaar is te allen tijde in staat zijn officiële fun
 
 3. De voorgaande leden zijn niet van toepassing indien dit gezien de aard van het grensoverschrijdend optreden van inspectiediensten inzake wegvervoer noodzakelijk is.
 
-#### Artikel 19. Overname en beëindiging
+##### Artikel 19. Overname en beëindiging
 
 1. Het begin en het einde van het grensoverschrijdend optreden worden vastgesteld in een uitvoeringsafspraak zoals bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=26&z=2017-06-01&g=2017-06-01) van dit Verdrag.
 
 2. In uitzonderlijke gevallen kan de bevoegde autoriteit van de ontvangststaat het grensoverschrijdend optreden overnemen, zo nodig in afwijking van de in het eerste lid genoemde uitvoeringsafspraak. Het grensoverschrijdend optreden wordt beëindigd zodra de bevoegde autoriteit van de ontvangststaat kennis geeft van deze overname.
 
-#### Artikel 20. Verslag
+##### Artikel 20. Verslag
 
 De grensoverschrijdende ambtenaar of de leidinggevende van een grensoverschrijdende inspectie-eenheid, doet na elk grensoverschrijdend optreden verslag van dit optreden aan de bevoegde autoriteiten van de ontvangststaat.
 
-#### Artikel 21. Hulpverlening
+##### Artikel 21. Hulpverlening
 
 Een ontvangststaat is jegens de grensoverschrijdende ambtenaren van de zendstaat tijdens het grensoverschrijdend optreden verplicht tot dezelfde bescherming en hulpverlening als jegens de eigen ambtenaren.
 
 ### HOOFDSTUK VI. BEPALINGEN BETREFFENDE DE BURGERRECHTELIJKE EN STRAFRECHTELIJKE AANSPRAKELIJKHEID EN BETREFFENDE DE KOSTEN
 
-#### Artikel 22. Strafrechtelijke aansprakelijkheid
+##### Artikel 22. Strafrechtelijke aansprakelijkheid
 
 In het kader van de taken vallende onder de toepassing van dit Verdrag worden de ambtenaren van de zendstaat met ambtenaren van de ontvangststaat gelijkgesteld, voor wat betreft de strafbare feiten die tegen of door hen mochten worden begaan, tenzij de Verdragsluitende Partijen anders overeenkomen.
 
-#### Artikel 23. Burgerrechtelijke aansprakelijkheid
+##### Artikel 23. Burgerrechtelijke aansprakelijkheid
 
 1. Verbintenissen uit onrechtmatige daad begaan door een ambtenaar van de zendstaat tijdens een grensoverschrijdend optreden, worden beheerst door het recht van de ontvangststaat.
 
 2. In het geval van een grensoverschrijdend optreden, komt de vergoeding van schade toegebracht door een ambtenaar van de zendstaat op het grondgebied van de ontvangststaat ten laste van de zendstaat. In dergelijk geval vergoedt de ontvangststaat de door de benadeelden of hun rechthebbenden geleden schade op de wijze waarop zij daartoe gehouden zou zijn, indien de schade door haar eigen ambtenaren zou zijn aangebracht. De zendstaat betaalt vervolgens de ontvangststaat het volledige bedrag terug dat deze aan de benadeelden of hun rechthebbenden heeft uitgekeerd.
 
-#### Artikel 24. Arbeidsrelatie
+##### Artikel 24. Arbeidsrelatie
 
 De rechten en verplichtingen die voorvloeien uit de arbeidsrelatie van de grensoverschrijdende ambtenaar in de zendstaat, blijven tijdens het grensoverschrijdend optreden onverkort van kracht.
 
 Hieronder worden mede verstaan de rechten en verplichtingen op het gebied van burgerrechtelijke aansprakelijkheid.
 
-#### Artikel 25. Kosten van het grensoverschrijdend optreden
+##### Artikel 25. Kosten van het grensoverschrijdend optreden
 
 Elke Verdragsluitende Partij draagt de kosten met betrekking tot de eigen deelname aan een grensoverschrijdend optreden, tenzij anders overeengekomen.
 
 ### HOOFDSTUK VII. UITVOERINGSAFSPRAKEN EN ACTIEPLANNEN
 
-#### Artikel 26. Uitvoeringsafspraken
+##### Artikel 26. Uitvoeringsafspraken
 
 De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afspraken met betrekking tot de uitvoeringsmodaliteiten.
 
-#### Artikel 27. Actieplannen
+##### Artikel 27. Actieplannen
 
 1. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2017-06-01&g=2017-06-01) genoemde stuurgroep stelt periodieke actieplannen ter uitvoering van dit Verdrag vast en stuurt deze toe aan de regeringen van de Verdragsluitende Partijen.
 
 2. De in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VII&artikel=28&z=2017-06-01&g=2017-06-01) genoemde stuurgroep rapporteert jaarlijks aan de regeringen van de Verdragsluitende Partijen over de uitvoering van de in het eerste lid genoemde actieplannen.
 
-#### Artikel 28. Stuurgroep wegvervoerinspectie
+##### Artikel 28. Stuurgroep wegvervoerinspectie
 
 1. Een stuurgroep wegvervoerinspectie, waarin alle Verdragsluitende Partijen vertegenwoordigd zijn, wordt ingesteld.
 
@@ -260,7 +282,7 @@ De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afsp
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
-#### Artikel 29. Geschillenbeslechting
+##### Artikel 29. Geschillenbeslechting
 
 1. De Verdragsluitende Partijen werken samen bij kwesties omtrent de interpretatie of toepassing van dit Verdrag.
 
@@ -270,23 +292,23 @@ De bevoegde autoriteiten maken op basis van en in het kader van dit Verdrag afsp
 
 4. Geschillen betreffende de interpretatie of toepassing van dit Verdrag waarover de commissie van deskundigen geen overeenstemming kan bereiken worden bij wege van overleg tussen de regeringen van de Verdragsluitende Partijen beslecht.
 
-#### Artikel 30. Toepassing van het Verdrag
+##### Artikel 30. Toepassing van het Verdrag
 
 De Verdragsluitende Partijen treffen de maatregelen welke nodig zijn voor de toepassing van dit Verdrag.
 
-#### Artikel 31. Uitwisseling van informatie
+##### Artikel 31. Uitwisseling van informatie
 
 De Verdragsluitende Partijen ontwikkelen gezamenlijk een mechanisme voor de uitwisseling van informatie en evaluaties op het gebied van de controle van het wegvervoer bij toepassing van dit Verdrag, in strikte overeenstemming met de geldende voorschriften betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer.
 
-#### Artikel 32. Evaluatie
+##### Artikel 32. Evaluatie
 
 Uiterlijk drie jaren na de inwerkingtreding van dit Verdrag evalueren de Verdragsluitende Partijen de werking en effectiviteit ervan.
 
-#### Artikel 33. Territoriaal toepassingsgebied
+##### Artikel 33. Territoriaal toepassingsgebied
 
 Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=35&z=2017-06-01&g=2017-06-01) van dit Verdrag, is dit Verdrag van toepassing op het grondgebied van het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden in Europa.
 
-#### Artikel 34. Bekrachtiging en inwerkingtreding
+##### Artikel 34. Bekrachtiging en inwerkingtreding
 
 1. De Secretaris-generaal van de Benelux Unie is depositaris van dit Verdrag, waarvan hij een eensluidend afschrift aan elke Verdragsluitende Partij doet toekomen.
 
@@ -300,11 +322,11 @@ Onverminderd [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofds
 
 6. De depositaris stelt de Verdragsluitende Partijen op de hoogte van de datum van inwerkingtreding van dit Verdrag.
 
-#### Artikel 35. Toetreding derde landen en deelstaten
+##### Artikel 35. Toetreding derde landen en deelstaten
 
 Het staat derde landen en, indien zij verdragsluitende bevoegdheid hebben, deelstaten vrij toe te treden tot dit Verdrag door de neerlegging van een akte van toetreding bij de depositaris. Voor toetredende landen of deelstaten treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding en ten vroegste op de dag van inwerkingtreding van het Verdrag overeenkomstig het [vijfde lid van artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBV0006431&hoofdstuk=VIII&artikel=34&z=2017-06-01&g=2017-06-01) van dit Verdrag. De depositaris brengt de Verdragsluitende Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van dit Verdrag voor het toetredende land of de toetredende deelstaat.
 
-#### Artikel 36. Opzegging
+##### Artikel 36. Opzegging
 
 Dit Verdrag kan door elke Verdragsluitende Partij te allen tijde worden opgezegd door de neerlegging van een schriftelijke verklaring bij de depositaris. De opzegging wordt zes maanden na de neerlegging van deze schriftelijke verklaring van kracht. Het Verdrag blijft in werking tussen de overige Verdragsluitende Partijen. De depositaris brengt de Verdragsluitende Partijen op de hoogte van de neerlegging van dergelijke verklaring.
 

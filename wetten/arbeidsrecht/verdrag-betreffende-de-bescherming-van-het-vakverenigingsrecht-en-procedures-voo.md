@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de bescherming van het vakverenigingsrecht en procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst"
 identifier: "BWBV0003778"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1989-11-29
-laatste_update: 1989-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003778"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-11-29"
+last_updated: "1989-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003778"
+soort: "verdrag"
+stam_id: "10003707503"
+version_id: "10003769072"
+internal_id: "C10006981351"
+label_id: "10003693044"
+dtd_version: "2.0"
+original_entry_into_force: "1989-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003778/1989-11-29/0"
+intitule_bron: "Trb.1979-50"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1979-03-20"
+intitule_in_force: "1989-01-27"
+intitule_status: "goed"
+original_publication: "Trb.1979-50"
+original_published_date: "1979-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-50"
+entry_into_force_date: "1989-11-29"
+jci_1_3: "jci1.3:c:BWBV0003778&z=1989-11-29&g=1989-11-29"
+jci_1_0: "1.0:c:BWBV0003778&g=1989-11-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "1989-11-29"
 ---
-
 # Verdrag betreffende de bescherming van het vakverenigingsrecht en procedures voor het vaststellen van arbeidsvoorwaarden in de openbare dienst
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -32,7 +54,7 @@ aanvaardt de zevenentwintigste juni van het jaar negentienhonderd achtenzeventig
 
 ## DEEL I. TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op alle personen die in dienst zijn van de overheid, voorzover gunstiger bepalingen in andere Internationale Arbeidsverdragen op hen niet van toepassing zijn.
 
@@ -40,17 +62,17 @@ aanvaardt de zevenentwintigste juni van het jaar negentienhonderd achtenzeventig
 
 3. In welke omvang de waarborgen, neergelegd in dit Verdrag, van toepassing zullen zijn op de gewapende macht en de politie, moet door nationale wettelijke voorschriften worden bepaald.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag wordt onder de term „werknemer in overheidsdienst” verstaan een ieder die onder het Verdrag valt krachtens artikel 1 van dit Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van dit Verdrag wordt onder de term „organisatie van overheidspersoneel” verstaan iedere organisatie, hoe ook samengesteld, die het bevorderen en het verdedigen van de belangen van het overheidspersoneel ten doel heeft.
 
 ## DEEL II. BESCHERMING VAN HET VAKVERENIGINGSRECHT
 
-#### Artikel 4
+##### Artikel 4
 
 1. Werknemers in overheidsdienst moeten een toereikende bescherming genieten tegen handelingen, ingegeven door een afwijzende houding jegens het vakverenigingswezen, die hen discrimineren in de sfeer van de arbeid.
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit Verdrag wordt onder de term „organisatie van overhe
 
 - (b). de werknemer in overheidsdienst te ontslaan of op andere wijze te benadelen op grond van zijn lidmaatschap van een organisatie van overheidspersoneel of van zijn deelneming aan de normale activiteiten van een dergelijke organisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Organisaties van overheidspersoneel moeten volledige onafhankelijkheid genieten ten opzichte van de overheid.
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag wordt onder de term „organisatie van overhe
 
 ## DEEL III. AAN DE ORGANISATIES VAN OVERHEIDSPERSONEEL TE VERLENEN FACILITEITEN
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de vertegenwoordigers van erkende organisaties van overheidspersoneel dienen passende faciliteiten te worden verleend, opdat zij hun functies snel en doeltreffend kunnen vervullen, zowel gedurende als buiten hun werktijden.
 
@@ -80,29 +102,29 @@ Voor de toepassing van dit Verdrag wordt onder de term „organisatie van overhe
 
 ## DEEL IV. PROCEDURES VOOR HET VASTSTELLEN VAN ARBEIDSVOORWAARDEN
 
-#### Artikel 7
+##### Artikel 7
 
 Waar nodig, moeten aan de nationale omstandigheden aangepaste maatregelen worden getroffen om de volledige ontwikkeling en het volledig gebruik aan te moedigen en te bevorderen van procedures voor het onderhandelen over arbeidsvoorwaarden tussen het betrokken overheidsgezag en de organisaties van overheidspersoneel, of van zodanige andere procedures die het mogelijk maken voor vertegenwoordigers van overheidspersoneel deel te hebben aan het vaststellen van genoemde arbeidsvoorwaarden.
 
 ## DEEL V. OPLOSSING VAN GESCHILLEN
 
-#### Artikel 8
+##### Artikel 8
 
 De oplossing van geschillen, die zich voordoen met betrekking tot de vaststelling van arbeidsvoorwaarden moet in overeenstemming met de nationale omstandigheden gezocht worden door middel van onderhandelingen tussen partijen dan wel door middel van een procedure waarin onafhankelijkheid en onpartijdigheid gewaarborgd zijn, zoals bemiddeling, verzoening of arbitrage en tot stand gebracht op een wijze die beoogt het vertrouwen van de betrokken partijen daarin te verzekeren.
 
 ## DEEL VI. BURGERLIJKE EN POLITIEKE RECHTEN
 
-#### Artikel 9
+##### Artikel 9
 
 Werknemers in overheidsdienst moeten evenals andere werknemers de burgerlijke en politieke rechten bezitten die onontbeerlijk zijn voor de normale uitoefening van de vrijheid van vakvereniging, zulks echter onverminderd de verplichtingen voortvloeiende uit hun status en de aard van hun functies.
 
 ## DEEL VII. SLOTBEPALINGEN
 
-#### Artikel 10
+##### Artikel 10
 
 De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -110,7 +132,7 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring.
 
@@ -118,21 +140,21 @@ De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistr
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na afloop van de termijn van tien jaren als bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 14
+##### Artikel 14
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 15
+##### Artikel 15
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit nodig acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening van dit Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -142,7 +164,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft echter naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 17
+##### Artikel 17
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 

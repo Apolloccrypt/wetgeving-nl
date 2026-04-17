@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende deeltijdwerk"
 identifier: "BWBV0001472"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-02-05
-laatste_update: 2002-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001472"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-02-05"
+last_updated: "2002-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001472"
+soort: "verdrag"
+stam_id: "10001641053"
+version_id: "10001719252"
+internal_id: "C10006986431"
+label_id: "10001641284"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001472/2002-02-05/0"
+intitule_bron: "Trb.1994-283"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-02-05"
+intitule_published: "1994-12-30"
+intitule_in_force: "2001-05-31"
+intitule_status: "goed"
+original_publication: "Trb.1994-283"
+original_signed_date: "2001-02-05"
+original_published_date: "1994-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-283"
+entry_into_force_date: "2002-02-05"
+jci_1_3: "jci1.3:c:BWBV0001472&z=2002-02-05&g=2002-02-05"
+jci_1_0: "1.0:c:BWBV0001472&g=2002-02-05"
+citeertitel_status: "redactioneel"
+signed_date: "2001-02-05"
+entry_into_force: "2002-02-05"
 ---
-
 # Verdrag betreffende deeltijdwerk
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -26,7 +51,7 @@ Vastgesteld hebbende dat deze voorstellen de vorm dienen te krijgen van een inte
 
 neemt heden, de vierentwintigste juni negentienhonderd vierennegentig, het volgende verdrag aan, dat kan worden aangehaald als Verdrag betreffende deeltijdwerk, 1994.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -44,17 +69,17 @@ Voor de toepassing van dit Verdrag:
 
 - d. worden voltijdwerkers die gedeeltelijk werkloos zijn geworden ten gevolge van een collectieve en tijdelijke vermindering van hun normale arbeidsduur om economische, technische of structurele redenen, niet beschouwd als deeltijdwerkers.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag laat gunstiger bepalingen die van toepassing zijn op deeltijdwerkers krachtens andere internationale arbeidsverdragen onverlet.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit Verdrag is van toepassing op alle deeltijdwerkers, met dien verstande dat een Lid, na raadpleging van de betrokken representatieve organisaties van werkgevers en werknemers, bepaalde categorieën werknemers of vestigingen geheel of gedeeltelijk van het toepassingsgebied ervan kan uitsluiten wanneer de toepassing ervan op hen bijzondere problemen van aanzienlijke aard zou opleveren.
 
 2. Ieder Lid dat dit Verdrag bekrachtigt en dat zich beroept op de in het voorgaande lid geboden mogelijkheid, dient in zijn verslagen met betrekking tot de toepassing van het Verdrag ingevolge [artikel 22 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) iedere bepaalde categorie werknemers of vestigingen te vermelden die aldus is uitgesloten, alsmede de redenen waarom deze uitsluiting noodzakelijk werd of nog steeds wordt geacht.
 
-#### Artikel 4
+##### Artikel 4
 
 Er dienen maatregelen te worden genomen opdat deeltijdwerkers dezelfde bescherming krijgen als de voltijdwerkers die zich in een vergelijkbare situatie bevinden wat betreft:
 
@@ -64,15 +89,15 @@ Er dienen maatregelen te worden genomen opdat deeltijdwerkers dezelfde beschermi
 
 - c. discriminatie in arbeid en beroep.
 
-#### Artikel 5
+##### Artikel 5
 
 Er dienen bij de nationale wetgeving en praktijk passende maatregelen te worden genomen opdat deeltijdwerkers niet alleen op grond van het feit dat zij in deeltijd werken, een basissalaris ontvangen dat, berekend op uurbasis, dan wel aan de hand van prestatie of produktie, lager is dan het volgens dezelfde methode berekende basissalaris van de voltijdwerkers die zich in een vergelijkbare situatie bevinden.
 
-#### Artikel 6
+##### Artikel 6
 
 Wettelijke stelsels voor sociale zekerheid die verband houden met de uitoefening van een beroepsactiviteit dienen zo te worden aangepast dat deeltijdwerkers voorwaarden genieten die gelijkwaardig zijn aan die van voltijdwerkers die zich in een vergelijkbare situatie bevinden; deze voorwaarden kunnen worden vastgesteld evenredig aan de arbeidsduur, premiebetaling of verdiensten dan wel op een andere wijze in overeenstemming met de nationale wetgeving en praktijk.
 
-#### Artikel 7
+##### Artikel 7
 
 Er dienen maatregelen te worden genomen opdat deeltijdwerkers voorwaarden genieten die gelijkwaardig zijn aan die van voltijdwerkers die zich in een vergelijkbare situatie bevinden en wel op de volgende gebieden:
 
@@ -86,7 +111,7 @@ Er dienen maatregelen te worden genomen opdat deeltijdwerkers voorwaarden geniet
 
 met dien verstande dat de financiële rechten kunnen worden vastgesteld evenredig aan de arbeidsduur of de verdiensten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deeltijdwerkers van wie de arbeidsduur of de verdiensten lager zijn dan vastgestelde drempels, kunnen door een Lid worden uitgesloten van:
 
@@ -104,7 +129,7 @@ met dien verstande dat de financiële rechten kunnen worden vastgesteld evenredi
 
 4. De meest representatieve werkgevers- en werknemersorganisaties dienen te worden geraadpleegd bij het vaststellen, het opnieuw bezien alsmede het herzien van de drempels bedoeld in dit artikel.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Er dienen maatregelen te worden genomen om de toegang te vergemakkelijken tot produktief en in vrijheid gekozen deeltijdwerk dat beantwoordt aan de behoeften van zowel de werkgevers als de werknemers, mits de bescherming bedoeld in de artikelen 4 t/m 7 hierboven is gewaarborgd.
 
@@ -118,19 +143,19 @@ met dien verstande dat de financiële rechten kunnen worden vastgesteld evenredi
 
 3. Deze maatregelen kunnen mede betrekking hebben op het onderzoek naar en de verspreiding van informatie over de mate waarin deeltijdwerk beantwoordt aan de economische en sociale doelstellingen van de werkgevers en de werknemers.
 
-#### Artikel 10
+##### Artikel 10
 
 Waar mogelijk dienen er maatregelen te worden genomen om ervoor te zorgen dat overgang van voltijd- naar deeltijdwerk, dan wel omgekeerd, vrijwillig is, in overeenstemming met de nationale wetgeving en praktijk.
 
-#### Artikel 11
+##### Artikel 11
 
 De uitvoering van dit Verdrag dient te geschieden door middel van wet- en regelgeving, voor zover er geen uitvoering aan wordt gegeven door middel van collectieve overeenkomsten of anderszins overeenkomstig de nationale praktijk. De meest representatieve werkgevers- en werknemersorganisaties dienen te worden geraadpleegd voordat dergelijke wet- en regelgeving wordt aangenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal is geregistreerd.
 
@@ -138,27 +163,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar onder de voorwaarden voorzien in dit artikel.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
 
-#### Artikel 16
+##### Artikel 16
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 17
+##### Artikel 17
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -168,7 +193,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 19
+##### Artikel 19
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

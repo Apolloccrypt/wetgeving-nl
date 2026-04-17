@@ -1,13 +1,24 @@
 ---
 title: "Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten, enerzijds en Oekraïne, anderzijds"
 identifier: "BWBV0006941"
-categorie: "Milieu"
-publicatiedatum: 2021-10-12
-laatste_update: 2021-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006941"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-10-12"
+last_updated: "2021-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006941"
+soort: "verdrag"
+stam_id: "10005601703"
+version_id: "10006140832"
+internal_id: "C10009866641"
+label_id: "10005583924"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006941/2021-10-12/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006941&z=2021-10-12&g=2021-10-12"
+jci_1_0: "1.0:c:BWBV0006941&g=2021-10-12"
+citeertitel_status: "redactioneel"
 ---
-
 # Overeenkomst inzake een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten, enerzijds en Oekraïne, anderzijds
 
 Het Koninkrijk België,
@@ -124,13 +135,13 @@ Zijn als volgt overeengekomen:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doelstellingen en werkingssfeer
+##### Artikel 1. Doelstellingen en werkingssfeer
 
 Het doel van deze Overeenkomst is de geleidelijke totstandbrenging van een gemeenschappelijke luchtvaartruimte tussen de Europese Unie en haar lidstaten en Oekraïne, met name gebaseerd op identieke regels op het gebied van veiligheid, beveiliging, luchtverkeersbeheer, milieu, consumentenbescherming en geautomatiseerde boekingssystemen, alsook identieke regels wat betreft sociale aspecten. Hiertoe worden in deze Overeenkomst de regels, technische voorschriften, administratieve procedures, fundamentele operationele normen en uitvoeringsbepalingen vastgesteld die van toepassing zijn in de betrekkingen tussen de partijen.
 
 Deze gemeenschappelijke luchtvaartruimte is gebaseerd op vrije toegang tot de markt voor luchtvervoer en op gelijke mededingingsvoorwaarden.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst verstaan onder:
 
@@ -234,7 +245,7 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst 
 
 - 32 . „gebruikersheffing”: een heffing die door de bevoegde autoriteit aan luchtvaartmaatschappijen wordt opgelegd, of die door die autoriteit wordt toegestaan, voor het gebruik van faciliteiten en diensten in verband met de luchtvaart (ook in geval van overvluchten), luchtverkeersleiding, en luchthavens en luchtvaartveiligheid door luchtvaartuigen, hun bemanning, passagiers, vracht en post.
 
-#### Artikel 3. Tenuitvoerlegging van de Overeenkomst
+##### Artikel 3. Tenuitvoerlegging van de Overeenkomst
 
 1. De partijen treffen alle algemene of bijzondere maatregelen welke geschikt zijn om de nakoming van de uit deze Overeenkomst voortvloeiende verplichtingen te verzekeren en onthouden zich van alle maatregelen welke de verwezenlijking van de doelstellingen van deze Overeenkomst in gevaar kunnen brengen.
 
@@ -246,13 +257,13 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze Overeenkomst 
 
 - b. zich ervan weerhouden administratieve, technische of wetgevende maatregelen ten uitvoer te leggen die een discriminerend effect kunnen hebben op onderdanen of bedrijven of ondernemingen van de andere partij bij het verlenen van de onder deze Overeenkomst vallende diensten.
 
-#### Artikel 4. Non-discriminatie
+##### Artikel 4. Non-discriminatie
 
 Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte bijzondere bepalingen, is elke discriminatie op grond van nationaliteit verboden.
 
 ## TITEL II. REGELGEVENDE SAMENWERKING
 
-#### Artikel 5. Algemene beginselen van de regelgevende samenwerking
+##### Artikel 5. Algemene beginselen van de regelgevende samenwerking
 
 1. De partijen werken op alle mogelijke wijzen samen om ervoor te zorgen dat de eisen en normen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst vermelde besluiten van de Europese Unie geleidelijk worden opgenomen in de wetgeving van Oekraïne en dat Oekraïne deze bepalingen ten uitvoer legt via:
 
@@ -266,13 +277,13 @@ Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte
 
 3. De partijen stellen elkaar onverwijld in kennis van hun respectieve bevoegde autoriteiten op het gebied van veiligheidstoezicht, luchtwaardigheid, vergunningen voor luchtvaartmaatschappijen, luchthavens, luchtvaartbeveiliging, luchtverkeersbeheer, onderzoek van ongevallen en incidenten, vaststelling van luchtvaartheffingen en luchthavengelden, via het Gemengd Comité.
 
-#### Artikel 6. Naleving van wetten en regels
+##### Artikel 6. Naleving van wetten en regels
 
 1. Bij binnenkomst in, verblijf op of vertrek uit het grondgebied van de een partij binnenkomen of verlaten, moeten luchtvaartmaatschappijen van de andere partij de op dat grondgebied toepasselijke wetten en regels inzake het binnenkomen of verlaten van het grondgebied door luchtvaartuigen die luchtvervoer uitvoeren, of inzake de exploitatie en navigatie van luchtvaartuigen naleven.
 
 2. Bij binnenkomst in, verblijf op of vertrek uit het grondgebied van een partij moeten de wetten en voorschriften die op dat grondgebied gelden met betrekking tot de toelating tot of het vertrek uit dat grondgebied van passagiers, bemanning of vracht aan boord van het luchtvaartuig (met inbegrip van de formaliteiten verbonden aan binnenkomst, inklaring, immigratie, paspoorten, douane en quarantaine of, in het geval van post, postvoorschriften) door of namens deze passagiers, bemanningen of vracht van de luchtvaartmaatschappijen van de andere partij worden nageleefd.
 
-#### Artikel 7. Veiligheid van de luchtvaart
+##### Artikel 7. Veiligheid van de luchtvaart
 
 1. Onverminderd de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst handelen de partijen overeenkomstig hun respectieve wetgeving betreffende de eisen en normen inzake luchtvaartveiligheid, zoals gespecificeerd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12), deel C, bij deze Overeenkomst volgens de in dit artikel uiteengezette voorwaarden.
 
@@ -306,7 +317,7 @@ Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte
 
 13. Eventuele wijzigingen van de nationale wetgeving met betrekking tot de status van de bevoegde autoriteiten van Oekraïne of de bevoegde autoriteit van de EU-lidstaten worden onverwijld door de betrokken partij ter kennis gebracht van de andere partijen.
 
-#### Artikel 8. Beveiliging van de luchtvaart
+##### Artikel 8. Beveiliging van de luchtvaart
 
 1. De bepalingen in Document 30, Deel II, van de European Civil Aviation Conference (ECAC) worden door Oekraïne in zijn wetgeving opgenomen en effectief ten uitvoer gelegd, overeenkomstig de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst. In het kader van de beoordelingen als bedoeld in [artikel 33, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=IV&artikel=33&z=2021-10-12&g=2021-10-12), van deze Overeenkomst, mogen inspecteurs van de Europese Commissie als waarnemer deelnemen aan de inspecties die door de Oekraïense bevoegde autoriteiten worden uitgevoerd in luchthavens op het grondgebied van Oekraïne, overeenkomstig het door de twee partijen overeengekomen mechanisme. Deze Overeenkomst doet geen afbreuk aan de rechten en plichten van Oekraïne en de EU-lidstaten uit hoofde van bijlage 17 bij de Overeenkomst.
 
@@ -332,7 +343,7 @@ Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte
 
 12. Alle overeenkomstig lid 10 of 11 van dit artikel genomen maatregelen worden stopgezet zodra de andere partij de bepalingen van dit artikel volledig naleeft.
 
-#### Artikel 9. Luchtverkeersbeheer
+##### Artikel 9. Luchtverkeersbeheer
 
 1. Onverminderd de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst handelen de partijen overeenkomstig hun respectieve wetgeving betreffende de eisen en normen inzake luchtverkeersbeheer, zoals gespecificeerd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12), Deel B, bij deze Overeenkomst volgens de in dit artikel uiteengezette voorwaarden.
 
@@ -358,7 +369,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 9. De erkenning door de EU-lidstaten van de in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=IV&z=2021-10-12&g=2021-10-12), afdeling 2, bij deze Overeenkomst bedoelde relevante certificaten die door Oekraïne zijn afgegeven, wordt vastgesteld overeenkomstig [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst.
 
-#### Artikel 10. Milieu
+##### Artikel 10. Milieu
 
 1. De partijen erkennen het belang van milieubescherming bij de ontwikkeling en tenuitvoerlegging van luchtvaartbeleid. De partijen erkennen dat er behoefte is aan effectieve mondiale, regionale, nationale en/of lokale actie om het effect van de burgerluchtvaart op het milieu tot een minimum te beperken.
 
@@ -370,7 +381,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 5. Deze Overeenkomst beperkt op geen enkele wijze de bevoegdheid van de bevoegde autoriteiten van een partij om alle passende maatregelen te nemen om het effect van het luchtvervoer op het milieu te beperken, voor zover dergelijke maatregelen zonder onderscheid naar nationaliteit worden toegepast en niet in strijd zijn met de rechten en plichten van de partijen krachtens internationale wetgeving.
 
-#### Artikel 11. Consumentenbescherming
+##### Artikel 11. Consumentenbescherming
 
 1. Onverminderd de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst handelen de partijen overeenkomstig hun respectieve wetgeving betreffende de eisen en normen inzake consumentenbescherming, zoals gespecificeerd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12), deel F, bij deze Overeenkomst.
 
@@ -380,7 +391,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 4. De partijen werken tevens samen met het oog op de bescherming van de consumentenrechten die voortvloeien uit deze Overeenkomst.
 
-#### Artikel 12. Industriële samenwerking
+##### Artikel 12. Industriële samenwerking
 
 1. De partijen streven naar verbetering van de industriële samenwerking, met name door middel van:
 
@@ -398,7 +409,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 3. Het Gemengd Comité monitort en faciliteert de industriële samenwerking.
 
-#### Artikel 13. Geautomatiseerde boekingssystemen
+##### Artikel 13. Geautomatiseerde boekingssystemen
 
 1. Onverminderd de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst handelen de partijen overeenkomstig hun respectieve wetgeving betreffende de eisen en normen inzake geautomatiseerde boekingssystemen, zoals gespecificeerd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12), deel G, bij deze Overeenkomst. De partijen waarborgen de vrije toegang van de geautomatiseerde boekingssystemen van de ene partij tot de markt van de andere partij.
 
@@ -406,7 +417,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 3. De partijen werken samen om te zorgen voor de tenuitvoerlegging door Oekraïne van de wetgeving die is vastgesteld teneinde de eisen en normen als bedoeld in lid 1 van dit artikel in de Oekraïense wetgeving op te nemen.
 
-#### Artikel 14. Sociale aspecten
+##### Artikel 14. Sociale aspecten
 
 1. Onverminderd de overgangsbepalingen in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst handelen de partijen overeenkomstig hun respectieve wetgeving betreffende de eisen en normen inzake sociale aspecten, zoals gespecificeerd in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12), deel E, bij deze Overeenkomst.
 
@@ -414,7 +425,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 3. De partijen werken samen om te zorgen voor de tenuitvoerlegging door Oekraïne van de wetgeving die is vastgesteld teneinde de eisen en normen als bedoeld in lid 1 van dit artikel in de Oekraïense wetgeving op te nemen.
 
-#### Artikel 15. Nieuwe wetgeving
+##### Artikel 15. Nieuwe wetgeving
 
 1. Deze Overeenkomst laat het recht van de partijen onverlet om unilateraal nieuwe wetgeving op het vlak van luchtvervoer of een aanverwant in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst vermeld gebied aan te nemen of bestaande wetgeving te wijzigen, voor zover zij het niet-discriminatiebeginsel en de bepalingen van dit artikel en van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=I&artikel=4&z=2021-10-12&g=2021-10-12) van deze Overeenkomst in acht nemen.
 
@@ -430,7 +441,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 ## TITEL III. ECONOMISCHE BEPALINGEN
 
-#### Artikel 16. Verlening van rechten
+##### Artikel 16. Verlening van rechten
 
 1. Overeenkomstig [bijlagen II](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=II&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst verleent elke partij de andere partij de volgende rechten met betrekking tot de exploitatie van internationaal luchtvervoer door luchtvaartmaatschappijen van de andere partij:
 
@@ -444,7 +455,7 @@ De partijen werken samen aan de mogelijke integratie van het onder de verantwoor
 
 2. Niets in deze Overeenkomst verleent de luchtvaartmaatschappijen van Oekraïne het recht op het grondgebied van een EU-lidstaat tegen vergoeding passagiers, bagage, vracht en/of post aan boord te nemen die bestemd zijn voor een ander punt op het grondgebied van die lidstaat.
 
-#### Artikel 17. Exploitatievergunning en technische vergunning
+##### Artikel 17. Exploitatievergunning en technische vergunning
 
 Bij ontvangst van een aanvraag van een exploitatievergunning of technische vergunning van een luchtvaartmaatschappij van een partij, welke moet worden ingediend in de vorm en op de wijze die zijn voorgeschreven voor exploitatievergunningen of technische vergunningen, verlenen de bevoegde autoriteiten van de andere partij zo snel mogelijk de passende vergunningen, voor zover:
 
@@ -468,13 +479,13 @@ Bij ontvangst van een aanvraag van een exploitatievergunning of technische vergu
 
 - d. de voorschriften van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=7&z=2021-10-12&g=2021-10-12) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=8&z=2021-10-12&g=2021-10-12) van deze Overeenkomst worden gehandhaafd en toegepast.
 
-#### Artikel 18. Wederzijdse erkenning van regelgevende vaststellingen inzake de draagkracht en nationaliteit van luchtvaartmaatschappijen
+##### Artikel 18. Wederzijdse erkenning van regelgevende vaststellingen inzake de draagkracht en nationaliteit van luchtvaartmaatschappijen
 
 1. Als de bevoegde autoriteiten van een partij een aanvraag voor een exploitatievergunning of technische vergunning ontvangen van een luchtvaartmaatschappij van de andere partij, erkennen zij de door de bevoegde autoriteiten van de eerste partij gedane regelgevende vaststellingen met betrekking tot de draagkracht of nationaliteit van die luchtvaartmaatschappij alsof zij die vaststellingen zelf zouden hebben gedaan, en voeren zij verder geen onderzoek naar deze kwesties, behalve zoals bepaald in lid 2 van dit artikel.
 
 2. Indien, na ontvangst van een aanvraag voor een exploitatievergunning of technische vergunning van een luchtvaartmaatschappij of na het verlenen van een dergelijke exploitatievergunning of technische vergunning, de bevoegde autoriteiten van de ontvangende partij een specifieke reden hebben om bezorgd te zijn over het feit dat, ondanks de door de bevoegde autoriteiten van de andere partij gedane vaststelling, de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=III&artikel=17&z=2021-10-12&g=2021-10-12) van deze Overeenkomst vermelde voorwaarden voor het verlenen van passende exploitatievergunningen of technische vergunningen niet zijn nageleefd, dienen zij deze autoriteiten daar onmiddellijk van in kennis te stellen en hun bezorgdheid te motiveren. In dat geval mag elke partij om overleg verzoeken, inclusief met vertegenwoordigers van de relevante bevoegde autoriteiten, en/of aanvullende informatie over deze bezorgdheid, en op dergelijke verzoeken moet zo snel als praktisch uitvoerbaar worden ingegaan. Als geen oplossing wordt gevonden, mag elke partij de kwestie voorleggen aan het Gemengd Comité.
 
-#### Artikel 19. Weigering, intrekking, opschorting of beperking van exploitatievergunningen of technische vergunningen
+##### Artikel 19. Weigering, intrekking, opschorting of beperking van exploitatievergunningen of technische vergunningen
 
 1. De bevoegde instanties van elke partij kunnen de exploitatievergunningen of technische vergunningen weigeren, intrekken, opschorten of beperken of de activiteiten van een luchtvaartmaatschappij van de andere partij op een andere wijze opschorten of beperken als:
 
@@ -504,19 +515,19 @@ Bij ontvangst van een aanvraag van een exploitatievergunning of technische vergu
 
 3. Geen van de partijen doet een beroep op het bij dit artikel vastgestelde recht om exploitatievergunningen of technische vergunningen van luchtvaartmaatschappijen van een partij te weigeren, in te trekken, op te schorten of te beperken op grond van het feit dat een of meer ECAA-partijen of hun onderdanen meerderheidseigenaar van die luchtvaartmaatschappij zijn en/of er effectief zeggenschap over uitoefenen, voor zover die ECAA-partij of -partijen dit ook niet doen en de voorwaarden van de ECAA-Overeenkomst naleeft/naleven.
 
-#### Artikel 20. Investeringen in luchtvaartmaatschappijen
+##### Artikel 20. Investeringen in luchtvaartmaatschappijen
 
 1. Onverminderd [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=III&artikel=17&z=2021-10-12&g=2021-10-12) en [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=III&artikel=19&z=2021-10-12&g=2021-10-12), van deze Overeenkomst wordt, krachtens een beslissing van het Gemengd Comité, toegestaan dat EU-lidstaten en/of onderdanen van lidstaten meerderheidseigenaar zijn van of feitelijke zeggenschap uitoefenen over een luchtvaartmaatschappij uit Oekraïne, en dat Oekraïne en/of onderdanen van Oekraïne meerderheidseigenaar zijn van of feitelijke zeggenschap uitoefenen over een luchtvaartmaatschappij uit de Europese Unie.
 
 2. In die beslissing worden de voorwaarden gespecificeerd voor de exploitatie van de in deze Overeenkomst overeengekomen diensten en van de diensten tussen derde landen en de partijen. [Artikel 29, lid 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=IV&artikel=29&z=2021-10-12&g=2021-10-12), van deze Overeenkomst is niet van toepassing op dit type beslissingen.
 
-#### Artikel 21. Verbod op kwantitatieve beperkingen
+##### Artikel 21. Verbod op kwantitatieve beperkingen
 
 1. Onverminderd gunstiger bepalingen in bestaande overeenkomsten verbieden de partijen in het kader van deze Overeenkomst kwantitatieve beperkingen en alle maatregelen van gelijke werking welke van toepassing zijn op de overbrenging van uitrusting, benodigdheden, reserveonderdelen en ander materieel wanneer deze noodzakelijk zijn om een luchtvaartmaatschappij in staat te stellen de verlening van luchtvervoerdiensten voort te zetten onder de in deze Overeenkomst vastgestelde voorwaarden.
 
 2. De in lid 1 van dit artikel bedoelde verplichting belet de partijen niet om dergelijke overbrengingen te verbieden of te beperken wanneer dit gerechtvaardigd is uit hoofde van de bescherming van de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren of planten, of uit hoofde van de bescherming van intellectuele, industriële en commerciële eigendom. Dergelijke verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de partijen vormen.
 
-#### Artikel 22. Commerciële kansen
+##### Artikel 22. Commerciële kansen
 
 1. De partijen zijn het erover eens dat de voordelen van deze Overeenkomst niet kunnen worden verwezenlijkt wanneer commerciële exploitanten worden gehinderd bij het zaken doen. De partijen komen dan ook overeen om dergelijke hinderpalen voor de luchtvaartmaatschappijen van beide partijen, die commerciële activiteiten belemmeren, concurrentieverstoringen veroorzaken of de totstandbrenging van een gelijk speelveld verhinderen, effectief en wederzijds uit de weg te ruimen.
 
@@ -572,7 +583,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 15. De luchtvaartmaatschappijen van elke partij hebben het recht om nachtelijke stops te maken op luchthavens van de andere partij die open staan voor internationaal verkeer.
 
-#### Artikel 23. Douanerechten en belastingen
+##### Artikel 23. Douanerechten en belastingen
 
 1. Bij aankomst op het grondgebied van de ene partij worden luchtvaartuigen die door luchtvaartmaatschappijen van de andere partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief, maar niet beperkt tot, voedsel, drank en alcoholhoudende dranken, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, krachtens de relevante toepasselijke wetgeving en op basis van wederkerigheid vrijgesteld van alle invoerbeperkingen, eigendomsbelastingen en heffingen op activa, douanerechten, accijnzen en soortgelijke vergoedingen en rechten die:
 
@@ -606,13 +617,13 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 9. De bepalingen van deze Overeenkomst hebben geen gevolgen voor de belastingen over de toegevoegde waarde (btw), behalve wat de omzetbelasting op invoer betreft. De bepalingen van deze Overeenkomst hebben geen gevolgen voor de bepalingen van de tussen een lidstaat en Oekraïne gesloten verdragen inzake het vermijden van dubbele belasting op inkomsten en kapitaal, die op het relevante ogenblik van toepassing zijn.
 
-#### Artikel 24. Gebruikersheffingen voor luchthavens en luchthavenvoorzieningen en -diensten
+##### Artikel 24. Gebruikersheffingen voor luchthavens en luchthavenvoorzieningen en -diensten
 
 1. Elke partij ziet erop toe dat gebruikersheffingen die door haar bevoegde heffingsautoriteiten of -organen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd voor het gebruik van luchtvaartnavigatie- en luchtverkeersleidingsdiensten, luchthavens, luchtvaartbeveiliging en bijbehorende voorzieningen en diensten correct, redelijk, niet ten onrechte discriminerend en billijk gespreid zijn over de categorieën gebruikers. Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=9&z=2021-10-12&g=2021-10-12) van deze Overeenkomst mogen deze heffingen in verhouding staan tot de volledige kosten die de bevoegde heffingsautoriteiten of -organen maken voor het verlenen van de passende luchthaven- en luchtvaartbeveilingsvoorzieningen en -diensten op die luchthaven of in het systeem van die luchthaven, maar mogen ze deze niet overschrijden. Deze heffingen mogen een redelijke winst na afschrijving omvatten. De voorzieningen en diensten waarover gebruikersheffingen worden geheven, moeten op efficiënte en economische wijze worden verleend. In ieder geval moeten deze heffingen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd volgens voorwaarden die niet minder gunstig zijn dan de gunstigste voorwaarden die iedere andere luchtvaartmaatschappij kan verkrijgen op het tijdstip dat de heffingen worden opgelegd. De gebruikersheffingen worden vastgesteld in nationale of vreemde valuta door de bevoegde heffingsautoriteiten of -instanties van de partijen.
 
 2. Iedere partij moedigt aan of vereist dat overeenkomstig de toepasselijke wetgeving overleg plaatsvindt tussen de bevoegde heffingsautoriteiten of -organen op haar grondgebied en de luchtvaartmaatschappijen en/of hun representatieve organen die de diensten en voorzieningen gebruiken, en ziet erop toe dat de bevoegde heffingsautoriteiten of -organen en de luchtvaartmaatschappijen of hun representatieve organen alle informatie uitwisselen die nodig is om een nauwkeurige beoordeling van de redelijkheid van de gebruikersheffingen volgens de beginselen van de lid 1 van dit artikel mogelijk te maken. Elke partij ziet erop toe dat de bevoegde heffingsautoriteiten of -organen de gebruikers binnen een redelijke termijn in kennis stellen van ieder voorstel tot wijziging van de gebruikersheffingen, teneinde die autoriteiten in staat te stellen rekening te houden met de meningen van de gebruikers alvorens wijzigingen worden doorgevoerd.
 
-#### Artikel 25. Prijsstelling
+##### Artikel 25. Prijsstelling
 
 1. De partijen staan toe dat de luchtvaartmaatschappijen hun prijzen vrij vaststellen op basis van vrije en eerlijke mededinging.
 
@@ -620,7 +631,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 3. Indien de bevoegde autoriteiten van een partij van oordeel zijn dat de prijs niet in overeenstemming is met de in dit artikel uiteengezette overwegingen, stellen zij de bevoegde autoriteiten van de andere partij daarvan in kennis en kunnen zij om overleg met deze autoriteiten verzoeken. De bevoegde autoriteiten kunnen onderling overleg plegen over kwesties zoals niet-correcte, onredelijke, discriminerende of gesubsidieerde prijzen. Dit overleg vindt uiterlijk 30 dagen na de datum van ontvangst van het verzoek plaats.
 
-#### Artikel 26. Mededinging
+##### Artikel 26. Mededinging
 
 1. Binnen het toepassingsgebied van deze Overeenkomst is [titel IV van de Associatieovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0006389&titeldeel=IV) of een opvolgingsovereenkomst daarvan tussen de Europese Unie, haar lidstaten en Oekraïne van toepassing, tenzij er specifiekere regels inzake mededinging en staatssteun voor de luchtvaartsector zijn opgenomen in deze Overeenkomst.
 
@@ -642,7 +653,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 10. De partijen wisselen gegevens uit, rekening houdend met de beperkingen uit hoofde van het zaken- en beroepsgeheim.
 
-#### Artikel 27. Statistieken
+##### Artikel 27. Statistieken
 
 1. Elke partij verstrekt de andere partij de statistieken die krachtens de nationale wetten en regels van die partij vereist zijn en, op verzoek, andere beschikbare statistische informatie die redelijkerwijze vereist kan zijn voor het evalueren van de exploitatie van de luchtdiensten.
 
@@ -650,7 +661,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 ## TITEL IV. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 28. Interpretatie en handhaving
+##### Artikel 28. Interpretatie en handhaving
 
 1. De partijen treffen alle passende algemene en specifieke maatregelen om de naleving van de uit deze Overeenkomst voortvloeiende verplichtingen te garanderen en onthouden zich van maatregelen die de verwezenlijking van de doelstellingen van deze Overeenkomst in gevaar kunnen brengen.
 
@@ -662,7 +673,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 5. Voor zover de bepalingen van deze Overeenkomst en de bepalingen van de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst genoemde besluiten inhoudelijk identiek zijn aan de overeenkomstige regels van de EU-Verdragen en krachtens de EU-Verdragen genomen besluiten, worden deze bepalingen, wat hun uitvoering en toepassing betreft, geïnterpreteerd overeenkomstig de toepasselijke uitspraken en besluiten van het Hof van Justitie van de Europese Unie, hierna „het Hof van Justitie” genoemd, en de Europese Commissie.
 
-#### Artikel 29. Gemengd Comité
+##### Artikel 29. Gemengd Comité
 
 1. Hierbij wordt een Gemengd Comité van vertegenwoordigers van de partijen opgericht, dat verantwoordelijk is voor het beheer van deze Overeenkomst en toeziet op de correcte uitvoering ervan. Om dit doel te verwezenlijken, doet het aanbevelingen en neemt het beslissingen in de gevallen waarin deze Overeenkomst uitdrukkelijk voorziet.
 
@@ -700,7 +711,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 - h. samenwerking op bevoegde internationale fora te bevorderen en te streven naar gecoördineerde standpunten.
 
-#### Artikel 30. Geschillenbeslechting en arbitrage
+##### Artikel 30. Geschillenbeslechting en arbitrage
 
 1. Wanneer tussen de partijen een geschil ontstaat over de interpretatie of toepassing van deze Overeenkomst moeten ze dit in de eerste plaats trachten op te lossen via formeel overleg in het Gemengd Comité, overeenkomstig [artikel 29, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=IV&artikel=29&z=2021-10-12&g=2021-10-12), van deze Overeenkomst. In gevallen waarin het Gemengd Comité in het kader van deze procedure besluiten neemt betreffende de interpretatie of toepassing van de eisen en normen als bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=I&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst, sporen dergelijke besluiten met de arresten van het Hof van Justitie met betrekking tot de interpretatie van de desbetreffende voorschriften en normen, en met de beslissingen van de Europese Commissie die zijn genomen overeenkomstig de voorwaarden van de desbetreffende eisen en normen.
 
@@ -720,7 +731,7 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 5. Als een van de partijen niet binnen 30 dagen na ontvangst van de bekendmaking van de beslissing van het scheidsgerecht aan deze beslissing voldoet, kan de andere partij de rechten of privileges die overeenkomstig deze Overeenkomst zijn toegekend aan de in gebreke blijvende partij beperken, opschorten of intrekken tot de partij de beslissing naleeft.
 
-#### Artikel 31. Vrijwaringsmaatregelen
+##### Artikel 31. Vrijwaringsmaatregelen
 
 1. Onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=7&z=2021-10-12&g=2021-10-12) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=8&z=2021-10-12&g=2021-10-12) van deze Overeenkomst en de veiligheids- en beveiligingsevaluaties in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst, kan een partij passende vrijwaringsmaatregelen nemen indien hij van oordeel is dat de andere partij nagelaten heeft een verplichting op grond van deze Overeenkomst na te komen. De werkingssfeer en de duur van de vrijwaringsmaatregelen worden beperkt tot hetgeen strikt noodzakelijk is om het probleem te verhelpen of om het evenwicht in het kader van deze Overeenkomst te bewaren. Voorrang wordt gegeven aan maatregelen die de werking van deze Overeenkomst zo weinig mogelijk verstoren.
 
@@ -734,11 +745,11 @@ Alleen in uitzonderlijke gevallen of om te voldoen aan tijdelijke behoeften is h
 
 6. De overeenkomstig dit artikel genomen maatregelen worden opgeschort zodra de in gebreke blijvende partij voldoet aan de bepalingen van deze Overeenkomst.
 
-#### Artikel 32. Openbaarmaking van informatie
+##### Artikel 32. Openbaarmaking van informatie
 
 De vertegenwoordigers, afgevaardigden en deskundigen van de partijen, alsmede de in het kader van deze Overeenkomst handelende functionarissen mogen, zelfs na beëindiging van hun activiteiten, geen onder de geheimhoudingsplicht vallende informatie bekendmaken aan derde partijen, met name relevante veiligheidsinformatie en informatie over ondernemingen, hun handelsbetrekkingen of de elementen van hun kostprijs.
 
-#### Artikel 33. Overgangsbepalingen
+##### Artikel 33. Overgangsbepalingen
 
 1. In [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&bijlage=III&z=2021-10-12&g=2021-10-12) bij deze Overeenkomst zijn de overgangsregelingen en bijbehorende overgangstermijnen vastgesteld die van toepassing zijn tussen de partijen.
 
@@ -752,7 +763,7 @@ Wanneer Oekraïne zich ervan heeft vergewist dat de relevante wettelijke eisen e
 
 5. Als de Europese Commissie vaststelt dat de relevante tekortkomingen zijn verholpen, legt zij de zaak voor aan het Gemengd Comité om dienovereenkomstig een besluit te nemen, zoals bepaald in lid 3 van dit artikel.
 
-#### Artikel 34. Verhouding tot andere overeenkomsten en/of regelingen
+##### Artikel 34. Verhouding tot andere overeenkomsten en/of regelingen
 
 1. De bepalingen van deze Overeenkomst hebben voorrang op de relevante bepalingen van de bilaterale luchtvervoersovereenkomsten en/of regelingen tussen de partijen.
 
@@ -760,13 +771,13 @@ Wanneer Oekraïne zich ervan heeft vergewist dat de relevante wettelijke eisen e
 
 3. Indien de partijen toetreden tot een multilaterale overeenkomst of overgaan tot de bekrachtiging van een besluit van de ICAO of een andere internationale organisatie dat betrekking heeft op onder deze Overeenkomst vallende aangelegenheden, plegen zij overleg in het Gemengd Comité om te bepalen of deze Overeenkomst naar aanleiding hiervan moet worden herzien.
 
-#### Artikel 35. Financiële bepalingen
+##### Artikel 35. Financiële bepalingen
 
 Onverminderd [artikel 5, lid 1, punt b)](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=5&z=2021-10-12&g=2021-10-12), van deze Overeenkomst wijzen de partijen de nodige financiële middelen toe, inclusief middelen voor het Gemengd Comité, ten behoeve van de tenuitvoerlegging van deze Overeenkomst op hun respectieve grondgebieden.
 
 ## TITEL V. INWERKINGTREDING, HERZIENING, BEËINDIGING EN SLOTBEPALINGEN
 
-#### Artikel 36. Wijzigingen
+##### Artikel 36. Wijzigingen
 
 1. Het Gemengd Comité kan, op voorstel van een partij en overeenkomstig dit artikel, bij consensus beslissen de bijlagen bij deze Overeenkomst te wijzigen, zoals bepaald in [artikel 15, lid 3, punt a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=II&artikel=15&z=2021-10-12&g=2021-10-12), van deze Overeenkomst.
 
@@ -774,11 +785,11 @@ Onverminderd [artikel 5, lid 1, punt b)](https://wetten.overheid.nl/jci1.3:c:BWB
 
 3. Op verzoek van een der partijen en overeenkomstig de desbetreffende procedures, rekening houdend met mogelijke aanbevelingen van het Gemengd Comité, wordt deze Overeenkomst opnieuw bezien in het licht van de toepassing van de bepalingen ervan, teneinde na te gaan of ze in de toekomst moet worden herzien. Een eventuele hieruit voortvloeiende wijziging van deze Overeenkomst treedt in werking overeenkomstig [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0006941&titeldeel=V&artikel=38&z=2021-10-12&g=2021-10-12) van deze Overeenkomst.
 
-#### Artikel 37. Beëindiging
+##### Artikel 37. Beëindiging
 
 Een partij kan te allen tijde de andere partij langs diplomatieke kanalen schriftelijk meedelen dat zij besloten heeft deze Overeenkomst te beëindigen. Deze kennisgeving dient tegelijkertijd naar de ICAO te worden verstuurd. Deze Overeenkomst eindigt om middernacht GMT aan het einde van het verkeersseizoen van de Internationale Luchtvervoersvereniging dat een jaar na de datum van de schriftelijke kennisgeving van de beëindiging lopende is, tenzij de mededeling in onderlinge overeenstemming tussen de partijen wordt ingetrokken voordat deze termijn is verstreken.
 
-#### Artikel 38. Inwerkingtreding en voorlopige toepassing
+##### Artikel 38. Inwerkingtreding en voorlopige toepassing
 
 1. Deze Overeenkomst dient door de ondertekenaars te worden bekrachtigd of goedgekeurd overeenkomstig hun onderscheiden procedures.
 
@@ -788,11 +799,11 @@ Een partij kan te allen tijde de andere partij langs diplomatieke kanalen schrif
 
 4. De secretaris-generaal van de Raad van de Europese Unie treedt op als depositaris van deze Overeenkomst.
 
-#### Artikel 39. Registratie bij de ICAO en het secretariaat van de Verenigde Naties
+##### Artikel 39. Registratie bij de ICAO en het secretariaat van de Verenigde Naties
 
 Deze Overeenkomst en alle wijzigingen daarvan worden, zodra ze in werking zijn getreden, door Oekraïne geregistreerd bij de ICAO en bij het secretariaat van de Verenigde Naties, overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 40. Authentieke teksten
+##### Artikel 40. Authentieke teksten
 
 Deze Overeenkomst wordt opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Oekraïense taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel experiment zinnig en simpel verantwoorden"
 identifier: "BWBR0049177"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049177"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049177"
+soort: "zbo"
+stam_id: "16987263"
+version_id: "29865032"
+internal_id: "C42814141"
+label_id: "16897544"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049177/2024-01-01/0"
+intitule_bron: "Stcrt.2023-35078"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-12"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35078"
+original_signed_date: "2023-12-12"
+original_published_date: "2023-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35078"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049177&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049177&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2023-12-12"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel experiment zinnig en simpel verantwoorden
 
 **Grondslag**
@@ -16,7 +41,7 @@ Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening ge
 
 Onder verwijzing naar [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), is in de voorliggende beleidsregel een experiment opgenomen. De daartoe vereiste aanwijzing van 3 november 2023 met kenmerk 3712418-1055833-PZo, bedoeld in [artikel 59, aanhef en onder f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), is door de Minister van VWS met de brief van 3 november 2023 met kenmerk 3712419-1055833-PZO aan de NZa gegeven. Deze aanwijzing heeft kenmerk 3712418-1055833-PZo en is gepubliceerd in de Staatscourant onder nummer Staatscourant 2023, 30843.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - **Experiment:** Een op grond van deze beleidsregel goedgekeurde werkwijze, vastgelegd in een beschikking van de NZa, van een zorgaanbieder en één (of meerdere) Wlz-uitvoerder(s).
 
@@ -24,15 +49,15 @@ Onder verwijzing naar [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078) en de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om het experiment zinnig en simpel verantwoorden vorm te geven. Doel van het experiment is om de administratieve belasting die ontstaat door het verantwoordingsproces te verlagen. Een experiment kan zich richten op alternatieve invulling van het nacalculatieproces en van de nacalculatie-opgave, bijvoorbeeld door verantwoording middels de jaarrekening en het steunen op controles die elders in de keten gedaan zijn door bijvoorbeeld zorgaanbieders, hun accountants, of zorgkantoren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die in natura wordt geleverd door zorgaanbieders. De zorg en/of dienst als omschreven bij of krachtens de Wlz geleverd en bekostigd met een persoonsgebonden budget, is uitgesloten van het experiment.
 
-#### Artikel 4. Uitgangspunten
+##### Artikel 4. Uitgangspunten
 
 Bij de uitoefening van haar taken en bevoegdheden, houdt de NZa binnen haar mogelijkheden rekening met het experiment. De NZa hanteert in het kader van het experiment in het bijzonder de volgende uitgangspunten:
 
@@ -48,7 +73,7 @@ Bij de uitoefening van haar taken en bevoegdheden, houdt de NZa binnen haar moge
 
 - f. Het is niet toegestaan om te experimenteren met hetgeen is opgenomen in [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b), wat ziet op het openbaar maken van de jaarverantwoording.
 
-#### Artikel 5. Aanvragen deelname experiment, wijze van indienen aanvraag, beschikking NZa
+##### Artikel 5. Aanvragen deelname experiment, wijze van indienen aanvraag, beschikking NZa
 
 1. Een aanvraag om te mogen deelnemen aan het experiment wordt door de deelnemers gezamenlijk, tweezijdig, ingediend bij de NZa.
 
@@ -88,7 +113,7 @@ Zorgaanbieder en Wlz-uitvoerder(s) kunnen dus niet volstaan met eenzijdige indie
 
 7. De NZa kan het aantal experimenten alsmede de experimentonderwerpen met het oog op de uitvoerbaarheid en beheersbaarheid beperken. In dat geval wijst de NZa een aanvraag geheel of gedeeltelijk af.
 
-#### Artikel 6. Duur en einde van een experiment
+##### Artikel 6. Duur en einde van een experiment
 
 1. De ingangsdatum van de individuele beschikking als bedoeld in deze beleidsregel is 1 januari van enig jaar in de periode 2024 tot en met 2028.
 
@@ -110,7 +135,7 @@ Voorwaarde voor een andere ingangsdatum dan 1 januari is dat dit voor experiment
 
 7. Als de NZa het vijfde lid toepast, treedt de NZa in overleg met de desbetreffende deelnemers over de verantwoording met betrekking tot het lopende jaar.
 
-#### Artikel 7. Regelingen
+##### Artikel 7. Regelingen
 
 1. Bij de uitoefening van haar taken en bevoegdheden, past de NZa haar regelingen toe.
 
@@ -118,7 +143,7 @@ Voorwaarde voor een andere ingangsdatum dan 1 januari is dat dit voor experiment
 
 3. Het tweede lid van dit artikel geldt in ieder geval niet voor de normen voor nauwkeurigheid en betrouwbaarheid zoals opgenomen in [artikel 8, vierde lid, onderdeel d, van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0048543&artikel=8). Van die normen wordt niet afgeweken.
 
-#### Artikel 8. Beleidsregels
+##### Artikel 8. Beleidsregels
 
 1. Bij de uitoefening van haar taken en bevoegdheden, past de NZa haar beleidsregels toe.
 
@@ -126,11 +151,11 @@ Voorwaarde voor een andere ingangsdatum dan 1 januari is dat dit voor experiment
 
 3. Het tweede lid van dit artikel geldt in ieder geval niet voor de [Beleidsregel budgettair kader Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0048967). Gedurende het experiment blijft de Beleidsregel budgettair kader Wlz van toepassing; van die beleidsregel wordt niet afgeweken.
 
-#### Artikel 9. (Tussen)evaluatie
+##### Artikel 9. (Tussen)evaluatie
 
 De NZa evalueert de experimenten tijdig en tijdens hun uitvoering. De NZa vraagt daarvoor informatie op bij de deelnemers. In dat kader verbindt de NZa aan de experimentprestatie de voorwaarde dat de deelnemers ook zelf hun eigen experiment evalueren.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 **Toepasselijkheid voorafgaande beleidsregel**
 

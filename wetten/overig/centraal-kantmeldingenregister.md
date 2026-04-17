@@ -1,13 +1,37 @@
 ---
 title: "Centraal Kantmeldingenregister"
 identifier: "BWBR0002695"
-categorie: "Overig"
-publicatiedatum: 1970-01-01
-laatste_update: 1970-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002695"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1970-01-01"
+last_updated: "1970-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002695"
+soort: "ministeriele-regeling"
+stam_id: "5014763"
+version_id: "8683832"
+internal_id: "C11238011"
+label_id: "4991094"
+dtd_version: "2.0"
+original_entry_into_force: "1970-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002695/1970-01-01/0"
+intitule_bron: "Stcrt.1970-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-12-23"
+intitule_published: "1970-01-14"
+intitule_in_force: "1970-01-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1970-9"
+original_signed_date: "1969-12-23"
+original_published_date: "1970-01-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1970-01-01"
+jci_1_3: "jci1.3:c:BWBR0002695&z=1970-01-01&g=1970-01-01"
+jci_1_0: "1.0:c:BWBR0002695&g=1970-01-01"
+citeertitel_status: "officieel"
+signed_date: "1969-12-23"
+entry_into_force: "1970-01-01"
 ---
-
 # Centraal Kantmeldingenregister
 
 Besluit:

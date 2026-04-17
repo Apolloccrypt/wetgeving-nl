@@ -1,13 +1,36 @@
 ---
-title: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar lidstaten en de Staat Israël"
+title: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en de Staat Israël"
 identifier: "BWBV0001777"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-07-13
-laatste_update: 2004-07-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001777"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-07-13"
+last_updated: "2004-07-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001777"
+soort: "verdrag"
+stam_id: "10002143553"
+version_id: "10002241732"
+internal_id: "C10006995431"
+label_id: "10002133764"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001777/2004-07-13/0"
+intitule_bron: "Trb.2004-270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-22"
+intitule_published: "2004-11-11"
+intitule_status: "nogniet"
+original_publication: "Trb.2004-270"
+original_signed_date: "2005-12-22"
+original_published_date: "2004-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-270"
+jci_1_3: "jci1.3:c:BWBV0001777&z=2004-07-13&g=2004-07-13"
+jci_1_0: "1.0:c:BWBV0001777&g=2004-07-13"
+citeertitel_status: "redactioneel"
+short_title: "Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar lidstaten en de Staat Israël"
+signed_date: "2005-12-22"
+entry_into_force: "2004-11-11"
 ---
-
 # Samenwerkingsovereenkomst betreffende een Civiel Globaal Navigatiesatellietsysteem (GNSS) tussen de Europese Gemeenschap en haar Lidstaten en de Staat Israël
 
 De Europese Gemeenschap, hierna de „Gemeenschap" te noemen,
@@ -86,11 +109,11 @@ Wensende de samenwerking te versterken tussen Israël en de Gemeenschap en reken
 
 Zijn overeengekomen hetgeen volgt:
 
-#### Artikel 1. Doel van de overeenkomst
+##### Artikel 1. Doel van de overeenkomst
 
 Het doel van de overeenkomst is het stimuleren, faciliteren en versterken van samenwerking tussen de partijen in het kader van Europese en Israëlische bijdragen aan een civiel globaal navigatiesatellietsysteem (GNSS).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
@@ -112,7 +135,7 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 „gerubriceerde informatie": officiële informatie die bescherming vereist in het belang van de nationale defensie of buitenlandse betrekkingen van de partijen, en gerubriceerd wordt in overeenstemming met hun toepasselijke wet- en regelgeving. Voor de Europese Unie zijn de regels vervat in Besluit 2001/264/EG van de Raad van 19 maart 2001 tot vaststelling van beveiligingsvoorschriften van de Raad PB L 101 van 11.4.2001, blz. 1..
 
-#### Artikel 3. Beginselen van de samenwerking
+##### Artikel 3. Beginselen van de samenwerking
 
 De partijen zijn overeengekomen de volgende beginselen toe te passen op onder deze overeenkomst vallende samenwerkingsactiviteiten:
 
@@ -126,7 +149,7 @@ De partijen zijn overeengekomen de volgende beginselen toe te passen op onder de
 
 - 5. Passende bescherming van intellectuele-eigendomsrechten zoals bedoeld in artikel 8, lid 3, van deze overeenkomst.
 
-#### Artikel 4. Toepassingsgebied van de samenwerkingsactiviteiten
+##### Artikel 4. Toepassingsgebied van de samenwerkingsactiviteiten
 
 1. De sectoren voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en tijdsynchronisatie zijn: wetenschappelijk onderzoek, industriële fabricage, opleiding, toepassing, dienst- en marktontwikkeling, handel, radiospectrumkwesties, integriteitskwesties, normalisering en certificering en veiligheid. De partijen kunnen deze lijst van kwesties aanpassen bij beslissing van het in het kader van artikel 14 van deze overeenkomst opgerichte gezamenlijk stuurcomité.
 
@@ -144,13 +167,13 @@ De partijen zijn overeengekomen de volgende beginselen toe te passen op onder de
 
 3. Deze overeenkomst is niet van invloed op de toepassing van de wetgeving van de Europese Gemeenschap houdende oprichting van de gemeenschappelijke onderneming GALILEO en de institutionele structuur ervan of houdende oprichting van een opvolgingsentiteit voor de gemeenschappelijke onderneming GALILEO. Deze overeenkomst is evenmin van invloed op toepasselijke wet- en regelgeving en beleid ter uitvoering van non-proliferatieverbintenissen en exportcontrole betreffende producten voor tweeërlei gebruik en nationale binnenlandse maatregelen betreffende beveiliging en controles van immateriële overdrachten van technologie.
 
-#### Artikel 5. Vormen van samenwerkingsactiviteiten
+##### Artikel 5. Vormen van samenwerkingsactiviteiten
 
 1. Behoudens hun toepasselijke regulerende maatregelen bevorderen de partijen zoveel mogelijk de samenwerkingsactiviteiten op grond van deze overeenkomst, met het oog op het bieden van vergelijkbare gelegenheden voor deelname aan hun activiteiten in de onder artikel 4 genoemde sectoren.
 
 2. De partijen komen overeen samenwerkingsactiviteiten uit te voeren zoals vermeld in de artikelen 6 tot 13 van deze overeenkomst.
 
-#### Artikel 6. Radiospectrum
+##### Artikel 6. Radiospectrum
 
 1. Voortbouwend op vroegere successen in het kader van de Internationale Telecommunicatie-unie komen de partijen overeen de samenwerking en wederzijdse steun in verband met radiospectrumkwesties voort te zetten.
 
@@ -162,7 +185,7 @@ De partijen zijn overeengekomen de volgende beginselen toe te passen op onder de
 
 5. Niets in deze overeenkomst mag aldus worden geïnterpreteerd dat afbreuk wordt gedaan aan de toepasselijke bepalingen van de Internationale Telecommunicatie-unie (ITU), inclusief de ITU-radioreglementen.
 
-#### Artikel 7. Wetenschappelijk onderzoek
+##### Artikel 7. Wetenschappelijk onderzoek
 
 De partijen bevorderen gezamenlijke onderzoeksactiviteiten op het gebied van GNSS via Europese en Israëlische onderzoeksprogramma's, inclusief het kaderprogramma voor onderzoek en ontwikkeling van de Europese Gemeenschap, en de onderzoeksprogramma's van het Europees Ruimte-agentschap, het Israëlische ministerie van Wetenschap en Technologie en het Israëlische ministerie van Industrie, Handel en Arbeid.
 
@@ -170,7 +193,7 @@ De gezamenlijke onderzoeksactiviteiten moeten bijdragen aan het plannen van de t
 
 De partijen komen overeen het comité in het kader van artikel 14 met de taak te belasten het passende mechanisme te definiëren om voor effectieve contacten en samenwerking in deze sector te zorgen.
 
-#### Artikel 8. Industriële samenwerking
+##### Artikel 8. Industriële samenwerking
 
 1. De partijen stimuleren en steunen de samenwerking tussen industrieën van de twee partijen, inclusief door middel van joint ventures en Israëlische deelname aan relevante Europese industriële verenigingen en Europese deelname aan relevante Israëlische industriële verenigingen, met het doel het opzetten van het GALILEO-systeem en het bevorderen van het gebruik en de ontwikkeling van GALILEO-toepassingen en -diensten.
 
@@ -182,7 +205,7 @@ De partijen komen overeen het comité in het kader van artikel 14 met de taak te
 
 5. De partijen stimuleren versterkte banden tussen het Israëlische ministerie van Industrie, Handel en Arbeid, het Israëlische ministerie van Wetenschap en Technologie, het Israëlische Ruimte-agentschap en het Europees Ruimte-agentschap teneinde de doelstellingen van de overeenkomst te bevorderen.
 
-#### Artikel 9. Handels- en marktontwikkeling
+##### Artikel 9. Handels- en marktontwikkeling
 
 1. De partijen stimuleren handel en investeringen in Europese en Israëlische satellietnavigatie-infrastructuur en -apparatuur, lokale elementen van GALILEO en toepassingen.
 
@@ -192,7 +215,7 @@ De partijen komen overeen het comité in het kader van artikel 14 met de taak te
 
 4. Deze overeenkomst heeft geen invloed op de rechten en verplichtingen van de partijen in het kader van de Wereldhandelsorganisatie, relevante uitvoercontroleregels, relevante wetgeving van de Europese Gemeenschap betreffende controle op de uitvoer van producten en technologie voor tweeërlei gebruik, bepalingen die krachtens het Verdrag betreffende de Europese Unie zijn vastgesteld inzake de controle op technische bijstand in verband met bepaalde vormen van militair eindgebruik, relevante internationale instrumenten zoals de Haagse internationale gedragscode tegen de proliferatie van ballistische raketten en gerelateerde wetgeving van de lidstaten van de Europese Unie en Israël.
 
-#### Artikel 10. Normen, certificering en regulerende maatregelen
+##### Artikel 10. Normen, certificering en regulerende maatregelen
 
 1. De partijen erkennen de waarde van het coördineren van de benaderingen in internationale normalisatie- en certificeringsforums betreffende globale satellietnavigatiediensten. Met name steunen de partijen gezamenlijk de ontwikkeling van GALILEO-normen en bevorderen zij de toepassing ervan wereldwijd, waarbij de klemtoon gelegd wordt op interoperabiliteit met andere GNSS-systemen.
 
@@ -204,7 +227,7 @@ Eén doelstelling van de coördinatie is het bevorderen van breed en innovatief 
 
 4. Op het niveau van experts zijn de partijen voornemens via het comité in het kader van artikel 14 samenwerking en uitwisselingen te organiseren inzake normen in verband met signaalcodes, navigatie, grondontvangerapparatuur en de beveiliging van de navigatietoepassingen. Bovendien bevorderen de partijen de deelname van Israëlische vertegenwoordigers aan Europese normalisatieorganisaties.
 
-#### Artikel 11. Ontwikkeling van globale en regionale GNSS-grondaugmentatiesystemen
+##### Artikel 11. Ontwikkeling van globale en regionale GNSS-grondaugmentatiesystemen
 
 1. De interoperabiliteit van de globale en regionale grond-satellietnavigatiesystemen verhoogt de kwaliteit van de voor de gebruikers beschikbare diensten. De partijen werken samen om grondsysteemarchitecturen te definiëren en implementeren die een optimale waarborg van de integriteit van GALILEO en de continuïteit van de diensten van GALILEO mogelijk maken.
 
@@ -212,7 +235,7 @@ Eén doelstelling van de coördinatie is het bevorderen van breed en innovatief 
 
 3. Op lokaal niveau vergemakkelijken de partijen de ontwikkeling van lokale elementen van GALILEO.
 
-#### Artikel 12. Beveiliging
+##### Artikel 12. Beveiliging
 
 1. De partijen zijn overtuigd van de noodzaak om globale navigatiesatellietsystemen te beschermen tegen misbruik, interferentie, verstoring en vijandige handelingen.
 
@@ -224,11 +247,11 @@ Eén doelstelling van de coördinatie is het bevorderen van breed en innovatief 
 
 De praktische regelingen en procedures moeten door de bevoegde beveiligingsinstanties van beide partijen worden vastgesteld.
 
-#### Artikel 13. Aansprakelijkheid en kostendekking
+##### Artikel 13. Aansprakelijkheid en kostendekking
 
 De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeling en kostendekkingsregelingen vast te stellen en uit te voeren teneinde de aanbieding van civiele GNSS-diensten te vergemakkelijken.
 
-#### Artikel 14. Samenwerkingsmechanismen
+##### Artikel 14. Samenwerkingsmechanismen
 
 1. De coördinatie en facilitering van samenwerkingsactiviteiten op grond van deze overeenkomst wordt namens Israël door de regering van de Staat Israël en namens de Gemeenschap en haar lidstaten door de Europese Commissie geëffectueerd.
 
@@ -246,7 +269,7 @@ De door of namens het comité gemaakte kosten worden gedragen door de partij waa
 
 4. In overeenstemming met de toepasselijke wetgeving van de Europese Gemeenschap juichen de partijen de deelname toe van een relevante Israëlische entiteit aan de gemeenschappelijke onderneming GALILEO en aan elke opvolgingsentiteit die door de Gemeenschap in overeenstemming met de desbetreffende procedures wordt opgericht.
 
-#### Artikel 15. Financiering
+##### Artikel 15. Financiering
 
 1. Het bedrag en de modaliteiten van de Israëlische bijdrage in het GALILEO-programma via de gemeenschappelijke onderneming GALILEO zijn onderworpen aan een afzonderlijke overeenkomst behoudens naleving van de institutionele regelingen van de toepasselijke wetgeving van de Europese Gemeenschap.
 
@@ -254,19 +277,19 @@ De door of namens het comité gemaakte kosten worden gedragen door de partij waa
 
 3. Onverminderd lid 2 zorgen de partijen ervoor, wanneer specifieke samenwerkingsregelingen van de ene partij voorzien in financiële middelen voor de deelnemers van de andere partij, en de financiële middelen de aankoop van apparatuur mogelijk maken, dat geen douanerechten worden geheven op de overdracht van deze apparatuur van de ene partijaan de deelnemers van de andere partij in overeenstemming met de op de grondgebieden van elke partij toepasselijke wet- en regelgeving.
 
-#### Artikel 16. Informatie-uitwisseling
+##### Artikel 16. Informatie-uitwisseling
 
 1. De partijen stellen administratieve regelingen en informatiepunten in teneinde te voorzien in overleg en de effectieve uitvoering van de bepalingen van deze overeenkomst.
 
 2. De partijen stimuleren verdere uitwisselingen van informatie betreffende satellietnavigatie onder de instellingen en ondernemingen van de twee partijen.
 
-#### Artikel 17. Overleg en oplossing van geschillen
+##### Artikel 17. Overleg en oplossing van geschillen
 
 1. De partijen voeren, op verzoek van een van hen, onmiddellijk overleg over elk punt van discussie dat voortkomt uit de interpretatie of toepassing van deze overeenkomst. Alle geschillen betreffende de interpretatie of toepassing van deze overeenkomst worden in der minne geschikt tussen de partijen.
 
 2. Lid 1 belet de partijen niet een beroep te doen op geschillenregeling in het kader van de WTO-overeenkomst.
 
-#### Artikel 18. Inwerkingtreding en opzegging
+##### Artikel 18. Inwerkingtreding en opzegging
 
 1. Deze overeenkomst treedt, na ondertekening ervan door de partijen, in werking op de datum waarop de partijen elkaar ervan in kennis hebben gesteld dat hun respectieve interne procedures nodig voor de inwerkingtreding van de overeenkomst zijn voltooid.
 

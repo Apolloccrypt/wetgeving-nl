@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000 en voor de eerste maal gewijzigd te Luxemburg op 25 juni 2005"
 identifier: "BWBV0005294"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-04-01
-laatste_update: 2010-06-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005294"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-04-01"
+last_updated: "2010-06-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005294"
+soort: "verdrag"
+stam_id: "10004551843"
+version_id: "10004777992"
+internal_id: "C10009258401"
+label_id: "10004536374"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005294/2017-04-01/0"
+intitule_bron: "Trb.2011-78"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-05-03"
+intitule_in_force: "2017-07-21"
+intitule_status: "goed"
+original_publication: "Trb.2011-78"
+original_published_date: "2011-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-78"
+entry_into_force_date: "2017-04-01"
+jci_1_3: "jci1.3:c:BWBV0005294&z=2017-04-01&g=2017-04-01"
+jci_1_0: "1.0:c:BWBV0005294&g=2017-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-04-01"
 ---
-
 # Overeenkomst tot tweede wijziging van de Partnerschapsovereenkomst tussen de leden van de groep van staten in Afrika, het Caribische gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds, ondertekend te Cotonou op 23 juni 2000 en voor de eerste maal gewijzigd te Luxemburg op 25 juni 2005
 
 Zijne Majesteit de Koning der Belgen,
@@ -864,7 +886,7 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,
 
 Als volgt zijn overeengekomen:
 
-#### Artikel Enig
+##### Artikel Enig
 
 Wijzigt de Partnerschapsovereenkomst tussen de leden van de groep van Staten in Afrika, het Caribisch Gebied en de Stille Oceaan, enerzijds, en de Europese Gemeenschap en haar Lidstaten, anderzijds; Cotonou, 23 juni 2000.
 

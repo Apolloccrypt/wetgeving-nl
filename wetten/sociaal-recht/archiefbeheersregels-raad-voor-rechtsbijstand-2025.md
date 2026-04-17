@@ -1,13 +1,39 @@
 ---
-title: "Archiefbeheersregels Raad voor Rechtsbijstand 2025"
+title: "Regeling van het bestuur van de Raad voor Rechtsbijstand van 28 mei 2025 betreffende de archiefbeheersregels voor de Raad voor Rechtsbijstand"
 identifier: "BWBR0051974"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-18
-laatste_update: 2025-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051974"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-18"
+last_updated: "2025-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051974"
+soort: "zbo"
+stam_id: "17681213"
+version_id: "31202122"
+internal_id: "C44633811"
+label_id: "17580704"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051974/2025-12-18/0"
+intitule_bron: "Stcrt.2025-43307"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-28"
+intitule_published: "2025-12-17"
+intitule_in_force: "2025-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43307"
+original_signed_date: "2025-05-28"
+original_published_date: "2025-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43307"
+entry_into_force_date: "2025-12-18"
+jci_1_3: "jci1.3:c:BWBR0051974&z=2025-12-18&g=2025-12-18"
+jci_1_0: "1.0:c:BWBR0051974&g=2025-12-18"
+citeertitel_status: "officieel"
+short_title: "Archiefbeheersregels Raad voor Rechtsbijstand 2025"
+signed_date: "2025-05-28"
+entry_into_force: "2025-12-18"
 ---
-
 # Regeling van het bestuur van de Raad voor Rechtsbijstand van 28 mei 2025 betreffende de archiefbeheersregels voor de Raad voor Rechtsbijstand
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14).
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,11 +80,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze regeling is van toepassing op alle archiefbescheiden van de Raad voor Rechtsbijstand en alle archiefbescheiden van commissies en voorzieningen die zijn ingesteld door het bestuur van de Raad voor Rechtsbijstand.
 
-#### Artikel 3. Verantwoordelijke functies en rollen
+##### Artikel 3. Verantwoordelijke functies en rollen
 
 1. Het bestuur is de zorgdrager voor de archiefbescheiden van de Raad voor Rechtsbijstand.
 
@@ -80,7 +106,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 6. De proceseigenaar is de functionaris met wie afspraken worden gemaakt over de vorming en het beheer van archiefbescheiden voor de processen die onder zijn verantwoordelijkheid vallen.
 
-#### Artikel 4. Commissies en voorzieningen van de Raad voor Rechtsbijstand
+##### Artikel 4. Commissies en voorzieningen van de Raad voor Rechtsbijstand
 
 1. Een commissie of voorziening vormt zelfstandig een eigen archief.
 
@@ -90,7 +116,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 ### Hoofdstuk 3. Archiefvorming
 
-#### Artikel 5. Dossiers
+##### Artikel 5. Dossiers
 
 1. De behandelend medewerker voegt alle archiefbescheiden die op een zaak betrekking hebben in een dossier behorende bij de zaak.
 
@@ -106,7 +132,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 5. De behandelend medewerker verwijdert alle in het dossier aanwezige archiefbescheiden van de zaak die niet in het dossier van de zaak aanwezig behoren te zijn.
 
-#### Artikel 6. Registers
+##### Artikel 6. Registers
 
 1. Een register waarvan de Raad voor Rechtsbijstand de enige houder is, valt onder de zorg van de Raad voor Rechtsbijstand.
 
@@ -118,7 +144,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 ### Hoofdstuk 4. Beheer van archiefbescheiden
 
-#### Artikel 7. Selectielijst
+##### Artikel 7. Selectielijst
 
 1. De zorgdrager ontwerpt een selectielijst waarin in ieder geval staat welke archiefbescheiden voor vernietiging in aanmerking komen.
 
@@ -136,7 +162,7 @@ Dit houdt in dat de CIO op het gebied van archiefbeheer de volgende taken en ver
 
 - e. de algemene rijksarchivaris.
 
-#### Artikel 8. Vervanging
+##### Artikel 8. Vervanging
 
 1. De zorgdrager kan besluiten tot de vervanging van archiefbescheiden. Dit wordt vastgelegd in een vervangingsbesluit.
 
@@ -156,7 +182,7 @@ Het Handboek vervanging geeft in ieder geval inzicht in de aspecten van het verv
 
 8. De verklaring van vervanging wordt blijvend bewaard in het archief.
 
-#### Artikel 9. Vernietiging
+##### Artikel 9. Vernietiging
 
 1. Vernietiging van archiefbescheiden vindt enkel plaats op grond van een geldige selectielijst of na vervanging van archiefbescheiden door reproducties als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0051974&hoofdstuk=4&artikel=8&z=2025-12-18&g=2025-12-18) van deze regeling.
 
@@ -186,7 +212,7 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 11. Het besluit om archiefbescheiden uit te zonderen van vernietiging, wordt blijvend bewaard in het archief.
 
-#### Artikel 10. Overbrenging
+##### Artikel 10. Overbrenging
 
 1. De archiefbescheiden worden voorafgaand aan de overbrenging in een goede, geordende en toegankelijke staat gebracht die voldoet aan de eisen van de beheerder van de archiefbewaarplaats.
 
@@ -212,7 +238,7 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 6. De zorgdrager dient een onderbouwd verzoek in bij de Minister van Onderwijs, Cultuur en Wetenschap voor opschorting van overbrenging (voor een periode van hoogstens 10 jaar per opschorting). De minister besluit of een machtiging voor de opschorting wordt verleend.
 
-#### Artikel 11. Vervreemding
+##### Artikel 11. Vervreemding
 
 1. De zorgdrager is bevoegd om te besluiten tot vervreemding van archiefbescheiden die niet zijn overgebracht naar de archiefbewaarplaats.
 
@@ -240,7 +266,7 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 ### Hoofdstuk 5. Bijzondere bepalingen inzake het archiefbeheer
 
-#### Artikel 12. Organisatieveranderingen
+##### Artikel 12. Organisatieveranderingen
 
 1. Bij een organisatieverandering zoals een reorganisatie, (gedeeltelijke) opheffing van een of meerdere taken of (gedeeltelijke) privatisering van een of meerdere taken, wordt vastgelegd of, en zo ja, wat de implicaties zijn voor het beheer van de betrokken archiefbescheiden.
 
@@ -248,20 +274,20 @@ De geldende selectielijst moet hiervoor een grondslag bieden. Het besluit kan oo
 
 3. Bij het treffen van maatregelen als bedoeld in het vorige lid, wordt rekening gehouden met het genoemde in het [Besluit archiefoverdrachten rijksadministratie](https://wetten.overheid.nl/jci1.3:c:BWBR0004427).
 
-#### Artikel 13. Uitbesteding
+##### Artikel 13. Uitbesteding
 
 Bij uitbesteding van een of meerdere taken van de Raad voor Rechtsbijstand aan derden, worden in een (dienstverlenings)overeenkomst afspraken vastgelegd over het archiefbeheer van de betrokken archiefbescheiden. Hierbij wordt rekening gehouden met het gestelde in deze regeling.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 14. Bekendmaking
+##### Artikel 14. Bekendmaking
 
 Deze regeling wordt door de Raad voor Rechtsbijstand bekendgemaakt en gepubliceerd in de Staatscourant.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de bekendmaking in de Staatscourant en werkt terug tot en met 28 mei 2025.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Archiefbeheersregels Raad voor Rechtsbijstand 2025.

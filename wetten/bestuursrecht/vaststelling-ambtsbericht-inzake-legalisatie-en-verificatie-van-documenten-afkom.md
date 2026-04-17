@@ -1,24 +1,49 @@
 ---
-title: "Vaststelling ambtsbericht inzake legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek"
+title: "Besluit van de Minister van Buitenlandse Zaken van 28 november 2003, nr. DPV/DF/BS/112 tot vaststelling van het algemeen ambtsbericht inzake legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek"
 identifier: "BWBR0015970"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-12-11
-laatste_update: 2003-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015970"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-12-11"
+last_updated: "2003-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015970"
+soort: "beleidsregel"
+stam_id: "6188563"
+version_id: "10873152"
+internal_id: "C14730321"
+label_id: "6177564"
+original_entry_into_force: "2003-12-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015970/2003-12-11/0"
+intitule_bron: "Stcrt.2003-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-11-28"
+intitule_published: "2003-12-09"
+intitule_in_force: "2003-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-238"
+original_signed_date: "2003-11-28"
+original_published_date: "2003-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-238-p14-SC62606"
+entry_into_force_date: "2003-12-11"
+jci_1_3: "jci1.3:c:BWBR0015970&z=2003-12-11&g=2003-12-11"
+jci_1_0: "1.0:c:BWBR0015970&g=2003-12-11"
+citeertitel_status: "redactioneel"
+short_title: "Vaststelling ambtsbericht inzake legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek"
+signed_date: "2003-11-28"
+entry_into_force: "2003-12-11"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 28 november 2003, nr. DPV/DF/BS/112 tot vaststelling van het algemeen ambtsbericht inzake legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek
 
 De Minister van Buitenlandse Zaken,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Op de legalisatie en verificatie van documenten afkomstig uit de Dominicaanse Republiek is het algemene ambtsbericht dat als bijlage bij dit besluit is gevoegd van toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

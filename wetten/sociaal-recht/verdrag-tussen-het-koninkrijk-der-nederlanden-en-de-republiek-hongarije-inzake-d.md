@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Hongarije inzake de export van socialeverzekeringsuitkeringen"
 identifier: "BWBV0001482"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-03-01
-laatste_update: 2002-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001482"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-03-01"
+last_updated: "2002-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001482"
+soort: "verdrag"
+stam_id: "10001397193"
+version_id: "10001466472"
+internal_id: "C10006992081"
+label_id: "10001397414"
+dtd_version: "2.0"
+original_entry_into_force: "2002-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001482/2002-03-01/0"
+intitule_bron: "Trb.2001-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-01"
+intitule_published: "2001-06-08"
+intitule_in_force: "2002-03-04"
+intitule_status: "goed"
+original_publication: "Trb.2001-105"
+original_signed_date: "2001-07-01"
+original_published_date: "2001-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-105"
+entry_into_force_date: "2002-03-01"
+jci_1_3: "jci1.3:c:BWBV0001482&z=2002-03-01&g=2002-03-01"
+jci_1_0: "1.0:c:BWBV0001482&g=2002-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-07-01"
+entry_into_force: "2002-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Hongarije inzake de export van socialeverzekeringsuitkeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +49,7 @@ Verlangend de samenwerking tussen de twee Staten te regelen,
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -50,7 +75,7 @@ Zijn overeengekomen als volgt:
 
 2. Andere in dit Verdrag gebruikte termen hebben de betekenis die daaraan in de toegepaste wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -80,17 +105,17 @@ Dit Verdrag is van toepassing:
 
 2.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op elke uitkeringsgerechtigde als op zijn gezinsleden voorzover zij wonen of verblijven op het grondgebied van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 1. Tenzij in dit Verdrag anders is bepaald, is wetgeving van een Verdragsluitende Partij die de betaling van een uitkering beperkt uitsluitend omdat de uitkeringsgerechtigde of een gezinslid woont of verblijft buiten het grondgebied van deze Verdragsluitende Partij, niet van toepassing ten aanzien van uitkeringsgerechtigden of hun gezinsleden die wonen of verblijven op het grondgebied van de andere Verdragsluitende Partij.
 
 2. De bepaling van het eerste lid is niet van toepassing op uitkeringen uit hoofde van een op grond van het territorialiteitsbeginsel gesloten bilaterale overeenkomst tussen de Republiek Hongarije en een derde Staat.
 
-#### Artikel 5. Verificatie van aanvragen en betaling van uitkeringen
+##### Artikel 5. Verificatie van aanvragen en betaling van uitkeringen
 
 1. Betreffende een aanvrage van of de rechtmatigheid van betaling van uitkeringen verstrekt het bevoegde orgaan van een Verdragsluitende Partij, op verzoek van het bevoegde orgaan van de andere Verdragsluitende Partij, gegevens en informatie – met de benodigde medewerking van de instellingen en de uitkeringsgerechtigde – om het recht op een uitkering of de rechtmatigheid van betaling van een uitkering te verifiëren. Het bevoegde orgaan doet een verklaring van verificatie betreffende de uitkeringsgerechtigde alsmede voor eensluidend gewaarmerkte afschriften van de relevante stukken toekomen aan het bevoegde orgaan van de andere Verdragsluitende Partij.
 
@@ -104,13 +129,13 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 6. Niettegenstaande het eerste lid informeren de bevoegde organen van een Verdragsluitende Partij, voor zover mogelijk en zonder voorafgaand verzoek, het bevoegde orgaan van de andere Verdragsluitende Partij over wijzigingen in de informatie betreffende de uitkeringsgerechtigde of zijn gezinsleden.
 
-#### Artikel 6. Identificatie
+##### Artikel 6. Identificatie
 
 1. Om het recht op uitkeringen en de rechtmatigheid van betalingen krachtens de Hongaarse of Nederlandse wetgeving te verifiëren, is een persoon die onder de werkingssfeer van dit Verdrag valt verplicht zich te identificeren door overlegging van een officieel bewijs van zijn identiteit aan het bevoegde orgaan van de Verdragsluitende Partij op het grondgebied waarvan hij woont of verblijft. Het bevoegde orgaan identificeert de uitkeringsgerechtigde aan de hand van dit identiteitsbewijs. Een officieel identiteitsbewijs omvat een paspoort of enig ander geldig identiteitsbewijs dat is afgegeven door de hiertoe bevoegde autoriteiten in de woonplaats van deze persoon.
 
 2. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij door toezending van een kopie van het identiteitsbewijs ervan in kennis dat de identiteit van de uitkeringsgerechtigde is geverifieerd.
 
-#### Artikel 7. Geneeskundig onderzoek
+##### Artikel 7. Geneeskundig onderzoek
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij draagt het bevoegde orgaan van de andere Verdragsluitende Partij zorg voor het uitvoeren van de medische onderzoeken van een uitkeringsgerechtigde die woont of verblijft op haar grondgebied.
 
@@ -120,7 +145,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 4. De kosten van het onderzoek en, naar gelang van het geval, de uitgaven voor reis en verblijf worden voldaan door het bevoegde orgaan op welks verzoek het onderzoek wordt uitgevoerd.
 
-#### Artikel 8. Terugvordering van onverschuldigd betaalde uitkeringen en inning van premies terzake van sociale verzekeringen
+##### Artikel 8. Terugvordering van onverschuldigd betaalde uitkeringen en inning van premies terzake van sociale verzekeringen
 
 1. Een voor tenuitvoerlegging vatbare uitspraak van een rechterlijke instantie of een bevoegd orgaan van een Verdragsluitende Partij betreffende de terugvordering van een uitkering waarop de uitkeringsgerechtigde geen recht had of de inning van premies terzake van sociale verzekeringen worden door het bevoegde orgaan van de andere Verdragsluitende Partij erkend en ten uitvoer gelegd binnen de wettelijke grenzen van die Verdragsluitende Partij. De uitvoerbaarverklaring moet worden vermeld op het gewaarmerkte afschrift van die uitspraak of beslissing.
 
@@ -128,37 +153,37 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 3. De bevoegde organen van beide Verdragsluitende Partijen verrichten kosteloos hun werkzaamheden overeenkomstig dit artikel. Alle andere voor het uitvoeren van een voor tenuitvoerlegging vatbare uitspraak of beslissing gemaakte kosten zoals gerechtelijke kosten, worden betaald door het bevoegde orgaan waarvan de uitspraak of beslissing dient te worden uitgevoerd.
 
-#### Artikel 9. Weigering te betalen, opschorting, intrekking
+##### Artikel 9. Weigering te betalen, opschorting, intrekking
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan een uitkering weigeren te betalen, opschorten of intrekken indien, binnen een tijdvak van drie maanden, de uitkeringsgerechtigde heeft verzuimd een medisch onderzoek te ondergaan of de informatie te verstrekken waarom is verzocht ingevolge artikel 6 en artikel 7, tweede en derde lid, van dit Verdrag.
 
-#### Artikel 10. Bescherming van gegevens
+##### Artikel 10. Bescherming van gegevens
 
 1. Wanneer, krachtens dit Verdrag, de bevoegde autoriteiten of bevoegde organen van een Verdragsluitende Partij persoonsgegevens meedelen aan de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Partij, is die mededeling onderworpen aan de door de Verdragsluitende Partij die de gegevens verstrekt vastgestelde wettelijke bepalingen inzake de bescherming van gegevens. Elke daarop volgende overdracht dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
 2. Het gebruik van persoonsgegevens voor andere doelen dan die van sociale zekerheid is onderworpen aan de goedkeuring van de belanghebbende of in overeenstemming met andere waarborgen waarin de nationale wetgeving voorziet.
 
-#### Artikel 11. Uitvoering van het Verdrag
+##### Artikel 11. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen, door middel van aanvullende akkoorden, maatregelen vaststellen voor de toepassing van dit Verdrag.
 
-#### Artikel 12. Beslechting van geschillen
+##### Artikel 12. Beslechting van geschillen
 
 1. De bevoegde organen van de Verdragsluitende Partijen lossen, voor zover mogelijk, geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag op in overeenstemming met de strekking en beginselen daarvan. Indien de bevoegde organen er niet in slagen een geschil op te lossen, pogen de bevoegde autoriteiten van de Verdragsluitende Partijen het geschil op te lossen.
 
 2. Op het verzoek van een Verdragsluitende Partij raadplegen de Verdragsluitende Partijen elkaar terstond over geschillen die noch door de bevoegde organen, noch door de bevoegde autoriteiten konden worden opgelost in overeenstemming met het eerste lid.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun onderscheiden wettelijke of grondwettelijke procedures die vereist zijn voor de inwerkingtreding van dit Verdrag.
 
 2. Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de datum van de laatste kennisgeving, met dien verstande dat artikel 4 voorlopig wordt toegepast vanaf de eerste dag van de tweede maand volgend op de dag van ondertekening.
 
-#### Artikel 14. Territoriale toepassing
+##### Artikel 14. Territoriale toepassing
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 15. Beëindiging van het Verdrag
+##### Artikel 15. Beëindiging van het Verdrag
 
 Dit Verdrag kan te allen tijde worden beëindigd bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot het einde van het kalenderjaar volgend op het jaar waarin de kennisgeving van beëindiging door de andere Verdragsluitende Partij is ontvangen.
 

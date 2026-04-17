@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit Stuurgroep preventie en bestrijding voertuigcriminaliteit"
 identifier: "BWBR0007027"
-categorie: "Verkeer"
-publicatiedatum: 1996-07-01
-laatste_update: 1996-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007027"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-07-01"
+last_updated: "1996-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007027"
+soort: "ministeriele-regeling"
+stam_id: "4286143"
+version_id: "6049712"
+internal_id: "C6253111"
+label_id: "4264684"
+dtd_version: "2.0"
+original_entry_into_force: "1994-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007027/1996-07-01/0"
+intitule_bron: "Stcrt.1994-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-11-21"
+intitule_published: "1994-11-25"
+intitule_in_force: "1994-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-228"
+original_signed_date: "1994-11-21"
+original_published_date: "1994-11-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-11-27"
+jci_1_3: "jci1.3:c:BWBR0007027&z=1996-07-01&g=1996-07-01"
+jci_1_0: "1.0:c:BWBR0007027&g=1996-07-01"
+citeertitel_status: "officieel"
+signed_date: "1994-11-21"
+entry_into_force: "1994-11-27"
 ---
-
 # Instellingsbesluit Stuurgroep preventie en bestrijding voertuigcriminaliteit
 
 overwegende,
@@ -34,11 +58,11 @@ dat optimale kaders worden gecreëerd bij het Ministerie van Verkeer en Watersta
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een stuurgroep preventie en bestrijding voertuigcriminaliteit, hierna te noemen de stuurgroep.
 
-#### Artikel 2
+##### Artikel 2
 
 De stuurgroep heeft tot taak:
 
@@ -48,13 +72,13 @@ De stuurgroep heeft tot taak:
 
 - afstemming van activiteiten op dit gebied.
 
-#### Artikel 3
+##### Artikel 3
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de stuurgroep wordt als secretaris toegevoegd een medewerker van het Bureau Secretaris-Generaal van het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 5
+##### Artikel 5
 
 De stuurgroep heeft de volgende werkwijze:
 
@@ -62,12 +86,12 @@ De stuurgroep heeft de volgende werkwijze:
 
 - De adjunct-directeur van de Dienst Wegverkeer draagt zorg voor een werkprogramma van te bespreken onderwerpen en voorgestelde activiteiten; tevens komt, aan de hand van rapportages, de voortgang van de diverse activiteiten aan de orde.
 
-#### Artikel 6
+##### Artikel 6
 
 lid 1: Een jaar na de eerste vergadering evalueert de stuurgroep haar werkzaamheden.
 
 lid 2: Er wordt naar gestreefd de stuurgroep op te heffen op het moment dat het beleid ter zake van preventie en bestrijding van voertuigcriminaliteit en de uitvoering hiervan afdoende binnen de bestaande organisatorische kaders zal zijn ingebed.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.

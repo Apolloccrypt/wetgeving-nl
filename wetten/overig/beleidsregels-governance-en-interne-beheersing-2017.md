@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels governance en interne beheersing 2017"
+title: "Beleidsregels van het Commissariaat voor de Media van 26 september 2017 over de governance en interne beheersing van de NPO, de RPO en de landelijke en regionale publieke media-instellingen (Beleidsregels governance en interne beheersing 2017)"
 identifier: "BWBR0040067"
-categorie: "Overig"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040067"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040067"
+soort: "zbo"
+stam_id: "14278113"
+version_id: "24488182"
+internal_id: "C35091651"
+label_id: "14238694"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040067/2018-01-01/0"
+intitule_bron: "Stcrt.2017-57731"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-09-26"
+intitule_published: "2017-10-12"
+intitule_in_force: "2017-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-57731"
+original_signed_date: "2017-09-26"
+original_published_date: "2017-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-57731"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040067&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040067&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels governance en interne beheersing 2017"
+signed_date: "2017-09-26"
+entry_into_force: "2018-01-01"
 ---
-
 # Beleidsregels van het Commissariaat voor de Media van 26 september 2017 over de governance en interne beheersing van de NPO, de RPO en de landelijke en regionale publieke media-instellingen (Beleidsregels governance en interne beheersing 2017)
 
 gelet op de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
@@ -26,7 +52,7 @@ dat de naleving van genoemde artikelen bijdraagt aan het vertrouwen in het funct
 
 besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **wet- en regelgeving:** de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), het [Mediabesluit 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025036), de [Mediaregeling 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025040) en de overige hierop gebaseerde wettelijke voorschriften, waaronder het Handboek financiële verantwoording, en beleidsregels.
 
-#### Artikel 2. Samenstelling en onafhankelijkheid van bestuur en raad van toezicht
+##### Artikel 2. Samenstelling en onafhankelijkheid van bestuur en raad van toezicht
 
 2.1. De raad van toezicht is zodanig samengesteld dat:
 
@@ -76,7 +102,7 @@ Daarnaast voert de raad van toezicht ten minste eenmaal per jaar met het bestuur
 
 2.8. De raad van toezicht is verantwoordelijk voor het toezicht op de naleving van het bepaalde in dit artikel.
 
-#### Artikel 3. Interne beheersing
+##### Artikel 3. Interne beheersing
 
 3.1. Het bestuur is verantwoordelijk voor het opstellen van de risicobereidheid, verbonden aan de strategie en de activiteiten van de publieke media-instelling, waarna deze wordt vastgesteld door de raad van toezicht.
 
@@ -86,7 +112,7 @@ Daarnaast voert de raad van toezicht ten minste eenmaal per jaar met het bestuur
 
 3.4. De raad van toezicht is verantwoordelijk voor het toezicht op (de effectiviteit van) het interne risicomanagement- en controlesysteem. De raad van toezicht bespreekt in elk geval eenmaal per jaar de voornaamste risico's verbonden aan de publieke media-instelling, alsmede de uitkomsten van de toetsing door het bestuur van de inrichting en werking van het interne risicobeheersings- en controlesysteem en eventuele significante wijzigingen in dat systeem. Van de uitkomst van deze bespreking wordt melding gemaakt in het jaarlijkse verslag van de raad van toezicht.
 
-#### Artikel 4. Compliance
+##### Artikel 4. Compliance
 
 4.1. Het bestuur is verantwoordelijk voor de naleving van de geldende wet- en regelgeving, in het bijzonder voor het waarborgen van redactionele onafhankelijkheid in de zin van [artikel 2.88 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.88). Het bestuur draagt voorts zorg voor een cultuur die is gericht op het vervullen van de publieke mediaopdracht overeenkomstig de geldende wet- en regelgeving.
 
@@ -96,7 +122,7 @@ Daarnaast voert de raad van toezicht ten minste eenmaal per jaar met het bestuur
 
 4.4. De raad van toezicht is verantwoordelijk voor het toezicht op de naleving van het bepaalde in dit artikel.
 
-#### Artikel 5. Externe verslaggeving en verantwoording
+##### Artikel 5. Externe verslaggeving en verantwoording
 
 5.1. Het bestuur is verantwoordelijk voor een adequate jaarlijkse externe verslaggeving, voorzien van een controleverklaring door een externe accountant.
 
@@ -130,21 +156,21 @@ Daarnaast voert de raad van toezicht ten minste eenmaal per jaar met het bestuur
 
 5.7. De raad van toezicht is verantwoordelijk voor het toezicht op de naleving van het bepaalde in dit artikel.
 
-#### Artikel 6. Openbaarmaking
+##### Artikel 6. Openbaarmaking
 
 Het Commissariaat maakt de door hem genomen besluiten met betrekking tot de handhaving van de naleving van de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178) openbaar conform de in de Werkwijze Communicatie Commissariaat voor de Media voorgeschreven wijze.
 
-#### Artikel 7. Evaluatie
+##### Artikel 7. Evaluatie
 
 Het Commissariaat zal na een periode van twee jaar de effectiviteit van de beleidsregels evalueren en waar nodig de beleidsregels actualiseren.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van 1 januari 2018.
 
 Deze beleidsregels zijn van toepassing bij de bestuursrechtelijke handhaving door het Commissariaat van de [artikelen 2.142a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.142a) en [2.178 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=2.178), ten aanzien van gedragingen na de inwerkingtreding van de beleidsregels.
 
-#### Artikel 9. Slotbepalingen
+##### Artikel 9. Slotbepalingen
 
 Deze beleidsregels worden aangehaald als: Beleidsregels governance en interne beheersing 2017.
 

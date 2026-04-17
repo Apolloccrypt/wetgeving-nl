@@ -1,20 +1,42 @@
 ---
 title: "Verordening op de beroepseed voor accountants"
 identifier: "BWBR0037990"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037990"
+country: "nl"
+rank: "pbo"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037990"
+soort: "pbo"
+stam_id: "13559213"
+version_id: "23232502"
+internal_id: "C33544341"
+label_id: "13526024"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037990/2022-01-01/0"
+intitule_bron: "Stcrt.2016-27196"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-05-30"
+intitule_in_force: "2016-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-27196"
+original_published_date: "2016-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-27196"
+entry_into_force_date: "2016-06-01"
+jci_1_3: "jci1.3:c:BWBR0037990&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0037990&g=2022-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2016-06-01"
 ---
-
 # Verordening op de beroepseed voor accountants
 
 Gelet op de [artikelen 3, onderdeel a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=3) en [19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
 
 Stelt de volgende verordening vast:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -36,7 +58,7 @@ In deze verordening wordt verstaan onder:
 
 - **wet:** [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een accountant legt de volgende eed of belofte af:
 
@@ -78,7 +100,7 @@ So help me God/I promise/I declare.’
 
 5. Op verzoek kan het bestuur uitstel verlenen van de termijn, bedoeld in het vorige lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De accountant die na de inwerkingtreding van deze verordening is ingeschreven in het accountantsregister, legt de beroepseed af binnen zes maanden na zijn inschrijving in het accountantsregister op een door het bestuur aangeboden wijze.
 
@@ -92,23 +114,23 @@ So help me God/I promise/I declare.’
 
 6. Op verzoek kan het bestuur uitstel verlenen van de termijnen, bedoeld in het eerste tot en met het vijfde lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur verzoekt een aspirant-ingeschrevene voorafgaand aan zijn inschrijving in het accountantsregister de beroepseed af te leggen.
 
 2. Een aspirant-ingeschrevene die het verzoek, bedoeld in het vorige lid inwilligt, legt de beroepseed af bij de diploma-uitreiking.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aspirant-ingeschrevene die de beroepseed heeft afgelegd bij de diploma-uitreiking is na zijn inschrijving in het accountantsregister ontheven van de verplichting, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2022-01-01&g=2022-01-01), mits hij voorafgaand aan de diploma-uitreiking of binnen zes maanden na de diploma-uitreiking een aanvraag als bedoeld in [artikel 38, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=38) heeft ingediend.
 
 2. Een accountant die bij de inwerkingtreding van deze verordening is ingedeeld in contributiegroep Z is vrijgesteld van de verplichting, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Het bestuur houdt een registratie bij van de accountants en aspirant-ingeschrevenen die overeenkomstig [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=2&z=2022-01-01&g=2022-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=3&z=2022-01-01&g=2022-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037990&artikel=4&z=2022-01-01&g=2022-01-01) de beroepseed hebben afgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze verordening treedt in werking op 1 juni 2016.
 

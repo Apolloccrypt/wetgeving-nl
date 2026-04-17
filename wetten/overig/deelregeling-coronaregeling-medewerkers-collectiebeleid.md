@@ -1,28 +1,50 @@
 ---
 title: "Deelregeling coronaregeling medewerkers collectiebeleid"
 identifier: "BWBR0044871"
-categorie: "Overig"
-publicatiedatum: 2021-03-02
-laatste_update: 2021-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044871"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-03-02"
+last_updated: "2021-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044871"
+soort: "zbo"
+stam_id: "15864413"
+version_id: "27566912"
+internal_id: "C38891941"
+label_id: "15799374"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044871/2021-03-02/0"
+intitule_bron: "Stcrt.2021-9956"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-03-01"
+intitule_in_force: "2021-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-9956"
+original_published_date: "2021-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-9956"
+entry_into_force_date: "2021-03-02"
+jci_1_3: "jci1.3:c:BWBR0044871&z=2021-03-02&g=2021-03-02"
+jci_1_0: "1.0:c:BWBR0044871&g=2021-03-02"
+citeertitel_status: "officieel"
+entry_into_force: "2021-03-02"
 ---
-
 # Deelregeling coronaregeling medewerkers collectiebeleid
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan musea en collectiebeherende erfgoedinstellingen om een mogelijke inkrimping van het personeelsbestand op het gebied van collecties als gevolg van de coronacrisis te voorkomen en te stimuleren dat ook nieuw erfgoedtalent geworven kan worden.
 
-#### Artikel 2. Doelgroep
+##### Artikel 2. Doelgroep
 
 De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die als kernactiviteit het beheer en behoud van een collectie van cultureel erfgoed van regionaal en/of nationaal belang heeft en bij het afstoten het bepaalde in de [Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521) en de Leidraad voor het Afstoten van Museale Objecten (LAMO) volgt en waar mogelijk het waardestellend kader van de Rijksdienst voor het Cultureel Erfgoed.
 
-#### Artikel 3. Subsidiesoorten
+##### Artikel 3. Subsidiesoorten
 
 1. Een bijdrage kan worden verstrekt voor personele ondersteuning op het gebied van:
 
@@ -38,7 +60,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 3. Voor de bijdrage bedoeld onder artikel 3, eerste lid onder d dient nieuw talent geworven te worden met wie de instelling voorafgaand aan de aanvraag geen langdurige werkrelatie had.
 
-#### Artikel 4. Hoogte bijdrage
+##### Artikel 4. Hoogte bijdrage
 
 1. De subsidie bedraagt 50.000 euro per positie.
 
@@ -50,7 +72,7 @@ De bijdrage kan worden aangevraagd door een publiekstoegankelijke instelling die
 
 5. De bijdrage betreft de bruto salariskosten en de daarmee samenhangende werkgeverslasten.
 
-#### Artikel 5. Aanvraag
+##### Artikel 5. Aanvraag
 
 Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
@@ -68,7 +90,7 @@ Naast de bepalingen vastgesteld in het Algemeen Reglement, in het aanvraagformul
 
 - •. een omschrijving en belang van het kennisgebied van de kandidaat en een motivatie waarom voor dit kennisgebied is gekozen, hoe kennisoverdracht wordt geborgd.
 
-#### Artikel 6. Beoordeling
+##### Artikel 6. Beoordeling
 
 1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044871&artikel=7&z=2021-03-02&g=2021-03-02) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
 
@@ -94,25 +116,25 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 8. Indien de aanvraag betrekking heeft op nieuw te werven medewerkers, wordt in twee rondes geoordeeld. In de eerste ronde wordt het plan, waarin opgenomen het functieprofiel en de motivering beoordeeld. Indien hierover positief geoordeeld wordt, wordt de bijdrage voor een periode van maximaal zes maanden gereserveerd. Van aanvragers wordt verwacht dat een open sollicitatieronde wordt uitgezet om nieuw talent te werven voor de vacante functie. Na marginale toetsing van de geworven medewerker wordt de reservering vrijgegeven.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 Het subsidieplafond bedraagt 8.000.000 euro.
 
-#### Artikel 8. Hardheidsclausule
+##### Artikel 8. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 9. Overig
+##### Artikel 9. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 1 februari 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 februari 2021.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling coronaregeling medewerkers collectiebeleid.
 

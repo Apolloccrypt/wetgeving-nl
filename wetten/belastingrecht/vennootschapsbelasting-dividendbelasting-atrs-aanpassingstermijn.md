@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting, dividendbelasting; ATR’s; aanpassingstermijn"
 identifier: "BWBR0037171"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-11-12
-laatste_update: 2015-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037171"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2015-11-12"
+last_updated: "2015-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037171"
+soort: "beleidsregel"
+stam_id: "13298663"
+version_id: "22768332"
+internal_id: "C32913151"
+label_id: "13266574"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037171/2015-11-12/0"
+intitule_bron: "Stcrt.2015-39749"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-03"
+intitule_published: "2015-11-11"
+intitule_in_force: "2015-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-39749"
+original_signed_date: "2015-11-03"
+original_published_date: "2015-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-39749"
+entry_into_force_date: "2015-11-12"
+jci_1_3: "jci1.3:c:BWBR0037171&z=2015-11-12&g=2015-11-12"
+jci_1_0: "1.0:c:BWBR0037171&g=2015-11-12"
+citeertitel_status: "redactioneel"
+signed_date: "2015-11-03"
+entry_into_force: "2015-11-12"
 ---
-
 # Vennootschapsbelasting, dividendbelasting; ATR’s; aanpassingstermijn
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

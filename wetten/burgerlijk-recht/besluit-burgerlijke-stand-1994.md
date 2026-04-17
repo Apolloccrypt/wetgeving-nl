@@ -1,13 +1,36 @@
 ---
-title: "Besluit burgerlijke stand 1994"
+title: "Besluit van 25 februari 1994, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van het bepaalde in Titel 4 van Boek 1 van het Burgerlijk Wetboek, als vastgesteld bij wet van 14 oktober 1993, Stb. 555"
 identifier: "BWBR0006493"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006493"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006493"
+soort: "AMvB"
+stam_id: "2593093"
+version_id: "3906832"
+internal_id: "C3906831"
+label_id: "2539094"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006493/2026-01-01/0"
+intitule_bron: "Stb.1994-160"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-25"
+intitule_in_force: "1994-11-08"
+intitule_status: "goed"
+original_publication: "Stb.1994-160"
+original_signed_date: "1994-02-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBR0006493&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006493&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit burgerlijke stand 1994"
+signed_date: "1994-02-25"
+entry_into_force: "1995-01-01"
 ---
-
 # Besluit van 25 februari 1994, houdende vaststelling van een algemene maatregel van bestuur ter uitvoering van het bepaalde in Titel 4 van Boek 1 van het Burgerlijk Wetboek, als vastgesteld bij wet van 14 oktober 1993, Stb. 555
 
 Op voordracht van de Staatssecretaris van Justitie van 19 oktober 1993, stafafdeling Wetgeving Privaatrecht, nr 401184/93/6;
@@ -24,31 +47,31 @@ Hebben goedgevonden en verstaan:
 
 ### afdeling Eerste. De ambtenaar van de burgerlijke stand
 
-#### Artikel 1
+##### Artikel 1
 
 1. De ambtenaar van de burgerlijke stand en de buitengewoon ambtenaar van de burgerlijke stand verrichten hun ambtsbezigheden in het gemeentehuis.
 
 2. De ambtenaar van de burgerlijke stand en de buitengewoon ambtenaar van de burgerlijke stand kunnen ook elders binnen de gemeente ambtsbezigheden verrichten voor zover daartoe gewichtige redenen bestaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Burgemeester en wethouders wijzen, voor zoveel nodig, de ambtenaar van de burgerlijke stand aan die belast is met de leiding van de dienst.
 
-#### Artikel 3
+##### Artikel 3
 
 De gemeente verschaft de ambtenaren van de burgerlijke stand kantoorruimte alsmede alle materiële voorzieningen welke voor een behoorlijke uitoefening van hun taak vereist zijn. Het salaris van het personeel, nodig om de ambtenaren van de burgerlijke stand bij te staan, komt ten laste van de gemeente.
 
-#### Artikel 4
+##### Artikel 4
 
 Na overleg met de ambtenaren van de burgerlijke stand besluiten burgemeester en wethouders tot het aangaan, wijzigen en beëindigen van arbeidsovereenkomsten met het personeel bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=1&afdeling=Eerste&artikel=3&z=2026-01-01&g=2026-01-01). Het personeel ontvangt van de ambtenaar van de burgerlijke stand, onder wiens leiding het zijn werkzaamheden verricht, zijn instructie en is aan hem of de ambtenaar die hem vervangt, onmiddellijk ondergeschikt.
 
-#### Artikel 5
+##### Artikel 5
 
 De ambtenaar van de burgerlijke stand verricht, tenzij gewichtige redenen zich daartegen verzetten, onverwijld de werkzaamheden vereist voor het houden der registers.
 
 ### afdeling Tweede. De registers van de burgerlijke stand en de dubbelen van de akten
 
-#### Artikel 6
+##### Artikel 6
 
 1. De registers van de burgerlijke stand zijn losbladig.
 
@@ -58,7 +81,7 @@ De ambtenaar van de burgerlijke stand verricht, tenzij gewichtige redenen zich d
 
 4. De ambtenaar van de burgerlijke stand bewaart de onder hem berustende bescheiden en andere gegevensdragers zorgvuldig in een afgesloten, tegen brand beschermde ruimte. Slechts indien de uitoefening van de dienst dit noodzakelijk maakt, mogen registers, dubbelen of afschriften uit die ruimte worden verwijderd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ambtenaar van de burgerlijke stand sluit aan het eind van ieder jaar de registers af door een gedagtekende en ondertekende verklaring, welke onmiddellijk na de laatste akte wordt gesteld.
 
@@ -66,27 +89,27 @@ De ambtenaar van de burgerlijke stand verricht, tenzij gewichtige redenen zich d
 
 3. Indien de dubbelen van de akten van de burgerlijke stand overeenkomstig het bepaalde in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=1&afdeling=Tweede&artikel=6&z=2026-01-01&g=2026-01-01), op een daar bedoelde gegevensdrager zijn opgeslagen, geschiedt de overbrenging naar de centrale bewaarplaats in deze vorm.
 
-#### Artikel 8
+##### Artikel 8
 
 Van de overbrenging maakt de beheerder van de centrale bewaarplaats een verklaring op, die een specificatie van de overgebrachte stukken dan wel van de andere gegevensdragers inhoudt. Hij bewaart een door hem ondertekend exemplaar van de verklaring.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Ten aanzien van de dubbelen of de afschriften die zijn overgebracht naar een rijksarchiefbewaarplaats in de zin van de Archiefwet, is de beheerder van die bewaarplaats belast met het bewaren van de onder hem berustende bescheiden, dan wel andere gegevensdragers.
 
 2. De dubbelen of de afschriften en de daarop betrekking hebbende latere vermeldingen worden op zodanige wijze gearchiveerd, dat het verband tussen de latere vermeldingen en de akten, waarop zij betrekking hebben, kan worden gelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 Onze Minister van Justitie geeft voorschriften betreffende het voor de akten en de dubbelen of de afschriften te gebruiken papier, de voor het opmaken van deze stukken te hanteren middelen alsmede betreffende de voor de dubbelen te gebruiken gegevensdrager als bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=1&afdeling=Tweede&artikel=6&z=2026-01-01&g=2026-01-01).
 
 ### afdeling Derde. De klappers op de akten
 
-#### Artikel 11
+##### Artikel 11
 
 De ambtenaar van de burgerlijke stand stelt jaarlijks per registersoort klappers samen van de akten die gedurende het afgelopen jaar zijn ingeschreven in de losbladige registers van geboorten, van huwelijken, geregistreerde partnerschappen en van overlijden, alsmede van het register, bedoeld in [artikel 17, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=17).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaar van de burgerlijke stand maakt tienjaarlijkse klappers in dubbel op.
 
@@ -94,7 +117,7 @@ De ambtenaar van de burgerlijke stand stelt jaarlijks per registersoort klappers
 
 3. Hij zendt het dubbel van de klapper binnen een jaar na afloop van de in het eerste lid genoemde periode toe aan de centrale bewaarplaats.
 
-#### Artikel 13
+##### Artikel 13
 
 In de tienjaarlijkse klappers worden ten minste opgenomen:
 
@@ -108,19 +131,19 @@ In de tienjaarlijkse klappers worden ten minste opgenomen:
 
 - e. het codenummer van de akte.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappers en de daarbij te hanteren middelen.
 
 ### afdeling Vierde. De akten en de latere vermeldingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De akten bevatten geen andere gegevens dan die, welke zijn vermeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&z=2026-01-01&g=2026-01-01) van dit besluit.
 
 2. Niettemin kunnen latere gegevens, bij wege van latere vermelding, aan de akten worden toegevoegd. Ook de latere vermeldingen bevatten geen andere gegevens dan die, welke zijn vermeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&z=2026-01-01&g=2026-01-01) van dit besluit.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De ambtenaar van de burgerlijke stand neemt de akten doorlopend genummerd in de registers op.
 
@@ -130,7 +153,7 @@ Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappe
 
 4. In het geval, bedoeld in het derde lid, wordt, indien de latere vermelding op een afzonderlijk blad wordt opgemaakt, aan de kant of de voet van de akte een verwijzing naar de latere vermelding opgenomen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De ambtenaar van de burgerlijke stand zorgt ervoor dat de akten duidelijk leesbaar zijn en in de Nederlandse taal gesteld, met inachtneming van het bepaalde in [artikel 16, vierde lid, van de Wet gebruik Friese taal](https://wetten.overheid.nl/jci1.3:c:BWBR0034047&artikel=16).
 
@@ -138,7 +161,7 @@ Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappe
 
 3. Hij ondertekent iedere akte en iedere latere vermelding.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In de akten mag, behoudens het navolgende, niets bij verkorting worden uitgedrukt.
 
@@ -152,11 +175,11 @@ Onze Minister kan nadere voorschriften geven omtrent de inrichting van de klappe
 
 6. De aanduiding van een plaats omvat in elk geval de vermelding van de gemeente.
 
-#### Artikel 19
+##### Artikel 19
 
 Bijvoegingen en doorhalingen bij het opmaken van akten of latere vermeldingen worden duidelijk aan de voet van de akte aangegeven en worden goedgekeurd en ondertekend door degenen die de akte of de latere vermelding ondertekenen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Met uitzondering van de akte van geboorte en de akte van overlijden ondertekenen de verschijnende partijen en de ambtenaar van de burgerlijke stand achtereenvolgens de akte in elkaars bijzijn.
 
@@ -164,11 +187,11 @@ Bijvoegingen en doorhalingen bij het opmaken van akten of latere vermeldingen wo
 
 3. Het in het eerste en tweede lid van dit artikel met betrekking tot de verschijnende partijen bepaalde geldt ook met betrekking tot de getuigen.
 
-#### Artikel 21
+##### Artikel 21
 
 Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ingevolge wettelijk voorschrift een latere vermelding moet worden gemaakt door een ambtenaar van de burgerlijke stand van een andere gemeente, geeft aan deze ambtenaar kennis van de door hem opgemaakte akte.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Latere vermeldingen worden opgemaakt door de ambtenaar van de burgerlijke stand onder wie de akte berust, waaraan de latere vermelding moet worden toegevoegd.
 
@@ -176,7 +199,7 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 
 3. Indien het dubbel van een akte is overgebracht naar een rijksarchiefbewaarplaats als bedoeld in de Archiefwet, wordt de latere vermelding overeenkomstig een aanwijzing van de ambtenaar van de burgerlijke stand die de akte laatstelijk onder zijn berusting had, gearchiveerd door de beheerder van die bewaarplaats.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De ambtenaar van de burgerlijke stand geeft buiten Nederland opgemaakte stukken, die ten behoeve van het opmaken van een akte van de burgerlijke stand of van een latere vermelding dienen te worden overgelegd, terug nadat hij zich daarvan een afschrift heeft doen overleggen.
 
@@ -196,7 +219,7 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 
 7. Onze Minister van Justitie stelt in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschappen nadere regels met betrekking tot de wijze waarop de in het tweede tot en met zesde lid bedoelde vernietiging plaatsvindt.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het uittreksel, bedoeld in de [artikelen 19a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19a) en [19g, tweede lid, van Boek I van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19g) wordt opgemaakt overeenkomstig de bepalingen van de op 8 september 1976 te Wenen tot stand gekomen Overeenkomst betreffende de uitgifte van meertalige uittreksels uit akten van de burgerlijke stand.
 
@@ -204,11 +227,11 @@ Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ing
 
 ### Afdeling Vijfde. Afschriften en uittreksels
 
-#### Artikel 25
+##### Artikel 25
 
 Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van dit Besluit zijn opgemaakt, kan een afschrift worden uitgegeven.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een afschrift van een akte van de burgerlijke stand bevat mede de latere vermeldingen die krachtens wettelijk voorschrift aan de akte zijn toegevoegd.
 
@@ -218,7 +241,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 ### Afdeling Zesde. De in verband met de aangifte van de geboorte over te leggen verklaring van een arts of een verloskundige
 
-#### Artikel 27
+##### Artikel 27
 
 1. De in verband met de aangifte van de geboorte te verstrekken verklaring van een arts of een verloskundige vermeldt:
 
@@ -256,7 +279,7 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 ### Afdeling Zevende. De voor het huwelijk en de registratie van een partnerschap vereiste bescheiden en de stuiting van het huwelijk en van de registratie van een partnerschap
 
-#### Artikel 28
+##### Artikel 28
 
 1. De verklaring omtrent het verblijfsrecht van de aanstaande echtgenoot of geregistreerde partner als bedoeld in [artikel 44, eerste lid, onder i, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=44), vermeldt voor zover van toepassing, de volgende gegevens betreffende de persoon op wie de verklaring betrekking heeft:
 
@@ -278,13 +301,13 @@ Van akten van huwelijk of van overlijden welke vóór de inwerkingtreding van di
 
 2. De ambtenaar van de burgerlijke stand bewaart de in het eerste lid bedoelde verklaring gedurende twaalf jaar ten behoeve van verificatie door de Immigratie- en Naturalisatiedienst.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien een verklaring is afgelegd overeenkomstig [artikel 55, onder b, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=55), maakt de ambtenaar van de burgerlijke stand waar het huwelijk zou worden voltrokken, dan wel het geregistreerd partnerschap zou worden aangegaan hiervan een akte op, welke door hem en degene die de verklaring heeft afgelegd wordt ondertekend.
 
 ### Afdeling Achtste. De centrale bewaarplaats voor de dubbelen of de afschriften van de akten van de burgerlijke stand en voor de latere vermeldingen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Er is een centrale bewaarplaats voor de dubbelen of de afschriften van de akten van geboorten, van huwelijken en echtscheidingen, van geregistreerde partnerschappen en beëindigingen van geregistreerde partnerschappen door ontbinding of met wederzijds goedvinden van omzettingen van huwelijken, van omzettingen van geregistreerde partnerschappen en van overlijden en voor de latere vermeldingen en de dubbelen van de tienjaarlijkse klappers.
 
@@ -292,11 +315,11 @@ Indien een verklaring is afgelegd overeenkomstig [artikel 55, onder b, van Boek 
 
 3. De in de centrale bewaarplaats berustende bescheiden en andere gegevensdragers zijn, voor zover niet anders bepaald, niet openbaar.
 
-#### Artikel 31
+##### Artikel 31
 
 De ambtenaar van de burgerlijke stand zendt maandelijks de tekst van de door hem of op zijn aanwijzing opgemaakte latere vermeldingen, die betrekking hebben op onder hem berustende of berust hebbende akten, waarvan het dubbel of het afschrift in de centrale bewaarplaats berust, naar de centrale bewaarplaats. De toezending geschiedt met bericht van ontvangst, in enkelvoud, op formulieren dan wel op andere gegevensdragers, ingericht overeenkomstig het door de Minister van Justitie vast te stellen model.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De naar de centrale bewaarplaats overgebrachte dubbelen of afschriften, alsmede de latere vermeldingen en de dubbelen van de tienjaarlijkse klappers worden op een door de Minister van Justitie te bepalen wijze zorgvuldig bewaard in een afgesloten, tegen brand en andere gevaren beschermde ruimte. Slechts indien de uitoefening van de dienst dit noodzakelijk maakt, mogen deze bescheiden en de andere gegevensdragers uit die ruimte worden verwijderd.
 
@@ -304,15 +327,15 @@ De ambtenaar van de burgerlijke stand zendt maandelijks de tekst van de door hem
 
 ### Afdeling Negende. Bijzondere bepalingen in verband met het houden van registers door consulaire ambtenaren
 
-#### Artikel 33
+##### Artikel 33
 
 Indien een beschikking als bedoeld in [afdeling 9](onbekend) of [afdeling 12](onbekend) van Titel 4 van Boek 1 van het Burgerlijk Wetboek betrekking heeft op een akte die in een door een consulaire ambtenaar gehouden register is of had moeten zijn opgenomen, zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was, een afschrift van de beschikking zodra deze in kracht van gewijsde is gegaan, aan de consulaire ambtenaar die het register houdt.
 
-#### Artikel 34
+##### Artikel 34
 
 Een ambtenaar van de burgerlijke stand die een akte heeft opgemaakt, waarvan ingevolge wettelijk voorschrift een latere vermelding moet worden geplaatst op een akte die in een door een consulaire ambtenaar gehouden register is opgenomen, geeft kennis van de door hem opgemaakte akte aan die consulaire ambtenaar.
 
-#### Artikel 35
+##### Artikel 35
 
 Verzending aan of door consulaire ambtenaren van stukken die betrekking hebben op registers van de burgerlijke stand, geschiedt door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
@@ -320,21 +343,21 @@ Verzending aan of door consulaire ambtenaren van stukken die betrekking hebben o
 
 ### Afdeling Eerste. De indeling van de akten van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een registratie van een partnerschap en van overlijden en de akten van inschrijving daarvan
 
-#### Artikel 36
+##### Artikel 36
 
 De akten van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een registratie van een partnerschap en van overlijden bestaan uit vijf gedeelten die door horizontale lijnen van elkaar zijn gescheiden. In het eerste gedeelte worden opgenomen de gegevens die in een uittreksel uit de akte moeten worden opgenomen. In het tweede gedeelte worden opgenomen de gegevens die wegens hun vertrouwelijk karakter niet in een uittreksel worden opgenomen. In het derde gedeelte worden de overige gegevens opgenomen. In het vierde gedeelte worden de ambtelijke gegevens en de handtekeningen opgenomen. In het vijfde gedeelte worden de door de ambtenaar van de burgerlijke stand aan te brengen verbeteringen, bijvoegingen of doorhalingen opgenomen. Tevens worden daarin opgenomen de latere vermeldingen, dan wel verwijzingen naar de op een afzonderlijk blad aan de akte toegevoegde latere vermeldingen.
 
-#### Artikel 37
+##### Artikel 37
 
 Akten van inschrijving van in het buitenland opgemaakte akten van geboorte, van huwelijk, van registratie van een partnerschap en van overlijden, van rechterlijke uitspraken omtrent de rechtsgeldigheid van zodanige akten in Nederland dan wel van rechterlijke uitspraken als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=21) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=25) van Boek 1 van het Burgerlijk Wetboek, worden op de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Eerste&artikel=36&z=2026-01-01&g=2026-01-01) aangegeven wijze ingedeeld.
 
 ### Afdeling Tweede. Gegevens die steeds in de akten, de akten van inschrijving, de latere vermeldingen en de uittreksels worden opgenomen
 
-#### Artikel 38
+##### Artikel 38
 
 In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters (NL), de aktesoort en het jaar waarin de akte is opgemaakt, vermeld. In het hoofd van een akte van geboorte, van huwelijk, van registratie van een partnerschap, van omzetting van een registratie van een partnerschap, van erkenning, van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren, van naamskeuze en van overlijden wordt tevens een nummer vermeld, overeenkomstig door de Minister van Justitie te geven voorschriften.
 
-#### Artikel 39
+##### Artikel 39
 
 1. In het hoofd van elke akte van inschrijving van een buitenlandse akte worden vermeld de woorden "akte van inschrijving", gevolgd door de soort en het nummer van de ingeschreven akte, de instantie die haar heeft opgemaakt, alsmede het land, de plaats en de dag waar zulks is geschied.
 
@@ -346,7 +369,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 5. In het vijfde gedeelte van elke akte van inschrijving worden vermeld de in het in te schrijven stuk ontbrekende gegevens, voor zover de ambtenaar van de burgerlijke stand deze kan ontlenen aan een hier te lande in de registers van de burgerlijke stand opgenomen akte, alsmede de door de ambtenaar van de burgerlijke stand aan te brengen verbeteringen, doorhalingen en bijvoegingen. Tevens worden daarin opgenomen de latere vermeldingen, dan wel verwijzingen naar de op een afzonderlijk blad aan de akte toegevoegde latere vermeldingen.
 
-#### Artikel 40
+##### Artikel 40
 
 1. In het vierde gedeelte van elke akte, dan wel, indien deze niet is ingedeeld, aan de voet ervan worden vermeld:
 
@@ -358,7 +381,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 2. In het vierde gedeelte van elke akte van inschrijving worden de in het eerste lid, onder a en b genoemde gegevens vermeld, alsmede de handtekening van de ambtenaar van de burgerlijke stand.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Wordt de latere vermelding op een los blad opgemaakt, dan worden in het hoofd ervan vermeld de letters "ref." gevolgd door het nummer van de akte waaraan de latere vermelding wordt toegevoegd, alsmede het jaar waarin die akte is opgemaakt.
 
@@ -374,7 +397,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 - c. de handtekening van de ambtenaar van de burgerlijke stand.
 
-#### Artikel 42
+##### Artikel 42
 
 1. In het hoofd van elk uittreksel worden het woord "Nederland" gevolgd door de letters (NL) alsmede het woord "uittreksel" vermeld, gevolgd door de soort en het nummer van de akte waarop het uittreksel betrekking heeft.
 
@@ -382,7 +405,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 ### afdeling Derde. De akte van geboorte en het uittreksel daarvan
 
-#### Artikel 43
+##### Artikel 43
 
 1. De akte van geboorte vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -412,7 +435,7 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 - d. indien toepasselijk, dat de voornamen ambtshalve door de ambtenaar van de burgerlijke stand zijn gegeven.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Is de plaats van de geboorte van het kind niet bekend, dan vermeldt de akte in het eerste gedeelte zo nauwkeurig mogelijk de plaats waar het is aangetroffen.
 
@@ -420,27 +443,27 @@ In het hoofd van elke akte worden het woord "Nederland", gevolgd door de letters
 
 3. Indien de plaats of de dag van de geboorte van het kind of de naam, met inbegrip van de voornamen, van de moeder uit wie het kind is geboren niet bekend is, vermeldt de geboorteakte in het derde gedeelte het bevel van het openbaar ministerie krachtens hetwelk de akte is opgemaakt, alsmede dat bij dit opmaken de aanwijzingen van het openbaar ministerie zijn in acht genomen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De in [artikel 19d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19d), eerste lid, van Boek 1 van het Burgerlijk Wetboek bedoelde akte van geboorte vermeldt in het eerste gedeelte dat het geslacht van het kind niet is kunnen worden vastgesteld.
 
 2. Het bepaalde in het eerste lid is van overeenkomstige toepassing in het geval, bedoeld in [artikel 19d](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19d), derde lid, van Boek 1 van het Burgerlijk Wetboek.
 
-#### Artikel 46
+##### Artikel 46
 
 De akte van inschrijving van een buiten Nederland opgemaakte akte van geboorte of van de rechterlijke beschikking, bedoeld in [artikel 25f](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=25f) van Boek 1 van het Burgerlijk Wetboek, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=43&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
-#### Artikel 47
+##### Artikel 47
 
 De voorlopige akte van geboorte, bedoeld in de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19)**a**, tweede lid, van Boek 1 van het Burgerlijk Wetboek vermeldt de in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=43&z=2026-01-01&g=2026-01-01) genoemde gegevens voor zover deze bekend zijn.
 
-#### Artikel 48
+##### Artikel 48
 
 Het uittreksel van de akte van geboorte vermeldt de in [artikel 43, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=43&z=2026-01-01&g=2026-01-01), onderscheidenlijk [artikel 44, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=44&z=2026-01-01&g=2026-01-01), genoemde gegevens, met inachtneming van de gegevens blijkend uit latere vermeldingen dan wel uit een bijvoeging als bedoeld in [artikel 66, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=66&z=2026-01-01&g=2026-01-01).
 
 ### afdeling Vierde. De akte van erkenning, de akte van ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren, de akte van naamskeuze en de latere vermeldingen van deze akten
 
-#### Artikel 49
+##### Artikel 49
 
 1. De door een ambtenaar van de burgerlijke stand opgemaakte akte van erkenning vermeldt:
 
@@ -476,7 +499,7 @@ Het uittreksel van de akte van geboorte vermeldt de in [artikel 43, eerste lid](
 
 4. De latere vermelding van de ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren vermeldt de in het tweede lid, onder d, e en f, genoemde gegevens.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Wanneer de akte van erkenning het kind of de kinderen waarvan een vrouw zwanger is, betreft, vermeldt deze akte:
 
@@ -494,15 +517,15 @@ Het uittreksel van de akte van geboorte vermeldt de in [artikel 43, eerste lid](
 
 3. Het tweede lid is van overeenkomstige toepassing indien de erkenning dan wel ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren bij de aangifte van de geboorte van het kind plaatsvindt, met dien verstande dat de latere vermelding van de ontkenning van het vaderschap of moederschap door de moeder uit wie het kind is geboren de in [artikel 49, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Vierde&artikel=49&z=2026-01-01&g=2026-01-01), genoemde gegevens vermeldt.
 
-#### Artikel 51
+##### Artikel 51
 
 De latere vermelding van een notariële akte van erkenning vermeldt de in [artikel 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Vierde&artikel=49&z=2026-01-01&g=2026-01-01), genoemde gegevens aan de hand van die notariële akte, met dien verstande dat de ambtenaar van de burgerlijke stand gegevens die ontbreken zoveel mogelijk aanvult.
 
-#### Artikel 52
+##### Artikel 52
 
 De latere vermelding van een buiten Nederland opgemaakte akte van erkenning, dan wel van een buiten Nederland gedane rechterlijke uitspraak houdende gegrondverklaring van de ontkenning van het door het huwelijk of geregistreerd partnerschap ontstane vaderschap of moederschap of vernietiging van de erkenning, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in de [artikelen 49, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Vierde&artikel=49&z=2026-01-01&g=2026-01-01), of [51](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Vierde&artikel=51&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
-#### Artikel 52a
+##### Artikel 52a
 
 1. De akte van naamskeuze die wordt opgemaakt op grond van een verklaring van de ouders van het kind, van één ouder, dan wel van een ouder en een niet-ouder die op grond van [artikel 253sa, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253sa) gezamenlijk het gezag over het kind uitoefenen, vermeldt:
 
@@ -516,7 +539,7 @@ De latere vermelding van een buiten Nederland opgemaakte akte van erkenning, dan
 
 ### afdeling Vijfde. De latere vermelding van een rechterlijke uitspraak inzake adoptie
 
-#### Artikel 53
+##### Artikel 53
 
 De latere vermelding van een rechterlijke uitspraak waarbij adoptie wordt uitgesproken dan wel herroepen, vermeldt:
 
@@ -530,33 +553,33 @@ De latere vermelding van een rechterlijke uitspraak waarbij adoptie wordt uitges
 
 - e. indien van toepassing, dat de familierechtelijke betrekking met de andere met het gezag beklede ouder in stand blijft.
 
-#### Artikel 54
+##### Artikel 54
 
 De latere vermelding van een buiten Nederland gedane rechterlijke uitspraak, waarbij adoptie wordt uitgesproken dan wel herroepen, vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Vijfde&artikel=53&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
 ### afdeling Zesde. De akte van huwelijksaangifte en de akte van aangifte van registratie van een partnerschap
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 55a
+##### Artikel 55a
 
 Vervallen
 
 ### afdeling Zevende. De akte van toestemming tot het huwelijk en tot registratie van een partnerschap
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 56a
+##### Artikel 56a
 
 Vervallen
 
 ### afdeling Achtste. De huwelijksakte en het uittreksel daarvan, de akte van registratie van een partnerschap en het uittreksel daarvan, de akte van omzetting van een huwelijk en het uittreksel daarvan en de akte van omzetting van een registratie van een partnerschap en het uittreksel daarvan
 
-#### Artikel 57
+##### Artikel 57
 
 1. De huwelijksakte vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -580,7 +603,7 @@ Vervallen
 
 4. De ambtenaar van de burgerlijke stand, bedoeld in [artikel 40, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tweede&artikel=40&z=2026-01-01&g=2026-01-01), van dit besluit is de ambtenaar ten overstaan van wie de verklaring bedoeld in artikel 67, eerste lid, van Boek 1 van het Burgerlijk Wetboek is afgelegd, en die heeft verklaard dat partijen door de echt aan elkander zijn verbonden.
 
-#### Artikel 57a
+##### Artikel 57a
 
 1. De akte van registratie van een partnerschap vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -604,11 +627,11 @@ Vervallen
 
 4. De ambtenaar van de burgerlijke stand, bedoeld in [artikel 40, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tweede&artikel=40&z=2026-01-01&g=2026-01-01), van dit besluit is de ambtenaar ten overstaan van wie de registratie bedoeld in [artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80a) is aangegaan.
 
-#### Artikel 57b
+##### Artikel 57b
 
 Vervallen
 
-#### Artikel 57c
+##### Artikel 57c
 
 1. De akte van omzetting van een registratie van een partnerschap in een huwelijk vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -626,13 +649,13 @@ Vervallen
 
 4. De ambtenaar van de burgerlijke stand, bedoeld in [artikel 40, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tweede&artikel=40&z=2026-01-01&g=2026-01-01), van dit besluit is de ambtenaar bedoeld in [artikel 80f, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80f).
 
-#### Artikel 58
+##### Artikel 58
 
 1. De akte van inschrijving van een buiten Nederland opgemaakte huwelijksakte vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Achtste&artikel=57&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
 2. De akte van inschrijving van een buiten Nederland opgemaakte akte van registratie van een partnerschap vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Achtste&artikel=57a&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Het uittreksel van de huwelijksakte vermeldt de in [artikel 57, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Achtste&artikel=57&z=2026-01-01&g=2026-01-01), genoemde gegevens. Indien van toepassing bevat het uittreksel tevens de gegevens inzake de plaats en datum van de echtscheiding of de ontbinding van het huwelijk na scheiding van tafel en bed, dan wel inzake de omzetting van het huwelijk in een registratie van een partnerschap.
 
@@ -644,7 +667,7 @@ Vervallen
 
 ### afdeling Negende. De akte van inschrijving, onderscheidenlijk de latere vermelding van echtscheiding en van ontbinding van een huwelijk na scheiding van tafel en bed, van beëindiging met wederzijds goedvinden van een geregistreerd partnerschap en van de ontbinding daarvan
 
-#### Artikel 60
+##### Artikel 60
 
 1. De akte van inschrijving van een rechterlijke uitspraak houdende echtscheiding of ontbinding van een huwelijk na scheiding van tafel en bed tussen echtelieden wier huwelijk niet in de Nederlandse registers van de burgerlijke stand is ingeschreven, vermeldt:
 
@@ -656,7 +679,7 @@ Vervallen
 
 2. De latere vermelding van een rechterlijke uitspraak houdende echtscheiding of ontbinding van een huwelijk na scheiding van tafel en bed, vermeldt de in het eerste lid, onder b en c, genoemde gegevens.
 
-#### Artikel 60a
+##### Artikel 60a
 
 1. De akte van inschrijving van een verklaring tot beëindiging met wederzijds goedvinden van een geregistreerd partnerschap en van de rechterlijke uitspraak van een ontbinding van een geregistreerd partnerschap als bedoeld in [artikel 80c](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80c), onder c en d, van Boek 1 van het Burgerlijk Wetboek tussen geregistreerde partners wier partnerschap niet in de Nederlandse registers van de burgerlijke stand is ingeschreven, vermeldt:
 
@@ -668,7 +691,7 @@ Vervallen
 
 ### afdeling Tiende. De akte van overlijden en het uittreksel daarvan
 
-#### Artikel 61
+##### Artikel 61
 
 1. De akte van overlijden vermeldt in het eerste gedeelte achtereenvolgens:
 
@@ -694,7 +717,7 @@ Vervallen
 
 - b. de geslachtsnaam en de voornamen alsmede de plaats en de dag van geboorte van de aangever.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Indien een lijk is gevonden en de plaats of de dag van overlijden niet met voldoende nauwkeurigheid kan worden vastgesteld, vermeldt de akte in het eerste gedeelte achtereenvolgens:
 
@@ -720,41 +743,41 @@ Vervallen
 
 4. De plaats waar het lijk is gevonden, wordt zo nauwkeurig mogelijk aangeduid.
 
-#### Artikel 63
+##### Artikel 63
 
 De akte van inschrijving bedoeld in [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=417), onderscheidenlijk [artikel 429 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=429) vermeldt de gegevens genoemd in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=61&z=2026-01-01&g=2026-01-01) van dit besluit voor zover die uit de beschikking blijken. Als dag van overlijden geldt, in het geval van [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=417), de dag waarop de vermissing van de betrokkene is vastgesteld.
 
-#### Artikel 64
+##### Artikel 64
 
 De akte van inschrijving van een buiten Nederland opgemaakte akte van overlijden of akte van lijkvinding vermeldt, voor zover deze aan het in te schrijven stuk kunnen worden ontleend, de in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=61&z=2026-01-01&g=2026-01-01) onderscheidenlijk [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=62&z=2026-01-01&g=2026-01-01) genoemde gegevens.
 
-#### Artikel 65
+##### Artikel 65
 
 De voorlopige akte van overlijden, bedoeld in [artikel 19 g, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19), vermeldt voor zoveel mogelijk de gegevens genoemd in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=61&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 66
+##### Artikel 66
 
 1. Op de akte van aangifte van een kind dat levenloos ter wereld is gekomen, zijn [de artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=43&z=2026-01-01&g=2026-01-01), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=44&z=2026-01-01&g=2026-01-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=45&z=2026-01-01&g=2026-01-01) en [47](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Derde&artikel=47&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat deze akte alleen een geslachtsnaam en voornamen van het kind vermeldt voor zover de ouders dit wensen.
 
 2. De akte, bedoeld in [artikel 19i, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=19i), draagt als opschrift: Akte van geboorte (levenloos). In het vijfde gedeelte van de akte wordt als bijvoeging opgenomen: Akte in de zin van artikel 1:19i, eerste lid, Burgerlijk Wetboek.
 
-#### Artikel 67
+##### Artikel 67
 
 Het uittreksel van de akte van overlijden vermeldt de in [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=61&z=2026-01-01&g=2026-01-01), onderscheidenlijk [artikel 62, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006493&hoofdstuk=2&afdeling=Tiende&artikel=62&z=2026-01-01&g=2026-01-01), genoemde gegevens, met inachtneming van gegevens blijkend uit latere vermeldingen. Indien een akte van inschrijving is opgemaakt ingevolge [artikel 417](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=417), onderscheidenlijk [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=426) van Boek 1 van het Burgerlijk Wetboek, wordt dit in het hoofd van het uittreksel vermeld.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 68
+##### Artikel 68
 
 Dit besluit treedt in werking tegelijk met de wet van 14 oktober 1993 tot herziening van Titel 4 van Boek 1 van het Burgerlijk Wetboek en wijziging van enige andere bepalingen van [Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1) van dat wetboek, het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) en het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903).
 
-#### Artikel 69
+##### Artikel 69
 
 Dit besluit kan worden aangehaald als: Besluit burgerlijke stand 1994.
 
 Lasten en bevelen dat dit besluit en de bijlage met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 52b
+##### Artikel 52b
 
 1. De akte van naamskeuze die op grond van een verklaring van het kind wordt opgemaakt, vermeldt:
 
@@ -782,7 +805,7 @@ Lasten en bevelen dat dit besluit en de bijlage met de daarbij behorende nota va
 
 Lasten en bevelen dat dit besluit en de bijlage met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De registers van de burgerlijke stand kunnen ook elektronisch zijn.
 
@@ -826,7 +849,7 @@ Lasten en bevelen dat dit besluit en de bijlage met de daarbij behorende nota va
 
 ### afdeling Elfde. De elektronische kennisgeving van een huwelijk en geregistreerd partnerschap en de elektronische aangifte van overlijden
 
-#### Artikel 67a
+##### Artikel 67a
 
 1. Indien de kennisgeving van een huwelijk of geregistreerd partnerschap als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=44) respectievelijk [artikel 80a, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=80a) langs elektronische weg wordt gedaan, verstrekken de aanstaande echtgenoten respectievelijk aanstaande partners aan de ambtenaar van de burgerlijke stand tevens hun burgerservicenummer.
 

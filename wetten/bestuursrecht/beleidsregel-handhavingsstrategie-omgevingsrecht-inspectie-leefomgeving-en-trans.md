@@ -1,38 +1,64 @@
 ---
-title: "Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport"
+title: "Beleidsregel van de inspecteur-generaal Leefomgeving en Transport van 16 november 2023, nr. ILT-2023/56743, houdende vaststelling van beleid inzake de handhavingsstrategie Omgevingsrecht van de Inspectie Leefomgeving en Transport (Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport)"
 identifier: "BWBR0049116"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049116"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049116"
+soort: "beleidsregel"
+stam_id: "16975903"
+version_id: "29841372"
+internal_id: "C42776881"
+label_id: "16886324"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049116/2024-01-01/0"
+intitule_bron: "Stcrt.2023-34833"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-16"
+intitule_published: "2023-12-15"
+intitule_in_force: "2023-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34833"
+original_signed_date: "2023-11-16"
+original_published_date: "2023-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34833"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049116&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049116&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport"
+signed_date: "2023-11-16"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel van de inspecteur-generaal Leefomgeving en Transport van 16 november 2023, nr. ILT-2023/56743, houdende vaststelling van beleid inzake de handhavingsstrategie Omgevingsrecht van de Inspectie Leefomgeving en Transport (Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport)
 
 Gelet op de [artikelen 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [artikel 93 van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=93), [artikel 26, tweede lid, van het Organisatie- en mandaatbesluit Infrastructuur en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0040610&artikel=26), [artikel 2, derde lid, van het Besluit mandatering aan ILT van handhavingsbevoegdheden en aanwijzing toezichthouders op het terrein van BZK-wetgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0034893&artikel=2), [artikel 6 van het Besluit mandaat Autoriteit woningcorporaties en aanwijzing toezichthouders Woningwet en WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036749&artikel=6), [artikel 4 van het Besluit mandaat inspecteur-generaal Leefomgeving en Transport en aanwijzing toezichthouders Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038257&artikel=4), het [Besluit mandaat, volmacht en machtiging IG ILT handhaving Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0042392), [artikel 18.6 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=18.6) en [artikel 13.5 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=13.5);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Landelijke Handhavingsstrategie Omgevingsrecht (versie 12 oktober 2022) wordt vastgesteld overeenkomstig bijlage 1 bij deze beleidsregel.
 
 2. De Inspectie Leefomgeving en Transport past bij de handhaving van wet- en regelgeving op haar werkterrein de Landelijke Handhavingsstrategie Omgevingsrecht toe.
 
-#### Artikel 2
+##### Artikel 2
 
 De [Beleidsregel Handhavingsstrategie Inspectie Leefomgeving en Transport](https://wetten.overheid.nl/jci1.3:c:BWBR0045070) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel wordt toegepast met betrekking tot overtredingen die op of na 1 januari 2024 zijn begaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Handhavingsstrategie Omgevingsrecht Inspectie Leefomgeving en Transport.
 

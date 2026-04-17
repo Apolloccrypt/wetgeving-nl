@@ -1,13 +1,38 @@
 ---
-title: "Besluit administratieve bepalingen scheepvaartverkeer"
+title: "Besluit van 13 december 1993, houdende vaststelling van administratieve bepalingen inzake het scheepvaartverkeer"
 identifier: "BWBR0006309"
-categorie: "Verkeer"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006309"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006309"
+soort: "AMvB"
+stam_id: "76463"
+version_id: "105522"
+internal_id: "C27150321"
+label_id: "77754"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006309/2025-01-01/0"
+intitule_bron: "Stb.1993-677"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-13"
+intitule_published: "1993-12-23"
+intitule_in_force: "1993-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1993-677"
+original_signed_date: "1993-12-13"
+original_published_date: "1993-12-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBR0006309&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0006309&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit administratieve bepalingen scheepvaartverkeer"
+signed_date: "1993-12-13"
+entry_into_force: "1994-01-01"
 ---
-
 # Besluit van 13 december 1993, houdende vaststelling van administratieve bepalingen inzake het scheepvaartverkeer
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 11 januari 1993, nr. RVR 138115, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -40,7 +65,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Verkeerstekens
 
-#### Artikel 2
+##### Artikel 2
 
 Het bevoegd gezag brengt slechts verkeerstekens aan opgenomen in:
 
@@ -62,11 +87,11 @@ Het bevoegd gezag brengt slechts verkeerstekens aan opgenomen in:
 
 #### § 2. Aanbrenging en verwijdering van verkeerstekens krachtens verkeersbesluit
 
-#### Artikel 3
+##### Artikel 3
 
 Indien bij verkeerstekens bijkomende tekens worden aangebracht die de werking van het verkeersteken wijzigen, wordt zulks in het betrokken verkeersbesluit tot uitdrukking gebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 Geen verkeersbesluit behoeft te worden genomen indien:
 
@@ -76,31 +101,31 @@ Geen verkeersbesluit behoeft te worden genomen indien:
 
 #### § 3. Verkeersbesluiten
 
-#### Artikel 5
+##### Artikel 5
 
 De motivering van een verkeersbesluit vermeldt in ieder geval welke doelstelling of doelstellingen met het besluit worden beoogd. Daarbij wordt aangegeven welke van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=3) van de wet genoemde belangen aan het besluit ten grondslag liggen.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de voorbereiding van een verkeersbesluit voert het bevoegd gezag overleg met de bij dat besluit belanghebbende openbare lichamen en instellingen.
 
 #### § 4. Aanbrengen, verwijdering, kosten
 
-#### Artikel 7
+##### Artikel 7
 
 Onverminderd [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=14), van de wet, geschieden het aanbrengen, het onderhoud en de verwijdering van verkeerstekens door de zorg en op kosten van het bevoegd gezag dat tot het aanbrengen of de verwijdering heeft besloten.
 
-#### Artikel 8
+##### Artikel 8
 
 De uitvoering van een bekendmaking met dezelfde strekking als een verkeersteken geschiedt door de zorg en op kosten van het bevoegd gezag dat de bekendmaking heeft gedaan.
 
-#### Artikel 9
+##### Artikel 9
 
 Onverminderd [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=14), van de wet, zijn de kosten verbonden aan het tijdelijk aanbrengen van verkeerstekens ten laste van degene die dit verricht.
 
 #### § 5. Tijdelijk aanbrengen van verkeerstekens
 
-#### Artikel 10
+##### Artikel 10
 
 Zonder verkeersbesluit kunnen door het bevoegd gezag in de hierna genoemde omstandigheden en voor de duur van die omstandigheden verkeerstekens die een gebod of een verbod dan wel de opheffing van een gebod of een verbod aangeven, worden aangebracht ingeval van:
 
@@ -110,17 +135,17 @@ Zonder verkeersbesluit kunnen door het bevoegd gezag in de hierna genoemde omsta
 
 - c. een andere dringende omstandigheid van voorbijgaande aard.
 
-#### Artikel 11
+##### Artikel 11
 
 Degene die de bevoegdheid uitoefent vanwege het bevoegd gezag geeft van het voornemen tot tijdelijk aanbrengen van verkeerstekens of, indien hiertoe reeds is overgegaan, van dat feit, zo spoedig mogelijk kennis aan het bevoegd gezag, dat de tijdelijke aanbrenging kan voorkomen of ongedaan kan maken. De kennisgeving kan achterwege blijven voor zover dit gezag dit heeft bepaald.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=5&artikel=10&z=2025-01-01&g=2025-01-01) geschiedt de tijdelijke aanbrenging krachtens een verkeersbesluit indien de omstandigheden die tot de tijdelijke aanbrenging leiden van langere duur zijn dan dertien weken dan wel zich regelmatig voordoen. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&hoofdstuk=2&paragraaf=4&z=2025-01-01&g=2025-01-01) is alsdan van toepassing.
 
 #### § 6. Bekendmakingen met dezelfde strekking als een verkeersteken
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor scheepvaartwegen waar verkeerstekens die een gebod of een verbod dan wel een aanbeveling of een inlichting bevatten niet doelmatig zijn, kunnen verkeerstekens worden vervangen door bekendmakingen met dezelfde strekking als een verkeersteken.
 
@@ -170,21 +195,21 @@ In afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006309&ho
 
 ### Hoofdstuk 3. Vrijstellingen
 
-#### Artikel 14
+##### Artikel 14
 
 Bij de voorbereiding van een besluit tot vrijstelling voert het bevoegd gezag overleg met de bij dat besluit belanghebbende openbare lichamen en instellingen.
 
 ### Hoofdstuk 4. Wijzigingen in andere besluiten
 
-#### Artikel 15
+##### Artikel 15
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 17
+##### Artikel 17
 
 Bevat wijzigingen in andere regelgeving.
 
@@ -192,7 +217,7 @@ Bevat wijzigingen in andere regelgeving.
 
 #### § 1. Overgangsbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Verkeerstekens, aangebracht voor de datum van inwerkingtreding van dit besluit, worden geacht te zijn aangebracht overeenkomstig de bepalingen van dit besluit.
 
@@ -200,11 +225,11 @@ Bevat wijzigingen in andere regelgeving.
 
 #### § 2. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen datum.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit wordt aangehaald als: Besluit administratieve bepalingen scheepvaartverkeer.
 

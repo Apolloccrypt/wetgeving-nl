@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Handhavingsstrategie Omgevingsrecht Rijkswaterstaat"
+title: "Beleidsregel Handhavingsstrategie Omgevingsrecht, Rijkswaterstaat"
 identifier: "BWBR0049171"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049171"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049171"
+soort: "beleidsregel"
+stam_id: "16985733"
+version_id: "29863092"
+internal_id: "C42812141"
+label_id: "16895914"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049171/2024-01-01/0"
+intitule_bron: "Stcrt.2023-35603"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-12"
+intitule_published: "2023-12-29"
+intitule_in_force: "2023-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35603"
+original_signed_date: "2023-10-12"
+original_published_date: "2023-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35603"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049171&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049171&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel Handhavingsstrategie Omgevingsrecht Rijkswaterstaat"
+signed_date: "2023-10-12"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel Handhavingsstrategie Omgevingsrecht, Rijkswaterstaat
 
 De Directeur-Generaal Rijkswaterstaat heeft op 1 juli 2016 de Landelijke Handhavingsstrategie als beleidsregel vastgesteld. Vanaf 1 januari 2024 zal Rijkswaterstaat conform de Landelijke Handhavingsstrategie Omgevingsrecht (LHSO) werken. De inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is de aanleiding voor het vaststellen van de Landelijke Handhavingsstrategie Omgevingsrecht als beleidsregel.

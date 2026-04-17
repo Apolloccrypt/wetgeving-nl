@@ -1,13 +1,36 @@
 ---
 title: "Telling personeelsgegevens van de Landelijke Organen voor het Beroepsonderwijs (LOB) voor het jaar 2004"
 identifier: "BWBR0016743"
-categorie: "Onderwijs"
-publicatiedatum: 2004-06-09
-laatste_update: 2004-06-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016743"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-06-09"
+last_updated: "2004-06-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016743"
+soort: "beleidsregel"
+stam_id: "6462393"
+version_id: "11138162"
+internal_id: "C15056551"
+label_id: "6451034"
+original_entry_into_force: "2004-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016743/2004-06-09/0"
+intitule_bron: "Uitleg.2004-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-17"
+intitule_published: "2004-06-09"
+intitule_in_force: "2004-06-09"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-10"
+original_signed_date: "2004-05-17"
+original_published_date: "2004-06-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-06-09"
+jci_1_3: "jci1.3:c:BWBR0016743&z=2004-06-09&g=2004-06-09"
+jci_1_0: "1.0:c:BWBR0016743&g=2004-06-09"
+citeertitel_status: "redactioneel"
+signed_date: "2004-05-17"
+entry_into_force: "2004-06-09"
 ---
-
 # Telling personeelsgegevens van de Landelijke Organen voor het Beroepsonderwijs (LOB) voor het jaar 2004
 
 ### 1. Inleiding

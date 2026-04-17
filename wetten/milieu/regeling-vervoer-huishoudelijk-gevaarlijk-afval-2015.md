@@ -1,13 +1,39 @@
 ---
-title: "Regeling vervoer huishoudelijk gevaarlijk afval 2015"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 juni 2015, nr. IENM/BSK-2015/124646, houdende regels met betrekking tot het vervoer van huishoudelijk gevaarlijk afval (Regeling vervoer huishoudelijk gevaarlijk afval 2015)"
 identifier: "BWBR0036777"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036777"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036777"
+soort: "ministeriele-regeling"
+stam_id: "13198073"
+version_id: "22524242"
+internal_id: "C32308151"
+label_id: "13166364"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036777/2024-01-01/0"
+intitule_bron: "Stcrt.2015-17920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-25"
+intitule_published: "2015-07-01"
+intitule_in_force: "2015-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17920"
+original_signed_date: "2015-06-25"
+original_published_date: "2015-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-17920"
+entry_into_force_date: "2015-07-02"
+jci_1_3: "jci1.3:c:BWBR0036777&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0036777&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vervoer huishoudelijk gevaarlijk afval 2015"
+signed_date: "2015-06-25"
+entry_into_force: "2015-07-02"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 25 juni 2015, nr. IENM/BSK-2015/124646, houdende regels met betrekking tot het vervoer van huishoudelijk gevaarlijk afval (Regeling vervoer huishoudelijk gevaarlijk afval 2015)
 
 Gelet op [artikel 4, derde lid, van het Besluit vervoer gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0008080&artikel=4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Begripsomschrijving
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - **begeleider:** degene die bij het voertuig aanwezig is om het huishoudelijk gevaarlijk afval in ontvangst te nemen;
 
@@ -54,7 +80,7 @@ Besluit:
 
 - **VLG:** [Regeling vervoer over land van gevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0010054).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze regeling is van toepassing op route-inzameling door een chemokar van:
 
@@ -64,7 +90,7 @@ Besluit:
 
 2. Deze regeling is niet van toepassing op het vervoer tussen het depot en de afnemer van het afval.
 
-#### Artikel 3. Beperking toepasselijkheid [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054)
+##### Artikel 3. Beperking toepasselijkheid [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054)
 
 1. De [VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054) is niet van toepassing op het vervoer van ingezamelde huishoudelijke afvalstoffen gedurende de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde route-inzameling, indien wordt voldaan aan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=4&z=2024-01-01&g=2024-01-01) gestelde voorwaarden.
 
@@ -76,7 +102,7 @@ Besluit:
 
 - c. [paragraaf 8.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1) betreffende brandbestrijdingsuitrusting
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 1. Aangeboden gevaarlijke stoffen die niet behoren tot de stoffen bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036777&artikel=2&z=2024-01-01&g=2024-01-01) en stoffen waarvan niet bekend is of niet vastgesteld kan worden wat de aard en klasse van de stof is, worden niet ingenomen.
 
@@ -106,7 +132,7 @@ Besluit:
 
 10. Het voertuig wordt slechts onbeheerd achtergelaten als het deugdelijk is afgesloten.
 
-#### Artikel 5. Vervoerdocumenten
+##### Artikel 5. Vervoerdocumenten
 
 Tijdens de route-inzameling zijn in de chemokar aanwezig:
 
@@ -116,19 +142,19 @@ Tijdens de route-inzameling zijn in de chemokar aanwezig:
 
 - c. Het vakbekwaamheidscertificaat van de begeleiders, bedoeld in [paragraaf 8.2.2.8 van bijlage 1 bij de VLG](https://wetten.overheid.nl/jci1.3:c:BWBR0010054&bijlage=1).
 
-#### Artikel 6. Rookverbod
+##### Artikel 6. Rookverbod
 
 Het is verboden te roken binnen of in de nabijheid van het voertuig.
 
-#### Artikel 7. Intrekking
+##### Artikel 7. Intrekking
 
 De [Regeling vervoer huishoudelijk gevaarlijk afval 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016305) wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vervoer huishoudelijk gevaarlijk afval 2015.
 

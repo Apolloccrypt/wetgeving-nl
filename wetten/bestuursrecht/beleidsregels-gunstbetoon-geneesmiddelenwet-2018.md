@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels gunstbetoon Geneesmiddelenwet 2018"
+title: "Beleidsregels van de Minister voor Medische Zorg van 19 februari 2018, kenmerk 1296993-173358-GMT, inzake gunstbetoon als bedoeld in artikel 94 van de Geneesmiddelenwet (Beleidsregels gunstbetoon Geneesmiddelenwet 2018)"
 identifier: "BWBR0040672"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-04-01
-laatste_update: 2018-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040672"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-04-01"
+last_updated: "2018-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040672"
+soort: "beleidsregel"
+stam_id: "14558693"
+version_id: "24918282"
+internal_id: "C35640461"
+label_id: "14512824"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040672/2018-04-01/0"
+intitule_bron: "Stcrt.2018-11305"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-02-19"
+intitule_published: "2018-03-01"
+intitule_in_force: "2018-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-11305"
+original_signed_date: "2018-02-19"
+original_published_date: "2018-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-11305"
+entry_into_force_date: "2018-04-01"
+jci_1_3: "jci1.3:c:BWBR0040672&z=2018-04-01&g=2018-04-01"
+jci_1_0: "1.0:c:BWBR0040672&g=2018-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels gunstbetoon Geneesmiddelenwet 2018"
+signed_date: "2018-02-19"
+entry_into_force: "2018-04-01"
 ---
-
 # Beleidsregels van de Minister voor Medische Zorg van 19 februari 2018, kenmerk 1296993-173358-GMT, inzake gunstbetoon als bedoeld in artikel 94 van de Geneesmiddelenwet (Beleidsregels gunstbetoon Geneesmiddelenwet 2018)
 
 De Minister voor Medische Zorg besluit de volgende beleidsregels vast te stellen met betrekking tot het begrip gunstbetoon als bedoeld in de [Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505):

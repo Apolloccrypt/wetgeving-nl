@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit stortplaatsen en stortverboden afvalstoffen, enz. (implementatie Beschikking aanvaarding afvalstoffen op stortplaatsen)"
+title: "Besluit van 12 juni 2009, houdende wijziging van diverse besluiten in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (implementatie Beschikking aanvaarding afvalstoffen op stortplaatsen)"
 identifier: "BWBR0025980"
-categorie: "Milieu"
-publicatiedatum: 2009-07-21
-laatste_update: 2009-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025980"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-07-21"
+last_updated: "2009-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025980"
+soort: "AMvB"
+stam_id: "10082663"
+version_id: "16471732"
+internal_id: "C22773731"
+label_id: "10059004"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025980/2009-07-21/0"
+intitule_bron: "Stb.2009-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-12"
+intitule_published: "2009-06-23"
+intitule_in_force: "2009-07-09"
+intitule_status: "goed"
+original_publication: "Stb.2009-250"
+original_signed_date: "2009-06-12"
+original_published_date: "2009-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-250"
+entry_into_force_date: "2009-07-21"
+jci_1_3: "jci1.3:c:BWBR0025980&z=2009-07-21&g=2009-07-21"
+jci_1_0: "1.0:c:BWBR0025980&g=2009-07-21"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit stortplaatsen en stortverboden afvalstoffen, enz. (implementatie Beschikking aanvaarding afvalstoffen op stortplaatsen)"
+signed_date: "2009-06-12"
+entry_into_force: "2009-07-21"
 ---
-
 # Besluit van 12 juni 2009, houdende wijziging van diverse besluiten in verband met de implementatie van beschikking nr. 2003/33/EG tot vaststelling van criteria en procedures voor het aanvaarden van afvalstoffen op stortplaatsen (PbEG L 11) (implementatie Beschikking aanvaarding afvalstoffen op stortplaatsen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 februari 2009, nr. BJZ2009012137, Directie Bestuurlijke en Juridische Zaken;
@@ -20,23 +46,23 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Stortbesluit bodembescherming.
 
-#### Artikel V
+##### Artikel V
 
 1. Het bevoegd gezag draagt ervoor zorg dat vergunningen als bedoeld in [artikel 8.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.1) die voor de datum van inwerkingtreding van dit besluit zijn verleend met betrekking tot stortplaatsen als bedoeld in [artikel 8.47, eerste lid, onder a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.47) op 16 juli 2009 met dit besluit in overeenstemming zijn.
 
@@ -44,7 +70,7 @@ Wijzigt het Stortbesluit bodembescherming.
 
 3. De wijzigingen ingevolge [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0025980&artikel=II&z=2009-07-21&g=2009-07-21) in [artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&artikel=10) zijn met ingang van 16 juli 2009 van toepassing op degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon die een stortplaats als bedoeld in het eerste lid drijft.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,20 +1,46 @@
 ---
-title: "Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost, Zuidoost en Zuid 2022–2030"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 25 januari 2022, nr. IENW/BSK-2021/278136, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost en Zuidoost (Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost en Zuidoost 2022–2026)"
 identifier: "BWBR0046244"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-02-20
-laatste_update: 2026-02-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046244"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-20"
+last_updated: "2026-02-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046244"
+soort: "ministeriele-regeling"
+stam_id: "16247993"
+version_id: "28373742"
+internal_id: "C40017091"
+label_id: "16175424"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046244/2026-02-20/0"
+intitule_bron: "Stcrt.2022-1884"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-25"
+intitule_published: "2022-01-28"
+intitule_in_force: "2022-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-1884"
+original_signed_date: "2022-01-25"
+original_published_date: "2022-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-1884"
+entry_into_force_date: "2022-01-29"
+jci_1_3: "jci1.3:c:BWBR0046244&z=2026-02-20&g=2026-02-20"
+jci_1_0: "1.0:c:BWBR0046244&g=2026-02-20"
+citeertitel_status: "officieel"
+short_title: "Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost, Zuidoost en Zuid 2022–2030"
+signed_date: "2022-01-25"
+entry_into_force: "2022-01-29"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 25 januari 2022, nr. IENW/BSK-2021/278136, houdende regels voor de verstrekking van een specifieke uitkering in verband met de aanleg en verbetering van openbare havenfaciliteiten op de goederenvervoercorridors Oost en Zuidoost (Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost en Zuidoost 2022–2026)
 
 Gelet op [artikel 17, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6), en [7, derde lid, van de Wet mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=7) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=2), [3, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5, onderdelen a tot en met i en l, van de Kaderwet Subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 2, derde lid, van het Kaderbesluit Subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,15 +62,15 @@ In deze regeling wordt verstaan onder:
 
 - **vaarwegen op de goederenvervoercorridors:** de vaarwegen Waal, Maas, Brabantse kanalen, Noordzeekanaal, IJ, Amsterdam-Rijnkanaal, Lekkanaal, Lek, Oude Maas, Nieuwe Maas, Dordtse Kil, Hollandsch Diep, Volkerak, Schelde-Rijnverbinding, Midden-Zeelandroute, Westerschelde en Kanaal van Gent naar Terneuzen.
 
-#### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
+##### Artikel 2. Toepasselijkheid [Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381)
 
 De [artikelen 6, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=9), [10, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=11), [12, aanhef en onderdelen c, q en i](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=13), [14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=14), [17, eerste lid, aanhef en onderdelen a tot en met c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=18), [20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=20), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=21), [22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=22), [23, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=23), en [24, eerste lid, van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=24) zijn van overeenkomstige toepassing op deze regeling.
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 De Minister verleent een specifieke uitkering voor het versnellen van de realisatie van de verbetering van bestaande of uitbreiding van openbare havenvoorzieningen ten behoeve van de binnenvaart in binnenhavens en zeehavens op de goederenvervoercorridors om daarmee een bijdrage te leveren aan de modal shift.
 
-#### Artikel 4. Voor uitkering in aanmerking komende kosten en de hoogte van de uitkering
+##### Artikel 4. Voor uitkering in aanmerking komende kosten en de hoogte van de uitkering
 
 1. Voor een specifieke uitkering komen de kosten voor de verwerving, aanleg of verbetering van openbare infrastructuur of openbare havenvoorzieningen gelegen in binnenhavens of zeehavens zoals de verwerving en aanlegkosten voor additionele openbare depotruimte voor de opslag van containers, de kosten van verdieping van openbare havenbekkens of de kosten voor de aanleg of verbetering van openbare kademuren in aanmerking.
 
@@ -52,7 +78,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 3. Lopende projecten die in het kader van deze regeling reeds eerder een specifieke uitkering hebben ontvangen, kunnen een aanvullende aanvraag indienen mits in die aanvraag aannemelijk wordt gemaakt dat de kosten voor de aanleg van het lopende project door externe invloeden aanmerkelijk hoger zijn uitgevallen ten opzichte van de in de eerdere aanvraag opgenomen aanlegkosten.
 
-#### Artikel 5. Uitkeringsplafond en wijze van verdeling
+##### Artikel 5. Uitkeringsplafond en wijze van verdeling
 
 1. Het uitkeringsplafond bedraagt in totaal € 11.640.000,–.
 
@@ -70,7 +96,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 8. Indien twee of meer projecten op dezelfde plaats in de rangschikking terechtkomen, wordt door middel van loting de definitieve plaats in de rangschikking bepaald.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. Het college van gedeputeerde staten van een provincie kan een specifieke uitkering aanvragen voor een publiek-privaat haveninitiatief gelegen aan een van de vaarwegen op een van de goederenvervoercorridors en daarop aansluitende vaarwegen ten behoeve van de realisatie van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=3&z=2026-02-20&g=2026-02-20) omschreven doel.
 
@@ -94,7 +120,7 @@ De Minister verleent een specifieke uitkering voor het versnellen van de realisa
 
 8. In geval van een onvolledige aanvraag wordt de aanvrager in de gelegenheid gesteld de aanvraag binnen twee weken aan te vullen met de gegevens die op grond van dit artikel zijn vereist.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De Minister beslist afwijzend op een aanvraag om een uitkering, indien:
 
@@ -104,19 +130,19 @@ De Minister beslist afwijzend op een aanvraag om een uitkering, indien:
 
 - c. de private investeringsomvang bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=6&z=2026-02-20&g=2026-02-20), niet is aangetoond.
 
-#### Artikel 8. Verlening
+##### Artikel 8. Verlening
 
 1. De beschikking tot verlening van de specifieke uitkering bevat in ieder geval het bedrag dat betrekking heeft op de compensabele BTW-component die wordt toegevoegd aan het BTW-compensatiefonds.
 
 2. Een uitkering ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 9. Voorschotverlening
+##### Artikel 9. Voorschotverlening
 
 1. De Minister verstrekt een voorschot van 75%.
 
 2. Dit voorschot wordt betaald binnen 6 weken na bekendmaking van de beschikking tot verlening.
 
-#### Artikel 10. Verplichtingen ontvanger
+##### Artikel 10. Verplichtingen ontvanger
 
 1. Een project is binnen 12 maanden na de toekenning van de specifieke uitkering gestart en wordt binnen twee en een half jaar voltooid te rekenen vanaf het moment van toekenning.
 
@@ -124,19 +150,19 @@ De Minister beslist afwijzend op een aanvraag om een uitkering, indien:
 
 3. De ontvanger levert jaarlijks op 1 maart een schriftelijk verslag aan de Minister aan over de voortgang van het project en de bijdrage aan de doelstellingen van de modal shift over het voorafgaande jaar.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De ontvanger legt verantwoording af over de besteding van de uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 De Minister stelt de uitkering vast op 31 december van het jaar waarin de laatste verantwoording, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046244&artikel=13&z=2026-02-20&g=2026-02-20), heeft plaatsgevonden.
 
-#### Artikel 13. Evaluatieverslag
+##### Artikel 13. Evaluatieverslag
 
 De Minister publiceert voor 1 juli 2031 een verslag over de doeltreffendheid en de effecten van de uitkeringen in de praktijk.
 
-#### Artikel 14. Inwerkingtreding en horizonbepaling
+##### Artikel 14. Inwerkingtreding en horizonbepaling
 
 1. Deze regeling treedt op 1 januari 2022 in werking.
 
@@ -144,7 +170,7 @@ De Minister publiceert voor 1 juli 2031 een verslag over de doeltreffendheid en 
 
 3. Deze regeling vervalt op 31 december 2030, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn aangevraagd, verleend of vastgesteld.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Specifieke uitkering versterking havenvoorzieningen goederenvervoercorridors Oost, Zuidoost en Zuid 2022–2030.
 

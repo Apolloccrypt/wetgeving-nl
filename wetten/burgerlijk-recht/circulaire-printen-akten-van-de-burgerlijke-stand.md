@@ -1,13 +1,38 @@
 ---
 title: "Circulaire printen akten van de burgerlijke stand"
 identifier: "BWBR0043228"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2020-02-28
-laatste_update: 2020-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043228"
+country: "nl"
+rank: "circulaire"
+publication_date: "2020-02-28"
+last_updated: "2020-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043228"
+soort: "circulaire"
+stam_id: "15352163"
+version_id: "26528942"
+internal_id: "C37656891"
+label_id: "15297174"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043228/2020-02-28/0"
+intitule_bron: "Stcrt.2020-11616"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-17"
+intitule_published: "2020-02-28"
+intitule_in_force: "2020-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-11616"
+original_signed_date: "2020-02-17"
+original_published_date: "2020-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-11616"
+entry_into_force_date: "2020-02-28"
+jci_1_3: "jci1.3:c:BWBR0043228&z=2020-02-28&g=2020-02-28"
+jci_1_0: "1.0:c:BWBR0043228&g=2020-02-28"
+citeertitel_status: "redactioneel"
+signed_date: "2020-02-17"
+entry_into_force: "2020-02-28"
 ---
-
 # Circulaire printen akten van de burgerlijke stand
 
 Aan de ambtenaren van de burgerlijke stand

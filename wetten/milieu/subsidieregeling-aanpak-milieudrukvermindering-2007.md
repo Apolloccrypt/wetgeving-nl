@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling aanpak milieudrukvermindering 2007"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)"
 identifier: "BWBR0021493"
-categorie: "Milieu"
-publicatiedatum: 2008-02-22
-laatste_update: 2008-02-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021493"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-22"
+last_updated: "2008-02-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021493"
+soort: "ministeriele-regeling"
+stam_id: "8992523"
+version_id: "14305362"
+internal_id: "C19460341"
+label_id: "8971664"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021493/2008-02-22/0"
+intitule_bron: "Stcrt.2007-52"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-03-09"
+intitule_published: "2007-03-14"
+intitule_in_force: "2007-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-52"
+original_signed_date: "2007-03-09"
+original_published_date: "2007-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-52-p10-SC79656"
+entry_into_force_date: "2007-03-27"
+jci_1_3: "jci1.3:c:BWBR0021493&z=2008-02-22&g=2008-02-22"
+jci_1_0: "1.0:c:BWBR0021493&g=2008-02-22"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling aanpak milieudrukvermindering 2007"
+signed_date: "2007-03-09"
+entry_into_force: "2007-03-27"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2007, nr. SAS2007015288, houdende regels met betrekking tot subsidies aan gemeenten om hen te stimuleren tot het verminderen van milieudruk door het bevorderen van preventie en scheiding van huishoudelijke afvalstoffen (Subsidieregeling aanpak milieudrukvermindering 2007)
 
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -60,11 +86,11 @@ Besluit:
 
 2. Deze regeling is van toepassing op de volgende categorieën van huishoudelijke afvalstoffen: groente-, fruit- en tuinafval, papier en karton, glas, textiel, wit- en bruingoed, klein chemisch afval en grove huishoudelijke afvalstoffen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Op grond van deze regeling wordt subsidie verleend aan gemeenten, stadsdelen of samenwerkingsverbanden voor het nemen van maatregelen om het niveau van afvalpreventie en afvalscheiding, voor zover het huishoudelijke afvalstoffen betreft, te verhogen en daarmee de milieudruk, veroorzaakt door het verwijderen van deze afvalstoffen, zo veel mogelijk te verminderen.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 1. Een aanvragende gemeente, een aanvragend stadsdeel of een aan een samenwerkingsverband deelnemende gemeente of deelnemend stadsdeel kan slechts voor subsidie in aanmerking komen voor een plusproject, indien:
 
@@ -90,7 +116,7 @@ Op grond van deze regeling wordt subsidie verleend aan gemeenten, stadsdelen of 
 
 4. In het kalenderjaar 2007 wordt per gemeente of stadsdeel voor slechts één plusproject subsidie verstrekt.
 
-#### Artikel 4. Beoordelingscriteria
+##### Artikel 4. Beoordelingscriteria
 
 Aanvragen tot subsidieverlening worden beoordeeld op de volgende aspecten:
 
@@ -102,7 +128,7 @@ Aanvragen tot subsidieverlening worden beoordeeld op de volgende aspecten:
 
 - d. de wijze waarop de maatregelen in het plan van aanpak aansluiten op de resultaten van de nulmeting.
 
-#### Artikel 5. Afwijzingsgronden
+##### Artikel 5. Afwijzingsgronden
 
 Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
@@ -110,7 +136,7 @@ Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
 - b. op grond van de aspecten, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=4&z=2008-02-22&g=2008-02-22), wordt vastgesteld dat het project een te geringe bijdrage levert aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021493&artikel=2&z=2008-02-22&g=2008-02-22) genoemde doelstelling.
 
-#### Artikel 6. Subsidiabele kosten
+##### Artikel 6. Subsidiabele kosten
 
 1. Als subsidiabele kosten worden in aanmerking genomen:
 
@@ -138,19 +164,19 @@ Een aanvraag tot subsidieverlening wordt afgewezen indien:
 
 - d. onderzoek naar en planvorming voor mogelijk uit te voeren maatregelen.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 De subsidie voor een plusproject bedraagt 50% van de subsidiabele kosten met een maximumbedrag van € 2,– per inwoner van het gebied waarop het project betrekking heeft.
 
-#### Artikel 8. Verplichtingen van de subsidieontvanger
+##### Artikel 8. Verplichtingen van de subsidieontvanger
 
 De subsidieontvanger is verplicht een geactualiseerd overzicht van activiteiten als bedoeld in [artikel 13, eerste lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13) elk jaar aan SenterNovem te verstrekken overeenkomstig een door SenterNovem vastgesteld model.
 
-#### Artikel 9. Subsidieplafond
+##### Artikel 9. Subsidieplafond
 
 Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.
 
-#### Artikel 10. Aanvraag tot subsidieverlening en subsidievaststelling
+##### Artikel 10. Aanvraag tot subsidieverlening en subsidievaststelling
 
 1. Een aanvraag tot subsidieverlening voor een project als bedoeld in deze regeling wordt ingediend door een Nederlandse gemeente dan wel een Nederlands stadsdeel of samenwerkingsverband.
 
@@ -164,17 +190,17 @@ Het subsidieplafond voor het kalenderjaar 2007 bedraagt € 1.500.000,–.
 
 6. Een aanvraag tot subsidievaststelling wordt in het jaar na voltooiing van het project ingediend door aan Onze Minister de verantwoordingsinformatie te verstrekken op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De [Subsidieregeling aanpak milieudrukvermindering 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019855) wordt ingetrokken.
 
 2. De in het eerste lid genoemde regeling, zoals ze luidde voor het tijdstip waarop deze regeling in werking is getreden, blijft van toepassing op subsidies voor projecten die vóór dat tijdstip op grond van die regeling zijn aangevraagd.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 27 maart 2007.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling aanpak milieudrukvermindering 2007.
 

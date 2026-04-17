@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag inzake opsporing en redding op zee, 1979"
 identifier: "BWBV0003096"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-07-01
-laatste_update: 2006-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003096"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-07-01"
+last_updated: "2006-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003096"
+soort: "verdrag"
+stam_id: "10003331663"
+version_id: "10003361692"
+internal_id: "C10006980871"
+label_id: "10003317414"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003096/2006-07-01/0"
+intitule_bron: "Trb.1980-181"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-11-24"
+intitule_in_force: "1984-09-24"
+intitule_status: "goed"
+original_publication: "Trb.1980-181"
+original_published_date: "1980-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-181"
+entry_into_force_date: "1985-06-22"
+jci_1_3: "jci1.3:c:BWBV0003096&z=2006-07-01&g=2006-07-01"
+jci_1_0: "1.0:c:BWBV0003096&g=2006-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-06-22"
 ---
-
 # Internationaal Verdrag inzake opsporing en redding op zee, 1979
 
 De Verdragsluitende Partijen,
@@ -22,17 +44,17 @@ Geleid door de wens de samenwerking te bevorderen tussen de organisaties op het 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen krachtens het Verdrag
+##### Artikel 1. Algemene verplichtingen krachtens het Verdrag
 
 De Partijen verbinden zich ertoe, alle wettelijke of andere passende maatregelen te nemen die nodig zijn voor de volledige uitvoering van het Verdrag en de bijbehorende Bijlage, die een integrerend deel van het Verdrag vormt. Tenzij uitdrukkelijk anders vermeld, houdt een verwijzing naar het Verdrag tevens een verwijzing naar de Bijlage daarbij in.
 
-#### Artikel II. Andere verdragen en interpretatie
+##### Artikel II. Andere verdragen en interpretatie
 
 1. Niets in dit Verdrag doet afbreuk aan de codificering en ontwikkeling van het zeerecht door de Conferentie van de Verenigde Naties inzake het zeerecht, bijeengeroepen ingevolge Resolutie 2750 (XXV) van de Algemene Vergadering van de Verenigde Naties, noch aan de huidige of toekomstige aanspraken en rechtsopvattingen van een staat met betrekking tot het zeerecht en de aard en de omvang van de jurisdictie van kuststaten en vlagstaten.
 
 2. Geen enkele bepaling in dit Verdrag mag zodanig worden opgevat, alsof deze afbreuk doet aan verplichtingen of rechten van schepen, vervat in andere internationale akten.
 
-#### Artikel III. Wijzigingen
+##### Artikel III. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd volgens één van de twee hierna in het tweede en het derde lid aangegeven procedures.
 
@@ -72,7 +94,7 @@ De Partijen verbinden zich ertoe, alle wettelijke of andere passende maatregelen
 
 5. De Secretaris-Generaal stelt alle Staten in kennis van alle wijzigingen die van kracht worden, alsmede van de data waarop deze wijzigingen van kracht worden.
 
-#### Artikel IV. Ondertekening bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel IV. Ondertekening bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat open voor ondertekening op het hoofdkantoor van de Organisatie van 1 november 1979 tot 31 oktober 1980 en staat daarna open voor toetreding.
 
@@ -88,7 +110,7 @@ Staten kunnen partij bij dit Verdrag worden door:
 
 3. De Secretaris-Generaal stelt alle Staten in kennis van iedere ondertekening of van de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, alsmede van de datum van nederlegging ervan.
 
-#### Artikel V. Inwerkingtreding
+##### Artikel V. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop vijftien Staten partij daarbij zijn geworden overeenkomstig het bepaalde in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003096&artikel=IV&z=2006-07-01&g=2006-07-01).
 
@@ -100,7 +122,7 @@ Staten kunnen partij bij dit Verdrag worden door:
 
 5. De Secretaris-Generaal stelt alle Staten in kennis van de datum van inwerkingtreding van dit Verdrag.
 
-#### Artikel VI. Opzegging
+##### Artikel VI. Opzegging
 
 1. Dit Verdrag kan te allen tijde door een Partij worden opgezegd na verloop van vijf jaar na de datum waarop dit Verdrag voor die Partij in werking is getreden.
 
@@ -108,13 +130,13 @@ Staten kunnen partij bij dit Verdrag worden door:
 
 3. Een opzegging wordt van kracht één jaar, of zulk een langere periode als is aangegeven in de akte van opzegging, na ontvangst ervan door de Secretaris-Generaal.
 
-#### Artikel VII. Nederlegging en registratie
+##### Artikel VII. Nederlegging en registratie
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal, die voor eensluidend gewaarmerkte afschriften ervan toezendt aan de Staten.
 
 2. Zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst ervan toe aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel VIII. Talen
+##### Artikel VIII. Talen
 
 Dit Verdrag is opgesteld in een exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij iedere tekst gelijkelijk authentiek is. Er zullen officiële vertalingen in de Arabische, de Duitse en de Italiaanse taal worden vervaardigd en nedergelegd bij het ondertekende origineel.
 

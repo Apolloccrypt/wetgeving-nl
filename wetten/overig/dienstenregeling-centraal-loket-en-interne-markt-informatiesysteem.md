@@ -1,13 +1,39 @@
 ---
-title: "Dienstenregeling centraal loket en interne markt informatiesysteem"
+title: "Regeling van de Minister van Economische Zaken van 27 november 2009, nr. WJZ/9214712, houdende regels met betrekking tot het centraal loket en het interne markt informatiesysteem (Dienstenregeling centraal loket en interne markt informatiesysteem)"
 identifier: "BWBR0026766"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026766"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026766"
+soort: "ministeriele-regeling"
+stam_id: "10300173"
+version_id: "16990162"
+internal_id: "C23426451"
+label_id: "10275854"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026766/2024-01-01/0"
+intitule_bron: "Stcrt.2009-18558"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-27"
+intitule_published: "2009-12-07"
+intitule_in_force: "2009-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20180"
+original_signed_date: "2009-12-18"
+original_published_date: "2009-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2009-20180"
+entry_into_force_date: "2009-12-18"
+jci_1_3: "jci1.3:c:BWBR0026766&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0026766&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Dienstenregeling centraal loket en interne markt informatiesysteem"
+signed_date: "2009-12-18"
+entry_into_force: "2009-12-18"
 ---
-
 # Regeling van de Minister van Economische Zaken van 27 november 2009, nr. WJZ/9214712, houdende regels met betrekking tot het centraal loket en het interne markt informatiesysteem (Dienstenregeling centraal loket en interne markt informatiesysteem)
 
 Gelet op de artikelen 6, 8 en 21 van [richtlijn nr. 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), de beschikking 2009/739/EG van de Commissie van 2 oktober 2009 tot vaststelling van de praktische regels voor de uitwisseling van informatie via elektronische middelen tussen de lidstaten uit hoofde van hoofdstuk VI van [richtlijn nr. 2006/123/EG](32006L0123) van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de diensten op de interne markt (PbEU L 376), en de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=10), [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=13), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14), [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=21), [52](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=52) en [60 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=60), [artikel 8, van het Dienstenbesluit centraal loket](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&artikel=8) en [artikel 2:15, eerste lid, tweede volzin, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:15);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De inrichting van het centraal loket voor procedure- en bijstandsberichten
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een berichtenbox kan worden aangemaakt voor een dienstverrichter of een bevoegde instantie.
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 3. Een dienstverrichter of een bevoegde instantie die over een berichtenbox en daarop betrekking hebbende toegangsgegevens beschikt, kan via de webinterface berichtenbox toegang tot die berichtenbox verkrijgen.
 
-#### Artikel 3
+##### Artikel 3
 
 Een bevoegde instantie die via de webinterface berichtenbox toegang tot een berichtenbox heeft, wordt daarnaast de mogelijkheid geboden tot diezelfde berichtenbox toegang te verkrijgen door middel van een koppelvlak voor procedureberichten.
 
-#### Artikel 4
+##### Artikel 4
 
 Een dienstverrichter of een bevoegde instantie met toegang tot een berichtenbox, heeft:
 
@@ -64,7 +90,7 @@ Een dienstverrichter of een bevoegde instantie met toegang tot een berichtenbox,
 
 - b. via die berichtenbox toegang tot een lijst met adresseringsgegevens van alle berichtenboxen die voor bevoegde instanties zijn aangemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een dienstverrichter met toegang tot een berichtenbox kan:
 
@@ -80,23 +106,23 @@ Een dienstverrichter of een bevoegde instantie met toegang tot een berichtenbox,
 
 3. Een dienstverrichter met toegang tot een berichtenbox die een procedurebericht ontvangt, krijgt daarmee tevens de beschikking over de adresseringsgegevens van de berichtenbox van waaruit het bericht is verzonden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een bevoegde instantie met toegang tot een berichtenbox kan van daaruit een procedurebericht verzenden naar een berichtenbox toegankelijk voor een dienstverrichter of een bevoegde instantie.
 
 2. [Artikel 5, eerste lid, onderdelen a, c en d, het tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), zijn van overeenkomstige toepassing op een bevoegde instantie met toegang tot een berichtenbox.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een dienstverrichter of bevoegde instantie een procedurebericht vanuit een berichtenbox naar een andere berichtenbox zendt, wordt binnen het centraal loket het tijdstip geregistreerd waarop dat bericht de andere berichtenbox bereikt en wordt dit tijdstip op een voor de ontvanger toegankelijke wijze aan het desbetreffende bericht gehecht.
 
 2. Bij een registratie van een tijdstip als bedoeld in het eerste lid, wordt in ieder geval tevens geregistreerd de berichtenbox van waaruit het procedurebericht is verzonden.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die berichtenbox een automatisch aangemaakt bericht verzonden naar een of meer systemen voor gegevensverwerking van de bevoegde instantie, dienstverrichter of persoon of ander als bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), die toegang tot die berichtenbox heeft, met de mededeling dat een nieuw bericht in die berichtenbox aanwezig is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vernietigingstermijn, bedoeld in [artikel 13, tweede lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=13), wordt gesteld op vijf jaren te rekenen vanaf de aanwezigheid van een bericht in een berichtenbox. Voor de toepassing van de vorige volzin wordt onder bericht tevens een afschrift van een bericht verstaan.
 
@@ -104,7 +130,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 3. Bij de vernietiging van een bericht, bedoeld in het eerste lid, wordt tevens het bericht van aankondiging, bedoeld in het tweede lid, vernietigd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er is een machtigingsvoorziening berichtenbox beschikbaar, waarvan een dienstverrichter met toegang tot een berichtenbox gebruik kan maken via de website die deel uitmaakt van het centraal loket.
 
@@ -114,13 +140,13 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing op een bevoegde instantie met toegang tot een berichtenbox.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Er is een verwijzingscatalogus loketinformatie beschikbaar met behulp waarvan een complex webformulier kan worden ontsloten via de website die van het centraal loket deel uitmaakt.
 
 2. Vervallen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een kritische functie van het centraal loket is gedurende ieder kalenderjaar ten minste 97 procent van de tijd beschikbaar.
 
@@ -130,7 +156,7 @@ Indien een verzonden procedurebericht een berichtenbox bereikt, wordt vanuit die
 
 4. Bij een geplande uitvoering van onderhoud, vervanging of uitbreiding met betrekking tot het centraal loket, zijn de kritische functies van dit loket gedurende die uitvoering ten hoogste tweemaal per kalendermaand in de nachten van vrijdag op zaterdag tussen 01.00 uur en 07.00 uur niet beschikbaar.
 
-#### Artikel 13
+##### Artikel 13
 
 De nodige maatregelen van technische en organisatorische aard ter beveiliging van het centraal loket, bedoeld in [artikel 7, eerste tot en met derde lid, van het Dienstenbesluit centraal loket](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&artikel=7) hebben in ieder geval betrekking op:
 
@@ -156,13 +182,13 @@ De nodige maatregelen van technische en organisatorische aard ter beveiliging va
 
 - k. het vaststellen en beschrijven van verantwoordelijkheden en te volgen werkprocessen in het geval van een calamiteit, waaronder de beschikbaarheid van uitwijkfaciliteiten voor dat geval.
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01) zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor ‘een bevoegde instantie’ telkens wordt gelezen Onze Minister, voor ‘dienstverrichter’: zakelijke afnemer, en voor ‘procedurebericht’: bijstandsbericht.
 
 #### § 3. De toegang tot het centraal loket
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor een dienstverrichter wordt een berichtenbox aangemaakt en komen toegangsgegevens beschikbaar, indien hij via het centraal loket aan Onze Minister de aanmeldingsgegevens, bedoeld in paragraaf 2 van de bijlage bij deze regeling, verstrekt.
 
@@ -170,7 +196,7 @@ De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&pa
 
 3. Een dienstverrichter met toegang tot een berichtenbox kan met behulp van de machtigingsvoorziening berichtenbox toegang tot die berichtenbox verschaffen aan een persoon die voor hem werkzaam is of aan een ander die in zijn opdracht betrokken is bij de afwikkeling van procedures en formaliteiten, indien de dienstverrichter de aanmeldingsgegevens, bedoeld in paragraaf 3 van de bijlage bij deze regeling, aan Onze Minister heeft verstrekt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Ten behoeve van een bevoegde instantie wordt een berichtenbox aangemaakt en komen toegangsgegevens beschikbaar om via de webinterface berichtenbox toegang tot die berichtenbox te kunnen verkrijgen, indien een persoon die namens die bevoegde instantie met het realiseren hiervan is belast aan Onze Minister verstrekt:
 
@@ -182,7 +208,7 @@ De [artikelen 1 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&pa
 
 2. Een bevoegde instantie waarvoor een berichtenbox is aangemaakt en die over toegangsgegevens beschikt, heeft toegang tot die berichtenbox indien zij zorg draagt voor een verbinding tussen een eigen systeem voor gegevensverwerking en de webinterface berichtenbox.
 
-#### Artikel 17
+##### Artikel 17
 
 Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01) toegang heeft tot een berichtenbox, heeft vervolgens tevens tot die berichtenbox toegang door middel van een aansluiting op het koppelvlak voor procedureberichten, indien:
 
@@ -190,7 +216,7 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 - b. zij met inachtneming van de specificaties en kenmerken van dat koppelvlak zorg draagt voor een verbinding die tot stand komt tussen een systeem voor gegevensverwerking waar zij toegang tot heeft en die berichtenbox.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een complex webformulier wordt met behulp van de verwijzingscatalogus loketinformatie ontsloten via de website die van het centraal loket deel uitmaakt, indien een bevoegde instantie:
 
@@ -204,7 +230,7 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 3. Een bevoegde instantie kan in plaats van te voldoen aan de voorwaarden, bedoeld in het eerste lid, onderdelen b en c, aan Onze Minister schriftelijk meedelen zelf telkens onverwijld zorg te zullen dragen voor het verzenden van een afschrift van een ontvangen complex webformulier naar de berichtenbox van een dienstverrichter, die de wens daartoe voldoende kenbaar heeft gemaakt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ten behoeve van een goede uitvoering door Onze Minister van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=7) en [17, onderdelen a, c, en e, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=17), voldoet een bevoegde instantie met betrekking tot de informatie, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=8) en [19 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=19), aan de specificaties en kenmerken, bedoeld in paragraaf 5 van de bijlage van deze regeling, waardoor metagegevens die op die informatie betrekking hebben worden aangemaakt en beschikbaar worden gesteld voor opname in de verwijzingscatalogus loketinformatie.
 
@@ -212,13 +238,13 @@ Een bevoegde instantie die met inachtneming van [artikel 16](https://wetten.over
 
 3. Het tweede lid is niet van toepassing op informatie die op het niveau van de rijksoverheid wordt vastgesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 #### § 3a. Het gebruik van elektronische handtekeningen
 
-#### Artikel 21
+##### Artikel 21
 
 Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=55), vervult in het interne markt informatiesysteem de functionaliteiten van:
 
@@ -228,13 +254,13 @@ Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overh
 
 - c. coördinator, bedoeld in artikel 4, onderdeel d, van de Uitvoeringsbeschikking IMI.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een bevoegde instantie neemt een verzoek als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=37), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=40) of [41 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=41) in behandeling door het verzoek via het interne markt informatiesysteem te accepteren of het door te zenden naar een andere bevoegde instantie of naar het contactpunt.
 
 2. Een bevoegde instantie kan via het interne markt informatiesysteem ten aanzien van een verzoek als bedoeld in de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=37), [39 tot en met 41](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=39) of [44 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=44) aanvullende informatie verzoeken of verzenden.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Via het interne markt informatiesysteem kan een bevoegde instantie die betrokken is bij een of meer eisen of vergunningstelsels als bedoeld in [artikel 2 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=2) ten aanzien van een door hem verzonden kennisgeving als bedoeld in [artikel 51 van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=51):
 
@@ -260,13 +286,13 @@ Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overh
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. In afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), draagt Onze Minister er zorg voor dat een toegang voor een bevoegde instantie tot een betafase-berichtenbox vanaf het tijdstip van inwerkingtreding van deze regeling is omgezet in een toegang tot een berichtenbox via de webinterface berichtenbox.
 
 2. In afwijking van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=20&z=2024-01-01&g=2024-01-01) draagt Onze Minister er zorg voor dat een bevoegde instantie die voorafgaand aan de inwerkingtreding van deze regeling toegang tot de hulpvoorziening loketinformatie had, vanaf het tijdstip van inwerkingtreding van deze regeling toegang tot die hulpvoorziening kan blijven behouden.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=3&artikel=19&z=2024-01-01&g=2024-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2024-01-01&g=2024-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2024-01-01&g=2024-01-01).
 
@@ -274,7 +300,7 @@ Het contactpunt, bedoeld in [artikel 55 van de Dienstenwet](https://wetten.overh
 
 3. De [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=22&z=2024-01-01&g=2024-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0026766&paragraaf=4&artikel=23&z=2024-01-01&g=2024-01-01) treden in werking met ingang van 28 december 2009.
 
-#### Artikel 26
+##### Artikel 26
 
 Deze regeling wordt aangehaald als: Dienstenregeling centraal loket en interne markt informatiesysteem.
 
@@ -302,7 +328,7 @@ De aanmeldingsgegevens, bedoeld in [artikel 15, derde lid](https://wetten.overhe
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Voor de toepassing van [artikel 14, vijfde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14) zijn de genoemde elektronische handtekeningen, bedoeld in de aanhef van dat artikellid de elektronische handtekeningen, die:
 
@@ -334,7 +360,7 @@ Onder de specificaties en kenmerken, bedoeld in [artikel 18, eerste lid, onderde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 20b
+##### Artikel 20b
 
 Het centraal loket is zodanig ingericht dat het ten behoeve van de bevoegde instanties documenten kan verwerken die elektronisch ondertekend zijn met een geavanceerde elektronische XML-, CMS- of PDF-handtekening in het BES- of EPES-formaat en die voldoet aan de technische specificaties uit de bijlage van besluit nr. 2011/130/EU van de Commissie van 25 februari 2011 tot vaststelling van minimumvoorschriften voor de grensoverschrijdende verwerking van documenten die door de bevoegde autoriteiten elektronisch zijn ondertekend krachtens Richtlijn 2006/123/EG van het Europees Parlement en de Raad betreffende diensten op de interne markt (PbEU L 53).
 

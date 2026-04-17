@@ -1,13 +1,39 @@
 ---
-title: "Regeling studiefinanciering BES"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 juni 2011, nr. 303947 (4903), houdende regelen omtrent de studiefinanciering BES (Regeling studiefinanciering BES)"
 identifier: "BWBR0030183"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030183"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030183"
+soort: "ministeriele-regeling-BES"
+stam_id: "11374403"
+version_id: "25010082"
+internal_id: "C35771421"
+label_id: "11348124"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030183/2026-01-01/0"
+intitule_bron: "Stcrt.2011-11448"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-20"
+intitule_published: "2011-06-30"
+intitule_in_force: "2011-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-25998"
+original_signed_date: "2018-05-01"
+original_published_date: "2018-05-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-25998"
+entry_into_force_date: "2018-05-12"
+jci_1_3: "jci1.3:c:BWBR0030183&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0030183&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling studiefinanciering BES"
+signed_date: "2018-05-01"
+entry_into_force: "2018-05-12"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 juni 2011, nr. 303947 (4903), houdende regelen omtrent de studiefinanciering BES (Regeling studiefinanciering BES)
 
 Gelet op de [artikelen 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=1.1), [2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.3), [4.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), [4.9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.9), [5.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=5.2), en [7.2 van de Wet studiefinanciering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.2);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Criteria opleidingen anders dan opleidingen als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) en de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395)
 
-#### Artikel 2. Criteria
+##### Artikel 2. Criteria
 
 1. Voor opleidingen vergelijkbaar met opleidingen als bedoeld in de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) en de [WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) gelden de volgende criteria:
 
@@ -46,11 +72,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. De aanvraag
 
-#### Artikel 3.1. Formulieren en verzending
+##### Artikel 3.1. Formulieren en verzending
 
 Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een opstarttoelage, worden door de student verstrekt door invulling en inlevering of elektronische verzending van daartoe bestemde door de Minister te verstrekken formulieren.
 
-#### Artikel 3.2. Aanvraagprocedure
+##### Artikel 3.2. Aanvraagprocedure
 
 1. In de aanvraag om toekenning van studiefinanciering BES of een opstarttoelage worden een prestatiebeurs, een lening of beide aangevraagd.
 
@@ -58,7 +84,7 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een ops
 
 ### Hoofdstuk 3a. Uitbetaling
 
-#### Artikel 4.1. Aflosvrije periode
+##### Artikel 4.1. Aflosvrije periode
 
 1. Op aanvraag van de debiteur kan de terugbetaling, bedoeld in [artikel 4.7, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.7), worden opgeschort met een of meer aflosvrije periodes.
 
@@ -68,13 +94,13 @@ Gegevens die nodig zijn voor de toekenning van studiefinanciering BES of een ops
 
 4. Voor elke aflosvrije periode wordt een nieuwe aanvraag ingediend bij de Minister.
 
-#### Artikel 4.2. Wijze van terugbetaling
+##### Artikel 4.2. Wijze van terugbetaling
 
 Vervallen
 
 ### Hoofdstuk 5. Herziening
 
-#### Artikel 5.1. Verrekening en terugbetaling
+##### Artikel 5.1. Verrekening en terugbetaling
 
 1. Indien uit een beschikking tot herziening als bedoeld in [artikel 5.1, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=5.1) blijkt dat te veel studiefinanciering is uitbetaald, wordt dit op de voet van het tweede en derde lid verrekend met nog te verrichten betalingen op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393).
 
@@ -88,29 +114,29 @@ Vervallen
 
 6. Indien het bedrag, bedoeld in het vijfde lid, niet op de vervaldatum is ontvangen, wordt dit bedrag omgezet in een rentedragende lening als bedoeld in [artikel 4.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=4.13).
 
-#### Artikel 5.2. Aanpassing
+##### Artikel 5.2. Aanpassing
 
 Aanpassing van het bedrag, bedoeld in [artikel 5.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030183&hoofdstuk=5&artikel=5.1&z=2026-01-01&g=2026-01-01), geschiedt overeenkomstig [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=8.1).
 
 ### Hoofdstuk 4. Terugbetaling studieschuld
 
-#### Artikel 6. Verstrekken inlichtingen
+##### Artikel 6. Verstrekken inlichtingen
 
 De inlichtingen, bedoeld in de [artikelen 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.1) en [7.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.2), worden op verzoek verstrekt op de bij dat verzoek aangegeven wijze.
 
 ### Hoofdstuk 6. Wijze van verstrekken van inlichtingen door instellingen
 
-#### Artikel 7.1. Inwerkingtreding
+##### Artikel 7.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang 1 augustus 2011.
 
-#### Artikel 7.2. Citeertitel
+##### Artikel 7.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling studiefinanciering BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studenten aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
+##### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studenten aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
 
 1. Uitbetaling van de studiefinanciering BES vindt plaats in twee termijnen, indien het een opleiding in een van de volgende landen betreft:
 
@@ -138,7 +164,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a.2. Gegevensuitwisseling met Inspectie SZW
+##### Artikel 3a.2. Gegevensuitwisseling met Inspectie SZW
 
 1. De Minister verstrekt gegevens als bedoeld in [artikel 7.4a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.4a), slechts op verzoek van de Inspectie SZW.
 
@@ -148,7 +174,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De Minister bewaart het informatieverzoek van de Inspectie SZW niet.
 
-#### Artikel 3a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
+##### Artikel 3a.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
 
 1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), vindt plaats via een beveiligde verbinding tussen de Minister en de Inspectie SZW. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
 
@@ -156,7 +182,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 3a. Uitbetaling
 
-#### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studerenden aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
+##### Artikel 3a.1. Uitbetaling studiefinanciering BES voor studerenden aan een opleiding in Barbados, Colombia, Puerto Rico, en de Verenigde Staten
 
 1. Uitbetaling van de studiefinanciering BES vindt plaats in twee termijnen, indien het een opleiding in een van de volgende landen betreft:
 
@@ -182,7 +208,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3b.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
+##### Artikel 3b.1. Wijze van en waarborgen voor verwerking van een melding van de diensten over een uitreiziger
 
 1. Indien de Minister heeft besloten dat een student een uitreiziger is als bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), krijgt de betreffende persoon in het studiefinancieringssysteem een markering.
 
@@ -192,7 +218,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De Minister bewaart gegevens met betrekking tot de melding, bedoeld in [artikel 2.10a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), en de markering, bedoeld in het eerste lid, niet langer dan noodzakelijk voor de toepassing van artikel 2.10a van de wet.
 
-#### Artikel 3b.2. Gegevensuitwisseling met Nederlandse Arbeidsinspectie
+##### Artikel 3b.2. Gegevensuitwisseling met Nederlandse Arbeidsinspectie
 
 1. De Minister verstrekt gegevens als bedoeld in [artikel 7.4a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=7.4a), slechts op verzoek van de Nederlandse Arbeidsinspectie.
 
@@ -202,7 +228,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 4. De Minister bewaart het informatieverzoek van de Nederlandse Arbeidsinspectie niet.
 
-#### Artikel 3b.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
+##### Artikel 3b.3. Technische en organisatorische maatregelen ten behoeve van beveiliging
 
 1. De gegevensuitwisseling, benodigd voor de toepassing van [artikel 2.10a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028393&artikel=2.10a), vindt plaats via een beveiligde verbinding tussen de Minister en de Nederlandse Arbeidsinspectie. Tot deze verbinding hebben uitsluitend die medewerkers van de Dienst Uitvoering Onderwijs toegang die het juiste veiligheidsonderzoek hebben ondergaan.
 

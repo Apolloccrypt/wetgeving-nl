@@ -1,18 +1,43 @@
 ---
 title: "Regeling transparantie zorgaanbieders casemanagement dementie"
 identifier: "BWBR0045355"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-07-08
-laatste_update: 2021-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045355"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-07-08"
+last_updated: "2021-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045355"
+soort: "zbo"
+stam_id: "16014473"
+version_id: "27876412"
+internal_id: "C39313741"
+label_id: "15947824"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045355/2021-07-08/0"
+intitule_bron: "Stcrt.2021-34408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-29"
+intitule_published: "2021-07-07"
+intitule_in_force: "2021-07-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-34408"
+original_signed_date: "2021-06-29"
+original_published_date: "2021-07-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-34408"
+entry_into_force_date: "2021-07-08"
+jci_1_3: "jci1.3:c:BWBR0045355&z=2021-07-08&g=2021-07-08"
+jci_1_0: "1.0:c:BWBR0045355&g=2021-07-08"
+citeertitel_status: "officieel"
+signed_date: "2021-06-29"
+entry_into_force: "2021-07-08"
 ---
-
 # Regeling transparantie zorgaanbieders casemanagement dementie
 
 Gelet op [artikel 38, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), juncto vierde lid en [artikelen 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de informatievoorziening door zorgaanbieders.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,15 +73,15 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **fte:** fulltime-equivalent is een rekeneenheid waarin de personeelssterkte of de omvang van een betrekking wordt uitgedrukt.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel wachttijden voor casemanagement dementie op eenduidige wijze transparant en vergelijkbaar te maken voor cliënten. Door het verplicht publiceren van wachttijden voor casemanagement dementie wordt de cliënt op een eenduidige wijze geïnformeerd over de wachttijd tot de start van casemanagement dementie. Om de begrijpelijkheid en de vergelijkbaarheid van de informatie te vergroten en de NZa in staat te stellen de wachttijden nauwgezet te monitoren, verplicht de regeling zorgaanbieders deze informatie aan de NZa te leveren. Ook moeten zorgaanbieders de cliënt wijzen op de mogelijkheid tot wachtlijstbemiddeling door de zorgverzekeraar bij het overschrijden van de Treeknormen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie leveren waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 4. Verplichting aanleveren wachttijden en wachtlijsten
+##### Artikel 4. Verplichting aanleveren wachttijden en wachtlijsten
 
 1. De zorgaanbieder levert per vestigingslocatie aan het Dementienetwerk waarin hij actief is de volgende gegevens aan:
 
@@ -88,7 +113,7 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 3. De zorgaanbieder is zelf verantwoordelijk voor de juiste registratie in het AGB-register. Deze gegevens zijn te wijzigen via AGB-wijzigen.2https://www.vektis.nl/agb-register/agb-wijzigen
 
-#### Artikel 5. Verplichting publiceren wachttijden en wachtlijsten
+##### Artikel 5. Verplichting publiceren wachttijden en wachtlijsten
 
 1. Het Dementienetwerk publiceert van het netwerk in zijn regio de volgende informatie op haar website:
 
@@ -106,7 +131,7 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 5. Indien daar voor de verantwoording aanleiding toe is, zijn de wachttijdbrondata, als bedoeld onder [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0045355&artikel=4&z=2021-07-08&g=2021-07-08) van deze regeling, opvraagbaar bij het Dementienetwerk door de zorgverzekeraar of de NZa.
 
-#### Artikel 6. Wijze van aanleveren wachttijden en wachtlijsten
+##### Artikel 6. Wijze van aanleveren wachttijden en wachtlijsten
 
 1. Het Dementienetwerk verstrekt eenmaal per kwartaal, in de maand van de peildatum zorgaanbieders, elektronisch de informatie zoals genoemd in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045355&artikel=4&z=2021-07-08&g=2021-07-08). De levering hiervan vindt uiterlijk plaats tussen de tiende en de twintigste dag, die volgt op de peildatum.
 
@@ -116,7 +141,7 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 4. Door de feitelijke verstrekking verklaart de zorgaanbieder en het Dementienetwerk de informatie volledig en naar waarheid te hebben ingevuld.
 
-#### Artikel 7. Informatieplicht mogelijkheid tot wachtlijstbemiddeling
+##### Artikel 7. Informatieplicht mogelijkheid tot wachtlijstbemiddeling
 
 1. Dementienetwerken en zorgaanbieders dienen beide de volgende informatie, bij de wachttijd- en wachtlijstinformatie, te publiceren op hun website:
 
@@ -124,11 +149,11 @@ Deze regeling is van toepassing op zorgaanbieders die casemanagement dementie le
 
 2. Dementienetwerken en zorgaanbieders zijn verplicht de cliënt mondeling of schriftelijk te informeren over de mogelijkheid van wachtlijstbemiddeling door de zorgverzekeraar, indien de wachttijden voor deze betreffende cliënt de Treeknorm overschrijden.
 
-#### Artikel 8. Intrekken oude regeling
+##### Artikel 8. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling transparantie zorgaanbieders casemanagement dementie](https://wetten.overheid.nl/jci1.3:c:BWBR0041011), met kenmerk NR/REG-1827, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling transparantie zorgaanbieders casemanagement dementie](https://wetten.overheid.nl/jci1.3:c:BWBR0041011), met kenmerk NR/REG-1827, blijft van toepassing op gedragingen (handelen en nalaten) die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

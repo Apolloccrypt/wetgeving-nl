@@ -1,13 +1,38 @@
 ---
 title: "Regeling registratie en verstrekking gegevens militaire luchthavens"
 identifier: "BWBR0033519"
-categorie: "Milieu"
-publicatiedatum: 2013-06-17
-laatste_update: 2013-06-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033519"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-06-17"
+last_updated: "2013-06-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033519"
+soort: "ministeriele-regeling"
+stam_id: "12281373"
+version_id: "20566372"
+internal_id: "C28918931"
+label_id: "12252754"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033519/2013-06-17/0"
+intitule_bron: "Stcrt.2013-15724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-06-06"
+intitule_published: "2013-06-13"
+intitule_in_force: "2013-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15724"
+original_signed_date: "2013-06-06"
+original_published_date: "2013-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-15724"
+entry_into_force_date: "2013-06-17"
+jci_1_3: "jci1.3:c:BWBR0033519&z=2013-06-17&g=2013-06-17"
+jci_1_0: "1.0:c:BWBR0033519&g=2013-06-17"
+citeertitel_status: "officieel"
+signed_date: "2013-06-06"
+entry_into_force: "2013-06-17"
 ---
-
 # Regeling registratie en verstrekking gegevens militaire luchthavens
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -18,11 +43,11 @@ Besluit:
 
 #### Paragraaf 1. Militaire luchthavens met luchthavenbesluit
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van het bepalen van de geluidsbelasting registreert de Minister van Defensie op jaarbasis de gegevens omtrent het feitelijk gebruik door het militaire luchthavenluchtverkeer van militaire luchthavens waarvoor een luchthavenbesluit is vereist.
 
-#### Artikel 2
+##### Artikel 2
 
 De houder van een vergunning voor burgermedegebruik die is afgegeven voor het commercieel burgerluchthavenluchtverkeer onder vaststelling van een grenswaarde voor de geluidsbelasting anders dan in de vorm van een maximum aantal vliegtuigbewegingen per jaar:
 
@@ -38,7 +63,7 @@ De houder van een vergunning voor burgermedegebruik die is afgegeven voor het co
 
 - f. verstrekt gegevens omtrent de maatregelen die zijn getroffen om te bewerkstelligen dat de grenswaarde niet wordt overschreden, direct na het treffen van een zodanige maatregel aan de commandant van de luchthaven.
 
-#### Artikel 3
+##### Artikel 3
 
 De houder van een vergunning voor burgermedegebruik die is afgegeven voor het burgerluchtverkeer onder vaststelling van een grenswaarde voor de geluidsbelasting in de vorm van een maximum aantal vliegtuigbewegingen per jaar:
 
@@ -48,7 +73,7 @@ De houder van een vergunning voor burgermedegebruik die is afgegeven voor het bu
 
 - c. verstrekt gegevens omtrent de maatregelen die zijn getroffen om te bewerkstelligen dat de grenswaarde niet wordt overschreden, direct na het treffen van een zodanige maatregel aan de commandant van de luchthaven.
 
-#### Artikel 4
+##### Artikel 4
 
 De Minister van Defensie:
 
@@ -58,7 +83,7 @@ De Minister van Defensie:
 
 #### Paragraaf 2. Militaire luchthavens met luchthavenregeling
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister van Defensie:
 
@@ -68,15 +93,15 @@ De Minister van Defensie:
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling registratie gegevens militaire luchthavens met luchthavenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0028845) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 17 juni 2013.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling registratie en verstrekking gegevens militaire luchthavens.
 

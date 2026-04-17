@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel beoordeling van niet in de EER behaalde bewijsstukken in het voortgezet onderwijs"
+title: "Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 27 februari 2024 houdende voorwaarden en beperkingen bij de beoordeling of personen die in het bezit zijn van een buiten de Europese Economische Ruimte behaald bewijsstuk bevoegd kunnen zijn om onderwijs te geven op een school voor voortgezet onderwijs (Beleidsregel beoordeling van niet in de Europese Economische Ruimte behaalde bewijsstukken in het voortgezet onderwijs)"
 identifier: "BWBR0049438"
-categorie: "Onderwijs"
-publicatiedatum: 2024-02-27
-laatste_update: 2024-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049438"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-02-27"
+last_updated: "2024-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049438"
+soort: "beleidsregel"
+stam_id: "17043893"
+version_id: "29989322"
+internal_id: "C42995921"
+label_id: "16953364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049438/2024-02-27/0"
+intitule_bron: "Stcrt.2024-6547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-27"
+intitule_published: "2024-03-06"
+intitule_in_force: "2024-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-6547"
+original_signed_date: "2024-02-27"
+original_published_date: "2024-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-6547"
+entry_into_force_date: "2024-02-27"
+jci_1_3: "jci1.3:c:BWBR0049438&z=2024-02-27&g=2024-02-27"
+jci_1_0: "1.0:c:BWBR0049438&g=2024-02-27"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel beoordeling van niet in de EER behaalde bewijsstukken in het voortgezet onderwijs"
+signed_date: "2024-02-27"
+entry_into_force: "2024-02-27"
 ---
-
 # Beleidsregel van de Minister voor Primair en Voortgezet Onderwijs van 27 februari 2024 houdende voorwaarden en beperkingen bij de beoordeling of personen die in het bezit zijn van een buiten de Europese Economische Ruimte behaald bewijsstuk bevoegd kunnen zijn om onderwijs te geven op een school voor voortgezet onderwijs (Beleidsregel beoordeling van niet in de Europese Economische Ruimte behaalde bewijsstukken in het voortgezet onderwijs)
 
 Gelet op [artikel 7.11 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=7.11);
@@ -16,7 +42,7 @@ Besluit:
 
 De datum inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Reikwijdte beleidsregel
+##### Artikel 2. Reikwijdte beleidsregel
 
 Deze beleidsregel heeft betrekking op de wijze waarop de minister gebruikmaakt van de bevoegdheid om een leraar die een bewijs van bekwaamheid buiten de EER heeft behaald, een bevoegdheid te verlenen tot het geven van voortgezet onderwijs.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 De minister kan op verzoek een bevoegdheid verlenen tot het geven van onderwijs op een school aan degene die in bezit is van een of meer buiten de EER behaalde bewijstukken indien:
 
@@ -60,21 +86,21 @@ De minister kan op verzoek een bevoegdheid verlenen tot het geven van onderwijs 
 
 - –. voor een vak is behaald dat in voldoende mate inhoudelijk aansluit op het vak waarvoor de bevoegdheid in Nederland wordt aangevraagd en in voldoende mate bestudeerd is.
 
-#### Artikel 4. Geldigheidsduur
+##### Artikel 4. Geldigheidsduur
 
 De minister verleent de bevoegdheid voor onbepaalde tijd.
 
-#### Artikel 5. Overgangsrecht
+##### Artikel 5. Overgangsrecht
 
 1. Een persoon in het bezit van een buiten de EER afgegeven bewijsstuk, die in eerste instantie tijdelijk bevoegd was tot het geven van onderwijs op een school in Nederland, is na de inwerkingtreding van deze beleidsregel bevoegd voor onbepaalde tijd.
 
 2. Een persoon in het bezit van een buiten de EER afgegeven bewijsstuk, die voor 10 oktober 2010 in dienst is genomen door een bevoegd gezag van een school in Caribisch Nederland en op het moment van inwerkingtreding van deze beleidsregel nog steeds in dienst is van een dergelijk bevoegd gezag, kan onderwijs blijven geven in dienst van dit bevoegd gezag. Wanneer de leraar bij een andere school in Europees Nederland wil worden aangesteld, geldt het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049438&artikel=3&z=2024-02-27&g=2024-02-27).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze beleidsregel treedt in werking op 27 februari 2024.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel beoordeling van niet in de EER behaalde bewijsstukken in het voortgezet onderwijs.
 

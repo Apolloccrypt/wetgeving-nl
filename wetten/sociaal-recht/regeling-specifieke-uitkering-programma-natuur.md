@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering Programma Natuur"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 april 2021, nr. WJZ/ 21105834, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur)"
 identifier: "BWBR0045066"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-11
-laatste_update: 2024-01-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045066"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-11"
+last_updated: "2024-01-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045066"
+soort: "ministeriele-regeling"
+stam_id: "15937323"
+version_id: "27726782"
+internal_id: "C39111701"
+label_id: "15872024"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045066/2024-01-11/0"
+intitule_bron: "Stcrt.2021-21454"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-19"
+intitule_published: "2021-04-22"
+intitule_in_force: "2021-04-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21454"
+original_signed_date: "2021-04-19"
+original_published_date: "2021-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21454"
+entry_into_force_date: "2021-04-23"
+jci_1_3: "jci1.3:c:BWBR0045066&z=2024-01-11&g=2024-01-11"
+jci_1_0: "1.0:c:BWBR0045066&g=2024-01-11"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering Programma Natuur"
+signed_date: "2021-04-19"
+entry_into_force: "2021-04-23"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 19 april 2021, nr. WJZ/ 21105834, houdende regels voor het verstrekken van eenmalige specifieke uitkeringen in verband met de uitvoering van het Uitvoeringsprogramma Natuur (Regeling specifieke uitkering Programma Natuur)
 
 Gelet op [artikel 3 van de Kaderwet nationale EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **uitvoeringsactiviteiten:** activiteiten van provincies en partners in het kader van het doel, de aanpak of de beoogde resultaten, bedoeld in een Provinciaal Uitvoeringsprogramma, ten behoeve van gebiedsgerichte maatregelen en boscompensatie, alsmede werkzaamheden in het kader van onderzoek en analyse, administratie en toezicht op die activiteiten.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister kan een eenmalige specifieke uitkering voor uitvoeringsactiviteiten verstrekken aan een provincie.
 
@@ -58,11 +84,11 @@ In deze regeling wordt verstaan onder:
 
 5. De apparaatskosten maken voor ten hoogste 15 procent onderdeel uit van de specifieke uitkering over de periode van 1 januari 2021 tot en met 31 december 2023.
 
-#### Artikel 3. Hoogte van de uitkering
+##### Artikel 3. Hoogte van de uitkering
 
 De specifieke uitkering bedraagt ten hoogste het bedrag, inclusief de BTW, opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 4. Aanvraag tot verlening
+##### Artikel 4. Aanvraag tot verlening
 
 1. Een specifieke uitkering wordt op aanvraag verstrekt.
 
@@ -96,21 +122,21 @@ De specifieke uitkering bedraagt ten hoogste het bedrag, inclusief de BTW, opgen
 
 7. De aanvraag tot verlening van een specifieke uitkering wordt ingediend in de periode vanaf de inwerkingtreding van deze regeling tot en met 18 juni 2021.
 
-#### Artikel 5. Beslistermijn
+##### Artikel 5. Beslistermijn
 
 De minister verleent de specifieke uitkering binnen zes weken na ontvangst van de aanvraag.
 
-#### Artikel 6. Verplichtingen
+##### Artikel 6. Verplichtingen
 
 1. De provincie draagt er zorg voor dat de specifieke uitkering uitsluitend ten behoeve van uitvoeringsactiviteiten wordt besteed.
 
 2. De provincie besteedt de specifieke uitkering in de in de beschikking tot verlening opgenomen periode.
 
-#### Artikel 7. Voorschot
+##### Artikel 7. Voorschot
 
 De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het verstrekken van een of meerdere voorschotten voor de specifieke uitkering.
 
-#### Artikel 8. Verantwoording en terugvordering
+##### Artikel 8. Verantwoording en terugvordering
 
 1. De provincie legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -134,13 +160,13 @@ De minister kan bij de verlening ambtshalve of op aanvraag besluiten tot het ver
 
 4. De provincie draagt zorg voor monitoring van de categorieën maatregelen conform de afspraken in het Uitvoeringsprogramma Natuur. De provincie maakt hiertoe afspraken met de overige provincie en het Rijk, zodat eenduidige, optelbare informatie wordt verzameld en gerapporteerd over de toestand van de natuur en over het programmaverloop.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat deze regeling van toepassing blijft op aanvragen die op grond van deze regeling zijn ingediend en op specifieke uitkeringen die op grond van deze regeling zijn verleend of vastgesteld.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering Programma Natuur.
 

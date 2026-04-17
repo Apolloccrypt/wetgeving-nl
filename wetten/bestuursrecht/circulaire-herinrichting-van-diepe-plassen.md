@@ -1,13 +1,35 @@
 ---
 title: "Circulaire herinrichting van diepe plassen"
 identifier: "BWBR0029248"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-12-24
-laatste_update: 2010-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029248"
+country: "nl"
+rank: "circulaire"
+publication_date: "2010-12-24"
+last_updated: "2010-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029248"
+soort: "circulaire"
+stam_id: "11161403"
+version_id: "18254062"
+internal_id: "C25395121"
+label_id: "11135914"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029248/2010-12-24/0"
+intitule_bron: "Stcrt.2010-20128"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-12-24"
+intitule_in_force: "2010-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-20128"
+original_published_date: "2010-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-20128"
+entry_into_force_date: "2010-12-24"
+jci_1_3: "jci1.3:c:BWBR0029248&z=2010-12-24&g=2010-12-24"
+jci_1_0: "1.0:c:BWBR0029248&g=2010-12-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-12-24"
 ---
-
 # Circulaire herinrichting van diepe plassen
 
 Aan de besturen van gemeenten, intergemeentelijke samenwerkingsverbanden, provincies en waterkwaliteitsbeheerders

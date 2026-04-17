@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen"
 identifier: "BWBV0002909"
-categorie: "Internationaal recht"
-publicatiedatum: 1991-08-22
-laatste_update: 1991-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002909"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-08-22"
+last_updated: "1991-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002909"
+soort: "verdrag"
+stam_id: "10003243393"
+version_id: "10003261512"
+internal_id: "C10006980861"
+label_id: "10003229544"
+dtd_version: "2.0"
+original_entry_into_force: "1991-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002909/1991-08-22/0"
+intitule_bron: "Trb.1980-146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-07-23"
+intitule_published: "1980-09-19"
+intitule_in_force: "1991-09-13"
+intitule_status: "goed"
+original_publication: "Trb.1980-146"
+original_signed_date: "1991-07-23"
+original_published_date: "1980-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-146"
+entry_into_force_date: "1991-08-22"
+jci_1_3: "jci1.3:c:BWBV0002909&z=1991-08-22&g=1991-08-22"
+jci_1_0: "1.0:c:BWBV0002909&g=1991-08-22"
+citeertitel_status: "officieel"
+signed_date: "1991-07-23"
+entry_into_force: "1991-08-22"
 ---
-
 # Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen
 
 De Staten die partij zijn bij dit Verdrag,
@@ -48,11 +73,11 @@ Zij overeengekomen als volgt:
 
 ## DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt onder „discriminatie van vrouwen” verstaan elke vorm van onderscheid, uitsluiting of beperking op grond van geslacht, die tot gevolg of tot doel heeft de erkenning, het genot of de uitoefening door vrouwen van de rechten van de mens en de fundamentele vrijheden op politiek, economisch, sociaal of cultureel gebied, op het terrein van de burgerrechten of welk ander gebied dan ook, ongeacht hun huwelijkse staat, op de grondslag van gelijkheid van mannen en vrouwen aan te tasten of teniet te doen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Staten die partij zijn bij dit Verdrag, veroordelen discriminatie in alle vormen van vrouwen, komen overeen onverwijld met alle passende middelen een beleid te volgen, gericht op uitbanning van discriminatie van vrouwen, en verbinden zich tot dit doel:
 
@@ -70,17 +95,17 @@ De Staten die partij zijn bij dit Verdrag, veroordelen discriminatie in alle vor
 
 - (g). alle nationale strafbepalingen die discriminatie van vrouwen inhouden, in te trekken.
 
-#### Artikel 3
+##### Artikel 3
 
 De Staten die partij zijn bij dit Verdrag, nemen op alle gebieden, in het bijzonder op politiek, sociaal, economisch en cultureel gebied, alle passende maatregelen, waaronder wetgevende, om de volledige ontplooiing en ontwikkeling van vrouwen te verzekeren, ten einde haar de uitoefening en het genot van de rechten van de mens en de fundamentele vrijheden op gelijke voet met mannen te waarborgen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wanneer de Staten die partij zijn bij dit Verdrag, tijdelijk bijzondere maatregelen treffen die zijn gericht op versnelling van feitelijke gelijkstelling van mannen en vrouwen wordt dit niet beschouwd als discriminatie, als omschreven in dit Verdrag, maar het mag geenszins leiden tot handhaving van ongelijke of afzonderlijke normen; deze maatregelen dienen buiten werking te worden gesteld zodra de doelstellingen ter zake van gelijke kansen en gelijke behandeling zijn verwezenlijkt.
 
 2. Wanneer de Staten die partij zijn bij dit Verdrag, bijzondere maatregelen treffen, met inbegrip van de in dit Verdrag vervatte maatregelen, die zijn gericht op bescherming van het moederschap wordt dit niet beschouwd als discriminerend.
 
-#### Artikel 5
+##### Artikel 5
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om:
 
@@ -88,13 +113,13 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om:
 
 - (b). ervoor zorg te dragen dat onderwijs over het gezin een juist begrip van het moederschap als sociale functie, en de erkenning van de gezamenlijke verantwoordelijkheid van mannen en vrouwen bij het grootbrengen en de ontwikkeling van hun kinderen bevat, met dien verstande dat het belang van de kinderen in alle gevallen vooropstaat.
 
-#### Artikel 6
+##### Artikel 6
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen, waaronder wetgevende, ter bestrijding van alle vormen van handel in vrouwen en van het exploiteren van prostitutie van vrouwen.
 
 ## DEEL II
 
-#### Artikel 7
+##### Artikel 7
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen in het politieke en openbare leven van het land uit te bannen, en verzekeren vrouwen in het bijzonder het recht om op gelijke voet met mannen:
 
@@ -104,11 +129,11 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 - (c). deel te nemen aan niet-overheidsorganisaties en verenigingen op het gebied van het openbare en politieke leven van het land.
 
-#### Artikel 8
+##### Artikel 8
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om te verzekeren dat vrouwen, op gelijke voet met mannen en zonder enig onderscheid, de mogelijkheid hebben hun regering op internationaal niveau te vertegenwoordigen en deel te nemen aan de werkzaamheden van internationale organisaties.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Staten die partij zijn bij dit Verdrag, verlenen vrouwen gelijke rechten als mannen om een nationaliteit te verkrijgen, van nationaliteit te veranderen of deze te behouden. Zij waarborgen in het bijzonder dat noch een huwelijk met een buitenlander, noch een wijziging van nationaliteit van de echtgenoot staande huwelijk, automatisch de nationaliteit van de echtgenote verandert, haar staatloos maakt of haar dwingt de nationaliteit van haar echtgenoot aan te nemen.
 
@@ -116,7 +141,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om te
 
 ## DEEL III
 
-#### Artikel 10
+##### Artikel 10
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen uit te bannen ten einde vrouwen rechten te verzekeren die gelijk zijn aan die van mannen op het gebied van onderwijs en vorming, en in het bijzonder, op basis van gelijkheid van mannen en vrouwen, het volgende te garanderen:
 
@@ -136,7 +161,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 - (h). toegang tot bijzondere informatie van opvoedkundige aard, die kan bijdragen tot het waarborgen van de gezondheid en het welzijn van het gezin, met inbegrip van informatie en advies inzake geboortenregeling.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen in het arbeidsproces uit te bannen, ten einde vrouwen, op basis van gelijkheid van mannen en vrouwen, dezelfde rechten te verzekeren, in het bijzonder:
 
@@ -164,13 +189,13 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 3. De beschermende wetgeving met betrekking tot de in dit artikel bedoelde aangelegenheden wordt met geregelde tussenpozen opnieuw bezien in het licht van de wetenschappelijke en technologische kennis en wordt - indien nodig - gewijzigd, ingetrokken of uitgebreid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie van vrouwen op het gebied van de gezondheidszorg uit te bannen, ten einde te verzekeren dat vrouwen, op basis van gelijkheid van mannen en vrouwen, gebruik kunnen maken van medische zorg, met inbegrip van die welke verband houden met geboortenregeling.
 
 2. Niettegenstaande het bepaalde in het eerste lid van dit artikel waarborgen de Staten die partij zijn bij dit Verdrag aan vrouwen passende, zo nodig kosteloze dienstverlening in verband met zwangerschap, bevalling en de hierop volgende periode, alsmede passende voeding gedurende de zwangerschap en de tijd waarin zij hun zuigelingen voeden.
 
-#### Artikel 13
+##### Artikel 13
 
 De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie jegens de vrouw op andere gebieden van het economische en maatschappelijke leven uit te bannen, ten einde vrouwen, op basis van gelijkheid van mannen en vrouwen, dezelfde rechten te verzekeren, in het bijzonder:
 
@@ -180,7 +205,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 - (c). het recht deel te nemen aan activiteiten op het gebied van vrijetijdsbesteding, aan sport en aan alle aspecten van het culturele leven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Staten die partij zijn bij dit Verdrag, houden rekening met de bijzondere problemen waarvoor vrouwen op het platteland worden gesteld en met de belangrijke rol die zij spelen bij het economisch voortbestaan van hun gezin, met inbegrip van hun werk in de niet door geld beheerste sectoren van de economie, en nemen alle passende maatregelen om de toepassing te verzekeren van het bepaalde in dit Verdrag ten aanzien van vrouwen in plattelandsgebieden.
 
@@ -204,7 +229,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 ## DEEL IV
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Staten die partij zijn bij dit Verdrag, verlenen de vrouw gelijkheid aan de man voor de wet.
 
@@ -214,7 +239,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 4. De Staten die partij zijn bij dit Verdrag, verlenen mannen en vrouwen dezelfde rechten met betrekking tot de wetgeving inzake de bewegingsvrijheid van personen en de vrijheid hun woon- en verblijfplaats te kiezen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om discriminatie jegens de vrouw in alle aangelegenheden betreffende huwelijk en familiebetrekkingen uit te bannen, en verzekeren in het bijzonder, op basis van gelijkheid van de man en de vrouw:
 
@@ -238,7 +263,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 ## DEEL V
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ten behoeve van de beoordeling van de voortgang die wordt gemaakt bij de uitvoering van dit Verdrag wordt een Commissie voor de uitbanning van discriminatie van vrouwen (hierna te noemen het Comité) ingesteld, dat op het tijdstip van inwerkingtreding van dit Verdrag zal bestaan uit 18, en na de bekrachtiging hiervan of de toetreding hiertoe door de vijfendertigste Staat die partij is bij dit Verdrag, uit 23 deskundigen van hoog zedelijk aanzien en uitzonderlijke bekwaamheid op het terrein dat door dit Verdrag wordt bestreken. De deskundigen worden door de Staten die partij zijn bij dit Verdrag, gekozen uit hun onderdanen en hebben zitting in hun persoonlijke hoedanigheid, waarbij rekening wordt gehouden met een billijke geografische verdeling en met de vertegenwoordiging van de verschillende beschavingsvormen en de belangrijkste rechtstelsels.
 
@@ -258,7 +283,7 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 9. De Secretaris-Generaal van de Verenigde Naties zorgt voor het personeel en de andere voorzieningen, benodigd voor een doelmatige uitoefening van de taken van het Comité krachtens dit Verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich aan de Secretaris-Generaal van de Verenigde Naties ter bestudering door het Comité, een verslag over te leggen betreffende de wetgevende, rechterlijke, bestuurlijke of andere maatregelen die zij hebben genomen ter uitvoering van de bepalingen van dit Verdrag en met betrekking tot de in dit opzicht geboekte vooruitgang:
 
@@ -268,31 +293,31 @@ De Staten die partij zijn bij dit Verdrag, nemen alle passende maatregelen om di
 
 2. In de verslagen kunnen de factoren en moeilijkheden worden vermeld, die van invloed zijn op de mate waarin aan de in dit Verdrag vervatte verplichtingen wordt voldaan.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het Comité stelt zijn eigen huishoudelijk reglement vast.
 
 2. Het Comité kiest zijn functionarissen voor een tijdvak van twee jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het Comité komt in de regel bijeen gedurende een periode van ten hoogste twee weken per jaar ten einde de overeenkomstig artikel 18 van dit Verdrag overgelegde verslagen te bestuderen.
 
 2. De vergaderingen van het Comité worden in de regel gehouden op de zetel van de Verenigde Naties of op een andere passende, door het Comité te bepalen plaats.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Comité brengt door tussenkomst van de Economische en Sociale Raad jaarlijks aan de Algemene Vergadering van de Verenigde Naties verslag uit omtrent zijn werkzaamheden en kan voorstellen en algemene aanbevelingen doen, gebaseerd op de bestudering van de verslagen en de inlichtingen die het heeft ontvangen van de Staten die partij zijn bij dit Verdrag. Zodanige voorstellen en algemene aanbevelingen worden opgenomen in het verslag van het Comité, te zamen met de eventuele commentaren van de Staten die partij zijn bij dit Verdrag.
 
 2. De Secretaris-Generaal zendt de verslagen van het Comité ter informatie door aan het Comité inzake de rechtspositie van de vrouw.
 
-#### Artikel 22
+##### Artikel 22
 
 De gespecialiseerde organisaties hebben het recht vertegenwoordigd te zijn tijdens de bestudering van de uitvoering van die bepalingen van dit Verdrag die binnen het kader van hun werkzaamheden liggen. Het Comité kan de gespecialiseerde organisaties uitnodigen verslagen over te leggen omtrent de uitvoering van het Verdrag op de gebieden die binnen het kader van hun werkzaamheden liggen.
 
 ## DEEL VI
 
-#### Artikel 23
+##### Artikel 23
 
 Geen enkele bepaling van dit Verdrag maakt inbreuk op bepalingen die in sterkere mate bijdragen tot de verwezenlijking van gelijkheid van mannen en vrouwen, en die kunnen zijn vervat:
 
@@ -300,11 +325,11 @@ Geen enkele bepaling van dit Verdrag maakt inbreuk op bepalingen die in sterkere
 
 - (b). in enig ander internationaal verdrag dat of in enige andere internationale overeenkomst die voor die Staat van kracht is.
 
-#### Artikel 24
+##### Artikel 24
 
 De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich, op nationaal niveau alle noodzakelijke maatregelen te nemen om te komen tot volledige verwezenlijking van de in dit Verdrag erkende rechten.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten.
 
@@ -314,19 +339,19 @@ De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich, op nat
 
 4. Dit Verdrag staat open voor toetreding door alle Staten. Toetreding vindt plaats door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Iedere Staat die partij is bij dit Verdrag kan te allen tijde een verzoek tot herziening van dit Verdrag indienen door middel van een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties.
 
 2. De Algemene Vergadering van de Verenigde Naties beslist welke stappen eventueel dienen te worden genomen naar aanleiding van een zodanig verzoek.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Verdrag treedt in werking op de dertigste dag na de datum van nederlegging van de twintigste akte van bekrachtiging of toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
 2. Voor iedere Staat die dit Verdrag bekrachtigt of hiertoe toetreedt na de nederlegging van de twintigste akte van bekrachtiging of toetreding, treedt het Verdrag in werking op de dertigste dag na de datum van nederlegging van de akte van bekrachtiging of toetreding door die Staat.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Secretaris-Generaal van de Verenigde Naties neemt de tekst van op het tijdstip van de bekrachtiging of toetreding door de Staten gemaakte voorbehouden in ontvangst en zendt deze rond aan alle Staten.
 
@@ -334,7 +359,7 @@ De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich, op nat
 
 3. Voorbehouden kunnen te allen tijde worden ingetrokken door een hiertoe strekkende kennisgeving, gericht aan de Secretaris-Generaal van de Verenigde Naties, die vervolgens alle Staten hiervan in kennis stelt. Een zodanige kennisgeving wordt van kracht op de datum van ontvangst.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Ieder geschil tussen twee of meer Staten die partij zijn bij dit Verdrag betreffende de uitleg of toepassing van dit Verdrag, en dat niet wordt beslecht door onderhandelingen, wordt op verzoek van één van hen onderworpen aan arbitrage. Indien de partijen er binnen zes maanden na de datum van het verzoek tot arbitrage niet in zijn geslaagd overeenstemming te bereiken over de vorm van arbitrage, kan een van die partijen het geschil voorleggen aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -342,7 +367,7 @@ De Staten die partij zijn bij dit Verdrag, nemen de verplichting op zich, op nat
 
 3. Iedere Staat die partij is bij dit Verdrag, en die een voorbehoud heeft gemaakt overeenkomstig het bepaalde in het tweede lid van dit artikel kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

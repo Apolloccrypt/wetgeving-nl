@@ -1,13 +1,35 @@
 ---
 title: "Internationale Overeenkomst inzake tropisch hout, 2006"
 identifier: "BWBV0003277"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-12-07
-laatste_update: 2011-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003277"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-12-07"
+last_updated: "2011-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003277"
+soort: "verdrag"
+stam_id: "10003457023"
+version_id: "10003504772"
+internal_id: "C10007710751"
+label_id: "10003443694"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003277/2011-12-07/0"
+intitule_bron: "Trb.2006-213"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-10-12"
+intitule_in_force: "2012-01-27"
+intitule_status: "goed"
+original_publication: "Trb.2006-213"
+original_published_date: "2006-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-213"
+entry_into_force_date: "2011-12-07"
+jci_1_3: "jci1.3:c:BWBV0003277&z=2011-12-07&g=2011-12-07"
+jci_1_0: "1.0:c:BWBV0003277&g=2011-12-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-12-07"
 ---
-
 # Internationale Overeenkomst inzake tropisch hout, 2006
 
 Preambule
@@ -58,7 +80,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOELSTELLINGEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van de Internationale Overeenkomst inzake tropisch hout, 2006 (hierna te noemen „deze Overeenkomst”), zijn de bevordering van de uitbreiding en diversificatie van de internationale handel in tropisch hout uit duurzaam beheerde en legaal geëxploiteerde bossen en de bevordering van het duurzame beheer van houtproducerende tropische bossen door:
 
@@ -102,7 +124,7 @@ De doelstellingen van de Internationale Overeenkomst inzake tropisch hout, 2006 
 
 ### HOOFDSTUK II. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -132,7 +154,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK III. ORGANISATIE EN ADMINISTRATIE
 
-#### Artikel 3. Zetel en structuur van de Internationale Organisatie voor tropisch hout
+##### Artikel 3. Zetel en structuur van de Internationale Organisatie voor tropisch hout
 
 1. De Internationale Organisatie voor tropisch hout, opgericht bij de Internationale Overeenkomst inzake tropisch hout, 1983, blijft voortbestaan teneinde de bepalingen van deze Overeenkomst uit te voeren en toezicht uit te oefenen op de werking van deze Overeenkomst.
 
@@ -144,7 +166,7 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 5. Er kunnen regionale bureaus van de Organisatie worden opgericht indien de Raad bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07) daartoe beslist.
 
-#### Artikel 4. Lidmaatschap van de Organisatie
+##### Artikel 4. Lidmaatschap van de Organisatie
 
 Er bestaan twee categorieën leden van de Organisatie, te weten:
 
@@ -152,7 +174,7 @@ Er bestaan twee categorieën leden van de Organisatie, te weten:
 
 - b. verbruikende leden.
 
-#### Artikel 5. Lidmaatschap van intergouvernementele organisaties
+##### Artikel 5. Lidmaatschap van intergouvernementele organisaties
 
 1. Steeds wanneer er in deze Overeenkomst sprake is van „regeringen” wordt hiermee tevens bedoeld de Europese Gemeenschap en elke andere intergouvernementele organisatie die soortgelijke verantwoordelijkheden draagt ten aanzien van het onderhandelen over en het sluiten en het toepassen van internationale overeenkomsten, in het bijzonder grondstoffenovereenkomsten. Derhalve wordt, steeds wanneer in deze Overeenkomst sprake is van ondertekening, bekrachtiging, aanvaarding of goedkeuring, kennisgeving van voorlopige toepassing, dan wel van toetreding, in het geval van dergelijke organisaties tevens bedoeld de ondertekening, de bekrachtiging, de aanvaarding of de goedkeuring, de kennisgeving van voorlopige toepassing, dan wel de toetreding door dergelijke organisaties.
 
@@ -160,7 +182,7 @@ Er bestaan twee categorieën leden van de Organisatie, te weten:
 
 ### HOOFDSTUK IV. DE INTERNATIONALE RAAD VOOR TROPISCH HOUT
 
-#### Artikel 6. Samenstelling van de Internationale Raad voor tropisch hout
+##### Artikel 6. Samenstelling van de Internationale Raad voor tropisch hout
 
 1. De hoogste autoriteit van de Organisatie is de Internationale Raad voor tropisch hout, die bestaat uit alle leden van de Organisatie.
 
@@ -168,7 +190,7 @@ Er bestaan twee categorieën leden van de Organisatie, te weten:
 
 3. Een plaatsvervanger wordt gemachtigd te handelen en te stemmen namens de vertegenwoordiger wanneer deze afwezig is of onder bijzondere omstandigheden.
 
-#### Artikel 7. Bevoegdheden en functies van de raad
+##### Artikel 7. Bevoegdheden en functies van de raad
 
 De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de uitvoering van de bepalingen van deze Overeenkomst, of doet deze uitoefenen. Hij moet met name:
 
@@ -178,7 +200,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 - c. een zodanige administratie bijhouden als voor de uitoefening van zijn functies ingevolge deze Overeenkomst noodzakelijk is.
 
-#### Artikel 8. Voorzitter en vice-voorzitter van de Raad
+##### Artikel 8. Voorzitter en vice-voorzitter van de Raad
 
 1. De Raad kiest voor ieder kalenderjaar een voorzitter en een vice-voorzitter, die niet worden bezoldigd door de Organisatie.
 
@@ -188,7 +210,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 4. Wanneer de voorzitter tijdelijk afwezig is, neemt de vice-voorzitter de taken van de voorzitter waar. Wanneer zowel de voorzitter als de vice-voorzitter tijdelijk afwezig zijn, of wanneer één van beiden of beiden afwezig zijn voor het resterende gedeelte van de ambtstermijn waarvoor zij werden gekozen, kan de Raad uit de vertegenwoordigers van de producerende leden en/of uit de vertegenwoordigers van de verbruikende leden, naar gelang het geval, nieuwe functionarissen kiezen die tijdelijk of voor het resterende gedeelte van de ambtstermijn waarvoor hun voorgangers waren gekozen, worden aangesteld.
 
-#### Artikel 9. Zittingen van de Raad
+##### Artikel 9. Zittingen van de Raad
 
 1. In het algemeen houdt de Raad ten minste één gewone zitting per jaar.
 
@@ -204,7 +226,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 5. De aankondiging van de zittingen en de agenda hiervoor worden door de uitvoerend directeur ten minste zes weken van tevoren aan de leden medegedeeld, behalve in spoedeisende gevallen, waarin de aankondiging ten minste zeven dagen van tevoren geschiedt.
 
-#### Artikel 10. Verdeling van de stemmen
+##### Artikel 10. Verdeling van de stemmen
 
 1. De producerende leden bezitten tezamen 1000 stemmen en de verbruikende leden bezitten tezamen 1000 stemmen.
 
@@ -230,7 +252,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 9. Er zijn geen gedeelde stemmen.
 
-#### Artikel 11. Stemprocedure in de Raad
+##### Artikel 11. Stemprocedure in de Raad
 
 1. Ieder lid is gerechtigd tot het uitbrengen van het aantal stemmen dat het bezit en is niet gerechtigd tot het verdelen van zijn stemmen. Een lid is evenwel niet verplicht de stemmen die het gerechtigd is uit te brengen krachtens lid 2 van dit artikel, in dezelfde zin uit te brengen als zijn eigen stemmen.
 
@@ -238,7 +260,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 3. Bij onthouding wordt een lid geacht zijn stemmen niet te hebben uitgebracht.
 
-#### Artikel 12. Besluiten en aanbevelingen van de Raad
+##### Artikel 12. Besluiten en aanbevelingen van de Raad
 
 1. De Raad streeft ernaar al zijn besluiten te nemen en al zijn aanbevelingen te doen bij consensus.
 
@@ -246,7 +268,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 3. Wanneer een lid gebruik maakt van het bepaalde in [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=11&z=2011-12-07&g=2011-12-07), en wanneer zijn stemmen worden uitgebracht op een bijeenkomst van de Raad, wordt dit lid geacht, voor de toepassing van lid 1, aanwezig te zijn en te stemmen.
 
-#### Artikel 13. Quorum in de Raad
+##### Artikel 13. Quorum in de Raad
 
 1. Het quorum voor bijeenkomsten van de Raad wordt gevormd door een meerderheid van leden uit elke in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=III&artikel=4&z=2011-12-07&g=2011-12-07) genoemde categorie, mits deze leden ten minste tweederde van het totale aantal stemmen in hun onderscheiden categorieën bezitten.
 
@@ -254,7 +276,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 3. Een lid dat wordt vertegenwoordigd overeenkomstig [artikel 11, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=11&z=2011-12-07&g=2011-12-07), wordt als aanwezig beschouwd.
 
-#### Artikel 14. Uitvoerend directeur en personeel
+##### Artikel 14. Uitvoerend directeur en personeel
 
 1. De Raad stelt, bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07), de uitvoerend directeur aan.
 
@@ -268,7 +290,7 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 6. Noch de uitvoerend directeur, noch de andere personeelsleden mogen bij de vervulling van hun taken instructies vragen of ontvangen van enig lid of van enige autoriteit buiten de Organisatie. Zij dienen zich te onthouden van handelingen die onverenigbaar zijn met hun positie als internationaal ambtenaar die in laatste instantie verantwoording verschuldigd is aan de Raad. Elk lid van de Organisatie eerbiedigt het uitsluitend internationale karakter van de taak van de uitvoerend directeur en van de andere personeelsleden en tracht hen niet te beïnvloeden bij de vervulling van die taak.
 
-#### Artikel 15. Samenwerking en coördinatie met andere organisaties
+##### Artikel 15. Samenwerking en coördinatie met andere organisaties
 
 1. Bij het nastreven van de doelstellingen van de Overeenkomst treft de Raad passende regelingen voor overleg en samenwerking met de Verenigde Naties en de organen en gespecialiseerde organisaties daarvan, waaronder de Conferentie der Verenigde Naties over Handel en Ontwikkeling (UNCTAD), en andere betrokken internationale en regionale organisaties en instellingen, alsook met de particuliere sector, niet-gouvernementele organisaties en het maatschappelijk middenveld.
 
@@ -276,13 +298,13 @@ De Raad oefent alle bevoegdheden en functies uit die noodzakelijk zijn voor de u
 
 3. De Organisatie maakt ten volle gebruik van de faciliteiten van het Gemeenschappelijk Fonds voor Grondstoffen.
 
-#### Artikel 16. Toelating van waarnemers
+##### Artikel 16. Toelating van waarnemers
 
 De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties en die geen partij is bij deze Overeenkomst, of iedere in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=15&z=2011-12-07&g=2011-12-07) bedoelde organisatie die belangstelling heeft voor de werkzaamheden van de Organisatie, uitnodigen als waarnemer de zittingen van de Raad bij te wonen.
 
 ### HOOFDSTUK V. VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 17. Voorrechten en immuniteiten
+##### Artikel 17. Voorrechten en immuniteiten
 
 1. De Organisatie bezit rechtspersoonlijkheid. In het bijzonder heeft zij de bevoegdheid contracten af te sluiten, roerende en onroerende goederen te verwerven en te vervreemden, alsmede in rechte op te treden.
 
@@ -302,7 +324,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 ### HOOFDSTUK VI. FINANCIËLE BEPALINGEN
 
-#### Artikel 18. Financiële rekeningen
+##### Artikel 18. Financiële rekeningen
 
 1. De volgende rekeningen worden ingesteld:
 
@@ -316,7 +338,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 3. De uitvoerend directeur is verantwoordelijk voor het beheer van de financiële rekeningen en brengt daarover verslag uit aan de Raad.
 
-#### Artikel 19. Administratieve rekening
+##### Artikel 19. Administratieve rekening
 
 1. De uitgaven vereist voor het beheer van deze Overeenkomst komen ten laste van de administratieve rekening en worden gedekt door jaarlijkse bijdragen die door de leden worden betaald overeenkomstig hun onderscheiden constitutionele of institutionele procedures en die worden berekend overeenkomstig de leden 4, 5 en 6 van dit artikel.
 
@@ -352,7 +374,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 10. Een lid wiens rechten zijn geschorst krachtens lid 8, blijft verplicht zijn bijdrage te betalen.
 
-#### Artikel 20. Bijzondere rekening
+##### Artikel 20. Bijzondere rekening
 
 1. De bijzondere rekening bestaat uit twee subrekeningen:
 
@@ -390,7 +412,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 12. De uitvoerend directeur verleent assistentie bij de uitwerking van voorstellen voor voorprojecten, projecten en activiteiten overeenkomstig de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VII&artikel=24&z=2011-12-07&g=2011-12-07) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VII&artikel=25&z=2011-12-07&g=2011-12-07) en streeft ernaar, op eventueel door de Raad vast te stellen voorwaarden, een passende en verzekerde financiering te vinden voor goedgekeurde voorprojecten, projecten en activiteiten.
 
-#### Artikel 21. Het Bali-partnerschapsfonds
+##### Artikel 21. Het Bali-partnerschapsfonds
 
 1. Hierbij wordt een fonds voor duurzaam beheer van houtproducerende tropische bossen ingesteld om producerende leden te helpen de investeringen te doen die noodzakelijk zijn om de in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=I&artikel=1&z=2011-12-07&g=2011-12-07), van deze Overeenkomst verwoorde doelstelling te verwezenlijken.
 
@@ -420,13 +442,13 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 7. De Raad beoordeelt op geregelde tijdstippen de toereikendheid van de middelen waarover het fonds kan beschikken en tracht extra gelden te verkrijgen die de producerende leden nodig hebben om de doelstelling van het fonds te verwezenlijken.
 
-#### Artikel 22. Wijze van betaling
+##### Artikel 22. Wijze van betaling
 
 1. De financiële bijdragen voor de krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VI&artikel=18&z=2011-12-07&g=2011-12-07) ingestelde rekeningen geschieden in vrij converteerbare valuta’s en worden vrijgesteld van deviezenbeperkingen.
 
 2. De Raad kan ook besluiten bijdragen voor de krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VI&artikel=18&z=2011-12-07&g=2011-12-07) ingestelde rekeningen, de administratieve rekening uitgezonderd, te aanvaarden in andere vormen, zoals in de vorm van wetenschappelijk of technisch materiaal of personeel, volgens de eisen van de goedgekeurde projecten.
 
-#### Artikel 23. Verificatie en publicatie van de rekeningen
+##### Artikel 23. Verificatie en publicatie van de rekeningen
 
 1. De Raad benoemt onafhankelijke accountants voor het verifiëren van de rekeningen van de Organisatie.
 
@@ -434,7 +456,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 ### HOOFDSTUK VII. OPERATIONELE ACTIVITEITEN
 
-#### Artikel 24. Beleidstaken van de organisatie
+##### Artikel 24. Beleidstaken van de organisatie
 
 1. Ter verwezenlijking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=I&artikel=1&z=2011-12-07&g=2011-12-07) genoemde doelstellingen verricht de Organisatie op geïntegreerde wijze beleidstaken en projectactiviteiten.
 
@@ -442,7 +464,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 3. De Raad stelt op geregelde tijdstippen een actieplan vast als richtsnoer voor de beleidsactiviteiten en ter vaststelling van de in [artikel 20, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VI&artikel=20&z=2011-12-07&g=2011-12-07), bedoelde prioriteiten en thematische programma’s. De in het actieplan omschreven prioriteiten worden vertaald in de door de Raad goedgekeurde werkprogramma’s. De beleidsactiviteiten omvatten in voorkomend geval de ontwikkeling en opstelling van richtsnoeren, handleidingen, studies, rapporten, primaire communicatie- en voorlichtingsinstrumenten, en soortgelijke werkzaamheden als omschreven in het actieplan van de Organisatie.
 
-#### Artikel 25. Projectactiviteiten van de organisatie
+##### Artikel 25. Projectactiviteiten van de organisatie
 
 1. De leden en de uitvoerend directeur kunnen voorstellen indienen voor voorprojecten en projecten die bijdragen tot de verwezenlijking van de doelstellingen van deze Overeenkomst en een of meer prioritaire gebieden van werkprogramma’s of thematische programma’s die in het door de Raad overeenkomstig [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=VII&artikel=24&z=2011-12-07&g=2011-12-07) goedgekeurde actieplan zijn omschreven.
 
@@ -454,7 +476,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 5. De Raad kan volgens overeengekomen criteria beperkingen stellen aan het aantal projecten en voorprojecten dat een lid dan wel de uitvoerend directeur in de loop van één projectcyclus kan indienen. De Raad kan naar aanleiding van het rapport van de uitvoerend directeur ook passende maatregelen nemen, met inbegrip van de schorsing of beëindiging van zijn steun aan voorprojecten of projecten.
 
-#### Artikel 26. Commissies en ondergeschikte organen
+##### Artikel 26. Commissies en ondergeschikte organen
 
 1. Hierbij worden de volgende commissies van de Organisatie ingesteld, die openstaan voor alle leden:
 
@@ -472,7 +494,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 ### HOOFDSTUK VIII. STATISTIEKEN, STUDIES EN INFORMATIE
 
-#### Artikel 27. Statistieken, studies en informatie
+##### Artikel 27. Statistieken, studies en informatie
 
 1. De Raad machtigt de uitvoerend directeur, nauwe betrekkingen aan te gaan en te onderhouden met de daarvoor in aanmerking komende intergouvernementele, gouvernementele en niet-gouvernementele organisaties teneinde te helpen verzekeren dat recente en betrouwbare gegevens en informatie beschikbaar zijn, onder meer over de productie van en handel in tropisch hout, trends en afwijkingen tussen gegevens, alsmede van belang zijnde informatie over niet-tropisch hout en het beheer van houtproducerende bossen. In samenwerking met die organisaties verzamelt, rubriceert, analyseert en publiceert de Organisatie die informatie, voorzover noodzakelijk geacht voor de werking van deze Overeenkomst.
 
@@ -486,7 +508,7 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 6. De Raad laat alle nodige studies verrichten over de ontwikkelingen en de problemen op korte en lange termijn van de internationale houtmarkt en de vorderingen in het streven om te komen tot duurzaam beheer van houtproducerende bossen.
 
-#### Artikel 28. Jaarverslag en tweejaarlijks onderzoek
+##### Artikel 28. Jaarverslag en tweejaarlijks onderzoek
 
 1. De Raad publiceert een jaarverslag over zijn activiteiten en alle andere informatie die hij passend acht.
 
@@ -520,43 +542,43 @@ De Raad kan iedere staat die lid is van of waarnemer is bij de Verenigde Naties 
 
 ### HOOFDSTUK IX. DIVERSE BEPALINGEN
 
-#### Artikel 29. Algemene verplichtingen van de leden
+##### Artikel 29. Algemene verplichtingen van de leden
 
 1. Tijdens de werkingsduur van deze Overeenkomst stellen de leden alles in het werk en werken zij samen om te bevorderen dat de doelstellingen van deze Overeenkomst worden verwezenlijkt en om te voorkomen dat wordt gehandeld in strijd met deze doelstellingen.
 
 2. De leden verbinden zich ertoe de besluiten die de Raad krachtens de bepalingen van deze Overeenkomst neemt, te aanvaarden en uit te voeren, en nemen geen maatregelen die deze besluiten beperken of die tegen deze besluiten indruisen.
 
-#### Artikel 30. Ontheffing van verplichtingen
+##### Artikel 30. Ontheffing van verplichtingen
 
 1. Wanneer buitengewone omstandigheden, noodtoestanden of overmacht, waaromtrent niets uitdrukkelijk is bepaald in deze Overeenkomst, zulks eisen, kan de Raad, bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07), een lid ontheffen van een verplichting ingevolge deze Overeenkomst, indien dat lid ten genoegen van de Raad heeft uiteengezet waarom niet aan de verplichting kan worden voldaan.
 
 2. Wanneer de Raad een lid ontheffing verleent krachtens lid 1, vermeldt hij ten aanzien van deze ontheffing uitdrukkelijk de algemene voorwaarden, de tijdsduur en de redenen.
 
-#### Artikel 31. Klachten en geschillen
+##### Artikel 31. Klachten en geschillen
 
 Klachten tegen een lid wegens het niet voldoen aan zijn verplichtingen ingevolge deze Overeenkomst en geschillen betreffende de uitlegging of de toepassing van deze Overeenkomst kunnen door ieder lid aan de Raad worden voorgelegd. De besluiten van de Raad over deze kwesties worden, onverminderd de overige bepalingen van deze Overeenkomst, bij consensus genomen en zijn definitief en bindend.
 
-#### Artikel 32. Gedifferentieerde en corrigerende maatregelen en bijzondere maatregelen
+##### Artikel 32. Gedifferentieerde en corrigerende maatregelen en bijzondere maatregelen
 
 1. Verbruikende leden die tot de ontwikkelingslanden behoren en waarvan de belangen nadelig worden beïnvloed door maatregelen, genomen krachtens deze Overeenkomst, kunnen de Raad verzoeken om passende gedifferentieerde en corrigerende maatregelen. De Raad overweegt het nemen van passende maatregelen in overeenstemming met lid 3 en lid 4 van sectie III van Resolutie 93 (IV) van de Conferentie van de Verenigde Naties inzake handel en ontwikkeling.
 
 2. Leden in de categorie van de minstontwikkelde landen, als omschreven door de Verenigde Naties, kunnen de Raad verzoeken om bijzondere maatregelen in overeenstemming met lid 4 van sectie III van Resolutie 93 (IV) en met de paragrafen 56 en 57 van de Verklaring van Parijs en het Actieprogramma voor de jaren negentig voor de minst-ontwikkelde landen.
 
-#### Artikel 33. Toetsing
+##### Artikel 33. Toetsing
 
 De Raad kan de uitvoering van deze Overeenkomst, met inbegrip van de doelstellingen en de financiële mechanismen, vijf jaar na de inwerkingtreding ervan evalueren.
 
-#### Artikel 34. Verbod van discriminatie
+##### Artikel 34. Verbod van discriminatie
 
 Geen enkele bepaling van deze Overeenkomst machtigt tot het gebruik van maatregelen gericht op beperking of verbod van de internationale handel in hout of houtproducten, in het bijzonder indien deze de invoer of het gebruik daarvan betreffen.
 
 ### HOOFDSTUK X. SLOTBEPALINGEN
 
-#### Artikel 35. Depositaris
+##### Artikel 35. Depositaris
 
 De Secretaris-generaal van de Verenigde Naties wordt hierbij aangewezen als depositaris van deze Overeenkomst.
 
-#### Artikel 36. Ondertekening, bekrachtiging, aanvaarding en goedkeuring
+##### Artikel 36. Ondertekening, bekrachtiging, aanvaarding en goedkeuring
 
 1. Deze Overeenkomst staat van 3 april 2006 tot een maand na de datum van haar inwerkingtreding op de zetel van de Verenigde Naties open voor ondertekening door de regeringen die waren uitgenodigd voor de Conferentie van de Verenigde Naties voor onderhandelingen over een overeenkomst ter opvolging van de [Internationale Overeenkomst inzake tropisch hout, 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001268).
 
@@ -568,17 +590,17 @@ De Secretaris-generaal van de Verenigde Naties wordt hierbij aangewezen als depo
 
 3. Na de ondertekening en bekrachtiging, aanvaarding of goedkeuring, of toetreding, of voorlopige toepassing, leggen de Europese Gemeenschap en andere in [artikel 5, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=III&artikel=5&z=2011-12-07&g=2011-12-07), bedoelde intergouvernementele organisaties een door de bevoegde autoriteit van de betrokken organisatie afgelegde verklaring neder waarin de aard en de omvang van haar bevoegdheden met betrekking tot de onder deze Overeenkomst vallende aangelegenheden worden gespecificeerd, en stellen zij de depositaris in kennis van eventuele latere substantiële wijzigingen van die bevoegdheden. Wanneer een dergelijke organisatie verklaart over de exclusieve bevoegdheid met betrekking tot alle onder deze Overeenkomst vallende aangelegenheden te beschikken, onthouden de lidstaten van die organisatie zich van de in [artikel 36, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=36&z=2011-12-07&g=2011-12-07), [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=37&z=2011-12-07&g=2011-12-07) en [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=38&z=2011-12-07&g=2011-12-07) bedoelde handelingen, of stellen zij de in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=41&z=2011-12-07&g=2011-12-07) bedoelde handeling, of trekken zij hun kennisgeving van voorlopige toepassing als bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=38&z=2011-12-07&g=2011-12-07) in.
 
-#### Artikel 37. Toetreding
+##### Artikel 37. Toetreding
 
 1. Deze Overeenkomst staat open voor toetreding door regeringen op door de Raad vastgestelde voorwaarden, waaronder een termijn voor de nederlegging van de akten van toetreding is begrepen. De Raad brengt deze voorwaarden ter kennis van de depositaris. De Raad kan evenwel uitstel verlenen aan regeringen die niet in staat zijn toe te treden binnen de termijn die is vastgesteld in de voorwaarden voor toetreding.
 
 2. De toetreding geschiedt door nederlegging van een akte van toetreding bij de depositaris.
 
-#### Artikel 38. Kennisgeving van voorlopige toepassing
+##### Artikel 38. Kennisgeving van voorlopige toepassing
 
 Een ondertekenende regering die voornemens is deze Overeenkomst te bekrachtigen, te aanvaarden of goed te keuren, of een regering waarvoor de Raad voorwaarden voor toetreding heeft vastgesteld maar die nog niet in staat is geweest haar akte neder te leggen, kan te allen tijde ter kennis van de depositaris brengen dat zij deze Overeenkomst voorlopig zal toepassen overeenkomstig haar nationaal recht, hetzij vanaf het tijdstip waarop deze Overeenkomst overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=39&z=2011-12-07&g=2011-12-07) in werking treedt, hetzij vanaf een bepaalde datum indien deze Overeenkomst reeds in werking is getreden.
 
-#### Artikel 39. Inwerkingtreding
+##### Artikel 39. Inwerkingtreding
 
 1. Deze Overeenkomst treedt definitief in werking op 1 februari 2008, of op enig tijdstip daarna, indien twaalf regeringen van producerende landen, die ten minste 60 procent bezitten van het totaal aantal stemmen zoals aangegeven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&bijlage=A&z=2011-12-07&g=2011-12-07) bij deze Overeenkomst, en tien regeringen van verbruikende landen die zijn opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&bijlage=B&z=2011-12-07&g=2011-12-07), die 60 procent van het mondiale importvolume van tropisch hout in het referentiejaar 2005 vertegenwoordigen, deze Overeenkomst definitief hebben ondertekend of deze hebben bekrachtigd, aanvaard of goedgekeurd overeenkomstig [artikel 36, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=36&z=2011-12-07&g=2011-12-07), of [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=X&artikel=37&z=2011-12-07&g=2011-12-07).
 
@@ -590,7 +612,7 @@ Een ondertekenende regering die voornemens is deze Overeenkomst te bekrachtigen,
 
 5. De uitvoerend directeur van de Organisatie roept de Raad zo spoedig mogelijk na de inwerkingtreding van de Overeenkomst bijeen.
 
-#### Artikel 40. Wijzigingen
+##### Artikel 40. Wijzigingen
 
 1. De Raad kan, bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07), de leden wijzigingen van deze Overeenkomst aanbevelen.
 
@@ -604,7 +626,7 @@ Een ondertekenende regering die voornemens is deze Overeenkomst te bekrachtigen,
 
 6. Indien aan de vereisten voor de inwerkingtreding van de wijziging niet is voldaan op de door de Raad overeenkomstig lid 2 vastgestelde datum, wordt de wijziging geacht te zijn ingetrokken.
 
-#### Artikel 41. Terugtrekking
+##### Artikel 41. Terugtrekking
 
 1. Ieder lid kan zich te allen tijde na de inwerkingtreding van deze Overeenkomst hieruit terugtrekken door aan de depositaris schriftelijk kennis te geven van zijn terugtrekking. Dit lid stelt tegelijkertijd de Raad in kennis van het door hem genomen besluit.
 
@@ -612,11 +634,11 @@ Een ondertekenende regering die voornemens is deze Overeenkomst te bekrachtigen,
 
 3. De terugtrekking ontslaat het lid niet van zijn ingevolge deze Overeenkomst jegens de Organisatie aangegane financiële verplichtingen.
 
-#### Artikel 42. Uitsluiting
+##### Artikel 42. Uitsluiting
 
 Indien de Raad besluit dat een lid niet aan zijn verplichtingen ingevolge deze Overeenkomst heeft voldaan en voorts besluit dat een zodanig verzuim de werking van deze Overeenkomst ernstig schaadt, kan de Raad, bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07), dat lid van deze Overeenkomst uitsluiten. De Raad stelt de depositaris hiervan onmiddellijk in kennis. Zes maanden na de datum waarop de Raad hiertoe heeft besloten, houdt dat lid op partij bij deze Overeenkomst te zijn.
 
-#### Artikel 43. Vereffening van de rekeningen met zich terugtrekkende of uitgesloten leden of met leden die niet in staat zijn een wijziging te aanvaarden
+##### Artikel 43. Vereffening van de rekeningen met zich terugtrekkende of uitgesloten leden of met leden die niet in staat zijn een wijziging te aanvaarden
 
 1. De Raad regelt de vereffening van de rekeningen met een lid dat ophoudt partij bij de Overeenkomst te zijn wegens:
 
@@ -630,7 +652,7 @@ Indien de Raad besluit dat een lid niet aan zijn verplichtingen ingevolge deze O
 
 3. Een lid dat is opgehouden partij bij deze Overeenkomst te zijn, kan geen aanspraak maken op enig aandeel in de opbrengst bij de liquidatie van de Organisatie, noch op haar andere bezittingen. Evenmin is dat lid aansprakelijk voor de betaling van enig deel van een eventueel tekort van de Organisatie bij beëindiging van deze Overeenkomst.
 
-#### Artikel 44. Werkingsduur, verlenging en beëindiging
+##### Artikel 44. Werkingsduur, verlenging en beëindiging
 
 1. Deze Overeenkomst blijft van kracht gedurende een tijdvak van tien jaar na haar inwerkingtreding, tenzij de Raad, bij bijzondere stemming overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003277&hoofdstuk=IV&artikel=12&z=2011-12-07&g=2011-12-07), besluit de Overeenkomst te verlengen, nieuwe onderhandelingen erover te voeren of haar te beëindigen overeenkomstig de bepalingen van dit artikel.
 
@@ -646,11 +668,11 @@ Indien de Raad besluit dat een lid niet aan zijn verplichtingen ingevolge deze O
 
 7. De Raad stelt de depositaris in kennis van ieder krachtens dit artikel genomen besluit.
 
-#### Artikel 45. Voorbehouden
+##### Artikel 45. Voorbehouden
 
 Ten aanzien van de bepalingen van deze Overeenkomst mogen geen voorbehouden worden gemaakt.
 
-#### Artikel 46. Aanvullende bepalingen en overgangsbepalingen
+##### Artikel 46. Aanvullende bepalingen en overgangsbepalingen
 
 1. Deze Overeenkomst treedt in de plaats van de [Internationale Overeenkomst inzake tropisch hout, 1994](https://wetten.overheid.nl/jci1.3:c:BWBV0001268).
 

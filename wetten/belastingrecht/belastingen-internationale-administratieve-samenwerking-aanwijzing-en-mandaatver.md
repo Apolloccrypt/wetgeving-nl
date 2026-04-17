@@ -1,13 +1,38 @@
 ---
 title: "Belastingen, internationale administratieve samenwerking; aanwijzing en mandaatverlening"
 identifier: "BWBR0051521"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-09-18
-laatste_update: 2025-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051521"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-09-18"
+last_updated: "2025-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051521"
+soort: "beleidsregel"
+stam_id: "17528573"
+version_id: "30929302"
+internal_id: "C44309651"
+label_id: "17430534"
+dtd_version: "2.0"
+original_entry_into_force: "2025-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051521/2025-09-18/0"
+intitule_bron: "Stcrt.2025-31397"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-08-28"
+intitule_published: "2025-09-17"
+intitule_in_force: "2025-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-31397"
+original_signed_date: "2025-08-28"
+original_published_date: "2025-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-31397"
+entry_into_force_date: "2025-09-18"
+jci_1_3: "jci1.3:c:BWBR0051521&z=2025-09-18&g=2025-09-18"
+jci_1_0: "1.0:c:BWBR0051521&g=2025-09-18"
+citeertitel_status: "redactioneel"
+signed_date: "2025-08-28"
+entry_into_force: "2025-09-18"
 ---
-
 # Belastingen, internationale administratieve samenwerking; aanwijzing en mandaatverlening
 
 **De Minister van Financiën heeft het volgende besloten.**

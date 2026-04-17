@@ -1,24 +1,50 @@
 ---
-title: "Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 2001, enz. (2013)"
+title: "Wijziging van enige fiscale uitvoeringsregelingen en van enige overige uitvoeringsregelingen"
 identifier: "BWBR0032669"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032669"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032669"
+soort: "ministeriele-regeling"
+stam_id: "12023723"
+version_id: "20017122"
+internal_id: "C28119321"
+label_id: "11995684"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032669/2014-01-01/0"
+intitule_bron: "Stcrt.2012-26349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-21"
+intitule_published: "2012-12-28"
+intitule_in_force: "2012-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26349"
+original_signed_date: "2012-12-21"
+original_published_date: "2012-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26349"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032669&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0032669&g=2014-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Uitvoeringsregeling inkomstenbelasting 2001, enz. (2013)"
+signed_date: "2012-12-21"
+entry_into_force: "2013-01-01"
 ---
-
 # Wijziging van enige fiscale uitvoeringsregelingen en van enige overige uitvoeringsregelingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel III
+##### Artikel III
 
 De Uitvoeringsregeling loonbelasting 2001 zoals deze op 31 december 2010 luidde wordt als volgt gewijzigd:
 
@@ -61,99 +87,99 @@ D. In artikel 55 wordt ‘€ 2,25’ telkens vervangen door ‘€ 2,30’ en w
 
 E. In artikel 59, eerste lid, wordt ‘2,85%’ vervangen door: 3%.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling BTW-compensatiefonds.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling belasting zware motorrijtuigen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Vrijstellingsregeling Wft.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Regeling wegvervoer goederen.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Op een verzoek om teruggaaf gedaan op de voet van [artikel XXXIII, eerste lid, van Overige fiscale maatregelen 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XXXIII) zijn de [artikelen 89, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89), en [91 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=91) zoals deze luidden op 31 december 2012 van toepassing. Voor de toepassing van [artikel 87b, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87b) zoals dit luidde op 31 december 2012 wordt het eerste kwartaal van het kalenderjaar 2013 aangemerkt als het betreffende tijdvak.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 

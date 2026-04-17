@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting. Eigenwoningregeling; bijleenregeling"
 identifier: "BWBR0050300"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-10-17
-laatste_update: 2024-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050300"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-10-17"
+last_updated: "2024-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050300"
+soort: "beleidsregel"
+stam_id: "17241793"
+version_id: "30366592"
+internal_id: "C43551851"
+label_id: "17147694"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050300/2024-10-17/0"
+intitule_bron: "Stcrt.2024-30149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-03"
+intitule_published: "2024-10-16"
+intitule_in_force: "2024-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-30149"
+original_signed_date: "2024-10-03"
+original_published_date: "2024-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-30149"
+entry_into_force_date: "2024-10-17"
+jci_1_3: "jci1.3:c:BWBR0050300&z=2024-10-17&g=2024-10-17"
+jci_1_0: "1.0:c:BWBR0050300&g=2024-10-17"
+citeertitel_status: "redactioneel"
+signed_date: "2024-10-03"
+entry_into_force: "2024-10-17"
 ---
-
 # Inkomstenbelasting. Eigenwoningregeling; bijleenregeling
 
 Dit onderdeel is nog niet inwerking getreden

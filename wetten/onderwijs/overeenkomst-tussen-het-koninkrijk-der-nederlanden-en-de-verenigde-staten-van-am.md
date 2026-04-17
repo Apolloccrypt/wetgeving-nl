@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de financiering van bepaalde uitwisselingsprogramma's voor onderwijsdoeleinden"
 identifier: "BWBV0003425"
-categorie: "Onderwijs"
-publicatiedatum: 1973-08-08
-laatste_update: 1973-08-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003425"
+country: "nl"
+rank: "verdrag"
+publication_date: "1973-08-08"
+last_updated: "1973-08-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003425"
+soort: "verdrag"
+stam_id: "10003527123"
+version_id: "10003576372"
+internal_id: "C10006982431"
+label_id: "10003512794"
+dtd_version: "2.0"
+original_entry_into_force: "1973-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003425/1973-08-08/0"
+intitule_bron: "Trb.1972-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-12-28"
+intitule_in_force: "1973-09-22"
+intitule_status: "goed"
+original_publication: "Trb.1972-169"
+original_published_date: "1972-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-169"
+entry_into_force_date: "1973-08-08"
+jci_1_3: "jci1.3:c:BWBV0003425&z=1973-08-08&g=1973-08-08"
+jci_1_0: "1.0:c:BWBV0003425&g=1973-08-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-08-08"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika inzake de financiering van bepaalde uitwisselingsprogramma's voor onderwijsdoeleinden
 
 De Regering van het Koninkrijk der Nederlanden
@@ -26,19 +48,19 @@ Geleid door de wens de programma's voort te zetten en uit te breiden ter verdere
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Wanneer in deze Overeenkomst de benaming „Minister van Buitenlandse Zaken” wordt gebruikt, is daaronder te verstaan de Minister van Buitenlandse Zaken van de Verenigde Staten van Amerika of elke ambtenaar of beambte van de Regering der Verenigde Staten van Amerika die door hem is aangewezen om namens hem te handelen.
 
 2. Wanneer in deze Overeenkomst de benaming „de Minister” wordt gebruikt, is daaronder te verstaan de Nederlandse Minister van Onderwijs en Wetenschappen, handelend in overleg met de Nederlandse Minister van Buitenlandse Zaken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Amerikaanse Onderwijsstichting in Nederland, opgericht bij de gewijzigde Overeenkomst van 1949, wordt hierbij omgezet in de Nederland-Amerika Commissie voor Uitwisselingen op Onderwijsgebied (hierna te noemen de NACEE), wier hoofddoel is de vergemakkelijking van de uitvoering van de onderwijsprogramma's bedoeld in deze Overeenkomst, en die wordt gefinancierd met behulp van gelden ter beschikking gesteld krachtens deze Overeenkomst.
 
 2. Op de NACEE zijn de bepalingen van de Overeenkomst van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het kantoor van de NACEE wordt gevestigd in Nederland op een door de Raad te bepalen plaats.
 
@@ -48,7 +70,7 @@ Zijn als volgt overeengekomen:
 
 4. Behalve zoals bepaald in artikel 10 van deze Overeenkomst valt de NACEE in de Verenigde Staten van Amerika en in het Koninkrijk der Nederlanden buiten de werking der nationale en monetaire wetten voor zover deze betrekking hebben op het besteden en uitgeven van betaalmiddelen en valutakredieten en de verwerving en het gebruik van eigendommen voor de toepassing van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 De krachtens deze Overeenkomst ter beschikking gestelde gelden worden, op de voorwaarden en binnen de beperkingen zoals hieronder aangegeven, door de NACEE aangewend ten behoeve van:
 
@@ -58,7 +80,7 @@ De krachtens deze Overeenkomst ter beschikking gestelde gelden worden, op de voo
 
 - c. het bekostigen van andere daarmede verband houdende programma's en activiteiten zoals voorzien in de overeenkomstig artikel 10 goedgekeurde begrotingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ambtenaar die aan het hoofd staat van de diplomatieke missie der Verenigde Staten van Amerika in Nederland (hierna te noemen „Hoofd der Missie”) en de Minister zijn Ere-Voorzitters van de NACEE.
 
@@ -68,7 +90,7 @@ De krachtens deze Overeenkomst ter beschikking gestelde gelden worden, op de voo
 
 - b. de Directeur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Raad bestaat uit twaalf leden, van wie zes onderdanen van de Verenigde Staten van Amerika en zes onderdanen van het Koninkrijk der Nederlanden.
 
@@ -90,7 +112,7 @@ De krachtens deze Overeenkomst ter beschikking gestelde gelden worden, op de voo
 
 10. De Ere-Voorzitters van de NACEE hebben het recht vergaderingen van de Raad of van zijn commissies bedoeld in artikel 7, onder (i), van deze Overeenkomst als waarnemer bij te wonen.
 
-#### Artikel 7
+##### Artikel 7
 
 Behoudens de bepalingen van deze Overeenkomst is de Raad gemachtigd al het nodige te verrichten om het doel van de NACEE te verwezenlijken en in het bijzonder tot:
 
@@ -114,19 +136,19 @@ Behoudens de bepalingen van deze Overeenkomst is de Raad gemachtigd al het nodig
 
 - j. het benoemen van een Directeur en van ander leidinggevend personeel en kantoorpersoneel, het vaststellen van hun arbeidsvoorwaarden en het doen van de noodzakelijke administratieve uitgaven.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directeur is verantwoordelijk voor de leiding van en het toezicht op de uitvoering van de volgens de besluiten en richtlijnen van de Raad op te stellen programma's en werkzaamheden. De Directeur woont de vergaderingen van de Raad bij, doch heeft geen stemrecht.
 
-#### Artikel 9
+##### Artikel 9
 
 Jaarlijks worden naar vorm en inhoud aanvaardbare verslagen over de werkzaamheden van de NACEE uitgebracht aan de Minister van Buitenlandse Zaken en de Minister. Naar goeddunken van de Raad of op verzoek van de Minister van Buitenlandse Zaken of de Minister kunnen veelvuldiger bijzondere verslagen worden uitgebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 Alle verbintenissen, verplichtingen en uitgaven van de NACEE worden aangegaan en verricht uit hoofde van een door de Minister van Buitenlandse Zaken en de Minister goedgekeurde jaarlijkse begroting, met inachtneming van eventueel door dezen voorgeschreven regelingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De gelden en eigendommen van de Amerikaanse Onderwijsstichting in Nederland, ingesteld bij de gewijzigde Overeenkomst van 1949, worden het eigendom van de NACEE en dienen te worden gebruikt voor de doelstellingen van deze Overeenkomst.
 
@@ -138,19 +160,19 @@ Alle verbintenissen, verplichtingen en uitgaven van de NACEE worden aangegaan en
 
 5. Alle zodanige gelden en inkomsten, zoals rente of anderszins, voortvloeiende uit investeringen of ander gebruik daarvan zijn beschikbaar voor uitgaven door de NACEE voor de doeleinden van deze Overeenkomst, binnen de grenzen van de begroting zoals deze zijn vastgesteld krachtens artikel 10.
 
-#### Artikel 12
+##### Artikel 12
 
 De Regering van de Verenigde Staten van Amerika en de Regering van het Koninkrijk der Nederlanden zullen alles in het werk stellen om de programma's waarin deze Overeenkomst voorziet te bevorderen en de moeilijkheden die zich bij de uitvoering daarvan mochten voordoen, op te lossen.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij beëindiging van deze Overeenkomst worden alle gelden en eigendommen van de NACEE het eigendom van de Regering van de Verenigde Staten van Amerika en de Regering van het Koninkrijk der Nederlanden, behoudens eventuele voorwaarden, beperkingen en aansprakelijkheden welke daaraan kunnen worden verbonden voordat de Overeenkomst wordt beëindigd. Deze gelden en eigendommen worden tussen de beide Regeringen verdeeld in verhouding tot hun onderscheiden bijdragen aan de NACEE tijdens de looptijd van deze Overeenkomst. Bij het vaststellen van de onderscheiden bijdragen worden de gelden en eigendommen die krachtens artikel 11, eerste lid, overgaan in het eigendom van de NACEE, eveneens tussen de beide Regeringen verdeeld naar verhouding van hun onderscheiden bijdragen.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij de inwerkingtreding van deze Overeenkomst wordt de gewijzigde Overeenkomst van 1949 beëindigd en vervangen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze Overeenkomst treedt in werking op de datum van ontvangst door de Regering van de Verenigde Staten van Amerika van een schriftelijke kennisgeving van de Regering van het Koninkrijk der Nederlanden waarin wordt medegedeeld dat aan de constitutionele vereisten voor de inwerkingtreding van de Overeenkomst is voldaan.
 

@@ -1,13 +1,39 @@
 ---
-title: "Intrekkingsregeling diverse regelingen in verband met wijziging Wet geluidhinder"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 november 2006, nr. LMV 2006.330831, houdende intrekking van diverse regelingen in verband met de wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350)"
 identifier: "BWBR0020603"
-categorie: "Overig"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020603"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020603"
+soort: "ministeriele-regeling"
+stam_id: "8756743"
+version_id: "13828412"
+internal_id: "C18873511"
+label_id: "8736534"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020603/2007-01-01/0"
+intitule_bron: "Stcrt.2006-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-29"
+intitule_published: "2006-12-06"
+intitule_in_force: "2006-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-238"
+original_signed_date: "2006-11-29"
+original_published_date: "2006-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-238-p18-SC78056"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020603&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0020603&g=2007-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Intrekkingsregeling diverse regelingen in verband met wijziging Wet geluidhinder"
+signed_date: "2006-11-29"
+entry_into_force: "2007-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 november 2006, nr. LMV 2006.330831, houdende intrekking van diverse regelingen in verband met de wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350)
 
 Gelet op [artikel 15.13 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=12) en [16 van het Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=16);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Wet geluidhinder (modernisering instrumentarium geluidbeleid, eerste fase) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende regelingen worden ingetrokken:
 
@@ -34,13 +60,13 @@ De volgende regelingen worden ingetrokken:
 
 - g. [Regeling van 12 mei 2005, nr. LMV 2005028502, houdende vaststelling van de subsidieplafonds en de vaststelling van de projecten die in aanmerking komen voor subsidie voor de uitvoeringskosten van verkeerslawaai in 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018332) (Stcrt. 2005, 98).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voorzover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020603&artikel=1&z=2007-01-01&g=2007-01-01), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, ingevolge de regelingen, genoemd in [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0020603&artikel=1&z=2007-01-01&g=2007-01-01), blijven in stand.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking op het tijdstip waarop de [wet van 5 juli 2006 houdende wijziging van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0020051) (modernisering instrumentarium geluidbeleid, eerste fase; Stb. 2006, 350) in werking treedt.
 

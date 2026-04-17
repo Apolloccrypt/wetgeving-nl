@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en het Koninkrijk Bhutan"
 identifier: "BWBV0001235"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-08-02
-laatste_update: 1996-08-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001235"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-08-02"
+last_updated: "1996-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001235"
+soort: "verdrag"
+stam_id: "10001600073"
+version_id: "10001678142"
+internal_id: "C10006986321"
+label_id: "10001600184"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001235/1996-08-02/0"
+intitule_bron: "Trb.1994-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-07-15"
+intitule_published: "1994-05-17"
+intitule_in_force: "1996-08-21"
+intitule_status: "goed"
+original_publication: "Trb.1994-104"
+original_signed_date: "1996-07-15"
+original_published_date: "1994-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-104"
+entry_into_force_date: "1996-08-02"
+jci_1_3: "jci1.3:c:BWBV0001235&z=1996-08-02&g=1996-08-02"
+jci_1_0: "1.0:c:BWBV0001235&g=1996-08-02"
+citeertitel_status: "redactioneel"
+signed_date: "1996-07-15"
+entry_into_force: "1996-08-02"
 ---
-
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en het Koninkrijk Bhutan
 
 The Government of the Kingdom of the Netherlands
@@ -40,13 +65,13 @@ Considering that to that end an agreement should be concluded which shall create
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 1. The two Governments hereby agree to establish long-term cooperation between their countries based on equality and reciprocity as well as consultation and mutual assistance in order to pursue effectively and efficiently all aspects of sustainable development, thereby promoting the participation of all interest groups in their respective societies.
 
 2. Accordingly they hereby create a legal and institutional framework for the development and implementation of policies, arrangements, programmes and projects designed to achieve the objective of this Agreement.
 
-#### Article II
+##### Article II
 
 The policies, arrangements, programmes and projects referred to in Article I may have the following aims:
 
@@ -82,17 +107,17 @@ The policies, arrangements, programmes and projects referred to in Article I may
 
 - p). to promote any other form of co-operation or exchange that both Governments consider conducive to the process of sustainable development.
 
-#### Article III
+##### Article III
 
 The two Governments shall, without prejudice to their international commitments, consult with one another on the positions to be adopted with regard to sustainable development issues, which have to be decided upon in international organisations and specialised international conferences. These consultations will also be held with other countries, where necessary and appropriate.
 
-#### Article IV
+##### Article IV
 
 1. The co-operation and, in particular, the policies, arrangements, programmes and projects referred to in Article I shall be brought about on the basis of existing international agreements, policies, arrangements, programmes and projects between the two countries and shall in no way affect the obligations of either country under any international agreement.
 
 2. The two Governments shall decide in respect of any programme or project for sustainable development agreed to between the two Governments before the date of entry into force of this Agreement and not yet completed at that date whether, and, if so, to what extent such programme or project shall thereafter be governed by this Agreement.
 
-#### Article V
+##### Article V
 
 1. The two Governments hereby establish a Joint Committee consisting of not more than two high level officials of each Government. Each Government will establish a national mechanism as stipulated in Article VI.
 
@@ -106,11 +131,11 @@ The two Governments shall, without prejudice to their international commitments,
 
 6. The Joint Committee shall take its decisions by consensus.
 
-#### Article VI
+##### Article VI
 
 In order to promote the co-ordination of the implementation of this Agreement, each Government shall define or establish a national mechanism for the relevant preparation and implementation of decisions adopted under this Agreement. Both Governments will inform each other of the executive entity to be established and which will be constituted in accordance with the laws of that country. The national mechanisms, which can also take the form of, for instance, a "task force", will promote **inter alia**the participation of different segments of society in the preparation and execution of the different programmes and projects.
 
-#### Article VII
+##### Article VII
 
 1. This Agreement shall enter into force on the date on which the two Governments have given each other written notification that the procedures legally required therefor in their respective countries have been complied with.
 

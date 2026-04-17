@@ -1,16 +1,38 @@
 ---
 title: "Europese Overeenkomst houdende aanvulling van het Verdrag nopens het Wegverkeer en het Protocol nopens de verkeerstekens, ondertekend te Genève op 19 september 1949"
 identifier: "BWBV0005607"
-categorie: "Verkeer"
-publicatiedatum: 1953-12-20
-laatste_update: 1953-12-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005607"
+country: "nl"
+rank: "verdrag"
+publication_date: "1953-12-20"
+last_updated: "1953-12-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005607"
+soort: "verdrag"
+stam_id: "10004759253"
+version_id: "10005035462"
+internal_id: "C10007614601"
+label_id: "10004743074"
+dtd_version: "2.0"
+original_entry_into_force: "1953-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005607/1953-12-20/0"
+intitule_bron: "Trb.1954-124"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-10-02"
+intitule_in_force: "1954-10-02"
+intitule_status: "goed"
+original_publication: "Trb.1954-124"
+original_published_date: "1954-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-124"
+entry_into_force_date: "1953-12-20"
+jci_1_3: "jci1.3:c:BWBV0005607&z=1953-12-20&g=1953-12-20"
+jci_1_0: "1.0:c:BWBV0005607&g=1953-12-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-12-20"
 ---
-
 # Europese Overeenkomst houdende aanvulling van het Verdrag nopens het Wegverkeer en het Protocol nopens de verkeerstekens, ondertekend te Genève op 19 september 1949
 
-#### Artikel 1
+##### Artikel 1
 
 De ondergetekenden, behoorlijk gemachtigd, zijn overeengekomen om het [Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) en het [Protocol nopens de verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) van 19 September 1949 aan te vullen wat betreft de volgende punten:
 
@@ -52,27 +74,27 @@ Het opnemen van het woord „STOP” in het teken „STOP BIJ KRUISPUNT” is ve
 
 - (d). De afmetingen zijn zodanig, dat de aanduiding gemakkelijk door de bestuurders van zeer snel rijdende voertuigen kan worden waargenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze Overeenkomst staat tot 30 Juni 1951 open voor ondertekening en na die datum voor toetreding door de landen die aan de werkzaamheden van de Economische Commissie voor Europa deelnemen en Partij zijn bij het [Verdrag nopens het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) en bij het [Protocol nopens de verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) van 19 September 1949.
 
 2. De akten van toetreding en eventueel de akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties, die daarvan mededeling doet aan al de landen bedoeld onder het eerste lid van dit artikel.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze Overeenkomst mag worden opgezegd met inachtneming van een opzeggingstermijn van zes maanden aan de Secretaris-Generaal van de Verenigde Naties, die daarvan mededeling doet aan de andere Overeenkomstsluitende Partijen. Na het verstrijken van de termijn van zes maanden houdt de Overeenkomst op van kracht te zijn voor de Overeenkomstsluitende Partij die haar heeft opgezegd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze Overeenkomst treedt in werking bij het in werking treden van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005415) en het [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005570) van 19 September 1949, vermeld in artikel 1, op voorwaarde dat drie van de Staten die Partij zijn bij bedoeld Verdrag en Protocol, Partij geworden zijn bij de Overeenkomst.
 
 2. De Overeenkomst eindigt indien het aantal Overeenkomstsluitende Partijen op enig ogenblik minder dan drie bedraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 Ieder geschil tussen twee of meer Overeenkomstsluitende Partijen met betrekking tot de uitlegging of toepassing van deze Overeenkomst, hetwelk de Partijen niet door onderhandeling of anderszins kunnen oplossen, kan door elk van de Overeenkomstsluitende Partijen ter beslissing aanhangig gemaakt worden bij een arbitrage-commissie, waarvoor elk van de Overeenkomstsluitende Partijen een lid aanwijst en waarvan de Voorzitter door de Secretaris-Generaal van de Verenigde Naties wordt aangewezen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het origineel van deze Overeenkomst wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan elk van de in artikel 2, eerste lid, bedoelde landen een gewaarmerkt afschrift ervan doet toekomen.
 

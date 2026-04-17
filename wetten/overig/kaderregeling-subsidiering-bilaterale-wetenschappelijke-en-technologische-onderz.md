@@ -1,13 +1,37 @@
 ---
 title: "Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking"
 identifier: "BWBR0012454"
-categorie: "Overig"
-publicatiedatum: 2007-02-17
-laatste_update: 2007-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012454"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-02-17"
+last_updated: "2007-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012454"
+soort: "ministeriele-regeling"
+stam_id: "3543233"
+version_id: "5326602"
+internal_id: "C5519691"
+label_id: "3523474"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012454/2007-02-17/0"
+intitule_bron: "Stcrt.2001-97"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-01"
+intitule_published: "2001-05-21"
+intitule_in_force: "2001-05-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-97"
+original_signed_date: "2001-05-01"
+original_published_date: "2001-05-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-23"
+jci_1_3: "jci1.3:c:BWBR0012454&z=2007-02-17&g=2007-02-17"
+jci_1_0: "1.0:c:BWBR0012454&g=2007-02-17"
+citeertitel_status: "officieel"
+signed_date: "2001-05-01"
+entry_into_force: "2001-05-23"
 ---
-
 # Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking
 
 Gelet op [artikel 4 van de Wet overige OCenW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4);
@@ -16,11 +40,11 @@ Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 1. De minister verstrekt subsidie voor het doen uitvoeren van programma's voor bilaterale wetenschappelijke of technologische onderzoeksamenwerking.
 
@@ -32,19 +56,19 @@ In deze regeling wordt verstaan onder:
 
 - c. voor de uitvoering wordt een uitvoerder aangewezen waarmee een subsidierelatie wordt aangegaan.
 
-#### Artikel 3. Subsidieverlening aan de uitvoerder
+##### Artikel 3. Subsidieverlening aan de uitvoerder
 
 1. De minister verleent slechts subsidie aan een uitvoerder die in het kader van een verdrag of een MoU in aanmerking komt voor de uitvoering van een programma voor bilaterale wetenschappelijke of technologische onderzoeksamenwerking.
 
 2. De subsidie wordt verleend voor de looptijd van een programma. Indien een programma is opgebouwd uit fases of onderdelen, dan kan de subsidie per fase of onderdeel worden verleend.
 
-#### Artikel 4. Subsidiebedrag en subsidieplafond
+##### Artikel 4. Subsidiebedrag en subsidieplafond
 
 1. De minister stelt een subsidieplafond vast per programma waarvoor subsidie wordt verleend. Indien een programma bestaat uit elkaar opvolgende fases of aparte onderdelen kan de minister een subsidieplafond per desbetreffende fase of onderdeel vaststellen.
 
 2. De minister maakt het subsidieplafond vóór de subsidieverlening aan de uitvoerder bekend.
 
-#### Artikel 5. Delegatie
+##### Artikel 5. Delegatie
 
 1. De minister kan de bevoegdheid tot het nemen van besluiten met betrekking tot subsidiëring van in het kader van een programma op te starten projecten delegeren.
 
@@ -56,17 +80,17 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Subsidieaanvraag
 
-#### Artikel 6. Vereisten ten aanzien van in te dienen stukken
+##### Artikel 6. Vereisten ten aanzien van in te dienen stukken
 
 1. De uitvoerder verstrekt bij de aanvraag om subsidieverlening voor een programma een meerjarenactiviteitenplan en een daarbij aansluitende meerjarenraming. Beide stukken zien op de gehele looptijd van het programma tenzij het programma is opgebouwd uit fases of onderdelen. In dat geval dient de uitvoerder een meerjarenactiviteitenplan met bijbehorende meerjarenraming in per fase of onderdeel tenzij de minister hiertoe anders besluit.
 
 2. De uitvoerder dient gedurende het tijdvak van het programma voor de aanvang van elk programmajaar een voor dat jaar geldend activiteitenplan in met bijbehorende begroting, tenzij daaraan naar het oordeel van de Minister geen behoefte bestaat.
 
-#### Artikel 7. Het meerjarenactiviteitenplan en het activiteitenplan
+##### Artikel 7. Het meerjarenactiviteitenplan en het activiteitenplan
 
 Het meerjarenactiviteitenplan omvat de hoofdlijnen van de activiteiten en van de daarmee beoogde resultaten. Het activiteitenplan omvat een overzicht van de aard en omvang van de voorgenomen activiteiten. Beide plannen bevatten verifieerbare doelstellingen.
 
-#### Artikel 8. De meerjarenraming en de begroting
+##### Artikel 8. De meerjarenraming en de begroting
 
 1. De meerjarenraming en de begroting bieden inzicht in de verwachte inkomsten en uitgaven gedurende de looptijd van het programma. Indien een programma is opgebouwd uit fases of onderdelen, dan bieden de meerjarenraming en de begroting inzicht in de verwachte inkomsten en uitgaven gedurende de desbetreffende fase of voor het desbetreffende onderdeel.
 
@@ -88,25 +112,25 @@ Het meerjarenactiviteitenplan omvat de hoofdlijnen van de activiteiten en van de
 
 #### Paragraaf 3. Subsidieverlening
 
-#### Artikel 9. Subsidieverlening
+##### Artikel 9. Subsidieverlening
 
 De minister besluit tot subsidieverlening overeenkomstig het door hem vastgestelde programma.
 
-#### Artikel 10. Advies voorafgaande aan subsidieverlening
+##### Artikel 10. Advies voorafgaande aan subsidieverlening
 
 De minister kan ten behoeve van het besluit tot de subsidieverlening het advies inwinnen van een of meer externe deskundigen.
 
-#### Artikel 11. Tijdvak subsidieverlening
+##### Artikel 11. Tijdvak subsidieverlening
 
 Subsidie wordt verleend voor de duur van een programma. In afwijking van de vorige volzin, kan de minister indien een programma is opgebouwd uit fases of onderdelen, subsidie voor de duur van een fase of onderdeel verlenen.
 
-#### Artikel 12. Begrotingsvoorbehoud
+##### Artikel 12. Begrotingsvoorbehoud
 
 In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), worden de op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012454&paragraaf=1&artikel=2&z=2007-02-17&g=2007-02-17) verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander voorzover van toepassing naar rato van het aantal uitvoerders en van de hoogte van de verleende subsidiebedragen.
 
 #### Paragraaf 4. Verplichtingen van de uitvoerder
 
-#### Artikel 13. Verantwoordelijkheid en verplichtingen ten aanzien van de uitvoering
+##### Artikel 13. Verantwoordelijkheid en verplichtingen ten aanzien van de uitvoering
 
 1. De uitvoerder is verantwoordelijk voor het door hem uitgevoerde programma dan wel de fase of het onderdeel daarvan waarvoor aan hem subsidie is verleend.
 
@@ -116,13 +140,13 @@ In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34,
 
 4. Indien in het programma, dan wel een fase of een onderdeel van een programma, is gericht op het behalen van een bepaald resultaat, dan kan bij de subsidieverlening aan de uitvoerder de verplichting worden opgelegd om garant te staan voor het behalen van dat resultaat.
 
-#### Artikel 14. Informatieplicht
+##### Artikel 14. Informatieplicht
 
 1. De uitvoerder werkt mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen ten behoeve van de ontwikkeling van beleid.
 
 2. De uitvoerder doet zo spoedig mogelijk schriftelijk mededeling van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie. Bij de subsidieverlening kunnen de van belang geachte omstandigheden nader worden omschreven.
 
-#### Artikel 15. Evaluatie
+##### Artikel 15. Evaluatie
 
 1. Bij de subsidieverlening kan de minister aan de uitvoerder de verplichting opleggen tot het houden van een evaluatie. De minister kan daarbij nadere regels stellen.
 
@@ -132,11 +156,11 @@ In het geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34,
 
 4. Bij een subsidieverlening per fase of onderdeel van een programma, is een positieve evaluatie een voorwaarde voor het verlenen van subsidie aan de uitvoerder voor de volgende fase of onderdeel.
 
-#### Artikel 16. Egalisatiereserve
+##### Artikel 16. Egalisatiereserve
 
 De uitvoerder vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
-#### Artikel 17. Jaarlijkse verantwoording
+##### Artikel 17. Jaarlijkse verantwoording
 
 1. In de jaarlijkse verantwoording geeft de uitvoerder inzicht in de voortgang en de behaalde resultaten. Aangegeven wordt in hoeverre de vooraf gestelde doelstellingen zijn behaald. Indien de doelstellingen niet zijn gehaald dan dient de uitvoerder daarvoor een verklaring te geven. Afwijkingen van de doelstellingen zonder goede verklaring kunnen leiden tot intrekking of wijziging van de subsidieverlening en tot terugvordering van verstrekte voorschotten.
 
@@ -144,7 +168,7 @@ De uitvoerder vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Al
 
 #### Paragraaf 5. Subsidievaststelling
 
-#### Artikel 18. Subsidievaststelling
+##### Artikel 18. Subsidievaststelling
 
 1. Bij subsidieverlening voor de uitvoering van een programma, dient de uitvoerder na afloop van het programma een aanvraag tot vaststelling van de subsidie in. Bij subsidieverlening voor de uitvoering van een fase of een onderdeel van een programma, dient de uitvoerder na afloop van de fase of het onderdeel een aanvraag tot subsidievaststelling in.
 
@@ -162,21 +186,21 @@ De uitvoerder vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Al
 
 #### Paragraaf 6. Betaling
 
-#### Artikel 19. Voorschotten
+##### Artikel 19. Voorschotten
 
 Bij de subsidieverlening wordt een bevoorschottingsritme vastgesteld.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 20. Intrekking Subsidieregeling Bilaterale onderzoeksamenwerking Nederland en de Russische Federatie 2001-2003
+##### Artikel 20. Intrekking Subsidieregeling Bilaterale onderzoeksamenwerking Nederland en de Russische Federatie 2001-2003
 
 De Subsidieregeling Bilaterale onderzoeksamenwerking Nederland en de Russische Federatie 2001-2003 wordt ingetrokken.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking.
 

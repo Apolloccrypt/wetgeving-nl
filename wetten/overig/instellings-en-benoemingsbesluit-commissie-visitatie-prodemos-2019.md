@@ -1,20 +1,46 @@
 ---
-title: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2019 met kenmerk 2019-0000509315, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2019"
 identifier: "BWBR0042685"
-categorie: "Overig"
-publicatiedatum: 2019-10-22
-laatste_update: 2019-10-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042685"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-10-22"
+last_updated: "2019-10-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042685"
+soort: "ministeriele-regeling"
+stam_id: "15210643"
+version_id: "26088892"
+internal_id: "C37129081"
+label_id: "15157754"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042685/2019-10-22/0"
+intitule_bron: "Stcrt.2019-56961"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-10"
+intitule_published: "2019-10-21"
+intitule_in_force: "2019-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-56961"
+original_signed_date: "2019-10-10"
+original_published_date: "2019-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-56961"
+entry_into_force_date: "2019-10-22"
+jci_1_3: "jci1.3:c:BWBR0042685&z=2019-10-22&g=2019-10-22"
+jci_1_0: "1.0:c:BWBR0042685&g=2019-10-22"
+citeertitel_status: "officieel"
+short_title: "Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019"
+signed_date: "2019-10-10"
+entry_into_force: "2019-10-22"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2019 met kenmerk 2019-0000509315, tot instelling en benoeming van een commissie voor de visitatie van ProDemos 2019
 
 gelet op het protocol visitatie t.b.v. de visitatiecommissie ProDemos van augustus 2015, nr. 2015-0000488822,
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **ministerie:** ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een commissie voor de visitatie van ProDemos 2019.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 4. Naar aanleiding van de bevindingen en conclusies is de commissie bevoegd aanbevelingen aan ProDemos te doen.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter en de andere leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 De leden van de commissie zijn:
 
@@ -72,23 +98,23 @@ De leden van de commissie zijn:
 
 - –. mr. dr. R. (Remco) Nehmelman (voor de periode van 1 april 2019 tot en met 22 augustus 2019)
 
-#### Artikel 5. Secretaris
+##### Artikel 5. Secretaris
 
 1. De minister van Binnenlandse Zaken en Koninkrijksrelaties voegt een secretaris aan de commissie toe.
 
 2. De secretaris is voor de uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
-#### Artikel 6. Duur van het onderzoek
+##### Artikel 6. Duur van het onderzoek
 
 1. De commissie brengt uiterlijk negen maanden na de inwerkingtreding van dit besluit haar eindrapport uit aan de minister.
 
 2. Na het uitbrengen van het eindrapport is de commissie opgeheven.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. Het protocol visitatie t.b.v. de visitatiecommissie ProDemos schrijft de werkwijze van de commissie voor.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van het onderzoek.
 
@@ -96,7 +122,7 @@ De leden van de commissie zijn:
 
 3. Ambtenaren van het ministerie zijn verplicht om de leden van de commissie de verlangde medewerking te verlenen, voor zover deze samenhangt met hun ambtelijke taak.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. De commissieleden ontvangen een vergoeding per vergadering, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
@@ -112,23 +138,23 @@ De leden van de commissie zijn:
 
 5. Op grond van [artikel 2, tweede lid, Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) kunnen de voorzitter en de overige leden een vergoeding ontvangen voor reis- en verblijfskosten op de voet van het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) en het [Reisbesluit buitenland](https://wetten.overheid.nl/jci1.3:c:BWBR0006842).
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
 2. Het eindrapport van de commissie wordt door de minister openbaar gemaakt.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 1. Het archief van de onderzoekscommissie wordt na afloop van het onderzoek overgebracht naar het archief van het ministerie.
 
 2. Het beheer van het archief vindt plaats met inachtneming van het protocol, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042685&artikel=7&z=2019-10-22&g=2019-10-22).
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 25 maart 2019.
 
-#### Artikl 13 Citeertitel
+##### Artikl 13 Citeertitel
 
 Dit besluit wordt aangehaald als: Instellings- en benoemingsbesluit Commissie visitatie ProDemos 2019.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
+title: "Wet van 29 januari 2025, houdende regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten"
 identifier: "BWBR0050740"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050740"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050740"
+soort: "wet"
+stam_id: "17361103"
+version_id: "30602152"
+internal_id: "C43963401"
+label_id: "17264224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050740/2025-07-01/0"
+intitule_bron: "Stb.2025-25"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-29"
+intitule_published: "2025-02-04"
+intitule_in_force: "2025-03-27"
+intitule_status: "goed"
+original_publication: "Stb.2025-25"
+original_signed_date: "2025-01-29"
+original_published_date: "2025-02-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "36225"
+original_url_id: "stb-2025-25"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0050740&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0050740&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten"
+signed_date: "2025-01-29"
+entry_into_force: "2025-07-01"
 ---
-
-# Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten
+# Wet van 29 januari 2025, houdende regels omtrent gegevensverwerking in de persoonsgerichte aanpak van radicalisering en terroristische activiteiten
 
 Allen, die deze zullen zien of horen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is een beter juridis
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -24,13 +51,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. **gemeente van verblijf:** gemeente waarin de betrokkene verblijft of voor het laatst heeft verbleven onderscheidenlijk gevestigd is.
 
-#### Artikel 2. Instandhouding en doel van casusoverleggen
+##### Artikel 2. Instandhouding en doel van casusoverleggen
 
 1. De burgemeester van de gemeente van verblijf van een natuurlijke persoon of rechtspersoon die in verband kan worden gebracht met radicalisering of terroristische activiteiten bevordert de afstemming van maatregelen ten aanzien van die persoon en draagt daartoe zorg voor casusoverleg tussen de deelnemers.
 
 2. Deelnemers van een casusoverleg ten behoeve van de persoonsgerichte aanpak van radicalisering en terroristische activiteiten verwerken gezamenlijk gegevens voor zover dat noodzakelijk is voor de uitoefening, afstemming en coördinatie van de inzet van hun wettelijke taken en bevoegdheden en daaraan gerelateerde noodzakelijke werkzaamheden op het terrein van strafrechtelijke en bestuursrechtelijke handhaving alsmede begeleiding en zorg- en hulpverlening in het belang van het voorkomen, verminderen en bestrijden van radicalisering en terroristische activiteiten.
 
-#### Artikel 3. Deelnemers
+##### Artikel 3. Deelnemers
 
 1. Als deelnemers aan het casusoverleg worden aangewezen:
 
@@ -52,7 +79,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij toepassing van het derde lid zijn de artikelen die bij of krachtens deze wet van toepassing zijn op alle deelnemers, genoemd in het eerste lid, van overeenkomstige toepassing op de derden, met uitzondering van [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=12&z=2025-07-01&g=2025-07-01). De deelnemers, genoemd in het eerste lid, zien erop toe dat derden die op incidentele basis deelnemen aan het casusoverleg voldoen aan de Algemene verordening gegevensbescherming en het bepaalde bij of krachtens deze wet.
 
-#### Artikel 4. Te verstrekken categorieën persoonsgegevens
+##### Artikel 4. Te verstrekken categorieën persoonsgegevens
 
 Tenzij naar het oordeel van de deelnemer zwaarwegende redenen zich daartegen verzetten, verstrekt elke deelnemer aan de deelnemers van het casusoverleg de navolgende categorieën persoonsgegevens, voor zover die noodzakelijk zijn met het oog op het doel van het casusoverleg, en de gegevens betrekking hebben op een natuurlijke persoon of rechtspersoon die in verband kan worden gebracht met radicalisering of terroristische activiteiten, waarop een aanmelding van een casus betrekking heeft:
 
@@ -72,7 +99,7 @@ Tenzij naar het oordeel van de deelnemer zwaarwegende redenen zich daartegen ver
 
 - h. gegevens over personen met wie betrokkene een sociale relatie onderhoudt, voor zover die gegevens relevant zijn bij het opstellen, uitvoeren of evalueren van het integrale plan van aanpak, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=6&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 5. Weging voorafgaand aan casusoverleg
+##### Artikel 5. Weging voorafgaand aan casusoverleg
 
 1. Een deelnemer kan een casus voor overleg aanmelden bij de politie, het openbaar ministerie of de burgemeester van de gemeente van verblijf, naar aanleiding van gedragingen van een natuurlijke persoon of rechtspersoon die in verband kan worden gebracht met radicalisering of terroristische activiteiten of een situatie waarin deze verkeert, die verband houden met het doel van het casusoverleg, en daartoe gegevens verwerken.
 
@@ -88,7 +115,7 @@ Tenzij naar het oordeel van de deelnemer zwaarwegende redenen zich daartegen ver
 
 7. Voor de toepassing van dit artikel zijn de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=4&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=8&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing op de verstrekking van persoonsgegevens door het college van burgemeester en wethouders van de gemeente van verblijf aan de politie, het openbaar ministerie en de burgemeester van de gemeente van verblijf.
 
-#### Artikel 6. Werkwijze casusoverleg
+##### Artikel 6. Werkwijze casusoverleg
 
 1. Bij het casusoverleg kunnen de betrokken deelnemers overgaan tot het verder verzamelen en uitwisselen van en samenvoegen met andere relevante gegevens, om gezamenlijk de casus te analyseren. Indien dit naar het oordeel van de betrokken deelnemers noodzakelijk is met het oog op het doel van het casusoverleg, kunnen de deelnemers in afstemming afspraken maken over een integraal plan van aanpak met interventies die ten aanzien van een betrokkene worden ingezet, en kunnen zij daartoe gegevens verwerken.
 
@@ -96,31 +123,31 @@ Tenzij naar het oordeel van de deelnemer zwaarwegende redenen zich daartegen ver
 
 3. Indien de deelnemers van het casusoverleg de casus afsluiten, worden de persoonsgegevens die in de casus zijn opgenomen, na afsluiting afgeschermd voor de deelnemers totdat uitvoering wordt gegeven aan de verplichting tot vernietiging of anonimisering, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=9&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 7. Informatieverstrekking tussen casusoverleggen
+##### Artikel 7. Informatieverstrekking tussen casusoverleggen
 
 1. De deelnemers die ter uitvoering van deze wet persoonsgegevens bewaren betreffende een natuurlijke persoon of rechtspersoon die in die gemeente verblijft of heeft verbleven, onderscheidenlijk in die gemeente is gevestigd, en die in verband kan worden gebracht met radicalisering of terroristische activiteiten, kunnen de hem betreffende persoonsgegevens verstrekken aan de deelnemers van hetzelfde soort casusoverleg van een andere gemeente van verblijf of waarin de gevolgen van de radicalisering van betrokkene merkbaar zijn of waarin personen verblijven met wie betrokkene een sociale relatie onderhoudt.
 
 2. De gegevensverstrekking ingevolge het eerste lid vindt niet plaats voor zover zwaarwegende redenen zich daartegen verzetten naar het oordeel van de deelnemers die deze persoonsgegevens oorspronkelijk hebben ingebracht.
 
-#### Artikel 8. Bijzondere categorieën persoonsgegevens en persoonsgegevens van strafrechtelijke aard
+##### Artikel 8. Bijzondere categorieën persoonsgegevens en persoonsgegevens van strafrechtelijke aard
 
 1. Gelet op artikel 9, eerste lid, onderdeel g, van de Algemene verordening gegevensbescherming, kunnen de gegevens die op grond van deze wet worden verwerkt, voor zover noodzakelijk voor het doel van het casusoverleg, persoonsgegevens bevatten waaruit ras of etnische afkomst, politieke, religieuze of levensbeschouwelijke overtuigingen blijken, alsmede gegevens over gezondheid.
 
 2. Persoonsgegevens van strafrechtelijke aard als bedoeld in [artikel 1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=1) mogen worden verwerkt voor zover noodzakelijk voor het doel van het casusoverleg.
 
-#### Artikel 9. Vernietiging of anonimisering van persoonsgegevens
+##### Artikel 9. Vernietiging of anonimisering van persoonsgegevens
 
 De persoonsgegevens die door de deelnemers van het casusoverleg gezamenlijk worden verwerkt, worden vernietigd of geanonimiseerd zodra zij niet langer noodzakelijk zijn voor het doel van het casusoverleg, en worden in ieder geval uiterlijk vijf jaar na de datum van laatste verwerking verwijderd uit de systemen van de deelnemers van het casusoverleg of geanonimiseerd, tenzij een wettelijk voorschrift daaraan in de weg staat of de verwerking noodzakelijk is voor de instelling, uitoefening of onderbouwing van een rechtsvordering.
 
-#### Artikel 10. Terugmelding onjuistheden
+##### Artikel 10. Terugmelding onjuistheden
 
 Mocht gedurende de gegevensverwerking blijken dat persoonsgegevens onjuist zijn, dan worden deze onverwijld gecorrigeerd en wordt een melding gedaan aan de organisatie waarvan de persoonsgegevens afkomstig zijn, opdat ook in haar gegevensbestanden kan worden gecontroleerd of de persoonsgegevens juist zijn geregistreerd en na validatie de gegevens kunnen worden gecorrigeerd.
 
-#### Artikel 11. Informatieverstrekking aan betrokkenen
+##### Artikel 11. Informatieverstrekking aan betrokkenen
 
 Indien de deelnemers hun verplichting de betrokkene te informeren, bedoeld in artikel 14 van de Algemene verordening gegevensbescherming, buiten toepassing laten voor zover zulks naar hun oordeel noodzakelijk en evenredig is ter waarborging van een of meer van de belangen, bedoeld in [artikel 41, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=41), stellen zij daarvan een schriftelijke motivering op ten behoeve van een casusoverleg. Zij geven de schriftelijke motivering ter inzage van de commissie, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=15&z=2025-07-01&g=2025-07-01), ten behoeve van de uitoefening van haar taak, bedoeld in dat artikel.
 
-#### Artikel 12. Gezamenlijke verwerkingsverantwoordelijkheid
+##### Artikel 12. Gezamenlijke verwerkingsverantwoordelijkheid
 
 1. De deelnemers van het casusoverleg, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=3&z=2025-07-01&g=2025-07-01), zijn gezamenlijke verwerkingsverantwoordelijken als bedoeld in artikel 26, eerste lid, van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens in het casusoverleg.
 
@@ -134,7 +161,7 @@ Indien de deelnemers hun verplichting de betrokkene te informeren, bedoeld in ar
 
 - b. de aanwijzing van een deelnemende overheidsinstantie of deelnemend overheidsorgaan als contactpunt voor betrokkenen voor de uitoefening van de rechten op grond van hoofdstuk III van de Algemene verordening gegevensbescherming.
 
-#### Artikel 13. Autorisaties en betrouwbaarheidsvereisten
+##### Artikel 13. Autorisaties en betrouwbaarheidsvereisten
 
 1. Uitsluitend door de deelnemers geautoriseerde personen hebben toegang tot de systemen waarin de deelnemers gezamenlijk persoonsgegevens verwerken. De deelnemers onderhouden een systeem van autorisaties dat voldoet aan de vereisten van zorgvuldigheid en evenredigheid. Geautoriseerd worden slechts personen die zijn aangewezen ten behoeve van de inzet in het casusoverleg en die zijn belast met:
 
@@ -146,7 +173,7 @@ Indien de deelnemers hun verplichting de betrokkene te informeren, bedoeld in ar
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de betrouwbaarheidsvereisten aan geautoriseerde personen als bedoeld in het eerste lid.
 
-#### Artikel 14. Informatiebeveiliging en logging
+##### Artikel 14. Informatiebeveiliging en logging
 
 1. Binnen het casusoverleg worden persoonsgegevens uitsluitend verwerkt in systemen waarvoor een adequaat beveiligingsniveau geldt. Daarbij worden persoonsgegevens beveiligd ten minste volgens door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde richtlijnen.
 
@@ -154,11 +181,11 @@ Indien de deelnemers hun verplichting de betrokkene te informeren, bedoeld in ar
 
 3. Alle deelnemers dragen zorg dat elke andere verwerking, of vastlegging langs elektronische weg (logging) van verwerkingen, van bij het casusoverleg verkregen persoonsgegevens, uitsluitend plaatsvindt in systemen waarvoor een adequaat beveiligingsniveau geldt dat voldoet aan of vergelijkbaar is met de richtlijnen, bedoeld in het eerste onderscheidenlijk tweede lid.
 
-#### Artikel 15. Rechtmatigheidsadviescommissie
+##### Artikel 15. Rechtmatigheidsadviescommissie
 
 De deelnemers stellen een gezamenlijke rechtmatigheidsadviescommissie in, die tot taak heeft de rechtmatigheid van de verwerking van persoonsgegevens in de casusoverleggen structureel te beoordelen bij nieuwe verwerkingen en wijziging in verwerkingen en om voorstellen aan het casusoverleg te doen om onrechtmatigheden op te lossen. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de werkwijze en de samenstelling van de rechtmatigheidsadviescommissie, de wijze van benoeming en ontslag van haar leden.
 
-#### Artikel 16. Gegevensbeschermingsaudits
+##### Artikel 16. Gegevensbeschermingsaudits
 
 1. Het casusoverleg doet de uitvoering van de bij of krachtens deze wet gegeven regels en de Algemene verordening gegevensbescherming controleren door middel van het periodiek doen verrichten van privacy audits.
 
@@ -170,41 +197,41 @@ De deelnemers stellen een gezamenlijke rechtmatigheidsadviescommissie in, die to
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud en wijze van uitvoering van controle, bedoeld in het eerste en derde lid.
 
-#### Artikel 17. Geheimhouding
+##### Artikel 17. Geheimhouding
 
 Eenieder die betrokken is bij de werkzaamheden van het casusoverleg en daarbij de beschikking krijgt over persoonsgegevens, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift voorziet in de bevoegdheid of verplichting om de gegevens te verstrekken of voor zover de gegevensverstrekking noodzakelijk is voor het afleggen van verantwoording door een medewerker aan de deelnemer die hem heeft aangewezen voor de inzet in het casusoverleg.
 
-#### Artikel 18. Jaarverslag
+##### Artikel 18. Jaarverslag
 
 1. Een casusoverleg doet jaarlijks verslag van de effectiviteit en bruikbaarheid van de uitgewisselde gegevens, voor zover dit de verwezenlijking van de doeleinden van het casusoverleg niet onmogelijk dreigt te maken of ernstig in het gedrang dreigt te brengen. Meerdere casusoverleggen kunnen beslissen om één gezamenlijk jaarverslag uit te brengen.
 
 2. Het jaarverslag wordt bekendgemaakt door plaatsing op internet.
 
-#### Artikel 19. Nadere waarborgen
+##### Artikel 19. Nadere waarborgen
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de waarborgen.
 
-#### Artikel 20. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+##### Artikel 20. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
 
 Wijzigt de Wet politiegegevens.
 
-#### Artikel 21. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
+##### Artikel 21. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel 22. Aanpassing [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met verhouding tot Zorg- en Veiligheidshuizen
+##### Artikel 22. Aanpassing [Wet gegevensverwerking door samenwerkingsverbanden](https://wetten.overheid.nl/jci1.3:c:BWBR0049962) in verband met verhouding tot Zorg- en Veiligheidshuizen
 
 Wijzigt de Wet gegevensverwerking door samenwerkingsverbanden.
 
-#### Artikel 24. Evaluatiebepaling
+##### Artikel 24. Evaluatiebepaling
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Deze wet wordt aangehaald als: Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten.
 

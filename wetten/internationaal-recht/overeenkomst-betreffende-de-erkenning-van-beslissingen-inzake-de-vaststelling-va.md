@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende de erkenning van beslissingen inzake de vaststelling van een geslachtswijziging"
 identifier: "BWBV0004741"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-03-01
-laatste_update: 2000-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004741"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-03-01"
+last_updated: "2000-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004741"
+soort: "verdrag"
+stam_id: "10004287673"
+version_id: "10004485452"
+internal_id: "C10008343221"
+label_id: "10004272764"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004741/2011-03-01/0"
+intitule_bron: "Trb.2001-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-14"
+intitule_published: "2001-01-17"
+intitule_in_force: "2011-11-09"
+intitule_status: "goed"
+original_publication: "Trb.2001-17"
+original_signed_date: "2004-07-14"
+original_published_date: "2001-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-17"
+entry_into_force_date: "2011-03-01"
+jci_1_3: "jci1.3:c:BWBV0004741&z=2011-03-01&g=2011-03-01"
+jci_1_0: "1.0:c:BWBV0004741&g=2011-03-01"
+citeertitel_status: "officieel"
+signed_date: "2004-07-14"
+entry_into_force: "2011-03-01"
 ---
-
 # Overeenkomst betreffende de erkenning van beslissingen inzake de vaststelling van een geslachtswijziging
 
 De Staten die deze Overeenkomst hebben ondertekend, leden van de Internationale Commissie voor de Burgerlijke Stand,
@@ -16,11 +41,11 @@ Geleid door de wens op het grondgebied van hun Staten de erkenning te bevorderen
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Gerechtelijke of bestuurlijke onherroepelijke beslissingen inzake de vaststelling van de geslachtswijziging van een persoon, gegeven door de bevoegde autoriteiten in een Overeenkomstsluitende Staat, worden in de andere Overeenkomstsluitende Staten erkend, indien de betrokkene op de datum waarop hij het verzoek indiende onderdaan was van de Staat waarin de beslissing is gegeven of in die Staat zijn gewone verblijfplaats had.
 
-#### Artikel 2
+##### Artikel 2
 
 De erkenning van de in artikel 1 van deze Overeenkomst bedoelde beslissingen kan worden geweigerd in de volgende gevallen:
 
@@ -30,33 +55,33 @@ De erkenning van de in artikel 1 van deze Overeenkomst bedoelde beslissingen kan
 
 - c. wanneer de beslissing is verkregen door bedrog.
 
-#### Artikel 3
+##### Artikel 3
 
 De Staat die een beslissing in de zin van deze Overeenkomst erkent, voegt op grond van deze beslissing en overeenkomstig de bepalingen van zijn nationale recht, een latere vermelding toe aan de geboorteakte van de betrokkene die in die Staat is opgemaakt of ingeschreven in de registers van de burgerlijke stand.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Staat die lid is van de Internationale Commissie voor de Burgerlijke Stand kan toetreden tot deze Overeenkomst. Zulks geldt evenzo voor alle lidstaten van de Europese Unie.
 
 2. De akten van toetreding worden nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de zevende maand volgend op de maand van de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door Staten die lid zijn van de Internationale Commissie voor de Burgerlijke Stand.
 
 2. Ten aanzien van de Staat die de Overeenkomst na haar inwerkingtreding bekrachtigt, aanvaardt, goedkeurt of tot haar toetreedt, treedt de Overeenkomst in werking op de eerste dag van de zevende maand volgend op de maand van de nederlegging door deze Staat van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na de inwerkingtreding van deze Overeenkomst kan elke andere Staat dan die bedoeld in artikel 5 tot haar toetreden. De toetreding heeft slechts rechtsgevolgen in de betrekkingen tussen de toetredende Staat en de Overeenkomstsluitende Staat die heeft verklaard deze toetreding te aanvaarden. Een dergelijke verklaring dient eveneens te worden afgelegd door elke Staat die na de toetreding Partij bij de Overeenkomst wordt. De akten van toetreding en de verklaringen worden nedergelegd bij de Zwitserse Bondsraad.
 
 2. De Overeenkomst treedt in werking tussen de toetredende Staat en de Staat die heeft verklaard deze toetreding te aanvaarden op de eerste dag van de zevende maand volgend op de maand van de nederlegging van de verklaring van aanvaarding.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding kan elke Staat zich het recht voorbehouden de bepalingen van deze Overeenkomst niet toe te passen op bestuurlijke beslissingen inzake de vaststelling van de geslachtswijziging.
 
@@ -64,7 +89,7 @@ Deze Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bek
 
 3. Elke Staat kan te allen tijde het gemaakte voorbehoud intrekken. De intrekking wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zevende maand volgend op de maand van ontvangst van deze kennisgeving.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of te allen tijde daarna, verklaren dat deze Overeenkomst zich uitstrekt tot alle grondgebieden voor welker internationale betrekkingen hij verantwoordelijk is, dan wel tot een of meer van deze grondgebieden.
 
@@ -72,13 +97,13 @@ Deze Overeenkomst wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bek
 
 3. Elke verklaring inzake uitbreiding kan worden ingetrokken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving en de Overeenkomst houdt op van toepassing te zijn in het bedoelde grondgebied op de eerste dag van de zevende maand volgend op de maand van ontvangst van de kennisgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
 
 2. Elke Staat die Partij is bij deze Overeenkomst heeft evenwel de bevoegdheid haar op te zeggen te allen tijde na het verstrijken van een termijn van een jaar te rekenen vanaf de datum waarop de Overeenkomst voor deze Staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zevende maand volgend op de maand van ontvangst van deze kennisgeving. De Overeenkomst blijft van kracht tussen de andere Staten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Zwitserse Bondsraad stelt de Staten die lid zijn van de Internationale Commissie voor de Burgerlijke Stand en elke andere Staat die is toegetreden tot deze Overeenkomst in kennis van:
 

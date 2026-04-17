@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake internationaal vervoer over de weg"
 identifier: "BWBV0001672"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-07-31
-laatste_update: 2004-07-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001672"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-07-31"
+last_updated: "2004-07-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001672"
+soort: "verdrag"
+stam_id: "10000507103"
+version_id: "10000525282"
+internal_id: "C10006993241"
+label_id: "10000507374"
+original_entry_into_force: "2004-07-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001672/2004-07-31/0"
+intitule_bron: "Trb.2004-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-01"
+intitule_published: "2004-02-19"
+intitule_in_force: "2004-11-11"
+intitule_status: "goed"
+original_publication: "Trb.2004-39"
+original_signed_date: "2004-07-01"
+original_published_date: "2004-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-39"
+entry_into_force_date: "2004-07-31"
+jci_1_3: "jci1.3:c:BWBV0001672&z=2004-07-31&g=2004-07-31"
+jci_1_0: "1.0:c:BWBV0001672&g=2004-07-31"
+citeertitel_status: "officieel"
+signed_date: "2004-07-01"
+entry_into_force: "2004-07-31"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije inzake internationaal vervoer over de weg
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -24,7 +48,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 1. De bepalingen van dit Verdrag zijn van toepassing op het internationaal vervoer van goederen en personen over de weg tegen betaling of voor eigen rekening tussen de grondgebieden van het Koninkrijk der Nederlanden en de Republiek Bulgarije, in doorvoer door deze landen, naar of van derde landen, en op cabotage, verricht door vervoerders die voertuigen gebruiken zoals omschreven in artikel 2 van dit Verdrag.
 
@@ -32,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 3. De toepassing van dit Verdrag doet geen afbreuk aan de toepassing door het Koninkrijk der Nederlanden, als lidstaat van de Europese Unie, van het recht van de Europese Unie.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing en uitvoering van dit Verdrag wordt verstaan onder:
 
@@ -78,7 +102,7 @@ Voor de toepassing en uitvoering van dit Verdrag wordt verstaan onder:
 
 ## DEEL II. VERVOER VAN PERSONEN
 
-#### Artikel 3. Geregelde passagiersdiensten
+##### Artikel 3. Geregelde passagiersdiensten
 
 1. Geregelde passagiersdiensten met gebruikmaking van bussen of autobussen zijn onderworpen aan een systeem van vergunningen afgegeven door de bevoegde autoriteiten in de landen van vertrek, bestemming en in transitolanden.
 
@@ -106,7 +130,7 @@ De ingevolge artikel 15 van dit Verdrag ingestelde Gemengde Commissie neemt een 
 
 Indien er geen vraag meer bestaat naar de dienst kan de exploitant deze opheffen door middel van een drie weken van tevoren gedane kennisgeving aan de bevoegde autoriteiten die de vergunning hebben afgegeven en aan de klanten.
 
-#### Artikel 4. Shuttlediensten
+##### Artikel 4. Shuttlediensten
 
 1. Shuttlediensten met gebruikmaking van bussen of autobussen zonder accommodatie zijn onderworpen aan een systeem van vergunningen afgegeven door de bevoegde autoriteiten in de landen van vertrek, bestemming en in transitolanden.
 
@@ -118,7 +142,7 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 4. De Gemengde Commissie kan een vrijer stelsel voor shuttlediensten instellen.
 
-#### Artikel 5. Ongeregelde diensten
+##### Artikel 5. Ongeregelde diensten
 
 1. De ongeregelde diensten met gebruikmaking van bussen of autobussen zijn niet onderworpen aan een systeem van vergunningen.
 
@@ -126,7 +150,7 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 3. Ongeregelde diensten gaan vergezeld van een controledocument. De voorwaarden voor het gebruik en de inhoud van het controledocument worden vastgesteld door de in artikel 15 bedoelde Gemengde Commissie.
 
-#### Artikel 6. Gemeenschappelijke bepalingen voor passagiersdiensten
+##### Artikel 6. Gemeenschappelijke bepalingen voor passagiersdiensten
 
 1. Vervoersvergunningen zijn persoonlijk en zijn niet overdraagbaar aan andere vervoersondernemers of aan derden.
 
@@ -146,13 +170,13 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 ## DEEL III. VERVOER VAN GOEDEREN
 
-#### Artikel 7. Vergunningensysteem
+##### Artikel 7. Vergunningensysteem
 
 1. Vervoersondernemers die zijn gevestigd op het grondgebied van een Verdragsluitende Partij mogen, krachtens het systeem van universele vergunningen, vervoer verrichten tussen de grondgebieden van de Verdragsluitende Partijen, in doorvoer over deze grondgebieden en vervoer naar en vanuit derde landen.
 
 2. Cabotage is uitsluitend toegestaan op basis van een bijzondere vergunning van het gastland.
 
-#### Artikel 8. Vrijstelling van vergunningsvereisten
+##### Artikel 8. Vrijstelling van vergunningsvereisten
 
 1. Als uitzondering op artikel 7 zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
@@ -182,7 +206,7 @@ De ingevolge artikel 15 ingestelde Gemengde Commissie beslist over de vorm en in
 
 2. De in artikel 15 bedoelde Gemengde Commissie kan de in het voorgaande lid genoemde lijst van categorieën vervoer uitbreiden of wijzigen.
 
-#### Artikel 9. Vergunningsvoorwaarden
+##### Artikel 9. Vergunningsvoorwaarden
 
 1. De bevoegde autoriteiten van beide Verdragsluitende Partijen wisselen jaarlijks een overeengekomen aantal blanco vergunningsformulieren uit. Aanvullende vergunningen worden door een van de landen op verzoek van het andere land afgegeven.
 
@@ -194,7 +218,7 @@ Aan ingezeten vervoersondernemers worden de vergunningen afgegeven door de bevoe
 
 ## DEEL IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 10. Belastingaangelegenheden
+##### Artikel 10. Belastingaangelegenheden
 
 1. Voertuigen, met inbegrip van hun reserveonderdelen, waarmee vervoer wordt verricht in overeenstemming met dit Verdrag, zijn wederzijds vrijgesteld van alle belastingen en heffingen opgelegd ter zake van het verkeer of het bezit van voertuigen, alsook van alle speciale belastingen of heffingen opgelegd ter zake van vervoerswerkzaamheden op het grondgebied van het andere land.
 
@@ -202,13 +226,13 @@ Aan ingezeten vervoersondernemers worden de vergunningen afgegeven door de bevoe
 
 3. De zich in de normale, vaste, door de fabrikant ingebouwde reservoirs van de voertuigen bevindende brandstof, alsmede de alleen voor de goede werking van die voertuigen bestemde smeermiddelen, zijn wederzijds vrijgesteld van douanerechten en andere belastingen en betalingen.
 
-#### Artikel 11. Gewichten en afmetingen
+##### Artikel 11. Gewichten en afmetingen
 
 1. De gewichten, met inbegrip van de asdruk, en afmetingen van voertuigen dienen in overeenstemming te zijn met de officiële registratie van het voertuig en mogen de geldende grenzen in het gastland niet overschrijden.
 
 2. Indien het gewicht en/of de afmetingen van een voertuig in beladen of onbeladen toestand bij het verrichten van vervoer ingevolge de bepalingen van dit Verdrag het in het gastland toelaatbare maximum overschrijden, is een bijzondere vergunning van het gastland vereist.
 
-#### Artikel 12. Naleving van de nationale wetgeving
+##### Artikel 12. Naleving van de nationale wetgeving
 
 1. De vervoersondernemers van een Verdragsluitende Partij en de bemanningen van hun voertuigen zijn verplicht, op het grondgebied van de andere Verdragsluitende Partij, de verplichtingen uit hoofde van multilaterale overeenkomsten waarbij beide partijen Verdragsluitende Partij zijn, uit hoofde van dit Verdrag alsmede van andere bilaterale overeenkomsten en uit hoofde van de nationale wetgeving na te komen.
 
@@ -216,13 +240,13 @@ Aan ingezeten vervoersondernemers worden de vergunningen afgegeven door de bevoe
 
 3. De in het eerste en tweede lid van dit artikel bedoelde wetten en voorschriften worden toegepast op dezelfde voorwaarden als die gelden voor inwoners van het gastland om discriminatie op grond van nationaliteit of plaats van vestiging uit te sluiten.
 
-#### Artikel 13. Toezicht
+##### Artikel 13. Toezicht
 
 1. De vergunningen, controledocumenten en andere documenten die ingevolge dit Verdrag vereist zijn, moeten gedurende alle ritten in het voertuig worden bewaard en op verzoek van controlebeambten worden getoond.
 
 2. De in artikel 15 bedoelde Gemengde Commissie geeft aan welk door het land van vestiging afgegeven document het bewijs vormt van de hoedanigheid van vervoersondernemer voor eigen rekening.
 
-#### Artikel 14. Overtredingen en sancties
+##### Artikel 14. Overtredingen en sancties
 
 1. In geval van overtreding van de bepalingen van dit Verdrag door een vervoersondernemer gevestigd op het grondgebied van het Koninkrijk der Nederlanden of de Republiek Bulgarije, stelt het land op het grondgebied waarvan de overtreding plaatsvond, onverminderd de door dat land te ondernemen gerechtelijke stappen, het andere land ervan in kennis, dat het de in zijn nationale wetgeving voorziene stappen zal ondernemen. De Verdragsluitende Partijen stellen elkaar in kennis van de opgelegde sancties.
 
@@ -236,7 +260,7 @@ In bijzonder ernstige gevallen kunnen de bevoegde autoriteiten van het gastland 
 
 De Verdragsluitende Partijen stellen elkaar in kennis van genomen besluiten.
 
-#### Artikel 15. Gemengde Commissie
+##### Artikel 15. Gemengde Commissie
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en toepassing van dit Verdrag.
 
@@ -262,15 +286,15 @@ De Verdragsluitende Partijen stellen elkaar in kennis van genomen besluiten.
 
 - g. de bevordering van intermodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
-#### Artikel 16. Toepassing voor het Koninkrijk der Nederlanden
+##### Artikel 16. Toepassing voor het Koninkrijk der Nederlanden
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 17. Wijziging
+##### Artikel 17. Wijziging
 
 Door de Verdragsluitende Partijen overeengekomen wijzigingen van dit Verdrag worden van kracht op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele voorwaarden in hun respectieve landen is voldaan.
 
-#### Artikel 18. Inwerkingtreding en beëindiging
+##### Artikel 18. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking 30 dagen na de datum van ontvangst van de tweede kennisgeving langs diplomatieke weg waarin de Verdragsluitende Partijen elkaar ervan in kennis hebben gesteld dat aan de vereisten van hun interne nationale procedures voor de inwerkingtreding van het Verdrag is voldaan.
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Ambtenarenwet 2017"
+title: "Besluit van 30 september 2019 tot uitvoering van de Ambtenarenwet 2017 (Uitvoeringsbesluit Ambtenarenwet 2017)"
 identifier: "BWBR0042692"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042692"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042692"
+soort: "AMvB"
+stam_id: "15211473"
+version_id: "26100142"
+internal_id: "C37227961"
+label_id: "15158554"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042692/2025-01-01/0"
+intitule_bron: "Stb.2019-346"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-30"
+intitule_published: "2019-10-21"
+intitule_in_force: "2019-11-06"
+intitule_status: "goed"
+original_publication: "Stb.2019-346"
+original_signed_date: "2019-09-30"
+original_published_date: "2019-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-346"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042692&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0042692&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Ambtenarenwet 2017"
+signed_date: "2019-09-30"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 30 september 2019 tot uitvoering van de Ambtenarenwet 2017 (Uitvoeringsbesluit Ambtenarenwet 2017)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 12 juli 2019, nr. 2019-0000347223;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **overheidswerkgever:** overheidswerkgever als bedoeld in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2).
 
-#### Artikel 2. Aanwijzing functies als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1)
+##### Artikel 2. Aanwijzing functies als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1)
 
 Als functies als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=1) worden aangewezen de functies van:
 
@@ -48,7 +74,7 @@ Als functies als bedoeld in [artikel 1, tweede lid, van de wet](https://wetten.o
 
 - g. gemeentelijke lijkschouwer.
 
-#### Artikel 3. Verwerking van persoonsgegevens over gezondheid
+##### Artikel 3. Verwerking van persoonsgegevens over gezondheid
 
 Indien noodzakelijk kan de overheidswerkgever gegevens verwerken over gezondheid, verkregen uit:
 
@@ -58,7 +84,7 @@ Indien noodzakelijk kan de overheidswerkgever gegevens verwerken over gezondheid
 
 dat wordt verricht in het kader van de beoordeling van de bekwaamheid en geschiktheid voor een functie als bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=3a).
 
-#### Artikel 4. Verwerking van persoonsgegevens van strafrechtelijke aard
+##### Artikel 4. Verwerking van persoonsgegevens van strafrechtelijke aard
 
 1. In het kader van de beoordeling van de bekwaamheid en geschiktheid voor een functie, met uitzondering van de functies bedoeld in het derde lid en van vertrouwensfuncties als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=1), kan de overheidswerkgever een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194) verwerken, indien hij van de kandidaat voor die functie, onderscheidenlijk van de ambtenaar die de functie vervult, heeft gevergd dat deze die verklaring overlegt.
 
@@ -70,7 +96,7 @@ dat wordt verricht in het kader van de beoordeling van de bekwaamheid en geschik
 
 3. De verklaring, bedoeld in het eerste lid en de justitiële gegevens, bedoeld in het tweede lid, worden van de in die leden bedoelde kandidaat slechts gevraagd als die kandidaat naar het oordeel van de overheidswerkgever overigens voldoende bekwaam en geschikt is voor de functie.
 
-#### Artikel 5. Afleggen van de eed of belofte
+##### Artikel 5. Afleggen van de eed of belofte
 
 1. Formulieren overeenkomstig welke de ambtenaren ingevolge [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=7) een eed of belofte afleggen, zijn opgenomen in de bijlage bij dit besluit.
 
@@ -84,7 +110,7 @@ dat wordt verricht in het kader van de beoordeling van de bekwaamheid en geschik
 
 6. De overheidswerkgever stelt een procedure vast omtrent de wijze van het afleggen van de eed of belofte.
 
-#### Artikel 6. Aanwijzing functies als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=13a)
+##### Artikel 6. Aanwijzing functies als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=13a)
 
 Als functies als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=13a) worden aangewezen:
 
@@ -92,11 +118,11 @@ Als functies als bedoeld in [artikel 13a van de wet](https://wetten.overheid.nl/
 
 - b. bij ministeriële regeling aangewezen functies behorende tot de topmanagementgroep.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Ambtenarenwet 2017.
 

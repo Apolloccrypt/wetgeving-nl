@@ -1,13 +1,38 @@
 ---
 title: "Warenwetregeling Verontreinigingen in levensmiddelen"
 identifier: "BWBR0010269"
-categorie: "Overig"
-publicatiedatum: 2024-02-07
-laatste_update: 2024-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010269"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-07"
+last_updated: "2024-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010269"
+soort: "ministeriele-regeling"
+stam_id: "4889323"
+version_id: "14245612"
+internal_id: "C19381461"
+label_id: "4867314"
+dtd_version: "2.0"
+original_entry_into_force: "2007-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010269/2024-02-07/0"
+intitule_bron: "Stcrt.1999-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-02-08"
+intitule_published: "1999-02-12"
+intitule_in_force: "1999-02-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-41"
+original_signed_date: "2007-02-22"
+original_published_date: "2007-02-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-41-p29-SC79475"
+entry_into_force_date: "2007-02-22"
+jci_1_3: "jci1.3:c:BWBR0010269&z=2024-02-07&g=2024-02-07"
+jci_1_0: "1.0:c:BWBR0010269&g=2024-02-07"
+citeertitel_status: "officieel"
+signed_date: "2007-02-22"
+entry_into_force: "2007-02-22"
 ---
-
 # Warenwetregeling Verontreinigingen in levensmiddelen
 
 Handelende in overeenstemming met de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -16,7 +41,7 @@ Gelet op: artikel 2 van [verordening (EEG) nr. 737/90](31990R0737) van de Raad v
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,27 +49,27 @@ In deze regeling wordt verstaan onder:
 
 - –. **kruidenpreparaat:** kruidenpreparaat, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Warenwetbesluit Kruidenpreparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0012174&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 De gezamenlijke maximale radioactiviteit van cesium 134 en 137 in eet- en drinkwaren is niet hoger dan de voor cesium 137 toegelaten waarde op grond van artikel 3, tweede lid, van [Uitvoeringsverordening (EU) 2020/1158](33058R2020).
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Het gehalte aan nitraat-ion van de hieronder opgenomen groenten die al dan niet zijn toebereid of geconserveerd, is niet hoger dan:
 
@@ -55,31 +80,31 @@ Het gehalte aan nitraat-ion van de hieronder opgenomen groenten die al dan niet 
 | rode bieten | 1 juli tot 1 april | 3500 |
 |   | 1 april tot 1 juli | 4000 |
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van 1 februari 1999.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Warenwetregeling Verontreinigingen in levensmiddelen.
 
@@ -93,7 +118,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoeveelheid benzo(a)pyreen is ten hoogste:
 
@@ -103,7 +128,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het eerste lid is niet van toepassing voor zover ter zake voorschriften zijn vastgesteld bij [verordening (EU) 2023/915](32023R0915).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 

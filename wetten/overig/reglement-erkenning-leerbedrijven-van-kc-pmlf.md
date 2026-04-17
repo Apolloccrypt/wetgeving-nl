@@ -1,16 +1,38 @@
 ---
 title: "Reglement erkenning leerbedrijven van KC PMLF"
 identifier: "BWBR0032737"
-categorie: "Overig"
-publicatiedatum: 2013-01-15
-laatste_update: 2013-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032737"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-15"
+last_updated: "2013-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032737"
+soort: "zbo"
+stam_id: "12039633"
+version_id: "20054272"
+internal_id: "C28182211"
+label_id: "12011404"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032737/2013-01-15/0"
+intitule_bron: "Stcrt.2013-824"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-01-10"
+intitule_in_force: "2013-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-824"
+original_published_date: "2013-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-824"
+entry_into_force_date: "2013-01-15"
+jci_1_3: "jci1.3:c:BWBR0032737&z=2013-01-15&g=2013-01-15"
+jci_1_0: "1.0:c:BWBR0032737&g=2013-01-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-01-15"
 ---
-
 # Reglement erkenning leerbedrijven van KC PMLF
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -32,11 +54,11 @@ In dit reglement wordt verstaan onder:
 
 - 9. **Onderwijsinstelling:** school voor VMBO of MBO.
 
-#### Artikel 2.1. Doel
+##### Artikel 2.1. Doel
 
 Uitsluitend bedrijven en organisaties die voldoen aan de bepalingen in dit reglement en die door KC PMLF als zodanig zijn erkend, zijn bevoegd om op te treden als leerbedrijf, praktijkcentrum of detacheringorganisatie.
 
-#### Artikel 2.2. Soorten erkenningen
+##### Artikel 2.2. Soorten erkenningen
 
 In deze erkenningsregeling van KC PMLF worden de volgende erkenningen onderscheiden:
 
@@ -46,7 +68,7 @@ In deze erkenningsregeling van KC PMLF worden de volgende erkenningen onderschei
 
 - 3. **Detacheringorganisatie.** Het is mogelijk de beroepspraktijkvorming te doorlopen terwijl de onderwijsdeelnemer in formele zin in dienst is van- of stage loopt bij een ‘Ïntermediaire Arbeidsorganisatie’. Deze arbeidsorganisatie vervult de werkgeversrol, terwijl de feitelijke beroepspraktijkvorming bij een erkend leerbedrijf plaats (zie onder 1) vindt. Intermediaire organisaties die niet de bpv=biedende organisatie zijn, ontvangen geen erkenning als leerbedrijf. Intermediaire organisaties kunnen een keurmerk ontvangen indien wordt voldaan aan de gestelde kwaliteitseisen.
 
-#### Artikel 3. Verzoek tot erkenning
+##### Artikel 3. Verzoek tot erkenning
 
 1. Met inachtneming van de bepalingen in dit reglement wordt een erkenning alleen afgegeven op verzoek van het leerbedrijf, praktijkcentrum, of het detacheringbedrijf zelve, dat de beroepspraktijkvorming wil verzorgen.
 
@@ -54,7 +76,7 @@ In deze erkenningsregeling van KC PMLF worden de volgende erkenningen onderschei
 
 3. Een aanvraag wordt in behandeling genomen indien dit een eerste aanvraag betreft of indien na een eerdere afgewezen aanvraag en de nieuwe aanvraag ten minste zes maanden verstreken zijn.
 
-#### Artikel 4. Beoordeling van het verzoek
+##### Artikel 4. Beoordeling van het verzoek
 
 1. KC PMLF verleent de erkenning indien naar haar oordeel aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=5&z=2013-01-15&g=2013-01-15) genoemde voorwaarden is voldaan.
 
@@ -64,7 +86,7 @@ In deze erkenningsregeling van KC PMLF worden de volgende erkenningen onderschei
 
 4. Aan de beoordeling van de aanvraag is het bedrijf of de organisatie verplicht zijn medewerking te verlenen.
 
-#### Artikel 5. Voorwaarden voor erkenning
+##### Artikel 5. Voorwaarden voor erkenning
 
 Binnen het kader van de onder [2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=2.2&z=2013-01-15&g=2013-01-15) geschetste soorten erkenningen zijn de volgende voorwaarden van toepassing:
 
@@ -102,7 +124,7 @@ Voor het keurmerk als **detacheringorganisatie** wordt de organisatie geacht:
 
 De eisen die aan een leerplaats en aan de begeleiding worden gesteld zijn afhankelijk van de bijzondere eisen per kwalificatie waarvoor de erkenning wordt verleend. Deze aanvullende criteria worden vastgesteld door de paritaire commissie van KC PMLF.
 
-#### Artikel 6. Verlenen van de erkenning
+##### Artikel 6. Verlenen van de erkenning
 
 1. Uiterlijk tien werkdagen na dagtekening van het verzoek als bedoeld in [artikel 3 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=3&z=2013-01-15&g=2013-01-15) beslist KC PMLF over de verlening van de erkenning en maakt dit aan het bedrijf of de organisatie bekend. Overschrijding van deze termijn is in uitzonderlijke gevallen toegestaan en dient in de beslissing te worden gemotiveerd.
 
@@ -114,7 +136,7 @@ De eisen die aan een leerplaats en aan de begeleiding worden gesteld zijn afhank
 
 5. De erkenning is geldig voor een periode van maximaal 4 jaar.
 
-#### Artikel 7. Verlengen van de erkenning
+##### Artikel 7. Verlengen van de erkenning
 
 1. Na het verstrijken van de in [artikel 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=6&z=2013-01-15&g=2013-01-15) genoemde periode, wordt de erkenning voor dezelfde duur door KC PMLF verleend. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=4&z=2013-01-15&g=2013-01-15) is van overeenkomstige toepassing.
 
@@ -122,29 +144,29 @@ De eisen die aan een leerplaats en aan de begeleiding worden gesteld zijn afhank
 
 3. Indien KC PMLF niet binnen zes weken na het verstrijken van de in [artikel 6 lid 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=6&z=2013-01-15&g=2013-01-15) genoemde termijn de beslissing over het verlengen aan het leerbedrijf heeft kenbaar gemaakt, stelt het kenniscentrum PMLF de aanvrager daarvan in kennis en noemt daarbij een redelijk termijn waarop de beslissing wel kenbaar wordt gemaakt.
 
-#### Artikel 8. Intrekken van de erkenning
+##### Artikel 8. Intrekken van de erkenning
 
 1. De erkenning kan worden ingetrokken indien niet langer aan de voorwaarden voor erkenning als vermeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=5&z=2013-01-15&g=2013-01-15) wordt voldaan of indien KC PMLF op grond van zwaarwegende redenen meent dat de erkenning in redelijkheid niet dient te worden voortgezet.
 
 2. Van intrekking van de erkenning wordt het bedrijf/de organisatie schriftelijk onder opgave van redenen door KC PMLF op de hoogte gebracht.
 
-#### Artikel 9. Dienstverlening
+##### Artikel 9. Dienstverlening
 
 Het leerbedrijf, het praktijkcentrum, de detacheringorganisatie heeft recht op ondersteuning van KC PMLF bij het vervullen van de rol als leerbedrijf. Ondersteuning is gericht op het verhogen van de kwaliteit van de leeromgeving en van het praktijkleren.
 
-#### Artikel 10. Bezwaar
+##### Artikel 10. Bezwaar
 
 Indien de erkenning geweigerd, ingetrokken of niet verlengd wordt kan het bedrijf of de organisatie tegen de beslissing als bedoeld in de [artikelen 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=6&z=2013-01-15&g=2013-01-15), [7 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=7&z=2013-01-15&g=2013-01-15) en [8 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032737&artikel=8&z=2013-01-15&g=2013-01-15) binnen 6 weken na dagtekening van de beslissing bezwaar maken bij KC PMLF. Op de bezwaarprocedure is de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) van toepassing ([hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6)).
 
-#### Artikel 11. Onvoorziene omstandigheden
+##### Artikel 11. Onvoorziene omstandigheden
 
 In alle gevallen waarin dit reglement niet voorziet beslist KC PMLF.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit reglement treedt in werking met ingang van 15 januari 2013.
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 Wijzigingen in het reglement worden vastgesteld door de Paritaire Commissie en het bestuur van KC PMLF.
 

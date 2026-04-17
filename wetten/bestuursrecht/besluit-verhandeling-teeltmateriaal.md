@@ -1,13 +1,39 @@
 ---
-title: "Besluit verhandeling teeltmateriaal"
+title: "Besluit van 8 december 2005, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Besluit verhandeling teeltmateriaal)"
 identifier: "BWBR0019210"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019210"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019210"
+soort: "AMvB"
+stam_id: "7705603"
+version_id: "21998962"
+internal_id: "C31549681"
+label_id: "7693404"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019210/2015-01-01/0"
+intitule_bron: "Stb.2005-654"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-08"
+intitule_published: "2005-12-20"
+intitule_in_force: "2006-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2014-573"
+original_signed_date: "2014-12-17"
+original_published_date: "2014-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2014-573"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0019210&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0019210&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verhandeling teeltmateriaal"
+signed_date: "2014-12-17"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 8 december 2005, houdende regels met betrekking tot het in de handel brengen van teeltmateriaal (Besluit verhandeling teeltmateriaal)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 september 2005, TRCJZ/2005/2593, Directie Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,7 +94,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 2. De keuringsinstellingen
 
-#### Artikel 2
+##### Artikel 2
 
 Als keuringsinstellingen worden aangewezen:
 
@@ -78,11 +104,11 @@ Als keuringsinstellingen worden aangewezen:
 
 #### Paragraaf 3. Het in de handel brengen van teeltmateriaal
 
-#### Artikel 3
+##### Artikel 3
 
 Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake de verhandeling en de kwaliteit van teeltmateriaal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde regels inzake de verhandeling van teeltmateriaal kunnen onder meer betrekking hebben op:
 
@@ -116,7 +142,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 3. De in het eerste en tweede lid bedoelde regels kunnen per gewas verschillen overeenkomstig de van toepassing zijnde handelsrichtlijnen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019210&paragraaf=3&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde regels inzake de kwaliteit van het teeltmateriaal kunnen onder meer betrekking hebben op:
 
@@ -130,7 +156,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 3. De in het eerste en tweede lid bedoelde regels kunnen per gewas verschillen overeenkomstig de van toepassing zijnde handelsrichtlijnen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Teeltmateriaal waarvan op basis van een keuring is komen vast te staan dat het voldoet aan de eisen die bij of krachtens dit besluit gesteld worden inzake de kwaliteit en verhandeling van teeltmateriaal, wordt voorzien van een bewijsstuk of kenteken. Een bewijsstuk of kenteken wordt aangebracht op het teeltmateriaal of de verpakking daarvan, dan wel bij het teeltmateriaal gevoegd.
 
@@ -142,7 +168,7 @@ Het in de handel brengen van teeltmateriaal van landbouwgewassen, tuinbouwgewass
 
 #### Paragraaf 4. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 De volgende besluiten worden ingetrokken:
 
@@ -156,17 +182,17 @@ De volgende besluiten worden ingetrokken:
 
 - e. [Besluit verhandeling teeltmateriaal tuinbouwgewassen](https://wetten.overheid.nl/jci1.3:c:BWBR0004347).
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit verhandeling teeltmateriaal.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bedoeld in artikel 3, vierde lid, van richtlijn 2008/90/EG.
 
@@ -174,7 +200,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bed
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.
 

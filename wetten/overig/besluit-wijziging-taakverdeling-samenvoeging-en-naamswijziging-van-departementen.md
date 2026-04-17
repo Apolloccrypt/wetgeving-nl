@@ -1,13 +1,35 @@
 ---
-title: "Besluit wijziging taakverdeling, samenvoeging en naamswijziging van departementen"
+title: "Besluit van 19 mei 1959, houdende wijziging in de taakverdeling, samenvoeging en naamswijziging van departementen"
 identifier: "BWBR0002317"
-categorie: "Overig"
-publicatiedatum: 1959-06-18
-laatste_update: 1959-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002317"
+country: "nl"
+rank: "kb"
+publication_date: "1959-06-18"
+last_updated: "1959-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002317"
+soort: "KB"
+stam_id: "19563"
+version_id: "22452"
+internal_id: "C22451"
+label_id: "19524"
+dtd_version: "2.0"
+original_entry_into_force: "1959-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002317/1959-06-18/0"
+intitule_bron: "Stb.1959-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1959-05-19"
+intitule_status: "goed"
+original_publication: "Stb.1959-170"
+original_signed_date: "1959-05-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1959-06-18"
+jci_1_3: "jci1.3:c:BWBR0002317&z=1959-06-18&g=1959-06-18"
+jci_1_0: "1.0:c:BWBR0002317&g=1959-06-18"
+citeertitel_status: "officieel"
+short_title: "Besluit wijziging taakverdeling, samenvoeging en naamswijziging van departementen"
+signed_date: "1959-05-19"
+entry_into_force: "1959-06-18"
 ---
-
 # Besluit van 19 mei 1959, houdende wijziging in de taakverdeling, samenvoeging en naamswijziging van departementen
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken van 19 mei 1959, nr. 128104;

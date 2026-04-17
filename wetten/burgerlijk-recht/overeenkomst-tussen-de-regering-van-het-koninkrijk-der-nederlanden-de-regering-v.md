@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat"
 identifier: "BWBV0001585"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2004-05-29
-laatste_update: 2004-05-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001585"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-05-29"
+last_updated: "2004-05-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001585"
+soort: "verdrag"
+stam_id: "10000242023"
+version_id: "10000250392"
+internal_id: "C10006992981"
+label_id: "10000242574"
+original_entry_into_force: "2004-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001585/2004-05-29/0"
+intitule_bron: "Trb.2002-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-11"
+intitule_published: "2002-08-22"
+intitule_in_force: "2004-07-09"
+intitule_status: "goed"
+original_publication: "Trb.2002-152"
+original_signed_date: "2003-04-11"
+original_published_date: "2002-08-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-152"
+entry_into_force_date: "2004-05-29"
+jci_1_3: "jci1.3:c:BWBV0001585&z=2004-05-29&g=2004-05-29"
+jci_1_0: "1.0:c:BWBV0001585&g=2004-05-29"
+citeertitel_status: "officieel"
+signed_date: "2003-04-11"
+entry_into_force: "2004-05-29"
 ---
-
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg en de Federale Regering van de Federale Republiek Joegoslavië betreffende de terug- en overname van personen die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf op het grondgebied van de andere Overeenkomstsluitende Staat
 
 De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg, en de Federale Regering van de Federale Republiek Joegoslavië, de drie eerstgenoemden gezamenlijk optredend op grond van de [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005246) van 11 april 1960,
@@ -20,7 +44,7 @@ zijn het volgende overeengekomen:
 
 ### I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze Overeenkomst dient te worden verstaan onder:
 
@@ -52,7 +76,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 ### II. TERUGNAME VAN ONDERDANEN VAN DE OVEREENKOMSTSLUITENDE STATEN
 
-#### Artikel 2. Verplichting tot terugname
+##### Artikel 2. Verplichting tot terugname
 
 (1). De aangezochte Partij neemt op verzoek van de verzoekende Partij personen terug, die zich op het grondgebied van de verzoekende Partij bevinden en die niet of niet meer voldoen aan de voorwaarden voor binnenkomst of verblijf, wanneer is vastgesteld dat de betrokkenen onderdaan van de aangezochte Partij zijn.
 
@@ -60,13 +84,13 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 (3). De terugname geschiedt in alle gevallen overeenkomstig de bepalingen van deze Overeenkomst en het Protocol tot uitvoering van de Overeenkomst, waarbij de mensenrechten en de waardigheid van de terug te nemen personen onverkort in acht worden genomen.
 
-#### Artikel 3. Uitzonderingen op de verplichting tot terugname
+##### Artikel 3. Uitzonderingen op de verplichting tot terugname
 
 (1). De verplichting tot terugname ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=2&z=2004-05-29&g=2004-05-29) van deze Overeenkomst geldt niet wanneer de persoon die het land van de verzoekende Partij moet verlaten, niet naar het grondgebied van de aangezochte Partij wil terugkeren en meer dan één nationaliteit bezit dan wel regelmatig verblijf heeft op het grondgebied van een derde land. Indien, niettegenstaande de vrije keuze van de persoon, het derde land de betrokkene niet naar het grondgebied van dat derde land zou laten terugkeren, neemt de aangezochte Partij die persoon terug.
 
 (2). De verplichting tot terugname geldt niet voor vluchtelingen en/of andere personen uit Kroatië en Bosnië-Herzegowina, aan wie het Joegoslavische paspoort op humanitaire gronden werd uitgereikt.
 
-#### Artikel 4. Vaststelling van de identiteit en de nationaliteit
+##### Artikel 4. Vaststelling van de identiteit en de nationaliteit
 
 (1). De identiteit en de nationaliteit van terug te nemen personen worden door de bevoegde instantie van de aangezochte Partij overeenkomstig de eigen nationale wetgeving vastgesteld.
 
@@ -74,7 +98,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 (3). Voor de vaststelling van de identiteit en de nationaliteit van de in het eerste lid van dit artikel genoemde personen doet de verzoekende Partij het verzoek om terugname en de beschikbare persoonlijke documenten aan de aangezochte Partij toekomen.
 
-#### Artikel 5. Procedure na het verzoek om terugname
+##### Artikel 5. Procedure na het verzoek om terugname
 
 (1). De bevoegde instantie van de aangezochte Partij stelt de bevoegde instantie van de verzoekende Partij binnen tien (10) werkdagen in kennis van het antwoord op het verzoek om terugname.
 
@@ -84,7 +108,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 (4). Het negatieve antwoord op het verzoek dient met redenen te worden omkleed.
 
-#### Artikel 6. Terugnameprocedure
+##### Artikel 6. Terugnameprocedure
 
 (1). De terugname vindt plaats binnen dertig (30) dagen te rekenen van de dag van afgifte van het laissez-passer. Deze termijn kan worden verlengd met de termijn die nodig is om juridische, medische of andere zwaarwegende praktische belemmeringen uit de weg te ruimen.
 
@@ -98,7 +122,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 ### III. OVERNAME VAN ONDERDANEN VAN DERDE LANDEN
 
-#### Artikel 7. Verplichting tot en wijze van overname
+##### Artikel 7. Verplichting tot en wijze van overname
 
 (1). De aangezochte Partij neemt op verzoek van de verzoekende Partij de onderdaan van een derde land over, die niet voldoet aan de voorwaarden voor binnenkomst op het grondgebied van de verzoekende Partij en van wie is vastgesteld dat hij vanuit het grondgebied van de aangezochte Partij rechtstreeks op het grondgebied van de verzoekende Partij is binnengekomen door de lucht, over land of over zee.
 
@@ -116,7 +140,7 @@ In deze Overeenkomst dient te worden verstaan onder:
 
 (8). Het negatieve antwoord op het verzoek om overname dient met redenen te worden omkleed.
 
-#### Artikel 8. Uitzonderingen op de verplichting tot overname
+##### Artikel 8. Uitzonderingen op de verplichting tot overname
 
 De verplichting tot overname ingevolge deze Overeenkomst geldt niet voor onderdanen van derde landen in de volgende gevallen:
 
@@ -130,13 +154,13 @@ De verplichting tot overname ingevolge deze Overeenkomst geldt niet voor onderda
 
 - 5. onderdanen van derde landen die door de aangezochte Partij reeds naar het land van herkomst of een derde land zijn teruggeleid.
 
-#### Artikel 9. Overname door de verzoekende Partij
+##### Artikel 9. Overname door de verzoekende Partij
 
 De verzoekende Partij neemt binnen dertig (30) dagen onderdanen van derde landen onder dezelfde voorwaarden over, van wie nadien is komen vast te staan dat zij niet voldeden aan de voorwaarden voor overname als bedoeld in [artikel 7 (leden 1 en 2)](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=7&z=2004-05-29&g=2004-05-29) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=8&z=2004-05-29&g=2004-05-29) van deze Overeenkomst.
 
 ### IV. DOORGELEIDING VAN ONDERDANEN VAN DERDE LANDEN
 
-#### Artikel 10. Doorgeleiding
+##### Artikel 10. Doorgeleiding
 
 (1). Desgevraagd door de verzoekende Partij staat de aangezochte Partij de doorgeleiding van onderdanen van derde landen toe, indien de verzoekende Partij het afdoende bewijs levert dat zij de toelating door de Staat van bestemming of eventuele andere Staten van doorreis gewaarborgd heeft.
 
@@ -156,7 +180,7 @@ De verzoekende Partij neemt binnen dertig (30) dagen onderdanen van derde landen
 
 ### V. GEGEVENSBESCHERMING
 
-#### Artikel 11. Gegevensbescherming
+##### Artikel 11. Gegevensbescherming
 
 (1). Persoonsgegevens mogen enkel worden verstrekt, voor zover zulks nodig is voor de uitvoering van deze Overeenkomst door de bevoegde instanties van de Federale Republiek Joegoslavië resp. de Benelux-Staten. Voor de verwerking en de behandeling van persoonsgegevens in een specifiek geval gelden de nationale wetgeving van de Federale Republiek Joegoslavië en, indien de controleur een bevoegde instantie van een Overeenkomstsluitende Staat van de Benelux is, de bepalingen van [Richtlijn 95/46/EG](31995L0046) en de ingevolge die Richtlijn aangenomen nationale wetgeving van die Overeenkomstsluitende Staat. Voorts gelden de volgende beginselen:
 
@@ -188,7 +212,7 @@ De verzoekende Partij neemt binnen dertig (30) dagen onderdanen van derde landen
 
 ### VI. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 12. Uitvoering van de Overeenkomst
+##### Artikel 12. Uitvoering van de Overeenkomst
 
 Het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegoslavië en het Ministerie van Buitenlandse Zaken van het Koninkrijk België, het Ministerie van Buitenlandse Zaken van het Groothertogdom Luxemburg en het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden ondertekenen het Protocol tot uitvoering van deze Overeenkomst, waarin onder meer het volgende nader is bepaald:
 
@@ -202,7 +226,7 @@ Het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegosl
 
 - 5. wijze van en procedure voor vergoeding van kosten.
 
-#### Artikel 13. Comité van deskundigen
+##### Artikel 13. Comité van deskundigen
 
 (1). De Overeenkomstsluitende Staten werken samen bij de bestudering van de vraagstukken die in het kader van de uitvoering van deze Overeenkomst en het Protocol rijzen. Daartoe wordt een Comité van deskundigen ingesteld, dat bestaat uit vertegenwoordigers van de bevoegde instanties van de Overeenkomstsluitende Staten.
 
@@ -210,13 +234,13 @@ Het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegosl
 
 (3). Geschilpunten waaromtrent binnen het Comité van deskundigen geen overeenstemming wordt bereikt, worden via diplomatieke weg opgelost.
 
-#### Artikel 14. Kosten
+##### Artikel 14. Kosten
 
 (1). De kosten verbonden aan de terug- en overname van personen komen tot aan het punt waar de terug te geleiden persoon de grens van de aangezochte Staat overschrijdt, ten laste van de verzoekende Partij.
 
 (2). Alle kosten verbonden aan de doorgeleiding en het politie-escorte als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=IV&artikel=10&z=2004-05-29&g=2004-05-29) van deze Overeenkomst komen ten laste van de verzoekende Partij.
 
-#### Artikel 15. Onschendbaarheid van verdragen
+##### Artikel 15. Onschendbaarheid van verdragen
 
 (1). De bepalingen van deze Overeenkomst doen geen afbreuk aan de verplichtingen die op grond van andere internationale overeenkomsten door de Overeenkomstsluitende Staten zijn aangegaan.
 
@@ -226,17 +250,17 @@ Het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegosl
 
 ### VII. DIVERSE BEPALINGEN
 
-#### Artikel 16. Territoriale toepassing
+##### Artikel 16. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze Overeenkomst tot de Nederlandse Antillen en Aruba worden uitgebreid door een kennisgeving van het Koninkrijk der Nederlanden aan de andere Overeenkomstsluitende Staten.
 
-#### Artikel 17. Inwerkingtreding en geldigheidsduur
+##### Artikel 17. Inwerkingtreding en geldigheidsduur
 
 (1). Deze Overeenkomst wordt voor onbepaalde tijd gesloten.
 
 (2). Deze Overeenkomst treedt in werking op de dertigste (30) dag volgende op de dag van ontvangst van de kennisgeving via diplomatieke weg, waarbij de laatste van de Overeenkomstsluitende Staten de andere Overeenkomst-sluitende Staten ervan in kennis heeft gesteld dat aan de in de nationale wetgeving daartoe vereiste formaliteiten is voldaan.
 
-#### Artikel 18. Schorsing en opzegging van de Overeenkomst
+##### Artikel 18. Schorsing en opzegging van de Overeenkomst
 
 (1). Iedere Overeenkomstsluitende Staat kan deze Overeenkomst om redenen van veiligheid, openbare orde of volksgezondheid tijdelijk, geheel of gedeeltelijk schorsen. De tijdelijke schorsing slaat niet op onderdanen van beide Staten, behalve indien zulks absoluut noodzakelijk is. De schorsing van deze Overeenkomst of de intrekking van die schorsing wordt van kracht op de dag nadat de andere Overeenkomstsluitende Staat de kennisgeving over invoering c.q. intrekking van de schorsing via diplomatieke weg heeft ontvangen.
 
@@ -246,7 +270,7 @@ Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, het Mi
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Bevoegde instanties
+##### Artikel 1. Bevoegde instanties
 
 1. De voor de uitvoering van de Overeenkomst bevoegde instantie aan Joegoslavische zijde is het Federale Ministerie van Binnenlandse Zaken van de Federale Republiek Joegoslavië – Directie Grenspolitie voor Vreemdelingen en Reisdocumenten.
 
@@ -314,7 +338,7 @@ zijn het volgende overeengekomen:
 |   |   |
 | Telefax | +31 31 636 86 49 |
 
-#### Artikel 2. Grensovergangen
+##### Artikel 2. Grensovergangen
 
 De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
 
@@ -342,7 +366,7 @@ De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
 
 - –. voor het wegverkeer: Nieuweschans, Zevenaar, Oldenzaal, Heerlen, Venlo, Kalmthout of Lanaken.
 
-#### Artikel 3. Procedure voor de terugname van onderdanen van de Overeenkomstsluitende Staten
+##### Artikel 3. Procedure voor de terugname van onderdanen van de Overeenkomstsluitende Staten
 
 1. Het verzoek om terugname van personen in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=2&z=2004-05-29&g=2004-05-29) van de Overeenkomst bevat de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=1&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
 
@@ -388,7 +412,7 @@ De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
 
 8. Na ontvangst van het positieve antwoord op het verzoek om terugname van een persoon doen de bevoegde instanties van de verzoekende Partij het bericht inzake terugname van deze persoon aan de bevoegde instanties van de aangezochte Partij toekomen, een en ander in overeenstemming met [Bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=3&z=2004-05-29&g=2004-05-29) van dit Protocol en zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=II&artikel=6&z=2004-05-29&g=2004-05-29), van de Overeenkomst.
 
-#### Artikel 4. Procedure voor de overname van onderdanen van derde landen
+##### Artikel 4. Procedure voor de overname van onderdanen van derde landen
 
 1. Het verzoek om overname van onderdanen van derde landen bevat de in [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=4&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
 
@@ -426,7 +450,7 @@ De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
 
 6. Na ontvangst van het positieve antwoord op het verzoek om overname van onderdanen van derde landen doen de bevoegde instanties van de verzoekende Partij het bericht inzake overname van onderdanen van derde landen aan de bevoegde instanties van de aangezochte Partij toekomen, een en ander in overeenstemming met [Bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=6&z=2004-05-29&g=2004-05-29) van dit Protocol en zoals bepaald in [artikel 7, lid 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=III&artikel=7&z=2004-05-29&g=2004-05-29), van de Overeenkomst.
 
-#### Artikel 5. Procedure voor doorgeleiding van onderdanen van derde landen
+##### Artikel 5. Procedure voor doorgeleiding van onderdanen van derde landen
 
 1. Het verzoek om doorgeleiding van onderdanen van derde landen bevat de in [Bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&bijlage=7&z=2004-05-29&g=2004-05-29) bij dit Protocol gespecificeerde gegevens.
 
@@ -436,13 +460,13 @@ De voor de uitvoering van de Overeenkomst te benutten grensovergangen zijn:
 
 4. Het vervoer van onderdanen van derde landen vindt via de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&artikel=2&z=2004-05-29&g=2004-05-29) van dit Protocol vermelde grensovergangen plaats.
 
-#### Artikel 6. Kosten
+##### Artikel 6. Kosten
 
 Alle kosten verbonden aan het proces van terug-/overname en doorgeleiding zijn vastgesteld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VI&artikel=14&z=2004-05-29&g=2004-05-29) van de Overeenkomst.
 
 Alle door de aangezochte Partij gemaakte kosten worden door de verzoekende Partij vergoed door middel van een bankgiro binnen dertig (30) dagen te rekenen van de dag van overhandiging van de factuur.
 
-#### Artikel 7. Inwerkingtreding en opzegging
+##### Artikel 7. Inwerkingtreding en opzegging
 
 Dit Protocol wordt overeenkomstig de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VII&artikel=17&z=2004-05-29&g=2004-05-29) en [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001585&hoofdstuk=VII&artikel=18&z=2004-05-29&g=2004-05-29) van de Overeenkomst toegepast en gelijktijdig met de opzegging van de Overeenkomst opgezegd.
 

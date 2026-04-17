@@ -1,16 +1,38 @@
 ---
 title: "Schikking van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Nice op 15 juni 1957 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Genève op 28 september 1979"
 identifier: "BWBV0005273"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-11-01
-laatste_update: 2024-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005273"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-11-01"
+last_updated: "2024-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005273"
+soort: "verdrag"
+stam_id: "10004547203"
+version_id: "10004769172"
+internal_id: "C10007254071"
+label_id: "10004531894"
+dtd_version: "2.0"
+original_entry_into_force: "1975-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005273/2024-11-01/0"
+intitule_bron: "Trb.1969-143"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1974-12-19"
+intitule_status: "goed"
+original_publication: "Trb.1969-143"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-143"
+entry_into_force_date: "1975-03-06"
+jci_1_3: "jci1.3:c:BWBV0005273&z=2024-11-01&g=2024-11-01"
+jci_1_0: "1.0:c:BWBV0005273&g=2024-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-03-06"
 ---
-
 # Schikking van Madrid betreffende de internationale inschrijving van merken van 14 april 1891, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Nice op 15 juni 1957 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Genève op 28 september 1979
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De landen, voor welke deze Schikking geldt, vormen een bijzondere Unie voor de internationale inschrijving van merken.
 
@@ -18,11 +40,11 @@ bron: "https://wetten.overheid.nl/BWBV0005273"
 
 (3). Als land van oorsprong zal worden beschouwd het land van de bijzondere Unie, waar de inzender een daadwerkelijke en wezenlijke inrichting van nijverheid of handel heeft; indien hij een dergelijke inrichting niet heeft in een land van de bijzondere Unie, het land van de bijzondere Unie waar hij zijn woonplaats heeft; indien hij geen woonplaats heeft in de bijzondere Unie, het land van zijn nationaliteit ingeval hij onderdaan is van een land van de bijzondere Unie.
 
-#### Artikel 2
+##### Artikel 2
 
 Met de onderdanen van de overeenkomstsluitende landen worden gelijkgesteld de onderdanen der niet tot deze Schikking toegetreden landen, die, op het grondgebied van de door deze gevormde bijzondere Unie, voldoen aan de voorwaarden, vastgesteld bij [artikel 3 van het Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=3).
 
-#### Artikel 3
+##### Artikel 3
 
 (1). Iedere aanvrage voor internationale inschrijving zal moeten worden aangeboden op het formulier, voorgeschreven door het reglement van uitvoering; de Administratie van het land van oorsprong van het merk zal de verklaring afgeven, dat de aanduidingen, die op dat aanvraagformulier voorkomen, overeenstemmen met die van het nationale register en zal de data en de nummers van het depot en van de inschrijving van het merk in het land van oorsprong vermelden evenals de datum van de aanvragen voor internationale inschrijving.
 
@@ -38,31 +60,31 @@ Met de onderdanen van de overeenkomstsluitende landen worden gelijkgesteld de on
 
 (5). Met het oog op de in de overeenkomstsluitende landen aan de ingeschreven merken te geven openbaarheid, zal elke Administratie van het Internationale Bureau een aantal kosteloze exemplaren en een aantal exemplaren tegen verminderde prijs van de bovengenoemde publikatie ontvangen, naar evenredigheid van het aantal eenheden vermeld in [artikel 16, vierde lid, onder a, van het Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=16), onder de bij het reglement van uitvoering vastgestelde voorwaarden. Deze openbaarmaking zal in alle Overeenkomstsluitende landen als volkomen voldoende worden beschouwd en geen andere zal van de inzender kunnen worden gevorderd.
 
-#### Artikel 3bis
+##### Artikel 3bis
 
 (1). Elk overeenkomstsluitend land kan te allen tijde de Directeur-Generaal van de Organisatie (hierna te noemen „de Directeur-Generaal”) schriftelijk er van kennis geven, dat de uit de internationale inschrijving voortvloeiende bescherming zich slechts dan tot dat land zal uitstrekken, indien de houder van het merk zulks uitdrukkelijk verzoekt.
 
 (2). Deze kennisgeving zal eerst gevolg hebben zes maanden na dagtekening van de mededeling, die de Directeur-Generaal daarvan aan de andere overeenkomstsluitende landen doet.
 
-#### Artikel 3ter
+##### Artikel 3ter
 
 (1). Het verzoek om de bescherming, voortvloeiende uit de internationale inschrijving, uit te strekken tot een land dat gebruik heeft gemaakt van de in [artikel 3bis](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3bis&z=2024-11-01&g=2024-11-01) toegekende bevoegdheid, zal afzonderlijk vermeld moeten worden in de aanvrage, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3&z=2024-11-01&g=2024-11-01).
 
 (2). Een na de internationale inschrijving gedaan verzoek om de bescherming tot een bepaald land uit te strekken zal door tussenkomst van de Administratie van het land van oorsprong ingediend moeten worden op een door het reglement van uitvoering voorgeschreven formulier. Het zal onmiddellijk ingeschreven worden door het Internationale Bureau, dat er onverwijld kennis van zal geven aan de betrokken Administratie of Administraties. Het zal openbaar worden gemaakt in het door het Internationale Bureau uitgegeven, regelmatig verschijnend blad. De uitstrekking der bescherming tot dat land zal eerst gevolg hebben vanaf de datum waarop zij zal zijn ingeschreven in het internationale register; zij houdt op te gelden, wanneer de internationale inschrijving van het merk, waarop zij betrekking heeft, vervalt.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Vanaf het tijdstip der aldus overeenkomstig de bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3&z=2024-11-01&g=2024-11-01) en [3ter](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3ter&z=2024-11-01&g=2024-11-01) gedane inschrijving zal de bescherming van het merk in elk der betrokken overeenkomstsluitende landen dezelfde zijn, als ware dit merk daar rechtstreeks gedeponeerd. De in artikel 3 bedoelde klasse-indeling van de waren en diensten bindt de overeenkomstsluitende landen niet, wat betreft de beoordeling van de omvang der bescherming van het merk.
 
 (2). Elk merk, dat het voorwerp is geweest van een internationale inschrijving, zal het recht van voorrang genieten, bij [artikel 4 van het Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=4) vastgesteld, zonder dat het nodig is de formaliteiten voorgeschreven onder letter D van dat artikel te vervullen.
 
-#### Artikel 4bis
+##### Artikel 4bis
 
 (1). Wanneer een merk, reeds gedeponeerd in een of meer der overeenkomstsluitende landen, daarna is ingeschreven door het Internationale Bureau ten name van dezelfde persoon of van diens rechtverkrijgende, zal de internationale inschrijving beschouwd worden als in de plaats te zijn getreden van de vroegere nationale inschrijvingen, zonder afbreuk te doen aan de rechten, door laatstvermelde inschrijvingen verkregen.
 
 (2). De nationale Administratie is, op aanvrage, gehouden in haar registers van de internationale inschrijving aantekening te houden.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). In de landen, waar de wetgeving hen daartoe machtigt, zullen de Administraties, aan welke het Internationale Bureau van de inschrijving van een merk of van het overeenkomstig [artikel 3ter](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3ter&z=2024-11-01&g=2024-11-01) gedaan verzoek de bescherming tot deze landen uit te strekken zal kennis geven, de bevoegdheid hebben te verklaren dat de bescherming op hun grondgebied niet aan dat merk kan worden verleend. Een dergelijke weigering zal alleen geoorloofd zijn op grond van omstandigheden, die, krachtens het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), van kracht zouden zijn ten aanzien van een ter nationale inschrijving ingezonden merk. De bescherming zal echter niet kunnen worden geweigerd, zelfs niet gedeeltelijk, enkel en alleen omdat de nationale wetgeving de inschrijving slechts in een beperkt aantal klassen of voor een beperkt aantal waren of diensten zou toelaten.
 
@@ -76,11 +98,11 @@ Met de onderdanen van de overeenkomstsluitende landen worden gelijkgesteld de on
 
 (6). De ongeldigverklaring van een internationaal merk zal door de bevoegde autoriteiten niet kunnen worden uitgesproken, zonder dat de rechthebbende op dat merk is aangemaand zijn rechten tijdig te doen gelden. Zij zal aan het Internationale Bureau worden medegedeeld.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgenomen bestanddelen als wapens, wapenschilden, portretten, eervolle onderscheidingen, titels, handelsnamen of namen van personen anders dan die van de aanvrager, of andere overeenkomstige vermeldingen, welke door de Administraties der overeenkomstsluitende landen mochten worden gevorderd, zullen vrijgesteld zijn van elke legalisatie, alsmede van elke andere waarmerking dan die van de Administratie van het land van oorsprong.
 
-#### Artikel 5ter
+##### Artikel 5ter
 
 (1). Het Internationale Bureau zal aan een ieder, die daartoe aanvraag doet, tegen een in het reglement van uitvoering vastgestelde taks, een afschrift afgeven van de aantekeningen, in het register ingeschreven met betrekking tot een bepaald merk.
 
@@ -88,7 +110,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (3). De uittreksels uit het internationale register, die met het oog op hun overlegging in een der overeenkomstsluitende landen zijn aangevraagd, zullen van iedere legalisatie vrijgesteld zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). De inschrijving van een merk bij het Internationale Bureau geschiedt voor twintig jaar met mogelijkheid tot vernieuwing onder de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=7&z=2024-11-01&g=2024-11-01) gestelde voorwaarden.
 
@@ -98,7 +120,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (4). Ingeval van de vrijwillige of ambtshalve doorhaling zal de Administratie van het land van oorsprong aan het Internationale Bureau verzoeken het merk door te halen, welk Bureau tot deze verrichting zal overgaan. Ingeval een rechtsvordering wordt ingesteld, zal de hiervoren genoemde Administratie aan het Internationale Bureau - hetzij ambtshalve, hetzij op verzoek van de eiser - een kopie van de akte van rechtsingang of van enig ander document waaruit de rechtsingang blijkt, evenals van de definitieve uitspraak doen toekomen; het Bureau zal er melding van maken in het internationale register.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). De inschrijving zal altijd kunnen worden vernieuwd voor een termijn van twintig jaren, te rekenen van het tijdstip, waarop de voorafgaande termijn afloopt, door het enkele storten van het basisemolument en in voorkomende gevallen van extra emolumenten en aanvullingsemolumenten, als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=8&z=2024-11-01&g=2024-11-01).
 
@@ -110,7 +132,7 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (5). Door storting van een door het reglement van uitvoering vastgestelde extra taks, zal voor de vernieuwing van de internationale inschrijving een termijn van uitstel van zes maanden kunnen worden verleend.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). De Administratie van het land van oorsprong zal de bevoegdheid hebben om naar goedvinden een nationale taks vast te stellen en te haren voordele te innen, welke zij zal vorderen van de rechthebbende op het merk, waarvan de internationale inschrijving of de vernieuwing wordt gevraagd.
 
@@ -130,11 +152,11 @@ De bewijsstukken van de wettigheid van het gebruik van zekere in de merken opgen
 
 (6). Het totaalbedrag van de in het tweede lid, onder c, bedoelde aanvullingsemolumenten zal, met inachtneming van het bepaalde in het vijfde lid, worden verdeeld tussen de landen, die gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel 3bis](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3bis&z=2024-11-01&g=2024-11-01). Indien op het tijdstip van het in werking treden van deze Akte een land deze nog niet heeft bekrachtigd of daartoe nog niet is toegetreden, heeft het tot aan het tijdstip van het in werking treden van zijn bekrachtiging of toetreding recht op een uitkering van het bedrag berekend op de grondslag van de [Overeenkomst van Nice](https://wetten.overheid.nl/jci1.3:c:BWBV0003894).
 
-#### Artikel 8bis
+##### Artikel 8bis
 
 De rechthebbende op de internationale inschrijving kan steeds afstand doen van de bescherming in een of meer der overeenkomstsluitende landen, door middel van een verklaring, afgegeven aan de Administratie van zijn land, ter mededeling aan het Internationale Bureau, dat hiervan kennis zal geven aan de landen, waarop deze afstand betrekking heeft. Deze afstand is niet aan enige taks onderworpen.
 
-#### Artikel 9
+##### Artikel 9
 
 (1). De Administratie van het land van de rechthebbende zal aan het Internationale Bureau eveneens kennis geven van elke nietigverklaring, doorhaling, afstand, overdracht en van andere wijzigingen, aangebracht in de inschrijving van het merk in het nationale register, indien deze wijzigingen ook voor de internationale inschrijving van belang zijn.
 
@@ -148,7 +170,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (6). Met de toevoeging wordt gelijkgesteld de vervanging van een waar of dienst door andere.
 
-#### Artikel 9bis
+##### Artikel 9bis
 
 (1). Indien een in het internationale register ingeschreven merk mocht worden overgedragen aan een persoon, gevestigd in een ander der overeenkomstsluitende landen dan het land van de rechthebbende op de internationale inschrijving, zal de overdracht door de Administratie van datzelfde land ter kennis van het Internationale Bureau worden gebracht. Het Internationale Bureau zal de overdracht inschrijven, haar aan de andere Administraties mededelen en haar in zijn blad bekendmaken. Indien de overdracht is geschied vóór afloop van een termijn van vijf jaren te rekenen van de internationale inschrijving af, zal het Internationale Bureau de toestemming vragen van de Administratie van het land van de nieuwe rechthebbende en zal, zo mogelijk, de datum waarop en het nummer waaronder inschrijving van het merk in het land van de nieuwe rechthebbende heeft plaatsgehad, bekendmaken.
 
@@ -156,7 +178,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (3). Indien een overdracht niet in het internationale register kon worden ingeschreven, hetzij als gevolg van de weigering van toestemming van het land van de nieuwe rechthebbende, hetzij omdat zij geschiedde ten behoeve van iemand, die niet bevoegd is een internationale inschrijving te vragen, zal de Administratie van het land van de vroegere rechthebbende het recht hebben aan het Internationale Bureau te verzoeken tot doorhaling van het merk in zijn register over te gaan.
 
-#### Artikel 9ter
+##### Artikel 9ter
 
 (1). Indien de overdracht van een internationaal merk voor slechts een gedeelte der ingeschreven waren of diensten ter kennis van het Internationale Bureau is gebracht, zal dit die overdracht in zijn register inschrijven. Elk der overeenkomstsluitende landen zal de bevoegdheid hebben de geldigheid van deze overdracht niet te erkennen, indien de waren of diensten, in het aldus overgedragen gedeelte begrepen, van dezelfde soort zijn als die, waarvoor het merk ten behoeve van hem, die het merk heeft overgedragen, blijft ingeschreven.
 
@@ -166,7 +188,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (4). De bepalingen van de vorige leden zijn slechts van toepassing met inachtneming van [artikel 6quater van het Internationale Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=6quater).
 
-#### Artikel 9quater
+##### Artikel 9quater
 
 (1). Indien verschillende landen van de bijzondere Unie overeenkomen de eenmaking hunner nationale wetten op de merken te verwezenlijken, kunnen zij de Directeur-Generaal er van in kennis stellen:
 
@@ -176,7 +198,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (2). Deze mededeling zal eerst gevolg hebben zes maanden na het tijdstip van de kennisgeving hiervan door de Directeur-Generaal aan de andere overeenkomstsluitende landen.
 
-#### Artikel 10
+##### Artikel 10
 
 - a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen, die deze Akte hebben bekrachtigd of daartoe zijn toegetreden.
 
@@ -232,7 +254,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (5). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 11
+##### Artikel 11
 
 - a). De taken met betrekking tot de internationale inschrijving alsmede de andere aan de bijzondere Unie toevallende administratieve taken worden verricht door het Internationale Bureau.
 
@@ -250,7 +272,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 12
+##### Artikel 12
 
 - a). De bijzondere Unie heeft een begroting.
 
@@ -292,7 +314,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door één of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 13
+##### Artikel 13
 
 (1). Voorstellen tot wijziging van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=10&z=2024-11-01&g=2024-11-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=11&z=2024-11-01&g=2024-11-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=12&z=2024-11-01&g=2024-11-01) en van dit artikel kunnen worden ingediend door ieder land dat lid is van de Algemene Vergadering of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden vóór zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
 
@@ -300,7 +322,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (3). De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht een maand na de ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden constitutionele procedures, door drie vierde van de landen, die lid waren van de Algemene Vergadering op het tijdstip waarop de herziening werd aanvaard. Een aldus aanvaarde herziening van de genoemde artikelen bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum lid worden.
 
-#### Artikel 14
+##### Artikel 14
 
 (1). Elk land van de bijzondere Unie dat deze Akte heeft ondertekend kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden.
 
@@ -330,7 +352,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (7). De bepalingen van [artikel 24 van het Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=24) zijn van toepassing op deze Schikking.
 
-#### Artikel 15
+##### Artikel 15
 
 (1). Deze Schikking blijft voor onbepaalde tijd van kracht.
 
@@ -342,7 +364,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (5). De internationale merken, ingeschreven vóór de datum, waarop de opzegging van kracht wordt, en niet geweigerd binnen het jaar, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=5&z=2024-11-01&g=2024-11-01), blijven voor de duur der internationale bescherming in het genot van dezelfde bescherming, als waren zij rechtstreeks in dat land gedeponeerd.
 
-#### Artikel 16
+##### Artikel 16
 
 - a). In de betrekkingen tussen de landen van de bijzondere Unie die de onderhavige Akte hebben bekrachtigd of daartoe zijn toegetreden, treedt deze Akte, met ingang van de dag waarop zij te hunnen aanzien in werking treedt, in de plaats van de Schikking van Madrid van 1891 zoals deze luidde vóór deze Akte.
 
@@ -350,7 +372,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (2). Landen die geen lid zijn van de bijzondere Unie en partij worden bij deze Akte, passen deze toe op de internationale inschrijvingen bij het Internationale Bureau door tussenkomst van de nationale Administratie van ieder land van de bijzondere Unie dat geen partij is bij deze Akte, mits deze inschrijvingen, wat genoemde landen betreft, voldoen aan de voorwaarden voorgeschreven in deze Akte. Wat betreft de internationale inschrijvingen, verricht bij het Internationale Bureau door tussenkomst van de nationale Administraties van genoemde landen die geen lid zijn van de bijzondere Unie en die partij worden bij de onderhavige Akte, stemmen deze landen er mede in, dat het hierboven genoemde land eist dat wordt voldaan aan de voorwaarden voorgeschreven bij de meest recente Akte waarbij het partij is.
 
-#### Artikel 17
+##### Artikel 17
 
 - a). Deze Akte wordt ondertekend in een enkel exemplaar in de Franse taal en nedergelegd bij de Regering van Zweden.
 
@@ -364,7 +386,7 @@ De rechthebbende op de internationale inschrijving kan steeds afstand doen van d
 
 (5). De Directeur-Generaal brengt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding en de in deze akten vervatte verklaringen, de inwerkingtreding van alle bepalingen van deze Akte, de kennisgevingen van opzegging en de kennisgevingen verricht door toepassing van de [artikelen 3bis](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=3bis&z=2024-11-01&g=2024-11-01), [9quater](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=9quater&z=2024-11-01&g=2024-11-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=13&z=2024-11-01&g=2024-11-01), [14, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=14&z=2024-11-01&g=2024-11-01), en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&artikel=15&z=2024-11-01&g=2024-11-01), ter kennis van de Regeringen van alle landen van de bijzondere Unie.
 
-#### Artikel 18
+##### Artikel 18
 
 (1). Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Akte naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op het Bureau van de Unie, ingesteld bij het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), respectievelijk op zijn Directeur.
 
@@ -376,7 +398,7 @@ FAIT à Stockholm, le 14 juillet 1967.
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Regel 1. Verkorte aanduidingen
+##### Regel 1. Verkorte aanduidingen
 
 Voor de toepassing van dit reglement wordt verstaan onder
 
@@ -450,15 +472,15 @@ Voor de toepassing van dit reglement wordt verstaan onder
 
 - xxxi. „administratieve instructies”: de in [regel 41](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=9&artikel=41&z=2024-11-01&g=2024-11-01) bedoelde administratieve instructies.
 
-#### Regel 1bis
+##### Regel 1bis
 
 **[Vervallen]**
 
-#### Regel 2. Communicatie met het Internationale Bureau
+##### Regel 2. Communicatie met het Internationale Bureau
 
 Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegeven in de administratieve instructies.
 
-#### Regel 3. Vertegenwoordiging bij het Internationale Bureau
+##### Regel 3. Vertegenwoordiging bij het Internationale Bureau
 
 1. **[Gemachtigde, aantal gemachtigden]**
 
@@ -516,7 +538,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 - f. Doorhalingen op verzoek van de rechthebbende of de gemachtigde van de rechthebbende worden ook ter kennis gebracht van de Administraties van de aangewezen overeenkomstsluitende Partijen.
 
-#### Regel 4. Berekening van termijnen
+##### Regel 4. Berekening van termijnen
 
 1. [**In jaren uitgedrukte termijnen]** Een in jaren uitgedrukte termijn loopt in het desbetreffende eerstvolgende jaar af in de maand die dezelfde naam heeft en op de dag die hetzelfde getal heeft als de maand en de dag van de gebeurtenis die de termijn doet ingaan, met dien verstande dat indien de gebeurtenis plaatsvond op 29 februari en februari in het desbetreffende volgende jaar 28 dagen telt, de termijn afloopt op 28 februari.
 
@@ -528,7 +550,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 5. [**Vermelding van de datum waarop de termijn verstrijkt**] In elk geval waarin het Internationale Bureau een termijn mededeelt, vermeldt het de datum waarop de termijn ingevolge het eerste tot en met derde lid verstrijkt.
 
-#### Regel 5. Aanvaarden van het overschrijden van termijnen
+##### Regel 5. Aanvaarden van het overschrijden van termijnen
 
 1. [**Het aanvaarden van het overschrijden van een termijn wegens overmacht**] De niet-naleving door een belanghebbende van een in het Reglement vermelde termijn voor het verrichten van een handeling voor het Internationale Bureau wordt niet aangerekend indien de belanghebbende naar tevredenheid van het Internationale Bureau aantoont dat deze niet-naleving het gevolg was van oorlog, revolutie, binnenlandse ordeverstoring, staking, natuurramp, onregelmatigheden bij de postale, bezorgings- of elektronische communicatiediensten als gevolg van omstandigheden buiten de macht van de belanghebbende of een andere omstandigheid van overmacht.
 
@@ -540,7 +562,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 5. [**Internationale aanvrage en latere aanwijzing**] Indien het Internationale Bureau een internationale aanvrage of een latere aanwijzing ontvangt na het verstrijken van de in [artikel 3, vierde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=3) en [regel 24, zesde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=24&z=2024-11-01&g=2024-11-01), genoemde termijn van twee maanden, en de betrokken Administratie aangeeft dat laattijdige ontvangst het gevolg is van omstandigheden zoals bedoeld in het eerste lid, zijn het eerste en vierde lid van toepassing.
 
-#### Regel 5bis. Voortzetting van de procedure
+##### Regel 5bis. Voortzetting van de procedure
 
 1. **Verzoek**
 
@@ -554,7 +576,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 2. [**Inschrijving en kennisgeving**] Het Internationale Bureau schrijft elke fase van voortzetting van de procedure in het internationale register in en stelt de aanvrager of rechthebbende hiervan in kennis.
 
-#### Regel 6. Talen
+##### Regel 6. Talen
 
 1. [**Internationale aanvrage**] De internationale aanvrage wordt opgesteld in het Engels, Frans of Spaans, zoals voorgeschreven door de Administratie van oorsprong, met dien verstande dat de Administratie van oorsprong de aanvragers de keuze kan geven tussen Engels, Frans of Spaans.
 
@@ -580,7 +602,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 - b. Niettegenstaande het bepaalde in letter a, vertaalt het Internationale Bureau het merk niet. Indien de aanvrager of rechthebbende overeenkomstig [regel 9, vierde lid, letter b, punt iii](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=2&artikel=9&z=2024-11-01&g=2024-11-01), of [regel 24, derde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=24&z=2024-11-01&g=2024-11-01), een of meer vertalingen van het merk verstrekt, controleert het Internationale Bureau niet of deze vertaling of vertalingen juist is of zijn.
 
-#### Regel 7. Kennisgeving van bepaalde specifieke eisen
+##### Regel 7. Kennisgeving van bepaalde specifieke eisen
 
 1. [Vervallen.]
 
@@ -594,13 +616,13 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 ### HOOFDSTUK 2. INTERNATIONALE AANVRAGEN
 
-#### Regel 8. Diverse aanvragers
+##### Regel 8. Diverse aanvragers
 
 1. [Vervallen.]
 
 2. [**Diverse aanvragers**] Twee of meer aanvragers kunnen gezamenlijk een internationale aanvrage indienen indien zij gezamenlijk de basisaanvrage hebben ingediend of gezamenlijk rechthebbenden zijn van de basisinschrijving, en indien elk van hen krachtens [artikel 2, eerste lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=2) gerechtigd is een internationale aanvrage in te dienen ten aanzien van de overeenkomstsluitende Partij waarvan de Administratie de Administratie van oorsprong is.
 
-#### Regel 9. Met de internationale aanvrage verband houdende voorwaarden
+##### Regel 9. Met de internationale aanvrage verband houdende voorwaarden
 
 1. [**Indiening**] De internationale aanvrage wordt door de Administratie van oorsprong ingediend bij het Internationale Bureau.
 
@@ -706,7 +728,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 - ii. indien de aanvrager krachtens de wetgeving van die overeenkomstsluitende organisatie verplicht is bij de Administratie van die overeenkomstsluitende organisatie een tweede werktaal aan te geven, naast die van de internationale aanvrage, een aanduiding van die tweede taal.
 
-#### Regel 10. Taksen inzake de internationale aanvrage
+##### Regel 10. Taksen inzake de internationale aanvrage
 
 1. [Vervallen.]
 
@@ -714,7 +736,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 3. [Vervallen.]
 
-#### Regel 11. Andere onregelmatigheden dan die welke betrekking hebben op de indeling van waren en diensten of de aanduiding ervan
+##### Regel 11. Andere onregelmatigheden dan die welke betrekking hebben op de indeling van waren en diensten of de aanduiding ervan
 
 1. [Vervallen.]
 
@@ -762,7 +784,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 7. [**Internationale aanvrage niet als zodanig beschouwd**] Indien de internationale aanvrage rechtstreeks door de aanvrager bij het Internationale Bureau wordt ingediend of indien deze niet voldoet aan het vereiste van [regel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=1&artikel=6&z=2024-11-01&g=2024-11-01), wordt deze niet als zodanig beschouwd en aan de afzender teruggezonden.
 
-#### Regel 12. Onregelmatigheden bij de classificatie van waren en diensten
+##### Regel 12. Onregelmatigheden bij de classificatie van waren en diensten
 
 1. **[Voorstel voor classificatie]**
 
@@ -794,7 +816,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 9. **[Classificatie vermeld in de inschrijving]** Mits de internationale aanvrage aan de overige vereisten voldoet, wordt het merk ingeschreven met de classificatie en indeling die het Internationale Bureau correct acht.
 
-#### Regel 13. Onregelmatigheden bij de vermelding van waren en diensten
+##### Regel 13. Onregelmatigheden bij de vermelding van waren en diensten
 
 1. **[Mededeling van een onregelmatigheid door het Internationale Bureau aan de Administratie van oorsprong]** Indien het Internationale Bureau van oordeel is dat bepaalde waren en diensten in de internationale aanvrage worden aangeduid met een term die te vaag is voor classificatiedoeleinden of die uit taalkundig oogpunt onbegrijpelijk of onjuist is, meldt het dit bij de Administratie van oorsprong en stelt het tegelijkertijd de aanvrager hiervan in kennis. Het Internationale Bureau kan in dezelfde kennisgeving een alternatieve term of de schrapping van de term in kwestie voorstellen.
 
@@ -806,7 +828,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 ### HOOFDSTUK 3. INTERNATIONALE INSCHRIJVINGEN
 
-#### Regel 14. Inschrijving van het merk in het internationale register
+##### Regel 14. Inschrijving van het merk in het internationale register
 
 1. [**Inschrijving van het merk in het internationale register**] Wanneer het Internationale Bureau van oordeel is dat de internationale aanvrage aan de vereisten voldoet, schrijft het het merk in het internationale register in, stelt het de Administraties van de aangewezen overeenkomstsluitende Partijen in kennis van de internationale inschrijving en stelt het de Administratie van oorsprong hiervan in kennis, en zendt het de rechthebbende een certificaat toe. Het certificaat wordt naar de rechthebbende gestuurd door tussenkomst van de Administratie van oorsprong indien deze zulks wenst en deze het Internationale Bureau daarvan in kennis heeft gesteld.
 
@@ -824,7 +846,7 @@ Kennisgevingen aan het Internationale Bureau geschieden op de wijze als aangegev
 
 - vi. de overeenkomstig [regel 9, vijfde lid letter g, punt i](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=2&artikel=9&z=2024-11-01&g=2024-11-01), bij de internationale aanvrage gevoegde gegevens betreffende de lidstaat of lidstaten waarin of waarvoor een ouder merk waarvan de anciënniteit wordt ingeroepen, is ingeschreven, de datum waarop de inschrijving van dat oudere merk van kracht werd en het nummer van de overeenkomstige inschrijving.
 
-#### Regel 15. Datum van de internationale inschrijving
+##### Regel 15. Datum van de internationale inschrijving
 
 1. [**Onregelmatigheden die van invloed zijn op de datum van internationale inschrijving**] Wanneer de door het Internationale Bureau ontvangen internationale aanvrage niet alle volgende elementen bevat:
 
@@ -842,7 +864,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 ### HOOFDSTUK 4. GEBEURTENISSEN IN DE OVEREENKOMSTSLUITENDE PARTIJEN DIE VAN INVLOED ZIJN OP INTERNATIONALE INSCHRIJVINGEN
 
-#### Regel 16. Mogelijkheid tot kennisgeving van een voorlopige weigering op grond van een oppositie krachtens [artikel 5, tweede lid, letter c, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=5)
+##### Regel 16. Mogelijkheid tot kennisgeving van een voorlopige weigering op grond van een oppositie krachtens [artikel 5, tweede lid, letter c, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=5)
 
 1. **[Informatie over mogelijke bezwaren en termijn voor kennisgeving van een voorlopige weigering op grond van een oppositie]**
 
@@ -854,7 +876,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 2. [**Inschrijving en toezending van informatie**] Het Internationale Bureau schrijft de ingevolge het eerste lid ontvangen informatie in het internationale register in en zendt deze toe aan de rechthebbende
 
-#### Regel 17. Voorlopige weigering
+##### Regel 17. Voorlopige weigering
 
 1. **[Kennisgeving van voorlopige weigering]**
 
@@ -908,7 +930,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 7. [**Informatie over de termijn om te reageren op een voorlopige weigering**] Overeenkomstsluitende Partijen stellen het Internationale Bureau in kennis van de duur van de in het tweede lid 2, punt vii, bedoelde termijn en van de wijze waarop deze termijn wordt berekend.
 
-#### Regel 18. Onregelmatige kennisgevingen van voorlopige weigering
+##### Regel 18. Onregelmatige kennisgevingen van voorlopige weigering
 
 1. [**Algemeen**]
 
@@ -950,7 +972,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - c. Indien de kennisgeving van voorlopige weigering op grond van een oppositie geschiedt overeenkomstig [artikel 5, tweede lid, letter c, punt ii, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=5) zonder dat aan de vereisten van artikel 5, tweede lid, letter c, i, is voldaan, wordt die kennisgeving van voorlopige weigering niet als zodanig beschouwd. In dat geval zendt het Internationale Bureau de rechthebbende niettemin een afschrift van de kennisgeving toe, en deelt het tegelijkertijd de rechthebbende en de Administratie die de kennisgeving heeft toegezonden, mee dat de kennisgeving van voorlopige weigering door het Internationale Bureau niet als zodanig wordt beschouwd en vermeldt het de redenen daarvoor.
 
-#### Regel 18bis. Voorlopige status van het merk in een aangewezen overeenkomstsluitende Partij
+##### Regel 18bis. Voorlopige status van het merk in een aangewezen overeenkomstsluitende Partij
 
 1. **[Ambtshalve onderzoek voltooid, maar oppositie of opmerkingen van derden zijn nog mogelijk].**
 
@@ -960,7 +982,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 2. [**Inschrijving, kennisgeving aan de rechthebbende en toezending van afschriften**] Het Internationale Bureau schrijft elke uit hoofde van deze regel ontvangen verklaring in het internationale register in, stelt de rechthebbende daarvan in kennis en zendt, indien de verklaring als afzonderlijk document is overgelegd of kan worden gereproduceerd, een afschrift van dat document aan de rechthebbende.
 
-#### Regel 18ter. Definitieve beslissing over de status van het merk in een aangewezen overeenkomstsluitende Partij
+##### Regel 18ter. Definitieve beslissing over de status van het merk in een aangewezen overeenkomstsluitende Partij
 
 1. [**Verklaring dat bescherming is verleend wanneer geen kennisgeving van voorlopige weigering is gedaan**] 3)Bij de aanneming van deze bepaling heeft de Algemene Vergadering van de Unie van Madrid overwogen dat een verklaring van verlening van bescherming betrekking kan hebben op verschillende internationale inschrijvingen en de vorm kan aannemen van een lijst, meegedeeld langs elektronische weg of op papier, waarin die internationale inschrijvingen worden vermeld. Indien vóór het verstrijken van de krachtens [artikel 5, tweede lid, letters a, b of c, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=5) toepasselijke termijn alle procedures voor een Administratie zijn voltooid en er voor die Administratie geen gronden zijn om de bescherming te weigeren, zendt die Administratie het Internationale Bureau zo spoedig mogelijk en vóór het verstrijken van die termijn een verklaring toe waaruit blijkt dat bescherming van het merk dat het voorwerp is van de internationale inschrijving, is verleend in de betrokken overeenkomstsluitende Partij. 4)Bij de aanneming van het eerste en tweede lid van deze regel heeft de Algemene Vergadering van de Unie van Madrid overwogen dat, wanneer regel 34, derde lid, van toepassing is, de verlening van bescherming afhankelijk wordt gesteld van de betaling van het tweede deel van de taks.
 
@@ -976,7 +998,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 5. [**Inschrijving, kennisgeving aan de rechthebbende en toezending van afschriften**] Het Internationale Bureau schrijft elke uit hoofde van deze regel ontvangen verklaring in het internationale register in, stelt de rechthebbende daarvan in kennis en zendt, indien de verklaring als afzonderlijk document is overgelegd of kan worden gereproduceerd, een afschrift van dat document aan de rechthebbende.
 
-#### Regel 19. Ongeldigverklaringen in aangewezen overeenkomstsluitende Partijen
+##### Regel 19. Ongeldigverklaringen in aangewezen overeenkomstsluitende Partijen
 
 1. [**Inhoud van de kennisgeving van ongeldigverklaring**] Wanneer de rechtsgevolgen van een internationale inschrijving ongeldig worden verklaard in een aangewezen overeenkomstsluitende Partij ingevolge [artikel 5, zesde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=5) en tegen de ongeldigverklaring geen beroep meer openstaat, stelt de Administratie van de overeenkomstsluitende Partij waarvan de bevoegde autoriteit de ongeldigverklaring heeft uitgesproken, het Internationale Bureau hiervan in kennis. De kennisgeving bevat of vermeldt;
 
@@ -998,7 +1020,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - b. De ongeldigverklaring wordt ingeschreven op de datum van ontvangst door het Internationale Bureau van een kennisgeving die aan de vereiste voorwaarden voldoet.
 
-#### Regel 20. Beperking van het recht van de rechthebbende om over de internationale inschrijving te beschikken
+##### Regel 20. Beperking van het recht van de rechthebbende om over de internationale inschrijving te beschikken
 
 1. **[Kennisgeving van informatie]**
 
@@ -1016,7 +1038,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - b. De krachtens het eerste en tweede lid medegedeelde informatie wordt geregistreerd op de datum van ontvangst door het Internationale Bureau, mits de kennisgeving voldoet aan de vereiste voorwaarden.
 
-#### Regel 20bis. Licenties
+##### Regel 20bis. Licenties
 
 1. **[Verzoek tot inschrijving van een licentie]**
 
@@ -1092,7 +1114,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - b. De Administratie van een overeenkomstsluitende Partij waarvan de wetgeving in de inschrijving van merklicenties voorziet, kan vóór de datum waarop deze regel in werking treedt of de datum waarop genoemde overeenkomstsluitende Partij door het [Protocol](onbekend) gebonden wordt, de Directeur-Generaal ervan in kennis stellen dat de inschrijving van licenties in het internationale register in die overeenkomstsluitende Partij geen rechtsgevolgen heeft. Deze kennisgeving kan te allen tijde worden ingetrokken7)Interpretatieve verklaring goedgekeurd door de Vergadering van de Unie van Madrid.„Letter a van regel 20**bis**.6 heeft betrekking op een kennisgeving door een overeenkomstsluitende Partij waarvan de wetgeving niet voorziet in de inschrijving van merklicenties; een dergelijke kennisgeving kan te allen tijde worden gedaan; letter b heeft daarentegen betrekking op een kennisgeving door een overeenkomstsluitende Partij waarvan de wetgeving voorziet in de inschrijving van merklicenties, maar die momenteel niet in staat is uitvoering te geven aan de inschrijving van een licentie in het internationale register; deze laatste kennisgeving, die te allen tijde kan worden ingetrokken, mag alleen worden gedaan vóór de inwerkingtreding van dit artikel of voordat de overeenkomstsluitende Partij gebonden wordt door de schikking of het protocol.” .
 
-#### Regel 21. Vervanging van een nationale of regionale inschrijving door een internationale inschrijving
+##### Regel 21. Vervanging van een nationale of regionale inschrijving door een internationale inschrijving
 
 1. [**Verzoek en kennisgeving**] Vanaf de datum van kennisgeving van de internationale inschrijving of de latere aanwijzing, naargelang van het geval, kan de rechthebbende rechtstreeks bij de Administratie van een aangewezen overeenkomstsluitende Partij een verzoek indienen dat die Administratie in haar register aantekening maakt van de internationale inschrijving, overeenkomstig [artikel 4**bis**, tweede lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=4bis). Wanneer de Administratie naar aanleiding van dit verzoek in haar register aantekening heeft gemaakt van het feit dat, naargelang van het geval, een nationale of regionale inschrijving of dergelijke inschrijvingen door de internationale inschrijving zijn vervangen, stelt zij het Internationale Bureau hiervan in kennis. In de kennisgeving wordt het volgende vermeld:
 
@@ -1120,7 +1142,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - e. een nationale of regionale inschrijving wordt geacht te zijn vervangen door een internationale inschrijving vanaf de datum waarop deze internationale inschrijving van kracht wordt in de aangewezen overeenkomstsluitende Partij in kwestie, overeenkomstig [artikel 4, eerste lid, letter a, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=4).
 
-#### Regel 21bis. Andere feiten betreffende een beroep op anciënniteit
+##### Regel 21bis. Andere feiten betreffende een beroep op anciënniteit
 
 1. [**Definitieve afwijzing van een beroep op anciënniteit**] Wanneer een beroep op anciënniteit in het internationale register is ingeschreven met betrekking tot de aanwijzing van een overeenkomstsluitende organisatie, stelt de Administratie van die organisatie het Internationale Bureau in kennis van elk definitief besluit waarbij de geldigheid van dat beroep geheel of gedeeltelijk wordt afgewezen.
 
@@ -1134,7 +1156,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 4. [**Inschrijving in het internationale register**] Het Internationale Bureau schrijft de ingevolge het eerste tot en met het derde lid medegedeelde informatie in het internationale register in.
 
-#### Regel 22. Einde van de rechtsgevolgen van de basisaanvrage, de daaruit voortvloeiende inschrijving of de basisinschrijving
+##### Regel 22. Einde van de rechtsgevolgen van de basisaanvrage, de daaruit voortvloeiende inschrijving of de basisinschrijving
 
 1. [**Kennisgeving met betrekking tot het einde van de rechtsgevolgen van de basisaanvrage, de daaruit voortvloeiende inschrijving of de basisinschrijving**]
 
@@ -1166,7 +1188,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - iii. indien de doorhaling slechts betrekking heeft op een deel van de waren en diensten, de in eerste lid, letter a, punt iv, bedoelde waren en diensten
 
-#### Regel 23. Splitsing of samenvoeging van basisaanvragen, resulterende inschrijvingen of basisinschrijvingen
+##### Regel 23. Splitsing of samenvoeging van basisaanvragen, resulterende inschrijvingen of basisinschrijvingen
 
 1. [**Kennisgeving van splitsing van een basisaanvrage of samenvoeging van basisaanvragen**] Indien gedurende de in [artikel 6, derde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=6) genoemde periode van vijf jaar de basisaanvrage in twee of meer aanvragen wordt gesplitst, of twee of meer basisaanvragen in één aanvrage worden samengevoegd, stelt de Administratie van oorsprong het Internationale Bureau hiervan in kennis onder vermelding van
 
@@ -1180,7 +1202,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 3. [**Splitsing of samenvoeging van uit basisaanvragen voortvloeiende inschrijvingen of van basisinschrijvingen**] Het eerste en tweede lid zijn van overeenkomstige toepassing op de splitsing van een uit de basisaanvrage voortvloeiende inschrijving of op de samenvoeging van uit basisaanvragen voortvloeiende inschrijvingen, indien die splitsing of samenvoeging binnen de in [artikel 6, derde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=6) bedoelde termijn van vijf jaar heeft plaatsgevonden, en op de splitsing van de basisinschrijving of de samenvoeging van basisinschrijvingen indien deze splitsing of samenvoeging binnen de in artikel 6, derde lid, van het Protocol bedoelde periode van vijf jaar heeft plaatsgevonden.
 
-#### Regel 23bis. Kennisgevingen van de Administraties van aangewezen overeenkomstsluitende Partijen die via het Internationale Bureau worden verzonden
+##### Regel 23bis. Kennisgevingen van de Administraties van aangewezen overeenkomstsluitende Partijen die via het Internationale Bureau worden verzonden
 
 1. [**Kennisgevingen die niet onder dit Reglement van uitvoering vallen**] De Administratie van een aangewezen overeenkomstsluitende Partij kan het Internationale Bureau verzoeken kennisgevingen betreffende een internationale inschrijving namens haar aan de rechthebbende te doen toekomen.
 
@@ -1190,7 +1212,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 ### HOOFDSTUK 5. LATERE AANWIJZINGEN; WIJZIGINGEN
 
-#### Regel 24. Aanwijzing na de internationale inschrijving
+##### Regel 24. Aanwijzing na de internationale inschrijving
 
 1. **[Bevoegdheid]**
 
@@ -1286,7 +1308,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 10. [**Latere aanwijzing niet als zodanig beschouwd**] Indien niet wordt voldaan aan de voorschriften van het tweede lid, letter a, wordt de latere aanwijzing niet als zodanig beschouwd en stelt het Internationale Bureau de afzender daarvan in kennis
 
-#### Regel 25. Verzoek tot inschrijving
+##### Regel 25. Verzoek tot inschrijving
 
 1. **[Indiening van de aanvrage]**
 
@@ -1342,7 +1364,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 4. [**Meerdere nieuwe rechthebbenden**] Wanneer in de aanvrage tot inschrijving van een wijziging in de rechthebbende van de internationale inschrijving melding wordt gemaakt van meerdere nieuwe rechthebbenden, moet elk van hen voldoen aan de voorwaarden van [artikel 2 van het Protocol van Madrid](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=2) om rechthebbende van de internationale inschrijving te kunnen zijn.
 
-#### Regel 26. Onregelmatigheden in verzoeken tot inschrijving overeenkomstig regel 25
+##### Regel 26. Onregelmatigheden in verzoeken tot inschrijving overeenkomstig regel 25
 
 1. [**Onregelmatig verzoek**] Indien een verzoek uit hoofde van [regel 25, eerste lid, letter a](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=25&z=2024-11-01&g=2024-11-01), niet aan de eisen voldoet, stelt het Internationale Bureau, onverminderd het bepaalde in het derde lid, de rechthebbende en, indien de aanvrage door een Administratie is ingediend, die Administratie van dat feit in kennis. Voor de toepassing van deze regel onderzoekt het Internationale Bureau, indien de aanvrage betrekking heeft op de inschrijving van een beperking, alleen of de in de beperking vermelde klassenummers voorkomen in de betrokken internationale inschrijving.
 
@@ -1350,7 +1372,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 3. [**Verzoek niet als zodanig aangemerkt**] Indien niet wordt voldaan aan de vereisten van [regel 25, eerste lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=25&z=2024-11-01&g=2024-11-01), wordt de aanvrage niet als zodanig aangemerkt en stelt het Internationale Bureau de afzender hiervan in kennis.
 
-#### Regel 27. Inschrijving en kennisgeving overeenkomstig [regel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=25&z=2024-11-01&g=2024-11-01); verklaring dat een wijziging in de rechthebbende of beperking geen gevolgen heeft
+##### Regel 27. Inschrijving en kennisgeving overeenkomstig [regel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=5&artikel=25&z=2024-11-01&g=2024-11-01); verklaring dat een wijziging in de rechthebbende of beperking geen gevolgen heeft
 
 1. **[Inschrijving en kennisgeving]**
 
@@ -1406,7 +1428,7 @@ wordt op de internationale inschrijving de datum vermeld waarop het Internationa
 
 - e. Van elk definitief besluit met betrekking tot een verklaring als bedoeld onder letter c, wordt kennisgeving gedaan aan het Internationale Bureau, dat dit in het internationaal register inschrijft en, naargelang de aanvrage tot inschrijving van de beperking door de rechthebbende of door een Administratie is gedaan, aan de rechthebbende of Administratie.
 
-#### Regel 27bis. Splitsing van een internationale inschrijving
+##### Regel 27bis. Splitsing van een internationale inschrijving
 
 1. **[Verzoek tot splitsing van een internationale inschrijving]**
 
@@ -1450,7 +1472,7 @@ c. Indien de onregelmatigheid niet binnen drie maanden na de datum van de onder 
 
 6. [**Verklaring dat een overeenkomstsluitende Partij geen verzoek tot splitsing zal doen**] Een overeenkomstsluitende Partij waarvan het recht niet voorziet in de splitsing van merkaanvragen of -inschrijvingen kan vóór de datum waarop deze regel in werking treedt of de datum waarop de genoemde overeenkomstsluitende Partij door het [Protocol](onbekend) wordt gebonden, aan de Directeur-Generaal kennisgeving doen dat zij de in eerste lid bedoelde aanvrage niet bij het Internationale Bureau zal indienen. Deze verklaring kan te allen tijde worden ingetrokken
 
-#### Regel 27ter. Samenvoeging van internationale inschrijvingen
+##### Regel 27ter. Samenvoeging van internationale inschrijvingen
 
 1. [**Samenvoeging van internationale inschrijvingen die voortvloeien uit de inschrijving van een gedeeltelijke wijziging van de rechthebbende**] Wanneer dezelfde natuurlijke of rechtspersoon is ingeschreven als rechthebbende van twee of meer internationale inschrijvingen die voortvloeien uit een gedeeltelijke wijziging van rechthebbende, worden deze inschrijvingen samengevoegd op verzoek van deze persoon, dat rechtstreeks of door tussenkomst van de Administratie van de overeenkomstsluitende Partij van de rechthebbende wordt ingediend. Het verzoek moet op het daartoe bestemde officiële formulier bij het Internationale Bureau worden ingediend. Het Internationale Bureau schrijft de samenvoeging in, stelt de Administraties van de aangewezen overeenkomstsluitende Partij of partijen die bij de wijziging betrokken zijn, hiervan in kennis en deelt dit tegelijkertijd mee aan de rechthebbende en, indien het verzoek door een Administratie is ingediend, aan die Administratie.
 
@@ -1460,7 +1482,7 @@ c. Indien de onregelmatigheid niet binnen drie maanden na de datum van de onder 
 
 - b. De Administratie van een overeenkomstsluitende Partij waarvan de wetgeving niet in samenvoeging van inschrijvingen van een merk voorziet, kan vóór de datum waarop deze regel in werking treedt of de datum waarop genoemde overeenkomstsluitende Partij door het [Protocol](onbekend) gebonden wordt, de Directeur-Generaal ervan in kennis stellen dat zij het onder letter a bedoelde verzoek niet bij het Internationale Bureau zal indienen. Deze verklaring kan te allen tijde worden ingetrokken
 
-#### Regel 28. Rectificaties aangebracht in het internationale register
+##### Regel 28. Rectificaties aangebracht in het internationale register
 
 1. [**Rectificatie**] Indien het Internationale Bureau, ambtshalve optredend of op verzoek van de rechthebbende of Administratie, van oordeel is dat het internationale register een fout betreffende een internationale inschrijving bevat, wijzigt het het register dienovereenkomstig.
 
@@ -1472,11 +1494,11 @@ c. Indien de onregelmatigheid niet binnen drie maanden na de datum van de onder 
 
 ### HOOFDSTUK 6. VERLENGINGEN
 
-#### Regel 29. Informele kennisgeving van het verstrijken van de termijn
+##### Regel 29. Informele kennisgeving van het verstrijken van de termijn
 
 De informele ontvangst van een in [artikel 7, derde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=7) bedoelde kennisgeving van het verstrijken van de termijn vormt geen excuus voor de niet-naleving van een van de in [regel 30](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=6&artikel=30&z=2024-11-01&g=2024-11-01) genoemde termijnen.
 
-#### Regel 30. Verduidelijking van de verlenging
+##### Regel 30. Verduidelijking van de verlenging
 
 1. **[Taksen]**
 
@@ -1514,7 +1536,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 4. [**Periode waarvoor de verlengingstaksen worden betaald**] De voor elke verlenging vereistetaksen worden betaald voor een periode van tien jaar.
 
-#### Regel 31. Inschrijving van verlenging; kennisgeving en certificaat
+##### Regel 31. Inschrijving van verlenging; kennisgeving en certificaat
 
 1. [**Inschrijving en ingangsdatum van de verlenging**] De verlenging wordt ingeschreven in het internationale register en heeft de datum waarop zij verschuldigd was, zelfs indien de vereiste taksen worden betaald tijdens de in [artikel 7, vierde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=7) bedoelde termijn van uitstel.
 
@@ -1530,7 +1552,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 ### HOOFDSTUK 7. BLAD EN GEGEVENSBANK
 
-#### Regel 32. Blad
+##### Regel 32. Blad
 
 1. [**Informatie betreffende internationale inschrijvingen**]
 
@@ -1580,7 +1602,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 3. [**Publicaties op de website**] Het Internationale Bureau plaatst de in de het eerste en tweede lid bedoelde publicaties op de website van de Wereldorganisatie voor de Intellectuele Eigendom.
 
-#### Regel 33. Geautomatiseerde gegevensbank
+##### Regel 33. Geautomatiseerde gegevensbank
 
 1. [**Inhoud van**de gegevensbank] Gegevens die zowel in het internationale register zijn ingeschreven als overeenkomstig [regel 32](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=7&artikel=32&z=2024-11-01&g=2024-11-01) in het Blad zijn gepubliceerd, worden opgenomen in een geautomatiseerde gegevensbank.
 
@@ -1590,7 +1612,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 ### HOOFDSTUK 8. TAKSEN
 
-#### Regel 34. Bedragen en betaling van taksen
+##### Regel 34. Bedragen en betaling van taksen
 
 1. De bedragen van de krachtens het Protocol of dit Reglement verschuldigde vergoedingen en heffingen, met uitzondering van de individuele vergoedingen, zijn vastgesteld in het Reglement van taksen, dat als bijlage bij dit Reglement is gevoegd en er integrerend deel van uitmaakt.
 
@@ -1644,7 +1666,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 - e. Wanneer het bedrag van een andere taks dan de onder letters a, b, c. en d. bedoelde taks wordt gewijzigd, is het toepasselijke bedrag het bedrag dat van kracht was op de datum waarop de taks door het Internationale Bureau werd ontvangen.
 
-#### Regel 35. Munteenheid van betaling
+##### Regel 35. Munteenheid van betaling
 
 1. [**Verplichting de Zwitserse munteenheid te gebruiken**] Alle betalingen die uit hoofde van dit Reglement verschuldigd zijn, geschieden aan het Internationale Bureau in de Zwitserse munteenheid, niettegenstaande het feit dat, indien de taksen door een Administratie worden betaald, deze Administratie ze in een andere munteenheid kan hebben geïnd.
 
@@ -1658,7 +1680,7 @@ Het feit dat de internationale inschrijving niet wordt verlengd ten aanzien van 
 
 - d. Wanneer gedurende meer dan drie opeenvolgende maanden de officiële wisselkoers van de Verenigde Naties tussen de Zwitserse munteenheid en een andere munteenheid waarin het bedrag van een individuele taks door een overeenkomstsluitende Partij is vermeld, ten minste 10 percent lager ligt dan de wisselkoers die het laatst werd toegepast voor de vaststelling van het bedrag van de individuele taks in de Zwitserse munteenheid, stelt de Directeur-Generaal een nieuw bedrag voor de individuele taks in de Zwitserse munteenheid vast op basis van de geldende officiële wisselkoers van de Verenigde Naties. Het nieuwe bedrag is van toepassing met ingang van de door de Directeur-Generaal vastgestelde datum, met dien verstande dat deze datum niet eerder dan één maand en niet later dan twee maanden na de datum van bekendmaking van het genoemde bedrag in het Blad mag liggen.
 
-#### Regel 36. Vrijstelling van taksen
+##### Regel 36. Vrijstelling van taksen
 
 Van taksen zijn vrijgesteld de inschrijvingen die betrekking hebben op de volgende gegevens:
 
@@ -1686,7 +1708,7 @@ Van taksen zijn vrijgesteld de inschrijvingen die betrekking hebben op de volgen
 
 - xii. elke rectificatie van het internationale register.
 
-#### Regel 37. Verdeling van aanvullende taksen en aanvullingen op taksen
+##### Regel 37. Verdeling van aanvullende taksen en aanvullingen op taksen
 
 1. De in [artikel 8, vijfde en zesde lid, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=8) bedoelde coëfficiënt wordt als volgt vastgesteld:
 
@@ -1698,13 +1720,13 @@ Van taksen zijn vrijgesteld de inschrijvingen die betrekking hebben op de volgen
 
 2. De coëfficiënt vier wordt ook toegepast op de overeenkomstsluitende Partijen die ambtshalve onderzoeken naar oudere rechten verrichten, onder vermelding van de meest relevante nieuwheid.
 
-#### Regel 38. Creditering van individuele taksen aan de betrokken overeenkomstsluitende Partijen
+##### Regel 38. Creditering van individuele taksen aan de betrokken overeenkomstsluitende Partijen
 
 Elke individuele taks betaald aan het Internationale Bureau ten aanzien van een overeenkomstsluitende Partij die een verklaring heeft afgelegd overeenkomstig [artikel 8, zevende lid, letter a, van het Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0003002&artikel=8) wordt gecrediteerd op de rekening van die overeenkomstsluitende Partij bij het Internationale Bureau in de maand volgend op die waarin de internationale inschrijving, de latere aanwijzing of de verlenging waarvoor die taks is betaald, is ingeschreven of in de maand volgend op die waarin de betaling van het tweede deel van de individuele taks is ingeschreven.
 
 ### HOOFDSTUK 9. DIVERSE BEPALINGEN
 
-#### Regel 39. Blijvend effect van internationale inschrijvingen in bepaalde opvolgerstaten
+##### Regel 39. Blijvend effect van internationale inschrijvingen in bepaalde opvolgerstaten
 
 - Wanneer een Staat („de opvolgerstaat”) waarvan het grondgebied, voorafgaand aan de onafhankelijkheid van die Staat, deel uitmaakte van het grondgebied van een overeenkomstsluitende Partij („de voorgaande overeenkomstsluitende Partij”) bij de Directeur-Generaal een verklaring van voortzetting heeft neergelegd die de toepassing van het [Protocol](onbekend) door de opvolgerstaat tot gevolg heeft, wordt elke internationale inschrijving die van kracht was in de voorgaande overeenkomstsluitende Partij op de overeenkomstig het tweede lid vastgestelde datum van kracht in de opvolgerstaat indien aan de volgende voorwaarden is voldaan:
 
@@ -1720,7 +1742,7 @@ Elke individuele taks betaald aan het Internationale Bureau ten aanzien van een 
 
 5. Deze regel is niet van toepassing op de Russische Federatie of op een Staat die bij de Directeur-Generaal een verklaring heeft neergelegd dat zij de rechtspersoonlijkheid van een overeenkomstsluitende Partij behoudt.
 
-#### Regel 40. Inwerkingtreding; overgangsbepalingen
+##### Regel 40. Inwerkingtreding; overgangsbepalingen
 
 1. [**Inwerkingtreding**] Dit Reglement treedt in werking op 1 februari 2020 en vervangt met ingang van die datum het Reglement van uitvoering in het kader van de Schikking van Madrid betreffende de internationale inschrijving van merken en het [Protocol](onbekend) bij die Schikking zoals dat op 31 januari 2020 van kracht is (hierna het „gemeenschappelijk reglement van uitvoering” genoemd).
 
@@ -1766,7 +1788,7 @@ Elke individuele taks betaald aan het Internationale Bureau ten aanzien van een 
 
 8. [**Overgangsbepaling met betrekking tot regel 17, tweede lid, punt v en vii, en het derde lid, en regel 18, eerste lid, letter e**] De overeenkomstsluitende Partijen kunnen de [regels 17, tweede lid, punt v en vii en het derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=4&artikel=17&z=2024-11-01&g=2024-11-01), en [18, eerste lid, letter e](https://wetten.overheid.nl/jci1.3:c:BWBV0005273&hoofdstuk=4&artikel=18&z=2024-11-01&g=2024-11-01), zoals van kracht op 1 november 2021, blijven toepassen tot 1 februari 2025, of tot een latere datum, indien de betrokken overeenkomstsluitende Partij het Internationale Bureau een kennisgeving zendt voor 1 februari 2025, of voor de datum waarop deze overeenkomstsluitende Partij door het Protocol wordt gebonden, indien deze datum later valt. De overeenkomstsluitende Partij kan de desbetreffende kennisgeving te allen tijde daarna intrekken2Bij het aannemen van deze bepaling is de Vergadering van de Unie van Madrid ervan uitgegaan dat de overeenkomstsluitende Partijen niet verplicht zijn om in de kennisgeving de datum te specificeren waarop zij de regels 17, tweede lid, punt v en vii, en 18, eerste lid, letter e, zoals van kracht op 1 november 2021 toepassen..
 
-#### Regel 41. Administratieve instructies
+##### Regel 41. Administratieve instructies
 
 1. **[Vaststelling van administratieve instructies en zaken die door deze instructies worden geregeld]**
 

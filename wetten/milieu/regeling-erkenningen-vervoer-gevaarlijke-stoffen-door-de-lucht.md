@@ -1,13 +1,38 @@
 ---
-title: "Regeling erkenningen vervoer gevaarlijke stoffen door de lucht"
+title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht)"
 identifier: "BWBR0014764"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014764"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014764"
+soort: "ministeriele-regeling"
+stam_id: "5545193"
+version_id: "9949232"
+internal_id: "C13431441"
+label_id: "5517354"
+dtd_version: "2.0"
+original_entry_into_force: "2003-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014764/2024-01-01/0"
+intitule_bron: "Stcrt.2003-52"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-28"
+intitule_published: "2003-03-14"
+intitule_in_force: "2003-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-52"
+original_signed_date: "2003-02-28"
+original_published_date: "2003-03-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-03-16"
+jci_1_3: "jci1.3:c:BWBR0014764&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0014764&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenningen vervoer gevaarlijke stoffen door de lucht"
+signed_date: "2003-02-28"
+entry_into_force: "2003-03-16"
 ---
-
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat inzake de erkenning van een natuurlijke persoon of rechtspersoon die zich bezighoudt met het vervoer van gevaarlijke stoffen door de lucht (Regeling erkenningen vervoer gevaarlijke stoffen door de lucht)
 
 Gelet op [artikel 6.55, zesde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.55) en [artikel 9, derde lid, van het Besluit vervoer gevaarlijke stoffen door de lucht](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&artikel=9).
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +57,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2.1. Aanvraag van een erkenning
 
-#### Artikel 2
+##### Artikel 2
 
 Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bij de minister van een volledig ingevuld en ondertekend aanvraagformulier.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag voor verlening van een erkenning gaat vergezeld van:
 
@@ -92,7 +117,7 @@ Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bi
 
 #### § 2.2. Verlening van een erkenning
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister verleent een erkenning, indien voldaan wordt aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2024-01-01&g=2024-01-01), en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2024-01-01&g=2024-01-01) en de aanvrager aantoont dat hij:
 
@@ -106,11 +131,11 @@ Een erkenning wordt aangevraagd door elektronische of schriftelijke indiening bi
 
 2. Om te beoordelen of een erkenning kan worden verleend kan de minister een audit uitvoeren bij de aanvrager.
 
-#### Artikel 5
+##### Artikel 5
 
 Van een erkenning geeft de minister een bewijs af waarop wordt aangegeven welke bevoegdheden aan de erkenning zijn verbonden.
 
-#### Artikel 6
+##### Artikel 6
 
 Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van de verleende erkenningen gepubliceerd, met daarbij de volgende gegevens:
 
@@ -120,7 +145,7 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 #### § 2.3. Wijziging van een erkenning
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een erkenning wordt gewijzigd, nadat de houder van de erkenning heeft aangetoond, dat hij voldoet aan de eisen, zoals die gelden voor de erkenning, nadat deze is gewijzigd.
 
@@ -128,21 +153,21 @@ Op de website van de Inspectie Leefomgeving en Transport wordt een overzicht van
 
 ### Hoofdstuk 3. Diverse bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een erkenninghouder voor de behandeling van gevaarlijke stoffen ten behoeve van het vervoer daarvan door de lucht gebruik maakt van de diensten van derden, dan wel aan derden gevaarlijke stoffen ter behandeling overdraagt, draagt die erkenninghouder er voor zorg dat de behandeling van de desbetreffende gevaarlijke stoffen alsmede de bijbehorende documentatie aan de Technische Voorschriften blijven voldoen.
 
-#### Artikel 9
+##### Artikel 9
 
 Handelen in strijd met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0014764&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) vormt een strafbaar feit.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 16 maart 2003.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling erkenningen vervoer gevaarlijke stoffen door de lucht.
 

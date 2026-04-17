@@ -1,13 +1,37 @@
 ---
 title: "Belastingheffing van EU-fellows werkzaam bij Nederlandse universiteiten en woonachtig in/afkomstig uit een van de EU-landen/EER-landen of een aangewezen ander land"
 identifier: "BWBR0013695"
-categorie: "Belastingrecht"
-publicatiedatum: 2002-06-01
-laatste_update: 2002-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013695"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-06-01"
+last_updated: "2002-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013695"
+soort: "beleidsregel"
+stam_id: "8386203"
+version_id: "13257752"
+internal_id: "C18428271"
+label_id: "8367904"
+dtd_version: "2.0"
+original_entry_into_force: "2002-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013695/2002-06-01/0"
+intitule_bron: "Infob.2002-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-17"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-12"
+original_signed_date: "2002-05-17"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-06-01"
+jci_1_3: "jci1.3:c:BWBR0013695&z=2002-06-01&g=2002-06-01"
+jci_1_0: "1.0:c:BWBR0013695&g=2002-06-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-05-17"
+entry_into_force: "2002-06-01"
 ---
-
 # Belastingheffing van EU-fellows werkzaam bij Nederlandse universiteiten en woonachtig in/afkomstig uit een van de EU-landen/EER-landen of een aangewezen ander land
 
 Directie Internationale Fiscale Zaken

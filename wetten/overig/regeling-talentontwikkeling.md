@@ -1,20 +1,45 @@
 ---
 title: "Regeling Talentontwikkeling"
 identifier: "BWBR0050823"
-categorie: "Overig"
-publicatiedatum: 2025-02-19
-laatste_update: 2025-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050823"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-02-19"
+last_updated: "2025-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050823"
+soort: "zbo"
+stam_id: "17379193"
+version_id: "30637892"
+internal_id: "C43919391"
+label_id: "17282474"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050823/2025-02-19/0"
+intitule_bron: "Stcrt.2025-7743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-05"
+intitule_published: "2025-03-05"
+intitule_in_force: "2025-03-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7743"
+original_signed_date: "2025-02-05"
+original_published_date: "2025-03-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-7743"
+entry_into_force_date: "2025-02-19"
+jci_1_3: "jci1.3:c:BWBR0050823&z=2025-02-19&g=2025-02-19"
+jci_1_0: "1.0:c:BWBR0050823&g=2025-02-19"
+citeertitel_status: "officieel"
+signed_date: "2025-02-05"
+entry_into_force: "2025-02-19"
 ---
-
 # Regeling Talentontwikkeling
 
 Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), besluit vast te stellen de navolgende regeling, houdende regels voor het verstrekken van subsidies aan makers en partijen voor de uitvoering van projecten ter bevordering van de kwaliteit van de creatieve industrie.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
@@ -52,7 +77,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - 17. **vakgebied vormgeving:** het werkterrein dat wordt gevormd door de (sub)disciplines animatie, bio design, food design, glasvormgeving, grafische vormgeving, illustratie, interieurontwerp, keramiekvormgeving, lichtontwerp, modevormgeving, product-, meubel- en industriële vormgeving, scenografie, sieraadontwerp, strip en graphic novel, tentoonstellingsontwerp, textielontwerp, typografie, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen.
 
-#### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
+##### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
 1. De taak van het Stimuleringsfonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
@@ -60,7 +85,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstelling Regeling Talentontwikkeling
+##### Artikel 3. Reikwijdte en doelstelling Regeling Talentontwikkeling
 
 1. Op grond van deze regeling kan het bestuur subsidie verstrekken aan startende ontwerpers, werkzaam binnen de creatieve industrie, die op basis van een ontwikkelplan een vastgestelde periode werken aan het versterken van hun artistieke talent, professionele praktijk en het eigen cultureel ondernemerschap.
 
@@ -68,7 +93,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - –. bevorderen van talentontwikkeling.
 
-#### Artikel 4. Subsidievorm
+##### Artikel 4. Subsidievorm
 
 1. Op grond van deze regeling worden subsidies verstrekt in de vorm van beurzen voor een bedrag van € 25.000.
 
@@ -80,17 +105,17 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - c. een deel voor het versterken van de zichtbaarheid en/of kennisuitwisseling.
 
-#### Artikel 5. Begrotingsvoorbehoud
+##### Artikel 5. Begrotingsvoorbehoud
 
 Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld.
 
-#### Artikel 6. Subsidieplafond
+##### Artikel 6. Subsidieplafond
 
 1. Het subsidieplafond wordt per ronde vooraf bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
 2. Het bestuur kan een maximum totaalaantal aanvragen vaststellen dat in behandeling wordt genomen per aanvraagronde. Dit aantal wordt ten minste twee weken voor openstelling van de aanvraagronde bekend gemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
-#### Artikel 7. Algemene voorwaarden
+##### Artikel 7. Algemene voorwaarden
 
 1. Met betrekking tot de hoedanigheid van de aanvrager gelden de volgende voorwaarden:
 
@@ -164,7 +189,7 @@ De beoordeling van de beroepsgroep van de aanvrager wordt uitgevoerd door het fo
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 8. Wijze van indiening en toetsing van aanvragen
+##### Artikel 8. Wijze van indiening en toetsing van aanvragen
 
 1. Het bestuur maakt jaarlijks via de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) bekend binnen welke periode op grond van deze regeling een subsidieaanvraag kan worden ingediend.
 
@@ -192,7 +217,7 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 9. De overige aanvragen worden ter beoordeling voorgelegd aan een interdisciplinaire adviescommissie.
 
-#### Artikel 9. Inhoud van de aanvraag
+##### Artikel 9. Inhoud van de aanvraag
 
 1. Een volledige aanvraag bevat de onderstaande documenten. Alleen deze documenten worden beschikbaar gesteld aan de adviescommissie. Vormvereisten en richtlijnen staan beschreven in de handleiding. Hierbij geldt de versie van de handleiding zoals gepubliceerd op de website van het Stimuleringsfonds op de datum waarop de ronde wordt opengesteld.
 
@@ -228,7 +253,7 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 10. Procedure inhoudelijke behandeling aanvragen
+##### Artikel 10. Procedure inhoudelijke behandeling aanvragen
 
 1. De adviescommissie brengt advies uit aan het bestuur over het al dan niet toekennen van de subsidie. Bij de formulering van het advies baseert de adviescommissie zich op de door de aanvrager verstrekte gegevens zoals vermeld in [artikel 9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050823&hoofdstuk=3&artikel=9&z=2025-02-19&g=2025-02-19) van deze regeling.
 
@@ -236,7 +261,7 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 3. De adviescommissie hanteert de [Werkwijze Adviescommissies Stimuleringsfonds Creatieve Industrie](https://cms.stimuleringsfonds.nl/storage/media/SCI_Werkwijze-adviescommissie.pdf). Hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op het moment van indienen.
 
-#### Artikel 11. Beoordelingscriteria
+##### Artikel 11. Beoordelingscriteria
 
 1. Onderstaande beoordelingscriteria worden gehanteerd bij de beoordeling van aanvragen. De criteria worden in gelijke mate gewogen.
 
@@ -270,7 +295,7 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 - –. de wijze waarop de aanvrager de artistiek-inhoudelijke uitkomsten wil gaan delen met een passend publiek.
 
-#### Artikel 12. Rangschikking en prioritering
+##### Artikel 12. Rangschikking en prioritering
 
 1. Alleen door de adviescommissie positief beoordeelde aanvragen komen in aanmerking voor subsidie.
 
@@ -288,7 +313,7 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 - –. regionale spreiding.
 
-#### Artikel 13. Verlening van een subsidie
+##### Artikel 13. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen 15 weken na uiterlijke indieningsdatum schriftelijk over zijn besluit tot het al dan niet verlenen van een subsidie.
 
@@ -298,13 +323,13 @@ Het Stimuleringsfonds toetst of de aanvraag:
 
 4. Aan een besluit tot het verlenen van een subsidie kunnen door de ontvanger geen rechten worden ontleend met betrekking tot een volgende aanvraag.
 
-#### Artikel 14. Voorschotten
+##### Artikel 14. Voorschotten
 
 Het Stimuleringsfonds betaalt in het geval van een besluit tot verlening van een subsidie bij wijze van voorschot 50% van het toegekende bedrag uit. Een tweede voorschot van 40% wordt betaald in januari van het kalenderjaar dat volgt op het jaar waarin een subsidie is verleend. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie.
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 15. Verplichte programma-activiteiten
+##### Artikel 15. Verplichte programma-activiteiten
 
 Aanvragers die op grond van deze regeling een subsidie ontvangen committeren zich aan deelname aan het programma Talentontwikkeling van het Stimuleringsfonds. Dit programma bestaat in de basis uit:
 
@@ -320,7 +345,7 @@ Aanvragers die op grond van deze regeling een subsidie ontvangen committeren zic
 
 - f. verantwoordingsgesprek (online).
 
-#### Artikel 16. Administratie
+##### Artikel 16. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -328,11 +353,11 @@ Aanvragers die op grond van deze regeling een subsidie ontvangen committeren zic
 
 3. De subsidieontvanger bewaart de administratie en de bijbehorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 17. Vermelding Stimuleringsfonds
+##### Artikel 17. Vermelding Stimuleringsfonds
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het Stimuleringsfonds als subsidieverstrekker. Het logo van het Stimuleringsfonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en audiovisuele producties. Als een subsidieontvanger logo’s opneemt van andere partijen wordt in verhouding tot de bijdrage het logo van het Stimuleringsfonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 18. Melding bij het Stimuleringsfonds
+##### Artikel 18. Melding bij het Stimuleringsfonds
 
 In het geval een van de onderstaande situaties zich voordoet brengt de subsidieontvanger het fonds daarvan direct op de hoogte:
 
@@ -346,7 +371,7 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 19. Vaststelling en verantwoording
+##### Artikel 19. Vaststelling en verantwoording
 
 1. Uiterlijk zestien weken na het verlopen van de subsidieperiode wordt een afspraak gemaakt voor een verantwoordingsgesprek en wordt het verantwoordingsformulier ingevuld en ingediend via de [aanvraagomgeving](https://aanvragen.stimuleringsfonds.nl/aanvraagomgeving).
 
@@ -358,11 +383,11 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 20. Bezwaar
+##### Artikel 20. Bezwaar
 
 Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt genomen op grond van deze regeling door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit is bekendgemaakt. De procedure voor bezwaren is gepubliceerd op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 21. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 21. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 1. Het Stimuleringsfonds verstrekt geen vertrouwelijke informatie omtrent onder meer bedrijfs- en fabricagegegevens aan derden.
 
@@ -370,11 +395,11 @@ Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt
 
 3. Als Zelfstandig Bestuursorgaan (zbo) valt het Stimuleringsfonds onder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Aanvraagdossiers worden na het verstrijken van de daarvoor bepaalde termijn overgedragen aan het Nationaal Archief. Aanvraagdossiers worden in dat geval gekwalificeerd als ‘beperkt openbare’ documenten.
 
-#### Artikel 22. Hardheidsclausule
+##### Artikel 22. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 23. Inwerkingtreding en expiratie
+##### Artikel 23. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 19 februari 2025.
 
@@ -382,7 +407,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Talentontwikkeling.
 

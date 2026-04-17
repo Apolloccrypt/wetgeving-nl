@@ -1,16 +1,41 @@
 ---
 title: "Besluit additieven in levensmiddelen BES"
 identifier: "BWBR0028406"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028406"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028406"
+soort: "AMvB-BES"
+stam_id: "10776523"
+version_id: "17753092"
+internal_id: "C24790841"
+label_id: "10751194"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028406/2010-10-10/0"
+intitule_bron: "Stb.2010-655"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-655"
+original_signed_date: "2010-09-15"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-655"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028406&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028406&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-15"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit additieven in levensmiddelen BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -98,11 +123,11 @@ bron: "https://wetten.overheid.nl/BWBR0028406"
 
 3. De in dit besluit genoemde maximumconcentraties hebben, tenzij in dit besluit anders is bepaald, betrekking op eet- en drinkwaren zoals die verhandeld worden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 3, eerste lid, onderdeel a, van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. In eet- en drinkwaren mogen uitsluitend aanwezig zijn als stoffen, bedoeld in [artikel 1, eerste lid, onder d tot en met aa](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&artikel=1&z=2010-10-10&g=2010-10-10), de in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=1&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=3&z=2010-10-10&g=2010-10-10) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=4&z=2010-10-10&g=2010-10-10) genoemde additieven.
 
@@ -144,23 +169,23 @@ Dit besluit berust op [artikel 3, eerste lid, onderdeel a, van de Warenwet BES](
 
 6. De stoffen E407 en E440 mogen met suikers worden gestandaardiseerd onder de voorwaarde dat dit tezamen met hun nummer en aanduiding wordt vermeld.
 
-#### Artikel 3
+##### Artikel 3
 
 In de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=2&z=2010-10-10&g=2010-10-10) genoemde eet- en drinkwaren zijn geen andere additieven aanwezig dan de in de bijlagen 2 en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=3&z=2010-10-10&g=2010-10-10) genoemde additieven, onder de in die bijlagen vermelde voorwaarden.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=3&z=2010-10-10&g=2010-10-10) genoemde additieven mogen uitsluitend worden toegevoegd aan de in die bijlage genoemde eet- en drinkwaren, onder de in die bijlage vermelde voorwaarden.
 
-#### Artikel 5
+##### Artikel 5
 
 Uitsluitend de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=4&z=2010-10-10&g=2010-10-10) genoemde additieven mogen worden toegevoegd als draagstoffen of als oplosmiddelen die als draagstof fungeren, onder de in die bijlage vermelde voorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 In de in [artikel 2, derde lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&artikel=2&z=2010-10-10&g=2010-10-10), bedoelde eet- en drinkwaren, bestemd voor zuigelingen en peuters, zijn additieven slechts aanwezig met inachtneming van [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028406&bijlage=5&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Additieven mogen aanwezig zijn:
 
@@ -170,11 +195,11 @@ In de in [artikel 2, derde lid, onder m](https://wetten.overheid.nl/jci1.3:c:BWB
 
 2. Het eerste lid is, tenzij in dit besluit anders is bepaald, niet van toepassing op zuigelingenvoeding, en babyvoeding.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking de dag na de uitgifte van het Publicatieblad waarin het geplaatst is, en werkt terug tot en met 25 november 2004.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit kan worden aangehaald als: Besluit additieven in levensmiddelen BES.
 

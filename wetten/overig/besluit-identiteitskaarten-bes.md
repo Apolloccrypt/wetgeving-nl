@@ -1,16 +1,41 @@
 ---
 title: "Besluit identiteitskaarten BES"
 identifier: "BWBR0028517"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028517"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028517"
+soort: "AMvB-BES"
+stam_id: "10833113"
+version_id: "17811502"
+internal_id: "C24784231"
+label_id: "10807784"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028517/2010-10-10/0"
+intitule_bron: "Stb.2010-422"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-422"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-422"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028517&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028517&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit identiteitskaarten BES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -20,7 +45,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Het model van de identiteitskaart wordt voor ieder openbaar lichaam vastgesteld bij ministeriële regeling.
 
@@ -32,7 +57,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot andere op de identiteitskaart aan te brengen gegevens en gegevensdragers.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De gezaghebber van een openbaar lichaam houdt van de ontvangen blanco identiteitskaarten een voorraadadministratie bij.
 
@@ -46,7 +71,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. onjuist zijn gepersonaliseerd, zijn gestolen of vermist, dan wel anderszins als onbruikbaar moeten worden beschouwd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gezaghebber van een openbaar lichaam houdt van iedere afgegeven identiteitskaart een administratie bij, die zowel op naam als op documentnummer toegankelijk is. In deze administratie worden de op de identiteitskaart vermelde gegevens, de foto en de handtekening van de houder opgenomen.
 
@@ -54,7 +79,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Aan een persoon die volgens zijn verklaring niet in het bezit is of is geweest van een identiteitskaart en die ingevolge [artikel 1a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=1a) reeds in het bezit had dienen te zijn van een identiteitskaart, wordt slechts een identiteitskaart uitgereikt nadat uit een onderzoek gebleken is dat zijn verklaring juist is. De uitkomst van het onderzoek wordt bijgehouden in de administratie, bedoeld in het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van iedere ingeleverde identiteitskaart wordt melding gemaakt in de administratie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=3&z=2010-10-10&g=2010-10-10). Artikel 3, tweede lid, is van overeenkomstige toepassing.
 
@@ -64,38 +89,38 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij inlevering van de identiteitskaart, bedoeld in het tweede en derde lid, wordt een ontvangstbewijs afgegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 Van elke mededeling van verloren gaan van een identiteitskaart wordt door de gezaghebber van een openbaar lichaam melding gemaakt in de administratie, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028517&artikel=3&z=2010-10-10&g=2010-10-10). Artikel 3, tweede lid, is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 Van iedere afgifte van een identiteitskaart ter vervanging van een ingeleverde of verloren gegane identiteitskaart wordt, indien de oorspronkelijke identiteitskaart in een ander openbaar lichaam was afgegeven, door de gezaghebber van het openbaar lichaam, zowel van de afgifte als van de reden die tot vervanging van de identiteitskaart heeft geleid, schriftelijk of elektronisch kennis gegeven aan de gezaghebber van het openbaar lichaam door of namens wie de oorspronkelijke identiteitskaart was afgegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gezaghebber van een openbaar lichaam draagt zorg, dat een bij hem ingeleverde identiteitskaart wordt vernietigd.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de vernietiging van identiteitskaarten en de administratie daarvan.
 
-#### Artikel 8
+##### Artikel 8
 
 De gezaghebber van een openbaar lichaam doet Onze Minister binnen één maand na het einde van elke kalenderjaar een schriftelijk opgemaakte verantwoording toekomen betreffende het verbruik en voorraad van identiteitskaarten over het afgelopen jaar.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gezaghebber van een openbaar lichaam draagt zorg voor de nodige voorzieningen van technische en organisatorische aard ter beveiliging van de gegevens, foto’s en handtekeningen tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging of verstrekking daarvan.
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de beveiliging, bedoeld in het eerste lid.
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit berust op [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=2) en [8 van de Wet identiteitskaarten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028279&artikel=8).
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit identiteitskaarten BES.

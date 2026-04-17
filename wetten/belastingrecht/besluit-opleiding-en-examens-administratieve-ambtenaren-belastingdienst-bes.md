@@ -1,24 +1,49 @@
 ---
 title: "Besluit opleiding en examens administratieve ambtenaren belastingdienst BES"
 identifier: "BWBR0028537"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028537"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028537"
+soort: "AMvB-BES"
+stam_id: "10840223"
+version_id: "17820542"
+internal_id: "C24754381"
+label_id: "10815114"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028537/2011-10-09/0"
+intitule_bron: "Stb.2010-491"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-23"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-491"
+original_signed_date: "2010-09-23"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-491"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028537&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028537&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-09-23"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit opleiding en examens administratieve ambtenaren belastingdienst BES
 
 ### Hoofdstuk I
 
 #### §. De opleiding
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastingdienst, kan bij ministeriële regeling in elk van de openbare lichamen een leergang worden ingesteld, opleidende tot het vakexamen voor benoembaarheid tot klerk en tot adjunct-commies als bedoeld in [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10). Bij die ministeriële regeling kan tevens de vergoeding van de leraren en de cursusleider worden geregeld.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=1&z=2011-10-09&g=2011-10-09) vermelde leergang bestaat uit twee gedeelten:
 
@@ -28,11 +53,11 @@ Ten behoeve van de administratieve ambtenaren, die werkzaam zijn bij de belastin
 
 2. Het cursusjaar begint gelijktijdig met het schooljaar van de openbare scholen.
 
-#### Artikel 3
+##### Artikel 3
 
 De organisatie van en het toezicht op de leergang berusten bij een bij ministeriële regeling aangwezen functionaris die zich daarbij kan doen bijstaan door de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=I&artikel=6&z=2011-10-09&g=2011-10-09) bedoelde cursusleiders.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het leerplan is als bijlage bij dit besluit gevoegd.
 
@@ -42,21 +67,21 @@ De organisatie van en het toezicht op de leergang berusten bij een bij ministeri
 
 4. De vakanties vallen samen met die van de openbare scholen in het betrokken openbaar lichaam.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een bij ministeriële regeling aangewezen functionaris wijst de lokaliteiten aan waar de lessen worden gegeven en geeft voorschriften omtrent het gebruik daarvan.
 
 2. Indien deze lokaliteiten leslokalen van openbare scholen betreffen, geschiedt deze aanwijzing na verkregen toestemming van het bestuurscollege van het betrokken openbaar lichaam.
 
-#### Artikel 6
+##### Artikel 6
 
 In elk der openbare lichamen kan één der leraren door een bij ministeriële regeling aangewezen functionaris als cursusleider worden aangewezen; deze volgt de hem door die functionaris ten aanzien van de leergang gegeven aanwijzingen op.
 
-#### Artikel 7
+##### Artikel 7
 
 De leraren houden aantekeningen van de vorderingen en de verzuimen van de cursisten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het eerste leerjaar van de cursus is gelijk aan dat, genoemd in het Landsbesluit opleiding en examens administratieve ambtenaren (P.B. 1972, no. 8). Voor toelating gelden dezelfde vereisten.
 
@@ -78,7 +103,7 @@ Een bij ministeriële regeling aangewezen functionaris kan evenwel op daartoe ge
 
 6. Met inachtneming van het bepaalde in het eerste en tweede lid kan een bij ministeriële regeling aangewezen functionaris aan niet-administratieve ambtenaren en arbeidscontractanten in dienst van de Overheid toestemming verlenen de leergang te volgen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De cursisten zijn lesgeld verschuldigd ten bedrage van vijf dollar per maand; de lesgelden worden maandelijks gestort bij een bij ministeriële regeling aangewezen functionaris van het betrokken openbaar lichaam.
 
@@ -86,7 +111,7 @@ Een bij ministeriële regeling aangewezen functionaris kan evenwel op daartoe ge
 
 3. De cursisten bekostigen zelf hun boeken en verdere benodigheden [bedoeld zal zijn: benodigdheden].
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de cursisten, die de lessen niet geregeld bijwonen of door slecht gedrag het onderwijs belemmeren, kan op voorstel van één der leraren door een bij ministeriële regeling aangewezen functionaris het verder volgen van de lessen gedurende het lopende leerjaar worden ontzegd.
 
@@ -96,7 +121,7 @@ Een bij ministeriële regeling aangewezen functionaris kan evenwel op daartoe ge
 
 #### §. De Tentamens
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het onderwijs in de hiernavolgende vakken wordt afgesloten met een tentamen:
 
@@ -138,13 +163,13 @@ Successierecht en Burgerlijk Wetboek Kantoororganisatie en statistiek
 
 #### § A. De Examens
 
-#### Artikel 12
+##### Artikel 12
 
 1. Telkenmale wordt aan het einde van de desbetreffende opleiding gelegenheid gegeven tot het afleggen van de vakexamens voor benoembaarheid tot klerk en tot adjunct-commies.
 
 2. Tot het afnemen van de in het eerste lid van dit artikel bedoelde examens worden door Onze Minister van Financiën gecommitteerden aangewezen, die met de betrokken leraren en de cursusleider de examencommissie vormen Een bij ministeriële regeling aangewezen functionaris is ambtshalve gecommitteerde en voorzitter van de beide examen-commissies.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het examen voor benoembaarheid tot klerk omvat de navolgende vakken:
 
@@ -164,7 +189,7 @@ De tijdsduur bedraagt 60 minuten voor elk vak.
 
 3. Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste lid bedoeld, wordt verleend indien de kandidaat ten genoegen van een bij ministeriële regeling aangewezen functionaris aantoont, dat hij de vereiste kennis van de desbetreffende leerstof reeds op andere wijze heeft verworven.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het examen voor benoembaarheid tot adjunctcommies omvat de navolgende vakken:
 
@@ -182,7 +207,7 @@ De tijdsduur bedraagt voor elk vak: schriftelijk 60–90 minuten en mondeling 20
 
 Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste lid bedoeld, wordt verleend indien de kandidaat ten genoege van een bij ministeriële regeling aangewezen functionaris aan toont, dat hij de vereiste kennis van de desbetreffende leerstof reeds op andere wijze heeft verworven.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De cursisten die zich voor het afleggen van het examen voor benoembaarheid tot adjunct-commies hebben aangemeld, worden daartoe slechts toegelaten wanneer zij de tentamens in het derde en vierde leerjaar, bedoeld in [artikel 11 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028537&hoofdstuk=II&artikel=11&z=2011-10-09&g=2011-10-09), met goed gevolg hebben afgelegd en uiterlijk twee dagen voor het begin van het examen een examengeld van vijf dollar hebben voldaan ten kantore van een bij ministeriële regeling aangewezen functionaris in het openbaar lichaam waar zij woonachtig zijn.
 
@@ -190,7 +215,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 #### § B. Het Examenreglement
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voorzitter van de examencommissie belegt een vergadering zo dikwijls hij dit nodig acht en wijst de lokalen aan waar de examens worden afgenomen.
 
@@ -198,7 +223,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 3. De leden van de examencommissie nemen de nodige maatregelen, opdat ten opzichte van alles wat op de examens betrekking heeft, geheimhouding in acht genomen wordt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In de eerste vergadering die de voorzitter belegt, worden vastgesteld:
 
@@ -216,7 +241,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 5. De secretaris geeft aan elke kandidaat tijdig kennis, waar en wanneer deze tot het afleggen van een examen moet verschijnen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het schriftelijk werk wordt onder voortdurend toezicht gemaakt.
 
@@ -230,13 +255,13 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 6. Het schriftelijke werk wordt op een door de voorzitter belegde vergadering, vóór het begin van het mondeling examen, nagezien en beoordeeld.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij het mondeling onderzoek worden de kandidaten afzonderlijk ondervraagd.
 
 2. Er worden zoveel mogelijk aantekeningen gehouden van de daarbij gestelde vragen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het oordeel over de kennis van de kandidaten wordt voor ieder vak of onderdeel van een vak uitgedrukt door een van de cijfers 1 t/m 10, aan welke de volgende betekenis is te hechten:
 
@@ -262,7 +287,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 2. Na afloop van elk examen wordt de uitslag door de examencommissie vastgesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De examencommissie kan beslissen om een kandidaat, die niet voldoet aan de normen om te slagen, gelegenheid te geven tot afleggen van een herexamen.
 
@@ -278,7 +303,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 7. Bij een herexamen zal steeds een tweede gecommitteerde optreden, die door de voorzitter wordt aangewezen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De uitslag der examens wordt zodra mogelijk aan de kandidaten medegedeeld.
 
@@ -288,7 +313,7 @@ Vrijstelling van het afleggen van examen in een bepaald vak, zoals in het eerste
 
 Deze mededeling wordt ondertekend door de voorzitter en de secretaris van de examencommissie.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het gemaakte schriftelijke werk wordt gedurende zes maanden ten kantore van een bij ministeriële regeling aan te wijzen entiteit bewaard, waarna het wordt vernietigd.
 
@@ -298,11 +323,11 @@ Deze mededeling wordt ondertekend door de voorzitter en de secretaris van de exa
 
 #### §. Slot- en overgangsbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit berust op [artikel 10, onder a, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=10).
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit opleiding en examens administratieve ambtenaren belastingdienst BES.
 

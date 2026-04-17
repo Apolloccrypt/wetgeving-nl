@@ -1,13 +1,39 @@
 ---
-title: "Besluit toegankelijkheid van het openbaar vervoer"
+title: "Besluit van 31 maart 2011, houdende regels betreffende de toegankelijkheid van het openbaar vervoer en de daartoe te verrichten aanpassingen (Besluit toegankelijkheid van het openbaar vervoer)"
 identifier: "BWBR0029974"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029974"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029974"
+soort: "AMvB"
+stam_id: "11318303"
+version_id: "30165022"
+internal_id: "C43221901"
+label_id: "11292364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029974/2025-06-28/0"
+intitule_bron: "Stb.2011-225"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-31"
+intitule_published: "2011-05-19"
+intitule_in_force: "2012-05-08"
+intitule_status: "goed"
+original_publication: "Stb.2024-179"
+original_signed_date: "2024-06-03"
+original_published_date: "2024-06-21"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-179"
+entry_into_force_date: "2024-06-03"
+jci_1_3: "jci1.3:c:BWBR0029974&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0029974&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Besluit toegankelijkheid van het openbaar vervoer"
+signed_date: "2024-06-03"
+entry_into_force: "2024-06-03"
 ---
-
 # Besluit van 31 maart 2011, houdende regels betreffende de toegankelijkheid van het openbaar vervoer en de daartoe te verrichten aanpassingen (Besluit toegankelijkheid van het openbaar vervoer)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2010, DWJZ-3009435, gedaan mede namens Onze Minister van Infrastructuur en Milieu;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,19 +78,19 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - m. **vervoerder:** degene die openbaar vervoer verricht als bedoeld in [artikel 7, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=7).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanpassingen, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=8) zijn gericht op het toegankelijk maken van de in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=7) genoemde voorzieningen van openbaar vervoer tot het niveau van onbelemmerd gebruik van openbaar vervoer dat minimaal nodig is voor personen met een functiebeperking die zich in de samenleving, al dan niet met een hulpmiddel of persoonlijke begeleiding, zelfstandig kunnen bewegen en kenbaar maken.
 
 2. Onder aanpassingen, bedoeld in het eerste lid, wordt verstaan het geheel van maatregelen of voorzieningen met betrekking tot het betreden, gebruiken of verlaten van het openbaar vervoer en daartoe behorende haltes en stations, alsmede het organiseren van het gebruik van dat vervoer, ten behoeve van personen met een functiebeperking.
 
-#### Artikel 3
+##### Artikel 3
 
 De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2025-06-28&g=2025-06-28) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=17&z=2025-06-28&g=2025-06-28) voorgeschreven aanpassingen zijn de aanpassingen als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=2) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=8).
 
 ### Hoofdstuk 2. Voertuigen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een toegankelijk voertuig beschikt ten minste over:
 
@@ -84,7 +110,7 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 3. Haltes en stations
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een halte of station voldoet aan de volgende eisen:
 
@@ -98,7 +124,7 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 4. Beheerders kunnen met betrekking tot haltes of stations voor bus en tram om redenen van ruimtelijke of bouwkundige belemmeringen afwijken van het eerste en tweede lid tot ten hoogste de door die belemmeringen bepaalde breedte of hoogte.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een halte of station beschikt over voorzieningen voor de verkoop of het geldig maken van vervoerbewijzen, reisinformatie, halte- of stationsinformatie of serviceverlening zijn deze voorzieningen wat betreft opstelling, geluidsweergave, beeldweergave en bedieningsgemak in ieder geval bruikbaar voor personen met een hulpmiddel en personen met een visuele of auditieve beperking.
 
@@ -108,7 +134,7 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 4. Een halte of station voor trein beschikt over personele assistentieverlening voor personen met een motorische functiebeperking bij het in- en uitstappen in een voertuig, indien niet wordt voldaan aan [artikel 5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2025-06-28&g=2025-06-28).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een treinstation of een onderdeel daarvan voldoet aan [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=5&z=2025-06-28&g=2025-06-28), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=3&artikel=6&z=2025-06-28&g=2025-06-28) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2025-06-28&g=2025-06-28) van dit besluit door het voldoen aan de in de beschikking van Europese Commissie van 21 december 2007 betreffende de technische specificatie inzake interoperabiliteit «personen met beperkte mobiliteit» voor het conventionele trans-Europese spoorwegsysteem en het trans-Europees hogesnelheidsspoorwegsysteem (PbEU L 64) daaromtrent verplicht gestelde specificaties.
 
@@ -116,27 +142,27 @@ De bij of krachtens de [artikelen 4 tot en met 13](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 4. Reisinformatie
 
-#### Artikel 8
+##### Artikel 8
 
 1. Reisinformatie als bedoeld in [artikel 7, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=7) is voorafgaand aan de reis ten minste via internet in beeld en geluid en desgevraagd op schrift en per telefoon beschikbaar en bruikbaar voor personen met een functiebeperking.
 
 2. Het eerste lid is van overeenkomstige toepassing op informatie over de toegankelijkheid van openbaar vervoer voorzieningen als bedoeld in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2025-06-28&g=2025-06-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2025-06-28&g=2025-06-28).
 
-#### Artikel 9
+##### Artikel 9
 
 Op haltes of stations voor metro of trein is reisinformatie over ten minste vertrektijd, opstaplocatie en eindbestemming, voor zover die afwijken van de geldende dienstregelingen voor trein, metro of tram, tijdig en in beeld en geluid beschikbaar voor personen met een functiebeperking.
 
-#### Artikel 10
+##### Artikel 10
 
 In voertuigen is reisinformatie over de aankomst bij tussengelegen haltes of stations van het voertuig tijdig en in beeld en geluid beschikbaar voor personen met een functiebeperking.
 
 ### Hoofdstuk 4a. Toegankelijkheidsvoorschriften voor producten en diensten conform [richtlijn 2019/882](32019L0882)
 
-#### Artikel 11
+##### Artikel 11
 
 Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2025-06-28&g=2025-06-28) kan door vervoerders en beheerders tijdelijk worden afgeweken bij onvoorziene omstandigheden of omstandigheden waarin een ander maatschappelijk belang prevaleert ten opzichte van het belang van toegankelijk openbaar vervoer, en de beschikbare toegankelijkheid van dat vervoer als gevolg van die omstandigheden redelijkerwijs niet in stand kan blijven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vervoerder houdt in de wijze waarop hij openbaar vervoer aanbiedt en verricht rekening met het gebruik daarvan door personen met een functiebeperking.
 
@@ -144,7 +170,7 @@ Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.
 
 ### Hoofdstuk 6. De vervoervoorwaarden
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vervoervoorwaarden van een vervoerder zijn zodanig opgesteld dat daaruit duidelijk en onderscheidenlijk van overige gegevens blijkt welke voorzieningen voor personen, onderscheiden naar hun functiebeperking, beschikbaar zijn inzake het betreden, gebruiken en verlaten van het openbaar vervoer en daartoe behorende haltes en stations, alsmede het voorbereiden op het gebruik van dat vervoer.
 
@@ -160,7 +186,7 @@ Van het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.
 
 ### Hoofdstuk 7. Bestuurlijke afstemming
 
-#### Artikel 14
+##### Artikel 14
 
 De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Minister van Infrastructuur en Milieu gegevens betreffende de mate waarin is voldaan aan het bepaalde bij of krachtens de [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=5&artikel=12&z=2025-06-28&g=2025-06-28), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=6&artikel=13&z=2025-06-28&g=2025-06-28) of [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=8&artikel=16&z=2025-06-28&g=2025-06-28):
 
@@ -172,7 +198,7 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 - d. de exploitanten van reisinformatie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Concessieverleners, vervoerders, beheerders en exploitanten van reisinformatie zorgen voor de coördinatie en afstemming van de in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=9&z=2025-06-28&g=2025-06-28) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4&artikel=10&z=2025-06-28&g=2025-06-28) bedoelde aanpassingen op zodanige wijze dat desbetreffende voertuigen, haltes, stations en reisinformatie zoveel mogelijk op aansluitende lijnen en geharmoniseerd toegankelijk zijn.
 
@@ -180,7 +206,7 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 ### Hoofdstuk 8. Invoering
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister kan in overeenstemming met Onze Minister van Infrastructuur en Milieu regels stellen over:
 
@@ -194,7 +220,7 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 2. De in het eerste lid, onder a, c en d bedoelde regels kunnen per voertuig of voertuigcategorie, traject, halte, station of concessiegebied verschillend zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Nieuwe, vernieuwde en verbeterde voertuigen, haltes, stations en reisinformatie zijn toegankelijk overeenkomstig de daarop betrekking hebbende [artikelen 4 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=2&artikel=4&z=2025-06-28&g=2025-06-28).
 
@@ -220,17 +246,17 @@ De volgende rechtspersonen verstrekken desgevraagd aan Onze Minister en Onze Min
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Besluit toegankelijkheid van het openbaar vervoer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -274,7 +300,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **verordening (EU) nr. 1025/2012:** [Verordening (EU) nr. 1025/2012](32012R1025) van het Europees Parlement en de Raad van 25 oktober 2012 betreffende Europese normalisatie, tot wijziging van de [Richtlijnen 89/686/EEG](31989L0686) en [93/15/EEG](31993L0015) van de Raad alsmede de [Richtlijnen 94/9/EG](31994L0009), [94/25/EG](31994L0025), [95/16/EG](31995L0016), [97/23/EG](31997L0023), [98/34/EG](31998L0034), [2004/22/EG](32004L0022), [2007/23/EG](32007L0023), [2009/23/EG](32009L0023) en [2009/105/EG](32009L0105) van het Europees Parlement en de Raad en tot intrekking van Beschikking [87/95/EEG](31987L0095) van de Raad en Besluit [nr. 1673/2006/EG](33573L2006) van het Europees Parlement en de Raad (PbEU 2012, L [316/12](onbekend)).
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Dit hoofdstuk is van toepassing op diensten voor personenvervoer per bus of trein met betrekking tot de volgende elementen:
 
@@ -302,7 +328,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - e. inhoud van websites en toepassingen op basis van mobiele apparaten die kunnen worden aangemerkt als archieven, wat betekent dat zij enkel inhoud bevatten die niet wordt bijgewerkt of aangepast na 28 juni 2025.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. De diensten, bedoeld in [artikel 10b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4a&artikel=10b&z=2025-06-28&g=2025-06-28), voldoen aan de toegankelijkheidsvoorschriften in de afdelingen III en IV van bijlage I bij [richtlijn 2019/882](32019L0882).
 
@@ -310,11 +336,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Micro-ondernemingen zijn vrijgesteld van de verplichtingen vermeld in het eerste lid en van elke verplichting in verband met de naleving van die voorschriften.
 
-#### Artikel 10d
+##### Artikel 10d
 
 Voor zover de diensten, bedoeld in[artikel 10b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4a&artikel=10b&z=2025-06-28&g=2025-06-28), voldoen aan de voorschriften voor de verstrekking van toegankelijke informatie en van informatie over toegankelijkheid in de zin van de [verordeningen (EG) nr. 1371/2007](32007R1371) en [(EU) nr. 181/2011](32011R0181), alsmede van de desbetreffende handelingen die zijn vastgesteld op basis van [richtlijn 2008/57](32008L0057), voldoen ze daarmee ook aan de overeenkomstige voorschriften van [richtlijn 2019/882](32019L0882).
 
-#### Artikel 10e
+##### Artikel 10e
 
 1. Dienstverleners ontwerpen en verlenen aangeboden diensten voor personenvervoer per bus of trein in overeenstemming met [artikel 10c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4a&artikel=10c&z=2025-06-28&g=2025-06-28).
 
@@ -324,7 +350,7 @@ Voor zover de diensten, bedoeld in[artikel 10b, eerste en tweede lid](https://we
 
 4. Dienstverleners treffen onmiddellijk corrigerende maatregelen indien de aangeboden dienst niet in overeenstemming is met het eerste tot en met het derde lid. Zij brengen Onze Minister van Infrastructuur en Waterstaat daarvan onmiddellijk op de hoogte, waarbij de dienstverleners in het bijzonder de aard van de non-conformiteit en alle getroffen corrigerende maatregelen uitvoerig beschrijven.
 
-#### Artikel 10f
+##### Artikel 10f
 
 1. De toegankelijkheidsvoorschriften, bedoeld in [artikel 10c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4a&artikel=10c&z=2025-06-28&g=2025-06-28), zijn uitsluitend van toepassing voor zover de naleving ervan:
 
@@ -348,7 +374,7 @@ Voor zover de diensten, bedoeld in[artikel 10b, eerste en tweede lid](https://we
 
 6. Dienstverleners, met uitzondering van micro-ondernemingen, die voor een specifieke dienst een beroep doen op het eerste lid, verstrekken informatie daartoe aan Onze Minister van Infrastructuur en Waterstaat.
 
-#### Artikel 10g
+##### Artikel 10g
 
 1. Diensten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, worden vermoed in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 10c, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029974&hoofdstuk=4a&artikel=10c&z=2025-06-28&g=2025-06-28), voor zover deze normen of delen daarvan die voorschriften bestrijken.
 
@@ -358,7 +384,7 @@ Voor zover de diensten, bedoeld in[artikel 10b, eerste en tweede lid](https://we
 
 4. Diensten die in overeenstemming zijn met de geharmoniseerde normen en specificaties, of delen daarvan, die zijn vastgesteld overeenkomstig artikel 15 van [richtlijn 2019/882](32019L0882), leiden tot een vermoeden van overeenstemming met het derde lid van dit artikel, voor zover deze normen en technische specificaties of delen daarvan aan de toegankelijkheidsvoorschriften van die richtlijn voldoen.
 
-#### Artikel 10h
+##### Artikel 10h
 
 Indien het bij koninklijke boodschap van 14 juni 2023 ingediende voorstel van wet [Implementatiewet toegankelijkheidsvoorschriften producten en diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0049571) (Kamerstukken 36 380) tot wet is of wordt verheven en die wet in werking treedt, berust dit hoofdstuk mede op [artikel 5c van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=5c).
 

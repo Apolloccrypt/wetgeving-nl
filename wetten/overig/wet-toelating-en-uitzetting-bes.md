@@ -1,18 +1,43 @@
 ---
 title: "Wet toelating en uitzetting BES"
 identifier: "BWBR0028571"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028571"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028571"
+soort: "wet-BES"
+stam_id: "10878083"
+version_id: "17860452"
+internal_id: "C24850341"
+label_id: "10853724"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028571/2010-10-10/0"
+intitule_bron: "Stb.2010-532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-532"
+original_signed_date: "2010-09-29"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-532"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028571&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028571&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-29"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet toelating en uitzetting BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +61,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - j. **vreemdeling:** ieder die niet de Nederlandse nationaliteit bezit.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Deze wet is, met uitzondering van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=2&z=2010-10-10&g=2010-10-10), van overeenkomstige toepassing op:
 
@@ -52,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. kinderen zijn van de onder a bedoelde Nederlanders en direct voorafgaand aan 10 oktober 2010 gedurende een ononderbroken periode van tenminste een jaar hun woonplaats hebben gehad op de eilanden Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend.
 
@@ -60,19 +85,19 @@ Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onze Minister kan aan het hoofd van de desbetreffende Nederlandse diplomatieke of consulaire vertegenwoordiging aanwijzingen geven over de uitvoering van de bij of krachtens dit hoofdstuk gestelde regels inzake de verlening van de machtiging tot voorlopig verblijf door de ambtenaren werkzaam op die vertegenwoordiging door tussenkomst van en voor zover het de buitenlandse betrekkingen kan raken in overeenstemming met Onze Minister van Buitenlandse Zaken.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het bepaalde in het eerste lid.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. De aanvrager is, in door Onze Minister te bepalen gevallen en volgens door Onze Minister te geven regels, leges verschuldigd ter zake van de afdoening van een aanvraag tot het verlenen of wijzigen van een machtiging tot voorlopig verblijf dan wel terugkeervisum.
 
 2. Het eerste lid is niet van toepassing indien op grond van de Rijkswet op de consulaire tarieven reeds een vergoeding is verschuldigd.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. De machtiging tot voorlopig verblijf wordt verleend onder beperkingen, verband houdend met het doel waarvoor het verblijf wordt toegestaan. Aan de machtiging kunnen voorschriften worden verbonden.
 
@@ -90,7 +115,7 @@ Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend
 
 4. Indien de vreemdeling nog geen toegang heeft verkregen kan Onze Minister de machtiging tot voorlopig verblijf annuleren op de gronden, vermeld in het derde lid.
 
-#### Artikel 2d
+##### Artikel 2d
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van indiening en de behandeling van een aanvraag tot verlening of wijziging van een machtiging tot voorlopig verblijf dan wel een terugkeervisum, daaronder begrepen de wijze waarop beschikkingen, kennisgevingen, mededelingen of berichten ingevolge dit hoofdstuk aan de vreemdeling of andere belanghebbenden worden bekendgemaakt.
 
@@ -98,7 +123,7 @@ Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend
 
 #### § 2. Machtiging tot voorlopig verblijf
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. Indien Onze Minister besluit tot verlening van een machtiging tot voorlopig verblijf stelt hij de aanvrager daarvan schriftelijk in kennis. Een machtiging tot voorlopig verblijf kan tot uiterlijk drie maanden na de dagtekening van die kennisgeving worden afgegeven. In geval de machtiging tot voorlopig verblijf niet kan worden afgegeven in het land van herkomst of bestendig verblijf, op grond dat de Nederlandse vertegenwoordiging is gesloten of zich daar niet of niet langer bevindt, kan Onze Minister de termijn, bedoeld in de tweede volzin, eenmaal met ten hoogste drie maanden verlengen.
 
@@ -108,7 +133,7 @@ Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend
 
 4. Onze Minister brengt de machtiging tot voorlopig verblijf aan in het document voor grensoverschrijding of op een blad waarop een visum kan worden aangebracht.
 
-#### Artikel 2f
+##### Artikel 2f
 
 1. De aanvraag om een machtiging tot voorlopig verblijf geschiedt:
 
@@ -120,19 +145,19 @@ Toelating tot verblijf wordt van rechtswege toegekend of bij vergunning verleend
 
 3. Onze Minister kan in overeenstemming met Onze Minister van Buitenlandse Zaken vrijstelling dan wel ontheffing verlenen van de verplichtingen, bedoeld in het eerste en tweede lid.
 
-#### Artikel 2g
+##### Artikel 2g
 
 1. De vreemdeling dan wel de referent verstrekt Onze Minister de door hem voor de beoordeling van de aanvraag om een machtiging tot voorlopig verblijf verlangde gegevens en bescheiden desgevraagd in persoon.
 
 2. Met het oog op de beoordeling van het vereiste ten aanzien van het beschikken over voldoende middelen van bestaan, gesteld bij of krachtens deze wet, kan Onze Minister van de vreemdeling zekerheidsstelling voor de daarmee gemoeide kosten verlangen tot een door Onze Minister te bepalen bedrag. Deze zekerheidsstelling kan mede omvatten het beschikken over een toereikende ziektekostenverzekering ter dekking van ziektekosten.
 
-#### Artikel 2h
+##### Artikel 2h
 
 Onze Minister beslist binnen drie maanden na ontvangst van een aanvraag om verlening of wijziging van een machtiging tot voorlopig verblijf. Onze Minister kan deze termijn verlengen met ten hoogste drie maanden.
 
 #### § 3. Terugkeervisum
 
-#### Artikel 2i
+##### Artikel 2i
 
 1. Een terugkeervisum kan worden geweigerd indien:
 
@@ -156,7 +181,7 @@ Onze Minister beslist binnen drie maanden na ontvangst van een aanvraag om verle
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de gronden, bedoeld in het eerste, tweede en derde lid.
 
-#### Artikel 2j
+##### Artikel 2j
 
 1. De geldigheidsduur van een terugkeervisum kan de geldigheidsduur van de aan de vreemdeling verleende verblijfsvergunning voor bepaalde tijd niet overschrijden en bedraagt ten hoogste een jaar. Het terugkeer-visum kan worden verleend voor een of meer reizen.
 
@@ -166,25 +191,25 @@ Onze Minister beslist binnen drie maanden na ontvangst van een aanvraag om verle
 
 4. De geldigheidsduur van een terugkeervisum kan niet worden verlengd.
 
-#### Artikel 2k
+##### Artikel 2k
 
 1. Een terugkeervisum wordt door de vreemdeling in persoon aangevraagd. Onze Minister brengt het terugkeervisum aan in het document voor grensoverschrijding of op een blad waarop een visum kan worden aangebracht.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van indiening en de behandeling van een aanvraag tot verlening van een terugkeervisum.
 
-#### Artikel 2l
+##### Artikel 2l
 
 Onze Minister beslist binnen twee weken na ontvangst van een aanvraag om verlening van een terugkeervisum. Onze Minister kan deze termijn verlengen met ten hoogste twee weken.
 
 ### Hoofdstuk 3. Toegang
 
-#### Artikel 2m
+##### Artikel 2m
 
 1. Een ieder begeeft zich bij grensoverschrijding langs een grensdoorlaatpost binnen de tijd dat deze is opengesteld en vervoegt zich aldaar bij een ambtenaar belast met de grensbewaking.
 
 2. Bij of krachtens algemene maatregel van bestuur worden de plaatsen aangewezen, waar, al dan niet tijdelijke, grensdoorlaatposten zijn gevestigd en worden de tijden vastgesteld gedurende welke de grensdoorlaatposten zijn opengesteld.
 
-#### Artikel 2n
+##### Artikel 2n
 
 1. Degene aan wie de toegang is geweigerd, dient de openbare lichamen onmiddellijk te verlaten met inachtneming van daartoe gegeven aanwijzingen van de ambtenaar belast met de grensbewaking.
 
@@ -192,7 +217,7 @@ Onze Minister beslist binnen twee weken na ontvangst van een aanvraag om verleni
 
 3. De verplichtingen, bedoeld in het eerste en tweede lid, gelden niet indien de persoon, bedoeld in het eerste lid, een vreemdeling is die een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met bescherming als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=5&artikel=12a&z=2010-10-10&g=2010-10-10) heeft ingediend en daarop nog niet is beslist.
 
-#### Artikel 2o
+##### Artikel 2o
 
 1. De vreemdeling aan wie de toegang is geweigerd kan worden verplicht zich op te houden in een door de ambtenaar belast met de grensbewaking aangewezen ruimte of plaats.
 
@@ -202,11 +227,11 @@ Onze Minister beslist binnen twee weken na ontvangst van een aanvraag om verleni
 
 4. Een krachtens het derde lid vastgestelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat, nadat vier weken na de overlegging zijn verstreken, bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 2p
+##### Artikel 2p
 
 Indien de vreemdeling aan wie de toegang is geweigerd op grond van enig wettelijk voorschrift dan wel een voor Nederland bindend besluit van een volkenrechtelijke organisatie zijn vrijheid is ontnomen, blijft de toegang geweigerd.
 
-#### Artikel 2q
+##### Artikel 2q
 
 1. De vervoerder door wiens tussenkomst een persoon aan een grens of binnen het grondgebied van de openbare lichamen wordt gebracht, neemt de nodige maatregelen en houdt het toezicht dat redelijkerwijs van hem kan worden gevorderd om te voorkomen dat door de persoon niet wordt voldaan aan [artikel 2r, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2r&z=2010-10-10&g=2010-10-10) dan wel een voor Nederland bindend besluit van een volkenrechtelijke organisatie.
 
@@ -220,7 +245,7 @@ Indien de vreemdeling aan wie de toegang is geweigerd op grond van enig wettelij
 
 6. Het eerste tot en met het derde lid zijn ook van toepassing op iedere vervoerder die zich buiten de openbare lichamen schuldig maakt aan schending van de in die leden bedoelde verplichtingen.
 
-#### Artikel 2r
+##### Artikel 2r
 
 1. De ambtenaar belast met de grensbewaking weigert de toegang aan een vreemdeling die:
 
@@ -242,13 +267,13 @@ Indien de vreemdeling aan wie de toegang is geweigerd op grond van enig wettelij
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van het eerste tot en met het vierde lid.
 
-#### Artikel 2s
+##### Artikel 2s
 
 1. De ambtenaar belast met de grensbewaking onderwerpt een ieder bij grensoverschrijding aan een minimale controle ter vaststelling van de identiteit en nationaliteit op basis van het document voor grensoverschrijding.
 
 2. De minimale controle behelst een onderzoek van het document voor grensoverschrijding en op niet-systematische basis een onderzoek naar signaleringen ter fine van opsporing en een onderzoek naar signaleringen ter fine van weigering van toegang en verblijf.
 
-#### Artikel 2t
+##### Artikel 2t
 
 1. De ambtenaar belast met de grensbewaking onderwerpt vreemdelingen bij grensoverschrijding aan een grondige controle.
 
@@ -266,13 +291,13 @@ Indien de vreemdeling aan wie de toegang is geweigerd op grond van enig wettelij
 
 5. In afwijking van [artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=1&artikel=1a&z=2010-10-10&g=2010-10-10) is het eerste lid niet van overeenkomstige toepassing op Nederlanders.
 
-#### Artikel 2u
+##### Artikel 2u
 
 1. Indien buitengewone of onvoorzienbare gebeurtenissen een zodanige verkeersdrukte veroorzaken dat ondanks volledige benutting van alle personele, facilitaire en organisatorische voorzieningen aan de grensdoorlaatpost onredelijk lange wachttijden ontstaan, kan de grenscontrole met instemming van Onze Minister tijdelijk worden versoepeld.
 
 2. Bij de toepassing van het eerste lid kan niet worden afgeweken van [artikel 2v](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2v&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 2v
+##### Artikel 2v
 
 1. De documenten voor grensoverschrijding van vreemdelingen worden bij grensoverschrijding afgestempeld.
 
@@ -290,11 +315,11 @@ Indien de vreemdeling aan wie de toegang is geweigerd op grond van enig wettelij
 
 3. In afwijking van het eerste lid kan op verzoek van de vreemdeling van afstempeling worden afgezien, indien afstempeling voor deze vreemdeling tot ernstige moeilijkheden zou kunnen leiden. In dat geval wordt de in- of uitreis op een inlegblad geregistreerd met vermelding van de naam en het nummer van het document voor grensoverschrijding.
 
-#### Artikel 2w
+##### Artikel 2w
 
 Bij afwezigheid van een inreisstempel in het document voor grensoverschrijding wordt aangenomen dat de houder daarvan niet of niet langer voldoet aan de voorwaarden inzake de maximale verblijfsduur, tenzij de houder het tegendeel aannemelijk maakt. In dat geval vermeldt de ambtenaar belast met de grensbewaking dan wel het toezicht op vreemdelingen overeenkomstig regels te stellen bij algemene maatregel van bestuur in het document voor grensoverschrijding van de vreemdeling op welke datum en welke plaats hij de openbare lichamen is ingereisd.
 
-#### Artikel 2x
+##### Artikel 2x
 
 1. In afwijking van de [artikelen 2s](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2s&z=2010-10-10&g=2010-10-10) en [2t](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2t&z=2010-10-10&g=2010-10-10) behoeven niet aan grenscontroles te worden onderworpen:
 
@@ -308,7 +333,7 @@ Bij afwezigheid van een inreisstempel in het document voor grensoverschrijding w
 
 ### Hoofdstuk 4. Toelating van rechtswege
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van rechtswege hebben toelating tot verblijf in de openbare lichamen:
 
@@ -340,7 +365,7 @@ Bij afwezigheid van een inreisstempel in het document voor grensoverschrijding w
 
 6. Van rechtswege toelating tot verblijf hebben ook de minderjarige Nederlandse kinderen van de Nederlanders, bedoeld in het vijfde lid, indien een van die ouders het ouderlijk gezag heeft.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De periode, bedoeld in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=3&z=2010-10-10&g=2010-10-10), wordt niet onderbroken door een verblijf buiten de openbare lichamen voor studiedoeleinden of wegens geneeskundige behandeling, tenzij de vreemdeling blijk geeft zijn toelating tot de openbare lichamen te willen opgeven.
 
@@ -348,7 +373,7 @@ Bij afwezigheid van een inreisstempel in het document voor grensoverschrijding w
 
 3. Het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=6&artikel=13&z=2010-10-10&g=2010-10-10), blijft onverminderd van toepassing op de minderjarige, niet vallende onder de bepaling van [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=3&z=2010-10-10&g=2010-10-10), die buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling.
 
-#### Artikel 5
+##### Artikel 5
 
 De toelating van rechtswege eindigt:
 
@@ -356,19 +381,19 @@ De toelating van rechtswege eindigt:
 
 - b. ten aanzien van degene, die op grond van het bepaalde in [artikel 3, eerste lid, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=3&z=2010-10-10&g=2010-10-10), van rechtswege is toegelaten, door een onafgebroken verblijf van langer dan drie jaar buiten de openbare lichamen, tenzij de vreemdeling buiten de openbare lichamen verblijft voor studiedoeleinden of wegens geneeskundige behandeling. De bepaling van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=4&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het verblijf zonder verblijfsvergunning voor bepaalde tijd voor verblijf niet langer dan zes maanden.
 
 ### Hoofdstuk 5. Toelating bij vergunning verleend
 
-#### Artikel 6
+##### Artikel 6
 
 1. Vreemdelingen die in de openbare lichamen verblijven en die niet bij of krachtens [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=3&z=2010-10-10&g=2010-10-10) of [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=4&artikel=5a&z=2010-10-10&g=2010-10-10) zijn toegelaten tot verblijf, behoeven een verblijfsvergunning voor bepaalde of onbepaalde tijd.
 
 2. Een verblijfsvergunning voor bepaalde tijd wordt verleend voor ten hoogste vijf achtereenvolgende jaren. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd en de verlenging van de geldigheidsduur van de verblijfsvergunning voor bepaalde tijd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verblijfsvergunning voor bepaalde of onbepaalde tijd wordt verleend door Onze Minister. Onze Minister kan aan de vreemdeling, die toelating van rechtswege of bij vergunning verleend heeft, een document of schriftelijke verklaring verschaffen, waaruit die toelating blijkt. Onze Minister kan modellen vaststellen voor de documenten en de schriftelijke verklaring.
 
@@ -392,13 +417,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 9. Een verblijfsvergunning voor onbepaalde tijd wordt niet onder beperkingen verleend. Aan de verblijfsvergunning voor onbepaalde tijd worden geen voorschriften verbonden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien na een geheel of gedeeltelijk afwijzende beschikking een nieuwe aanvraag wordt gedaan is de vreemdeling gehouden nieuw gebleken feiten of veranderde omstandigheden te vermelden.
 
 2. Wanneer geen nieuw gebleken feiten of veranderde omstandigheden worden vermeld, kan Onze Minister de aanvraag afwijzen onder verwijzing naar zijn eerdere afwijzende beschikking zonder de vreemdeling in de gelegenheid te stellen de aanvraag aan te vullen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verblijfsvergunning voor bepaalde of onbepaalde tijd kan door Onze Minister worden geweigerd:
 
@@ -426,11 +451,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 4. De voordracht voor een krachtens het derde lid, onder f, vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 Hij die handelt in strijd met de hem verleende verblijfsvergunning voor bepaalde tijd, wordt geacht gehandeld te hebben zonder vergunning.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij algemene maatregel van bestuur, worden regelen gesteld inzake het storten van een waarborgsom, het bedrag hiervan, de kosten, welke daaruit bestreden mogen worden, de wijze van beheer, de gevallen waarin ontheffing kan worden verleend, de terugbetaling, de gevallen waarin na overlijden of vertrek van de vreemdeling de waarborgsom in de consignatiekas wordt gestort, alsmede al hetgeen verder in dit verband voorziening vereist.
 
@@ -458,7 +483,7 @@ Hij die handelt in strijd met de hem verleende verblijfsvergunning voor bepaalde
 
 3. De waarborgsom is niet vatbaar voor enig beslag, tenzij deze in de consignatiekas is gestort.
 
-#### Artikel 12
+##### Artikel 12
 
 De toelating bij vergunning verleend eindigt:
 
@@ -476,7 +501,7 @@ De toelating bij vergunning verleend eindigt:
 
 - g. door uitzetting.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Onze Minister kan een verblijfsvergunning voor bepaalde tijd verlenen om redenen verband houdend met bescherming aan de vreemdeling die:
 
@@ -492,13 +517,13 @@ De toelating bij vergunning verleend eindigt:
 
 ### Hoofdstuk 6. Gevolg verlies afhankelijke toelating van de echtgenoot en minderjarige kinderen
 
-#### Artikel 13
+##### Artikel 13
 
 Ingeval de toelating van rechtswege toegekend of krachtens vergunning verleend eindigt, houdt tevens op de afhankelijke toelating van de gezinsleden.
 
 ### Hoofdstuk 7. Intrekking van de vergunning tot toelating
 
-#### Artikel 14
+##### Artikel 14
 
 De verblijfsvergunning voor bepaalde of onbepaalde tijd kan door Onze Minister bij een met redenen omklede beslissing worden ingetrokken:
 
@@ -514,13 +539,13 @@ De verblijfsvergunning voor bepaalde of onbepaalde tijd kan door Onze Minister b
 
 ### Hoofdstuk 8. Vrijheidsbeperkende en vrijheid-ontnemende maatregelen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Overeenkomstig bij algemene maatregel van bestuur te stellen regels kan, indien het belang van de openbare orde of de veiligheid zulks vordert, door Onze Minister de vrijheid van beweging worden beperkt van de vreemdeling die geen geldige verblijfsvergunning voor bepaalde of onbepaalde tijd bezit en geen toelating van rechtswege heeft.
 
 2. Toepassing van het eerste lid blijft achterwege indien en wordt beëindigd zodra de vreemdeling te kennen geeft de openbare lichamen te willen verlaten en hiertoe voor hem ook gelegenheid bestaat.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Onze Minister kan de vreemdeling wiens aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd verband houdend met bescherming als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=5&artikel=12a&z=2010-10-10&g=2010-10-10) is afgewezen, de aanwijzing geven zich op te houden in een bepaalde ruimte of op een bepaalde plaats en aldaar de aanwijzingen van de bevoegde autoriteit in acht te nemen, ook indien de beschikking waarbij de aanvraag is afgewezen nog niet onherroepelijk is dan wel de werking van de beschikking is opschort.
 
@@ -532,13 +557,13 @@ De verblijfsvergunning voor bepaalde of onbepaalde tijd kan door Onze Minister b
 
 5. De termijn, bedoeld in het derde lid, wordt opgeschort gedurende de termijn waarin de vreemdeling de beperking van zijn bewegingsvrijheid niet in acht heeft genomen.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Indien zulks voor de uitzetting noodzakelijk is, kan Onze Minister in het geval, bedoeld in [artikel 15a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=8&artikel=15a&z=2010-10-10&g=2010-10-10), de vreemdeling een ruimte of plaats aanwijzen, die is beveiligd tegen ongeoorloofd vertrek.
 
 2. De [artikelen 15a, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=8&artikel=15a&z=2010-10-10&g=2010-10-10), en [15c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=8&artikel=15c&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing.
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Indien het belang van de openbare orde of de nationale veiligheid zulks vordert, kan, met het oog op de uitzetting, door Onze Minister in bewaring worden gesteld de vreemdeling die:
 
@@ -552,7 +577,7 @@ De verblijfsvergunning voor bepaalde of onbepaalde tijd kan door Onze Minister b
 
 4. Bewaring krachtens het eerste lid, onder b, of het tweede lid, duurt in geen geval langer dan vier weken.
 
-#### Artikel 15d
+##### Artikel 15d
 
 Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van dit hoofdstuk. Daarbij kan worden voorzien in de mogelijkheid van verhaal van kosten van bewaring op de vreemdeling zelf en, indien hij minderjarig is, op degenen die het wettig gezag over hem uitoefenen.
 
@@ -560,13 +585,13 @@ Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepa
 
 #### § 1. Vertrek
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vreemdeling die niet of niet langer van rechtswege is toegelaten of een verblijfsvergunning voor bepaalde of onbepaalde tijd heeft en aan wie het niet of niet langer is toegestaan de beslissing omtrent een verblijfsvergunning voor bepaalde of onbepaalde tijd in de openbare lichamen af te wachten, verlaat de openbare lichamen binnen een in [artikel 16a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=9&paragraaf=1&artikel=16a&z=2010-10-10&g=2010-10-10) bepaalde termijn.
 
 2. Indien de werking van de beschikking, waarbij de aanvraag is afgewezen of de verblijfsvergunning is ingetrokken, is opgeschort, kan van de vreemdeling medewerking worden gevorderd aan de voorbereiding van het vertrek uit de openbare lichamen.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Nadat de toelating van rechtswege of bij vergunning verleend is geëindigd dan wel het de vreemdeling niet langer is toegestaan de beslissing omtrent een aanvraag tot het verlenen, wijzigen of verlengen van een verblijfsvergunning in de openbare lichamen af te wachten, verlaat de vreemdeling de openbare lichamen uit eigen beweging binnen vier weken.
 
@@ -588,7 +613,7 @@ de openbare lichamen onmiddellijk.
 
 #### § 2. Uitzetting
 
-#### Artikel 16b
+##### Artikel 16b
 
 1. Onze Minister kan de vreemdeling uitzetten:
 
@@ -604,13 +629,13 @@ de openbare lichamen onmiddellijk.
 
 3. Uitzetting blijft achterwege zolang het, gelet op de gezondheidstoestand van de vreemdeling of die van een van zijn gezinsleden, niet verantwoord is om te reizen.
 
-#### Artikel 16c
+##### Artikel 16c
 
 Bij algemene maatregel van bestuur worden regels gesteld omtrent de toepassing van de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=9&paragraaf=1&z=2010-10-10&g=2010-10-10) en 2 van dit hoofdstuk. Daarbij kan worden voorzien in de mogelijkheid van verhaal van de kosten van uitzetting op de vreemdeling zelf en, indien hij minderjarig is, op degenen die het wettig gezag over hem uitoefenen.
 
 #### § 3. Ongewenstverklaring
 
-#### Artikel 16d
+##### Artikel 16d
 
 1. De vreemdeling kan door Onze Minister ongewenst worden verklaard:
 
@@ -628,7 +653,7 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de toepassing v
 
 3. De ongewenst verklaarde vreemdeling kan geen toelating van rechtswege of bij vergunning verleend hebben in de openbare lichamen. Hij kan evenmin toestemming hebben om de beslissing omtrent een verblijfsvergunning voor bepaalde of onbepaalde tijd in de openbare lichamen af te wachten.
 
-#### Artikel 16e
+##### Artikel 16e
 
 1. Onze Minister kan op aanvraag van de vreemdeling besluiten tot opheffing van de ongewenstverklaring.
 
@@ -638,7 +663,7 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de toepassing v
 
 ### Hoofdstuk 10. Processuele bepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Aan de vreemdeling wordt schriftelijk mededeling gedaan van:
 
@@ -658,17 +683,17 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de toepassing v
 
 3. De mededelingen genoemd in het eerste lid onder c, d en e worden niet gegeven dan na de vreemdeling ter zake te hebben gehoord dan wel opgeroepen om daarover te worden gehoord en moeten in ieder geval aan de vreemdeling, respectievelijk aan het hoofd van het wettig gezin worden gedaan.
 
-#### Artikel 18
+##### Artikel 18
 
 [vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 In afwijking van de artikelen 16, eerste lid, en 56, eerste lid, van de Wet administratieve rechtspraak BES bedraagt de termijn voor het indienen van een beroep- of bezwaarschrift vier weken.
 
 ### Hoofdstuk 11. Uitvoeringsmaatregelen
 
-#### Artikel 20
+##### Artikel 20
 
 Bij of krachtens algemene maatregel van bestuur, kunnen:
 
@@ -682,7 +707,7 @@ Bij of krachtens algemene maatregel van bestuur, kunnen:
 
 - e. regelingen worden getroffen in verband met de toelating van ondernemers en werknemers ter bevordering van productieve investeringen in de openbare lichamen en de internationale handel en dienstverlening.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van vreemdelingen die krachtens de bepalingen van deze wet verblijfsvergunning voor bepaalde of onbepaalde tijd hebben verkregen, regelen worden gesteld met betrekking tot hun vertrek uit de openbare lichamen.
 
@@ -698,7 +723,7 @@ Bij of krachtens algemene maatregel van bestuur, kunnen:
 
 - e. dat hij in de openbare lichamen in militaire dienst is overeenkomstig de desbetreffende bepalingen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De gezagvoerder, die niet tot verblijf in de openbare lichamen gerechtigde vreemdelingen heeft aangebracht, is verplicht die vreemdelingen voor zijn rekening weder uit de openbare lichamen te vervoeren of te doen vervoeren.
 
@@ -710,7 +735,7 @@ Bij of krachtens algemene maatregel van bestuur, kunnen:
 
 #### § 1. Aanwijzing
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. Met het toezicht op de naleving en de uitvoering van de wettelijke voorschriften met betrekking tot de grensbewaking en met betrekking tot het toezicht op personen zijn belast:
 
@@ -728,7 +753,7 @@ Bij of krachtens algemene maatregel van bestuur, kunnen:
 
 3. De ambtenaren van de Koninklijke Marechaussee, bedoeld in het eerste lid, onderdeel a, en de ambtenaren van politie, bedoeld in het eerste lid, onderdeel b, oefenen de grensbewaking uit onder leiding van de Commandant van de Koninklijke Marechaussee en het toezicht op personen onder leiding van de korpschef.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. De korpschef en de Commandant der Koninklijke marechaussee geven Onze Minister door hem gevraagde inlichtingen over de uitvoering van deze wet.
 
@@ -744,11 +769,11 @@ Bij of krachtens algemene maatregel van bestuur, kunnen:
 
 #### § 2. Bevoegdheden
 
-#### Artikel 22c
+##### Artikel 22c
 
 Op de uitoefening van de in deze paragraaf bedoelde bevoegdheden is titel 5.2 van de Algemene wet bestuursrecht van overeenkomstige toepassing.
 
-#### Artikel 22d
+##### Artikel 22d
 
 1. De ambtenaren belast met de grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd, hetzij op grond van feiten en omstandigheden die, naar objectieve maatstaven gemeten, een redelijk vermoeden van illegaal verblijf opleveren hetzij ter bestrijding van illegaal verblijf na grensoverschrijding, personen staande te houden ter vaststelling van hun identiteit, nationaliteit en verblijfsrechtelijke positie. Degene die stelt Nederlander te zijn, maar dat niet kan aantonen, kan worden onderworpen aan de dwangmiddelen als bedoeld in het tweede en vijfde lid. Bij algemene maatregel van bestuur kunnen de documenten worden aangewezen waarover een vreemdeling moet beschikken ter vaststelling van zijn identiteit, nationaliteit en verblijfsrechtelijke positie.
 
@@ -762,19 +787,19 @@ Op de uitoefening van de in deze paragraaf bedoelde bevoegdheden is titel 5.2 va
 
 6. Bij algemene maatregel van bestuur worden nadere regelen gegeven omtrent de toepassing van de voorgaande leden van dit artikel.
 
-#### Artikel 22e
+##### Artikel 22e
 
 1. Indien de ambtenaren belast met de grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, een redelijk vermoeden hebben dat met een vervoermiddel personen worden vervoerd met betrekking tot wie zij een toezichthoudende taak hebben, zijn zij bevoegd het vervoermiddel te onderzoeken. De ambtenaren zijn in dat geval bevoegd van de bestuurder van het voertuig of van de schipper van het vaartuig te vorderen dat deze zijn vervoermiddel stilhoudt en naar een door hen aangewezen plaats overbrengt teneinde het vervoermiddel te onderzoeken.
 
 2. Indien de ambtenaren belast met de grensbewaking op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, een redelijk vermoeden hebben dat met een luchtvaartuig personen worden vervoerd met betrekking tot wie zij een toezichthoudende taak hebben, zijn zij bevoegd het luchtvaartuig te onderzoeken. De ambtenaren zijn in dat geval bevoegd van de gezagvoerder van een luchtvaartuig te vorderen dat deze zijn luchtvaartuig naar een door hen aangewezen plaats overbrengt teneinde het luchtvaartuig te onderzoeken. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld.
 
-#### Artikel 22f
+##### Artikel 22f
 
 1. De ambtenaren, belast met de grensbewaking, en de ambtenaren, belast met het toezicht op vreemdelingen, zijn bevoegd om, ter vervulling van hun taken, reis- en identiteitspapieren van personen in te nemen, tijdelijk in bewaring te nemen alsmede om hierin aantekeningen te maken. Bij of krachtens algemene maatregel van bestuur worden hierover nadere regels gesteld.
 
 2. Het reis- of identiteitspapier wordt aan de vreemdeling teruggegeven indien hij te kennen geeft het openbaar lichaam te willen verlaten en hij ook daadwerkelijk vertrekt. Ingeval van uitzetting kan het reis- en identiteitspapier worden overgedragen aan de persoon belast met de grensbewaking in het land waar de toelating is gewaarborgd.
 
-#### Artikel 22g
+##### Artikel 22g
 
 1. De ambtenaren belast met de grensbewaking en de ambtenaren belast met het toezicht op vreemdelingen zijn bevoegd een woning te betreden zonder toestemming van de bewoner, indien er op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, een redelijk vermoeden bestaat dat op deze plaats een vreemdeling verblijft die geen toelating tot verblijf heeft.
 
@@ -782,7 +807,7 @@ Op de uitoefening van de in deze paragraaf bedoelde bevoegdheden is titel 5.2 va
 
 ### Hoofdstuk 13. Maatregelen van toezicht
 
-#### Artikel 22h
+##### Artikel 22h
 
 1. Bij algemene maatregel van bestuur kan ten aanzien van vreemdelingen worden voorzien in een verplichting tot:
 
@@ -802,7 +827,7 @@ Op de uitoefening van de in deze paragraaf bedoelde bevoegdheden is titel 5.2 va
 
 2. In gevallen waarin Onze Minister zulks in het belang van de openbare orde of de nationale veiligheid nodig oordeelt, kan hij aan een persoon op wie deze wet van toepassing is een individuele verplichting tot periodieke aanmelding bij de korpschef opleggen.
 
-#### Artikel 22i
+##### Artikel 22i
 
 1. De vreemdeling die in een openbaar lichaam verblijf houdt, houdt zich, in verband met het onderzoek naar de inwilligbaarheid van de aanvraag om een verblijfsvergunning voor bepaalde tijd beschikbaar op een door Onze Minister aangewezen plaats, overeenkomstig hem daartoe door de bevoegde autoriteit gegeven aanwijzingen.
 
@@ -812,11 +837,11 @@ Op de uitoefening van de in deze paragraaf bedoelde bevoegdheden is titel 5.2 va
 
 ### Hoofdstuk 14. Bijzondere rechtsmiddelen
 
-#### Artikel 22j
+##### Artikel 22j
 
 In afwijking van artikel 16 van de Wet administratieve rechtspraak BES is het instellen van beroep als bedoeld in de [artikelen 22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22l&z=2010-10-10&g=2010-10-10) en [22n](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22n&z=2010-10-10&g=2010-10-10) tegen een besluit als bedoeld in [artikel 22k](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22k&z=2010-10-10&g=2010-10-10), niet aan enige termijn gebonden.
 
-#### Artikel 22k
+##### Artikel 22k
 
 1. Een aanwijzing op grond van [artikel 2o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2o&z=2010-10-10&g=2010-10-10), [artikel 22i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=13&artikel=22i&z=2010-10-10&g=2010-10-10), de ophouding en de verlenging van de ophouding, bedoeld in [artikel 22d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=12&paragraaf=2&artikel=22d&z=2010-10-10&g=2010-10-10), de weigering van de toegang, bedoeld in [artikel 2r](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=3&artikel=2r&z=2010-10-10&g=2010-10-10), en een ingevolge hoofdstuk 8 genomen maatregel strekkende tot vrijheidsbeperking of vrijheidsontneming, wordt voor de toepassing van artikel 3 van de Wet administratieve rechtspraak BES gelijkgesteld met een beschikking.
 
@@ -824,7 +849,7 @@ In afwijking van artikel 16 van de Wet administratieve rechtspraak BES is het in
 
 3. In afwijking van artikel 17 van de Wet administratieve rechtspraak BES wordt door de griffier van het Gerecht geen griffierecht geheven.
 
-#### Artikel 22l
+##### Artikel 22l
 
 1. Uiterlijk op de achtentwintigste dag na de bekendmaking van een besluit tot oplegging van een vrijheidsontnemende maatregel als bedoeld in hoofdstuk 8 stelt Onze Minister het Gerecht, bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES hiervan in kennis, tenzij de vreemdeling voordien zelf beroep heeft ingesteld. Zodra het Gerecht de kennisgeving heeft ontvangen wordt de vreemdeling geacht beroep te hebben ingesteld tegen het besluit tot oplegging van een vrijheidsontnemende maatregel. Het beroep strekt tevens tot een verzoek om toekenning van schadevergoeding.
 
@@ -834,13 +859,13 @@ In afwijking van artikel 16 van de Wet administratieve rechtspraak BES is het in
 
 4. Indien het Gerecht bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen in redelijkheid niet gerechtvaardigd is, verklaart hij het beroep gegrond. In dat geval beveelt het Gerecht de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.
 
-#### Artikel 22m
+##### Artikel 22m
 
 1. In afwijking van artikel 76 van de Wet administratieve rechtspraak BES bedraagt de termijn voor het instellen van het hoger beroep één week.
 
 2. In afwijking van de artikel 77, eerste lid, van de Wet administratieve rechtspraak BES wordt door de griffier van het Hof geen griffierecht geheven.
 
-#### Artikel 22n
+##### Artikel 22n
 
 1. Indien het beroep, bedoeld in [artikel 22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22l&z=2010-10-10&g=2010-10-10), ongegrond is verklaard en de vreemdeling beroep instelt tegen het voortduren van de vrijheidsontneming, sluit het Gerecht het vooronderzoek binnen een week na ontvangst van het beroepschrift. In afwijking van artikel 35 van de Wet administratieve rechtspraak BES kan het Gerecht ook zonder toestemming van partijen bepalen dat het onderzoek ter zitting achterwege blijft.
 
@@ -848,11 +873,11 @@ In afwijking van artikel 16 van de Wet administratieve rechtspraak BES is het in
 
 3. Indien het Gerecht bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen in redelijkheid niet gerechtvaardigd is, verklaart hij het beroep gegrond. In dat geval beveelt het Gerecht de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.
 
-#### Artikel 22o
+##### Artikel 22o
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de wijze van horen van de vreemdeling.
 
-#### Artikel 22p
+##### Artikel 22p
 
 1. In afwijking van artikel 43, eerste lid, van de Wet administratieve rechtspraak BES kan de vreemdeling zich bij de gehoren ingevolge de [artikelen 22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22l&z=2010-10-10&g=2010-10-10) en [22n](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22n&z=2010-10-10&g=2010-10-10) uitsluitend door één of meer van zijn raadslieden doen bijstaan.
 
@@ -860,7 +885,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 3. Artikel 57, eerste lid, van het Wetboek van Strafvordering BES is van toepassing.
 
-#### Artikel 22q
+##### Artikel 22q
 
 1. De vreemdeling is steeds bevoegd een of meer raadslieden te kiezen.
 
@@ -870,7 +895,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 4. De ingevolge het tweede of derde lid gekozen raadsman treedt af zodra de vreemdeling zelf een raadsman heeft gekozen.
 
-#### Artikel 22r
+##### Artikel 22r
 
 1. Op verzoek van de vreemdeling wordt hem een raadsman toegevoegd zodra hem ingevolge deze wet zijn vrijheid is ontnomen. [Artikel 22q, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22q&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
@@ -880,7 +905,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 4. Een overeenkomstig het voorgaande lid gedaan verzoek wordt ingewilligd in gevallen waarin aannemelijk is dat de vreemdeling niet in staat is de kosten van een gekozen raadsman te dragen en waarin ook overigens, naar het oordeel van de instantie, bedoeld in het voorgaande lid, voldoende grond voor toevoeging bestaat.
 
-#### Artikel 22s
+##### Artikel 22s
 
 1. Bij verhindering of ontstentenis van de toegevoegde raadsman wordt zo nodig aan de vreemdeling onverwijld een andere raadsman toegevoegd.
 
@@ -890,23 +915,23 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 4. Blijkt van de verhindering of ontstentenis van de raadsman pas tijdens het gehoor ingevolge de [artikelen 22l](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22l&z=2010-10-10&g=2010-10-10) en [22n](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22n&z=2010-10-10&g=2010-10-10), dan geeft het Gerecht last tot toevoeging van een andere raadsman aan de instantie, bedoeld in [artikel 22r, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22r&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 22t
+##### Artikel 22t
 
 Bij algemene maatregel van bestuur worden regelen gesteld omtrent de beloning van toegevoegde raadslieden en de vergoeding van hun onkosten.
 
-#### Artikel 22u
+##### Artikel 22u
 
 Indien Onze Minister dit wenselijk oordeelt kan hij de beloning en vergoeding van een toevoeging ingevolge de [artikelen 22r](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22r&z=2010-10-10&g=2010-10-10) en [22s](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22s&z=2010-10-10&g=2010-10-10) verhalen op de goederen van de vreemdeling. Met betrekking tot de wijze van verhaal en de berekening van de te verhalen bedragen worden regelen gesteld bij algemene maatregel van bestuur.
 
-#### Artikel 22v
+##### Artikel 22v
 
 De raadsman heeft vrije toegang tot de vreemdeling. Hij kan hem alleen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen kennis wordt genomen, een en ander onder het vereiste toezicht en met in achtneming van ingevolge deze wet gestelde regelen met betrekking tot het voor de ruimte of plaats, waar de vreemdeling zich bevindt, geldende regime.
 
-#### Artikel 22w
+##### Artikel 22w
 
 Met betrekking tot de kennisgeving van gerechtelijke mededelingen ingevolge de [artikelen 22l tot en met 22s](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&hoofdstuk=14&artikel=22l&z=2010-10-10&g=2010-10-10) zijn de artikelen 642 tot en met 647 van het Wetboek van Strafvordering BES van overeenkomstige toepassing.
 
-#### Artikel 22x
+##### Artikel 22x
 
 1. Indien het Gerecht de opheffing van een maatregel strekkende tot vrijheidsontneming beveelt, dan wel de vrijheidsontneming reeds voor de behandeling van het verzoek om opheffing van die maatregel wordt opgeheven, kan hij aan de vreemdeling een vergoeding ten laste van de Staat toekennen. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 178 en 181 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing. Indien de vreemdeling na het indienen van zijn verzoek is overleden, geschiedt de toekenning ten behoeve van zijn erfgenamen.
 
@@ -914,7 +939,7 @@ Met betrekking tot de kennisgeving van gerechtelijke mededelingen ingevolge de [
 
 ### Hoofdstuk 15. Algemene, straf- en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister onderscheidenlijk de korpschef verstrekt andere bestuursorganen de gegevens betreffende de verblijfsrechtelijke positie van de vreemdeling welke zij behoeven ter uitvoering van hun taak.
 
@@ -926,7 +951,7 @@ Met betrekking tot de kennisgeving van gerechtelijke mededelingen ingevolge de [
 
 5. Voor de toepassing van het eerste tot en met het vierde lid worden met bestuursorganen gelijk gesteld instellingsbesturen van uit de openbare kas bekostigde instellingen en bevoegde gezagsorganen van uit de openbare kas bekostigde scholen en instellingen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Bijzondere persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens BES kunnen worden verwerkt, voor zover deze gegevens noodzakelijk zijn voor de doelmatige en doeltref-fende uitvoering van de grensbewaking, de toelating, het verblijf en de uitzetting van vreemdelingen en het toezicht op vreemdelingen op grond van deze wet.
 
@@ -942,11 +967,11 @@ Met betrekking tot de kennisgeving van gerechtelijke mededelingen ingevolge de [
 
 - d. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts worden verwerkt voor het doel waarvoor ze zijn verzameld of voor zover het verwerken met dat doel verenigbaar is, alsmede hoe daarop wordt toegezien.
 
-#### Artikel 25
+##### Artikel 25
 
 Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een verdrag, dan wel van een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, regels worden gesteld in verband met de toelating tot verblijf van vreemdelingen, waarbij ten gunste van deze vreemdelingen kan worden afgeweken van deze wet.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Hij die de aan zijn toelating verbonden beperkingen of voorschriften niet nakomt, wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de tweede categorie.
 
@@ -954,10 +979,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een v
 
 3. De feiten bij of krachtens dit artikel strafbaar gesteld worden beschouwd als overtredingen.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze wet wordt aangehaald als: Wet toelating en uitzetting BES.
 
-#### Artikel 28 en 29
+##### Artikel 28 en 29
 
 [vervallen]

@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2017"
+title: "Regeling van de Minister van Economische Zaken van 24 oktober 2016, nr. WJZ/16143227, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2017 (Regeling vaststelling voorschotverlening duurzame energieproductie 2017)"
 identifier: "BWBR0038663"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038663"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038663"
+soort: "ministeriele-regeling"
+stam_id: "13780133"
+version_id: "23631452"
+internal_id: "C34014241"
+label_id: "13746404"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038663/2017-01-01/0"
+intitule_bron: "Stcrt.2016-57010"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-24"
+intitule_published: "2016-10-31"
+intitule_in_force: "2016-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-57010"
+original_signed_date: "2016-10-24"
+original_published_date: "2016-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-57010"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038663&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038663&g=2017-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling voorschotverlening duurzame energieproductie 2017"
+signed_date: "2016-10-24"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 24 oktober 2016, nr. WJZ/16143227, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2017 (Regeling vaststelling voorschotverlening duurzame energieproductie 2017)
 
 Gelet op [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), en [47, vijfde lid, van het Besluit stimulering duurzame energie productie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2017 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de vierde kolom genoemde bedrag.
 
@@ -185,7 +211,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=16) | Osmose | € 0,039 per kWh | € 0 per kWh |
 | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=18) | Vrije stromingsenergie, valhoogte < 50 cm | € 0,039 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2017 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -206,7 +232,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie, 
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2017 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -285,7 +311,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie, bedoeld in het in de eerste kolom genoemde artikel, worden voor 2017 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), of [47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, of artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.
 
@@ -413,11 +439,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie, b
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling voorschotverlening duurzame energieproductie 2017.
 

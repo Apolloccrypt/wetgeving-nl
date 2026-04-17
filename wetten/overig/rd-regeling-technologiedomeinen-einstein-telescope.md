@@ -1,20 +1,46 @@
 ---
-title: "R&D-regeling technologiedomeinen Einstein Telescope"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41107325, houdende regels voor de subsidieverstrekking voor technologiedomeinen voor de Einstein Telescope (R&D regeling technologiedomeinen Einstein Telescope)"
 identifier: "BWBR0048766"
-categorie: "Overig"
-publicatiedatum: 2024-10-26
-laatste_update: 2024-10-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048766"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-26"
+last_updated: "2024-10-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048766"
+soort: "ministeriele-regeling"
+stam_id: "16887113"
+version_id: "30379942"
+internal_id: "C43566991"
+label_id: "16799234"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048766/2024-10-26/0"
+intitule_bron: "Stcrt.2023-28781"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-10"
+intitule_published: "2023-10-23"
+intitule_in_force: "2023-10-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34577"
+original_signed_date: "2024-10-16"
+original_published_date: "2024-10-25"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-34577"
+entry_into_force_date: "2024-10-16"
+jci_1_3: "jci1.3:c:BWBR0048766&z=2024-10-26&g=2024-10-26"
+jci_1_0: "1.0:c:BWBR0048766&g=2024-10-26"
+citeertitel_status: "officieel"
+short_title: "R&D-regeling technologiedomeinen Einstein Telescope"
+signed_date: "2024-10-16"
+entry_into_force: "2024-10-16"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 oktober 2023, nr. 41107325, houdende regels voor de subsidieverstrekking voor technologiedomeinen voor de Einstein Telescope (R&D regeling technologiedomeinen Einstein Telescope)
 
 Gelet op [artikel 1.2. van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,15 +72,15 @@ In deze regeling wordt verstaan onder:
 
 - **technologiedomein:** kennisgebied waarbinnen in het kader van de mogelijke bouw van de Einstein Telescope ontwikkeling en toepassing van innovaties nodig zijn.
 
-#### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
+##### Artikel 2. Toepassing Kaderregeling subsidies OCW, SZW en VWS
 
 Deze regeling geldt in aanvulling op de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 De regeling heeft als doel eraan bij te dragen dat de voor de Einstein Telescope relevante technologiedomeinen worden (door)ontwikkeld, om daarmee het hightech bedrijfsleven de mogelijkheid te bieden zich te positioneren op potentiële directe en indirecte valorisatie-effecten en om bij te dragen aan een optimaal innovatief ecosysteem voor de Einstein Telescope, mede om daarmee de kans te maximaliseren dat de Einstein Telescope in de Euregio Maas-Rijn kan worden gerealiseerd. Daartoe worden op grond van deze regeling subsidies verstrekt aan kwalificerende aanvragers voor het uitvoeren van onderzoeks- en ontwikkelingsactiviteiten, voor technologiedomeinen die relevant zijn voor de Einstein Telescope.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 De minister kan subsidie verstrekken voor de volgende activiteiten binnen een project:
 
@@ -64,7 +90,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - c. het uitvoeren van experimentele ontwikkeling.
 
-#### Artikel 5. Subsidiabele kosten
+##### Artikel 5. Subsidiabele kosten
 
 1. De volgende kosten zijn overeenkomstig artikel 25, derde lid, van de AGVV, subsidiabel:
 
@@ -88,7 +114,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 4. Wanneer de kosten zoals genoemd in het eerste lid niet tijdens hun volledige levensduur voor het project worden gebruikt, worden alleen de afschrijvingskosten overeenstemmend met de looptijd van het project, berekend volgens algemeen erkende boekhoudkundige beginselen, als subsidiabele kosten beschouwd.
 
-#### Artikel 6. Hoogte van de subsidie
+##### Artikel 6. Hoogte van de subsidie
 
 1. De subsidie bedraagt per aanvraag ten minste € 125.000,00.
 
@@ -108,13 +134,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - c. 15 procentpunten, indien voldaan wordt aan ten minste één van de voorwaarden, bedoeld in artikel 25, zesde lid AGVV.
 
-#### Artikel 7. Aanvrager
+##### Artikel 7. Aanvrager
 
 1. De subsidie wordt verleend aan en verantwoord door de aanvrager.
 
 2. Op de aanvrager rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 8. Subsidieaanvraag
+##### Artikel 8. Subsidieaanvraag
 
 1. De aanvrager kan subsidie aanvragen gedurende de openstellingsperiode voor een technologiedomein.
 
@@ -142,7 +168,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 - f. de samenwerkende partijen verbinden zich te voldoen aan het gevraagde subsidiebesluit en bijbehorende rapportage- en verantwoordingsverplichtingen en andere uit de subsidierelatie voortvloeiende subsidieverplichtingen en verantwoordelijkheden.
 
-#### Artikel 9. Beoordeling
+##### Artikel 9. Beoordeling
 
 1. De minister besluit over een subsidieaanvraag, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=8&z=2024-10-26&g=2024-10-26) aan de hand van de volgende criteria:
 
@@ -158,13 +184,13 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 3. Subsidie wordt slechts verleend indien alle criteria tenminste als voldoende worden beoordeeld.
 
-#### Artikel 10. Rangschikking aanvragen
+##### Artikel 10. Rangschikking aanvragen
 
 1. De aanvragen worden gerangschikt volgens de systematiek zoals bedoeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=1&z=2024-10-26&g=2024-10-26) bij deze regeling.
 
 2. Indien door toekenning van alle daarvoor in aanmerking komende aanvragen met betrekking tot een bepaald technologiedomein het toepasselijke subsidieplafond zou worden overschreden, kent de minister subsidie toe, op basis van de in het eerste lid bedoelde rangschikking in volgorde van de hoogst gerangschikte aanvragen.
 
-#### Artikel 11. Subsidieplafond
+##### Artikel 11. Subsidieplafond
 
 1. Voor subsidieverstrekking op grond van deze regeling is in totaal een bedrag van € 12.085.000,00 beschikbaar. Van dit bedrag is voor het technologiedomein:
 
@@ -180,7 +206,7 @@ De minister kan subsidie verstrekken voor de volgende activiteiten binnen een pr
 
 2. De minister stelt per openstellingsperiode een subsidieplafond vast en werkt de technologiedomeinen per openstelling uit als [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=2&z=2024-10-26&g=2024-10-26), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=4&z=2024-10-26&g=2024-10-26), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=5&z=2024-10-26&g=2024-10-26), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=6&z=2024-10-26&g=2024-10-26) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&bijlage=7&z=2024-10-26&g=2024-10-26) bij deze regeling die door wijziging van deze regeling aan deze regeling zal worden gevoegd.
 
-#### Artikel 12. Weigeringsgronden
+##### Artikel 12. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) kan de subsidieverstrekking worden geweigerd, indien:
 
@@ -192,7 +218,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - d. een aanvraag inhoudelijk overwegend overlapt met een hoger gerangschikte aanvraag na rangschikking op grond van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048766&artikel=10&z=2024-10-26&g=2024-10-26).
 
-#### Artikel 13. Verplichtingen subsidie
+##### Artikel 13. Verplichtingen subsidie
 
 Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
@@ -210,7 +236,7 @@ Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
 - g. de aanvrager is verplicht om in het geval van een publicatie over het project de tekst ‘mede ondersteund door de ‘R&D-regeling technologiedomeinen Einstein Telescope’ te vermelden.
 
-#### Artikel 14. Subsidievaststelling
+##### Artikel 14. Subsidievaststelling
 
 1. Een aanvraag om subsidievaststelling wordt ingediend met gebruikmaking van een modelformulier dat daartoe door de minister beschikbaar wordt gesteld.
 
@@ -220,13 +246,13 @@ Aan de aanvrager worden de volgende verplichtingen opgelegd:
 
 4. De subsidie wordt uitsluitend besteed aan de activiteiten waarvoor deze wordt verleend. Niet-bestede middelen worden teruggevorderd.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat de regeling van toepassing blijft op subsidies die zijn verleend op grond van deze regeling.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: R&D-regeling technologiedomeinen Einstein Telescope.
 

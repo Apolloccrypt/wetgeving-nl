@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing Halt-feiten 2024"
+title: "Besluit van 14 juni 2024, houdende aanwijzing van de strafbare feiten als bedoeld in artikel 77e, eerste lid, van het Wetboek van Strafrecht (Besluit aanwijzing Halt-feiten 2024)"
 identifier: "BWBR0049846"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049846"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049846"
+soort: "AMvB"
+stam_id: "17140013"
+version_id: "30165302"
+internal_id: "C43222201"
+label_id: "17048344"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049846/2026-01-01/0"
+intitule_bron: "Stb.2024-173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-14"
+intitule_published: "2024-06-21"
+intitule_in_force: "2024-06-21"
+intitule_status: "goed"
+original_publication: "Stb.2024-173"
+original_signed_date: "2024-06-14"
+original_published_date: "2024-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-173"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049846&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049846&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing Halt-feiten 2024"
+signed_date: "2024-06-14"
+entry_into_force: "2024-07-01"
 ---
-
 # Besluit van 14 juni 2024, houdende aanwijzing van de strafbare feiten als bedoeld in artikel 77e, eerste lid, van het Wetboek van Strafrecht (Besluit aanwijzing Halt-feiten 2024)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 17 januari 2024, directie Wetgeving en Juridische Zaken, nr. 5168009;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 7 juni 202
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder Halt-afdoening: een voorstel tot deelneming aan een project als bedoeld in [artikel 77e, eerste lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77e).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een Halt-afdoening kan worden aangeboden indien:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder Halt-afdoening: een voorstel tot deelneming 
 
 2. Een Halt-afdoening kan ten hoogste twee keer worden aangeboden.
 
-#### Artikel 3
+##### Artikel 3
 
 De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de opsporingsambtenaar zijn:
 
@@ -78,7 +104,7 @@ De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de op
 
 - r. [artikel 11, eerste lid, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=11), voor zover het betreft [artikel 3, onderdeel c, van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=3), waarbij de hoeveelheid minder is dan 5 gram.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de opsporingsambtenaar, na verleende toestemming daartoe van de officier van justitie, zijn:
 
@@ -100,7 +126,7 @@ De strafbare feiten waarvoor een Halt-afdoening kan worden aangeboden door de op
 
 2. Voor de strafbare feiten uit [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=3&z=2026-01-01&g=2026-01-01) waarbij de schade de maximale schadebedragen te boven gaat, kan de opsporingsambtenaar, na verleende toestemming daartoe van de officier van justitie en met inachtneming van de voorwaarden genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2026-01-01&g=2026-01-01), en de omstandigheden van het geval, een Halt-afdoening aanbieden, indien het schadebedrag niet meer bedraagt dan € 2.500 per dader en de totale schade niet meer dan € 7500, dan wel de waarde van het goed niet meer bedraagt dan € 1.000.
 
-#### Artikel 5
+##### Artikel 5
 
 Met inachtneming van de uitzonderlijke omstandigheden van het geval en na verleende toestemming daartoe van de officier van justitie, kan de opsporingsambtenaar in individuele zaken:
 
@@ -108,15 +134,15 @@ Met inachtneming van de uitzonderlijke omstandigheden van het geval en na verlee
 
 - b. afwijken van hetgeen in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049846&artikel=2&z=2026-01-01&g=2026-01-01), is bepaald.
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Besluit aanwijzing Halt-feiten](https://wetten.overheid.nl/jci1.3:c:BWBR0007217) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op 1 juli 2024.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit aanwijzing Halt-feiten 2024.
 

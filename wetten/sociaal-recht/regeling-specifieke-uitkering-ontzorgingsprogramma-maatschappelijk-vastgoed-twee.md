@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche"
+title: "Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 5 september 2022, nr. 2022-0000033803, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het ontzorgen van kleine maatschappelijk vastgoedeigenaren bij de verduurzaming van de gebouwde onroerende zaken die zij in eigendom hebben, tweede tranche (Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche)"
 identifier: "BWBR0047108"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-10-01
-laatste_update: 2024-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047108"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-01"
+last_updated: "2024-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047108"
+soort: "ministeriele-regeling"
+stam_id: "16473423"
+version_id: "28864162"
+internal_id: "C40867561"
+label_id: "16395364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047108/2024-10-01/0"
+intitule_bron: "Stcrt.2022-22589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-05"
+intitule_published: "2022-09-06"
+intitule_in_force: "2022-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22589"
+original_signed_date: "2022-09-05"
+original_published_date: "2022-09-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22589"
+entry_into_force_date: "2022-10-01"
+jci_1_3: "jci1.3:c:BWBR0047108&z=2024-10-01&g=2024-10-01"
+jci_1_0: "1.0:c:BWBR0047108&g=2024-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche"
+signed_date: "2022-09-05"
+entry_into_force: "2022-10-01"
 ---
-
 # Regeling van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 5 september 2022, nr. 2022-0000033803, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van het ontzorgen van kleine maatschappelijk vastgoedeigenaren bij de verduurzaming van de gebouwde onroerende zaken die zij in eigendom hebben, tweede tranche (Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **de minister:** de Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 2. Activiteiten waarvoor een uitkering kan worden verstrekt
 
 1. De minister kan op aanvraag een specifieke uitkering verstrekken aan provincies voor activiteiten die tot doel hebben om kleine maatschappelijk vastgoedeigenaren te ontzorgen bij het verduurzamen van hun maatschappelijk vastgoed.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 - d. het verstrekken van financiële middelen aan kleine maatschappelijk vastgoedeigenaren.
 
-#### Artikel 3. Hoogte van de uitkering en uitkeringsplafond
+##### Artikel 3. Hoogte van de uitkering en uitkeringsplafond
 
 1. Een specifieke uitkering bedraagt ten hoogste het per provincie genoemde bedrag in bijlage I verminderd met het bedrag aan compensabele BTW.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het bedrag aan compensabele BTW stort de minister in het BTW-compensatiefonds.
 
-#### Artikel 4. Aanvraagperiode en wijze van indienen
+##### Artikel 4. Aanvraagperiode en wijze van indienen
 
 1. Een aanvraag voor een specifieke uitkering kan worden ingediend vanaf 1 oktober 2024 tot en met 15 oktober 2024.
 
@@ -102,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 5. De minister beslist binnen acht weken na het sluiten van de aanvraagtermijn op een aanvraag.
 
-#### Artikel 5. In aanmerking komende kosten
+##### Artikel 5. In aanmerking komende kosten
 
 1. De kosten voor levering van goederen of diensten door derden worden door de aanvrager marktconform bepaald.
 
@@ -114,7 +140,7 @@ In deze regeling wordt verstaan onder:
 
 - b. BTW voor zover deze kosten in aanmerking komen voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 6. Beoordeling en weigeringsgronden
+##### Artikel 6. Beoordeling en weigeringsgronden
 
 Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
@@ -126,7 +152,7 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 - d. de aanvraag onvoldoende informatie bevat om te beoordelen op basis van de beoordelingscriteria, genoemd in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&bijlage=II&z=2024-10-01&g=2024-10-01).
 
-#### Artikel 7. Verplichtingen ontvanger specifieke uitkering
+##### Artikel 7. Verplichtingen ontvanger specifieke uitkering
 
 1. De ontvanger van de specifieke uitkering is verplicht om:
 
@@ -140,23 +166,23 @@ Een aanvraag voor een specifieke uitkering wordt afgewezen, indien:
 
 2. Indien de uitvoering van de activiteiten voor de datum, genoemd in het eerste lid, onder a, buiten de schuld van de ontvanger van de specifieke uitkering niet mogelijk is, kan de minister die termijn op schriftelijk en gemotiveerd verzoek van de ontvanger eenmaal met ten hoogste een jaar verlengen.
 
-#### Artikel 8. Bestemming niet-gebruikte middelen
+##### Artikel 8. Bestemming niet-gebruikte middelen
 
 1. De minister kan het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2027.
 
 2. In afwijking van het eerste lid kan de minister, indien sprake is van een verlenging van de termijn voor de uitvoering van de activiteiten als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047108&artikel=7&z=2024-10-01&g=2024-10-01), het restant van een specifieke uitkering terugvorderen, als de specifieke uitkering niet of niet geheel is besteed voor 1 mei 2028.
 
-#### Artikel 9. Verantwoording en terugvordering
+##### Artikel 9. Verantwoording en terugvordering
 
 1. De bijlage bij de jaarrekening over het jaar waarvoor de specifieke uitkering wordt verstrekt, bevat de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a) en [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Als uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet of niet volledig is besteed aan de activiteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 oktober 2024 en vervalt met ingang van 1 mei 2027, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die op grond van deze regeling vóór laatstgenoemde datum zijn verstrekt.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering ontzorgingsprogramma maatschappelijk vastgoed tweede tranche.
 

@@ -1,13 +1,39 @@
 ---
-title: "Bestuursreglement Instituut Mijnbouwschade Groningen"
+title: "Besluit van het Instituut Mijnbouwschade Groningen tot vaststelling van een bestuursreglement"
 identifier: "BWBR0049273"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-19
-laatste_update: 2024-01-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049273"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-19"
+last_updated: "2024-01-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049273"
+soort: "ministeriele-regeling"
+stam_id: "17010243"
+version_id: "29920552"
+internal_id: "C42886831"
+label_id: "16920204"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049273/2024-01-19/0"
+intitule_bron: "Stcrt.2024-759"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-21"
+intitule_published: "2024-01-18"
+intitule_in_force: "2024-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-759"
+original_signed_date: "2023-12-21"
+original_published_date: "2024-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-759"
+entry_into_force_date: "2024-01-19"
+jci_1_3: "jci1.3:c:BWBR0049273&z=2024-01-19&g=2024-01-19"
+jci_1_0: "1.0:c:BWBR0049273&g=2024-01-19"
+citeertitel_status: "officieel"
+short_title: "Bestuursreglement Instituut Mijnbouwschade Groningen"
+signed_date: "2023-12-21"
+entry_into_force: "2024-01-19"
 ---
-
 # Besluit van het Instituut Mijnbouwschade Groningen tot vaststelling van een bestuursreglement
 
 Gezien de goedkeuring van de Staatssecretaris van Economische Zaken en Klimaat van 21 december 2023;
@@ -16,7 +42,7 @@ Gelet op [artikel 8, eerste lid, van de Tijdelijke wet Groningen](https://wetten
 
 Besluit tot vaststelling van het volgende bestuursreglement:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - n. **Wet:** [Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252).
 
-#### Artikel 2. De wijze van inrichting van het Instituut
+##### Artikel 2. De wijze van inrichting van het Instituut
 
 1. Het bestuur geeft leiding aan het Instituut.
 
@@ -58,7 +84,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. Het Instituut kan aan een of meer leden dan wel medewerkers van het Bureau mandaat, volmacht en machtiging verlenen tot het namens het Instituut nemen van besluiten ter uitoefening van zijn taken en bevoegdheden, het verrichten van de daarmee verbonden rechtshandelingen en het verrichten van de daarmee samenhangende feitelijke handelingen.
 
-#### Artikel 3. Vervanging van leden
+##### Artikel 3. Vervanging van leden
 
 1. Bij afwezigheid van de voorzitter neemt de plaatsvervangend voorzitter de taken van de voorzitter waar. Het in dit besluit ten aanzien van de voorzitter bepaalde is van overeenkomstige toepassing.
 
@@ -66,13 +92,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. In het [Besluit Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043726) zijn nadere regels gesteld met betrekking tot de procedure omtrent benoeming, schorsing en ontslag en de rechtspositie van de leden.
 
-#### Artikel 4. Bureau
+##### Artikel 4. Bureau
 
 1. Medewerkers van het Bureau, die door de minister op grond van [artikel 5, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=5), aan het Instituut ter beschikking worden gesteld, kunnen door het bestuur aangenomen, geschorst en ontslagen worden, behoudens hetgeen bepaald in het [Besluit Mandaat, volmacht en machtiging IMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045641).
 
 2. Het bestuur is verantwoordelijk voor het Bureau. De leiding van de medewerkers van het Bureau kan door het bestuur worden opgedragen aan de directie.
 
-#### Artikel 5. Integriteit en vertrouwelijkheid
+##### Artikel 5. Integriteit en vertrouwelijkheid
 
 1. Elk lid, het Bureau, een commissie of werkgroep handelt integer en transparant.
 
@@ -80,7 +106,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. De leden nemen omtrent alle informatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard van die informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden. De voorgaande volzin is van overeenkomstige toepassing op medewerkers van het Bureau, degenen die het Instituut administratief of secretarieel hebben ondersteund, die een vergadering geheel of gedeeltelijk hebben bijgewoond of lid zijn van een commissie of werkgroep.
 
-#### Artikel 6. De wijze van besluitvorming
+##### Artikel 6. De wijze van besluitvorming
 
 1. Ieder lid heeft één stem.
 
@@ -102,7 +128,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 10. De voorzitter kan derden uitnodigen om een vergadering geheel of gedeeltelijk bij te wonen.
 
-#### Artikel 7. Vergaderorde
+##### Artikel 7. Vergaderorde
 
 1. De leden komen minimaal eenmaal per maand in vergadering bijeen, of vaker indien de voorzitter hiertoe besluit. De voorzitter bepaalt tijd en plaats van de vergadering.
 
@@ -114,7 +140,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 5. Een lid dat verhinderd is een vergadering bij te wonen, doet hiervan zo spoedig mogelijk mededeling aan de voorzitter. Als de voorzitter verhinderd is, doet deze hiervan zo spoedig mogelijk mededeling aan de plaatsvervangend voorzitter.
 
-#### Artikel 8. Verslaglegging
+##### Artikel 8. Verslaglegging
 
 1. De voorzitter wijst uit of buiten de leden een persoon aan die een verslag van de vergadering maakt, dat in een volgende vergadering wordt vastgesteld.
 
@@ -122,7 +148,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Alle verslagen van vergaderingen van de leden en besluiten die door de leden buiten vergadering zijn genomen worden ten kantore van het Instituut gehouden en liggen daar ter inzage voor de leden.
 
-#### Artikel 9. Commissies en werkgroepen
+##### Artikel 9. Commissies en werkgroepen
 
 1. Het bestuur bepaalt bij het instellen van een commissie de taak en samenstelling van deze commissie en kan voorzieningen treffen over de werkwijze van deze commissie. Het bestuur benoemt en ontslaat deelnemers van een ingestelde commissie.
 
@@ -130,7 +156,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Het bestuur kan werkgroepen, ook met externe deskundigen, instellen ter ondersteuning bij voorbereiding van de besluitvorming over bepaalde aangelegenheden. Het bepaalde in artikelen 9.1 en 9.2 is van overeenkomstige toepassing.
 
-#### Artikel 10. Het financiële beheer
+##### Artikel 10. Het financiële beheer
 
 1. Het Instituut draagt zorg voor het opstellen van een ontwerpbegroting met meerjarenraming.
 
@@ -138,13 +164,13 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Het Instituut draagt er zorg voor dat hij zich bij zijn bedrijfsvoering zo veel mogelijk richt op datgene wat gebruikelijk is bij een prudente rijksoverheid, onverlet de eigen verantwoordelijkheid van het Instituut.
 
-#### Artikel 11. De administratieve organisatie
+##### Artikel 11. De administratieve organisatie
 
 1. Het Instituut draagt zorg voor de opzet en werking van een adequaat managementinformatiesysteem.
 
 2. Het Instituut legt in een AO/IC-beschrijving het geheel van organisatorische maatregelen vast dat gericht is op het tot stand brengen en in stand houden van de informatievoorziening in en omtrent de organisatie van het Instituut en werking van de interne risicobeheersings- en controlesystemen.
 
-#### Artikel 12. Vertegenwoordiging
+##### Artikel 12. Vertegenwoordiging
 
 1. De voorzitter is belast met de uitvoering van de besluiten van het Instituut.
 
@@ -154,7 +180,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 4. De voorzitter vertegenwoordigt het Instituut zelfstandig in en buiten rechte.
 
-#### Artikel 13. Slotbepalingen
+##### Artikel 13. Slotbepalingen
 
 1. De voorzitter beslist in de gevallen waarin dit reglement niet voorziet.
 
@@ -162,7 +188,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 3. Een wijziging van dit bestuursreglement wordt gepubliceerd in de Staatscourant, waarna de wijziging in werking treedt.
 
-#### Artikel 14. Inwerkingtreding en citeertitel
+##### Artikel 14. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

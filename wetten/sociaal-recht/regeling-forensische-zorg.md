@@ -1,13 +1,39 @@
 ---
-title: "Regeling forensische zorg"
+title: "Regeling van de Minister voor Rechtsbescherming van 5 juli 2019, nummer 2628872, houdende de regels forensische zorg (Regeling forensische zorg)"
 identifier: "BWBR0042412"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-11-05
-laatste_update: 2021-11-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042412"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-05"
+last_updated: "2021-11-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042412"
+soort: "ministeriele-regeling"
+stam_id: "15122473"
+version_id: "25926142"
+internal_id: "C36939261"
+label_id: "15070684"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042412/2021-11-05/0"
+intitule_bron: "Stcrt.2019-38718"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-05"
+intitule_published: "2019-07-15"
+intitule_in_force: "2019-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-38718"
+original_signed_date: "2019-07-05"
+original_published_date: "2019-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-38718"
+entry_into_force_date: "2019-07-16"
+jci_1_3: "jci1.3:c:BWBR0042412&z=2021-11-05&g=2021-11-05"
+jci_1_0: "1.0:c:BWBR0042412&g=2021-11-05"
+citeertitel_status: "officieel"
+short_title: "Regeling forensische zorg"
+signed_date: "2019-07-05"
+entry_into_force: "2019-07-16"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 5 juli 2019, nummer 2628872, houdende de regels forensische zorg (Regeling forensische zorg)
 
 Gelet op de [artikelen 1.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), [2.7, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.7) en de [artikelen 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=1.2), [2.5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=2.5), [3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.1), [3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.2), [3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.7), en [6.7 van het Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.7);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **het besluit:** het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326).
 
-#### Artikel 2
+##### Artikel 2
 
 Forensische zorg, bedoeld in [artikel 1.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), omvat tevens:
 
@@ -50,11 +76,11 @@ Forensische zorg, bedoeld in [artikel 1.1, tweede lid, van de wet](https://wette
 
 ### Hoofdstuk 2. Gegevensverwerking
 
-#### Artikel 3
+##### Artikel 3
 
 De beveiliging van de gegevensverwerking die voortvloeit uit de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634) voldoet aan NEN-ISO-IEC 27001 en NEN-ISO-IEC 27002 of daaraan gelijkwaardige normen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De reclasseringsinstelling of zorgaanbieder die beschikt over een pro Justitiarapportage kan deze slechts verstrekken ten behoeve van wetenschappelijk of historisch onderzoek en statistiek nadat daartoe door het Nederlands Instituut voor Forensische Psychiatrie en Psychologie schriftelijk toestemming is verleend.
 
@@ -62,11 +88,11 @@ De beveiliging van de gegevensverwerking die voortvloeit uit de [wet](https://we
 
 ### Hoofdstuk 3. De aanwijzing als private instelling voor forensische zorg
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, bedoeld in [3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.2) wordt het model in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=1&z=2021-11-05&g=2021-11-05) bij deze regeling gebruikt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om in aanmerking te komen voor een aanwijzing als private instelling voor forensische zorg, bedoeld in [artikel 3.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.2) moet de instelling in ieder geval voldoen aan eisen ten aanzien van de beveiliging en de personele en materiële toerusting. Ten aanzien van die eisen worden beveiligingsniveaus onderscheiden.
 
@@ -76,7 +102,7 @@ Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, be
 
 4. De Minister kan controle ter plaatse verrichten ten behoeve van de beoordeling van een aanvraag tot aanwijzing als private instelling voor forensische zorg, bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.2).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opschorting van een aanwijzing als private instelling voor de verlening van forensische zorg op de gronden genoemd in [artikel 3.2, eerste lid, onder b, en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.2), bedraagt ten hoogste zes maanden. In uitzonderlijke gevallen kan de opschorting eenmaal worden verlengd met een periode van ten hoogste zes maanden.
 
@@ -92,7 +118,7 @@ Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, be
 
 7. Het besluit tot opheffing van de opschorting wordt schriftelijk aan de instelling bekend gemaakt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Minister kan een aanwijzing als private instelling voor forensische zorg intrekken, indien deze op een van de gronden genoemd in [artikel 3.2, eerste lid, onder b, of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.2) is opgeschort en de instelling naar zijn oordeel binnen de bij de opschorting aangegeven periode geen of onvoldoende adequate maatregelen heeft getroffen.
 
@@ -102,23 +128,23 @@ Voor de aanvraag tot aanwijzing als private instelling voor forensische zorg, be
 
 ### Hoofdstuk 4. Aantekeningen
 
-#### Artikel 9
+##### Artikel 9
 
 Als model voor de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de ter beschikking gestelde die van overheidswege wordt verpleegd, bedoeld in [artikel 3.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.4) wordt vastgesteld het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=2&z=2021-11-05&g=2021-11-05) bij deze regeling.
 
-#### Artikel 10
+##### Artikel 10
 
 Als model voor de aantekeningen van de beslissing tot beperking van het recht op onaantastbaarheid van het lichaam, van afzondering of van separatie, bedoeld in [artikel 3.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=3.5), wordt vastgesteld het formulier in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&bijlage=3&z=2021-11-05&g=2021-11-05) bij deze regeling.
 
 ### Hoofdstuk 5. Beheer rijksinstellingen
 
-#### Artikel 11
+##### Artikel 11
 
 De [Regeling beheer onroerende zaken Rijk 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040452) is van toepassing op het beheer van de rijksinstellingen.
 
 ### Hoofdstuk 6. Plaatsing en overplaatsing
 
-#### Artikel 12
+##### Artikel 12
 
 1. De plaatsende instantie of persoon, bedoeld in [artikel 6.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.1), plaatst de forensisch patiënt op basis van de indicatiestelling bedoeld in [5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=5.1) bij een zorgaanbieder die de geïndiceerde zorg op het vereiste beveiligingsniveau kan verlenen. De plaatsende instantie of persoon, bedoeld in artikel 6.1 van het besluit selecteert de zorgaanbieder aan de hand van de per vorm van forensische zorg vastgestelde criteria.
 
@@ -190,39 +216,39 @@ De [Regeling beheer onroerende zaken Rijk 2017](https://wetten.overheid.nl/jci1.
 
 - i. een relatie of familielid van de forensisch patiënt of diens slachtoffer is werkzaam in de instelling.
 
-#### Artikel 13
+##### Artikel 13
 
 De plaatsende instantie of persoon, bedoeld in [artikel 6.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.1), die het plaatsingsbesluit neemt, informeert de zorgaanbieder die de forensische zorg zal verlenen over het besluit door het beschikbaar te stellen aan de zorgaanbieder in het Informatiesysteem Forensische Zorg.
 
-#### Artikel 14
+##### Artikel 14
 
 De plaatsende instantie of persoon, bedoeld in [artikel 6.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.1), die het plaatsingsbesluit neemt, draagt zorg dat de voor de verlening van de forensische zorg relevante tenuitvoerleggingsgegevens en gegevens uit het persoonsdossier, bedoeld in [artikel 1, onder c en d, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1), worden verstrekt aan de zorgaanbieder of dat deze door de zorgaanbieder kunnen worden ingezien.
 
-#### Artikel 15
+##### Artikel 15
 
 [Artikelen 12 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042412&deel=I&hoofdstuk=6&artikel=12&z=2021-11-05&g=2021-11-05) zijn van overeenkomstige toepassing bij de beslissing tot een overplaatsing of overbrenging, bedoeld in [artikel 6.3 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042326&artikel=6.3).
 
 ## II
 
-#### Artikel 16
+##### Artikel 16
 
 wijzigt de Regeling melding bijzondere voorvallen verpleegden.
 
-#### Artikel 17
+##### Artikel 17
 
 wijzigt de Regeling melding ongeoorloofde afwezigheid.
 
-#### Artikel 18
+##### Artikel 18
 
 wijzigt Regeling vervoer van justitiabelen.
 
 ## III
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling forensische zorg.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met het tijdstip dat het [Besluit forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0042326) in werking is getreden.
 
@@ -234,13 +260,13 @@ Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte v
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Indien op grond van [artikel 76, tweede lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=76), de termijn voor plaatsing van een gedetineerde in een instelling voor verpleging van ter beschikking gestelden wordt verlengd omdat plaatsing niet mogelijk is, wordt de gedetineerde in de gelegenheid gesteld te worden gehoord. De gedetineerde ontvangt onverwijld schriftelijk en zoveel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling omtrent de beslissing.
 
 2. Zo nodig geschiedt het horen van de gedetineerde met bijstand van een tolk. Van het horen wordt aantekening gehouden.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. De directeur van de penitentiaire inrichting bij wie de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of de vrijheidsbenemende maatregel van een forensische patiënt die op grond van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15), of [artikel 43, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43) naar een instelling voor forensische zorg is overgebracht, beslist over het beëindigen van de overbrenging of het ontslag van de forensische patiënt indien:
 
@@ -254,7 +280,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 3. Indien feiten of omstandigheden bekend zijn geworden die wijzen op een onmiddellijk dreigend ontvluchtingsgevaar of een ernstig gevaar voor personen of goederen dat uitgaat van de forensische patiënt die op grond van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=15), of [artikel 43, vierde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=43) naar de instelling voor forensische zorg is overgebracht, zorgt de directeur van de penitentiaire inrichting bij wie de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of de vrijheidsbenemende maatregel voor spoedige overbrenging van de forensische patiënt naar de penitentiaire inrichting. De selectiefunctionaris van de Divisie Individuele Zaken van de Dienst Justitiële Inrichtingen wordt zo spoedig mogelijk van de overbrenging op de hoogte gesteld.
 
-#### Artikel 15c
+##### Artikel 15c
 
 Andere bijzondere voorvallen, bedoeld in [artikel 6.10, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=6.10), waarvan de zorgaanbieder, die zorg verleent aan een forensische patiënt die buiten de instelling of de penitentiaire inrichting verblijft bij welke de algemene verantwoordelijkheid ligt voor de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel, zeer spoedig melding doet, zijn:
 

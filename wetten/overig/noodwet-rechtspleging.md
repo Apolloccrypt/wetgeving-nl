@@ -1,14 +1,38 @@
 ---
-title: "Noodwet rechtspleging"
+title: "Wet van 23 september 1964, houdende voorzieningen ter waarborging van de voortzetting van de rechtspleging in geval van oorlog, oorlogsgevaar of daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
 identifier: "BWBR0002457"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002457"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002457"
+soort: "wet"
+stam_id: "1684513"
+version_id: "2482702"
+internal_id: "C2482701"
+label_id: "1638294"
+dtd_version: "2.0"
+original_entry_into_force: "1964-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002457/2013-01-01/0"
+intitule_bron: "Stb.1964-375"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-09-23"
+intitule_status: "goed"
+original_publication: "Stb.1964-375"
+original_signed_date: "1964-09-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "7233"
+entry_into_force_date: "1964-10-16"
+entry_into_force_dossier: "7233"
+jci_1_3: "jci1.3:c:BWBR0002457&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0002457&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Noodwet rechtspleging"
+signed_date: "1964-09-23"
+entry_into_force: "1964-10-16"
 ---
-
-# Noodwet rechtspleging
+# Wet van 23 september 1964, houdende voorzieningen ter waarborging van de voortzetting van de rechtspleging in geval van oorlog, oorlogsgevaar of daaraan verwante of daarmede verband houdende buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is in geval van oorl
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=2&z=2013-01-01&g=2013-01-01) tot en met [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=14&z=2013-01-01&g=2013-01-01) in werking worden gesteld.
 
@@ -30,13 +54,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=3&z=2013-01-01&g=2013-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=13&z=2013-01-01&g=2013-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=14&z=2013-01-01&g=2013-01-01) kunnen slechts voorzieningen worden getroffen, indien zij noodzakelijk zijn om ontwrichting van de rechtspleging tegen te gaan, dan wel onmiddellijk dreigende ontwrichting van de rechtspleging te voorkomen. De krachtens deze artikelen getroffen voorzieningen worden ingetrokken, zodra de omstandigheden dit toelaten.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -52,7 +76,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 6. De wijziging van het rechtsgebied van een gerecht is niet van invloed op krachtens de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) vastgestelde grenzen van de gebieden waarin de regionale eenheden van de politie de politietaak uitvoeren.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -62,7 +86,7 @@ Onze Minister van Veiligheid en Justitie kan bepalen, dat :
 
 - b. de bij een gerechtshof werkzame rechterlijke ambtenaren met rechtspraak belast tijdelijk kunnen optreden als rechter-plaatsvervanger of kantonrechter-plaatsvervanger bij één of meer door Onze Minister aangewezen rechtbanken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -70,7 +94,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. De personen, in het vorige lid bedoeld, die tijdelijk verblijven in het rechtsgebied van een gerecht, waarvoor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01) omschreven voorziening is getroffen, stellen zich, voorzover dit verenigbaar is met andere hun bij of krachtens de wet opgelegde plichten, terstond nadat die voorziening is getroffen of hun verblijf sedertdien aanvangt, voor de duur van hun verblijf ter beschikking van de president van het betrokken gerechtshof of de betrokken rechtbank. Deze verplichting geldt niet voor raadsheren-plaatsvervangers, rechters-plaatsvervangers en kantonrechters-plaatsvervangers; zij doen, tenzij zij wegens hun bij of krachtens de wet opgelegde plichten niet voor rechtspraak beschikbaar zijn, mededeling van hun verblijf aan bedoelde president.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -80,7 +104,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. De president van een rechtbank waarvoor de in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01), omschreven voorziening is getroffen, kan rechterlijke ambtenaren met rechtspraak belast bij die rechtbank aanwijzen voor de tijdelijke waarneming van de dienst van het openbaar ministerie bij die rechtbank.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -88,7 +112,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. De president van een rechtbank, waarvoor de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01) omschreven voorziening is getroffen, kan in afwijking van de aanwijzing als bedoeld in [artikel 14, derde lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=14) gerechtsambtenaren werkzaamheden van de griffier opdragen.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -98,7 +122,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Iedere elders aangestelde deurwaarder wordt geacht mede te zijn aangesteld bij een gerecht, waarvoor een voorziening, als omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01), is getroffen.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -106,7 +130,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Gelijke bevoegdheid als in het vorige lid omschreven, berust bij de president van een rechtbank, waarvoor de voorziening, omschreven in [artikel 4, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01), is getroffen, ten aanzien van die rechtbank, met dien verstande dat zittingen van de rechtbank alleen kunnen worden gehouden binnen het rechtsgebied van de rechtbank.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -116,7 +140,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Voor de vervanging van de president van een gerechtshof of een rechtbank, bedoeld in dit artikel, komen degenen, die krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=5&z=2013-01-01&g=2013-01-01) tijdelijk kunnen optreden, niet in aanmerking.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -128,35 +152,35 @@ In het rechtsgebied van een gerecht, waarvoor een in [artikel 4](https://wetten.
 
 - c. is tijdelijk bij door de rechter te verrichten buitengerechtelijke handelingen in burgerlijke zaken procureurstelling niet vereist.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Indien Onze Minister van Veiligheid en Justitie een krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=4&z=2013-01-01&g=2013-01-01) getroffen voorziening intrekt, vervallen de ten aanzien van het betrokken gerecht of de betrokken gerechten bij en krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=5&z=2013-01-01&g=2013-01-01)-[11](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=11&z=2013-01-01&g=2013-01-01) getroffen voorzieningen behoudens voor aanhangige zaken. Bij een enkelvoudige kamer aanhangige zaken, die bij een meervoudige kamer behoren, worden echter door deze laatste overgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister van Veiligheid en Justitie kan bepalen, dat de rechter in burgerlijke en strafzaken wettelijke voorschriften betreffende termijnen en vormen, indien deze ten gevolge van de buitengewone omstandigheden in redelijkheid niet konden of kunnen worden in acht genomen, buiten beschouwing kan laten.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
 Onze Minister van Veiligheid en Justitie kan bepalen, dat de beslissingen in strafzaken van bepaalde gerechtshoven, of rechtbanken, niettegenstaande [artikelen 557-560 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=557), ten uitvoer kunnen worden gelegd. Zodra de uitvoering van een beslissing een aanvang heeft genomen, vervallen de gewone rechtsmiddelen.
 
-#### Artikel 15
+##### Artikel 15
 
 Krachtens deze wet door Onze Minister van Veiligheid en Justitie te nemen besluiten treden, tenzij daarbij anders is bepaald, in werking met ingang van de dag na die van hun bekendmaking. Zij kunnen bepalen, dat zij onmiddellijk na hun bekendmaking in werking treden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Krachtens deze wet door Onze Minister van Veiligheid en Justitie te nemen besluiten worden bekendgemaakt in de **Nederlandse Staatscourant**.
 
 2. Indien het landsbelang dit naar zijn oordeel noodzakelijk maakt, kan Onze Minister van Veiligheid en Justitie een besluit, als bedoeld in het vorige lid, op andere wijze bekendmaken.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -168,19 +192,19 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 4. Gedurende de tijd dat de in het eerste lid bedoelde verklaring van kracht is, nemen mobiele rechtbanken ingesteld krachtens de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), onverminderd hun rechtsmacht op grond van die wet, kennis van de strafbare feiten door wie ook begaan in het gebied waarop de in het eerste lid bedoelde verklaring betrekking heeft.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij algemene maatregel van bestuur worden de autoriteiten aangewezen, die onder daarbij te stellen regelen in enig gebied de bevoegdheden, welke bij deze wet aan Onze Minister van Veiligheid en Justitie worden toegekend, uitoefenen voor zolang de verbinding tussen dat gebied en Onze Minister is verbroken. Ons besluit wordt mede bekendgemaakt in de **Nederlandse Staatscourant**.
 
-#### Artikel 19
+##### Artikel 19
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze wet kan worden aangehaald als: Noodwet rechtspleging.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Met uitzondering van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=2&z=2013-01-01&g=2013-01-01)-[14](https://wetten.overheid.nl/jci1.3:c:BWBR0002457&artikel=14&z=2013-01-01&g=2013-01-01) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad**, waarin zij is geplaatst.
 

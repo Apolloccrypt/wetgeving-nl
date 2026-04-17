@@ -1,13 +1,35 @@
 ---
 title: "Tweede Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie"
 identifier: "BWBV0005016"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-12-01
-laatste_update: 2010-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005016"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-12-01"
+last_updated: "2010-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005016"
+soort: "verdrag"
+stam_id: "10004434013"
+version_id: "10004640652"
+internal_id: "C10008343391"
+label_id: "10004418964"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005016/2010-12-01/0"
+intitule_bron: "Trb.2007-213"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-11-06"
+intitule_in_force: "2011-02-04"
+intitule_status: "goed"
+original_publication: "Trb.2007-213"
+original_published_date: "2007-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-213"
+entry_into_force_date: "2010-12-01"
+jci_1_3: "jci1.3:c:BWBV0005016&z=2010-12-01&g=2010-12-01"
+jci_1_0: "1.0:c:BWBV0005016&g=2010-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-12-01"
 ---
-
 # Tweede Aanvullend Protocol bij de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds, in verband met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -80,21 +102,21 @@ Zijn het volgende overeengekomen:
 
 ### AFDELING I. OVEREENKOMSTSLUITENDE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Bulgarije en Roemenië behoren sinds 1 januari 2007 tot de overeenkomstsluitende partijen.
 
 ### AFDELING II. OORSPRONGSREGELS
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bepalingen van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001575) zijn van toepassing op goederen die worden uitgevoerd uit Chili naar een van de nieuwe lidstaten of uit een van de nieuwe lidstaten naar Chili, die voldoen aan het bepaalde in bijlage III bij de Overeenkomst en die op de dag van toetreding onderweg zijn of zich in tijdelijke opslag bevinden in een douane-entrepot of in een vrije zone in Chili of de betrokken nieuwe lidstaat.
 
@@ -102,31 +124,31 @@ Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen d
 
 ### AFDELING III. HANDEL IN DIENSTEN EN VESTIGING
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
 ### AFDELING IV. OVERHEIDSOPDRACHTEN
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Republiek Chili, anderzijds; Brussel, 18 november 2002.
 
 ### AFDELING V. ALGEMENE BEPALINGEN EN SLOTBEPALINGEN
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit protocol wordt door de Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door Chili gesloten volgens hun respectieve interne procedures.
 
@@ -138,12 +160,12 @@ Wijzigt de Overeenkomst waarbij een associatie tot stand wordt gebracht tussen d
 
 5. Indien een bepaling van dit protocol door de partijen in afwachting van de inwerkingtreding wordt toegepast, wordt elke verwijzing in dergelijke bepalingen naar de inwerkingtreding van dit protocol gelezen als een verwijzing naar de datum waarop de partijen overeenkomen de betrokken bepaling overeenkomstig lid 3 toe te passen.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit protocol is opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
 Binnen drie maanden na de ondertekening van dit protocol zal de Europese Gemeenschap de Bulgaarse en de Roemeense taalversies van dit protocol aan Chili doen toekomen. Onder voorbehoud van de inwerkingtreding van dit protocol worden de nieuwe taalversies authentiek onder dezelfde voorwaarden als de versies die zijn opgesteld in de huidige talen van dit protocol.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit protocol vormt een integrerend onderdeel van de [Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001575). De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBV0005016&bijlage=I&z=2010-12-01&g=2010-12-01) bij dit protocol vormen een integrerend onderdeel daarvan.

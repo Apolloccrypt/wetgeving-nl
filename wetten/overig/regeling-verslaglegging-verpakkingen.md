@@ -1,20 +1,46 @@
 ---
-title: "Regeling verslaglegging verpakkingen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 20 september 2021, nr. IENW/BSK-2021/242116, houdende vaststelling van nadere regels voor het verslag over de uitvoering van de regeling voor uitgebreide producentenverantwoordelijkheid inzake verpakkingen in het Besluit beheer verpakkingen 2014 (Regeling verslaglegging verpakkingen)"
 identifier: "BWBR0045640"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045640"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045640"
+soort: "ministeriele-regeling"
+stam_id: "16082133"
+version_id: "28015002"
+internal_id: "C39520101"
+label_id: "16012924"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045640/2024-01-01/0"
+intitule_bron: "Stcrt.2021-41457"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-09-20"
+intitule_published: "2021-09-23"
+intitule_in_force: "2021-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-41457"
+original_signed_date: "2021-09-20"
+original_published_date: "2021-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-41457"
+entry_into_force_date: "2021-10-01"
+jci_1_3: "jci1.3:c:BWBR0045640&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045640&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verslaglegging verpakkingen"
+signed_date: "2021-09-20"
+entry_into_force: "2021-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 20 september 2021, nr. IENW/BSK-2021/242116, houdende vaststelling van nadere regels voor het verslag over de uitvoering van de regeling voor uitgebreide producentenverantwoordelijkheid inzake verpakkingen in het Besluit beheer verpakkingen 2014 (Regeling verslaglegging verpakkingen)
 
 Gelet op [artikel 9.5.2, zevende lid, Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2);
 
 BESLUIT:
 
-#### Artikel 1. (Begripsomschrijvingen)
+##### Artikel 1. (Begripsomschrijvingen)
 
 In deze regeling worden verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling worden verstaan onder:
 
 - **verslag:** het verslag bedoeld in [artikel 8 van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=8) dan wel [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5).
 
-#### Artikel 2. (Algemene bepalingen)
+##### Artikel 2. (Algemene bepalingen)
 
 1. De producent of importeur maakt bij het indienen van het verslag over de uitvoering van de [artikelen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=5a), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6a), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=6b) en [7 van het Besluit beheer verpakkingen 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035711&artikel=7) gebruik van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&bijlage=1&z=2024-01-01&g=2024-01-01) opgenomen tabellen en vult deze in met inachtneming van de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=3&z=2024-01-01&g=2024-01-01).
 
@@ -42,7 +68,7 @@ In deze regeling worden verstaan onder:
 
 - c. een beschrijving in het monitoringsprotocol van de wijze waarop de producentenorganisatie de juistheid van de aan hem door een producent of importeur aangeleverde gegevens over de uitvoering van de in het eerste lid genoemde verplichtingen heeft geverifieerd.
 
-#### Artikel 3. (Hoeveelheid gebruikte verpakkingen)
+##### Artikel 3. (Hoeveelheid gebruikte verpakkingen)
 
 1. Bij het bepalen van het gewicht van de hoeveelheid gebruikte verpakkingen:
 
@@ -52,7 +78,7 @@ In deze regeling worden verstaan onder:
 
 2. Indien bij het bepalen van de hoeveelheid gebruikte verpakkingen ramingen worden toegepast, worden deze in het monitoringsprotocol toegelicht en onderbouwd.
 
-#### Artikel 4. (Hergebruikte verpakkingen)
+##### Artikel 4. (Hergebruikte verpakkingen)
 
 1. Bij het bepalen van het gewicht van de hoeveelheid hergebruikte verpakkingen:
 
@@ -62,7 +88,7 @@ In deze regeling worden verstaan onder:
 
 2. Het monitoringsprotocol bevat een opsomming en beschrijving van de systemen voor hergebruik van verpakkingen bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 5. (Gerecycled verpakkingsafval)
+##### Artikel 5. (Gerecycled verpakkingsafval)
 
 1. Bij het bepalen van het gewicht van de hoeveelheid gerecycled verpakkingsafval:
 
@@ -102,19 +128,19 @@ In deze regeling worden verstaan onder:
 
 - e. de wijze waarop is vastgesteld dat de recycling van verpakkingsafval buiten de Europese Unie heeft plaatsgevonden conform de voorwaarde bedoeld in [artikel 1, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=1&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt deze regeling.
 
-#### Artikel 7
+##### Artikel 7
 
 De [Regeling formulier verslaglegging verpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035143) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 oktober 2021 met uitzondering van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van 1 januari 2022 en [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045640&artikel=6&z=2024-01-01&g=2024-01-01), dat in werking treedt met ingang van 1 januari 2024.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling verslaglegging verpakkingen.
 

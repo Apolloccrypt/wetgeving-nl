@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake vroegtijdige kennisgeving van een nucleair ongeval"
 identifier: "BWBV0002139"
-categorie: "Internationaal recht"
-publicatiedatum: 1991-10-24
-laatste_update: 1991-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002139"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-10-24"
+last_updated: "1991-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002139"
+soort: "verdrag"
+stam_id: "10002673983"
+version_id: "10002672142"
+internal_id: "C10006979131"
+label_id: "10002662334"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002139/1991-10-24/0"
+intitule_bron: "Trb.1986-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-10-27"
+intitule_published: "1986-10-17"
+intitule_in_force: "1991-10-16"
+intitule_status: "goed"
+original_publication: "Trb.1986-125"
+original_signed_date: "1986-10-27"
+original_published_date: "1986-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-125"
+entry_into_force_date: "1991-10-24"
+jci_1_3: "jci1.3:c:BWBV0002139&z=1991-10-24&g=1991-10-24"
+jci_1_0: "1.0:c:BWBV0002139&g=1991-10-24"
+citeertitel_status: "officieel"
+signed_date: "1986-10-27"
+entry_into_force: "1991-10-24"
 ---
-
 # Verdrag inzake vroegtijdige kennisgeving van een nucleair ongeval
 
 De Staten die Partij bij dit Verdrag zijn,
@@ -24,7 +49,7 @@ Gezien het nut van bilaterale en multilaterale overeenkomsten inzake de uitwisse
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Reikwijdte van de toepassing
+##### Artikel 1. Reikwijdte van de toepassing
 
 1. Dit Verdrag is van toepassing op ieder ongeval waarbij installaties of werkzaamheden van een Staat die Partij bij dit Verdrag is, of van personen of rechtspersonen die onderzijn rechtsmacht of toezicht vallen, zoals bedoeld in het tweede lid van dit artikel, zijn betrokken en waarbij radioactieve stof vrijkomt of waarschijnlijk vrijkomt, hetgeen heeft geleid of kan leiden tot een internationale grensoverschrijdende uitstoot die voor een andere Staat belangrijk kan zijn met betrekking tot de beveiliging tegen vrijgekomen radioactieve stoffen.
 
@@ -42,7 +67,7 @@ Zijn als volgt overeengekomen:
 
 - f). het gebruik van radio-isotopen voor de opwekking van energie in ruimtevoorwerpen.
 
-#### Artikel 2. Kennisgeving en informatie
+##### Artikel 2. Kennisgeving en informatie
 
 Bij een in artikel 1 omschreven ongeval (hierna te noemen: een „nucleair ongeval”) dient de bij dit Verdrag Partij zijnde Staat die in dat artikel wordt bedoeld:
 
@@ -50,11 +75,11 @@ Bij een in artikel 1 omschreven ongeval (hierna te noemen: een „nucleair ongev
 
 - b). onmiddellijk de in a) bedoelde Staten, rechtstreeks of door tussenkomst van de Organisatie, en de Organisatie de informatie te verschaffen die van belang is voor het zoveel mogelijk beperken van de gevolgen van de vrijgekomen radioactieve stoffen in deze Staten, zoals omschreven in artikel 5.
 
-#### Artikel 3. Andere nucleaire ongevallen
+##### Artikel 3. Andere nucleaire ongevallen
 
 Ten einde de gevolgen van het vrijkomen van radioactieve stoffen zoveel mogelijk te beperken, kunnen de Staten die Partij bij dit Verdrag zijn, ook kennis geven van andere nucleaire ongevallen dan die welke zijn omschreven in artikel 1.
 
-#### Artikel 4. Taken van de Organisatie
+##### Artikel 4. Taken van de Organisatie
 
 De Organisatie dient:
 
@@ -62,7 +87,7 @@ De Organisatie dient:
 
 - b). onmiddellijk elke Staat die Partij bij dit Verdrag is, elke Lidstaat of elke desbetreffende internationale organisatie, op verzoek, de ingevolge het bepaalde in b) van artikel 2 ontvangen informatie te verschaffen.
 
-#### Artikel 5. Te verschaffen informatie
+##### Artikel 5. Te verschaffen informatie
 
 1. De ingevolge het bepaalde in b) van artikel 2 te verschaffen informatie omvat de volgende gegevens waarover de Staat die Partij bij dit Verdrag is, op dat tijdstip beschikt:
 
@@ -86,11 +111,11 @@ De Organisatie dient:
 
 3. De ingevolge het bepaalde in b) van artikel 2 ontvangen informatie kan zonder beperking worden gebruikt, behalve indien deze informatie vertrouwelijk wordt verstrekt door de kennisgevende Staat die Partij bij dit Verdrag is.
 
-#### Artikel 6. Overleg
+##### Artikel 6. Overleg
 
 Een Staat die Partij bij dit Verdrag is en informatie ingevolge het bepaalde in b) van artikel 2 verschaft, geeft, voor zover zulks in redelijkheid uitvoerbaar is, onmiddellijk gehoor aan een verzoek om verdere informatie of nader overleg, dat door een getroffen Staat die Partij bij dit Verdrag is, is gedaan om de gevolgen van de vrijgekomen radioactieve stoffen in deze Staat zoveel mogelijk te beperken.
 
-#### Artikel 7. Bevoegde autoriteiten en contactpunten
+##### Artikel 7. Bevoegde autoriteiten en contactpunten
 
 1. Elke Staat die Partij bij dit Verdrag is, stelt de Organisatie en de overige Staten die Partij bij dit Verdrag zijn, rechtstreeks of door tussenkomst van de Organisatie, in kennis van zijn bevoegde autoriteiten en het contactpunt dat verantwoordelijk is voor de uitgifte en de ontvangst van de in artikel 2 bedoelde kennisgeving en informatie. Deze contactpunten, alsmede een centraal punt binnen de Organisatie, dienen permanent bereikbaar te zijn.
 
@@ -98,19 +123,19 @@ Een Staat die Partij bij dit Verdrag is en informatie ingevolge het bepaalde in 
 
 3. De Organisatie houdt een lijst bij van deze nationale autoriteiten en contactpunten, alsmede van de contactpunten van de relevante internationale organisaties, en zendt deze toe aan de Staten die Partij bij dit Verdrag zijn, aan de Lidstaten en aan de relevante internationale organisaties.
 
-#### Artikel 8. Bijstand aan Staten die Partij bij dit Verdrag zijn
+##### Artikel 8. Bijstand aan Staten die Partij bij dit Verdrag zijn
 
 Overeenkomstig haar [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0004777) en op verzoek van een Staat die Partij bij dit Verdrag is, doch zelf geen werkzaamheden op nucleair gebied verricht en grenst aan een Staat die een nucleair programma uitvoert, doch geen Partij bij dit Verdrag is, stelt de Organisatie een onderzoek in naar de mogelijkheid en de instelling van een passend systeem voor het meten van radioactiviteit, ten einde de verwezenlijking van de doeleinden van dit Verdrag te vergemakkelijken.
 
-#### Artikel 9. Bilaterale en multilaterale overeenkomsten
+##### Artikel 9. Bilaterale en multilaterale overeenkomsten
 
 Ter bevordering van hun gemeenschappelijke belangen kunnen de Staten die Partij bij dit Verdrag zijn, overwegen, waar zulks dienstig lijkt, bilaterale of multilaterale overeenkomsten te sluiten met betrekking tot de inhoud van dit Verdrag.
 
-#### Artikel 10. Verhouding tot andere internationale overeenkomsten
+##### Artikel 10. Verhouding tot andere internationale overeenkomsten
 
 Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit Verdrag zijnde Staten krachtens bestaande internationale overeenkomsten die betrekking hebben op de in dit Verdrag voorziene aangelegenheden, of krachtens toekomstige internationale overeenkomsten die worden gesloten in overeenstemming met het onderwerp en het doel van dit Verdrag, niet aan.
 
-#### Artikel 11. Regeling van geschillen
+##### Artikel 11. Regeling van geschillen
 
 1. Ingeval zich een geschil voordoet tussen Staten die Partij bij dit Verdrag zijn, of tussen een Staat die Partij bij dit Verdrag is, en de Organisatie betreffende de uitlegging of de toepassing van dit Verdrag, plegen de partijen bij het geschil overleg, ten einde het geschil te regelen door middel van onderhandeling of door enig ander vreedzaam middel voor de regeling van geschillen dat voor hen aanvaardbaar is.
 
@@ -120,7 +145,7 @@ Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit 
 
 4. Een Staat die Partij bij dit Verdrag is en een verklaring heeft afgegeven overeenkomstig het bepaalde in het derde lid, kan deze te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten en door Namibië, vertegenwoordigd door de Raad voor Namibië van de Verenigde Naties, op de Zetel van de Internationale Organisatie voor Atoomenergie te Wenen, alsmede op de Zetel van de Verenigde Naties te New York, met ingang van 26 september 1986 onderscheidenlijk 6 oktober 1986 tot aan de inwerkingtreding ervan of gedurende twaalf maanden, welk van deze tijdvakken het langst is.
 
@@ -138,11 +163,11 @@ Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit 
 
 - d). Een dergelijke organisatie heeft geen aanvullende stem bij de stemmen van haar Lidstaten.
 
-#### Artikel 13. Voorlopige toepassing
+##### Artikel 13. Voorlopige toepassing
 
 Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag voor deze Staat in werking treedt, verklaren dit Verdrag voorlopig toe te passen.
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 1. Een Staat die Partij bij dit Verdrag is, kan voorstellen tot wijziging van dit Verdrag doen. De voorgestelde wijziging wordt voorgelegd aan de depositaris, die deze onmiddellijk toezendt aan alle overige Staten die Partij bij dit Verdrag zijn.
 
@@ -150,13 +175,13 @@ Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag vo
 
 3. Het protocol treedt in werking dertig dagen nadat drie Staten hun instemming door dit protocol gebonden te worden tot uitdrukking hebben gebracht. Voor elke Staat die na de inwerkingtreding van het protocol zijn instemming daardoor gebonden te worden tot uitdrukking brengt, treedt het protocol in werking dertig dagen na de datum waarop zijn instemming tot uitdrukking is gebracht.
 
-#### Artikel 15. Opzegging
+##### Artikel 15. Opzegging
 
 1. Een Staat die Partij bij dit Verdrag is, kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht één jaar na de datum waarop de kennisgeving door de depositaris wordt ontvangen.
 
-#### Artikel 16. Depositaris
+##### Artikel 16. Depositaris
 
 1. De Directeur-Generaal van de Organisatie is de depositaris van dit Verdrag.
 
@@ -174,7 +199,7 @@ Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag vo
 
 - f). een opzegging, geschied krachtens het bepaalde in artikel 15.
 
-#### Artikel 17. Authentieke teksten en gewaarmerkte afschriften
+##### Artikel 17. Authentieke teksten en gewaarmerkte afschriften
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Directeur-Generaal van de Internationale Organisatie voor Atoomenergie, die een gewaarmerkt afschrift zendt aan alle Staten die Partij bij dit Verdrag zijn, en aan alle overige Staten.
 

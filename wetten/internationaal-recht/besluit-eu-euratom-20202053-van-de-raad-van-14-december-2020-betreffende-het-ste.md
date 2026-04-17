@@ -1,13 +1,35 @@
 ---
 title: "Besluit (EU, Euratom) 2020/2053 van de Raad van 14 december 2020 betreffende het stelsel van eigen middelen van de Europese Unie en tot intrekking van Besluit 2014/335/EU, Euratom"
 identifier: "BWBV0006891"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-06-01
-laatste_update: 2021-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006891"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-06-01"
+last_updated: "2021-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006891"
+soort: "verdrag"
+stam_id: "10005572303"
+version_id: "10006091562"
+internal_id: "C10009826961"
+label_id: "10005555184"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006891/2021-06-01/0"
+intitule_bron: "Trb.2021-5"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-01-12"
+intitule_in_force: "2021-06-04"
+intitule_status: "goed"
+original_publication: "Trb.2021-5"
+original_published_date: "2021-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2021-5"
+entry_into_force_date: "2021-06-01"
+jci_1_3: "jci1.3:c:BWBV0006891&z=2021-06-01&g=2021-06-01"
+jci_1_0: "1.0:c:BWBV0006891&g=2021-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2021-06-01"
 ---
-
 # Besluit (EU, Euratom) 2020/2053 van de Raad van 14 december 2020 betreffende het stelsel van eigen middelen van de Europese Unie en tot intrekking van Besluit 2014/335/EU, Euratom
 
 De Raad van de Europese Unie,
@@ -88,11 +110,11 @@ Om de transitie naar het herziene stelsel van eigen middelen te waarborgen en om
 
 Heeft het volgende besluit vastgesteld:
 
-#### Artikel 1. Onderwerp
+##### Artikel 1. Onderwerp
 
 Bij dit besluit worden de voorschriften vastgesteld voor de toekenning van eigen middelen aan de Unie om de financiering van de jaarlijkse begroting van de Unie te waarborgen.
 
-#### Artikel 2. Categorieën eigen middelen en specifieke berekeningsmethoden
+##### Artikel 2. Categorieën eigen middelen en specifieke berekeningsmethoden
 
 1. De in de Uniebegroting opgevoerde eigen middelen worden gevormd door de ontvangsten uit:
 
@@ -118,7 +140,7 @@ Onder bni in de zin van lid 1, onder d), wordt verstaan een jaarlijks bni, uitge
 
 5. Indien de Uniebegroting bij het begin van het begrotingsjaar niet is vastgesteld, blijven de bestaande uniforme bni-afdrachtpercentages van toepassing tot de inwerkingtreding van de nieuwe percentages.
 
-#### Artikel 3. Maxima van de eigen middelen
+##### Artikel 3. Maxima van de eigen middelen
 
 1. Het totale bedrag van de aan de Unie ter dekking van de jaarlijkse betalingskredieten toegewezen eigen middelen is niet hoger dan 1,40 % van de som van de bni's van alle lidstaten.
 
@@ -138,11 +160,11 @@ waarbij:
 
 - –. „ESR” het Europees systeem van nationale en regionale rekeningen in de Unie is.
 
-#### Artikel 4. Gebruik van op kapitaalmarkten geleende middelen
+##### Artikel 4. Gebruik van op kapitaalmarkten geleende middelen
 
 De Unie gebruikt op kapitaalmarkten geleende middelen niet voor de financiering van beleidsuitgaven.
 
-#### Artikel 5. Buitengewone en tijdelijke aanvullende middelen ter bestrijding van de gevolgen van de COVID-19-crisis
+##### Artikel 5. Buitengewone en tijdelijke aanvullende middelen ter bestrijding van de gevolgen van de COVID-19-crisis
 
 1. Uitsluitend met het oog op het aanpakken van de gevolgen van de COVID-19-crisis door middel van de verordening van de Raad tot vaststelling van een herstelinstrument van de Europese Unie en de daarin genoemde sectorale wetgeving:
 
@@ -162,21 +184,21 @@ De door de Unie in een gegeven jaar verschuldigde bedragen voor de terugbetaling
 
 3. De Commissie treft de noodzakelijke regelingen voor het beheer van de transacties tot het opnemen van leningen. De Commissie informeert het Europees Parlement en de Raad regelmatig en uitgebreid over alle aspecten van haar strategie voor schuldbeheer. De Commissie stelt een tijdschema voor de uitgifte vast met de verwachte uitgiftedata en -volumes voor het komende jaar, en een plan met de verwachte aflossingen van de hoofdsom en rentebetalingen, en deelt het aan het Europees Parlement en de Raad mee. De Commissie actualiseert dat tijdschema regelmatig.
 
-#### Artikel 6. Buitengewone en tijdelijke verhoging van de maxima van de eigen middelen ten behoeve van de toewijzing van de voor de bestrijding van de gevolgen van de COVID-19-crisis benodigde middelen
+##### Artikel 6. Buitengewone en tijdelijke verhoging van de maxima van de eigen middelen ten behoeve van de toewijzing van de voor de bestrijding van de gevolgen van de COVID-19-crisis benodigde middelen
 
 De in [artikel 3, leden 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2021-06-01&g=2021-06-01), vastgestelde maxima worden elk tijdelijk verhoogd met 0,6 procentpunt met als enig doel alle verplichtingen van de Unie die voortvloeien uit haar in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=5&z=2021-06-01&g=2021-06-01) bedoelde leningen, te dekken totdat al deze verplichtingen zijn vervallen, en uiterlijk tot en met 31 december 2058.
 
 De verhoogde maxima van de eigen middelen mogen niet worden gebruikt ter dekking van andere verplichtingen van de Unie.
 
-#### Artikel 7. Universaliteitsbeginsel
+##### Artikel 7. Universaliteitsbeginsel
 
 De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-06-01) bedoelde ontvangsten worden zonder onderscheid gebruikt voor de financiering van alle uitgaven die in de jaarlijkse begroting van de Unie zijn opgenomen.
 
-#### Artikel 8. Overdracht van het overschot
+##### Artikel 8. Overdracht van het overschot
 
 Het eventuele overschot van de ontvangsten van de Unie ten opzichte van de totale werkelijke uitgaven gedurende een begrotingsjaar wordt naar het volgende begrotingsjaar overgedragen.
 
-#### Artikel 9. Inning van de eigen middelen en terbeschikkingstelling ervan aan de Commissie
+##### Artikel 9. Inning van de eigen middelen en terbeschikkingstelling ervan aan de Commissie
 
 1. De in [artikel 2, lid 1, onder a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-06-01), bedoelde eigen middelen worden door de lidstaten geïnd overeenkomstig de nationale wettelijke en bestuursrechtelijke bepalingen. De lidstaten passen die bepalingen waar nodig aan opdat zij aan de Unievoorschriften voldoen.
 
@@ -200,7 +222,7 @@ Indien een lidstaat een verzoek niet tijdig volledig of gedeeltelijk inwilligt o
 
 9. De toepassing van lid 5 mag er niet toe leiden toe dat jaarlijks kasmiddelen worden gevraagd die de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=3&z=2021-06-01&g=2021-06-01) bedoelde maxima van de eigen middelen overschrijden, zoals verhoogd overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=6&z=2021-06-01&g=2021-06-01).
 
-#### Artikel 10. Uitvoeringsmaatregelen
+##### Artikel 10. Uitvoeringsmaatregelen
 
 De Raad stelt, overeenkomstig de procedure van artikel 311, vierde alinea, VWEU, uitvoeringsmaatregelen vast ten aanzien van de volgende elementen van het stelsel van eigen middelen van de Unie:
 
@@ -208,7 +230,7 @@ De Raad stelt, overeenkomstig de procedure van artikel 311, vierde alinea, VWEU,
 
 - b. de voorschriften en regelingen welke noodzakelijk zijn voor de controle en het toezicht op de inning van de in [artikel 2, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006891&artikel=2&z=2021-06-01&g=2021-06-01), bedoelde eigen middelen en eventuele relevante rapportagevereisten.
 
-#### Artikel 11. Overgangs- en slotbepalingen
+##### Artikel 11. Overgangs- en slotbepalingen
 
 1. Behoudens het bepaalde in lid 2, wordt Besluit 2014/335/EU, Euratom ingetrokken. Verwijzingen naar Besluit 70/243/EGKS, EEG, Euratom van de Raad,13)Besluit 70/243/EGKS, EEG, Euratom van de Raad van 21 april 1970 betreffende de vervanging van de financiële bijdragen van de lidstaten door eigen middelen van de Gemeenschappen (PB L 94 van 28.4.1970, blz. 19). Besluit 85/257/EEG, Euratom van de Raad,14)Besluit 85/257/EEG, Euratom van de Raad van 7 mei 1985 betreffende het stelsel van eigen middelen van de Gemeenschappen (PB L 128 van 14.5.1985, blz. 15). Besluit 88/376/EEG, Euratom van de Raad,15)Besluit 88/376/EEG, Euratom van de Raad van 24 juni 1988 betreffende het stelsel van eigen middelen van de Gemeenschappen (PB L 185 van 15.7.1988, blz. 24). Besluit 94/728/EG, Euratom van de Raad,16)Besluit 94/728/EG, Euratom van de Raad van 31 oktober 1994 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen (PB L 293 van 12.11.1994, blz. 9). Besluit 2000/597/EG, Euratom van de Raad,17)Besluit 2000/597/EG, Euratom van de Raad van 29 september 2000 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen (PB L 253 van 7.10.2000, blz. 42). Besluit 2007/436/EG, Euratom van de Raad18)Besluit 2007/436/EG, Euratom van de Raad van 7 juni 2007 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen (PB L 163 van 23.6.2007, blz. 17). of Besluit 2014/335/EU, Euratom worden beschouwd als verwijzingen naar het onderhavige besluit; verwijzingen naar het ingetrokken besluit worden gelezen volgens de in de bijlage bij dit besluit opgenomen concordantietabel.
 
@@ -222,7 +244,7 @@ De Raad stelt, overeenkomstig de procedure van artikel 311, vierde alinea, VWEU,
 
 6. Voor de toepassing van dit besluit dienen alle bedragen worden uitgedrukt in euro.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Het secretariaat-generaal van de Raad deelt dit besluit aan de lidstaten mee.
 
@@ -232,7 +254,7 @@ Dit besluit treedt in werking op de eerste dag van de eerste maand na de ontvang
 
 Het is van toepassing met ingang van 1 januari 2021.
 
-#### Artikel 13. Geadresseerden
+##### Artikel 13. Geadresseerden
 
 Dit besluit is gericht tot de lidstaten.
 

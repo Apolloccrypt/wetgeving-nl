@@ -1,20 +1,46 @@
 ---
-title: "Warmteregeling"
+title: "Regeling van de Minister van Economische Zaken van 4 september 2013, nr. WJZ/ 13132689, houdende uitvoering van het Warmtebesluit en de Warmtewet (Warmteregeling)"
 identifier: "BWBR0033862"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033862"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033862"
+soort: "ministeriele-regeling"
+stam_id: "12357953"
+version_id: "20739752"
+internal_id: "C29795921"
+label_id: "12329074"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033862/2025-01-01/0"
+intitule_bron: "Stcrt.2013-25449"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-04"
+intitule_published: "2013-09-13"
+intitule_in_force: "2013-09-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-25449"
+original_signed_date: "2013-09-04"
+original_published_date: "2013-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-25449"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0033862&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0033862&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Warmteregeling"
+signed_date: "2013-09-04"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 4 september 2013, nr. WJZ/ 13132689, houdende uitvoering van het Warmtebesluit en de Warmtewet (Warmteregeling)
 
 Gelet op [artikelen 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=3), en [4, derde lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=4) en de artikelen 3, tweede lid, 4, vierde lid, en 10, tweede lid, van het Warmtebesluit;
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Tariefregulering
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het vaststellen van het gebruiksonafhankelijke deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=3), wordt bij het berekenen van het verschil in gebruikskosten uitgegaan van:
 
@@ -90,7 +116,7 @@ OKcv-overig = de gemiddelde kosten van alle aangeboden onderhoudscontracten voor
 
 #### § 3. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het vaststellen van het gebruiksafhankelijk deel van de maximumprijs voor levering van warmte, bedoeld in [artikel 4, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=4), wordt bij de bepaling van het brandstofrendement van de warmteproductie gebruik gemaakt van de volgende factoren:
 
@@ -106,7 +132,7 @@ OKcv-overig = de gemiddelde kosten van alle aangeboden onderhoudscontracten voor
 
 #### § 4. Compensatie bij ernstige storingen en afsluitbeleid
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als ernstige storing als bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=3a) wordt aangemerkt een storing die langer duurt dan 8 uur.
 
@@ -140,7 +166,7 @@ OKcv-overig = de gemiddelde kosten van alle aangeboden onderhoudscontracten voor
 
 6. De compensatie wordt door de leverancier binnen zes maanden na het herstel van de onderbreking betaald.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een leverancier beëindigt de levering van warmte aan een verbruiker niet wegens wanbetaling, tenzij aan de procedurele vereisten van de volgende leden en [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5a&z=2025-01-01&g=2025-01-01) wordt voldaan.
 
@@ -162,13 +188,13 @@ OKcv-overig = de gemiddelde kosten van alle aangeboden onderhoudscontracten voor
 
 6. Een leverancier beëindigt de levering van warmte naar een verbruiker niet wegens wanbetaling indien binnen een redelijke termijn een betalingsregeling wordt overeengekomen en nagekomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd de [artikelen 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=4b&z=2025-01-01&g=2025-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2025-01-01&g=2025-01-01), beëindigt een leverancier de levering van warmte aan een kwetsbare consument niet wegens wanbetaling indien de kwetsbare consument niet binnen een redelijke termijn een verklaring van een arts, die geen behandelend arts van de betrokkene is, kan overleggen om de zeer ernstige gezondheidsrisico’s aan te tonen.
 
 2. Een leverancier draagt er zorg voor dat de levering aan een kwetsbare consument die wegens wanbetaling is beëindigd, wordt hervat indien de kwetsbare consument een verklaring van een arts die geen behandelend arts van de betrokkene is, overlegt om de zeer ernstige gezondheidsrisico’s aan te tonen.
 
-#### Artikel 7
+##### Artikel 7
 
 Een leverancier draagt er zorg voor dat de levering van warmte aan een verbruiker die wegens wanbetaling is beëindigd, wordt hervat indien de verbruiker een bewijs overlegt:
 
@@ -178,21 +204,21 @@ Een leverancier draagt er zorg voor dat de levering van warmte aan een verbruike
 
 #### § 3. Informatie over tarieven en voorwaarden voor een aanbod als bedoeld in [artikel 5a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5a)
 
-#### Artikel 8
+##### Artikel 8
 
 De vergoeding die verschuldigd is op grond van [artikel 20, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=20) voor het verlenen van een vergunning is € 500,– en voor het verkrijgen van toestemming is € 500,–.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Warmteregeling.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 3c
+##### Artikel 3c
 
 De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedoeld in [artikel 5c, derde lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), omvat in ieder geval informatie over:
 
@@ -214,7 +240,7 @@ De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedo
 
 - e. de diensten verbonden aan de levering van warmte.
 
-#### Artikel 3d
+##### Artikel 3d
 
 1. De transparante informatie over de prijs waarvoor geleverd zal worden, bedoeld in [artikel 5c, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), omvat in ieder geval op duidelijke en begrijpelijke wijze informatie over:
 
@@ -250,7 +276,7 @@ De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedo
 
 2. Indien een leverancier de prijs waarvoor geleverd wordt, bedoeld in [artikel 5c, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), wijzigt, informeert hij de verbruiker hier uiterlijk 1 maand voordat de tariefwijziging wordt geëffectueerd persoonlijk en schriftelijk over.
 
-#### Artikel 3e
+##### Artikel 3e
 
 1. De transparante informatie over het opzeggen van de overeenkomst, bedoeld in [artikel 5c, derde lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), bevat in ieder geval:
 
@@ -260,7 +286,7 @@ De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedo
 
 2. Een leverancier informeert een verbruiker schriftelijk en uiterlijk 2 maanden voor het aflopen van de overeenkomst over het opzeggen van een overeenkomst of het aflopen van een overeenkomst voor bepaalde tijd.
 
-#### Artikel 3f
+##### Artikel 3f
 
 1. De persoonlijke situatie van de verbruiker, bedoeld in [artikel 5c, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5c), is gebaseerd op het meest recent beschikbare verbruik van de verbruiker.
 
@@ -268,7 +294,7 @@ De transparante informatie over de omschrijving van hetgeen wordt geleverd, bedo
 
 #### § 4. Compensatie bij ernstige storingen en afsluitbeleid
 
-#### Artikel 4a
+##### Artikel 4a
 
 Met een extreme situatie die niet aan de leverancier of netbeheerder kan worden toegerekend wordt bedoeld een niet te voorziene gebeurtenis of situatie die:
 
@@ -278,7 +304,7 @@ Met een extreme situatie die niet aan de leverancier of netbeheerder kan worden 
 
 - c. niet beïnvloed kan worden door de netbeheerder of leverancier.
 
-#### Artikel 7b
+##### Artikel 7b
 
 In het leveringsprofiel, bedoeld in [artikel 10a, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=10a), wordt in ieder geval vermeld:
 
@@ -304,7 +330,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 2.3. Vaste kosten van levering van koude met behulp van systemen als bedoeld in [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=5)
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor het vaststellen van de maximumprijs die door een leverancier aan een verbruiker in rekening mag worden gebracht voor de levering van koude, bedoeld in [artikel 4a, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=4a), wordt uitgegaan van:
 
@@ -316,7 +342,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 2.4. Kosten van de afleverset
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. De kenmerkende functionaliteiten van de categorieën afleversets, bedoeld in [artikel 5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=5b), zijn:
 
@@ -348,7 +374,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 #### § 4a. Rapportage duurzaamheid
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De beschrijving van het warmtenet, bedoeld in [artikel 7, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0033940&artikel=7), omvat voor ieder warmtenet tenminste informatie over:
 
@@ -390,7 +416,7 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 7Aa
+##### Artikel 7Aa
 
 Vervallen
 
@@ -402,7 +428,7 @@ Vervallen
 
 Deze regeling zal in de Staatscourant worden geplaatst.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Een leverancier beëindigt de levering van warmte aan een verbruiker niet, tenzij:
 
@@ -416,7 +442,7 @@ Een leverancier beëindigt de levering van warmte aan een verbruiker niet, tenzi
 
 - e. op grond van de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2025-01-01&g=2025-01-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5b&z=2025-01-01&g=2025-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=6&z=2025-01-01&g=2025-01-01) de levering van warmte wegens wanbetaling kan worden beëindigd.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. In geval van wanbetaling door een verbruiker die een natuurlijk persoon is, verstrekt de leverancier aan een instantie ten behoeve van schuldhulpverlening de informatie bedoeld in het tweede lid, indien de verbruiker heeft ingestemd met, of niet heeft gereageerd op, het in [artikel 5, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0033862&paragraaf=4&artikel=5&z=2025-01-01&g=2025-01-01), bedoelde aanbod tot gegevensverstrekking aan een instantie ten behoeve van schuldhulpverlening;
 
@@ -434,7 +460,7 @@ Een leverancier beëindigt de levering van warmte aan een verbruiker niet, tenzi
 
 - c. voor zover van toepassing het voornemen van de leverancier om de levering te beëindigen.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Een leverancier kan de levering van warmte aan een verbruiker niet beëindigen wegens wanbetaling indien:
 

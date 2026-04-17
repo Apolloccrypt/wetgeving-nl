@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Europese Code inzake Sociale Zekerheid"
 identifier: "BWBV0004541"
-categorie: "Sociaal recht"
-publicatiedatum: 1968-03-17
-laatste_update: 1968-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004541"
+country: "nl"
+rank: "verdrag"
+publication_date: "1968-03-17"
+last_updated: "1968-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004541"
+soort: "verdrag"
+stam_id: "10004181953"
+version_id: "10004356742"
+internal_id: "C10006999101"
+label_id: "10004167164"
+dtd_version: "2.0"
+original_entry_into_force: "1968-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004541/1968-03-17/0"
+intitule_bron: "Trb.1965-47"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-03-24"
+intitule_in_force: "1967-04-27"
+intitule_status: "goed"
+original_publication: "Trb.1965-47"
+original_published_date: "1965-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-47"
+entry_into_force_date: "1968-03-17"
+jci_1_3: "jci1.3:c:BWBV0004541&z=1968-03-17&g=1968-03-17"
+jci_1_0: "1.0:c:BWBV0004541&g=1968-03-17"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-03-17"
 ---
-
 # Protocol bij de Europese Code inzake Sociale Zekerheid
 
 **Preambule**
@@ -24,31 +46,31 @@ Zijn de volgende bepalingen, die zijn opgesteld met medewerking van het Internat
 
 ## TITEL II
 
-#### 1
+##### 1
 
 Geen Lid-Staat van de Raad van Europa kan dit Protocol ondertekenen of bekrachtigen zonder gelijktijdig of tevoren de [Europese Code inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0004465) te hebben ondertekend of bekrachtigd.
 
-#### 2
+##### 2
 
 Geen Staat kan tot dit Protocol toetreden zonder gelijktijdig of te voren tot de [Europese Code inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0004465) te zijn toegetreden.
 
 ## TITEL III
 
-#### 1
+##### 1
 
 Dit Protocol staat open voor ondertekening door de Lid-Staten. Het moet worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal, mits het Comité van Ministers in daarvoor in aanmerking komende gevallen te voren een bevestigende beslissing heeft genomen als bedoeld in lid 4 van Titel IV.
 
-#### 2
+##### 2
 
 Dit Protocol treedt in werking één jaar na het tijdstip van nederlegging van de derde akte van bekrachtiging.
 
-#### 3
+##### 3
 
 Ten aanzien van elke ondertekenende Staat die dit Protocol op een later tijdstip bekrachtigt, treedt het in werking één jaar na het tijdstip van nederlegging van zijn akte van bekrachtiging.
 
 ## TITEL IV
 
-#### 1
+##### 1
 
 Elke ondertekenende Staat die zich wenst te beroepen op de bepalingen van [artikel 2, lid 2, van de Code](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&artikel=2), als bij dit Protocol gewijzigd, legt, alvorens tot bekrachtiging over te gaan, aan de Secretaris-Generaal een verslag over, waaruit blijkt in hoeverre zijn stelsel van sociale zekerheid in overeenstemming is met de bepalingen van dit Protocol.
 
@@ -70,19 +92,19 @@ Dit verslag moet een verklaring bevatten aangaande:
 
 Voor zover mogelijk dienen deze gegevens te worden verstrekt op de wijze en in de volgorde aangegeven door de Commissie.
 
-#### 2
+##### 2
 
 De betrokken ondertekenende Regering verstrekt de Secretaris-Generaal op diens verzoek verdere gegevens omtrent de punten waarop haar stelsel van sociale zekerheid in overeenstemming is met de bepalingen van dit Protocol.
 
-#### 3
+##### 3
 
 Genoemd verslag en deze verdere gegevens worden bestudeerd door de Commissie, die daarbij de bepalingen van [artikel 2, lid 3, van de Code](https://wetten.overheid.nl/jci1.3:c:BWBV0004465&artikel=2) in acht neemt. De Commissie legt aan het Comité van Ministers een verslag over, waarin haar conclusies zijn vervat.
 
-#### 4
+##### 4
 
 Met een meerderheid van twee derde van het aantal uitgebrachte stemmen beslist het Comité van Ministers overeenkomstig het bepaalde in [artikel 20, sub (d) van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), of het stelsel van sociale zekerheid van de ondertekenende Staat in overeenstemming is met de bepalingen van dit Protocol.
 
-#### 5
+##### 5
 
 Indien het Comité van Ministers van oordeel is dat het bedoelde stelsel van sociale zekerheid niet in overeenstemming is met de bepalingen van dit Protocol, verwittigt zij de betrokken ondertekenende Staat hiervan en kan deze aanbevelingen doen omtrent de wijze waarop dit stelsel alsnog met deze bepalingen in overeenstemming kan worden gebracht.
 

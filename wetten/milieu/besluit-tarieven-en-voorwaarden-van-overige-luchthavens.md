@@ -1,13 +1,39 @@
 ---
-title: "Besluit tarieven en voorwaarden van overige luchthavens"
+title: "Besluit van 9 april 2018, houdende regels betreffende de tarieven en voorwaarden van overige luchthavens (Besluit tarieven en voorwaarden van overige luchthavens)"
 identifier: "BWBR0040862"
-categorie: "Milieu"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040862"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040862"
+soort: "AMvB"
+stam_id: "14597563"
+version_id: "24996092"
+internal_id: "C35752181"
+label_id: "14551194"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040862/2018-05-01/0"
+intitule_bron: "Stb.2018-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-09"
+intitule_published: "2018-04-30"
+intitule_in_force: "2018-04-30"
+intitule_status: "goed"
+original_publication: "Stb.2018-124"
+original_signed_date: "2018-04-09"
+original_published_date: "2018-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2018-124"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBR0040862&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0040862&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit tarieven en voorwaarden van overige luchthavens"
+signed_date: "2018-04-09"
+entry_into_force: "2018-05-01"
 ---
-
 # Besluit van 9 april 2018, houdende regels betreffende de tarieven en voorwaarden van overige luchthavens (Besluit tarieven en voorwaarden van overige luchthavens)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat van 6 februari 2018, nr. IENM/BSK-2017/298532, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan in overeenstemming met de Staatssecretaris van Economische Zaken en Klimaat;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat van 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit wordt verstaan onder:
 
@@ -36,11 +62,11 @@ Hebben goedgevonden en verstaan:
 
 2. In dit besluit wordt onder exploitant mede verstaan burgerexploitant.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Dit besluit is, tenzij anders is bepaald, van toepassing ten aanzien van overige luchthavens die de drempelwaarde van vijf miljoen passagiersbewegingen per jaar overschrijden.
 
-#### Artikel 3. Luchtvaartactiviteiten
+##### Artikel 3. Luchtvaartactiviteiten
 
 Luchtvaartactiviteiten zijn activiteiten als bedoeld in [artikel 8.40c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40c) van de exploitant van een overige luchthaven ten behoeve van:
 
@@ -56,7 +82,7 @@ Luchtvaartactiviteiten zijn activiteiten als bedoeld in [artikel 8.40c, eerste l
 
 - d. de uitvoering van de beveiliging van passagiers en hun bagage, alsmede van vracht, waaronder mede begrepen de faciliteiten voor grenscontrole.
 
-#### Artikel 4. Vaststelling van tarieven en voorwaarden
+##### Artikel 4. Vaststelling van tarieven en voorwaarden
 
 1. De exploitant van een overige luchthaven doet de mededeling van de vaststelling van tarieven en voorwaarden, bedoeld in [artikel 8.40c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40c), door:
 
@@ -72,7 +98,7 @@ Luchtvaartactiviteiten zijn activiteiten als bedoeld in [artikel 8.40c, eerste l
 
 4. De exploitant van een overige luchthaven draagt er zorg voor dat met ingang van 1 april of 1 november de tarieven en voorwaarden, bedoeld in [artikel 8.40c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40c) ingaan.
 
-#### Artikel 5. Voorstel voor tarieven en voorwaarden
+##### Artikel 5. Voorstel voor tarieven en voorwaarden
 
 1. De exploitant van een overige luchthaven doet de mededeling van een voorstel voor tarieven en voorwaarden als bedoeld in [artikel 8.40e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40e) door:
 
@@ -110,13 +136,13 @@ Luchtvaartactiviteiten zijn activiteiten als bedoeld in [artikel 8.40c, eerste l
 
 6. Gedurende de in het vijfde lid bedoelde termijn bestaat desgevraagd voor de gebruikers de mogelijkheid hun zienswijze mondeling toe te lichten.
 
-#### Artikel 6. Gemeenschappelijk, transparant systeem van tarieven en voorwaarden
+##### Artikel 6. Gemeenschappelijk, transparant systeem van tarieven en voorwaarden
 
 1. Bij de vaststelling van en het daaraan voorafgaand doen van een mededeling van een voorstel voor de tarieven en voorwaarden ten behoeve van een gemeenschappelijk, transparant systeem van tarieven als bedoeld in [artikel 8.40d, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40d), is voor zowel de exploitant van een overige luchthaven die de grens van vijf miljoen passagiersbewegingen per jaar overschrijdt als de exploitant van elke deelnemende overige luchthaven, dit besluit van toepassing.
 
 2. Het voorstel voor tarieven en voorwaarden, bedoeld in [artikel 8.40d, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40d), bevat ten minste de elementen, bedoeld in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040862&artikel=5&z=2018-05-01&g=2018-05-01).
 
-#### Artikel 7. Informatie voorafgaand aan de mededeling van een voorstel voor tarieven en voorwaarden
+##### Artikel 7. Informatie voorafgaand aan de mededeling van een voorstel voor tarieven en voorwaarden
 
 Voorafgaand aan de mededelingen ten behoeve van het voorstel van de tarieven en voorwaarden, bedoeld in de [artikelen 8.40d, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40d), en [8.40e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40e) verstrekken de gebruikers aan de exploitant van een overige luchthaven informatie over:
 
@@ -128,7 +154,7 @@ Voorafgaand aan de mededelingen ten behoeve van het voorstel van de tarieven en 
 
 - d. hun behoefte op de luchthaven.
 
-#### Artikel 8. Kwaliteitsindicatoren
+##### Artikel 8. Kwaliteitsindicatoren
 
 Indicatoren voor het kwaliteitsniveau van de door de exploitant van een overige luchthaven aangeboden diensten met betrekking tot het gebruik van de luchthaven als bedoeld in [artikel 8.40e, vijfde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40e), omvatten ten minste:
 
@@ -150,7 +176,7 @@ Indicatoren voor het kwaliteitsniveau van de door de exploitant van een overige 
 
 - i. de beschikbaarheid van de in de onderdelen a tot en met h genoemde diensten gedurende het boekjaar van de exploitant van de luchthaven, waar mogelijk uitgedrukt in een percentage, en gerelateerd aan de ontwikkeling van het volume van het luchthavenluchtverkeer, het vervoer van passagiers en het vervoer van vracht.
 
-#### Artikel 9. Inhoud aanvraag Autoriteit Consument en Markt
+##### Artikel 9. Inhoud aanvraag Autoriteit Consument en Markt
 
 1. Een aanvraag als bedoeld in [artikel 8.40g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40g) bevat:
 
@@ -162,15 +188,15 @@ Indicatoren voor het kwaliteitsniveau van de door de exploitant van een overige 
 
 2. De vaststelling van de tarieven en voorwaarden, bedoeld in [artikel 8.40g, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.40g), geschiedt binnen drie weken na het besluit van de Autoriteit Consument en Markt.
 
-#### Artikel 10. Slotbepaling
+##### Artikel 10. Slotbepaling
 
 Wijzigt het Besluit exploitatie luchthaven Schiphol 2017.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit tarieven en voorwaarden van overige luchthavens.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 De Wet van 14 februari 2018 tot wijziging van de Wet luchtvaart in verband met de implementatie van richtlijn nr. 2009/12/EG van het Europees Parlement en de Raad van de Europese Unie van 11 maart 2009 inzake luchthavengelden (PbEG L 70) voor overige luchthavens (Stb. 2018, 76) en dit besluit treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 

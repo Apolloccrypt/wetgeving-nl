@@ -1,28 +1,54 @@
 ---
-title: "Regeling Registratie en aanlevering zorgproducten geriatrische revalidatiezorg"
+title: "Regeling Registratie en aanlevering kostprijzen geriatrische revalidatiezorg"
 identifier: "BWBR0035064"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-04-10
-laatste_update: 2014-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035064"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-04-10"
+last_updated: "2014-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035064"
+soort: "zbo"
+stam_id: "12659003"
+version_id: "21383202"
+internal_id: "C30701131"
+label_id: "12629234"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035064/2014-04-10/0"
+intitule_bron: "Stcrt.2014-11944"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-04-08"
+intitule_published: "2014-04-30"
+intitule_in_force: "2014-04-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-11944"
+original_signed_date: "2014-04-08"
+original_published_date: "2014-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-11944"
+entry_into_force_date: "2014-04-10"
+jci_1_3: "jci1.3:c:BWBR0035064&z=2014-04-10&g=2014-04-10"
+jci_1_0: "1.0:c:BWBR0035064&g=2014-04-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Registratie en aanlevering zorgproducten geriatrische revalidatiezorg"
+signed_date: "2014-04-08"
+entry_into_force: "2014-04-10"
 ---
-
 # Regeling Registratie en aanlevering kostprijzen geriatrische revalidatiezorg
 
 Op grond van [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=63), [61](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van registratie en aanlevering kostprijzen geriatrische revalidatiezorg
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling is van toepassing op instellingen die geriatrische revalidatiezorg (GRZ) leveren en door de NZa via een schriftelijk informatieverzoek op grond van [artikel 61 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=61), met inachtneming van de beleidsregel ‘Kostprijsberekening geriatrische revalidatiezorg’ (BR/CU-2120), verplicht zijn om kostprijzen aan te leveren.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Doel van deze regeling is te borgen dat aangeleverde kostprijsgegevens betrouwbaar en bruikbaar zijn voor de vaststelling van tarieven voor de GRZ.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - 3.8. **Terugkoppelsjabloon** Dit document, toegevoegd als bijlage 3 bij de beleidsregel ‘Kostprijsberekening geriatrische revalidatiezorg’ (BR/CU-2120), dient gebruikt te worden voor de vastlegging van de keuzes bij de kostprijsberekening. De instelling dient dit terugkoppelsjabloon in te vullen voor de interne vastlegging en voor de externe verslaglegging van de kostprijsberekening. Dit sjabloon is zo opgesteld dat het de fases van het kostprijsmodel volgt, zoals beschreven in het kostprijsmodel.
 
-#### Artikel 4. Aanleveren kostprijsgegevens
+##### Artikel 4. Aanleveren kostprijsgegevens
 
 - 4.1. De GRZ-instelling is verplicht om vóór 1 oktober JAAR[x] kostprijzen volgens het kostprijsmodel aan te leveren over JAAR[x-1] voor de tariefberekening voor JAAR[x+2].
 
@@ -52,13 +78,13 @@ In deze regeling wordt verstaan onder:
 
 - 4.4. De instelling stuurt alle gevraagde gegevens tijdig en volledig op naar info@nza.nl met als onderwerp ‘kostprijsaanlevering GRZ’.
 
-#### Artikel 5. Assurance rapport
+##### Artikel 5. Assurance rapport
 
 - 5.1. De GRZ-instelling zorgt dat een accountant de juistheid van de verstrekte gegevens en inlichtingen bevestigt door middel van een Assurance rapport. Dit Assurance rapport is opgesteld overeenkomstig de eisen van het onderzoeksprotocol dat als [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035064&bijlage=1&z=2014-04-10&g=2014-04-10) bij deze regeling is opgenomen. In [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035064&bijlage=2&z=2014-04-10&g=2014-04-10), behorend bij deze regeling, is een voorbeeldtekst van een (goedkeurend) Assurance rapport opgenomen.
 
 - 5.2. De GRZ-instelling dient dit Assurance rapport mee te zenden met de overige gegevens die worden opgevraagd zoals beschreven in [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0035064&artikel=4&z=2014-04-10&g=2014-04-10) van deze regeling.
 
-#### Artikel 6. Beschikbaarheid van documenten
+##### Artikel 6. Beschikbaarheid van documenten
 
 - 6.1. De instelling zorgt dat documentatie over de uitvoering van de berekening en over de gemaakte onderliggende keuzes beschikbaar en controleerbaar is voor de accountant en de NZa. De documentatie dient tot twee jaar na aanlevering aan de NZa beschikbaar te zijn.
 
@@ -72,11 +98,11 @@ In deze regeling wordt verstaan onder:
 
 - d). Gemaakte correctieboekingen in productie, kosten of opbrengsten.
 
-#### Artikel 7. Intrekking oude regel
+##### Artikel 7. Intrekking oude regel
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de regeling ‘[Registratie en aanlevering kostprijzen geriatrische revalidatiezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0034426)’, met kenmerk NR/CU-242, ingetrokken.
 
-#### Artikel 8. Inwerkingtreding en citeerregel
+##### Artikel 8. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van 10 april 2014.
 

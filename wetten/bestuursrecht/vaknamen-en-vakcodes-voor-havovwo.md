@@ -1,13 +1,36 @@
 ---
 title: "Vaknamen en vakcodes voor havo/vwo"
 identifier: "BWBR0010620"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-07-28
-laatste_update: 1999-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010620"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-07-28"
+last_updated: "1999-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010620"
+soort: "beleidsregel"
+stam_id: "6509213"
+version_id: "11198472"
+internal_id: "C15128261"
+label_id: "6497734"
+original_entry_into_force: "1999-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010620/1999-07-28/0"
+intitule_bron: "Uitleg.1999-18c"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-07-19"
+intitule_published: "1999-07-28"
+intitule_in_force: "1999-07-28"
+intitule_status: "goed"
+original_publication: "Uitleg.1999-18c"
+original_signed_date: "1999-07-19"
+original_published_date: "1999-07-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-07-28"
+jci_1_3: "jci1.3:c:BWBR0010620&z=1999-07-28&g=1999-07-28"
+jci_1_0: "1.0:c:BWBR0010620&g=1999-07-28"
+citeertitel_status: "redactioneel"
+signed_date: "1999-07-19"
+entry_into_force: "1999-07-28"
 ---
-
 # Vaknamen en vakcodes voor havo/vwo
 
 ### Algemeen

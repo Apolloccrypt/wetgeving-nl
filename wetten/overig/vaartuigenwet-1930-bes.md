@@ -1,40 +1,65 @@
 ---
 title: "Vaartuigenwet 1930 BES"
 identifier: "BWBR0028292"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028292"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028292"
+soort: "wet-BES"
+stam_id: "10743073"
+version_id: "17716462"
+internal_id: "C24839161"
+label_id: "10717814"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028292/2010-10-10/0"
+intitule_bron: "Stb.2010-621"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-621"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-621"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028292&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028292&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Vaartuigenwet 1930 BES
 
-#### Artikel 1
+##### Artikel 1
 
 Onverminderd de voorschriften in bestaande wettelijke regelingen voorkomende, wordt steeds door den havenmeester, de loodsen en hulploodsen en door de politie, ieder voor zooveel betreft het gebied, waarvoor hij is aangesteld, een scherp toezicht uitgeoefend op de bewegingen van alle vaartuigen van wat aard of grootte ook, in de havens en baaien en in de territoriale wateren rond Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 De eigenaar van een zeil-, motor- of visschersvaartuig, dat in een van de openbare lichamen Bonaire, Sint Eustatius of Saba te huis behoort, is verplicht te zorgen, dat het vaartuig voorzien zij van een letter en een nummer, onderscheidenlijk aangevende het openbaar lichaam, waar het vaartuig te huis behoort (te weten: B. voor Bonaire; S. voor Saba; E. voor Sint Eustatius) en het nummer, waaronder het vaartuig, op aangifte door of vanwege den eigenaar, door of namens de betrokken gezaghebber is ingeschreven.
 
 Letter en nummer worden aan stuur- en bakboord op den boeg van het vaartuig gevoerd, en, indien het vaartuig zeilen heeft , tevens aan weerszijden van het grootzeil; letter en nummer moeten elk ten minste 3 d.m. hoog zijn en in witte kleur op donkeren ondergrond of in zwarte kleur op lichten ondergrond, en aan weerszijden van het grootzeil in zwarte kleur aangebracht zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd de voorschriften inzake nationaliteit van zeeschepen zoals die gelden in de openbare lichamen Bonaire, Sint Eustatius en Saba is de eigenaar van een vaartuig als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10), indien het een naam voert, verplicht te zorgen, dat deze aan weerszijden van den boeg en op den achtersteven met duidelijk waarneembare letters aangebracht zij.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden als schipper met een vaartuig als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10), van een der openbare lichamen Bonaire, Sint Eustatius of Saba te vertrekken, of als Schipper op te treden op een zoodanig zich op zee bevindend vaartuig, tenzij ten aanzien van dat vaartuig voldaan zij aan de bepalingen van [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=3&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Door of namens de gezaghebber wordt een register gehouden waarin alle vaartuigen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10) van het betrokken openbaar lichaam worden ingeschreven.
 
 2. Onze Minister van Verkeer en Waterstaat kan regelen stellen over het register, bedoeld in het eerste lid, en de wijze waarop het wordt gehouden.
 
-#### Artikel 6
+##### Artikel 6
 
 Het is verboden als Schipper van een der openbare lichamen Bonaire, Sint Eustatius of Saba te vertrekken met een – of als Schipper op te treden op een zich op zee bevindend – op een van de openbare lichamen Bonaire, Sint Eustatius of Saba te huis behoorend zeilvaartuig, ten aanzien waarvan de monstering niet verplichtend is, of motor- of visschersvaartuig, tenzij aan boord daarvan aanwezig zij een schriftelijke geteekende vrij van zegel en kosteloos afgegeven vergunning vermeldende:
 
@@ -54,45 +79,45 @@ Het is aan vreemdelingen verboden zonder schriftelijke vergunning van de betrokk
 
 De vergunning kan, zonder opgaaf van reden, door de betrokken autoriteiten worden geweigerd en/of ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de in het [voorgaand artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde termijn verstrijkt terwijl het vaartuig zich op zee bevindt, blijft de schriftelijke vergunning van kracht tot aan het eerstvolgende binnenvaren na dien in een der havens of baaien van de openbare lichamen Bonaire, Sint Eustatius of Saba.
 
 Indien het vaartuig niet binnengevaren is ter plaatse waar de vergunning werd afgegeven, gelijk mede indien de in het [voorgaand artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde termijn verstrijkt, terwijl het vaartuig zich bevindt in een der havens of baaien van de openbare lichamen Bonaire, Sint Eustatius of Saba, doch niet ter plaatse, waar de vergunning werd afgegeven, zal de op zoodanige plaats tot het afgeven van dergelijke vergunning bevoegde ambtenaar op de vergunning een aanteekening stellen, houdende een voorloopige verlenging daarvan voor ten hoogste één maand, welke daarna nog voor ten hoogste twee keeren op gelijke wijze kan worden herhaald.
 
-#### Artikel 8
+##### Artikel 8
 
 De schipper van een vaartuig als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6&z=2010-10-10&g=2010-10-10) is, verplicht de in dat artikel vermelde vergunning aan boord te hebben.
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
-#### Artikel 10
+##### Artikel 10
 
 [vervallen]
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 Nadat door een daartoe bevoegd persoon is geconstateerd niet-nakoming van een der bepalingen van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=3&z=2010-10-10&g=2010-10-10), of – voor zoover de eigenaar tevens schipper is – van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6&z=2010-10-10&g=2010-10-10), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=8&z=2010-10-10&g=2010-10-10), of [15a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=15a&z=2010-10-10&g=2010-10-10), is de ambtenaar, door wien de in artikel 6 bedoelde vergunning is afgegeven, bevoegd die schriftelijk onder opgave van redenen in te trekken, met bepaling dat gedurende een daarbij te bepalen termijn van ten hoogte drie maanden van af den dag van het constateeren der niet-nakoming geen nieuwe vergunning aan den betrokken eigenaar zal worden afgegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 Het is verboden aan de vaartuigen of op de plaatsen bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=3&z=2010-10-10&g=2010-10-10), andere dan in die artikelen bedoelde letters, nummers of namen aan te brengen of te hebben.
 
-#### Artikel 15
+##### Artikel 15
 
 Tijdens het verrichten van herstellingen of schilderwerk aan het vaartuig, is het bepaalde bij de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=3&z=2010-10-10&g=2010-10-10) niet van toepassing.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de politieambtenaren, alsmede andere, daartoe bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -114,23 +139,23 @@ Tijdens het verrichten van herstellingen of schilderwerk aan het vaartuig, is he
 
 5. Een ieder is verplicht aan de in het eerste lid bedoelde personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Overtreding van het bij deze wet bepaalde wordt, voor zover het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) daarin niet voorziet, gestraft met hechtenis van ten hoogste een maand of geldboete van ten hoogste de tweede categorie.
 
 2. De bij deze wet strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met de opsporing van de in deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Bij overtreding binnen de territoriale wateren van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=3&z=2010-10-10&g=2010-10-10), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=4&z=2010-10-10&g=2010-10-10), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=6&z=2010-10-10&g=2010-10-10) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=8&z=2010-10-10&g=2010-10-10), dan wel indien niet wordt voldaan aan een vordering krachtens [artikel 15a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=15a&z=2010-10-10&g=2010-10-10), zijn de in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=17&z=2010-10-10&g=2010-10-10), genoemde opsporingsambtenaren bevoegd het vaartuig naar de haven of baai van de openbare lichamen Bonaire, Sint Eustatius of Saba van waar is uitgevaren, of anders naar de dichtstbijzijnde haven of baai op te brengen.
 
-#### Artikel 18
+##### Artikel 18
 
 In deze wet wordt verstaan:
 
@@ -138,10 +163,10 @@ Onder «Schipper» elk gezagvoerder van een vaartuig, of die dezen ver vangt;
 
 Onder «eigenaar» ook de beheerder, en voorts ieder die krachtens zakelijk recht, bezit daaronder begrepen, beschikking over het vaartuig heeft.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Bij regeling van Onze Minister van Verkeer en Waterstaat kunnen nadere voorschriften worden gegeven ter uitvoering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028292&artikel=2&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet wordt aangehaald als: Vaartuigenwet 1930 BES.

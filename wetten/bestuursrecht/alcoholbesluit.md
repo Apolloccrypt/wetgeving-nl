@@ -1,13 +1,39 @@
 ---
-title: "Alcoholbesluit"
+title: "Besluit van 3 juni 2021, houdende regels ter uitvoering van de Alcoholwet"
 identifier: "BWBR0045211"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045211"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045211"
+soort: "AMvB"
+stam_id: "15976933"
+version_id: "29449162"
+internal_id: "C42116071"
+label_id: "15911114"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045211/2026-01-01/0"
+intitule_bron: "Stb.2021-268"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-03"
+intitule_published: "2021-06-10"
+intitule_in_force: "2021-06-10"
+intitule_status: "goed"
+original_publication: "Stb.2023-190"
+original_signed_date: "2023-06-03"
+original_published_date: "2023-06-09"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-190"
+entry_into_force_date: "2023-06-03"
+jci_1_3: "jci1.3:c:BWBR0045211&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045211&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Alcoholbesluit"
+signed_date: "2023-06-03"
+entry_into_force: "2023-06-03"
 ---
-
 # Besluit van 3 juni 2021, houdende regels ter uitvoering van de Alcoholwet
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 1 maart 2021, kenmerk 1818247-217500-WJZ, gedaan in overeenstemming met Onze Minister van Justitie en Veiligheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,27 +58,27 @@ In dit besluit en daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Omschrijving slijtersbedrijf
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Als handelingen als bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1) worden aangewezen: het bedrijfsmatig aan particulieren verkopen van drinkglaswerk, schenkmandjes, kurkentrekkers, wijnrekjes, afsluitmiddelen voor flessen, koolzuurflessen, koolzuurcapsules, wijnkoelers, shakers, draagtassen, koelboxen en -tassen, onderzetters, papieren servetten, cocktailprikkers, schenkkurken, alsmede van voorlichtingsmaterialen over wijn, cocktails, longdrinks en borrelhapjes en van andere dergelijke voorlichtingsmaterialen, een en ander voor zover die verkoop geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Als handeling als bedoeld in [artikel 1, eerste lid, onder slijtersbedrijf, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=1), wordt eveneens aangewezen het bedrijfsmatig verhuren van biertapinstallaties, glaswerk en party-meubilair, een en ander voor zover die verhuur geen overwegend bestanddeel van de bedrijfsuitoefening in de inrichting uitmaakt.
 
 ### Hoofdstuk 3. Eisen zedelijk gedrag leidinggevende
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Een leidinggevende voldoet aan de in dit hoofdstuk gestelde eisen ten aanzien van het zedelijk gedrag.
 
 2. Met de eisen ter zake van het zedelijk gedrag als bedoeld in dit besluit worden gelijkgesteld de eisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een niveau van zedelijk gedrag waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=37a) ter beschikking gesteld.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Een leidinggevende is niet binnen de laatste vijf jaar wegens een misdrijf onherroepelijk veroordeeld tot een onvoorwaardelijke vrijheidsstraf van meer dan zes maanden door de rechter in Nederland, Aruba, Curaçao of Sint Maarten.
 
@@ -66,7 +92,7 @@ Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van S
 
 - b. bij de intrekking van een vergunning teruggerekend vanaf de datum van de intrekking van deze vergunning.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Onverminderd [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), is een leidinggevende niet binnen de laatste vijf jaar bij meer dan één uitspraak onherroepelijk veroordeeld tot een onvoorwaardelijke geldboete van € 500,– of meer of tot een andere hoofdstraf als bedoeld in [artikel 9, onder a, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=9) wegens dan wel mede wegens overtreding van:
 
@@ -92,19 +118,19 @@ Een leidinggevende is niet met toepassing van [artikel 37a van het Wetboek van S
 
 5. De bedragen, genoemd in het eerste, tweede en derde lid, worden elke twee jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling, aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van deze bedragen. Bij deze aanpassing wordt het geldbedrag op een veelvoud van € 5,– naar beneden afgerond.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Een leidinggevende is binnen de laatste vijf jaar geen leidinggevende geweest van een inrichting waarvan de vergunning is ingetrokken op grond van [artikel 31, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=31) of die voor ten minste een maand is gesloten op grond van [artikel 13b van de Opiumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001941&artikel=13b) of van [artikel 174 Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=174) of van een op grond van [artikel 149 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=149) vastgestelde verordening, tenzij aannemelijk is dat hem ter zake geen verwijt treft.
 
 2. [Artikel 3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Voor de berekening van de laatste vijf jaar, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.3&z=2026-01-01&g=2026-01-01), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.4&z=2026-01-01&g=2026-01-01) en [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&hoofdstuk=3&artikel=3.5&z=2026-01-01&g=2026-01-01), telt de periode waarin een onvoorwaardelijke vrijheidsstraf is ondergaan, niet mee.
 
 ### Hoofstuk 4. Sociale hygiëne
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Onder sociale hygiëne wordt verstaan, kennis en inzicht met betrekking tot:
 
@@ -126,13 +152,13 @@ Voor de berekening van de laatste vijf jaar, bedoeld in [artikel 3.3](https://we
 
 2. De eisen, bedoeld in het eerste lid, onderdelen a tot en met h, zijn nader uitgewerkt in de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2026-01-01&g=2026-01-01) te behalen eindtermen.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Leidinggevenden beschikken over de kennis en het inzicht nodig om hun bedrijfsvoering af te stemmen op hun doelgroepen en het bedrijf te exploiteren met inachtneming van de bijzondere maatschappelijke verantwoordelijkheid die zij hebben.
 
 ### Hoofdstuk 5. Verkoop op afstand
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Een leeftijdsverificatiesysteem als bedoeld in [artikel 20a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a):
 
@@ -142,7 +168,7 @@ Een leeftijdsverificatiesysteem als bedoeld in [artikel 20a, eerste lid, onderde
 
 - c. vermeldt bij iedere aankoop van alcoholhoudende drank, voor het sluiten van de verkoopovereenkomst, dat de leeftijd van de persoon aan wie de alcoholhoudende drank wordt geleverd, ook vastgesteld wordt op het moment van bezorging.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Een geborgde werkwijze als bedoeld in [artikel 20a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=20a) bevat ten minste een concrete beschrijving van de wijze waarop:
 
@@ -158,7 +184,7 @@ Een leeftijdsverificatiesysteem als bedoeld in [artikel 20a, eerste lid, onderde
 
 ### Hoofdstuk 6. Proeverijen in slijtlokaliteiten
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Een proeverij als bedoeld in [artikel 25e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=25e) voldoet aan de volgende eisen:
 
@@ -174,17 +200,17 @@ Een leeftijdsverificatiesysteem als bedoeld in [artikel 20a, eerste lid, onderde
 
 ### Hoofdstuk 7. Bestuurlijke boete
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Als bijlage als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=44b) wordt vastgesteld de bij dit besluit behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 1. Voor in de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01) omschreven overtredingen van voorschriften gesteld bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458), bepaalt het in de kolommen I en II opgenomen bedrag de bestuurlijke boete die opgelegd kan worden.
 
 2. Het bedrag van de op te leggen boete wordt elke twee jaar, met ingang van 1 januari van een jaar, bij ministeriele regeling aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van dit bedrag. Bij deze aanpassing wordt dit bedrag op een veelvoud van € 5 naar beneden afgerond.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 1. Het in kolom I van de [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=I&z=2026-01-01&g=2026-01-01) genoemde bedrag geldt voor de natuurlijke persoon of rechtspersoon die op de dag waarop de overtreding is begaan minder dan vijftig werknemers telde.
 
@@ -196,39 +222,39 @@ Als bijlage als bedoeld in [artikel 44b, eerste lid, van de wet](https://wetten.
 
 ### Hoofdstuk 8. Overige bepalingen
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 1. Als categorie van personen als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=30b), wordt aangewezen: personen die onmiddellijk leidinggeven.
 
 2. Als categorie van horecabedrijven of slijtersbedrijven als bedoeld in [artikel 30b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=30b), wordt aangewezen: horecabedrijven.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Wijzigt het Besluit justitiële en strafvorderlijke gegevens.
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Wijzigt het Speelautomatenbesluit 2000.
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Wijzigt het Bouwbesluit 2012.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 De volgende besluiten worden ingetrokken:
 
@@ -242,11 +268,11 @@ De volgende besluiten worden ingetrokken:
 
 - e. het [Besluit bestuurlijke boete Drank- en Horecawet](https://wetten.overheid.nl/jci1.3:c:BWBR0017606).
 
-#### Artikel 9.2
+##### Artikel 9.2
 
 Dit besluit treedt in werking met ingang van 1 juli 2021.
 
-#### Artikel 9.3
+##### Artikel 9.3
 
 Dit besluit wordt aangehaald als: Alcoholbesluit.
 
@@ -261,7 +287,7 @@ Dit besluit wordt aangehaald als: Alcoholbesluit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4.1a
+##### Artikel 4.1a
 
 Een diploma wordt door de Landelijke commissie sociale hygiëne erkend als bewijsstuk indien het diploma in ieder geval voldoet aan de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0045211&bijlage=II&z=2026-01-01&g=2026-01-01) vastgestelde eindtermen.
 

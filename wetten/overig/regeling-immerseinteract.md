@@ -1,13 +1,35 @@
 ---
-title: "Regeling Immerse\Interact"
+title: "Regeling Immerse\\Interact"
 identifier: "BWBR0049469"
-categorie: "Overig"
-publicatiedatum: 2024-03-01
-laatste_update: 2024-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049469"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-01"
+last_updated: "2024-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049469"
+soort: "zbo"
+stam_id: "17051213"
+version_id: "30001862"
+internal_id: "C43010021"
+label_id: "16960854"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049469/2024-03-01/0"
+intitule_bron: "Stcrt.2024-8019"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-03-18"
+intitule_in_force: "2024-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8019"
+original_published_date: "2024-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8019"
+entry_into_force_date: "2024-03-01"
+jci_1_3: "jci1.3:c:BWBR0049469&z=2024-03-01&g=2024-03-01"
+jci_1_0: "1.0:c:BWBR0049469&g=2024-03-01"
+citeertitel_status: "officieel"
+entry_into_force: "2024-03-01"
 ---
-
 # Regeling Immerse\Interact
 
 Het bestuur van de stichting Stimuleringsfonds Creatieve Industrie, gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), met goedkeuring van de Minister van Onderwijs, Cultuur en Wetenschap, besluit:
@@ -16,13 +38,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Taakopvatting Stimuleringsfonds Creatieve Industrie
+##### Artikel 1. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
 1. De taak van het Stimuleringsfonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft, te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
 2. Het Stimuleringsfonds Creatieve Industrie verstrekt, in overeenstemming met zijn [statuten](https://wetten.overheid.nl/jci1.3:c:BWBR0047849) en volgens bepalingen vastgesteld in de wet en subsidieregelingen, subsidies aan natuurlijke personen en rechtspersonen die bijdragen aan het bevorderen van hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse creatieve industrie binnen het Koninkrijk.
 
-#### Artikel 2. Begrippen
+##### Artikel 2. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
@@ -48,7 +70,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen Regeling Immerse\Interact
 
-#### Artikel 3. Reikwijdte en doelstelling
+##### Artikel 3. Reikwijdte en doelstelling
 
 1. Deze regeling is een samenwerking van het Stimuleringsfonds Creatieve Industrie en het Nederlands Filmfonds. De regeling draagt bij aan het versterken van crossovers tussen de sectoren die beide fondsen bedienen.
 
@@ -68,7 +90,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - b. Talentontwikkeling.
 
-#### Artikel 4. Subsidievormen
+##### Artikel 4. Subsidievormen
 
 1. Binnen deze regeling kan worden aangevraagd voor:
 
@@ -80,7 +102,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - d. **Realiseringsbijdrage producent:** de aanvraag wordt ingediend door een producent. De aanvraag bedraagt maximaal € 125.000.
 
-#### Artikel 5. Voorwaarden voor ondersteuning
+##### Artikel 5. Voorwaarden voor ondersteuning
 
 1. Een subsidie wordt alleen verleend als aan de volgende voorwaarden is voldaan:
 
@@ -106,7 +128,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - c. Producenten beschrijven in de aanvraag hoe zij zich verhouden tot de Code Diversiteit en Inclusie.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 1. Er wordt geen subsidie verleend aan of voor:
 
@@ -136,7 +158,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 7. Wijze van indiening
+##### Artikel 7. Wijze van indiening
 
 1. Het Stimuleringsfonds Creatieve Industrie maakt via de website [www.stimuleringsfonds.nljaarlijks](http://www.stimuleringsfonds.nljaarlijks) bekend binnen welke perioden op grond van deze regeling een subsidieaanvraag kan worden ingediend.
 
@@ -144,7 +166,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 3. Aanvragen worden in de Nederlandse of Engelse taal opgesteld.
 
-#### Artikel 8. Inhoud van de aanvraag
+##### Artikel 8. Inhoud van de aanvraag
 
 1. Een aanvraag voor een **ontwikkelsubsidie**bevat:
 
@@ -200,7 +222,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 9. Advisering
+##### Artikel 9. Advisering
 
 1. Het fonds toetst of de aanvraag compleet is, voldoet aan de voorwaarden en aansluit bij de taakopvatting van het Stimuleringsfonds Creatieve Industrie zoals verwoord in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049469&hoofdstuk=1&artikel=1&z=2024-03-01&g=2024-03-01) en past binnen de reikwijdte van de regeling zoals verwoord in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049469&hoofdstuk=2&artikel=3&z=2024-03-01&g=2024-03-01). Is dat het geval, dan legt het bestuur de aanvraag ter advisering voor aan een onafhankelijke adviescommissie.
 
@@ -212,7 +234,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 5. De adviescommissie hanteert de Werkwijze Adviescommissies Stimuleringsfonds Creatieve Industrie. Hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op het moment van indienen.
 
-#### Artikel 10. Beoordeling
+##### Artikel 10. Beoordeling
 
 1. **Ontwikkelingsbijdrage**
 
@@ -236,7 +258,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag voor een realise
 
 - d. **Distributie en publieksstrategie:** hierbij wordt gekeken naar de visie en betrokken partners met betrekking tot de distributie, diversiteit en het publieksbereik in Nederland, dan wel internationaal.
 
-#### Artikel 11. Prioritering
+##### Artikel 11. Prioritering
 
 1. Overschrijdt het totaal van de aanvragen dat voor subsidieverlening in aanmerking komt het beschikbare budget van de ronde, dan zal geprioriteerd worden. Daarbij wordt de volgende procedure gehanteerd:
 
@@ -246,13 +268,13 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag voor een realise
 
 - c. In het geval dat de uitkomst van de beoordeling op de criteria zoals beschreven in [Artikel 10 lid 1 en 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049469&hoofdstuk=4&artikel=10&z=2024-03-01&g=2024-03-01) leidt tot meer dan één aanvraag met dezelfde beoordeling, waarbij toekenning zou leiden tot overschrijding van het subsidieplafond, wordt onder deze aanvragen prioriteit gegeven aan de aanvraag die het best wordt beoordeeld op criterium a. de artistiek-inhoudelijke kwaliteit. De alsdan gelijk gewaardeerde aanvragen worden geprioriteerd op basis van de score op criterium b. De alsdan gelijk gewaardeerde aanvragen worden geprioriteerd op de bijdrage van de productie aan het versterken van diversiteit en inclusie binnen het vakgebied.
 
-#### Artikel 12. Subsidieplafond
+##### Artikel 12. Subsidieplafond
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door de Minister van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds Creatieve Industrie ter beschikking worden gesteld.
 
 2. Het subsidieplafond voor een ronde wordt vooraf bekendgemaakt via de website van het Stimuleringsfonds Creatieve Industrie: [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 13. Verlening van een subsidie
+##### Artikel 13. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen elf weken na de uiterlijke indieningsdatum schriftelijk over zijn besluit.
 
@@ -262,13 +284,13 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag voor een realise
 
 4. Aan het verlenen van een subsidie kunnen door de ontvanger geen rechten worden ontleend met betrekking tot een volgende aanvraag.
 
-#### Artikel 14. Voorschotten
+##### Artikel 14. Voorschotten
 
 Het Stimuleringsfonds Creatieve Industrie betaalt in het geval van een toekenning bij wijze van voorschot 80% uit van het toegekende bedrag. Het resterende deel wordt uitbetaald na het besluit tot vaststelling van de subsidie.
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 15. Administratie
+##### Artikel 15. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -276,11 +298,11 @@ Het Stimuleringsfonds Creatieve Industrie betaalt in het geval van een toekennin
 
 3. De subsidieontvanger bewaart de administratie en de bijbehorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 16. Vermelding Stimuleringsfonds Creatieve Industrie en Nederlands filmfonds
+##### Artikel 16. Vermelding Stimuleringsfonds Creatieve Industrie en Nederlands filmfonds
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger zowel het Stimuleringsfonds Creatieve Industrie als het Nederlands Filmfonds met logo als subsidieverstrekker met een verwijzing naar deze regeling. Als een subsidieontvanger logo’s opneemt van andere partijen wordt in verhouding tot de bijdrage het logo van het Stimuleringsfonds Creatieve Industrie en het Filmfonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 17. Melding bij het Stimuleringsfonds Creatieve Industrie
+##### Artikel 17. Melding bij het Stimuleringsfonds Creatieve Industrie
 
 In het geval een van de onderstaande situaties zich voordoet brengt de subsidieontvanger het fonds daarvan direct op de hoogte:
 
@@ -294,7 +316,7 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 18. Vaststelling
+##### Artikel 18. Vaststelling
 
 1. Uiterlijk zestien weken na het verlopen van de subsidieperiode wordt een aanvraag tot vaststelling ingediend door de subsidieontvanger via de digitale aanvraagomgeving van het Stimuleringsfonds Creatieve Industrie. Hiervoor wordt het verantwoordingsformulier gebruikt.
 
@@ -304,13 +326,13 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 4. Het bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van de subsidie.
 
-#### Artikel 19. Verantwoording bij subsidies minder dan € 25.000
+##### Artikel 19. Verantwoording bij subsidies minder dan € 25.000
 
 1. Bedraagt de subsidie minder dan € 25.000, dan toont de subsidieontvanger aan de hand van een kort inhoudelijk verslag en een financieel overzicht van alle gerealiseerde kosten en baten aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
 2. Voor de verantwoording van een startsubsidie kan worden volstaan met een online ingevuld en ondertekend verantwoordingsformulier. Het resulterende uitgewerkte projectplan voor de uitvoeringsfase van het beoogde project kan als bijlage worden toegevoegd.
 
-#### Artikel 20. Verantwoording bij subsidies van € 25.000 of meer
+##### Artikel 20. Verantwoording bij subsidies van € 25.000 of meer
 
 1. Bedraagt de subsidie € 25.000 of meer, dan toont de subsidieontvanger aan de hand van een inhoudelijk verslag aan dat de activiteiten waarvoor de subsidie is verleend zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -318,7 +340,7 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 3. Het verslag bevat, voor zover van toepassing, een analyse van verschillen tussen de voorgenomen activiteiten en de beoogde resultaten, deze worden vermeld in de beschrijving van het project, en de feitelijke realisatie.
 
-#### Artikel 21. Werkelijkekostenverklaring bij subsidies van € 25.000 of meer
+##### Artikel 21. Werkelijkekostenverklaring bij subsidies van € 25.000 of meer
 
 1. Bedraagt de subsidie € 25.000 of meer, dan moet de subsidieontvanger op basis van een verklaring inzake werkelijke kosten en opbrengsten aantonen dat de activiteiten zijn verricht.
 
@@ -334,21 +356,21 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 22. Bezwaar
+##### Artikel 22. Bezwaar
 
 Een belanghebbende kan tegen een besluit van het bestuur dat op grond van deze regeling wordt genomen bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. Deze termijn gaat in op de dag na die waarop het besluit op de voorgeschreven wijze is bekendgemaakt. De procedure voor bezwaren is gepubliceerd op de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 23. Bescherming persoonsgegevens
+##### Artikel 23. Bescherming persoonsgegevens
 
 Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het Stimuleringsfonds zijn medegedeeld en om persoonsgegevens als bedoeld in de [artikelen 22 tot en met 33 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=22), tenzij de verstrekking voortvloeit uit een wettelijke verplichting dan wel kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
-#### Artikel 24. Inwerkingtreding en expiratie
+##### Artikel 24. Inwerkingtreding en expiratie
 
 Deze regeling treedt in werking met ingang van 1 maart 2024.
 
 Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Immerse\Interact
 

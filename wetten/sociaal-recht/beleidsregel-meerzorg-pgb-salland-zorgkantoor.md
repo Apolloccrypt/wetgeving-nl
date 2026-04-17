@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Meerzorg pgb Salland Zorgkantoor"
 identifier: "BWBR0052498"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-04-07
-laatste_update: 2026-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052498"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-04-07"
+last_updated: "2026-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052498"
+soort: "zbo"
+stam_id: "17827563"
+version_id: "31514592"
+internal_id: "C45001241"
+label_id: "17724764"
+dtd_version: "2.0"
+original_entry_into_force: "2026-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052498/2026-04-07/0"
+intitule_bron: "Stcrt.2026-12274"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-24"
+intitule_published: "2026-04-07"
+intitule_in_force: "2026-04-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-12274"
+original_signed_date: "2026-03-24"
+original_published_date: "2026-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-12274"
+entry_into_force_date: "2026-04-07"
+jci_1_3: "jci1.3:c:BWBR0052498&z=2026-04-07&g=2026-04-07"
+jci_1_0: "1.0:c:BWBR0052498&g=2026-04-07"
+citeertitel_status: "officieel"
+signed_date: "2026-03-24"
+entry_into_force: "2026-04-07"
 ---
-
 # Beleidsregel Meerzorg pgb Salland Zorgkantoor
 
 gelet op [artikel 2.2 Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.2) en de daarin besloten bevoegdheid om te beoordelen in hoeverre er sprake is van een zorgprofiel overstijgende zorgbehoefte,
@@ -18,19 +43,19 @@ gelet op [artikel 5.1e Rlz](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&arti
 
 besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Salland Zorgkantoor hanteert beleidsregels bij het beoordelen of er sprake is van een recht op Meerzorg en zo ja, de omvang van de Meerzorgtoeslag. Deze beleidsregels zijn opgenomen in hoofdstuk 1 tot en met 4 bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met terugwerkende kracht vanaf 1 maart 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregel Meerzorg pgb Salland Zorgkantoor
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt met de beleidsregel in de Staatscourant geplaatst.
 

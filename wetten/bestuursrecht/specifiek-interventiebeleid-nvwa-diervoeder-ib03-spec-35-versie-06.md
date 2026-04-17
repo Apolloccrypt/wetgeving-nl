@@ -1,13 +1,39 @@
 ---
-title: "Specifiek interventiebeleid NVWA diervoeder (IB03-SPEC 35, versie 06)"
+title: "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur. van 10 januari 2025 tot vaststelling van het Specifiek interventiebeleid NVWA diervoeder (IB03-SPEC 35, versie 06)"
 identifier: "BWBR0050704"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-02-22
-laatste_update: 2025-02-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050704"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-22"
+last_updated: "2025-02-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050704"
+soort: "beleidsregel"
+stam_id: "17346793"
+version_id: "30571882"
+internal_id: "C43825011"
+label_id: "17250824"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050704/2025-02-22/0"
+intitule_bron: "Stcrt.2025-2631"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-10"
+intitule_published: "2025-01-22"
+intitule_in_force: "2025-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-2631"
+original_signed_date: "2025-01-10"
+original_published_date: "2025-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-2631"
+entry_into_force_date: "2025-02-22"
+jci_1_3: "jci1.3:c:BWBR0050704&z=2025-02-22&g=2025-02-22"
+jci_1_0: "1.0:c:BWBR0050704&g=2025-02-22"
+citeertitel_status: "officieel"
+short_title: "Specifiek interventiebeleid NVWA diervoeder (IB03-SPEC 35, versie 06)"
+signed_date: "2025-01-10"
+entry_into_force: "2025-02-22"
 ---
-
 # Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur. van 10 januari 2025 tot vaststelling van het Specifiek interventiebeleid NVWA diervoeder (IB03-SPEC 35, versie 06)
 
 De Minister van Landbouw, Visserij, Voedselzekerheid en Natuur

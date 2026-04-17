@@ -1,13 +1,35 @@
 ---
 title: "Verdrag nopens de bestrijding van discriminatie in het onderwijs"
 identifier: "BWBV0005155"
-categorie: "Onderwijs"
-publicatiedatum: 1966-06-25
-laatste_update: 1966-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005155"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-06-25"
+last_updated: "1966-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005155"
+soort: "verdrag"
+stam_id: "10004487653"
+version_id: "10004701232"
+internal_id: "C10007029181"
+label_id: "10004472604"
+dtd_version: "2.0"
+original_entry_into_force: "1966-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005155/1966-06-25/0"
+intitule_bron: "Trb.1964-69"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-05-21"
+intitule_in_force: "1966-09-22"
+intitule_status: "goed"
+original_publication: "Trb.1964-69"
+original_published_date: "1964-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-69"
+entry_into_force_date: "1966-06-25"
+jci_1_3: "jci1.3:c:BWBV0005155&z=1966-06-25&g=1966-06-25"
+jci_1_0: "1.0:c:BWBV0005155&g=1966-06-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-06-25"
 ---
-
 # Verdrag nopens de bestrijding van discriminatie in het onderwijs
 
 De Algemene Vergadering van de Organisatie van de Verenigde Naties voor Opvoeding, Wetenschap en Cultuur, van 14 november tot 15 december 1960 tijdens haar elfde zitting bijeen te Parijs,
@@ -26,7 +48,7 @@ Besloten hebbende tijdens haar tiende zitting dat dit vraagstuk het onderwerp di
 
 Aanvaardt dit Verdrag op de veertiende december 1960.
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit Verdrag omvat de uitdrukking „discriminatie” ieder onderscheid dat, en iedere uitsluiting, beperking of voorkeur die, op grond van ras, huidskleur, geslacht, taal, godsdienst, politieke of andere overtuiging, nationale of maatschappelijke afkomst, economische omstandigheden of geboorte, ten doel of ten gevolge hebben dat de gelijkheid van behandeling ten aanzien van het onderwijs teniet wordt gedaan of wordt aangetast, en in het bijzonder ten doel of ten gevolge hebben dat:
 
@@ -40,7 +62,7 @@ Aanvaardt dit Verdrag op de veertiende december 1960.
 
 2. In dit Verdrag heeft de uitdrukking „onderwijs” betrekking op alle onderwijssoorten en -niveaus en omvat mede toegang tot het onderwijs, het peil en het gehalte van het onderwijs en de omstandigheden waaronder het wordt gegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende situaties worden niet beschouwd als discriminatie in de zin van artikel 1 van dit Verdrag indien zij in een staat zijn toegestaan:
 
@@ -50,7 +72,7 @@ De volgende situaties worden niet beschouwd als discriminatie in de zin van arti
 
 - c. Het oprichten of in stand houden van particuliere onderwijsinstellingen, indien het doel van de instellingen niet is de uitsluiting van enige groep te bewerkstelligen, doch onderwijsfaciliteiten te verschaffen naast die welke door de overheid worden verschaft, indien die instellingen overeenkomstig dat doel worden geleid en indien het gegeven onderwijs voldoet aan de door de bevoegde autoriteiten vast te stellen of goed te keuren normen, met name ten aanzien van onderwijs van gelijk niveau.
 
-#### Artikel 3
+##### Artikel 3
 
 Teneinde discriminatie in de zin van dit Verdrag op te heffen of te voorkomen nemen de staten die partij zijn bij dit Verdrag de verplichting op zich:
 
@@ -64,7 +86,7 @@ Teneinde discriminatie in de zin van dit Verdrag op te heffen of te voorkomen ne
 
 - e. Buitenlandse onderdanen die op hun grondgebied wonen op dezelfde wijze toegang te verlenen tot het onderwijs als hun eigen onderdanen.
 
-#### Artikel 4
+##### Artikel 4
 
 De staten die partij zijn bij dit Verdrag nemen voorts de verplichting op zich nationaal een beleid te ontwerpen, te ontwikkelen en toe te passen, dat, door middel van aan de omstandigheden en het nationale gebruik aangepaste methoden, er toe zal bijdragen gelijke kansen en gelijke behandeling op het gebied van het onderwijs te bevorderen, en zij nemen in het bijzonder de verplichting op zich:
 
@@ -76,7 +98,7 @@ De staten die partij zijn bij dit Verdrag nemen voorts de verplichting op zich n
 
 - d. Zonder discriminatie opleidingsrnogelijkheden te verschaffen voor het beroep van onderwijzer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De staten die partij zijn bij dit Verdrag zijn het erover eens dat:
 
@@ -94,51 +116,51 @@ De staten die partij zijn bij dit Verdrag nemen voorts de verplichting op zich n
 
 2. De staten die partij zijn bij dit Verdrag nemen de verplichting op zich alle maatregelen te nemen die nodig zijn ter verzekering van de toepassing van de in lid 1 van dit artikel genoemde beginselen.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de toepassing van dit Verdrag nemen de staten die daarbij partij zijn de verplichting op zich de grootst mogelijke aandacht te schenken aan de hierna door de Algemene Vergadering van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur aan te nemen aanbevelingen, waarin de maatregelen die tegen de verschillende vormen van discriminatie op het gebied van het onderwijs dienen te worden genomen worden omschreven en die tot doel hebben gelijke kansen en gelijke behandeling op het gebied van het onderwijs te verzekeren.
 
-#### Artikel 7
+##### Artikel 7
 
 De staten die partij zijn bij dit Verdrag zijn gehouden om in hun periodieke rapporten die zij op tijdstippen en op een wijze die door de Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur zullen worden vastgesteld, aan de Algemene Vergadering dienen over te leggen, inlichtingen te verstrekken over de wettelijke en administratieve voorschriften die zij hebben uitgevaardigd, alsmede over alle andere maatregelen die zij hebben genomen voor de toepassing van dit Verdrag, met inbegrip van de maatregelen in verband met het ontwerpen en het ontwikkelen van het in artikel 4 bedoelde nationale beleid, en de bij de toepassing van dat beleid bereikte resultaten en de ondervonden moeilijkheden.
 
-#### Artikel 8
+##### Artikel 8
 
 Elk geschil dat tussen twee of meer staten die partij zijn bij dit Verdrag mocht rijzen ten aanzien van de uitlegging of toepassing van dit Verdrag, dat niet door middel van onderhandelingen wordt beslecht zal op verzoek van de bij het geschil betrokken partijen ter beslissing worden voorgelegd aan het Internationale Gerechtshof, bij gebreke van andere middelen van beslechting.
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van dit Verdrag is geen enkel voorbehoud toegestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Verdrag mag niet tot gevolg hebben dat de rechten die personen of groepen personen eventueel genieten krachtens tussen twee of meer staten gesloten overeenkomsten worden aangetast, indien die rechten niet in strijd zijn met de letter of de geest van dit Verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit Verdrag is opgesteld in de Engelse, Franse, Russische en Spaanse taal, zijnde de vier talen gelijkelijk gezaghebbend.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag dient door alle Lid-Staten van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur te worden bekrachtigd of aanvaard in overeenstemming met hun onderscheiden grondwettelijke procedures.
 
 2. De akten van bekrachtiging of aanvaarding dienen te worden nedergelegd bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Verdrag staat open voor toetreding door alle staten die geen lid zijn van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur en die daartoe door de Uitvoerende Raad van de Organisatie worden uitgenodigd.
 
 2. Toetreding geschiedt door de nederlegging van een akte van toetreding bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit Verdrag treedt in werking drie maanden na de datum van nederlegging van de derde akte van bekrachtiging, aanvaarding of toetreding doch alleen ten aanzien van de staten die op of voor die datum hun onderscheiden akten hebben nedergelegd. Ten aanzien van iedere andere staat treedt het in werking drie maanden na de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding.
 
-#### Artikel 15
+##### Artikel 15
 
 De staten die partij zijn bij dit Verdrag erkennen dat dit Verdrag niet alleen van toepassing is op hun moederland doch ook op alle niet-zelfbesturende, trustschaps-, koloniale en andere gebieden voor wier internationale betrekkingen zij verantwoordelijk zijn; zij verplichten zich om bij of voor de bekrachtiging aanvaarding of toetreding overleg te plegen met de regeringen of andere bevoegde autoriteiten van die gebieden teneinde de toepassing van dit Verdrag op die gebieden te verzekeren, en om de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur mede te delen op welke gebieden het Verdrag aldus van toepassing is; deze mededeling wordt drie maanden na de datum van ontvangst van kracht.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Iedere staat die partij is bij dit Verdrag kan het namens hemzelf of namens een der gebieden voor wier internationale betrekkingen hij verantwoordelijk is opzeggen.
 
@@ -146,17 +168,17 @@ De staten die partij zijn bij dit Verdrag erkennen dat dit Verdrag niet alleen v
 
 3. De opzegging wordt van kracht twaalf maanden na de ontvangst van de akte van opzegging.
 
-#### Artikel 17
+##### Artikel 17
 
 De Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur doet aan alle Lid-Staten van de Organisatie, de in artikel 13 bedoelde staten die geen lid zijn van de Organisatie, alsmede aan de Verenigde Naties, mededeling van de nederlegging van alle akten van bekrachtiging, aanvaarding en toetreding bedoeld in de artikelen 12 en 13, en van de mededelingen en opzeggingen bedoeld in onderscheidenlijk artikel 15 en artikel 16.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag kan worden herzien door de Algemene Vergadering van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur. Iedere zodanige wijziging bindt echter slechts de staten die partij worden bij het wijzigingsverdrag.
 
 2. Indien de Algemene Vergadering een nieuw verdrag aanneemt waarbij dit Verdrag geheel of gedeeltelijk wordt herzien, staat dit Verdrag met ingang van de datum van inwerkingtreding van het wijzigingsverdrag niet langer open voor bekrachtiging, aanvaarding of toetreding tenzij het nieuwe verdrag anders bepaalt.
 
-#### Artikel 19
+##### Artikel 19
 
 Overeenkomstig artikel 102 van het Handvest van de Verenigde Naties dient dit Verdrag op verzoek van de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur te worden geregistreerd bij het Secretariaat van de Verenigde Naties.
 

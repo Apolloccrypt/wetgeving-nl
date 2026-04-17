@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie"
 identifier: "BWBV0001342"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-10-01
-laatste_update: 1998-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001342"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-10-01"
+last_updated: "1998-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001342"
+soort: "verdrag"
+stam_id: "10002266783"
+version_id: "10002293542"
+internal_id: "C10006977911"
+label_id: "10002257234"
+dtd_version: "2.0"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001342/1998-10-01/0"
+intitule_bron: "Trb.1993-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-26"
+intitule_published: "1993-12-29"
+intitule_in_force: "1998-10-30"
+intitule_status: "goed"
+original_publication: "Trb.1993-197"
+original_signed_date: "1998-06-26"
+original_published_date: "1993-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-197"
+entry_into_force_date: "1998-10-01"
+jci_1_3: "jci1.3:c:BWBV0001342&z=1998-10-01&g=1998-10-01"
+jci_1_0: "1.0:c:BWBV0001342&g=1998-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "1998-06-26"
+entry_into_force: "1998-10-01"
 ---
-
 # Verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -26,7 +51,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Verdrag heeft tot doel:
 
@@ -36,19 +61,19 @@ Dit Verdrag heeft tot doel:
 
 - c. de erkenning van overeenkomstig het Verdrag tot stand gekomen adopties in de Verdragsluitende Staten te verzekeren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing wanneer een kind dat zijn gewone verblijfplaats in een Verdragsluitende Staat (Staat van herkomst) heeft, naar een andere Verdragsluitende Staat (Staat van opvang) is, wordt of zal worden overgebracht, hetzij na zijn adoptie in de Staat van herkomst door echtgenoten of een persoon van wie de gewone verblijfplaats zich in de Staat van opvang bevindt, hetzij met het oog op een zodanige adoptie in de Staat van opvang of in de Staat van herkomst.
 
 2. Het Verdrag heeft slechts betrekking op adopties die familierechtelijke betrekkingen tot stand brengen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Verdrag is niet langer van toepassing indien de instemmingen bedoeld in artikel 17, onder c, niet zijn verkregen voordat het kind de leeftijd van achttien jaren bereikt.
 
 ### HOOFDSTUK II. VEREISTEN VOOR INTERLANDELIJKE ADOPTIES
 
-#### Artikel 4
+##### Artikel 4
 
 Een adoptie als bedoeld in dit Verdrag kan slechts plaatsvinden indien de bevoegde autoriteiten van de Staat van herkomst:
 
@@ -76,7 +101,7 @@ Een adoptie als bedoeld in dit Verdrag kan slechts plaatsvinden indien de bevoeg
 
 - 4. dat deze niet is verkregen tegen betaling of in ruil voor enige andere tegenprestatie.
 
-#### Artikel 5
+##### Artikel 5
 
 Adopties als bedoeld in dit Verdrag kunnen slechts plaatsvinden indien de bevoegde autoriteiten van de Staat van opvang:
 
@@ -88,13 +113,13 @@ Adopties als bedoeld in dit Verdrag kunnen slechts plaatsvinden indien de bevoeg
 
 ### HOOFDSTUK III. CENTRALE AUTORITEITEN EN VERGUNNINGHOUDENDE INSTELLINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Verdragsluitende Staat wijst een Centrale Autoriteit aan die is belast met de nakoming van de door het Verdrag aan haar opgelegde verplichtingen.
 
 2. Federale Staten, Staten waarin meer dan één rechtsstelsel geldt en Staten die autonome territoriale eenheden omvatten, staat het vrij meer dan één Centrale Autoriteit aan te wijzen en de territoriale of personele reikwijdte van hun taken aan te geven. De Staat die van deze mogelijkheid gebruik maakt, wijst de Centrale Autoriteit aan waaraan mededelingen kunnen worden gedaan ter overbrenging daarvan aan de bevoegde Centrale Autoriteit binnen deze Staat.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Centrale Autoriteiten dienen onderling samen te werken en de samenwerking tussen de bevoegde autoriteiten van hun onderscheiden Staten te bevorderen teneinde kinderen te beschermen en de overige doelstellingen van het Verdrag te verwezenlijken.
 
@@ -104,11 +129,11 @@ Adopties als bedoeld in dit Verdrag kunnen slechts plaatsvinden indien de bevoeg
 
 - b. elkaar op de hoogte te houden omtrent de werking van het Verdrag en, voor zover mogelijk, belemmeringen voor de toepassing daarvan weg te nemen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Centrale Autoriteiten nemen, hetzij rechtstreeks, hetzij via overheidsinstanties, alle passende maatregelen om het ten onrechte genieten van financieel of ander voordeel in verband met de adoptie te voorkomen en alle praktijken die in strijd zijn met de doelstellingen van het Verdrag te verhinderen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Centrale Autoriteiten nemen, hetzij rechtstreeks, hetzij via overheidsinstanties of andere instellingen waaraan naar behoren vergunning is verleend in hun Staat, alle passende maatregelen, in het bijzonder om:
 
@@ -122,11 +147,11 @@ De Centrale Autoriteiten nemen, hetzij rechtstreeks, hetzij via overheidsinstant
 
 - e. voor zover de wetgeving van hun Staat dit toestaat, gevolg te geven aan met redenen omklede verzoeken van andere Centrale Autoriteiten of overheidsinstanties om informatie over een bepaalde adoptiesituatie.
 
-#### Artikel 10
+##### Artikel 10
 
 Vergunningen kunnen slechts worden verleend aan, en worden behouden door, instellingen die aantonen in staat te zijn de taken die hun kunnen worden toevertrouwd naar behoren te vervullen.
 
-#### Artikel 11
+##### Artikel 11
 
 Een vergunninghoudende instelling dient:
 
@@ -136,27 +161,27 @@ Een vergunninghoudende instelling dient:
 
 - c. wat hun samenstelling, functioneren en financiële situatie betreft, onderworpen te zijn aan het toezicht van bevoegde autoriteiten van die Staat.
 
-#### Artikel 12
+##### Artikel 12
 
 Een instelling waaraan in een Verdragsluitende Staat vergunning is verleend, kan in een andere Verdragsluitende Staat slechts optreden indien zij daartoe door de bevoegde autoriteiten van beide Staten is gemachtigd.
 
-#### Artikel 13
+##### Artikel 13
 
 De aanwijzing van de Centrale Autoriteiten en de eventuele reikwijdte van hun taken, alsmede de namen en adressen van de vergunninghoudende instellingen worden door elke Verdragsluitende Staat medegedeeld aan het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht.
 
 ### HOOFDSTUK IV. PROCEDURELE VEREISTEN VOOR INTERLANDELIJKE ADOPTIE
 
-#### Artikel 14
+##### Artikel 14
 
 Personen die hun gewone verblijfplaats hebben in een Verdragsluitende Staat en die een kind wensen te adopteren dat zijn gewone verblijfplaats in een andere Verdragsluitende Staat heeft, dienen zich te wenden tot de Centrale Autoriteit van de Staat van hun gewone verblijfplaats.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de Centrale Autoriteit van de Staat van opvang van oordeel is dat de verzoekers voldoen aan de vereisten voor adoptie en daartoe geschikt zijn, stelt zij een rapport samen dat gegevens bevat omtrent hun identiteit, hun bevoegdheid en hun geschiktheid om te adopteren, hun persoonlijke achtergrond, gezinssituatie en medisch verleden, hun sociale milieu, hun beweegredenen, hun geschiktheid om een interlandelijke adoptie aan te gaan en omtrent de kinderen waarvoor zij de zorg op zich zouden kunnen nemen.
 
 2. Zij doet het rapport toekomen aan de Centrale Autoriteit van de Staat van herkomst.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de Centrale Autoriteit van de Staat van herkomst van oordeel is dat het kind voor adoptie in aanmerking komt,
 
@@ -170,7 +195,7 @@ Personen die hun gewone verblijfplaats hebben in een Verdragsluitende Staat en d
 
 2. Zij doet het rapport inzake het kind, het bewijs dat de vereiste toestemmingen zijn verkregen en de redenen voor haar conclusie inzake de plaatsing toekomen aan de Centrale Autoriteit van de Staat van opvang, waarbij zij ervoor zorg draagt geen mededeling te doen van de identiteit van de moeder en de vader indien deze identiteit in de Staat van herkomst niet mag worden bekend gemaakt.
 
-#### Artikel 17
+##### Artikel 17
 
 Een beslissing om een kind aan de zorg van aspirant-adoptiefouders toe te vertrouwen, mag in de Staat van herkomst slechts worden genomen indien:
 
@@ -182,11 +207,11 @@ Een beslissing om een kind aan de zorg van aspirant-adoptiefouders toe te vertro
 
 - d. overeenkomstig artikel 5 is vastgesteld dat de aspirant-adoptiefouders aan de vereisten voor adoptie voldoen en daartoe geschikt zijn en dat het kind vergunning heeft of zal verkrijgen de Staat van opvang binnen te komen en aldaar permanent te verblijven.
 
-#### Artikel 18
+##### Artikel 18
 
 De Centrale Autoriteiten van de beide Staten nemen alle nodige maatregelen om voor het kind de vergunningen te verkrijgen om de Staat van herkomst te verlaten en de Staat van opvang binnen te komen en aldaar permanent te verblijven.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De overbrenging van het kind naar de Staat van opvang mag slechts plaatsvinden indien aan de vereisten van artikel 17 is voldaan.
 
@@ -194,11 +219,11 @@ De Centrale Autoriteiten van de beide Staten nemen alle nodige maatregelen om vo
 
 3. Indien de overbrenging van het kind niet plaatsvindt, worden de in de artikelen 15 en 16 bedoelde rapporten teruggezonden aan de autoriteiten die deze hebben verzonden.
 
-#### Artikel 20
+##### Artikel 20
 
 De Centrale Autoriteiten houden elkaar op de hoogte van de adoptieprocedure en de maatregelen die worden genomen om deze af te wikkelen, alsmede van het verloop van de plaatsing, indien een proeftijd vereist is.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien de adoptie moet plaatsvinden na de overbrenging van het kind naar de Staat van opvang en de Centrale Autoriteit van die Staat van oordeel is dat met het voortgezette verblijf van het kind in het gezin van de aspirant-adoptiefouders het hoogste belang van het kind niet is gediend, neemt zij de nodige maatregelen om het kind te beschermen, met name door:
 
@@ -210,7 +235,7 @@ De Centrale Autoriteiten houden elkaar op de hoogte van de adoptieprocedure en d
 
 2. Afhankelijk, in het bijzonder, van zijn leeftijd en zijn ontwikkelingspeil, wordt het kind geraadpleegd en wordt, waar passend, zijn toestemming tot de op grond van dit artikel te nemen maatregelen verkregen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De taken waarmee de Centrale Autoriteit op grond van dit hoofdstuk is belast, kunnen, voor zover de wet van haar Staat zulks toelaat, worden uitgevoerd door overheidsinstanties of door instellingen waaraan op grond van Hoofdstuk III vergunning is verleend.
 
@@ -228,21 +253,21 @@ De Centrale Autoriteiten houden elkaar op de hoogte van de adoptieprocedure en d
 
 ### HOOFDSTUK V. ERKENNING EN GEVOLGEN VAN DE ADOPTIE
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een adoptie ten aanzien waarvan de bevoegde autoriteit van de Staat waar de adoptie heeft plaatsgevonden schriftelijk heeft verklaard dat zij in overeenstemming met het Verdrag is tot stand gekomen, wordt in de andere Verdragsluitende Staten van rechtswege erkend. In de verklaring wordt aangegeven wanneer en van wie de instemmingen ingevolge artikel 17, onder c, werden verkregen.
 
 2. Elke Verdragsluitende Staat stelt, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, de depositaris van het Verdrag in kennis van de identiteit en de taken van de autoriteit of autoriteiten die in de Staat bevoegd is of zijn om de verklaring af te geven. Hij stelt de depositaris ook in kennis van wijzigingen in de aanwijzing van deze autoriteiten.
 
-#### Artikel 24
+##### Artikel 24
 
 De erkenning van een adoptie kan in een Verdragsluitende Staat slechts worden geweigerd indien, gelet op het belang van het kind, de adoptie kennelijk niet verenigbaar is met zijn openbare orde.
 
-#### Artikel 25
+##### Artikel 25
 
 Een Verdragsluitende Staat kan bij de depositaris van het Verdrag de verklaring afleggen dat hij ingevolge dit Verdrag niet gehouden zal zijn adopties te erkennen die in overeenstemming met een op grond van artikel 39, tweede lid, gesloten overeenkomst tot stand zijn gekomen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De erkenning van een adoptie houdt tevens in de erkenning van
 
@@ -256,7 +281,7 @@ Een Verdragsluitende Staat kan bij de depositaris van het Verdrag de verklaring 
 
 3. De voorgaande leden doen geen afbreuk aan de toepassing van voor het kind gunstiger bepalingen die gelden in de Verdragsluitende Staat die de adoptie erkent.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien een in de Staat van herkomst toegestane adoptie niet tot gevolg heeft dat de voordien bestaande familierechtelijke betrekkingen worden verbroken, kan zij in de Staat van opvang die de adoptie ingevolge het Verdrag erkent, worden omgezet in een adoptie die dit gevolg heeft
 
@@ -268,25 +293,25 @@ Een Verdragsluitende Staat kan bij de depositaris van het Verdrag de verklaring 
 
 ### HOOFDSTUK VI. ALGEMENE BEPALINGEN
 
-#### Artikel 28
+##### Artikel 28
 
 Dit verdrag doet geen afbreuk aan de wetten van een Staat van herkomst die vereisen dat de adoptie van een kind dat zijn gewone verblijf in die Staat heeft in die Staat plaatsvindt, of die verbieden dat een kind voor zijn adoptie in de Staat van opvang wordt geplaatst of daarheen wordt overgebracht.
 
-#### Artikel 29
+##### Artikel 29
 
 Er mag tussen de aspirant-adoptiefouders en de ouders van het kind of een andere persoon aan wie de zorg voor het kind is toevertrouwd geen contact zijn totdat is voldaan aan de vereisten van artikel 4, onder a tot en met c, en artikel 5, onder a, tenzij de adoptie plaatsvindt binnen eenzelfde familie of tenzij aan de daaraan door de bevoegde autoriteit van de Staat van herkomst gestelde voorwaarden is voldaan.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De bevoegde autoriteiten van een Verdragsluitende Staat dragen zorg voor de bewaring van de in hun bezit zijnde gegevens omtrent de afkomst van het kind, met name gegevens betreffende de identiteit van zijn ouders, alsmede de medische gegevens betreffende het medische verleden van het kind en zijn familie.
 
 2. Zij bewerkstelligen dat voor zover de wetgeving van hun Staat zulks toelaat, het kind of zijn vertegenwoordiger, onder passende begeleiding, toegang heeft tot deze gegevens.
 
-#### Artikel 31
+##### Artikel 31
 
 Onverminderd artikel 30 mogen de op grond van het Verdrag verzamelde of toegezonden persoonlijke gegevens, in het bijzonder de in de artikelen 15 en 16 bedoelde gegevens, slechts worden gebruikt voor de doeleinden waarvoor zij zijn verzameld of toegezonden.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Niemand mag ongerechtvaardigd financieel of ander voordeel trekken uit enig optreden in verband met een interlandelijke adoptie.
 
@@ -294,19 +319,19 @@ Onverminderd artikel 30 mogen de op grond van het Verdrag verzamelde of toegezon
 
 3. Bestuurders, beheerders en werknemers van instellingen die bij een adoptie hebben bemiddeld, mogen geen bezoldiging ontvangen die onevenredig hoog is in vergelijking met de verleende diensten.
 
-#### Artikel 33
+##### Artikel 33
 
 Een bevoegde autoriteit die vaststelt dat een van de bepalingen van het Verdrag niet is nageleefd of kennelijk dreigt niet te worden nageleefd, stelt de Centrale Autoriteit van haar Staat hiervan onmiddellijk in kennis. De Centrale Autoriteit heeft de verantwoordelijkheid erop toe te zien dat passende maatregelen worden getroffen.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien de bevoegde autoriteit van de Staat waarvoor een document is bestemd zulks verzoekt, moet een voor eensluidend gewaarmerkte vertaling worden verstrekt. Tenzij anders bepaald, worden de kosten van deze vertaling gedragen door de aspirant-adoptiefouders.
 
-#### Artikel 35
+##### Artikel 35
 
 De bevoegde autoriteiten van de Verdragsluitende Staten betrachten voortvarendheid in adoptieprocedures.
 
-#### Artikel 36
+##### Artikel 36
 
 Ten aanzien van een Staat die op het gebied van adoptie twee of meer rechtsstelsels heeft die in verschillende territoriale eenheden van toepassing zijn,
 
@@ -318,41 +343,41 @@ Ten aanzien van een Staat die op het gebied van adoptie twee of meer rechtsstels
 
 - d. wordt een verwijzing naar de vergunninghoudende instellingen van die Staat uitgelegd als een verwijzing naar de in de desbetreffende territoriale eenheid erkende instellingen.
 
-#### Artikel 37
+##### Artikel 37
 
 Ten aanzien van een Staat die met betrekking tot adoptie twee of meer rechtsstelsels heeft die op verschillende categorieën personen van toepassing zijn, wordt een verwijzing naar de wetgeving van die Staat uitgelegd als een verwijzing naar het door het recht van die Staat aangewezen rechtsstelsel.
 
-#### Artikel 38
+##### Artikel 38
 
 Een Staat waarbinnen verschillende territoriale eenheden met betrekking tot adoptie hun eigen rechtsregels hebben, is niet gehouden het Verdrag toe te passen in gevallen waarin een Staat met een uniform rechtsstelsel daartoe niet gehouden zou zijn.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het Verdrag laat onverlet internationale regelingen waarbij Verdragsluitende Staten Partij zijn en die bepalingen bevatten betreffende in dit Verdrag geregelde onderwerpen, tenzij door de Staten die Partij zijn bij zodanige regelingen een andersluidende verklaring wordt afgelegd.
 
 2. Een Verdragsluitende Staat kan met een of meer andere Verdragsluitende Staten overeenkomsten sluiten met het oog op verbetering van de toepassing van het Verdrag in hun onderlinge betrekkingen. Deze overeenkomsten kunnen alleen afwijken van de bepalingen van de artikelen 14 tot en met 16 en 18 tot en met 21. Staten die een zodanige overeenkomst hebben gesloten, zenden een afschrift daarvan aan de depositaris van het Verdrag.
 
-#### Artikel 40
+##### Artikel 40
 
 Voorbehouden op het Verdrag zijn niet toegestaan.
 
-#### Artikel 41
+##### Artikel 41
 
 Het Verdrag is steeds van toepassing wanneer op grond van artikel 14 een aanvraag is ontvangen nadat het Verdrag in de Staat van opvang en de Staat van herkomst in werking is getreden.
 
-#### Artikel 42
+##### Artikel 42
 
 De Secretaris-Generaal van de Haagse Conferentie voor internationaal privaatrecht roept periodiek een Bijzondere Commissie bijeen ten einde de praktische werking van dit Verdrag te toetsen.
 
 ### HOOFDSTUK VII. SLOTBEPALINGEN
 
-#### Artikel 43
+##### Artikel 43
 
 1. Dit Verdrag staat open voor ondertekening voor de Staten die ten tijde van de Zeventiende Zitting lid waren van de Haagse Conferentie voor Internationaal Privaatrecht en voor andere Staten die aan deze Zitting hebben deelgenomen.
 
 2. Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het Verdrag.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Iedere andere Staat kan tot het Verdrag toetreden nadat het overeenkomstig artikel 46, eerste lid, in werking is getreden.
 
@@ -360,7 +385,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor internationaal privaatrech
 
 3. De toetreding heeft slechts gevolg in de betrekkingen tussen de toetredende Staat en die Verdragsluitende Staten die niet binnen zes maanden na de ontvangst van de in artikel 48, letter b, bedoelde kennisgeving bezwaar hebben gemaakt tegen de toetreding van deze Staat. Een dergelijk bezwaar kan ook worden gemaakt door een Staat op het tijdstip van een bekrachtiging, aanvaarding of goedkeuring van het verdrag, indien deze na de toetreding plaatsvindt. Van bezwaren wordt kennis gegeven aan de depositaris.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Een Staat die twee of meer territoriale eenheden omvat waarin verschillende rechtsstelsels van toepassing zijn betreffende onderwerpen die door dit Verdrag worden geregeld, kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag van toepassing is op al deze territoriale eenheden of slechts op een of meer daarvan en kan te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
@@ -368,7 +393,7 @@ De Secretaris-Generaal van de Haagse Conferentie voor internationaal privaatrech
 
 3. Indien een Staat geen verklaring krachtens dit artikel aflegt, is het Verdrag van toepassing op het gehele grondgebied van die Staat.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring, bedoeld in artikel 43.
 
@@ -378,13 +403,13 @@ De Secretaris-Generaal van de Haagse Conferentie voor internationaal privaatrech
 
 - b. voor een territoriale eenheid waarop het Verdrag overeenkomstig artikel 45 is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van een termijn van drie maanden na de kennisgeving bedoeld in dat artikel.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Een Staat die Partij is bij het Verdrag kan dit opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden nadat de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van zulk een langere termijn nadat de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 48
+##### Artikel 48
 
 De depositaris geeft de Lid-Staten van de Haagse Conferentie voor Internationaal Privaatrecht, de andere Staten die aan de Zeventiende Zitting hebben deelgenomen en de Staten die overeenkomstig artikel 44 zijn toegetreden, kennis van:
 

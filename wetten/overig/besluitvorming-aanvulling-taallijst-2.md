@@ -1,13 +1,38 @@
 ---
 title: "Besluitvorming aanvulling taallijst (2)"
 identifier: "BWBR0044734"
-categorie: "Overig"
-publicatiedatum: 2021-01-23
-laatste_update: 2021-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044734"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-01-23"
+last_updated: "2021-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044734"
+soort: "zbo"
+stam_id: "15818183"
+version_id: "27456682"
+internal_id: "C38756941"
+label_id: "15755464"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044734/2021-01-23/0"
+intitule_bron: "Stcrt.2021-2835"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-01-14"
+intitule_published: "2021-01-22"
+intitule_in_force: "2021-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-2835"
+original_signed_date: "2021-01-14"
+original_published_date: "2021-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-2835"
+entry_into_force_date: "2021-01-23"
+jci_1_3: "jci1.3:c:BWBR0044734&z=2021-01-23&g=2021-01-23"
+jci_1_0: "1.0:c:BWBR0044734&g=2021-01-23"
+citeertitel_status: "officieel"
+signed_date: "2021-01-14"
+entry_into_force: "2021-01-23"
 ---
-
 # Besluitvorming aanvulling taallijst (2)
 
 **Overwegende dat:**

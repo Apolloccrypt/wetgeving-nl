@@ -1,13 +1,38 @@
 ---
 title: "Regeling gebruik boordcomputer en boordcomputerkaarten"
 identifier: "BWBR0028974"
-categorie: "Overig"
-publicatiedatum: 2023-03-01
-laatste_update: 2023-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028974"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-01"
+last_updated: "2023-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028974"
+soort: "ministeriele-regeling"
+stam_id: "11079733"
+version_id: "18109362"
+internal_id: "C26272011"
+label_id: "11054294"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028974/2023-03-01/0"
+intitule_bron: "Stcrt.2010-18329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-15"
+intitule_published: "2010-11-23"
+intitule_in_force: "2011-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-18329"
+original_signed_date: "2010-11-15"
+original_published_date: "2010-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-18329"
+entry_into_force_date: "2011-10-01"
+jci_1_3: "jci1.3:c:BWBR0028974&z=2023-03-01&g=2023-03-01"
+jci_1_0: "1.0:c:BWBR0028974&g=2023-03-01"
+citeertitel_status: "officieel"
+signed_date: "2010-11-15"
+entry_into_force: "2011-10-01"
 ---
-
 # Regeling gebruik boordcomputer en boordcomputerkaarten
 
 Gelet op de [artikelen 73, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=73), [79, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79), [80, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=80), [82, eerste lid, onderdeel d, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=82), en [83, zesde tot en met achtste lid, van het Besluit personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), en [artikel 2.4:2, tweede lid, van het Arbeidstijdenbesluit vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009386&artikel=2.4:2);
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel L, van het Wijzigi
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,15 +59,15 @@ In deze regeling wordt verstaan onder:
 
 - **pukcode:** pin unlock key aan de hand waarvan de boordcomputer de houder van een boordcomputer authenticeert en in staat stelt om de pincode te wijzigen.
 
-#### Artikel 2
+##### Artikel 2
 
 De boordcomputerkaart is eigendom van de Staat der Nederlanden.
 
-#### Artikel 3
+##### Artikel 3
 
 Op een aanvraag om een boordcomputerkaart wordt binnen drie weken na ontvangst van een volledig ingevuld en ondertekend aanvraagformulier beslist.
 
-#### Artikel 4
+##### Artikel 4
 
 Het is de houder van een boordcomputerkaart verboden om:
 
@@ -54,13 +79,13 @@ Het is de houder van een boordcomputerkaart verboden om:
 
 ### Hoofdstuk 2. Chauffeurskaart
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvrager geeft aan of de aanvraag betrekking heeft op een chauffeurskaart dan wel een chauffeurskaart onder beperkingen.
 
 2. Degene die in het bezit is van een chauffeurskaart onder beperkingen, kan een chauffeurskaart met dezelfde einddatum van geldigheid aanvragen onder overlegging van een ingevolge de [Regeling taxibestuurders 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018667) erkend getuigschrift.
 
-#### Artikel 6
+##### Artikel 6
 
 De chauffeurskaart en de chauffeurskaart onder beperkingen bevatten de volgende gegevens van de houder:
 
@@ -74,7 +99,7 @@ De chauffeurskaart en de chauffeurskaart onder beperkingen bevatten de volgende 
 
 - e. burgerservicenummer, dan wel indien de houder een niet-ingezetene is, een door de Minister vastgesteld uniek nummer voorafgegaan door de aanduiding NI.
 
-#### Artikel 7
+##### Artikel 7
 
 Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschiedt op vertoon door de aanvrager van:
 
@@ -82,7 +107,7 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 - b. het aan hem verstrekte bericht dat de chauffeurskaart kan worden afgehaald.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bestuurder handelt overeenkomstig de bij de afgifte van de chauffeurskaart verstrekte schriftelijke instructies.
 
@@ -110,13 +135,13 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 5. Indien de te vervangen kaart op het moment van de melding als bedoeld in het eerste lid nog een geldigheidsduur heeft van drie maanden of minder, kan de bestuurder in plaats van een vervangende kaart een aanvraag indienen voor een nieuwe kaart, mits hij binnen de in het derde lid bedoelde termijn een geldige verklaring omtrent het gedrag en een geldige geneeskundige verklaring overlegt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In geval van een melding als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028974&hoofdstuk=2&artikel=8&z=2023-03-01&g=2023-03-01), levert de aanvrager zijn te vervangen kaart in bij de afgifte van de vervangende kaart.
 
 2. Indien de aanvrager na een melding als bedoeld in [artikel 83, vijfde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=83), zijn kaart na de melding weer in zijn bezit krijgt, zendt hij deze onmiddellijk terug aan de Minister.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De chauffeurskaart en de chauffeurskaart onder beperkingen worden ingetrokken:
 
@@ -140,7 +165,7 @@ Afgifte van een chauffeurskaart of een chauffeurskaart onder beperkingen geschie
 
 ### Hoofdstuk 3. Ondernemerskaart
 
-#### Artikel 11
+##### Artikel 11
 
 Een ondernemerskaart wordt op aanvraag verleend indien de aanvrager:
 
@@ -148,7 +173,7 @@ Een ondernemerskaart wordt op aanvraag verleend indien de aanvrager:
 
 - b. in het bezit is van een vergunning als bedoeld in [artikel 4, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=4).
 
-#### Artikel 12
+##### Artikel 12
 
 1. De vervoerder meldt defect, beschadiging, verlies of diefstal van een ondernemerskaart onmiddellijk aan de Minister onder vermelding van het op die kaart vermelde unieke nummer.
 
@@ -164,17 +189,17 @@ Een ondernemerskaart wordt op aanvraag verleend indien de aanvrager:
 
 ### Hoofdstuk 4. Keuringskaart
 
-#### Artikel 13
+##### Artikel 13
 
 Een keuringskaart wordt op aanvraag verleend aan een erkenninghouder die is ingeschreven in het Handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=2).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De erkenninghouder, niet zijnde een fabrikant als bedoeld in [artikel 1 van de Regeling erkenning werkplaatsen boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&artikel=1), ontvangt voor iedere door hem ten behoeve van het activeren, onderzoeken of herstellen van de boordcomputer geëxploiteerde werkplaats dan wel mobiele activeringseenheid ten hoogste twee keuringskaarten.
 
 2. De erkenninghouder, zijnde een fabrikant als bedoeld in [artikel 1 van de Regeling erkenning werkplaatsen boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0030525&artikel=1), ontvangt ten behoeve van het testen van boordcomputers ten hoogste twee keuringskaarten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een keuringskaart wordt ingetrokken indien:
 
@@ -194,7 +219,7 @@ Een keuringskaart wordt op aanvraag verleend aan een erkenninghouder die is inge
 
 ### Hoofdstuk 5. Gebruik van de boordcomputer
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij aanvang van de werkzaamheden aan boord van een auto waarmee taxivervoer wordt verricht voert de bestuurder zijn kaart en pincode in de boordcomputer in.
 
@@ -212,7 +237,7 @@ Een keuringskaart wordt op aanvraag verleend aan een erkenninghouder die is inge
 
 8. Indien de chauffeurskaart onvoldoende dataopslag heeft, stelt de bestuurder de op de chauffeurskaart opgeslagen gegevens onmiddellijk veilig door deze over te brengen op de boordcomputer dan wel op een andere daartoe geschikte en veilige wijze.
 
-#### Artikel 17
+##### Artikel 17
 
 De vervoerder draagt er zorg voor dat te allen tijde:
 
@@ -222,7 +247,7 @@ De vervoerder draagt er zorg voor dat te allen tijde:
 
 - c. het telefoonnummer van het Landelijk Klachtenmeldpunt Taxivervoer is ingevoerd, alsmede zijn eigen telefoonnummer dan wel het telefoonnummer van de instantie waarmee hij is overeengekomen dat deze de klachten over het taxivervoer in behandeling neemt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Ingeval van een storing als bedoeld in [artikel 26, vierde lid, onder a, b, c of e, van de Regeling specificaties en typegoedkeuring boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0027945&artikel=26) dan wel wanneer de boordcomputer buiten gebruik is, laat de vervoerder deze zo spoedig mogelijk, doch in ieder geval binnen drie werkdagen, door een erkenninghouder, niet zijnde een fabrikant als bedoeld in de [Regeling erkenning werkplaatsen boordcomputer taxi](https://wetten.overheid.nl/jci1.3:c:BWBR0030525), herstellen en draagt hij er zorg voor dat de bestuurder gedurende zijn dienst een registratie bijhoudt van diens arbeids- en rusttijden en van de gegevens, bedoeld in [artikel 79, derde lid, onder a, c en d, en vijfde lid, onder d tot en met f, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011982&artikel=79).
 
@@ -234,7 +259,7 @@ De vervoerder draagt er zorg voor dat te allen tijde:
 
 5. Indien er een waarschuwing wordt gegeven van het ontstaan van onvoldoende opslagcapaciteit in het geheugen van de boordcomputer, draagt de vervoerder onmiddellijk zorg voor een overbrenging van de gegevens uit de boordcomputer naar zijn vestiging.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De vervoerder brengt de in de boordcomputer geregistreerde gegevens met behulp van de ondernemerskaart over naar de vestiging:
 
@@ -254,27 +279,27 @@ De vervoerder draagt er zorg voor dat te allen tijde:
 
 ### Hoofdstuk 6. Wijziging andere regelingen
 
-#### Artikel 20
+##### Artikel 20
 
 De Regeling werkmap wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt de Regeling taxibestuurders 2005.
 
 ### Hoofdstuk 7. Slotbepaling
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Regeling gebruik boordcomputer en boordcomputerkaarten.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdeel L, van het Besluit van 16 oktober 2009 houdende wijziging van het Besluit personenvervoer 2000, het Arbeidstijdenbesluit vervoer en het Reglement rijbewijzen in verband met de invoering van de boordcomputer taxi, de afschaffing van de vergunning voor collectief personenvervoer en een technische wijziging in verband met het elektronisch vervoerbewijs](https://wetten.overheid.nl/jci1.3:c:BWBR0026675&artikel=I) in werking treedt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Een lwt-kaart wordt eenmalig verstrekt en heeft een geldigheidsduur van zes maanden.
 

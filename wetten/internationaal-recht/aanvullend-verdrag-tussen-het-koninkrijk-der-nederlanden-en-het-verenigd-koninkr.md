@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende rechtsgedingen"
 identifier: "BWBV0004429"
-categorie: "Internationaal recht"
-publicatiedatum: 1970-03-16
-laatste_update: 1970-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004429"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-03-16"
+last_updated: "1970-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004429"
+soort: "verdrag"
+stam_id: "10004122163"
+version_id: "10004290832"
+internal_id: "C10006985821"
+label_id: "10004107114"
+dtd_version: "2.0"
+original_entry_into_force: "1970-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004429/1970-03-16/0"
+intitule_bron: "Trb.1967-196"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-12-14"
+intitule_in_force: "1969-12-19"
+intitule_status: "goed"
+original_publication: "Trb.1967-196"
+original_published_date: "1967-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-196"
+entry_into_force_date: "1970-03-16"
+jci_1_3: "jci1.3:c:BWBV0004429&z=1970-03-16&g=1970-03-16"
+jci_1_0: "1.0:c:BWBV0004429&g=1970-03-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-03-16"
 ---
-
 # Aanvullend Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende rechtsgedingen
 
 Hare Majesteit de Koningin der Nederlanden en
@@ -32,7 +54,7 @@ De Right Honourable Lord Gardiner, Lord High Chancellor van Groot-Brittannië;
 
 Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewisseld, zijn overeengekomen als volgt:
 
-#### Artikel I. Werkingssfeer van het Verdrag en begripsomschrijvingen
+##### Artikel I. Werkingssfeer van het Verdrag en begripsomschrijvingen
 
 1. Tenzij uitdrukkelijk het tegendeel is bepaald, is dit Verdrag slechts van toepassing op burgerlijke zaken, daaronder begrepen zaken, waarover in oneigenlijke rechtspraak wordt beslist.
 
@@ -54,17 +76,17 @@ Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 - 3). ten aanzien van elk der Hoge Verdragsluitende Partijen, rechtspersonen, die volgens de wetten van de gebieden van die Hoge Verdragsluitende Partij als zodanig zijn opgericht of erkend.
 
-#### Artikel II. Rechtsbescherming en optreden in rechte
+##### Artikel II. Rechtsbescherming en optreden in rechte
 
 1. De onderdanen van een der Hoge Verdragsluitende Partijen genieten in de gebieden van de andere Hoge Verdragsluitende Partij met betrekking tot hun persoon en vermogen dezelfde rechtsbescherming als onderdanen van die Verdragsluitende Partij en kunnen zich op gelijke voet als die onderdanen (ook wat de verschuldigde rechten en kosten betreft) ter handhaving van hun rechten tot de gerechten wenden.
 
 2. Dit artikel is van toepassing zowel op strafzaken als op burgerlijke zaken.
 
-#### Artikel III. Zekerheidstelling voor kosten
+##### Artikel III. Zekerheidstelling voor kosten
 
 De onderdanen van een der Hoge Verdragsluitende Partijen zijn in de gebieden van de andere Hoge Verdragsluitende Partij niet verplicht zekerheid te stellen voor de proceskosten in de gevallen waarin een onderdaan van die Hoge Verdragsluitende Partij daartoe onder gelijke omstandigheden niet gehouden is.
 
-#### Artikel IV. Rechtsbijstand
+##### Artikel IV. Rechtsbijstand
 
 1. De onderdanen van een der Hoge Verdragsluitende Partijen genieten in een gebied van de andere Hoge Verdragsluitende Partij, met betrekking tot kosteloze rechtsbijstand of rechtsbijstand tegen verminderd tarief, mits zij voldoen aan de vereisten gesteld door de in dat gebied geldende wetten, dezelfde behandeling als onderdanen van laatstbedoelde Hoge Verdragsluitende Partij onder gelijke omstandigheden genieten.
 
@@ -72,15 +94,15 @@ De onderdanen van een der Hoge Verdragsluitende Partijen zijn in de gebieden van
 
 3. Onder „een gebied” wordt in het eerste lid van dit artikel medeverstaan een gebied waartoe de werking van dit Verdrag overeenkomstig het bepaalde in artikel VII, eerste lid is uitgebreid.
 
-#### Artikel V. Lijfsdwang
+##### Artikel V. Lijfsdwang
 
 Op de onderdanen van een der Hoge Verdragsluitende Partijen kan in de gebieden van de andere Hoge Verdragsluitende Partij lijfsdwang, hetzij als middel van tenuitvoerlegging, hetzij als middel tot bewaring van rechten, niet worden toegepast in de gevallen waarin tegen onderdanen van laatstbedoelde Hoge Verdragsluitende Partij geen lijfsdwang is toegelaten.
 
-#### Artikel VI. Uitlegging van het Verdrag
+##### Artikel VI. Uitlegging van het Verdrag
 
 Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing van het Verdrag worden opgelost langs de diplomatieke weg.
 
-#### Artikel VII. Territoriale uitbreiding
+##### Artikel VII. Territoriale uitbreiding
 
 - a). Hare Britse Majesteit kan op elk tijdstip waarop dit Verdrag van kracht is, de werking daarvan door middel van een langs de diplomatieke weg te zenden kennisgeving uitbreiden tot elk gebied voor welks internationale betrekkingen de Regering van Hare Britse Majesteit in het Verenigd Koninkrijk verantwoordelijk is.
 
@@ -92,7 +114,7 @@ Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing va
 
 4. De opzegging van dit Verdrag ingevolge artikel VIII heeft ook gevolg voor een gebied, waartoe de werking van het Verdrag is uitgebreid ingevolge het eerste lid van dit artikel, tenzij door de Hoge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen.
 
-#### Artikel VIII. Bekrachtiging, inwerkingtreding en beëindiging van het Verdrag
+##### Artikel VIII. Bekrachtiging, inwerkingtreding en beëindiging van het Verdrag
 
 Dit Verdrag zal worden bekrachtigd. De akten van bekrachtiging zullen te Londen worden uitgewisseld. Het Verdrag zal drie maanden nadat de akten van bekrachtiging zijn uitgewisseld in werking treden en het zal gedurende drie jaar na zijn inwerkingtreding van kracht blijven. Indien geen van de Hoge Verdragsluitende Partijen de andere tenminste zes maanden vóór het verstrijken van de vermelde termijn van drie jaar langs de diplomatieke weg heeft kennis gegeven van zijn wens het Verdrag op te zeggen, dan zal het van kracht blijven tot op de dag waarop zes maanden zijn verstreken na de datum, waarop een van de Hoge Verdragsluitende Partijen van de opzegging zal hebben kennis gegeven.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit etikettering energiegebruik personenauto's"
+title: "Besluit van 3 november 2000, houdende regels inzake de etikettering van het energiegebruik van personenauto's (Besluit etikettering energiegebruik personenauto's)"
 identifier: "BWBR0011761"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2014-03-20
-laatste_update: 2014-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011761"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-03-20"
+last_updated: "2014-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011761"
+soort: "AMvB"
+stam_id: "1421833"
+version_id: "19729272"
+internal_id: "C27706891"
+label_id: "1380004"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011761/2014-03-20/0"
+intitule_bron: "Stb.2000-475"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-03"
+intitule_published: "2000-11-09"
+intitule_in_force: "2000-11-09"
+intitule_status: "goed"
+original_publication: "Stb.2012-508"
+original_signed_date: "2012-10-19"
+original_published_date: "2012-10-26"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-508"
+entry_into_force_date: "2012-10-19"
+jci_1_3: "jci1.3:c:BWBR0011761&z=2014-03-20&g=2014-03-20"
+jci_1_0: "1.0:c:BWBR0011761&g=2014-03-20"
+citeertitel_status: "officieel"
+short_title: "Besluit etikettering energiegebruik personenauto's"
+signed_date: "2012-10-19"
+entry_into_force: "2012-10-19"
 ---
-
 # Besluit van 3 november 2000, houdende regels inzake de etikettering van het energiegebruik van personenauto's (Besluit etikettering energiegebruik personenauto's)
 
 Op de voordracht van Onze Minister van Economische Zaken van 4 juli 2000, nr. WJZ00042055, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en in overeenstemming met Onze Minister van Verkeer en Waterstaat;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 26 oktober 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - y. energie-efficiëntieklasse: de klassegewijze indeling van nieuwe modellen personenauto’s op basis van de berekende waarden voor de relatieve energiezuinigheid ten opzichte van een referentiewaarde.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De leverancier draagt ervoor zorg dat de handelaren, aan wie hij nieuwe personenauto's levert, beschikken over de voor het desbetreffende kalenderjaar geldende energie-etiketten voor deze personenauto's, die voldoen aan de eisen van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=1&z=2014-03-20&g=2014-03-20) bij dit besluit.
 
@@ -84,7 +110,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De leverancier stelt de energie-etiketten en posters of displays tegen ten hoogste de kostprijs ter beschikking. De leverancier stelt de brandstofverbruiksgidsen kosteloos ter beschikking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De RDW stelt jaarlijks vóór 1 december de brandstofverbruiksgids samen voor het eerstvolgende kalenderjaar.
 
@@ -94,7 +120,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister van Infrastructuur en Milieu wijst een of meer instanties aan waar een consument op verzoek kosteloos een brandstofverbruiksgids kan verkrijgen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Reclamemateriaal inzake nieuwe personenauto's bevat informatie omtrent het energiegebruik van de modellen personenauto's waarop deze reclame betrekking heeft. Deze informatie voldoet aan de eisen van [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=3&z=2014-03-20&g=2014-03-20) bij dit besluit.
 
@@ -104,13 +130,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het is verboden op reclamemateriaal merktekens, symbolen of opschriften betreffende het energiegebruik aan te brengen, die niet in overeenstemming zijn met dit besluit, indien dit bij potentiële gebruikers van nieuwe personenauto's verwarring kan wekken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leverancier draagt zorg voor de juistheid van de informatie, bedoeld in de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=2&z=2014-03-20&g=2014-03-20), en [4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2014-03-20&g=2014-03-20).
 
 2. Onverminderd het eerste lid, draagt degene die opdracht geeft tot het vervaardigen van reclamemateriaal zorg voor de juistheid van de informatie, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=4&z=2014-03-20&g=2014-03-20).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is een handelaar verboden om een nieuwe personenauto op een verkooppunt ten verkoop of ter leasing tentoon te stellen of aan het publiek te presenteren zonder dat:
 
@@ -124,7 +150,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een energie-etiket als bedoeld in het eerste lid, onder a, kan in de periode van 1 november tot en met 31 december in plaats van een voor het desbetreffende kalenderjaar geldend etiket ook een etiket zijn dat betrekking heeft op het eerstvolgende kalenderjaar.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De leverancier verstrekt jaarlijks vóór 1 oktober aan de RDW de volgende gegevens:
 
@@ -148,27 +174,27 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Onder één model worden geen varianten of uitvoeringen gegroepeerd die een verschillende soort brandstof gebruiken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De RDW stelt vanaf 1 januari 2011 iedere twee jaar vóór 1 maart de constanten vast voor de bij regeling van Onze Minister van Infrastructuur en Milieu vast te stellen regressieformules, alsmede de daarbij behorende waarden van de gemiddelde CO2-uitstoot voor personenauto’s met benzine als brandstof en voor personenauto’s met diesel als brandstof. Deze waarden en constanten gelden voor de twee kalenderjaren die aanvang vinden na de datum van vaststelling.
 
 2. De constanten en waarden worden vanaf 1 januari 2011 elke twee jaar vóór 1 maart door de RDW bekend gemaakt in de Staatscourant.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een wijziging van de richtlijnen of van een daarbij behorende bijlage waarnaar in dit besluit wordt verwezen, treedt voor de toepassing van dit besluit in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 2. Onze Minister van Infrastructuur en Milieu doet mededeling van een wijziging van [richtlijn 1999/94/EG](31999L0094) in de Staatscourant.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van 18 januari 2001, met uitzondering van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=1&z=2014-03-20&g=2014-03-20), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=3&z=2014-03-20&g=2014-03-20), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=7&z=2014-03-20&g=2014-03-20), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=8&z=2014-03-20&g=2014-03-20), [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=9&z=2014-03-20&g=2014-03-20), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&artikel=10&z=2014-03-20&g=2014-03-20) en [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2014-03-20&g=2014-03-20), [onder II](https://wetten.overheid.nl/jci1.3:c:BWBR0011761&bijlage=4&z=2014-03-20&g=2014-03-20), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het besluit wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit etikettering energiegebruik personenauto's.
 
@@ -352,7 +378,7 @@ De contanten en waarden, die voor deze periode van 12 maanden worden gevonden, w
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Bij regeling van Onze Minister van Infrastructuur en Milieu worden regels vastgesteld voor:
 

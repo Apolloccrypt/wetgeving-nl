@@ -1,13 +1,35 @@
 ---
 title: "Regeling structurele aanlevering gegevens Zorgverzekeringswet 2017"
 identifier: "BWBR0039684"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-06-28
-laatste_update: 2017-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039684"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-06-28"
+last_updated: "2017-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039684"
+soort: "zbo"
+stam_id: "14027593"
+version_id: "24157712"
+internal_id: "C34715241"
+label_id: "13989004"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039684/2017-06-28/0"
+intitule_bron: "Stcrt.2017-35268"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-06-26"
+intitule_in_force: "2017-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-35268"
+original_published_date: "2017-06-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-35268"
+entry_into_force_date: "2017-06-28"
+jci_1_3: "jci1.3:c:BWBR0039684&z=2017-06-28&g=2017-06-28"
+jci_1_0: "1.0:c:BWBR0039684&g=2017-06-28"
+citeertitel_status: "officieel"
+entry_into_force: "2017-06-28"
 ---
-
 # Regeling structurele aanlevering gegevens Zorgverzekeringswet 2017
 
 gelet op de [artikelen 89](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=89) en [90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90);
@@ -16,7 +38,7 @@ na overleg met de Nederlandse Zorgautoriteit;
 
 heeft in zijn vergadering van 6 juni 2017 besloten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - k. **deelbedrag:** een deelbedrag als bedoeld in [artikel 1, onderdeel n, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1);
 
-#### Artikel 2. Aanlevering gegevens
+##### Artikel 2. Aanlevering gegevens
 
 De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterlijk op de genoemde datum in 2017 aan. Voor de gegevens vierde kwartaalstaat is de aanleverdatum overeenkomstig onderstaand schema in 2018. De zorgverzekeraar dient de gegevens juist en volledig in bij het Zorginstituut onderscheidenlijk de NZa, met inachtneming van de formats en record lay-outs, bedoeld in [bijlagen 1 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-06-28) van deze Regeling.
 
@@ -79,13 +101,13 @@ De zorgverzekeraar levert de in het onderstaande schema bedoelde gegevens uiterl
 | Het elektronische bestand kwartaalstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), onderdeel A en C, 1e, 2e,3e en 4e kwartaal 2017 met inachtneming van het format kwartaalstaat 2017, onderdelen A en C, en de record lay-out contractinformatie, bedoeld in respectievelijk [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=1&z=2017-06-28&g=2017-06-28) en [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039684&bijlage=3&z=2017-06-28&g=2017-06-28) van deze Regeling | Respectievelijk 28 april 2017, 28 juli 2017, 28 oktober 2017 en 28 januari 2018 | Zorginstituut |
 | Het elektronische bestand kwartaalstaat [Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) 1e kwartaal verzekerdenstanden 2017 met inachtneming van het format kwartaalstaat 2017, onderdeel A ‘Verzekerdenstanden naar leeftijd en geslacht’ bedoeld in bijlage 1 van deze Regeling en bestuursverklaring bij de maartstand | 7 maart 2017 | Zorginstituut |
 
-#### Artikel 3. Pseudonimisering
+##### Artikel 3. Pseudonimisering
 
 1. De zorgverzekeraars leveren persoonsidentificerende gegevens uitsluitend gepseudonimiseerd aan.
 
 2. De zorgverzekeraars treffen technische en organisatorische voorzieningen op een passend niveau ter waarborging van de veiligheid en betrouwbaarheid van het informatieverkeer en ter bescherming van de persoonsgegevens die zij onder zich hebben.
 
-#### Artikel 4. Slotbepalingen
+##### Artikel 4. Slotbepalingen
 
 1. De [Regeling structurele aanlevering gegevens Zorgverzekeringswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037876) wordt ingetrokken met ingang van 1 februari 2017.
 

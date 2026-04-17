@@ -1,13 +1,39 @@
 ---
-title: "Instelbesluit CGVP 2026"
+title: "Besluit van de Staatssecretaris van Financiën van 20 januari 2026, nr. 2025-15294, over de verantwoordelijkheid, taakomschrijving, werkterrein en werkwijze van de Coördinatiegroep verrekenprijzen (Instelbesluit CGVP 2026)"
 identifier: "BWBR0052264"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-03
-laatste_update: 2026-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052264"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-03"
+last_updated: "2026-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052264"
+soort: "beleidsregel"
+stam_id: "17752973"
+version_id: "31364872"
+internal_id: "C44822621"
+label_id: "17651394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052264/2026-02-03/0"
+intitule_bron: "Stcrt.2026-2199"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-20"
+intitule_published: "2026-02-02"
+intitule_in_force: "2026-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-2199"
+original_signed_date: "2026-01-20"
+original_published_date: "2026-02-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-2199"
+entry_into_force_date: "2026-02-03"
+jci_1_3: "jci1.3:c:BWBR0052264&z=2026-02-03&g=2026-02-03"
+jci_1_0: "1.0:c:BWBR0052264&g=2026-02-03"
+citeertitel_status: "officieel"
+short_title: "Instelbesluit CGVP 2026"
+signed_date: "2026-01-20"
+entry_into_force: "2026-02-03"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 20 januari 2026, nr. 2025-15294, over de verantwoordelijkheid, taakomschrijving, werkterrein en werkwijze van de Coördinatiegroep verrekenprijzen (Instelbesluit CGVP 2026)
 
 Gelet op [artikel 4.81 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en voor zover het de uitleg en toepassing van het arm’s-lengthbeginsel betreft: de [artikelen 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8b), [8ba-8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8ba), [29b-29h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=29b), [34f](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34f), [34g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=34g) en [35 Wet Vpb 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=35) en de [Wet Minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111);

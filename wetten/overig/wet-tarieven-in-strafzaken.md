@@ -1,14 +1,37 @@
 ---
-title: "Wet tarieven in strafzaken"
+title: "Wet van 28 maart 1963, houdende vaststelling van de tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt"
 identifier: "BWBR0002406"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002406"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002406"
+soort: "wet"
+stam_id: "142043"
+version_id: "195332"
+internal_id: "C195331"
+label_id: "141474"
+dtd_version: "2.0"
+original_entry_into_force: "1964-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002406/2025-07-01/0"
+intitule_bron: "Stb.1963-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1963-03-28"
+intitule_status: "goed"
+original_publication: "Stb.1963-130"
+original_signed_date: "1963-03-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "6647"
+entry_into_force_date: "1964-01-01"
+jci_1_3: "jci1.3:c:BWBR0002406&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002406&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tarieven in strafzaken"
+signed_date: "1963-03-28"
+entry_into_force: "1964-01-01"
 ---
-
-# Wet tarieven in strafzaken
+# Wet van 28 maart 1963, houdende vaststelling van de tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,13 +39,13 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de wet van 8 april 1
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 ## Titel Eerste. Vergoedingen voor werkzaamheden, tijdverzuim en reis- en verblijfkosten
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op de voet van het bij en krachtens deze wet bepaalde worden vergoedingen toegekend voor werkzaamheden, voor tijdverzuim alsmede voor daarmede verband houdende noodzakelijke kosten, en voor gemaakte reis- en verblijfkosten, voor zover voortvloeiende uit een verzoek of opdracht van de justitie, ten behoeve van:
 
@@ -38,13 +61,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. Indien door de justitie, al dan niet op verzoek van het slachtoffer, opdracht tot oproeping en bijstand van een tolk of vertaler is gegeven of bijstand van een tolk is verleend op grond van [artikel 51c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51c), [artikel 51ca, eerste, vierde of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ca) of op grond van [artikel 163, derde of zevende lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=163), dan komen de vergoedingen ten laste van ’s Rijks kas.
 
-#### Artikel 2
+##### Artikel 2
 
 Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en krachtens deze wet niet voorziene kosten in de zaken in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) bedoeld wordt vereist een machtiging van de advocaat-generaal bij het ressortsparket en, in de zaken die bij de Hoge Raad dienen, van de procureur-generaal bij de Hoge Raad. Zodanige machtiging is niet vereist in de gevallen van de [artikelen 151](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=151), [192](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=192), [202](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=202), [212](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=212), [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318), [398](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=398) juncto [318](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318) en [415](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=415) juncto [318 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=318).
 
 #### § 2. Vergoedingen voor werkzaamheden en voor tijdverzuim
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij of krachtens algemene maatregel van bestuur worden de tarieven vastgesteld voor vergoedingen voor:
 
@@ -74,7 +97,7 @@ Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en kracht
 
 5. Onze Minister van Justitie kan nadere regelen stellen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wanneer de autoriteit, die opdracht tot de werkzaamheden heeft gegeven, een daartoe strekkend verzoek doet, stelt de gemeente waar de werkzaamheden moeten worden verricht, daarvoor een lokaliteit beschikbaar.
 
@@ -82,13 +105,13 @@ Tot het maken van ten laste van 's Rijks kas komende buitengewone, bij en kracht
 
 3. Onze Minister van Justitie kan nadere regelen stellen.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wordt geen vergoeding gegeven, tenzij de aard van de werkzaamheden de werktuigen en gereedschappen voor verder gebruik ongeschikt maakt.
 
 #### § 3. Vergoedingen voor reis- en verblijfkosten
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij of krachtens algemene maatregel van bestuur worden de tarieven vastgesteld voor vergoedingen voor reis- en verblijfkosten, toekomende aan de in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), sub **b**, genoemde personen. Onnodig gemaakte reis- en verblijfkosten worden niet vergoed.
 
@@ -96,7 +119,7 @@ Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wor
 
 3. Onze Minister van Justitie kan nadere regelen stellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het gebruik van een bijzonder middel van vervoer noodzakelijk is uit hoofde van leeftijd, ziekte of gebreken worden de kosten daarvan vergoed overeenkomstig door Ons bij algemene maatregel van bestuur te stellen regelen.
 
@@ -104,13 +127,13 @@ Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wor
 
 #### § 4. Toekenning van vergoedingen en goedkeuring van declaraties
 
-#### Artikel 8
+##### Artikel 8
 
 1. Vergoedingen voor tijdverzuim, daarmee verband houdende noodzakelijke kosten en voor reis- en verblijfkosten worden terstond toegekend door de griffier van het gerecht, dat bevoegd is over de zaak te oordelen of van het gerecht, waarvoor de zaak dient of heeft gediend.
 
 2. De belanghebbende kan tegen de beschikking van de griffier schriftelijk bezwaar indienen bij de voorzieningenrechter van het gerecht en indien het de Hoge Raad betreft, bij de president van de Hoge Raad.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Vergoedingen voor werkzaamheden worden schriftelijk gedeclareerd.
 
@@ -120,35 +143,35 @@ Voor werktuigen en gereedschappen, gebruikt bij de opgedragen werkzaamheden, wor
 
 4. Tegen de beschikkingen, bedoeld in de leden 2 en 3, kan door de belanghebbende schriftelijk bezwaar worden gemaakt. Is de beschikking genomen door de kantonrechter of de rechter-commissaris, dan wordt op het bezwaar beslist door de voorzieningenrechter van de rechtbank. Is de beschikking genomen door de voorzieningenrechter van de rechtbank of het gerechtshof, dan wordt op het bezwaar beslist door de raadkamer van het betrokken gerecht. Is de beschikking genomen door het openbaar ministerie of de griffier, dan wordt op het bezwaar beslist door de voorzieningenrechter van het gerecht of, indien het de Hoge Raad betreft, door de president van de Hoge Raad.
 
-#### Artikel 10
+##### Artikel 10
 
 Het bezwaar, bedoeld in [de artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=4&artikel=9&z=2025-07-01&g=2025-07-01), kan slechts schriftelijk worden ingediend binnen veertien dagen na de dag van uitreiking of verzending van de beschikking, waartegen bezwaar wordt ingediend.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de verzoeker in zijn bezwaarschrift de wens te kennen geeft te worden gehoord, wordt hij daartoe opgeroepen.
 
 2. Indien het bezwaarschrift is gericht tegen een beschikking van het openbaar ministerie, wordt dit in de gelegenheid gesteld te worden gehoord.
 
-#### Artikel 12
+##### Artikel 12
 
 Tegen de beslissing op het bezwaarschrift staat geen rechtsmiddel open.
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister van Justitie kan nadere regels stellen omtrent de wijze van toekennen van vergoedingen, van declareren, van goedkeuren van declaraties en van indienen van bezwaar.
 
 #### § 5. Betaling
 
-#### Artikel 14
+##### Artikel 14
 
 Vergoedingen ten laste van 's Rijks kas worden, nadat de beschikking tot toekenning of goedkeuring van de declaratie onherroepelijk is geworden, betaald door de griffier van het gerecht, dat bevoegd is over de zaak te oordelen of van het gerecht waarvoor de zaak dient of heeft gediend.
 
-#### Artikel 15
+##### Artikel 15
 
 Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat de beschikking tot toekenning of goedkeuring van de declaratie onherroepelijk is geworden, door deze betaald. De beschikking tot toekenning van de vergoeding en de beschikking tot goedkeuring van de declaratie, alsmede de beslissingen op de bezwaren tegen deze beschikkingen genomen, zijn op de minuut uitvoerbaar, overeenkomstig de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827).
 
-#### Artikel 16
+##### Artikel 16
 
 1. De verdachte of de gerekwestreerde kan de krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=14&z=2025-07-01&g=2025-07-01) bevoegde griffier verzoeken, vergoedingen als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=5&artikel=15&z=2025-07-01&g=2025-07-01) bij wijze van voorschot te zijnen behoeve aan de rechthebbenden te betalen. Het verzoek, dat schriftelijk moet worden gedaan, kan worden ingediend binnen 14 dagen nadat de beschikking tot toekenning van de vergoeding of de beschikking tot goedkeuring van de declaratie onherroepelijk is geworden. De griffier beslist zo spoedig mogelijk.
 
@@ -162,7 +185,7 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 ## Titel Tweede. Kosten van afschriften, uittreksels en inlichtingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij of krachtens algemene maatregel van bestuur worden regelen gesteld met betrekking tot de vergoedingen, door de verdachte, de gewezen verdachte, de gerekwestreerde, de gewezen gerekwestreerde, derden-belanghebbenden of andere derden verschuldigd voor afschriften van, uittreksels uit en inzage van vonnissen, arresten, registers of andere stukken, waarvan kennisneming geoorloofd is, en voor inlichtingen in zaken, bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), alsmede met betrekking tot het kosteloos bekomen van zodanige afschriften, uittreksels of inlichtingen.
 
@@ -170,57 +193,57 @@ Vergoedingen verschuldigd door de verdachte of de gerekwestreerde worden, nadat 
 
 ## Titel Derde. Uitreiken van gerechtelijke stukken en uitbrengen van exploten
 
-#### Artikel 18
+##### Artikel 18
 
 Wij stellen bij algemene maatregel van bestuur de tarieven vast voor het uitbrengen van exploiten ingevolge bijzondere wetten.
 
 ## Titel Vierde. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 Voor zaken, bedoeld in [artikel 1, lid 1 sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01) van deze wet, voor zaken aangebonden en verzoeken ingediend op grond van enig artikel van deze wet en van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), benevens voor niet op grond van een bepaling van burgerlijk griffierecht aangebonden zaken betreffende dwangmaatregelen van overheidswege, zonder rechterlijk bevel getroffen in verband met de niet-naleving van een wettelijk gebod of verbod, is geen griffierecht verschuldigd als bedoeld in [artikel 3 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3).
 
-#### Artikel 20
+##### Artikel 20
 
 De wet van 18 april 1874 (**Stb.** 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet kan worden aangehaald als Wet tarieven in strafzaken.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 In zaken, als bedoeld in [artikel 1, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&titeldeel=Eerste&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), aanhangig op de dag van inwerkingtreding van deze wet wordt het bij en krachtens deze wet bepaalde toegepast met ingang van die dag, met dien verstande dat voor werkzaamheden, die zijn verricht na de dag van inwerkingtreding van deze wet, voor tijdverzuim, met inbegrip van de daarmede verband houdende noodzakelijke kosten, dat valt na die dag en voor reis- en verblijfkosten, na die dag gemaakt, ingevolge een verzoek of opdracht gedaan en gegeven vóór die dag, ook vergoedingen worden toegekend overeenkomstig het bij en krachtens deze wet bepaalde.
 
-#### Artikel X
+##### Artikel X
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip. Wij behouden Ons voor een verschillend tijdstip vast te stellen voor verschillende delen van de wet.
 

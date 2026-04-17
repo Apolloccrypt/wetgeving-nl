@@ -1,18 +1,43 @@
 ---
 title: "Wet arbeid vreemdelingen BES"
 identifier: "BWBR0028437"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028437"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028437"
+soort: "wet-BES"
+stam_id: "10784103"
+version_id: "17761632"
+internal_id: "C24800721"
+label_id: "10758994"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028437/2010-10-10/0"
+intitule_bron: "Stb.2010-598"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-598"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-598"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028437&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028437&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet arbeid vreemdelingen BES
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -36,13 +61,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is een werkgever verboden een vreemdeling arbeid te laten verrichten zonder tewerkstellingsvergunning.
 
 2. Het verbod, bedoeld in het eerste lid, is niet van toepassing met betrekking tot een vreemdeling ten aanzien van wie tevens een ander als werkgever optreedt, indien die ander beschikt over een voor de desbetreffende arbeid geldige tewerkstellingsvergunning.
 
-#### Artikel 3
+##### Artikel 3
 
 Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), is niet van toepassing met betrekking tot een vreemdeling:
 
@@ -58,11 +83,11 @@ Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3
 
 #### § 2. Het aanvragen van de tewerkstellingsvergunning
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstellingsvergunningen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een tewerkstellingsvergunning wordt aangevraagd door de werkgever.
 
@@ -106,7 +131,7 @@ Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstel
 
 #### § 3. Beperkingen en voorschriften
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een tewerkstellingsvergunning kan onder beperkingen worden verleend.
 
@@ -120,7 +145,7 @@ Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstel
 
 #### § 4. Geldigheidsduur van de tewerkstellingsvergunning
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een tewerkstellingsvergunning wordt voor ten hoogste drie jaar verleend.
 
@@ -130,7 +155,7 @@ Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstel
 
 #### § 5. Het weigeren van de tewerkstellingsvergunning
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een tewerkstellingsvergunning wordt geweigerd:
 
@@ -160,7 +185,7 @@ Onze Minister is bevoegd tot het verlenen, verlengen en intrekken van tewerkstel
 
 - e. ten behoeve van vreemdelingen die een aanvraag hebben ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met internationale bescherming.
 
-#### Artikel 9
+##### Artikel 9
 
 Een tewerkstellingsvergunning kan worden geweigerd:
 
@@ -176,7 +201,7 @@ Een tewerkstellingsvergunning kan worden geweigerd:
 
 #### § 6. Het intrekken van de tewerkstellingsvergunning
 
-#### Artikel 10
+##### Artikel 10
 
 Een tewerkstellingsvergunning wordt ingetrokken:
 
@@ -188,29 +213,29 @@ Een tewerkstellingsvergunning wordt ingetrokken:
 
 - d. indien de werkgever in staat van faillissement wordt verklaard.
 
-#### Artikel 11
+##### Artikel 11
 
 Onverminderd het bepaalde in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&hoofdstuk=II&paragraaf=6&artikel=10&z=2010-10-10&g=2010-10-10) kan intrekking van een tewerkstellingsvergunning slechts geschieden wegens het niet in acht nemen van een beperking waaronder de vergunning is verleend, of wegens het niet naleven van een daaraan verbonden voorschrift.
 
 ### Hoofdstuk III. Bezwaar
 
-#### Artikel 12
+##### Artikel 12
 
 Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zake van een tewerkstellingsvergunning kan hiertegen binnen vier weken na de dag waarop deze is gegeven bezwaar indienen bij Onze Minister. Onder beschikking wordt mede begrepen het niet beslissen door Onze Minister binnen de in [artikel vijf, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&hoofdstuk=II&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10), genoemde termijn. Het bezwaar heeft schorsende werking.
 
-#### Artikel 12a
+##### Artikel 12a
 
 [vervallen]
 
 ### Hoofdstuk IV. Toezicht en Opsporing
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren.
 
 2. [vervallen]
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij de uitoefening van hun taak dragen de toezichthoudende ambtenaren een legitimatiebewijs bij zich.
 
@@ -218,7 +243,7 @@ Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zak
 
 3. Het legitimatiebewijs bevat een foto van de toezichthoudende ambtenaar en vermeldt in ieder geval diens naam en hoedanigheid.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De toezichthoudende ambtenaren hebben op vertoon van hun legitimatiebewijs, te allen tijde en ongehinderd toegang tot elke plaats, voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is. Zonodig verschaffen zij zich toegang met behulp van de sterke arm.
 
@@ -226,7 +251,7 @@ Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zak
 
 3. Van dit binnentreden wordt binnen tweemaal vierentwintig uur proces-verbaal opgemaakt, hetwelk wordt ingezonden bij de officier van justitie. Daarin wordt mede van het tijdstip van het binnentreden en van het beoogde doel melding gemaakt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor zover zulks voor de vervulling van hun taak redelijkerwijs noodzakelijk is, zijn de toezichthoudende ambtenaren bevoegd:
 
@@ -238,19 +263,19 @@ Degene die rechtstreeks in zijn belang is getroffen door een beschikking ter zak
 
 2. Indien het maken van kopieën niet ter plaatse kan geschieden zijn de toezichthoudende ambtenaren bevoegd de in het eerste lid, onderdeel b, bedoelde gegevens en bescheiden voor dat doel voor korte tijd mee te nemen tegen een door hen afgegeven schriftelijk bewijs.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een ieder is verplicht aan toezichthoudende ambtenaren alle medewerking te verlenen die deze redelijkerwijs kunnen verlangen ter uitoefening van hun bevoegdheden.
 
 2. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover hun geheimhoudingsplicht zich daartoe uitstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister aangewezen ambtenaren. [Artikel 185 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=185) is van overeenkomstige toepassing.
 
 ### Hoofdstuk V. Strafbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. De werkgever, die het in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), neergelegde verbod overtreedt, wordt gestraft met een hechtenis van ten hoogste drie maanden of een geldboete van de vijfde categorie.
 
@@ -258,24 +283,24 @@ Met het opsporen van de in deze wet strafbaar gestelde feiten zijn, onverminderd
 
 ### Hoofdstuk VI. Bijzondere bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Indien een werkgever een vreemdeling arbeid doet verrichten in strijd met het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&hoofdstuk=II&paragraaf=1&artikel=2&z=2010-10-10&g=2010-10-10), wordt de vreemdeling vermoed gedurende tenminste zes maanden werkzaam te zijn voor die werkgever tegen een beloning en een arbeidsduur die in de betreffende bedrijfstak gebruikelijk is.
 
 ### Hoofdstuk VII. Overgang- en Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet wordt aangehaald als: Wet arbeid vreemdelingen BES.

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het verbod van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken"
 identifier: "BWBV0003899"
-categorie: "Milieu"
-publicatiedatum: 1983-04-15
-laatste_update: 1983-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003899"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-04-15"
+last_updated: "1983-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003899"
+soort: "verdrag"
+stam_id: "10003762453"
+version_id: "10003827142"
+internal_id: "C10006981621"
+label_id: "10003747564"
+dtd_version: "2.0"
+original_entry_into_force: "1983-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003899/1983-04-15/0"
+intitule_bron: "Trb.1977-141"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-09-28"
+intitule_in_force: "1983-04-22"
+intitule_status: "goed"
+original_publication: "Trb.1977-141"
+original_published_date: "1977-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-141"
+entry_into_force_date: "1983-04-15"
+jci_1_3: "jci1.3:c:BWBV0003899&z=1983-04-15&g=1983-04-15"
+jci_1_0: "1.0:c:BWBV0003899&g=1983-04-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1983-04-15"
 ---
-
 # Verdrag inzake het verbod van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken
 
 De Staten die partij zijn bij dit Verdrag,
@@ -30,27 +52,27 @@ Tevens geleid door de wens bij te dragen aan de versterking van het vertrouwen t
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. Elke Staat die partij is bij dit Verdrag verbindt zich ertoe zich te onthouden van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken die wijdverspreide, langdurige of ernstige gevolgen hebben als middelen tot vernietiging, het berokkenen van schade of nadeel aan enige andere Staat die partij is.
 
 2. Elke Staat die partij is bij dit Verdrag verbindt zich ertoe geen enkele Staat, groep van Staten of internationale organisatie te steunen, aan te moedigen of ertoe te bewegen, activiteiten te ontplooien die in strijd zijn met het bepaalde in het eerste lid van dit artikel.
 
-#### Artikel II
+##### Artikel II
 
 Met de term „milieuveranderingstechnieken”, zoals gebezigd in artikel I, wordt bedoeld enigerlei techniek voor het veranderen - door middel van opzettelijke manipulatie van natuurlijke processen - van de dynamica, de samenstelling of de structuur van de aarde, waaronder begrepen de flora en fauna, de lithosfeer, de hydrosfeer en de atmosfeer, dan wel van de kosmische ruimte.
 
-#### Artikel III
+##### Artikel III
 
 1. De bepalingen van dit Verdrag vormen geen belemmering voor het gebruik van milieuveranderingstechnieken voor vreedzame doeleinden en doen geen afbreuk aan algemeen erkende beginselen en geldende regels van internationaal recht betreffende een zodanig gebruik.
 
 2. De Staten die partij zijn bij dit Verdrag verbinden zich tot het vergemakkelijken van, en hebben het recht deel te nemen aan, een zo uitgebreid mogelijke uitwisseling van wetenschappelijke en technologische gegevens betreffende het gebruik van milieuveranderingstechnieken voor vreedzame doeleinden. Staten die partij zijn en die hiertoe in staat zijn, dragen alleen, of tezamen met andere Staten of internationale organisaties, bij aan internationale economische en wetenschappelijke samenwerking ter zake van het behoud, de verbetering en het vreedzaam gebruik van het milieu, daarbij naar behoren rekening houdend met de behoeften van de ontwikkelingsgebieden in de wereld.
 
-#### Artikel IV
+##### Artikel IV
 
 Elke Staat die partij is bij dit Verdrag verbindt zich ertoe, in overeenstemming met zijn constitutionele procedures alle maatregelen te treffen welke hij noodzakelijk acht, om enigerlei activiteit die in strijd is met de bepalingen van dit Verdrag overal binnen zijn rechts- of machtsgebied te verbieden en te voorkomen.
 
-#### Artikel V
+##### Artikel V
 
 1. De Staten die partij zijn bij dit Verdrag verbinden zich ertoe onderling overleg te plegen en samen te werken bij het oplossen van problemen die kunnen rijzen met betrekking tot de doelstellingen van, of bij de toepassing van de bepalingen van dit Verdrag. Overleg en samenwerking ingevolge dit artikel kunnen tevens plaatsvinden door middel van passende internationale procedures binnen het kader van de Verenigde Naties en in overeenstemming met het [Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) ervan. Deze internationale procedures kunnen de diensten van geëigende internationale organisaties omvatten, alsook van een Commissie van overleg van deskundigen, zoals bepaald in het tweede lid van dit artikel.
 
@@ -62,17 +84,17 @@ Elke Staat die partij is bij dit Verdrag verbindt zich ertoe, in overeenstemming
 
 5. Elke Staat die partij is bij dit Verdrag verbindt zich ertoe, overeenkomstig de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), steun te verlenen of te helpen verlenen aan iedere partij bij het Verdrag die hierom verzoekt, indien de Veiligheidsraad besluit, dat een zodanige partij schade heeft ondervonden of naar alle waarschijnlijkheid zal ondervinden als gevolg van schending van het Verdrag.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Elke Staat die partij is bij dit Verdrag kan wijzigingen van het Verdrag voorstellen. De tekst van elke voorgestelde wijziging wordt voorgelegd aan de depositaris, die deze onverwijld rondzendt aan alle Staten die partij zijn.
 
 2. Een wijziging treedt in werking voor alle Staten die partij zijn en deze hebben aanvaard, na nederlegging bij de depositaris van de akten van aanvaarding door een meerderheid van de Staten die partij zijn. Daarna treedt de wijziging voor elke overige Staat die partij is in werking op de datum van nederlegging van diens akte van aanvaarding.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit Verdrag is van onbeperkte duur.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Vijf jaar na de inwerkingtreding van dit Verdrag wordt door de depositaris te Genève een conferentie belegd van de Staten die partij zijn bij het Verdrag. Deze conferentie onderwerpt de werking van het Verdrag aan een onderzoek, ten einde te verzekeren dat de doelstellingen en bepalingen ervan worden verwezenlijkt en zij stelt in het bijzonder een onderzoek in naar de doeltreffendheid van het bepaalde in artikel I, eerste lid, wat betreft het wegnemen van de gevaren van militair of enig ander vijandelijk gebruik van milieuveranderingstechnieken.
 
@@ -80,7 +102,7 @@ Dit Verdrag is van onbeperkte duur.
 
 3. Indien er binnen tien jaar na beëindiging van een voorgaande toetsingsconferentie niet ingevolge het tweede lid van dit artikel opnieuw een zodanige conferentie is belegd, verzoekt de depositaris alle Staten die partij zijn bij dit Verdrag hun mening kenbaar te maken omtrent het houden van zulk een conferentie. Indien een derde, dan wel tien van de Staten die partij zijn - welk aantal het kleinst is - positief reageren, neemt de depositaris onverwijld maatregelen om de conferentie te beleggen.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Dit Verdrag staat open voor ondertekening voor alle Staten. Een Staat die het Verdrag niet ondertekent vóór de inwerkingtreding overeenkomstig het derde lid van dit artikel kan hiertoe te allen tijde toetreden.
 
@@ -94,7 +116,7 @@ Dit Verdrag is van onbeperkte duur.
 
 6. Dit Verdrag wordt door de depositaris geregistreerd overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel X
+##### Artikel X
 
 Dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal der Verenigde Naties, die daarvan gewaarmerkte afschriften doet toekomen aan de Regeringen van de Staten die het Verdrag hebben ondertekend of ertoe zijn toegetreden.
 

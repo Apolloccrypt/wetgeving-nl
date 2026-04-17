@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 januari 2019, kenmerk 1464077-185556-J, houdende instelling van de Commissie Onderzoeksprogramma Geweld hoort nergens thuis (Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis)"
 identifier: "BWBR0041901"
-categorie: "Overig"
-publicatiedatum: 2019-02-13
-laatste_update: 2019-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041901"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-02-13"
+last_updated: "2019-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041901"
+soort: "ministeriele-regeling"
+stam_id: "14998293"
+version_id: "25687342"
+internal_id: "C36645171"
+label_id: "14948434"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041901/2019-02-13/0"
+intitule_bron: "Stcrt.2019-7101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-22"
+intitule_published: "2019-02-12"
+intitule_in_force: "2019-02-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-7101"
+original_signed_date: "2019-01-22"
+original_published_date: "2019-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-7101"
+entry_into_force_date: "2019-02-13"
+jci_1_3: "jci1.3:c:BWBR0041901&z=2019-02-13&g=2019-02-13"
+jci_1_0: "1.0:c:BWBR0041901&g=2019-02-13"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis"
+signed_date: "2019-01-22"
+entry_into_force: "2019-02-13"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 22 januari 2019, kenmerk 1464077-185556-J, houdende instelling van de Commissie Onderzoeksprogramma Geweld hoort nergens thuis (Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **programma:** het programma Geweld hoort nergens thuis.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie Onderzoeksprogramma Geweld hoort nergens thuis.
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het onderzoeksprogramma bestaat in ieder geval uit de onder a tot en met c genoemde onderdelen. Waar noodzakelijk of gewenst kan de commissie aan de bewindspersonen voorstellen doen om onderdelen toe te voegen.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en vijf leden.
 
@@ -64,11 +90,11 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter en andere leden kunnen worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 De commissie wordt ingesteld met ingang van 1 november 2018 en wordt opgeheven per 1 mei 2021.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 1. Voor de periode van 1 november 2018 tot en met 1 mei 2021 worden tot lid van de commissie benoemd:
 
@@ -84,7 +110,7 @@ De commissie wordt ingesteld met ingang van 1 november 2018 en wordt opgeheven p
 
 - f. mevrouw prof. dr. mr. C. Bijleveld, te Oegstgeest.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -92,17 +118,17 @@ De commissie wordt ingesteld met ingang van 1 november 2018 en wordt opgeheven p
 
 3. De minister draagt, na overleg met de commissie, zorg voor het secretariaat ten behoeve van de werkzaamheden van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
 2. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 De commissie verstrekt aan de bewindspersonen desgevraagd de door hen gewenste inlichtingen. De bewindspersonen kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17, trede 5, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduur-factor op 8/36.
 
@@ -110,7 +136,7 @@ De commissie verstrekt aan de bewindspersonen desgevraagd de door hen gewenste i
 
 De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter is 17 en voor de andere leden 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor voor de voorzitter is 8/36 en voor de andere leden 4/36.
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -122,25 +148,25 @@ De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De to
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een begroting en een planning aan de minister aan.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De commissie biedt de minister jaarlijks een verslag aan waarin verslag wordt gedaan over de activiteiten van de periode waarin de commissie werkzaam is geweest.
 
-#### Artikel 12. Openbaarmaking
+##### Artikel 12. Openbaarmaking
 
 De producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de bestuurlijke vertegenwoordigers van de partijen in de regio’s en aan de bewindspersonen overgedragen.
 
-#### Artikel 13. Archiefbescheiden
+##### Artikel 13. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Jeugd van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Dit besluit treedt in werking de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst en werkt terug tot en met 1 november 2018.
 
 2. Dit besluit vervalt met ingang van 1 mei 2021.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Onderzoeksprogramma Geweld hoort nergens thuis.
 

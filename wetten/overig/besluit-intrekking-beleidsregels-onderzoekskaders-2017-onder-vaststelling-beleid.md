@@ -1,13 +1,39 @@
 ---
-title: "Besluit intrekking beleidsregels Onderzoekskaders 2017 onder vaststelling beleidsregels Onderzoekskaders 2021"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media, van 24 juni 2021, nr. 28318215 tot intrekking van beleidsregels houdende Onderzoekskaders 2017 onder vaststelling van beleidsregels houdende Onderzoekskaders 2021"
 identifier: "BWBR0045489"
-categorie: "Overig"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045489"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045489"
+soort: "ministeriele-regeling"
+stam_id: "16040813"
+version_id: "27937052"
+internal_id: "C39391951"
+label_id: "15973394"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045489/2025-08-01/0"
+intitule_bron: "Stcrt.2021-34766"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-24"
+intitule_published: "2021-07-28"
+intitule_in_force: "2021-07-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-34766"
+original_signed_date: "2021-06-24"
+original_published_date: "2021-07-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-34766"
+entry_into_force_date: "2021-08-01"
+jci_1_3: "jci1.3:c:BWBR0045489&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0045489&g=2025-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit intrekking beleidsregels Onderzoekskaders 2017 onder vaststelling beleidsregels Onderzoekskaders 2021"
+signed_date: "2021-06-24"
+entry_into_force: "2021-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap en de Minister voor Basis- en Voortgezet Onderwijs en Media, van 24 juni 2021, nr. 28318215 tot intrekking van beleidsregels houdende Onderzoekskaders 2017 onder vaststelling van beleidsregels houdende Onderzoekskaders 2021
 
 Gelet op [artikel 13, eerste en derde lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=13);
@@ -16,7 +42,7 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 16 juni 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende beleidsregels worden vastgesteld:
 
@@ -28,7 +54,7 @@ De volgende beleidsregels worden vastgesteld:
 
 - d. Onderzoekskader 2021 voor het toezicht op het middelbaar beroepsonderwijs ([bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045489&bijlage=4&z=2025-08-01&g=2025-08-01)).’
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende beleidsregels worden ingetrokken:
 
@@ -40,7 +66,7 @@ De volgende beleidsregels worden ingetrokken:
 
 - d. [Onderzoekskader 2017 voor het toezicht op het middelbaar beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0039788&bijlage=IV), zoals gepubliceerd in Staatscourant 2017, 38522.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2021.
 

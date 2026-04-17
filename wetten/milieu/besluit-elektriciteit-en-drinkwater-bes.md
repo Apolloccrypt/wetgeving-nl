@@ -1,13 +1,39 @@
 ---
-title: "Besluit elektriciteit en drinkwater BES"
+title: "Besluit van 1 juni 2016, houdende regels met betrekking tot de productie en distributie van elektriciteit en drinkwater op Bonaire, Sint-Eustatius en Saba (Besluit elektriciteit en drinkwater BES)"
 identifier: "BWBR0038044"
-categorie: "Milieu"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038044"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038044"
+soort: "AMvB-BES"
+stam_id: "13648523"
+version_id: "23364602"
+internal_id: "C33709331"
+label_id: "13615364"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038044/2016-07-01/0"
+intitule_bron: "Stb.2016-214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-01"
+intitule_published: "2016-06-14"
+intitule_in_force: "2016-06-24"
+intitule_status: "goed"
+original_publication: "Stb.2016-214"
+original_signed_date: "2016-06-01"
+original_published_date: "2016-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-214"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038044&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0038044&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit elektriciteit en drinkwater BES"
+signed_date: "2016-06-01"
+entry_into_force: "2016-07-01"
 ---
-
 # Besluit van 1 juni 2016, houdende regels met betrekking tot de productie en distributie van elektriciteit en drinkwater op Bonaire, Sint-Eustatius en Saba (Besluit elektriciteit en drinkwater BES)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu van 2 december 2015, nr. IenM/BSK-2015/75140, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Economische Zaken;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet elektriciteit in drinkwater BES 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. (begripsomschrijvingen)
+##### Artikel 1.1. (begripsomschrijvingen)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. kwaliteitseisen drinkwaterketen
 
-#### Artikel 2.1. (kwaliteitseisen drinkwater)
+##### Artikel 2.1. (kwaliteitseisen drinkwater)
 
 1. Een producent van drinkwater draagt er zorg voor dat het door hem geproduceerde drinkwater op het leveringspunt voor drinkwater voldoet aan de kwaliteitseisen, opgenomen in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=A&z=2016-07-01&g=2016-07-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=B&z=2016-07-01&g=2016-07-01).
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.2. kwaliteitscontrole en -borging, verstoring en noodvoorziening drinkwater
 
-#### Artikel 2.2. (kwaliteitscontrole en -borging, meetprogramma en rapportage)
+##### Artikel 2.2. (kwaliteitscontrole en -borging, meetprogramma en rapportage)
 
 1. Een producent, respectievelijk distributeur, van drinkwater beschikt over een systeem voor kwaliteitscontrole en -borging, waaronder een meetprogramma, met het oog op de eisen, bedoeld in [artikel 2.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=2.3), respectievelijk [3.5, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.5), en de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=A&z=2016-07-01&g=2016-07-01) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=B&z=2016-07-01&g=2016-07-01).
 
@@ -62,11 +88,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. De producent, distributeur en eigenaar dragen in overleg met de toezichthouder zorg voor een legionellarisicoanalyse- en -beheersplan.
 
-#### Artikel 2.3. (kwaliteits- en capaciteitsdocument)
+##### Artikel 2.3. (kwaliteits- en capaciteitsdocument)
 
 Het kwaliteits- en capaciteitsdocument met risicoanalyse, bedoeld in [artikel 3.5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.5), voldoet aan de eisen, opgenomen in [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=E&z=2016-07-01&g=2016-07-01).
 
-#### Artikel 2.4. (maatregelen bij verstoring)
+##### Artikel 2.4. (maatregelen bij verstoring)
 
 1. Indien een verstoring optreedt in de distributie van drinkwater waardoor niet wordt voldaan aan een in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=A&z=2016-07-01&g=2016-07-01) of [B](https://wetten.overheid.nl/jci1.3:c:BWBR0038044&bijlage=B&z=2016-07-01&g=2016-07-01) opgenomen kwaliteitseis, of waardoor de levering van voldoende drinkwater wordt onderbroken, neemt de distributeur de maatregelen die noodzakelijk zijn om die verstoring zo spoedig mogelijk op te heffen.
 
@@ -76,11 +102,11 @@ Het kwaliteits- en capaciteitsdocument met risicoanalyse, bedoeld in [artikel 3.
 
 - b. de maatregelen die zijn of worden genomen om de kwaliteit en hoeveelheid van het drinkwater te waarborgen.
 
-#### Artikel 2.5. (nooddrinkwater distributeur)
+##### Artikel 2.5. (nooddrinkwater distributeur)
 
 Ingeval van een verstoring waardoor gedurende een periode langer dan 24 uur geen deugdelijk drinkwater kan worden geleverd aan afnemers stelt de distributeur nooddrinkwater ter beschikking.
 
-#### Artikel 2.6. (noodvoorziening)
+##### Artikel 2.6. (noodvoorziening)
 
 1. De aanwijzing, bedoeld in [artikel 4.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=4.2), vindt plaats na overleg met de aan te wijzen noodproducent of nooddistributeur en de bestuurscolleges.
 
@@ -90,7 +116,7 @@ Ingeval van een verstoring waardoor gedurende een periode langer dan 24 uur geen
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 3.1. (procedure vergunning, aanwijzing of ontheffing)
+##### Artikel 3.1. (procedure vergunning, aanwijzing of ontheffing)
 
 1. Bij ministeriële regeling kunnen nadere regels worden gesteld over de documenten waarvan een aanvraag om een vergunning als bedoeld in [artikel 2.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=2.2), of een aanwijzing als bedoeld in [artikel 3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.2) vergezeld gaat.
 
@@ -98,19 +124,19 @@ Ingeval van een verstoring waardoor gedurende een periode langer dan 24 uur geen
 
 3. Onze Minister kan met redenen omkleed aanvullende informatie bij de aanvrager opvragen.
 
-#### Artikel 3.2. (meetfrequentie)
+##### Artikel 3.2. (meetfrequentie)
 
 Bij ministeriële regeling kan de frequentie van het meten van de afgenomen hoeveelheid elektriciteit of drinkwater, bedoeld in [artikel 3.5, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&artikel=3.5), worden vastgesteld. Deze vindt ten minste tweemaal per jaar plaats.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. (inwerkingtreding)
+##### Artikel 4.1. (inwerkingtreding)
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Wet elektriciteit en drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) in werking treedt.
 
 2. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven op of na de datum waarop de in het eerste lid genoemde [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037861) inwerking treedt, treedt in afwijking van het eerste lid dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met de datum waarop de genoemde wet in werking treedt.
 
-#### Artikel 4.2. (citeertitel)
+##### Artikel 4.2. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit elektriciteit en drinkwater BES.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling Commissie Evaluatie Awb III"
+title: "Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2006, nr. 5429821/06/6, houdende instelling van de Commissie Evaluatie Awb III"
 identifier: "BWBR0020026"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-07-20
-laatste_update: 2006-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020026"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-20"
+last_updated: "2006-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020026"
+soort: "ministeriele-regeling"
+stam_id: "8524893"
+version_id: "13426392"
+internal_id: "C18006701"
+label_id: "8505254"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020026/2006-07-20/0"
+intitule_bron: "Stcrt.2006-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-29"
+intitule_published: "2006-07-18"
+intitule_in_force: "2006-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-137"
+original_signed_date: "2006-06-29"
+original_published_date: "2006-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-137-p10-SC75983"
+entry_into_force_date: "2006-07-20"
+jci_1_3: "jci1.3:c:BWBR0020026&z=2006-07-20&g=2006-07-20"
+jci_1_0: "1.0:c:BWBR0020026&g=2006-07-20"
+citeertitel_status: "officieel"
+short_title: "Regeling Commissie Evaluatie Awb III"
+signed_date: "2006-06-29"
+entry_into_force: "2006-07-20"
 ---
-
 # Regeling van de Minister van Justitie en de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2006, nr. 5429821/06/6, houdende instelling van de Commissie Evaluatie Awb III
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,11 +42,11 @@ Gelet op [artikel 6, eerste en derde lid, van de Kaderwet adviescolleges](https:
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Commissie Evaluatie Awb III, verder te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie heeft, met het oog op de verplichte evaluatie van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) als bedoeld in [artikel 11:1 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=11:1), tot taak:
 
@@ -30,7 +56,7 @@ Er is een Commissie Evaluatie Awb III, verder te noemen de commissie.
 
 2. Na het uitbrengen van het verslag is de commissie opgeheven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de commissie zijn benoemd:
 
@@ -48,7 +74,7 @@ mevr. mr. E.C. Drexhage, coördinerend Juridisch specialist bij het Ministerie v
 
 mevr. mr. drs. D. Brugman, wetgevingsjurist bij het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 4
+##### Artikel 4
 
 De vergoeding voor de werkzaamheden van de commissie bedraagt per vergadering:
 
@@ -56,15 +82,15 @@ De vergoeding voor de werkzaamheden van de commissie bedraagt per vergadering:
 
 - b. voor de overige leden: € 235.
 
-#### Artikel 5
+##### Artikel 5
 
 De archiefbescheiden van de commissie worden na opheffing van de commissie, of zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgedragen aan het archief van het Ministerie van Justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt drie maanden nadat het verslag is uitgebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: regeling Commissie Evaluatie Awb III.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit inschrijvingsvoorwaarden mediators 2013"
+title: "Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)"
 identifier: "BWBR0034565"
-categorie: "Overig"
-publicatiedatum: 2013-12-31
-laatste_update: 2013-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034565"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-12-31"
+last_updated: "2013-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034565"
+soort: "zbo"
+stam_id: "12525793"
+version_id: "21082632"
+internal_id: "C30265931"
+label_id: "12496504"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034565/2013-12-31/0"
+intitule_bron: "Stcrt.2013-36754"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-11-27"
+intitule_published: "2013-12-31"
+intitule_in_force: "2013-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36754"
+original_signed_date: "2013-11-27"
+original_published_date: "2013-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36754"
+entry_into_force_date: "2013-12-31"
+jci_1_3: "jci1.3:c:BWBR0034565&z=2013-12-31&g=2013-12-31"
+jci_1_0: "1.0:c:BWBR0034565&g=2013-12-31"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inschrijvingsvoorwaarden mediators 2013"
+signed_date: "2013-11-27"
+entry_into_force: "2013-12-31"
 ---
-
 # Inschrijvingsvoorwaarden mediators 2014 (Besluit van het bestuur van de Raad voor Rechtsbijstand van 27 november 2013 krachtens artikel 33 b van de Wet op de Rechtsbijstand)
 
 ### Inleiding
@@ -20,7 +46,7 @@ In het onderstaande zijn deze voorwaarden uitgewerkt. De voorwaarden zijn op te 
 
 ### Inschrijvingsvoorwaarden
 
-#### Artikel 1. Registratie/ opleidingsvereisten / evaluatie
+##### Artikel 1. Registratie/ opleidingsvereisten / evaluatie
 
 1. De deelnemende mediator dient NMI of MFN1Mediators Federatie Nederland registermediator te zijn. Deze NMI of MFN registermediator heeft ofwel
 
@@ -36,11 +62,11 @@ De mediator is zich er van bewust dat het behoud van de status NMI of MFN regist
 
 4. De mediator verklaart deel te nemen aan een schriftelijke of mondelinge evaluatie van zijn/haar werkzaamheden voor de verwijzingsvoorzieningen indien dit door de verwijzingsvoorziening geïnitieerd wordt.
 
-#### Artikel 2. Beschikbaarheid
+##### Artikel 2. Beschikbaarheid
 
 De mediator verplicht zich steeds beschikbaar te zijn voor het doen van een verwezen mediation – behoudens vakantie en tijdens ziekte – en telkens binnen twee weken na aanmelding en acceptatie van de mediation een eerste mediationbijeenkomst te houden en vervolgafspraken zodanig te maken dat de mediation binnen drie maanden na de eerste bijeenkomst afgerond is.
 
-#### Artikel 3. Organisatie kantoor/ praktijk
+##### Artikel 3. Organisatie kantoor/ praktijk
 
 De mediator dient een regeling te hebben getroffen ten aanzien van de organisatie van zijn kantoor/ praktijk, waarin voldoende voorzien is in:
 
@@ -48,11 +74,11 @@ De mediator dient een regeling te hebben getroffen ten aanzien van de organisati
 
 - b. dat verhindering wegens overmacht zo spoedig mogelijk telefonisch door de mediator wordt doorgeven aan de verwijzingsvoorziening, onmiddellijk gevolgd door schriftelijke bevestiging hiervan.
 
-#### Artikel 4. Plaatsvervanging
+##### Artikel 4. Plaatsvervanging
 
 Plaatsvervanging is in principe niet mogelijk. Incidenteel kan, in geval van zwaarwegende redenen voor verhindering, plaatsvervanging geschieden met een eveneens bij de Raad voor Rechtsbijstand ingeschreven mediator. Indien het om een verwijzing van de verwijzingsvoorzieningen gaat, dient dit tevens in overleg met de betreffende verwijzingsvoorziening te geschieden.
 
-#### Artikel 5. Werkwijze
+##### Artikel 5. Werkwijze
 
 1. De mediator conformeert zich aan de werkwijze horend bij de verwijzingsvoorzieningen en de gesubsidieerde rechtsbijstand, zoals het juist en volledig informeren van de cliënten over de effecten van de overeengekomen vertrouwelijkheid tijdens de mediations.
 
@@ -68,25 +94,25 @@ Indien in een specifiek geval een partij, die voor een toevoeging in aanmerking 
 
 6. Het is de ingeschreven mediator niet geoorloofd om een beloning of provisie toe te kennen of te ontvangen voor het aanbrengen van opdrachten.
 
-#### Artikel 6. Klacht- en tuchtrecht
+##### Artikel 6. Klacht- en tuchtrecht
 
 1. De mediator heeft zich gecommitteerd aan de klachtenregeling van de Stichting Kwaliteit Mediators en het Reglement Stichting Tuchtrechtspraak Mediators d.d. 2009 en stemt in met de plicht van het de Stichting Kwaliteit Mediators om de uitkomst van klachten over deelnemende mediators te melden aan de verwijzingsvoorziening van de Rechtspraak en aan de Raad voor Rechtsbijstand.
 
 2. De Raad voor Rechtsbijstand heeft een Evaluatiecommissie ingesteld, zoals bedoeld in [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8). De Raad heeft voor de werkwijze van de Evaluatiecommissie het ‘Reglement landelijke Commissie Evaluatie Mediators doorverwijsvoorzieningen’ vastgesteld4Dit reglement is gepubliceerd op www.rvr.org: http://www.rvr.org/nl/news,2011/05/Speciale-commissie-voor-mediation.html. De Evaluatiecommissie kan, hetzij naar aanleiding van een klacht, hetzij op eigen initiatief, de Raad adviseren over maatregelen in de sfeer van de inschrijving van een mediator, inbegrepen de mogelijkheid van doorhaling van de inschrijving. De ingeschreven mediator is verplicht om zich te onderwerpen aan het genoemde reglement. De mediator stemt tevens in met een maatregelbeleid ten aanzien van gegronde klachten.
 
-#### Artikel 7. Beroepsaansprakelijkheidsverzekering
+##### Artikel 7. Beroepsaansprakelijkheidsverzekering
 
 De mediator heeft een deugdelijke beroepsaansprakelijkheidsverzekering ten bedrage van € 450.000,– (**zegge vierhonderdvijftigduizend euro**) per gebeurtenis. Bij inschrijving verklaart de mediator aldus verzekerd te zijn, dan wel bereid te zijn dadelijk na toelating een beroepsaansprakelijkheidsverzekering af te sluiten voor minimaal € 450.000 per gebeurtenis.
 
-#### Artikel 8. Monitoring
+##### Artikel 8. Monitoring
 
 De mediator draagt zorg voor het compleet en tijdig verstrekken van de gegevens ten behoeve van de monitoring die door de verwijzingsvoorziening worden gevraagd.
 
-#### Artikel 9. Mediationkamers
+##### Artikel 9. Mediationkamers
 
 De mediator is bereid mediationbijeenkomsten te houden in mediationkamers die door de verwijzingsvoorziening bij de Rechtspraak zijn ingericht. Voor de gevallen waarin de verwijzingsvoorziening geen ruimte ter beschikking heeft, dient de mediator adequate ruimte ter beschikking te hebben om mediationbijeenkomsten te houden. De mediator brengt hiervoor geen kosten aan partijen in rekening.
 
-#### Artikel 10. Team- en co-mediation
+##### Artikel 10. Team- en co-mediation
 
 1. De mediator is bereid om op te treden in teammediation waar dat door de verwijzers noodzakelijk wordt geacht. Tevens is hij/zij bereid om in die gevallen de mediation tijdig inhoudelijk en procedureel voor te bereiden.
 
@@ -106,7 +132,7 @@ Hierbij dienen de volgende regels in acht te worden genomen:
 
 - –. de mediator tekent op de monitoringformulieren aan wie als co-mediator is opgetreden en welke opleiding deze heeft voltooid.
 
-#### Artikel 11. Vergoeding voor de niet toegevoegde partij. Eigen bijdrage toevoegingscliënt
+##### Artikel 11. Vergoeding voor de niet toegevoegde partij. Eigen bijdrage toevoegingscliënt
 
 1. De mediator verplicht zich om in zaken die zijn verwezen door een van de verwijzingsvoorzieningen5Deze verwijzingsvoorzieningen zijn het Juridisch Loket en de verwijzingsvoorziening van de gerechten. binnen het rechtsbestel aan partijen die niet zijn toegevoegd zijn uurtarief alleen in rekening te brengen voor:
 
@@ -130,11 +156,11 @@ Toevoegingen zijn niet van toepassing bij zakelijke conflicten, met uitzondering
 
 4. In het geval als omschreven in lid 3, richt de mediator zijn/ haar toevoegingsaanvragen en declaraties zorgvuldig en volledig in, met inachtneming van de regels die bij of krachtens de wet zijn gesteld. Hij/ zij neemt daarbij voorts de algemene voorschriften en beleidsregels die met het oog op de wijze van indiening van toevoegingsaanvragen c.q. declaraties door de Raad voor Rechtsbijstand zijn of worden uitgevaardigd in acht en houdt rekening met specifieke aanwijzingen van het bureau van de Raad.
 
-#### Artikel 12. Registratie van affiniteiten door de Raad voor Rechtsbijstand
+##### Artikel 12. Registratie van affiniteiten door de Raad voor Rechtsbijstand
 
 Bij zijn verzoek tot inschrijving bij de Raad voor Rechtsbijstand kan de mediator één of meer affiniteiten opgeven. Een affiniteit wordt door de Raad alleen geregistreerd als per hoofdcategorie waarbinnen de affiniteit wordt opgegeven tenminste drie mediations8Het moet gaan om mediations in overeenstemming met de NMI-reglementen, aangevangen met een schriftelijke mediation overeenkomst. Andere vormen van bemiddeling, zoals buurtbemiddelingen tellen niet mee. zijn behandeld. Dit moet aan de hand van (geanonimiseerde) mediationovereenkomsten aangetoond worden. Dit geldt niet voor het registreren van affiniteiten op het terrein van het Personen- en Familierecht, daarop is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034565&artikel=13&z=2013-12-31&g=2013-12-31) van toepassing.
 
-#### Artikel 13. Deskundigheidseisen voor het behandelen van zaken op het terrein van het personen – familierecht
+##### Artikel 13. Deskundigheidseisen voor het behandelen van zaken op het terrein van het personen – familierecht
 
 Om ingeschreven te kunnen worden voor dit vakgebied dient een mediator die om inschrijving verzoekt, naast de in [artikel 1 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034565&artikel=1&z=2013-12-31&g=2013-12-31) omschreven eisen, te voldoen aan het volgende vereiste:
 
@@ -146,11 +172,11 @@ Om vervolgens ingeschreven te blijven voor dit vakgebied dient een daarvoor toeg
 
 - c. het behalen van 5 opleidingspunten op het terrein van het personen- en familierecht.
 
-#### Artikel 14. Online mediation
+##### Artikel 14. Online mediation
 
 Voor de toepassing van online mediation, in zaken waarvoor na eigen acquisitie een toevoeging wordt verzocht, respectievelijk wordt bemiddeld op grond van een verwijzing door een van de verwijzingsvoorzieningen, dient de mediator een door de Raad voor Rechtsbijstand erkende ‘opleiding tot gespecialiseerd online bemiddelaar’ succesvol te hebben afgerond.9Goedgekeurd is in ieder geval de online mediation opleiding van Juripax. Andere opleidingen kunnen desgewenst door opleidingsinstellingen ter goedkeuring aan de Raad worden voorgelegd.
 
-#### Artikel 15. Deskundigheidseisen voor het behandelen van zaken betreffende internationale kinderontvoering
+##### Artikel 15. Deskundigheidseisen voor het behandelen van zaken betreffende internationale kinderontvoering
 
 Naast de voorwaarden uit de [artikelen 1 tot en met 13](https://wetten.overheid.nl/jci1.3:c:BWBR0034565&artikel=1&z=2013-12-31&g=2013-12-31) behoren mediators die zaken betreffende internationale kinderontvoering willen behandelen zich daarvoor apart in te inschrijven bij de Raad voor Rechtsbijstand. Bij het verzoek moeten zij aantonen dat zij voldoen aan onderstaande criteria:
 
@@ -162,7 +188,7 @@ Naast de voorwaarden uit de [artikelen 1 tot en met 13](https://wetten.overheid.
 
 - –. op de hoogte blijven van de (rechts)ontwikkelingen op het gebied van internationale kinderontvoering door het bijwonen van relevante congressen, cursussen, lezingen etc. en het op de hoogte blijven van relevante jurisprudentie.
 
-#### Artikel 16. Wijziging van gegevens en beëindiging deelname
+##### Artikel 16. Wijziging van gegevens en beëindiging deelname
 
 Het doorgeven van wijzigingen van gegevens en beëindiging van deelname dient schriftelijk te geschieden bij de Raad voor Rechtsbijstand.
 

@@ -1,13 +1,36 @@
 ---
-title: "Raamwerk nascholingscursussen code 95 en ADR (1 juli 2025)"
+title: "Raamwerk nascholingscursussen code 95 en ADR"
 identifier: "BWBR0051132"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051132"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051132"
+soort: "zbo"
+stam_id: "17450643"
+version_id: "30776702"
+internal_id: "C44116441"
+label_id: "17354054"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051132/2025-07-01/0"
+intitule_bron: "Stcrt.2025-21315"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-06-24"
+intitule_in_force: "2025-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21315"
+original_published_date: "2025-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-21315"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051132&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051132&g=2025-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Raamwerk nascholingscursussen code 95 en ADR (1 juli 2025)"
+entry_into_force: "2025-07-01"
 ---
-
 # Raamwerk nascholingscursussen code 95 en ADR
 
 ### Hoofdstuk 1. Het raamwerk nascholingscursussen code 95 en ADR

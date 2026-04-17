@@ -1,13 +1,35 @@
 ---
 title: "Cultureel Verdrag tussen Nederland en Italië"
 identifier: "BWBV0004836"
-categorie: "Internationaal recht"
-publicatiedatum: 1973-11-14
-laatste_update: 1973-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004836"
+country: "nl"
+rank: "verdrag"
+publication_date: "1973-11-14"
+last_updated: "1973-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004836"
+soort: "verdrag"
+stam_id: "10004343243"
+version_id: "10004543322"
+internal_id: "C10008430391"
+label_id: "10004328194"
+dtd_version: "2.0"
+original_entry_into_force: "1953-10-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004836/1973-11-14/0"
+intitule_bron: "Trb.1952-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-01-21"
+intitule_in_force: "1953-10-27"
+intitule_status: "goed"
+original_publication: "Trb.1952-10"
+original_published_date: "1952-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-10"
+entry_into_force_date: "1953-10-13"
+jci_1_3: "jci1.3:c:BWBV0004836&z=1973-11-14&g=1973-11-14"
+jci_1_0: "1.0:c:BWBV0004836&g=1973-11-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-10-13"
 ---
-
 # Cultureel Verdrag tussen Nederland en Italië
 
 De Regering van het Koninkrijk der Nederlanden en de Regering der Italiaanse Republiek;
@@ -18,11 +40,11 @@ Hebben besloten te dien einde een Verdrag te sluiten betreffende de culturele en
 
 als volgt zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Verdrag heeft ten doel, door bestendig contact tussen de beide Partijen de goede betrekkingen tussen beide landen op het gebied van onderwijs, wetenschap en kunst op een hechte basis te grondvesten en te ontwikkelen.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de uitvoering van dit Verdrag wordt een permanente gemengde Commissie ingesteld. Deze zal bestaan uit zes leden; ieder der Verdragsluitende Partijen wordt door drie leden vertegenwoordigd. De samenstelling en de werkzaamheden van deze Commissie worden door de volgende beginselen beheerst:
 
@@ -34,23 +56,23 @@ Met het oog op de uitvoering van dit Verdrag wordt een permanente gemengde Commi
 
 - d). Onverminderd het bepaalde onder c) kan de gemengde Commissie deskundigen als technische adviseurs aan zich toevoegen, steeds op basis van pariteit.
 
-#### Artikel 3
+##### Artikel 3
 
 Na bekrachtiging van dit Verdrag zullen de daaruit voortvloeiende bepalingen zoals deze door de gemengde Commissie zijn vastgesteld, worden bekend gemaakt in een officiële akte, die als bijlage aan dit Verdrag zal worden toegevoegd. Deze bepalingen alsmede alle veranderingen van en toevoegingen aan deze bepalingen komen op voorstel van de gemengde Commissie tot stand na goedkeuring door de Regeringen der beide landen.
 
-#### Artikel 4
+##### Artikel 4
 
 Beide Verdragsluitende Partijen zullen de uitwisseling bevorderen van hoogleraren, leraren bij het middelbaar onderwijs, leden van instellingen op het gebied van wetenschap, letterkunde en kunst, studenten, personen belast met wetenschappelijk onderzoek en kunstenaars. De voordracht der candidaten zal door de universiteiten en instellingen zelf worden opgemaakt en zal ter beoordeling aan de Commissie worden voorgelegd.
 
 Voorts zal ieder der Verdragsluitende Partijen het ondernemen van reizen in groepsverband van leraren, studenten, kunstenaars, personen uit beroep of ambacht, technici en intellectuelen in het algemeen, in het andere land bevorderen.
 
-#### Artikel 5
+##### Artikel 5
 
 Ieder der Verdragsluitende Partijen is gerechtigd op het grondgebied van de andere Partij culturele instellingen op te richten en in stand te houden, onder het voorbehoud dat zij de wettelijke bepalingen in acht nemen, welke het oprichten van dergelijke instellingen in ieder der beide landen regelen.
 
 De salarissen, welke de functionarissen van bovengenoemde instellingen in deze hoedanigheid van de ene Verdragsluitende Partij ontvangen, zullen zijn vrijgesteld van iedere belasting op inkomsten op het grondgebied van de andere Verdragsluitende Partij, waar de instelling is gevestigd.
 
-#### Artikel 5a
+##### Artikel 5a
 
 De culturele instellingen die door ieder der beide landen officieel worden opgericht op het grondgebied van het andere land genieten op basis van wederkerigheid de volgende voordelen van fiscale aard, welke niet de vergoedingen omvatten, die verschuldigd zijn als beloning voor verleende diensten:
 
@@ -62,33 +84,33 @@ De culturele instellingen die door ieder der beide landen officieel worden opger
 
 De overeenkomstig het voorgaande lid sub c) ingevoerde goederen mogen op het grondgebied van de Verdragsluitende Partij waar zij zijn ingevoerd niet worden verkocht, uitgeleend of onder bezwarende titel dan wel om niet worden afgestaan met een ander doel dan het functioneren van de culturele lichamen, behalve op door de Regering van de betrokken Verdragsluitende Partij vastgestelde voorwaarden.
 
-#### Artikel 6
+##### Artikel 6
 
 Ieder der Verdragsluitende Partijen neemt de verplichting op zich - door het oprichten van leerstoelen, lectoraten en waar mogelijk, door het organiseren van cursussen op middelbare scholen - de studie van de taal en letterkunde van de andere Partij in haar eigen onderwijsinstellingen te bevorderen, hetzij door eigen leerkrachten, hetzij door het ontvangen van leerkrachten van de andere Partij, die hiertoe naar behoefte aangewezen worden. De gemengde Commissie, genoemd onder artikel 2, zal de wijze bepalen waarop bovengenoemde verplichting wederzijds zal worden uitgevoerd.
 
-#### Artikel 7
+##### Artikel 7
 
 Beide Verdragsluitende Partijen verklaren het toekennen van beurzen te willen bevorderen, teneinde studerenden in staat te stellen hun studies of onderzoekingen in het andere Verdragsluitende land voort te zetten.
 
 De gemengde Commissie kan wat het aantal dezer beurzen en alle verdere regelingen dienaangaande betreft, bij de betrokken Regeringen voorstellen indienen.
 
-#### Artikel 8
+##### Artikel 8
 
 De Verdragsluitende Partijen zullen de culturele uitwisselingen tussen beide landen versterken door het organiseren van concerten, opera- en toneelvoorstellingen, voordrachten, tentoonstellingen van artistieke en wetenschappelijke aard of op het gebied van het onderwijs en alle andere daartoe geëigende culturele manifestaties, door de verspreiding van boeken en tijdschriften alsook door de film en de radio.
 
-#### Artikel 9
+##### Artikel 9
 
 De Verdragsluitende Partijen zullen alle financiële maatregelen onder ogen zien, nodig om in het algemeen manifestaties op artistiek en cultureel gebied van het ene land in het andere te vergemakkelijken.
 
-#### Artikel 10
+##### Artikel 10
 
 De Verdragsluitende Partijen achten het wenselijk dat, onder het voorbehoud van mogelijk te nemen maatregelen ten behoeve der openbare veiligheid, boeken, couranten en tijdschriften die in een der beide landen zijn uitgegeven, vrijelijk toegang vinden op het grondgebied van het andere land, vrij van rechten, zonder invoervergunning of andere beperkende maatregelen.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld. Het Verdrag zal in werking treden op de dag der uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag zal van kracht blijven gedurende een tijdvak van vijf jaren. Indien geen der Verdragsluitende Partijen zes maanden voor afloop van die termijn van vijf jaar kennis heeft gegeven van haar bedoeling het Verdrag te beëindigen, zal het verbindend blijven gedurende een jaar vanaf de dag, waarop de ene of de andere der Verdragsluitende Partijen het zal hebben opgezegd.
 

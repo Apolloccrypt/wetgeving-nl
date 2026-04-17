@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel afwikkelbaarheid verzekeraars 2023"
+title: "Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)"
 identifier: "BWBR0048033"
-categorie: "Overig"
-publicatiedatum: 2023-04-06
-laatste_update: 2023-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048033"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-04-06"
+last_updated: "2023-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048033"
+soort: "zbo"
+stam_id: "16717793"
+version_id: "29325342"
+internal_id: "C41768941"
+label_id: "16634494"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048033/2023-04-06/0"
+intitule_bron: "Stcrt.2023-10174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-27"
+intitule_published: "2023-04-05"
+intitule_in_force: "2023-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-10174"
+original_signed_date: "2023-03-27"
+original_published_date: "2023-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-10174"
+entry_into_force_date: "2023-04-06"
+jci_1_3: "jci1.3:c:BWBR0048033&z=2023-04-06&g=2023-04-06"
+jci_1_0: "1.0:c:BWBR0048033&g=2023-04-06"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel afwikkelbaarheid verzekeraars 2023"
+signed_date: "2023-03-27"
+entry_into_force: "2023-04-06"
 ---
-
 # Beleidsregel van de Nederlandsche Bank N.V. van 27 maart 2023 houdende regels met betrekking tot de beoordeling van de afwikkelbaarheid van verzekeraars als bedoeld in artikel 3a:82 van de Wet op het financieel toezicht (Beleidsregel afwikkelbaarheid verzekeraars 2023)
 
 Gelet op de [artikelen 3a:77](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:77), [3a:78](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:78), [3a:81 eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:81), [3a:82](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:82), [3a:83](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:83), [3a:85 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:85), [3a:86](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:86), [3a:89](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:89), [3a:90](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:90) en [3a:91 eerste en tweede lid, van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:91) (‘**Wft**’)
@@ -20,7 +46,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 De begrippen in deze beleidsregel hebben dezelfde betekenis als in [hoofdstuk 3a.2. Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=3a.2) en de daarop gebaseerde lagere regelgeving.
 
@@ -40,19 +66,19 @@ Daarnaast wordt in deze beleidsregel verstaan onder:
 
 - g. **verzekeringsactiviteiten:** het verschaffen van risicodekking en het uitkeren van polisgelden aan polishouders, verzekerden en begunstigden.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid van verzekeraars en groepen waarvoor DNB op grond van [artikel 3a:81 eerste lid Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:81)afwikkelingsplannen opstelt.
 
 #### § 2. Inhoudelijke bepalingen met betrekking tot de afwikkelbaarheidsbeoordeling door DNB
 
-#### Artikel 3. Afwikkelbaarheidsbeoordeling
+##### Artikel 3. Afwikkelbaarheidsbeoordeling
 
 1. In de afwikkelbaarheidsbeoordeling die zij op grond van [artikel 3a:82 Wft](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3a:82) en met in achtneming van de onderdelen als omschreven in [artikel 6 Bbpm](https://wetten.overheid.nl/jci1.3:c:BWBR0020414&artikel=6) verricht, betrekt DNB in het bijzonder de in [artikel 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048033&paragraaf=2&artikel=4&z=2023-04-06&g=2023-04-06) genoemde elementen, in samenhang met de overige onderdelen van het afwikkelingsplan van de desbetreffende verzekeraar of groep.
 
 2. Indien DNB dit nodig acht voor de resolutieplanning of de beoordeling van de afwikkelbaarheid van de verzekeraar of groep, kan zij bij de afwikkelbaarheidsbeoordeling additionele elementen betrekken. Daartoe kan DNB de verzekeraar of groep om aanvullende informatie en analyses vragen.
 
-#### Artikel 4. Governance
+##### Artikel 4. Governance
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de resolutieplanning en de afwikkelbaarheid voldoende zijn ingebed in het governancesysteem van de verzekeraar of groep en of dat governancesysteem in voorkomend geval de voorbereiding en de uitvoering van de afwikkelingsmaatregelen kan ondersteunen.
 
@@ -80,7 +106,7 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - f. verantwoordelijkheden, rapportagelijnen, escalatieprocedures richting het bestuur en (hoger) management en goedkeuringsprocessen als bedoeld in onderdeel d, en procedures als bedoeld in onderdeel e, binnen het governancesysteem van de verzekeraar of groep helder heeft vastgelegd.
 
-#### Artikel 5. Operationele continuïteit
+##### Artikel 5. Operationele continuïteit
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de verzekeraar of groep adequate regelingen heeft getroffen om de continuïteit van kritieke diensten in aanloop naar en tijdens de uitvoering van de afwikkelingsmaatregelen te waarborgen.
 
@@ -94,7 +120,7 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - d. of een verzekeraar of groep beschikt over een overzicht van kritieke diensten waarvoor geldt dat de continuïteit daarvan in aanloop naar en tijdens de uitvoering van afwikkelingsmaatregelen onzeker is, met inzicht in de mogelijke gevolgen hiervan voor de uitvoering van de afwikkelingsmaatregelen.
 
-#### Artikel 6. Financiële continuïteit
+##### Artikel 6. Financiële continuïteit
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de verzekeraar of groep adequate regelingen heeft getroffen om de infrastructuur voor de (toegang tot) liquiditeit- en financieringsbronnen te behouden in aanloop naar en tijdens de uitvoering van de afwikkelingsmaatregelen.
 
@@ -108,7 +134,7 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - d. wanneer sprake is van een groep, hoe invulling is gegeven aan het in onderdeel a tot en met c bepaalde voor de voor afwikkeling in aanmerking komende holdingmaatschappij(en) binnen de groep.
 
-#### Artikel 7. Management informatiesystemen
+##### Artikel 7. Management informatiesystemen
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de verzekeraar of groep beschikt over adequate MIS om aan DNB correct, compleet en tijdig informatie te verstrekken ten behoeve van:
 
@@ -128,7 +154,7 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - d. de MIS en het in [artikel 4 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048033&paragraaf=2&artikel=4&z=2023-04-06&g=2023-04-06) bedoelde governancesysteem van de verzekeraar of groep zodanig op elkaar aansluiten dat de data, te verschaffen voor het voorbereiden en uitvoeren van de afwikkelingsmaatregelen, van voldoende kwaliteit, volledigheid en relevantie zijn.
 
-#### Artikel 8. Communicatie
+##### Artikel 8. Communicatie
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de verzekeraar of groep beschikt over een crisiscommunicatieplan om een tijdige, heldere en consistente communicatie richting relevante belanghebbenden te waarborgen, in aanloop naar en tijdens de uitvoering van afwikkelingsmaatregelen, een en ander in lijn met de afspraken die DNB met de verzekeraar of groep heeft gemaakt.
 
@@ -144,7 +170,7 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 - e. beschikt over duidelijke governanceregelingen die een effectieve uitvoering van het crisiscommunicatieplan als bedoeld in het eerste lid waarborgen en aansluiten op het governancesysteem als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048033&paragraaf=2&artikel=4&z=2023-04-06&g=2023-04-06).
 
-#### Artikel 9. Structuur, bedrijfsvoering en strategische besluiten
+##### Artikel 9. Structuur, bedrijfsvoering en strategische besluiten
 
 1. Ten behoeve van de afwikkelbaarheidsbeoordeling beoordeelt DNB of de juridische structuur en feitelijke bedrijfsvoering van de verzekeraar of groep de toepassing van afwikkelingsinstrumenten bemoeilijkt en of de verzekeraar of groep afwikkelbaarheid meeweegt bij het nemen van strategische besluiten, waaronder die als omschreven in [artikel 4, derde lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0048033&paragraaf=2&artikel=4&z=2023-04-06&g=2023-04-06).
 
@@ -158,15 +184,15 @@ Deze beleidsregel is van toepassing op de beoordeling van de afwikkelbaarheid va
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 10. Evaluatie
+##### Artikel 10. Evaluatie
 
 Deze beleidsregel wordt periodiek door DNB geëvalueerd.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: **Beleidsregel afwikkelbaarheid verzekeraars 2023**.
 

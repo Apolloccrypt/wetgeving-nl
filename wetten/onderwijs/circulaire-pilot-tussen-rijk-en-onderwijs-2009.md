@@ -1,13 +1,39 @@
 ---
-title: "Circulaire Pilot tussen Rijk en Onderwijs (2009)"
+title: "Circulaire Pilot tussen Rijk en Onderwijs"
 identifier: "BWBR0025233"
-categorie: "Onderwijs"
-publicatiedatum: 2009-01-26
-laatste_update: 2009-01-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025233"
+country: "nl"
+rank: "circulaire"
+publication_date: "2009-01-26"
+last_updated: "2009-01-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025233"
+soort: "circulaire"
+stam_id: "9889403"
+version_id: "16109072"
+internal_id: "C22104241"
+label_id: "9865884"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025233/2009-01-26/0"
+intitule_bron: "Stcrt.2009-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-05-20"
+intitule_published: "2009-01-26"
+intitule_in_force: "2009-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16"
+original_signed_date: "2008-05-20"
+original_published_date: "2009-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-1153"
+entry_into_force_date: "2009-01-26"
+jci_1_3: "jci1.3:c:BWBR0025233&z=2009-01-26&g=2009-01-26"
+jci_1_0: "1.0:c:BWBR0025233&g=2009-01-26"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire Pilot tussen Rijk en Onderwijs (2009)"
+signed_date: "2008-05-20"
+entry_into_force: "2009-01-26"
 ---
-
 # Circulaire Pilot tussen Rijk en Onderwijs
 
 ### Inleiding

@@ -1,13 +1,35 @@
 ---
 title: "Regeling Talentontwikkeling 2025–2028"
 identifier: "BWBR0050881"
-categorie: "Overig"
-publicatiedatum: 2025-03-27
-laatste_update: 2025-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050881"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-27"
+last_updated: "2025-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050881"
+soort: "zbo"
+stam_id: "17390133"
+version_id: "30657802"
+internal_id: "C43955121"
+label_id: "17293954"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050881/2025-03-27/0"
+intitule_bron: "Stcrt.2025-10390"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-03-26"
+intitule_in_force: "2025-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10390"
+original_published_date: "2025-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10390"
+entry_into_force_date: "2025-03-27"
+jci_1_3: "jci1.3:c:BWBR0050881&z=2025-03-27&g=2025-03-27"
+jci_1_0: "1.0:c:BWBR0050881&g=2025-03-27"
+citeertitel_status: "officieel"
+entry_into_force: "2025-03-27"
 ---
-
 # Regeling Talentontwikkeling 2025–2028
 
 gelet op [artikel 10, vierde lid, van de **Wet op het specifiek cultuurbeleid**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -22,7 +44,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 1. In deze regeling worden onderstaande begrippen gebruikt
 
@@ -90,15 +112,15 @@ besluit:
 
 2. In de volgende hoofdstukken staan de definities van de begrippen die bij het desbetreffende hoofdstuk horen.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die talentontwikkeling binnen informele netwerken versterken.
 
-#### Artikel 1.3. Wie kan aanvragen
+##### Artikel 1.3. Wie kan aanvragen
 
 Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde culturele instelling.
 
-#### Artikel 1.4. Indieningstermijnen
+##### Artikel 1.4. Indieningstermijnen
 
 1. Aanvragen kunnen worden ingediend vanaf 2 april 2025 13:00 uur tot en met 30 augustus 2028 17:00 uur. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
@@ -106,7 +128,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 3. Het Fonds kan indieningstermijnen hanteren die van het eerste lid afwijken. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
-#### Artikel 1.5. Subsidieplafond en flexibiliteit
+##### Artikel 1.5. Subsidieplafond en flexibiliteit
 
 1. De subsidieplafonds staan vermeld vanaf [hoofdstuk 2.](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=2&z=2025-03-27&g=2025-03-27) Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van projecten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
 
@@ -114,7 +136,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 3. Een besluit op grond van het eerste of tweede lid wordt gepubliceerd op de website van het Fonds.
 
-#### Artikel 1.6. Algemene weigeringsgronden
+##### Artikel 1.6. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -148,7 +170,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 4. Het Fonds kan weigeren om subsidie te verstrekken als de aanvraag op enige wijze niet in overeenstemming is met de regeling.
 
-#### Artikel 1.7. Voorwaarden
+##### Artikel 1.7. Voorwaarden
 
 1. Alleen kosten die direct verband houden met de projecten komen in aanmerking voor subsidiëring.
 
@@ -162,7 +184,7 @@ Subsidie op grond van deze regeling kan uitsluitend worden aangevraagd door een 
 
 3. Aanvragers gevestigd in het Caribisch deel van het Koninkrijk kunnen de benodigde kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 1.8. Verplichtingen
+##### Artikel 1.8. Verplichtingen
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden. Als het ten dienste staat aan het behalen van de doelstelling van de regeling, kan het Fonds de aanvrager verplichten tot deelname aan een bijeenkomst of begeleidingstraject.
 
@@ -194,7 +216,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 8. Gehonoreerde aanvragers zijn verplicht mee te werken aan monitoring en evaluatie door of namens het Fonds.
 
-#### Artikel 1.9. Verplichtingen voor het indienen
+##### Artikel 1.9. Verplichtingen voor het indienen
 
 1. Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds.
 
@@ -204,7 +226,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 - b. een sluitende begroting. De begroting mag geen tekort of overschot bevatten. De begroting wordt aangeleverd overeenkomstig het door het Fonds beschikbaar gestelde format.
 
-#### Artikel 1.10. Beoordeling van aanvragen
+##### Artikel 1.10. Beoordeling van aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig de regeling.
 
@@ -224,7 +246,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 9. Op de aanvraag wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.11. Voorschotten
+##### Artikel 1.11. Voorschotten
 
 1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
@@ -232,7 +254,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Als bij de vaststelling is gebleken dat het project in overeenstemming met de aanvraag is uitgevoerd en de begrootte kosten zijn gemaakt, wordt de resterende 10% betaald. Dit doet het Fonds zo spoedig mogelijk na het verzenden van het vaststellingsbesluit. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen onvoldoende nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.12. Verantwoording en vaststelling
+##### Artikel 1.12. Verantwoording en vaststelling
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
@@ -242,7 +264,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 2.1.1. Wie kan aanvragen
+##### Artikel 2.1.1. Wie kan aanvragen
 
 In aanvulling op [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&artikel=1.4&z=2025-03-27&g=2025-03-27) kunnen in dit hoofdstuk naast culturele instellingen ook professionals aanvragen die als zelfstandige minimaal drie jaar actief zijn op het gebied van cultuurparticipatie of -educatie. De professional dient daarbij in elk geval te voldoen aan het bepaalde in [artikel 1.1, onder s, onder 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&artikel=1.1&z=2025-03-27&g=2025-03-27), van deze regeling.
 
@@ -250,15 +272,15 @@ Een aanvraag in hoofdstuk 2 wordt namens het talent, de coach of groep talenten 
 
 #### Paragraaf 2. Talenten
 
-#### Artikel 2.2.1. Doel en effecten
+##### Artikel 2.2.1. Doel en effecten
 
 Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van individuele talenten die actief zijn binnen informele netwerken. Deze projecten dragen bij aan het effect: **Talentontplooiing**.
 
-#### Artikel 2.2.2. Waarvoor kan worden aangevraagd
+##### Artikel 2.2.2. Waarvoor kan worden aangevraagd
 
 Subsidie kan worden aangevraagd voor een individueel ontwikkeltraject waarin talenten zich als autodidactisch maker kunnen ontwikkelen onder begeleiding van professionals. Het ontwikkeltraject is primair gericht op een artistieke ontwikkeling; persoonlijke en zakelijke ontwikkeldoelen zijn secundair.
 
-#### Artikel 2.2.3. Hoogte van de subsidie
+##### Artikel 2.2.3. Hoogte van de subsidie
 
 Voor een project in paragraaf 2:
 
@@ -266,11 +288,11 @@ Voor een project in paragraaf 2:
 
 - b. bedraagt de subsidie maximaal 100% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 2.2.4. Subsidieplafond
+##### Artikel 2.2.4. Subsidieplafond
 
 Het subsidieplafond voor projecten in paragraaf 2 is € 421.970 per kalenderjaar.
 
-#### Artikel 2.2.5. Beoordelingscriteria
+##### Artikel 2.2.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -278,11 +300,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 2.2.6. Specifieke weigeringsgronden
+##### Artikel 2.2.6. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er in een kalenderjaar eerder twee aanvragen van dezelfde aanvrager zijn gehonoreerd in deze paragraaf.
 
-#### Artikel 2.2.7. Bijzondere verplichtingen
+##### Artikel 2.2.7. Bijzondere verplichtingen
 
 - a. Het project heeft een looptijd van minimaal zes maanden en maximaal twee jaar.
 
@@ -290,15 +312,15 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 #### Paragraaf 3. Coaches
 
-#### Artikel 2.3.1. Doel en effecten
+##### Artikel 2.3.1. Doel en effecten
 
 Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkelings- en professionaliseringstrajecten van individuele coaches actief binnen informele netwerken. Deze projecten dragen bij aan het effect: **Professionalisering**.
 
-#### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
+##### Artikel 2.3.2. Waarvoor kan worden aangevraagd?
 
 Subsidie kan worden aangevraagd voor een individueel ontwikkeltraject waarin coaches hun coachingsvaardigheden kunnen professionaliseren. Het ontwikkeltraject is primair gericht op de ontwikkeling van de inhoudelijke aanpak van de coaching.
 
-#### Artikel 2.3.3. Hoogte van de subsidie
+##### Artikel 2.3.3. Hoogte van de subsidie
 
 Voor een project in paragraaf 3:
 
@@ -306,11 +328,11 @@ Voor een project in paragraaf 3:
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 2.3.4. Subsidieplafond
+##### Artikel 2.3.4. Subsidieplafond
 
 Het subsidieplafond voor projecten in paragraaf 3 is € 187.542 per kalenderjaar.
 
-#### Artikel 2.3.5. Beoordelingscriteria
+##### Artikel 2.3.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -318,11 +340,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 2.3.6. Specifieke weigeringsgronden
+##### Artikel 2.3.6. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er in een kalenderjaar eerder twee aanvragen van dezelfde aanvrager zijn gehonoreerd in deze paragraaf.
 
-#### Artikel 2.3.7. Bijzondere verplichtingen
+##### Artikel 2.3.7. Bijzondere verplichtingen
 
 1. Het project heeft een looptijd van minimaal zes maanden en maximaal twee jaar.
 
@@ -330,15 +352,15 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 #### Paragraaf 4. Groepen talenten
 
-#### Artikel 2.4.1. Doel en effecten
+##### Artikel 2.4.1. Doel en effecten
 
 Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op ontwikkeltrajecten van groepen talenten actief binnen informele netwerken. Deze projecten dragen bij aan de effecten: **Talentontplooiing** en **Talentontwikkeling**.
 
-#### Artikel 2.4.2. Waarvoor kan worden aangevraagd?
+##### Artikel 2.4.2. Waarvoor kan worden aangevraagd?
 
 Subsidie kan worden aangevraagd voor een ontwikkeltraject in waarin meerdere talenten zich binnen de informele netwerken van cultuurbeoefening verder kunnen ontwikkelen onder begeleiding van professionals. Het ontwikkeltraject is primair gericht op een artistieke ontwikkeling van de talenten; persoonlijke en zakelijke ontwikkeldoelen zijn secundair.
 
-#### Artikel 2.4.3. Hoogte van de subsidie
+##### Artikel 2.4.3. Hoogte van de subsidie
 
 Voor een project in paragraaf 4:
 
@@ -346,11 +368,11 @@ Voor een project in paragraaf 4:
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 2.4.4. Subsidieplafond
+##### Artikel 2.4.4. Subsidieplafond
 
 Het subsidieplafond voor projecten in paragraaf 4 bedraagt € 797.054 totaal per kalenderjaar.
 
-#### Artikel 2.4.5. Beoordelingscriteria
+##### Artikel 2.4.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -358,11 +380,11 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 - d. organisatorische kwaliteit.
 
-#### Artikel 2.4.6. Specifieke weigeringsgronden
+##### Artikel 2.4.6. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er in een kalenderjaar eerder twee aanvragen van dezelfde aanvrager zijn gehonoreerd in deze paragraaf.
 
-#### Artikel 2.4.7. Bijzondere verplichtingen
+##### Artikel 2.4.7. Bijzondere verplichtingen
 
 1. Het project heeft een looptijd van minimaal zes maanden en maximaal twee jaar.
 
@@ -372,7 +394,7 @@ Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd a
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 3.1.1. Gebruikte begrippen
+##### Artikel 3.1.1. Gebruikte begrippen
 
 In aanvulling op [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&hoofdstuk=1&artikel=1.1&z=2025-03-27&g=2025-03-27) worden in dit hoofdstuk onderstaande begrippen gebruikt
 
@@ -382,15 +404,15 @@ In aanvulling op [artikel 1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050881&h
 
 #### Paragraaf 2. Methodiekontwikkeling
 
-#### Artikel 3.2.1. Doel en effecten
+##### Artikel 3.2.1. Doel en effecten
 
 Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn methodiekontwikkeling op het gebied van talentontwikkeling binnen informele netwerken. Projecten in deze paragraaf dragen bij aan het effect **Talentontwikkeling**.
 
-#### Artikel 3.2.2. Waarvoor kan worden aangevraagd
+##### Artikel 3.2.2. Waarvoor kan worden aangevraagd
 
 Subsidie kan worden aangevraagd voor het (door)ontwikkelen en implementeren van methodes waarmee een impuls aan de ontwikkeling en doorstroom van talenten in de informele netwerken wordt gerealiseerd.
 
-#### Artikel 3.2.3. Hoogte van de subsidie
+##### Artikel 3.2.3. Hoogte van de subsidie
 
 Voor een project in paragraaf 2:
 
@@ -398,11 +420,11 @@ Voor een project in paragraaf 2:
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 3.2.4. Subsidieplafond
+##### Artikel 3.2.4. Subsidieplafond
 
 Het subsidieplafond voor projecten in paragraaf 2 is € 187.542 per kalenderjaar.
 
-#### Artikel 3.2.5. Beoordelingscriteria
+##### Artikel 3.2.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -410,25 +432,25 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 3.2.6. Specifieke weigeringsgronden
+##### Artikel 3.2.6. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er in een kalenderjaar eerder al een aanvraag van dezelfde aanvrager is gehonoreerd in dit hoofdstuk.
 
-#### Artikel 3.2.7. Bijzondere verplichtingen
+##### Artikel 3.2.7. Bijzondere verplichtingen
 
 Het project heeft een looptijd van minimaal twaalf maanden en maximaal twee jaar.
 
 #### Paragraaf 3. Professionaliseren
 
-#### Artikel 3.3.1. Doel en effecten
+##### Artikel 3.3.1. Doel en effecten
 
 Met deze paragraaf stimuleert het Fonds het ontwikkelen en uitvoeren van projecten die gericht zijn op het verder professionaliseren van instellingen gericht op talentontwikkeling binnen informele netwerken. Projecten in deze paragraaf dragen bij aan ten minste drie van de beschreven effecten in de toelichting op dit artikel.
 
-#### Artikel 3.3.2. Waarvoor kan worden aangevraagd?
+##### Artikel 3.3.2. Waarvoor kan worden aangevraagd?
 
 Subsidie kan worden aangevraagd voor projecten die bijdragen aan professionalisering van de instelling voor talentontwikkeling op het vlak van bijvoorbeeld bedrijfsvoering, governance en beleidsvorming zodat de talentketen van informele netwerken is versterkt.
 
-#### Artikel 3.3.3. Hoogte van de subsidie
+##### Artikel 3.3.3. Hoogte van de subsidie
 
 Voor een project in paragraaf 3:
 
@@ -436,11 +458,11 @@ Voor een project in paragraaf 3:
 
 - b. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in Europees Nederland gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 3.3.4. Subsidieplafond
+##### Artikel 3.3.4. Subsidieplafond
 
 Het subsidieplafond voor projecten in paragraaf 3 is € 656.398 per kalenderjaar.
 
-#### Artikel 3.3.5. Beoordelingscriteria
+##### Artikel 3.3.5. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -448,26 +470,26 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 - b. organisatorische kwaliteit.
 
-#### Artikel 3.3.6. Specifieke weigeringsgronden
+##### Artikel 3.3.6. Specifieke weigeringsgronden
 
 Onverminderd de overige weigeringsgronden, wordt de subsidieaanvraag geweigerd als er in een kalenderjaar eerder al een aanvraag van dezelfde aanvrager is gehonoreerd in dit hoofdstuk.
 
-#### Artikel 3.3.7. Bijzondere verplichtingen
+##### Artikel 3.3.7. Bijzondere verplichtingen
 
 Het project heeft een looptijd van minimaal twaalf maanden en maximaal twee jaar.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1. Hardheidsclausule
+##### Artikel 4.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
 
-#### Artikel 4.2. Inwerkingtreding en vervaldatum
+##### Artikel 4.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
-#### Artikel 4.3. Citeertitel
+##### Artikel 4.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Talentontwikkeling 2025–2028

@@ -1,20 +1,45 @@
 ---
 title: "Instellingsbesluit Beoordelingspanel Regeling uitkering chroom-6 Defensie"
 identifier: "BWBR0045974"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-12-04
-laatste_update: 2021-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045974"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-04"
+last_updated: "2021-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045974"
+soort: "ministeriele-regeling"
+stam_id: "16168653"
+version_id: "28212692"
+internal_id: "C39769721"
+label_id: "16097054"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045974/2021-12-04/0"
+intitule_bron: "Stcrt.2021-48351"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-24"
+intitule_published: "2021-12-03"
+intitule_in_force: "2021-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48351"
+original_signed_date: "2021-11-24"
+original_published_date: "2021-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48351"
+entry_into_force_date: "2021-12-04"
+jci_1_3: "jci1.3:c:BWBR0045974&z=2021-12-04&g=2021-12-04"
+jci_1_0: "1.0:c:BWBR0045974&g=2021-12-04"
+citeertitel_status: "officieel"
+signed_date: "2021-11-24"
+entry_into_force: "2021-12-04"
 ---
-
 # Instellingsbesluit Beoordelingspanel Regeling uitkering chroom-6 Defensie
 
 Gelet op [artikel 10a van de Regeling uitkering chroom-6 Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=10a)
 
 Besluit
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,13 +57,13 @@ In dit besluit wordt verstaan onder:
 
 - **uitvoerder:** de uitvoerder als bedoeld in [artikel 1 van de Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=1).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Beoordelingspanel Uitkeringsregeling chroom-6 Defensie.
 
 2. Het beoordelingspanel heeft tot taak op verzoek van de uitvoerder bindend advies uit te brengen over de vraag of en zo ja in welke blootstellingsgroep de werkzaamheden van de werknemer bij Defensie kunnen worden ingedeeld, de duur van de blootstelling en in welke periode de werknemer is blootgesteld.
 
-#### Artikel 3. Advisering
+##### Artikel 3. Advisering
 
 1. Het beoordelingspanel adviseert op verzoek van de uitvoerder over de blootstelling van de werknemer aan chroom-6 bij Defensie in relatie tot de voorwaarden als bedoeld in [artikel 3, met uitzondering van het eerste lid, van de Uitkeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=3) in de situatie zoals omschreven in [artikel 10a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040982&artikel=10a).
 
@@ -62,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 11. Het bindend advies wordt op schrift gesteld, ondertekend en verstrekt aan de uitvoerder.
 
-#### Artikel 4. Samenstelling, benoeming en ontslag
+##### Artikel 4. Samenstelling, benoeming en ontslag
 
 1. Het beoordelingspanel bestaat uit drie leden, waaronder een voorzitter.
 
@@ -78,7 +103,7 @@ In dit besluit wordt verstaan onder:
 
 7. Van de leden wordt verwacht dat zij geen conflicterende belangen hebben die de onafhankelijke advisering in gevaar kunnen brengen.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Voor de duur van werkzaamheden van het beoordelingspanel worden tot lid van het beoordelingspanel benoemd:
 
@@ -88,11 +113,11 @@ Voor de duur van werkzaamheden van het beoordelingspanel worden tot lid van het 
 
 - c. Ir. T. Sijbranda.
 
-#### Artikel 6. Kosten van het panel
+##### Artikel 6. Kosten van het panel
 
 De voor het functioneren van het beoordelingspanel noodzakelijk geachte kosten komen ten laste van de begroting van het Ministerie van Defensie.
 
-#### Artikel 7. Secretariaat
+##### Artikel 7. Secretariaat
 
 1. Het beoordelingspanel wordt ondersteund door een secretariaat.
 
@@ -100,19 +125,19 @@ De voor het functioneren van het beoordelingspanel noodzakelijk geachte kosten k
 
 3. Het secretariaat is voor zijn werkzaamheden voor het beoordelingspanel uitsluitend aan het beoordelingspanel verantwoording verschuldigd.
 
-#### Artikel 8. Archivering
+##### Artikel 8. Archivering
 
 De archiefbescheiden van het beoordelingspanel, voor zover die niet eerder zijn opgenomen in het dossier van de aanvrager bij de uitvoerder, worden na haar opheffing of zoveel eerder als de omstandigheden daartoe aanleiding geven, overgebracht naar het archief van de uitvoerder.
 
-#### Artikel 9. Toepasselijkheid [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775)
+##### Artikel 9. Toepasselijkheid [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775)
 
 Op dit besluit is de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775) van toepassing. De vergoedingen van de leden worden in een separaat besluit vastgelegd.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 8 juni 2021.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Beoordelingspanel Regeling uitkering chroom-6 Defensie.
 

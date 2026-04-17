@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Gemeentewet, enz. (verankering en bekostiging van gemeentelijke watertaken)"
+title: "Wet van 28 juni 2007 tot wijziging van de Gemeentewet, de Wet op de waterhuishouding en de Wet milieubeheer in verband met de introductie van zorgplichten van gemeenten voor het afvloeiend hemelwater en het grondwater, alsmede verduidelijking van de zorgplicht voor het afvalwater, en aanpassing van het bijbehorende bekostigingsinstrument (verankering en bekostiging van gemeentelijke watertaken)"
 identifier: "BWBR0022391"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022391"
+country: "nl"
+rank: "wet"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022391"
+soort: "wet"
+stam_id: "9180893"
+version_id: "14691582"
+internal_id: "C19995031"
+label_id: "9159654"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022391/2010-01-01/0"
+intitule_bron: "Stb.2007-276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-28"
+intitule_published: "2007-08-16"
+intitule_in_force: "2007-08-16"
+intitule_status: "goed"
+original_publication: "Stb.2007-276"
+original_signed_date: "2007-06-28"
+original_published_date: "2007-08-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "30578"
+original_url_id: "stb-2007-276"
+entry_into_force_date: "2007-08-17"
+entry_into_force_dossier: "30578"
+jci_1_3: "jci1.3:c:BWBR0022391&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0022391&g=2010-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Gemeentewet, enz. (verankering en bekostiging van gemeentelijke watertaken)"
+signed_date: "2007-06-28"
+entry_into_force: "2007-08-17"
 ---
-
-# Wijzigingswet Gemeentewet, enz. (verankering en bekostiging van gemeentelijke watertaken)
+# Wet van 28 juni 2007 tot wijziging van de Gemeentewet, de Wet op de waterhuishouding en de Wet milieubeheer in verband met de introductie van zorgplichten van gemeenten voor het afvloeiend hemelwater en het grondwater, alsmede verduidelijking van de zorgplicht voor het afvalwater, en aanpassing van het bijbehorende bekostigingsinstrument (verankering en bekostiging van gemeentelijke watertaken)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,25 +44,25 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen me
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Gemeentewet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de waterhuishouding.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Uiterlijk binnen vijf jaar na het tijdstip van inwerkingtreding van [artikel III, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0022391&artikel=III&z=2010-01-01&g=2010-01-01), van deze wet stelt de gemeenteraad een gemeentelijk rioleringsplan vast dat voldoet aan [artikel 4.22, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=4.22) zoals gewijzigd door deze wet.
 
 2. [Artikel 4.22, tweede lid, onderdeel a, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=4.22), zoals dat luidde voor het tijdstip, bedoeld in het eerste lid, blijft, zolang de in het eerste lid genoemde termijn niet is verstreken, van toepassing op een gemeentelijk rioleringsplan, als bedoeld in [artikel 4.22, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=4.22), dat uiterlijk binnen die termijn is vastgesteld en niet voldoet aan [artikel 4.22, tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=4.22), zoals gewijzigd door deze wet.
 
-#### Artikel V
+##### Artikel V
 
 1. De [onderdelen A tot en met D van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0022391&artikel=II&z=2010-01-01&g=2010-01-01) treden in werking met ingang van 22 december 2006. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na 21 december 2006, treden genoemde onderdelen in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin de wet wordt geplaatst.
 

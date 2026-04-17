@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking kraamzorg Nederlandse Zorgautoriteit"
 identifier: "BWBR0026853"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-12-17
-laatste_update: 2009-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026853"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-12-17"
+last_updated: "2009-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026853"
+soort: "zbo"
+stam_id: "10318883"
+version_id: "16915072"
+internal_id: "C23315121"
+label_id: "10294324"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026853/2009-12-17/0"
+intitule_bron: "Stcrt.2009-19532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-05"
+intitule_published: "2009-12-17"
+intitule_in_force: "2009-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-19532"
+original_signed_date: "2009-12-05"
+original_published_date: "2009-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-19532"
+entry_into_force_date: "2009-12-17"
+jci_1_3: "jci1.3:c:BWBR0026853&z=2009-12-17&g=2009-12-17"
+jci_1_0: "1.0:c:BWBR0026853&g=2009-12-17"
+citeertitel_status: "redactioneel"
+signed_date: "2009-12-05"
+entry_into_force: "2009-12-17"
 ---
-
 # Tariefbeschikking kraamzorg Nederlandse Zorgautoriteit
 
 heeft krachtens de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.2) en [4 van hoofdstuk 4 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=4.4)

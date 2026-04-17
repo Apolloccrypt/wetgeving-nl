@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend"
 identifier: "BWBV0002149"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-09-01
-laatste_update: 1997-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002149"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-09-01"
+last_updated: "1997-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002149"
+soort: "verdrag"
+stam_id: "10002680283"
+version_id: "10002678962"
+internal_id: "C10006984861"
+label_id: "10002668644"
+dtd_version: "2.0"
+original_entry_into_force: "1997-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002149/1997-09-01/0"
+intitule_bron: "Trb.1991-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-13"
+intitule_published: "1991-09-02"
+intitule_in_force: "1997-07-28"
+intitule_status: "goed"
+original_publication: "Trb.1991-129"
+original_signed_date: "1997-06-13"
+original_published_date: "1991-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-129"
+entry_into_force_date: "1997-09-01"
+jci_1_3: "jci1.3:c:BWBV0002149&z=1997-09-01&g=1997-09-01"
+jci_1_0: "1.0:c:BWBV0002149&g=1997-09-01"
+citeertitel_status: "officieel"
+signed_date: "1997-06-13"
+entry_into_force: "1997-09-01"
 ---
-
 # Overeenkomst betreffende de vaststelling van de Staat die verantwoordelijk is voor de behandeling van een asielverzoek dat bij een van de Lid-Staten van de Europese Gemeenschappen wordt ingediend
 
 Zijne Majesteit de Koning der Belgen,
@@ -130,7 +155,7 @@ Ambassadeur van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland i
 
 Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, overeenstemming hebben bereikt omtrent de volgende bepalingen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In de zin van deze overeenkomst wordt verstaan onder:
 
@@ -150,11 +175,11 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, ov
 
 2. De aard van het visum wordt beoordeeld aan de hand van de begripsbepalingen van lid 1, sub f) en g).
 
-#### Artikel 2
+##### Artikel 2
 
 De Lid-Staten herbevestigen hun verplichtingen uit hoofde van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend), zonder enige geografische beperking van het toepassingsgebied van deze akten, en hun verbintenis om met de diensten van de Hoge Commissaris van de Verenigde Naties voor vluchtelingen samen te werken voor de toepassing van die akten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Lid-Staten verbinden zich ertoe het asielverzoek van elke vreemdeling dat aan de grens of op het grondgebied van een hunner wordt ingediend, in behandeling te nemen.
 
@@ -174,13 +199,13 @@ De Lid-Staat die op grond van voornoemde criteria verantwoordelijk is, is daarme
 
 Deze verplichting geldt niet meer indien de asielzoeker inmiddels het grondgebied van de Lid-Staten heeft verlaten gedurende een periode van ten minste drie maanden of door een Lid-Staat in het bezit is gesteld van een verblijfstitel met een geldigheidsduur van meer dan drie maanden.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer een gezinslid van de asielzoeker als vluchteling in de zin van het [Verdrag van Genève](https://wetten.overheid.nl/jci1.3:c:BWBV0001002), zoals gewijzigd bij het [Protocol van New York](onbekend), in een Lid-Staat is erkend en legaal in deze Lid-Staat verblijft, is deze Staat verantwoordelijk voor de behandeling van het asielverzoek, mits de betrokkenen zulks wensen.
 
 Het betrokken gezinslid mag slechts zijn de echtgenoot van de asielzoeker, diens ongehuwd kind beneden de 18 jaar, of, indien de asielzoeker zelf een ongehuwd kind beneden de 18 jaar is, diens vader of moeder.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wanneer de asielzoeker houder is van een geldige verblijfstitel, is de Lid-Staat die deze titel heeft afgegeven, verantwoordelijk voor de behandeling van het asielverzoek.
 
@@ -204,13 +229,13 @@ Het betrokken gezinslid mag slechts zijn de echtgenoot van de asielzoeker, diens
 
 Wanneer de asielzoeker houder is van een of meer verblijfstitels die meer dan twee jaar zijn verlopen of van een of meer visa die meer dan zes maanden zijn verlopen en die hem daadwerkelijk toegang hebben verschaft tot het grondgebied van een Lid-Staat, en de vreemdeling het grondgebied van de Lid-Staten niet heeft verlaten, is de Lid-Staat waar het asielverzoek is ingediend verantwoordelijk.
 
-#### Artikel 6
+##### Artikel 6
 
 Wanneer een asielzoeker, komend uit een Staat die geen lid is van de Europese Gemeenschappen, via het land, de zee of de lucht op illegale wijze de grens van een Lid-Staat heeft overschreden, dan is, de Lid-Staat via welke hij aantoonbaar is binnengekomen, verantwoordelijk voor de behandeling van het asielverzoek.
 
 Deze Lid-Staat is echter niet meer verantwoordelijk indien het bewijs wordt geleverd dat een asielzoeker ten minste zes maanden vóór de indiening van het verzoek heeft doorgebracht in de Lid-Staat waar hij zijn verzoek heeft ingediend. In dat geval is deze laatste Lid-Staat verantwoordelijk voor de behandeling van het asielverzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verantwoordelijkheid voor de behandeling van een asielverzoek berust bij de Lid-Staat die verantwoordelijk is voor de controle bij binnenkomst van de vreemdeling op het grondgebied van de Lid-Staten, behalve wanneer een vreemdeling het grondgebied van een Lid-Staat waar hij niet visumplichtig is, legaal betreedt en vervolgens een asielverzoek indient in een andere Lid-Staat waar hij evenmin visumplichtig is voor de toegang tot het grondgebied. In dat geval is deze laatste Staat verantwoordelijk voor de behandeling van het asielverzoek.
 
@@ -218,17 +243,17 @@ Deze Lid-Staat is echter niet meer verantwoordelijk indien het bewijs wordt gele
 
 3. Wanneer het asielverzoek wordt ingediend in de transitzone van een luchthaven van een Lid-Staat, is deze Lid-Staat verantwoordelijk voor de behandeling ervan.
 
-#### Artikel 8
+##### Artikel 8
 
 Wanneer op basis van de overige in deze overeenkomst vastgestelde criteria geen Lid-Staat kan worden aangewezen die verantwoordelijk is voor de behandeling van het asielverzoek, is de Lid-Staat waarbij het verzoek het eerst werd ingediend verantwoordelijk voor de behandeling ervan.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere Lid-Staat kan, ook wanneer hij met toepassing van de in deze overeenkomst vastgestelde criteria niet verantwoordelijk is voor de behandeling, om redenen van humanitaire aard, in het bijzonder op grond van familiebanden of op culturele gronden, op verzoek van een andere Lid-Staat en op voorwaarde dat de asielzoeker ermee instemt, een asielverzoek behandelen.
 
 Indien de aangezochte Lid-Staat dat verzoek inwilligt, wordt de verantwoordelijkheid voor de behandeling aan deze Staat overgedragen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Lid-Staat die op grond van de criteria van deze overeenkomst verantwoordelijk is voor de behandeling van een asielverzoek, is verplicht:
 
@@ -248,7 +273,7 @@ Indien de aangezochte Lid-Staat dat verzoek inwilligt, wordt de verantwoordelijk
 
 4. De in lid 1, sub d) en e), genoemde verplichtingen komen te vervallen indien de Staat die verantwoordelijk is voor de behandeling van het asielverzoek, na de intrekking of de afwijzing van het verzoek, de nodige maatregelen heeft genomen en daadwerkelijk ten uitvoer heeft gelegd opdat de vreemdeling zich begeeft naar zijn land van herkomst dan wel naar een ander land waar hij legaal mag binnenkomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Lid-Staat waarbij een asielverzoek is ingediend en die van mening is dat een andere Lid-Staat verantwoordelijk is voor de behandeling van dit verzoek, kan deze Lid-Staat zo spoedig mogelijk en in ieder geval binnen zes maanden na het indienen van dit verzoek om overname verzoeken.
 
@@ -264,11 +289,11 @@ Indien er binnen zes maanden geen verzoek tot overname plaatsvindt, is de Staat 
 
 6. De overnameregeling kan later nader worden uitgewerkt door middel van bepalingen die met toepassing van artikel 18 worden vastgesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt ingediend door een asielzoeker die zich op het grondgebied van een andere Lid-Staat bevindt, wordt door de Lid-Staat op wiens grondgebied de asielzoeker zich bevindt, vastgesteld welke Lid-Staat verantwoordelijk is voor de behandeling van het asielverzoek. Deze Lid-Staat wordt hiervan onverwijld in kennis gesteld door de Lid-Staat waarbij het asielverzoek is ingediend en wordt dan, voor de toepassing van de overeenkomst, beschouwd als de Lid-Staat waarbij het asielverzoek is ingediend.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De terugname van een asielzoeker in de in artikel 3, lid 7, en artikel 10, genoemde gevallen geschiedt overeenkomstig de volgende bepalingen:
 
@@ -278,7 +303,7 @@ Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt in
 
 2. De terugnameregeling kan later nader worden uitgewerkt door middel van bepalingen die met toepassing van artikel 18 worden vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Lid-Staten wisselen informatie uit over:
 
@@ -294,7 +319,7 @@ Wanneer een asielverzoek bij de bevoegde autoriteiten van een Lid-Staat wordt in
 
 3. Wanneer de Lid-Staat die de in lid 2 bedoelde informatie verstrekt, wenst dat deze informatie vertrouwelijk wordt behandeld, dienen de andere Lid-Staten dat te respecteren.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elke Lid-Staat verstrekt aan alle Lid-Staten die daarom verzoeken de individuele informatie die noodzakelijk is voor
 
@@ -352,7 +377,7 @@ Indien hij constateert dat deze informatie onjuist is of niet verstrekt had moge
 
 12. Wanneer een of meer Lid-Staten de verwerking van alle of van een gedeelte van de in de leden 2 en 3 bedoelde gegevens willen automatiseren, is dit slechts toegestaan indien de betrokken landen wettelijke bepalingen betreffende deze verwerking hebben aangenomen waardoor uitvoering wordt gegeven aan de beginselen van het [Verdrag van Straatsburg van 28 januari 1981 tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBV0002783) en zij een passende nationale instantie hebben aangewezen die belast is met de onafhankelijke controle op de verwerking en benutting van de uit hoofde van deze overeenkomst meegedeelde gegevens.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elke Lid-Staat mag ontwerpen tot herziening van deze overeenkomst aan het Comité bedoeld in artikel 18 voorleggen, die moeilijkheden bij de toepassing moeten voorkomen.
 
@@ -360,7 +385,7 @@ Indien hij constateert dat deze informatie onjuist is of niet verstrekt had moge
 
 3. De herzieningen of de wijzigingen van deze overeenkomst worden aangenomen door het Comité bedoeld in artikel 18. Deze treden in werking conform de procedure van artikel 22.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer een Lid-Staat ernstige moeilijkheden ondervindt ten gevolge van een ingrijpende verandering van de omstandigheden die bestonden op het ogenblik van de sluiting van deze overeenkomst, kan die Staat zijn moeilijkheden voorleggen aan het Comité bedoeld in artikel 18, opdat dit Comité de Lid-Staten maatregelen voorstelt om aan deze situatie het hoofd te bieden of de herzieningen c.q. wijzigingen aanneemt die in deze overeenkomst dienen te worden aangebracht en die onder de in artikel 16, lid 3, genoemde voorwaarden in werking treden.
 
@@ -368,7 +393,7 @@ Indien hij constateert dat deze informatie onjuist is of niet verstrekt had moge
 
 3. Tijdens de in lid 2 bedoelde opschorting vervolgt het Comité, indien het voordien geen overeenstemming heeft bereikt, zijn werkzaamheden met het oog op een herziening van deze overeenkomst.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Er wordt een Comité ingesteld dat bestaat uit één vertegenwoordiger van de Regering van elke Lid-Staat.
 
@@ -388,7 +413,7 @@ Het Comité neemt krachtens de artikelen 16 en 17 de herzieningen of de wijzigin
 
 Het secretariaat van het Comité en van de werkgroepen wordt waargenomen door het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen.
 
-#### Artikel 19
+##### Artikel 19
 
 De bepalingen van deze overeenkomst zijn voor wat betreft het Koninkrijk Denemarken niet van toepassing op de Faeröer en op Groenland. Het Koninkrijk Denemarken kan evenwel door een verklaring die te allen tijde kan worden nedergelegd bij de Regering van Ierland, die de Regeringen van de overige Lid-Staten daarvan op de hoogte brengt, ervan kennis geven dat deze overeenkomst op de Faeröer en op Groenland van toepassing is.
 
@@ -398,17 +423,17 @@ De bepalingen van deze overeenkomst zijn voor wat betreft het Koninkrijk der Ned
 
 De bepalingen van deze overeenkomst zijn voor wat betreft het Verenigd Koninkrijk alleen van toepassing op het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland. Zij zijn niet van toepassing op de Europese grondgebieden welker buitenlandse betrekkingen door het Verenigd Koninkrijk worden behartigd, tenzij het Verenigd Koninkrijk een verklaring van het tegendeel aflegt. Een dergelijke verklaring kan ten allen tijde worden afgelegd door middel van een mededeling aan de Regering van Ierland die de Regeringen van de andere Lid-Staten daarvan in kennis stelt.
 
-#### Artikel 20
+##### Artikel 20
 
 Ten aanzien van deze overeenkomst mag geen voorbehoud worden gemaakt.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze overeenkomst staat open voor toetreding door elke Staat die Lid-Staat van de Europese Gemeenschappen wordt. De akten van toetreding worden nedergelegd bij de Regering van Ierland.
 
 2. Zij treedt ten aanzien van elke Staat die ertoe toetreedt, in werking op de eerste dag van de derde maand volgende op de datum van nederlegging van de akte van toetreding.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van Ierland.
 

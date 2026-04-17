@@ -1,13 +1,36 @@
 ---
 title: "Continuïteit centrale salarisverwerking en bekostiging"
 identifier: "BWBR0013006"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-11-16
-laatste_update: 2001-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013006"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-11-16"
+last_updated: "2001-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013006"
+soort: "beleidsregel"
+stam_id: "6454333"
+version_id: "11128452"
+internal_id: "C15045501"
+label_id: "6442964"
+original_entry_into_force: "2001-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013006/2001-11-16/0"
+intitule_bron: "Uitleg.2001-28"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-16"
+intitule_published: "2001-11-28"
+intitule_in_force: "2001-11-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-28"
+original_signed_date: "2001-11-16"
+original_published_date: "2001-11-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-11-16"
+jci_1_3: "jci1.3:c:BWBR0013006&z=2001-11-16&g=2001-11-16"
+jci_1_0: "1.0:c:BWBR0013006&g=2001-11-16"
+citeertitel_status: "redactioneel"
+signed_date: "2001-11-16"
+entry_into_force: "2001-11-16"
 ---
-
 # Continuïteit centrale salarisverwerking en bekostiging
 
 Het CASO-systeem is al 35 jaar het salarissysteem voor het onderwijsveld. Het systeem is toegesneden op de regelgeving die voor het onderwijs geldt. Zo zijn er speciale voorzieningen voor het Vervangingsfonds, het Participatiefonds, het Spaarfonds en het Risicofonds. Bovendien verzorgt het systeem de bekostigingsaanvraag in de sector primair onderwijs.

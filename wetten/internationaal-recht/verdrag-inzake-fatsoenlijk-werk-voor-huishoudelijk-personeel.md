@@ -1,13 +1,24 @@
 ---
 title: "Verdrag inzake fatsoenlijk werk voor huishoudelijk personeel"
 identifier: "BWBV0005977"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-06-16
-laatste_update: 2011-06-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005977"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-16"
+last_updated: "2011-06-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005977"
+soort: "verdrag"
+stam_id: "10004967973"
+version_id: "10005285602"
+internal_id: "C10008133811"
+label_id: "10004951244"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005977/2011-06-16/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0005977&z=2011-06-16&g=2011-06-16"
+jci_1_0: "1.0:c:BWBV0005977&g=2011-06-16"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag inzake fatsoenlijk werk voor huishoudelijk personeel
 
 Preamble
@@ -38,7 +49,7 @@ Having determined that these proposals shall take the form of an international C
 
 adopts this sixteenth day of June of the year two thousand and eleven the following Convention, which may be cited as the Domestic Workers Convention, 2011.
 
-#### Article 1
+##### Article 1
 
 For the purpose of this Convention:
 
@@ -48,7 +59,7 @@ For the purpose of this Convention:
 
 - c). a person who performs domestic work only occasionally or sporadically and not on an occupational basis is not a domestic worker.
 
-#### Article 2
+##### Article 2
 
 1. The Convention applies to all domestic workers.
 
@@ -60,7 +71,7 @@ For the purpose of this Convention:
 
 3. Each Member which avails itself of the possibility afforded in the preceding paragraph shall, in its first report on the application of the Convention under [article 22 of the Constitution of the International Labour Organisation](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22), indicate any particular category of workers thus excluded and the reasons for such exclusion and, in subsequent reports, specify any measures that may have been taken with a view to extending the application of the Convention to the workers concerned.
 
-#### Article 3
+##### Article 3
 
 1. Each Member shall take measures to ensure the effective promotion and protection of the human rights of all domestic workers, as set out in this Convention.
 
@@ -76,21 +87,21 @@ For the purpose of this Convention:
 
 3. In taking measures to ensure that domestic workers and employers of domestic workers enjoy freedom of association and the effective recognition of the right to collective bargaining, Members shall protect the right of domestic workers and employers of domestic workers to establish and, subject to the rules of the organization concerned, to join organizations, federations and confederations of their own choosing.
 
-#### Article 4
+##### Article 4
 
 1. Each Member shall set a minimum age for domestic workers consistent with the provisions of the [Minimum Age Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003701), 1973 (No. 138), and the [Worst Forms of Child Labour Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0001522), 1999 (No. 182), and not lower than that established by national laws and regulations for workers generally.
 
 2. Each Member shall take measures to ensure that work performed by domestic workers who are under the age of 18 and above the minimum age of employment does not deprive them of compulsory education, or interfere with opportunities to participate in further education or vocational training.
 
-#### Article 5
+##### Article 5
 
 Each Member shall take measures to ensure that domestic workers enjoy effective protection against all forms of abuse, harassment and violence.
 
-#### Article 6
+##### Article 6
 
 Each Member shall take measures to ensure that domestic workers, like workers generally, enjoy fair terms of employment as well as decent working conditions and, if they reside in the household, decent living conditions that respect their privacy.
 
-#### Article 7
+##### Article 7
 
 Each Member shall take measures to ensure that domestic workers are informed of their terms and conditions of employment in an appropriate, verifiable and easily understandable manner and preferably, where possible, through written contracts in accordance with national laws, regulations or collective agreements, in particular:
 
@@ -116,7 +127,7 @@ Each Member shall take measures to ensure that domestic workers are informed of 
 
 - k). terms and conditions relating to the termination of employment, including any period of notice by either the domestic worker or the employer.
 
-#### Article 8
+##### Article 8
 
 1. National laws and regulations shall require that migrant domestic workers who are recruited in one country for domestic work in another receive a written job offer, or contract of employment that is enforceable in the country in which the work is to be performed, addressing the terms and conditions of employment referred to in [Article 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005977&artikel=7&z=2011-06-16&g=2011-06-16), prior to crossing national borders for the purpose of taking up the domestic work to which the offer or contract applies.
 
@@ -126,7 +137,7 @@ Each Member shall take measures to ensure that domestic workers are informed of 
 
 4. Each Member shall specify, by means of laws, regulations or other measures, the conditions under which migrant domestic workers are entitled to repatriation on the expiry or termination of the employment contract for which they were recruited.
 
-#### Article 9
+##### Article 9
 
 Each Member shall take measures to ensure that domestic workers:
 
@@ -136,7 +147,7 @@ Each Member shall take measures to ensure that domestic workers:
 
 - c). are entitled to keep in their possession their travel and identity documents.
 
-#### Article 10
+##### Article 10
 
 1. Each Member shall take measures towards ensuring equal treatment between domestic workers and workers generally in relation to normal hours of work, overtime compensation, periods of daily and weekly rest and paid annual leave in accordance with national laws, regulations or collective agreements, taking into account the special characteristics of domestic work.
 
@@ -144,29 +155,29 @@ Each Member shall take measures to ensure that domestic workers:
 
 3. Periods during which domestic workers are not free to dispose of their time as they please and remain at the disposal of the household in order to respond to possible calls shall be regarded as hours of work to the extent determined by national laws, regulations or collective agreements, or any other means consistent with national practice.
 
-#### Article 11
+##### Article 11
 
 Each Member shall take measures to ensure that domestic workers enjoy minimum wage coverage, where such coverage exists, and that remuneration is established without discrimination based on sex.
 
-#### Article 12
+##### Article 12
 
 1. Domestic workers shall be paid directly in cash at regular intervals at least once a month. Unless provided for by national laws, regulations or collective agreements, payment may be made by bank transfer, bank cheque, postal cheque, money order or other lawful means of monetary payment, with the consent of the worker concerned.
 
 2. National laws, regulations, collective agreements or arbitration awards may provide for the payment of a limited proportion of the remuneration of domestic workers in the form of payments in kind that are not less favourable than those generally applicable to other categories of workers, provided that measures are taken to ensure that such payments in kind are agreed to by the worker, are for the personal use and benefit of the worker, and that the monetary value attributed to them is fair and reasonable.
 
-#### Article 13
+##### Article 13
 
 1. Every domestic worker has the right to a safe and healthy working environment. Each Member shall take, in accordance with national laws, regulations and practice, effective measures, with due regard for the specific characteristics of domestic work, to ensure the occupational safety and health of domestic workers.
 
 2. The measures referred to in the preceding paragraph may be applied progressively, in consultation with the most representative organizations of employers and workers and, where they exist, with organizations representative of domestic workers and those representative of employers of domestic workers.
 
-#### Article 14
+##### Article 14
 
 1. Each Member shall take appropriate measures, in accordance with national laws and regulations and with due regard for the specific characteristics of domestic work, to ensure that domestic workers enjoy conditions that are not less favourable than those applicable to workers generally in respect of social security protection, including with respect to maternity.
 
 2. The measures referred to in the preceding paragraph may be applied progressively, in consultation with the most representative organizations of employers and workers and, where they exist, with organizations representative of domestic workers and those representative of employers of domestic workers.
 
-#### Article 15
+##### Article 15
 
 1. To effectively protect domestic workers, including migrant domestic workers, recruited or placed by private employment agencies, against abusive practices, each Member shall:
 
@@ -182,11 +193,11 @@ Each Member shall take measures to ensure that domestic workers enjoy minimum wa
 
 2. In giving effect to each of the provisions of this Article, each Member shall consult with the most representative organizations of employers and workers and, where they exist, with organizations representative of domestic workers and those representative of employers of domestic workers.
 
-#### Article 16
+##### Article 16
 
 Each Member shall take measures to ensure, in accordance with national laws, regulations and practice, that all domestic workers, either by themselves or through a representative, have effective access to courts, tribunals or other dispute resolution mechanisms under conditions that are not less favourable than those available to workers generally.
 
-#### Article 17
+##### Article 17
 
 1. Each Member shall establish effective and accessible complaint mechanisms and means of ensuring compliance with national laws and regulations for the protection of domestic workers.
 
@@ -194,19 +205,19 @@ Each Member shall take measures to ensure, in accordance with national laws, reg
 
 3. In so far as compatible with national laws and regulations, such measures shall specify the conditions under which access to household premises may be granted, having due respect for privacy.
 
-#### Article 18
+##### Article 18
 
 Each Member shall implement the provisions of this Convention, in consultation with the most representative employers and workers organizations, through laws and regulations, as well as through collective agreements or additional measures consistent with national practice, by extending or adapting existing measures to cover domestic workers or by developing specific measures for them, as appropriate.
 
-#### Article 19
+##### Article 19
 
 This Convention does not affect more favourable provisions applicable to domestic workers under other international labour Conventions.
 
-#### Article 20
+##### Article 20
 
 The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
 
-#### Article 21
+##### Article 21
 
 1. This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered with the Director-General of the International Labour Office.
 
@@ -214,27 +225,27 @@ The formal ratifications of this Convention shall be communicated to the Directo
 
 3. Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification is registered.
 
-#### Article 22
+##### Article 22
 
 1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
 
 2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention within the first year of each new period of ten years under the terms provided for in this Article.
 
-#### Article 23
+##### Article 23
 
 1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications and denunciations that have been communicated by the Members of the Organization.
 
 2. When notifying the Members of the Organization of the registration of the second ratification that has been communicated, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention will come into force.
 
-#### Article 24
+##### Article 24
 
 The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) full particulars of all ratifications and denunciations that have been registered.
 
-#### Article 25
+##### Article 25
 
 At such times as it may consider necessary, the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
 
-#### Article 26
+##### Article 26
 
 1. Should the Conference adopt a new Convention revising this Convention, then, unless the new Convention otherwise provides:
 
@@ -244,6 +255,6 @@ At such times as it may consider necessary, the Governing Body of the Internatio
 
 2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
 
-#### Article 27
+##### Article 27
 
 The English and French versions of the text of this Convention are equally authoritative.

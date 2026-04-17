@@ -1,13 +1,37 @@
 ---
 title: "Nevenfunctie-circulaire 1995"
 identifier: "BWBR0007269"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-03-16
-laatste_update: 1995-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007269"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-03-16"
+last_updated: "1995-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007269"
+soort: "circulaire"
+stam_id: "6410983"
+version_id: "11077852"
+internal_id: "C14993511"
+label_id: "6400004"
+original_entry_into_force: "1995-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007269/1995-03-16/0"
+intitule_bron: "Stcrt.1995-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-02"
+intitule_published: "1995-03-16"
+intitule_in_force: "1995-03-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-54"
+original_signed_date: "1995-03-02"
+original_published_date: "1995-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-54-p12-SC2166"
+entry_into_force_date: "1995-03-16"
+jci_1_3: "jci1.3:c:BWBR0007269&z=1995-03-16&g=1995-03-16"
+jci_1_0: "1.0:c:BWBR0007269&g=1995-03-16"
+citeertitel_status: "redactioneel"
+signed_date: "1995-03-02"
+entry_into_force: "1995-03-16"
 ---
-
 # Nevenfunctie-circulaire 1995
 
 ### 1. Inleiding

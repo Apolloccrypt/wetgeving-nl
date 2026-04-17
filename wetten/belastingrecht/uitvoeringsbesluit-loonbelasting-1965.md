@@ -1,13 +1,37 @@
 ---
-title: "Uitvoeringsbesluit loonbelasting 1965"
+title: "Besluit van 17 mei 1965, houdende uitvoering van de Wet op de loonbelasting 1964"
 identifier: "BWBR0002489"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002489"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002489"
+soort: "AMvB"
+stam_id: "1002833"
+version_id: "19999182"
+internal_id: "C28096931"
+label_id: "972534"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002489/2026-01-01/0"
+intitule_bron: "Stb.1965-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-05-17"
+intitule_status: "goed"
+original_publication: "Stb.2012-694"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-694"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0002489&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002489&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit loonbelasting 1965"
+signed_date: "2012-12-20"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 17 mei 1965, houdende uitvoering van de Wet op de loonbelasting 1964
 
 Op de voordracht van Onze Minister van Financiën van 26 april 1965, nr. B5/6210, Directie Wetgeving Directe Belastingen;
@@ -22,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=4), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=7), [13bis](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), [18g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=34), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35), [35f](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35f), [35g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35g) en [35n](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35n) van de Wet op de loonbelasting 1964 en aan [artikel 10a van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=10a).
 
@@ -46,11 +70,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Belastingplicht ([Hoofdstuk I van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=I))
 
-#### Artikel 2
+##### Artikel 2
 
 Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de topsporter die op grond van het met instemming van Onze Minister voor Medische Zorg en Sport vastgestelde reglement van de stichting Fonds voor de Topsporter een periodieke uitkering als tegemoetkoming in de kosten van zijn levensonderhoud geniet of een kostenvergoeding geniet.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tussenkomst van degene tot wie de arbeidsverhouding bestaat, persoonlijk arbeid verricht ten behoeve van een derde, met uitzondering van de arbeidsverhouding van degene die:
 
@@ -58,7 +82,7 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tu
 
 - b. bij wijze van arbeidstherapie werkzaam is.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van de thuiswerker of van de hulp van de thuiswerker, die persoonlijk arbeid verricht tegen een bruto-inkomen, dat doorgaans over een maand ten minste zal bedragen 2/5 maal het bedrag, genoemd in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), dan wel, voor degene, die de leeftijd van 21 jaar nog niet heeft bereikt en wiens bruto-inkomen uitsluitend in verband met zijn leeftijd op een lager bedrag is vastgesteld, 2/5 maal het eerstgenoemde bedrag vermenigvuldigd met het krachtens genoemde [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638) voor een werknemer van dezelfde leeftijd geldende percentage.
 
@@ -70,7 +94,7 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tu
 
 5. Het eerste lid is niet van toepassing met betrekking tot de arbeidsverhouding van de thuiswerker die zich doorgaans laat bijstaan door meer dan twee personen niet zijnde zijn echtgenoot of zijn tot zijn huishouden behorende minderjarige kinderen.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene, die persoonlijk arbeid verricht op doorgaans ten minste 2 dagen per week tegen een bruto-inkomen dat doorgaans over een week ten minste zal bedragen 2/5 maal het bedrag, genoemd in [artikel 8, eerste lid, onderdeel **b**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 4 1/3, dan wel, voor degene, die de leeftijd van 21 jaar nog niet heeft bereikt en wiens bruto-inkomen uitsluitend in verband met zijn leeftijd op een lager bedrag is vastgesteld, 2/5 maal het eerstgenoemde bedrag gedeeld door 4 1/3 en vervolgens vermenigvuldigd met het krachtens genoemde wet voor een werknemer van dezelfde leeftijd geldende percentage.
 
@@ -84,11 +108,11 @@ Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene die door tu
 
 - b. hij als bestuurder van een vereniging of stichting werkzaam is voor die vereniging of stichting.
 
-#### Artikel 2d
+##### Artikel 2d
 
 Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01) en [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2026-01-01&g=2026-01-01) wordt verwezen naar een in [artikel 8, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) genoemd bedrag, wordt, indien toepassing is gegeven aan [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14) van die wet, als zodanig in aanmerking genomen het daarbij laatstelijk in de plaats daarvan gestelde bedrag.
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. [Artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01) is niet van toepassing met betrekking tot de arbeidsverhouding van degene, die arbeid verricht in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep.
 
@@ -116,7 +140,7 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 - c. indien wordt voldaan aan bij ministeriële regeling te stellen regels.
 
-#### Artikel 2f
+##### Artikel 2f
 
 1. Indien een arbeidsverhouding zowel op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01) als op grond van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2026-01-01&g=2026-01-01), maar niet op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2026-01-01&g=2026-01-01), als dienstbetrekking wordt beschouwd, vindt alleen artikel 2 toepassing.
 
@@ -126,7 +150,7 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 4. Indien een arbeidsverhouding zowel op grond van [artikel 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2026-01-01&g=2026-01-01) als op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01) of [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2026-01-01&g=2026-01-01) als dienstbetrekking wordt beschouwd, vindt alleen artikel 2ca toepassing. Voor de toepassing van de eerste zin wordt [artikel 2e, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2026-01-01&g=2026-01-01), buiten beschouwing gelaten.
 
-#### Artikel 2g
+##### Artikel 2g
 
 1. Als dienstbetrekking wordt voorts beschouwd, zo nodig in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5) van de wet, de arbeidsverhouding welke niet reeds op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) of de [artikelen 2 tot en met 2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2026-01-01&g=2026-01-01), als dienstbetrekking wordt beschouwd, mits:
 
@@ -136,7 +160,7 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 2. Zodra niet meer aan de voorwaarde, bedoeld in het eerste lid, onderdeel a, wordt voldaan, meldt degene die de arbeid verricht, dit aan de inspecteur.
 
-#### Artikel 2h
+##### Artikel 2h
 
 1. Als dienstbetrekking wordt voorts beschouwd de arbeidsverhouding van degene die arbeid verricht ten behoeve van een lichaam waarin hij of zijn partner een aanmerkelijk belang heeft ingeval die arbeidsverhouding niet reeds op grond van de wet of de [artikelen 2 tot en met 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), in samenhang met [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2e&z=2026-01-01&g=2026-01-01) of [artikel 2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2026-01-01&g=2026-01-01), als dienstbetrekking wordt beschouwd.
 
@@ -146,29 +170,29 @@ Waar in de [artikelen 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofds
 
 - b. **een aanmerkelijk belang:** een aanmerkelijk belang in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als degene tot wie de dienstbetrekking bestaat, wordt in de gevallen, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), [2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2c&z=2026-01-01&g=2026-01-01), [2ca](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2ca&z=2026-01-01&g=2026-01-01) en [2g](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=2&artikel=2g&z=2026-01-01&g=2026-01-01), beschouwd degene op wie de verplichting rust het loon te betalen.
 
 2. Ingeval van een sekswerker wordt degene met wie of voor wie de seksuele handelingen worden verricht, niet beschouwd als degene tot wie de dienstbetrekking bestaat.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Ingeval degene die ter voorziening in de algemeen noodzakelijke kosten van het bestaan periodieke uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) verstrekt, bij het vaststellen van de hoogte van die uitkeringen rekening houdt met een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van [artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.101), niet zijnde een termijn van lijfrente, als bedoeld in [artikel 11, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=5&artikel=11&z=2026-01-01&g=2026-01-01), wordt deze geacht die uit het familierecht voortvloeiende uitkering of verstrekking als loon in geld ingevolge de Participatiewet te verstrekken.
 
-#### Artikel 4
+##### Artikel 4
 
 Degene tot wie een werknemer in dienstbetrekking staat - of, indien krachtens [artikel 8, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=8) een ander als inhoudingsplichtige is aangewezen, die ander - wordt geacht aan de werknemer het loon te verstrekken, dat deze uit hoofde van zijn dienstbetrekking geniet van een niet-inhoudingsplichtige.
 
-#### Artikel 5
+##### Artikel 5
 
 Als loon van een uitvoerder van aangenomen werk, en van een thuiswerker wordt aangemerkt het gehele door de aanbesteder, onderscheidenlijk de opdrachtgever verstrekte loon, verminderd met het loon van de hulpen. Deze vermindering is slechts van toepassing voor zover de uitvoerder van aangenomen werk en de thuiswerker aan de aanbesteder, onderscheidenlijk de opdrachtgever een door hem en zijn hulpen ondertekende verklaring doet toekomen waaruit het loon van ieder van de hulpen blijkt.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De belasting naar het belastbare loon dat wordt genoten door de in [artikel 33, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33) bedoelde werknemers, bedraagt het in de voor hen geldende loonbelastingtabel aangewezen percentage van het tabelloon, met dien verstande dat dit percentage wordt verhoogd tot 52 ingeval de werknemer zijn naam, adres of woonplaats niet aan de inhoudingsplichtige heeft verstrekt dan wel, ingeval de werknemer loon uit tegenwoordige dienstbetrekking geniet, zijn identiteit niet is vastgesteld overeenkomstig [artikel 28, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), alsmede ingeval de werknemer ter zake onjuiste gegevens heeft verstrekt en de inhoudingsplichtige dit weet of redelijkerwijs moet weten.
 
@@ -182,7 +206,7 @@ Vervallen
 
 ### Hoofdstuk 3. Vrije vergoedingen en verstrekkingen ([Hoofdstuk IIA van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIA)); extraterritoriale werknemers
 
-#### Artikel 8
+##### Artikel 8
 
 1. De werknemer is gehouden voordat met de auto waarop de verklaring geen privé-gebruik, bedoeld in [artikel 13bis, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), betrekking heeft op kalenderjaarbasis meer dan 500 kilometer voor privédoeleinden wordt gereden, mede te delen dat hij om intrekking van de verklaring verzoekt.
 
@@ -192,7 +216,7 @@ Vervallen
 
 4. De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het derde lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het eerste lid, is ontstaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het afgeven van de verklaring uitsluitend zakelijk gebruik bestelauto, bedoeld in [artikel 13bis, dertiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis), geschiedt door het duidelijk, stellig en zonder voorbehoud invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het toezenden van het ingevulde modelformulier aan de inspecteur.
 
@@ -216,7 +240,7 @@ Vervallen
 
 8. De bevoegdheid tot het opleggen van een vergrijpboete in de gevallen, bedoeld in het zevende lid, vervalt door verloop van vijf jaren na afloop van het kalenderjaar waarin de verplichting tot het doen van de mededeling, bedoeld in het tweede en vierde lid, is ontstaan.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Bij de beoordeling of een ingekomen werknemer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt in onderlinge samenhang rekening gehouden met de volgende factoren, voorzover relevant:
 
@@ -228,19 +252,19 @@ Vervallen
 
 2. Een werknemer van het middenkader of hoger kader van een internationaal concern met ten minste twee en een half jaar ervaring in dat concern die in het kader van roulatie wordt uitgezonden naar Nederland, wordt geacht specifieke deskundigheid te bezitten die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal tien jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige.
 
 2. Voor uitgezonden werknemers is de looptijd van de bewijsregel gelijk aan de duur van de uitzending.
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. Indien een ingekomen werknemer tijdens de looptijd een andere inhoudingsplichtige krijgt, blijft op gezamenlijk verzoek van de werknemer en de nieuwe inhoudingsplichtige de bewijsregel gedurende de resterende looptijd van toepassing, mits de periode tussen het einde van de tewerkstelling door de oude inhoudingsplichtige en de aanvang van de tewerkstelling door de nieuwe inhoudingsplichtige niet langer is dan drie maanden.
 
 2. Bij een dergelijk verzoek moet door de nieuwe inhoudingsplichtige opnieuw aannemelijk worden gemaakt dat de werknemer behoort te worden aangemerkt als ingekomen werknemer.
 
-#### Artikel 9d
+##### Artikel 9d
 
 1. Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt de looptijd verminderd tot op het moment waarop deze situatie zich gaat voordoen, maar tot op niet minder dan vijf jaar.
 
@@ -248,7 +272,7 @@ Vervallen
 
 3. Indien de inhoudingsplichtige met ingang van het zesde jaar van de looptijd aannemelijk maakt dat de werknemer op dat moment nog steeds behoort te worden aangemerkt als een ingekomen werknemer, is het tweede lid gedurende de resterende looptijd niet meer van toepassing.
 
-#### Artikel 9e
+##### Artikel 9e
 
 1. Indien de ingekomen werknemer voorafgaand aan de aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, in Nederland is tewerkgesteld of is verbleven, wordt de looptijd verminderd met de perioden van eerdere tewerkstelling en eerder verblijf.
 
@@ -260,21 +284,21 @@ Vervallen
 
 5. Voor de toepassing van het derde lid is de ingekomen werknemer niet in Nederland verbleven indien hij in elk kalenderjaar van de periode van tien jaar in totaal niet langer dan zes weken in Nederland is verbleven wegens vakantie, familiebezoek of andere persoonlijke omstandigheden, waarbij in de periode van tien jaar eenmalig een periode van maximaal drie aaneengesloten maanden in Nederland wegens vakantie, familiebezoek of andere persoonlijke omstandigheden niet in aanmerking wordt genomen.
 
-#### Artikel 9f
+##### Artikel 9f
 
 Indien een verzoek om toepassing van de bewijsregel als bedoeld in [artikel 9h](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=3&artikel=9h&z=2013-07-01&g=2010-10-10) niet is gedaan binnen vier maanden na aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, wordt de looptijd verminderd met de periode tussen het tijdstip waarop de ingekomen werknemer door de inhoudingsplichtige is tewerkgesteld en het tijdstip waarop de beschikking, bedoeld in [artikel 9h](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=3&artikel=9h&z=2013-07-01&g=2010-10-10), voor het eerst van toepassing is.
 
-#### Artikel 9g
+##### Artikel 9g
 
 Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee de looptijd wordt verminderd naar boven afgerond op gehele kalendermaanden.
 
-#### Artikel 9h
+##### Artikel 9h
 
 1. Een verzoek om toepassing of voortgezette toepassing van de bewijsregel ten aanzien van een ingekomen werknemer wordt gedaan aan de inspecteur. Deze beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
 2. Indien het verzoek is gedaan binnen vier maanden na aanvang van de tewerkstelling als extraterritoriale werknemer door de inhoudingsplichtige, werkt de beschikking terug tot en met de aanvang van de tewerkstelling als extraterritoriale werknemer. Indien het verzoek later is gedaan, is de beschikking van toepassing met ingang van de eerste dag van de maand volgend op de maand waarin het verzoek is gedaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In de premie, bedoeld in [artikel 18a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), zijn kosten voor vermogensbeheer en voor het afdekken van beleggingsrisico’s begrepen. Het percentage van artikel 18a, eerste lid, van de wet wordt verhoogd met overige kosten ten behoeve van een aanspraak ingevolge een pensioenregeling. De overige kosten, bedoeld in de tweede zin, kunnen niet worden aangewend voor een ouderdomspensioen en partnerpensioen bij overlijden op of na pensioendatum.
 
@@ -282,7 +306,7 @@ Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee
 
 ### Hoofdstuk 4. Pensioenregelingen ([Hoofdstuk IIB van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB))
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Als perioden die meetellen als dienstjaren als bedoeld in [artikel 18a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a), worden in aanmerking genomen:
 
@@ -304,7 +328,7 @@ Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee
 
 4. Voor de toepassing van het eerste lid mag de aldaar genoemde vermindering van de in aanmerking te nemen perioden bij dienstbetrekkingen in deeltijd achterwege blijven, indien de deeltijdfunctie is aanvaard in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum. De eerste volzin is uitsluitend van toepassing, voor zover de omvang van het dienstverband na het aanvaarden van de deeltijdfunctie niet lager is dan 50% van de omvang van het dienstverband aan het eind van de periode direct voorafgaande aan de aanvang van de aan het slot van de eerste volzin bedoelde periode.
 
-#### Artikel 10b
+##### Artikel 10b
 
 1. Als loonbestanddelen als bedoeld in [artikel 18g, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18g) komen in aanmerking:
 
@@ -346,11 +370,11 @@ Bij vermindering van de looptijd volgens dit hoofdstuk wordt een periode waarmee
 
 10. Voor de toepassing van het vierde tot en met negende lid kan het loon gedurende de aldaar bedoelde perioden worden geïndexeerd met de loonindex in de bedrijfstak waarin de werknemer werkzaam is, dan wel met de gemiddelde loonindex voor de CAO-lonen per maand, inclusief bijzondere beloningen, zoals berekend door het Centraal Bureau voor de Statistiek.
 
-#### Artikel 10c
+##### Artikel 10c
 
 Vervallen
 
-#### Artikel 10d
+##### Artikel 10d
 
 1. Als een verzekeraar van een pensioen als bedoeld in [artikel 19a, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a) kan door Onze Minister worden aangewezen een verzekeraar die op grond van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) diensten naar Nederland mag verrichten.
 
@@ -366,7 +390,7 @@ Vervallen
 
 7. Onze Minister maakt het aanwijzen als een verzekeraar als bedoeld in het eerste lid, dan wel het aanwijzen als een pensioenfonds als bedoeld in het tweede lid, op een daartoe geschikte wijze publiek bekend. Indien Onze Minister een aanwijzing intrekt, maakt hij die intrekking ook op een daartoe geschikte wijze publiek bekend.
 
-#### Artikel 10e
+##### Artikel 10e
 
 1. In dit hoofdstuk en de daarop berustende regelingen zijn de volgende definities van toepassing.
 
@@ -428,15 +452,15 @@ Vervallen
 
 ### Hoofdstuk 5. Aanvullende regelingen ([Hoofdstuk VI van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VI))
 
-#### Artikel 10f
+##### Artikel 10f
 
 Vervallen
 
-#### Artikel 10g
+##### Artikel 10g
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De loonbelasting wordt mede geheven van natuurlijke personen die de navolgende tot het belastbare inkomen uit werk en woning dan wel het belastbare inkomen uit werk en woning in Nederland in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) behorende inkomsten genieten:
 
@@ -508,17 +532,17 @@ Vervallen
 
 2. De in het eerste lid bedoelde inkomsten worden aangemerkt als loon uit vroegere arbeid.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Ingeval een verzekeraar als bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a) overeenkomt met de inhoudingsplichtige die aan de werknemer loon verstrekt als bedoeld in [artikel 31, vierde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31), dat die verzekeraar de ter zake van dat loon verschuldigde loonbelasting inhoudt op het pensioen, wordt niet die inhoudingsplichtige, maar die verzekeraar ter zake van dat loon als inhoudingsplichtige beschouwd.
 
-#### Artikel 12
+##### Artikel 12
 
 Ten aanzien van de in [artikel 33, tweede lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=33) bedoelde werknemers, met uitzondering van degenen die een uitkering ontvangen op grond van het [Besluit bijstandverlening zelfstandigen 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0015711), herrekent de inhoudingsplichtige bij het einde van het kalenderjaar volgens bij ministeriële regeling te stellen regels de op de voet van de in die bepaling bedoelde tabel geheven belasting zodanig dat uiteindelijk de belasting zoveel mogelijk wordt geheven als hadden de werknemers loon uit vroegere arbeid genoten niet zijnde uitkeringen ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703). Bij de in de vorige volzin bedoelde herrekening wordt het bedrag van de in aanmerking te nemen heffingskorting, in afwijking in zoverre van [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=23), verminderd met het volgens bij ministeriële regeling te stellen regels te bepalen bedrag aan heffingskorting voor de loonbelasting, met uitzondering van de arbeidskorting, waarmee ten aanzien van de werknemer reeds rekening is gehouden bij de inhouding van belasting op ander loon.
 
 ### Hoofdstuk 5. Aanvullende regelingen ([Hoofdstuk VI van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=VI))
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. De in [artikel 35, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35) bedoelde kostenvergoedingsbeschikking kan betrekking hebben op een artiest of beroepssporter (individuele kostenvergoedingsbeschikking), dan wel op een gezelschap (gezelschapskostenvergoedingsbeschikking). De in [artikel 35g, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=35g) bedoelde kostenvergoedingsbeschikking is een gezelschapskostenvergoedingsbeschikking.
 
@@ -556,7 +580,7 @@ Ten aanzien van de in [artikel 33, tweede lid, onderdeel c, onder 1°, van de we
 
 - f. een opgave van de gage, de gemaakte en nog te maken kosten, alsmede een toelichting op deze kosten.
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Als gage van de artiest of de beroepssporter die deel uitmaakt van een gezelschap, wordt aangemerkt het deel van de met het gezelschap overeengekomen gage dat volgens de leider of vertegenwoordiger van het gezelschap aan zijn optreden dan wel sportbeoefening kan worden toegerekend. De leider of vertegenwoordiger van het gezelschap geeft aan de inhoudingsplichtige ter zake een ondertekende verklaring af (gageverdelingsverklaring). Indien geen verklaring wordt afgegeven of de leider of vertegenwoordiger van het gezelschap de met het gezelschap overeengekomen gage niet geheel over de artiesten of beroepssporters heeft verdeeld, wordt de voor het optreden van het gezelschap overeengekomen gage geacht door ieder lid van het gezelschap voor een gelijk deel te zijn genoten.
 
@@ -580,11 +604,11 @@ Ten aanzien van de in [artikel 33, tweede lid, onderdeel c, onder 1°, van de we
 
 ### Hoofdstuk 4b. Heffing van de inhoudingsplichtige ([hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=V)): pseudo-eindheffing voor hoog loon
 
-#### Artikel 12c
+##### Artikel 12c
 
 Voor de toepassing van [artikel 10b, zesde lid, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4&artikel=10b&z=2026-01-01&g=2026-01-01), blijft een toevoeging aan en afneming van de oudedagsreserve, bedoeld in [artikel 10a.29, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.29), buiten aanmerking.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1965.
 
@@ -592,7 +616,7 @@ Voor de toepassing van [artikel 10b, zesde lid, onder 1°](https://wetten.overhe
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 10aa
+##### Artikel 10aa
 
 | **Indien voor de toepassing van artikel 18a, eerste lid, van de wet een percentage per dienstjaar wordt toegepast van** | **Indien voor de toepassing van artikel 18a, eerste lid, van de wet een percentage per dienstjaar wordt toegepast van** | **wordt het in artikel 18a, derde lid, van de wet bedoelde bedrag vervangen door** |
 | --- | --- | --- |
@@ -634,7 +658,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 5. Bij het begin van het kalenderjaar worden de in het eerste, tweede en derde lid bedoelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding tussen het ingevolge [artikel 18a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=18a) in het kalenderjaar in aanmerking te nemen bedrag en het ingevolge artikel 18a, derde lid, van de wet in het vorige kalenderjaar in aanmerking te nemen bedrag.
 
-#### Artikel 10ab
+##### Artikel 10ab
 
 Vervallen
 
@@ -646,17 +670,17 @@ Vervallen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 12d
+##### Artikel 12d
 
 Vervallen
 
-#### Artikel 12e
+##### Artikel 12e
 
 Vervallen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2ca
+##### Artikel 2ca
 
 1. Als dienstbetrekking wordt beschouwd de arbeidsverhouding van degene, die als sekswerker persoonlijk arbeid verricht.
 
@@ -672,7 +696,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Vervallen
 
@@ -680,7 +704,7 @@ Vervallen
 
 ### Hoofdstuk 4a. Heffing van de inhoudingsplichtige ([hoofdstuk V van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=V)): extraterritoriale werknemers
 
-#### Artikel 10ca
+##### Artikel 10ca
 
 Vervallen
 
@@ -690,7 +714,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 ### Hoofdstuk 4. Pensioenregelingen ([Hoofdstuk IIB van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&hoofdstuk=IIB))
 
-#### Artikel 10ea
+##### Artikel 10ea
 
 1. Vergoedingen en verstrekkingen aan extraterritoriale werknemers van kosten, respectievelijk ter voorkoming van kosten van verblijf buiten het land van herkomst worden, ten aanzien van ingekomen werknemers op gezamenlijk verzoek van de werknemer en de inhoudingsplichtige, in elk geval beschouwd als vergoeding voor extraterritoriale kosten tot (bewijsregel):
 
@@ -706,7 +730,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 3. Indien de werknemer gedurende de tewerkstelling of gedurende een deel daarvan geen vergoeding geniet waarop [artikel 31a, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=31a) van toepassing is, leidt dat niet tot een verlenging van een of meer van de perioden van 20 maanden. Bij een werknemer als bedoeld in [artikel 10ef](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ef&z=2026-01-01&g=2026-01-01) geldt, met inachtneming van de eerste zin, vanaf de datum van tewerkstelling gedurende de eerste periode van 20 maanden 30% van de grondslag, gedurende de daaropvolgende periode van 20 maanden 20% van de grondslag en voor de daaropvolgende periode van 20 maanden 10% van de grondslag, voor zover de maximale looptijd ingevolge de artikelen [10ec tot en met 10ef](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ec&z=2026-01-01&g=2026-01-01) nog niet is verstreken.
 
-#### Artikel 10eb
+##### Artikel 10eb
 
 1. Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in [paragraaf 3.3.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&paragraaf=3.3.1), op jaarbasis meer bedraagt dan € 48.013.
 
@@ -730,23 +754,23 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld ter zake van de toepassing van dit artikel.
 
-#### Artikel 10ec
+##### Artikel 10ec
 
 1. Voor ingekomen werknemers bedraagt de looptijd van de bewijsregel maximaal vijf jaar, ingaande op de eerste dag van de tewerkstelling door de inhoudingsplichtige en eindigende op de laatste dag van het loontijdvak na het loontijdvak waarin die tewerkstelling is geëindigd.
 
 2. Voor uitgezonden werknemers is de looptijd van de bewijsregel gelijk aan de duur van de uitzending.
 
-#### Artikel 10ed
+##### Artikel 10ed
 
 1. Indien een ingekomen werknemer tijdens de looptijd een andere inhoudingsplichtige krijgt, blijft op gezamenlijk verzoek van de werknemer en de nieuwe inhoudingsplichtige de bewijsregel gedurende de resterende looptijd van toepassing, mits de periode tussen het einde van de tewerkstelling door de oude inhoudingsplichtige en de totstandkoming van de arbeidsovereenkomst met de nieuwe inhoudingsplichtige niet langer is dan drie maanden.
 
 2. Bij een dergelijk verzoek moet door de nieuwe inhoudingsplichtige opnieuw aannemelijk worden gemaakt dat de werknemer behoort te worden aangemerkt als ingekomen werknemer.
 
-#### Artikel 10ee
+##### Artikel 10ee
 
 Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op de Nederlandse arbeidsmarkt niet of schaars aanwezig is, wordt de looptijd verminderd tot op het moment waarop deze situatie zich voordoet.
 
-#### Artikel 10ef
+##### Artikel 10ef
 
 1. Indien de ingekomen werknemer voorafgaand aan de aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, in Nederland is tewerkgesteld of is verbleven, wordt de looptijd verminderd met de perioden van eerdere tewerkstelling en eerder verblijf.
 
@@ -758,15 +782,15 @@ Indien de ingekomen werknemer niet langer specifieke deskundigheid bezit die op 
 
 5. Voor de toepassing van het eerste en tweede lid wordt een werknemer geacht in Nederland te zijn tewerkgesteld gedurende de gehele periode dat hij een door een inhoudingsplichtige uit een ander land aangeworven, of naar een inhoudingsplichtige gezonden werknemer in de zin van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=2) is.
 
-#### Artikel 10eg
+##### Artikel 10eg
 
 Indien een verzoek om toepassing van de bewijsregel als bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2026-01-01&g=2026-01-01) niet is gedaan binnen vier maanden na aanvang van de tewerkstelling als ingekomen werknemer door de inhoudingsplichtige, wordt de looptijd verminderd met de periode tussen het tijdstip waarop de ingekomen werknemer door de inhoudingsplichtige is tewerkgesteld en het tijdstip waarop de beschikking, bedoeld in [artikel 10ei](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&hoofdstuk=4a&artikel=10ei&z=2026-01-01&g=2026-01-01), voor het eerst van toepassing is.
 
-#### Artikel 10eh
+##### Artikel 10eh
 
 Bij vermindering van de looptijd volgens dit hoofdstuk wordt elke periode waarmee de looptijd wordt verminderd naar boven afgerond op gehele kalendermaanden.
 
-#### Artikel 10ei
+##### Artikel 10ei
 
 1. Een verzoek om toepassing of voortgezette toepassing van de bewijsregel ten aanzien van een ingekomen werknemer wordt gedaan aan de inspecteur. Deze beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
@@ -786,7 +810,7 @@ Bij vermindering van de looptijd volgens dit hoofdstuk wordt elke periode waarme
 
 7. Een intrekking of herziening in het nadeel van de werknemer of de inhoudingsplichtige is mogelijk voor zover de beschikking een loontijdvak bevat waarover de bevoegdheid tot naheffing, bedoeld in [artikel 20 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=20), niet is vervallen.
 
-#### Artikel 10ej
+##### Artikel 10ej
 
 De inhoudingsplichtige wordt voor de toepassing van de bepalingen van dit hoofdstuk ten aanzien van een ingekomen werknemer geacht dezelfde inhoudingsplichtige te zijn als de zonder onderbreking voorafgaande inhoudingsplichtigen van de werknemer mits:
 
@@ -806,7 +830,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 10ba
+##### Artikel 10ba
 
 Vervallen
 
@@ -820,7 +844,7 @@ Vervallen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, dat in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 3bis
+##### Artikel 3bis
 
 Degene die als musicus of anderszins als artiest optreedt, is geen artiest in de zin van [artikel 5a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=5a), indien hij in Nederland woont en werkzaam is op basis van een voor aanvang van de betaling van de beloning gesloten schriftelijke overeenkomst waaruit blijkt dat het de bedoeling is van beide partijen dat hij geen artiest is in de zin van artikel 5a van de wet.
 

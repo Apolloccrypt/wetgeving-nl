@@ -1,13 +1,38 @@
 ---
 title: "Protocol inzake ontplofbare oorlogsresten"
 identifier: "BWBV0001746"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-11-12
-laatste_update: 2003-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001746"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-11-12"
+last_updated: "2003-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001746"
+soort: "verdrag"
+stam_id: "10001671983"
+version_id: "10001750132"
+internal_id: "C10006995361"
+label_id: "10001672174"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001746/2006-11-12/0"
+intitule_bron: "Trb.2004-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-18"
+intitule_published: "2004-09-27"
+intitule_in_force: "2006-06-30"
+intitule_status: "goed"
+original_publication: "Trb.2004-227"
+original_signed_date: "2005-07-18"
+original_published_date: "2004-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-227"
+entry_into_force_date: "2006-11-12"
+jci_1_3: "jci1.3:c:BWBV0001746&z=2006-11-12&g=2006-11-12"
+jci_1_0: "1.0:c:BWBV0001746&g=2006-11-12"
+citeertitel_status: "redactioneel"
+signed_date: "2005-07-18"
+entry_into_force: "2006-11-12"
 ---
-
 # Protocol inzake ontplofbare oorlogsresten
 
 De Hoge Verdragsluitende Partijen,
@@ -20,7 +45,7 @@ En bereid algemene preventieve maatregelen te treffen door middel van **best pra
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene bepaling en toepassingsgebied
+##### Artikel 1. Algemene bepaling en toepassingsgebied
 
 1. In overeenstemming met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en met de op hen van toepassing zijnde regels van het internationaal recht inzake gewapende conflicten, komen de Hoge Verdragsluitende Partijen overeen de in dit Protocol vervatte verplichtingen na te komen, zowel individueel als in samenwerking met andere Hoge Verdragsluitende Partijen, teneinde de risico's en gevolgen van ontplofbare oorlogsresten in post-conflictsituaties te minimaliseren.
 
@@ -30,7 +55,7 @@ Zijn het volgende overeengekomen:
 
 4. De artikelen 3, 4, 5 en 8 van dit Protocol zijn van toepassing op andere ontplofbare oorlogsresten dan bestaande ontplofbare oorlogsresten als gedefinieerd in artikel 2, vijfde lid, van dit Protocol.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -44,7 +69,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 5. **Bestaande ontplofbare oorlogsresten**, niet-gesprongen munitie en achtergelaten ontplofbare munitie die aanwezig was vóór de inwerkingtreding van dit Protocol ten aanzien van de Hoge Verdragsluitende Partij op wier grondgebied dit aanwezig is.
 
-#### Artikel 3. Ruiming, verwijdering of vernietiging van ontplofbare oorlogsresten
+##### Artikel 3. Ruiming, verwijdering of vernietiging van ontplofbare oorlogsresten
 
 1. Elke Hoge Verdragsluitende Partij en partij bij een gewapend conflict draagt de in dit artikel vervatte verantwoordelijkheden ten aanzien van alle ontplofbare oorlogsresten binnen het grondgebied dat onder haar gezag valt. In gevallen waarin een gebruiker van ontplofbare munitie die ontplofbare oorlogsresten is geworden, geen gezag uitoefent over het grondgebied, verstrekt waar haalbaar de gebruiker, na de beëindiging van de feitelijke vijandelijkheden onder andere technische, financiële, materiële of personele bijstand, bilateraal of via een onderling overeengekomen derde partij, onder andere via organen van de Verenigde Naties of andere relevante organisaties, ter vergemakkelijking van het markeren en ruimen, verwijderen of vernietigen van deze ontplofbare oorlogsresten.
 
@@ -64,7 +89,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 5. Waar dienstig werken de Hoge Verdragsluitende Partijen, zowel onderling als met andere staten, relevante regionale en internationale organisaties en niet-gouvernementele organisaties, samen bij het verlenen van bijstand in de vorm van, onder andere, technische, financiële, materiële en personele middelen, waaronder, in daarvoor in aanmerking komende omstandigheden, het ondernemen van gezamenlijke operaties ter nakoming van de bepalingen van dit artikel.
 
-#### Artikel 4. Het registreren, bijhouden en overdragen van informatie
+##### Artikel 4. Het registreren, bijhouden en overdragen van informatie
 
 1. De Hoge Verdragsluitende Partijen en partijen bij een gewapend conflict zullen, in zo groot mogelijke mate en voor zover praktisch uitvoerbaar, informatie inzake het gebruik van ontplofbare munitie of het achterlaten van ontplofbare munitie registreren en behouden, ter vergemakkelijking van de snelle markering en ruiming, verwijdering of vernietiging van ontplofbare oorlogsresten, gevarenvoorlichting en de verstrekking van relevante informatie aan de partij die het gezag heeft over het grondgebied en aan de burgerbevolking in dat grondgebied.
 
@@ -72,11 +97,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. Bij het registreren, behouden en verzenden van deze informatie moeten de Hoge Verdragsluitende Partijen Deel 1 van de Technische Bijlage in acht nemen.
 
-#### Artikel 5. Andere voorzorgsmaatregelen voor de bescherming van de burgerbevolking, individuele burgers en burgerobjecten tegen de risico's en gevolgen van ontplofbare oorlogsresten
+##### Artikel 5. Andere voorzorgsmaatregelen voor de bescherming van de burgerbevolking, individuele burgers en burgerobjecten tegen de risico's en gevolgen van ontplofbare oorlogsresten
 
 1. De Hoge Verdragsluitende Partijen en partijen bij een gewapend conflict treffen in het door ontplofbare oorlogsresten getroffen grondgebied dat onder hun gezag valt alle haalbare voorzorgsmaatregelen om de burgerbevolking, individuele burgers en burgerobjecten tegen de risico's en gevolgen van ontplofbare oorlogsresten te beschermen. Haalbare voorzorgsmaatregelen zijn die voorzorgsmaatregelen welke uitvoerbaar of praktisch mogelijk zijn, met inachtneming van alle omstandigheden die op dat tijdstip gelden, met inbegrip van humanitaire en militaire overwegingen. Deze voorzorgsmaatregelen kunnen bestaan uit waarschuwingen, gevarenvoorlichting aan de burgerbevolking en het markeren, met hekken afzetten en bewaken van het door ontplofbare oorlogsresten getroffen gebied, zoals vermeld in Deel 2 van de Technische Bijlage.
 
-#### Artikel 6. Bepalingen voor de bescherming van humanitaire missies en organisaties tegen de gevolgen van ontplofbare oorlogsresten
+##### Artikel 6. Bepalingen voor de bescherming van humanitaire missies en organisaties tegen de gevolgen van ontplofbare oorlogsresten
 
 1. Elke Hoge Verdragsluitende Partij en partij bij een gewapend conflict zijn gehouden:
 
@@ -86,13 +111,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 2. De bepalingen van dit artikel doen geen afbreuk aan het geldende Internationaal Humanitair Recht of andere toepasselijke internationale instrumenten of aan besluiten van de Veiligheidsraad van de Verenigde Naties die voorzien in een hoger niveau van bescherming.
 
-#### Artikel 7. Bijstand ten aanzien van bestaande ontplofbare oorlogsresten
+##### Artikel 7. Bijstand ten aanzien van bestaande ontplofbare oorlogsresten
 
 1. Elke Hoge Verdragsluitende Partij heeft het recht, desgewenst, te trachten bijstand te verkrijgen van andere Hoge Verdragsluitende Partijen, van staten die geen partij zijn en van relevante internationale organisaties en instellingen, en deze te ontvangen bij het aanpakken van de problemen die worden gevormd door bestaande ontplofbare oorlogsresten.
 
 2. Elke Hoge Verdragsluitende Partij die daartoe in staat is, verleent, waar nodig en haalbaar, bijstand bij het aanpakken van de problemen die worden gevormd door bestaande ontplofbare oorlogsresten. Hierbij houden de Hoge Verdragsluitende Partijen ook rekening met de humanitaire doeleinden van dit Protocol, alsmede met internationale normen, waaronder de International Mine Action Standards.
 
-#### Artikel 8. Samenwerking en bijstand
+##### Artikel 8. Samenwerking en bijstand
 
 1. Elke Hoge Verdragsluitende Partij die daartoe in staat is, verleent bijstand ten behoeve van de markering en ruiming, verwijdering of vernietiging van ontplofbare oorlogsresten, en ten behoeve van gevarenvoorlichting aan de burgerbevolking en daaraan gerelateerde activiteiten, onder meer via organen van de Verenigde Naties, of andere relevante internationale, regionale of nationale organisaties of instellingen, het Internationaal Comité van het Rode Kruis, nationale afdelingen van het Rode Kruis en de Rode Halve Maan of de internationale federatie hiervan, niet-gouvernementele organisaties, of op bilaterale basis.
 
@@ -108,13 +133,13 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 7. Wanneer verzoeken tot de Verenigde Naties worden gericht, kan de Secretaris-Generaal van de Verenigde Naties, binnen de hem ter beschikking staande mogelijkheden, de passende maatregelen nemen om de situatie te beoordelen en, in samenwerking met de verzoekende Hoge Verdragsluitende Partij en met andere Hoge Verdragsluitende Partijen met verantwoordelijkheid als vervat in artikel 3, de passende verlening van bijstand aanbevelen. De Secretaris-Generaal kan tevens verslag uitbrengen aan de Hoge Verdragsluitende Partijen over elk van deze beoordelingen en over de aard en de omvang van de verzochte bijstand, met inbegrip van eventuele bijdragen uit de fondsen die in het kader van de Verenigde Naties zijn ingesteld.
 
-#### Artikel 9. Algemene preventieve maatregelen
+##### Artikel 9. Algemene preventieve maatregelen
 
 1. Indachtig de verschillende situaties en capaciteiten wordt elke Hoge Verdragsluitende Partij aangemoedigd algemene preventieve maatregelen te nemen gericht op het beperken van het vóórkomen van ontplofbare oorlogsresten, waaronder, doch niet beperkt tot, die welke worden genoemd in deel 3 van de Technische Bijlage.
 
 2. Elke Hoge Verdragsluitende Partij kan, op vrijwillige basis, informatie uitwisselen betreffende inspanningen ter bevordering en instelling van de **best practices** ten aanzien van het eerste lid van dit artikel.
 
-#### Artikel 10. Overleg van de Hoge Verdragsluitende Partijen
+##### Artikel 10. Overleg van de Hoge Verdragsluitende Partijen
 
 1. De Hoge Verdragsluitende Partijen verplichten zich ertoe onderling overleg te plegen en samen te werken inzake alle kwesties betreffende de werking van dit Protocol. Hiertoe wordt een conferentie van de Hoge Verdragsluitende Partijen gehouden, als een meerderheid, doch ten minste achttien Hoge Verdragsluitende Partijen, daartoe besluit.
 
@@ -128,7 +153,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 3. De kosten van de conferentie van de Hoge Verdragsluitende Partijen worden gedragen door de Hoge Verdragsluitende Partijen en door de staten die geen partij zijn en die deelnemen aan de conferentie, volgens de aan de op passende wijze aangepaste verdeelsleutel van de Verenigde Naties.
 
-#### Artikel 11. Naleving
+##### Artikel 11. Naleving
 
 1. Elke Hoge Verdragsluitende Partij vereist dat haar strijdkrachten en daarvoor in aanmerking komende instanties of departementen instructies en handelingsvoorschriften opstellen en bekendmaken en dat de personeelsleden van de strijdkrachten een opleiding krijgen die verenigbaar is met de desbetreffende bepalingen van dit Protocol.
 
@@ -136,7 +161,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 Deze Technische Bijlage bevat de **best practices** die zijn voorgesteld voor het realiseren van de in de artikelen 4, 5 en 9 van dit Protocol vervatte doelstellingen. Deze Technische Bijlage wordt door de Hoge Verdragsluitende Partijen op vrijwillige basis geïmplementeerd.
 
-#### 1. REGISTRATIE, OPSLAG EN VRIJGAVE VAN INFORMATIE BETREFFENDE NIET-GESPRONGEN MUNITIE (UXO) EN ACHTERGELATEN ONTPLOFBARE MUNITIE (AXO)
+##### 1. REGISTRATIE, OPSLAG EN VRIJGAVE VAN INFORMATIE BETREFFENDE NIET-GESPRONGEN MUNITIE (UXO) EN ACHTERGELATEN ONTPLOFBARE MUNITIE (AXO)
 
 a. Registratie van informatie: Met betrekking tot ontplofbare munitie die UXO kan zijn geworden, dient een staat ernaar te streven de volgende informatie zo nauwkeurig mogelijk te registreren:
 
@@ -190,7 +215,7 @@ c. Vrijgave van informatie: Informatie die in overeenstemming met de onderdelen 
 
 - iv. Timing: De informatie moet zo snel mogelijk worden vrijgegeven, met inachtneming van zaken als eventuele lopende militaire en humanitaire operaties in de getroffen gebieden, de beschikbaarheid en betrouwbaarheid van informatie en ter zake doende veiligheidskwesties.
 
-#### 2. WAARSCHUWINGEN, GEVARENVOORLICHTING, MARKERING, AFZETTING MET HEKKEN EN BEWAKING
+##### 2. WAARSCHUWINGEN, GEVARENVOORLICHTING, MARKERING, AFZETTING MET HEKKEN EN BEWAKING
 
 a. Waarschuwingen zijn de nauwgezette verstrekking van waarschuwingsinformatie aan de burgerbevolking, met het oogmerk de risico's die worden veroorzaakt door ontplofbare oorlogsresten in getroffen gebieden, tot een minimum te beperken.
 
@@ -212,7 +237,7 @@ i. Bij de markering van gebieden ten aanzien waarvan het vermoeden bestaat dat z
 
 j. Er moet een passende structuur in het leven worden geroepen die verantwoordelijk is voor de bewaking en het onderhoud van permanente en tijdelijke markeringssystemen, die deel moet gaan uitmaken van de nationale en lokale gevarenvoorlichtingsprogramma's.
 
-#### 3. ALGEMENE PREVENTIEVE MAATREGELEN
+##### 3. ALGEMENE PREVENTIEVE MAATREGELEN
 
 Staten die ontplofbare munitie vervaardigen of aanschaffen moeten er voor zover mogelijk en op passende wijze naar streven te waarborgen dat de volgende maatregelen gedurende de levensduur van ontplofbare munitie worden geïmplementeerd en nageleefd.
 

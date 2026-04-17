@@ -1,20 +1,46 @@
 ---
-title: "Regeling archiefbeheer Centraal Digitaal Depot 2017"
+title: "Regeling d.d. 7 augustus 2017, nr. Alg 5870 van de algemeen directeur van de Justitiële Informatiedienst, namens de Minister van Veiligheid en Justitie, tot vaststelling van de regels voor het inrichten, beheren en onderhouden van het Centraal Digitaal Depot (Regeling archiefbeheer Centraal Digitaal Depot 2017)"
 identifier: "BWBR0039929"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2017-08-31
-laatste_update: 2017-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039929"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-08-31"
+last_updated: "2017-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039929"
+soort: "ministeriele-regeling"
+stam_id: "14141153"
+version_id: "24319532"
+internal_id: "C34912631"
+label_id: "14102134"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039929/2017-08-31/0"
+intitule_bron: "Stcrt.2017-48937"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-08-07"
+intitule_published: "2017-08-30"
+intitule_in_force: "2017-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-48937"
+original_signed_date: "2017-08-07"
+original_published_date: "2017-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-48937"
+entry_into_force_date: "2017-08-31"
+jci_1_3: "jci1.3:c:BWBR0039929&z=2017-08-31&g=2017-08-31"
+jci_1_0: "1.0:c:BWBR0039929&g=2017-08-31"
+citeertitel_status: "officieel"
+short_title: "Regeling archiefbeheer Centraal Digitaal Depot 2017"
+signed_date: "2017-08-07"
+entry_into_force: "2017-08-31"
 ---
-
 # Regeling d.d. 7 augustus 2017, nr. Alg 5870 van de algemeen directeur van de Justitiële Informatiedienst, namens de Minister van Veiligheid en Justitie, tot vaststelling van de regels voor het inrichten, beheren en onderhouden van het Centraal Digitaal Depot (Regeling archiefbeheer Centraal Digitaal Depot 2017)
 
 Gelet op [artikel 3, vijfde lid, aanhef en onder d, van de Archiefbeheersregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **overeenkomst:** dienstenniveau overeenkomst tussen afnemer en beheerder.
 
-#### Artikel 2. Werkingsgebied
+##### Artikel 2. Werkingsgebied
 
 Deze regeling is van toepassing op:
 
@@ -48,7 +74,7 @@ Deze regeling is van toepassing op:
 
 - c. het archiefbeheer uitgevoerd in het CDD+, ten aanzien van archiefbescheiden en bijbehorende metadata waarvan het beheer geheel of gedeeltelijk is ondergebracht bij het CDD+.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. De afnemer is verantwoordelijk voor het archiefbeheer dat op grond van de overeenkomst wordt uitgevoerd in het CDD+.
 
@@ -66,7 +92,7 @@ Deze regeling is van toepassing op:
 
 3. Tenzij anders overeengekomen, is de beheerder niet bevoegd het archiefbeheer in het CDD+ door derden te laten uitvoeren of bij derden onder te brengen.
 
-#### Artikel 4. Voorbereiding op het archiefbeheer
+##### Artikel 4. Voorbereiding op het archiefbeheer
 
 Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in het CDD+ wordt door de beheereenheid en de afnemer in onderlinge samenwerking onderzocht en gedocumenteerd:
 
@@ -80,7 +106,7 @@ Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in 
 
 - e. welke infrastructurele voorzieningen moeten worden getroffen; en f. in welke mate er doorbelasting van kosten zal plaatsvinden.
 
-#### Artikel 5. Eisen aan het archiefbeheer van een afnemer
+##### Artikel 5. Eisen aan het archiefbeheer van een afnemer
 
 1. Indien een afnemer het archiefbeheer geheel of gedeeltelijk wil laten uitvoeren in het CDD+, voldoet het archiefbeheer van de afnemer aan de volgende eisen:
 
@@ -96,7 +122,7 @@ Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in 
 
 - c. toegang tot en gebruik van metadata en metadata over metadata.
 
-#### Artikel 6. Uitvoering archiefbeheer in CDD+
+##### Artikel 6. Uitvoering archiefbeheer in CDD+
 
 1. De kwaliteit van de archiefbescheiden en de bijbehorende metadata worden bij het onderbrengen daarvan in het CDD+ door de beheereenheid gedocumenteerd.
 
@@ -110,7 +136,7 @@ Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in 
 
 6. Indien de onder het eerste en derde lid van dit artikel genoemde kwaliteit van de archiefbescheiden en/of bijbehorende metadata, onderscheidenlijk het archiefbeheer in het CDD+ niet of niet meer kan worden gegarandeerd, wordt de afnemer terstond op de hoogte gebracht.
 
-#### Artikel 7. Audit
+##### Artikel 7. Audit
 
 1. Eens in de drie jaar wordt een audit uitgevoerd op de kwaliteit van het CDD+.
 
@@ -126,7 +152,7 @@ Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in 
 
 7. Naast de periodieke audit zoals bedoeld in het eerste lid van dit artikel, kan een afnemer een audit op eigen kosten laten uitvoeren.
 
-#### Artikel 8. Wijziging of beëindiging van het archiefbeheer CDD+
+##### Artikel 8. Wijziging of beëindiging van het archiefbeheer CDD+
 
 1. Bij reorganisaties van de beheerder, de beheerseenheid of de afnemer, stellen partijen elkaar over en weer onverwijld in kennis.
 
@@ -136,15 +162,15 @@ Voorafgaand aan het geheel of gedeeltelijk laten uitvoeren van archiefbeheer in 
 
 4. Indien een afnemer of de beheerder het gehele of gedeeltelijke archiefbeheer in het CDD+ beëindigt, voorziet de beheerder in een volledige retournering aan de afnemer van binnen het CDD+ opgenomen archiefbescheiden en bijbehorende metadata.
 
-#### Artikel 9. Onderhoud en actualisatie
+##### Artikel 9. Onderhoud en actualisatie
 
 Deze regeling wordt na inwerkingtreding eens in de twee jaar getoetst op actualiteit, zo nodig bijgewerkt en hernieuwd vastgesteld.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als Regeling archiefbeheer Centraal Digitaal Depot 2017.
 

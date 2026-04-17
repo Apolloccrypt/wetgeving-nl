@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit detectie radioactief besmet schroot, enz. (Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen))"
+title: "Besluit van 12 februari 2011 tot wijziging van het Besluit detectie radioactief besmet schroot, het Besluit kerninstallaties, splijtstoffen en ertsen, het Besluit stralingsbescherming, het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen en het Vrijstellingsbesluit defensie Kernenergiewet in verband met de wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen (Stb. 2010, 18)"
 identifier: "BWBR0029677"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029677"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029677"
+soort: "AMvB"
+stam_id: "11260973"
+version_id: "18440352"
+internal_id: "C25703141"
+label_id: "11235124"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029677/2011-07-01/0"
+intitule_bron: "Stb.2011-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-12"
+intitule_published: "2011-03-04"
+intitule_in_force: "2011-03-04"
+intitule_status: "goed"
+original_publication: "Stb.2011-105"
+original_signed_date: "2011-02-12"
+original_published_date: "2011-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-105"
+entry_into_force_date: "2011-04-01"
+jci_1_3: "jci1.3:c:BWBR0029677&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0029677&g=2011-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit detectie radioactief besmet schroot, enz. (Wijzigingswet Kernenergiewet (vereenvoudiging bevoegd gezag, invoering verplichting tot financiële zekerheidstelling en enkele andere wijzigingen))"
+signed_date: "2011-02-12"
+entry_into_force: "2011-04-01"
 ---
-
 # Besluit van 12 februari 2011 tot wijziging van het Besluit detectie radioactief besmet schroot, het Besluit kerninstallaties, splijtstoffen en ertsen, het Besluit stralingsbescherming, het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen en het Vrijstellingsbesluit defensie Kernenergiewet in verband met de wet van 19 november 2009 tot wijziging van de Kernenergiewet in verband met vereenvoudiging van het bevoegd gezag, invoering van een verplichting tot financiële zekerheidstelling en enkele andere wijzigingen (Stb. 2010, 18)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 6 juli 2010, nr. BJZ / 2010016974, Directie Bestuurlijke en Juridische zaken, gedaan mede namens Onze Ministers van Sociale Zaken en Werkgelegenheid en van Economische Zaken;
@@ -20,35 +46,35 @@ Gezien het nader rapport van Onze Minister van Economische Zaken, Landbouw en In
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit detectie radioactief besmet schroot.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit stralingsbescherming.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Vrijstellingsbesluit defensie Kernenergiewet.
 
-#### Artikel VI
+##### Artikel VI
 
 [Artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=26), voor zover dit betrekking heeft op de verplichtingen, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=30), en artikel 30, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen zijn niet van toepassing op inrichtingen die voor 1 januari 2007 in veilige insluiting zijn gebracht.
 
-#### Artikel VII
+##### Artikel VII
 
 In afwijking van [artikel 44a, tweede lid, aanhef en onder a, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=44a) geldt voor aanvragen om goedkeuring voor de wijze waarop financiële zekerheid wordt gesteld als bedoeld in [artikel 15f, eerste lid, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15f) die voor het in [artikel IX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=IX&z=2011-07-01&g=2011-07-01), bedoelde tijdstip worden ingediend, dat bij het overzicht van de verschillende kostenposten voor de buitengebruikstelling en de ontmanteling kan worden uitgegaan van een ontwerp van een ontmantelingsplan als bedoeld in [artikel 1, eerste lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1) of van andere gegevens of bescheiden die vergelijkbare informatie bevatten omtrent de buitengebruikstelling en de ontmanteling van de betrokken inrichting.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Voor zover aan een vergunning op grond van de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) voor een inrichting als bedoeld in [artikel 15, onder b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) voorschriften zijn verbonden over:
 
@@ -58,7 +84,7 @@ In afwijking van [artikel 44a, tweede lid, aanhef en onder a, van het Besluit ke
 
 2. Het eerste lid is, voor zover het betreft de onder b bedoelde voorschriften, niet van toepassing op inrichtingen als bedoeld in [artikel 15, onder b, van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) waarin kernenergie kon worden vrijgemaakt, die voor 1 januari 2007 in veilige insluiting zijn gebracht.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Dit besluit, met uitzondering van [artikel II, onderdeel L](https://wetten.overheid.nl/jci1.3:c:BWBR0029677&artikel=II&z=2011-07-01&g=2011-07-01), treedt in werking met ingang van 1 juli 2011.
 

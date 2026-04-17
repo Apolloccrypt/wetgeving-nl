@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+title: "Rijkswet van 7 juli 2010, houdende regeling van de inrichting, de organisatie, het gezag en het beheer van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)"
 identifier: "BWBR0028079"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028079"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028079"
+soort: "rijkswet"
+stam_id: "10648893"
+version_id: "17593022"
+internal_id: "C24678111"
+label_id: "10624354"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028079/2010-10-10/0"
+intitule_bron: "Stb.2010-337"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-337"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32019"
+original_url_id: "stb-2010-337"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028079&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028079&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010, houdende regeling van de inrichting, de organisatie, het gezag en het beheer van de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba en de onderlinge samenwerking tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +47,7 @@ Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wi
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,11 +85,11 @@ Treedt in werking op het tijdstip waarop de artikelen I en II van de Rijkswet wi
 
 2. In deze wet en de daarop berustende bepalingen wordt onder de strafrechtelijke handhaving van de rechtsorde mede verstaan: het waken voor de veiligheid van personen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze rijkswet is van toepassing op de politie van Curaçao, de politie van Sint Maarten en de politie van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 3
+##### Artikel 3
 
 Ambtenaren van politie in de zin van deze rijkswet en de daarop berustende bepalingen zijn:
 
@@ -74,19 +101,19 @@ Ambtenaren van politie in de zin van deze rijkswet en de daarop berustende bepal
 
 ### Hoofdstuk 2. Taak en samenstelling
 
-#### Artikel 4
+##### Artikel 4
 
 Curaçao en Sint Maarten hebben elk een politiekorps. Er is een politiekorps voor Bonaire, Sint Eustatius en Saba gezamenlijk.
 
-#### Artikel 5
+##### Artikel 5
 
 Het politiekorps heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overeenstemming met de daarvoor geldende rechtsregels te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die deze behoeven.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse leiding van het korps.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elk van de landen draagt zorg voor een kwalitatief volwaardig en professioneel politiekorps.
 
@@ -102,7 +129,7 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 3. De in het tweede lid bedoelde taakgebieden kunnen samen met de politiekorpsen van de andere landen worden gewaarborgd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gegeven de taakgebieden in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=7&z=2010-10-10&g=2010-10-10), zorgt het politiekorps voor het verrichten van onderzoeken:
 
@@ -118,7 +145,7 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 4. De onderzoeken worden door de korpschef, de procureur-generaal en de directeur van de gemeenschappelijke voorziening politie voor wat betreft inzet van personeel, middelen en materieel en de kwaliteit daarvan, periodiek geëvalueerd op voortgang en resultaat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De procureur-generaal beschikt in elk van de landen over een recherche die hij kan belasten met onderzoeken naar feiten of gedragingen die de integriteit van de overheid van de landen kunnen aantasten en zijn begaan door natuurlijke personen of rechtspersonen belast met een publieke taak, of betrokken bij de uitvoering daarvan.
 
@@ -126,7 +153,7 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 3. Op Bonaire, Sint Eustatius en Saba verricht de rijksrecherche de recherchewerkzaamheden, bedoeld in het eerste lid.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister kan buitengewone agenten van politie aanstellen, bevorderen, schorsen en ontslaan.
 
@@ -138,7 +165,7 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 5. De landen kunnen bij of krachtens landsbesluit, houdende algemene maatregelen, respectievelijk bij of krachtens algemene maatregel van bestuur de taken regelen van buitengewone agenten van politie.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij wet kunnen daarin aangewezen politietaken voor Bonaire, Sint Eustatius en Saba worden opgedragen aan de Koninklijke marechaussee volgens nader bij wet te stellen regels.
 
@@ -150,13 +177,13 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 ### Hoofdstuk 3. Bevoegdheden van de politie
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaren van politie aangesteld voor de uitvoering van de politietaak in een van de landen zijn bevoegd hun taak uit te oefenen in elk van de landen.
 
 2. De ambtenaren van politie werkzaam voor een politiekorps onthouden zich van optreden buiten hun gebied van aanstelling tenzij het bevoegde gezag hiertoe opdracht of toestemming geeft.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ambtenaar van politie aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn taak geweld te gebruiken tegen personen en goederen of vrijheidsbeperkende beperkende middelen te gebruiken tegen personen, wanneer het daarmee beoogde doel dit, mede gelet op de hieraan verbonden gevaren, rechtvaardigt en dat doel niet op andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 
@@ -172,7 +199,7 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 7. De ambtenaar van politie aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een bij landsverordening of wet aangewezen identiteitsbewijs, voor zover dat redelijkerwijs noodzakelijk is voor de uitoefening van de politietaak.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De landen treffen onderling een regeling houdende een ambtsinstructie voor de politie, die regels bevat ter uitvoering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=3&artikel=12&z=2010-10-10&g=2010-10-10) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=3&artikel=13&z=2010-10-10&g=2010-10-10).
 
@@ -180,29 +207,29 @@ Aan het hoofd van het politiekorps staat een korpschef, belast met de dagelijkse
 
 3. Elk van de landen stelt bij of krachtens landsbesluit, houdende algemene maatregelen, of bij of krachtens algemene maatregel van bestuur regels waaraan rechtens van hun vrijheid beroofde personen met het oog op hun insluiting kunnen worden onderworpen, voor zover dit noodzakelijk is in het belang van hun veiligheid of de veiligheid van anderen.
 
-#### Artikel 15
+##### Artikel 15
 
 Alle ambtenaren die zijn belast met een politietaak verlenen elkaar de nodige hulp en betrachten voortdurend een eendrachtige samenwerking.
 
 ### Hoofdstuk 4. Gezag en toezicht
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien de politie optreedt ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van justitie, staat zij onder het gezag van de procureur-generaal.
 
 2. De procureur-generaal kan ambtenaren van politie algemene en bijzondere aanwijzingen geven voor de vervulling van de in het eerste lid bedoelde taken.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien de politie optreedt ter handhaving van de openbare orde en ter uitvoering van de hulpverleningstaak staat zij in Curaçao en Sint Maarten onder het gezag van Onze Minister van Justitie van Curaçao respectievelijk Onze Minister van Justitie van Sint Maarten en op Bonaire, Sint Eustatius respectievelijk Saba onder het gezag van de gezaghebber.
 
 2. Onze Minister, bedoeld in het eerste lid, respectievelijk de gezaghebber kan ambtenaren van politie algemene en bijzondere aanwijzingen geven voor de vervulling van de in het eerste lid bedoelde taken.
 
-#### Artikel 18
+##### Artikel 18
 
 De korpschef ziet er op toe dat de ambtenaren van politie die onder zijn leiding werkzaam zijn zich gedragen naar en dat zij gevolg geven aan de vorderingen en aanwijzingen van de daartoe bevoegde autoriteiten en ambtenaren.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister van Justitie van Curaçao respectievelijk Onze Minister van Justitie van Sint Maarten overlegt respectievelijk de gezaghebbers van Bonaire, van Sint Eustatius en Saba gezamenlijk overleggen ten minste een keer per twee maanden met de korpschef, de hoofdofficier van justitie en de procureur-generaal over de taakuitvoering door de politie.
 
@@ -210,7 +237,7 @@ Onze Minister van Justitie van Curaçao respectievelijk Onze Minister van Justit
 
 #### § 1. De gemeenschappelijke voorziening politie
 
-#### Artikel 20
+##### Artikel 20
 
 1. Er is een gemeenschappelijke voorziening politie van Curaçao, Sint Maarten en Nederland.
 
@@ -220,37 +247,37 @@ Onze Minister van Justitie van Curaçao respectievelijk Onze Minister van Justit
 
 4. De ambtenaren die op grond van het derde lid beschikbaar zijn gesteld aan een politiekorps worden in de desbetreffende onderdelen van dat korps te werk gesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Aan het hoofd van de gemeenschappelijke voorziening politie staat de directeur van de gemeenschappelijke voorziening politie.
 
 2. De directeur van de gemeenschappelijke voorziening politie voert het dagelijks beheer van de gemeenschappelijke voorziening politie. Hij is in het bijzonder belast met het bewaken van de doelgerichte inzet door de korpsen van de ambtenaren van politie, het materieel en de middelen die beschikbaar worden gesteld door middel van de gemeenschappelijke voorziening overeenkomstig de in het jaarplan van de gemeenschappelijke voorziening politie neergelegde afspraken.
 
-#### Artikel 22
+##### Artikel 22
 
 De ambtenaar van politie die door de gemeenschappelijke voorziening politie wordt beschikbaar gesteld aan een politiekorps voert zijn werkzaamheden in dat korps uit onder leiding van de korpschef.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De korpschef rapporteert viermaandelijks aan Onze Minister en de procureur-generaal over de inzet en resultaten van ambtenaren van politie die door middel van de gemeenschappelijke voorziening politie aan het korps beschikbaar zijn gesteld. Afschrift van de rapportage wordt gezonden aan de directeur van de gemeenschappelijke voorziening politie.
 
 2. De directeur van de gemeenschappelijke voorziening politie rapporteert viermaandelijks aan Onze Ministers en aan de procureur-generaal over de inzet en resultaten van de ambtenaren van politie die aan het korps beschikbaar zijn gesteld door middel van de gemeenschappelijke voorziening politie. Afschrift van de rapportage wordt gezonden aan de korpschef.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een geschil tussen de korpschef en de directeur van de gemeenschappelijk voorziening politie over de inzet van ambtenaren van politie die beschikbaar zijn gesteld door middel van de gemeenschappelijke voorziening politie aan het politiekorps wordt voorgelegd aan de procureur-generaal.
 
 2. De procureur-generaal tracht het geschil te beslechten. Als dat niet lukt legt de procureur-generaal het geschil ter beslissing voor aan Onze Ministers.
 
-#### Artikel 25
+##### Artikel 25
 
 De procureur-generaal kan voor de strafrechtelijke handhaving van de rechtsorde of voor het verrichten van taken ten dienste van justitie in bijzondere gevallen medewerking vorderen van de gemeenschappelijke voorziening politie, zo nodig in afwijking van het jaarplan van de gemeenschappelijke voorziening politie.
 
-#### Artikel 26
+##### Artikel 26
 
 Bij onderlinge regeling als bedoeld in [artikel 38 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) kan worden bepaald dat door middel van de gemeenschappelijke voorziening politie ondersteunende en specialistische diensten aan de politiekorpsen van de landen ter beschikking worden gesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 De directeur van de gemeenschappelijke voorziening politie
 
@@ -258,7 +285,7 @@ De directeur van de gemeenschappelijke voorziening politie
 
 - b. draagt zorg voor de uitrusting met inachtneming van de op grond van [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=42&z=2010-10-10&g=2010-10-10) gestelde regels.
 
-#### Artikel 28
+##### Artikel 28
 
 Op de behandeling van klachten over gedragingen van ambtenaren die beschikbaar worden gesteld door middel van de gemeenschappelijke voorziening politie zijn de regels, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=43&z=2010-10-10&g=2010-10-10), van het land van het korps waaraan ze beschikbaar worden gesteld van toepassing, met dien verstande dat:
 
@@ -268,7 +295,7 @@ Op de behandeling van klachten over gedragingen van ambtenaren die beschikbaar w
 
 - c. de directeur van de gemeenschappelijke voorziening politie in de gelegenheid wordt gesteld om over de klacht advies uit te brengen aan degene die bevoegd is op de klacht te beslissen en een afschrift ontvangt van de beslissing op de klacht.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De directeur van de gemeenschappelijke voorziening politie wordt benoemd, bevorderd, geschorst en ontslagen bij besluit van Onze Ministers, gehoord de procureur-generaal en de korpschefs.
 
@@ -282,7 +309,7 @@ Op de behandeling van klachten over gedragingen van ambtenaren die beschikbaar w
 
 6. Onze Ministers maken afspraken over de uitzend- en detacheringsvoorwaarden van ambtenaren van politie die beschikbaar worden gesteld aan de gemeenschappelijke voorziening politie.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De procureur-generaal, de hoofdofficieren van justitie, de korpschefs van Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba en de directeur van de gemeenschappelijke voorziening politie voeren ten minste een keer per twee maanden overleg over de bestrijding van de grensoverschrijdende criminaliteit en van de misdrijven, die gezien de ernst of frequentie dan wel het georganiseerd verband waarin ze worden gepleegd een ernstige inbreuk op de rechtsorde maken.
 
@@ -290,11 +317,11 @@ Op de behandeling van klachten over gedragingen van ambtenaren die beschikbaar w
 
 #### § 2. Het beheer van de gemeenschappelijke voorziening politie
 
-#### Artikel 31
+##### Artikel 31
 
 Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de gemeenschappelijke voorziening politie en kunnen terzake de nodige aanwijzingen geven aan de directeur van de gemeenschappelijke voorziening politie.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De directeur van de gemeenschappelijke voorziening politie stelt voor 15 maart van het aan het begrotingsjaar voorafgaande jaar een ontwerpjaarplan met een daarbij behorende ontwerpbegroting op na overleg met de korpschefs en de hoofdofficieren van justitie en in overeenstemming met de procureur-generaal. De ontwerpbegroting gaat vergezeld van een meerjarenraming voor ten minste vier op het begrotingsjaar volgende jaren. Hij zendt de ontwerpbegroting en het ontwerpjaarplan toe aan Onze Ministers.
 
@@ -316,7 +343,7 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 5. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, in overeenstemming met Onze Minister van Justitie van Nederland, draagt er voor zorg dat de ontwerpbegroting na onderlinge overeenstemming daarover van Onze Ministers ter vaststelling wordt ingediend bij de raad van ministers van het Koninkrijk. Bij de ontwerpbegroting wordt het ontwerpjaarplan gevoegd.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De raad van ministers van het Koninkrijk stelt de begroting van de gemeenschappelijke voorziening politie vast.
 
@@ -324,13 +351,13 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 3. De landen dragen gezamenlijk ieder ten laste van de eigen begroting de financiële middelen bij ten behoeve van de gemeenschappelijke voorziening politie overeenkomstig de besluitvorming in de raad van ministers van het Koninkrijk.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De procureur-generaal ziet toe op de uitvoering van het jaarplan van de gemeenschappelijke voorziening politie, voor zover dat betrekking heeft op de strafrechtelijke handhaving van de rechtsorde.
 
 2. Onze Ministers zien toe op de uitvoering van de overige delen van het jaarplan en op het in acht nemen van de begroting.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De directeur van de gemeenschappelijke voorziening politie dient jaarlijks voor 1 april bij Onze Ministers een jaarverslag in over de gemeenschappelijke voorziening politie. Het jaarverslag bevat een verantwoording over de activiteiten, de doelstellingen en de prestatieafspraken zoals neergelegd in het jaarplan. Het jaarverslag bevat tevens de jaarrekening met bijbehorende begroting en overige financiële gegevens van het daaraan voorafgaande jaar.
 
@@ -342,19 +369,19 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 #### § 3. Samenwerking tussen de korpsen en bijstand
 
-#### Artikel 36
+##### Artikel 36
 
 1. De korpschefs van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba voeren regelmatig overleg.
 
 2. Ten minste vier keer per jaar neemt de directeur van de gemeenschappelijke voorziening politie op uitnodiging van de korpschefs deel aan dit overleg.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten, Onze Minister van Justitie van Nederland en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voeren regelmatig overleg over de politie.
 
 2. Onze Ministers maken na overleg met de korpschefs afspraken over samenwerking tussen de korpsen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien een politiekorps bijstand behoeft voor de handhaving van de openbare orde en het verlenen van hulp aan hen die deze behoeven, richt Onze Minister van Justitie van Curaçao, Onze Minister van Justitie van Sint Maarten respectievelijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties op aanvraag van de gezaghebber, na overleg met de korpschef, een verzoek daartoe aan het bevoegd gezag van het politiekorps van een van de andere landen, dat daarop beslist.
 
@@ -384,7 +411,7 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 8. Onze Ministers maken afspraken over de vergoeding van de kosten van onderlinge bijstand.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Politiegegevens worden indien dat noodzakelijk is voor een goede uitoefening van de politietaken en met inachtneming van de daarvoor geldende voorschriften uitgewisseld tussen de politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
@@ -396,29 +423,29 @@ Onze Ministers oefenen wat het beheer betreft, het bevoegde gezag uit over de ge
 
 5. Dit lid is nog niet in werking getreden.
 
-#### Artikel 40
+##### Artikel 40
 
 De landen voorzien gezamenlijk in politieonderwijs.
 
 ### Hoofdstuk 6. Kwaliteitszorg en rechtspositie
 
-#### Artikel 41
+##### Artikel 41
 
 1. De landen treffen onderling een regeling die kwaliteitscriteria en opleidings- en trainingsvereisten voor ambtenaren van politie bevat. Deze kwaliteitscriteria en opleidings- en trainingsvereisten worden in elk van de landen vastgesteld bij landsbesluit, houdende algemene maatregelen, respectievelijk algemene maatregel van bestuur.
 
 2. Elk van de landen kan bij of krachtens landsbesluit, houdende algemene maatregelen respectievelijk bij of krachtens algemene maatregel van bestuur aanvullende kwaliteitscriteria en opleidings- en trainingsvereisten stellen voor de ambtenaren van politie van het politiekorps.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De landen treffen onderling een regeling houdende regels voor de uitrusting van ambtenaren van politie. Deze regels worden in elk van de landen vastgesteld bij landsbesluit, houdende algemene maatregelen, of algemene maatregel van bestuur.
 
 2. Elk van de landen kan bij of krachtens landsbesluit, houdende algemene maatregelen, of bij of krachtens algemene maatregel van bestuur aanvullende regels over de uitrusting van ambtenaren van politie van het politiekorps stellen.
 
-#### Artikel 43
+##### Artikel 43
 
 Bij of krachtens landsverordening of bij of krachtens wet stellen de landen regels voor de behandeling van klachten over gedragingen van ambtenaren van politie van het politiekorps en van buitengewone agenten van politie.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De korpschefs van het politiekorps van Curaçao en van het politiekorps van Sint Maarten worden benoemd, geschorst en ontslagen bij landbesluit op voordracht van Onze Minister van Justitie van Curaçao respectievelijk Onze Minister van Justitie van Sint Maarten, gehoord de procureur-generaal.
 
@@ -426,7 +453,7 @@ Bij of krachtens landsverordening of bij of krachtens wet stellen de landen rege
 
 3. De functie van korpschef wordt aangemerkt als een vertrouwensfunctie als bedoeld in de wettelijke regeling inzake vertrouwensfuncties en veiligheidsonderzoeken van het land van aanstelling.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij landsverordening of wet wijzen de landen het gezag aan dat bevoegd is tot aanstelling, bevordering, schorsing en ontslag van ambtenaren van politie.
 
@@ -454,7 +481,7 @@ Bij of krachtens landsverordening of bij of krachtens wet stellen de landen rege
 
 - g. gebruik van publieke voorzieningen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De landen treffen onderling een regeling houdende een limitatieve opsomming van de hoofdrangen voor de politie. Deze hoofdrangen worden in elk van de landen vastgesteld bij landsbesluit, houdende algemene maatregelen, respectievelijk algemene maatregel van bestuur.
 
@@ -462,7 +489,7 @@ Bij of krachtens landsverordening of bij of krachtens wet stellen de landen rege
 
 ### Hoofdstuk 7. Het beheer van de politie
 
-#### Artikel 47
+##### Artikel 47
 
 1. Onze Minister van Justitie van Curaçao oefent wat het beheer betreft, het bevoegde gezag uit over het politiekorps van Curaçao en kan terzake de nodige aanwijzingen geven aan de korpschef van dit politiekorps.
 
@@ -470,7 +497,7 @@ Bij of krachtens landsverordening of bij of krachtens wet stellen de landen rege
 
 3. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties oefent wat het beheer betreft, het bevoegde gezag uit over het politiekorps van Bonaire, Sint Eustatius en Saba en kan terzake de nodige aanwijzingen geven aan de korpschef van dit politiekorps.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De korpschef stelt jaarlijks in overeenstemming met de procureur-generaal en met inachtneming van de aanwijzingen van de korpsbeheerder een ontwerpjaarplan voor het politiekorps op met een daarbij behorende ontwerpbegroting.
 
@@ -482,11 +509,11 @@ Bij of krachtens landsverordening of bij of krachtens wet stellen de landen rege
 
 5. De korpsbeheerder overlegt regelmatig met de procureur-generaal en de korpschef over het beheer van de politie.
 
-#### Artikel 49
+##### Artikel 49
 
 Onze Minister stelt de minimale sterkte van de politie van zijn land vast overeenkomstig de bij algemene maatregel van rijksbestuur in de zin van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38) vastgestelde methode.
 
-#### Artikel 50
+##### Artikel 50
 
 1. De korpsbeheerder draagt zorg voor de kwaliteit van de taakuitoefening, de resultaten en het beheer van het politiekorps.
 
@@ -494,7 +521,7 @@ Onze Minister stelt de minimale sterkte van de politie van zijn land vast overee
 
 3. De landen treffen onderling een regeling houdende regels voor de kwaliteitszorg en de evaluatie daarvan.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij of krachtens landsverordening kunnen nadere regels worden gesteld over het financieel beheer, de financiële verantwoording en verslaglegging van het politiekorps van Curaçao respectievelijk het politiekorps van Sint Maarten.
 
@@ -502,15 +529,15 @@ Onze Minister stelt de minimale sterkte van de politie van zijn land vast overee
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 Indien de samenwerking, vastgelegd bij of krachtens deze rijkswet, niet of onvoldoende tot stand komt, kan vanwege het Koninkrijk, gehoord de betrokken landen, bij algemene maatregel van rijksbestuur een voorziening worden getroffen overeenkomstig [artikel 51 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=51).
 
-#### Artikel 53
+##### Artikel 53
 
 Elk van de landen draagt ervoor zorg dat de landsbesluiten, houdende algemene maatregelen en de algemene maatregelen van bestuur die het land treft op grond van [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=10&z=2010-10-10&g=2010-10-10), [artikel 14, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=3&artikel=14&z=2010-10-10&g=2010-10-10), [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=41&z=2010-10-10&g=2010-10-10), [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=42&z=2010-10-10&g=2010-10-10), artikel en [46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=46&z=2010-10-10&g=2010-10-10), in werking treden op het tijdstip van inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II).
 
-#### Artikel 54
+##### Artikel 54
 
 1. Voor Nederland, voor zover het Bonaire, Sint Eustatius en Saba betreft, wordt de voordracht van de algemene maatregel van bestuur, bedoeld in:
 
@@ -524,21 +551,21 @@ Elk van de landen draagt ervoor zorg dat de landsbesluiten, houdende algemene ma
 
 2. Voor zover de algemene maatregel van bestuur, bedoeld in [artikel 41, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=6&artikel=41&z=2010-10-10&g=2010-10-10), mede betrekking heeft op specifieke vaardigheid of kennis in verband met de werkzaamheden ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de taken ten dienste van de justitie, vindt de voordracht plaats door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Justitie van Nederland.
 
-#### Artikel 55
+##### Artikel 55
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze rijkswet aan de vertegenwoordigende lichamen van Sint Maarten en Curaçao en de Staten-Generaal een evaluatieverslag over de doeltreffendheid en de effecten van deze rijkswet in de praktijk. Voorafgaande aan de evaluatie zullen de landen gezamenlijk de criteria, de thema’s alsmede de samenstelling van de evaluatiecommissie vaststellen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Deze rijkswet kan in onderling overleg worden gewijzigd bij rijkswet op grond van [artikel 38, tweede lid, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38).
 
 2. Naar aanleiding van de evaluatie, bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=8&artikel=55&z=2010-10-10&g=2010-10-10), kan deze rijkswet in onderlinge overeenstemming worden beëindigd.
 
-#### Artikel 57
+##### Artikel 57
 
 Totdat het [vierde respectievelijk vijfde lid van artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=3&artikel=39&z=2010-10-10&g=2010-10-10) in werking is getreden worden politiegegevens met inachtneming van de daarvoor geldende voorschriften uitgewisseld tussen de politie van het Europese deel van het Koninkrijk en de politie van Curaçao respectievelijk de politie van Sint Maarten op grond van een daartoe tussen de landen getroffen onderlinge regeling.
 
-#### Artikel 57a
+##### Artikel 57a
 
 1. In de landen is het protocol inzake gespecialiseerde recherchesamenwerking tussen de landen van het Koninkrijk van 30 november 2001 van overeenkomstige toepassing, met dien verstande dat:
 
@@ -558,7 +585,7 @@ Totdat het [vierde respectievelijk vijfde lid van artikel 39](https://wetten.ove
 
 7. De [artikelen 8, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=2&artikel=8&z=2010-10-10&g=2010-10-10), [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=20&z=2010-10-10&g=2010-10-10), en [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=1&artikel=30&z=2010-10-10&g=2010-10-10) blijven buiten toepassing.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Deze rijkswet treedt in werking op het tijdstip waarop de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) en [II van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=II) in werking treedt, met uitzondering van [artikel 39, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=5&paragraaf=3&artikel=39&z=2010-10-10&g=2010-10-10).
 
@@ -566,7 +593,7 @@ Totdat het [vierde respectievelijk vijfde lid van artikel 39](https://wetten.ove
 
 3. [Artikel 57a](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&hoofdstuk=8&artikel=57a&z=2010-10-10&g=2010-10-10) vervalt op een bij koninklijk besluit te bepalen tijdstip. De voordracht voor het koninklijk besluit wordt niet eerder gedaan dan acht weken nadat het ontwerp aan beide kamers der Staten-Generaal, de Staten van Curaçao en de Staten van Sint Maarten is overgelegd.
 
-#### Artikel 59
+##### Artikel 59
 
 Deze rijkswet wordt aangehaald als: Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 

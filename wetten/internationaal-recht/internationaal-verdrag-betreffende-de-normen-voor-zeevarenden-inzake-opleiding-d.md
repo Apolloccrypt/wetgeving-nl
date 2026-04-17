@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978"
 identifier: "BWBV0003452"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003452"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003452"
+soort: "verdrag"
+stam_id: "10003542553"
+version_id: "10003594362"
+internal_id: "C10006981011"
+label_id: "10003529084"
+dtd_version: "2.0"
+original_entry_into_force: "1985-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003452/2025-01-01/0"
+intitule_bron: "Trb.1981-144"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-07-03"
+intitule_in_force: "1985-08-02"
+intitule_status: "goed"
+original_publication: "Trb.1981-144"
+original_published_date: "1981-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-144"
+entry_into_force_date: "1985-10-26"
+jci_1_3: "jci1.3:c:BWBV0003452&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBV0003452&g=2025-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-10-26"
 ---
-
 # Internationaal Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, 1978
 
 De Partijen bij dit Verdrag,
@@ -18,13 +40,13 @@ Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Int
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Algemene verplichtingen krachtens het Verdrag
+##### Artikel I. Algemene verplichtingen krachtens het Verdrag
 
 1. De Partijen verbinden zich uitvoering te geven aan de bepalingen van dit Verdrag en van de Bijlage daarbij, die een integrerend deel vormt van dit Verdrag. Elke verwijzing naar dit Verdrag houdt tezelfdertijd een verwijzing naar de Bijlage in.
 
 2. De Partijen verbinden zich alle wetten, besluiten, beschikkingen en voorschriften uit te vaardigen en alle andere maatregelen te nemen, die nodig zijn voor de volledige tenuitvoerlegging van dit Verdrag, ten einde te verzekeren dat, uit het oogpunt van de beveiliging van mensenlevens en eigendommen op zee en van de bescherming van het mariene milieu, de zeevarenden aan boord van een schip wat hun vakbekwaamheid en lichamelijke conditie betreft geschikt zijn om hun taak te vervullen.
 
-#### Artikel II. Begripsomschrijvingen
+##### Artikel II. Begripsomschrijvingen
 
 Bij de toepassing van het Verdrag gelden, tenzij uitdrukkelijk anders is bepaald, de volgende begripsomschrijvingen:
 
@@ -46,7 +68,7 @@ Bij de toepassing van het Verdrag gelden, tenzij uitdrukkelijk anders is bepaald
 
 - (i). ‘Radioreglement’ betekent het Radioreglement, behorende bij of beschouwd als te behoren bij het laatste Internationaal Verdrag betreffende de Telecommunicatie, dat op een bepaald ogenblik van kracht is.
 
-#### Artikel III. Toepassing
+##### Artikel III. Toepassing
 
 Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeeschepen die zijn gerechtigd tot het voeren van de vlag van een Partij, met uitzondering van zeevarenden, dienst doende aan boord van:
 
@@ -58,7 +80,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 - (d). houten schepen van primitieve bouw.
 
-#### Artikel IV. Toezending van gegevens
+##### Artikel IV. Toezending van gegevens
 
 1. De Partijen zenden zo spoedig mogelijk aan de Secretaris-Generaal toe:
 
@@ -70,7 +92,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 2. De Secretaris-Generaal stelt alle Partijen in kennis van de ontvangst van de gegevens op grond van het eerste lid, letter (a); tevens draagt hij er zorg voor dat aan hen onder meer voor de toepassing van de [artikelen IX](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=IX&z=2025-01-01&g=2025-01-01) en [X](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=X&z=2025-01-01&g=2025-01-01) op verzoek de hem krachtens het eerste lid, letters (b) en (c), toegezonden gegevens worden verstrekt.
 
-#### Artikel V. Andere verdragen en interpretatie
+##### Artikel V. Andere verdragen en interpretatie
 
 1. Alle voorgaande verdragen, overeenkomsten en regelingen, betrekking hebbende op de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, die tussen de Partijen van kracht zijn, blijven gedurende de hiervoor vastgestelde tijd volledig van kracht, voor zover het betreft:
 
@@ -84,13 +106,13 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 4. Geen enkele bepaling van het Verdrag maakt inbreuk op de codificatie en de ontwikkeling van het zeerecht door de Conferentie van de Verenigde Naties inzake het zeerecht, bijeengeroepen krachtens Resolutie 2750 C (XXV) van de Algemene Vergadering van de Verenigde Naties, noch op de huidige of toekomstige aanspraken en juridische inzichten van enige Staat met betrekking tot het zeerecht en de aard en omvang van de rechtsbevoegdheid van de kuststaat en de Staat waarvan de vlag wordt gevoerd.
 
-#### Artikel VI. Diploma ’s
+##### Artikel VI. Diploma ’s
 
 1. Aan de kandidaten die, ter beoordeling van de Administratie, voldoen aan de vereisten wat betreft diensttijd, leeftijd, lichamelijke geschiktheid uit medisch oogpunt, opleiding, bekwaamheid en examens overeenkomstig de desbetreffende bepalingen van de Bijlage bij het Verdrag, worden diploma’s voor kapiteins, scheepsofficieren en scheepsgezellen afgegeven.
 
 2. Bij in overeenstemming met dit artikel afgegeven diploma’s voor kapiteins en scheepsofficieren wordt door de Regering die het diploma afgeeft een officiële verklaring afgegeven als bepaald in [Voorschrift I/2 van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/2&z=2025-01-01&g=2025-01-01). Wanneer niet de Engelse taal wordt gebruikt, dient de officiële verklaring een vertaling in die taal te bevatten.
 
-#### Artikel VII. Overgangsbepalingen
+##### Artikel VII. Overgangsbepalingen
 
 1. Een diploma betreffende bekwaamheid of diensttijd in een bepaalde hoedanigheid, waarvoor het Verdrag een diploma eist, dat vóór de inwerkingtreding van het Verdrag voor een Partij is afgegeven overeenkomstig de wetten van die Partij of het Radioreglement, wordt als geldig erkend voor het dienst doen in die hoedanigheid na de inwerkingtreding van het Verdrag voor die Partij.
 
@@ -106,7 +128,7 @@ Het Verdrag is van toepassing op zeevarenden, dienst doende aan boord van zeesch
 
 Voor de toepassing van dit Verdrag wordt een volgens dit lid afgegeven diploma betreffende diensttijd beschouwd als gelijkwaardig aan een volgens het Verdrag afgegeven diploma.
 
-#### Artikel VIII. Dispensaties
+##### Artikel VIII. Dispensaties
 
 1. In buitengewoon dringende omstandigheden kunnen Administraties, indien dit naar hun oordeel geen gevaar oplevert voor personen, goederen of het milieu, dispensatie verlenen waardoor aan een bepaalde zeevarende wordt toegestaan gedurende een bepaalde periode van ten hoogste zes maanden op een bepaald schip dienst te doen in een hoedanigheid waarvoor hij niet het vereiste diploma bezit - maar niet in de hoedanigheid van radio-officier of radiotelefonist, behalve zoals is bepaald in de desbetreffende bepalingen van het Radioreglement - mits degene aan wie dispensatie wordt verleend voldoende bekwaam is om de onbezette functie op een verantwoorde wijze te vervullen, zulks ter beoordeling van de Administratie. Niettemin worden geen dispensaties verleend aan kapiteins of hoofdscheepswerktuigkundigen, behalve in geval van overmacht en dan nog slechts voor de kortst mogelijke tijd.
 
@@ -114,13 +136,13 @@ Voor de toepassing van dit Verdrag wordt een volgens dit lid afgegeven diploma b
 
 3. De Partijen zenden zo spoedig mogelijk na 1 januari van ieder jaar een verslag aan de Secretaris-Generaal, dat gegevens bevat over het totale aantal dispensaties met betrekking tot iedere hoedanigheid waarvoor een diploma is vereist, dat tijdens dat jaar aan zeeschepen is afgegeven, te zamen met gegevens ten aanzien van de aantallen van die schepen, en wel enerzijds van schepen van meer en anderzijds van schepen van minder dan 1600 brutoregisterton.
 
-#### Artikel IX. Gelijkwaardige voorzieningen
+##### Artikel IX. Gelijkwaardige voorzieningen
 
 1. Het Verdrag belet een Administratie niet andere regelingen inzake theoretische en praktische opleiding te handhaven of in te voeren, daarbij inbegrepen regelingen inzake de dienst buitengaats en inzake de organisatie aan boord van het schip, die in het bijzonder zijn aangepast aan technische ontwikkelingen en aan bijzondere typen schepen of een bijzonder soort vaart, mits het niveau van de dienst buitengaats en van de kennis van en de geschiktheid voor de nautische en technische behandeling van het schip en de lading een mate van veiligheid op zee verzekert en een preventief effect ten aanzien van vervuiling heeft, die ten minste gelijkwaardig zijn aan de eisen van het Verdrag.
 
 2. De bijzonderheden van dergelijke regelingen worden zo spoedig mogelijk aan de Secretaris-Generaal medegedeeld, die deze bijzonderheden aan alle Partijen toezendt.
 
-#### Artikel X. Controle
+##### Artikel X. Controle
 
 1. Schepen, met uitsluiting van die welke in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=III&z=2025-01-01&g=2025-01-01) worden uitgezonderd, zijn tijdens hun verblijf in de havens van een Partij onderworpen aan controle door functionarissen, door die Partij behoorlijk gemachtigd om erop toe te zien dat alle aan boord dienst doende zeevarenden die volgens het Verdrag gediplomeerd dienen te zijn de desbetreffende diploma’s bezitten, dan wel in het bezit zijn van een passende dispensatie. Dergelijke diploma’s moeten worden aanvaard, tenzij er duidelijke redenen zijn om aan te nemen dat een diploma door middel van bedrog is verkregen of dat de houder van een diploma niet degene is aan wie dat diploma oorspronkelijk was afgegeven.
 
@@ -132,7 +154,7 @@ Voor de toepassing van dit Verdrag wordt een volgens dit lid afgegeven diploma b
 
 5. Dit artikel dient op zodanige wijze te worden toegepast als noodzakelijk is om te verzekeren dat aan schepen die gerechtigd zijn de vlag te voeren van een Staat die geen Partij is, niet een gunstiger behandeling wordt gegeven dan een schip dat gerechtigd is de vlag te voeren van een Staat die Partij is.
 
-#### Artikel XI. Bevordering van technische samenwerking
+##### Artikel XI. Bevordering van technische samenwerking
 
 1. De Partijen bij het Verdrag bevorderen, in overleg met en met bijstand van de Organisatie, steunverlening aan de Partijen die om technische bijstand verzoeken inzake:
 
@@ -150,7 +172,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 2. De Organisatie streeft van haar kant op de meest passende wijze de bovenstaande doelstellingen na, in overleg of samenwerking met andere internationale organisaties, met name de Internationale Arbeidsorganisatie.
 
-#### Artikel XII. Wijzigingen
+##### Artikel XII. Wijzigingen
 
 1. Het Verdrag kan worden gewijzigd door middel van een van de twee volgende procedures:
 
@@ -190,7 +212,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 3. De Secretaris-Generaal doet alle Partijen mededeling van wijzigingen die in werking treden, alsmede van de datum waarop elke wijziging in werking treedt.
 
-#### Artikel XIII. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel XIII. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Het Verdrag blijft open voor ondertekening op de zetel van de Organisatie van 1 december 1978 tot 30 november 1979 en blijft daarna open voor toetreding. Elke Staat kan partij worden door:
 
@@ -204,7 +226,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 3. De Secretaris-Generaal doet alle Staten die het Verdrag hebben ondertekend of daartoe zijn toegetreden, alsmede de Directeur-Generaal van het Internationale Arbeidsbureau, mededeling van iedere ondertekening of van de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, en van de datum van de nederlegging daarvan.
 
-#### Artikel XIV. Inwerkingtreding
+##### Artikel XIV. Inwerkingtreding
 
 1. Het Verdrag treedt in werking twaalf maanden na de datum waarop niet minder dan vijfentwintig Staten, waarvan de gezamenlijke koopvaardijvloten niet minder uitmaken dan vijftig procent van de brutotonnage van de wereldhandelsvloot, voor zover bestaande uit schepen met een bruto-inhoud van 100 brutoregisterton of meer, hetzij het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, hetzij de vereiste akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd in overeenstemming met [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XIII&z=2025-01-01&g=2025-01-01).
 
@@ -216,7 +238,7 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 5. Na de datum waarop een wijziging wordt geacht te zijn aanvaard krachtens [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=XII&z=2025-01-01&g=2025-01-01), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op het gewijzigde Verdrag.
 
-#### Artikel XV. Opzegging
+##### Artikel XV. Opzegging
 
 1. Een Partij kan dit Verdrag na vijf jaar, te rekenen vanaf de datum waarop het voor die Partij in werking is getreden, op elk tijdstip opzeggen.
 
@@ -224,19 +246,19 @@ bij voorkeur op nationale, subregionale of regionale basis, ten einde de doelste
 
 3. Een opzegging wordt van kracht twaalf maanden na ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal of na een langere periode als is aangegeven in de kennisgeving.
 
-#### Artikel XVI. Nederlegging en registratie
+##### Artikel XVI. Nederlegging en registratie
 
 1. Het Verdrag wordt nedergelegd bij de Secretaris-Generaal die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten die het hebben ondertekend of ertoe zijn toegetreden.
 
 2. Zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst aan de Secretaris-Generaal van de Verenigde Naties voor registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel XVII. Talen
+##### Artikel XVII. Talen
 
 Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek. Er zullen officiële vertalingen worden vervaardigd in de Arabische en de Duitse taal, welke vertalingen worden nedergelegd bij het ondertekende origineel.
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Voorschrift I/1. Begripsomschrijvingen en uitleg
+##### Voorschrift I/1. Begripsomschrijvingen en uitleg
 
 1. Tenzij uitdrukkelijk anders is bepaald, wordt bij de toepassing van het Verdrag verstaan onder:
 
@@ -342,7 +364,7 @@ Het Verdrag is opgesteld in één enkel exemplaar in de Chinese, de Engelse, de 
 
 3. De verwijzingen in [artikel VI van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=VI&z=2025-01-01&g=2025-01-01) naar “de Administratie” en “de Administratie die het bewijs afgeeft” mogen niet zodanig worden uitgelegd dat zij een Partij beletten bewijzen af te geven of deze van officiële verklaringen te voorzien volgens de bepalingen van deze voorschriften.
 
-#### Voorschrift I/2. Bewijzen en officiële verklaringen
+##### Voorschrift I/2. Bewijzen en officiële verklaringen
 
 1. Vaarbevoegdheidsbewijzen worden uitsluitend afgegeven door de Administratie na controle van de echtheid en geldigheid van de benodigde schriftelijke bewijzen.
 
@@ -404,7 +426,7 @@ De officiële verklaring mag uitsluitend worden afgegeven indien aan alle vereis
 
 16. Met ingang van 1 januari 2017 wordt de informatie over de status van gegevens die in overeenstemming met lid 15 van dit voorschrift beschikbaar dienen te zijn, langs elektronische weg beschikbaar gesteld in de Engelse taal.
 
-#### Voorschrift I/3. Beginselen inzake reizen nabij de kust
+##### Voorschrift I/3. Beginselen inzake reizen nabij de kust
 
 1. De Partijen stellen bij de omschrijving van reizen nabij de kust voor de toepassing van het Verdrag aan de zeevarenden die dienst doen aan boord van de schepen die gerechtigd zijn de vlag te voeren van een andere Partij, en dienst doen tijdens dergelijke reizen, geen eisen wat opleiding, ervaring of diplomering betreft, op een wijze die leidt tot strengere eisen voor die zeevarenden dan voor de zeevarenden die dienst doen aan boord van schepen die gerechtigd zijn haar eigen vlag te voeren. In geen geval stellen deze Partijen eisen aan zeevarenden die dienst doen aan boord van schepen die gerechtigd zijn de vlag te voeren van een andere Partij die strenger zijn dan die van het Verdrag met betrekking tot schepen die niet voor reizen nabij de kust worden gebruikt.
 
@@ -426,7 +448,7 @@ De officiële verklaring mag uitsluitend worden afgegeven indien aan alle vereis
 
 7. Geen enkele bepaling van dit voorschrift beperkt op enigerlei wijze de rechtsbevoegdheid van de Staten, ongeacht of deze al dan niet Partij zijn bij het Verdrag.
 
-#### Voorschrift I/4. Controleprocedures
+##### Voorschrift I/4. Controleprocedures
 
 1. De controle uitgevoerd door een bevoegde functionaris krachtens [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=X&z=2025-01-01&g=2025-01-01) is beperkt tot:
 
@@ -458,7 +480,7 @@ De officiële verklaring mag uitsluitend worden afgegeven indien aan alle vereis
 
 3. Het niet herstellen van de tekortkomingen bedoeld in lid 2 voor zover de Partij die de controle uitvoert heeft vastgesteld dat zij een gevaar vormen voor personen, zaken of het milieu, vormt de enige grond krachtens [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=X&z=2025-01-01&g=2025-01-01) waarop een Partij een schip kan aanhouden.
 
-#### Voorschrift I/5. Nationale bepalingen
+##### Voorschrift I/5. Nationale bepalingen
 
 1. Elke Partij stelt werkwijzen en procedures vast voor het onpartijdig onderzoek naar elk gerapporteerd geval van onbekwaamheid, handelen, nalaten of het in gevaar brengen van de beveiliging dat een directe bedreiging kan vormen voor de veiligheid van mensenlevens of zaken op zee of voor het mariene milieu door houders van vaarbevoegdheidsbewijzen of van officiële verklaringen afgegeven door die Partij met betrekking tot de vervulling van hun taken zoals in hun bewijzen omschreven, en voor het intrekken, tijdelijk intrekken en ongeldig verklaren van deze bewijzen op dergelijke gronden en ter voorkoming van fraude.
 
@@ -476,7 +498,7 @@ De officiële verklaring mag uitsluitend worden afgegeven indien aan alle vereis
 
 5. Een Partij binnen wier rechtsgebied zich een maatschappij of persoon bevindt waarvan of van wie mag worden aangenomen dat deze verantwoordelijk is voor of kennis draagt van een kennelijk geval van niet-nakomen van het Verdrag zoals bepaald in lid 4, dient alle mogelijke medewerking te verlenen aan een Partij die haar op de hoogte stelt van haar voornemen uit hoofde van haar rechtsbevoegdheid gerechtelijke stappen te ondernemen.
 
-#### Voorschrift I/6. Opleiding en beoordeling
+##### Voorschrift I/6. Opleiding en beoordeling
 
 Elke Partij waarborgt dat:
 
@@ -484,7 +506,7 @@ Elke Partij waarborgt dat:
 
 - .2. degenen die verantwoordelijk zijn voor de opleiding en beoordeling van de bekwaamheid van zeevarenden, zoals vereist volgens het Verdrag, bevoegdheden bezitten in overeenstemming met de bepalingen van sectie A-I/6 van de STCW-Code, die passen bij de aard en het niveau van de desbetreffende opleiding of beoordeling.
 
-#### Voorschrift I/7. Toezending van informatie
+##### Voorschrift I/7. Toezending van informatie
 
 1. Behalve de informatie die uit hoofde van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=IV&z=2025-01-01&g=2025-01-01) dient te worden verzonden, doet elke Partij de Secretaris-Generaal binnen de voorgeschreven termijnen en op de wijze beschreven in sectie A-I/7 van de STCW-Code, de overige informatie over andere genomen maatregelen toekomen die volgens de Code vereist kan zijn voor de volledige uitvoering van het Verdrag.
 
@@ -500,7 +522,7 @@ Elke Partij waarborgt dat:
 
 4. Op wijzigingen van het Verdrag en de STCW-Code die later in werking treden dan de datum waarop de informatie in overeenstemming met de bepalingen van lid 1 is of zal worden verzonden aan de Secretaris-Generaal, zijn de bepalingen van sectie A-I/7, eerste en tweede punt, niet van toepassing.
 
-#### Voorschrift I/8. Kwaliteitsnormen
+##### Voorschrift I/8. Kwaliteitsnormen
 
 1. Elke Partij waarborgt dat:
 
@@ -512,7 +534,7 @@ Elke Partij waarborgt dat:
 
 3. Een verslag met de resultaten van de op grond van lid 2 vereiste evaluatie wordt op de wijze omschreven in sectie A-I/7 van de STCW-Code verzonden aan de Secretaris-Generaal.
 
-#### Voorschrift I/9. Medische normen
+##### Voorschrift I/9. Medische normen
 
 1. Elke Partij stelt normen vast voor de medische geschiktheid van zeevarenden en procedures voor de afgifte van een medische verklaring in overeenstemming met de bepalingen van dit voorschrift en van sectie A-I/9 van de STCW-Code.
 
@@ -538,7 +560,7 @@ Elke Partij waarborgt dat:
 
 - .2. de betrokken zeevarende in het bezit is van een verlopen medische verklaring van recente datum.
 
-#### Voorschrift I/10. Erkenning van bewijzen
+##### Voorschrift I/10. Erkenning van bewijzen
 
 1. Elke Administratie waarborgt dat de bepalingen van dit voorschrift in acht worden genomen bij de erkenning, door middel van een officiële verklaring in overeenstemming met [voorschrift I/2, lid 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/2&z=2025-01-01&g=2025-01-01), van een door of op gezag van een andere Partij afgegeven bewijs aan een kapitein, officier of radio-operator en dat:
 
@@ -556,7 +578,7 @@ Elke Partij waarborgt dat:
 
 6. Uit hoofde van de bepalingen van dit voorschrift door een Administratie afgegeven bewijzen ter erkenning van en officiële verklaringen ter bevestiging van de erkenning van een door een andere Partij afgegeven bewijs mogen niet worden gebruikt als basis voor verdere erkenning door een andere Administratie.
 
-#### Voorschrift I/11. Verlenging van de geldigheid van bewijzen
+##### Voorschrift I/11. Verlenging van de geldigheid van bewijzen
 
 1. Elke kapitein, officier en radio-operator die beschikt over een bewijs afgegeven of erkend krachtens een hoofdstuk van het Verdrag anders dan [voorschrift V/3](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=V&artikel=V/3&z=2025-01-01&g=2025-01-01) of [hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=VI&z=2025-01-01&g=2025-01-01), die buitengaats dienst doet of na een periode aan de wal voornemens is terug te keren naar zee, dient teneinde zijn bevoegdheid om dienst op zee te doen te behouden met tussenpozen van ten hoogste vijf jaar:
 
@@ -576,7 +598,7 @@ Elke Partij waarborgt dat:
 
 7. Ten behoeve van de bijscholing van kapiteins, officieren en radio-operators waarborgt elke Administratie dat de teksten van recente wijzigingen van nationale en internationale voorschriften inzake de veiligheid van mensenlevens op zee, de beveiliging en de bescherming van het mariene milieu ter beschikking worden gesteld van schepen die gerechtigd zijn haar vlag te voeren.
 
-#### Voorschrift I/12. Gebruik van simulatoren
+##### Voorschrift I/12. Gebruik van simulatoren
 
 1. Aan de functienormen, de overige bepalingen vervat in sectie A-I/12 en andere vereisten ter zake van enig betrokken bewijs zoals voorgeschreven in deel A van de STCW-Code dient te worden voldaan wat betreft:
 
@@ -586,7 +608,7 @@ Elke Partij waarborgt dat:
 
 - .3. elke proeve van voortdurende bekwaamheid met behulp van een simulator, zoals vereist krachtens deel A van de STCW-Code.
 
-#### Voorschrift I/13. Uitvoering van experimenten
+##### Voorschrift I/13. Uitvoering van experimenten
 
 1. Deze voorschriften beletten een Administratie niet schepen, die gerechtigd zijn haar vlag te voeren, toestemming te geven om deel te nemen aan experimenten.
 
@@ -614,7 +636,7 @@ Elke Partij waarborgt dat:
 
 9. De Maritieme Veiligheidscommissie stelt op verzoek van een Partij een datum vast voor de bestudering van de resultaten van het experiment en voor de desbetreffende besluiten.
 
-#### Voorschrift I/14. Verantwoordelijkheid van maatschappijen
+##### Voorschrift I/14. Verantwoordelijkheid van maatschappijen
 
 1. Elke Administratie stelt in overeenstemming met de bepalingen van sectie A-I/14 maatschappijen verantwoordelijk voor de aanstelling van zeevarenden op hun schepen in overeenstemming met de bepalingen van dit Verdrag en verlangt van elk van deze maatschappijen dat zij waarborgt dat:
 
@@ -632,7 +654,7 @@ Elke Partij waarborgt dat:
 
 - .7. er aan boord van haar schepen te allen tijde doeltreffende mondelinge communicatie mogelijk is in overeenstemming met [hoofdstuk V, voorschrift 14, leden 3 en 4, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&artikel=14) (SOLAS), zoals gewijzigd.
 
-#### Voorschrift I/15. Overgangsbepalingen
+##### Voorschrift I/15. Overgangsbepalingen
 
 1. Tot 1 januari 2017 mag een Partij in overeenstemming met de bepalingen van het Verdrag die onmiddellijk voorafgaande aan 1 januari 2012 van toepassing waren, aan zeevarenden die voor 1 juli 2013 zijn begonnen met hun goedgekeurde dienst buitengaats, een goedgekeurde opleiding of een goedgekeurde training, bewijzen blijven afgeven, erkennen en voorzien van een officiële verklaring.
 
@@ -640,7 +662,7 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK II. KAPITEIN EN DEKDIENST
 
-#### Voorschrift II/1. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de brugwacht op schepen met een brutotonnage van 500 of meer
+##### Voorschrift II/1. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de brugwacht op schepen met een brutotonnage van 500 of meer
 
 1. Iedere officier belast met de brugwacht op een zeeschip met een brutotonnage van 500 of meer dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -658,7 +680,7 @@ Elke Partij waarborgt dat:
 
 - .6. voldoen aan de eisen van bekwaamheid omschreven in sectie A-VI/1, tweede punt, sectie A-VI/2, eerste tot en met vierde punt, sectie A-VI/3, eerste tot en met vierde punt en sectie A-VI/4, eerste tot en met derde punt van de STCW-Code.
 
-#### Voorschrift II/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan kapiteins en eerste stuurlieden van schepen met een brutotonnage van 500 of meer
+##### Voorschrift II/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan kapiteins en eerste stuurlieden van schepen met een brutotonnage van 500 of meer
 
 1. Iedere kapitein en eerste stuurman op een zeeschip met een brutotonnage van 3000 of meer dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -682,7 +704,7 @@ Elke Partij waarborgt dat:
 
 - .3. hebben een goedgekeurde opleiding voltooid en voldoen aan de eisen van bekwaamheid omschreven in sectie A-II/2 van de STCW-Code voor kapiteins en eerste stuurlieden van schepen met een brutotonnage tussen 500 en 3000.
 
-#### Voorschrift II/3. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de brugwacht en aan kapiteins van schepen met een brutotonnage van minder dan 500
+##### Voorschrift II/3. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de brugwacht en aan kapiteins van schepen met een brutotonnage van minder dan 500
 
 1. Iedere officier, belast met de brugwacht, die dienst doet op een zeeschip met een brutotonnage van minder dan 500, dat niet wordt gebruikt voor reizen nabij de kust, dient in het bezit te zijn van een vaarbevoegdheidsbewijs voor schepen met een brutotonnage van 500 of meer.
 
@@ -720,7 +742,7 @@ Elke Partij waarborgt dat:
 
 7. Indien de Administratie van oordeel is dat, gezien de grootte van het schip en de omstandigheden van de reis, volledige toepassing van dit voorschrift en sectie A-II/3 van de STCW-Code onredelijk of onmogelijk is, kan zij de kapitein en de officier belast met de brugwacht op een dergelijk schip of een dergelijke categorie schepen dienovereenkomstig vrijstelling verlenen van enkele vereisten, rekening houdend met de veiligheid van alle schepen die zich in dezelfde wateren kunnen bevinden.
 
-#### Voorschrift II/4. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen die deel uitmaken van de brugwacht
+##### Voorschrift II/4. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen die deel uitmaken van de brugwacht
 
 1. Iedere gezel die deel uitmaakt van de brugwacht op een zeeschip met een brutotonnage van 500 of meer, uitgezonderd gezellen in opleiding en gezellen wier taken op de brug van ongeschoolde aard zijn, dient in het bezit te zijn van een passend bewijs op grond waarvan hij deze taken mag verrichten.
 
@@ -740,7 +762,7 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK III. MACHINEKAMERDIENST
 
-#### Voorschrift III/1. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de machinekamerwacht in een bemande machinekamer of de aangewezen scheepswerktuigkundigen belast met de wacht in een tijdelijk onbemande machinekamer
+##### Voorschrift III/1. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan officieren belast met de machinekamerwacht in een bemande machinekamer of de aangewezen scheepswerktuigkundigen belast met de wacht in een tijdelijk onbemande machinekamer
 
 1. Iedere officier belast met de machinekamerwacht in een bemande machinekamer of een aangewezen scheepswerktuigkundige belast met de wacht in een tijdelijk onbemande machinekamer op een zeeschip met een voortstuwingsvermogen van 750 kW of meer dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -756,7 +778,7 @@ Elke Partij waarborgt dat:
 
 - .5. voldoen aan de eisen van bekwaamheid omschreven in sectie A-VI/1, tweede punt, sectie A-VI/2, eerste tot en met vierde punt, sectie A-VI/3, eerste tot en met vierde punt, en sectie A-VI/4, eerste tot en met derde punt, van de STCW-Code.
 
-#### Voorschrift III/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan hoofdwerktuigkundigen en tweede scheepswerktuigkundigen op schepen met een hoofdvoortstuwingsinstallatie met een vermogen van 3000 kW of meer
+##### Voorschrift III/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan hoofdwerktuigkundigen en tweede scheepswerktuigkundigen op schepen met een hoofdvoortstuwingsinstallatie met een vermogen van 3000 kW of meer
 
 1. Iedere hoofdwerktuigkundige en tweede scheepswerktuigkundige van een zeeschip met een hoofdvoortstuwingsinstallatie met een vermogen van 3000 kW of meer dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -770,7 +792,7 @@ Elke Partij waarborgt dat:
 
 - .2. hebben een goedgekeurde opleiding en training voltooid en voldoen aan de eisen van bekwaamheid omschreven in sectie A-III/2 van de STCW-Code.
 
-#### Voorschrift III/3. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan hoofdwerktuigkundigen en tweede scheepswerktuigkundigen op schepen met een hoofdvoortstuwingsinstallatie met een vermogen tussen 750 kW en 3000 kW
+##### Voorschrift III/3. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan hoofdwerktuigkundigen en tweede scheepswerktuigkundigen op schepen met een hoofdvoortstuwingsinstallatie met een vermogen tussen 750 kW en 3000 kW
 
 1. Iedere hoofdwerktuigkundige en tweede scheepswerktuigkundige van een zeeschip met een hoofdvoortstuwingsinstallatie met een vermogen tussen 750 kW en 3000 kW dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -786,7 +808,7 @@ Elke Partij waarborgt dat:
 
 3. Iedere scheepswerktuigkundige die bevoegd is dienst te doen als tweede scheepswerktuigkundige op schepen met een hoofdvoortstuwingsinstallatie met een vermogen van 3000 kW of meer, kan dienst doen als hoofdwerktuigkundige op schepen met een hoofdvoortstuwingsinstallatie met een vermogen van minder dan 3000 kW, mits dit officieel is aangetekend op het vaarbevoegdheidsbewijs.
 
-#### Voorschrift III/4. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen die deel uitmaken van de machinekamerwacht in een bemande machinekamer of zijn aangewezen om dienst te doen in een tijdelijk onbemande machinekamer
+##### Voorschrift III/4. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen die deel uitmaken van de machinekamerwacht in een bemande machinekamer of zijn aangewezen om dienst te doen in een tijdelijk onbemande machinekamer
 
 1. Iedere gezel die deel uitmaakt van een machinekamerwacht of is aangewezen om dienst te doen in een tijdelijk onbemande machinekamer op een zeeschip met een voortstuwingsvermogen van 750 kW of meer, uitgezonderd gezellen in opleiding en gezellen wier taken van ongeschoolde aard zijn, dient in het bezit te zijn van een passend bewijs op grond waarvan hij bevoegd is om deze taken te verrichten.
 
@@ -806,13 +828,13 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK IV. RADIOCOMMUNICATIE EN PERSONEEL BELAST MET HET RADIOVERKEER
 
-#### Voorschrift IV/1. Toepassing
+##### Voorschrift IV/1. Toepassing
 
 1. Uitgezonderd de bepalingen van lid 2, zijn de bepalingen van dit hoofdstuk van toepassing op radio-operators aan boord van schepen die deelnemen in het Wereldomvattend Maritieme Systeem voor Noodgevallen en Veiligheid (GMDSS), zoals voorgeschreven door het [Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974](https://wetten.overheid.nl/jci1.3:c:BWBV0003264), zoals gewijzigd.
 
 2. Radio-operators op schepen van wie niet verlangd wordt dat zij voldoen aan de bepalingen van het GMDSS in [hoofdstuk IV van het SOLAS-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003264&hoofdstuk=IV), behoeven niet aan de bepalingen van dit hoofdstuk te voldoen. Van radio-operators op deze schepen wordt niettemin verlangd dat zij voldoen aan de bepalingen van het [Radioreglement](onbekend). De Administratie waarborgt dat aan deze radio-operators belast met het radioverkeer de desbetreffende bewijzen zoals voorgeschreven in het Radioreglement worden afgegeven of erkend.
 
-#### Voorschrift IV/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening als GMDSS-radio-operator
+##### Voorschrift IV/2. Verplichte minimumeisen inzake vaarbevoegdheidsverlening als GMDSS-radio-operator
 
 1. Iedere persoon die belast is met radiotaken op een schip dat verplicht is aan het GMDSS deel te nemen, dient in het bezit te zijn van een passend bewijs dat betrekking heeft op het GMDSS en dat is afgegeven of erkend door de Administratie krachtens de bepalingen van het [Radioreglement](onbekend).
 
@@ -824,7 +846,7 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK V. BIJZONDERE EISEN INZAKE OPLEIDING VAN PERSONEEL OP BEPAALDE SCHEEPSTYPEN
 
-#### Voorschrift V/1. Verplichte minimumeisen inzake de opleiding en geschiktheid van kapiteins, officieren en scheepsgezellen van tankers
+##### Voorschrift V/1. Verplichte minimumeisen inzake de opleiding en geschiktheid van kapiteins, officieren en scheepsgezellen van tankers
 
 - 1. Officieren en scheepsgezellen, aan wie bijzondere taken worden opgedragen en bijzondere verantwoordelijkheden in verband met die taken worden opgelegd met betrekking tot de lading en de daarbij behorende uitrusting op olietankers, moeten aan de wal een goedgekeurde cursus brandbestrijding hebben gevolgd naast de in voorschrift VI/1 vereiste opleiding en moeten: met dien verstande echter, dat de Administratie akkoord kan gaan met een diensttijd buitengaats onder toezicht gedurende een periode die korter is dan voorgeschreven in lid 1.1, mits:
 
@@ -850,7 +872,7 @@ Elke Partij waarborgt dat:
 
 - 4. Administraties dienen er zorg voor te dragen dat een passend vaarbevoegdheidsbewijs wordt afgegeven aan kapiteins en officieren die bevoegd zijn in overeenstemming met de leden 1 of 2, zoals van toepassing, of dat een bestaand vaarbevoegdheidsbewijs vergezeld gaat van een officiële verklaring. Iedere scheepsgezel die aldus bevoegd is, dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
-#### Voorschrift V/2. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen en ander personeel op passagiersschepen
+##### Voorschrift V/2. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen en ander personeel op passagiersschepen
 
 1. Dit voorschrift is van toepassing op kapiteins, officieren, gezellen en ander personeel die dienst doen aan boord van passagiersschepen op internationale reizen. De Administraties bepalen of deze eisen toepasselijk zijn op personeel dat dienst doet aan boord van passagiersschepen op binnenlandse reizen.
 
@@ -872,7 +894,7 @@ Elke Partij waarborgt dat:
 
 10. De Administraties waarborgen dat schriftelijke bewijzen van de voltooide training worden afgegeven aan iedere persoon die voldoet aan het zesde tot en met negende lid van dit voorschrift.
 
-#### Voorschrift V/3. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen en ander personeel op schepen waarop de IGF-Code van toepassing is
+##### Voorschrift V/3. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen en ander personeel op schepen waarop de IGF-Code van toepassing is
 
 1. Dit voorschrift is van toepassing op kapiteins, officieren en gezellen en ander personeel die dienst doen aan boord van schepen waarop de IGF-Code van toepassing is.
 
@@ -916,13 +938,13 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK V. BIJZONDERE EISEN INZAKE OPLEIDING VAN PERSONEEL OP BEPAALDE SCHEEPSTYPEN
 
-#### Voorschrift VI/1. Verplichte minimumeisen inzake de bekendheid met de materie, basistraining en instructie op het gebied van veiligheid voor alle zeevarenden
+##### Voorschrift VI/1. Verplichte minimumeisen inzake de bekendheid met de materie, basistraining en instructie op het gebied van veiligheid voor alle zeevarenden
 
 1. Zeevarenden dienen in overeenstemming met sectie A-VI/1 van de STCW-Code een basistraining of instructie te ontvangen op het gebied van en bekend te worden gemaakt met veiligheid en te voldoen aan de desbetreffende daarin omschreven eisen van bekwaamheid.
 
 2. Indien basistraining niet is opgenomen in de kwalificaties voor het af te geven bewijs, wordt een bewijs van bekwaamheid afgegeven waaruit blijkt dat de houder de basistraining heeft gevolgd.
 
-#### Voorschrift VI/2. Verplichte minimumeisen inzake de afgifte van bewijzen van bekwaamheid op het gebied van reddingsboten, hulpverleningsboten en snelle hulpverleningsboten
+##### Voorschrift VI/2. Verplichte minimumeisen inzake de afgifte van bewijzen van bekwaamheid op het gebied van reddingsboten, hulpverleningsboten en snelle hulpverleningsboten
 
 1. Kandidaten voor bewijzen van bekwaamheid op het gebied van reddingsboten en hulpverleningsboten anders dan snelle hulpverleningsboten:
 
@@ -940,13 +962,13 @@ Elke Partij waarborgt dat:
 
 - .3. voldoen aan de normen van vaarbevoegdheid voor het bewijs van bekwaamheid op het gebied van snelle hulpverleningsboten, zoals vervat in sectie A-VI/2, zevende tot en met tiende punt, van de STCW-Code.
 
-#### Voorschrift VI/3. Verplichte minimumeisen inzake vervolgtraining op het gebied van brandbestrijding
+##### Voorschrift VI/3. Verplichte minimumeisen inzake vervolgtraining op het gebied van brandbestrijding
 
 1. Zeevarenden die zijn aangewezen als leidinggevende voor brandbestrijdingsoperaties hebben met goed gevolg de vervolgtraining op het gebied van brandbestrijdingstechnieken voltooid waarbij de nadruk in het bijzonder ligt op organisatie, tactieken en leiding in overeenstemming met de bepalingen van sectie A-VI/3, eerste tot en met vierde punt, van de STCW-Code en voldoen aan de daarin omschreven eisen van bekwaamheid.
 
 2. Indien vervolgtraining op het gebied van brandbestrijding niet is opgenomen in de kwalificaties voor het af te geven bewijs, wordt een bewijs van bekwaamheid afgegeven waaruit blijkt dat de houder de vervolgtraining op het gebied van brandbestrijding heeft gevolgd.
 
-#### Voorschrift VI/4. Verplichte minimumeisen inzake eerste hulp en medische verzorging
+##### Voorschrift VI/4. Verplichte minimumeisen inzake eerste hulp en medische verzorging
 
 1. Zeevarenden die zijn aangewezen voor het verlenen van eerste hulp aan boord van schepen voldoen aan de eisen van bekwaamheid op het gebied van medische verzorging aan boord van schepen omschreven in sectie A-VI/4, eerste tot en met derde punt, van de STCW-Code.
 
@@ -956,7 +978,7 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK VI. NOODSITUATIES, VEILIGHEID OP HET WERK, BEVEILIGING, MEDISCHE VERZORGING EN OVERLEVINGSMAATREGELEN
 
-#### Voorschrift VII/1. Afgifte van alternatieve bewijzen
+##### Voorschrift VII/1. Afgifte van alternatieve bewijzen
 
 1. Niettegenstaande de vereisten voor de afgifte van bewijzen vervat in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=II&z=2025-01-01&g=2025-01-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=III&z=2025-01-01&g=2025-01-01) van deze Bijlage, kunnen Partijen besluiten andere bewijzen dan die vermeld in de voorschriften van die hoofdstukken af te geven of de afgifte ervan goed te keuren, mits:
 
@@ -972,11 +994,11 @@ Elke Partij waarborgt dat:
 
 2. Ingevolge dit hoofdstuk wordt geen bewijs afgegeven tenzij de Partij de Organisatie in overeenstemming met [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&artikel=IV&z=2025-01-01&g=2025-01-01) en [voorschrift I/7](https://wetten.overheid.nl/jci1.3:c:BWBV0003452&hoofdstuk=I&artikel=I/7&z=2025-01-01&g=2025-01-01) informatie heeft doen toekomen.
 
-#### Voorschrift VII/2. Afgifte van bewijzen aan zeevarenden
+##### Voorschrift VII/2. Afgifte van bewijzen aan zeevarenden
 
 1. Zeevarenden die een taak of een reeks taken vervullen zoals omschreven in tabel A-II/1, A-II/2, A-II/3, A-II/4 of A-II/5 van hoofdstuk II of in tabel A-III/1, A-III/2, A-III/3, A-III/4 of A-III/5 van hoofdstuk III of A-IV/2 van hoofdstuk IV van de STCW-Code, dienen in het bezit te zijn van een vaarbevoegdheidsbewijs of een bewijs van bekwaamheid, al naargelang van toepassing is.
 
-#### Voorschrift VII/3. Beginselen inzake de afgifte van alternatieve bewijzen
+##### Voorschrift VII/3. Beginselen inzake de afgifte van alternatieve bewijzen
 
 1. Partijen die besluiten alternatieve bewijzen af te geven of de afgifte ervan goed te keuren, zien erop toe dat de volgende beginselen worden geëerbiedigd:
 
@@ -1006,7 +1028,7 @@ Elke Partij waarborgt dat:
 
 ### HOOFDSTUK VIII. WACHTDIENST
 
-#### Voorschrift VIII/1. Geschiktheid voor dienst
+##### Voorschrift VIII/1. Geschiktheid voor dienst
 
 1. De Administraties dienen teneinde vermoeidheid te voorkomen:
 
@@ -1016,7 +1038,7 @@ Elke Partij waarborgt dat:
 
 2. De Administraties waarborgen, ter voorkoming van alcohol- en drugsmisbruik, dat adequate maatregelen worden getroffen in overeenstemming met de bepalingen van sectie A-VIII/1, waarbij rekening wordt gehouden met de richtlijnen van sectie B-VIII/1 van de STCW-Code.
 
-#### Voorschrift VIII/2. Regelingen en beginselen voor de wachtdienst
+##### Voorschrift VIII/2. Regelingen en beginselen voor de wachtdienst
 
 1. De Administraties dienen de aandacht van maatschappijen, kapiteins, hoofdwerktuigkundigen en alle personeelsleden die wachtdiensten draaien te vestigen op de vereisten, beginselen en richtlijnen vervat in STCW-Code die in acht dienen te worden genomen om te allen tijde op alle zeeschepen, rekening houdend met de heersende omstandigheden, veilige en onafgebroken wachtdiensten te waarborgen.
 
@@ -1036,7 +1058,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at London this seventh day of July, one thousand nine hundred and seventy-eight.
 
-#### Voorschrift VI/5. Verplichte minimumeisen inzake de afgifte van een bewijs van bekwaamheid aan scheepsbeveiligingsfunctionarissen
+##### Voorschrift VI/5. Verplichte minimumeisen inzake de afgifte van een bewijs van bekwaamheid aan scheepsbeveiligingsfunctionarissen
 
 1. Kandidaten voor een bewijs van bekwaamheid als scheepsbeveiligingsfunctionaris:
 
@@ -1054,7 +1076,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at London this seventh day of July, one thousand nine hundred and seventy-eight.
 
-#### Voorschrift II/5. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen als gekwalificeerd gezel met dekdienst
+##### Voorschrift II/5. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen als gekwalificeerd gezel met dekdienst
 
 1. Iedere gekwalificeerde gezel met dekdienst die dienst doet aan boord van een zeeschip met een brutotonnage van 500 of meer dient in het bezit te zijn van een passend bewijs.
 
@@ -1082,7 +1104,7 @@ DONE at London this seventh day of July, one thousand nine hundred and seventy-e
 
 ### HOOFDSTUK III. MACHINEKAMERDIENST
 
-#### Voorschrift III/5. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen als gekwalificeerd gezel in een bemande machinekamer of die zijn aangewezen om dienst te doen in een tijdelijk onbemande machinekamer
+##### Voorschrift III/5. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen als gekwalificeerd gezel in een bemande machinekamer of die zijn aangewezen om dienst te doen in een tijdelijk onbemande machinekamer
 
 1. Iedere gekwalificeerde gezel op een zeeschip met een voorstuwingsvermogen van 750 kW of meer dient in het bezit te zijn van een passend bewijs.
 
@@ -1104,7 +1126,7 @@ DONE at London this seventh day of July, one thousand nine hundred and seventy-e
 
 4. Zeevarenden kunnen door de Partij worden geacht aan de eisen van dit voorschrift te voldoen, indien zij in een desbetreffende hoedanigheid machinekamerdienst hebben gedaan gedurende een periode van ten minste 12 maanden binnen de afgelopen 60 maanden voorafgaande aan de inwerkingtreding van dit voorschrift voor die Partij.
 
-#### Voorschrift III/6. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan elektrotechnisch officieren
+##### Voorschrift III/6. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan elektrotechnisch officieren
 
 1. Iedere elektrotechnisch officier die dienst doet op een zeeschip met een hoofdvoortstuwingsinstallatie met een vermogen van 750 kW of meer dient in het bezit te zijn van een vaarbevoegdheidsbewijs.
 
@@ -1124,7 +1146,7 @@ DONE at London this seventh day of July, one thousand nine hundred and seventy-e
 
 5. Niettegenstaande de bovenstaande vereisten van de leden 1 tot en met 4 kan een naar behoren gekwalificeerde persoon door een Partij geacht worden in staat te zijn bepaalde functies van sectie A-III/6 te verrichten.
 
-#### Voorschrift III/7. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen elektrotechniek
+##### Voorschrift III/7. Verplichte minimumeisen inzake vaarbevoegdheidsverlening aan gezellen elektrotechniek
 
 1. Iedere gezel elektrotechniek die dienst doet op een zeeschip met een hoofdvoortstuwingsinstallatie met een vermogen van 750 kW of meer dient in het bezit te zijn van een passend bewijs.
 
@@ -1150,7 +1172,7 @@ DONE at London this seventh day of July, one thousand nine hundred and seventy-e
 
 ### HOOFDSTUK IV. RADIOCOMMUNICATIE EN RADIO-OPERATORS
 
-#### Voorschrift V/1-1. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen op olietankschepen en chemicaliëntankschepen
+##### Voorschrift V/1-1. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen op olietankschepen en chemicaliëntankschepen
 
 1. Officieren en gezellen aan wie bijzondere taken en verantwoordelijkheden met betrekking tot de lading of de bijbehorende uitrusting op olietankschepen of chemicaliëntankschepen worden opgedragen, dienen in het bezit te zijn van een bewijs van de basistraining voor de behandeling van lading op olietankschepen en chemicaliëntankschepen.
 
@@ -1190,7 +1212,7 @@ DONE at London this seventh day of July, one thousand nine hundred and seventy-e
 
 7. De Administraties waarborgen dat een bewijs van bekwaamheid wordt afgegeven aan zeevarenden die in overeenstemming met de leden 2, 4 of 6, naargelang van toepassing, gekwalificeerd zijn, of dat een bestaand vaarbevoegdheidsbewijs of een bewijs van bekwaamheid naar behoren van een verklaring wordt voorzien.
 
-#### Voorschrift V/1-2. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen op vloeibaar-gastankschepen
+##### Voorschrift V/1-2. Verplichte minimumeisen inzake opleiding en kwalificaties van kapiteins, officieren en gezellen op vloeibaar-gastankschepen
 
 1. Officieren en gezellen aan wie specifieke taken en verantwoordelijkheden met betrekking tot de lading of de bijbehorende uitrusting op vloeibaar-gastankschepen worden opgedragen, dienen in het bezit te zijn van een bewijs van de basistraining voor de behandeling van lading op vloeibaar-gastankschepen.
 
@@ -1224,7 +1246,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at London this seventh day of July, one thousand nine hundred and seventy-eight.
 
-#### Voorschrift I/16. Verificatie van de naleving
+##### Voorschrift I/16. Verificatie van de naleving
 
 1. De Partijen gebruiken de bepalingen van de Implementatiecode bij de uitvoering van hun verplichtingen en verantwoordelijkheden zoals vervat in dit Verdrag.
 
@@ -1264,7 +1286,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at London this seventh day of July, one thousand nine hundred and seventy-eight.
 
-#### Voorschrift V/4. Verplichte minimumeisen inzake training en kwalificaties van kapiteins en dekofficieren op schepen die in polaire wateren varen
+##### Voorschrift V/4. Verplichte minimumeisen inzake training en kwalificaties van kapiteins en dekofficieren op schepen die in polaire wateren varen
 
 1. Kapiteins, eerste stuurlieden en officieren belast met de brugwacht op schepen die in polaire wateren varen dienen in het bezit te zijn van een bewijs van de basistraining voor schepen die in polaire wateren varen, zoals vereist door de Polar Code.
 

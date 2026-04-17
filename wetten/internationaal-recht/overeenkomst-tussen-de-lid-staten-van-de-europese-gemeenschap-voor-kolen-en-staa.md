@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds"
 identifier: "BWBV0003724"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-01-01
-laatste_update: 1975-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003724"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-01-01"
+last_updated: "1975-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003724"
+soort: "verdrag"
+stam_id: "10003670453"
+version_id: "10003730942"
+internal_id: "C10006982781"
+label_id: "10003655854"
+dtd_version: "2.0"
+original_entry_into_force: "1975-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003724/1975-01-01/0"
+intitule_bron: "Trb.1973-144"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-10-03"
+intitule_in_force: "1975-01-15"
+intitule_status: "goed"
+original_publication: "Trb.1973-144"
+original_published_date: "1973-10-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-144"
+entry_into_force_date: "1975-01-01"
+jci_1_3: "jci1.3:c:BWBV0003724&z=1975-01-01&g=1975-01-01"
+jci_1_0: "1.0:c:BWBV0003724&g=1975-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-01-01"
 ---
-
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds
 
 Het Koninkrijk België,
@@ -44,11 +66,11 @@ Dezelfde doeleinden nastrevende en geleid door de wens voor de sector die onder 
 
 Hebben besloten, ter verwezenlijking van deze doeleinden en overwegende dat geen der bepalingen van deze overeenkomst zodanig kan worden uitgelegd dat de Partijen bij de overeenkomst daardoor worden ontslagen van de krachtens andere internationale overeenkomsten op hen rustende verplichtingen, deze overeenkomst te sluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze overeenkomst is van toepassing op de in de bijlage genoemde produkten die onder de Europese Gemeenschap voor Kolen en Staal ressorteren en van oorsprong zijn uit deze Gemeenschap of uit het Koninkrijk Noorwegen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In het handelsverkeer tussen de Gemeenschap en Noorwegen worden geen nieuwe invoerrechten ingesteld.
 
@@ -58,7 +80,7 @@ Deze overeenkomst is van toepassing op de in de bijlage genoemde produkten die o
 
 - -. de andere vier verlagingen, telkens met 20%, vinden plaats op: 1 januari 1974 1 januari 1975 1 januari 1976 1 juli 1977.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bepalingen die betrekking hebben op de geleidelijke afschaffing van de invoerrechten zijn ook van toepassing op fiscale douanerechten.
 
@@ -66,7 +88,7 @@ De Partijen bij de overeenkomst kunnen een fiscaal douanerecht of het fiscale el
 
 2. Denemarken, Ierland en het Verenigd Koninkrijk kunnen tot 1 januari 1976 een fiscaal douanerecht of het fiscale element van een douanerecht handhaven in geval van toepassing van artikel 38 van de „Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen”.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor elk produkt is het basisrecht waarop de in artikel 2 en in het protocol bedoelde achtereenvolgende verlagingen moeten worden toegepast, het recht dat op 1 januari 1972 werkelijk werd toegepast.
 
@@ -74,7 +96,7 @@ De Partijen bij de overeenkomst kunnen een fiscaal douanerecht of het fiscale el
 
 Behoudens de uitvoering, door de Gemeenschap te geven aan artikel 39, lid 5, van de „Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen”, worden, wat de specifieke rechten of het specifieke deel van de gemengde rechten van het Ierse douanetarief betreft, artikel 2 en het protocol toegepast met afronding op de vierde decimaal.
 
-#### Artikel 5
+##### Artikel 5
 
 1. In het handelsverkeer tussen de Gemeenschap en Noorwegen worden geen nieuwe heffingen van gelijke werking als invoerrechten ingesteld.
 
@@ -88,59 +110,59 @@ Elke heffing van gelijke werking als een invoerrecht, die op 31 december 1972 ho
 
 - -. de andere drie verlagingen, telkens met 20%, vinden plaats op: 1 januari 1975 1 januari 1976 1 juli 1977.
 
-#### Artikel 6
+##### Artikel 6
 
 In het handelsverkeer tussen de Gemeenschap en Noorwegen worden geen uitvoerrechten noch heffingen van gelijke werking ingesteld.
 
 De uitvoerrechten en heffingen van gelijke werking worden uiterlijk 1 januari 1974 afgeschaft.
 
-#### Artikel 7
+##### Artikel 7
 
 In het protocol zijn de tariefregeling en de regels voor bepaalde produkten vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen waarin de oorsprongregels zijn vastgesteld voor de toepassing van de heden ondertekende overeenkomst tussen de Europese Economische Gemeenschap en het Koninkrijk Noorwegen zijn eveneens van toepassing op de onderhavige overeenkomst.
 
-#### Artikel 9
+##### Artikel 9
 
 Een Partij bij de overeenkomst die overweegt, het werkelijke niveau van haar douanerechten of heffingen van gelijke werking die van toepassing zijn op derde landen waarvoor de clausule van de meest begunstigde natie geldt, te verlagen, of de toepassing daarvan te schorsen, stelt het Gemengd Comité, zo mogelijk, van deze verlaging of schorsing ten minste dertig dagen vóór de inwerkingtreding daarvan in kennis. Zij neemt nota van alle opmerkingen van de andere Partij met betrekking tot de distorsies die daaruit zouden kunnen voortvloeien.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In het handelsverkeer tussen de Gemeenschap en Noorwegen worden geen nieuwe kwantitatieve invoerbeperkingen noch maatregelen van gelijke werking ingesteld.
 
 2. De kwantitatieve invoerbeperkingen worden op de datum van inwerkingtreding van de overeenkomst, en de maatregelen van gelijke werking als kwantitatieve invoerbeperkingen uiterlijk 1 januari 1975 afgeschaft.
 
-#### Artikel 11
+##### Artikel 11
 
 Vanaf 1 juli 1977 mag voor produkten van oorsprong uit Noorwegen bij invoer in de Gemeenschap geen gunstiger behandeling gelden dan die tussen de Lid-Staten van de Gemeenschap onderling.
 
-#### Artikel 12
+##### Artikel 12
 
 De overeenkomst brengt geen wijziging in de bepalingen van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, noch in de algemene en bijzondere bevoegdheden die uit dit Verdrag voortvloeien.
 
-#### Artikel 13
+##### Artikel 13
 
 De overeenkomst vormt geen beletsel voor de handhaving of instelling van douane-unies, vrijhandelszones of regelingen voor grensverkeer, voor zover die niet ten gevolge hebben dat de in de overeenkomst vastgestelde regeling voor het handelsverkeer, inzonderheid de bepalingen betreffende de regels van oorsprong, wordt gewijzigd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Partijen bij de overeenkomst onthouden zich van iedere maatregel of gedraging van intern fiscale aard die al dan niet rechtstreeks leidt tot discriminatie tussen de produkten van een Partij bij de overeenkomst en de gelijksoortige produkten van oorsprong uit de andere Partij.
 
 Voor produkten die naar het grondgebied van een van de Partijen bij de overeenkomst worden uitgevoerd, mag geen hogere teruggave van binnenlandse belastingen plaatsvinden dan de direct of indirect daarop geheven belastingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Betalingen die betrekking hebben op het goederenverkeer, alsmede de overmaking van de desbetreffende bedragen naar de Lid-Staat van de Gemeenschap waar de schuldeiser is gevestigd, dan wel naar Noorwegen, zijn aan geen enkele beperking onderworpen.
 
 De Partijen bij de overeenkomst passen geen deviezenbeperkingen of administratieve beperkingen toe aangaande de verlening, de terugbetaling en de aanvaarding van kredieten op korte en middellange termijn, die verband houden met handelstransacties waarbij een ingezetene betrokken is.
 
-#### Artikel 16
+##### Artikel 16
 
 De overeenkomst vormt geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer, die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, van de bescherming van het nationaal artistiek, historisch en archeologisch bezit of uit hoofde van de bescherming van de industriële en commerciële eigendom. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie noch een verkapte beperking van de handel tussen de Partijen bij de overeenkomst vormen.
 
-#### Artikel 17
+##### Artikel 17
 
 Geen enkele bepaling van de overeenkomst belet een Partij bij de overeenkomst maatregelen te treffen:
 
@@ -150,7 +172,7 @@ Geen enkele bepaling van de overeenkomst belet een Partij bij de overeenkomst ma
 
 - c. die zij van essentieel belang acht voor haar veiligheid in oorlogstijd of bij ernstige internationale spanningen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Partijen bij de overeenkomst treffen geen maatregelen die de verwezenlijking van de doeleinden van de overeenkomst in gevaar kunnen brengen.
 
@@ -158,7 +180,7 @@ Geen enkele bepaling van de overeenkomst belet een Partij bij de overeenkomst ma
 
 Indien een Partij bij de overeenkomst van mening is dat de andere Partij een verplichting van de overeenkomst niet is nagekomen, kan zij passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onverenigbaar met de goede werking van de overeenkomst zijn, voor zover daardoor het handelsverkeer tussen de Gemeenschap en Noorwegen kan worden beïnvloed:
 
@@ -170,7 +192,7 @@ Indien een Partij bij de overeenkomst van mening is dat de andere Partij een ver
 
 2. Indien een Partij bij de overeenkomst van mening is dat een bepaalde gedraging onverenigbaar is met dit artikel, kan zij passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Gemeenschap breidt voor de produkten van hoofdstuk 73 van de Naamlijst van Brussel die onder de overeenkomst vallen de toepassing van artikel 60 van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en van de door haar ter uitvoering daarvan genomen besluiten uit tot verkoop door de onder haar jurisdictie vallende ondernemingen naar het Noorse grondgebied en draagt daartoe zorg voor een voldoende doorzichtigheid van de vervoerprijzen voor leveringen naar het Noorse grondgebied.
 
@@ -200,7 +222,7 @@ De Gemeenschap heeft Noorwegen in kennis gesteld van de lijst van de ter uitvoer
 
 4. Indien de aanbiedingen van Noorse ondernemingen aan de goede werking van de markt van de Gemeenschap schade berokkenen, of daarvoor gevaar bestaat, of indien de aanbiedingen van onder de Gemeenschap ressorterende ondernemingen aan de goede werking van de Noorse markt schade berokkenen, of daarvoor gevaar bestaat, en indien deze schade te wijten is aan verschillen in toepassing van de op grond van de leden 1, 2 en 3 vastgestelde regels, of aan schending van deze regels door de betrokken ondernemingen, kan de betrokken Partij bij de overeenkomst overeenkomstig de voorwaarden en procedures van artikel 24 de vereiste maatregelen treffen.
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer de toename van de invoer van een bepaald produkt ernstig nadeel berokkent of dreigt te berokkenen aan een op het grondgebied van een der Partijen bij de overeenkomst uitgeoefende produktieve bedrijvigheid, en indien deze toename te wijten is aan
 
@@ -210,15 +232,15 @@ Wanneer de toename van de invoer van een bepaald produkt ernstig nadeel berokken
 
 kan de betrokken Partij passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien een der Partijen bij de overeenkomst vaststelt dat in haar betrekkingen met de andere Partij dumping wordt toegepast, kan zij, overeenkomstig de overeenkomst inzake de toepassing van artikel VI van de Algemene Overeenkomst betreffende Tarieven en Handel, passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
-#### Artikel 23
+##### Artikel 23
 
 In geval van ernstige verstoringen in een sector van het bedrijfsleven of van moeilijkheden die tot uiting kunnen komen in een ernstige verslechtering van de economische situatie in een gebied, kan de betrokken Partij bij de overeenkomst passende maatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 24.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een Partij bij de overeenkomst de invoer van produkten die de in de artikelen 21 en 23 bedoelde moeilijkheden kan veroorzaken, aan een administratieve procedure onderwerpt die ten doel heeft snel inlichtingen omtrent de ontwikkeling van de handelsstromen te verstrekken, stelt zij de andere Partij hiervan in kennis.
 
@@ -244,11 +266,11 @@ De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van het Gemengd 
 
 - e). Indien uitzonderlijke omstandigheden die een onmiddellijk ingrijpen vereisen een voorafgaand onderzoek uitsluiten, kan de betrokken Partij bij de overeenkomst, in de situaties, bedoeld in de artikelen 21, 22 en 23, alsmede in gevallen van steunmaatregelen bij uitvoer die een rechtstreekse en onmiddellijke invloed op het handelsverkeer hebben, onverwijld de strikt noodzakelijke beschermende maatregelen nemen om de situatie te verhelpen.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien zich met betrekking tot de betalingsbalans van een of meer Lid-Staten van de Gemeenschap of tot die van Noorwegen moeilijkheden voordoen of hiervoor ernstig gevaar bestaat, kan de betrokken Partij bij de overeenkomst de noodzakelijke vrijwaringsmaatregelen treffen. Zij geeft hiervan onverwijld kennis aan de andere Partij.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Er wordt een Gemengd Comité ingesteld, dat belast is met het beheer van de overeenkomst en dat toeziet op de juiste uitvoering daarvan. Het Comité doet hiertoe aanbevelingen. Het neemt besluiten in de gevallen, bedoeld in de overeenkomst. Deze besluiten worden door de Partijen bij de overeenkomst volgens hun eigen voorschriften uitgevoerd.
 
@@ -256,13 +278,13 @@ Indien zich met betrekking tot de betalingsbalans van een of meer Lid-Staten van
 
 3. Het Gemengd Comité stelt zijn reglement van orde vast.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het Gemengd Comité bestaat uit vertegenwoordigers van de Partijen bij de overeenkomst.
 
 2. Het Gemengd Comité spreekt zich uit in onderlinge overeenstemming.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het voorzitterschap van het Gemengd Comité wordt bij toerbeurt door de Partijen bij de overeenkomst waargenomen, volgens in zijn reglement van orde vast te leggen regels.
 
@@ -272,7 +294,7 @@ Bovendien komt het telkens bijeen wanneer een bijzondere aanleiding zulks vereis
 
 3. Het Gemengd Comité kan besluiten tot oprichting van iedere werkgroep die het in de vervulling van zijn taak kan bijstaan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Wanneer een Partij bij de overeenkomst van mening is dat het in het gemeenschappelijk belang van de Partijen bij de overeenkomst is, de door deze overeenkomst tot stand gebrachte betrekkingen uit te breiden tot gebieden die niet onder de overeenkomst vallen, legt zij aan de andere Partij een met redenen omkleed verzoek voor.
 
@@ -280,19 +302,19 @@ De Partijen bij de overeenkomst kunnen de bestudering van dit verzoek en de even
 
 2. De overeenkomsten waartoe de in lid 1 bedoelde onderhandelingen leiden, worden onderworpen aan bekrachtiging of goedkeuring door de Partijen bij de overeenkomst, en wel overeenkomstig hun eigen procedures.
 
-#### Artikel 30
+##### Artikel 30
 
 De bijlage en het protocol bij de overeenkomst maken daarvan een integrerend deel uit.
 
-#### Artikel 31
+##### Artikel 31
 
 Elke Partij bij de overeenkomst kan de overeenkomst door kennisgeving aan de andere Partij opzeggen. De overeenkomst houdt twaalf maanden na de datum van die kennisgeving op van kracht te zijn.
 
-#### Artikel 32
+##### Artikel 32
 
 De overeenkomst is van toepassing op de grondgebieden waar het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal onder de daarin vermelde voorwaarden geldt, enerzijds, en op het grondgebied van het Koninkrijk Noorwegen anderzijds.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Italiaanse, de Nederlandse en de Noorse taal, zijnde alle teksten gelijkelijk authentiek.
 
@@ -302,7 +324,7 @@ Zij treedt in werking op 1 juli 1973, mits de Partijen bij de overeenkomst elkaa
 
 Na die datum treedt deze overeenkomst in werking op de eerste dag van de tweede maand, volgende op deze kennisgeving. De uiterste datum voor deze kennisgeving is 30 november 1974.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De douanerechten bij invoer in de Gemeenschap in haar oorspronkelijke samenstelling en in Ierland van het volgende produkt:
 
@@ -323,7 +345,7 @@ worden geleidelijk, in onderstaand tempo, teruggebracht tot de hieronder genoemd
 | 1 januari 1979 | 20 |   |
 | 1 januari 1980 | 0 |   |
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het in artikel 1 genoemde produkt behouden de Gemeenschap en haar Lid-Staten zich de mogelijkheid voor, een jaarlijks indicatief maximum in te stellen waarboven de ten opzichte van derde landen geldende douanerechten opnieuw kunnen worden ingesteld.
 

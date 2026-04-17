@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Relatienotabeleid 1974–1998 (Minister van Landbouw, Natuur en Voedselkwaliteit)"
 identifier: "BWBR0019336"
-categorie: "Milieu"
-publicatiedatum: 2006-03-02
-laatste_update: 2006-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019336"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-03-02"
+last_updated: "2006-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019336"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8070653"
+version_id: "12905642"
+internal_id: "C25312911"
+label_id: "8051754"
+dtd_version: "2.0"
+original_entry_into_force: "2006-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019336/2006-03-02/0"
+intitule_bron: "Stcrt.2006-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-19"
+intitule_published: "2006-02-28"
+intitule_in_force: "2006-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-42"
+original_signed_date: "2005-12-19"
+original_published_date: "2006-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-42-p15-SC73957"
+entry_into_force_date: "2006-03-02"
+jci_1_3: "jci1.3:c:BWBR0019336&z=2006-03-02&g=2006-03-02"
+jci_1_0: "1.0:c:BWBR0019336&g=2006-03-02"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-19"
+entry_into_force: "2006-03-02"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen beleidsterrein Relatienotabeleid 1974–1998 (Minister van Landbouw, Natuur en Voedselkwaliteit)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +41,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 21 oktober 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit de onder hem ressorterende actoren op het beleidsterrein Relatienotabeleid in de periode 1974–1998’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘Lijst van te vernietigen archiefbescheiden van de onder het ministerie ressorterende Directie Beheer Landbouwgronden en van de onder dat ministerie ressorterende commissies en ambtenaren. Vastgesteld bij beschikking van de Staatssecretaris van Cultuur, Recreatie en Maatschappelijk Werk en de Minister van Landbouw en Visserij, van 7 september 1978 No. Dir. MMA/Ar 194.557 respectievelijk No. PAZ 273, gewijzigd bij de beschikking van de Minister van Landbouw, Natuurbeheer en Visserij en de Minister van Welzijn, Volksgezondheid en Cultuur van 28 juni 1993, no. A93.528.WH/NF voor zover het de categorie ‘Taak’ betreft voor de actor Directeur Staatsbosbeheer’ wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

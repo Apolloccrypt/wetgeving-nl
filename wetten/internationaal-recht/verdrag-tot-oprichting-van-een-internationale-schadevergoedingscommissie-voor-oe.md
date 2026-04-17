@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tot oprichting van een internationale schadevergoedingscommissie voor Oekraïne"
 identifier: "BWBV0007126"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-12-16
-laatste_update: 2025-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007126"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-12-16"
+last_updated: "2025-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007126"
+soort: "verdrag"
+stam_id: "10005719113"
+version_id: "10006319312"
+internal_id: "C10010235441"
+label_id: "10005700694"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007126/2025-12-16/0"
+intitule_bron: "Trb.2025-101"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-12-22"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-101"
+original_published_date: "2025-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-101"
+jci_1_3: "jci1.3:c:BWBV0007126&z=2025-12-16&g=2025-12-16"
+jci_1_0: "1.0:c:BWBV0007126&g=2025-12-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-12-22"
 ---
-
 # Verdrag tot oprichting van een internationale schadevergoedingscommissie voor Oekraïne
 
 Preambule
@@ -50,7 +69,7 @@ Zijn in dit open verdrag van de Raad van Europa het volgende overeengekomen:
 
 ## DEEL I. GEBRUIK VAN TERMEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit verdrag wordt verstaan onder:
 
@@ -86,11 +105,11 @@ Voor de toepassing van dit verdrag wordt verstaan onder:
 
 ## DEEL II. OPRICHTING, MANDAAT EN TAKEN VAN DE INTERNATIONALE SCHADEVERGOEDINGSCOMMISSIE VOOR OEKRAÏNE
 
-#### Artikel 2. Oprichting van de internationale schadevergoedingscommissie voor Oekraïne
+##### Artikel 2. Oprichting van de internationale schadevergoedingscommissie voor Oekraïne
 
 De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgericht als een onafhankelijk orgaan binnen het institutionele kader van de Raad van Europa.
 
-#### Artikel 3. Mandaat en taken van de commissie
+##### Artikel 3. Mandaat en taken van de commissie
 
 1. De commissie is een administratief orgaan dat beslist over vorderingen tot vergoeding van schade, verlies of letsel veroorzaakt door internationaal onrechtmatige daden van de Russische Federatie in of tegen Oekraïne, met inbegrip van agressie van de Russische Federatie die in strijd is met het Handvest van de Verenigde Naties, alsook schendingen door de Russische Federatie van het internationaal humanitair recht en het internationaal recht inzake de mensenrechten,
 
@@ -118,13 +137,13 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 ## DEEL III. JURIDISCHE STATUS EN ZETEL
 
-#### Artikel 4. Rechtspersoonlijkheid
+##### Artikel 4. Rechtspersoonlijkheid
 
 1. De commissie bezit internationale rechtspersoonlijkheid.
 
 2. Bijgevolg beschikt de commissie over de rechtsbevoegdheid die nodig is voor de uitoefening van haar taken, de vervulling van haar mandaat en de bescherming van haar belangen, met name de bevoegdheid om overeenkomsten te sluiten, roerende en onroerende goederen te verwerven en te vervreemden, en in rechte op te treden.
 
-#### Artikel 5. Zetel
+##### Artikel 5. Zetel
 
 1. De commissie vestigt haar zetel op het grondgebied van een van de partijen bij dit verdrag.
 
@@ -136,7 +155,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 5. De vergadering kan besluiten om bureaus van de commissie in een andere staat te vestigen, mits de betreffende staat daarmee instemt.
 
-#### Artikel 6. Voorrechten en immuniteiten
+##### Artikel 6. Voorrechten en immuniteiten
 
 1. De commissie, met inbegrip van haar bureau in Oekraïne en eventuele bureaus in andere staten, geniet op het grondgebied van elke staat die lid is, de voorrechten en immuniteiten die nodig zijn voor de uitoefening van haar taken en de vervulling van haar mandaat.
 
@@ -166,7 +185,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 ## DEEL IV. ORGANISATIESTRUCTUUR
 
-#### Artikel 7. Vergadering
+##### Artikel 7. Vergadering
 
 1. De vergadering is samengesteld uit alle leden van de commissie.
 
@@ -214,7 +233,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 9. Het secretariaat fungeert als het secretariaat van de vergadering.
 
-#### Artikel 8. Financieel comité
+##### Artikel 8. Financieel comité
 
 1. De vergadering stelt het financieel comité in als hulporgaan van de vergadering. Het financieel comité:
 
@@ -250,7 +269,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 8. Het secretariaat verleent het financieel comité de nodige administratieve ondersteuning.
 
-#### Artikel 9. Stemming in de vergadering
+##### Artikel 9. Stemming in de vergadering
 
 1. Tenzij dit verdrag uitdrukkelijk een andere drempel voorschrijft, stelt de vergadering met een tweederdemeerderheid van de uitgebrachte stemmen haar besluiten vast.
 
@@ -260,7 +279,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 4. Elk lid beschikt in de vergadering over één stem.
 
-#### Artikel 10. Raad
+##### Artikel 10. Raad
 
 1. De samenstelling van de raad wordt als volgt bepaald:
 
@@ -316,7 +335,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 8. De raad brengt tweemaal per jaar verslag uit aan de vergadering. Dit verslag bevat het aantal door de raad behandelde vorderingen en het totale bedrag aan schadevergoeding dat in elke categorie is toegekend, alsook een samenvatting van alle andere belangrijke feitelijke of juridische kwesties die relevant zijn voor de werkzaamheden van de commissie.
 
-#### Artikel 11. Commissarissen
+##### Artikel 11. Commissarissen
 
 1. De commissarissen worden benoemd op basis van inclusiviteit, waarbij wordt gelet op onafhankelijkheid, onpartijdigheid, integriteit, een sterk moreel karakter, ervaring, professionele multidisciplinaire deskundigheid, brede geografische vertegenwoordiging en genderevenwicht. De commissarissen zijn deskundig op gebieden als internationaal recht, geschillenbeslechting, financiën, boekhouding, verzekering of schadebeoordeling. De raad kan aanvullende vereisten voor de benoeming van commissarissen vaststellen om tegemoet te komen aan specifieke behoeften van de panels.
 
@@ -330,7 +349,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 6. De commissarissen nemen op persoonlijke titel zitting en zijn beschikbaar om hun taken op doeltreffende wijze uit te voeren.
 
-#### Artikel 12. Panels
+##### Artikel 12. Panels
 
 1. De raad stelt panels in om vorderingen te toetsen en te beoordelen en om per geval het bedrag van de verschuldigde vergoeding vast te stellen. De panels doen aanbevelingen voor besluiten die ter goedkeuring aan de raad worden voorgelegd.
 
@@ -340,7 +359,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 4. De commissarissen van elk panel kiezen uit hun midden bij consensus de voorzitter van het panel. Indien zij geen consensus bereiken, wijst de raad de voorzitter aan.
 
-#### Artikel 13. Secretariaat
+##### Artikel 13. Secretariaat
 
 1. De commissie heeft een secretariaat onder leiding van een uitvoerend directeur.
 
@@ -350,7 +369,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 4. Het statuut van het personeel van de Raad van Europa is van toepassing op het secretariaat. De onderdanen van alle lidstaten van de Raad van Europa en de onderdanen van alle leden komen in aanmerking voor aanstelling als personeelslid van de commissie. De vergadering kan voorts afwijken van de toepasselijke regels en voorschriften van de Raad van Europa, met inbegrip van de regels en voorschriften betreffende de nationaliteit van het personeel, indien dit ten goede komt aan de uitvoering van de taken van de commissie. Bedoelde goedgekeurde afwijkingen worden meegedeeld aan het Comité van Ministers en de secretaris-generaal van de Raad van Europa.
 
-#### Artikel 14. Uitvoerend directeur
+##### Artikel 14. Uitvoerend directeur
 
 1. De uitvoerend directeur vertegenwoordigt de commissie en is gemachtigd om namens de commissie op te treden.
 
@@ -376,7 +395,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 7. Kandidaten moeten personen zijn van integriteit, met een sterk moreel karakter, passende ervaring en beroepskwalificaties die passen bij de functie.
 
-#### Artikel 15. Onafhankelijkheid
+##### Artikel 15. Onafhankelijkheid
 
 1. De commissarissen, alsmede de uitvoerend directeur en de andere leden van het secretariaat, oefenen hun taken onafhankelijk uit.
 
@@ -390,7 +409,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 ## DEEL V. VORDERINGEN EN PROCEDURE
 
-#### Artikel 16. Onderzoek van vorderingen door panels
+##### Artikel 16. Onderzoek van vorderingen door panels
 
 1. De panels onderzoeken vorderingen, stellen vast of vorderingen gegrond zijn, bepalen het bedrag van de in verband met elke vordering verschuldigde vergoeding en doen aanbevelingen voor besluiten die ter goedkeuring aan de raad worden voorgelegd, overeenkomstig de toepasselijke regels en voorschriften.
 
@@ -400,13 +419,13 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 4. Het secretariaat verleent de panels administratieve, technische, juridische en andere bijstand bij de uitvoering van hun taken, maar is niet betrokken bij de uiteindelijke besluitvorming van de panels.
 
-#### Artikel 17. Besluitvorming van de panels
+##### Artikel 17. Besluitvorming van de panels
 
 1. De panels streven ernaar om hun aanbevelingen bij consensus aan te nemen. Indien geen consensus wordt bereikt, worden aanbevelingen voor besluiten aangenomen bij een meerderheid van de commissarissen in het panel. Het secretariaat legt vast of een besluit van een panel bij consensus dan wel bij meerderheid is aangenomen en wat de uitslag van eventuele stemmingen is.
 
 2. De aanbevelingen van de panels voor besluiten worden met redenen omkleed.
 
-#### Artikel 18. Besluitvorming over de aanbevelingen van panels
+##### Artikel 18. Besluitvorming over de aanbevelingen van panels
 
 1. De raad behandelt de aanbevelingen van de panels met betrekking tot vorderingen zo spoedig mogelijk nadat die aanbevelingen aan de raad zijn toegezonden. Bij zijn beoordeling van de aanbevelingen volgt de raad, indien van toepassing, de door de panels gebruikte groepering van de vorderingen.
 
@@ -424,7 +443,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 8. Het secretariaat houdt een register bij van het besluitvormingsproces van de vergadering, de raad en eventuele ad-hocbeoordelingspanels.
 
-#### Artikel 19. Vonnissen of uitspraken van gerechten en andere rechtsprekende instanties
+##### Artikel 19. Vonnissen of uitspraken van gerechten en andere rechtsprekende instanties
 
 1. Bij hun besluitvorming houden de panels en de raad in voorkomend geval rekening met toepasselijke vonnissen of uitspraken van gerechten en andere krachtens internationaal recht ingestelde rechtsprekende instanties.
 
@@ -432,7 +451,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 3. De commissie neemt via haar organen passende maatregelen om ervoor te zorgen dat geen enkele eiser tweemaal wordt vergoed voor dezelfde schade, hetzelfde verlies of hetzelfde letsel. De leden streven ernaar de commissie hierbij te ondersteunen, met name door waar nodig informatie uit te wisselen met de commissie.
 
-#### Artikel 20. Normen en waarborgen
+##### Artikel 20. Normen en waarborgen
 
 1. De commissie, met inbegrip van de raad, de panels en het secretariaat, verrichten hun werkzaamheden volgens de hoogste normen van onafhankelijkheid, onpartijdigheid, billijkheid en objectiviteit.
 
@@ -442,7 +461,7 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 4. Alle procedures van de commissie worden uitgevoerd met inachtneming van passende procedurele waarborgen.
 
-#### Artikel 21. Financiering van de toegekende vergoeding en tenuitvoerlegging
+##### Artikel 21. Financiering van de toegekende vergoeding en tenuitvoerlegging
 
 1. De leden erkennen dat de Russische Federatie de juridische gevolgen moet dragen van al haar internationaal onrechtmatige daden, met inbegrip van het herstel van alle schade die door die daden is veroorzaakt. Daarom wordt verwacht dat de Russische Federatie de door de commissie krachtens dit verdrag vastgestelde en toegekende vergoedingen zal financieren.
 
@@ -450,13 +469,13 @@ De internationale schadevergoedingscommissie voor Oekraïne wordt hierbij opgeri
 
 3. Besluiten van de commissie kunnen niet ten uitvoer worden gelegd via gerechten of andere gerechtelijke of quasi-gerechtelijke instanties die onder de nationale jurisdictie van de leden vallen, tenzij een betrokken lid dit uitdrukkelijk toestaat op grond van zijn nationaal recht.
 
-#### Artikel 22. Mechanismen voor betaling van de toegekende vergoeding
+##### Artikel 22. Mechanismen voor betaling van de toegekende vergoeding
 
 De vergadering kan zich buigen over mechanismen voor de betaling van toegekende vergoedingen zodra de financiering beschikbaar is, met inbegrip van betaling uit een compensatiefonds dat daarvoor is ingesteld of aangewezen op een tijdstip dat de vergadering passend acht.
 
 ## DEEL VI. FINANCIERING VAN DE COMMISSIE
 
-#### Artikel 23. Financiering en begroting
+##### Artikel 23. Financiering en begroting
 
 1. Zodra de Russische Federatie lid wordt, draagt zij vanaf de inwerkingtreding van dit verdrag de kosten van de commissie.
 
@@ -474,7 +493,7 @@ De vergadering kan zich buigen over mechanismen voor de betaling van toegekende 
 
 ## DEEL VII. REGISTER VAN SCHADE DIE IS AANGERICHT DOOR DE AGRESSIE VAN DE RUSSISCHE FEDERATIE TEGEN OEKRAÏNE
 
-#### Artikel 24. Overdracht van de werkzaamheden van het register
+##### Artikel 24. Overdracht van de werkzaamheden van het register
 
 1. Zo spoedig mogelijk na de oprichting van de commissie en de benoeming van haar uitvoerend directeur neemt de uitvoerend directeur contact op met het register en/of de Raad van Europa om de nodige voorbereidingen te treffen voor de overdracht van de werkzaamheden van het register aan de commissie, welke overdracht op zodanige wijze gebeurt dat de ononderbroken werking van het register tot de ontbinding ervan wordt gewaarborgd en informatie over vorderingen en bewijsmateriaal die in het register wordt bewaard, ter beschikking van de commissie wordt gesteld. Bedoelde overdracht betreft tevens het digitale platform van het register, met inbegrip van alle daarin opgenomen informatie over vorderingen en bewijsmateriaal, overige documentatie, de archieven daarvan, de roerende en onroerende goederen daarvan, met inbegrip van, maar niet beperkt tot, bankrekeningen, informatietechnologieapparatuur, software en eventuele licenties daarop, overeenkomsten en regelingen die door het register zijn gesloten, alsook alle daarmee verband houdende gegevens, en zulks op zodanige wijze dat de commissie de rechtsopvolger van het register wordt.
 
@@ -482,7 +501,7 @@ De vergadering kan zich buigen over mechanismen voor de betaling van toegekende 
 
 3. Nadat de vergadering de uitvoerend directeur krachtens artikel 7, lid 4, punt g), van dit verdrag de daartoe strekkende machtiging heeft verleend, draagt de uitvoerend directeur de werkzaamheden van het register aan de commissie over en geeft hij of zij aan de vergadering te kennen wanneer de overdracht is voltooid en de commissie haar werkzaamheden met betrekking tot vorderingen kan aanvangen.
 
-#### Artikel 25. Voortzetting van de werkzaamheden van het register in het kader van de commissie
+##### Artikel 25. Voortzetting van de werkzaamheden van het register in het kader van de commissie
 
 1. De werkzaamheden van het register, met inbegrip van de organisatie van de indiening van vorderingen, worden voortgezet in het kader van de commissie.
 
@@ -490,11 +509,11 @@ De vergadering kan zich buigen over mechanismen voor de betaling van toegekende 
 
 ## DEEL VIII. SLOTBEPALINGEN
 
-#### Artikel 26. Geschillenbeslechting
+##### Artikel 26. Geschillenbeslechting
 
 In geval van een geschil tussen de leden over de uitlegging of toepassing van dit verdrag, streven de leden ernaar om hun geschil op te lossen door middel van onderhandelingen of met andere vreedzame middelen van hun keuze, zoals via de vergadering, die zich inspant om het bereiken van een minnelijke schikking te vergemakkelijken.
 
-#### Artikel 27. Lidmaatschap en status van waarnemer
+##### Artikel 27. Lidmaatschap en status van waarnemer
 
 1. Met inachtneming van artikel 28 van dit verdrag, kan elke staat, de Europese Unie en elke andere regionale organisatie voor integratie lid worden van de commissie door partij te worden bij dit verdrag overeenkomstig de daarin beschreven procedures.
 
@@ -508,7 +527,7 @@ In geval van een geschil tussen de leden over de uitlegging of toepassing van di
 
 6. Wanneer een waarnemer handelt op een wijze die niet in overeenstemming is met het mandaat van de commissie of de commissie belemmert in de uitoefening van haar taken, kan de vergadering overeenkomstig de door haar vastgestelde procedures diens status van waarnemer opschorten of intrekken.
 
-#### Artikel 28. Lidmaatschap van de Russische Federatie en deelname aan de werkzaamheden van de organen van de commissie
+##### Artikel 28. Lidmaatschap van de Russische Federatie en deelname aan de werkzaamheden van de organen van de commissie
 
 1. De Russische Federatie kan op elk moment lid worden door kenbaar te maken dat zij ermee instemt door dit verdrag gebonden te zijn, overeenkomstig artikel 31 van dit verdrag en op voorwaarde dat zij een aan een akte van toetreding tot dit verdrag te hechten verklaring aflegt die ertoe strekt dat:
 
@@ -532,11 +551,11 @@ In geval van een geschil tussen de leden over de uitlegging of toepassing van di
 
 4. De Russische Federatie kan overeenkomstig artikel 27 van dit verdrag op elk moment verzoeken om waarnemer bij de commissie te worden.
 
-#### Artikel 29. Depositaris
+##### Artikel 29. Depositaris
 
 De secretaris-generaal van de Raad van Europa is depositaris van dit verdrag.
 
-#### Artikel 30. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en inwerkingtreding
+##### Artikel 30. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en inwerkingtreding
 
 1. Dit verdrag staat open voor ondertekening door alle lidstaten van de Raad van Europa, alle andere staten en de Europese Unie die hebben deelgenomen aan de diplomatieke conferentie voor de aanneming van dit verdrag, alsmede elke andere staat die heeft gestemd voor Resolutie ES-11/5 van de Algemene Vergadering van de Verenigde Naties van 14 november 2022, getiteld „Bevordering van rechtsmiddelen en herstel voor de agressie tegen Oekraïne”.
 
@@ -550,7 +569,7 @@ De secretaris-generaal van de Raad van Europa is depositaris van dit verdrag.
 
 4. Met inachtneming van artikel 28 van dit verdrag betreffende de Russische Federatie, geldt ten aanzien van elke in lid 1 bedoelde ondertekenaar die daarna zijn of haar instemming tot uitdrukking brengt om door dit verdrag te worden gebonden, dat dit verdrag in werking treedt op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de neerlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 31. Toetreding
+##### Artikel 31. Toetreding
 
 1. Na de inwerkingtreding van dit verdrag kunnen de partijen bij dit verdrag, via de vergadering, elke staat of regionale organisatie voor integratie die niet heeft deelgenomen aan de diplomatieke conferentie voor de aanneming van dit verdrag en die niet heeft gestemd voor Resolutie ES-11/5 van de Algemene Vergadering van de Verenigde Naties van 14 november 2022, getiteld „Bevordering van rechtsmiddelen en herstel voor de agressie tegen Oekraïne”, uitnodigen tot dit verdrag toe te treden.
 
@@ -558,7 +577,7 @@ De secretaris-generaal van de Raad van Europa is depositaris van dit verdrag.
 
 3. Voor iedere toetredende staat of regionale organisatie voor integratie treedt dit verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van drie maanden na de datum van neerlegging van de akte van toetreding bij de secretaris-generaal van de Raad van Europa.
 
-#### Artikel 32. Territoriale toepassing
+##### Artikel 32. Territoriale toepassing
 
 1. Elke staat kan, op het moment van ondertekening of bij de neerlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, aangeven op welk gebied of welke gebieden van die staat dit verdrag van toepassing zal zijn.
 
@@ -566,7 +585,7 @@ De secretaris-generaal van de Raad van Europa is depositaris van dit verdrag.
 
 3. Elke krachtens de leden 1 en 2 gedane verklaring kan, met betrekking tot elk in die verklaring genoemd gebied, worden ingetrokken door middel van een aan de secretaris-generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van deze kennisgeving door de secretaris-generaal van de Raad van Europa.
 
-#### Artikel 33. Wijzigingen
+##### Artikel 33. Wijzigingen
 
 1. Wijzigingen van dit verdrag kunnen door elk lid worden voorgesteld.
 
@@ -580,11 +599,11 @@ De secretaris-generaal van de Raad van Europa is depositaris van dit verdrag.
 
 6. Elke overeenkomstig dit artikel aangenomen wijziging treedt in werking op de dertigste dag na de datum waarop alle leden de secretaris-generaal van de Raad van Europa ervan in kennis hebben gesteld dat zij de wijziging hebben bekrachtigd, aanvaard of goedgekeurd.
 
-#### Artikel 34. Voorbehouden
+##### Artikel 34. Voorbehouden
 
 Er mag geen voorbehoud worden gemaakt ten aanzien van de bepalingen van dit verdrag.
 
-#### Artikel 35. Opzegging
+##### Artikel 35. Opzegging
 
 1. Na de datum waarop dit verdrag overeenkomstig artikel 30 van dit verdrag in werking is getreden, kan het door elk lid op elk moment door middel van een kennisgeving aan de secretaris-generaal van de Raad van Europa worden opgezegd.
 
@@ -592,7 +611,7 @@ Er mag geen voorbehoud worden gemaakt ten aanzien van de bepalingen van dit verd
 
 3. Opzegging uit hoofde van dit artikel heeft geen terugwerkende kracht op de verbintenissen en verplichtingen die gedurende de periode van het lidmaatschap van het opzeggende lid voortvloeien uit dit verdrag.
 
-#### Artikel 36. Duur en beëindiging
+##### Artikel 36. Duur en beëindiging
 
 1. Onverminderd lid 4, blijft dit verdrag van kracht voor een periode van ten minste tien jaar vanaf de inwerkingtreding ervan.
 
@@ -614,7 +633,7 @@ Er mag geen voorbehoud worden gemaakt ten aanzien van de bepalingen van dit verd
 
 8. Voordat dit verdrag op grond van dit artikel wordt beëindigd en de commissie wordt ontbonden, stelt de vergadering de nodige overgangsregelingen vast.
 
-#### Artikel 37. Kennisgevingen
+##### Artikel 37. Kennisgevingen
 
 De secretaris-generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de andere staten en de Europese Unie die aan de diplomatieke conferentie voor de aanneming van dit verdrag hebben deelgenomen, alsmede elke ondertekenaar, elke partij en elke andere staat of regionale organisatie voor integratie die is uitgenodigd om tot dit verdrag toe te treden, in kennis van:
 

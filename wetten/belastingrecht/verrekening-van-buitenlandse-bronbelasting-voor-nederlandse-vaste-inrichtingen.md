@@ -1,13 +1,37 @@
 ---
 title: "Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen"
 identifier: "BWBR0016308"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-01-21
-laatste_update: 2004-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016308"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-01-21"
+last_updated: "2004-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016308"
+soort: "beleidsregel"
+stam_id: "8500863"
+version_id: "13390232"
+internal_id: "C18479701"
+label_id: "8481314"
+dtd_version: "2.0"
+original_entry_into_force: "2004-01-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016308/2004-01-21/0"
+intitule_bron: "Infob.2004-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-01-21"
+intitule_published: "2004-01-01"
+intitule_in_force: "2004-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2004-1"
+original_signed_date: "2004-01-21"
+original_published_date: "2004-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-01-21"
+jci_1_3: "jci1.3:c:BWBR0016308&z=2004-01-21&g=2004-01-21"
+jci_1_0: "1.0:c:BWBR0016308&g=2004-01-21"
+citeertitel_status: "redactioneel"
+signed_date: "2004-01-21"
+entry_into_force: "2004-01-21"
 ---
-
 # Verrekening van buitenlandse bronbelasting voor Nederlandse vaste inrichtingen
 
 De Directeur-Generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

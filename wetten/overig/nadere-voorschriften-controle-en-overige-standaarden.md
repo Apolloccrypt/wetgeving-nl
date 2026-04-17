@@ -1,13 +1,39 @@
 ---
-title: "Nadere voorschriften controle- en overige Standaarden"
+title: "Nadere voorschriften controle- en overige standaarden"
 identifier: "BWBR0049711"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049711"
+country: "nl"
+rank: "pbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049711"
+soort: "pbo"
+stam_id: "17106483"
+version_id: "30107632"
+internal_id: "C43136181"
+label_id: "17016214"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049711/2026-01-01/0"
+intitule_bron: "Stcrt.2024-7693"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-27"
+intitule_published: "2024-04-24"
+intitule_in_force: "2024-04-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-7693"
+original_signed_date: "2023-12-27"
+original_published_date: "2024-04-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-7693"
+entry_into_force_date: "2024-04-25"
+jci_1_3: "jci1.3:c:BWBR0049711&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049711&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Nadere voorschriften controle- en overige Standaarden"
+signed_date: "2023-12-27"
+entry_into_force: "2024-04-25"
 ---
-
 # Nadere voorschriften controle- en overige standaarden
 
 **Nadere voorschriften controle- en overige standaarden (NV COS)**

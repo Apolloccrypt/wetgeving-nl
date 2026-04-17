@@ -1,14 +1,42 @@
 ---
-title: "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)"
+title: "Wet van 20 mei 2015 tot goedkeuring van het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123)"
 identifier: "BWBR0036666"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-06-05
-laatste_update: 2015-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036666"
+country: "nl"
+rank: "wet"
+publication_date: "2015-06-05"
+last_updated: "2015-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036666"
+soort: "wet"
+stam_id: "13164783"
+version_id: "22438562"
+internal_id: "C32206181"
+label_id: "13133144"
+dtd_version: "2.0"
+original_entry_into_force: "2015-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036666/2015-06-05/0"
+intitule_bron: "Stb.2015-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-20"
+intitule_published: "2015-06-04"
+intitule_in_force: "2015-06-04"
+intitule_status: "goed"
+original_publication: "Stb.2015-198"
+original_signed_date: "2015-05-20"
+original_published_date: "2015-06-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "33615"
+original_url_id: "stb-2015-198"
+entry_into_force_date: "2015-06-05"
+entry_into_force_dossier: "33615"
+jci_1_3: "jci1.3:c:BWBR0036666&z=2015-06-05&g=2015-06-05"
+jci_1_0: "1.0:c:BWBR0036666&g=2015-06-05"
+citeertitel_status: "redactioneel"
+short_title: "Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)"
+signed_date: "2015-05-20"
+entry_into_force: "2015-06-05"
 ---
-
-# Goedkeuringswet Verdrag tussen Nederland en Duitsland (vermijden dubbele belasting enz.)(Trb.2012, 123)
+# Wet van 20 mei 2015 tot goedkeuring van het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 2012, 123)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +44,11 @@ Alzo Wij in overweging genomen hebben, dat het op 12 april 2012 te Berlijn tot s
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, waarvan de Nederlandse en Duitse tekst zijn geplaatst in Tractatenblad 2012, 123, wordt goedgekeurd voor het Europese deel van Nederland.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien uit Nederland afkomstige inkomensbestanddelen, bedoeld in het tweede lid, worden betaald aan een natuurlijke persoon die vanaf 12 april 2012 onafgebroken inwoner van Duitsland is, wordt de door die persoon volgens de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) verschuldigde belasting vanaf het eerste kalenderjaar tot en met het zesde kalenderjaar volgend op het kalenderjaar waarin het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036666&artikel=1&z=2015-06-05&g=2015-06-05), in werking is getreden, verminderd op de voet van het derde en vierde lid.
 
@@ -46,7 +74,7 @@ Het op 12 april 2012 te Berlijn tot stand gekomen Verdrag tussen het Koninkrijk 
 
 5. Het in de voorgaande leden bepaalde vindt geen toepassing in het kalenderjaar waarin de bepalingen van het verdrag, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036666&artikel=1&z=2015-06-05&g=2015-06-05), niet van toepassing zijn volgens artikel 33, zesde lid, van dat verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad, waarin zij wordt geplaatst.
 

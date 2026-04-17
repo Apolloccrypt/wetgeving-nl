@@ -1,13 +1,39 @@
 ---
-title: "Besluit pensioen politieke ambtsdragers"
+title: "Besluit van 11 december 2013, houdende regels ter uitvoering van de Algemene pensioenwet politieke ambtsdragers (Besluit pensioen politieke ambtsdragers)"
 identifier: "BWBR0034414"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034414"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034414"
+soort: "AMvB"
+stam_id: "12487003"
+version_id: "20997352"
+internal_id: "C30161781"
+label_id: "12458074"
+dtd_version: "2.0"
+original_entry_into_force: "2013-12-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034414/2022-07-01/0"
+intitule_bron: "Stb.2013-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-11"
+intitule_published: "2013-12-19"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2013-551"
+original_signed_date: "2013-12-11"
+original_published_date: "2013-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-551"
+entry_into_force_date: "2013-12-20"
+jci_1_3: "jci1.3:c:BWBR0034414&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0034414&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit pensioen politieke ambtsdragers"
+signed_date: "2013-12-11"
+entry_into_force: "2013-12-20"
 ---
-
 # Besluit van 11 december 2013, houdende regels ter uitvoering van de Algemene pensioenwet politieke ambtsdragers (Besluit pensioen politieke ambtsdragers)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2013, nr. 2013-0000612798, CZW;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1.1
+##### Artikel 1.1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. **franchise:** deel van de bezoldiging waarover geen pensioen wordt opgebouwd als bedoeld in [artikel 13d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13d).
 
-#### Artikel 1.1.2
+##### Artikel 1.1.2
 
 Indien in een bepaling in onderhavig besluit wordt verwezen naar een artikel in [hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=4) en dat artikel in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) van overeenkomstige toepassing is verklaard op het pensioen in de [hoofdstukken 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=11) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=22), heeft de bepaling in dit besluit daarmee tevens betrekking op de artikelen die van overeenkomstige toepassing zijn verklaard.
 
@@ -50,7 +76,7 @@ Indien in een bepaling in onderhavig besluit wordt verwezen naar een artikel in 
 
 #### § 1. Het ouderdomspensioen
 
-#### Artikel 2.1.1
+##### Artikel 2.1.1
 
 1. Dit hoofdstuk is met ingang van 1 januari 2014 van toepassing op het pensioen van alle politieke ambtsdragers als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691), voor zover zij op grond van de wet pensioenaanspraken opbouwen of recht hebben op pensioen, tenzij uit de desbetreffende bepaling anders blijkt.
 
@@ -58,11 +84,11 @@ Indien in een bepaling in onderhavig besluit wordt verwezen naar een artikel in 
 
 3. Het pensioen wordt voor dezelfde functie als politieke ambtsdrager voor niet aaneengesloten tijdsvakken afzonderlijk opgebouwd.
 
-#### Artikel 2.1.2
+##### Artikel 2.1.2
 
 De pensioengrondslag voor een dienstjaar bedraagt de overeenkomstig [artikel 13d van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13d) in aanmerking te nemen bezoldiging voor dat jaar, of de laatste bezoldiging voor het aftreden, waarvan de uitkering is afgeleid verminderd met de franchise voor dat jaar.
 
-#### Artikel 2.1.3
+##### Artikel 2.1.3
 
 In dit hoofdstuk wordt verstaan onder bezoldiging:
 
@@ -80,51 +106,51 @@ In dit hoofdstuk wordt verstaan onder bezoldiging:
 
 - –. de bezoldiging Rijksvertegenwoordiger, inclusief de vakantie-uitkering en de eindejaarsuitkering en een eventuele eenmalige uitkering, berekend overeenkomstig de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=2) en [3 van het Rechtspositiebesluit Rijksvertegenwoordiger BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028016&artikel=3).
 
-#### Artikel 2.1.4
+##### Artikel 2.1.4
 
 1. De franchise, bedoeld in [artikel 13d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13d) zoals die tot 1 juli 2022 luidde, is de franchise die in een kalenderjaar ten aanzien van de beroepsmilitairen, gewezen beroepsmilitairen en gepensioneerde beroepsmilitairen wordt gehanteerd.
 
 2. Met ingang van 1 juli 2022 wordt in dit hoofdstuk onder franchise verstaan de franchise, bedoeld in [artikel 13d, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13d).
 
-#### Artikel 2.1.5
+##### Artikel 2.1.5
 
 De dienstjaren zijn kalenderjaren. Voor zover de betrokkene gedurende een kalenderjaar niet het hele jaar als ambtsdrager werkzaam is geweest of in het genot is geweest van een uitkering, wordt die tijd uitgedrukt in een gedeelte van een dienstjaar overeenkomstig [artikel 1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=1).
 
-#### Artikel 2.1.6
+##### Artikel 2.1.6
 
 Het opbouwpercentage, bedoeld in [artikel 13c, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13c), is het opbouwpercentage dat het ABP hanteert voor het desbetreffende jaar voor een overheidswerknemer die niet valt in een van de overgangsvoorzieningen ten aanzien van dat percentage.
 
-#### Artikel 2.1.7
+##### Artikel 2.1.7
 
 De indexatie van de bezoldiging, bedoeld in [artikel 13d, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13d), vindt plaats overeenkomstig de aanpassing door het ABP van het pensioengevend inkomen van een overheidswerknemer met recht op een werkloosheidsuitkering.
 
-#### Artikel 2.1.8
+##### Artikel 2.1.8
 
 De door een betrokkene opgebouwde pensioenaanspraken worden jaarlijks gewijzigd voor zover het ABP in het desbetreffende jaar de pensioenaanspraken van overheidswerknemers voor voorwaardelijke indexatie in aanmerking laat komen. Bij de wijziging worden het percentage, de bedragen en de ingangsdatum gehanteerd die het ABP toepast ten aanzien van een overheidswerknemer in de sector Rijk.
 
-#### Artikel 2.1.9
+##### Artikel 2.1.9
 
 1. De herrekening, bedoeld in [artikel 13e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13e), geschiedt op dezelfde wijze en met inachtneming van dezelfde beperkingen als de verlaging en de verhoging die het ABP toepast indien het ouderdomspensioen voor een overheidswerknemer eerder of later ingaat dan de dag waarop deze de pensioengerechtigde leeftijd bereikt.
 
 2. De herrekening, bedoeld in [artikel 13e, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13e), geschiedt op dezelfde wijze en met inachtneming van dezelfde beperkingen als de bepaling van de hoogte van het ouderdomspensioen door het ABP indien een overheidswerknemer verzoekt om het ouderdomspensioen in hoogte te laten variëren.
 
-#### Artikel 2.1.10
+##### Artikel 2.1.10
 
 1. Bij een verhoging van de pensioenaanspraken als bedoeld in [artikel 13f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13f), worden slechts de opgebouwde aanspraken op nabestaandenpensioen als bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=5) omgezet, voor zover die aanspraken zijn opgebouwd vanaf 1 juli 1999.
 
 2. De omzetting, bedoeld in [artikel 13f, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13f), geschiedt op dezelfde wijze als de omzetting die het ABP toepast bij het verhogen van het ouderdomspensioen van een overheidswerknemer door het omzetten van partnerpensioen.
 
-#### Artikel 2.1.11
+##### Artikel 2.1.11
 
 De omzettingen, bedoeld in [artikel 13g, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=13g), geschieden op dezelfde wijze als de omzettingen die het ABP toepast bij het verminderen van het ouderdomspensioen bij het eindigen van de deelneming door omzetting in partnerpensioen bij overlijden voor de pensioengerechtigde leeftijd, de aanpassing van de vermindering van het ouderdomspensioen na waardeoverdracht of het opnieuw zijn van deelnemer.
 
-#### Artikel 2.1.12
+##### Artikel 2.1.12
 
 Indien een voor de berekening van de pensioenaanspraken of het pensioen toe te passen parameter wijzigt gedurende het jaar, wordt de berekening op overeenkomstige wijze toegepast op het deel vóór en na de wijziging.
 
 #### § 2. Inhouding met ingang van 2014
 
-#### Artikel 2.2.1
+##### Artikel 2.2.1
 
 1. De inhouding op de bezoldiging terzake van aanspraken bij ouderdom en overlijden, bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=106) en [160, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=160), is gelijk aan het premieverhaal op een overheidswerknemer ter zake van de premie die aan het ABP verschuldigd is voor het ouderdoms- en partnerpensioen, met inachtneming van de franchise, bedoeld in [artikel 2.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.4&z=2022-07-01&g=2022-07-01).
 
@@ -138,17 +164,17 @@ Indien een voor de berekening van de pensioenaanspraken of het pensioen toe te p
 
 #### § 1. Het eigen pensioen
 
-#### Artikel 3.1.1
+##### Artikel 3.1.1
 
 De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming van deze paragraaf.
 
-#### Artikel 3.1.2
+##### Artikel 3.1.2
 
 1. Een belanghebbende heeft na zijn ontslag recht op pensioen, indien hij op de dag van ingang van het ontslag de pensioengerechtigde leeftijd heeft bereikt, tenzij hij op dat tijdstip wederom een functie als politieke ambtsdrager bekleedt.
 
 2. Een belanghebbende aan wie ontslag is verleend vóór het bereiken van de pensioengerechtigde leeftijd, verkrijgt recht op pensioen bij het bereiken van die leeftijd, tenzij hij op dat tijdstip wederom een politiek ambt vervult.
 
-#### Artikel 3.1.3
+##### Artikel 3.1.3
 
 1. Het pensioen bedraagt voor ieder dienstjaar 2 percent van de daarvoor geldende pensioengrondslag, zoals berekend op grond van de [artikelen 3.1.4 tot en met 3.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&artikel=3.1.4&z=2022-07-01&g=2022-07-01). Voor de toepassing van deze artikelen wordt verstaan onder wedde: de laatstelijk genoten wedde, bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=8) aangepast volgens de regels, bedoeld in [artikel 105, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=105).
 
@@ -176,7 +202,7 @@ De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming v
 
 10. Indien een gewezen kamerlid tevens is opgetreden als voorzitter, ondervoorzitter dan wel als fractievoorzitter wordt het pensioen voor ieder jaar dat het kamerlid als zodanig is opgetreden, verhoogd met 1,75 percent van de laatstelijk uit dien hoofde genoten toelage of verhoging van de schadeloosstelling, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=11), en [artikel 12, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=12), inbegrepen de daarover geldende aanspraak op eindejaarsuitkering, bedoeld in [artikel 2b van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004939&artikel=2b) en aangepast volgens de regels, bedoeld in [artikel 105, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=105).
 
-#### Artikel 3.1.4
+##### Artikel 3.1.4
 
 1. Voor tijd vóór 1 januari 1986 is de pensioengrondslag de wedde.
 
@@ -186,7 +212,7 @@ De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming v
 
 4. [Hoofdstuk 17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&hoofdstuk=17) is van toepassing op het pensioen, indien of voor zover berekend over de in het eerste lid bedoelde tijd.
 
-#### Artikel 3.1.5
+##### Artikel 3.1.5
 
 1. Voor tijd tussen 31 december 1985 en 1 januari 1995 is de pensioengrondslag de wedde verminderd met een bedrag, genaamd franchise.
 
@@ -202,11 +228,11 @@ De opbouw van pensioenaanspraken geschiedt tot 1 januari 2014 met inachtneming v
 
 5. Wanneer de in het derde lid bedoelde bedragen op grond van persoonlijke omstandigheden worden gewijzigd, wordt de pensioengrondslag herberekend. Het herberekende pensioen gaat in op dezelfde dag als waarop de bedoelde wijzigingen zich hebben voorgedaan.
 
-#### Artikel 3.1.6
+##### Artikel 3.1.6
 
 Voor de tijd tussen 1 januari 1995 en 1 januari 2004 zijn de ingevolge [artikel 4 van de Wet privatisering ABP](https://wetten.overheid.nl/jci1.3:c:BWBR0007791&artikel=4) vastgestelde franchises van toepassing.
 
-#### Artikel 3.1.7
+##### Artikel 3.1.7
 
 Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&artikel=3.1.5&z=2022-07-01&g=2022-07-01), van toepassing, met dien verstande dat de franchise als volgt wordt vastgesteld:
 
@@ -223,7 +249,7 @@ Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.over
 | 1 januari 2012 | € 17.750,– |
 | 1 januari 2013 | € 18.000,– |
 
-#### Artikel 3.1.8
+##### Artikel 3.1.8
 
 1. De betrokkene heeft recht op een toeslag op zijn pensioen indien dat pensioen is berekend met toepassing van de franchise bedoeld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&artikel=3.1.7&z=2022-07-01&g=2022-07-01) en indien de kalendertijd, waarin de voor de berekening van zijn pensioen meetellende diensttijd is gelegen, geheel of gedeeltelijk samenvalt met kalendertijd, die in aanmerking is genomen bij de berekening van enig pensioen waarop zijn echtgenoot recht heeft, mits op laatstbedoeld pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) en indien de diensttijd valt tussen 31 december 1985 en 1 januari 1995.
 
@@ -235,7 +261,7 @@ Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.over
 
 5. Voor de toepassing van het nabestaanden- en wezenpensioen wordt de toeslag ingevolge dit artikel niet onder pensioen begrepen.
 
-#### Artikel 3.1.9
+##### Artikel 3.1.9
 
 1. Indien in het bedrag van het ouderdomspensioen, waaronder medebegrepen een eventuele toeslag en de vakantie-uitkering, ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) een wijziging wordt aangebracht op grond van persoonlijke omstandigheden, is degene aan wie een pensioen krachtens dit hoofdstuk is toegekend over diensttijd vóór 1 januari 1995, gehouden daarvan onverwijld kennis te geven aan Onze Minister.
 
@@ -243,13 +269,13 @@ Met ingang van 1 januari 2004 is [artikel 3.1.5, eerste lid](https://wetten.over
 
 3. In bijzondere gevallen kan Onze Minister het tweede lid buiten toepassing laten.
 
-#### Artikel 3.1.10
+##### Artikel 3.1.10
 
 De opgebouwde pensioenaanspraken, bedoeld in [artikel 40a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=40a), zijn de aanspraken die zijn opgebouwd vóór 1 januari 2014. Vanaf deze datum worden de aanspraken gewijzigd overeenkomstig [artikel 2.1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=2&paragraaf=1&artikel=2.1.8&z=2022-07-01&g=2022-07-01)
 
 #### § 2. De inhouding tot 1 januari 2014
 
-#### Artikel 3.2.1
+##### Artikel 3.2.1
 
 1. De inhouding, bedoeld in de [artikelen 106](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=106) en [160, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=160), is gelijk aan het premieverhaal op een overheidswerknemer ter zake van de premie die aan het ABP verschuldigd is voor ouderdoms- en nabestaandenpensioen, Anw-compensatie en ABP Arbeidsongeschiktheidspensioen.
 
@@ -274,13 +300,13 @@ De opgebouwde pensioenaanspraken, bedoeld in [artikel 40a, derde lid, van de wet
 
 ### Hoofdstuk 4. Het nabestaanden- en wezenpensioen
 
-#### Artikel 4.1.1
+##### Artikel 4.1.1
 
 De franchise, bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=22), is de algemene franchise, zoals vastgesteld in [artikel 3.1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0034414&hoofdstuk=3&artikel=3.1.7&z=2022-07-01&g=2022-07-01), voor het tijdvak vanaf 1 januari 1986 tot 1 januari 1995, in het geval de betrokkene voor de toepassing van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) als gehuwd wordt aangemerkt.
 
 ### Hoofdstuk 5. De afkoop van een klein pensioen met ingang van 1 januari 2014
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Dit artikel heeft met ingang van 1 januari 2014 betrekking op de afkoop van pensioen als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) dat op de dag van ingang van het pensioen op jaarbasis minder bedraagt dan het bedrag, bedoeld in [artikel 66, eerste lid, van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=66).
 
@@ -288,7 +314,7 @@ De franchise, bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.ove
 
 ### Hoofdstuk 6. De verlaging van pensioenaanspraken en pensioenen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 1. Zodra het ABP zijn deelnemers informeert over het besluit of het voornemen tot een besluit om op grond van [artikel 134 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=134) over te gaan tot vermindering van pensioenaanspraken of pensioenrechten, informeren Onze Minister, de colleges van burgemeester en wethouders, gedeputeerde staten en de dagelijks besturen van de waterschappen de politieke ambtsdragers die pensioenaanspraken hebben opgebouwd of pensioen genieten op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691) over de gevolgen voor hen van dat besluit of voornemen.
 
@@ -298,17 +324,17 @@ De franchise, bedoeld in [artikel 22, vierde lid, van de wet](https://wetten.ove
 
 ### Hoofdstuk 7. De betaling
 
-#### Artikel 7.1.1
+##### Artikel 7.1.1
 
 De betaling van een pensioen geschiedt in de tweede helft van elke maand.
 
-#### Artikel 7.1.2
+##### Artikel 7.1.2
 
 1. De betaling van een pensioen geschiedt op verzoek van een gepensioneerde die woonachtig is in een lidstaat van de Europese Unie op een door gepensioneerde aangewezen rekening bij een in de Europese Unie gevestigde bankinstelling.
 
 2. De betaling van een pensioen van een gepensioneerde die niet woonachtig is in een lidstaat van de Europese Unie geschiedt op een door gepensioneerde aangewezen rekening bij een in Nederland gevestigde bankinstelling.
 
-#### Artikel 7.1.3
+##### Artikel 7.1.3
 
 1. De gepensioneerde die buiten Nederland woont, dan wel – bij overlijden – zijn nabestaande, geeft iedere wijziging van zijn adres en burgerlijke staat, alsmede de aanmelding, bedoeld in [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=2a), onmiddellijk door aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
@@ -316,17 +342,17 @@ De betaling van een pensioen geschiedt in de tweede helft van elke maand.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 8.1.1
+##### Artikel 8.1.1
 
 Dit besluit wordt aangehaald als: Besluit pensioen politieke ambtsdragers.
 
-#### Artikel 8.1.2
+##### Artikel 8.1.2
 
 1. De [besluiten van 25 juni 1993, houdende vaststelling van regelen, bedoeld in de artikel 106, eerste en tweede lid, en 118, tweede lid, van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0006046) (Stb. 1993, 436) respectievelijk van [29 april 1970, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 160 van de Algemene pensioenwet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002706) (Stb. 1970, 198), worden ingetrokken.
 
 2. Bedragen die op het tijdstip van inwerkingtreding van dit besluit ingevolge de in het eerste lid bedoelde besluiten, verschuldigd zijn aan een politieke ambtsdrager, zijn met ingang van dat tijdstip verschuldigd krachtens dit besluit.
 
-#### Artikel 8.1.3
+##### Artikel 8.1.3
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2013.
 

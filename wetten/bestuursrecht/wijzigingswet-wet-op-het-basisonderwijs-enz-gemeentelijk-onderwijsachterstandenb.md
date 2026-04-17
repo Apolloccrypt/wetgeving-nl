@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op het basisonderwijs, enz. (gemeentelijk onderwijsachterstandenbeleid)"
+title: "Wet van 15 mei 1997 tot wijziging van onder meer de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Wet op het voortgezet onderwijs inzake het gemeentelijk onderwijsachterstandenbeleid (Gemeentelijk onderwijsachterstandenbeleid)"
 identifier: "BWBR0008684"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-07-04
-laatste_update: 2013-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008684"
+country: "nl"
+rank: "wet"
+publication_date: "2013-07-04"
+last_updated: "2013-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008684"
+soort: "wet"
+stam_id: "552673"
+version_id: "806272"
+internal_id: "C5355271"
+label_id: "537004"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008684/2013-07-04/0"
+intitule_bron: "Stb.1997-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-15"
+intitule_published: "1997-06-19"
+intitule_in_force: "1997-06-19"
+intitule_status: "goed"
+original_publication: "Stb.1997-237"
+original_signed_date: "1997-05-15"
+original_published_date: "1997-06-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "24778"
+original_url_id: "stb-1997-237"
+entry_into_force_date: "1997-05-15"
+entry_into_force_dossier: "24778"
+jci_1_3: "jci1.3:c:BWBR0008684&z=2013-07-04&g=2013-07-04"
+jci_1_0: "1.0:c:BWBR0008684&g=2013-07-04"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het basisonderwijs, enz. (gemeentelijk onderwijsachterstandenbeleid)"
+signed_date: "1997-05-15"
+entry_into_force: "1997-05-15"
 ---
-
-# Wijzigingswet Wet op het basisonderwijs, enz. (gemeentelijk onderwijsachterstandenbeleid)
+# Wet van 15 mei 1997 tot wijziging van onder meer de Wet op het basisonderwijs, de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en de Wet op het voortgezet onderwijs inzake het gemeentelijk onderwijsachterstandenbeleid (Gemeentelijk onderwijsachterstandenbeleid)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,51 +48,51 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Treedt in werking als de Wet van 5 maart 1998, houdende wijziging van enkele onderwijswetten in verband met het onderwijs in allochtone levende talen en enkele technische aanpassingen (Stb. 1998/148) in werking treedt. De artikelen IX, X en XI werken terug tot en met 20 juni 1997.
 
-#### ARTIKEL I. WIJZIGING VAN DE WET OP HET PRIMAIR ONDERWIJS
+##### ARTIKEL I. WIJZIGING VAN DE WET OP HET PRIMAIR ONDERWIJS
 
 Wijzigt de Wet op het primair onderwijs.
 
-#### ARTIKEL II. WIJZIGING VAN DE WET OP DE EXPERTISECENTRA
+##### ARTIKEL II. WIJZIGING VAN DE WET OP DE EXPERTISECENTRA
 
 Wijzigt de Wet op de expertisecentra.
 
-#### ARTIKEL III. WIJZIGING VAN DE WET OP HET VOORGEZET ONDERWIJS
+##### ARTIKEL III. WIJZIGING VAN DE WET OP HET VOORGEZET ONDERWIJS
 
 Wijzigt de Wet op het voortgezet onderwijs
 
-#### ARTIKEL IV. WIJZIGING VAN DE TIJDELIJKE WET STIMULERING SOCIALE VERNIEUWING
+##### ARTIKEL IV. WIJZIGING VAN DE TIJDELIJKE WET STIMULERING SOCIALE VERNIEUWING
 
 Wijzigt de Tijdelijke wet stimulering sociale vernieuwing.
 
-#### ARTIKEL V. OVERGANGSBEPALING BEZWAAR EN BEROEP
+##### ARTIKEL V. OVERGANGSBEPALING BEZWAAR EN BEROEP
 
 Vervallen
 
-#### ARTIKEL VI. OVERGANGSBEPALING HANDHAVEN OUDE VOORSCHRIFTEN VOOR AFREKENING
+##### ARTIKEL VI. OVERGANGSBEPALING HANDHAVEN OUDE VOORSCHRIFTEN VOOR AFREKENING
 
 Vervallen
 
-#### ARTIKEL VII. OVERGANGSBEPALING TOEDELING GEMEENTELIJKE MIDDELEN
+##### ARTIKEL VII. OVERGANGSBEPALING TOEDELING GEMEENTELIJKE MIDDELEN
 
 Vervallen
 
-#### ARTIKEL VIII. OVERGANGSBEPALING INWERKINGTREDING AWB DERDE TRANCHE
+##### ARTIKEL VIII. OVERGANGSBEPALING INWERKINGTREDING AWB DERDE TRANCHE
 
 Vervallen
 
-#### ARTIKEL IX. EERSTE VASTSTELLING LANDELIJK BELEIDSKADER EN ONDERWIJSACHTERSTANDENPLAN
+##### ARTIKEL IX. EERSTE VASTSTELLING LANDELIJK BELEIDSKADER EN ONDERWIJSACHTERSTANDENPLAN
 
 Vervallen
 
-#### ARTIKEL X. MINISTERIËLE REGELING VOOR INVOERING VAN DE WET
+##### ARTIKEL X. MINISTERIËLE REGELING VOOR INVOERING VAN DE WET
 
 Vervallen
 
-#### ARTIKEL XI. TOEKENNING MIDDELEN VOOR ONDERWIJSACHTERSTANDENBESTRIJDING VANAF 1 AUGUSTUS 1997
+##### ARTIKEL XI. TOEKENNING MIDDELEN VOOR ONDERWIJSACHTERSTANDENBESTRIJDING VANAF 1 AUGUSTUS 1997
 
 Vervallen
 
-#### ARTIKEL XII. INWERKINGTREDING
+##### ARTIKEL XII. INWERKINGTREDING
 
 Indien het bij koninklijke boodschap van 28 december 1996 ingediende voorstel van wet tot wijziging van enkele onderwijswetten in verband met het onderwijs in allochtone levende talen en enkele technische aanpassingen (Kamerstukken 25 176) tot wet wordt verheven en in werking treedt, treedt deze wet op hetzelfde tijdstip in werking, met dien verstande dat
 

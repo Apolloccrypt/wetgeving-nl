@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsregeling selectielijst neerslag handelingen Minister van Verkeer en Waterstaat beleidsterrein Rijksbegroting periode 1940–1993"
 identifier: "BWBR0018399"
-categorie: "Milieu"
-publicatiedatum: 2005-07-20
-laatste_update: 2005-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018399"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-07-20"
+last_updated: "2005-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018399"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "7146623"
+version_id: "12047082"
+internal_id: "C25315341"
+label_id: "7134504"
+original_entry_into_force: "2005-07-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018399/2005-07-20/0"
+intitule_bron: "Stcrt.2005-136"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-08"
+intitule_published: "2005-07-18"
+intitule_in_force: "2005-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-136"
+original_signed_date: "2005-06-08"
+original_published_date: "2005-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-136-p13-SC70630"
+entry_into_force_date: "2005-07-20"
+jci_1_3: "jci1.3:c:BWBR0018399&z=2005-07-20&g=2005-07-20"
+jci_1_0: "1.0:c:BWBR0018399&g=2005-07-20"
+citeertitel_status: "redactioneel"
+signed_date: "2005-06-08"
+entry_into_force: "2005-07-20"
 ---
-
 # Vaststellingsregeling selectielijst neerslag handelingen Minister van Verkeer en Waterstaat beleidsterrein Rijksbegroting periode 1940–1993
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +40,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 9 mei 2005, nr
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Rijksbegroting over de periode 1940–1993’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De ‘lijst voor vernietiging in aanmerking komende archiefbescheiden van het departement van Verkeer en Waterstaat en van de daaronder ressorterende rijksorganen, met uitzondering van het Staatsbedrijf der PTT’ (gepubliceerd in de Staatscourant nr. 117, 1977), categorie 44 tot en met 53 wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

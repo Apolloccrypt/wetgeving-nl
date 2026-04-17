@@ -1,13 +1,39 @@
 ---
-title: "Besluit op de huurtoeslag"
+title: "Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)"
 identifier: "BWBR0008763"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008763"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008763"
+soort: "AMvB"
+stam_id: "576933"
+version_id: "838292"
+internal_id: "C838291"
+label_id: "560104"
+dtd_version: "2.0"
+original_entry_into_force: "1997-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008763/2026-01-01/0"
+intitule_bron: "Stb.1997-269"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-06-25"
+intitule_published: "1997-07-01"
+intitule_in_force: "1997-07-01"
+intitule_status: "goed"
+original_publication: "Stb.1997-269"
+original_signed_date: "1997-06-25"
+original_published_date: "1997-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-269"
+entry_into_force_date: "1997-07-02"
+jci_1_3: "jci1.3:c:BWBR0008763&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008763&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit op de huurtoeslag"
+signed_date: "1997-06-25"
+entry_into_force: "1997-07-02"
 ---
-
 # Besluit van 25 juni 1997 tot uitvoering van de Huursubsidiewet, met uitzondering van de bepalingen van die wet betreffende de beheersing van de huurlasten en de huursubsidieuitgaven (Huursubsidiebesluit)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 maart 1997, nr. MJZ 97092973, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -24,13 +50,13 @@ Werkt terug tot en met 1 juli 1997.
 
 ### HOOFDSTUK 1. DEFINITIES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659).
 
 ### Hoofdstuk 2. Bijzondere gevallen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een huurder, diens partner of een medebewoner buiten beschouwing indien:
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 ### Hoofdstuk 3. Onzelfstandige woonruimte
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een woongebouw of een woning waarvan onzelfstandige woonruimte deel uitmaakt als bedoeld in [artikel 11, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=11), kan op voet van artikel 11, tweede lid, van de wet, slechts door de Dienst Toeslagen worden aangewezen indien:
 
@@ -88,21 +114,21 @@ In dit besluit wordt verstaan onder wet: [Wet op de huurtoeslag](https://wetten.
 
 ### Hoofdstuk 4. Verklaring van de voorzitter van de huurcommissie
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artikel 6, eerste lid, onder b, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=6), de hoogte van de huurprijs en of deze al dan niet redelijk is, beoordeeld naar de bij of krachtens die [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0014315) gestelde regels. Indien de voorzitter van oordeel is dat de huurprijs niet redelijk is, vermeldt hij tevens het puntenaantal van de woning op basis van het waarderingsstelsel, bedoeld in [artikel 5 van het Besluit huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0003237&artikel=5).
 
 ### HOOFDSTUK 5. INFORMATIEPLICHT
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het percentage, bedoeld in [artikel 21, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21), is 65.
 
@@ -112,53 +138,53 @@ De voorzitter van de huurcommissie vermeldt in de verklaring, bedoeld in [artike
 
 #### § 1. Ministerie van Justitie
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Besluit financiële toevoegingsgrenzen.
 
 #### § 1. Ministerie van Justitie
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Bijstandsbesluit krediethypotheek.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit gegevensverstrekking sociale verzekeringen 1997.
 
 #### § 2. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Huisvestingsbesluit.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Besluit beheer sociale-huursector.
 
 ### HOOFDSTUK 7. SLOTBEPALINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 Op subsidietijdvakken die zijn aangevangen onder de werking van de Wet individuele huursubsidie blijven van toepassing het Besluit individuele huursubsidie en het Besluit verklaring huurgegevens individuele huursubsidie.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit besluit treedt in werking met ingang van 1 juli 1997.
 
 2. Indien het **Staatsblad** waarin dit besluit wordt gepubliceerd wordt uitgegeven op of na 1 juli 1997, werkt het terug tot en met 1 juli 1997.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit op de huurtoeslag.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Op verzoek blijft voor de toepassing van [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=2), van [artikel 7 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) en de op die artikelen berustende bepalingen voor zover het betreft het toekennen van een huurtoeslag, een partner of medebewoner buiten beschouwing indien sprake is van een verzorgingsbehoefte bij de huurder, diens partner of een medebewoner.
 
@@ -174,7 +200,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. [Artikel 27, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=27) is van overeenkomstige toepassing op de in het tweede lid, onderdelen b en c, vermelde bedragen, waarbij ten aanzien van het in het tweede lid, onderdeel c, vermelde bedrag het resultaat naar boven wordt afgerond op een veelvoud van € 25.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Op verzoek blijven bij de toepassing van [artikel 7, eerste en tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=7) voor zover het betreft het toekennen van een huurtoeslag, de navolgende bestanddelen van het toetsingsinkomen buiten beschouwing:
 
@@ -192,7 +218,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien de belanghebbende gedurende het gehele berekeningsjaar een partner heeft, wordt het in het eerste lid, onderdeel e, bedoelde drempelbedrag voor uitgaven voor specifieke zorgkosten verdubbeld.
 
-#### Artikel 2c
+##### Artikel 2c
 
 Een verzoek als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), [2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2a&z=2026-01-01&g=2026-01-01), en [2b, eerste lid, onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0008763&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), wordt geacht mede te zijn gedaan voor op het berekeningsjaar volgende berekeningsjaren.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu"
+title: "Besluit van 28 september 2010, houdende aanwijzing van de autoriteiten, bedoeld in de artikelen 27 van de Vervoersnoodwet en 22 van de Havennoodwet alsmede actualisering van de aanwijzing krachtens artikel 16 van de Prijzennoodwet (Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat)"
 identifier: "BWBR0028910"
-categorie: "Milieu"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028910"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028910"
+soort: "AMvB"
+stam_id: "11065993"
+version_id: "18082942"
+internal_id: "C25136971"
+label_id: "11040434"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028910/2019-07-01/0"
+intitule_bron: "Stb.2010-729"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-28"
+intitule_published: "2010-11-03"
+intitule_in_force: "2010-11-03"
+intitule_status: "goed"
+original_publication: "Stb.2010-729"
+original_signed_date: "2010-09-28"
+original_published_date: "2010-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-729"
+entry_into_force_date: "2010-11-04"
+jci_1_3: "jci1.3:c:BWBR0028910&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0028910&g=2019-07-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu"
+signed_date: "2010-09-28"
+entry_into_force: "2010-11-04"
 ---
-
 # Besluit van 28 september 2010, houdende aanwijzing van de autoriteiten, bedoeld in de artikelen 27 van de Vervoersnoodwet en 22 van de Havennoodwet alsmede actualisering van de aanwijzing krachtens artikel 16 van de Prijzennoodwet (Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat)
 
 Op de voordracht van Onze Ministers van Verkeer en Waterstaat en van Defensie van 14 juli 2010, nr. CEND/HDJZ-2010/1006 sector AWW, Hoofddirectie Juridische Zaken, mede namens Onze Minister van Economische Zaken;
@@ -20,17 +46,17 @@ Gezien het nader rapport van Onze Ministers van Verkeer en Waterstaat en van Def
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder het regionale organisatieonderdeel: het regionale organisatieonderdeel van het directoraat-generaal Rijkswaterstaat, ingesteld krachtens [artikel 2, eerste lid, onder b, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0026953&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27) worden voor Onze Minister van Infrastructuur en Milieu aangewezen de hoofdingenieur-directeuren van de regionale organisatieonderdelen, ieder voor het gezagsgebied van het regionale organisatieonderdeel waarvoor hij is aangesteld.
 
 2. Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) worden voor Onze Minister van Infrastructuur en Milieu aangewezen:
 
@@ -80,23 +106,23 @@ In dit besluit wordt verstaan onder het regionale organisatieonderdeel: het regi
 
 2. Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2019-07-01&g=2019-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2019-07-01&g=2019-07-01) aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=27) en [22 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=22) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.
 
-#### Artikel 5
+##### Artikel 5
 
 De in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=2&z=2019-07-01&g=2019-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028910&artikel=3&z=2019-07-01&g=2019-07-01) aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002391&artikel=16) en [artikel 8 van de Havennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002410&artikel=8) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Aanwijzingsbesluit noodwetgeving Infrastructuur en Milieu.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

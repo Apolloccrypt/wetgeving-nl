@@ -1,13 +1,39 @@
 ---
-title: "Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
+title: "Besluit van de secretaris-generaal van het Ministerie van Financiën van 7 april 2021, (nr. 2021-63951), houdende vaststelling van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
 identifier: "BWBR0045078"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-04-03
-laatste_update: 2026-04-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045078"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-03"
+last_updated: "2026-04-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045078"
+soort: "ministeriele-regeling"
+stam_id: "15939963"
+version_id: "27735252"
+internal_id: "C39125001"
+label_id: "15874764"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045078/2026-04-03/0"
+intitule_bron: "Stcrt.2021-21167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-07"
+intitule_published: "2021-04-29"
+intitule_in_force: "2021-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21167"
+original_signed_date: "2021-04-07"
+original_published_date: "2021-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21167"
+entry_into_force_date: "2021-04-30"
+jci_1_3: "jci1.3:c:BWBR0045078&z=2026-04-03&g=2026-04-03"
+jci_1_0: "1.0:c:BWBR0045078&g=2026-04-03"
+citeertitel_status: "officieel"
+short_title: "Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021"
+signed_date: "2021-04-07"
+entry_into_force: "2021-04-30"
 ---
-
 # Besluit van de secretaris-generaal van het Ministerie van Financiën van 7 april 2021, (nr. 2021-63951), houdende vaststelling van het Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021
 
 Gelet op de [artikelen 10:3](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), [10:9](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) en [10:12 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:12), [artikel 4.6, eerste lid, van de Comptabiliteitswet 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039429&artikel=4.6) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=4), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=8), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=10), [11 tot en met 16 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=11), de [hoofdstukken 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5), [5A](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5A) en [5B van het Organisatiebesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043027&hoofdstuk=5B) en het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076);
@@ -16,7 +42,7 @@ Besluit vast te stellen het navolgende Mandaatbesluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,7 +94,7 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 - x. **taakverdelingsbesluit:** het laatstelijk vastgestelde besluit van de Minister houdende bekendmaking van de taken waarmee de Staatssecretaris van Financiën of Staatssecretarissen van Financiën in het bijzonder is respectievelijk zijn belast.
 
-#### Artikel 2. Volmacht en machtiging
+##### Artikel 2. Volmacht en machtiging
 
 Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met de verlening van mandaat gelijkgesteld de verlening van:
 
@@ -76,7 +102,7 @@ Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt met 
 
 - b). machtiging: de bevoegdheid om namens de Minister voor de Staat of de Staat der Nederlanden handelingen te verrichten die noch een besluit noch een privaatrechtelijke rechtshandeling zijn.
 
-#### Artikel 3. Mandaat bij afwezigheid/verhindering
+##### Artikel 3. Mandaat bij afwezigheid/verhindering
 
 1. De taken en bevoegdheden van de gemandateerde kunnen ook worden uitgeoefend door een aangewezen plaatsvervanger. De aanwijzing van een plaatsvervanger geschiedt door de mandaatgever met inachtneming van het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) en in overeenstemming met de algemene leiding DGBD, de algemene leiding DGTSL of de algemene leiding DGD ten aanzien van de directeuren van de topstructuur DGBD, DGD en DGTSL.
 
@@ -84,15 +110,15 @@ De aanwijzing van een plaatsvervanger anders dan plaatsvervanger voor de directe
 
 2. Bij gelijktijdige afwezigheid of verhindering van de gemandateerde en diens plaatsvervanger worden de taken volledig uitgeoefend door de naasthogere leidinggevende functionaris.
 
-#### Artikel 4. Bevoegdheden bij het ontbreken van beslissingsbevoegde functionarissen
+##### Artikel 4. Bevoegdheden bij het ontbreken van beslissingsbevoegde functionarissen
 
 Indien beslissingsbevoegde functionarissen zoals bedoeld in dit besluit, in een onderdeel niet voorkomen behoren de bevoegdheden toe aan de naast hogere leidinggevende functionaris.
 
-#### Artikel 5. Overleg met algemene leiding
+##### Artikel 5. Overleg met algemene leiding
 
 Over vraagstukken die van politiek gevoelige of anderszins zwaarwegende aard zijn, treden mandaathouders in overleg met de algemene leiding DGBD, de algemene leiding DGTSL of de algemene leiding DGD, voordat van bevoegdheden gebruik wordt gemaakt.
 
-#### Artikel 6. Ondertekening
+##### Artikel 6. Ondertekening
 
 De ondertekening van uitgaande stukken zal luiden als volgt:
 
@@ -102,11 +128,11 @@ De ondertekening van uitgaande stukken zal luiden als volgt:
 
 ### Hoofdstuk 2. Mandaten
 
-#### Artikel 7. Mandaat aan de directeuren van de topstructuur DGBD en de directie directeuren DGBD
+##### Artikel 7. Mandaat aan de directeuren van de topstructuur DGBD en de directie directeuren DGBD
 
 De directeuren van de topstructuur DGBD en de directie directeuren DGBD hebben binnen het kader van de jaarcontracten en binnen eventueel door de staatssecretaris of namens de staatssecretaris door de algemene leiding van het ministerie of de algemene leiding DGBD gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 
-#### Artikel 8. Budgethouderschap
+##### Artikel 8. Budgethouderschap
 
 1. Conform het [Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022), verleent de DG voor de in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=7) en [8 van het voornoemde mandaatbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=8) genoemde bevoegdheden ondermandaat aan budgethouders.
 
@@ -120,7 +146,7 @@ De directeuren van de topstructuur DGBD en de directie directeuren DGBD hebben b
 
 6. Verplichtingen van of boven de € 10.000.000,– exclusief BTW worden alleen aangegaan mits er goedkeuring is van FEZ.
 
-#### Artikel 9. Inkoop
+##### Artikel 9. Inkoop
 
 1. Raamovereenkomsten/overige verplichtingen: de budgethouder is bevoegd tot het aangaan van raamovereenkomsten zoals bedoeld in [artikel 1.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1), alsmede tot het aangaan van andere financiële verplichtingen volgend uit de aanbestedingsprocedures zoals bedoeld in de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203). Het gunningsbesluit wordt door de budgethouder vastgesteld waarbij tevens machtiging wordt verleend aan de functionaris van de directie Inkoop van het DGBD conform de bevoegdheden genoemd in het tweede, derde en vierde lid.
 
@@ -130,29 +156,29 @@ De directeuren van de topstructuur DGBD en de directie directeuren DGBD hebben b
 
 4. Proces gerelateerde stukken worden door een afdelingshoofd van de directie Inkoop van het DGBD of de teamleider van de afdeling IUC getekend.
 
-#### Artikel 10. Verplichtingen tot het leveren van dienstverlening
+##### Artikel 10. Verplichtingen tot het leveren van dienstverlening
 
 De directeuren van de organisatieonderdelen kunnen verplichtingen aangaan tot het leveren van dienstverlening door het DGBD, het DGTSL of het DGD onder de € 1 mln. inclusief eventuele BTW – materieel – aan externe partijen buiten de Belastingdienst (zowel aan partijen binnen de rechtspersoon Staat, als daarbuiten), na instemming met deze – aanvullende- dienstverlening door de DGBD, de DGTSL of de DGD conform de binnen de Rijksbelastingdienst geldende kaders daarvoor. Voor het aangaan van verplichtingen in de rol van concerndienstverlener (CDV) is het grensbedrag € 5 mln.
 
 Het aangaan van verplichtingen tot het leveren van dienstverlening door het DGBD, het DGTSL of het DGD boven de € 1 mln., is voorbehouden aan de algemene leiding DGBD, de algemene leiding DGTSL of de algemene leiding DGD.
 
-#### Artikel 11. Afwijkingen en uitzonderingen aanbestedingsprocedure
+##### Artikel 11. Afwijkingen en uitzonderingen aanbestedingsprocedure
 
 Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als bedoeld in de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203), alsmede over het toepassen van een uitzonderingsgrond als bedoeld in de [artikelen 2.24 tot en met 2.24c van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=2.24).
 
-#### Artikel 12. Personeelsbeslissingen
+##### Artikel 12. Personeelsbeslissingen
 
 1. Bij het maken van afspraken, afdoen van stukken en ondertekenen van uitgaande brieven door de verantwoordelijk leidinggevende met betrekking tot de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&bijlage=2&z=2026-04-03&g=2026-04-03) opgenomen personeelsaangelegenheden is voorafgaand advies van de directeur Organisatie & Personeel (O&P), of een door de directeur O&P aan te wijzen afdelingshoofd, vereist voor het DGBD, of is voorafgaand advies van de directeur Mensen & Middelen of een door de directeur Mensen & Middelen aan te wijzen afdelingshoofd vereist indien het het DGD betreft, of is voorafgaand advies van de directeur FIOD vereist indien het de FIOD betreft, of is voorafgaand advies van de directeur Mensen, Middelen & Communicatie of een door de directeur Mensen, Middelen & Communicatie aan te wijzen afdelingshoofd vereist indien het het DGTSL betreft.
 
 2. Bij het beslissen over verzoeken ten aanzien van het starten van een gerechtelijke procedure met betrekking tot personeelsaangelegenheden is voorafgaande goedkeuring door de directeur O&P voor het DGBD en FIOD vereist, of is voorafgaande goedkeuring door de directeur-generaal Toeslagen vereist indien het het DGTSL betreft, of is voorafgaande goedkeuring door de directeur-generaal Douane vereist indien het het DGD betreft
 
-#### Artikel 13. Tijdelijke regeling ondermandaat voor DGTSL
+##### Artikel 13. Tijdelijke regeling ondermandaat voor DGTSL
 
 1. De directeur-generaal Toeslagen kan voor zijn werkterrein ondermandaat verlenen aan personen binnen het DGTSL.
 
 2. In een ondermandaat wordt de omvang ervan aangegeven.
 
-#### Artikel 14. Mandaatregister
+##### Artikel 14. Mandaatregister
 
 1. Onderdeel van deze regeling vormt een mandaatregister dat wordt gepubliceerd. Het mandaatregister bevat de functienamen van de gemandateerde, ondergemandateerde en gevolmachtigde functionarissen zoals bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=2&z=2026-04-03&g=2026-04-03) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&z=2026-04-03&g=2026-04-03) van deze regeling.
 
@@ -160,23 +186,23 @@ Aan de DG is voorbehouden te beslissen over het afwijken van de procedures als b
 
 ### Hoofdstuk 3. Algemene bepalingen ten aanzien van de uitoefening van taken
 
-#### Artikel 15. Voorbehouden aan de algemene leiding DGBD, de algemene leiding DGTSL en de algemene leiding DGD
+##### Artikel 15. Voorbehouden aan de algemene leiding DGBD, de algemene leiding DGTSL en de algemene leiding DGD
 
 Vervallen
 
-#### Artikel 16. Voorbehouden aan de pDGBD
+##### Artikel 16. Voorbehouden aan de pDGBD
 
 Vervallen
 
-#### Artikel 17. Voorbehouden aan de directeuren (van de topstructuur DGBD)
+##### Artikel 17. Voorbehouden aan de directeuren (van de topstructuur DGBD)
 
 Vervallen
 
-#### Artikel 18. Voorbehouden aan de algemeen directeuren (van de topstructuur DGBD)
+##### Artikel 18. Voorbehouden aan de algemeen directeuren (van de topstructuur DGBD)
 
 Vervallen
 
-#### Artikel 19. Voorbehouden aan de overige directeuren of vergelijkbare leidinggevende functionarissen
+##### Artikel 19. Voorbehouden aan de overige directeuren of vergelijkbare leidinggevende functionarissen
 
 1. De overige directeuren van de in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) genoemde directies en hun plaatsvervangers hebben binnen het kader van hun jaarcontracten en behoudens de voorgaande bepalingen volmacht tot het nemen van beslissingen en afdoen van stukken betreffende aangelegenheden op het gebied van organisatie en personeel genoemd in het [Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045076) ten aanzien van onder hen ressorterende medewerkers.
 
@@ -202,17 +228,17 @@ Vervallen
 
 - i. op verzoeken tot het niet laten vervallen dan wel verjaren van wettelijke vakantie-uren.
 
-#### Artikel 20. Voorbehouden aan de afdelingshoofden of vergelijkbare leidinggevende functionarissen
+##### Artikel 20. Voorbehouden aan de afdelingshoofden of vergelijkbare leidinggevende functionarissen
 
 1. De afdelingshoofden van de in het Organisatiebesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021 genoemde afdelingen en hun plaatsvervangers kunnen het aan hen door de overige directeur verleende ondermandaat, doormandateren aan onder hen ressorterende teamleiders of daarmee gelijk te stellen leidinggevende functies, die daartoe worden doorgemandateerd in het mandaatregister.
 
 2. Aan de in het eerste lid ondergemandateerde functionarissen is, na afstemming met de overige directeur, voorbehouden het afdoen en ondertekenen van beslissingen met betrekking tot het aangaan (waaronder mede wordt verstaan het maken van afspraken over beloning), wijzigen en met inachtneming van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=13) en [15 tot en met 15c van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&artikel=15) en [artikel 19, derde lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0045078&hoofdstuk=3&artikel=19&z=2026-04-03&g=2026-04-03), beëindigen van de arbeidsovereenkomst van medewerkers in de functie van teamleider of daarmee gelijk te stellen leidinggevende functies.
 
-#### Artikel 21. Voorbehouden aan de teamleiders of vergelijkbare leidinggevende functionarissen
+##### Artikel 21. Voorbehouden aan de teamleiders of vergelijkbare leidinggevende functionarissen
 
 Vervallen
 
-#### Artikel 22. Afnemen eed en belofte
+##### Artikel 22. Afnemen eed en belofte
 
 1. Met inachtneming van hetgeen is bepaald in voorgaande artikelen en in [hoofdstuk 4 van het Mandaatbesluit Ministerie van Financiën 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043022&hoofdstuk=4) zijn de directeuren van de topstructuur DGD, DGTSL en de directie directeuren DGBD bevoegd om ten aanzien van het tot het eigen directoraat-generaal behorende medewerkers namens de Staat der Nederlanden de eed en belofte af te nemen.
 
@@ -222,7 +248,7 @@ Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 23. Intrekking andere regelingen
+##### Artikel 23. Intrekking andere regelingen
 
 1. Het [Mandaatbesluit Directoraat-Generaal Belastingdienst 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043518) wordt ingetrokken.
 
@@ -230,11 +256,11 @@ Vervallen
 
 3. Vóór het tijdstip van inwerkingtreding van dit besluit van kracht zijnde mandaten, ondermandaten, volmachten en machtigingen, waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, blijven van kracht totdat op grond van dit besluit is voorzien in mandaat, ondermandaat, volmacht of machtiging dan wel is voorzien in intrekking daarvan.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2021.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Dit besluit wordt aangehaald als: Mandaatbesluit Directoraten-Generaal Belastingdienst, Toeslagen en Douane 2021.
 
@@ -284,7 +310,7 @@ Daar waar de functionaris niet is benoemd in de organisatie, geldt de regel dat 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Mandaat aan de directeuren DGTSL en DGD
+##### Artikel 7a. Mandaat aan de directeuren DGTSL en DGD
 
 De directeuren DGTSL en DGD hebben binnen het kader van de jaarcontracten en binnen eventueel door de staatssecretaris of namens de staatssecretaris door de algemene leiding van het ministerie of de algemene leiding DGTSL of de algemene leiding DGD gegeven richtlijnen mandaat ten aanzien van het nemen van besluiten en afdoen van stukken betreffende alle aangelegenheden die behoren tot hun werkterrein, tenzij bij wet anders is bepaald of de aard van de bevoegdheid zich daartegen verzet.
 

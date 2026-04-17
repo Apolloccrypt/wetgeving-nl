@@ -1,13 +1,39 @@
 ---
-title: "Stimuleringsregeling Wonen en Zorg 2025"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]"
 identifier: "BWBR0051092"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-06-11
-laatste_update: 2025-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051092"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-11"
+last_updated: "2025-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051092"
+soort: "ministeriele-regeling"
+stam_id: "17443093"
+version_id: "30758392"
+internal_id: "C44087101"
+label_id: "17346014"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051092/2025-06-11/0"
+intitule_bron: "Stcrt.2025-19260"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-28"
+intitule_published: "2025-06-10"
+intitule_in_force: "2025-06-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-19260"
+original_signed_date: "2025-05-28"
+original_published_date: "2025-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-19260"
+entry_into_force_date: "2025-06-11"
+jci_1_3: "jci1.3:c:BWBR0051092&z=2025-06-11&g=2025-06-11"
+jci_1_0: "1.0:c:BWBR0051092&g=2025-06-11"
+citeertitel_status: "officieel"
+short_title: "Stimuleringsregeling Wonen en Zorg 2025"
+signed_date: "2025-05-28"
+entry_into_force: "2025-06-11"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 28 mei 2025, kenmerk 4117787-1082588-DMO, houdende regels voor het verstrekken van subsidie ter stimulering van de ontwikkeling en totstandkoming van woonzorgarrangementen (Stimuleringsregeling Wonen en Zorg 2025) [KetenID WGK027893]
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definitiebepaling en toepassingsbereik
+##### Artikel 1.1. Definitiebepaling en toepassingsbereik
 
 - –. **algemene groepsvrijstellingsverordening:** [verordening (EU) nr. 651/2014](32014R0651) van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187);
 
@@ -48,15 +74,15 @@ Besluit:
 
 2. Deze regeling is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 1.3. Doel van de regeling
+##### Artikel 1.3. Doel van de regeling
 
 Deze regeling heeft als doel het stimuleren van de ontwikkeling en totstandkoming van vernieuwende, kleinschalige en geclusterde woonzorgarrangementen voor mensen met laag- of middeninkomen met levensloopbestendige of gemakkelijk aanpasbare woningen.
 
-#### Artikel 1.4. Voorwaarden woonzorgarrangement
+##### Artikel 1.4. Voorwaarden woonzorgarrangement
 
 Voor een woonzorgarrangement, bedoeld in [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=1&artikel=1.3&z=2025-06-11&g=2025-06-11), geldt dat:
 
@@ -76,11 +102,11 @@ Voor een woonzorgarrangement, bedoeld in [artikel 1.3](https://wetten.overheid.n
 
 ### Hoofdstuk 2. Initiatieffase
 
-#### Artikel 2.1. Subsidiabele activiteiten
+##### Artikel 2.1. Subsidiabele activiteiten
 
 De minister kan op grond van dit hoofdstuk op aanvraag subsidie verstrekken aan een WZ-ondernemer ten behoeve van het onderzoeken van de haalbaarheid van een woonzorgarrangement.
 
-#### Artikel 2.2. Aanvraag tot verlening van subsidie
+##### Artikel 2.2. Aanvraag tot verlening van subsidie
 
 1. Voor een aanvraag tot verlening van de subsidie wordt een door de minister vastgesteld formulier gebruikt.
 
@@ -104,11 +130,11 @@ De minister kan op grond van dit hoofdstuk op aanvraag subsidie verstrekken aan 
 
 3. Een aanvraag wordt vóór 31 oktober 17.00 uur van elk jaar ingediend.
 
-#### Artikel 2.3. Hoogte van de subsidie
+##### Artikel 2.3. Hoogte van de subsidie
 
 De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 per woonzorgarrangement.
 
-#### Artikel 2.4. Subsidieplafond
+##### Artikel 2.4. Subsidieplafond
 
 1. Het subsidieplafond voor de initiatieffase bedraagt € 1.250.000 per jaar.
 
@@ -116,7 +142,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 3. Indien op de dag dat het subsidieplafond wordt bereikt meer dan één complete aanvraag ontvangen wordt en de volgorde van binnenkomst van deze aanvragen niet is vast te stellen, wordt de volgorde vastgesteld door middel van loting.
 
-#### Artikel 2.5. Verlening, bevoorschotting en betaling
+##### Artikel 2.5. Verlening, bevoorschotting en betaling
 
 1. De minister geeft binnen acht weken na ontvangst van de aanvraag een beschikking tot verlening van de subsidie.
 
@@ -124,7 +150,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 3. De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% van het subsidiebedrag.
 
-#### Artikel 2.6. Meldingsplicht
+##### Artikel 2.6. Meldingsplicht
 
 1. De subsidieontvanger meldt onverwijld schriftelijk aan de minister indien:
 
@@ -136,7 +162,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 2. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.
 
-#### Artikel 2.7. Subsidieverplichtingen
+##### Artikel 2.7. Subsidieverplichtingen
 
 1. Het onderzoek naar de haalbaarheid van het woonzorgarrangement als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.1&z=2025-06-11&g=2025-06-11) dient binnen één jaar na het verlenen van de subsidie te zijn afgerond met een verslag over de haalbaarheid.
 
@@ -146,7 +172,7 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 4. De verplichting, bedoeld in het derde lid, geldt gedurende vijf jaar na de datum van de beschikking tot subsidievaststelling.
 
-#### Artikel 2.8. Vaststelling
+##### Artikel 2.8. Vaststelling
 
 1. De minister neemt binnen 6 weken na het verstrijken van de termijn, bedoeld in [artikel 2.7, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051092&hoofdstuk=2&artikel=2.7&z=2025-06-11&g=2025-06-11), ambtshalve een besluit tot vaststelling van de subsidie.
 
@@ -154,23 +180,23 @@ De subsidie bedraagt € 1.250 per wooneenheid tot een maximum van € 25.000 pe
 
 3. De subsidie wordt vastgesteld op een bedrag tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-#### Artikel 2.9. Staatssteun
+##### Artikel 2.9. Staatssteun
 
 Subsidie op grond van dit hoofdstuk wordt slechts verleend indien deze in overeenstemming is met de de-minimisverordening.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030 met dien verstande dat deze regeling van toepassing blijft op subsidies die voor die datum zijn verleend.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Stimuleringsregeling Wonen en Zorg 2025.
 

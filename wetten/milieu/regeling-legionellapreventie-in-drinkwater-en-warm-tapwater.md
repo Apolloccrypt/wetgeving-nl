@@ -1,13 +1,39 @@
 ---
-title: "Regeling legionellapreventie in drinkwater en warm tapwater"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 27 juni 2011, nr. BJZ2011046957, houdende nadere regels met betrekking tot enige onderwerpen inzake legionellapreventie in drinkwater en warm tapwater (Regeling legionellapreventie in drinkwater en warm tapwater)"
 identifier: "BWBR0030166"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030166"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030166"
+soort: "ministeriele-regeling"
+stam_id: "11370023"
+version_id: "18656432"
+internal_id: "C26036381"
+label_id: "11343704"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030166/2024-01-01/0"
+intitule_bron: "Stcrt.2011-10828"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-27"
+intitule_published: "2011-06-29"
+intitule_in_force: "2011-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10828"
+original_signed_date: "2011-06-27"
+original_published_date: "2011-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-10828"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030166&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0030166&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling legionellapreventie in drinkwater en warm tapwater"
+signed_date: "2011-06-27"
+entry_into_force: "2011-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 27 juni 2011, nr. BJZ2011046957, houdende nadere regels met betrekking tot enige onderwerpen inzake legionellapreventie in drinkwater en warm tapwater (Regeling legionellapreventie in drinkwater en warm tapwater)
 
 Gelet op [richtlijn nr. 98/83/EG](31998L0083) van de Raad van de Europese Gemeenschappen van 3 november 1998 betreffende de kwaliteit van voor menselijke consumptie bestemd water (PbEG L 330) en de [artikelen 35, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), [36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36), [37, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=37), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=42), [43, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43) en [44, zesde lid van het Drinkwaterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=44);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **eenvoudige drinkwaterinstallatie:** samenstel van leidingen, fittingen en toestellen na de watermeter, aangesloten op het leidingnet van een drinkwaterbedrijf of een collectieve watervoorziening dan wel op een collectief leidingnet, dat in omvang en complexiteit overeenkomt met dat van een eengezinswoning.
 
-#### Artikel 2. Aanwijzen categorieën zorginstellingen
+##### Artikel 2. Aanwijzen categorieën zorginstellingen
 
 1. Als categorieën zorginstellingen, bedoeld in [artikel 35, eerste lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), worden aangewezen:
 
@@ -48,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 2. Het eerste lid is niet van toepassing op zorginstellingen waar uitsluitend sprake is van een of meerdere eenvoudige drinkwaterinstallaties.
 
-#### Artikel 3. Onderzoek legionella door drinkwaterbedrijf
+##### Artikel 3. Onderzoek legionella door drinkwaterbedrijf
 
 1. De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater na de laatste zuiveringsstap ten minste halfjaarlijks.
 
 2. De eigenaar van een drinkwaterbedrijf onderzoekt het drinkwater in zijn distributiegebied overeenkomstig de frequentie, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-#### Artikel 4. Aanwijzing soorten Legionellabacterie
+##### Artikel 4. Aanwijzing soorten Legionellabacterie
 
 1. Als soorten legionellabacterie waarvoor de in [artikel 36, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=36) bedoelde kwaliteitseis van toepassing is, worden aangewezen: **L. anisa, L. birminghamensis, L. bozemanii, L. cincinnatiensis, L. dumoffii, L. erythra, L. feeleii, L. gormanii, L. hackeliae, L. jordanis, L. lansingensis, L. longbeachae, L. maceachernii, L. micdadei, L. oakridgensis, L. parisiensis, L. pneumophila, L. sainthelensi, L. tusconensis, L. wadsworthii** en **L. waltersii.**
 
@@ -62,11 +88,11 @@ In deze regeling wordt verstaan onder:
 
 3. Indien bij toepassing van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&artikel=7&z=2024-01-01&g=2024-01-01) bedoelde methode blijkt dat het water 100 of meer kolonievormende eenheden legionellabacteriën per liter bevat, wordt ervan uit gegaan dat de in het eerste lid genoemde soorten legionellabacterie in het water aanwezig zijn in aantallen groter of gelijk aan 100 kolonievormende eenheden per liter, tenzij het tegendeel wordt aangetoond.
 
-#### Artikel 5. Legionella-risicoanalyse
+##### Artikel 5. Legionella-risicoanalyse
 
 De eigenaar van een collectieve watervoorziening of collectief leidingnet als bedoeld in [artikel 35, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=35), voert een legionella-risicoanalyse uit overeenkomstig de daarvoor in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=2&z=2024-01-01&g=2024-01-01) bij deze regeling opgenomen voorschriften en draagt zorg voor de in verband daarmee te treffen maatregelen.
 
-#### Artikel 6. Eisen aan degene die monstername en analyse doet
+##### Artikel 6. Eisen aan degene die monstername en analyse doet
 
 1. Het nemen en analyseren van monsters ter uitvoering van [hoofdstuk 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4) geschiedt door laboratoria die een kwaliteitsborgingssysteem hanteren dat gebaseerd is op NEN-EN-ISO/IEC 17025:2005 of een gelijkwaardige norm en die daarvoor overeenkomstig deze norm geaccrediteerd zijn.
 
@@ -78,25 +104,25 @@ De eigenaar van een collectieve watervoorziening of collectief leidingnet als be
 
 5. Een gelijkwaardige norm als bedoeld in het eerste, tweede of derde lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde norm relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.
 
-#### Artikel 7. Eisen aan de wijze van monstername en analyse
+##### Artikel 7. Eisen aan de wijze van monstername en analyse
 
 1. Het nemen en analyseren van monsters ter uitvoering [hoofdstuk 4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&hoofdstuk=4) geschiedt overeenkomstig NEN-EN-ISO 11731, met inbegrip van het bijbehorende Nederlandse voorwoord of een gelijkwaardige methode.
 
 2. Een gelijkwaardige methode als bedoeld in het eerste lid wordt uitsluitend toegepast na daartoe verkregen toestemming van de inspecteur. Bij de aanvraag worden alle voor de beoordeling van de gelijkwaardigheid van de bedoelde methode relevante gegevens in de door de inspecteur aangegeven vorm aan hem overgelegd.
 
-#### Artikel 8. Bepaling aantal meetpunten
+##### Artikel 8. Bepaling aantal meetpunten
 
 Het aantal meetpunten dat wordt betrokken in het onderzoek, bedoeld in [artikel 43, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030111&artikel=43), wordt bepaald overeenkomstig [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030166&bijlage=3&z=2024-01-01&g=2024-01-01) bij deze regeling.
 
-#### Artikel 9. Volgorde beheersmaatregelen
+##### Artikel 9. Volgorde beheersmaatregelen
 
 **(gereserveerd)**
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de Drinkwaterwet in werking treedt. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven op of na het tijdstip, bedoeld in de eerste volzin, treedt deze regeling in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling legionellapreventie in drinkwater en warm tapwater.
 

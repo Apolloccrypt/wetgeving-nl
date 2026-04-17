@@ -1,14 +1,42 @@
 ---
-title: "Tunnelwet Westerschelde"
+title: "Wet van 1 oktober 1998, houdende voorzieningen betreffende de totstandbrenging en de exploitatie van een vaste oeververbinding onder de Westerschelde door een naamloze vennootschap (Tunnelwet Westerschelde)"
 identifier: "BWBR0009930"
-categorie: "Overig"
-publicatiedatum: 2024-03-25
-laatste_update: 2024-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009930"
+country: "nl"
+rank: "wet"
+publication_date: "2024-03-25"
+last_updated: "2024-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009930"
+soort: "wet"
+stam_id: "926533"
+version_id: "1356002"
+internal_id: "C1356001"
+label_id: "898374"
+dtd_version: "2.0"
+original_entry_into_force: "1998-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009930/2024-03-25/0"
+intitule_bron: "Stb.1998-600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-10-01"
+intitule_published: "1998-10-22"
+intitule_in_force: "1998-10-22"
+intitule_status: "goed"
+original_publication: "Stb.1998-600"
+original_signed_date: "1998-10-01"
+original_published_date: "1998-10-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "25675"
+original_url_id: "stb-1998-600"
+entry_into_force_date: "1998-10-23"
+entry_into_force_dossier: "25675"
+jci_1_3: "jci1.3:c:BWBR0009930&z=2024-03-25&g=2024-03-25"
+jci_1_0: "1.0:c:BWBR0009930&g=2024-03-25"
+citeertitel_status: "officieel"
+short_title: "Tunnelwet Westerschelde"
+signed_date: "1998-10-01"
+entry_into_force: "1998-10-23"
 ---
-
-# Tunnelwet Westerschelde
+# Wet van 1 oktober 1998, houdende voorzieningen betreffende de totstandbrenging en de exploitatie van een vaste oeververbinding onder de Westerschelde door een naamloze vennootschap (Tunnelwet Westerschelde)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -32,7 +60,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Oprichting vennootschap
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wordt gemachtigd namens de Staat der Nederlanden een naamloze vennootschap op te richten en deel te nemen in het bij de oprichting door hem vast te stellen kapitaal, alsmede deel te nemen in verdere plaatsing van het kapitaal.
 
@@ -40,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 3. Wegenrechtelijke bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij regeling van Onze Minister wordt aan de wegen door de tunnel en aan de aansluitende wegen de bestemming van openbare weg gegeven, alsmede de datum bepaald met ingang waarvan die wegen openbaar zijn.
 
@@ -52,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De bevoegdheid krachtens [artikel 38 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=38) tot het geven van bevelen tot de uitvoering van noodzakelijke waterstaatswerken en voorzieningen komt wat de Westerscheldetunnel, de wegen door de tunnel en de aansluitende wegen betreft toe aan Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), doet de exploitant aan een ieder die met een motorrijtuig, onderscheidenlijk een voertuig dat door een motorrijtuig wordt voortbewogen, gebruik wil maken van een weg door de tunnel, een aanbod tot het sluiten van een overeenkomst, houdende het gebruik van de weg door de tunnel.
 
@@ -66,7 +94,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 4. Tarieven
 
-#### Artikel 5
+##### Artikel 5
 
 1. De exploitant stelt voor de vergoeding voor het gebruik van een weg door de tunnel tarieven vast, en maakt deze bekend.
 
@@ -76,7 +104,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De exploitant maakt bij het heffen van het toltarief geen direct of indirect onderscheid als bedoeld in artikel 7, vijfde lid, van [Richtlijn 99/62/EG](31999L0062) van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen (PbEG 1999, L 187) op grond van de nationaliteit van de weggebruiker, de lidstaat of het derde land waar de vervoerder gevestigd is, de lidstaat of het derde land waar het voertuig geregistreerd is, of de herkomst of de bestemming van het vervoer.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De hoogste vergoeding voor een rit met een personenauto bedraagt ten hoogste twee keer het referentietarief.
 
@@ -86,11 +114,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De hoogste vergoeding voor een rit met een voertuig dat door een motorrijtuig wordt voortbewogen, bedraagt ten hoogste de hoogte van de vergoeding die verschuldigd is voor de rit met het motorrijtuig dat het voertuig voortbeweegt.
 
-#### Artikel 7
+##### Artikel 7
 
 Het referentietarief mag over een periode van twaalf maanden ten hoogste worden verhoogd met 10% gedurende de eerste twee jaar met ingang van de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), 8% gedurende het derde en het vierde jaar na bedoelde datum, 6% gedurende het vijfde en het zesde jaar na bedoelde datum en 4% gedurende het zevende jaar en de volgende jaren na bedoelde datum, telkens vermeerderd met de percentuele stijging van de prijzen bij het onderhoud van wegen met een gesloten verharding buiten de bebouwde kom over de jongste vergelijkbare periode.
 
-#### Artikel 8
+##### Artikel 8
 
 Geen vergoeding is verschuldigd voor het gebruik met motorrijtuigen:
 
@@ -104,23 +132,23 @@ Geen vergoeding is verschuldigd voor het gebruik met motorrijtuigen:
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het referentietarief bedraagt op de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25), ten hoogste het bedrag dat bij regeling van Onze Minister is vastgesteld.
 
 2. De regeling, bedoeld in het eerste lid, treedt niet eerder in werking dan acht weken na de datum van bekendmaking in de Staatscourant. Van de bekendmaking wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze wet vervalt met ingang van het eenendertigste jaar na de datum, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009930&paragraaf=3&artikel=3&z=2024-03-25&g=2024-03-25).
 
 2. Indien de resultaten van de NV daartoe aanleiding geven, kan bij algemene maatregel van bestuur de werkingsduur van deze wet worden verlengd tot een totale periode van ten hoogste vijftig jaar.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet wordt aangehaald als: Tunnelwet Westerschelde.
 

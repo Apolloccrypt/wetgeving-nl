@@ -1,13 +1,35 @@
 ---
 title: "Benelux-overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen"
 identifier: "BWBV0004166"
-categorie: "Internationaal recht"
-publicatiedatum: 1976-06-01
-laatste_update: 1976-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004166"
+country: "nl"
+rank: "verdrag"
+publication_date: "1976-06-01"
+last_updated: "1976-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004166"
+soort: "verdrag"
+stam_id: "10003986773"
+version_id: "10004139132"
+internal_id: "C10008344811"
+label_id: "10003971554"
+dtd_version: "2.0"
+original_entry_into_force: "1976-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004166/1976-06-01/0"
+intitule_bron: "Trb.1966-178"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-08-09"
+intitule_in_force: "1976-06-28"
+intitule_status: "goed"
+original_publication: "Trb.1966-178"
+original_published_date: "1966-08-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-178"
+entry_into_force_date: "1976-06-01"
+jci_1_3: "jci1.3:c:BWBV0004166&z=1976-06-01&g=1976-06-01"
+jci_1_0: "1.0:c:BWBV0004166&g=1976-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1976-06-01"
 ---
-
 # Benelux-overeenkomst betreffende de verplichte aansprakelijkheidsverzekering inzake motorrijtuigen
 
 De Regering van het Koninkrijk België,
@@ -26,13 +48,13 @@ Overwegende tenslotte, dat de aanvaarding door de drie landen van een gelijksoor
 
 Zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 § 1. De Verdragsluitende Partijen verbinden zich uiterlijk op de dag van het in werking treden van deze Overeenkomst hun nationale wetgeving op de verplichte verzekering tegen de burgerrechtelijke aansprakelijkheid waartoe motorrijtuigen aanleiding kunnen geven, aan te passen aan de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen.
 
 § 2. Ieder der Verdragsluitende Partijen behoudt de bevoegdheid, de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen te vervangen door bepalingen, die grotere waarborgen geven aan de benadeelden.
 
-#### Artikel 2
+##### Artikel 2
 
 § 1. Ieder der Verdragsluitende Partijen behoudt de bevoegdheid:
 
@@ -56,7 +78,7 @@ Zijn de volgende bepalingen overeengekomen:
 
 § 2. Evenwel zullen de afwijkingen, welke door een der Verdragsluitende Partijen bij wet of reglement overeenkomstig de in dit artikel vermelde voorbehouden worden uitgevaardigd, slechts gelden voor het grondgebied van die Staat en geen afbreuk doen aan de volledige toepassing van de wet op de verplichte verzekering van de andere Verdragsluitende Staten, op welker grondgebied wordt gereden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten einde te voorkomen dat de benadeelden schade lijden ten gevolge van een uitsluiting van de verzekering, zoals deze wordt toegestaan door § 2 van artikel 4 van de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen, verbinden de Verdragsluitende Partijen zich de bevoegdheid tot het organiseren van snelheids-, regelmatigheids- of behendigheidsritten of -wedstrijden voor motorrijtuigen afhankelijk te stellen van een vergunning van overheidswege.
 
@@ -64,7 +86,7 @@ Zodanige vergunning kan slechts worden verleend, indien een verzekering, welke a
 
 2. Ieder der Verdragsluitende Partijen kan echter in haar wetgeving bepalen, dat de schaden, toegebracht aan bestuurders en andere inzittenden van motorrijtuigen die deelnemen aan de ritten of wedstrijden, bedoeld in het vorige lid, alsook de schaden toegebracht aan die motorrijtuigen van deze verzekering worden uitgesloten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Verdragsluitende Partijen laten tot het verkeer op hun grondgebied toe, zonder dat een verzekering is gesloten,
 
@@ -76,15 +98,15 @@ Zodanige vergunning kan slechts worden verleend, indien een verzekering, welke a
 
 3. De wijze van toepassing en uitvoering van de bepalingen van dit artikel wordt, indien daartoe aanleiding bestaat, geregeld bij Beschikking van het Comité van Ministers, ingesteld bij [artikel 15 van het Benelux-Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=15).
 
-#### Artikel 5
+##### Artikel 5
 
 Ieder der Verdragsluitende Partijen verbindt zich de bevoegdheid te erkennen van de gerechten van de andere Staten, bij wie overeenkomstig artikel 7 van de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen een zaak wordt aanhangig gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Ieder der Verdragsluitende Partijen verbindt zich alle nodige maatregelen te nemen, welke van belang zijn voor de toepassing van de verplichte verzekering en voor de vergoeding der schade door de bureaus in de gevallen als bedoeld in § 2 van artikel 2 van de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen.
 
-#### Artikel 7
+##### Artikel 7
 
 § 1. Ieder der Verdragsluitende Partijen verbindt zich de nodige maatregelen te nemen met het oog op de oprichting op haar grondgebied van een waarborgfonds, waartegen de benadeelden een recht op een schadeloosstelling kunnen doen gelden:
 
@@ -98,7 +120,7 @@ Ieder der Verdragsluitende Partijen verbindt zich alle nodige maatregelen te nem
 
 § 2. Ieder der Verdragsluitende Partijen bepaalt, voor de gevallen waarin de tussenkomst van het waarborgfonds voorzien is, de voorwaarden waaronder de schadeloosstelling wordt toegekend en de omvang daarvan.
 
-#### Artikel 8
+##### Artikel 8
 
 § 1. Ieder der Verdragsluitende Partijen verbindt zich passende maatregelen te nemen ter verzekering van de naleving van de verplichtingen, opgelegd bij de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen.
 
@@ -108,27 +130,27 @@ Ieder der Verdragsluitende Partijen verbindt zich alle nodige maatregelen te nem
 
 - 2. de bestuurder van een motorrijtuig, die dit motorrijtuig doet deelnemen aan het verkeer onder de omstandigheden, als bedoeld onder 1 van deze paragraaf.
 
-#### Artikel 9
+##### Artikel 9
 
 § 1. Deze Overeenkomst kan niet worden opgezegd vóór het einde van een termijn van twee jaar te rekenen vanaf de datum van zijn inwerkingtreding. De opzegging zal geschieden door middel van een schriftelijke kennisgeving aan het Secretariaat-Generaal van de Benelux Economische Unie, dat hiervan de beide andere Verdragsluitende Partijen onmiddellijk op de hoogte stelt. De opzegging zal van kracht worden één jaar na de dag van de kennisgeving aan het Secretariaat-Generaal.
 
 § 2. In plaats van deze Overeenkomst op te zeggen kan iedere Staat een bepaald geformuleerd voorstel tot wijziging van één of meer artikelen van de Overeenkomst of van de bij de Overeenkomst behorende Gemeenschappelijke bepalingen doen en daarvan op dezelfde wijze als van een opzegging aan de beide andere Staten kennisgeven. In dat geval zullen de drie Staten trachten tot overeenstemming te komen. Is een jaar verlopen na de dag van de kennisgeving aan de beide andere Staten zonder dat er overeenstemming is bereikt, dan kan de Staat, welke het voorstel gedaan heeft, zijn wetgeving in de voorgestelde zin wijzigen. Van de wijziging wordt op dezelfde wijze als van het voorstel aan de beide andere Staten kennis gegeven. Ieder van deze beide Staten is alsdan bevoegd de Overeenkomst geheel of gedeeltelijk op te zeggen. De opzegging zal drie maanden nadat de kennisgeving daarvan aan het Secretariaat-Generaal is verstrekt, van kracht worden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het in Europa gelegen grondgebied.
 
 2. De Regering van het Koninkrijk der Nederlanden kan de toepassing van deze Overeenkomst uitbreiden tot Suriname en de Nederlandse Antillen bij een daartoe strekkende verklaring, te richten tot het Secretariaat-Generaal van de Benelux Economische Unie, dat hiervan de beide andere Verdragsluitende Partijen onmiddellijk op de hoogte stelt. Een dergelijke kennisgeving zal in werking treden zes maanden na de ontvangst daarvan door het Secretariaat-Generaal.
 
-#### Artikel 11
+##### Artikel 11
 
 Ieder der Verdragsluitende Partijen verbindt zich geen verdrag te sluiten, dat invloed kan hebben op het door de onderhavige Overeenkomst ingevoerde stelsel zonder overeenstemming met de twee andere Verdragsluitende Partijen.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van artikel 12 van de bij deze Overeenkomst behorende Gemeenschappelijke bepalingen en tot een bij Beschikking van het Comité van Ministers, ingesteld bij [artikel 15 van het Benelux Unieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=15), vast te stellen datum, kan ieder der Verdragsluitende Partijen bepalen dat de verbintenissen, welke het bureau, dat belast is met de schade-afwikkeling op grond van internationale verzekeringsbewijzen, op zich heeft genomen, van rechtswege eindigen door het verloop van de termijn waarvoor die bewijzen zijn uitgegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging worden neergelegd bij het Secretariaat-Generaal van de Benelux Economische Unie.
 
@@ -136,7 +158,7 @@ In afwijking van artikel 12 van de bij deze Overeenkomst behorende Gemeenschappe
 
 3. Onverminderd het bepaalde in artikel 9, eindigt de Overeenkomst tegelijk met het [Verdrag tot instelling van de Benelux Economische Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047).
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet worden verstaan:
 
@@ -148,7 +170,7 @@ onder benadeelden: zij die schade hebben geleden welke grond oplevert voor toepa
 
 onder verzekeraar: de verzekeringsonderneming, door de Regering toegelaten in de zin van artikel 2, § 1, en in het geval van § 2, het bureau, belast met de afwikkeling van de schade, welke in België/in Luxemburg/in Nederland is veroorzaakt door motorrijtuigen, die gewoonlijk in het buitenland zijn gestald. De in een Staat geregistreerde motorrijtuigen worden geacht gewoonlijk in die Staat te zijn gestald.
 
-#### Artikel 2
+##### Artikel 2
 
 § 1. Tot het verkeer op de openbare weg en op terreinen die toegankelijk zijn voor het publiek of slechts voor een beperkt aantal personen, die het recht hebben om er te komen, worden motorrijtuigen slechts toegelaten, indien de burgerrechtelijke aansprakelijkheid, waartoe zij aanleiding kunnen geven, gedekt is door een verzekering welke aan de bepalingen van deze wet beantwoordt.
 
@@ -160,7 +182,7 @@ Niettemin worden motorrijtuigen, die gewoonlijk in het buitenland zijn gestald, 
 
 Deze verplichting valt ten laste van het bureau, zelfs als de verplichting tot verzekering niet is nagekomen, wanneer het een motorrijtuig betreft, dat gewoonlijk in een van de beide andere Beneluxlanden is gestald.
 
-#### Artikel 3
+##### Artikel 3
 
 § 1. De verzekering moet de burgerrechtelijke aansprakelijkheid dekken van de eigenaar, van ieder houder, van iedere bestuurder van het verzekerde motorrijtuig en van iedere vervoerde persoon, zulks met uitzondering van de burgerrechtelijke aansprakelijkheid van hen die zich door diefstal of geweldpleging de macht over het motorrijtuig hebben verschaft en van hen die, dit wetende, een dergelijk motorrijtuig zonder geldige reden gebruiken.
 
@@ -168,7 +190,7 @@ Deze verplichting valt ten laste van het bureau, zelfs als de verplichting tot v
 
 § 3. De verzekering moet de burgerrechtelijke aansprakelijkheid voor de door het motorrijtuig veroorzaakte schade dekken zoals die aansprakelijkheid voortvloeit uit de toepasselijke wet.
 
-#### Artikel 4
+##### Artikel 4
 
 § 1. Van het recht op een uitkering kunnen worden uitgesloten:
 
@@ -180,25 +202,25 @@ Deze verplichting valt ten laste van het bureau, zelfs als de verplichting tot v
 
 § 2. Van de verzekering kan worden uitgesloten de schade, die voortvloeit uit het deelnemen van het motorrijtuig aan snelheids-, regelmatigheids- of behendigheidsritten en -wedstrijden, waartoe van overheidswege verlof is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de overeenkomst een beding inhoudt dat de verzekerde persoonlijk voor een deel in de vergoeding van de schade zal bijdragen, blijft de verzekeraar niettemin jegens de benadeelde gehouden tot betaling van de schadeloosstelling die krachtens de overeenkomst ten laste van de verzekerde blijft.
 
-#### Artikel 6
+##### Artikel 6
 
 § 1. De verzekering geeft aan de benadeelde een eigen recht tegen de verzekeraar.
 
 § 2. Indien er meer dan een benadeelde is en het totaal bedrag van de verschuldigde schadeloosstellingen de verzekerde som overschrijdt, worden de rechten van de benadeelden tegen de verzekeraar naar evenredigheid teruggebracht tot het beloop van die som. Niettemin blijft de verzekeraar, die, onbekend met het bestaan van vorderingen van andere benadeelden, te goeder trouw aan een benadeelde een groter bedrag dan het aan deze toekomende deel heeft uitgekeerd, jegens die anderen slechts gehouden tot het beloop van het overblijvende gedeelte van de verzekerde som.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de uitvoering van de bepalingen van deze wet kan de verzekeraar door de benadeelde in België - in Luxemburg - in Nederland worden gedagvaard, hetzij voor de rechter van de plaats van het feit, waaruit de schade is ontstaan, hetzij voor de rechter van de woonplaats van de benadeelde, hetzij voor de rechter van de zetel van de verzekeraar.
 
-#### Artikel 8
+##### Artikel 8
 
 De verzekerden moeten van ieder ongeval, waarbij het verzekerde motorrijtuig is betrokken, mededeling doen aan de verzekeraar. De verzekeringnemer moet aan de verzekeraar alle door de verzekeringsovereenkomst voorgeschreven inlichtingen en bescheiden verschaffen. De overige verzekerden moeten aan de verzekeraar op zijn verzoek alle nodige inlichtingen en bescheiden verschaffen.
 
-#### Artikel 9
+##### Artikel 9
 
 § 1. Een vonnis gewezen in een geschil terzake van door een motorrijtuig veroorzaakte schade, kan aan de verzekeraar, aan de verzekerde of aan de benadeelde slechts worden tegengeworpen, indien zij in het geding partij zijn geweest of daarin zijn geroepen.
 
@@ -206,7 +228,7 @@ De verzekerden moeten van ieder ongeval, waarbij het verzekerde motorrijtuig is 
 
 § 3. De verzekeraar kan de verzekerde in het geding roepen, dat door de benadeelde tegen hem wordt ingesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 § 1. Iedere uit deze wet voortvloeiende rechtsvordering van de benadeelde tegen de verzekeraar verjaart door verloop van drie jaar te rekenen van het feit waaruit de schade is ontstaan.
 
@@ -214,13 +236,13 @@ De verzekerden moeten van ieder ongeval, waarbij het verzekerde motorrijtuig is 
 
 § 3. De verjaring wordt ten opzichte van een verzekeraar gestuit door iedere onderhandeling tussen de verzekeraar en de benadeelde. Een nieuwe termijn van drie jaar begint te lopen te rekenen van het ogenblik waarop één van de partijen bij deurwaardersexploot of aangetekende brief aan de andere partij heeft kennisgegeven dat zij de onderhandelingen afbreekt.
 
-#### Artikel 11
+##### Artikel 11
 
 § 1. Geen uit de wet of de overeenkomst van verzekering voortvloeiende nietigheid, exceptie of verval kan door een verzekeraar aan een benadeelde worden tegengeworpen.
 
 § 2. Een verzekeraar kan zich een recht van verhaal voorbehouden tegen de verzekeringnemer en, indien daartoe grond bestaat, tegen een verzekerde die niet de verzekeringnemer is, voor zover de verzekeraar volgens de wet of de verzekeringsovereenkomst gerechtigd mocht zijn de uitkering te weigeren of te verminderen.
 
-#### Artikel 12
+##### Artikel 12
 
 § 1. De beëindiging, de nietigverklaring, de ontbinding, de schorsing van de overeenkomst of van de dekking, door welke oorzaak ook, moeten door de verzekeraar worden medegedeeld aan het overheidsorgaan of aan de persoon door de regering aangewezen. De regering bepaalt op welke wijze de kennisgeving moet worden gedaan, sedert welk ogenblik zij kan worden gedaan en wanneer de termijn bedoeld in paragraaf 2, aanvangt.
 
@@ -232,7 +254,7 @@ De verzekerden moeten van ieder ongeval, waarbij het verzekerde motorrijtuig is 
 
 - 2. wanneer het betreft het dekken van de burgerrechtelijke aansprakelijkheid waartoe een motorrijtuig dat gewoonlijk in het buitenland wordt gestald, aanleiding geeft, na verloop van een termijn van 16 dagen volgende op het einde van de tijd waarvoor een verzekeringsovereenkomst overeenkomstig paragraaf 1 van artikel 2 is aangegaan.
 
-#### Artikel 13
+##### Artikel 13
 
 Van een bepaling van deze wet kan slechts worden afgeweken, indien de bevoegdheid daartoe uit de bepaling zelve blijkt.
 

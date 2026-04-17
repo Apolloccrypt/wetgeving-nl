@@ -1,48 +1,74 @@
 ---
-title: "Wijzigingsregeling Wet op de accijns, enz."
+title: "Regeling van de Staatssecretaris van Financiën van 29 mei 2018, nr. 2018-0000069720, tot wijziging van de Wet op de accijns, de Wet belastingen op milieugrondslag, het Uitvoeringsbesluit accijns en enige uitvoeringsregelingen op het gebied van belastingen"
 identifier: "BWBR0040988"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040988"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040988"
+soort: "ministeriele-regeling"
+stam_id: "14627763"
+version_id: "25049222"
+internal_id: "C35818271"
+label_id: "14580814"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040988/2019-01-01/0"
+intitule_bron: "Stcrt.2018-30207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-29"
+intitule_published: "2018-06-04"
+intitule_in_force: "2018-06-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-30207"
+original_signed_date: "2018-05-29"
+original_published_date: "2018-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-30207"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0040988&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0040988&g=2019-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Wet op de accijns, enz."
+signed_date: "2018-05-29"
+entry_into_force: "2018-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 29 mei 2018, nr. 2018-0000069720, tot wijziging van de Wet op de accijns, de Wet belastingen op milieugrondslag, het Uitvoeringsbesluit accijns en enige uitvoeringsregelingen op het gebied van belastingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Tabaksproducten mogen nog tot en met 31 december 2019 bij de uitslag tot verbruik zijn voorzien van een accijnszegel met een grootte van 2,4 x 4,3 cm, mits hierop de juiste tariefcode, bedoeld in artikel 44, vijfde lid, van de Uitvoeringsregeling accijns, is vermeld.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2018, met dien verstande dat de [artikelen V](https://wetten.overheid.nl/jci1.3:c:BWBR0040988&artikel=V&z=2019-01-01&g=2019-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0040988&artikel=VII&z=2019-01-01&g=2019-01-01) terugwerken tot en met 1 april 2018.
 

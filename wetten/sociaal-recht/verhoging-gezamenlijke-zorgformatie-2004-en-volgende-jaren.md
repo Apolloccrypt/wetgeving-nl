@@ -1,13 +1,36 @@
 ---
 title: "Verhoging gezamenlijke zorgformatie 2004 en volgende jaren"
 identifier: "BWBR0016380"
-categorie: "Sociaal recht"
-publicatiedatum: 2004-02-25
-laatste_update: 2004-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016380"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-02-25"
+last_updated: "2004-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016380"
+soort: "beleidsregel"
+stam_id: "6466353"
+version_id: "11143252"
+internal_id: "C15062611"
+label_id: "6454994"
+original_entry_into_force: "2004-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016380/2004-02-25/0"
+intitule_bron: "Uitleg.2004-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-10"
+intitule_published: "2004-02-25"
+intitule_in_force: "2004-02-25"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-4"
+original_signed_date: "2004-02-10"
+original_published_date: "2004-02-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-02-25"
+jci_1_3: "jci1.3:c:BWBR0016380&z=2004-02-25&g=2004-02-25"
+jci_1_0: "1.0:c:BWBR0016380&g=2004-02-25"
+citeertitel_status: "redactioneel"
+signed_date: "2004-02-10"
+entry_into_force: "2004-02-25"
 ---
-
 # Verhoging gezamenlijke zorgformatie 2004 en volgende jaren
 
 ### OCW-begroting 2004

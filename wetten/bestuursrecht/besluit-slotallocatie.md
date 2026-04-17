@@ -1,13 +1,39 @@
 ---
-title: "Besluit slotallocatie"
+title: "Besluit van 24 november 1997, houdende regelen met betrekking tot de toewijzing van «slots» op communautaire luchtvaartterreinen (Besluit slotallocatie)"
 identifier: "BWBR0009035"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009035"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009035"
+soort: "AMvB"
+stam_id: "655163"
+version_id: "26011762"
+internal_id: "C37047531"
+label_id: "635324"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009035/2020-04-01/0"
+intitule_bron: "Stb.1997-635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-24"
+intitule_published: "1997-12-16"
+intitule_in_force: "1997-12-16"
+intitule_status: "goed"
+original_publication: "Stb.2019-305"
+original_signed_date: "2019-09-16"
+original_published_date: "2019-09-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-305"
+entry_into_force_date: "2019-09-16"
+jci_1_3: "jci1.3:c:BWBR0009035&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0009035&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit slotallocatie"
+signed_date: "2019-09-16"
+entry_into_force: "2019-09-16"
 ---
-
 # Besluit van 24 november 1997, houdende regelen met betrekking tot de toewijzing van «slots» op communautaire luchtvaartterreinen (Besluit slotallocatie)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 18 september 1997, nr. DGRLD/JBZ/L. 97.500638, Directoraat-Generaal Rijksluchtvaartdienst;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Werkt terug tot en met 1 november 1997
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Werkt terug tot en met 1 november 1997
 
 2. Een wijziging van de verordening gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan een luchthaven aanwijzen als:
 
@@ -52,11 +78,11 @@ Werkt terug tot en met 1 november 1997
 
 2. Indien Onze Minister een militaire luchthaven met burgermedegebruik door tussenkomst van een burgerexploitant voor wat betreft dat gebruik aanwijst als een luchthaven met bemiddeling inzake de dienstregelingen of een gecoördineerde luchthaven, doet hij dat in overeenstemming met Onze Minister van Defensie.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister stelt een coördinatiecomité in ten behoeve van een of meer krachtens [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01), aangewezen luchthavens.
 
@@ -64,7 +90,7 @@ Vervallen
 
 3. Het coördinatiecomité kan desgewenst één of meerdere subcommissies instellen.
 
-#### Artikel 5
+##### Artikel 5
 
 De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01), aangewezen luchthaven of van een luchthaven die niet is aangewezen op grond van artikel 2, voert een grondige capaciteitsanalyse ten behoeve van het burgerluchtverkeer uit:
 
@@ -74,7 +100,7 @@ De exploitant van een krachtens [artikel 2, eerste lid, onderdeel a](https://wet
 
 In een geval als bedoeld onder b wordt de capaciteitsanalyse uitgevoerd binnen 6 maanden na indiening van het verzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=2&z=2020-04-01&g=2020-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009035&artikel=4&z=2020-04-01&g=2020-04-01) schorsen of intrekken:
 
@@ -86,7 +112,7 @@ Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [
 
 - d. ambtshalve op gronden, ontleend aan de verordening.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is luchtvaartmaatschappijen verboden op een gecoördineerde luchthaven:
 
@@ -106,19 +132,19 @@ Onverminderd de verordening kan Onze Minister een aanwijzing als bedoeld in de [
 
 - c. humanitaire vluchten.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit slotallocatie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 8a.52 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.52).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De exploitant van een gecoördineerde luchthaven:
 
@@ -136,7 +162,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het **
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de coördinatieparameters.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. De exploitant van de luchthaven Schiphol laat ten minste eenmaal in de drie jaar een onafhankelijk onderzoek uitvoeren waarin, rekening houdend met alle relevante landzijdige technische, operationele en milieubeperkingen, de beschikbare capaciteit op de luchthaven in beeld wordt gebracht.
 

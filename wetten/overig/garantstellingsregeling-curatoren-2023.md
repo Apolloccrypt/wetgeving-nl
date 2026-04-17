@@ -1,20 +1,46 @@
 ---
-title: "Garantstellingsregeling curatoren 2023"
+title: "Regeling van de Minister voor Rechtsbescherming van 21 maart 2023, nr. 3533353, houdende regels voor de beoordeling van de gegrondheid van verzoeken van curatoren tot verstrekking van een voorschot en de grenzen waarbinnen zodanige verzoeken kunnen worden toegewezen (Garantstellingsregeling curatoren 2023)"
 identifier: "BWBR0048015"
-categorie: "Overig"
-publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048015"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-06-01"
+last_updated: "2023-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048015"
+soort: "ministeriele-regeling"
+stam_id: "16710743"
+version_id: "29312282"
+internal_id: "C41752491"
+label_id: "16627524"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048015/2023-06-01/0"
+intitule_bron: "Stcrt.2023-9704"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-21"
+intitule_published: "2023-03-31"
+intitule_in_force: "2023-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-9704"
+original_signed_date: "2023-03-21"
+original_published_date: "2023-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-9704"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBR0048015&z=2023-06-01&g=2023-06-01"
+jci_1_0: "1.0:c:BWBR0048015&g=2023-06-01"
+citeertitel_status: "officieel"
+short_title: "Garantstellingsregeling curatoren 2023"
+signed_date: "2023-03-21"
+entry_into_force: "2023-06-01"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 21 maart 2023, nr. 3533353, houdende regels voor de beoordeling van de gegrondheid van verzoeken van curatoren tot verstrekking van een voorschot en de grenzen waarbinnen zodanige verzoeken kunnen worden toegewezen (Garantstellingsregeling curatoren 2023)
 
 Gelet op [artikel 138, tiende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **de Staat:** de Staat der Nederlanden.
 
-#### Artikel 2. Garantstelling
+##### Artikel 2. Garantstelling
 
 1. Een curator kan de Minister verzoeken tot het verstrekken van een voorschot als bedoeld in [artikel 138, tiende lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138) voor het instellen van een rechtsvordering op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=9), [138](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=138), [149](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=149), [248](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=248) en [259 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=259), de [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=42), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=43) en [47 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=47) en voor het instellen van een verhaalsonderzoek of vooronderzoek naar de mogelijkheden daartoe.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een garantstelling wordt verstrekt voor de duur van het faillissement. Een garantstelling kan voortijdig worden beëindigd.
 
-#### Artikel 3. Initieel verzoek garantstelling
+##### Artikel 3. Initieel verzoek garantstelling
 
 1. De curator maakt voor de indiening van een verzoek op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=2&z=2023-06-01&g=2023-06-01) gebruik van een door de Minister vastgestelde vragenlijst. De vragenlijst wordt volledig ingevuld.
 
@@ -46,13 +72,13 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een curator een verzoek op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=2&z=2023-06-01&g=2023-06-01) doet, kan de Minister de curator verzoeken om aanvullende informatie te verstrekken.
 
-#### Artikel 4. Overeenkomst
+##### Artikel 4. Overeenkomst
 
 1. Een garantstelling wordt verstrekt op basis van een daartoe strekkende overeenkomst tussen de Staat en de curator.
 
 2. De overeenkomst wordt aangegaan voor de duur van de garantstelling, daaronder begrepen de afwikkeling daarvan, en bevat rechten en verplichtingen die de curator en de Minister ter nadere uitwerking van deze regeling overeenkomen.
 
-#### Artikel 5. Verhoging
+##### Artikel 5. Verhoging
 
 1. Een curator kan de Minister verzoeken om verhoging van het bedrag waarvoor een garantstelling is gegeven. Voor indiening van een verzoek tot verhoging maakt de curator gebruik van een door de Minister vastgestelde vragenlijst. De vragenlijst wordt volledig ingevuld.
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een verhoging van de garantstelling wordt verstrekt op basis van een door de Staat en de curator ondertekend addendum bij de overeenkomst, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=4&z=2023-06-01&g=2023-06-01).
 
-#### Artikel 6. Voorwaarden
+##### Artikel 6. Voorwaarden
 
 1. Geen garantstelling wordt verstrekt indien:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 4. De Minister kan in een uitzonderlijk geval ten behoeve van de aanpak van recidiverende faillissementsfraudeurs, in afwijking van het eerste lid, onder e, een verhouding van 1:2 tussen het gevraagde garantiebedrag en de verwachte opbrengst hanteren. De Minister stelt een jaarlijks maximumbedrag vast voor te verlenen garantstellingen die op grond van dit lid per kalenderjaar in behandeling worden genomen.
 
-#### Artikel 7. Vaststelling en gebruik
+##### Artikel 7. Vaststelling en gebruik
 
 1. De vaststelling van het bedrag van de garantstelling vindt plaats op grond van de geldende Recofa-richtlijnen voor faillissementen en surseances van betaling.
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien de boedel na het verkrijgen van de garantstelling baten verwerft met behulp van de garantstelling, wendt de curator deze baten eerst aan ter dekking van kosten van activiteiten als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=2&z=2023-06-01&g=2023-06-01), alvorens verder gebruik te maken van de beschikbare gelden op de rekening-courant, bedoeld in artikel 2, derde lid.
 
-#### Artikel 8. Rapportageverplichtingen
+##### Artikel 8. Rapportageverplichtingen
 
 1. De curator brengt onverwijld over de uitkomsten van het verhaalsonderzoek, het vooronderzoek en de rechtsvordering verslag uit aan de Minister.
 
@@ -104,7 +130,7 @@ In deze regeling wordt verstaan onder:
 
 3. De curator legt desgevraagd nadere gegevens of bewijsstukken over met het oog op de besteding van de onder de garantstelling opgenomen gelden en de daarmee gegenereerde opbrengsten voor de boedel.
 
-#### Artikel 9. Rekening en verantwoording
+##### Artikel 9. Rekening en verantwoording
 
 1. De curator legt binnen vier weken na beëindiging van zijn werkzaamheden in het kader van het faillissement, rekening en verantwoording af aan de Minister overeenkomstig een door de Minister vastgesteld formulier.
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 3. Geen rekening en verantwoording hoeft te worden afgelegd indien de boedel voldoende baten verwerft ter vereffening van een debetsaldo op de rekening-courant. De curator kan in het hiervoor bedoelde geval volstaan met de mededeling aan de Minister van de hoogte van de ontvangen baten.
 
-#### Artikel 10. Beëindiging van de garantstelling
+##### Artikel 10. Beëindiging van de garantstelling
 
 1. Indien de curator niet voldoet aan de rapportageverplichtingen, bedoeld in [artikel 8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=8&z=2023-06-01&g=2023-06-01), kan de garantstelling worden beëindigd. De Minister stelt de kredietinstelling, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=2&z=2023-06-01&g=2023-06-01), onverwijld in kennis van de beëindiging.
 
@@ -120,7 +146,7 @@ In deze regeling wordt verstaan onder:
 
 3. Beëindiging van de garantstelling vindt niet plaats dan na raadpleging van de in het faillissement benoemde rechter-commissaris.
 
-#### Artikel 11. Afwikkeling
+##### Artikel 11. Afwikkeling
 
 1. De curator is gehouden na beëindiging van zijn werkzaamheden in het kader van het faillissement, een debetsaldo op de rekening-courant onverwijld aan te zuiveren, tenzij uit de afgelegde rekening en verantwoording op grond van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=9&z=2023-06-01&g=2023-06-01), blijkt dat dit bedrag of een gedeelte daarvan aan de curator moet worden kwijtgescholden.
 
@@ -128,25 +154,25 @@ In deze regeling wordt verstaan onder:
 
 3. Terugvordering van onder de garantstelling verleende gelden op grond van het eerste en tweede lid, kan plaatsvinden voor zover de curator de hem uit hoofde van deze regeling gestelde verplichtingen niet is nagekomen. Terugvordering vindt niet plaats dan na raadpleging van de in het faillissement benoemde rechter-commissaris.
 
-#### Artikel 12. Evaluatie
+##### Artikel 12. Evaluatie
 
 De Minister zendt binnen vijf jaar na de inwerkingtreding van deze regeling, en vervolgens telkens na vijf jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 13. Overgangsrecht
+##### Artikel 13. Overgangsrecht
 
 1. Ten aanzien van garantstellingen die zijn verstrekt op basis van een verzoek als bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=3&z=2023-06-01&g=2023-06-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0048015&artikel=5&z=2023-06-01&g=2023-06-01) dat is ingediend voorafgaand aan het tijdstip van inwerkingtreding van onderhavige regeling, gelden de regels van de [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312), zoals deze luidden voor die inwerkintreding. De Garantstellingsregeling curatoren 2023 is van toepassing op een verzoek als bedoeld in artikel 5 indien dit verzoek is ingediend na inwerkingtreding van deze regeling ongeacht de datum van indiening van het verwante verzoek als bedoeld in artikel 3.
 
 2. Toepassing van het eerste lid kan niet leiden tot een wijziging ten nadele van de betrokken curator.
 
-#### Artikel 14. Intrekking [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312)
+##### Artikel 14. Intrekking [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312)
 
 De [Garantstellingsregeling curatoren 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031312) wordt ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juni 2023.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Garantstellingsregeling curatoren 2023.
 

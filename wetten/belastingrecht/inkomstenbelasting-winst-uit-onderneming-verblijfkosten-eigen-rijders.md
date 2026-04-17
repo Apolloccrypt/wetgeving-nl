@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders"
 identifier: "BWBR0029899"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-04-21
-laatste_update: 2011-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029899"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-04-21"
+last_updated: "2011-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029899"
+soort: "beleidsregel"
+stam_id: "11304323"
+version_id: "18521772"
+internal_id: "C25847081"
+label_id: "11278504"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029899/2011-04-21/0"
+intitule_bron: "Stcrt.2011-6924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-13"
+intitule_published: "2011-04-20"
+intitule_in_force: "2011-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-6924"
+original_signed_date: "2011-04-13"
+original_published_date: "2011-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-6924"
+entry_into_force_date: "2011-04-21"
+jci_1_3: "jci1.3:c:BWBR0029899&z=2011-04-21&g=2011-04-21"
+jci_1_0: "1.0:c:BWBR0029899&g=2011-04-21"
+citeertitel_status: "redactioneel"
+signed_date: "2011-04-13"
+entry_into_force: "2011-04-21"
 ---
-
 # Inkomstenbelasting, winst uit onderneming, verblijfkosten eigen rijders
 
 De staatssecretaris van Financiën heeft het volgende besloten.

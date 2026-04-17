@@ -1,14 +1,37 @@
 ---
-title: "Herindelingswet Waterland"
+title: "Wet van 27 juni 1990, houdende gemeentelijke herindeling van Waterland"
 identifier: "BWBR0004808"
-categorie: "Milieu"
-publicatiedatum: 1990-07-28
-laatste_update: 1990-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004808"
+country: "nl"
+rank: "wet"
+publication_date: "1990-07-28"
+last_updated: "1990-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004808"
+soort: "wet"
+stam_id: "1381243"
+version_id: "2072172"
+internal_id: "C2072171"
+label_id: "1339484"
+dtd_version: "2.0"
+original_entry_into_force: "1990-07-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004808/1990-07-28/0"
+intitule_bron: "Stb.1990-359"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-27"
+intitule_status: "goed"
+original_publication: "Stb.1990-359"
+original_signed_date: "1990-06-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "20421"
+entry_into_force_date: "1990-07-28"
+jci_1_3: "jci1.3:c:BWBR0004808&z=1990-07-28&g=1990-07-28"
+jci_1_0: "1.0:c:BWBR0004808&g=1990-07-28"
+citeertitel_status: "officieel"
+short_title: "Herindelingswet Waterland"
+signed_date: "1990-06-27"
+entry_into_force: "1990-07-28"
 ---
-
-# Herindelingswet Waterland
+# Wet van 27 juni 1990, houdende gemeentelijke herindeling van Waterland
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Grenswijzigingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met ingang van de datum van herindeling worden de gemeenten Broek in Waterland, Ilpendam, Jisp, Katwoude, Landsmeer, Marken, Monnickendam, Wormer en Wijdewormer opgeheven.
 
@@ -64,7 +87,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - 6. Grens met de gemeente Purmerend Vanaf het laatstgenoemde punt volgt de grens de bestaande grens tussen de gemeenten Wijdewormer en Purmerend tot het punt waar de percelen, kadastraal bekend gemeente Wijdewormer, sectie B, nr. 299 en gemeente Purmerend, sectie E, nrs. 2199 en 2200 tezamen komen. Hierna wordt de grens van de nieuw te vormen gemeente Wormerland gevormd door de grenzen tussen de percelen, kadastraal bekend gemeente Purmerend, sectie E, nrs. 2200, 2198, 2196, 2193, 2191, 2189, 2059, 2187 en 2185 enerzijds en gemeente Purmerend, sectie E, nrs. 2199, 2197, 2195, 2194, 2192, 2190, 2058, 2188 en 2186 anderzijds tot het punt waar deze grensomschrijving is aangegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling worden de grenzen van de hierna te noemen gemeenten, voor zover niet reeds in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004808&paragraaf=1&artikel=1&z=1990-07-28&g=1990-07-28) aangegeven, gewijzigd op de wijze als bij elk afzonderlijk is beschreven.
 
@@ -140,13 +163,13 @@ Met ingang van de datum van herindeling worden de grenzen van de hierna te noeme
 
 #### § 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de secretaris en de ontvanger, dan wel de met toepassing van [artikel 127**a** van de gemeentewet](onbekend) aangewezen ambtenaar of ambtenaren, belast met de taak van ontvanger, van de nieuw te vormen gemeenten Landsmeer, Waterland en Wormerland, gelden de instructies voor evenbedoelde functionarissen van onderscheidenlijk de op te heffen gemeenten Landsmeer, Monnickendam en Wormer, totdat zij door andere zijn vervangen.
 
 2. Voor de vergaderingen van de raad en van burgemeester en wethouders van de nieuw te vormen gemeenten Landsmeer, Waterland en Wormerland, gelden de reglementen van orde voor de vergaderingen van die colleges van onderscheidenlijk de op te heffen gemeenten Landsmeer, Monnickendam en Wormer, totdat zij door andere zijn vervangen.
 
-#### Artikel 4
+##### Artikel 4
 
 Ingevolge artikel 12, tweede lid, van de Wet algemene regelen gemeentelijke indeling (**Stb.** 1984, 475), treden de organen en ambtenaren van de nieuw te vormen gemeente:
 
@@ -156,7 +179,7 @@ Ingevolge artikel 12, tweede lid, van de Wet algemene regelen gemeentelijke inde
 
 - c. Wormerland in de plaats van die van de op te heffen gemeenten Jisp, Wormer en Wijdewormer.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Gemeenschappelijke regelingen waaraan uitsluitend wordt deelgenomen door:
 
@@ -172,7 +195,7 @@ De besturen van onderscheidenlijk de nieuw te vormen gemeenten Landsmeer, Waterl
 
 2. Voor de overige gemeenschappelijke regelingen treden, zolang nog geen uitvoering is gegeven aan artikel 14, vierde of vijfde lid, van de Wet algemene regelen gemeentelijke indeling, onderscheidenlijk de in het eerste lid genoemde nieuwe gemeenten in de plaats van de in het eerste lid genoemde op te heffen gemeenten.
 
-#### Artikel 6
+##### Artikel 6
 
 De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde rechten en verplichtingen gaan van:
 
@@ -182,7 +205,7 @@ De in artikel 16, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - 3. de op te heffen gemeenten Jisp, Wormer en Wijdewormer over naar de nieuw te vormen gemeente Wormerland.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor de toepassing van de artikelen 17, tweede lid, en 20, tweede lid, van de Wet algemene regelen gemeentelijke indeling treedt de nieuw te vormen gemeente:
 
@@ -192,11 +215,11 @@ Voor de toepassing van de artikelen 17, tweede lid, en 20, tweede lid, van de We
 
 - 3. Wormerland in de plaats van de op te heffen gemeenten Jisp Wormer en Wijdewormer.
 
-#### Artikel 8
+##### Artikel 8
 
 Een verkiezing als bedoeld in artikel 24, eerste lid, van de Wet algemene regelen gemeentelijke indeling wordt gehouden in de nieuw te vormen gemeenten Landsmeer, Waterland en Wormerland, met de voorbereiding waarvan onderscheidenlijk zijn belast de op te heffen gemeenten Landsmeer, Monnickendam en Wormer.
 
-#### Artikel 9
+##### Artikel 9
 
 De in artikel 31, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde ambtenaren gaan voorlopig over in dienst van de nieuw te vormen gemeente:
 
@@ -206,7 +229,7 @@ De in artikel 31, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - 3. Wormerland, voor zover het betreft de ambtenaren van de op te heffen gemeenten Jisp, Wormer en Wijdewormer.
 
-#### Artikel 10
+##### Artikel 10
 
 De in artikel 42, eerste lid, van de Wet algemene regelen gemeentelijke indeling bedoelde archiefbescheiden gaan van de op te heffen gemeenten:
 
@@ -216,23 +239,23 @@ De in artikel 42, eerste lid, van de Wet algemene regelen gemeentelijke indeling
 
 - 3. Jisp, Wormer en Wijdewormer over naar de nieuw te vormen gemeente Wormerland.
 
-#### Artikel 11
+##### Artikel 11
 
 In het gebied waarop deze wet van toepassing is blijft de organisatie van het Korps Rijkspolitie gelijk aan die op de dag voorafgaande aan de datum van herindeling tot het tijdstip waarop Onze Minister van Justitie de organisatie van dat Korps in overeenstemming met het bepaalde in [artikel 13 van de Politiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=13) (**Stb.** 1957, 244) heeft gebracht.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 14
+##### Artikel 14
 
 Door Onze Minister van Binnenlandse Zaken wordt voor zover nodig binnen één maand na inwerkingtreding van deze wet de definitieve grensbeschrijving vastgelegd.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

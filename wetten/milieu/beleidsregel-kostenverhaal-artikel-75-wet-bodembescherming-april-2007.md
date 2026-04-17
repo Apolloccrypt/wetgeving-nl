@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel kostenverhaal, artikel 75 Wet bodembescherming april 2007"
 identifier: "BWBR0021825"
-categorie: "Milieu"
-publicatiedatum: 2007-05-10
-laatste_update: 2007-05-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021825"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-05-10"
+last_updated: "2007-05-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021825"
+soort: "beleidsregel"
+stam_id: "9072263"
+version_id: "14475112"
+internal_id: "C19689931"
+label_id: "9051554"
+dtd_version: "2.0"
+original_entry_into_force: "2007-05-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021825/2007-05-10/0"
+intitule_bron: "Stcrt.2007-90"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-05-10"
+intitule_in_force: "2007-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-90"
+original_published_date: "2007-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-90-p15-SC80368"
+entry_into_force_date: "2007-05-10"
+jci_1_3: "jci1.3:c:BWBR0021825&z=2007-05-10&g=2007-05-10"
+jci_1_0: "1.0:c:BWBR0021825&g=2007-05-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-05-10"
 ---
-
 # Beleidsregel kostenverhaal, artikel 75 Wet bodembescherming april 2007
 
 ### 1. Inleiding

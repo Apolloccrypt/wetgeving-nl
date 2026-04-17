@@ -1,20 +1,43 @@
 ---
-title: "Regeling bevordering schone wegvoertuigen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 oktober 2021, nr. IENW/BSK-2021/265234, houdende regels ter bevordering van schone wegvoertuigen ter ondersteuning van emissiearme mobiliteit (Regeling bevordering schone wegvoertuigen)"
 identifier: "BWBR0045768"
-categorie: "Verkeer"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045768"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045768"
+soort: "ministeriele-regeling"
+stam_id: "16118223"
+version_id: "28116382"
+internal_id: "C39649651"
+label_id: "16048644"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045768/2026-01-01/0"
+intitule_bron: "Stcrt.2021-43413"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-11-03"
+intitule_in_force: "2021-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-43413"
+original_published_date: "2021-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-43413"
+entry_into_force_date: "2021-11-04"
+jci_1_3: "jci1.3:c:BWBR0045768&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0045768&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bevordering schone wegvoertuigen"
+entry_into_force: "2021-11-04"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 8 oktober 2021, nr. IENW/BSK-2021/265234, houdende regels ter bevordering van schone wegvoertuigen ter ondersteuning van emissiearme mobiliteit (Regeling bevordering schone wegvoertuigen)
 
 Gelet op [richtlijn (EU) 2019/1161](32019L1161) van het Europees Parlement en de Raad van 20 juni 2019 tot wijziging van [Richtlijn 2009/33/EG](32009L0033) inzake de bevordering van schone en energiezuinige wegvoertuigen (PbEU 2019, L188) en [artikel 9.6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.6.1) juncto [artikel 21.6, zesde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=21.6);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -62,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 - **zwaar bedrijfsvoertuig:** voertuig van categorie N2, N3, of M3 als bedoeld in artikel 4 van [Verordening 2018/858](32758R2018);
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op overheidsopdrachten en speciale-sector opdrachten die onder de [Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203) vallen en plaatsvinden door middel van:
 
@@ -80,7 +103,7 @@ In deze regeling wordt verstaan onder:
 
 - b. voertuigen van categorie M3, met uitzondering van voertuigen van klasse I en klasse A, als bedoeld in artikel 3, punten 2 en 3, van [Verordening nr. 661/2009](32009R0661);
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de periode van 2 augustus 2021 tot en met 31 december 2025 geldt dat:
 
@@ -94,7 +117,7 @@ Voor de periode van 2 augustus 2021 tot en met 31 december 2025 geldt dat:
 
 - c. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor zware bedrijfsvoertuigen en diensten, houden aan de voor Nederland bepaalde minimumstreefcijfers in de eerste en derde kolom van tabel 4 van de bijlage bij [Richtlijn 2019/1161](32019L1161).
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de periode van 1 januari 2026 tot en met 31 december 2030 geldt dat:
 
@@ -108,7 +131,7 @@ Voor de periode van 1 januari 2026 tot en met 31 december 2030 geldt dat:
 
 - c. aanbestedende diensten en speciale-sector bedrijven zich bij het plaatsen van overheidsopdrachten en speciale-sector opdrachten voor zware bedrijfsvoertuigen en diensten, houden aan de voor Nederland bepaalde minimumstreefcijfers in de tweede en vierde kolom van tabel 4 van de bijlage bij [Richtlijn 2019/1161](32019L1161).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot het moment dat de Minister van Economische Zaken en Klimaat ter uitvoering van Uitvoeringsverordening EU 2019/1780 vastgestelde formulieren beschikbaar stelt door middel van het elektronische systeem voor aanbestedingen, nemen aanbestedende diensten en speciale-sector bedrijven in de aankondiging van de overheidsopdracht per voertuigcategorie op:
 
@@ -122,19 +145,19 @@ Voor de periode van 1 januari 2026 tot en met 31 december 2030 geldt dat:
 
 3. Vanaf het moment dat de Minister van Economische Zaken en Klimaat ter uitvoering van Uitvoeringsverordening EU 2019/1780 vastgestelde formulieren beschikbaar stelt door middel van het elektronische systeem voor aanbestedingen, nemen de aanbestedende diensten en speciale-sector bedrijven in deze formulieren bij de velden met betrekking tot [Richtlijn 2009/33/EG](32009L0033) de gegevens, bedoeld in het eerste lid, op.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Regeling bevordering aankoop schone en energiezuinige voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0030022) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Een wijziging van [richtlijn 2019/1161](32019L1161) of van de daarbij behorende bijlage gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekend gemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 2 augustus 2021.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling bevordering schone wegvoertuigen.
 

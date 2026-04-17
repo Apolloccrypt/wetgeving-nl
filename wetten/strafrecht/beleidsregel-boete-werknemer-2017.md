@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel boete werknemer 2017"
 identifier: "BWBR0038653"
-categorie: "Strafrecht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038653"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038653"
+soort: "zbo"
+stam_id: "13777543"
+version_id: "23626762"
+internal_id: "C34040461"
+label_id: "13743784"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038653/2017-01-01/0"
+intitule_bron: "Stcrt.2016-56097"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-13"
+intitule_published: "2016-10-25"
+intitule_in_force: "2016-11-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-56097"
+original_signed_date: "2016-09-13"
+original_published_date: "2016-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-56097"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038653&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0038653&g=2017-01-01"
+citeertitel_status: "officieel"
+signed_date: "2016-09-13"
+entry_into_force: "2017-01-01"
 ---
-
 # Beleidsregel boete werknemer 2017
 
 Gelet op [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=25) en [27a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=12) en [21 van de Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), [45a](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a) en [49 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a) en [80 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=80), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48) en [70 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=70), [2:69](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69) en [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40) en [3:74 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:74), [27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), en [91 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91), [3:16](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:16) en [3:27, eerste lid, onderdeel f, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:27), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=12) en [14a van de Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a), [titel 5.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.4) en het [Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708);
@@ -16,7 +41,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet socialezekerheidswetten (regeling van bestuurlijke boete) [Stb. 2016/318] in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -66,13 +91,13 @@ In dit besluit wordt verstaan onder:
 
 - w. **schriftelijke waarschuwing:** de schriftelijke waarschuwing, bedoeld in [artikel 27a, vierde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a), [artikel 21, vierde lid, van de Wet IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21), [artikel 45a, vierde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a), [artikel 29a, vierde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a), [artikel 48, vierde lid, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48), [artikelen 2:69, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69), en [3:40, vierde lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40), [artikel 91, vierde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91) en [artikel 14a, vierde lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a).
 
-#### Artikel 2. Inlichtingenverplichting
+##### Artikel 2. Inlichtingenverplichting
 
 1. Betrokkene heeft onverwijld aan de spontane inlichtingenverplichting voldaan als de inlichtingen over de wijziging van feiten of omstandigheden binnen één week door het UWV is ontvangen.
 
 2. In afwijking van het eerste lid geldt voor de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) een termijn van twee dagen.
 
-#### Artikel 3. Berekening van de bestuurlijke boete
+##### Artikel 3. Berekening van de bestuurlijke boete
 
 1. Behoudens de gevallen waarin het UWV geen gebruik maakt van de schriftelijke waarschuwingsbevoegdheid en de bestuurlijke boete vaststelt op basis van een gefixeerd bedrag of het UWV de bestuurlijke boete verlaagt in verband met draagkracht, wordt de bestuurlijke boete berekend door middel van een percentage van het basisboetebedrag. Het basisboetebedrag is gelijk aan het benadelingsbedrag of, indien er sprake is van recidive, gelijk aan 150% van het benadelingsbedrag.
 
@@ -88,7 +113,7 @@ In dit besluit wordt verstaan onder:
 
 - c. op het bruto teveel betaalde bedrag wordt het, in de periode van overtreding, bruto te weinig betaalde bedrag in mindering gebracht.
 
-#### Artikel 4. Afstemming van de bestuurlijke boete
+##### Artikel 4. Afstemming van de bestuurlijke boete
 
 1. Om tot een evenredige bestuurlijke boete te komen wordt de bestuurlijke boete afgestemd op de ernst van de overtreding, de mate van verwijtbaarheid en de omstandigheden van het geval, zoals bedoeld in [artikel 5:46, tweede lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:46).
 
@@ -102,7 +127,7 @@ In dit besluit wordt verstaan onder:
 
 4. Er is in ieder geval sprake van geringe verwijtbaarheid indien betrokkene binnen een jaar na aanvang van de overtreding alsnog uit eigen beweging de juiste en volledige inlichtingen heeft verstrekt.
 
-#### Artikel 5. Schriftelijke waarschuwing
+##### Artikel 5. Schriftelijke waarschuwing
 
 1. In de wet is bepaald dat het UWV, in situaties zoals bepaald in het [Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708), kan afzien van boeteoplegging en volstaan met het geven van een schriftelijke waarschuwing. Het UWV volstaat in de volgende situaties met het geven van een schriftelijke waarschuwing:
 
@@ -126,7 +151,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het UWV acht een afwijking van het bedrag van € 150,– genoemd in het derde lid, in ieder geval aangewezen indien er geen sprake is van opzet of grove schuld.
 
-#### Artikel 6. Draagkracht
+##### Artikel 6. Draagkracht
 
 1. Indien de financiële omstandigheden waarin een betrokkene verkeert daartoe aanleiding geven, verlaagt het UWV de bestuurlijke boete.
 
@@ -146,15 +171,15 @@ In dit besluit wordt verstaan onder:
 
 4. Wanneer het UWV heeft vastgesteld dat betrokkene geen of een geringe aflossingscapaciteit heeft, wordt een bestuurlijke boete van € 40,– opgelegd.
 
-#### Artikel 7. Intrekking [Beleidsregel boete werknemer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034292)
+##### Artikel 7. Intrekking [Beleidsregel boete werknemer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034292)
 
 De [Beleidsregel boete werknemer 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034292) wordt ingetrokken.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 23 augustus 2016, houdende wijziging van de socialezekerheidswetten in verband met de regeling van de bestuurlijke boete (Stb. 2016, 318) in werking treedt.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregel boete werknemer 2017.
 

@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit beheer sociale-huursector, enz. (verbetering van toezicht op de sociale-huursector, verbetering van werkwijze van het Centraal Fonds voor de Volkshuisvesting)"
+title: "Besluit van 27 februari 1998, houdende wijziging van het Besluit beheer sociale-huursector en het Besluit Centraal Fonds voor de Volkshuisvesting (verbetering van het toezicht op de sociale-huursector, verbetering van de werkwijze van het Centraal Fonds voor de Volkshuisvesting)"
 identifier: "BWBR0009430"
-categorie: "Sociaal recht"
-publicatiedatum: 1998-05-18
-laatste_update: 1998-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009430"
+country: "nl"
+rank: "amvb"
+publication_date: "1998-05-18"
+last_updated: "1998-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009430"
+soort: "AMvB"
+stam_id: "776383"
+version_id: "1126872"
+internal_id: "C1126871"
+label_id: "752254"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009430/1998-05-18/0"
+intitule_bron: "Stb.1998-135"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-27"
+intitule_published: "1998-03-17"
+intitule_in_force: "1998-03-17"
+intitule_status: "goed"
+original_publication: "Stb.1998-135"
+original_signed_date: "1998-02-27"
+original_published_date: "1998-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-135"
+entry_into_force_date: "1998-03-18"
+jci_1_3: "jci1.3:c:BWBR0009430&z=1998-05-18&g=1998-05-18"
+jci_1_0: "1.0:c:BWBR0009430&g=1998-05-18"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Besluit beheer sociale-huursector, enz. (verbetering van toezicht op de sociale-huursector, verbetering van werkwijze van het Centraal Fonds voor de Volkshuisvesting)"
+signed_date: "1998-02-27"
+entry_into_force: "1998-03-18"
 ---
-
 # Besluit van 27 februari 1998, houdende wijziging van het Besluit beheer sociale-huursector en het Besluit Centraal Fonds voor de Volkshuisvesting (verbetering van het toezicht op de sociale-huursector, verbetering van de werkwijze van het Centraal Fonds voor de Volkshuisvesting)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 4 juli 1997, nr. MJZ97113554, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -20,11 +46,11 @@ Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelij
 
 Hebben goedgevonden en verstaan:
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt het Besluit beheer sociale-huursector.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 1. Indien een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) voor het tijdstip van inwerkingtreding van dit besluit, overeenkomstig [artikel 30, eerste lid, van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=30) als laatstelijk luidend voor die inwerkingtreding, aan het college van burgemeester en wethouders de bescheiden, bedoeld in de onderdelen a en b van dat lid als laatstelijk luidend voor die inwerkingtreding, heeft doen toekomen:
 
@@ -36,7 +62,7 @@ Wijzigt het Besluit beheer sociale-huursector.
 
 2. Onze in onderdeel c van het eerste lid genoemde Minister en het in dat onderdeel genoemde bestuur bevestigen binnen twee weken aan de betrokken toegelaten instellingen als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70), de ontvangst van de krachtens het eerste lid aan hen gezonden bescheiden.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 1. De besluiten van aanmerkelijk belang in de zin van [artikel 34 van het Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686&artikel=34) als laatstelijk luidend voor de inwerkingtreding van dit besluit, die overeenkomstig artikel 35, eerste lid, van genoemd besluit als laatstelijk luidend voor die inwerkingtreding zijn gemeld en met betrekking tot welke op het tijdstip van die inwerkingtreding, met inachtneming van de artikelen 35, tweede lid, en 36 tot en met 38 van genoemd besluit als laatstelijk luidend voor die inwerkingtreding, nog niet vaststaat of een toegelaten instelling als bedoeld in [artikel 70, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=70) tot uitvoering daarvan kan overgaan, worden behandeld overeenkomstig de volgende leden van dit artikel.
 
@@ -78,19 +104,19 @@ Wijzigt het Besluit beheer sociale-huursector.
 
 - b. is artikel 38 van genoemd besluit als laatstelijk luidend voor die inwerkingtreding niet van toepassing.
 
-#### ARTIKEL IV
+##### ARTIKEL IV
 
 Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.
 
-#### ARTIKEL V
+##### ARTIKEL V
 
 De tekst van het [Besluit beheer sociale-huursector](https://wetten.overheid.nl/jci1.3:c:BWBR0005686) en de tekst van het [Besluit Centraal Fonds voor de Volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0004418) worden in het Staatsblad geplaatst.
 
-#### ARTIKEL VI
+##### ARTIKEL VI
 
 Wijzigt het Besluit woninggebonden subsidies 1995.
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 1. De [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0009430&artikel=I&z=1998-05-18&g=1998-05-18), [II](https://wetten.overheid.nl/jci1.3:c:BWBR0009430&artikel=II&z=1998-05-18&g=1998-05-18), [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009430&artikel=III&z=1998-05-18&g=1998-05-18), [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009430&artikel=IV&z=1998-05-18&g=1998-05-18) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0009430&artikel=VI&z=1998-05-18&g=1998-05-18) treden in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,52 +1,78 @@
 ---
-title: "Wijzigingsbesluit financiële markten 2016"
+title: "Besluit van 18 februari 2016 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2016)"
 identifier: "BWBR0037721"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-04-01
-laatste_update: 2016-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037721"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-04-01"
+last_updated: "2016-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037721"
+soort: "AMvB"
+stam_id: "13439493"
+version_id: "23068302"
+internal_id: "C33336781"
+label_id: "13406704"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037721/2016-04-01/0"
+intitule_bron: "Stb.2016-98"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-18"
+intitule_published: "2016-03-16"
+intitule_in_force: "2016-03-16"
+intitule_status: "goed"
+original_publication: "Stb.2016-98"
+original_signed_date: "2016-02-18"
+original_published_date: "2016-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-98"
+entry_into_force_date: "2016-03-17"
+jci_1_3: "jci1.3:c:BWBR0037721&z=2016-04-01&g=2016-04-01"
+jci_1_0: "1.0:c:BWBR0037721&g=2016-04-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit financiële markten 2016"
+signed_date: "2016-02-18"
+entry_into_force: "2016-03-17"
 ---
-
 # Besluit van 18 februari 2016 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit bestuurlijke boetes financiële sector en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2016)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit financiële markten BES.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit bijzondere prudentiële maatregelen, beleggerscompensatie en depositogarantie Wft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-#### Artikel IX
+##### Artikel IX
 
 Dit besluit treedt in werking met ingang van 1 april 2016, met uitzondering van [artikel I, onderdeel S](https://wetten.overheid.nl/jci1.3:c:BWBR0037721&artikel=I&z=2016-04-01&g=2016-04-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en terugwerkt tot en met 1 januari 2016.
 
-#### Artikel X
+##### Artikel X
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2016.
 

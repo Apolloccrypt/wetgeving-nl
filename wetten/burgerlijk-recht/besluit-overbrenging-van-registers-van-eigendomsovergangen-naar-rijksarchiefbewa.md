@@ -1,13 +1,35 @@
 ---
-title: "Besluit overbrenging van registers van eigendomsovergangen naar Rijksarchiefbewaarplaatsen"
+title: "Besluit van 24 november 1932, betreffende de overbrenging van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden met de daarbij behoorende bescheiden naar de Rijksarchiefbewaarplaatsen"
 identifier: "BWBR0001956"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1933-01-02
-laatste_update: 1933-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001956"
+country: "nl"
+rank: "kb"
+publication_date: "1933-01-02"
+last_updated: "1933-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001956"
+soort: "KB"
+stam_id: "802613"
+version_id: "1163542"
+internal_id: "C1163541"
+label_id: "777414"
+dtd_version: "2.0"
+original_entry_into_force: "1933-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001956/1933-01-02/0"
+intitule_bron: "Stb.1932-560"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1932-11-24"
+intitule_status: "goed"
+original_publication: "Stb.1932-560"
+original_signed_date: "1932-11-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1933-01-02"
+jci_1_3: "jci1.3:c:BWBR0001956&z=1933-01-02&g=1933-01-02"
+jci_1_0: "1.0:c:BWBR0001956&g=1933-01-02"
+citeertitel_status: "officieel"
+short_title: "Besluit overbrenging van registers van eigendomsovergangen naar Rijksarchiefbewaarplaatsen"
+signed_date: "1932-11-24"
+entry_into_force: "1933-01-02"
 ---
-
 # Besluit van 24 november 1932, betreffende de overbrenging van de registers van eigendomsovergangen, welke in de jaren 1812-1832 door de maires en gemeentebesturen zijn aangelegd en bijgehouden met de daarbij behoorende bescheiden naar de Rijksarchiefbewaarplaatsen
 
 Op de gemeenschappelijke voordracht van Onze Ministers van Onderwijs, Kunsten en Wetenschappen en van Financiën van 15 September 1932, n°. 20484, afdeeling Kunsten en Wetenschappen en van 21 September 1932, n°. 49, Centrale Directie;
@@ -26,31 +48,31 @@ Hebben goedgevonden en verstaan:
 
 te bepalen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De registers van eigendomsovergangen van gebouwde en ongebouwde eigendommen (livres des mutations des propriétés bâties et non bâties), welke krachtens artikel 33 der wet van 3 frimaire jaar VII ( **Bulletin des lois** n°. 243) door de maires en gemeentebesturen in de jaren 1812-1832 zijn aangelegd en bijgehouden en welke, hetzij overeenkomstig de bepalingen van Ons besluit van 17 Juli 1915 (**Staatsblad** n°. 334) in de bewaringen van de hypotheken en het kadaster berusten, hetzij nog in de archieven der gemeenten, op de griffies der provinciale besturen of in de archieven van de ambtenaren der directe belastingen mochten zijn achtergebleven, zullen met de daarbij behoorende aangiften van notarissen en eigenaars van onroerende goederen en uittreksels uit en afschriften van authentieke en andere akten van overdracht of eigendomsverkrijging worden overgebracht naar de Rijksarchiefbewaarplaatsen in de hoofdplaatsen van de provinciën, waarin de gemeenten, waarop die registers en stukken betrekking hebben, gelegen zijn.
 
 2. Ten aanzien van de provincie **Zuidholland** geschiedt de overbrenging naar de Algemeene Rijksarchiefbewaarplaats te 's-Gravenhage.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001956&artikel=1&z=1933-01-02&g=1933-01-02) genoemde registers en stukken worden gesteld onder den Rijksarchivaris, die belast is met het beheer van de Rijksarchiefbewaarplaats, waarheen die registers en stukken zullen zijn overgebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De overbrenging van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001956&artikel=1&z=1933-01-02&g=1933-01-02) genoemde registers en stukken geschiedt op de wijze en op het tijdstip, tusschen den ambtenaar, onder wien zij tot dusverre berusten, en den Rijksarchivaris van de Rijksarchiefbewaarplaats, waarheen zij worden overgebracht, in gemeen overleg te bepalen, met dien verstande, dat de overbrenging moet plaats vinden binnen tien jaren na het in werking treden van dit besluit. Indien geene voldoende ruimte beschikbaar is, is Onze Minister van Onderwijs, Kunsten en Wetenschappen bevoegd den hiervoor genoemden termijn zoodanig te verlengen, als de voorziening in het ruimtegebrek zal vereischen.
 
 2. Indien het overleg tusschen den ambtenaar, onder wien de stukken tot dusverre berusten, en den Rijksarchivaris niet tot eenstemmigheid leidt, beslist Onze Minister van Onderwijs, Kunsten en Wetenschappen, den Algemeenen Rijksarchivaris gehoord.
 
-#### Artikel 4
+##### Artikel 4
 
 Van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001956&artikel=1&z=1933-01-02&g=1933-01-02) genoemde registers en stukken, die in eene Rijksarchiefbewaarplaats zijn overgebracht, wordt door den Rijksarchivaris van de Rijksarchiefbewaarplaats een inventaris in duplo opgemaakt, die van eene verklaring aangaande de overbrenging wordt voorzien. Beide exemplaren worden door den ambtenaar, die de registers en stukken heeft afgegeven, en den Rijksarchivaris, die ze heeft overgenomen, geteekend. Eén exemplaar wordt onder dien ambtenaar, het andere in gemelde Rijksarchiefbewaarplaats bewaard.
 
-#### Artikel 5
+##### Artikel 5
 
 De kosten van overbrenging in de Rijksarchiefbewaarplaatsen worden uit de ten behoeve van de Rijksarchiefbewaarplaatsen op de Rijksbegrooting uitgetrokken gelden geleden.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister van Onderwijs, Kunsten en Wetenschappen is gemachtigd om aan de Rijksarchivarissen op te dragen aan gemeenten, die een eigen archivaris en doelmatige archieflokalen hebben, van de overeenkomstig [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001956&artikel=1&z=1933-01-02&g=1933-01-02) naar de Rijksarchiefbewaarplaatsen overgebrachte registers en stukken de zoodanige, welke die gemeenten betreffen, tot wederopzeggens in bewaring te geven, onder voorwaarde dat het betrokken gemeentebestuur zich verbindt:
 

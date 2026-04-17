@@ -1,14 +1,37 @@
 ---
-title: "Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V."
+title: "Wet van 27 april 1994, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap De Nederlandse Munt N.V. en tot wijziging van de Muntwet 1987"
 identifier: "BWBR0006636"
-categorie: "Overig"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006636"
+country: "nl"
+rank: "wet"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006636"
+soort: "wet"
+stam_id: "319913"
+version_id: "464502"
+internal_id: "C464501"
+label_id: "313274"
+dtd_version: "2.0"
+original_entry_into_force: "1994-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006636/2016-07-01/0"
+intitule_bron: "Stb.1994-336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-27"
+intitule_status: "goed"
+original_publication: "Stb.1994-336"
+original_signed_date: "1994-04-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "23413"
+entry_into_force_date: "1994-07-01"
+jci_1_3: "jci1.3:c:BWBR0006636&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0006636&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V."
+signed_date: "1994-04-27"
+entry_into_force: "1994-07-01"
 ---
-
-# Wet tot oprichting van de naamloze vennootschap De Nederlandse Munt N.V.
+# Wet van 27 april 1994, houdende regelen met betrekking tot de oprichting van de naamloze vennootschap De Nederlandse Munt N.V. en tot wijziging van de Muntwet 1987
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Definitiebepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -36,7 +59,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk 2. Machtiging
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten de naamloze vennootschap De Nederlandse Munt N.V., op welke vennootschap de artikelen 158 tot en met 164 van Boek 2 van het Burgerlijk Wetboek van toepassing zijn en welke vennootschap ten doel heeft het vervaardigen en verkopen van munten, penningen, eretekenen en soortgelijke produkten, zomede al hetgeen met het bovenstaande verband houdt of daartoe bevorderlijk kan zijn.
 
@@ -46,7 +69,7 @@ In deze wet wordt verstaan onder:
 
 4. Onze Minister wordt gemachtigd om namens de Staat der Nederlanden op te richten de Stichting Het Nederlands Muntmuseum, welke stichting ten doel heeft het oprichten, het beheren of doen beheren en het exploiteren van een museum dat betrekking heeft op het muntbedrijf en het muntwezen in het algemeen en het namens de Staat der Nederlanden verwerven en doen verwerven van objecten en documenten die betrekking hebben op de bedrijfsuitoefening van de Nederlandse Munt N.V., op de door De Nederlandse Munt N.V. voortgebrachte produkten en op het muntbedrijf in het algemeen, alsmede op de historie van het muntwezen in Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Alle vermogensbestanddelen van de Staat die aan 's Rijks Munt kunnen worden toegerekend, gaan op de overgangsdatum onder algemene titel over op De Nederlands Munt N.V. tegen de waarde te bepalen met inachtneming van het bepaalde in [artikel 94a, boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=94a) en zonder dat daarvoor een nadere akte of betekening wordt gevorderd.
 
@@ -54,17 +77,17 @@ In deze wet wordt verstaan onder:
 
 3. [Artikel 2.6, eerste lid, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=2.6) is ten aanzien van de in het tweede lid genoemde museale verzamelingen en voorwerpen niet van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 De overgang van de vermogensbestanddelen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), wordt tot het beloop van het nominale bedrag van de bij oprichting geplaatste aandelen of tot een door Onze Minister te bepalen hoger bedrag aangemerkt als storting door de Staat op aandelen. Een dan nog resterend verschil wordt aangemerkt als storting door de Staat op een of meer leningen aan De Nederlandse Munt N.V., waarvan de voorwaarden door Onze Minister worden vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01), bedoelde vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe nodige opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.
 
 ### Hoofdstuk 3. Personeel
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ieder personeelslid heeft het recht bij De Nederlandse Munt N.V. in dienst te treden op een arbeidsovereenkomst naar burgerlijk recht, ingaande op de overgangsdatum. Dit recht kan, behoudens het bepaalde in het tweede en het tiende lid, niet na de overgangsdatum worden uitgeoefend.
 
@@ -88,7 +111,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 11. Onze Minister kan nadere regels stellen omtrent het bepaalde in dit artikel.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met ingang van de datum waarop het personeel overgaat krijgt een personeelslid met wie een arbeidsovereenkomst als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=3&artikel=6&z=2016-07-01&g=2016-07-01), is gesloten, ter zake van de ouderdoms- en nabestaandenpensioenvoorziening aanspraken jegens een door De Nederlandse Munt N.V. aan te wijzen instelling als bedoeld in [artikel 1, eerste lid, onder **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=1&artikel=1&z=2016-07-01&g=2016-07-01), dan wel onder **c**, van de [Pensioen- en spaarfondsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002089), die in totaliteit gelijkwaardig zijn aan die welke het personeelslid op de laatste dag van de kalendermaand voorafgaand aan de overgangsdatum heeft jegens het Algemeen burgerlijk pensioenfonds krachtens de Algemene burgerlijke pensioenwet en neemt de aangewezen instelling daarmee verband houdende verplichtingen op zich.
 
@@ -114,7 +137,7 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 4. Fiscale bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bevat wijzigingen in andere regelgeving.
 
@@ -122,13 +145,13 @@ Met betrekking tot de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1
 
 3. Met betrekking tot de overgang van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) bedoelde vermogensbestanddelen van de Staat op de Nederlandse Munt N.V. vinden, in afwijking van [artikel 8, eerste lid, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), artikel 10, derde lid, en artikel 11 van de Wet op de inkomstenbelasting 1964 geen toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006636&hoofdstuk=2&artikel=3&z=2016-07-01&g=2016-07-01) door De Nederlandse Munt N.V. van vermogensbestanddelen van de Staat blijft de heffing van overdrachtsbelasting achterwege.
 
 ### Hoofdstuk 5. Archiefbescheiden
 
-#### Artikel 10
+##### Artikel 10
 
 1. De onder 's Rijks Munt berustende archiefbescheiden worden ter beschikking gesteld aan De Nederlandse Munt N.V. Daarvan wordt een verklaring opgemaakt, die ten minste inhoudt een specificatie van de archiefbescheiden. Onze Minister, De Nederlandse Munt N.V. en de algemene rijksarchivaris bewaren ieder een exemplaar van deze verklaring.
 
@@ -136,21 +159,21 @@ Ter zake van de verkrijging ingevolge [artikel 3](https://wetten.overheid.nl/jci
 
 ### Hoofdstuk 6. Wijzigingen andere wetten
 
-#### Artikel 11
+##### Artikel 11
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 12
+##### Artikel 12
 
 De Aanwijzingswet 's Rijks Munt (**Stb.** 1928, 483) wordt ingetrokken.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister van Financiën zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

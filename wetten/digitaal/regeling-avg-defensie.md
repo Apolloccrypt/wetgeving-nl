@@ -1,20 +1,45 @@
 ---
 title: "Regeling AVG Defensie"
 identifier: "BWBR0040915"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-05-25
-laatste_update: 2018-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040915"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-05-25"
+last_updated: "2018-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040915"
+soort: "ministeriele-regeling"
+stam_id: "14612103"
+version_id: "25019562"
+internal_id: "C35783941"
+label_id: "14565814"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040915/2018-05-25/0"
+intitule_bron: "Stcrt.2018-28291"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-05-15"
+intitule_published: "2018-05-22"
+intitule_in_force: "2018-05-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-28291"
+original_signed_date: "2018-05-15"
+original_published_date: "2018-05-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-28291"
+entry_into_force_date: "2018-05-25"
+jci_1_3: "jci1.3:c:BWBR0040915&z=2018-05-25&g=2018-05-25"
+jci_1_0: "1.0:c:BWBR0040915&g=2018-05-25"
+citeertitel_status: "officieel"
+signed_date: "2018-05-15"
+entry_into_force: "2018-05-25"
 ---
-
 # Regeling AVG Defensie
 
 Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Begrippen en definities
+##### Artikel 1.1. Begrippen en definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,13 +67,13 @@ In deze regeling wordt verstaan onder:
 
 - k. **inbreuk in verband met persoonsgegevens:** inbreuk in verband met persoonsgegevens als bedoeld in artikel 33, eerste lid, AVG.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 1. Deze regeling is van toepassing op alle verwerkingen van persoonsgegevens, waarop de [wet](onbekend) en de AVG van toepassing respectievelijk van overeenkomstige toepassing zijn, en waarvoor de Minister van Defensie de verwerkingsverantwoordelijke is in de zin van de AVG.
 
 2. In afwijking van het eerste lid, is deze regeling niet van toepassing op verwerkingen welke ingevolge [artikel 3, derde lid, van de wet](onbekend) door de minister van Defensie zijn aangewezen.
 
-#### Artikel 1.3. Beheerder
+##### Artikel 1.3. Beheerder
 
 1. Als AVG-beheerder worden aangewezen:
 
@@ -76,7 +101,7 @@ In deze regeling wordt verstaan onder:
 
 6. Voor die verwerkingen ten aanzien waarvan dit artikel niet in een aanwijzing van AVG-beheerder voorziet, kan de Secretaris-Generaal alsnog een AVG-beheerder aanwijzen.
 
-#### Artikel 1.4. Verwerker
+##### Artikel 1.4. Verwerker
 
 1. Indien een AVG-beheerder, dan wel een AVG-onderbeheerder, persoonsgegevens laat verwerken door een verwerker, dan wel indien de minister optreedt als verwerker voor een externe verwerkingsverantwoordelijke, vindt verwerking van persoonsgegevens slechts plaats indien voorafgaand daaraan de uitvoering van de verwerkingen door de verwerker is geregeld in een overeenkomst tussen de verwerkingsverantwoordelijke en verwerker dan wel krachtens een andere rechtshandeling waardoor een verbintenis is ontstaan tussen de verwerker en de verwerkingsverantwoordelijke.
 
@@ -92,7 +117,7 @@ In deze regeling wordt verstaan onder:
 
 3. De overeenkomst of rechtshandeling wordt schriftelijk vastgelegd en wordt opgenomen in het in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=2&artikel=2.1&z=2018-05-25&g=2018-05-25) van deze regeling bedoelde register van verwerkingsactiviteiten.
 
-#### Artikel 1.5. Functionaris voor gegevensbescherming
+##### Artikel 1.5. Functionaris voor gegevensbescherming
 
 1. Er is een functionaris voor gegevensbescherming.
 
@@ -108,11 +133,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Register van verwerkingsactiviteiten ministerie van Defensie
 
-#### Artikel 2.1. Register van verwerkingsactiviteiten ministerie van Defensie
+##### Artikel 2.1. Register van verwerkingsactiviteiten ministerie van Defensie
 
 Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, van het ministerie van Defensie.
 
-#### Artikel 2.2. Registratie verwerkingsactiviteiten
+##### Artikel 2.2. Registratie verwerkingsactiviteiten
 
 1. De AVG-coördinator registreert verwerkingen van persoonsgegevens voordat met de verwerking wordt begonnen in het register van de verwerkingsactiviteiten als bedoeld in [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=2&artikel=2.1&z=2018-05-25&g=2018-05-25) van deze regeling.
 
@@ -130,7 +155,7 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 #### Paragraaf 3. Gevensbeschermingseffectbeoordeling/Privacy Impact Assessment (PIA)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een Privacy Impact Assessment wordt geïnitieerd:
 
@@ -150,7 +175,7 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 #### Paragraaf 4. Melden datalek
 
-#### Artikel 4.1. Aan de Autoriteit persoonsgegevens
+##### Artikel 4.1. Aan de Autoriteit persoonsgegevens
 
 1. De AVG-beheerder, de AVG-onderbeheerder, dan wel de AVG-coördinator meldt een datalek als bedoeld in artikel 33, eerste lid, van de AVG aan de Autoriteit persoonsgegevens. Hij stuurt een kopie daarvan aan de functionaris voor gegevensbescherming.
 
@@ -160,7 +185,7 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 4. De in het eerste lid bedoelde functionaris houdt een overzicht bij van de aan de Autoriteit persoonsgegevens gedane meldingen.
 
-#### Artikel 4.2. Aan de betrokkene
+##### Artikel 4.2. Aan de betrokkene
 
 1. Tenzij een van de voorwaarden, genoemd in artikel 34, derde lid, van de AVG zich voordoet, deelt de AVG-beheerder, de AVG-onderbeheerder, dan wel de AVG-coördinator de betrokkene een datalek als bedoeld in artikel 33, eerste lid, van de AVG onverwijld mee wanneer de inbreuk waarschijnlijk een hoog risico voor de rechten en vrijheden van betrokkene inhoudt.
 
@@ -168,13 +193,13 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 #### Paragraaf 5. Rechten van betrokkene
 
-#### Artikel 5.1. Informatieverstrekking aan de betrokkene
+##### Artikel 5.1. Informatieverstrekking aan de betrokkene
 
 1. Wanneer persoonsgegevens bij de betrokkene worden verzameld deelt de AVG-beheerder, de AVG-onderbeheerder, dan wel de AVG-coördinator de betrokkene de informatie mede conform artikel 13 van de AVG tenzij de betrokkene reeds over de informatie beschikt.
 
 2. Wanneer persoonsgegevens niet van betrokkene zijn verkregen, deelt de AVG-beheerder, de AVG-onderbeheerder, dan wel de AVG-coördinator de betrokkene de informatie mede conform artikel 14 van de AVG tenzij zich een van de uitzonderingsgronden voordoet als bedoeld in het vijfde lid van artikel 14 AVG.
 
-#### Artikel 5.2. Rechten van betrokkene
+##### Artikel 5.2. Rechten van betrokkene
 
 1. Betrokkene kan verzoeken betreffende de uitoefening van de aan hem toegekende rechten als bedoeld in de artikelen 15 tot en met 22 van de AVG richten aan:
 
@@ -200,7 +225,7 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 6. Op een verzoek als bedoeld in het eerste lid wordt binnen een maand beslist. Wanneer aan het verzoek gevolg wordt gegeven, kan de termijn met nog eens twee maanden worden verlengd afhankelijk van de complexiteit van het verzoek of van het aantal verzoeken. Betrokkene wordt hierover schriftelijk geïnformeerd.
 
-#### Artikel 5.3. Bezwaar tegen besluit [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=5&artikel=5.2&z=2018-05-25&g=2018-05-25)
+##### Artikel 5.3. Bezwaar tegen besluit [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=5&artikel=5.2&z=2018-05-25&g=2018-05-25)
 
 1. Het besluit als bedoeld in [artikel 5.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040915&paragraaf=5&artikel=5.2&z=2018-05-25&g=2018-05-25), bevat de mededeling dat bezwaar gemaakt kan worden en aan wie het bezwaar gericht dient te zijn.
 
@@ -208,13 +233,13 @@ Er is een register van verwerkingsactiviteiten, als bedoeld in artikel 30 AVG, v
 
 #### Paragraaf 6. Beveiliging en beheer
 
-#### Artikel 6
+##### Artikel 6
 
 De te treffen technische en organisatorische maatregelen dienen te zorgen voor een passend niveau van beveiliging van persoonsgegevens tegen verlies en onrechtmatige verwerking.
 
 #### Paragraaf 7. Audit
 
-#### Artikel 7
+##### Artikel 7
 
 1. De audit dienst rijk kan, al dan niet op verzoek van de functionaris voor gegevensbescherming of een AVG-beheerder, en al dan niet periodiek, een audit uitvoeren naar de naleving van de AVG en deze regeling en zal hierover rapporteren.
 
@@ -224,17 +249,17 @@ De te treffen technische en organisatorische maatregelen dienen te zorgen voor e
 
 #### Paragraaf 8. Aanwijzing
 
-#### Artikel 8
+##### Artikel 8
 
 De Secretaris-Generaal kan nadere aanwijzingen geven ter uitvoering van het bepaalde in deze regeling.
 
 #### Paragraaf 9. Slotbepalingen
 
-#### Artikel 9.1. Inwerkingtreding
+##### Artikel 9.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 25 mei 2018.
 
-#### Artikel 9.2. Citeertitel
+##### Artikel 9.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling AVG Defensie.
 

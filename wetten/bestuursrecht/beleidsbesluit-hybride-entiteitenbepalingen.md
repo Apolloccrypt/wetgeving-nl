@@ -1,13 +1,39 @@
 ---
-title: "Beleidsbesluit hybride-entiteitenbepalingen"
+title: "Wet op de dividendbelasting 1965, Wet bronbelasting 2021. Uitleg hybride-entiteitenbepalingen (Beleidsbesluit hybride-entiteitenbepalingen)"
 identifier: "BWBR0047581"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-12-07
-laatste_update: 2022-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047581"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-12-07"
+last_updated: "2022-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047581"
+soort: "beleidsregel"
+stam_id: "16586083"
+version_id: "29084212"
+internal_id: "C41342401"
+label_id: "16505624"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047581/2022-12-07/0"
+intitule_bron: "Stcrt.2022-32363"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-23"
+intitule_published: "2022-12-06"
+intitule_in_force: "2022-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32363"
+original_signed_date: "2022-11-23"
+original_published_date: "2022-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32363"
+entry_into_force_date: "2022-12-07"
+jci_1_3: "jci1.3:c:BWBR0047581&z=2022-12-07&g=2022-12-07"
+jci_1_0: "1.0:c:BWBR0047581&g=2022-12-07"
+citeertitel_status: "officieel"
+short_title: "Beleidsbesluit hybride-entiteitenbepalingen"
+signed_date: "2022-11-23"
+entry_into_force: "2022-12-07"
 ---
-
 # Wet op de dividendbelasting 1965, Wet bronbelasting 2021. Uitleg hybride-entiteitenbepalingen (Beleidsbesluit hybride-entiteitenbepalingen)
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

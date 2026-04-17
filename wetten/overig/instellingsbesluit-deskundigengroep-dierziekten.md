@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Deskundigengroep dierziekten"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. WJZ/13131948, houdende instelling van de Deskundigengroep dierziekten (Instellingsbesluit Deskundigengroep dierziekten)"
 identifier: "BWBR0033893"
-categorie: "Overig"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033893"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033893"
+soort: "ministeriele-regeling"
+stam_id: "12362943"
+version_id: "20750142"
+internal_id: "C29808211"
+label_id: "12334024"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033893/2023-04-01/0"
+intitule_bron: "Stcrt.2013-26216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-11"
+intitule_published: "2013-09-23"
+intitule_in_force: "2013-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-26216"
+original_signed_date: "2013-09-11"
+original_published_date: "2013-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-26216"
+entry_into_force_date: "2013-09-24"
+jci_1_3: "jci1.3:c:BWBR0033893&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0033893&g=2023-04-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Deskundigengroep dierziekten"
+signed_date: "2013-09-11"
+entry_into_force: "2013-09-24"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 11 september 2013, nr. WJZ/13131948, houdende instelling van de Deskundigengroep dierziekten (Instellingsbesluit Deskundigengroep dierziekten)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,17 +48,17 @@ In dit besluit wordt verstaan onder:
 
 - b. **de deskundigengroep:** de Deskundigengroep dierziekten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Deskundigengroep dierziekten.
 
 2. De deskundigengroep heeft tot taak de minister te adviseren over de preventie en bestrijding van dierziekten.
 
-#### Artikel 3
+##### Artikel 3
 
 De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit aan de minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De deskundigengroep bestaat uit een voorzitter en ten minste 15 en ten hoogste 25 andere leden.
 
@@ -42,7 +68,7 @@ De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit
 
 4. De deskundigengroep kan zich laten bijstaan door een of meer gastdeskundigen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De deskundigengroep stelt haar eigen werkwijze schriftelijk vast.
 
@@ -54,7 +80,7 @@ De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit
 
 5. De deskundigengroep verstrekt desgevraagd aan de minister de voor de uitoefening van haar taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de invulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor op 0,095.
 
@@ -62,7 +88,7 @@ De deskundigengroep brengt zowel gevraagd als ongevraagd schriftelijk advies uit
 
 3. Een gastdeskundige ontvangt een vergoeding per vergadering van € 317,–.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter gelegenheid van de instelling van de deskundigengroep worden voor een periode van vier jaar tot lid van de deskundigengroep benoemd:
 
@@ -104,7 +130,7 @@ Ter gelegenheid van de instelling van de deskundigengroep worden voor een period
 
 - s. de heer dr. J.J. de Wit, te Steenderen.
 
-#### Artikel 8
+##### Artikel 8
 
 De volgende besluiten worden ingetrokken:
 
@@ -116,11 +142,11 @@ De volgende besluiten worden ingetrokken:
 
 - d. het besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 15 april 2008, kenmerk TRCJZ/2008/298, houdende instelling van een deskundigengroep inzake de preventie en bestrijding van ziekten bij paardachtigen.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 augustus 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Deskundigengroep dierziekten.
 

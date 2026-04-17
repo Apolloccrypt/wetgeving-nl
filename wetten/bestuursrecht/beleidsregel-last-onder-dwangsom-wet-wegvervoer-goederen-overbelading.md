@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel last onder dwangsom Wet wegvervoer goederen overbelading"
+title: "Beleidsregel van de Minister van Infrastructuur en Milieu (Beleidsregel last onder dwangsom Wet wegvervoer goederen overbelading)"
 identifier: "BWBR0030878"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-12-22
-laatste_update: 2011-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030878"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-12-22"
+last_updated: "2011-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030878"
+soort: "beleidsregel"
+stam_id: "11554903"
+version_id: "19044332"
+internal_id: "C26560421"
+label_id: "11528064"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030878/2011-12-22/0"
+intitule_bron: "Stcrt.2011-23236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-09"
+intitule_published: "2011-12-21"
+intitule_in_force: "2011-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23236"
+original_signed_date: "2011-12-09"
+original_published_date: "2011-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23236"
+entry_into_force_date: "2011-12-22"
+jci_1_3: "jci1.3:c:BWBR0030878&z=2011-12-22&g=2011-12-22"
+jci_1_0: "1.0:c:BWBR0030878&g=2011-12-22"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel last onder dwangsom Wet wegvervoer goederen overbelading"
+signed_date: "2011-12-09"
+entry_into_force: "2011-12-22"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Milieu (Beleidsregel last onder dwangsom Wet wegvervoer goederen overbelading)
 
 Gelet op [artikel 5.2 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=5.2), de [artikel en 4:81, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [5:32 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:32), [artikel 23 van het Organisatie- en mandaatbesluit Verkeer en Waterstaat 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0028076&artikel=23) en [artikel 2 van het Instellingsbesluit Inspectie Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0012546&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een last onder dwangsom wordt opgelegd na constatering van een overtreding van de in de bijlage bij deze beleidsregel genoemde bepalingen van de [Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) en de [Regeling wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0025704).
 
@@ -22,19 +48,19 @@ Besluit:
 
 3. In de bijlage zijn vermeld per soort overtreding de hoogte en de maximumhoogte van de dwangsom.
 
-#### Artikel 2
+##### Artikel 2
 
 Van overbelading is sprake indien de wettelijke norm van de aslasten dan wel van het totaal gewicht van een vrachtauto, als bedoeld in [artikel 1.1 de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=1.1), dan wel van de in het kentekenregister vermelde toegestane maximummassa wordt overschreden.
 
-#### Artikel 3
+##### Artikel 3
 
 De looptijd van een last onder dwangsom bedraagt één jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel last onder dwangsom Wet wegvervoer goederen overbelading.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

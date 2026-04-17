@@ -1,20 +1,46 @@
 ---
-title: "Regeling vrijstelling telecommunicatiemachtiging BES 2016"
+title: "Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182455, houdende de aanwijzing van categorieën radio-elektrische zend- en ontvanginrichtingen waarvoor een machtiging niet is vereist en de aanwijzing van de frequenties waar de aangewezen categorieën zendinrichtingen gebruik van mogen maken (Regeling vrijstelling telecommunicatiemachtiging BES 2016)"
 identifier: "BWBR0037628"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2016-02-17
-laatste_update: 2016-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037628"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2016-02-17"
+last_updated: "2016-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037628"
+soort: "ministeriele-regeling-BES"
+stam_id: "13415043"
+version_id: "23020552"
+internal_id: "C33276321"
+label_id: "13382694"
+dtd_version: "2.0"
+original_entry_into_force: "2016-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037628/2016-02-17/0"
+intitule_bron: "Stcrt.2016-8497"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-12"
+intitule_published: "2016-02-16"
+intitule_in_force: "2016-02-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-8497"
+original_signed_date: "2016-02-12"
+original_published_date: "2016-02-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-8497"
+entry_into_force_date: "2016-02-17"
+jci_1_3: "jci1.3:c:BWBR0037628&z=2016-02-17&g=2016-02-17"
+jci_1_0: "1.0:c:BWBR0037628&g=2016-02-17"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijstelling telecommunicatiemachtiging BES 2016"
+signed_date: "2016-02-12"
+entry_into_force: "2016-02-17"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 februari 2016, nr. WJZ/15182455, houdende de aanwijzing van categorieën radio-elektrische zend- en ontvanginrichtingen waarvoor een machtiging niet is vereist en de aanwijzing van de frequenties waar de aangewezen categorieën zendinrichtingen gebruik van mogen maken (Regeling vrijstelling telecommunicatiemachtiging BES 2016)
 
 Gelet op [artikel 15, tweede lid, onder a, van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15) en de [artikelen 48](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=48) en [67 van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=67);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **radiozendapparaten bestemd voor wegtransport en verkeerstelematica:** radiozendapparatuur die wordt gebruikt op het gebied van vervoer, verkeersbeheer, navigatie, mobiliteitsbeheer en in intelligente vervoerssystemen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Geen machtiging is vereist voor het aanleggen, aanwezig hebben of gebruiken van zend- en ontvanginrichtingen, indien daarbij gebruik wordt gemaakt van de in het tweede lid aangewezen categorieën van inrichtingen.
 
@@ -72,15 +98,15 @@ In deze regeling wordt verstaan onder:
 
 3. De aanwijzing, bedoeld in het tweede lid, heeft alleen betrekking op zend- en ontvanginrichtingen die voldoen aan het bij of krachtens het [Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621) en het [Besluit randapparatuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028396) bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 De [Regeling vrijstelling telecommunicatiemachtiging BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028675) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling vrijstelling telecommunicatiemachtiging BES 2016.
 

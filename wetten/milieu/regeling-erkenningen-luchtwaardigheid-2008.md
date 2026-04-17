@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenningen luchtwaardigheid 2008"
+title: "Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)"
 identifier: "BWBR0024682"
-categorie: "Milieu"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024682"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024682"
+soort: "ministeriele-regeling"
+stam_id: "9762593"
+version_id: "22407822"
+internal_id: "C32153591"
+label_id: "9740004"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024682/2020-10-01/0"
+intitule_bron: "Stcrt.2008-218"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-30"
+intitule_published: "2008-11-10"
+intitule_in_force: "2008-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-11508"
+original_signed_date: "2015-04-24"
+original_published_date: "2015-05-01"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-11508"
+entry_into_force_date: "2015-04-24"
+jci_1_3: "jci1.3:c:BWBR0024682&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0024682&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenningen luchtwaardigheid 2008"
+signed_date: "2015-04-24"
+entry_into_force: "2015-04-24"
 ---
-
 # Regeling houdende regels met betrekking tot onderhoudserkenningen en erkenningen van geluidmeetorganisaties (Regeling erkenningen luchtwaardigheid 2008)
 
 Gelet op [artikel 3.25 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.25) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20, van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ Besluit:
 
 ### Hoofdstuk 2. Europese erkenningen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag voor een erkenning als bedoeld in verordening (EU) nr. 1321/2014 en verordening (EU) nr. 748/2012 wordt ingediend door de functionaris van het bedrijf, die de eindverantwoordelijkheid draagt ten aanzien van het door het bedrijf gevoerde beleid.
 
@@ -60,7 +86,7 @@ Besluit:
 
 - b. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=2&artikel=2&z=2020-10-01&g=2020-10-01) is van toepassing op de aanvraag voor een wijziging van een erkenning, met dien verstande dat kan worden volstaan met de gegevens, die voor de aangevraagde wijziging relevant zijn.
 
@@ -68,121 +94,121 @@ Besluit:
 
 3. Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vanaf het tijdstip van schorsing van een erkenning mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.
 
 2. Om een schorsing op te heffen toont de houder aan, dat de redenen, die tot schorsing hebben geleid, zijn vervallen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Vanaf het tijdstip van intrekking van een erkenning mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.
 
 2. De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.
 
-#### Artikel 6
+##### Artikel 6
 
 De houder van een POA zal de te melden afwijkingen volgens 21 A.165(f)2 van Part 21 bij verordening (EU) nr. 748/2012 schriftelijk en onverwijld maar uiterlijk binnen 72 uur na constatering aan de Minister melden.
 
 ### Hoofdstuk 3. Erkend inspecteur
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
 ### Hoofdstuk 4. Erkend zweefvliegtechnicus (EZT)
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 ### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
 
-#### Artikel 30
+##### Artikel 30
 
 1. De minister geeft een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), af nadat de aanvrager heeft aangetoond:
 
@@ -220,7 +246,7 @@ Vervallen
 
 - c. zijn handboek een door de minister goedgekeurde keuringsmethodiek bevat voor de keuring van RPA’s tot 150 kg.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Bij de aanvraag voor een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), verstrekt de aanvrager de volgende gegevens:
 
@@ -248,15 +274,15 @@ Vervallen
 
 - d. een zelfevaluatie betreffende de aanvrager, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, onder verwijzing naar de passages in het handboek waar dit staat beschreven.
 
-#### Artikel 32
+##### Artikel 32
 
 Van de erkenning wordt een bewijs afgegeven.
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 1. De houder van een erkenning bereidt wijzigingen in het functioneren van de organisatie zodanig voor en voert deze zodanig uit, dat het kwaliteitssysteem van de houder van de erkenning aantoonbaar in stand en effectief blijft.
 
@@ -274,7 +300,7 @@ Vervallen
 
 - f. de faciliteiten, procedures, reikwijdte van werkzaamheden en personeel die de erkenning kunnen beïnvloeden.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Een aanvraag tot wijziging wordt door de minister goedgekeurd nadat is aangetoond, dat het bedrijf ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.
 
@@ -284,13 +310,13 @@ Vervallen
 
 4. Een aanvraag om wijziging wordt uiterlijk vier weken voor de gewenste datum van wijziging ingediend.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.
 
 2. Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Vanaf het tijdstip van intrekking mag de houder die bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.
 
@@ -298,7 +324,7 @@ Vervallen
 
 3. De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het handboek van de aanvrager van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=C&z=2020-10-01&g=2020-10-01).
 
@@ -308,7 +334,7 @@ Vervallen
 
 4. De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de volgende gegevens ten minste gedurende de aangegeven termijn:
 
@@ -324,7 +350,7 @@ Vervallen
 
 4. De houder van een erkenning als bedoeld in [artikel 29a, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), bewaart de verklaring van goedkeuring, de ontwerpgegevens en de technische onderbouwing ten minste tot 2 jaar na het uit dienst nemen van het goedgekeurde ontwerp.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De houder van een erkenning meldt ernstige tekortkomingen die tijdens het productieproces ontstaan, een ernstig defect of een ernstig gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na constatering of het bekend worden ervan, schriftelijk aan de minister.
 
@@ -332,13 +358,13 @@ Vervallen
 
 3. Indien er sprake is van direct gevaar voor het veilig gebruik of de inzittende, meldt de houder van een erkenning de tekortkoming, het ernstig defect of gebrek onmiddellijk aan de minister.
 
-#### Artikel 41
+##### Artikel 41
 
 Indien naar het oordeel van de minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de houder van een erkenning, met inachtneming van de door de minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.
 
 ### Hoofdstuk 6. Erkende geluidsmeetorganisatie
 
-#### Artikel 42
+##### Artikel 42
 
 1. De aanvrager wordt erkend nadat deze naar het oordeel van de minister genoegzaam heeft aangetoond, dat hij:
 
@@ -348,7 +374,7 @@ Indien naar het oordeel van de minister een verbetering van het kwaliteitssystee
 
 2. De aanvraag wordt ingediend door de functionaris van de organisatie, die de eindverantwoordelijkheid draagt ten aanzien van het door de organisatie gevoerde beleid.
 
-#### Artikel 43
+##### Artikel 43
 
 Bij de aanvraag verstrekt de aanvrager de volgende gegevens:
 
@@ -364,15 +390,15 @@ Bij de aanvraag verstrekt de aanvrager de volgende gegevens:
 
 - f. een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in de van toepassing zijnde regelgeving bedoelde eisen voldoet, en waar dit in het handboek staat beschreven.
 
-#### Artikel 44
+##### Artikel 44
 
 Van de erkenning wordt een bewijs afgegeven.
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 1. De houder van een erkenning, niet zijnde een eenmansorganisatie, bereidt wijzigingen in het functioneren van de organisatie zodanig voor en voert deze op zodanige wijze uit, dat het kwaliteitssysteem van de houder van de erkenning aantoonbaar in stand en effectief blijft.
 
@@ -396,7 +422,7 @@ Vervallen
 
 4. De minister kan voorwaarden stellen waaronder de in het derde lid bedoelde wijzigingen worden geaccepteerd.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Een aanvraag tot wijziging, wordt door de minister goedgekeurd, nadat is aangetoond, dat de organisatie ook na de invoering van de wijziging aan de voor de verkrijging van een erkenning gestelde voorwaarden zal blijven voldoen.
 
@@ -408,13 +434,13 @@ Vervallen
 
 5. Een aanvraag om wijziging wordt uiterlijk acht weken voor de gewenste datum van wijziging ingediend.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Vanaf het tijdstip van schorsing mag de houder die bevoegdheden, waarop de schorsing van de erkenning betrekking heeft, niet uitoefenen.
 
 2. Om een schorsing op te heffen wordt aangetoond, dat de omstandigheden, die tot schorsing hebben geleid, zijn opgeheven.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Vanaf het tijdstip van intrekking mag de houder de bevoegdheden, waarop de intrekking van de erkenning betrekking heeft, niet uitoefenen.
 
@@ -422,13 +448,13 @@ Vervallen
 
 3. De minister neemt het bewijs van erkenning in en geeft, in geval van gedeeltelijke intrekking, een nieuw bewijs van erkenning af.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Het handboek van de aanvrager bevat in ieder geval de informatie die is voorgeschreven in de bij deze regeling behorende [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&bijlage=D&z=2020-10-01&g=2020-10-01).
 
 2. De aanvrager zendt wijzigingen in het handboek zo spoedig mogelijk aan de minister.
 
-#### Artikel 51
+##### Artikel 51
 
 De houder van een erkenning bewaart de volgende gegevens ten minste gedurende de aangegeven termijn:
 
@@ -436,7 +462,7 @@ De houder van een erkenning bewaart de volgende gegevens ten minste gedurende de
 
 - b. de administratie betreffende de afgegeven geluidsmeetrapporten: twee jaren na de autorisatie daarvan.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De houder van een erkenning meldt een defect of een gebrek zo spoedig mogelijk, doch in elk geval binnen 72 uur na de ontdekking ervan, schriftelijk aan de minister.
 
@@ -444,13 +470,13 @@ De houder van een erkenning bewaart de volgende gegevens ten minste gedurende de
 
 3. Indien er sprake is van een ernstig defect of gebrek meldt de houder van de erkenning het ernstige defect of het ernstige gebrek onmiddellijk aan de minister.
 
-#### Artikel 53
+##### Artikel 53
 
 Indien naar het oordeel van de minister een verbetering van het kwaliteitssysteem noodzakelijk is, treft de erkende geluidsmeetorganisatie, met inachtneming van de door de minister gegeven aanwijzingen, maatregelen ter verbetering van het kwaliteitssysteem.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 54
+##### Artikel 54
 
 De minister publiceert periodiek de volgende gegevens van de houders van een erkenning:
 
@@ -460,15 +486,15 @@ De minister publiceert periodiek de volgende gegevens van de houders van een erk
 
 - c. omschrijving van de werkzaamheden, waarvoor de houder van een erkenning is erkend.
 
-#### Artikel 55
+##### Artikel 55
 
 De [Regeling erkenningen luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012877) en de [Regeling JAR-147 opleidingsinstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0012920) worden ingetrokken.
 
-#### Artikel 56
+##### Artikel 56
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 57
+##### Artikel 57
 
 Deze regeling wordt aangehaald als: Regeling erkenningen luchtwaardigheid 2008.
 
@@ -646,7 +672,7 @@ De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare document
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De minister kan op aanvraag de houder van een door de minister afgegeven CAMO-erkenning aanvullend erkennen voor het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL dan wel een export-BvL voor een, in Nederland geregistreerd, luchtvaartuig als bedoeld in artikel 2, eerste lid, onderdeel b, onder i, van de basisverordening en de daarbij behorende verklaringen.
 
@@ -664,7 +690,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 5. Bedrijfserkenningen op basis van Nederlandse eisen
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. De minister kan op aanvraag aan een bedrijf de volgende erkenningen afgeven:
 
@@ -684,7 +710,7 @@ De erkenning voor de activiteiten, bedoeld onder a tot en met c, is slechts moge
 
 - b. het uitvoeren van een acceptatiekeuring ten behoeve van de afgifte van een EASA-standaard-BvL, een EASA-beperkt-BvL, een ICAO-standaard-BvL dan wel een export-BvL en de daarbij behorende verklaringen.
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. De minister kan de bevoegdheid tot het uitvoeren van BvL-verlengingsinspecties of acceptatiekeuringen als bedoeld in [artikel 29a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024682&hoofdstuk=5&artikel=29a&z=2020-10-01&g=2020-10-01), intrekken, indien:
 
@@ -772,7 +798,7 @@ De aanvrager beschikt over een systeem dat waarborgt dat de beschikbare document
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling is gebaseerd op [artikel 1.5 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en de [artikelen 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=18), [19, tweede lid, onderdelen c en g](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=19), en [20 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=20).
 

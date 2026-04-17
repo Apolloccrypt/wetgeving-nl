@@ -1,13 +1,39 @@
 ---
-title: "Aanvullingsbesluit geluid Omgevingswet"
+title: "Besluit van 9 december 2020 tot wijziging van het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Invoeringsbesluit Omgevingswet en enkele andere besluiten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsbesluit geluid Omgevingswet)"
 identifier: "BWBR0044679"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044679"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044679"
+soort: "AMvB"
+stam_id: "15803893"
+version_id: "27404162"
+internal_id: "C42379361"
+label_id: "15741414"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044679/2024-01-01/0"
+intitule_bron: "Stb.2020-557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-09"
+intitule_published: "2020-12-28"
+intitule_in_force: "2023-04-07"
+intitule_status: "goed"
+original_publication: "Stb.2020-557"
+original_signed_date: "2020-12-09"
+original_published_date: "2020-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-557"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0044679&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0044679&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingsbesluit geluid Omgevingswet"
+signed_date: "2020-12-09"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 9 december 2020 tot wijziging van het Besluit kwaliteit leefomgeving, het Omgevingsbesluit, het Besluit activiteiten leefomgeving, het Besluit bouwwerken leefomgeving, het Invoeringsbesluit Omgevingswet en enkele andere besluiten met het oog op de beheersing van geluid afkomstig van wegen, spoorwegen en industrieterreinen (Aanvullingsbesluit geluid Omgevingswet)
 
 Op de voordracht van Onze Minister voor Milieu en Wonen van 3 april 2020, nr. IENW/BSK-2020/60060, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -22,29 +48,29 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Wijzigingen in de uitvoeringsregelgeving van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
-#### Artikel I. [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313)
+##### Artikel I. [Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313)
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel II. [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
+##### Artikel II. [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel III. [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
+##### Artikel III. [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel IV. [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
+##### Artikel IV. [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel V. [Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923)
+##### Artikel V. [Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923)
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
 ### Hoofdstuk 2. Wijziging en intrekking andere regelgeving
 
-#### Artikel VI. (Intrekking besluiten)
+##### Artikel VI. (Intrekking besluiten)
 
 De volgende besluiten worden ingetrokken:
 
@@ -56,11 +82,11 @@ De volgende besluiten worden ingetrokken:
 
 - d. [Besluit vaststelling geluidszone Tweede Maasvlakte](https://wetten.overheid.nl/jci1.3:c:BWBR0023850).
 
-#### Artikel VII. [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826)
+##### Artikel VII. [Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826)
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer.
 
-#### Artikel VIII. [Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627)
+##### Artikel VIII. [Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](https://wetten.overheid.nl/jci1.3:c:BWBR0017627)
 
 Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
 
@@ -68,13 +94,13 @@ Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
 
 ### Afdeling 3.1. Overgangsrecht [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227)
 
-#### Artikel IX. (Hogere-waardebesluiten)
+##### Artikel IX. (Hogere-waardebesluiten)
 
 Een onherroepelijk besluit tot het vaststellen van een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting als bedoeld in [artikel 110a van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=110a) geldt als deel van het omgevingsplan als bedoeld in [artikel 4.6, eerste lid, van de Invoeringswet Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043660&artikel=4.6).
 
 ### Afdeling 3.2. Overgangsrecht [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245)
 
-#### Artikel X. (Werking en naleving geluidproductieplafonds)
+##### Artikel X. (Werking en naleving geluidproductieplafonds)
 
 1. Als een besluit waarbij toepassing is gegeven aan [artikel 3.46, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.46) gelden:
 
@@ -102,7 +128,7 @@ Een onherroepelijk besluit tot het vaststellen van een hogere waarde voor de ten
 
 ### Afdeling 3.3. Overgangsrecht sanering
 
-#### Artikel XI. (Bekostiging sanering ten laste rijk)
+##### Artikel XI. (Bekostiging sanering ten laste rijk)
 
 1. De kosten van het treffen van geluidbeperkende en geluidwerende maatregelen komen ten laste van het Rijk, voor zover:
 
@@ -126,17 +152,17 @@ Een onherroepelijk besluit tot het vaststellen van een hogere waarde voor de ten
 
 3. Op de bekostiging door het Rijk van het treffen van maatregelen als bedoeld in het eerste en tweede lid, zijn de bij ministeriële regeling gestelde regels van toepassing.
 
-#### Artikel XII. (Aanwijzing saneringsprojecten)
+##### Artikel XII. (Aanwijzing saneringsprojecten)
 
 De saneringsprojecten, bedoeld in [artikel 3.4, eerste lid, aanhef en onder b, van de Aanvullingswet geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043247&artikel=3.4), zijn de projecten waarvoor op het tijdstip van inwerkingtreding van dit artikel een subsidie is verleend als bedoeld in [artikel 7, eerste lid, van de Subsidieregeling sanering verkeerslawaai](https://wetten.overheid.nl/jci1.3:c:BWBR0020731&artikel=7).
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel XIII. Inwerkingtreding
+##### Artikel XIII. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XIV. Citeertitel
+##### Artikel XIV. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanvullingsbesluit geluid Omgevingswet.
 

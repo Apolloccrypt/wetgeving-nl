@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de kwaliteitsbeoordelingen"
 identifier: "BWBR0039808"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039808"
+country: "nl"
+rank: "pbo"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039808"
+soort: "pbo"
+stam_id: "14075833"
+version_id: "24237192"
+internal_id: "C34812571"
+label_id: "14037094"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039808/2023-07-01/0"
+intitule_bron: "Stcrt.2017-40917"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-19"
+intitule_in_force: "2017-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-40917"
+original_published_date: "2017-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-40917"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0039808&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0039808&g=2023-07-01"
+citeertitel_status: "officieel"
+entry_into_force: "2018-01-01"
 ---
-
 # Verordening op de kwaliteitsbeoordelingen
 
 Gelet op [artikel 19, eerste lid, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -20,7 +42,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -66,13 +88,13 @@ In deze verordening wordt verstaan onder:
 
 - **toetsing:** beoordeling van de opzet en werking van het kwaliteitssysteem van een accountantseenheid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bestuur verleent de Raad voor Toezicht, ingesteld bij de Verordening op de Raad voor Toezicht, mandaat, volmacht en machtiging voor de uitoefening van de bevoegdheden genoemd in deze verordening.
 
 2. Het bestuur bepaalt dat de Raad voor Toezicht ondermandaat van de bevoegdheid, bedoeld in het eerste lid, kan verlenen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur beoordeelt de kwaliteit van de beroepsuitoefening van een accountant.
 
@@ -88,7 +110,7 @@ In deze verordening wordt verstaan onder:
 
 5. Het bestuur betrekt in een beoordeling als bedoeld in het tweede lid, niet de uitvoering van een wettelijke controle als bedoeld in [artikel 1, eerste lid, onderdeel p van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het bestuur vraagt jaarlijks aan de accountantseenheid door middel van een monitoringvragenlijst informatie om inzicht te krijgen in de accountantseenheid.
 
@@ -102,7 +124,7 @@ In deze verordening wordt verstaan onder:
 
 4. Indien een accountantseenheid lid is van of aangesloten is bij een geaccrediteerde koepelorganisatie kan informatie die in het kader van dit artikel is verkregen worden gedeeld met de koepelorganisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De accountant verleent medewerking aan een beoordeling van de kwaliteit van de beroepsuitoefening als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=3&z=2023-07-01&g=2023-07-01) en een onderzoek als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01).
 
@@ -114,7 +136,7 @@ In deze verordening wordt verstaan onder:
 
 - b. verschaft de accountant alle inlichtingen die worden verlangd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur wijst:
 
@@ -128,7 +150,7 @@ In deze verordening wordt verstaan onder:
 
 2. Het bestuur is belast met de opleiding van de toetsers.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur kan de bevindingen naar aanleiding van een beoordeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=3&z=2023-07-01&g=2023-07-01) en een onderzoek als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01), in de vorm van een klacht ter kennis van de accountantskamer brengen indien daarbij feiten of omstandigheden geconstateerd worden die grond kunnen opleveren tot het opleggen van een tuchtrechtelijke maatregel, althans tot gegrondverklaring van de klacht.
 
@@ -136,17 +158,17 @@ In deze verordening wordt verstaan onder:
 
 ### Hoofdstuk 2. Toetsingen en hertoetsingen
 
-#### Artikel 8
+##### Artikel 8
 
 Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerking komen voor een toetsing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De toetsing en hertoetsing worden uitgevoerd aan de hand van door het bestuur vastgestelde toetsingsprogramma's.
 
 2. Het bestuur maakt de toetsingsprogramma's bekend aan de leden van de beroepsorganisatie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor elke toetsing of hertoetsing selecteert het bestuur:
 
@@ -160,7 +182,7 @@ Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerki
 
 - b. feiten of omstandigheden die de objectiviteit van de toetsers kunnen aantasten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bestuur stelt de datum vast waarop de toetsing of hertoetsing plaatsvindt en maakt deze ten minste zes weken van tevoren bekend aan de te toetsen accountantseenheid.
 
@@ -182,7 +204,7 @@ Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerki
 
 - b. de schijn wordt gewekt dat de objectiviteit van een bij de toetsing of hertoetsing betrokken toetser aangetast kan worden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een toetsing of hertoetsing wordt afgerond met een eindoordeel.
 
@@ -202,7 +224,7 @@ Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerki
 
 4. In het geval een eindoordeel als bedoeld in het tweede lid, onderdeel b, uitsluitend is gebaseerd op het oordeel over de uitvoering van assurance-opdrachten door de accountantseenheid, dan wordt dit vermeld in het eindoordeel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Na afloop van de toetsing of hertoetsing bespreekt de toetser of het toetsingsteam op hoofdlijnen zijn bevindingen en zijn voorgenomen advies voor een eindoordeel met de accountantseenheid.
 
@@ -236,11 +258,11 @@ Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerki
 
 - c. de toetser of het toetsingsteam het definitieve toetsingsverslag verzendt aan het bestuur en de accountantseenheid.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meningsverschil voordoet tussen de aan toetsing onderworpen accountantseenheid en de toetser of het toetsingsteam, doet het bestuur op verzoek van de accountantseenheid dan wel op verzoek van de toetser of het toetsingsteam, een bindende uitspraak.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het bestuur stelt het eindoordeel, zo nodig voorzien van aanwijzingen, vast op basis van:
 
@@ -258,7 +280,7 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 5. Het bestuur kan de termijn, bedoeld in het voorgaande lid, verlengen en deelt dit mee aan de accountantseenheid.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In geval een eindoordeel luidt als bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=12&z=2023-07-01&g=2023-07-01), is de accountantseenheid verplicht:
 
@@ -288,7 +310,7 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 6. Het beoordelen en verlenen van goedkeuring van het verbeterplan schort de uitvoeringstermijn, bedoeld in het eerste lid onderdeel b, niet op.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het bestuur verricht een hertoetsing na een eindoordeel als bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=12&z=2023-07-01&g=2023-07-01).
 
@@ -296,7 +318,7 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 3. Onverminderd [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=3&z=2023-07-01&g=2023-07-01), toetst het bestuur bij een hertoetsing of de accountantseenheid in voldoende mate opvolging heeft gegeven aan het verbeterplan.
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 16, derde lid onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=16&z=2023-07-01&g=2023-07-01) en [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=17&z=2023-07-01&g=2023-07-01) worden niet toegepast indien een eindoordeel dat het kwaliteitssysteem verbetering behoeft als bedoeld in [artikel 12, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=12&z=2023-07-01&g=2023-07-01),
 
@@ -306,7 +328,7 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 ### Hoofdstuk 3. Thematisch onderzoek, nader onderzoek, incidentenonderzoek en onderzoek naar niet-naleving beroepsnormen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bestuur bepaalt voorafgaand aan het verrichten van een thematisch onderzoek als bedoeld in [artikel 4b, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01), in elk geval:
 
@@ -328,19 +350,19 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 5. In de mededeling worden uitsluitend geanonimiseerde gegevens opgenomen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het bestuur bepaalt op basis van risico-indicatoren welke accountantseenheden aan een nader onderzoek als bedoeld in [artikel 4b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01), worden onderworpen.
 
 2. Het bestuur bepaalt de wijze en vorm waarin het nader onderzoek plaatsvindt.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het bestuur verricht een incidentenonderzoek als bedoeld in [artikel 4b, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01), naar aanleiding van een redelijk vermoeden van een incident.
 
 2. Het bestuur bepaalt de wijze waarop en de vorm waarin het incidentenonderzoek plaatsvindt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bestuur verricht een onderzoek naar het niet-naleven van de beroepsnormen als bedoeld in [artikel 4b, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=4b&z=2023-07-01&g=2023-07-01), naar aanleiding van een redelijk vermoeden van het niet-naleven van de beroepsnormen die voor accountantseenheden gelden, door of bij een accountantseenheid.
 
@@ -348,17 +370,17 @@ Indien zich over de wijze van uitvoering van de toetsing of hertoetsing een meni
 
 ### Hoofdstuk 4. Informatie-uitwisseling
 
-#### Artikel 23
+##### Artikel 23
 
 Indien een accountantspraktijk beschikt over een vergunning als bedoeld in [artikel 6 van de Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=6) dan kan het bestuur de AFM informeren over het eindoordeel, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=2&artikel=12&z=2023-07-01&g=2023-07-01), dat het bestuur over die accountantspraktijk neemt.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### Hoofdstuk 5. Vrijstellingen en accreditatie
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het bestuur kan op schriftelijk en gemotiveerd verzoek van de accountantseenheid besluiten vrijstelling te verlenen van:
 
@@ -368,7 +390,7 @@ Vervallen
 
 2. Het bestuur kan op schriftelijk en gemotiveerd verzoek van de accountantseenheid eenmalig besluiten tot verlenging van de vrijstelling, bedoeld in het eerste lid onder a.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een verzoek tot vrijstelling of een verzoek tot verlenging van de vrijstelling wordt eerst in behandeling genomen nadat het hiervoor vastgestelde tarief door de desbetreffende accountantseenheid is voldaan.
 
@@ -390,7 +412,7 @@ Vervallen
 
 5. Het bestuur kan de in het vierde lid genoemde termijn verlengen met maximaal zes weken.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een koepelorganisatie kan het bestuur schriftelijk verzoeken haar systeem van kwaliteitsborging te accrediteren.
 
@@ -434,13 +456,13 @@ Vervallen
 
 12. Het bestuur bericht de koepelorganisatie welke gevolgen de wijzigingen hebben voor de accreditatie.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het bestuur brengt de kosten van de behandeling van een verzoek tot accreditatie, waaronder mede wordt begrepen de toetsing van de opzet en werking van het systeem van kwaliteitsborging, in rekening bij de koepelorganisatie die om accreditatie verzoekt.
 
 2. De kosten van de behandeling van een verzoek tot accreditatie als bedoeld in het vorige lid, zijn bepaald in de Verordening op de kosten kwaliteitsbeoordelingen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Accountantseenheden die lid zijn van of aangesloten zijn bij een koepelorganisatie waaraan een accreditatie is verleend, zijn voor de duur van deze accreditatie vrijgesteld van toetsing door het bestuur.
 
@@ -460,27 +482,27 @@ Vervallen
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Van vertrouwelijke gegevens in het kader van de toetsing verkregen, kan geen verder of ander gebruik worden gemaakt dan krachtens deze verordening is bepaald, tenzij bij wet anders is bepaald.
 
-#### Artikel 31
+##### Artikel 31
 
 In situaties die procedureel van aard zijn en waarin deze verordening niet voorziet, beslist het bestuur.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 De [Verordening op de kwaliteitsbeoordelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0033786) (Staatscourant 2013, 23899) wordt ingetrokken.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Deze verordening treedt in werking op 1 januari 2018.
 
 2. Deze verordening wordt aangehaald als: Verordening op de kwaliteitsbeoordelingen.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
@@ -488,11 +510,11 @@ Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 3a
+##### Artikel 3a
 
 Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerking komen voor een ontwikkelingsgesprek.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het bestuur kan een risicoanalyse uitvoeren.
 
@@ -506,7 +528,7 @@ Het bestuur stelt vast welke accountantseenheden in een bepaald jaar in aanmerki
 
 - d. beslissingen van de Raad voor Geschillen.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Het bestuur kan besluiten om, onverminderd het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039808&hoofdstuk=1&artikel=3&z=2023-07-01&g=2023-07-01), de volgende onderzoeken te verrichten:
 
@@ -520,7 +542,7 @@ Het bestuur kan besluiten om, onverminderd het bepaalde in [artikel 3](https://w
 
 ### Hoofdstuk 2. Toetsingen en hertoetsingen
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Een toetser of een toetsingsteam kan aan het bestuur voorstellen een voortgezette toetsing uit te voeren.
 
@@ -550,7 +572,7 @@ Het bestuur kan besluiten om, onverminderd het bepaalde in [artikel 3](https://w
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. Zesjaarscycli als bedoeld in artikel 3, tweede lid, van de Verordening op de kwaliteitsbeoordelingen (Staatscourant 2021, 50107) die gelden op het tijdstip van inwerkingtreding van deze verordening die zijn aangevangen voor de inwerkingtreding van deze verordening worden geacht door te lopen na inwerkingtreding van deze verordening.
 

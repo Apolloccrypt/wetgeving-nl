@@ -1,20 +1,46 @@
 ---
-title: "Regeling eisen praktijkexamens rijbewijscategorie AM"
+title: "Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling eisen praktijkexamens rijbewijscategorie AM (Regeling praktijkexamens rijbewijscategorie AM)"
 identifier: "BWBR0027266"
-categorie: "Verkeer"
-publicatiedatum: 2010-03-01
-laatste_update: 2010-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027266"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-03-01"
+last_updated: "2010-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027266"
+soort: "ministeriele-regeling"
+stam_id: "10431393"
+version_id: "17156962"
+internal_id: "C23670741"
+label_id: "10406714"
+dtd_version: "2.0"
+original_entry_into_force: "2010-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027266/2010-03-01/0"
+intitule_bron: "Stcrt.2010-2506"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-02-02"
+intitule_published: "2010-02-19"
+intitule_in_force: "2010-02-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-2506"
+original_signed_date: "2010-02-02"
+original_published_date: "2010-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-2506"
+entry_into_force_date: "2010-03-01"
+jci_1_3: "jci1.3:c:BWBR0027266&z=2010-03-01&g=2010-03-01"
+jci_1_0: "1.0:c:BWBR0027266&g=2010-03-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen praktijkexamens rijbewijscategorie AM"
+signed_date: "2010-02-02"
+entry_into_force: "2010-03-01"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling eisen praktijkexamens rijbewijscategorie AM (Regeling praktijkexamens rijbewijscategorie AM)
 
 Gelet op [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het praktijkexamen voor de categorie AM, bromfietsen op drie of vier wielen, dient er tijdens het praktijkexamen blijk van te geven een selectie van de hierna genoemde vaardigheden te beheersen:
 
@@ -36,7 +62,7 @@ De aanvrager van het praktijkexamen voor de categorie AM, bromfietsen op drie of
 
 - h. het op juiste wijze keren van het voertuig door middel van steken op een niet te brede (denkbeeldige) weg.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvrager van het praktijkexamen voor de categorie AM, bromfietsen op twee wielen, moet in staat zijn een selectie van de hierna genoemde handelingen uit te voeren bij de aanvang van dat examen:
 
@@ -82,7 +108,7 @@ De aanvrager van het praktijkexamen voor de categorie AM, bromfietsen op drie of
 
 - j. controle van de claxon.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tijdens het praktijkexamen voor de categorie AM, bromfietsen op twee wielen, dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze:
 
@@ -132,7 +158,7 @@ De aanvrager van het praktijkexamen voor de categorie AM, bromfietsen op drie of
 
 - j. het rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvrager van het praktijkexamen dient bij het uitvoeren van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027266&artikel=3&z=2010-03-01&g=2010-03-01) genoemde examenonderdelen blijk te geven:
 
@@ -154,15 +180,15 @@ De aanvrager van het praktijkexamen dient bij het uitvoeren van de in [artikel 3
 
 - i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.
 
-#### Artikel 5
+##### Artikel 5
 
 Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangemerkt aan welke exameneisen de aanvrager niet heeft voldaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 maart 2010.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorie AM.
 

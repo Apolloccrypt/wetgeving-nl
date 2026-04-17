@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering opiumwet, softdrugs"
 identifier: "BWBR0048567"
-categorie: "Strafrecht"
-publicatiedatum: 2023-09-01
-laatste_update: 2023-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048567"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-09-01"
+last_updated: "2023-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048567"
+soort: "beleidsregel"
+stam_id: "16841663"
+version_id: "29590762"
+internal_id: "C42323481"
+label_id: "16754154"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048567/2023-09-01/0"
+intitule_bron: "Stcrt.2023-22686"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-08-28"
+intitule_in_force: "2023-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-22686"
+original_published_date: "2023-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-22686"
+entry_into_force_date: "2023-09-01"
+jci_1_3: "jci1.3:c:BWBR0048567&z=2023-09-01&g=2023-09-01"
+jci_1_0: "1.0:c:BWBR0048567&g=2023-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-09-01"
 ---
-
 # Richtlijn voor strafvordering opiumwet, softdrugs
 
 ### Beschrijving

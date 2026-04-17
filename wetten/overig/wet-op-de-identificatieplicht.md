@@ -1,14 +1,38 @@
 ---
-title: "Wet op de identificatieplicht"
+title: "Wet van 9 december 1993, tot aanwijzing van documenten dienende ter vaststelling van de identiteit van personen alsmede aanwijzing van enige gevallen waarin de identiteit van personen aan de hand van deze documenten kan worden vastgesteld"
 identifier: "BWBR0006297"
-categorie: "Overig"
-publicatiedatum: 2017-03-01
-laatste_update: 2017-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006297"
+country: "nl"
+rank: "wet"
+publication_date: "2017-03-01"
+last_updated: "2017-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006297"
+soort: "wet"
+stam_id: "2090413"
+version_id: "3139832"
+internal_id: "C31147841"
+label_id: "2038524"
+dtd_version: "2.0"
+original_entry_into_force: "1994-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006297/2017-03-01/0"
+intitule_bron: "Stb.1993-660"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-12-09"
+intitule_in_force: "1994-03-24"
+intitule_status: "goed"
+original_publication: "Stb.1993-660"
+original_signed_date: "1993-12-09"
+original_effect: "nieuwe-regeling"
+original_dossier: "22694"
+entry_into_force_date: "1994-06-01"
+jci_1_3: "jci1.3:c:BWBR0006297&z=2017-03-01&g=2017-03-01"
+jci_1_0: "1.0:c:BWBR0006297&g=2017-03-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de identificatieplicht"
+signed_date: "1993-12-09"
+entry_into_force: "1994-06-01"
 ---
-
-# Wet op de identificatieplicht
+# Wet van 9 december 1993, tot aanwijzing van documenten dienende ter vaststelling van de identiteit van personen alsmede aanwijzing van enige gevallen waarin de identiteit van personen aan de hand van deze documenten kan worden vastgesteld
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Aanwijzing van documenten
 
-#### Artikel 1
+##### Artikel 1
 
 1. Als documenten waarmee in bij de wet aangewezen gevallen de identiteit van personen kan worden vastgesteld, worden aangewezen:
 
@@ -34,133 +58,133 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk II. Toonplicht
 
-#### Artikel 2
+##### Artikel 2
 
 Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de eerste vordering van een ambtenaar als bedoeld in [artikel 8 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=8) of [artikel 6a van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6a), een identiteitsbewijs als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006297&hoofdstuk=I&artikel=1&z=2017-03-01&g=2017-03-01) ter inzage aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan door een toezichthouder.
 
 ### Hoofdstuk III. Wijziging van de Organisatiewet Sociale Verzekering
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 ### Hoofdstuk IV. Wijziging van de Wet op de Sociale Verzekeringsbank
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk V. Wijziging van de [Algemene Bijstandswet](onbekend)
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 ### Hoofdstuk VI. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](onbekend)
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Hoofdstuk VII. Wijziging van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](onbekend)
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk VIII. Wijziging van de [Arbeidsvoorzieningswet](onbekend)
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 ### Hoofdstuk IX. Wijziging van de [Algemene Ouderdomswet](onbekend)
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 ### Hoofdstuk X. Wijziging van de [Algemene Weduwen- en Wezenwet](onbekend)
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### Hoofdstuk XI. Wijziging van de [Algemene Nabestaandenwet](onbekend)
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### Hoofdstuk XII. Wijziging van de [Algemene Kinderbijslagwet](onbekend)
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 ### Hoofdstuk XIII. Wijziging van de Wet arbeid buitenlandse werknemers
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ### Hoofdstuk XIV. Wijziging van de [Wet op de loonbelasting 1964](onbekend)
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ### Hoofdstuk XV. Wijziging van de [Algemene wet inzake rijksbelastingen](onbekend)
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### Hoofdstuk XVI. Wijziging van de [Wet inzake spaarbewijzen](onbekend)
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### Hoofdstuk XVII. Wijziging van de Wet identiteitsvaststelling bij financiële dienstverlening
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
 ### Hoofdstuk XVIII. Wijziging van de [Wet op de economische delicten](onbekend)
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ### Hoofdstuk XIX. Wijziging van de [Vreemdelingenwet](onbekend)
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 ### Hoofdstuk XX. Wijziging van de [Wet op het Notarisambt](onbekend)
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Hoofdstuk XXI. Wijziging van de [Wet personenvervoer](onbekend)
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk XXII. Wijziging van de [Wet persoonsregistraties](onbekend)
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### Hoofdstuk XXIII. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Artikel 50**b**, derde lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd, is uitsluitend van toepassing ten aanzien van verzekerden die hun werkzaamheden zijn aangevangen of die loon zijn gaan genieten op of na het tijdstip van inwerkingtreding van deze wet.
 
@@ -168,11 +192,11 @@ Vervallen
 
 3. De verplichting bedoeld in het tweede lid geldt als een verplichting van de verzekerde als bedoeld in artikel 50**c**, tweede lid, van de Organisatiewet Sociale Verzekering, zoals dat artikel bij deze wet is gewijzigd.
 
-#### Artikel 24
+##### Artikel 24
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet kan worden aangehaald als "Wet op de identificatieplicht".
 

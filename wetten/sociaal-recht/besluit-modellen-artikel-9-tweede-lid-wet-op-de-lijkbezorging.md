@@ -1,13 +1,39 @@
 ---
-title: "Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging"
+title: "Besluit van 6 maart 2002, houdende vaststelling van de formulieren, bedoeld in artikel 9, tweede lid, van de Wet op de lijkbezorging betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek"
 identifier: "BWBR0013489"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-07-01
-laatste_update: 2009-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013489"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-07-01"
+last_updated: "2009-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013489"
+soort: "AMvB"
+stam_id: "1693143"
+version_id: "16409882"
+internal_id: "C22557621"
+label_id: "1646304"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013489/2016-07-01/0"
+intitule_bron: "Stb.2002-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-06"
+intitule_published: "2002-03-19"
+intitule_in_force: "2002-03-26"
+intitule_status: "goed"
+original_publication: "Stb.2009-204"
+original_signed_date: "2009-04-16"
+original_published_date: "2009-05-14"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-204"
+entry_into_force_date: "2009-04-16"
+jci_1_3: "jci1.3:c:BWBR0013489&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0013489&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging"
+signed_date: "2009-04-16"
+entry_into_force: "2009-04-16"
 ---
-
 # Besluit van 6 maart 2002, houdende vaststelling van de formulieren, bedoeld in artikel 9, tweede lid, van de Wet op de lijkbezorging betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek
 
 Op de voordracht van Onze Minister van Justitie van 13 november 2001, nummer 5133202/01/6, gedaan mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking als de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 Het model-formulier van de mededeling van de behandelende arts aan de gemeentelijk lijkschouwer betreffende het overlijden ten gevolge van levensbeëindiging op verzoek of hulp bij zelfdoding, bedoeld in [artikel 7, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7), luidt als volgt:
 
@@ -58,7 +84,7 @@ Krachtens [artikel 6, tweede lid, van de Wet op de lijkbezorging](https://wetten
 
 * doorhalen hetgeen niet van toepassing is
 
-#### Artikel 2
+##### Artikel 2
 
 Het model-formulier van de mededeling van de behandelende arts aan de gemeentelijke lijkschouwer betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak niet zijnde levensbeëindiging op verzoek of hulp bij zelfdoding, bedoeld in [artikel 7, derde lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=7), luidt als volgt:
 
@@ -94,7 +120,7 @@ Krachtens [artikel 6, tweede lid, van de Wet op de lijkbezorging](https://wetten
 
 * doorhalen hetgeen niet van toepassing is
 
-#### Artikel 3
+##### Artikel 3
 
 Het model-formulier van het verslag van de gemeentelijke lijkschouwer aan de officier van justitie, bedoeld in [artikel 10 van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=10), betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek, luidt als volgt:
 
@@ -132,7 +158,7 @@ Krachtens [artikel 6, eerste lid, van de Wet op de lijkbezorging](https://wetten
 
 * Doorhalen hetgeen niet van toepassing is
 
-#### Artikel 4
+##### Artikel 4
 
 Het model-formulier van het verslag van de gemeentelijke lijkschouwer aan de regionale toetsingscommissie, bedoeld in [artikel 10, tweede lid, van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=10), betreffende het overlijden ten gevolge van de toepassing door een arts van levensbeëindiging op verzoek of het verlenen van hulp bij zelfdoding, luidt als volgt:
 
@@ -176,15 +202,15 @@ Krachtens [artikel 6, eerste lid, van de Wet op de lijkbezorging](https://wetten
 
 * Doorhalen hetgeen niet van toepassing is
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Besluit op de lijkbezorging.
 
-#### Artikel 6
+##### Artikel 6
 
 Het besluit van 19 november 1997, Stb. 550, houdende vaststelling van de formulieren als bedoeld in artikel 10 van de Wet op de lijkbezorging betreffende het overlijden ten gevolge van een niet-natuurlijke oorzaak, niet zijnde levensbeëindiging zonder uitdrukkelijk verzoek, wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410)“Wet levensbeëindiging” moet zijn “Wet toetsing levensbeëindiging”in werking treedt.
 
@@ -368,11 +394,11 @@ Naam:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Voor een beredeneerd verslag inzake de inachtneming van de zorgvuldigheidseisen, bedoeld in [artikel 2 van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=2), wordt het model in de bijlage bij dit besluit gevolgd.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit modellen artikel 9, tweede lid, Wet op de lijkbezorging.
 

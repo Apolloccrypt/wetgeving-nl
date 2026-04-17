@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regering van de Verenigde Staten van Amerika en de Vier Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de vestiging, bouw en exploitatie van installaties voor de verrijking van uranium met gebruikmaking van gas-ultracentrifugetechnologie in de Verenigde Staten van Amerika"
 identifier: "BWBV0005279"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-01-31
-laatste_update: 2012-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005279"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-01-31"
+last_updated: "2012-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005279"
+soort: "verdrag"
+stam_id: "10004548773"
+version_id: "10004770702"
+internal_id: "C10007766581"
+label_id: "10004533394"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005279/2012-01-31/0"
+intitule_bron: "Trb.2011-83"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-05-10"
+intitule_in_force: "2012-03-20"
+intitule_status: "goed"
+original_publication: "Trb.2011-83"
+original_published_date: "2011-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-83"
+entry_into_force_date: "2012-01-31"
+jci_1_3: "jci1.3:c:BWBV0005279&z=2012-01-31&g=2012-01-31"
+jci_1_0: "1.0:c:BWBV0005279&g=2012-01-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-01-31"
 ---
-
 # Overeenkomst tussen de Regering van de Verenigde Staten van Amerika en de Vier Regeringen van de Franse Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de vestiging, bouw en exploitatie van installaties voor de verrijking van uranium met gebruikmaking van gas-ultracentrifugetechnologie in de Verenigde Staten van Amerika
 
 De Regering van de Verenigde Staten van Amerika (hierna te noemen „de Regering van de Verenigde Staten”) en de Vier Regeringen van de Franse Republiek (hierna te noemen „de Franse Regering”), het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen „de Britse Regering”), het Koninkrijk der Nederlanden (hierna te noemen „de Nederlandse Regering”) en de Bondsrepubliek Duitsland (hierna te noemen „de Duitse Regering”) (hierna gezamenlijk te noemen „de Partijen”),
@@ -38,7 +60,7 @@ Voornemens te waarborgen dat alle toekomstige activiteiten van Installaties in d
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de doeleinden van deze Overeenkomst wordt, tenzij daarin anders wordt bepaald, verstaan onder:
 
@@ -80,7 +102,7 @@ Voor de doeleinden van deze Overeenkomst wordt, tenzij daarin anders wordt bepaa
 
 - s. „URENCO”, de krachtens het [Verdrag van Almelo](https://wetten.overheid.nl/jci1.3:c:BWBV0004423) opgerichte gezamenlijke industriële onderneming, met inbegrip van met haar gelieerde ondernemingen, dochterondernemingen en de mogelijke rechtsopvolgers van elk van hen, evenwel met uitzondering van ETC.
 
-#### Artikel II. Werkingssfeer
+##### Artikel II. Werkingssfeer
 
 1. In deze Overeenkomst worden de voorwaarden uiteengezet waaronder:
 
@@ -100,11 +122,11 @@ Voor de doeleinden van deze Overeenkomst wordt, tenzij daarin anders wordt bepaa
 
 5. Deze Overeenkomst is niet van toepassing op de uranium verrijkingsfaciliteit in Eunice, New Mexico, die eigendom is van URENCO, en niets in deze Overeenkomst vormt een beletsel voor de uitvoering van het [Verdrag van Washington](https://wetten.overheid.nl/jci1.3:c:BWBV0001092) tussen de partijen bij dat Verdrag, wanneer zij in het kader van dat Verdrag handelen.
 
-#### Artikel III. Vreedzaam gebruik
+##### Artikel III. Vreedzaam gebruik
 
 Alle ultracentrifugetechnologie van ETC, operationele technologie, uitrusting en onderdelen die uit hoofde van deze Overeenkomst aan de Verenigde Staten worden overgedragen, elke Installatie, al het nucleaire materiaal in een Installatie, alle bijzondere splijtstoffen die worden voortgebracht door het gebruik van deze technologie, alle bijzondere splijtstoffen die worden voortgebracht door het gebruik van die bijzondere splijtstoffen en alle in een Installatie gegenereerde gegevens die als vertrouwelijk worden aangemerkt zolang deze vallen onder de rechtsmacht van de Regering van de Verenigde Staten of die van de Vier Regeringen, worden uitsluitend gebruikt voor vreedzame, niet-explosieve doeleinden.
 
-#### Artikel IV. Toepassing van internationale waarborgen
+##### Artikel IV. Toepassing van internationale waarborgen
 
 1. Nucleair materiaal waarop de verbintenis tot vreedzaam gebruik in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=III&z=2012-01-31&g=2012-01-31) van toepassing is en dat zich op het grondgebied van de Verenigde Staten bevindt, is onderworpen aan de toepassing van internationale waarborgen. In dit verband wordt met de toepassing van de Overeenkomst tussen de Verenigde Staten van Amerika en de IAEA voor de toepassing van waarborgen in de Verenigde Staten, gedaan te Wenen op 18 november 1977 (INFCIRC/288) (hierna de „VS-IAEA Waarborgen Overeenkomst”), geacht aan dit vereiste te zijn voldaan.
 
@@ -112,11 +134,11 @@ Alle ultracentrifugetechnologie van ETC, operationele technologie, uitrusting en
 
 3. De Vier Regeringen en de Regering van de Verenigde Staten zijn van mening dat de Installaties onder waarborgen van de IAEA moeten worden gesteld en blijven die gelijkwaardig zijn aan de waarborgen die worden gehanteerd voor commerciële gas-ultracentrifuge-installaties voor de verrijking van uranium onder de rechtsmacht van de Vier Regeringen, voor zover in overeenstemming met de toepassing van de waarborgen in de Verenigde Staten onder de VS-IAEA Waarborgen Overeenkomst en het Aanvullend Protocol daarbij (INFCIRC 288/Add.1).
 
-#### Artikel V. Fysieke beveiliging
+##### Artikel V. Fysieke beveiliging
 
 Elke Installatie en het nucleaire materiaal waarop [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=III&z=2012-01-31&g=2012-01-31) van toepassing is, zijn te allen tijde onderworpen aan maatregelen voor fysieke beveiliging die ten minste het door de IAEA aanbevolen niveau van beveiliging bieden (IAEA-document INFCIRC/225, herziene versie 4, inzake de fysieke beveiliging van nucleair materiaal en nucleaire faciliteiten of latere herziene versies daarvan die door de Regering van de Verenigde Staten en de Vier Regeringen aanvaard kunnen worden) of andere door de Partijen overeen te komen niveaus van fysieke beveiliging.
 
-#### Artikel VI. Overdrachten
+##### Artikel VI. Overdrachten
 
 1. Het in [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=III&z=2012-01-31&g=2012-01-31) bedoelde nucleaire materiaal wordt niet uit de Verenigde Staten uitgevoerd, tenzij de Regering van de Verenigde Staten van de regering van het ontvangende land waarborgen heeft gekregen die ten minste gelijkwaardig zijn aan de bepalingen van artikel III, de [eerste volzin van artikel IV, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=IV&z=2012-01-31&g=2012-01-31), [artikel V](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=V&z=2012-01-31&g=2012-01-31) en dit artikel. Indien export naar een niet-kernwapenstaat plaatsvindt (in de betekenis van NPV), past de Regering van de Verenigde Staten toe i) de beginselen neergelegd in de NSG **Guidelines For Nuclear Transfers** en de bijlagen daarbij zoals vastgelegd in IAEA-document INFCIRC/254/herziene versie 9/Deel 1 of latere herziene versies daarvan, en ii) alle relevante beslissingen die de NSG bij consensus aanneemt.
 
@@ -126,13 +148,13 @@ Elke Installatie en het nucleaire materiaal waarop [artikel III](https://wetten.
 
 - b. In een Installatie gegenereerde gegevens die als vertrouwelijk zijn aangemerkt mogen uitsluitend vanuit de Verenigde Staten aan het Verenigd Koninkrijk, de Franse Republiek, de Bondsrepubliek Duitsland of het Koninkrijk der Nederlanden of aan hun onderdanen worden overgedragen wanneer voldaan wordt aan de bepalingen van [artikel II, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=II&z=2012-01-31&g=2012-01-31), en de Bijlage bij deze Overeenkomst, en mogen niet door een van deze landen of onderdanen weer worden overgedragen aan een ander land dan de Verenigde Staten zonder de voorafgaande schriftelijke toestemming van de Regering van de Verenigde Staten. De Regering van de Verenigde Staten stemt bij dezen in met dergelijke wederoverdrachten tussen het Verenigd Koninkrijk, de Bondsrepubliek Duitsland, het Koninkrijk der Nederlanden en de Franse Republiek, voor zover voldaan wordt aan de bepalingen van artikel II, tweede lid, en de Bijlage bij deze Overeenkomst.
 
-#### Artikel VII. Verantwoordelijke instanties
+##### Artikel VII. Verantwoordelijke instanties
 
 1. Voor de toepassing van de [artikelen VIII tot en met X](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=VIII&z=2012-01-31&g=2012-01-31) van deze Overeenkomst wordt de Regering van de Verenigde Staten vertegenwoordigd door de Instantie van de Verenigde Staten en worden de Vier Regeringen vertegenwoordigd door de Quadripartiete Instantie.
 
 2. Wanneer nodig vindt tussen de Instantie van de Verenigde Staten en de Quadripartiete Instantie overleg plaats over alle aangelegenheden betreffende de tenuitvoerlegging van de [artikelen VIII tot en met X](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=VIII&z=2012-01-31&g=2012-01-31) van deze Overeenkomst.
 
-#### Artikel VIII. Rubriceringsgraden en de overdracht van gerubriceerde gegevens
+##### Artikel VIII. Rubriceringsgraden en de overdracht van gerubriceerde gegevens
 
 1. De Instantie van de Verenigde Staten en de Quadripartiete Instantie maken, binnen het kader van hun onderscheiden wetten en voorschriften, gebruik van overeengekomen gemeenschappelijke beginselen en procedures betreffende rubriceringsgraden en de overdracht van gerubriceerde gegevens krachtens deze Overeenkomst.
 
@@ -142,19 +164,19 @@ Elke Installatie en het nucleaire materiaal waarop [artikel III](https://wetten.
 
 4. Alle gerubriceerde gegevens die ingevolge deze Overeenkomst naar of vanuit de Verenigde Staten worden overgedragen, worden overgedragen door tussenkomst van de diplomatieke koeriersdienst, door middel van goedgekeurde versleutelde elektronische middelen of op een andere veilige wijze die de Vier Regeringen en de Regering van de Verenigde Staten kunnen overeenkomen.
 
-#### Artikel IX. Bescherming van gerubriceerde gegevens
+##### Artikel IX. Bescherming van gerubriceerde gegevens
 
 1. De Regering van de Verenigde Staten en de Vier Regeringen nemen passende maatregelen voor de bescherming van alle gerubriceerde gegevens die krachtens deze Overeenkomst worden overgedragen (hierna te noemen „overgedragen gerubriceerde gegevens”) en van gerubriceerde gegevens die voortkomen uit het gebruik van overgedragen gerubriceerde gegevens (hierna te noemen „afgeleide gerubriceerde gegevens”). Deze beveiligingsmaatregelen omvatten de waarborg dat de gegevens afdoende worden beschermd en dat toegang tot deze gegevens, met inachtneming van de bepalingen van [artikel VI, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005279&artikel=VI&z=2012-01-31&g=2012-01-31), van deze Overeenkomst, uitsluitend wordt verleend aan natuurlijke personen die door hun nationale autoriteiten gemachtigd zijn tot toegang tot gerubriceerde gegevens waaraan ten minste het overeenkomstige beveiligingsniveau in hun eigen land is toegekend (evenwel niet lager dan „Confidentieel”) en wier toegang tot de gerubriceerde gegevens door de Instantie van de Verenigde Staten of door de Quadripartiete Instantie is goedgekeurd. Niettegenstaande het voorgaande krijgt een natuurlijke persoon die geen onderdaan van de Verenigde Staten of onderdaan van het land van een van de Vier Regeringen is geen toegang tot gerubriceerde gegevens die in de Verenigde Staten zijn gegenereerd en als vertrouwelijk zijn aangemerkt zonder de voorafgaande schriftelijke toestemming van de Regering van de Verenigde Staten en de Vier Regeringen.
 
 2. Binnen het kader van hun onderscheiden wetten en voorschriften verschaffen de Vier Regeringen, of voorzien zij in het verschaffen van, de gegevens en bijstand die nodig zijn om de regeringsautoriteiten van de Verenigde Staten in staat te stellen te voldoen aan de wettelijke vereisten en regelgeving van de Verenigde Staten opdat de in het eerste lid bedoelde gerubriceerde gegevens kunnen worden beschermd krachtens de wetten en voorschriften van de Verenigde Staten.
 
-#### Artikel X. Verlies van gerubriceerde gegevens
+##### Artikel X. Verlies van gerubriceerde gegevens
 
 1. Indien overgedragen gerubriceerde gegevens of afgeleide gerubriceerde gegevens na overdracht verloren gaan of, zonder dat daartoe machtiging is verleend, openbaar worden gemaakt of indien er een redelijk vermoeden bestaat dat openbaarmaking zonder machtiging heeft plaatsgevonden, stelt de Instantie van de Verenigde Staten, indien het verlies in de Verenigde Staten heeft plaatsgevonden, of de Quadripartiete Instantie, indien het verlies buiten de Verenigde Staten heeft plaatsgevonden, de andere instantie hiervan onverwijld in kennis. De Quadripartiete Instantie is evenwel niet verplicht de Instantie van de Verenigde Staten in kennis te stellen van het verlies of de openbaarmaking zonder machtiging van gerubriceerde gegevens die niet afkomstig zijn uit de Verenigde Staten – dat wil zeggen niet gegenereerd in de Verenigde Staten of afgeleid van gerubriceerde gegevens gegenereerd in de Verenigde Staten.
 
 2. In gevallen waarop het eerste lid van dit artikel van toepassing is, vallen het onderzoek of een dergelijke gebeurtenis een schending vormt van de wetten en voorschriften van de Verenigde Staten of van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, de Bondsrepubliek Duitsland, het Koninkrijk der Nederlanden of de Franse Republiek, al naargelang van toepassing, en de vervolging van deze schending volledig binnen de bevoegdheden van het land waar de schending heeft plaatsgevonden, in overeenstemming met zijn wetten en voorschriften. De Partij in wier land de vermeende schending zich voordeed, doet niettemin, behalve in gevallen die vallen onder de uitzondering genoemd in de laatste volzin van het eerste lid van dit artikel, alles wat in haar vermogen ligt om de Instantie van de Verenigde Staten of de Quadripartiete Instantie, al naargelang van toepassing is, in de gelegenheid te stellen om aan de desbetreffende tot vervolging of regelgeving bevoegde autoriteiten alle gegevens te verstrekken die van belang zijn voor het instellen van rechtsvervolging in verband met dergelijke feiten. De Vier Regeringen of de Regering van Verenigde Staten, al naargelang van toepassing is, wordt te zijner tijd medegedeeld of een dergelijke rechtsvervolging al dan niet is ingesteld en wat de uitkomst ervan is.
 
-#### Artikel XI. Bescherming van tot de industriële eigendom behorende gegevens
+##### Artikel XI. Bescherming van tot de industriële eigendom behorende gegevens
 
 1. Wanneer de Regering van de Verenigde Staten krachtens deze Overeenkomst overgedragen gegevens verkrijgt, wendt zij deze niet aan voor andere doeleinden, met inbegrip van maar niet beperkt tot commerciële doeleinden, dan voorzien in deze Overeenkomst, zonder de voorafgaande schriftelijke toestemming van de Vier Regeringen.
 
@@ -164,15 +186,15 @@ Elke Installatie en het nucleaire materiaal waarop [artikel III](https://wetten.
 
 4. Indien de Regering van de Verenigde Staten verwacht niet langer in staat te zullen zijn deze overgedragen gegevens als behorend tot de industriële eigendom te beschermen krachtens de wetten en voorschriften van de Verenigde Staten, stelt de Instantie van de Verenigde Staten daarvan onmiddellijk op passende wijze in kennis. Vervolgens plegen de Regering van de Verenigde Staten en de Vier Regeringen overleg over een geschikte handelswijze om de doelstellingen van dit artikel te verwezenlijken.
 
-#### Artikel XII. Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie
+##### Artikel XII. Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie
 
 De in deze Overeenkomst uiteengezette verplichtingen doen geen afbreuk aan de verplichtingen van de Vier Regeringen krachtens het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033).
 
-#### Artikel XIII. Overleg
+##### Artikel XIII. Overleg
 
 De Regering van de Verenigde Staten en de Vier Regeringen plegen wanneer noodzakelijk overleg over aangelegenheden betreffende de interpretatie of tenuitvoerlegging van deze Overeenkomst.
 
-#### Artikel XIV. Inwerkingtreding en duur
+##### Artikel XIV. Inwerkingtreding en duur
 
 1. Deze Overeenkomst treedt in werking op de datum van ontvangst van de laatste van de nota’s van de Partijen bij deze Overeenkomst aan de depositaris, waarin wordt bevestigd dat aan alle wettelijke vereisten voor de inwerkingtreding is voldaan. De Franse Regering zal fungeren als depositaris voor deze Overeenkomst, inclusief de Bijlage en de Overeengekomen Notulenverklaring. In dit verband zal de Franse Regering diplomatieke nota’s zenden naar de andere Partijen waarin mededeling wordt gedaan van de notificaties van de Partijen, zoals beschreven in dit artikellid, en van de datum van inwerkingtreding, en zal de originele tekst van de Overeenkomst in bewaring houden. Deze Overeenkomst blijft van kracht gedurende een tijdvak van dertig jaar. Dit tijdvak wordt telkens automatisch verlengd met een tijdvak van vijftien jaar tenzij de Regering van de Verenigde Staten, de Franse Regering of elk van de Drie Regeringen de depositaris van deze Overeenkomst ten minste een jaar voor de datum waarop anders de Overeenkomst automatisch zou worden verlengd, ervan in kennis stelt van haar wens de Overeenkomst niet te verlengen. De depositaris zal een diplomatieke nota zenden aan de andere partijen waarin zij van een dergelijke kennisgeving of kennisgevingen op de hoogte worden gesteld. Indien een dergelijke kennisgeving of kennisgevingen worden gedaan wordt deze Overeenkomst beëindigd op de datum waarop anders deze automatisch zou worden verlengd evenwel met dien verstande dat indien de kennisgeving door een andere Partij dan de Regering van de Verenigde Staten wordt gedaan, deze Overeenkomst niet wordt beëindigd ten aanzien van de overblijvende Partijen indien deze schriftelijk overeenkomen de Overeenkomst voort te zetten.
 

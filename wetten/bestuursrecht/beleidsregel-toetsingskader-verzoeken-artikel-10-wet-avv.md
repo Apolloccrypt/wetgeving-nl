@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv"
+title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 24 mei 2017, nr. 2017-0000083185, tot vaststelling van het toetsingskader van verzoeken in het kader van artikel 10 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv)"
 identifier: "BWBR0039599"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039599"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039599"
+soort: "beleidsregel"
+stam_id: "14014403"
+version_id: "24123232"
+internal_id: "C34659781"
+label_id: "13976224"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039599/2022-01-01/0"
+intitule_bron: "Stcrt.2017-30494"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-05-24"
+intitule_published: "2017-06-02"
+intitule_in_force: "2017-06-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-30494"
+original_signed_date: "2017-05-24"
+original_published_date: "2017-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-30494"
+entry_into_force_date: "2017-06-03"
+jci_1_3: "jci1.3:c:BWBR0039599&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0039599&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv"
+signed_date: "2017-05-24"
+entry_into_force: "2017-06-03"
 ---
-
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 24 mei 2017, nr. 2017-0000083185, tot vaststelling van het toetsingskader van verzoeken in het kader van artikel 10 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv)
 
 Gehoord de Stichting van de Arbeid d.d. 3 mei 2017;
@@ -16,15 +42,15 @@ Gelet op [artikel 4.81 van de Algemene wet bestuursrecht](https://wetten.overhei
 
 Besluit:
 
-#### Artikel 1. Uitgangspunten verzoeken [artikel 10 Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10)
+##### Artikel 1. Uitgangspunten verzoeken [artikel 10 Wet Avv](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10)
 
 Bij verzoeken op grond van [artikel 10, eerste of tweede lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10) worden de in de bijlage bij deze beleidsregel opgenomen uitgangspunten door de Minister van Sociale Zaken en Werkgelegenheid gehanteerd.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toetsingskader verzoeken artikel 10 Wet Avv.
 

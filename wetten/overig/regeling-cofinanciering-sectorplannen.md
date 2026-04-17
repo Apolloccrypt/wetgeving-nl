@@ -1,13 +1,39 @@
 ---
-title: "Regeling cofinanciering sectorplannen"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)"
 identifier: "BWBR0033761"
-categorie: "Overig"
-publicatiedatum: 2018-11-14
-laatste_update: 2018-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033761"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-11-14"
+last_updated: "2018-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033761"
+soort: "ministeriele-regeling"
+stam_id: "12335423"
+version_id: "20695582"
+internal_id: "C29710871"
+label_id: "12306804"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033761/2018-11-14/0"
+intitule_bron: "Stcrt.2013-22962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-12"
+intitule_published: "2013-08-14"
+intitule_in_force: "2013-08-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-22962"
+original_signed_date: "2013-08-12"
+original_published_date: "2013-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-22962"
+entry_into_force_date: "2013-08-15"
+jci_1_3: "jci1.3:c:BWBR0033761&z=2018-11-14&g=2018-11-14"
+jci_1_0: "1.0:c:BWBR0033761&g=2018-11-14"
+citeertitel_status: "officieel"
+short_title: "Regeling cofinanciering sectorplannen"
+signed_date: "2013-08-12"
+entry_into_force: "2013-08-15"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3) en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -90,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **wettelijk minimumloon:** de aanspraak, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), of het percentage hiervan, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=2) of [3 van het Besluit minimumjeugdloon](https://wetten.overheid.nl/jci1.3:c:BWBR0003599&artikel=3).
 
-#### Artikel 1.2. Financiering sectorplannen
+##### Artikel 1.2. Financiering sectorplannen
 
 1. De sectorplannen worden gefinancierd uit de eigen middelen van de in het sectorplan betrokken werknemersorganisaties en werkgeversorganisaties en de arbeidsorganisaties en werknemers waarop het sectorplan betrekking heeft.
 
@@ -102,29 +128,29 @@ In deze regeling wordt verstaan onder:
 
 5. Maatregelen in sectorplannen komen voor een maximale termijn van twee aaneengesloten jaren voor cofinanciering in aanmerking. De aanvang van deze termijn kan niet eerder liggen dan na publicatie van deze regeling in de Staatscourant.
 
-#### Artikel 1.3. Toepasselijkheid [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211)
+##### Artikel 1.3. Toepasselijkheid [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211)
 
 Op deze regeling is de [Algemene regeling SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009211) van toepassing voor zover daarvan in deze regeling niet wordt afgeweken.
 
-#### Artikel 1.4. Subsidieplafond
+##### Artikel 1.4. Subsidieplafond
 
 1. De minister stelt 440 miljoen EUR beschikbaar voor de cofinanciering van sectorplannen, welk bedrag wordt onderverdeeld in door de minister vast te stellen aanvraagtijdvakken met voor de tijdvakken afzonderlijk vast te stellen subsidieplafonds.
 
 2. De mogelijkheid tot het indienen van aanvragen om subsidie bestaat slechts gedurende door de minister vastgestelde aanvraagtijdvakken. Indien deze mogelijkheid wordt geopend, wordt hiervan vooraf door de minister in de Staatscourant mededeling gedaan met vermelding van het subsidieplafond voor dat aanvraagtijdvak.
 
-#### Artikel 1.5. Verdeling
+##### Artikel 1.5. Verdeling
 
 1. Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.3&z=2018-11-14&g=2018-11-14).
 
 2. Wanneer de hoofdaanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag tot cofinanciering.
 
-#### Artikel 1.6. Mandaat directeur Agentschap SZW
+##### Artikel 1.6. Mandaat directeur Agentschap SZW
 
 Vervallen
 
 ### Hoofdstuk 2. Subsidieverlening
 
-#### Artikel 2.1. Het samenwerkingsverband
+##### Artikel 2.1. Het samenwerkingsverband
 
 1. Een sectorplan wordt opgesteld door een samenwerkingsverband dat ten minste bestaat uit een of meer werknemersorganisaties en een of meer werkgeversorganisaties.
 
@@ -134,7 +160,7 @@ Vervallen
 
 4. De samenwerking wordt vastgelegd in een samenwerkingsovereenkomst waarin een hoofdaanvrager wordt aangewezen.
 
-#### Artikel 2.2. De hoofdaanvrager
+##### Artikel 2.2. De hoofdaanvrager
 
 1. De hoofdaanvrager dient namens een samenwerkingsverband een sectorplan in en vraagt hiervoor subsidie aan.
 
@@ -162,7 +188,7 @@ Vervallen
 
 - b. dat het samenwerkingsverband zich garant stelt voor ten minste 80% van het aangevraagde subsidiebedrag.
 
-#### Artikel 2.3. De aanvraag
+##### Artikel 2.3. De aanvraag
 
 1. Het aangevraagde subsidiebedrag bedraagt ten minste 250.000 EUR, exclusief overhead als bedoeld in [artikel 5.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.6&z=2018-11-14&g=2018-11-14).
 
@@ -194,7 +220,7 @@ Vervallen
 
 7. Door het indienen van een aanvraag stemt de hoofdaanvrager er namens het samenwerkingsverband mee in dat het subsidiedossier met uitzondering van persoonsgegevens openbaar wordt gemaakt.
 
-#### Artikel 2.4. Subsidieverlening
+##### Artikel 2.4. Subsidieverlening
 
 1. De minister kan subsidie verlenen voor de cofinanciering van maatregelen in een sectorplan.
 
@@ -208,7 +234,7 @@ Vervallen
 
 6. Aan de beschikking tot verlening van subsidie kunnen nadere verplichtingen worden verbonden.
 
-#### Artikel 2.5. Weigering van de subsidie
+##### Artikel 2.5. Weigering van de subsidie
 
 Een aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeeltelijk afgewezen, indien naar het oordeel van de minister:
 
@@ -238,7 +264,7 @@ Een aanvraag tot verlening van subsidie wordt in ieder geval geheel of gedeeltel
 
 ### Hoofdstuk 3. Subsidiabele kosten en maatregelen
 
-#### Artikel 3.1. Sectormaatregelen
+##### Artikel 3.1. Sectormaatregelen
 
 Maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betrekking hebben op ten minste twee of meer van de volgende thema’s:
 
@@ -256,7 +282,7 @@ Maatregelen komen slechts voor cofinanciering in aanmerking voor zover zij betre
 
 - g. goed werkgeverschap en goed werknemerschap.
 
-#### Artikel 3.2. In aanmerking te nemen kosten
+##### Artikel 3.2. In aanmerking te nemen kosten
 
 Voor cofinanciering komen in aanmerking:
 
@@ -264,7 +290,7 @@ Voor cofinanciering komen in aanmerking:
 
 - b. kosten voor overhead en aan overhead gerelateerde exploitatiekosten.
 
-#### Artikel 3.3. Niet in aanmerking te nemen kosten
+##### Artikel 3.3. Niet in aanmerking te nemen kosten
 
 1. Niet voor cofinanciering komen in aanmerking:
 
@@ -282,11 +308,11 @@ Voor cofinanciering komen in aanmerking:
 
 ### Hoofdstuk 4. Plannen met uitvoering op ondernemingsniveau
 
-#### Artikel 4.1. Toepasselijkheid Groepsvrijstellingsverordening
+##### Artikel 4.1. Toepasselijkheid Groepsvrijstellingsverordening
 
 Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de gemeenschappelijke markt verenigbaar worden verklaard (‘de algemene groepsvrijstellingsverordening’) (PbEU L214).
 
-#### Artikel 4.2. Maatregelen ten behoeve van advisering
+##### Artikel 4.2. Maatregelen ten behoeve van advisering
 
 1. Maatregelen die tot doel hebben om een MKB-bedrijf door incidentele advisering te laten ondersteunen kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn de kosten van door externe adviseurs verrichte diensten gemaximeerd op een uurtarief van € 125,– per uur, exclusief BTW.
 
@@ -294,7 +320,7 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 3. De advisering komt slechts voor cofinanciering in aanmerking voor zover zij niet van permanente of periodieke aard is en evenmin behoort tot de gewone bedrijfsuitgaven van de onderneming.
 
-#### Artikel 4.3. Opleidingsmaatregelen
+##### Artikel 4.3. Opleidingsmaatregelen
 
 1. Maatregelen die tot doel hebben om werknemers of potentiële werknemers op te leiden door middel van algemene scholing kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn:
 
@@ -314,7 +340,7 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 5. Indien een BBL later aanvangt dan twaalf maanden na de datum van de subsidiebeschikking, bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=2&artikel=2.4&z=2018-11-14&g=2018-11-14), en vierentwintig maanden of langer duurt, kan deze BBL voor cofinanciering in aanmerking komen voor de duur van de BBL, doch maximaal voor een periode tot 36 maanden na de datum van de subsidiebeschikking.
 
-#### Artikel 4.4. Maatregelen voor indienstneming van kwetsbare werknemers
+##### Artikel 4.4. Maatregelen voor indienstneming van kwetsbare werknemers
 
 1. Maatregelen die tot doel hebben om kwetsbare werknemers in dienst te nemen, kunnen voor cofinanciering in aanmerking komen. De subsidiabele kosten zijn maximaal 20% van de loonkosten van de kwetsbare werknemer gedurende de eerste twaalf maanden na indienstneming.
 
@@ -324,13 +350,13 @@ Dit hoofdstuk valt onder de [verordening (EG) nr. 800/2008](32008R0800) van de C
 
 4. De maatregel komt slechts voor cofinanciering in aanmerking voor zover het subsidiebedrag en het subsidiebedrag dat wordt verleend op grond van [artikel 4.5](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=4&artikel=4.5&z=2018-11-14&g=2018-11-14) tezamen niet meer dan 5 miljoen euro per onderneming per project bedraagt.
 
-#### Artikel 4.5. Maatregelen voor indienstneming van werkloze jongeren
+##### Artikel 4.5. Maatregelen voor indienstneming van werkloze jongeren
 
 Vervallen
 
 ### Hoofdstuk 5. Subsidieverstrekking
 
-#### Artikel 5.1. Hoogte van de subsidie
+##### Artikel 5.1. Hoogte van de subsidie
 
 1. De subsidie ten behoeve van maatregelen bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.
 
@@ -340,7 +366,7 @@ Vervallen
 
 4. De subsidie kan bij onderrealisatie in afwijking van het derde lid naar evenredigheid worden verlaagd als naar het oordeel van de minister geen gronden aanwezig zijn om de subsidie op nihil vast te stellen.
 
-#### Artikel 5.2. Intrekking en terugvordering
+##### Artikel 5.2. Intrekking en terugvordering
 
 1. Onverminderd het bepaalde in [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) wordt de beschikking tot subsidieverlening geheel ingetrokken indien:
 
@@ -354,7 +380,7 @@ Vervallen
 
 3. Indien de beschikking tot subsidieverlening geheel of gedeeltelijk wordt ingetrokken, wordt het subsidiebedrag dat tot dat moment is uitgekeerd, vermeerderd met de wettelijke rente, geheel of gedeeltelijk van de hoofdaanvrager teruggevorderd.
 
-#### Artikel 5.3. Bevoorschotting en meldingsplicht
+##### Artikel 5.3. Bevoorschotting en meldingsplicht
 
 1. Indien een aanvraag tot cofinanciering van een sectorplan wordt goedgekeurd, kan een voorschot op het totale subsidiebedrag worden verstrekt.
 
@@ -368,7 +394,7 @@ Vervallen
 
 6. De hoofdaanvrager kan bij de aanvraag van cofinanciering op het door de minister beschikbaar gestelde elektronisch formulier aangeven een voorschot te willen ontvangen. Indien de hoofdaanvrager heeft aangegeven geen voorschot te willen ontvangen, wordt deze niet toegekend.
 
-#### Artikel 5.4. Rapportageverplichting
+##### Artikel 5.4. Rapportageverplichting
 
 1. Voor zover de uitvoering van het sectorplan een periode beslaat van twaalf maanden of langer, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, uiterlijk acht weken na afloop van die twaalf maanden een tussentijds voortgangsverslag. Het tussentijds voortgangsverslag bevat ten minste de gerealiseerde aantallen, de aard en de kosten van de maatregelen en de resultaten.
 
@@ -378,7 +404,7 @@ Vervallen
 
 4. Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in [artikel 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=5&artikel=5.3&z=2018-11-14&g=2018-11-14) kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), volgens een door de minister voor te schrijven model.
 
-#### Artikel 5.5. Einddeclaratie en subsidievaststelling
+##### Artikel 5.5. Einddeclaratie en subsidievaststelling
 
 1. De hoofdaanvrager dient binnen dertien weken na beëindiging van de uitvoering van de in de subsidiebeschikking genoemde maatregelen, doch uiterlijk binnen dertien weken na afloop van de termijn, bedoeld in [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), een verzoek tot vaststelling van subsidie in bij de minister onder gebruikmaking van het daartoe door de minister beschikbaar gestelde elektronisch formulier.
 
@@ -388,7 +414,7 @@ Vervallen
 
 4. De minister beslist binnen 22 weken na ontvangst van het verzoek tot vaststelling van de subsidie.
 
-#### Artikel 5.6. Overhead
+##### Artikel 5.6. Overhead
 
 1. Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% van een forfaitair bedrag als bedoeld in het vierde lid, voor cofinanciering in aanmerking.
 
@@ -404,7 +430,7 @@ Vervallen
 
 - c. 1% van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten boven 10.000.000 EUR.
 
-#### Artikel 5.7. Administratievoorschriften
+##### Artikel 5.7. Administratievoorschriften
 
 1. De hoofdaanvrager houdt een inzichtelijke en controleerbare administratie bij met betrekking tot de uitvoering van het sectorplan en de in verband daarmee gedane uitgaven en verworven inkomsten. Deze administratie bestaat uit een projectadministratie, waaronder begrepen een financiële administratie en een administratie van de deelnemers per maatregel inclusief een burgerservicenummer waarin alle noodzakelijke gegevens tijdig, juist en volledig zijn vastgelegd en ten behoeve van de vaststelling van de subsidiabiliteit zijn te verifiëren met bewijsstukken. Deze administratie is voor controle beschikbaar op één locatie.
 
@@ -414,7 +440,7 @@ Vervallen
 
 ### Hoofdstuk 6. Evaluatie
 
-#### Artikel 6.1. Evaluatiebepaling
+##### Artikel 6.1. Evaluatiebepaling
 
 1. De minister draagt in 2016 zorg voor de evaluatie van deze regeling.
 
@@ -424,11 +450,11 @@ Vervallen
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1. Citeertitel
+##### Artikel 7.1. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling cofinanciering sectorplannen
 
-#### Artikel 7.2. Inwerkingtreding
+##### Artikel 7.2. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
@@ -596,7 +622,7 @@ Vereniging Land- en Tuinbouworganisatie Nederland
 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.
 
-#### Artikel 1.2a. Verlenging looptijd sectorplannen
+##### Artikel 1.2a. Verlenging looptijd sectorplannen
 
 1. De minister kan op verzoek van de hoofdaanvrager eenmalig de looptijd van een sectorplan met maximaal zes maanden verlengen, waarbij [artikel 1.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033761&hoofdstuk=1&artikel=1.2&z=2018-11-14&g=2018-11-14), onverminderd van toepassing blijft.
 

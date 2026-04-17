@@ -1,13 +1,35 @@
 ---
 title: "Regeling literaire tijdschriften 2025–2028"
 identifier: "BWBR0049981"
-categorie: "Overig"
-publicatiedatum: 2024-07-16
-laatste_update: 2024-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049981"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-16"
+last_updated: "2024-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049981"
+soort: "zbo"
+stam_id: "17170723"
+version_id: "30226322"
+internal_id: "C43298041"
+label_id: "17078824"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049981/2024-07-16/0"
+intitule_bron: "Stcrt.2024-22688"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-07-15"
+intitule_in_force: "2024-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22688"
+original_published_date: "2024-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22688"
+entry_into_force_date: "2024-07-16"
+jci_1_3: "jci1.3:c:BWBR0049981&z=2024-07-16&g=2024-07-16"
+jci_1_0: "1.0:c:BWBR0049981&g=2024-07-16"
+citeertitel_status: "officieel"
+entry_into_force: "2024-07-16"
 ---
-
 # Regeling literaire tijdschriften 2025–2028
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement van het Nederlands Letterenfonds](https://wette
 
 besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,21 +70,21 @@ In deze regeling wordt verstaan onder:
 
 - **redactiekosten:** alle kosten die de redactie ten behoeve van het tijdschrift maakt, met uitzondering van kosten bestaande uit honoraria voor de redactie en auteurs en illustratoren van literaire kopij.
 
-#### Artikel 2. Subsidiabele kosten
+##### Artikel 2. Subsidiabele kosten
 
 Op grond van deze regeling kunnen subsidies worden verstrekt aan tijdschriften voor kosten bestaande uit honoraria van de redactie en auteurs en illustratoren van literaire kopij en voor redactiekosten.
 
-#### Artikel 3. Aanvrager
+##### Artikel 3. Aanvrager
 
 1. De aanvrager is een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid zonder winstoogmerk, met als activiteit het produceren en publiceren van een tijdschrift.
 
 2. Tijdschriften met een te beperkte focus zijn uitgesloten van aanvragen, evenals vak-, wetenschappelijke en ledenbladen, met uitzondering van bladen voor de beroepspraktijk van literair vertalen.
 
-#### Artikel 4. Aanvraagprocedure
+##### Artikel 4. Aanvraagprocedure
 
 Het Letterenfonds maakt de informatie over de regeling via zijn website bekend. Er is één subsidieronde per vier jaar.
 
-#### Artikel 5. Aanvraag
+##### Artikel 5. Aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend met behulp van een door het Letterenfonds opgesteld aanvraagformulier.
 
@@ -70,7 +92,7 @@ Het Letterenfonds maakt de informatie over de regeling via zijn website bekend. 
 
 3. Aanvragen worden ingediend in één subsidieronde. De periode waarin aanvragen worden ingediend, wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 6. Algemene vereisten, drempelnormen, voorwaarden voor ondersteuning en weigeringsgronden
+##### Artikel 6. Algemene vereisten, drempelnormen, voorwaarden voor ondersteuning en weigeringsgronden
 
 1. Een subsidie kan slechts worden verstrekt ten behoeve van een tijdschrift dat:
 
@@ -86,19 +108,19 @@ Het Letterenfonds maakt de informatie over de regeling via zijn website bekend. 
 
 3. Een aanvraag die niet voldoet aan de vereisten van deze regeling en het [Algemeen reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032735) wordt afgewezen.
 
-#### Artikel 7. Maximaal twaalf tijdschriften
+##### Artikel 7. Maximaal twaalf tijdschriften
 
 1. Het Letterenfonds kan op grond van deze regeling aan maximaal twaalf literaire tijdschriften subsidie verstrekken, waarvan één Friestalig literair tijdschrift en één literair tijdschrift in het Caribisch deel van het Koninkrijk dat ten minste voor de helft Papiamentstalig is.
 
 2. Als er geen Friestalig literair tijdschrift of tijdschrift in het Caribisch deel van het Koninkrijk dat ten minste voor de helft Papiamentstalig is in aanmerking komt voor subsidie, kan het Letterenfonds twee andere tijdschriften de subsidie verstrekken.
 
-#### Artikel 8. Hoogte subsidiebedrag en subsidieplafond
+##### Artikel 8. Hoogte subsidiebedrag en subsidieplafond
 
 1. Het subsidiebedrag per aanvraag is € 20.500 euro per jaar en € 82.000 voor vier jaar.
 
 2. Het subsidieplafond is € 984.000. Eventuele wijzingen van dit plafond worden bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 9. Beoordelingscriteria
+##### Artikel 9. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende beoordelingscriteria:
 
@@ -108,13 +130,13 @@ Aanvragen worden beoordeeld aan de hand van de volgende beoordelingscriteria:
 
 - c. de kwaliteit en realiteitszin van de exploitatie.
 
-#### Artikel 10. Adviescommissie
+##### Artikel 10. Adviescommissie
 
 1. Aanvragen die voldoen aan de formele eisen om voor subsidie in aanmerking te komen, worden voor advies voorgelegd aan een adviescommissie die geheel of merendeels bestaat uit leden van de Raad van advies van het Letterenfonds. De adviescommissie kan aangevuld worden met externe adviseurs, voor dit doel aangesteld door het bestuur.
 
 2. De adviescommissie beoordeelt de aanvragen op basis van de beoordelingscriteria, genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049981&artikel=9&z=2024-07-16&g=2024-07-16), en adviseert het bestuur over al dan niet toewijzen van de aanvragen.
 
-#### Artikel 11. Verdeling budget
+##### Artikel 11. Verdeling budget
 
 1. Aanvragen die voldoen aan de formele eisen om voor subsidie in aanmerking te komen, worden onderverdeeld in twee categorieën:
 
@@ -124,13 +146,13 @@ Aanvragen worden beoordeeld aan de hand van de volgende beoordelingscriteria:
 
 Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honoreren, worden de aanvragen in een rangorde geplaatst op basis van de criteria genoemd in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049981&artikel=9&z=2024-07-16&g=2024-07-16), en de beoordeling van de adviescommissie genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049981&artikel=10&z=2024-07-16&g=2024-07-16). Elk criterium krijgt een score toegekend. De drie scores wegen even zwaar mee in de totaalscore. Bij ex aequo wordt de aanvraag met een hogere score op criterium b hoger in de rangorde geplaatst.
 
-#### Artikel 12. Verplichtingen van de subsidieontvanger ten aanzien van de besteding van de subsidie
+##### Artikel 12. Verplichtingen van de subsidieontvanger ten aanzien van de besteding van de subsidie
 
 1. De subsidieontvanger besteedt de subsidie aan de kosten waarvoor de subsidie is verleend.
 
 2. De subsidieontvanger besteedt ten minste vijftig procent van het subsidiebedrag aan de beloning voor auteurs en redactie, volgens de richtlijnen zoals genoemd in het aanvraagformulier.
 
-#### Artikel 13. Overige verplichtingen van de subsidieontvanger
+##### Artikel 13. Overige verplichtingen van de subsidieontvanger
 
 1. Indien het tijdschrift op papier verschijnt, brengt de subsidieontvanger elk jaar het tijdschrift gedurende de jaren waarvoor subsidie is verleend ten minste twee keer uit en bestaat elk nummer uit ten minste 48 pagina’s.
 
@@ -158,13 +180,13 @@ Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honore
 
 10. De ontvanger neemt actief deel aan een sectorbrede samenwerking voor literaire tijdschriften.
 
-#### Artikel 14. Voorschotten
+##### Artikel 14. Voorschotten
 
 1. Het bestuur betaalt het verleende subsidiebedrag als voorschot.
 
 2. Het bestuur betaalt het voorschot in twee gelijke delen: het eerste deel in december 2024 en het tweede deel in november 2026.
 
-#### Artikel 15. Verantwoording
+##### Artikel 15. Verantwoording
 
 1. De subsidieontvanger dient jaarlijks voor 1 mei een verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar.
 
@@ -172,7 +194,7 @@ Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honore
 
 3. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 16. Subsidievaststelling
+##### Artikel 16. Subsidievaststelling
 
 1. Het bestuur stelt de subsidie vast na ontvangst van de complete inhoudelijke verantwoording over de vier jaren waarover subsidie is verstrekt.
 
@@ -180,7 +202,7 @@ Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honore
 
 3. Als het bestuur overweegt de subsidie lager vast te stellen, wordt de aanvrager hierover geïnformeerd uiterlijk binnen vier maanden na de datum waarop de laatste jaarverantwoording van de subsidieperiode 2025–2028 moest worden ingediend.
 
-#### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
+##### Artikel 17. Intrekkings- en wijzigingsgronden subsidieverlening en -vaststelling
 
 1. Het bestuur kan de subsidieverlening of -vaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -190,25 +212,25 @@ Als het subsidieplafond ontoereikend is om alle subsidiabele aanvragen te honore
 
 4. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel reeds betaalde gedeelten van de subsidie of teruggevorderd. Indien de subsidieontvanger niet heeft voldaan aan de meldplicht zoals genoemd in [artikel 13 lid 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049981&artikel=13&z=2024-07-16&g=2024-07-16) kan het bestuur de subsidie op nihil stellen en het subsidiebedrag inclusief de verschuldigde wettelijke rente terugvorderen.
 
-#### Artikel 18. Hardheidsclausule
+##### Artikel 18. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 19. Begrotingsvoorbehoud
+##### Artikel 19. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van voldoende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 20. Slotbepalingen
+##### Artikel 20. Slotbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
 2. De [Regeling literaire tijdschriften 2021–2024](https://wetten.overheid.nl/jci1.3:c:BWBR0044335) wordt ingetrokken. In afwijking van de eerste volzin blijft genoemde regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan zij vervalt, van toepassing op de afwikkeling van op grond van die regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 21. Inwerkingtreding en vervaldatum
+##### Artikel 21. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant en vervalt op 31 december 2029. In afwijking van de eerste volzin blijft deze regeling zoals zij luidde op de dag voorafgaand aan de datum met ingang waarvan deze regeling vervalt, van toepassing op de afwikkeling van op grond van deze regeling ingediende aanvragen en verleende subsidies.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling literaire tijdschriften 2025–2028.
 

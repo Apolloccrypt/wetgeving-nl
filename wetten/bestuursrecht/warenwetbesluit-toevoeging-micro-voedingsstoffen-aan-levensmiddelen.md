@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen"
+title: "Besluit van 24 mei 1996, houdende het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen"
 identifier: "BWBR0008065"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-11-14
-laatste_update: 2014-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008065"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-11-14"
+last_updated: "2014-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008065"
+soort: "AMvB"
+stam_id: "97383"
+version_id: "136782"
+internal_id: "C136781"
+label_id: "98334"
+dtd_version: "2.0"
+original_entry_into_force: "1998-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008065/2014-11-14/0"
+intitule_bron: "Stb.1996-311"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-05-24"
+intitule_published: "1996-06-25"
+intitule_in_force: "1996-06-25"
+intitule_status: "goed"
+original_publication: "Stb.1998-255"
+original_signed_date: "1998-04-23"
+original_published_date: "1998-04-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1998-255"
+entry_into_force_date: "1998-05-01"
+jci_1_3: "jci1.3:c:BWBR0008065&z=2014-11-14&g=2014-11-14"
+jci_1_0: "1.0:c:BWBR0008065&g=2014-11-14"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen"
+signed_date: "1998-04-23"
+entry_into_force: "1998-05-01"
 ---
-
 # Besluit van 24 mei 1996, houdende het Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen
 
 Op voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 25 september 1995, nr DGVgz/VVP/L 952051, gedaan in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij;
@@ -26,7 +52,7 @@ De artikelen 6, 7, 8 en 9 treden nog niet in werking voor wat betreft de toevoeg
 
 #### § 1:. algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -58,51 +84,51 @@ De artikelen 6, 7, 8 en 9 treden nog niet in werking voor wat betreft de toevoeg
 
 2. Dit besluit is niet van toepassing op eet- of drinkwaren waaraan uitsluitend uit technologische overwegingen één of meer micro-voedingsstoffen zijn toegevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden verrijkte eet- of drinkwaren te bereiden of te verhandelen, die niet voldoen aan de eisen, bij dit besluit gesteld met betrekking tot hun samenstelling.
 
 2. Het is verboden te handelen in strijd met de bij of krachtens de artikelen 3, eerste lid, 4, 5, 6, eerste en zesde lid, 7, eerste, tweede, derde en zesde lid, en 8, tweede lid, onder a, en zesde lid, van verordening (EG) 1925/2006 gestelde voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 In verrijkte eet- of drinkwaren zijn geen micro-voedingsstoffen aanwezig in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid.
 
 #### § 2:. toevoegen van micro-voedingsstoffen aan levensmiddelen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 De micro-voedingsstoffen vitamine A in de vorm van retinoïden, vitamine D, foliumzuur, seleen, koper en zink worden uitsluitend toevoegd aan een verrijkte eet- of drinkwaar om van die waar een substitutie-produkt of een gerestaureerde eet- of drinkwaar te maken.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Aan de in in aanhangsel II bij bijlage VII, onder B en C, van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013, tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad (PbEU 2013, L 347), bedoelde vetten, aan vloeibare producten die een zelfde gebruiksdoel hebben, en aan bak- en braadproducten, is het toegestaan vitamine A en D toe te voegen, waarbij het gehalte aan vitamine A ten hoogste 8 µg RE, en het gehalte aan vitamine D ten hoogste 0,075 µg per gram bedraagt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=2&z=2014-11-14&g=2014-11-14) genoemde vitamines en de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&bijlage=3&z=2014-11-14&g=2014-11-14) genoemde mineralen worden slechts in zodanige hoeveelheden toegevoegd aan een verrijkte eet- of drinkwaar, dat het totaal aanwezige gehalte in een redelijk geachte dagconsumptie van die waar ten minste 15% en ten hoogste 100% van de in die bijlage vermelde aanbevolen dagelijkse hoeveelheid bedraagt.
 
 2. De in het eerste lid bedoelde hoeveelheden zijn niet van toepassing voor zover het een substitutie-produkt of een gerestaureerde eet- of drinkwaar betreft.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 2a. specifieke toevoegingen
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. In de navolgende eet- en drinkwaren mogen jodiumverbindingen aanwezig zijn, met inachtneming van de daarbij vermelde voorwaarden:
 
@@ -114,21 +140,21 @@ Vervallen
 
 #### § 3:. slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
 2. In afwijking van het eerste lid treden, voor wat betreft de toevoeging van mineralen, de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=6&z=2014-11-14&g=2014-11-14), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=7&z=2014-11-14&g=2014-11-14), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=8&z=2014-11-14&g=2014-11-14) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&paragraaf=2&artikel=9&z=2014-11-14&g=2014-11-14) in werking vierentwintig maanden na het in dat lid bedoelde tijdstip.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Toevoeging micro-voedingsstoffen aan levensmiddelen.
 
@@ -175,7 +201,7 @@ De in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008065&pa
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Onze Minister kan nadere regels stellen inzake de toevoeging van vitaminen, mineralen en bepaalde andere stoffen aan levensmiddelen, voor zover die noodzakelijk zijn voor de goede uitvoering van de bij of krachtens verordening (EG) 1925/2006 gestelde voorschriften.
 

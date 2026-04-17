@@ -1,36 +1,62 @@
 ---
-title: "Besluit vaststelling beleidskader SLOA"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 september 2016, nr. 884572, houdende vaststelling van beleidsregels inzake subsidiëring landelijke onderwijsondersteunende activiteiten (Besluit vaststelling beleidskader SLOA)"
 identifier: "BWBR0038553"
-categorie: "Overig"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038553"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038553"
+soort: "ministeriele-regeling"
+stam_id: "13756993"
+version_id: "23583592"
+internal_id: "C33952571"
+label_id: "13723304"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038553/2022-10-01/0"
+intitule_bron: "Stcrt.2016-51364"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-17"
+intitule_published: "2016-09-30"
+intitule_in_force: "2016-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-51364"
+original_signed_date: "2016-09-17"
+original_published_date: "2016-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-51364"
+entry_into_force_date: "2016-10-01"
+jci_1_3: "jci1.3:c:BWBR0038553&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0038553&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader SLOA"
+signed_date: "2016-09-17"
+entry_into_force: "2016-10-01"
 ---
-
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 september 2016, nr. 884572, houdende vaststelling van beleidsregels inzake subsidiëring landelijke onderwijsondersteunende activiteiten (Besluit vaststelling beleidskader SLOA)
 
 Gelet op [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1), [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2), [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3), en [artikel 7 van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=7) en [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.5.1);
 
 Besluit:
 
-#### Artikel 1. Vaststellen beleidskader
+##### Artikel 1. Vaststellen beleidskader
 
 De beleidsregels inzake subsidieverlening voor de instellingen, bedoeld in de [Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162) worden vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 Jaarlijks wordt in een startbrief het bedrag vastgesteld dat ten hoogste beschikbaar is voor de verlening van subsidies ten behoeve van de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=2), [artikel 3, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3), [artikel 3a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3a), en [artikel 3b, eerste lid, van de Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0034162&artikel=3b).
 
-#### Artikel 3. Wijziging [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 3. Wijziging [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Wijzigt de Kaderregeling subsidies OCW, SZW en VWS.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 oktober 2016.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader SLOA.
 

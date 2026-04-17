@@ -1,14 +1,42 @@
 ---
-title: "Mededingingswet"
+title: "Wet van 22 mei 1997, houdende nieuwe regels omtrent de economische mededinging (Mededingingswet)"
 identifier: "BWBR0008691"
-categorie: "Overig"
-publicatiedatum: 2025-09-01
-laatste_update: 2025-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008691"
+country: "nl"
+rank: "wet"
+publication_date: "2025-09-01"
+last_updated: "2025-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008691"
+soort: "wet"
+stam_id: "2759973"
+version_id: "27416622"
+internal_id: "C38709981"
+label_id: "2708254"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008691/2025-09-01/0"
+intitule_bron: "Stb.1997-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-22"
+intitule_published: "1997-06-24"
+intitule_in_force: "1997-10-02"
+intitule_status: "goed"
+original_publication: "Stb.2021-9"
+original_signed_date: "2020-11-11"
+original_published_date: "2021-01-14"
+original_effect: "structuurwijziging"
+original_dossier: "35467"
+original_url_id: "stb-2021-9"
+entry_into_force_date: "2020-11-11"
+entry_into_force_dossier: "35467"
+jci_1_3: "jci1.3:c:BWBR0008691&z=2025-09-01&g=2025-09-01"
+jci_1_0: "1.0:c:BWBR0008691&g=2025-09-01"
+citeertitel_status: "officieel"
+short_title: "Mededingingswet"
+signed_date: "2020-11-11"
+entry_into_force: "2020-11-11"
 ---
-
-# Mededingingswet
+# Wet van 22 mei 1997, houdende nieuwe regels omtrent de economische mededinging (Mededingingswet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -54,17 +82,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De Autoriteit Consument en Markt
 
-#### Artikel 2
+##### Artikel 2
 
 De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bij of krachtens deze wet bepaalde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan de Autoriteit Consument en Markt opdragen werkzaamheden te verrichten in het kader van de uitvoering van regelgeving op het gebied van de mededinging op grond van het Verdrag, voor zover daarin niet reeds bij of krachtens de wet is voorzien, alsmede werkzaamheden op het gebied van de mededinging in verband met andere verdragen of internationale afspraken.
 
 2. Onze Minister kan de Autoriteit Consument en Markt instructies geven met betrekking tot het verrichten van de in het eerste lid bedoelde werkzaamheden, alsmede met betrekking tot het door de Autoriteit Consument en Markt in te nemen standpunt in een adviescomité als bedoeld in artikel 14, tweede lid, van verordening 1/2003 en artikel 19, vierde lid, van verordening 139/2004, met dien verstande dat een instructie inzake een standpunt in een adviescomité geen betrekking heeft op de mededingingsaspecten van een individueel geval.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan, al dan niet op verzoek van een van Onze andere Ministers, de Autoriteit Consument en Markt opdragen een rapportage uit te brengen inzake de effecten voor de mededinging van voorgenomen of geldende regelgeving of van een voorgenomen of een geldend besluit.
 
@@ -72,7 +100,7 @@ De Autoriteit Consument en Markt is belast met het toezicht op de naleving van h
 
 3. Op verzoek van een of beide Kamers van de Staten-Generaal brengt de Autoriteit Consument en Markt met tussenkomst van Onze Minister een rapportage uit aan de beide Kamers der Staten-Generaal. Onze Minister zendt de rapportage onverwijld naar de beide Kamers der Staten-Generaal. Onze Minister kan de rapportage doen vergezellen van zijn bevindingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autoriteit Consument en Markt toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de Autoriteit Consument en Markt bij toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), andere belangen dan economische belangen in zijn afweging moet betrekken.
 
@@ -80,7 +108,7 @@ Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autori
 
 #### § 1. Verbod van mededingingsafspraken
 
-#### Artikel 6
+##### Artikel 6
 
 1. Verboden zijn overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen, die ertoe strekken of ten gevolge hebben dat de mededinging op de Nederlandse markt of een deel daarvan wordt verhinderd, beperkt of vervalst.
 
@@ -94,7 +122,7 @@ Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autori
 
 4. Een onderneming of ondernemersvereniging die zich op het derde lid beroept, bewijst dat aan dat lid is voldaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), geldt niet voor overeenkomsten, besluiten en onderling afgestemde feitelijke gedragingen als bedoeld in dat artikel indien:
 
@@ -118,7 +146,7 @@ Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autori
 
 5. Het in het eerste lid, onder a, genoemde aantal en de in het eerste lid, onder b, genoemde bedragen kunnen bij algemene maatregel van bestuur worden gewijzigd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De berekening van de omzet, bedoeld in [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2025-09-01&g=2025-09-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
@@ -126,7 +154,7 @@ Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autori
 
 3. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 7, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2025-09-01&g=2025-09-01), worden de transacties tussen die ondernemingen buiten beschouwing gelaten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Autoriteit Consument en Markt kan op een overeenkomst tussen ondernemingen, een besluit van een ondernemersvereniging of een onderling afgestemde feitelijke gedraging van ondernemingen waarop krachtens [artikel 7, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=7&z=2025-09-01&g=2025-09-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), niet van toepassing is, bij beschikking alsnog [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), van toepassing verklaren, indien die overeenkomst, dat besluit of die gedraging gezien de marktverhoudingen op de relevante markt in aanzienlijke mate afbreuk doet aan de mededinging.
 
@@ -134,23 +162,23 @@ Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autori
 
 3. De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44).
 
-#### Artikel 10
+##### Artikel 10
 
 [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01) geldt niet voor overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel die rechtstreeks verbonden zijn aan een concentratie als bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2025-09-01&g=2025-09-01), en noodzakelijk zijn voor de verwezenlijking van de desbetreffende concentratie.
 
 #### § 3. Informatievoorziening, sturing en toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), waarbij ten minste een onderneming of ondernemersvereniging betrokken is die bij wettelijk voorschrift of door een bestuursorgaan is belast met het beheer van diensten van algemeen economisch belang, geldt [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), voor zover de toepassing van dat artikel de vervulling van de aan die onderneming of ondernemersvereniging toevertrouwde bijzondere taak niet verhindert.
 
 #### § 3. Vrijstellingen
 
-#### Artikel 12
+##### Artikel 12
 
 [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor krachtens een verordening van de Raad van de Europese Unie of een verordening van de Europese Commissie artikel 101, eerste lid, van het Verdrag buiten toepassing is verklaard.
 
-#### Artikel 13
+##### Artikel 13
 
 1. [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen die de handel tussen de lid-staten van de Europese Unie niet ongunstig kunnen beïnvloeden of waardoor de mededinging binnen de gemeenschappelijke markt niet wordt verhinderd, beperkt of vervalst doch die, indien dat wel het geval zou zijn, zouden zijn vrijgesteld krachtens een verordening als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=3&artikel=12&z=2025-09-01&g=2025-09-01).
 
@@ -160,11 +188,11 @@ Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste 
 
 4. De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44).
 
-#### Artikel 14
+##### Artikel 14
 
 [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), geldt niet voor overeenkomsten tussen ondernemingen, besluiten van ondernemersverenigingen en onderling afgestemde feitelijke gedragingen van ondernemingen waarvoor een op grond van artikel 101, derde lid, van het Verdrag verleende ontheffing geldt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij algemene maatregel van bestuur kan worden bepaald, zo nodig onder voorschriften en beperkingen, dat [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), niet geldt voor in die maatregel omschreven categorieën van overeenkomsten, besluiten en gedragingen als bedoeld in dat artikel, die bijdragen tot verbetering van de produktie of van de distributie of tot bevordering van de technische of economische vooruitgang, mits een billijk aandeel in de daaruit voortvloeiende voordelen de gebruikers ten goede komt, en zonder nochtans aan de betrokken ondernemingen
 
@@ -178,7 +206,7 @@ Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste 
 
 4. De beschikking treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44).
 
-#### Artikel 16
+##### Artikel 16
 
 [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), geldt niet voor:
 
@@ -190,31 +218,31 @@ Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste 
 
 #### § 4. Ontheffingen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
@@ -222,13 +250,13 @@ Vervallen
 
 #### § 2. Uitzondering in verband met het vervullen van bijzondere taken
 
-#### Artikel 24
+##### Artikel 24
 
 Het is ondernemingen verboden misbruik te maken van een economische machtspositie.
 
 #### § 1. Verbod van misbruik van economische machtsposities
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor zover de toepassing van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-09-01&g=2025-09-01), de vervulling van bij wettelijk voorschrift of door een bestuursorgaan aan een onderneming opgedragen beheer van een dienst van algemeen economisch belang verhindert, kan de Autoriteit Consument en Markt op aanvraag verklaren dat [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-09-01&g=2025-09-01), niet van toepassing is op een daarbij aangewezen gedraging.
 
@@ -236,7 +264,7 @@ Het is ondernemingen verboden misbruik te maken van een economische machtspositi
 
 ### Hoofdstuk 4a. Financiële transparantie binnen bepaalde ondernemingen
 
-#### Artikel 25a
+##### Artikel 25a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -254,7 +282,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - d. verschillende activiteiten: enerzijds producten of diensten met betrekking tot welke aan een onderneming een bijzonder of uitsluitend recht is verleend, of alle diensten van algemeen economisch belang waarmee een onderneming is belast en, anderzijds, elk ander afzonderlijk product met betrekking tot hetwelk of elke andere afzonderlijke dienst met betrekking tot welke de onderneming werkzaam is.
 
-#### Artikel 25b
+##### Artikel 25b
 
 1. Ondernemingen waaraan overeenkomstig artikel 106, eerste lid, van het Verdrag een bijzonder of uitsluitend recht is verleend of die overeenkomstig artikel 106, tweede lid, van het Verdrag met het beheer van een dienst van algemeen economisch belang zijn belast en met betrekking tot deze dienst in enigerlei vorm compensatie ontvangen, en die verschillende activiteiten uitvoeren, houden een zodanige administratie bij dat:
 
@@ -266,11 +294,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 2. De onderneming bewaart de in het eerste lid, onderdelen a, b en c, bedoelde gegevens gedurende vijf jaar, gerekend vanaf het einde van het boekjaar waarop de gegevens betrekking hebben.
 
-#### Artikel 25c
+##### Artikel 25c
 
 [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2025-09-01&g=2025-09-01), is niet van toepassing op activiteiten die onder de toepassing vallen van specifieke door de Europese Unie vastgestelde bepalingen inzake een gescheiden administratie, andere dan die van de richtlijn.
 
-#### Artikel 25d
+##### Artikel 25d
 
 1. [Artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2025-09-01&g=2025-09-01), is voorts niet van toepassing op:
 
@@ -284,11 +312,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Het in het eerste lid, onderdeel b, en het in het tweede lid genoemde bedrag kunnen bij regeling van Onze Minister worden gewijzigd indien de wijziging voortvloeit uit een bindend besluit van een orgaan van de Europese Unie.
 
-#### Artikel 25e
+##### Artikel 25e
 
 Indien de Europese Commissie verzoekt om terbeschikkingstelling van gegevens als bedoeld in [artikel 25b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2025-09-01&g=2025-09-01), verstrekt de onderneming die dit aangaat, de Autoriteit Consument en Markt op diens verzoek binnen de door haar gestelde termijn de desbetreffende gegevens. De Autoriteit Consument en Markt doet de gegevens toekomen aan de Europese Commissie.
 
-#### Artikel 25f
+##### Artikel 25f
 
 Indien de goede uitvoering van de richtlijn dat vereist, kunnen bij regeling van Onze Minister nadere regels worden gesteld inzake de toepassing van dit hoofdstuk.
 
@@ -296,11 +324,11 @@ Indien de goede uitvoering van de richtlijn dat vereist, kunnen bij regeling van
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Voor de toepassing van dit hoofdstuk wordt onder zeggenschap verstaan de mogelijkheid om op grond van feitelijke of juridische omstandigheden een beslissende invloed uit te oefenen op de activiteiten van een onderneming.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Onder een concentratie wordt verstaan:
 
@@ -314,7 +342,7 @@ Voor de toepassing van dit hoofdstuk wordt onder zeggenschap verstaan de mogelij
 
 2. De totstandbrenging van een gemeenschappelijke onderneming die duurzaam alle functies van een zelfstandige economische eenheid vervult, is een concentratie in de zin van het eerste lid, onder b.
 
-#### Artikel 28
+##### Artikel 28
 
 1. In afwijking van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=1&artikel=27&z=2025-09-01&g=2025-09-01) wordt niet als concentratie beschouwd:
 
@@ -338,7 +366,7 @@ Voor de toepassing van dit hoofdstuk wordt onder zeggenschap verstaan de mogelij
 
 #### § 2. Toepassingsbereik concentratietoezicht
 
-#### Artikel 29
+##### Artikel 29
 
 1. De bepalingen van dit hoofdstuk zijn van toepassing op concentraties waarbij de gezamenlijke omzet van de betrokken ondernemingen in het voorafgaande kalenderjaar meer bedroeg dan € 150.000.000, waarvan door ten minste twee van de betrokken ondernemingen ieder ten minste € 30 000 000 in Nederland is behaald.
 
@@ -348,7 +376,7 @@ Voor de toepassing van dit hoofdstuk wordt onder zeggenschap verstaan de mogelij
 
 4. In afwijking van het eerste lid zijn voor pensioenfondsen in de zin van de [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809) de bepalingen van dit hoofdstuk van toepassing op concentraties waarbij de gezamenlijke waarde van de bruto geboekte premies van de betrokken ondernemingen in het voorafgaande kalenderjaar meer bedroeg dan € 500.000.000 en daarvan door ten minste twee van de betrokken ondernemingen ieder ten minste € 100.000.000 is ontvangen van Nederlandse ingezetenen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De berekening van de omzet, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2025-09-01&g=2025-09-01), geschiedt op de voet van het bepaalde in [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377) voor de netto-omzet.
 
@@ -384,7 +412,7 @@ Twee of meer verwervingen als bedoeld in de eerste volzin die binnen een periode
 
 5. Voor de berekening van de gezamenlijke omzet van de betrokken ondernemingen, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2025-09-01&g=2025-09-01), worden transacties tussen de in het derde lid bedoelde ondernemingen buiten beschouwing gelaten.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2025-09-01&g=2025-09-01), wordt ten aanzien van banken en financiële instellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) de omzet vervangen door de som van de volgende, overeenkomstig de regels op grond van [artikel 417 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=417), op de winst- en verliesrekening over het voorafgaande boekjaar opgenomen baten:
 
@@ -402,33 +430,33 @@ na aftrek van de belasting over de toegevoegde waarde en andere rechtstreeks met
 
 2. Voor verzekeraars in de zin van de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) en premiepensioeninstellingen in de zin van de Wet op het financieel toezicht wordt voor de toepassing van [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2025-09-01&g=2025-09-01), de omzet vervangen door de waarde van de bruto geboekte premies. De in artikel 29, eerste lid, omschreven omzet behaald in Nederland dient berekend te worden op basis van de bruto geboekte premies die zijn ontvangen van Nederlandse ingezetenen.
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het is verboden een concentratie tot stand te brengen voordat het voornemen daartoe aan de Autoriteit Consument en Markt is gemeld en vervolgens vier weken zijn verstreken.
 
 2. Geen melding kan worden gedaan indien een goedkeuring voor een concentratie als bedoeld in [artikel 49a, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=49a), dan wel een ontheffing als bedoeld in artikel 49d van die wet, ontbreekt.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Bij een melding worden de bij ministeriële regeling aangewezen gegevens verstrekt. [Artikel 4:4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4) is van overeenkomstige toepassing.
 
 2. Indien niet is voldaan aan het eerste lid of indien de verstrekte gegevens onvoldoende zijn voor de beoordeling van een melding, kan de Autoriteit Consument en Markt van de bij de concentratie betrokken partijen, aanvulling van de melding verlangen.
 
-#### Artikel 36
+##### Artikel 36
 
 Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig mogelijk mededeling gedaan in de **Staatscourant**.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De Autoriteit Consument en Markt deelt binnen vier weken na het ontvangen van een melding mede of voor het tot stand brengen van de concentratie, waarop die melding betrekking heeft, een vergunning is vereist.
 
@@ -444,7 +472,7 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 7. Van een mededeling van de Autoriteit Consument en Markt als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien niet is voldaan aan [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=35&z=2025-09-01&g=2025-09-01), en de Autoriteit Consument en Markt binnen vijf werkdagen na de dag van ontvangst van de melding, degene die de melding heeft gedaan, heeft verzocht om toezending van de ontbrekende gegevens of documenten, vangt de in de [artikelen 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2025-09-01&g=2025-09-01), en [37, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2025-09-01&g=2025-09-01), bedoelde termijn van vier weken aan op de dag waarop die gegevens of documenten alsnog zijn verstrekt.
 
@@ -454,7 +482,7 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 4. Een melding geldt als niet gedaan indien de in het tweede lid bedoelde aanvulling van gegevens niet heeft plaatsgevonden binnen zes maanden na de datum waarop het laatste verzoek tot aanvulling is gedaan en de termijn niet ingevolge het derde lid is opgeschort.
 
-#### Artikel 39
+##### Artikel 39
 
 1. [Artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2025-09-01&g=2025-09-01), is niet van toepassing in geval van een openbaar overnamebod of een reeks van transacties met effecten, gericht op het van meerdere verkopers verkrijgen van een deelname in het kapitaal van een onderneming, mits de concentratie onverwijld aan de Autoriteit Consument en Markt wordt gemeld, en de verkrijger de aan de deelname in het kapitaal verbonden stemrechten niet uitoefent.
 
@@ -466,7 +494,7 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 3. De Autoriteit Consument en Markt kan, op verzoek van degene die een melding heeft gedaan als bedoeld in het eerste lid, bepalen dat, in afwijking van het eerste lid, de in dat lid bedoelde stemrechten mogen worden uitgeoefend om de volle waarde van diens belegging te handhaven.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Autoriteit Consument en Markt kan om gewichtige redenen op verzoek van degene die een melding heeft gedaan, ontheffing verlenen van het in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2025-09-01&g=2025-09-01), gestelde verbod.
 
@@ -480,7 +508,7 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het is verboden zonder vergunning een concentratie tot stand te brengen waarvoor ingevolge [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2025-09-01&g=2025-09-01) een vergunning is vereist.
 
@@ -490,7 +518,7 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 4. Een vergunning kan onder beperkingen worden verleend; aan een vergunning kunnen voorschriften worden verbonden.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Een aanvraag om vergunning wordt ingediend bij de Autoriteit Consument en Markt.
 
@@ -498,11 +526,11 @@ Van een ontvangen melding wordt door de Autoriteit Consument en Markt zo spoedig
 
 3. Van een ontvangen aanvraag wordt door de Autoriteit Consument en Markt zo spoedig mogelijk mededeling gedaan in de **Staatscourant**.
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 1. De Autoriteit Consument en Markt geeft haar beschikking op de aanvraag binnen dertien weken na ontvangst van die aanvraag. Het niet binnen dertien weken geven van een beschikking wordt gelijkgesteld met het verlenen van een vergunning.
 
@@ -510,11 +538,11 @@ Vervallen
 
 3. Van de beschikking wordt mededeling gedaan in de **Staatscourant**.
 
-#### Artikel 45
+##### Artikel 45
 
 De Autoriteit Consument en Markt kan een vergunning intrekken indien de verstrekte gegevens zodanig onjuist waren dat op de aanvraag anders zou zijn beslist als de juiste gegevens wel bekend zouden zijn geweest.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De Autoriteit Consument en Markt kan om gewichtige redenen op verzoek van degene die een vergunning heeft aangevraagd, ontheffing verlenen van het in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2025-09-01&g=2025-09-01), gestelde verbod tot op die aanvraag onherroepelijk is beslist.
 
@@ -524,7 +552,7 @@ De Autoriteit Consument en Markt kan een vergunning intrekken indien de verstrek
 
 4. Indien de vergunning onder beperkingen wordt verleend of daaraan voorschriften worden verbonden, dient de concentratie, voor zover deze dan reeds is tot stand gebracht, binnen dertien weken daarmee in overeenstemming te worden gebracht.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Onze Minister kan, nadat de Autoriteit Consument en Markt een vergunning voor het tot stand brengen van een concentratie heeft geweigerd, op een daartoe strekkende aanvraag besluiten die vergunning te verlenen indien naar zijn oordeel gewichtige redenen van algemeen belang die zwaarder wegen dan de te verwachten belemmering van de mededinging, daartoe nopen.
 
@@ -532,11 +560,11 @@ De Autoriteit Consument en Markt kan een vergunning intrekken indien de verstrek
 
 3. Indien een aanvraag als bedoeld in het eerste lid is gedaan wordt de behandeling van beroepschriften inzake de beschikking van de Autoriteit Consument en Markt opgeschort, totdat op die aanvraag onherroepelijk is beslist.
 
-#### Artikel 48
+##### Artikel 48
 
 Bij ministeriële regeling kan worden bepaald welke gegevens bij een tot Onze Minister gerichte aanvraag om een vergunning dienen te worden verstrekt.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Onze Minister geeft zijn beschikking op een aanvraag, in overeenstemming met het gevoelen van de ministerraad, binnen twaalf weken na ontvangst van die aanvraag.
 
@@ -546,13 +574,13 @@ Bij ministeriële regeling kan worden bepaald welke gegevens bij een tot Onze Mi
 
 #### § 4. Vergunningen
 
-#### Artikel 50
+##### Artikel 50
 
 1. De in [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) bedoelde ambtenaren zijn bevoegd een woning zonder toestemming van de bewoner te doorzoeken, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
 2. Zo nodig oefenen zij de bevoegdheid tot doorzoeken uit met behulp van de sterke arm.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Voor het doorzoeken, bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&artikel=50&z=2025-09-01&g=2025-09-01), is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.
 
@@ -564,7 +592,7 @@ Bij ministeriële regeling kan worden bepaald welke gegevens bij een tot Onze Mi
 
 #### § 2. Onderzoek
 
-#### Artikel 52
+##### Artikel 52
 
 1. Een machtiging als bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&artikel=51&z=2025-09-01&g=2025-09-01), is met redenen omkleed en ondertekend en vermeldt:
 
@@ -580,7 +608,7 @@ Bij ministeriële regeling kan worden bepaald welke gegevens bij een tot Onze Mi
 
 3. De machtiging blijft ten hoogste van kracht tot en met de derde dag na die waarop zij is gegeven.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De ambtenaar die een doorzoeking als bedoeld in [artikel 50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&artikel=50&z=2025-09-01&g=2025-09-01), heeft verricht, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent de doorzoeking.
 
@@ -604,11 +632,11 @@ Bij ministeriële regeling kan worden bepaald welke gegevens bij een tot Onze Mi
 
 4. Een afschrift van het verslag wordt uiterlijk op de vierde dag na die waarop de doorzoeking is beëindigd, aan degene bij wie de doorzoeking is verricht, uitgereikt of toegezonden. Indien het doel waartoe is doorzocht daartoe noodzaakt, kan deze uitreiking of toezending worden uitgesteld. Uitreiking of toezending geschiedt in dat geval, zodra het belang van dit doel het toestaat. Indien het niet mogelijk is het afschrift uit te reiken of toe te zenden, houdt de rechter-commissaris of de ambtenaar die de doorzoeking heeft verricht, het afschrift gedurende zes maanden beschikbaar voor degene bij wie de doorzoeking is verricht.
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
@@ -616,7 +644,7 @@ Vervallen
 
 #### § 1. Bestuurlijke boete en last onder dwangsom
 
-#### Artikel 56
+##### Artikel 56
 
 Ingeval van overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), of van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-09-01&g=2025-09-01), kan de Autoriteit Consument en Markt de overtreder:
 
@@ -626,7 +654,7 @@ Ingeval van overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/j
 
 - c. een last onder dwangsom opleggen.
 
-#### Artikel 57
+##### Artikel 57
 
 1. De bestuurlijke boete bedraagt ten hoogste € 900.000 of, indien dat meer is, ten hoogste 10% van de omzet van de onderneming, dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken en actief zijn op de markt die de gevolgen van de inbreuk door de vereniging ondervindt.
 
@@ -642,37 +670,37 @@ Ingeval van overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/j
 
 5. Het bedrag van de bestuurlijke boete die ingevolge het eerste en derde lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
 #### § 2. Procedure
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 #### § 1. Toezicht
 
-#### Artikel 62
+##### Artikel 62
 
 1. De termijn, genoemd in [artikel 5:51, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:51) kan worden opgeschort met dertig dagen.
 
 2. Van de opschorting wordt mededeling gedaan aan de overtreder.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 1. De vervaltermijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) wordt telkens gestuit door een handeling van de Autoriteit Consument en Markt ter verrichting van een onderzoek of procedure met betrekking tot de overtreding, alsmede door een dergelijke handeling van de Europese Commissie of van een mededingingsautoriteit van een andere lidstaat van de Europese Unie met betrekking tot een overtreding van de artikelen 101 en 102 van het Verdrag.
 
@@ -686,23 +714,23 @@ Vervallen
 
 6. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op de vervaltermijn, bedoeld in [artikel 12r, derde lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12r).
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
 #### § 1. Bestuurlijke boete en last onder dwangsom
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
 #### § 5. Invordering van de boete
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
@@ -710,17 +738,17 @@ Vervallen
 
 #### § 1. Overtredingen medewerkingsplicht
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
 #### § 1a. Boete-immuniteit of boetereductie
 
-#### Artikel 70a
+##### Artikel 70a
 
 1. De Autoriteit Consument en Markt kan ingeval van overtreding van [artikel 25b, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25b&z=2025-09-01&g=2025-09-01), of van [artikel 25e, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4a&artikel=25e&z=2025-09-01&g=2025-09-01), de overtreder:
 
@@ -732,23 +760,23 @@ Vervallen
 
 #### § 1a. Boete-immuniteit of boetereductie
 
-#### Artikel 71
+##### Artikel 71
 
 1. Indien op grond van [artikel 40, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=40&z=2025-09-01&g=2025-09-01), of van [artikel 46, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=46&z=2025-09-01&g=2025-09-01), aan een ontheffing als in het desbetreffende artikel bedoeld verbonden voorschriften niet worden nageleefd, kan de Autoriteit Consument en Markt de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 10% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken.
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 1. De Autoriteit Consument en Markt kan degene die onjuiste of onvolledige gegevens verstrekt bij een melding van een concentratie op grond van [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=34&z=2025-09-01&g=2025-09-01), of bij een aanvraag om een vergunning voor het tot stand brengen van een concentratie als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2025-09-01&g=2025-09-01), een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken.
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De Autoriteit Consument en Markt kan ingeval van overtreding van:
 
@@ -768,7 +796,7 @@ Vervallen
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Indien op grond van [artikel 37, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=3&artikel=37&z=2025-09-01&g=2025-09-01), opgelegde voorwaarden niet worden nageleefd of op grond van [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=4&artikel=41&z=2025-09-01&g=2025-09-01) aan een vergunning verbonden voorschriften niet worden nageleefd, kan de Autoriteit Consument en Markt de overtreder:
 
@@ -778,91 +806,91 @@ Vervallen
 
 2. De bestuurlijke boete die ingevolge het eerste lid ten hoogste kan worden opgelegd wordt verhoogd met 100%, indien binnen een tijdvak van vijf jaar voorafgaand aan de dagtekening van het van de overtreding opgemaakte rapport, bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48), een aan die overtreder voor een eerdere overtreding van eenzelfde of een soortgelijk wettelijk voorschrift opgelegde bestuurlijke boete onherroepelijk is geworden.
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
 #### § 3. Beschikkingen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 1. De vervaltermijn, bedoeld in [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) wordt voor twee jaren gestuit door het instellen van een onderzoek met betrekking tot een overtreding.
 
 2. De stuiting van de vervaltermijn gaat in op de dag waarop tenminste één onderneming of ondernemersvereniging die aan de overtreding heeft deelgenomen, dan wel één van degenen, bedoeld in [artikel 51, tweede lid, onder 2° van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=51), van de handeling schriftelijk in kennis wordt gesteld.
 
-#### Artikel 82a
+##### Artikel 82a
 
 Vervallen
 
 ### Hoofdstuk 8. Overige overtredingen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
 ### Hoofdstuk 10. Toepassing van de EG-mededingingsregels
 
-#### Artikel 88
+##### Artikel 88
 
 De Autoriteit Consument en Markt wordt aangemerkt als de mededingingsautoriteit voor Nederland in de zin van [verordening 1/2003](32003R0001) en als bevoegde autoriteit in de zin van [verordening 139/2004](32004R0139) en oefent de krachtens de verordeningen op grond van artikel 103 van het Verdrag bestaande bevoegdheid uit om de artikelen 101 en 102 van het Verdrag toe te passen, alsmede de krachtens artikel 104 van het Verdrag bestaande bevoegdheid om te beslissen over de toelaatbaarheid van mededingingsafspraken en over het misbruik maken van een machtspositie op de gemeenschappelijke markt.
 
-#### Artikel 89
+##### Artikel 89
 
 Ter zake van de uitoefening van de in [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2025-09-01&g=2025-09-01) bedoelde bevoegdheden zijn de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2025-09-01&g=2025-09-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&z=2025-09-01&g=2025-09-01) van overeenkomstige toepassing.
 
 ### Hoofdstuk 8. Overige overtredingen
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
 ### Hoofdstuk 12. Rechtsbescherming
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 93
+##### Artikel 93
 
 1. Een consumentenorganisatie wordt geacht belanghebbende te zijn bij besluiten genomen op grond van deze wet.
 
@@ -870,65 +898,65 @@ Vervallen
 
 ### Hoofdstuk 13. Wijzigingen in andere wetten
 
-#### Artikel 94
+##### Artikel 94
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 95
+##### Artikel 95
 
 De Wet economische mededinging wordt ingetrokken.
 
-#### Artikel 96
+##### Artikel 96
 
 Wijzigt de Wet op de inkomstenbelasting 1964.
 
-#### Artikel 97
+##### Artikel 97
 
 Wijzigt de Wet vervoer over zee.
 
-#### Artikel 98
+##### Artikel 98
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel 99
+##### Artikel 99
 
 Wijzigt de Wet op de Raad van State.
 
 ### Hoofdstuk 12. Rechtsbescherming
 
-#### Artikel 100
+##### Artikel 100
 
 1. Voor de toepassing van [verordening (EEG) nr. 4064/89](31989R4064) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](32004R0139), is [artikel 88](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=88&z=2025-09-01&g=2025-09-01) van overeenkomstige toepassing.
 
 2. Voor de toepassing van artikel 12, eerste lid, of artikel 13, vijfde en zesde lid, van [verordening (EEG) nr. 4064/89](31989R4064) van de Raad van de Europese Gemeenschappen van 21 december 1989 betreffende de controle op concentraties van ondernemingen (PbEG 1990, L 257) ingevolge artikel 26, tweede lid, van [verordening 139/2004](32004R0139), zijn onderscheidenlijk [artikel 89g](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89g&z=2025-09-01&g=2025-09-01) of de [artikelen 89b](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89b&z=2025-09-01&g=2025-09-01), [89c](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2025-09-01&g=2025-09-01), [89e](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89e&z=2025-09-01&g=2025-09-01) en [89f](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89f&z=2025-09-01&g=2025-09-01) van overeenkomstige toepassing.
 
-#### Artikel 101
+##### Artikel 101
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 Vervallen
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
-#### Artikel 105
+##### Artikel 105
 
 Vervallen
 
-#### Artikel 106
+##### Artikel 106
 
 De straffen en maatregelen, gesteld op overtredingen van voorschriften gesteld bij of krachtens de Wet economische mededinging, die een economisch delict opleveren en die zijn begaan voor het tijdstip waarop [artikel 94](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=13&artikel=94&z=2025-09-01&g=2025-09-01) in werking treedt, blijven van toepassing.
 
 ### Hoofdstuk 15. Slotbepalingen
 
-#### Artikel 107
+##### Artikel 107
 
 1. De hoofdstukken van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende hoofdstukken of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -936,21 +964,21 @@ De straffen en maatregelen, gesteld op overtredingen van voorschriften gesteld b
 
 3. [Artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=32&z=2025-09-01&g=2025-09-01) vervalt twee jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 108
+##### Artikel 108
 
 Wijzigt deze wet.
 
-#### Artikel 109
+##### Artikel 109
 
 Wijzigt deze wet.
 
-#### Artikel 110
+##### Artikel 110
 
 Deze wet wordt aangehaald als: Mededingingswet.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 89a
+##### Artikel 89a
 
 1. De Autoriteit Consument en Markt oefent de krachtens [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5&paragraaf=2&artikel=29&z=2025-09-01&g=2025-09-01), van [verordening 1/2003](32003R0001) bestaande bevoegdheid uit tot het buiten toepassing verklaren van een groepsvrijstelling.
 
@@ -958,7 +986,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Een beschikking op grond van het eerste lid treedt niet eerder in werking dan zes weken na de datum van haar terinzagelegging overeenkomstig [artikel 3:44, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:44).
 
-#### Artikel 89b
+##### Artikel 89b
 
 1. Met het verlenen van bijstand bij een inspectie op grond van een mededingingsverordening door de Europese Commissie, zijn belast de krachtens [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) aangewezen ambtenaren.
 
@@ -966,7 +994,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. Bij verzet tegen een inspectie door de Europese Commissie, verlenen de aangewezen ambtenaren de nodige bijstand om de Europese Commissie in staat te stellen de inspectie te verrichten, zo nodig met behulp van de sterke arm.
 
-#### Artikel 89c
+##### Artikel 89c
 
 1. Voor het verlenen van de nodige bijstand indien een onderneming of ondernemersvereniging zich verzet tegen een inspectie op grond van een mededingingsverordening door de Europese Commissie is voor zover de inspectie een doorzoeking omvat, een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.
 
@@ -976,7 +1004,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. De rechter-commissaris kan bij de inspectie aanwezig zijn.
 
-#### Artikel 89d
+##### Artikel 89d
 
 1. Voor het uitvoeren van een inspectie als bedoeld in artikel 21, eerste lid, van [verordening 1/2003](32003R0001) door de Europese Commissie in andere gebouwen, terreinen en vervoermiddelen dan die van ondernemingen en ondernemersverenigingen, waaronder de woningen van directeuren, bestuurders en andere personeelsleden, is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging wordt zo mogelijk getoond.
 
@@ -988,7 +1016,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) en [8 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=8).
 
-#### Artikel 89e
+##### Artikel 89e
 
 1. Een machtiging als bedoeld in [artikel 89c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89c&z=2025-09-01&g=2025-09-01), of [artikel 89d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=10&artikel=89d&z=2025-09-01&g=2025-09-01), is met redenen omkleed en ondertekend en vermeldt:
 
@@ -1006,7 +1034,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van [artikel 6 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=6).
 
-#### Artikel 89f
+##### Artikel 89f
 
 1. De ambtenaar die bijstand heeft verleend bij een inspectie in een woning of bij een doorzoeking van een andere plaats dan een woning, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent de inspectie.
 
@@ -1034,21 +1062,21 @@ Uitreiking of toezending geschiedt in dat geval, zodra het belang van dit doel h
 
 5. Voor zover het een inspectie in een woning betreft, geldt dit artikel in afwijking van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10) en [11 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=11).
 
-#### Artikel 89g
+##### Artikel 89g
 
 1. Met het verrichten van een inspectie op grond van een mededingingsverordening door de Autoriteit Consument en Markt op verzoek van de Europese Commissie of op verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie, zijn belast de krachtens [artikel 12a, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) aangewezen ambtenaren.
 
 2. De aangewezen ambtenaren beschikken voor het verrichten van de inspectie over de bevoegdheden die hun ingevolge [hoofdstuk 3, paragraaf 1, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&paragraaf=1) en [hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&z=2025-09-01&g=2025-09-01) zijn toegekend ter uitoefening van het toezicht op de naleving.
 
-#### Artikel 89h
+##### Artikel 89h
 
 Vervallen
 
-#### Artikel 89i
+##### Artikel 89i
 
 Vervallen
 
-#### Artikel 89j
+##### Artikel 89j
 
 Vervallen
 
@@ -1064,27 +1092,27 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1. Algemeen
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
-#### Artikel 4b
+##### Artikel 4b
 
 Vervallen
 
 #### § 1. Verbod van mededingingsafspraken
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Onze Minister kan de Autoriteit Consument en Markt opdragen werkzaamheden te verrichten in het kader van de uitvoering van regelgeving op het gebied van de mededinging op grond van het Verdrag, voor zover daarin niet reeds bij of krachtens de wet is voorzien, alsmede werkzaamheden op het gebied van de mededinging in verband met andere verdragen of internationale afspraken.
 
 2. Onze Minister kan de Autoriteit Consument en Markt instructies geven met betrekking tot het verrichten van de in het eerste lid bedoelde werkzaamheden, alsmede met betrekking tot het door de Autoriteit Consument en Markt in te nemen standpunt in een adviescomité als bedoeld in artikel 14, tweede lid, van [verordening 1/2003](onbekend) en artikel 19, vierde lid, van [verordening 139/2004](onbekend), met dien verstande dat een instructie inzake een standpunt in een adviescomité geen betrekking heeft op de mededingingsaspecten van een individueel geval.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. Onze Minister kan, al dan niet op verzoek van een van Onze andere Ministers, de Autoriteit Consument en Markt opdragen een rapportage uit te brengen inzake de effecten voor de mededinging van voorgenomen of geldende regelgeving of van een voorgenomen of een geldend besluit.
 
@@ -1094,39 +1122,39 @@ Vervallen
 
 4. Op verzoek van een of beide Kamers van de Staten-Generaal brengt de Autoriteit Consument en Markt met tussenkomst van Onze Minister een rapportage uit aan de beide Kamers der Staten-Generaal. Onze Minister zendt de rapportage onverwijld naar de beide Kamers der Staten-Generaal. Onze Minister kan de rapportage doen vergezellen van zijn bevindingen.
 
-#### Artikel 5d
+##### Artikel 5d
 
 Beleidsregels met betrekking tot de uitoefening van de in deze wet aan de Autoriteit Consument en Markt toegekende bevoegdheden kunnen betrekking hebben of mede betrekking hebben op de wijze waarop de Autoriteit Consument en Markt bij toepassing van [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2014-01-25&g=2014-01-25), andere belangen dan economische belangen in haar afweging moet betrekken.
 
-#### Artikel 5e
+##### Artikel 5e
 
 Vervallen
 
-#### Artikel 5f
+##### Artikel 5f
 
 Vervallen
 
-#### Artikel 5g
+##### Artikel 5g
 
 Vervallen
 
-#### Artikel 5h
+##### Artikel 5h
 
 Vervallen
 
-#### Artikel 5i
+##### Artikel 5i
 
 Vervallen
 
-#### Artikel 5j
+##### Artikel 5j
 
 Vervallen
 
-#### Artikel 5k
+##### Artikel 5k
 
 Vervallen
 
-#### Artikel 5l
+##### Artikel 5l
 
 1. De raad legt voorgenomen beleidsregels ten minste vier weken voor vaststelling daarvan aan Onze Minister voor.
 
@@ -1164,7 +1192,7 @@ Vervallen
 
 #### § 2. Onderzoek
 
-#### Artikel 54a
+##### Artikel 54a
 
 De werkzaamheden in verband met het opleggen van een bestuurlijke boete of een last onder dwangsom worden verricht door personen die niet betrokken zijn geweest bij de opstelling van het in [artikel 59, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=7&paragraaf=2&artikel=59&z=2014-01-25&g=2014-01-25), onderscheidenlijk [77, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=8&paragraaf=3&artikel=77&z=2014-01-25&g=2014-01-25), bedoelde rapport en het daaraan voorafgaande onderzoek.
 
@@ -1194,11 +1222,11 @@ De werkzaamheden in verband met het opleggen van een bestuurlijke boete of een l
 
 ### Hoofdstuk 12a. Bijdragen
 
-#### Artikel 93a
+##### Artikel 93a
 
 Vervallen
 
-#### Artikel 93b
+##### Artikel 93b
 
 Vervallen
 
@@ -1216,7 +1244,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 2. Onderzoek
 
-#### Artikel 55a
+##### Artikel 55a
 
 1. Voor het betreden of het doorzoeken, bedoeld in [artikel 55, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=55&z=2014-01-25&g=2014-01-25), is een voorafgaande machtiging vereist van de rechter-commissaris, belast met de behandeling van strafzaken bij de rechtbank Rotterdam. De machtiging kan bij wijze van voorzorgsmaatregel worden gevraagd. De machtiging wordt zo mogelijk getoond.
 
@@ -1228,7 +1256,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-#### Artikel 55b
+##### Artikel 55b
 
 1. Een machtiging als bedoeld in [artikel 55a](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=55a&z=2014-01-25&g=2014-01-25) is met redenen omkleed en ondertekend en vermeldt:
 
@@ -1248,7 +1276,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. [Artikel 6 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=6) is niet van toepassing.
 
-#### Artikel 55c
+##### Artikel 55c
 
 1. De ambtenaar die is binnengetreden of een doorzoeking als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&paragraaf=2&artikel=55&z=2014-01-25&g=2014-01-25) heeft verricht, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent het binnentreden of de doorzoeking.
 
@@ -1276,7 +1304,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 7. Overtredingen verbod van mededingingsafspraken en verbod van misbruik van een economische machtspositie
 
-#### Artikel 58a
+##### Artikel 58a
 
 1. De last onder dwangsom kan worden opgelegd in de vorm van een corrigerende structurele maatregel als bedoeld in artikel 10, eerste lid, van richtlijn (EU) 2019/1, indien die maatregel evenredig is aan de gepleegde overtreding en noodzakelijk is om aan de overtreding daadwerkelijk een einde te maken.
 
@@ -1286,7 +1314,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1. Bestuurlijke boete, last onder dwangsom en bindende aanwijzing
 
-#### Artikel 59a
+##### Artikel 59a
 
 Vervallen
 
@@ -1294,7 +1322,7 @@ Vervallen
 
 #### § 1. Overtredingen medewerkingsplicht
 
-#### Artikel 68a
+##### Artikel 68a
 
 Vervallen
 
@@ -1306,7 +1334,7 @@ Vervallen
 
 #### § 2. Overtredingen concentratietoezicht
 
-#### Artikel 75a
+##### Artikel 75a
 
 Vervallen
 
@@ -1314,7 +1342,7 @@ Vervallen
 
 #### § 2b. Overtreding gebruik van gegevens
 
-#### Artikel 77a
+##### Artikel 77a
 
 Vervallen
 
@@ -1336,19 +1364,19 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 49a
+##### Artikel 49a
 
 Vervallen
 
-#### Artikel 49b
+##### Artikel 49b
 
 Vervallen
 
-#### Artikel 49c
+##### Artikel 49c
 
 Vervallen
 
-#### Artikel 49d
+##### Artikel 49d
 
 Vervallen
 
@@ -1372,7 +1400,7 @@ Vervallen
 
 #### § 1b. Overtreding verzegeling
 
-#### Artikel 70b
+##### Artikel 70b
 
 Vervallen
 
@@ -1380,7 +1408,7 @@ Vervallen
 
 #### § 1c. Overtredingen van verplichtingen aangaande overheden en overheidsbedrijven
 
-#### Artikel 76a
+##### Artikel 76a
 
 Vervallen
 
@@ -1424,7 +1452,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 3. Procedure
 
-#### Artikel 82b
+##### Artikel 82b
 
 Vervallen
 
@@ -1440,7 +1468,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 25g
+##### Artikel 25g
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder overheidsbedrijf:
 
@@ -1458,7 +1486,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - d. in andere gevallen, voor zover bij algemene maatregel van bestuur bepaald.
 
-#### Artikel 25h
+##### Artikel 25h
 
 1. Dit hoofdstuk is niet van toepassing op:
 
@@ -1482,7 +1510,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 6. De vaststelling of economische activiteiten of een bevoordeling plaatsvinden respectievelijk plaatsvindt in het algemeen belang geschiedt voor provincies, gemeenten en waterschappen door provinciale staten, de gemeenteraad respectievelijk het algemeen bestuur en voor het Rijk en voor zelfstandige bestuursorganen als bedoeld in [artikel 1, onderdeel a, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=1) door de minister die het aangaat.
 
-#### Artikel 25i
+##### Artikel 25i
 
 1. Een bestuursorgaan dat economische activiteiten verricht, brengt de afnemers van een product of dienst ten minste de integrale kosten van dat product of die dienst in rekening.
 
@@ -1498,7 +1526,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Op verzoek van de Autoriteit Consument en Markt toont een bestuursorgaan aan dat het heeft voldaan aan de in het eerste lid bedoelde verplichting.
 
-#### Artikel 25j
+##### Artikel 25j
 
 1. Een bestuursorgaan bevoordeelt niet een overheidsbedrijf, waarbij hij in de zin van [artikel 25g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25g&z=2025-09-01&g=2025-09-01), is betrokken, boven andere ondernemingen waarmee dat overheidsbedrijf in concurrentie treedt en kent evenmin een dergelijk overheidsbedrijf anderszins voordelen toe die verder gaan dan in het normale handelsverkeer gebruikelijk is.
 
@@ -1516,15 +1544,15 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - c. op economische activiteiten die worden verricht door een onderneming die belast is met de uitvoering van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903), voor zover op deze activiteiten [artikel 5 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=5) van toepassing is.
 
-#### Artikel 25k
+##### Artikel 25k
 
 Een bestuursorgaan gebruikt gegevens die hij heeft verkregen in het kader van de uitvoering van zijn publiekrechtelijke bevoegdheden alleen voor economische activiteiten die niet dienen ter uitvoering van de publiekrechtelijke bevoegdheden, indien deze gegevens ook aan derden beschikbaar kunnen worden gesteld.
 
-#### Artikel 25l
+##### Artikel 25l
 
 Indien een bestuursorgaan een publiekrechtelijke bevoegdheid uitoefent ten aanzien van economische activiteiten die door hetzelfde of een ander bestuursorgaan van de desbetreffende publiekrechtelijke rechtspersoon worden verricht, wordt voorkomen dat dezelfde personen betrokken kunnen zijn bij zowel de uitoefening van de bevoegdheid als bij het verrichten van de economische activiteiten.
 
-#### Artikel 25m
+##### Artikel 25m
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld inzake de toepassing van de [artikelen 25i](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25i&z=2025-09-01&g=2025-09-01) en [25j](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25j&z=2025-09-01&g=2025-09-01).
 
@@ -1556,7 +1584,7 @@ Indien een bestuursorgaan een publiekrechtelijke bevoegdheid uitoefent ten aanzi
 
 #### § 3. Procedure
 
-#### Artikel 70c
+##### Artikel 70c
 
 1. De Autoriteit Consument en Markt kan ingeval van overtreding van [artikel 25i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25i&z=2025-09-01&g=2025-09-01), [25j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25j&z=2025-09-01&g=2025-09-01), [artikel 25k](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25k&z=2025-09-01&g=2025-09-01) of [artikel 25l](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4b&artikel=25l&z=2025-09-01&g=2025-09-01):
 
@@ -1602,7 +1630,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk 4b. Overheden en overheidsbedrijven
 
-#### Artikel 25ma
+##### Artikel 25ma
 
 [Hoofdstuk 3 van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&hoofdstuk=3) is van toepassing op de handhaving van de bepalingen in dit hoofdstuk, met uitzondering van [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&paragraaf=2). en de [artikelen 12j](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12j), [12k](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12k), [12l](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12l), [12m, eerste lid, onderdelen a en b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12m), [12o](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12o) en [12v van dat hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12v).
 
@@ -1630,17 +1658,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 49e
+##### Artikel 49e
 
 1. Gegevens als bedoeld in artikel 31, vierde lid, van richtlijn (EU) 2019/1 worden door een partij uitsluitend gebruikt wanneer dat noodzakelijk is om haar rechten van verdediging uit te oefenen in een procedure bij een rechterlijke instantie die rechtstreeks verband houdt met de zaak waarvoor toegang is verleend en enkel wanneer die procedure betrekking heeft op de verdeling van een hoofdelijk opgelegde geldboete tussen deelnemers van het kartel of de vaststelling door de Autoriteit Consument en Markt van een overtreding van de artikelen 6, eerste lid of 24, eerste lid, dan wel de artikelen 101 of 102 van het Verdrag.
 
 2. Gegevens als bedoeld in artikel 31, vijfde lid, van richtlijn (EU) 2019/1 die in het kader van een onderzoek of procedure met het oog op de vaststelling van een overtreding van de artikelen 6, eerste lid, of 24 eerste lid, dan wel de artikelen 101 of 102 van het Verdrag door een partij zijn verkregen, worden door die partij niet gebruikt in een procedure bij een rechterlijke instantie tot het moment waarop de Autoriteit Consument en Markt of een mededingingsautoriteit van een andere lidstaat van de Europese Unie haar onderzoek of procedure met betrekking tot de overtreding afsluit door een besluit als bedoeld in de artikelen 10 of 12 van richtlijn (EU) 2019/1 te nemen of oordeelt dat er geen redenen zijn om verder op te treden.
 
-#### Artikel 53a
+##### Artikel 53a
 
 [Artikel 51 tot en met 53](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&artikel=51&z=2025-09-01&g=2025-09-01) zijn van overeenkomstige toepassing op inspecties van ruimten, terreinen of vervoermiddelen als bedoeld in artikel 7, eerste lid, van richtlijn (EU) 2019/1, niet zijnde woningen.
 
-#### Artikel 58b
+##### Artikel 58b
 
 1. In dringende gevallen waarin volgens een eerste onderzoek dat op een overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01) of [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-09-01&g=2025-09-01) wijst, de mededinging op ernstige en onherstelbare wijze dreigt te worden geschaad, kan de Autoriteit Consument en Markt aan een onderneming of ondernemersvereniging een zelfstandige last in de vorm van een voorlopige maatregel als bedoeld in artikel 11, eerste lid, van richtlijn (EU) 2019/1, opleggen.
 
@@ -1650,7 +1678,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 - b. tot het moment dat bij besluit is vastgesteld of er een overtreding is van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01) of [24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=4&paragraaf=1&artikel=24&z=2025-09-01&g=2025-09-01).
 
-#### Artikel 58c
+##### Artikel 58c
 
 Bij algemene maatregel van bestuur worden regels gesteld over het afzien van het opleggen van een bestuurlijke boete of het verminderen van een bestuurlijke boete bij overtreding van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01).
 
@@ -1660,7 +1688,7 @@ Bij algemene maatregel van bestuur worden regels gesteld over het afzien van het
 
 #### § 1b. Overtreding verzegeling
 
-#### Artikel 76b
+##### Artikel 76b
 
 De Autoriteit Consument en Markt kan ingeval van overtreding van [artikel 49e, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=5b&artikel=49e&z=2025-09-01&g=2025-09-01), de overtreder een bestuurlijke boete opleggen van ten hoogste € 900.000 of, indien dat meer is, van ten hoogste 1% van de omzet van de onderneming dan wel, indien de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken.
 
@@ -1668,7 +1696,7 @@ De Autoriteit Consument en Markt kan ingeval van overtreding van [artikel 49e, e
 
 ### Hoofdstuk 9. Voorlopige last onder dwangsom
 
-#### Artikel 89ga
+##### Artikel 89ga
 
 1. Indien de Autoriteit Consument en Markt overeenkomstig artikel 22 van [verordening 1/2003](32003R0001) een inspectie of een verhoor namens en voor rekening van een mededingingsautoriteit van een andere lidstaat van de Europese Unie verricht, kunnen ambtenaren en andere door die mededingingsautoriteit daartoe aangewezen personen onder toezicht van de ambtenaren van de Autoriteit Consument en Markt de inspectie of het verhoor bijwonen en tijdens de inspectie of het verhoor bijstand verlenen aan de Autoriteit Consument en Markt wanneer zij de bevoegdheden, bedoeld in de [artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), de [artikelen 12b tot en met 12d van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12b), of [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=6&artikel=50&z=2025-09-01&g=2025-09-01), uitoefent.
 
@@ -1676,11 +1704,11 @@ De Autoriteit Consument en Markt kan ingeval van overtreding van [artikel 49e, e
 
 3. Artikel 12, tweede en derde lid, van [verordening 1/2003](32003R0001) zijn van overeenkomstige toepassing indien de Autoriteit Consument en Markt met het oog op de toepassing van het tweede lid gegevens of inlichtingen verstrekt aan of ontvangt van een mededingingsautoriteit van een andere lidstaat van de Europese Unie.
 
-#### Artikel 89gb
+##### Artikel 89gb
 
 Na een daartoe strekkend verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie stelt de Autoriteit Consument en Markt een adressaat in kennis van informatie als bedoeld in artikel 25, onderdelen a, b of c, van richtlijn (EU) 2019/1.
 
-#### Artikel 89gc
+##### Artikel 89gc
 
 1. De Autoriteit Consument en Markt legt na een daartoe strekkend verzoek van een mededingingsautoriteit van een andere lidstaat van de Europese Unie een definitief besluit tot oplegging van een geldboete als bedoeld in artikel 13 van richtlijn (EU) 2019/1 of een besluit tot oplegging van een dwangsom als bedoeld in artikel 16 van richtlijn (EU) 2019/1 ten uitvoer, voor zover die mededingingsautoriteit na redelijke inspanningen op haar eigen grondgebied te hebben geleverd, heeft vastgesteld dat de onderneming of ondernemersvereniging jegens welke de geldboete of dwangsom invorderbaar is, in de lidstaat van die mededingingsautoriteit niet over voldoende activa beschikt om invordering van de geldboete of dwangsom mogelijk te maken.
 
@@ -1690,21 +1718,21 @@ Na een daartoe strekkend verzoek van een mededingingsautoriteit van een andere l
 
 4. De verjaringstermijn voor de tenuitvoerlegging van een besluit als bedoeld in het eerste of tweede lid, wordt bepaald overeenkomstig artikel 26, vierde lid, van richtlijn (EU) 2019/1.
 
-#### Artikel 89gd
+##### Artikel 89gd
 
 Een verzoek als bedoeld in de artikelen 25 of 26, eerste of tweede lid, van richtlijn (EU) 2019/1 voldoet aan en wordt uitgevoerd overeenkomstig artikel 27, tweede, derde, vierde, vijfde en zesde lid, van richtlijn (EU) 2019/1.
 
-#### Artikel 89ge
+##### Artikel 89ge
 
 1. De Autoriteit Consument en Markt geeft uitvoering aan artikel 27, zevende lid en achtste lid, eerste, derde en vierde alinea, van richtlijn (EU) 2019/1.
 
 2. De Autoriteit Consument en Markt geeft in afwijking van het eerste lid geen uitvoering aan artikel 27, achtste lid, eerste alinea, van richtlijn (EU) 2019/1, indien de baten naar verwachting niet opwegen tegen de kosten die de Autoriteit Consument en Markt maakt om de in artikel 27 bedoelde kosten te verhalen.
 
-#### Artikel 89gf
+##### Artikel 89gf
 
 De bevoegdheid inzake geschillen ten aanzien van de toepassing van de artikelen 25 of 26, eerste of tweede lid, van richtlijn (EU) 2019/1 en het recht dat op die geschillen van toepassing is, wordt bepaald overeenkomstig artikel 28 van richtlijn (EU) 2019/1.
 
-#### Artikel 89gg
+##### Artikel 89gg
 
 1. Indien de Autoriteit Consument en Markt, na toepassing te hebben gegeven aan artikel 11, derde lid, van [verordening 1/2003](32003R0001) concludeert dat er geen gronden zijn om een onderzoek of procedure met betrekking tot de overtreding voort te zetten, stelt zij de Europese Commissie hiervan in kennis.
 
@@ -1746,7 +1774,7 @@ De bevoegdheid inzake geschillen ten aanzien van de toepassing van de artikelen 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Voor overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&hoofdstuk=3&paragraaf=1&artikel=6&z=2025-09-01&g=2025-09-01), die betrekking hebben op de voortbrenging van en de handel in landbouwproducten, bedoeld in artikel 42 van het Verdrag, geldt artikel 6, eerste lid, uitsluitend in de gevallen ten aanzien waarvan bij of krachtens een verordening van het Europees Parlement en de Raad van de Europese Unie is bepaald dat artikel 101 van het Verdrag van toepassing is op die overeenkomsten, besluiten en gedragingen.
 

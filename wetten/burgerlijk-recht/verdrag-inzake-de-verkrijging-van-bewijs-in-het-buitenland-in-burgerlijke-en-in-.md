@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken"
 identifier: "BWBV0001993"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1981-06-07
-laatste_update: 1981-06-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001993"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-06-07"
+last_updated: "1981-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001993"
+soort: "verdrag"
+stam_id: "10002596453"
+version_id: "10002593592"
+internal_id: "C10006983491"
+label_id: "10002586034"
+dtd_version: "2.0"
+original_entry_into_force: "1981-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001993/1981-06-07/0"
+intitule_bron: "Trb.1979-38"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-04-08"
+intitule_published: "1979-03-06"
+intitule_in_force: "1981-05-22"
+intitule_status: "goed"
+original_publication: "Trb.1979-38"
+original_signed_date: "1981-04-08"
+original_published_date: "1979-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-38"
+entry_into_force_date: "1981-06-07"
+jci_1_3: "jci1.3:c:BWBV0001993&z=1981-06-07&g=1981-06-07"
+jci_1_0: "1.0:c:BWBV0001993&g=1981-06-07"
+citeertitel_status: "redactioneel"
+signed_date: "1981-04-08"
+entry_into_force: "1981-06-07"
 ---
-
 # Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -20,7 +45,7 @@ Hebben besloten te dien einde een Verdrag tot stand te brengen en zijn het volge
 
 ### HOOFDSTUK I. ROGATOIRE COMMISSIES
 
-#### Artikel 1
+##### Artikel 1
 
 In burgerlijke en in handelszaken kan de rechterlijke autoriteit van een Verdragsluitende Staat overeenkomstig de wettelijke bepalingen van die Staat, bij wege van rogatoire commissie aan de bevoegde autoriteit van een andere Verdragsluitende Staat verzoeken, een handeling tot het verkrijgen van bewijs (onderzoekshandeling) of andere gerechtelijke handelingen te verrichten.
 
@@ -28,13 +53,13 @@ Een onderzoekshandeling kan niet worden verzocht met het doel partijen in staat 
 
 De term „andere gerechtelijke handelingen" heeft geen betrekking op de betekening of kennisgeving van gerechtelijke stukken, noch op maatregelen tot bewaring van recht of tot tenuitvoerlegging.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Verdragsluitende Staat wijst een Centrale Autoriteit aan, die belast is met het in ontvangst nemen van rogatoire commissies die afkomstig zijn van de rechterlijke autoriteit van een andere Verdragsluitende Staat, en met het overmaken daarvan aan de voor de uitvoering ervan bevoegde autoriteit. Iedere Staat organiseert de Centrale Autoriteit overeenkomstig de bepalingen van zijn eigen wetgeving.
 
 De rogatoire commissies worden aan de Centrale Autoriteit van de aangezochte Staat overgemaakt zonder tussenkomst van een andere autoriteit van die Staat.
 
-#### Artikel 3
+##### Artikel 3
 
 De rogatoire commissie bevat de volgende gegevens:
 
@@ -62,7 +87,7 @@ De rogatoire commissie vermeldt eventueel tevens de inlichtingen welke nodig zij
 
 Er kan geen legalisatie of andere vergelijkbare formaliteit worden verlangd.
 
-#### Artikel 4
+##### Artikel 4
 
 De rogatoire commissie moet worden gesteld in de taal van de aangezochte autoriteit of vergezeld gaan van een vertaling in die taal.
 
@@ -74,23 +99,23 @@ Elke Verdragsluitende Staat kan door middel van een daartoe strekkende verklarin
 
 Elke aan een rogatoire commissie gehechte vertaling moet voor overeenstemmend zijn verklaard door een diplomatieke of consulaire ambtenaar, door een beëdigd vertaler dan wel door enige andere daartoe in een van de beide Staten bevoegd verklaarde persoon.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de Centrale Autoriteit van oordeel is dat de bepalingen van het Verdrag niet zijn geëerbiedigd, stelt zij de autoriteit van de verzoekende Staat die haar de rogatoire commissie heeft overgemaakt onverwijld daarvan in kennis en doet daarbij nauwkeurige opgave van de bezwaren welke tegen het verzoek zijn gerezen.
 
-#### Artikel 6
+##### Artikel 6
 
 Ingeval van onbevoegdheid van de aangezochte autoriteit, wordt de rogatoire commissie ambtshalve en onverwijld overgedragen aan de rechterlijke autoriteit van dezelfde Staat, die volgens de bepalingen van diens wetgeving wel bevoegd is.
 
-#### Artikel 7
+##### Artikel 7
 
 De verzoekende autoriteit wordt op haar verlangen ingelicht over het tijdstip waarop en de plaats waar de verlangde handeling zal worden verricht, opdat de belanghebbende partijen en eventueel hun vertegenwoordigers daarbij tegenwoordig kunnen zijn. Deze mededeling wordt rechtstreeks aan die partijen of hun vertegenwoordigers gedaan, wanneer de verzoekende autoriteit zulks heeft verzocht.
 
-#### Artikel 8
+##### Artikel 8
 
 Elke Verdragsluitende Staat kan verklaren, dat rechterlijke ambtenaren van de verzoekende autoriteit van een andere Verdragsluitende Staat de uitvoering van een rogatoire commissie mogen bijwonen. Daaraan kan de Staat die zulk een verklaring heeft afgelegd de voorwaarde verbinden, dat vooraf toestemming moet zijn verleend door een door die Staat aangewezen bevoegde autoriteit.
 
-#### Artikel 9
+##### Artikel 9
 
 De rechterlijke autoriteit die de rogatoire commissie uitvoert past, wat betreft de vormen waarin dit geschiedt, haar eigen landswet toe.
 
@@ -98,11 +123,11 @@ Deze autoriteit zal evenwel gehoor geven aan de wens van de autoriteit waarvan h
 
 De rogatoire commissie moet onverwijld worden uitgevoerd.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij de uitvoering van de rogatoire commissie past de aangezochte autoriteit de daartoe passende dwangmiddelen toe welke in haar eigen wet zijn voorzien, in de gevallen en in gelijke mate als zij daartoe verplicht zou zijn bij de uitvoering van een dergelijk verzoek van de autoriteiten van de eigen Staat, of bij het gevolg geven aan een daartoe strekkend verzoek van een belanghebbende partij.
 
-#### Artikel 11
+##### Artikel 11
 
 De rogatoire commissie wordt niet uitgevoerd, indien en voorzover de betrokken persoon zich beroept op een recht van verschoning of een verbod tot het afleggen van een verklaring gegrond op:
 
@@ -112,7 +137,7 @@ De rogatoire commissie wordt niet uitgevoerd, indien en voorzover de betrokken p
 
 Elke Verdragsluitende Staat kan verklaren, dat hij eveneens dergelijke verschoningsrechten en verboden erkent welke voorkomen in de wetten van andere Staten dan de Staat waaruit het verzoek afkomstig is en de aangezochte Staat, zulks in de mate waarin dit is aangegeven in die verklaring.
 
-#### Artikel 12
+##### Artikel 12
 
 De uitvoering van de rogatoire commissie kan niet worden geweigerd dan in zoverre
 
@@ -122,13 +147,13 @@ De uitvoering van de rogatoire commissie kan niet worden geweigerd dan in zoverr
 
 De uitvoering kan niet worden geweigerd op de enkele grond, dat de wet van de aangezochte Staat ten aanzien van de zaak waarop het verzoek betrekking heeft uitsluitende rechtsmacht voor die Staat op eist, dan wel een rechtsvordering als waarop het verzoek betrekking heeft niet toekent.
 
-#### Artikel 13
+##### Artikel 13
 
 De stukken ten bewijze van de uitvoering van de rogatoire commissie worden door de aangezochte autoriteit aan de verzoekende autoriteit overgemaakt langs dezelfde weg die deze laatste heeft gebruikt.
 
 Wanneer de rogatoire commissie niet of slechts ten dele is uitgevoerd, wordt de verzoekende autoriteit daarvan onverwijld verwittigd langs dezelfde weg en de redenen daarvoor worden daarbij medegedeeld.
 
-#### Artikel 14
+##### Artikel 14
 
 De uitvoering van de rogatoire commissie kan niet leiden tot terugbetaling van rechten of kosten van welke aard ook.
 
@@ -138,13 +163,13 @@ De aangezochte autoriteit welker wet het aan partijen overlaat de bewijzen te ve
 
 ### HOOFDSTUK II. DE VERKRIJGING VAN BEWIJS DOOR DIPLOMATIEKE OF CONSULAIRE AMBTENAREN EN DOOR COMMISSARISSEN
 
-#### Artikel 15
+##### Artikel 15
 
 In burgerlijke en in handelszaken kan een diplomatieke of consulaire ambtenaar van een Verdragsluitende Staat op het grondgebied van een andere Verdragsluitende Staat, binnen het ressort waar hij zijn functie uitoefent, zonder dwang elke onderzoekshandeling verrichten, mits daarbij slechts onderdanen van een Staat die hij vertegenwoordigt zijn betrokken en het een zaak betreft welke aanhangig is voor een gerecht van die Staat.
 
 Elke Verdragsluitende Staat heeft de bevoegdheid te verklaren dat deze handeling slechts kan worden verricht indien daartoe verlof is verleend, op een daartoe strekkend verzoek van deze ambtenaar zelf of te zijnen behoeve gedaan, door de bevoegde autoriteit welke door de Staat die deze verklaring heeft afgelegd is aangewezen.
 
-#### Artikel 16
+##### Artikel 16
 
 Een diplomatieke of consulaire ambtenaar van een Verdragsluitende Staat kan bovendien op het gebied van een andere Verdragsluitende Staat, binnen het ressort waar hij zijn functie uitoefent, zonder dwang onderzoekshandelingen verrichten waarbij onderdanen van de Staat waar hij zijn functie uitoefent of onderdanen van derde Staten zijn betrokken, ten behoeve van een zaak die aanhangig is voor een gerecht van een Staat die hij vertegenwoordigt:
 
@@ -154,7 +179,7 @@ Een diplomatieke of consulaire ambtenaar van een Verdragsluitende Staat kan bove
 
 Elke Verdragsluitende Staat kan verklaren dat de hierboven bedoelde onderzoekshandelingen zonder zijn voorafgaand verlof mogen worden verricht.
 
-#### Artikel 17
+##### Artikel 17
 
 In burgerlijke en in handelszaken kan iedere persoon die daartoe op behoorlijke wijze als commissaris is benoemd, zonder dwang op het gebied van een Verdragsluitende Staat onderzoekshandelingen verrichten welke betrekking hebben op een procedure, welke aanhangig is voor een gerecht van een andere Verdragsluitende Staat:
 
@@ -164,21 +189,21 @@ In burgerlijke en in handelszaken kan iedere persoon die daartoe op behoorlijke 
 
 Elke Verdragsluitende Staat kan verklaren dat de hierboven bedoelde onderzoekshandelingen zonder zijn voorafgaand verlof mogen worden verricht.
 
-#### Artikel 18
+##### Artikel 18
 
 Elke Verdragsluitende Staat kan verklaren dat een diplomatieke of consulaire ambtenaar of een commissaris, die bevoegd is tot het verrichten van een onderzoekshandeling in overeenstemming met [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=15&z=1981-06-07&g=1981-06-07), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=16&z=1981-06-07&g=1981-06-07) of [17](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=17&z=1981-06-07&g=1981-06-07), zich kan wenden tot de terzake als bevoegd aangewezen autoriteit van die Staat, met het verzoek de nodige bijstand te verkrijgen tot het verrichten van deze handeling door toepassing van dwangmiddelen. De verklaring kan elke voorwaarde bevatten welke de Staat die haar aflegt dienstig acht.
 
 Wanneer de bevoegde autoriteit gevolg geeft aan het verzoek, past zij de dwangmiddelen toe welke passend zijn en in haar interne wet zijn voorzien.
 
-#### Artikel 19
+##### Artikel 19
 
 De bevoegde autoriteit kan aan het verlenen van het verlof bedoeld in de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=15&z=1981-06-07&g=1981-06-07), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=16&z=1981-06-07&g=1981-06-07) en [17](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=17&z=1981-06-07&g=1981-06-07) of van de toestemming op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=18&z=1981-06-07&g=1981-06-07) de voorwaarden verbinden welke zij wenselijk acht, met name wat betreft het uur, de dag en de plaats van de onderzoekshandeling. Zij kan ook verlangen dat het uur, de dag en de plaats haar tevoren tijdig worden medegedeeld; in dat geval kan een vertegenwoordiger van die autoriteit die onderzoekshandeling bijwonen.
 
-#### Artikel 20
+##### Artikel 20
 
 De personen op wie een onderzoekshandeling als bedoeld in dit hoofdstuk betrekking heeft kunnen zich doen bijstaan door een raadsman.
 
-#### Artikel 21
+##### Artikel 21
 
 Wanneer een diplomatieke of consulaire ambtenaar of een commissaris bevoegd is of verlof heeft gekregen om een onderzoekshandeling te verrichten ingevolge de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=15&z=1981-06-07&g=1981-06-07), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=16&z=1981-06-07&g=1981-06-07) of [17](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&artikel=17&z=1981-06-07&g=1981-06-07):
 
@@ -192,33 +217,33 @@ Wanneer een diplomatieke of consulaire ambtenaar of een commissaris bevoegd is o
 
 - e). kan de persoon op wie de onderzoekshandeling betrekking heeft zich beroepen op een recht van verschoning of een verbod als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=I&artikel=11&z=1981-06-07&g=1981-06-07).
 
-#### Artikel 22
+##### Artikel 22
 
 De omstandigheid dat een onderzoekshandeling niet kon worden verricht overeenkomstig de bepalingen van het onderhavige hoofdstuk doordat een persoon geweigerd heeft er aan mede te werken, belet niet dat een rogatoire commissie voor dezelfde handeling later wordt verzocht overeenkomstig het [eerste hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=I&z=1981-06-07&g=1981-06-07).
 
 ### HOOFDSTUK III. ALGEMENE BEPALINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 Elke Verdragsluitende Staat kan op het tijdstip van de ondertekening, bekrachtiging of toetreding verklaren, dat hij geen uitvoering geeft aan rogatoire commissies tot het houden van een procedure welke in de Staten waar de Comraon Law geldt bekend is als „pretrial discovery of documents".
 
-#### Artikel 24
+##### Artikel 24
 
 Elke Verdragsluitende Staat kan naast de Centrale Autoriteit nog andere autoriteiten aanwijzen; hij stelt de bevoegdheden daarvan vast. Evenwel kunnen rogatoire commissies steeds worden overgemaakt aan de Centrale Autoriteit.
 
 Federale Staten hebben de bevoegdheid om meer dan één Centrale Autoriteit aan te wijzen.
 
-#### Artikel 25
+##### Artikel 25
 
 Elke Verdragsluitende Staat waarin meer dan één rechtsstelsel van kracht is, kan de autoriteiten van één van deze stelsels aanwijzen, die een exclusieve bevoegdheid zullen bezitten wat de uitvoering van de rogatoire commissies ingevolge dit Verdrag betreft.
 
-#### Artikel 26
+##### Artikel 26
 
 Elke Verdragsluitende Staat kan, indien hij daartoe op staatsrechtelijke gronden is gehouden, van de verzoekende Staat de terugbetaling verlangen van de kosten van de uitvoering van de rogatoire commissie wat betreft de betekening of de oproep te verschijnen, de schadeloosstellingen verschuldigd aan de persoon die de getuigenverklaring heeft afgelegd en de opstelling van het proces-verbaal van de onderzoekshandeling.
 
 Indien een Staat gebruik heeft gemaakt van de bepalingen van het vorige lid, kan elke andere Verdragsluitende Staat deze Staat verzoeken zodanige kosten terug te betalen.
 
-#### Artikel 27
+##### Artikel 27
 
 De bepalingen van dit Verdrag beletten niet dat een Verdragsluitende Staat:
 
@@ -228,7 +253,7 @@ De bepalingen van dit Verdrag beletten niet dat een Verdragsluitende Staat:
 
 - c). toestaat, krachtens zijn interne wet of zijn gewoonterecht, andere methoden tot verkrijging van bewijs dan die waarin dit Verdrag voorziet te gebruiken.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit Verdrag belet niet dat Verdragsluitende Staten overeenkomen af te wijken van
 
@@ -246,23 +271,23 @@ Dit Verdrag belet niet dat Verdragsluitende Staten overeenkomen af te wijken van
 
 - g). de bepalingen van [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&z=1981-06-07&g=1981-06-07).
 
-#### Artikel 29
+##### Artikel 29
 
 Dit Verdrag vervangt in de rechtsbetrekkingen tussen de Staten die het hebben bekrachtigd de [artikelen 8-16 van de Verdragen betreffende de burgerlijke rechtsvordering](onbekend) onderscheidenlijk ondertekend te 's-Gravenhage op 17 juli 1905 en 1 maart 1954, voor zover die Staten bij één van deze of beide Verdragen partij zijn.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit Verdrag maakt geen inbreuk op de toepassing van [artikel 23 van het Verdrag van 1905](https://wetten.overheid.nl/jci1.3:c:BWBV0002016&artikel=23) of van [artikel 24 van het Verdrag van 1954](https://wetten.overheid.nl/jci1.3:c:BWBV0002016&artikel=24).
 
-#### Artikel 31
+##### Artikel 31
 
 De aanvullende akkoorden bij de [Verdragen van 1905 en 1954](https://wetten.overheid.nl/jci1.3:c:BWBV0002016), gesloten door de Verdragsluitende Staten, worden eveneens op dit Verdrag van toepassing geacht, tenzij de belanghebbende Staten daaromtrent anders overeenkomen.
 
-#### Artikel 32
+##### Artikel 32
 
 Onverminderd het bepaalde in de [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=29&z=1981-06-07&g=1981-06-07) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=31&z=1981-06-07&g=1981-06-07) laat dit Verdrag onverlet de Verdragen waarbij de Verdragsluitende Staten partij zijn of zullen worden en die bepalingen bevatten inzake bij dit Verdrag geregelde onderwerpen.
 
-#### Artikel 33
+##### Artikel 33
 
 Elke Staat kan op het tijdstip van de ondertekening, bekrachtiging of toetreding de toepassing van het bepaalde in het [tweede lid van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=I&artikel=4&z=1981-06-07&g=1981-06-07), alsmede van het bepaalde in [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=II&z=1981-06-07&g=1981-06-07), geheel of gedeeltelijk uitsluiten. Geen enkel ander voorbehoud is toegestaan.
 
@@ -270,11 +295,11 @@ Elke Verdragsluitende Staat kan een door die Staat gemaakt voorbehoud te allen t
 
 Indien een Staat een voorbehoud heeft gemaakt, kan elke andere Staat die daardoor is getroffen dezelfde regel toepassen ten opzichte van de Staat die het voorbehoud heeft gemaakt.
 
-#### Artikel 34
+##### Artikel 34
 
 Elke Staat kan te allen tijde een verklaring intrekken of wijzigen.
 
-#### Artikel 35
+##### Artikel 35
 
 Elke Verdragsluitende Staat brengt op het tijdstip van de nederlegging van zijn akte van bekrachtiging of toetreding, of op een later tijdstip, de aanwijzing van de autoriteiten bedoeld in de artikelen [2](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=I&artikel=2&z=1981-06-07&g=1981-06-07), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=I&artikel=8&z=1981-06-07&g=1981-06-07), [24](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=24&z=1981-06-07&g=1981-06-07) en [25](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=25&z=1981-06-07&g=1981-06-07) ter kennis van het Ministerie van Buitenlandse Zaken van Nederland.
 
@@ -290,23 +315,23 @@ Een Verdragsluitende Staat brengt, voor zover nodig, onder dezelfde voorwaarden 
 
 - e). de intrekking van een voorbehoud.
 
-#### Artikel 36
+##### Artikel 36
 
 Moeilijkheden die tussen de Verdragsluitende Staten naar aanleiding van de toepassing van dit Verdrag kunnen rijzen, worden langs diplomatieke weg geregeld.
 
-#### Artikel 37
+##### Artikel 37
 
 Dit Verdrag staat ter ondertekening open voor de Staten die vertegenwoordigd waren op de Elfde Zitting van de Haagse Conferentie voor Internationaal Privaatrecht.
 
 Het dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 38
+##### Artikel 38
 
 Dit Verdrag treedt in werking op de zestigste dag na de nederlegging van de derde akte van bekrachtiging, bedoeld in het tweede lid van [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=37&z=1981-06-07&g=1981-06-07).
 
 Voor elke ondertekenende Staat die het Verdrag daarna bekrachtigt, treedt het in werking op de zestigste dag na de nederlegging van zijn akte van bekrachtiging.
 
-#### Artikel 39
+##### Artikel 39
 
 Elke Staat die niet vertegenwoordigd is geweest op de Elfde Zitting van de Haagse Conferentie voor Internationaal Privaatrecht en die lid is van deze Conferentie of van de Verenigde Naties of van een van haar gespecialiseerde organisaties, of die Partij is bij het [Statuut van het Internationaal Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), kan tot dit Verdrag toetreden nadat het overeenkomstig het eerste lid van artikel 38 in werking is getreden.
 
@@ -318,7 +343,7 @@ De toetreding heeft slechts gevolg ten aanzien van de betrekkingen tussen de toe
 
 Tussen de toetredende Staat en de Staat die heeft verklaard de toetreding te aanvaarden treedt het Verdrag in werking op de zestigste dag na de nederlegging van de verklaring van aanvaarding.
 
-#### Artikel 40
+##### Artikel 40
 
 Iedere Staat kan bij de ondertekening, bekrachtiging of toetreding verklaren, dat dit Verdrag zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is, of tot één of meer van deze gebieden. Een zodanige verklaring wordt van kracht op de datum van inwerkingtreding van het Verdrag voor de betrokken Staat.
 
@@ -326,7 +351,7 @@ Daarna wordt van zodanige uitbreidingen kennis gegeven aan het Ministerie van Bu
 
 Het Verdrag treedt voor de in de verklaring van uitbreiding genoemde gebieden in werking op de zestigste dag na de kennisgeving bedoeld in het voorafgaande lid.
 
-#### Artikel 41
+##### Artikel 41
 
 Dit Verdrag blijft van kracht gedurende vijf jaar te rekenen van de datum van zijn inwerkingtreding overeenkomstig het eerste lid van artikel 38, ook voor die Staten die het Verdrag nadien hebben bekrachtigd of daartoe zijn toegetreden.
 
@@ -338,7 +363,7 @@ De opzegging kan beperkt worden tot bepaalde gebieden waarop het Verdrag van toe
 
 De opzegging heeft slechts gevolg ten opzichte van de Staat die haar ter kennis heeft gebracht. Het Verdrag blijft voor de andere Verdragsluitende Staten van kracht.
 
-#### Artikel 42
+##### Artikel 42
 
 Het Ministerie van Buitenlandse Zaken van Nederland geeft aan de in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=37&z=1981-06-07&g=1981-06-07) bedoelde Staten, alsmede aan de Staten die overeenkomstig [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBV0001993&hoofdstuk=III&artikel=39&z=1981-06-07&g=1981-06-07) zijn toegetreden, kennis van:
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende grensarbeiders"
 identifier: "BWBV0005588"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2011-06-30
-laatste_update: 2011-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005588"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-06-30"
+last_updated: "2011-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005588"
+soort: "verdrag"
+stam_id: "10004749003"
+version_id: "10005021712"
+internal_id: "C10008341881"
+label_id: "10004732844"
+dtd_version: "2.0"
+original_entry_into_force: "2011-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005588/2011-06-30/0"
+intitule_bron: "Trb.2011-187"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-10-04"
+intitule_in_force: "2011-10-04"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-187"
+original_published_date: "2011-10-04"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-187"
+entry_into_force_date: "2011-06-30"
+jci_1_3: "jci1.3:c:BWBV0005588&z=2011-06-30&g=2011-06-30"
+jci_1_0: "1.0:c:BWBV0005588&g=2011-06-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-06-30"
 ---
-
 # Verdrag betreffende grensarbeiders
 
 De Regeringen van België, Frankrijk, Luxemburg, Nederland en het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland;
@@ -18,51 +40,51 @@ In overweging nemende de regelingen waaraan krachtens de thans van kracht zijnde
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 

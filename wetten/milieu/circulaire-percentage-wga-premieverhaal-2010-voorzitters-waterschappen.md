@@ -1,13 +1,39 @@
 ---
-title: "Circulaire Percentage WGA-premieverhaal 2010 (voorzitters waterschappen)"
+title: "Circulaire Percentage WGA-premieverhaal 2010"
 identifier: "BWBR0027251"
-categorie: "Milieu"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027251"
+country: "nl"
+rank: "circulaire"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027251"
+soort: "circulaire"
+stam_id: "10428753"
+version_id: "17152962"
+internal_id: "C23665841"
+label_id: "10403984"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027251/2010-01-01/0"
+intitule_bron: "Stcrt.2010-2470"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-02-09"
+intitule_published: "2010-02-18"
+intitule_in_force: "2010-02-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-2470"
+original_signed_date: "2010-02-09"
+original_published_date: "2010-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-2470"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0027251&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0027251&g=2010-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire Percentage WGA-premieverhaal 2010 (voorzitters waterschappen)"
+signed_date: "2010-02-09"
+entry_into_force: "2010-01-01"
 ---
-
 # Circulaire Percentage WGA-premieverhaal 2010
 
 Door middel van deze circulaire informeer ik u dat het premiepercentage voor werkhervatting gedeeltelijk arbeidsgeschikten (WGA) voor de voorzitters van waterschappen met terugwerkende kracht vanaf 1 januari 2010 op nihil wordt gesteld.

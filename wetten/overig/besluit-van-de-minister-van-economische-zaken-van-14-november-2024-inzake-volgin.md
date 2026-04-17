@@ -1,13 +1,38 @@
 ---
 title: "Besluit van de Minister van Economische Zaken van 14 november 2024 inzake volginnovatie 2023"
 identifier: "BWBR0050466"
-categorie: "Overig"
-publicatiedatum: 2024-11-27
-laatste_update: 2024-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050466"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-27"
+last_updated: "2024-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050466"
+soort: "ministeriele-regeling"
+stam_id: "17287663"
+version_id: "30446602"
+internal_id: "C43657941"
+label_id: "17191724"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050466/2024-11-27/0"
+intitule_bron: "Stcrt.2024-38373"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-14"
+intitule_published: "2024-11-26"
+intitule_in_force: "2024-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38373"
+original_signed_date: "2024-11-14"
+original_published_date: "2024-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38373"
+entry_into_force_date: "2024-11-27"
+jci_1_3: "jci1.3:c:BWBR0050466&z=2024-11-27&g=2024-11-27"
+jci_1_0: "1.0:c:BWBR0050466&g=2024-11-27"
+citeertitel_status: "redactioneel"
+signed_date: "2024-11-14"
+entry_into_force: "2024-11-27"
 ---
-
 # Besluit van de Minister van Economische Zaken van 14 november 2024 inzake volginnovatie 2023
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -22,7 +47,7 @@ Gelet op [artikel 3.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens gepubliceerd met betrekking tot:
 
@@ -54,7 +79,7 @@ De gegevens worden niet eerder dan twee weken na de bekendmaking van dit besluit
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

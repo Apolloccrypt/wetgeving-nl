@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van het Caribische Noodhulp Management Agentschap"
 identifier: "BWBV0006839"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-06-04
-laatste_update: 2024-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006839"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-06-04"
+last_updated: "2024-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006839"
+soort: "verdrag"
+stam_id: "10005535793"
+version_id: "10006021582"
+internal_id: "C10010110631"
+label_id: "10005518964"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006839/2024-06-04/0"
+intitule_bron: "Trb.2019-136"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-09-04"
+intitule_in_force: "2024-07-11"
+intitule_status: "goed"
+original_publication: "Trb.2019-136"
+original_published_date: "2019-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-136"
+entry_into_force_date: "2024-06-04"
+jci_1_3: "jci1.3:c:BWBV0006839&z=2024-06-04&g=2024-06-04"
+jci_1_0: "1.0:c:BWBV0006839&g=2024-06-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-06-04"
 ---
-
 # Verdrag tot oprichting van het Caribische Noodhulp Management Agentschap
 
 De staten die partij zijn:
@@ -22,7 +44,7 @@ De wens uitsprekend het Caribische Noodhulp Management Agentschap op te richten 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
@@ -62,17 +84,17 @@ Tenzij uit het zinsverband anders volgt, wordt in dit Verdrag verstaan onder:
 
 - „Verdrag van Chaguaramas”: het Herziene Verdrag van Chaguaramas tot oprichting van de Caribische Gemeenschap, met inbegrip van de gemeenschappelijke markt en economie van de Caricom, ondertekend te Nassau, Bahama's, op 5 juli 2001.
 
-#### Artikel II. Oprichting van CDEMA
+##### Artikel II. Oprichting van CDEMA
 
 Hierbij wordt het Caribische Noodhulp Management Agentschap (Caribbean Disaster Emergency Management Agency (CDEMA)) opgericht met de organen, het lidmaatschap, de structuur en taken vervat in dit Verdrag.
 
-#### Artikel III. Rechtspersoonlijkheid
+##### Artikel III. Rechtspersoonlijkheid
 
 1. CDEMA bezit internationale rechtspersoonlijkheid en beschikt over de handelingsbevoegdheid die nodig is voor het uitoefenen van zijn taken en het verwezenlijken van zijn doelstellingen.
 
 2. CDEMA en zijn medewerkers genieten alle gebruikelijke rechten, voorrechten en immuniteiten van agentschappen met internationale rechtspersoonlijkheid.
 
-#### Artikel IV. Lidmaatschap
+##### Artikel IV. Lidmaatschap
 
 Het lidmaatschap van CDEMA staat open voor:
 
@@ -80,7 +102,7 @@ Het lidmaatschap van CDEMA staat open voor:
 
 - b. andere staten in de Caribische regio die door het MCC uit hoofde van [artikel XXXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=XXXIX&z=2024-06-04&g=2024-06-04) worden voorgedragen voor lidmaatschap.
 
-#### Artikel V. Doelstellingen
+##### Artikel V. Doelstellingen
 
 CDEMA heeft de volgende doelstellingen:
 
@@ -100,7 +122,7 @@ CDEMA heeft de volgende doelstellingen:
 
 - f. coördineren van het opzetten, verbeteren en in stand houden van adequate faciliteiten voor noodhulp bij rampen in de deelnemende staten.
 
-#### Artikel VI. Organen van CDEMA
+##### Artikel VI. Organen van CDEMA
 
 CDEMA heeft de volgende organen met de taken omschreven in dit Verdrag:
 
@@ -110,7 +132,7 @@ CDEMA heeft de volgende organen met de taken omschreven in dit Verdrag:
 
 - c. de coördinerende eenheid.
 
-#### Artikel VII. De raad
+##### Artikel VII. De raad
 
 1. De raad bestaat uit de regeringsleiders van de deelnemende staten.
 
@@ -130,7 +152,7 @@ CDEMA heeft de volgende organen met de taken omschreven in dit Verdrag:
 
 9. De raad stelt haar eigen reglement van orde op.
 
-#### Artikel VIII. Taken van de raad
+##### Artikel VIII. Taken van de raad
 
 De raad:
 
@@ -146,7 +168,7 @@ De raad:
 
 - f. voert elke andere taak uit die zij nodig of wenselijk acht om de doelstellingen van dit Verdrag te verwezenlijken.
 
-#### Artikel IX. Comité van beheer van de raad
+##### Artikel IX. Comité van beheer van de raad
 
 1. Er wordt een comité van beheer van de raad (MCC) opgericht waarvan de leden door de raad worden benoemd.
 
@@ -160,7 +182,7 @@ De raad:
 
 3. Het mandaat van het MCC wordt vastgesteld door de raad.
 
-#### Artikel X. Het technisch adviescomité
+##### Artikel X. Het technisch adviescomité
 
 1. Het technisch adviescomité (TAC) bestaat uit de nationale coördinatoren rampenbestrijding van de deelnemende staten.
 
@@ -174,7 +196,7 @@ De raad:
 
 7. Het TAC stelt zijn eigen reglement van orde op.
 
-#### Artikel XI. Taken van het technisch adviescomité
+##### Artikel XI. Taken van het technisch adviescomité
 
 Het TAC:
 
@@ -200,11 +222,11 @@ Het TAC:
 
 - k. voert alle andere taken uit die de raad kan vaststellen.
 
-#### Artikel XII. Het hoofdkwartier van de coördinerende eenheid
+##### Artikel XII. Het hoofdkwartier van de coördinerende eenheid
 
 De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad besluit.
 
-#### Artikel XIII. Taken van de coördinerende eenheid
+##### Artikel XIII. Taken van de coördinerende eenheid
 
 1. In aanvulling op andere taken die de raad kan specificeren verricht de coördinerende eenheid de volgende taken:
 
@@ -254,7 +276,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 - e. elk ander programmagebied dat de raad kan bepalen.
 
-#### Artikel XIV. Uitvoerend directeur
+##### Artikel XIV. Uitvoerend directeur
 
 1. Er is een uitvoerend directeur die leiding geeft aan de coördinerende eenheid en die de hoogste functionaris van CDEMA is.
 
@@ -264,7 +286,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 4. De uitvoerend directeur en de plaatsvervangend uitvoerend directeur worden benoemd uit personen met ervaring op gebieden die verband houden met noodhulpoperaties, sociaal welzijn en management.
 
-#### Artikel XV. Verantwoordelijkheden van de uitvoerend directeur
+##### Artikel XV. Verantwoordelijkheden van de uitvoerend directeur
 
 1. De uitvoerend directeur heeft de volgende verantwoordelijkheden:
 
@@ -294,7 +316,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 2. Bij het uitvoeren van hun taken streven de uitvoerend directeur en de medewerkers van CDEMA ernaar hun onafhankelijkheid te behouden en zich niet bezig te houden met activiteiten of taken op een wijze die de functionele onafhankelijkheid van CDEMA in gevaar zou brengen.
 
-#### Artikel XVI. Subregionale operationele eenheden voor noodhulp
+##### Artikel XVI. Subregionale operationele eenheden voor noodhulp
 
 1. Wanneer, ingevolge [artikel VII, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0006839&artikel=VII&z=2024-06-04&g=2024-06-04)1)[Red.] Kennelijk wordt hier artikel VIII, onderdeel c bedoeld., de raad subregionale operationele eenheden voor noodhulp heeft aangewezen, hebben deze eenheden de volgende taken:
 
@@ -308,7 +330,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 2. Bij de aanwijzing bedoeld in het eerste lid van dit artikel, wijst de raad de staten aan waarvoor de subregionale operationele eenheden voor noodhulp verantwoordelijk zijn.
 
-#### Artikel XVII. De administratieve begroting
+##### Artikel XVII. De administratieve begroting
 
 1. CDEMA stelt een administratieve begroting op waarvan de fondsen gebruikt worden voor de financiering van de gebruikelijke uitgaven voor het regelen van zijn zaken.
 
@@ -318,7 +340,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 4. De uitvoerend directeur stelt, met goedkeuring van de raad, het financieel reglement van CDEMA en het fonds op in overeenstemming met internationale boekhoudnormen.
 
-#### Artikel XVIII. Noodhulpfonds
+##### Artikel XVIII. Noodhulpfonds
 
 1. CDEMA stelt een noodhulpfonds in (hierna te noemen „het fonds”) dat uitsluitend wordt gebruikt voor het betalen van uitgaven die gemaakt worden in verband met het verlenen van bijstand wanneer er zich een ramp voordoet in een deelnemende staat.
 
@@ -328,7 +350,7 @@ De coördinerende eenheid heeft haar hoofdkwartier op de locatie waartoe de raad
 
 4. De uitvoerend directeur kan bijdragen van externe bronnen aan het fonds aanvaarden op voorwaarden die zij kunnen stellen en die door het MCC zijn goedgekeurd ten behoeve van alle deelnemende staten.
 
-#### Artikel XIX. Verplichtingen van de deelnemende staten
+##### Artikel XIX. Verplichtingen van de deelnemende staten
 
 Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verband met dit Verdrag zijn aangegaan na te komen, verplichten de deelnemende staten zich ertoe:
 
@@ -370,13 +392,13 @@ Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verb
 
 - s. relevante materiële middelen en menselijke hulpbronnen te identificeren en in staat van paraatheid te houden, die op verzoek van de uitvoerend directeur onmiddellijk beschikbaar worden gesteld wanneer zich een ramp voordoet.
 
-#### Artikel XX. Betrekkingen met gouvernementele en niet-gouvernementele instellingen
+##### Artikel XX. Betrekkingen met gouvernementele en niet-gouvernementele instellingen
 
 1. CDEMA kan overeenkomsten sluiten met gouvernementele, intergouvernementele en niet-gouvernementele organisaties of agentschappen om zijn doelen te verwezenlijken.
 
 2. Tenzij de raad anderszins besluit, kan de uitvoerend directeur namens CDEMA over deze overeenkomsten onderhandelen en deze sluiten.
 
-#### Artikel XXI. Geüniformeerde troepen
+##### Artikel XXI. Geüniformeerde troepen
 
 1. Wanneer, in antwoord op een verzoek om bijstand van een getroffen deelnemende staat, leden van de geüniformeerde troepen van een andere deelnemende staat naar enig deel van het grondgebied van de verzoekende staat worden gezonden, wijst de uitvoerend directeur, met inachtneming van de uitdrukkelijke voorafgaande toestemming van de bevoegde autoriteiten van de verzoekende staat, een speciale coördinator aan uit de leidinggevende officieren van dergelijke troepen na raadpleging van de leiding of bevelvoerende officieren van de betreffende geüniformeerde troepen.
 
@@ -386,7 +408,7 @@ Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verb
 
 4. Tenzij anders overeengekomen tussen de verzoekende staat en de zendstaat staan leden van de geüniformeerde troepen van de zendstaat onder het bevel en tuchtrechtelijk toezicht van hun bevelvoerende officier.
 
-#### Artikel XXII. Leiding en controle van de bijstand
+##### Artikel XXII. Leiding en controle van de bijstand
 
 1. Met inachtneming van het tweede lid behoren de algehele leiding en coördinatie van en de controle en het toezicht op de bijstand die naar een verzoekende staat wordt gezonden op zijn grondgebied tot de verantwoordelijkheid van de verzoekende staat.
 
@@ -398,7 +420,7 @@ Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verb
 
 5. De verzoekende staat waarborgt de bescherming van personeel, uitrusting en materialen die zijn grondgebied worden binnengebracht met het oog op het verlenen van bijstand wanneer zich een ramp heeft voorgedaan.
 
-#### Artikel XXIII. Bevoegde autoriteiten en aanspreekpunten
+##### Artikel XXIII. Bevoegde autoriteiten en aanspreekpunten
 
 1. Tenzij anders bepaald door een deelnemende staat is het hoofd van het nationaal agentschap voor crisisbeheersing de bevoegde autoriteit en het aanspreekpunt dat gemachtigd is verzoeken om bijstand te doen en aangeboden bijstand te aanvaarden wanneer zich een ramp heeft voorgedaan.
 
@@ -406,23 +428,23 @@ Onverminderd het vereiste om andere verplichtingen die uit hoofde van of in verb
 
 3. De coördinerende eenheid stelt de deelnemende staten en relevante internationale organisaties onverwijld in kennis van de in het eerste en tweede lid van dit artikel bedoelde informatie.
 
-#### Artikel XXIV. Vertrouwelijkheid en publieke verklaringen
+##### Artikel XXIV. Vertrouwelijkheid en publieke verklaringen
 
 1. Deelnemende staten en hun functionarissen en medewerkers van CDEMA eerbiedigen de vertrouwelijkheid van de informatie die zij hebben ontvangen in verband met bijstand die gevraagd wordt wanneer zich een ramp heeft voorgedaan en maken deze niet openbaar. De informatie wordt uitsluitend gebruikt voor het beoogde doel.
 
 2. De zendstaat stelt alles in het werk om tot afstemming met de verzoekende staat te komen alvorens informatie aan het publiek bekend te maken over de bijstand die in verband met een ramp wordt gegeven.
 
-#### Artikel XXV. Kosten van de bijstand
+##### Artikel XXV. Kosten van de bijstand
 
 Tenzij anderszins overeengekomen worden de kosten die een zendstaat maakt bij het verlenen van bijstand aan een verzoekende staat gedragen door de zendstaat.
 
-#### Artikel XXVI. Beëindiging van de bijstand
+##### Artikel XXVI. Beëindiging van de bijstand
 
 1. De uitvoerend directeur stelt, met inachtneming van het tweede lid en na overleg met de verzoekende staat, de periode vast waarin hulp wordt geboden na een ramp.
 
 2. De verzoekende staat of zendstaat kan te allen tijde, na het nodige overleg, door middel van een schriftelijke kennisgeving de uit hoofde van dit Verdrag ontvangen of geleverde bijstand beëindigen.
 
-#### Artikel XXVII. Voorrechten, immuniteiten en faciliteiten die aan een zendstaat en zijn personeel worden toegekend
+##### Artikel XXVII. Voorrechten, immuniteiten en faciliteiten die aan een zendstaat en zijn personeel worden toegekend
 
 1. De verzoekende staat kent personeel van de zendstaat en personeel dat namens deze staat optreedt de nodige voorrechten, immuniteiten en faciliteiten toe ten behoeve van de uitoefening van hun functies bij het verlenen van bijstand.
 
@@ -446,11 +468,11 @@ Tenzij anderszins overeengekomen worden de kosten die een zendstaat maakt bij he
 
 4. Personen die voorrechten en immuniteiten genieten uit hoofde van dit artikel eerbiedigen de wet- en regelgeving van de verzoekende staat en mengen zich niet in zijn interne aangelegenheden.
 
-#### Artikel XXVIII. Doorvoer van personeel, apparatuur en eigendommen
+##### Artikel XXVIII. Doorvoer van personeel, apparatuur en eigendommen
 
 Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de zendstaat, alle maatregelen te treffen die nodig zijn om de doorvoer over zijn grondgebied van officieel aangekondigde personeelsleden, uitrusting en eigendommen die bij de verlening van bijstand betrokken zijn, naar en van de verzoekende staat te vergemakkelijken.
 
-#### Artikel XXIX. Vorderingen en schadevergoeding
+##### Artikel XXIX. Vorderingen en schadevergoeding
 
 1. Deelnemende staten werken samen ter vergemakkelijking van de afwikkeling van gerechtelijke procedures en de schikking van vorderingen uit hoofde van dit artikel.
 
@@ -468,7 +490,7 @@ Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de 
 
 3. Niets in dit artikel mag zodanig worden uitgelegd dat het een belemmering vormt voor de schadevergoeding of schadeloosstelling die beschikbaar is op grond van een toepasselijke internationale overeenkomst of de nationale wetgeving van een deelnemende staat of dat het een verzoekende staat ertoe verplicht het tweede lid van dit artikel geheel of deels toe te passen op permanent ingezetenen.
 
-#### Artikel XXX. Voorrechten en immuniteiten van CDEMA
+##### Artikel XXX. Voorrechten en immuniteiten van CDEMA
 
 1. CDEMA, zijn eigendommen en vermogensbestanddelen, ongeacht waar zij zijn gelegen of wie deze onder zich heeft, genieten immuniteit van elke vorm van rechtsvervolging, behoudens voor zover de uitvoerend directeur in een bijzonder geval uitdrukkelijk afstand heeft gedaan van zijn immuniteit. De afstand van immuniteit strekt zich niet uit tot enige maatregel van tenuitvoerlegging.
 
@@ -476,13 +498,13 @@ Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de 
 
 3. Dit artikel mag niet zodanig worden uitgelegd dat een regering van een deelnemende staat belet wordt passende maatregelen te nemen in verband met het onderzoek naar ongevallen waarbij motorvoertuigen betrokken zijn die toebehoren aan of worden bestuurd namens CDEMA.
 
-#### Artikel XXXI. Archieven van CDEMA
+##### Artikel XXXI. Archieven van CDEMA
 
 1. De archieven van CDEMA zijn onschendbaar, waar deze zich ook bevinden.
 
 2. Door eigendomsrechten beschermde gegevens, vertrouwelijke informatie en personeelsdossiers worden niet in archieven opgeborgen die ter inzage van het publiek zijn.
 
-#### Artikel XXXII. Faciliteiten met betrekking tot communicatie
+##### Artikel XXXII. Faciliteiten met betrekking tot communicatie
 
 1. Ten behoeve van zijn officiële communicatie geniet CDEMA in de deelnemende staten vrijheid van communicatie.
 
@@ -492,7 +514,7 @@ Deelnemende staten dienen, op verzoek van hetzij de verzoekende staat hetzij de 
 
 4. Dit artikel vormt geen beletsel voor het aannemen van passende veiligheidsmaatregelen in het belang van een deelnemende staat of zijn regering.
 
-#### Artikel XXXIII. Vertegenwoordigers en medewerkers van CDEMA
+##### Artikel XXXIII. Vertegenwoordigers en medewerkers van CDEMA
 
 Vertegenwoordigers van deelnemende staten die deelnemen aan vergaderingen van de raad, het MCC of het TAC alsmede de uitvoerend directeur en andere medewerkers van CDEMA, genieten op het grondgebied van elke deelnemende staat:
 
@@ -500,7 +522,7 @@ Vertegenwoordigers van deelnemende staten die deelnemen aan vergaderingen van de
 
 - b. wanneer zij geen onderdanen zijn van die deelnemende staat, dezelfde vrijstellingen van inreisbeperkingen, vreemdelingenregistratie en nationale dienstplicht, dezelfde faciliteiten ten aanzien van deviezenbeperkingen en dezelfde behandeling ter zake van reisvoorzieningen als die welke door de deelnemende staten worden toegekend aan vertegenwoordigers, functionarissen en medewerkers van vergelijkbare rang van de andere deelnemende staten.
 
-#### Artikel XXXIV. Vrijstelling van belastingen en douaneheffingen
+##### Artikel XXXIV. Vrijstelling van belastingen en douaneheffingen
 
 1. CDEMA, zijn vermogensbestanddelen, eigendommen, inkomsten, werkzaamheden en transacties zijn vrijgesteld van alle directe belastingen en alle douaneheffingen op goederen die worden geïmporteerd of geëxporteerd voor officieel gebruik door CDEMA. CDEMA maakt geen aanspraak op vrijstelling van belastingen die slechts heffingen voor verleende diensten zijn.
 
@@ -512,13 +534,13 @@ Vertegenwoordigers van deelnemende staten die deelnemen aan vergaderingen van de
 
 5. Het vierde lid is niet van toepassing wanneer de uitvoerend directeur of de medewerker van CDEMA een onderdaan is van de deelnemende staat waar CDEMA is gevestigd.
 
-#### Artikel XXXV. Schorsing van rechten en voorrechten van het lidmaatschap
+##### Artikel XXXV. Schorsing van rechten en voorrechten van het lidmaatschap
 
 1. Een deelnemende staat die achterstallig is met de betaling van zijn financiële bijdrage aan de administratieve begroting van CDEMA, kan in de raad of het MCC geen stemrecht uitoefenen indien het bedrag van de achterstallige betaling gelijk is aan of hoger dan dat van de bijdragen door hem verschuldigd over de twee voorgaande boekjaren.
 
 2. Een deelnemende staat die de verplichtingen die ingevolge dit Verdrag zijn aangegaan heeft geschonden kan door de raad worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.
 
-#### Artikel XXXVI. Arbitrage
+##### Artikel XXXVI. Arbitrage
 
 1. Elk geschil tussen een staat die partij is en CDEMA dat voortvloeit uit de interpretatie of toepassing van dit Verdrag en dat niet door onderhandeling of een andere overeengekomen wijze van geschillenbeslechting wordt geregeld, wordt op verzoek van een van de partijen ter definitieve beslissing verwezen naar een scheidsgerecht bestaande uit drie scheidsrechters.
 
@@ -530,27 +552,27 @@ Vertegenwoordigers van deelnemende staten die deelnemen aan vergaderingen van de
 
 5. Het scheidsgerecht stelt zijn eigen reglement van orde vast.
 
-#### Artikel XXXVII. Ondertekening en bekrachtiging
+##### Artikel XXXVII. Ondertekening en bekrachtiging
 
 Dit Verdrag staat open voor ondertekening door de in de Bijlage genoemde staten en dient te worden bekrachtigd in overeenstemming met hun respectieve grondwettelijke procedures.
 
-#### Artikel XXXVIII. Inwerkingtreding
+##### Artikel XXXVIII. Inwerkingtreding
 
 Dit Verdrag treedt in werking nadat de akten van bekrachtiging door ten minste zeven van de in de Bijlage genoemde staten zijn nedergelegd.
 
-#### Artikel XXXIX. Toetreding
+##### Artikel XXXIX. Toetreding
 
 1. Dit Verdrag staat open voor toetreding door elke Caribische staat die op voordracht van het MCC is toegelaten tot het lidmaatschap van het CDEMA door de raad op de voorwaarden die de raad kan vaststellen.
 
 2. Een staat die is toegelaten tot het lidmaatschap in overeenstemming met het eerste lid legt een akte van toetreding neder bij de Secretaris-Generaal van de Caribische Gemeenschap.
 
-#### Artikel XL. Depositaris
+##### Artikel XL. Depositaris
 
 1. Het oorspronkelijke exemplaar van dit Verdrag en eventuele wijzigingen daarvan worden nedergelegd bij de Secretaris-Generaal van de Caribische Gemeenschap.
 
 2. De Secretaris-Generaal van de Caribische Gemeenschap stelt de coördinerende eenheid van CDEMA in kennis van de nederlegging van akten van bekrachtiging of toetreding, naargelang van het geval, en zendt gewaarmerkte afschriften van deze akten naar de coördinerende eenheid.
 
-#### Artikel XLI. Wijzigingen
+##### Artikel XLI. Wijzigingen
 
 1. Elke deelnemende staat kan wijzigingen van dit Verdrag voorstellen.
 
@@ -562,7 +584,7 @@ Dit Verdrag treedt in werking nadat de akten van bekrachtiging door ten minste z
 
 5. Wijzigingen treden in werking wanneer alle deelnemende staten deze hebben bekrachtigd.
 
-#### Artikel XLII. Terugtrekking
+##### Artikel XLII. Terugtrekking
 
 1. Een deelnemende staat kan zich uit CDEMA terugtrekken.
 
@@ -572,7 +594,7 @@ Dit Verdrag treedt in werking nadat de akten van bekrachtiging door ten minste z
 
 4. Een deelnemende staat die zich terugtrekt uit CDEMA dient alle financiële verplichtingen die hij tijdens zijn lidmaatschap is aangegaan te vervullen.
 
-#### Artikel XLIII. Voorlopige toepassing
+##### Artikel XLIII. Voorlopige toepassing
 
 Zeven of meer van de deelnemende staten vermeld in de Bijlage bij dit Verdrag, kunnen bij ondertekening, of op een latere datum voordat dit Verdrag in werking treedt, hun voornemen uitspreken dit Verdrag voorlopig toe te passen.
 

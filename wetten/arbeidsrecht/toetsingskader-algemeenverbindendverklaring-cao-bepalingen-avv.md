@@ -1,13 +1,39 @@
 ---
-title: "Toetsingskader algemeenverbindendverklaring cao-bepalingen (AVV)"
+title: "Toetsingskader Algemeen Verbindend Verklaring CAO-bepalingen (AVV)"
 identifier: "BWBR0028909"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-06-26
-laatste_update: 2024-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028909"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-26"
+last_updated: "2024-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028909"
+soort: "beleidsregel"
+stam_id: "11065543"
+version_id: "18081922"
+internal_id: "C25135881"
+label_id: "11040284"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028909/2024-06-26/0"
+intitule_bron: "Stcrt.2010-13489"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-24"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-13489"
+original_signed_date: "2010-08-24"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-13489"
+entry_into_force_date: "2010-10-01"
+jci_1_3: "jci1.3:c:BWBR0028909&z=2024-06-26&g=2024-06-26"
+jci_1_0: "1.0:c:BWBR0028909&g=2024-06-26"
+citeertitel_status: "officieel"
+short_title: "Toetsingskader algemeenverbindendverklaring cao-bepalingen (AVV)"
+signed_date: "2010-08-24"
+entry_into_force: "2010-10-01"
 ---
-
 # Toetsingskader Algemeen Verbindend Verklaring CAO-bepalingen (AVV)
 
 ### 1. Algemeen beleidsuitgangspunt

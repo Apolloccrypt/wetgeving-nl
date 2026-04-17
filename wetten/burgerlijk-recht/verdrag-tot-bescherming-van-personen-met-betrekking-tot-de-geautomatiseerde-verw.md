@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens"
 identifier: "BWBV0002783"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-12-01
-laatste_update: 1993-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002783"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-12-01"
+last_updated: "1993-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002783"
+soort: "verdrag"
+stam_id: "10003111733"
+version_id: "10003116482"
+internal_id: "C10006979681"
+label_id: "10003098504"
+dtd_version: "2.0"
+original_entry_into_force: "1993-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002783/1993-12-01/0"
+intitule_bron: "Trb.1988-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-08-24"
+intitule_published: "1988-01-26"
+intitule_in_force: "1993-11-01"
+intitule_status: "goed"
+original_publication: "Trb.1988-7"
+original_signed_date: "1993-08-24"
+original_published_date: "1988-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-7"
+entry_into_force_date: "1993-12-01"
+jci_1_3: "jci1.3:c:BWBV0002783&z=1993-12-01&g=1993-12-01"
+jci_1_0: "1.0:c:BWBV0002783&g=1993-12-01"
+citeertitel_status: "officieel"
+signed_date: "1993-08-24"
+entry_into_force: "1993-12-01"
 ---
-
 # Verdrag tot bescherming van personen met betrekking tot de geautomatiseerde verwerking van persoonsgegevens
 
 De Lid-Staten van de Raad van Europa die dit Verdrag hebben ondertekend,
@@ -24,11 +49,11 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Onderwerp en doel
+##### Artikel 1. Onderwerp en doel
 
 Dit Verdrag heeft tot doel op het grondgebied van elke Partij aan iedere natuurlijke persoon, ongeacht zijn nationaliteit of verblijfplaats, de eerbiediging van zijn rechten en fundamentele vrijheden te waarborgen en met name zijn recht op persoonlijke levenssfeer met betrekking tot de geautomatiseerde verwerking van hem betreffende persoonsgegevens („gegevensbescherming”).
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -40,7 +65,7 @@ Voor de toepassing van dit Verdrag:
 
 - d. wordt onder „houder van een bestand” verstaan: de natuurlijke persoon of rechtspersoon, de overheidsinstantie, de dienst of enig ander lichaam welke volgens het nationale recht de bevoegdheid heeft te beslissen welk doel het geautomatiseerde bestand moet dienen, welke categorieën persoonsgegevens dienen te worden opgeslagen en welke bewerkingen hierop zullen worden toegepast.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 1. De Partijen verbinden zich dit Verdrag toe te passen op de geautomatiseerde bestanden van persoonsgegevens en op de geautomatiseerde verwerking van persoonsgegevens in de openbare en particuliere sector.
 
@@ -62,13 +87,13 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. GRONDBEGINSELEN VAN GEGEVENSBESCHERMING
 
-#### Artikel 4. Verplichtingen van Partijen
+##### Artikel 4. Verplichtingen van Partijen
 
 1. Elke Partij treft in zijn interne recht de noodzakelijke maatregelen om uitvoering te geven aan de grondbeginselen van gegevensbescherming, vervat in dit hoofdstuk.
 
 2. Deze maatregelen dienen te zijn getroffen uiterlijk op het tijdstip waarop dit Verdrag ten aanzien van die Partij in werking treedt.
 
-#### Artikel 5. Hoedanigheid van de gegevens
+##### Artikel 5. Hoedanigheid van de gegevens
 
 Persoonsgegevens die langs geautomatiseerde weg worden verwerkt, dienen:
 
@@ -82,15 +107,15 @@ Persoonsgegevens die langs geautomatiseerde weg worden verwerkt, dienen:
 
 - e. te worden bewaard in een zodanige vorm dat de betrokkene hierdoor niet langer te identificeren is dan strikt noodzakelijk is voor het doel waarvoor de gegevens zijn opgeslagen.
 
-#### Artikel 6. Bijzondere categorieën gegevens
+##### Artikel 6. Bijzondere categorieën gegevens
 
 Persoonsgegevens waaruit ras, politieke overtuiging, godsdienstige of andere levensbeschouwing blijkt, alsmede die welke betrekking hebben op gezondheid of seksueel gedrag, mogen niet langs geautomatiseerde weg worden verwerkt, tenzij het interne recht passende waarborgen ter zake biedt. Hetzelfde geldt voor persoonsgegevens over strafrechtelijke veroordelingen.
 
-#### Artikel 7. Beveiliging van gegevens
+##### Artikel 7. Beveiliging van gegevens
 
 Er dienen passende beveiligingsmaatregelen te worden getroffen om persoonsgegevens opgeslagen in geautomatiseerde bestanden te beschermen tegen toevallige of ongeoorloofde vernietiging, toevallig verlies en ongeoorloofde toegang, wijziging of verspreiding.
 
-#### Artikel 8. Bijkomende waarborgen voor de betrokkene
+##### Artikel 8. Bijkomende waarborgen voor de betrokkene
 
 Een ieder dient in staat te worden gesteld:
 
@@ -102,7 +127,7 @@ Een ieder dient in staat te worden gesteld:
 
 - d. over een rechtsmiddel te beschikken, indien geen gevolg wordt gegeven aan een verzoek om uitsluitsel of, al naargelang het geval, mededeling, verbetering of uitwissing van persoonsgegevens als bedoeld in letter b en letter c van dit artikel.
 
-#### Artikel 9. Uitzonderingen en beperkingen
+##### Artikel 9. Uitzonderingen en beperkingen
 
 1. Op het in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II&artikel=5&z=1993-12-01&g=1993-12-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II&artikel=6&z=1993-12-01&g=1993-12-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II&artikel=8&z=1993-12-01&g=1993-12-01) van dit Verdrag bepaalde is geen uitzondering toegestaan, tenzij binnen de in dit artikel gestelde grenzen.
 
@@ -116,17 +141,17 @@ Een ieder dient in staat te worden gesteld:
 
 3. Aan de uitoefening van de in letters b, c en d van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II&artikel=8&z=1993-12-01&g=1993-12-01) opgesomde rechten mogen bij de wet beperkingen worden gesteld wat betreft geautomatiseerde bestanden van persoonsgegevens die worden gebruikt voor statistiek of voor wetenschappelijk onderzoek, indien er kennelijk geen risico bestaat dat inbreuk zal worden gemaakt op de persoonlijke levenssfeer van de betrokkenen.
 
-#### Artikel 10. Sancties en rechtsmiddelen
+##### Artikel 10. Sancties en rechtsmiddelen
 
 Elke Partij verbindt zich passende sancties en rechtsmiddelen in te stellen ter zake van schending van bepalingen van het interne recht waarmede uitvoering wordt gegeven aan de grondbeginselen van gegevensbescherming, vervat in dit hoofdstuk.
 
-#### Artikel 11. Verdergaande bescherming
+##### Artikel 11. Verdergaande bescherming
 
 Geen der bepalingen van dit hoofdstuk mag worden uitgelegd in de zin van een beperking of aantasting van de bevoegdheid van iedere Partij om aan betrokkenen een verdergaande bescherming te bieden dan bij dit Verdrag is bepaald.
 
 ### HOOFDSTUK III. GRENSOVERSCHRIJDEND VERKEER VAN GEGEVENS
 
-#### Artikel 12. Grensoverschrijdend verkeer van persoonsgegevens en intern recht
+##### Artikel 12. Grensoverschrijdend verkeer van persoonsgegevens en intern recht
 
 1. De volgende bepalingen gelden voor het overbrengen over de landsgrenzen, met welk middel dan ook, van persoonsgegevens die langs geautomatiseerde weg worden verwerkt of die zijn verzameld met het doel deze een zodanige verwerking te doen ondergaan.
 
@@ -140,7 +165,7 @@ Geen der bepalingen van dit hoofdstuk mag worden uitgelegd in de zin van een bep
 
 ### HOOFDSTUK IV. WEDERZIJDSE HULP
 
-#### Artikel 13. Samenwerking tussen de Partijen
+##### Artikel 13. Samenwerking tussen de Partijen
 
 1. De Partijen verbinden zich elkaar ter uitvoering van dit Verdrag onderling hulp te verlenen.
 
@@ -156,7 +181,7 @@ Geen der bepalingen van dit hoofdstuk mag worden uitgelegd in de zin van een bep
 
 - b. in overeenstemming met haar interne recht en uitsluitend ter bescherming van de persoonlijke levenssfeer alle passende maatregelen nemen om feitelijke inlichtingen te geven over een bepaalde geautomatiseerde verwerking die op haar grondgebied plaats vindt, met uitzondering evenwel van de persoonsgegevens die aldus worden verwerkt.
 
-#### Artikel 14. Hulp aan in het buitenland verblijf houdende betrokkenen
+##### Artikel 14. Hulp aan in het buitenland verblijf houdende betrokkenen
 
 1. Elke Partij verleent hulp aan iedere in het buitenland verblijf houdende persoon waar het de uitoefening betreft van de rechten vervat in zijn interne recht, ter uitvoering van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=II&artikel=8&z=1993-12-01&g=1993-12-01) van dit Verdrag nedergelegde grondbeginselen.
 
@@ -170,7 +195,7 @@ Geen der bepalingen van dit hoofdstuk mag worden uitgelegd in de zin van een bep
 
 - c. het doel van het verzoek.
 
-#### Artikel 15. Waarborgen omtrent hulp verleend door aangewezen instanties
+##### Artikel 15. Waarborgen omtrent hulp verleend door aangewezen instanties
 
 1. Een door een Partij aangewezen instantie die van een door een andere Partij aangewezen instantie inlichtingen heeft ontvangen, hetzij ter ondersteuning van een verzoek om hulp, hetzij in antwoord op een verzoek om hulp dat zij zelf heeft gedaan, mag deze inlichtingen niet voor andere doeleinden gebruiken dan vermeld in het verzoek om hulp.
 
@@ -178,7 +203,7 @@ Geen der bepalingen van dit hoofdstuk mag worden uitgelegd in de zin van een bep
 
 3. In geen geval mag een aangewezen instantie een verzoek om hulp namens een in het buitenland verblijf houdende betrokkene als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV&artikel=14&z=1993-12-01&g=1993-12-01), eigener beweging en zonder de uitdrukkelijke toestemming van die persoon indienen.
 
-#### Artikel 16. Afwijzing van verzoeken om hulp
+##### Artikel 16. Afwijzing van verzoeken om hulp
 
 Een aangewezen instantie tot wie een verzoek om hulp als bedoeld in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV&artikel=13&z=1993-12-01&g=1993-12-01) of [14](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV&artikel=14&z=1993-12-01&g=1993-12-01) van dit Verdrag wordt gericht, mag slechts weigeren hieraan gevolg te geven wanneer:
 
@@ -188,7 +213,7 @@ Een aangewezen instantie tot wie een verzoek om hulp als bedoeld in de [artikele
 
 - c. uitvoering van het verzoek onverenigbaar zou zijn met de soevereiniteit, veiligheid of openbare orde van de Partij die haar heeft aangewezen of met de rechten en fundamentele vrijheden van personen ressorterend onder de rechtsmacht van die Partij.
 
-#### Artikel 17. Kosten en procedures van hulpverlening
+##### Artikel 17. Kosten en procedures van hulpverlening
 
 1. De onderlinge hulp die de Partijen elkaar overeenkomstig het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV&artikel=13&z=1993-12-01&g=1993-12-01) verlenen en de hulp die zij overeenkomstig het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0002783&hoofdstuk=IV&artikel=14&z=1993-12-01&g=1993-12-01) aan in het buitenland verblijf houdende betrokkenen verlenen, zal tot betaling van geen andere kosten en rechten aanleiding geven dan die welke zijn verschuldigd aan deskundigen en tolken. Deze kosten komen voor rekening van de Partij die de instantie heeft aangewezen welke het verzoek om hulp heeft ingediend.
 
@@ -198,7 +223,7 @@ Een aangewezen instantie tot wie een verzoek om hulp als bedoeld in de [artikele
 
 ### HOOFDSTUK V. ADVIESCOMMISSIE
 
-#### Artikel 18. Samenstelling van de Commissie
+##### Artikel 18. Samenstelling van de Commissie
 
 1. Na inwerkingtreding van dit Verdrag wordt een Adviescommissie ingesteld.
 
@@ -206,7 +231,7 @@ Een aangewezen instantie tot wie een verzoek om hulp als bedoeld in de [artikele
 
 3. De Adviescommissie kan met een bij eenparigheid van stemmen genomen besluit elke Staat die geen lid van de Raad van Europa is en evenmin Partij bij dit Verdrag is, uitnodigen zich in een harer bijeenkomsten door een waarnemer te doen vertegenwoordigen.
 
-#### Artikel 19. Taken van de Commissie
+##### Artikel 19. Taken van de Commissie
 
 De Adviescommissie:
 
@@ -218,7 +243,7 @@ De Adviescommissie:
 
 - d. kan op verzoek van een Partij een oordeel geven over ongeacht welk vraagstuk betreffende de toepassing van dit Verdrag.
 
-#### Artikel 20. Procedure
+##### Artikel 20. Procedure
 
 1. De Adviescommissie wordt bijeengeroepen door de Secretaris-Generaal van de Raad van Europa. Zij komt voor de eerste maal bijeen binnen een termijn van twaalf maanden na de inwerkingtreding van dit Verdrag. Vervolgens komt zij ten minste éénmaal per twee jaar bijeen en in elk geval telkens wanneer éénderde der vertegenwoordigers van de Partijen verlangen dat zij wordt bijeengeroepen.
 
@@ -230,7 +255,7 @@ De Adviescommissie:
 
 ### HOOFDSTUK VI. WIJZIGINGEN
 
-#### Artikel 21. Wijzigingen
+##### Artikel 21. Wijzigingen
 
 1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door een Partij, het Comité van Ministers van de Raad van Europa of de Adviescommissie.
 
@@ -246,7 +271,7 @@ De Adviescommissie:
 
 ### HOOFDSTUK VII. SLOTBEPALINGEN
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 1. Dit Verdrag is opengesteld voor ondertekening door de Lid-Staten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -254,13 +279,13 @@ De Adviescommissie:
 
 3. Voor iedere Lid-Staat die nadien te kennen geeft dat hij ermede instemt door dit Verdrag te worden gebonden, treedt het in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 23. Toetreding van niet-Lid-Staten
+##### Artikel 23. Toetreding van niet-Lid-Staten
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad van Europa uitnodigen tot dit Verdrag toe te treden ingevolge een bij meerderheid van stemmen genomen besluit, zoals bepaald in artikel 20, letter d, van het Statuut van de Raad van Europa en met eenparigheid van stemmen van de vertegenwoordigers der Verdragsluitende Staten die zijn gerechtigd zitting te hebben in de Commissie.
 
 2. Voor iedere Staat die toetreedt, treedt het Verdrag in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 24. Territoriale clausule
+##### Artikel 24. Territoriale clausule
 
 1. Iedere Staat kan bij de ondertekening of de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop dit Verdrag van toepassing zal zijn.
 
@@ -268,17 +293,17 @@ De Adviescommissie:
 
 3. Iedere verklaring afgelegd krachtens beide voorgaande leden kan wat betreft elk daarin vermeld gebied worden ingetrokken door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 25. Voorbehouden
+##### Artikel 25. Voorbehouden
 
 Geen enkel voorbehoud op de bepalingen van dit Verdrag is toegestaan.
 
-#### Artikel 26. Opzegging
+##### Artikel 26. Opzegging
 
 1. Iedere Partij kan op elk tijdstip dit Verdrag opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 27. Kennisgevingen
+##### Artikel 27. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad van Europa en iedere Staat die tot dit Verdrag is toegetreden, kennis van:
 

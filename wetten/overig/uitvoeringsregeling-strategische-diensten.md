@@ -1,20 +1,46 @@
 ---
-title: "Uitvoeringsregeling strategische diensten"
+title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 7 november 2011, nr. WJZ / 11158559, houdende regels ter uitvoering van de Wet strategische diensten (Uitvoeringsregeling strategische diensten)"
 identifier: "BWBR0030629"
-categorie: "Overig"
-publicatiedatum: 2021-09-09
-laatste_update: 2021-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030629"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-09-09"
+last_updated: "2021-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030629"
+soort: "ministeriele-regeling"
+stam_id: "11496033"
+version_id: "27973632"
+internal_id: "C39465891"
+label_id: "11469374"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030629/2021-09-09/0"
+intitule_bron: "Stcrt.2011-20510"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-07"
+intitule_published: "2011-11-14"
+intitule_in_force: "2011-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-39177"
+original_signed_date: "2021-08-24"
+original_published_date: "2021-08-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-39177"
+entry_into_force_date: "2021-08-24"
+jci_1_3: "jci1.3:c:BWBR0030629&z=2021-09-09&g=2021-09-09"
+jci_1_0: "1.0:c:BWBR0030629&g=2021-09-09"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling strategische diensten"
+signed_date: "2021-08-24"
+entry_into_force: "2021-08-24"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 7 november 2011, nr. WJZ / 11158559, houdende regels ter uitvoering van de Wet strategische diensten (Uitvoeringsregeling strategische diensten)
 
 Gelet op [verordening (EG) nr. 428/2009](32009R0428) van de Raad van 5 mei 2009 tot instelling van een communautaire regeling voor controle op de uitvoer, de overbrenging, de tussenhandel en de doorvoer van producten voor tweeërlei gebruik (PbEU 2009, L 134) en de [artikelen 7, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), [10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=10), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=14), [23, derde lid, onderdeel b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23), [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=24), en [25, tweede lid, van de Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=25);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** de [Wet strategische diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0030545).
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), en [23, derde lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23) worden de volgende landen aangewezen: Afghanistan, Belarus, Birma/Myanmar, Centraal Afrikaanse Republiek, Congo, Egypte, Eritrea, Guinee, India, Irak, Iran, Israël, Jemen, Libanon, Libië, Noord-Korea, Oekraïne, Pakistan, Qatar, Rusland, Saoedi-Arabië, Soedan, Somalië, Syrië, Verenigde Arabische Emiraten, Zimbabwe, Zuid-Soedan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De mededeling omtrent tussenhandeldiensten, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=7), onderscheidenlijk [artikel 23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=23), wordt schriftelijk gedaan en wordt gezonden naar de inspecteur.
 
@@ -60,7 +86,7 @@ Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.o
 
 3. De mededeling wordt gedaan uiterlijk twee weken voordat de dienstverlening plaatsvindt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. [Artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=10) is niet van toepassing op tussenhandeldiensten militaire goederen die betrekking hebben op:
 
@@ -74,7 +100,7 @@ Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.o
 
 2. Het eerste lid, aanhef en onderdelen a, b, voor zover het gebruik door NAVO-strijdkrachten betreft, en d, is van overeenkomstige toepassing in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag voor een vergunning als bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030545&artikel=14) wordt gedaan door de dienstverlener en ingediend bij de inspecteur.
 
@@ -96,21 +122,21 @@ Voor de toepassing van de [artikelen 7, derde lid, onderdeel b](https://wetten.o
 
 5. Het eerste tot en met vierde lid is van toepassing in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 6
+##### Artikel 6
 
 De [Sanctieregeling tussenhandeldiensten 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026500) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 januari 2012.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling strategische diensten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op de Verordening producten voor tweeërlei gebruik.
 

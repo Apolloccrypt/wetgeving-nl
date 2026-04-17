@@ -1,20 +1,42 @@
 ---
 title: "Reglement tuchtrechtspraak BKD 2005"
 identifier: "BWBR0017866"
-categorie: "Overig"
-publicatiedatum: 2005-11-27
-laatste_update: 2005-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017866"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-11-27"
+last_updated: "2005-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017866"
+soort: "zbo"
+stam_id: "7621413"
+version_id: "12511552"
+internal_id: "C16788091"
+label_id: "7609354"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017866/2005-11-27/0"
+intitule_bron: "Stcrt.2005-230"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2005-11-25"
+intitule_in_force: "2005-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-230"
+original_published_date: "2005-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-230-p15-SC72140"
+entry_into_force_date: "2005-11-27"
+jci_1_3: "jci1.3:c:BWBR0017866&z=2005-11-27&g=2005-11-27"
+jci_1_0: "1.0:c:BWBR0017866&g=2005-11-27"
+citeertitel_status: "officieel"
+entry_into_force: "2005-11-27"
 ---
-
 # Reglement tuchtrechtspraak BKD 2005
 
 Gelet op [artikel 13, derde lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) en [artikel 2 van het Tuchtrechtbesluit Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0003252&artikel=2) heeft het bestuur van de Stichting Bloembollenkeuringsdienst in haar vergadering van 25 april 2005 het navolgende reglement vastgesteld. Het reglement is goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -24,7 +46,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 ### Hoofdstuk II. Samenstelling en bevoegdheid van het tuchtgerecht
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het tuchtgerecht is samengesteld uit een lid-voorzitter, een lid-vice-voorzitter en vier andere leden. Het wordt bijgestaan door een secretaris.
 
@@ -38,7 +60,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 6. Bij het bereiken van de leeftijd van zeventig jaren wordt aan de voorzitter, de vice-voorzitter en de andere leden door het bestuur ontslag verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Echtgenoten, bloed- of aanverwanten tot de derde graad ingesloten kunnen niet tezamen zijn voorzitter, vice-voorzitter, lid, of secretaris van het tuchtgerecht.
 
@@ -46,7 +68,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 3. Indien de zwangerschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn functie niet kunnen behouden, behoudens goedkeuring door de Ministers van Landbouw, Natuur en Voedselkwaliteit en van Justitie. De zwagerschap houdt op door de ontbinding van het huwelijk dat haar veroorzaakte.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorzitter en de overige leden kunnen tussentijds op eigen verzoek door het bestuur ontslagen worden.
 
@@ -56,7 +78,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 4. Tegen een besluit als bedoeld in het tweede lid staat beroep open bij de Minister van Landbouw, Natuur en Voedselkwaliteit. Dit beroep dient binnen 30 dagen na verzending van het in het tweede lid bedoelde aangetekende schrijven te worden ingesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kosten van het tuchtgerecht komen ten laste van de Stichting.
 
@@ -64,7 +86,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 3. Het bestuur van de Stichting kan aan de voorzitter, de vice-voorzitter en de secretaris een verdere vergoeding voor hun werkzaamheden toekennen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het tuchtgerecht houdt zitting te Lisse. Indien de zaak zelf, danwel de omstandigheden daartoe aanleiding geven, kan de voorzitter bepalen dat het tuchtgerecht buiten Lisse zitting houdt.
 
@@ -72,7 +94,7 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 3. De voorzitter bepaalt in welke personele samenstelling het tuchtgerecht zitting heeft en welk lid een voor een zitting aangewezen lid bij diens verhindering zal vervangen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is aan de voorzitter en de andere leden verboden buiten de zitting:
 
@@ -88,13 +110,13 @@ Voorzitter: de voorzitter van het tuchtgerecht.
 
 ### Hoofdstuk III. Tuchtrechtelijke maatregelen
 
-#### Artikel 8
+##### Artikel 8
 
 De [artikelen 13, eerste lid van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=13) en [3 tot en met 6 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=3) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling.
 
 ### Hoofdstuk IV. Het tuchtgeding in eerste aanleg
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een zaak wordt door of namens het bestuur van de Stichting binnen een redelijke termijn na constatering van de overtreding aanhangig gemaakt door middel van een schriftelijke verklaring, inhoudende:
 
@@ -114,7 +136,7 @@ Tevens worden deze stukken gezonden aan de Officier van Justitie, tenzij deze he
 
 5. Het overleg als bedoeld in [artikel 18, tweede lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=18) inzake het al of niet strafrechtelijk afdoen van een overtreding, door een aangeslotene begaan, wordt door de directeur van de BKD gevoerd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onverminderd het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0017866&hoofdstuk=IV&artikel=13&z=2005-11-27&g=2005-11-27) wordt de aangeslotene binnen een termijn van twee maanden nadat een zaak tegen hem bij het tuchtgerecht aanhangig is gemaakt, onderscheidenlijk binnen twee maanden nadat overeenkomstig [artikel 12, derde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0017866&hoofdstuk=IV&artikel=12&z=2005-11-27&g=2005-11-27) mondelinge behandeling is verzocht, bij aangetekende brief opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De oproeping wordt ten minste veertien dagen voor de dag der zitting aan hem toegezonden en vermeldt de plaats der zitting. Met inachtneming van dezelfde termijn wordt ook het bestuur of degene die de zaak namens het bestuur aanhangig heeft gemaakt bij aangetekende brief ter zitting opgeroepen.
 
@@ -128,7 +150,7 @@ Tevens worden deze stukken gezonden aan de Officier van Justitie, tenzij deze he
 
 - c. De mededeling, dat de aangeslotene bevoegd is zich ter zitting door een raadsman te doen bijstaan.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De zittingen van het tuchtgerecht zijn openbaar, tenzij naar het oordeel van de voorzitter dringende redenen zich daartegen verzetten.
 
@@ -136,7 +158,7 @@ Tevens worden deze stukken gezonden aan de Officier van Justitie, tenzij deze he
 
 3. Het tuchtgerecht kan weigeren bepaalde personen, die niet zijn advocaat, als gemachtigde toe te laten. Alsdan wordt de zaak tot een volgende zitting aangehouden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het tuchtgerecht kan de behandeling ter zitting schorsen onder opgaaf van redenen.
 
@@ -144,11 +166,11 @@ Tevens worden deze stukken gezonden aan de Officier van Justitie, tenzij deze he
 
 3. De in het tweede lid bedoelde mededeling gaat vergezeld van een afschrift van alle op de zaak betrekking hebbende stukken, voor zover niet reeds toegezonden ingevolge [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017866&hoofdstuk=IV&artikel=9&z=2005-11-27&g=2005-11-27).
 
-#### Artikel 13
+##### Artikel 13
 
 De [artikelen 21 tot en met 25 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=21) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden volstaan: de controle-instelling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het tuchtgerecht kan ambtshalve of op verzoek van de betrokken aangeslotene een of meer deskundigen benoemen, zo nodig met opdracht een onderzoek in te stellen en daarvan verslag uit te brengen.
 
@@ -162,11 +184,11 @@ De [artikelen 21 tot en met 25 van de Wet tuchtrechtspraak bedrijfsorganisatie 2
 
 6. Het tuchtgerecht kan een deskundige geheimhouding opleggen.
 
-#### Artikel 15
+##### Artikel 15
 
 Degene, die als getuige of deskundige is opgeroepen en verschenen, niet-zijnde functionaris der Stichting, ontvangt een vergoeding overeenkomstig het tarief in strafzaken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Meerdere overtredingen van de voorschriften, door dezelfde aangeslotene begaan, kunnen tegelijkertijd tuchtrechtelijk worden afgedaan.
 
@@ -174,30 +196,30 @@ Degene, die als getuige of deskundige is opgeroepen en verschenen, niet-zijnde f
 
 ### Hoofdstuk V. Beroep
 
-#### Artikel 17
+##### Artikel 17
 
 De [artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=31) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling.
 
 ### Hoofdstuk VI. Tenuitvoerlegging
 
-#### Artikel 18
+##### Artikel 18
 
 De [artikelen 42](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=42) en [44 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016341&artikel=44) zijn van overeenkomstige toepassing met dien verstande dat onder ‘de voorzitter van het bedrijfslichaam’ en ‘bedrijfslichaam’ telkens moet worden verstaan: de controle-instelling.
 
-#### Artikel 19
+##### Artikel 19
 
 Een uitspraak wordt niet ten uitvoer gelegd voordat zij onherroepelijk is.
 
 ### Hoofdstuk VII. Slot- en overgangsbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Het [reglement gepubliceerd in de Staatscourant](https://wetten.overheid.nl/jci1.3:c:BWBR0003602) (Stcrt. 1983, 241) wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit reglement wordt aangehaald als: Reglement tuchtrechtspraak BKD 2005.

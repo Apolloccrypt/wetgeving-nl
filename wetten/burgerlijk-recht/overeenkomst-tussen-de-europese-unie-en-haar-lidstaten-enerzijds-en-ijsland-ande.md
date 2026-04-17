@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering"
 identifier: "BWBV0006503"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2018-11-27
-laatste_update: 2018-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006503"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-11-27"
+last_updated: "2018-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006503"
+soort: "verdrag"
+stam_id: "10005303323"
+version_id: "10005700622"
+internal_id: "C10009470491"
+label_id: "10005286124"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006503/2018-11-27/0"
+intitule_bron: "Trb.2015-81"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-05-28"
+intitule_in_force: "2018-10-11"
+intitule_status: "goed"
+original_publication: "Trb.2015-81"
+original_published_date: "2015-05-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-81"
+entry_into_force_date: "2018-11-27"
+jci_1_3: "jci1.3:c:BWBV0006503&z=2018-11-27&g=2018-11-27"
+jci_1_0: "1.0:c:BWBV0006503&g=2018-11-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-11-27"
 ---
-
 # Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering
 
 De Europese Unie
@@ -88,11 +110,11 @@ IJsland neemt deel aan het Comité klimaatverandering van de Europese Unie, opge
 
 Hebben besloten de volgende overeenkomst te sluiten:
 
-#### Artikel 1. Doelstelling van de overeenkomst
+##### Artikel 1. Doelstelling van de overeenkomst
 
 Deze Overeenkomst heeft tot doel, de voorwaarden vast te stellen voor de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Europese Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538), en een effectieve uitvoering van deze deelname mogelijk te maken, inclusief de bijdrage van IJsland aan de nakoming van de rapportagevoorschriften van de Unie voor de tweede verbintenisperiode van het Protocol van Kyoto.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -104,7 +126,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 - d. „de ETS-richtlijn”: [Richtlijn 2003/87/EG](32003L0087) van het Europees Parlement en de Raad van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap, zoals gewijzigd.
 
-#### Artikel 3. Gezamenlijke nakoming
+##### Artikel 3. Gezamenlijke nakoming
 
 1. De partijen komen overeen om gezamenlijk te voldoen aan hun gekwantificeerde verbintenissen inzake emissiebeperking en -reductie voor de tweede verbintenisperiode, opgenomen in de derde kolom van [bijlage B bij het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B), in overeenstemming met de voorwaarden van de gezamenlijke nakoming.
 
@@ -112,7 +134,7 @@ In deze Overeenkomst wordt verstaan onder:
 
 3. Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=8&z=2018-11-27&g=2018-11-27) van deze overeenkomst boekt IJsland aan het einde van de tweede verbintenisperiode, overeenkomstig Besluit 1/CMP.8 of andere relevante besluiten van instanties van het UNFCCC of van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) en de voorwaarden van de gezamenlijke nakoming, van zijn nationaal register de AAU’s, CER’s, ERU’s, RMU’s, tCER’s of lCER’s af die overeenstemmen met de broeikasgasemissies afkomstig van bronnen en de verwijderingen per put die vallen onder haar toegewezen hoeveelheid.
 
-#### Artikel 4. Toepassing van de relevante wetgeving van de Unie
+##### Artikel 4. Toepassing van de relevante wetgeving van de Unie
 
 1. De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst opgenomen wetgevingshandelingen zijn bindend voor IJsland en worden van toepassing in IJsland. Wanneer de in die bijlage opgenomen rechtshandelingen verwijzingen naar de lidstaten van de Unie bevatten, worden deze verwijzingen voor de toepassing van deze Overeenkomst tevens opgevat als verwijzingen naar IJsland.
 
@@ -124,13 +146,13 @@ In deze Overeenkomst wordt verstaan onder:
 
 5. Het is van bijzonder belang dat de Commissie haar gangbare praktijk volgt en overleg voert met deskundigen, onder wie deskundigen uit IJsland, alvorens gedelegeerde handelingen goed te keuren die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) bij deze Overeenkomst zijn opgenomen of moeten worden opgenomen.
 
-#### Artikel 5. Rapportage
+##### Artikel 5. Rapportage
 
 1. In overeenstemming met deze Overeenkomst, de voorschriften van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538), de wijziging van Doha en de op grond daarvan aangenomen besluiten dient IJsland uiterlijk op 15 april 2015 bij het secretariaat van het UNFCCC een rapport in met het oog op het faciliteren van de berekening van de hem toegewezen hoeveelheid.
 
 2. De Europese Unie stelt een rapport op met het oog op het faciliteren van de berekening van de toegewezen hoeveelheid van de Unie, en een rapport met het oog op het faciliteren van de berekening van de gezamenlijke toegewezen hoeveelheid van de Unie, haar lidstaten en IJsland („de gezamenlijke toegewezen hoeveelheid”) in overeenstemming met deze overeenkomst, de voorschriften van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538), de wijziging van Doha en de op grond daarvan aangenomen besluiten. De Unie dient deze rapporten uiterlijk op 15 april 2015 in bij het secretariaat van het UNFCCC.
 
-#### Artikel 6. Comité gezamenlijke nakoming
+##### Artikel 6. Comité gezamenlijke nakoming
 
 1. Er wordt een Comité gezamenlijke nakoming opgericht, bestaande uit vertegenwoordigers van de partijen.
 
@@ -142,11 +164,11 @@ In deze Overeenkomst wordt verstaan onder:
 
 5. Het Comité gezamenlijke nakoming stelt bij consensus zijn reglement van orde vast.
 
-#### Artikel 7. Voorbehouden
+##### Artikel 7. Voorbehouden
 
 Er mogen geen voorbehouden worden gemaakt bij deze overeenkomst.
 
-#### Artikel 8. Duur en naleving
+##### Artikel 8. Duur en naleving
 
 1. Deze Overeenkomst wordt gesloten voor de periode tot het eind van de extra periode voor het nakomen van de verbintenissen van de tweede verbintenisperiode van het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) of totdat alle kwesties in verband met de uitvoering in het kader van het Protocol van Kyoto voor een van de partijen, in verband met deze verbintenisperiode of de uitvoering van de gezamenlijke nakoming, zijn opgelost, indien dit later is. Deze Overeenkomst kan niet eerder worden beëindigd.
 
@@ -154,11 +176,11 @@ Er mogen geen voorbehouden worden gemaakt bij deze overeenkomst.
 
 3. In geval van een inbreuk op deze Overeenkomst of een bezwaar van IJsland tegen de wijziging van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&bijlage=1&z=2018-11-27&g=2018-11-27) ervan in overeenstemming met [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006503&artikel=4&z=2018-11-27&g=2018-11-27), moet IJsland melding maken van de gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies afkomstig van bronnen en de verwijderingen per put in IJsland die onder het [Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538) in de tweede verbintenisperiode vallen, met inbegrip van emissies uit bronnen die onder de EU-regeling voor de handel in broeikasgasemissierechten vallen, tegen de gekwantificeerde doelstelling voor emissiereductie die is opgenomen in de derde kolom van [bijlage B bij het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B) en aan het einde van de tweede verbintenisperiode AAU’s, CER’s, ERU’s, RMU’s en tCER’s of lCER’s die overeenstemmen met emissies afboeken van zijn nationaal register.
 
-#### Artikel 9. Depositaris
+##### Artikel 9. Depositaris
 
 Deze Overeenkomst, opgesteld in twee exemplaren in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische de Zweedse en de IJslandse taal, waarbij alle teksten gelijkelijk authentiek zijn, wordt neergelegd bij de secretaris-generaal van de Raad van de Europese Unie.
 
-#### Artikel 10. Neerlegging van de akten van bekrachtiging
+##### Artikel 10. Neerlegging van de akten van bekrachtiging
 
 1. Deze Overeenkomst wordt door de partijen geratificeerd volgens hun respectieve nationale voorschriften. Elke partij legt haar akten van bekrachtiging neer bij de secretaris-generaal van de Raad van de Europese Unie, hetzij vóór, hetzij tegelijkertijd met de neerlegging van de akte van aanvaarding van de wijziging van Doha bij de secretaris-generaal van de Verenigde Naties.
 
@@ -166,7 +188,7 @@ Deze Overeenkomst, opgesteld in twee exemplaren in de Bulgaarse, de Deense, de D
 
 3. Bij de neerlegging van de akte van aanvaarding van de wijziging van Doha doet IJsland ook in eigen naam kennisgeving van de voorwaarden van de gezamenlijke nakoming bij het secretariaat van het [Raamverdrag van de Verenigde Naties inzake klimaatverandering](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) in overeenstemming met [artikel 4, lid 2, van het Protocol van Kyoto](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=4).
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze overeenkomst treedt in werking op de negentigste dag na de datum waarop alle partijen hun akte van bekrachtiging hebben neergelegd.
 

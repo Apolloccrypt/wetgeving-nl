@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016 nr. MBO/839405, houdende vaststelling van kwalificatiedossiers en opleidingsdomeinen (Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016)"
 identifier: "BWBR0037678"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037678"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037678"
+soort: "ministeriele-regeling"
+stam_id: "13430423"
+version_id: "23049852"
+internal_id: "C33314541"
+label_id: "13397874"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037678/2026-01-01/0"
+intitule_bron: "Stcrt.2016-10144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-14"
+intitule_published: "2016-02-29"
+intitule_in_force: "2016-02-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-10144"
+original_signed_date: "2016-02-14"
+original_published_date: "2016-02-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-10144"
+entry_into_force_date: "2016-03-01"
+jci_1_3: "jci1.3:c:BWBR0037678&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0037678&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016"
+signed_date: "2016-02-14"
+entry_into_force: "2016-03-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016 nr. MBO/839405, houdende vaststelling van kwalificatiedossiers en opleidingsdomeinen (Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -18,7 +44,7 @@ BESLUIT:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Vaststelling kwalificatiedossiers en opleidingsdomeinen
 
-#### Artikel 2. Vaststelling opleidingsdomeinen 2016
+##### Artikel 2. Vaststelling opleidingsdomeinen 2016
 
 De volgende opleidingsdomeinen worden vastgesteld:
 
@@ -64,7 +90,7 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 - p. Voedsel, natuur en leefomgeving.
 
-#### Artikel 3. Vaststelling kwalificatiedossiers
+##### Artikel 3. Vaststelling kwalificatiedossiers
 
 1. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=1&z=2026-01-01&g=2026-01-01) behorende bij deze regeling wordt voor ieder kwalificatiedossier het volgende vastgesteld:
 
@@ -84,25 +110,25 @@ De volgende opleidingsdomeinen worden vastgesteld:
 
 - d. de prijsfactor.
 
-#### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
+##### Artikel 4. Vaststelling kwalificatiedossiers/kwalificaties OCW
 
 De kwalificatiedossiers en de daarbij behorende kwalificaties, worden vastgesteld op de wijze bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2026-01-01&g=2026-01-01) behorende bij deze regeling.
 
-#### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
+##### Artikel 5. Vaststelling kwalificatiedossiers/kwalificaties EZ
 
 Vervallen
 
-#### Artikel 6. Middenkaderopleidingen
+##### Artikel 6. Middenkaderopleidingen
 
 Voor de middenkaderopleidingen, opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=4&z=2026-01-01&g=2026-01-01) bij deze regeling, kan door het bevoegd gezag een studieduur worden vastgesteld van vier studiejaren.
 
-#### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
+##### Artikel 7. Opleidingsaanbod vakinstellingen en agrarische opleidingscentra
 
 Vervallen
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 8. Intrekking ministeriële regelingen
+##### Artikel 8. Intrekking ministeriële regelingen
 
 De volgende regelingen worden ingetrokken:
 
@@ -114,13 +140,13 @@ De volgende regelingen worden ingetrokken:
 
 - d. [Regeling vaststelling vierjarige beroepsopleidingen](https://wetten.overheid.nl/jci1.3:c:BWBR0035212).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 1. Deze regeling treedt, met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01), in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt, met uitzondering van artikel 8, terug tot en met 1 februari 2016.
 
 2. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01) treedt in werking met ingang van 1 augustus 2016.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2016.
 
@@ -1669,7 +1695,7 @@ Deze regeling zal met de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 De [bijlagen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=2&z=2024-08-01&g=2024-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037678&bijlage=3&z=2024-08-01&g=2024-08-01) worden gepubliceerd op www.s-bb.nl/kwalificatiedossiers.
 
-#### Artikel 7a. Overgangsrecht cross-over kwalificaties
+##### Artikel 7a. Overgangsrecht cross-over kwalificaties
 
 1. Inschrijving voor de volgende kwalificatiedossiers en kwalificaties staat slechts open voor studenten die voor 1 augustus 2025 reeds ingeschreven stonden aan de overeenkomstige experimentele opleiding, bedoeld in het [Besluit experiment cross-over kwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0038333), zoals dat luidde op 31 juli 2025:
 

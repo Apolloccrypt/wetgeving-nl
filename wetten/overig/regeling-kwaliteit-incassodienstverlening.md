@@ -1,20 +1,46 @@
 ---
-title: "Regeling kwaliteit incassodienstverlening"
+title: "Regeling van de Minister voor Rechtsbescherming van 23 maart, nr. 5207106 houdende nadere regels ter zake van enkele kwaliteitseisen voor incassodienstverleners (Regeling kwaliteit incassodienstverlening)"
 identifier: "BWBR0049507"
-categorie: "Overig"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049507"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049507"
+soort: "ministeriele-regeling"
+stam_id: "17060433"
+version_id: "30020182"
+internal_id: "C43032211"
+label_id: "16969224"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049507/2024-04-01/0"
+intitule_bron: "Stcrt.2024-10329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-23"
+intitule_published: "2024-03-28"
+intitule_in_force: "2024-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-10329"
+original_signed_date: "2024-03-23"
+original_published_date: "2024-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-10329"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049507&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0049507&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling kwaliteit incassodienstverlening"
+signed_date: "2024-03-23"
+entry_into_force: "2024-04-01"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 23 maart, nr. 5207106 houdende nadere regels ter zake van enkele kwaliteitseisen voor incassodienstverleners (Regeling kwaliteit incassodienstverlening)
 
 Gelet op de [artikelen 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=2.5), [4.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=4.1), en [5.1, vijfde lid, van het Besluit kwaliteit incassodienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=5.1);
 
 Besluit:
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **schuldhulpverlening:** het ondersteunen bij het vinden van een adequate oplossing gericht op de aflossing van schulden indien redelijkerwijs is te voorzien dat een natuurlijke persoon niet zal kunnen voortgaan met het betalen van zijn schulden of indien hij in de toestand verkeert dat hij heeft opgehouden te betalen, alsmede de nazorg.
 
-#### Artikel 2. Vakbekwaamheid
+##### Artikel 2. Vakbekwaamheid
 
 1. Voor incassomedewerkers bestaat de kennis over relevante wetgeving bedoeld in [artikel 2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=2.1) uit kennis van:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 6. Voor zelfstandigen zonder personeel omvatten de vaardigheden bedoeld in [artikel 2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=2.1) in ieder geval de vaardigheden om de in het tweede en derde lid genoemde kennis toe te passen bij het zelfstandig en zonder personeel verrichten of aanbieden van buitengerechtelijke incassowerkzaamheden.
 
-#### Artikel 3. Wijze van benaderen
+##### Artikel 3. Wijze van benaderen
 
 1. De incassodienstverlener die een schuldenaar benadert neemt daarbij in ieder geval de volgende normen in acht:
 
@@ -96,7 +122,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het eerste lid, onderdeel c, is niet van toepassing indien de schuldenaar heeft verzocht om te communiceren in een andere taal dan de Nederlandse taal en de incassodienstverlener hiermee heeft ingestemd.
 
-#### Artikel 4. Informatieverstrekking
+##### Artikel 4. Informatieverstrekking
 
 1. De incassodienstverlener informeert de schuldenaar ten minste via zijn website, per brief of per e-mail over in ieder geval:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 2. Op de in het eerste lid bedoelde informatieverstrekking is [art. 3, eerste lid, onderdeel c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049507&artikel=3&z=2024-04-01&g=2024-04-01), van overeenkomstige toepassing.
 
-#### Artikel 5. Bereikbaarheid
+##### Artikel 5. Bereikbaarheid
 
 1. Indien de incassodienstverlener over een website beschikt, zorgt hij ervoor dat de contactgegevens bedoeld in [artikel 3, tweede lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046685&artikel=3), eenvoudig op die website zijn terug te vinden.
 
@@ -124,17 +150,17 @@ In deze regeling wordt verstaan onder:
 
 4. De incassodienstverlener biedt de schuldenaar de mogelijkheid tot het maken van een fysieke afspraak ten behoeve van het verkrijgen van informatie, het overleggen van documenten of het verrichten van betalingen.
 
-#### Artikel 6. Inrichting dossiers
+##### Artikel 6. Inrichting dossiers
 
 1. De op de vordering betrekking hebbende documenten, bedoeld in [artikel 5.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049422&artikel=5.1), omvatten behalve de in het derde lid van die bepaling genoemde documenten tevens een overzicht van alle contactmomenten met de schuldenaar, ongeacht via welk communicatiemiddel die contacten hebben plaatsgevonden.
 
 2. Indien de incassodienstverlener een of meerdere keren schriftelijk heeft gereageerd op een betwisting van de vordering door de schuldenaar omvatten de in het vorige lid bedoelde documenten tevens die schriftelijke reactie of schriftelijke reacties.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2024.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling kwaliteit incassodienstverlening.
 

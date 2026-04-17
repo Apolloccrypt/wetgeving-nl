@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Kunstenaar Basis"
 identifier: "BWBR0044554"
-categorie: "Overig"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044554"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044554"
+soort: "zbo"
+stam_id: "15771923"
+version_id: "27333582"
+internal_id: "C38603931"
+label_id: "15710034"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044554/2021-01-01/0"
+intitule_bron: "Stcrt.2020-62369"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-12-14"
+intitule_in_force: "2020-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62369"
+original_published_date: "2020-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62369"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044554&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044554&g=2021-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2021-01-01"
 ---
-
 # Deelregeling Kunstenaar Basis
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het stimuleren van de ontwikkeling van het oeuvre, het cultureel ondernemerschap en de zichtbaarheid van beeldend kunstenaars, zodat werk ontstaat dat een betekenisvolle en zichtbare bijdrage levert aan de hedendaagse beeldende kunst in Nederland.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een Basisbeurs kan worden verstrekt aan beeldend kunstenaars, die ten minste vier jaar professioneel als beeldend kunstenaar werkzaam zijn. Indien de aanvrager een hbo-opleiding aan een opleidingsinstituut voor beeldende kunsten heeft gevolgd, kan eerst vier jaar na het verlaten van die opleiding een Basisbeurs worden verstrekt.
 
@@ -34,7 +56,7 @@ Het stimuleren van de ontwikkeling van het oeuvre, het cultureel ondernemerschap
 
 7. Een Basisbeurs kan niet worden verstrekt gedurende de looptijd van een andere financiële bijdrage van het fonds die naar het oordeel van het bestuur in dekking van dezelfde kosten voorziet als de Basisbeurs.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
@@ -48,7 +70,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. een werkplan.
 
-#### Artikel 4. Beoordeling
+##### Artikel 4. Beoordeling
 
 1. Bij de beoordeling van een aanvraag voor een Basisbeurs beoordeelt het bevoegd adviesorgaan op basis van het door de aanvrager ingeleverde documentatiemateriaal en de overige informatie of het artistiek functioneren van de aanvrager van belang is voor de hedendaagse beeldende kunst. Daarbij worden de volgende criteria in onderlinge samenhang gehanteerd:
 
@@ -64,7 +86,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 5. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste lid van dit artikel.
 
-#### Artikel 5. Verstrekking
+##### Artikel 5. Verstrekking
 
 1. Aanspraak op een toegekende Basisbeurs geschiedt in vier gelijke tranches, tenzij de aanvrager schriftelijk een ander ritme met het fonds overeenkomt, met dien verstande dat op jaarbasis maximaal de helft van de toegekende werkbeurs kan worden verleend, met inachtneming van het bepaalde in het tweede en derde lid.
 
@@ -74,15 +96,15 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 4. Degene aan wie een Basisbeurs is toegekend dient op het moment dat hij een deel van de bijdrage verstrekt krijgt artistiek inhoudelijk actief te zijn in de beeldende kunsten en in die hoedanigheid ingebed te zijn in de professionele beeldende kunst in Nederland.
 
-#### Artikel 6. Overgangsbepaling
+##### Artikel 6. Overgangsbepaling
 
 De [Deelregeling Werkbijdrage Bewezen Talent 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038807) wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de Deelregeling Werkbijdrage Bewezen Talent 2017 voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstenaar Basis.
 

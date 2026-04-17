@@ -1,13 +1,38 @@
 ---
 title: "Besluit Jaarwinst"
 identifier: "BWBR0047865"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-02-10
-laatste_update: 2023-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047865"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-02-10"
+last_updated: "2023-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047865"
+soort: "beleidsregel"
+stam_id: "16669873"
+version_id: "29239442"
+internal_id: "C41537831"
+label_id: "16588264"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047865/2023-02-10/0"
+intitule_bron: "Stcrt.2023-4100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-25"
+intitule_published: "2023-02-09"
+intitule_in_force: "2023-02-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4100"
+original_signed_date: "2023-01-25"
+original_published_date: "2023-02-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-4100"
+entry_into_force_date: "2023-02-10"
+jci_1_3: "jci1.3:c:BWBR0047865&z=2023-02-10&g=2023-02-10"
+jci_1_0: "1.0:c:BWBR0047865&g=2023-02-10"
+citeertitel_status: "officieel"
+signed_date: "2023-01-25"
+entry_into_force: "2023-02-10"
 ---
-
 # Besluit Jaarwinst
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

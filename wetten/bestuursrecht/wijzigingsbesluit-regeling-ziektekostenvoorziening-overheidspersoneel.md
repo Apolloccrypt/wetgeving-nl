@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Regeling ziektekostenvoorziening overheidspersoneel"
+title: "Besluit van 18 juli 1996, houdende wijziging van de Regeling ziektekostenvoorziening overheidspersoneel"
 identifier: "BWBR0008185"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-08-16
-laatste_update: 1996-08-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008185"
+country: "nl"
+rank: "amvb"
+publication_date: "1996-08-16"
+last_updated: "1996-08-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008185"
+soort: "AMvB"
+stam_id: "140503"
+version_id: "192772"
+internal_id: "C192771"
+label_id: "139694"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008185/1996-08-16/0"
+intitule_bron: "Stb.1996-416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-07-18"
+intitule_published: "1996-08-15"
+intitule_in_force: "1996-08-15"
+intitule_status: "goed"
+original_publication: "Stb.1996-416"
+original_signed_date: "1996-07-18"
+original_published_date: "1996-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-416"
+entry_into_force_date: "1996-08-16"
+jci_1_3: "jci1.3:c:BWBR0008185&z=1996-08-16&g=1996-08-16"
+jci_1_0: "1.0:c:BWBR0008185&g=1996-08-16"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Regeling ziektekostenvoorziening overheidspersoneel"
+signed_date: "1996-07-18"
+entry_into_force: "1996-08-16"
 ---
-
 # Besluit van 18 juli 1996, houdende wijziging van de Regeling ziektekostenvoorziening overheidspersoneel
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 11 juni 1996, nr. AB96/U707, directoraat-generaal Management en Personeelsbeleid, directie Arbeidszaken Overheid, afdeling Arbeidsverhoudingen en Juridische Zaken;
@@ -22,15 +48,15 @@ Hebben goedgevonden en verstaan:
 
 Werkt terug tot en met 1 januari 1996.
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Regeling ziektekostenvoorziening overheidspersoneel.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 Nota’s van kosten, bedoeld in artikel 7, onderdeel **b**, van de Regeling ziektekostenvoorziening overheidspersoneel die een datum dragen vóór de datum van inwerkingtreding van dit besluit, en die niet tot uitkering hebben geleid bij een aanvraag omdat die niet zijn betaald in het tijdvak waarop die aanvraag betrekking had, worden bij een aansluitende aanvraag voor vergoeding in aanmerking genomen.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt wat betreft [artikel I, onderdeel A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0008185&artikel=I&z=1996-08-16&g=1996-08-16), en [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0008185&artikel=II&z=1996-08-16&g=1996-08-16) terug tot en met 1 juli 1996; [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0008185&artikel=I&z=1996-08-16&g=1996-08-16), werkt terug tot en met 1 januari 1996.
 

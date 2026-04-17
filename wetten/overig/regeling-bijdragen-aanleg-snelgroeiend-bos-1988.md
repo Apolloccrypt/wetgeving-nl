@@ -1,13 +1,37 @@
 ---
 title: "Regeling bijdragen aanleg snelgroeiend bos 1988"
 identifier: "BWBR0004416"
-categorie: "Overig"
-publicatiedatum: 2016-01-22
-laatste_update: 2016-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004416"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-22"
+last_updated: "2016-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004416"
+soort: "ministeriele-regeling"
+stam_id: "4362423"
+version_id: "6118952"
+internal_id: "C6323161"
+label_id: "4341034"
+dtd_version: "2.0"
+original_entry_into_force: "1988-10-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004416/2016-01-22/0"
+intitule_bron: "Stcrt.1988-207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-14"
+intitule_published: "1988-10-25"
+intitule_in_force: "1988-10-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-207"
+original_signed_date: "1988-10-14"
+original_published_date: "1988-10-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-10-25"
+jci_1_3: "jci1.3:c:BWBR0004416&z=2016-01-22&g=2016-01-22"
+jci_1_0: "1.0:c:BWBR0004416&g=2016-01-22"
+citeertitel_status: "officieel"
+signed_date: "1988-10-14"
+entry_into_force: "1988-10-25"
 ---
-
 # Regeling bijdragen aanleg snelgroeiend bos 1988
 
 Overwegende, dat het gewenst is een nieuwe regeling vast te stellen voor het verlenen van bijdragen ter bevordering van de aanleg van snelgroeiend bos voor de houtvoorziening op de korte termijn;
@@ -16,15 +40,15 @@ Gehoord het Bosschap en de Bosbouwvoorlichtingsraad;
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de eigenaar wordt op de voet van de bepalingen van deze regeling op zijn verzoek door de minister een eenmalige bijdrage van f 3000 per hectare verleend ter zake van bebossing van gronden anders dan ter voldoening aan een bestaande verplichting tot herbeplanting.
 
-#### Artikel 3
+##### Artikel 3
 
 De bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), wordt slechts verleend indien:
 
@@ -32,7 +56,7 @@ De bijdrage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004
 
 - b. de bebossing geschiedt met de boomsoorten behorende tot de geslachten populus (populier) of salix (wilg), dan wel met de boomsoorten Fijnspar (Picea abies), Sitcaspar (Picea sitchensis), Corsicaanse den (Pinus nigra var. maritima) of Douglas (Pseudo-tsuga menziesii).
 
-#### Artikel 4
+##### Artikel 4
 
 Geen bijdrage wordt verleend indien:
 
@@ -42,7 +66,7 @@ Geen bijdrage wordt verleend indien:
 
 - c. de beplanting naar het oordeel van de minister bosbouwkundig niet verantwoord is.
 
-#### Artikel 5
+##### Artikel 5
 
 De eigenaar dient de opstand waarvoor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), is verleend in stand te houden:
 
@@ -50,37 +74,37 @@ De eigenaar dient de opstand waarvoor een bijdrage als bedoeld in [artikel 2](ht
 
 - b. gedurende tenminste 25 jaar na het moment van aanleg, indien de opstand andere boomsoorten, genoemd in [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=3&z=2016-01-22&g=2016-01-22), betreft.
 
-#### Artikel 6
+##### Artikel 6
 
 Aanvragen voor een bijdrage als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=2&z=2016-01-22&g=2016-01-22), kunnen op een daartoe bestemd formulier worden gericht aan de minister tot en met uiterlijk 30 juni 1994.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister kan de eigenaar een termijn stellen waarbinnen de bebossing dient plaats te vinden.
 
 2. De bijdrage wordt uitbetaald nadat door of namens de minister is vastgesteld, dat de bebossing heeft plaatsgevonden in overeenstemming met de bepalingen van deze regeling. Hiertoe dient de eigenaar binnen vier weken na de aanleg van het bos schriftelijk te verklaren dat de bebossing heeft plaatsgevonden.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de voorschriften bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=5&z=2016-01-22&g=2016-01-22) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004416&artikel=7&z=2016-01-22&g=2016-01-22) niet worden nagekomen vervalt het recht op de bijdrage en kan deze, vermeerderd met de verschuldigde wettelijke rente, geheel of gedeeltelijk worden teruggevorderd van degene aan wie de bijdrage is verleend of van diens rechtsopvolgers onder algemene titel.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Beslissingen op grond van deze regeling vinden plaats onder het voorbehoud dat de Commissie van de Europese Gemeenschappen de vereiste goedkeuring geeft voor het uitvoeren van deze regeling.
 
-#### Artikel 12
+##### Artikel 12
 
 De Regeling bijdragen aanleg snelgroeiend bos (Stcrt. 1984, 253) wordt ingetrokken met dien verstande dat het bepaalde daarin van toepassing blijft ten aanzien van op grond van die regeling reeds genomen beschikkingen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze regeling kan worden aangehaald als ‘Regeling bijdragen aanleg snelgroeiend bos 1988.’
 

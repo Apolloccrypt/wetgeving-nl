@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel handhaving en invordering jaarverantwoording"
 identifier: "BWBR0050629"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050629"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050629"
+soort: "zbo"
+stam_id: "17328363"
+version_id: "30534082"
+internal_id: "C43770691"
+label_id: "17232464"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050629/2026-01-01/0"
+intitule_bron: "Stcrt.2024-42444"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-10"
+intitule_published: "2024-12-24"
+intitule_in_force: "2024-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-42444"
+original_signed_date: "2024-12-10"
+original_published_date: "2024-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-42444"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050629&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050629&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-12-10"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel handhaving en invordering jaarverantwoording
 
 **Grondslag**
@@ -16,7 +41,7 @@ Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://w
 
 De NZa houdt op grond van [artikel 16, sub e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) (hierna: Wmg) toezicht op de naleving van [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b). Artikel 40b van de Wmg voorziet in de verplichting voor een zorgaanbieder om zich jaarlijks te verantwoorden door het openbaar maken van een jaarverantwoording.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,15 +73,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Ministerie van VWS:** Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Zorgaanbieders moeten op grond van [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) een jaarverantwoording openbaren. De NZa is op grond van [artikel 16, sub e van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=16) belast met toezicht op uitvoering van deze verplichting. Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa vanaf het boekjaar 2024 toeziet op de naleving van deze verplichting en daarbij de haar in [hoofdstuk 6 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6) toegekende bevoegdheden inzet.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders, met uitzondering van de zorgaanbieders en geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders waarop [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet van toepassing is verklaard in het [Besluit uitbreiding en beperking werkingssfeer WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020326). Deze beleidsregel is ook van toepassing op combinatie-instellingen.
 
-#### Artikel 4. Toezicht op de verplichting een jaarverantwoording openbaar te maken
+##### Artikel 4. Toezicht op de verplichting een jaarverantwoording openbaar te maken
 
 1. De NZa houdt toezicht op de naleving van de verplichting als bedoeld in [artikel 40b, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b). Op grond van artikel 40b van de Wmg dient een zorgaanbieder zich jaarlijks te verantwoorden door het openbaar maken van een jaarverantwoording.
 
@@ -66,7 +91,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 4. De NZa stelt samenwerkingsafspraken op met de IGJ en het CIBG ten aanzien van het toezicht op de naleving van de verplichting van [artikel 40b van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
 
-#### Artikel 5. Handhaving
+##### Artikel 5. Handhaving
 
 1. Als een zorgaanbieder [artikel 40b, eerste lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet naleeft, kan de NZa een last onder dwangsom opleggen. Voordat een last onder dwangsom wordt opgelegd aan de zorgaanbieder, stuurt de NZa in beginsel een voornemen tot het opleggen van een last onder dwangsom aan de zorgaanbieder.
 
@@ -114,7 +139,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 12. De NZa maakt in beginsel geen gebruik van haar bevoegdheid om een aanwijzing op te leggen.
 
-#### Artikel 6. Invordering
+##### Artikel 6. Invordering
 
 1. Wanneer een zorgaanbieder naar aanleiding van een bestuurlijke sanctie een geldsom verschuldigd is, dan gaat de NZa in beginsel over tot invordering van deze geldsom. Wanneer wordt overgegaan tot het invorderen van de geldsom dan zal de NZa hiervoor een besluit tot invordering nemen: de invorderingsbeschikking.
 
@@ -130,7 +155,7 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 - b. De NZa kan vereisen dat de rechterlijke uitspraak en een verklaring van de zorgaanbieder dat er is gestopt met het verlenen van zorg moet worden ingediend. De NZa kan hiervoor het gebruik van een elektronisch formulier verplicht stellen. Het elektronische formulier wordt in dat geval bekend gemaakt via [www.nza.nl](http://www.nza.nl/).
 
-#### Artikel 7. Betalingsregeling, matiging en kwijtschelding
+##### Artikel 7. Betalingsregeling, matiging en kwijtschelding
 
 1. Een verzoek tot het treffen van een betalingsregeling kan door de zorgaanbieder worden ingediend bij het CJIB. Het CJIB zal, in navolging van het convenant NZa-CJIB, dit verzoek ter beoordeling aan de NZa voorleggen.
 
@@ -142,24 +167,24 @@ Deze beleidsregel is van toepassing op zorgaanbieders geen rechtspersoonlijkheid
 
 5. Een matigingsverzoek of een verzoek tot kwijtschelding van de dwangsom kan alleen in geval er sprake is van bijzondere omstandigheden worden toegekend. De bijzondere omstandigheden worden mede aan de hand van de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en jurisprudentie gewogen.
 
-#### Artikel 8. Publicatie informatie handhaving
+##### Artikel 8. Publicatie informatie handhaving
 
 1. De NZa kan, overeenkomstig wet- en regelgeving, informatie over haar toezicht en handhaving openbaar maken door publicatie op haar website.
 
 2. Op de openbaarmaking is de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) van toepassing.
 
-#### Artikel 9. Intrekken / Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 9. Intrekken / Toepasselijkheid voorafgaande beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze Beleidsregel handhaving en invordering jaarverantwoording met kenmerk TH/BR-040 wordt de [Beleidsregel Handhaving openbare jaarverantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0048984) met kenmerk TH/BR-037 ingetrokken.
 
 De [Beleidsregel Handhaving openbare jaarverantwoording](https://wetten.overheid.nl/jci1.3:c:BWBR0048984) met kenmerk TH/BR-037, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 10. Inwerkingtreding / Bekendmaking
+##### Artikel 10. Inwerkingtreding / Bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2025. Indien de Staatscourant waarin de beleidsregel ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt geplaatst, wordt uitgegeven na 31 december 2024, treedt de beleidsregel in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de beleidsregel wordt geplaatst en werkt zij terug tot en met 1 januari 2025.
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/)
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving en invordering jaarverantwoording met kenmerk TH/BR-040.

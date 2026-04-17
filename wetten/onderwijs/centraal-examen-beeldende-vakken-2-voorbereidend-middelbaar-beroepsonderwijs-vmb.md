@@ -1,13 +1,36 @@
 ---
 title: "Centraal examen beeldende vakken 2 voorbereidend middelbaar beroepsonderwijs (vmbo) ingaande 2003"
 identifier: "BWBR0012590"
-categorie: "Onderwijs"
-publicatiedatum: 2002-08-01
-laatste_update: 2002-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012590"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-08-01"
+last_updated: "2002-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012590"
+soort: "beleidsregel"
+stam_id: "6452203"
+version_id: "11126152"
+internal_id: "C15043101"
+label_id: "6440964"
+original_entry_into_force: "2002-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012590/2002-08-01/0"
+intitule_bron: "Uitleg.2001-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-06-18"
+intitule_published: "2001-06-27"
+intitule_in_force: "2001-06-27"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-18"
+original_signed_date: "2001-06-18"
+original_published_date: "2001-06-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-08-01"
+jci_1_3: "jci1.3:c:BWBR0012590&z=2002-08-01&g=2002-08-01"
+jci_1_0: "1.0:c:BWBR0012590&g=2002-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-06-18"
+entry_into_force: "2002-08-01"
 ---
-
 # Centraal examen beeldende vakken 2 voorbereidend middelbaar beroepsonderwijs (vmbo) ingaande 2003
 
 Het examen beeldende vakken 2 zal op een aantal punten anders van aard zijn dan het huidige examen beeldende vakken (tehatex) vbo-mavo c/d.

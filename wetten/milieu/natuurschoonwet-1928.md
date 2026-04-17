@@ -1,14 +1,40 @@
 ---
-title: "Natuurschoonwet 1928"
+title: "Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geheven belastingen tot bevordering van behoud van natuurschoon"
 identifier: "BWBR0001939"
-categorie: "Milieu"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001939"
+country: "nl"
+rank: "wet"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001939"
+soort: "wet"
+stam_id: "2706443"
+version_id: "4121842"
+internal_id: "C4121841"
+label_id: "2652564"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001939/2021-01-01/0"
+intitule_bron: "Stb.1928-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1928-03-15"
+intitule_status: "goed"
+original_publication: "Stb.2000-551"
+original_signed_date: "2000-12-14"
+original_published_date: "2000-12-27"
+original_effect: "structuurwijziging"
+original_dossier: "27030"
+original_url_id: "stb-2000-551"
+entry_into_force_date: "2000-12-28"
+entry_into_force_dossier: "27030"
+jci_1_3: "jci1.3:c:BWBR0001939&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0001939&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Natuurschoonwet 1928"
+signed_date: "2000-12-14"
+entry_into_force: "2000-12-28"
 ---
-
-# Natuurschoonwet 1928
+# Wet van 15 maart 1928, houdende regeling van sommige van landgoederen geheven belastingen tot bevordering van behoud van natuurschoon
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -16,7 +42,7 @@ Alzoo Wij in overweging genomen hebben, dat het wenschelijk is om, tot bevorderi
 
 Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan, bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze wet verstaat onder:
 
@@ -56,7 +82,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 4. In afwijking in zoverre van het tweede lid worden bij algemene maatregel van bestuur regels gesteld inzake de voorwaarden waaraan een onroerende zaak, die voldoet aan de in het tweede lid, onderdelen a, c, d en e bedoelde voorwaarden, doch niet aan de voorwaarden, bedoeld in het tweede lid, onderdeel b, moet voldoen om te kunnen worden aangemerkt als een landgoed.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De eigenaar die zijn onroerende zaak wenst aangemerkt te zien als een landgoed, doet aan Onze Ministers een daartoe strekkend verzoek dat wordt ingediend bij Onze Minister.
 
@@ -72,7 +98,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 5. Indien aan het verzoek wordt voldaan, wordt de onroerende zaak als een landgoed aangemerkt met ingang van het tijdstip waarop het verzoek bij Onze Minister is ingekomen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een als landgoed aangemerkte onroerende zaak wordt niet langer als zodanig beschouwd in de gevallen waarin:
 
@@ -108,7 +134,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 9. Met betrekking tot een gedeelte van de onroerende zaak vinden het eerste tot en met het achtste lid overeenkomstige toepassing.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Indien de onroerende zaak, bedoeld in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), na verloop van drie jaren nadat zij als een landgoed is aangemerkt, niet voldoet aan de in [artikel 1, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1&z=2021-01-01&g=2021-01-01), bedoelde voorwaarden, dan wel indien zij naar het oordeel van Onze Minister na die termijn niet aan die voorwaarden zal voldoen, beslissen Onze Ministers bij gezamenlijke beschikking dat de onroerende zaak niet langer als een landgoed wordt aangemerkt met ingang van de datum van die beschikking. Onze Minister kan de termijn van drie jaren op grond van bijzondere omstandigheden met maximaal twee jaren verlengen.
 
@@ -116,7 +142,7 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 3. Het eerste en tweede lid vinden overeenkomstige toepassing met betrekking tot een gedeelte van de onroerende zaak.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Vanaf het tijdstip waarop een onroerende zaak of een gedeelte daarvan niet langer als een landgoed wordt aangemerkt, wordt die onroerende zaak of dat gedeelte binnen een termijn van 10 jaren niet opnieuw als zodanig aangemerkt ingeval het verzoek daartoe wordt gedaan door degene die op dat tijdstip eigenaar was of door een vennootschap waarvan hij middellijk of onmiddellijk aandeelhouder is.
 
@@ -138,15 +164,15 @@ Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten
 
 5. Ingeval [artikel 3, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3&z=2021-01-01&g=2021-01-01), toepassing heeft gevonden op een onroerende zaak ten gevolge van het feit dat deze onroerende zaak was aangemerkt als een landgoed rekening houdende met de oppervlakte van een aangrenzende onroerende zaak waarop het tweede lid is toegepast, is het tweede lid op de eerstgenoemde onroerende zaak van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien tot een verkrijging in de zin van de [Successiewet 1956](onbekend) een onroerende zaak behoort, die is aangemerkt als een landgoed vindt - mits aan de in het volgende lid gestelde voorwaarden is voldaan - geen invordering plaats van het verschil tussen de volgens de aanslag verschuldigde schenkbelasting onderscheidenlijk erfbelasting en de belasting, welke verschuldigd zou zijn, indien de onroerende zaak wordt gesteld op de helft van de waarde in het economische verkeer, welke op het tijdstip van de verkrijging aan de zaak zou moeten worden toegekend, in geval daarop de last rustte om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen, dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Voor zover het landgoed overeenkomstig door Onze Ministers goedgekeurde regelen voor het publiek is opengesteld, wordt, in afwijking in zoverre van de vorige volzin, de waarde van dat landgoed gesteld op nihil.
 
@@ -158,7 +184,7 @@ Vervallen
 
 5. In het aanslagbiljet wordt behalve van het bedrag van de aanslag melding gemaakt van het bedrag van de terstond invorderbare belasting. De vaststelling van laatstbedoeld bedrag wordt voor de toepassing van de wettelijke bepalingen betreffende de schenk- en erfbelasting en de regeling inzake belastingrente beschouwd als de oplegging van een aanslag.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Voor de heffing van de schenk- en erfbelasting, geheven krachtens de [Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226)en voor de toepassing van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8a&z=2021-01-01&g=2021-01-01), worden de bezittingen en schulden van een naamloze vennootschap of van een besloten vennootschap met beperkte aansprakelijkheid als bezittingen en schulden harer gezamenlijke aandeelhouders beschouwd, indien:
 
@@ -172,7 +198,7 @@ Vervallen
 
 3. Het in het eerste lid, onderdeel **c**, genoemde vereiste is niet van toepassing, indien het aantal aandeelhouders, niet meer dan twintig bedragen hebbende, uitsluitend door erfenis, legaten, schenkingen en ontbindingen van huwelijksgemeenschappen of gemeenschappen van geregistreerd partnerschap gestegen is tot meer dan twintig mits, nadat het aantal aandeelhouders gestegen was tot meer dan twintig, dat aantal niet door andere dan de genoemde oorzaken verder gestegen is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In het geval waarin een beschikking is genomen als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a&z=2021-01-01&g=2021-01-01), dan wel indien binnen een tijdvak van 25 jaren na het overlijden of de schenking zich één van de in [artikel 3, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3&z=2021-01-01&g=2021-01-01), genoemde gevallen voordoet, wordt de belasting - waarvan ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7&z=2021-01-01&g=2021-01-01), invordering achterwege is gebleven - alsnog ingevorderd, verminderd met de reeds op grond van [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8a&z=2021-01-01&g=2021-01-01) ingevorderde belasting.
 
@@ -188,7 +214,7 @@ Vervallen
 
 7. Onze Minister van Financiën kan in bijzondere gevallen beslissen, dat de vorige bepalingen van dit artikel geheel of gedeeltelijk buiten toepassing blijven.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Indien degene ten aanzien van wie [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7&z=2021-01-01&g=2021-01-01) toepassing heeft gevonden, binnen een tijdvak van 25 jaren na het overlijden of de schenking:
 
@@ -212,37 +238,37 @@ vindt alsnog invordering plaats overeenkomstig de volgende leden van de belastin
 
 8. [Artikel 8, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8&z=2021-01-01&g=2021-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Op de ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7&z=2021-01-01&g=2021-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8&z=2021-01-01&g=2021-01-01) en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8a&z=2021-01-01&g=2021-01-01) aan te geven waarden en op te leggen aanslagen zijn de wettelijke bepalingen betreffende de schenk- en erfbelasting en de bepalingen van de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) voor zoveel mogelijk van toepassing.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Ter zake van de verkrijging van een landgoed is geen overdrachtsbelasting verschuldigd.
 
-#### Artikel 9b
+##### Artikel 9b
 
 Vervallen
 
-#### Artikel 9c
+##### Artikel 9c
 
 De belasting die door toepassing van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=9a&z=2021-01-01&g=2021-01-01) niet is geheven, is alsnog verschuldigd indien met betrekking tot het landgoed een beschikking wordt genomen als bedoeld in [artikel 3a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3a&z=2021-01-01&g=2021-01-01), dan wel binnen een tijdvak van 25 jaren na de verkrijging zich een van de in [artikel 3, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=3&z=2021-01-01&g=2021-01-01), genoemde gevallen voordoet.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor de toepassing van de [artikelen 7a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7a&z=2021-01-01&g=2021-01-01), en [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8a&z=2021-01-01&g=2021-01-01) en de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=9a&z=2021-01-01&g=2021-01-01) en [9c van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=9c&z=2021-01-01&g=2021-01-01), alsmede van [artikel 5, onderdeel a, van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=5) (Stb. 469) en [artikel 10.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.9) worden onroerende zaken die gedurende de op de voet van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=4&z=2021-01-01&g=2021-01-01), vastgestelde termijn niet opnieuw kunnen worden aangemerkt als een landgoed, gelijkgesteld met landgoederen.
 
 2. Indien op de voet van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=4&z=2021-01-01&g=2021-01-01), een termijn is vastgesteld, wordt het tijdvak van 25 jaren als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=8&z=2021-01-01&g=2021-01-01) en in [artikel 9c](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=9c&z=2021-01-01&g=2021-01-01) met die termijn verlengd.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze wet kan worden aangehaald als "Natuurschoonwet 1928".
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet wordt geacht in werking te zijn getreden met ingang van den eersten Januari 1928.
 

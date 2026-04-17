@@ -1,13 +1,39 @@
 ---
-title: "Besluit stimulering duurzame energieproductie en klimaattransitie"
+title: "Besluit van 16 oktober 2007, houdende regels inzake de verstrekking van subsidies ten behoeve van de productie van hernieuwbare elektriciteit, hernieuwbaar gas en elektriciteit opgewekt door middel van warmtekrachtkoppeling (Besluit stimulering duurzame energieproductie)"
 identifier: "BWBR0022735"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022735"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022735"
+soort: "AMvB"
+stam_id: "9255193"
+version_id: "28496662"
+internal_id: "C40211501"
+label_id: "9234664"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022735/2026-01-01/0"
+intitule_bron: "Stb.2007-410"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-16"
+intitule_published: "2007-10-30"
+intitule_in_force: "2008-03-25"
+intitule_status: "goed"
+original_publication: "Stb.2022-120"
+original_signed_date: "2022-02-21"
+original_published_date: "2022-03-25"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-120"
+entry_into_force_date: "2022-03-26"
+jci_1_3: "jci1.3:c:BWBR0022735&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0022735&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit stimulering duurzame energieproductie en klimaattransitie"
+signed_date: "2022-02-21"
+entry_into_force: "2022-03-26"
 ---
-
 # Besluit van 16 oktober 2007, houdende regels inzake de verstrekking van subsidies ten behoeve van de productie van hernieuwbare elektriciteit, hernieuwbaar gas en elektriciteit opgewekt door middel van warmtekrachtkoppeling (Besluit stimulering duurzame energieproductie)
 
 Op de voordracht van Onze Minister van Economische Zaken van 17 juli 2007, nr. WJZ 7085218;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -90,7 +116,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Algemene bepalingen subsidie voor hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte en vermindering van broeikasgas
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan onverminderd [artikel 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.4&artikel=24a&z=2026-01-01&g=2026-01-01) op aanvraag subsidie verstrekken voor:
 
@@ -124,7 +150,7 @@ Hebben goedgevonden en verstaan:
 
 8. De vaststelling van de omrekenfactoren, bedoeld in het zevende lid, kan verschillen per categorie productie-installaties.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Geen subsidie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt verstrekt indien:
 
@@ -156,7 +182,7 @@ Hebben goedgevonden en verstaan:
 
 8. Bij ministeriële regeling kunnen regels worden gesteld over de toepassing van het eerste tot en met zevende lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan reeds ontvangen of genoten overheidssteun dan wel in de toekomst te ontvangen of te genieten overheidssteun die er toe leidt dat de totale aan de producent verleende overheidssteun meer bedraagt dan is toegestaan ingevolge voor de Staat geldende verplichtingen krachtens een verdrag, in mindering brengen op de subsidie bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -166,17 +192,17 @@ Hebben goedgevonden en verstaan:
 
 - b. worden gewijzigd ter verkrijging van de goedkeuring van de Europese Commissie in het kader van staatssteun.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), komt uitsluitend hernieuwbare elektriciteit, hernieuwbaar gas en hernieuwbare warmte, dan wel de vermindering van broeikasgas die als gevolg van deze uitbreiding extra is geproduceerd respectievelijk is gerealiseerd voor subsidie in aanmerking.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De periode waarover subsidie wordt verstrekt vangt aan op de datum van ingebruikname van de productie-installatie, met dien verstande dat de periode waarover subsidie wordt verstrekt niet later aanvangt dan binnen de op grond van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=7&artikel=61&z=2026-01-01&g=2026-01-01), vastgestelde termijn waarbinnen de productie-installatie, in voorkomend geval na voortzetting, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), of de extra faciliteit, bedoeld in artikel 3, tweede lid, onderdeel a, in gebruik moet worden genomen.
 
 2. In afwijking van het eerste lid vangt de periode waarover subsidie wordt verstrekt voor een project voor de productie van hernieuwbare elektriciteit met een nominaal vermogen gelijk aan of groter dan 100 MW en die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties aan op de door de subsidie-ontvanger in de aanvraag aangegeven datum, met dien verstande dat de periode waarover subsidie wordt verstrekt niet later aanvangt dan binnen de op grond van [artikel 61, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=7&artikel=61&z=2026-01-01&g=2026-01-01), vastgestelde termijn waarbinnen de productie-installatie, in voorkomend geval na voortzetting, bedoeld in [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), of de extra faciliteit, bedoeld in artikel 3, tweede lid, onderdeel a, in gebruik moet worden genomen. Onze Minister kan op verzoek van de subsidie-ontvanger bepalen dat het tijdstip van aanvang van de periode waarover subsidie wordt verstrekt voor maximaal vijf gedeelten van de beschikking tot subsidieverlening verschilt. Tussen de startdatums zit een periode van tenminste twee maanden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij ministeriële regeling wordt bepaald over welke periode voor een categorie productie-installaties subsidie wordt verstrekt. Deze periode kan verschillen voor verschillende categorieën productie-installaties of verschillende wijzen van verdeling van het beschikbare bedrag.
 
@@ -186,7 +212,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderde
 
 #### § 3.1. Algemeen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan de producent van hernieuwbare elektriciteit die is geproduceerd door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties voor hernieuwbare elektriciteit, kan subsidie worden verleend.
 
@@ -194,11 +220,11 @@ Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderde
 
 #### § 3.1. Algemeen
 
-#### Artikel 9
+##### Artikel 9
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van binnenkomst.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kan per fase een fasebedrag per kWh worden vastgesteld voor de subsidie voor de productie van hernieuwbare elektriciteit.
 
@@ -206,7 +232,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare elektriciteit.
 
@@ -220,7 +246,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 - c. het rendement van de productie-installatie.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01) en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), een basiselektriciteitsprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties. Bij regeling van Onze Minister kan een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een transmissie- of distributiesysteem voor elektriciteit wordt ingevoed.
 
@@ -230,11 +256,11 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 4. Indien op grond van het eerste lid een aparte basiselektriciteitsprijs per kWh wordt vastgesteld voor elektriciteit die niet op een transmissie- of distributiesysteem voor elektriciteit wordt ingevoed dan geldt voor het aantal kWh dat niet op een transmissie- of distributiesysteem voor elektriciteit is ingevoed bij de toepassing van het derde lid en de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=13&z=2026-01-01&g=2026-01-01), [14, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01) de basiselektriciteitsprijs of elektriciteitsprijs voor niet op een transmissie- of distributiesysteem voor elektriciteit ingevoede elektriciteit.
 
-#### Artikel 13
+##### Artikel 13
 
 Het fasebedrag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2026-01-01&g=2026-01-01), de basiselektriciteitsprijs, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2026-01-01&g=2026-01-01), en het opbrengstgrensbedrag, bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12a&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -258,7 +284,7 @@ Het fasebedrag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 8. Indien het ingevolge het eerste, vierde, zevende of achtste lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -280,21 +306,21 @@ Het fasebedrag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 6. Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie heeft ingevoed.
 
-#### Artikel 16
+##### Artikel 16
 
 De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=10&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=11&z=2026-01-01&g=2026-01-01), en de basiselektriciteitsprijs, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
 #### § 3.3. Subsidie volgorde rangschikking
 
-#### Artikel 17
+##### Artikel 17
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van rangschikking.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.
 
@@ -304,7 +330,7 @@ Vervallen
 
 4. Indien de subsidie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee per locatie wordt verstrekt, wordt bij de aanvraag tot subsidieverlening door de producent voor elke locatie afzonderlijk een tenderbedrag als bedoeld in het eerste lid opgegeven. De gecombineerde aanvraag voor twee of meerdere locaties wordt behandeld als één aanvraag.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=22&z=2026-01-01&g=2026-01-01), en de vaststelling van bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=24&z=2026-01-01&g=2026-01-01), een basiselektriciteitsprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties. Bij regeling van Onze Minister kan een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een transmissie- of distributiesysteem voor elektriciteit wordt ingevoed.
 
@@ -314,13 +340,13 @@ Vervallen
 
 4. Indien op grond van het eerste lid een aparte basiselektriciteitsprijs per kWh worden vastgesteld voor elektriciteit die niet op een transmissie- of distributiesysteem voor elektriciteit wordt ingevoed dan geldt voor het aantal kWh dat niet op een transmissie- of distributiesysteem voor elektriciteit is ingevoed bij de toepassing van het derde lid en de [artikelen 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=21&z=2026-01-01&g=2026-01-01), [22, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=22&z=2026-01-01&g=2026-01-01), en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=24&z=2026-01-01&g=2026-01-01) de basiselektriciteitsprijs of elektriciteitsprijs voor niet op een transmissie- of distributiesysteem voor elektriciteit ingevoede elektriciteit.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het door de producent opgegeven tenderbedrag, bedoeld in [artikel 19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01), geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
 2. De basiselektriciteitsprijs, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20&z=2026-01-01&g=2026-01-01), en het opbrengstgrensbedrag, bedoeld in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor elke subsidie-ontvanger geldt dat het tenderbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -340,7 +366,7 @@ Vervallen
 
 6. Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -362,7 +388,7 @@ Vervallen
 
 6. Indien een subsidie-ontvanger hernieuwbare elektriciteit opwekt met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op een installatie heeft ingevoed.
 
-#### Artikel 24
+##### Artikel 24
 
 De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01), en de basiselektriciteitsprijs, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
@@ -370,17 +396,17 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 #### § 3.4. Subsidie voor innovatieve windenergie op zee
 
-#### Artikel 25
+##### Artikel 25
 
 Aan de producent van hernieuwbaar gas dat is geproduceerd door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties voor hernieuwbaar gas, kan subsidie worden verleend.
 
 #### § 4.1. Algemeen
 
-#### Artikel 26
+##### Artikel 26
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van binnenkomst.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kan per fase een fasebedrag per kWh worden vastgesteld voor de subsidie voor de productie van hernieuwbaar gas.
 
@@ -388,7 +414,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbaar gas.
 
@@ -402,17 +428,17 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 - c. het rendement van de productie-installatie.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01) en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2026-01-01&g=2026-01-01), een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties.
 
 2. De hoogte van de basisenergieprijs bedraagt tweederde van de lange termijn gasprijs voor de betreffende toepassing van het gas.
 
-#### Artikel 30
+##### Artikel 30
 
 Het fasebedrag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=27&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=28&z=2026-01-01&g=2026-01-01), de basisenergieprijs, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29&z=2026-01-01&g=2026-01-01), en het opbrengstgrensbedrag, bedoeld in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29a&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -436,7 +462,7 @@ Het fasebedrag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 8. Indien het ingevolge het eerste, derde, zesde of zevende lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -466,21 +492,21 @@ Het fasebedrag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 8. Bij de toepassing van het eerste lid, onderdeel a, subonderdeel 1°, wordt het aantal kWh waarvoor de verstrekte garanties van oorsprong zijn ingezet in het systeem van eenheden, bedoeld in [artikel 9.7.3.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.3.1), niet meegerekend.
 
-#### Artikel 33
+##### Artikel 33
 
 De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=27&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=28&z=2026-01-01&g=2026-01-01), en de basisenergieprijs, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
 #### § 4.3. Subsidie volgorde rangschikking
 
-#### Artikel 34
+##### Artikel 34
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van rangschikking.
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 1. Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.
 
@@ -488,19 +514,19 @@ Vervallen
 
 3. Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbaar gas per categorie productie-installaties voor hernieuwbaar gas.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=39&z=2026-01-01&g=2026-01-01), en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=41&z=2026-01-01&g=2026-01-01), een basisenergieprijs per kWh vastgesteld die kan verschillen voor verschillende categorieën productie-installaties.
 
 2. De hoogte van de basisenergieprijs bedraagt tweederde van de lange termijn gasprijs.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Het door de producent opgegeven tenderbedrag, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=36&z=2026-01-01&g=2026-01-01), geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
 2. De basisenergieprijs, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=37&z=2026-01-01&g=2026-01-01), die geldt op het moment van aanvraag van de subsidie, geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Voor elke subsidie-ontvanger geldt dat het tenderbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -520,7 +546,7 @@ Vervallen
 
 6. Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -550,7 +576,7 @@ Vervallen
 
 8. Bij de toepassing van het eerste lid, onderdeel a, subonderdeel 1°, wordt het aantal kWh waarvoor de verstrekte garanties van oorsprong zijn ingezet in het systeem van eenheden, bedoeld in [artikel 9.7.3.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.3.1), niet meegerekend.
 
-#### Artikel 41
+##### Artikel 41
 
 De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=36&z=2026-01-01&g=2026-01-01), en de basisenergieprijs, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=37&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
@@ -558,17 +584,17 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 #### § 4.3. Subsidie volgorde rangschikking
 
-#### Artikel 42
+##### Artikel 42
 
 Bij regeling van Onze Minister kunnen categorieën productie-installaties die hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte produceren worden aangewezen waarvoor subsidie kan worden verleend.
 
 #### § 4.3. Subsidie volgorde rangschikking
 
-#### Artikel 43
+##### Artikel 43
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van binnenkomst.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per kWh vastgesteld voor de subsidie voor de productie van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit.
 
@@ -582,7 +608,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 - c. het rendement van de productie-installatie.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=44&z=2026-01-01&g=2026-01-01) en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=49&z=2026-01-01&g=2026-01-01), een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de energie.
 
@@ -590,11 +616,11 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Indien op grond van het eerste lid aparte basisprijzen per kWh worden vastgesteld per soort toepassing van energie geldt voor het aantal kWh met een soort toepassing bij de toepassing van de [artikelen 46](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=46&z=2026-01-01&g=2026-01-01), [47, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=47&z=2026-01-01&g=2026-01-01), en [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=49&z=2026-01-01&g=2026-01-01) de basisenergieprijs of energieprijs voor de betreffende soort toepassing.
 
-#### Artikel 46
+##### Artikel 46
 
 Het fasebedrag, bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=43a&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=44&z=2026-01-01&g=2026-01-01), en de basisenergieprijs, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=45&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -618,7 +644,7 @@ Het fasebedrag, bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 8. Indien het ingevolge het eerste, derde, zesde of zevende lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -642,17 +668,17 @@ Het fasebedrag, bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 7. Indien een subsidie-ontvanger hernieuwbare warmte en hernieuwbare elektriciteit produceert met een bij ministeriële regeling aangewezen productie-installatie, wordt bij de toepassing van het eerste lid, onderdeel a, ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt en waarvoor garanties van oorsprong voor niet-netlevering zijn verstrekt die aantonen dat de producent met zijn productie-installatie in het betreffende kalenderjaar een hoeveelheid hernieuwbare elektriciteit heeft geproduceerd en op de eigen installatie heeft ingevoed.
 
-#### Artikel 49
+##### Artikel 49
 
 De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in [artikel 43a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=43a&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=44&z=2026-01-01&g=2026-01-01), en de basisenergieprijs, bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=45&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
 #### § 5.1. Algemeen
 
-#### Artikel 50
+##### Artikel 50
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van rangschikking.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per kWh opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.
 
@@ -660,7 +686,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Het maximum tenderbedrag bedraagt maximaal de gemiddelde kosten per kWh voor het produceren van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit per categorie van productie-installaties.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=54&z=2026-01-01&g=2026-01-01), en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 55a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=55a&z=2026-01-01&g=2026-01-01), een basisenergieprijs per kWh vastgesteld die kan verschillen per categorie productie-installaties of per soort toepassing van de warmte.
 
@@ -668,13 +694,13 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Indien op grond van het eerste lid aparte basisprijzen per kWh worden vastgesteld per soort toepassing van warmte geldt voor het aantal kWh met een soort toepassing bij de toepassing van de [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=53&z=2026-01-01&g=2026-01-01), [54, eerste lid, onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=54&z=2026-01-01&g=2026-01-01), en [55a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=55a&z=2026-01-01&g=2026-01-01) de basisenergieprijs of energieprijs voor de betreffende soort toepassing.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Het door de producent opgegeven tenderbedrag, bedoeld in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=51&z=2026-01-01&g=2026-01-01), geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
 2. De basisenergieprijs of basisenergieprijzen, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=52&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Voor elke subsidie-ontvanger geldt dat het tenderbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -694,7 +720,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 6. Indien het ingevolge het eerste of derde lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 55
+##### Artikel 55
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -720,7 +746,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 #### § 6. Algemene bepalingen over aanvraag en beslissing op de aanvraag
 
-#### Artikel 56
+##### Artikel 56
 
 1. Een aanvraag om subsidieverlening wordt ingediend met gebruikmaking van een middel, dat door Onze Minister beschikbaar wordt gesteld.
 
@@ -748,7 +774,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 7. Bij ministeriële regeling kunnen indien dit noodzakelijk is voor de beoordeling van de aanvraag andere gegevens die een aanvraag bevat of andere bescheiden die bij een aanvraag moeten worden gevoegd, worden vastgesteld. Daarbij kan onderscheid worden gemaakt naar categorie productie-installatie, op te wekken vermogen of aan te vragen subsidiebedrag.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Onze Minister beslist op een aanvraag:
 
@@ -762,7 +788,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 4. Indien Onze Minister aan de aanvrager van een gebundelde aanvraag subsidie verstrekt, verstrekt Onze Minister per productie-installatie die onderdeel is van de gebundelde aanvraag een beschikking tot subsidieverlening.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Ingeval van verdeling op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, voor de toepassing van dit artikel, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.
 
@@ -794,7 +820,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 - b. worden bij de loting alle op de desbetreffende dag ontvangen aanvragen met hetzelfde rangschikkingsbedrag betrokken.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Onze Minister beslist in ieder geval afwijzend op een aanvraag indien:
 
@@ -824,7 +850,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 5. Bij ministeriële regeling kan worden bepaald dat Onze Minister afwijzend beslist op een aanvraag indien bij de gelijktijdige toepassing van verschillende procedures als bedoeld in [artikel 14a, eerste lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14a) aan de aanvrager vergunning is verleend op grond van een procedure zonder subsidieverlening.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Onze Minister rangschikt de aanvragen waarop niet met toepassing van [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=6&artikel=59&z=2026-01-01&g=2026-01-01) afwijzend wordt beslist zodanig dat een aanvraag hoger wordt gerangschikt indien:
 
@@ -854,7 +880,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 #### § 7. Verplichtingen van de subsidieontvanger
 
-#### Artikel 61
+##### Artikel 61
 
 1. De subsidie-ontvanger neemt de productie-installatie zo spoedig mogelijk na de datum van de beschikking tot subsidieverlening in gebruik. Bij ministeriële regeling wordt de periode vastgesteld waarbinnen de subsidie-ontvanger de productie-installatie in gebruik moet nemen. Deze periode kan per categorie productie-installaties verschillen.
 
@@ -868,7 +894,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 Bij ministeriële regeling kunnen nadere regels over de uitvoeringsovereenkomst worden gesteld.
 
-#### Artikel 62
+##### Artikel 62
 
 1. De subsidie-ontvanger realiseert en exploiteert de productie-installatie overeenkomstig de gegevens zoals ingediend bij de aanvraag om subsidie.
 
@@ -886,7 +912,7 @@ Bij ministeriële regeling kunnen nadere regels over de uitvoeringsovereenkomst 
 
 6. In het geval voor een categorie productie-installaties een opbrengstgrensbedrag als bedoeld in [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12a&z=2026-01-01&g=2026-01-01), [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01), [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29a&z=2026-01-01&g=2026-01-01) of [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=45a&z=2026-01-01&g=2026-01-01) is vastgesteld, zijn voor het aantal kWh dat in een kalenderjaar voor subsidie in aanmerking komt en dat binnen dat aantal kWh daadwerkelijk door de subsidie-ontvanger is geproduceerd, met inachtneming van de toepassing van [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [artikel 23, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2026-01-01&g=2026-01-01), [artikel 32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=32&z=2026-01-01&g=2026-01-01) of [artikel 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=48&z=2026-01-01&g=2026-01-01), garanties van oorsprong verstrekt.
 
-#### Artikel 63
+##### Artikel 63
 
 1. In de beschikking tot subsidieverlening kan aan de subsidie-ontvanger de verplichting tot het indienen van ten hoogste één maal per kalenderjaar van een tussentijds voortgangsverslag worden opgelegd dat betrekking heeft op:
 
@@ -896,23 +922,23 @@ Bij ministeriële regeling kunnen nadere regels over de uitvoeringsovereenkomst 
 
 2. Bij ministeriële regeling worden nadere regels gesteld over het tussentijds voortgangsverslag.
 
-#### Artikel 64
+##### Artikel 64
 
 De subsidie-ontvanger doet onverwijld mededeling aan Onze Minister van de indiening bij de rechtbank van een verzoek tot het op hem van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, tot verlening van surséance van betaling aan hem of tot faillietverklaring van hem.
 
-#### Artikel 65
+##### Artikel 65
 
 De subsidie-ontvanger verstrekt desgevraagd aan Onze Minister alle bescheiden, gegevens of inlichtingen die nodig zijn voor een beslissing omtrent de subsidie.
 
 #### § 8. Voorschotten
 
-#### Artikel 66
+##### Artikel 66
 
 1. Voor een subsidie waarvoor een beschikking tot subsidieverlening geldt, verstrekt Onze Minister ambtshalve maximaal één maal per jaar een voorschot.
 
 2. Onze Minister verstrekt het eerste voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte produceert niet eerder dan nadat de subsidie-ontvanger op aanvraag bij Onze Minister een rekening heeft geopend overeenkomstig [artikel 73, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=73), [artikel 66i, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=66i), artikel 3 van de Wet implementatie EU-richtlijn hernieuwbare energie voor garanties van oorsprong of [artikel 25, tweede lid, van de Warmtewet](https://wetten.overheid.nl/jci1.3:c:BWBR0033729&artikel=25).
 
-#### Artikel 67
+##### Artikel 67
 
 1. Een voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit produceert bedraagt het product van:
 
@@ -950,7 +976,7 @@ met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voor
 
 6. Indien de meetgegevens niet beschikbaar zijn in het kalenderjaar, bedoeld in het eerste en derde lid, wordt in afwijking van het eerste en derde lid het voorschot uiterlijk vastgesteld in het eerstvolgende kalenderjaar nadat de meetgegevens beschikbaar zijn.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Onze Minister verstrekt de in de [artikelen 67, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=8&artikel=67&z=2026-01-01&g=2026-01-01), en[67a, eerste, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=8&artikel=67a&z=2026-01-01&g=2026-01-01), bedoelde voorschotten in maandelijkse bedragen, tenzij bij ministeriële regeling is bepaald dat voor een bepaalde categorie productie-installaties het voorschot in een jaarlijks bedrag wordt verstrekt. De som van de maandelijkse bedragen of van het jaarlijkse bedrag bedraagt niet meer dan 80% van het product van:
 
@@ -974,13 +1000,13 @@ met dien verstande dat in het daaropvolgende kalenderjaar de hoogte van het voor
 
 7. Bij ministeriële regeling worden regels gesteld over de berekening van de maandelijkse bedragen en van het jaarlijkse bedrag, bedoeld in het eerste lid, en kunnen regels worden gesteld over de wijze waarop de voorschotten worden teruggevorderd of verrekend als bedoeld in het tweede, derde, vijfde en zesde lid.
 
-#### Artikel 69
+##### Artikel 69
 
 Onze Minister verstrekt geen voorschot, indien de subsidie-ontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, indien hij failliet is verklaard of aan hem surséance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.
 
 #### § 9. Subsidievaststelling
 
-#### Artikel 70
+##### Artikel 70
 
 1. De subsidie-ontvanger dient zijn aanvraag om subsidievaststelling in binnen zes maanden na het tijdstip waarop periode waarover subsidie wordt verstrekt, bepaald in de beschikking tot subsidieverlening, is verstreken.
 
@@ -988,7 +1014,7 @@ Onze Minister verstrekt geen voorschot, indien de subsidie-ontvanger niet heeft 
 
 3. De aanvraag gaat vergezeld van de door Onze Minister aangegeven bescheiden.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
@@ -996,15 +1022,15 @@ Onze Minister verstrekt geen voorschot, indien de subsidie-ontvanger niet heeft 
 
 #### § 8. Voorschotten
 
-#### Artikel 72
+##### Artikel 72
 
 Onze Minister publiceert zo snel mogelijk na 1 januari 2016, en vervolgens telkens na vijf jaar, een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.
 
-#### Artikel 73
+##### Artikel 73
 
 Voor een productie-installatie voor de productie van hernieuwbaar gas waarvoor subsidie is verstrekt op basis van een aanvraag om subsidie die is ingediend in 2011 wordt bij de toepassing van het [artikel 32, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=32&z=2026-01-01&g=2026-01-01), ten eerste, of [artikel 40, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=40&z=2026-01-01&g=2026-01-01), ten eerste, opgeteld het aantal kWh dat in elk kalenderjaar voor subsidie in aanmerking komt die een producent van hernieuwbaar gas in dat kalenderjaar heeft geproduceerd en op een transmissie- of distributiesysteem voor gas heeft laten invoeden.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Op aanvragen om subsidie die vóór 1 januari 2015 zijn ingediend, op subsidies die vóór 1 januari 2015 zijn verleend en op subsidies die vóór 1 januari 2015 zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip, met uitzondering het bepaalde in de [artikelen 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=1&artikel=1&z=2026-01-01&g=2026-01-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=22&z=2026-01-01&g=2026-01-01), [23, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2026-01-01&g=2026-01-01), [28, eerste, tweede lid en derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=28&z=2026-01-01&g=2026-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29&z=2026-01-01&g=2026-01-01), [31, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=31&z=2026-01-01&g=2026-01-01), [32, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=32&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=33&z=2026-01-01&g=2026-01-01), [36, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=36&z=2026-01-01&g=2026-01-01), [37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=37&z=2026-01-01&g=2026-01-01), [39, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=39&z=2026-01-01&g=2026-01-01), [40, eerste, tweede, derde, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=40&z=2026-01-01&g=2026-01-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.3&artikel=41&z=2026-01-01&g=2026-01-01), [44, eerste en tweede lid en derde lid aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=44&z=2026-01-01&g=2026-01-01), [47, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=47&z=2026-01-01&g=2026-01-01), [48, eerste lid, onderdeel a, onder 1°, tweede, derde, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=48&z=2026-01-01&g=2026-01-01), [49](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=49&z=2026-01-01&g=2026-01-01), [51, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=51&z=2026-01-01&g=2026-01-01), [52, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=52&z=2026-01-01&g=2026-01-01), [54, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=54&z=2026-01-01&g=2026-01-01), [55, eerste lid, onderdeel a, onder 1°, tweede, derde, vierde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=55&z=2026-01-01&g=2026-01-01), [55a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=55a&z=2026-01-01&g=2026-01-01), [56, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=6&artikel=56&z=2026-01-01&g=2026-01-01), [58, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=6&artikel=58&z=2026-01-01&g=2026-01-01), [60, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=6&artikel=60&z=2026-01-01&g=2026-01-01), [67, eerste lid, tweede lid, onderdeel a en laatste zin, derde lid, onderdeel a en laatste zin en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=8&artikel=67&z=2026-01-01&g=2026-01-01), [68, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=8&artikel=68&z=2026-01-01&g=2026-01-01) en [73](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=11&artikel=73&z=2026-01-01&g=2026-01-01).
 
@@ -1012,11 +1038,11 @@ Voor een productie-installatie voor de productie van hernieuwbaar gas waarvoor s
 
 3. Op aanvragen om subsidie die in de periode tussen 1 januari 2015 en 1 november 2020 zijn ingediend, op subsidies die in de periode tussen 1 januari 2015 en 1 juli 2020 zijn verleend en op subsidies die in de periode tussen 1 januari 2015 en 1 november 2020 zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór 1 november 2020.
 
-#### Artikel 75
+##### Artikel 75
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 76
+##### Artikel 76
 
 Dit besluit wordt aangehaald als: Besluit stimulering duurzame energieproductie en klimaattransitie.
 
@@ -1024,7 +1050,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 3.4. Subsidie voor innovatieve windenergie op zee
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Onze Minister kan op aanvraag aan een producent van hernieuwbare elektriciteit geproduceerd door een productie-installatie voor de productie van hernieuwbare elektriciteit met behulp van windenergie op zee op een innovatiekavel subsidie verstrekken voor de kosten van de bijzondere en risicovolle inzet van een innovatieve productie-installatie. Dit laat de mogelijkheid om subsidie te verstrekken als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), onverlet.
 
@@ -1054,7 +1080,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 55a
+##### Artikel 55a
 
 De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in [artikel 51](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=51&z=2026-01-01&g=2026-01-01), en de basisenergieprijs, bedoeld in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.3&artikel=52&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kWh.
 
@@ -1068,7 +1094,7 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), en er daardoor voor dezelfde periode, of gedeeltelijk voor dezelfde periode, twee of meer beschikkingen zijn afgegeven voor dezelfde productie-installatie en dezelfde soort hernieuwbare energie of dezelfde vorm van vermindering van broeikasgas, wordt in een kalenderjaar de hernieuwbare elektriciteit, het hernieuwbare gas of de hernieuwbare warmte dan wel de vermindering van broeikasgas die onder een later afgegeven beschikking extra wordt geproduceerd respectievelijk is verminderd, subsidiabel indien de subsidiabele productie van de eerder afgegeven beschikking of beschikkingen volledig is benut.
 
@@ -1094,7 +1120,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderde
 
 #### § 5.1. Algemeen
 
-#### Artikel 43a
+##### Artikel 43a
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kan per fase een fasebedrag per kWh worden vastgesteld voor de subsidie voor de productie van hernieuwbare warmte, of hernieuwbare warmte en hernieuwbare elektriciteit.
 
@@ -1106,7 +1132,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderde
 
 #### § 5a. Subsidie voor projecten in andere lidstaten
 
-#### Artikel 55b
+##### Artikel 55b
 
 1. Aan de producent van hernieuwbare elektriciteit, hernieuwbaar gas, hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte, geproduceerd door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties die zich bevinden in een lidstaat waarmee een samenwerking is overeengekomen als bedoeld in artikel 9 van de [richtlijn (EU) 2018/2001](32018L2001), kan subsidie worden verleend.
 
@@ -1132,7 +1158,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 3, tweede lid, onderde
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 63a
+##### Artikel 63a
 
 1. In de beschikking tot subsidieverlening kan aan de subsidie-ontvanger de verplichting worden opgelegd een jaarlijkse conformiteitsbeoordelingsverklaring te overleggen in verband met de duurzaamheid van biomassa en de reductie van broeikasgassen door het gebruik van biomassa bij energietoepassingen en de volledigheid van de vereiste, krachtens [artikel 11a.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2) afgegeven conformiteitsbeoordelingsverklaringen per levering.
 
@@ -1158,7 +1184,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 24b
+##### Artikel 24b
 
 1. Bij ministeriële regeling wordt, na overleg met Onze Minister van Financiën, per innovatiekavel een subsidieplafond vastgesteld voor het verlenen van subsidie als bedoeld in [artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 24a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.4&artikel=24a&z=2026-01-01&g=2026-01-01).
 
@@ -1168,7 +1194,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 4. Een ministeriële regeling die op grond van het derde lid afwijkt van dit besluit, wordt vastgesteld voor een periode van ten hoogste 5 jaar.
 
-#### Artikel 24c
+##### Artikel 24c
 
 1. Onze Minister verdeelt het subsidieplafond, bedoeld in [artikel 24b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.4&artikel=24b&z=2026-01-01&g=2026-01-01), op basis van rangschikking.
 
@@ -1194,17 +1220,17 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 5b.1. Algemeen
 
-#### Artikel 55c
+##### Artikel 55c
 
 Aan de producent die broeikasgas vermindert door een bij regeling van Onze Minister aan te wijzen categorie productie-installaties, kan subsidie worden verleend.
 
 #### § 5b.2. Subsidie volgorde binnenkomst
 
-#### Artikel 55d
+##### Artikel 55d
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van binnenkomst.
 
-#### Artikel 55e
+##### Artikel 55e
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, kan per fase een fasebedrag per 1.000 kg broeikasgasvermindering worden vastgesteld voor de subsidie voor de vermindering van broeikasgas.
 
@@ -1212,7 +1238,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Bij regeling van Onze Minister kan voor een categorie productie-installaties een fasebedrag worden vastgesteld dat afwijkt van het fasebedrag vastgesteld op grond van het eerste lid.
 
-#### Artikel 55f
+##### Artikel 55f
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt per categorie productie-installaties een basisbedrag per 1000 kg broeikasgas vastgesteld voor de subsidie voor de vermindering van broeikasgas.
 
@@ -1226,7 +1252,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 - c. het rendement van de productie-installatie.
 
-#### Artikel 55g
+##### Artikel 55g
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het fasebedrag of basisbedrag, bedoeld in [artikel 55i](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55i&z=2026-01-01&g=2026-01-01) en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 55k](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55k&z=2026-01-01&g=2026-01-01), een basisbroeikasgasbedrag per 1000kg broeikasgas vastgesteld dat kan verschillen per categorie productie-installaties.
 
@@ -1242,11 +1268,11 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 4. De hoogte van het basisbroeikasgasbedrag bedraagt tweederde van het langetermijnbroeikasgasbedrag.
 
-#### Artikel 55h
+##### Artikel 55h
 
 Het fasebedrag, bedoeld in [artikel 55e](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55e&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 55f](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55f&z=2026-01-01&g=2026-01-01), en het basisbroeikasgasbedrag, bedoeld in [artikel 55g](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55g&z=2026-01-01&g=2026-01-01), die gelden op het moment van aanvraag van de subsidie, gelden gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 55i
+##### Artikel 55i
 
 1. Voor elke subsidie-ontvanger geldt dat het fasebedrag of basisbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -1268,7 +1294,7 @@ Het fasebedrag, bedoeld in [artikel 55e](https://wetten.overheid.nl/jci1.3:c:BWB
 
 7. Indien het ingevolge het eerste, vijfde of zesde lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 55j
+##### Artikel 55j
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -1290,17 +1316,17 @@ Het fasebedrag, bedoeld in [artikel 55e](https://wetten.overheid.nl/jci1.3:c:BWB
 
 6. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop het aantal kg verminderde broeikasgas moet worden vastgesteld of berekend.
 
-#### Artikel 55k
+##### Artikel 55k
 
 De subsidie bedraagt ten hoogste het verschil tussen het fasebedrag, bedoeld in [artikel 55e](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55e&z=2026-01-01&g=2026-01-01), of het basisbedrag, bedoeld in [artikel 55f](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55f&z=2026-01-01&g=2026-01-01), en het basisbroeikasgasbedrag, bedoeld in [artikel 55g](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55g&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kg verminderde broeikasgas.
 
 #### § 5b.2. Subsidie volgorde binnenkomst
 
-#### Artikel 55l
+##### Artikel 55l
 
 De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), wordt gekozen voor verdeling op volgorde van rangschikking.
 
-#### Artikel 55m
+##### Artikel 55m
 
 1. Bij de aanvraag tot subsidieverlening wordt door de producent een tenderbedrag per 1000 kg vermindering van broeikasgas opgegeven. Bij een gebundelde aanvraag is het door de producent opgegeven tenderbedrag van toepassing op alle aanvragen die deel uitmaken van de gebundelde aanvraag.
 
@@ -1308,7 +1334,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 3. Het tenderbedrag bedraagt ten hoogste de gemiddelde kosten per 1000 kg vermindering van broeikasgas per categorie van productie-installaties.
 
-#### Artikel 55n
+##### Artikel 55n
 
 1. Bij regeling van Onze Minister, na overleg met Onze Minister van Financiën, wordt ten behoeve van de correctie van het tenderbedrag, bedoeld in [artikel 55p](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55p&z=2026-01-01&g=2026-01-01), en de vaststelling van het bedrag dat de subsidie ten hoogste bedraagt, bedoeld in [artikel 55r](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55r&z=2026-01-01&g=2026-01-01), een basisbroeikasgasbedrag per 1000 kg broeikasgas vastgesteld dat kan verschillen voor verschillende categorieën productie-installaties.
 
@@ -1324,13 +1350,13 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 4. De hoogte van het basisbroeikasgasbedrag bedraagt tweederde van het langetermijnbroeikasgasbedrag.
 
-#### Artikel 55o
+##### Artikel 55o
 
 1. Het door de producent opgegeven tenderbedrag, bedoeld in [artikel 55m](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55m&z=2026-01-01&g=2026-01-01), geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
 2. Het basisbroeikasgasbedrag, bedoeld in [artikel 55n](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55n&z=2026-01-01&g=2026-01-01), dat geldt op het moment van aanvraag van de subsidie, geldt gedurende de gehele periode waarover subsidie wordt verstrekt.
 
-#### Artikel 55p
+##### Artikel 55p
 
 1. Voor elke subsidie-ontvanger geldt dat het tenderbedrag in elk kalenderjaar van de periode waarover subsidie wordt verstrekt wordt gecorrigeerd met:
 
@@ -1348,7 +1374,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 5. Indien het ingevolge het eerste lid geldende bedrag negatief is, bedraagt het bedrag nul.
 
-#### Artikel 55q
+##### Artikel 55q
 
 1. De subsidie die een subsidie-ontvanger ontvangt wordt bepaald door:
 
@@ -1370,7 +1396,7 @@ De bepalingen in deze paragraaf gelden indien ingevolge [artikel 2, derde lid](h
 
 6. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop het aantal kg verminderde broeikasgas moet worden vastgesteld of berekend.
 
-#### Artikel 55r
+##### Artikel 55r
 
 De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld in [artikel 55m](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55m&z=2026-01-01&g=2026-01-01), en het basisbroeikasgasbedrag, bedoeld in [artikel 55n](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.3&artikel=55n&z=2026-01-01&g=2026-01-01), vermenigvuldigd met het in de beschikking tot subsidieverlening voor de gehele periode waarover subsidie wordt verstrekt bepaald maximum aantal kg verminderde broeikasgas.
 
@@ -1378,7 +1404,7 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 #### § 7. Verplichtingen van de subsidieontvanger
 
-#### Artikel 63b
+##### Artikel 63b
 
 1. In de beschikking tot subsidieverlening kan aan de subsidieontvanger de verplichting worden opgelegd een verklaring te overleggen over de opbrengsten en vermeden kosten die voor de subsidie-ontvanger voortvloeien uit het systeem van verhandelbare broeikasgasemissierechten, bedoeld in [titel 16.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=16.2).
 
@@ -1392,7 +1418,7 @@ De subsidie bedraagt ten hoogste het verschil tussen het tenderbedrag, bedoeld i
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust mede op [artikel 5.10, eerste lid, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=5.10) en [artikel 11a.2, eerste lid jo. derde lid, onderdelen a en c, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=11a.2).
 
@@ -1438,7 +1464,7 @@ Dit besluit berust mede op [artikel 5.10, eerste lid, van de Wet algemene bepali
 
 #### § 8. Voorschotten
 
-#### Artikel 71a
+##### Artikel 71a
 
 Bij ministeriële regeling worden de ambtenaren aangewezen die worden belast met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 63a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=7&artikel=63a&z=2026-01-01&g=2026-01-01).
 
@@ -1446,13 +1472,13 @@ Bij ministeriële regeling worden de ambtenaren aangewezen die worden belast met
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van hernieuwbare elektriciteit op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de gemiddelde marktprijs van hernieuwbare elektriciteit, een opbrengstgrensbedrag per kWh voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
 
 2. Het opbrengstgrensbedrag is hoger dan het basisbedrag dat is vastgesteld voor de betreffende categorie productie-installaties.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01) wordt de subsidie die een subsidie-ontvanger ontvangt die hernieuwbare elektriciteit produceert met een productie-installatie die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarvoor op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12a&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, bepaald door:
 
@@ -1476,13 +1502,13 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 4.1. Algemeen
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van hernieuwbaar gas op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de gemiddelde marktprijs van hernieuwbaar gas, een opbrengstgrensbedrag per kWh voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
 
 2. Het opbrengstgrensbedrag is hoger dan het basisbedrag dat is vastgesteld voor de betreffende categorie productie-installaties.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. In afwijking van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=32&z=2026-01-01&g=2026-01-01) wordt de subsidie die een subsidie-ontvanger ontvangt die hernieuwbaar gas produceert met een productie-installatie die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarvoor op grond van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=4&sub-paragraaf=4.2&artikel=29a&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, bepaald door:
 
@@ -1502,13 +1528,13 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 5. Subsidie voor hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 45a
+##### Artikel 45a
 
 1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de gemiddelde marktprijs van hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit, een opbrengstgrensbedrag per kWh voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
 
 2. Het opbrengstgrensbedrag is hoger dan het basisbedrag dat is vastgesteld voor de betreffende categorie productie-installaties.
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. In afwijking van [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=48&z=2026-01-01&g=2026-01-01) wordt de subsidie die een subsidie-ontvanger ontvangt die hernieuwbare warmte of hernieuwbare warmte en hernieuwbare elektriciteit produceert met een productie-installatie die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarvoor op grond van [artikel 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5&sub-paragraaf=5.2&artikel=45a&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, bepaald door:
 
@@ -1534,13 +1560,13 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 5b.1. Algemeen
 
-#### Artikel 55ga
+##### Artikel 55ga
 
 1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van de vermindering van broeikasgas op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de som van de gemiddelde kostprijs van de uitstoot van broeikasgas en de gemiddelde marktprijs van het primaire product, een opbrengstgrensbedrag per 1.000 kg broeikasgas voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
 
 2. Het opbrengstgrensbedrag is hoger dan het basisbedrag dat is vastgesteld voor de betreffende categorie productie-installaties.
 
-#### Artikel 55ja
+##### Artikel 55ja
 
 1. In afwijking van [artikel 55j](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55j&z=2026-01-01&g=2026-01-01) wordt de subsidie die een subsidie-ontvanger ontvangt die broeikasgas vermindert met een productie-installatie die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarvoor op grond van [artikel 55ga](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=5b&sub-paragraaf=5b.2&artikel=55ga&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, bepaald door:
 
@@ -1562,7 +1588,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 #### § 6. Algemene bepalingen over aanvraag en beslissing op de aanvraag
 
-#### Artikel 67a
+##### Artikel 67a
 
 1. In afwijking van [artikel 67, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=8&artikel=67&z=2026-01-01&g=2026-01-01), bedraagt een voorschot aan een subsidie-ontvanger die hernieuwbare elektriciteit produceert met een productie-installatie die behoort tot categorie productie-installaties waarvoor op grond van [artikel 12a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.2&artikel=12a&z=2026-01-01&g=2026-01-01) of [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, het product van:
 
@@ -1600,7 +1626,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Bij regeling van Onze Minister kan voor een categorie productie-installaties waarvoor een gerede kans bestaat dat de gemiddelde kostprijs van hernieuwbare elektriciteit op enig moment gedurende de periode waarover subsidie wordt verstrekt lager zal zijn dan de gemiddelde marktprijs van hernieuwbare elektriciteit, een opbrengstgrensbedrag per kWh voor het bepalen van de subsidie worden vastgesteld, dat kan verschillen per categorie productie-installaties.
 
@@ -1608,7 +1634,7 @@ Lasten en bevelen dat dit besluit met de bijbehorende nota van toelichting in he
 
 3. Onze minister kan het opbrengstgrensbedrag in afwijking van het eerste lid uitdrukken in het product van het tenderbedrag en een bij ministeriële regeling vast te stellen factor.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. In afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=23&z=2026-01-01&g=2026-01-01), wordt de subsidie die een subsidie-ontvanger ontvangt die hernieuwbare elektriciteit produceert met een productie-installatie die behoort tot een bij ministeriële regeling aangewezen categorie productie-installaties waarvoor op grond van [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&paragraaf=3&sub-paragraaf=3.3&artikel=20a&z=2026-01-01&g=2026-01-01) een opbrengstgrensbedrag is vastgesteld, bepaald door:
 

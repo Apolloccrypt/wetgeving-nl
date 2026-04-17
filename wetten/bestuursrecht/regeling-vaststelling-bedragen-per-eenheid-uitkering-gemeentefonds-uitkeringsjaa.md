@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2005"
+title: "Regeling tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2005"
 identifier: "BWBR0022961"
-categorie: "Bestuursrecht"
-publicatiedatum: 2007-12-08
-laatste_update: 2007-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022961"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-12-08"
+last_updated: "2007-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022961"
+soort: "ministeriele-regeling"
+stam_id: "9305013"
+version_id: "14942532"
+internal_id: "C20331111"
+label_id: "9283504"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022961/2007-12-08/0"
+intitule_bron: "Stcrt.2007-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-20"
+intitule_published: "2007-12-06"
+intitule_in_force: "2007-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-237"
+original_signed_date: "2007-11-20"
+original_published_date: "2007-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-237-p8-SC83265"
+entry_into_force_date: "2007-12-08"
+jci_1_3: "jci1.3:c:BWBR0022961&z=2007-12-08&g=2007-12-08"
+jci_1_0: "1.0:c:BWBR0022961&g=2007-12-08"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling bedragen per eenheid uitkering gemeentefonds uitkeringsjaar 2005"
+signed_date: "2007-11-20"
+entry_into_force: "2007-12-08"
 ---
-
 # Regeling tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2005
 
 Handelende in overeenstemming met de Minister van Financiën;
@@ -16,15 +42,15 @@ Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.n
 
 Stelt vast:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2005 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022961&bijlage=1&z=2007-12-08&g=2007-12-08) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitkeringsjaar 2005 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022961&bijlage=2&z=2007-12-08&g=2007-12-08) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

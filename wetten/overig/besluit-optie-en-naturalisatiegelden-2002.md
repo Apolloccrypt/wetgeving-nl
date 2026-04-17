@@ -1,13 +1,39 @@
 ---
-title: "Besluit optie- en naturalisatiegelden 2002"
+title: "Besluit van 17 juni 2002 tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap, zoals gewijzigd bij Rijkswet van 21 december 2000 (Stb. 2000, 618) (Besluit optie- en naturalisatiegelden 2002)"
 identifier: "BWBR0013782"
-categorie: "Overig"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013782"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013782"
+soort: "rijksKB"
+stam_id: "2855303"
+version_id: "4393142"
+internal_id: "C5340481"
+label_id: "2803624"
+dtd_version: "2.0"
+original_entry_into_force: "2003-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013782/2011-01-01/0"
+intitule_bron: "Stb.2002-325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-17"
+intitule_published: "2002-06-27"
+intitule_in_force: "2003-03-25"
+intitule_status: "goed"
+original_publication: "Stb.2002-325"
+original_signed_date: "2002-06-17"
+original_published_date: "2002-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-325"
+entry_into_force_date: "2003-04-01"
+jci_1_3: "jci1.3:c:BWBR0013782&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0013782&g=2011-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit optie- en naturalisatiegelden 2002"
+signed_date: "2002-06-17"
+entry_into_force: "2003-04-01"
 ---
-
 # Besluit van 17 juni 2002 tot uitvoering van artikel 13 van de Rijkswet op het Nederlanderschap, zoals gewijzigd bij Rijkswet van 21 december 2000 (Stb. 2000, 618) (Besluit optie- en naturalisatiegelden 2002)
 
 Op de voordracht van de Staatssecretaris van Justitie van 31 januari 2002, Directie Wetgeving, Nr. 5140648/01/6;
@@ -22,7 +48,7 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - d. openbaar lichaam: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de behandeling van een verklaring van optie is in het Europese deel van Nederland een bedrag van 168 euro verschuldigd, in Curaçao en Sint Maarten een bedrag van 373 Nederlands-Antilliaanse gulden, in een openbaar lichaam een bedrag van 207 USD en in Aruba een bedrag van 373 Arubaanse florin.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 3. Indien bij behandeling van een verklaring van optie als bedoeld in het eerste of tweede lid beoogd wordt een minderjarige te laten delen in de verkrijging van het Nederlanderschap als bedoeld in [artikel 6, achtste lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6), wordt het verschuldigde bedrag in het Europese deel van Nederland vermeerderd met een bedrag van 20 euro per kind, in Curaçao en Sint Maarten een bedrag van 44 Nederlandse-Antilliaanse gulden, in een openbaar lichaam een bedrag van 25 USD en in Aruba een bedrag van 44 Arubaanse florin.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de behandeling van het verzoek tot naturalisatie is in het Europese deel van Nederland een bedrag van 789 euro verschuldigd, in Curaçao en Sint Maarten een bedrag van 1749 Nederlandse-Antilliaanse gulden, in een openbaar lichaam een bedrag van 973 USD en in Aruba een bedrag van 1749 Arubaanse florin.
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 4. Voor de behandeling van een verzoek tot medeverlening als bedoeld in [artikel 11, eerste lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=11), is in het Europese deel van Nederland een bedrag van 116 euro per kind verschuldigd, in Curaçao en Sint Maarten een bedrag van 257 Nederlandse-Antilliaanse gulden , in een openbaar lichaam een bedrag van 143 USD en in Aruba een bedrag van 257 Arubaanse florin.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Geen betaling is verschuldigd indien het betreft de verklaring van optie of het verzoek tot naturalisatie van een persoon die ingevolge de [Wet betreffende de positie van Molukkers](https://wetten.overheid.nl/jci1.3:c:BWBR0003052) als Nederlander wordt behandeld.
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 5. Onze Minister kan de bevoegdheid, bedoeld in het tweede en derde lid, mandateren aan degene bij wie de verklaring van optie moet worden afgelegd of het verzoek tot naturalisatie moet worden ingediend. Met betrekking tot buiten het Koninkrijk afgelegde verklaringen van optie en ingediende verzoeken tot naturalisatie, kan Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken de bevoegdheid, bedoeld in het tweede en derde lid, mandateren aan de hoofden van de diplomatieke en consulaire posten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de verklaring van optie wordt afgelegd of het verzoek tot naturalisatie wordt ingediend in het Europese deel van Nederland, wordt het bedrag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2011-01-01&g=2011-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2011-01-01&g=2011-01-01), voldaan aan de burgemeester van de gemeente waar de betrokkene zijn verklaring van optie aflegt of verzoek tot naturalisatie indient.
 
@@ -82,17 +108,17 @@ In dit besluit wordt verstaan onder:
 
 5. Het verschuldigde bedrag wordt ineens voldaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode van zes weken na de ontvangst van de verklaring van optie of het verzoek tot naturalisatie, dan wordt de verklaring of het verzoek buiten behandeling gesteld. Indien wordt verzocht om ontheffing van de verplichting tot betaling als bedoeld in [artikel 4, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2011-01-01&g=2011-01-01), wordt deze termijn opgeschort tot de dag waarop op deze verklaring of dit verzoek is beslist.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De burgemeester en de Gouverneur van Aruba, Curaçao onderscheidenlijk Sint Maarten, behouden de wegens de verklaring van optie ontvangen gelden ter vergoeding van de gemaakte kosten. Het hoofd van de diplomatieke of consulaire post draagt de gelden, bedoeld in de eerste zin, af aan de Minister van Buitenlandse Zaken op de door deze daartoe bepaalde wijze en tijdstippen.
 
 2. Met betrekking tot de verklaringen van optie, bedoeld in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=4&z=2011-01-01&g=2011-01-01), kan Onze Minister de burgemeester, de Gouverneur van Aruba, Curaçao onderscheidenlijk Sint Maarten of het hoofd van de diplomatieke of consulaire post op hun verzoek een vergoeding toekennen. Het hoofd van de diplomatieke of consulaire post dient het verzoek om een vergoeding in door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De burgemeester en de Gouverneur van Aruba, Curaçao onderscheidenlijk Sint Maarten, dragen de wegens de verzoeken tot naturalisatie ontvangen gelden onder aftrek van het bedrag, genoemd in het tweede lid, op de door Onze Minister daartoe bepaalde wijze en tijdstippen aan Onze Minister af. Het hoofd van de diplomatieke of consulaire post draagt de gelden, bedoeld in de eerste zin, op de door Onze Minister daartoe bepaalde wijze en tijdstippen af aan Onze Minister door tussenkomst van Onze Minister van Buitenlandse Zaken.
 
@@ -104,7 +130,7 @@ Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode va
 
 5. Onze Minister regelt bij ministeriële regeling de wijze waarop de juistheid van de afgedragen bedragen wordt vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bedragen in euro, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=8&z=2011-01-01&g=2011-01-01), worden jaarlijks per 1 januari gewijzigd met een door Onze Minister vast te stellen percentage, dat overeenkomt met het procentuele verschil tussen het indexcijfer van de cao-lonen per maand, inclusief bijzondere uitkeringen, van volwassenen, zoals dat wordt berekend door het Centraal Bureau voor de Statistiek naar de stand op 30 juni van het voorafgaande jaar en voor de eerste maal, al dan niet voorlopig, wordt bekend gemaakt door het Centraal Bureau voor de Statistiek en het overeenkomstige indexcijfer in het voorafgaande jaar. De bedragen in Nederlands-Antilliaanse gulden, USD en Arubaanse florin, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=2&z=2011-01-01&g=2011-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=3&z=2011-01-01&g=2011-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0013782&artikel=8&z=2011-01-01&g=2011-01-01), worden jaarlijks per 1 januari gewijzigd, na indexering als bedoeld in de eerste volzin, aan de hand van de koers tussen de euro en de Nederlands Antilliaanse gulden, USD en de Arubaanse florin op 1 juli van het voorafgaande jaar.
 
@@ -114,17 +140,17 @@ Vindt de betaling van het verschuldigde bedrag niet plaats binnen een periode va
 
 4. Het percentage, bedoeld in het eerste lid, en de bedragen, bedoeld in het derde lid, worden door Onze Minister bekend gemaakt in daartoe bestemde officiële publicatiebladen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het [Besluit naturalisatiegelden 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008731) wordt ingetrokken.
 
 2. Op naturalisatieverzoeken die voor de datum van inwerkingtreding van dit besluit zijn ingediend, blijft het in het eerste lid genoemde besluit van toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit optie- en naturalisatiegelden 2002.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor elk van de landen van het Koninkrijk verschillend kan worden vastgesteld.
 

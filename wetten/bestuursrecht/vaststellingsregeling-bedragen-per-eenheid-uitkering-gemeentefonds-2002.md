@@ -1,28 +1,53 @@
 ---
-title: "Vaststellingsregeling bedragen per eenheid uitkering gemeentefonds 2002"
+title: "Regeling van 28 januari 2005, nr. FO2005/0000008072, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2002"
 identifier: "BWBR0017973"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-02-13
-laatste_update: 2005-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017973"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-02-13"
+last_updated: "2005-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017973"
+soort: "ministeriele-regeling"
+stam_id: "6754543"
+version_id: "11604572"
+internal_id: "C15638621"
+label_id: "6742844"
+original_entry_into_force: "2005-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017973/2005-02-13/0"
+intitule_bron: "Stcrt.2005-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-01-28"
+intitule_published: "2005-02-11"
+intitule_in_force: "2005-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-30"
+original_signed_date: "2005-01-28"
+original_published_date: "2005-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-30-p18-SC68847"
+entry_into_force_date: "2005-02-13"
+jci_1_3: "jci1.3:c:BWBR0017973&z=2005-02-13&g=2005-02-13"
+jci_1_0: "1.0:c:BWBR0017973&g=2005-02-13"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling bedragen per eenheid uitkering gemeentefonds 2002"
+signed_date: "2005-01-28"
+entry_into_force: "2005-02-13"
 ---
-
 # Regeling van 28 januari 2005, nr. FO2005/0000008072, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2002
 
 Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9) en [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2002 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0017973&bijlage=1&z=2005-02-13&g=2005-02-13) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitkeringsjaar 2002 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0017973&bijlage=2&z=2005-02-13&g=2005-02-13) bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

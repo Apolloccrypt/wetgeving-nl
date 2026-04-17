@@ -1,13 +1,39 @@
 ---
-title: "Warenwetregeling algemene chemische productveiligheid"
+title: "Regeling van de Minister voor Medische Zorg van 17 november 2020, 1777448-213780-VGP, houdende vaststelling van regels inzake chemische productveiligheid (Warenwetregeling algemene chemische productveiligheid)"
 identifier: "BWBR0044368"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044368"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044368"
+soort: "ministeriele-regeling"
+stam_id: "15707013"
+version_id: "31492222"
+internal_id: "C44972191"
+label_id: "15645734"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044368/2026-04-01/0"
+intitule_bron: "Stcrt.2020-61089"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-17"
+intitule_published: "2020-11-25"
+intitule_in_force: "2020-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11004"
+original_signed_date: "2026-03-13"
+original_published_date: "2026-03-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-11004"
+entry_into_force_date: "2026-03-13"
+jci_1_3: "jci1.3:c:BWBR0044368&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0044368&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling algemene chemische productveiligheid"
+signed_date: "2026-03-13"
+entry_into_force: "2026-03-13"
 ---
-
 # Regeling van de Minister voor Medische Zorg van 17 november 2020, 1777448-213780-VGP, houdende vaststelling van regels inzake chemische productveiligheid (Warenwetregeling algemene chemische productveiligheid)
 
 Gelet op:
@@ -18,25 +44,25 @@ artikel 67, eerste lid, en bijlage XVII van [Verordening (EG) nr. 1907/2006](320
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De stoffen, groepen van stoffen, mengsels of voorwerpen aangeduid in de bijlage worden aangewezen als stoffen, groepen van stoffen, mengsels of voorwerpen als bedoeld in [artikel 2 van het Warenwetbesluit algemene chemische productveiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0006447&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Warenwetregeling algemene chemische productveiligheid.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Het Europees Agentschap voor chemische stoffen (ECHA) en het Nationaal Vergiftigingen Informatie Centrum worden aangewezen als de organen, bedoeld in artikel 45, eerste lid, van [Verordening (EG) nr. 1272/2008](32008R1272) van het Europees parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels, tot wijziging en intrekking van de [Richtlijnen 67/548/EEG](31967L0548) en [1999/45/EG](31999L0045) en tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907).
 
-#### Artikel 1b
+##### Artikel 1b
 
 Deze regeling berust mede op [artikel 9.3a.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.3a.1).
 

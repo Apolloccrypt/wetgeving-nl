@@ -1,13 +1,37 @@
 ---
 title: "Tarieven voor diensten door het K.N.M.I. aan derden verleend"
 identifier: "BWBR0002898"
-categorie: "Overig"
-publicatiedatum: 1973-09-20
-laatste_update: 1973-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002898"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1973-09-20"
+last_updated: "1973-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002898"
+soort: "ministeriele-regeling"
+stam_id: "4735373"
+version_id: "6552132"
+internal_id: "C7003101"
+label_id: "4713504"
+dtd_version: "2.0"
+original_entry_into_force: "1973-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002898/1973-09-20/0"
+intitule_bron: "Stcrt.1973-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-09-10"
+intitule_published: "1973-09-20"
+intitule_in_force: "1973-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1973-182"
+original_signed_date: "1973-09-10"
+original_published_date: "1973-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-09-20"
+jci_1_3: "jci1.3:c:BWBR0002898&z=1973-09-20&g=1973-09-20"
+jci_1_0: "1.0:c:BWBR0002898&g=1973-09-20"
+citeertitel_status: "officieel"
+signed_date: "1973-09-10"
+entry_into_force: "1973-09-20"
 ---
-
 # Tarieven voor diensten door het K.N.M.I. aan derden verleend
 
 Overwegende, dat een wijziging gewenst is van de tarieven voor diensten door het Koninklijk Nederlands Meteorologisch Instituut aan derden verleend.
@@ -26,13 +50,13 @@ Besluit:
 
 ## Regelen met betrekking tot de doorberekening aan derden van de kosten voortvloeiende uit dienstverlening of gegevensverstrekking door het K.N.M.I.
 
-#### 1
+##### 1
 
 In rekening worden gebracht de kosten specifiek gemaakt voor de verstrekking van informatie c.q. het verlenen van diensten die het normale algemene verstrekkingenpakket van het K.N.M.I. te boven gaan.
 
 Onder het normale verstrekkingenpakket wordt in deze verstaan het verstrekken van weerkundige informatie door middel van pers, radio en televisie.
 
-#### 2
+##### 2
 
 Tot de kosten genoemd sub 1 behoren:
 
@@ -48,27 +72,27 @@ Tot de kosten genoemd sub 1 behoren:
 
 - f. departementskosten conform de ter zake geldende voorschriften.
 
-#### 3
+##### 3
 
 De sub 2 genoemde kosten worden als volgt bepaald
 
-#### 4
+##### 4
 
 Boven de kosten genoemd sub 1 kan op voorstel van de hoofddirecteur van het K.N.M.I. in naar mijn oordeel daarvoor in aanmerking komende gevallen nog een opslag in rekening worden gebracht wegens wetenschappelijk ontwikkelingswerk. Deze opslag zal worden uitgedrukt in een percentage van de kosten genoemd sub 1. De hoogte van dit percentage zal afhankelijk zijn van de aard der te verrichten werkzaamheden.
 
-#### 5
+##### 5
 
 Aan instellingen van wetenschappelijk onderzoek die zich bezig houden met meteorologisch, oceanografisch of geofysisch onderzoek worden, indien de werkzaamheden die het K.N.M.I. voor hen verricht als een bijdrage tot het onderzoek op ge noemde gebieden beschouwd kunnen worden, uitsluitend de specifiek gemaakte directe kosten in rekening gebracht.
 
-#### 6
+##### 6
 
 Eveneens worden alleen de specifiek gemaakte directe kosten in rekening gebracht van werkzaamheden verricht ten behoeve van dienstonderdelen behorende tot het Ministerie van Verkeer en Waterstaat.
 
-#### 7
+##### 7
 
 Voor eenvoudige verrichtingen van beperkte aard, die geen bijzondere personele of materiële inzet vergen wordt een vaste vergoeding in rekening gebracht van f 7,50 per verrichting. Periodiek zal worden nagegaan of dit bedrag bijstelling behoeft.
 
-#### 8
+##### 8
 
 Doorberekening van kosten blijft achterwege:
 

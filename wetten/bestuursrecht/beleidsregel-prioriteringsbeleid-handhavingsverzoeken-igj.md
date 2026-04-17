@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel prioriteringsbeleid handhavingsverzoeken IGJ"
 identifier: "BWBR0052366"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-28
-laatste_update: 2026-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052366"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-28"
+last_updated: "2026-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052366"
+soort: "beleidsregel"
+stam_id: "17781263"
+version_id: "31443202"
+internal_id: "C44912621"
+label_id: "17679194"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052366/2026-02-28/0"
+intitule_bron: "Stcrt.2026-8009"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-19"
+intitule_published: "2026-02-27"
+intitule_in_force: "2026-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8009"
+original_signed_date: "2026-02-19"
+original_published_date: "2026-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8009"
+entry_into_force_date: "2026-02-28"
+jci_1_3: "jci1.3:c:BWBR0052366&z=2026-02-28&g=2026-02-28"
+jci_1_0: "1.0:c:BWBR0052366&g=2026-02-28"
+citeertitel_status: "redactioneel"
+signed_date: "2026-02-19"
+entry_into_force: "2026-02-28"
 ---
-
 # Beleidsregel prioriteringsbeleid handhavingsverzoeken IGJ
 
 ### 1. Inleiding

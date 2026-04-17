@@ -1,13 +1,39 @@
 ---
-title: "Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)"
 identifier: "BWBR0037094"
-categorie: "Overig"
-publicatiedatum: 2025-12-13
-laatste_update: 2025-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037094"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-13"
+last_updated: "2025-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037094"
+soort: "ministeriele-regeling"
+stam_id: "13281863"
+version_id: "22733192"
+internal_id: "C32865901"
+label_id: "13250024"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037094/2025-12-13/0"
+intitule_bron: "Stcrt.2015-30873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-18"
+intitule_published: "2015-10-16"
+intitule_in_force: "2015-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-30873"
+original_signed_date: "2015-09-18"
+original_published_date: "2015-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-30873"
+entry_into_force_date: "2015-12-01"
+jci_1_3: "jci1.3:c:BWBR0037094&z=2025-12-13&g=2025-12-13"
+jci_1_0: "1.0:c:BWBR0037094&g=2025-12-13"
+citeertitel_status: "officieel"
+short_title: "Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen"
+signed_date: "2015-09-18"
+entry_into_force: "2015-12-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 18 september 2015, nr. IENM/BSK-2015/183974, houdende vaststelling van nieuwe regels voor bepaalde gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen ter uitvoering van Verordening (EU) nr. 517/2014 van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van Verordening (EG) nr. 842/2006 en ter uitvoering van Verordening (EG) nr. 1005/2009 van 16 september 2009 betreffende ozonlaagafbrekende stoffen (Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen)
 
 Gelet op Verordening (EU) nr. 517/2014 van het Europees Parlement en de Raad van de Europese Unie van 16 april 2014 betreffende gefluoreerde broeikasgassen en tot intrekking van [Verordening (EG) nr. 842/2006](32006R0842) (PbEU L 150), [Verordening (EG) nr. 1005/2009](32009R1005) van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende ozonlaag afbrekende stoffen (herschikking) (PbEU L 286) en de [artikelen 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), [9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9), [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=11), [12, eerste lid, onder g, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=12), en [14, vijfde lid, van het Besluit gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit gefluoreerde broeikasgassen
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Certificering van natuurlijke personen en ondernemingen
 
-#### Artikel 2. Eisen voor het verkrijgen en behouden van een certificaat
+##### Artikel 2. Eisen voor het verkrijgen en behouden van een certificaat
 
 1. De eisen, bedoeld in de [artikelen 6, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=6), en [9, derde lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=9), waaraan een natuurlijk persoon of onderneming moet voldoen voor het verkrijgen en behouden van een certificaat, zijn de eisen, opgenomen in de desbetreffende onderdelen van de BRL 200, onderscheidenlijk de BRL 100.
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een certificaat van een natuurlijk persoon is maximaal zeven jaar geldig.
 
-#### Artikel 3. Gegevens op een certificaat
+##### Artikel 3. Gegevens op een certificaat
 
 Een certificaat vermeldt ten minste:
 
@@ -76,11 +102,11 @@ Een certificaat vermeldt ten minste:
 
 - i. als het certificaat wordt afgegeven aan een onderneming: de werkzaamheden en het bijbehorende deelgebied waarvoor het certificaat wordt afgegeven, als bedoeld in het certificeringsschema, en het certificeringsschema op grond waarvan het certificaat wordt afgegeven.
 
-#### Artikel 4. Verlening van certificaten
+##### Artikel 4. Verlening van certificaten
 
 Een instelling verleent een certificaat aan de natuurlijk persoon of de onderneming die naar het oordeel van de instelling voldoet aan de eisen die zijn opgenomen in de desbetreffende onderdelen van de BRL 200, onderscheidenlijk de BRL 100, voor het verkrijgen van een certificaat.
 
-#### Artikel 5. Schorsing en intrekking van certificaten
+##### Artikel 5. Schorsing en intrekking van certificaten
 
 1. Onverminderd [artikel 14, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=14) schorst een instelling het certificaat van een onderneming of trekt deze in, als:
 
@@ -100,7 +126,7 @@ Een instelling verleent een certificaat aan de natuurlijk persoon of de ondernem
 
 #### § 3. Verplichtingen voor exploitanten
 
-#### Artikel 6. Lekkagedetectie en bewaren van informatie
+##### Artikel 6. Lekkagedetectie en bewaren van informatie
 
 1. De exploitant draagt er zorg voor dat een lekkagedetectiesysteem, waarvan apparatuur is voorzien, ten minste eens per twaalf maanden wordt gecontroleerd op meetnauwkeurigheid en juiste werking van het alarm.
 
@@ -112,19 +138,19 @@ Een instelling verleent een certificaat aan de natuurlijk persoon of de ondernem
 
 #### § 4. Erkenning van instellingen
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 De aanvraag voor verlening van een erkenning van een instelling of wijziging daarvan wordt ingediend door middel van het daarvoor bestemde formulier dat verkrijgbaar is vanaf de website van Rijkswaterstaat.
 
 #### § 5. Eisen aan en verplichtingen voor instellingen
 
-#### Artikel 8. Onafhankelijkheid en onpartijdigheid
+##### Artikel 8. Onafhankelijkheid en onpartijdigheid
 
 1. Een instelling is onpartijdig en onafhankelijk ten opzichte van de natuurlijk persoon en de onderneming die zij beoordeelt op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13).
 
 2. Een instelling die natuurlijke personen certificeert, is onafhankelijk ten opzichte van de organisatie die de natuurlijk persoon heeft opgeleid als voorbereiding op het examen dat wordt afgelegd ter verkrijging van een certificaat.
 
-#### Artikel 9. Verplichtingen
+##### Artikel 9. Verplichtingen
 
 1. Een instelling die natuurlijke personen certificeert:
 
@@ -154,7 +180,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 4. In afwijking van het tweede lid, onder a, kan een instelling voor een ander certificeringsschema dan de BRL 100 zijn geaccrediteerd, mits door de minister is geoordeeld dat het andere certificeringsschema gelijkwaardig is aan de BRL 100.
 
-#### Artikel 10. Eisen aan het personeel van de instelling
+##### Artikel 10. Eisen aan het personeel van de instelling
 
 1. Een instelling die natuurlijke personen certificeert, laat alleen beoordelingen op het voldoen aan [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13) uitvoeren door personeel dat:
 
@@ -182,7 +208,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 - f. voldoet aan overige eisen die zijn gesteld in de BRL 100.
 
-#### Artikel 11. Bewaren en opvragen van gegevens
+##### Artikel 11. Bewaren en opvragen van gegevens
 
 1. Een instelling die natuurlijke personen certificeert, bewaart:
 
@@ -206,7 +232,7 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 3. Op verzoek van de minister stelt een instelling de gegevens, bedoeld in het eerste en tweede lid, ter beschikking aan de minister.
 
-#### Artikel 12. Registreren van gecertificeerde natuurlijke personen en ondernemingen
+##### Artikel 12. Registreren van gecertificeerde natuurlijke personen en ondernemingen
 
 1. De beheerder van het register registreert op een voor een ieder toegankelijke website:
 
@@ -220,15 +246,15 @@ De aanvraag voor verlening van een erkenning van een instelling of wijziging daa
 
 #### § 6. Slotbepalingen
 
-#### Artikel 13. Overgangsbepaling
+##### Artikel 13. Overgangsbepaling
 
 Op een bedrijfscertificaat als bedoeld in [artikel 18, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037088&artikel=18) blijft [artikel 21 van de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties](https://wetten.overheid.nl/jci1.3:c:BWBR0026453&artikel=21), onderscheidenlijk [artikel 22 van de Regeling gefluoreerde broeikasgassen brandbeveiligingssytemen](https://wetten.overheid.nl/jci1.3:c:BWBR0026507&artikel=22), zoals deze artikelen luidden onmiddellijk voorafgaande aan inwerkingtreding van deze regeling, van toepassing.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip dat het besluit in werking treedt, met uitzondering van [artikel 9, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=5&artikel=9&z=2025-12-13&g=2025-12-13), dat in werking treedt met ingang van 1 april 2020.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen.
 
@@ -278,11 +304,11 @@ Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
+##### Artikel 13a. Overgangsrecht certificaten natuurlijke personen
 
 In afwijking van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een natuurlijk persoon dat is afgegeven voor 29 september 2024 of op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor natuurlijke personen, versie 1.2, 1 mei 2017, geldig tot het moment dat voor de werkzaamheden waarvoor het certificaat is afgegeven een nieuw examen is afgelegd waaruit blijkt dat aan de eisen, bedoeld in artikel 2, eerste lid, wordt voldaan, en uiterlijk tot 12 maart 2029.
 
-#### Artikel 13b. Overgangsrecht certificaten ondernemingen
+##### Artikel 13b. Overgangsrecht certificaten ondernemingen
 
 In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037094&paragraaf=2&artikel=2&z=2025-12-13&g=2025-12-13), is een certificaat van een onderneming dat is afgegeven op grond van de Beoordelingsrichtlijn voor het certificaat f-gassen voor ondernemingen, versie 2.0, 6 juni 2019, geldig tot drie maanden na de publicatie van de Uitvoeringsregeling F-gassenverordening en OAS-verordening.
 

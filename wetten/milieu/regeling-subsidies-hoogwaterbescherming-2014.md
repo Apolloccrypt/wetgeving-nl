@@ -1,13 +1,39 @@
 ---
-title: "Regeling subsidies hoogwaterbescherming 2014"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 10 maart 2014, nr. IENM/BSK-2014/57174, houdende vaststelling van de Regeling subsidies hoogwaterbescherming 2014"
 identifier: "BWBR0034922"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034922"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034922"
+soort: "ministeriele-regeling"
+stam_id: "12605893"
+version_id: "23685872"
+internal_id: "C34098611"
+label_id: "12576594"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034922/2024-01-01/0"
+intitule_bron: "Stcrt.2014-7049"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-10"
+intitule_published: "2014-03-13"
+intitule_in_force: "2014-03-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-66395"
+original_signed_date: "2016-12-02"
+original_published_date: "2016-12-05"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-66395"
+entry_into_force_date: "2016-12-02"
+jci_1_3: "jci1.3:c:BWBR0034922&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0034922&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidies hoogwaterbescherming 2014"
+signed_date: "2016-12-02"
+entry_into_force: "2016-12-02"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 10 maart 2014, nr. IENM/BSK-2014/57174, houdende vaststelling van de Regeling subsidies hoogwaterbescherming 2014
 
 Gelet op [artikel 7.23, tweede lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.23) en de [artikelen 2, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=2), [3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3), en [4 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Reguliere subsidie
 
-#### Artikel 2. Subsidiabele en niet-subsidiabele kosten verkenningsfase
+##### Artikel 2. Subsidiabele en niet-subsidiabele kosten verkenningsfase
 
 1. Voor een maatregel die in een subsidieprogramma is vermeld als maatregel die zich in de verkenningsfase bevindt, komen in aanmerking voor reguliere subsidie de aan deze fase rechtstreeks toe te rekenen kosten:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - c. kosten die de subsidieontvanger op andere wijze vergoed kan krijgen.
 
-#### Artikel 3. Subsidiabele en niet-subsidiabele kosten planuitwerkingsfase
+##### Artikel 3. Subsidiabele en niet-subsidiabele kosten planuitwerkingsfase
 
 1. Voor een maatregel die in een subsidieprogramma is vermeld als maatregel die zich in de planuitwerkingsfase bevindt, komen in aanmerking voor reguliere subsidie de in deze fase aan een sober en doelmatig ontwerp van de maatregel rechtstreeks toe te rekenen kosten:
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 - b. kosten die de subsidieontvanger op andere wijze vergoed kan krijgen.
 
-#### Artikel 4. Subsidiabele en niet-subsidiabele kosten realisatiefase
+##### Artikel 4. Subsidiabele en niet-subsidiabele kosten realisatiefase
 
 1. Voor een maatregel die in een subsidieprogramma is vermeld als maatregel die zich in de realisatiefase bevindt, komen in aanmerking voor reguliere subsidie de in deze fase aan een sober en doelmatig ontwerp van de maatregel rechtstreeks toe te rekenen kosten:
 
@@ -152,13 +178,13 @@ In deze regeling wordt verstaan onder:
 
 4. In afwijking van het tweede lid, eerste volzin, kan de Minister op verzoek van de subsidieontvanger gedeeltelijk afzien van de verwerking van het aanbestedingsresultaat in de raming van de kosten, indien de subsidieontvanger aannemelijk maakt dat de bieding van de aannemer niet kostendekkend is.
 
-#### Artikel 5. Kostenraming
+##### Artikel 5. Kostenraming
 
 1. De raming van de kosten, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), vindt plaats conform de Standaardsystematiek Kostenramingen 2018, op basis van de meest waarschijnlijke waarde van een deterministische of de gemiddelde waarde van een probabilistische raming.
 
 2. De raming van de kosten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), vindt plaats conform de Standaardsystematiek Kostenramingen 2018 op basis van de meest waarschijnlijke waarde van een deterministische of de gemiddelde waarde van een probabilistische raming, indien het bedrag waarvoor de reguliere subsidie wordt aangevraagd niet meer dan € 40 miljoen bedraagt, en op basis van de gemiddelde waarde van een probabilistische raming, indien het bedrag waarvoor de reguliere subsidie wordt aangevraagd meer dan € 40 miljoen bedraagt.
 
-#### Artikel 6. Aanvraag verlening reguliere subsidie
+##### Artikel 6. Aanvraag verlening reguliere subsidie
 
 1. Per fase wordt door de beheerder een aanvraag tot verlening van een reguliere subsidie ingediend bij de Minister in het kalenderjaar waarin de maatregel is opgenomen in het subsidieprogramma.
 
@@ -236,7 +262,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien een subsidieontvanger indexering wenst van het te subsidiëren bedrag, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), verzoekt hij daarom bij de aanvraag, bedoeld in het derde, vierde of vijfde lid.
 
-#### Artikel 7. Beslissing op aanvraag subsidieverlening
+##### Artikel 7. Beslissing op aanvraag subsidieverlening
 
 1. De beslissing op de aanvraag wordt genomen binnen acht weken na de ontvangst van de aanvraag.
 
@@ -244,7 +270,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien subsidie is verleend voor een voorverkenning, wordt een aanvraag tot verlening van een reguliere subsidie voor een verkenning niet in behandeling genomen zolang niet een aanvraag tot vaststelling van de subsidie voor de voorverkenning is ingediend. De in het eerste lid bedoelde termijn vangt in dat geval aan zodra beide aanvragen zijn ontvangen.
 
-#### Artikel 8. Beschikking tot subsidieverlening
+##### Artikel 8. Beschikking tot subsidieverlening
 
 Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:30) en [4:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:31) bevat de beschikking tot verlening van de reguliere subsidie:
 
@@ -252,7 +278,7 @@ Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. een bepaling dat de beschikking ten behoeve van de fase waarin de gunningsbeslissing van de aanbesteding van het werk plaatsvindt ambtshalve wordt gewijzigd ter verwerking van het aanbestedingsresultaat in de raming van de kosten.
 
-#### Artikel 9. Voorschotverlening
+##### Artikel 9. Voorschotverlening
 
 1. Aan de subsidieontvanger kan gedurende een fase jaarlijks op aanvraag een voorschot worden verleend. Het totaal aan te verlenen voorschotten ten behoeve van de betreffende fase bedraagt ten hoogste honderd procent van het te subsidiëren bedrag.
 
@@ -280,7 +306,7 @@ Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BW
 
 5. Een voorschot wordt binnen zes weken na de voorschotverlening betaald, tenzij bij de voorschotverlening anders is bepaald.
 
-#### Artikel 10. Verplichtingen van de subsidieontvanger
+##### Artikel 10. Verplichtingen van de subsidieontvanger
 
 1. De subsidieontvanger dient per kwartaal een verslag in bij de Minister over de voortgang van de uitvoering van het plan van aanpak van de betreffende fase, bedoeld in [artikel 6, derde, vierde of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01).
 
@@ -290,11 +316,11 @@ Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. De subsidieontvanger informeert de Minister schriftelijk over het aanbestedingsresultaat uiterlijk zes weken na het sluiten van de overeenkomst die het resultaat is van de gunningsbeslissing.
 
-#### Artikel 11. Wijziging subsidieverlening
+##### Artikel 11. Wijziging subsidieverlening
 
 De beschikking tot subsidieverlening wordt gewijzigd indien de geraamde subsidiabele kosten toenemen als gevolg van wijzigingen in wet- of regelgeving of als gevolg van wijziging van de reikwijdte van de maatregel voor zover die wijziging plaatsvindt op initiatief of aanwijzing van de Minister.
 
-#### Artikel 12. Aanvraag tot vaststelling reguliere subsidie
+##### Artikel 12. Aanvraag tot vaststelling reguliere subsidie
 
 1. De subsidieontvanger dient binnen zes maanden na voltooiing van de fase bij de Minister een aanvraag tot subsidievaststelling in.
 
@@ -308,7 +334,7 @@ De beschikking tot subsidieverlening wordt gewijzigd indien de geraamde subsidia
 
 3. Op gemotiveerd verzoek van de subsidieontvanger, ingediend binnen zes maanden na voltooiing van de fase waarop de subsidieverlening betrekking heeft, kan de in het eerste lid bedoelde termijn worden verlengd.
 
-#### Artikel 13. Beschikking tot vaststelling reguliere subsidie
+##### Artikel 13. Beschikking tot vaststelling reguliere subsidie
 
 1. Een beschikking tot vaststelling van de reguliere subsidie vermeldt:
 
@@ -326,13 +352,13 @@ De beschikking tot subsidieverlening wordt gewijzigd indien de geraamde subsidia
 
 2. Indien bij de aanvraag tot subsidievaststelling een verzoek als bedoeld in [artikel 12, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01), is gedaan, wordt de indexering toegepast en is in het bedrag, bedoeld in het eerste lid, onderdeel b, het bedrag van de indexering begrepen en wordt tevens vermeld hoe dat bedrag is berekend.
 
-#### Artikel 14. Hardheidsclausule
+##### Artikel 14. Hardheidsclausule
 
 De Minister kan bij het vaststellen van de subsidie afwijken van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), of 5, tweede lid, voor zover toepassing daarvan, gelet op doel of strekking van deze bepalingen, voor de subsidieontvanger zal leiden tot een onbillijkheid van overwegende aard.
 
 #### § 3. Subsidie voor experiment of demonstratieproject
 
-#### Artikel 15. Subsidie voor experiment of demonstratieproject
+##### Artikel 15. Subsidie voor experiment of demonstratieproject
 
 De Minister kan op aanvraag een subsidie verstrekken aan een beheerder van een primaire waterkering voor het uitvoeren van een experiment of demonstratieproject indien:
 
@@ -350,7 +376,7 @@ De Minister kan op aanvraag een subsidie verstrekken aan een beheerder van een p
 
 - 2°. de subsidiewaarde van het dijktraject is overschreden, als het dijktraject een dijktraject is als bedoeld in [artikel 14b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2a&artikel=14b&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 16. Subsidieplafond en verdelingsregime
+##### Artikel 16. Subsidieplafond en verdelingsregime
 
 1. Het subsidieplafond voor subsidies als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) wordt vastgesteld door middel van de begroting van het deltafonds.
 
@@ -358,11 +384,11 @@ De Minister kan op aanvraag een subsidie verstrekken aan een beheerder van een p
 
 3. Subsidies als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
-#### Artikel 17. Subsidiemaximum
+##### Artikel 17. Subsidiemaximum
 
 Een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) wordt verleend voor honderd procent van de subsidiabele werkelijke kosten.
 
-#### Artikel 18. Subsidiabele en niet-subsidiabele kosten
+##### Artikel 18. Subsidiabele en niet-subsidiabele kosten
 
 1. Voor een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) komen in aanmerking de noodzakelijke, rechtstreeks aan de uitvoering van het experiment of demonstratieproject toe te rekenen kosten:
 
@@ -396,7 +422,7 @@ Een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - f. kosten die de beheerder van een primaire waterkering op andere wijze vergoed kan krijgen.
 
-#### Artikel 19. Aanvraag verlening subsidie
+##### Artikel 19. Aanvraag verlening subsidie
 
 1. Een aanvraag tot verlening van een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) wordt door de beheerder van een primaire waterkering ingediend bij de Minister in het kalenderjaar waarin het experiment of demonstratieproject is opgenomen in het subsidieprogramma.
 
@@ -426,7 +452,7 @@ Een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. het bedrag waarvoor de subsidie wordt aangevraagd.
 
-#### Artikel 20. Subsidieverlening en subsidievaststelling
+##### Artikel 20. Subsidieverlening en subsidievaststelling
 
 Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) zijn de [artikelen 7, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), [8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), onderscheidenlijk de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -448,7 +474,7 @@ Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld i
 
 - 2°. een verklaring verstrekt over de financiële eindverantwoording, afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), waaruit blijkt of het experiment of demonstratieproject is uitgevoerd overeenkomstig de beschikking tot subsidieverlening en waaruit blijkt dat de onder 1° bedoelde kosten zijn gemaakt, overeenkomstig het daartoe door de Minister bekendgemaakte controleprotocol.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De ontvanger van een subsidie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01) dient gedurende de uitvoering van het experiment of demonstratieproject jaarlijks voor 1 juli bij de Minister een verantwoordingsverslag van de uitvoering van het experiment of demonstratieproject in het voorafgaande kalenderjaar in, dat ten minste bevat:
 
@@ -464,7 +490,7 @@ Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld i
 
 #### § 4. Subsidie bij voorfinanciering door de beheerder
 
-#### Artikel 22. Subsidie bij voorfinanciering door de beheerder
+##### Artikel 22. Subsidie bij voorfinanciering door de beheerder
 
 1. De Minister verleent op aanvraag een subsidie aan de beheerder die om een van de redenen, bedoeld in [artikel 7.24, eerste lid, onderdelen a, b of c, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=7.24) een maatregel dient te treffen, indien:
 
@@ -486,7 +512,7 @@ Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld i
 
 5. De [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), [10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=14&z=2024-01-01&g=2024-01-01) zijn van overeenkomstige toepassing, met dien verstande dat de rentekosten van een maatregel die in het hoogwaterbeschermingsprogramma is vermeld als maatregel die wordt voorgefinancierd door de beheerder, niet in aanmerking komen voor subsidie.
 
-#### Artikel 23. Beschikking tot subsidieverlening
+##### Artikel 23. Beschikking tot subsidieverlening
 
 Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:30) en [4:31 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:31) bevat de beschikking tot verlening van een subsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=4&artikel=22&z=2024-01-01&g=2024-01-01):
 
@@ -500,7 +526,7 @@ Naast het bepaalde in de [artikelen 4:30](https://wetten.overheid.nl/jci1.3:c:BW
 
 - e. een bepaling dat de Minister krachtens [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=4&artikel=22&z=2024-01-01&g=2024-01-01), de vordering geheel of gedeeltelijk op een eerder tijdstip kan betalen.
 
-#### Artikel 24. Beschikking tot vaststelling subsidie
+##### Artikel 24. Beschikking tot vaststelling subsidie
 
 Een beschikking tot vaststelling van een subsidie als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=4&artikel=22&z=2024-01-01&g=2024-01-01) vermeldt:
 
@@ -518,35 +544,35 @@ Een beschikking tot vaststelling van een subsidie als bedoeld in [artikel 22](ht
 
 #### § 5. Subsidie voor activiteiten die zijn voltooid voor 1 april 2014
 
-#### Artikel 25. Subsidie bij voor 1 januari 2017 voltooide activiteiten
+##### Artikel 25. Subsidie bij voor 1 januari 2017 voltooide activiteiten
 
 Vervallen
 
-#### Artikel 26. Aanvraag tot vaststelling subsidie
+##### Artikel 26. Aanvraag tot vaststelling subsidie
 
 Vervallen
 
-#### Artikel 27. Beschikking tot vaststelling subsidie
+##### Artikel 27. Beschikking tot vaststelling subsidie
 
 Vervallen
 
 #### § 6. Slotbepalingen
 
-#### Artikel 28. Evaluatie van de regeling
+##### Artikel 28. Evaluatie van de regeling
 
 De subsidieontvanger zorgt voor het aanleveren van de ten behoeve van het verslag, bedoeld in [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24), gevraagde gegevens.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2014.
 
-#### Artikel 30. Citeertitel
+##### Artikel 30. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidies hoogwaterbescherming 2014.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a. Subsidie voor voorverkenning
+##### Artikel 14a. Subsidie voor voorverkenning
 
 1. In afwijking van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), kan de beheerder voor een maatregel die zich in de verkenningsfase bevindt, een aanvraag indienen voor verlening van een reguliere subsidie voor een voorverkenning, indien de voorverkenning in het kalenderjaar waarin de subsidie wordt verstrekt, is opgenomen in het subsidieprogramma.
 
@@ -592,7 +618,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 2a. Subsidie indien de signaleringswaarde van een dijktraject die is vastgesteld in [bijlage II van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=II) gelijk is aan de ondergrens van het dijktraject die is vastgesteld in [bijlage III van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&bijlage=III)
 
-#### Artikel 14b. Subsidie indien de andere parameter voor signalering gelijk is aan omgevingswaarde
+##### Artikel 14b. Subsidie indien de andere parameter voor signalering gelijk is aan omgevingswaarde
 
 1. In de bij deze subsidieregeling behorende bijlage wordt voor elk dijktraject waarvan de andere parameter voor signalering, bedoeld in [artikel 10.8c, eerste lid, van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=10.8c), gelijk is aan de omgevingswaarde, bedoeld in [artikel 2.0c, eerste en tweede lid, van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=2.0c), een subsidiewaarde vastgesteld. De subsidiewaarde wordt uitgedrukt in een overstromingskans per jaar.
 
@@ -608,7 +634,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Subsidie voor experiment of demonstratieproject
 
-#### Artikel 21a. Subsidie voor vooronderzoek
+##### Artikel 21a. Subsidie voor vooronderzoek
 
 1. De Minister kan op aanvraag een subsidie verstrekken aan een beheerder van een primaire waterkering voor een vooronderzoek, indien is voldaan aan de voorwaarden genoemd in [artikel 15, onderdelen a, c, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=15&z=2024-01-01&g=2024-01-01), en het vooronderzoek in het kalenderjaar waarin de subsidie wordt verstrekt, is opgenomen in het subsidieprogramma.
 
@@ -654,7 +680,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - f. het bedrag waarvoor de subsidie wordt aangevraagd.
 
-#### Artikel 21b. Subsidieverlening en subsidievaststelling
+##### Artikel 21b. Subsidieverlening en subsidievaststelling
 
 Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=21a&z=2024-01-01&g=2024-01-01) zijn de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=7&z=2024-01-01&g=2024-01-01), [8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=8&z=2024-01-01&g=2024-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=9&z=2024-01-01&g=2024-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=10&z=2024-01-01&g=2024-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=16&z=2024-01-01&g=2024-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=17&z=2024-01-01&g=2024-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=3&artikel=21&z=2024-01-01&g=2024-01-01) onderscheidenlijk [12](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=12&z=2024-01-01&g=2024-01-01) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=13&z=2024-01-01&g=2024-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -678,7 +704,7 @@ Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld i
 
 #### § 4a. Subsidie voor in [bijlage VI van het Waterbesluit](onbekend) vermelde andere dan primaire waterkeringen
 
-#### Artikel 24a. Subsidie voor andere dan primaire waterkeringen
+##### Artikel 24a. Subsidie voor andere dan primaire waterkeringen
 
 1. De Minister verleent op aanvraag een subsidie voor het treffen van een maatregel aan de beheerder van een segment van een andere dan een primaire waterkering, dat vermeld wordt in [bijlage VI van het Waterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026872&bijlage=VI), indien:
 
@@ -724,7 +750,7 @@ Op de verlening onderscheidenlijk de vaststelling van een subsidie als bedoeld i
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Indexering reguliere subsidies
+##### Artikel 6a. Indexering reguliere subsidies
 
 De indexering, bedoeld in [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034922&paragraaf=2&artikel=6&z=2024-01-01&g=2024-01-01), geschiedt volgens de Index Bruto Overheidsinvesteringen, zoals toegepast door de Minister van Financiën in de Voorjaarsnota, indien toepassing plaatsvindt op de begroting van het Ministerie van Infrastructuur en Waterstaat en wordt berekend tot de datum van de voltooiing van de desbetreffende fase.
 

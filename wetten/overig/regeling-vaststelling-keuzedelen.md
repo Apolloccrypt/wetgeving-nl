@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling keuzedelen"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)"
 identifier: "BWBR0037674"
-categorie: "Overig"
-publicatiedatum: 2026-01-23
-laatste_update: 2026-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037674"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-23"
+last_updated: "2026-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037674"
+soort: "ministeriele-regeling"
+stam_id: "13430073"
+version_id: "31340772"
+internal_id: "C44791751"
+label_id: "13397464"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037674/2026-01-23/0"
+intitule_bron: "Stcrt.2016-10072"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-02-14"
+intitule_published: "2016-02-29"
+intitule_in_force: "2016-02-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1526"
+original_signed_date: "2026-01-12"
+original_published_date: "2026-01-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2026-1526"
+entry_into_force_date: "2026-01-12"
+jci_1_3: "jci1.3:c:BWBR0037674&z=2026-01-23&g=2026-01-23"
+jci_1_0: "1.0:c:BWBR0037674&g=2026-01-23"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling keuzedelen"
+signed_date: "2026-01-12"
+entry_into_force: "2026-01-12"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 14 februari 2016, nr. MBO/845264 houdende vaststelling van keuzedelen welke onderdeel uitmaken van de kwalificatiestructuur van het middelbaar beroepsonderwijs (Regeling vaststelling keuzedelen)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -18,13 +44,13 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder wet: [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
 #### Paragraaf 2. Vaststelling keuzedelen
 
-#### Artikel 2.1. Keuzedelen
+##### Artikel 2.1. Keuzedelen
 
 1. De keuzedelen en de studielast daarvan worden vastgesteld op de wijze bedoeld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2026-01-23&g=2026-01-23), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=3&z=2026-01-23&g=2026-01-23), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=5&z=2026-01-23&g=2026-01-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=7&z=2026-01-23&g=2026-01-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=9&z=2026-01-23&g=2026-01-23), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=11&z=2026-01-23&g=2026-01-23), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=13&z=2026-01-23&g=2026-01-23), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=15&z=2026-01-23&g=2026-01-23), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=17&z=2026-01-23&g=2026-01-23), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=19&z=2026-01-23&g=2026-01-23), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=21&z=2026-01-23&g=2026-01-23), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=23&z=2026-01-23&g=2026-01-23), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=25&z=2026-01-23&g=2026-01-23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=27&z=2026-01-23&g=2026-01-23), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=29&z=2026-01-23&g=2026-01-23), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=31&z=2026-01-23&g=2026-01-23), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=33&z=2026-01-23&g=2026-01-23), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=35&z=2026-01-23&g=2026-01-23) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=37&z=2026-01-23&g=2026-01-23) behorende bij deze regeling.
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder wet: [Wet educatie en beroepsonderwijs](ht
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 3.1. Inwerkingtreding
+##### Artikel 3.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst en is voor het eerst van toepassing op studenten die een opleiding volgen op basis van een kwalificatiedossier dat is vastgesteld na 1 februari 2016.
 
-#### Artikel 3.2. Citeertitel
+##### Artikel 3.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling keuzedelen.
 
@@ -230,11 +256,11 @@ Gepubliceerd op www.s-bb.nl/keuzedelen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=1&z=2020-07-17&g=2020-07-17) worden gepubliceerd op de website www.s-bb.nl/keuzedelen.
 
-#### Artikel 2.2. Vaststelling keuzedelen vanaf 1 augustus 2020
+##### Artikel 2.2. Vaststelling keuzedelen vanaf 1 augustus 2020
 
 Keuzedelen die op of na 1 augustus 2020 worden vastgesteld of gewijzigd, worden opgenomen in [bijlage 40](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=40&z=2026-01-23&g=2026-01-23) bij deze Regeling.
 
-#### Artikel 2.3. Vervallen keuzedelen vanaf 1 augustus 2020
+##### Artikel 2.3. Vervallen keuzedelen vanaf 1 augustus 2020
 
 Keuzedelen die op of na 1 augustus 2020 vervallen, worden opgenomen in [bijlage 41](https://wetten.overheid.nl/jci1.3:c:BWBR0037674&bijlage=41&z=2026-01-23&g=2026-01-23) bij deze Regeling.
 

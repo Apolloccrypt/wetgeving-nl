@@ -1,13 +1,39 @@
 ---
-title: "Besluit middelenonderzoek bij geweldplegers"
+title: "Besluit van 18 november 2016, houdende regels over de uitvoering van de onderzoeken die ter vaststelling van het gebruik van geweldbevorderende middelen bij geweldplegers kunnen worden ingezet, alsmede de aanwijzing van de geweldsmisdrijven waarvoor die onderzoeken kunnen worden ingezet en de aanwijzing van andere middelen dan alcohol die gewelddadig gedrag kunnen bevorderen en de grenswaarden voor die middelen en alcohol (Besluit middelenonderzoek bij geweldplegers)"
 identifier: "BWBR0038778"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038778"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038778"
+soort: "AMvB"
+stam_id: "13804923"
+version_id: "23681362"
+internal_id: "C34092401"
+label_id: "13771344"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038778/2024-07-01/0"
+intitule_bron: "Stb.2016-450"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-18"
+intitule_published: "2016-11-30"
+intitule_in_force: "2016-11-30"
+intitule_status: "goed"
+original_publication: "Stb.2016-450"
+original_signed_date: "2016-11-18"
+original_published_date: "2016-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-450"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038778&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0038778&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit middelenonderzoek bij geweldplegers"
+signed_date: "2016-11-18"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van 18 november 2016, houdende regels over de uitvoering van de onderzoeken die ter vaststelling van het gebruik van geweldbevorderende middelen bij geweldplegers kunnen worden ingezet, alsmede de aanwijzing van de geweldsmisdrijven waarvoor die onderzoeken kunnen worden ingezet en de aanwijzing van andere middelen dan alcohol die gewelddadig gedrag kunnen bevorderen en de grenswaarden voor die middelen en alcohol (Besluit middelenonderzoek bij geweldplegers)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 1 maart 2016, nr. 738868, directie Wetgeving en Juridische Zaken;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wetboek van Strafvorde
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -36,17 +62,17 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanwijzing van de geweldsmisdrijven waarvoor een onderzoek naar het gebruik van alcohol of andere middelen die tot gewelddadig gedrag kunnen leiden, kan worden ingezet
 
-#### Artikel 2
+##### Artikel 2
 
 Geweldsmisdrijven waarvoor een onderzoek naar het gebruik van alcohol of een middel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=3&artikel=3&z=2024-07-01&g=2024-07-01) kan worden ingezet, zijn de misdrijven als omschreven in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=92), [95](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=95), [95a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=95a), [108 tot en met 110](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=108), [115 tot en met 117](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=115), [121](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=121), [121a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=121a), [123 tot en met 124a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=123), [131](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [141](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), [151f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=151f), [157](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=157), [161](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161), [161bis, onder 2° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=161bis), [162](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162), [162a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=162a), [164](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=164), [166](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=166), [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=168), [170](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=170), [179](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), [180](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=180), [241](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [243](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=243), [245 tot en met 250](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=241), [282](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282), [282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=282a), [285](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285), [285a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285a), [285b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=285b), [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=287), [288](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=288), [289](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=289), [290](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=290), [291](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=291), [300 tot en met 303](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=300), [307, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=307), [312](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=312), [317](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=317), [350](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=350), [352](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=352), [385a](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385a), [385b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385b) en [385d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=385d).
 
 #### § 3. Aanwijzing van de andere middelen dan alcohol die tot gewelddadig gedrag kunnen leiden en van de grenswaarden voor die middelen en alcohol
 
-#### Artikel 3
+##### Artikel 3
 
 Als middelen als bedoeld in [artikel 55d, vierde lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d) die tot gewelddadig gedrag kunnen leiden, worden aangewezen: amfetamine, cocaïne en methamfetamine.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De grenswaarde voor alcohol is een alcoholpromillage van 350 microgram ethanol per liter uitgeademde lucht of van 0,8 milligram ethanol per milliliter bloed.
 
@@ -56,7 +82,7 @@ Als middelen als bedoeld in [artikel 55d, vierde lid, van het Wetboek van Strafv
 
 #### § 4.1. Voorlopig ademonderzoek
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een voorlopig ademonderzoek als bedoeld in [artikel 55d, eerste lid, onder a, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d) geschiedt door de verdachte in een voor het onderzoek bestemde ademtester die bij ministeriële regeling is aangewezen, ademlucht te laten blazen en het resultaat daarvan af te lezen.
 
@@ -64,13 +90,13 @@ Als middelen als bedoeld in [artikel 55d, vierde lid, van het Wetboek van Strafv
 
 3. Indien het voorlopig ademonderzoek niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 6
+##### Artikel 6
 
 De opsporingsambtenaar vermeldt het resultaat van het voorlopig ademonderzoek in het proces-verbaal en deelt dat resultaat direct aan de verdachte mede.
 
 #### § 4.2. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een onderzoek van de psychomotorische functies en de oog- en spraakfuncties als bedoeld in [artikel 55d, eerste lid, onder a en b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d) is gericht op het vaststellen van de bij ministeriële regeling aangewezen uiterlijke kenmerken.
 
@@ -78,13 +104,13 @@ De opsporingsambtenaar vermeldt het resultaat van het voorlopig ademonderzoek in
 
 3. Indien het onderzoek van de psychomotorische functies en de oog- en spraakfuncties niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 8
+##### Artikel 8
 
 De opsporingsambtenaar vermeldt het resultaat van het onderzoek van de psychomotorische functies en de oog- en spraakfuncties in het proces-verbaal en deelt dat resultaat direct aan de verdachte mede.
 
 #### § 4.3. Onderzoek van speeksel
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een onderzoek van speeksel als bedoeld in [artikel 55d, eerste lid, onder b, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55d) geschiedt door met een voor het onderzoek bestemde speekseltester die bij ministeriële regeling is aangewezen, in de mondholte van de verdachte speeksel af te nemen en het resultaat daarvan af te lezen of door een bij de speekseltester behorend apparaat uit te lezen.
 
@@ -92,7 +118,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van de psychomot
 
 3. Indien het onderzoek van speeksel niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 10
+##### Artikel 10
 
 De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in het proces-verbaal en deelt dat resultaat direct aan de verdachte mede.
 
@@ -100,7 +126,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 #### § 5.1. Nader ademonderzoek
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een nader ademonderzoek als bedoeld in [artikel 55e, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=55e) geschiedt door de verdachte, zo nodig viermaal, ademlucht in een voor het onderzoek bestemd ademanalyseapparaat dat bij ministeriële regeling is aangewezen, te laten blazen en het resultaat daarvan af te lezen. Het blazen kan worden beëindigd, zodra het onderzoek twee meetresultaten heeft opgeleverd.
 
@@ -112,7 +138,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 5. Indien het nader ademonderzoek niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste, tweede en vierde lid eenmaal opnieuw verrichten.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De opsporingsambtenaar vermeldt het resultaat van het nader ademonderzoek in het proces-verbaal.
 
@@ -126,7 +152,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 #### § 5.2. Bloedonderzoek
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ten behoeve van het bloedonderzoek neemt een arts of verpleegkundige door middel van een venapunctie twee buisjes bloed van de verdachte af of, indien een venapunctie vanuit medisch oogpunt niet verantwoord is, door middel van een infuus. In afwijking van de eerste volzin mag de arts of verpleegkundige ook een buisje bloed van de verdachte afnemen indien het vanuit medisch oogpunt niet verantwoord is twee buisjes bloed van hem af te nemen. De hoeveelheid bloed dat ieder buisje dient te bevatten, wordt bij ministeriële regeling vastgesteld.
 
@@ -136,7 +162,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 4. De arts of verpleegkundige ontvangt voor de bloedafname een vergoeding van de organisatie waarbij de opsporingsambtenaar werkzaam is en die voor de bloedafname zorgdraagt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij de bloedafname, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=13&z=2024-07-01&g=2024-07-01), is een opsporingsambtenaar aanwezig, die:
 
@@ -152,7 +178,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 3. Bij ministeriële regeling worden regels gesteld over de omstandigheden waaronder de buisjes of het buisje met bloed worden bewaard en vervoerd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De officier van justitie of de hulpofficier van justitie die de verdachte het bevel tot medewerking aan het bloedonderzoek heeft gegeven, formuleert de opdracht van de onderzoeker die het bloedonderzoek verricht.
 
@@ -166,7 +192,7 @@ De opsporingsambtenaar vermeldt het resultaat van het onderzoek van speeksel in 
 
 4. Indien de accreditatie van een laboratorium, bedoeld in het tweede lid, is ingetrokken of geschorst of na haar vervaldatum niet is verlengd, kan in dat laboratorium geen bloedonderzoek meer worden verricht.
 
-#### Artikel 16
+##### Artikel 16
 
 Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=15&z=2024-07-01&g=2024-07-01), is verbonden, legt na ontvangst van de buisjes of het buisje met bloed de volgende gegevens in een bestand vast:
 
@@ -178,7 +204,7 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 15, eerste lid](htt
 
 - d. de naam van de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De onderzoeker, bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=15&z=2024-07-01&g=2024-07-01), verricht het bloedonderzoek binnen vier weken na ontvangst van de buisjes of het buisje met bloed. De methode die hij voor het bloedonderzoek hanteert, voldoet aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -198,11 +224,11 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 15, eerste lid](htt
 
 5. De onderzoeker stuurt het verslag binnen de termijn, bedoeld in het eerste lid, aan de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 18
+##### Artikel 18
 
 De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het verslag, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=17&z=2024-07-01&g=2024-07-01), schriftelijk in kennis van het resultaat van het bloedonderzoek en van het recht op tegenonderzoek en vermeldt daarbij het sporenidentificatienummer, bedoeld in artikel 17, vierde lid, onder b.
 
-#### Artikel 19
+##### Artikel 19
 
 1. In geval van een tegenonderzoek stelt het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht.
 
@@ -214,7 +240,7 @@ De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het v
 
 5. De verdachte ontvangt het bedrag, bedoeld in het derde lid, uit ’s Rijks kas terug indien het resultaat van het tegenonderzoek het vermoeden niet bevestigt dat het alcoholgehalte of het gehalte van een middel als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=3&artikel=3&z=2024-07-01&g=2024-07-01) in het bloed van de verdachte hoger is dan de grenswaarde, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=3&artikel=4&z=2024-07-01&g=2024-07-01).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het laboratorium waaraan de onderzoeker is verbonden dat het bloedonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert, een half jaar na de datum van dagtekening van het verslag, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=17&z=2024-07-01&g=2024-07-01). Is het recht op tegenonderzoek vervallen, dan vernietigt het laboratorium dat het tegenonderzoek zou verrichten het bloed een half jaar na de ontvangst.
 
@@ -224,17 +250,17 @@ De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het v
 
 4. Het laboratorium, bedoeld in het eerste lid, houdt aantekening van iedere vernietiging op grond van het eerste tot en met derde lid.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien een ander laboratorium dan het laboratorium van het Nederlands Forensisch Instituut voornemens is zijn werkzaamheden op het terrein van het bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed, de afschriften van de verslagen, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=17&z=2024-07-01&g=2024-07-01), die bij dat laboratorium worden bewaard, en de daarbij behorende gegevens, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=16&z=2024-07-01&g=2024-07-01), voor de beëindiging van die werkzaamheden aan dat instituut worden overgedragen, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038778&paragraaf=5&sub-paragraaf=5.2&artikel=15&z=2024-07-01&g=2024-07-01). In het laatste geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens in dat andere laboratorium bewaard.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit treedt in werking op het tijdstip waarop de wet van 28 september 2016 tot wijziging van het Wetboek van Strafvordering in verband met de introductie van de bevoegdheid tot het bevelen van een middelenonderzoek bij geweldplegers en enige daarmee samenhangende wijzigingen van de Wegenverkeerswet 1994 (Stb. 2016, 353) in werking treedt.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit besluit wordt aangehaald als: Besluit middelenonderzoek bij geweldplegers.
 

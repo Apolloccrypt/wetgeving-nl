@@ -1,20 +1,46 @@
 ---
-title: "Regeling categorieën persoonsgegevens WMG"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. MC-U-2898120, houdende aanwijzing categorieën van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorieën persoonsgegevens WMG)"
 identifier: "BWBR0024926"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024926"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024926"
+soort: "ministeriele-regeling"
+stam_id: "9814973"
+version_id: "15949412"
+internal_id: "C21856841"
+label_id: "9791614"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024926/2026-01-01/0"
+intitule_bron: "Stcrt.2008-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-08"
+intitule_published: "2008-12-19"
+intitule_in_force: "2008-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-247"
+original_signed_date: "2008-12-08"
+original_published_date: "2008-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2213"
+entry_into_force_date: "2008-12-21"
+jci_1_3: "jci1.3:c:BWBR0024926&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0024926&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling categorieën persoonsgegevens WMG"
+signed_date: "2008-12-08"
+entry_into_force: "2008-12-21"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. MC-U-2898120, houdende aanwijzing categorieën van persoonsgegevens voor de uitvoering door de zorgautoriteit van de WMG (Regeling categorieën persoonsgegevens WMG)
 
 Gelet op [artikel 65 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=65);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ Besluit:
 
 8. In de regeling wordt in [artikel 5, onderdelen 1, 3a, 5, 6 en 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024926&artikel=5&z=2026-01-01&g=2026-01-01), onder ziektekostenverzekeraar tevens verstaan het CAK.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=3) en [4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
@@ -94,7 +120,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 3](https
 
 - 13. [artikelen 57](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) en [58](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58): persoonsgegevens behorend tot de categorie identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [paragraaf 5.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&paragraaf=5.1) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
@@ -106,7 +132,7 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [paragraaf 5.1 van 
 
 - 4. [artikelen 63](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=63), [66 tot en met 69](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=66): persoonsgegevens behorend tot de categorieën identificerende- en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten.
 
-#### Artikel 4
+##### Artikel 4
 
 De zorgautoriteit verstrekt aan de in [artikel 70 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=70) genoemde instanties persoonsgegevens indien en voor zover verwerking van die gegevens voor de uitoefening van hun taken en bevoegdheden noodzakelijk is en voor zover die gegevens behoren tot de hieronder bij die instanties vermelde categorieën van persoonsgegevens:
 
@@ -130,7 +156,7 @@ De zorgautoriteit verstrekt aan de in [artikel 70 van de wet](https://wetten.ove
 
 - 10. het Centraal Bureau voor de Statistiek: persoonsgegevens behorend tot de categorieën identificerende en strafrechtelijke persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars en persoonsgegevens behorend tot de categorieën identificerende, medische en strafrechtelijke persoonsgegevens van consumenten.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=6) worden persoonsgegevens verwerkt indien en voor zover zij naar het oordeel van de zorgautoriteit voor die uitvoering noodzakelijk zijn en voor zover zij behoren tot de hieronder bij die artikelen vermelde categorieën van persoonsgegevens:
 
@@ -162,10 +188,10 @@ Voor de uitvoering van de hieronder aangegeven artikelen uit [hoofdstuk 6 van de
 
 - 13. [artikel 104](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=104): persoonsgegevens behorend tot de categorie identificerende persoonsgegevens betreffende zorgaanbieders en bestuurders of medewerkers van zorgaanbieders en van ziektekostenverzekeraars.
 
-#### Artikel 6. inwerkingtreding
+##### Artikel 6. inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 november 2008.
 
-#### Artikel 7. citeertitel
+##### Artikel 7. citeertitel
 
 Deze regeling wordt aangehaald als Regeling categorieën persoonsgegevens WMG.

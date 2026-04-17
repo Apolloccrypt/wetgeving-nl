@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen de Lid-Staten van de Europese Gemeenschap inzake de tenuitvoerlegging van buitenlandse strafvonnissen"
 identifier: "BWBV0003140"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-12-09
-laatste_update: 1997-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003140"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-12-09"
+last_updated: "1997-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003140"
+soort: "verdrag"
+stam_id: "10003354873"
+version_id: "10003390732"
+internal_id: "C10008430031"
+label_id: "10003340624"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003140/1997-12-09/0"
+intitule_bron: "Trb.1992-39"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1992-03-19"
+intitule_status: "nogniet"
+original_publication: "Trb.1992-39"
+original_published_date: "1992-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-39"
+jci_1_3: "jci1.3:c:BWBV0003140&z=1997-12-09&g=1997-12-09"
+jci_1_0: "1.0:c:BWBV0003140&g=1997-12-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "1992-03-19"
 ---
-
 # Verdrag tussen de Lid-Staten van de Europese Gemeenschap inzake de tenuitvoerlegging van buitenlandse strafvonnissen
 
 De Lid-Staten,
@@ -28,7 +47,7 @@ Voor voorlopige toepassing zie ook Trb. 2009/38.
 
 In de verhouding tussen het Koninkrijk der Nederlanden (Nederland) en Duitsland.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. Ten behoeve van dit Verdrag betekent:
 
@@ -42,13 +61,13 @@ In de verhouding tussen het Koninkrijk der Nederlanden (Nederland) en Duitsland.
 
 2. Bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, kan elke Lid-Staat in een verklaring de strafbare feiten aangeven die hij van de toepassing van dit Verdrag beoogt uit te sluiten. De andere Lid-Staten kunnen de regel van wederkerigheid toepassen.
 
-#### Artikel 2. Algemene beginselen
+##### Artikel 2. Algemene beginselen
 
 1. Lid-Staten verbinden zich ertoe elkaar in zo ruim mogelijke mate samenwerking te verlenen met betrekking tot de overdracht van de tenuitvoerlegging van veroordelingen in overeenstemming met de bepalingen van dit Verdrag.
 
 2. De overdracht van de tenuitvoerlegging kan worden verzocht door hetzij de Staat van veroordeling, hetzij de Staat van tenuitvoerlegging.
 
-#### Artikel 3. Tenuitvoerlegging van een veroordeling waarbij een vrijheidsstraf is opgelegd
+##### Artikel 3. Tenuitvoerlegging van een veroordeling waarbij een vrijheidsstraf is opgelegd
 
 De overdracht van de tenuitvoerlegging van een veroordeling waarbij een vrijheidsstraf is opgelegd, kan worden verzocht indien:
 
@@ -58,7 +77,7 @@ De overdracht van de tenuitvoerlegging van een veroordeling waarbij een vrijheid
 
 - c. veroordeelde zich bevindt op het grondgebied van de Staat van tenuitvoerlegging en daar een vrijheidsstraf ondergaat of moet ondergaan.
 
-#### Artikel 4. Tenuitvoerlegging van een veroordeling waarbij een geldelijke straf of sanctie is opgelegd
+##### Artikel 4. Tenuitvoerlegging van een veroordeling waarbij een geldelijke straf of sanctie is opgelegd
 
 De overdracht van de tenuitvoerlegging van een veroordeling waarbij een geldelijke straf of sanctie is opgelegd, kan worden verzocht indien:
 
@@ -66,7 +85,7 @@ De overdracht van de tenuitvoerlegging van een veroordeling waarbij een geldelij
 
 - b. de veroordeelde een rechtspersoon is wiens zetel op het grondgebied van de Staat van tenuitvoerlegging is gevestigd of die op dat grondgebied goederen tot verhaal of vermogen bezit.
 
-#### Artikel 5. Voorwaarden voor de overdracht van de tenuitvoerlegging
+##### Artikel 5. Voorwaarden voor de overdracht van de tenuitvoerlegging
 
 De overdracht van de tenuitvoerlegging van een veroordeling behoeft de overeenstemming tussen de Staat van veroordeling en de Staat van tenuitvoerlegging. De overdracht van de tenuitvoerlegging van een veroordeling is aan de volgende voorwaarden onderworpen:
 
@@ -80,7 +99,7 @@ De overdracht van de tenuitvoerlegging van een veroordeling behoeft de overeenst
 
 - e. zo terzake van dezelfde feiten tegen de veroordeelde in een derde Staat een onherroepelijke rechterlijke beslissing is gewezen, mag de overdracht van de tenuitvoerlegging niet in strijd met het beginsel „ne bis in idem” zijn.
 
-#### Artikel 6. Wijzen van overdracht
+##### Artikel 6. Wijzen van overdracht
 
 1. De verzoeken om overdracht worden schriftelijk gedaan en dienen door het Ministerie van Justitie van de verzoekende Staat aan het Ministerie van Justitie van de aangezochte Staat te worden gericht.
 
@@ -94,7 +113,7 @@ De overdracht van de tenuitvoerlegging van een veroordeling behoeft de overeenst
 
 6. De in de voorgaande leden genoemde wijzen van toezending sluiten de diplomatieke weg niet uit.
 
-#### Artikel 7. Documentatie
+##### Artikel 7. Documentatie
 
 1. Indien de tenuitvoerlegging wordt verzocht door de Staat van veroordeling, dient het verzoek vergezeld te gaan van:
 
@@ -110,7 +129,7 @@ De overdracht van de tenuitvoerlegging van een veroordeling behoeft de overeenst
 
 4. Indien de aangezochte Staat van oordeel is dat de door de verzoekende Staat verstrekte inlichtingen onvoldoende zijn om hem in staat te stellen aan dit Verdrag toepassing te geven, verzoekt deze om de noodzakelijke aanvullende inlichtingen.
 
-#### Artikel 8. Bepaling van de vrijheidsstraf
+##### Artikel 8. Bepaling van de vrijheidsstraf
 
 1. Indien de overdracht van de tenuitvoerlegging van een veroordeling tot een vrijheidsstraf is aanvaard, dienen de bevoegde autoriteiten van de Staat van tenuitvoerlegging:
 
@@ -136,13 +155,13 @@ De overdracht van de tenuitvoerlegging van een veroordeling behoeft de overeenst
 
 De andere Lid-Staten kunnen de regel van wederkerigheid toepassen.
 
-#### Artikel 9. Bepalingen van de geleidelijke straf of sanctie
+##### Artikel 9. Bepalingen van de geleidelijke straf of sanctie
 
 1. Indien de overdracht van de tenuitvoerlegging van een veroordeling tot een geldelijke straf of sanctie is aanvaard, dienen de bevoegde autoriteiten van de Staat van tenuitvoerlegging, eventueel krachtens een rechterlijke of administratieve beschikking, het bedrag van de straf of sanctie uit te drukken in de valuta van die Staat met toepassing van de op het ogenblik waarop de beslissing wordt genomen geldende wisselkoers. In het geval waarin in de Staat van tenuitvoerlegging voor hetzelfde feit een straf of sanctie van een andere, zwaardere aard is voorzien, handhaven de bevoegde autoriteiten van die Staat; het bedrag van de geldelijke straf of sanctie die in de Staat van veroordeling is uitgesproken.
 
 2. Krachtens bilaterale afspraken kan de Staat van tenuitvoerlegging, die niet in staat is om aan het verzoek om. tenuitvoerlegging gevolg te geven omdat het betrekking heeft op een rechtspersoon, zich bereid verklaren om met toepassing van zijn bepalingen van burgerlijk procesrecht inzake de tenuitvoerlegging, over te gaan tot invordering en verhaal van het bedrag van de geldelijke straf of sanctie uitgesproken in de Staat van veroordeling.
 
-#### Artikel 10. Voorlopige maatregelen
+##### Artikel 10. Voorlopige maatregelen
 
 Zodra de Staat van veroordeling de overdracht van de tenuitvoerlegging van een veroordeling tot een vrijheidsstraf heeft gevraagd of aanvaard, kan de Staat van tenuitvoerlegging de veroordeelde aanhouden of andere voorlopige maatregelen nemen, indien:
 
@@ -150,31 +169,31 @@ Zodra de Staat van veroordeling de overdracht van de tenuitvoerlegging van een v
 
 - b. er redenen bestaan te vrezen dat de veroordeelde zal ontvluchten.
 
-#### Artikel 11. De op de tenuitvoerlegging toepasselijke wet
+##### Artikel 11. De op de tenuitvoerlegging toepasselijke wet
 
 1. De tenuitvoerlegging van de veroordeling na de overdracht wordt beheerst door de wet van de Staat van tenuitvoerlegging en deze Staat is bij uitsluiting bevoegd de procedures betreffende de tenuitvoerlegging en alle daarop betrekking hebbende maatregelen te bepalen.
 
 2. Delen van de straf of sanctie die op enigerlei wijze reeds in de Staat van veroordeling zijn tenuitvoergelegd worden ten behoeve van de tenuitvoerlegging in de Staat van tenuitvoerlegging in mindering gebracht.
 
-#### Artikel 12. Vervangende hechtenis
+##### Artikel 12. Vervangende hechtenis
 
 Indien een geldelijke straf of sanctie geheel of gedeeltelijk niet kan worden tenuitvoergelegd, kan een vervangende vrijheidssanctie worden toegepast door de bevoegde autoriteiten van de Staat van tenuitvoerlegging indien de wetten van beide Staten daarin voor dergelijke gevallen voorzien, tenzij de Staat van veroordeling zulks uitdrukkelijk heeft uitgesloten.
 
-#### Artikel 13. Amnestie, gratie, strafvermindering, herziening
+##### Artikel 13. Amnestie, gratie, strafvermindering, herziening
 
 1. Elk van beide betrokken Lid-Staten kan amnestie, gratie of vermindering van de straf of sanctie verlenen.
 
 2. Slechts de Staat van veroordeling heeft het recht te beslissen op een verzoek tot herziening van de rechterlijke beslissing.
 
-#### Artikel 14. Beëindiging van de tenuitvoerlegging
+##### Artikel 14. Beëindiging van de tenuitvoerlegging
 
 De Staat van tenuitvoerlegging dient de tenuitvoerlegging van de veroordeling te beëindigen, zodra hij door de Staat van veroordeling in kennis is gesteld van enige beslissing of maatregel ten gevolge waarvan de veroordeling niet meer voor tenuitvoerlegging vatbaar is.
 
-#### Artikel 15. Bestemming van de gelden afkomstig van de tenuitvoerlegging van geldelijke straffen en sancties
+##### Artikel 15. Bestemming van de gelden afkomstig van de tenuitvoerlegging van geldelijke straffen en sancties
 
 De gelden verkregen uit de tenuitvoerlegging van geldelijke straffen en sancties vallen toe aan de Staat van tenuitvoerlegging, tenzij anders overeengekomen tussen die Staat en de Staat van veroordeling.
 
-#### Artikel 16. Inlichtingen
+##### Artikel 16. Inlichtingen
 
 De Staat van tenuitvoerlegging geeft bericht aan de Staat van veroordeling:
 
@@ -184,25 +203,25 @@ De Staat van tenuitvoerlegging geeft bericht aan de Staat van veroordeling:
 
 - c. terzake van de geheel of gedeeltelijk niet geïnde geldelijke straf of sanctie.
 
-#### Artikel 17. Gevolgen van de overdracht voor de Staat van veroordeling
+##### Artikel 17. Gevolgen van de overdracht voor de Staat van veroordeling
 
 1. De Staat van veroordeling mag niet verder gaan met de tenuitvoerlegging van de veroordeling zodra hij met de Staat van tenuitvoerlegging tot overeenstemming is gekomen over de overdracht van de tenuitvoerlegging. Indien de veroordeelde evenwel ontvlucht, komt het recht tot tenuitvoerlegging weer aan de Staat van veroordeling toe, tenzij anders is overeengekomen tussen die Staat en de Staat van tenuitvoerlegging.
 
 2. In geval van de overdracht van de tenuitvoerlegging van een veroordeling tot een geldelijke straf of sanctie komt het recht tot tenuitvoerlegging van de veroordeling, ook ten behoeve van de omzetting van de geldelijke straf of sanctie in een vrijheidsbenemende sanctie, weer aan de Staat van veroordeling toe, zodra deze van de Staat van tenuitvoerlegging bericht ontvangt dat de geldelijke straf geheel of gedeeltelijk niet is tenuitvoergelegd en dat hij niet in staat is een vervangende sanctie als bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0003140&artikel=12&z=1997-12-09&g=1997-12-09) toe te passen.
 
-#### Artikel 18. Taal
+##### Artikel 18. Taal
 
 De over te leggen stukken worden opgesteld in de officiële taal of één der officiële talen van de Staat van veroordeling. Elke Lid-Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring zich het recht voorbehouden te verlangen dat de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003140&artikel=7&z=1997-12-09&g=1997-12-09) genoemde relevante stukken worden vertaald in zijn officiële taal of in één van zijn officiële talen. De andere Lid-Staten kunnen de regel van wederkerigheid toepassen.
 
-#### Artikel 19. Kosten
+##### Artikel 19. Kosten
 
 De Lid-Staten zien over en weer af van de terugvordering van kosten die voortvloeien uit de toepassing van dit Verdrag.
 
-#### Artikel 20. Verhouding tot het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970
+##### Artikel 20. Verhouding tot het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970
 
 In de verhoudingen tussen Lid-Staten die Partij zijn bij het [Europees Verdrag inzake de internationale geldigheid van strafvonnissen](https://wetten.overheid.nl/jci1.3:c:BWBV0001038), gesloten te 's-Gravenhage op 28 mei 1970, is het onderhavige Verdrag slechts van toepassing voor zover dit de bepalingen van dat Verdrag aanvult of de toepassing van de daarin vervatte beginselen vergemakkelijkt.
 
-#### Artikel 21. Ondertekening en inwerkingtreding
+##### Artikel 21. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de Lid-Staten. Het is onderworpen aan bekrachtiging, aanvaarding of goedkeuring. Akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
 
@@ -214,7 +233,7 @@ In de verhoudingen tussen Lid-Staten die Partij zijn bij het [Europees Verdrag i
 
 5. Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden stelt alle Lid-Staten van iedere ondertekening, nederlegging van akten of verklaringen schriftelijk in kennis.
 
-#### Artikel 22. Toetreding
+##### Artikel 22. Toetreding
 
 Dit Verdrag staat open voor toetreding door elke Staat die lid wordt van de Europese Gemeenschappen. De akten van toetreding worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden. Dit Verdrag treedt in werking ten opzichte van elke toetredende Staat negentig dagen na de datum van nederlegging van zijn akte van toetreding. In geval dit Verdrag nog niet in werking is getreden op het tijdstip van nederlegging van de akte van toetreding, zijn de bepalingen van [artikel 21, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003140&artikel=21&z=1997-12-09&g=1997-12-09), van toepassing op toetredende Lid-Staten; dit Verdrag treedt te hunnen aanzien in werking op het tijdstip van inwerkingtreding voorzien in [lid 2 van artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0003140&artikel=21&z=1997-12-09&g=1997-12-09).
 

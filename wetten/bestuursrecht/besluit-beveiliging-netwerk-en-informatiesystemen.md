@@ -1,13 +1,39 @@
 ---
-title: "Besluit beveiliging netwerk- en informatiesystemen"
+title: "Besluit van 30 oktober 2018, houdende regels ter uitvoering van de Wet beveiliging netwerk- en informatiesystemen (Besluit beveiliging netwerk- en informatiesystemen)"
 identifier: "BWBR0041520"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041520"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041520"
+soort: "AMvB"
+stam_id: "14850563"
+version_id: "27656752"
+internal_id: "C39017921"
+label_id: "14802164"
+dtd_version: "2.0"
+original_entry_into_force: "2021-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041520/2026-01-01/0"
+intitule_bron: "Stb.2018-388"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-30"
+intitule_published: "2018-11-08"
+intitule_in_force: "2018-11-08"
+intitule_status: "goed"
+original_publication: "Stb.2021-160"
+original_signed_date: "2021-03-17"
+original_published_date: "2021-03-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-160"
+entry_into_force_date: "2021-03-17"
+jci_1_3: "jci1.3:c:BWBR0041520&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0041520&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beveiliging netwerk- en informatiesystemen"
+signed_date: "2021-03-17"
+entry_into_force: "2021-03-17"
 ---
-
 # Besluit van 30 oktober 2018, houdende regels ter uitvoering van de Wet beveiliging netwerk- en informatiesystemen (Besluit beveiliging netwerk- en informatiesystemen)
 
 Op de voordracht van Onze Minister van Justitie en Veiligheid van 4 juli 2018, Directie Wetgeving en Juridische Zaken, nr. 2306334, gedaan in overeenstemming met Onze Ministers van Defensie, Economische Zaken en Klimaat, Financiën en Infrastructuur en Waterstaat;
@@ -20,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Justitie en Veiligheid van 24 okt
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In dit besluit en de daarop berustende bepalingen wordt onder wet verstaan: [Wet beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041515).
 
-#### Artikel 2. (aanwijzing aanbieders van een essentiële dienst)
+##### Artikel 2. (aanwijzing aanbieders van een essentiële dienst)
 
 Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieders worden aangewezen:
 
@@ -61,7 +87,7 @@ Als aanbieders van een essentiële dienst of categorieën van zodanige aanbieder
 
 1 [Verordening (EG) Nr. 300/2008](32008R0300) van het Europees Parlement en de Raad van 11 maart 2008 inzake gemeenschappelijke regels op het gebied van de beveiliging van de burgerluchtvaart en tot intrekking van [Verordening (EG) nr. 2320/2002](32002R2320) (**PbEU 2008, L 97**).
 
-#### Artikel 3. (aanwijzing andere vitale aanbieders)
+##### Artikel 3. (aanwijzing andere vitale aanbieders)
 
 Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld in [artikel 5, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=5) worden aangewezen:
 
@@ -80,15 +106,15 @@ Als andere vitale aanbieders of categorieën van zodanige aanbieders als bedoeld
 | **Energie: elektriciteit** | De exploitant van oplaadpunten als bedoeld in artikel 2, derde lid, van [Richtlijn 2014/94](32014L0094)/EU, met een totaal opgesteld laadvermogen van minimaal 300 megawatt (300.000 kilowatt) | Het beheer of de exploitatie van oplaadpunten die een laaddienst leveren aan particuliere of zakelijke eindgebruikers, onder meer namens en voor rekening van een aanbieder van mobiliteitsdiensten |
 | **Digitale infrastructuur** | Een aanbieder van multi-tenant datacenterdiensten waarvan de datacenters een gezamenlijke stroomcapaciteit hebben van meer dan 50 megawatt | Het verlenen van datacenterdiensten |
 
-#### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
+##### Artikel 4. (uitzondering beveiligingseisen financiële instellingen)
 
 De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=9), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=26) en [27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=27), [artikel 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=3a&z=2026-01-01&g=2026-01-01) van dit besluit en de bijlage bij dit besluit zijn niet van toepassing op de bij besluit van De Nederlandsche Bank N.V. krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041520&artikel=2&z=2026-01-01&g=2026-01-01) aangewezen kredietinstellingen, centrale tegenpartijen en exploitanten van handelsplatformen.
 
-#### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
+##### Artikel 5. (beveiliging en meldplicht digitaledienstverlener)
 
 Het is verboden te handelen in strijd met de artikelen 2, 3, en 4, eerste lid, van uitvoeringsverordening (EU) 2018/151 van de Commissie van 30 januari 2018 tot vaststelling van toepassingsbepalingen voor Richtlijn (EU) 2016/1148 van het Europees Parlement en de Raad wat betreft de nadere specificatie van de door digitaledienstverleners in aanmerking te nemen elementen voor het beheer van de risico’s in verband met de beveiliging van netwerk- en informatiesystemen en van de parameters om te bepalen of een incident aanzienlijke gevolgen heeft (PbEU 2018, L 26).
 
-#### Artikel 6. (wijze waarop een incident wordt gemeld)
+##### Artikel 6. (wijze waarop een incident wordt gemeld)
 
 1. Een melding bij Onze Minister als bedoeld in [artikel 10, eerste of derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=10) wordt gedaan op een door Onze Minister aangegeven wijze.
 
@@ -96,21 +122,21 @@ Het is verboden te handelen in strijd met de artikelen 2, 3, en 4, eerste lid, v
 
 3. Een melding bij het CSIRT voor digitale diensten als bedoeld in [artikel 13, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=13) wordt gedaan op een door het CSIRT voor digitale diensten aangegeven wijze.
 
-#### Artikel 7. (intrekking [Besluit meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0040368))
+##### Artikel 7. (intrekking [Besluit meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0040368))
 
 Het [Besluit meldplicht cybersecurity](https://wetten.overheid.nl/jci1.3:c:BWBR0040368) wordt ingetrokken.
 
-#### Artikel 8. (inwerkingtreding)
+##### Artikel 8. (inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan of voor verschillende categorieën van aanbieders of diensten verschillend kan worden vastgesteld.
 
-#### Artikel 9. (citeertitel)
+##### Artikel 9. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit beveiliging netwerk- en informatiesystemen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. (beveiliging aanbieders van een essentiële dienst)
+##### Artikel 3a. (beveiliging aanbieders van een essentiële dienst)
 
 1. Ter uitvoering van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=7) en [8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0041515&artikel=8) neemt een aanbieder van een essentiële dienst ten minste de maatregelen, beschreven in de bijlage bij dit besluit.
 

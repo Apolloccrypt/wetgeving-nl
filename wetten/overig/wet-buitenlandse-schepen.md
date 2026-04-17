@@ -1,14 +1,41 @@
 ---
-title: "Wet buitenlandse schepen"
+title: "Wet van 6 juli 2004, houdende een voorziening om ter uitvoering van besluiten van instellingen van de Europese Unie regels te kunnen stellen ten aanzien van buitenlandse schepen (Wet buitenlandse schepen)"
 identifier: "BWBR0016993"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016993"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016993"
+soort: "wet"
+stam_id: "5967593"
+version_id: "10570772"
+internal_id: "C14370201"
+label_id: "5957224"
+original_entry_into_force: "2004-08-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016993/2025-07-01/0"
+intitule_bron: "Stb.2004-349"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-06"
+intitule_published: "2004-07-20"
+intitule_in_force: "2004-07-20"
+intitule_status: "goed"
+original_publication: "Stb.2004-349"
+original_signed_date: "2004-07-06"
+original_published_date: "2004-07-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "29394"
+original_url_id: "stb-2004-349"
+entry_into_force_date: "2004-08-21"
+entry_into_force_dossier: "29394"
+jci_1_3: "jci1.3:c:BWBR0016993&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0016993&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet buitenlandse schepen"
+signed_date: "2004-07-06"
+entry_into_force: "2004-08-21"
 ---
-
-# Wet buitenlandse schepen
+# Wet van 6 juli 2004, houdende een voorziening om ter uitvoering van besluiten van instellingen van de Europese Unie regels te kunnen stellen ten aanzien van buitenlandse schepen (Wet buitenlandse schepen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid van de Tijdeli
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij daarin anders is bepaald, verstaan onder:
 
@@ -36,19 +63,19 @@ De datum van inwerkingtreding is ingevolge artikel 12, tweede lid van de Tijdeli
 
 2. Voor de toepassing van deze wet wordt met een buitenlands schip gelijkgesteld een schip dat op grond van voor Aruba, Curaçao of Sint Maarten geldende rechtsregels gerechtigd is de vlag van het Koninkrijk te voeren.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is van toepassing op buitenlandse schepen in Europese wateren onder Nederlandse jurisdictie, met uitzondering van oorlogsschepen, marinehulpschepen en andere schepen die in gebruik zijn voor de uitvoering van een militaire taak en voor andere dan handelsdoeleinden gebruikte overheidsschepen.
 
 ### Hoofdstuk 2. Voorschriften voor buitenlandse schepen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter uitvoering van een besluit van een of meer van de instellingen van de Europese Unie alleen of gezamenlijk betreffende de veiligheid van de zeescheepvaart in Europese wateren onder de jurisdictie van de lidstaten van de Europese Unie, kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de overeenkomstige toepassing op buitenlandse schepen van bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6), en [9 van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=9) gestelde regels.
 
 2. [Artikel 5, tweede lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=5) is van overeenkomstige toepassing, voorzover een besluit als bedoeld in het eerste lid voorziet in de mogelijkheid ontheffing te verlenen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse schepen een bij die regeling bepaalde vergoeding verschuldigd zijn voor de kosten van:
 
@@ -60,7 +87,7 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 ### Hoofdstuk 3. Toezicht en handhaving
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de met inachtneming van de besluiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=2&artikel=3&z=2025-07-01&g=2025-07-01), bij besluit van Onze Minister aangewezen ambtenaren van de Inspectie Verkeer en Waterstaat.
 
@@ -70,13 +97,13 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 4. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de wijze waarop de in het eerste of tweede lid bedoelde ambtenaren hun taak uitoefenen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, woongedeelten van buitenlandse schepen die zich in een haven bevinden binnen te treden zonder toestemming van de bewoner.
 
 2. Voorts is een toezichthouder bevoegd leden van de bemanning te onderwerpen aan een onderzoek inzake hun vakbekwaamheid, met inbegrip van hun bekwaamheid in het verrichten van operationele handelingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij ministeriële regeling kan worden bepaald dat een toezichthouder in bij die regeling te regelen gevallen bevoegd is tot:
 
@@ -98,7 +125,7 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 5. [Afdeling 5.3.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.3.1) is niet van toepassing op de in het eerste en derde lid bedoelde bevoegdheden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kapitein van een aangehouden schip is verplicht het schip na de aanhouding ligplaats te doen nemen op een door de toezichthouder in overeenstemming met de havenbeheerder aan te wijzen plaats.
 
@@ -106,7 +133,7 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 3. Nadat een activiteit is stopgezet, is het de kapitein en de exploitant verboden om deze activiteit voort te zetten of haar, zolang de stopzetting niet is opgeheven, te hervatten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In afwijking van [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41) geschiedt de bekendmaking van een besluit tot aanhouding of tot stopzetting van een activiteit door uitreiking van dit besluit aan de kapitein.
 
@@ -116,7 +143,7 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing op besluiten tot opheffing van een aanhouding of tot opheffing van de stopzetting van een activiteit.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Tegen besluiten van een toezichthouder, genomen krachtens deze wet, kan een belanghebbende beroep instellen bij Onze Minister.
 
@@ -124,7 +151,7 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 ### Hoofdstuk 4. Straf- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Overtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=3&artikel=8&z=2025-07-01&g=2025-07-01) wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -132,29 +159,29 @@ Bij ministeriële regeling kan worden bepaald dat exploitanten van buitenlandse 
 
 3. De in het eerste lid strafbaar gestelde feiten zijn misdrijven. De in het tweede lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met de opsporing van de bij [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=11&z=2025-07-01&g=2025-07-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de bij besluit van Onze Minister van Justitie aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voorzover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Scheepvaartverkeerswet.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet voorkoming verontreiniging door schepen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking met ingang van de dag na de uitgifte van het Staatsblad waarin zij wordt geplaatst, met uitzondering van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2025-07-01&g=2025-07-01) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=15&z=2025-07-01&g=2025-07-01) die in werking treden op een bij koninklijk besluit te bepalen tijdstip dat voor de onderdelen van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0016993&hoofdstuk=4&artikel=14&z=2025-07-01&g=2025-07-01) verschillend kan worden gesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet buitenlandse schepen.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit register surséance van betaling"
+title: "Besluit van 5 maart 1977 strekkend tot vaststelling en tevens tot bepaling van het tijdstip van inwerkingtreding van een algemene maatregel van bestuur ter uitvoering van artikel 222a van de Faillissementwet zoals ingevoegd bij de Wet van 6 mei 1976 (Stb. 1976, 280) houdende wijzigingen van enige bepalingen van de Faillissementwet en tevens strekkend tot bepaling van het tijdstip van inwerkingtreding van voornoemde Wet van 6 mei 1976"
 identifier: "BWBR0003092"
-categorie: "Bestuursrecht"
-publicatiedatum: 1977-05-01
-laatste_update: 1977-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003092"
+country: "nl"
+rank: "amvb"
+publication_date: "1977-05-01"
+last_updated: "1977-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003092"
+soort: "AMvB"
+stam_id: "922323"
+version_id: "1350542"
+internal_id: "C1350541"
+label_id: "894294"
+dtd_version: "2.0"
+original_entry_into_force: "1977-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003092/1977-05-01/0"
+intitule_bron: "Stb.1977-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1977-03-05"
+intitule_status: "goed"
+original_publication: "Stb.1977-129"
+original_signed_date: "1977-03-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1977-05-01"
+jci_1_3: "jci1.3:c:BWBR0003092&z=1977-05-01&g=1977-05-01"
+jci_1_0: "1.0:c:BWBR0003092&g=1977-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit register surséance van betaling"
+signed_date: "1977-03-05"
+entry_into_force: "1977-05-01"
 ---
-
 # Besluit van 5 maart 1977 strekkend tot vaststelling en tevens tot bepaling van het tijdstip van inwerkingtreding van een algemene maatregel van bestuur ter uitvoering van artikel 222a van de Faillissementwet zoals ingevoegd bij de Wet van 6 mei 1976 (Stb. 1976, 280) houdende wijzigingen van enige bepalingen van de Faillissementwet en tevens strekkend tot bepaling van het tijdstip van inwerkingtreding van voornoemde Wet van 6 mei 1976
 
 Op de voordracht van Onze Minister van Justitie van 20 januari 1977, Stafafdeling Wetgeving Privaatrecht nr. 27/677;
@@ -20,23 +42,23 @@ Gezien het nader rapport van Onze Minister van Justitie van 28 februari 1977, St
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In het ingevolge [artikel 222**a**, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=222a) ter griffie van elke rechtbank berustende openbare register wordt aantekening gehouden van de na de inwerkingtreding van dit Besluit plaats gehad hebbende rechtsfeiten, zoals vermeld in het bij dit Besluit behorende model.
 
-#### Artikel 2
+##### Artikel 2
 
 Het register bestaat uit kaarten volgens het bij dit Besluit behorende model.
 
-#### Artikel 3
+##### Artikel 3
 
 Elke kaart van het register bevat slechts de gegevens met betrekking tot de aan het hoofd daarvan vermelde schuldenaar aan wie voorlopig of definitief surséance van betaling is verleend.
 
-#### Artikel 4
+##### Artikel 4
 
 Het kaartregister wordt in alfabetische volgorde aangehouden. Onze Minister van Justitie kan hieromtrent nadere voorschriften geven.
 
-#### Artikel 5
+##### Artikel 5
 
 De Wet van 6 mei 1976 (**Stb.** 1976, 280) en dit Besluit treden in werking op 1 mei 1977.
 

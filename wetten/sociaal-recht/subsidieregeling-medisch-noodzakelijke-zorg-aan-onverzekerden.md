@@ -1,30 +1,56 @@
 ---
-title: "Subsidieregeling medisch noodzakelijke zorg aan onverzekerden"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende regels voor de subsidieverstrekking aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan onverzekerden (Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)"
 identifier: "BWBR0039230"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039230"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039230"
+soort: "ministeriele-regeling"
+stam_id: "13921013"
+version_id: "28532282"
+internal_id: "C40257251"
+label_id: "13885054"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039230/2022-08-01/0"
+intitule_bron: "Stcrt.2017-10332"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-15"
+intitule_published: "2017-02-24"
+intitule_in_force: "2017-02-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9776"
+original_signed_date: "2022-04-04"
+original_published_date: "2022-04-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-9776"
+entry_into_force_date: "2022-04-07"
+jci_1_3: "jci1.3:c:BWBR0039230&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0039230&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling medisch noodzakelijke zorg aan onverzekerden"
+signed_date: "2022-04-04"
+entry_into_force: "2022-04-07"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 15 februari 2017, kenmerk 997477-153689-Z, houdende regels voor de subsidieverstrekking aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan onverzekerden (Subsidieregeling medisch noodzakelijke zorg aan onverzekerden)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 **minister:** Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2
+##### Artikel 2
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kan subsidie verstrekken aan zorgaanbieders voor het verlenen van medisch noodzakelijke zorg aan een persoon, niet zijnde een vreemdeling als bedoeld in [artikel 122a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=122a), die niet verzekerd is als bedoeld in [artikel 2 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=2) of waarvan de verzekering niet is vast te stellen.
 
@@ -42,15 +68,15 @@ Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.
 
 5. Subsidie wordt uitsluitend verstrekt indien de zorgaanbieder met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=4&z=2022-08-01&g=2022-08-01).
 
-#### Artikel 4
+##### Artikel 4
 
 Het verlenen van medisch noodzakelijke zorg aan een onverzekerde persoon wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de Werking van de Europese Unie.
 
-#### Artikel 5
+##### Artikel 5
 
 De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze kosten niet op grond van [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2022-08-01&g=2022-08-01), zijn of kunnen worden betaald of buiten beschouwing dienen te blijven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De subsidie wordt op aanvraag verstrekt.
 
@@ -76,7 +102,7 @@ De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze ko
 
 6. De aanvraag wordt ondertekend door de aanvrager of door een persoon die bevoegd is de aanvrager te vertegenwoordigen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister geeft binnen dertien weken na ontvangst van de aanvraag een beschikking tot vaststelling van de subsidie.
 
@@ -84,7 +110,7 @@ De subsidie bedraagt 100% van de kosten van de verleende zorg voor zover deze ko
 
 3. De minister betaalt het bedrag van de subsidie in één keer.
 
-#### Artikel 8
+##### Artikel 8
 
 De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingesteld onderzoek dat erop is gericht de minister inlichtingen te verschaffen die van belang zijn voor:
 
@@ -92,17 +118,17 @@ De subsidieontvanger werkt, onder meer door het verschaffen van de daartoe benod
 
 - b. de ontwikkeling van het beleid van de minister.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 maart 2017 en vervalt met ingang van 1 maart 2027.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling medisch noodzakelijke zorg aan onverzekerden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 In afwijking van [artikel 3, vierde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0039230&artikel=3&z=2022-08-01&g=2022-08-01), kan subsidie worden verstrekt voor het verlenen van medisch noodzakelijke zorg aan een persoon, waarop de [Richtlijn 2001/55/EG](32001L0055) van de Raad van 20 juli 2001 betreffende minimumnormen voor het verlenen van tĳdelĳke bescherming in geval van massale toestroom van ontheemden en maatregelen ter bevordering van een evenwicht tussen de inspanning van de lidstaten voor de opvang en het dragen van de consequenties van de opvang van deze personen, van toepassing is, zonder na te gaan of:
 
@@ -112,7 +138,7 @@ In afwijking van [artikel 3, vierde lid, onderdelen a en b](https://wetten.overh
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 

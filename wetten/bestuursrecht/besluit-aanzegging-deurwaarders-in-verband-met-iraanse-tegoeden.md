@@ -1,13 +1,35 @@
 ---
-title: "Besluit aanzegging deurwaarders in verband met Iraanse tegoeden"
+title: "Besluit van 13 juli 1981, houdende een verbod aan de deurwaarders om exploiten te doen ter zake van beslagen op of vorderingen verband houdende met de aanwezigheid in Nederland van de fondsen bedoeld in de overeenkomst met de Verenigde Staten van 10 juli 1981 betreffende een garantiefonds"
 identifier: "BWBR0003422"
-categorie: "Bestuursrecht"
-publicatiedatum: 1981-11-14
-laatste_update: 1981-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003422"
+country: "nl"
+rank: "amvb"
+publication_date: "1981-11-14"
+last_updated: "1981-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003422"
+soort: "AMvB"
+stam_id: "64533"
+version_id: "83692"
+internal_id: "C83691"
+label_id: "64614"
+dtd_version: "2.0"
+original_entry_into_force: "1981-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003422/1981-11-14/0"
+intitule_bron: "Stb.1981-451"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-07-13"
+intitule_status: "goed"
+original_publication: "Stb.1981-451"
+original_signed_date: "1981-07-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-07-16"
+jci_1_3: "jci1.3:c:BWBR0003422&z=1981-11-14&g=1981-11-14"
+jci_1_0: "1.0:c:BWBR0003422&g=1981-11-14"
+citeertitel_status: "officieel"
+short_title: "Besluit aanzegging deurwaarders in verband met Iraanse tegoeden"
+signed_date: "1981-07-13"
+entry_into_force: "1981-07-16"
 ---
-
 # Besluit van 13 juli 1981, houdende een verbod aan de deurwaarders om exploiten te doen ter zake van beslagen op of vorderingen verband houdende met de aanwezigheid in Nederland van de fondsen bedoeld in de overeenkomst met de Verenigde Staten van 10 juli 1981 betreffende een garantiefonds
 
 Op de voordracht van Onze Minister van Justitie van 25 juni 1981, Stafafdeling Wetgeving Privaatrecht, nr. 314/681;
@@ -28,11 +50,11 @@ Gezien het nader rapport van Onze Minister van Justitie, van 10 juli 1981, Stafa
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De deurwaarders moeten het doen van exploiten weigeren, indien deze betrekking hebben op enige vorm van beslag op de fondsen, bedoeld in de overeenkomst van 10 juli 1981 tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Staten van Amerika betreffende een garantiefonds in verband met de beslechting van bepaalde geschillen tussen de Verenigde Staten en Iran, onverschillig of deze fondsen zich bevinden op een of meer rekeningen bij de naamloze vennootschap N.V. Settlement Bank of the Netherlands, dan wel door of vanwege deze vennootschap geplaatst zijn op een of meer rekeningen bij derden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De deurwaarders moeten het doen van exploiten weigeren indien deze betrekking hebben op vorderingen tegen de naamloze vennootschap De Nederlandsche Bank N.V. of tegen de naamloze vennootschap N.V. Settlement Bank of the Netherlands ter zake van:
 
@@ -44,7 +66,7 @@ De deurwaarders moeten het doen van exploiten weigeren, indien deze betrekking h
 
 2. Het eerste lid is niet van toepassing op vorderingen ter zake waarvan de aldaar genoemde vennootschappen krachtens de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003422&artikel=1&z=1981-11-14&g=1981-11-14) genoemde overeenkomst geen onschendbaarheid genieten.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De deurwaarders moeten het doen van exploiten weigeren indien deze betrekking hebben op vorderingen tegen de rechtspersoon naar het recht van de Democratische Volksrepubliek Algerije Banque Centrale d'Algérie, terzake van:
 
@@ -54,11 +76,11 @@ De deurwaarders moeten het doen van exploiten weigeren, indien deze betrekking h
 
 2. Het eerste lid is niet van toepassing op vorderingen terzake waarvan de Banque Centrale d'Algérie krachtens de in het eerste lid onder **a** genoemde overeenkomst geen onschendbaarheid geniet.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor weigeringen ingevolge de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003422&artikel=1&z=1981-11-14&g=1981-11-14)-[2**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0003422&artikel=2a&z=1981-11-14&g=1981-11-14) zijn de deurwaarders jegens partijen niet aansprakelijk.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

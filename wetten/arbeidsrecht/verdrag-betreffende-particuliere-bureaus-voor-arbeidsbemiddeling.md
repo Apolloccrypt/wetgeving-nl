@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende particuliere bureaus voor arbeidsbemiddeling"
 identifier: "BWBV0001411"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2000-09-15
-laatste_update: 2000-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001411"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-09-15"
+last_updated: "2000-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001411"
+soort: "verdrag"
+stam_id: "10000455363"
+version_id: "10000483032"
+internal_id: "C10006989901"
+label_id: "10000455644"
+original_entry_into_force: "2000-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001411/2000-09-15/0"
+intitule_bron: "Trb.1997-308"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-09-15"
+intitule_published: "1997-12-18"
+intitule_in_force: "1999-10-25"
+intitule_status: "goed"
+original_publication: "Trb.1997-308"
+original_signed_date: "1999-09-15"
+original_published_date: "1997-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-308"
+entry_into_force_date: "2000-09-15"
+jci_1_3: "jci1.3:c:BWBV0001411&z=2000-09-15&g=2000-09-15"
+jci_1_0: "1.0:c:BWBV0001411&g=2000-09-15"
+citeertitel_status: "officieel"
+signed_date: "1999-09-15"
+entry_into_force: "2000-09-15"
 ---
-
 # Verdrag betreffende particuliere bureaus voor arbeidsbemiddeling
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -38,7 +62,7 @@ Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een inter
 
 neemt heden, de negentiende juni van het jaar negentienhonderd zevenennegentig, het volgende Verdrag aan, dat kan worden aangehaald als het „Verdrag inzake particuliere bureaus voor arbeidsbemiddeling, 1997":
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van dit Verdrag wordt onder „particulier bureau voor arbeidsbemiddeling" verstaan elke natuurlijke of rechtspersoon, onafhankelijk van de openbare autoriteiten, die een of meer van de volgende diensten met betrekking tot de arbeidsmarkt levert:
 
@@ -52,7 +76,7 @@ neemt heden, de negentiende juni van het jaar negentienhonderd zevenennegentig, 
 
 3. Voor de toepassing van dit Verdrag wordt onder de term „verwerking van persoonsgegevens van werknemers" verstaan: het verzamelen, opslaan, samenvoegen, doorgeven of elk ander gebruik van informatie dat verband houdt met een werknemer van wie de identiteit is vastgesteld of is vast te stellen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing op alle particuliere bureaus voor arbeidsbemiddeling.
 
@@ -68,23 +92,23 @@ neemt heden, de negentiende juni van het jaar negentienhonderd zevenennegentig, 
 
 5. Elk Lid dat dit Verdrag bekrachtigt, geeft in zijn rapporten krachtens artikel 22 van het Statuut van de Internationale Arbeidsorganisatie de eventuele verboden en uitsluitingen aan waarvan het gebruik maakt ingevolge het vierde lid, onder vermelding van de redenen daarvoor.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De juridische status van particuliere arbeidsbureaus wordt bepaald in overeenstemming met de nationale wetgeving en praktijk en na raadpleging van de meest representatieve organisaties van werkgevers en werknemers.
 
 2. Elk Lid stelt volgens een vergunningen- of certificeringssysteem de voorwaarden vast waaronder particuliere bureaus voor arbeidsbemiddeling hun werkzaamheden uitoefenen, tenzij deze voorwaarden krachtens de desbetreffende nationale wetgeving en praktijk op een andere wijze zijn geregeld of vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Er worden maatregelen genomen ten einde te waarborgen dat de werknemers die zijn geworven door particuliere bureaus voor arbeidsbemiddeling die de in artikel 1 bedoelde diensten verlenen, niet hun recht op vrijheid van vakvereniging en op collectief onderhandelen wordt ontzegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Om gelijke kansen en een gelijke behandeling bij de toegang tot werk en tot specifieke beroepen te bevorderen, waarborgt elk Lid dat de particuliere bureaus voor arbeidsbemiddeling werknemers behandelen zonder discriminatie op grond van ras, huidskleur, geslacht, godsdienst, politieke overtuiging, nationale afstamming, sociale afkomst of elke andere vorm van discriminatie die valt onder de nationale wetgeving en praktijk, zoals leeftijd of handicap.
 
 2. Het eerste lid van dit artikel mag niet zodanig worden toegepast dat particuliere bureaus voor arbeidsbemiddeling wordt belet speciale diensten te leveren of gerichte programma's aan te bieden die zijn ontworpen om de meest kansarme werknemers te helpen bij het zoeken naar werk.
 
-#### Artikel 6
+##### Artikel 6
 
 De verwerking van de persoonsgegevens van werknemers door particuliere bureaus voor arbeidsbemiddeling dient:
 
@@ -92,7 +116,7 @@ De verwerking van de persoonsgegevens van werknemers door particuliere bureaus v
 
 - b. te worden beperkt tot zaken die betrekking hebben op de kwalificaties en beroepservaring van de betrokken werknemers en tot elke andere rechtstreeks relevante informatie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Particuliere bureaus voor arbeidsbemiddeling brengen werknemers geen honorarium of andere kosten, direct of indirect, geheel of gedeeltelijk, in rekening.
 
@@ -100,21 +124,21 @@ De verwerking van de persoonsgegevens van werknemers door particuliere bureaus v
 
 3. Elk Lid dat krachtens het tweede lid uitzonderingen heeft toegestaan, verstrekt in zijn rapporten krachtens artikel 22 van het Statuut van de Internationale Arbeidsorganisatie informatie over deze uitzonderingen onder vermelding van de redenen daarvoor.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elk Lid neemt, na raadpleging van de meest representatieve organisaties van werkgevers en werknemers, alle noodzakelijke en passende maatregelen, zowel binnen zijn rechtsmacht als, eventueel, in samenwerking met andere Leden, om ervoor te zorgen dat migrerende werknemers die door particuliere bureaus voor arbeidsbemiddeling op zijn grondgebied zijn geworven of voor wie is bemiddeld adequate bescherming genieten en te voorkomen dat deze worden misbruikt. Deze maatregelen omvatten wetten of voorschriften die voorzien in strafsancties, met inbegrip van het verbieden van de particuliere arbeidsbureaus die zich inlaten met frauduleuze praktijken en misbruik.
 
 2. Wanneer werknemers in een land worden geworven voor werk in een ander land overwegen de betrokken Leden bilaterale overeenkomsten te sluiten ter voorkoming van misbruik en frauduleuze praktijken bij werving, arbeidsbemiddeling en tewerkstelling.
 
-#### Artikel 9
+##### Artikel 9
 
 Elk Lid neemt maatregelen om te waarborgen dat particuliere arbeidsbureaus geen gebruik maken van kinderarbeid of kinderarbeid leveren.
 
-#### Artikel 10
+##### Artikel 10
 
 De bevoegde autoriteit dient ervoor zorg te dragen dat er gepaste mechanismen en procedures bestaan voor onderzoek van klachten en beweringen inzake misbruik en frauduleuze praktijken betreffende de activiteiten van particuliere bureaus voor arbeidsbemiddeling, waarbij, in voorkomend geval, de meest representatieve organisaties van werkgevers en werknemers worden betrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Elk Lid neemt, overeenkomstig de nationale wetgeving en praktijk, de nodige maatregelen ter waarborging van een adequate bescherming van de door particuliere bureaus voor arbeidsbemiddeling tewerkgestelde werknemers, bedoeld in artikel 1, eerste lid, letter b, met betrekking tot:
 
@@ -138,7 +162,7 @@ Elk Lid neemt, overeenkomstig de nationale wetgeving en praktijk, de nodige maat
 
 - j. bescherming en uitkering in verband met zwangerschap en bevalling, en bescherming en uitkering in verband met ouderschap.
 
-#### Artikel 12
+##### Artikel 12
 
 Elk Lid bepaalt en verdeelt overeenkomstig de nationale wetgeving en praktijk, de respectieve verantwoordelijkheden van de particuliere arbeidsbureaus die de in artikel 1, eerste lid, letter b, bedoelde diensten verlenen en van de inleenbedrijven met betrekking tot:
 
@@ -160,7 +184,7 @@ Elk Lid bepaalt en verdeelt overeenkomstig de nationale wetgeving en praktijk, d
 
 - i. bescherming en uitkering in verband met zwangerschap en bevalling, en bescherming en uitkering in verband met ouderschap.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Overeenkomstig de nationale wetgeving en praktijk en na raadpleging van de meest representatieve organisaties van werkgevers en werknemers formuleert elk Lid de voorwaarden ter bevordering van de samenwerking tussen de publieke arbeidsvoorziening en de particuliere bureaus voor arbeidsbemiddeling, stelt deze vast en beoordeelt deze met regelmatige tussenpozen.
 
@@ -178,7 +202,7 @@ Elk Lid bepaalt en verdeelt overeenkomstig de nationale wetgeving en praktijk, d
 
 4. De bevoegde autoriteit verzamelt deze informatie en stelt deze, met regelmatige tussenpozen, ter beschikking van het publiek.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bepalingen van dit Verdrag worden toegepast door middel van wetgeving of op andere wijze in overeenstemming met de nationale praktijk, zoals rechterlijke uitspraken, scheidsrechterlijke beslissingen of collectieve overeenkomsten.
 
@@ -186,19 +210,19 @@ Elk Lid bepaalt en verdeelt overeenkomstig de nationale wetgeving en praktijk, d
 
 3. In geval van overtreding van de bepalingen van dit Verdrag wordt voorzien in corrigerende maatregelen, waaronder sancties indien nodig, die doeltreffend worden toegepast.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag doet geen afbreuk aan gunstigere bepalingen die krachtens andere internationale arbeidsverdragen van toepassing zijn op werknemers die zijn geworven, voor wie is bemiddeld of die zijn tewerkgesteld door particuliere bureaus voor arbeidsbemiddeling.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Verdrag herziet het Verdrag betreffende bureaus voor arbeidsbemiddeling welke voor hun bemiddeling betaling vragen (herzien), 1949, en het Verdrag betreffende bureaus voor arbeidsbemiddeling welke voor hun bemiddeling betaling vragen, 1933.
 
-#### Artikel 17
+##### Artikel 17
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal van het Internationaal Arbeidsbureau is geregistreerd.
 
@@ -206,27 +230,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 21
+##### Artikel 21
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die de Directeur-Generaal overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 22
+##### Artikel 22
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit nodig acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -236,7 +260,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 24
+##### Artikel 24
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

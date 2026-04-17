@@ -1,18 +1,40 @@
 ---
 title: "Regeling 75 jaar vrijheid"
 identifier: "BWBR0042606"
-categorie: "Overig"
-publicatiedatum: 2019-10-01
-laatste_update: 2019-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042606"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-10-01"
+last_updated: "2019-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042606"
+soort: "zbo"
+stam_id: "15175603"
+version_id: "26022402"
+internal_id: "C37059601"
+label_id: "15123244"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042606/2019-10-01/0"
+intitule_bron: "Stcrt.2019-53730"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-10-01"
+intitule_in_force: "2019-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-53730"
+original_published_date: "2019-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-53730"
+entry_into_force_date: "2019-10-01"
+jci_1_3: "jci1.3:c:BWBR0042606&z=2019-10-01&g=2019-10-01"
+jci_1_0: "1.0:c:BWBR0042606&g=2019-10-01"
+citeertitel_status: "officieel"
+entry_into_force: "2019-10-01"
 ---
-
 # Regeling 75 jaar vrijheid
 
 ### Hoofdstuk I. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Doel
 
-#### Artikel 2
+##### Artikel 2
 
 In 2019 en 2020 is het 75 jaar geleden dat Nederland werd bevrijd en er een einde kwam aan WOII. Om de grootheid van het lustrum te benadrukken heeft het kabinet besloten om eenmalig € 15 miljoen te investeren in de herinnering aan WOII. Doel van deze investering is dat ook de komende jaren, als de ooggetuigen wegvallen, de gebeurtenissen voorafgaand, in en vlak na WOII op indringende wijze verteld kan blijven worden, op een manier die de komende generaties aanspreekt en verbonden is met het belang van de waarden vrijheid en democratie.
 
@@ -56,13 +78,13 @@ Daartoe kan het bestuur van het fonds volgens de bepalingen vastgesteld in dit r
 
 ### Hoofdstuk III. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvrager dient in Nederland gevestigd te zijn.
 
 2. De aanvraag dient betrekking te hebben op gebeurtenissen in de aanloop naar, tijdens of vlak na WOII in Nederland en/of de voormalige koloniën.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij de verlening van de subsidie wordt de periode waarover de subsidie zich uitstrekt bepaald.
 
@@ -72,11 +94,11 @@ Daartoe kan het bestuur van het fonds volgens de bepalingen vastgesteld in dit r
 
 4. De subsidie heeft een maximale looptijd van drie jaar, tenzij er sprake is van zwaarwegende omstandigheden die door de aanvrager zijn gemotiveerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Tijdens de periode waarin een aanvrager aanspraak maakt op een subsidie van het fonds of een andere voorziening gefinancierd uit publieke middelen kan geen subsidie worden verstrekt die naar het oordeel van het bestuur in dezelfde dekking van kosten voorziet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur kan een subsidieplafond instellen voor één of meerdere subsidies.
 
@@ -90,11 +112,11 @@ Tijdens de periode waarin een aanvrager aanspraak maakt op een subsidie van het 
 
 6. Het bestuur kan voor iedere aanvraagronde, als bedoeld in het vorige lid, het budget per subsidiesoort vaststellen.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de verstrekking van de subsidie kan het bestuur nadere verplichtingen verbinden met betrekking tot de uitvoering van het plan, de presentatie van de resultaten, de verslaglegging en de afrekening van de subsidie.
 
-#### Artikel 8
+##### Artikel 8
 
 Geen subsidie wordt verstrekt:
 
@@ -106,7 +128,7 @@ Geen subsidie wordt verstrekt:
 
 ### Hoofdstuk IV. Aanvraagprocedure
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aanvrager die voor een subsidie in aanmerking wenst te komen, dient bij het fonds een aanvraag daartoe in met gebruikmaking van een voor dit doel door het bestuur te verstrekken aanvraagformulier.
 
@@ -114,7 +136,7 @@ Geen subsidie wordt verstrekt:
 
 ### Hoofdstuk V. Advisering
 
-#### Artikel 10
+##### Artikel 10
 
 1. In verband met advisering over toekenning van subsidies benoemt het bestuur, een poule van adviseurs.
 
@@ -138,7 +160,7 @@ Geen subsidie wordt verstrekt:
 
 8. Adviseurs genieten een door het bestuur vast te stellen vacatiegeld en een vergoeding van de reiskosten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De adviescommissies hebben tot taak het bestuur te adviseren over de voorgelegde aanvragen met inachtneming van het bepaalde in de desbetreffende regeling.
 
@@ -148,7 +170,7 @@ Geen subsidie wordt verstrekt:
 
 4. De vergaderingen van de adviescommissies zijn niet openbaar.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De adviescommissies vergaderen zo vaak het fonds dit nodig acht.
 
@@ -156,7 +178,7 @@ Geen subsidie wordt verstrekt:
 
 3. Het bureau formuleert in voorkomende gevallen, voorafgaande aan de commissievergadering, een preadvies. Het preadvies bindt de adviescommissie niet.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Adviseurs voeren een aanvullend gesprek met aanvragers voor zover dit voor een verantwoorde advisering noodzakelijk is, en brengen hiervan verslag uit aan de adviescommissie.
 
@@ -176,7 +198,7 @@ Geen subsidie wordt verstrekt:
 
 9. Leden van de adviescommissie zijn niet gerechtigd hun persoonlijke advies naar buiten te brengen indien dit afwijkend is. De commissie ‘praat met één mond’.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien in een adviescommissievergadering kwesties aan de orde komen waarbij een adviseur middellijk of onmiddellijk een eigen belang heeft, of kan hebben of wanneer het gaat om belangen van rechtspersonen waarbij hij als lid van het bestuur, adviseur of commissaris of functionaris is betrokken, dan woont hij de beraadslaging en besluitvorming over het desbetreffende onderwerp niet bij. Het is de plicht van de adviseur om dit onverwijld aan de secretaris mede te delen. Het is de taak van de secretaris om dit gedurende het beoordelingsproces strikt te bewaken.
 
@@ -184,7 +206,7 @@ Geen subsidie wordt verstrekt:
 
 ### Hoofdstuk VI. Besluit
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien de aanvraag in behandeling wordt genomen, legt het bestuur de aanvraag ter advisering voor aan het hiertoe ingestelde adviesorgaan.
 
@@ -196,7 +218,7 @@ Geen subsidie wordt verstrekt:
 
 ### A. Subsidie bouwkundige uitbreiding of verbouwing
 
-#### Artikel 16. Toepasselijkheid
+##### Artikel 16. Toepasselijkheid
 
 1. Subsidies voor een bouwkundige uitbreiding of verbouwing kunnen worden verstrekt aan musea die lid zijn van de Stichting Musea en Herinneringscentra ’40-’45.
 
@@ -214,7 +236,7 @@ Geen subsidie wordt verstrekt:
 
 5. In afwijking van [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=III&artikel=4&z=2019-10-01&g=2019-10-01) kan een subsidie worden verstrekt voor een verbouwing die reeds gestart is. De subsidie kan dan alleen worden verstrekt voor kosten die nog niet zijn gemaakt.
 
-#### Artikel 17. Aanvraag
+##### Artikel 17. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -228,7 +250,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. een dekkende begroting met offertes en, indien van toepassing, een omschrijving van de eigen financiële bijdrage van de aanvrager.
 
-#### Artikel 18. Beoordeling
+##### Artikel 18. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie bouwkundige uitbreiding of verbouwing voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt het bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -252,7 +274,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### B. Subsidie herinrichting
 
-#### Artikel 19. Toepasselijkheid
+##### Artikel 19. Toepasselijkheid
 
 1. Subsidies voor een herinrichting kunnen worden verstrekt aan instellingen die ingeschreven zijn in het Museumregister en in het bezit zijn van een collectie op het gebied van WOII.
 
@@ -268,7 +290,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 5. In afwijking van [artikel 4 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=III&artikel=4&z=2019-10-01&g=2019-10-01) kan een subsidie worden verstrekt voor een herinrichting die reeds gestart is. De subsidie kan dan alleen worden verstrekt voor kosten die nog niet zijn gemaakt.
 
-#### Artikel 20. Aanvraag
+##### Artikel 20. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -286,7 +308,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
-#### Artikel 21. Beoordeling
+##### Artikel 21. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie herinrichting voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt het bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -312,7 +334,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### C. Subsidie vernieuwende presentatievormen
 
-#### Artikel 22. Toepasselijkheid
+##### Artikel 22. Toepasselijkheid
 
 1. Subsidies voor vernieuwende presentatievormen kunnen worden verstrekt aan rechtspersonen die geen winstoogmerk hebben.
 
@@ -322,7 +344,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 4. In de toelichting bij het aanvraagformulier zijn de hoogte van de subsidiebedragen, de maximale tegemoetkoming en de hoogte van de eigen bijdrage van de aanvrager genoemd.
 
-#### Artikel 23. Aanvraag
+##### Artikel 23. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -340,7 +362,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
-#### Artikel 24. Beoordeling
+##### Artikel 24. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie vernieuwende presentatievorm voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -366,7 +388,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### D. Subsidie Digitalisering
 
-#### Artikel 25
+##### Artikel 25
 
 1. Subsidies voor digitalisering kunnen worden verstrekt aan musea en/of erfgoedinstellingen die ingeschreven zijn in het Museumregister en/of een Anbi status hebben, publiekstoegankelijk zijn en in het bezit zijn van een collectie op het gebied van WOII.
 
@@ -380,7 +402,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 6. In de toelichting bij het aanvraagformulier zijn de hoogte van de subsidiebedragen, de maximale tegemoetkoming en de hoogte van de eigen bijdrage van de aanvrager genoemd.
 
-#### Artikel 26. Aanvraag
+##### Artikel 26. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -398,7 +420,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
-#### Artikel 27. Beoordeling
+##### Artikel 27. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie digitalisering voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -420,7 +442,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### E. Subsidie Onderzoek
 
-#### Artikel 28
+##### Artikel 28
 
 1. Subsidies voor onderzoek kunnen worden verstrekt aan erfgoedinstellingen, musea en individuele onderzoekers.
 
@@ -434,7 +456,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 6. In de toelichting bij het aanvraagformulier zijn de hoogte van de subsidiebedragen en de maximale tegemoetkoming en de hoogte van de eigen bijdrage van de aanvrager genoemd.
 
-#### Artikel 29. Aanvraag
+##### Artikel 29. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -454,7 +476,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
-#### Artikel 30. Beoordeling
+##### Artikel 30. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een subsidie onderzoek voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -474,7 +496,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### F. Lump sum subsidies
 
-#### Artikel 31. Toepasselijkheid
+##### Artikel 31. Toepasselijkheid
 
 1. Lump sum subsidies kunnen worden verstrekt aan grassroots, zoals bedoeld in [artikel 1 onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=I&artikel=1&z=2019-10-01&g=2019-10-01).
 
@@ -484,7 +506,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 4. Een aanvraag voor een lump sum subsidie wordt niet in behandeling genomen als een eerdere aanvraag voor een lump sum subsidie is gehonoreerd en het project nog niet is afgerond.
 
-#### Artikel 32. Aanvraag
+##### Artikel 32. Aanvraag
 
 Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de aanvraag vergezeld te gaan van:
 
@@ -500,7 +522,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 - –. indien van toepassing toezeggingen van uitnodigende en/of deelnemende partijen.
 
-#### Artikel 33. Beoordeling
+##### Artikel 33. Beoordeling
 
 1. Bij de beoordeling of een aanvraag voor een lump sum subsidie voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=II&artikel=2&z=2019-10-01&g=2019-10-01) geformuleerde doelstelling weegt een bevoegd adviesorgaan de onderstaande aspecten in onderlinge samenhang.
 
@@ -520,7 +542,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### Hoofdstuk VIII. Aan de subsidie verbonden verplichtingen
 
-#### Artikel 34
+##### Artikel 34
 
 1. De subsidie wordt door de ontvanger besteed aan de totstandkoming van de in de aanvraag beschreven activiteiten.
 
@@ -532,7 +554,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 5. Aan de verstrekking van de subsidie kan het bestuur andere dan de in dit artikel genoemde verplichtingen verbinden ter zake van de uitvoering van het plan, de presentatie van de resultaten, de verslaglegging en de afrekening van de subsidie.
 
-#### Artikel 35. Beslissing en vaststelling subsidies lager dan € 25.000
+##### Artikel 35. Beslissing en vaststelling subsidies lager dan € 25.000
 
 1. In de beschikking voor een subsidie tot een bedrag van € 25.000 wordt de looptijd van de subsidie vermeld en de datum waarop de eventuele activiteiten uiterlijk moeten zijn verricht.
 
@@ -548,7 +570,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 7. Indien aannemelijk is dat gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden of zijn verricht of dat de daadwerkelijke subsidiabele kosten lager zijn dan begroot, kan het bestuur de subsidie verlagen dan wel de toekenning intrekken. Reeds betaalde bedragen inclusief wettelijke rente kunnen worden verrekend dan wel worden teruggevorderd.
 
-#### Artikel 36. Beslissing en vaststelling subsidies van € 25.000 tot € 125.000
+##### Artikel 36. Beslissing en vaststelling subsidies van € 25.000 tot € 125.000
 
 1. Subsidies tussen de € 25.000 en € 125.000 worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing. In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
 
@@ -566,7 +588,7 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 8. Indien aannemelijk is dat gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens alle daaraan verbonden verplichtingen zullen worden of zijn verricht of dat de daadwerkelijke subsidiabele kosten lager zijn dan begroot, kan het bestuur de subsidie verlagen dan wel de toekenning intrekken. Reeds betaalde bedragen inclusief wettelijke rente kunnen worden verrekend dan wel naar rato worden teruggevorderd.
 
-#### Artikel 37. Beslissing en vaststelling subsidies hoger dan € 125.000
+##### Artikel 37. Beslissing en vaststelling subsidies hoger dan € 125.000
 
 1. Subsidies die meer bedragen dan € 125.000 worden als voorschot uitgekeerd binnen zes weken na de positieve beslissing als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042606&hoofdstuk=V&artikel=11&z=2019-10-01&g=2019-10-01). In de beschikking tot subsidieverlening wordt de datum vermeld waarop de activiteiten uiterlijk moeten zijn verricht.
 
@@ -586,13 +608,13 @@ Naast de bepalingen in het aanvraagformulier en de toelichting daarbij dient de 
 
 ### Hoofdstuk IX. Bezwaar
 
-#### Artikel 38
+##### Artikel 38
 
 Bezwaarschriften worden conform de procedure in [artikel 16 van het Algemeen Reglement van het Mondriaan Fonds](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) behandeld.
 
 ### Hoofdstuk X. Slot- en overgangsbepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 

@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, reikwijdte VAVO-arrest bij samenwerkingen"
 identifier: "BWBR0042528"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-09-05
-laatste_update: 2019-08-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042528"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-09-05"
+last_updated: "2019-08-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042528"
+soort: "beleidsregel"
+stam_id: "15155843"
+version_id: "25986552"
+internal_id: "C37015341"
+label_id: "15103394"
+dtd_version: "2.0"
+original_entry_into_force: "2019-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042528/2019-09-05/0"
+intitule_bron: "Stcrt.2019-49314"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-08-09"
+intitule_published: "2019-09-04"
+intitule_in_force: "2019-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-49314"
+original_signed_date: "2019-08-09"
+original_published_date: "2019-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-49314"
+entry_into_force_date: "2019-09-05"
+jci_1_3: "jci1.3:c:BWBR0042528&z=2019-09-05&g=2019-09-05"
+jci_1_0: "1.0:c:BWBR0042528&g=2019-09-05"
+citeertitel_status: "redactioneel"
+signed_date: "2019-08-09"
+entry_into_force: "2019-09-05"
 ---
-
 # Omzetbelasting, reikwijdte VAVO-arrest bij samenwerkingen
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

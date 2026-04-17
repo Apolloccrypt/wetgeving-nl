@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021"
+title: "Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)"
 identifier: "BWBR0045326"
-categorie: "Strafrecht"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045326"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045326"
+soort: "beleidsregel"
+stam_id: "16007673"
+version_id: "27862682"
+internal_id: "C39295461"
+label_id: "15942164"
+dtd_version: "2.0"
+original_entry_into_force: "2021-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045326/2024-04-01/0"
+intitule_bron: "Stcrt.2021-33851"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-06-28"
+intitule_published: "2021-07-01"
+intitule_in_force: "2021-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-33851"
+original_signed_date: "2021-06-28"
+original_published_date: "2021-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-33851"
+entry_into_force_date: "2021-09-01"
+jci_1_3: "jci1.3:c:BWBR0045326&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0045326&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021"
+signed_date: "2021-06-28"
+entry_into_force: "2021-09-01"
 ---
-
 # Beleidsregels van de Minister voor Rechtsbescherming van 28 juni 2021, kenmerk 2772918, betreffende de tenuitvoerlegging strafrechtelijke beslissingen (Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021)
 
 Besluit:
@@ -16,7 +42,7 @@ Besluit:
 
 ## Titel 1.1. Algemene bepalingen
 
-#### Artikel 1:1. Begripsbepalingen
+##### Artikel 1:1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -86,7 +112,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ## Titel 1.2. Persoonsgericht werken
 
-#### Artikel 1:2. Persoonsgericht werken
+##### Artikel 1:2. Persoonsgericht werken
 
 Bij de afwegingen voorafgaand aan iedere beslissing die tijdens de tenuitvoerlegging van één of meerdere strafrechtelijke beslissingen wordt genomen, worden in ieder geval betrokken:
 
@@ -94,7 +120,7 @@ Bij de afwegingen voorafgaand aan iedere beslissing die tijdens de tenuitvoerleg
 
 - b. het advies van de officier van justitie of de rechter ten aanzien van de tenuitvoerlegging van strafrechtelijke beslissing(en), voor zover dit advies is gegeven.
 
-#### Artikel 1:3. Gebruik adressen ten behoeve van de tenuitvoerlegging
+##### Artikel 1:3. Gebruik adressen ten behoeve van de tenuitvoerlegging
 
 1. Natuurlijke personen die onderwerp zijn van de tenuitvoerlegging van één of meerdere sancties, worden per post aangeschreven op het tijdens de opsporing, vervolging of berechting opgegeven adres, dan wel op het adres uit de basisregistratie personen.
 
@@ -102,17 +128,17 @@ Bij de afwegingen voorafgaand aan iedere beslissing die tijdens de tenuitvoerleg
 
 3. Indien een persoon niet kan worden bereikt op een adres als bedoeld in het eerste en tweede lid, kan een adres worden gebruikt waarvan een indicatie bestaat dat die persoon daar wel kan worden bereikt.
 
-#### Artikel 1:4. Niet geslaagde tenuitvoerlegging strafbeschikking
+##### Artikel 1:4. Niet geslaagde tenuitvoerlegging strafbeschikking
 
 Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over verdere vervolging, indien de tenuitvoerlegging van een strafbeschikking geheel of ten dele niet is geslaagd.
 
-#### Artikel 1:5. Relaties tussen verschillende strafrechtelijke beslissingen
+##### Artikel 1:5. Relaties tussen verschillende strafrechtelijke beslissingen
 
 1. Indien een maatregel opname psychiatrisch ziekenhuis, terbeschikkingstelling, plaatsing in een justitiële jeugdinrichting of opname in een inrichting voor stelselmatige daders ten uitvoer wordt gelegd, wordt afgezien van de tenuitvoerlegging van de vervangende hechtenis dan wel gijzeling, en wordt afgezien van het indienen van een verzoek om omzetting van de vervangende hechtenis dan wel de (machtiging) gijzeling inzake geldelijke sancties.
 
 2. Indien de veroordeelde die een ISD-maatregel ondergaat geldelijke sancties open heeft staan, wordt hiervoor zoveel mogelijk een betalingsregeling getroffen in samenhang met andere openstaande schulden voorafgaand aan de tussentijdse toets.
 
-#### Artikel 1:6. Verzoek tot weigering of vervallenverklaring van een paspoort
+##### Artikel 1:6. Verzoek tot weigering of vervallenverklaring van een paspoort
 
 1. Ter vaststelling van gegrond vermoeden als bedoeld in [artikel 18, tweede lid, Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=18), op basis waarvan het CJIB/AICE om de weigering of vervallenverklaring van het reisdocument van een veroordeelde kan verzoeken, gaat het CJIB/AICE ten minste na of die veroordeelde niet meewerkt of eerder niet heeft meegewerkt aan de tenuitvoerlegging van een strafrechtelijke beslissing, en of zich één van de andere, hierna volgende indicatoren voordoen die het in samenhang met andere ter zake relevante omstandigheden aannemelijk maken dat de veroordeelde zich door verblijf buiten de grenzen van een van de landen van het Koninkrijk zal onttrekken aan de tenuitvoerlegging van de in dat artikel bedoelde straffen of maatregelen:
 
@@ -130,7 +156,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 ## Titel 2.1. Detentie- en arrestatiegeschikt
 
-#### Artikel 2:1. Detentiegeschiktheid
+##### Artikel 2:1. Detentiegeschiktheid
 
 1. De veroordeelde die van mening is dat hij om medische redenen niet detentiegeschikt is, kan een verzoek indienen om onderzoek te laten verrichten naar zijn detentiegeschiktheid.
 
@@ -142,7 +168,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 - b. ten behoeve van het verzoek van de veroordeelde, niet zijnde de veroordeelde die zich moet melden in een inrichting als bedoeld in [artikel 2:4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.2&artikel=2:4&z=2024-04-01&g=2024-04-01), de toestemmingsverklaring niet binnen zeven dagen na verzending door de medisch adviseur van DJI is ontvangen.
 
-#### Artikel 2:2. Advies medisch adviseur
+##### Artikel 2:2. Advies medisch adviseur
 
 1. Indien de medisch adviseur van DJI adviseert dat de veroordeelde die niet in detentie zit tijdelijk niet detentiegeschikt is, kan de selectiefunctionaris van DJI besluiten de tenuitvoerlegging op te schorten voor de termijn als vermeld in het advies van de medisch adviseur, tenzij zich feiten en omstandigheden voordoen die maken dat de afwezigheid van detentiegeschiktheid in twijfel moet worden getrokken. De veroordeelde wordt over de beslissing naar aanleiding van het advies geïnformeerd.
 
@@ -156,7 +182,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 6. De tenuitvoerlegging van de initiële vrijheidsbeperkende of geldelijke sanctie, waarbij is besloten tot vervangende hechtenis, jeugddetentie of gijzeling, wordt hervat, indien de medisch adviseur van DJI blijvende afwezigheid van detentiegeschiktheid adviseert waardoor die vrijheidsbenemende sancties niet ten uitvoer gelegd kan worden.
 
-#### Artikel 2:3. Arrestatiegeschiktheid
+##### Artikel 2:3. Arrestatiegeschiktheid
 
 1. Indien aanhouding niet mogelijk is wegens persoonlijke omstandigheden van de veroordeelde, kan op dat moment van aanhouding worden afgezien. Onder persoonlijke omstandigheden wordt in ieder geval verstaan dat de veroordeelde die gearresteerd moet worden:
 
@@ -174,7 +200,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 ## Titel 2.2. Oproep tot zelfmelding
 
-#### Artikel 2:4. Oproep tot zelfmelding dan wel de intrekking daarvan
+##### Artikel 2:4. Oproep tot zelfmelding dan wel de intrekking daarvan
 
 1. Het CJIB/AICE beoordeelt met in achtneming van [artikel 2:1 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0042978&artikel=2:1) of de veroordeelde wordt opgeroepen om zichzelf te melden voor de tenuitvoerlegging van een vrijheidsbenemende sanctie.
 
@@ -190,7 +216,7 @@ Het CJIB/AICE verzoekt de officier van justitie een beslissing te nemen over ver
 
 ## Titel 2.3. Uitzondering op (weekend)ontslag
 
-#### Artikel 2:5. Uitzondering op (weekend)ontslag
+##### Artikel 2:5. Uitzondering op (weekend)ontslag
 
 De directeur van de justitiële inrichting kan de veroordeelde van wie de laatste dag van de straftijd een zaterdag, zondag of een algemeen erkende feestdag is, maximaal vier dagen eerder dan deze laatste dag in vrijheid stellen, voor zover dit noodzakelijk is om te borgen dat vervolghandelingen met betrekking tot:
 
@@ -210,13 +236,13 @@ direct daarop aansluitend kunnen volgen.
 
 ## Titel 2.4. Levenslange gevangenisstraf
 
-#### Artikel 2:6. Levenslange gevangenisstraf
+##### Artikel 2:6. Levenslange gevangenisstraf
 
 In het jaar nadat de levenslange gevangenisstraf van een veroordeelde onherroepelijk is geworden, wordt via het Nederlands Instituut voor Forensische Psychiatrie en Psychologie een (aanvullende) Pro Justitia-rapportage opgesteld voor een adequate inschatting van de zorgbehoefte van de tot levenslang veroordeelde.
 
 ## Titel 2.5. Andere relevante personen
 
-#### Artikel 2:7. Belangen van andere relevante personen
+##### Artikel 2:7. Belangen van andere relevante personen
 
 Ter uitvoering van [artikel 15, tweede lid, aanhef en onder c, van de Regeling tijdelijk verlaten van de inrichting](https://wetten.overheid.nl/jci1.3:c:BWBR0010171&artikel=15) wordt onder andere relevante personen als bedoeld in dat artikel in ieder geval verstaan:
 
@@ -228,7 +254,7 @@ Ter uitvoering van [artikel 15, tweede lid, aanhef en onder c, van de Regeling t
 
 ## Titel 3.1. Tenuitvoerlegging algemene en bijzondere voorwaarden
 
-#### Artikel 3:1. Waarschuwing tijdens tenuitvoerlegging toezicht
+##### Artikel 3:1. Waarschuwing tijdens tenuitvoerlegging toezicht
 
 De uitvoerder van het toezicht kan een schriftelijke waarschuwing aan de onder toezicht gestelde geven wegens het niet naar behoren naleven van de voorwaarden. Een schriftelijke waarschuwing aan de onder toezicht gestelde wordt in ieder geval gegeven indien:
 
@@ -240,7 +266,7 @@ De uitvoerder van het toezicht kan een schriftelijke waarschuwing aan de onder t
 
 - d. de onder toezicht gestelde agressief gedrag vertoont, gericht op de uitvoerder van het toezicht.
 
-#### Artikel 3:2. Normen voor verzoek vervolgbeslissing toezicht
+##### Artikel 3:2. Normen voor verzoek vervolgbeslissing toezicht
 
 1. De uitvoerder van het toezicht verzoekt de officier van justitie in ieder geval om een vervolgbeslissing te nemen als bedoeld in [artikel 6:3:14, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:14) indien:
 
@@ -254,13 +280,13 @@ De uitvoerder van het toezicht kan een schriftelijke waarschuwing aan de onder t
 
 3. De uitvoerder van het toezicht kan de officier van justitie verzoeken een vervolgbeslissing te nemen gericht op de beëindiging van het toezicht, indien de onder toezicht gestelde aan alle voorwaarden heeft voldaan.
 
-#### Artikel 3:3. Openstaande voorwaarden bij schorsing voorlopige hechtenis
+##### Artikel 3:3. Openstaande voorwaarden bij schorsing voorlopige hechtenis
 
 Het toezicht op voorwaarden die zijn gesteld bij schorsing van een bevel tot voorlopige hechtenis wordt uiterlijk beëindigd op het moment dat het vonnis of arrest met betrekking tot het strafbare feit waarvoor de voorlopige hechtenis was verleend, onherroepelijk is geworden.
 
 ## Titel 3.2. Tenuitvoerlegging taakstraf
 
-#### Artikel 3:4. Waarschuwing tijdens tenuitvoerlegging taakstraffen
+##### Artikel 3:4. Waarschuwing tijdens tenuitvoerlegging taakstraffen
 
 Een schriftelijk waarschuwing als bedoeld in [artikel 3:19 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0042962&artikel=3:19) wordt in ieder geval gegeven, indien:
 
@@ -274,7 +300,7 @@ Een schriftelijk waarschuwing als bedoeld in [artikel 3:19 van het besluit](http
 
 - e. de taakgestrafte agressief gedrag vertoont, gericht op de uitvoerder taakstraffen of anderen binnen het project waar de taakgestrafte geplaatst is.
 
-#### Artikel 3:5. Normen voor verzoek vervolgbeslissing taakstraffen
+##### Artikel 3:5. Normen voor verzoek vervolgbeslissing taakstraffen
 
 De uitvoerder taakstraffen kan de officier van justitie in ieder geval om een vervolgbeslissing verzoeken indien:
 
@@ -290,23 +316,23 @@ De uitvoerder taakstraffen kan de officier van justitie in ieder geval om een ve
 
 ## Titel 4.1. Algemeen
 
-#### Artikel 4:1. Fasen en volgorde
+##### Artikel 4:1. Fasen en volgorde
 
 Geldelijke sancties worden in volgorde van inning, incasso en dwang dan wel vervangende hechtenis tenuitvoergelegd, tenzij een persoonsgerichte tenuitvoerlegging aanleiding geeft hiervan af te wijken.
 
-#### Artikel 4:2. Betaling
+##### Artikel 4:2. Betaling
 
 1. Het CJIB doet bij de aanschrijving van een geldelijke sanctie aan de betalingsplichtige mededeling van de vervaldatum en de aangewezen rekening van het CJIB waarop de betaling moet plaatsvinden.
 
 2. Een eventueel opgelegde verhoging wordt ongedaan gemaakt indien de betalingsplichtige kan aantonen dat de betaling niet tijdig bij het CJIB is ontvangen als gevolg van een fout van de bank. Daartoe overlegt de betalingsplichtige een schriftelijke verklaring van de bank die opdracht heeft ontvangen tot overmaking van het verschuldigde bedrag.
 
-#### Artikel 4:3. Conservatoir beslag
+##### Artikel 4:3. Conservatoir beslag
 
 Het uitwinnen van conservatoir beslag op grond van [artikel 94a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=94a) vindt niet eerder plaats dan nadat de betalingsplichtige in de gelegenheid is gesteld het verschuldigde bedrag te betalen. Het bepaalde is eveneens van toepassing indien het in beslag genomen voorwerp op grond van [artikel 117 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=117) is vervreemd voorafgaand aan de tenuitvoerlegging van de strafrechtelijk beslissing door het CJIB.
 
 ## Titel 4.2. Inningsfase
 
-#### Artikel 4:4. Aanmaningen geldboete vonnis, arrest en strafbeschikking
+##### Artikel 4:4. Aanmaningen geldboete vonnis, arrest en strafbeschikking
 
 1. De betalingsplichtige ontvangt geen aanmaningen tot betaling van een geldboete voorafgaand aan het moment waarop het vonnis of arrest tot betaling van een geldboete onherroepelijk wordt.
 
@@ -316,17 +342,17 @@ Het uitwinnen van conservatoir beslag op grond van [artikel 94a van de wet](http
 
 ## Titel 4.3. Incassofase
 
-#### Artikel 4:5. Verhaal
+##### Artikel 4:5. Verhaal
 
 Van de toepassing van verhaal met of zonder dwangbevel als bedoeld in [artikel 6:4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5) en [6:4:6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:6) en [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=26) en [27 Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=27) kan worden afgezien als er voldoende aanwijzingen zijn die aannemelijk maken dat het niet zal leiden tot volledige voldoening van de betalingsverplichting.
 
-#### Artikel 4:6. Inschakeling deurwaarder
+##### Artikel 4:6. Inschakeling deurwaarder
 
 Met de tenuitvoerlegging van meerdere dwangbevelen als bedoeld in [artikel 6:4:5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:5), ten behoeve van het verhaal van goederen onder één persoon, wordt zo veel mogelijk één gerechtsdeurwaarder belast.
 
 ## Titel 4.4. Gijzeling, vervangende hechtenis en lijfsdwang
 
-#### Artikel 4:7. Gijzeling en vervangende hechtenis
+##### Artikel 4:7. Gijzeling en vervangende hechtenis
 
 1. Het verzoek om een vervolgbeslissing aan het OM, ingeval een volledige betaling is uitgebleven, teneinde gijzeling te vorderen of de beslissing om vervangende hechtenis ingeval van schadevergoedingsmaatregel toe te passen, blijft in ieder geval achterwege indien:
 
@@ -338,17 +364,17 @@ Met de tenuitvoerlegging van meerdere dwangbevelen als bedoeld in [artikel 6:4:5
 
 2. Indien de betalingsplichtige die gegijzeld is geweest of vervangend is gehecht na de tenuitvoerlegging van die eerdere gijzeling of vervangende hechtenis niet overgaat tot betaling, beoordeelt het CJIB, met inachtneming van de wettelijk toegestane duur van de gijzeling, of het OM wordt verzocht om de betalingsplichtige te gijzelen voor het restant of daartoe een vordering in te stellen dan wel het restant van de vervangende hechtenis toe te passen.
 
-#### Artikel 4:8. Waarschuwingsbrief
+##### Artikel 4:8. Waarschuwingsbrief
 
 Het CJIB verzendt voorafgaand aan de toepassing van vervangende hechtenis of het gijzeling een waarschuwingsbrief.
 
-#### Artikel 4:9. Beëindigen gijzeling, vervangende hechtenis schadevergoedingsmaatregel en lijfsdwang ontnemingsmaatregel
+##### Artikel 4:9. Beëindigen gijzeling, vervangende hechtenis schadevergoedingsmaatregel en lijfsdwang ontnemingsmaatregel
 
 1. De gijzeling of vervangende hechtenis bij een schadevergoedingsmaatregel, of lijfsdwang bij een ontnemingsmaatregel kan voortijdig worden beëindigd indien de betalingsplichtige volgens het CJIB volledig buiten staat is om de geldelijke sanctie te voldoen of indien volgens het CJIB andere bijzondere omstandigheden daartoe aanleiding geven.
 
 2. Een gijzeling, vervangende hechtenis of lijfsdwang wordt niet beëindigd in geval van een deelbetaling.
 
-#### Artikel 4:10. Bijzonderheden schadevergoedings- en ontnemingsmaatregelen
+##### Artikel 4:10. Bijzonderheden schadevergoedings- en ontnemingsmaatregelen
 
 1. In aanvulling op [artikel 6:4:7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:7) kan, indien de verhaalsmogelijkheden zijn uitgeput of van verhaal is afgezien, vervangende hechtenis worden toegepast ten aanzien van een schadevergoedingsmaatregel die op grond van een arrest of vonnis van voor inwerkingtreding van de [Wet herziening tenuitvoerlegging strafrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0039301) is gewezen.
 
@@ -358,35 +384,35 @@ Het CJIB verzendt voorafgaand aan de toepassing van vervangende hechtenis of het
 
 ## Titel 4.5. Slachtoffers
 
-#### Artikel 4:11. Opschorting uitkering voorschotregeling bij verzet strafbeschikking
+##### Artikel 4:11. Opschorting uitkering voorschotregeling bij verzet strafbeschikking
 
 Een eventuele uitkering aan het slachtoffer op basis van de voorschotregeling als bedoeld in [artikel 6:4:2, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2), wordt opgeschort indien tegen een strafbeschikking met een schadevergoedingsmaatregel verzet is ingesteld als bedoeld in [artikel 257e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257e).
 
-#### Artikel 4:12. Overlijden slachtoffer
+##### Artikel 4:12. Overlijden slachtoffer
 
 Aan eventuele erfgenamen van een slachtoffer dat overlijdt voordat een recht op een uitkering uit het voorschotfonds ingevolge [artikel 6:4:2, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:4:2) ontstaat, wordt niet uitgekeerd.
 
-#### Artikel 4:13. Einde inning schadevergoedingsmaatregel
+##### Artikel 4:13. Einde inning schadevergoedingsmaatregel
 
 Het CJIB beëindigt de inning en incasso van de schadevergoedingsmaatregel definitief indien het slachtoffer zelf afspraken maakt met betrekking tot de betaling van de toegewezen schadevergoeding met de betalingsplichtige. Het niet nakomen van dergelijke afspraken door de betalingsplichtige kan niet leiden tot heropening van de zaak door het CJIB.
 
 ## Titel 4.6. Betalingsregelingen
 
-#### Artikel 4:14. Reikwijdte
+##### Artikel 4:14. Reikwijdte
 
 Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betrekking hebben op administratieve sancties op grond van de [Wahv](https://wetten.overheid.nl/jci1.3:c:BWBR0004581), geldboetes, schadevergoedings- en ontnemingsmaatregelen en inkomende geldelijke sancties.
 
-#### Artikel 4:15. Uitvoering van met de rechter of officier van justitie getroffen betalingsregeling
+##### Artikel 4:15. Uitvoering van met de rechter of officier van justitie getroffen betalingsregeling
 
 1. De bepalingen in deze titel zijn van overeenkomstige toepassing op de tenuitvoerlegging van een betalingsregeling die door de rechter of de officier van justitie wordt toegestaan. Voor zover het CJIB tevens voor één of meer andere openstaande vorderingen een betalingsregeling toestaat, worden de betalingsregelingen samengevoegd tot één betalingsregeling.
 
 2. Bij de tenuitvoerlegging van een betalingsregeling die door de rechter of de officier van justitie wordt toegestaan, kan het CJIB op verzoek van de betalingsplichtige gunstigere voorwaarden hanteren.
 
-#### Artikel 4:16. Opschorting
+##### Artikel 4:16. Opschorting
 
 1. De inning en incasso van geldelijke sancties ten aanzien waarvan een betalingsregeling is getroffen, wordt opgeschort voor de duur van die betalingsregeling.
 
-#### Artikel 4:17. Bijzonderheden ten aanzien van het treffen van een betalingsregeling
+##### Artikel 4:17. Bijzonderheden ten aanzien van het treffen van een betalingsregeling
 
 1. Een betalingsregeling kan slechts worden getroffen voor ten hoogste de duur van de tenuitvoerleggingstermijn van de geldelijke sancties waarop zij betrekking heeft.
 
@@ -396,7 +422,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 4. Een betalingsregeling, niet zijnde een draagkrachtregeling als bedoeld in [artikel 4:19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:19&z=2024-04-01&g=2024-04-01), kan slechts worden toegestaan met het oog op een volledige voldoening van de betalingsverplichtingen. Percentagevoorstellen tegen finale kwijting worden niet toegestaan.
 
-#### Artikel 4:18. Standaardregeling
+##### Artikel 4:18. Standaardregeling
 
 1. Een standaardregeling voor één of meer openstaande vorderingen kan worden getroffen indien sprake is van geldelijke sancties waarvoor nog geen verhaal met dwangbevel of een dwangmiddel of vervangende hechtenis wordt toegepast.
 
@@ -404,7 +430,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 3. De termijnbedragen voor de standaardregeling en het aantal daarvoor geldende termijnen worden op de website van het CJIB gepubliceerd. Bij het bepalen van het termijnbedrag kan een begrenzing plaatsvinden tot een maximaal openstaand bedrag en maximum aantal maanden.
 
-#### Artikel 4:19. Maatwerkregeling
+##### Artikel 4:19. Maatwerkregeling
 
 1. Een maatwerkregeling kan worden getroffen indien er sprake is van bijzondere omstandigheden en de standaardregeling niet mogelijk is of geen uitkomst biedt.
 
@@ -414,7 +440,7 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 4. Een draagkrachtregeling kan worden getroffen indien er sprake is van bijzondere omstandigheden en de reguliere maatwerkregeling niet mogelijk is, of geen uitkomst biedt.
 
-#### Artikel 4:20. Uitstel van betaling
+##### Artikel 4:20. Uitstel van betaling
 
 1. Uitstel van betaling kan worden verleend als de betalingsplichtige aannemelijk maakt dat volledige betaling of een significante deelbetaling binnen een redelijke termijn zal volgen.
 
@@ -424,21 +450,21 @@ Betalingsregelingen kunnen in ieder geval worden toegestaan voor zover zij betre
 
 4. Uitstel van betaling voor onbepaalde duur wordt niet verleend.
 
-#### Artikel 4:21. Wijze van indienen verzoek betalingsregeling
+##### Artikel 4:21. Wijze van indienen verzoek betalingsregeling
 
 1. Een verzoek om een betalingsregeling wordt bij voorkeur via de daarvoor opengestelde elektronische weg ingediend.
 
 2. Het CJIB kan van de betalingsplichtige in geval van een telefonisch verzoek alsnog verlangen om het verzoek via de opengestelde elektronische weg of schriftelijk in te dienen bij het CJIB.
 
-#### Artikel 4:22. Medewerking verlenen
+##### Artikel 4:22. Medewerking verlenen
 
 Het CJIB kan van de betalingsplichtige die verzoekt om een betalingsregeling, verlangen dat hij gegevens met betrekking tot zijn inkomen of vermogen overlegt ter onderbouwing van zijn betalingsonmacht of de betalingscapaciteit.
 
-#### Artikel 4:23. Voeging van vorderingen
+##### Artikel 4:23. Voeging van vorderingen
 
 In bijzondere gevallen kunnen vorderingen na het tot stand komen van een betalingsregeling in die betalingsregeling worden gevoegd.
 
-#### Artikel 4:24. Voorwaarden
+##### Artikel 4:24. Voorwaarden
 
 Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden worden gesteld dat:
 
@@ -454,7 +480,7 @@ Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden
 
 - f. de betalingsplichtige iedere wijziging in diens financiële situatie onverwijld meldt.
 
-#### Artikel 4:25. Weigeringsgronden
+##### Artikel 4:25. Weigeringsgronden
 
 1. Een verzoek tot het treffen van een betalingsregeling wordt in ieder geval afgewezen, indien:
 
@@ -472,7 +498,7 @@ Bij het toestaan van een betalingsregeling kunnen in ieder geval als voorwaarden
 
 - c. de betalingsproblemen structureel zijn en een betalingsregeling naar het oordeel van het CJIB geen uitkomst zal bieden.
 
-#### Artikel 4:26. Uitgesloten vorderingen
+##### Artikel 4:26. Uitgesloten vorderingen
 
 De volgende vorderingen worden niet toegestaan als onderdeel van een betalingsregeling:
 
@@ -480,7 +506,7 @@ De volgende vorderingen worden niet toegestaan als onderdeel van een betalingsre
 
 - b. vorderingen inzake een strafbeschikking die zijn overgedragen aan de officier van justitie teneinde een beslissing te nemen met betrekking tot de vervolging van de zaak.
 
-#### Artikel 4:27. Informatie bij het toestaan van de betalingsregeling
+##### Artikel 4:27. Informatie bij het toestaan van de betalingsregeling
 
 Bij het toestaan van een betalingsregeling wordt de betalingsplichtige geïnformeerd over:
 
@@ -494,11 +520,11 @@ Bij het toestaan van een betalingsregeling wordt de betalingsplichtige geïnform
 
 - e. betalingsherinneringen bij niet tijdige voldoening van termijnbedragen.
 
-#### Artikel 4:28. Betalingsherinnering
+##### Artikel 4:28. Betalingsherinnering
 
 Indien de betalingsplichtige het termijnbedrag van een betalingsregeling niet binnen de gestelde termijn betaalt, stuurt het CJIB eenmalig een betalingsherinnering met het verzoek het termijnbedrag alsnog te voldoen. In de betalingsherinnering wordt aangegeven dat het CJIB binnen de eerstvolgende termijn zowel het alsdan te betalen termijnbedrag, als het bedrag dat eerder niet is betaald, moet hebben ontvangen.
 
-#### Artikel 4:29. Voortijdige beëindiging betalingsregeling
+##### Artikel 4:29. Voortijdige beëindiging betalingsregeling
 
 1. Het CJIB kan de betalingsregeling in ieder geval beëindigen, indien:
 
@@ -514,57 +540,57 @@ Indien de betalingsplichtige het termijnbedrag van een betalingsregeling niet bi
 
 2. Indien de betalingsregeling voortijdig wordt beëindigd door het CJIB, informeert het CJIB de betalingsplichtige over de reden daarvan en het vervolg.
 
-#### Artikel 4:30. Gevolg voortijdige beëindiging betalingsregeling door CJIB
+##### Artikel 4:30. Gevolg voortijdige beëindiging betalingsregeling door CJIB
 
 1. Indien de betalingsregeling wordt beëindigd door het CJIB, wordt de betalingsplichtige in de gelegenheid gesteld om binnen 30 dagen het totaal openstaande bedrag in één keer te voldoen. Na deze periode wordt de tenuitvoerlegging hervat van de geldelijke sancties waarop de betalingsregeling betrekking had.
 
 2. Het bepaalde in het eerste lid is niet van toepassing wanneer er sprake is van de situatie als opgenomen in [artikel 4:29, eerste lid 1, onder d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&artikel=4:29&z=2024-04-01&g=2024-04-01).
 
-#### Artikel 4:31. Eindigen van de betalingsregeling
+##### Artikel 4:31. Eindigen van de betalingsregeling
 
 De betalingsregeling eindigt indien alle openstaande vorderingen zijn voldaan binnen de gestelde termijn of deeltermijnen.
 
 ## Titel 4.7. [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581)
 
-#### Artikel 4:32. Toepasselijke bepalingen
+##### Artikel 4:32. Toepasselijke bepalingen
 
 De [artikelen 1:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=1&titeldeel=1.2&artikel=1:3&z=2024-04-01&g=2024-04-01), [2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:1&z=2024-04-01&g=2024-04-01), [2:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:2&z=2024-04-01&g=2024-04-01), [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.1&artikel=2:3&z=2024-04-01&g=2024-04-01), [2:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=2&titeldeel=2.3&artikel=2:5&z=2024-04-01&g=2024-04-01), [4:1](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:1&z=2024-04-01&g=2024-04-01), [4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.1&artikel=4:2&z=2024-04-01&g=2024-04-01), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:5&z=2024-04-01&g=2024-04-01), [4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.3&artikel=4:6&z=2024-04-01&g=2024-04-01), [4:7](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:7&z=2024-04-01&g=2024-04-01), [4:8](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:8&z=2024-04-01&g=2024-04-01), [4:9](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.4&artikel=4:9&z=2024-04-01&g=2024-04-01) en [titel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0045326&hoofdstuk=4&titeldeel=4.6&z=2024-04-01&g=2024-04-01) zijn van overeenkomstige toepassing op de tenuitvoerlegging van administratieve sancties op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581).
 
-#### Artikel 4:33. Zekerheidsstelling in beroep
+##### Artikel 4:33. Zekerheidsstelling in beroep
 
 Als de betalingsplichtige beroep instelt tegen een administratieve sanctie bij de rechtbank dient het bedrag ter zekerheidstelling als bedoeld in [artikel 11, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=11), aan het CJIB te worden betaald.
 
-#### Artikel 4:34. Ongerichte betaling
+##### Artikel 4:34. Ongerichte betaling
 
 Indien een ongerichte betaling bij het CJIB binnenkomt en er geen strafrechtelijke vorderingen openstaan, wordt de betaling bestemd op openstaande Wahv vorderingen.
 
-#### Artikel 4:35. Inneming rijbewijs
+##### Artikel 4:35. Inneming rijbewijs
 
 1. Voorafgaand aan de inneming van het rijbewijs ontvangt de betalingsplichtige een aanschrijving om het rijbewijs in te leveren of de vordering te betalen.
 
 2. Indien het rijbewijs van de betalingsplichtige reeds is ingevorderd uit andere hoofde, vindt binnen drie maanden opnieuw een beoordeling plaats of het rijbewijs alsnog kan worden ingenomen.
 
-#### Artikel 4:36. Buitengebruikstelling
+##### Artikel 4:36. Buitengebruikstelling
 
 De opbrengst van de verkoop van het buiten gebruik gestelde voertuig strekt tot voldoening van de vordering. Een eventuele meeropbrengst strekt tot voldoening van andere nog bij het CJIB openstaande vorderingen. Een eventueel restant wordt gestort in de Rijkskas.
 
-#### Artikel 4:37. [Minnelijke Schuldregeling Natuurlijke Personen](https://wetten.overheid.nl/jci1.3:c:BWBR0013149)
+##### Artikel 4:37. [Minnelijke Schuldregeling Natuurlijke Personen](https://wetten.overheid.nl/jci1.3:c:BWBR0013149)
 
 Indien administratieve sancties resteren na afloop van een regeling op grond van de [Minnelijke Schuldregeling Natuurlijke Personen](https://wetten.overheid.nl/jci1.3:c:BWBR0013149), beoordeelt het CJIB of de inning daarvan wordt beëindigd.
 
-#### Artikel 4:38. Buiten invordering stellen
+##### Artikel 4:38. Buiten invordering stellen
 
 Het CJIB stelt de administratieve sanctie buiten invordering, indien hiertoe door CJIB op basis van redelijkheid of doelmatigheid wordt besloten.
 
 ### Hoofdstuk 5. Gratie
 
-#### Artikel 5:1. Buiten behandeling laten van een verzoekschrift
+##### Artikel 5:1. Buiten behandeling laten van een verzoekschrift
 
 1. Een verzoek tot gratie dat is ingediend met betrekking tot een taakstraf, wordt buiten behandeling gelaten in het geval bij de officier van justitie tevens een verzoek is ingediend tot wijziging van die taakstraf op grond van [artikel 6:3:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:3:2).
 
 2. In de gevallen waarin het aanstonds duidelijk is dat het verzoek strekt tot een algehele kwijtschelding van de taakstraf, omdat de veroordeelde vanwege zijn geestelijke of lichamelijke gesteldheid nooit in staat zal zijn deze te verrichten, kan het gratieverzoek, als aan de overige vereisten van de [gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257) is voldaan, meteen in behandeling worden genomen.
 
-#### Artikel 5:2. Opschortende/schorsende werking
+##### Artikel 5:2. Opschortende/schorsende werking
 
 Onverminderd [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:7:2) kan de Minister ambtshalve of op verzoek van de veroordeelde de tenuitvoerlegging van de straf waarvan gratie wordt verzocht opschorten, indien het naar zijn oordeel hoogstwaarschijnlijk is dat het verzoek om gratie wordt ingewilligd. De Minister kan in ieder geval opschorten, indien:
 
@@ -578,7 +604,7 @@ Onverminderd [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - e. er sprake is van expliciete ondersteuning door de Minister of een voorstel tot gratieverlening in overweging wordt genomen door de Minister.
 
-#### Artikel 5:3. Omzetting van een sanctie in een taakstraf
+##### Artikel 5:3. Omzetting van een sanctie in een taakstraf
 
 1. De beslissing op het verzoek tot gratie om een opgelegde sanctie om te zetten in een taakstraf, wordt maximaal achttien maanden aangehouden indien de op grond van de [Gratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0004257) betrokken adviserende organisatie hiertoe adviseert en de Minister voormeld advies overneemt, zodat de veroordeelde de taakstraf kan verrichten.
 
@@ -590,15 +616,15 @@ Onverminderd [artikel 6:7:2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6:1. Intrekking beleidsregels
+##### Artikel 6:1. Intrekking beleidsregels
 
 De [Beleidsregel tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen](https://wetten.overheid.nl/jci1.3:c:BWBR0042979) wordt ingetrokken.
 
-#### Artikel 6:2. Inwerkingtreding
+##### Artikel 6:2. Inwerkingtreding
 
 Deze beleidsregels treden in werking op 1 september 2021.
 
-#### Artikel 6:3. Citeertitel
+##### Artikel 6:3. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels tenuitvoerlegging strafrechtelijke en administratiefrechtelijke beslissingen 2021.
 
@@ -701,7 +727,7 @@ In de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het [besluit](http
 
 Deze beleidsregels worden met de toelichting in de Staatscourant gepubliceerd.
 
-#### Artikel 3:3a. Ambtshalve opdracht tot reclasseringstoezicht
+##### Artikel 3:3a. Ambtshalve opdracht tot reclasseringstoezicht
 
 1. Indien één of meer van de volgende voorwaarden zijn gesteld of gedragsaanwijzingen zijn opgelegd zonder dat tevens reclasseringstoezicht is bevolen, geeft het CJIB/AICE ambtshalve opdracht aan een reclasseringsinstelling of een gecertificeerde instelling die jeugdreclassering uitvoert om toezicht te houden op de naleving daarvan en de verdachte of de veroordeelde daarbij te begeleiden:
 

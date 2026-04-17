@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel berekening steunpercentage Regeling groenprojecten 2022"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2022/41066, in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Minister voor Klimaat en Energie tot vaststelling van de wijze waarop de steun als percentage van het projectvermogen wordt berekend in het kader van de Regeling groenprojecten 2022 (Beleidsregel berekening steunpercentage Regeling groenprojecten 2022)"
 identifier: "BWBR0046600"
-categorie: "Overig"
-publicatiedatum: 2022-06-01
-laatste_update: 2022-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046600"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-06-01"
+last_updated: "2022-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046600"
+soort: "ministeriele-regeling"
+stam_id: "16340653"
+version_id: "28582742"
+internal_id: "C40333111"
+label_id: "16264964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046600/2022-06-01/0"
+intitule_bron: "Stcrt.2022-10806"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-19"
+intitule_published: "2022-04-28"
+intitule_in_force: "2022-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-10806"
+original_signed_date: "2022-04-19"
+original_published_date: "2022-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-10806"
+entry_into_force_date: "2022-06-01"
+jci_1_3: "jci1.3:c:BWBR0046600&z=2022-06-01&g=2022-06-01"
+jci_1_0: "1.0:c:BWBR0046600&g=2022-06-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel berekening steunpercentage Regeling groenprojecten 2022"
+signed_date: "2022-04-19"
+entry_into_force: "2022-06-01"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 19 april 2022, nr. IENW/BSK-2022/41066, in overeenstemming met de Staatssecretaris van Financiën en na overleg met de Minister voor Klimaat en Energie tot vaststelling van de wijze waarop de steun als percentage van het projectvermogen wordt berekend in het kader van de Regeling groenprojecten 2022 (Beleidsregel berekening steunpercentage Regeling groenprojecten 2022)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 2 van de Regeling groenprojecten 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&artikel=2);
@@ -30,7 +56,7 @@ BESLUIT:
 
 Treedt in werking op het tijdstip waarop de Regeling groenprojecten 2022 in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. De uitkomst van de formule, genoemd in het tweede lid, uitgedrukt in procenten dient ter bepaling van de bruto-subsidie-equivalent, genoemd in [artikel 1, van de Regeling groenprojecten 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046599&artikel=1).
 
@@ -50,7 +76,7 @@ r = de disconteringsvoet.
 
 5. De formule, genoemd in het eerste lid, geldt ten aanzien van elke projectcategorie, genoemd in de [Bijlage, behorend bij artikel 2 van de Regeling groenprojecten 2022](onbekend).
 
-#### Artikel 2
+##### Artikel 2
 
 Om de steun op het moment waarop de groenverklaring wordt afgegeven te kunnen bepalen wordt uitgegaan van:
 
@@ -64,11 +90,11 @@ Om de steun op het moment waarop de groenverklaring wordt afgegeven te kunnen be
 
 - e. de disconteringsvoet zoals maandelijks wordt vastgesteld door de Europese Commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 De [beleidsregel berekening steunpercentage Regeling groenprojecten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0039126) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel treedt in werking op het tijdstip waarop de [Regeling groenprojecten 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046599) in werking treedt.
 

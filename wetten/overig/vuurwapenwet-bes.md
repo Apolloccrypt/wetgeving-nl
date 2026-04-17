@@ -1,16 +1,41 @@
 ---
 title: "Vuurwapenwet BES"
 identifier: "BWBR0028251"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028251"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028251"
+soort: "wet-BES"
+stam_id: "10721603"
+version_id: "17689852"
+internal_id: "C24747051"
+label_id: "10696344"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028251/2010-10-10/0"
+intitule_bron: "Stb.2010-518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-518"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-518"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028251&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028251&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Vuurwapenwet BES
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet worden:
 
@@ -20,11 +45,11 @@ Voor de toepassing van deze wet worden:
 
 - 3°. onder munitie begrepen onderdelen van munitie.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij ministeriële regeling kunnen invoer, doorvoer en vervoer van vuurwapenen en munitie worden verboden alsook ontheffing van voornoemde verboden worden verleend. Aan de ontheffing kunnen voorwaarden en de eis dat zekerheid voor de nakoming van die voorwaarden wordt gesteld, worden verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden een vuurwapen of munitie voorhanden te hebben, behoudens de uitzonderingen in het volgend lid genoemd.
 
@@ -46,7 +71,7 @@ Bij ministeriële regeling kunnen invoer, doorvoer en vervoer van vuurwapenen en
 
 5. Hij, die niet bevoegd is om een vuurwapen voorhanden te hebben, is eveneens niet bevoegd om munitie voorhanden te hebben, tenzij hij ingevolge bestaande wettelijke regelingen tot dit laatste gerechtigd is.
 
-#### Artikel 4
+##### Artikel 4
 
 Allen, die van het afleveren van vuurwapenen of van munitie aan particulieren een beroep of een gewoonte maken, zijn verplicht een doorlopend register te houden en daarin onverwijld aantekening te doen van alle door hen onder enige titel ontvangen of afgeleverde vuurwapenen of munitie.
 
@@ -54,13 +79,13 @@ Zij zijn verplicht daarin onverwijld te vermelden nauwkeurige gegevens, gericht 
 
 Zij zijn verplicht het register op eerste aanvraag ter inzage te vertonen aan elke der ambtenaren in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10) bedoeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Het is verboden een handgranaat of dergelijk voor ontploffing of voor het verspreiden van verstikkende of vergiftige gassen bestemd wapen, een vlammenwerper, een kanon, een machinegeweer of een onderdeel van een dier vuurwapenen te vervaardigen, te herstellen of voorhanden te hebben.
 
 Het voorgaande is niet van toepassing ten aanzien van het vervaardigen, herstellen of voorhanden hebben van een der daarin genoemde vuurwapenen door iemand, die bevoegd is het wapen voorhanden te hebben.
 
-#### Artikel 6
+##### Artikel 6
 
 Het is verboden een vuurwapen binnen het grondgebied van de openbare lichamen Bonaire, Sint Eustatius en Saba af te leveren.
 
@@ -72,17 +97,17 @@ Het voorgaande lid is niet van toepassing ten aanzien van het afleveren van een 
 
 - 3°. door iemand, die, bevoegd om het wapen voorhanden te hebben, het tijdelijk in bewaring geeft aan een meerderjarige, die tot hem in dienstbetrekking staat, of aan een meerderjarige huisgenoot.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij ministeriële regeling, kan van personen, die ingevolge deze wet een machtiging of bij ministeriële regeling, als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=2&z=2010-10-10&g=2010-10-10), een consent van invoer, uitvoer, doorvoer of vervoer aanvragen, een bedrag worden geheven ter vergoeding van de kosten van administratie en toezicht.
 
 De machtiging of het consent en de vuurwapens en de munitie, waarop zij betrekking hebben moeten op eerste aanvraag worden vertoond aan de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren.
 
-#### Artikel 8
+##### Artikel 8
 
 De gezaghebber is verplicht een register te houden en daarin aantekening te doen van elke verleende machtiging, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=3&z=2010-10-10&g=2010-10-10), zomede van elke schorsing of intrekking van zodanige machtiging. Bij ministeriële regeling kunnen nadere voorschriften worden gegeven met betrekking tot de registratie van personen die vuurwapens voorhanden hebben.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De gezaghebber is bevoegd te bevelen, dat personen, die zonder daartoe bevoegd te zijn, vuurwapens of munitie voorhanden hebben, deze binnen een daarvoor te stellen termijn, op daartoe aan te wijzen plaatsen of in handen van daartoe aan te wijzen personen in bewaring zullen geven. Na daartoe bekomen machtiging van Onze Minister van Justitie kan het bevel ook tot andere personen worden gericht.
 
@@ -90,7 +115,7 @@ De gezaghebber is verplicht een register te houden en daarin aantekening te doen
 
 3. Kan het optreden van de betrokken gezaghebber niet worden afgewacht, dan kan voor zover betreft personen, die zonder daartoe bevoegd te zijn vuurwapenen of munitie voorhanden hebben, bij dringende noodzakelijkheid een bevel als bedoeld in het eerste lid worden gegeven door de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren. Het wordt alsdan mondeling of schriftelijk gericht tot degene, wie het aangaat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Hij die een wapen of munitie voorhanden heeft, zonder daartoe gerechtigd te zijn, is verplicht deze terstond bij de gezaghebber in bewaring te geven.
 
@@ -108,7 +133,7 @@ De gezaghebber is verplicht een register te houden en daarin aantekening te doen
 
 8. Bij regeling van Onze Minister worden regels gegeven over een door de gezaghebber te verstrekken ontvangstbewijs en een door hem bij te houden register met betrekking tot in bewaring gegeven wapens of munitie.
 
-#### Artikel 11
+##### Artikel 11
 
 Hij, die een bij of krachtens deze wet gesteld verbod, overtreedt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de derde categorie. Indien echter, naar hij weet of redelijkerwijze moet vermoeden, enig voorwerp met betrekking tot hetwelk het feit wordt begaan is een bom, een handgranaat of een dergelijk voor ontploffing of voor het verspreiden van verstikkende of vergiftige gassen bestemd wapen, een vlammenwerper, een kanon, een machinegeweer of een onderdeel van een dier vuurwapenen, wordt gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie opgelegd.
 
@@ -116,17 +141,17 @@ Hij die handelt in strijd met de [artikelen 4](https://wetten.overheid.nl/jci1.3
 
 De bij deze wet strafbaar gestelde feiten worden, indien daarop mede gevangenisstraf is gesteld, als misdrijven en overigens als overtredingen beschouwd.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Bij schuldigverklaring wegens het begaan van een misdrijf genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=11&z=2010-10-10&g=2010-10-10), is de duur van de op te leggen gevangenisstraf ten minste een vierde deel van de in dat artikel bepaalde maximale gevangenisstraf, indien tijdens het begaan van het misdrijf nog geen twee jaren zijn verlopen sedert de schuldigverklaarde een tegen hem op grond van één der in artikel 11, eerste lid, genoemde misdrijven uitgesproken gevangenisstraf geheel of ten dele heeft ondergaan, of indien tijdens het begaan van het misdrijf het recht tot uitvoering van die gevangenisstraf nog niet is verjaard.
 
 2. Het bepaalde in het eerste lid is eveneens van toepassing indien tijdens het begaan van het in dat in dat lid bedoelde misdrijf nog geen twee jaren zijn verlopen sedert de schuldigverklaarde een tegen hem op grond van één der in [artikel 438a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=438a), [438b van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=438b), artikel 11a, eerste lid, van de Wapenwet BES dan wel [artikel 11e, eerste lid, van de Opiumwet 1960 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=11e) genoemde misdrijven uitgesproken gevangenisstraf geheel of ten dele heeft ondergaan, of indien tijdens het begaan van het misdrijf het recht tot uitvoering van die gevangenisstraf nog niet is verjaard.
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij en krachtens deze wet bepaalde zijn belast:
 
@@ -140,11 +165,11 @@ De bij deze wet strafbaar gestelde feiten worden, indien daarop mede gevangeniss
 
 Van het binnentreden wordt door hen proces-verbaal opgemaakt, dat binnen tweemaal vierentwintig uur aan degene, wiens woning is binnengetreden, in afschrift wordt toegezonden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd ladingen, waarvan zij redelijkerwijs kunnen vermoeden dat vuurwapenen en munitie daarvan deel uitmaken, aan onderzoekingen te onderwerpen, voor zover dit redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig is. Daartoe kunnen zij vorderen dat de verpakking van goederen wordt geopend en dat ook overigens de medewerking wordt verleend die voor die onderzoekingen is vereist.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. De in [artikel 13, eerst lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd van personen die betrokken zijn bij het vervaardigen, transformeren of van het herstellen, verhandelen, afleveren of vervoeren van vuurwapenen of munitie een beroep of gewoonte maken, en van personen die houder zijn van een schriftelijke algemene of bijzondere machtiging als bedoeld in [artikel 3, tweede lid, onderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=3&z=2010-10-10&g=2010-10-10), alsmede van rechtspersoonlijkheid bezittende schietverenigingen en toegelaten weerkorpsen, bedoeld in artikel 3, tweede lid, onderdeel 4°, alle inlichtingen te verlangen die redelijkerwijs voor de vervulling van hun taak met betrekking tot deze wet nodig zijn.
 
@@ -156,7 +181,7 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&a
 
 5. Zij die uit hoofde van hun stand, beroep of ambt tot geheimhouding verplicht zijn, kunnen zich verschonen van het verschaffen van inlichtingen, doch uitsluitend voor zover het betreft hetgeen hun in hun hoedanigheid is toevertrouwd. Zij kunnen voorts het verlenen van medewerking weigeren, voor zover hun plicht tot geheimhouding zich daartoe uitstrekt.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd te vorderen dat de verpakking van goederen, met inbegrip van reisbagage, wordt geopend, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij vuurwapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -164,7 +189,7 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&a
 
 3. Indien geen medewerking wordt verleend, kunnen de in het eerste lid bedoeld ambtenaren en personen, op kosten en risico van de houder van goederen, in het nodige voorzien.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd vervoermiddelen te onderzoeken, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij vuurwapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
@@ -172,22 +197,22 @@ De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&a
 
 3. De in het eerste lid bedoelde ambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar en door een aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. De in [artikel 13, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd van personen die zich op de openbare weg of op enige voor het publiek toegankelijke plaats bevinden te vorderen dat deze hun medewerking verlenen aan een onderzoek aan de kleding, indien daartoe redelijkerwijs aanleiding bestaat op grond van een gepleegd strafbaar feit waarbij vuurwapenen zijn gebruikt of op grond van aanwijzingen dat een dergelijk strafbaar feit zal worden gepleegd.
 
 2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend tegen bepaalde personen, indien daartoe jegens hen aanleiding bestaat. De officier van justitie kan bij schriftelijk bevel gelasten dat deze bevoegdheid tegenover een ieder kan worden uitgeoefend. Het bevel is met redenen omkleed.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren zijn bevoegd een persoon, verdacht van overtreding van het in de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=3&z=2010-10-10&g=2010-10-10), [5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=5&z=2010-10-10&g=2010-10-10), of [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=6&z=2010-10-10&g=2010-10-10), gestelde verbod, door het voorhanden hebben van een vuurwapen en of munitie, indien tegen hem ernstige bezwaren bestaan, aan zijn lichaam en kleding te onderzoeken.
 
 2. De in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028251&artikel=13&z=2010-10-10&g=2010-10-10), bedoelde ambtenaren alsmede andere daartoe door of vanwege het bevoegde gezag als buitengewoon agent van politie aangewezen personen zijn bevoegd een persoon die zich bevindt op een voor aankomst en vertrek van reizigers bestemd gedeelte van een luchthaventerrein te allen tijde aan zijn kleding en reisbagage te onderzoeken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet is niet van toepassing op vuurwapenen, welke voor gebruik als zodanig niet geschikt te maken zijn of het karakter dragen van oudheden.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Vuurwapenwet BES.

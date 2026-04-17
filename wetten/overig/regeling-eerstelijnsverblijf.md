@@ -1,18 +1,43 @@
 ---
 title: "Regeling eerstelijnsverblijf"
 identifier: "BWBR0051789"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051789"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051789"
+soort: "zbo"
+stam_id: "17605883"
+version_id: "31084372"
+internal_id: "C44503601"
+label_id: "17506284"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051789/2026-01-01/0"
+intitule_bron: "Stcrt.2025-39455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-11"
+intitule_published: "2025-11-20"
+intitule_in_force: "2025-11-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-39455"
+original_signed_date: "2025-11-11"
+original_published_date: "2025-11-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-39455"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051789&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051789&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-11-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling eerstelijnsverblijf
 
 Gelet op [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) en [artikel 40 lid 4 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van eerstelijnsverblijf.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -34,7 +59,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **audit-trail:** zodanige vastlegging van gegevens dat het spoor van basisgegevens naar eindgegevens en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens, door de NZa en de zorgverzekeraar kan worden gevolgd en gecontroleerd.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet nemen bij het leveren van prestaties van eerstelijnsverblijf. De voorschriften hebben betrekking op:
 
@@ -44,21 +69,21 @@ Deze regeling beoogt voorschriften te stellen die een zorgaanbieder in acht moet
 
 - •. declaratiewijze.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die eerstelijnsverblijf en psychologische zorg binnen eerstelijnsverblijf leveren, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051789&artikel=1&z=2026-01-01&g=2026-01-01) van deze regeling en wanneer er sprake is van levering van de prestatie(s) genoemd in de [beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051279).
 
-#### Artikel 4. Registratievoorschriften
+##### Artikel 4. Registratievoorschriften
 
 1. De registratie van de prestaties en tarieven als genoemd in de [beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0051279) in de administratie van de zorgaanbieder is volledig, juist en actueel.
 
 2. De zorgaanbieder registreert het tijdstip van opname en de opnamedatum.
 
-#### Artikel 5. Administratievoorschriften
+##### Artikel 5. Administratievoorschriften
 
 De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk is. De NZa en de zorgverzekeraar moeten te allen tijde de mogelijkheid hebben om vastlegging van de uitgevoerde behandeltrajecten op volledigheid, juistheid en actualiteit te controleren.
 
-#### Artikel 6. Declaratievoorschriften
+##### Artikel 6. Declaratievoorschriften
 
 1. Een declaratie van de zorgaanbieder aan de patiënt/verzekeraar vermeldt de navolgende gegevens:
 
@@ -74,7 +99,7 @@ De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk
 
 - •. AGB-code van de zorgaanbieder die de prestatie declareert.
 
-#### Artikel 7. Verantwoordelijkheid
+##### Artikel 7. Verantwoordelijkheid
 
 1. De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze regeling genoemde bepalingen.
 
@@ -84,11 +109,11 @@ De administratieve organisatie is zodanig ingericht dat een audit-trail mogelijk
 
 4. Bij onderlinge dienstverlening draagt de opdrachtgevende zorgaanbieder zorg voor de uitvoering van de in deze regeling genoemde bepalingen.
 
-#### Artikel 8. Intrekken oude regeling
+##### Artikel 8. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling eerstelijnsverblijf](https://wetten.overheid.nl/jci1.3:c:BWBR0047752), met kenmerk NR-REG-2316, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling eerstelijnsverblijf](https://wetten.overheid.nl/jci1.3:c:BWBR0047752), met kenmerk NR-REG-2316, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

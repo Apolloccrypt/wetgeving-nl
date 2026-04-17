@@ -1,20 +1,46 @@
 ---
-title: "Regeling medisch beroep BES"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 849713-142849-MEVA, houdende uitvoeringsregels voor medische beroepsbeoefenaren BES (Regeling medisch beroep BES)"
 identifier: "BWBR0037311"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-11
-laatste_update: 2025-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037311"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-07-11"
+last_updated: "2025-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037311"
+soort: "ministeriele-regeling-BES"
+stam_id: "13334103"
+version_id: "22845982"
+internal_id: "C33028861"
+label_id: "13301964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037311/2025-07-11/0"
+intitule_bron: "Stcrt.2015-44476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-01"
+intitule_published: "2015-12-10"
+intitule_in_force: "2015-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44476"
+original_signed_date: "2015-12-01"
+original_published_date: "2015-12-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-44476"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037311&z=2025-07-11&g=2025-07-11"
+jci_1_0: "1.0:c:BWBR0037311&g=2025-07-11"
+citeertitel_status: "officieel"
+short_title: "Regeling medisch beroep BES"
+signed_date: "2015-12-01"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 december 2015, kenmerk 849713-142849-MEVA, houdende uitvoeringsregels voor medische beroepsbeoefenaren BES (Regeling medisch beroep BES)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028397&artikel=3), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0028397&artikel=7) en [8 van het Besluit uitoefenen medisch beroep BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028397&artikel=8), [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028456&artikel=2) en [16 van het Besluit bevoegdheid apothekers en apothekersassistenten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028456&artikel=16), [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=2) en [10 van het Besluit bevoegdheid uitoefening van de tandheelkunst BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=10), [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=2) en [12 van het Besluit bevoegdheid verloskundigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=12), [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=2a) en [8 van het Besluit geneeskunde BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=8) en [artikel 18.4.12, eerste en derde lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=18.4.12);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - –. **verzoeker:** persoon die om een ontheffing verzoekt.
 
-#### Artikel 2. Verzoek om een ontheffing
+##### Artikel 2. Verzoek om een ontheffing
 
 Voor het verzoek om een ontheffing of een aanvraag voor een verklaring van vakbekwaamheid kan gebruik worden gemaakt van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&bijlage=I&z=2025-07-11&g=2025-07-11) van deze regeling gevoegde formulieren.
 
-#### Artikel 3. Voorschriften en beperkingen
+##### Artikel 3. Voorschriften en beperkingen
 
 Aan een ontheffing kan de Minister in ieder geval voorschriften en beperkingen verbinden ten aanzien van:
 
@@ -48,13 +74,13 @@ Aan een ontheffing kan de Minister in ieder geval voorschriften en beperkingen v
 
 - b. de periode waarvoor de ontheffing wordt verleend.
 
-#### Artikel 4. Beperkingen in tijd
+##### Artikel 4. Beperkingen in tijd
 
 1. Een ontheffing wordt verleend aan een medisch beroepsbeoefenaar voor bepaalde tijd, doch voor ten hoogste vier jaar.
 
 2. Bij het verlenen van een ontheffing wordt rekening gehouden met de te verwachten duur en aard van de uit te oefenen beroepsactiviteiten van de medisch beroepsbeoefenaar.
 
-#### Artikel 5. Adviescommissie
+##### Artikel 5. Adviescommissie
 
 De Minister kan zich laten adviseren door de Commissie buitenslands gediplomeerden volksgezondheid, bedoeld in [artikel 1 van de Regeling Commissie buitenslands gediplomeerden](https://wetten.overheid.nl/jci1.3:c:BWBR0009390&artikel=1):
 
@@ -62,7 +88,7 @@ De Minister kan zich laten adviseren door de Commissie buitenslands gediplomeerd
 
 - b. over de aan een ontheffing te verbinden voorschriften of beperkingen, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0037311&artikel=3&z=2025-07-11&g=2025-07-11).
 
-#### Artikel 6. Gegevens bij aanvraag voor verklaring van vakbekwaamheid
+##### Artikel 6. Gegevens bij aanvraag voor verklaring van vakbekwaamheid
 
 1. Bij een aanvraag voor een verklaring van vakbekwaamheid worden in ieder geval de volgende bescheiden overgelegd:
 
@@ -90,21 +116,21 @@ De Minister kan zich laten adviseren door de Commissie buitenslands gediplomeerd
 
 3. Van de bescheiden, bedoeld in het eerste lid, onder c, e en g, kan ook een kopie worden verstrekt die is gewaarmerkt door de instelling die het desbetreffende document heeft afgegeven of door een in Nederland of op de openbare lichamen gevestigde notaris.
 
-#### Artikel 7. Overgangsrecht
+##### Artikel 7. Overgangsrecht
 
 De bevoegdheid tot uitoefenen van de artsenijbereidkunst, de geneeskunst, de tandheelkundige praktijk en de verloskundige praktijk op grond van onderscheidenlijk [artikel 16 van het Besluit bevoegdheid apothekers en apothekersassistenten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028456&artikel=16), [artikel 8 van het Besluit geneeskunde BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028449&artikel=8), [artikel 10 van het Besluit bevoegdheid uitoefening van de tandheelkunst BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028359&artikel=10) en [artikel 12 van het Besluit bevoegdheid verloskundigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028370&artikel=12), eindigt met ingang van 1 januari 2020.
 
-#### Artikel 8. Toezicht
+##### Artikel 8. Toezicht
 
 1. Met het toezicht op de naleving van het bij of krachtens het [Besluit uitoefenen medisch beroep BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028397) bepaalde, zijn belast de ambtenaren van de inspectie.
 
 2. Met de opsporing van bij het [Besluit bevoegdheid apothekers en apothekersassistenten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028456), het [Besluit bevoegdheid uitoefening van de tandheelkunst BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028359), het [Besluit bevoegdheid verloskundigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028370), het [Besluit geneeskunde BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028449) en het [Besluit uitoefenen medisch beroep BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028397) strafbaar gestelde feiten, zijn belast de ambtenaren van de inspectie.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling medisch beroep BES.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 

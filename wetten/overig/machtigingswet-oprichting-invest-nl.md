@@ -1,14 +1,41 @@
 ---
-title: "Machtigingswet oprichting Invest-NL"
+title: "Wet van 20 november 2019, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest-NL (Machtigingswet oprichting Invest-NL)"
 identifier: "BWBR0042840"
-categorie: "Overig"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042840"
+country: "nl"
+rank: "wet"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042840"
+soort: "wet"
+stam_id: "15261593"
+version_id: "26286472"
+internal_id: "C37363041"
+label_id: "15207904"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042840/2022-03-02/0"
+intitule_bron: "Stb.2019-443"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-20"
+intitule_published: "2019-12-03"
+intitule_in_force: "2019-12-03"
+intitule_status: "goed"
+original_publication: "Stb.2019-443"
+original_signed_date: "2019-11-20"
+original_published_date: "2019-12-03"
+original_effect: "nieuwe-regeling"
+original_dossier: "35123"
+original_url_id: "stb-2019-443"
+entry_into_force_date: "2019-12-04"
+jci_1_3: "jci1.3:c:BWBR0042840&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0042840&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Machtigingswet oprichting Invest-NL"
+signed_date: "2019-11-20"
+entry_into_force: "2019-12-04"
 ---
-
-# Machtigingswet oprichting Invest-NL
+# Wet van 20 november 2019, houdende machtiging tot oprichting van de Nederlandse financierings- en ontwikkelingsinstelling Invest-NL (Machtigingswet oprichting Invest-NL)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +67,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. Een wijziging van Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming (PbEU 2003, L 124) gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 2. Machtiging, holdingstructuur
+##### Artikel 2. Machtiging, holdingstructuur
 
 1. Onze Minister van Financiën wordt gemachtigd om namens de Staat der Nederlanden op te richten de naamloze vennootschap Invest-NL N.V..
 
@@ -62,11 +89,11 @@ wordt geacht eveneens te zijn verleend dan wel te zijn opgelegd aan een rechtspe
 
 ### Hoofdstuk 2. Doelen en taken
 
-#### Artikel 3. Doelen
+##### Artikel 3. Doelen
 
 Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te dragen aan het financieren en realiseren van maatschappelijke transitieopgaven door ondernemingen en aan het bieden van toegang tot ondernemingsfinanciering.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 1. Invest-NL heeft tot taak:
 
@@ -106,7 +133,7 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 5. Onze Minister kan een besluit tot instemming als bedoeld in het vierde lid intrekken of wijzigen, indien niet meer wordt voldaan aan de voorwaarden voor het geven van die instemming of aan de voorschriften of beperkingen die aan die instemming verbonden zijn.
 
-#### Artikel 5. Handelingen
+##### Artikel 5. Handelingen
 
 1. Bij de uitoefening van de taken, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), kan Invest-NL:
 
@@ -130,7 +157,7 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 ### Hoofdstuk 3. Uitoefening aandeelhouderschap Staat
 
-#### Artikel 6. Uitoefening aandeelhouderschap
+##### Artikel 6. Uitoefening aandeelhouderschap
 
 1. Het aandeelhouderschap van de Staat in Invest-NL wordt uitgeoefend door Onze Minister van Financiën.
 
@@ -140,7 +167,7 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 #### § 1. Beginselen van financieel beheer
 
-#### Artikel 7. Gescheiden boekhouding ten aanzien van de te onderscheiden taken
+##### Artikel 7. Gescheiden boekhouding ten aanzien van de te onderscheiden taken
 
 1. Indien Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), verschillende activiteiten verricht, worden gelden die zijn ontvangen voor te verrichten of uitgevoerde activiteiten voor rekening en risico van de Staat uitsluitend en uiterlijk binnen een door Onze Minister vastgestelde termijn voor het daarvoor bestemde doel aangewend of aan de Staat uitgekeerd.
 
@@ -156,7 +183,7 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 4. Onze Minister kan in geval van overtreding van het eerste, tweede of derde lid een last onder bestuursdwang opleggen aan Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02).
 
-#### Artikel 8. Jaarverslag
+##### Artikel 8. Jaarverslag
 
 1. Onverminderd de [artikelen 394](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=394) en [395 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395), zendt Invest-NL of een rechtspersoon als bedoeld in artikel 2, derde lid, de jaarrekening, bedoeld in [artikel 361, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361), en het bestuursverslag, bedoeld in [artikel 391 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=391), jaarlijks aan Onze Minister van Financiën.
 
@@ -164,17 +191,17 @@ Invest-NL heeft tot doel om, indien de markt hierin onvoldoende voorziet, bij te
 
 #### § 2. Mededinging en staatssteun
 
-#### Artikel 9. Additioneel aan de markt
+##### Artikel 9. Additioneel aan de markt
 
 1. Invest-NL en een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), onthouden zich van uit een oogpunt van goede marktwerking ongewenste mededinging met ondernemingen.
 
 2. Op voordracht van Onze Minister kunnen bij algemene maatregel van bestuur vanuit het oogpunt van goede marktwerking als bedoeld in het eerste lid regels worden gesteld voor de uitvoering van activiteiten door Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), met inbegrip van regels die het uitvoeren van bepaalde activiteiten verbieden of beperken.
 
-#### Artikel 10. Financiering openbare lichamen
+##### Artikel 10. Financiering openbare lichamen
 
 Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest-NL, noch een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), financiering aan Nederlandse openbare lichamen, tenzij Onze Minister van Financiën, in overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, hiervan ontheffing verleent.
 
-#### Artikel 11. Mededingingsklacht
+##### Artikel 11. Mededingingsklacht
 
 1. Ondernemingen hebben het recht een mededingingsklacht over de nakoming van [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=4&paragraaf=2&artikel=9&z=2022-03-02&g=2022-03-02), in te dienen bij activiteiten, anders dan die krachtens mandaat, volmacht of machtiging van Onze Minister die het aangaat worden verricht, van Invest-NL of van een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02).
 
@@ -186,7 +213,7 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 5. Aan het eind van elk kwartaal doet Invest-NL verslag over de status van de afhandeling van een ingediende mededingingsklacht aan Onze Minister.
 
-#### Artikel 12. Gevolg schending additionaliteitsbeginsel
+##### Artikel 12. Gevolg schending additionaliteitsbeginsel
 
 1. Indien Invest-NL, al dan niet naar aanleiding van een mededingingsklacht als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=4&paragraaf=2&artikel=11&z=2022-03-02&g=2022-03-02), vaststelt dat een werkzaamheid ter uitvoering van een taak als bedoeld in [artikel 4, eerste lid, onderdeel b of f](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), leidt tot uit een oogpunt van goede marktwerking ongewenste mededinging met ondernemingen, wordt de uitoefening van de desbetreffende activiteit zo snel als mogelijk, maar in ieder geval binnen een jaar, beëindigd.
 
@@ -194,7 +221,7 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 3. Indien de termijn, bedoeld in het eerste of tweede lid, verstrijkt zonder dat de activiteit is beëindigd, kan Onze Minister namens en op kosten van Invest-NL er zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht, bedoeld in het eerste of tweede lid.
 
-#### Artikel 13. Verbod verstrekken ongeoorloofde staatssteun
+##### Artikel 13. Verbod verstrekken ongeoorloofde staatssteun
 
 1. Invest-NL en een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), verstrekken voor eigen rekening en risico geen ongeoorloofde staatssteun.
 
@@ -210,13 +237,13 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 #### § 3. Bedrijfsvoering
 
-#### Artikel 14. Mogelijkheid tot het verplichten van Invest-NL om gebruik te maken van middelen en know-how rijksoverheid
+##### Artikel 14. Mogelijkheid tot het verplichten van Invest-NL om gebruik te maken van middelen en know-how rijksoverheid
 
 1. Onze Minister die het aangaat kan besluiten dat Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), bij het uitoefenen van de taak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), gebruik maakt van een voorziening die in stand wordt gehouden door de Staat der Nederlanden en die wordt ingezet ten behoeve van de uitvoering van de taak van de Staat der Nederlanden.
 
 2. Voor het gebruik van de voorziening, bedoeld in het eerste lid, is geen vergoeding of bijdrage verschuldigd.
 
-#### Artikel 15. Verplichting tot aanhouden archief en verplichting tot overdragen aan Rijksarchief na 20 jaar
+##### Artikel 15. Verplichting tot aanhouden archief en verplichting tot overdragen aan Rijksarchief na 20 jaar
 
 1. Bij het uitoefenen van de taken, bedoeld in [artikel 4, eerste lid, onderdelen a en c, is de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=4) van overeenkomstige toepassing op het beheer van en het toezicht op de archiefbescheiden verbonden aan deze taken die bij Invest-NL, of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), berusten.
 
@@ -226,7 +253,7 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 ### Hoofdstuk 5. Geldmiddelen
 
-#### Artikel 16. Ontwikkelactiviteiten
+##### Artikel 16. Ontwikkelactiviteiten
 
 1. Onze Minister kan aan Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), die als doel heeft het uitvoeren van de taak, bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), op aanvraag een subsidie verstrekken voor de kosten verbonden aan het uitvoeren van de taak, genoemd in artikel 4, eerste lid, onderdeel a.
 
@@ -254,7 +281,7 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 5. Indien Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), die als doelstelling heeft het uitvoeren van de taak, genoemd in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), in grove mate nalatig is bij het vervullen van de taak, bedoeld in artikel 4, eerste lid, onderdeel a, kan Onze Minister een last onder bestuursdwang opleggen of een ander tijdelijk die taak laten vervullen.
 
-#### Artikel 17. Onkostenvergoeding voor dienstverlening aan Onze Minister die het aangaat voor wat betreft ten uitvoerlegging regelingen
+##### Artikel 17. Onkostenvergoeding voor dienstverlening aan Onze Minister die het aangaat voor wat betreft ten uitvoerlegging regelingen
 
 1. Onze Minister die het aangaat vergoedt de kosten die Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), maakt bij het uitvoeren van de taak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), voor zover geen sprake is van verplicht gebruik van voorzieningen die in stand worden gehouden door de Staat der Nederlanden als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=4&paragraaf=3&artikel=14&z=2022-03-02&g=2022-03-02).
 
@@ -262,7 +289,7 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 ### Hoofdstuk 6. Evaluatie
 
-#### Artikel 18. Evaluatie
+##### Artikel 18. Evaluatie
 
 1. Onze Minister zendt in overeenstemming met Onze Minister van Financiën binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de effecten van deze wet in de praktijk.
 
@@ -270,39 +297,39 @@ Op straffe van nietigheid van de desbetreffende rechtshandeling verschaft Invest
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 19. Overgang lening EIF co-investment vehicle voortkomend uit subsidie
+##### Artikel 19. Overgang lening EIF co-investment vehicle voortkomend uit subsidie
 
 1. Op de overgangsdatum gaan rechten en verplichtingen die voor de Staat voortvloeien uit de uitvoeringsovereenkomsten van 20 juni 2017 behorend bij het besluit tot verlening van een subsidie in de vorm van een renteloze lening voor het project «Dutch State EIF-NPI Co-investment scheme» van 17 juli 2017, kenmerk DGBI-O /17112125 onder algemene titel over op Invest-NL.
 
 2. Invest-NL zal binnen 30 werkdagen vanaf de overgangsdatum het volledige bedrag aan de Staat voldoen, dat de Staat op verzoek aan het Europees Investeringsfonds reeds ter beschikking heeft gesteld overeenkomstig het recht op tussentijdse betaling neergelegd in de uitvoeringsovereenkomsten van 20 juni 2017.
 
-#### Artikel 20. Overgang DVI en DVI II
+##### Artikel 20. Overgang DVI en DVI II
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 21. Overgang garantie ondernemingsfinanciering energietransitie financieringsfaciliteit (ETFF)
+##### Artikel 21. Overgang garantie ondernemingsfinanciering energietransitie financieringsfaciliteit (ETFF)
 
 Rechten en verplichtingen die voor de Staat voortvloeien uit een met haar gesloten garantstellingsovereenkomst naar het model in [bijlage 3.13a.1 van de Regeling nationale EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&bijlage=3.13a.1) en daaronder vallende garantstellingen als bedoeld in [artikel 3.13a.2 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035474&artikel=3.13a.2) gaan op het tijdstip van inwerkingtreding van dit artikel onder algemene titel over op Invest-NL.
 
-#### Artikel 22. Overgang roerende zaken en vermogensrechten
+##### Artikel 22. Overgang roerende zaken en vermogensrechten
 
 De roerende zaken en vermogensrechten welke aan de tijdelijke afdeling van de Rijksdienst voor Ondernemend Nederland, Invest-NL in opbouw, worden toegerekend gaan op de overgangsdatum onder algemene titel over op Invest-NL zonder dat daarvoor een akte of betekening nodig is.
 
-#### Artikel 23. Archiefbescheiden
+##### Artikel 23. Archiefbescheiden
 
 De archiefbescheiden die betrekking hebben op de taak, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), worden, voor zover deze niet zijn overgebracht naar een archiefbewaarplaats, op de overgangsdatum voor een tijdvak van ten hoogste twintig jaar ter beschikking gesteld aan Invest-NL.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 24. Conservatoir beslag
+##### Artikel 24. Conservatoir beslag
 
 Verlof tot het leggen van conservatoir beslag, bedoeld in [artikel 700, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=700) ten laste van Invest-NL of een rechtspersoon als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=1&artikel=2&z=2022-03-02&g=2022-03-02), die als doel heeft het uitvoeren van een taak als bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042840&hoofdstuk=2&artikel=4&z=2022-03-02&g=2022-03-02), kan slechts worden verleend nadat degene ten laste van wie het verlof wordt verzocht in de gelegenheid is gesteld om te worden gehoord, tenzij het beslag uitsluitend op zaken betrekking heeft.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Deze wet wordt aangehaald als: Machtigingswet oprichting Invest-NL.
 

@@ -1,13 +1,37 @@
 ---
 title: "Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996"
 identifier: "BWBR0007752"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1995-12-22
-laatste_update: 1995-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007752"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-12-22"
+last_updated: "1995-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007752"
+soort: "circulaire"
+stam_id: "6302253"
+version_id: "10967872"
+internal_id: "C14863991"
+label_id: "6291474"
+original_entry_into_force: "1995-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007752/1995-12-22/0"
+intitule_bron: "Stcrt.1995-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-18"
+intitule_published: "1995-12-22"
+intitule_in_force: "1995-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-249"
+original_signed_date: "1995-12-18"
+original_published_date: "1995-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-249-p12-SC4699"
+entry_into_force_date: "1995-12-22"
+jci_1_3: "jci1.3:c:BWBR0007752&z=1995-12-22&g=1995-12-22"
+jci_1_0: "1.0:c:BWBR0007752&g=1995-12-22"
+citeertitel_status: "redactioneel"
+signed_date: "1995-12-18"
+entry_into_force: "1995-12-22"
 ---
-
 # Wijzigingen in de arbeidsvoorwaarden sector Rijk per 1 januari c.q. 1 april 1996
 
 «Circulaire aan de ministers»

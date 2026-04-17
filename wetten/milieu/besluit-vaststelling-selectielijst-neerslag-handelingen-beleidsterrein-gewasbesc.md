@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)"
 identifier: "BWBR0020610"
-categorie: "Milieu"
-publicatiedatum: 2006-12-13
-laatste_update: 2006-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020610"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-12-13"
+last_updated: "2006-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020610"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8758073"
+version_id: "13832562"
+internal_id: "C25318381"
+label_id: "8737864"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020610/2006-12-13/0"
+intitule_bron: "Stcrt.2006-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-04"
+intitule_published: "2006-12-11"
+intitule_in_force: "2006-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-241"
+original_signed_date: "2006-07-04"
+original_published_date: "2006-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-241-p12-SC77871"
+entry_into_force_date: "2006-12-13"
+jci_1_3: "jci1.3:c:BWBR0020610&z=2006-12-13&g=2006-12-13"
+jci_1_0: "1.0:c:BWBR0020610&g=2006-12-13"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-04"
+entry_into_force: "2006-12-13"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1945 (Minister van Landbouw, Natuur en Voedselkwaliteit)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 28 februari 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘[selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuur en Voedselkwaliteit en de onder hem ressorterende actoren op het beleidsterrein Gewasbescherming over de periode vanaf 1945](onbekend)’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende vernietigingslijsten worden ingetrokken:
 
@@ -30,7 +55,7 @@ De volgende vernietigingslijsten worden ingetrokken:
 
 ‘Lijst van voor vernietiging in aanmerking komende archiefbescheiden van de commissie toelating bestrijdingsmiddelen (tot 1 januari 1981 commissie voor fytopharmacie) en het bureau bestrijdingsmiddelen, ingesteld door de Ministers van Landbouw en Visserij, Volksgezondheid en Milieuhygiëne en Sociale Zaken en Werkgelegenheid’ vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Landbouw en Visserij d.d. 15 april 1983, MMA/Ar.6255 en MZ 83/1898.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

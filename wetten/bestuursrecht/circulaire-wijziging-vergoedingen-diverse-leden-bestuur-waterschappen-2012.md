@@ -1,13 +1,39 @@
 ---
-title: "Circulaire wijziging vergoedingen diverse leden bestuur waterschappen (2012)"
+title: "Circulaire wijziging van de vergoeding van een lid van het algemeen bestuur, informatie over bezoldiging en eindejaarsuitkering van een lid van het dagelijks bestuur en informatie over de bezoldiging, de ambtstoelage en de eindejaarsuitkering van een voorzitter"
 identifier: "BWBR0030750"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030750"
+country: "nl"
+rank: "circulaire"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030750"
+soort: "circulaire"
+stam_id: "11523733"
+version_id: "18968082"
+internal_id: "C26466921"
+label_id: "11497024"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030750/2012-01-01/0"
+intitule_bron: "Stcrt.2011-22211"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-30"
+intitule_published: "2011-12-09"
+intitule_in_force: "2011-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-22211"
+original_signed_date: "2011-11-30"
+original_published_date: "2011-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-22211"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030750&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0030750&g=2012-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire wijziging vergoedingen diverse leden bestuur waterschappen (2012)"
+signed_date: "2011-11-30"
+entry_into_force: "2012-01-01"
 ---
-
 # Circulaire wijziging van de vergoeding van een lid van het algemeen bestuur, informatie over bezoldiging en eindejaarsuitkering van een lid van het dagelijks bestuur en informatie over de bezoldiging, de ambtstoelage en de eindejaarsuitkering van een voorzitter
 
 ### Algemene informatie

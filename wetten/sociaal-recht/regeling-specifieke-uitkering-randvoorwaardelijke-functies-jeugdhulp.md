@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2022, kenmerk 3468798-1039784-J, houdende specifieke uitkeringen voor randvoorwaardelijke functies jeugdhulp"
 identifier: "BWBR0047609"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047609"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047609"
+soort: "ministeriele-regeling"
+stam_id: "16591623"
+version_id: "29097222"
+internal_id: "C41358461"
+label_id: "16511014"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047609/2025-10-01/0"
+intitule_bron: "Stcrt.2022-33589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-06"
+intitule_published: "2022-12-13"
+intitule_in_force: "2022-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33589"
+original_signed_date: "2022-12-06"
+original_published_date: "2022-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-33589"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047609&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0047609&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp"
+signed_date: "2022-12-06"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 6 december 2022, kenmerk 3468798-1039784-J, houdende specifieke uitkeringen voor randvoorwaardelijke functies jeugdhulp
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -48,13 +74,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **zorggebied:** de jeugdregio’s waarvoor de plaatsingscoördinatie actief is.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
 1. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 2. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
-#### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
+##### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
 1. De minister kan een specifieke uitkering aan een coördinerende gemeente verstrekken voor activiteiten die nodig zijn in verband met de inkoop en organisatie van de volgende randvoorwaardelijke functies:
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het monitoren van de capaciteitsbehoefte en beschikbare capaciteit in de gesloten jeugdhulp.
 
-#### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond 2025
+##### Artikel 4. Hoogte van de specifieke uitkering en uitkeringsplafond 2025
 
 De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt voor 2025 maximaal:
 
@@ -115,7 +141,7 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 | d) | Tilburg | € 115.000,00 |
 | e) | Utrecht | € 115.000,00 |
 
-#### Artikel 5. Hoogte van de specifieke uitkering en uitkeringsplafond vanaf 2026
+##### Artikel 5. Hoogte van de specifieke uitkering en uitkeringsplafond vanaf 2026
 
 De specifieke uitkering per randvoorwaardelijke functie en per coördinerende gemeente bedraagt vanaf 2026 maximaal:
 
@@ -148,7 +174,7 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 | d) | Tilburg | € 116.863,04 |
 | e) | Utrecht | € 116.863,04 |
 
-#### Artikel 6. Verlening
+##### Artikel 6. Verlening
 
 1. De minister neemt jaarlijks vóór 1 februari een besluit omtrent de verlening van de specifieke uitkering voor een periode van een jaar.
 
@@ -158,7 +184,7 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 
 4. In afwijking van het eerste lid, neemt de minister vóór 1 maart 2023 een besluit omtrent de verlening van de specifieke uitkering voor de jaren 2023 en 2024.
 
-#### Artikel 7. Algemene verplichtingen
+##### Artikel 7. Algemene verplichtingen
 
 1. De coördinerende gemeente informeert de minister op verzoek over de stand van zaken rond de randvoorwaardelijke functie, de activiteiten die ondernomen worden en over de besteding van de middelen uit de specifieke uitkering.
 
@@ -170,7 +196,7 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 
 - c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.
 
-#### Artikel 8. Specifieke verplichtingen expertisenetwerken jeugdhulp
+##### Artikel 8. Specifieke verplichtingen expertisenetwerken jeugdhulp
 
 1. De coördinerende gemeente draagt er zorg voor dat het expertisenetwerk jeugdhulp de basisset indicatoren, zoals afgesproken tussen VNG, VWS en de coördinerende gemeente, gebruikt om te leren van de casuïstiek.
 
@@ -178,11 +204,11 @@ De specifieke uitkering per randvoorwaardelijke functie en per coördinerende ge
 
 3. De coördinerende gemeente draagt er zorg voor dat de wethouder die verantwoordelijk is voor het jeugddomein deelneemt aan het bestuurlijk overleg expertisenetwerken jeugdhulp.
 
-#### Artikel 9. Specifieke verplichting academisch onderzoek als onderdeel van de academische functie van een ACKJP
+##### Artikel 9. Specifieke verplichting academisch onderzoek als onderdeel van de academische functie van een ACKJP
 
 De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesprek met het ACKJP over de vraag of en hoe de onderzoeksresultaten van waarde zijn voor de uitvoering van de jeugdhulp en de vakinhoudelijke ontwikkeling van jeugdhulpprofessionals.
 
-#### Artikel 10. Specifieke verplichtingen plaatsingscoördinatie gesloten jeugdhulp
+##### Artikel 10. Specifieke verplichtingen plaatsingscoördinatie gesloten jeugdhulp
 
 1. De coördinerende gemeente draagt er zorg voor dat er een plaatsingscoördinatie gesloten jeugdhulp is.
 
@@ -192,7 +218,7 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 4. De coördinerende gemeente draagt de plaatsingscoördinatie gesloten jeugdhulp op om ten behoeve van landelijk inzicht monitoringsinformatie te delen met de Jeugdautoriteit.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 1. De ontvanger van een specifieke uitkering legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -200,21 +226,21 @@ De coördinerende gemeente betrekt andere gemeenten of jeugdregio's bij het gesp
 
 3. Indien een specifieke uitkering als bedoeld in [artikel 3, eerste lid, onder a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=3&z=2025-10-01&g=2025-10-01), niet of niet geheel in het jaar of in de jaren waarvoor deze verleend is, is besteed aan de activiteiten voor de betreffende randvoorwaardelijke functie, kan het overschot in het daaropvolgende jaar worden besteed aan de activiteiten voor dezelfde randvoorwaardelijke functie, bedoeld in artikel 3, eerste lid, onder a of b.
 
-#### Artikel 12. Vaststelling
+##### Artikel 12. Vaststelling
 
 1. De minister besluit uiterlijk 38 weken na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0047609&artikel=11&z=2025-10-01&g=2025-10-01), over de vaststelling van de specifieke uitkering.
 
 2. Indien de activiteiten waarvoor de specifieke uitkering is verleend, zijn verricht en daarnaast volledig is voldaan aan de voorwaarden en verplichtingen die verbonden zijn aan de specifieke uitkering, wordt de specifieke uitkering vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Inwerkingtreding en vervaldatum
+##### Artikel 14. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van 1 januari 2023 en vervalt met ingang van 1 januari 2028, met dien verstande dat de regeling van toepassing blijft op specifieke uitkeringen die krachtens deze regeling zijn verleend.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering randvoorwaardelijke functies jeugdhulp.
 

@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend protocol bij de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie"
 identifier: "BWBV0006561"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-05-01
-laatste_update: 2015-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006561"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-05-01"
+last_updated: "2015-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006561"
+soort: "verdrag"
+stam_id: "10005333243"
+version_id: "10005742192"
+internal_id: "C10009239741"
+label_id: "10005316084"
+dtd_version: "2.0"
+original_entry_into_force: "2017-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006561/2017-05-01/0"
+intitule_bron: "Trb.2015-181"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-11-12"
+intitule_in_force: "2017-05-24"
+intitule_status: "goed"
+original_publication: "Trb.2015-181"
+original_published_date: "2015-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2015-181"
+entry_into_force_date: "2017-05-01"
+jci_1_3: "jci1.3:c:BWBV0006561&z=2017-05-01&g=2017-05-01"
+jci_1_0: "1.0:c:BWBV0006561&g=2017-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-05-01"
 ---
-
 # Aanvullend protocol bij de handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds, om rekening te houden met de toetreding van de Republiek Kroatië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -108,21 +130,21 @@ Zijn het volgende overeengekomen:
 
 ### AFDELING I. DE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 Kroatië wordt hiermee partij bij de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911).
 
 ### AFDELING II. OORSPRONGSREGELS
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bepalingen van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911) worden toegepast op goederen die hetzij van Colombia of Peru naar Kroatië, hetzij van Kroatië naar Colombia of Peru worden uitgevoerd, wanneer die goederen voldoen aan de bepalingen van [bijlage II bij de overeenkomst](onbekend), en die op de datum van inwerkingtreding van dit protocol hetzij in doorvoer waren hetzij in tijdelijke opslag waren in een douane-entrepot of in een vrije zone in Colombia, Peru of Kroatië.
 
@@ -130,41 +152,41 @@ Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzi
 
 ### AFDELING III. HANDEL IN DIENSTEN, VESTIGING EN ELEKTRONISCHE HANDEL
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING IV. OVERHEIDSOPDRACHTEN
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Handelsovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Colombia en Peru, anderzijds; Brussel, 26 juni 2012.
 
 ### AFDELING V. [WTO](https://wetten.overheid.nl/jci1.3:c:BWBV0001160)
 
-#### Artikel 11
+##### Artikel 11
 
 Colombia en Peru verbinden zich ertoe in verband met de toetreding van Kroatië tot de Europese Unie geen claims of verzoeken in te dienen of beroep in te stellen, noch concessies uit hoofde van artikel XXIV, lid 6, en artikel XXVIII van de GATT 1994 of [artikel XXI van de GATS](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&artikel=XXI) te wijzigen of in te trekken.
 
 ### AFDELING VI. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit protocol wordt gesloten door de EU, Colombia en Peru, overeenkomstig hun respectieve interne procedures.
 
@@ -178,13 +200,13 @@ Colombia en Peru verbinden zich ertoe in verband met de toetreding van Kroatië 
 
 6. Indien een bepaling uit de overeenkomst in overeenstemming met lid 4 door de partijen in afwachting van de inwerkingtreding van dit protocol wordt toegepast, wordt elke verwijzing in die bepaling naar de datum van inwerkingtreding van dit protocol beschouwd als verwijzing naar de datum met ingang waarvan de partijen overeenkomen die bepaling overeenkomstig lid 4 toe te passen.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit protocol is opgesteld in drievoud, in de Bulgaarse, Deense, Duitse, Engelse, Estse, Finse, Franse, Griekse, Hongaarse, Italiaanse, Kroatische, Letse, Litouwse, Maltese, Nederlandse, Poolse, Portugese, Roemeense, Sloveense, Slowaakse, Spaanse, Tsjechische en Zweedse taal, waarbij alle teksten gelijkelijk authentiek zijn.
 
 De Europese Unie communiceert aan Colombia en Peru de Kroatische taalversie van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911). Onder voorbehoud van de inwerkingtreding van dit protocol wordt de Kroatische taalversie authentiek onder dezelfde voorwaarden als de versies die zijn opgesteld in de huidige talen van dit protocol. [Artikel 337 van de overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911&artikel=337) wordt dienovereenkomstig gewijzigd.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit protocol en de bijlagen bij dit protocol maken integrerend deel uit van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0005911).
 

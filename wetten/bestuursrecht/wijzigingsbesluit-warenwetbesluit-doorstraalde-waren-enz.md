@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Warenwetbesluit Doorstraalde waren, enz."
+title: "Besluit van 29 oktober 1999, houdende wijziging van het Warenwetbesluit Doorstraalde waren en van het Warenwetbesluit Etikettering van levensmiddelen"
 identifier: "BWBR0010811"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-09-20
-laatste_update: 2000-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010811"
+country: "nl"
+rank: "amvb"
+publication_date: "2000-09-20"
+last_updated: "2000-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010811"
+soort: "AMvB"
+stam_id: "1210513"
+version_id: "1784012"
+internal_id: "C1784011"
+label_id: "1172264"
+dtd_version: "2.0"
+original_entry_into_force: "2000-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010811/2000-09-20/0"
+intitule_bron: "Stb.1999-500"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-10-29"
+intitule_published: "1999-12-02"
+intitule_in_force: "1999-12-02"
+intitule_status: "goed"
+original_publication: "Stb.1999-500"
+original_signed_date: "1999-10-29"
+original_published_date: "1999-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1999-500"
+entry_into_force_date: "2000-09-20"
+jci_1_3: "jci1.3:c:BWBR0010811&z=2000-09-20&g=2000-09-20"
+jci_1_0: "1.0:c:BWBR0010811&g=2000-09-20"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Warenwetbesluit Doorstraalde waren, enz."
+signed_date: "1999-10-29"
+entry_into_force: "2000-09-20"
 ---
-
 # Besluit van 29 oktober 1999, houdende wijziging van het Warenwetbesluit Doorstraalde waren en van het Warenwetbesluit Etikettering van levensmiddelen
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 23 juli 1999, nr. GZB/VVB/993223, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -26,15 +52,15 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Warenwetbesluit Doorstraalde waren.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 20 september 2000, met dien verstande dat eet- en drinkwaren die voldoen aan het [Warenwetbesluit Doorstraalde waren](https://wetten.overheid.nl/jci1.3:c:BWBR0005465) en aan het [Warenwetbesluit Etikettering van levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0005310), zoals die tot dat tijdstip luidden, nog verhandeld mogen worden tot 20 maart 2001.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2018, kenmerk 1358163-177565-BPZ, houdende regels voor de bezoldiging en beheerskosten van bestuursorganen volksgezondheid (Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018)"
 identifier: "BWBR0041119"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-08-28
-laatste_update: 2020-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041119"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-08-28"
+last_updated: "2020-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041119"
+soort: "ministeriele-regeling"
+stam_id: "14669403"
+version_id: "25118212"
+internal_id: "C35920171"
+label_id: "14622214"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041119/2020-08-28/0"
+intitule_bron: "Stcrt.2018-37304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-27"
+intitule_published: "2018-07-05"
+intitule_in_force: "2018-07-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-37304"
+original_signed_date: "2018-06-27"
+original_published_date: "2018-07-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-37304"
+entry_into_force_date: "2018-09-01"
+jci_1_3: "jci1.3:c:BWBR0041119&z=2020-08-28&g=2020-08-28"
+jci_1_0: "1.0:c:BWBR0041119&g=2020-08-28"
+citeertitel_status: "officieel"
+short_title: "Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018"
+signed_date: "2018-06-27"
+entry_into_force: "2018-09-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 27 juni 2018, kenmerk 1358163-177565-BPZ, houdende regels voor de bezoldiging en beheerskosten van bestuursorganen volksgezondheid (Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018)
 
 Gelet op de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) en [32 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32), [artikel 14 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=14), de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=20) en [26 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=26), de [artikelen 59a](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a) en [75 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=75) en de [artikelen 6.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=6.2.5) en [7.2.3 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=7.2.3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Bezoldiging, vergoeding en rechtspositie
 
-#### Artikel 2. Reikwijdte hoofdstuk 2
+##### Artikel 2. Reikwijdte hoofdstuk 2
 
 Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij beschikking is afgeweken, van toepassing op de bestuursleden van:
 
@@ -54,7 +80,7 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 - f. de Dopingautoriteit.
 
-#### Artikel 3. Bezoldiging, vakantie- en eindejaarsuitkering, pensioen
+##### Artikel 3. Bezoldiging, vakantie- en eindejaarsuitkering, pensioen
 
 1. De bezoldiging van de voorzitter bedraagt maximaal het salaris van een lid van de topmanagementgroep in groep A zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, met dien verstande dat deze bezoldiging geldt voor een veertigurige werkweek.
 
@@ -66,7 +92,7 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 5. De bestuursleden worden aangemeld als volwaardig deelnemer bij het Algemeen Burgerlijk Pensioenfonds.
 
-#### Artikel 4. Reis- en verblijfkosten
+##### Artikel 4. Reis- en verblijfkosten
 
 1. De bestuursleden hebben ten behoeve van de werkzaamheden voor het bestuursorgaan recht op een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
@@ -76,7 +102,7 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 4. Een lid kan voor het vervoer tussen de standplaats en de woonplaats en voor het vervoer ten behoeve van dienstreizen aanspraak maken op een jaarkaart openbaar vervoer eerste klasse.
 
-#### Artikel 5. Verlof
+##### Artikel 5. Verlof
 
 1. De bestuursleden hebben aanspraak op verlof, bestaande uit:
 
@@ -88,27 +114,27 @@ Dit hoofdstuk is, voor zover niet anders is bepaald en voor zover niet bij besch
 
 3. De aanspraak op verlofuren als bedoeld in het eerste lid, onder b, vervalt na verloop van vijf kalenderjaren, volgend op het kalenderjaar waarin de aanspraken zijn ontstaan.
 
-#### Artikel 6. Arbeidsongeschiktheid
+##### Artikel 6. Arbeidsongeschiktheid
 
 In geval van ongeschiktheid tot het verrichten van arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn de bepalingen over doorbetaling van het maandinkomen bij arbeidsongeschiktheid in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren van overeenkomstige toepasing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In geval van tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, hebben de bestuursleden, aanspraak op een aanvulling op de reguliere uitkering krachtens de Werkloosheidswet.
 
 2. De hoogte en duur van deze aanvulling worden vastgesteld overeenkomstig het bepaalde in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren.
 
-#### Artikel 8. Onpartijdigheid en integriteit
+##### Artikel 8. Onpartijdigheid en integriteit
 
 1. De bestuursleden onthouden zich van het openbaren van gedachten of gevoelens, indien daardoor de goede vervulling van hun functie of het goede functioneren van de openbare dienst, voorzover deze in verband staat met hun functievervulling, niet in redelijkheid zou zijn verzekerd.
 
 2. Het is de bestuursleden in hun ambt verboden vergoedingen, beloningen, giften of beloften van derden te vorderen, te verzoeken of aan te nemen.
 
-#### Artikel 9. Speciale bepaling voor College sanering
+##### Artikel 9. Speciale bepaling voor College sanering
 
 De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en [14, vierde lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14) zijn van overeenkomstige toepassing op de bestuursleden van het College sanering.
 
-#### Artikel 10. Speciale bepaling met betrekking tot de Adviescommissie Pakket en de Adviescommissie Kwaliteit
+##### Artikel 10. Speciale bepaling met betrekking tot de Adviescommissie Pakket en de Adviescommissie Kwaliteit
 
 1. De voorzitter van de commissie, bedoeld in [artikel 59a, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59a), die niet tevens lid is van het Zorginstituut Nederland, en de voorzitter van de commissie, genoemd in [artikel 59b, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59b) ontvangen een vaste vergoeding per maand, afgeleid van het maximum van salarisschaal 18 zoals overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren, vermenigvuldigd met een arbeidsduurfactor van 20,77 procent.
 
@@ -116,7 +142,7 @@ De [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) en
 
 ### Hoofdstuk 3. Beheerskosten en jaarstukken
 
-#### Artikel 11. Reikwijdte hoofdstuk 3
+##### Artikel 11. Reikwijdte hoofdstuk 3
 
 Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op:
 
@@ -132,7 +158,7 @@ Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op:
 
 - f. de Dopingautoriteit.
 
-#### Artikel 12. Budget
+##### Artikel 12. Budget
 
 1. Het budget wordt vastgesteld op grond van de ingediende begroting, waarbij de begroting is gebaseerd op het prijspeil van het lopende jaar en het door de Minister aan het bestuursorgaan bekend gemaakte financiële kader.
 
@@ -140,15 +166,15 @@ Dit hoofdstuk is, voor zover niet anders is bepaald, van toepassing op:
 
 3. Indien de begroting hoger is dan het bekend gemaakte financiële kader, doet het bestuursorgaan een voorstel aan de Minister hoe dit verschil gedekt kan worden.
 
-#### Artikel 13. Bevoorschotting budget
+##### Artikel 13. Bevoorschotting budget
 
 De Minister houdt bij de bevoorschotting van het budget een zodanige frequentie en hoogte aan dat deze in voldoende mate aansluit op de in het vijfde lid van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=15&z=2020-08-28&g=2020-08-28) bedoelde liquiditeitsbehoefte van het bestuursorgaan.
 
-#### Artikel 14. Inrichting werkprogramma
+##### Artikel 14. Inrichting werkprogramma
 
 Het werkprogramma en het meerjarenplan bevatten een duidelijke beschrijving van de voorgenomen organisatorische, bedrijfsmatige en inhoudelijke doelen. Alsmede bevat het werkprogramma een meerjarenbegroting. De doelen worden zoveel mogelijk meetbaar geformuleerd. In het werkprogramma wordt een duidelijke koppeling gemaakt tussen deze doelen en de benodigde (financiële) middelen. In het werkprogramma is ook een risicoparagraaf opgenomen. Het werkprogramma gaat in op de aandachtspunten zoals die door de Minister worden aangegeven.
 
-#### Artikel 15. Inrichting begroting
+##### Artikel 15. Inrichting begroting
 
 1. In de begroting en de meerjarenraming die onderdeel uitmaken van het werkprogramma worden de volgende kostensoorten en baten onderscheiden:
 
@@ -174,7 +200,7 @@ Indien van toepassing en door de eigenaar verzocht, worden ook de verwachte kost
 
 5. De begroting bevat een raming van de maandelijkse liquiditeitsbehoefte voor het desbetreffende begrotingsjaar.
 
-#### Artikel 16. Inrichting toelichting bij de begroting
+##### Artikel 16. Inrichting toelichting bij de begroting
 
 De begroting gaat vergezeld van een toelichting waarin:
 
@@ -192,7 +218,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 - g. substantiële schommelingen in de meerjarenraming worden toegelicht.
 
-#### Artikel 17. Inrichting jaarverslag en jaarrekening
+##### Artikel 17. Inrichting jaarverslag en jaarrekening
 
 1. De inrichting van het jaarverslag sluit aan bij de inrichting van het werkprogramma. In het jaarverslag wordt zodoende aangegeven in hoeverre doelen gerealiseerd zijn en risico’s beheerst.
 
@@ -210,7 +236,7 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 8. De accountantscontrole geschiedt met inachtneming van een door de Minister vastgesteld protocol dat geacht wordt deel uit te maken van deze regeling.
 
-#### Artikel 18. Egalisatiereserve
+##### Artikel 18. Egalisatiereserve
 
 1. De egalisatiereserve bedoeld in [artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) bedraagt ten hoogste vijf procent van het budget bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041119&hoofdstuk=3&artikel=12&z=2020-08-28&g=2020-08-28).
 
@@ -222,13 +248,13 @@ De begroting gaat vergezeld van een toelichting waarin:
 
 5. [Artikel 33 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=33) is van overeenkomstige toepassing met betrekking tot de egalisatiereserve van het College sanering.
 
-#### Artikel 19. Toestemming verrichten van handelingen
+##### Artikel 19. Toestemming verrichten van handelingen
 
 Het CAK, het CIZ, de Dopingautoriteit, het Zorginstituut en de zorgautoriteit behoeven voorafgaande toestemming van de Minister voor het verrichten van handelingen als bedoeld in [artikel 32, onderdelen a en d tot en met g, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=32).
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 20. Intrekkings- en overgangsbepaling
+##### Artikel 20. Intrekkings- en overgangsbepaling
 
 1. De [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0030162) wordt ingetrokken.
 
@@ -242,11 +268,11 @@ Het CAK, het CIZ, de Dopingautoriteit, het Zorginstituut en de zorgautoriteit be
 
 6. De [Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0030162), zoals die luidde onmiddellijk voor het tijdstip van intrekking, blijft van toepassing op de in die regeling bedoelde jaarverantwoording over het jaar 2018 en de begroting, het werkprogramma en de jaarverantwoording over het jaar 2019.
 
-#### Artikel 21. Citeertitel
+##### Artikel 21. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bezoldiging en beheerskosten zelfstandige bestuursorganen VWS 2018.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 september 2018.
 

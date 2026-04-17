@@ -1,13 +1,39 @@
 ---
-title: "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)"
+title: "Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Standaard Persoonlijk Kilometerbudget voor aanvragers zonder bewijsdocument"
 identifier: "BWBR0052201"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-23
-laatste_update: 2026-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052201"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-23"
+last_updated: "2026-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052201"
+soort: "beleidsregel"
+stam_id: "17737003"
+version_id: "31340362"
+internal_id: "C44791091"
+label_id: "17635404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052201/2026-01-23/0"
+intitule_bron: "Stcrt.2026-1501"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-01-12"
+intitule_published: "2026-01-22"
+intitule_in_force: "2026-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1501"
+original_signed_date: "2026-01-12"
+original_published_date: "2026-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1501"
+entry_into_force_date: "2026-01-23"
+jci_1_3: "jci1.3:c:BWBR0052201&z=2026-01-23&g=2026-01-23"
+jci_1_0: "1.0:c:BWBR0052201&g=2026-01-23"
+citeertitel_status: "officieel"
+short_title: "Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)"
+signed_date: "2026-01-12"
+entry_into_force: "2026-01-23"
 ---
-
 # Besluit van de Staatssecretaris Langdurige en Maatschappelijke Zorg, van 12 januari 2026, 4299382-1091493-DMO, houdende de vaststelling van regels betreffende het toekennen van het Valys Standaard Persoonlijk Kilometerbudget voor aanvragers zonder bewijsdocument
 
 gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 13 van de Mandaatregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0007923&artikel=13),
@@ -18,7 +44,7 @@ Advies B.V.,
 
 besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - •. **bewijsdocument:** een document dat aantoont dat de aanvrager op andere gronden in aanmerking komt voor Valys, zoals een Wmo-vervoersindicatie, Wmo-(rij)hulpmiddel, passagiers-gehandicaptenparkeerkaart (GPK-P) of OV-Begeleiderskaart.
 
-#### Artikel 2. Indienen van de aanvraag
+##### Artikel 2. Indienen van de aanvraag
 
 1. Een persoon die niet beschikt over een bewijsdocument vraagt een Valys Standaard PKB aan via het aanvraagformulier van Argonaut Advies op [www.valys.nl](http://www.valys.nl).
 
@@ -56,7 +82,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. het formulier telefonisch opvragen bij de klantenservice van Valys, waarna een papieren exemplaar kosteloos wordt toegezonden, kan worden ingevuld en per post worden verzonden naar Argonaut Advies.
 
-#### Artikel 3. Voorwaarden voor behandeling van de aanvraag
+##### Artikel 3. Voorwaarden voor behandeling van de aanvraag
 
 1. Argonaut Advies neemt een aanvraag in behandeling wanneer:
 
@@ -80,7 +106,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Indien de aanvraag onvolledig is, krijgt de aanvrager 31 dagen om aan te vullen. Wordt dit nagelaten, dan wordt de aanvraag niet in behandeling genomen. Tegen een besluit om een aanvraag niet in behandeling te nemen, kan bezwaar worden gemaakt overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=7&z=2026-01-23&g=2026-01-23).
 
-#### Artikel 4. Criteria voor toekenning
+##### Artikel 4. Criteria voor toekenning
 
 1. Een aanvrager komt in aanmerking voor een positief indicatiebesluit, door middel van de beoordeling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=5&z=2026-01-23&g=2026-01-23), indien de aanvrager:
 
@@ -90,7 +116,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. Een tijdelijke beperking kan grond geven voor het afgeven van een indicatiebesluit met een geldigheidsduur van ten minste één jaar en ten hoogste vijf jaren.
 
-#### Artikel 5. Toetsingsvelden bij de beoordeling
+##### Artikel 5. Toetsingsvelden bij de beoordeling
 
 1. De beoordeling richt zich op de vraag of de aanvrager voldoet aan de voorwaarden bedoeld in [artikel 4, eerste, onderdeel b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=4&z=2026-01-23&g=2026-01-23).
 
@@ -112,7 +138,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Gemeentelijk beleid ten aanzien van vervoer in het kader van de [Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), waaronder vervoer ten behoeve van participatie of sociaal-recreatief vervoer, maakt geen onderdeel uit van het toetsingskader en kan niet leiden tot een positief indicatiebesluit. Het kunnen bereiken van bestemmingen binnen de leefomgeving, zoals regionale ziekenhuizen of andere zorgverlenende instellingen, valt onder de gemeentelijke verantwoordelijkheid voor maatschappelijke ondersteuning.
 
-#### Artikel 6. Indicatiebesluit
+##### Artikel 6. Indicatiebesluit
 
 1. Een deskundig sociaal-medisch adviseur voert de beoordeling, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052201&artikel=5&z=2026-01-23&g=2026-01-23), uit op grond waarvan Argonaut Advies een beslissing neemt.
 
@@ -122,7 +148,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. In het indicatiebesluit wordt verwezen naar het Indicatieprotocol Valys Standaard zonder bewijsdocument. Het protocol is te raadplegen via [www.valys.nl](http://www.valys.nl/).
 
-#### Artikel 7. Bezwaarprocedure
+##### Artikel 7. Bezwaarprocedure
 
 1. Tegen het indicatiebesluit kan binnen zes weken na dagtekening bezwaar worden gemaakt bij Argonaut Advies.
 
@@ -138,16 +164,16 @@ In deze beleidsregel wordt verstaan onder:
 
 7. In de beslissing op bezwaar wordt, indien daarom verzocht, tevens besloten over vergoeding van proceskosten conform [artikel 7:15 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15). De beslissing vermeldt tevens de wijze waarop beroep kan worden ingesteld bij de bestuursrechter.
 
-#### Artikel 8. Klachten
+##### Artikel 8. Klachten
 
 1. Klachten die geen betrekking hebben op de inhoudelijke beoordeling worden behandeld volgens de klachtenprocedure van Argonaut Advies. [Hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9) is van toepassing.
 
 2. Het klachtenreglement is te raadplegen via [www.argonaut.nl](http://www.argonaut.nl) en wordt op verzoek toegezonden.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na plaatsing in de Staatscourant.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als ‘**Indicatieprotocol Valys Standaard Persoonlijk Kilometerbudget (PKB) zonder bewijsdocument (Valys-vervoer)**’.

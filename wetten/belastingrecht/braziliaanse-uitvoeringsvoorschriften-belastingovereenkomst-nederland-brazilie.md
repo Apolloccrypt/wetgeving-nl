@@ -1,18 +1,43 @@
 ---
-title: "Braziliaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Brazilië"
+title: "Braziliaanse voorschriften tot uitvoering van de op 8 maart 1990 tussen Nederland en Brazilië gesloten Overeenkomst tot het vermijden van dubbele belasting"
 identifier: "BWBR0007278"
-categorie: "Belastingrecht"
-publicatiedatum: 1995-03-16
-laatste_update: 1995-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007278"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-03-16"
+last_updated: "1995-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007278"
+soort: "ministeriele-regeling"
+stam_id: "3956513"
+version_id: "5729592"
+internal_id: "C5932321"
+label_id: "3936504"
+dtd_version: "2.0"
+original_entry_into_force: "1995-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007278/1995-03-16/0"
+intitule_bron: "Stcrt.1995-52"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-06"
+intitule_published: "1995-03-14"
+intitule_in_force: "1995-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-52"
+original_signed_date: "1995-03-06"
+original_published_date: "1995-03-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-03-16"
+jci_1_3: "jci1.3:c:BWBR0007278&z=1995-03-16&g=1995-03-16"
+jci_1_0: "1.0:c:BWBR0007278&g=1995-03-16"
+citeertitel_status: "officieel"
+short_title: "Braziliaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Brazilië"
+signed_date: "1995-03-06"
+entry_into_force: "1995-03-16"
 ---
-
 # Braziliaanse voorschriften tot uitvoering van de op 8 maart 1990 tussen Nederland en Brazilië gesloten Overeenkomst tot het vermijden van dubbele belasting
 
 Regeling inzake vermindering en vrijstelling van Braziliaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 8 maart 1990 tussen Nederland en Brazilië gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen, en het protocol bij die Overeenkomst (Trb. 1990, 67), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol:
 
@@ -34,7 +59,7 @@ De in de onderdelen a, c, d, e en f vermelde verminderingen zijn te berekenen ov
 
 De in de onderdelen a, c, d, e en f vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Brazilië een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty's worden betaald, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 10, vierde lid, artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Braziliaanse regeling
+##### Artikel 2. Braziliaanse regeling
 
 Ter uitvoering van artikel 1 is van Braziliaanse zijde de volgende regeling getroffen:
 
@@ -66,7 +91,7 @@ Ter uitvoering van artikel 1 is van Braziliaanse zijde de volgende regeling getr
 
 - 6. **Overmaking vanuit Brazilië naar Nederland of naar een ander land** Inwoners van Nederland die Braziliaanse dividenden, interest of royalty's naar Nederland of naar een ander land willen overmaken, moeten daarvoor toestemming ontvangen van de Braziliaanse Centrale Bank. Op een diskette is aangegeven welke documenten en welke gegevens voor het verkrijgen van die toestemming moeten worden verstrekt. Deze diskette is verkrijgbaar bij de Braziliaanse Centrale Bank in Brasilia alsmede bij haar bijkantoren in de hoofdstad van de staten die deel uitmaken van de Federatieve Republiek Brazilië. Ook kan contact worden opgenomen met FIRCE/Consultoria de Investimentos, Fax (061)226-3441. Door de Braziliaanse Centrale Bank wordt, alvorens de toestemming tot overmaking wordt verleend, nagegaan of de inkomsten op de juiste wijze aan belastingheffing zijn onderworpen. De Federale Braziliaanse belasting-autoriteiten delen op een daartoe gedaan verzoek met betrekking tot inkomsten verkregen ter zake van een lange termijn lening aan de Braziliaanse Centrale Bank mede of die inkomsten wel of niet van belastingheffing zijn vrijgesteld.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als Braziliaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Brazilië.
 

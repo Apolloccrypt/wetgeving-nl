@@ -1,13 +1,37 @@
 ---
 title: "Nederlandsch-Duitsch Arbitrage- en Verzoeningsverdrag"
 identifier: "BWBV0005912"
-categorie: "Internationaal recht"
-publicatiedatum: 1952-01-31
-laatste_update: 1952-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005912"
+country: "nl"
+rank: "verdrag"
+publication_date: "1952-01-31"
+last_updated: "1952-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005912"
+soort: "verdrag"
+stam_id: "10004948123"
+version_id: "10005265102"
+internal_id: "C10008111761"
+label_id: "10004931564"
+dtd_version: "2.0"
+original_entry_into_force: "1927-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005912/1952-01-31/0"
+intitule_bron: "Stb.1927-279"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1927-07-27"
+intitule_published: "1927-08-24"
+intitule_in_force: "1927-08-24"
+intitule_status: "goed"
+original_publication: "Stb.1927-279"
+original_signed_date: "1927-07-27"
+original_published_date: "1927-08-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1927-08-14"
+jci_1_3: "jci1.3:c:BWBV0005912&z=1952-01-31&g=1952-01-31"
+jci_1_0: "1.0:c:BWBV0005912&g=1952-01-31"
+citeertitel_status: "redactioneel"
+signed_date: "1927-07-27"
+entry_into_force: "1927-08-14"
 ---
-
 # Nederlandsch-Duitsch Arbitrage- en Verzoeningsverdrag
 
 HET KONINKRIJK DER NEDERLANDEN
@@ -30,13 +54,13 @@ Freiherr **H. Lucius von Stoedten**, Buitengewoon Gezant en Gevolmachtigd Minist
 
 die, nadat zij hunne volmachten onderzocht en in goeden en behoorlijken vorm hebben bevonden, omtrent de volgende bepalingen zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Verdragsluitende Partijen verplichten zich, alle geschillen van welken aard ook, die tusschen haar ontstaan en niet binnen redelijken tijd langs diplomatieken weg kunnen worden opgelost, en die niet met toestemming van beide Partijen aan het Internationaal Gerechtshof worden voorgelegd, volgens de bepalingen van dit Verdrag, hetzij aan een arbitrage- hetzij aan een verzoeningsprocedure te onderwerpen.
 
 Geschillen, voor welker beslechting de Verdragsluitende Partij en door andere tusschen haar bestaande overeenkomsten aan een bijzondere procedure gebonden zijn, worden volgens de bepalingen dezer overeenkomsten behandeld.
 
-#### Artikel 2
+##### Artikel 2
 
 Onder voorbehoud van de bepalingen van artikel 3 worden op verlangen van een der Partijen aan de arbitrage-procedure onderworpen, die geschillen, waarbij de Partijen het onderling oneens zijn over een rechtsvraag, in het bijzonder die geschillen, welke betrekking hebben op:
 
@@ -50,13 +74,13 @@ Onder voorbehoud van de bepalingen van artikel 3 worden op verlangen van een der
 
 Wanneer er tusschen de Partijen meeningsverschillen bestaan over de vraag of een geschil tot de hierboven omschreven soorten behoort, dan wordt over deze voorafgaande vraag door de arbitrage-procedure beslist.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij vragen, die krachtens de landswetten van de Partij, tegen wie een eisch wordt ingesteld, door de rechterlijke autoriteiten, met inbegrip van de administratieve gerechten, beslist moeten worden, kan deze Partij verlangen, dat de geschillen eerst dan aan de arbitrage-procedure worden onderworpen, nadat in de gerechtelijke procedure een eindvonnis gewezen is en dat zij uiterlijk zes maanden na deze beslissing voor het Scheidsgerecht worden gebracht. Dit geldt niet, wanneer het een geval van rechtsweigering betreft en de wettelijk voorgeschreven instanties zijn ingeroepen.
 
 Ontstaat er tusschen de Partijen verschil van meening over de toepassing van bovenstaande bepaling, dan wordt daarover volgens de arbitrage-procedure beslist.
 
-#### Artikel 4
+##### Artikel 4
 
 Het Scheidsgerecht legt aan zijne beslissingen ten grondslag:
 
@@ -70,7 +94,7 @@ Het Scheidsgerecht legt aan zijne beslissingen ten grondslag:
 
 Met toestemming van beide Partijen kan het Scheidsgerecht zijn beslissing, in plaats van daaraan rechtsbeginselen ten grondslag te leggen, naar billijkheid nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor zoover de Partijen niet in een bijzonder geval een tegengestelde overeenkomst aangaan, wordt het Scheidsgerecht op de volgende wijze samengesteld.
 
@@ -82,13 +106,13 @@ Voor ieder afzonderlijk geschil worden de rechters opnieuw gekozen. De Verdragsl
 
 Leden van het Scheidsgerecht, die om de een of andere reden aftreden, worden vervangen op dezelfde wijze, als waarop zij benoemd zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 De Verdragsluitende Partijen zullen ter uitvoering van dit Verdrag in ieder bijzonder geval een compromis opstellen. Daarin zullen het punt van geschil, de eventueele bijzondere bevoegdheden van het Scheidsgerecht, zijn samenstelling en zetel, de grootte van het door elk der Partijen als voorschot van de kosten te storten bedrag, de regelen, die in acht genomen zullen moeten worden ten aanzien van den vorm en de termijnen van de procedure, zoowel als de bijzonderheden, die verder noodig mochten zijn, worden vastgelegd.
 
 Meeningsverschillen over de bepalingen van het compromis zullen, onder voorbehoud van artikel 7, door het Scheidsgerecht worden beslist.
 
-#### Artikel 7
+##### Artikel 7
 
 Wanneer het compromis niet binnen 6 maanden, nadat de eene Partij aan de andere het verlangen naar een scheidsrechterlijke beslechting van een geschil heeft kenbaar gemaakt, tusschen de Partijen tot stand komt, kan iedere Partij zich tot de in artikel 13 bedoelde Permanente Verzoeningscommissie wenden, ter opstelling van het compromis. Deze moet binnen 2 maanden, nadat een der Partijen zich tot haar heeft gewend, het compromis opstellen, waarbij het punt van geschil op grond van de conclusies der Partijen moet worden vastgesteld.
 
@@ -96,17 +120,17 @@ Evenzoo moet gehandeld worden, wanneer een Partij den door haar te benoemen rech
 
 De Permanente Verzoeningscommissie is verder bevoegd om, tot de aanwijzing van het Scheidsgerecht, een beslissing te nemen over elk ander geschil, dat betrekking heeft op het compromis.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Scheidsgerecht neemt zijn beslissingen met gewone meerderheid van stemmen.
 
-#### Artikel 9
+##### Artikel 9
 
 De scheidsrechterlijke beslissing zal aanwijzingen bevatten over de wijze van haar tenuitvoerlegging en in het bijzonder over de daarbij in acht te nemen termijnen.
 
 Wanneer in een scheidsrechterlijke beslissing wordt geconstateerd, dat een door een gerecht of een andere autoriteit van één der Partijen genomen beslissing of maatregel geheel of gedeeltelijk in strijd is met het Volkenrecht, doch wanneer volgens het staatsrecht van die Partij de gevolgen van de beslissing of van den maatregel niet of niet geheel door administratieve maatregelen ter zijde kunnen worden gesteld, dan zal in de scheidsrechterlijke beslissing aan de beleedigde Partij op andere wijze een behoorlijke voldoening moeten worden toegekend.
 
-#### Artikel 10
+##### Artikel 10
 
 Behoudens andersluidende overeenkomst in het compromis kan elke Partij aan het Scheidsgerecht, dat de beslissing genomen heeft, daarvan revisie verzoeken. Het verzoek kan slechts gegrond worden op de ontdekking van een feit van zoodanigen aard, dat het een beslissenden invloed op de uitspraak gehad zou kunnen hebben en dat, bij het einde van de behandeling, zoowel aan het Scheidsgerecht zelf, als aan de Partij, die revisie verzocht heeft, buiten haar schuld onbekend was.
 
@@ -114,11 +138,11 @@ Leden van het Scheidsgerecht, die om de een of andere reden aftreden bij de herz
 
 De termijn, waarbinnen het in alinea 1 bedoelde verzoek kan worden gedaan, moet in de scheidsrechterlijke beslissing worden bepaald, voor zoover dit niet in het compromis is geschied.
 
-#### Artikel 11
+##### Artikel 11
 
 Alle geschillen, die tusschen de Partijen mochten ontstaan over de uitlegging of tenuitvoerlegging van de scheidsrechterlijke beslissing, staan, tenzij anders wordt overeengekomen, ter beoordeeling van het Scheidsgerecht, dat de beslissing genomen heeft. Daarbij vindt de bepaling van artikel 10, alinea 2, overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Alle geschillen, die niet volgens de voorafgaande artikelen van dit Verdrag aan de arbitrage-procedure onderworpen worden, en die niet met toestemming van beide Partijen op andere wijze vreedzaam geregeld worden, zullen op verlangen van één der Partijen volgens de verzoeningsprocedure moeten worden behandeld.
 
@@ -126,7 +150,7 @@ Beweert de andere Partij, dat het geschil, hetwelk aan de verzoeningsprocedure o
 
 De Regeeringen der Verdragsluitende Partijen kunnen in gemeen overleg een geschil, dat volgens dit Verdrag aan het Internationaal Gerechtshof of aan een Scheidsgerecht onderworpen kan worden, definitief of onder voorbehoud van latere onderwerping aan het Internationaal Gerechtshof of aan een Scheidsgerecht, aan de verzoeningsprocedure onderwerpen.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor de verzoeningsprocedure wordt een Permanente Verzoeningscommissie samengesteld.
 
@@ -140,25 +164,25 @@ De Permanente Verzoeningscommissie wordt binnen zes maanden na uitwisseling der 
 
 Indien de benoeming van de in gemeen overleg te benoemen leden niet binnen zes maanden na de uitwisseling der bekrachtigingsoorkonden, of voor het geval van de aanvulling der Permanente Verzoeningscommissie, niet binnen drie maanden na het aftreden van een lid heeft plaats gevonden, zal, indien geen andere overeenkomst mocht worden verkregen, de Zwitsersche Bondspresident worden verzocht tot de vereischte benoemingen over te gaan.
 
-#### Artikel 14
+##### Artikel 14
 
 De Permanente Verzoeningscommissie treedt in werking, zoodra een der Partijen zich tot haar wendt. Deze richt haar verzoek gelijktijdig aan den Voorzitter der Permanente Verzoeningscommissie en aan de andere Partij. De Voorzitter dient de Permanente Verzoeningscommissie binnen den kortst mogelijken tijd bijeen te roepen.
 
 De Verdragsluitende Partijen verplichten zich in alle gevallen en in ieder opzicht de werkzaamheden der Permanente Verzoeningscommissie te bevorderen en haar in het bijzonder door de bevoegde autoriteiten allen rechtsbijstand te verleenen. Zij zullen alle vereischte maatregelen treffen, opdat aan de Permanente Verzoeningscommissie de mogelijkheid geopend wordt, om op haar gebied getuigen en deskundigen te hooren en een onderzoek ter plaatse in te stellen. De Permanente Verzoeningscommissie kan de bewijzen, hetzij in voltallige vergadering, hetzij door een of verscheidene der in gemeen overleg benoemde leden verzamelen.
 
-#### Artikel 15
+##### Artikel 15
 
 De Permanente Verzoeningscommissie bepaalt haren zetel. Zij kan hem naar goeddunken verplaatsen.
 
 De Permanente Verzoeningscommissie stelt, indien dit noodig is, een secretariaat in. Indien zij bij het secretariaat onderdanen der Partijen benoemt, moet zij daarbij de Partijen op denzelfden voet behandelen.
 
-#### Artikel 16
+##### Artikel 16
 
 De Permanente Verzoeningscommissie is bevoegd besluiten te nemen, indien alle leden behoorlijk opgeroepen en tenminste de in gemeen overleg benoemde leden aanwezig zijn.
 
 De Permanente Verzoeningscommissie neemt hare besluiten met gewone meerderheid van stemmen. Bij staking der stemmen brengt de Voorzitter een dubbele stem uit.
 
-#### Artikel 17
+##### Artikel 17
 
 De Permanente Verzoeningscommissie heeft tot taak een verslag uit te brengen, dat den stand van zaken vaststelt en, tenzij dit met het oog op de bijzondere omstandigheden van het geval niet wenschelijk wordt geacht, voorstellen tot bijlegging van het geschil bevat.
 
@@ -168,13 +192,13 @@ Het verslag heeft, noch wat de feiten, noch wat de rechtsoverwegingen betreft, d
 
 Het staat aan de Partijen, in gemeen overleg te bepalen, of het verslag onverwijld openbaar gemaakt zal worden of niet. Bereikt men daarover echter geen overeenstemming, dan kan de Permanente Verzoeningscommissie harerzijds op grond van bijzondere overwegingen de onmiddellijke openbaarmaking bewerkstelligen.
 
-#### Artikel 18
+##### Artikel 18
 
 Iedere Partij bekostigt de vergoeding voor de werkzaamheden van het door haar benoemde lid der Permanente Verzoeningscommissie, zoomede de helft van de vergoeding voor de werkzaamheden der in gemeen overleg benoemde leden.
 
 Iedere Partij draagt de door haar veroorzaakte kosten der procedure, zoomede de helft der door de Permanente Verzoeningscommissie als gemeenschappelijk aangeduide kosten.
 
-#### Artikel 19
+##### Artikel 19
 
 De in de arbitrage-procedure gegeven beslissing moet door de Partijen te goeder trouw nagekomen worden.
 
@@ -182,7 +206,7 @@ De Verdragsluitende Partijen verplichten zich, gedurende de arbitrage- of verzoe
 
 Het Scheidsgerecht kan op verlangen van een Partij voorzorgsmaatregelen bevelen, voorzooverre deze door de Partijen door middel harer uitvoerende organen uitgevoerd kunnen worden; evenzoo kan de Permanente Verzoeningscommissie met hetzelfde doel voorstellen doen.
 
-#### Artikel 20
+##### Artikel 20
 
 Behoudens bepalingen in tegengestelden zin van dit Verdrag of van het compromis is voor de arbitrage- en verzoeningsprocedure het Haagsch Verdrag voor de vreedzame beslechting van internationale geschillen van 18 October 1907 beslissend.
 
@@ -190,7 +214,7 @@ Voor zooverre dit Verdrag naar de bepalingen van het Haagsch Verdrag verwijst, z
 
 Voor zooverre noch dit Verdrag, noch het compromis, noch de andere tusschen de Verdragsluitende Partijen bestaande overeenkomsten de termijnen en andere bijzonderheden van de arbitrage- en verzoeningsprocedure vaststellen, is het Scheidsgerecht of de Permanente Verzoeningscommissie zelf bevoegd, de vereischte bepalingen vast te stellen.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Verdrag zal zoo spoedig mogelijk bekrachtigd worden. De bekrachtigingsoorkonden zullen te Berlijn worden uitgewisseld.
 

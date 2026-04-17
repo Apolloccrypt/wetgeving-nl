@@ -1,144 +1,172 @@
 ---
-title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (bijstellingen en technische reparaties)"
+title: "Wet van 3 juli 2008 tot wijziging van een aantal belastingwetten en enkele andere wetten"
 identifier: "BWBR0024149"
-categorie: "Belastingrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024149"
+country: "nl"
+rank: "wet"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024149"
+soort: "wet"
+stam_id: "9643933"
+version_id: "15555372"
+internal_id: "C21209111"
+label_id: "9621254"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024149/2009-01-01/0"
+intitule_bron: "Stb.2008-262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-03"
+intitule_published: "2008-07-10"
+intitule_in_force: "2008-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2008-262"
+original_signed_date: "2008-07-03"
+original_published_date: "2008-07-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "31404"
+original_url_id: "stb-2008-262"
+entry_into_force_date: "2008-07-11"
+entry_into_force_dossier: "31404"
+jci_1_3: "jci1.3:c:BWBR0024149&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024149&g=2009-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet inkomstenbelasting 2001, enz. (bijstellingen en technische reparaties)"
+signed_date: "2008-07-03"
+entry_into_force: "2008-07-11"
 ---
+# Wet van 3 juli 2008 tot wijziging van een aantal belastingwetten en enkele andere wetten
 
-# Wijzigingswet Wet inkomstenbelasting 2001, enz. (bijstellingen en technische reparaties)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet werken aan winst.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet waardering onroerende zaken.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Waterschapswet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Provinciewet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Gemeentewet.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Natuurschoonwet 1928.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Luchtvaartwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXVA
+##### Artikel XXVA
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 De met betrekking tot een van de kalenderjaren 2001 tot en met 2008 in [artikel 2.17, vierde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17) bedoelde onderlinge verhouding kan in afwijking van dat lid door de belastingplichtige en zijn partner nog gezamenlijk worden gewijzigd indien en zolang voor een van hen een in dat lid bedoelde aanslag over het desbetreffende kalenderjaar op 1 januari 2009 nog niet onherroepelijk vaststaat of na die datum wordt vastgesteld.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt het Belastingplan 2008.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt het Belastingplan 2008.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Aanpassingswet Algemene douanewet.
 
-#### Artikel XXXA
+##### Artikel XXXA
 
 Wijzigt de Wet OM-afdoening.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

@@ -1,13 +1,35 @@
 ---
 title: "Deelregeling Kunstpodia 2025–2028"
 identifier: "BWBR0048428"
-categorie: "Overig"
-publicatiedatum: 2023-07-21
-laatste_update: 2023-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048428"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-21"
+last_updated: "2023-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048428"
+soort: "zbo"
+stam_id: "16810733"
+version_id: "29533772"
+internal_id: "C42222161"
+label_id: "16724684"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048428/2023-07-21/0"
+intitule_bron: "Stcrt.2023-20142"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-07-20"
+intitule_in_force: "2023-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20142"
+original_published_date: "2023-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20142"
+entry_into_force_date: "2023-07-21"
+jci_1_3: "jci1.3:c:BWBR0048428&z=2023-07-21&g=2023-07-21"
+jci_1_0: "1.0:c:BWBR0048428&g=2023-07-21"
+citeertitel_status: "officieel"
+entry_into_force: "2023-07-21"
 ---
-
 # Deelregeling Kunstpodia 2025–2028
 
 Gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -16,7 +38,7 @@ Besluit:
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 - j. **pluriformiteit:** culturele, geografische en andere vormen van diversiteit.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kunstpodia die met hun programma bijdragen aan een kwalitatief hoogwaardig en pluriform aanbod van hedendaagse beeldende kunst in Nederland en het opbouwen en bereiken van een publiek daarvoor.
 
-#### Artikel 1.3. Subsidievormen
+##### Artikel 1.3. Subsidievormen
 
 1. Een aanvrager kan op grond van deze regeling subsidie aanvragen voor één van onderstaande categorieën:
 
@@ -72,7 +94,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 2. Een instelling kan per aanvraagronde slechts één aanvraag indienen. Een instelling vraagt aan voor één van de bovenstaande categorieën.
 
-#### Artikel 1.4. Subsidieplafond
+##### Artikel 1.4. Subsidieplafond
 
 1. Het bestuur stelt iedere twee jaar bij bestuursbesluit een subsidieplafond in voor de categorie Kunstpodium Start. Het bestuur stelt iedere vier jaar bij bestuursbesluit een subsidieplafond in voor de categorieën Kunstpodium Basis en Kunstpodium Breed.
 
@@ -80,7 +102,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 3. De besluiten, zoals bedoeld in het eerste lid, worden bekendgemaakt op de website van het fonds.
 
-#### Artikel 1.5. Weigeringsgronden
+##### Artikel 1.5. Weigeringsgronden
 
 1. Subsidie wordt in ieder geval geweigerd indien voor de activiteiten waarvoor op grond van deze regeling subsidie wordt aangevraagd, aan de aanvrager subsidie is of zal worden verleend op grond van een andere regeling van het Mondriaan Fonds of een van de andere Rijkscultuurfondsen, dan wel op grond van de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597).
 
@@ -96,13 +118,13 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 #### Paragraaf 2. Procedure
 
-#### Artikel 2.1. Indieningsperiode en termijn
+##### Artikel 2.1. Indieningsperiode en termijn
 
 1. Het bestuur stelt voor de categorie Kunstpodium Start iedere twee jaar een aanvraagronde vast. Het bestuur stelt voor de categorieën Kunstpodium Basis en Kunstpodium Breed iedere vier jaar een aanvraagronde vast. De bijbehorende indiendata worden tijdig bekend gemaakt.
 
 2. Bij de openstelling van een aanvraagronde kan het bestuur voor die ronde nadere voorwaarden stellen.
 
-#### Artikel 2.2. Aanvraagformulier
+##### Artikel 2.2. Aanvraagformulier
 
 1. De aanvraag wordt digitaal ingediend.
 
@@ -112,7 +134,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 4. De aanvrager kan per aanvraagronde voor niet meer dan één categorie subsidie aanvragen en dient in zijn aanvraag te vermelden voor welke subsidie, zoals bedoeld in [artikel 1.3 eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048428&paragraaf=1&artikel=1.3&z=2023-07-21&g=2023-07-21), het een aanvraag indient.
 
-#### Artikel 2.3. Adviescommissie
+##### Artikel 2.3. Adviescommissie
 
 1. Aanvragen worden voorgelegd aan een adviescommissie, mits zij voldoen aan de vereisten om voor subsidie in aanmerking te komen.
 
@@ -124,7 +146,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 5. Bij de advisering wordt pluriformiteit van de totale groep te honoreren kunstpodia meegewogen.
 
-#### Artikel 2.4. Honorering en verdeling budget
+##### Artikel 2.4. Honorering en verdeling budget
 
 1. De adviescommissie verdeelt de aanvragen per categorie onder in twee groepen: de Groep Honoreren en de Groep Niet Honoreren.
 
@@ -138,7 +160,7 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 6. De resterende aanvragen worden afgewezen.
 
-#### Artikel 2.5. Besluit
+##### Artikel 2.5. Besluit
 
 1. In afwijking van het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527) informeert het bestuur de aanvrager binnen 24 weken na de uiterlijke indieningsdatum schriftelijk over zijn besluit.
 
@@ -152,15 +174,15 @@ Het Mondriaan Fonds kan op grond van deze regeling subsidies verstrekken aan kun
 
 #### Paragraaf 3. Kunstpodium Start
 
-#### Artikel 3.1. De aanvrager
+##### Artikel 3.1. De aanvrager
 
 De aanvrager is een kleine startende organisatie, met rechtspersoonlijkheid, met een al dan niet regelmatig programma van presentaties en activiteiten.
 
-#### Artikel 3.2. Subsidieduur
+##### Artikel 3.2. Subsidieduur
 
 De subsidie wordt maximaal drie keer verstrekt voor telkens een periode van twee kalenderjaren.
 
-#### Artikel 3.3. Drempelnormen
+##### Artikel 3.3. Drempelnormen
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Start:
 
@@ -170,7 +192,7 @@ De subsidie wordt maximaal drie keer verstrekt voor telkens een periode van twee
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
-#### Artikel 3.4. Aanvraag
+##### Artikel 3.4. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
@@ -190,7 +212,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - –. Een begroting met een dekkingsplan.
 
-#### Artikel 3.5. Beoordelingscriteria
+##### Artikel 3.5. Beoordelingscriteria
 
 De adviescommissie beoordeelt of het kunstpodium van belang is of naar verwachting van belang zal worden voor de hedendaagse beeldende kunst in Nederland aan de hand van de volgende criteria in onderlinge samenhang:
 
@@ -208,15 +230,15 @@ De adviescommissie beoordeelt of het kunstpodium van belang is of naar verwachti
 
 #### Paragraaf 4. Kunstpodium Basis
 
-#### Artikel 4.1. De aanvrager
+##### Artikel 4.1. De aanvrager
 
 Een (kleine) professionele instelling met rechtspersoonlijkheid met een jaarprogramma van presentaties en activiteiten.
 
-#### Artikel 4.2. Subsidieduur
+##### Artikel 4.2. Subsidieduur
 
 De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
-#### Artikel 4.3. Drempelnormen
+##### Artikel 4.3. Drempelnormen
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Basis:
 
@@ -228,7 +250,7 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
-#### Artikel 4.4. Aanvraag
+##### Artikel 4.4. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
@@ -246,7 +268,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - –. Een begroting met een dekkingsplan.
 
-#### Artikel 4.5. Beoordelingscriteria
+##### Artikel 4.5. Beoordelingscriteria
 
 De adviescommissie beoordeelt of het kunstpodium van belang is of naar verwachting van belang zal worden voor de hedendaagse beeldende kunst in Nederland en/of de regio waar het is gevestigd aan de hand van de volgende criteria in onderlinge samenhang:
 
@@ -268,15 +290,15 @@ De adviescommissie beoordeelt of het kunstpodium van belang is of naar verwachti
 
 #### Paragraaf 5. Kunstpodium Breed
 
-#### Artikel 5.1. De aanvrager
+##### Artikel 5.1. De aanvrager
 
 Een professionele instelling met rechtspersoonlijkheid van lokaal en (inter)nationaal belang met een regelmatig jaarprogramma van presentaties aangevuld met een uitgebreid activiteitenprogramma.
 
-#### Artikel 5.2. Subsidieduur
+##### Artikel 5.2. Subsidieduur
 
 De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
-#### Artikel 5.3. Drempelnormen
+##### Artikel 5.3. Drempelnormen
 
 1. De aanvrager die in aanmerking wil komen voor een subsidie Kunstpodium Breed:
 
@@ -288,7 +310,7 @@ De subsidie wordt verstrekt voor een periode van vier kalenderjaren.
 
 2. Het bestuur kan besluiten een aanvraag die niet voldoet aan de drempelnormen in behandeling te nemen als de aanvrager hieraan in zeer beperkte mate niet voldoet. Het bestuur kan in dat geval voorwaarden verbinden aan het besluit de aanvraag te honoreren. Het besluit voorwaarden te stellen is afhankelijk van de mate waarin de aanvraag niet voldoet aan de drempelnormen.
 
-#### Artikel 5.4. Aanvraag
+##### Artikel 5.4. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
@@ -308,7 +330,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - –. Een begroting met een dekkingsplan.
 
-#### Artikel 5.5. Beoordelingscriteria
+##### Artikel 5.5. Beoordelingscriteria
 
 De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaagse beeldende kunst in Nederland en de regio waar het is gevestigd aan de hand de volgende criteria in onderlinge samenhang:
 
@@ -330,7 +352,7 @@ De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaag
 
 #### Paragraaf 6. Verplichtingen en verantwoording
 
-#### Artikel 6.1. Aan de subsidie verbonden verplichtingen
+##### Artikel 6.1. Aan de subsidie verbonden verplichtingen
 
 1. De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -344,7 +366,7 @@ De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaag
 
 3. Het bestuur kan bij beschikking andere dan de in het eerste en tweede lid opgenomen verplichtingen aan de subsidie verbinden.
 
-#### Artikel 6.2. Verantwoording
+##### Artikel 6.2. Verantwoording
 
 1. De subsidieontvanger stuurt jaarlijks voor 1 juni een inhoudelijke en financiële verantwoording in van de uitgevoerde activiteiten in het vorige kalenderjaar binnen de subsidieperiode.
 
@@ -358,7 +380,7 @@ De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaag
 
 6. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 6.3. Vaststelling subsidie
+##### Artikel 6.3. Vaststelling subsidie
 
 1. Het bestuur beoordeelt aan het einde van de subsidieperiode op basis van de inhoudelijke en financiële verantwoordingen over de respectievelijke jaren de gerealiseerde activiteiten.
 
@@ -368,19 +390,19 @@ De adviescommissie beoordeelt of het kunstpodium van belang is voor de hedendaag
 
 #### Paragraaf 7. Overige bepalingen
 
-#### Artikel 7.1. Begrotingsvoorbehoud
+##### Artikel 7.1. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 7.2. Inwerkingtreding
+##### Artikel 7.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7.3. Hardheidsclausule
+##### Artikel 7.3. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van een belanghebbende van bepalingen in dit reglement afwijken indien toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 7.4. Citeertitel
+##### Artikel 7.4. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstpodia 2025–2028
 

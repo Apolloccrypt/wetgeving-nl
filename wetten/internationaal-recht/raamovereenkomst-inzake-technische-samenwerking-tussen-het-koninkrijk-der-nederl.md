@@ -1,13 +1,38 @@
 ---
 title: "Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Peru"
 identifier: "BWBV0002679"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-01-12
-laatste_update: 1993-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002679"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-01-12"
+last_updated: "1993-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002679"
+soort: "verdrag"
+stam_id: "10002968423"
+version_id: "10002971032"
+internal_id: "C10006976841"
+label_id: "10002955024"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002679/1993-01-12/0"
+intitule_bron: "Trb.1991-183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-19"
+intitule_published: "1991-12-24"
+intitule_in_force: "1993-02-05"
+intitule_status: "goed"
+original_publication: "Trb.1991-183"
+original_signed_date: "1991-11-19"
+original_published_date: "1991-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-183"
+entry_into_force_date: "1993-01-12"
+jci_1_3: "jci1.3:c:BWBV0002679&z=1993-01-12&g=1993-01-12"
+jci_1_0: "1.0:c:BWBV0002679&g=1993-01-12"
+citeertitel_status: "officieel"
+signed_date: "1991-11-19"
+entry_into_force: "1993-01-12"
 ---
-
 # Raamovereenkomst inzake technische samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Peru
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Peru,
@@ -18,7 +43,7 @@ vanuit hun wens technische samenwerking te bevorderen en hiervoor het noodzakeli
 
 zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Doel van deze Overeenkomst is het bevorderen van technische samenwerking en het scheppen van een juridisch en bestuurlijk kader voor de samenwerkingsprojecten die op besluit van de bevoegde bestuurlijke autoriteiten van beide Partijen worden uitgevoerd in het kader van technische samenwerking.
 
@@ -28,7 +53,7 @@ zijn het volgende overeengekomen:
 
 De Nederlandse Regering wijst de Minister voor Ontwikkelingssamenwerking aan als de bevoegde bestuurlijke autoriteit.
 
-#### Artikel II
+##### Artikel II
 
 De Peruaanse Regering is met betrekking tot een project gehouden:
 
@@ -56,7 +81,7 @@ De Peruaanse Regering is met betrekking tot een project gehouden:
 
 - l. Het Nederlandse personeel, hun inwonende gezinsleden en degenen die van hen afhankelijk zijn te zullen garanderen dat zij niet minder gunstig zullen worden behandeld dan het personeel dat naar Peru wordt uitgezonden door welk ander land of internationale organisatie dan ook.
 
-#### Artikel III
+##### Artikel III
 
 1. De Peruaanse Regering zal de Nederlandse Regering en/of het Nederlandse personeel dat in Peru werkt in het kader van deze Overeenkomst vrijwaren tegen elk risico, rechtsvervolging, schade, kosten of heffingen als gevolg van de dood of letsel aan personen of schade aan eigendommen, of iedere andere vorm van schade die voortkomt uit of verband houdt met het al dan niet verrichten van een handeling door het Nederlandse personeel tijdens de uitvoering van zijn taken, tenzij deze schade het gevolg is van een opzettelijke fout of grove nalatigheid.
 
@@ -64,7 +89,7 @@ De Peruaanse Regering is met betrekking tot een project gehouden:
 
 3. Indien de Peruaanse Regering zulks verzoekt zal de Nederlandse Regering de Peruaanse autoriteiten alle noodzakelijke bestuurlijke of juridische bijstand verlenen die nodig is om eventuele problemen op te lossen die zich zouden kunnen voordoen bij toepassing van de voorgaande leden van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Peruaanse Regering heeft, na overleg met de Nederlandse Regering, het recht te verzoeken om terugtrekking van een Nederlands personeelslid wiens werk of gedrag onbevredigend is;
 
@@ -74,13 +99,13 @@ In geval van een dergelijke terugtrekking zal de Nederlandse Regering, indien de
 
 2. Het Nederlandse personeel zal zich bij de uitoefening van zijn taken houden aan de bepalingen die door de desbetreffende bevoegde autoriteiten zijn vastgesteld. Zij zullen wat betreft de dagelijkse werkzaamheden van een project regelmatig overleg plegen met de Peruaanse autoriteiten die verantwoordelijk zijn voor de uitvoering van dat project en de werkinstructies van die autoriteiten opvolgen.
 
-#### Artikel V
+##### Artikel V
 
 1. Alle bepalingen van deze Overeenkomst aangaande het Nederlands personeel zijn gelijkelijk van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een contract heeft afgesloten voor de uitvoering van een project ten aanzien waarvan beide bevoegde bestuurlijke autoriteiten tot samenwerking hebben besloten.
 
 2. Het aangestelde Nederlandse personeel zal binnen een project zowel uitvoerende als adviserende taken kunnen vervullen en daarbij alle mogelijke technische en wetenschappelijke hulp en medewerking verlenen, doch zij zullen geen andere economische activiteiten buiten het project verrichten.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De bepalingen van de artikelen I, II en III van deze Overeenkomst zijn eveneens van toepassing op suppletiedeskundigen die door Nederland worden ingezet, met dien verstande dat deze deskundigen wel belastingen zullen moeten betalen over het van de Peruaanse autoriteiten ontvangen loon.
 
@@ -88,11 +113,11 @@ In geval van een dergelijke terugtrekking zal de Nederlandse Regering, indien de
 
 De suppletiedeskundigen zullen de in Peru geldende regels en voorschriften respecteren, tenzij deze regels en voorschriften in strijd zijn met deze Overeenkomst of regelingen met betrekking tot de betrokken deskundigen zoals vastgelegd tussen beide bevoegde bestuurlijke autoriteiten.
 
-#### Artikel VII
+##### Artikel VII
 
 De Regering van de Republiek Peru zal de Regering van het Koninkrijk der Nederlanden vrijstellen van alle in- en uitvoerrechten en andere officiële heffingen op apparatuur (inclusief motorvoertuigen) en alle andere zaken die door de Nederlandse Regering worden geleverd in het kader van een project.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze Overeenkomst zal na ondertekening voorlopig worden toegepast en treedt in werking op de datum dat beide Partijen elkaar schriftelijk op de hoogte hebben gesteld van het feit dat aan de onderscheiden constitutionele vereisten is voldaan.
 

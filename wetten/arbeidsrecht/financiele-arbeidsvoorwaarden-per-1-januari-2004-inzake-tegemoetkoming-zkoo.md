@@ -1,13 +1,37 @@
 ---
-title: "Financiële arbeidsvoorwaarden per 1 januari 2004 (inzake tegemoetkoming ZKOO)"
+title: "Financiële arbeidsvoorwaarden per 1 januari 2004"
 identifier: "BWBR0016731"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016731"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016731"
+soort: "beleidsregel"
+stam_id: "6462523"
+version_id: "11138292"
+internal_id: "C15056771"
+label_id: "6451124"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016731/2004-01-01/0"
+intitule_bron: "Uitleg.2004-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-13"
+intitule_published: "2004-05-26"
+intitule_in_force: "2004-05-26"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-9"
+original_signed_date: "2004-05-13"
+original_published_date: "2004-05-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0016731&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0016731&g=2004-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Financiële arbeidsvoorwaarden per 1 januari 2004 (inzake tegemoetkoming ZKOO)"
+signed_date: "2004-05-13"
+entry_into_force: "2004-01-01"
 ---
-
 # Financiële arbeidsvoorwaarden per 1 januari 2004
 
 ### Inleiding

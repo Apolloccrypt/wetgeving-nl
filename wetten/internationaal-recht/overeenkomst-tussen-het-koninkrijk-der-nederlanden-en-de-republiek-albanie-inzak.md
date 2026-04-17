@@ -1,13 +1,39 @@
 ---
-title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen; Tirana, 15-04-1994"
+title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001184"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-09-01
-laatste_update: 1995-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001184"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-09-01"
+last_updated: "1995-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001184"
+soort: "verdrag"
+stam_id: "10001671763"
+version_id: "10001749902"
+internal_id: "C10006986531"
+label_id: "10001671944"
+dtd_version: "2.0"
+original_entry_into_force: "1995-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001184/1995-09-01/0"
+intitule_bron: "Trb.1994-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-05-02"
+intitule_published: "1994-07-13"
+intitule_in_force: "1995-08-10"
+intitule_status: "goed"
+original_publication: "Trb.1994-145"
+original_signed_date: "1995-05-02"
+original_published_date: "1994-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-145"
+entry_into_force_date: "1995-09-01"
+jci_1_3: "jci1.3:c:BWBV0001184&z=1995-09-01&g=1995-09-01"
+jci_1_0: "1.0:c:BWBV0001184&g=1995-09-01"
+citeertitel_status: "redactioneel"
+short_title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen; Tirana, 15-04-1994"
+signed_date: "1995-05-02"
+entry_into_force: "1995-09-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Albanië inzake de bevordering en de wederzijdse bescherming van investeringen
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Albanië, hierna te noemen de Overeenkomstsluitende Partijen,
@@ -18,7 +44,7 @@ In het besef dat overeenstemming omtrent de aan dergelijke buitenlandse invester
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst omvat de term:
 
@@ -52,11 +78,11 @@ Voor de toepassing van deze Overeenkomst omvat de term:
 
 - ii. met betrekking tot de Republiek Albanië, het grondgebied dat de Republiek Albanië vormt;
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Overeenkomstsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar grondgebied van investeringen van onderdanen van de andere Overeenkomstsluitende Partij. Met inachtneming van het recht van elke Overeenkomstsluitende Partij de door haar wetten of voorschriften verleende bevoegdheden uit te oefenen, laat elke Overeenkomstsluitende Partij dergelijke investeringen toe.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Overeenkomstsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van onderdanen van de andere Overeenkomstsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze onderdanen.
 
@@ -68,7 +94,7 @@ Elke Overeenkomstsluitende Partij bevordert, binnen het kader van haar wetten en
 
 5. Indien naast deze Overeenkomst de wettelijke bepalingen van één van beide Overeenkomstsluitende Partijen of verplichtingen krachtens internationaal recht, die thans tussen de Overeenkomstsluitende Partijen bestaan of op een later tijdstip onderling worden aangegaan, een algemene of bijzondere regeling bevatten op grond waarvan investeringen door onderdanen van de andere Overeenkomstsluitende Partij aanspraak kunnen maken op een behandeling die gunstiger is dan in deze Overeenkomst is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstellingen van belasting kent iedere Overeenkomstsluitende Partij aan onderdanen van de andere Overeenkomstsluitende Partij die zich op haar grondgebied met economische activiteiten bezighouden, een behandeling toe die niet minder gunstig is dan die welke wordt toegekend aan haar eigen onderdanen of aan die van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken onderdaan. Hierbij wordt evenwel geen rekening gehouden met bijzondere belastingvoordelen door die Partij toegekend:
 
@@ -78,7 +104,7 @@ Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstell
 
 - c. op basis van wederkerigheid met een derde Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen waarborgen dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in vrij inwisselbare valuta, zonder onnodige beperking of vertraging. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
@@ -100,7 +126,7 @@ De Overeenkomstsluitende Partijen waarborgen dat betalingen die verband houden m
 
 - g. de opbrengst van de verkoop of liquidatie van de investering.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen der Overeenkomstsluitende Partijen neemt maatregelen waardoor direct of indirect aan onderdanen van de andere Overeenkomstsluitende Partij hun investeringen worden ontnomen, tenzij aan de volgende voorwaarden wordt voldaan:
 
@@ -110,15 +136,15 @@ Geen der Overeenkomstsluitende Partijen neemt maatregelen waardoor direct of ind
 
 - c. de maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen, dient rente te omvatten tegen een gewone commerciële rentevoet tot de datum van betaling, en dient, wil zij doeltreffend zijn. voor de gerechtigden, zonder onredelijke vertraging te worden betaald en te kunnen worden overgemaakt naar het door de betrokken gerechtigden aangewezen land en in de valuta van het land waarvan de gerechtigden onderdaan zijn of in een door de gerechtigden aanvaarde vrij inwisselbare valuta.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan onderdanen van de ene Overeenkomstsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Overeenkomstsluitende Partij wegens oorlog of een andergewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstgenoemde Overeenkomstsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Overeenkomstsluitende Partij toekent aan haar eigen onderdanen of aan onderdanen van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken onderdanen.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de investeringen van een onderdaan van de ene Overeenkomstsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechnten van de genoemde onderdaan, ingevolge de voorwaarden van deze verzekering, door de andere Overeenkomstsluitende Partij erkend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een geschil tussen de ene Overeenkomstsluitende Partij en een onderdaan van de andere Overeenkomstsluitende Partij betreffende een investering van die onderdaan op het grondgebied van de eerstbedoelde Partij wordt, indien mogelijk, door de partijen bij het geschil in der minne geschikt.
 
@@ -132,15 +158,15 @@ Indien de investeringen van een onderdaan van de ene Overeenkomstsluitende Parti
 
 6. Scheidsrechterlijke uitspraken zijn onherroepelijk en bindend, en dienen in overeenstemming met het nationale recht ten uitvoer te worden gebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van deze Overeenkomst zijn, vanaf de datum van inwerkingtreding ervan, eveneens van toepassing op investeringen die voor die datum zijn gedaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Elk der Overeenkomstsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de uitlegging of toepassing van deze Overeenkomst. De andere Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor een dergelijk overleg.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Enig geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet binnen een redelijke termijn langs diplomatieke weg kan worden beslecht, wordt, tenzij de Partijen anderszins zijn overeengekomen, op verzoek van één van beide Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Partij benoemt één scheidsman en de aldus benoemde scheidsmannen benoemen te zamen een derde scheidsman, die geen onderdaan van een der Overeenkomstsluitende Partijen is, tot hun voorzitter.
 
@@ -158,11 +184,11 @@ Alvorens uitspraak te doen, kan het scheidsgerecht in elke stand van het geding 
 
 7. Het scheidsgerecht doet zijn uitspraak bij meerderheid van stemmen. Een zodanige uitspraak is onherroepelijk en bindend voor de Partijen.
 
-#### Artikel 13
+##### Artikel 13
 
 Wat betreft het Koninkrijk der Nederlanden is deze Overeenkomst van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de in artikel 14, eerste lid, bedoelde mededeling anders wordt bepaald.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiertoe vereiste procedures is voldaan, en blijft van kracht gedurende een tijdvak van vijftien jaar.
 

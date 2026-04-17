@@ -1,13 +1,35 @@
 ---
 title: "Algemeen Reglement van de Wereldpostunie"
 identifier: "BWBV0006293"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006293"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006293"
+soort: "verdrag"
+stam_id: "10005148683"
+version_id: "10005506192"
+internal_id: "C10009460401"
+label_id: "10005132804"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006293/2026-01-01/0"
+intitule_bron: "Trb.2013-208"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-10-29"
+intitule_in_force: "2018-10-04"
+intitule_status: "goed"
+original_publication: "Trb.2013-208"
+original_published_date: "2013-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-208"
+entry_into_force_date: "2017-08-02"
+jci_1_3: "jci1.3:c:BWBV0006293&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0006293&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2017-08-02"
 ---
-
 # Algemeen Reglement van de Wereldpostunie
 
 (Herschikking, aangenomen door het Congres van Doha 2012)
@@ -18,7 +40,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 1. CONGRES
 
-#### Artikel 101. Organisatie en bijeenroepen van Congressen en buitengewone Congressen ([Const. 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=15))
+##### Artikel 101. Organisatie en bijeenroepen van Congressen en buitengewone Congressen ([Const. 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=15))
 
 1. Uiterlijk vier jaar na het einde van het jaar gedurende welk het voorgaande Congres heeft plaatsgevonden, komen de vertegenwoordigers van de lidstaten in Congres bijeen.
 
@@ -34,11 +56,11 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 7. De onder 2 tot en met 5 en [artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=102&z=2026-01-01&g=2026-01-01) voorziene bepalingen zijn van dienovereenkomstige toepassing op buitengewone Congressen.
 
-#### Artikel 102. Stemrecht tijdens Congressen
+##### Artikel 102. Stemrecht tijdens Congressen
 
 1. Bij de beraadslagingen beschikt elk land over één stem, onder voorbehoud van de in [artikel 149](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=149&z=2026-01-01&g=2026-01-01) bedoelde sancties.
 
-#### Artikel 103. Taken van het Congres
+##### Artikel 103. Taken van het Congres
 
 1. Op basis van de voorstellen van de lidstaten, de Raad van Bestuur en de Postraad, gaat het Congres over tot:
 
@@ -66,7 +88,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 2. Als hoogste orgaan van de Unie houdt het Congres zich tevens bezig met andere aangelegenheden, in het bijzonder op het gebied van postale diensten.
 
-#### Artikel 104. Reglement van orde van Congressen
+##### Artikel 104. Reglement van orde van Congressen
 
 1. Bij de organisatie van de werkzaamheden en het voeren van overleg hanteert het Congres zijn Reglement van Orde.
 
@@ -74,7 +96,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. Het eerste en tweede lid zijn van dienovereenkomstige toepassing op Buitengewone Congressen.
 
-#### Artikel 105. Waarnemers bij de organen van de Unie
+##### Artikel 105. Waarnemers bij de organen van de Unie
 
 1. De volgende instanties worden uitgenodigd als waarnemer deel te nemen aan de plenaire zittingen en commissievergaderingen van het Congres, de Raad van Bestuur en de Postraad:
 
@@ -96,7 +118,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 2. RAAD VAN BESTUUR
 
-#### Artikel 106. Samenstelling en functioneren van de Raad van Bestuur
+##### Artikel 106. Samenstelling en functioneren van de Raad van Bestuur
 
 1. De Raad van Bestuur bestaat uit eenenveertig leden die hun functie gedurende het tijdvak tussen twee opeenvolgende Congressen uitoefenen.
 
@@ -110,7 +132,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 6. De Raad van Bestuur omschrijft en formaliseert de Permanente Groepen en Taskforces of overige organen die binnen zijn structuur worden ingesteld en/of zet deze op, waarbij terdege rekening wordt gehouden met de strategie van de Unie en het bedrijfsplan dat door het Congres is aangenomen.
 
-#### Artikel 107. Taken van de Raad van Bestuur
+##### Artikel 107. Taken van de Raad van Bestuur
 
 1. De Raad van Bestuur heeft de volgende taken:
 
@@ -196,7 +218,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 1.39. het aannemen van het Reglement van Orde en van de wijzigingen hiervan.
 
-#### Artikel 108. Organiseren van vergaderingen van de Raad van Bestuur
+##### Artikel 108. Organiseren van vergaderingen van de Raad van Bestuur
 
 1. Tijdens zijn oprichtingsvergadering, die bijeen wordt geroepen en geopend door de Voorzitter van het Congres, kiest de Raad van Bestuur, uit zijn leden, vier Vicevoorzitters. De Voorzitter en vier Vicevoorzitters komen uit lidstaten van elk van de vijf geografische groepen van de Unie.
 
@@ -208,7 +230,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 5. (geschrapt.)
 
-#### Artikel 109. Waarnemers
+##### Artikel 109. Waarnemers
 
 1. Waarnemers
 
@@ -226,11 +248,11 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 2.3. Onder uitzonderlijke omstandigheden kunnen leden van de Adviescommissie en de ad-hocwaarnemers worden uitgesloten van een vergadering of een deel van een vergadering. Ook kan hun recht op het ontvangen van bepaalde documenten worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist. Het besluit betreffende een dergelijke beperking kan per geval door elk betrokken orgaan of door de Voorzitter ervan in samenspraak met de Voorzitter van de Raad van Bestuur en de Secretaris-Generaal worden genomen. De verschillende gevallen worden aan de Raad van Bestuur bekendgemaakt, en aan de Postraad indien het om vraagstukken gaat die een bijzonder belang voor dit orgaan inhouden. Vervolgens kan de Raad van Bestuur, indien hij zulks nodig acht, de beperkingen, indien opportuun in overleg met de Postraad, opnieuw beoordelen. Uitsluitend voor toekomstige vergaderingen geldt dat kennisgevingen van beperkingen bij voorkeur ten minste veertien dagen vóór de desbetreffende vergadering aan de betrokken leden van de Adviescommissie en de ad-hocwaarnemers worden gezonden (of zo spoedig mogelijk in het geval van spoedvergaderingen die minder dan veertien dagen na verzending van de desbetreffende uitnodiging door het Internationaal Bureau worden gehouden). Bijgevolg zijn deze kennisgevingen niet van toepassing in het geval van uitsluitingen of beperkingen van de toegang tot documenten die noodzakelijk worden geacht in het kader van een lopende vergadering van het betrokken orgaan.
 
-#### Artikel 110. Reiskostenvergoeding
+##### Artikel 110. Reiskostenvergoeding
 
 1. De reiskosten van vertegenwoordigers van leden van de Raad van Bestuur die deelnemen aan de zittingen van dit orgaan, komen ten laste van hun lidstaat. Een vertegenwoordiger van elk van de lidstaten die overeenkomstig de door de Raad van Bestuur, respectievelijk de Verenigde Naties opgestelde lijsten worden gerangschikt onder de ontwikkelingslanden of minst ontwikkelde landen heeft, behalve voor de vergaderingen die tijdens het Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket en/of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, in het laatste geval op voorwaarde dat het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat. Hetzelfde recht wordt toegekend aan de vertegenwoordiger van elk lid van de Commissies of andere organen van de Raad wanneer deze buiten het Congres en de zittingen van de Raad vergaderen.
 
-#### Artikel 111. Informatie over de activiteiten van de Raad van Bestuur
+##### Artikel 111. Informatie over de activiteiten van de Raad van Bestuur
 
 1. Na elke zitting brengt de Raad van Bestuur de lidstaten, hun aangewezen aanbieders, de Beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, in het bijzonder door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.
 
@@ -238,7 +260,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 3. POSTRAAD
 
-#### Artikel 112. Samenstelling en functioneren van de Postraad
+##### Artikel 112. Samenstelling en functioneren van de Postraad
 
 1. De Postraad is samengesteld uit achtenveertig leden die hun taken gedurende het tijdvak tussen twee opeenvolgende Congressen vervullen.
 
@@ -250,7 +272,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 5. De Postraad omschrijft en formaliseert de Permanente groepen en Taskforces, door de gebruikers gefinancierde hulporganen of overige organen die binnen zijn structuur worden ingesteld en/of zet deze op, waarbij terdege rekening wordt gehouden met de strategie van de Unie en het bedrijfsplan dat door het Congres is aangenomen.
 
-#### Artikel 113. Taken van de Postraad
+##### Artikel 113. Taken van de Postraad
 
 1. De Postraad heeft de volgende taken:
 
@@ -294,7 +316,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 1.20. het aannemen van het Reglement van Orde en van de wijzigingen hiervan
 
-#### Artikel 114. Organisatie van vergaderingen van de Postraad
+##### Artikel 114. Organisatie van vergaderingen van de Postraad
 
 1. Tijdens zijn eerste vergadering, die bijeen wordt geroepen en wordt geopend door de Voorzitter van het Congres, kiest de Postraad uit zijn leden een Voorzitter en vier Vicevoorzitters en de Voorzitter/Vicevoorzitters/Medevoorzitters van de Commissies. De Voorzitter en vier Vicevoorzitters komen uit lidstaten van elk van de vijf geografische groepen van de Unie.
 
@@ -306,7 +328,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 5. (geschrapt.)
 
-#### Artikel 115. Waarnemers
+##### Artikel 115. Waarnemers
 
 1. Waarnemers
 
@@ -324,11 +346,11 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 2.3. Onder uitzonderlijke omstandigheden kunnen leden van de Adviescommissie en de ad-hocwaarnemers worden uitgesloten van een vergadering of een deel van een vergadering. Ook kan hun recht op het ontvangen van bepaalde documenten worden beperkt indien de vertrouwelijkheid van het onderwerp van de vergadering of van het document dat vereist. Het besluit betreffende een dergelijke beperking kan per geval door elk betrokken orgaan of door de Voorzitter ervan in samenspraak met de Voorzitter van de Postraad en de Secretaris-Generaal worden genomen. De verschillende gevallen worden aan de Raad van Bestuur bekendgemaakt en aan de Postraad. Vervolgens kan de Raad van Bestuur, indien hij zulks nodig acht, de beperkingen opnieuw beoordelen, wanneer opportuun in overleg met de Postraad; Uitsluitend voor toekomstige vergaderingen geldt dat kennisgevingen van beperkingen bij voorkeur ten minste veertien dagen vóór de desbetreffende vergadering aan de betrokken leden van de Adviescommissie en de ad-hocwaarnemers worden gezonden (of zo spoedig mogelijk in het geval van spoedvergaderingen die minder dan veertien dagen na verzending van de desbetreffende uitnodiging door het Internationaal Bureau worden gehouden). Bijgevolg zijn deze kennisgevingen niet van toepassing in het geval van uitsluitingen of beperkingen van de toegang tot documenten die noodzakelijk worden geacht in het kader van een lopende vergadering van het betrokken orgaan.
 
-#### Artikel 116. Reiskostenvergoeding
+##### Artikel 116. Reiskostenvergoeding
 
 1. De reiskosten van vertegenwoordigers van leden van de Postraad die deelnemen aan de zittingen van dit orgaan, komen ten laste van hun lidstaat. Een vertegenwoordiger van elk van de lidstaten die overeenkomstig de Verenigde Naties opgestelde lijst worden gerangschikt onder de minst ontwikkelde landen heeft, behalve voor de vergaderingen die tijdens het Congres plaatsvinden, echter recht op de vergoeding van hetzij de prijs van een economyclass-retourvliegticket en/of van een eersteklassetreinkaartje, hetzij van de kosten van de reis met elk ander middel, in het laatste geval op voorwaarde dat het bedrag de prijs van een economyclass-retourvliegticket niet te boven gaat.
 
-#### Artikel 117. Informatie over de activiteiten van de Postraad
+##### Artikel 117. Informatie over de activiteiten van de Postraad
 
 1. Na elke zitting brengt de Postraad de lidstaten, hun aangewezen aanbieders, de beperkte Unies en de leden van de Adviescommissie op de hoogte van zijn activiteiten, met name door hun een beknopt verslag alsmede de resoluties en besluiten van de Raad te doen toekomen.
 
@@ -338,11 +360,11 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 4. ADVIESCOMMISSIE
 
-#### Artikel 118. Doel van de Adviescommissie
+##### Artikel 118. Doel van de Adviescommissie
 
 1. De Adviescommissie heeft tot doel de belangen van de postale sector in brede zin te behartigen en als kader te dienen voor een doeltreffende dialoog tussen de betrokken partijen.
 
-#### Artikel 119. Samenstelling van de Adviescommissie
+##### Artikel 119. Samenstelling van de Adviescommissie
 
 1. De Adviescommissie omvat:
 
@@ -362,7 +384,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. De leden van de Adviescommissie krijgen geen enkele vergoeding of beloning.
 
-#### Artikel 120. Lidmaatschap van de Adviescommissie
+##### Artikel 120. Lidmaatschap van de Adviescommissie
 
 1. De Adviescommissie bestaat uit:
 
@@ -376,7 +398,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 4. De leden van de Adviescommissie krijgen geen enkele vergoeding of beloning.
 
-#### Artikel 121. Toetreding tot de Adviescommissie
+##### Artikel 121. Toetreding tot de Adviescommissie
 
 1. De toetreding tot de Adviescommissie wordt vastgesteld aan de hand van een procedure van indiening respectievelijk inwilliging van verzoeken die door de Raad van Bestuur wordt ingesteld en verloopt overeenkomstig [artikel 107.1.30](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01).
 
@@ -386,7 +408,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. Elk lid van de Adviescommissie wijst zijn eigen vertegenwoordigers aan.
 
-#### Artikel 122. Taken van de Adviescommissie
+##### Artikel 122. Taken van de Adviescommissie
 
 1. De Adviescommissie heeft de volgende taken:
 
@@ -400,7 +422,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 1.5. het indienen van aanbevelingen en verslagen bij het Congres, onder voorbehoud van goedkeuring van de Raad van Bestuur en in naam van laatstgenoemde, en wat de vraagstukken die voor de Postraad van belang zijn betreft, onder voorbehoud van beoordeling en commentaar door deze laatste overeenkomstig de [artikelen 107.1.22](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01) et [113.1.7](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=113&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 123. Organisatie van de Adviesraad
+##### Artikel 123. Organisatie van de Adviesraad
 
 1. Na elk Congres wordt de Adviescommissie opnieuw georganiseerd, volgens het door de Raad van Bestuur opgezette kader. De Voorzitter van de Raad van Bestuur zit de organisatievergadering van de Adviescommissie voor, gedurende welke wordt overgegaan tot de verkiezing van de Voorzitter van deze Commissie.
 
@@ -408,7 +430,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. De Adviescommissie vergadert minimaal eenmaal per jaar of vaker indien dit voor haar werkzaamheden noodzakelijk wordt geacht. De datum en plaats van elke vergadering worden door de Voorzitter van de Adviescommissie vastgesteld, na overeenstemming met de Voorzitters van de Raad van Bestuur en de Postraad en met de Directeur-Generaal van het Internationaal Bureau.
 
-#### Artikel 124. Vertegenwoordigers van de Adviescommissie bij de Raad van Bestuur, de Postraad en het Congres
+##### Artikel 124. Vertegenwoordigers van de Adviescommissie bij de Raad van Bestuur, de Postraad en het Congres
 
 1. Onverminderd [artikel 124.2](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=4&artikel=124&z=2026-01-01&g=2026-01-01), hebben de leden van de Adviescommissie het recht de vergaderingen van het Congres, de Raad van Bestuur en de Postraad en hun respectieve commissies, Permanente Groepen, Taskforces en andere organen als waarnemer zonder stemrecht bij te wonen, met inachtneming van de [artikelen 109](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=109&z=2026-01-01&g=2026-01-01) en [115](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=3&artikel=115&z=2026-01-01&g=2026-01-01) en het Reglement van Orde van het Congres voor zover dit voor het desbetreffende orgaan relevant is.
 
@@ -416,7 +438,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. De Voorzitter van de Raad van Bestuur en de Voorzitter van de Postraad vertegenwoordigen deze organen bij de vergaderingen van de Adviescommissie wanneer op de agenda van deze vergaderingen punten staan die voor deze organen van belang zijn.
 
-#### Artikel 125. Waarnemers bij de Adviescommissie
+##### Artikel 125. Waarnemers bij de Adviescommissie
 
 1. Lidstaten van de Unie, waarnemers en de ad-hocwaarnemers bedoeld in [artikel 105](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=1&artikel=105&z=2026-01-01&g=2026-01-01) kunnen zonder stemrecht deelnemen aan de zittingen van de Adviescommissie.
 
@@ -428,7 +450,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 1. VERKIEZING EN TAKEN VAN DE DIRECTEUR-GENERAAL EN DE PLAATSVERVANGEND DIRECTEUR-GENERAAL VAN HET INTERNATIONAAL BUREAU
 
-#### Artikel 126. Informatie over de activiteiten van de Adviescommissie
+##### Artikel 126. Informatie over de activiteiten van de Adviescommissie
 
 1. Na elke zitting brengt de Adviescommissie de Raad van Bestuur en de Postraad op de hoogte van haar activiteiten door de Voorzitters van deze organen, onder andere, een beknopt verslag te zenden van haar vergaderingen alsmede aanbevelingen en zienswijzen. De Voorzitter van de Adviescommissie of een andere aangewezen vertegenwoordiger van de Adviescommissie brengt ook verslag uit over de werkzaamheden van de Adviescommissie op elke plenaire vergadering van respectievelijk de Raad van Bestuur en de Postraad.
 
@@ -436,7 +458,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 3. De Adviescommissie stelt ten behoeve van het Congres een verslag op over haar activiteiten en doet dit ten minste twee maanden voor de opening van het Congres toekomen aan de lidstaten en aan hun aangewezen aanbieders.
 
-#### Artikel 127. Taken van de Directeur-Generaal
+##### Artikel 127. Taken van de Directeur-Generaal
 
 0bis. De Directeur-Generaal is de wettelijke vertegenwoordiger van de Unie.
 
@@ -500,7 +522,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 - 3.14. het bijwonen van zittingen van de organen van de Unie en het zonder stemrecht deelnemen aan de beraadslagingen, met de mogelijkheid zich te laten vertegenwoordigen.
 
-#### Artikel 128. Taken van de Plaatsvervangend Directeur-Generaal
+##### Artikel 128. Taken van de Plaatsvervangend Directeur-Generaal
 
 1. De Plaatsvervangend Directeur-Generaal staat de Directeur-Generaal bij en is verantwoording aan hem verschuldigd.
 
@@ -508,21 +530,21 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 ## DEEL 2. SECRETARIAAT VAN DE ORGANEN VAN DE UNIE EN DE ADVIESRAAD
 
-#### Artikel 129. Algemeen
+##### Artikel 129. Algemeen
 
 1. Het secretariaat van de organen van de Unie en de Adviesraad wordt verzorgd door het Internationaal Bureau onder de verantwoordelijkheid van de Directeur-Generaal.
 
-#### Artikel 130. Opstellen en verspreiden van stukken van de organen van de Unie
+##### Artikel 130. Opstellen en verspreiden van stukken van de organen van de Unie
 
 1. Het Internationaal Bureau stelt alle stukken op en stelt deze via de website van de Unie beschikbaar in de in [artikel 155](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=VI&artikel=155&z=2026-01-01&g=2026-01-01) genoemde taalversies, in overeenstemming met het Reglement van Orde van de Raad van Bestuur en de Postraad. Het Internationaal Bureau wijst door middel van een efficiënt online signaleringssysteem, met name de vertegenwoordigers van de lidstaten, tevens op nieuwe elektronische publicaties op de website van de Unie.
 
 2. Uitsluitend op verzoek van een afzonderlijke lidstaat verspreidt het Internationaal Bureau daarnaast fysieke publicaties van de Unie, zoals circulaires van het Internationaal Bureau en beknopte verslagen van de Raad van Bestuur en de Postraad.
 
-#### Artikel 131. Lijst van lidstaten ([Const. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=2))
+##### Artikel 131. Lijst van lidstaten ([Const. 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=2))
 
 1. Het Internationaal Bureau stelt een lijst van lidstaten van de Unie op en houdt deze bij; hierin wordt hun contributieklasse vermeld, hun geografische groep en hun positie ten aanzien van de Akten van de Unie.
 
-#### Artikel 132. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
+##### Artikel 132. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
 
 1. Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad, van de lidstaten en van hun aangewezen aanbieders voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.
 
@@ -534,7 +556,7 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 5. Het Internationaal Bureau waarborgt de vertrouwelijkheid en veiligheid van de commerciële gegevens die lidstaten en/of hun aangewezen aanbieders verstrekken voor het uitvoeren van zijn taken die voortvloeien uit de Akten of besluiten van de Unie.
 
-#### Artikel 133. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
+##### Artikel 133. Informatie. Zienswijzen. Verzoeken om uitlegging en wijziging van de Akten. Inlichtingen. Rol bij de vereffening
 
 1. Het Internationaal Bureau houdt zich te allen tijde ter beschikking van de Raad van Bestuur, van de Postraad, van de Adviescommissie, van de lidstaten en van hun aangewezen aanbieders voor het verstrekken van alle nuttige inlichtingen inzake vraagstukken die met de dienst verband houden.
 
@@ -546,11 +568,11 @@ Gelet op [artikel 22.2 van de op 10 juli 1964 te Wenen tot stand gekomen Constit
 
 5. Het Internationaal Bureau waarborgt de vertrouwelijkheid en veiligheid van de commerciële gegevens die lidstaten, hun aangewezen aanbieders en/of de leden van de Adviescommissie verstrekken voor het uitvoeren van zijn taken die voortvloeien uit de Akten of besluiten van de Unie.
 
-#### Artikel 134. Door het Internationaal Bureau verstrekte formulieren ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20))
+##### Artikel 134. Door het Internationaal Bureau verstrekte formulieren ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20))
 
 1. Het Internationaal Bureau is belast met het doen vervaardigen van internationale antwoordcoupons en met de verstrekking tegen kostprijs hiervan aan de lidstaten of hun aangewezen aanbieders die daarom verzoeken.
 
-#### Artikel 135. Akten van de beperkte Unies en bijzondere verdragen ([Const. 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8))
+##### Artikel 135. Akten van de beperkte Unies en bijzondere verdragen ([Const. 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8))
 
 1. Twee exemplaren van de Akten van de beperkte Unies en van de ingevolge [artikel 8 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=8) gesloten bijzondere verdragen moeten door de Bureaus van deze Unies of, bij gebreke daarvan, door een van de verdragsluitende partijen aan het Internationaal Bureau worden gezonden.
 
@@ -560,17 +582,17 @@ Het Internationaal Bureau meldt elke uit hoofde van deze bepaling vastgestelde o
 
 3. Het Internationaal Bureau brengt de lidstaten en hun aangewezen aanbieders op de hoogte van het bestaan van bovengenoemde Unies en verdragen.
 
-#### Artikel 136. Periodiek van de Unie
+##### Artikel 136. Periodiek van de Unie
 
 1. Het Internationaal Bureau publiceert met behulp van de hem ter beschikking gestelde stukken een periodiek in de Duitse, Engelse, Arabische, Chinese, Spaanse, Franse en Russische taal.
 
-#### Artikel 137. Jaarlijks verslag van de activiteiten van de Unie ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20), [Alg. Regl.107.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01); 24)
+##### Artikel 137. Jaarlijks verslag van de activiteiten van de Unie ([Const. 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=20), [Alg. Regl.107.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=I&deel=2&artikel=107&z=2026-01-01&g=2026-01-01); 24)
 
 1. Het Internationaal Bureau stelt een jaarlijks verslag op van de activiteiten van de Unie en doet dit, na goedkeuring door de Commissie van Beheer van de Raad van Bestuur, toekomen aan de lidstaten en/of hun aangewezen aanbieders, aan de beperkte Unies en aan de Organisatie van de Verenigde Naties.
 
 ### HOOFDSTUK III. INDIENING, BEHANDELING VAN VOORSTELLEN, KENNISGEVING VAN BESLUITEN EN INWERKINGTREDING VAN DE REGELINGEN EN ANDERE BESLUITEN
 
-#### Artikel 138. Procedure voor de indiening van voorstellen bij het Congres
+##### Artikel 138. Procedure voor de indiening van voorstellen bij het Congres
 
 1. Onder voorbehoud van de uitzonderingen bedoeld onder 2 en 5 wordt de indiening bij het Congres van voorstellen van ongeacht welke aard door de lidstaten geregeld door de volgende procedure:
 
@@ -592,23 +614,23 @@ Het Internationaal Bureau meldt elke uit hoofde van deze bepaling vastgestelde o
 
 5. De onder 1 en 4 voorgeschreven procedure is noch van toepassing op voorstellen betreffende het Reglement van Orde van de Congressen, noch op voorstellen ingediend door de Raad van Bestuur of de Postraad.
 
-#### Artikel 139. Procedure voor de indiening van voorstellen tot wijziging van het Verdrag of de overeenkomsten tussen twee Congressen
+##### Artikel 139. Procedure voor de indiening van voorstellen tot wijziging van het Verdrag of de overeenkomsten tussen twee Congressen
 
 1. Om in aanmerking te worden genomen moet elk voorstel betreffende het Verdrag of de overige verdragen dat door een lidstaat tussen twee Congressen in wordt ingediend, worden gesteund door ten minste twee andere lidstaten. Aan deze voorstellen wordt geen gevolg gegeven indien het Internationaal Bureau niet tegelijkertijd de benodigde adhesiebetuigingen ontvangt.
 
 2. Deze voorstellen worden door tussenkomst van het Internationaal Bureau aan de andere lidstaten gericht.
 
-#### Artikel 140. Bestudering van voorstellen tot wijziging van het Verdrag of de overige verdragen tussen twee Congressen
+##### Artikel 140. Bestudering van voorstellen tot wijziging van het Verdrag of de overige verdragen tussen twee Congressen
 
 1. Elk voorstel betreffende het [Verdrag](onbekend), de overige verdragen en hun Slotprotocollen is onderworpen aan de volgende procedure: wanneer een lidstaat een voorstel aan het Internationaal Bureau heeft gezonden, zendt dit Bureau het voorstel aan alle lidstaten ter beoordeling toe. De lidstaten beschikken over een termijn van 45 dagen om het voorstel te beoordelen en, in voorkomend geval, hun opmerkingen aan het Internationaal Bureau te doen toekomen. Wijzigingen zijn niet toegestaan. Aan het einde van deze termijn van 45 dagen zendt het Internationaal Bureau de lidstaten alle opmerkingen toe die het heeft ontvangen en verzoekt het elke lidstaat met stemrecht voor of tegen het voorstel te stemmen. De lidstaten waarvan de stem niet binnen een termijn van 45 dagen door het Internationaal Bureau is ontvangen, worden geacht zich van stemming te hebben onthouden. De eerder genoemde termijn gaat in op de datum van de circulaires van het Internationaal Bureau. Eventuele documentatie en opmerkingen die uit de bovengenoemde procedure voortvloeien worden fysiek of met veilige elektronische middelen ingediend en, in het geval van indieningen van lidstaten bij het Internationaal Bureau, ondertekend door een naar behoren gemachtigde vertegenwoordiger van de overheidsautoriteit van de betreffende lidstaat. Voor de toepassing van dit lid worden met „veilige elektronische middelen” alle elektronische middelen bedoeld die worden gebruikt voor het verwerken, opslaan en verzenden van gegevens die waarborgen dat de volledigheid, integriteit en vertrouwelijkheid van dergelijke gegevens gehandhaafd blijven bij het indienen van bovenvermelde documentatie en opmerkingen door het Internationaal Bureau of een lidstaat.
 
 2. Indien een voorstel betrekking heeft op een Overeenkomst van de Unie of het Slotprotocol ervan kunnen alleen de lidstaten die partij bij dat verdrag zijn deelnemen aan de onder 1 bedoelde handelingen.
 
-#### Artikel 141. Procedure voor de indiening bij de Postraad van voorstellen betreffende de opstelling van nieuwe Regelingen, met inachtneming van de door het Congres genomen besluiten
+##### Artikel 141. Procedure voor de indiening bij de Postraad van voorstellen betreffende de opstelling van nieuwe Regelingen, met inachtneming van de door het Congres genomen besluiten
 
 Vervallen
 
-#### Artikel 142. Wijziging van de Regelingen door de Postraad
+##### Artikel 142. Wijziging van de Regelingen door de Postraad
 
 1. De voorstellen tot wijziging van de Regelingen worden behandeld door de Postraad.
 
@@ -616,13 +638,13 @@ Vervallen
 
 3. (Vervallen)
 
-#### Artikel 143. Kennisgeving van tussen twee Congressen genomen besluiten ([Const. 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=29), [Alg. Regl. 139](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=139&z=2026-01-01&g=2026-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=140&z=2026-01-01&g=2026-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=142&z=2026-01-01&g=2026-01-01))
+##### Artikel 143. Kennisgeving van tussen twee Congressen genomen besluiten ([Const. 29](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=29), [Alg. Regl. 139](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=139&z=2026-01-01&g=2026-01-01), [140](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=140&z=2026-01-01&g=2026-01-01), [142](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=142&z=2026-01-01&g=2026-01-01))
 
 1. De in het Verdrag, de overige verdragen en de Slotprotocollen bij deze Akten aangebrachte wijzigingen worden bevestigd door middel van een kennisgeving van de Directeur-Generaal van het Internationaal Bureau aan de regeringen van de lidstaten.
 
 2. Van de door de Postraad in de Regelingen en de Slotprotocollen daarvan aangebrachte wijzigingen geeft het Internationaal Bureau kennis aan de lidstaten en aan hun aangewezen aanbieders. Hetzelfde geldt voor de in artikel 36.3.2 van het Verdrag en in de overeenkomstige bepalingen van de overige verdragen bedoelde uitleggingen.
 
-#### Artikel 144. Inwerkingtreding van de Regelingen en van andere tussen twee Congressen genomen besluiten
+##### Artikel 144. Inwerkingtreding van de Regelingen en van andere tussen twee Congressen genomen besluiten
 
 1. De Regelingen en alle wijzigingen daarvan treden in werking op de daarin vermelde datum zoals bepaald door de Postraad, en blijven voor onbepaalde tijd van kracht.
 
@@ -630,7 +652,7 @@ Vervallen
 
 ### HOOFDSTUK IV. FINANCIËN
 
-#### Artikel 145. Vaststelling en regeling van de uitgaven van de Unie
+##### Artikel 145. Vaststelling en regeling van de uitgaven van de Unie
 
 1. Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de limiet van 38.890.030 Zwitserse frank voor de jaren 2022 tot en met 2025 niet te boven gaan. Dit plafond is eveneens van toepassing op de jaren na 2025 indien het voor 2025 geplande Congres wordt uitgesteld
 
@@ -644,7 +666,7 @@ Vervallen
 
 6. Indien de onder 1 en 2 bedoelde kredieten ontoereikend blijken om het goed functioneren van de Unie te waarborgen, kunnen deze limieten slechts worden overschreden met de goedkeuring van de meerderheid van de lidstaten van de Unie. Elk overleg moet een volledige uiteenzetting bevatten van de feiten die een dergelijk verzoek rechtvaardigen.
 
-#### Artikel 146. Vaststelling van de uitgaven van de Unie
+##### Artikel 146. Vaststelling van de uitgaven van de Unie
 
 1. Onder voorbehoud van de bepalingen onder 2 tot en met 6 mogen de jaarlijkse uitgaven die verband houden met de activiteiten van de organen van de Unie de limiet van 38.890.030 Zwitserse frank voor de jaren 2022 en 2023 en 39.512.270 Zwitserse frank voor de jaren 2024 en 2025 niet te boven gaan. Dit plafond is eveneens van toepassing op de jaren na 2025 indien het voor 2025 geplande Congres wordt uitgesteld.
 
@@ -658,23 +680,23 @@ Vervallen
 
 6. Indien de onder 1 en 2 bedoelde kredieten ontoereikend blijken om het goed functioneren van de Unie te waarborgen, kunnen deze limieten slechts worden overschreden met de goedkeuring van de meerderheid van de lidstaten van de Unie. Elk overleg moet een volledige uiteenzetting bevatten van de feiten die een dergelijk verzoek rechtvaardigen.
 
-#### Artikel 147. Financiële tekorten
+##### Artikel 147. Financiële tekorten
 
 1. Teneinde de tekorten in de middelen van de Unie op te vangen, wordt een Reservefonds in het leven geroepen. Het bedrag ervan wordt vastgesteld door de Raad van Bestuur. Dit Fonds wordt in eerste instantie gecreëerd uit begrotingsoverschotten. Het Fonds kan eveneens dienen voor het sluitend maken van de begroting of het verlagen van de contributie van de lidstaten.
 
 2. Ten aanzien van tijdelijke financiële tekorten verstrekt de Regering van de Zwitserse Bondsstaat, onder de in onderlinge overeenstemming vast te stellen voorwaarden, op korte termijn de benodigde voorschotten.
 
-#### Artikel 148. Toezicht op de boekhouding en verslaglegging
+##### Artikel 148. Toezicht op de boekhouding en verslaglegging
 
 1. De regering van de Zwitserse Bondsstaat houdt kosteloos toezicht op het beheer van de financiële rekeningen alsmede op de boekhouding van het Internationaal Bureau, binnen de door het Congres vastgestelde kredietlimieten.
 
-#### Artikel 149. Automatische sancties
+##### Artikel 149. Automatische sancties
 
 1. Elke lidstaat die de in [artikel 146.3](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=IV&artikel=146&z=2026-01-01&g=2026-01-01) bedoelde overdracht niet kan verrichten en weigert zich te onderwerpen aan een overeenkomstig artikel 146.4 door het Internationaal Bureau voorgestelde afbetalingsregeling, of deze regeling niet naleeft, verliest automatisch zijn stemrecht bij het Congres en bij de vergaderingen van de Raad van Bestuur en bij de Postraad, en is niet meer in deze twee Raden verkiesbaar.
 
 2. De automatische sancties worden ambtshalve en met onmiddellijke ingang opgeheven zodra de desbetreffende lidstaat zich, ten aanzien van de hoofdsom en de renten, volledig heeft gekweten van zijn aan de Unie verplichte achterstallige contributie, of wanneer hij met de Unie is overeengekomen zich te onderwerpen aan een aflossingsregeling voor zijn schulden.
 
-#### Artikel 150. Contributieklassen
+##### Artikel 150. Contributieklassen
 
 1. De lidstaten dragen bij aan de dekking van de uitgaven van de Unie volgens de contributieklasse waartoe zij behoren. De opbouw van de contributieklassen begint bij één eenheid en loopt op in stappen van één eenheid tot een niveau dat wordt vastgesteld onder verwijzing naar de meest recente contributieschaal voor de verdeling van de uitgaven van de Verenigde Naties. Lidstaten kiezen hun contributieklasse op basis van hun economische capaciteit en nemen de bovengenoemde contributieschaal in overweging. De lidstaten die door de Verenigde Naties worden genoemd als de minst ontwikkelde landen betalen een halve contributie-eenheid. Kleine eilandstaten in ontwikkeling met een bevolking van minder dan 200.000 (zoals vermeld door de Verenigde Naties) betalen een tiende van een contributie-eenheid.
 
@@ -692,11 +714,11 @@ Vervallen
 
 8. Verplaatsingen naar een hogere klasse zijn niet aan beperkingen onderworpen.
 
-#### Artikel 151. Betaling van benodigdheden die door het Internationaal Bureau worden geleverd ([Alg. Regl. 134](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=II&deel=2&artikel=134&z=2026-01-01&g=2026-01-01))
+##### Artikel 151. Betaling van benodigdheden die door het Internationaal Bureau worden geleverd ([Alg. Regl. 134](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=II&deel=2&artikel=134&z=2026-01-01&g=2026-01-01))
 
 1. De benodigdheden die tegen betaling door het Internationaal Bureau aan de lidstaten en aan hun aangewezen aanbieders worden geleverd, moeten zo snel mogelijk worden betaald, doch uiterlijk binnen zes maanden, te rekenen vanaf de eerste dag van de maand volgend op die waarin het Internationaal Bureau de rekening heeft verzonden. Na deze termijn dragen de verschuldigde bedragen rente ten behoeve van de Unie, ten belope van 5% per jaar, te rekenen vanaf het verstrijken van de genoemde termijn.
 
-#### Artikel 152. Organisatie van door de gebruikers gefinancierde hulporganen
+##### Artikel 152. Organisatie van door de gebruikers gefinancierde hulporganen
 
 1. Onder voorbehoud van goedkeuring door de Raad van Bestuur kan de Postraad een aantal door de gebruikers gefinancierde hulporganen instellen die op vrijwillige basis worden gefinancierd, teneinde operationele, commerciële, technische en economische activiteiten te organiseren die op grond van [artikel 18 van de Constitutie](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=18) tot zijn bevoegdheden behoren, maar die niet mogen worden gefinancierd uit de reguliere begroting.
 
@@ -724,7 +746,7 @@ Vervallen
 
 ### HOOFDSTUK V. ARBITRAGE
 
-#### Artikel 153. Arbitrageprocedure
+##### Artikel 153. Arbitrageprocedure
 
 1. Bij geschillen tussen lidstaten die dienen te worden geregeld door middel van arbitrage, stelt de ene lidstaat de andere schriftelijk in kennis van het voorwerp van het geschil en zijn voornemen een arbitrageprocedure in stellen.
 
@@ -756,11 +778,11 @@ Vervallen
 
 ### HOOFDSTUK V. ARBITRAGE
 
-#### Artikel 154. Werktalen van het Internationaal Bureau
+##### Artikel 154. Werktalen van het Internationaal Bureau
 
 1. De werktalen van het Internationaal Bureau zijn het Frans en het Engels.
 
-#### Artikel 155. Talen die worden gebruikt voor verslaglegging, beraadslagingen en dienstcorrespondentie
+##### Artikel 155. Talen die worden gebruikt voor verslaglegging, beraadslagingen en dienstcorrespondentie
 
 1. Voor de stukken van de Unie worden de Franse, Engelse, Arabische en Spaanse taal gebruikt. Tevens worden de Duitse, Chinese, Portugese en Russische taal gebruikt, mits de productie in deze talen zich beperkt tot de belangrijkste basisstukken. Ook worden andere talen gebruikt, mits de lidstaten die daarom verzoeken alle kosten ervan dragen.
 
@@ -790,15 +812,15 @@ Vervallen
 
 ### HOOFDSTUK VII. SLOTBEPALINGEN
 
-#### Artikel 156. Voorwaarden voor de goedkeuring van voorstellen betreffende het Algemeen Reglement
+##### Artikel 156. Voorwaarden voor de goedkeuring van voorstellen betreffende het Algemeen Reglement
 
 1. Om uitvoerbaar te worden, moeten de bij het Congres ingediende voorstellen met betrekking tot dit Algemeen Reglement worden goedgekeurd door de meerderheid van de bij het Congres vertegenwoordigde lidstaten die stemrecht hebben. Ten tijde van de stemming moet ten minste twee derde van de lidstaten van de Unie die stemrecht hebben, aanwezig zijn.
 
-#### Artikel 157. Voorstellen betreffende de Akkoorden met de Organisatie van de Verenigde Naties ([Const 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=9))
+##### Artikel 157. Voorstellen betreffende de Akkoorden met de Organisatie van de Verenigde Naties ([Const 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004459&artikel=9))
 
 1. De in [artikel 156](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=VII&artikel=156&z=2026-01-01&g=2026-01-01) bedoelde voorwaarden voor goedkeuring zijn eveneens van toepassing op voorstellen tot wijziging van de tussen de Wereldpostunie en de Organisatie van de Verenigde Naties gesloten Akkoorden, voor zover deze Akkoorden niet voorzien in voorwaarden voor wijziging van de daarin vervatte bepalingen.
 
-#### Artikel 158. Inwerkingtreding en duur van het Algemeen Reglement
+##### Artikel 158. Inwerkingtreding en duur van het Algemeen Reglement
 
 1. (Geschrapt.)
 
@@ -808,7 +830,7 @@ IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countr
 
 DONE at Doha, 11 October 2012
 
-#### Artikel 138bis. Procedure voor wijzigingen van voorstellen ingediend overeenkomstig [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=138&z=2026-01-01&g=2026-01-01)
+##### Artikel 138bis. Procedure voor wijzigingen van voorstellen ingediend overeenkomstig [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBV0006293&hoofdstuk=III&artikel=138&z=2026-01-01&g=2026-01-01)
 
 1. Wijzigingen van reeds gedane voorstellen, met inbegrip van die welke door de Raad van Bestuur of de Postraad zijn ingediend, kunnen aan het Internationaal Bureau voorgelegd worden overeenkomstig de bepalingen van het Reglement van Orde van de Congressen.
 
@@ -826,7 +848,7 @@ IN WITNESS WHEREOF the plenipotentiaries of the Governments of the member countr
 
 DONE at Doha, 11 October 2012
 
-#### Artikel 117bis. Coördinatiecommissie voor de permanente organen van de Unie
+##### Artikel 117bis. Coördinatiecommissie voor de permanente organen van de Unie
 
 1. De Voorzitter van de Raad van Bestuur, de Voorzitter van de Postraad en de Directeur-Generaal van het Internationaal Bureau vormen de Coördinatiecommissie voor de permanente organen van de Unie.
 

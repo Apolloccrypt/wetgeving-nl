@@ -1,13 +1,35 @@
 ---
 title: "Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2024"
 identifier: "BWBR0049542"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049542"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049542"
+soort: "zbo"
+stam_id: "17067493"
+version_id: "30035262"
+internal_id: "C43050201"
+label_id: "16976204"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049542/2024-04-01/0"
+intitule_bron: "Stcrt.2024-11231"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-04-08"
+intitule_in_force: "2024-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-11231"
+original_published_date: "2024-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-11231"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049542&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0049542&g=2024-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-04-01"
 ---
-
 # Tarieventabel Handhaving Centraal Bureau voor de Statistiek 2024
 
 De wetgever heeft het tot stand komen van betrouwbare en actuele statistieken zo belangrijk geacht, dat het verstrekken van gegevens door ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen – onder nader bepaalde voorwaarden – wettelijk verplicht is gesteld. Tevens heeft de wetgever daarbij een wettelijke bevoegdheid aan de Directeur-generaal van de Statistiek verleend om in geval van het niet naleven van de responsverplichting een last onder dwangsom en/of bestuurlijke boete op te leggen aan de overtreder ([artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=43) en [51 van de CBS-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=51)). In deze Tarieventabel Handhaving Centraal Bureau voor de Statistiek (verder: tarieventabel) wordt uitgewerkt hoe deze bevoegdheid wordt uitgeoefend.

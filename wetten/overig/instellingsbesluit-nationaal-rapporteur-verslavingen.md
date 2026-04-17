@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Nationaal Rapporteur Verslavingen"
+title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)"
 identifier: "BWBR0047491"
-categorie: "Overig"
-publicatiedatum: 2022-12-01
-laatste_update: 2022-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047491"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-12-01"
+last_updated: "2022-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047491"
+soort: "ministeriele-regeling"
+stam_id: "16568793"
+version_id: "29046682"
+internal_id: "C41166581"
+label_id: "16488754"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047491/2022-12-01/0"
+intitule_bron: "Stcrt.2022-31039"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-11"
+intitule_published: "2022-11-18"
+intitule_in_force: "2022-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31039"
+original_signed_date: "2022-11-11"
+original_published_date: "2022-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31039"
+entry_into_force_date: "2022-12-01"
+jci_1_3: "jci1.3:c:BWBR0047491&z=2022-12-01&g=2022-12-01"
+jci_1_0: "1.0:c:BWBR0047491&g=2022-12-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Nationaal Rapporteur Verslavingen"
+signed_date: "2022-11-11"
+entry_into_force: "2022-12-01"
 ---
-
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 november 2022, kenmerk 3456138-1038442-VGP houdende instelling van en regels voor de taakuitoefening van de Nationaal Rapporteur Verslavingen (Instellingsbesluit Nationaal Rapporteur Verslavingen)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - c. **Staatssecretaris:** de Staatssecretaris van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Nationaal Rapporteur Verslavingen.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - e. het rapporteren aan de Staatssecretaris door toezending van zijn rapporten ten aanzien van de aanpak van verslavingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Nationaal Rapporteur Verslavingen wordt, in overeenstemming met het gevoelen van de Ministerraad, door de Staatssecretaris benoemd.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 5. De Nationaal Rapporteur Verslavingen kan op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de Staatssecretaris.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Nationaal Rapporteur Verslavingen wordt in zijn werkzaamheden ondersteund door een bureau.
 
@@ -62,17 +88,17 @@ In dit besluit wordt verstaan onder:
 
 5. De Staatssecretaris draagt, na overleg met de Nationaal Rapporteur Verslavingen, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van het instituut Nationaal Rapporteur Verslavingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Nationaal Rapporteur Verslavingen stelt zijn eigen werkwijze en die van het instituut vast.
 
 2. De Nationaal Rapporteur Verslavingen kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van zijn taak nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 De Nationaal Rapporteur Verslavingen vervult zijn taak in onafhankelijkheid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanwijzing die betrekking heeft op de Nationaal Rapporteur Verslavingen wordt schriftelijk gegeven door de Staatssecretaris.
 
@@ -90,7 +116,7 @@ De Nationaal Rapporteur Verslavingen vervult zijn taak in onafhankelijkheid.
 
 6. Het tweede, derde en vierde lid zijn niet van toepassing op aanwijzingen die betrekking hebben op de bedrijfsmatige aspecten van het instituut Nationaal Rapporteur Verslavingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De rapporten, bedoeld in [artikel 2, tweede lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0047491&artikel=2&z=2022-12-01&g=2022-12-01), bevatten in ieder geval:
 
@@ -104,27 +130,27 @@ De Nationaal Rapporteur Verslavingen vervult zijn taak in onafhankelijkheid.
 
 3. De Staatssecretaris zendt de rapporten naar de betreffende bewindspersoon en ter kennisneming aan de Tweede Kamer der Staten-Generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Nationaal Rapporteur Verslavingen stelt ieder jaar een jaarverslag en financiële verantwoording op en zendt deze aan de Staatssecretaris.
 
 2. Het jaarverslag en de financiële verantwoording, bedoeld in het eerste lid, worden openbaar gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 De Nationaal Rapporteur Verslavingen verstrekt aan de Staatssecretaris desgevraagd de door hem gewenste inlichtingen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. In het eerste kwartaal van 2025 vindt een eerste evaluatie plaats van de start van het instituut Nationaal Rapporteur Verslavingen.
 
 2. Elke vier jaar wordt het instituut Nationaal Rapporteur Verslavingen geëvalueerd. Aan de hand van de evaluatie wordt bezien of wijziging van de taken van Nationaal Rapporteur Verslavingen gewenst is.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van 1 december 2022.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Nationaal Rapporteur Verslavingen.
 

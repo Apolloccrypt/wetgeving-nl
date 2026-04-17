@@ -1,13 +1,39 @@
 ---
-title: "Regeling bedrijfscommissie voor de overheid 2015"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nummer 2014-0000662921, houdende de instelling, taak, werkwijze en samenstelling van de bedrijfscommissie voor de overheid (Regeling bedrijfscommissie voor de overheid 2015)"
 identifier: "BWBR0035982"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035982"
+soort: "ministeriele-regeling"
+stam_id: "12899753"
+version_id: "21951282"
+internal_id: "C31490411"
+label_id: "12869494"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035982/2020-01-01/0"
+intitule_bron: "Stcrt.2014-36284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-10"
+intitule_published: "2014-12-18"
+intitule_in_force: "2014-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36284"
+original_signed_date: "2014-12-10"
+original_published_date: "2014-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36284"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035982&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0035982&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling bedrijfscommissie voor de overheid 2015"
+signed_date: "2014-12-10"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 december 2014, nummer 2014-0000662921, houdende de instelling, taak, werkwijze en samenstelling van de bedrijfscommissie voor de overheid (Regeling bedrijfscommissie voor de overheid 2015)
 
 Gelet op de [artikelen 37](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=39), in samenhang met [46d, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46d) en [46e van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=46e);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - k. het secretariaat van de toetsingscommissie inzet bevoegdheden.
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. Er is een bedrijfscommissie overheid.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Taak bedrijfscommissie overheid
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 1. De bedrijfscommissie overheid behandelt aangelegenheden, bedoeld in [artikel 37 van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=37).
 
@@ -78,7 +104,7 @@ In deze regeling wordt verstaan onder:
 
 - c. voorlichting te verzorgen over de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) en de toepassing van de Wet op de ondernemingsraden.
 
-#### Artikel 4. Indienen verzoek tot bemiddeling
+##### Artikel 4. Indienen verzoek tot bemiddeling
 
 1. Iedere belanghebbende kan de bedrijfscommissie overheid verzoeken te bemiddelen bij een geschil, indien op grond van [artikel 36, eerste lid, van de Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747&artikel=36) een verzoek kan worden ingediend bij de kantonrechter.
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 6. Bij een verzoek om bemiddeling kan de verzoeker vragen om behandeling volgens de verkorte bemiddelprocedure, zoals beschreven in [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.2&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 5. Einde bemiddeling en status advies
+##### Artikel 5. Einde bemiddeling en status advies
 
 1. Partijen bij het geschil bepalen of de bemiddeling, bedoeld in [artikel 3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=3&z=2020-01-01&g=2020-01-01), geslaagd is.
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3.1. Reguliere bemiddelprocedure
 
-#### Artikel 6. Bevoegdheid bedrijfscommissie overheid
+##### Artikel 6. Bevoegdheid bedrijfscommissie overheid
 
 1. Na ontvangst van een verzoek om bemiddeling als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01), gaat de bedrijfscommissie overheid na of zij bevoegd is het verzoek te behandelen.
 
@@ -118,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 3. Verklaart de bedrijfscommissie overheid zich onbevoegd op een andere grond dan genoemd in het tweede lid, dan stelt zij de verzoeker hiervan direct op de hoogte. De kennisgeving gebeurt schriftelijk en gemotiveerd.
 
-#### Artikel 7. Ontvankelijkheid verzoek
+##### Artikel 7. Ontvankelijkheid verzoek
 
 1. Een verzoek om bemiddeling is ontvankelijk als het voldoet aan het gestelde in [artikel 4, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=4&z=2020-01-01&g=2020-01-01).
 
@@ -128,13 +154,13 @@ In deze regeling wordt verstaan onder:
 
 4. Als de bedrijfscommissie overheid een verzoek onvoldoende omschreven, gemotiveerd en gedocumenteerd vindt, dan vraagt zij de verzoeker om aanvulling. Daarbij wordt aangegeven welke punten moeten worden aangevuld en welke documenten moeten worden aangeleverd. Zij stelt daarbij aan de verzoeker een termijn. Een verzoek is in ieder geval onvoldoende gemotiveerd, wanneer de verzoeker daarin niet zijn reactie geeft op het standpunt van de wederpartij in het geschil, zoals dit standpunt uit de meegestuurde documenten blijkt.
 
-#### Artikel 8. Kennisgeving in behandeling nemen en informatieverstrekking over procedure
+##### Artikel 8. Kennisgeving in behandeling nemen en informatieverstrekking over procedure
 
 1. Nadat is vastgesteld dat de bedrijfscommissie overheid bevoegd is en het verzoek ontvankelijk is, stelt de bedrijfscommissie overheid de verzoeker er van op de hoogte dat het verzoek in behandeling wordt genomen.
 
 2. Bij de kennisgeving, bedoeld in het eerste lid, wordt informatie verstrekt over de procedure en de vermoedelijke duur daarvan, de aanvang van de termijn, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=11&z=2020-01-01&g=2020-01-01), en de eventuele opschorting daarvan.
 
-#### Artikel 9. Wijze van behandeling van het geschil
+##### Artikel 9. Wijze van behandeling van het geschil
 
 1. De bedrijfscommissie overheid beslist over de wijze waarop zij het verzoek om bemiddeling zal behandelen.
 
@@ -142,7 +168,7 @@ In deze regeling wordt verstaan onder:
 
 3. Partijen bij het geschil worden gevraagd voor het starten van de bemiddeling aan te geven of zij [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=2&artikel=5&z=2020-01-01&g=2020-01-01), toepassen en het advies dat volgt op een niet geslaagde bemiddeling als een bindend advies aanvaarden.
 
-#### Artikel 10. Schriftelijk verslag
+##### Artikel 10. Schriftelijk verslag
 
 1. De bedrijfscommissie overheid brengt van elke bemiddeling schriftelijk verslag uit van haar bevindingen.
 
@@ -162,7 +188,7 @@ In deze regeling wordt verstaan onder:
 
 3. De bedrijfscommissie overheid stuurt het verslag zo spoedig mogelijk aan partijen.
 
-#### Artikel 11. Termijnen
+##### Artikel 11. Termijnen
 
 1. De termijn voor de behandeling van een verzoek om bemiddeling, inclusief het uitbrengen van het schriftelijk verslag, genoemd in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2020-01-01&g=2020-01-01), bedraagt maximaal twee maanden.
 
@@ -174,7 +200,7 @@ In deze regeling wordt verstaan onder:
 
 5. Als de bedrijfscommissie overheid het schriftelijk verslag, genoemd in het eerste lid, niet binnen de hiervoor bepaalde uiterste termijn kan uitbrengen, brengt zij betrokken partijen daarvan zo spoedig mogelijk op de hoogte. Zij stelt daarbij een nieuwe uiterste termijn.
 
-#### Artikel 12. Interne regels
+##### Artikel 12. Interne regels
 
 1. De bedrijfscommissie overheid kan interne regels maken over haar werkwijze. De regels moeten goedgekeurd worden door de Minister van Binnenlandse Zaken Koninkrijksrelaties.
 
@@ -182,21 +208,21 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 3.2. Verkorte bemiddelprocedure
 
-#### Artikel 13. Bevoegdheid, ontvankelijkheid, wijze van behandeling
+##### Artikel 13. Bevoegdheid, ontvankelijkheid, wijze van behandeling
 
 Op de verkorte bemiddelprocedure zijn de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2020-01-01&g=2020-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2020-01-01&g=2020-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=8&z=2020-01-01&g=2020-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=9&z=2020-01-01&g=2020-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=3&paragraaf=3.1&artikel=10&z=2020-01-01&g=2020-01-01) van overeenkomstige toepassing.
 
-#### Artikel 14. Bemiddeling op locatie
+##### Artikel 14. Bemiddeling op locatie
 
 Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mondelinge behandeling plaatsvindt om een minnelijke schikking tot stand te brengen.
 
-#### Artikel 15. Beoordeling of verkorte bemiddelprocedure wordt toegepast
+##### Artikel 15. Beoordeling of verkorte bemiddelprocedure wordt toegepast
 
 1. De verkorte bemiddelprocedure wordt toegepast bij de behandeling van geschillen over de uitleg en toepassing van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) waarbij het waarschijnlijk is dat het geschil tussen partijen door bemiddeling volgens de verkorte procedure kan worden opgelost.
 
 2. Na ontvangst van het verzoek om toepassing van de verkorte bemiddelprocedure beoordeelt de voorzitter of het geschil daarvoor geschikt is. Indien dit het geval is wordt de verkorte bemiddelprocedure toegepast.
 
-#### Artikel 16. Termijn verkorte bemiddelprocedure
+##### Artikel 16. Termijn verkorte bemiddelprocedure
 
 1. De termijn voor de verkorte bemiddelprocedure bedraagt maximaal drie weken.
 
@@ -206,7 +232,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 4. De termijn vangt aan op de dag waarop het verzoek bij de bevoegde bedrijfscommissie overheid is ontvangen.
 
-#### Artikel 17. Keuze voor reguliere procedure bij niet slagen verkorte procedure
+##### Artikel 17. Keuze voor reguliere procedure bij niet slagen verkorte procedure
 
 1. Als de bemiddeling volgens de verkorte bemiddelprocedure niet slaagt, kunnen de partijen bij het geschil alsnog verzoeken om behandeling via de reguliere bemiddelprocedure.
 
@@ -214,7 +240,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 ### Hoofdstuk 4. De samenstelling van de bedrijfscommissie overheid
 
-#### Artikel 18. Samenstelling en benoeming leden
+##### Artikel 18. Samenstelling en benoeming leden
 
 1. De bedrijfscommissie overheid bestaat uit tien leden en tien plaatsvervangende leden.
 
@@ -234,7 +260,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 4. De bedrijfscommissie overheid wordt door de partijen genoemd in tweede lid, meteen na de benoeming schriftelijk geïnformeerd over de benoeming van een lid of een plaatsvervangend lid.
 
-#### Artikel 19. Zittingsduur leden en plaatsvervangende leden
+##### Artikel 19. Zittingsduur leden en plaatsvervangende leden
 
 1. De leden en de plaatsvervangende leden van de bedrijfscommissie overheid treden om de vier jaar tegelijk af en kunnen direct opnieuw worden benoemd.
 
@@ -242,7 +268,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 3. Degene die tot lid of tot plaatsvervangend lid van de bedrijfscommissie overheid is benoemd om een tussentijds opengevallen plaats te vervullen, treedt af op het tijdstip waarop het oorspronkelijke lid of plaatsvervangende lid, had moeten aftreden.
 
-#### Artikel 20. Voorzitterschap en plaatsvervangend voorzitterschap
+##### Artikel 20. Voorzitterschap en plaatsvervangend voorzitterschap
 
 1. Twee leden van de bedrijfscommissie overheid worden door de andere bedrijfscommissieleden aangewezen om bij toerbeurt op te treden als voorzitter en plaatsvervangend voorzitter. De toerbeurten worden vastgelegd in een rooster.
 
@@ -252,7 +278,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 4. In afwijking van bovenstaande kan de bedrijfscommissie overheid een voorzitter aanwijzen die geen lid is en aan deze wel of geen stemrecht verlenen.
 
-#### Artikel 21. Vormen kamers
+##### Artikel 21. Vormen kamers
 
 1. De bedrijfscommissie overheid kan kamers vormen.
 
@@ -262,13 +288,13 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 ### Hoofdstuk 5. Besluitvorming door de bedrijfscommissie overheid
 
-#### Artikel 22. Vergadering
+##### Artikel 22. Vergadering
 
 1. Een vergadering van de bedrijfscommissie overheid vindt alleen plaats als meer dan de helft van de leden volgens de presentielijst aanwezig is.
 
 2. De in het eerste lid genoemde voorwaarde is niet van toepassing bij een tweede oproep voor de vergadering.
 
-#### Artikel 23. Stemmen
+##### Artikel 23. Stemmen
 
 1. De leden van de bedrijfscommissie overheid stemmen zonder last of ruggespraak.
 
@@ -276,19 +302,19 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 3. Over zaken wordt mondeling gestemd. Over personen wordt met gesloten, ongetekende briefjes gestemd.
 
-#### Artikel 24. Tot stand komen besluit
+##### Artikel 24. Tot stand komen besluit
 
 1. Voor het tot stand komen van een besluit is volstrekte meerderheid van uitgebrachte stemmen vereist.
 
 2. Indien bij het nemen van een besluit over een zaak geen van de leden om stemming vraagt, is het voorstel aangenomen.
 
-#### Artikel 25. Belangenverstrengeling of schijn van belangenverstrengeling
+##### Artikel 25. Belangenverstrengeling of schijn van belangenverstrengeling
 
 1. De leden van de bedrijfscommissie overheid stemmen niet over zaken als er sprake is van belangenverstrengeling of de schijn van belangenverstrengeling.
 
 2. Van belangenverstrengeling of de schijn van belangenverstrengeling is in ieder geval sprake wanneer het zaken betreft die de leden van de bedrijfscommissie overheid, hun echtgenoten of hun geregistreerde partners of hun bloed- of aanverwanten tot de derde graad ingesloten, persoonlijk aangaan.
 
-#### Artikel 26. Geldige of nietige stemming
+##### Artikel 26. Geldige of nietige stemming
 
 1. Voor het bepalen van de geldigheid van een stemming tellen alleen de stemmen mee van de leden die bevoegd zijn te stemmen.
 
@@ -300,7 +326,7 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 5. Een stemming gehouden in een vergadering als bedoeld in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035982&hoofdstuk=5&artikel=22&z=2020-01-01&g=2020-01-01), is geldig, ongeacht het aantal leden dat aan de stemming heeft deelgenomen.
 
-#### Artikel 27. Staking van stemming
+##### Artikel 27. Staking van stemming
 
 1. Bij staking van stemmen in een voltallige vergadering wordt:
 
@@ -312,27 +338,27 @@ Bemiddeling volgens de verkorte bemiddelprocedure houdt in dat op locatie een mo
 
 ### Hoofdstuk 6. Advies en informatie aan ministers en raad voor het overheidspersoneelsbeleid
 
-#### Artikel 28. Informeren en adviseren ministers en Raad voor het Overheidspersoneelsbeleid
+##### Artikel 28. Informeren en adviseren ministers en Raad voor het Overheidspersoneelsbeleid
 
 1. De bedrijfscommissie overheid informeert en adviseert de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de WOR-Kamer van de Raad voor het Overheidspersoneelsbeleid op verzoek of uit eigen beweging over alle zaken die haar werkterrein betreffen.
 
 2. De bedrijfscommissie overheid informeert en adviseert de Minister van Sociale Zaken en Werkgelegenheid over alle zaken die haar werkterrein betreffen, wanneer de minister daarom verzoekt.
 
-#### Artikel 29. Jaarverslag
+##### Artikel 29. Jaarverslag
 
 De bedrijfscommissie overheid stelt het jaarlijks verslag algemeen verkrijgbaar. De bedrijfscommissie overheid kan hiervoor kosten in rekening brengen.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 30. Intrekking
+##### Artikel 30. Intrekking
 
 De [Regeling samenstelling en werkwijze Bedrijfscommissie voor de Overheid 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013578) wordt ingetrokken.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bedrijfscommissie voor de overheid 2015.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 

@@ -1,20 +1,46 @@
 ---
 title: "Wet primair onderwijs BES"
 identifier: "BWBR0030280"
-categorie: "Onderwijs"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030280"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030280"
+soort: "wet-BES"
+stam_id: "11402163"
+version_id: "18717972"
+internal_id: "C26150511"
+label_id: "11377714"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030280/2026-01-01/0"
+intitule_bron: "Stb.2011-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-03"
+intitule_published: "2011-02-16"
+intitule_in_force: "2011-03-07"
+intitule_status: "goed"
+original_publication: "Stb.2011-33"
+original_signed_date: "2011-02-03"
+original_published_date: "2011-02-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "32419"
+original_url_id: "stb-2011-33"
+entry_into_force_date: "2011-02-17"
+jci_1_3: "jci1.3:c:BWBR0030280&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0030280&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-02-03"
+entry_into_force: "2011-02-17"
 ---
-
 # Wet primair onderwijs BES
 
 ### Hoofdstuk I. Basisonderwijs
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet wordt verstaan onder:
 
@@ -76,11 +102,11 @@ In deze wet wordt verstaan onder:
 
 **vroegschoolse educatie:** uitvoering van een programma, gericht op het verbeteren van de voorwaarden voor het met succes doorstromen in het basisonderwijs, dat wordt verzorgd in groep 1 en 2 van een basisschool als vervolg op de voorschoolse educatie, bedoeld in [artikel 1.1 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=1.1).
 
-#### Artikel 2. Doelgroep
+##### Artikel 2. Doelgroep
 
 Het basisonderwijs is het onderwijs bestemd voor kinderen vanaf de leeftijd van omstreeks 4 jaar. Het legt mede de grondslag voor het volgen van aansluitend voortgezet onderwijs.
 
-#### Artikel 3. Bevoegdheid schoolonderwijs
+##### Artikel 3. Bevoegdheid schoolonderwijs
 
 1. Schoolonderwijs mag, onverminderd het derde lid, slechts worden gegeven door degene die:
 
@@ -106,7 +132,7 @@ Het basisonderwijs is het onderwijs bestemd voor kinderen vanaf de leeftijd van 
 
 4. Ten aanzien van studenten die een duale opleiding volgen als bedoeld in [artikel 7.7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7) leidend tot een getuigschrift als bedoeld in het eerste lid, onder b.1°, en aan die opleiding ten minste 180 studiepunten hebben behaald, kan worden afgeweken van de eisen in het eerste lid onder b, met dien verstande dat het tijdelijk dienstverband van de student een periode beslaat die overeenkomt met een volledig dienstverband van vijf maanden. De vorige volzin is van overeenkomstige toepassing ten aanzien van studenten die ten minste 166 doch nog geen 180 studiepunten hebben behaald, indien door de desbetreffende hogeschool wordt verklaard dat de student beschikt over met 180 studiepunten vergelijkbare en tevens voor het dienstverband relevante kennis, inzicht en vaardigheden. De toepassing van de vorige volzin vervalt ten aanzien van die student die niet binnen vier weken na aanvang van het dienstverband over 180 studiepunten beschikt. De in artikel 7.7, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bedoelde overeenkomst vermeldt tevens de leraar onder wiens verantwoordelijkheid de betrokken student werkzaamheden van onderwijskundige aard verricht.
 
-#### Artikel 4. Bevoegdheid onderwijsondersteunende werkzaamheden
+##### Artikel 4. Bevoegdheid onderwijsondersteunende werkzaamheden
 
 1. Onderwijsondersteunende werkzaamheden als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), mogen slechts worden verricht door degene die:
 
@@ -124,7 +150,7 @@ Het basisonderwijs is het onderwijs bestemd voor kinderen vanaf de leeftijd van 
 
 3. Ten aanzien van studenten aan een opleiding als bedoeld in [artikel 7.7, tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.7), studenten aan de beroepsbegeleidende leerweg van een opleiding als bedoeld in [artikel 7.2.2 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2) en studenten aan de beroepsbegeleidende leerweg van een opleiding als bedoeld in [artikel 7.2.2 van de Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395&artikel=7.2.2) die in het kader van die opleiding onderwijsondersteunende werkzaamheden verrichten waarvoor op grond van [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), bekwaamheidseisen zijn vastgesteld, kan voor de duur van die werkzaamheden worden afgeweken van het eerste lid, onder b tot en met d.
 
-#### Artikel 5. Kosten van voeding, kleding of vervoer voor leerlingen
+##### Artikel 5. Kosten van voeding, kleding of vervoer voor leerlingen
 
 1. Bij eilandsverordening worden regels gegeven met betrekking tot het verstrekken van voeding en kleding aan alsmede het mogelijk maken van vervoer naar en van school voor leerlingen die zonder deze voorzieningen redelijkerwijs niet in staat zouden zijn de school geregeld te bezoeken als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=6) en [7 van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=7).
 
@@ -140,7 +166,7 @@ Het basisonderwijs is het onderwijs bestemd voor kinderen vanaf de leeftijd van 
 
 7. De eilandsverordening bepaalt dat voor leerlingen die wegens hun lichamelijke, verstandelijke of zintuiglijke handicap op ander vervoer dan openbaar vervoer zijn aangewezen, dan wel vanwege een zodanige handicap niet zelfstandig van openbaar vervoer gebruik kunnen maken, een adequate voorziening wordt getroffen.
 
-#### Artikel 6. Verplichting tot overleg en aangifte inzake zedenmisdrijven
+##### Artikel 6. Verplichting tot overleg en aangifte inzake zedenmisdrijven
 
 1. Indien het bevoegd gezag op enigerlei wijze bekend is geworden dat een ten behoeve van zijn school met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf tegen de zeden als bedoeld in het [Tweede Boek, titel XIV, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&titeldeel=XIV) jegens een leerling van de school, treedt het bevoegd gezag onverwijld in overleg met de vertrouwensinspecteur, bedoeld in [artikel 6 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=6).
 
@@ -148,15 +174,15 @@ Het basisonderwijs is het onderwijs bestemd voor kinderen vanaf de leeftijd van 
 
 3. Indien een personeelslid op enigerlei wijze bekend is geworden dat een ten behoeve van de school met taken belast persoon zich mogelijk schuldig maakt of heeft gemaakt aan een misdrijf als bedoeld in het eerste lid jegens een leerling van de school, stelt het personeelslid het bevoegd gezag daarvan onverwijld in kennis.
 
-#### Artikel 7. Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
+##### Artikel 7. Niet uit de openbare kas bekostigd bijzonder schoolonderwijs
 
 Het bevoegd gezag van een bijzondere school geeft binnen vier weken na de oprichting van de school onder overlegging van de statuten van de rechtspersoon, die de school in stand houdt, en van de reglementen, van die oprichting kennis aan Onze Minister. Indien de statuten of reglementen worden gewijzigd of ingetrokken, wordt eveneens binnen vier weken van de wijziging of van de intrekking van de statuten of reglementen aan Onze Minister kennis gegeven.
 
-#### Artikel 8. Uitgaven uit de openbare kas
+##### Artikel 8. Uitgaven uit de openbare kas
 
 Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden geen scholen in stand gehouden, noch uitgaven voor een school gedaan. Openbare lichamen doen geen uitgaven voor een niet door het openbaar lichaam in stand gehouden school dan krachtens de wet.
 
-#### Artikel 9. Reikwijdte wet
+##### Artikel 9. Reikwijdte wet
 
 1. Deze wet is niet van toepassing op scholen die uitsluitend bestemd zijn voor kinderen die niet de Nederlandse nationaliteit hebben.
 
@@ -172,7 +198,7 @@ Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden ge
 
 #### § 3. Personeel
 
-#### Artikel 31. Directie, leraren en onderwijsondersteunend personeel
+##### Artikel 31. Directie, leraren en onderwijsondersteunend personeel
 
 1. Aan elke school zijn 1 of 2 directeuren verbonden, bij wie onder verantwoordelijkheid van het bevoegd gezag de onderwijskundige, organisatorische en huishoudelijke leiding berust. De functie van directeur kan minder dan een volledige formatieplaats omvatten. De directeur van een school kan tevens met de leiding worden belast van een andere school waar de functie van directeur vacant is. De directeur van een school kan tevens directeur zijn van een andere school.
 
@@ -190,13 +216,13 @@ Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden ge
 
 8. Het bevoegd gezag stelt jaarlijks het beleid vast met betrekking tot de formatie van de verschillende categorieën personeel van de school. Indien toepassing is gegeven aan het vijfde lid, stelt het bevoegd gezag tevens jaarlijks het beleid vast met betrekking tot de formatie van dat personeel. Zoveel mogelijk tegelijk met de vaststelling van het in de eerste en tweede volzin bedoelde beleid met betrekking tot de formatie, bepaalt het bevoegd gezag functies en taken van het personeel van de school, met inachtneming van de daaromtrent bij algemene maatregel van bestuur te geven nadere voorschriften, en in voorkomend geval functies en taken van het in het vijfde lid bedoelde personeel.
 
-#### Artikel 32. Overdracht taken en bevoegdheden
+##### Artikel 32. Overdracht taken en bevoegdheden
 
 1. Het bestuur kan hem bij wettelijk voorschrift opgedragen taken en bevoegdheden overdragen aan de directeur van de school of indien toepassing is gegeven aan [artikel 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=31&z=2026-01-01&g=2026-01-01), het in dat artikellid bedoelde personeel voor zover dat is belast met managementtaken met betrekking tot de scholen.
 
 2. De directeur van de school of indien toepassing is gegeven aan [artikel 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=31&z=2026-01-01&g=2026-01-01), het in dat artikellid bedoelde personeel voor zover dat is belast met managementtaken met betrekking tot de scholen, kan hem bij wettelijk voorschrift opgedragen, of door het bevoegd gezag overgedragen, taken en bevoegdheden overdragen aan elkaar of aan de adjunct-directeur.
 
-#### Artikel 33. Vaststelling managementstatuut
+##### Artikel 33. Vaststelling managementstatuut
 
 1. Het bevoegd gezag stelt na overleg met de directeur en indien toepassing is gegeven aan [artikel 31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=31&z=2026-01-01&g=2026-01-01), met het in dat artikellid bedoelde personeel voor zover dat is belast met managementtaken met betrekking tot de scholen, een managementstatuut vast. In het managementstatuut is ten minste een regeling opgenomen betreffende de bevoegdheden van de directeur en indien toepassing is gegeven aan artikel 31, vijfde lid, tevens van de bevoegdheden van het in dat artikellid bedoelde personeel voor zover dat is belast met managementtaken met betrekking tot de scholen en met betrekking tot de toedeling, bestemming en aanwending van de bekostiging.
 
@@ -212,7 +238,7 @@ Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden ge
 
 4. Het bevoegd gezag stelt het managementstatuut, alsmede elke wijziging daarvan, zo spoedig mogelijk na de vaststelling op een voor eenieder toegankelijke wijze beschikbaar.
 
-#### Artikel 34. Vereisten benoeming of tewerkstelling personeel
+##### Artikel 34. Vereisten benoeming of tewerkstelling personeel
 
 1. Directeuren, adjunct-directeuren en leraren worden door het bevoegd gezag benoemd dan wel tewerkgesteld zonder benoeming.
 
@@ -252,7 +278,7 @@ Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden ge
 
 9. Indien betrokkene in het bezit is van een geschiktheidsverklaring als bedoeld in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=137&z=2026-01-01&g=2026-01-01) vindt de benoeming of tewerkstelling zonder benoeming plaats voor een periode van ten hoogste twee aaneengesloten schooljaren. Het bevoegd gezag kan deze benoemingsperiode, al dan niet onder door dat gezag te stellen voorwaarden, verlengen met ten hoogste twee jaren indien het bevoegd gezag daarvoor redenen aanwezig acht. Het bevoegd gezag beschikt over geordende gegevens met betrekking tot de toepassing van de tweede volzin. Het bevoegd gezag dat betrokkene voor de eerste maal na afgifte van de geschiktheidsverklaring benoemt of tewerkstelt zonder benoeming, tekent het feit en de datum van benoeming of tewerkstelling zonder benoeming aan op die verklaring.
 
-#### Artikel 35. Bekwaamheidseisen
+##### Artikel 35. Bekwaamheidseisen
 
 1. Bij algemene maatregel van bestuur worden bekwaamheidseisen vastgesteld voor leraren.
 
@@ -268,11 +294,11 @@ Ten laste van een andere openbare kas dan van Rijk en openbaar lichaam worden ge
 
 5. Onze Minister stelt een beroepsorganisatie die hij vanuit het oogpunt van beroepskwaliteit representatief acht voor onderwijspersoneel als bedoeld in deze wet, in de gelegenheid hem een voorstel te doen voor de in het eerste, tweede of derde lid voorgeschreven bekwaamheidseisen en kan een representatief geachte beroepsorganisatie in de gelegenheid stellen hem een voorstel te doen voor bekwaamheidseisen die op grond van het tweede lid kunnen worden vastgesteld. Onze Minister stelt deze organisatie vervolgens in elk geval eenmaal in de zes jaar in de gelegenheid, hem een voorstel te doen over ongewijzigde handhaving of wijziging van de bekwaamheidseisen voor zover vastgesteld. Uit een voorstel als bedoeld in de eerste of tweede volzin blijkt tevens, in hoeverre dat voorstel mede steun geniet van een vertegenwoordiging van bevoegde gezagsorganen en ouders van de leerlingen.
 
-#### Artikel 36. Bekwaamheidsdossier
+##### Artikel 36. Bekwaamheidsdossier
 
 Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of werkzaamheden verricht waarvoor bekwaamheidseisen zijn vastgesteld, over geordende gegevens met betrekking tot de bekwaamheid en het onderhouden van de bekwaamheid. Ten behoeve van de onderlinge vergelijkbaarheid en herkenbaarheid van de gegevens kunnen bij ministeriële regeling voorschriften worden vastgesteld over de inrichting en wijze van ordening van deze gegevens.
 
-#### Artikel 37. Rechtspositieregeling personeel van een bijzondere school
+##### Artikel 37. Rechtspositieregeling personeel van een bijzondere school
 
 1. De [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) en de daarop berustende regelingen zijn voor het personeel van een school voor bijzonder onderwijs van overeenkomstige toepassing.
 
@@ -280,21 +306,21 @@ Het bevoegd gezag beschikt ten aanzien van elk personeelslid dat een functie of 
 
 3. Het bestuurscollege stelt de regeling, bedoeld in het tweede lid, dan wel een wijziging daarvan niet vast dan nadat daarover op overeenstemming gericht overleg is gevoerd met de bevoegde gezagsorganen en met de onderwijsvakbonden of, bij het ontbreken daarvan, met een representatief te achten vertegenwoordiging van het personeel. [Artikel 101 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=101) is niet van toepassing op de vaststelling dan wel wijziging van de regeling, bedoeld in het tweede lid.
 
-#### Artikel 38. Afwijking nationaliteitsvereiste
+##### Artikel 38. Afwijking nationaliteitsvereiste
 
 [Artikel 3, eerste lid, onderdeel b, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=3) is niet van toepassing op het personeel.
 
-#### Artikel 39. Benoeming, schorsing en ontslag
+##### Artikel 39. Benoeming, schorsing en ontslag
 
 Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming in vaste dienst en in tijdelijke dienst voor langer dan een half jaar, alsmede van een ontslag uit een zodanige betrekking, doet het bevoegd gezag terstond mededeling aan de inspecteur.
 
-#### Artikel 40. Benoeming in algemene dienst
+##### Artikel 40. Benoeming in algemene dienst
 
 1. Het bevoegd gezag benoemt de directeur en de adjunct-directeur, de leraren en het onderwijsondersteunend personeel in algemene dienst van het bevoegd gezag.
 
 2. Onder benoeming in algemene dienst van het bevoegd gezag wordt verstaan een benoeming ten behoeve van het verrichten van werkzaamheden aan door het bevoegd gezag in stand gehouden scholen.
 
-#### Artikel 41. Verplichting tot bieden van stagemogelijkheden
+##### Artikel 41. Verplichting tot bieden van stagemogelijkheden
 
 1. Het bevoegd gezag is verplicht aan studenten die in opleiding zijn voor een functie in het basisonderwijs of in het voortgezet onderwijs, gelegenheid te bieden de als onderdeel van hun opleiding vereiste ervaring in de school te verkrijgen.
 
@@ -312,7 +338,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 6. De scholen waarop studenten als bedoeld in het eerste lid zijn toegelaten, zijn toegankelijk voor de inspectie belast met het toezicht op de opleidingsinstellingen, voor de directeuren en de door deze aan te wijzen leraren van die opleidingsinstellingen, alsmede voor de leden van de betrokken staatsexamencommissies, een en ander voor zover zulks voor de uitoefening van het toezicht op de praktische vorming, onderscheidenlijk de begeleiding van de praktische vorming van de in de school aanwezige studenten noodzakelijk is.
 
-#### Artikel 42. Scholings- en begeleidingsovereenkomst zij-instroom in het beroep
+##### Artikel 42. Scholings- en begeleidingsovereenkomst zij-instroom in het beroep
 
 1. Degene die beschikt over een in [artikel 137](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=137&z=2026-01-01&g=2026-01-01) bedoelde geschiktheidsverklaring, het bevoegd gezag dat betrokkene benoemt of tewerkstelt zonder benoeming, en het bestuur van een instelling die werkzaamheden uitvoert als bedoeld in [artikel 142, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=11&artikel=142&z=2026-01-01&g=2026-01-01), sluiten een overeenkomst die hun wederzijdse rechten en plichten omvat met betrekking tot het uitvoeren van de noodzakelijk geachte scholing en begeleiding, met inachtneming van de beoordeling, bedoeld in [artikel 138, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=138&z=2026-01-01&g=2026-01-01). Indien na het sluiten van de overeenkomst blijkt dat de scholing of begeleiding niet volgens de overeenkomst kan worden uitgevoerd, treft het bevoegd gezag tijdig een toereikende vervangende voorziening.
 
@@ -332,7 +358,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 66. Algemene bepalingen bekostiging scholen
+##### Artikel 66. Algemene bepalingen bekostiging scholen
 
 1. Het Rijk bekostigt openbare en de bijzondere scholen met in achtneming van deze titel, met uitzondering van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&z=2026-01-01&g=2026-01-01).
 
@@ -340,7 +366,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 3. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ter uitvoering van het eerste lid. Deze algemene maatregel van bestuur bevat in ieder geval een regeling van de termijnen waarbinnen besluiten moeten worden genomen.
 
-#### Artikel 67. Aanvullende middelen
+##### Artikel 67. Aanvullende middelen
 
 1. Onze Minister kan aanvullende middelen ter beschikking stellen die niet strekken tot bekostiging van het onderwijs, bedoeld in deze wet, wet, of de schoolbegeleiding ten behoeve daarvan, maar direct of indirect nodig zijn voor de uitvoering van het onderwijs of voor de bevordering van deelname aan het onderwijs.
 
@@ -348,7 +374,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 3. De [titels 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en [4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4),[5](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=9) en [10 van de Wet overige OCW- subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=10) zijn op dit artikel van toepassing.
 
-#### Artikel 68. Grondslag bekostiging zorg leerlingen met specifieke onderwijsbehoefte
+##### Artikel 68. Grondslag bekostiging zorg leerlingen met specifieke onderwijsbehoefte
 
 1. Het Rijk bekostigt openbare en bijzondere scholen voor zorg voor leerlingen met een specifieke onderwijsbehoefte. Deze bekostiging is verwerkt in de bedragen, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=100&z=2026-01-01&g=2026-01-01).
 
@@ -356,7 +382,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van het eerste en tweede lid.
 
-#### Artikel 69. Subsidie expertisecentrum onderwijszorg
+##### Artikel 69. Subsidie expertisecentrum onderwijszorg
 
 1. Onze Minister verstrekt het expertisecentrum onderwijszorg subsidie.
 
@@ -364,7 +390,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 3. De [titels 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en [4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en de [artikelen 4 tot en met 19 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) zijn van toepassing op de subsidie.
 
-#### Artikel 70. Beroep
+##### Artikel 70. Beroep
 
 1. In afwijking van [artikel 7, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=7) kan een belanghebbende beroep instellen bij het Gemeenschappelijke Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba tegen:
 
@@ -376,7 +402,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 2. De [artikelen 54](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=54) en [55 Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=55) zijn van overeenkomstige toepassing.
 
-#### Artikel 71. Instandhouding openbare scholen door een stichting of een openbare rechtspersoon
+##### Artikel 71. Instandhouding openbare scholen door een stichting of een openbare rechtspersoon
 
 1. Voor de toepassing van deze titel zijn de voorschriften die betrekking hebben op bijzondere scholen, van overeenkomstige toepassing op openbare scholen die in stand worden gehouden door een stichting als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=54&z=2026-01-01&g=2026-01-01) of een openbare rechtspersoon als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01), tenzij het tegendeel blijkt.
 
@@ -386,7 +412,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 #### § 3. Personeel
 
-#### Artikel 72. Aanvang bekostiging
+##### Artikel 72. Aanvang bekostiging
 
 1. Onze Minister kan een school voor bekostiging in aanmerking brengen.
 
@@ -440,7 +466,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld aan de wijze waarop de aanvraag plaatsvindt en kan een model voor de aanvraag worden vastgesteld.
 
-#### Artikel 73. Voldoende openbaar onderwijs
+##### Artikel 73. Voldoende openbaar onderwijs
 
 1. Indien uit schriftelijke verklaringen van ten minste 50 verschillende ouders van kinderen tot en met de leeftijd van 12 jaar behoefte blijkt te bestaan aan het volgen van openbaar onderwijs en dat in die behoefte niet of onvoldoende wordt voorzien, onderzoekt het bestuurscollege of uit de belangstellingsmeting, bedoeld in [artikel 72, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01), voldoende belangstelling blijkt.
 
@@ -450,11 +476,11 @@ Het bevoegd gezag benoemt, schorst en ontslaat het personeel. Van een benoeming 
 
 4. Indien binnen 10 kilometer van de plaats in de gemeente waar het onderwijs moet worden gegeven over de weg gemeten geen school aanwezig is waar openbaar onderwijs wordt gegeven en aan het volgen van openbaar onderwijs behoefte bestaat, brengt Onze Minister een openbare school waarvoor een aanvraag is gedaan voor bekostiging in aanmerking, indien voldaan is aan de voorschriften van [artikel 72, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 74. Berekening aantal leerlingen
+##### Artikel 74. Berekening aantal leerlingen
 
 Vervallen
 
-#### Artikel 75. Aanvraagprocedure nieuwe school
+##### Artikel 75. Aanvraagprocedure nieuwe school
 
 1. De aanvraag, bedoeld in [artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01), wordt ingediend voor 1 november. De inspectie adviseert Onze Minister of de aanvraag voldoet aan de verplichtingen, bedoeld in artikel 72, derde lid, onderdeel b.
 
@@ -478,7 +504,7 @@ Vervallen
 
 11. Het bestuurscollege van de beoogde plaats van vestiging van de school kan voor 1 december, volgend op de datum, genoemd in het eerste lid, bij Onze Minister een zienswijze naar voren brengen.
 
-#### Artikel 76. Omzetting, verhuizing en verplaatsing
+##### Artikel 76. Omzetting, verhuizing en verplaatsing
 
 1. Onze Minister kan onder door hem te stellen voorwaarden voor bekostiging in aanmerking brengen een school die wordt omgezet van een bijzondere school in een openbare school of omgekeerd dan wel een school die tot stand komt als samenwerkingsschool als bedoeld in [artikel 22a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=22a&z=2026-01-01&g=2026-01-01). Een omzetting kan slechts plaatsvinden met ingang van 1 augustus van enig kalenderjaar.
 
@@ -492,7 +518,7 @@ Vervallen
 
 ### Afdeling 4. Materiële instandhouding
 
-#### Artikel 97. Exploitatie schoolgebouw
+##### Artikel 97. Exploitatie schoolgebouw
 
 1. Het bevoegd gezag, dan wel het openbaar lichaam dat eigenaar is van een schoolgebouw, zorgt voor het deel van de exploitatie waarop de bekostiging, bedoeld in [artikel 99, tweede lid, aanhef en onderdelen d, e en j](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=99&z=2026-01-01&g=2026-01-01), betrekking heeft.
 
@@ -504,11 +530,11 @@ Vervallen
 
 5. Het bevoegd gezag zorgt voor het deel van de exploitatie waarop de bekostiging, bedoeld in [artikel 99, tweede lid, aanhef en onderdeel f, g en i](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=99&z=2026-01-01&g=2026-01-01), betrekking heeft.
 
-#### Artikel 98. Bekostiging voor belastingen ter zake van onroerende zaken
+##### Artikel 98. Bekostiging voor belastingen ter zake van onroerende zaken
 
 Het openbaar lichaam bekostigt aan het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school dat is onderworpen aan een of meer der in [artikel 43 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=43) bedoelde belastingen ter zake van onroerende zaken het bedrag dat is uitgegeven voor de belastingen met betrekking tot de in het openbaar lichaam gelegen gebouwen en terreinen.
 
-#### Artikel 99. Bekostiging scholen
+##### Artikel 99. Bekostiging scholen
 
 1. De bekostiging van een school is bestemd voor kosten voor personeel en exploitatie van die school.
 
@@ -552,7 +578,7 @@ Het openbaar lichaam bekostigt aan het bevoegd gezag van een niet door het openb
 
 7. Bij ministeriële regeling kunnen regels worden gesteld over het door het bevoegd gezag uitzetten van gelden, het aangaan van geldleningen en het aangaan van verbintenissen voor financiële producten.
 
-#### Artikel 100. Hoogte bekostiging scholen
+##### Artikel 100. Hoogte bekostiging scholen
 
 1. Onze Minister stelt jaarlijks de bekostiging voor een school vast.
 
@@ -570,11 +596,11 @@ Het openbaar lichaam bekostigt aan het bevoegd gezag van een niet door het openb
 
 ### Afdeling 2. Aanvang van de bekostiging
 
-#### Artikel 101. Bekostiging bij samenvoeging
+##### Artikel 101. Bekostiging bij samenvoeging
 
 In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen worden opgeheven en sprake is van een minimale instroom van leerlingen in de samengevoegde basisschool, wordt de bekostiging, bedoeld in [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=100&z=2026-01-01&g=2026-01-01), van alle betrokken basisscholen gehandhaafd tot het einde van het kalenderjaar waarin de basisscholen zijn samengevoegd.
 
-#### Artikel 102. Teldatum aantal leerlingen
+##### Artikel 102. Teldatum aantal leerlingen
 
 1. Bij het bepalen van de hoogte van de bekostiging, bedoeld in [artikel 100, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=100&z=2026-01-01&g=2026-01-01), gaat Onze Minister uit van het aantal leerlingen van de school op 1 februari van het voorafgaande kalenderjaar.
 
@@ -588,7 +614,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ter uitvoering van het eerste lid tot en met het derde lid.
 
-#### Artikel 103. Aanvullende bekostiging bij bijzondere ontwikkelingen
+##### Artikel 103. Aanvullende bekostiging bij bijzondere ontwikkelingen
 
 1. In geval van bijzondere ontwikkelingen in het basisonderwijs, kan Onze Minister in aanvulling op de bekostiging, bedoeld in [artikel 100](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=100&z=2026-01-01&g=2026-01-01), bekostiging verstrekken.
 
@@ -596,7 +622,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 3. Onze Minister kan een bekostigingsplafond instellen voor de aanvullende bekostiging, bedoeld in het eerste lid. In dat geval worden bij ministeriële regeling regels gesteld over de verdeling.
 
-#### Artikel 104. Aanvullende bekostiging bij bijzondere omstandigheden
+##### Artikel 104. Aanvullende bekostiging bij bijzondere omstandigheden
 
 1. In geval van bijzondere omstandigheden, kan Onze Minister voor een school in aanvulling op de bekostiging, bedoeld in de [artikelen 100](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=100&z=2026-01-01&g=2026-01-01) en [103](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&artikel=103&z=2026-01-01&g=2026-01-01), bekostiging verstrekken.
 
@@ -616,7 +642,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 ### Afdeling 6. Budget voor personeels- en arbeidsmarktbeleid
 
-#### Artikel 105. Grondslag bekostiging lichamelijke oefening
+##### Artikel 105. Grondslag bekostiging lichamelijke oefening
 
 1. Het bestuurscollege stelt na overleg met de bevoegde gezagen van de niet door het openbaar lichaam in stand gehouden scholen het aantal uren per week vast dat per groep leerlingen ten hoogste:
 
@@ -638,7 +664,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 #### § 5. Ouders
 
-#### Artikel 106. Bekostiging door openbaar lichaam aan bevoegd gezag
+##### Artikel 106. Bekostiging door openbaar lichaam aan bevoegd gezag
 
 1. Het openbaar lichaam verstrekt jaarlijks aan het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school dat eigenaar is van een ruimte voor het onderwijs in lichamelijke oefening:
 
@@ -650,7 +676,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 #### § 2. Materiële instandhouding
 
-#### Artikel 107. Eilandelijk beleid als openbaar lichaam zelf geen openbare scholen in stand houdt of als openbare scholen ontbreken
+##### Artikel 107. Eilandelijk beleid als openbaar lichaam zelf geen openbare scholen in stand houdt of als openbare scholen ontbreken
 
 1. Indien in een openbaar lichaam uitsluitend een of meer andere rechtspersonen dan het openbaar lichaam openbare scholen in stand houdt of houden of openbare scholen ontbreken en het openbaar lichaam uitgaven wil doen voor het onderwijs aan die scholen welke niet door het Rijk worden bekostigd, stelt de eilandsraad bij eilandsverordening een regeling daarvoor vast en zijn de [artikelen 109 tot en met 113](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=6&paragraaf=1&artikel=109&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
@@ -664,13 +690,13 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 6. Het bestuurscollege maakt jaarlijks in een van overheidswege uitgegeven blad of een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze, een overzicht bekend van voorzieningen die zijn toegekend op grond van de regeling, bedoeld in het eerste lid.
 
-#### Artikel 108. Eilandelijk beleid als openbaar lichaam zelf openbare scholen in stand houdt
+##### Artikel 108. Eilandelijk beleid als openbaar lichaam zelf openbare scholen in stand houdt
 
 1. Indien een openbaar lichaam zelf een of meer openbare scholen in stand houdt en hij uitgaven wil doen voor het onderwijs aan die scholen welke niet door het Rijk worden bekostigd, kan de eilandsraad daarvoor bij eilandsverordening een regeling vaststellen.
 
 2. [Artikel 107, tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=5&paragraaf=2&artikel=107&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 109. Overschrijdingsbedrag
+##### Artikel 109. Overschrijdingsbedrag
 
 1. Indien een openbaar lichaam voor een of meer door hem in stand gehouden scholen meer uitgaven doet dan door het Rijk worden bekostigd, wordt met inachtneming van deze paragraaf aan het bevoegd gezag van de niet door het openbaar lichaam in stand gehouden scholen om de vijf jaar een overschrijdingsbedrag verstrekt.
 
@@ -680,7 +706,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 #### § 3. Personeel
 
-#### Artikel 110. Voorschot overschrijding
+##### Artikel 110. Voorschot overschrijding
 
 1. Het bestuurscollege stelt jaarlijks vast in welke mate het voor de door het openbaar lichaam in stand gehouden scholen meer dan wel minder uitgaven zal doen dan door het Rijk worden bekostigd. Deze vaststelling geschiedt voor het komende begrotingsjaar en het resterende deel van het vijfjarig tijdvak, bedoeld in [artikel 109, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=6&paragraaf=1&artikel=109&z=2026-01-01&g=2026-01-01).
 
@@ -692,7 +718,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 5. Bij de bepaling van de hoogte van het voorschot, bedoeld in het vierde lid, is het derde lid van overeenkomstige toepassing.
 
-#### Artikel 111. Vaststelling overschrijdingsbedrag
+##### Artikel 111. Vaststelling overschrijdingsbedrag
 
 1. Indien een openbaar lichaam een of meer scholen in stand houdt, stelt het bestuurscollege jaarlijks voorlopig vast:
 
@@ -726,7 +752,7 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 #### § 6. Bestedingsmogelijkheden
 
-#### Artikel 119. Bekendmaking over beëindiging bekostiging school en opheffing school
+##### Artikel 119. Bekendmaking over beëindiging bekostiging school en opheffing school
 
 1. Indien naar het oordeel van Onze Minister de bekostiging van een bijzondere school dient te worden beëindigd of een openbare school dient te worden opgeheven, maakt Onze Minister dit voor 1 januari voorafgaand aan de datum van beëindiging van de bekostiging onderscheidenlijk opheffing van de school bekend aan het bevoegd gezag.
 
@@ -742,13 +768,13 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 #### § 7. Betaling van de bekostiging
 
-#### Artikel 120. Overdracht gebouwen, terreinen en roerende zaken
+##### Artikel 120. Overdracht gebouwen, terreinen en roerende zaken
 
 1. Indien de bekostiging van een bijzondere school wordt beëindigd of het bevoegd gezag tot de opheffing van de school beslist, eindigt het recht op het gebouw en terrein en worden alle roerende zaken, behalve die welke het bevoegd gezag uit eigen middelen heeft aangeschaft, aan het openbaar lichaam op wiens grondgebied het gebouw en terrein zijn gelegen, overgedragen.
 
 2. [Artikel 94, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=94&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing met dien verstande dat in de verklaring ingevolge het eerste lid en het besluit ingevolge het tweede lid als datum waarop het bevoegd gezag blijvend heeft opgehouden dan wel blijvend zal ophouden het gebouw of terrein voor de school te gebruiken, zal worden genoemd de datum waarop de bekostiging is geëindigd dan wel zal eindigen.
 
-#### Artikel 121. Terugstorting
+##### Artikel 121. Terugstorting
 
 1. Indien de bekostiging van de laatste bijzondere school van een bevoegd gezag wordt beëindigd of het bevoegd gezag tot de opheffing van de laatste school beslist, dan wel de laatste openbare school wordt opgeheven, stort het bevoegd gezag de niet bestede bekostigingsbedragen terug in de desbetreffende overheidskas.
 
@@ -764,55 +790,55 @@ In geval van samenvoeging van basisscholen, waarbij een of meer basisscholen wor
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 146. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
+##### Artikel 146. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
 
 Een beslissing als bedoeld in de [artikelen 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=41&z=2026-01-01&g=2026-01-01), en [44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=44&z=2026-01-01&g=2026-01-01), van een bevoegd gezag van een openbare school geldt als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
-#### Artikel 147. Bevoegde leraren
+##### Artikel 147. Bevoegde leraren
 
 1. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01), mag basisonderwijs in de groepen één tot en met vier tevens gegeven worden door degenen die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, bevoegd waren tot het geven van basisonderwijs in de eerste cyclus en dit onderwijs gaven op een van de scholen in de openbare lichamen.
 
 2. In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01), mag basisonderwijs tevens gegeven worden door degenen die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, bevoegd waren tot het geven van basisonderwijs in de tweede cyclus en dit onderwijs gaven op een van de scholen in de openbare lichamen.
 
-#### Artikel 148. Onbevoegde leraren
+##### Artikel 148. Onbevoegde leraren
 
 In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01), mag gedurende een periode van vijf jaar na het tijdstip van de inwerkingtreding van dit artikel, basisonderwijs tevens gegeven worden door degenen die voor dat tijdstip basisonderwijs gaven op een van de scholen in de openbare lichamen zonder daartoe bevoegd te zijn mits zij binnen zes maanden na dat tijdstip in het bezit zijn van een verklaring omtrent het gedrag die op het tijdstip van overlegging aan het bevoegd gezag niet ouder is dan zes maanden.
 
-#### Artikel 149. Toekomstige leraren
+##### Artikel 149. Toekomstige leraren
 
 1. Onverminderd [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), mogen in afwijking van artikel 3, eerste lid, onderdeel b, en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01), degenen die geen getuigschrift bezitten als bedoeld in artikel 3, eerste lid, onderdeel b, onder 1°, maar wel voor het tijdstip van de inwerkingtreding van dit artikel een opleiding begonnen zijn die leidt tot een bewijs van bekwaamheid tot het geven van onderwijs in de eerste cyclus als bedoeld in de Landsverordening funderend onderwijs of de Wet primair onderwijs BES zoals die wet op 10 oktober 2010 is komen te luiden, gedurende een periode van vijf jaar na het tijdstip van de inwerkingtreding van dit artikel, met dit bewijs van bekwaamheid worden benoemd of tewerkgesteld worden zonder benoeming tot leraar in de groepen één tot en met vier.
 
 2. Onverminderd [artikel 3, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), mogen in afwijking van artikel 3, eerste lid, onderdeel b, en [artikel 34, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01), degenen die geen getuigschrift als bedoeld in artikel 3, eerste lid, onderdeel b, onder 1°, maar wel voor het tijdstip van de inwerkingtreding van dit artikel een opleiding begonnen zijn die leidt tot een bewijs van bekwaamheid tot het geven van onderwijs in de tweede cyclus als bedoeld in de landsverordening funderend onderwijs gedurende een periode van vijf jaar na het tijdstip van de inwerkingtreding van dit artikel, met dit bewijs van bekwaamheid worden benoemd tot leraar.
 
-#### Artikel 150. Bevoegdheid in de onderwijsactiviteit zintuiglijke en lichamelijke oefening
+##### Artikel 150. Bevoegdheid in de onderwijsactiviteit zintuiglijke en lichamelijke oefening
 
 In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=3&z=2026-01-01&g=2026-01-01), kunnen degenen die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, werkzaam waren op een van de scholen voor basisonderwijs in de openbare lichamen, het onderwijs in de onderwijsactiviteit zintuiglijke en lichamelijke oefening in het eerste tot en met achtste schooljaar geven.
 
-#### Artikel 151. Bevoegdheid onderwijsondersteunende werkzaamheden
+##### Artikel 151. Bevoegdheid onderwijsondersteunende werkzaamheden
 
 In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=4&z=2026-01-01&g=2026-01-01), mogen onderwijsondersteunende werkzaamheden als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), ook worden verricht door degene die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, deze onderwijsondersteunende werkzaamheden verrichtte op een van de scholen in de openbare lichamen en daartoe bevoegd waren.
 
-#### Artikel 152. Onbevoegdheid onderwijsondersteunende werkzaamheden
+##### Artikel 152. Onbevoegdheid onderwijsondersteunende werkzaamheden
 
 In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=4&z=2026-01-01&g=2026-01-01), mogen gedurende een periode van vijf jaar na het tijdstip van de inwerkingtreding van dit artikel, onderwijsondersteunende werkzaamheden als bedoeld in [artikel 35, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), ook worden verricht door degenen die op de dag voorafgaand aan het tijdstip van de inwerkingtreding van dit artikel, deze werkzaamheden verrichtten op een van de scholen in de openbare lichamen zonder daartoe bevoegd te zijn.
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 153. Overgangsrecht openbaar orgaan
+##### Artikel 153. Overgangsrecht openbaar orgaan
 
 Een openbaar orgaan als bedoeld in artikel 35 van de Wet primair onderwijs BES zoals die wet op 10 oktober 2010 is komen te luiden, wordt aangemerkt als een openbare rechtspersoon als bedoeld in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 154. Aanspraak op bekostiging
+##### Artikel 154. Aanspraak op bekostiging
 
 De aanspraak op bekostiging van een school die direct voorafgaand aan de inwerkingtreding van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01) werd bekostigd op grond van de Wet primair onderwijs BES zoals die wet op 10 oktober 2010 is komen te luiden, berust vanaf de inwerkingtreding van [artikel 72](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01) op [hoofdstuk I, titel III](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&z=2026-01-01&g=2026-01-01) en op hoofdstuk II.
 
-#### Artikel 155. Begroting
+##### Artikel 155. Begroting
 
 1. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven over de vaststelling door het bevoegd gezag van een begroting en de inrichting daarvan.
 
 2. Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 156. Aanvraag omzetting; uitbreiding met openbaar of bijzonder onderwijs; verplaatsing
+##### Artikel 156. Aanvraag omzetting; uitbreiding met openbaar of bijzonder onderwijs; verplaatsing
 
 Tot de datum van inwerkingtreding van [artikel 76, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=76&z=2026-01-01&g=2026-01-01), is een aanvraag om een besluit als bedoeld in artikel 76, eerste of tweede lid, met redenen omkleed en gaat vergezeld van de gegevens, genoemd in [artikel 72, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01). Onze Minister willigt de aanvraag om een besluit als bedoeld in artikel 76, eerste lid, slechts in, ingeval:
 
@@ -822,13 +848,13 @@ Tot de datum van inwerkingtreding van [artikel 76, derde lid](https://wetten.ove
 
 - c. de bekostiging van de school, indien daaraan het onderwijs wordt uitgebreid met openbaar onderwijs of met onderwijs van een of meer richtingen, van uitsluitend een of meer op te heffen scholen, met inachtneming van [artikel 116, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=1&artikel=116&z=2026-01-01&g=2026-01-01), gedurende ten minste 20 achtereenvolgende jaren zou kunnen worden voortgezet.
 
-#### Artikel 157. Opgave aantal leerlingen
+##### Artikel 157. Opgave aantal leerlingen
 
 1. Tot een bij koninklijk besluit te bepalen tijdstip zendt het bevoegd gezag voor 15 oktober volgend op de teldatum 1 oktober aan Onze Minister een opgave van het aantal leerlingen. Indien deze opgave niet voor die datum wordt gedaan, stelt Onze Minister het aantal leerlingen, indien die gegevens voor de voortzetting of beëindiging van de bekostiging onderscheidenlijk de opheffing of instandhouding van een school noodzakelijk zijn, ambtshalve vast. Een opgave van het aantal leerlingen op of na 15 oktober aan Onze Minister heeft geen invloed op het ambtshalve vastgestelde aantal leerlingen voor zover het betreft het al of niet beëindigen van de bekostiging van een bijzondere school of de opheffing of instandhouding van een openbare school.
 
 2. Tot een bij koninklijk besluit te bepalen tijdstip wijst Onze Minister het bevoegd gezag voorafgaand aan de teldatum 1 oktober op de verplichting, bedoeld in de eerste volzin van het eerste lid.
 
-#### Artikel 158. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
+##### Artikel 158. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
 
 1. In afwijking van de [artikelen 78 tot en met 84](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=78&z=2026-01-01&g=2026-01-01) en met overeenkomstige toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=87&z=2026-01-01&g=2026-01-01) gelden voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip de voorschriften van het tweede tot en met zevende lid voor de voorziening in de huisvesting van uit 's Rijks kas bekostigde scholen.
 
@@ -844,45 +870,45 @@ Tot de datum van inwerkingtreding van [artikel 76, derde lid](https://wetten.ove
 
 7. De plannen dan wel een wijziging daarvan, worden aan de betrokken bevoegde gezagsorganen van de scholen en in de Staatscourant bekend gemaakt.
 
-#### Artikel 159. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
+##### Artikel 159. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
 
 Vervallen
 
-#### Artikel 160. Wijziging overeenkomst inzake ouderbijdrage
+##### Artikel 160. Wijziging overeenkomst inzake ouderbijdrage
 
 Op het tijdstip waarop [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01) in werking treedt, vervalt het tweede lid van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=44&z=2026-01-01&g=2026-01-01), onder vernummering van het derde tot en met het vijfde lid tot tweede tot en met vierde lid.
 
-#### Artikel 161. Inwerkingtreding
+##### Artikel 161. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
-#### Artikel 162. Evaluatie zorgplicht veiligheid op school
+##### Artikel 162. Evaluatie zorgplicht veiligheid op school
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel IV van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=6a&z=2026-01-01&g=2026-01-01) en [16, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01), in de praktijk.
 
-#### Artikel 163. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
+##### Artikel 163. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 november 2017 tot wijziging van diverse onderwijswetten in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer ten behoeve van het bieden van voorzieningen in het kader van het onderwijs en de begeleiding van onderwijsdeelnemers (Stb. 508) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 147, achtste tot en met elfde lid, in de praktijk.
 
-#### Artikel 164. Evaluatie in verband met nieuwe stichtingssystematiek
+##### Artikel 164. Evaluatie in verband met nieuwe stichtingssystematiek
 
 Onze Minister zendt na vijf, tien en vijftien jaar na de inwerkingtreding van de Wet van 20 mei 2020 tot wijziging van diverse onderwijswetten door het wijzigen van de systematiek van het in aanmerking brengen voor bekostiging van nieuwe openbare en bijzondere scholen zodat er meer ruimte is voor een nieuw onderwijsaanbod (Wet meer ruimte voor nieuwe scholen) (Stb. 2020, 160) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de gewijzigde systematiek van het in aanmerking brengen voor bekostiging van nieuwe scholen in de praktijk. Daarbij wordt in ieder geval gelet op de effecten op de segregatie.
 
-#### Artikel 165. Aantal leerlingen bij samenvoeging
+##### Artikel 165. Aantal leerlingen bij samenvoeging
 
 Vervallen
 
-#### Artikel 166. Citeertitel
+##### Artikel 166. Citeertitel
 
 Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
-#### Artikel 167. Opgave aantal leerlingen
+##### Artikel 167. Opgave aantal leerlingen
 
 1. Tot een bij koninklijk besluit te bepalen tijdstip zendt het bevoegd gezag voor 15 oktober volgend op de teldatum 1 oktober aan Onze Minister een opgave van het aantal leerlingen. Indien deze opgave niet voor die datum wordt gedaan, stelt Onze Minister het aantal leerlingen, indien die gegevens voor de voortzetting of beëindiging van de bekostiging onderscheidenlijk de opheffing of instandhouding van een school noodzakelijk zijn, ambtshalve vast. Een opgave van het aantal leerlingen op of na 15 oktober aan Onze Minister heeft geen invloed op het ambtshalve vastgestelde aantal leerlingen voor zover het betreft het al of niet beëindigen van de bekostiging van een bijzondere school of de opheffing of instandhouding van een openbare school.
 
 2. Tot een bij koninklijk besluit te bepalen tijdstip wijst Onze Minister het bevoegd gezag voorafgaand aan de teldatum 1 oktober op de verplichting, bedoeld in de eerste volzin van het eerste lid.
 
-#### Artikel 167a. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
+##### Artikel 167a. Voorziening in de huisvesting voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip
 
 1. In afwijking van de [artikelen 78 tot en met 84](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=78&z=2021-10-01&g=2021-10-01) en met overeenkomstige toepassing van [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=87&z=2021-10-01&g=2021-10-01) gelden voor het jaar 2011 tot en met een bij koninklijk besluit te bepalen tijdstip de voorschriften van het tweede tot en met zevende lid voor de voorziening in de huisvesting van uit 's Rijks kas bekostigde scholen.
 
@@ -898,15 +924,15 @@ Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
 7. De plannen dan wel een wijziging daarvan, worden aan de betrokken bevoegde gezagsorganen van de scholen en in de Staatscourant bekend gemaakt.
 
-#### Artikel 167b. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
+##### Artikel 167b. Continueren oude bepalingen voor zover de nieuwe nog niet in werking treden
 
 Tot een bij koninklijk besluit te bepalen tijdstip blijven de bepalingen van de Wet primair onderwijs BES zoals die is komen te luiden op 10 oktober 2010, van kracht voor zover de regeling van de daarin opgenomen onderwerpen niet is vervangen door de inwerkingtreding van overeenkomstige onderwerpen in deze wet. De vorige volzin is niet van toepassing op de onderwerpen geregeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=14&z=2021-10-01&g=2021-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=16&z=2021-10-01&g=2021-10-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=18&z=2021-10-01&g=2021-10-01) van de Wet primair onderwijs BES zoals die is komen te luiden op 10 oktober 2010.
 
-#### Artikel 168. Citeertitel
+##### Artikel 168. Citeertitel
 
 Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
-#### Artikel 52. Karakter openbaar onderwijs
+##### Artikel 52. Karakter openbaar onderwijs
 
 1. Het openbaar onderwijs draagt bij aan de ontwikkeling van de leerlingen met aandacht voor de godsdienstige, levensbeschouwelijke en maatschappelijke waarden zoals die leven in de Nederlandse en Caribische samenleving en met onderkenning van de betekenis van de verscheidenheid van die waarden.
 
@@ -914,7 +940,7 @@ Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
 3. Openbaar onderwijs wordt gegeven met eerbiediging van ieders godsdienst of levensbeschouwing.
 
-#### Artikel 53. Instandhouding openbare school door een openbare rechtspersoon
+##### Artikel 53. Instandhouding openbare school door een openbare rechtspersoon
 
 1. Een eilandsraad kan bij verordening een openbare rechtspersoon instellen die tot doel heeft een of meer openbare scholen in het openbaar lichaam in stand te houden, al dan niet tezamen met openbare scholen voor voortgezet onderwijs.
 
@@ -960,7 +986,7 @@ Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
 - e. de periode waarvoor de openbare rechtspersoon in het leven wordt geroepen, met dien verstande dat deze periode ten minste 5 jaren bedraagt. Het vijfde, zesde en achtste lid zijn van overeenkomstige toepassing.
 
-#### Artikel 54. Instandhouding openbare school door een stichting
+##### Artikel 54. Instandhouding openbare school door een stichting
 
 1. Een eilandsraad kan besluiten dat een of meer openbare scholen in het openbaar lichaam in stand worden gehouden door een stichting die zich ten doel stelt het in stand houden van een of meer openbare scholen, al dan niet tezamen met openbare scholen voor voortgezet onderwijs.
 
@@ -1016,7 +1042,7 @@ Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
 - f. de bevoegdheid de stichting te ontbinden. Het achtste, negende en elfde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 55. Bestuursoverdracht openbare scholen
+##### Artikel 55. Bestuursoverdracht openbare scholen
 
 1. De rechtspersoon die een openbare school in stand houdt, kan de instandhouding van die school overdragen aan een andere rechtspersoon die tot instandhouding van een openbare school bevoegd is. De overdracht geschiedt bij notariële akte.
 
@@ -1026,11 +1052,11 @@ Deze wet wordt aangehaald als: Wet primair onderwijs BES.
 
 4. Door overdracht met inachtneming van de voorgaande leden treedt de verkrijgende rechtspersoon in alle uit de wet voortvloeiende rechten en verplichtingen die zijn rechtsvoorganger bezit in zijn hoedanigheid van bevoegd gezag, onverminderd hetgeen verder voor de overgang daarvan naar burgerlijk recht is vereist.
 
-#### Artikel 56. Mogelijkheid godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
+##### Artikel 56. Mogelijkheid godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
 Het bevoegd gezag stelt de leerlingen in de gelegenheid op de school, binnen de schooltijden, godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs te ontvangen. Van de tijd daaraan te besteden worden ten hoogste 120 uren per schooljaar meegeteld voor het aantal uren onderwijs dat de leerlingen krachtens [artikel 10, vijfde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), ten minste moeten ontvangen. Voor de leerlingen die dit onderwijs niet volgen, voorziet het bevoegd gezag in andere onderwijsactiviteiten op de school.
 
-#### Artikel 57. Leraren godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
+##### Artikel 57. Leraren godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
 1. Godsdienstonderwijs wordt gegeven door leraren daartoe aangewezen door kerkelijke gemeenten, plaatselijke kerken, of rechtspersonen met volledige rechtsbevoegdheid die zich blijkens hun statuten het geven van godsdienstonderwijs ten doel stellen. Levensbeschouwelijk vormingsonderwijs wordt gegeven door leraren daartoe aangewezen door volledige rechtsbevoegdheid bezittende organisaties op geestelijke grondslag.
 
@@ -1040,11 +1066,11 @@ Het bevoegd gezag stelt de leerlingen in de gelegenheid op de school, binnen de 
 
 - b. zijn bekwaamheid onderhoudt.
 
-#### Artikel 58. Disciplinaire maatregel, schorsing en ontslag door Rijksvertegenwoordiger
+##### Artikel 58. Disciplinaire maatregel, schorsing en ontslag door Rijksvertegenwoordiger
 
 De Rijksvertegenwoordiger is, in afwijking van [artikel 39](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=39&z=2026-01-01&g=2026-01-01), bevoegd de disciplinaire straf of de schorsing op te leggen dan wel het ontslag te verlenen, indien het een directeur, een adjunct-directeur, of een ander lid van het onderwijzend personeel van een openbare school betreft en deze tevens lid is van de eilandsraad van het openbaar lichaam die de school in stand houdt.
 
-#### Artikel 59. Horen bij aanstelling personeel, directeuren en adjunct-directeuren
+##### Artikel 59. Horen bij aanstelling personeel, directeuren en adjunct-directeuren
 
 1. De aanstelling of tewerkstelling zonder aanstelling van de mede-directeur, de adjunct-directeur of leraren geschiedt, de directeur gehoord.
 
@@ -1052,11 +1078,11 @@ De Rijksvertegenwoordiger is, in afwijking van [artikel 39](https://wetten.overh
 
 ### Afdeling 3. Overige voorwaarden voor bekostiging uit de openbare kassen van het bijzonder onderwijs
 
-#### Artikel 60. Instandhouding bijzondere school door rechtspersoon
+##### Artikel 60. Instandhouding bijzondere school door rechtspersoon
 
 Een bijzondere school wordt in stand gehouden door een rechtspersoon met volledige rechtsbevoegdheid die zich blijkens de statuten of reglementen het geven van onderwijs ten doel stelt zonder daarbij het maken van winst te beogen.
 
-#### Artikel 61. Bestuursoverdracht
+##### Artikel 61. Bestuursoverdracht
 
 1. De rechtspersoon die de school in stand houdt, kan de instandhouding van de school overdragen aan een andere rechtspersoon die voldoet aan [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=3&artikel=60&z=2026-01-01&g=2026-01-01). De overdracht geschiedt bij notariële akte.
 
@@ -1068,23 +1094,23 @@ Een bijzondere school wordt in stand gehouden door een rechtspersoon met volledi
 
 5. Bij een splitsing als bedoeld in [artikel 335 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=335) van een rechtspersoon die een school in stand houdt, wordt in de splitsingsakte bepaald dat de voortbestaande splitsende rechtspersoon de school in stand zal houden of op welke verkrijgende rechtspersoon de instandhouding van de school overgaat. In het laatste geval zijn het tweede tot en met vierde lid van overeenkomstige toepassing.
 
-#### Artikel 62. Godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
+##### Artikel 62. Godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs
 
 Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=12&z=2026-01-01&g=2026-01-01) kunnen de onderwijsactiviteiten godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs omvatten. Van de tijd daaraan te besteden worden ten hoogste 120 uren per schooljaar meegeteld voor het aantal uren onderwijs dat de leerlingen krachtens [artikel 10, vijfde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=10&z=2026-01-01&g=2026-01-01), ten minste moeten ontvangen. Het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs kan worden opgedragen aan een niet aan de school verbonden leraar.
 
-#### Artikel 63. Geen weigering toelating op grond van godsdienstige gezindheid of levensbeschouwing
+##### Artikel 63. Geen weigering toelating op grond van godsdienstige gezindheid of levensbeschouwing
 
 1. Indien binnen redelijke afstand van de woning van de leerling geen gelegenheid bestaat tot het volgen van openbaar onderwijs, mag de toelating tot de school niet worden geweigerd op grond van godsdienstige gezindheid of levensbeschouwing. Het voorgaande is niet van toepassing indien de school uitsluitend is bestemd voor interne leerlingen.
 
 2. Leerlingen die ingevolge het eerste lid zijn toegelaten, kunnen niet worden verplicht godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs te volgen.
 
-#### Artikel 64. Akte van benoeming
+##### Artikel 64. Akte van benoeming
 
 1. Ieder personeelslid is in het bezit van een door het bevoegd gezag en hemzelf getekende akte van benoeming.
 
 2. De akte van benoeming bevat ten minste bepalingen van gelijke inhoud als de bepalingen die zijn vastgesteld in [artikel 8 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=8).
 
-#### Artikel 65. Beslissingen bijzonder onderwijs inzake toelating en verwijdering en bezwaarprocedure
+##### Artikel 65. Beslissingen bijzonder onderwijs inzake toelating en verwijdering en bezwaarprocedure
 
 1. Indien het bevoegd gezag van een bijzondere school op grond van [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=41&z=2026-01-01&g=2026-01-01), een student de toegang weigert, deelt het deze beslissing, schriftelijk en met redenen omkleed, mede door toezending of uitreiking aan de student, onverminderd het bepaalde in dat artikellid.
 
@@ -1100,19 +1126,19 @@ Onverminderd de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&h
 
 #### § 5. Ouders
 
-#### Artikel 77. Nadere voorschriften voor de uitvoering van afdeling 2
+##### Artikel 77. Nadere voorschriften voor de uitvoering van afdeling 2
 
 Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven voor de uitvoering van deze afdeling.
 
 ### Afdeling 2. Overige regelen voor het openbaar onderwijs
 
-#### Artikel 78. Voorziening in huisvesting door het openbaar lichaam
+##### Artikel 78. Voorziening in huisvesting door het openbaar lichaam
 
 1. De eilandsraad of het bestuurscollege draagt overeenkomstig het bepaalde in deze afdeling ten behoeve van de scholen zorg voor de voorzieningen in de huisvesting op het grondgebied van het openbaar lichaam. Deze huisvesting is zodanig dat kan worden voldaan aan de redelijke eisen die het onderwijs aan de huisvesting van scholen in het openbaar lichaam stelt. De eilandsraad of het bestuurscollege behandelt daarbij de door het openbaar lichaam in stand gehouden scholen en de andere scholen op gelijke voet.
 
 2. Bij algemene maatregel van bestuur worden bruto vloeroppervlakten per gelijktijdig aanwezige leerling voorgeschreven die voorzieningen in de huisvesting ten minste dienen te bevatten.
 
-#### Artikel 79. Voorzieningen in de huisvesting
+##### Artikel 79. Voorzieningen in de huisvesting
 
 1. Voor de toepassing van deze afdeling worden onder voorzieningen in de huisvesting begrepen:
 
@@ -1128,7 +1154,7 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven vo
 
 2. De kosten van bouwvoorbereiding kunnen tot de kosten van huisvesting worden gerekend.
 
-#### Artikel 80. Vaststelling door bestuurscollege van bekostigingsplafond voor nieuwe voorzieningen in de huisvesting
+##### Artikel 80. Vaststelling door bestuurscollege van bekostigingsplafond voor nieuwe voorzieningen in de huisvesting
 
 1. Het bestuurscollege stelt jaarlijks, na overleg met de betrokken bevoegde gezagsorganen, ten behoeve van het eerstvolgende jaar voor een door het college te bepalen tijdstip een bekostigingsplafond vast voor de bekostiging van de voorzieningen in de huisvesting voor:
 
@@ -1138,7 +1164,7 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven vo
 
 2. Het bekostigingsplafond wordt zodanig vastgesteld dat redelijkerwijs kan worden voorzien in de huisvesting van de in het eerste lid bedoelde scholen op het grondgebied van het openbaar lichaam.
 
-#### Artikel 81. Indiening aanvraag
+##### Artikel 81. Indiening aanvraag
 
 1. Het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school dat een voorziening in de huisvesting wenst, dient een aanvraag voor 1 september voorafgaand aan het jaar waarop de aanvraag betrekking heeft in bij het bestuurscollege.
 
@@ -1146,7 +1172,7 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven vo
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de door het openbaar lichaam in stand gehouden scholen.
 
-#### Artikel 82. Beschikkingen op aanvragen
+##### Artikel 82. Beschikkingen op aanvragen
 
 1. Het bestuurscollege beslist voor 1 januari van het jaar waarop de aanvraag betrekking heeft op de aanvraag. Het bestuurscollege geeft het bevoegd gezag de gelegenheid om een onvolledige aanvraag binnen een door het bestuurscollege te stellen termijn aan te vullen.
 
@@ -1162,7 +1188,7 @@ indien:
 
 4. De beschikking van het bestuurscollege kan een gedeelte van de gewenste voorziening dan wel een andere voorziening dan gewenst omvatten.
 
-#### Artikel 83. Beschikkingen op aanvragen met een spoedeisend karakter
+##### Artikel 83. Beschikkingen op aanvragen met een spoedeisend karakter
 
 1. In afwijking van de termijnen genoemd in de [artikelen 81](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=81&z=2026-01-01&g=2026-01-01) en [82](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=82&z=2026-01-01&g=2026-01-01), beslist het bestuurscollege binnen vier weken op een aanvraag voor een voorziening in de huisvesting die gelet op de voortgang van het onderwijs geen uitstel kan lijden.
 
@@ -1172,7 +1198,7 @@ indien:
 
 - b. een van de weigeringsgronden, genoemd in [artikel 84, eerste lid, onderdelen a tot en met d en f, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=84&z=2026-01-01&g=2026-01-01), van toepassing is.
 
-#### Artikel 84. Weigeringsgronden
+##### Artikel 84. Weigeringsgronden
 
 1. Een voorziening in de huisvesting wordt slechts geweigerd, indien:
 
@@ -1190,13 +1216,13 @@ indien:
 
 2. Een voorziening in de huisvesting kan tevens worden geweigerd, indien de voorziening als gevolg van het verwijtbaar nalaten van noodzakelijk onderhoud in een slechte bouwkundige staat verkeert of indien de voorziening nodig is voor herstel van schade die is veroorzaakt door schuld of toedoen van het bevoegd gezag.
 
-#### Artikel 85. Tijdstip aanvang bekostiging; vervallen aanspraak op bekostiging
+##### Artikel 85. Tijdstip aanvang bekostiging; vervallen aanspraak op bekostiging
 
 1. Het bestuurscollege beslist met ingang van welk tijdstip de bekostiging van een voorziening daadwerkelijk een aanvang kan nemen, onverminderd het bepaalde in [artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=86&z=2026-01-01&g=2026-01-01).
 
 2. De aanspraak op bekostiging van een voorziening vervalt, indien niet binnen een bij de beschikking te bepalen termijn met betrekking tot de voorziening een bouwopdracht is gegeven dan wel een koop-, huur- of erfpachtovereenkomst is gesloten.
 
-#### Artikel 86. Toetsing i.v.m. wettelijke voorschriften en nieuwe feiten en omstandigheden
+##### Artikel 86. Toetsing i.v.m. wettelijke voorschriften en nieuwe feiten en omstandigheden
 
 Voorzieningen komen voor bekostiging in aanmerking, mits op het op grond van [artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=85&z=2026-01-01&g=2026-01-01), vastgestelde tijdstip,
 
@@ -1204,7 +1230,7 @@ Voorzieningen komen voor bekostiging in aanmerking, mits op het op grond van [ar
 
 - b. de feiten en omstandigheden waarin de school verkeert, ten opzichte van de feiten en omstandigheden ten tijde van de vaststelling van de beschikking tot verlening niet ingrijpend zijn gewijzigd.
 
-#### Artikel 87. Bouwheerschap
+##### Artikel 87. Bouwheerschap
 
 1. Het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school geeft opdracht de voorziening in de huisvesting waartoe op grond van de [artikelen 82](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=82&z=2026-01-01&g=2026-01-01) en [83](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=83&z=2026-01-01&g=2026-01-01) kan worden overgegaan, tot stand te brengen met daartoe door het openbaar lichaam beschikbaar te stellen gelden, tenzij het met het bestuurscollege overeenkomt dat het openbaar lichaam deze voorziening tot stand brengt.
 
@@ -1212,15 +1238,15 @@ Voorzieningen komen voor bekostiging in aanmerking, mits op het op grond van [ar
 
 3. Indien de voorziening in de huisvesting, bedoeld in het tweede lid, niet voldoet aan de eisen voor eigendomsoverdracht, geeft het bestuurscollege deze aan het bevoegd gezag in gebruik.
 
-#### Artikel 88. Instemming met eigen bouwplannen voor een niet door het openbaar lichaam in stand gehouden school
+##### Artikel 88. Instemming met eigen bouwplannen voor een niet door het openbaar lichaam in stand gehouden school
 
 Indien het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school aanspraak heeft op bekostiging van een voorziening in de huisvesting, behoeven de bouwplannen en de desbetreffende begrotingen de instemming van het bestuurscollege, tenzij het bevoegd gezag met het bestuurscollege overeenkomt dat het openbaar lichaam deze voorziening tot stand brengt.
 
-#### Artikel 89. Totstandbrenging voorziening voor een niet door het openbaar lichaam in stand gehouden school
+##### Artikel 89. Totstandbrenging voorziening voor een niet door het openbaar lichaam in stand gehouden school
 
 Het openbaar lichaam brengt een voorziening in de huisvesting van een niet door het openbaar lichaam in stand gehouden school slechts tot stand, indien tussen het bestuurscollege en het bevoegd gezag overeenstemming bestaat over de bouwplannen en de wijze van uitvoering.
 
-#### Artikel 90. Onderhoudsplicht; verbod tot vervreemding en bezwaring
+##### Artikel 90. Onderhoudsplicht; verbod tot vervreemding en bezwaring
 
 1. Het bevoegd gezag is verplicht het gebouw en terrein, alsmede de roerende zaken waarvoor bekostiging wordt genoten, behoorlijk te gebruiken en te onderhouden.
 
@@ -1228,13 +1254,13 @@ Het openbaar lichaam brengt een voorziening in de huisvesting van een niet door 
 
 3. Het tweede lid is niet van toepassing ten aanzien van het recht van opstal ten behoeve van een door het openbaar lichaam te plaatsen tijdelijke voorziening in de huisvesting op grond die eigendom is van het bevoegd gezag van de betrokken school.
 
-#### Artikel 91. Vorderingsrecht
+##### Artikel 91. Vorderingsrecht
 
 1. Het bestuurscollege is bevoegd een gedeelte van een gebouw of terrein dat tijdelijk of gedurende een gedeelte van de dag niet nodig zal zijn voor de daar gevestigde school, gedurende die tijd te bestemmen als huisvesting voor een andere school, voor ander uit de openbare kas bekostigd onderwijs niet zijnde basisonderwijs, of voor educatie als bedoeld in de [Wet educatie en beroepsonderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028395) dan wel voor andere culturele, maatschappelijke of recreatieve doeleinden. Het voorgenomen gebruik dient zich te verdragen met het onderwijs aan de in het gebouw gevestigde school. Tevens is het bestuurscollege bevoegd ten behoeve van het onderwijs in lichamelijke oefening of expressie-activiteiten een gebouw of terrein dan wel een gedeelte daarvan dat tijdelijk gedurende gedeelten van de dag of in het geheel niet nodig zal zijn voor de daar gevestigde school, gedurende die tijd te bestemmen als huisvesting voor een andere school, voor ander uit de openbare kas bekostigd onderwijs niet zijnde basisonderwijs, of voor educatie als bedoeld in de Wet educatie en beroepsonderwijs BES dan wel voor andere culturele, maatschappelijke of recreatieve doeleinden.
 
 2. Indien het gebouw of terrein in gebruik is voor een niet door het openbaar lichaam in stand gehouden school pleegt het bestuurscollege vooraf overleg met het bevoegd gezag en, voor zover van toepassing, ook met het bevoegd gezag van die school waarvoor de huisvesting is bestemd.
 
-#### Artikel 92. Verhuur en medegebruik gebouw of terrein
+##### Artikel 92. Verhuur en medegebruik gebouw of terrein
 
 1. Voor zover [artikel 91](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=91&z=2026-01-01&g=2026-01-01) geen toepassing vindt, kan het bevoegd gezag een gedeelte van een gebouw of terrein in gebruik geven ten behoeve van uit de openbare kas bekostigd onderwijs dan wel voor andere culturele, maatschappelijke of recreatieve doeleinden. Voor zover niet nodig voor uit de openbare kas bekostigd onderwijs, kan het bevoegd gezag een gedeelte van het gebouw of terrein verhuren aan een derde, voor zover het gehuurde niet bestemd zal zijn als woon- of bedrijfsruimte in de zin van de [vijfde](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=5) en [zesde afdeling van titel 4 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&afdeling=6). Indien het een niet door het openbaar lichaam in stand gehouden school betreft, is voor verhuur toestemming van het bestuurscollege vereist.
 
@@ -1250,11 +1276,11 @@ Het openbaar lichaam brengt een voorziening in de huisvesting van een niet door 
 
 5. Het zonder toestemming van het bestuurscollege verhuren van een gebouw of terrein door het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school alsmede elk met dit artikel strijdig beding opgenomen in een huurovereenkomst met betrekking tot schoolgebouwen, is nietig.
 
-#### Artikel 93. Voorziening niet ten laste van het openbaar lichaam
+##### Artikel 93. Voorziening niet ten laste van het openbaar lichaam
 
 Voorzieningen aan gebouwen of terreinen in verband met verhuur krachtens de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=92&z=2026-01-01&g=2026-01-01) of [94](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=3&artikel=94&z=2026-01-01&g=2026-01-01) door het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school komen niet ten laste van het openbaar lichaam.
 
-#### Artikel 94. Einde gebruik gebouw of terrein door een niet door het openbaar lichaam in stand gehouden school
+##### Artikel 94. Einde gebruik gebouw of terrein door een niet door het openbaar lichaam in stand gehouden school
 
 1. Het bestuurscollege en het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school dat eigenaar is van het gebouw en terrein, kunnen in een gezamenlijke akte verklaren dat het bevoegd gezag blijvend heeft opgehouden dan wel blijvend zal ophouden het gebouw of terrein of een voor eigendomsoverdracht vatbaar gedeelte daarvan, voor de school te gebruiken.
 
@@ -1276,11 +1302,11 @@ Voorzieningen aan gebouwen of terreinen in verband met verhuur krachtens de [art
 
 10. Op de verhuur, bedoeld in het zevende lid, is [artikel 230a van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=230a) niet van toepassing.
 
-#### Artikel 95. Jaarlijks bedrag voor huisvestingskosten van een niet door het openbaar lichaam in stand gehouden school
+##### Artikel 95. Jaarlijks bedrag voor huisvestingskosten van een niet door het openbaar lichaam in stand gehouden school
 
 In afwijking van deze afdeling kan de eilandsraad besluiten dat jaarlijks een bedrag voor huisvestingskosten wordt betaald aan het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school. De eilandsraad neemt het besluit in overeenstemming met het bevoegd gezag.
 
-#### Artikel 96. Informatieverstrekking aan eilandsraad en bestuurscollege
+##### Artikel 96. Informatieverstrekking aan eilandsraad en bestuurscollege
 
 Het bevoegd gezag van een niet door het desbetreffende openbaar lichaam in stand gehouden school is gehouden aan de eilandsraad onderscheidenlijk het bestuurscollege alle inlichtingen te verschaffen die de eilandsraad onderscheidenlijk bestuurscollege voor een adequate uitvoering van de bepalingen in deze afdeling noodzakelijk achten.
 
@@ -1300,7 +1326,7 @@ Het bevoegd gezag van een niet door het desbetreffende openbaar lichaam in stand
 
 #### § 4. Eilandelijk beleid met betrekking tot personele en materiële voorzieningen
 
-#### Artikel 112. Vaststelling overschrijdingsbedrag voor een niet door het openbaar lichaam in stand gehouden school
+##### Artikel 112. Vaststelling overschrijdingsbedrag voor een niet door het openbaar lichaam in stand gehouden school
 
 1. In het jaar volgend op de definitieve vaststelling, bedoeld in [artikel 111, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=6&paragraaf=1&artikel=111&z=2026-01-01&g=2026-01-01), wordt het overschrijdingsbedrag vastgesteld waarop het bevoegd gezag van een niet door het openbaar lichaam in stand gehouden school, die gedurende een of meer jaren van het desbetreffende tijdvak in het openbaar lichaam was gevestigd, aanspraak heeft.
 
@@ -1312,7 +1338,7 @@ Het bevoegd gezag van een niet door het desbetreffende openbaar lichaam in stand
 
 5. Indien een openbaar lichaam gedurende een gedeelte van het desbetreffende tijdvak een of meer scholen in stand houdt, wordt voor het vaststellen van het overschrijdingsbedrag, bedoeld in het eerste lid, uitgegaan van het totaal van de ontvangsten van een niet door het openbaar lichaam in stand gehouden school over een overeenkomstig gedeelte van het desbetreffende tijdvak.
 
-#### Artikel 113. Mededeling en beroep
+##### Artikel 113. Mededeling en beroep
 
 1. Aan het bevoegd gezag van de niet door het openbaar lichaam in stand gehouden scholen wordt een afschrift gezonden van de besluiten van het bestuurscollege tot vaststelling van de mate waarin meer dan wel minder uitgaven worden gedaan, bedoeld in [artikel 110, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=6&paragraaf=1&artikel=110&z=2026-01-01&g=2026-01-01), tot verlening van het voorschot, bedoeld in artikel 110, tweede of derde lid, en tot voorlopige en definitieve vaststelling van het overschrijdingsbedrag, bedoeld in [artikel 111, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=6&paragraaf=1&artikel=111&z=2026-01-01&g=2026-01-01). Daarbij is opgenomen een staat van voorzieningen als bedoeld in artikel 111, eerste lid onderdeel d, waarin per kalenderjaar wordt aangegeven het verloop van de toevoegingen en de onttrekkingen aan de voorzieningen.
 
@@ -1322,17 +1348,17 @@ Het bevoegd gezag van een niet door het desbetreffende openbaar lichaam in stand
 
 #### § 5. Overschrijdingsregeling
 
-#### Artikel 114. Betaling bekostiging door voorschotten
+##### Artikel 114. Betaling bekostiging door voorschotten
 
 1. Op de bekostiging of onderdelen daarvan kunnen voorschotten worden verleend volgens regels, te stellen bij of krachtens algemene maatregel van bestuur.
 
 2. Bij of krachtens algemene maatregel van bestuur worden tevens voorschriften gegeven voor de verrekening van de betaalde voorschotten met het bedrag van de vastgestelde bekostiging of onderdelen daarvan.
 
-#### Artikel 115. Verrekening van vorderingen
+##### Artikel 115. Verrekening van vorderingen
 
 Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van of op het bevoegd gezag van een school met vorderingen van of op Onze Minister krachtens een andere wet.
 
-#### Artikel 116. Einde bekostiging bijzondere school en opheffing openbare school
+##### Artikel 116. Einde bekostiging bijzondere school en opheffing openbare school
 
 1. De bekostiging van een bijzondere school wordt beëindigd en een openbare school wordt opgeheven indien het aantal leerlingen op de teldatum 1 oktober, gedurende 3 achtereenvolgende schooljaren telkens minder heeft bedragen dan 23. De eerste volzin is niet van toepassing gedurende de eerste 8 schooljaren van de bekostiging van een school. In afwijking van de tweede volzin eindigt de bekostiging van een in die volzin bedoelde bijzondere school en wordt een openbare school opgeheven met ingang van het vijfde schooljaar indien het aantal leerlingen van een school als bedoeld in de tweede volzin in het vierde schooljaar van de bekostiging niet ten minste de helft van de stichtingsnorm bedraagt. De tweede en derde volzin is niet van toepassing op scholen als bedoeld in [artikel 76](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=76&z=2026-01-01&g=2026-01-01).
 
@@ -1340,7 +1366,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 3. Indien binnen 10 km van een school waarbinnen openbaar onderwijs wordt gegeven, over de weg gemeten geen school aanwezig is waarbinnen openbaar onderwijs wordt gegeven en aan het volgen van openbaar onderwijs behoefte bestaat, wordt de eerstgenoemde school niet opgeheven op grond van dit artikel.
 
-#### Artikel 117. Discretionaire bevoegdheid minister
+##### Artikel 117. Discretionaire bevoegdheid minister
 
 1. Het bevoegd gezag van een school die op de teldatum 1 oktober minder dan 23 leerlingen telt, kan Onze Minister verzoeken in afwijking van [artikel 116, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=1&artikel=116&z=2026-01-01&g=2026-01-01), die bijzondere school te blijven bekostigen of die openbare school in stand te houden voor een door Onze Minister te bepalen termijn. Een besluit tot instandhouding wordt in elk geval niet genomen indien het bevoegd gezag tekortschiet in haar zorg voor de kwaliteit van het onderwijs, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), of geen perspectief bestaat op structurele toename van het aantal leerlingen van de school tot het aantal van ten minste 23 op 1 oktober voorafgaand aan de datum waarop de door Onze Minister te bepalen termijn eindigt. Het al dan niet aanwezig zijn van basisscholen in de omgeving van de school kan Onze Minister eveneens betrekken bij zijn besluit.
 
@@ -1354,7 +1380,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 4. Onze Minister kan de termijn, bedoeld in het eerste lid, op aanvraag van het bevoegd gezag eenmalig verlengen met maximaal de duur van de termijn die op grond van het eerste lid ten aanzien van de school door hem was bepaald. De tweede en derde volzin van het eerste lid zijn van overeenkomstige toepassing.
 
-#### Artikel 118. Vermindering aantal openbare scholen
+##### Artikel 118. Vermindering aantal openbare scholen
 
 1. De eilandsraad kan besluiten tot vermindering van het aantal openbare scholen.
 
@@ -1374,7 +1400,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 #### § 1. Scholen
 
-#### Artikel 122. Aanwijzing
+##### Artikel 122. Aanwijzing
 
 1. Onze Minister kan het bevoegd gezag een aanwijzing tot het nemen van een of meer maatregelen geven, indien sprake is van wanbeheer.
 
@@ -1400,7 +1426,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 5. Voordat Onze Minister een spoedaanwijzing geeft heeft de inspectie een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) of [artikel 15 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15) verricht en daarover een inspectierapport uitgebracht als bedoeld in [artikel 20, eerste lid, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20), waaruit volgt dat sprake is van wanbeheer als bedoeld in het tweede lid.
 
-#### Artikel 123. Inhouding bekostiging
+##### Artikel 123. Inhouding bekostiging
 
 1. Indien het bevoegd gezag van een school in strijd handelt met het bepaalde bij of krachtens deze wet, waaronder mede wordt verstaan het niet opvolgen van een aanwijzing als bedoeld in [artikel 122](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=2&artikel=122&z=2026-01-01&g=2026-01-01) of een spoedaanwijzing als bedoeld in [artikel 122a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=2&artikel=122a&z=2026-01-01&g=2026-01-01), kan Onze Minister de bekostiging, voorschotten daaronder begrepen, geheel of gedeeltelijk inhouden dan wel opschorten.
 
@@ -1408,7 +1434,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 3. Onze Minister kent de bekostiging wederom toe, indien blijkt dat de reden voor de toepassing van het eerste of tweede lid is vervallen.
 
-#### Artikel 124. Maatregelen
+##### Artikel 124. Maatregelen
 
 1. Indien het bevoegd gezag tekortschiet in haar zorg voor de kwaliteit van het onderwijs, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), kan Onze Minister op verzoek van het bevoegd gezag van een school of uit eigen beweging in overeenstemming met het bevoegd gezag maatregelen treffen.
 
@@ -1416,7 +1442,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 3. Onze Minister stelt nadere regels omtrent de toekenning van en verantwoording voor maatregelen, voor zover deze het verstrekken van financiële middelen betreffen.
 
-#### Artikel 125. Jaarverslag
+##### Artikel 125. Jaarverslag
 
 1. Het bevoegd gezag stelt jaarlijks een jaarverslag over het voorafgaande kalenderjaar vast. Op deze jaarverslaggeving is [Boek 2, titel 9, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), van overeenkomstige toepassing voor zover bij of krachtens algemene maatregel van bestuur niet anders is bepaald. Het jaarverslag bestaat ten minste uit de volgende onderdelen:
 
@@ -1456,7 +1482,7 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 #### § 2. Overige bepalingen
 
-#### Artikel 126. Informatie over bekostiging
+##### Artikel 126. Informatie over bekostiging
 
 1. Het bevoegd gezag draagt er zorg voor dat het ten behoeve van Onze Minister beschikt over geordende gegevens die van belang zijn voor de berekening van de hoogte van de bekostiging, alsmede over een verklaring over de juistheid van de bekostigingsgegevens, afgegeven door een door de toezichthouder of het toezichthoudend orgaan aangewezen deskundige als bedoeld in [artikel 121, zesde lid, van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=121).
 
@@ -1464,17 +1490,17 @@ Onze Minister is bevoegd tot verrekening van vorderingen krachtens deze wet van 
 
 3. Het bevoegd gezag bewaart de gegevens, bedoeld in het eerste lid, en de desbetreffende boeken en bescheiden gedurende een periode van zeven jaren.
 
-#### Artikel 127. Beleidsinhoudelijke informatie
+##### Artikel 127. Beleidsinhoudelijke informatie
 
 1. Het bevoegd gezag draagt er zorg voor dat het beschikt over geordende gegevens ten behoeve van het door Onze Minister te voeren beleid met betrekking tot het onderwijs, bedoeld in deze wet, en verleent desgevraagd medewerking aan door of namens Onze Minister uit te voeren onderzoek dat geheel of mede op deze gegevens is gebaseerd.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven omtrent de definiëring, de wijze van ordening en de beschikbaarstelling van de gegevens, bedoeld in het eerste lid.
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 De voorschriften, bedoeld in [artikel 131, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=131&z=2026-01-01&g=2026-01-01), [artikel 132, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=132&z=2026-01-01&g=2026-01-01), en [artikel 133, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=133&z=2026-01-01&g=2026-01-01), hebben geen betrekking op het persoonsgebonden nummer BES van een leerling of op andere gegevens waarmee een leerling wordt geïdentificeerd.
 
-#### Artikel 129. Onderzoek vanwege de minister en correctie bekostiging
+##### Artikel 129. Onderzoek vanwege de minister en correctie bekostiging
 
 1. Onverminderd de bevoegdheid van de inspectie op grond van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) kan Onze Minister een onderzoek instellen of doen instellen naar de jaarverslaggeving, naar de gegevens die noodzakelijk zijn voor de vaststelling van de bekostiging, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de school.
 
@@ -1490,7 +1516,7 @@ De voorschriften, bedoeld in [artikel 131, derde lid](https://wetten.overheid.nl
 
 7. Een in het tweede lid bedoelde correctie wordt indien de correctie strekt tot verhoging van de bekostiging, binnen acht weken na de mededeling, bedoeld in het derde lid, door Onze Minister betaald.
 
-#### Artikel 130. Begripsbepalingen
+##### Artikel 130. Begripsbepalingen
 
 In deze afdeling wordt verstaan onder:
 
@@ -1500,13 +1526,13 @@ In deze afdeling wordt verstaan onder:
 
 ### Afdeling 5. Lichamelijke oefening en eilandelijk beleid
 
-#### Artikel 131. Geschiktheidsverklaring
+##### Artikel 131. Geschiktheidsverklaring
 
 1. Aan degene die blijkens een geschiktheidsonderzoek als bedoeld in [artikel 138](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=138&z=2026-01-01&g=2026-01-01) voldoende geschikt wordt geacht voor het beroep van leraar en in staat moet worden geacht binnen twee jaar na benoeming of tewerkstelling zonder benoeming tot leraar met goed gevolg deel te nemen aan het in artikel 141 bedoelde bekwaamheidsonderzoek, geeft het bestuur van een instelling die op grond van artikel 140 is erkend, een geschiktheidsverklaring af.
 
 2. Bij ministeriële regeling wordt een model voor de geschiktheidsverklaring vastgesteld.
 
-#### Artikel 132. Geschiktheidsonderzoek
+##### Artikel 132. Geschiktheidsonderzoek
 
 1. Het geschiktheidsonderzoek wordt op aanvraag van het bevoegd gezag dat voornemens is betrokkene te benoemen of tewerk te stellen zonder benoeming, of op aanvraag van betrokkene zelf, uitgevoerd onder verantwoordelijkheid van het bestuur van een instelling die op grond van artikel 140 is erkend. Dat instellingsbestuur betrekt bij het geschiktheidsonderzoek het bevoegd gezag dat voornemens is betrokkene te benoemen of te werk te stellen zonder benoeming, of indien betrokkene de aanvraag zelf indient, een bevoegd gezag dat daartoe in overeenstemming met betrokkene is uitgenodigd.
 
@@ -1534,17 +1560,17 @@ In deze afdeling wordt verstaan onder:
 
 6. Ten behoeve van het uitvoeren van het geschiktheidsonderzoek is de aanvrager aan de instelling die het onderzoek zal verrichten, een bij ministeriële regeling vast te stellen bijdrage verschuldigd.
 
-#### Artikel 133. Uitvoering scholing en begeleiding
+##### Artikel 133. Uitvoering scholing en begeleiding
 
 1. Het instellingsbestuur van een instelling voor hoger onderwijs die werkzaamheden uitvoert als bedoeld in [artikel 142, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=11&artikel=142&z=2026-01-01&g=2026-01-01), is partij bij de in [artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=42&z=2026-01-01&g=2026-01-01), bedoelde overeenkomst.
 
 2. Indien na het sluiten van die overeenkomst blijkt dat de scholing of begeleiding niet volgens de overeenkomst kan worden uitgevoerd, treft dat instellingsbestuur tijdig een toereikende vervangende voorziening.
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 135. Bekwaamheidsonderzoek
+##### Artikel 135. Bekwaamheidsonderzoek
 
 Het bekwaamheidsonderzoek strekt ertoe, vast te stellen of de leraar voldoet aan de in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), bedoelde bekwaamheidseisen voor het onderwijs waarvoor die eisen zijn vastgesteld.
 
@@ -1554,7 +1580,7 @@ Het bekwaamheidsonderzoek strekt ertoe, vast te stellen of de leraar voldoet aan
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 10. Uitgangspunten en doelstelling onderwijs
+##### Artikel 10. Uitgangspunten en doelstelling onderwijs
 
 1. Het onderwijs wordt zodanig ingericht dat de leerlingen een ononderbroken ontwikkelingsproces kunnen doorlopen. Het wordt afgestemd op de voortgang in de ontwikkeling van de leerlingen.
 
@@ -1584,7 +1610,7 @@ Het bekwaamheidsonderzoek strekt ertoe, vast te stellen of de leraar voldoet aan
 
 7. Het onderwijs wordt zodanig ingericht dat daarbij op structurele en herkenbare wijze aandacht wordt besteed aan het bestrijden van achterstanden in het bijzonder van taalachterstanden, waarin ook door middel van vroegschoolse educatie wordt voorzien.
 
-#### Artikel 11. Inhoud onderwijs openbaar lichaam Bonaire
+##### Artikel 11. Inhoud onderwijs openbaar lichaam Bonaire
 
 1. Het onderwijs in het openbaar lichaam Bonaire omvat, waar mogelijk in samenhang:
 
@@ -1632,7 +1658,7 @@ Het bekwaamheidsonderzoek strekt ertoe, vast te stellen of de leraar voldoet aan
 
 8. Onze Minister kan in bijzondere gevallen op aanvraag van het bevoegd gezag besluiten toe te staan dat wordt afgeweken van de voorschriften in het eerste en tweede lid. De toestemming wordt verleend voor een bepaald tijdvak; zij kan voorwaarden bevatten.
 
-#### Artikel 12. Inhoud onderwijs openbare lichamen Sint Eustatius en Saba
+##### Artikel 12. Inhoud onderwijs openbare lichamen Sint Eustatius en Saba
 
 1. Het onderwijs in de openbare lichamen Sint Eustatius en Saba omvat, waar mogelijk in samenhang:
 
@@ -1678,15 +1704,15 @@ Het bekwaamheidsonderzoek strekt ertoe, vast te stellen of de leraar voldoet aan
 
 8. Onze Minister kan in bijzondere gevallen op aanvraag van het bevoegd gezag besluiten toe te staan dat wordt afgeweken van de voorschriften in het eerste en tweede lid. De toestemming wordt verleend voor een bepaald tijdvak; zij kan voorwaarden bevatten.
 
-#### Artikel 13. Kwaliteit onderwijs
+##### Artikel 13. Kwaliteit onderwijs
 
 Het bevoegd gezag draagt zorg voor de kwaliteit van het onderwijs op de school. Onder zorg dragen voor de kwaliteit van het onderwijs wordt in elk geval verstaan het naleven van de bij of krachtens deze wet gegeven voorschriften en het uitvoeren van het stelsel van kwaliteitszorg, bedoeld in [artikel 15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 14. Rapportage vorderingen van leerlingen
+##### Artikel 14. Rapportage vorderingen van leerlingen
 
 Het bevoegd gezag rapporteert met inachtneming van het leerling- en onderwijsvolgsysteem, bedoeld in [artikel 51a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=6&artikel=51a&z=2026-01-01&g=2026-01-01), over de vorderingen van de leerlingen aan hun ouders.
 
-#### Artikel 15. Schoolplan
+##### Artikel 15. Schoolplan
 
 1. Het schoolplan bevat een beschrijving van het beleid met betrekking tot de kwaliteit van het onderwijs dat binnen de school wordt gevoerd, en omvat in elk geval het onderwijskundig beleid, het personeelsbeleid en het stelsel van kwaliteitszorg. In het schoolplan wordt aangegeven op welke wijze de identiteitscommissie, bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=22a&z=2026-01-01&g=2026-01-01), invulling geeft aan het openbare karakter onderscheidenlijk de identiteit voor zover het betreft een samenwerkingsschool. Het schoolplan omvat mede het beleid ten aanzien van de aanvaarding van materiële bijdragen of geldelijke bijdragen, niet zijnde ouderbijdragen of op de onderwijswetgeving gebaseerde bijdragen, indien het bevoegd gezag daarbij verplichtingen op zich neemt waarmee de leerlingen binnen de schooltijden en tijdens de activiteiten die worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, alsmede tijdens het overblijven, zullen worden geconfronteerd.
 
@@ -1720,7 +1746,7 @@ Bij de beschrijving van het onderwijskundig beleid worden tevens de voorzieninge
 
 - c. het vorm geven aan de uitwerking van het eilandelijk zorgplan, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=2&artikel=27&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 16. Schoolgids
+##### Artikel 16. Schoolgids
 
 1. De schoolgids bevat voor ouders en leerlingen informatie over de werkwijze van de school en bevat in elk geval informatie over:
 
@@ -1762,7 +1788,7 @@ Bij de beschrijving van het onderwijskundig beleid worden tevens de voorzieninge
 
 2. Vervallen.
 
-#### Artikel 17. Klachtenregeling
+##### Artikel 17. Klachtenregeling
 
 1. Ouders en personeelsleden kunnen bij de klachtencommissie, bedoeld in het tweede lid, onderdeel a, een klacht indienen over gedragingen en beslissingen van het bevoegd gezag of het personeel, waaronder discriminatie, dan wel het nalaten van gedragingen en het niet nemen van beslissingen door het bevoegd gezag of het personeel.
 
@@ -1798,7 +1824,7 @@ Bij de beschrijving van het onderwijskundig beleid worden tevens de voorzieninge
 
 9. Gegevens die betrekking hebben op een klacht worden bewaard op een plaats die uitsluitend toegankelijk is voor de leden van de klachtencommissie en het bevoegd gezag.
 
-#### Artikel 18. Samenstelling medezeggenschapsraad
+##### Artikel 18. Samenstelling medezeggenschapsraad
 
 1. Aan een school is een medezeggenschapsraad verbonden.
 
@@ -1830,23 +1856,23 @@ Bij de beschrijving van het onderwijskundig beleid worden tevens de voorzieninge
 
 13. De medezeggenschapsraad kiest uit hun midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering een plaatsvervangende voorzitter, vertegenwoordigt de raad in rechte.
 
-#### Artikel 19. Medezeggenschap
+##### Artikel 19. Medezeggenschap
 
 1. Het bevoegd gezag stelt de medezeggenschapsraad, bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01), ten minste twee maal per jaar in de gelegenheid de algemene gang van zaken in de school met hem te bespreken.
 
 2. Het bevoegd gezag en de medezeggenschapsraad komen bijeen indien daarom onder opgave van redenen door het bevoegd gezag, de vertegenwoordigers van ouders of de vertegenwoordigers van personeel wordt verzocht. De besprekingen kunnen namens het bevoegd gezag worden gevoerd.
 
-#### Artikel 20. Meetellen tijd op andere school; vaststellen vakanties
+##### Artikel 20. Meetellen tijd op andere school; vaststellen vakanties
 
 1. Indien een leerling gedurende een deel van de week onderwijs ontvangt op een andere school of wordt begeleid bij het expertisecentrum onderwijszorg, telt de tijd gedurende welke de leerling dit onderwijs ontvangt mee voor het aantal uren onderwijs dat de leerling ten minste moet ontvangen.
 
 2. Bij ministeriële regeling kunnen voorschriften worden vastgesteld omtrent vakanties. Daarbij kunnen begin en eind van vakanties worden vastgesteld die niet voor alle scholen gelijk behoeven te zijn.
 
-#### Artikel 21. Vaststelling schoolplan en schoolgids
+##### Artikel 21. Vaststelling schoolplan en schoolgids
 
 Vervallen
 
-#### Artikel 22. Bestuurlijke fusie openbare en bijzondere scholen
+##### Artikel 22. Bestuurlijke fusie openbare en bijzondere scholen
 
 1. De instandhouding van een of meer openbare en een of meer bijzondere scholen kan worden opgedragen of overgedragen aan een stichting die met dit doel wordt onderscheidenlijk is opgericht. De besluitvorming van de zijde van het openbaar lichaam vindt plaats door de eilandsraad.
 
@@ -1884,19 +1910,19 @@ Vervallen
 
 10. Indien de laatste afzonderlijke openbare school en de laatste afzonderlijke bijzondere school die door de stichting in stand worden gehouden, zijn gefuseerd tot een samenwerkingsschool als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=22a&z=2026-01-01&g=2026-01-01) kan de instandhouding van die samenwerkingsschool opgedragen blijven aan de stichting.
 
-#### Artikel 23. Scheiding toezicht en bestuur
+##### Artikel 23. Scheiding toezicht en bestuur
 
 1. Het bevoegd gezag draagt mede in verband met de verplichting, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), zorg voor een goed bestuurde school met een scheiding tussen de functies van bestuur en het toezicht daarop, en met een rechtmatig bestuur en beheer.
 
 2. De benoeming in de functies van het bestuur en het toezicht op het bestuur, bedoeld in het eerste lid, geschiedt op basis van vooraf openbaar gemaakte profielen.
 
-#### Artikel 24. Intern toezicht
+##### Artikel 24. Intern toezicht
 
 1. Het bevoegd gezag draagt er zorg voor dat de functies van bestuur en intern toezicht op het bestuur in functionele of organieke zin zijn gescheiden.
 
 2. Een intern toezichthouder of een lid van het interne toezichthoudend orgaan functioneert onafhankelijk van het bestuur.
 
-#### Artikel 25. Inhoud intern toezicht
+##### Artikel 25. Inhoud intern toezicht
 
 1. De interne toezichthouder of het interne toezichthoudend orgaan houdt toezicht op de uitvoering van de taken en de uitoefening van de bevoegdheden door het bestuur en staat het bestuur met raad terzijde. De toezichthouder of het toezichthoudend orgaan is ten minste belast met:
 
@@ -1918,7 +1944,7 @@ Vervallen
 
 #### § 2. Zorgstructuur
 
-#### Artikel 26. Samenwerkingsverband
+##### Artikel 26. Samenwerkingsverband
 
 1. Het bevoegd gezag is voor elk van zijn scholen aangesloten bij een samenwerkingsverband met, voor zover aanwezig in het openbaar lichaam:
 
@@ -1942,7 +1968,7 @@ Vervallen
 
 6. Bij ministeriële regeling worden regels gesteld over de wijze waarop een geschil tussen de organisaties, bedoeld in het eerste lid, over aangelegenheden die het samenwerkingsverband aangaan, wordt beslecht.
 
-#### Artikel 27. Eilandelijk zorgplan
+##### Artikel 27. Eilandelijk zorgplan
 
 1. Het bevoegd gezag stelt samen met de bevoegde gezagsorganen die samenwerken in een samenwerkingsverband en met het expertisecentrum onderwijszorg indien [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=2&artikel=26&z=2026-01-01&g=2026-01-01), van toepassing is, jaarlijks voor 1 mei een gezamenlijk eilandelijk zorgplan vast voor het daaropvolgende schooljaar.
 
@@ -1962,7 +1988,7 @@ Vervallen
 
 3. Het eilandelijk zorgplan wordt voor 15 mei voorafgaand aan het schooljaar waarop het betrekking heeft, toegezonden aan de inspectie.
 
-#### Artikel 28. Expertisecentrum onderwijszorg
+##### Artikel 28. Expertisecentrum onderwijszorg
 
 1. Onze Minister kan op verzoek een rechtspersoon aanwijzen die naar zijn oordeel in staat is deskundige ondersteuning te bieden aan leerlingen met een specifieke onderwijsbehoefte waarin binnen de school redelijkerwijs niet kan worden voorzien en waaronder in elk geval de volgende taken worden verstaan:
 
@@ -1990,7 +2016,7 @@ Vervallen
 
 7. Bij ministeriële regeling kunnen voorschriften worden gegeven over de taken van het expertisecentrum onderwijszorg.
 
-#### Artikel 29. Toezicht expertisecentrum onderwijszorg
+##### Artikel 29. Toezicht expertisecentrum onderwijszorg
 
 1. Met het toezicht op de uitvoering van de taken, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=2&artikel=28&z=2026-01-01&g=2026-01-01), en voor zover van toepassing het zevende lid van dat artikel, zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
@@ -1998,7 +2024,7 @@ Vervallen
 
 3. Onze Minister is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het eerste lid bedoelde ambtenaren.
 
-#### Artikel 30. Taakverwaarlozing door expertisecentrum onderwijszorg
+##### Artikel 30. Taakverwaarlozing door expertisecentrum onderwijszorg
 
 1. Onze Minister is bevoegd tot het treffen van noodzakelijke voorzieningen indien het expertisecentrum onderwijszorg naar het oordeel van Onze Minister zijn taken ernstig verwaarloost.
 
@@ -2008,7 +2034,7 @@ Vervallen
 
 #### § 4. Leerlingen
 
-#### Artikel 43. Toelatingsleeftijd; duur onderwijs
+##### Artikel 43. Toelatingsleeftijd; duur onderwijs
 
 1. Om als leerling tot een school te worden toegelaten, moet een kind de leeftijd van 4 jaar hebben bereikt.
 
@@ -2018,7 +2044,7 @@ Vervallen
 
 4. Leerlingen bij wie naar het oordeel van de directeur van de school de grondslag voor het volgen van aansluitend voortgezet onderwijs in voldoende mate is gelegd, verlaten aan het einde van het schooljaar de school, mits hierover met de ouders overeenstemming bestaat. In elk geval verlaten de leerlingen de school aan het einde van het schooljaar waarin zij de leeftijd van 14 jaar hebben bereikt.
 
-#### Artikel 44. Toelating en verwijdering van leerlingen
+##### Artikel 44. Toelating en verwijdering van leerlingen
 
 1. De beslissing over toelating, schorsing en verwijdering van leerlingen berust bij het bevoegd gezag. De toelating tot de school is niet afhankelijk van het houden van rechtmatig verblijf in de zin van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=3), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=5a) of [6 van de Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571&artikel=6). De toelating mag niet afhankelijk worden gesteld van een geldelijke bijdrage van de ouders.
 
@@ -2030,7 +2056,7 @@ Vervallen
 
 5. Indien de beslissing, bedoeld in het eerste lid, is genomen door het bevoegd gezag van een openbare school en tegen die beslissing bezwaar is gemaakt, besluit het bevoegd gezag, in afwijking van [artikel 69, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=69), binnen vier weken na ontvangst van het bezwaarschrift.
 
-#### Artikel 45. Handelingsplan
+##### Artikel 45. Handelingsplan
 
 1. Het bevoegd gezag van een school waar een leerling met een specifieke onderwijsbehoefte is ingeschreven, stelt in overeenstemming met de ouders en met inachtneming van [artikel 28, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=2&artikel=28&z=2026-01-01&g=2026-01-01), voor elk schooljaar een handelingsplan op. Indien de inschrijving van de in de eerste volzin bedoelde leerling plaatsvindt op of na 1 augustus wordt het handelingsplan zo spoedig mogelijk doch uiterlijk een maand na die inschrijving opgesteld.
 
@@ -2042,7 +2068,7 @@ Vervallen
 
 5. Het bevoegd gezag evalueert het handelingsplan ten minste één keer per schooljaar met de ouders en de leerling.
 
-#### Artikel 46. Te verstrekken gegevens bij toelating
+##### Artikel 46. Te verstrekken gegevens bij toelating
 
 1. Onverminderd bij algemene maatregel van bestuur gegeven voorschriften met betrekking tot de in- en uitschrijving van leerlingen, vindt toelating van een leerling als bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=44&z=2026-01-01&g=2026-01-01) slechts plaats nadat de ouders de gegevens betreffende de geslachtsnaam, de voorletters, de geboortedatum, het geslacht en het persoonsgebonden nummer BES van de leerling hebben overgelegd. Indien de ouders aannemelijk maken dat zij geen persoonsgebonden nummer BES van de leerling kunnen overleggen, vindt de toelating plaats met inachtneming van het derde lid.
 
@@ -2056,23 +2082,23 @@ Vervallen
 
 6. Dit lid is nog niet in werking getreden.
 
-#### Artikel 47. Verplichte deelname leerlingen aan het onderwijs
+##### Artikel 47. Verplichte deelname leerlingen aan het onderwijs
 
 1. De leerlingen nemen deel aan alle voor hen bestemde onderwijsactiviteiten, met dien verstande dat die onderwijsactiviteiten voor de leerlingen onderling kunnen verschillen.
 
 2. Het bevoegd gezag kan op verzoek van de ouders een leerling vrijstellen van het deelnemen aan bepaalde onderwijsactiviteiten met uitzondering van een doorstroomtoets als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=6&artikel=51b&z=2026-01-01&g=2026-01-01). Een vrijstelling kan slechts worden verleend op door het bevoegd gezag vastgestelde gronden. Het bevoegd gezag bepaalt bij de vrijstelling welke onderwijsactiviteiten voor de leerling in de plaats komen van die waarvan vrijstelling is verleend.
 
-#### Artikel 48. Onderwijskundig rapport
+##### Artikel 48. Onderwijskundig rapport
 
 Over iedere leerling die de school verlaat, stelt de directeur, na overleg met het onderwijzend personeel, ten behoeve van de ontvangende school of school voor voortgezet onderwijs een onderwijskundig rapport op. Afschrift van dit rapport wordt aan de ouders van de leerling verstrekt. Bij algemene maatregel van bestuur worden nadere voorschriften omtrent dit rapport gegeven.
 
 #### § 5. Ouders
 
-#### Artikel 49. Ondersteunende werkzaamheden ouders
+##### Artikel 49. Ondersteunende werkzaamheden ouders
 
 Vervallen
 
-#### Artikel 50. Tussenschoolse opvang
+##### Artikel 50. Tussenschoolse opvang
 
 1. Het bevoegd gezag draagt zorg voor een voorziening voor leerlingen om de middagpauze onder toezicht door te brengen, indien ouders hierom verzoeken. Ingeval de voorziening, bedoeld in de eerste volzin, tot stand komt, draagt het bevoegd gezag er zorg voor dat:
 
@@ -2092,7 +2118,7 @@ Vervallen
 
 3. Het bevoegd gezag van een school draagt op daarvoor met ouders afgesproken dagen, zorg voor de organisatie van opvang van leerlingen, op doordeweekse niet-schooldagen, niet zijnde algemeen erkende feestdagen en op schooldagen gedurende de voor- en naschoolse periode, tussen bij ministeriële regeling te bepalen tijdstippen, indien een of meer ouders hierom verzoeken. De kosten die uit de opvang als bedoeld in de eerste volzin voortvloeien, komen voor rekening van de ouders.
 
-#### Artikel 51. Informeren ouders bij zeer zwakke school
+##### Artikel 51. Informeren ouders bij zeer zwakke school
 
 1. Indien de inspectie op basis van een onderzoek als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=11) of [artikel 15 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=15), in het inspectierapport, bedoeld in [artikel 20 van genoemde wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20), tot het oordeel is gekomen dat sprake is van een zeer zwakke school, informeert het bevoegd gezag de ouders van de leerlingen van de school hierover door middel van in ieder geval de toezending van de door de inspectie opgestelde samenvatting van het inspectierapport welke samenvatting gelijktijdig met het inspectierapport ter beschikking is gesteld van het bevoegd gezag. De toezending, bedoeld in de eerste volzin, geschiedt binnen vier weken na de vaststelling van het inspectierapport.
 
@@ -2142,7 +2168,7 @@ Vervallen
 
 ### Afdeling 8. Verslaglegging en informatieverstrekking
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2152,7 +2178,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 167c. Inwerkingtreding
+##### Artikel 167c. Inwerkingtreding
 
 De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van het tijdstip van inwerkingtreding van een aantal onderdelen van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba (Stb. 2011, 34) in werking zijn getreden, treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld.
 
@@ -2160,7 +2186,7 @@ De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 145a. **Ruimte voor innovatie**
+##### Artikel 145a. **Ruimte voor innovatie**
 
 1. Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het basisonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van [hoofdstuk I, titel I, artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=1&z=2021-10-01&g=2021-10-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=2&z=2021-10-01&g=2021-10-01), [titel II, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&z=2021-10-01&g=2021-10-01) en [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&z=2021-10-01&g=2021-10-01), [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=53&z=2021-10-01&g=2021-10-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=54&z=2021-10-01&g=2021-10-01) en [titel III, afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=1&z=2021-10-01&g=2021-10-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&z=2021-10-01&g=2021-10-01), [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&z=2021-10-01&g=2021-10-01), [afdeling 7, paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=2&z=2021-10-01&g=2021-10-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=3&z=2021-10-01&g=2021-10-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=6&z=2021-10-01&g=2021-10-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=7&paragraaf=7&z=2021-10-01&g=2021-10-01), en [afdeling 8, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=8&paragraaf=1&z=2021-10-01&g=2021-10-01), van de wet.
 
@@ -2188,7 +2214,7 @@ De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 21a. Fusies
+##### Artikel 21a. Fusies
 
 1. Bij ministeriële regeling kunnen voorschriften worden gegeven omtrent fusies.
 
@@ -2252,7 +2278,7 @@ De artikelen die niet bij Besluit van 3 februari 2011, houdende vaststelling van
 
 ### Afdeling 9. Verslaglegging en informatieverstrekking
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2260,11 +2286,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 167ba. Wijziging overeenkomst inzake ouderbijdrage
+##### Artikel 167ba. Wijziging overeenkomst inzake ouderbijdrage
 
 Op het tijdstip waarop [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=16&z=2021-10-01&g=2021-10-01) in werking treedt, vervalt het tweede lid van [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=44&z=2021-10-01&g=2021-10-01), onder vernummering van het derde tot en met het vijfde lid tot tweede tot en met vierde lid.
 
-#### Artikel 6a. Zorgplicht veiligheid op school
+##### Artikel 6a. Zorgplicht veiligheid op school
 
 1. Het bevoegd gezag draagt zorg voor de veiligheid op school, waarbij het bevoegd gezag in ieder geval:
 
@@ -2338,7 +2364,7 @@ Op het tijdstip waarop [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0030
 
 ### Afdeling 9. Verslaglegging en informatieverstrekking
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2346,11 +2372,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 167d. Evaluatie zorgplicht veiligheid op school
+##### Artikel 167d. Evaluatie zorgplicht veiligheid op school
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel IV van de Wet van 4 juni 2015 tot wijziging van enige onderwijswetten in verband met het invoeren van de verplichting voor scholen om zorg te dragen voor de veiligheid op school (Stb. 238) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de [artikelen 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=6a&z=2021-10-01&g=2021-10-01) en [16, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=16&z=2021-10-01&g=2021-10-01), in de praktijk.
 
-#### Artikel 22a. Samenwerkingsschool
+##### Artikel 22a. Samenwerkingsschool
 
 1. Een samenwerkingsschool is een school waarin zowel openbaar onderwijs als bijzonder onderwijs wordt aangeboden. Een samenwerkingsschool kan uitsluitend tot stand komen door samenvoeging van één of meer openbare scholen met één of meer bijzondere scholen en wordt in stand gehouden door een stichting, een stichting als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01) of een stichting als bedoeld in [artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=54&z=2026-01-01&g=2026-01-01) waarvan het statutaire doel in ieder geval is het in stand houden van een samenwerkingsschool. De [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=55&z=2026-01-01&g=2026-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=3&artikel=61&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
@@ -2418,7 +2444,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van artikel IV van d
 
 ### Afdeling 9. Verslaglegging en informatieverstrekking
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2426,11 +2452,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 167e. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
+##### Artikel 167e. Evaluatie in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 november 2017 tot wijziging van diverse onderwijswetten in verband met het pseudonimiseren van het persoonsgebonden nummer van een onderwijsdeelnemer ten behoeve van het bieden van voorzieningen in het kader van het onderwijs en de begeleiding van onderwijsdeelnemers (Stb. 508) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 147, achtste tot en met elfde lid, in de praktijk.
 
-#### Artikel 16a. Vaststelling en beschikbaarstelling schoolplan en schoolgids
+##### Artikel 16a. Vaststelling en beschikbaarstelling schoolplan en schoolgids
 
 1. Het bevoegd gezag stelt ten minste eenmaal in de vier jaar het schoolplan vast en stelt dit zo spoedig mogelijk na de vaststelling beschikbaar voor de inspectie.
 
@@ -2452,7 +2478,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de Wet van 29 no
 
 #### § 1. Scholen
 
-#### Artikel 72a. Belangstellingsmeting
+##### Artikel 72a. Belangstellingsmeting
 
 1. De belangstellingsmeting, bedoeld in [artikel 72, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&paragraaf=1&artikel=72&z=2026-01-01&g=2026-01-01), wordt uitgevoerd aan de hand van hetzij ouderverklaringen dan wel, in bij ministeriële regeling te bepalen gevallen, een marktonderzoek.
 
@@ -2496,7 +2522,7 @@ De aanvraag bevat de berekeningen die tot de uitkomst van de formules, bedoeld o
 
 #### § 5. Overschrijdingsregeling
 
-#### Artikel 119a. Beheer van de middelen
+##### Artikel 119a. Beheer van de middelen
 
 Het bevoegd gezag beheert de middelen van de school op zodanige wijze dat het voortbestaan van de school is verzekerd.
 
@@ -2504,7 +2530,7 @@ Het bevoegd gezag beheert de middelen van de school op zodanige wijze dat het vo
 
 #### § 2. Overige bepalingen
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2514,11 +2540,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 167f. Evaluatie in verband met nieuwe stichtingssystematiek
+##### Artikel 167f. Evaluatie in verband met nieuwe stichtingssystematiek
 
 Onze Minister zendt na vijf, tien en vijftien jaar na de inwerkingtreding van de Wet van 20 mei 2020 tot wijziging van diverse onderwijswetten door het wijzigen van de systematiek van het in aanmerking brengen voor bekostiging van nieuwe openbare en bijzondere scholen zodat er meer ruimte is voor een nieuw onderwijsaanbod (Wet meer ruimte voor nieuwe scholen) (Stb. 2020, 160) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de gewijzigde systematiek van het in aanmerking brengen voor bekostiging van nieuwe scholen in de praktijk. Daarbij wordt in ieder geval gelet op de effecten op de segregatie.
 
-#### Artikel 47a. Deelname leerlingen aan extra activiteiten
+##### Artikel 47a. Deelname leerlingen aan extra activiteiten
 
 1. De deelname van leerlingen aan activiteiten die geen onderdeel uitmaken van het verplichte onderwijsprogramma en worden georganiseerd onder verantwoordelijkheid van het bevoegd gezag, wordt niet afhankelijk gesteld van een bijdrage als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=44&z=2026-01-01&g=2026-01-01).
 
@@ -2554,7 +2580,7 @@ Onze Minister zendt na vijf, tien en vijftien jaar na de inwerkingtreding van de
 
 #### § 2. Overige bepalingen
 
-#### Artikel 128. Reikwijdte voorschriften
+##### Artikel 128. Reikwijdte voorschriften
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -2564,7 +2590,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 142. Gebruik persoonsgebonden nummer BES door bevoegd gezag
+##### Artikel 142. Gebruik persoonsgebonden nummer BES door bevoegd gezag
 
 1. Het bevoegd gezag kan het persoonsgebonden nummer BES van een leerling gebruiken in het verkeer met de leerling op wie het nummer betrekking heeft, of met de ouders van deze leerling.
 
@@ -2604,11 +2630,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 11. Bij ministeriële regeling worden regels gesteld over de voorwaarden waaronder de pseudoniemen, bedoeld in het achtste tot en met het tiende lid, kunnen worden gegenereerd en gebruikt. Deze voorwaarden betreffen in ieder geval de duur en de beveiliging, waaronder de gescheiden opslag van de pseudoniemen.
 
-#### Artikel 143. Gebruik persoonsgebonden nummer BES door het openbaar lichaam
+##### Artikel 143. Gebruik persoonsgebonden nummer BES door het openbaar lichaam
 
 Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik van het ID-nummer dat van de leerling is opgenomen in de basisadministratie persoonsgegevens van het openbaar lichaam, gebruikt het openbaar lichaam het persoonsgebonden nummer BES van een leerling uitsluitend ten behoeve van een registratie van leerplichtige jongeren in het belang van het toezicht op de naleving van de [Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281).
 
-#### Artikel 13a. Zeer zwak onderwijs
+##### Artikel 13a. Zeer zwak onderwijs
 
 1. De kwaliteit van het onderwijs is zeer zwak indien de leerresultaten op de school aan het eind van het zevende of het achtste schooljaar op groepsniveau ernstig en langdurig tekortschieten en het bevoegd gezag in verband met dit tekortschieten eveneens tekortschiet in de naleving van een of meer bij of krachtens deze wet gegeven voorschriften. Het bevoegd gezag voldoet in elk geval niet aan de wettelijke opdracht om zorg te dragen voor de kwaliteit van het onderwijs, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), indien de kwaliteit van het onderwijs zeer zwak is.
 
@@ -2656,7 +2682,7 @@ Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik 
 
 ### Afdeling 9. Zij-instroom in het beroep
 
-#### Artikel 140. **Ruimte voor innovatie**
+##### Artikel 140. **Ruimte voor innovatie**
 
 1. Met het oog op verbetering van de kwaliteit, toegankelijkheid of doelmatigheid van het basisonderwijs kan bij wijze van experiment bij algemene maatregel van bestuur worden afgeweken van [hoofdstuk I, titel I, artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=2&z=2026-01-01&g=2026-01-01), [titel II, afdeling 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&z=2026-01-01&g=2026-01-01) en [afdeling 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&z=2026-01-01&g=2026-01-01), [artikelen 53](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=53&z=2026-01-01&g=2026-01-01) en [54](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=2&artikel=54&z=2026-01-01&g=2026-01-01), en [titel III, afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=1&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=2&z=2026-01-01&g=2026-01-01) en [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=4&z=2026-01-01&g=2026-01-01) en afdeling 7, paragraaf 1, van de wet.
 
@@ -2680,7 +2706,7 @@ Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik 
 
 7. Dit artikel is van overeenkomstige toepassing op een samenwerkingsverband van een school met een school als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=I&artikel=1&z=2026-01-01&g=2026-01-01) of een school als bedoeld in de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212). Bij samenwerking met een school als bedoeld in de Wet voortgezet onderwijs 2020 kan worden afgeweken van de Wet voortgezet onderwijs 2020, met uitzondering van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=3), [paragrafen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=7) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=10), de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=4), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=6) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=9), en [hoofdstuk 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&hoofdstuk=11), [paragrafen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=4) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&paragraaf=6), van die wet. Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, wordt geregeld welke bij of krachtens de wet, of de Wet voortgezet onderwijs 2020 vastgestelde voorschriften van toepassing of van overeenkomstige toepassing zijn op de samenwerking.
 
-#### Artikel 141. Vermindering bekostiging i.v.m. schuld of nalatigheid
+##### Artikel 141. Vermindering bekostiging i.v.m. schuld of nalatigheid
 
 1. Onze Minister kan bepalen dat geen of slechts een gedeeltelijke bekostiging wordt verstrekt voor uitgaven die het gevolg zijn van schuld of nalatigheid van het bevoegd gezag.
 
@@ -2690,7 +2716,7 @@ Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik 
 
 4. Indien schade, ontstaan aan gebouwen, terreinen of roerende zaken van een niet door het openbaar lichaam in stand gehouden school voor vergoeding door het openbaar lichaam in aanmerking komt, treedt het openbaar lichaam op het moment van een uitdrukkelijk besluit tot vergoeding in alle rechten die het bevoegd gezag ter zake van die schade tegen derden mocht hebben.
 
-#### Artikel 144. Schadevergoeding bij termijnoverschrijding
+##### Artikel 144. Schadevergoeding bij termijnoverschrijding
 
 1. Indien een bij of krachtens de wet gestelde termijn door het bevoegd gezag wordt overschreden en het openbaar lichaam daardoor geen bekostiging van het Rijk dan wel lagere bekostiging of met ingang van een latere datum bekostiging van het Rijk ontvangt dan het geval zou zijn geweest indien deze termijn wel in acht was genomen, vergoedt het bevoegd gezag de door het openbaar lichaam geleden schade.
 
@@ -2698,13 +2724,13 @@ Onverminderd het overigens bij of krachtens de wet bepaalde omtrent het gebruik 
 
 3. Het bestuurscollege en het bevoegd gezag kunnen in onderling overleg de in het eerste en tweede lid bedoelde verplichting tot schadevergoeding matigen. Indien dit overleg niet tot overeenstemming leidt, is [artikel 106 van Boek 6 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028749&artikel=106) van toepassing.
 
-#### Artikel 145. Gebruik ontvangen gelden overeenkomstig bestemming; boekhoudvoorschriften
+##### Artikel 145. Gebruik ontvangen gelden overeenkomstig bestemming; boekhoudvoorschriften
 
 Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskassen ontvangen gelden overeenkomstig de bestemming te gebruiken. Van de inkomsten en uitgaven wordt volgens bij algemene maatregel van bestuur te geven voorschriften nauwkeurig boekgehouden.
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 122a. Spoedaanwijzing
+##### Artikel 122a. Spoedaanwijzing
 
 1. Onze Minister kan het bevoegd gezag een spoedaanwijzing tot het nemen van een of meer voorlopige maatregelen geven, indien:
 
@@ -2728,7 +2754,7 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 
 ### Hoofdstuk II. Slotbepalingen
 
-#### Artikel 34a. Verklaring omtrent het gedrag in het aanvullend onderwijs
+##### Artikel 34a. Verklaring omtrent het gedrag in het aanvullend onderwijs
 
 1. Het bevoegd gezag bewaart een afschrift van de verklaring omtrent het gedrag van een persoon die:
 
@@ -2762,19 +2788,19 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 
 #### § 2. Betaling
 
-#### Artikel 51a. Toetsen leerling- en onderwijsvolgsysteem
+##### Artikel 51a. Toetsen leerling- en onderwijsvolgsysteem
 
 1. Het bevoegd gezag gebruikt een leerling- en onderwijsvolgsysteem waaruit de vorderingen in de kennis en vaardigheden blijken op het niveau van de leerling, de groep en de school. Aan een leerling- en onderwijsvolgsysteem zijn, behoudens voor de eerste twee schooljaren, in elk geval door het College voor toetsen en examens erkende toetsen verbonden.
 
 2. De toetsen, bedoeld in het eerste lid, meten kennis en vaardigheden van de leerling, voor wat betreft het openbare lichaam Bonaire in elk geval op het terrein van Papiaments, Nederlandse taal en rekenen en wiskunde, en voor wat betreft de openbare lichamen Sint Eustatius en Saba in elk geval op het terrein van Engelse taal, Nederlandse taal en rekenen en wiskunde.
 
-#### Artikel 51b. Doorstroomtoets openbaar lichaam Bonaire
+##### Artikel 51b. Doorstroomtoets openbaar lichaam Bonaire
 
 1. In het openbaar lichaam Bonaire neemt het bevoegd gezag in de eerste of tweede volledige week van februari bij een leerling in het laatste leerjaar van het basisonderwijs een door het College voor toetsen en examens erkende doorstroomtoets af. De doorstroomtoets is een objectief, tweede gegeven voor het vaststellen van het niveau van de leerling voor het volgen van aansluitend voortgezet onderwijs.
 
 2. Een doorstroomtoets meet kennis en vaardigheden van de leerling op het terrein van Papiaments, Nederlandse taal en rekenen en wiskunde. Het bevoegd gezag kan bij een leerling tevens een doorstroomtoets voor de kennisgebieden, genoemd in [artikel 11, tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=11&z=2026-01-01&g=2026-01-01), afnemen.
 
-#### Artikel 51c. Uitzondering deelname leerling aan doorstroomtoets openbaar lichaam Bonaire
+##### Artikel 51c. Uitzondering deelname leerling aan doorstroomtoets openbaar lichaam Bonaire
 
 1. In het openbaar lichaam Bonaire neemt het bevoegd gezag, indien de leerling verhinderd is de doorstroomtoets als bedoeld in [artikel 51b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=6&artikel=51b&z=2026-01-01&g=2026-01-01), af te leggen, binnen drie weken na het reguliere moment van afname de doorstroomtoets alsnog af, tenzij dit voor de leerling om medische redenen onmogelijk is.
 
@@ -2788,7 +2814,7 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 
 3. Indien het bevoegd gezag toepassing wil geven aan het tweede lid, overlegt het daarover met de ouders voor het reguliere moment van afname, bedoeld in het eerste lid.
 
-#### Artikel 51d. Schooladvies openbaar lichaam Bonaire
+##### Artikel 51d. Schooladvies openbaar lichaam Bonaire
 
 1. In het openbaar lichaam Bonaire stelt het bevoegd gezag in de periode van 10 januari tot en met 31 januari, voorafgaand aan de afname van de doorstroomtoets, voor een leerling in het laatste leerjaar van het basisonderwijs een schooladvies op voor het volgen van aansluitend voortgezet onderwijs. Het bevoegd gezag deelt het schooladvies mee aan de ouders.
 
@@ -2798,7 +2824,7 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 
 4. Het definitieve schooladvies maakt onderdeel uit van het onderwijskundig rapport, bedoeld in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=4&artikel=48&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 51e. Delegatie en voorhang
+##### Artikel 51e. Delegatie en voorhang
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over:
 
@@ -2808,7 +2834,7 @@ Het bevoegd gezag van een bijzondere school is verplicht de uit de overheidskass
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 51f. Calamiteitentoets
+##### Artikel 51f. Calamiteitentoets
 
 Onze Minister draagt zorg voor de beschikbaarheid van een doorstroomtoets als bedoeld in [artikel 51b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=6&artikel=51b&z=2026-01-01&g=2026-01-01), voor situaties waarin, als gevolg van onvoorziene omstandigheden, voor een school geen doorstroomtoets beschikbaar is.
 
@@ -2824,21 +2850,21 @@ Onze Minister draagt zorg voor de beschikbaarheid van een doorstroomtoets als be
 
 #### § 2. Overige bepalingen
 
-#### Artikel 164a. Evaluatie leerling- en onderwijsvolgsysteem en doorstroomtoets
+##### Artikel 164a. Evaluatie leerling- en onderwijsvolgsysteem en doorstroomtoets
 
 Onze Minister zendt binnen vier jaar na de inwerkingtreding van [artikel V van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=V) van [datum] 9 februari 2022tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van de [artikelen 51a tot en met 51d](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=6&artikel=51a&z=2026-01-01&g=2026-01-01) in de praktijk.
 
-#### Artikel 164b. Overgangsrecht leerresultaten doorstroomtoets
+##### Artikel 164b. Overgangsrecht leerresultaten doorstroomtoets
 
 In afwijking van [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=1&artikel=13a&z=2026-01-01&g=2026-01-01), worden de leerresultaten die zijn behaald in de drie schooljaren voorafgaand aan de inwerkingtreding van [artikel V, onderdeel B, van de wet tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs](onbekend), niet meegenomen in de beoordeling van de kwaliteit van het onderwijs.
 
 ### Afdeling 4. Onderwijsachterstandenbeleid
 
-#### Artikel 65a. Afspraken
+##### Artikel 65a. Afspraken
 
 Het bevoegd gezag neemt deel aan het overleg over de organisatie van een doorlopende ontwikkel- en leerlijn als bedoeld in [artikel 2.16 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.16). Het bevoegd gezag werkt mee aan de totstandkoming van afspraken tijdens dit overleg en draagt zorg voor de naleving van die afspraken.
 
-#### Artikel 65b. Overgangsgesprek
+##### Artikel 65b. Overgangsgesprek
 
 Het bevoegd gezag werkt mee aan het organiseren van een gesprek als bedoeld in [artikel 2.15 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=2.15).
 
@@ -2856,17 +2882,17 @@ Het bevoegd gezag werkt mee aan het organiseren van een gesprek als bedoeld in [
 
 #### § 2. Overige bepalingen
 
-#### Artikel 121a. Afspraken
+##### Artikel 121a. Afspraken
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2025/280.
 
-#### Artikel 121b. Overgangsgesprek
+##### Artikel 121b. Overgangsgesprek
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2025/280.
 
 ### Afdeling 9. Zij-instroom in het beroep
 
-#### Artikel 134. Uitvoeren geschiktheidsonderzoek
+##### Artikel 134. Uitvoeren geschiktheidsonderzoek
 
 1. Onze Minister kan op aanvraag van het bestuur een instelling erkennen als bevoegd tot het uitvoeren of onder zijn verantwoordelijkheid doen uitvoeren van het geschiktheidsonderzoek. Erkenning vindt plaats indien het bestuur in zijn aanvraag ten genoegen van Onze Minister aantoont dat de instelling het geschiktheidsonderzoek onafhankelijk, deskundig en betrouwbaar zal uitvoeren. Bij algemene maatregel van bestuur kunnen regels worden vastgesteld met betrekking tot de toepassing van de tweede volzin, waaronder regels over de behandeling en beoordeling van de aanvraag. Een erkende instelling heeft tevens de bevoegdheid tot het verstrekken van geschiktheidsverklaringen op grond van het geschiktheidsonderzoek en tot het doen van voorstellen over de noodzakelijke scholing en begeleiding, met inachtneming van [artikel 138, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=138&z=2026-01-01&g=2026-01-01).
 
@@ -2874,7 +2900,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. Onze Minister kan de erkenning intrekken indien de instelling, bedoeld in het eerste lid, naar het oordeel van Onze Minister het geschiktheidsonderzoek niet langer onafhankelijk, deskundig of betrouwbaar uitvoert.
 
-#### Artikel 136. Uitvoeren scholing, begeleiding en bekwaamheidsonderzoek
+##### Artikel 136. Uitvoeren scholing, begeleiding en bekwaamheidsonderzoek
 
 1. Het instellingsbestuur van een instelling voor hoger onderwijs die opleidt voor het voldoen aan bekwaamheidseisen als bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=II&afdeling=1&paragraaf=3&artikel=35&z=2026-01-01&g=2026-01-01), en die zich daartoe bij Onze Minister heeft gemeld, is na die melding en onder overlegging van een plan van aanpak, bevoegd tot:
 
@@ -2888,13 +2914,13 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. Het instellingsbestuur kan bepalen dat de aanvrager van het bekwaamheidsonderzoek aan dat bestuur een bijdrage is verschuldigd voor uitvoering van dat onderzoek. Bij ministeriële regeling kan voor deze bijdrage een maximum worden vastgesteld.
 
-#### Artikel 137. Kwaliteitsbewaking; sancties
+##### Artikel 137. Kwaliteitsbewaking; sancties
 
 1. Het in artikel 140 en het in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=11&artikel=142&z=2026-01-01&g=2026-01-01) bedoelde bestuur dragen zorg voor de kwaliteit van de werkzaamheden van de instelling.
 
 2. Onze Minister kan een instelling een of meer van de in artikel 140 of [artikel 142, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=11&artikel=142&z=2026-01-01&g=2026-01-01), bedoelde bevoegdheden ontnemen indien gebleken is dat de kwaliteit van de uitoefening daarvan tekortschiet, dan wel indien niet of niet meer wordt voldaan aan het terzake bij en krachtens deze wet bepaalde. [Artikel 6.10, vierde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.10) is van overeenkomstige toepassing ten aanzien van de ontneming.
 
-#### Artikel 138. Uitvoeringsvoorschriften zij-instroom
+##### Artikel 138. Uitvoeringsvoorschriften zij-instroom
 
 1. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften vastgesteld voor de uitvoering van [artikel 138, tweede lid onder b, en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=9&artikel=138&z=2026-01-01&g=2026-01-01).
 
@@ -2906,7 +2932,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 - c. de procedure voor het aanvragen van het geschiktheidsonderzoek en voor afgifte van de geschiktheidsverklaring.
 
-#### Artikel 139. Inlichtingenplicht
+##### Artikel 139. Inlichtingenplicht
 
 Het in artikel 140 en het in [artikel 142](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&hoofdstuk=I&titeldeel=III&afdeling=11&artikel=142&z=2026-01-01&g=2026-01-01) bedoelde bestuur verstrekt aan Onze Minister alle inlichtingen die deze nodig acht ten behoeve van een goede naleving van deze afdeling. Op verzoek van de inspectie zendt het bestuur een overzicht van afgegeven geschiktheidsverklaringen en bekwaamheidsonderzoeken waaraan met goed gevolg is deelgenomen.
 

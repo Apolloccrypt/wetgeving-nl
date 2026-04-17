@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels toepassing Besluit onderstand BES 2019"
+title: "Beleidsregels van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 januari 2019, nr 2018-0000172386, tot vaststelling van beleidsregels op grond van het Besluit onderstand BES (Beleidsregels toepassing Besluit onderstand BES 2019)"
 identifier: "BWBR0041881"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041881"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041881"
+soort: "beleidsregel-BES"
+stam_id: "14990953"
+version_id: "25677002"
+internal_id: "C36634611"
+label_id: "14941464"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041881/2025-01-01/0"
+intitule_bron: "Stcrt.2019-6045"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-30"
+intitule_published: "2019-02-07"
+intitule_in_force: "2019-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-6045"
+original_signed_date: "2019-01-30"
+original_published_date: "2019-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-6045"
+entry_into_force_date: "2019-02-08"
+jci_1_3: "jci1.3:c:BWBR0041881&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0041881&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels toepassing Besluit onderstand BES 2019"
+signed_date: "2019-01-30"
+entry_into_force: "2019-02-08"
 ---
-
 # Beleidsregels van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 30 januari 2019, nr 2018-0000172386, tot vaststelling van beleidsregels op grond van het Besluit onderstand BES (Beleidsregels toepassing Besluit onderstand BES 2019)
 
 Gelet op de [artikelen 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=5), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=6), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=7), [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=9), [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=10), [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12), [artikel 18, tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=18), [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=20), [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=30), [artikel 32, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=32), en [artikel 33 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=33);
@@ -18,7 +44,7 @@ Besluit van te stellen:
 
 ### Hoofdstuk 1. Inhoudsopgave
 
-#### Artikel 1. Inhoudsopgave
+##### Artikel 1. Inhoudsopgave
 
 Met deze beleidsregels wordt voorzien in het regelen van de volgende onderwerpen:
 
@@ -96,7 +122,7 @@ In [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=8&z=2
 
 ### Hoofdstuk 2. Kring van rechthebbenden
 
-#### Artikel 2. Onderstand terugkerende eilandskinderen
+##### Artikel 2. Onderstand terugkerende eilandskinderen
 
 De Minister van Sociale Zaken en Werkgelegenheid (hierna: de Minister) past de uitsluitingsgrond in verband met het op het moment van aanvraag korter dan vijf jaar onafgebroken rechtmatig woonachtig zijn in de openbare lichamen, niet toe indien het betreft een persoon met de Nederlandse nationaliteit,
 
@@ -112,7 +138,7 @@ Hetzelfde geldt ten aanzien van Nederlanders die direct voorafgaand aan 10 oktob
 
 **Grondslag: Artikel 7, eerste lid, onderdeel c, Besluit onderstand BES (uitzondering vanwege beleid Minister van Veiligheid en Justitie).**
 
-#### Artikel 3. Opname inrichting buiten Caribisch Nederland
+##### Artikel 3. Opname inrichting buiten Caribisch Nederland
 
 In afwijking van [artikel 7, aanhef en onderdeel d, van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=7), blijft het recht op onderstand bestaan voor de persoon die de in onderdeel d genoemde duur van vier weken verblijf buiten de openbare lichamen Bonaire, Sint Eustatius en Saba overschrijdt, indien en zo lang er sprake is van opname in een medische of psychiatrische inrichting buiten de openbare lichamen en ter zake een noodzakelijkheidsverklaring is ontvangen van de behandelend arts, doch maximaal voor de duur van 12 maanden.
 
@@ -122,7 +148,7 @@ In deze situatie van het Zorgverzekeringskantoor ontvangen daggeld wordt aangeme
 
 ### Hoofdstuk 3. Verplichtingen arbeidsinschakeling
 
-#### Artikel 4. Inspanningsverplichtingen met het oog op arbeidsinschakeling
+##### Artikel 4. Inspanningsverplichtingen met het oog op arbeidsinschakeling
 
 De onderstandgerechtigde is, behoudens in de gevallen waarin ontheffing is verleend, met het oog op arbeidsinschakeling op grond van het [Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595) verplicht om naar vermogen algemeen geaccepteerde arbeid te verkrijgen en deze te aanvaarden, zich aan te melden voor arbeidsbemiddeling bij het bestuurscollege van het openbaar lichaam en gebruik te maken van een door of vanwege het bestuurscollege aangeboden voorziening gericht op arbeidsinschakeling, alsmede mee te werken aan een onderzoek naar zijn mogelijkheden tot arbeidsinschakeling.
 
@@ -148,7 +174,7 @@ Onder het meewerken aan een onderzoek als bedoeld in [artikel 5, eerste lid, ond
 
 **Grondslag: artikel 5, eerste lid, Besluit onderstand BES.**
 
-#### Artikel 5. Vrijstelling verplichtingen arbeidsinschakeling
+##### Artikel 5. Vrijstelling verplichtingen arbeidsinschakeling
 
 Onder dringende reden op basis waarvan tijdelijke ontheffing wordt verleend van de verplichting om naar vermogen algemeen geaccepteerde arbeid te verkrijgen en deze te aanvaarden en van de verplichting om zich bij het bestuurscollege van het openbaar lichaam aan te melden voor arbeidsbemiddeling wordt in elk geval verstaan:
 
@@ -160,17 +186,17 @@ Onder dringende reden op basis waarvan tijdelijke ontheffing wordt verleend van 
 
 ### Hoofdstuk 4. Toepassing algemene onderstand
 
-#### Artikel 6. Vrijlatingsregeling vergoedingen medische uitzending
+##### Artikel 6. Vrijlatingsregeling vergoedingen medische uitzending
 
 Niet tot de middelen van belanghebbende wordt gerekend een vergoeding met betrekking tot een medische uitzending op grond van [artikel 1.13.4 van de Regeling aanspraken zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&artikel=1.13.4) aan een verzekerde op grond van die regeling of diens eventuele begeleider, tenzij vrijlating van deze vergoeding uit oogpunt van verlening van onderstand niet verantwoord is te achten.
 
 **Grondslag: artikel 12 en artikel 18, tweede lid, onderdeel a, Besluit onderstand BES.**
 
-#### Artikel 7. Vrijlatingsregeling inkomsten kinderalimentatie
+##### Artikel 7. Vrijlatingsregeling inkomsten kinderalimentatie
 
 Vervallen
 
-#### Artikel 8. Basisbedrag bij opname in instelling
+##### Artikel 8. Basisbedrag bij opname in instelling
 
 Bewoners van een instelling die een AOV- of AWW-uitkering hebben, hebben recht op zak- en kleedgeld ter hoogte van 10% van het bedrag van de volledige AOV-uitkering; het meerdere van hun uitkering gaat naar de instelling.
 
@@ -178,11 +204,11 @@ Naast AOV- en AWW-gerechtigden is er ook een groep personen die zijn opgenomen i
 
 **Grondslag: Artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 9. Tegemoetkoming AOV-gerechtigden
+##### Artikel 9. Tegemoetkoming AOV-gerechtigden
 
 Vervallen
 
-#### Artikel 10. Toeslag arbeidsongeschiktheid bij tijdelijke of gedeeltelijke arbeidsongeschiktheid
+##### Artikel 10. Toeslag arbeidsongeschiktheid bij tijdelijke of gedeeltelijke arbeidsongeschiktheid
 
 De toeslag volledig en duurzaam arbeidsongeschikt is bedoeld voor de belanghebbende die volledig en duurzaam niet in staat is om algemeen geaccepteerde arbeid te verrichten. Met toepassing van [artikel 12 Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=12) kan desalniettemin in uitzonderingssituaties een tijdelijk arbeidsongeschikt persoon tijdelijk met een volledig en duurzaam arbeidsongeschikte worden gelijkgesteld en de toeslag worden toegekend. Dit is een uitzonderlijke situatie, die op grond van het – ten opzichte van de situatie waarin belanghebbende niet arbeidsongeschikt was – evident ontbreken van mogelijkheden en middelen om in het bestaan te voorzien moet kunnen worden gemotiveerd.
 
@@ -192,13 +218,13 @@ Er moet aantoonbaar sprake zijn van als gevolg van de tijdelijke arbeidsongeschi
 
 ### Hoofdstuk 5. Aanvraag en criteria toepassing bijzondere onderstand
 
-#### Artikel 11. Termijn aanvraag bijzondere onderstand
+##### Artikel 11. Termijn aanvraag bijzondere onderstand
 
 Een aanvraag om bijzondere onderstand moet in beginsel worden ingediend voordat de kosten zijn gemaakt.
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toepassing bijzondere onderstand**).
 
-#### Artikel 12. Toetsing aanvraag bijzondere onderstand
+##### Artikel 12. Toetsing aanvraag bijzondere onderstand
 
 De toetsing van een aanvraag bijzondere onderstand geschiedt aan de hand van de in de bijlage bij deze beleidsregels opgenomen leidraad. Hierin wordt ingegaan op:
 
@@ -222,7 +248,7 @@ De toetsing van een aanvraag bijzondere onderstand geschiedt aan de hand van de 
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toepassing bijzondere onderstand**).
 
-#### Artikel 13. Inkomensgrens bijzondere onderstand
+##### Artikel 13. Inkomensgrens bijzondere onderstand
 
 Bij een feitelijk inkomen of mogelijkheid van inkomen vanaf 120 procent van het minimum-maandloon, als bedoeld in [artikel 8, eerste lid, van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=8), op basis van een veertigurige werkweek, wordt in beginsel geen bijzondere onderstand toegekend. In geval van zeer dringende redenen kan hierop een uitzondering worden gemaakt.
 
@@ -238,7 +264,7 @@ Voor vergoeding van begrafeniskosten (zie hierna [artikel 14](https://wetten.ove
 
 ### Hoofdstuk 6. Kostensoorten bijzondere onderstand
 
-#### Artikel 14. Begrafeniskosten
+##### Artikel 14. Begrafeniskosten
 
 De Minister kan bijzondere onderstand verlenen voor begrafeniskosten. De Minister vergoedt uitsluitend begrafeniskosten via de bijzondere onderstand ten behoeve van personen die op het tijdstip van overlijden algemene onderstand genieten, alsmede begrafeniskosten van ten laste van de onderstandgerechtigde komende kinderen. In alle andere gevallen ligt de verantwoordelijkheid voor eventuele vergoeding van de begrafeniskosten op grond van de [Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363) bij het openbaar lichaam (en is vergoeding vanuit de onderstand daarmee uitgesloten).
 
@@ -246,7 +272,7 @@ Als er aanleiding is om onderstand te verlenen vanwege het ontbreken van een voo
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toepassing bijzondere onderstand op basis van individuele beoordeling) in combinatie met artikel 9 Besluit onderstand BES (voorliggende voorziening).**
 
-#### Artikel 15. Schooluniform en schoolbenodigdheden voortgezet onderwijs
+##### Artikel 15. Schooluniform en schoolbenodigdheden voortgezet onderwijs
 
 De Minister kan bijzondere onderstand verlenen voor kosten van een schooluniform of voor schoolbenodigdheden, indien het een leerling in het voortgezet onderwijs betreft. Voor de noodzakelijkheid van de voor vergoeding in aanmerking komende schoolbenodigdheden wordt de daartoe strekkende opgave van de school aangehouden.
 
@@ -256,7 +282,7 @@ De Minister vergoedt géén kosten van een schooluniform of voor schoolbenodigdh
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 16. Medisch dieetkosten
+##### Artikel 16. Medisch dieetkosten
 
 De Minister kan bijzondere onderstand verlenen voor de kosten van een medisch dieet. Om voor een kostenvergoeding in aanmerking te komen moet in elk geval tegelijkertijd voldaan worden aan de volgende voorwaarden:
 
@@ -272,7 +298,7 @@ De belanghebbende legt vooraf, bij de aanvraag, een pro forma rekening voor akko
 
 **Grondslag: Artikel 20 (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 17. Waterreservoir en waterpomp
+##### Artikel 17. Waterreservoir en waterpomp
 
 De Minister kan bijzondere onderstand verstrekken voor de kosten van het vullen van een waterreservoir, alsmede voor de kosten van het vervangen van een defecte waterpomp. Kostenvergoeding voor het vullen van een waterreservoir geschiedt uitsluitend op basis van voorafgaande toestemming van de Minister ter beoordeling van de noodzakelijkheid. Voor de levering dient de Minister op basis van een pro forma nota voorafgaand toestemming te verlenen. Betaling vindt rechtstreeks plaats aan de waterleverancier op basis van de definitieve nota en wel maximaal tot het bedrag van de pro forma nota.
 
@@ -282,7 +308,7 @@ In geval van een defecte waterpomp en het ontbreken van middelen om in de kosten
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende)**
 
-#### Artikel 18. Verbruikskosten water op tijdelijke basis
+##### Artikel 18. Verbruikskosten water op tijdelijke basis
 
 De belanghebbende wordt geacht zelf voldoende middelen voor het verbruik van water te reserveren. De Minister kan op tijdelijke basis toch bijzondere onderstand verstrekken voor de verbruikskosten van water. Aan kostenvergoeding van watervoorziening via de bijzondere onderstand niet zijnde het vullen van een waterreservoir, dient een acute noodzaak ten grondslag te liggen. Belanghebbende dient noodzaak en urgentie van de kostenvergoeding aan te tonen.
 
@@ -300,7 +326,7 @@ De Minister beoordeelt bij de aanvraag of de aanvrager daadwerkelijk op het adre
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 19. Afbakening duurzame gebruiksgoederen
+##### Artikel 19. Afbakening duurzame gebruiksgoederen
 
 In dit artikel vindt een afbakening plaats van het recht op bijzondere onderstand voor duurzame gebruiksgoederen als bedoeld in de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0041881&hoofdstuk=6&artikel=20&z=2025-01-01&g=2025-01-01). Deze afbakening is ingegeven door ervaringen met de huidige wijze van verlening van bijzondere onderstand en dient mede om de verhoging van de inkomensgrens voor de bijzondere onderstand in het juiste kader te plaatsen.
 
@@ -364,7 +390,7 @@ Gelet op het bepaalde in [artikel 27, derde lid, van het Besluit onderstand BES]
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toekenning bijzondere onderstand) in combinatie met artikel 12, eerste en tweede lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende en tekortschietend besef van verantwoordelijkheid van de belanghebbende) en de artikelen 18, eerste lid, en 32, aanhef en onderdeel b, Besluit onderstand BES.**
 
-#### Artikel 20. Baby-uitzet en babybed
+##### Artikel 20. Baby-uitzet en babybed
 
 De Minister kan onder voorwaarden vanuit de bijzondere onderstand de kosten van een baby-uitzet of een kinderbedje vergoeden. In hoeverre de belanghebbende voor de kosten van een babyuitzet heeft kunnen reserveren wordt individueel beoordeeld.
 
@@ -404,7 +430,7 @@ Kosten van positiekleding en babykleertjes komen niet voor bijzondere onderstand
 
 **Grondslag: Artikel 20 Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 21. Kosten bedmatras of slaapbank
+##### Artikel 21. Kosten bedmatras of slaapbank
 
 De belanghebbende wordt geacht zelf middelen voor de aanschaf van een bedmatras te reserveren. Individuele omstandigheden kunnen leiden tot een situatie waarin een beroep op bijzondere onderstand voor de kosten van een bedmatras of slaapbank toch onvermijdelijk is. De duur van uitkeringsafhankelijkheid kan een indicatie zijn van verminderde reserveringsmogelijkheid. De beoordeling hiervan ligt bij de Minister, maar belanghebbende dient de noodzaak en de urgentie van de kostenvergoeding aan te tonen. Alle relevante omstandigheden van belanghebbende worden hierbij meegewogen. Wanneer de noodzakelijke kosten, waarin onderstand wordt gevraagd, ontstaan zijn door een tekortschietend besef van verantwoordelijkheid van de aanvrager, wordt deze omstandigheid betrokken in de beoordeling van het recht op bijzondere onderstand.
 
@@ -414,7 +440,7 @@ Voor een slaapbank in plaats van een bedmatras kan gekozen worden indien onvoldo
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende)**
 
-#### Artikel 22. Kosten huishoudelijke apparatuur
+##### Artikel 22. Kosten huishoudelijke apparatuur
 
 De belanghebbende wordt geacht zelf middelen voor de aanschaf van huishoudelijke apparatuur te reserveren. Individuele omstandigheden kunnen leiden tot een situatie waarin een beroep op bijzondere onderstand toch onvermijdelijk is. De duur van uitkeringsafhankelijkheid kan een indicatie zijn van verminderde reserveringsmogelijkheid. De beoordeling hiervan ligt bij de Minister, maar belanghebbende dient de noodzaak en de urgentie van de kostenvergoeding aan te tonen. Alle relevante omstandigheden van belanghebbende worden hierbij meegewogen. De voorziening dient in het individuele geval evident noodzakelijk te zijn. Wanneer de noodzakelijke kosten, waarin onderstand wordt gevraagd, ontstaan zijn door een tekortschietend besef van verantwoordelijkheid van de aanvrager, wordt deze omstandigheid betrokken in de beoordeling van het recht op bijzondere onderstand.
 
@@ -432,19 +458,19 @@ Niet genoemde duurzame gebruiksgoederen komen in het algemeen niet voor bijzonde
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 23. Dubbele huur
+##### Artikel 23. Dubbele huur
 
 De belanghebbende wordt geacht zelf middelen voor de situatie van tijdelijk dubbele huur te reserveren. Het betreft hier eenmalige kostenvergoeding voor dubbele huur (maximaal 2 maanden) gedurende de verhuisperiode indien er sprake is van verhuizing ter bevordering van langer zelfstandig wonen (bij situaties waarin er sprake is van een beperking met betrekking tot de algemene dagelijkse levensverrichtingen, zogeheten ‘ADL-beperking’), of verhuizing plaatsvindt op basis van een woonurgentie op basis van sociale of medische gronden. De beoordeling ligt bij de Minister van SZW, maar belanghebbende heeft de plicht de noodzaak en de urgentie van de kostenvergoeding aan te tonen. Voorwaarde is dat er sprake is van individuele omstandigheden die de grond vormen voor de evidente noodzakelijkheid van de kosten.
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 24. Eigen bijdragen
+##### Artikel 24. Eigen bijdragen
 
 Eigen bijdragen, van welke aard dan ook, behoren in beginsel tot de kosten die belanghebbende uit eigen middelen dient te (kunnen) voldoen. In uitzonderlijke situaties kan op grond van dringende reden toch een vergoeding van een eigen bijdrage plaatsvinden. Voorwaarde is dat het gaat om een eigen bijdrage in verband met evident noodzakelijk te maken kosten of het gebruik maken van een voorziening om redenen van sociale aard (bijvoorbeeld bijdrage voor deelname aan een door de school georganiseerde activiteit). De weging van de individuele omstandigheden op grond waarvan bijzondere onderstand kan worden toegepast, ligt bij de Minister.
 
 **Grondslag: Artikel 20, eerste lid, Besluit onderstand BES (toepassing bijzondere onderstand) in combinatie met artikel 12, eerste lid, Besluit onderstand BES (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 25. Tandartskosten volwassenen
+##### Artikel 25. Tandartskosten volwassenen
 
 De aanspraken voor tandheelkundige zorg vanuit de zorgverzekering zijn geregeld in de [Regeling aanspraken zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029442). Voor personen vanaf 18 jaar is deze aanspraak behoudens uitzonderingen (zoals in verband met tandheelkundige of geestelijke aandoening) beperkt tot:
 
@@ -468,7 +494,7 @@ Het vorenstaande is afgestemd met de tandartsen op Bonaire en Sint Eustatius. Op
 
 **Grondslag: Artikel 9, artikel 20 (toekenning bijzondere onderstand) in combinatie met artikel 12, eerste lid, (op basis van individuele beoordeling afstemmen van de onderstand op de omstandigheden, mogelijkheden en middelen van de belanghebbende).**
 
-#### Artikel 26. Overige vergoedingen in bijzondere gevallen
+##### Artikel 26. Overige vergoedingen in bijzondere gevallen
 
 Niet alle situaties kunnen op voorhand met deze beleidsregels worden afgedekt. In bijzondere gevallen kan bijzondere onderstand worden verleend voor andere kostenposten dan de hiervoor genoemde.
 
@@ -476,13 +502,13 @@ Niet alle situaties kunnen op voorhand met deze beleidsregels worden afgedekt. I
 
 ### Hoofdstuk 7. Maatregelen en terugvordering
 
-#### Artikel 27. Hersteltermijn bij onvoldoende medewerking belanghebbende
+##### Artikel 27. Hersteltermijn bij onvoldoende medewerking belanghebbende
 
 In geval van verwijtbaar niet of onvolledig verstrekken van relevante gegevens of gevorderde bewijsstukken, dan wel anderszins onvoldoende verlenen van medewerking binnen de gestelde termijn, ontvangt de belanghebbende een brief van de Minister met daarin opgenomen een hersteltermijn van 14 dagen. Wordt deze termijn overschreden, dan wordt een maatregel opgelegd of wordt de uitkering beëindigd (dit kan zelfs met terugwerkende kracht).
 
 **Grondslag: Artikel 30 Besluit onderstand BES (onjuiste gegevens en onvoldoende medewerking).**
 
-#### Artikel 28. Algemeen terugvorderingsbeleid
+##### Artikel 28. Algemeen terugvorderingsbeleid
 
 Te veel of ten onrechte betaalde onderstand wordt in beginsel teruggevorderd. Er wordt in elk geval teruggevorderd indien de verleende onderstand evident gebaseerd is op onjuiste informatie van de belanghebbende, of als anderszins sprake is van verwijtbaarheid. Voorbeeldsituaties zijn het niet of niet tijdig hebben gemeld van overlijden, het verzwijgen van inkomsten, of het na uitnodiging door niet komen opdagen voor een herbeoordelingsgesprek. Er wordt ook teruggevorderd als het de belanghebbende zonder meer duidelijk had kunnen zijn dat hij geen recht had op onderstand of op het bedrag dat hij heeft ontvangen (bijvoorbeeld als er per abuis een dubbele betaling is gedaan).
 
@@ -494,7 +520,7 @@ Het besluit om wel of niet in te vorderen wordt de belanghebbende schriftelijk m
 
 **Grondslag: Artikel 33 Besluit onderstand BES (bevoegdheid terugvordering).**
 
-#### Artikel 29. Drempelbedrag
+##### Artikel 29. Drempelbedrag
 
 De Minister kan bij een terug te vorderen bedrag tot $ 50 (per vordering, niet op jaarbasis) besluiten van invordering af te zien. Deze beslissing geschiedt op basis van een individuele beoordeling en onder de volgende condities:
 
@@ -510,7 +536,7 @@ De Minister kan bij een terug te vorderen bedrag tot $ 50 (per vordering, niet o
 
 ### Hoofdstuk 8. Afwijking met het oog op onredelijke gevolgen
 
-#### Artikel 30. Bijzondere gevallen
+##### Artikel 30. Bijzondere gevallen
 
 In bijzondere gevallen kan – ten gunste van de aanvrager – worden afgeweken van de bepalingen van de beleidsregels voor onderstandsverlening hierboven, indien toepassing van deze beleidsregels leidt tot bijzonder onredelijke gevolgen.
 
@@ -518,15 +544,15 @@ In bijzondere gevallen kan – ten gunste van de aanvrager – worden afgeweken 
 
 ### Hoofdstuk 8. Afwijking met het oog op onredelijke gevolgen
 
-#### Artikel 31. Intrekking beleidsregels 2017
+##### Artikel 31. Intrekking beleidsregels 2017
 
 De [Beleidsregels toepassing Besluit onderstand BES 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039714) wordt ingetrokken.
 
-#### Artikel 32. Inwerkingtreding
+##### Artikel 32. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 33. Citeertitel
+##### Artikel 33. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels toepassing Besluit onderstand BES 2019.
 
@@ -572,7 +598,7 @@ De medewerker legt vast in het dossier hoe de beoordeling (bevindingen en gemaak
 
 Deze beleidsregels zullen met de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 7a. Vrijlatingsregeling uitkering Wet schadefonds geweldsmisdrijven
+##### Artikel 7a. Vrijlatingsregeling uitkering Wet schadefonds geweldsmisdrijven
 
 Niet tot de middelen van belanghebbende wordt gerekend een uitkering op grond van de [Wet schadefonds geweldsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002979), tenzij dit uit oogpunt van verlening van onderstand niet verantwoord is te achten.
 
@@ -604,7 +630,7 @@ De medewerker legt vast in het dossier hoe de beoordeling (bevindingen en gemaak
 
 Deze beleidsregels zullen met de bijlage in de Staatscourant worden geplaatst.
 
-#### Artikel 6. Vrijlatingsregeling vergoedingen medische uitzending
+##### Artikel 6. Vrijlatingsregeling vergoedingen medische uitzending
 
 Niet tot de middelen van belanghebbende wordt gerekend een vergoeding met betrekking tot een medische uitzending op grond van [artikel 1.13.4 van de Regeling aanspraken zorgverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029442&artikel=1.13.4) aan een verzekerde op grond van die regeling of diens eventuele begeleider, tenzij vrijlating van deze vergoeding uit oogpunt van verlening van onderstand niet verantwoord is te achten.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitvoering Wet arbeid vreemdelingen BES"
+title: "Besluit van 26 augustus 2010 tot uitvoering van de Wet arbeid vreemdelingen BES (Besluit uitvoering Wet arbeid vreemdelingen BES)"
 identifier: "BWBR0028231"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028231"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028231"
+soort: "AMvB-BES"
+stam_id: "10713373"
+version_id: "17678422"
+internal_id: "C25142241"
+label_id: "10688204"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028231/2024-01-01/0"
+intitule_bron: "Stb.2010-371"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-26"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-371"
+original_signed_date: "2010-08-26"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-371"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028231&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0028231&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoering Wet arbeid vreemdelingen BES"
+signed_date: "2010-08-26"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit van 26 augustus 2010 tot uitvoering van de Wet arbeid vreemdelingen BES (Besluit uitvoering Wet arbeid vreemdelingen BES)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 25 juni 2010, Directie Arbeidsverhoudingen, nr. AV/SDA/2010/11893, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanvraag tewerkstellingsvergunning
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om een tewerkstellingsvergunning wordt ingediend bij Onze Minister van Sociale Zaken en Werkgelegenheid.
 
 2. De aanvrager ontvangt binnen twee weken een schriftelijk bewijs dat hij de aanvraag heeft ingediend, onder vermelding van de datum van ontvangst.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij een aanvraag om een tewerkstellingsvergunning verstrekt de werkgever de volgende gegevens:
 
@@ -56,7 +82,7 @@ Bij een aanvraag om een tewerkstellingsvergunning verstrekt de werkgever de volg
 
 - f. de motivering van de noodzaak voor het aantrekken van de vreemdeling ter vervulling van de arbeidsplaats evenals de inspanningen die zijn verricht om uit de lokale arbeidsmarkt voor vervulling daarvan zorg te dragen.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij een aanvraag om een tewerkstellingsvergunning worden de volgende bewijsstukken overgelegd:
 
@@ -80,7 +106,7 @@ Bij een aanvraag om een tewerkstellingsvergunning worden de volgende bewijsstukk
 
 - j. een verklaring van de Belastingdienst waaruit blijkt dat de werkgever belasting afdraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) verstrekt de werkgever de volgende gegevens of legt hij de volgende bewijsstukken over in geval de vreemdeling arbeid zal verrichten:
 
@@ -90,7 +116,7 @@ Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&pa
 
 - c. in de huishouding: bewijsstukken waaruit blijkt dat de werkgever in staat is het salaris, bedoeld in [artikel 10, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=5&artikel=10&z=2024-01-01&g=2024-01-01), te voldoen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd de overige vereisten voor het verkrijgen van een tewerkstellingsvergunning, wordt deze voor het verrichten van arbeid door inwonend huishoudelijk personeel slechts verleend, indien de arbeid wordt verricht ten behoeve van:
 
@@ -110,7 +136,7 @@ Onverminderd de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&pa
 
 #### § 3. Functies en personen waarvoor geen tewerkstellingsvergunning is vereist
 
-#### Artikel 7
+##### Artikel 7
 
 Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van de wet is niet van toepassing met betrekking tot de huwelijkspartner of de niet-huwelijkspartner die duurzaam samenleeft met:
 
@@ -120,7 +146,7 @@ Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3
 
 - c. een persoon die tijdens verblijf in een openbaar lichaam de Nederlandse nationaliteit heeft verkregen door optie of naturalisatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=2&z=2024-01-01&g=2024-01-01), van de wet is niet van toepassing met betrekking tot de vreemdeling:
 
@@ -150,13 +176,13 @@ Het verbod, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3
 
 #### § 4. Voorschriften
 
-#### Artikel 9
+##### Artikel 9
 
 Aan een tewerkstellingsvergunning kan het voorschrift worden verbonden dat de werkgever bijdraagt aan de opleiding en training van een lokale arbeidskracht voor de functie waarvoor de werkgever een tewerkstellingsvergunning heeft ontvangen.
 
 #### § 5. Aanvullende weigeringsgronden
 
-#### Artikel 10
+##### Artikel 10
 
 Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) van de wet wordt een tewerkstellingsvergunning geweigerd indien:
 
@@ -174,7 +200,7 @@ Onverminderd [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragra
 
 - 3°. aan wie verlenging van de verblijfsvergunning is geweigerd.
 
-#### Artikel 11
+##### Artikel 11
 
 Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) van de wet kan een tewerkstellingsvergunning worden geweigerd indien:
 
@@ -188,19 +214,19 @@ Onverminderd [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragra
 
 #### § 6. Bijzondere categorieën
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Een tewerkstellingsvergunning wordt geweigerd voor werkzaamheden geheel of ten dele bestaande uit het verrichten van seksuele handelingen met derden of voor derden.
 
-#### Artikel 14
+##### Artikel 14
 
 Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdienstige of levensbeschouwelijke functie uitoefent, waarvoor een specifieke opleiding, of specifieke kennis of ervaring vereist is en die van wezenlijk belang is voor de eredienst of het functioneren van een kerkgenootschap of een ander genootschap op geestelijke of levensbeschouwelijke grondslag, kan zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=5), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=8) worden verleend.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Een tewerkstellingsvergunning voor de vreemdeling die arbeid verricht die noodzakelijk is ter voltooiing van zijn opleiding, kan voor maximaal een jaar worden verleend, zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=5), en [artikel 8, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=8).
 
@@ -222,7 +248,7 @@ Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdien
 
 4. In afwijking van [artikel 10, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=5&artikel=10&z=2024-01-01&g=2024-01-01), dient de werkgever aan de vreemdeling een stagevergoeding te betalen van minimaal 50% van het bruto minimumloon, genoemd in [artikel 9 van de Wet minimumlonen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&artikel=9), na aftrek van de daarop in te houden loonheffing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een tewerkstellingsvergunning voor de vreemdeling die, in het bezit van een vakgerichte basisopleiding, werkervaring komt opdoen, die van belang is voor zijn functioneren in het herkomstland, kan voor maximaal 24 weken in een periode van een jaar worden verleend, zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01) en [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), van de wet.
 
@@ -240,7 +266,7 @@ Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdien
 
 - b. indien het personeelsbestand bestaat uit tien of meer personen: maximaal 10% van het totale personeelsbestand, waarbij voor deze berekening het personeelsbestand naar beneden wordt afgerond op het dichtstbijzijnde hele tiental personeelsleden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een tewerkstellingsvergunning voor het verrichten van arbeid van bijkomende aard voor een vreemdeling die op grond van de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571) beschikt over een verblijfsvergunning voor bepaalde tijd voor studie kan voor maximaal een jaar worden verleend, zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), en [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), van de wet.
 
@@ -250,11 +276,11 @@ Een tewerkstellingsvergunning voor een vreemdeling die een geestelijke, godsdien
 
 4. Een tewerkstellingsvergunning als bedoeld in het eerste lid wordt niet verlengd.
 
-#### Artikel 18
+##### Artikel 18
 
 Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstrekte tewerkstellingsvergunning onvrijwillig werkloos wordt en die van rechtswege of bij vergunning is toegelaten op grond van de [Wet toelating en uitzetting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028571), kan worden afgeweken van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01), indien hij als werkzoekende staat ingeschreven bij de arbeidsbemiddelingsorganisatie van het openbaar lichaam, voor zover de werkgever de aanvraag voor een nieuwe tewerkstellingsvergunning heeft ingediend binnen 6 weken nadat de vreemdeling onvrijwillig werkloos is geworden en voor zover de duur van de nieuw aangevraagde tewerkstellingsvergunning niet langer is dan de resterende termijn gedurende welke de vreemdeling van rechtswege of bij vergunning verleend, is toegelaten op grond van de Wet toelating en uitzetting BES.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een tewerkstellingsvergunning voor de vreemdeling die een aanvraag heeft ingediend tot het verlenen van een verblijfsvergunning voor bepaalde tijd onder een beperking verband houdend met internationale bescherming kan worden verleend zonder toepassing van [artikel 5, vijfde lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01) en [artikel 8, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028231&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), van de wet, zolang op de aanvraag voor een verblijfsvergunning nog niet onherroepelijk is beslist en de vreemdeling deze beslissing in de openbare lichamen mag afwachten op grond van een beslissing van Onze Minister van Justitie dan wel op grond van een rechterlijke beslissing.
 
@@ -266,17 +292,17 @@ Ten aanzien van de vreemdeling die gedurende de looptijd van een voor hem verstr
 
 #### § 7. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit wordt aangehaald als: Besluit uitvoering Wet arbeid vreemdelingen BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Het verbod, bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028437&artikel=2) is niet van toepassing in het openbaar lichaam Saba met betrekking tot de vreemdeling die onderwijs geeft op een instelling als bedoeld in [artikel 1, onderdeel g, van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
 

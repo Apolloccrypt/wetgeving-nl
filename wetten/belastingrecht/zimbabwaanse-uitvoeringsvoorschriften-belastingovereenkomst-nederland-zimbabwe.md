@@ -1,13 +1,37 @@
 ---
 title: "Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe"
 identifier: "BWBR0005064"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-06-01
-laatste_update: 1991-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005064"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-06-01"
+last_updated: "1991-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005064"
+soort: "ministeriele-regeling"
+stam_id: "3799153"
+version_id: "5581912"
+internal_id: "C5775001"
+label_id: "3778794"
+dtd_version: "2.0"
+original_entry_into_force: "1991-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005064/1991-06-01/0"
+intitule_bron: "Stcrt.1991-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-04-25"
+intitule_published: "1991-04-25"
+intitule_in_force: "1991-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-80"
+original_signed_date: "1991-04-25"
+original_published_date: "1991-04-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-06-01"
+jci_1_3: "jci1.3:c:BWBR0005064&z=1991-06-01&g=1991-06-01"
+jci_1_0: "1.0:c:BWBR0005064&g=1991-06-01"
+citeertitel_status: "officieel"
+signed_date: "1991-04-25"
+entry_into_force: "1991-06-01"
 ---
-
 # Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe
 
 Besluit:
@@ -16,7 +40,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Zimbabwaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 18 mei 1989 tussen Nederland en Zimbabwe gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar vermogenswinsten (Trb. 1989, nr. 95 en 119), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -34,7 +58,7 @@ Aan de op 18 mei 1989 tussen Nederland en Zimbabwe gesloten Overeenkomst tot het
 
 De in de onderdelen a, b, e en f van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in Zimbabwe een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Zimbabwe zelfstandig arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het contract op grond waarvan de royalty's worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vijfde lid, respectievelijk artikel 11, zevende lid, en artikel 12, vijfde lid).
 
-#### Artikel 2. Zimbabwaanse regeling
+##### Artikel 2. Zimbabwaanse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005064&artikel=1&z=1991-06-01&g=1991-06-01) is van Zimbabwaanse zijde de volgende regeling getroffen:
 
@@ -56,7 +80,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005064&a
 
 - 3. Termijn van indiening Verzoeken om teruggaaf van Zimbabwaanse belasting geheven van dividenden, interest en royalty's moeten worden ingediend binnen een tijdvak van drie jaren nadat de belasting is geheven (onderdeel (II) van het Protocol).
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Zimbabwaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zimbabwe.
 

@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake technische en financiële samenwerking tussen het Koninkrijk der Nederlanden en Georgië"
 identifier: "BWBV0001419"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-04-05
-laatste_update: 2000-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001419"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-04-05"
+last_updated: "2000-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001419"
+soort: "verdrag"
+stam_id: "10000564883"
+version_id: "10000582972"
+internal_id: "C10006991811"
+label_id: "10000565084"
+original_entry_into_force: "2000-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001419/2000-04-05/0"
+intitule_bron: "Trb.1999-124"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-15"
+intitule_published: "1999-07-16"
+intitule_in_force: "2000-10-30"
+intitule_status: "goed"
+original_publication: "Trb.1999-124"
+original_signed_date: "1999-11-15"
+original_published_date: "1999-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-124"
+entry_into_force_date: "2000-04-05"
+jci_1_3: "jci1.3:c:BWBV0001419&z=2000-04-05&g=2000-04-05"
+jci_1_0: "1.0:c:BWBV0001419&g=2000-04-05"
+citeertitel_status: "officieel"
+signed_date: "1999-11-15"
+entry_into_force: "2000-04-05"
 ---
-
 # Verdrag inzake technische en financiële samenwerking tussen het Koninkrijk der Nederlanden en Georgië
 
 De Regering van het Koninkrijk der Nederlanden en de Bevoegde Autoriteit van Georgië (hierna te noemen „de Partijen"
@@ -22,7 +46,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 1. Dit Verdrag is van toepassing op projecten en programma's die zijn overeengekomen tussen de bevoegde Nederlandse en Georgische autoriteiten.
 
@@ -30,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 3. Beide Partijen komen jaarlijks een lijst van projecten en programma's overeen die vallen onder de werkingssfeer van dit artikel.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,11 +80,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. PROJECTEN EN PROGRAMMA'S
 
-#### Artikel 3. Algemeen
+##### Artikel 3. Algemeen
 
 Vertegenwoordigers van het Koninkrijk der Nederlanden worden in de gelegenheid gesteld zich ter plaatse op de hoogte te stellen van de voortgang van de projecten en programma's en projecten en programma's te evalueren.
 
-#### Artikel 4. Middelen
+##### Artikel 4. Middelen
 
 1. Georgië verbindt zich ertoe met betrekking tot de middelen:
 
@@ -78,13 +102,13 @@ Het Koninkrijk der Nederlanden stelt Georgië tijdig in kennis van de plaats waa
 
 ### HOOFDSTUK III. PERSONEELSLEDEN
 
-#### Artikel 5. Administratieve procedures
+##### Artikel 5. Administratieve procedures
 
 Het Koninkrijk der Nederlanden doet Georgië schriftelijk mededeling omtrent de personeelsleden die het Koninkrijk der Nederlanden zich voorstelt voor het onderhavige project of programma te werk te stellen.
 
 Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee of het de voorgestelde personeelsleden aanvaardt. Verstrijken van deze periode impliceert aanvaarding.
 
-#### Artikel 6. Voorrechten
+##### Artikel 6. Voorrechten
 
 1. Georgië:
 
@@ -110,7 +134,7 @@ Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee 
 
 2. Georgië verzekert dat de personeelsleden en hun gezinsleden op niet minder gunstige wijze worden behandeld dan vergelijkbare personeelsleden en hun gezinsleden van andere Staten of organisaties.
 
-#### Artikel 7. Immuniteiten en vorderingen
+##### Artikel 7. Immuniteiten en vorderingen
 
 1. Georgië vrijwaart de personeelsleden tegen rechtsvervolging met betrekking tot enig handelen of nalaten of enig gesproken of geschreven woord in hun officiële hoedanigheid.
 
@@ -118,7 +142,7 @@ Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee 
 
 3. Ingeval Georgië het Koninkrijk der Nederlanden en de personeelsleden vrijwaart tegen een vordering of gerechtelijke stappen ter zake van buiten-contractuele civielrechtelijke aansprakelijkheid in overeenstemming met het tweede lid van dit artikel, mag Georgië alle rechten doen gelden die het Koninkrijk der Nederlanden of de personeelsleden kunnen doen gelden.
 
-#### Artikel 8. Functioneren van de personeelsleden
+##### Artikel 8. Functioneren van de personeelsleden
 
 1. Georgië heeft het recht, na overleg met het Koninkrijk der Nederlanden, te verzoeken om terugroeping van personeelsleden, indien hun gedrag onbevredigend wordt geacht. Het Koninkrijk der Nederlanden heeft, na overleg met Georgië, te allen tijde het recht personeelsleden terug te roepen. In geval van terugroeping, stelt het Koninkrijk der Nederlanden alles in het werk om een geschikte vervanger te vinden voor het teruggeroepen personeelslid.
 
@@ -126,7 +150,7 @@ Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee 
 
 3. De personeelsleden eerbiedigen de wetten en voorschriften die van kracht zijn in Georgië.
 
-#### Artikel 9. Arrestatie, detentie
+##### Artikel 9. Arrestatie, detentie
 
 1. Onverminderd de rechten en plichten van het Koninkrijk der Nederlanden en Georgië op grond van internationale verdragen inzake consulaire betrekkingen, stelt Georgië het Koninkrijk der Nederlanden er onverwijld van in kennis indien een personeelslid of een gezinslid wordt gearresteerd, in hechtenis of in voorlopige hechtenis wordt genomen, of op andere wijze in bewaring wordt gesteld. Georgië doet alle berichten aan het Koninkrijk der Nederlanden van personeelsleden en hun gezinsleden in het geval van arrestatie, hechtenis, voorlopige hechtenis of inbewaringstelling onverwijld toekomen aan het Koninkrijk der Nederlanden.
 
@@ -134,13 +158,13 @@ Georgië deelt het Koninkrijk der Nederlanden binnen een maand schriftelijk mee 
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 10. Beslechting van geschillen
+##### Artikel 10. Beslechting van geschillen
 
 1. Geschillen tussen het Koninkrijk der Nederlanden en Georgië betreffende de uitlegging of toepassing van het Verdrag worden beslecht door middel van onderhandelingen of op andere door Georgië en het Koninkrijk der Nederlanden overeengekomen vreedzame wijze.
 
 2. Indien het geschil niet kan worden beslecht met behulp van de middelen bedoeld in het eerste lid, kan het op verzoek van het Koninkrijk der Nederlanden of Georgië voor definitieve en bindende arbitrage worden voorgelegd overeenkomstig de „Optional Rules for Arbitrating Disputes Between Two States" van het Permanente Hof van Arbitrage die van kracht zijn op de datum van voorlegging van het geschil aan het Hof. Het aantal scheidsmannen is drie.
 
-#### Artikel 11. Inwerkingtreding, beëindiging, territoriaal werkingsgebied
+##### Artikel 11. Inwerkingtreding, beëindiging, territoriaal werkingsgebied
 
 1. Dit Verdrag treedt in werking op de datum van ontvangst van de laatste schriftelijke kennisgeving waarmee de Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat aan de grondwettelijke of andere wettelijke vereisten voor de inwerkingtreding is voldaan.
 

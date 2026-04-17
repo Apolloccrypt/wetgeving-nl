@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2026"
 identifier: "BWBR0051365"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2026-01-03
-laatste_update: 2026-01-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051365"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-03"
+last_updated: "2026-01-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051365"
+soort: "zbo"
+stam_id: "17500413"
+version_id: "30864092"
+internal_id: "C44227551"
+label_id: "17402814"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051365/2026-01-03/0"
+intitule_bron: "Stcrt.2025-26296"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-04"
+intitule_in_force: "2025-08-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26296"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26296"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051365&z=2026-01-03&g=2026-01-03"
+jci_1_0: "1.0:c:BWBR0051365&g=2026-01-03"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2026
 
 Gelet op [artikel 57, eerste lid, onderdeel e, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid tot het toekennen van een beschikbaarheidbijdrage als bedoeld in [artikel 56a van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a).
@@ -16,7 +41,7 @@ Op grond van [artikel 56a, tweede lid, onder a](https://wetten.overheid.nl/jci1.
 
 Op de beschikbaarheidbijdrage zijn [titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) (‘subsidies’) en [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.4) (‘bestuursrechtelijke geldschulden’) van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb) en het [Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971) van toepassing. De beschikbaarheidbijdrage wordt beschikbaar gesteld uit het Zorgverzekeringsfonds (Zvf) en het Fonds langdurige zorg (Flz).
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -232,15 +257,15 @@ Beschikking met de aan de individuele zorgaanbieder door de NZa toegekende instr
 
 Onderwijs- en Opleidingsregio waarin universitaire medische centra samenwerken in een regionaal opleidingsnetwerk.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze zorgaanbieders in aanmerking kunnen komen voor een beschikbaarheidbijdrage voor de bekostiging van (medische) vervolgopleidingen en op welke wijze de NZa gebruik maakt van haar bevoegdheden om deze beschikbaarheidbijdrage toe te kennen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op het door een zorgaanbieder beschikbaar hebben van (medische) vervolgopleidingen als bedoeld in [artikel 2 van het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel B, onder 1, sub a, b en c van de bijlage](onbekend).
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 De NZa verstrekt de beschikbaarheidbijdrage aan opleidende zorgaanbieders ter vergoeding van de kosten die de zorgaanbieder daadwerkelijk maakt voor het verzorgen van (medische) vervolgopleidingen, als bedoeld in [artikel 2 van het Besluit beschikbaarheidbijdrage WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto [onderdeel B, onder 1, sub a, b en c van de bijlage](onbekend).
 
@@ -341,7 +366,7 @@ Een (medisch) specialist of medisch beroepsbeoefenaar in dienst van het Minister
 
 De vastgestelde beschikbaarheidbijdrage wordt verrekend met de bevoorschotting. Wanneer de definitieve beschikbaarheidbijdrage hoger uitvalt dan de bevoorschotting, bepaalt de NZa in de vaststellingsbeschikking dat het openstaande bedrag door Zorginstituut Nederland wordt voldaan aan de opleidende zorgaanbieder. Wanneer de definitieve beschikbaarheidbijdrage lager uitvalt dan de bevoorschotting, bepaalt de NZa in de vaststellingsbeschikking dat de opleidende zorgaanbieder het terug te betalen bedrag dient te voldoen aan Zorginstituut Nederland.
 
-#### Artikel 5. Verlening
+##### Artikel 5. Verlening
 
 De NZa kan op aanvraag een beschikbaarheidbijdrage verstrekken voor het bekostigen van (medische) vervolgopleidingen. De opleidende zorgaanbieder dient vóór 1 oktober van jaar t-1 de aanvraag voor de verlening van de beschikbaarheidbijdrage in bij de NZa voor instroom, doorstroom en ziekenhuisopleidingen.
 
@@ -351,7 +376,7 @@ In afwijking van de beleidsregel Uniform Kader beschikbaarheidbijdrage neemt de 
 
 Aanvragen die na 31 december van jaar t worden ingediend, neemt de NZa niet in behandeling.
 
-#### Artikel 6. Berekening verlening beschikbaarheidbijdrage – vervolgopleidingen tot (medisch) specialist
+##### Artikel 6. Berekening verlening beschikbaarheidbijdrage – vervolgopleidingen tot (medisch) specialist
 
 Bij het verdelen van de instroomplaatsen over individuele zorgaanbieders houdt de NZa zich aan de maximale instroomaantallen, fte en criteria zoals opgenomen in de aanwijzing van de Minister van VWS van 10 december 2025 met kenmerk 4315913-1091949-PZo. Hierbij betrekt de NZa de toewijzingsvoorstellen van TOP Opleidingsplaatsen en Stichting BOLS. Voor de opleidingen tot huisarts, specialist ouderengeneeskunde, arts voor verstandelijk gehandicapten en verslavingsarts baseert de NZa zich op de instroomaantallen in voornoemde aanwijzing. Vervolgens kent de NZa deze instroomplaatsen toe aan de individuele zorgaanbieders.
 
@@ -367,7 +392,7 @@ De door de NZa vastgestelde vergoedingsbedragen staan in [Bijlage 1](https://wet
 
 De NZa indexeert deze vergoedingsbedragen jaarlijks met de door VWS aangegeven percentages.
 
-#### Artikel 7. Berekening verlening beschikbaarheidbijdrage – ziekenhuisopleidingen
+##### Artikel 7. Berekening verlening beschikbaarheidbijdrage – ziekenhuisopleidingen
 
 De NZa toetst of de aanvragende zorgaanbieder in de opleidingsopgave van het CZO van oktober jaar t-2 tot en met september jaar t-1 voorkomt.
 
@@ -375,7 +400,7 @@ De NZa verleent op aanvraag een beschikbaarheidbijdrage voor EPA’s en EOL waar
 
 De beschikbaarheidbijdrage waar een zorgaanbieder recht op heeft, wordt berekend aan de hand van de vergoedingsbedragen die de NZa heeft vastgesteld door middel van een rondrekening van de door de Minister vastgestelde vergoedingsbedragen. De vergoedingsbedragen per EPA en/of EOL staan opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051365&bijlage=2&z=2026-01-03&g=2026-01-03).
 
-#### Artikel 8. Bevoorschotting
+##### Artikel 8. Bevoorschotting
 
 De op grond van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0051365&artikel=6&z=2026-01-03&g=2026-01-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0051365&artikel=7&z=2026-01-03&g=2026-01-03) van deze beleidsregel totaal verleende beschikbaarheidbijdrage wordt voor 85% bevoorschot aan de opleidende zorgaanbieder die haar aanvraag voor 1 oktober van jaar t-1 heeft ingediend. Dit in afwijking van het ‘Uniform kader beschikbaarheidbijdrage NZa’.
 
@@ -383,7 +408,7 @@ De bevoorschotting vindt in 10 termijnen plaats met de volgende verdeling: janua
 
 De feitelijke uitbetaling van de voorschotten gebeurt door Zorginstituut Nederland (ZINL).
 
-#### Artikel 9. Vaststelling
+##### Artikel 9. Vaststelling
 
 De opleidende zorgaanbieder moet vóór 1 juni van jaar t+1 de vaststelling van de beschikbaarheidbijdrage bij de NZa aanvragen.
 
@@ -403,7 +428,7 @@ De beschikbaarheidbijdrage kan lager worden vastgesteld als:
 
 De NZa kan gegevens van de registratiecommissies raadplegen voor de eigen controle van de aanvragen voor vaststelling van de beschikbaarheidbijdrage. Voor de opleidingen genoemd in [artikel 1.2 sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0051365&artikel=1&z=2026-01-03&g=2026-01-03) geldt dat de NZa de opleidingsoverzichten van de CRT van de FGzPt kan raadplegen. De NZa kan op basis van deze gegevens van de registratiecommissies de beschikking aanpassen.
 
-#### Artikel 10. Berekening vaststelling beschikbaarheidbijdrage – vervolgopleidingen tot (medisch) specialist
+##### Artikel 10. Berekening vaststelling beschikbaarheidbijdrage – vervolgopleidingen tot (medisch) specialist
 
 De hoogte van de gerealiseerde fte’s voor de vervolgopleiding tot (medisch) specialist wordt door de NZa vastgesteld, waarbij:
 
@@ -475,7 +500,7 @@ De hoogte van de beschikbaarheidbijdrage wordt vastgesteld, waarbij:
 
 - ○. schriftelijke afspraken met de Belastingdienst over de btw.
 
-#### Artikel 11. Berekening vaststelling beschikbaarheidbijdrage – ziekenhuisopleidingen
+##### Artikel 11. Berekening vaststelling beschikbaarheidbijdrage – ziekenhuisopleidingen
 
 - a. De hoogte van de beschikbaarheidbijdrage voor de ziekenhuisopleidingen wordt vastgesteld door:
 
@@ -497,15 +522,15 @@ Voor een opleideling kan maar één keer beschikbaarheidbijdrage worden ontvange
 
 De uitzondering zoals in artikel 11.1 b is omschreven is hier van overeenkomstige toepassing.
 
-#### Artikel 12. Intrekken oude beleidsregel
+##### Artikel 12. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050283), met kenmerk BR/REG-25139, ingetrokken.
 
-#### Artikel 13. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 13. Toepasselijkheid voorafgaande beleidsregel
 
 De [Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050283), met kenmerk BR/REG-25139, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
@@ -513,7 +538,7 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel beschikbaarheidbijdrage (medische) vervolgopleidingen 2026.
 

@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting en inkomstenbelasting, lijfrenten in de winstsfeer, verzamelbesluit"
 identifier: "BWBR0046229"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-02-06
-laatste_update: 2025-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046229"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-06"
+last_updated: "2025-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046229"
+soort: "beleidsregel"
+stam_id: "16244283"
+version_id: "28365172"
+internal_id: "C40004371"
+label_id: "16172464"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046229/2025-02-06/0"
+intitule_bron: "Stcrt.2022-690"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-17"
+intitule_published: "2022-01-25"
+intitule_in_force: "2022-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-690"
+original_signed_date: "2021-12-17"
+original_published_date: "2022-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-690"
+entry_into_force_date: "2022-01-26"
+jci_1_3: "jci1.3:c:BWBR0046229&z=2025-02-06&g=2025-02-06"
+jci_1_0: "1.0:c:BWBR0046229&g=2025-02-06"
+citeertitel_status: "redactioneel"
+signed_date: "2021-12-17"
+entry_into_force: "2022-01-26"
 ---
-
 # Vennootschapsbelasting en inkomstenbelasting, lijfrenten in de winstsfeer, verzamelbesluit
 
 **De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst heeft het volgende besloten.**

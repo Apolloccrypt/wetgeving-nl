@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de accommodatie aan boord van vissersschepen"
 identifier: "BWBV0004669"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-05-12
-laatste_update: 1977-05-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004669"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-05-12"
+last_updated: "1977-05-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004669"
+soort: "verdrag"
+stam_id: "10004252253"
+version_id: "10004440102"
+internal_id: "C10006985951"
+label_id: "10004237724"
+dtd_version: "2.0"
+original_entry_into_force: "1977-05-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004669/1977-05-12/0"
+intitule_bron: "Trb.1968-129"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1968-10-18"
+intitule_in_force: "1976-08-02"
+intitule_status: "goed"
+original_publication: "Trb.1968-129"
+original_published_date: "1968-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1968-129"
+entry_into_force_date: "1977-05-12"
+jci_1_3: "jci1.3:c:BWBV0004669&z=1977-05-12&g=1977-05-12"
+jci_1_0: "1.0:c:BWBV0004669&g=1977-05-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-05-12"
 ---
-
 # Verdrag betreffende de accommodatie aan boord van vissersschepen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,7 +44,7 @@ Neemt heden, de 21ste juni 1966, het volgende Verdrag aan, dat kan worden aangeh
 
 ## DEEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op alle mechanisch voortgestuwde zeeschepen van welke aard ook, hetzij openbaar, hetzij particulier eigendom, die de zeevisserij beoefenen, en die geregistreerd zijn in een grondgebied ten aanzien waarvan dit Verdrag van kracht is.
 
@@ -62,7 +84,7 @@ mits de sanitaire voorzieningen op zulke schepen afdoende zijn en er eet- en koo
 
 7. Van de bepalingen vervat in Deel III van dit Verdrag kan ten aanzien van elk schip worden afgeweken, indien de bevoegde autoriteit, na overleg met de organisaties van de reders en de vissers, zo die er zijn, ervan overtuigd is dat indien van bedoelde bepalingen wordt afgeweken, dit voordelen oplevert in die zin dat de omstandigheden in hun geheel daardoor niet minder gunstig worden dan die welke zich zouden voordoen, indien de bepalingen van dit Verdrag volledig zouden zijn toegepast; telkens wanneer aldus van de bedoelde bepalingen wordt afgeweken, dienen de bijzonderheden door het Lid ter kennis te worden gebracht van de Directeur-Generaal van het Internationaal Arbeidsbureau, die er de Leden van de Internationale Arbeidsorganisatie van in kennis stelt.
 
-#### Artikel 2
+##### Artikel 2
 
 In dit Verdrag
 
@@ -84,7 +106,7 @@ In dit Verdrag
 
 - (i). betekent de term „opnieuw ingeschreven”, opnieuw ingeschreven ter gelegenheid van een gelijktijdige verandering van vlag en van eigenaar van het vaartuig.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk Lid waarvoor dit Verdrag van kracht is neemt de verplichting op zich wetten of voorschriften te handhaven die de toepassing van de bepalingen van Deel II, III en IV van dit Verdrag waarborgen.
 
@@ -102,11 +124,11 @@ In dit Verdrag
 
 ## DEEL II. Ontwerpen van en controle op de verblijven van de bemanning
 
-#### Artikel 4
+##### Artikel 4
 
 Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens de verblijven van de bemanning van een bestaand vaartuig ingrijpend worden gewijzigd of opnieuw worden gebouwd, dienen tot in bijzonderheden uitgewerkte ontwerpen van en gegevens omtrent deze verblijven ter goedkeuring aan de bevoegde autoriteit te worden voorgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bevoegde autoriteit inspecteert het vissersschip en overtuigt zich ervan dat de verblijven van de bemanning voldoen aan de wettelijke eisen en aan de voorschriften, telkens wanneer:
 
@@ -120,7 +142,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 ## DEEL III. Eisen te stellen aan de bemanningsverblijven
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ligging, de constructie en de indeling van, alsmede de toegang tot de bemanningsverblijven ten opzichte van andere ruimten, dienen zodanig te zijn dat veiligheid, bescherming tegen weersinvloeden en tegen zeewater, isolering tegen hitte en koude, alsmede bescherming tegen overmatig lawaai of uitwaseming van andere ruimten voldoende worden gewaarborgd.
 
@@ -154,7 +176,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 16. Alles dient in het werk te worden gesteld om te voorkomen dat vliegen en andere insecten binnendringen in de verblijven van de bemanning.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De slaap- en dagverblijven dienen behoorlijk te worden geventileerd.
 
@@ -166,7 +188,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 5. De drijfkracht die nodig is voor de aandrijving van de luchtverversingstoestellen bedoeld in het derde en vierde lid van dit artikel, dient zo mogelijk, zolang de bemanning aan boord verblijft of werkt, en de omstandigheden dit nodig maken, beschikbaar te zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Er dient voor een doelmatige installatie voor verwarming van de bemanningsverblijven te worden gezorgd, die is aangepast aan de klimatologische omstandigheden.
 
@@ -178,7 +200,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 5. Radiatoren en andere verwarmingsapparaten dienen zodanig te worden opgesteld en, zo nodig, afgeschermd en van beveiligingsmiddelen voorzien, dat er voor de opvarenden geen brandgevaar of ander gevaar of ongerief ontstaat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Alle bemanningsverblijven dienen behoorlijk te zijn verlicht. De minimumnorm voor de hoeveelheid in dagverblijven doordringend daglicht is een zodanige dat iemand met een normaal gezichtsvermogen bij helder weer overal in het desbetreffende verblijf waar men zich vrij kan bewegen een gewone krant kan lezen. Indien het niet mogelijk is voldoende daglicht toe te laten, dient er voor kunstlicht te worden gezorgd dat aan de hierboven bedoelde minimumeis voldoet.
 
@@ -190,7 +212,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 5. Bovendien dient gedurende de gehele nacht in het nachtverblijf een blauwe lamp te branden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De slaapverblijven dienen midscheeps of in het achterschip te worden ondergebracht. In bijzondere gevallen, indien in verband met de afmetingen of het type van het schip of met het doel waarvoor het is gebouwd, de ligging elders onredelijk of onmogelijk zou zijn, kan de bevoegde autoriteit toestaan dat de nachtverblijven in het voorschip worden ondergebracht, doch onder geen beding vóór het aanvaringsschot.
 
@@ -268,7 +290,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 26. Indien mogelijk, dient de indeling van de kooien zodanig te zijn dat de wachten gescheiden worden gehouden en dat zij die overdag werken geen verblijf delen met hen die wachtdienst hebben.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op schepen met een bemanning van meer dan tien personen dient de messroom gescheiden te zijn van de slaapverblijven. Zo mogelijk, dient dit eveneens het geval te zijn op schepen met een kleinere bemanning. Indien dit evenwel niet mogelijk is, kan de messroom met het nachtverblijf in één ruimte worden ondergebracht.
 
@@ -286,7 +308,7 @@ Alvorens een aanvang wordt gemaakt met de bouw van een vissersschip, en alvorens
 
 8. Indien mogelijk, dienen de messrooms zodanig te zijn ingedeeld, gemeubileerd en ingericht dat zij als ontspanningsruimten kunnen worden gebruikt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op alle schepen dient voldoende sanitair, met inbegrip van wastafels en badkuipen en/of douches aanwezig te zijn.
 
@@ -328,21 +350,21 @@ met dien verstande dat indien het aantal personen in een afdeling een even veelv
 
 11. Gelegenheid voor het drogen van kledingstukken dient te worden geboden in een afdeling die niet grenst aan slaapruimten, messrooms en toiletten, daarnaast behoorlijk geventileerd en verwarmd kan worden en die is uitgerust met lijnen of andere middelen om kledingstukken aan op te hangen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien mogelijk, dient er een afzonderlijke, uit de buurt van de andere, gelegen hut beschikbaar te zijn voor een bemanningslid dat ziek of gewond is. Op schepen van 500 ton of meer dient er een ziekenboeg te zijn. Ingeval de bevoegde autoriteit, overeenkomstig het bepaalde in artikel 1, vierde lid, van dit Verdrag, beslist dat de lengte het criterium is voor de toepassing van dit Verdrag, dient er een ziekenboeg te zijn op schepen met een lengte van 150 voet (45,7 m) of meer.
 
 2. Op elk schip dat geen arts aan boord heeft dient een goedgekeurde medicijnkist met gemakkelijk te begrijpen instructies aanwezig te zijn. In dit verband laat de bevoegde autoriteit zich leiden door de „Aanbeveling betreffende de inhoud van de scheepsapotheek”, 1958 en de „Aanbeveling betreffende medisch advies per radio aan schepen op zee” 1958.
 
-#### Artikel 14
+##### Artikel 14
 
 Buiten de slaapverblijven, doch van daaruit gemakkelijk bereikbaar, dient er voldoende, behoorlijk geventileerde ruimte te zijn voor het ophangen van oliegoed.
 
-#### Artikel 15
+##### Artikel 15
 
 De bemanningsverblijven dienen schoon en in een goed bewoonbare staat te worden gehouden; er mogen geen goederen en scheepsbenodigdheden in worden opgeslagen, die niet tot de persoonlijke bezittingen van de opvarenden behoren.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Er dienen zich aan boord voldoende kooktoestellen te bevinden; zo mogelijk, dienen deze in een afzonderlijke kombuis te worden opgesteld.
 
@@ -358,7 +380,7 @@ De bemanningsverblijven dienen schoon en in een goed bewoonbare staat te worden 
 
 ## DEEL IV. Toepassing op bestaande schepen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Met inachtneming van de bepalingen vervat in het tweede, derde en vierde lid van dit artikel, is dit Verdrag van toepassing op schepen waarvan de kiel na de inwerkingtreding van het Verdrag voor het gebied van registratie wordt gelegd.
 
@@ -374,15 +396,15 @@ De bemanningsverblijven dienen schoon en in een goed bewoonbare staat te worden 
 
 ## DEEL V. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag laat onverlet elke wet, uitspraak, elk gebruik of elke overeenkomst waarbij reders van vissersschepen en vissers zijn betrokken, voor zover daaraan gunstiger voorwaarden zijn verbonden dan die welke in dit Verdrag zijn vervat.
 
-#### Artikel 19
+##### Artikel 19
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie, die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -390,27 +412,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag ten aanzien van ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elk Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaar te rekenen van de datum waarop dit Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze te registreren schriftelijke kennisgeving. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na verloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar onder de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau geeft aan alle Leden van de Internationale Arbeidsorganisatie kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie worden medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden der Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 23
+##### Artikel 23
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal der Verenigde Naties mededeling, ter registratie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden betreffende alle bekrachtigingen en opzeggingen, welke door hem overeenkomstig de voorgaande artikelen zijn geregistreerd.
 
-#### Artikel 24
+##### Artikel 24
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig oordeelt, brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -420,6 +442,6 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Het onderhavige Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 26
+##### Artikel 26
 
 De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk authentiek.

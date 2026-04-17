@@ -1,13 +1,38 @@
 ---
 title: "Reglement van de Koninklijke Bibliotheek 2024"
 identifier: "BWBR0050903"
-categorie: "Overig"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050903"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050903"
+soort: "zbo"
+stam_id: "17395223"
+version_id: "30668642"
+internal_id: "C43966831"
+label_id: "17298734"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050903/2025-04-01/0"
+intitule_bron: "Stcrt.2025-11003"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-26"
+intitule_published: "2025-03-31"
+intitule_in_force: "2025-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11003"
+original_signed_date: "2024-11-26"
+original_published_date: "2025-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11003"
+entry_into_force_date: "2025-04-01"
+jci_1_3: "jci1.3:c:BWBR0050903&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0050903&g=2025-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2024-11-26"
+entry_into_force: "2025-04-01"
 ---
-
 # Reglement van de Koninklijke Bibliotheek 2024
 
 ### Hoofdstuk 1. Inleidende bepalingen
@@ -226,7 +251,7 @@ Het bezwaarschrift wordt overeenkomstig [artikel 6:5 Awb](https://wetten.overhei
 
 ### Artikel 5. Herstellen verzuim
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -260,7 +285,7 @@ In dit reglement wordt verstaan onder:
 
 - o. **Wsob:** [Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878);
 
-#### Artikel 2.1. Taken en bevoegdheden
+##### Artikel 2.1. Taken en bevoegdheden
 
 1. De bevoegdheid tot regeling en bestuur van de Koninklijke Bibliotheek berust bij het Algemeen Bestuurscollege voor zover die bevoegdheid niet bij of krachtens de [WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682) aan de directeur-bibliothecaris is opgedragen. Het Algemeen Bestuurscollege oefent de taken en bevoegdheden uit die bij of krachtens de WHW, de [Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878) en de [Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) aan het instellingsbestuur zijn opgedragen, voor zover bij of krachtens [hoofdstuk 13 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=13) niet anders is bepaald. (Ontleend aan [art. 13.3, lid 1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
@@ -298,11 +323,11 @@ De Koninklijke Bibliotheek is als nationale bibliotheek werkzaam op het gebied v
 
 - l. het bevorderen van de internationale samenwerking op haar werkterrein.
 
-#### Artikel 2.2. Samenstelling
+##### Artikel 2.2. Samenstelling
 
 Het Algemeen Bestuurscollege bestaat uit een voorzitter, tevens lid, en ten hoogste vier andere leden. Het aantal leden wordt door Onze Minister bepaald. (Ontleend aan [art. 13.3, lid 2 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
-#### Artikel 2.3. Benoeming, schorsing en ontslag
+##### Artikel 2.3. Benoeming, schorsing en ontslag
 
 1. De leden van het Algemeen Bestuurscollege worden door Onze Minister benoemd, geschorst en ontslagen. De benoeming geschiedt voor een door Onze Minister te bepalen termijn. (Ontleend aan [art. 13.3, lid 3 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
@@ -310,7 +335,7 @@ Het Algemeen Bestuurscollege bestaat uit een voorzitter, tevens lid, en ten hoog
 
 3. Schorsing en ontslag vindt slechts plaats wegens ongeschiktheid of onbekwaamheid voor de vervulde functie dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. Ontslag vindt voorts plaats op eigen verzoek. (Ontleend aan [art. 12, lid 2 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=12)).
 
-#### Artikel 2.4. Nevenfuncties
+##### Artikel 2.4. Nevenfuncties
 
 1. Een lid van het Algemeen Bestuurscollege vervult geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin. (Ontleend aan [art. 13, lid 1 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13)).
 
@@ -318,7 +343,7 @@ Het Algemeen Bestuurscollege bestaat uit een voorzitter, tevens lid, en ten hoog
 
 3. Nevenfuncties van een lid van het Algemeen Bestuurscollege anders dan uit hoofde van zijn functie worden openbaar gemaakt. Openbaarmaking geschiedt door het ter inzage leggen van een opgave van deze nevenfuncties bij de Koninklijke Bibliotheek en bij Onze Minister. (Ontleend aan [art. 13, lid 3 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13)).
 
-#### Artikel 2.5. Bezoldiging
+##### Artikel 2.5. Bezoldiging
 
 1. Onze Minister kan aan een of meer leden van het Algemeen Bestuurscollege een bezoldiging of toelage toekennen. (Ontleend aan [art. 13.3, lid 5 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
@@ -326,15 +351,15 @@ Het Algemeen Bestuurscollege bestaat uit een voorzitter, tevens lid, en ten hoog
 
 3. In het jaarverslag wordt een geaccumuleerde opgave gedaan van het bedrag van de bezoldigingen of schadeloosstellingen, met inbegrip van de pensioenlasten en van andere uitkeringen, voor de gezamenlijke leden van het Algemeen Bestuurscollege (Ontleend aan [art. 14, lid 4 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14)).
 
-#### Artikel 2.6. Vertegenwoordiging
+##### Artikel 2.6. Vertegenwoordiging
 
 De voorzitter van het Algemeen Bestuurscollege vertegenwoordigt de Koninklijke Bibliotheek in en buiten rechte. (Ontleend aan [art. 13.3, lid 6 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.3)).
 
-#### Artikel 2.7. Vervanging van leden bij afwezigheid of ontstentenis
+##### Artikel 2.7. Vervanging van leden bij afwezigheid of ontstentenis
 
 De voorzitter wordt bij afwezigheid of ontstentenis vervangen door het langst zittende bestuurslid, dan wel bij eenzelfde aantal zittingsjaren van twee of meer langst zittende bestuursleden door de oudste van hen.
 
-#### Artikel 2.8. Begroting
+##### Artikel 2.8. Begroting
 
 1. Het Algemeen Bestuurscollege stelt jaarlijks, voorafgaand aan het desbetreffende begrotingsjaar, de begroting vast. Het besluit tot vaststelling van de begroting behoeft de goedkeuring van Onze Minister. Het Algemeen Bestuurscollege zendt jaarlijks voor 1 oktober aan Onze Minister de begroting voor het daaropvolgende jaar.(Ontleend aan [art. 26](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26) en aan [artikel 29, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29)).
 
@@ -350,7 +375,7 @@ De voorzitter wordt bij afwezigheid of ontstentenis vervangen door het langst zi
 
 7. Af- en overschrijving op de uitgaafposten van de begroting kunnen door het Algemeen Bestuurscollege geschieden in de gevallen, voorzien in de door het Algemeen Bestuurscollege ter zake vast te stellen regels. (Ontleend aan [art. 2.8, lid 5 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.8)).
 
-#### Artikel 2.9. Verslag
+##### Artikel 2.9. Verslag
 
 1. Het Algemeen Bestuurscollege dient jaarlijks voor 15 maart bij Onze Minister een verslag en jaarrekening in. Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister. (Ontleend aan [art. 18, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18) en [art. 34 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=34) en [art. 2.9, lid 6 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.9)).
 
@@ -362,27 +387,27 @@ De voorzitter wordt bij afwezigheid of ontstentenis vervangen door het langst zi
 
 5. In het jaarverslag doet de Koninklijke Bibliotheek verslag van hetgeen zij heeft gedaan teneinde de personen en instellingen die met de Koninklijke Bibliotheek in aanraking komen zorgvuldig te behandelen, zoals de zorgvuldige behandeling van bezwaarschriften en klachten die zijn ontvangen en de wijze waarop de [Regeling bezwarenprocedure KB](https://wetten.overheid.nl/jci1.3:c:BWBR0039456) en de Klachtregeling KB (Zie de [Bijlagen 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5A&z=2025-04-01&g=2025-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01) bij het Reglement van de Koninklijke Bibliotheek) worden toegepast. Daarnaast wordt in het jaarverslag vermeld welke voorzieningen zijn getroffen waardoor personen en instellingen die met de Koninklijke Bibliotheek in aanraking komen in de gelegenheid zijn voorstellen tot verbeteringen van werkwijzen en procedures te doen. (Ontleend aan [art. 19 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=19)).
 
-#### Artikel 2.10. Instellingsplan
+##### Artikel 2.10. Instellingsplan
 
 1. Het Algemeen Bestuurscollege stelt een instellingsplan vast uiterlijk vier jaar na het tijdstip van vaststelling van het vorige plan en zendt dit na vaststelling onverwijld aan Onze Minister. Het plan geeft een omschrijving van de inhoud en de specificatie van het voorgenomen beleid van de Koninklijke Bibliotheek voor die periode. Het Algemeen Bestuurscollege maakt het plan openbaar. (Ontleend aan [art. 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.2) en [2.2a van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=2.2a)).
 
 2. In een apart onderdeel van het instellingsplan wordt invulling gegeven aan de taken als bedoeld in [artikel 9 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9). Daarnaast wordt in een onderdeel van het instellingsplan, het beheerplan, specifiek ingegaan op de wijze waarop de Koninklijke Bibliotheek de landelijke digitale bibliotheek in stand houdt. (Ontleend aan [art. 19, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=19) en [art. 17, lid 2 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=17)).
 
-#### Artikel 2.11. Collectieplan en gezamenlijke catalogus
+##### Artikel 2.11. Collectieplan en gezamenlijke catalogus
 
 1. Het Algemeen Bestuurscollege stelt elke vier jaar een gezamenlijk collectieplan vast voor de deelnemers van het netwerk van openbare bibliotheekvoorzieningen als bedoeld in [artikel 7 Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=7). (Ontleend aan [art. 10, lid 1 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=10)).
 
 2. Ten behoeve van de gezamenlijke catalogus voor de landelijke digitale bibliotheek, stelt het Algemeen Bestuurscollege regels over het tijdstip en de wijze waarop gegevens over de collectie en de beschikbaarheid daarvan door lokale bibliotheken en provinciale ondersteuningsinstellingen worden verstrekt aan de Koninklijke Bibliotheek. (Ontleend aan [art. 11, lid 1 en lid 3 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=11)).
 
-#### Artikel 2.12. Toegang digitale werken
+##### Artikel 2.12. Toegang digitale werken
 
 Ten behoeve van het in stand houden van de landelijke digitale bibliotheek door de Koninklijke Bibliotheek stelt het Algemeen Bestuurscollege een reglement vast voor de toegang tot digitale werken. (Ontleend aan [art. 17, lid 1 onder c van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=17)).
 
-#### Artikel 2.13. Inkoop digitale werken
+##### Artikel 2.13. Inkoop digitale werken
 
 De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen van werken voor de landelijke digitale bibliotheek. De inkoop wordt uitsluitend verricht op voordracht van vertegenwoordigers van de lokale bibliotheken, welke is afgestemd op het bedrag dat Onze Minister jaarlijks aan de Koninklijke Bibliotheek ter beschikking stelt voor het inkopen van werken. (Ontleend aan [art. 18 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=18)).
 
-#### Artikel 2.14. Subsidieverstrekking
+##### Artikel 2.14. Subsidieverstrekking
 
 1. Ten behoeve van de taken bedoeld in [artikel 9 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=9) kan de Koninklijke Bibliotheek subsidie verstrekken. (Ontleend aan [art. 20, lid 1 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20)).
 
@@ -392,7 +417,7 @@ De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen 
 
 4. Het besluit tot vaststelling van een subsidiereglement of een wijziging daarvan treedt slechts in werking na goedkeuring door Onze Minister. (Ontleend aan [art. 20, lid 4 van de Wsob](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=20)).
 
-#### Artikel 2.15. Werkwijze
+##### Artikel 2.15. Werkwijze
 
 1. Het Algemeen Bestuurscollege vergadert zo dikwijls de voorzitter of twee leden dit wenselijk achten, doch tenminste vier keer per jaar.
 
@@ -406,7 +431,7 @@ De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen 
 
 ### Hoofdstuk 3. Directeur-bibliothecaris
 
-#### Artikel 3.1. Taken en bevoegdheden
+##### Artikel 3.1. Taken en bevoegdheden
 
 1. Binnen het kader van het door het Algemeen Bestuurscollege vastgestelde beleid berust de leiding van de Koninklijke Bibliotheek bij de directeur-bibliothecaris. (Ontleend aan [art. 13.5, lid 1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.5)).
 
@@ -420,7 +445,7 @@ De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen 
 
 ### Hoofdstuk 4. De organisatie
 
-#### Artikel 4.1. Bijzondere regelingen
+##### Artikel 4.1. Bijzondere regelingen
 
 1. Het Algemeen Bestuurscollege kan bijzondere regelingen vaststellen inzake onderdelen of aspecten van de organisatie.
 
@@ -434,11 +459,11 @@ De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen 
 
 ### Hoofdstuk 5. Openbaarheid en tarieven
 
-#### Artikel 5.1. Informatie uit eigen beweging en op verzoek
+##### Artikel 5.1. Informatie uit eigen beweging en op verzoek
 
 Het Algemeen Bestuurscollege verschaft desgevraagd alsmede uit eigen beweging informatie over de Koninklijke Bibliotheek aan belanghebbenden en belangstellenden. In de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) (Woo) is geregeld in welke gevallen het verschaffen van informatie achterwege blijft. (Ontleend aan [art. 13.8, lid 1 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.8)).
 
-#### Artikel 5.2. Tarieven
+##### Artikel 5.2. Tarieven
 
 1. Het Algemeen Bestuurscollege stelt regels vast voor het berekenen van tarieven bij het op verzoek verschaffen van informatie. (Ontleend aan [art. 13.8, lid 2 van de WHW](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=13.8)).
 
@@ -448,7 +473,7 @@ Het Algemeen Bestuurscollege verschaft desgevraagd alsmede uit eigen beweging in
 
 ### Hoofdstuk 6. Rechtsbescherming
 
-#### Artikel 6.1. Besluiten, beschikkingen, bezwaar en beroep
+##### Artikel 6.1. Besluiten, beschikkingen, bezwaar en beroep
 
 1. Van toepassing zijn de bepalingen in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) (Awb), de [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) (Woo) en de Algemene Verordening Gegevensbescherming (AVG) over besluiten, c.q. beschikkingen, alsmede die over bezwaar en beroep. Ten behoeve van een beslissing op een bezwaar kan het Algemeen Bestuurscollege zich laten adviseren door een adviescommissie.
 
@@ -462,11 +487,11 @@ Het Algemeen Bestuurscollege verschaft desgevraagd alsmede uit eigen beweging in
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 7.1. Vervanging Reglement van de Koninklijke Bibliotheek van 7 februari 2023
+##### Artikel 7.1. Vervanging Reglement van de Koninklijke Bibliotheek van 7 februari 2023
 
 Dit reglement vervangt het [Reglement van de Koninklijke Bibliotheek van 7 februari 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047906)
 
-#### Artikel 7.2. Inwerkingtreding
+##### Artikel 7.2. Inwerkingtreding
 
 Het reglement treedt in werking een dag na bekendmaking van de vaststelling ervan in de Staatscourant. Hierbij werken de [bijlagen 1 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=1&z=2025-04-01&g=2025-04-01), [5b](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=5B&z=2025-04-01&g=2025-04-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050903&bijlage=6&z=2025-04-01&g=2025-04-01) terug tot en met 12 maart 2025.
 

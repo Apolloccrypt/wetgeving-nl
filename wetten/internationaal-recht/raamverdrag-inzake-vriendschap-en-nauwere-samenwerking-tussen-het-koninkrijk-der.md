@@ -1,13 +1,38 @@
 ---
 title: "Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname"
 identifier: "BWBV0001175"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-05-01
-laatste_update: 1995-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001175"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-05-01"
+last_updated: "1995-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001175"
+soort: "verdrag"
+stam_id: "10002306783"
+version_id: "10002316582"
+internal_id: "C10006976271"
+label_id: "10002296824"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001175/1995-05-01/0"
+intitule_bron: "Trb.1992-103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-15"
+intitule_published: "1992-07-21"
+intitule_in_force: "1995-04-19"
+intitule_status: "goed"
+original_publication: "Trb.1992-103"
+original_signed_date: "1995-03-15"
+original_published_date: "1992-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-103"
+entry_into_force_date: "1995-05-01"
+jci_1_3: "jci1.3:c:BWBV0001175&z=1995-05-01&g=1995-05-01"
+jci_1_0: "1.0:c:BWBV0001175&g=1995-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "1995-03-15"
+entry_into_force: "1995-05-01"
 ---
-
 # Raamverdrag inzake vriendschap en nauwere samenwerking tussen het Koninkrijk der Nederlanden en de Republiek Suriname
 
 Hare Majesteit de Koningin der Nederlanden
@@ -38,7 +63,7 @@ vastbesloten op deze grondslag samen te werken teneinde sterker te staan tegen d
 
 hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwere samenwerking, waarin de hoofdlijnen van een samenhangend stelsel van nauwere betrekkingen tussen beide Staten op basis van wederzijds respect en vertrouwen, souvereiniteit en gelijkwaardigheid worden vastgelegd:
 
-#### Artikel 1. Grondbeginselen
+##### Artikel 1. Grondbeginselen
 
 1. Beide Staten maken zich binnen hun rechtsmacht sterk voor de handhaving en bevordering van de democratie en de rechtsstaat en een democratisch gelegitimeerde en gecontroleerde overheid.
 
@@ -52,7 +77,7 @@ hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwer
 
 6. De Regeringen van beide Staten laten zich in hun handelingen en in hun onderling overleg voortdurend leiden door de beginselen van wederzijds respect en vertrouwen, souvereiniteit en gelijkwaardigheid zoals vervat in het Handvest van de Verenigde Naties.
 
-#### Artikel 2. Doelstellingen en uitgangspunten
+##### Artikel 2. Doelstellingen en uitgangspunten
 
 1. Dit Raamverdrag heeft tot doel een kader te scheppen voor een nauwere samenwerking tussen beide Staten op een veelheid van terreinen in onderlinge samenhang, met inachtneming van de grondbeginselen van dit Raamverdrag. Zij behoeven zich daarbij niet te beperken tot de in dit Raamverdrag genoemde onderwerpen.
 
@@ -74,7 +99,7 @@ hebben overeenstemming bereikt over dit Raamverdrag inzake vriendschap en nauwer
 
 7. Het Koninkrijk der Nederlanden bevestigt zijn bereidheid ook na besteding van de middelen uit de Overeenkomst betreffende ontwikkelingssamenwerking van 25 november 1975 de Republiek Suriname aanvullend verdragsmiddelen beschikbaar te stellen. Omvang, aard en duur zullen in verband met de verwezenlijking van de in artikel 1 van voornoemde Overeenkomst aangegeven doelstellingen en met het oog op de noodzakelijke continuïteit tijdig, vóór de uiteindelijke committering door beide Staten worden vastgesteld.
 
-#### Artikel 3. Financiële, economische en ontwikkelingssamenwerking
+##### Artikel 3. Financiële, economische en ontwikkelingssamenwerking
 
 1. Dit Raamverdrag laat onverlet de op 25 november 1975 te Paramaribo totstandgekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende ontwikkelingssamenwerking, met Bijlagen en Aanvullende Protocollen. Deze Overeenkomst vormt het uitgangspunt voor de samenwerking op financieel en economisch gebied.
 
@@ -96,7 +121,7 @@ De verdeling van dat deel van de middelen dat nu reeds wordt toegewezen aan bove
 
 4. Voorzover de Regeringen van beide Staten het wenselijk achten, werken zij op monetair gebied samen ter bevordering van prijsstabiliteit en een gezonde munt.
 
-#### Artikel 4. Versterking van de rechtsstaat
+##### Artikel 4. Versterking van de rechtsstaat
 
 1. In het kader van de versterking van de rechtsstaat en van het overheidsapparaat wordt samengewerkt ter ondersteuning van de wetgeving, de verschillende sectoren van de rechtshandhaving en de departementen van algemeen bestuur.
 
@@ -104,7 +129,7 @@ Daartoe kunnen justitie- en politiedeskundigen worden verbonden aan de Ambassade
 
 2. De Regeringen van beide Staten werken tevens samen bij de bestrijding van de onwettige productie, de in-, door- en uitvoer van, de handel in en het bezit van verdovende middelen en psychotrope stoffen alsook andere vormen van misdaad die daarmede verband houden.
 
-#### Artikel 5. Buitenlands beleid en veiligheidsbeleid
+##### Artikel 5. Buitenlands beleid en veiligheidsbeleid
 
 1. De Regeringen van beide Staten houden periodieke consultaties over onderwerpen van buitenlands beleid die de belangen van beide Staten raken.
 
@@ -114,19 +139,19 @@ Daartoe kunnen justitie- en politiedeskundigen worden verbonden aan de Ambassade
 
 4. De Regeringen van beide Staten verlenen elkaar technische bijstand op het gebied van defensie.
 
-#### Artikel 6. Culturele samenwerking
+##### Artikel 6. Culturele samenwerking
 
 De Regeringen van beide Staten bevorderen naar vermogen hun samenwerking op het gebied van onderwijs, wetenschap, cultuur en sport. De op 5 februari 1976 te 's-Gravenhage tot stand gekomen Culturele Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname en de Vriendschaps- en samenwerkingsovereenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname van 27 november 1978, alsmede de op basis van die Overeenkomsten gemaakte en nog te maken afspraken vormen daarvoor de grondslag.
 
-#### Artikel 7. Milieu
+##### Artikel 7. Milieu
 
 De Regeringen van beide Staten nemen op zich, in het kader van een verantwoord gebruik van het milieu onder andere ten nutte van duurzame economische ontwikkeling, samen te werken op het gebied van milieuonderzoek, milieueducatie en de overdracht en ontwikkeling van milieutechnologie te bevorderen.
 
-#### Artikel 8. Personenverkeer
+##### Artikel 8. Personenverkeer
 
 Met inachtneming van op elk van beide Staten rustende verplichtingen zetten Nederland en Suriname zich in om de voorwaarden te verwezenlijken waaronder vrij verkeer van personen kan worden hersteld. Zolang de visumplicht nog voortduurt, zetten zij zich in om de procedures met betrekking tot visumverlening humaan, soepel en snel te doen verlopen.
 
-#### Artikel 9. Overlegstructuur
+##### Artikel 9. Overlegstructuur
 
 1. Met het oog op de uitvoering van dit Raamverdrag voeren de Regeringen van beide Staten wanneer noodzakelijk, doch in beginsel éénmaal per jaar, ministerieel overleg. Tijdens dit overleg zal een evaluatie plaatsvinden van de samenwerking.
 
@@ -138,13 +163,13 @@ Zonodig zal daarbij worden aangegeven welke verdere werkzaamheden wenselijk word
 
 4. De werkgroepen brengen geregeld verslag uit aan de Gemengde Samenwerkingscommissie. De Gemengde Samenwerkingscommissie kan de werkgroepen verzoeken hun werk voort te zetten of te intensiveren, of kan besluiten de resultaten van hun werkzaamheden voor te leggen aan het overleg op ministerieel niveau.
 
-#### Artikel 10. Voorrechten en immuniteiten van deskundigen
+##### Artikel 10. Voorrechten en immuniteiten van deskundigen
 
 1. Aan de in het kader van de uitvoering van dit Raamverdrag uitgezonden deskundigen, die niet uit hoofde van een ander verdrag worden uitgezonden, zullen, voor zover zij niet worden verbonden aan de staf van de Ambassades, wederzijds de faciliteiten, voorrechten en immuniteiten worden verleend genoemd in Hoofdstuk II, Afdeling II, van het Verdrag van Wenen inzake consulaire betrekkingen van 24 april 1963.
 
 2. Deze regeling zal niet gelden voor de uitvoering van artikel 9 van dit Raamverdrag.
 
-#### Artikel 11. Regeling van geschillen
+##### Artikel 11. Regeling van geschillen
 
 1. Indien zich tussen beide Staten een geschil voordoet over de uitlegging of toepassing van de bepalingen van dit Raamverdrag, daaronder begrepen datgene dat slechts door één der beide Staten als geschil wordt aangemerkt, en indien het bestaan van dat geschil uitdrukkelijk onder de aandacht van de andere Staat is gebracht, en indien dit geschil vervolgens niet binnen een termijn van drie maanden op bevredigende wijze langs diplomatieke kanalen is geregeld, kan het op verzoek van één van beide Staten, hierna te noemen Partijen, worden voorgelegd aan een uit drie leden bestaand scheidsgerecht. Iedere Partij wijst een scheidsman aan. De beide aangewezen scheidsmannen benoemen een voorzittend scheidsman, die niet de nationaliteit van één der Partijen bezit.
 
@@ -172,13 +197,13 @@ Zonodig zal daarbij worden aangegeven welke verdere werkzaamheden wenselijk word
 
 10. Het in dit artikel gestelde Iaat de bevoegdheid van beide Staten onverlet geschillen welke zich mochten voordoen over de uitlegging of toepassing van andere tussen beide Staten bestaande overeenkomsten voor te leggen aan het Internationaal Gerechtshof.
 
-#### Artikel 12. Looptijd en inwerkingtreding
+##### Artikel 12. Looptijd en inwerkingtreding
 
 1. Dit Raamverdrag wordt voor onbepaalde tijd gesloten, en zal door beide Staten worden bekrachtigd overeenkomstig de grondwettelijke bepalingen van beide Staten. De akten van bekrachtiging zullen te 's-Gravenhage worden uitgewisseld.
 
 2. Dit Raamverdrag wordt voorlopig toegepast met ingang van de datum van ondertekening, en treedt in werking op de eerste dag van de tweede maand volgend op de dag van de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 13. Opschorting en opzegging
+##### Artikel 13. Opschorting en opzegging
 
 1. Indien de Regering van één van beide Staten van oordeel is dat in de andere Staat sprake is van fundamentele schending van de constitutionele beginselen van de democratie en de rechtsstaat of van één of meer van de in artikel 4 lid 2 van het Internationaal Verdrag van 19 december 1966 inzake burgerrechten en politieke rechten bedoelde fundamentele mensenrechten, kan die Regering verklaren dat zij het Raamverdrag met onmiddellijke ingang opschort. Indien over de opschorting tussen beide Staten een geschil ontstaat, is, tenzij de Regeringen van beide Staten anderszins overeenkomen, uitsluitend het Internationaal Gerechtshof bevoegd daarvan kennis te nemen. De uitspraak van het Hof is voor beide Staten definitief en bindend.
 

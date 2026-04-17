@@ -1,13 +1,39 @@
 ---
-title: "Regeling veilig gebruik luchthavens en andere terreinen"
+title: "Regeling van de Minister van Verkeer en Waterstaat van 27 oktober 2009, nr. CEND/HDJZ-2009/1166 sector LUV, houdende regels in verband met de aanleg, de inrichting, de uitrusting en het veilig gebruik van luchthavens en andere terreinen met het oog op de orde en de veiligheid op die luchthavens en terreinen (Regeling veilig gebruik luchthavens en andere terreinen)"
 identifier: "BWBR0026570"
-categorie: "Milieu"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026570"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026570"
+soort: "ministeriele-regeling"
+stam_id: "10256693"
+version_id: "16786132"
+internal_id: "C23110311"
+label_id: "10232884"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026570/2024-07-01/0"
+intitule_bron: "Stcrt.2009-16336"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-27"
+intitule_published: "2009-10-30"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16336"
+original_signed_date: "2009-10-27"
+original_published_date: "2009-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16336"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026570&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0026570&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling veilig gebruik luchthavens en andere terreinen"
+signed_date: "2009-10-27"
+entry_into_force: "2009-11-01"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat van 27 oktober 2009, nr. CEND/HDJZ-2009/1166 sector LUV, houdende regels in verband met de aanleg, de inrichting, de uitrusting en het veilig gebruik van luchthavens en andere terreinen met het oog op de orde en de veiligheid op die luchthavens en terreinen (Regeling veilig gebruik luchthavens en andere terreinen)
 
 Gelet op bijlage 14 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), de [artikelen 8a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.1), [8a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.3), en [8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) en [artikel 51 van het Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394&artikel=51);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -94,7 +120,7 @@ Besluit:
 
 ### Afdeling 1. Reikwijdte
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit hoofdstuk is, indien de betreffende luchthaven niet is gecertificeerd als bedoeld in artikel 6 van Verordening (EU) Nr. 139/2014, van toepassing op:
 
@@ -120,11 +146,11 @@ Besluit:
 
 ### Afdeling 2. Certificering
 
-#### Artikel 3
+##### Artikel 3
 
 Deze afdeling is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1), met uitzondering van helikopterluchthavens, waarvoor vaststelling van een luchthavenbesluit is vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bevat:
 
@@ -154,13 +180,13 @@ De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bev
 
 - m. in geval van een gecontroleerde luchthaven: een samenwerkingsprotocol tussen de exploitant en de plaatselijke luchtverkeersleidingsdienst met betrekking tot het luchthaventerreinverkeer op het landingsterrein, uitgezonderd luchtvaartuigen en met betrekking tot het verkeer van luchtvaartuigen naar, van en op de platformen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De exploitant draagt er zorg voor dat het luchthavenbedrijfshandboek een actuele beschrijving bevat van het veiligheidsmanagementsysteem alsmede van de aanleg, de inrichting, de uitrusting en het veilig gebruik van de luchthaven.
 
 2. De exploitant draagt er zorg voor dat de Inspectie Leefomgeving en Transport en de op de luchthaven gevestigde bedrijven en organisaties, die hun werkzaamheden op het luchtvaartgebied uitoefenen, beschikken over de actuele versie van de voor hen relevante onderdelen van het luchthavenbedrijfshandboek en stelt hen onverwijld in kennis van wijzigingen daarvan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als sleutelfunctionaris als bedoeld in [artikel 4, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=2&artikel=4&z=2024-07-01&g=2024-07-01), wordt in ieder geval aangemerkt een door de exploitant te benoemen havenmeester.
 
@@ -170,7 +196,7 @@ De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bev
 
 4. De functie van havenmeester mag verenigd worden met die van directeur van de luchthaven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De exploitant controleert ten minste één maal per jaar of de werking van het veiligheidsmanagementsysteem doeltreffend en doelmatig is.
 
@@ -178,7 +204,7 @@ De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bev
 
 3. Indien de resultaten van de controle, bedoeld in het eerste lid, daartoe aanleiding geven wijzigt de exploitant het veiligheidsmanagementsysteem.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De exploitant zorgt voor de vastlegging van de gegevens die noodzakelijk zijn voor de werking van het veiligheidsmanagementsysteem.
 
@@ -190,7 +216,7 @@ De exploitant beschikt over een veiligheidsmanagementsysteem, dat ten minste bev
 
 #### § 1. Reikwijdte
 
-#### Artikel 9
+##### Artikel 9
 
 Deze afdeling is van toepassing op:
 
@@ -202,7 +228,7 @@ Deze afdeling is van toepassing op:
 
 #### § 2. Aanleg, inrichting, uitrusting en gebruik van de luchthaven
 
-#### Artikel 10
+##### Artikel 10
 
 De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en het gebruik van een luchthaven voldoen aan de voorschriften en aanbevelingen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag, met uitzondering van de volgende onderdelen:
 
@@ -216,7 +242,7 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 - e. 9.2.27, 9.4.1 onder a, 9.4.2, de zinsnede ‘or its vicinity’ in onderdeel 9.4.4, 9.4.5 en 9.10.3.
 
-#### Artikel 11
+##### Artikel 11
 
 De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=10&z=2024-07-01&g=2024-07-01) niet uitgezonderde onderdelen van deel I (Aerodrome Design and Operations) van bijlage 14 bij het verdrag gelden met dien verstande dat:
 
@@ -315,7 +341,7 @@ De in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 - v. in onderdeel 9.2.45 de ‘respiratory equipment’ niet noodzakelijk is op de luchthavens die in tabel 9-1 zijn ingedeeld in categorie 1, 2 of 3.
 
-#### Artikel 12
+##### Artikel 12
 
 De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en het gebruik van een luchthaven niet leiden tot:
 
@@ -325,11 +351,11 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 - c. een belemmering van het zicht van de luchtverkeersleiding vanuit de verkeerstoren.
 
-#### Artikel 13
+##### Artikel 13
 
 Op het deel van een luchthaven, buiten het deel van de luchthaven dat wordt gebruikt voor en ten behoeve van de hoofdbaan, dat wordt gebruikt door een van de luchtvaartuigen als bedoeld in de [paragrafen 4 tot en met 12 van hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=4&z=2024-07-01&g=2024-07-01) van deze regeling, zijn de eisen die in deze paragrafen zijn opgenomen met betrekking tot een luchthaven en het gebruik hiervan door een dergelijk luchtvaartuig van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De exploitant moet een register aanleggen waarin gegevens worden bijgehouden omtrent elk luchtvaartuig dat op de luchthaven landt of daarvan opstijgt en het daarmee gepleegde vervoer.
 
@@ -361,7 +387,7 @@ Op het deel van een luchthaven, buiten het deel van de luchthaven dat wordt gebr
 
 #### § 1. Reikwijdte
 
-#### Artikel 15
+##### Artikel 15
 
 Deze afdeling is van toepassing op:
 
@@ -379,7 +405,7 @@ Deze afdeling is van toepassing op:
 
 #### § 1. Reikwijdte
 
-#### Artikel 16
+##### Artikel 16
 
 De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en het gebruik van een helikopterluchthaven voldoen aan de voorschriften en aanbevelingen van deel II (Heliports) van bijlage 14 bij het verdrag, met uitzondering van de volgende onderdelen:
 
@@ -391,7 +417,7 @@ De exploitant draagt er zorg voor dat de aanleg, de inrichting, de uitrusting en
 
 - d. 5.3.2.
 
-#### Artikel 17
+##### Artikel 17
 
 De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&afdeling=4&paragraaf=2&artikel=16&z=2024-07-01&g=2024-07-01) niet uitgezonderde onderdelen van deel II (Heliports) van bijlage 14 bij het verdrag gelden met dien verstande dat:
 
@@ -413,7 +439,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 - i. op helikopterluchthavens die verhoogd zijn aangelegd voor de ‘category H2’ in tabel 6-3 vanaf 1 juli 2024 volstaan kan worden met een minimale afgiftecapaciteit voor blusschuim van prestatieklasse B (kolom 3) van 500 liter per minuut, op voorwaarde dat dat de afgifteduur dan ten minste 10 minuten bedraagt en ten minste 5.000 liter aanwezig is.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een verhoogde helikopterluchthaven die gebruikt wordt door een helikopter die is ingedeeld in performance klasse 3, bedoeld in onderdeel III van bijlage 6 bij het verdrag, is zodanig gelegen dat in de directe omgeving van de luchthaven geschikte gronden aanwezig zijn voor het uitvoeren van een nood- of voorzorgslanding.
 
@@ -423,7 +449,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 #### § 1. Reikwijdte
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit hoofdstuk is van toepassing op:
 
@@ -445,7 +471,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 #### § 1. Reikwijdte
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een luchthaven is zodanig gelegen dat:
 
@@ -473,7 +499,7 @@ De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=2&a
 
 10. Het eerste, zesde, zevende en negende lid zijn van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-07-01&g=2024-07-01).
 
-#### Artikel 21
+##### Artikel 21
 
 Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-07-01&g=2024-07-01), is niet gelegen:
 
@@ -483,7 +509,7 @@ Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://w
 
 - c. binnen een laagvlieggebied of onder of binnen een afstand van 3 zeemijlen van een laagvliegroute als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=2), en [9, eerste lid, van de Regeling minimum VFR-vlieghoogten en VFR-vluchten buiten de daglichtperiode voor militaire vliegtuigen en helikopters](https://wetten.overheid.nl/jci1.3:c:BWBR0035356&artikel=9), tenzij het gebruik zich beperkt tot vrijdagen na 17.00 uur plaatselijke tijd, zaterdagen, zondagen of nationale feestdagen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het gebruik van een luchthaven voldoet aan de volgende eisen:
 
@@ -523,7 +549,7 @@ Een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://w
 
 #### § 3. Helikopters
 
-#### Artikel 23
+##### Artikel 23
 
 Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -533,7 +559,7 @@ Een helikopterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaal
 
 - c. de uitvliegsector ligt in het verlengde van de invliegsector of maakt een hoek van maximaal 30° met de invliegsector.
 
-#### Artikel 24
+##### Artikel 24
 
 Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een helikopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -547,7 +573,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 4. Mla’s
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een luchthaven die gebruikt wordt door een mla en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -567,7 +593,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 4. Mla’s
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een luchthaven die gebruikt wordt door een gemotoriseerd schermvliegtuig of een paramotortrike en het gebruik hiervan voldoen, onverminderd het bepaalde in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -585,7 +611,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 5. Gemotoriseerde schermvliegtuigen en paramotortrikes
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een luchthaven die gebruikt wordt door een vrije ballon en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -607,7 +633,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 6. Vrije ballonnen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een waterluchthaven en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -627,7 +653,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 7. Watervliegtuigen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een luchthaven die gebruikt wordt door een zweefvliegtuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -661,7 +687,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 5. Het eerste lid is van overeenkomstige toepassing op een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een zweefvliegtuig.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het gebruik van een luchthaven door een zweefvliegtuig voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -693,7 +719,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 8a. Zeilvliegtuigen en schermzweeftoestellen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een luchthaven die gebruikt wordt door een landbouwluchtvaartuig en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -717,7 +743,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 8a. Zeilvliegtuigen en schermzweeftoestellen
 
-#### Artikel 32
+##### Artikel 32
 
 1. Een luchthaven die gebruikt wordt door een luchtschip dat op zeeniveau in de internationale standaard-atmosfeer in geheel gevulde toestand een afmeting heeft van meer dan 5 meter of een inhoud van meer dan 4 kubieke meter, en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -733,7 +759,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 9. Landbouwluchtvaartuigen
 
-#### Artikel 33
+##### Artikel 33
 
 1. Onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), zijn de eisen, bedoeld in [artikel 31, eerste lid, onderdelen a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=9&artikel=31&z=2024-07-01&g=2024-07-01), van overeenkomstige toepassing op een luchthaven die gebruikt wordt door een onbemand vliegtuig van maximaal 150 kilogram, met dien verstande dat de lengte van de strook, bedoeld in onderdeel a, niet minder is dan 100 meter en de breedte van de strook, bedoeld in onderdeel b, niet minder is dan 10 meter.
 
@@ -753,7 +779,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 #### § 10. Luchtschepen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een luchthaven die gebruikt wordt door een gyrokopter en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -771,7 +797,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ### Hoofdstuk 4. Procedurebepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. De termijn voor het nemen van een besluit op de aanvraag voor een ontheffing als bedoeld in [artikel 8a.51 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) bedraagt vier weken.
 
@@ -779,7 +805,7 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 3. De houder van de ontheffing meldt ten minste 24 uur voor de dag dat het terrein zal worden gebruikt dit voornemen schriftelijk of per e-mail aan de minister en de burgemeester van de gemeente waarin het betreffende terrein ligt.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De minister kan ontheffing verlenen van de voorschriften die op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&z=2024-07-01&g=2024-07-01) gelden voor een terrein voor tijdelijk en uitzonderlijk gebruik of een terrein als bedoeld in [artikel 19, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-07-01&g=2024-07-01). Deze ontheffing wordt slechts verleend indien:
 
@@ -791,55 +817,55 @@ Een terrein voor tijdelijk en uitzonderlijk gebruik dat gebruikt wordt door een 
 
 ### Hoofdstuk 4. Procedurebepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Wijzigt het Algemeen luchthavenreglement.
 
-#### Artikel 38
+##### Artikel 38
 
 Wijzigt het Aanvullend luchthavenreglement luchthaven Schiphol.
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt het Aanvullend luchthavenreglement luchthaven Maastricht.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt het Aanvullend luchthavenreglement Rotterdam.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt het Aanvullend luchthavenreglement luchthaven Eelde.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt het Aanvullend Luchthaven Reglement Lelystad.
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt het Aanvullend luchthavenreglement Teuge.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt het Aanvullend luchthavenreglement Texel.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt het Aanvullend luchthavenreglement Midden Zeeland.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 Deze regeling treedt in werking met ingang van 1 november 2009.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze regeling wordt aangehaald als: Regeling veilig gebruik luchthavens en andere terreinen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. Een luchthaven die gebruikt wordt door een zeilvliegtuig of schermzweeftoestel en het gebruik hiervan voldoen, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -863,7 +889,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Het eerste lid is van overeenkomstige toepassing op een terrein als bedoeld in [artikel 19, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=1&artikel=19&z=2024-07-01&g=2024-07-01), voor zover het terrein wordt gebruikt voor het landen of opstijgen van een schermzweeftoestel of een zeilvliegtuig.
 
-#### Artikel 30b
+##### Artikel 30b
 
 1. Het gebruik van een luchthaven door een zeilvliegtuig of schermzweeftoestel voldoet, onverminderd het bepaalde in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026570&hoofdstuk=3&paragraaf=2&z=2024-07-01&g=2024-07-01), aan de volgende eisen:
 
@@ -907,7 +933,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 Gebruikers van de luchthaven, toeleveranciers, organisaties die op de luchthaven voor de exploitant werkzaamheden verrichten, alsmede organisaties die op de luchthaven zelfstandig grondafhandelingsdiensten verrichten, zijn verplicht te voldoen aan de eisen die door de exploitant zijn gesteld ten aanzien van de orde en veiligheid op, alsmede het veilig gebruik van de luchthaven.
 
@@ -949,7 +975,7 @@ Gebruikers van de luchthaven, toeleveranciers, organisaties die op de luchthaven
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. Indien een luchthaven buiten de reguliere openstellingstijden wordt gebruikt voor het innemen van brandstof ten behoeve van een HEMS-vlucht of een politievlucht, draagt de exploitant er zorg voor dat voorafgaande aan het gebruik schriftelijke afspraken met de betreffende gebruiker van de luchthaven zijn gemaakt over het veilig gebruik van de luchthaven.
 
@@ -985,7 +1011,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 13. Luchtvaartuigen die een nood- of voorzorgslanding hebben gemaakt
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. De gezagvoerder van een luchtvaartuig dat op een terrein een nood- of voorzorgslanding heeft gemaakt, meldt dit onverwijld aan de Minister.
 

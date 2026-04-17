@@ -1,18 +1,43 @@
 ---
 title: "Visserijwet BES"
 identifier: "BWBR0028168"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028168"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028168"
+soort: "wet-BES"
+stam_id: "10686773"
+version_id: "17647822"
+internal_id: "C24819681"
+label_id: "10661634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028168/2023-01-01/0"
+intitule_bron: "Stb.2010-566"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-566"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-566"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028168&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0028168&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Visserijwet BES
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ bron: "https://wetten.overheid.nl/BWBR0028168"
 
 ### Hoofdstuk II. Algemene Bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden in de territoriale zee en in de visserijzone te vissen zonder, of in afwijking van een vergunning.
 
@@ -52,7 +77,7 @@ bron: "https://wetten.overheid.nl/BWBR0028168"
 
 8. Door of namens Onze Minister kan ontheffing worden verleend van het verbod, bedoeld in het eerste lid, ten behoeve van het houden van viswedstrijden. De ontheffing wordt verleend aan de instantie die de wedstrijd organiseert en heeft betrekking op alle voor de wedstrijd ingeschreven vaartuigen. De ontheffing geldt voor de daarbij aangegeven dagen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van:
 
@@ -68,7 +93,7 @@ bron: "https://wetten.overheid.nl/BWBR0028168"
 
 3. Bij of krachtens algemene maatregel van bestuur, worden regels gesteld ten aanzien van de gegevens die door vergunninghouders dienen te worden bijgehouden en de wijze waarop dit dient te geschieden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan nadere regelen stellen voor het vissen met een vaartuig als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), in het territoriale zeegebied rondom de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -76,11 +101,11 @@ bron: "https://wetten.overheid.nl/BWBR0028168"
 
 3. Op de plaatsen waar de territoriale zee tussen de openbare lichamen minder breed is dan 24 zeemijlen wordt voor de toepassing van deze wet en de daarop berustende bepalingen de grens tussen de twee openbare lichamen gevormd door de middellijn. De middellijn is de lijn waarvan elk punt gelegen is op gelijke afstand van de dichtstbijzijnde punten op de basislijn van waaraf de breedte van de territoriale zee rondom de openbare lichamen wordt gemeten.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister kan, gehoord de Visserijcommissie, voor een bepaald tijdvak een visverbod instellen. Dit tijdvak kan voor de verschillende vissoorten verschillend worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Vergunningen als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), kunnen, voor zover het voortbestaan en de natuurlijke ontwikkeling van de visstand zich er niet tegen verzetten, worden verleend aan:
 
@@ -92,7 +117,7 @@ Onze Minister kan, gehoord de Visserijcommissie, voor een bepaald tijdvak een vi
 
 2. Bedoelde vergunningen kunnen slechts aan andere dan de in het eerste lid genoemde personen worden verleend, voorzover het voortbestaan en de natuurlijke ontwikkeling van de visstand zich er niet tegen verzetten, dat behalve aan degene aan wie krachtens het eerste lid een vergunning is verleend, ook aan deze anderen een vergunning wordt verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een vergunning wordt slechts op schriftelijk verzoek verleend. Onze Minister kan, gehoord de Visserijcommissie, algemene regelen stellen betreffende de gegevens welke bij het verzoek dienen te worden verstrekt alsmede de wijze waarop het verzoek dient te worden ingediend.
 
@@ -118,7 +143,7 @@ Onze Minister kan, gehoord de Visserijcommissie, voor een bepaald tijdvak een vi
 
 9. Het verzoek waarbij de voorziening wordt gevraagd, is met redenen omkleed.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een vergunning wordt verleend voor een periode van ten hoogste twaalf maanden.
 
@@ -128,7 +153,7 @@ Onze Minister kan, gehoord de Visserijcommissie, voor een bepaald tijdvak een vi
 
 4. Verlenging van een vergunning dient te worden aangevraagd tenminste drie maanden vóór het verstrijken van de termijn van de geldigheid van een vergunning. Indien de aanvraag voor een verlenging tijdig is ingediend, en de beslissing op het verzoek tot verlenging niet binnen drie maanden na haar indiening is genomen, wordt de vergunning geacht te zijn verlengd tot het moment waarop de beslissing aan de verzoeker is medegedeeld.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een vergunning kan slechts op één, in de vergunning aangewezen, vaartuig betrekking hebben.
 
@@ -138,21 +163,21 @@ Onze Minister kan, gehoord de Visserijcommissie, voor een bepaald tijdvak een vi
 
 4. In de schriftelijke toestemming wordt de periode waarvoor deze geldt, alsmede de naam en het registratienummer van het andere vaartuig vermeld.
 
-#### Artikel 10
+##### Artikel 10
 
 Vergunninghouders zijn uitsluitend ten behoeve van de verzameling van statistisch materiaal verplicht op verzoek van de door Onze Minister aangewezen instantie als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=9&z=2023-01-01&g=2023-01-01), gegevens te verstrekken met betrekking tot de omvang en de samenstelling van hun vangst alsmede van de vangstgebieden.
 
-#### Artikel 11
+##### Artikel 11
 
 Een vergunning is niet overdraagbaar.
 
-#### Artikel 12
+##### Artikel 12
 
 Degene aan wie een vergunning verleend wordt, is een recht verschuldigd. De hoogte en de wijze van inning daarvoor, worden bij algemene maatregel van bestuur vastgesteld.
 
 ### Hoofdstuk III. De Visserijcommissie
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister stelt een visserijcommissie voor Bonaire, Sint Eustatius en Saba in.
 
@@ -160,11 +185,11 @@ Degene aan wie een vergunning verleend wordt, is een recht verschuldigd. De hoog
 
 ### Hoofdstuk IIIA. Visserij op volle zee of wateren die vallen onder de rechtsmacht van een andere staat
 
-#### Artikel 13a
+##### Artikel 13a
 
 Onder vissersvaartuig, afkomstig van Bonaire, Sint Eustatius of Saba wordt in dit hoofdstuk verstaan: schip dat is geregistreerd in Nederland, Bonaire, Sint Eustatius of Saba en in de uitoefening van beroep of bedrijf wordt of kan worden gebruikt voor de visserij op zee.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Het is verboden met een vissersvaartuig, afkomstig van Bonaire, Sint Eustatius of Saba op volle zee of in de wateren die vallen onder de rechtsmacht van een andere Staat, te vissen zonder, of in afwijking van een vergunning.
 
@@ -182,7 +207,7 @@ Onder vissersvaartuig, afkomstig van Bonaire, Sint Eustatius of Saba wordt in di
 
 - e. het rapporteren over de vangst.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld die in elk geval betrekking hebben op de:
 
@@ -206,13 +231,13 @@ Onder vissersvaartuig, afkomstig van Bonaire, Sint Eustatius of Saba wordt in di
 
 ### Hoofdstuk IV. Geheimhoudingsplicht
 
-#### Artikel 14
+##### Artikel 14
 
 Het is aan een ieder, die uit hoofde van deze wet of van het krachtens deze wet bepaalde een taak vervult, verboden van gegevens of inlichtingen, ingevolge of krachtens deze wet verkregen, verder of anders gebruik te maken of daarvan verder of anders bekendheid te geven dan voor de uitoefening van zijn taak strikt noodzakelijk is.
 
 ### Hoofdstuk V. Strafbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Overtreding van het bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=5&z=2023-01-01&g=2023-01-01) bepaalde, wordt gestraft met hechtenis van ten hoogste drie maanden en geldboete van ten hoogste de zesde categorie, hetzij met een van deze straffen.
 
@@ -222,11 +247,11 @@ Het is aan een ieder, die uit hoofde van deze wet of van het krachtens deze wet 
 
 4. De feiten, strafbaar gesteld bij dit artikel, worden als overtredingen beschouwd.
 
-#### Artikel 16
+##### Artikel 16
 
 Met het toezicht op de naleving en het opsporen van de overtredingen van deze wet zijn behalve de in [artikel 8 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=8) aangewezen personen belast de door Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=V&artikel=16&z=2023-01-01&g=2023-01-01) bedoelde personen zijn uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijs noodzakelijk is, bevoegd:
 
@@ -240,7 +265,7 @@ Met het toezicht op de naleving en het opsporen van de overtredingen van deze we
 
 2. Zo nodig verschaffen zij zich de toegang tot een plaats als bedoeld in het eerste lid, onderdeel d, met behulp van de sterke arm.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=V&artikel=16&z=2023-01-01&g=2023-01-01) bedoelde personen zijn ter vervulling van hun taak bevoegd te vorderen, dat gezagvoerders van vaartuigen, met uitzondering van openbare vervoermiddelen, deze doen stilhouden en onderzoek toestaan van de zich daarin bevindende voorwerpen. Zij kunnen tevens vorderen, dat de gezagvoerders overeenkomstig hun aanwijzingen terzake medewerking verlenen.
 
@@ -248,7 +273,7 @@ Met het toezicht op de naleving en het opsporen van de overtredingen van deze we
 
 3. Ook buiten het geval van ontdekking op heterdaad kunnen de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=V&artikel=16&z=2023-01-01&g=2023-01-01) bedoelde personen voor inbeslagneming vatbare voorwerpen op elke plaats in beslag nemen. [Artikel 17, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), is van toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien een bij of krachtens deze wet strafbaar gesteld feit wordt begaan door of vanwege een rechtspersoon, een vennootschap, enige andere vereniging van personen of een doelvermogen, wordt de strafvervolging ingesteld en worden de straffen uitgesproken, hetzij tegen die rechtspersoon, die vennootschap, die vereniging of dat doelvermogen, hetzij tegen hen die tot het feit opdracht hebben gegeven of die feitelijk leiding hebben gehad bij het verboden handelen of nalaten, hetzij tegen hen gezamenlijk.
 
@@ -260,24 +285,24 @@ Met het toezicht op de naleving en het opsporen van de overtredingen van deze we
 
 5. Indien een strafvordering wordt ingesteld tegen een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen, geschieden de in het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) voorgeschreven betekeningen, dagvaardingen, oproepingen, kennisgevingen of andere mededelingen aan de persoon of de woonplaats van de bestuurder en indien er meerdere bestuurders zijn, aan een van deze of op de plaats waar het bestuur zitting of kantoor houdt, behoudens, indien het een dagvaarding betreft, overeenkomstige toepassing van [artikel 130, tweede en derde lid, van Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=130).
 
-#### Artikel 20
+##### Artikel 20
 
 Het wetboek van Strafrecht BES is mede van toepassing op een ieder die zich binnen de visserijzone schuldig maakt aan de bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=4&z=2023-01-01&g=2023-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=5&z=2023-01-01&g=2023-01-01) strafbaar gestelde feiten.
 
 ### Hoofdstuk VI. Reikwijdte van de landsverordening
 
-#### Artikel 21
+##### Artikel 21
 
 [Vervallen]
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), wordt voor personen genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), van toepassing twaalf maanden na de datum van inwerkingtreding van deze wet.
 
 2. Het bepaalde in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=2&z=2023-01-01&g=2023-01-01), wordt voor personen genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028168&hoofdstuk=II&artikel=6&z=2023-01-01&g=2023-01-01), van toepassing vier maanden na de datum van inwerkingtreding van deze wet.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Visserijwet BES.

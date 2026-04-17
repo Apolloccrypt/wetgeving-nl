@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2008, nr. MEVA/BO-2890092, houdende regels in verband met de erkenning van EG beroepskwalificaties in de individuele gezondheidszorg"
 identifier: "BWBR0024755"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-07-08
-laatste_update: 2022-07-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024755"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-08"
+last_updated: "2022-07-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024755"
+soort: "ministeriele-regeling"
+stam_id: "9776873"
+version_id: "23068522"
+internal_id: "C33337141"
+label_id: "9753654"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024755/2022-07-08/0"
+intitule_bron: "Stcrt.2008-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-19"
+intitule_published: "2008-11-27"
+intitule_in_force: "2008-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-13755"
+original_signed_date: "2016-03-10"
+original_published_date: "2016-03-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2016-13755"
+entry_into_force_date: "2016-03-10"
+jci_1_3: "jci1.3:c:BWBR0024755&z=2022-07-08&g=2022-07-08"
+jci_1_0: "1.0:c:BWBR0024755&g=2022-07-08"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg"
+signed_date: "2016-03-10"
+entry_into_force: "2016-03-10"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 19 november 2008, nr. MEVA/BO-2890092, houdende regels in verband met de erkenning van EG beroepskwalificaties in de individuele gezondheidszorg
 
 Gelet op de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) en [33, eerste en tweede lid, van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
@@ -16,7 +42,7 @@ Gelet op [artikel 41, zesde lid, van de Wet op de beroepen in de individuele gez
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - j. **wet BIG:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag tot een erkenning van beroepskwalificaties, als bedoeld in [artikel 41, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), en [artikel 45, eerste lid, onderdeel c, van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45), geschiedt met gebruikmaking van een daarvoor door de minister beschikbaar te stellen aanvraagformulier.
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 5. Van de bescheiden, bedoeld in het tweede lid, onderdelen c tot en met g, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende document heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het vierde lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Teneinde te kunnen beoordelen of een van de situaties, genoemd in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) zich voordoet, wint de minister, alvorens te beslissen op een aanvraag tot het verkrijgen van een erkenning voor beroepskwalificaties, advies in van de commissie.
 
@@ -80,11 +106,11 @@ In deze regeling wordt verstaan onder:
 
 3. Indien de aanvrager een proeve van bekwaamheid heeft afgelegd of een aanpassingsstage heeft doorlopen, raadpleegt de minister de commissie over de vraag of de aanvrager voldoende gescoord heeft op de proeve van bekwaamheid of de aanpassingsstage met succes is afgesloten om de wezenlijke verschillen te compenseren.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep van apotheker, arts, tandarts, verloskundige of verpleegkundige en een van de situaties, genoemd in [artikel 11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) van toepassing is, wordt een aanpassingsstage doorlopen van een periode van ten hoogste drie jaar.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voorafgaand aan de eerste dienstverrichting doet de dienstverrichter, die een beroep uitoefent als genoemd in [artikel 3 van de wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3), melding aan de minister en verstrekt daarbij de volgende documenten:
 
@@ -116,7 +142,7 @@ Indien een erkenning van beroepskwalificaties wordt aangevraagd voor het beroep 
 
 5. Van de bescheiden, bedoeld in het eerste lid, onderdelen a tot en met g, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de instelling die het desbetreffende document heeft afgegeven, of door de daartoe bevoegde autoriteit in een lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland. Van het attest, bedoeld in het vierde lid, wordt het originele exemplaar verstrekt dan wel een kopie die is gewaarmerkt door de betreffende autoriteit, notaris, bevoegde beroepsvereniging als bedoeld in dat artikellid, dan wel door een in Nederland gevestigde notaris.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voorafgaand aan de eerste dienstverrichting controleert de minister de beroepskwalificaties van de dienstverrichter die een beroep uitoefent waarvoor op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [14 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=14) een register is ingesteld en de beroepsbeoefenaar niet op grond van titel III, hoofdstuk III, van de richtlijn in aanmerking komt voor erkenning op basis van de coördinatie van de minimumopleidingseisen.
 
@@ -128,10 +154,10 @@ De commissie laat de minister weten of naar haar oordeel de situatie bedoeld in 
 
 4. De minister kan de commissie raadplegen over de vraag of de aanvrager voldoende heeft aangetoond dat hij de ontbrekende kennis en vaardigheden heeft verworven.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beroepen in de individuele gezondheidszorg.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft"
+title: "Besluit van 12 oktober 2006, houdende regels ter uitvoering van hoofdstuk 5.3 van de Wet op het financieel toezicht voor het melden van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen (Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen)"
 identifier: "BWBR0020416"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020416"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020416"
+soort: "AMvB"
+stam_id: "8689393"
+version_id: "22999192"
+internal_id: "C33247431"
+label_id: "8669794"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020416/2025-01-01/0"
+intitule_bron: "Stb.2006-509"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2016-40"
+original_signed_date: "2016-01-20"
+original_published_date: "2016-01-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-40"
+entry_into_force_date: "2016-01-29"
+jci_1_3: "jci1.3:c:BWBR0020416&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0020416&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft"
+signed_date: "2016-01-20"
+entry_into_force: "2016-01-29"
 ---
-
 # Besluit van 12 oktober 2006, houdende regels ter uitvoering van hoofdstuk 5.3 van de Wet op het financieel toezicht voor het melden van stemmen, kapitaal, zeggenschap en kapitaalbelang in uitgevende instellingen (Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen)
 
 Op de voordracht van Onze Minister van Financiën van 20 april 2006, nr. FM 2006-00968M;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet op het financieel toezicht in we
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https:
 
 #### Bepaling ter uitvoering van de [artikelen 5:34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), en [5:35, tweede en vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35)
 
-#### Artikel 2
+##### Artikel 2
 
 Een melding als bedoeld in [artikel 5:34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), of [artikel 5:35, tweede of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35) heeft betrekking op een kalenderkwartaal en vindt plaats binnen acht dagen na afloop van het desbetreffende kalenderkwartaal.
 
@@ -42,7 +68,7 @@ Een melding als bedoeld in [artikel 5:34, tweede lid](https://wetten.overheid.nl
 
 #### Bepalingen ter uitvoering van [artikel 5:37 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:37)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij een melding als bedoeld in [artikel 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34) of [5:35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -76,7 +102,7 @@ Een melding als bedoeld in [artikel 5:34, tweede lid](https://wetten.overheid.nl
 
 - b. indien de wijzigingen zich hebben voorgedaan in een kalendermaand die niet de laatste maand is van het desbetreffende kalenderkwartaal: het aantal en de soort aandelen, bedoeld in [artikel 5:33, eerste lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:33) aan het eind van die kalendermaand.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij een melding als bedoeld in [artikel 5:36 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -98,7 +124,7 @@ Bij een melding als bedoeld in [artikel 5:36 van de wet](https://wetten.overheid
 
 #### Bepalingen ter uitvoering van de [artikelen 5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:44) en [5:48, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48)
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij een melding als bedoeld in [artikel 5:38, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), of [5:39, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -182,7 +208,7 @@ Bij een melding als bedoeld in [artikel 5:36 van de wet](https://wetten.overheid
 
 - g. voor zover [artikel 5:45, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) van toepassing is: de naam van de desbetreffende dochtermaatschappij.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij een melding als bedoeld in [artikel 5:40, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:40) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -224,7 +250,7 @@ Bij een melding als bedoeld in [artikel 5:36 van de wet](https://wetten.overheid
 
 - g. voor zover [artikel 5:45, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) van toepassing is: de naam van de desbetreffende dochtermaatschappij. Indien de aandelen en de daaraan verbonden stemmen worden gehouden door middel van een keten van een of meer dochtermaatschappijen van de desbetreffende dochtermaatschappij vermeldt de meldingsplichtige ook de naam van deze dochtermaatschappij of dochtermaatschappijen.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij een melding als bedoeld in [artikel 5:41](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:41) of [5:42 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:42) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -244,7 +270,7 @@ Bij een melding als bedoeld in [artikel 5:41](https://wetten.overheid.nl/jci1.3:
 
 - h. voor zover [artikel 5:45, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) van toepassing is: de naam van de desbetreffende dochtermaatschappij. Indien de aandelen en de daaraan verbonden stemmen worden gehouden door middel van een keten van een of meer dochtermaatschappijen van de desbetreffende dochtermaatschappij vermeldt de meldingsplichtige ook de naam van deze dochtermaatschappij of dochtermaatschappijen.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:43) verstrekt de meldingsplichtige de volgende gegevens:
 
@@ -270,7 +296,7 @@ Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid
 
 - 2°. het aantal en de soort aandelen en stemmen in de gelieerde uitgevende instellingen waarover hij beschikte op het tijdstip waarop de meldingsplicht is ontstaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij een melding als bedoeld in [artikel 5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) verstrekt de meldingsplichtige, onverminderd de [artikelen 5 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=5&z=2025-01-01&g=2025-01-01), de volgende gegevens:
 
@@ -308,7 +334,7 @@ Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid
 
 #### Bepaling ter uitvoering van [artikel 5:45, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45)
 
-#### Artikel 10
+##### Artikel 10
 
 [Artikel 5:45, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) is niet van toepassing op degene wiens dochtermaatschappij een vermogensbeheerder is, die zijn diensten op het gebied van het beheren van individuele vermogens onafhankelijk verricht van andere door hem verrichte diensten.
 
@@ -316,7 +342,7 @@ Bij een melding als bedoeld in [artikel 5:43 van de wet](https://wetten.overheid
 
 #### Bepaling ter uitvoering van de [artikelen 5:37](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:37), [5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:44) en [5:48, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48)
 
-#### Artikel 11
+##### Artikel 11
 
 De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikelen 5:34](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:34), [5:35](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:35), [5:36](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:36), [5:38 tot en met 5:43](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), of [5:48 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48) of [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8b&z=2025-01-01&g=2025-01-01) of [8d](https://wetten.overheid.nl/jci1.3:c:BWBR0020416&hoofdstuk=3&paragraaf=3.2&artikel=8d&z=2025-01-01&g=2025-01-01) moeten worden verstrekt, worden verstrekt met gebruikmaking van door de Autoriteit Financiële Markten vast te stellen meldingsformulieren.
 
@@ -324,7 +350,7 @@ De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikel
 
 #### Bepaling ter uitvoering van [artikel 5:45, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45)
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ten behoeve van een melding als bedoeld in de [artikelen 5:38, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:38), en [5:39, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:39) wordt het aantal aandelen of het aantal stemmen waarover iemand beschikt berekend op het totale nominale bedrag van de onderliggende aandelen van het financieel instrument, tenzij het financieel instrument uitsluitend recht geeft op een afwikkeling in contanten, in welk geval het aantal aandelen of het aantal stemmen waarover iemand beschikt wordt berekend op naar delta gecorrigeerde basis door het nominale bedrag van de onderliggende aandelen te vermenigvuldigen met de delta van het financieel instrument.
 
@@ -332,17 +358,17 @@ De gegevens die ingevolge dit besluit bij een melding als bedoeld in de [artikel
 
 ### Hoofdstuk 5. Wijze van melden
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in werking treedt.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 
@@ -360,15 +386,15 @@ Vervallen
 
 #### Bepalingen ter uitvoering van de [artikelen 5:44](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:44) en [5:48, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:48)
 
-#### Artikel 5a
+##### Artikel 5a
 
 Een meldingsplichtige behoort uiterlijk twee handelsdagen nadat hij de beschikking heeft verkregen of verloren over aandelen dan wel stemmen te weten dat hij een drempelwaarde bereikt, overschrijdt dan wel onderschrijdt.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De Autoriteit Financiële Markten kan regels stellen met betrekking tot de handelsdagen die gelden op een gereglementeerde markt in Nederland.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. De in [artikel 5:45, elfde lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:45) genoemde gecontroleerde onderneming dient de stemmen die zijn verbonden aan de door haar beheerde aandelen onafhankelijk van haar moedermaatschappij of degene die overwegende zeggenschap over haar kan uitoefenen, te kunnen uitoefenen.
 
@@ -392,11 +418,11 @@ De Autoriteit Financiële Markten kan regels stellen met betrekking tot de hande
 
 - d. zij met de gecontroleerde onderneming is overeengekomen dat zij geen informatie zullen uitwisselen met betrekking tot de uitoefening van de stemrechten die zijn verbonden aan de door de gecontroleerde onderneming beheerde aandelen.
 
-#### Artikel 8c
+##### Artikel 8c
 
 Onder een korte periode als bedoeld in [artikel 5:46, eerste lid, aanhef, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:46) wordt een periode verstaan van ten hoogste drie handelsdagen nadat de beschikking is verkregen of verloren over aandelen en de daaraan verbonden stemmen.
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. Een persoon als bedoeld in [artikel 5:46, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=5:46) meldt onverwijld, indien het aandelen betreft in een naamloze vennootschap naar Nederlands recht waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt of in een rechtspersoon die is opgericht naar het recht van een staat die geen lidstaat is, voor welke rechtspersoon Nederland de lidstaat van herkomst is en waarvan aandelen zijn toegelaten tot de handel op een gereglementeerde markt in Nederland, aan de Autoriteit Financiële Markten dat hij met betrekking tot de desbetreffende uitgevende instelling de werkzaamheden verricht of wil verrichten als bedoeld in de onderdelen c en f van de definitie van het verlenen van een beleggingsdienst in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1).
 

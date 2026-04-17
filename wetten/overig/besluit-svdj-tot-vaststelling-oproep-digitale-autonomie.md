@@ -1,13 +1,39 @@
 ---
-title: "Besluit SVDJ tot vaststelling Oproep Digitale Autonomie"
+title: "Besluit van het Stimuleringsfonds voor de Journalistiek van 1 oktober 2025, nr. INC003, tot vaststelling van een Oproep Digitale Autonomie"
 identifier: "BWBR0051743"
-categorie: "Overig"
-publicatiedatum: 2025-11-14
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051743"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-11-14"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051743"
+soort: "zbo"
+stam_id: "17592803"
+version_id: "31043212"
+internal_id: "C44451521"
+label_id: "17493444"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051743/2025-11-14/0"
+intitule_bron: "Stcrt.2025-38353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-01"
+intitule_published: "2025-11-13"
+intitule_in_force: "2025-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38353"
+original_signed_date: "2025-10-01"
+original_published_date: "2025-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38353"
+entry_into_force_date: "2025-11-14"
+jci_1_3: "jci1.3:c:BWBR0051743&z=2025-11-14&g=2025-11-14"
+jci_1_0: "1.0:c:BWBR0051743&g=2025-11-14"
+citeertitel_status: "redactioneel"
+short_title: "Besluit SVDJ tot vaststelling Oproep Digitale Autonomie"
+signed_date: "2025-10-01"
+entry_into_force: "2025-11-14"
 ---
-
 # Besluit van het Stimuleringsfonds voor de Journalistiek van 1 oktober 2025, nr. INC003, tot vaststelling van een Oproep Digitale Autonomie
 
 Het Stimuleringsfonds voor de Journalistiek,

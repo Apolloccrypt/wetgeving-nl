@@ -1,13 +1,36 @@
 ---
 title: "Onderwijsdeelname leerlingen/studenten met Belgische nationaliteit"
 identifier: "BWBR0012455"
-categorie: "Onderwijs"
-publicatiedatum: 2001-05-16
-laatste_update: 2001-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012455"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-05-16"
+last_updated: "2001-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012455"
+soort: "beleidsregel"
+stam_id: "6450193"
+version_id: "11122872"
+internal_id: "C15038451"
+label_id: "6438934"
+original_entry_into_force: "2001-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012455/2001-05-16/0"
+intitule_bron: "Uitleg.2001-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-03"
+intitule_published: "2001-05-16"
+intitule_in_force: "2001-05-16"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-13"
+original_signed_date: "2001-05-03"
+original_published_date: "2001-05-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-16"
+jci_1_3: "jci1.3:c:BWBR0012455&z=2001-05-16&g=2001-05-16"
+jci_1_0: "1.0:c:BWBR0012455&g=2001-05-16"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-03"
+entry_into_force: "2001-05-16"
 ---
-
 # Onderwijsdeelname leerlingen/studenten met Belgische nationaliteit
 
 ### 1. Inleiding

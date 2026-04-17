@@ -1,13 +1,39 @@
 ---
-title: "Regeling personeel veiligheidsregio’s"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 juni 2010, nr. 2010-0000147401, CZW/WVOB, houdende regels over functies voor het personeel van de veiligheidsregio’s (Regeling personeel veiligheidsregio’s)"
 identifier: "BWBR0027840"
-categorie: "Overig"
-publicatiedatum: 2023-04-25
-laatste_update: 2023-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027840"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-25"
+last_updated: "2023-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027840"
+soort: "ministeriele-regeling"
+stam_id: "10592993"
+version_id: "17494022"
+internal_id: "C24220531"
+label_id: "10567914"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027840/2023-04-25/0"
+intitule_bron: "Stcrt.2010-10340"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-24"
+intitule_published: "2010-07-01"
+intitule_in_force: "2010-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-10340"
+original_signed_date: "2010-06-24"
+original_published_date: "2010-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-10340"
+entry_into_force_date: "2010-10-01"
+jci_1_3: "jci1.3:c:BWBR0027840&z=2023-04-25&g=2023-04-25"
+jci_1_0: "1.0:c:BWBR0027840&g=2023-04-25"
+citeertitel_status: "officieel"
+short_title: "Regeling personeel veiligheidsregio’s"
+signed_date: "2010-06-24"
+entry_into_force: "2010-10-01"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 24 juni 2010, nr. 2010-0000147401, CZW/WVOB, houdende regels over functies voor het personeel van de veiligheidsregio’s (Regeling personeel veiligheidsregio’s)
 
 Gelet op [artikel 2 van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met betrekking tot de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1) en [bijlage 1a bij het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=A&z=2023-04-25&g=2023-04-25).
 
@@ -24,11 +50,11 @@ Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking tr
 
 3. Met betrekking tot de functies, genoemd in [artikel 2, derde lid, van het Besluit personeel veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&artikel=2), zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen, en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=C&z=2023-04-25&g=2023-04-25).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling personeel veiligheidsregio’s.
 

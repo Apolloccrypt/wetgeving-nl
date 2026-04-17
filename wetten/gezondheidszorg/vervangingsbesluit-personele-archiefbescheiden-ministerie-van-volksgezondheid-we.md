@@ -1,13 +1,39 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2018 tot vervanging personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport"
 identifier: "BWBR0041300"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2022-06-04
-laatste_update: 2022-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041300"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-06-04"
+last_updated: "2022-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041300"
+soort: "ministeriele-regeling"
+stam_id: "14716003"
+version_id: "25209392"
+internal_id: "C36042521"
+label_id: "14667954"
+dtd_version: "2.0"
+original_entry_into_force: "2018-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041300/2022-06-04/0"
+intitule_bron: "Stcrt.2018-49331"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-23"
+intitule_published: "2018-08-31"
+intitule_in_force: "2018-08-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-49331"
+original_signed_date: "2018-08-23"
+original_published_date: "2018-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-49331"
+entry_into_force_date: "2018-09-01"
+jci_1_3: "jci1.3:c:BWBR0041300&z=2022-06-04&g=2022-06-04"
+jci_1_0: "1.0:c:BWBR0041300&g=2022-06-04"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport"
+signed_date: "2018-08-23"
+entry_into_force: "2018-09-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 23 augustus 2018 tot vervanging personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport
 
 Gelet op:
@@ -20,19 +46,19 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op archiefbescheiden op papier die behoren of zullen gaan behoren tot de personeelsdossiers van het kerndepartement van het Ministerie van Volksgezondheid en van de diensten, de instellingen en de secretariaten van de raden en commissies, zoals genoemd in het [Organisatiebesluit VWS 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045133). Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle papieren archiefbescheiden die betrekking hebben op de personeelsgegevens en salarisgegevens zoals beschreven in het ‘Basisselectiedocument P-dossier is Mens-en-werk, 1945–’.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale reproductie geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage als ook in het Handboek Digitale Vervanging Personeelsdossiers van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Vervangingsbesluit personele archiefbescheiden Ministerie van Volksgezondheid, Welzijn en Sport.
 

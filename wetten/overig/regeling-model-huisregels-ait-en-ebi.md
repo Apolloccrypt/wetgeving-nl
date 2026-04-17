@@ -1,13 +1,39 @@
 ---
-title: "Regeling model huisregels AIT en EBI"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 september 2025, nr. 5460249 houdende vaststelling van het model huisregels voor de afdeling voor intensief toezicht en de extra beveiligde inrichting"
 identifier: "BWBR0051594"
-categorie: "Overig"
-publicatiedatum: 2025-11-01
-laatste_update: 2025-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051594"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-01"
+last_updated: "2025-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051594"
+soort: "ministeriele-regeling"
+stam_id: "17547233"
+version_id: "30964582"
+internal_id: "C44347851"
+label_id: "17448464"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051594/2025-11-01/0"
+intitule_bron: "Stcrt.2025-34095"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-25"
+intitule_published: "2025-10-09"
+intitule_in_force: "2025-09-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34095"
+original_signed_date: "2025-09-25"
+original_published_date: "2025-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34095"
+entry_into_force_date: "2025-11-01"
+jci_1_3: "jci1.3:c:BWBR0051594&z=2025-11-01&g=2025-11-01"
+jci_1_0: "1.0:c:BWBR0051594&g=2025-11-01"
+citeertitel_status: "officieel"
+short_title: "Regeling model huisregels AIT en EBI"
+signed_date: "2025-09-25"
+entry_into_force: "2025-11-01"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 september 2025, nr. 5460249 houdende vaststelling van het model huisregels voor de afdeling voor intensief toezicht en de extra beveiligde inrichting
 
 Gelet op [artikel 5, eerste lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=5);
@@ -18,27 +44,27 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Penitentiaire beginselenwet (aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 - a. **wet:** [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur van een afdeling voor intensief toezicht of een extra beveiligde inrichting stelt, in aanvulling op de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709) gegeven regels, met inachtneming van het model opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0051594&bijlage=1&z=2025-11-01&g=2025-11-01) en de daarbij gegeven aanwijzingen huisregels voor zijn afdeling of inrichting vast.
 
 2. De directeur stelt de huisregels binnen twee dagen na inwerkingtreding van deze regeling vast.
 
-#### Artikel 3
+##### Artikel 3
 
 De ‘[Regeling model huisregels Extra Beveiligde Inrichting/Afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0047620)’ wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze Regeling treedt in werking op het tijdstip waarop de [wet van 14 juli 2025 houdende wijziging van de Penitentiaire beginselenwet in verband met aanvullende maatregelen tegen georganiseerde criminaliteit tijdens detentie](https://wetten.overheid.nl/jci1.3:c:BWBR0051297) (Stb. 2025, 197) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling model huisregels AIT en EBI.
 

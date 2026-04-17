@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels waarderingskader uitvoering Wet kinderopvang"
 identifier: "BWBR0035594"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-10-01
-laatste_update: 2014-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035594"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-10-01"
+last_updated: "2014-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035594"
+soort: "beleidsregel"
+stam_id: "12806573"
+version_id: "21750512"
+internal_id: "C31218021"
+label_id: "12776464"
+dtd_version: "2.0"
+original_entry_into_force: "2014-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035594/2014-10-01/0"
+intitule_bron: "Stcrt.2014-27763"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-10-01"
+intitule_in_force: "2014-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-27763"
+original_published_date: "2014-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-27763"
+entry_into_force_date: "2014-10-01"
+jci_1_3: "jci1.3:c:BWBR0035594&z=2014-10-01&g=2014-10-01"
+jci_1_0: "1.0:c:BWBR0035594&g=2014-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-10-01"
 ---
-
 # Beleidsregels waarderingskader uitvoering Wet kinderopvang
 
 **Het door de Inspectie van Onderwijs gehanteerde WAARDERINGSKADER**

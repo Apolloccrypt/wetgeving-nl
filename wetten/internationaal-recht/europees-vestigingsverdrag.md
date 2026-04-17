@@ -1,13 +1,35 @@
 ---
 title: "Europees Vestigingsverdrag"
 identifier: "BWBV0005225"
-categorie: "Internationaal recht"
-publicatiedatum: 1969-05-21
-laatste_update: 1969-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005225"
+country: "nl"
+rank: "verdrag"
+publication_date: "1969-05-21"
+last_updated: "1969-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005225"
+soort: "verdrag"
+stam_id: "10004523233"
+version_id: "10004741862"
+internal_id: "C10007022591"
+label_id: "10004509024"
+dtd_version: "2.0"
+original_entry_into_force: "1969-05-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005225/1969-05-21/0"
+intitule_bron: "Trb.1957-20"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1957-02-11"
+intitule_in_force: "1970-04-20"
+intitule_status: "goed"
+original_publication: "Trb.1957-20"
+original_published_date: "1957-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1957-20"
+entry_into_force_date: "1969-05-21"
+jci_1_3: "jci1.3:c:BWBV0005225&z=1969-05-21&g=1969-05-21"
+jci_1_0: "1.0:c:BWBV0005225&g=1969-05-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1969-05-21"
 ---
-
 # Europees Vestigingsverdrag
 
 De Regeringen welke dit Verdrag hebben ondertekend, Leden van de Raad van Europa,
@@ -26,15 +48,15 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. Binnenkomst, verblijf en verwijdering
 
-#### Artikel 1
+##### Artikel 1
 
 Elk der Verdragsluitende Partijen vergemakkelijkt voor onderdanen van de andere Partijen de toegang tot haar grondgebied voor een tijdelijk verblijf, en staat hun toe zich aldaar vrijelijk te verplaatsen, tenzij redenen van openbare orde, nationale veiligheid, volksgezondheid of goede zeden zich daartegen zouden verzetten.
 
-#### Artikel 2
+##### Artikel 2
 
 Onder de in artikel 1 van dit Verdrag vermelde voorwaarden vergemakkelijkt elk der Verdragsluitende Partijen, voor zover zulks verenigbaar is met haar economische en sociale toestand, voor onderdanen van de andere Partijen het voortgezet of duurzaam verblijf op haar grondgebied.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onderdanen van een Verdragsluitende Partij die rechtmatig op het grondgebied van een andere Partij wonen, kunnen slechts worden verwijderd indien zij een gevaar vormen voor de nationale veiligheid of inbreuk maken op de openbare orde of goede zeden.
 
@@ -44,15 +66,15 @@ Onder de in artikel 1 van dit Verdrag vermelde voorwaarden vergemakkelijkt elk d
 
 ### HOOFDSTUK II. Uitoefening van burgerlijke rechten
 
-#### Artikel 4
+##### Artikel 4
 
 Onderdanen van een Verdragsluitende Partij genieten op het grondgebied van een andere Partij een behandeling welke gelijk is aan die welke wordt genoten door onderdanen van laatstgenoemde Partij ten aanzien van het genot van de burgerlijke rechten, hetzij van persoonlijke hetzij van vermogensrechtelijke aard.
 
-#### Artikel 5
+##### Artikel 5
 
 In afwijking van de bepalingen van artikel 4 van dit Verdrag, kan iedere Verdragsluitende Partij, om redenen van nationale veiligheid of verdediging, de verwerving, het bezit of het gebruik van goederen, van welke soort ook, aan haar eigen onderdanen voorbehouden, of onderdanen van andere Partijen aan speciale voorwaarden welke voor vreemdelingen ten aanzien van zodanige goederen gelden, onderwerpen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Afgezien van de gevallen welke betrekking hebben op nationale veiligheid of verdediging
 
@@ -66,17 +88,17 @@ Iedere Partij tracht tevens aan onderdanen van andere Partijen die uitzonderinge
 
 ### HOOFDSTUK III. Gerechtelijke en administratieve garanties
 
-#### Artikel 7
+##### Artikel 7
 
 Onderdanen van een Verdragsluitende Partij genieten op het grondgebied van een andere Partij, onder dezelfde voorwaarden als onderdanen van die andere Partij, volledige wettelijke en gerechtelijke bescherming van persoon en goed en van hun rechten en belangen. In het bijzonder hebben zij, op dezelfde wijze als onderdanen van die andere Partij, het recht zich te wenden tot de bevoegde gerechtelijke en administratieve instanties, en het recht zich te doen bijstaan door ieder persoon te hunner keuze die, volgens de wetten van het land, daartoe bevoegd is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onderdanen van een Verdragsluitende Partij hebben, op het grondgebied van een andere Partij, recht op kosteloze rechtsbijstand onder dezelfde voorwaarden als onderdanen van die andere Partij.
 
 2. Behoeftige onderdanen van een Verdragsluitende Partij hebben, op het grondgebied van een andere Verdragsluitende Partij, er recht op dat uittreksels uit akten van de burgerlijke stand kosteloos aan hen worden verstrekt, voor zover dergelijke uittreksels kosteloos worden verstrekt aan behoeftige onderdanen van die andere Verdragsluitende Partij.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Geen zekerheidstelling of dépôt, onder welke benaming ook, kan op grond hetzij van hun hoedanigheid van vreemdelingen, hetzij van gemis van domicilie of verblijfplaats in het land, worden gevorderd van onderdanen van een der Verdragsluitende Partijen, die hun domicilie of gewoon verblijf op het grondgebied van een van die Partijen hebben, wanneer zij als eisers of tussenkomende partijen voor de rechtbanken van een ander van die Partijen optreden.
 
@@ -86,15 +108,15 @@ Onderdanen van een Verdragsluitende Partij genieten op het grondgebied van een a
 
 ### HOOFDSTUK IV. Uitoefening van op winst gerichte activiteit
 
-#### Artikel 10
+##### Artikel 10
 
 Iedere Verdragsluitende Partij machtigt onderdanen van de andere Partijen tot het op haar grondgebied uitoefenen van op winst gerichte activiteit op voet van gelijkheid met haar eigen onderdanen, tenzij genoemde Verdragsluitende Partij ernstige economische of sociale redenen heeft om deze machtiging niet te verlenen. Deze bepaling is van toepassing op, doch niet beperkt tot, industriële, commerciële, financiële en agrarische activiteiten, ambachten en de vrije beroepen, ongeacht het feit of de betrokken persoon voor eigen rekening werkt of in dienst is van een werkgever.
 
-#### Artikel 11
+##### Artikel 11
 
 Onderdanen van een Verdragsluitende Partij aan wie door een andere Partij is toegestaan gedurende een bepaalde periode een op winst gerichte activiteit uit te oefenen, mogen, gedurende die periode, niet worden onderworpen aan beperkingen waarin op het ogenblik waarop de machtiging aan hen werd verleend niet was voorzien, tenzij zodanige beperkingen onder gelijke omstandigheden eveneens van toepassing zijn op onderdanen van die andere Partij.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onderdanen van een Verdragsluitende Partij die rechtmatig op het grondgebied van enige andere Partij wonen, zijn, zonder te worden onderworpen aan de in artikel 10 van dit Verdrag bedoelde beperkingen, gemachtigd enigerlei op winst gerichte activiteit uit te oefenen op voet van gelijkheid met onderdanen van de andere Partij, mits zij voldoen aan een van de hiernavolgende voorwaarden:
 
@@ -108,11 +130,11 @@ Iedere Verdragsluitende Partij kan, op het ogenblik van ondertekening of van ned
 
 2. Zij kan tevens, overeenkomstig bovenstaande procedure, het in lid 1 **(a)** van dit artikel bepaalde tijdvak uitbreiden tot ten hoogste tien jaar met dien verstande dat na afloop van het eerste tijdvak van vijf jaar verlenging van de machtiging in geen geval kan worden geweigerd ten aanzien van de tot op dat ogenblik uitgeoefende activiteit. Een dergelijke verlenging mag eveneens niet afhankelijk worden gesteld van enige verandering van die activiteit. Zij kan tevens verklaren, dat zij niet in alle gevallen automatisch het recht zal verlenen van een dienstbetrekking over te gaan tot het uitoefenen van een zelfstandige activiteit.
 
-#### Artikel 13
+##### Artikel 13
 
 Iedere Verdragsluitende Partij kan aan haar eigen onderdanen de uitoefening voorbehouden van openbare ambten of activiteiten welke verband houden met nationale veiligheid of verdediging, dan wel de uitoefening van deze activiteiten door vreemdelingen aan speciale voorwaarden onderwerpen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Afgezien van de in artikel 13 van dit Verdrag genoemde onderwerpen
 
@@ -126,17 +148,17 @@ Iedere Verdragsluitende Partij kan aan haar eigen onderdanen de uitoefening voor
 
 - -. in individuele gevallen vrijstelling van de van kracht zijnde bepalingen toe te staan, voor zover haar wetten daarin voorzien.
 
-#### Artikel 15
+##### Artikel 15
 
 De uitoefening door onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Partij van een activiteit waarvoor onderdanen van die andere Partij een bewijs van vak- of technische bekwaamheid moeten bezitten of waarborgen moeten verstrekken, wordt afhankelijk gesteld van het verstrekken van dezelfde waarborgen of het bezit van dezelfde bewijzen van bekwaamheid of andere welke, volgens het oordeel van de bevoegde nationale autoriteit, daaraan gelijkwaardig zijn.
 
 Onderdanen van de Verdragsluitende Partijen die rechtmatig hun beroep uitoefenen op het grondgebied van een Partij kunnen echter door een van hun collega's naar het grondgebied van een andere Partij worden geroepen ten einde in een bepaald geval bijstand te verlenen.
 
-#### Artikel 16
+##### Artikel 16
 
 Handelsreizigers die onderdanen zijn van een Verdragsluitende Partij en in dienst zijn van een onderneming wier voornaamste centrum van werkzaamheden ligt op het grondgebied van een Verdragsluitende Partij, hebben geen enkele machtiging nodig ten einde hun beroep op het grondgebied van een andere Partij uit te oefenen mits zij daar per half jaar niet langer dan twee maanden verblijven.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onderdanen van een Verdragsluitende Partij genieten op het grondgebied van een andere Partij ten aanzien van wettelijke, door een openbare instantie vastgestelde regelingen inzake lonen en arbeidsvoorwaarden in het algemeen, een behandeling welke niet minder gunstig is dan die welke wordt genoten door onderdanen van die andere Partij.
 
@@ -144,37 +166,37 @@ Handelsreizigers die onderdanen zijn van een Verdragsluitende Partij en in diens
 
 ### HOOFDSTUK V. Individuele rechten
 
-#### Artikel 18
+##### Artikel 18
 
 Een Verdragsluitende Partij mag onderdanen van een andere Partij, die tenminste vijf jaar op het grondgebied van eerstgenoemde Partij rechtmatig een daarvoor geëigend beroep hebben uitgeoefend, niet verbieden onder dezelfde voorwaarden als haar eigen onderdanen in de hoedanigheid van kiesman deel te nemen aan verkiezingen welke worden gehouden door economische of beroepslichamen of -organisaties, zoals Kamers van Koophandel of Landbouwverenigingen of Beroepsbonden, met inachtneming van de beslissingen welke zulke lichamen of organisaties in dit opzicht binnen de grenzen van hun bevoegdheid kunnen nemen.
 
-#### Artikel 19
+##### Artikel 19
 
 Het is onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Partij toegestaan, zonder enige andere beperkingen dan die welke van toepassing zijn op onderdanen van laatstgenoemde Partij, als scheidsmannen op te treden in scheidsrechterrijke procedures waarin de keuze van de scheidsmannen geheel aan de betrokken partijen is overgelaten.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor zover de toelating tot het onderwijs is overgelaten aan de bevoegdheid van de Staat, worden onderdanen van iedere Verdragsluitende Partij die de schoolgaande leeftijd hebben en rechtmatig op het grondgebied van enige andere Partij wonen, onder dezelfde voorwaarden als onderdanen van laatstgenoemde Partij toegelaten tot instellingen voor lager en middelbaar onderwijs en technisch en vakonderwijs. De toepassing van deze bepaling op het verstrekken van studiebeurzen wordt aan de beslissing van ieder der Partijen overgelaten. Voor onderdanen van schoolgaande leeftijd die op het grondgebied van een andere Verdragsluitende Partij wonen bestaat leerplicht indien er ook leerplicht bestaat voor onderdanen van laatstgenoemde Partij.
 
 ### HOOFDSTUK VI. Belastingheffing, burgerlijke dienstplicht, onteigening, nationalisatie
 
-#### Artikel 21
+##### Artikel 21
 
 1. Onder voorbehoud van de bepalingen inzake dubbele belasting vervat in reeds gesloten of nog te sluiten overeenkomsten, worden onderdanen van een Verdragsluitende Partij op het grondgebied van een andere Verdragsluitende Partij niet onderworpen aan andere, hogere of drukkender rechten, heffingen, belastingen of bijdragen, hoe ook genaamd, dan die welke onder soortgelijke omstandigheden van onderdanen van laatstgenoemde Partij worden gevorderd; zij hebben in het bijzonder recht op verminderingen of vrijstellingen van belastingen of heffingen en op alle aftrekken met inbegrip van aftrekken voor gezinsleden.
 
 2. Een Verdragsluitende Partij legt aan onderdanen van een andere Partij geen verblijfsbelasting op welke niet van haar eigen onderdanen wordt geëist. Deze bepaling verhindert echter niet dat in daarvoor in aanmerking komende gevallen heffingen worden gevorderd welke verband houden met administratieve formaliteiten zoals de afgifte van vergunningen en machtigingen welker bezit voor vreemdelingen is vereist, met dien verstande echter dat die heffingen niet hoger mogen zijn dan de aan zodanige formaliteiten verbonden kosten.
 
-#### Artikel 22
+##### Artikel 22
 
 Onderdanen van een Verdragsluitende Partij kunnen in geen geval worden verplicht op het grondgebied van een andere Partij andere of drukkender burgerlijke diensten te verrichten - hetzij van persoonlijke hetzij van vermogensrechtelijke aard - dan die welke worden geëist van onderdanen van laatstgenoemde Partij.
 
-#### Artikel 23
+##### Artikel 23
 
 Onverminderd de bepalingen van artikel 1 van het Protocol bij het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, hebben onderdanen van iedere Verdragsluitende Partij, in het geval van onteigening of nationalisatie van hun eigendom door een andere Partij, recht op een behandeling die tenminste even gunstig is als de behandeling van onderdanen van die andere Partij.
 
 ### HOOFDSTUK VII. Permanente Commissie
 
-#### Artikel 24
+##### Artikel 24
 
 1. Binnen een jaar na de inwerkingtreding van dit Verdrag wordt een Permanente Commissie ingesteld. Deze Commissie doet alle voorstellen welke erop zijn gericht de tenuitvoerlegging van het Verdrag in de praktijk te verbeteren en, indien zulks noodzakelijk is, zijn bepalingen te wijzigen of aan te vullen.
 
@@ -194,11 +216,11 @@ De eerste zitting vindt plaats binnen drie maanden na de datum van instelling. D
 
 ### HOOFDSTUK VIII. Algemene bepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 De bepalingen van dit Verdrag laten onverlet de bepalingen van de nationale wetgevingen, bilaterale of multilaterale verdragen of overeenkomsten welke van kracht zijn of van kracht kunnen worden en krachtens welke een gunstiger behandeling zou worden toegekend aan onderdanen van een of meer andere Verdragsluitende Partijen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ieder Lid van de Raad van Europa kan, op het ogenblik waarop het dit Verdrag ondertekent of waarop het zijn akte van bekrachtiging nederlegt, een voorbehoud maken ten aanzien van enigerlei afzonderlijke bepaling van het Verdrag voor zover een op dat ogenblik op zijn grondgebied van kracht zijnde wet niet in overeenstemming is met bedoelde bepaling. Voorbehouden van algemene aard zijn krachtens de bepalingen van dit artikel niet toegestaan.
 
@@ -206,11 +228,11 @@ De bepalingen van dit Verdrag laten onverlet de bepalingen van de nationale wetg
 
 3. Ieder Lid van de Raad dat krachtens de bepalingen van dit artikel een voorbehoud maakt, trekt dit voorbehoud in zodra de omstandigheden dit veroorloven. Een zodanige intrekking geschiedt door middel van een aan de Secretaris-Generaal van de Raad gerichte mededeling en wordt van kracht op de datum van ontvangst van een zodanige mededeling. De Secretaris-Generaal doet aan alle Regeringen die dit Verdrag ondertekenen, de tekst van deze mededeling toekomen.
 
-#### Artikel 27
+##### Artikel 27
 
 Een Verdragsluitende Partij die in overeenstemming met de bepalingen van artikel 26 van dit Verdrag een voorbehoud heeft gemaakt ten aanzien van een afzonderlijke bepaling van het Verdrag, kan niet eisen dat bedoelde bepaling door een andere Partij wordt toegepast, behalve voor zover zij zelf de bepaling heeft aanvaard.
 
-#### Artikel 28
+##### Artikel 28
 
 1. In tijd van oorlog of in geval van een andere algemene noodtoestand welke het bestaan van de natie bedreigt, kan iedere Verdragsluitende Partij maatregelen nemen welke afwijken van haar verplichtingen krachtens dit Verdrag in de mate waarin de toestand zulks absoluut vereist en onder voorbehoud dat zulke maatregelen niet in strijd zijn met haar andere verplichtingen krachtens het internationale recht.
 
@@ -218,7 +240,7 @@ Een Verdragsluitende Partij die in overeenstemming met de bepalingen van artikel
 
 ### HOOFDSTUK IX. Werkingssfeer van het Verdrag
 
-#### Artikel 29
+##### Artikel 29
 
 1. Dit Verdrag is van toepassing op het grondgebied van het moederland van de Verdragsluitende Partijen.
 
@@ -228,7 +250,7 @@ Een Verdragsluitende Partij die in overeenstemming met de bepalingen van artikel
 
 4. De Secretaris-Generaal doet aan de andere Leden van de Raad mededeling van iedere in overeenstemming met lid 2 en lid 3 van dit artikel hem toegezonden verklaring.
 
-#### Artikel 30
+##### Artikel 30
 
 1. In dit Verdrag betekent „onderdanen”, natuurlijke personen die de nationaliteit van een van de Verdragsluitende Partijen bezitten.
 
@@ -236,7 +258,7 @@ Een Verdragsluitende Partij die in overeenstemming met de bepalingen van artikel
 
 ### HOOFDSTUK X. Beslechting van geschillen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Ieder geschil dat tussen de Verdragsluitende Partijen zou kunnen rijzen ten aanzien van de uitlegging of toepassing van dit Verdrag wordt, ingevolge speciale overeenstemming of op aanvraag van een der bij het geschil betrokken partijen, voorgelegd aan het Internationale Gerechtshof, tenzij partijen overeenstemming bereiken over een andere wijze van vreedzame beslechting.
 
@@ -248,11 +270,11 @@ Een Verdragsluitende Partij die in overeenstemming met de bepalingen van artikel
 
 ### HOOFDSTUK XI. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Verdrag.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een Verdragsluitende Partij kan dit Verdrag slechts opzeggen na verloop van een tijdvak van vijf jaar, te rekenen van de datum waarop dit Verdrag te haren opzichte in werking treedt, na het zes maanden van te voren te hebben opgezegd door middel van een schriftelijke mededeling gericht aan de Secretaris-Generaal van de Raad van Europa, die zulks aan de andere Partijen mededeelt. Een Partij die niet op deze wijze gebruik maakt van het recht van opzegging blijft daarna gebonden voor verdere tijdvakken van twee jaar en kan dit Verdrag slechts opzeggen tegen de afloop van een zodanig tijdvak, na zes maanden van te voren schriftelijk te hebben opgezegd.
 
@@ -260,7 +282,7 @@ Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Ve
 
 3. Onder dezelfde voorwaarden houdt iedere Verdragsluitende Partij die ophoudt Lid te zijn van de Raad van Europa, op Partij te zijn bij dit Verdrag.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Dit Verdrag staat open ter ondertekening door de Leden van de Raad van Europa. Het zal worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -272,7 +294,7 @@ Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Ve
 
 ### AFDELING I
 
-#### Artikelen 1, 2, 3, 5, 6, lid 1 (b), 10, 13 en 14, lid 1 (b)
+##### Artikelen 1, 2, 3, 5, 6, lid 1 (b), 10, 13 en 14, lid 1 (b)
 
 - (a). Iedere Verdragsluitende Partij heeft het recht, nationale criteria aan te leggen bij de beoordeling van:
 
@@ -290,7 +312,7 @@ Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Ve
 
 ### AFDELING II
 
-#### Artikelen 1, 2, 3, 10, 11, 12, 13, 14, 15, 16, 17 en 20
+##### Artikelen 1, 2, 3, 10, 11, 12, 13, 14, 15, 16, 17 en 20
 
 - (a). De voorschriften welke de toegang, het verblijf en het zich verplaatsen van vreemdelingen, alsmede hun recht om op winst gerichte activiteit uit te oefenen, regelen worden door dit Verdrag niet aangetast voor zover ze er niet mede in strijd zijn.
 
@@ -298,7 +320,7 @@ Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Ve
 
 ### AFDELING III
 
-#### Artikelen 1, 2 en 3
+##### Artikelen 1, 2 en 3
 
 - (a). Het begrip „openbare orde” dient te worden opgevat in de ruime betekenis die daaraan in de landen van het vasteland van Europa algemeen wordt gegeven. Een Verdragsluitende Partij kan een onderdaan van een andere Partij bijvoorbeeld toegang weigeren om politieke redenen, of indien er gronden zijn om aan te nemen dat hij niet in staat is de kosten van zijn verblijf te betalen of dat hij van plan is zonder de nodige vergunningen op winst gerichte activiteit uit te oefenen.
 
@@ -308,13 +330,13 @@ Het aan dit Verdrag gehechte Protocol vormt een integrerend onderdeel van het Ve
 
 ### AFDELING IV
 
-#### Artikelen 8 en 9
+##### Artikelen 8 en 9
 
 De artikelen 8 en 9 van dit Verdrag tasten op geen enkele wijze de verplichtingen aan welke zijn aangegaan krachtens de bepalingen van het te 's-Gravenhage gesloten [Verdrag betreffende de burgerlijke rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBV0002016).
 
 ### AFDELING V
 
-#### Artikelen 10, 11, 12, 13, 14, 15, 16 en 17
+##### Artikelen 10, 11, 12, 13, 14, 15, 16 en 17
 
 - (a). De bepalingen van de artikelen 10, 11, 12, 13, 14, 15, 16 en 17 van dit Verdrag worden toegepast met inachtneming van de in de artikelen 1 en 2 neergelegde voorwaarden met betrekking tot toegang en wonen.
 
@@ -330,7 +352,7 @@ De artikelen 8 en 9 van dit Verdrag tasten op geen enkele wijze de verplichtinge
 
 ### AFDELING VI
 
-#### Artikelen 2, 11, 12, 13, 14, 15, 16, 17 en 25
+##### Artikelen 2, 11, 12, 13, 14, 15, 16, 17 en 25
 
 - (a). Het is welverstaan, dat dit Verdrag niet van toepassing is op industriële eigendom, auteursrecht en kwekersrechten, daar de regeling van deze onderwerpen is voorbehouden aan de daarop betrekking hebbende internationale verdragen of andere internationale overeenkomsten welke reeds in werking zijn getreden of nog in werking zullen treden.
 
@@ -338,29 +360,29 @@ De artikelen 8 en 9 van dit Verdrag tasten op geen enkele wijze de verplichtinge
 
 ### AFDELING VII
 
-#### Artikel 26, lid 1
+##### Artikel 26, lid 1
 
 De Verdragsluitende Partijen maken van hun recht tot het maken van voorbehouden slechts gebruik voor zover zij van oordeel zijn dat bepalingen van hun nationale wetgeving van overwegend belang zulks vereisen.
 
 ### AFDELING VIII
 
-#### Artikel 29, lid 1
+##### Artikel 29, lid 1
 
 - (a). Voor wat betreft Frankrijk is dit Verdrag eveneens van toepassing op Algerië en de overzeese departementen.
 
 - (b). De Bondsrepubliek Duitsland kan de toepassing van dit Verdrag uitbreiden tot het „Land” Berlijn door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring. De Secretaris-Generaal doet daarvan mededeling aan de andere Verdragsluitende Partijen.
 
-#### Artikel 29, lid 2
+##### Artikel 29, lid 2
 
 Ieder Lid van de Raad van Europa dat een verklaring aflegt in overeenstemming met de bepalingen van artikel 29, lid 2, van dit Verdrag, doet tegelijkertijd ten aanzien van de in zodanige verklaring genoemde gebieden aan de Secretaris-Generaal van de Raad de lijsten met beperkingen toekomen als bedoeld in artikel 6, lid 1, en artikel 14, lid 1; het doet tevens mededeling van iedere in overeenstemming met de bepalingen van artikel 12 afgelegde verklaring en van ieder in overeenstemming met de bepalingen van artikel 26 van dit Verdrag gemaakt voorbehoud.
 
-#### Artikel 30
+##### Artikel 30
 
 De uitdrukking „gewoon verblijf” wordt uitgelegd volgens de in het land waarvan de betrokken persoon onderdaan is geldende regelingen.
 
 ### AFDELING IX
 
-#### Artikel 31, lid 1
+##### Artikel 31, lid 1
 
 Verdragsluitende Partijen die geen partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) nemen de nodige stappen om toegang tot het Hof te verkrijgen.
 

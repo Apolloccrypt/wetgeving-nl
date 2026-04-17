@@ -1,13 +1,35 @@
 ---
-title: "Besluit oude eigendoms- en huurscholen WPO"
+title: "Besluit van 7 juli 1987, houdende regels inzake de vergoeding voor en de buitengebruikstelling van oude eigendoms- en huurscholen"
 identifier: "BWBR0004190"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2006-03-08
-laatste_update: 2006-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004190"
+country: "nl"
+rank: "amvb"
+publication_date: "2006-03-08"
+last_updated: "2006-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004190"
+soort: "AMvB"
+stam_id: "800053"
+version_id: "1160822"
+internal_id: "C1160821"
+label_id: "775434"
+dtd_version: "2.0"
+original_entry_into_force: "1986-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004190/2006-03-08/0"
+intitule_bron: "Stb.1987-353"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-07-07"
+intitule_status: "goed"
+original_publication: "Stb.1987-353"
+original_signed_date: "1987-07-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-01-01"
+jci_1_3: "jci1.3:c:BWBR0004190&z=2006-03-08&g=2006-03-08"
+jci_1_0: "1.0:c:BWBR0004190&g=2006-03-08"
+citeertitel_status: "officieel"
+short_title: "Besluit oude eigendoms- en huurscholen WPO"
+signed_date: "1987-07-07"
+entry_into_force: "1986-01-01"
 ---
-
 # Besluit van 7 juli 1987, houdende regels inzake de vergoeding voor en de buitengebruikstelling van oude eigendoms- en huurscholen
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen van 9 maart 1987, nr. 8551/2353, centrale directie Wetgeving en Juridische Zaken;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -36,15 +58,15 @@ school: basisschool;
 
 bevoegd gezag: de rechtspersoon die een bijzondere school in stand houdt.
 
-#### Artikel 2. Geschillenregeling
+##### Artikel 2. Geschillenregeling
 
 Voor zover niet anders bepaald, worden geschillen tussen de gemeente en het bevoegd gezag over de toepassing van het bepaalde in de [afdelingen II](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&z=2006-03-08&g=2006-03-08) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=III&z=2006-03-08&g=2006-03-08) onderworpen aan de beslissing van gedeputeerde staten.
 
-#### Artikel 3. Commissie van schatters
+##### Artikel 3. Commissie van schatters
 
 Schattingen welke ingevolge dit besluit dienen plaats te vinden, geschieden door een commissie van drie deskundigen van wie er één wordt benoemd door de Onderwijsraad, één door burgemeester en wethouders en één door het bevoegd gezag. De commissie van schatters beslist bij meerderheid van stemmen. Indien geen meerderheid wordt verkregen, wordt de waarde bepaald op het gemiddelde van de drie schattingsopgaven. Afschrift van de beslissing wordt gezonden aan het college van burgemeester en wethouders en aan het bevoegd gezag. De kosten van de schattingen komen ten laste van de gemeente.
 
-#### Artikel 4. Niet meer verschuldigde vergoeding
+##### Artikel 4. Niet meer verschuldigde vergoeding
 
 De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&z=2006-03-08&g=2006-03-08), zijn niet langer verschuldigd wanneer de gemeente de eigendom van het gebouw en terrein verkrijgt of wanneer het gebouw en terrein niet meer door een basisschool worden gebruikt.
 
@@ -52,7 +74,7 @@ De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 1. Eigendomsscholen als bedoeld in artikel 205 van de Lager-onderwijswet 1920 (Stb. 1974, 565)
 
-#### Artikel 5. Vergoeding
+##### Artikel 5. Vergoeding
 
 1. Voor de gebouwen en terreinen die eigendom zijn van het bevoegd gezag en op 1 januari 1921 in gebruik of in aanbouw waren, betaalt de gemeente jaarlijks aan het desbetreffende bevoegd gezag een vergoeding, berekend over de geschatte waarde van de gebouwen, terreinen en het meubilair. De vergoeding wordt op gelijke wijze uitbetaald aan een bevoegd gezag dat na 1 januari 1921 de eigendom van gebouwen en terreinen van een bijzondere school die op 1 januari 1921 in gebruik of in aanbouw waren, heeft verkregen of verkrijgt.
 
@@ -62,35 +84,35 @@ De vergoedingen, bedoeld in [afdeling II](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Voor de toepassing van dit artikel worden onder gebouwen en terreinen van een bijzondere school in aanbouw verstaan, de gebouwen en terreinen van een bijzondere school waarvan de ontwerpen voor 1 januari 1921 overeenkomstig artikel 1 van het koninklijk besluit van 25 juni 1912 (**Stb.** 193) bij het rijksschooltoezicht werden ingediend en die voor 1 juli 1923 zijn voltooid.
 
-#### Artikel 6. Hoogte vergoeding
+##### Artikel 6. Hoogte vergoeding
 
 1. De vergoeding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), bedraagt 5 percent van de geschatte waarde.
 
 2. Het college van burgemeester en wethouders kan, op verzoek van het bevoegd gezag, bepalen dat in verband met de op het bevoegd gezag rustende geldelijke verplichtingen, gedurende een door hem vast te stellen termijn de vergoeding naar een hoger percentage zal worden berekend.
 
-#### Artikel 7. Gebouwen niet uitsluitend bestemd voor basisonderwijs
+##### Artikel 7. Gebouwen niet uitsluitend bestemd voor basisonderwijs
 
 1. Voor gebouwen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), die niet uitsluitend voor een basisschool bestemd zijn, wordt als grondslag voor de schatting, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), genomen het bedrag dat in de gemeente waar het gebouw is gelegen, de bouw en de eerste inrichting met inbegrip van het meubilair zouden kosten van een school, bestemd voor zoveel leerlingen als op 1 januari 1921 op de desbetreffende bijzondere school waren ingeschreven, op het tijdstip bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08).
 
 2. Voor de gebouwen, bedoeld in het eerste lid, wordt de vergoeding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), berekend over 80 percent van het met inachtneming van het eerste lid geschatte bedrag.
 
-#### Artikel 8. Vermindering van de vergoeding
+##### Artikel 8. Vermindering van de vergoeding
 
 1. Indien voor de aanbouw van nieuwe lokalen gebruik wordt gemaakt van een gedeelte van de gebouwen of terreinen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=7&z=2006-03-08&g=2006-03-08), of indien overeenkomstig [artikel 110 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=110) is vastgesteld dat een gedeelte van die gebouwen of terreinen ten gevolge van het in gebruik nemen van nieuwe of andere lokalen blijvend niet meer voor de school wordt gebruikt, wordt de geschatte waarde, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), verminderd met de geschatte waarde van de niet meer gebruikte lokalen en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding is verschuldigd vanaf het moment waarop de lokalen buiten gebruik zijn gesteld.
 
 2. Indien het meubilair in gebouwen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=7&z=2006-03-08&g=2006-03-08), wordt vervangen, wordt de geschatte waarde, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), verminderd met het bedrag waarop de waarde van het oude meubilair was bepaald en wordt over het verschil de vergoeding opnieuw berekend. De nieuw berekende vergoeding is verschuldigd vanaf het moment van ingebruikname van het nieuwe meubilair.
 
-#### Artikel 9. Vermindering vergoeding bij langdurig niet gebruiken
+##### Artikel 9. Vermindering vergoeding bij langdurig niet gebruiken
 
 1. Indien een gedeelte van de gebouwen en terreinen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=7&z=2006-03-08&g=2006-03-08), langer dan zes jaar buiten gebruik is gebleven, wordt, zolang dat gedeelte buiten gebruik is, de hiervoor verstrekte vergoeding in mindering gebracht op de ingevolge de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=7&z=2006-03-08&g=2006-03-08) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=8&z=2006-03-08&g=2006-03-08) vastgestelde vergoeding.
 
 2. De vaststelling van de in het eerste lid bedoelde vermindering van vergoeding vindt plaats met inachtneming van de geschatte waarde van het buiten gebruik gebleven gedeelte van de gebouwen en terreinen.
 
-#### Artikel 10. Buitengebruikstelling gebouw of terrein van een bijzondere school
+##### Artikel 10. Buitengebruikstelling gebouw of terrein van een bijzondere school
 
 Vervallen
 
-#### Artikel 11. Vervreemding en buitengebruikstelling
+##### Artikel 11. Vervreemding en buitengebruikstelling
 
 1. Wanneer de gebouwen en terreinen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=7&z=2006-03-08&g=2006-03-08), worden vervreemd, of zodra voor die gebouwen en terreinen overeenkomstig [artikel 110 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=110) is vastgesteld dat zij blijvend niet meer voor het onderwijs aan de school worden gebruikt, betaalt het bevoegd gezag aan de gemeente terug het bedrag dat de gemeente aan uitbreiding, verbouwing of vernieuwing van gebouwen en terreinen op grond van de bepalingen van de Lager-onderwijswet 1920 heeft uitgegeven, verminderd, behoudens voor zover het betreft door de gemeente bekostigde grond, met 2 percent voor wat betreft de uitbreiding en met 5 percent voor wat betreft de verbouwing of de vernieuwing, voor elk vol jaar dat is verstreken sedert het tijdstip waarop de uitgaven plaats hadden. De terugbetaling kan in termijnen plaatsvinden.
 
@@ -104,7 +126,7 @@ Vervallen
 
 #### § 2. Eigendomsscholen als bedoeld in artikel 126 van de Kleuteronderwijswet (Stb. 1974, 564)
 
-#### Artikel 12. Vergoeding
+##### Artikel 12. Vergoeding
 
 Voor de gebouwen of lokalen en inventaris, bedoeld in artikel 126 van de Kleuteronderwijswet, die eigendom zijn van een bevoegd gezag en die niet met overheidsgelden door het bevoegd gezag tot stand zijn gebracht, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding die strekt ter bestrijding van de kosten voor:
 
@@ -118,17 +140,17 @@ Voor de gebouwen of lokalen en inventaris, bedoeld in artikel 126 van de Kleuter
 
 - e. het verzekeren van de gebouwen.
 
-#### Artikel 13. Vermindering vergoeding
+##### Artikel 13. Vermindering vergoeding
 
 1. Indien de gemeente op enigerlei wijze in de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=2&artikel=12&z=2006-03-08&g=2006-03-08) bedoelde kosten heeft bijgedragen of indien het bevoegd gezag direct of indirect uit publieke middelen gelden heeft verkregen of in verband met de gevolgen van de stormvloed van 31 januari - 1 februari 1953 een of meer giften heeft ontvangen om de school te bouwen of te herstellen, wordt de vergoeding in overeenstemming tussen burgemeester en wethouders en het bevoegd gezag naar de mate, waarin de kosten ten laste van dat bevoegd gezag zijn gebleven, bepaald.
 
 2. De vergoeding kan in overeenstemming tussen burgemeester en wethouders en het bevoegd gezag eveneens lager worden gesteld, indien een school buiten de schooltijden voor andere doeleinden wordt gebruikt of indien de vergoeding, gelet op de ouderdom van het gebouw en de toestand waarin het verkeert, onevenredig hoog moet worden geacht.
 
-#### Artikel 14. Buitengebruikstelling gebouw of terrein van een bijzondere school
+##### Artikel 14. Buitengebruikstelling gebouw of terrein van een bijzondere school
 
 Vervallen
 
-#### Artikel 15. Vervreemding en buitengebruikstelling
+##### Artikel 15. Vervreemding en buitengebruikstelling
 
 1. Wanneer de gebouwen en terreinen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=2&artikel=12&z=2006-03-08&g=2006-03-08), worden vervreemd of zodra voor die gebouwen en terreinen overeenkomstig [artikel 110 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=110) is vastgesteld dat zij blijvend niet meer voor het onderwijs aan de school worden gebruikt, betaalt het bevoegd gezag aan de gemeente terug het bedrag, dat de gemeente voor stichting, uitbreiding, verbouwing, herstel, voor zover niet gewoon onderhoud betreffende, of verandering van inrichting van het gebouw op grond van de bepalingen van de Kleuteronderwijswet heeft uitgegeven, verminderd, behoudens voor zover het betreft door de gemeente bekostigde grond, met 2 percent voor wat betreft de stichting en uitbreiding met een of meer lokalen, en met 5 percent voor wat betreft verbouwing, herstel en verandering van inrichting, voor elk vol jaar dat is verstreken sedert het tijdstip waarop de uitgaven plaats hadden. De terugbetaling kan in termijnen plaatsvinden.
 
@@ -144,23 +166,23 @@ Vervallen
 
 #### § 1. Scholen als bedoeld in de artikelen 84 en 205bis van de Lager-onderwijswet 1920
 
-#### Artikel 16. Vergoeding
+##### Artikel 16. Vergoeding
 
 1. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 84 van de Lager-onderwijswet 1920, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding, berekend over de geschatte waarde van de lokalen, terreinen en het meubilair. De berekening, bedoeld in de eerste volzin, geschiedt naar de maatstaf van het tarief, dat door Onze Minister van Financiën wordt gehanteerd per ultimo van een kalenderjaar voor het afsluiten van 40-jarige onderhandse leningen onder garantie van de Staat der Nederlanden.
 
 2. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 205**bis** van de Lager-onderwijswet 1920, betaalt de gemeente aan het bevoegd gezag de verschuldigde en betaalde huur. Indien burgemeester en wethouders bezwaar hebben tegen de hoogte van de huursom, brengen zij die som terug tot het bedrag dat naar hun oordeel met de normale huurwaarde overeenkomt. In geval van verschil wordt dit bedrag geschat op de wijze, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=5&z=2006-03-08&g=2006-03-08). Wanneer door de gemeente de huur wordt vergoed, blijven voor de toepassing van [artikel 134 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=134) de kosten van gebouwonderhoud buiten aanmerking.
 
-#### Artikel 17. Herschatting
+##### Artikel 17. Herschatting
 
 Bij vermeerdering of vermindering van de lokalen en terreinen, bij uitbreiding, verbouwing, herstel, voor zover niet gewoon onderhoud betreffende, verandering van inrichting en bij aanschaffing van meubilair en onderwijsleerpakketten vindt wederom schatting plaats.
 
 #### § 2. Scholen als bedoeld in de artikelen 62 en 127 van de Kleuteronderwijswet
 
-#### Artikel 18. Vergoeding
+##### Artikel 18. Vergoeding
 
 Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 62 van de Kleuteronderwijswet, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding, berekend over de geschatte waarde van de lokalen, terreinen en het meubilair. De berekening, bedoeld in de eerste volzin, geschiedt naar de maatstaf van het tarief, dat door Onze Minister van Financiën wordt gehanteerd per ultimo van een kalenderjaar voor het afsluiten van 40-jarige onderhandse leningen onder garantie van de Staat der Nederlanden.
 
-#### Artikel 19. Vergoeding van huur
+##### Artikel 19. Vergoeding van huur
 
 1. Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond van artikel 127 van de Kleuteronderwijswet, betaalt de gemeente jaarlijks aan het bevoegd gezag een vergoeding, berekend over de verschuldigde en betaalde huur.
 
@@ -170,33 +192,33 @@ Voor de gebouwen waarvoor voor 1 augustus 1985 vergoeding werd genoten op grond 
 
 ### Afdeling IV
 
-#### Artikel 20. Omschrijving lokalen
+##### Artikel 20. Omschrijving lokalen
 
 Vervallen
 
-#### Artikel 21. Vergoeding
+##### Artikel 21. Vergoeding
 
 Vervallen
 
-#### Artikel 22. Vergoeding
+##### Artikel 22. Vergoeding
 
 Vervallen
 
-#### Artikel 23. Omvang vergoeding
+##### Artikel 23. Omvang vergoeding
 
 Vervallen
 
 ### Afdeling V. Slotbepalingen
 
-#### Artikel 24. Overgangsbepaling
+##### Artikel 24. Overgangsbepaling
 
 Met besluiten als bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004190&afdeling=II&paragraaf=1&artikel=6&z=2006-03-08&g=2006-03-08), worden de koninklijke besluiten ingevolge artikel 205, tweede lid, van de Lager-onderwijswet 1920 (**Stb.** 1974, 565) en de ministeriële besluiten ingevolge artikel 3 van de Regeling vergoeding en buitengebruikstelling oude eigendomsscholen en huurscholen (**Stcrt.** 1985, 175) gelijkgesteld.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Met inachtneming van het bepaalde in artikel E 35, vijfde lid, van de Overgangswet WBO treedt dit besluit in werking op een bij koninklijk besluit te bepalen datum. Het koninklijk besluit kan er in voorzien dat het besluit terugwerkende kracht heeft tot en met 1 januari 1986.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Dit besluit kan worden aangehaald als "Besluit oude eigendoms- en huurscholen WPO".
 

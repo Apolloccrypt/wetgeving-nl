@@ -1,13 +1,39 @@
 ---
-title: "Regeling boorduitrusting"
+title: "Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling van de in luchtvaartuigen aanwezige navigatie- en telecommunicatie-installaties en de voor die installaties geldende eisen en gebruiksregels (Regeling navigatie- en telecommunicatie-installaties)"
 identifier: "BWBR0012538"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012538"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012538"
+soort: "ministeriele-regeling"
+stam_id: "4513323"
+version_id: "21888172"
+internal_id: "C31411071"
+label_id: "4491974"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012538/2026-01-01/0"
+intitule_bron: "Stcrt.2001-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-06-06"
+intitule_published: "2001-06-13"
+intitule_in_force: "2001-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-35427"
+original_signed_date: "2014-12-09"
+original_published_date: "2014-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-35427"
+entry_into_force_date: "2014-12-09"
+jci_1_3: "jci1.3:c:BWBR0012538&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0012538&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling boorduitrusting"
+signed_date: "2014-12-09"
+entry_into_force: "2014-12-09"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat houdende vaststelling van de in luchtvaartuigen aanwezige navigatie- en telecommunicatie-installaties en de voor die installaties geldende eisen en gebruiksregels (Regeling navigatie- en telecommunicatie-installaties)
 
 Handelende in overeenstemming met de Staatssecretaris van Defensie;
@@ -18,13 +44,13 @@ Besluit:
 
 #### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 #### Communicatie- en navigatieapparatuur
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig niet zijnde een staatsluchtvaartuig voor zover het betreft:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 2. Het eerste lid is voor een in dat lid bedoeld luchtvaartuig niet van toepassing indien de Eurocontrol-organisatie met betrekking tot dat luchtvaartuig een daartoe strekkende verklaring heeft afgegeven. De verklaring wordt meegevoerd tijdens de vlucht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met:
 
@@ -56,19 +82,19 @@ In deze regeling wordt verstaan onder:
 
 5. Voor het naderen en vertrekken van de luchthaven Schiphol of de luchthaven Lelystad is een luchtvaartuig, niet zijnde een helikopter of een staatsluchtvaartuig, dat navigeert op basis van instrumenten uitgerust met een installatie die het mogelijk maakt om met RNAV naderings- en vertrekroutes in het naderingsgebied van Schiphol, en de naderingsgebieden van Lelystad te vliegen met een afwijking van ten hoogste één zeemijl tijdens ten minste 95 procent van de vliegtijd en die is toegelaten op basis van de eisen ten aanzien van RNAV 1, zoals opgenomen in Certification Specification CS-ACNS Issue 2 van EASA’ van de Joint Aviation Authorities of vergelijkbaar en gecertificeerd is door de nationale bevoegde autoriteit.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het uitvoeren van een IFR-vlucht, een gecontroleerde VFR-vlucht in het vluchtinformatiegebied Amsterdam of een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag inzake de internationale burgerluchtvaart.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met navigatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag inzake de internationale burgerluchtvaart.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinformatiegebied Amsterdam is een luchtvaartuig niet zijnde een staatsluchtvaartuig uitgerust met navigatie-apparatuur die voldoet aan de eisen gesteld in JAA temporary guidance leaflet no 6, revision 1, blijkende uit een goedkeuring van het luchtvaartuig voor het gebruik er van in het RVSM luchtruim.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.
 
@@ -76,7 +102,7 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 
 #### Gebruik van transponders
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van deel 13 van de bijlage bij verordening (EU) nr. 923/2012 geldt de verplichting tot het inschakelen van de SSR-transponder gedurende de gehele vlucht, indien het luchtvaartuig is voorzien van een bruikbare SSR-transponder, ongeacht of het luchtvaartuig zich binnen luchtruim bevindt waar de SSR-transponder is voorgeschreven, niet voor gezagvoerders van militaire luchtvaartuigen behorende tot de Nederlandse en bondgenootschappelijke krijgsmachten, mits:
 
@@ -84,7 +110,7 @@ In afwijking van deel 13 van de bijlage bij verordening (EU) nr. 923/2012 geldt 
 
 - 2°. deze gezagvoerders, na daartoe opdracht te hebben gekregen van de luchtverkeers- of gevechtsleiding voorafgaand aan de uitvoering van vluchten in de onder 1° bedoelde gebieden, de SSR-transponder in mode 3/A in werking hebben gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wordt, tenzij door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht, een SSR-transponder als volgt gebruikt:
 
@@ -108,7 +134,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 - 2º. een vliegplan ingediend met als bestemming de dichtstbijzijnde geschikte luchthaven waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor het uitvoeren van een VFR vlucht in het vluchtinformatiegebied Amsterdam zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing:
 
@@ -120,7 +146,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Alle vliegtuigen die vluchten uitvoeren als commercieel luchtvervoer en die zijn toegelaten voor het vervoer van meer dan 19 passagiers, zijn uitgerust met ten minste één automatische ELT of twee ELT’s van om het even welk type.
 
@@ -142,11 +168,11 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Amsterdam wo
 
 10. Prestatie klasse 3 helikopters die vluchten als uitvoeren als General Aviation zijn uitgerust met ten minste één ELT die automatisch geactiveerd wordt, en ten minste één ELT die automatisch geactiveerd wordt en één ETL(S) in een reddingsvlot of reddingsvest indien de vlucht boven water wordt uitgevoerd met normale kruissnelheid op een afstand van meer dan 10 minuten vliegen vanaf land.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Leefomgeving en Transport.
 
@@ -166,37 +192,37 @@ Vervallen
 
 #### Strafbepaling
 
-#### Artikel 14
+##### Artikel 14
 
 Handelen in strijd met de [artikelen 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=8&z=2026-01-01&g=2026-01-01) van deze regeling is een strafbaar feit.
 
 #### Strafbepaling
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Het Besluit navigatie- en communicatie-installaties voor IFR-vluchten en de Regeling SSR-transponder worden ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling boorduitrusting.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam is een luchtvaartuig uitgerust met een VHF-zend/ontvanginstallatie waarmee wordt voldaan aan artikel 5, eerste, derde en vierde lid, van Verordening (EU) nr. 1079/2012.
 
 2. Onverminderd het eerste lid, is voor het uitvoeren van een VFR-vlucht met een staatsluchtvaartuig in het vluchtinformatiegebied Amsterdam artikel 9, eerste tot en met het elfde lid, van Verordening (EU) nr. 1079/2012 van toepassing.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Voor het uitvoeren van een IFR-kruisvlucht in de NSA Amsterdam van en naar mijnbouwinstallaties op de Noordzee waarbij een helikopter ten behoeve van navigatie gebruik maakt van GNSS, is de helikopter uitgerust met GNSS apparatuur die voldoet aan eisen gebaseerd op EASA AMC20-4.
 
@@ -206,7 +232,7 @@ Voor het uitvoeren van een IFR-kruisvlucht in de NSA Amsterdam van en naar mijnb
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in [bijlage 3 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3).
 
@@ -232,13 +258,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=15), [23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=23), en [24 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=24).
 
 #### Communicatie- en navigatieapparatuur
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Onverminderd deel 14 van de bijlage bij verordening (EU) nr. 923/2012, zijn op de radiotelefonische berichtenwisseling tussen de Nederlandse luchtverkeersdiensten en burgerluchtvaartuigen bovendien van toepassing:
 
@@ -250,17 +276,17 @@ Deze regeling berust op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### Gebruik van transponders
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De overgangshoogte in het vluchtinformatiegebied Amsterdam is voor IFR-vluchten 915 m (3000 ft) en voor VFR-vluchten 1070 m (3500 ft).
 
 2. Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220 m (4000 ft) boven gemiddeld zeeniveau.
 
-#### Artikel 13b
+##### Artikel 13b
 
 Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13a&z=2026-01-01&g=2026-01-01), vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. In het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimten boven het Nederlandse deel van het continentaal plat zijn de volgende ASR’s ingesteld:
 
@@ -284,17 +310,17 @@ Het KNMI stelt elk uur het overgangsniveau, bedoeld in [artikel 13a, tweede lid]
 
 - d. platform F16-A.
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. Vóór het opstijgen wordt ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.
 
 2. Tijdens de stijgvlucht wordt bij het passeren van de overgangshoogte ten minste één drukhoogtemeter ingesteld op de drukwaarde van 1013.2 hPa.
 
-#### Artikel 13e
+##### Artikel 13e
 
 Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten minste één drukhoogtemeter ingesteld op de regionale QNH.
 
-#### Artikel 13f
+##### Artikel 13f
 
 1. Tijdens de daalvlucht wordt bij het passeren van het overgangsniveau ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.
 
@@ -304,7 +330,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 - b. de vlucht wordt uitgevoerd volgens de door de Minister vastgestelde en in de luchtvaartgids gepubliceerde naderingsprocedure waarbij de hoogte waarop de eindnadering wordt aangevangen is gelegen op of beneden het overgangsniveau.
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. Een horizontaal deel van een VFR-vlucht boven 1070 m (3500 ft) boven de grond of het water wordt uitgevoerd op een vliegniveau als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.
 
@@ -312,7 +338,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 3. Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied wordt uitgevoerd op een kruishoogte als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.
 
-#### Artikel 13h
+##### Artikel 13h
 
 1. In afwijking van [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=13g&z=2026-01-01&g=2026-01-01) gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.
 
@@ -324,7 +350,7 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. In de TMZ Schiphol Area, genoemd in [punt 1, onderdeel l, van bijlage 3 bij de Regeling luchtverkeersdienstverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0009899&bijlage=3), is het verplicht voor alle luchtvaartuigen om de radiofrequentie te monitoren zoals vastgesteld door de Minister en opgenomen in de luchtvaartgids, hoofdstuk ENR 2.1.
 
@@ -340,7 +366,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Onverminderd de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=9&z=2026-01-01&g=2026-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0012538&artikel=10&z=2026-01-01&g=2026-01-01), is een ADS-B-Out-systeem aanwezig en in werking gesteld tijdens de uitvoering van een vlucht in de NSA Amsterdam.
 

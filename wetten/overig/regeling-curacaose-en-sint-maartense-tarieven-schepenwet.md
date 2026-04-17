@@ -1,13 +1,39 @@
 ---
-title: "Regeling Curaçaose en Sint Maartense tarieven Schepenwet"
+title: "Regeling Nederlands-Antilliaanse tarieven Schepenwet 2009"
 identifier: "BWBR0026394"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026394"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026394"
+soort: "ministeriele-regeling"
+stam_id: "10179613"
+version_id: "16657062"
+internal_id: "C22928961"
+label_id: "10155894"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026394/2010-10-10/0"
+intitule_bron: "Stcrt.2009-14000"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-09-11"
+intitule_published: "2009-09-21"
+intitule_in_force: "2009-09-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-14000"
+original_signed_date: "2009-09-11"
+original_published_date: "2009-09-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-14000"
+entry_into_force_date: "2009-09-15"
+jci_1_3: "jci1.3:c:BWBR0026394&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0026394&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Curaçaose en Sint Maartense tarieven Schepenwet"
+signed_date: "2009-09-11"
+entry_into_force: "2009-09-15"
 ---
-
 # Regeling Nederlands-Antilliaanse tarieven Schepenwet 2009
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Toerisme en Transport van Aruba;
@@ -20,7 +46,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk 1. Tarieven certificaten geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -29,7 +55,7 @@ Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamhede
 | Scheepstype | tot 500 GT | 500 tot 2000 GT | 2000 tot 6000 GT | 6000 tot 9000 GT | vanaf 9000 GT |
 | Passagiersschip | f 63430,– | f 86086,– | f 132178,– | f 186071,– | f 299219,– |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamheden nodig voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -38,7 +64,7 @@ Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamhede
 | Scheepstype | tot 500 GT | 500 tot 2000 GT | 2000 tot 6000 GT | 6000 tot 9000 GT | vanaf 9000 GT |
 | Passagiersschip | f 8229,– | f 8681,– | f 13492,– | f 17069,– | f 35510,– |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -51,7 +77,7 @@ Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaa
 | Olie/chemicaliëntanker | f 46327,– | f 65072,– | f 73842,– | f 88600,– |
 | Gastanker | f 49421,– | f 69342,– | f 78442,– | f 96425,– |
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaamheden nodig voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -64,7 +90,7 @@ Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaa
 | Olie/chemicaliëntanker | f 6467,– | f 7189,– | f 8074,– | f 8407,– |
 | Gastanker | f 6600,– | f 7265,– | f 7619,– | f 8376,– |
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -74,7 +100,7 @@ Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamhede
 | Aannemersmateriaal met voortstuwing | f 18036,– | f 23856,– | f 38001,– | f 52368,– | f 66108,– |
 | Aannemersmateriaal zonder voortstuwing | f 3783,– | f 5408,– | f 6143,– | f 6205,– | f 6570,– |
 
-#### Artikel 6
+##### Artikel 6
 
 Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamheden nodig voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -84,7 +110,7 @@ Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamhede
 | Aannemersmateriaal met voortstuwing | f 3464,– | f 4483,– | f 4981,– | f 5450,– | f 1753,– |
 | Aannemersmateriaal zonder voortstuwing | f 1172,– | f 1595,– | f 1595,– | f 1595,– | f 5746,– |
 
-#### Artikel 7
+##### Artikel 7
 
 Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en tankschepen of aannemersmateriaal zijnde en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -100,7 +126,7 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 | Personentender |   |   |   | f 16906,– | f 22245,– |
 | Patrouille-, peil- en meetvaartuig |   |   |   | f 15072,– | f 21113,– |
 
-#### Artikel 8
+##### Artikel 8
 
 Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en tankschepen of aannemersmateriaal zijnde en de verdere werkzaamheden nodig voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -116,25 +142,25 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 | Personentender |   |   |   | f 2580,– | f 3238,– |
 | Patrouille-, peil- en meetvaartuig |   |   |   | f 2580,– | f 3238,– |
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor het tussentijds onderzoek van de uitrusting in verband met het viseren van het veiligheidscertificaat van geklasseerde schepen is een tarief verschuldigd van f 1868,–.
 
 2. Voor het tussentijds onderzoek van de inrichting en uitrusting in verband met het viseren van het certificaat van geschiktheid van geklasseerde gas- en chemicaliëntankers is een tarief verschuldigd van f 2341,–.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor het onderzoek van geklasseerde bestaande schepen en de verdere werkzaamheden nodig voor de eerste afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is een toeslag van 100 procent van de in deze regeling genoemde tarieven voor de hernieuwde afgifte van certificaten verschuldigd.
 
 2. Het eerste lid is mede van toepassing op schepen als bedoeld in het eerste lid, die een verbouwing hebben ondergaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien een scheepstype niet is opgenomen in een van de genoemde artikelen wordt door het Hoofd van de Scheepvaartinspectie in Curaçao, onderscheidenlijk Sint Maarten het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.
 
 ### Hoofdstuk 2. Tarieven certificaten niet-geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
-#### Artikel 12
+##### Artikel 12
 
 Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nodig voor de hernieuwde afgifte van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -149,7 +175,7 @@ Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nod
 | Personentender |   |   | f 6264,– | f 8761,– |
 | Patrouille-, peil- en meetvaartuig |   |   | f 5979,– | f 8526,– |
 
-#### Artikel 13
+##### Artikel 13
 
 Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nodig voor het viseren van certificaten, volgens het geharmoniseerde systeem van onderzoek en certificering, is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -164,13 +190,13 @@ Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nod
 | Personentender |   |   | f 1275,– | f 1828,– |
 | Patrouille-, peil- en meetvaartuig |   |   | f 1275,– | f 1828,– |
 
-#### Artikel 14
+##### Artikel 14
 
 Voor het tussentijds onderzoek van de romp aan de buitenzijde van niet-geklasseerde schepen nodig voor het viseren van het certificaat van deugdelijkheid of het veiligheidscertificaat, volgens het geharmoniseerde systeem van onderzoek en certificering, is een tarief verschuldigd van f 1568,–.
 
 ### Hoofdstuk 3. Tarieven overige documenten
 
-#### Artikel 15
+##### Artikel 15
 
 1. Voor het onderzoek van schepen en de verdere werkzaamheden nodig voor de afgifte van een vergunning krachtens [artikel 2bis van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2bis), is het tarief verschuldigd, genoemd in onderstaande tabel:
 
@@ -185,19 +211,19 @@ Voor het tussentijds onderzoek van de romp aan de buitenzijde van niet-geklassee
 
 2. Geen tarief is verschuldigd indien het een vergunning betreft, uitsluitend bestemd voor het maken van een proefvaart dan wel het ondernemen van een reis uit een haven in Curaçao, onderscheidenlijk Sint Maarten, met de bedoeling het schip gereed te maken voor het verkrijgen van een certificaat van deugdelijkheid.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor het onderzoek van schepen en de verdere werkzaamheden nodig voor de afgifte van een certificaat van ontheffing als bedoeld in [artikel 17 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=17), is een tarief verschuldigd van f 1091,–
 
-#### Artikel 17
+##### Artikel 17
 
 Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte van een verklaring, waaruit blijkt dat het schip voldoet aan de voorschriften voor het vervoer van graan, bedoeld in [artikel 128 van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=128), is een tarief verschuldigd van f 1091,–.
 
-#### Artikel 18
+##### Artikel 18
 
 Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte van een verklaring, waaruit blijkt dat het schip voldoet aan de voorschriften voor het vervoer van gevaarlijke stoffen, bedoeld in de [artikelen 130 tot en met 130h, van het Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&artikel=130), is een tarief verschuldigd van f 1091,–.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor het onderzoek van een radio-installatie aan boord van bij Landsverordening van 25 juni 1953 (P.B. no. 109) aangewezen schepen, varende met een zeebrief van Curaçao, onderscheidenlijk Sint Maarten, en aan boord van schepen als bedoeld in [artikel 2, eerste lid, onder f, g en h, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=2), is het volgende tarief verschuldigd:
 
@@ -213,7 +239,7 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 3. Voor het verstrekken van een certificaat voor de radio-installatie is een tarief verschuldigd van f 490,–.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte of de tussentijdse visering van het certificaat van geschiktheid voor het vervoer en het behandelen van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk aan boord van offshore support vessels, is het volgende tarief verschuldigd:
 
@@ -223,7 +249,7 @@ Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte of de tusse
 
 - c. voor de tussentijdse visering f 948,–.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte van het kennisbewijs sloepsgast, bedoeld in [artikel 66 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](https://wetten.overheid.nl/jci1.3:c:BWBR0013361&artikel=66), is een tarief verschuldigd van f 305,–.
 
@@ -231,11 +257,11 @@ Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte of de tusse
 
 3. Indien het onderzoek, bedoeld in het eerste lid, niet leidt tot afgifte van een kennisbewijs sloepsgast, is een tarief verschuldigd van f 290,–.
 
-#### Artikel 22
+##### Artikel 22
 
 Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten als bedoeld in [artikel 6, eerste lid, van de Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=6), is een tarief verschuldigd van f 280,–.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor een tussentijdse aanpassing of een verlenging van een document als bedoeld in deze regeling, is een tarief verschuldigd van f 1091,–.
 
@@ -245,7 +271,7 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 4. Voor de vervanging van documenten die door een scheepsongeval verloren zijn gegaan, is geen vergoeding verschuldigd.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=3&artikel=21&z=2010-10-10&g=2010-10-10) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10), buiten toedoen van de ambtenaren van Curaçao, onderscheidenlijk Sint Maarten niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd:
 
@@ -253,13 +279,13 @@ Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld 
 
 - b. indien de werkzaamheden volledig zijn uitgevoerd het tarief dat is vastgesteld voor de afgifte van het document.
 
-#### Artikel 25
+##### Artikel 25
 
 Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876), die niet op grond van een van de artikelen van deze regeling in rekening worden gebracht, is een tarief verschuldigd van f 234,– per uur per ambtenaar.
 
 ### Hoofdstuk 4. Tarieven goedkeuring uitrustingsstukken
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor het onderzoek ten behoeve van de typegoedkeuring van uitrustingsstukken en materialen, alsmede de daarbij behorende afgifte van documenten ten bewijze dat deze uitrustingsstukken en materialen voldoen aan de bij of krachtens de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) gestelde eisen, is het tarief verschuldigd, genoemd in onderstaande tabel.
 
@@ -371,7 +397,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 | 6.7.6 | Diversen | f | 1631,– | f | 2836,– |
 | 6.7.7 | Vloerbedekkingen | f | 1631,– | f | 2836,– |
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien het onderzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10), niet leidt tot de afgifte van een document, is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
 
@@ -379,25 +405,25 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 3. Bij gelijktijdige aanbieding voor een onderzoek ter goedkeuring van meerdere vrijwel identieke uitvoeringen van uitrustingsstukken en materialen, is voor de afgifte van het eerste document het tarief, genoemd in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0026394&hoofdstuk=4&artikel=26&z=2010-10-10&g=2010-10-10) en voor elk van de volgende documenten een tarief verschuldigd van f 490,–.
 
-#### Artikel 28
+##### Artikel 28
 
 Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onderdelen daarvan is, inclusief reistijd, een tarief verschuldigd van f 234,– per uur.
 
 ### Hoofdstuk 5. Bijzondere bepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een onderzoek als bedoeld in deze regeling geheel of gedeeltelijk buiten Curaçao, onderscheidenlijk Sint Maarten wordt uitgevoerd en de voor het betreffende onderzoek vastgestelde termijn, zoals opgenomen in de bijlage, wordt overschreden, is per termijnoverschrijdende dag een aanvullend tarief verschuldigd van f 1870,–.
 
 2. De eventuele reis- en verblijfskosten van de ambtenaar ten behoeve van de in deze regeling genoemde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten komen voor rekening van de opdrachtgever. Deze kosten worden afzonderlijk in rekening gebracht.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien de in deze regeling genoemde onderzoeken geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 uur en 08.00 uur, op een zaterdag, op een zondag of op een bij of krachtens de [Wet materieel ambtenarenrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) daaraan gelijkgestelde dag, is een aanvullend tarief verschuldigd van f 116,– per uur per ambtenaar.
 
 2. Het in het eerste lid genoemde tarief is eveneens verschuldigd voor uitgevoerde onderzoeken buiten Curaçao, onderscheidenlijk Sint Maarten, buiten de daar ter plaatse geldende werktijden.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.
 
@@ -405,15 +431,15 @@ Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onde
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 Wijzigt de Regeling tarieven Schepenwet 1999.
 
-#### Artikel 33
+##### Artikel 33
 
 Deze regeling treedt in werking met ingang van 15 september 2009.
 
-#### Artikel 34
+##### Artikel 34
 
 Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven Schepenwet.
 

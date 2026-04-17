@@ -1,13 +1,37 @@
 ---
 title: "Herzien stappenplan beëindigen opvangvoorzieningen ongedocumenteerde asielzoekers"
 identifier: "BWBR0010197"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-03-17
-laatste_update: 1999-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010197"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-03-17"
+last_updated: "1999-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010197"
+soort: "circulaire"
+stam_id: "6424703"
+version_id: "11092292"
+internal_id: "C15006231"
+label_id: "6413394"
+original_entry_into_force: "1999-03-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010197/1999-03-17/0"
+intitule_bron: "Stcrt.1999-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-01-08"
+intitule_published: "1999-03-17"
+intitule_in_force: "1999-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-53"
+original_signed_date: "1999-01-08"
+original_published_date: "1999-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-53-p24-SC18057"
+entry_into_force_date: "1999-03-17"
+jci_1_3: "jci1.3:c:BWBR0010197&z=1999-03-17&g=1999-03-17"
+jci_1_0: "1.0:c:BWBR0010197&g=1999-03-17"
+citeertitel_status: "redactioneel"
+signed_date: "1999-01-08"
+entry_into_force: "1999-03-17"
 ---
-
 # Herzien stappenplan beëindigen opvangvoorzieningen ongedocumenteerde asielzoekers
 
 Aan :

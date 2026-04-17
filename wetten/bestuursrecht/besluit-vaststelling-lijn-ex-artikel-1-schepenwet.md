@@ -1,13 +1,36 @@
 ---
-title: "Besluit vaststelling lijn ex artikel 1 Schepenwet"
+title: "Besluit van 17 november 1981, houdende vaststelling van de lijn bedoeld in artikel 1, eerste lid, onder a, van de Schepenwet"
 identifier: "BWBR0003458"
-categorie: "Bestuursrecht"
-publicatiedatum: 1982-01-15
-laatste_update: 1982-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003458"
+country: "nl"
+rank: "amvb"
+publication_date: "1982-01-15"
+last_updated: "1982-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003458"
+soort: "AMvB"
+stam_id: "1167723"
+version_id: "1726932"
+internal_id: "C1726931"
+label_id: "1131674"
+dtd_version: "2.0"
+original_entry_into_force: "1982-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003458/1982-01-15/0"
+intitule_bron: "Stb.1981-718"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-11-17"
+intitule_in_force: "1982-01-14"
+intitule_status: "goed"
+original_publication: "Stb.1981-718"
+original_signed_date: "1981-11-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1982-01-15"
+jci_1_3: "jci1.3:c:BWBR0003458&z=1982-01-15&g=1982-01-15"
+jci_1_0: "1.0:c:BWBR0003458&g=1982-01-15"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling lijn ex artikel 1 Schepenwet"
+signed_date: "1981-11-17"
+entry_into_force: "1982-01-15"
 ---
-
 # Besluit van 17 november 1981, houdende vaststelling van de lijn bedoeld in artikel 1, eerste lid, onder a, van de Schepenwet
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 23 juli 1981, nr. DGSM/PJ/S 23966, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -20,7 +43,7 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 6 novem
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De lijn, bedoeld in artikel 1, eerste lid, onder **a**, van de [Schepenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876) loopt van:
 
@@ -52,7 +75,7 @@ De lijn, bedoeld in artikel 1, eerste lid, onder **a**, van de [Schepenwet](http
 
 - -. vandaar naar de lichtopstand Nieuwe Sluis in Zeeuws Vlaanderen en voorts langs de noordwestelijke kust hiervan naar het punt van grensovergang tussen Nederland en België.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op een door Ons te bepalen tijdstip.
 

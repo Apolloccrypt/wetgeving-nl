@@ -1,28 +1,52 @@
 ---
 title: "Overgangsregeling accijns van bier 1992"
 identifier: "BWBR0005359"
-categorie: "Belastingrecht"
-publicatiedatum: 1992-01-01
-laatste_update: 1992-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005359"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005359"
+soort: "ministeriele-regeling"
+stam_id: "3736493"
+version_id: "5519432"
+internal_id: "C5712521"
+label_id: "3716314"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005359/1992-01-01/0"
+intitule_bron: "Stcrt.1991-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-20"
+intitule_published: "1991-12-30"
+intitule_in_force: "1991-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-252"
+original_signed_date: "1991-12-20"
+original_published_date: "1991-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005359&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBR0005359&g=1992-01-01"
+citeertitel_status: "officieel"
+signed_date: "1991-12-20"
+entry_into_force: "1992-01-01"
 ---
-
 # Overgangsregeling accijns van bier 1992
 
 Gelet op de [artikelen XVIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII), [XIX, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XIX) en [XX, vijfde lid, van de Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XX) (Stb. 1991, 740);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling geeft uitvoering aan de [artikelen XVIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII), [XIX, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XIX) en [XX, vijfde lid, van de Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XX) (Stb. 1991, 740).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling verstaat onder:
 
-#### Artikel 3
+##### Artikel 3
 
 Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [artikel XVIII, tweede lid, van de invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII), reeds bij de aanvang van het kalenderjaar toepassing vindt, mits:
 
@@ -32,7 +56,7 @@ Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [arti
 
 - c. de vergunninghouder van de accijnsgoederenplaats waar het bier wordt vervaardigd verklaart dat indien de totale jaarproduktie in het kalenderjaar meer heeft bedragen dan 90 000 hectolitergraden wordt, hij het bedrag aan accijns, voortvloeiende uit een herrekening op basis van het tarief van [artikel XVIII, eerste lid, van de invoeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005346&artikel=XVIII) uiterlijk tien dagen na daartoe gedane uitnodiging zal voldoen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De hoeveelheid van het wort van een brouwsel wordt opgenomen terwijl dit zich nog in de bierketel en de wachtbakken bevindt, nadat het koken is afgelopen.
 
@@ -48,7 +72,7 @@ Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [arti
 | > 40 t/m 50°C ....................................................... | 0,9 percent |
 | > 30 t/m 40°C ....................................................... | 0,5 percent |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ter bepaling van het verschil tussen de dichtheid van het wort en de dichtheid van zuiver water, wordt een monster van het wort afgekoeld tot een temperatuur tussen 10 en 25°C, waarbij de temperatuur van 17,5°C zoveel mogelijk moet worden benaderd. Vervolgens wordt van het wort het soortelijk gewicht, met betrekking tot zuiver water van 17,5°C, opgenomen met behulp van een densimeter waarvan het kleinste schaaldeel een waarde van 0,0005 eenheden heeft. De stijging van de vloeistof langs de steel van het instrument blijft hierbij buiten beschouwing, tenzij het instrument, blijkens een aanduiding op de schaal, is ingericht voor bovenaflezing. In laatstbedoeld geval wordt de schaal afgelezen bij het punt dat op dezelfde hoogte ligt als de top van het vloeistofkolommetje dat de steel van het instrument bevochtigt boven het niveau van de vloeistof in het proefglas.
 
@@ -60,7 +84,7 @@ Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [arti
 
 5. Indien de bepaling van het verschil in dichtheid door of met medewerking van ambtenaren van het Laboratorium van de belastingdienst geschiedt, is het gebruik van andere instrumenten dan densimeters geoorloofd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aantal hectolitergraden wort, gebezigd voor de bereiding van bier dat vanuit de accijnsgoederenplaats wordt afgeleverd met vrijstelling, wordt uitgevoerd of wordt overgebracht naar een entrepot, alsmede van bier dat is verloren gegaan, onder ambtelijk toezicht is vernietigd of door de vergunninghouder van de accijnsgoederenplaats waar het is vervaardigd, is teruggenomen, wordt afgeleid uit de hoeveelheid bier en de dichtheid bij 17,5°C van twee vloeistoffen, waarvan de ene in het gehalte aan opgeloste vaste stoffen, de andere in alcoholgehalte met het te onderzoeken bier gelijk staat.
 
@@ -74,17 +98,17 @@ Op daartoe gedaan verzoek bepaalt de inspecteur dat het tarief, vermeld in [arti
 
 6. De in het vijfde lid bedoelde vermenigvuldigingsfactor wordt vervangen door 100/90 indien het bier op fles betreft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De dichtheid van het wort waaruit ingevoerd bier is vervaardigd, wordt berekend uit de dichtheden bij 17,5°C van twee vloeistoffen, waarvan de ene in het gehalte aan opgeloste vaste stoffen, de andere in alcoholgehalte met het te onderzoeken bier overeenkomt.
 
 2. Het bepaalde in [artikel 6, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005359&artikel=6&z=1992-01-01&g=1992-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepaling van het aantal hectolitergraden bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005359&artikel=6&z=1992-01-01&g=1992-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0005359&artikel=7&z=1992-01-01&g=1992-01-01) geschiedt in het Laboratorium van de belastingdienst door de daaraan verbonden ambtenaren.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling treedt in werking op het tijdstip waarop de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in werking treedt.
 

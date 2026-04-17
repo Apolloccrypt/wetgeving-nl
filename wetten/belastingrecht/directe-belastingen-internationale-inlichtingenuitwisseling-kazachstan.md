@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Kazachstan"
 identifier: "BWBR0041803"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-12-09
-laatste_update: 2018-12-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041803"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-12-09"
+last_updated: "2018-12-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041803"
+soort: "beleidsregel"
+stam_id: "14944553"
+version_id: "25596142"
+internal_id: "C36526511"
+label_id: "14894504"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041803/2018-12-09/0"
+intitule_bron: "Stcrt.2019-269"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-12-09"
+intitule_published: "2019-01-07"
+intitule_in_force: "2019-01-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-269"
+original_signed_date: "2018-12-09"
+original_published_date: "2019-01-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-269"
+entry_into_force_date: "2018-12-09"
+jci_1_3: "jci1.3:c:BWBR0041803&z=2018-12-09&g=2018-12-09"
+jci_1_0: "1.0:c:BWBR0041803&g=2018-12-09"
+citeertitel_status: "redactioneel"
+signed_date: "2018-12-09"
+entry_into_force: "2018-12-09"
 ---
-
 # Directe belastingen, internationale inlichtingenuitwisseling; Kazachstan
 
 **Dit besluit bevat een bekendmaking van het in december 2018 tussen de Ministeries van Financiën van Kazachstan en Nederland gesloten Memorandum van Overeenstemming inzake samenwerking en inlichtingenuitwisseling voor belastingaangelegenheden. Het Memorandum geeft o.a. categorieën weer voor de automatische uitwisseling van fiscale inlichtingen, zoals over onroerende zaken, ondernemingswinsten (indien beschikbaar), dividenden, interest, inkomsten uit vermogenswinsten (indien beschikbaar), inkomsten uit salarissen, lonen en andere soortgelijke beloningen, directeursbeloningen en/of betalingen aan leden van management teams, inkomsten van artiesten en sportbeoefenaars, pensioenen en andere soortgelijke beloningen, alsmede overige inkomsten. Verder bevat het Memorandum nog bepalingen over gelijktijdige belastingonderzoeken. De eerste automatische inlichtingenuitwisseling heeft betrekking op het jaar 2018.**
@@ -22,13 +47,13 @@ Zijn het volgende overeengekomen:
 
 De datum van inwerkingtreding in de publicatie ligt voor de datum van uitgifte.
 
-#### Artikel 1. Onderwerp, doel en reikwijdte
+##### Artikel 1. Onderwerp, doel en reikwijdte
 
 De Partijen verlenen elkaar bijstand bij de uitwisseling van inlichtingen ten behoeve van de toepassing van de belastingwetgeving van de staten van Partijen.
 
 De inlichtingenuitwisseling op basis van dit Memorandum van Overeenstemming wordt uitgevoerd in overeenstemming met de nationale wetgeving van de staten van Partijen en in overeenstemming met internationale verplichtingen.
 
-#### Artikel 2. Bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten
 
 1. Voor de toepassing van dit Memorandum van Overeenstemming zijn de bevoegde autoriteiten:
 
@@ -38,11 +63,11 @@ in Nederland: Belastingdienst, de Central Liaison Office van Nederland (CLO).
 
 2. De Partijen zullen elkaar via briefwisseling op de hoogte stellen van wijzigingen in de namen en adresgegevens van de aangewezen vertegenwoordigers van de bevoegde autoriteiten.
 
-#### Artikel 3. Taal
+##### Artikel 3. Taal
 
 Voor de toepassing van dit Memorandum van Overeenstemming wordt het Engels als officiële taal gebruikt. De bevoegde autoriteiten mogen de informatie in hun nationale taal toezenden, vergezeld van een Engelse vertaling.
 
-#### Artikel 4. Verzoek om bijstand
+##### Artikel 4. Verzoek om bijstand
 
 1. De Partijen mogen rechtstreeks om informatie verzoeken over aangelegenheden vallende binnen hun bevoegdheid, zoals geregeld in de nationale wetgeving van de staten van Partijen.
 
@@ -60,7 +85,7 @@ Voor de toepassing van dit Memorandum van Overeenstemming wordt het Engels als o
 
 3. Het verzoek om bijstand wordt schriftelijk gedaan en verzonden per post. In geval van twijfel over de echtheid van een bijstandsverzoek of over de ontvangen en verzonden informatie, kan de bevoegde autoriteit de andere bevoegde autoriteit een schriftelijk verzoek doen om bevestiging van de echtheid vergezeld van toepasselijke gegevens ten behoeve van de beoordeling.
 
-#### Artikel 5. Uitwisseling van inlichtingen
+##### Artikel 5. Uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten verstrekken elkaar automatisch inlichtingen over particulieren en rechtspersonen (ondernemingen) en andere lichamen met betrekking tot:
 
@@ -90,21 +115,21 @@ Voor de toepassing van dit Memorandum van Overeenstemming wordt het Engels als o
 
 4. In geval van onjuiste of onvolledige uitwisseling van inlichtingen nemen de bevoegde autoriteiten van de Partijen rechtstreeks met elkaar contact op en informeren zij elkaar onmiddellijk over zich voordoende problemen, waaronder technische.
 
-#### Artikel 6. Vertrouwelijkheid
+##### Artikel 6. Vertrouwelijkheid
 
 De op basis van dit Memorandum van Overeenstemming ontvangen informatie wordt uitsluitend gebruikt en ontsloten ten behoeve van de heffing van belastingen naar inkomen en vermogen in de staten van Partijen in overeenstemming met Artikel 28 van het Verdrag 1996 en Artikel 22 van het Verdrag 1988.
 
-#### Artikel 7. Andere bijstand
+##### Artikel 7. Andere bijstand
 
 De bevoegde autoriteit van de ene Partij stelt de bevoegde autoriteit van de andere Partij op de hoogte van wijzigingen in de nationale wetgeving die de uitvoering van dit Memorandum van Overeenstemming kunnen raken, evenals van de verplichtingen van zijn inwoners in de staat van eerstgenoemde Partij.
 
-#### Artikel 8. Weigering van en vertraging bij verstrekking van inlichtingen
+##### Artikel 8. Weigering van en vertraging bij verstrekking van inlichtingen
 
 1. In het geval de inlichtingen niet kunnen worden verstrekt, stelt de bevoegde autoriteit van de ene Partij de bevoegde autoriteit van de andere Partij binnen een maand na de datum van ontvangst van het inlichtingenverzoek schriftelijk in kennis van de redenen van deze weigering.
 
 2. De beantwoording van een inlichtingenverzoek van de ene Partij mag met inachtneming van de nationale wetgeving worden uitgesteld door de andere Partij in gevallen waarin deze beantwoording het onderzoeksproces of het vervolgingsproces beïnvloedt.
 
-#### Artikel 9. Gelijktijdige belastingonderzoeken
+##### Artikel 9. Gelijktijdige belastingonderzoeken
 
 1. Onder een gelijktijdig onderzoek wordt verstaan een regeling tussen de bevoegde autoriteiten van de twee Partijen tot het gelijktijdig en onafhankelijk onderzoeken, ieder op zijn eigen grondgebied, van de belastingsituatie van een of meer belastingplichtigen waarbij zij een gezamenlijk of complementair belang hebben, teneinde de aldus verkregen informatie – voor zover relevant – uit te wisselen.
 
@@ -116,19 +141,19 @@ De bevoegde autoriteit van de ene Partij stelt de bevoegde autoriteit van de and
 
 5. Indien een van de Partijen vaststelt dat het gelijktijdige onderzoek niet langer passend is, kan het door middel van een schriftelijke kennisgeving aan de andere Partij voorstellen het onderzoek te beëindigen.
 
-#### Artikel 10. Geschillen
+##### Artikel 10. Geschillen
 
 Elk geschil met betrekking tot de toepassing of interpretatie van dit Memorandum van Overeenstemming wordt beslecht door raadpleging van en onderhandelingen tussen Partijen. De inlichtingen als bedoeld in [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041803&artikel=5&z=2018-12-09&g=2018-12-09) van dit Memorandum van Overeenstemming worden elektronisch verstrekt in het standaard format van de Organisatie voor Economische Samenwerking en Ontwikkeling (meest recente versie) of op papier.
 
-#### Artikel 11. Kosten
+##### Artikel 11. Kosten
 
 De Partijen dragen hun eigen kosten met betrekking tot de uitvoering van dit Memorandum van Overeenstemming.
 
-#### Artikel 12. Wijzigingen en aanvullingen
+##### Artikel 12. Wijzigingen en aanvullingen
 
 Op schriftelijk verzoek van de Partijen kunnen aanvullingen en wijzigingen op dit Memorandum van Overeenstemming worden voorgesteld, die formeel worden vastgelegd in aanvullende Protocollen.
 
-#### Artikel 13. Datum van inwerkingtreding en beëindiging van toepassing
+##### Artikel 13. Datum van inwerkingtreding en beëindiging van toepassing
 
 1. Dit Memorandum van Overeenstemming wordt aangegaan voor onbepaalde tijd en treedt in werking op de laatste datum van ondertekening.
 

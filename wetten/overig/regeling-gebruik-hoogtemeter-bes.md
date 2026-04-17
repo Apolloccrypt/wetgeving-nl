@@ -1,20 +1,45 @@
 ---
 title: "Regeling gebruik hoogtemeter BES"
 identifier: "BWBR0028690"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028690"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028690"
+soort: "ministeriele-regeling-BES"
+stam_id: "10934473"
+version_id: "17919182"
+internal_id: "C24980571"
+label_id: "10909044"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028690/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14843"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14843"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028690&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028690&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling gebruik hoogtemeter BES
 
 Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
 ### Afdeling I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,23 +59,23 @@ In deze regeling wordt verstaan onder:
 
 - h. QNH: de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer.
 
-#### Artikel 2. Vliegniveaus
+##### Artikel 2. Vliegniveaus
 
 - 1. Vliegniveau nul is gelegen op het atmosferisch drukvlak van 1013,2 hPa. Opeenvolgende vliegniveaus zijn gescheiden door een drukinterval dat overeenkomst met ten minste 500 voet in de ICAO-standaardatmosfeer.
 
 - 2. Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende drukhoogte in voeten in de ICAO-standaardatmosfeer.
 
-#### Artikel 3. Overgangshoogte en overgangsniveau
+##### Artikel 3. Overgangshoogte en overgangsniveau
 
 De overgangshoogte in de Flamingo CTR, bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverlener BES, is 2500 voet.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor genoemde luchtvaartterreinen wordt tenminste elk uur door de bij of krachtens de KMNI-wet aangewezen verlener van luchtvaartmeteorologische diensten de QNH geregistreerd en zo snel mogelijk aan de luchtverkeersdiensten doorgegeven.
 
 ### Afdeling II. Gebruik hoogtemeter
 
-#### Artikel 5. Hoogtemeterinstelling
+##### Artikel 5. Hoogtemeterinstelling
 
 - 1. Vóór de aanvang van een vlucht wordt elke drukhoogtemeter gecontroleerd op juiste aanwijzing.
 
@@ -60,15 +85,15 @@ Voor genoemde luchtvaartterreinen wordt tenminste elk uur door de bij of krachte
 
 - 4. Bij het tijdens de daalvlucht passeren van het overgangsniveau wordt tenminste één drukhoogtemeter ingesteld op de QNH van het luchtvaartterrein en wordt de hoogte van het luchtvaartuig uitgedrukt in voeten boven zeeniveau
 
-#### Artikel 6
+##### Artikel 6
 
 De instelling op QNH kan reeds vóór het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau uitgedrukt in voeten nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter BES.
 
-#### Artikel 8
+##### Artikel 8
 
 De regeling berust op [artikel 82, tweede lid, Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=82).
 

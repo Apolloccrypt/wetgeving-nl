@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Aanhoudings- en ondersteuningseenheden (AOE 'en)"
 identifier: "BWBR0026767"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-11-20
-laatste_update: 2009-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026767"
+country: "nl"
+rank: "circulaire"
+publication_date: "2009-11-20"
+last_updated: "2009-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026767"
+soort: "circulaire"
+stam_id: "10300643"
+version_id: "16878462"
+internal_id: "C23241481"
+label_id: "10276184"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026767/2009-11-20/0"
+intitule_bron: "Stcrt.2009-18660"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-20"
+intitule_published: "2009-12-08"
+intitule_in_force: "2009-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-18660"
+original_signed_date: "2009-11-20"
+original_published_date: "2009-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-18660"
+entry_into_force_date: "2009-11-20"
+jci_1_3: "jci1.3:c:BWBR0026767&z=2009-11-20&g=2009-11-20"
+jci_1_0: "1.0:c:BWBR0026767&g=2009-11-20"
+citeertitel_status: "redactioneel"
+signed_date: "2009-11-20"
+entry_into_force: "2009-11-20"
 ---
-
 # Circulaire Aanhoudings- en ondersteuningseenheden (AOE 'en)
 
 ### 1. Inleiding

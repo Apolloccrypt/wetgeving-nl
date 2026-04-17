@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel handhaving Wet kinderopvang BES"
+title: "Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 december 2025, nr. 2025-0000292050, houdende vaststelling van de Beleidsregel handhaving Wet kinderopvang BES"
 identifier: "BWBR0052087"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052087"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052087"
+soort: "beleidsregel-BES"
+stam_id: "17716843"
+version_id: "31491282"
+internal_id: "C44970591"
+label_id: "17615474"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052087/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44670-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2025-12-18"
+intitule_published: "2025-12-29"
+intitule_in_force: "2025-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44670-n1"
+original_signed_date: "2025-12-18"
+original_published_date: "2025-12-29"
+original_effect: "wijziging"
+original_url_id: "stcrt-2025-44670-n1"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052087&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052087&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel handhaving Wet kinderopvang BES"
+signed_date: "2025-12-18"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 18 december 2025, nr. 2025-0000292050, houdende vaststelling van de Beleidsregel handhaving Wet kinderopvang BES
 
 Gelet op de [artikelen 5.1 t/m 5.13 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=5.1);
@@ -16,11 +42,11 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Toepassing
+##### Artikel 1. Toepassing
 
 Deze beleidsregel is van toepassing op de handhaving naar aanleiding van een overtreding van de bij of krachtens de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771) gestelde regelgeving.
 
-#### Artikel 2. Vormen van handhaving
+##### Artikel 2. Vormen van handhaving
 
 Bij het uitvoeren van het handhavingsbeleid heeft de Staatssecretaris de volgende mogelijkheden:
 
@@ -28,7 +54,7 @@ Bij het uitvoeren van het handhavingsbeleid heeft de Staatssecretaris de volgend
 
 - 2. bestraffende sanctie.
 
-#### Artikel 3. Kwaliteitseisen
+##### Artikel 3. Kwaliteitseisen
 
 1. De kwaliteitseisen, waaraan voldaan moet worden voor een verantwoorde kinderopvang, staan genoemd in de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771) en alle onderliggende regelgeving.
 
@@ -38,7 +64,7 @@ Bij het uitvoeren van het handhavingsbeleid heeft de Staatssecretaris de volgend
 
 4. In het afwegingskader kindercentra BES en het afwegingskader gastouderopvang BES worden per domein de kwaliteitseisen geclusterd weergegeven en wordt de hoogte van de bestuurlijke boete in geval van een overtreding weergegeven. Het afwegingskader kindercentra BES en het afwegingskader gastouderopvang BES zijn onderdeel van deze beleidsregel en als [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0052087&bijlage=1&z=2026-01-01&g=2026-01-01) aan deze beleidsregel toegevoegd.
 
-#### Artikel 4. Eisen rondom de financiering en gegevensverstrekking
+##### Artikel 4. Eisen rondom de financiering en gegevensverstrekking
 
 1. De eisen rondom financiering en gegevensverstrekking waaraan voldaan moet worden, staan genoemd in de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771) en alle onderliggende regelgeving.
 
@@ -50,7 +76,7 @@ Bij het uitvoeren van het handhavingsbeleid heeft de Staatssecretaris de volgend
 
 ### Hoofdstuk 2. Handhaving
 
-#### Artikel 5. Handhavingstraject
+##### Artikel 5. Handhavingstraject
 
 1. Indien gebleken is dat een houder van een kindercentrum of een voorziening voor gastouderopvang niet voldoet aan één of meer eisen van de [Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771) en alle onderliggende regelgeving, de houder daarvoor een herstelopdracht vanuit de toezichthouders heeft ontvangen en die herstelopdracht niet binnen de geboden termijn volledig heeft hersteld, kan de Staatssecretaris een handhavingstraject starten. Dit traject is gericht op beëindiging van de overtreding(-en) en op voorkoming van herhaling van de overtreding(-en).
 
@@ -68,11 +94,11 @@ Aan last onder dwangsom gaat een voornemen tot het opleggen van deze last vooraf
 
 3. Indien de aard van de overtreding hiertoe aanleiding geeft, kan de Staatssecretaris besluiten om een bepaald traject meerdere keren toe te passen.
 
-#### Artikel 6. Gebruik bevoegdheid opleggen bestuurlijke boete
+##### Artikel 6. Gebruik bevoegdheid opleggen bestuurlijke boete
 
 De Staatssecretaris kan een bestuurlijke boete opleggen bij overtredingen zoals opgenomen in de afwegingskaders in de bijlage. De toezichthouder maakt een boeterapport op als de toezichthouder een overtreding vaststelt die in aanmerking komt voor een bestuurlijke boete.
 
-#### Artikel 7. Hoogte bestuurlijke boete
+##### Artikel 7. Hoogte bestuurlijke boete
 
 1. Bij de berekening van de bestuurlijke boete als bedoeld in [artikel 5.7 van de Wet kinderopvang BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049771&artikel=5.7), zal voor alle overtredingen het boetebedrag dat is neergelegd in het afwegingskader kindercentra BES en het afwegingskader gastoudersopvang BES, als uitgangspunt gehanteerd worden. De afwegingskaders zijn onderdeel van deze beleidsregel en worden als bijlagen van deze beleidsregel gepubliceerd.
 
@@ -92,13 +118,13 @@ De Staatssecretaris kan een bestuurlijke boete opleggen bij overtredingen zoals 
 
 6. Indien er sprake is van meerdere overtredingen binnen hetzelfde domein die ontstaan zijn met één feitelijke gedraging gedurende eenzelfde onderzoek, dan wordt alleen een bestuurlijke boete opgelegd voor de overtreding met het hoogste boetebedrag.
 
-#### Artikel 8. Recidive
+##### Artikel 8. Recidive
 
 1. Indien een door een bestuurlijke boete te handhaven overtreding plaatsvindt binnen een periode van vier jaar nadat eenzelfde eerdere overtreding heeft plaatsgevonden, bedraagt het boetebedrag anderhalf maal het boetebedrag zoals opgenomen in het afwegingskader kindercentra BES en het afwegingskader gastouderopvang BES. De datum van oplegging van de boete is hierbij leidend.
 
 2. Indien sprake is van een derde of volgende overtreding van dezelfde wettelijke norm binnen een periode van vier jaar nadat de daaraan voorafgaande overtreding zich heeft voorgedaan, bedraagt het boetebedrag tweemaal het boetebedrag zoals opgenomen in het afwegingskader kindercentra BES en het afwegingskader gastouderopvang BES. De datum van oplegging van de boete is hierbij leidend.
 
-#### Artikel 9. Matiging
+##### Artikel 9. Matiging
 
 1. De Staatssecretaris kan besluiten om de bestuurlijke boete te matigen, indien de belanghebbende aannemelijk maakt dat op grond van:
 
@@ -114,11 +140,11 @@ boeteoplegging volgens deze beleidsregel handhaving Wet kinderopvang BES onevenr
 
 2. Van een situatie als bedoeld in het vorige lid kan in beginsel slechts sprake zijn, in geval van bijzondere omstandigheden waarin bij de vaststelling van deze beleidsregels niet is voorzien.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving Wet kinderopvang BES.
 

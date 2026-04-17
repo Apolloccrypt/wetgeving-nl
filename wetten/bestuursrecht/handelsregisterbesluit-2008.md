@@ -1,13 +1,39 @@
 ---
-title: "Handelsregisterbesluit 2008"
+title: "Besluit van 18 juni 2008, houdende de vaststelling van een nieuw Handelsregisterbesluit 2008 (Handelsregisterbesluit 2008)"
 identifier: "BWBR0024067"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024067"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024067"
+soort: "AMvB"
+stam_id: "9558473"
+version_id: "15458212"
+internal_id: "C21118191"
+label_id: "9536314"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024067/2026-01-01/0"
+intitule_bron: "Stb.2008-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-18"
+intitule_published: "2008-06-27"
+intitule_in_force: "2008-06-27"
+intitule_status: "goed"
+original_publication: "Stb.2008-240"
+original_signed_date: "2008-06-18"
+original_published_date: "2008-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-240"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBR0024067&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0024067&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Handelsregisterbesluit 2008"
+signed_date: "2008-06-18"
+entry_into_force: "2008-07-01"
 ---
-
 # Besluit van 18 juni 2008, houdende de vaststelling van een nieuw Handelsregisterbesluit 2008 (Handelsregisterbesluit 2008)
 
 Op voordracht van de Staatssecretaris van Economische Zaken van 12 februari 2008 nr. WJZ/8012689;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 - b. commissaris: een lid van een toezichthoudend orgaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van een onderneming is sprake indien een voldoende zelfstandig optredende organisatorische eenheid van één of meer personen bestaat waarin door voldoende inbreng van arbeid of middelen, ten behoeve van derden diensten of goederen worden geleverd of werken tot stand worden gebracht met het oogmerk daarmee materieel voordeel te behalen.
 
@@ -60,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Opgave ter inschrijving
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het doen van een opgave ter inschrijving in het handelsregister bij de Kamer wordt gebruik gemaakt van een door de Kamer vastgesteld formulier dat kosteloos verkrijgbaar is.
 
@@ -70,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 4. Een wijziging van de richtlijn, genoemd in het derde lid, gaat voor de toepassing van het bij of krachtens dit besluit bepaalde gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Kamer onderzoekt of een opgave afkomstig is van iemand die tot het doen ervan bevoegd is, en of de opgave juist is, tenzij in Nederland of een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte reeds onderzoek naar gelijkwaardige eisen is verricht en hieruit blijkt dat de opgave aan de eisen voldoet.
 
@@ -78,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien de Kamer ervan overtuigd is dat de opgave is gedaan door iemand die tot het doen ervan bevoegd is en van oordeel is dat de opgave juist is, gaat zij onverwijld over tot inschrijving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Kamer weigert om tot inschrijving over te gaan indien zij er niet van overtuigd is dat de opgave afkomstig is van een tot opgave bevoegd persoon.
 
@@ -96,7 +122,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien de Kamer degene die de opgave doet in de gelegenheid heeft gesteld de opgave aan te vullen of te wijzigen, stelt zij indien nodig de opgave weer ter beschikking van degene die de opgave heeft gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot het doen van een opgave ter inschrijving in het handelsregister van alle gegevens betreffende de onderneming of rechtspersoon is verplicht:
 
@@ -120,13 +146,13 @@ Hebben goedgevonden en verstaan:
 
 - e. betreffende een uitspraak als bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=37&z=2026-01-01&g=2026-01-01) en [39, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=6&artikel=39&z=2026-01-01&g=2026-01-01), de griffier van het rechtscollege dat de uitspraak heeft gedaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de opgave ter inschrijving van een Europese naamloze vennootschap, een Europees economisch samenwerkingsverband en een Europese coöperatieve vennootschap worden tevens gegevens en bewijsstukken overgelegd waaruit blijkt dat voldaan is aan de voorwaarden voor inschrijving ingevolge [verordening 2137/85](31985R2137), [verordening 2157/2001](32001R2157) en [verordening 1435/2003](32003R1435).
 
 ### Hoofdstuk 3. In te schrijven rechtspersonen
 
-#### Artikel 8
+##### Artikel 8
 
 1. In het handelsregister wordt een kerkgenootschap als bedoeld in [artikel 2 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=2), dat geen deel uitmaakt van een organisatie als bedoeld in [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6), ingeschreven.
 
@@ -138,7 +164,7 @@ Bij de opgave ter inschrijving van een Europese naamloze vennootschap, een Europ
 
 #### § 1. Algemene gegevens
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een wijziging van hetgeen in het handelsregister is opgenomen, wordt opgegeven met vermelding van de datum waarop de wijziging is ingegaan.
 
@@ -146,13 +172,13 @@ Bij de opgave ter inschrijving van een Europese naamloze vennootschap, een Europ
 
 3. In het handelsregister wordt, indien een gegeven geen derdenwerking heeft ingevolge [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=7&artikel=50&z=2026-01-01&g=2026-01-01), een aantekening opgenomen dat het gegeven geen derdenwerking heeft.
 
-#### Artikel 10
+##### Artikel 10
 
 In het handelsregister worden indien degene aan wie een onderneming toebehoort is ingeschreven in een buitenlands register voor ondernemingen, opgenomen, het registratienummer uit dat register, de naam van het register en de plaats en het land waar het register gehouden wordt.
 
 #### § 2. Algemene gegevens van de onderneming
 
-#### Artikel 11
+##### Artikel 11
 
 In het handelsregister worden over een onderneming opgenomen:
 
@@ -162,23 +188,23 @@ In het handelsregister worden over een onderneming opgenomen:
 
 - c. de naam van de berichtenbox van het centraal loket, bedoeld in [artikel 5, eerste lid, onderdeel a, onder 2° van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=5).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een onderneming één of meer gevolmachtigde handelsagenten heeft die in Nederland werkzaam zijn, dan worden hun persoonlijke gegevens en de inhoud van hun volmacht in het handelsregister opgenomen.
 
 2. In het handelsregister kunnen gegevens over overige gevolmachtigden van een onderneming worden opgenomen. In dat geval worden hun persoonlijke gegevens en de inhoud van hun volmacht opgenomen.
 
-#### Artikel 13
+##### Artikel 13
 
 In het handelsregister worden over een onderneming die toebehoort aan een rechtspersoon in oprichting opgenomen, de persoonlijke gegevens van ieder die handelt namens deze rechtspersoon in oprichting.
 
 #### § 3. Algemene gegevens van een rechtspersoon
 
-#### Artikel 14
+##### Artikel 14
 
 In het handelsregister kunnen gegevens over gevolmachtigden van een rechtspersoon worden opgenomen. In dat geval worden hun persoonlijke gegevens en de inhoud van hun volmacht opgenomen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In het handelsregister worden over een rechtspersoon opgenomen:
 
@@ -198,13 +224,13 @@ In het handelsregister kunnen gegevens over gevolmachtigden van een rechtspersoo
 
 #### § 4.1. Eenmanszaak
 
-#### Artikel 16
+##### Artikel 16
 
 In het handelsregister worden indien een onderneming toebehoort aan een natuurlijk persoon de handtekening en de geslachtsaanduiding van deze persoon opgenomen.
 
 #### § 4.2. Vennootschap onder firma, commanditaire vennootschap, maatschap en rederij
 
-#### Artikel 17
+##### Artikel 17
 
 In het handelsregister worden over een vennootschap onder firma, een commanditaire vennootschap of een maatschap opgenomen:
 
@@ -218,7 +244,7 @@ In het handelsregister worden over een vennootschap onder firma, een commanditai
 
 - b. de duur waarvoor de vennootschap of maatschap is aangegaan.
 
-#### Artikel 18
+##### Artikel 18
 
 In het handelsregister worden over een commanditaire vennootschap, naast de gegevens van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2026-01-01&g=2026-01-01), opgenomen:
 
@@ -226,11 +252,11 @@ In het handelsregister worden over een commanditaire vennootschap, naast de gege
 
 - b. het geldbedrag en de waarde van de goederen die de commanditaire vennoten gezamenlijk aan de vennootschap ter beschikking hebben gesteld of overeengekomen zijn ter beschikking te zullen stellen.
 
-#### Artikel 19
+##### Artikel 19
 
 In het handelsregister wordt voorts over een vennootschap onder firma, een commanditaire vennootschap of een maatschap opgenomen al hetgeen de overeenkomst bevat ter bepaling van de rechten van derden.
 
-#### Artikel 20
+##### Artikel 20
 
 In het handelsregister worden over een rederij opgenomen:
 
@@ -250,11 +276,11 @@ In het handelsregister worden over een rederij opgenomen:
 
 #### § 4.3. Rechtspersonen, Vennootschappen en het Europees economisch samenwerkingsverband
 
-#### Artikel 21. [Gereserveerd]
+##### Artikel 21. [Gereserveerd]
 
 #### § 4.3.2. NV, BV, Europese NV en Europese Coöperatieve Vennootschap
 
-#### Artikel 22
+##### Artikel 22
 
 1. In het handelsregister worden over een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een Europese naamloze vennootschap of een Europese coöperatieve vennootschap opgenomen:
 
@@ -282,7 +308,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 #### § 4.3.3. Europees economisch samenwerkingsverband
 
-#### Artikel 23
+##### Artikel 23
 
 1. In het handelsregister worden over een Europees economisch samenwerkingsverband opgenomen:
 
@@ -296,7 +322,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 #### § 4.3.4. Niet-Nederlandse rechtspersonen en vennootschappen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), opgericht naar het recht van een andere staat dan Nederland en die staat partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2026-01-01&g=2026-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
@@ -308,7 +334,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 5. Bij het handelsregister wordt telkens het meest recente exemplaar van de boekhoudbescheiden van de vennootschap gedeponeerd, voor zover en in de vorm waarin de vennootschap deze in het land van haar statutaire zetel openbaar moet maken, in de Nederlandse, Duitse, Engelse of Franse taal.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap opgericht naar het recht van een staat die geen partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, met een rechtsvorm die vergelijkbaar is met een vennootschap als bedoeld in [richtlijn 68/151/EEG](31968L0151), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.2&artikel=22&z=2026-01-01&g=2026-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.3&artikel=23&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
@@ -330,7 +356,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 5. [Artikel 24, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien een in Nederland gevestigde onderneming of een in Nederland gelegen nevenvestiging van een buiten Nederland gevestigde onderneming toebehoort aan een vennootschap of rechtspersoon opgericht naar het recht van een ander land dan Nederland, niet zijnde een vennootschap als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2026-01-01&g=2026-01-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2026-01-01&g=2026-01-01), zijn de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=3&artikel=15&z=2026-01-01&g=2026-01-01) en [18 tot en met 23](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.2&artikel=18&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
@@ -350,7 +376,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 5. In afwijking van het tweede lid, onderdeel a, worden over een rechtspersoon met meer dan 20 vennoten, niet de in dat lid genoemde gegevens opgenomen over de vennoten die niet aan de Nederlandse vestiging van de rechtspersoon zijn verbonden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. In geval van wijziging van de oprichtingsovereenkomst van een Europees economisch samenwerkingsverband en van de statuten van een rechtspersoon als bedoeld in de [artikelen 24 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2026-01-01&g=2026-01-01) wordt gedeponeerd:
 
@@ -362,7 +388,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 #### § 4.3.5. Vereniging, coöperatie, onderlinge waarborgmaatschappij en stichting
 
-#### Artikel 28
+##### Artikel 28
 
 1. In het handelsregister worden over een vereniging met volledige rechtsbevoegdheid, coöperatie of onderlinge waarborgmaatschappij opgenomen:
 
@@ -374,7 +400,7 @@ In het handelsregister worden over een rederij opgenomen:
 
 3. Indien een vereniging zonder volledige rechtsbevoegdheid in het handelsregister wordt ingeschreven, worden de gegevens bedoeld in het eerste lid in het handelsregister opgenomen.
 
-#### Artikel 29
+##### Artikel 29
 
 In het handelsregister worden over een stichting opgenomen:
 
@@ -384,7 +410,7 @@ In het handelsregister worden over een stichting opgenomen:
 
 #### § 4.3.6. Vereniging van eigenaars
 
-#### Artikel 30
+##### Artikel 30
 
 In het handelsregister worden over een vereniging van eigenaars opgenomen:
 
@@ -396,7 +422,7 @@ In het handelsregister worden over een vereniging van eigenaars opgenomen:
 
 #### § 4.3.7. Kerkgenootschap
 
-#### Artikel 31
+##### Artikel 31
 
 1. In het handelsregister wordt over een organisatie met rechtspersoonlijkheid waarvan een of meer kerkgenootschappen deel uitmaken als bedoeld in [artikel 6, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6) opgenomen:
 
@@ -432,7 +458,7 @@ In het handelsregister worden over een vereniging van eigenaars opgenomen:
 
 #### § 4.3.8. Overige privaatrechtelijke rechtspersonen
 
-#### Artikel 32
+##### Artikel 32
 
 In het handelsregister worden over overige privaatrechtelijke rechtspersonen als bedoeld in [artikel 6, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=6) opgenomen:
 
@@ -444,7 +470,7 @@ In het handelsregister worden over overige privaatrechtelijke rechtspersonen als
 
 #### § 4.3.8. Overige privaatrechtelijke rechtspersonen
 
-#### Artikel 33
+##### Artikel 33
 
 Als gegevens als bedoeld in [artikel 17, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=17), worden voor publiekrechtelijke rechtspersonen aangewezen:
 
@@ -452,13 +478,13 @@ Als gegevens als bedoeld in [artikel 17, eerste lid, onderdeel c, van de wet](ht
 
 - b. de datum van aanvang, bedoeld in [artikel 12, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=12), of [artikel 13, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=13).
 
-#### Artikel 34
+##### Artikel 34
 
 In het handelsregister worden over een onderneming die toebehoort aan een publiekrechtelijke rechtspersoon opgenomen, de naam van iedere bestuurder en ieder lid van het toezichthoudend orgaan, of hij bevoegd is de rechtspersoon te vertegenwoordigen en de inhoud van deze bevoegdheid.
 
 #### § 5. Vestiging
 
-#### Artikel 35
+##### Artikel 35
 
 In het handelsregister worden over een vestiging opgenomen:
 
@@ -468,13 +494,13 @@ In het handelsregister worden over een vestiging opgenomen:
 
 #### § 5. Vestiging
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien een minderjarige, aan wie een onderneming toebehoort, die niet-commanditair vennoot of lid van een rederij is, handlichting heeft verkregen, worden in het handelsregister opgenomen, de datum waarop de handlichting is verkregen en de bevoegdheden die de minderjarige daarbij zijn toegekend.
 
 2. Bij de opgave ter inschrijving wordt de datum van uitgave en het nummer van de Staatscourant overgelegd waarin de rechterlijke beschikking inzake de handlichting is openbaar gemaakt, of een authentiek afschrift van de beschikking met vermelding van de dagtekening en het nummer van die Staatscourant.
 
-#### Artikel 37
+##### Artikel 37
 
 In geval van onderbewindstelling als bedoeld in [titel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=18) of [titel 19 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=19) of [titel 5, afdeling 7, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=7), [artikel 8, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=8), of [29, eerste lid, onder b, van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=29) van een onderneming, een aandeel in een vennootschap of in een rederij worden in het handelsregister opgenomen:
 
@@ -486,11 +512,11 @@ In geval van onderbewindstelling als bedoeld in [titel 18](https://wetten.overhe
 
 - d. de aanvang en het einde van het bewind.
 
-#### Artikel 38
+##### Artikel 38
 
 In geval van curatele van degene aan wie een onderneming toebehoort, van een vennoot of lid van een rederij, worden in het handelsregister opgenomen alle aankondigingen die krachtens [artikel 390 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=390) in de Staatscourant worden opgenomen.
 
-#### Artikel 39
+##### Artikel 39
 
 In het handelsregister worden opgenomen:
 
@@ -502,7 +528,7 @@ In het handelsregister worden opgenomen:
 
 - d. in geval van faillietverklaring, verlening van surseance van betaling of het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen: de naam en het adres van de rechter-commissaris, en van de curator of de bewindvoerder.
 
-#### Artikel 40
+##### Artikel 40
 
 1. In het handelsregister wordt de ontbinding van een vennootschap of rechtspersoon opgenomen, onder vermelding van datum van de ontbinding, de persoonlijke gegevens, de bevoegdheid van ieder der vereffenaars en de datum waarop hij vereffenaar is geworden.
 
@@ -510,29 +536,29 @@ In het handelsregister worden opgenomen:
 
 3. De voltooiing van de vereffening van een Europees economisch samenwerkingsverband of van een vennootschap of rechtspersoon als bedoeld in de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=24&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=25&z=2026-01-01&g=2026-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&paragraaf=4&sub-paragraaf=4.3&sub-paragraaf=4.3.4&artikel=26&z=2026-01-01&g=2026-01-01), wordt in het handelsregister opgenomen.
 
-#### Artikel 41
+##### Artikel 41
 
 Alle aankondigingen die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in de Staatscourant worden opgenomen, worden tevens opgenomen in het handelsregister.
 
 #### § 6. Bijzondere gegevens
 
-#### Artikel 42
+##### Artikel 42
 
 In het handelsregister worden over de melding en het onderzoek alle gegevens opgenomen die de Kamer noodzakelijk acht voor het functioneren van het register.
 
 ### Hoofdstuk 5. Gegevens uit andere basisregisters afkomstig
 
-#### Artikel 43
+##### Artikel 43
 
 De persoonlijke gegevens van natuurlijke personen, met uitzondering van de handtekening, worden overgenomen uit de basisregistratie personen, met inbegrip van de datum waarop wijzigingen van die gegevens zijn ingegaan.
 
-#### Artikel 44
+##### Artikel 44
 
 De gegevens die worden overgenomen uit de basisregistratie personen verschillen ten hoogste 72 uur met de gegevens in die basisregistratie.
 
 ### Hoofdstuk 5. Gegevens uit andere basisregisters afkomstig
 
-#### Artikel 45
+##### Artikel 45
 
 1. De melding wordt gedaan door middel van een bij ministeriële regeling vastgesteld formulier.
 
@@ -554,11 +580,11 @@ De gegevens die worden overgenomen uit de basisregistratie personen verschillen 
 
 4. Indien de melding betrekking heeft op een gegeven dat is overgenomen uit een ander basisregister, zendt de Kamer de melding binnen één werkdag door aan de beheerder van dat register.
 
-#### Artikel 46
+##### Artikel 46
 
 Een aantekening, dat een gegeven in onderzoek is, wordt geplaatst bij het gegeven waarop de melding betrekking heeft.
 
-#### Artikel 47
+##### Artikel 47
 
 De Kamer informeert het bestuursorgaan dat een melding heeft gedaan over:
 
@@ -568,23 +594,23 @@ De Kamer informeert het bestuursorgaan dat een melding heeft gedaan over:
 
 - c. het feit dat beroep is ingediend en de onherroepelijk geworden rechterlijke uitspraak in dat beroep.
 
-#### Artikel 48
+##### Artikel 48
 
 Als gegevens als bedoeld in [artikel 38, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=38) worden de in [artikel 15a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a) en de in [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=4&z=2026-01-01&g=2026-01-01) genoemde gegevens aangewezen.
 
-#### Artikel 49
+##### Artikel 49
 
 Indien bij rechterlijke uitspraak hetgeen in het handelsregister is opgenomen geheel of gedeeltelijk onrechtmatig is verklaard, doet de Kamer op verzoek van een belanghebbende daarvan aantekening in het register.
 
 ### Hoofdstuk 7. Uitzondering derdenwerking
 
-#### Artikel 50
+##### Artikel 50
 
 Als gegevens bedoeld in [artikel 25, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=25), worden alle gegevens aangewezen over een onderneming of rechtspersoon die voor het eerst is opgenomen in het handelsregister zonder een opgave door een daartoe bevoegd persoon, zolang de handtekening van degene die tot het doen van opgave verplicht is, niet in het handelsregister is opgenomen.
 
 ### Hoofdstuk 6. Wijzigen van opgenomen gegevens
 
-#### Artikel 51
+##### Artikel 51
 
 1. Het adres van een natuurlijk persoon kan niet worden ingezien.
 
@@ -618,7 +644,7 @@ De onderdelen b tot en met e van het derde lid zijn van overeenkomstige toepassi
 
 7. Het eerste, derde, vierde, vijfde en zesde lid zijn niet van toepassing op de inzage door bestuursorganen als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:1), advocaten, deurwaarders, notarissen en de instanties, genoemd in [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=8&artikel=53&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 52
+##### Artikel 52
 
 1. Als rechtspersonen en vennootschappen, bedoeld in [artikel 24, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), worden aangewezen:
 
@@ -630,7 +656,7 @@ De onderdelen b tot en met e van het derde lid zijn van overeenkomstige toepassi
 
 2. Als gegevens en bescheiden, bedoeld in [artikel 24, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=24), worden aangewezen, alle gegevens ten aanzien waarvan geen publicatieplicht geldt op grond van een bindend besluit van de Raad van de Europese Unie of de Europese Commissie.
 
-#### Artikel 53
+##### Artikel 53
 
 Als bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 28, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28) wordt aangewezen:
 
@@ -674,17 +700,17 @@ Als bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artike
 
 ### Hoofdstuk 8. Verstrekking van gegevens
 
-#### Artikel 54
+##### Artikel 54
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 55
+##### Artikel 55
 
 Dit besluit wordt aangehaald als: Handelsregisterbesluit met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Een onderneming zonder vestiging in Nederland kan worden ingeschreven in het handelsregister, indien de activiteiten van de onderneming in Nederland zelfstandig zouden kwalificeren als een onderneming in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -720,7 +746,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5. Vestiging
 
-#### Artikel 35a
+##### Artikel 35a
 
 Over een bestuurder of een gevolmachtigde of een andere functionaris die niet een natuurlijk persoon is en die niet is ingeschreven in het handelsregister kan een door de Kamer toe te kennen uniek nummer worden opgenomen. De Belastingdienst verstrekt daartoe op verzoek van de Kamer de bij hem bekende nummers van deze gevolmachtigden of functionarissen.
 
@@ -756,7 +782,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 31a
+##### Artikel 31a
 
 In het handelsregister wordt over een pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809&artikel=1) opgenomen of een bestuurder al dan niet uitvoerend is.
 
@@ -776,7 +802,7 @@ In het handelsregister wordt over een pensioenfonds als bedoeld in [artikel 1 va
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 35b
+##### Artikel 35b
 
 1. In het geval een natuurlijke persoon wordt aangemerkt als uiteindelijk belanghebbende op grond van het houden van aandelen, stemrechten of een eigendomsbelang, wordt de omvang van het economisch belang van die uiteindelijk belanghebbende in het handelsregister aangeduid in een van de volgende klassen:
 
@@ -812,7 +838,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 6. Wijzigen van opgenomen gegevens
 
-#### Artikel 51a
+##### Artikel 51a
 
 Als bevoegde autoriteiten, bedoeld in [artikel 28, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=28), worden aangewezen:
 
@@ -826,7 +852,7 @@ Als bevoegde autoriteiten, bedoeld in [artikel 28, tweede lid, van de wet](https
 
 - e. de Dienst Justis, het Bureau Bibob, de Militaire inlichtingen- en veiligheidsdienst, de Koninklijke Marechaussee en de Rijksrecherche, in het kader van hun wettelijke taken.
 
-#### Artikel 51b
+##### Artikel 51b
 
 1. De gegevens, bedoeld in [artikel 15a, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), kunnen op verzoek van de uiteindelijk belanghebbende worden afgeschermd tegen inzage door anderen dan de Financiële inlichtingen eenheid, de bevoegde autoriteiten, bedoeld in [artikel 51a](https://wetten.overheid.nl/jci1.3:c:BWBR0024067&hoofdstuk=8&artikel=51a&z=2026-01-01&g=2026-01-01), banken en andere financiële ondernemingen, bedoeld in [artikel 1a, tweede en derde lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1a), en natuurlijke personen, bedoeld in artikel 1a, vierde lid, onderdeel d, van de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
@@ -848,7 +874,7 @@ Als bevoegde autoriteiten, bedoeld in [artikel 28, tweede lid, van de wet](https
 
 5. Jaarlijks worden statistische gegevens gepubliceerd over het aantal afschermingen dat op grond van dit artikel is toegekend, met in begrip van de gronden waarop die afschermingen zijn toegekend.
 
-#### Artikel 51c
+##### Artikel 51c
 
 De gegevens en afschriften, bedoeld in [artikel 15a, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=15a), kunnen tot tien jaar na uitschrijving van de juridische entiteit uit het handelsregister worden ingezien.
 
@@ -856,7 +882,7 @@ De gegevens en afschriften, bedoeld in [artikel 15a, tweede en derde lid, van de
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 41a
+##### Artikel 41a
 
 1. Over een persoon ten aanzien van wie krachtens een uitspraak als bedoeld in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) of [artikel 106b, derde lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=106b), een bestuursverbod geldt, worden bij het handelsregister de volgende gegevens opgenomen:
 
@@ -884,7 +910,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 7. Uitzondering derdenwerking
 
-#### Artikel 53a
+##### Artikel 53a
 
 Als bestuursorgaan of rechtspersoon met een overheidstaak als bedoeld in [artikel 29, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=29) wordt aangewezen:
 

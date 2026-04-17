@@ -1,26 +1,52 @@
 ---
-title: "Besluit instelling multi-stakeholder groep EITI"
+title: "Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Economische Zaken van 16 oktober 2017, nr. Min-BuZa.2017.695-29, tot instelling van een multi-stakeholder groep EITI"
 identifier: "BWBR0040115"
-categorie: "Overig"
-publicatiedatum: 2025-04-16
-laatste_update: 2025-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040115"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-16"
+last_updated: "2025-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040115"
+soort: "ministeriele-regeling"
+stam_id: "14323783"
+version_id: "25917742"
+internal_id: "C36929901"
+label_id: "14284114"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040115/2025-04-16/0"
+intitule_bron: "Stcrt.2017-60682"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-16"
+intitule_published: "2017-10-26"
+intitule_in_force: "2017-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-38379"
+original_signed_date: "2019-07-01"
+original_published_date: "2019-07-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-38379"
+entry_into_force_date: "2019-07-01"
+jci_1_3: "jci1.3:c:BWBR0040115&z=2025-04-16&g=2025-04-16"
+jci_1_0: "1.0:c:BWBR0040115&g=2025-04-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit instelling multi-stakeholder groep EITI"
+signed_date: "2019-07-01"
+entry_into_force: "2019-07-01"
 ---
-
 # Besluit van de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking en de Minister van Economische Zaken van 16 oktober 2017, nr. Min-BuZa.2017.695-29, tot instelling van een multi-stakeholder groep EITI
 
 Gezien requirement 1.4 van The Extractive Industries Transparency Initiative Standard 2016 1https://eiti.org/document/standard;
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Multi-stakeholder groep EITI Nederland (NL-EITI).
 
 2. De multi-stakeholdergroep is samengesteld uit vertegenwoordigers van overheid, bedrijven en maatschappelijke organisaties en is belast met de controle en beoordeling van de implementatie van The Extractive Industries Transparency Initiative Standard. Daarnaast wordt een onafhankelijke voorzitter benoemd.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. Te rekenen vanaf 1 januari 2023 tot en met 1 juni 2025 wordt de heer drs. J. Haenen, wonende te ’s-Gravenhage, herbenoemd tot voorzitter van de Multi-stakeholder groep EITI Nederland.
 
@@ -46,7 +72,7 @@ Besluiten:
 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.
 
-#### Artikel 3
+##### Artikel 3
 
 De multi-stakeholdergroep regelt haar eigen werkzaamheden.
 

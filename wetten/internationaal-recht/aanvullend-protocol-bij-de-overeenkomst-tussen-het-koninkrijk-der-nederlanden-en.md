@@ -1,13 +1,32 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Atoomenergie (het IAEA) inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika"
 identifier: "BWBV0007134"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-12-04
-laatste_update: 2025-12-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007134"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-12-04"
+last_updated: "2025-12-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007134"
+soort: "verdrag"
+stam_id: "10005722133"
+version_id: "10006322532"
+internal_id: "C10010234871"
+label_id: "10005703614"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007134/2025-12-04/0"
+intitule_bron: "Trb.2026-21"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-03-18"
+intitule_status: "nogniet"
+original_publication: "Trb.2026-21"
+original_published_date: "2026-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2026-21"
+jci_1_3: "jci1.3:c:BWBV0007134&z=2025-12-04&g=2025-12-04"
+jci_1_0: "1.0:c:BWBV0007134&g=2025-12-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-03-18"
 ---
-
 # Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en de Internationale Organisatie voor Atoomenergie (het IAEA) inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika
 
 WHEREAS the Kingdom of the Netherlands, in respect of its Caribbean parts, (hereinafter referred to as “the Kingdom of the Netherlands”) and the International Atomic Energy Agency (hereinafter referred to as the “Agency”) are parties to an Agreement for the Application of Safeguards with respect to the Netherlands Antilles in Connection with the [Treaty on the Non-Proliferation of Nuclear Weapons](onbekend) and [Additional Protocol I to the Treaty for the Prohibition of Nuclear Weapons in Latin America](https://wetten.overheid.nl/jci1.3:c:BWBV0003623) (hereinafter referred to as the “Safeguards Agreement”), which entered into force on 5 June 1975;
@@ -22,13 +41,13 @@ NOW THEREFORE the Kingdom of the Netherlands and the Agency have agreed as follo
 
 ### RELATIONSHIP BETWEEN THE PROTOCOL AND THE [SAFEGUARDS AGREEMENT](https://wetten.overheid.nl/jci1.3:c:BWBV0003623)
 
-#### Article 1
+##### Article 1
 
 The provisions of the [Safeguards Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0003623) shall apply to this Protocol to the extent that they are relevant to and compatible with the provisions of this Protocol. In case of conflict between the provisions of the Safeguards Agreement and those of this Protocol, the provisions of this Protocol shall apply.
 
 ### PROVISION OF INFORMATION
 
-#### Article 2
+##### Article 2
 
 a). The Kingdom of the Netherlands shall provide the Agency with a declaration containing:
 
@@ -82,7 +101,7 @@ b). The Kingdom of the Netherlands shall make every reasonable effort to provide
 
 c). Upon request by the Agency, the Kingdom of the Netherlands shall provide amplifications or clarifications of any information it has provided under this Article, in so far as relevant for the purpose of safeguards.
 
-#### Article 3
+##### Article 3
 
 a). The Kingdom of the Netherlands shall provide to the Agency the information identified in [Article 2.a](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=2&z=2025-12-04&g=2025-12-04).(i), (iii), (iv), (v), (vi)(a), (vii) and (x) and Article 2.b.(i) within 180 days of the entry into force of this Protocol.
 
@@ -100,7 +119,7 @@ g). The Kingdom of the Netherlands shall provide to the Agency the information i
 
 ### COMPLEMENTARY ACCESS
 
-#### Article 4
+##### Article 4
 
 The following shall apply in connection with the implementation of complementary access under [Article 5 of this Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=5&z=2025-12-04&g=2025-12-04):
 
@@ -126,7 +145,7 @@ The following shall apply in connection with the implementation of complementary
 
 - f). The Kingdom of the Netherlands shall have the right to have Agency inspectors accompanied during their access by representatives of the Kingdom of the Netherlands, provided that the inspectors shall not thereby be delayed or otherwise impeded in the exercise of their functions.
 
-#### Article 5
+##### Article 5
 
 The Kingdom of the Netherlands shall provide the Agency with access to:
 
@@ -142,7 +161,7 @@ The Kingdom of the Netherlands shall provide the Agency with access to:
 
 - c). Any location specified by the Agency, other than locations referred to in paragraphs a. and b. above, to carry out location-specific environmental sampling, provided that if the Kingdom of the Netherlands is unable to provide such access, the Kingdom of the Netherlands shall make every reasonable effort to satisfy Agency requirements, without delay, at adjacent locations or through other means.
 
-#### Article 6
+##### Article 6
 
 When implementing Article 5, the Agency may carry out the following activities:
 
@@ -154,7 +173,7 @@ When implementing Article 5, the Agency may carry out the following activities:
 
 - d). For access in accordance with [Article 5.c](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=5&z=2025-12-04&g=2025-12-04).: collection of environmental samples and, in the event the results do not resolve the question or inconsistency at the location specified by the Agency pursuant to Article 5.c., utilization at that location of visual observation, radiation detection and measurement devices, and, as agreed by the Kingdom of the Netherlands and the Agency, other objective measures.
 
-#### Article 7
+##### Article 7
 
 a). Upon request by the Kingdom of the Netherlands, the Agency and the Kingdom of the Netherlands shall make arrangements for managed access under this Protocol in order to prevent the dissemination of proliferation sensitive information, to meet safety or physical protection requirements, or to protect proprietary or commercially sensitive information. Such arrangements shall not preclude the Agency from conducting activities necessary to provide credible assurance of the absence of undeclared nuclear material and activities at the location in question, including the resolution of a question relating to the correctness and completeness of the information referred to in [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=2&z=2025-12-04&g=2025-12-04) or of an inconsistency relating to that information.
 
@@ -162,15 +181,15 @@ b). The Kingdom of the Netherlands may, when providing the information referred 
 
 c). Pending the entry into force of any necessary Subsidiary Arrangements, the Kingdom of the Netherlands may have recourse to managed access consistent with the provisions of paragraph a. above.
 
-#### Article 8
+##### Article 8
 
 Nothing in this Protocol shall preclude the Kingdom of the Netherlands from offering the Agency access to locations in addition to those referred to in [Articles 5](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=5&z=2025-12-04&g=2025-12-04) and [9](https://wetten.overheid.nl/jci1.3:c:BWBV0007134&artikel=9&z=2025-12-04&g=2025-12-04) or from requesting the Agency to conduct verification activities at a particular location. The Agency shall, without delay, make every reasonable effort to act upon such a request.
 
-#### Article 9
+##### Article 9
 
 The Kingdom of the Netherlands shall provide the Agency with access to locations specified by the Agency to carry out wide-area environmental sampling, provided that if the Kingdom of the Netherlands is unable to provide such access it shall make every reasonable effort to satisfy Agency requirements at alternative locations. The Agency shall not seek such access until the use of wide-area environmental sampling and the procedural arrangements therefor have been approved by the Board and following consultations between the Agency and the Kingdom of the Netherlands.
 
-#### Article 10
+##### Article 10
 
 The Agency shall inform the Kingdom of the Netherlands of:
 
@@ -182,7 +201,7 @@ The Agency shall inform the Kingdom of the Netherlands of:
 
 ### DESIGNATION OF AGENCY INSPECTORS
 
-#### Article 11
+##### Article 11
 
 - (i). The Director General shall notify the Kingdom of the Netherlands of the Board's approval of any Agency official as a safeguards inspector. Unless the Kingdom of the Netherlands advises the Director General of its rejection of such an official as an inspector for the Kingdom of the Netherlands within three months of receipt of notification of the Board's approval, the inspector so notified to the Kingdom of the Netherlands shall be considered designated to the Kingdom of the Netherlands.
 
@@ -192,13 +211,13 @@ b). A notification referred to in paragraph a. above shall be deemed to be recei
 
 ### VISAS
 
-#### Article 12
+##### Article 12
 
 The Kingdom of the Netherlands shall, within one month of the receipt of a request therefor, provide the designated inspector specified in the request with appropriate multiple entry/exit and/or transit visas, where required, to enable the inspector to enter and remain on the territory of the Kingdom of the Netherlands for the purpose of carrying out his/her functions. Any visas required shall be valid for at least one year and shall be renewed, as required, to cover the duration of the inspector's designation to the Kingdom of the Netherlands.
 
 ### SUBSIDIARY ARRANGEMENTS
 
-#### Article 13
+##### Article 13
 
 a). Where the Kingdom of the Netherlands or the Agency indicates that it is necessary to specify in Subsidiary Arrangements how measures laid down in this Protocol are to be applied, the Kingdom of the Netherlands and the Agency shall agree on such Subsidiary Arrangements within ninety days of the entry into force of this Protocol or, where the indication of the need for such Subsidiary Arrangements is made after the entry into force of this Protocol, within ninety days of the date of such indication.
 
@@ -206,7 +225,7 @@ b). Pending the entry into force of any necessary Subsidiary Arrangements, the A
 
 ### COMMUNICATION SYSTEMS
 
-#### Article 14
+##### Article 14
 
 a). The Kingdom of the Netherlands shall permit and protect free communications by the Agency for official purposes between Agency inspectors in the Kingdom of the Netherlands and Agency Headquarters and/or Regional Offices, including attended and unattended transmission of information generated by Agency containment and/or surveillance or measurement devices. The Agency shall have, in consultation with the Kingdom of the Netherlands, the right to make use of internationally established systems of direct communications, including satellite systems and other forms of telecommunication, not in use in the Kingdom of the Netherlands. At the request of the Kingdom of the Netherlands or the Agency, details of the implementation of this paragraph with respect to the attended or unattended transmission of information generated by Agency containment and/or surveillance or measurement devices shall be specified in the Subsidiary Arrangements.
 
@@ -214,7 +233,7 @@ b). Communication and transmission of information as provided for in paragraph a
 
 ### PROTECTION OF CONFIDENTIAL INFORMATION
 
-#### Article 15
+##### Article 15
 
 a). The Agency shall maintain a stringent regime to ensure effective protection against disclosure of commercial, technological and industrial secrets and other confidential information coming to its knowledge, including such information coming to the Agency's knowledge in the implementation of this Protocol.
 
@@ -230,7 +249,7 @@ c). The regime referred to in paragraph a. above shall be approved and periodica
 
 ### ANNEXES
 
-#### Article 16
+##### Article 16
 
 a). The Annexes to this Protocol shall be an integral part thereof. Except for the purposes of amendment of the Annexes, the term “Protocol” as used in this instrument means the Protocol and the Annexes together.
 
@@ -240,7 +259,7 @@ c). The competent authorities responsible for the implementation of this Protoco
 
 ### ENTRY INTO FORCE
 
-#### Article 17
+##### Article 17
 
 a). This Protocol shall enter into force on the first day of the second month after the date on which the Kingdom of the Netherlands has notified in writing the Agency, through diplomatic channels, that its internal requirements for the entry into force of this Protocol have been fulfilled.
 
@@ -252,7 +271,7 @@ d). The Director General shall promptly inform all Member States of the Agency o
 
 ### DEFINITIONS
 
-#### Article 18
+##### Article 18
 
 For the purpose of this Protocol:
 

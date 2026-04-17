@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel tandheelkundige zorg"
 identifier: "BWBR0051225"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051225"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051225"
+soort: "zbo"
+stam_id: "17468813"
+version_id: "30808992"
+internal_id: "C44156011"
+label_id: "17371114"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051225/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-02"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23455"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23455"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051225&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051225&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel tandheelkundige zorg
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met de brief van 12 juli 2012, met [kenmerk MC-U-3122855](https://wetten.overheid.nl/jci1.3:c:BWBR0031816), ten behoeve van voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,11 +73,11 @@ De daadwerkelijke levering van materiaal of techniek aan de zorgaanbieder kan ec
 
 De regel brengt met zich mee dat het plaatsen van een op enigerlei wijze aan de zorgaanbieder gelieerde rechtspersoon tussen de ‘zorgaanbieder’ en de ‘oorspronkelijke vervaardiger’ of een ‘niet-gelieerde leverancier’, waarvan het effect is dat de inkoopprijs (voor de zorgaanbieder) wordt verhoogd en daarmee financieel voordeel wordt behaald door deze zorgaanbieder, er niet toe kan leiden dat de door deze gelieerde rechtspersoon in rekening gebrachte kosten mogen worden doorberekend door de zorgaanbieder aan de consument. De extra kosten van die rechtspersoon (bovenop diens kosten voor inkoop) vertegenwoordigen dan immers geen reële economische waarde en dat betekent dat de prijs voor de consument hoger wordt dan redelijkerwijs nodig is.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van tandheelkundige zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op tandheelkundige zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
@@ -60,7 +85,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze bele
 
 Deze beleidsregel is tevens van toepassing op tandheelkundige zorg als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz), die wordt geleverd door zorgaanbieders die tandheelkundige zorg als omschreven bij of krachtens de Wlz leveren aan patiënten die verblijven en behandeld worden in een Wlz-instelling
 
-#### Artikel 4. Hoofdstukken tandheelkundige zorg
+##### Artikel 4. Hoofdstukken tandheelkundige zorg
 
 In het kader van deze beleidsregel worden een reeks van prestatiebeschrijvingen onderscheiden die in navolgende hoofdstukken zijn verdeeld.
 
@@ -81,7 +106,7 @@ In het kader van deze beleidsregel worden een reeks van prestatiebeschrijvingen 
 | (XIV) | Uurtarieven ten behoeven van de bijzondere tandheelkunde en de Wlz (U) |
 | (XV) | Informatieverstrekking en onderlinge dienstverlening (Y) |
 
-#### Artikel 5. Onderdelen ter vaststelling van de tariefopbouw
+##### Artikel 5. Onderdelen ter vaststelling van de tariefopbouw
 
 1. Bij de tariefvaststelling wordt gebruik gemaakt van één puntwaarde: een puntwaarde tandheelkundige zorg (inclusief implantologie; dit hoofdstuk (het J-hoofdstuk) had tot 2026 een eigen puntwaarde).
 
@@ -109,7 +134,7 @@ In het kader van deze beleidsregel worden een reeks van prestatiebeschrijvingen 
 | --- | --- |
 | € 7,501701776 | (voorcalculatorisch niveau 2026) |
 
-#### Artikel 6. Totstandkoming (maximum)tarieven
+##### Artikel 6. Totstandkoming (maximum)tarieven
 
 De totstandkoming van de tarieven voor de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0051225&artikel=7&z=2026-01-01&g=2026-01-01) beschreven prestaties wordt hieronder kort toegelicht. Een nadere onderbouwing is te vinden in het ‘verantwoordingsdocumenttarieven tandheelkundige en orthodontische zorg 2026’.
 
@@ -143,7 +168,7 @@ De totstandkoming van de tarieven voor de in [artikel 7](https://wetten.overheid
 
 - 5. Een tarief dat niet hoger is dan berekend op basis van artikel 6.1 kan aan eenieder in rekening worden gebracht. Een tarief dat tot stand komt met toepassing van artikel 6.1 en 6.4 kan uitsluitend in rekening worden gebracht aan (a) de ziektekostenverzekeraar met wie het verhoogde maximumtarief is overeengekomen of (b) de verzekerde ten behoeve van wie een ziektekostenverzekering met betrekking tot tandheelkundige zorg is gesloten bij een ziektekostenverzekeraar met wie een zodanig verhoogd maximumtarief schriftelijk is overeengekomen. Een tarief dat tot stand komt met toepassing van artikel 6.1 en 6.4 kan uitsluitend in rekening worden gebracht voor zover een ziektekostenverzekering met betrekking tot tandheelkundige zorg tussen de ziektekostenverzekeraar en verzekerde is overeengekomen die de betreffende prestatie omvat.
 
-#### Artikel 7. Prestaties tandheelkundige zorg en puntenaantallen
+##### Artikel 7. Prestaties tandheelkundige zorg en puntenaantallen
 
 Onder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051225&artikel=4&z=2026-01-01&g=2026-01-01) genoemde hoofdstukken zijn de in dit artikel genoemde prestaties te onderscheiden. Bij de prestaties is het geldende puntenaantal weergegeven. Op de prestaties zijn ‘algemene bepalingen’ van toepassing. Deze zijn weergegeven in bijlage 1 van de Prestatie- en tariefbeschikking tandheelkundige zorg.
 
@@ -631,11 +656,11 @@ Onder de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0051225&artikel=
 | Y01 | Informatieverstrekking aan derden, per vijf minuten | € 17,09 |
 | Y02 | Onderlinge dienstverlening | Maximum |
 
-#### Artikel 8. Intrekken oude beleidsregel
+##### Artikel 8. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel tandheelkundige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050014), met kenmerk BR/REG-25112 ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel tandheelkundige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0050014), met kenmerk BR/REG-25112, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bescherming Antarctica"
+title: "Besluit van 26 augustus 1998, houdende regels met betrekking tot de aanvraag om een vergunning op grond van de Wet bescherming Antarctica (Besluit bescherming Antarctica)"
 identifier: "BWBR0009867"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-03-01
-laatste_update: 2015-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009867"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-03-01"
+last_updated: "2015-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009867"
+soort: "AMvB"
+stam_id: "922753"
+version_id: "1351202"
+internal_id: "C1351201"
+label_id: "894784"
+dtd_version: "2.0"
+original_entry_into_force: "2001-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009867/2015-03-01/0"
+intitule_bron: "Stb.1998-546"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-08-26"
+intitule_published: "1998-09-22"
+intitule_in_force: "2000-10-26"
+intitule_status: "goed"
+original_publication: "Stb.1998-546"
+original_signed_date: "1998-08-26"
+original_published_date: "1998-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-546"
+entry_into_force_date: "2001-04-01"
+jci_1_3: "jci1.3:c:BWBR0009867&z=2015-03-01&g=2015-03-01"
+jci_1_0: "1.0:c:BWBR0009867&g=2015-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bescherming Antarctica"
+signed_date: "1998-08-26"
+entry_into_force: "2001-04-01"
 ---
-
 # Besluit van 26 augustus 1998, houdende regels met betrekking tot de aanvraag om een vergunning op grond van de Wet bescherming Antarctica (Besluit bescherming Antarctica)
 
 Op voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 mei 1998, nr. MJZ98050136, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
@@ -20,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De wijze waarop de aanvraag om een vergunning moet geschieden
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag om een vergunning wordt gedaan door de organisator van de activiteit voor de uitvoering waarvan een vergunning wordt aangevraagd.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. De bij de aanvraag te verstrekken gegevens
 
-#### Artikel 3
+##### Artikel 3
 
 In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
@@ -144,7 +170,7 @@ In of bij de aanvraag om een vergunning vermeldt de aanvrager:
 
 - 4°. de aansprakelijkheid voor schade die voortvloeit uit door de betrokken activiteit veroorzaakte nadelige gevolgen voor het Antarctisch milieu.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de aanvraag mede betrekking heeft op het onttrekken van levende rijkdommen aan hun populatie dan wel schadelijk optreden tegen levende rijkdommen, vermeldt de aanvrager in of bij de aanvraag tevens:
 
@@ -160,7 +186,7 @@ Indien de aanvraag mede betrekking heeft op het onttrekken van levende rijkdomme
 
 - f. indien letale technieken worden gebruikt, waarom geen geschikte alternatieve technieken bestaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied brengen van gecultiveerde planten en hun voortplantingscellen voor gecontroleerd gebruik en exemplaren van levende organismen voor gecontroleerd experimenteel gebruik, vermeldt de aanvrager in of bij de aanvraag tevens:
 
@@ -172,7 +198,7 @@ Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied br
 
 - d. de gevolgen die de bedoelde handeling kan hebben op het voortbestaan of het herstel van een plantensoort of diersoort of plaatselijke populatie en het natuurlijke ecosysteem ter plaatse.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied brengen van planten en dode dieren bestemd als voedsel, vermeldt de aanvrager in of bij de aanvraag tevens:
 
@@ -184,7 +210,7 @@ Indien de aanvraag mede betrekking heeft op het binnen het Antarctisch gebied br
 
 - d. de voorzorgsmaatregelen die worden getroffen om het binnen het Antarctisch gebied brengen van niet in de inheemse flora en fauna aanwezig zijnde micro-organismen, zoals virussen, bacteriën, parasieten, gisten en schimmels, te voorkomen.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens:
 
@@ -198,23 +224,23 @@ Indien de aanvraag mede betrekking heeft op het bezoeken van speciaal beschermd 
 
 - b. de wijze waarop wordt gewaarborgd dat aan het op het gebied betrekking hebbende beheersplan, als bedoeld in artikel 5 van bijlage V bij het Protocol, wordt voldaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien zich gedurende de vergunningverleningsprocedure wijzigingen voordoen met betrekking tot de bij de aanvraag verstrekte gegevens, stelt de aanvrager Onze Ministers daarvan zo spoedig mogelijk in kennis.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit bescherming Antarctica.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Indien de aanvraag mede betrekking heeft op het vanaf een schip aan land gaan in het Antarctisch gebied, vermeldt de aanvrager in of bij de aanvraag tevens:
 

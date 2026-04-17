@@ -1,13 +1,39 @@
 ---
-title: "Besluit elektronische gegevensuitwisseling in de zorg"
+title: "Besluit van 19 april 2023, houdende regels voor de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Besluit elektronische gegevensuitwisseling in de zorg)"
 identifier: "BWBR0048096"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048096"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048096"
+soort: "AMvB"
+stam_id: "16731053"
+version_id: "29686442"
+internal_id: "C42516451"
+label_id: "16647644"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048096/2024-07-01/0"
+intitule_bron: "Stb.2023-134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-19"
+intitule_published: "2023-04-21"
+intitule_in_force: "2023-04-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-369"
+original_signed_date: "2023-10-21"
+original_published_date: "2023-10-25"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-369"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048096&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0048096&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit elektronische gegevensuitwisseling in de zorg"
+signed_date: "2023-10-21"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 19 april 2023, houdende regels voor de uitvoering van de Wet elektronische gegevensuitwisseling in de zorg (Besluit elektronische gegevensuitwisseling in de zorg)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 december 2022, kenmerk 3479772-1040954-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. – Algemeen
 
-#### Artikel 1.1. (begripsbepalingen)
+##### Artikel 1.1. (begripsbepalingen)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. – Certificering en informatie-uitwisseling
 
-#### Artikel 2.1. (verkrijgen aanwijzing)
+##### Artikel 2.1. (verkrijgen aanwijzing)
 
 1. Een aanvraag tot aanwijzing wordt ingediend bij Onze Minister.
 
@@ -60,7 +86,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - h. in staat is te beoordelen of een aanvraag voor een certificaat voldoet aan de eisen die worden gesteld in de norm die op grond van [artikel 1.4, derde lid, onderdeel b, van de wet](onbekend) is of kan worden aangewezen, voor zover het gaat om het deel dat betrekking heeft op informatietechnologieproducten of -diensten.
 
-#### Artikel 2.2. (inhoud aanwijzing)
+##### Artikel 2.2. (inhoud aanwijzing)
 
 1. In de aanwijzingworden in ieder geval de volgende voorschriften opgenomen:
 
@@ -72,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij beëindiging van de taken draagt de certificerende instelling de dossiers tijdig over aan Onze Minister als er geen andere certificerende instelling is.
 
-#### Artikel 2.3. (schorsen, wijzigen of intrekken van de aanwijzing)
+##### Artikel 2.3. (schorsen, wijzigen of intrekken van de aanwijzing)
 
 Onze Minister kan in ieder geval de aanwijzing schorsen, wijzigen of intrekken:
 
@@ -82,11 +108,11 @@ Onze Minister kan in ieder geval de aanwijzing schorsen, wijzigen of intrekken:
 
 - c. als een certificerende instelling niet langer beschikt over een accreditatie als bedoeld in [artikel 3.2, derde of vierde lid, van de wet](onbekend).
 
-#### Artikel 2.4. (aanvragen certificaat)
+##### Artikel 2.4. (aanvragen certificaat)
 
 Een aanbieder van een informatietechnologieproduct of -dienst welke op grond van [artikel 1.4, vierde lid, van de wet](onbekend) voorzien is van een certificaat, dient de aanvraag voor de afgifte van een certificaat in bij een certificerende instelling.
 
-#### Artikel 2.5. (weigeren, schorsen of intrekken van een certificaat)
+##### Artikel 2.5. (weigeren, schorsen of intrekken van een certificaat)
 
 1. De certificerende instelling weigert de afgifte van een certificaat als de aanvrager niet voldoet aan de in [artikel 3.1, onder a, van de wet](onbekend) met betrekking tot het certificaat gestelde eisen.
 
@@ -96,7 +122,7 @@ Een aanbieder van een informatietechnologieproduct of -dienst welke op grond van
 
 - b. als de certificaathouder niet langer voldoet aan de bij of krachtens dit besluit met betrekking tot het certificaat gestelde eisen.
 
-#### Artikel 2.6. (kosten aanvraag en andere werkzaamheden)
+##### Artikel 2.6. (kosten aanvraag en andere werkzaamheden)
 
 In het geval Onze Minister de aanvraag behandelt en overige taken uitvoert ten aanzien van certificering, brengt Onze Minister bij de aanvrager ten hoogste de kosten in rekening die aansluiten bij:
 
@@ -104,17 +130,17 @@ In het geval Onze Minister de aanvraag behandelt en overige taken uitvoert ten a
 
 - b. een kostendekkend uurtarief.
 
-#### Artikel 2.7. (informatieverstrekking in het kader van uitvoering, toezicht en handhaving van de wet en in het kader van beleidsvorming)
+##### Artikel 2.7. (informatieverstrekking in het kader van uitvoering, toezicht en handhaving van de wet en in het kader van beleidsvorming)
 
 Onze Minister, de Raad voor Accreditatie, een certificerende instelling of een ander bestuursorgaan verstrekken elkaar kosteloos informatie die is verkregen door de uitvoering of het toezicht op de naleving van het bepaalde bij of krachtens de [wet](onbekend) voor zover die noodzakelijk is voor de uitvoering van hun wettelijke taken of voor beleidsvorming.
 
 ### Hoofdstuk 3. – Aanwijzen gegevensuitwisseling
 
-#### Artikel 3.1. (citeertitel)
+##### Artikel 3.1. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in de zorg.
 
-#### Artikel 3.2. (inwerkingtreding)
+##### Artikel 3.2. (inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -122,11 +148,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 3.1. – Versturen van recept door huisarts aan terhandsteller
 
-#### Artikel 3.1.1. (aanwijzing versturen van recept door huisarts aan terhandsteller als aangewezen gegevensuitwisseling)
+##### Artikel 3.1.1. (aanwijzing versturen van recept door huisarts aan terhandsteller als aangewezen gegevensuitwisseling)
 
 Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) door een huisarts aan een terhandsteller is een aangewezen gegevensuitwisseling.
 
-#### Artikel 3.1.2. (beschikbaar stellen voor een persoonlijke gezondheidsomgeving)
+##### Artikel 3.1.2. (beschikbaar stellen voor een persoonlijke gezondheidsomgeving)
 
 1. Een persoonlijke gezondheidsomgeving waar de cliënt gebruik van maakt als bedoeld in artikel 15ea, tweede lid, van de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg, voldoet aan de gegevensdienst Verzamelen Huisartsgegevens, versie 2.0 zoals die is opgenomen in de actuele catalogus van de Stichting MedMij op de website: [https://catalogus.medmij.nl/details/gegevensdienst/49](https://catalogus.medmij.nl/details/gegevensdienst/49) en bijbehorende informatiestandaard die is opgenomen op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpHuisartsgegevens) en op de website [https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data](https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/FHIR_GP_Data).
 
@@ -138,17 +164,17 @@ Het versturen van een recept als bedoeld in [artikel 1, eerste lid, onderdeel pp
 
 5. Bij ministeriële regeling kan de versie van en de daarmee samenhangende nieuwe link naar de gegevensdienst en bijbehorende informatiestandaard en de versie van de Algemene beveiligingseisen defensieopdrachten worden gewijzigd.
 
-#### Artikel 3.1.3. (uitzondering militaire gezondheidszorg)
+##### Artikel 3.1.3. (uitzondering militaire gezondheidszorg)
 
 Voor militaire gezondheidszorg in de omstandigheden als bedoeld in [artikel 1.6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&artikel=1.6), gelden de [artikelen 3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048096&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2024-07-01&g=2024-07-01) en 3.1.2 niet.
 
 ### Hoofdstuk 4. – Slotbepalingen
 
-#### Artikel 4.1. (citeertitel)
+##### Artikel 4.1. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit elektronische gegevensuitwisseling in de zorg.
 
-#### Artikel 4.2. (inwerkingtreding)
+##### Artikel 4.2. (inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan worden vastgesteld.
 

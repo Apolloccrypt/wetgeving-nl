@@ -1,20 +1,44 @@
 ---
 title: "Beleidsregels verlenging loondoorbetaling poortwachter"
 identifier: "BWBR0014800"
-categorie: "Overig"
-publicatiedatum: 2005-12-21
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014800"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-12-21"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014800"
+soort: "zbo"
+stam_id: "6053743"
+version_id: "12601522"
+internal_id: "C16941361"
+label_id: "6043004"
+original_entry_into_force: "2005-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014800/2005-12-21/0"
+intitule_bron: "Stcrt.2003-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-12"
+intitule_published: "2003-03-18"
+intitule_in_force: "2003-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-246"
+original_signed_date: "2005-12-13"
+original_published_date: "2005-12-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2005-246-p94-SC72844"
+entry_into_force_date: "2005-12-13"
+jci_1_3: "jci1.3:c:BWBR0014800&z=2005-12-21&g=2005-12-21"
+jci_1_0: "1.0:c:BWBR0014800&g=2005-12-21"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-13"
+entry_into_force: "2005-12-13"
 ---
-
 # Beleidsregels verlenging loondoorbetaling poortwachter
 
 Gelet op de artikelen 34a, eerste lid, 71a, negende lid, en 71b, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering en de Regeling procesgang eerste ziektejaar;
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - i. loondoorbetalingsperiode: het tijdvak waarin de werknemer ingevolge [artikel 71a, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71a) jegens de werkgever recht op loon heeft op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629), dan wel aanspraak op bezoldiging op grond van [artikel XV, tweede lid, van de Wet terugdringing ziekteverzuim](https://wetten.overheid.nl/jci1.3:c:BWBR0006355&artikel=XV).
 
-#### Artikel 2. Eigen risico dragen Ziektewet
+##### Artikel 2. Eigen risico dragen Ziektewet
 
 Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=1), met dien verstande dat mede wordt verstaan onder:
 
@@ -48,7 +72,7 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 - d. loondoorbetalingsperiode: het tijdvak waarin de persoon, bedoeld in [artikel 63, eerste lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63), ingevolge [artikel 71b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=71b) recht op ziekengeld heeft op grond van [artikel 29 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29).
 
-#### Artikel 3. Beoordeling van de reïntegratie-inspanningen
+##### Artikel 3. Beoordeling van de reïntegratie-inspanningen
 
 1. Indien de werknemer de bedongen arbeid geheel of gedeeltelijk heeft hervat, of passende arbeid is gaan verrichten in het bedrijf van de werkgever of in het bedrijf van een andere werkgever, beoordeelt het UWV of de aard en de omvang van de verrichte werkzaamheden zo dicht als redelijkerwijs mogelijk bij de bedongen arbeid en bij de functionele mogelijkheden van de werknemer aansluiten, of naar verwachting binnen een redelijke termijn zullen aansluiten.
 
@@ -56,7 +80,7 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 3. De werkgever is in verzuim voor zover hij heeft nagelaten zo tijdig mogelijk de in het tweede lid bedoelde maatregelen te treffen en voorschriften te geven, en hij daarvoor geen deugdelijke grond kan aanvoeren.
 
-#### Artikel 4. Beoordeling van de aard en ernst van het verzuim
+##### Artikel 4. Beoordeling van de aard en ernst van het verzuim
 
 1. Het verzuim van de werkgever wordt, in volgorde van toenemende ernst, aangemerkt als beperkte, ernstige, grove of uiterste nalatigheid.
 
@@ -92,7 +116,7 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 - d. de werknemer niet in de gelegenheid heeft gesteld passende arbeid te gaan verrichten die in zijn bedrijf voorhanden was.
 
-#### Artikel 5. Vaststelling van een loondoorbetalingsperiode
+##### Artikel 5. Vaststelling van een loondoorbetalingsperiode
 
 1. Indien bij de behandeling van een aanvraag, bedoeld in [artikel 34, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34), blijkt dat de werkgever zonder deugdelijke grond de op hem rustende reïntegratieverplichtingen niet of niet volledig is nagekomen of onvoldoende reïntegratie-inspanningen heeft verricht, stelt het UWV een loondoorbetalingsperiode vast.
 
@@ -104,7 +128,7 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 5. De loondoorbetalingsperiode luidt in een geheel aantal maanden, wordt niet afgerond op een kalendermaand, en wordt zo vastgesteld dat het maximum genoemd in [artikel 629, twaalfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) niet wordt overschreden.
 
-#### Artikel 6. Herhaalde vaststelling van een loondoorbetalingsperiode
+##### Artikel 6. Herhaalde vaststelling van een loondoorbetalingsperiode
 
 1. Telkens indien bij de behandeling van een nieuwe aanvraag, als bedoeld in [artikel 34a, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34a) blijkt dat de werkgever gedurende de laatst vastgestelde loondoorbetalingsperiode zonder deugdelijke grond de op hem rustende reïntegratieverplichtingen niet of niet volledig is nagekomen of onvoldoende reïntegratie-inspanningen heeft verricht, stelt het UWV een nieuwe loondoorbetalingsperiode vast.
 
@@ -114,13 +138,13 @@ Deze beleidsregels zijn van overeenkomstige toepassing op de eigenrisicodrager, 
 
 4. De nieuwe loondoorbetalingsperiode luidt in een geheel aantal maanden, wordt niet afgerond op een kalendermaand, en wordt zo vastgesteld dat het maximum genoemd in [artikel 629, twaalfde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) niet wordt overschreden.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de publicatie van de Staatscourant waarin het is geplaatst.
 
 Dit besluit wordt met de toelichting in de Staatscourant geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Dit besluit berust mede op [artikel 123b, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=123b).
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling energie-audit"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 7 december 2021, nr. WJZ/ 21139932, houdende regels met betrekking tot de energie-audit en tot wijziging van de Tijdelijke regeling implementatie artikelen 8 en 14 Richtlijn energie-efficiëntie (Regeling energie-audit)"
 identifier: "BWBR0046029"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046029"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046029"
+soort: "ministeriele-regeling"
+stam_id: "16185633"
+version_id: "28243112"
+internal_id: "C39819471"
+label_id: "16113884"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046029/2023-07-01/0"
+intitule_bron: "Stcrt.2021-49713"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-07"
+intitule_published: "2021-12-16"
+intitule_in_force: "2021-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49713"
+original_signed_date: "2021-12-07"
+original_published_date: "2021-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49713"
+entry_into_force_date: "2021-12-17"
+jci_1_3: "jci1.3:c:BWBR0046029&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0046029&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling energie-audit"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-17"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 7 december 2021, nr. WJZ/ 21139932, houdende regels met betrekking tot de energie-audit en tot wijziging van de Tijdelijke regeling implementatie artikelen 8 en 14 Richtlijn energie-efficiëntie (Regeling energie-audit)
 
 Gelet op artikel 8 van [richtlijn nr. 2012/27](32012L0027)/EU van het Europees Parlement en de Raad van 25 oktober 2012 betreffende energie-efficiëntie, tot wijziging van [Richtlijnen 2009/125/EG](32009L0125) en [2010/30](32010L0030)/EU en houdende intrekking van de Richtlijnen [2004/8/EG](32004L0008) en [2006/32/EG](32006L0032) (PbEU 2012, L 315) en [artikel 5 van het Besluit energie-audit](https://wetten.overheid.nl/jci1.3:c:BWBR0045194&artikel=5);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - 2. In aanvulling op het eerste lid moeten bij het toepassen van het in de bijlage bij deze regeling opgenomen keurmerk, ook de in die bijlage opgenomen minimumcriteria worden toegepast.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Tijdelijke regeling implementatie artikelen 8 en 14 Richtlijn energie-efficiëntie.
 
-#### Artikel III
+##### Artikel III
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2021.
 

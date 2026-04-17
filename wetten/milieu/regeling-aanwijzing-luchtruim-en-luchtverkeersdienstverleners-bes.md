@@ -1,20 +1,44 @@
 ---
 title: "Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES"
 identifier: "BWBR0028797"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028797"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028797"
+soort: "ministeriele-regeling-BES"
+stam_id: "11027503"
+version_id: "30700972"
+internal_id: "C44007961"
+label_id: "11001934"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028797/2025-07-01/0"
+intitule_bron: "Stcrt.2010-15607"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11973"
+original_signed_date: "2025-04-18"
+original_published_date: "2025-04-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-11973"
+entry_into_force_date: "2025-04-18"
+jci_1_3: "jci1.3:c:BWBR0028797&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0028797&g=2025-07-01"
+citeertitel_status: "officieel"
+signed_date: "2025-04-18"
+entry_into_force: "2025-04-18"
 ---
-
 # Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES
 
 Gelet op de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=2), en [70, eerste lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=70);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - **terminal control area (TMA):** naderingsluchtverkeersleidingsgebied.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De volgende delen van het luchtruim, bedoeld in [artikel 2, derde lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=2) worden aangeduid als:
 
@@ -78,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van het tweede lid is het gedeelte van het luchtruim dat is aangewezen als Flamingo ATZ buiten de in het tweede lid genoemde periode tevens als Flamingo ATZ aangewezen indien er luchtverkeersdiensten worden verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 De volgende instanties worden aangewezen als luchtverkeersdienstverlener en belast met de daarbij aangegeven taken:
 
@@ -96,31 +120,31 @@ De volgende instanties worden aangewezen als luchtverkeersdienstverlener en bela
 
 - b. voor zover het betreft de overig delen van de Juliana TMA, gelegen boven het luchtruim van de openbare lichamen Sint Eustatius en Saba, de taken omschreven in [artikel 70, eerste lid, onderdelen a tot en met e, en g tot en met l, Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=70).
 
-#### Artikel 4
+##### Artikel 4
 
 De minister sluit afzonderlijke dienstverleningsovereenkomsten met de ’Dutch Caribbean Air Navigation Service Provider’, en ‘Princess Juliana International Airport Exploitatiemaatschappij N.V’ waarin de voorwaarden en condities, waaronder de betreffende vennootschappen bereid zijn om uitvoering te geven aan de opgedragen taken nader worden geregeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien zich met betrekking tot de opgedragen taken externe ontwikkelingen voordoen die invloed kunnen uitoefenen op de uitvoering van deze taken door de vennootschap, treden de minister en de luchtverkeersdienstverlener in overleg, teneinde te bezien of en op welke wijze hiervoor een oplossing gevonden kan worden.
 
 2. De luchtverkeersdienstverlener informeert de minister tijdig over voorvallen en ontwikkelingen die van belang zijn voor een correcte uitvoering van de taken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 10 oktober 2010.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=3) en [74, eerste lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=74).
 
-#### Artikel 5a
+##### Artikel 5a
 
 De luchtverkeersroutes en luchtverkeersprocedures zijn de luchtverkeersroutes en luchtverkeersprocedures die zijn opgenomen in de bijlage bij deze regeling.
 
@@ -230,7 +254,7 @@ De luchtverkeersroutes en luchtverkeersprocedures zijn de luchtverkeersroutes en
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Voor de delen van het luchtruim genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028797&artikel=2&z=2025-07-01&g=2025-07-01) wordt de classificatie van het luchtruim, bedoeld in [artikel 3 van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=3), als volgt vastgesteld:
 

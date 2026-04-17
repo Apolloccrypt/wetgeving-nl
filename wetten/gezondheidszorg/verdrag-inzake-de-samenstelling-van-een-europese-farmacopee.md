@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de samenstelling van een Europese farmacopee"
 identifier: "BWBV0004454"
-categorie: "Gezondheidszorg"
-publicatiedatum: 1992-11-01
-laatste_update: 1992-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004454"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-11-01"
+last_updated: "1992-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004454"
+soort: "verdrag"
+stam_id: "10004140293"
+version_id: "10004309362"
+internal_id: "C10006987271"
+label_id: "10004125574"
+dtd_version: "2.0"
+original_entry_into_force: "1974-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004454/1992-11-01/0"
+intitule_bron: "Trb.1966-115"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-03-04"
+intitule_in_force: "1974-03-20"
+intitule_status: "goed"
+original_publication: "Trb.1966-115"
+original_published_date: "1966-03-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-115"
+entry_into_force_date: "1974-05-08"
+jci_1_3: "jci1.3:c:BWBV0004454&z=1992-11-01&g=1992-11-01"
+jci_1_0: "1.0:c:BWBV0004454&g=1992-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1974-05-08"
 ---
-
 # Verdrag inzake de samenstelling van een Europese farmacopee
 
 De Regeringen van het Koninkrijk België, de Franse Republiek, de Duitse Bondsrepubliek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Zwitserse Bondsstaat en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland;
@@ -32,7 +54,7 @@ Overwegende dat het beste middel om dit doel te bereiken de geleidelijke instell
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Samenstelling van een Europese farmacopee
+##### Artikel 1. Samenstelling van een Europese farmacopee
 
 De Verdragsluitende Partijen verbinden zich:
 
@@ -40,7 +62,7 @@ De Verdragsluitende Partijen verbinden zich:
 
 - b). de noodzakelijke maatregelen te treffen ter waarborging dat de monografieën die krachtens de artikelen 6 en 7 van dit Verdrag zullen worden aanvaard en die de Europese farmacopee zullen vormen, de officiële normen worden, die binnen hun onderscheiden grondgebieden van toepassing zijn.
 
-#### Artikel 2. Met de samenstelling van een Europese farmacopee belaste organen
+##### Artikel 2. Met de samenstelling van een Europese farmacopee belaste organen
 
 De samenstelling van de Europese farmacopee wordt verzorgd door:
 
@@ -48,11 +70,11 @@ De samenstelling van de Europese farmacopee wordt verzorgd door:
 
 - b). een Europese Commissie voor de farmacopee, die met dit doel door de Volksgezondheidscommissie is ingesteld, hierna te noemen „de Commissie”.
 
-#### Artikel 3. Samenstelling van de Volksgezondheidscommissie
+##### Artikel 3. Samenstelling van de Volksgezondheidscommissie
 
 Voor de toepassing van dit Verdrag is de Volksgezondheidscommissie samengesteld uit delegaties die door de Verdragsluitende Partijen worden benoemd.
 
-#### Artikel 4. Taak van de Volksgezondheidscommissie
+##### Artikel 4. Taak van de Volksgezondheidscommissie
 
 1. De Volksgezondheidscommissie oefent algemeen toezicht uit op de werkzaamheden van de Commissie, die daartoe van elk van haar zittingen aan de Volksgezondheidscommissie verslag uitbrengt.
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit Verdrag is de Volksgezondheidscommissie samengesteld 
 
 3. Met inachtneming van de aanbevelingen van de Commissie bedoeld in artikel 6 sub (**d**), stelt de Volksgezondheidscommissie de termijnen vast waarbinnen besluiten van technische aard de Europese farmacopee betreffende binnen het grondgebied van elk der Verdragsluitende Partijen ten uitvoer dienen te worden gelegd.
 
-#### Artikel 5. Samenstelling van de Commissie
+##### Artikel 5. Samenstelling van de Commissie
 
 1. De Commissie bestaat uit delegaties, die door de Verdragsluitende Partijen worden benoemd. Elke delegatie telt ten hoogste drie leden die op grond van hun kennis ter zake van aangelegenheden die tot het werkterrein van de Commissie behoren worden gekozen. Elke Verdragsluitende Partij mag een zelfde aantal evenzeer ter zake kundige plaatsvervangers aanwijzen.
 
@@ -68,7 +90,7 @@ Voor de toepassing van dit Verdrag is de Volksgezondheidscommissie samengesteld 
 
 3. De Commissie kiest bij geheime stemming een Voorzitter uit haar midden, bij meerderheid van twee derde van de door de delegaties uitgebrachte stemmen. De ambtsperiode van de Voorzitter, alsmede de regeling van diens herbenoeming worden vastgelegd in het Huishoudelijk Reglement van de Commissie. Tijdens zijn ambtsperiode kan de Voorzitter geen lid van een delegatie zijn.
 
-#### Artikel 6. Taak van de Commissie
+##### Artikel 6. Taak van de Commissie
 
 Met inachtneming van de bepalingen van artikel 4 van dit Verdrag bestaat de taak van de Commissie uit:
 
@@ -80,7 +102,7 @@ Met inachtneming van de bepalingen van artikel 4 van dit Verdrag bestaat de taak
 
 - d). het doen van aanbevelingen met betrekking tot het vaststellen van de termijnen waarbinnen haar besluiten van technische aard, de Europese farmacopee betreffende, binnen het grond van elk der Verdragsluitende Partijen ten uitvoer dienen te worden gelegd.
 
-#### Artikel 7. Besluiten van de Commissie
+##### Artikel 7. Besluiten van de Commissie
 
 1. Elk der nationale delegaties heeft één stem.
 
@@ -90,7 +112,7 @@ Met inachtneming van de bepalingen van artikel 4 van dit Verdrag bestaat de taak
 
 Wanneer evenwel één enkele Verdragsluitende Partij over de vereiste meerderheid zou beschikken, verbinden de Verdragsluitende Partijen zich ertoe opnieuw over de regelingen inzake het stemmen te onderhandelen, niet eerder dan vijf jaar na de inwerkingtreding van het Protocol, indien één der Verdragsluitende Partijen daartoe een verzoek indient bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 8. Zetel en vergaderingen van de Commissie
+##### Artikel 8. Zetel en vergaderingen van de Commissie
 
 1. De Commissie houdt haar vergaderingen te Straatsburg, de zetel van de Raad van Europa.
 
@@ -100,11 +122,11 @@ Wanneer evenwel één enkele Verdragsluitende Partij over de vereiste meerderhei
 
 4. De Volksgezondheidscommissie kan een waarnemer aanwijzen belast met het bijwonen van de vergaderingen van de Commissie.
 
-#### Artikel 9. Secretariaat van de Commissie
+##### Artikel 9. Secretariaat van de Commissie
 
 De Commissie beschikt over een Secretariaat waarvan het hoofd en het technisch personeel op aanbeveling van de Commissie en overeenkomstig het administratieve reglement voor het personeel van de Raad van Europa door de Secretaris-Generaal van de Raad van Europa worden benoemd. De overige leden van het Secretariaat worden in overleg met het hoofd van het Secretariaat van de Commissie door de Secretaris-Generaal benoemd.
 
-#### Artikel 10. Financiën
+##### Artikel 10. Financiën
 
 1. De uitgaven van het Secretariaat van de Commissie en alle overige gemeenschappelijke uitgaven die verband houden met de uitvoering van dit Verdrag zijn, overeenkomstig de bepalingen van lid 2 van dit artikel, voor rekening van de Verdragsluitende Partijen.
 
@@ -112,13 +134,13 @@ De Commissie beschikt over een Secretariaat waarvan het hoofd en het technisch p
 
 3. De voorwaarden voor een eventuele financiële deelname van de Europese Economische Gemeenschap worden bij overeenstemming tussen de Verdragsluitende Partijen bepaald.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Dit Verdrag wordt door de ondertekenende Regeringen bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden bij de Secretaris-Generaal van de Raad van Europa nedergelegd.
 
 2. Dit Verdrag treedt in werking drie maanden na het tijdstip van nederlegging van de achtste akte van bekrachtiging of aanvaarding.
 
-#### Artikel 12. Toetreding
+##### Artikel 12. Toetreding
 
 1. Na het tijdstip van inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, dat in zijn samenstelling is beperkt tot de vertegenwoordigers van de Verdragsluitende Partijen, op de voorwaarden die het passend oordeelt, iedere andere Lid-Staat van de Raad uitnodigen tot dit Verdrag toe te treden.
 
@@ -128,7 +150,7 @@ De Commissie beschikt over een Secretariaat waarvan het hoofd en het technisch p
 
 4. De toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Raad van Europa en wordt drie maanden na het tijdstip van die nederlegging van kracht.
 
-#### Artikel 13. Territoriale toepassing
+##### Artikel 13. Territoriale toepassing
 
 1. Iedere Regering kan, ten tijde van de ondertekening of op het ogenblik dat zij haar akte van bekrachtiging, aanvaarding of toetreding nederlegt, aangeven op welk gebied of welke gebieden dit Verdrag van toepassing is.
 
@@ -138,7 +160,7 @@ De Commissie beschikt over een Secretariaat waarvan het hoofd en het technisch p
 
 4. Het eerste, tweede en derde lid hierboven zijn **mutatis mutandis** van toepassing op de Europese Economische Gemeenschap.
 
-#### Artikel 14. Looptijd
+##### Artikel 14. Looptijd
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
@@ -146,7 +168,7 @@ De Commissie beschikt over een Secretariaat waarvan het hoofd en het technisch p
 
 3. Deze opzegging wordt van kracht zes maanden na het tijdstip van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 15. Kennisgevingen
+##### Artikel 15. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa doet de Verdragsluitende Partijen mededeling van:
 
@@ -160,11 +182,11 @@ De Secretaris-Generaal van de Raad van Europa doet de Verdragsluitende Partijen 
 
 - e). elke krachtens de bepalingen van artikel 14 ontvangen kennisgeving en het tijdstip waarop de opzegging van kracht wordt.
 
-#### Artikel 16. Aanvullende overeenkomsten
+##### Artikel 16. Aanvullende overeenkomsten
 
 In aanvullende overeenkomsten kan de uitvoering van de bepalingen van dit Verdrag nader worden geregeld.
 
-#### Artikel 17. Voorlopige toepassing
+##### Artikel 17. Voorlopige toepassing
 
 In afwachting van de inwerkingtreding van dit Verdrag overeenkomstig de bepalingen van artikel 11, stemmen de ondertekenende Regeringen in met een voorlopige toepassing daarvan met ingang van het tijdstip van ondertekening, voor zover dit met hun onderscheiden grondwetten verenigbaar is, ten einde vertraging in de uitvoering van dit Verdrag te voorkomen.
 

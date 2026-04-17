@@ -1,20 +1,46 @@
 ---
-title: "Regeling bijzondere neurochirurgie"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4103610-1081657-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor bijzondere neurochirurgie (Regeling bijzondere neurochirurgie)"
 identifier: "BWBR0051029"
-categorie: "Overig"
-publicatiedatum: 2026-01-17
-laatste_update: 2026-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051029"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-17"
+last_updated: "2026-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051029"
+soort: "ministeriele-regeling"
+stam_id: "17426203"
+version_id: "30724762"
+internal_id: "C44034081"
+label_id: "17329224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051029/2026-01-17/0"
+intitule_bron: "Stcrt.2025-16780"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-08"
+intitule_published: "2025-05-16"
+intitule_in_force: "2025-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-16780"
+original_signed_date: "2025-05-08"
+original_published_date: "2025-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-16780"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051029&z=2026-01-17&g=2026-01-17"
+jci_1_0: "1.0:c:BWBR0051029&g=2026-01-17"
+citeertitel_status: "officieel"
+short_title: "Regeling bijzondere neurochirurgie"
+signed_date: "2025-05-08"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 mei 2025, kenmerk 4103610-1081657-PZO, houdende regels ten aanzien van het verlenen van vergunningen voor bijzondere neurochirurgie (Regeling bijzondere neurochirurgie)
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **wet:** [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister kan een vergunning verlenen voor het uitvoeren van bijzondere neurochirurgie en één of meer van de volgende specifieke verrichtingen op het gebied van bijzondere neurochirurgie:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 3. De wijze waarop in de behoefte wordt voorzien, is neergelegd in paragrafen 1 en 2 van de bijlage bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De procedure omtrent de vergunningverlening en de voorwaarden waaraan moet worden voldaan, zijn neergelegd in paragraaf 3 van de bijlage bij deze regeling.
 
@@ -66,7 +92,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de vergunninghouder draagt zorg voor vastlegging van gegevens die van belang zijn voor een goede uitvoering van één of meer in de vergunning genoemde verrichtingen in de landelijke kwaliteitsregistratie van de beroepsgroep. Als het om persoonsgegevens gaat, geldt dit voorschrift uitsluitend indien en voor zover daarvoor toestemming als bedoeld in artikel 6, eerste lid, onder a, of artikel 9, tweede lid, onder a, van de Algemene verordening gegevensbescherming is verkregen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een instelling op het tijdstip van inwerkingtreding van deze regeling krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) bevoegd is tot het, al dan niet in samenwerkingsverband, uitvoeren van bijzondere neurochirurgie, geldt die bevoegdheid als een aan die instelling krachtens deze regeling verleende vergunning voor het uitvoeren van bijzondere neurochirurgie, met uitzondering van de specifieke verrichtingen, bedoeld in [artikel 2, eerste lid, onderdelen a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0051029&artikel=2&z=2026-01-17&g=2026-01-17), met ingang van de dag waarop deze regeling in werking treedt en voor de duur van tien jaar.
 
@@ -78,19 +104,19 @@ In deze regeling wordt verstaan onder:
 
 5. De houder van de vergunning, bedoeld in het eerste lid, is tevens bevoegd tot het uitvoeren van de specifieke verrichting kinderneurochirurgie, bedoeld in [artikel 2, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051029&artikel=2&z=2026-01-17&g=2026-01-17), indien de betreffende instelling op het tijdstip, bedoeld in het eerste lid, krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) en in overeenstemming met het [Planningsbesluit neurochirurgie 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012776) kinderneurochirurgie verrichtte.
 
-#### Artikel 5
+##### Artikel 5
 
 Het [Planningsbesluit neurochirurgie 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012776) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Regeling aanwijzing bijzondere medische verrichtingen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling wordt aangehaald als: Regeling bijzondere neurochirurgie.
 

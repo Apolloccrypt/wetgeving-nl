@@ -1,14 +1,37 @@
 ---
-title: "Uitvoeringswet Bewijsverdrag"
+title: "Wet van 11 december 1980, houdende uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken"
 identifier: "BWBR0003362"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003362"
+country: "nl"
+rank: "wet"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003362"
+soort: "wet"
+stam_id: "1776173"
+version_id: "2640792"
+internal_id: "C2640791"
+label_id: "1732224"
+dtd_version: "2.0"
+original_entry_into_force: "1981-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003362/2025-01-01/0"
+intitule_bron: "Stb.1980-653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1980-12-11"
+intitule_status: "goed"
+original_publication: "Stb.1980-653"
+original_signed_date: "1980-12-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1981-06-07"
+entry_into_force_dossier: "15661"
+jci_1_3: "jci1.3:c:BWBR0003362&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0003362&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet Bewijsverdrag"
+signed_date: "1980-12-11"
+entry_into_force: "1981-06-07"
 ---
-
-# Uitvoeringswet Bewijsverdrag
+# Wet van 11 december 1980, houdende uitvoering van het op 18 maart 1970 te 's-Gravenhage tot stand gekomen Verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +41,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt onder "het verdrag" verstaan: het op 18 maart 1970 te 's-Gravenhage tot stand gekomen verdrag inzake de verkrijging van bewijs in het buitenland in burgerlijke en in handelszaken, waarvan de Franse en de Engelse tekst in **Tractatenblad** 1969, nr. 94 alsmede de vertaling in het Nederlands in **Tractatenblad** 1979, nr. 38 is geplaatst.
 
-#### Artikel 2
+##### Artikel 2
 
 Als centrale autoriteit, bedoeld in artikel 2 van het verdrag, wordt voor Nederland aangewezen de rechtbank Den Haag.
 
-#### Artikel 3
+##### Artikel 3
 
 Rogatoire commissies, waarvan de toezending niet is geschied overeenkomstig de voorschriften van het verdrag, worden door de ontvanger onder opgaaf van redenen toegezonden aan de centrale autoriteit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als de autoriteit door welke overeenkomstig de bepalingen van het verdrag de uitvoering geschiedt van rogatoire commissies, afkomstig uit de Staten waar het verdrag van kracht is, wordt aangewezen de rechtbank.
 
@@ -38,7 +61,7 @@ Rogatoire commissies, waarvan de toezending niet is geschied overeenkomstig de v
 
 ### Hoofdstuk II. De behandeling van uit een verdragsstaat ontvangen rogatoire commissies
 
-#### Artikel 5
+##### Artikel 5
 
 1. De centrale autoriteit gaat na of de rogatoire commissie voldoet aan de bepalingen van het verdrag.
 
@@ -48,7 +71,7 @@ Rogatoire commissies, waarvan de toezending niet is geschied overeenkomstig de v
 
 4. Bij algemene maatregel van bestuur kunnen met betrekking tot het tweede lid nadere regels worden gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Is de centrale autoriteit van oordeel dat de rogatoire commissie niet voldoet aan de bepalingen van het verdrag, dan stelt de centrale autoriteit de autoriteit van de verzoekende Staat die de rogatoire commissie heeft overgemaakt onverwijld daarvan in kennis en doet daarbij nauwkeurige opgave van de bezwaren welke tegen het verzoek zijn gerezen.
 
@@ -56,23 +79,23 @@ Rogatoire commissies, waarvan de toezending niet is geschied overeenkomstig de v
 
 3. Een rogatoire commissie die betrekking heeft op een procedure welke in de Staten waar de "common law" geldt bekend is als "pre-trial discovery of documents", wordt behandeld overeenkomstig de bepalingen van de voorgaande leden.
 
-#### Artikel 7
+##### Artikel 7
 
 Oordeelt de centrale autoriteit dat artikel 12, eerste lid, onder b, van het verdrag van toepassing is, dan zendt deze de stukken onder opgaaf van redenen aan Onze Minister van Justitie, die zo nodig na overleg met Onze Minister van Buitenlandse Zaken, beslist.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 De rechter die met de uitvoering van de rogatoire commissie is belast kan, indien hij zulks voor een goede uitvoering nodig oordeelt, de stukken door een beëdigd vertaler in het Nederlands doen vertalen. Hij kan daartoe de tussenkomst van de centrale autoriteit verzoeken. De kosten van de vertaling zijn kosten als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003362&hoofdstuk=II&artikel=13&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op het verhoor van personen ter zake van rogatoire commissies vinden zoveel mogelijk de bepalingen van de Nederlandse wet toepassing, als gold het een geding voor een Nederlandse rechter.
 
@@ -80,19 +103,19 @@ De rechter die met de uitvoering van de rogatoire commissie is belast kan, indie
 
 3. De rechter geeft toepassing aan een verschoningsrecht of een verbod tot het afleggen van een verklaring overeenkomstig artikel 11, eerste lid, van het verdrag en oordeelt zelfstandig over de erkenning van een verschoningsrecht of een verbod als bedoeld in artikel 11, tweede lid, van het verdrag.
 
-#### Artikel 12
+##### Artikel 12
 
 Van de uitvoering van de rogatoire commissie wordt proces-verbaal opgemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 Alle kosten van de uitvoering van rogatoire commissies komen ten laste van de Staat, behoudens de kosten bedoeld in artikel 14, tweede lid, van het verdrag en de kosten welke met toepassing van artikel 26, tweede lid, van het verdrag worden verhaald.
 
-#### Artikel 14
+##### Artikel 14
 
 De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal daarvan, zonodig vergezeld van een opgave van de kosten welke niet ten laste van de Staat komen, aan de centrale autoriteit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De centrale autoriteit zendt het proces-verbaal van uitvoering van de rogatoire commissie onverwijld en zonder dat een vertaling wordt bijgevoegd aan de verzoekende autoriteit van de Staat waaruit de commissie is ontvangen, langs dezelfde weg die deze heeft gebruikt.
 
@@ -102,13 +125,13 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 ### Hoofdstuk III. Rogatoire commissies door de Nederlandse rechter opgedragen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien door de Nederlandse rechter overeenkomstig de voorschriften van het verdrag een rogatoire commissie wordt opgedragen aan de bevoegde autoriteit van een der Staten waar het verdrag van kracht is, zendt de griffier de stukken aan de in artikel 2 van het verdrag bedoelde centrale autoriteit van die Staat, hetzij aan een andere autoriteit die overeenkomstig artikel 24 van het verdrag tevens is aangewezen tot het in ontvangst nemen van rogatoire commissies.
 
 2. De stukken gaan vergezeld van een door een beëdigd vertaler vervaardigde vertaling in de taal van de aangezochte autoriteit dan wel, indien artikel 4, tweede of vierde lid, van het verdrag voor de betreffende Staat van toepassing is, in het Frans, het Engels of een andere taal waarin een rogatoire commissie aan de centrale autoriteit van die Staat kan worden gericht. De rechter kan bepalen welke der partijen zorg draagt voor en de kosten betaalt van deze vertaling.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rogatoire commissie moet de volgende gegevens bevatten:
 
@@ -134,17 +157,17 @@ De rechter die de rogatoire commissie heeft uitgevoerd zendt het proces-verbaal 
 
 3. De rogatoire commissie vermeldt tevens zonodig de inlichtingen welke nodig zijn voor de toepassing van artikel 11 van het verdrag.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Omtrent de vergoedingen en kosten waarvan door de betrokken aangezochte Staat terugbetaling wordt verzocht, wordt door de rechter overeenkomstig de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=237) en [289 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=289) uitspraak gedaan, voorzover deze artikelen daarvoor een vergoeding plegen in te sluiten.
 
 2. De griffier betaalt de in het voorgaande lid bedoelde kosten en vergoedingen aan de centrale autoriteit van die aangezochte Staat en brengt deze, voorzover zij in een veroordeling in de proceskosten plegen te worden begrepen, in rekening bij de eiser of verzoeker, tenzij de rechter daartoe in verband met de omstandigheden van het geding de verweerder, de eiser en verweerder gezamenlijk, een of meer andere belanghebbenden of dezen met de verzoeker gezamenlijk heeft aangewezen. Met betrekking tot de terugbetaling van de vergoeding voor deskundigen zijn de derde tot en met vijfde volzin van [artikel 187 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=187) van overeenkomstige toepassing. In de in deze zinnen bedoelde gevallen zijn de [artikelen 191, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=191), en [244, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=244) van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden opgeroepen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De processen-verbaal van de uitvoering der rogatoire commissies hebben gelijke kracht als die van de Nederlandse rechter.
 
@@ -152,7 +175,7 @@ De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden 
 
 ### Hoofdstuk IV. Uitvoering van de artikelen 8 en 17 van het verdrag
 
-#### Artikel 21
+##### Artikel 21
 
 1. De autoriteit, bedoeld in artikel 8, tweede zin, van het verdrag, die toestemming moet verlenen aan een rechterlijke ambtenaar van de verzoekende autoriteit tot het bijwonen van de uitvoering van een rogatoire commissie is: de rechter die met de uitvoering van de rogatoire commissie is belast.
 
@@ -160,7 +183,7 @@ De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden 
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde voorwaarden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De autoriteit, bedoeld in artikel 17, eerste lid, onder a) van het verdrag, die verlof moet verlenen tot de uitvoering van onderzoekshandelingen door een daartoe benoemde commissaris is: de voorzieningenrechter van de rechtbank van het arrondissement waar de onderzoekshandeling moet worden verricht. In geval van een getuigenverhoor of deskundigenverhoor is dit het arrondissement waar de getuigen of deskundigen, of het grootste aantal van hen, woonachtig zijn of verblijven.
 
@@ -190,13 +213,13 @@ De rechter stelt zo nodig de dag vast, waarop de zaak weer ter rolle zal worden 
 
 ### Slotbepaling
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Een afwijzende beslissing op grond van artikel 5, artikel 9, tweede lid, en artikel 12, eerste lid, onder a, van het verdrag wordt beschouwd als een beschikking waartegen voor partijen in de hoofdprocedure hoger beroep openstaat overeenkomstig de [vierde afdeling van titel 7 van het Eerste Boek van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&afdeling=Vierde), met dien verstande dat het hoger beroep de werking niet schorst, tenzij de rechter anders heeft bepaald, en dient te worden ingesteld binnen een termijn van vier weken te rekenen vanaf de dag van de beslissing.
 

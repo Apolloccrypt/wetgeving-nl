@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen"
 identifier: "BWBV0001593"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-08-20
-laatste_update: 2013-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001593"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-08-20"
+last_updated: "2013-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001593"
+soort: "verdrag"
+stam_id: "10000697533"
+version_id: "10005744212"
+internal_id: "C10009009351"
+label_id: "10000697884"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001593/2013-08-20/0"
+intitule_bron: "Trb.2015-192"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2015-12-01"
+intitule_in_force: "2015-12-01"
+intitule_status: "vervallen"
+original_publication: "Trb.2015-192"
+original_published_date: "2015-12-01"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2015-192"
+entry_into_force_date: "2013-08-20"
+jci_1_3: "jci1.3:c:BWBV0001593&z=2013-08-20&g=2013-08-20"
+jci_1_0: "1.0:c:BWBV0001593&g=2013-08-20"
+citeertitel_status: "officieel"
+entry_into_force: "2013-08-20"
 ---
-
 # Verdrag betreffende de werktijden van zeevarenden en de bemanning van schepen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -28,109 +50,109 @@ Neemt heden, de tweeëntwintigste oktober van het jaar negentienhonderd zesenneg
 
 ## DEEL I. REIKWIJDTE EN DEFINITIES
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ## DEEL II. WERKTIJDEN EN RUSTTIJDEN VAN ZEEVARENDEN
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ## DEEL III. DE BEMANNING VAN SCHEPEN
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 ## DEEL IV. VERANTWOORDELIJKHEDEN VAN REDERS EN KAPITEINS
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
 ## DEEL V. TOEPASSING
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 

@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel registratie snelle motorboten"
 identifier: "BWBR0040997"
-categorie: "Overig"
-publicatiedatum: 2018-06-10
-laatste_update: 2018-06-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040997"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-06-10"
+last_updated: "2018-06-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040997"
+soort: "zbo"
+stam_id: "14631413"
+version_id: "25054582"
+internal_id: "C35831041"
+label_id: "14584394"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040997/2018-06-10/0"
+intitule_bron: "Stcrt.2018-31386"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-08"
+intitule_in_force: "2018-06-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-31386"
+original_published_date: "2018-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-31386"
+entry_into_force_date: "2018-06-10"
+jci_1_3: "jci1.3:c:BWBR0040997&z=2018-06-10&g=2018-06-10"
+jci_1_0: "1.0:c:BWBR0040997&g=2018-06-10"
+citeertitel_status: "officieel"
+entry_into_force: "2018-06-10"
 ---
-
 # Beleidsregel registratie snelle motorboten
 
 Gelet op [artikel 8.01, eerste lid, Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) en de [Regeling registratie snelle motorboten 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0008666), alsmede [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De begripsbepalingen van het [Binnenvaartpolitiereglement](onbekend) zijn onverkort van toepassing.
 
@@ -34,7 +56,7 @@ Voorts wordt verstaan onder:
 
 - **voorregistreren:** de ten behoeve van de registratie opgegeven gegevens van de snelle motorboot.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een register voor de registratie van snelle motorboten zoals bedoeld in [art. 8.01, eerste lid, Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=8.01) Dit register wordt aangeduid als het snelle motorbotenregister.
 
@@ -46,7 +68,7 @@ Voorts wordt verstaan onder:
 
 5. Na de tenaamstelling van een snelle motorboot in het register, geeft de Dienst Wegverkeer een registratiebewijs af.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Register bevat de volgende categorieën gegevens:
 
@@ -66,7 +88,7 @@ Voorts wordt verstaan onder:
 
 2. De in het eerste lid bedoelde gegevens worden, voor zover zij verband houden met een tenaamstelling, maximaal negen jaar na het verval van de tenaamstelling in het register bewaard. Andere geregistreerde gegevens worden gedurende een door de Dienst Wegverkeer vastgestelde periode bewaard.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Inschrijving in het Register en tenaamstelling vinden, tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van de daarvoor door deze dienst vastgestelde tarieven, plaats op aanvraag van:
 
@@ -74,7 +96,7 @@ Voorts wordt verstaan onder:
 
 - b. rechtspersonen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De eigenaar van een nog niet bij de Dienst Wegverkeer geregistreerde snelle motorboot dient deze boot voor te registreren bij de Dienst Wegverkeer.
 
@@ -84,7 +106,7 @@ Voorts wordt verstaan onder:
 
 4. Een voorgeregistreerde snelle motorboot die niet binnen 3 maanden na voorregistratie wordt ingeschreven wordt beschouwd als zijnde niet voorgeregistreerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De tenaamstelling van een snelle motorboot wordt geweigerd indien:
 
@@ -96,7 +118,7 @@ Voorts wordt verstaan onder:
 
 2. De inschrijving van een snelle motorboot wordt geweigerd indien het een snelle motorboot betreft als bedoeld in [artikel 2, eerste lid 1, sub a, onder 7, Wet pleziervaartuigen 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&artikel=2).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Degene op wiens naam een snelle motorboot in het Register is ingeschreven of degene die na diens overlijden eigenaar van een snelle motorboot is geworden, is, ingeval hij ophoudt eigenaar te zijn van een snelle motorboot waarvoor de inschrijving gold, gehouden het registratiebewijs ter hand te stellen aan degene die eigenaar van een snelle motorboot is geworden.
 
@@ -106,25 +128,25 @@ Voorts wordt verstaan onder:
 
 4. In afwijking van het derde lid houdt de Dienst Wegverkeer de beslissing op het verzoek, bedoeld in het tweede lid, aan indien daartoe naar het oordeel van deze dienst aanleiding bestaat. In dat geval wendt de aanvrager zich tot de Dienst Wegverkeer.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040997&artikel=7&z=2018-06-10&g=2018-06-10) kan de Dienst Wegverkeer een snelle motorboot te naam stellen, indien de aanvraag hiertoe wordt ingediend door een natuurlijk persoon of een rechtspersoon die verklaart eigenaar van een snelle motorboot te zijn en indien naar het oordeel van de Dienst Wegverkeer aannemelijk is gemaakt dat niet aan bedoelde verplichtingen kan worden voldaan.
 
 2. De Dienst Wegverkeer kan in verband met het bepaalde in het eerste lid verlangen dat de aanvrager van de inschrijving een bewijs overlegt van de eigendomsverkrijging, een door de Dienst Wegverkeer afgegeven legitimatiebewijs overlegt, indien mogelijk het registratiebewijs inlevert en eventueel andere documenten overhandigt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien wijzigingen worden aangebracht aan de snelle motorboot waardoor de technische gegevens niet meer overeenstemmen met de gegevens in het Register, wordt degene op wiens naam een snelle motorboot is geregistreerd of degene die na diens overlijden eigenaar van een snelle motorboot is geworden, geacht zo spoedig mogelijk bij de Dienst Wegverkeer de gewijzigde gegevens te melden.
 
 2. Indien de melding leidt tot wijziging van een gegeven in het Register en dit gegeven op het registratiebewijs staat, geeft de Dienst Wegverkeer aan degene die aan de in het eerste lid bedoelde verplichting heeft voldaan, tegen het daartoe geldende tarief, een registratiebewijs af.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanvraag van een vervangend registratiebewijs geschiedt bij de Dienst Wegverkeer.
 
 2. De Dienst Wegverkeer kan verlangen dat bij de aanvraag van een vervangend registratiebewijs het te vervangen registratiebewijs wordt ingeleverd alsmede dat een door de Dienst Wegverkeer aangewezen legitimatiebewijs wordt overgelegd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Dienst Wegverkeer verklaart een tenaamstelling vervallen indien;
 
@@ -152,10 +174,10 @@ Voorts wordt verstaan onder:
 
 5. De Dienst Wegverkeer kan een vervallen tenaamstelling laten herleven indien de reden daarvoor is komen te vervallen.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na dagtekening in de Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel registratie snelle motorboten. Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.

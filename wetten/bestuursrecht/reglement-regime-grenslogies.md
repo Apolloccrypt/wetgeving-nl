@@ -1,13 +1,35 @@
 ---
-title: "Reglement regime grenslogies"
+title: "Besluit van 14 januari 1993, houdende vaststelling van een reglement voor het regime in een grenslogies ingevolge artikel 7a, vierde lid, Vreemdelingenwet"
 identifier: "BWBR0005848"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-04-01
-laatste_update: 2001-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005848"
+country: "nl"
+rank: "amvb"
+publication_date: "2001-04-01"
+last_updated: "2001-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005848"
+soort: "AMvB"
+stam_id: "837093"
+version_id: "1215092"
+internal_id: "C1215091"
+label_id: "811334"
+dtd_version: "2.0"
+original_entry_into_force: "1993-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005848/2001-04-01/0"
+intitule_bron: "Stb.1993-45"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-01-14"
+intitule_status: "goed"
+original_publication: "Stb.1993-45"
+original_signed_date: "1993-01-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-04-01"
+jci_1_3: "jci1.3:c:BWBR0005848&z=2001-04-01&g=2001-04-01"
+jci_1_0: "1.0:c:BWBR0005848&g=2001-04-01"
+citeertitel_status: "officieel"
+short_title: "Reglement regime grenslogies"
+signed_date: "1993-01-14"
+entry_into_force: "1993-04-01"
 ---
-
 # Besluit van 14 januari 1993, houdende vaststelling van een reglement voor het regime in een grenslogies ingevolge artikel 7a, vierde lid, Vreemdelingenwet
 
 Op de voordracht van de Staatssecretaris van Justitie van 26 februari 1992, Stafafdeling Wetgeving Publiekrecht, nr. 192399/92/6;
@@ -22,11 +44,11 @@ Hebben goedgevonden en verstaan:
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit heeft betrekking op de ruimten als bedoeld in [artikel 6, derde lid, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=6) die door Onze Minister als zodanig zijn aangewezen en zijn bestemd voor de opname van vreemdelingen als bedoeld in het eerste lid van voornoemd artikel.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -38,7 +60,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ## Titel II. Beheer
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het opperbeheer van een grenslogies berust bij Onze Minister. Deze kan bij huishoudelijk reglement nadere regels vaststellen ter uitvoering van en in aanvulling op dit besluit.
 
@@ -50,13 +72,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 ## Titel III. Regime
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vreemdeling wordt aan geen andere beperkingen onderworpen dan die volstrekt noodzakelijk zijn om zijn verblijf in het grenslogies te verzekeren alsmede om de veiligheid en de orde aldaar te handhaven.
 
 2. De vreemdeling is gehouden bevelen gegeven door of namens de directeur ter verzekering van zijn verblijf alsmede ter handhaving van de veiligheid en orde in het grenslogies op te volgen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met inachtname van de beperkingen en de bevelen ingevolge [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=III&artikel=4&z=2001-04-01&g=2001-04-01) is de vreemdeling bevoegd:
 
@@ -74,13 +96,13 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 4. De directeur kan brieven en poststukken doen onderzoeken op de aanwezigheid van voorwerpen of stoffen die een gevaar kunnen opleveren voor de veiligheid en de orde in het grenslogies. Hij is bevoegd dergelijke voorwerpen of stoffen, tegen afgifte van een bewijs van ontvangst, onder zich te nemen en te houden gedurende het verblijf van de vreemdeling in het grenslogies.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De directeur kan een vreemdeling aan zijn kleding en zijn bagage doen onderzoeken op de aanwezigheid van voorwerpen of stoffen die een gevaar kunnen opleveren voor de veiligheid en orde in het grenslogies. Hij is bevoegd dergelijke voorwerpen of stoffen, tegen afgifte van een bewijs van ontvangst, onder zich te nemen en te houden gedurende het verblijf van de vreemdeling in het grenslogies.
 
 2. Bij binnenkomst van de vreemdeling en tijdens zijn verblijf in het grenslogies is de directeur bevoegd voorwerpen of stoffen die aan de vreemdeling toebehoren hem te doen ontnemen, indien deze een gevaar kunnen opleveren voor diens ongestoorde verblijf in het grenslogies. Hij kan hiertoe de bagage van de vreemdeling alsmede diens verblijfsruimte op de aanwezigheid van dergelijke voorwerpen of stoffen doen onderzoeken. Hij is bevoegd dergelijke voorwerpen of stoffen, tegen afgifte van een bewijs van ontvangst, onder zich te houden gedurende het verblijf van de vreemdeling in het grenslogies.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vreemdeling wordt ondergebracht individueel of in een groep, waarvan de directeur de samenstelling bepaalt. Aan elke vreemdeling of groep van vreemdelingen wordt een verblijfsruimte toegewezen.
 
@@ -96,7 +118,7 @@ Gedurende de voor de nachtrust bestemde uren is de vreemdeling gehouden in de aa
 
 4. Alvorens de vreemdeling in afzondering wordt geplaatst op de grond als bedoeld onder **b** van het tweede lid, hoort de directeur hem, tenzij de veiligheid en orde in de inrichting dit niet toelaten of communicatie met hem niet mogelijk is.
 
-#### Artikel 8
+##### Artikel 8
 
 De directeur draagt zorg voor:
 
@@ -112,7 +134,7 @@ De directeur draagt zorg voor:
 
 - f. de organisatie van ontspanningsactiviteiten ten behoeve van de vreemdelingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De vreemdeling ontvangt bij zijn binnenkomst, zo mogelijk in een voor hem begrijpelijke taal, een afschrift van dit besluit alsmede van het in het grenslogies geldende huishoudelijke reglement.
 
@@ -120,7 +142,7 @@ De directeur draagt zorg voor:
 
 ## Titel IV. Toezicht
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij elk grenslogies is een commissie van toezicht, waarvan de leden door Onze Minister worden benoemd en ontslagen.
 
@@ -128,11 +150,11 @@ De directeur draagt zorg voor:
 
 3. Aan de commissie is een secretaris verbonden. Deze wordt door Onze Minister, gehoord de commissie van toezicht, aangewezen.
 
-#### Artikel 11
+##### Artikel 11
 
 De vreemdeling kan zich met elke grief die verband houdt met zijn verblijf in het grenslogies wenden tot de commissie van toezicht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De commissie van toezicht heeft tot taak:
 
@@ -144,7 +166,7 @@ De vreemdeling kan zich met elke grief die verband houdt met zijn verblijf in he
 
 2. Ter uitvoering van de in het eerste lid, onder **b**, genoemde taak wijst zij uit haar midden een lid aan dat is belast met de behandeling van grieven als bedoeld in het eerste lid, onder **b**, en dat hiertoe regelmatig spreekuur houdt in het grenslogies.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De commissie van toezicht heeft te allen tijde toegang tot het grenslogies.
 
@@ -154,7 +176,7 @@ De vreemdeling kan zich met elke grief die verband houdt met zijn verblijf in he
 
 ## Titel V. Beklag
 
-#### Artikel 14
+##### Artikel 14
 
 De vreemdeling kan beklag doen over:
 
@@ -166,7 +188,7 @@ De vreemdeling kan beklag doen over:
 
 - d. enige andere hem door of vanwege de directeur opgelegde maatregel, waarbij wordt afgeweken van wettelijke voorschriften en voorzover deze verband houdt met zijn verblijf in het grenslogies.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De commissie van toezicht benoemt uit haar midden een beklagcommissie van drie leden, die is belast met de behandeling van klaagschriften als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0005848&titeldeel=V&artikel=14&z=2001-04-01&g=2001-04-01).
 
@@ -176,7 +198,7 @@ De vreemdeling kan beklag doen over:
 
 4. De behandeling van klaagschriften van eenvoudige aard, dan wel van klaagschriften die kennelijk niet ontvankelijk of kennelijk ongegrond zijn te achten kan geschieden door de voorzitter. De voorzitter kan de behandeling van een klacht ter behandeling verwijzen naar de beklagcommissie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De vreemdeling stelt beklag in door het indienen van een klaagschrift bij de beklagcommissie van het grenslogies, waarop de klacht betrekking heeft.
 
@@ -186,7 +208,7 @@ De vreemdeling kan beklag doen over:
 
 4. De secretaris van de beklagcommissie zendt een afschrift van het klaagschrift aan de directeur en stelt deze in de gelegenheid tot het geven van een schriftelijke toelichting.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De beklagcommissie stelt de klager en de directeur in de gelegenheid te worden gehoord, tenzij het klaagschrift kennelijk ongegrond of niet ontvankelijk wordt geacht te zijn.
 
@@ -196,7 +218,7 @@ De vreemdeling kan beklag doen over:
 
 4. De beklagcommissie stelt de klager en diens raadsman in de gelegenheid kennis te nemen van op de klacht betrekking hebbende stukken.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De beklagcommissie verklaart het klaagschrift gegrond, ongegrond, of niet ontvankelijk.
 
@@ -208,7 +230,7 @@ De vreemdeling kan beklag doen over:
 
 3. Indien bij gegrondverklaring van het beklag de gevolgen van de maatregel geheel of ten dele ongedaan kunnen worden gemaakt geeft de beklagcommissie hiertoe een aanwijzing aan de directeur. Voor zover de gevolgen niet of niet geheel ongedaan zijn te maken bepaalt zij op welke wijze de vreemdeling genoegdoening kan worden gegeven en geeft zij hiertoe aan de directeur het bevel.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De beklagcommissie stelt de directeur en de klager in kennis van haar beslissing.
 
@@ -216,11 +238,11 @@ De vreemdeling kan beklag doen over:
 
 ## Titel VI. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit kan worden aangehaald als het Reglement regime grenslogies.
 

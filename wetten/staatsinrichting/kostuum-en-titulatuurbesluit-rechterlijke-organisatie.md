@@ -1,13 +1,39 @@
 ---
-title: "Kostuum- en titulatuurbesluit rechterlijke organisatie"
+title: "Besluit van 22 december 1997 betreffende de titulatuur en het kostuum der rechterlijke ambtenaren alsmede het kostuum van de advocaten en van de procureurs (Reglement II)"
 identifier: "BWBR0009255"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009255"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009255"
+soort: "AMvB"
+stam_id: "789293"
+version_id: "1146392"
+internal_id: "C21693111"
+label_id: "765034"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009255/2015-01-01/0"
+intitule_bron: "Stb.1997-763"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-22"
+intitule_published: "1997-12-30"
+intitule_in_force: "1997-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2001-614"
+original_signed_date: "2001-12-10"
+original_published_date: "2001-12-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2001-614"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0009255&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0009255&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Kostuum- en titulatuurbesluit rechterlijke organisatie"
+signed_date: "2001-12-10"
+entry_into_force: "2002-01-01"
 ---
-
 # Besluit van 22 december 1997 betreffende de titulatuur en het kostuum der rechterlijke ambtenaren alsmede het kostuum van de advocaten en van de procureurs (Reglement II)
 
 Op de voordracht van Onze Minister van Justitie van 19 september 1997, Directie Wetgeving, nr. 653157/97/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### hoofdstuk Eerste. De titulatuur
 
-#### Artikel 1
+##### Artikel 1
 
 De rechterlijke ambtenaren voeren de volgende titulatuur:
 
@@ -36,23 +62,23 @@ De rechterlijke ambtenaren voeren de volgende titulatuur:
 
 ### hoofdstuk Tweede. Het ambtskostuum
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in artikel 1 genoemde rechterlijke ambtenaren, en degenen die door het bestuur zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden en de waarnemend griffiers bij de Hoge Raad zijn gekleed in het voor hun ambt voorgeschreven kostuum, bestaande uit een toga en een bef en, met inachtneming van de volgende artikelen, een baret, wanneer zij binnen een gebouw, dat als gerechtsgebouw dienst doet, in de uitoefening van hun ambt aanwezig zijn op een terechtzitting of wanneer zij in een gebouw als vorenbedoeld anders dan ter terechtzitting een ambtsverrichting vervullen, waarbij het dragen van het kostuum gepast is.
 
 2. Het eerste lid is niet van toepassing op de procureurs-generaal die het College van procureurs-generaal vormen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De toga is een lange wijde mantel met een staande kraag ter hoogte van ongeveer 4 cm, welke kraag aan de voorzijde in het midden een opening heeft van 8 cm. De toga is geheel gemaakt van zwarte stof, neerhangende tot ongeveer 10 cm boven de grond, in het midden van de achterzijde onder de kraag, evenals zijwaarts aan de bovenkant van de wijde mouwen, geplooid ingenomen, met aan de onderkant der mouwen omslagen ter breedte van ongeveer 20 cm en aan de voorzijde in het midden van boven tot onder om de 5 cm voorzien van een niet glimmende kleine zwarte knoop, een en ander in overeenstemming met de bij dit Reglement gevoegde afbeeldingen.
 
 2. De toga wordt gesloten gedragen. Aan de onderkant der mouwen behoort een voorziening te zijn getroffen, welke het terugvallen der mouwen verhindert.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor zover de toga is voorzien van banen, zijn deze ter breedte van ongeveer 18 cm evenwijdig aan elkander met een tussenruimte van ongeveer 8 cm verticaal aan de voorzijde aangebracht en wel van de bovenkant van elke schouder af tot aan de onderkant der toga.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De toga van de rechterlijke ambtenaren met rechtspraak belast, werkzaam bij de Hoge Raad, van de procureur-generaal, van de plaatsvervangend procureur-generaal, van de advocaten-generaal en van de advocaten-generaal in buitengewone dienst bij de Hoge Raad en van de griffier van de Hoge Raad is van zijde met banen en mouwomslagen van zwart fluweel.
 
@@ -60,27 +86,27 @@ Voor zover de toga is voorzien van banen, zijn deze ter breedte van ongeveer 18 
 
 3. De toga van de substituut-griffier en van de waarnemende griffiers van de Hoge Raad is van zijde zonder banen met mouwomslagen van zwart fluweel.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De toga van de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), is van dof grein of van een hierop gelijkende stof met banen en mouwomslagen van zwarte zijde. Het gedeelte tussen de banen is van zwart moiré.
 
 2. De toga van degenen die door het bestuur van het gerechtshof zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een gerechtshof is van dof grein of van een hierop gelijkende stof zonder banen en mouwomslagen van zwarte zijde.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De toga van de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), is van dof grein of van een hierop gelijkende stof met banen en mouwomslagen van zwarte zijde.
 
 2. De toga van degenen die door het bestuur van de rechtbank zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een rechtbank is van dof grein of van een hierop gelijkende stof zonder banen en mouwomslagen van zwarte zijde.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bef bestaat uit twee aan de bovenzijde aan elkander bevestigde stukken geplooid wit batist of een hierop gelijkende stof, beide stukken tezamen in geplooide toestand aan de bovenzijde 8 cm breed.
 
@@ -90,17 +116,17 @@ Vervallen
 
 4. Het bepaalde in het vorige lid is niet van toepassing indien en voor zover een gesteven witte boord met witte strik wordt gedragen.
 
-#### Artikel 11
+##### Artikel 11
 
 De baret is rond en heeft een staande rand ter hoogte van 5 cm en een 5 cm buiten die rand uitstekend plat geplooid bovenstuk, dat in het midden is voorzien van een platte knoop, bekleed met de stof, waarvan de baret is vervaardigd, een en ander in overeenstemming met de bij dit besluit gevoegde afbeeldingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De baret van de rechterlijke ambtenaren met rechtspraak belast, werkzaam bij de Hoge Raad, van de procureur-generaal, de plaatsvervangend procureur-generaal, de advocaten-generaal en de advocaten-generaal in buitengewone dienst bij de Hoge Raad en van de griffier van de Hoge Raad is van zwart fluweel met om de rand een hermelijnen boordsel.
 
 2. De baret van de substituut-griffier en van de waarnemende griffiers van de Hoge Raad is van zwarte zijde zonder boordsel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De baret van de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), is van zwart fluweel, die van de advocaten-generaal en de plaatsvervangend advocaten-generaal met de rand in zwarte zijde geborduurd met eiken-en oranjetakken als aangegeven in de bij dit besluit gevoegde afbeelding.
 
@@ -108,7 +134,7 @@ De baret is rond en heeft een staande rand ter hoogte van 5 cm en een 5 cm buite
 
 3. De baret van degenen die door het bestuur van het gerechtshof zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een gerechtshof is van zwarte zijde of van dezelfde stof als waarvan de daarbij gedragen toga is vervaardigd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De baret van de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), is van zwarte zijde, die van de hoofdofficier van justitie met de rand van zwart fluweel.
 
@@ -116,27 +142,27 @@ De baret is rond en heeft een staande rand ter hoogte van 5 cm en een 5 cm buite
 
 3. De baret van degenen die door het bestuur van de rechtbank zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een rechtbank is van zwarte zijde of van dezelfde stof als waarvan de daarbij gedragen toga is vervaardigd.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Tenzij het bestuur van een gerecht of de president van de Hoge Raad voor plechtige terechtzittingen anders bepaalt, kan de baret tijdens de terechtzitting of de ambtsverrichting ter zijde worden gelegd.
 
-#### Artikel 18
+##### Artikel 18
 
 De raadsheer-plaatsvervanger in een gerechtshof, de rechter-plaatsvervanger in een rechtbank, de plaatsvervangend advocaat-generaal, de plaatsvervangend officier van justitie en de plaatsvervangend officier enkelvoudige zittingen zijn, wanneer zij tijdens de vervulling van hun ambt ingevolge het bepaalde in artikel 2 een ambtskostuum dragen, gekleed hetzij in het kostuum, behorende bij het door hen waargenomen ambt, hetzij in het kostuum van de advocaat.
 
-#### Artikel 19
+##### Artikel 19
 
 De rechterlijk ambtenaar, werkzaam bij het openbaar ministerie, die wordt belast met de waarneming van een ander rechterlijk ambt bij het openbaar ministerie, is, wanneer hij tijdens het vervullen van de werkzaamheden behorende bij dat andere ambt het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=2&z=2015-01-01&g=2015-01-01) bedoelde kostuum moet dragen, gekleed in het voor zijn eigen ambt voorgeschreven kostuum.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Tijdens plechtige terechtzittingen en eveneens wanneer zij in het bij artikel 2 bedoelde kostuum een buiten een gerechtsgebouw plaats vindende openbare plechtigheid bijwonen, dragen de aldaar genoemde personen onder de toga donkere kleding en zwarte schoenen.
 
@@ -144,7 +170,7 @@ De rechterlijk ambtenaar, werkzaam bij het openbaar ministerie, die wordt belast
 
 ### hoofdstuk Derde. Het galakostuum
 
-#### Artikel 21
+##### Artikel 21
 
 Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen de in artikel 1 genoemde rechterlijke ambtenaren een kostuum dragen, bestaande uit:
 
@@ -154,7 +180,7 @@ Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen 
 
 - c. een tweebladige steek met zwarte liggende struisveren, oranje cocarde, een lis van zes strengen en een knoop als op de rok; bij welk kostuum wordt gedragen een degen met verguld gevest in een zwarte schede; een en ander met inachtneming van het bepaalde bij de artikelen 22 tot en met 26 en in overeenstemming met de afbeeldingen, welke door Onze Minister van Justitie zullen worden bewaard.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De rok, gedragen door de rechterlijke ambtenaren met rechtspraak belast, werkzaam bij de Hoge Raad, de procureur-generaal, de plaatsvervangend procureur-generaal, de advocaten-generaal en de advocaten-generaal in buitengewone dienst bij de Hoge Raad, zomede de griffier van de Hoge Raad is in goud geborduurd met eiken- en oranjetakken op de kraag, op de zakkleppen, op het rugstuk tussen deze kleppen en op de omslagen der mouwen, het borduursel ter breedte van 6 cm, de knopen verguld.
 
@@ -162,7 +188,7 @@ Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen 
 
 3. De steek, gedragen door de in het eerste lid genoemde rechterlijke ambtenaren, heeft een lis van goud.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De rok, gedragen door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), alsmede degenen die door het bestuur zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een gerechtshof is in zilver geborduurd met eiken- en oranjetakken op de kraag, op de zakkleppen, op het rugstuk tussen deze kleppen en op de omslagen der mouwen, het borduursel ter breedte van 6 cm, de knopen verzilverd.
 
@@ -170,7 +196,7 @@ Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen 
 
 3. De steek, gedragen door de in het eerste lid genoemde rechterlijke ambtenaren, heeft een lis van zilver.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De rok, gedragen door de rechterlijke ambtenaren, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01), en degenen die door het bestuur zijn aangewezen of benoemd voor het verrichten van griffierswerkzaamheden bij een rechtbank, is in zilver geborduurd met eiken- en oranjetakken op de kraag, op de zakkleppen, op het rugstuk tussen deze kleppen en op de omslagen der mouwen, het borduursel ter breedte van 4 cm, de knopen verzilverd.
 
@@ -178,17 +204,17 @@ Individueel ten Hove verschijnende of openbare plechtigheden bijwonende, kunnen 
 
 3. De steek, gedragen door de in het eerste lid genoemde rechterlijke ambtenaren, heeft een lis van zilver.
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=21&z=2015-01-01&g=2015-01-01) bedoelde kostuum voor de substituut-griffier van de Hoge Raad is gelijk aan het kostuum dat in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Derde&artikel=22&z=2015-01-01&g=2015-01-01) is voorgeschreven voor de griffier van de Hoge Raad, met dien verstande dat het borduursel op de omslagen van de mouwen de halve breedte heeft.
 
 ### hoofdstuk Vierde. Het kostuum van de advocaten
 
-#### Artikel 27
+##### Artikel 27
 
 1. De advocaten, in hun hoedanigheid binnen een gebouw, dat als gerechtsgebouw dienst doet, optredende ter terechtzitting van een in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Eerste&artikel=1&z=2015-01-01&g=2015-01-01) genoemd college of ter gelegenheid van een ambtsverrichting bij de vervulling waarvan het college of de hiervan lid zijnde rechterlijke ambtenaar het kostuum draagt, zomede tijdens hun beëdiging zijn gekleed in toga met bef.
 
@@ -198,11 +224,11 @@ Het in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=De
 
 4. Indien het bestuur van een gerecht of de president van de Hoge Raad ter gelegenheid van een terechtzitting of plechtigheid als bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=20&z=2015-01-01&g=2015-01-01) het dragen van ridderorden en eretekenen heeft voorgeschreven, geldt zijn voorschrift ook voor de advocaten, die de zitting of plechtigheid bijwonen.
 
-#### Artikel 28
+##### Artikel 28
 
 De toga van de advocaten is gelijk aan die, welke is omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=3&z=2015-01-01&g=2015-01-01), met dien verstande, dat de toga is van dof grein of van een hierop gelijkende stof zonder banen met aan de mouwen omslagen van dezelfde stof.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De door de advocaten te dragen bef is gelijk aan die, welke is omschreven in het [eerste en tweede lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009255&hoofdstuk=Tweede&artikel=10&z=2015-01-01&g=2015-01-01).
 
@@ -210,7 +236,7 @@ De toga van de advocaten is gelijk aan die, welke is omschreven in [artikel 3](h
 
 3. Het bepaalde in het vorige lid is niet van toepassing, indien en voor zover een gesteven witte boord met witte strik wordt gedragen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De advocaten mogen in de gevallen, waarin zij een toga met bef dragen, desverkiezende gedekt zijn met een baret.
 
@@ -218,15 +244,15 @@ De toga van de advocaten is gelijk aan die, welke is omschreven in [artikel 3](h
 
 ### hoofdstuk Vijfde. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Kostuum- en titulatuurbesluit rechterlijke organisatie.
 

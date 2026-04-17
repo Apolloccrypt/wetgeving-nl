@@ -1,18 +1,44 @@
 ---
-title: "Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen"
 identifier: "BWBR0023641"
-categorie: "Overig"
-publicatiedatum: 2008-03-20
-laatste_update: 2008-03-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023641"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-03-20"
+last_updated: "2008-03-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023641"
+soort: "ministeriele-regeling"
+stam_id: "9453043"
+version_id: "15221752"
+internal_id: "C20741271"
+label_id: "9430574"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023641/2008-03-20/0"
+intitule_bron: "Stcrt.2008-55"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-03-07"
+intitule_published: "2008-03-18"
+intitule_in_force: "2008-03-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-55"
+original_signed_date: "2008-03-07"
+original_published_date: "2008-03-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-55-p16-SC84929"
+entry_into_force_date: "2008-03-20"
+jci_1_3: "jci1.3:c:BWBR0023641&z=2008-03-20&g=2008-03-20"
+jci_1_0: "1.0:c:BWBR0023641&g=2008-03-20"
+citeertitel_status: "officieel"
+short_title: "Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen"
+signed_date: "2008-03-07"
+entry_into_force: "2008-03-20"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 maart 2008, nr. CZ/TSZ/2836063, houdende de instelling van de commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - d. ziekenhuis: een instelling waar geneeskundige zorg door medisch specialisten met verblijf in de zin van [artikel 10 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=10) wordt verleend.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een commissie nadeelcompensatie afschaffing bouwregime waaronder nacalculatie gebouwgebonden kapitaallasten van ziekenhuizen.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 5. De commissie heeft daarnaast ook tot taak de Minister op basis van het door de Minister vast te stellen beleid te adviseren over nadeelcompensatie voor een individueel ziekenhuis ten gevolge van de afschaffing bouwregime waaronder nacalculatie voor gebouwgebonden kapitaallasten. De commissie zal niet adviseren over de academische ziekenhuizen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De leden van de commissie worden benoemd en ontslagen door de Minister.
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 3. De voorzitter en de leden handelen zonder last en ruggespraak.
 
-#### Artikel 4
+##### Artikel 4
 
 Tot lid van de commissie worden benoemd:
 
@@ -74,32 +100,32 @@ Tot lid van de commissie worden benoemd:
 
 - –. dhr. prof. dr. A. Hordijk
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie stelt haar eigen werkwijze vast en kan in overleg met de Minister externe deskundigheid inschakelen. De commissie zal uiterlijk 1 juli 2008 advies uitbrengen over de algemene criteria voor nadeelcompensatie en uiterlijk 1 oktober 2008 over de wijze van berekening van nadeelcompensatie en over nadeelcompensatie bij individuele ziekenhuizen.
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie doet op verzoek van de Minister verslag van haar werkzaamheden.
 
-#### Artikel 7
+##### Artikel 7
 
 Het beheer van de archiefbescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Volksgezondheid, Welzijn en Sport. De archiefbescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat Ministerie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie kan van een ziekenhuis verlangen dat het toestemming verleent aan een derde om alle relevante gegevens over het ziekenhuis ter beschikking te stellen aan de commissie.
 
 2. Op verzoek van de NZa zal de commissie – met toestemming van het ziekenhuis – alle relevante, bij de totstandkoming van het eindadvies gebruikte informatie, aan de NZa geven zodra het eindadvies aan de Minister is verzonden.
 
-#### Artikel 9
+##### Artikel 9
 
 De voorzitter en de leden van de commissie ontvangen voor het voorbereiden en bijwonen van een vergadering een vergoeding.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. De commissie houdt op te bestaan op het moment dat het eindadvies is uitgebracht.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Instellingsregeling commissie nadeelcompensatie afschaffing bouwregime en kapitaallasten ziekenhuizen.

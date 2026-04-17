@@ -1,13 +1,37 @@
 ---
 title: "Uitvoervrijstelling (Warenwet)"
 identifier: "BWBR0005637"
-categorie: "Overig"
-publicatiedatum: 1993-07-15
-laatste_update: 1993-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005637"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1993-07-15"
+last_updated: "1993-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005637"
+soort: "ministeriele-regeling"
+stam_id: "4706313"
+version_id: "6522652"
+internal_id: "C6980111"
+label_id: "4684504"
+dtd_version: "2.0"
+original_entry_into_force: "1992-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005637/1993-07-15/0"
+intitule_bron: "Stcrt.1992-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-09-03"
+intitule_published: "1992-09-17"
+intitule_in_force: "1992-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-180"
+original_signed_date: "1992-09-03"
+original_published_date: "1992-09-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-09-20"
+jci_1_3: "jci1.3:c:BWBR0005637&z=1993-07-15&g=1993-07-15"
+jci_1_0: "1.0:c:BWBR0005637&g=1993-07-15"
+citeertitel_status: "officieel"
+signed_date: "1992-09-03"
+entry_into_force: "1992-09-20"
 ---
-
 # Uitvoervrijstelling (Warenwet)
 
 handelende in overeenstemming met de Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -18,11 +42,11 @@ Gezien het advies van de Adviescommissie [Warenwet](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Ten aanzien van waren welke kennelijk bestemd zijn voor uitvoer, wordt vrijstelling verleend van krachtens de [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969) (Stb. 1935, 793) vastgestelde voorschriften:
 
@@ -46,11 +70,11 @@ Ten aanzien van waren welke kennelijk bestemd zijn voor uitvoer, wordt vrijstell
 
 - voor wat betreft voorschriften met betrekking tot aanduidingen en vermeldingen, die voorgeschreven aanduidingen en vermeldingen zijn gesteld in een taal die begrijpelijk moet worden geacht voor de ge- of verbruiker in het land van bestemming;
 
-#### Artikel 3
+##### Artikel 3
 
 De beschikking van de Staatssecretaris van Sociale Zaken en Volksgezondheid, van de Staatssecretaris van Economische Zaken en van de Minister van Landbouw en Visserij van 19 augustus 1965 (Stcrt. 163) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze regeling kan worden aangehaald als Uitvoervrijstelling (Warenwet).
 

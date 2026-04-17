@@ -1,13 +1,38 @@
 ---
 title: "Besluit goedkeuring tarieven Stichting Groene Erkenningen 2026"
 identifier: "BWBR0052060"
-categorie: "Overig"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052060"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052060"
+soort: "ministeriele-regeling"
+stam_id: "17701153"
+version_id: "31235922"
+internal_id: "C44674021"
+label_id: "17599984"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052060/2025-12-31/0"
+intitule_bron: "Stcrt.2025-44848"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-18"
+intitule_published: "2025-12-30"
+intitule_in_force: "2025-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44848"
+original_signed_date: "2025-12-18"
+original_published_date: "2025-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44848"
+entry_into_force_date: "2025-12-31"
+jci_1_3: "jci1.3:c:BWBR0052060&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0052060&g=2025-12-31"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-18"
+entry_into_force: "2025-12-31"
 ---
-
 # Besluit goedkeuring tarieven Stichting Groene Erkenningen 2026
 
 **Procesverloop**
@@ -20,15 +45,15 @@ Een wijziging van het tarievenbesluit kan plaatsvinden indien de hoogte van de t
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende door Stichting Groene Erkenningen in het voorstel van 30 oktober 2025 voorgestelde tarieven voor het kalenderjaar 2026, zoal opgenomen in de bijlagen behorende bij dit besluit, worden goedgekeurd: a. kwaliteitsbeoordeling en certificering, activiteiten gericht op beoordelen toetsen, officieel erkennen van opleidingen, lesplannen of kwalificaties; b. examens en toets verwerking, taken die te maken hebben met het organiseren, afnemen, verwerken en registreren van toets- of examenresultaten; c. activiteiten die horen bij de administratieve of financiële afhandeling van (na)scholingsbijeenkomsten.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en geldt tot en met 31 december 2026. Indien de Staatscourant waarin de mededeling van dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2025, treedt het besluit ¡n werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de mededeling wordt geplaatst, en werkt het besluit terug tot en met 1 januari 2026.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt bekendgemaakt door toezending aan de aanvrager. Van dit besluit wordt mededeling gedaan door plaatsing in de Staatscourant.
 

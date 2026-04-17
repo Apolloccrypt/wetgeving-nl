@@ -1,13 +1,38 @@
 ---
 title: "Besluit beperking openbaarheid archiefbescheiden Commissariaat voor Ambonezenzorg (CAZ) periode (1949) 1952–1970 (1985)"
 identifier: "BWBR0046633"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-05-05
-laatste_update: 2022-05-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046633"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-05-05"
+last_updated: "2022-05-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046633"
+soort: "ministeriele-regeling"
+stam_id: "16351783"
+version_id: "28607542"
+internal_id: "C40359521"
+label_id: "16276374"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046633/2022-05-05/0"
+intitule_bron: "Stcrt.2022-11843"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-19"
+intitule_published: "2022-05-04"
+intitule_in_force: "2022-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-11843"
+original_signed_date: "2022-04-19"
+original_published_date: "2022-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-11843"
+entry_into_force_date: "2022-05-05"
+jci_1_3: "jci1.3:c:BWBR0046633&z=2022-05-05&g=2022-05-05"
+jci_1_0: "1.0:c:BWBR0046633&g=2022-05-05"
+citeertitel_status: "redactioneel"
+signed_date: "2022-04-19"
+entry_into_force: "2022-05-05"
 ---
-
 # Besluit beperking openbaarheid archiefbescheiden Commissariaat voor Ambonezenzorg (CAZ) periode (1949) 1952–1970 (1985)
 
 Gelet op [artikel 15, lid 1, onder a van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15); [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 10 november 2021, met kenmerk 27744066.
@@ -16,7 +41,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden van het Commissariaat voor Ambonezenzorg (CAZ) over de periode (1949) 1952–1970 (1985).
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -6184,15 +6209,15 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 8504 | 2039 |
 | 8505 | 2039 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046633&artikel=1&z=2022-05-05&g=2022-05-05), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met (bijzondere) persoonsgegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046633&artikel=1&z=2022-05-05&g=2022-05-05), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de
 

@@ -1,13 +1,38 @@
 ---
 title: "Herziening Circulaire schietlawaai"
 identifier: "BWBR0019675"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-05-04
-laatste_update: 2006-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019675"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-05-04"
+last_updated: "2006-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019675"
+soort: "circulaire"
+stam_id: "8260433"
+version_id: "13100382"
+internal_id: "C17647471"
+label_id: "8241544"
+dtd_version: "2.0"
+original_entry_into_force: "2006-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019675/2006-05-04/0"
+intitule_bron: "Stcrt.2006-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-03-17"
+intitule_published: "2006-05-04"
+intitule_in_force: "2006-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-87"
+original_signed_date: "2006-03-17"
+original_published_date: "2006-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-87-p20-SC74890"
+entry_into_force_date: "2006-05-04"
+jci_1_3: "jci1.3:c:BWBR0019675&z=2006-05-04&g=2006-05-04"
+jci_1_0: "1.0:c:BWBR0019675&g=2006-05-04"
+citeertitel_status: "redactioneel"
+signed_date: "2006-03-17"
+entry_into_force: "2006-05-04"
 ---
-
 # Herziening Circulaire schietlawaai
 
 Aan het bestuur van (betrokken) provincies en gemeenten etc

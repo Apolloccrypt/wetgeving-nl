@@ -1,13 +1,39 @@
 ---
-title: "Regeling lerarenbeurs voor scholing, zij-instroom en bewegingsonderwijs 2009–2017"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 mei 2009, nr. DL/B/110284, houdende regels voor het verstrekken van subsidie aan leraren met een onderwijsbevoegdheid om substantiële scholing te bevorderen en het verstrekken van subsidie ten behoeve van zij-instromers in het voortgezet onderwijs, het beroepsonderwijs en de educatie om hun onderwijsbevoegdheid te behalen (Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011)"
 identifier: "BWBR0025844"
-categorie: "Onderwijs"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025844"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025844"
+soort: "ministeriele-regeling"
+stam_id: "10041423"
+version_id: "16418212"
+internal_id: "C34479491"
+label_id: "10018254"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025844/2019-01-01/0"
+intitule_bron: "Stcrt.2009-90"
+intitule_effect: "intrekking-regeling"
+intitule_signed: "2009-05-06"
+intitule_published: "2009-05-18"
+intitule_in_force: "2009-05-18"
+intitule_status: "vervallen"
+original_publication: "Stcrt.2009-90"
+original_signed_date: "2009-05-06"
+original_published_date: "2009-05-18"
+original_effect: "intrekking-regeling"
+original_url_id: "stcrt-2009-7189"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0025844&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0025844&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling lerarenbeurs voor scholing, zij-instroom en bewegingsonderwijs 2009–2017"
+signed_date: "2009-05-06"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 mei 2009, nr. DL/B/110284, houdende regels voor het verstrekken van subsidie aan leraren met een onderwijsbevoegdheid om substantiële scholing te bevorderen en het verstrekken van subsidie ten behoeve van zij-instromers in het voortgezet onderwijs, het beroepsonderwijs en de educatie om hun onderwijsbevoegdheid te behalen (Regeling lerarenbeurs voor scholing en zij-instroom 2009–2011)
 
 ### Hoofdstuk 1. Algemeen
@@ -16,23 +42,23 @@ bron: "https://wetten.overheid.nl/BWBR0025844"
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 3. Te subsidiëren activiteiten lerarenbeurs
+##### Artikel 3. Te subsidiëren activiteiten lerarenbeurs
 
 Vervallen
 
-#### Artikel 4. Eisen aan de leraar
+##### Artikel 4. Eisen aan de leraar
 
 Vervallen
 
-#### Artikel 5. Subsidieplafond lerarenbeurs
+##### Artikel 5. Subsidieplafond lerarenbeurs
 
 Vervallen
 
-#### Artikel 6. Subsidiebedrag voor studiekosten
+##### Artikel 6. Subsidiebedrag voor studiekosten
 
 Vervallen
 
-#### Artikel 7. Subsidiebedrag voor studieverlof
+##### Artikel 7. Subsidiebedrag voor studieverlof
 
 Vervallen
 
@@ -62,11 +88,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 Inwerkingtreding voorheen door Stcrt. 2009/90 gesteld op 1 januari 2019. Inwerkingtreding voorheen door Stcrt. 2013/9081 gesteld op 1 juli 2017.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 2. Subsidieaanvraag
+##### Artikel 2. Subsidieaanvraag
 
 Vervallen
 
@@ -74,59 +100,59 @@ Vervallen
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 8. Vereisten subsidieaanvraag lerarenbeurs
+##### Artikel 8. Vereisten subsidieaanvraag lerarenbeurs
 
 Vervallen
 
-#### Artikel 9. Termijn indiening aanvraag
+##### Artikel 9. Termijn indiening aanvraag
 
 Vervallen
 
 #### § 3. Subsidieverlening lerarenbeurs
 
-#### Artikel 10. Criteria verdeling lerarenbeurs
+##### Artikel 10. Criteria verdeling lerarenbeurs
 
 Vervallen
 
-#### Artikel 11. Weigeringsgronden
+##### Artikel 11. Weigeringsgronden
 
 Vervallen
 
-#### Artikel 12. Termijn beslissing
+##### Artikel 12. Termijn beslissing
 
 Vervallen
 
 #### § 4. Verplichtingen subsidieontvanger lerarenbeurs
 
-#### Artikel 13. Subsidieverplichting leraar
+##### Artikel 13. Subsidieverplichting leraar
 
 Vervallen
 
-#### Artikel 14. Subsidieverplichting bevoegd gezag
+##### Artikel 14. Subsidieverplichting bevoegd gezag
 
 Vervallen
 
-#### Artikel 15. Informatieplicht
+##### Artikel 15. Informatieplicht
 
 Vervallen
 
 #### § 5. Betaling subsidie lerarenbeurs
 
-#### Artikel 16. Betaling van de subsidie lerarenbeurs
+##### Artikel 16. Betaling van de subsidie lerarenbeurs
 
 Vervallen
 
 #### § 6. Vaststelling subsidie lerarenbeurs
 
-#### Artikel 17. Vaststelling van de subsidie voor studiekosten
+##### Artikel 17. Vaststelling van de subsidie voor studiekosten
 
 Vervallen
 
-#### Artikel 18. Terugvordering van de subsidie voor studiekosten
+##### Artikel 18. Terugvordering van de subsidie voor studiekosten
 
 Vervallen
 
-#### Artikel 19. Terugvordering van de subsidie voor studieverlof
+##### Artikel 19. Terugvordering van de subsidie voor studieverlof
 
 Vervallen
 
@@ -134,85 +160,85 @@ Vervallen
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 20. Te subsidiëren activiteiten
+##### Artikel 20. Te subsidiëren activiteiten
 
 Vervallen
 
-#### Artikel 21. Subsidieplafond zij-instroom
+##### Artikel 21. Subsidieplafond zij-instroom
 
 Vervallen
 
-#### Artikel 22. Subsidiebedrag zij-instroom
-
-Vervallen
-
-#### § 2. Subsidieaanvraag zij-instroom
-
-#### Artikel 23. Vereisten subsidieaanvraag zij-instroom
-
-Vervallen
-
-#### Artikel 24. Termijn indiening subsidieaanvraag zij-instroom
+##### Artikel 22. Subsidiebedrag zij-instroom
 
 Vervallen
 
 #### § 2. Subsidieaanvraag zij-instroom
 
-#### Artikel 25. Criteria verdeling subsidie zij-instroom
+##### Artikel 23. Vereisten subsidieaanvraag zij-instroom
 
 Vervallen
 
-#### Artikel 26. Termijn beslissing
+##### Artikel 24. Termijn indiening subsidieaanvraag zij-instroom
+
+Vervallen
+
+#### § 2. Subsidieaanvraag zij-instroom
+
+##### Artikel 25. Criteria verdeling subsidie zij-instroom
+
+Vervallen
+
+##### Artikel 26. Termijn beslissing
 
 Vervallen
 
 #### § 3. Subsidieverlening zij-instroom
 
-#### Artikel 27. Verplichting subsidieontvanger
+##### Artikel 27. Verplichting subsidieontvanger
 
 Vervallen
 
 #### § 4. Verplichtingen subsidieontvanger zij-instroom
 
-#### Artikel 28. Betaling
+##### Artikel 28. Betaling
 
 Vervallen
 
 #### § 5. Voorschot subsidie zij-instroom
 
-#### Artikel 29. Niet behalen onderwijsbevoegdheid
+##### Artikel 29. Niet behalen onderwijsbevoegdheid
 
 Vervallen
 
-#### Artikel 30. Besteding niet aangewende deel
+##### Artikel 30. Besteding niet aangewende deel
 
 Vervallen
 
-#### Artikel 31. Verantwoording en controle
-
-Vervallen
-
-### Hoofdstuk 4. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
-
-#### Artikel 32. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
+##### Artikel 31. Verantwoording en controle
 
 Vervallen
 
 ### Hoofdstuk 4. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
 
-#### Artikel 33. Hardheidsclausule
+##### Artikel 32. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
 
 Vervallen
 
-#### Artikel 34. Mandaatverlening
+### Hoofdstuk 4. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
+
+##### Artikel 33. Hardheidsclausule
 
 Vervallen
 
-#### Artikel 35. Inwerkingtreding
+##### Artikel 34. Mandaatverlening
 
 Vervallen
 
-#### Artikel 36. Citeertitel
+##### Artikel 35. Inwerkingtreding
+
+Vervallen
+
+##### Artikel 36. Citeertitel
 
 Vervallen
 
@@ -222,7 +248,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 18a. Niet-bestede middelen
+##### Artikel 18a. Niet-bestede middelen
 
 Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=6&artikel=19&z=2016-11-10&g=2016-11-10) kan de subsidie voor studieverlof worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
@@ -248,7 +274,7 @@ Onverminderd [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofds
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 18b. Verantwoording subsidie voor studieverlof
+##### Artikel 18b. Verantwoording subsidie voor studieverlof
 
 De verantwoording door het bevoegd bezag van de subsidie voor studieverlof geschiedt overeenkomstig artikel 13, tweede lid, onderdeel a, van de Regeling OCW-subsidies in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132), met model G, onderdeel 1, behorende bij de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verklaring van de accountant bij de jaarrekening bevat, in het geval bedoeld in [artikel 18a](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&paragraaf=6&artikel=18a&z=2016-11-10&g=2016-11-10), tevens een oordeel over de rechtmatige besteding van subsidie.
 
@@ -268,7 +294,7 @@ De verantwoording door het bevoegd bezag van de subsidie voor studieverlof gesch
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Afwijking voorwaarden in geval van deelname aan VierSlagLeren
+##### Artikel 4a. Afwijking voorwaarden in geval van deelname aan VierSlagLeren
 
 Vervallen
 
@@ -294,55 +320,55 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19a. Begripsbepalingen
+##### Artikel 19a. Begripsbepalingen
 
 Vervallen
 
-#### Artikel 19b. Reikwijdte
+##### Artikel 19b. Reikwijdte
 
 Vervallen
 
-#### Artikel 19c. Te subsidiëren activiteiten
+##### Artikel 19c. Te subsidiëren activiteiten
 
 Vervallen
 
-#### Artikel 19d. Eisen aan de leraar
+##### Artikel 19d. Eisen aan de leraar
 
 Vervallen
 
-#### Artikel 19e. Subsidieplafond
+##### Artikel 19e. Subsidieplafond
 
 Vervallen
 
-#### Artikel 19f. Subsidiebedrag voor studiekosten
+##### Artikel 19f. Subsidiebedrag voor studiekosten
 
 Vervallen
 
-#### Artikel 19g. Vereisten subsidieaanvraag Lerarenbeurs bewegingsonderwijs
+##### Artikel 19g. Vereisten subsidieaanvraag Lerarenbeurs bewegingsonderwijs
 
 Vervallen
 
-#### Artikel 19h. Termijn indiening aanvraag
+##### Artikel 19h. Termijn indiening aanvraag
 
 Vervallen
 
-#### Artikel 19i. Weigeringsgronden
+##### Artikel 19i. Weigeringsgronden
 
 Vervallen
 
-#### Artikel 19j. Termijn beslissing
+##### Artikel 19j. Termijn beslissing
 
 Vervallen
 
-#### Artikel 19k. Wijze van verdeling beschikbare middelen
+##### Artikel 19k. Wijze van verdeling beschikbare middelen
 
 Vervallen
 
-#### Artikel 19l. Subsidieverplichting leraar
+##### Artikel 19l. Subsidieverplichting leraar
 
 Vervallen
 
-#### Artikel 19m. Toepassing andere artikelen
+##### Artikel 19m. Toepassing andere artikelen
 
 Vervallen
 
@@ -372,55 +398,55 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 19n. Terugvordering van de subsidie voor studiekosten
+##### Artikel 19n. Terugvordering van de subsidie voor studiekosten
 
 Vervallen
 
-#### Artikel 19o. Reikwijdte
+##### Artikel 19o. Reikwijdte
 
 Vervallen
 
-#### Artikel 19p. Te subsidiëren activiteiten
+##### Artikel 19p. Te subsidiëren activiteiten
 
 Vervallen
 
-#### Artikel 19q. Criteria voor subsidieverstrekking
+##### Artikel 19q. Criteria voor subsidieverstrekking
 
 Vervallen
 
-#### Artikel 19r. Subsidieplafond
+##### Artikel 19r. Subsidieplafond
 
 Vervallen
 
-#### Artikel 19s. Subsidiebedrag
+##### Artikel 19s. Subsidiebedrag
 
 Vervallen
 
-#### Artikel 19t. Vereisten subsidieaanvraag
+##### Artikel 19t. Vereisten subsidieaanvraag
 
 Vervallen
 
-#### Artikel 19u. Termijn indiening aanvraag
+##### Artikel 19u. Termijn indiening aanvraag
 
 Vervallen
 
-#### Artikel 19v. Weigeringsgronden
+##### Artikel 19v. Weigeringsgronden
 
 Vervallen
 
-#### Artikel 19w. Termijn beslissing
+##### Artikel 19w. Termijn beslissing
 
 Vervallen
 
-#### Artikel 19x. Wijze van verdeling beschikbare middelen
+##### Artikel 19x. Wijze van verdeling beschikbare middelen
 
 Vervallen
 
-#### Artikel 19y. Subsidieverplichting
+##### Artikel 19y. Subsidieverplichting
 
 Vervallen
 
-#### Artikel 19z. Toepassing artikelen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&z=2019-01-01&g=2019-01-01)
+##### Artikel 19z. Toepassing artikelen [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025844&hoofdstuk=2&z=2019-01-01&g=2019-01-01)
 
 Vervallen
 

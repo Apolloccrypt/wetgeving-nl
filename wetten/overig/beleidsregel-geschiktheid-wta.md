@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel geschiktheid Wta"
 identifier: "BWBR0041095"
-categorie: "Overig"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041095"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041095"
+soort: "zbo"
+stam_id: "14662093"
+version_id: "25104082"
+internal_id: "C35900511"
+label_id: "14614974"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041095/2018-07-01/0"
+intitule_bron: "Stcrt.2018-34515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-21"
+intitule_published: "2018-06-29"
+intitule_in_force: "2018-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34515"
+original_signed_date: "2018-06-21"
+original_published_date: "2018-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34515"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0041095&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0041095&g=2018-07-01"
+citeertitel_status: "officieel"
+signed_date: "2018-06-21"
+entry_into_force: "2018-07-01"
 ---
-
 # Beleidsregel geschiktheid Wta
 
 Na overleg met de representatieve organisaties en het ministerie van Financiën;
@@ -18,7 +43,7 @@ Besluit tot het vaststellen van de volgende Beleidsregel geschiktheid Wta:
 
 ### Hoofdstuk 1. – Algemene bepalingen met betrekking tot de geschiktheidstoetsing van beleidsbepalers
 
-#### 1.1. Definities en begrippen
+##### 1.1. Definities en begrippen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -44,7 +69,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - h). **wettelijke controle:** een controle zoals bedoeld in [artikel 1 van de Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1).
 
-#### 1.2. Geschiktheid
+##### 1.2. Geschiktheid
 
 Geschiktheid bestaat uit kennis, vaardigheden en professioneel gedrag. De geschiktheid van een beleidsbepaler blijkt in ieder geval uit de opleiding, werkervaring en competenties van de beleidsbepaler en de doorlopende toepassing hiervan. In de bijlage bij deze beleidsregel zijn relevante competenties om geschiktheid aan te tonen opgenomen. De opsomming van deze competenties is niet cumulatief en niet limitatief.
 
@@ -58,11 +83,11 @@ Beleidsbepalers zijn geschikt met betrekking tot de volgende onderwerpen:
 
 - D. **Evenwichtige en consistente besluitvorming,** met inachtneming van het publiek belang om de kwaliteit van wettelijke controles te waarborgen.
 
-#### 1.3. Tijdsbestek van kennis en ervaring
+##### 1.3. Tijdsbestek van kennis en ervaring
 
 Algemene en specifieke vakinhoudelijke kennis moet zijn opgedaan maximaal vijf jaar voorafgaand aan het moment van toetsing. De geschiktheid ten aanzien van de bedrijfsvoering en de bestuurlijke en leidinggevende vaardigheden moeten zijn opgedaan maximaal tien jaar voorafgaand aan het moment van toetsing.
 
-#### 1.4. Variabelen van toetsing
+##### 1.4. Variabelen van toetsing
 
 De toetsing van geschiktheid van een beleidsbepaler geschiedt op evenredige wijze met inachtneming van:
 
@@ -70,11 +95,11 @@ De toetsing van geschiktheid van een beleidsbepaler geschiedt op evenredige wijz
 
 - b). de omvang, de complexiteit en het risicoprofiel van de accountantsorganisatie.
 
-#### 1.5. Collectief
+##### 1.5. Collectief
 
 Indien sprake is van een collectief geschiedt de toetsing van geschiktheid mede met inachtneming van de samenstelling en het functioneren van het collectief.
 
-#### 1.6. Momenten van toetsing
+##### 1.6. Momenten van toetsing
 
 De toezichthouder toetst geschiktheid van een beleidsbepaler:
 
@@ -82,7 +107,7 @@ De toezichthouder toetst geschiktheid van een beleidsbepaler:
 
 - b). na het aantreden van een beleidsbepaler, indien feiten of omstandigheden daartoe redelijke aanleiding geven.
 
-#### 1.7. Informatie en antecedenten
+##### 1.7. Informatie en antecedenten
 
 1. Bij het toetsen van geschiktheid van een beleidsbepaler neemt de toezichthouder informatie en antecedenten met betrekking tot geschiktheid in aanmerking.
 
@@ -106,7 +131,7 @@ De toezichthouder toetst geschiktheid van een beleidsbepaler:
 
 - f). openbare informatie.
 
-#### 1.8. Weging van informatie en antecedenten
+##### 1.8. Weging van informatie en antecedenten
 
 Bij de weging van de in [onderdeel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0041095&hoofdstuk=1&artikel=1.7&z=2018-07-01&g=2018-07-01) genoemde informatie en antecedenten betrekt de toezichthouder de volgende factoren:
 
@@ -126,19 +151,19 @@ Bij de weging van de in [onderdeel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 2. – Slotbepalingen
 
-#### 2.1. Evaluatie
+##### 2.1. Evaluatie
 
 Deze beleidsregel wordt periodiek geëvalueerd.
 
-#### 2.2. Inwerkingtreding
+##### 2.2. Inwerkingtreding
 
 Deze beleidsregel treedt in werking op 1 juli 2018.
 
-#### 2.3. Overgangsregime
+##### 2.3. Overgangsregime
 
 Op grond van [artikel VI van de Wet aanvullende maatregelen accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0040928&artikel=VI), worden bij inwerkingtreding van de geschiktheidseis zittende beleidsbepalers, zijnde de dagelijks beleidsbepalers van de accountantsorganisatie en de dagelijks beleidsbepalers van het hiërarchisch hoogste netwerkonderdeel met zetel in Nederland dat invloed uitoefent op het beleid van de accountantsorganisatie, geacht geschikt te zijn tot twaalf maanden na inwerkingtreding van de geschiktheidseis, en personen die belast zijn met het interne toezicht worden geacht geschikt te zijn tot achttien maanden na inwerkingtreding, zolang de toezichthouder niet tot een andersluidend oordeel is gekomen.
 
-#### 2.4. Citeertitel
+##### 2.4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel geschiktheid Wta.
 

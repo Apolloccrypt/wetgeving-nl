@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet Gemeenschappelijk Hof van Justitie"
+title: "Rijkswet van 7 juli 2010, houdende regeling van taken en bevoegdheden van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Gemeenschappelijk Hof van Justitie)"
 identifier: "BWBR0028070"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028070"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028070"
+soort: "rijkswet"
+stam_id: "10644493"
+version_id: "17585472"
+internal_id: "C24664151"
+label_id: "10620034"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028070/2010-10-10/0"
+intitule_bron: "Stb.2010-335"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-07-07"
+intitule_published: "2010-09-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2010-335"
+original_signed_date: "2010-07-07"
+original_published_date: "2010-09-01"
+original_effect: "nieuwe-regeling"
+original_dossier: "32017"
+original_url_id: "stb-2010-335"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028070&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028070&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Rijkswet Gemeenschappelijk Hof van Justitie"
+signed_date: "2010-07-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Rijkswet van 7 juli 2010, houdende regeling van taken en bevoegdheden van het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba (Rijkswet Gemeenschappelijk Hof van Justitie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -20,7 +47,7 @@ Treedt in werking om 00:00 uur in Aruba, Curaçao, Sint Maarten, Bonaire, Sint E
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +75,7 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. **Statuut:** Statuut voor het Koninkrijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De tot de rechterlijke macht in de landen behorende gerechten zijn:
 
@@ -58,11 +85,11 @@ In deze rijkswet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Elke tussenkomst in rechtszaken is verboden.
 
-#### Artikel 3
+##### Artikel 3
 
 Er wordt in de landen recht gesproken in naam van de Koning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de rechterlijke macht is opgedragen:
 
@@ -72,7 +99,7 @@ Er wordt in de landen recht gesproken in naam van de Koning.
 
 2. Aan de rechterlijke macht is voorts opgedragen de berechting van geschillen over bestuursrechtelijke zaken, tenzij bij landsverordening of wet de kennisneming van bestuursrechtelijke zaken is opgedragen aan bijzondere rechtscolleges waarin mede een of meer leden van het Hof zitting hebben.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij bij landsverordening of wet anders is bepaald zijn de zittingen, op straffe van nietigheid, openbaar.
 
@@ -84,23 +111,23 @@ Er wordt in de landen recht gesproken in naam van de Koning.
 
 5. Indien bij landsverordening of wet is bepaald dat ook anderen dan rechters deelnemen aan meervoudige rechtspraak, zijn de beslissingen van de desbetreffende rechterlijke instantie nietig, indien deze beslissingen niet zijn genomen met het in die landsverordening of wet bepaalde aantal personen, niet zijnde rechter.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen rechter of rechterlijke ambtenaar in opleiding mag zich op enige wijze inlaten met partijen, haar advocaten of gemachtigden, leden van het openbaar ministerie en verdachten, over voor hem aanhangige zaken of zaken waarvan hij weet of vermoedt dat zij voor hem aanhangig zullen worden.
 
-#### Artikel 6b
+##### Artikel 6b
 
 Rechters, rechterlijke ambtenaren in opleiding, gerechtsambtenaren, buitengriffiers en de directeur bedrijfsvoering zijn verplicht tot geheimhouding van de gegevens waarover zij bij de uitoefening van hun taak de beschikking krijgen en waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, behoudens zover enig wettelijk voorschrift tot mededeling verplicht of uit hun taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Hof, de Gerechten in eerste aanleg en rechterlijke colleges in Nederland zijn onderling verplicht gevolg te geven aan verzoeken om rechtshulp.
 
-#### Artikel 8
+##### Artikel 8
 
 De leden en plaatsvervangend leden van het Hof en de rechters-plaatsvervanger in eerste aanleg zijn met rechtspraak belast.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overigens zijn de voertalen bij het Hof en de Gerechten in eerste aanleg Engels, Nederlands en Papiaments.
 
@@ -108,7 +135,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 #### § 1. De Gerechten in eerste aanleg
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er is een Gerecht in eerste aanleg van Aruba, een Gerecht in eerste aanleg van Curaçao, een Gerecht in eerste aanleg van Sint Maarten en een Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
@@ -118,7 +145,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 4. Als rechter in eerste aanleg treden op de leden en plaatsvervangend leden van het Hof, alsmede de rechters-plaatsvervanger in eerste aanleg. Zij zijn bevoegd als zodanig op te treden in alle Gerechten in eerste aanleg.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Gerechten in eerste aanleg nemen, behoudens hoger beroep, kennis van alle burgerlijke zaken en alle strafzaken waarvan de kennisneming in eerste aanleg niet bij wet of landsverordening aan het Hof is opgedragen.
 
@@ -128,7 +155,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 4. Bij landsverordening of wet kan worden bepaald dat één of meer anderen dan rechters mede zitting hebben in de Gerechten in eerste aanleg.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Gerechten in eerste aanleg behandelen en beslissen zaken in enkelvoudige kamer, tenzij bij landsverordening of wet behandeling door een meervoudige kamer is voorgeschreven.
 
@@ -140,7 +167,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 5. Het bestuur van het Hof kan bepalen dat in een zaak een of meer rechters zich met het oog op mogelijke vervanging gereed houden in het belang van het onderzoek dan wel indien de zitting langer dan een dag zal duren. Deze rechters zijn bij de behandeling van die zaak aanwezig, maar nemen aan het onderzoek in en de beraadslaging en beslissing over die zaak niet deel, tenzij zij op verzoek van het bestuur in de plaats treden van de te vervangen rechter.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien besluitvorming in meervoudige kamer plaatsvindt, dan doet de voorzitter van die kamer in raadkamer hoofdelijk omvraag. De voorzitter geeft als laatste zijn oordeel.
 
@@ -148,7 +175,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 3. Rechters, gerechtsambtenaren, rechterlijke ambtenaren in opleiding, buitengriffiers en anderen als bedoeld in [artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=1&artikel=11&z=2010-10-10&g=2010-10-10), in raadkamer aanwezig, zijn tot geheimhouding verplicht van gevoelens die in de raadkamer zijn geuit.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen staan de beslissing opdragen aan een Gerecht in eerste aanleg naar keuze van partijen.
 
@@ -158,7 +185,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 #### § 2. Het Gemeenschappelijk Hof van Justitie
 
-#### Artikel 15
+##### Artikel 15
 
 1. Er is een Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
@@ -166,7 +193,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 3. Het Hof zetelt in elk van de landen. Het Hof houdt zitting in Aruba, Curaçao en Sint Maarten. Het Hof kan zitting houden op Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De leden van het Hof vormen tezamen de hofvergadering.
 
@@ -174,7 +201,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 3. Derden kunnen op uitnodiging van de hofvergadering deelnemen aan de vergadering. Zij hebben geen stemrecht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Hof oordeelt in hoger beroep over daarvoor vatbare uitspraken van de Gerechten in eerste aanleg van de landen.
 
@@ -186,7 +213,7 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 5. De rechters-plaatsvervanger in eerste aanleg zijn niet bevoegd in het Hof.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het Hof behandelt en beslist zaken in meervoudige kamer, tenzij bij landsverordening of wet behandeling in enkelvoudige kamer is toegestaan.
 
@@ -194,21 +221,21 @@ Het Hof en de Gerechten in eerste aanleg doen uitspraak in het Nederlands. Overi
 
 3. [Artikel 11, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=1&artikel=11&z=2010-10-10&g=2010-10-10), en [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=2&paragraaf=1&artikel=12&z=2010-10-10&g=2010-10-10), zijn van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Het Hof houdt toezicht op een behoorlijke vervolging van strafbare feiten.
 
-#### Artikel 20
+##### Artikel 20
 
 Het Hof neemt kennis van alle jurisdictiegeschillen, die bij of tussen de Gerechten in eerste aanleg zijn ontstaan.
 
-#### Artikel 21
+##### Artikel 21
 
 Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen staan de beslissing bij prorogatie ter kennis brengen van het Hof.
 
 #### § 3. De griffie
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het bestuur van het Hof en de Beheerraad dragen zorg voor de inrichting van een griffie ten behoeve van het Hof en de Gerechten in eerste aanleg. De griffie heeft een vestiging in elk van de landen met aan het hoofd daarvan een vestigingsgriffier.
 
@@ -226,7 +253,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 ### Hoofdstuk 3. De rechtspositie van rechters
 
-#### Artikel 23
+##### Artikel 23
 
 1. De leden en plaatsvervangend leden van het Hof worden bij koninklijk besluit voor het leven benoemd bij het Hof. De voordracht vindt plaats op voorstel van Onze Ministers gezamenlijk.
 
@@ -236,7 +263,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 4. Indien Onze Ministers voornemens zijn af te wijken van de aanbeveling van het Hof, winnen zij daaromtrent het gevoelen van het Hof in. Het gevoelen van het Hof en de aanbeveling van het Hof worden bij het voorstel van Onze Ministers gevoegd. Zij motiveren waarom zij zijn afgeweken van de aanbeveling van het Hof.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Tot lid of plaatsvervangend lid van het Hof kan worden benoemd degene:
 
@@ -248,7 +275,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 3. Tot lid of plaatsvervangend lid van het Hof kunnen alleen Nederlanders worden benoemd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De rechters-plaatsvervanger in eerste aanleg worden bij koninklijk besluit voor het leven benoemd bij het Hof. De voordracht vindt plaats op voorstel van Onze Ministers gezamenlijk. Aan het voorstel van Onze Ministers ligt een voorstel ten grondslag van het bestuur van het Hof met instemming van de hofvergadering.
 
@@ -256,7 +283,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 3. Bij voorkeur worden alleen rechters-plaatsvervanger in eerste aanleg benoemd die voldoen aan de vereisten van [artikel 24, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=24&z=2010-10-10&g=2010-10-10). Indien het Hof een voorstel voor benoeming van een rechter-plaatsvervanger in eerste aanleg doet die niet voldoet aan deze vereisten, dan motiveert het Hof waarom betrokkene toch geschikt is voor benoeming.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een lid van het Hof kan niet tevens zijn:
 
@@ -286,7 +313,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 4. Het bestuur van het Hof houdt een register bij waarin de in het derde lid bedoelde betrekkingen zijn opgenomen. Het register ligt ter inzage bij het Hof en de gerechten in eerste aanleg.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Echtgenoten, bloedverwanten of aanverwanten tot in de derde graad mogen niet tegelijkertijd rechter zijn.
 
@@ -300,13 +327,13 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 6. Het bestuur van het Hof draagt er zorg voor dat aanverwanten aan wie ontheffing is verleend als bedoeld in het derde lid, niet worden belast met de behandeling van dezelfde zaak.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Een rechter legt voorafgaand aan de datum van indiensttreding de eed of belofte af volgens het formulier zoals vastgesteld in de bijlage bij deze rijkswet.
 
 2. De eedsaflegging van de rechters geschiedt ten overstaan van de Gouverneur van Aruba, Curaçao of Sint Maarten of een door één van hen aangewezen ambtenaar.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Een rechter wordt door de Hoge Raad geschorst indien hij:
 
@@ -330,7 +357,7 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 6. Indien de schorsing anders dan door ontslag eindigt, kan de Hoge Raad beslissen dat het niet genoten salaris geheel of voor een daarbij te bepalen gedeelte alsnog zal worden uitbetaald.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een rechter wordt op eigen verzoek bij koninklijk besluit ontslagen.
 
@@ -344,13 +371,13 @@ Partijen kunnen in geschillen over zaken die ter vrije bepaling van partijen sta
 
 - c. bij gebleken ongeschiktheid voor zijn functie, anders dan wegens ziekte.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een rechter kan, wanneer hij wegens ziekte blijvend ongeschikt is om zijn functie te vervullen, door de Hoge Raad worden ontslagen.
 
 2. In afwijking van het eerste lid kan het ontslag, indien de bij algemene maatregel van rijksbestuur vastgestelde voorwaarden zijn vervuld en de betrokken rechter daarom verzoekt, worden verleend bij koninklijk besluit. Voor de rechtsgevolgen wordt dit ontslag gelijkgesteld met een door de Hoge Raad overeenkomstig het eerste lid verleend ontslag.
 
-#### Artikel 32
+##### Artikel 32
 
 Een rechter kan door de Hoge Raad worden ontslagen:
 
@@ -370,7 +397,7 @@ Een rechter kan door de Hoge Raad worden ontslagen:
 
 - 4°. de verplichting wordt opgelegd zijn ontslag in te dienen op grond van [artikel 27, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=27&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 33
+##### Artikel 33
 
 1. De Hoge Raad neemt de in dit hoofdstuk bedoelde beslissingen op vordering van de procureur-generaal bij de Hoge Raad. Over beëindiging van de schorsing, bedoeld in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=29&z=2010-10-10&g=2010-10-10), beslist de Hoge Raad op vordering van de procureur-generaal bij de Hoge Raad dan wel op verzoek van de betrokken rechter.
 
@@ -384,7 +411,7 @@ Een rechter kan door de Hoge Raad worden ontslagen:
 
 6. De vordering wordt door de procureur-generaal bij de Hoge Raad schriftelijk en gemotiveerd ingesteld. Bij de vordering wordt in elk geval de zienswijze, bedoeld in het vierde lid, gevoegd.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het onderzoek door de Hoge Raad geschiedt in raadkamer.
 
@@ -398,19 +425,19 @@ Een rechter kan door de Hoge Raad worden ontslagen:
 
 6. De Hoge Raad doet aan de president van het Hof, de procureur-generaal bij de Hoge Raad alsmede aan Onze Ministers onverwijld mededeling van beslissingen waarbij een rechter wordt ontslagen of geschorst, dan wel de schorsing wordt verlengd of beëindigd.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De leden van het Hof kunnen door het bestuur van het Hof worden verplicht te gaan wonen of blijven wonen in een van de landen, indien dit naar het oordeel van het bestuur in verband met de goede vervulling van hun taak noodzakelijk is.
 
 2. Aan deze verplichting moet worden voldaan binnen twee jaar nadat zij is opgelegd.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De president van het Hof is bevoegd een rechter die de waardigheid van zijn ambt, zijn ambtsbezigheden of ambtelijke verplichtingen verwaarloost of die zich schuldig maakt aan een overtreding als bedoeld in [artikel 32, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=3&artikel=32&z=2010-10-10&g=2010-10-10), na hem in de gelegenheid te hebben gesteld mondeling of schriftelijk zijn zienswijze naar voren te brengen, de nodige schriftelijke waarschuwingen te geven.
 
 2. Van het mondeling naar voren brengen van de zienswijze, bedoeld in het eerste lid wordt een proces-verbaal opgemaakt dat door de betrokken rechter en door de president, wordt ondertekend. Weigert de rechter het proces-verbaal te ondertekenen, dan wordt daarvan, zo mogelijk met vermelding van de redenen, melding gemaakt. Aan de rechter wordt een afschrift van het proces-verbaal verstrekt.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Tegen een rechtspositionele beschikking of handeling waarbij een rechter, de directeur bedrijfsvoering, een gerechtsambtenaar, een rechterlijk ambtenaar in opleiding, een gewezen rechter, een gewezen directeur bedrijfsvoering, een gewezen gerechtsambtenaar of een gewezen rechterlijk ambtenaar in opleiding als zodanig, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn, kan een belanghebbende beroep instellen bij het Gerecht in eerste aanleg van het land waar belanghebbende woont. Indien belanghebbende niet woont in één van de landen, is het Gerecht in eerste aanleg van Curaçao bevoegd.
 
@@ -434,11 +461,11 @@ Een rechter kan door de Hoge Raad worden ontslagen:
 
 8. Met een beschikking, handeling of vordering bedoeld in dit artikel wordt een weigering te beslissen, te handelen of te vorderen gelijkgesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistreerde partners en minderjarige kinderen voor zover zij met hen een gemeenschappelijke huishouding voeren, zijn van rechtswege toegelaten tot de landen. Aan de leden en plaatsvervangend leden van het Hof en hun echtgenoten of geregistreerde partners worden geen nadere voorwaarden gesteld voor de uitoefening van een beroep of het verrichten van arbeid.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De rechtspositie van de rechters wordt overigens bij of krachtens algemene maatregel van rijksbestuur geregeld.
 
@@ -446,7 +473,7 @@ Leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistr
 
 ### Hoofdstuk 4. Het bestuur van het Gemeenschappelijk Hof van Justitie
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het Hof heeft een bestuur dat bestaat uit een president, drie vice-presidenten en een directeur bedrijfsvoering. De president is voorzitter van het bestuur.
 
@@ -460,7 +487,7 @@ Leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistr
 
 6. De leden van het bestuur worden benoemd op basis van deskundigheid die voor de uitoefening van de taken van het bestuur nodig is.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Indien en vanaf het moment dat de president of een vice-president als rechter wordt geschorst of ontslagen is hij van rechtswege geschorst respectievelijk ontslagen als lid van het bestuur van het Hof. De schorsing van rechtswege eindigt op het moment dat de schorsing als lid van het Hof eindigt.
 
@@ -470,7 +497,7 @@ Leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistr
 
 4. Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regels worden gesteld met betrekking tot de rechtspositie van de leden van het bestuur van het Hof.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het bestuur van het Hof kan slechts beslissingen nemen indien tenminste de helft van zijn leden aanwezig is.
 
@@ -478,17 +505,17 @@ Leden en plaatsvervangend leden van het Hof alsmede hun echtgenoten of geregistr
 
 3. Indien de stemmen staken, geeft de stem van de president de doorslag.
 
-#### Artikel 43
+##### Artikel 43
 
 Het bestuur van het Hof kan een of meer van zijn leden machtigen één of meer van zijn bevoegdheden uit te oefenen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het bestuur van het Hof stelt bij reglement in ieder geval nadere regels vast met betrekking tot zijn werkwijze, besluitvorming en taakverdeling, de organisatiestructuur, de machtiging, bedoeld in [artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=4&artikel=43&z=2010-10-10&g=2010-10-10), en de vervanging van zijn leden ingeval van ziekte of andere verhindering.
 
 2. Het reglement wordt gepubliceerd in een algemeen verkrijgbaar publicatieblad in de landen.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het bestuur van het Hof is belast met de algemene leiding, de organisatie en de bedrijfsvoering van het Hof en de Gerechten in eerste aanleg. In het bijzonder draagt het bestuur zorg voor:
 
@@ -510,7 +537,7 @@ Het bestuur van het Hof kan een of meer van zijn leden machtigen één of meer v
 
 5. Bij het geven van aanwijzingen en de uitvoering van zijn taken treedt het bestuur niet in de procesrechtelijke behandeling van, de inhoudelijke beoordeling van of de beslissing in een zaak of in categorieën van zaken.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het bestuur van het Hof kan rechterlijke ambtenaren in opleiding aanstellen en ontslaan en oefent ten aanzien van hen de overige bevoegdheden uit die voortvloeien uit de hoedanigheid van bevoegd gezag. De rechterlijke ambtenaren in opleiding worden aangesteld bij het Hof.
 
@@ -518,11 +545,11 @@ Het bestuur van het Hof kan een of meer van zijn leden machtigen één of meer v
 
 3. Bij of krachtens algemene maatregel van rijksbestuur worden voorschriften gegeven met betrekking tot de selectie, de aanstelling, het ontslag, de opleiding en andere aangelegenheden, die de rechtspositie van de rechterlijke ambtenaren in opleiding betreffen.
 
-#### Artikel 47
+##### Artikel 47
 
 Het bestuur van het Hof geeft inlichtingen en advies, wanneer dit door de regering van één van de landen wordt gevraagd tenzij de zaak waaromtrent inlichtingen en advies zijn gevraagd, aan een rechterlijke beslissing is onderworpen of te voorzien is dat dit zal geschieden.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het bestuur van het Hof stelt jaarlijks voor 15 oktober een jaarplan voor het Hof vast. Het jaarplan bevat een omschrijving van de voorgenomen activiteiten ter uitvoering van de in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=4&artikel=45&z=2010-10-10&g=2010-10-10) genoemde taken voor het komende jaar met inachtneming van de vastgestelde ontwerpbegroting voor het komende jaar.
 
@@ -530,13 +557,13 @@ Het bestuur van het Hof geeft inlichtingen en advies, wanneer dit door de regeri
 
 3. Het bestuur stelt jaarlijks voor 1 april een verslag vast over het voorgaande jaar, dat in ieder geval bestaat uit een jaarrekening met bijbehorende begroting en een jaarverslag. De jaarrekening behoeft goedkeuring van de Beheerraad en gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een door de Beheerraad aangewezen accountant. Bij de aanwijzing van de accountant bedingt de Beheerraad dat aan Onze Ministers desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.
 
-#### Artikel 49
+##### Artikel 49
 
 De president of, indien deze afwezig of buiten staat is, zijn daartoe door het bestuur aangewezen vervanger vertegenwoordigt het Hof.
 
 ### Hoofdstuk 5. De Beheerraad
 
-#### Artikel 50
+##### Artikel 50
 
 1. Er is een Beheerraad. De Beheerraad is orgaan van de rechtspersoon Hof.
 
@@ -578,17 +605,17 @@ De president of, indien deze afwezig of buiten staat is, zijn daartoe door het b
 
 7. Bij algemene maatregel van rijksbestuur worden regels gesteld over het ontslag, de schorsing en de bezoldiging en kunnen regels worden gesteld over andere rechtspositionele aangelegenheden van de leden van de Beheerraad.
 
-#### Artikel 51
+##### Artikel 51
 
 Ter ondersteuning van de Beheerraad kunnen gerechtsambtenaren of ambtenaren van de landen werkzaam zijn. Zij zijn voor de uitoefening van hun werkzaamheden voor de Beheerraad uitsluitend verantwoording schuldig aan de Beheerraad.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De Beheerraad beslist bij meerderheid van stemmen. Indien bij herhaling de stemmen staken, geeft de stem van de voorzitter de doorslag.
 
 2. De Beheerraad kan een of meer van zijn leden machtigen een of meer van zijn bevoegdheden uit te oefenen.
 
-#### Artikel 53
+##### Artikel 53
 
 De Beheerraad is belast met:
 
@@ -602,7 +629,7 @@ De Beheerraad is belast met:
 
 - e. aanstelling en ontslag van gerechtsambtenaren en van buitengriffiers.
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Beheerraad kan op voorstel van het bestuur van het Hof personen, niet zijnde rechter of rechterlijk ambtenaar in opleiding, aanstellen als buitengriffier.
 
@@ -612,13 +639,13 @@ De Beheerraad is belast met:
 
 ### Hoofdstuk 6. De bekostiging van de rechterlijke organisatie
 
-#### Artikel 55
+##### Artikel 55
 
 1. Bij algemene maatregel van rijksbestuur worden regels gesteld met betrekking tot de bekostiging van het Hof. Daartoe behoren in ieder geval regels betreffende de financieringsgrondslag.
 
 2. De kosten van het Hof, de Gerechten in eerste aanleg en de Beheerraad worden vergoed uit een door de landen beschikbaar te stellen bijdrage die volgens een bij algemene maatregel van rijksbestuur vast te stellen sleutel over de landen wordt verdeeld.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De Beheerraad zendt jaarlijks voor 15 maart aan Onze Ministers een ontwerpbegroting voor het daaropvolgende jaar op basis van een voorstel van het bestuur van het Hof en na overleg met het bestuur.
 
@@ -628,7 +655,7 @@ De Beheerraad is belast met:
 
 4. De Beheerraad geeft bij de ontwerpbegroting aan of is afgeweken van het voorstel van het bestuur van het Hof. Indien daarvan is afgeweken wordt in de toelichting op de ontwerp- begroting uiteengezet in hoeverre en waarom dat is gebeurd.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Onze Ministers voeren jaarlijks voor 15 april overleg over de ontwerpbegroting en stellen de hoogte van het bedrag vast dat Onze Ministers ten behoeve van het Hof zullen opnemen in de begroting van het desbetreffende land. Daarbij nemen zij de verdeelsleutel bedoeld in [artikel 55, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=6&artikel=55&z=2010-10-10&g=2010-10-10), in acht.
 
@@ -636,7 +663,7 @@ De Beheerraad is belast met:
 
 3. De Beheerraad stelt de begroting voor het Hof vast onder goedkeuring van Onze Ministers.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De Beheerraad verstrekt desgevraagd aan elk van Onze Ministers de voor de uitoefening van hun taak benodigde inlichtingen.
 
@@ -644,11 +671,11 @@ De Beheerraad is belast met:
 
 ### Hoofdstuk 7. Slot- en overgangsbepalingen
 
-#### Artikel 59
+##### Artikel 59
 
 Aruba, Curaçao en Sint Maarten regelen bij of krachtens landsbesluit houdende algemene maatregelen en Nederland regelt bij of krachtens algemene maatregel van bestuur de tarieven van justitiekosten, zowel in burgerlijke als in strafzaken, alsmede de beloningen die voor rechtshandelingen worden berekend en de voorschotten, reis- en verblijfskosten, die in rekening worden gebracht.
 
-#### Artikel 60
+##### Artikel 60
 
 1. De benoeming van degene die op de dag voorafgaand aan de inwerkingtreding van deze rijkswet president van het Gemeenschappelijk Hof van de Nederlandse Antillen en Aruba is, wordt van rechtswege gewijzigd in een benoeming tot president van het Hof voor de periode van vijf jaar.
 
@@ -662,7 +689,7 @@ Aruba, Curaçao en Sint Maarten regelen bij of krachtens landsbesluit houdende a
 
 6. De benoeming van degenen die op de dag voorafgaand aan de inwerkingtreding van deze rijkswet rechters-plaatsvervanger in eerste aanleg zijn, wordt van rechtswege omgezet in een benoeming tot rechter-plaatsvervanger in eerste aanleg. De tweede volzin van het vierde lid en het vijfde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 61
+##### Artikel 61
 
 1. De ambtenaren, werklieden en arbeidscontractanten die op de dag voorafgaand aan inwerkingtreding van deze rijkswet zijn aangesteld bij landsbesluit van Aruba en werkzaam zijn ten behoeve van de griffie van het Gerecht in eerste aanleg van Aruba zijn met ingang van de datum van inwerkingtreding van deze rijkswet aangesteld bij het Hof in dezelfde rang, op dezelfde voet, met dezelfde standplaats en ook overigens in dezelfde rechtstoestand als op de dag, voorafgaande aan die datum, voor hen golden, tenzij Onze betrokken Minister met hen is overeengekomen dat zij niet in dienst zullen treden bij het Hof.
 
@@ -670,31 +697,31 @@ Aruba, Curaçao en Sint Maarten regelen bij of krachtens landsbesluit houdende a
 
 3. Ten aanzien van de benoeming van ambtenaren, werklieden en arbeidscontractanten die op de dag voorafgaand aan inwerkingtreding van deze rijkswet zijn aangesteld bij landsbesluit van de Nederlandse Antillen en werkzaam zijn ten behoeve van de griffie van het Gerecht in eerste aanleg van de Nederlandse Antillen of van de griffie van het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba, is de Beheerraad gebonden aan afspraken die daarover in het kader van de ontmanteling van het land de Nederlandse Antillen worden gemaakt.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Degenen die op de dag voorafgaand aan inwerkingtreding van deze rijkswet als rechterlijk ambtenaar in opleiding bij het Hof van de Nederlandse Antillen en Aruba zijn aangesteld, zijn met ingang van de datum van inwerkingtreding van deze wet van rechtswege aangesteld als rechterlijk ambtenaar in opleiding bij het Hof.
 
 2. [Artikel 60, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028070&hoofdstuk=7&artikel=60&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Rechtsgedingen die op de dag voorafgaand aan inwerkingtreding van deze rijkswet aanhangig zijn bij het Gerecht in eerste aanleg van de Nederlandse Antillen worden geacht met ingang van de dag van inwerkingtreding van deze rijkswet aanhangig te zijn bij het Gerecht in eerste aanleg van Curaçao, het Gerecht in eerste aanleg van Sint Maarten of het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba. Het bestuur wijst het Gerecht aan dat de zaak behandelt.
 
 2. Rechtsgedingen die op de dag voorafgaand aan inwerkingtreding van deze rijkswet aanhangig zijn bij het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba worden geacht met ingang van de dag van inwerkingtreding van deze wet aanhangig te zijn bij het Hof.
 
-#### Artikel 64
+##### Artikel 64
 
 Beslissingen die voorafgaand aan de inwerkingtreding van deze wet zijn genomen door het Gemeenschappelijk Hof van de Nederlandse Antillen en Aruba, het Gerecht in eerste aanleg van de Nederlandse Antillen of het Gerecht in eerste aanleg van Aruba blijven van kracht.
 
-#### Artikel 65
+##### Artikel 65
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze rijkswet aan de vertegenwoordigende lichamen van Aruba, Curaçao en Sint Maarten en aan de Staten-Generaal een evaluatieverslag over de doeltreffendheid en de effecten van deze rijkswet in de praktijk. Voorafgaande aan de evaluatie stellen de landen gezamenlijk de criteria, de thema’s en de samenstelling van de evaluatiecommissie vast.
 
-#### Artikel 66
+##### Artikel 66
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 67
+##### Artikel 67
 
 Deze rijkswet wordt aangehaald als: Rijkswet Gemeenschappelijk Hof van Justitie.
 

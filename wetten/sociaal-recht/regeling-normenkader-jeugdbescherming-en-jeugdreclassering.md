@@ -1,28 +1,54 @@
 ---
-title: "Regeling normenkader jeugdbescherming en jeugdreclassering"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 19 juni 2014, nr. 528293, houdende vaststelling van het normenkader met eisen voor het uitvoeren van jeugdbescherming en/of jeugdreclassering (Regeling normenkader jeugdbescherming en jeugdreclassering)"
 identifier: "BWBR0035236"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-06-10
-laatste_update: 2017-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035236"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-10"
+last_updated: "2017-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035236"
+soort: "ministeriele-regeling"
+stam_id: "12700523"
+version_id: "21475682"
+internal_id: "C30839741"
+label_id: "12670474"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035236/2017-06-10/0"
+intitule_bron: "Stcrt.2014-17362"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-19"
+intitule_published: "2014-06-25"
+intitule_in_force: "2014-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-17362"
+original_signed_date: "2014-06-19"
+original_published_date: "2014-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-17362"
+entry_into_force_date: "2014-06-26"
+jci_1_3: "jci1.3:c:BWBR0035236&z=2017-06-10&g=2017-06-10"
+jci_1_0: "1.0:c:BWBR0035236&g=2017-06-10"
+citeertitel_status: "officieel"
+short_title: "Regeling normenkader jeugdbescherming en jeugdreclassering"
+signed_date: "2014-06-19"
+entry_into_force: "2014-06-26"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 19 juni 2014, nr. 528293, houdende vaststelling van het normenkader met eisen voor het uitvoeren van jeugdbescherming en/of jeugdreclassering (Regeling normenkader jeugdbescherming en jeugdreclassering)
 
 Gelet op [artikel 3.4, vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het normenkader bedoeld in [artikel 3.4, vierde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=3.4), wordt vastgesteld overeenkomstig Hoofdstukken 9 en 10 van de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin deze regeling wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling normenkader jeugdbescherming en jeugdreclassering.
 

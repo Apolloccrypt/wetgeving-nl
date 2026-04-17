@@ -1,20 +1,46 @@
 ---
-title: "Regeling brandstoffen luchtverontreiniging"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu van 20 april 2011, nr. BJZ2011043268, houdende nadere regels betreffende de kwaliteit en het zwavelgehalte van brandstoffen (Regeling brandstoffen luchtverontreiniging)"
 identifier: "BWBR0029916"
-categorie: "Milieu"
-publicatiedatum: 2020-07-17
-laatste_update: 2020-07-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029916"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-17"
+last_updated: "2020-07-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029916"
+soort: "ministeriele-regeling"
+stam_id: "11307113"
+version_id: "20549872"
+internal_id: "C28896981"
+label_id: "11281124"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029916/2020-07-17/0"
+intitule_bron: "Stcrt.2011-7532"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-04-20"
+intitule_published: "2011-04-29"
+intitule_in_force: "2011-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-14285"
+original_signed_date: "2013-05-31"
+original_published_date: "2013-06-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-14285"
+entry_into_force_date: "2013-05-31"
+jci_1_3: "jci1.3:c:BWBR0029916&z=2020-07-17&g=2020-07-17"
+jci_1_0: "1.0:c:BWBR0029916&g=2020-07-17"
+citeertitel_status: "officieel"
+short_title: "Regeling brandstoffen luchtverontreiniging"
+signed_date: "2013-05-31"
+entry_into_force: "2013-05-31"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu van 20 april 2011, nr. BJZ2011043268, houdende nadere regels betreffende de kwaliteit en het zwavelgehalte van brandstoffen (Regeling brandstoffen luchtverontreiniging)
 
 Gelet op de [artikelen 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.2), [2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.3), [2.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.4), [2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.5), [2.6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.6), [2.9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.9), [4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=4.2), en [5.1, vierde lid, van het Besluit brandstoffen luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=5.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **richtlijn (EU) 2015/652:** Richtlijn (EU) 2015/652 tot vaststelling van berekeningsmethoden en rapportageverplichtingen overeenkomstig Richtlijn 98/70/EG van het Europees parlement en de Raad betreffende de kwaliteit van benzine en van dieselbrandstof (PbEU 2015, L 107).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De testmethode, bedoeld in [artikel 2.2, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.2) is de methode prEN 16135 of de methode prEN 16136.
 
@@ -32,15 +58,15 @@ In deze regeling wordt verstaan onder:
 
 3. De testmethode, bedoeld in de [artikelen 2.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.5), en [2.6, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.6) is de methode EN 590:2013.
 
-#### Artikel 3
+##### Artikel 3
 
 Het tijdstip, bedoeld in [artikel 2.4, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=2.4) is, voor tankstations die in de maand april van een jaar per benzinekwaliteit minder dan driemaal zijn bevoorraad, de datum waarop het tankstation na 15 april van dat jaar voor de tweede maal met zomerbenzine is bevoorraad, indien die datum is gelegen na 1 mei van dat jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 De testmethode, bedoeld in [artikel 4.2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0029909&artikel=4.2) is:
 
@@ -64,11 +90,11 @@ De testmethode, bedoeld in [artikel 4.2, tweede lid, van het besluit](https://we
 
 - c. voor de interpretatie van de waarde, welke is gevonden volgens een in onderdeel b genoemde methode: de norm ISO 4259 (1992).
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling brandstoffen luchtverontreiniging.
 
@@ -240,7 +266,7 @@ De te rapporteren gemiddelde broeikasgasemissie gedurende de levenscyclus per ee
 
 De hoeveelheid elektriciteit wordt hierbij uitgedrukt in kWh en de broeikasgasemissies per energie-eenheid in g CO2eq/kWh. De factor 2,5 dient ter verrekening van de bijdrage van elektriciteit in de energievoorziening van het verkeer. De factor 3,6 dient voor de omrekening van de hoeveelheid elektriciteit uitgedrukt in kWh naar de hoeveelheid elektriciteit uitgedrukt in MJ. Volgens de Europese Commissie moet voor de broeikasgasemissie per energie-eenheid voor elektriciteit uit worden gegaan van de gemiddelde waarde van een lidstaat: in Nederland: 716 g CO2eq/kWh.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 

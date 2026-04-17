@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001455"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-07-01
-laatste_update: 2001-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001455"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-07-01"
+last_updated: "2001-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001455"
+soort: "verdrag"
+stam_id: "10000263733"
+version_id: "10000271792"
+internal_id: "C10006991491"
+label_id: "10000263964"
+original_entry_into_force: "2001-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001455/2001-07-01/0"
+intitule_bron: "Trb.1999-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-14"
+intitule_published: "1999-07-02"
+intitule_in_force: "2001-12-13"
+intitule_status: "goed"
+original_publication: "Trb.1999-112"
+original_signed_date: "2000-11-14"
+original_published_date: "1999-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-112"
+entry_into_force_date: "2001-07-01"
+jci_1_3: "jci1.3:c:BWBV0001455&z=2001-07-01&g=2001-07-01"
+jci_1_0: "1.0:c:BWBV0001455&g=2001-07-01"
+citeertitel_status: "officieel"
+signed_date: "2000-11-14"
+entry_into_force: "2001-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de bevordering en de wederzijdse bescherming van investeringen
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +48,7 @@ In het besef dat overeenstemming over de aan dergelijke investeringen toe te ken
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -50,11 +74,11 @@ Voor de toepassing van dit Verdrag:
 
 - c. wordt onder de term „grondgebied” verstaan het nationale grondgebied van iedere Verdragsluitende Partij, met inbegrip van het luchtruim, de territoriale zee alsmede die zeegebieden, met inbegrip van de zeebodem en de ondergrond daarvan, die grenzen aan de buitengrenzen van de territoriale zee van iedere Verdragsluitende Partij, waarover zij overeenkomstig internationaal recht rechtsmacht en soevereine rechten uitoefenen of kunnen hebben met betrekking tot de exploratie, exploitatie en bescherming van de natuurlijke rijkdommen in deze gebieden.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar grondgebied van investeringen van investeerders van de andere Verdragsluitende Partij. Met inachtneming van het recht van elke Verdragsluitende Partij de door haar wetten of voorschriften verleende bevoegdheden uit te oefenen, laat elke Verdragsluitende Partij dergelijke investeringen toe.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Verdragsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van investeerders van de andere Verdragsluitende Partij en belemmert niet, door willekeurige of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze investeerders. Elke Verdragsluitende Partij kent aan die investeringen fysieke zekerheid en bescherming toe, die in ieder geval niet minder gunstig zijn dan die welke worden toegekend aan investeringen van haar eigen investeerders of aan investeringen van investeerders van een derde staat.
 
@@ -66,7 +90,7 @@ Elke Verdragsluitende Partij bevordert, binnen het kader van haar wetten en voor
 
 5. Indien naast dit Verdrag de wettelijke bepalingen van een van beide Verdragsluitende Partijen of verplichtingen krachtens internationaal recht die thans tussen de Verdragsluitende Partijen bestaan of op een later tijdstip onderling worden aangegaan, een algemene of bijzondere regeling bevatten op grond waarvan investeringen door investeerders van de andere Verdragsluitende Partij aanspraak kunnen maken op een behandeling die gunstiger is dan in dit Verdrag is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven dit Verdrag.
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstellingen van belasting kent iedere Verdragsluitende Partij aan investeerders van de andere Verdragsluitende Partij die zich op haar grondgebied met economische activiteiten bezighouden, een behandeling toe die niet minder gunstig is met betrekking tot hun investering dan die welke wordt toegekend aan haar eigen investeerders of aan die van een derde staat die zich in dezelfde omstandigheden bevinden, naar gelang van welke het gunstigst is voor de betrokken investeerders. Hierbij wordt evenwel geen rekening gehouden met bijzondere belastingvoordelen door die Partij toegekend:
 
@@ -76,7 +100,7 @@ Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstell
 
 - c. op basis van wederkerigheid met een derde staat.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze Verdragsluitende Partijen waarborgen dat betalingen die verband houden met een investering kunnen worden overgemaakt. De overmakingen geschieden in vrij inwisselbare valuta, zonder beperking of vertraging. Deze overmakingen omvatten in het bijzonder, doch niet uitsluitend:
 
@@ -100,21 +124,21 @@ Deze Verdragsluitende Partijen waarborgen dat betalingen die verband houden met 
 
 - h. betalingen uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001455&artikel=7&z=2001-07-01&g=2001-07-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geen der Verdragsluitende Partijen neemt, direct of indirect, maatregelen tot nationalisering of onteigening noch andere maatregelen die een soortgelijk gevolg hebben, tegen investeringen van investeerders van de andere Verdragsluitende Partij, behalve in gevallen waarin deze maatregelen zijn genomen in het algemeen belang, op non-discriminatoire basis, met inachtneming van een behoorlijke rechtsgang en tegen onmiddellijke, adequate en doelmatige schadeloosstelling.
 
 2. De schadeloosstelling dient onmiddellijk te worden betaald, dient gelijk te zijn aan de redelijke marktwaarde van de onteigende investering onmiddellijk voorafgaand aan het moment waarop de onteigening of de op handen zijnde onteigening openbaar werd, en dient daadwerkelijk te gelde te kunnen worden gemaakt en vrij te kunnen worden overgemaakt. Het bedrag van deze schadeloosstelling dient rente te omvatten vanaf de datum van ontneming van het onteigende bezit tot de datum van betaling tegen een gewone commerciële rentevoet voor de valuta waarin deze wordt betaald.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan investeerders van de ene Verdragsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Verdragsluitende Partij wegens oorlog of een ander gewapend conflict, revolutie, een nationale noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstbedoelde Verdragsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Verdragsluitende Partij haar eigen investeerders of aan investeerders van een derde staat geeft met betrekking tot hun investering, naar gelang van welke het gunstigst is voor de betrokken investeerders.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien de investeringen van een investeerder van de ene Verdragsluitende Partij verzekerd zijn tegen niet-commerciële risico's of anderszins aanleiding geven tot de betaling van schadevergoeding ter zake van die investeringen krachtens een bij wet, voorschrift of overheidscontract ingesteld stelsel, wordt de subrogatie van de verzekeraar of de herverzekeraar of de door de ene Verdragsluitende Partij aangewezen instantie in de rechten van de bedoelde investeerder, ingevolge de voorwaarden van deze verzekering of krachtens een andere gegeven schadeloosstelling, door de andere Verdragsluitende Partij erkend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Geschillen die mogelijk ontstaan tussen een van de Verdragsluitende Partijen en een investeerder van de andere Verdragsluitende Partij betreffende een investering van die investeerder op het grondgebied van de eerstbedoelde Verdragsluitende Partij worden, zoveel mogelijk, in der minne geschikt tussen de betrokken partijen.
 
@@ -132,17 +156,17 @@ Indien de investeringen van een investeerder van de ene Verdragsluitende Partij 
 
 5. Een investeerder kan tevens besluiten een geschil voor te leggen aan een bevoegde nationale rechtbank. Indien een juridisch geschil betreffende een investering op het grondgebied van Costa Rica is voorgelegd aan een bevoegde nationale rechtbank, mag dit geschil niet worden voorgelegd voor internationale geschillenregeling, tenzij de bevoegde nationale rechtbank geen onherroepelijke uitspraak heeft gedaan. Indien een geschil betrekking heeft op een investering op het grondgebied van het Koninkrijk der Nederlanden kan een investeerder er op elk tijdstip voor kiezen een geschil voor te leggen voor internationale geschillenregeling.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van dit Verdrag zijn, vanaf de datum waarop dit Verdrag in werking treedt, van toepassing op alle investeringen, ongeacht of deze vóór of na de inwerkingtreding zijn gedaan door investeerders van de ene Verdragsluitende Partij op het grondgebied van de andere Verdragsluitende Partij in overeenstemming met de wetten en voorschriften van laatstgenoemde Verdragsluitende Partij, met inbegrip van haar wetten en voorschriften inzake arbeid en milieu.
 
 De bepalingen van dit Verdrag zijn niet van toepassing op een geschil met betrekking tot een investering dat is ontstaan, of een aanspraak die is geregeld vóór de inwerkingtreding van dit Verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 Elk van beide Verdragsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de uitlegging of toepassing van dit Verdrag. De andere Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor een dergelijk overleg.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Enig geschil tussen de Verdragsluitende Partijen betreffende de uitlegging of de toepassing van dit Verdrag dat niet binnen een redelijke termijn langs diplomatieke weg kan worden beslecht, wordt, tenzij de Partijen anders zijn overeengekomen, op verzoek van een van beide Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Partij benoemt één scheidsman en de twee aldus benoemde scheidslieden benoemen tezamen een derde scheidsman, die geen onderdaan van een der Partijen is, tot hun voorzitter.
 
@@ -160,11 +184,11 @@ Elk van beide Verdragsluitende Partijen kan aan de andere Partij voorstellen ove
 
 8. Het scheidsgerecht neemt zijn beslissing bij meerderheid van stemmen. Deze beslissing is onherroepelijk en bindend voor de Partijen.
 
-#### Artikel 13
+##### Artikel 13
 
 Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij anders is bepaald in de in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001455&artikel=14&z=2001-07-01&g=2001-07-01), bedoelde mededeling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan hun grondwettelijk vereiste procedures is voldaan, en blijft van kracht gedurende een tijdvak van tien jaar.
 
@@ -176,11 +200,11 @@ Wat het Koninkrijk der Nederlanden betreft is dit Verdrag van toepassing op het 
 
 Bij de ondertekening van het Verdrag tussen de Republiek Costa Rica en het Koninkrijk der Nederlanden inzake de bevordering en de wederzijdse bescherming van investeringen hebben de ondergetekende gevolmachtigden bovendien overeenstemming bereikt over de volgende bepalingen, die als een integrerend deel van genoemd Verdrag worden beschouwd.
 
-#### Ad artikel 5
+##### Ad artikel 5
 
 „Zonder beperking of vertraging” betekent dat overmakingen geschieden in overeenstemming met de normale bankprocedures en handelsgebruiken en in elk geval binnen een termijn van twee maanden na de datum van aanvraag van de overmaking.
 
-#### Ad artikel 6
+##### Ad artikel 6
 
 De bepalingen van dit artikel tasten in geen enkel opzicht de bevoegdheid van een Verdragsluitende Partij aan te besluiten of zij al dan niet met de andere Verdragsluitende Partij of met een andere derde staat onderhandelt over kwantitatieve exportbeperkingen, noch haar bevoegdheid deze quota toe te kennen overeenkomstig het internationaal recht.
 

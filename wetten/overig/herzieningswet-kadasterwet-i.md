@@ -1,80 +1,106 @@
 ---
-title: "Herzieningswet Kadasterwet I"
+title: "Wet van 3 februari 2005 tot wijziging van de Kadasterwet, de Invoeringswet Kadasterwet, de Organisatiewet Kadaster, enige andere wetten en enkele wetboeken in verband met een verdergaande toepassing van informatie- en communicatietechnologie bij de aanbieding van stukken ter inschrijving in de openbare registers voor registergoederen, het houden van die registers en de verstrekking van inlichtingen daaruit, alsmede in verband met enkele noodzakelijk gebleken technische aanpassingen en het stellen van aanvullende eisen aan het gebruik van elektronische handtekeningen (Herzieningswet Kadasterwet I)"
 identifier: "BWBR0017989"
-categorie: "Overig"
-publicatiedatum: 2005-09-01
-laatste_update: 2005-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017989"
+country: "nl"
+rank: "wet"
+publication_date: "2005-09-01"
+last_updated: "2005-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017989"
+soort: "wet"
+stam_id: "6832003"
+version_id: "11712332"
+internal_id: "C16471601"
+label_id: "6820364"
+original_entry_into_force: "2005-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017989/2005-09-01/0"
+intitule_bron: "Stb.2005-107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-03"
+intitule_published: "2005-03-08"
+intitule_in_force: "2005-08-25"
+intitule_status: "goed"
+original_publication: "Stb.2005-107"
+original_signed_date: "2005-02-03"
+original_published_date: "2005-03-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "28443"
+original_url_id: "stb-2005-107"
+entry_into_force_date: "2005-09-01"
+jci_1_3: "jci1.3:c:BWBR0017989&z=2005-09-01&g=2005-09-01"
+jci_1_0: "1.0:c:BWBR0017989&g=2005-09-01"
+citeertitel_status: "officieel"
+short_title: "Herzieningswet Kadasterwet I"
+signed_date: "2005-02-03"
+entry_into_force: "2005-09-01"
 ---
+# Wet van 3 februari 2005 tot wijziging van de Kadasterwet, de Invoeringswet Kadasterwet, de Organisatiewet Kadaster, enige andere wetten en enkele wetboeken in verband met een verdergaande toepassing van informatie- en communicatietechnologie bij de aanbieding van stukken ter inschrijving in de openbare registers voor registergoederen, het houden van die registers en de verstrekking van inlichtingen daaruit, alsmede in verband met enkele noodzakelijk gebleken technische aanpassingen en het stellen van aanvullende eisen aan het gebruik van elektronische handtekeningen (Herzieningswet Kadasterwet I)
 
-# Herzieningswet Kadasterwet I
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Kadasterwet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Invoeringswet Kadasterwet.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Organisatiewet Kadaster.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Burgerlijk Wetboek.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Faillissementswet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet vervoer binnenvaart.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Wetboek van Koophandel.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Zeebrievenwet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wijzigingswet Boek 8 van het Burgerlijk Wetboek enz. (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen).
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet publiekrechtelijke registratie zeeschepen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt deze wet.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De op het tijdstip van de inwerkingtreding van deze wet door de Dienst gehouden openbare registers, bedoeld in [artikel 8, eerste lid, onderdelen a tot en met d, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8), zoals dat artikel luidde tot aan dat tijdstip, maken deel uit:
 
@@ -82,11 +108,11 @@ De op het tijdstip van de inwerkingtreding van deze wet door de Dienst gehouden 
 
 - b. voorzover betreffend de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8): van de openbare registers, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=8).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, haalt de bewaarder een inschrijving betreffende een waardeloos recht van een hypotheek en een beslag niet door.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. [Artikel 48, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), voorzover betreffend de naam van de hypotheekhouder, [artikel 48, tweede lid, onderdelen a, b, c en f](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48), voorzover betreffend een recht van hypotheek en een inbeslagneming, en [artikel 48, tweede lid, onderdeel g, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48) vinden, onverminderd de tweede zin, toepassing ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven vanaf het tijdstip waarop [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=VIII&z=2005-09-01&g=2005-09-01) van deze wet in werking treedt. Ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven in de openbare registers voor het tijdstip, bedoeld in de eerste zin, vinden de bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), genoemd in de eerste zin, toepassing, voorzover door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daartoe wordt besloten. In een besluit als bedoeld in de tweede zin worden de desbetreffende rechten van hypotheek en de inbeslagnemingen aangewezen door ten minste de vermelding van:
 
@@ -96,7 +122,7 @@ In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, 
 
 2. Een besluit als bedoeld in het eerste lid, tweede zin, wordt geplaatst in de Staatscourant.
 
-#### Artikel XX
+##### Artikel XX
 
 1. [Artikel 48, tweede lid, onderdeel j, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=48) vindt toepassing ten aanzien van een notariële akte en een notariële verklaring die zijn ingeschreven in de openbare registers vanaf het tijdstip waarop [artikel I, onderdeel Q](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=I&z=2005-09-01&g=2005-09-01), van deze wet in werking treedt, en ten aanzien van een voor dat tijdstip ingeschreven notariële akte en notariële verklaring, voorzover dit bij regeling van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer wordt bepaald.
 
@@ -106,7 +132,7 @@ In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, 
 
 4. Het eerste en tweede lid zijn van overeenkomstige toepassing op [artikel 92, tweede lid, onderdelen m en n, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), met dien verstande dat in die leden onder «onderdeel Q» wordt verstaan onderdeel Y.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. [Artikel 85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), voorzover betreffend de naam van de hypotheekhouder, [artikel 85, tweede lid, onderdelen a, b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85), voorzover betreffend een recht van hypotheek en een inbeslagneming, en [artikel 85, tweede lid, onderdeel k, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=85) vinden, onverminderd de tweede zin, toepassing ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven in de openbare registers vanaf het tijdstip waarop [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=X&z=2005-09-01&g=2005-09-01) van deze wet in werking treedt. Ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven in de openbare registers voor het tijdstip, bedoeld in de eerste zin, vinden de bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), genoemd in de eerste zin, toepassing, voorzover door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daartoe wordt besloten. In een besluit als bedoeld in de tweede zin worden de desbetreffende rechten van hypotheek en de inbeslagnemingen aangewezen door ten minste de vermelding van:
 
@@ -116,7 +142,7 @@ In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, 
 
 2. Een besluit als bedoeld in het eerste lid, tweede zin, wordt geplaatst in de Staatscourant.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. [Artikel 92, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), voorzover betreffend de naam van de hypotheekhouder, [artikel 92, tweede lid, onderdelen a, b, c en i](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), voorzover betreffend een recht van hypotheek en een inbeslagneming, en [artikel 92, tweede lid, onderdeel k, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92) vinden, onverminderd de tweede zin, toepassing ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven in de openbare registers vanaf het tijdstip waarop [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=XI&z=2005-09-01&g=2005-09-01) van deze wet in werking treedt. Ten aanzien van een recht van hypotheek en een inbeslagneming ingeschreven in de openbare registers voor het tijdstip, bedoeld in de eerste zin, vinden de bepalingen van de [Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541), genoemd in de eerste zin, toepassing, voorzover door Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer daartoe wordt besloten. In een besluit als bedoeld in de tweede zin worden de desbetreffende rechten van hypotheek en de inbeslagnemingen aangewezen door ten minste de vermelding van:
 
@@ -126,7 +152,7 @@ In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, 
 
 2. Een besluit als bedoeld in het eerste lid, tweede zin, wordt geplaatst in de Staatscourant.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Na de inwerkingtreding van de desbetreffende onderdelen van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=I&z=2005-09-01&g=2005-09-01) van deze wet berusten de uitvoeringsvoorschriften:
 
@@ -162,11 +188,11 @@ In afwijking van hetgeen daaromtrent in wettelijke voorschriften wordt bepaald, 
 
 2. Degene die na de inwerkingtreding van deze wet bewaarder van het kadaster en de openbare registers is aan een kantoor van de Dienst van het kadaster en de openbare registers, geldt als met inachtneming van de eisen van [artikel 6, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=6) te zijn benoemd tot bewaarder van het kadaster en de openbare registers.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werkt voorzover betreffend [artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0017989&artikel=VII&z=2005-09-01&g=2005-09-01) terug tot en met 1 juli 1993.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Deze wet wordt aangehaald als: Herzieningswet Kadasterwet I.
 

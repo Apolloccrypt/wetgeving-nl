@@ -1,13 +1,38 @@
 ---
-title: "Uitvoeringsvoorschriften BABW inzake verkeerstekens"
+title: "Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten"
 identifier: "BWBR0009104"
-categorie: "Verkeer"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009104"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009104"
+soort: "ministeriele-regeling"
+stam_id: "5261453"
+version_id: "9479252"
+internal_id: "C12712911"
+label_id: "5237614"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009104/2023-10-01/0"
+intitule_bron: "Stcrt.1997-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-10"
+intitule_published: "1997-12-11"
+intitule_in_force: "1997-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-239"
+original_signed_date: "1997-12-10"
+original_published_date: "1997-12-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-12-13"
+jci_1_3: "jci1.3:c:BWBR0009104&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0009104&g=2023-10-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsvoorschriften BABW inzake verkeerstekens"
+signed_date: "1997-12-10"
+entry_into_force: "1997-12-13"
 ---
-
 # Regeling houdende voorschriften over de toepassing, plaatsing en uitvoering van verkeerstekens, uitgezonderd verkeerslichten
 
 Gelet op [artikel 14 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14) en de artikelen 4, derde lid, 9, 10 eerste en tweede lid, derde lid onder a en c, 11 en 48, derde lid, van het Besluit administratieve bepalingen inzake het wegverkeer;
@@ -18,23 +43,23 @@ de volgende voorschriften vast te stellen ten aanzien van de toepassing, de plaa
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Paragraaf 1. Definities
+##### Paragraaf 1. Definities
 
 1. Voorwaarschuwingsbord: een op enige afstand voor het bord geplaatst identiek bord van bijlage 1 van het RVV 1990, met een onderbord waarop een afstandsaanduiding is vermeld.
 
 2. Herhalingsbord: een bord geplaatst ter herinnering aan eenzelfde bord dat aan het begin van een en hetzelfde wegvak geplaatst is.
 
-#### Paragraaf 2. Algemene bepaling ten aanzien van toepassing
+##### Paragraaf 2. Algemene bepaling ten aanzien van toepassing
 
 4. Verkeerstekens worden slechts toegepast, voor zover dit bepaald nodig is en nadat vervangende infrastructurele maatregelen zijn overwogen.
 
-#### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
+##### Paragraaf 3. Tijdelijke toepassing van verkeerstekens
 
 5. Bij tijdelijke toepassing van verkeerstekens en onderborden, overeenkomstig het bepaalde in paragraaf 8 van het BABW, mag in spoedeisende gevallen van de voorschriften in de [hoofdstukken II](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&z=2023-10-01&g=2023-10-01) en [III](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=III&z=2023-10-01&g=2023-10-01) worden afgeweken. Dergelijke afwijkingen worden zo spoedig mogelijk gecorrigeerd.
 
 ### Hoofdstuk II. Verkeersborden
 
-#### Paragraaf 1. Algemene bepalingen ten aanzien van de toepassing van verkeersborden
+##### Paragraaf 1. Algemene bepalingen ten aanzien van de toepassing van verkeersborden
 
 1. Borden worden slechts toegepast indien de inrichting van de weg in overeenstemming is met hetgeen bij de afzonderlijke borden is voorgeschreven.
 
@@ -64,7 +89,7 @@ X = n.v.t.
 
 5. Borden uit hoofdstuk E, van [bijlage 1 van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&bijlage=1), die een parkeergelegenheid aangeven, worden, indien zij, al dan niet door middel van de toepassing van onderborden, zijn voorzien van aanduidingen dat gedeeltelijk op het trottoir of het voetpad parkeren is toegestaan, slechts toegepast, indien door met belijning gemarkeerde parkeervakken is aangegeven hoe het parkeren dient plaats te vinden.
 
-#### Paragraaf 2. Algemene bepalingen ten aanzien van plaatsing van verkeersborden
+##### Paragraaf 2. Algemene bepalingen ten aanzien van plaatsing van verkeersborden
 
 6. De waarneembaarheid van verkeersborden moet dag en nacht verzekerd zijn.
 
@@ -96,7 +121,7 @@ Bij tunnels, viaducten en dergelijke kan hiervan worden afgeweken.
 
 14. Een bord staat tenminste buiten het profiel van vrije ruimte van de rijbaan. De afstand tussen de rand van het bord en de kant van de rijbaan dan wel de kant van de verharding bedraagt bij voorkeur tenminste 0,60 m en ten hoogste 3,60 m. Op wegen buiten de kom, zonder parkeer- of vluchtstrook, bedraagt de minimumafstand 1,80 m.
 
-#### Paragraaf 3. Algemene bepalingen ten aanzien van uitvoering van verkeersborden
+##### Paragraaf 3. Algemene bepalingen ten aanzien van uitvoering van verkeersborden
 
 15. Borden worden weergegeven in:
 
@@ -138,7 +163,7 @@ Niet retroreflecterend behoeven te zijn:
 
 18. Bewegwijzering ten behoeve van voetgangers mag in afwijking van het bepaalde in het [derde lid, eerste volzin, van artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009104&hoofdstuk=II&paragraaf=4&z=2023-10-01&g=2023-10-01) van het BABW bestaan uit een rechthoekig bord, waarop de letters, cijfers of symbolen in een veld zijn geplaatst van andere kleur dan blauw.
 
-#### Paragraaf 4. Voorschriften voor de afzonderlijke borden
+##### Paragraaf 4. Voorschriften voor de afzonderlijke borden
 
 1. De in te stellen maximumsnelheid dient in overeenstemming te zijn met het wegbeeld ter plaatse. Dit betekent dat waar nodig de omstandigheden op zodanige manier zijn aangepast dat de beoogde snelheid redelijkerwijs voortvloeit uit de aard en de inrichting van de betrokken weg en van zijn omgeving.
 
@@ -574,7 +599,7 @@ Deze borden worden uitgevoerd in minimaal type 0.
 
 ### Hoofdstuk III. Onderborden
 
-#### Uitvoering en plaatsing
+##### Uitvoering en plaatsing
 
 1. Onderborden zijn rechthoekig en worden in wit uitgevoerd met zwarte letters, cijfers en afbeeldingen.
 
@@ -602,7 +627,7 @@ Bij afstanden van meer dan 1000 m wordt de afstand in kilometers aangegeven, zon
 
 ### Hoofdstuk IV. Verkeerstekens op het wegdek
 
-#### Paragraaf 1. Algemene bepalingen
+##### Paragraaf 1. Algemene bepalingen
 
 1. Tekens op het wegdek zijn wit tenzij voor een afzonderlijk teken anders is bepaald. Bij tijdelijke toepassing is de kleur in ieder geval een andere kleur dan wit.
 
@@ -614,7 +639,7 @@ Bij afstanden van meer dan 1000 m wordt de afstand in kilometers aangegeven, zon
 
 - b. deze vluchtstrook kan worden opengesteld als spitsstrook.
 
-#### Paragraaf 2. Voorschriften voor de afzonderlijke tekens op het wegdek
+##### Paragraaf 2. Voorschriften voor de afzonderlijke tekens op het wegdek
 
 1. De gele doorgetrokken streep, zoals bedoeld in art. 23.1.g van het RVV 1990
 
@@ -710,7 +735,7 @@ Uitvoering
 
 2. Bij een zebra wordt, behalve bij verkeerslichten, altijd bord L2 geplaatst.
 
-#### Hoofdstuk V. Slotbepalingen
+##### Hoofdstuk V. Slotbepalingen
 
 Overgangsbepaling
 

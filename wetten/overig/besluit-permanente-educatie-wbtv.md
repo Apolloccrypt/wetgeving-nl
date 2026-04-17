@@ -1,13 +1,38 @@
 ---
 title: "Besluit permanente educatie Wbtv"
 identifier: "BWBR0043928"
-categorie: "Overig"
-publicatiedatum: 2020-07-24
-laatste_update: 2020-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043928"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-07-24"
+last_updated: "2020-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043928"
+soort: "zbo"
+stam_id: "15576423"
+version_id: "26912382"
+internal_id: "C38107251"
+label_id: "15517924"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043928/2020-07-24/0"
+intitule_bron: "Stcrt.2020-39352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-14"
+intitule_published: "2020-07-23"
+intitule_in_force: "2020-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-39352"
+original_signed_date: "2020-07-14"
+original_published_date: "2020-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-39352"
+entry_into_force_date: "2020-07-24"
+jci_1_3: "jci1.3:c:BWBR0043928&z=2020-07-24&g=2020-07-24"
+jci_1_0: "1.0:c:BWBR0043928&g=2020-07-24"
+citeertitel_status: "officieel"
+signed_date: "2020-07-14"
+entry_into_force: "2020-07-24"
 ---
-
 # Besluit permanente educatie Wbtv
 
 Gelet op:
@@ -30,7 +55,7 @@ stelt de Raad voor Rechtsbijstand het volgende Besluit permanente educatie Wbtv 
 
 ### Begrippen en definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -60,23 +85,23 @@ In dit besluit wordt verstaan onder:
 
 ### Permanente educatie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een tolk of vertaler dient tenminste 80 PE-punten te registreren voor activiteiten die gedurende zijn periode van inschrijving in het Rbtv, dan wel plaatsing op de Uitwijklijst, hebben plaatsgevonden.
 
 2. Tenminste 40 PE-punten dienen te zijn behaald op basis van scholingsactiviteiten. De overige PE-punten kunnen worden behaald door overige activiteiten.
 
-#### Artikel 3
+##### Artikel 3
 
 De tolk of vertaler registreert de PE-punten in een door de Raad ter beschikking gestelde beveiligde persoonlijke digitale omgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien in de inschrijfperiode of plaatsingsperiode van vijf jaar meer dan 80 PE-punten zijn geregistreerd, telt bij een verlenging van de inschrijving of plaatsing het overschot niet mee voor een volgende periode van inschrijving of plaatsing.
 
 ### Scholingsactiviteiten
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een scholingsactiviteit dient aan de volgende criteria te voldoen:
 
@@ -108,7 +133,7 @@ Indien in de inschrijfperiode of plaatsingsperiode van vijf jaar meer dan 80 PE-
 
 - i. de wijze waarop scholingsactiviteiten worden geëvalueerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanbieder van een scholingsactiviteit bepaalt het aantal PE-punten dat voor een scholingsactiviteit mag worden geregistreerd op basis van de studiebelasting.
 
@@ -126,7 +151,7 @@ Indien in de inschrijfperiode of plaatsingsperiode van vijf jaar meer dan 80 PE-
 
 ### Overige activiteiten
 
-#### Artikel 7
+##### Artikel 7
 
 Een tolk of vertaler kan conform onderstaande tabel PE-punten registreren voor overige activiteiten:
 
@@ -141,11 +166,11 @@ Een tolk of vertaler kan conform onderstaande tabel PE-punten registreren voor o
 | 7 | Werkervaring als beroepstolk en/of -vertaler | Per 200 uur 1 PE-punt Per 100.000 woorden 1 PE-punt | Maximaal 5 PE-punten | Referenties, verklaringen, urenstaten van werk- en opdrachtgevers of een zelf opgesteld overzicht van werkervaring. |
 | 8 | Zelfstudie, het bijhouden van vakliteratuur en ondersteunende literatuur | Per uur 1 PE-punt | Maximaal 5 PE-punten | Omschrijving van de activiteit, abonnement/aanschaf vakliteratuur. |
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit Permanente educatie Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0036205), zoals gepubliceerd op 2 februari 2015 (Stcrt. 2015, nr. 2300) en de [Nadere regels Besluit PE](https://wetten.overheid.nl/jci1.3:c:BWBR0036200), zoals gepubliceerd op 1 mei 2015 (Stcrt. 2015, nr. 2303-n1), worden ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit wordt aangehaald als Besluit permanente educatie Wbtv.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen"
 identifier: "BWBV0001567"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001567"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001567"
+soort: "verdrag"
+stam_id: "10000383313"
+version_id: "10000391522"
+internal_id: "C10009552311"
+label_id: "10000383584"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001567/2003-01-01/0"
+intitule_bron: "Trb.2002-27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-27"
+intitule_published: "2002-02-11"
+intitule_in_force: "2003-01-06"
+intitule_status: "goed"
+original_publication: "Trb.2002-27"
+original_signed_date: "2002-12-27"
+original_published_date: "2002-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-27"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBV0001567&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBV0001567&g=2003-01-01"
+citeertitel_status: "officieel"
+signed_date: "2002-12-27"
+entry_into_force: "2003-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 1. Nalatenschappen, verkrijgingen krachtens erfrecht en schenkingen waarop het Verdrag van toepassing is
+##### Artikel 1. Nalatenschappen, verkrijgingen krachtens erfrecht en schenkingen waarop het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing:
 
@@ -30,7 +55,7 @@ Dit Verdrag is van toepassing:
 
 - b. op schenkingen gedaan door personen die ten tijde van de schenking inwoner waren van een of van beide Verdragsluitende Staten.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen, die, ongeacht de wijze van heffing, worden geheven ten behoeve van een Verdragsluitende Staat of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
 
@@ -46,7 +71,7 @@ Dit Verdrag is van toepassing:
 
 ### HOOFDSTUK II. BEGRIPSBEPALINGEN
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -74,7 +99,7 @@ Dit Verdrag is van toepassing:
 
 2. Voor de toepassing van het Verdrag door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens het recht van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is.
 
-#### Artikel 4. Fiscale woonplaats
+##### Artikel 4. Fiscale woonplaats
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een Verdragsluitende Staat” iedere persoon wiens nalatenschap of wiens schenking, ingevolge de wetgeving van die Staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid. Deze uitdrukking omvat echter niet personen wier nalatenschap of wier schenking in die Staat slechts aan belasting is onderworpen ter zake van in die Staat gelegen vermogensbestanddelen.
 
@@ -100,7 +125,7 @@ Dit Verdrag is van toepassing:
 
 ### HOOFDSTUK III. REGELS VOOR DE BELASTINGHEFFING
 
-#### Artikel 5. Onroerende vermogensbestanddelen
+##### Artikel 5. Onroerende vermogensbestanddelen
 
 1. Onroerende vermogensbestanddelen die deel uitmaken van de nalatenschap van, of van een schenking gedaan door, een persoon die inwoner was van een Verdragsluitende Staat, en die in de andere Verdragsluitende Staat zijn gelegen, mogen in die andere Staat worden belast.
 
@@ -108,7 +133,7 @@ Dit Verdrag is van toepassing:
 
 3. De bepalingen van het eerste lid zijn ook van toepassing op onroerende vermogensbestanddelen van een onderneming en op onroerende vermogensbestanddelen gebezigd voor het verrichten van zelfstandige arbeid.
 
-#### Artikel 6. Bedrijfsvermogen van een vaste inrichting en bezittingen behorend tot een vast middelpunt en gebezigd voor het verrichten van zelfstandige arbeid
+##### Artikel 6. Bedrijfsvermogen van een vaste inrichting en bezittingen behorend tot een vast middelpunt en gebezigd voor het verrichten van zelfstandige arbeid
 
 1. Bezittingen, met uitzondering van de bezittingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01), die deel uitmaken van de nalatenschap van, of van een schenking gedaan door, een persoon die inwoner was van een Verdragsluitende Staat, en die behoren tot een in de andere Verdragsluitende Staat gevestigde vaste inrichting, mogen in die andere Staat worden belast.
 
@@ -146,17 +171,17 @@ Dit Verdrag is van toepassing:
 
 6. Bezittingen, met uitzondering van de bezittingen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01), die deel uitmaken van de nalatenschap van, of van een schenking gedaan door, een persoon die inwoner was van een Verdragsluitende Staat, die behoren tot een in de andere Verdragsluitende Staat gevestigd vast middelpunt en die worden gebezigd voor het verrichten van zelfstandige arbeid, mogen in die andere Staat worden belast.
 
-#### Artikel 7. Overige vermogensbestanddelen
+##### Artikel 7. Overige vermogensbestanddelen
 
 Onverminderd de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=8&z=2003-01-01&g=2003-01-01), zijn vermogensbestanddelen, waar ook gelegen, die deel uitmaken van de nalatenschap van, of van een schenking gedaan door, een persoon die inwoner was van een Verdragsluitende Staat, en die niet werden behandeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=6&z=2003-01-01&g=2003-01-01), slechts belastbaar in die Staat.
 
-#### Artikel 8. Subsidiaire heffingsrechten
+##### Artikel 8. Subsidiaire heffingsrechten
 
 1. Indien de overledene of de schenker ten tijde van zijn overlijden, respectievelijk ten tijde van de schenking inwoner was van een Verdragsluitende Staat en op dat tijdstip onderdaan was van de andere Verdragsluitende Staat en op enig tijdstip gedurende de tien jaren onmiddellijk voorafgaand aan het overlijden of de schenking inwoner was geweest van die andere Staat, mag die andere Staat de vermogensbestanddelen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=7&z=2003-01-01&g=2003-01-01), ook belasten, overeenkomstig zijn nationale wetgeving.
 
 2. Indien de schenker ten tijde van de schenking inwoner was van een Verdragsluitende Staat en op enig tijdstip gedurende het jaar onmiddellijk voorafgaand aan de schenking inwoner was geweest van de andere Verdragsluitende Staat, mag die andere Staat de vermogensbestanddelen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=7&z=2003-01-01&g=2003-01-01), onverminderd de bepalingen van het eerste lid, ook belasten, overeenkomstig zijn nationale wetgeving.
 
-#### Artikel 9. Aftrek van schulden
+##### Artikel 9. Aftrek van schulden
 
 1. Schulden waarvoor vermogensbestanddelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01) uitdrukkelijk zijn verbonden, worden op de waarde van die vermogensbestanddelen in mindering gebracht. Schulden waarvoor vermogensbestanddelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01) niet uitdrukkelijk zijn verbonden, doch die verband houden met de verkrijging, de omzetting, het herstel of het onderhoud van zulke vermogensbestanddelen, worden op de waarde van die vermogensbestanddelen in mindering gebracht.
 
@@ -170,7 +195,7 @@ Onverminderd de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:B
 
 6. Ingeval de bepalingen van het eerste tot en met het vijfde lid een Verdragsluitende Staat zouden verplichten schulden in mindering te brengen tot een groter bedrag dan het bedrag waarin zijn wetgeving voorziet, zijn die bepalingen alleen van toepassing voor zover de andere Verdragsluitende Staat krachtens zijn eigen wetgeving niet verplicht is dezelfde schulden in mindering te brengen.
 
-#### Artikel 10. Vrijstellingen en verminderingen
+##### Artikel 10. Vrijstellingen en verminderingen
 
 1. De vrijstellingen en verminderingen van belasting waarin de wetgeving van een Verdragsluitende Staat voor belastbare gebeurtenissen waarop dit Verdrag van toepassing is, voorziet ten gunste van die Staat of van de staatkundige onderdelen of de plaatselijke publiekrechtelijke lichamen daarvan, zijn van toepassing op de andere Verdragsluitende Staat en de staatkundige onderdelen en de plaatselijke publiekrechtelijke lichamen van die andere Staat.
 
@@ -178,7 +203,7 @@ Onverminderd de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:B
 
 ### HOOFDSTUK IV. VERMIJDING VAN DUBBELE BELASTING
 
-#### Artikel 11. Vermijding van dubbele belasting
+##### Artikel 11. Vermijding van dubbele belasting
 
 1. Indien de overledene of de schenker ten tijde van het overlijden, respectievelijk ten tijde van de schenking inwoner van Nederland was, verleent Nederland voor vermogensbestanddelen die overeenkomstig de bepalingen van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=5&z=2003-01-01&g=2003-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=6&z=2003-01-01&g=2003-01-01) in Oostenrijk mogen worden belast, een vermindering van de overeenkomstig zijn nationale wetgeving berekende belasting, met inachtneming van de bepalingen van [artikel 9, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=III&artikel=9&z=2003-01-01&g=2003-01-01).
 
@@ -206,7 +231,7 @@ Onverminderd de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:B
 
 ### HOOFDSTUK V. BIJZONDERE BEPALINGEN
 
-#### Artikel 12. Non-discriminatie
+##### Artikel 12. Non-discriminatie
 
 1. Onderdanen van een Verdragsluitende Staat alsmede nalatenschappen van, schenkingen gedaan door, en nalatenschappen of schenkingen verkregen door, zulke onderdanen worden in de andere Verdragsluitende Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan onderdanen van die andere Staat, nalatenschappen van, schenkingen gedaan door, of nalatenschappen of schenkingen verkregen door, die onderdanen, onder dezelfde omstandigheden zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande de bepalingen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01), ook van toepassing op personen die geen inwoner zijn van een of van beide Verdragsluitende Staten, alsmede op nalatenschappen van, schenkingen gedaan door, en nalatenschappen of schenkingen verkregen door, zulke personen.
 
@@ -214,7 +239,7 @@ Onverminderd de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Ondernemingen van een Verdragsluitende Staat, waarvan het kapitaal geheel of gedeeltelijk, onmiddellijk of middellijk, in het bezit is van of wordt beheerst door een of meer inwoners van de andere Verdragsluitende Staat, worden in de eerstbedoelde Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen waaraan andere soortgelijke ondernemingen van de eerstbedoelde Staat zijn of kunnen worden onderworpen.
 
-#### Artikel 13. Regeling voor onderling overleg
+##### Artikel 13. Regeling voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een of van beide Verdragsluitende Staten voor hem leiden of zullen leiden tot een belasting-heffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Verdragsluitende Staat waarvan hij inwoner is, of, indien zijn geval valt onder [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=V&artikel=12&z=2003-01-01&g=2003-01-01), eerste lid, aan de bevoegde autoriteit van de Verdragsluitende Staat waarvan hij onderdaan is.
 
@@ -226,7 +251,7 @@ Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt 
 
 4. De bevoegde autoriteiten van de Verdragsluitende Staten kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
 
-#### Artikel 14. Uitwisseling van inlichtingen
+##### Artikel 14. Uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit, die nodig zijn om uitvoering te geven aan de bepalingen van dit Verdrag of die van de nationale wetgeving van de Verdragsluitende Staten met betrekking tot de belastingen waarop het Verdrag van toepassing is, voor zover de heffing van die belastingen in overeenstemming is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001567&hoofdstuk=I&artikel=1&z=2003-01-01&g=2003-01-01). Alle door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen, en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop het Verdrag van toepassing is. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen.
 
@@ -238,7 +263,7 @@ Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt 
 
 - c. inlichtingen te verstrekken, die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
-#### Artikel 15. Bijstand bij invordering
+##### Artikel 15. Bijstand bij invordering
 
 1. De Verdragsluitende Staten komen overeen elkaar hulp en bijstand te verlenen, in overeenstemming met hun onderscheiden wetgeving of administratieve praktijk, bij de invordering van de belastingen waarop dit Verdrag van toepassing is, en de op genoemde belastingen betrekking hebbende verhogingen, boetes, betalingen wegens termijnoverschrijdingen, interest en kosten.
 
@@ -280,7 +305,7 @@ Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt 
 
 14. Met betrekking tot de voorgaande bepalingen van dit artikel kunnen de bevoegde autoriteiten van de Staten in onderlinge overeenstemming de wijze regelen waarop bijstand wordt verleend, en alle daarmede verband houdende aangelegenheden.
 
-#### Artikel 16. Diplomatieke en consulaire ambtenaren
+##### Artikel 16. Diplomatieke en consulaire ambtenaren
 
 1. De bepalingen van dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
@@ -292,7 +317,7 @@ Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt 
 
 - b. op nalatenschappen van deze functionarissen of personen, indien deze organisaties, organen, functionarissen of personen zich op het grondgebied van een Verdragsluitende Staat bevinden en in geen van beide Staten geacht worden inwoner te zijn voor de toepassing van belastingen van nalatenschappen, verkrijgingen krachtens erfrecht of schenkingen.
 
-#### Artikel 17. Uitbreiding tot andere gebieden
+##### Artikel 17. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot elk van de landen of beide landen van de Nederlandse Antillen of Aruba, indien het desbetreffende land belastingen heft, die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Zulk een uitbreiding wordt van kracht met ingang van een datum en met inachtneming van de wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
 
@@ -300,11 +325,11 @@ Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt 
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de eerste maand na de laatste der beide data waarop de onderscheiden Regeringen elkaar schriftelijk hebben medegedeeld, dat de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten zijn vervuld, en de bepalingen ervan vinden toepassing op nalatenschappen van personen overleden op of na die dag en op gebeurtenissen andere dan overlijden, die plaatsvinden op of na die dag en die leiden tot belastingplicht ingevolge de wetgeving van een van beide Staten.
 
-#### Artikel 19. Beëindiging
+##### Artikel 19. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Verdragsluitende Staten kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden vóór het einde van enig kalenderjaar na het verstrijken van een tijdvak van vijf jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van beëindiging. In dat geval houdt het Verdrag op van toepassing te zijn aan het begin van het kalenderjaar volgend op dat waarin kennisgeving van de beëindiging is gedaan, maar blijft het van toepassing op nalatenschappen van personen overleden vóór dat tijdstip en op gebeurtenissen andere dan overlijden, die plaatsvinden vóór dat tijdstip en die leiden tot belastingplicht ingevolge de wetgeving van een van beide Staten.
 

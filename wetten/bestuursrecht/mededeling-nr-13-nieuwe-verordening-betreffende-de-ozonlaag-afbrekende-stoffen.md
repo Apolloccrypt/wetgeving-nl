@@ -1,13 +1,37 @@
 ---
 title: "Mededeling nr. 13, nieuwe verordening betreffende de ozonlaag afbrekende stoffen"
 identifier: "BWBR0012143"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-01-08
-laatste_update: 2001-01-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012143"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-01-08"
+last_updated: "2001-01-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012143"
+soort: "beleidsregel"
+stam_id: "8305053"
+version_id: "13171122"
+internal_id: "C17737141"
+label_id: "8286294"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012143/2001-01-08/0"
+intitule_bron: "Infob.2001-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-01-08"
+intitule_published: "2001-01-01"
+intitule_in_force: "2001-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2001-1"
+original_signed_date: "2001-01-08"
+original_published_date: "2001-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-01-08"
+jci_1_3: "jci1.3:c:BWBR0012143&z=2001-01-08&g=2001-01-08"
+jci_1_0: "1.0:c:BWBR0012143&g=2001-01-08"
+citeertitel_status: "redactioneel"
+signed_date: "2001-01-08"
+entry_into_force: "2001-01-08"
 ---
-
 # Mededeling nr. 13, nieuwe verordening betreffende de ozonlaag afbrekende stoffen
 
 ### Algemeen

@@ -1,14 +1,40 @@
 ---
-title: "Wet gemeenschappelijke regelingen"
+title: "Wet van 20 december 1984, houdende nieuwe bepalingen met betrekking tot gemeenschappelijke regelingen"
 identifier: "BWBR0003740"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003740"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003740"
+soort: "wet"
+stam_id: "303403"
+version_id: "17606272"
+internal_id: "C24363621"
+label_id: "299994"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003740/2025-02-12/0"
+intitule_bron: "Stb.1984-667"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0003740&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0003740&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet gemeenschappelijke regelingen"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Wet gemeenschappelijke regelingen
+# Wet van 20 december 1984, houdende nieuwe bepalingen met betrekking tot gemeenschappelijke regelingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 1
+##### Artikel 1
 
 1. De raden, de colleges van burgemeester en wethouders en de burgemeesters van twee of meer gemeenten kunnen afzonderlijk of tezamen, ieder voor zover zij voor de eigen gemeente bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die gemeenten.
 
@@ -34,31 +60,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de regeling kan een openbaar lichaam worden ingesteld. Het openbaar lichaam is rechtspersoon.
 
@@ -68,7 +94,7 @@ Vervallen
 
 4. In de regeling kunnen bevoegdheden van de besturen van de deelnemende gemeenten worden gemandateerd aan organen en personen werkzaam onder de verantwoordelijkheid van een van de deelnemende gemeenten, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De regeling houdt bepalingen in omtrent wijziging, opheffing, toetreding, de voorwaarden waaronder kan worden uitgetreden en de gevolgen van uittreding, waaronder bepalingen omtrent de gevolgen voor het vermogen van de rechtspersoon, bedoeld in [artikel 8, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), en de deelnemende gemeenten, met inachtneming van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=1&artikel=1&z=2025-02-12&g=2025-02-12).
 
@@ -76,7 +102,7 @@ Vervallen
 
 3. Het bij een regeling ingestelde openbaar lichaam of een bedrijfsvoeringsorganisatie blijft na zijn ontbinding voortbestaan voor zover dit tot vereffening van zijn vermogen nodig is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De regeling vermeldt het belang of de belangen ter behartiging waarvan zij is getroffen of gewijzigd.
 
@@ -94,7 +120,7 @@ Vervallen
 
 8. De in het zevende lid bedoelde inspraak wordt verleend door toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), voor zover in de regeling niet anders is bepaald.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De deelnemers aan een regeling waarbij gebruik is gemaakt van de bevoegdheid, bedoeld in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), verlenen hun medewerking aan de uitvoering van besluiten die het bestuur van een openbaar lichaam of een bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan neemt in verband met de uitoefening van de aan dat bestuur of orgaan overgedragen bevoegdheden.
 
@@ -102,11 +128,11 @@ Vervallen
 
 3. Alvorens over te gaan tot toepassing van het tweede lid, wordt het bestuur van de betrokken deelnemer in kennis gesteld van het daarop gerichte voornemen.
 
-#### Artikel 11
+##### Artikel 11
 
 In de regeling kan een termijn worden aangegeven gedurende welke een of meer van de deelnemers is of zijn vrijgesteld van uit deze regeling voortvloeiende rechten en verplichtingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het bestuur van het openbaar lichaam bestaat uit een algemeen bestuur, een dagelijks bestuur en een voorzitter.
 
@@ -114,7 +140,7 @@ In de regeling kan een termijn worden aangegeven gedurende welke een of meer van
 
 3. De voorzitter is tevens voorzitter van het algemeen bestuur en van het dagelijks bestuur.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het algemeen bestuur van een openbaar lichaam, ingesteld bij een regeling die uitsluitend is getroffen door raden, bestaat uit leden die per deelnemende gemeente door de raad uit zijn midden, met uitzondering van de voorzitter, worden aangewezen. Indien de regeling mede is getroffen door raden, bestaat het algemeen bestuur uit leden die per deelnemende gemeente door de raad uit zijn midden, de voorzitter inbegrepen, en uit de wethouders worden aangewezen.
 
@@ -154,7 +180,7 @@ In de regeling kan een termijn worden aangegeven gedurende welke een of meer van
 
 - b. de burgemeesters van de deelnemende gemeenten, waarbij het zevende lid, tweede volzin, en achtste lid van overeenkomstige toepassing zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het dagelijks bestuur van het openbaar lichaam bestaat uit de voorzitter en twee of meer andere leden, door en uit het algemeen bestuur aan te wijzen, met inachtneming van het daaromtrent in de regeling bepaalde. De aldus aangewezen leden van het dagelijks bestuur mogen niet allen afkomstig zijn uit dezelfde gemeente.
 
@@ -162,11 +188,11 @@ In de regeling kan een termijn worden aangegeven gedurende welke een of meer van
 
 3. De leden van het dagelijks bestuur mogen nimmer de meerderheid van het algemeen bestuur uitmaken, tenzij sprake is van een regeling als bedoeld in [artikel 13, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=13&z=2025-02-12&g=2025-02-12), met minder dan zes deelnemende gemeenten.
 
-#### Artikel 15
+##### Artikel 15
 
 Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), is [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=13&z=2025-02-12&g=2025-02-12) van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De regeling houdt bepalingen in omtrent de wijze waarop een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan door de raad die dit lid heeft aangewezen, ter verantwoording kan worden geroepen voor het door hem in dat bestuur onderscheidenlijk dat orgaan gevoerde beleid.
 
@@ -178,7 +204,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 5. Bij het verstrekken van inlichtingen ingevolge het tweede of het derde lid, of het afleggen van verantwoording ingevolge het eerste of het derde lid, verschaft een lid van het algemeen bestuur van het openbaar lichaam of een lid van het gemeenschappelijk orgaan over zaken waaromtrent krachtens [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=23&z=2025-02-12&g=2025-02-12) geheimhouding is opgelegd slechts informatie, indien krachtens [artikel 87 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=87) geheimhouding is opgelegd en de informatie krachtens [artikel 88 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=88) aan de raad is verstrekt. Laatstbedoelde geheimhouding kan eerst worden opgeheven, nadat door het algemeen bestuur van het openbaar lichaam of door het gemeenschappelijk orgaan tot opheffing van de geheimhouding is besloten.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De regeling houdt bepalingen in omtrent de wijze waarop door het bestuur van het openbaar lichaam of de bedrijfsvoeringsorganisatie of door het gemeenschappelijk orgaan aan de raden van de deelnemende gemeenten de door een of meer leden van die raden gevraagde inlichtingen worden verstrekt.
 
@@ -186,11 +212,11 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 3. De regeling, bedoeld in [artikel 8, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), houdt bepalingen in omtrent de wijze waarop de inlichtingen, bedoeld in het tweede lid, worden verstrekt.
 
-#### Artikel 18
+##### Artikel 18
 
 [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=16&z=2025-02-12&g=2025-02-12) is van overeenkomstige toepassing op regelingen die uitsluitend getroffen zijn door colleges van burgemeester en wethouders alsmede op regelingen die uitsluitend getroffen zijn door colleges van burgemeester en wethouders en burgemeesters gezamenlijk, voor zover het betreft de leden, bedoeld in [artikel 13, tiende lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=13&z=2025-02-12&g=2025-02-12), met dien verstande dat voor «het algemeen bestuur van het openbaar lichaam» telkens wordt gelezen «het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie».
 
-#### Artikel 19
+##### Artikel 19
 
 1. Ingeval de regeling uitsluitend is getroffen door colleges van burgemeester en wethouders is [artikel 16, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=16&z=2025-02-12&g=2025-02-12), van overeenkomstige toepassing ten aanzien van de gemeenteraden respectievelijk een of meer leden van die raden, met dien verstande dat voor «het algemeen bestuur van het openbaar lichaam» telkens wordt gelezen «het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie».
 
@@ -198,7 +224,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 3. Ingeval de regeling uitsluitend is getroffen door colleges van burgemeester en wethouders en burgemeesters gezamenlijk, is [artikel 16, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=16&z=2025-02-12&g=2025-02-12), van overeenkomstige toepassing ten aanzien van raden respectievelijk een of meer leden van de raden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een lid van het bestuur van het openbaar lichaam of de bedrijfsvoeringsorganisatie mag:
 
@@ -232,7 +258,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 4. Wanneer is gehandeld in strijd met het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) van overeenkomstige toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De leden van het bestuur van een openbaar lichaam of een bedrijfsvoeringsorganisatie of van het gemeenschappelijk orgaan kunnen een tegemoetkoming in de kosten en, voor zover zij niet de functie van wethouder, burgemeester of secretaris vervullen, een vergoeding voor hun werkzaamheden ontvangen. Deze tegemoetkoming en vergoeding worden bij de regeling, of krachtens de regeling door het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, vastgesteld. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld. De hoogte van de vergoeding staat in redelijke verhouding tot de aan het lidmaatschap verbonden werkzaamheden, mede rekening houdende met de vergoeding voor werkzaamheden welke het bestuurslid ontvangt uit hoofde van zijn lidmaatschap van de raad.
 
@@ -242,7 +268,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 4. [Artikel 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=99) is van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=16), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=19), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=20), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=26) en [28 tot en met 33 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=28) zijn, voor zover daarvan bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het algemeen bestuur van het openbaar lichaam van overeenkomstige toepassing.
 
@@ -254,7 +280,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 5. Het algemeen bestuur beslist vervolgens of met gesloten deuren zal worden vergaderd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het algemeen bestuur kan in een besloten vergadering, op grond van de belangen, genoemd in [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1), omtrent het in die vergadering met gesloten deuren behandelde en omtrent de inhoud van de stukken welke aan het algemeen bestuur worden overgelegd, geheimhouding opleggen. Deze wordt door hen die bij de behandeling aanwezig waren en allen die van het behandelde of de stukken kennisdragen, in acht genomen, totdat het algemeen bestuur haar opheft.
 
@@ -266,7 +292,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 5. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=22&z=2025-02-12&g=2025-02-12) en het eerste lid van dit artikel zijn eveneens van toepassing op het gemeenschappelijk orgaan, indien de regeling is getroffen of mede is getroffen door gemeenteraden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het algemeen bestuur van het openbaar lichaam kan commissies van advies instellen. Het regelt de bevoegdheden en de samenstelling. [Artikel 22 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22) is van overeenkomstige toepassing.
 
@@ -276,7 +302,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 4. De leden van commissies van advies die geen burgemeester, wethouder of lid van een gemeenteraad zijn kunnen een vergoeding voor het bijwonen van vergaderingen van de commissie ontvangen. De [artikelen 96 tot en met 99 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=96), alsmede de op grond daarvan gestelde nadere regelen, zijn alsdan van overeenkomstige toepassing, met dien verstande dat, wanneer daarin sprake is van een onderverdeling in gemeenteklassen, het bepaalde voor de gemeenteklasse van 50 001-100 000 inwoners van toepassing is.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het algemeen bestuur van het openbaar lichaam kan commissies instellen met het oog op de behartiging van bepaalde belangen indien de regeling in deze mogelijkheid voorziet. Het algemeen bestuur regelt de bevoegdheden en de samenstelling. [Artikel 22 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=22), de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=21&z=2025-02-12&g=2025-02-12), [23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=23&z=2025-02-12&g=2025-02-12), van deze wet en [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) zijn van overeenkomstige toepassing.
 
@@ -312,7 +338,7 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 8. Het algemeen bestuur kan besluiten en andere, niet-schriftelijke beslissingen gericht op enig rechtsgevolg van een door hem ingestelde commissie vernietigen. Het algemeen bestuur kan zijn bevoegdheid tot schorsing overdragen aan het dagelijks bestuur. Ten aanzien van de vernietiging van niet-schriftelijke beslissingen gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het gemeentebestuur dat daartoe bij de regeling is aangewezen onderscheidenlijk het bestuur van de gemeente van de plaats van vestiging maakt de regeling in alle deelnemende gemeenten bekend in het door dat gemeentebestuur uitgegeven gemeenteblad.
 
@@ -322,11 +348,11 @@ Op de samenstelling van het gemeenschappelijk orgaan, bedoeld in [artikel 8, twe
 
 4. Het eerste, tweede en derde lid zijn van toepassing op besluiten tot wijziging, verlenging of opheffing van de regeling, alsmede op besluiten tot toetreding en uittreding.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende gemeenten of tussen besturen van een of meer gemeenten en het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan worden door gedeputeerde staten beslist, voor zover zij niet behoren tot die, vermeld in [artikel 112, eerste lid van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=112) of tot die, waarvan de beslissing krachtens [artikel 112, tweede lid van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=112) is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren.
 
@@ -334,13 +360,13 @@ Vervallen
 
 3. In spoedeisende gevallen kunnen gedeputeerde staten bij de beslissing van het geschil in de plaats van het desbetreffende bestuur een besluit als bedoeld in het tweede lid nemen.
 
-#### Artikel 29
+##### Artikel 29
 
 Indien de deelnemende gemeenten in meer dan één provincie zijn gelegen, worden de bevoegdheden van gedeputeerde staten met betrekking tot het openbaar lichaam, de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan uitgeoefend door gedeputeerde staten van de provincie, waarin de plaats van vestiging is gelegen. Gedeputeerde staten plegen hierbij overleg met gedeputeerde staten van elke andere provincie waarin deelnemende gemeenten zijn gelegen. Besluiten die aan gedeputeerde staten dienen te worden meegedeeld, worden tevens meegedeeld aan gedeputeerde staten van elke andere betrokken provincie.
 
 #### § 3. De commissies
 
-#### Artikel 30
+##### Artikel 30
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen, en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de aan de regeling deelnemende gemeenten toekomen, met dien verstande dat:
 
@@ -352,19 +378,19 @@ Indien de deelnemende gemeenten in meer dan één provincie zijn gelegen, worden
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende gemeente, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening der gemeente voor het gehele gebied dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 31
+##### Artikel 31
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 32
+##### Artikel 32
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV), zullen gelden.
 
-#### Artikel 33
+##### Artikel 33
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -374,7 +400,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten.
 
@@ -392,13 +418,13 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 4. Goedkeuring van regelingen
 
-#### Artikel 36
+##### Artikel 36
 
 1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan kan bij koninklijk besluit worden vernietigd.
 
 2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [artikelen 37 tot en met 39f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=37&z=2025-02-12&g=2025-02-12) alsmede de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien een besluit van het algemeen bestuur of het dagelijks bestuur van het openbaar lichaam, van het bestuur van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan naar het oordeel van gedeputeerde staten voor vernietiging in aanmerking komt, doen zij daarvan binnen tien dagen nadat het te hunner kennis is gekomen, mededeling aan Onze Minister die het aangaat. Zij geven hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam en aan de deelnemende gemeenten, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast en aan de geadresseerde van het besluit.
 
@@ -406,13 +432,13 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 3. In geval de bevoegdheid tot het nemen van een besluit op grond van een andere wet dan de Gemeentewet aan het algemeen bestuur of het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan is overgedragen en het besluit in aanmerking komt voor vernietiging wegens strijd met het recht, kunnen gedeputeerde staten mededeling doen dat zij overwegen toepassing te geven aan het eerste lid. De mededeling wordt gedaan aan het orgaan dat het besluit heeft genomen, het orgaan dat met de uitvoering van het besluit is belast en de geadresseerde van het besluit. Nadat gedeputeerde staten mededeling hebben gedaan, wordt het besluit niet of niet verder uitgevoerd. Indien niet binnen tien dagen toepassing is gegeven aan het eerste lid, dan wel indien gedeputeerde staten mededelen dat geen toepassing wordt gegeven aan het eerste lid, wordt het besluit uitgevoerd.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een voordracht tot schorsing wordt gedaan door Onze Minister die het aangaat.
 
 2. Over de voordracht pleegt Onze Minister die het aangaat overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, tenzij schorsing onverwijld plaats dient te vinden. In de voordracht wordt het achterwege blijven van overleg gemotiveerd.
 
-#### Artikel 39
+##### Artikel 39
 
 In het koninklijk besluit kan voor de duur van de schorsing een voorziening worden getroffen.
 
@@ -420,7 +446,7 @@ In het koninklijk besluit kan voor de duur van de schorsing een voorziening word
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 40
+##### Artikel 40
 
 1. Provinciale staten, gedeputeerde staten en de commissarissen van de Koning van twee of meer provincies kunnen afzonderlijk of tezamen, ieder voor zover zij voor de eigen provincie bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die provincies.
 
@@ -434,7 +460,7 @@ In het koninklijk besluit kan voor de duur van de schorsing een voorziening word
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 1. De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), en met dien verstande dat:
 
@@ -464,13 +490,13 @@ In het koninklijk besluit kan voor de duur van de schorsing een voorziening word
 
 2. Wanneer is gehandeld in strijd met het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende provincies toekomen, met dien verstande dat:
 
@@ -482,19 +508,19 @@ Vervallen
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende provincie, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening der provincie voor het gehele gebied, dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 44
+##### Artikel 44
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 45
+##### Artikel 45
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XV), zullen gelden.
 
-#### Artikel 46
+##### Artikel 46
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -504,7 +530,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan provinciale staten van de deelnemende provincies.
 
@@ -520,7 +546,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 7. De [artikelen 190 tot en met 219 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=190) zijn van overeenkomstige toepassing, voor zover daarvan bij of krachtens deze wet niet is afgeweken.
 
-#### Artikel 49
+##### Artikel 49
 
 Op een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan zijn de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=36&z=2025-02-12&g=2025-02-12) en [38 tot en met 39f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=38&z=2025-02-12&g=2025-02-12) van toepassing, met dien verstande dat:
 
@@ -534,7 +560,7 @@ Op een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsg
 
 #### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
-#### Artikel 50
+##### Artikel 50
 
 1. De algemene besturen, de dagelijkse besturen en de voorzitters van twee of meer waterschappen kunnen afzonderlijk of tezamen, ieder voor zover zij voor het eigen waterschap bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die waterschappen.
 
@@ -548,7 +574,7 @@ Op een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsg
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 50a
+##### Artikel 50a
 
 1. De [artikelen 8 tot en met 24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=4&artikel=26&z=2025-02-12&g=2025-02-12), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=4&artikel=28&z=2025-02-12&g=2025-02-12) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=5&artikel=29&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), en met dien verstande dat:
 
@@ -572,7 +598,7 @@ Op een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsg
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 50b
+##### Artikel 50b
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende waterschappen toekomen, met dien verstande dat:
 
@@ -584,19 +610,19 @@ Op een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsg
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemend waterschap, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van het waterschap voor het gehele gebied, dan wel een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 50c
+##### Artikel 50c
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 50d
+##### Artikel 50d
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XVIII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVIII), zullen gelden.
 
-#### Artikel 50e
+##### Artikel 50e
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 50f
+##### Artikel 50f
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -606,7 +632,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten.
 
-#### Artikel 50g
+##### Artikel 50g
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan de algemene besturen van de deelnemende waterschappen.
 
@@ -624,21 +650,21 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 4. Goedkeuring van regelingen
 
-#### Artikel 50h
+##### Artikel 50h
 
 1. Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan kan door gedeputeerde staten worden vernietigd.
 
 2. Ten aanzien van de vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.2) en [10.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.2.3) van overeenkomstige toepassing.
 
-#### Artikel 50i
+##### Artikel 50i
 
 Indien een bekendgemaakt besluit is vernietigd of indien het niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan kennisgegeven in het publicatieblad.
 
-#### Artikel 50j
+##### Artikel 50j
 
 In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een besluit van gedeputeerde staten als bedoeld in [artikel 50h, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&afdeling=4&artikel=50h&z=2025-02-12&g=2025-02-12), beroep instellen.
 
-#### Artikel 50k
+##### Artikel 50k
 
 Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het besluit tot vernietiging wordt rekening gehouden.
 
@@ -646,7 +672,7 @@ Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onder
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 51
+##### Artikel 51
 
 1. De raden, de colleges van burgemeester en wethouders en de burgemeesters van een of meer gemeenten kunnen, afzonderlijk of tezamen, met provinciale staten, de colleges van gedeputeerde staten of de commissarissen van de Koning, ieder voor zover zij voor de eigen gemeente, onderscheidenlijk provincie bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die gemeenten of provincies.
 
@@ -658,13 +684,13 @@ Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onder
 
 5. Onder het treffen van een regeling wordt in dit artikel mede verstaan het wijzigen van, het toetreden tot en het uittreden uit een regeling.
 
-#### Artikel 51a
+##### Artikel 51a
 
 Vervallen
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 52
+##### Artikel 52
 
 1. De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), en met dien verstande dat:
 
@@ -694,13 +720,13 @@ Vervallen
 
 2. Wanneer is gehandeld in strijd met het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
-#### Artikel 54
+##### Artikel 54
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende gemeenten en provincies met betrekking tot hun eigen gemeente, onderscheidenlijk provincie toekomen, met dien verstande dat:
 
@@ -712,19 +738,19 @@ Vervallen
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende gemeente of provincie, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van de gemeente of provincie voor het gehele gebied, dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 55
+##### Artikel 55
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie, van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 56
+##### Artikel 56
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en die bedoeld in [hoofdstuk XV van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XV), zullen gelden.
 
-#### Artikel 57
+##### Artikel 57
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -734,7 +760,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten en aan provinciale staten van de deelnemende provincies.
 
@@ -750,7 +776,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 7. De [artikelen 190 tot en met 219 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=190) zijn van overeenkomstige toepassing, voor zover daarvan bij of krachtens deze wet niet is afgeweken.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, is daarop [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=4&artikel=49&z=2025-02-12&g=2025-02-12) van toepassing.
 
@@ -760,7 +786,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 61
+##### Artikel 61
 
 1. De raden, de colleges van burgemeester en wethouders en de burgemeesters van een of meer gemeenten kunnen, afzonderlijk of tezamen, met de algemene besturen, de dagelijkse besturen en de voorzitters van een of meer waterschappen, ieder voor zover zij voor de eigen gemeente, onderscheidenlijk het eigen waterschap bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die gemeenten of waterschappen.
 
@@ -774,7 +800,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 62
+##### Artikel 62
 
 De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=4&artikel=28&z=2025-02-12&g=2025-02-12) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=5&artikel=29&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met dien verstande dat:
 
@@ -786,7 +812,7 @@ De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
-#### Artikel 63
+##### Artikel 63
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de deelnemende gemeenten en waterschappen toekomen, met dien verstande dat:
 
@@ -798,19 +824,19 @@ De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende gemeente of van een deelnemend waterschap, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van de gemeente of van het waterschap voor het gehele gebied, dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 64
+##### Artikel 64
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 65
+##### Artikel 65
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en die bedoeld in [hoofdstuk XVIII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVIII), zullen gelden.
 
-#### Artikel 66
+##### Artikel 66
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -820,7 +846,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan gedeputeerde staten.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -840,21 +866,21 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
-#### Artikel 69
+##### Artikel 69
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende gemeenten zijn overgedragen, zijn daarop de [artikelen 36 tot en met 39f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=36&z=2025-02-12&g=2025-02-12) van toepassing.
 
 2. Voor zover de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan uitsluitend door de besturen van de deelnemende waterschappen zijn overgedragen, zijn daarop de [artikelen 50h tot en met 50k](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&afdeling=4&artikel=50h&z=2025-02-12&g=2025-02-12) van toepassing.
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
@@ -862,7 +888,7 @@ Vervallen
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 73
+##### Artikel 73
 
 1. De raden, de colleges van burgemeester en wethouders en de burgemeesters van een of meer gemeenten kunnen, afzonderlijk of tezamen, met provinciale staten, de colleges van gedeputeerde staten en de commissarissen van de Koning van een of meer provincies en de algemene besturen, de dagelijkse besturen en de voorzitters van een of meer waterschappen, ieder voor zover zij voor de eigen gemeente, de eigen provincie, onderscheidenlijk het eigen waterschap bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die gemeenten, provincies of waterschappen.
 
@@ -874,13 +900,13 @@ Vervallen
 
 5. Onder het treffen van een regeling wordt in dit artikel mede verstaan het wijzigen van, het toetreden tot en het uittreden uit een regeling.
 
-#### Artikel 73a
+##### Artikel 73a
 
 Vervallen
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 74
+##### Artikel 74
 
 1. De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), en met dien verstande dat:
 
@@ -910,13 +936,13 @@ Vervallen
 
 2. Wanneer is gehandeld in strijd met het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
 #### § 7. Financiën
 
-#### Artikel 76
+##### Artikel 76
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende gemeenten en provincies en van de deelnemende waterschappen met betrekking tot hun eigen gemeente, provincie, onderscheidenlijk waterschap toekomen, met dien verstande dat:
 
@@ -928,19 +954,19 @@ Vervallen
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende gemeente of provincie, of van een deelnemend waterschap, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van de gemeente, de provincie of het waterschap, voor het gehele gebied, dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 77
+##### Artikel 77
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 78
+##### Artikel 78
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&hoofdstuk=XV) en die bedoeld in [hoofdstuk XV van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XV) en [hoofdstuk XVIII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVIII), zullen gelden.
 
-#### Artikel 79
+##### Artikel 79
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -950,7 +976,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 81
+##### Artikel 81
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan de raden van de deelnemende gemeenten, aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -968,7 +994,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 8. In afwijking van het zesde lid zijn de [artikelen 98a tot en met 109c van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=99) van overeenkomstige toepassing, voor zover daarvan bij of krachtens deze wet niet is afgeweken, indien uitsluitend door de besturen van de deelnemende waterschappen bevoegdheden zijn overgedragen aan het openbaar lichaam, de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, is daarop artikel 49 van toepassing.
 
@@ -980,7 +1006,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 83
+##### Artikel 83
 
 1. Provinciale staten, de colleges van gedeputeerde staten en de commissarissen van de Koning van een of meer provincies kunnen, afzonderlijk of tezamen, met de algemene besturen, de dagelijkse besturen en de voorzitters van een of meer waterschappen, ieder voor zover zij voor de eigen provincie, onderscheidenlijk het eigen waterschap bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die provincies of waterschappen.
 
@@ -994,7 +1020,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 84
+##### Artikel 84
 
 1. De [artikelen 8 tot en met 26](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met uitzondering van [artikel 20, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), en met dien verstande dat:
 
@@ -1024,13 +1050,13 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 2. Wanneer is gehandeld in strijd met het eerste lid juncto [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), is [artikel X 7, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_7) van overeenkomstige toepassing.
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 86
+##### Artikel 86
 
 1. Aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij is getroffen en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen, als aan de besturen van de deelnemende provincies en waterschappen met betrekking tot hun eigen provincie, onderscheidenlijk waterschap toekomen, met dien verstande dat:
 
@@ -1042,19 +1068,19 @@ Vervallen
 
 3. Voor zover een verordening van het openbaar lichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemende provincie of een deelnemend waterschap, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van de provincie of van het waterschap voor het gehele gebied, dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 87
+##### Artikel 87
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het openbaar lichaam of de bedrijfsvoeringsorganisatie van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 88
+##### Artikel 88
 
 Een verordening van het openbaar lichaam tot heffing van een belasting regelt, voor welke colleges of ambtenaren de bevoegdheden, bedoeld in [hoofdstuk XV van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&hoofdstuk=XV) en die bedoeld in [hoofdstuk XVIII van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&hoofdstuk=XVIII), zullen gelden.
 
-#### Artikel 89
+##### Artikel 89
 
 De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algemeen bestuur, tenzij bij wet of in de regeling anders is bepaald.
 
-#### Artikel 90
+##### Artikel 90
 
 1. Het algemeen bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -1064,7 +1090,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 4. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 91
+##### Artikel 91
 
 1. Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt de ontwerpbegroting twaalf weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk twaalf weken voordat zij door het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan wordt vastgesteld, toe aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -1082,7 +1108,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 8. In afwijking van het zesde lid zijn de [artikelen 98a tot en met 109c van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=99) van overeenkomstige toepassing, voor zover daarvan bij of krachtens deze wet niet is afgeweken, indien uitsluitend door de besturen van de deelnemende waterschappen bevoegdheden zijn overgedragen aan het openbaar lichaam, de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan.
 
-#### Artikel 92
+##### Artikel 92
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, is daarop [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=4&artikel=49&z=2025-02-12&g=2025-02-12) van toepassing.
 
@@ -1090,7 +1116,7 @@ De bevoegdheden die bij de regeling worden overgedragen, berusten bij het algeme
 
 ### Hoofdstuk VIII. Het deelnemen aan een regeling door andere openbare lichamen en rechtspersonen
 
-#### Artikel 93
+##### Artikel 93
 
 Aan een regeling als bedoeld in de [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2025-02-12&g=2025-02-12) kunnen, indien zij daartoe overigens bevoegd zijn, tevens deelnemen:
 
@@ -1098,19 +1124,19 @@ Aan een regeling als bedoeld in de [hoofdstukken I tot en met VII](https://wette
 
 - b. een of meer andere rechtspersonen, indien hun bestuur bij koninklijk besluit, dat in de **Nederlandse Staatscourant** wordt geplaatst, daartoe is gemachtigd.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Deelneming vanwege het Rijk geschiedt bij besluit van Onze betrokken Minister. Het besluit regelt mede de gevolgen van de deelneming.
 
 2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
 
-#### Artikel 95
+##### Artikel 95
 
 De [hoofdstukken I tot en met VII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing, met dien verstande dat, wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 93, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=93&z=2025-02-12&g=2025-02-12) en [94, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&artikel=94&z=2025-02-12&g=2025-02-12), de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing zijn.
 
 ### Hoofdstuk IX. Regelingen tussen één gemeente, provincie of waterschap en een of meer andere openbare lichamen en rechtspersonen
 
-#### Artikel 96
+##### Artikel 96
 
 De raad en het college van burgemeester en wethouders van een gemeente, provinciale staten en gedeputeerde staten van een provincie, onderscheidenlijk het algemeen bestuur en het dagelijks bestuur van een waterschap kunnen, ieder voor zover zij voor de eigen gemeente, de eigen provincie, onderscheidenlijk het eigen waterschap bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van bepaalde belangen van die gemeente, die provincie, onderscheidenlijk dat waterschap met - indien deze daartoe overigens bevoegd zijn - de besturen van:
 
@@ -1118,13 +1144,13 @@ De raad en het college van burgemeester en wethouders van een gemeente, provinci
 
 - b. een of meer andere rechtspersonen, indien zij bij koninklijk besluit dat in de **Nederlandse Staatscourant** wordt geplaatst, daartoe zijn gemachtigd.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Deelneming vanwege het Rijk geschiedt bij besluit van Onze betrokken Minister. Het besluit regelt mede de gevolgen van de deelneming.
 
 2. Indien vanwege het Rijk wordt deelgenomen aan een regeling waarbij gebruik wordt gemaakt van een bevoegdheid als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=8&z=2025-02-12&g=2025-02-12), wordt een besluit als bedoeld in het eerste lid aan de beide kamers der Staten-Generaal overgelegd. Het treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij besluit van Onze betrokken Minister wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van het besluit bij wet wordt geregeld.
 
-#### Artikel 98
+##### Artikel 98
 
 Van overeenkomstige toepassing is [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2025-02-12&g=2025-02-12), indien een gemeente de regeling aangaat, [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&z=2025-02-12&g=2025-02-12), indien een provincie de regeling aangaat, of [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&z=2025-02-12&g=2025-02-12), indien een waterschap de regeling aangaat. Wanneer het een regeling betreft met deelnemers bedoeld in de [artikelen 96, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=96&z=2025-02-12&g=2025-02-12) en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&artikel=97&z=2025-02-12&g=2025-02-12), zijn de genoemde hoofdstukken ten aanzien van deze deelnemers zoveel mogelijk van overeenkomstige toepassing.
 
@@ -1132,7 +1158,7 @@ Van overeenkomstige toepassing is [hoofdstuk I](https://wetten.overheid.nl/jci1.
 
 #### § 1. Oplegging van een regeling
 
-#### Artikel 99
+##### Artikel 99
 
 1. Op verzoek van het bestuur van een of meer gemeenten kunnen gedeputeerde staten, indien een zwaarwegend openbaar belang dat vereist, gemeenten aanwijzen waarvan de besturen een gemeenschappelijke regeling moeten treffen ter behartiging van een of meer bepaalde belangen.
 
@@ -1142,15 +1168,15 @@ Van overeenkomstige toepassing is [hoofdstuk I](https://wetten.overheid.nl/jci1.
 
 4. Bij de aanwijzing stellen gedeputeerde staten een termijn binnen welke een regeling ter kennisneming aan hen dient te worden gezonden. Deze termijn bedraagt ten hoogste zes maanden.
 
-#### Artikel 99a
+##### Artikel 99a
 
 Vervallen
 
-#### Artikel 99b
+##### Artikel 99b
 
 Vervallen
 
-#### Artikel 100
+##### Artikel 100
 
 1. Gedeputeerde staten leggen uiterlijk binnen zes maanden na het verstrijken van de termijn, bedoeld in [artikel 99, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12), een regeling op overeenkomstig de aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12), indien geen regeling aan hen is gezonden, of indien uit de ter kennisneming toegezonden regeling blijkt dat aan de aanwijzing onvoldoende gevolg is gegeven.
 
@@ -1158,11 +1184,11 @@ Vervallen
 
 3. Alvorens een regeling op te leggen, horen gedeputeerde staten de besturen van de betrokken gemeenten over het ontwerp van de op te leggen regeling. Bij een oplegging als bedoeld in het tweede lid, horen gedeputeerde staten tevens het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan dat bij de betreffende regeling is ingesteld.
 
-#### Artikel 101
+##### Artikel 101
 
 Indien het een regeling betreft tussen gemeenten die in meer dan een provincie liggen, vindt de toepassing van de [artikelen 99](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12) en [100](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2025-02-12&g=2025-02-12) plaats bij gelijkluidende besluiten van gedeputeerde staten van de betrokken provincies.
 
-#### Artikel 102
+##### Artikel 102
 
 1. Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, gedeputeerde staten uitnodigen tot het geven van een aanwijzing als bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12).
 
@@ -1170,19 +1196,19 @@ Indien het een regeling betreft tussen gemeenten die in meer dan een provincie l
 
 3. Bij de uitnodiging stelt Onze Minister wie het aangaat een termijn binnen welke gedeputeerde staten een aanwijzing dienen te geven.
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 103a
+##### Artikel 103a
 
 De commissaris van de Koning treedt voor de toepassing van de [artikelen 99 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12) in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.
 
-#### Artikel 103b
+##### Artikel 103b
 
 De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V&z=2025-02-12&g=2025-02-12) en [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&z=2025-02-12&g=2025-02-12), voor zover daaraan geen provincies deelnemen. De artikelen 99, derde lid, en [100 tot en met 102](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=100&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing.
 
-#### Artikel 103c
+##### Artikel 103c
 
 1. De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12), kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in de [hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IV&z=2025-02-12&g=2025-02-12) en [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VI&z=2025-02-12&g=2025-02-12), alsmede [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VII&z=2025-02-12&g=2025-02-12), voor zover daaraan provincies deelnemen, met dien verstande dat de aanwijzing wordt gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. [Artikel 99, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=99&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing.
 
@@ -1190,21 +1216,21 @@ De aanwijzing, bedoeld in [artikel 99, eerste lid](https://wetten.overheid.nl/jc
 
 3. Bij toepassing van het eerste lid pleegt Onze Minister wie het aangaat tevens overleg met de besturen van de betrokken waterschappen, andere openbare lichamen en rechtspersonen. Bij toepassing van het tweede lid worden deze besturen tevens gehoord.
 
-#### Artikel 103d
+##### Artikel 103d
 
 Voor de toepassing van de [artikelen 103**b**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103b&z=2025-02-12&g=2025-02-12) en [103**c**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&artikel=103c&z=2025-02-12&g=2025-02-12) wordt onder oplegging van een regeling begrepen de oplegging van een toetreding tot en een uittreding uit een bestaande regeling.
 
-#### Artikel 103e
+##### Artikel 103e
 
 Voor zover in dit hoofdstuk niet anders is bepaald, is bij de oplegging van een regeling [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2025-02-12&g=2025-02-12), dan wel [IV](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IV&z=2025-02-12&g=2025-02-12), [V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V&z=2025-02-12&g=2025-02-12), [VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VI&z=2025-02-12&g=2025-02-12) of [VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&z=2025-02-12&g=2025-02-12) van toepassing.
 
-#### Artikel 103f
+##### Artikel 103f
 
 Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwaar of beroep tegen het aanwijzingsbesluit.
 
 #### § 1. Begripsbepaling
 
-#### Artikel 103g
+##### Artikel 103g
 
 1. Indien naar het oordeel van gedeputeerde staten het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan tekortschiet in de uitoefening van een aan dat bestuur of orgaan krachtens een regeling toegekende bevoegdheid of opgedragen taak, kunnen gedeputeerde staten aan dat bestuur of orgaan een aanwijzing geven die inhoudt dat het bestuur of het orgaan die bevoegdheid of taak uitoefent op de wijze als in de aanwijzing bepaald.
 
@@ -1212,17 +1238,17 @@ Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwa
 
 3. Bij de aanwijzing stellen gedeputeerde staten een termijn binnen welke het bestuur van het openbaar lichaam of het gemeenschappelijk orgaan aan de aanwijzing moet voldoen.
 
-#### Artikel 103h
+##### Artikel 103h
 
 Indien het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan niet binnen de termijn, bedoeld in [artikel 103**g**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01), gevolg geeft aan de aanwijzing oefenen gedeputeerde staten de desbetreffende bevoegdheid of taak uit namens het bestuur van dat openbaar lichaam of het gemeenschappelijk orgaan en ten laste van dat openbaar lichaam of dat gemeenschappelijk orgaan. Gedeputeerde staten kunnen zonodig de bevoegdheid of taak op gelijke wijze doen uitoefenen.
 
-#### Artikel 103i
+##### Artikel 103i
 
 1. Voor de toepassing van de [artikelen 103**g**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01) en [103**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103h&z=2005-07-01&g=2005-07-01) zijn, indien het betreft een regeling tussen gemeenten die in meer dan één provincie liggen, doch niet in één of niet alle in eenzelfde provinciegrensoverschrijdend samenwerkingsgebied, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&paragraaf=2&artikel=2&z=2005-07-01&g=2005-07-01), gedeputeerde staten bevoegd van de provincie waarin de plaats van vestiging van het openbaar lichaam of het gemeenschappelijk orgaan is gelegen.
 
 2. Gedeputeerde staten plegen bij toepassing van het eerste lid overleg met gedeputeerde staten van de andere betrokken provincies.
 
-#### Artikel 103j
+##### Artikel 103j
 
 1. Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, gedeputeerde staten uitnodigen tot het geven van een aanwijzing als bedoeld in [artikel 103**g**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01).
 
@@ -1232,15 +1258,15 @@ Indien het bestuur van een openbaar lichaam of het gemeenschappelijk orgaan niet
 
 4. Indien binnen de termijn, bedoeld in het derde lid, door gedeputeerde staten geen aanwijzing is gegeven, wordt een aanwijzing gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. De [artikelen 103**g**, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01), en [103**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103h&z=2005-07-01&g=2005-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 103k
+##### Artikel 103k
 
 De commissaris van de Koning treedt voor de toepassing van de [artikelen 103**g** tot en met 103**j**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01) in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.
 
-#### Artikel 103l
+##### Artikel 103l
 
 De aanwijzing, bedoeld in [artikel 103**g**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01), en de uitoefening, bedoeld in [artikel 103**h**](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103h&z=2005-07-01&g=2005-07-01), kunnen betrekking hebben op een regeling als bedoeld in [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&z=2005-07-01&g=2005-07-01), dan wel een regeling als bedoeld in [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=V&z=2005-07-01&g=2005-07-01) en [hoofdstuk VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII&z=2005-07-01&g=2005-07-01), voor zover daaraan geen provincies deelnemen, dan wel een regeling als bedoeld in [hoofdstuk IX](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX&z=2005-07-01&g=2005-07-01), voor zover daaraan een gemeente deelneemt.
 
-#### Artikel 103m
+##### Artikel 103m
 
 Tegen een aanwijzing als bedoeld in de [artikelen 103**g**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103g&z=2005-07-01&g=2005-07-01), en [103**j**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=X&paragraaf=2&artikel=103j&z=2005-07-01&g=2005-07-01), kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.
 
@@ -1250,103 +1276,103 @@ Tegen een aanwijzing als bedoeld in de [artikelen 103**g**, eerste lid](https://
 
 #### Begripsbepalingen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
 #### Georganiseerd overleg
 
-#### Artikel 105
+##### Artikel 105
 
 Vervallen
 
 #### Vaststelling van de samenwerkingsindeling
 
-#### Artikel 106
+##### Artikel 106
 
 Vervallen
 
 #### De besluiten tot aanpassing of ontbinding
 
-#### Artikel 107
+##### Artikel 107
 
 Vervallen
 
-#### Artikel 108
+##### Artikel 108
 
 Vervallen
 
-#### Artikel 109
+##### Artikel 109
 
 Vervallen
 
-#### Artikel 110
+##### Artikel 110
 
 Vervallen
 
-#### Artikel 111
+##### Artikel 111
 
 Vervallen
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen
 
-#### Artikel 114
+##### Artikel 114
 
 Vervallen
 
-#### Artikel 115
+##### Artikel 115
 
 Vervallen
 
-#### Artikel 116
+##### Artikel 116
 
 Vervallen
 
-#### Artikel 117
+##### Artikel 117
 
 Vervallen
 
-#### Artikel 118
+##### Artikel 118
 
 Vervallen
 
 #### Overgang rechten en verplichtingen
 
-#### Artikel 119
+##### Artikel 119
 
 Vervallen
 
 #### Goedkeuring en ter kennisneming inzenden
 
-#### Artikel 120
+##### Artikel 120
 
 Vervallen
 
 #### In de plaats treding door hoger gezag
 
-#### Artikel 121
+##### Artikel 121
 
 Vervallen
 
 #### Het van rechtswege vervallen van regelingen
 
-#### Artikel 122
+##### Artikel 122
 
 Vervallen
 
-#### Artikel 123
+##### Artikel 123
 
 Vervallen
 
 #### § 2. Wijzigingen in andere wetten
 
-#### Artikel 124
+##### Artikel 124
 
 1. De eilandsraden, de bestuurscolleges en de gezaghebbers van twee of meer openbare lichamen Bonaire, Sint Eustatius of Saba kunnen afzonderlijk of tezamen, ieder voor zover zij voor het eigen openbaar lichaam bevoegd zijn, een gemeenschappelijke regeling treffen ter behartiging van een of meer bepaalde belangen van die openbare lichamen.
 
@@ -1358,7 +1384,7 @@ Vervallen
 
 5. Onder het treffen van een regeling wordt in dit artikel mede verstaan het wijzigen van, het toetreden tot en het uittreden uit een regeling.
 
-#### Artikel 125
+##### Artikel 125
 
 1. Bij de regeling kan een openbaar lichaam onder de naam samenwerkingslichaam worden ingesteld. Het samenwerkingslichaam is een rechtspersoon.
 
@@ -1366,7 +1392,7 @@ Vervallen
 
 3. In een regeling kan worden bepaald dat daarin omschreven bevoegdheden van bestuursorganen of van ambtenaren van twee of meer aan de regeling deelnemende openbare lichamen Bonaire, Sint Eustatius of Saba worden uitgeoefend door bestuursorganen, onderscheidenlijk door ambtenaren van een van de deelnemende openbare lichamen.
 
-#### Artikel 126
+##### Artikel 126
 
 De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=1&artikel=9&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing met uitzondering van de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=20&z=2025-02-12&g=2025-02-12), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=22&z=2025-02-12&g=2025-02-12), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=24&z=2025-02-12&g=2025-02-12), [24a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=24a&z=2025-02-12&g=2025-02-12), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=25&z=2025-02-12&g=2025-02-12) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=4&artikel=28&z=2025-02-12&g=2025-02-12), met dien verstande dat:
 
@@ -1416,7 +1442,7 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 - h. bij de toepassing van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=23&z=2025-02-12&g=2025-02-12), voor [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) telkens wordt gelezen: artikel 11 van de Wet openbaarheid van bestuur BES.
 
-#### Artikel 127
+##### Artikel 127
 
 1. [Artikel 16 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=16) is van overeenkomstige toepassing op een lid van het bestuur van het samenwerkingslichaam.
 
@@ -1424,7 +1450,7 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 3. Wanneer is gehandeld in strijd met het eerste lid, is [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=X_8) van overeenkomstige toepassing.
 
-#### Artikel 128
+##### Artikel 128
 
 1. De artikelen 17, 18, 20, 21, 23, 27, 29, 30, 31, 32, 33, 34 en 35 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba zijn, voor zover daarvan bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het algemeen bestuur van het samenwerkingslichaam van overeenkomstige toepassing.
 
@@ -1442,7 +1468,7 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 8. De artikelen 62, 63, 64, 65, 67, 68, 69, 70, 71 en 72 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba en [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=23&z=2025-02-12&g=2025-02-12), van deze wet zijn, voor zover bij deze wet niet is afgeweken, op het houden en de orde van de vergaderingen van het gemeenschappelijk van overeenkomstige toepassing, indien de regeling uitsluitend is getroffen door bestuurscolleges of gezaghebbers.
 
-#### Artikel 129
+##### Artikel 129
 
 1. Geschillen omtrent de toepassing, in de ruimste zin, van een regeling tussen besturen van deelnemende openbare lichamen of tussen besturen van een of meer deelnemende openbare lichamen en het bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan worden door de Rijksvertegenwoordiger beslist, voor zover zij niet behoren tot die, vermeld in [artikel 112, eerste lid, van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=112) of tot die, waarvan de beslissing krachtens artikel 112, tweede lid, van de Grondwet is opgedragen hetzij aan de rechterlijke macht, hetzij aan gerechten die niet tot de rechterlijke macht behoren. In eerste en enige aanleg wordt het geschil voorgelegd aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
@@ -1450,7 +1476,7 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 3. In spoedeisende gevallen kan de Rijksvertegenwoordiger bij de beslissing van het geschil in de plaats van het desbetreffende bestuur een besluit als bedoeld in het tweede lid nemen.
 
-#### Artikel 130
+##### Artikel 130
 
 1. Aan het bestuur van het samenwerkingslichaam of aan het gemeenschappelijk orgaan kunnen bij de regeling ten aanzien van de belangen ter behartiging waarvan zij wordt getroffen, en voor het gebied waarvoor zij geldt, zodanige bevoegdheden van regeling en bestuur worden overgedragen als aan de besturen van de aan de regeling deelnemende openbare lichamen toekomen, met dien verstande dat:
 
@@ -1462,15 +1488,15 @@ De [artikelen 9 tot en met 28](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&h
 
 3. Voor zover een verordening van het samenwerkingslichaam voorziet in hetzelfde onderwerp als een verordening van een deelnemend openbaar lichaam Bonaire, Sint Eustatius of Saba, regelt eerstbedoelde verordening de onderlinge verhouding. Zij kan bepalen, dat de verordening van een van de openbare lichamen Bonaire, Sint Eustatius of Saba voor het gehele gebied dan wel voor een gedeelte daarvan geheel of gedeeltelijk ophoudt te gelden.
 
-#### Artikel 131
+##### Artikel 131
 
 Bij de regeling kunnen beperkingen worden aangebracht in de bevoegdheden die het samenwerkingslichaam van rechtswege bezit om aan het maatschappelijk verkeer deel te nemen.
 
-#### Artikel 132
+##### Artikel 132
 
 Een verordening van het samenwerkingslichaam tot heffing van een belasting regelt voor welke bestuurscolleges of ambtenaren de bevoegdheden, bedoeld in hoofdstuk IV van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba, zullen gelden.
 
-#### Artikel 133
+##### Artikel 133
 
 1. Ten aanzien van de bevoegdheden van het bestuur van het samenwerkingslichaam of die van het gemeenschappelijk orgaan zijn van overeenkomstige toepassing de regels, in de ruimste zin, welke bij of krachtens de wet zijn gesteld voor de verdeling van de bevoegdheden van de eilandsbesturen over de eilandelijke bestuursorganen, voor de uitoefening van die bevoegdheden, alsmede voor het toezicht daarop. Dit geldt niet voor zover daarvan bij of krachtens deze wet is afgeweken.
 
@@ -1478,7 +1504,7 @@ Een verordening van het samenwerkingslichaam tot heffing van een belasting regel
 
 3. Voor bij algemene maatregel van bestuur aan te geven categorieën van gevallen, waarin inachtneming van bepaalde regels, bedoeld in het eerste lid, onevenredig belastend zou zijn in verhouding tot het met die regels beoogde doel kunnen bij die maatregel daarvan afwijkende regels worden gesteld.
 
-#### Artikel 134
+##### Artikel 134
 
 1. Het algemeen bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient.
 
@@ -1486,7 +1512,7 @@ Een verordening van het samenwerkingslichaam tot heffing van een belasting regel
 
 3. Het dagelijks bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan zendt de jaarrekening binnen twee weken na de vaststelling, doch in ieder geval vóór 15 juli van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft aan het College financieel toezicht Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 135
+##### Artikel 135
 
 1. Het dagelijks bestuur van het samenwerkingslichaam of het gemeenschappelijk orgaan zendt de ontwerpbegroting zes weken voordat zij aan het algemeen bestuur wordt aangeboden, onderscheidenlijk zes weken voordat zij door het gemeenschappelijk orgaan wordt vastgesteld, toe aan de eilandsraden van de deelnemende openbare lichamen.
 
@@ -1500,23 +1526,23 @@ Een verordening van het samenwerkingslichaam tot heffing van een belasting regel
 
 6. Het eerste, derde, vierde en vijfde lid zijn van toepassing op besluiten tot wijziging van de begroting. In de gemeenschappelijke regeling kan worden bepaald ten aanzien van welke categorieën begrotingswijzigingen hiervan kan worden afgeweken.
 
-#### Artikel 135a
+##### Artikel 135a
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 135b
+##### Artikel 135b
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 135c
+##### Artikel 135c
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 135d
+##### Artikel 135d
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 136
+##### Artikel 136
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties houdt een openbaar elektronisch register in stand van krachtens deze wet getroffen regelingen.
 
@@ -1546,25 +1572,25 @@ Bevat wijzigingen in andere regelgeving.
 
 #### § 7. Financiën
 
-#### Artikel 137
+##### Artikel 137
 
 Waar in enig wettelijk voorschrift in algemene zin naar de Wet gemeenschappelijke regelingen wordt verwezen, wordt deze verwijzing geacht te zijn geschied naar deze wet.
 
-#### Artikel 138
+##### Artikel 138
 
 Vervallen
 
-#### Artikel 139
+##### Artikel 139
 
 1. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is belast met de uitvoering van deze wet.
 
 2. Voor zover bij die uitvoering belangen zijn betrokken, welke aan de zorg van een andere minister zijn toevertrouwd, geschiedt de uitvoering in overeenstemming met de desbetreffende minister.
 
-#### Artikel 140
+##### Artikel 140
 
 Deze wet kan worden aangehaald als "Wet gemeenschappelijke regelingen".
 
-#### Artikel 141
+##### Artikel 141
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
@@ -1586,7 +1612,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. Indien het openbaar lichaam de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a) ontvangt van het Rijk of middelen ontvangt van de deelnemende gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen, 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en [17b van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing, met dien verstande dat:
 
@@ -1610,7 +1636,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
-#### Artikel 47a
+##### Artikel 47a
 
 1. Indien het openbaar lichaam de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en [17b van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, met dien verstande dat:
 
@@ -1638,7 +1664,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 3. Bevoegdheden van openbare lichamen en gemeenschappelijke organen
 
-#### Artikel 58a
+##### Artikel 58a
 
 1. Indien het openbaar lichaam de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan een specifieke uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a) ontvangt van het Rijk of middelen ontvangt van de deelnemende provincies en gemeenten, die afkomstig zijn uit een specifieke uitkering, zijn de [artikelen 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) en [17b van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17b) op de informatie ten behoeve van de verantwoording over deze middelen, van overeenkomstige toepassing op het openbaar lichaam de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, met dien verstande dat:
 
@@ -1710,13 +1736,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 2. Inrichting en samenstelling van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Het bestuur van een bedrijfsvoeringsorganisatie bestaat uit leden die per deelnemende gemeente door het college uit zijn midden worden aangewezen. [Artikel 13, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=13&z=2025-02-12&g=2025-02-12), is van overeenkomstige toepassing. Indien de regeling uitsluitend strekt tot behartiging van opleiding en vorming van ambtenaren, kan in de regeling worden bepaald, dat ook de gemeentesecretaris als lid van het bestuur kan worden aangewezen.
 
 2. Onverminderd [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=2&artikel=13&z=2025-02-12&g=2025-02-12), eindigt het lidmaatschap van het bestuur zodra het betreffende lid ophoudt secretaris van de desbetreffende deelnemende gemeente te zijn.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Het dagelijks bestuur en elk van zijn leden afzonderlijk zijn aan het algemeen bestuur verantwoording schuldig over het door het dagelijks bestuur gevoerde bestuur.
 
@@ -1724,7 +1750,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Het algemeen bestuur kan besluiten een lid van het dagelijks bestuur ontslag te verlenen, indien dit lid het vertrouwen van het algemeen bestuur niet meer bezit. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8) niet van toepassing. De rechter treedt niet in de beoordeling van de gronden waarop het algemeen bestuur tot ontslag van een lid van het dagelijks bestuur heeft besloten.
 
-#### Artikel 19b
+##### Artikel 19b
 
 1. Over al hetgeen het openbaar lichaam, de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan betreft dient het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en het provinciebestuur desgevraagd van bericht en raad.
 
@@ -1740,17 +1766,17 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 31a
+##### Artikel 31a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
 2. Het besluit wordt niet genomen dan nadat de raden van de deelnemende gemeenten een ontwerpbesluit is toegezonden en in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie te brengen.
 
-#### Artikel 32a
+##### Artikel 32a
 
 Wanneer aan een commissie als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=2&paragraaf=3&artikel=25&z=2025-02-12&g=2025-02-12) bevoegdheden van het algemeen bestuur of het dagelijks bestuur zijn overgedragen en deze commissie een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorziet het algemeen bestuur onderscheidenlijk het dagelijks bestuur daarin.
 
-#### Artikel 32b
+##### Artikel 32b
 
 1. Wanneer de besturen van de deelnemende gemeenten aan het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan bevoegdheden op grond van een andere wet dan de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) hebben overgedragen, en het orgaan waaraan de bevoegdheid is overgedragen een bij of krachtens die wet gevorderde beslissing niet of niet naar behoren neemt dan wel bij of krachtens die wet gevorderde handeling niet of niet naar behoren verricht, of anderszins een bij of krachtens die wet gevorderd resultaat niet, niet tijdig of niet naar behoren tot stand brengt, besluiten gedeputeerde staten daarin namens het orgaan waaraan de bevoegdheid is overgedragen te voorzien ten laste van het openbaar lichaam, de bedrijfsvoeringsorganisatie of de deelnemende gemeenten, indien het een gemeenschappelijk orgaan betreft.
 
@@ -1760,33 +1786,33 @@ Wanneer aan een commissie als bedoeld in [artikel 25](https://wetten.overheid.nl
 
 4. Van een besluit tot indeplaatsstelling, alsmede van het voornemen tot het nemen van een dergelijk besluit, wordt mededeling gedaan in het publicatieblad, bedoeld in [artikel 2, vijfde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=2). Een afschrift van het besluit en van het voornemen wordt gezonden aan het orgaan waaraan de bevoegdheid is overgedragen en aan de raden van de deelnemende gemeenten.
 
-#### Artikel 32c
+##### Artikel 32c
 
 1. In overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kan Onze Minister die het aangaat, indien hij van oordeel is dat toepassing van [artikel 32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12), uit oogpunt van een zwaarwegend algemeen belang gewenst is, gedeputeerde staten verzoeken toepassing te geven aan artikel 32b, eerste lid. Een afschrift van het verzoek wordt gezonden aan het orgaan waaraan de bevoegdheid is overgedragen, de raden van de deelnemende gemeenten en provinciale staten. Indien gedeputeerde staten niet binnen een door Onze Minister die het aangaat gestelde termijn toepassing hebben gegeven aan artikel 32b, eerste lid, gaat de bevoegdheid van artikel 32b, eerste lid, over op Onze Minister die het aangaat.
 
 2. De [artikelen 32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12), [32e](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32e&z=2025-02-12&g=2025-02-12), [32f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32f&z=2025-02-12&g=2025-02-12) en [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32h&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing bij toepassing van artikel 32b, eerste lid, door Onze Minister die het aangaat.
 
-#### Artikel 32d
+##### Artikel 32d
 
 1. Ter zake van de in de [bijlage bij de Gemeentewet](onbekend) opgenomen wetten worden de bevoegdheden die in de [artikelen 32b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12), [32e](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32e&z=2025-02-12&g=2025-02-12), [32f](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32f&z=2025-02-12&g=2025-02-12) en [32h](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32h&z=2025-02-12&g=2025-02-12) aan gedeputeerde staten zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister die het aangaat.
 
 2. Voorafgaand aan het nemen van een besluit tot indeplaatsstelling, informeert Onze Minister die het aangaat gedeputeerde staten.
 
-#### Artikel 32e
+##### Artikel 32e
 
 1. Bij de uitvoering van het besluit tot indeplaatsstelling beschikken gedeputeerde staten over de bevoegdheden waarover het orgaan waaraan de bevoegdheid is overgedragen bij of krachtens die wet of bij gemeenschappelijke regeling beschikt.
 
 2. Voor zover het orgaan waaraan de bevoegdheid is overgedragen, had hij de bevoegdheden, bedoeld in het eerste lid, zelf uitgeoefend, de kosten van de uitvoering in rekening kan brengen bij derden, heeft hij bij die derden verhaal voor de door gedeputeerde staten ten laste van het openbaar lichaam, de bedrijfsvoeringsorganisatie dan wel, indien het een gemeenschappelijk orgaan betreft, de deelnemende gemeenten gebrachte kosten. Het openbaar lichaam, de bedrijfsvoeringsorganisatie dan wel gemeenschappelijk orgaan kan het bedrag invorderen bij dwangbevel.
 
-#### Artikel 32f
+##### Artikel 32f
 
 Gedeputeerde staten kunnen een besluit tot indeplaatsstelling intrekken, indien het orgaan waaraan de bevoegdheid is overgedragen voldoende aannemelijk maakt dat hij zonder voorbehoud zal voorzien in hetgeen het besluit van hem vordert.
 
-#### Artikel 32g
+##### Artikel 32g
 
 Gedeputeerde staten onderscheidenlijk Onze Minister die het aangaat kunnen ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan bij of krachtens een andere wet dan de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing.
 
-#### Artikel 32h
+##### Artikel 32h
 
 1. Indien gedeputeerde staten bij de uitvoering van het besluit tot indeplaatsstelling namens het orgaan waaraan de bevoegdheid is overgedragen een besluit nemen, kan voor de toepassing van [artikel 7:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:1) bezwaar worden gemaakt bij gedeputeerde staten. Gedeputeerde staten beslissen op het bezwaar.
 
@@ -1794,31 +1820,31 @@ Gedeputeerde staten onderscheidenlijk Onze Minister die het aangaat kunnen ambte
 
 3. Het orgaan waaraan een bevoegdheid is overgedragen kan geen beroep instellen tegen een besluit als bedoeld in het eerste lid.
 
-#### Artikel 32i
+##### Artikel 32i
 
 1. Het orgaan waaraan een bevoegdheid is overgedragen werkt mee met de uitvoering van een besluit tot indeplaatsstelling. Gedeputeerde staten onderscheidenlijk Onze Minister die het aangaat kunnen ter zake van de uitvoering van het besluit aanwijzingen geven. Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie dan wel, indien het een gemeenschappelijk orgaan betreft, de besturen van de deelnemende gemeenten, stellen op eerste vordering van gedeputeerde staten de voor de uitvoering van het besluit benodigde ambtenaren ter beschikking en verschaffen op eerste vordering van gedeputeerde staten alle informatie die nodig is voor de uitvoering van het besluit tot indeplaatsstelling.
 
 2. Gedeputeerde staten onderscheidenlijk Onze Minister die het aangaat kunnen ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15). De [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) zijn van overeenkomstige toepassing. Het orgaan waaraan een bevoegdheid is overgedragen verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.
 
-#### Artikel 32j
+##### Artikel 32j
 
 Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval [artikel 32d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32d&z=2025-02-12&g=2025-02-12), van toepassing is, aan Onze Minister die het aangaat, betreffende de uitvoering door het orgaan waaraan een bevoegdheid is overgedragen van de andere wet dan de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416). Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.
 
 #### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
-#### Artikel 32ja
+##### Artikel 32ja
 
 Vervallen
 
-#### Artikel 32k
+##### Artikel 32k
 
 Vervallen
 
-#### Artikel 32l
+##### Artikel 32l
 
 Vervallen
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -1838,7 +1864,7 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 33b
+##### Artikel 33b
 
 1. Het dagelijks bestuur is in ieder geval bevoegd:
 
@@ -1854,13 +1880,13 @@ Vervallen
 
 2. Het dagelijks bestuur neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
 
-#### Artikel 33c
+##### Artikel 33c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 33d
+##### Artikel 33d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -1868,23 +1894,23 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 34b
+##### Artikel 34b
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de raden van de deelnemende gemeenten.
 
 ### Afdeling 4. Schorsing en vernietiging
 
-#### Artikel 39a
+##### Artikel 39a
 
 Indien een bekendgemaakt besluit niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan kennisgegeven in het publicatieblad.
 
-#### Artikel 39b
+##### Artikel 39b
 
 1. De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 2. [Artikel 17, derde lid, van de Wet op de Raad van State](https://wetten.overheid.nl/jci1.3:c:BWBR0002367&artikel=17) is niet van toepassing.
 
-#### Artikel 39c
+##### Artikel 39c
 
 1. In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van [artikel 39e](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=39e&z=2025-02-12&g=2025-02-12) genomen besluit in werking is getreden.
 
@@ -1896,17 +1922,17 @@ Indien een bekendgemaakt besluit niet is vernietigd binnen de tijd waarvoor het 
 
 5. Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.
 
-#### Artikel 39d
+##### Artikel 39d
 
 Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing of tot vernietiging wordt in de Staatscourant geplaatst.
 
-#### Artikel 39e
+##### Artikel 39e
 
 1. Het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan [artikel 39c, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=39c&z=2025-02-12&g=2025-02-12).
 
 2. In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De [artikelen 32b tot en met 32j](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12) zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassingen is gegeven aan het eerste lid.
 
-#### Artikel 39f
+##### Artikel 39f
 
 In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:4) kan een belanghebbende tegen een koninklijk besluit als bedoeld in [artikel 36, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=4&artikel=36&z=2025-02-12&g=2025-02-12), beroep instellen.
 
@@ -1920,7 +1946,7 @@ In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet best
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -1928,7 +1954,7 @@ In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet best
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 45a
+##### Artikel 45a
 
 1. De [artikelen 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32a&z=2025-02-12&g=2025-02-12), [32b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12) en [32e tot met 32i](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32e&z=2025-02-12&g=2025-02-12) zijn van toepassing, met dien verstande dat:
 
@@ -1944,27 +1970,27 @@ In afwijking van [artikel 8:4, eerste lid, onderdeel d, van de Algemene wet best
 
 2. Indien meer dan één van Onze Ministers overwegen ten aanzien van hetzelfde openbaar lichaam dan wel gemeenschappelijk orgaan in met elkaar samenhangende beslissingen, handelingen of resultaten toepassing te geven aan [artikel 32b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12), kunnen zij hun bevoegdheden op grond van dit artikel aan een van hen overdragen.
 
-#### Artikel 45b
+##### Artikel 45b
 
 Bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister die het aangaat, betreffende de uitvoering door het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie onderscheidenlijk het gemeenschappelijk orgaan van de andere wet dan de Provinciewet. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.
 
 #### § 3. Bekendmaking en inwerkingtreding van besluiten die algemeen verbindende voorschriften inhouden
 
-#### Artikel 45ba
+##### Artikel 45ba
 
 Vervallen
 
-#### Artikel 45c
+##### Artikel 45c
 
 Vervallen
 
-#### Artikel 45d
+##### Artikel 45d
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 46a
+##### Artikel 46a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -1984,7 +2010,7 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 46b
+##### Artikel 46b
 
 1. Het dagelijks bestuur is in ieder geval bevoegd:
 
@@ -2000,13 +2026,13 @@ Vervallen
 
 2. Het dagelijks bestuur neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
 
-#### Artikel 46c
+##### Artikel 46c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 46d
+##### Artikel 46d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -2014,7 +2040,7 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 47b
+##### Artikel 47b
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan provinciale staten van de deelnemende provincies.
 
@@ -2028,7 +2054,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 ### Afdeling 2. Algemene bepalingen
 
-#### Artikel 50ca
+##### Artikel 50ca
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -2036,7 +2062,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 50da
+##### Artikel 50da
 
 1. Wanneer het algemeen bestuur van het openbaar lichaam de door een wet, een algemene maatregel van bestuur of een provinciale verordening gevorderde beslissingen niet of niet naar behoren neemt, voorziet het dagelijks bestuur daarin.
 
@@ -2046,21 +2072,21 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 50daa
+##### Artikel 50daa
 
 Vervallen
 
-#### Artikel 50db
+##### Artikel 50db
 
 Vervallen
 
-#### Artikel 50dc
+##### Artikel 50dc
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 50ea
+##### Artikel 50ea
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2080,7 +2106,7 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 50eb
+##### Artikel 50eb
 
 1. Het dagelijks bestuur is in ieder geval bevoegd:
 
@@ -2090,19 +2116,19 @@ Vervallen
 
 2. Het dagelijks bestuur neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
 
-#### Artikel 50ec
+##### Artikel 50ec
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 50ed
+##### Artikel 50ed
 
 De voorzitter vertegenwoordigt het waterschap in en buiten rechte. Indien de voorzitter aan een ander machtiging verleent tot vertegenwoordiging, behoeft deze machtiging de instemming van het dagelijks bestuur.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 50fa
+##### Artikel 50fa
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de algemene besturen van de deelnemende waterschappen.
 
@@ -2118,7 +2144,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 55a
+##### Artikel 55a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -2126,27 +2152,27 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 56a
+##### Artikel 56a
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, zijn daarop de [artikelen 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45a&z=2025-02-12&g=2025-02-12) en [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45b&z=2025-02-12&g=2025-02-12) van toepassing.
 
 2. Voor zover de bevoegdheden van het bestuur van het openbaar lichaam of van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan uitsluitend door de besturen van de deelnemende gemeenten zijn overgedragen, zijn daarop de [artikelen 32a tot en met 32j](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12) van toepassing.
 
-#### Artikel 56aa
+##### Artikel 56aa
 
 Vervallen
 
-#### Artikel 56b
+##### Artikel 56b
 
 Vervallen
 
-#### Artikel 56c
+##### Artikel 56c
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 57a
+##### Artikel 57a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2166,7 +2192,7 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 57b
+##### Artikel 57b
 
 1. Het dagelijks bestuur is in ieder geval bevoegd:
 
@@ -2182,11 +2208,11 @@ Vervallen
 
 2. Het dagelijks bestuur neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.
 
-#### Artikel 57c
+##### Artikel 57c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
-#### Artikel 57d
+##### Artikel 57d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -2194,7 +2220,7 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 58b
+##### Artikel 58b
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de raden van de deelnemende gemeenten en aan provinciale staten van de deelnemende provincies.
 
@@ -2206,7 +2232,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 ### Afdeling 1. Bevoegdheid tot het treffen van een regeling
 
-#### Artikel 62a
+##### Artikel 62a
 
 Vervallen
 
@@ -2214,7 +2240,7 @@ Vervallen
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 64a
+##### Artikel 64a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -2222,7 +2248,7 @@ Vervallen
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 65a
+##### Artikel 65a
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende gemeenten zijn overgedragen, zijn daarop de [artikelen 32a tot en met 32j](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=2&artikel=32b&z=2025-02-12&g=2025-02-12) van toepassing.
 
@@ -2230,21 +2256,21 @@ Vervallen
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 65aa
+##### Artikel 65aa
 
 Vervallen
 
-#### Artikel 65b
+##### Artikel 65b
 
 Vervallen
 
-#### Artikel 65c
+##### Artikel 65c
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 66a
+##### Artikel 66a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2264,19 +2290,19 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 66b
+##### Artikel 66b
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam mede door de besturen van de deelnemende gemeenten zijn overgedragen, is [artikel 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=5&artikel=33b&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
 2. Voor zover de bevoegdheden van het bestuur van het openbaar lichaam uitsluitend door de besturen van de deelnemende waterschappen zijn overgedragen, is [artikel 50eb](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&afdeling=3&paragraaf=5&artikel=50eb&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
-#### Artikel 66c
+##### Artikel 66c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 66d
+##### Artikel 66d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -2284,7 +2310,7 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 67a
+##### Artikel 67a
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de raden van de deelnemende gemeenten en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -2300,7 +2326,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 77a
+##### Artikel 77a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -2308,7 +2334,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 78a
+##### Artikel 78a
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, zijn daarop de [artikelen 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45a&z=2025-02-12&g=2025-02-12) en [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45b&z=2025-02-12&g=2025-02-12) van toepassing.
 
@@ -2318,21 +2344,21 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 78aa
+##### Artikel 78aa
 
 Vervallen
 
-#### Artikel 78b
+##### Artikel 78b
 
 Vervallen
 
-#### Artikel 78c
+##### Artikel 78c
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 79a
+##### Artikel 79a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2352,19 +2378,19 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 79b
+##### Artikel 79b
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam mede door de besturen van de deelnemende provincies of uitsluitend door de besturen van de deelnemende gemeenten zijn overgedragen, is [artikel 33b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I&afdeling=3&paragraaf=5&artikel=33b&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
 2. Voor zover de bevoegdheden van het bestuur van het openbaar lichaam uitsluitend door de besturen van de deelnemende waterschappen zijn overgedragen, is [artikel 50eb](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&afdeling=3&paragraaf=5&artikel=50eb&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
-#### Artikel 79c
+##### Artikel 79c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 79d
+##### Artikel 79d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -2372,7 +2398,7 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 80a
+##### Artikel 80a
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de raden van de deelnemende gemeenten, aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -2388,7 +2414,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 1. De bevoegdheid van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 87a
+##### Artikel 87a
 
 1. Het algemeen bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie besluit slechts tot de oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien de regeling in deze mogelijkheid voorziet en dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen openbaar belang.
 
@@ -2396,7 +2422,7 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 88a
+##### Artikel 88a
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan mede door de besturen van de deelnemende provincies zijn overgedragen, zijn daarop de [artikelen 45a](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45a&z=2025-02-12&g=2025-02-12) en [45b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=2&artikel=45b&z=2025-02-12&g=2025-02-12) van toepassing.
 
@@ -2404,21 +2430,21 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 #### § 2. Bijzondere voorzieningen
 
-#### Artikel 88aa
+##### Artikel 88aa
 
 Vervallen
 
-#### Artikel 88b
+##### Artikel 88b
 
 Vervallen
 
-#### Artikel 88c
+##### Artikel 88c
 
 Vervallen
 
 #### § 4. De bevoegdheid van het algemeen bestuur
 
-#### Artikel 89a
+##### Artikel 89a
 
 1. Het algemeen bestuur kan aan het dagelijks bestuur bevoegdheden van het algemeen bestuur overdragen, tenzij de aard van de bevoegdheid zich daartegen verzet.
 
@@ -2438,19 +2464,19 @@ Vervallen
 
 #### § 5. De bevoegdheid van het dagelijks bestuur
 
-#### Artikel 89b
+##### Artikel 89b
 
 1. Indien de bevoegdheden van het bestuur van het openbaar lichaam mede door de besturen van de deelnemende provincies zijn overgedragen, is [artikel 46b](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=II&afdeling=3&paragraaf=5&artikel=46b&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
 2. Voor zover de bevoegdheden van het bestuur van het openbaar lichaam uitsluitend door de besturen van de deelnemende waterschappen zijn overgedragen, is [artikel 50eb](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=III&afdeling=3&paragraaf=5&artikel=50eb&z=2025-02-12&g=2025-02-12) van toepassing op het dagelijks bestuur.
 
-#### Artikel 89c
+##### Artikel 89c
 
 Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen tot uitoefening van een of meer van zijn bevoegdheden, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 89d
+##### Artikel 89d
 
 1. De voorzitter vertegenwoordigt het openbaar lichaam in en buiten rechte.
 
@@ -2458,7 +2484,7 @@ Het dagelijks bestuur kan een of meer leden van het dagelijks bestuur machtigen 
 
 #### § 6. De bevoegdheid van de voorzitter
 
-#### Artikel 90a
+##### Artikel 90a
 
 Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan zendt vóór 30 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan provinciale staten van de deelnemende provincies en aan de algemene besturen van de deelnemende waterschappen.
 
@@ -2498,13 +2524,13 @@ Het dagelijks bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeri
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Een regeling houdt bepalingen in omtrent de evaluatie van de regeling.
 
 #### § 2. Inrichting en samenstelling van het bestuur van het openbaar lichaam en de bedrijfsvoeringsorganisatie en van het gemeenschappelijk orgaan
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Op voorstel van de raden van de deelnemende gemeenten gezamenlijk stelt het algemeen bestuur van een openbaar lichaam een gemeenschappelijke adviescommissie in die het algemeen bestuur van advies kan voorzien, de besluitvorming van de raden van de deelnemende gemeenten met betrekking tot de regeling kan voorbereiden of de raden van advies kan voorzien.
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Speciale Fonds van de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake bijstand van het Speciale Fonds ten behoeve van de Nederlandse Antillen"
 identifier: "BWBV0004314"
-categorie: "Sociaal recht"
-publicatiedatum: 1964-02-27
-laatste_update: 1964-02-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004314"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-02-27"
+last_updated: "1964-02-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004314"
+soort: "verdrag"
+stam_id: "10004051583"
+version_id: "10004219882"
+internal_id: "C10008341571"
+label_id: "10004036214"
+dtd_version: "2.0"
+original_entry_into_force: "1964-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004314/1964-02-27/0"
+intitule_bron: "Trb.1963-159"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1963-10-18"
+intitule_in_force: "1964-04-10"
+intitule_status: "goed"
+original_publication: "Trb.1963-159"
+original_published_date: "1963-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1963-159"
+entry_into_force_date: "1964-02-27"
+jci_1_3: "jci1.3:c:BWBV0004314&z=1964-02-27&g=1964-02-27"
+jci_1_0: "1.0:c:BWBV0004314&g=1964-02-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1964-02-27"
 ---
-
 # Overeenkomst tussen het Speciale Fonds van de Verenigde Naties en de Regering van het Koninkrijk der Nederlanden inzake bijstand van het Speciale Fonds ten behoeve van de Nederlandse Antillen
 
 Aangezien de Regering van het Koninkrijk der Nederlanden ten behoeve van het Rijksdeel de Nederlandse Antillen het Speciale Fonds van de Verenigde Naties om bijstand heeft verzocht overeenkomstig resolutie 1240 (XIII) van de Algemene Vergadering van de Verenigde Naties;
@@ -16,7 +38,7 @@ Aangezien het Speciale Fonds zich bereid heeft verklaard aan de Regering van de 
 
 Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fonds deze Overeenkomst in een geest van vriendschappelijke samenwerking aangegaan.
 
-#### Artikel I. Door het Speciale Fonds te verlenen bijstand
+##### Artikel I. Door het Speciale Fonds te verlenen bijstand
 
 1. Deze Overeenkomst bevat de voorwaarden waarop het Speciale Fonds de Regering van de Nederlandse Antillen bijstand zal verlenen en legt tevens de basisvoorwaarden voor de uitvoering van de projecten vast.
 
@@ -28,7 +50,7 @@ Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fon
 
 5. Het is wel verstaan dat de Regering van het Koninkrijk der Nederlanden internationale verantwoordelijkheid draagt voor de verplichtingen die aan de Regering van de Nederlandse Antillen bij deze Overeenkomst, en bij krachtens deze Overeenkomst aangegane regelingen, zijn opgelegd, en wel in die mate als waren deze verplichtingen aangegaan door de Regering van het Koninkrijk der Nederlanden.
 
-#### Artikel II. Uitvoering der projecten
+##### Artikel II. Uitvoering der projecten
 
 1. Partijen komen hierbij overeen dat ieder project door een uitvoerende instantie ten behoeve van het Speciale Fonds zal worden uitgevoerd of beheerd. De in artikel I bedoelde gelden zullen aan deze instantie worden uitbetaald krachtens een overeenkomst tussen het Speciale Fonds en deze instantie.
 
@@ -38,7 +60,7 @@ Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fon
 
 4. Alle aan het Speciale Fonds of een uitvoerende instantie toebehorende uitrustingen, materialen, voorraden of andere eigendommen die hetzij door het Speciale Fonds, hetzij door die uitvoerende instantie, hetzij door beiden, bij de uitvoering van een project worden aangewend of beschikbaar gesteld, blijven eigendom daarvan tenzij, en tot op het ogenblik dat het eigendomsrecht wordt overgedragen aan de Regering van de Nederlandse Antillen op tussen de Regering van de Nederlandse Antillen en het Speciale Fonds of de desbetreffende uitvoerende instantie onderling overeengekomen voorwaarden.
 
-#### Artikel III. Inlichtingen betreffende de projecten
+##### Artikel III. Inlichtingen betreffende de projecten
 
 1. De Regering van de Nederlandse Antillen verschaft het Speciale Fonds alle terzake dienende documenten, rekeningen, bescheiden, akten en andere inlichtingen waarom het Fonds eventueel verzoekt ter zake van de uitvoering van een project of van de vraag of de uitvoering ervan nog steeds doenlijk en verantwoord is, of van de nakoming door de Regering van de Nederlandse Antillen van al haar verplichtingen krachtens deze Overeenkomst.
 
@@ -50,7 +72,7 @@ Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fon
 
 5. De Regering van de Nederlandse Antillen en het Speciale Fonds plegen met elkaar overleg over de bekendmaking, in voorkomende gevallen, van gegevens die betrekking hebben op een project of op de daaraan ontleende voordelen.
 
-#### Artikel IV. Deelneming in, en bijdrage aan, de uitvoering van projecten door de Regering van de Nederlandse Antillen
+##### Artikel IV. Deelneming in, en bijdrage aan, de uitvoering van projecten door de Regering van de Nederlandse Antillen
 
 1. De Regering van de Nederlandse Antillen neemt deel in, en werkt mede aan, de projecten waarop deze Overeenkomst betrekking heeft. Zij dient in het bijzonder alle van haar in het uitvoeringsplan verlangde handelingen te verrichten, daarbij inbegrepen het beschikbaar stellen van materialen, uitrusting, voorraden, arbeidskrachten en deskundige hulp die in het land aanwezig zijn.
 
@@ -62,7 +84,7 @@ Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fon
 
 5. De Regering van de Nederlandse Antillen dient, in voorkomende gevallen, duidelijke borden bij ieder project te plaatsen, waaruit blijkt dat zulk een project wordt uitgevoerd met steun van het Speciale Fonds en de uitvoerende instantie.
 
-#### Artikel V. Plaatselijke faciliteiten door de Regering van de Nederlandse Antillen aan het Speciale Fonds en de uitvoerende instantie te verlenen
+##### Artikel V. Plaatselijke faciliteiten door de Regering van de Nederlandse Antillen aan het Speciale Fonds en de uitvoerende instantie te verlenen
 
 1. Behalve door de in artikel IV, lid 1, bedoelde betaling verleent de Regering van de Nederlandse Antillen steun aan het Speciale Fonds en de uitvoerende instantie bij de uitvoering van ieder project door de volgende plaatselijke faciliteiten die nodig zijn om het in het uitvoeringsplan omschreven werkprogramma ten uitvoer te leggen, te betalen of te doen betalen:
 
@@ -88,15 +110,15 @@ Zijn derhalve de Regering van het Koninkrijk der Nederlanden en het Speciale Fon
 
 5. De Regering van de Nederlandse Antillen verbindt zich, voor zover in haar vermogen ligt, steun te verlenen bij het vinden van geschikte woonruimte voor het in de Nederlandse Antillen krachtens deze Overeenkomst gedetacheerde internationale personeel.
 
-#### Artikel VI. De verhouding tot uit andere bronnen verkregen bijstand
+##### Artikel VI. De verhouding tot uit andere bronnen verkregen bijstand
 
 Indien hetzij de Regering van de Nederlandse Antillen, hetzij het Speciale Fonds voor de uitvoering van een project uit andere bronnen bijstand verkrijgt, raadplegen Partijen en de uitvoerende instantie elkaar met het oog op de doeltreffende coördinatie en het doeltreffende gebruik van alle door de Regering van de Nederlandse Antillen ontvangen bijstand, ongeacht uit welke bron. De verplichtingen die de Regering van de Nederlandse Antillen krachtens deze Overeenkomst heeft, worden niet gewijzigd door regelingen met andere lichamen die met de Regering van de Nederlandse Antillen samenwerken bij de uitvoering van een project.
 
-#### Artikel VII. Gebruik van de bijstand
+##### Artikel VII. Gebruik van de bijstand
 
 De Regering van de Nederlandse Antillen streeft er zoveel mogelijk naar de door het Speciale Fonds en de uitvoerende instantie verschafte bijstand zo doeltreffend mogelijk te gebruiken, en gebruikt deze bijstand voor het doel waarvoor hij bestemd is. De Regering van de Nederlandse Antillen neemt te dien einde de in het uitvoeringsplan omschreven maatregelen.
 
-#### Artikel VIII. Faciliteiten, voorrechten en immuniteiten
+##### Artikel VIII. Faciliteiten, voorrechten en immuniteiten
 
 1. De Regering van het Koninkrijk en de Regering van de Nederlandse Antillen passen op de Verenigde Naties en hun organen, daarbij inbegrepen het Speciale Fonds, zijn eigendommen, fondsen en activa, alsmede op zijn ambtenaren, de bepalingen toe van het Verdrag nopens de Voorrechten en Immuniteiten van de Verenigde Naties.
 
@@ -128,11 +150,11 @@ De Regering van de Nederlandse Antillen streeft er zoveel mogelijk naar de door 
 
 6. De Regering van de Nederlandse Antillen is aansprakelijk voor alle eisen die door derden worden ingesteld tegen het Speciale Fonds Of een uitvoerende instantie, tegen het personeel van deze instanties, of tegen andere personen die krachtens deze Overeenkomst diensten Voor deze instanties verrichten en vrijwaart het Speciale Fonds, de desbetreffende uitvoerende instantie en de bovenbedoelde personen in geval van enigerlei uit de krachtens deze Overeenkomst ondernomen werkzaamheden voortvloeiende eisen of aansprakelijkheden, tenzij Partijen bij deze Overeenkomst en de uitvoerende instantie het erover eens zijn dat deze eisen en aansprakelijkheden het gevolg zijn van grove nalatigheid of schuld van deze personen.
 
-#### Artikel IX. Regeling van geschillen
+##### Artikel IX. Regeling van geschillen
 
 Ieder geschil tussen het Speciale Fonds en de Regering van het Koninkrijk der Nederlanden dat uit deze Overeenkomst voortvloeit of erop betrekking heeft en dat niet kan worden geregeld door middel van onderhandelingen of op een andere overeengekomen wijze, wordt op verzoek van een van beide Partijen aan arbitrage onderworpen. Iedere Partij benoemt een scheidsrechter en de twee aldus benoemde scheidsrechters benoemen een derde, die de voorzitter is, Indien binnen dertig dagen na het verzoek om arbitrage een van beide Partijen nog geen scheidsrechter heeft benoemd of binnen vijftien dagen na de benoeming van de twee scheidsrechters de derde scheidsrechter nog niet is benoemd, kan zowel de ene als de andere Partij de President van het Internationale Gerechtshof verzoeken een scheidsrechter te benoemen. De arbitrageprocedure wordt door de scheidsrechters vastgesteld en de kosten van de arbitrage worden gedragen door Partijen zoals vastgesteld door de scheidsrechters. De scheidsrechterlijke uitspraak wordt met redenen omkleed en wordt door Partijen aanvaard als zijnde de definitieve uitspraak in het geschil.
 
-#### Artikel X. Algemene bepalingen
+##### Artikel X. Algemene bepalingen
 
 1. Nadat de in het Koninkrijk der Nederlanden grondwettelijk vereiste toestemming is verkregen, treedt deze Overeenkomst in werking op de datum waarop de Directeur van het Speciale Fonds een desbetreffende kennisgeving ontvangt van de Regering van het Koninkrijk; zij blijft van kracht totdat zij overeenkomstig lid 3 van dit artikel wordt beëindigd. Deze Overeenkomst wordt evenwel reeds voorlopig toegepast met ingang van de datum van ondertekening.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag van Stockholm inzake persistente organische verontreinigende stoffen"
 identifier: "BWBV0001517"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-02-26
-laatste_update: 2025-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001517"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-02-26"
+last_updated: "2025-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001517"
+soort: "verdrag"
+stam_id: "10000116743"
+version_id: "10000146352"
+internal_id: "C10006991301"
+label_id: "10000117294"
+dtd_version: "2.0"
+original_entry_into_force: "2004-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001517/2025-02-26/0"
+intitule_bron: "Trb.2001-132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-28"
+intitule_published: "2001-08-03"
+intitule_in_force: "2004-06-21"
+intitule_status: "goed"
+original_publication: "Trb.2001-132"
+original_signed_date: "2002-01-28"
+original_published_date: "2001-08-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-132"
+entry_into_force_date: "2004-05-17"
+jci_1_3: "jci1.3:c:BWBV0001517&z=2025-02-26&g=2025-02-26"
+jci_1_0: "1.0:c:BWBV0001517&g=2025-02-26"
+citeertitel_status: "officieel"
+signed_date: "2002-01-28"
+entry_into_force: "2004-05-17"
 ---
-
 # Verdrag van Stockholm inzake persistente organische verontreinigende stoffen
 
 De Partijen bij dit Verdrag,
@@ -54,11 +79,11 @@ Vastberaden de gezondheid van de mens en het milieu te beschermen tegen de schad
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Indachtig de voorzorgsbenadering zoals bedoeld in Beginsel 15 van de Verklaring van Rio inzake Milieu en Ontwikkeling, is het doel van dit Verdrag de gezondheid van de mens en het milieu te beschermen tegen persistente organische verontreinigende stoffen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -68,7 +93,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - c. „Aanwezige Partijen die hun stem uitbrengen”: Partijen die aanwezig zijn en voor- of tegenstemmen.
 
-#### Artikel 3. Maatregelen ter beperking of beëindiging van vrijkoming bij opzettelijke productie en gebruik
+##### Artikel 3. Maatregelen ter beperking of beëindiging van vrijkoming bij opzettelijke productie en gebruik
 
 1. Elke Partij:
 
@@ -114,7 +139,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 6. Elke Partij waarvoor een specifieke uitzondering in overeenstemming met [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of een specifieke uitzondering of een acceptabel doel in overeenstemming met [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) geldt, treft passende maatregelen om te waarborgen dat productie of gebruik onder die uitzondering of met dat doel zodanig wordt uitgevoerd dat blootstelling van de mens of vrijkoming in het milieu wordt voorkomen of zoveel mogelijk wordt tegengegaan. In geval van uitgezonderde gebruiken of voor acceptabele doeleinden waarbij opzettelijke vrijkomingen in het milieu plaatsvinden onder normale gebruiksomstandigheden, worden deze vrijkomingen tot het noodzakelijke minimum beperkt, met inachtneming van de toepasselijke normen en richtsnoeren.
 
-#### Artikel 4. Register van specifieke uitzonderingen
+##### Artikel 4. Register van specifieke uitzonderingen
 
 1. Hierbij wordt een register ingesteld ten behoeve van de identificatie van de Partijen waarvoor specifieke uitzonderingen gelden als bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26). Hierin worden niet de Partijen vermeld die gebruik maken van de bepalingen van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) waarop door alle Partijen een beroep kan worden gedaan. Het register wordt door het Secretariaat bijgehouden en is toegankelijk voor het publiek.
 
@@ -140,7 +165,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 9. Wanneer geen Partijen meer ingeschreven zijn voor een bepaalde soort specifieke uitzondering, kunnen ten aanzien van deze uitzondering geen nieuwe inschrijvingen plaatsvinden.
 
-#### Artikel 5. Maatregelen ter beperking of beëindiging van vrijkomingen afkomstig van onopzettelijke productie
+##### Artikel 5. Maatregelen ter beperking of beëindiging van vrijkomingen afkomstig van onopzettelijke productie
 
 Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale vrijkomingen afkomstig uit antropogene bronnen van elk van de in [Bijlage C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, met het doel deze vrijkomingen permament te reduceren en, waar mogelijk, deze uiteindelijk te beëindigen:
 
@@ -190,7 +215,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 - g. voor de vervulling van haar verplichtingen ingevolge dit lid kan een Partij emissiegrenswaarden of uitvoeringsnormen hanteren.
 
-#### Artikel 6. Maatregelen ter beperking of beëindiging van vrijkomingen uit voorraden en afval
+##### Artikel 6. Maatregelen ter beperking of beëindiging van vrijkomingen uit voorraden en afval
 
 1. Teneinde te waarborgen dat voorraden bestaande uit in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26) of [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen, of die deze bevatten, en afval, met inbegrip van producten en artikelen wanneer deze afval worden, die bestaan uit in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen of deze bevatten of hiermee zijn verontreinigd, worden beheerd op een wijze die rekening houdt met de bescherming van de gezondheid van de mens en van het milieu, zal elke Partij:
 
@@ -224,7 +249,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 - c. zich inspannen om, waar nodig, de concentraties van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) vermelde chemische stoffen vast te stellen teneinde het lage gehalte aan persistente organische verontreinigende stoffen als bedoeld in het eerste lid, onderdeel d, onder ii, te definiëren.
 
-#### Artikel 7. Uitvoeringsplannen
+##### Artikel 7. Uitvoeringsplannen
 
 1. Elke Partij:
 
@@ -238,7 +263,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 3. De Partijen streven ernaar middelen aan te wenden of, waar nodig, in het leven te roepen om nationale uitvoeringsplannen voor persistente organische verontreinigende stoffen, waar dienstig, te integreren in hun strategieën voor duurzame ontwikkeling.
 
-#### Artikel 8. Opname van chemische stoffen in [Bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26)
+##### Artikel 8. Opname van chemische stoffen in [Bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26)
 
 1. Een Partij kan een voorstel toezenden aan het Secretariaat voor opname van een chemische stof in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en/of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26). Het voorstel bevat de in [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=D&z=2025-02-26&g=2025-02-26) vermelde informatie. Bij de uitwerking van een voorstel kan een Partij worden bijgestaan door andere Partijen en/of door het Secretariaat.
 
@@ -266,7 +291,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 9. De Commissie doet aan de hand van het in het zesde lid bedoelde risicoprofiel en de in het zevende lid, onderdeel a, en de in het achtste lid bedoelde risicobeheerevaluatie een aanbeveling omtrent de vraag of de chemische stof door de Conferentie van de Partijen in aanmerking moet worden genomen voor opneming in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) en/of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26). De Conferentie van de Partijen besluit, met gedegen inachtneming van de aanbevelingen van de Commissie, met inbegrip van eventuele wetenschappelijke onzekerheden, indachtig het voorzorgsbeginsel, of al dan niet wordt overgegaan tot opneming van de chemische stof – met vermelding van de daarbij behorende controlemaatregelen – in Bijlage A, B en/of C.
 
-#### Artikel 9. Uitwisseling van informatie
+##### Artikel 9. Uitwisseling van informatie
 
 1. Elke Partij bevordert of draagt zorg voor de uitwisseling van informatie met betrekking tot:
 
@@ -282,7 +307,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 5. Voor de toepassing van dit Verdrag wordt informatie inzake de gezondheid en veiligheid van de mens en inzake milieu niet als vertrouwelijk aangemerkt. Partijen die andere informatie uitwisselen ingevolge dit Verdrag, beschermen de vertrouwelijke informatie op een door hen onderling overeengekomen wijze.
 
-#### Artikel 10. Voorlichting, bewustmaking en educatie van het publiek
+##### Artikel 10. Voorlichting, bewustmaking en educatie van het publiek
 
 1. Elke Partij bevordert en vergemakkelijkt waar dat tot haar mogelijkheden behoort:
 
@@ -308,7 +333,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 5. Elke Partij neemt de ontwikkeling van mechanismen, zoals registers inzake de vrijkoming en overbrenging van verontreinigende stoffen, voor de vergaring en verspreiding van informatie inzake ramingen van de jaarlijkse hoeveelheden geloosde of verwijderde chemische stoffen vermeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) in welwillende overweging.
 
-#### Artikel 11. Onderzoek, ontwikkeling en monitoring
+##### Artikel 11. Onderzoek, ontwikkeling en monitoring
 
 1. De Partijen moedigen passende activiteiten aan en/of ondernemen deze, waar dat tot hun mogelijkheden behoort, op nationaal en internationaal niveau, voor onderzoek, ontwikkeling, monitoring en samenwerking op het gebied van persistente organische verontreinigende stoffen en, in voorkomend geval, van de alternatieven hiervoor en van potentiële persistente organische verontreinigende stoffen, met inbegrip van:
 
@@ -340,7 +365,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 - f. samenwerking aanmoedigen en/of aangaan met betrekking tot de opslag en actualisering van informatie afkomstig van onderzoek, ontwikkeling en monitoring.
 
-#### Artikel 12. Technische bijstand
+##### Artikel 12. Technische bijstand
 
 1. De Partijen erkennen dat het verlenen van tijdige en adequate technische bijstand naar aanleiding van verzoeken van Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie essentieel is voor een succesvolle uitvoering van dit Verdrag.
 
@@ -352,7 +377,7 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 5. Bij de toepassing van dit artikel houden de Partijen bij hun activiteiten op het gebied van technische bijstand ten volle rekening met de bijzondere behoeften en speciale situatie van de minstontwikkelde landen en kleine eilandstaten die in ontwikkeling zijn.
 
-#### Artikel 13. Financiële middelen en financieringsmechanismen
+##### Artikel 13. Financiële middelen en financieringsmechanismen
 
 1. Elke Partij verplicht zich waar dat tot haar mogelijkheden behoort financiële ondersteuning en prikkels ten behoeve van nationale activiteiten die bedoeld zijn om de doelstellingen van dit Verdrag te realiseren, in overeenstemming met haar nationale plannen, prioriteiten en programma's.
 
@@ -380,11 +405,11 @@ Elke Partij treft ten minste de volgende maatregelen ter beperking van de totale
 
 8. De Conferentie van de Partijen beoordeelt uiterlijk tijdens haar tweede zitting en daarna periodiek, de doeltreffendheid van het ingevolge dit artikel ingestelde mechanisme, de capaciteit ervan om te voldoen aan de veranderende behoeften van Partijen die ontwikkelingslanden zijn en Partijen met een overgangseconomie, de in het zevende lid bedoelde criteria en richtsnoeren, de hoogte van financiering alsmede de doeltreffendheid van de institutionele entiteiten die belast zijn met het beheer van het financieringmechanisme. Aan de hand van deze beoordeling treft de Conferentie van de Partijen indien nodig passende maatregelen ter verbetering van de doeltreffendheid van het mechanisme, onder andere door middel van aanbevelingen en richtsnoeren inzake maatregelen ter waarborging van passende en duurzame financiering teneinde in de behoeften van de Partijen te voorzien.
 
-#### Artikel 14. Voorlopige financiële regelingen
+##### Artikel 14. Voorlopige financiële regelingen
 
 De institutionele structuur van de Global Environment Facility, die functioneert overeenkomstig de Akte tot oprichting van de geherstructureerde Global Environment Facility is, voorlopig, de belangrijkste entiteit belast met de werking van het in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=13&z=2025-02-26&g=2025-02-26) bedoelde financieringsmechanisme, gedurende het tijdvak tussen de datum van inwerkingtreding van dit Verdrag en de eerste Conferentie van de Partijen, of totdat de Conferentie van de Partijen besluit welke institutionele structuur in overeenstemming met [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=13&z=2025-02-26&g=2025-02-26) wordt benoemd. De institutionele structuur van de Global Environment Facility vervult deze functie door middel van operationele maatregelen die in het bijzonder verband houden met persistente organische verontreinigende stoffen, met inachtneming van het feit dat op dit gebied nieuwe regelingen nodig kunnen zijn.
 
-#### Artikel 15. Verslaglegging
+##### Artikel 15. Verslaglegging
 
 1. Elke Partij brengt aan de Conferentie van de Partijen verslag uit over de door haar genomen maatregelen ter uitvoering van de bepalingen van dit Verdrag en over de doeltreffendheid van dergelijke maatregelen bij het bereiken van de doeleinden van het Verdrag.
 
@@ -396,7 +421,7 @@ De institutionele structuur van de Global Environment Facility, die functioneert
 
 3. Deze verslaglegging vindt periodiek plaats en in een vorm die door de Conferentie van de Partijen tijdens haar eerste zitting wordt vastgesteld.
 
-#### Artikel 16. Toetsing van de doeltreffendheid
+##### Artikel 16. Toetsing van de doeltreffendheid
 
 1. Vier jaar na de inwerkingtreding van dit Verdrag, en daarna periodiek met een door de Conferentie van de Partijen te bepalen regelmaat, toetst de Conferentie van de Partijen de doeltreffendheid van dit Verdrag.
 
@@ -416,11 +441,11 @@ De institutionele structuur van de Global Environment Facility, die functioneert
 
 - c. uit hoofde van de ingevolge [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&artikel=17&z=2025-02-26&g=2025-02-26) ingestelde procedures verstrekte informatie inzake niet-naleving.
 
-#### Artikel 17. Niet-naleving
+##### Artikel 17. Niet-naleving
 
 Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures en institutionele mechanismen ontwikkeld en goedgekeurd waarmee de naleving van de bepalingen van dit Verdrag kan worden gecontroleerd en kan worden opgetreden tegen Partijen die het Verdrag niet naleven.
 
-#### Artikel 18. Regeling van geschillen
+##### Artikel 18. Regeling van geschillen
 
 1. Ingeval tussen Partijen een geschil ontstaat betreffende de interpretatie of de toepassing van dit Verdrag, regelen de betrokken Partijen dit geschil door middel van onderhandelingen of op een andere door henzelf te kiezen vreedzame wijze.
 
@@ -438,7 +463,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 6. Indien de partijen bij een geschil niet dezelfde of geen enkele procedure als bedoeld in het tweede lid hebben aanvaard, en indien zij er niet in geslaagd zijn hun geschil te regelen binnen twaalf maanden na de kennisgeving van de ene partij aan de andere dat tussen hen een geschil bestaat, wordt het geschil op verzoek van één van de betrokken partijen aan een verzoeningscommissie voorgelegd. De verzoeningscommissie brengt een rapport uit met aanbevelingen. Uiterlijk bij de tweede vergadering van de Conferentie van de Partijen worden aanvullende procedures met betrekking tot de verzoeningscommissie opgenomen in een door de Conferentie van de Partijen goed te keuren bijlage.
 
-#### Artikel 19. Conferentie van de Partijen
+##### Artikel 19. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld.
 
@@ -470,7 +495,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke Staat die geen Partij bij dit Verdrag is, kunnen als waarnemer worden vertegenwoordigd tijdens de vergaderingen van de Conferentie van de Partijen. Elke andere instelling of organisatie, nationaal of internationaal, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden die onder dit Verdrag vallen, en die aan het Secretariaat haar wens te kennen heeft gegeven tijdens een vergadering van de Conferentie van de Partijen als waarnemer vertegenwoordigd te zijn, kan als zodanig worden toegelaten, tenzij ten minste eenderde van de aanwezige Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers worden geregeld in het door de Conferentie van de Partijen aangenomen reglement van orde.
 
-#### Artikel 20. Secretariaat
+##### Artikel 20. Secretariaat
 
 1. Hierbij wordt een Secretariaat ingesteld.
 
@@ -490,7 +515,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 3. De taken van het Secretariaat die verband houden met dit Verdrag worden gezamenlijk uitgevoerd door de Directeur van UNEP en de Directeur-Generaal van de FAO, tenzij de Conferentie van de Partijen met een meerderheid van drievierde van de aanwezige en hun stem uitbrengende Partijen besluit de secretariaatstaken toe te vertrouwen aan één of meer andere bevoegde internationale organisaties.
 
-#### Artikel 21. Wijzigingen van het Verdrag
+##### Artikel 21. Wijzigingen van het Verdrag
 
 1. Wijzigingen van dit Verdrag kunnen door elke Partij worden voorgesteld.
 
@@ -502,7 +527,7 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 5. De bekrachtiging, aanvaarding of goedkeuring van wijzigingen wordt schriftelijk medegedeeld aan de depositaris. Overeenkomstig het derde lid aangenomen wijzigingen worden voor de Partijen die deze hebben aanvaard, van kracht negentig dagen nadat de akten van bekrachtiging, aanvaarding of goedkeuring door ten minste drievierde van de Partijen zijn ingediend. Daarna worden de wijzigingen voor elke andere Partij van kracht op de negentigste dag na de datum waarop die Partij haar akte van bekrachtiging, aanvaarding of goedkeuring van die wijzigingen heeft ingediend.
 
-#### Artikel 22. Aanneming en wijziging van bijlagen
+##### Artikel 22. Aanneming en wijziging van bijlagen
 
 1. De bijlagen bij dit Verdrag maken een integrerend deel uit van het Verdrag en een verwijzing naar het Verdrag vormt tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald.
 
@@ -528,17 +553,17 @@ Zodra dit uitvoerbaar is, worden door de Conferentie van de Partijen procedures 
 
 6. Indien een aanvullende bijlage of een wijziging van een bijlage verband houdt met een wijziging van dit Verdrag, treedt die aanvullende bijlage of die wijziging pas in werking wanneer de wijziging van het Verdrag van kracht wordt.
 
-#### Artikel 23. Stemrecht
+##### Artikel 23. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij dit Verdrag één stem.
 
 2. Regionale organisaties voor economische integratie beschikken, wat binnen hun bevoegdheid vallende aangelegenheden betreft, over een aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten die Partij zijn bij dit Verdrag. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 24. Ondertekening
+##### Artikel 24. Ondertekening
 
 Dit Verdrag is voor ondertekening opengesteld te Stockholm voor alle Staten en regionale organisaties voor economische integratie op 23 mei 2001 en op de zetel van de Verenigde Naties te New York van 24 mei 2001 tot en met 22 mei 2002.
 
-#### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 25. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door Staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop het Verdrag voor ondertekening gesloten is. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de depositaris.
 
@@ -548,7 +573,7 @@ Dit Verdrag is voor ondertekening opengesteld te Stockholm voor alle Staten en r
 
 4. In haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding kan een Partij verklaren dat een wijziging van [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=A&z=2025-02-26&g=2025-02-26), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=B&z=2025-02-26&g=2025-02-26) of [C](https://wetten.overheid.nl/jci1.3:c:BWBV0001517&bijlage=C&z=2025-02-26&g=2025-02-26) ten aanzien van haar eerst in werking treedt wanneer zij haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding ter zake heeft nedergelegd.
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking negentig dagen na de datum van nederlegging van de vijftigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -556,21 +581,21 @@ Dit Verdrag is voor ondertekening opengesteld te Stockholm voor alle Staten en r
 
 3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door haar lidstaten nedergelegde akten.
 
-#### Artikel 27. Voorbehouden
+##### Artikel 27. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 28. Opzegging
+##### Artikel 28. Opzegging
 
 1. Drie jaar na de datum waarop dit Verdrag voor een Partij in werking is getreden, kan die Partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht een jaar na de datum waarop de depositaris de kennisgeving van opzegging heeft ontvangen of op een latere in de kennisgeving vermelde datum.
 
-#### Artikel 29. Depositaris
+##### Artikel 29. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.
 
-#### Artikel 30. Authentieke teksten
+##### Artikel 30. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet EFRO"
+title: "Wet van 22 januari 2014, houdende regels omtrent de uitvoering van Europese verordeningen inzake financiële bijdragen uit het Europees Fonds voor Regionale Ontwikkeling (Uitvoeringswet EFRO)"
 identifier: "BWBR0034784"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034784"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034784"
+soort: "wet"
+stam_id: "12573533"
+version_id: "21220142"
+internal_id: "C30508801"
+label_id: "12544264"
+dtd_version: "2.0"
+original_entry_into_force: "2014-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034784/2021-07-01/0"
+intitule_bron: "Stb.2014-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-01-22"
+intitule_published: "2014-02-07"
+intitule_in_force: "2014-02-21"
+intitule_status: "goed"
+original_publication: "Stb.2014-48"
+original_signed_date: "2014-01-22"
+original_published_date: "2014-02-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "33735"
+original_url_id: "stb-2014-48"
+entry_into_force_date: "2014-02-22"
+jci_1_3: "jci1.3:c:BWBR0034784&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0034784&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet EFRO"
+signed_date: "2014-01-22"
+entry_into_force: "2014-02-22"
 ---
-
-# Uitvoeringswet EFRO
+# Wet van 22 januari 2014, houdende regels omtrent de uitvoering van Europese verordeningen inzake financiële bijdragen uit het Europees Fonds voor Regionale Ontwikkeling (Uitvoeringswet EFRO)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
@@ -18,7 +45,7 @@ bron: "https://wetten.overheid.nl/BWBR0034784"
 
 #### § 2.2. Autoriteiten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister wijst na een daartoe strekkend verzoek de autoriteiten aan die een taak hebben bij de uitvoering van het programma.
 
@@ -34,13 +61,13 @@ bron: "https://wetten.overheid.nl/BWBR0034784"
 
 7. Onze Minister maakt een besluit als bedoeld in het zesde lid, eerste volzin, bekend in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij algemene maatregel van bestuur kan voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, nader worden voorzien in een taakomschrijving van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten.
 
 2. Bij algemene maatregel van bestuur kunnen voor zover een goede uitvoering van een EFRO-verordening daartoe noopt, regels worden gesteld inzake de onderlinge verhouding tussen de autoriteiten en de verhouding van de autoriteiten met de Europese Commissie. Deze regels kunnen mede betrekking hebben op gegevensuitwisseling.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de noodzaak daartoe voortvloeit uit een EFRO-verordening kan Onze Minister organen of instanties aanwijzen die geen autoriteit zijn binnen een programma maar die anderszins zijn betrokken bij de uitvoering van die verordening of een andere EFRO-verordening.
 
@@ -58,7 +85,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen in
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -84,7 +111,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. Grensoverschrijdende programma’s
 
-#### Artikel 2
+##### Artikel 2
 
 1. Gemeenten, provincies of andere openbare lichamen kunnen ten behoeve van een grensoverschrijdend programma een overeenkomst tot grensoverschrijdende samenwerking sluiten met territoriale gemeenschappen of autoriteiten van andere staten in de zin van artikel 2, tweede lid, van de op 21 mei 1980 te Madrid tot stand gekomen Europese Kaderovereenkomst inzake grensoverschrijdende samenwerking tussen territoriale gemeenschappen of autoriteiten (Trb. 1980, 129).
 
@@ -98,7 +125,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3.1. Regels rond subsidieverstrekking ingevolge een programma
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij regeling van Onze Minister kunnen in verband met subsidieverstrekking in het kader van een programma regels worden gesteld omtrent:
 
@@ -132,7 +159,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De in het eerste lid bedoelde regels hebben, tenzij uit een EFRO-verordening anders voortvloeit, betrekking op de ten laste van het EFRO te verstrekken middelen, op de vanwege het Rijk te verstrekken cofinanciering en op andere cofinanciering voor zover de betrokken gemeente, provincie of het betrokken openbaar lichaam daartoe heeft besloten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister, een van Onze andere Ministers, een gemeentebestuur of een provinciebestuur kan zijn bevoegdheid tot het nemen van besluiten inzake subsidieverstrekking in het kader van een programma delegeren aan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01).
 
@@ -140,17 +167,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Op een besluit tot delegatie is [artikel 19 van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=19) van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor zover cofinanciering door het Rijk is aan te merken als een specifieke uitkering in de zin van [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=15a), is artikel 15a, derde lid, van die wet niet van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) neemt algemene uitgangspunten omtrent de uitoefening van haar bevoegdheden rond subsidieverstrekking die zij vaststelt ingevolge een EFRO-verordening op in een beleidsregel.
 
 #### § 3.2. Intrekken of wijzigen van subsidie
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor zover subsidieverstrekking in strijd is met een EFRO-verordening of een andere ingevolge een verdrag voor de staat geldende verplichting kan een daartoe ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bevoegde autoriteit:
 
@@ -170,61 +197,61 @@ Een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 4.1. Toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 Met het toezicht op de naleving van een EFRO-verordening en de bij of krachtens deze wet gestelde regels zijn belast de bij besluit van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten aangewezen personen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=4&paragraaf=4.1&artikel=11&z=2021-07-01&g=2021-07-01) bedoelde aanwijzing kan in het kader van de uitvoering van een grensoverschrijdend programma, in een andere lidstaat van de EU werkzame personen betreffen.
 
 2. Een aanwijzing als bedoeld in het eerste lid, alsmede de daarbij geldende voorwaarden inzake aansturing, werkwijze en verantwoording, behoeven de instemming van het bestuursorgaan of de instantie in de andere lidstaat waarbij de aan te wijzen persoon in dienst is.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister kan personen aanwijzen die deel kunnen nemen aan het uitoefenen van toezicht en controles door ambtenaren van de Europese Commissie op de uitvoering van programma’s op grond van een EFRO-verordening.
 
 2. [Afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) is van overeenkomstige toepassing ten aanzien van de op grond van het eerste lid aangewezen personen.
 
-#### Artikel 14
+##### Artikel 14
 
 Ten aanzien van personen aan wie ingevolge een grensoverschrijdend programma door een in het buitenland gevestigde autoriteit het uitoefenen van toezicht is opgedragen, zijn de [artikelen 5:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12), [5:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:13), [5:15](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), [5:16](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:16), [5:17](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) en [5:20, eerste en tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) van overeenkomstige toepassing, voor zover dat toezicht in Nederland wordt uitgeoefend, met dien verstande dat indien de aanwijzing in een andere EU-lidstaat werkzame personen betreft, daarvoor de voorafgaande goedkeuring van Onze Minister is vereist.
 
 #### § 4.2. Inlichtingen en rapportages
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister kan van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteiten en de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2021-07-01&g=2021-07-01) bedoelde instanties en organen alle inlichtingen verlangen en inzage vorderen van alle gegevens en bescheiden indien dat voor de vervulling van zijn taak in het kader van de uitvoering van een EFRO-verordening redelijkerwijs nodig is, dan wel indien hij daarover moet kunnen beschikken ten behoeve van de uitvoering van artikel 59 van [verordening nr. 966/2012](32012R0966) van het Europees Parlement en de Raad van de Europese Unie van 25 oktober 2012 tot vaststelling van de financiële regels van toepassing op de algemene begroting van de Unie en tot intrekking van verordening (EG, Euratom) nr. 1605/2002.
 
-#### Artikel 16
+##### Artikel 16
 
 Onze Minister kan een autoriteit als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) opdragen een rapportageplicht op grond van een EFRO-verordening uit te voeren.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor zover een in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) bedoelde autoriteit op grond van een EFRO-verordening een rapportage uitbrengt over werkzaamheden van een andere op grond van artikel 3 aangewezen autoriteit, wordt de laatstbedoelde autoriteit gedurende ten minste twee weken in de gelegenheid gesteld haar zienswijze te geven op een ontwerp van de rapportage, tenzij een inzagerecht op grond van een EFRO-verordening niet mogelijk is.
 
 ### Hoofdstuk 5. Overige bepalingen en overgangs- en slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Financiële-verhoudingswet.
 
-#### Artikel 20
+##### Artikel 20
 
 In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01), kan voor de periode 2014–2020 als autoriteit worden aangewezen een privaatrechtelijke rechtspersoon die voorafgaand aan die programmaperiode als autoriteit was aangewezen in het kader van de uitvoering van de destijds geldende EFRO-verordeningen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Indien het Staatsblad waarin het koninklijk besluit, bedoeld in het eerste lid, wordt geplaatst wordt uitgegeven na 1 januari 2014, kan in dat besluit worden bepaald dat [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034784&hoofdstuk=2&paragraaf=2.2&artikel=3&z=2021-07-01&g=2021-07-01) terugwerkt uiterlijk tot en met 1 januari 2014.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Uitvoeringswet EFRO.
 

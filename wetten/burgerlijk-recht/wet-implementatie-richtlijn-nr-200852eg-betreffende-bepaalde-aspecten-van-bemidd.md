@@ -1,14 +1,42 @@
 ---
-title: "Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken"
+title: "Wet van 15 november 2012 tot implementatie van de richtlijn betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken (Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken)"
 identifier: "BWBR0032232"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2017-09-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032232"
+country: "nl"
+rank: "wet"
+publication_date: "2017-09-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032232"
+soort: "wet"
+stam_id: "11910813"
+version_id: "19791932"
+internal_id: "C27795771"
+label_id: "11882784"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032232/2017-09-01/0"
+intitule_bron: "Stb.2012-570"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-15"
+intitule_published: "2012-11-20"
+intitule_in_force: "2012-11-20"
+intitule_status: "goed"
+original_publication: "Stb.2012-570"
+original_signed_date: "2012-11-15"
+original_published_date: "2012-11-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "33320"
+original_url_id: "stb-2012-570"
+entry_into_force_date: "2012-11-21"
+entry_into_force_dossier: "33320"
+jci_1_3: "jci1.3:c:BWBR0032232&z=2017-09-01&g=2017-09-01"
+jci_1_0: "1.0:c:BWBR0032232&g=2017-09-01"
+citeertitel_status: "officieel"
+short_title: "Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken"
+signed_date: "2012-11-15"
+entry_into_force: "2012-11-21"
 ---
-
-# Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken
+# Wet van 15 november 2012 tot implementatie van de richtlijn betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken (Wet implementatie richtlijn nr. 2008/52/EG betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is uitvoering te gev
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -30,19 +58,19 @@ In deze wet wordt verstaan onder:
 
 - **mediator:** een derde die wordt verzocht op doeltreffende, onpartijdige en bekwame wijze een mediation te leiden, ongeacht de benaming of het beroep van die derde en ongeacht de wijze waarop deze is aangewezen of is aangezocht om de mediation te leiden.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is van toepassing op grensoverschrijdende burgerlijke en handelsgeschillen, tenzij deze betrekking hebben op rechten en verplichtingen waarover de partijen uit hoofde van het toepasselijke recht van mediation geen zeggenschap hebben. Zij heeft geen betrekking op fiscale zaken, douanezaken en administratiefrechtelijke zaken, of op de aansprakelijkheid van de staat wegens een handeling of nalaten in de uitoefening van het openbaar gezag.
 
-#### Artikel 3
+##### Artikel 3
 
 De rechter kan in alle gevallen en in elke stand van de procedure partijen mediation voorstellen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien in een verzoekprocedure een schikking tot stand komt, kan op verzoek het proces-verbaal van de zitting waarin de verbintenissen worden uitgedrukt die partijen ten gevolge van die schikking op zich nemen, in executoriale vorm worden opgemaakt. Dit proces-verbaal wordt mede ondertekend door partijen of hun tot dat doel bijzonderlijk gevolmachtigden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het vertrouwelijke karakter van een mediation uitdrukkelijk is overeengekomen, kunnen de mediator en degene die bij deze mediation is betrokken, zich verschonen van de verplichting om een getuigenis af te leggen omtrent informatie die voortvloeit uit of verband houdt met een mediation over rechten en verplichtingen die ter vrije beschikking van partijen staan.
 
@@ -50,7 +78,7 @@ Indien in een verzoekprocedure een schikking tot stand komt, kan op verzoek het 
 
 3. Dit artikel is ook van toepassing op een grensoverschrijdend geschil waarin een gerechtelijke procedure of arbitrage in aansluiting op een mediation tussen de partijen wordt ingeleid in een andere lidstaat dan die waarin de partijen hun woonplaats of gewone verblijfplaats hadden op het tijdstip waarop zij onderling overeenkwamen gebruik te maken van mediation.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verjaring van een rechtsvordering wordt gestuit door de aanvang van mediation.
 
@@ -58,11 +86,11 @@ Indien in een verzoekprocedure een schikking tot stand komt, kan op verzoek het 
 
 3. Dit artikel is ook van toepassing op een grensoverschrijdend geschil waarin een gerechtelijke procedure of arbitrage in aansluiting op een mediation tussen de partijen wordt ingeleid in een andere lidstaat dan die waarin de partijen hun woonplaats of gewone verblijfplaats hadden op het tijdstip waarop zij onderling overeenkwamen gebruik te maken van mediation.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet wordt aangehaald als: Wet implementatie [richtlijn nr. 2008/52/EG](32008L0052) betreffende bepaalde aspecten van bemiddeling/mediation in burgerlijke en handelszaken.
 

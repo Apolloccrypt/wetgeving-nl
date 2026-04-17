@@ -1,18 +1,44 @@
 ---
-title: "Uitvoeringsbesluit Belastingwet BES"
+title: "Besluit van 23 december 2010 tot vaststelling van het Uitvoeringsbesluit Belastingwet BES (Uitvoeringsbesluit Belastingwet BES)"
 identifier: "BWBR0029323"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029323"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029323"
+soort: "AMvB-BES"
+stam_id: "11180973"
+version_id: "26352642"
+internal_id: "C37452511"
+label_id: "11155414"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029323/2025-01-01/0"
+intitule_bron: "Stb.2010-850"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-28"
+intitule_in_force: "2010-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2019-516"
+original_signed_date: "2019-12-18"
+original_published_date: "2019-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-516"
+entry_into_force_date: "2019-12-18"
+jci_1_3: "jci1.3:c:BWBR0029323&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0029323&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Belastingwet BES"
+signed_date: "2019-12-18"
+entry_into_force: "2019-12-18"
 ---
-
 # Besluit van 23 december 2010 tot vaststelling van het Uitvoeringsbesluit Belastingwet BES (Uitvoeringsbesluit Belastingwet BES)
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 8.39](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.39), [8.69](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.69), [8.89](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89), [8.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.95), [8.109](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.109), [8.115a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.115a), [8.129](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129) en [8.133a van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.133a), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) en [4 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=4) en [artikel 14 van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=14).
 
@@ -42,7 +68,7 @@ bron: "https://wetten.overheid.nl/BWBR0029323"
 
 ### Hoofdstuk 7a. Aanwijzing bevoegde functionaris
 
-#### Artikel 7a.1
+##### Artikel 7a.1
 
 Op het tijdstip van transitie, bedoeld in [artikel 13a, onderdeel a, van de Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551&artikel=13a), gaan de taken en bevoegdheden van de Gouverneur en het bestuurscollege, bedoeld in de Landsverordening ter bevordering van bedrijfsvestiging en hotelbouw, de Landsverordening belastingfaciliteiten industriële ondernemingen, de Landsverordening renovatie hotels en de Landsverordening ter bevordering van grondontwikkeling, over op de directeur-generaal Belastingdienst, bedoeld in de op [artikel 3 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3) gebaseerde ministeriële regeling.
 
@@ -66,11 +92,11 @@ Treedt in werking om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius e
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van de ontvanger of belastingdeurwaarder worden aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de [artikelen 2.2 tot en met 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Verschuldigd is:
 
@@ -88,7 +114,7 @@ Verschuldigd is:
 
 - g. voor het verzenden van een aanmaning tot betaling: USD 8.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Verschuldigd is:
 
@@ -104,7 +130,7 @@ Verschuldigd is:
 
 2. Indien de verrichtingen, bedoeld in de onderdelen a en b, ter plaatse langer dan twee uren duren, worden de genoemde bedragen verhoogd met USD 12 voor elk volgend uur of gedeelte daarvan.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: het bedrag van de werkelijke kosten.
 
@@ -112,13 +138,13 @@ Verschuldigd is:
 
 3. Aan de bewaarder komt geen vergoeding toe indien hij bij de bewaring van de zaken ook overigens belang heeft of in enige andere betrekking met de bewaring is belast.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Naast de in de [artikelen 2.2 tot en met 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=2&artikel=2.2&z=2025-01-01&g=2025-01-01) genoemde bedragen worden in rekening gebracht de bedragen, toekomende aan derden voor de door hen rechtstreeks ten behoeve van de tenuitvoerlegging van het dwangschrift verrichte handelingen.
 
 ### Hoofdstuk 3. Van inleners- en ketenaansprakelijkheid uitgezonderde sectoren
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 De [artikelen 8.67](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.67) en [8.68 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.68) zijn niet van toepassing in de volgende bedrijfssectoren en bedrijfstakken:
 
@@ -156,13 +182,13 @@ De [artikelen 8.67](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.67
 
 ### Hoofdstuk 4. Vergoedingen voor deskundigen en tolken
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Aan deskundigen en tolken die door de inspecteur met toepassing van [artikel 8.89 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89) zijn aangewezen of door het Gerecht in eerste aanleg of het Hof met toepassing van [artikel 8.109 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.109) zijn opgeroepen, wordt een vergoeding toegekend overeenkomstig het [Besluit tarieven in burgerlijke zaken BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028448).
 
 ### Hoofdstuk 5. Proceskostenvergoeding
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Een vergoeding van de kosten als bedoeld in de [artikelen 8.95](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.95) en [8.115a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.115a) kan uitsluitend betrekking hebben op:
 
@@ -176,7 +202,7 @@ Een vergoeding van de kosten als bedoeld in de [artikelen 8.95](https://wetten.o
 
 - e. kosten van uittreksels uit openbare registers, alsmede kosten van aangetekende post, telegrammen, internationale telexen, internationale telefaxen en internationale telefoongesprekken.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. Het bedrag van de kosten wordt bij de beslissing op het bezwaar, onderscheidenlijk bij de uitspraak van de rechter bepaald:
 
@@ -196,7 +222,7 @@ Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminde
 
 3. In bijzondere omstandigheden kan van het eerste lid worden afgeweken.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 1. Samenhangende zaken worden voor de toepassing van [artikel 5.2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&artikel=5.2&z=2025-01-01&g=2025-01-01), beschouwd als één zaak.
 
@@ -204,23 +230,23 @@ Het op grond van het eerste lid vastgestelde bedrag kan eveneens worden verminde
 
 ### Hoofdstuk 6. Bijstelling bedragen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 De in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=5&z=2025-01-01&g=2025-01-01) voorkomende bedragen kunnen bij regeling van Onze Minister van Financiën worden gewijzigd.
 
 ### Hoofdstuk 7. Sectoren ten aanzien waarvan [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) geen toepassing vindt
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Ten aanzien van de in [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029323&hoofdstuk=3&artikel=3.1&z=2025-01-01&g=2025-01-01) van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=3) niet van toepassing.
 
 ### Hoofdstuk 7bis. Aanwijzing inkomen als loon uit vroegere dienstbetrekking
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 Dit besluit treedt in werking met ingang van 1 januari 2011 om 00:00 uur in de openbare lichamen Bonaire, Sint Eustatius en Saba en om 05:00 uur in het Europese deel van Nederland.
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Belastingwet BES.
 
@@ -270,7 +296,7 @@ Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.o
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7b.1
+##### Artikel 7b.1
 
 1. Als administratieplichtigen als bedoeld in [artikel 8.129, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.129) worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.
 
@@ -304,7 +330,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 9. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.
 
-#### Artikel 7b.2
+##### Artikel 7b.2
 
 Vervallen
 
@@ -328,7 +354,7 @@ Het bedrag van de kosten, bedoeld in [artikel 5.1, onderdeel a](https://wetten.o
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7b.3
+##### Artikel 7b.3
 
 Met betrekking tot een rapporterende financiële instelling zijn de [artikelen 2 tot en met 12 van het Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard](https://wetten.overheid.nl/jci1.3:c:BWBR0037469&artikel=2) van overeenkomstige toepassing.
 
@@ -344,7 +370,7 @@ Met betrekking tot een rapporterende financiële instelling zijn de [artikelen 2
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7bis.1
+##### Artikel 7bis.1
 
 1. Loonbelasting wordt mede geheven van natuurlijke personen die de tot het inkomen in de zin van de [Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281) behorende basisbedragen van de algemene onderstand, genoemd in [artikel 13 van het Besluit onderstand BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=13), of de toeslagen, genoemd in de [artikelen 14 tot en met 17a van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&artikel=14), genieten.
 

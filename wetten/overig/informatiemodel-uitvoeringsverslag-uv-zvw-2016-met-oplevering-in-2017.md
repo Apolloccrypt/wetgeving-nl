@@ -1,13 +1,35 @@
 ---
 title: "Informatiemodel Uitvoeringsverslag (UV) Zvw 2016 met oplevering in 2017"
 identifier: "BWBR0037485"
-categorie: "Overig"
-publicatiedatum: 2015-12-29
-laatste_update: 2015-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037485"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-12-29"
+last_updated: "2015-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037485"
+soort: "zbo"
+stam_id: "13377723"
+version_id: "22935902"
+internal_id: "C33163251"
+label_id: "13345774"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037485/2015-12-29/0"
+intitule_bron: "Stcrt.2015-44309"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-12-28"
+intitule_in_force: "2015-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-44309"
+original_published_date: "2015-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-44309"
+entry_into_force_date: "2015-12-29"
+jci_1_3: "jci1.3:c:BWBR0037485&z=2015-12-29&g=2015-12-29"
+jci_1_0: "1.0:c:BWBR0037485&g=2015-12-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-12-29"
 ---
-
 # Informatiemodel Uitvoeringsverslag (UV) Zvw 2016 met oplevering in 2017
 
 ### Vooraf

@@ -1,24 +1,51 @@
 ---
-title: "Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning)"
+title: "Rijkswet van 27 juni 2008 tot wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning"
 identifier: "BWBR0024168"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2009-03-01
-laatste_update: 2009-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024168"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2009-03-01"
+last_updated: "2009-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024168"
+soort: "rijkswet"
+stam_id: "9649543"
+version_id: "15568362"
+internal_id: "C22058701"
+label_id: "9626594"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024168/2009-03-01/0"
+intitule_bron: "Stb.2008-270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-27"
+intitule_published: "2008-07-15"
+intitule_in_force: "2009-01-13"
+intitule_status: "goed"
+original_publication: "Stb.2008-270"
+original_signed_date: "2008-06-27"
+original_published_date: "2008-07-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "30584"
+original_url_id: "stb-2008-270"
+entry_into_force_date: "2009-03-01"
+jci_1_3: "jci1.3:c:BWBR0024168&z=2009-03-01&g=2009-03-01"
+jci_1_0: "1.0:c:BWBR0024168&g=2009-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Rijkswet tot wijziging Rijkswet op het Nederlanderschap (invoering verklaring verbondenheid en aanpassing regeling verkrijging Nederlanderschap na erkenning)"
+signed_date: "2008-06-27"
+entry_into_force: "2009-03-01"
 ---
-
 # Rijkswet van 27 juni 2008 tot wijziging van de Rijkswet op het Nederlanderschap ter invoering van een verklaring van verbondenheid, en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738) te wijzigen teneinde een verklaring van verbondenheid onderdeel te laten zijn van de verkrijging van het Nederlanderschap anders dan van rechtswege en tot aanpassing van de regeling van de verkrijging van het Nederlanderschap na erkenning;
 
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Rijkswet op het Nederlanderschap.
 
-#### Artikel II
+##### Artikel II
 
 1. Na het afleggen van een daartoe strekkende schriftelijke verklaring verkrijgt het Nederlanderschap door een bevestiging als bedoeld in [artikel 6, tweede lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=6)
 
@@ -34,21 +61,21 @@ Wijzigt de Rijkswet op het Nederlanderschap.
 
 4. Voor de toepassing van [artikel 14, tweede lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14) wordt onder familierechtelijke betrekking mede gerekend de erkenning en wettiging als bedoeld in het eerste lid.
 
-#### Artikel IIa
+##### Artikel IIa
 
 1. Wijzigt de Wet conflictenrecht namen.
 
 2. Wijzigt het Burgerlijk Wetboek Boek 1.
 
-#### Artikel IIb
+##### Artikel IIb
 
 Indien het op 14 december 2004 door de leden Wolfsen en Luchtenveld ingediende voorstel van wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van een dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen) (Kamerstukken II 2004/05, 29 934, nr. 2) tot wet is verheven en in werking is getreden, vinden de [artikelen 4:16 tot en met 4:20 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:16) geen toepassing ten aanzien van beschikkingen op verzoeken tot naturalisatie als bedoeld in [artikel 7 van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=7), ingediend op de Nederlandse Antillen of Aruba, en ten aanzien van beslissingen op bezwaar tegen zodanige beschikkingen, totdat bij Koninklijk Besluit daartoe een datum is vastgesteld, die voor elk land afzonderlijk kan worden bepaald.
 
-#### Artikel III
+##### Artikel III
 
 De in [artikel I, onderdelen A en C tot en met J](https://wetten.overheid.nl/jci1.3:c:BWBR0024168&artikel=I&z=2009-03-01&g=2009-03-01), genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging en verzoeken om verlening van het Nederlanderschap ingediend vóór de datum van inwerkingtreding van deze Rijkswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

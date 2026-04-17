@@ -1,18 +1,43 @@
 ---
-title: "Besluit instelling interventieteam relationele druk en geweld 2005"
+title: "Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337215 tot instelling van het interventieteam relationele druk en geweld"
 identifier: "BWBR0018098"
-categorie: "Overig"
-publicatiedatum: 2005-03-18
-laatste_update: 2005-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018098"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-03-18"
+last_updated: "2005-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018098"
+soort: "ministeriele-regeling"
+stam_id: "6853523"
+version_id: "11733322"
+internal_id: "C29154081"
+label_id: "6841764"
+original_entry_into_force: "2005-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018098/2005-03-18/0"
+intitule_bron: "Stcrt.2005-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-11"
+intitule_published: "2005-03-16"
+intitule_in_force: "2005-03-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-53"
+original_signed_date: "2005-03-11"
+original_published_date: "2005-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-53-p20-SC69223"
+entry_into_force_date: "2005-03-18"
+jci_1_3: "jci1.3:c:BWBR0018098&z=2005-03-18&g=2005-03-18"
+jci_1_0: "1.0:c:BWBR0018098&g=2005-03-18"
+citeertitel_status: "officieel"
+short_title: "Besluit instelling interventieteam relationele druk en geweld 2005"
+signed_date: "2005-03-11"
+entry_into_force: "2005-03-18"
 ---
-
 # Besluit van de Minister voor Vreemdelingenzaken en Integratie van 11 maart 2005, nr. DDS 5337215 tot instelling van het interventieteam relationele druk en geweld
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,13 +49,13 @@ In dit besluit wordt verstaan onder:
 
 - d. FORUM: het Instituut voor multiculturele ontwikkeling te Utrecht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een interventieteam relationele druk en geweld.
 
 2. Het interventieteam wordt ingesteld voor de duur van twee jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Het interventieteam heeft tot taak:
 
@@ -42,7 +67,7 @@ Het interventieteam heeft tot taak:
 
 - d. het stimuleren van contacten tussen en binnen de verschillende etnische groepen en van contacten tussen bedoelde groepen en gemeenten en relevante instellingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het interventieteam bestaat uit een voorzitter en ten minste zes en ten hoogste acht andere leden.
 
@@ -74,11 +99,11 @@ Het interventieteam heeft tot taak:
 
 6. Het interventieteam kan zich doen bijstaan door andere (rechts)personen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het interventieteam wordt organisatorisch, financieel en inhoudelijk bij de werkzaamheden bijgestaan door FORUM. Aan het interventieteam is minimaal één zogenoemde ‘inhoudelijk ondersteuner’ toegevoegd in de functie van secretaris.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het interventieteam is inhoudelijk en qua werkwijze onafhankelijk en de besluitvorming hieromtrent binnen het interventieteam is bindend.
 
@@ -88,13 +113,13 @@ Het interventieteam wordt organisatorisch, financieel en inhoudelijk bij de werk
 
 4. FORUM heeft op basis van het Plan van Aanpak Interventieteams een daarbij behorende begroting opgesteld voor twee jaar, welke door de minister is gehonoreerd bij beschikking, d.d. 4 december 2003, kenmerk 5259809.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het interventieteam brengt tweemaal, te weten uiterlijk 1 januari 2006 en 1 januari 2007, over de voorliggende periode aan de minister een inhoudelijk verslag uit over de uitvoering van de werkzaamheden. Deze rapportages worden samen met die van de drie andere interventieteams door FORUM aangeboden.
 
 2. FORUM brengt uiterlijk 1 april 2007 een financieel verslag uit over de besteding van het bedrag, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2005-03-18). FORUM maakt per activiteit, zoals aangegeven in het Plan van Aanpak Interventieteams, inzichtelijk welke uitgaven zijn gedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Op grond van het [Vergoedingenbesluit adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353) (1997) ontvangen de leden van het interventieteam vacatiegeld van € 125,00 per bijgewoonde vergadering of andere activiteit in lijn met de besluitvorming van het interventieteam.
 
@@ -102,15 +127,15 @@ Het interventieteam wordt organisatorisch, financieel en inhoudelijk bij de werk
 
 3. Vacatiegelden en de reis- en verblijfskosten worden uitbetaald door FORUM op basis van de begroting, bedoeld in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018098&artikel=6&z=2005-03-18&g=2005-03-18).
 
-#### Artikel 9
+##### Artikel 9
 
 De archiefbescheiden van het interventieteam worden na het staken van de activiteiten door het interventieteam of, indien de omstandigheden daartoe aanleiding geven, zoveel eerder, opgeborgen in het archief van FORUM.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 20 december 2004.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit instelling interventieteam relationele druk en geweld 2005.
 

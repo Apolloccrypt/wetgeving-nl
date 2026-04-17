@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels Wet Bibob Wtza"
+title: "Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2021, kenmerk 3290096-1020857-PZO, inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van de Wet toetreding zorgaanbieders (Beleidsregels Wet Bibob Wtza)"
 identifier: "BWBR0046184"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-07
-laatste_update: 2022-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046184"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-01-07"
+last_updated: "2022-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046184"
+soort: "beleidsregel"
+stam_id: "16229693"
+version_id: "28338012"
+internal_id: "C39947481"
+label_id: "16157394"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046184/2022-01-07/0"
+intitule_bron: "Stcrt.2022-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-09"
+intitule_published: "2022-01-06"
+intitule_in_force: "2022-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-202"
+original_signed_date: "2021-12-09"
+original_published_date: "2022-01-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-202"
+entry_into_force_date: "2022-01-07"
+jci_1_3: "jci1.3:c:BWBR0046184&z=2022-01-07&g=2022-01-07"
+jci_1_0: "1.0:c:BWBR0046184&g=2022-01-07"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels Wet Bibob Wtza"
+signed_date: "2021-12-09"
+entry_into_force: "2022-01-07"
 ---
-
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 9 december 2021, kenmerk 3290096-1020857-PZO, inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van de Wet toetreding zorgaanbieders (Beleidsregels Wet Bibob Wtza)
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=5) en [7 van de Wet toetreding zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&artikel=7);

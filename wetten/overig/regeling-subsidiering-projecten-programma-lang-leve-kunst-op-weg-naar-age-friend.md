@@ -1,13 +1,36 @@
 ---
-title: "Regeling subsidiëring projecten programma Lang Leve Kunst; Op weg naar Age Friendly Cities"
+title: "Regeling voor subsidiëring van projecten in het kader van het programma Lang Leve Kunst. Op weg naar Age Friendly Cities"
 identifier: "BWBR0039134"
-categorie: "Overig"
-publicatiedatum: 2017-01-27
-laatste_update: 2016-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039134"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-27"
+last_updated: "2016-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039134"
+soort: "zbo"
+stam_id: "13898133"
+version_id: "23850212"
+internal_id: "C34303461"
+label_id: "13862474"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039134/2017-01-27/0"
+intitule_bron: "Stcrt.2017-4045"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-01-26"
+intitule_in_force: "2017-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-4045"
+original_published_date: "2017-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-4045"
+entry_into_force_date: "2017-01-27"
+jci_1_3: "jci1.3:c:BWBR0039134&z=2017-01-27&g=2017-01-27"
+jci_1_0: "1.0:c:BWBR0039134&g=2017-01-27"
+citeertitel_status: "redactioneel"
+short_title: "Regeling subsidiëring projecten programma Lang Leve Kunst; Op weg naar Age Friendly Cities"
+entry_into_force: "2017-01-27"
 ---
-
 # Regeling voor subsidiëring van projecten in het kader van het programma Lang Leve Kunst. Op weg naar Age Friendly Cities
 
 Het doel van deze regeling is cultuurparticipatie door ouderen op lokaal niveau te verduurzamen door samen met gemeenten op te trekken binnen het programma ‘Lang Leve Kunst. Op weg naar Age Friendly Cities’. Daarbinnen verduurzaamt het Fonds succesvolle artistiek inhoudelijk gedreven ouderenparticipatieprojecten die eerder door haarzelf of een van haar landelijke partners uit het samenwerkingsverband Lang Leve Kunst zijn gesubsidieerd. De gemeenten zullen daarnaast een flankerend programma ontwikkelen om het project en cultuurparticipatie door ouderen sterker lokaal in te bedden.

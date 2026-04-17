@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden"
 identifier: "BWBV0002824"
-categorie: "Milieu"
-publicatiedatum: 1993-04-09
-laatste_update: 1993-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002824"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-04-09"
+last_updated: "1993-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002824"
+soort: "verdrag"
+stam_id: "10003156703"
+version_id: "10003162582"
+internal_id: "C10006976931"
+label_id: "10003143004"
+dtd_version: "2.0"
+original_entry_into_force: "1993-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002824/1993-04-09/0"
+intitule_bron: "Trb.1992-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-08"
+intitule_published: "1992-04-15"
+intitule_in_force: "1993-08-17"
+intitule_status: "goed"
+original_publication: "Trb.1992-64"
+original_signed_date: "1992-12-08"
+original_published_date: "1992-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-64"
+entry_into_force_date: "1993-04-09"
+jci_1_3: "jci1.3:c:BWBV0002824&z=1993-04-09&g=1993-04-09"
+jci_1_0: "1.0:c:BWBV0002824&g=1993-04-09"
+citeertitel_status: "officieel"
+signed_date: "1992-12-08"
+entry_into_force: "1993-04-09"
 ---
-
 # Memorandum van Overeenstemming inzake het vermijden van overlappingen en geschillen met betrekking tot zeebodemgebieden
 
 De Regeringen van het Koninkrijk België, de Bondsrepubliek Duitsland, Canada, de Italiaanse Republiek, het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland enerzijds, en de Republiek Bulgarije, de Republiek Cuba, de Republiek Polen, de Tsjechische en Slowaakse Federatieve Republiek en de Unie van Socialistische Sovjetrepublieken verenigd in het Consortium INTEROCEANMETAL, anderzijds, hierna te noemen de „Partijen”,
@@ -22,7 +47,7 @@ Geleid door de wens wederzijdse eerbiediging van die gebieden te waarborgen tene
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Na toewijzing door de Voorbereidende Commissie aan het Consortium INTEROCEANMETAL - in zijn hoedanigheid van pionier-investeerder - erkend door de Republiek Bulgarije, de Republiek Cuba, de Republiek Polen, de Tsjechische en Slowaakse Federatieve Republiek en de Unie van Socialistische Sovjetrepublieken van het in bijlage I bij dit Memorandum genoemde gebied zullen de Regeringen van België, Canada, Duitsland, Italië, Nederland en het Verenigd Koninkrijk dat gebied eerbiedigen.
 
@@ -30,31 +55,31 @@ Zijn het volgende overeengekomen:
 
 3. De in het eerste en tweede lid hierboven bedoelde verplichtingen zijn niet van toepassing op de gebieden waarvan in de toekomst door de Partijen afstand is gedaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Regeringen van België, Canada, Duitsland, Italië, Nederland en het Verenigd Koninkrijk zullen, zelf of samen met derden, niet zodanig handelen dat daardoor de registratie van het verzoek dat door de Republiek Polen, handelend namens de andere Staten in het Consortium INTEROCEANMETAL verenigd, bij de Voorbereidende Commissie is ingediend, voor enige of alle in bijlage I bij dit Memorandum genoemde gebieden wordt belet.
 
 2. De Regeringen van de Republiek Bulgarije, de Republiek Cuba, de Republiek Polen, de Tsjechische en Slowaakse Federatieve Republiek en de Unie van Socialistische Sovjetrepublieken zullen, zelf of samen met derden, niet zodanig handelen dat daardoor de registratie van verzoeken die in de toekomst door enige of alle andere Partijen ten aanzien van enige of alle in bijlage II bij dit Memorandum genoemde gebieden kunnen worden ingediend, wordt belet.
 
-#### Artikel 3
+##### Artikel 3
 
 De Partijen zullen niet overgaan tot, of door optreden van hun eigen overheidsinstanties dan wel in samenwerking met derden ondersteuning bieden aan de exploratie en exploitatie van vaste minerale rijkdommen in de in artikel 1 bedoelde gebieden op een wijze die niet verenigbaar is met de in dat artikel vervatte verplichting.
 
-#### Artikel 4
+##### Artikel 4
 
 De Partijen zullen alle passende maatregelen nemen om te waarborgen dat er geen fysieke belemmering plaatsvindt van elkaars werkzaamheden die verband houden met de exploratie en exploitatie van vaste minerale rijkdommen in de in artikel 1 bedoelde gebieden.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien noodzakelijk zullen de Partijen overleg plegen over vraagstukken die verband houden met de tenuitvoerlegging van dit Memorandum.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Memorandum wordt van kracht op de datum van ondertekening door de Regering van het Koninkrijk België, de Regering van de Bondsrepubliek Duitsland, de Regering van Canada, de Regering van de Italiaanse Republiek, de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de Regering van de Republiek Bulgarije, de Regering van de Republiek Cuba, de Regering van de Republiek Polen, de Regering van de Tsjechische en Slowaakse Federatieve Republiek en de Regering van de Unie van Socialistische Sovjetrepublieken, anderzijds, met ingang van 20 augustus 1991 en blijft van kracht tenzij anders overeengekomen door de Partijen. De bijlagen bij dit Memorandum vormen een integrerend onderdeel van het Memorandum.
 
 2. Een Partij kan, bij ondertekening, verklaren dat dit Memorandum ten aanzien van die partij eerst in werking treedt na kennisgeving aan alle andere Partijen dat aan alle wettelijke vereisten is voldaan. Het Memorandum treedt ten aanzien van die Partij in werking na ontvangst van deze kennisgeving door alle andere Partijen.
 
-#### 1
+##### 1
 
 Coördinaten van het zeebodemgebied van de Arbeidsgemeinschaft meerestechnisch gewinnbare Rohstoffe (AMR) als trustee voor Ocean Management Inc.:
 
@@ -66,7 +91,7 @@ Coördinaten van het zeebodemgebied van de Arbeidsgemeinschaft meerestechnisch g
 |   | # | Grad. |   | Grad. |   |
 |   | 1. 2. 3. 4. 5. 6. 1. | 13. 13. 12. 12. 9. 9. 13. | 26.0 N 26.0 N 00.0 N 00.0 N 45.0 N 45.0 N 26.0 N | 119. 118. 118. 116. 116. 119. 119. | 25.0 W 00.0 W 00.0 W 04.0 W 04.0 W 25.0 W 25.0 W |
 
-#### 2
+##### 2
 
 Coördinaten van het zeebodemgebied van Carborundum Company Ltd. namens het Kennecott Consortium:
 
@@ -79,7 +104,7 @@ Coördinaten van het zeebodemgebied van Carborundum Company Ltd. namens het Kenn
 | --- | --- | --- | --- | --- |
 | 20. 1. | 11. 11. | 00.0 N 00.0 N | 115. 115. | 20.0 W 20.0 W |
 
-#### 3
+##### 3
 
 Coördinaten van het zeebodemgebied van het Kennecott Consortium:
 
@@ -87,7 +112,7 @@ Coördinaten van het zeebodemgebied van het Kennecott Consortium:
 | --- | --- | --- | --- | --- |
 | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 1. | 14. 14. 13. 13. 12. 12. 11. 11. 12. 12. 14. | 20.0 N 20.0 N 45.0 N 45.0 N 15.0 N 15.0 N 40.0 N 40.0 N 00.0 N 00.0 N 20.0 N | 128. 126. 126. 125. 125. 127. 127. 127. 127. 128. 128. | 00.0 W 15.0 W 15.0 W 20.0 W 20.0 W 00.0 W 00.0 W 43.0 W 43.0 W 00.0 W 00.0 W |
 
-#### 4
+##### 4
 
 Coördinaten van het zeebodemgebied van Ocean Minerals Company:
 
@@ -126,7 +151,7 @@ Coördinaten van het zeebodemgebied van Ocean Minerals Company:
 | # | Grad. | Min. | Grad. | Min. |
 | 1. 2. 3. 4. 1. | 13. 13. 13. 13. 13. | 40.0 N 40.0 N 20.2 N 20.2 N 40.0 N | 130. 128. 128. 130. 130. | 00.0 W 35.0 W 35.0 W 00.0 W 00.0 W |
 
-#### 5
+##### 5
 
 Coördinaten van het zeebodemgebied van Ocean Management Inc.:
 
@@ -144,7 +169,7 @@ Coördinaten van het zeebodemgebied van Ocean Management Inc.:
 | # | Grad. | Min. | Grad. | Min. |
 | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 1. | 13. 13. 12. 12. 13. 13. 12. 12. 12. 12. 11. 11. 13. | 30.0 N 30.0 N 50.0 N 50.0 N 00.0 N 00.0 N 30.0 N 30.0 N 11.6 N 11.6 N 30.0 N 30.0 N 30.0 N | 134. 133. 133. 134. 134. 134. 134. 134. 134. 133. 133. 134. 134. | 45.0 W 50.0 W 50.0 W 00.0 W 00.0 W 15.0 W 15.0 W 04.0 W 04.0 W 50.0 W 50.0 W 45.0 W 45.0 W |
 
-#### 6
+##### 6
 
 Coördinaten van het zeebodemgebied van Ocean Mining Associates:
 
@@ -167,7 +192,7 @@ Coördinaten van het zeebodemgebied van Ocean Mining Associates:
 | .# | Grad. | Min. | Grad. | Min. |
 | 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 1. | 13. 13. 13. 13. 14. 14. 14. 14. 14. 14. 14. 14. 13. | 34.5 N 34.5 N 55.0 N 55.0 N 00.0 N 00.0 N 15.0 N 15.0 N 37.5 N 37.5 N 45.0 N 45.0 N 34.6 N | 128. 128. 128. 128. 128. 128. 128. 128. 128. 128. 128. 128. 128. | 35.0 W 15.0 W 15.0 W 10.0 W 10.0 W 05.0 W 05.0 W 09.13W 09.13W 12.5 W 12.5 W 35.0 W 35.0 W |
 
-#### 7
+##### 7
 
 Coördinaten van het zeebodemgebied van Arbeitsgemeinschaft meerestechnisch eewinnbare Rohstoffe (AMR):
 

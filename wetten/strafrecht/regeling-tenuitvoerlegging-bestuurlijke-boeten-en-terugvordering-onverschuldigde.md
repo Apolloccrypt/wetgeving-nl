@@ -1,13 +1,39 @@
 ---
-title: "Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen)"
 identifier: "BWBR0026017"
-categorie: "Strafrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026017"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026017"
+soort: "ministeriele-regeling"
+stam_id: "10091933"
+version_id: "20558352"
+internal_id: "C28908741"
+label_id: "10068334"
+dtd_version: "2.0"
+original_entry_into_force: "2013-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026017/2025-01-01/0"
+intitule_bron: "Stcrt.2009-117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-23"
+intitule_published: "2009-06-29"
+intitule_in_force: "2009-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-15191"
+original_signed_date: "2013-06-03"
+original_published_date: "2013-06-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-15191"
+entry_into_force_date: "2013-06-03"
+jci_1_3: "jci1.3:c:BWBR0026017&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0026017&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen"
+signed_date: "2013-06-03"
+entry_into_force: "2013-06-03"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 juni 2009, nr. IVV/I/2009/13367, houdende regels omtrent tenuitvoerlegging van bestuurlijke boeten en terugvordering van onverschuldigde betalingen op grond van een aantal socialezekerheidswetten (Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen)
 
 Handelende in overeenstemming met de Minister voor Jeugd en Gezin en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -18,7 +44,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Vierde tranche Algemene wet bestuursrecht in werking treedt.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -76,11 +102,11 @@ In deze regeling wordt verstaan onder:
 
 - t. **SVB:** Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-#### Artikel 2. Bevoegdheid verrekening met werkgever
+##### Artikel 2. Bevoegdheid verrekening met werkgever
 
 Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=1&z=2025-01-01&g=2025-01-01), genoemde wetten opgenomen bevoegdheden tot verrekening van vorderingen op werknemers, tevens bevoegd tot verrekening van een vordering op de werkgever met een aan de werkgever te betalen bedrag.
 
-#### Artikel 3. Standaardregeling voor uitstel van betaling
+##### Artikel 3. Standaardregeling voor uitstel van betaling
 
 1. Het UWV of de SVB stelt de termijn waarvoor uitstel van betaling wordt verleend, alsmede de daaraan verbonden periodieke betalingen en verrekeningen, vast na overleg met de schuldenaar en met inachtneming van dit artikel.
 
@@ -102,19 +128,19 @@ Het UWV is, naast de in [artikel 1, onderdelen a tot en met l](https://wetten.ov
 
 6. Indien toepassing van dit artikel leidt tot een kennelijk onredelijk resultaat kan het UWV of de SVB afwijken van het eerste tot en met vijfde lid.
 
-#### Artikel 4. Regeling voor uitstel van betaling bij schending inlichtingenplicht
+##### Artikel 4. Regeling voor uitstel van betaling bij schending inlichtingenplicht
 
 Vervallen
 
-#### Artikel 5. Voldoening vordering tot en met € 300,–
+##### Artikel 5. Voldoening vordering tot en met € 300,–
 
 Indien de vordering op de schuldenaar niet meer bedraagt dan € 300,– stelt het UWV of de SVB, in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=3&z=2025-01-01&g=2025-01-01), de wijze waarop deze vordering moet worden voldaan vast zonder de schuldenaar in de gelegenheid te stellen een voorstel te doen met betrekking tot de wijze van voldoening van de vordering, met dien verstande dat per periode van een maand de aflossing op niet meer dan € 25,– kan worden vastgesteld.
 
-#### Artikel 6. Uitstel van betaling op voorstel schuldenaar
+##### Artikel 6. Uitstel van betaling op voorstel schuldenaar
 
 Vervallen
 
-#### Artikel 7. Voorschriften uitstel van betaling
+##### Artikel 7. Voorschriften uitstel van betaling
 
 Het UWV en de SVB verbinden aan een beschikking tot uitstel van betaling in ieder geval de voorschriften dat:
 
@@ -122,45 +148,45 @@ Het UWV en de SVB verbinden aan een beschikking tot uitstel van betaling in iede
 
 - b. de beschikking tot uitstel van betaling kan worden ingetrokken of gewijzigd indien wijziging plaatsvindt in de hoogte van de inkomsten van de schuldenaar.
 
-#### Artikel 8. Versoepeling betalingsregeling na tien jaar
+##### Artikel 8. Versoepeling betalingsregeling na tien jaar
 
 Vervallen
 
-#### Artikel 9. Toerekening van betalingen
+##### Artikel 9. Toerekening van betalingen
 
 Tenzij de schuldenaar een andere vordering aanwijst wordt een betaling, die zou kunnen worden toegerekend aan meerdere vorderingen, eerst toegerekend aan een verschuldigde bestuurlijke boete.
 
-#### Artikel 10. Toepasselijkheid op de werkgever
+##### Artikel 10. Toepasselijkheid op de werkgever
 
 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026017&artikel=3&z=2025-01-01&g=2025-01-01) is niet van toepassing op de werkgever.
 
-#### Artikel 11. Overgangsrecht
+##### Artikel 11. Overgangsrecht
 
 Het UWV en de SVB kunnen op verzoek van de schuldenaar de regeling voor uitstel van betaling die is vastgesteld voor 1 januari 2025 herzien conform de regels geldend vanaf 1 januari 2025.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de Vierde tranche Algemene wet bestuursrecht in werking treedt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tenuitvoerlegging bestuurlijke boeten en terugvordering onverschuldigde betalingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Deze regeling berust op de [artikelen 17c](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=17c) en [24b van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=24b), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=41) en [55 van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=55), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=17e) en [24b van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=24b), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=21), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=22), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=24) en [37 van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=37), [14a](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=14a) en [20b van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=20b), [27a](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=27a) en [36b van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=36b), [2:61](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:61), [2:69](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:69), [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:40) en [3:58 van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:58), [48](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=48) en [65 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=65), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=29a) en [57b van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=57b), [79](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=79) en [91 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=91) en [33b](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=33b) en [45a van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45a).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
+##### Artikel 11a. Overgangsrecht versoepeling betalingsregeling
 
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a. Regeling verrekening bestuurlijke boete bij recidive
+##### Artikel 10a. Regeling verrekening bestuurlijke boete bij recidive
 
 Vervallen
 

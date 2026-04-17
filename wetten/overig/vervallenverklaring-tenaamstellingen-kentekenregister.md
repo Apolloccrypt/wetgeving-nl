@@ -1,13 +1,38 @@
 ---
 title: "Vervallenverklaring tenaamstellingen kentekenregister"
 identifier: "BWBR0052177"
-categorie: "Overig"
-publicatiedatum: 2026-01-13
-laatste_update: 2026-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052177"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-13"
+last_updated: "2026-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052177"
+soort: "zbo"
+stam_id: "17731703"
+version_id: "31291412"
+internal_id: "C44738081"
+label_id: "17630124"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052177/2026-01-13/0"
+intitule_bron: "Stcrt.2026-1086"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-16"
+intitule_published: "2026-01-13"
+intitule_in_force: "2026-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-1086"
+original_signed_date: "2025-12-16"
+original_published_date: "2026-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-1086"
+entry_into_force_date: "2026-01-13"
+jci_1_3: "jci1.3:c:BWBR0052177&z=2026-01-13&g=2026-01-13"
+jci_1_0: "1.0:c:BWBR0052177&g=2026-01-13"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-16"
+entry_into_force: "2026-01-13"
 ---
-
 # Vervallenverklaring tenaamstellingen kentekenregister
 
 16 december 2025

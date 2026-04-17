@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting, innovatiebox"
 identifier: "BWBR0035509"
-categorie: "Belastingrecht"
-publicatiedatum: 2017-12-02
-laatste_update: 2017-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035509"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-12-02"
+last_updated: "2017-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035509"
+soort: "beleidsregel"
+stam_id: "12783963"
+version_id: "21704422"
+internal_id: "C31146341"
+label_id: "12754434"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035509/2017-12-02/0"
+intitule_bron: "Stcrt.2014-25141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-01"
+intitule_published: "2014-09-05"
+intitule_in_force: "2014-09-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-25141"
+original_signed_date: "2014-09-01"
+original_published_date: "2014-09-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-25141"
+entry_into_force_date: "2014-09-06"
+jci_1_3: "jci1.3:c:BWBR0035509&z=2017-12-02&g=2017-12-02"
+jci_1_0: "1.0:c:BWBR0035509&g=2017-12-02"
+citeertitel_status: "redactioneel"
+signed_date: "2014-09-01"
+entry_into_force: "2014-09-06"
 ---
-
 # Vennootschapsbelasting, innovatiebox
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

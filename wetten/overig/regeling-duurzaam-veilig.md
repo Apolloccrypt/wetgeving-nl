@@ -1,13 +1,37 @@
 ---
 title: "Regeling duurzaam veilig"
 identifier: "BWBR0009505"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009505"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009505"
+soort: "ministeriele-regeling"
+stam_id: "4376353"
+version_id: "6143192"
+internal_id: "C6347401"
+label_id: "4354974"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009505/2002-01-01/0"
+intitule_bron: "Stcrt.1998-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-25"
+intitule_published: "1998-03-31"
+intitule_in_force: "1998-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-62"
+original_signed_date: "1998-03-25"
+original_published_date: "1998-03-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-04-02"
+jci_1_3: "jci1.3:c:BWBR0009505&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0009505&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "1998-03-25"
+entry_into_force: "1998-04-02"
 ---
-
 # Regeling duurzaam veilig
 
 Gelet op [artikel 185, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=185);
@@ -22,11 +46,11 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Provincies, gemeenten en waterschappen kunnen een aanvraag voor de vaststelling van een subsidie indienen voor het treffen van fiets- en bromfietsmaatregelen.
 
@@ -46,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Het subsidiebedrag
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het subsidieplafond bedraagt in totaal € 88.487.142,00 waarvan:
 
@@ -60,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 3. De minister doet hiervan mededeling in de Staatscourant.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De subsidie per aanvrager bedraagt:
 
@@ -78,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 4. Voor de berekening, bedoeld in het derde lid, wordt het tweede lid zo vaak toegepast tot het totale subsidiebedrag onder de resterende aanvragers is verdeeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie voor de uitvoering van een 60 km-project bedraagt € 226,90 inclusief BTW per hele hectometer van de weglengte binnen een project.
 
@@ -88,13 +112,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. De Aanvraag
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een subsidie-aanvraag voor het treffen van fiets- en bromfietsmaatregelen wordt uiterlijk 22 oktober 1998 ingediend.
 
 2. Een subsidie-aanvraag voor de uitvoering van een 30 km- of 60 km-project wordt uiterlijk 31 december 1998 ingediend.
 
-#### Artikel 7
+##### Artikel 7
 
 - 1. Een aanvraag wordt ingediend bij de hoofdingenieur-directeur van de regionale directie van Directoraat-Generaal Rijkswaterstaat in de regio van de aanvrager met gebruikmaking van een bij deze verkrijgbaar formulier en gaat in ieder geval vergezeld van een opgave van de weglengte per 1 januari 1998 van de aanvrager, onderscheiden naar weglengte binnen- en buiten de bebouwde kom.
 
@@ -102,7 +126,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. De beslissing
 
-#### Artikel 8
+##### Artikel 8
 
 De minister beslist in ieder geval afwijzend op een aanvraag:
 
@@ -110,11 +134,11 @@ De minister beslist in ieder geval afwijzend op een aanvraag:
 
 - b. indien de aanvrager in het kader van de aanvraag onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van deze gegevens tot een onjuiste beslissing op de aanvraag zou hebben geleid.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister beslist uiterlijk 1 mei 1999 over de aanvragen voor subsidieverlening, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De beschikking tot subsidieverlening bevat:
 
@@ -126,17 +150,17 @@ De minister beslist uiterlijk 1 mei 1999 over de aanvragen voor subsidieverlenin
 
 2. De minister kan de subsidie-ontvanger bij de subsidieverlening verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.
 
-#### Artikel 11
+##### Artikel 11
 
 De minister stelt de subsidie voor het treffen van fiets- en bromfietsmaatregelen uiterlijk 1 november 1998 vast.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De minister stelt de subsidie voor een project als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01), ambtshalve vast binnen zestien weken nadat de subsidie-ontvanger heeft voldaan aan [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=5&artikel=17&z=2002-01-01&g=2002-01-01). Indien niet wordt voldaan aan [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=5&artikel=17&z=2002-01-01&g=2002-01-01) stelt de minister de subsidie ambtshalve uiterlijk 1 november 2003 vast.
 
 2. De subsidie wordt vastgesteld op basis van de weglengte binnen de gerealiseerde projecten en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=2&artikel=5&z=2002-01-01&g=2002-01-01).
 
-#### Artikel 13
+##### Artikel 13
 
 De beschikking tot subsidievaststelling bevat:
 
@@ -144,13 +168,13 @@ De beschikking tot subsidievaststelling bevat:
 
 - b. het bedrag waarop de subsidie wordt vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46) en [4:47, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:47), en de [artikelen 4:48 tot en met 4:50 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) zijn van toepassing.
 
 #### § 5. Verplichtingen
 
-#### Artikel 15
+##### Artikel 15
 
 De subsidie-ontvanger, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01), is verplicht uiterlijk
 
@@ -164,7 +188,7 @@ De subsidie-ontvanger, bedoeld in [artikel 2, tweede en derde lid](https://wette
 
 - d. een actuele raming van de projectkosten, bedoeld in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=2&artikel=5&z=2002-01-01&g=2002-01-01), van de 30 km-projecten.
 
-#### Artikel 16
+##### Artikel 16
 
 De subsidie-ontvanger doet onverwijld schriftelijk mededeling aan de minister van:
 
@@ -172,7 +196,7 @@ De subsidie-ontvanger doet onverwijld schriftelijk mededeling aan de minister va
 
 - b. alle overige omstandigheden die van invloed kunnen zijn op de subsidie en een doelmatige aanwending daarvan.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De subsidie-ontvanger, bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01), is verplicht uiterlijk 1 september 2003 verantwoording aan de minister te overleggen, waarin het volgende is opgenomen:
 
@@ -184,29 +208,29 @@ De subsidie-ontvanger doet onverwijld schriftelijk mededeling aan de minister va
 
 2. De verantwoording gaat vergezeld van een accountantsverklaring waarin duidelijk wordt aangegeven of de verantwoording voldoet aan de eisen gesteld in het eerste lid.
 
-#### Artikel 18
+##### Artikel 18
 
 De subsidie-ontvanger is verplicht medewerking te verlenen aan een onderzoek naar de rechtmatigheid van de besteding van de ontvangen subsidiegelden, verricht door de Minister van Verkeer en Waterstaat aan te wijzen personen.
 
 #### § 6. Betaling, terugvordering en voorschotten
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het subsidiebedrag wordt overeenkomstig de subsidievaststelling betaald, onder verrekening van de betaalde voorschotten.
 
 2. Het subsidiebedrag wordt binnen vier weken na de subsidievaststelling betaald, tenzij bij de subsidievaststelling anders is bepaald.
 
-#### Artikel 20
+##### Artikel 20
 
 Onverschuldigd betaalde subsidiebedragen en voorschotten kunnen binnen vier weken na de subsidievaststelling, of de wijziging of intrekking daarvan worden teruggevorderd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. In het geval van een project als bedoeld in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=1&artikel=2&z=2002-01-01&g=2002-01-01) kan de minister op verzoek van een subsidie-ontvanger die voldaan heeft aan [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0009505&paragraaf=5&artikel=15&z=2002-01-01&g=2002-01-01), een voorschot verstrekken ter hoogte van maximaal 75% van het bedrag van de subsidieverlening.
 
 2. De minister wijst een verzoek als bedoeld in het eerste lid af, voorzover de subsidie-ontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het voorschot wordt binnen vier weken na de voorschotverlening betaald, tenzij bij de voorschotverlening anders bepaald is.
 
@@ -214,11 +238,11 @@ Onverschuldigd betaalde subsidiebedragen en voorschotten kunnen binnen vier weke
 
 #### § 7. Slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze regeling wordt aangehaald als: Regeling duurzaam veilig.
 

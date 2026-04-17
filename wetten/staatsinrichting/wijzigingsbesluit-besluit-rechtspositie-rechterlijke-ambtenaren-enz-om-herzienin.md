@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren, enz. (o.m. herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren)"
+title: "Besluit van 17 december 2010 tot wijziging van onder meer het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten in verband met onder meer de herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren"
 identifier: "BWBR0029382"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029382"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029382"
+soort: "AMvB"
+stam_id: "11195303"
+version_id: "18325762"
+internal_id: "C25521581"
+label_id: "11169524"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029382/2011-01-01/0"
+intitule_bron: "Stb.2010-858"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-17"
+intitule_published: "2010-12-31"
+intitule_in_force: "2010-12-31"
+intitule_status: "goed"
+original_publication: "Stb.2010-858"
+original_signed_date: "2010-12-17"
+original_published_date: "2010-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-858"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029382&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029382&g=2011-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit rechtspositie rechterlijke ambtenaren, enz. (o.m. herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren)"
+signed_date: "2010-12-17"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit van 17 december 2010 tot wijziging van onder meer het Besluit rechtspositie rechterlijke ambtenaren en enige andere besluiten in verband met onder meer de herziening van de functie- en bezoldigingstructuur voor rechterlijke ambtenaren
 
 Op de voordracht van Onze Minister van Justitie van 7 oktober 2010, nr. 5670871/10/6;
@@ -20,51 +46,51 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 16 dec
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit rechtspositie leden gerechtsbesturen en Raad voor de rechtspraak.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit opleiding rechterlijke ambtenaren.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Beroepsreglement.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit rechtspositie leden met rechtspraak belast en gerechtsauditeurs CRvB en CBb.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regelen omtrent onverenigbaarheid van het lidmaatschap van de SER met enige andere werkzaamheden.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Wijzigingsbesluit Algemene wet bestuursrecht, enz. (indexering griffierechten bestuursrechtelijke wetten 2011.)
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de rechtsbijstand.
 
-#### Artikel XI
+##### Artikel XI
 
 Degenen die op de dag voorafgaand aan de inwerkingtreding van dit besluit als directeur bedrijfsvoering bij de rechtbank te Groningen, Leeuwarden en Zutphen zijn aangesteld, blijven in het genot van het bij salarisschaal 16 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) behorende bedrag voor zolang zij zijn benoemd als directeur bedrijfsvoering bij die rechtbank.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt terug als volgt:
 

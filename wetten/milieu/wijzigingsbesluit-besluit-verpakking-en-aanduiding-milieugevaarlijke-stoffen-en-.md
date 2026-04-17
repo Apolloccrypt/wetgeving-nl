@@ -1,13 +1,38 @@
 ---
-title: "Wijzigingsbesluit Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten"
+title: "Besluit van 18 maart 2004, houdende wijziging van het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten"
 identifier: "BWBR0016521"
-categorie: "Milieu"
-publicatiedatum: 2010-03-17
-laatste_update: 2010-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016521"
+country: "nl"
+rank: "amvb"
+publication_date: "2010-03-17"
+last_updated: "2010-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016521"
+soort: "AMvB"
+stam_id: "5832363"
+version_id: "10396922"
+internal_id: "C14074801"
+label_id: "5812464"
+original_entry_into_force: "2004-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016521/2010-03-17/0"
+intitule_bron: "Stb.2004-157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-18"
+intitule_published: "2004-04-20"
+intitule_in_force: "2004-04-20"
+intitule_status: "goed"
+original_publication: "Stb.2004-157"
+original_signed_date: "2004-03-18"
+original_published_date: "2004-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-157"
+entry_into_force_date: "2004-05-18"
+jci_1_3: "jci1.3:c:BWBR0016521&z=2010-03-17&g=2010-03-17"
+jci_1_0: "1.0:c:BWBR0016521&g=2010-03-17"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten"
+signed_date: "2004-03-18"
+entry_into_force: "2004-05-18"
 ---
-
 # Besluit van 18 maart 2004, houdende wijziging van het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 januari 2004, kenmerk VGB/P&L 2365980, gedaan mede namens de Staatssecretarissen van Sociale Zaken en Werkgelegenheid en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -20,29 +45,29 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit risico's zware ongevallen 1999.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Warenwetbesluit Speelgoed.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De verplichting, voortvloeiende uit [artikel 6d, eerste lid van het Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0004220&artikel=6d), geldt uitsluitend ten aanzien van stoffen en preparaten die in de handel zijn gebracht vanaf het tijdstip dat [artikel 6d](https://wetten.overheid.nl/jci1.3:c:BWBR0004220&artikel=6d) ten aanzien van die stoffen en preparaten in werking is getreden.
 
 2. In afwijking van het eerste lid geldt [artikel 6d, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0004220&artikel=6d), tevens ten aanzien van stoffen en preparaten waarop [artikel 6c, eerste lid van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004220&artikel=6c) van toepassing was, zoals dat luidde direct voorafgaande aan het tijdstip waarop [artikel 6d van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004220&artikel=6d) ten aanzien van die stoffen en preparaten in werking trad en de vervaardiging of invoer van die stoffen of preparaten niet meer dan tien jaar voor dat tijdstip heeft plaatsgevonden.
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Dit besluit treedt in werking vier weken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht"
+title: "Besluit van 13 juli 2016, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht en van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering in verband met vereenvoudiging en digitalisering van het procesrecht in hoger beroep en cassatie (Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht)"
 identifier: "BWBR0038341"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-08-01
-laatste_update: 2017-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038341"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-08-01"
+last_updated: "2017-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038341"
+soort: "AMvB"
+stam_id: "13712123"
+version_id: "23491572"
+internal_id: "C34324561"
+label_id: "13678544"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038341/2018-08-01/0"
+intitule_bron: "Stb.2016-293"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-13"
+intitule_published: "2016-07-21"
+intitule_in_force: "2017-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2016-293"
+original_signed_date: "2016-07-13"
+original_published_date: "2016-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-293"
+entry_into_force_date: "2017-03-01"
+jci_1_3: "jci1.3:c:BWBR0038341&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0038341&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht"
+signed_date: "2016-07-13"
+entry_into_force: "2017-03-01"
 ---
-
 # Besluit van 13 juli 2016, houdende aanpassing van algemene maatregelen van bestuur in verband met de invoering van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering en de Algemene wet bestuursrecht in verband met vereenvoudiging en digitalisering van het procesrecht en van de Wet tot wijziging van het Wetboek van Burgerlijke Rechtsvordering in verband met vereenvoudiging en digitalisering van het procesrecht in hoger beroep en cassatie (Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 3 september 2015, nr. 680716;
@@ -22,59 +48,59 @@ Hebben goedgevonden en verstaan:
 
 Treedt uitsluitend in werking voor zover het betreft vorderingsprocedures bij de Hoge Raad.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit administratieve bepalingen Bopz.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Huwelijksgoederenregister 1969.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit openbare biedingen Wft.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Besluit orde van dienst gerechten.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit register schuldsaneringsregeling.
 
-#### Artikel VI
+##### Artikel VI
 
 Dit artikel is gedeeltelijk in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Besluit tarieven ambtshandelingen gerechtsdeurwaarders.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Maatregel teboekgestelde schepen 1992.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
 Wijzigt het Uitvoeringsbesluit pacht.
 
-#### Artikel X
+##### Artikel X
 
 Dit artikel is in werking getreden in verband met de invoering van digitaal procederen. Zie voor de procedures en gerechten waarvoor digitaal procederen geldt het Overzicht gefaseerde inwerkingtreding op www.rijksoverheid.nl/KEI.
 
@@ -86,11 +112,11 @@ Ingetrokken worden:
 
 - 3. Het [Besluit elektronisch verkeer met de bestuursrechter](https://wetten.overheid.nl/jci1.3:c:BWBR0027917).
 
-#### Artikel XI
+##### Artikel XI
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit vereenvoudiging en digitalisering procesrecht.
 

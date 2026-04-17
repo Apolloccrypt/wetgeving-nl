@@ -1,14 +1,41 @@
 ---
-title: "Wet gegevensverwerking door samenwerkingsverbanden"
+title: "Wet van 19 juni 2024 tot regels omtrent gegevensverwerking door samenwerkingsverbanden (Wet gegevensverwerking door samenwerkingsverbanden)"
 identifier: "BWBR0049962"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049962"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049962"
+soort: "wet"
+stam_id: "17165113"
+version_id: "30215552"
+internal_id: "C43803811"
+label_id: "17073804"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049962/2025-07-05/0"
+intitule_bron: "Stb.2024-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-19"
+intitule_published: "2024-06-28"
+intitule_in_force: "2024-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2024-198"
+original_signed_date: "2024-06-19"
+original_published_date: "2024-06-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "35447"
+original_url_id: "stb-2024-198"
+entry_into_force_date: "2025-03-01"
+jci_1_3: "jci1.3:c:BWBR0049962&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0049962&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet gegevensverwerking door samenwerkingsverbanden"
+signed_date: "2024-06-19"
+entry_into_force: "2025-03-01"
 ---
-
-# Wet gegevensverwerking door samenwerkingsverbanden
+# Wet van 19 juni 2024 tot regels omtrent gegevensverwerking door samenwerkingsverbanden (Wet gegevensverwerking door samenwerkingsverbanden)
 
 Allen, die deze zullen zien of horen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,13 +67,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **sturingsinformatie:** gegevens betreffende natuurlijke personen, rechtspersonen of fenomenen, inhoudende een eerste vermoeden dat sprake is van onrechtmatige activiteiten, of voornemens daartoe, op de bestrijding waarvan het samenwerkingsverband is gericht, met inbegrip van de onderliggende gegevens uit een risicoanalyse, ten behoeve van de uitvoering van publiekrechtelijke taken of uitoefening van publiekrechtelijke bevoegdheden.
 
-#### Artikel 1.2. Reikwijdte
+##### Artikel 1.2. Reikwijdte
 
 1. Deze wet heeft betrekking op het gezamenlijk verwerken van gegevens door deelnemers van een samenwerkingsverband in de zin van deze wet.
 
 2. Deze wet laat onverlet dat deelnemers van een samenwerkingsverband onderling gegevens kunnen blijven verwerken bij of krachtens een andere dan deze wet.
 
-#### Artikel 1.3. Deelnemers
+##### Artikel 1.3. Deelnemers
 
 1. De deelnemers zijn de bij of krachtens deze wet aangewezen overheidsinstanties, overheidsorganen en private partijen.
 
@@ -60,7 +87,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij algemene maatregel van bestuur kan de deelname worden beëindigd indien deelname niet meer noodzakelijk is voor het doel van het samenwerkingsverband.
 
-#### Artikel 1.4. Gezamenlijke verwerkingsverantwoordelijkheid
+##### Artikel 1.4. Gezamenlijke verwerkingsverantwoordelijkheid
 
 1. De deelnemers van een samenwerkingsverband zijn gezamenlijke verwerkingsverantwoordelijken als bedoeld in artikel 26, eerste lid, van de Algemene verordening gegevensbescherming voor de verwerking van persoonsgegevens door het samenwerkingsverband.
 
@@ -74,7 +101,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. de aanwijzing van een deelnemende overheidsinstantie of deelnemend overheidsorgaan als contactpunt voor betrokkenen voor de uitoefening van de rechten op grond van hoofdstuk III van de Algemene verordening gegevensbescherming.
 
-#### Artikel 1.5. Verstrekking aan het samenwerkingsverband
+##### Artikel 1.5. Verstrekking aan het samenwerkingsverband
 
 1. Elke deelnemer verstrekt de bij of krachtens deze wet aangewezen categorieën van gegevens aan het samenwerkingsverband, voor zover dat noodzakelijk is voor het doel van het samenwerkingsverband, tenzij naar het oordeel van de deelnemer zwaarwegende redenen zich daartegen verzetten. Deze verplichting tot verstrekking is mede van toepassing indien een specifieke geheimhoudingsbepaling van toepassing is die het toelaat dat een ander wettelijk voorschrift daarop een uitzondering maakt.
 
@@ -106,13 +133,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onverminderd [artikel 20, derde lid, van de Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&artikel=20), verstrekt de rijksbelastingdienst, bedoeld in [artikel 3 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=3), geen gegevens aan deelnemers voor zover dit private partijen zijn.
 
-#### Artikel 1.6. Verwerking binnen het samenwerkingsverband
+##### Artikel 1.6. Verwerking binnen het samenwerkingsverband
 
 1. Het samenwerkingsverband verwerkt gezamenlijk gegevens ten behoeve van een bij of krachtens deze wet vastgestelde doelstelling van zwaarwegend algemeen belang.
 
 2. Het eerste lid is mede van toepassing op persoonsgegevens van strafrechtelijke aard.
 
-#### Artikel 1.7. Verstrekking van de resultaten aan deelnemers en derden
+##### Artikel 1.7. Verstrekking van de resultaten aan deelnemers en derden
 
 1. Tenzij naar het oordeel van een of meer deelnemers op wier gegevens de resultaten zijn gebaseerd zwaarwegende redenen zich daartegen verzetten, worden de resultaten van de verwerking binnen het samenwerkingsverband verstrekt aan een of meer deelnemers, voor zover de verstrekking noodzakelijk is voor:
 
@@ -138,7 +165,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. De resultaten van de verwerking binnen het samenwerkingsverband kunnen worden verstrekt aan een ander samenwerkingsverband als bedoeld in deze wet, voor zover de verstrekking noodzakelijk is voor het doel van het ontvangende samenwerkingsverband en uitsluitend voor zover de deelnemers die de betreffende persoonsgegevens aan het samenwerkingsverband hebben verstrekt, daarmee instemmen. Ter vaststelling of de betrokkene bekend is bij een ander samenwerkingsverband, kunnen de deelnemers van de beide samenwerkingsverbanden identificerende en contactgegevens alsmede het burgerservicenummer van die betrokkene uitwisselen.
 
-#### Artikel 1.8. Waarborgen
+##### Artikel 1.8. Waarborgen
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen voorwaarden en beperkingen worden gesteld aan alle verwerkingen van gegevens op grond van deze wet.
 
@@ -164,7 +191,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 9. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de waarborgen, waaronder opleidingseisen voor personen die zijn aangewezen ten behoeve van de inzet in het samenwerkingsverband.
 
-#### Artikel 1.9. Bijzondere waarborgen inzake geautomatiseerde gegevensanalyse
+##### Artikel 1.9. Bijzondere waarborgen inzake geautomatiseerde gegevensanalyse
 
 1. De deelnemers dragen zorg voor adequate en uniforme technische en organisatorische maatregelen in verband met de bevordering van de kwaliteit van de gezamenlijke geautomatiseerde gegevensanalyse alsmede ter bevordering van de juistheid en de volledigheid van de gegevens die daarbij worden verwerkt.
 
@@ -178,7 +205,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij de geautomatiseerde gegevensanalyse door het samenwerkingsverband worden geen algoritmes gehanteerd waarvan de uitkomsten niet navolgbaar en controleerbaar zijn.
 
-#### Artikel 1.10. Auditbepaling
+##### Artikel 1.10. Auditbepaling
 
 1. Het samenwerkingsverband doet de uitvoering van de bij of krachtens deze wet gegeven regels en de Algemene verordening gegevensbescherming controleren door middel van het periodiek doen verrichten van privacy audits.
 
@@ -190,7 +217,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de inhoud en wijze van uitvoering van controle, bedoeld in het eerste en derde lid.
 
-#### Artikel 1.11. Geheimhouding
+##### Artikel 1.11. Geheimhouding
 
 1. Eenieder die betrokken is bij de werkzaamheden van het samenwerkingsverband en daarbij de beschikking krijgt over persoonsgegevens, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.7&z=2025-07-05&g=2025-07-05) of enig ander wettelijk voorschrift voorziet in de bevoegdheid of verplichting om de gegevens te verstrekken of voor zover de gegevensverstrekking noodzakelijk is voor het afleggen van verantwoording door een medewerker aan de deelnemer die hem heeft aangewezen voor de inzet in het samenwerkingsverband.
 
@@ -198,7 +225,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het eerste lid is van overeenkomstige toepassing op andere gegevens waarvan degene die betrokken is bij de werkzaamheden van het samenwerkingsverband het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden.
 
-#### Artikel 1.12. Jaarverslag
+##### Artikel 1.12. Jaarverslag
 
 1. Een samenwerkingsverband stelt jaarlijks een jaarverslag op. Het jaarverslag beschrijft de op grond van [artikel 1.7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.7&z=2025-07-05&g=2025-07-05), ontvangen terugkoppelingen van de effectiviteit en de bruikbaarheid van de resultaten, voor zover de bekendmaking van deze gegevens de verwezenlijking van de doeleinden van het samenwerkingsverband niet onmogelijk dreigt te maken of ernstig in het gedrang dreigt te brengen. Een cluster van samenwerkingsverbanden kan beslissen om één gezamenlijk jaarverslag uit te brengen.
 
@@ -208,17 +235,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Financieel Expertisecentrum (FEC)
 
-#### Artikel 2.1. Aanwijzing
+##### Artikel 2.1. Aanwijzing
 
 Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel Expertisecentrum.
 
-#### Artikel 2.2. Doel
+##### Artikel 2.2. Doel
 
 1. Met het oog op risico’s van inbreuken op de integriteit van het financiële stelsel, of onderdelen daarvan, verwerkt het Financieel Expertisecentrum gegevens, voor zover dat noodzakelijk is voor de uitoefening van publiekrechtelijke taken en bevoegdheden van de deelnemers.
 
 2. Onder risico’s als bedoeld in het eerste lid worden verstaan risico’s met betrekking tot de integriteit van natuurlijke of rechtspersonen die binnen het financiële stelsel werkzaam zijn, alsmede risico’s als gevolg van het doen en nalaten van partijen binnen het financiële stelsel of onderdelen daarvan, met betrekking tot financieel-economische criminaliteit en andere ernstige vormen van criminaliteit of van terrorismefinanciering.
 
-#### Artikel 2.3. Deelnemers
+##### Artikel 2.3. Deelnemers
 
 1. Als deelnemers van het Financieel Expertisecentrum worden aangewezen:
 
@@ -242,7 +269,7 @@ Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel 
 
 3. Een krachtens het eerste lid, onder h, vastgestelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat de inwerkingtreding van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 2.4. Verstrekking van gegevens aan het samenwerkingsverband
+##### Artikel 2.4. Verstrekking van gegevens aan het samenwerkingsverband
 
 1. Met het oog op de uitvoering van de activiteiten, bedoeld in [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.1&artikel=2.5&z=2025-07-05&g=2025-07-05), zijn de door de deelnemers te verstrekken categorieën gegevens:
 
@@ -266,7 +293,7 @@ Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel 
 
 2. Bij algemene maatregel van bestuur kunnen categorieën van gegevens worden aangevuld en kunnen nadere regels worden gesteld over de categorieën van gegevens, bedoeld in het eerste lid, en de bronnen van waaruit die gegevens afkomstig zijn. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.5. Activiteiten
+##### Artikel 2.5. Activiteiten
 
 1. Door het Financieel Expertisecentrum worden de volgende activiteiten verricht:
 
@@ -276,13 +303,13 @@ Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel 
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de activiteiten, bedoeld in het eerste lid, en kunnen aanvullende activiteiten, waaronder geautomatiseerde gegevensanalyse, worden aangewezen, voor zover die noodzakelijk zijn voor het doel, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 2.6. Signalenoverleg
+##### Artikel 2.6. Signalenoverleg
 
 1. Indien een deelnemer signalen heeft inzake bedreigingen of risico’s van inbreuken op de integriteit van de financiële sector als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2025-07-05&g=2025-07-05) kunnen deelnemers daarover overleggen. Daarbij verstrekken zij elkaar gegevens voor zover dat noodzakelijk is om het signaal te kwalificeren als sturingsinformatie.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de criteria om een bepaald signaal voor te dragen voor het signalenoverleg, waaronder over de aard, de eisen van kwaliteit en betrouwbaarheid waaraan het signaal moet voldoen.
 
-#### Artikel 2.7. Gegevensanalyse
+##### Artikel 2.7. Gegevensanalyse
 
 1. De deelnemers kunnen hun gegevens op verzoek van een of meer van hen, gezamenlijk analyseren ten behoeve van het doel, bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2025-07-05&g=2025-07-05).
 
@@ -298,7 +325,7 @@ Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel 
 
 - e. de wijze waarop de verbanden zichtbaar gemaakt worden.
 
-#### Artikel 2.8. Verstrekking van het resultaat
+##### Artikel 2.8. Verstrekking van het resultaat
 
 1. Het resultaat van de gegevensanalyse dat overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.7&z=2025-07-05&g=2025-07-05) wordt verstrekt, bestaat uit sturingsinformatie.
 
@@ -306,15 +333,15 @@ Als samenwerkingsverband in de zin van deze wet wordt aangewezen het Financieel 
 
 #### Paragraaf 2.2. Infobox Crimineel en Onverklaarbaar Vermogen (iCOV)
 
-#### Artikel 2.9. Aanwijzing
+##### Artikel 2.9. Aanwijzing
 
 Als samenwerkingsverband in de zin van deze wet wordt aangewezen de Infobox Crimineel en Onverklaarbaar Vermogen.
 
-#### Artikel 2.10. Doel
+##### Artikel 2.10. Doel
 
 Met het oog op het in kaart brengen van onverklaarbaar of crimineel vermogen, het bestrijden van witwas- of fraudeconstructies, het kunnen innen van overheidsvorderingen die oninbaar dreigen te worden en het uitoefenen van toezicht op de goede werking van de markt, verwerkt de Infobox Crimineel en Onverklaarbaar Vermogen in opdracht van een of meer deelnemers gegevens voor zover dat noodzakelijk is voor de uitoefening van publiekrechtelijke taken en bevoegdheden van de deelnemers.
 
-#### Artikel 2.11. Deelnemers
+##### Artikel 2.11. Deelnemers
 
 1. Als deelnemers van de Infobox Crimineel en Onverklaarbaar Vermogen worden aangewezen:
 
@@ -342,7 +369,7 @@ Met het oog op het in kaart brengen van onverklaarbaar of crimineel vermogen, he
 
 3. Een krachtens het eerste lid, onder j, vastgestelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat de inwerkingtreding van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 2.12. Verstrekking van gegevens aan het samenwerkingsverband
+##### Artikel 2.12. Verstrekking van gegevens aan het samenwerkingsverband
 
 1. Met het oog op de uitvoering van de activiteiten, bedoeld in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2025-07-05&g=2025-07-05), zijn de door de deelnemers te verstrekken categorieën gegevens:
 
@@ -372,7 +399,7 @@ Met het oog op het in kaart brengen van onverklaarbaar of crimineel vermogen, he
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de categorieën van gegevens, bedoeld in het eerste lid, en de bronnen van waaruit die gegevens afkomstig zijn en kunnen aanvullende categorieën gegevens worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.10](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.2&artikel=2.10&z=2025-07-05&g=2025-07-05). De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.13. Activiteiten
+##### Artikel 2.13. Activiteiten
 
 De Infobox Crimineel en Onverklaarbaar Vermogen kan de ontvangen gegevens op verzoek van een of meer deelnemers al dan niet met behulp van geautomatiseerde gegevensanalyse verwerken om:
 
@@ -384,7 +411,7 @@ De Infobox Crimineel en Onverklaarbaar Vermogen kan de ontvangen gegevens op ver
 
 - d. op basis van een rapportage als bedoeld onder c een rapportage als bedoeld onder a of b op te stellen (iRT compact).
 
-#### Artikel 2.14. Delegatiegrondslag
+##### Artikel 2.14. Delegatiegrondslag
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop indicatoren als bedoeld in [artikel 2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.2&artikel=2.13&z=2025-07-05&g=2025-07-05) worden vastgesteld, met inbegrip van regels over de kwaliteit van de hypothese waarop deze zijn gebaseerd.
 
@@ -402,7 +429,7 @@ De Infobox Crimineel en Onverklaarbaar Vermogen kan de ontvangen gegevens op ver
 
 - f. de vereiste kwaliteit van de gegevens die ten behoeve van de uit te voeren analyse worden verwerkt.
 
-#### Artikel 2.15. Verstrekking van het resultaat
+##### Artikel 2.15. Verstrekking van het resultaat
 
 1. Het resultaat dat overeenkomstig [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=1&artikel=1.7&z=2025-07-05&g=2025-07-05) wordt verstrekt, bestaat uit sturingsinformatie.
 
@@ -410,17 +437,17 @@ De Infobox Crimineel en Onverklaarbaar Vermogen kan de ontvangen gegevens op ver
 
 #### Paragraaf 2.3. De Regionale Informatie- en Expertisecentra
 
-#### Artikel 2.16. Aanwijzing
+##### Artikel 2.16. Aanwijzing
 
 1. Als samenwerkingsverbanden in de zin van deze wet worden aangewezen de Regionale Informatie- en Expertisecentra.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de territoriale werkgebieden van de Regionale Informatie- en Expertisecentra.
 
-#### Artikel 2.17. Doel
+##### Artikel 2.17. Doel
 
 De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor zover dat noodzakelijk is voor de uitoefening van de wettelijke taken en bevoegdheden van de deelnemers op het terrein van strafrechtelijke, bestuursrechtelijke en fiscaalrechtelijke handhaving in het belang van de bestrijding van georganiseerde criminaliteit.
 
-#### Artikel 2.18. Activiteiten
+##### Artikel 2.18. Activiteiten
 
 1. De Regionale Informatie- en Expertisecentra verrichten met oog op het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05), de volgende activiteiten ten behoeve van het bepalen en uitvoeren van gezamenlijke strategieën voor de uitoefening van de wettelijke taken en de inzet van hun wettelijke bevoegdheden door de deelnemers:
 
@@ -432,7 +459,7 @@ De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor 
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de activiteiten, bedoeld in het eerste lid, en kunnen aanvullende activiteiten, waaronder geautomatiseerde gegevensanalyse, worden aangewezen, voor zover die noodzakelijk zijn voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 2.19. Deelnemers
+##### Artikel 2.19. Deelnemers
 
 1. Als deelnemers worden aangewezen:
 
@@ -464,19 +491,19 @@ De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen andere overheidsorganen of overheidsinstanties of private partijen als deelnemer worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05), en het om daarbij beschreven specifieke verwerkingen of onderdelen daarvan gaat. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. Een krachtens dit lid vastgestelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat de inwerkingtreding van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers van de Staten Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 2.20. Onderlinge gegevensuitwisseling
+##### Artikel 2.20. Onderlinge gegevensuitwisseling
 
 1. De deelnemers van een Regionaal Informatie- en Expertisecentrum kunnen, ter uitvoering van de activiteiten, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.18&z=2025-07-05&g=2025-07-05), gegevens uitwisselen met de deelnemers van de andere Regionale Informatie- en Expertisecentra voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05).
 
 2. Verstrekking van bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard aan de deelnemers van een ander Regionaal Informatie- en Expertisecentrum vindt uitsluitend plaats nadat de deelnemer of deelnemers die deze persoonsgegevens aan het Regionaal Informatie- en Expertisecentrum heeft of hebben verstrekt, hiermee heeft of hebben ingestemd.
 
-#### Artikel 2.21. Verwerking bijzondere categorieën van persoonsgegevens en burgerservicenummer
+##### Artikel 2.21. Verwerking bijzondere categorieën van persoonsgegevens en burgerservicenummer
 
 1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming kunnen de Regionale Informatie- en Expertisecentra, voor zover dit noodzakelijk is voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05), persoonsgegevens met betrekking tot iemands seksueel gedrag of seksuele gerichtheid verwerken. De deelnemers kunnen voor het doel, bedoeld in artikel 2.17, gebruikmaken van het burgerservicenummer, bedoeld in [artikel 1 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van verwerking van bijzondere categorieën van persoonsgegevens en het burgerservicenummer.
 
-#### Artikel 2.22. Verstrekking van gegevens aan het samenwerkingsverband
+##### Artikel 2.22. Verstrekking van gegevens aan het samenwerkingsverband
 
 1. Met het oog op de uitvoering van de activiteiten, bedoeld in [artikel 2.18](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.18&z=2025-07-05&g=2025-07-05), zijn de door de deelnemers aan het Regionaal Informatie- en Expertisecentrum te verstrekken categorieën gegevens:
 
@@ -540,7 +567,7 @@ De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor 
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de categorieën van gegevens en de concretisering daarvan, bedoeld in het eerste lid, de bronnen van waaruit die gegevens afkomstig zijn en kunnen aanvullende categorieën gegevens worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05). De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.23. Grondslag verwerken gegevens voor activiteiten
+##### Artikel 2.23. Grondslag verwerken gegevens voor activiteiten
 
 1. Een deelnemer kan bij een Regionaal Informatie- en Expertisecentrum een signaal dat verband houdt met het doel, bedoeld in [artikel 2.17](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.3&artikel=2.17&z=2025-07-05&g=2025-07-05), melden en daartoe gegevens verwerken.
 
@@ -576,17 +603,17 @@ De Regionale Informatie- en Expertisecentra verwerken uitsluitend gegevens voor 
 
 #### Paragraaf 2.4. Zorg- en Veiligheidshuizen
 
-#### Artikel 2.24. Aanwijzing
+##### Artikel 2.24. Aanwijzing
 
 1. Als samenwerkingsverbanden in de zin van deze wet worden aangewezen de Zorg- en Veiligheidshuizen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de territoriale werkgebieden van de Zorg- en Veiligheidshuizen.
 
-#### Artikel 2.25. Doel
+##### Artikel 2.25. Doel
 
 De Zorg- en Veiligheidshuizen verwerken bij de behandeling van complexe casuïstiek uitsluitend gegevens ten aanzien van een betrokkene voor zover dat noodzakelijk is voor de uitoefening, afstemming en coördinatie van de inzet van de wettelijke taken en bevoegdheden waarmee de deelnemers zijn belast en daaraan gerelateerde noodzakelijke werkzaamheden op het terrein van strafrechtelijke en bestuursrechtelijke handhaving alsmede begeleiding en zorg- en hulpverlening in het belang van het voorkomen, verminderen en bestrijden van criminaliteit en ernstige overlast en het voorkomen en verminderen van onveilige situaties voor personen of binnen een gebied.
 
-#### Artikel 2.26. Activiteiten
+##### Artikel 2.26. Activiteiten
 
 De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05), de volgende activiteiten:
 
@@ -594,7 +621,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 - b. het vaststellen van lijsten met geprioriteerde casussen ten behoeve van het bepalen en uitvoeren van een gezamenlijke strategie voor de uitoefening van de wettelijke taken en bevoegdheden waarmee de deelnemers zijn belast alsmede daaraan gerelateerde noodzakelijke werkzaamheden die worden verricht door de deelnemers.
 
-#### Artikel 2.27. Deelnemers
+##### Artikel 2.27. Deelnemers
 
 1. Als deelnemers worden aangewezen:
 
@@ -630,7 +657,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen andere overheidsorganen of overheidsinstanties of private partijen als deelnemer worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05). De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. Een krachtens dit lid vastgestelde algemene maatregel van bestuur wordt aan de beide Kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een van de Kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een van de Kamers de wens te kennen wordt gegeven dat de inwerkingtreding van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de Kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 2.28. Onderlinge gegevensuitwisseling
+##### Artikel 2.28. Onderlinge gegevensuitwisseling
 
 1. De deelnemers, bedoeld in [artikel 2.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.27&z=2025-07-05&g=2025-07-05), van een Zorg- en Veiligheidshuis die gegevens over een betrokkene verwerken ter uitvoering van de activiteiten, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.26&z=2025-07-05&g=2025-07-05), kunnen ter vaststelling of die betrokkene bekend is bij een ander Zorg- en Veiligheidshuis, identificerende en contactgegevens alsmede het burgerservicenummer van die betrokkene uitwisselen met de deelnemers, bedoeld in artikel 2.27, eerste lid, van een ander Zorg- en Veiligheidshuis voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05).
 
@@ -640,7 +667,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 4. Verstrekking van bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard aan de deelnemers, bedoeld in [artikel 2.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.27&z=2025-07-05&g=2025-07-05), van een ander Zorg- en Veiligheidshuis vindt uitsluitend plaats nadat de deelnemer of de deelnemers die deze persoonsgegevens aan het Zorg- en Veiligheidshuis heeft of hebben verstrekt, hiermee heeft of hebben ingestemd.
 
-#### Artikel 2.29. Verwerking bijzondere categorieën van persoonsgegevens en burgerservicenummer
+##### Artikel 2.29. Verwerking bijzondere categorieën van persoonsgegevens en burgerservicenummer
 
 1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, kunnen de deelnemers van de Zorg- en Veiligheidshuizen, voor zover dit noodzakelijk is voor het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05), persoonsgegevens over gezondheid verwerken. De deelnemers kunnen voor het doel, bedoeld in artikel 2.25, gebruikmaken van het burgerservicenummer, bedoeld in [artikel 1 van de Wet algemene bepalingen burgerservicenummer](https://wetten.overheid.nl/jci1.3:c:BWBR0022428&artikel=1).
 
@@ -650,7 +677,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de wijze van verwerking van bijzondere categorieën van persoonsgegevens en het burgerservicenummer.
 
-#### Artikel 2.30. Verstrekking van gegevens aan het samenwerkingsverband
+##### Artikel 2.30. Verstrekking van gegevens aan het samenwerkingsverband
 
 1. Met het oog op de uitvoering van de activiteiten, bedoeld in [artikel 2.26](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.26&z=2025-07-05&g=2025-07-05), zijn de door de deelnemers aan het Zorg- en Veiligheidshuis te verstrekken categorieën gegevens:
 
@@ -686,7 +713,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de categorieën van gegevens, bedoeld in het eerste lid, de concretisering daarvan, de bronnen van waaruit die gegevens afkomstig zijn, en kunnen aanvullende categorieën gegevens worden aangewezen, voor zover dat noodzakelijk is voor het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05). De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2.31. Grondslag activiteit casusoverleg
+##### Artikel 2.31. Grondslag activiteit casusoverleg
 
 1. Een deelnemer kan een casus voor overleg aanmelden bij een Zorg- en Veiligheidshuis naar aanleiding van gedragingen van een betrokkene of een situatie waarin een betrokkene verkeert, die verband houden met het doel, bedoeld in [artikel 2.25](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.25&z=2025-07-05&g=2025-07-05), en daartoe gegevens verwerken.
 
@@ -714,7 +741,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 13. Indien de deelnemers van een Zorg- en Veiligheidshuis ten aanzien van een aangemelde of in behandeling genomen casus aanleiding hebben om te vermoeden dat die casus in overeenstemming is met het doel van het casusoverleg ten behoeve van de persoonsgerichte aanpak van radicalisering en terroristische activiteiten, bedoeld in [artikel 2 van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=2), dan dragen die deelnemers er zorg voor dat de casus overeenkomstig [artikel 5, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0050740&artikel=5) voor overleg wordt aangemeld bij de politie, het openbaar ministerie of de burgemeester van de gemeente van verblijf van de betrokkene. Indien de casus op grond van artikel 5, vierde lid, van de Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten in behandeling wordt genomen door het casusoverleg als bedoeld in artikel 2 van die wet, dan vindt het onderhavige artikel 2.31 geen verdere toepassing.
 
-#### Artikel 2.32. Grondslag activiteit lijst geprioriteerde casussen
+##### Artikel 2.32. Grondslag activiteit lijst geprioriteerde casussen
 
 1. De deelnemers, bedoeld in [artikel 2.27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049962&hoofdstuk=2&paragraaf=2.4&artikel=2.27&z=2025-07-05&g=2025-07-05), stellen objectieve criteria vast op grond waarvan de casus van een betrokkene op de lijst met geprioriteerde casussen van een Zorg- en Veiligheidshuis wordt geplaatst en maken deze criteria openbaar.
 
@@ -728,7 +755,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 ### Hoofdstuk 3. Overige samenwerkingsverbanden
 
-#### Artikel 3.1. Aanwijzing samenwerkingsverbanden bij algemene maatregel van bestuur
+##### Artikel 3.1. Aanwijzing samenwerkingsverbanden bij algemene maatregel van bestuur
 
 1. Bij algemene maatregel van bestuur kunnen, indien de totstandkoming van een wet niet kan worden afgewacht, andere samenwerkingsverbanden worden aangewezen als samenwerkingsverband in de zin van deze wet, voor een bij deze algemene maatregel van bestuur omschreven doelstelling van zwaarwegend algemene belang inzake:
 
@@ -740,7 +767,7 @@ De Zorg- en Veiligheidshuizen verrichten met het oog op het doel, bedoeld in [ar
 
 2. Na de plaatsing in het Staatsblad van een krachtens het eerste lid vastgestelde algemene maatregel van bestuur wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Tweede Kamer der Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de beide Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel 3.2. Delegatiegrondslag
+##### Artikel 3.2. Delegatiegrondslag
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld over:
 
@@ -756,67 +783,67 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld over:
 
 ### Hoofdstuk 4. Wijziging van andere wetten
 
-#### Artikel 4.1. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
+##### Artikel 4.1. Wijziging [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463)
 
 Wijzigt de Wet politiegegevens.
 
-#### Artikel 4.2. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
+##### Artikel 4.2. Wijziging [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194)
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel 4.3. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
+##### Artikel 4.3. Wijziging [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368)
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel 4.4. Wijziging [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
+##### Artikel 4.4. Wijziging [Wet toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0019468)
 
 Wijzigt de Wet toezicht accountantsorganisaties.
 
-#### Artikel 4.5. Wijziging [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583)
+##### Artikel 4.5. Wijziging [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583)
 
 Wijzigt de Wet toezicht trustkantoren 2018.
 
-#### Artikel 4.6. Wijziging [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
+##### Artikel 4.6. Wijziging [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282)
 
 Wijzigt de Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel 4.7. Wijziging [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
+##### Artikel 4.7. Wijziging [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296)
 
 Wijzigt de Sanctiewet 1977.
 
-#### Artikel 4.8. Wijziging [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369)
+##### Artikel 4.8. Wijziging [Wet toezicht financiële verslaggeving](https://wetten.overheid.nl/jci1.3:c:BWBR0020369)
 
 Wijzigt de Wet toezicht financiële verslaggeving.
 
-#### Artikel 4.9. Wijziging [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586)
+##### Artikel 4.9. Wijziging [Wet handhaving consumentenbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020586)
 
 Wijzigt de Wet handhaving consumentenbescherming.
 
-#### Artikel 4.10. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
+##### Artikel 4.10. Wijziging [Pensioenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020809)
 
 Wijzigt de Pensioenwet.
 
-#### Artikel 4.11. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
+##### Artikel 4.11. Wijziging [Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0018831)
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel 4.12. Wijziging [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
+##### Artikel 4.12. Wijziging [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798)
 
 Wijzigt de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Evaluatiebepaling
+##### Artikel 5.1. Evaluatiebepaling
 
 1. Onze Minister van Justitie en Veiligheid zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.
 
 2. Het eerste lid is van overeenkomstige toepassing op algemene maatregelen van bestuur waarmee krachtens deze wet samenwerkingsverbanden worden aangewezen.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 5.3. Citeertitel
+##### Artikel 5.3. Citeertitel
 
 Deze wet wordt aangehaald als: Wet gegevensverwerking door samenwerkingsverbanden.
 

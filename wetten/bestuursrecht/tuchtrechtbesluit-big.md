@@ -1,13 +1,39 @@
 ---
-title: "Tuchtrechtbesluit BIG"
+title: "Besluit van 20 mei 1997, houdende regelen inzake tuchtrechtspraak en maatregelen wegens ongeschiktheid (Tuchtrechtbesluit BIG)"
 identifier: "BWBR0008688"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008688"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008688"
+soort: "AMvB"
+stam_id: "552113"
+version_id: "28449042"
+internal_id: "C40143751"
+label_id: "536614"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008688/2022-04-01/0"
+intitule_bron: "Stb.1997-238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-20"
+intitule_published: "1997-06-19"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.2022-97"
+original_signed_date: "2022-02-24"
+original_published_date: "2022-03-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2022-97"
+entry_into_force_date: "2022-02-24"
+jci_1_3: "jci1.3:c:BWBR0008688&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0008688&g=2022-04-01"
+citeertitel_status: "officieel"
+short_title: "Tuchtrechtbesluit BIG"
+signed_date: "2022-02-24"
+entry_into_force: "2022-02-24"
 ---
-
 # Besluit van 20 mei 1997, houdende regelen inzake tuchtrechtspraak en maatregelen wegens ongeschiktheid (Tuchtrechtbesluit BIG)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 15 juli 1996, nr. CSZ/BenO-966209, gedaan mede namens Onze Minister van Justitie;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### HOOFDSTUK 1. BEGRIPSBEPALING
 
-#### Artikel 1
+##### Artikel 1
 
 ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
@@ -30,7 +56,7 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 #### Paragraaf 1. Regionale tuchtcolleges
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het rechtsgebied van het regionale tuchtcollege dat is gevestigd te Amsterdam omvat de provincies Noord-Holland en Zuid-Holland.
 
@@ -38,13 +64,13 @@ ln dit besluit wordt verstaan onder «de wet»: de [Wet op de beroepen in de ind
 
 3. Het rechtsgebied van het regionale tuchtcollege dat is gevestigd te Zwolle omvat de provincies Drenthe, Flevoland, Friesland, Gelderland, Groningen en Overijssel.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 #### Paragraaf 2. Procedure in eerste aanleg
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het klaagschrift bevat:
 
@@ -70,11 +96,11 @@ Vervallen
 
 3. De secretaris van het tuchtcollege tekent onverwijld de datum van ontvangst op het klaagschrift aan.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=4&z=2022-04-01&g=2022-04-01), deelt het tuchtcollege de klager, indien deze bekend is, mede in hoeverre het klaagschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Van het verhandelde tijdens het vooronderzoek, bedoeld in artikel 66 van de wet, maakt degene die optreedt als secretaris, proces-verbaal op.
 
@@ -82,29 +108,29 @@ Indien het klaagschrift niet voldoet aan [artikel 4, eerste of tweede lid](https
 
 3. Het proces-verbaal wordt ondertekend door degene die het vooronderzoek verricht en degene die optreedt als secretaris.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De secretaris nodigt de klager en degene over wie is geklaagd, schriftelijk uit op de terechtzitting te verschijnen, onder mededeling van de plaats, de dag en het uur van aanvang van het onderzoek op de terechtzitting, de samenstelling van het tuchtcollege, de plaats waar en de tijdstippen waarop de processtukken ter inzage liggen, en de namen van de getuigen en de deskundigen die zijn uitgenodigd of opgeroepen.
 
 2. Bij de uitnodiging wordt een termijn van ten minste drie weken in acht genomen. Indien de inspecteur een verzoek als bedoeld in [artikel 65, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65) heeft gedaan, mag een kortere termijn in acht worden genomen. In dat geval bepaalt het tuchtcollege welke termijnen in plaats van die genoemd in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=9&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01), in acht moeten worden genomen. Van het verzoek van de inspecteur en van de door het tuchtcollege vastgestelde termijnen wordt door de secretaris mededeling gedaan in de uitnodiging.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De namen van de getuigen en de deskundigen die door de klager of degene over wie is geklaagd, zijn uitgenodigd of opgeroepen, worden ten minste een week vóór de terechtzitting aan de secretaris van het tuchtcollege meegedeeld. De secretaris brengt de klager en degene over wie is geklaagd, onverwijld op de hoogte van de namen van de getuigen en deskundigen die nog niet bij hen bekend zijn.
 
 2. Processtukken kunnen uiterlijk tot twee weken vóór de terechtzitting bij de secretaris worden ingediend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De samenstelling van het tuchtcollege blijft van de eerste behandeling ter terechtzitting af tot de beslissing in raadkamer onveranderd.
 
 2. Indien wijziging van de samenstelling noodzakelijk is, wordt de behandeling van de zaak op de terechtzitting opnieuw aangevangen. Artikel 8 is van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorzitter opent, leidt en sluit de terechtzitting.
 
@@ -112,11 +138,11 @@ Vervallen
 
 3. De voorzitter kan degene die tijdens de zitting de stilte of orde verstoort dan wel tekenen van goed- of afkeuring geeft, laten verwijderen.
 
-#### Artikel 12
+##### Artikel 12
 
 De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende de wijze waarop de zaak wordt behandeld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Alle verschenen getuigen en deskundigen worden gehoord. De voorzitter bepaalt de volgorde van het horen.
 
@@ -124,19 +150,19 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 3. Door tussenkomst van de voorzitter kunnen de klager en degene over wie is geklaagd, vragen stellen aan de getuigen en de deskundigen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het horen van de klager en degene over wie is geklaagd geschiedt door de voorzitter. De andere leden van het tuchtcollege kunnen eveneens vragen stellen.
 
 2. Door tussenkomst van de voorzitter kunnen de klager en degene over wie is geklaagd, elkaar vragen stellen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Van het verhandelde op de terechtzitting maakt de secretaris procesverbaal op. Artikel 6, tweede lid, is van overeenkomstige toepassing.
 
 2. Het proces-verbaal wordt ondertekend door de voorzitter en de secretaris.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het tuchtcollege beraadslaagt en beslist in raadkamer en grondt de uitspraak uitsluitend op hetgeen ter terechtzitting heeft plaatsgevonden en op de processtukken.
 
@@ -144,7 +170,7 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 3. Wanneer drie of meer opvattingen zijn gegeven, wordt beslist in de zin die het meest overeenkomt met de opvatting van de meerderheid.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onverminderd artikel 69, tweede en derde lid, van de wet, bevat de eindbeslissing van het tuchtcollege:
 
@@ -162,7 +188,7 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 3. Op het afschrift van de eindbeslissing, bedoeld in artikel 72, eerste lid, van de wet, wordt het rechtsmiddel vermeld dat tegen die beslissing voor de klager of degene over wie is geklaagd, openstaat.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het regionale tuchtcollege draagt ervoor zorg dat er ten minste acht dagen voor de dag van de behandeling van een zaak op een openbare terechtzitting of van een openbare uitspraak, in het gebouw waarin het tuchtcollege zitting houdt, een rollijst ter inzage ligt waarop is aangegeven de plaats, de dag en het uur van de openbare terechtzitting of uitspraak, met een aanduiding van de desbetreffende zaak.
 
@@ -170,7 +196,7 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 #### Paragraaf 3. Procedure in beroep
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het beroepschrift bevat:
 
@@ -186,23 +212,23 @@ De voorzitter beslist de ter terechtzitting voorkomende geschillen betreffende d
 
 4. Indien het beroepschrift is ingezonden bij het centrale tuchtcollege, wordt het onverwijld doorgezonden aan het desbetreffende regionale tuchtcollege, onder gelijktijdige mededeling hiervan aan degene die beroep heeft ingesteld. In het geval, bedoeld in de eerste volzin, geldt als datum van indiening van het beroepschrift die van indiening bij het centrale tuchtcollege.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De secretaris van het regionale tuchtcollege tekent onverwijld de datum van ontvangst op het beroepschrift aan en zendt de op de zaak betrekking hebbende processtukken zo spoedig mogelijk aan het centrale tuchtcollege.
 
 2. De secretaris van het regionale tuchtcollege stelt degenen die op grond van artikel 72, eerste lid, van de wet een afschrift van de eindbeslissing ontvangen, ervan in kennis dat tegen die beslissing beroep is ingesteld.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien het beroepschrift niet voldoet aan [artikel 19, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=3&artikel=19&z=2022-04-01&g=2022-04-01), deelt het centrale tuchtcollege aan de indiener van het beroep mede in hoeverre het beroepschrift onvolledig is en nodigt hem uit het verzuim binnen een bepaalde termijn te herstellen.
 
-#### Artikel 22
+##### Artikel 22
 
 Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01), [17 eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
 ### HOOFDSTUK 3. HERZIENING
 
-#### Artikel 23
+##### Artikel 23
 
 1. Herziening van een onherroepelijk geworden eindbeslissing als bedoeld in [artikel 52 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=52), wordt schriftelijk verzocht bij het centrale tuchtcollege door degene over wie was geklaagd.
 
@@ -210,11 +236,11 @@ Op de procedure in beroep zijn de[artikelen 6 tot en met 16](https://wetten.over
 
 3. Het verzoekschrift is ondertekend door de indiener van het verzoek, zijn advocaat of een andere gemachtigde.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=23&z=2022-04-01&g=2022-04-01), verklaart het centrale tuchtcollege bij met redenen omklede beslissing de indiener niet-ontvankelijk.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien geen toepassing wordt gegeven aan [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=24&z=2022-04-01&g=2022-04-01), gelast de voorzitter van het centrale tuchtcollege dat het verzoek verder wordt behandeld op een openbare terechtzitting op een door hem te bepalen dag.
 
@@ -222,13 +248,13 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 3. De indiener van het verzoek tot herziening en de oorspronkelijke klager, indien zijn adres hier te lande bekend is, worden ten minste drie weken voor de dag van de terechtzitting schriftelijk van die dag in kennis gesteld.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De rapporteur brengt op de terechtzitting zijn verslag uit, behelzende een overzicht van de relevante feiten en omstandigheden die uit de behandeling van de zaak die heeft geleid tot de eindbeslissing waarvan herziening is verzocht, en naar aanleiding van het verzoek tot herziening bekend zijn geworden. Daarna worden de indiener van het verzoek tot herziening en de oorspronkelijke klager door de voorzitter in de gelegenheid gesteld het woord te voeren. [Artikel 65e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=65e) is van overeenkomstige toepassing.
 
 2. Het centrale tuchtcollege bepaalt vervolgens de dag en de plaats van de uitspraak. De uitspraak vindt plaats op een openbare terechtzitting.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Van het verhandelde tijdens de terechtzitting maakt de secretaris van het centrale tuchtcollege proces-verbaal op.
 
@@ -238,13 +264,13 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 4. Met betrekking tot de behandeling op de terechtzitting zijn [de artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=10&z=2022-04-01&g=2022-04-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=11&z=2022-04-01&g=2022-04-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=12&z=2022-04-01&g=2022-04-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=16&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien het centrale tuchtcollege het verzoek tot herziening ongegrond acht, wijst het college dat bij met redenen omklede uitspraak af.
 
 2. De uitspraak wordt op schrift gesteld en bevat de namen van de voorzitter en de andere leden van het centrale tuchtcollege die de zaak hebben behandeld, en van de secretaris. Artikel 17, tweede lid, is van overeenkomstige toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien het centrale tuchtcollege het verzoek tot herziening gegrond acht, beveelt het de opschorting van de uitvoering van de eindbeslissing waarvan herziening is verzocht en verwijst het de zaak naar een regionaal tuchtcollege dat van de zaak nog geen kennis heeft genomen teneinde hetzij de desbetreffende eindbeslissing te handhaven, hetzij, met vernietiging daarvan, de klager niet-ontvankelijk te verklaren, de klacht af te wijzen dan wel de indiener van het verzoek tot herziening een minder zware maatregel op te leggen dan de bij de vernietigde eindbeslissing opgelegde maatregel.
 
@@ -254,7 +280,7 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 4. Bij de behandeling van de zaak door het aangewezen regionale tuchtcollege wordt aan de behandeling niet deelgenomen door leden die eerder bij de behandeling van de betreffende zaak waren betrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Van een bevel als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2022-04-01&g=2022-04-01), wordt een afschrift gezonden aan de indiener van het verzoek tot herziening, aan Onze Minister, aan de inspecteur wie de aangelegenheid uit hoofde van de aan hem toevertrouwde belangen aangaat, en, indien de indiener van het verzoek tot herziening een militair is, aan Onze Minister van Defensie.
 
@@ -262,13 +288,13 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 3. Van de aantekening van de opschorting in het register en de gelijkstelling, bedoeld in het tweede lid, tweede volzin, wordt aan de indiener van het verzoek om herziening schriftelijk mededeling gedaan.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Na de verwijzing, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=29&z=2022-04-01&g=2022-04-01), gelast de voorzitter van het regionale tuchtcollege waarnaar de zaak is verwezen, een vooronderzoek.
 
 2. De behandeling van de verwezen zaak vindt vervolgens plaats met overeenkomstige toepassing van de artikelen 65e, [66, eerste lid, tweede volzin, en tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=66), [67](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=67), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=68), [69, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69), [70](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=70), [71](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=71) en [72 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=72), en [6 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=18&z=2022-04-01&g=2022-04-01) van dit besluit, met dien verstande dat, voor zover in vorengenoemde artikelen verplichtingen van het tuchtcollege ten aanzien van de oorspronkelijke klager zijn opgenomen, deze slechts gelden indien zijn adres hier te lande bekend is. Voorts is [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01) van dit besluit van overeenkomstige toepassing, behoudens voor zover daarin wordt verwezen naar [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=69).
 
-#### Artikel 32
+##### Artikel 32
 
 1. Indien het regionale tuchtcollege in de verwezen zaak beslist dat de eindbeslissing waarbij een maatregel als bedoeld in artikel 48, eerste lid, onder **d**, **e** of **f**, of derde lid, van de wet was opgelegd, wordt gehandhaafd, verwijdert Onze Minister de aantekening van de opschorting, bedoeld in [artikel 30, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=3&artikel=30&z=2022-04-01&g=2022-04-01), zodra hij het afschrift van de beslissing heeft ontvangen.
 
@@ -278,11 +304,11 @@ Indien het verzoek tot herziening niet voldoet aan het vereiste, bedoeld in [art
 
 ### HOOFDSTUK 3a. HERSTEL
 
-#### Artikel 33
+##### Artikel 33
 
 De voordracht aan het regionale tuchtcollege tot het treffen van een voorziening als bedoeld in [artikel 79 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=79), wordt gedaan door de inspecteur van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Met betrekking tot de behandeling van een zaak door het regionale tuchtcollege zijn [de artikelen 6 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=6&z=2022-04-01&g=2022-04-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «de klager» en «degene over wie is geklaagd» telkens wordt gelezen «de inspecteur, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=4&artikel=33&z=2022-04-01&g=2022-04-01)» onderscheidenlijk «degene op wie de voordracht betrekking heeft» en dat in [artikel 17, eerste lid, onder **d**](https://wetten.overheid.nl/jci1.3:c:BWBR0008688&hoofdstuk=2&paragraaf=2&artikel=17&z=2022-04-01&g=2022-04-01), in plaats van «de klacht» wordt gelezen «de voordracht».
 
@@ -290,17 +316,17 @@ De voordracht aan het regionale tuchtcollege tot het treffen van een voorziening
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit wordt aangehaald als: Tuchtrechtbesluit BIG.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 32a
+##### Artikel 32a
 
 Voor de toepassing van [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=50) wordt voor zaken waar in hoogste instantie een maatregel is opgelegd door de voormalige regionale tuchtcolleges van Den Haag, Eindhoven en Groningen, advies ingewonnen bij de colleges van respectievelijk Amsterdam, ’s-Hertogenbosch en Zwolle.
 

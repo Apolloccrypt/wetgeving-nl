@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie"
 identifier: "BWBV0001329"
-categorie: "Milieu"
-publicatiedatum: 1998-04-08
-laatste_update: 1998-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001329"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-04-08"
+last_updated: "1998-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001329"
+soort: "verdrag"
+stam_id: "10000506793"
+version_id: "10000524962"
+internal_id: "C10010028021"
+label_id: "10000507074"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001329/1998-04-08/0"
+intitule_bron: "Trb.1998-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-04-08"
+intitule_published: "1998-01-12"
+intitule_in_force: "1998-04-29"
+intitule_status: "goed"
+original_publication: "Trb.1998-3"
+original_signed_date: "1998-04-08"
+original_published_date: "1998-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-3"
+entry_into_force_date: "1998-04-08"
+jci_1_3: "jci1.3:c:BWBV0001329&z=1998-04-08&g=1998-04-08"
+jci_1_0: "1.0:c:BWBV0001329&g=1998-04-08"
+citeertitel_status: "redactioneel"
+signed_date: "1998-04-08"
+entry_into_force: "1998-04-08"
 ---
-
 # Verdrag inzake luchtvervoer tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Russische Federatie
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ geleid door de wens een verdrag te sluiten met het doel luchtdiensten in te stel
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag betekenen de onderstaande begrippen het volgende:
 
@@ -48,11 +73,11 @@ Voor de toepassing van dit Verdrag betekenen de onderstaande begrippen het volge
 
 - II. de heffingen en voorwaarden voor alle bij zulk vervoer bijkomende diensten die door de luchtvaartmaatschappijen worden aangeboden.
 
-#### Artikel 2. Verlening van rechten
+##### Artikel 2. Verlening van rechten
 
 Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij de in dit Verdrag genoemde rechten met het oog op de instelling van internationale luchtdiensten op de overeengekomen diensten en omschreven routes.
 
-#### Artikel 3. Rechten
+##### Artikel 3. Rechten
 
 1. Een door elke Verdragsluitende Partij aangewezen luchtvaartmaatschappij heeft bij de exploitatie van een overeengekomen dienst op een omschreven route de volgende rechten:
 
@@ -68,7 +93,7 @@ Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij de in di
 
 4. Aspecten betreffende de exploitatie van de overeengekomen diensten worden – in de door de luchtvaartautoriteiten van de Verdragsluitende Partijen op grond van de nationale wetten en voorschriften vastgestelde mate – geregeld tussen de betrokken aangewezen luchtvaartmaatschappijen en, indien nodig, ter goedkeuring voorgelegd aan bovengenoemde autoriteiten.
 
-#### Artikel 4. Aanwijzing en vergunning
+##### Artikel 4. Aanwijzing en vergunning
 
 1. Elke Verdragsluitende Partij heeft het recht schriftelijk aan de andere Verdragsluitende Partij een luchtvaartmaatschappij of luchtvaartmaatschappijen aan te wijzen voor de exploitatie van overeengekomen luchtdiensten op de omschreven routes en een eerder aangewezen luchtvaartmaatschappij te vervangen door een andere luchtvaartmaatschappij.
 
@@ -80,7 +105,7 @@ Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij de in di
 
 5. Zodra een luchtvaartmaatschappij is aangewezen en haar de vergunning is verleend, kan zij een aanvang maken met de exploitatie van de overeengekomen nieuwe diensten waarvoor zij is aangewezen, mits ten aanzien van die dienst een in overeenstemming met de bepalingen van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001329&artikel=10&z=1998-04-08&g=1998-04-08) van dit Verdrag vastgesteld tarief van kracht is.
 
-#### Artikel 5. Intrekking en opschorting van een exploitatievergunning
+##### Artikel 5. Intrekking en opschorting van een exploitatievergunning
 
 1. Elke Verdragsluitende Partij heeft het recht een exploitatievergunning van een door de andere Verdragsluitende Partij aangewezen luchtvaartmaatschappij in te trekken of de uitoefening van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001329&artikel=3&z=1998-04-08&g=1998-04-08) van dit Verdrag genoemde rechten op te schorten of daaraan de voor de uitoefening van die rechten noodzakelijk geachte voorwaarden te verbinden:
 
@@ -92,7 +117,7 @@ Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij de in di
 
 2. Tenzij onmiddellijke intrekking of opschorting of het opleggen van voorwaarden, genoemd in het eerste lid van dit artikel, van wezenlijk belang is ter voorkoming van verdere inbreuken op wetten of voorschriften, worden deze rechten slechts uitgeoefend na overleg met de luchtvaartautoriteiten van de andere Verdragsluitende Partij. Zulk overleg vangt aan binnen een termijn van zestig (60) dagen na de datum van het verzoek ter zake.
 
-#### Artikel 6. Toepassing van wetten, voorschriften en procedures
+##### Artikel 6. Toepassing van wetten, voorschriften en procedures
 
 1. De wetten, voorschriften en procedures van een Staat van een Verdragsluitende Partij betreffende de toelating tot of het vertrek uit haar grondgebied van in internationale luchtdiensten gebruikte luchtvaartuigen of betreffende de exploitatie van en het vliegen met zodanige luchtvaartuigen dienen op haar grondgebied te worden toegepast op luchtvaartuigen van een door de andere Verdragsluitende Partij aangewezen luchtvaartmaatschappij.
 
@@ -100,25 +125,25 @@ Elke Verdragsluitende Partij verleent de andere Verdragsluitende Partij de in di
 
 3. Geen van beide Verdragsluitende Partijen begunstigt een andere luchtvaartmaatschappij ten opzichte van een aangewezen luchtvaartmaatschappij van de andere Verdragsluitende Partij bij de toepassing van de voorschriften van haar Staat inzake douane, immigratie, quarantaine en soortgelijke voorschriften, of bij het gebruik van luchthavens, luchtwegen, luchtverkeersdiensten en aanverwante voorzieningen waarover zij zeggenschap heeft.
 
-#### Artikel 7. Kosten
+##### Artikel 7. Kosten
 
 1. Kosten en heffingen voor het gebruik van elke luchthaven, waaronder begrepen installaties, technische en andere voorzieningen en diensten daarvan, alsmede kosten voor het gebruik van luchtvaartvoorzieningen, communicatievoorzieningen en -diensten worden in rekening gebracht in overeenstemming met de op het grondgebied van de Staat van elke Verdragsluitende Partij vastgestelde prijzen en tarieven.
 
 2. Kosten en heffingen die op het grondgebied van de Staat van een Verdragsluitende Partij met betrekking tot vluchten van een luchtvaartmaatschappij van de andere Verdragsluitende Partij in rekening worden gebracht voor het gebruik van luchthavens en andere luchtvaartvoorzieningen op het grondgebied van de Staat van eerstbedoelde Verdragsluitende Partij, mogen niet hoger zijn dan die welke in rekening worden gebracht met betrekking tot de vluchten van een andere luchtvaartmaatschappij die soortgelijke vluchten uitvoert.
 
-#### Artikel 8. Rechtstreekse doorreis
+##### Artikel 8. Rechtstreekse doorreis
 
 Passagiers, bagage en vracht die op doorreis zijn via het grondgebied van de Staat van een Verdragsluitende Partij en die de daarvoor gereserveerde zone van de luchthaven niet verlaten, worden slechts aan een vereenvoudigde controle onderworpen. Bagage en vracht op rechtstreekse doorreis zijn vrijgesteld van de heffing van douanerechten en andere belastingen. Wat betreft handbagage van passagiers die op rechtstreekse doorreis zijn in Nederland en andere EU-lidstaten als eindbestemming hebben, zijn de interne wetten en voorschriften van Nederland van toepassing.
 
 Kosten voor verleende diensten, opslag en de vervulling van douaneformaliteiten worden berekend overeenkomstig de interne wetten en voorschriften van de respectieve Staten van de Verdragsluitende Partijen.
 
-#### Artikel 9. Eerlijke concurrentie
+##### Artikel 9. Eerlijke concurrentie
 
 1. De aangewezen luchtvaartmaatschappijen van de Verdragsluitende Partijen worden op eerlijke en gelijke wijze in de gelegenheid gesteld de overeengekomen diensten op de omschreven routes tussen de grondgebieden van hun respectieve Staten te exploiteren.
 
 2. Elke Verdragsluitende Partij treft alle passende maatregelen binnen haar rechtsmacht ter bestrijding van alle vormen van discriminatie of oneerlijke concurrentiepraktijken die de concurrentiepositie van de luchtvaartmaatschappijen van de andere Verdragsluitende Partij nadelig beïnvloeden.
 
-#### Artikel 10. Tarieven
+##### Artikel 10. Tarieven
 
 1. De tarieven voor vervoer tussen de respectieve grondgebieden van de Staten van de Verdragsluitende Partijen dienen te zijn vastgesteld op een redelijk niveau, waarbij naar behoren rekening wordt gehouden met alle relevante factoren, waaronder begrepen de exploitatiekosten, een redelijke winst, kenmerken van de luchtvaartmaatschappij(en) (zoals het niveau van snelheid en dienstverlening) en de tarieven van andere luchtvaartmaatschappijen die een deel van de omschreven route exploiteren. Deze tarieven worden vastgesteld in overeenstemming met de onderstaande bepalingen van dit artikel.
 
@@ -138,7 +163,7 @@ Ingeval de termijn van voorlegging wordt bekort, zoals bepaald in het vijfde lid
 
 8. De aangewezen luchtvaartmaatschappijen van beide Verdragsluitende Partijen mogen geen tarieven in rekening brengen die afwijken van die welke in overeenstemming met de bepalingen van dit artikel zijn goedgekeurd.
 
-#### Artikel 11. Douanerechten, heffingen en kosten
+##### Artikel 11. Douanerechten, heffingen en kosten
 
 1. Luchtvaartuigen die voor overeengekomen diensten door een aangewezen luchtvaartmaatschappij van de ene Verdragsluitende Partij worden gebruikt, alsmede hun normale uitrustingsstukken, reserveonderdelen, voorraden brandstof en smeermiddelen, proviand (met inbegrip van etenswaren, dranken en tabaksartikelen), alsmede reclame- en promotie-materiaal dat zich aan boord van deze luchtvaartuigen bevindt, zijn vrijgesteld van alle douanerechten en andere heffingen bij aankomst op het grondgebied van de Staat van de andere Verdragsluitende Partij, mits deze uitrustingsstukken en voorraden aan boord van de luchtvaartuigen blijven totdat zij opnieuw worden uitgevoerd.
 
@@ -156,7 +181,7 @@ Kosten voor verleende diensten, opslag en de vervulling van douaneformaliteiten 
 
 4. Normale uitrustingsstukken, alsmede goederen, voorraden, proviand en reserveonderdelen aan boord van luchtvaartuigen die worden geëxploiteerd door een aangewezen luchtvaartmaatschappij van de ene Verdragsluitende Partij kunnen op het grondgebied van de Staat van de andere Verdragsluitende Partij slechts worden uitgeladen met toestemming van de douaneautoriteiten van die Verdragsluitende Partij. In dergelijke gevallen kunnen deze onder het toezicht van genoemde autoriteiten worden geplaatst totdat zij weer worden uitgevoerd of overeenkomstig de douanevoorschriften een andere bestemming hebben gekregen.
 
-#### Artikel 12. Overmaking
+##### Artikel 12. Overmaking
 
 1. Het staat de luchtvaartmaatschappijen van de Verdragsluitende Partijen vrij luchtvervoerdiensten met hun eigen vervoersbewijzen te verkopen op het grondgebied van de Staten van beide Verdragsluitende Partijen, hetzij rechtstreeks, hetzij via een agent, in iedere vrij inwisselbare valuta, in overeenstemming met de wetten en voorschriften van de desbetreffende Staat van de Verdragsluitende Partij.
 
@@ -166,11 +191,11 @@ In deze netto-overmaking zijn begrepen de baten uit verkopen, rechtstreeks of vi
 
 3. Bedoelde overmaking geschiedt in overeenstemming met de bepalingen van de overeenkomst waarin de financiële aangelegenheden van de Staten van de Verdragsluitende Partijen zijn geregeld. Bij gebreke van bedoelde overeenkomst of de desbetreffende bepalingen, geschiedt de overmaking in vrij inwisselbare valuta tegen de officiële wisselkoers in overeenstemming met de deviezenbepalingen van de Staten van de Verdragsluitende Partijen.
 
-#### Artikel 13. Vertegenwoordigingen
+##### Artikel 13. Vertegenwoordigingen
 
 De luchtvaartmaatschappijen van elke Verdragsluitende Partij wordt het recht verleend om op het grondgebied van de Staat van de andere Verdragsluitende Partij hun vertegenwoordigingen te vestigen met het noodzakelijke leidinggevende, administratieve, commerciële en technische personeel.
 
-#### Artikel 14. Veiligheid van de luchtvaart
+##### Artikel 14. Veiligheid van de luchtvaart
 
 1. Overeenkomstig hun rechten en verplichtingen ingevolge het internationale recht bevestigen de Verdragsluitende Partijen opnieuw dat hun verplichting jegens elkaar tot bescherming van de veiligheid van de burgerluchtvaart tegen daden van wederrechtelijke inmenging een wezenlijk deel van dit Verdrag uitmaakt. Zonder hun rechten en verplichtingen ingevolge het internationale recht in het algemeen te beperken, handelen de Verdragsluitende Partijen in het bijzonder in overeenstemming met de bepalingen van het [Verdrag inzake strafbare feiten en bepaalde andere handelingen begaan aan boord van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004659), ondertekend te Tokio op 14 september 1963, het [Verdrag tot bestrijding van het wederrechtelijk in zijn macht brengen van luchtvaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBV0004424), ondertekend te 's-Gravenhage op 16 december 1970, het [Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0003604), ondertekend te Montreal op 23 september 1971, het [Protocol tot bestrijding van wederrechtelijke daden van geweld op luchthavens voor de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002152), ondertekend te Montreal op 24 februari 1988, en de bepalingen van tussen de Verdragsluitende Partijen van kracht zijnde bilaterale overeenkomsten, alsmede hun later te ondertekenen overeenkomsten.
 
@@ -184,11 +209,11 @@ Elke Verdragsluitende Partij zorgt ervoor dat op doeltreffende wijze passende ma
 
 5. Wanneer zich een voorval voordoet van het wederrechtelijk in zijn macht brengen van een burgerluchtvaartuig of van andere wederrechtelijke gedragingen gericht tegen de veiligheid van burgerluchtvaartuigen, de passagiers en bemanning daarvan, luchthavens of luchtvaartvoorzieningen, of dreigt zich voor te doen, verlenen de Verdragsluitende Partijen elkaar bijstand door de verbindingen en andere passende maatregelen die zijn bedoeld om op snelle en veilige wijze een einde te maken aan zulk een voorval of de dreiging daarvan, te vergemakkelijken.
 
-#### Artikel 15. Overleg
+##### Artikel 15. Overleg
 
 Van tijd tot tijd vindt overleg plaats tussen de luchtvaartautoriteiten van de Verdragsluitende Partijen om te zorgen voor nauwe samenwerking betreffende alle aangelegenheden die van invloed zijn op de uitvoering van dit Verdrag.
 
-#### Artikel 16. Regeling van geschillen
+##### Artikel 16. Regeling van geschillen
 
 1. Indien tussen de Verdragsluitende Partijen een geschil ontstaat met betrekking tot de uitlegging of toepassing van dit Verdrag, trachten de Verdragsluitende Partijen dit in eerste instantie te regelen door middel van onderhandelingen tussen de luchtvaartautoriteiten van de Verdragsluitende Partijen.
 
@@ -208,23 +233,23 @@ Elke Verdragsluitende Partij draagt de kosten van de door haarzelf benoemde sche
 
 In alle overige opzichten stelt het scheidsgerecht zijn eigen procedure vast.
 
-#### Artikel 17. Wijziging
+##### Artikel 17. Wijziging
 
 Indien één van beide Verdragsluitende Partijen het wenselijk acht de bepalingen van dit Verdrag en de Bijlage hierbij te wijzigen, kan zij verzoeken om overleg tussen de luchtvaartautoriteiten van beide Verdragsluitende Partijen met betrekking tot de voorgestelde wijziging. Het overleg dient aan te vangen binnen een termijn van zestig (60) dagen na de datum van het verzoek, tenzij de luchtvaartautoriteiten van de Verdragsluitende Partijen besluiten tot verlenging van die termijn. Een door de Verdragsluitende Partijen overeengekomen wijziging van het Verdrag wordt van kracht op een in een diplomatieke-notawisseling vast te stellen datum, op voorwaarde dat de nationaal vereiste wettelijke procedures zijn voltooid. Wijziging van de Bijlage kan geschieden door middel van een overeenkomst tussen de luchtvaartautoriteiten van de Verdragsluitende Partijen.
 
-#### Artikel 18. Registratie bij de Internationale Burgerluchtvaartorganisatie
+##### Artikel 18. Registratie bij de Internationale Burgerluchtvaartorganisatie
 
 Dit Verdrag en alle latere wijzigingen daarop worden geregistreerd bij de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel 19. Beëindiging
+##### Artikel 19. Beëindiging
 
 Elk van de Verdragsluitende Partijen kan te allen tijde de andere Verdragsluitende Partij langs diplomatieke weg schriftelijk kennisgeving doen van haar besluit dit Verdrag te beëindigen. Deze kennisgeving wordt tegelijkertijd toegezonden aan de Internationale Burgerluchtvaartorganisatie. In dit geval treedt het Verdrag twaalf (12) maanden na de datum waarop de kennisgeving door de andere Verdragsluitende Partij is ontvangen buiten werking, tenzij de kennisgeving van beëindiging vóór het verstrijken van deze termijn wordt ingetrokken. Indien de andere Verdragsluitende Partij nalaat de ontvangst te bevestigen, wordt de kennisgeving geacht te zijn ontvangen veertien (14) dagen na de ontvangst van de kennisgeving door de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel 20. Toepasselijkheid
+##### Artikel 20. Toepasselijkheid
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het Rijk in Europa.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de datum van de laatste schriftelijke kennisgeving waarmee wordt bevestigd dat de Verdragsluitende Partijen aan al hun vereiste interne procedures voor de inwerkingtreding van dit Verdrag hebben voldaan.
 

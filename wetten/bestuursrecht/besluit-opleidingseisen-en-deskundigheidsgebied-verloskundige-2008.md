@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008"
+title: "Besluit van 3 juli 2008, houdende regels inzake de opleiding tot en de deskundigheid van de verloskundige (Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008)"
 identifier: "BWBR0024254"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024254"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024254"
+soort: "AMvB"
+stam_id: "9665043"
+version_id: "15599012"
+internal_id: "C21297201"
+label_id: "9642184"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024254/2023-01-01/0"
+intitule_bron: "Stb.2008-300"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-07-03"
+intitule_published: "2008-07-24"
+intitule_in_force: "2008-07-24"
+intitule_status: "goed"
+original_publication: "Stb.2008-300"
+original_signed_date: "2008-07-03"
+original_published_date: "2008-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-300"
+entry_into_force_date: "2008-09-01"
+jci_1_3: "jci1.3:c:BWBR0024254&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0024254&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008"
+signed_date: "2008-07-03"
+entry_into_force: "2008-09-01"
 ---
-
 # Besluit van 3 juli 2008, houdende regels inzake de opleiding tot en de deskundigheid van de verloskundige (Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 2 april 2008, MEVA/BO-2839188;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Titel
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding tot verloskundige die is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
 #### § 3. Opleiding
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een opleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01) duurt voltijds ten minste drie jaar en omvat ten minste 4.600 uur theoretisch en praktisch onderwijs, waarbij de duur van het klinisch onderwijs ten minste een derde van de minimumduur van de opleiding bedraagt.
 
@@ -106,7 +132,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 8. De onderwijsinstellingen die de opleiding verzorgen zijn gedurende het gehele studieprogramma verantwoordelijk voor de coördinatie tussen het theoretisch en praktisch onderwijs.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het aspect stellen van een diagnose gebaseerd op anamnese en onderzoek is zodanig ingericht dat de betrokkene in staat is tot:
 
@@ -294,7 +320,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 4. Deskundigheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot het gebied van deskundigheid van de verloskundige wordt gerekend het verrichten van handelingen op het gebied van de verloskunst en andere handelingen, gericht op een optimale uitkomst van de zwangerschap, het bevorderen en bewaken van het natuurlijke verloop van de zwangerschap, de bevalling en het kraambed, alsmede op het voorkomen van afwijkingen bij de vrouw of het kind, door het inschatten van het verloskundige risico bij een vrouw gedurende haar zwangerschap, bevalling en kraambed, het vertalen van het verloskundige risico in verloskundig beleid en het op basis daarvan verlenen van raad en bijstand, alsmede het daar waar nodig consulteren van dan wel verwijzen naar een arts.
 
@@ -342,21 +368,21 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene aan wie op grond van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) een getuigschrift is uitgereikt, behoudt op basis van dit getuigschrift het recht op inschrijving in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van verloskundigen.
 
 2. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0024254&paragraaf=4&artikel=5&z=2023-01-01&g=2023-01-01) blijven ten aanzien van de studenten die op 1 september 2008 de opleiding nog op de voet van het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) volgen, de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=2) en [12 tot en met 18 van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=12) van kracht, met dien verstande dat in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009025&artikel=13), in plaats van [richtlijn 80/155/EEG](31980L0155) gelezen wordt [richtlijn 2005/36/EG](32005L0036).
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Besluit opleidingseisen en deskundigheidsgebied verloskundige](https://wetten.overheid.nl/jci1.3:c:BWBR0009025) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 september 2008.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied verloskundige 2008.
 

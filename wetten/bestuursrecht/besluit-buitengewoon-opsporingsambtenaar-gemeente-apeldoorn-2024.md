@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Apeldoorn 2024"
+title: "Besluit van de Minister voor Rechtsbescherming van 15 maart 2024 nr. BOACAT2024/018, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Apeldoorn"
 identifier: "BWBR0049486"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-19
-laatste_update: 2024-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049486"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-19"
+last_updated: "2024-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049486"
+soort: "ministeriele-regeling"
+stam_id: "17056153"
+version_id: "30011002"
+internal_id: "C43020841"
+label_id: "16965564"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049486/2024-12-19/0"
+intitule_bron: "Stcrt.2024-8622"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-03-15"
+intitule_published: "2024-03-22"
+intitule_in_force: "2024-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-8622"
+original_signed_date: "2024-03-15"
+original_published_date: "2024-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-8622"
+entry_into_force_date: "2024-05-08"
+jci_1_3: "jci1.3:c:BWBR0049486&z=2024-12-19&g=2024-12-19"
+jci_1_0: "1.0:c:BWBR0049486&g=2024-12-19"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Apeldoorn 2024"
+signed_date: "2024-03-15"
+entry_into_force: "2024-05-08"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 15 maart 2024 nr. BOACAT2024/018, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij gemeente Apeldoorn
 
 Gelezen het verzoek van de gemeente Apeldoorn van 28 februari 2024 en de adviezen van de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,15 +52,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049486&artikel=2&z=2024-12-19&g=2024-12-19).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van controleur openbare ruimte in dienst van de gemeente Apeldoorn, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein I, Openbare ruimte, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -42,19 +68,19 @@ De personen, werkzaam in de functie van controleur openbare ruimte in dienst van
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op grond van dit besluit kunnen maximaal 40 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
 2. De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste, derde en vierde lid (vervoersfouillering) van de Politiewet2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van het vrijheidsbeperkend middel handboeien.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Oost-Nederland.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gemeente Apeldoorn brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -66,19 +92,19 @@ De personen, werkzaam in de functie van controleur openbare ruimte in dienst van
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049486&artikel=5&z=2024-12-19&g=2024-12-19) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049486&artikel=8&z=2024-12-19&g=2024-12-19) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Besluit buitengewoon opsporingsambtenaar gemeente Apeldoorn 2019 van 23 april 2019 nr. BOACAT2019/018 zal vervallen op 8 mei 2024.
 
 Dit besluit treedt in werking met ingang van 8 mei 2024 en vervalt met ingang van 8 mei 2029.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Apeldoorn 2024.
 

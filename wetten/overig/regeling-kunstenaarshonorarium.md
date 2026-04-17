@@ -1,16 +1,39 @@
 ---
-title: "Regeling kunstenaarshonorarium"
+title: "Experimenteerreglement kunstenaarshonorarium"
 identifier: "BWBR0039125"
-categorie: "Overig"
-publicatiedatum: 2024-06-28
-laatste_update: 2024-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039125"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-06-28"
+last_updated: "2024-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039125"
+soort: "zbo"
+stam_id: "13896193"
+version_id: "23846772"
+internal_id: "C34299541"
+label_id: "13860584"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039125/2024-06-28/0"
+intitule_bron: "Stcrt.2017-3597"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-01-23"
+intitule_in_force: "2017-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-3597"
+original_published_date: "2017-01-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-3597"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0039125&z=2024-06-28&g=2024-06-28"
+jci_1_0: "1.0:c:BWBR0039125&g=2024-06-28"
+citeertitel_status: "redactioneel"
+short_title: "Regeling kunstenaarshonorarium"
+entry_into_force: "2017-01-01"
 ---
-
 # Experimenteerreglement kunstenaarshonorarium
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - a. **Kunstenaarshonorarium:** de vergoeding voor werk in het kader van een tentoonstelling, los van een (on-)kostenvergoeding. Daarbij worden vergoedingen voor vijf deelprestaties onderscheiden:
 
@@ -48,7 +71,7 @@ bron: "https://wetten.overheid.nl/BWBR0039125"
 
 - e. **Beeldende kunstinstelling:** een in Nederland gevestigde publiekstoegankelijke organisatie die hedendaagse beeldende kunst tentoonstelt en het presenteren van beeldende kunst en/of erfgoed zonder verkoopdoel als kernactiviteit heeft.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een bijdrage kunstenaarshonorarium kan worden verstrekt aan een beeldende kunstinstelling die de kunstenaar voor de in [artikel 1 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=1&z=2024-06-28&g=2024-06-28) genoemde deelprestaties minimaal overeenkomstig de honoreringsrichtlijn honoreert.
 
@@ -68,11 +91,11 @@ bron: "https://wetten.overheid.nl/BWBR0039125"
 
 4. Een bijdrage wordt uitsluitend verstrekt als de hoogte van het honorarium minimaal 100% van de in de richtlijn genoemde beloning bedraagt.
 
-#### Artikel 3. Hoogte bijdrage
+##### Artikel 3. Hoogte bijdrage
 
 De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag kan slechts worden ingediend voor een tentoonstelling die binnen twaalf maanden na de aanvraag wordt opengesteld voor publiek.
 
@@ -94,13 +117,13 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 4. Een aanvraag voor een bijdrage van minder dan 100 euro wordt niet in behandeling genomen.
 
-#### Artikel 5. Besluit
+##### Artikel 5. Besluit
 
 1. Indien de aanvraag voldoet aan de bepalingen in dit reglement en indien het voor dit reglement bestemde budget niet is uitgeput, besluit het bestuur de bijdrage, waarvan de hoogte overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0039125&artikel=3&z=2024-06-28&g=2024-06-28) wordt vastgesteld, toe te kennen.
 
 2. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen acht weken beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager en aan de beeldend kunstenaar.
 
-#### Artikel 6. Aan de bijdrage verbonden verplichtingen
+##### Artikel 6. Aan de bijdrage verbonden verplichtingen
 
 1. De aanvrager verplicht zich facturen van de beeldend kunstenaar binnen één maand na factuurdatum te betalen.
 
@@ -116,7 +139,7 @@ De bijdrage bedraagt 50% van het in de richtlijn genoemde minimum bedrag.
 
 3. Naar aanleiding van een in het tweede lid bedoelde melding kan, al naar gelang de aard daarvan, de bijdrage lager of op nihil worden vastgesteld of kunnen nadere afspraken worden gemaakt over de aanpassing van de verplichtingen.
 
-#### Artikel 7. Slotbepalingen
+##### Artikel 7. Slotbepalingen
 
 1. In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 

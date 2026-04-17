@@ -1,92 +1,118 @@
 ---
-title: "Verzamelbesluit VWS 2020"
+title: "Besluit van 31 augustus 2020 tot wijziging van een aantal besluiten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde de orthopedagoog-generalist toe te voegen aan de begripsbepaling van geregistreerde professional en de naamswijziging van het AMHK en enkele andere wijzigingen door te voeren (Verzamelbesluit VWS 2020)"
 identifier: "BWBR0044069"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044069"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044069"
+soort: "AMvB"
+stam_id: "15624083"
+version_id: "27012032"
+internal_id: "C38221471"
+label_id: "15564314"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044069/2020-10-01/0"
+intitule_bron: "Stb.2020-321"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-31"
+intitule_published: "2020-09-09"
+intitule_in_force: "2020-09-09"
+intitule_status: "goed"
+original_publication: "Stb.2020-321"
+original_signed_date: "2020-08-31"
+original_published_date: "2020-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-321"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0044069&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0044069&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit VWS 2020"
+signed_date: "2020-08-31"
+entry_into_force: "2020-10-01"
 ---
-
 # Besluit van 31 augustus 2020 tot wijziging van een aantal besluiten op het terrein van het Ministerie van Volksgezondheid, Welzijn en Sport teneinde de orthopedagoog-generalist toe te voegen aan de begripsbepaling van geregistreerde professional en de naamswijziging van het AMHK en enkele andere wijzigingen door te voeren (Verzamelbesluit VWS 2020)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit actieve implantaten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit basisregistratie personen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit bevolkingsonderzoek.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit elektronische gegevensverwerking door zorgaanbieders.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit Jeugdwet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit kwaliteit gastouderbureaus, gastouders en voorzieningen voor gastouderopvang.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit kwaliteit kinderopvang.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit langdurige zorg.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit medische hulpmiddelen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit verplichte meldcode huiselijk geweld en kindermishandeling.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Eisenbesluit lichaamsmateriaal 2006.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Uitvoeringsbesluit Wmo 2015.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Besluit van 7 november 2019, houdende wijziging van het Besluit langdurige zorg en het Uitvoeringsbesluit Wmo 2015 aangaande de opvang van slachtoffers van eergerelateerd en huiselijk geweld zonder verblijfsvergunning en wijziging van enkele besluiten in verband met technische aanpassingen eigen bijdrage zorg en maatschappelijke ondersteuning (Stb. 2019, 418).
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Wijzigingsbesluit Besluit langdurige zorg en Uitvoeringsbesluit Wmo 2015 (verlaging vermogensinkomensbijtelling, verkorting overgangstermijnen voor de hoge en lage eigen bijdrage, de termijn waarover het CAK een eigen bijdrage mag opleggen, introduceren van een abonnementstarief voor maatwerkvoorzieningen en een grondslag voor uitzonderen eenmalige letselschadevergoedingen van het vermogen dat meetelt voor de vermogensinkomensbijtelling).
 
-#### Artikel XIX
+##### Artikel XIX
 
 Dit besluit treedt in werking op 1 oktober 2020 en werkt ten aanzien van [artikel IX, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0044069&artikel=IX&z=2020-10-01&g=2020-10-01), terug tot en met 1 januari 2019.
 
-#### Artikel XX
+##### Artikel XX
 
 Dit besluit wordt aangehaald als: Verzamelbesluit VWS 2020.
 

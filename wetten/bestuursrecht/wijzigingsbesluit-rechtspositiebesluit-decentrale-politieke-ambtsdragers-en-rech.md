@@ -1,24 +1,50 @@
 ---
-title: "Wijzigingsbesluit Rechtspositiebesluit decentrale politieke ambtsdragers en Rechtspositiebesluit Rijksvertegenwoordiger BES (verhoging diverse vergoedingen en harmonisatie rechtspositie decentrale politieke ambtsdragers)"
+title: "Besluit van 5 juli 2019, houdende wijziging van het Rechtspositiebesluit decentrale politieke ambtsdragers in verband met de verhoging van de vergoeding voor de werkzaamheden van raadsleden en de bezoldiging van de zittende burgemeester na afloop van de periode van opclassificatie van een gemeente, alsmede nadere wijziging van het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met de harmonisatie van de rechtspositie van decentrale politieke ambtsdragers"
 identifier: "BWBR0042417"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-12-01
-laatste_update: 2019-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042417"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-12-01"
+last_updated: "2019-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042417"
+soort: "AMvB"
+stam_id: "15123493"
+version_id: "25928612"
+internal_id: "C36942091"
+label_id: "15071454"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042417/2019-12-01/0"
+intitule_bron: "Stb.2019-260"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-05"
+intitule_published: "2019-07-17"
+intitule_in_force: "2019-07-17"
+intitule_status: "goed"
+original_publication: "Stb.2019-260"
+original_signed_date: "2019-07-05"
+original_published_date: "2019-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-260"
+entry_into_force_date: "2019-07-18"
+jci_1_3: "jci1.3:c:BWBR0042417&z=2019-12-01&g=2019-12-01"
+jci_1_0: "1.0:c:BWBR0042417&g=2019-12-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Rechtspositiebesluit decentrale politieke ambtsdragers en Rechtspositiebesluit Rijksvertegenwoordiger BES (verhoging diverse vergoedingen en harmonisatie rechtspositie decentrale politieke ambtsdragers)"
+signed_date: "2019-07-05"
+entry_into_force: "2019-07-18"
 ---
-
 # Besluit van 5 juli 2019, houdende wijziging van het Rechtspositiebesluit decentrale politieke ambtsdragers in verband met de verhoging van de vergoeding voor de werkzaamheden van raadsleden en de bezoldiging van de zittende burgemeester na afloop van de periode van opclassificatie van een gemeente, alsmede nadere wijziging van het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met de harmonisatie van de rechtspositie van decentrale politieke ambtsdragers
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Rechtspositiebesluit decentrale politieke ambtsdragers.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
-#### Artikel III
+##### Artikel III
 
 1. In dit artikel wordt verstaan onder «[Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006536)» het Rechtspositiebesluit raads- en commissieleden, zoals dat luidde op 31 december 2018.
 
@@ -32,7 +58,7 @@ Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 3. Degene die in de periode van 1 juli 2018 tot en met 31 december 2018 raadslid was, ontvangt eenmalig een aanvulling op de tegemoetkoming in de kosten van een ziektekostenverzekering als bedoeld in [artikel 11 van het Rechtspositiebesluit raads- en commissieleden](https://wetten.overheid.nl/jci1.3:c:BWBR0006536&artikel=11) die wordt berekend volgens de formule a(€ 0,38), waarbij «a» staat voor de duur dat betrokkene in de periode van 1 juli 2018 tot en met 31 december 2018 raadslid was, uitgedrukt in maanden, afgerond op decimalen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. In dit artikel wordt verstaan onder «[Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743)» het Rechtspositiebesluit burgemeesters, zoals dat luidde op 31 december 2018, en onder «inwonersklasse» de inwonersklasse waarin de desbetreffende gemeente was ingedeeld op grond van [artikel 5 van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=5).
 
@@ -58,7 +84,7 @@ Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 3. Dit artikel is van overeenkomstige toepassing op degene die in de periode van 1 juli 2018 tot en met 31 december 2018 op grond van [artikel 78 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=78) met de waarneming van het ambt van burgemeester was belast.
 
-#### Artikel V
+##### Artikel V
 
 1. In dit artikel wordt verstaan onder «[Rechtspositiebesluit wethouders](https://wetten.overheid.nl/jci1.3:c:BWBR0006743)» het Rechtspositiebesluit wethouders, zoals dat luidde op 31 december 2018, en onder «inwonersklasse» de inwonersklasse waarin de desbetreffende gemeente was ingedeeld op grond van [artikel 5 van het Rechtspositiebesluit burgemeesters](https://wetten.overheid.nl/jci1.3:c:BWBR0006743&artikel=5), zoals dat luidde op 31 december 2018.
 
@@ -84,11 +110,11 @@ Wijzigt het Rechtspositiebesluit Rijksvertegenwoordiger BES.
 
 3. De wethouder die gedurende de periode van 1 juli 2018 tot en met 31 december 2018 met toepassing van [artikel 36, tweede lid, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=36) de betrekking in deeltijd uitoefende, ontvangt de aanvulling, bedoeld in het tweede lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 36, vierde lid, van de Gemeentewet.
 
-#### Artikel VI
+##### Artikel VI
 
 [Artikel 5.1, twaalfde, veertiende en vijftiende lid, van het Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=5.1) geldt niet ten aanzien van raadsleden, burgemeesters en wethouders aan wie na 31 december 2018 op grond van [artikel 3.3.2 van het Rechtspositiebesluit decentrale politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0041522&artikel=3.3.2) informatie- en communicatievoorzieningen ter beschikking zijn gesteld.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

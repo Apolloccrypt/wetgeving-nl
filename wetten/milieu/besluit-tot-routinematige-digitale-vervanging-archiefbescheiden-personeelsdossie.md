@@ -1,13 +1,39 @@
 ---
-title: "Besluit tot routinematige digitale vervanging archiefbescheiden personeelsdossiers Ministerie van Infrastructuur en Waterstaat"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat van 4 december 2017, IENM/BSK-2017/299981, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, ministerie van Infrastructuur en Waterstaat (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers Infrastructuur en Waterstaat)"
 identifier: "BWBR0040442"
-categorie: "Milieu"
-publicatiedatum: 2017-12-23
-laatste_update: 2017-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040442"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-12-23"
+last_updated: "2017-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040442"
+soort: "ministeriele-regeling"
+stam_id: "14463033"
+version_id: "24741662"
+internal_id: "C35400551"
+label_id: "14423464"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040442/2017-12-23/0"
+intitule_bron: "Stcrt.2017-70901"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-04"
+intitule_published: "2017-12-22"
+intitule_in_force: "2017-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-70901"
+original_signed_date: "2017-12-04"
+original_published_date: "2017-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-70901"
+entry_into_force_date: "2017-12-23"
+jci_1_3: "jci1.3:c:BWBR0040442&z=2017-12-23&g=2017-12-23"
+jci_1_0: "1.0:c:BWBR0040442&g=2017-12-23"
+citeertitel_status: "officieel"
+short_title: "Besluit tot routinematige digitale vervanging archiefbescheiden personeelsdossiers Ministerie van Infrastructuur en Waterstaat"
+signed_date: "2017-12-04"
+entry_into_force: "2017-12-23"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat van 4 december 2017, IENM/BSK-2017/299981, inzake de routinematige digitale vervanging archiefbescheiden personeelsdossiers, ministerie van Infrastructuur en Waterstaat (Besluit routinematige digitale vervanging archiefbescheiden personeelsdossiers Infrastructuur en Waterstaat)
 
 Gelet op:
@@ -22,7 +48,7 @@ het [Besluit van de minister van Verkeer en Waterstaat van 9 december 2009, nr. 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Over te gaan tot routinematige vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van het **BSD ‘Mens en Werk’** voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
@@ -30,11 +56,11 @@ Besluit:
 
 3. De [Regeling van de Minister van Infrastructuur en Milieu, van 8 november 2013, nr. IENM/BSK-2013/263406 Digitale vervanging personeelsdossiers Ministerie van Infrastructuur en Milieu](https://wetten.overheid.nl/jci1.3:c:BWBR0034201) wordt ingetrokken.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dag van bekendmaking van dit besluit in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit tot routinematige digitale vervanging archiefbescheiden personeelsdossiers Ministerie van Infrastructuur en Waterstaat.
 

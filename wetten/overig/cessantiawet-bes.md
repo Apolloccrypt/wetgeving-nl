@@ -1,18 +1,44 @@
 ---
 title: "Cessantiawet BES"
 identifier: "BWBR0028304"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028304"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028304"
+soort: "wet-BES"
+stam_id: "10747533"
+version_id: "18044822"
+internal_id: "C25417211"
+label_id: "10722324"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028304/2025-01-01/0"
+intitule_bron: "Stb.2010-605"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-15"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0028304&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0028304&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-05-17"
+entry_into_force: "2011-01-01"
 ---
-
 # Cessantiawet BES
 
 ## Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ## Vaststelling van het weekloon
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat, zoals provisie, commissie, tantième, fooien of vergoedingen voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van [artikel 6C van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=6c).
 
@@ -48,7 +74,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ## Cessantia-uitkering
 
-#### Artikel 3
+##### Artikel 3
 
 1. De werknemer wiens dienstbetrekking eindigt, anders dan door zijn schuld of door een aan hem toe te rekenen omstandigheid, wordt door de werkgever een eenmalige uitkering toegekend, gebaseerd op het laatstgenoten loon, waarvan de hoogte als volgt wordt berekend:
 
@@ -70,13 +96,13 @@ Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maa
 
 6. Het vorderingsrecht van de gewezen werknemer op de cessantia-uitkering jegens de werkgever verjaart na verloop van één jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien geen of geen tijdige betaling geschiedt van de cessantia-uitkering ten laste van een werkgever, die in staat van faillissement is verklaard of aan wie surséance van betaling is verleend, kan de werknemer jegens Onze Minister aanspraak maken op de cessantia-uitkering; met dien verstande dat bij de berekening van de door Onze Minister toe te kennen cessantia-uitkering het weekloon in aanmerking genomen wordt voor zover dit niet een normbedrag overschrijdt, gelijk aan anderhalf maal het weekloon dat wordt afgeleid uit de dagloonbedragen zoals deze op grond van [artikel 8, tweede lid, van de Wet ziekteverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028728&artikel=8) zijn of zullen worden vastgesteld. Indien het normbedrag niet is een getal in hele dollars en deelbaar door vijf, wordt het gesteld op het naast hogere bedrag dat aan deze voorwaarden voldoet.
 
 2. Onze Minister kan beslissen dat het bepaalde in het eerste lid overeenkomstige toepassing vindt indien een werkgever verkeert in de toestand dat hij heeft opgehouden te betalen, terwijl hij niet of nog niet in staat van faillissement is verklaard en hem geen of nog geen surséance van betaling is verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De cessantia-uitkering wordt op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) aan de gewezen werknemer op zijn verzoek door Onze Minister toegekend, dan wel, bij zijn overlijden, aan zijn nagelaten betrekkingen op hun verzoek door de werkgever of op grond van artikel 4 door Onze Minister toegekend, mits het verzoek binnen twaalf maanden na het einde van de dienstbetrekking bij de werkgever dan wel Onze Minister is ingediend. Met het einde van de dienstbetrekking wordt voor de toepassing van dit lid gelijkgesteld een in kracht van gewijsde gegane rechterlijke uitspraak waarbij een dienstbetrekking als geëindigd wordt verklaard.
 
@@ -100,11 +126,11 @@ Voor de berekening van gehele dienstjaren geldt een periode van meer dan zes maa
 
 ## Uitvoering
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.
 
@@ -122,7 +148,7 @@ Vervallen
 
 8. Ten laste van het Rijk, komen de door Onze Minister verstrekte uitkeringen en alle kosten verbonden aan de uitvoering van deze wet.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister treedt voor het bedrag van een door Onze Minister verstrekte cessantia-uitkering in de rechten van de werknemer op de cessantia-uitkering ten opzichte van de werkgever.
 
@@ -130,13 +156,13 @@ Vervallen
 
 ## Beroep
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 ## Vorderingen en aansprakelijkheid
 
-#### Artikel 10
+##### Artikel 10
 
 1. De cessantia-uitkeringen op grond van deze wet, die niet zijn ingevorderd binnen twee jaar na de eerste dag waarop zij konden worden ingevorderd, worden niet meer uitbetaald.
 
@@ -156,7 +182,7 @@ Vervallen
 
 ## Uitvoering en toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze wet wordt uitgevoerd door Onze Minister, met dien verstande, dat de heffing van de premie geschiedt door de inspecteur en dat de invordering daarvan geschiedt door de ontvanger.
 
@@ -168,23 +194,23 @@ Vervallen
 
 5. Degene aan wie door Onze Minister een cessantia-uitkering als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=4&z=2025-01-01&g=2025-01-01) geheel of gedeeltelijk ten onrechte betaalbaar is gesteld of uitbetaald, geeft onverwijld hiervan kennis aan Onze Minister. Hij is verplicht het ten onrechte genotene op eerste vordering van Onze Minister terug te betalen. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=8&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 Ter uitvoering van deze wet kunnen bij algemene maatregel van bestuur nadere regels worden gesteld.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn de bij ministeriële regeling aangewezen functionarissen belast.
 
 2. [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van toepassing, met uitzondering van de [artikelen 5.18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5.19](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 13
+##### Artikel 13
 
 Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en van de formaliteit van registratie.
 
 ## Strafbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Hij die opzettelijk inlichtingen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=11&z=2025-01-01&g=2025-01-01) onjuist verstrekt, dan wel een valse verklaring aan Onze Minister aflegt, wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de derde categorie.
 
@@ -196,19 +222,19 @@ Alle op grond van deze wet opgemaakte of overgelegde stukken, verzoekschriften e
 
 ## Strafbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Indien een werknemer op grond van een op 19 juli 1983 geldende regeling of toezegging aanspraak kan maken op een uitkering ineens wordt de cessantia-uitkering in mindering gebracht op deze uitkering.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet wordt aangehaald als: Cessantiawet BES.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028304&artikel=7&z=2025-01-01&g=2025-01-01) en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII) van overeenkomstige toepassing.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een beperking worden gegeven ten aanzien van degene die als werknemer wordt beschouwd:
 
@@ -234,7 +260,7 @@ Bij of krachtens algemene maatregel van bestuur kan een uitbreiding dan wel een 
 
 ## Overgangs- en slotbepalingen
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 

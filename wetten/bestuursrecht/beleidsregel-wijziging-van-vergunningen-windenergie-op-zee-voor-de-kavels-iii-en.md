@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid)"
+title: "Beleidsregel van de Minister van Economische Zaken en Klimaat van 5 maart 2019, nr. WJZ/19040222, houdende beleidsregel inzake de wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid)"
 identifier: "BWBR0041980"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-03-08
-laatste_update: 2019-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041980"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-03-08"
+last_updated: "2019-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041980"
+soort: "beleidsregel"
+stam_id: "15017273"
+version_id: "25725812"
+internal_id: "C36693111"
+label_id: "14966994"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041980/2019-03-08/0"
+intitule_bron: "Stcrt.2019-13503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-05"
+intitule_published: "2019-03-07"
+intitule_in_force: "2019-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-13503"
+original_signed_date: "2019-03-05"
+original_published_date: "2019-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-13503"
+entry_into_force_date: "2019-03-08"
+jci_1_3: "jci1.3:c:BWBR0041980&z=2019-03-08&g=2019-03-08"
+jci_1_0: "1.0:c:BWBR0041980&g=2019-03-08"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid)"
+signed_date: "2019-03-05"
+entry_into_force: "2019-03-08"
 ---
-
 # Beleidsregel van de Minister van Economische Zaken en Klimaat van 5 maart 2019, nr. WJZ/19040222, houdende beleidsregel inzake de wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid)
 
 Gelet op [artikel 17, vierde lid van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** Wet windenergie op zee.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel is van toepassing op de wijziging op aanvraag van een vergunning die overeenkomstig [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=22) is verleend voor kavel III of kavel IV, als bedoeld in [artikel 1 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041607&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvraag gaat vergezeld van een toelichting die inzichtelijk maakt wat de invloed van de beoogde wijziging van de vergunning is op:
 
@@ -58,7 +84,7 @@ Deze beleidsregel is van toepassing op de wijziging op aanvraag van een vergunni
 
 - d. het type turbine.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister wijzigt de vergunning indien de wijziging van de vergunning leidt tot de realisatie of exploitatie van een windpark:
 
@@ -68,11 +94,11 @@ De minister wijzigt de vergunning indien de wijziging van de vergunning leidt to
 
 - c. waarvan een vergunningsaanvraag bij de rangschikking een gelijke of hogere waardering in punten zou hebben opgeleverd bij de toepassing van [artikel 5, eerste lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0041607&artikel=5).
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel wijziging van vergunningen windenergie op zee voor de kavels III en IV Hollandse Kust (zuid).
 

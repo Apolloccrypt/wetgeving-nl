@@ -1,14 +1,41 @@
 ---
-title: "Wet toetreding zorgaanbieders"
+title: "Wet van 10 juni 2020, houdende regels in verband met de uitbreiding van het toezicht op nieuwe zorgaanbieders (Wet toetreding zorgaanbieders)"
 identifier: "BWBR0043797"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043797"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043797"
+soort: "wet"
+stam_id: "15543023"
+version_id: "26853242"
+internal_id: "C39345171"
+label_id: "15485174"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043797/2025-07-05/0"
+intitule_bron: "Stb.2020-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-10"
+intitule_published: "2020-06-19"
+intitule_in_force: "2021-07-14"
+intitule_status: "goed"
+original_publication: "Stb.2020-180"
+original_signed_date: "2020-06-10"
+original_published_date: "2020-06-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "34767"
+original_url_id: "stb-2020-180"
+entry_into_force_date: "2022-01-01"
+jci_1_3: "jci1.3:c:BWBR0043797&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0043797&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet toetreding zorgaanbieders"
+signed_date: "2020-06-10"
+entry_into_force: "2022-01-01"
 ---
-
-# Wet toetreding zorgaanbieders
+# Wet van 10 juni 2020, houdende regels in verband met de uitbreiding van het toezicht op nieuwe zorgaanbieders (Wet toetreding zorgaanbieders)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -46,7 +73,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 1. Meldplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De zorgaanbieder die zorg als bedoeld bij of krachtens de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) wil gaan verlenen of laten verlenen, zorgt ervoor dat de verlening van die zorg niet eerder aanvangt dan nadat hij dit aan Onze Minister heeft gemeld.
 
@@ -56,7 +83,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 2. Bestuursstructuur
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een zorgaanbieder die op grond van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) dient te beschikken over een toelatingsvergunning voldoet aan de volgende eisen omtrent de bestuursstructuur:
 
@@ -84,7 +111,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 3. Toelatingsvergunning
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een instelling beschikt over een toelatingsvergunning van Onze Minister voor zover deze:
 
@@ -98,7 +125,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. Bij algemene maatregel van bestuur kunnen categorieën van zorgaanbieders worden aangewezen waarop het eerste lid niet van toepassing is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister weigert de toelatingsvergunning indien de krachtens [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), te verstrekken bescheiden en gegevens niet volledig worden aangeleverd.
 
@@ -122,13 +149,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 6. Voordat toepassing wordt gegeven aan het vijfde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=8), om een advies als bedoeld in [artikel 9 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) worden gevraagd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten die samenhangen met het in behandeling nemen van de aanvraag en de afgifte van de toelatingsvergunning worden ten laste gebracht van de aanvrager van de toelatingsvergunning.
 
 2. De hoogte van de kosten wordt bij ministeriële regeling vastgesteld. Daarbij kan onderscheid worden gemaakt tussen verschillende categorieën van zorgaanbieders.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan de toelatingsvergunning intrekken, indien:
 
@@ -148,31 +175,31 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 4. Gegevensuitwisseling en -verwerking
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister verstrekt aan de Wlz-uitvoerders als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) respectievelijk de zorgverzekeraars als bedoeld in de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) met het oog op de vervulling van hun bij of krachtens de Wet langdurige zorg of de Zorgverzekeringswet geregelde taken respectievelijk de uit hun zorgverzekeringen voortvloeiende verplichtingen het nummer van inschrijving bij de Kamer van Koophandel van de zorgaanbieder die een melding als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), heeft gedaan.
 
 2. Het eerste lid is van overeenkomstige toepassing op zorgaanbieders aan wie een toelatingsvergunning is verleend of van wie de toelatingsvergunning wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister kan persoonsgegevens, waaronder persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.2 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken voor zover die verwerking noodzakelijk is voor de weigering dan wel de intrekking van de toelatingsvergunning.
 
-#### Artikel 10
+##### Artikel 10
 
 De Inspectie gezondheidszorg en jeugd en de Nederlandse zorgautoriteit verstrekken Onze Minister uit eigen beweging of desgevraagd alle gegevens, waaronder persoonsgegevens als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=4&artikel=9&z=2025-07-05&g=2025-07-05), die voor Onze Minister van belang zijn voor de weigering dan wel intrekking van een toelatingsvergunning.
 
 ### Hoofdstuk 3. Toezicht en handhaving
 
-#### Artikel 11
+##### Artikel 11
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=2&artikel=3&z=2025-07-05&g=2025-07-05) en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05).
 
@@ -182,13 +209,13 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 ### Hoofdstuk 4. Overgangsrecht
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien een instelling op het tijdstip van inwerkingtreding van deze wet in het bezit is van een toelating op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), zoals dat artikel luidde direct voorafgaand aan dat tijdstip, geldt die toelating als een toelatingsvergunning, indien deze instelling op grond van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) over een toelatingsvergunning dient te beschikken.
 
 2. Indien een instelling op het tijdstip van inwerkingtreding van deze wet in het bezit is van een toelating op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5), zoals dat artikel luidde direct voorafgaand aan dat tijdstip, vervalt die toelating indien die instelling niet op grond van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) over een toelatingsvergunning dient te beschikken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien een instelling op het tijdstip van inwerkingtreding van deze wet op grond van [artikel 1, derde lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1), zoals dat artikel luidde direct voorafgaand aan dat tijdstip, van rechtswege in het bezit is van een toelating, vraagt de instelling binnen twee jaar na inwerkingtreding van deze wet een toelatingsvergunning aan indien deze instelling op grond van het bepaalde bij of krachtens [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05) over een toelatingsvergunning dient te beschikken.
 
@@ -196,13 +223,13 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 3. Aan de aanvraag om een toelatingsvergunning zijn voor de zorgaanbieder, bedoeld in het eerste en tweede lid, in afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=6&z=2025-07-05&g=2025-07-05), gedurende bedoelde twee jaar geen kosten verbonden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Ten aanzien van aanvragen voor een toelating en bezwaar en beroep tegen een besluit dat op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) is genomen voor het tijdstip van inwerkingtreding van deze wet, is het recht zoals dat gold voorafgaand aan het tijdstip van inwerkingtreding van deze wet van toepassing. Indien naar aanleiding van de aanvraag of dat bezwaar of beroep de toelating wordt verleend is [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=4&artikel=14&z=2025-07-05&g=2025-07-05) van overeenkomstige toepassing.
 
 2. Indien op het tijdstip van inwerkintreding van deze wet nog beroep kon worden ingesteld of beroep was ingesteld tegen een besluit dat op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) is genomen, blijft de Afdeling bestuursrechtspraak van de Raad van State bevoegd om beroepen te behandelen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een zorgaanbieder die op het tijdstip van inwerkingtreding van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) van deze wet zorg als bedoeld bij of krachtens de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173) verleent of laat verlenen, voldoet binnen 6 maanden na dat tijdstip aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=1&artikel=2&z=2025-07-05&g=2025-07-05) bedoelde meldplicht.
 
@@ -210,29 +237,29 @@ Onze Minister is bevoegd tot oplegging van een last onder dwangsom ter handhavin
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Aanpassingswet Wet toetreding zorgaanbieders.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel 20
+##### Artikel 20
 
 Onze Minister zendt binnen 4 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet toetreding zorgaanbieders.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Een instelling die op het moment van inwerkingtreding van [artikel VIIIa, onderdeel A, van de Verzamelwet VWS 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0050314&artikel=VIIIa), ingevolge dit artikel voor het eerst over een toelatingsvergunning als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043797&hoofdstuk=2&paragraaf=3&artikel=4&z=2025-07-05&g=2025-07-05), moet beschikken, verkrijgt van rechtswege een toelatingsvergunning.
 

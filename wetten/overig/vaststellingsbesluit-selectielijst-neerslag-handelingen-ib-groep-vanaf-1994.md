@@ -1,13 +1,38 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen IB-Groep vanaf 1994"
 identifier: "BWBR0019780"
-categorie: "Overig"
-publicatiedatum: 2006-08-02
-laatste_update: 2006-08-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019780"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2006-08-02"
+last_updated: "2006-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019780"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "8546103"
+version_id: "13461382"
+internal_id: "C25319081"
+label_id: "8526434"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019780/2006-08-02/0"
+intitule_bron: "Stcrt.2006-146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-19"
+intitule_published: "2006-07-31"
+intitule_in_force: "2006-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-146"
+original_signed_date: "2006-04-19"
+original_published_date: "2006-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-146-p12-SC76098"
+entry_into_force_date: "2006-08-02"
+jci_1_3: "jci1.3:c:BWBR0019780&z=2006-08-02&g=2006-08-02"
+jci_1_0: "1.0:c:BWBR0019780&g=2006-08-02"
+citeertitel_status: "redactioneel"
+signed_date: "2006-04-19"
+entry_into_force: "2006-08-02"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen IB-Groep vanaf 1994
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,15 +41,15 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 28 februari 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst Informatie Beheer Groep, een instrument voor de selectie van de administratieve neerslag van het handelen van de IB-Groep vanaf 1994.’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De '[selectielijst voor de neerslag van de handelingen van de Informatie Beheer Groep (IBG) op het beleidsterrein Studiefinanciering over de periode vanaf 1994’, vastgesteld bij beschikking van R&B/OSTA/99/284 d.d. 09-03-1999 (Stcrt. 66 1999)](onbekend)' wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

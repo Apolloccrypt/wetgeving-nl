@@ -1,20 +1,43 @@
 ---
-title: "Beleidsregels levensgedragtoets"
+title: "Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake de beoordeling van het levensgedrag bij vergunningen voor de exploitatie van speelautomaten (Beleidsregels levensgedragtoets)"
 identifier: "BWBR0046555"
-categorie: "Overig"
-publicatiedatum: 2022-04-13
-laatste_update: 2022-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046555"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-13"
+last_updated: "2022-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046555"
+soort: "zbo"
+stam_id: "16327063"
+version_id: "28543132"
+internal_id: "C40275741"
+label_id: "16251974"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046555/2022-04-13/0"
+intitule_bron: "Stcrt.2022-9950"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-04-13"
+intitule_in_force: "2022-04-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9950"
+original_published_date: "2022-04-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9950"
+entry_into_force_date: "2022-04-13"
+jci_1_3: "jci1.3:c:BWBR0046555&z=2022-04-13&g=2022-04-13"
+jci_1_0: "1.0:c:BWBR0046555&g=2022-04-13"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregels levensgedragtoets"
+entry_into_force: "2022-04-13"
 ---
-
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake de beoordeling van het levensgedrag bij vergunningen voor de exploitatie van speelautomaten (Beleidsregels levensgedragtoets)
 
 gelet op [artikel 30h](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30h), [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30i), [30k](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30k) en [30l van de Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469&artikel=30l) en [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4) en [7 van het Speelautomatenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7),
 
 besluit de volgende beleidsregels vast te stellen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -34,7 +57,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - 8. **Wok:** [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
-#### Artikel 2. Toepassing
+##### Artikel 2. Toepassing
 
 1. De raad van bestuur voert in alle gevallen een levensgedragtoets uit:
 
@@ -46,11 +69,11 @@ In deze beleidsregels wordt verstaan onder:
 
 3. De raad van bestuur weigert een vergunning of trekt een vergunning in indien de aanvrager, de vergunninghouder, een bedrijfsleider of een beheerder van een exploitatie in enig opzicht van slecht levensgedrag is als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4), en [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7).
 
-#### Artikel 3. Slecht levensgedrag
+##### Artikel 3. Slecht levensgedrag
 
 Een aanvrager, vergunninghouder, bedrijfsleider of beheerder is in enig opzicht van slecht levensgedrag als, gelet op zijn betrokkenheid bij antecedenten, onvoldoende kan worden aangenomen dat hij zich in zijn functie zal gedragen op een wijze die als maatschappelijk aanvaardbaar wordt beschouwd.
 
-#### Artikel 4. Criteria
+##### Artikel 4. Criteria
 
 De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleider of beheerder van een exploitatie in enig opzicht van slecht levensgedrag is, als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=4), en [artikel 7 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0011373&artikel=7), op basis van:
 
@@ -62,7 +85,7 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 - 4. de relatie van de antecedenten met de vergunning en functie.
 
-#### Artikel 5. Antecedenten
+##### Artikel 5. Antecedenten
 
 1. Onder antecedenten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0046555&artikel=4&z=2022-04-13&g=2022-04-13) worden in ieder geval begrepen:
 
@@ -74,7 +97,7 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 2. De raad van bestuur kan ook andere overtredingen en ander handelen en nalaten dan in het eerste lid genoemd als antecedent bij de levensgedragtoets betrekken.
 
-#### Artikel 6. Betrokkenheid bij antecedenten
+##### Artikel 6. Betrokkenheid bij antecedenten
 
 1. Een (rechts)persoon was in ieder geval betrokken bij een antecedent als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046555&artikel=4&z=2022-04-13&g=2022-04-13), indien hij dit antecedent zelf heeft gepleegd.
 
@@ -86,7 +109,7 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 3. Onder zeggenschap wordt in ieder geval het stemrecht van aandeelhouders of leden begrepen. Directe en indirecte bestuurders van rechtspersonen met zeggenschap hebben ook zeggenschap.
 
-#### Artikel 7. Aannemelijkheid van antecedenten
+##### Artikel 7. Aannemelijkheid van antecedenten
 
 1. Het is voldoende aannemelijk dat een (rechts)persoon een strafbaar feit heeft gepleegd als bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046555&artikel=6&z=2022-04-13&g=2022-04-13), indien:
 
@@ -134,7 +157,7 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 - d. in een beschikking of voorgenomen beschikking als overtreder is aangemerkt.
 
-#### Artikel 8. Tijdsverloop
+##### Artikel 8. Tijdsverloop
 
 1. De raad van bestuur betrekt bij de levensgedragtoets in ieder geval de antecedenten waarvan voldoende aannemelijk is dat ze zijn begaan in de acht jaar voorafgaande aan de beslissing omtrent de vergunning.
 
@@ -144,7 +167,7 @@ De raad van bestuur stelt vast of een aanvrager, vergunninghouder, bedrijfsleide
 
 4. De tijd die is doorgebracht in detentie maakt niet dat de raad van bestuur antecedenten buiten beschouwing laat of minder zwaar meeweegt. Antecedenten die tot detentie hebben geleid, worden geacht zoveel tijd later gepleegd te zijn als tijd in detentie is doorgebracht.
 
-#### Artikel 9. Ernst van antecedenten
+##### Artikel 9. Ernst van antecedenten
 
 Bij de beoordeling van de ernst van een antecedent kan de raad van bestuur in ieder geval de volgende aspecten betrekken:
 
@@ -164,7 +187,7 @@ Bij de beoordeling van de ernst van een antecedent kan de raad van bestuur in ie
 
 - 8. de mate van schuld en/of opzet waarmee het antecedent is begaan.
 
-#### Artikel 10. Relatie met de vergunning en functie
+##### Artikel 10. Relatie met de vergunning en functie
 
 1. Aan de conclusie dat sprake is van slecht levensgedrag legt de raad van bestuur enkel antecedenten ten grondslag voor zover:
 
@@ -192,6 +215,6 @@ Bij de beoordeling van de ernst van een antecedent kan de raad van bestuur in ie
 
 3. Dat een antecedent in de privésfeer is gepleegd, verhindert niet dat de raad van bestuur het antecedent verder bij de levensgedragtoets betrekt.
 
-#### Artikel 11. Gewijzigd levensgedrag
+##### Artikel 11. Gewijzigd levensgedrag
 
 Indien gedragingen van een (rechts)persoon na het laatste antecedent waarbij hij betrokken was daar naar het oordeel van de raad van bestuur aanleiding toe geven, kan de raad van bestuur oordelen dat deze (rechts)persoon niet langer van slecht levensgedrag is.

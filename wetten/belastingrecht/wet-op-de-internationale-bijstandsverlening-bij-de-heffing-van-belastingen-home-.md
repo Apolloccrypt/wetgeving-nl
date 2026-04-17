@@ -1,13 +1,38 @@
 ---
 title: "Wet op de internationale bijstandsverlening bij de heffing van belastingen, home country rule, begrip rentebetaling"
 identifier: "BWBR0022450"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-08-31
-laatste_update: 2007-08-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022450"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2007-08-31"
+last_updated: "2007-08-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022450"
+soort: "beleidsregel"
+stam_id: "9194423"
+version_id: "14722022"
+internal_id: "C29358991"
+label_id: "9173174"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022450/2007-08-31/0"
+intitule_bron: "Stcrt.2007-166"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-09"
+intitule_published: "2007-08-29"
+intitule_in_force: "2007-08-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-166"
+original_signed_date: "2007-08-09"
+original_published_date: "2007-08-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-166-p14-SC81892"
+entry_into_force_date: "2007-08-31"
+jci_1_3: "jci1.3:c:BWBR0022450&z=2007-08-31&g=2007-08-31"
+jci_1_0: "1.0:c:BWBR0022450&g=2007-08-31"
+citeertitel_status: "redactioneel"
+signed_date: "2007-08-09"
+entry_into_force: "2007-08-31"
 ---
-
 # Wet op de internationale bijstandsverlening bij de heffing van belastingen, home country rule, begrip rentebetaling
 
 In dit besluit wordt het [besluit van 19 augustus 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018684), nr. CPP2005/1841M geactualiseerd. De [onderdelen 1](onbekend) en [2](onbekend) van laatstgenoemd besluit zijn vervallen in verband met codificering.

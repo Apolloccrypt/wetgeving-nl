@@ -1,13 +1,35 @@
 ---
-title: "Besluit uitsluiting aftrek omzetbelasting 1968"
+title: "Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiting aftrek omzetbelasting 1968"
 identifier: "BWBR0002636"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-02-23
-laatste_update: 2019-02-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002636"
+country: "nl"
+rank: "kb"
+publication_date: "2019-02-23"
+last_updated: "2019-02-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002636"
+soort: "KB"
+stam_id: "1150823"
+version_id: "1701362"
+internal_id: "C1701361"
+label_id: "1115654"
+dtd_version: "2.0"
+original_entry_into_force: "1969-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002636/2019-02-23/0"
+intitule_bron: "Stb.1968-473"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1968-09-23"
+intitule_status: "goed"
+original_publication: "Stb.1968-473"
+original_signed_date: "1968-09-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1969-01-01"
+jci_1_3: "jci1.3:c:BWBR0002636&z=2019-02-23&g=2019-02-23"
+jci_1_0: "1.0:c:BWBR0002636&g=2019-02-23"
+citeertitel_status: "officieel"
+short_title: "Besluit uitsluiting aftrek omzetbelasting 1968"
+signed_date: "1968-09-23"
+entry_into_force: "1969-01-01"
 ---
-
 # Besluit van 23 september 1968, tot vaststelling van het Besluit uitsluiting aftrek omzetbelasting 1968
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 september 1968, nr. D 68/6240, directie Wetgeving Douane en Verbruiksbelastingen;
@@ -16,7 +38,7 @@ Gelet op [artikel 16 van de Wet op de omzetbelasting 1968](https://wetten.overhe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De in [artikel 15, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=15) bedoelde aftrek wordt uitgesloten in de gevallen waarin en voor zover de goederen en diensten worden gebezigd voor:
 
@@ -44,23 +66,23 @@ Hebben goedgevonden en verstaan:
 
 - d. outplacement ten behoeve van het personeel van de ondernemer.
 
-#### Artikel 2
+##### Artikel 2
 
 Ingeval de ondernemer ter zake van een prestatie als is bedoeld in [artikel 1, eerste lid, letter b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=1&z=2019-02-23&g=2019-02-23), een vergoeding in rekening heeft gebracht en deswege omzetbelasting is verschuldigd, wordt de aftrek niet uitgesloten tot het bedrag van de ter zake van die prestatie verschuldigde belasting.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien goederen en diensten door de ondernemer worden gebezigd ten behoeve van de verstrekking van spijzen en dranken aan zijn personeel en hij ter zake van die verstrekking minder in rekening heeft gebracht dan het in het tweede lid omschreven bedrag, wordt de aftrek uitgesloten tot 9 percent van het verschil tussen dat bedrag en hetgeen in rekening is gebracht.
 
 2. Het in het eerste lid bedoelde bedrag bestaat uit de aanschaffingskosten van de spijzen en dranken, de omzetbelasting niet daaronder begrepen, vermeerderd met 25 percent. Voor zover de ondernemer de spijzen en dranken zelf heeft vervaardigd, worden in plaats van de aanschaffingskosten van de spijzen en dranken de aanschaffingskosten van de grondstoffen in aanmerking genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien het totaal van de aanschaffings- of voortbrengingskosten dan wel de kostprijs, de omzetbelasting niet daaronder begrepen, van alle door de ondernemer in een boekjaar ten behoeve van eenzelfde belanghebbende verrichte prestaties als zijn bedoeld in [artikel 1, eerste lid, letters b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=1&z=2019-02-23&g=2019-02-23), en het op die belanghebbende betrekking hebbende deel van het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=3&z=2019-02-23&g=2019-02-23), bedoelde verschil niet meer bedraagt dan € 227, blijven die prestaties en dat deel van bedoeld verschil voor de toepassing van dit besluit buiten aanmerking.
 
 2. Bij het berekenen van het in het eerste lid bedoelde totaal blijft het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=3&z=2019-02-23&g=2019-02-23), bedoelde verschil buiten aanmerking, indien ter zake van het verstrekken van spijzen en dranken aan het personeel van de ondernemer uitsluiting van de aftrek heeft plaatsgevonden op de voet van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002636&artikel=3&z=2019-02-23&g=2019-02-23).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1969.
 

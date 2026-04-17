@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal"
 identifier: "BWBV0004442"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-02-01
-laatste_update: 2014-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004442"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-02-01"
+last_updated: "2014-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004442"
+soort: "verdrag"
+stam_id: "10004130273"
+version_id: "10004299092"
+internal_id: "C10006990821"
+label_id: "10004115384"
+dtd_version: "2.0"
+original_entry_into_force: "1962-09-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004442/2014-02-01/0"
+intitule_bron: "Trb.1961-46"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-05-18"
+intitule_in_force: "1962-10-11"
+intitule_status: "goed"
+original_publication: "Trb.1961-46"
+original_published_date: "1961-05-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-46"
+entry_into_force_date: "1962-09-07"
+jci_1_3: "jci1.3:c:BWBV0004442&z=2014-02-01&g=2014-02-01"
+jci_1_0: "1.0:c:BWBV0004442&g=2014-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-09-07"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot verbetering van de verbinding tussen het Julianakanaal en het Albertkanaal
 
 Hare Majesteit de Koningin der Nederlanden en
@@ -28,11 +50,11 @@ Zijne Excellentie de Heer P. Wigny, Minister van Buitenlandse Zaken;
 
 die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden verwezenlijkt volgens de bij dit Verdrag als bijlage I gevoegde tekening.
 
-#### Artikel 2
+##### Artikel 2
 
 § 1. — Om de in artikel 1 genoemde verbinding tot stand te brengen zullen de volgende werken worden uitgevoerd:
 
@@ -80,7 +102,7 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 2. — De Belgische Minister die de Bruggen en Wegen (Bestuur der waterwegen) onder zijn bevoegdheid heeft en de Nederlandse Minister die de Rijkswaterstaat onder zijn bevoegdheid heeft, zullen in onderlinge overeenstemming kunnen toestaan, dat bij de uitvoering der werken op ondergeschikte punten van technische aard wordt afgeweken van het bepaalde in de voorgaande paragraaf.
 
-#### Artikel 3
+##### Artikel 3
 
 § 1. — De Belgische Regering zal zorg dragen voor de uitvoering van de werken bedoeld in artikel 2, paragraaf 1, onder a), b), c), d) en e).
 
@@ -88,7 +110,7 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 3. — De genoemde Belgische Minister zal de genoemde Nederlandse Minister kennis geven van de gesloten aannemingscontracten en van eventueel daarin aangebrachte wijzigingen.
 
-#### Artikel 4
+##### Artikel 4
 
 § 1. — De Nederlandse Regering zal zorg dragen voor de uitvoering van de werken bedoeld in artikel 2, paragraaf 1, onder g), h) en i).
 
@@ -96,13 +118,13 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 3. — De bestekken en aanbestedingsbescheiden voor de werken beschreven in artikel 2, paragraaf 1, onder h) en i), alsmede de afwijkingen, aanvullingen of wijzigingen van de bepalingen van deze stukken, zullen door de genoemde Nederlandse Minister ter kennisneming worden toegezonden aan de genoemde Belgische Minister met gelijktijdige mededeling van de datum waarop deze werken zullen zijn uitgevoerd. Deze datum zal niet later liggen dan de uiterste datum voorzien voor het einde van de werken bedoeld in artikel 2, paragraaf 1, onder a), b), c), d) en e).
 
-#### Artikel 5
+##### Artikel 5
 
 § 1. — De genoemde Nederlandse en Belgische Ministers zullen in onderling overleg voor de uitvoering van de werken beschreven in artikel 2, paragraaf 1, onder f), zorg dragen door het sluiten van overeenkomsten met ondernemers van grintbaggerwerken.
 
 § 2. — De Hoge Verdragsluitende Partijen zullen elk op hun gebied zorg dragen voor de uitvoering van het bepaalde in artikel 2, paragraaf 1, onder j).
 
-#### Artikel 6
+##### Artikel 6
 
 § 1. — De kosten van de uitvoering der werken bedoeld in artikel 2, paragraaf 1, onder a), b), c), d), e) en g), zullen voor 20 % ten laste van Nederland komen en voor 80 % ten laste van België.
 
@@ -112,7 +134,7 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 4. — De kosten van de uitvoering der werken bedoeld in artikel 2, paragraaf 1, onder f) en j), zullen ten laste komen van de Staat op wiens grondgebied deze werken worden uitgevoerd.
 
-#### Artikel 7
+##### Artikel 7
 
 § 1. — De betaling van het Nederlandse aandeel in de kosten van de uitvoering der werken bedoeld in artikel 2, paragraaf 1, onder a), b), c), d) en e), zal geschieden naar mate de in de bestekken voorziene termijnen vervallen op door de Belgische directie der werken goedgekeurde betalingsaanvragen van de aannemers.
 
@@ -120,15 +142,15 @@ Een directe verbinding tussen het Julianakanaal en het Albertkanaal zal worden v
 
 § 3. — De bijkomende kosten bedoeld in paragraaf 2 van het vorige artikel zullen jaarlijks tussen de Hoge Verdragsluitende Partijen worden verrekend. De eerste verrekening zal geschieden voor 31 december van het jaar waarin dit Verdrag in werking treedt.
 
-#### Artikel 8
+##### Artikel 8
 
 De Hoge Verdragsluitende Partijen zullen elk op hun grondgebied zorg dragen voor het onderhoud, de bediening, het beheer en de vernieuwing van de ten behoeve van de scheepvaart in de nieuwe verbinding aanwezige kunstwerken. De kosten daarvan zullen ten laste komen van de Verdragsluitende Partij op wier grondgebied deze kunstwerken zullen gelegen zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Belgische gedeelte van de nieuwe directe verbinding, hetwelk de vervanging zal uitmaken van het Belgische gedeelte van het kanaal van Ternaaien naar Maastricht, zal worden onderworpen aan de terzake in België geldende voorschriften inzake de heffing van scheepvaartrechten, met dien verstande, dat op het genoemde gedeelte van de nieuwe verbinding geen andere scheepvaartrechten, noch scheepvaartrechten tot hogere bedragen zullen worden geheven dan redelijkerwijze in overeenstemming zullen te achten zijn met die welke tezelfdertijd op de overige Belgische kanalen zullen worden geheven. De scheepvaartrechten welke op het genoemde gedeelte zullen worden geheven zullen bovendien voor Nederlandse schepen of goederen dezelfde zijn en tot dezelfde bedragen worden geheven als voor Belgische schepen of goederen. Alle rechten voortvloeiende uit bestaande verdragen worden evenwel wederzijds voorbehouden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Vlaams Gewest en het Koninkrijk der Nederlanden bevestigen het belang van het behoud van de scheepvaartrelatie tussen het Julianakanaal en het Albertkanaal, rekening houdend met de ontwikkeling van de scheepvaart en de modernisering in de sector. Als lange termijn streefbeeld wordt daarbij uitgegaan van een verbinding op niveau van CEMT klasse V (Conférence européenne des ministres des Transports).
 
@@ -136,17 +158,17 @@ Het Koninkrijk der Nederlanden zal, indien een onderbouwde behoefte ontstaat om 
 
 2. Het Vlaams Gewest en het Koninkrijk der Nederlanden zullen, op verzoek van één hunner en op het moment dat de ontwikkelingen in de scheepvaart naar het oordeel van één hunner daartoe aanleiding geven, in overleg treden over de verwezenlijking van de doelstellingen in het eerste lid. Het Waals Gewest kan, indien het Vlaams Gewest en het Koninkrijk der Nederlanden dat wenselijk achten, worden uitgenodigd voor dit overleg.
 
-#### Artikel 11
+##### Artikel 11
 
 België wordt ontslagen van de financiële verplichtingen die het met betrekking tot het Nederlandse gedeelte van het kanaal van Luik naar Maastricht op zich heeft genomen bij de Overeenkomsten van 12 juli 1845 en 5 september 1850, en Nederland herkrijgt de vrije beschikking over de percelen welke tot dit kanaalgedeelte behoren.
 
 Ten aanzien van het kanaalgedeelte ten zuiden van de aansluiting van het toeleidingskanaal naar de schutsluis te Sint-Pieter zullen deze schikkingen slechts in werking treden na het in dienst stellen van de in artikel 2, paragraaf 1, onder a) en b), beschreven werken.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag zal in werking treden op de dag na uitwisseling der akten van bekrachtiging.
 

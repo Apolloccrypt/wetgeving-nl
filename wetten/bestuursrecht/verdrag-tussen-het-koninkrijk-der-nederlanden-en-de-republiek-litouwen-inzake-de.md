@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de export en handhaving van socialezekerheidsuitkeringen"
 identifier: "BWBV0001573"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-08-01
-laatste_update: 2004-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001573"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-08-01"
+last_updated: "2004-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001573"
+soort: "verdrag"
+stam_id: "10001467113"
+version_id: "10001545312"
+internal_id: "C10009138451"
+label_id: "10001467334"
+dtd_version: "2.0"
+original_entry_into_force: "2004-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001573/2004-08-01/0"
+intitule_bron: "Trb.2003-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-01"
+intitule_published: "2003-01-21"
+intitule_in_force: "2004-07-15"
+intitule_status: "goed"
+original_publication: "Trb.2003-13"
+original_signed_date: "2003-02-01"
+original_published_date: "2003-01-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-13"
+entry_into_force_date: "2004-08-01"
+jci_1_3: "jci1.3:c:BWBV0001573&z=2004-08-01&g=2004-08-01"
+jci_1_0: "1.0:c:BWBV0001573&g=2004-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-02-01"
+entry_into_force: "2004-08-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Litouwen inzake de export en handhaving van socialezekerheidsuitkeringen
 
 Het Koninkrijk der Nederlanden
@@ -26,7 +51,7 @@ Zijn het volgende overeengekomen:
 
 Opgeschort per 1 mei 2010 (Trb. 2016/121).
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag:
 
@@ -52,7 +77,7 @@ Opgeschort per 1 mei 2010 (Trb. 2016/121).
 
 2. Andere termen die in dit Verdrag worden gebruikt hebben de betekenis die daaraan krachtens de toegepaste wetgeving wordt toegekend.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing:
 
@@ -82,21 +107,21 @@ Dit Verdrag is van toepassing:
 
 - e. uitkeringen ingevolge de wet sociale verzekering inzake arbeidsongevallen en beroepsziekten.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij anders bepaald in dit Verdrag, is dit Verdrag van toepassing op een rechthebbende alsmede op een lid van zijn gezin voor zover hij woont of verblijft op het grondgebied van één van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 Tenzij anders bepaald in dit Verdrag, zijn bepalingen van de wetgeving van een Verdragsluitende Partij die uitsluitend omdat een rechthebbende of een lid van zijn gezin buiten het grondgebied van die Verdragsluitende Partij woont of verblijft, betaling van een uitkering beperken, niet van toepassing op een rechthebbende die of een lid van zijn gezin dat op het grondgebied van de andere Verdragsluitende Staat woont of verblijft.
 
-#### Artikel 5. Identificatie
+##### Artikel 5. Identificatie
 
 1. Teneinde het recht op een uitkering of op de betaling van een uitkering ingevolge de Litouwse of Nederlandse wetgeving vast te stellen, identificeert een rechthebbende of een lid van zijn gezin zich bij het bevoegde orgaan op het grondgebied waarvan betrokkene woont of verblijft door overlegging van een officieel identiteitsbewijs. Onder officieel identiteitsbewijs wordt verstaan een paspoort of ieder ander geldig identiteitsbewijs afgegeven op het grondgebied waar betrokkene woont of verblijft.
 
 2. Het betrokken bevoegde orgaan identificeert de rechthebbende of zijn gezinslid op basis van het officiële identiteitsbewijs. Het bevoegde orgaan stelt het bevoegde orgaan van de andere Verdragsluitende Partij ervan in kennis dat de identiteit van de rechthebbende of zijn gezinslid is geverifieerd door een gewaarmerkte kopie van het officiële identiteitsbewijs toe te zenden.
 
-#### Artikel 6. Verificatie van aanvragen en betalingen
+##### Artikel 6. Verificatie van aanvragen en betalingen
 
 1. Voor de toepassing van dit artikel wordt verstaan onder “inlichtingen” gegevens met betrekking tot identiteit, adres, gezinssituatie, werk, opleiding, inkomen, gezondheidstoestand, overlijden en detentie of andere gegevens die van belang zijn voor de uitvoering van dit Verdrag.
 
@@ -110,7 +135,7 @@ Tenzij anders bepaald in dit Verdrag, zijn bepalingen van de wetgeving van een V
 
 6. Voor de uitvoering van dit Verdrag zijn de instanties elkaar behulpzaam en handelen als betrof het de uitvoering van hun eigen wetgeving. De door de instanties verleende administratieve bijstand is kosteloos. De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen echter overeenkomen dat bepaalde kosten vergoed worden.
 
-#### Artikel 7. Medisch onderzoek
+##### Artikel 7. Medisch onderzoek
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij wordt het medisch onderzoek van een rechthebbende die of een lid van zijn gezin dat woont of verblijft op het grondgebied van de andere Verdragsluitende Partij uitgevoerd of geregeld door het bevoegde orgaan van de laatstgenoemde Verdragsluitende Partij.
 
@@ -118,7 +143,7 @@ Tenzij anders bepaald in dit Verdrag, zijn bepalingen van de wetgeving van een V
 
 3. De rechthebbende of zijn gezinslid geeft gehoor aan een verzoek zich te melden voor medisch onderzoek. Indien betrokkene om medische redenen niet in staat is te reizen naar het grondgebied van de andere Verdragsluitende Partij, stelt hij het bevoegde orgaan van die Verdragsluitende Partij daarvan onverwijld in kennis. De betrokkene is alsdan verplicht een medische verklaring afgegeven door een daartoe door het bevoegde orgaan op wiens grondgebied hij woont of verblijft aangewezen arts te overleggen. Deze verklaring moet de medische redenen bevatten van de onmogelijkheid te reizen, alsmede de verwachte duur daarvan.
 
-#### Artikel 8. Erkenning en tenuitvoerlegging van beslissingen
+##### Artikel 8. Erkenning en tenuitvoerlegging van beslissingen
 
 1. Een beslissing ten aanzien van verhaal van onverschuldigde betalingen of de invordering van premies terzake van sociale verzekering en administratieve boeten ingevolge de desbetreffende wetgeving, genomen door een bevoegd orgaan van een Verdragsluitende Partij en waartegen geen rechtsmiddelen meer open staan, wordt erkend door de andere Verdragsluitende Partij.
 
@@ -126,11 +151,11 @@ Tenzij anders bepaald in dit Verdrag, zijn bepalingen van de wetgeving van een V
 
 3. Voor tenuitvoerlegging vatbare beslissingen die ingevolge het eerste lid zijn erkend, worden uitgevoerd door de andere Verdragsluitende Partij overeenkomstig de op het grondgebied van die Staat van kracht zijnde wettelijke bepalingen die van toepassing zijn op de tenuitvoerlegging van soortgelijke beslissingen. Het bevoegde orgaan van de andere Verdragsluitende Partij wordt in kennis gesteld van de bevestiging dat een beslissing voor tenuitvoerlegging vatbaar is.
 
-#### Artikel 9. Verhaal van onverschuldigde betalingen en administratieve boeten
+##### Artikel 9. Verhaal van onverschuldigde betalingen en administratieve boeten
 
 Indien een bevoegd orgaan een voor tenuitvoerlegging vatbare beslissing heeft genomen met betrekking tot het verhalen van onverschuldigde betalingen zoals bedoeld in artikel 8, en de betrokken rechthebbende ontvangt een uitkering van een bevoegd orgaan van de andere Verdragsluitende Partij, kan het eerstgenoemde bevoegde orgaan verzoeken om verrekening van de desbetreffende betaling of de administratieve boete met de achterstallige bedragen of bedragen die in die Verdragsluitende Partij nog verschuldigd zijn aan de rechthebbende. Het laatstgenoemde bevoegde orgaan brengt het bedrag in mindering binnen de grenzen van de door dat bevoegde orgaan toegepaste wet die van toepassing is op de uitvoering van soortgelijke beslissingen, en maakt het bedrag over aan het eerstgenoemde bevoegde orgaan dat recht heeft op vergoeding.
 
-#### Artikel 10. Weigering te betalen, opschorting, intrekking
+##### Artikel 10. Weigering te betalen, opschorting, intrekking
 
 Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering toe te kennen, of kan de betaling van een uitkering opschorten of intrekken indien:
 
@@ -138,37 +163,37 @@ Het bevoegde orgaan van een Verdragsluitende Partij kan weigeren een uitkering t
 
 - b. het bevoegde orgaan van de andere Verdragsluitende Partij verzuimd heeft binnen een termijn van drie maanden inlichtingen te verstrekken of een onderzoek uit te voeren zoals vereist ingevolge artikel 5, artikel 6, tweede lid, en artikel 7, eerste lid, van dit Verdrag.
 
-#### Artikel 11. Gegevensbescherming
+##### Artikel 11. Gegevensbescherming
 
 1. Wanneer, ingevolge dit Verdrag, de bevoegde autoriteiten, bevoegde organen of instanties van een Verdragsluitende Partij persoonsgegevens verstrekken aan de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Partij, gelden hiervoor de op de bescherming van gegevens van toepassing zijnde wettelijke bepalingen, vastgesteld door de Verdragsluitende Partij die de gegevens verstrekt. Op latere verstrekkingen alsmede op de opslag, wijziging en vernietiging van de gegevens zijn de bepalingen van de wetgeving inzake de bescherming van gegevens van de ontvangende Verdragsluitende Partij van toepassing.
 
 2. Het gebruik van persoonsgegevens voor andere doeleinden dan voor sociale zekerheid is onderworpen aan de goedkeuring door de betrokkene of overeenkomstig andere waarborgen waarin door de nationale wetgeving wordt voorzien.
 
-#### Artikel 12. Uitvoering van het Verdrag
+##### Artikel 12. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen, door middel van aanvullende akkoorden, maatregelen treffen voor de toepassing van dit Verdrag.
 
-#### Artikel 13. Taal
+##### Artikel 13. Taal
 
 1. Voor de toepassing van dit Verdrag kunnen de bevoegde autoriteiten, de bevoegde organen en instanties van de Verdragsluitende Partijen zich rechtstreeks in het Engels met elkaar in verbinding stellen.
 
 2. Geen enkel document wordt geweigerd uitsluitend omdat het is opgesteld in een officiële taal van een Verdragsluitende Partij.
 
-#### Artikel 14. Beslechting van geschillen
+##### Artikel 14. Beslechting van geschillen
 
 De bevoegde autoriteiten van beide Verdragsluitende Partijen verrichten alle redelijke inspanningen om geschillen die voortvloeien uit de uitlegging of toepassing van dit Verdrag in onderlinge overeenstemming te beslechten.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum van de laatste kennisgeving dat hun respectieve wettelijke of constitutionele procedures vereist voor de inwerkingtreding van dit Verdrag voltooid zijn. Artikel 4 treedt voor het Koninkrijk der Nederlanden in werking met terugwerkende kracht vanaf 1 januari 2003.
 
 2. Het Koninkrijk der Nederlanden past artikel 4 van dit Verdrag voorlopig toe vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening.
 
-#### Artikel 16. Territoriale toepassing
+##### Artikel 16. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 17. Beëindiging
+##### Artikel 17. Beëindiging
 
 Dit Verdrag kan te allen tijde worden beëindigd door middel van een schriftelijke kennisgeving aan de andere Verdragsluitende Partij. In het geval van beëindiging blijft dit Verdrag van kracht tot aan het einde van het kalenderjaar dat volgt op het jaar waarin de andere Verdragsluitende Partij de kennisgeving van beëindiging heeft ontvangen.
 

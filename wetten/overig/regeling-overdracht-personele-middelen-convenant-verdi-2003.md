@@ -1,20 +1,45 @@
 ---
-title: "Regeling overdracht personele middelen convenant VERDI 2003"
+title: "Regeling van de Minister van Verkeer en Waterstaat, houdende het verlenen van subsidie aan de samenwerkingsgebieden en aan de Vereniging Nederlandse Gemeenten ten behoeve van de personele en bestuurslasten die voortvloeien uit het convenant VERDI voor het jaar 2003 (Regeling overdracht personele middelen convenant VERDI 2003)"
 identifier: "BWBR0015093"
-categorie: "Overig"
-publicatiedatum: 2004-01-30
-laatste_update: 2004-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015093"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-01-30"
+last_updated: "2004-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015093"
+soort: "ministeriele-regeling"
+stam_id: "4829583"
+version_id: "6637062"
+internal_id: "C7151491"
+label_id: "4807664"
+dtd_version: "2.0"
+original_entry_into_force: "2003-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015093/2004-01-30/0"
+intitule_bron: "Stcrt.2003-101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-20"
+intitule_published: "2003-05-27"
+intitule_in_force: "2003-05-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-101"
+original_signed_date: "2003-05-20"
+original_published_date: "2003-05-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-05-29"
+jci_1_3: "jci1.3:c:BWBR0015093&z=2004-01-30&g=2004-01-30"
+jci_1_0: "1.0:c:BWBR0015093&g=2004-01-30"
+citeertitel_status: "officieel"
+short_title: "Regeling overdracht personele middelen convenant VERDI 2003"
+signed_date: "2003-05-20"
+entry_into_force: "2003-05-29"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat, houdende het verlenen van subsidie aan de samenwerkingsgebieden en aan de Vereniging Nederlandse Gemeenten ten behoeve van de personele en bestuurslasten die voortvloeien uit het convenant VERDI voor het jaar 2003 (Regeling overdracht personele middelen convenant VERDI 2003)
 
 Gelet op [artikel 3 van de Kaderwet subsidies Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0009196&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **convenant VERDI:** het op 29 maart 1996 gesloten convenant tussen het ministerie van Verkeer en Waterstaat, het ministerie van Binnenlandse Zaken, het Interprovinciaal Overleg en de Vereniging van Nederlandse Gemeenten ter uitwerking van het hoofdlijnenakkoord inzake de decentralisatie en regionalisering van het verkeer en vervoer.
 
-#### Artikel 2
+##### Artikel 2
 
 De minister verleent:
 
@@ -38,7 +63,7 @@ De minister verleent:
 
 - b. aan de VNG voor het jaar 2003 een subsidie ten behoeve van de financiering van de personele middelen en de overige lasten die verbonden zijn aan de uitvoering van de taken van het kenniscentrum.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie, bedoeld in [artikel 2, onderdeel, a](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=2&z=2004-01-30&g=2004-01-30), bedraagt aan het samenwerkingsgebied:
 
@@ -58,11 +83,11 @@ De minister verleent:
 
 2. De subsidie, bedoeld in [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=2&z=2004-01-30&g=2004-01-30), aan de VNG bedraagt € 155.862.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister verleent bij de beschikking tot subsidieverlening een voorschot ter grootte van het bedrag, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=3&z=2004-01-30&g=2004-01-30). De minister kan bij de subsidieverlening bepalen dat de subsidie tussentijds wordt aangepast aan de ontwikkelingen van het loon- en prijspeil.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De subsidie-ontvangers, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=2&z=2004-01-30&g=2004-01-30), leggen vóór 15 september 2004 aan de minister rekening en verantwoording af omtrent de aan de activiteiten verbonden kosten en opbrengsten.
 
@@ -74,25 +99,25 @@ De minister verleent bij de beschikking tot subsidieverlening een voorschot ter 
 
 3. In de bijlage bij deze regeling zijn de modellen opgenomen van het financiële eindverslag en van de goedkeurende accountantsverklaring, bedoeld in het tweede lid, onderdeel b.
 
-#### Artikel 6
+##### Artikel 6
 
 De minister stelt de subsidie ambtshalve vast binnen zes weken nadat de subsidie-ontvanger de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=5&z=2004-01-30&g=2004-01-30) bedoelde rekening en verantwoording heeft afgelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De subsidie-ontvanger vormt een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
 2. Indien op 31 december 2003 sprake is van een positieve egalisatiereserve, leggen de subsidie-ontvangers vóór 15 september 2005 rekening en verantwoording af over de besteding ervan in 2004. [Artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015093&artikel=5&z=2004-01-30&g=2004-01-30), is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 De [Regeling overdracht personele middelen VERDI-convenant](https://wetten.overheid.nl/jci1.3:c:BWBR0008978) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op de verantwoording van de subsidie over het jaar 2002, alsmede de rechtsgedingen die op die subsidie betrekking hebben.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling overdracht personele middelen convenant VERDI 2003.
 

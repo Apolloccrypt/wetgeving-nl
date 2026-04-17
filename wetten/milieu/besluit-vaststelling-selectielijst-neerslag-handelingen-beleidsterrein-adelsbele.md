@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel vanaf 1945 (Minister van Verkeer en Waterstaat)"
 identifier: "BWBR0022934"
-categorie: "Milieu"
-publicatiedatum: 2007-12-07
-laatste_update: 2007-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022934"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-12-07"
+last_updated: "2007-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022934"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9299773"
+version_id: "14933172"
+internal_id: "C25321871"
+label_id: "9278254"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022934/2007-12-07/0"
+intitule_bron: "Stcrt.2007-236"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-01"
+intitule_published: "2007-12-05"
+intitule_in_force: "2007-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-236"
+original_signed_date: "2007-11-01"
+original_published_date: "2007-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-236-p9-SC83195"
+entry_into_force_date: "2007-12-07"
+jci_1_3: "jci1.3:c:BWBR0022934&z=2007-12-07&g=2007-12-07"
+jci_1_0: "1.0:c:BWBR0022934&g=2007-12-07"
+citeertitel_status: "redactioneel"
+signed_date: "2007-11-01"
+entry_into_force: "2007-12-07"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel vanaf 1945 (Minister van Verkeer en Waterstaat)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 25 oktober 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Verkeer en Waterstaat en de onder hem ressorterende actoren op het beleidsterrein Adelsbeleid, adelsrecht en decoratiestelsel over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

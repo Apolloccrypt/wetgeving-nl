@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van de Afrikaanse faciliteit voor juridische ondersteuning"
 identifier: "BWBV0005075"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-12-01
-laatste_update: 2008-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005075"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-12-01"
+last_updated: "2008-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005075"
+soort: "verdrag"
+stam_id: "10004458303"
+version_id: "10004669492"
+internal_id: "C10007830201"
+label_id: "10004443214"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005075/2011-12-01/0"
+intitule_bron: "Trb.2011-36"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-02-25"
+intitule_in_force: "2012-05-01"
+intitule_status: "goed"
+original_publication: "Trb.2011-36"
+original_published_date: "2011-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-36"
+entry_into_force_date: "2011-12-01"
+jci_1_3: "jci1.3:c:BWBV0005075&z=2011-12-01&g=2011-12-01"
+jci_1_0: "1.0:c:BWBV0005075&g=2011-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-12-01"
 ---
-
 # Verdrag tot oprichting van de Afrikaanse faciliteit voor juridische ondersteuning
 
 De staten en de internationale organisaties die partij zijn bij dit Verdrag
@@ -28,11 +50,11 @@ Gelet op de lovenswaardige inspanningen van de Afrikaanse Ontwikkelingsbank ten 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Oprichting
+##### Artikel I. Oprichting
 
 Bij dit Verdrag wordt een internationale juridische instelling opgericht met de naam „African Legal Support Facility” (hierna te noemen de „Faciliteit”), die in overeenstemming met de bepalingen van dit Verdrag te werk zal gaan.
 
-#### Artikel II. Doelstellingen en taken
+##### Artikel II. Doelstellingen en taken
 
 1. De doelstellingen waarvoor de Faciliteit wordt opgericht zijn:
 
@@ -68,7 +90,7 @@ Bij dit Verdrag wordt een internationale juridische instelling opgericht met de 
 
 - viii. het uitvoeren van andere aanverwante taken of werkzaamheden die bijdragen aan de doelstellingen van de Faciliteit.
 
-#### Artikel III. Rechtspersoonlijkheid
+##### Artikel III. Rechtspersoonlijkheid
 
 De Faciliteit wordt opgericht als een internationale instelling met volledige rechtspersoonlijkheid krachtens het recht van de staten die partij zijn bij dit Verdrag (hierna te noemen de „deelnemende staten”) en is in het bijzonder bevoegd tot:
 
@@ -78,7 +100,7 @@ De Faciliteit wordt opgericht als een internationale instelling met volledige re
 
 - iii. het optreden als partij bij rechtsgedingen en andere juridische of administratieve procedures.
 
-#### Artikel IV. Lidmaatschap
+##### Artikel IV. Lidmaatschap
 
 1. Het lidmaatschap van de Faciliteit staat open voor: (a) alle lidstaten van de Afrikaanse Ontwikkelingsbank; (b) andere staten; (c) de Afrikaanse Ontwikkelingsbank; (d) andere internationale organisaties of instellingen.
 
@@ -86,7 +108,7 @@ De Faciliteit wordt opgericht als een internationale instelling met volledige re
 
 3. Elke staat of internationale organisatie die dit Verdrag niet heeft ondertekend voor de datum waarop het in werking treedt en lid van het Verdrag wil worden, dient vooraf tot dit Verdrag toe te treden door een akte van toetreding neder te leggen bij de voorlopige depositaris van het Verdrag.
 
-#### Artikel V. Zetel van de Faciliteit
+##### Artikel V. Zetel van de Faciliteit
 
 1. De zetel van de Faciliteit wordt gevestigd op het grondgebied van een deelnemende staat die wordt aangewezen door de Raad van Bestuur van de Faciliteit.
 
@@ -94,7 +116,7 @@ De Faciliteit wordt opgericht als een internationale instelling met volledige re
 
 3. De zetelovereenkomst wordt uiterlijk negentig (90) dagen na de datum van de eerste vergadering van de Raad van Bestuur van de Faciliteit door de betrokken partijen gesloten en zal onmiddellijk na ondertekening bindende werking hebben en van kracht zijn.
 
-#### Artikel VI. Financiële middelen
+##### Artikel VI. Financiële middelen
 
 1. De financiële middelen van de Faciliteit bestaan uit:
 
@@ -108,11 +130,11 @@ De Faciliteit wordt opgericht als een internationale instelling met volledige re
 
 3. De partijen bij dit Verdrag zijn op geen enkele wijze verplicht de Faciliteit, anders dan op basis van vrijwilligheid, financieel te ondersteunen. Daarnaast zijn de leden noch afzonderlijk noch gezamenlijk aansprakelijk voor schulden, verplichtingen of verbintenissen van de Faciliteit.
 
-#### Artikel VII. Bestuur en managementstructuur
+##### Artikel VII. Bestuur en managementstructuur
 
 De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en de medewerkers die nodig zijn voor het uitvoeren van de taken en werkzaamheden van de Faciliteit.
 
-#### Artikel VIII. Raad van Bestuur: bevoegdheden
+##### Artikel VIII. Raad van Bestuur: bevoegdheden
 
 1. Alle bevoegdheden van de Faciliteit berusten bij de Raad van Bestuur.
 
@@ -134,13 +156,13 @@ De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en 
 
 - viii. het besluiten de werkzaamheden van de Faciliteit te beëindigen en haar activa te verdelen.
 
-#### Artikel IX. Raad van Bestuur: samenstelling en vertegenwoordiging
+##### Artikel IX. Raad van Bestuur: samenstelling en vertegenwoordiging
 
 1. De Raad van Bestuur bestaat uit twaalf leden die worden benoemd door de deelnemende staten, de Afrikaanse Ontwikkelingsbank en andere internationale organisaties, anders dan de Afrikaanse Ontwikkelingsbank, die partij zijn bij dit Verdrag.
 
 2. Vijf leden vertegenwoordigen de deelnemende staten die regionale lidstaten zijn van de Afrikaanse Ontwikkelingsbank en de vijf regio's van Afrika vertegenwoordigen. Zij worden bij toerbeurt benoemd uit de deelnemende staten van elke regio; vier leden vertegenwoordigen de deelnemende staten die tevens lidstaten zijn van de Organisatie voor Economische Samenwerking (OESO); één lid vertegenwoordigt de deelnemende staten die geen lid zijn van de OESO; één lid vertegenwoordigt de Afrikaanse Ontwikkelingsbank en één lid vertegenwoordigt de andere internationale organisaties die partij zijn bij dit Verdrag.
 
-#### Artikel X. Raad van Bestuur: procedure
+##### Artikel X. Raad van Bestuur: procedure
 
 1. De Raad van Bestuur vergadert op de zetel van de Faciliteit of op een andere plaats waartoe de Raad van Beheer kan besluiten. De Raad komt eenmaal per jaar bijeen, tenzij de werkzaamheden van de Faciliteit anderszins vereisen.
 
@@ -150,7 +172,7 @@ De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en 
 
 4. De Raad van Bestuur stelt zijn eigen reglement van orde vast.
 
-#### Artikel XI. Raad van Beheer: bevoegdheden en taken
+##### Artikel XI. Raad van Beheer: bevoegdheden en taken
 
 1. De Raad van Beheer oefent de door de Raad van Bestuur aan hem gedelegeerde bevoegdheden en taken van de Faciliteit uit of hetgeen is vervat in dit Verdrag. De Raad van Beheer is belast met de algemene leiding van de werkzaamheden van de Faciliteit. De Raad van Beheer dient in het bijzonder:
 
@@ -162,13 +184,13 @@ De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en 
 
 - iv. voorstellen in te dienen bij de Raad van Bestuur voor het aanvullen van de middelen van de Faciliteit.
 
-#### Artikel XII. Raad van Beheer: samenstelling
+##### Artikel XII. Raad van Beheer: samenstelling
 
 1. De Raad van Beheer bestaat uit vijf leden die worden benoemd door de Raad van Bestuur. De Directeur van de Faciliteit maakt ambtshalve deel uit van de Raad van Beheer maar heeft geen stemrecht.
 
 2. De leden van de Raad van Beheer voldoen aan hoge normen van integriteit en bekwaamheid op het gebied van het recht, financiën en ontwikkeling. Zij nemen op persoonlijke titel zitting en niet als vertegenwoordiger van deelnemende staten of internationale organisaties die partij zijn bij dit Verdrag.
 
-#### Artikel XIII. Raad van Beheer: procedure
+##### Artikel XIII. Raad van Beheer: procedure
 
 1. De Raad van Beheer vergadert op de zetel van de Faciliteit, of op een andere plaats waartoe hij kan besluiten. De Raad van Beheer komt tweemaal per jaar bijeen, tenzij de werkzaamheden van de Faciliteit anderszins vereisen.
 
@@ -178,7 +200,7 @@ De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en 
 
 4. De Raad van Beheer stelt zijn eigen reglement van orde vast.
 
-#### Artikel XIV. Directeur en personeel
+##### Artikel XIV. Directeur en personeel
 
 1. De Directeur fungeert als de hoogste functionaris van de Faciliteit en is belast met de dagelijkse leiding van de Faciliteit. De Directeur wordt benoemd door de Raad van Beheer. De Directeur voldoet aan hoge normen van integriteit en bekwaamheid op het gebied van de juridische aspecten van het beheren van schulden, aanbesteding van de winning van natuurlijke rijkdommen of commerciële transacties en beschikt over ruime professionele en managementervaring.
 
@@ -190,41 +212,41 @@ De Faciliteit heeft een Raad van Bestuur, een Raad van Beheer, een Directeur en 
 
 5. De Directeur benoemt de medewerkers die nodig zijn voor het uitvoeren van de taken en werkzaamheden van de Faciliteit.
 
-#### Artikel XV. Samenwerkingsovereenkomsten
+##### Artikel XV. Samenwerkingsovereenkomsten
 
 De Faciliteit kan samenwerkingsovereenkomsten sluiten met andere instellingen. Daartoe kan zij op basis van detachering of uitwisseling deskundigen en medewerkers van andere instellingen ontvangen.
 
-#### Artikel XVI. Immuniteiten, vrijstellingen, voorrechten, voorzieningen en concessies
+##### Artikel XVI. Immuniteiten, vrijstellingen, voorrechten, voorzieningen en concessies
 
 Elke deelnemende staat treft, op grond van zijn nationale recht, alle wetgevende maatregelen en alle administratieve maatregelen, die nodig zijn om de Faciliteit in staat te stellen haar doelstellingen te verwezenlijken en de haar toevertrouwde taken te verrichten. Elke deelnemende staat verleent de Faciliteit daartoe, op zijn grondgebied, de in dit Verdrag vervatte status, immuniteiten, vrijstellingen, voorrechten, voorzieningen en concessies en stelt de Faciliteit in kennis van de specifieke maatregelen die hij daartoe heeft getroffen.
 
-#### Artikel XVII. Gerechtelijke procedures
+##### Artikel XVII. Gerechtelijke procedures
 
 De Faciliteit geniet immuniteit van elke vorm van rechtsvervolging, met uitzondering van zaken die voortvloeien uit de uitoefening van haar bevoegdheden tot lenen. Hiervoor mag zij uitsluitend worden berecht door een bevoegde rechter op het grondgebied van de deelnemende staat waar de Faciliteit haar zetel heeft, of op het grondgebied van een deelnemende staat of niet-lidstaat, waar zij een vertegenwoordiger heeft benoemd voor de ontvangst van dagvaardingen of waar zij waardepapieren uitgegeven of gegarandeerd heeft. Tegen de Faciliteit mogen echter geen procedures worden ingesteld door leden of personen die optreden voor of vorderingen hebben op leden.
 
-#### Artikel XVIII. Immuniteit van eigendommen en bezittingen
+##### Artikel XVIII. Immuniteit van eigendommen en bezittingen
 
 1. De eigendommen en bezittingen van de Faciliteit, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard van: (a) onderzoek, vordering, onteigening, confiscatie, nationalisatie en iedere andere vorm van beslaglegging of executie op last van de uitvoerende of wetgevende macht; en (b) inbeslagname, beslaglegging of executie voordat een definitief vonnis tegen de Faciliteit is uitgesproken.
 
 2. Voor de toepassing van dit artikel XVIII omvat de uitdrukking „eigendommen en bezittingen van de Faciliteit” mede eigendommen en bezittingen die eigendom zijn van of in het bezit zijn van de Faciliteit en voor de lopende zaken aan de Faciliteit toevertrouwde deposito's en fondsen.
 
-#### Artikel XIX. Vrijstelling van beperkingen ten aanzien van eigendommen, bezittingen en werkzaamheden
+##### Artikel XIX. Vrijstelling van beperkingen ten aanzien van eigendommen, bezittingen en werkzaamheden
 
 1. Voor zover nodig om de doelstellingen van de Faciliteit te verwezenlijken en haar taken uit te voeren, dient iedere deelnemende staat afstand te doen van en zich te onthouden van het opleggen van administratieve, financiële of andere beperkende voorschriften, die het soepel functioneren van de Faciliteit op enige wijze zouden kunnen belemmeren of haar werkzaamheden zouden kunnen schaden.
 
 2. Daartoe worden de Faciliteit, haar eigendommen, bezittingen, werkzaamheden en activiteiten vrijgesteld van beperkingen, voorschriften, toezicht of controles, moratoria en alle andere beperkingen van wetgevende, uitvoerende, administratieve, fiscale en monetaire aard.
 
-#### Artikel XX. Onschendbaarheid van de archieven
+##### Artikel XX. Onschendbaarheid van de archieven
 
 1. De archieven van de Faciliteit en in het algemeen alle documenten die toebehoren aan of in het bezit zijn van de Faciliteit zijn onschendbaar, ongeacht waar zij zich bevinden, met dien verstande dat de in dit artikel voorziene onschendbaarheid zich niet uitstrekt tot documenten die dienen te worden overgelegd in het kader van gerechtelijke of arbitrageprocedures waarbij de Faciliteit partij is;
 
 2. Onverminderd het algemene karakter van het bepaalde in het eerste lid van dit artikel, mogen documenten met vertrouwelijke bepalingen die in het bezit zijn van de Faciliteit niet worden overgelegd voor gerechtelijke of arbitrageprocedures.
 
-#### Artikel XXI. Voorrechten met betrekking tot communicatie
+##### Artikel XXI. Voorrechten met betrekking tot communicatie
 
 Elke deelnemende staat behandelt de officiële communicatie van de Faciliteit op dezelfde wijze en met dezelfde voorkeurstarieven als hij hanteert voor de officiële communicatie van andere internationale organisaties.
 
-#### Artikel XXII. Persoonlijke immuniteiten, voorrechten en vrijstellingen
+##### Artikel XXII. Persoonlijke immuniteiten, voorrechten en vrijstellingen
 
 1. Alle leden van de Raad van Bestuur, de leden van de Raad van Beheer, de Directeur en de overige medewerkers van de Faciliteit, de bij de Faciliteit gedetacheerde medewerkers en de adviseurs en deskundigen die opdrachten voor de Faciliteit uitvoeren:
 
@@ -242,11 +264,11 @@ Elke deelnemende staat behandelt de officiële communicatie van de Faciliteit op
 
 3. Een deelnemende staat kan, bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding, zichzelf en zijn staatkundige onderdelen het recht voorbehouden belasting te heffen over salarissen en vergoedingen die de Faciliteit betaalt aan zijn onderdanen of inwoners.
 
-#### Artikel XXIII. Afstand van voorrechten en immuniteiten
+##### Artikel XXIII. Afstand van voorrechten en immuniteiten
 
 De voorrechten en immuniteiten voorzien in dit Verdrag worden in het belang van de Faciliteit verleend. Hiervan kan alleen afstand worden gedaan, in de mate en onder de voorwaarden bepaald door de Raad van Beheer van de Faciliteit, in gevallen waarin, naar zijn opvatting, een dergelijk besluit de belangen van de Faciliteit niet schaadt. De Directeur van de Faciliteit is bevoegd en verplicht de immuniteit van een werknemer, gedetacheerde werknemer, adviseur of deskundige van de Faciliteit op te heffen, indien hij meent dat de immuniteit de rechtsgang zou schaden en opheffing kan geschieden zonder de belangen van de Faciliteit te schaden. In vergelijkbare omstandigheden en onder dezelfde voorwaarden is de Raad van Beheer bevoegd en verplicht de immuniteit van de Directeur van de Faciliteit op te heffen.
 
-#### Artikel XXIV. Vrijstelling van belastingen
+##### Artikel XXIV. Vrijstelling van belastingen
 
 1. De Faciliteit, haar eigendommen, overige bezittingen en inkomsten, evenals haar werkzaamheden en transacties zijn vrijgesteld van alle belastingen en douaneheffingen.
 
@@ -254,11 +276,11 @@ De voorrechten en immuniteiten voorzien in dit Verdrag worden in het belang van 
 
 3. De Faciliteit is voorts vrijgesteld van elke verplichting met betrekking tot het betalen, inhouden of heffen van welke belastingen of heffingen dan ook.
 
-#### Artikel XXV. Fiscale vrijstellingen, financiële voorzieningen, voorrechten en concessies
+##### Artikel XXV. Fiscale vrijstellingen, financiële voorzieningen, voorrechten en concessies
 
 Elke deelnemende staat verleent aan de Faciliteit een status die niet ongunstiger is dan die van andere internationale organisaties. Bovendien geniet zij alle fiscale vrijstellingen, financiële voorzieningen, voorrechten en concessies die door de deelnemende staten aan internationale organisaties en andere instellingen worden verleend.
 
-#### Artikel XXVI. Uitlegging en geschillenbeslechting
+##### Artikel XXVI. Uitlegging en geschillenbeslechting
 
 1. Dit Verdrag wordt uitgelegd in het licht van zijn primaire doel de Faciliteit in staat te stellen haar taken en doelstellingen volledig en doeltreffend te verwezenlijken.
 
@@ -266,7 +288,7 @@ Elke deelnemende staat verleent aan de Faciliteit een status die niet ongunstige
 
 3. Elk geschil tussen de partijen bij dit Verdrag of tussen de Faciliteit en een partij bij dit Verdrag betreffende de uitlegging of toepassing van de bepalingen van dit Verdrag wordt voorgelegd aan de Raad van Bestuur van de Faciliteit, wiens beslissing onherroepelijk en bindend zal zijn.
 
-#### Artikel XXVII. Inwerkingtreding
+##### Artikel XXVII. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door of namens de verdragsluitende partijen en dient te worden bekrachtigd, aanvaard of goedgekeurd.
 
@@ -274,11 +296,11 @@ Elke deelnemende staat verleent aan de Faciliteit een status die niet ongunstige
 
 3. Dit Verdrag treedt voor elke verdragsluitende partij in werking op de datum van de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met haar grondwettelijke of andere van toepassing zijnde wettelijke procedures.
 
-#### Artikel XXVIII. Duur
+##### Artikel XXVIII. Duur
 
 De Faciliteit wordt opgericht voor een termijn van veertien jaar vanaf de datum van inwerkingtreding van dit Verdrag; deze termijn kan bij besluit van de Raad van Bestuur echter worden verlengd of bekort.
 
-#### Artikel XXIX. Depositaris
+##### Artikel XXIX. Depositaris
 
 1. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden nedergelegd bij de Secretaris-Generaal van de Afrikaanse Ontwikkelingsbank, die zal optreden als voorlopige depositaris van dit Verdrag (hierna te noemen de „voorlopige depositaris”).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit organisch-halogeengehalte van brandstoffen"
+title: "Besluit van 1 maart 1989, tot vaststelling van het ten hoogste toelaatbaar organisch-halogeengehalte van brandstoffen of grondstoffen van brandstoffen"
 identifier: "BWBR0004501"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004501"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004501"
+soort: "AMvB"
+stam_id: "799443"
+version_id: "15339502"
+internal_id: "C20902821"
+label_id: "774524"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004501/2024-01-01/0"
+intitule_bron: "Stb.1989-58"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-03-01"
+intitule_published: "1989-03-30"
+intitule_in_force: "1989-03-30"
+intitule_status: "goed"
+original_publication: "Stb.2008-160"
+original_signed_date: "2008-04-29"
+original_published_date: "2008-05-15"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2008-160"
+entry_into_force_date: "2008-04-29"
+jci_1_3: "jci1.3:c:BWBR0004501&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0004501&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit organisch-halogeengehalte van brandstoffen"
+signed_date: "2008-04-29"
+entry_into_force: "2008-04-29"
 ---
-
 # Besluit van 1 maart 1989, tot vaststelling van het ten hoogste toelaatbaar organisch-halogeengehalte van brandstoffen of grondstoffen van brandstoffen
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 oktober 1988, nr. MJZ 2608011, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -22,7 +48,7 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - c. gehalte aan organische halogeenverbindingen: gehalte aan organische halogeenverbindingen, berekend als chloor.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden brandstoffen toe te passen
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het is voorts verboden organische halogeenverbindingen, of preparaten waarin een van de in het eerste of tweede lid genoemde gehalten wordt overschreden, als brandstof of ten behoeve van de vervaardiging van brandstoffen in te voeren in Nederland, te bewaren, voorhanden te hebben, ten verkoop aan te bieden, ten verkoop in voorraad te hebben, te verkopen of zich ervan te ontdoen door afgifte.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004501&artikel=2&z=2024-01-01&g=2024-01-01) gestelde verboden gelden niet voor zover het betreft:
 
@@ -68,11 +94,11 @@ In dit besluit wordt verstaan onder:
 
 - d. het betreft invoer en met een persoon als bedoeld onder **a** schriftelijk is overeengekomen dat deze de organische halogeenverbindingen of preparaten in ontvangst zal nemen.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister stelt regels omtrent de methoden volgens welke het gehalte aan polychloorbifenylen of het gehalte aan andere organische halogeenverbindingen in brandstoffen of grondstoffen voor brandstoffen wordt vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit besluit treedt in werking met ingang van de eenendertigste dag na de datum van de uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
@@ -80,7 +106,7 @@ Onze Minister stelt regels omtrent de methoden volgens welke het gehalte aan pol
 
 Lasten en bevelen dat dit besluit met daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 

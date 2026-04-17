@@ -1,13 +1,38 @@
 ---
-title: "Vaststellingsregeling selectielijst handelingen beleidsterrein Sociale Verzekeringen over de periode vanaf 1941"
+title: "Vaststelling selectielijst handelingen beleidsterrein Sociale Verzekeringen over de periode vanaf 1941"
 identifier: "BWBR0016566"
-categorie: "Sociaal recht"
-publicatiedatum: 2004-04-10
-laatste_update: 2004-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016566"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2004-04-10"
+last_updated: "2004-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016566"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "5814343"
+version_id: "10382142"
+internal_id: "C25312091"
+label_id: "5794424"
+original_entry_into_force: "2004-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016566/2004-04-10/0"
+intitule_bron: "Stcrt.2004-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-29"
+intitule_published: "2004-04-08"
+intitule_in_force: "2004-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-69"
+original_signed_date: "2004-03-29"
+original_published_date: "2004-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-69-p15-SC64469"
+entry_into_force_date: "2004-04-10"
+jci_1_3: "jci1.3:c:BWBR0016566&z=2004-04-10&g=2004-04-10"
+jci_1_0: "1.0:c:BWBR0016566&g=2004-04-10"
+citeertitel_status: "redactioneel"
+short_title: "Vaststellingsregeling selectielijst handelingen beleidsterrein Sociale Verzekeringen over de periode vanaf 1941"
+signed_date: "2004-03-29"
+entry_into_force: "2004-04-10"
 ---
-
 # Vaststelling selectielijst handelingen beleidsterrein Sociale Verzekeringen over de periode vanaf 1941
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 7 januari 2004
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Stichting Silicose Oud-Mijnwerkers en de onder hem ressorterende actoren op het beleidsterrein Sociale Verzekeringen over de periode vanaf 1940’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

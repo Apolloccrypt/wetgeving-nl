@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking"
 identifier: "BWBV0007058"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007058"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007058"
+soort: "verdrag"
+stam_id: "10005665913"
+version_id: "10006242922"
+internal_id: "C10010227581"
+label_id: "10005647804"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007058/2025-12-12/0"
+intitule_bron: "Trb.2024-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-06-13"
+intitule_in_force: "2025-12-18"
+intitule_status: "goed"
+original_publication: "Trb.2024-65"
+original_published_date: "2024-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2024-65"
+entry_into_force_date: "2025-12-12"
+jci_1_3: "jci1.3:c:BWBV0007058&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBV0007058&g=2025-12-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-12-12"
 ---
-
 # Overeenkomst ter uitvoering van artikel 13 van het tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden op 23 juli 2018 te Brussel gesloten Verdrag inzake politiesamenwerking
 
 Het Koninkrijk België en het Koninkrijk der Nederlanden,
@@ -28,11 +50,11 @@ Overwegende dat het Groothertogdom Luxemburg op dit moment niet wenst deel te ne
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De mogelijkheden voorzien in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) worden toegepast door het Koninkrijk België en het Koninkrijk der Nederlanden volgens de voorwaarden en modaliteiten voorzien in deze Uitvoeringsovereenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van deze Uitvoeringsovereenkomst wordt verstaan onder:
 
@@ -52,25 +74,25 @@ De mogelijkheden voorzien in [artikel 13 van het Politieverdrag](https://wetten.
 
 2. Voor het overige gelden voor deze Uitvoeringsovereenkomst eveneens de definities vastgelegd in [artikel 1 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze Uitvoeringsovereenkomst bepaalt enkel de voorwaarden, modaliteiten en procedures voor de vormen van samenwerking voorzien in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), namelijk de verstrekking van referentiegegevens en de hits op deze referentiegegevens.
 
 2. De post factum bevraging van passagegegevens, namelijk het verzoek door een bevoegde dienst van een deelnemende Verdragsluitende Partij aan een bevoegde dienst van een andere deelnemende Verdragsluitende Partij om passagegegevens te ontvangen die in het verleden werden gegenereerd door ANPR-camera’s maar geen hit hebben opgeleverd op door een bevoegde dienst van de verzoekende Verdragsluitende Partij verstrekte referentiegegevens, maakt niet het voorwerp uit van deze Uitvoeringsovereenkomst. Deze vorm van informatie-uitwisseling kan plaatsvinden op basis van [artikel 4 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=4), voor zover de nationale wetgeving van de aangezochte Verdragsluitende Partij dit toelaat.
 
-#### Artikel 4
+##### Artikel 4
 
 De referentiegegevens bevatten enkel gegevens die ook volgens het nationale recht van de Partij waartoe de verstrekkende bevoegde dienst behoort op het eigen grondgebied kunnen opgenomen worden als referentiegegevens voor ANPR-camera’s.
 
-#### Artikel 5
+##### Artikel 5
 
 De verstrekking van referentiegegevens op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) kan gebeuren op structurele basis, zijnde met een frequentie van minstens eenmaal per werkdag, tenzij onderling anders overeengekomen door de betrokken bevoegde diensten, of op ad hoc-basis voor gebruik in het raam van een specifieke actie, waarbij de ontvangen referentiegegevens kunnen worden ingezet met een duur van ten hoogste 48 uur.
 
-#### Artikel 6
+##### Artikel 6
 
 Aangezien beide Partijen beschikken over een eigen lijst met referentiegegevens die overgenomen zijn uit het SIS, verdient het, waar mogelijk en rekening houdend met het principe van proportionaliteit, de voorkeur om de gegevens van het voertuig ten aanzien van hetwelk men een opvolgingshandeling wenst te laten uitvoeren, op te nemen in het SIS, eerder dan ze op te nemen in de referentiegegevens die men verstrekt op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=6&z=2025-12-12&g=2025-12-12) van deze Uitvoeringsovereenkomst bedoelde eigen lijsten met referentiegegevens die de Partijen samenstellen met gegevens uit het SIS, worden niet als dusdanig aan elkaar verstrekt.
 
@@ -78,11 +100,11 @@ Aangezien beide Partijen beschikken over een eigen lijst met referentiegegevens 
 
 3. Indien in een geval zoals beschreven in het tweede lid van dit artikel de opvolgingshandeling die in het SIS aan de betreffende referentiegegevens is gekoppeld zou verschillen van de opvolgingshandeling die wordt gevraagd bij op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) verstrekte referentiegegevens, wordt altijd voorrang gegeven aan de maatregel vermeld in het SIS.
 
-#### Artikel 8
+##### Artikel 8
 
 De referentiegegevens kunnen worden verstrekt en ingezet voor het doel van de voorkoming, het onderzoek of de opsporing van strafbare feiten of de handhaving van de openbare orde en veiligheid, met inbegrip van de opdrachten gegeven door bevoegde autoriteiten met het oog op de tenuitvoerlegging van straffen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde dienst die de referentiegegevens verstrekt, vermeldt daarbij de opvolgingshandeling die gevraagd wordt van de bevoegde dienst die de referentiegegevens inzet.
 
@@ -92,33 +114,33 @@ De referentiegegevens kunnen worden verstrekt en ingezet voor het doel van de vo
 
 4. De ontvangende bevoegde dienst streeft ernaar de door de verstrekkende bevoegde dienst gevraagde opvolgingshandeling of -handelingen uit te voeren, maar is hier niet toe verplicht.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De samenwerking op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) kan niet gebruikt worden met het oog op de uitvoering van observaties die aan bijzondere wettelijke voorwaarden onderworpen zijn in de regelgeving van de Partijen. Dientengevolge dient er steeds een fysieke tussenkomst van de ontvangende bevoegde dienst te worden gevraagd als opvolgingshandeling.
 
 2. Indien men gebruik wenst te maken van ANPR-camera’s teneinde een grensoverschrijdende observatie uit te voeren, dient dit te gebeuren overeenkomstig de voorwaarden en procedures voorzien in [artikel 22 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=22), met inachtneming van het nationale recht van de gaststaat.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verstrekkende en ontvangende bevoegde diensten bepalen vooraf in onderling overleg en rekening houdend met het principe van proportionaliteit in welk geografisch gebied de verstrekte referentiegegevens zullen worden ingezet. Dit kan zowel het volledige grondgebied van de ontvangende Partij zoals bepaald in [artikel 67 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=67) betreffen (nationaal gebruik) als een gedeelte daarvan (lokaal gebruik).
 
 2. De bevoegde diensten van het Koninkrijk der Nederlanden geven, rekening houdend met het principe van proportionaliteit, voor de referentiegegevens die zij aan de bevoegde diensten van het Koninkrijk België verstrekken aan binnen welk tijdsbestek en hoe vaak de gevraagde opvolgingshandeling of -handelingen moeten worden uitgevoerd, zodat de ontvangende bevoegde diensten van het Koninkrijk België deze criteria kunnen integreren in de technische systemen die zij gebruiken voor de inzet van ANPR-camera’s, conform de vigerende Belgische regelgeving.
 
-#### Artikel 12
+##### Artikel 12
 
 De bevoegde dienst die referentiegegevens ontvangt, kan weigeren deze in te zetten, in overeenstemming met [artikel 61 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=61). Deze bevoegde dienst zal in dat geval de verstrekkende bevoegde dienst onverwijld op de hoogte brengen van deze beslissing, met vermelding van de redenen voor de weigering, en de ontvangen referentiegegevens onmiddellijk vernietigen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ontvangen referentiegegevens mogen enkel ingezet worden op ANPR-camera’s die verbonden zijn met het centrale systeem dat door de bevoegde dienst of diensten van de ontvangende Partij gebruikt wordt voor het beheer van de gegevens die worden gekoppeld aan ANPR-camera’s of met een lokaal systeem dat voor bijwerkingen verbonden is met dat centrale systeem. Onverminderd het tweede lid van dit artikel mogen ze niet worden opgeslagen of vervoerd op verwijderbare gegevensdragers.
 
 2. De bevoegde diensten van het Koninkrijk België die op het ogenblik van de inwerkingtreding van het [Politieverdrag](onbekend) gebruik maken van verwijderbare gegevensdragers om referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen, mogen tot uiterlijk 2 jaar na de inwerkingtreding van het [Politieverdrag](onbekend) gebruik maken van deze verwijderbare gegevensdragers om de van de bevoegde diensten van het Koninkrijk Nederland ontvangen referentiegegevens aan de door hen gebruikte ANPR-camera’s te koppelen.
 
-#### Artikel 14
+##### Artikel 14
 
 De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvangen versie van de referentiegegevens. In geen geval mag gebruik worden gemaakt van referentiegegevens die meer dan 5 dagen eerder werden ontvangen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De referentiegegevens die worden verstrekt, bevatten per voertuig in elk geval de volgende categorieën gegevens:
 
@@ -148,13 +170,13 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 4. De verstrekkende bevoegde dienst zorgt ervoor dat de referentiegegevens in het juiste technische formaat worden verstrekt opdat ze zonder technische modificatie bruikbaar zijn in de ANPR-camera’s gebruikt door de ontvangende bevoegde dienst.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De referentiegegevens worden verstrekt via nationale contactpunten overeenkomstig [artikel 13, vijfde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13). De Partijen delen elkaar schriftelijk de namen en contactgegevens van deze nationale contactpunten mee en brengen elkaar onverwijld op de hoogte van elke wijziging daarvan.
 
 2. De referentiegegevens worden verstrekt via een beveiligd datakanaal overeenkomstig [artikel 12, derde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=12).
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien een hit plaatsvindt die betrekking heeft op een voertuig dat, of een persoon die het voorwerp uitmaakt van een internationale signalering, in het bijzonder in het SIS, zal de in [artikel 13, derde lid, van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13) voorziene melding van deze hit aan de verstrekkende bevoegde dienst worden gedaan volgens de procedures die zijn voorzien in de rechtsinstrumenten die van toepassing zijn op een dergelijke signalering.
 
@@ -164,7 +186,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 - b. indien de gevraagde opvolgingshandeling niet kon worden uitgevoerd, wordt enkel de eerste hit gemeld aan de bevoegde dienst die de referentiegegevens heeft verstrekt. Deze laatste informeert zo snel mogelijk de bevoegde dienst die de hit heeft gemeld of hij ook de informatie met betrekking tot eventuele navolgende hits wenst te ontvangen. Daarbij dient enkel de eerste hit te worden gemeld als gevalideerde hit; voor de navolgende hits is dergelijke validatie niet noodzakelijk.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien een hit plaatsvindt op een voertuig dat niet het voorwerp uitmaakt van een internationale signalering en de gevraagde opvolgingshandeling kon worden uitgevoerd, worden de volgende categorieën gegevens meegedeeld aan de bevoegde dienst die de referentiegegevens heeft verstrekt:
 
@@ -226,7 +248,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 - iii. foto van het voertuig waarop de hit gebaseerd is zonder dat de inzittenden van het voertuig herkenbaar zijn.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien een hit plaatsvindt op een voertuig dat niet het voorwerp uitmaakt van een internationale signalering als bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=17&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst, moet dit aan de bevoegde dienst die de referentiegegevens heeft verstrekt, worden gemeld via de nationale contactpunten als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007058&artikel=16&z=2025-12-12&g=2025-12-12), van deze Uitvoeringsovereenkomst, behoudens in de gevallen voorzien in het tweede en derde lid van dit artikel.
 
@@ -240,7 +262,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 4. In de gevallen voorzien in het tweede en derde lid van dit artikel dient het in het eerste lid van dit artikel bedoelde nationale contactpunt van de Verdragsluitende Partij die de referentiegegevens heeft verstrekt, onmiddellijk op de hoogte te worden gebracht.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Om te bepalen welke referentiegegevens de bevoegde diensten van de Partijen aan elkaar verstrekken op basis van [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13), is het leidende principe steeds dat er een opvolgingshandeling wordt gevraagd die kan worden uitgevoerd door de ontvangende bevoegde dienst op basis van diens nationale wetgeving of een internationale signalering.
 
@@ -250,7 +272,7 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 4. Het is niet noodzakelijk dat de bevoegde dienst die de referentiegegevens verstrekt, deze zelf inzet of ingezet heeft op door hem gebruikte ANPR-camera’s. De bevoegde dienst die de referentiegegevens verstrekt, mag deze selecteren uit de voor hem reeds beschikbare of toegankelijke gegevens, met het enkele doel deze te verstrekken aan een bevoegde dienst van een andere Partij zoals bedoeld in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
 
-#### Artikel 21
+##### Artikel 21
 
 1. De bepalingen in het nationale recht van de Partijen die gelden ter omzetting van [richtlijn (EU) 2016/680](32016L0680) van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van kaderbesluit 2008/977/JBZ van de Raad zijn van toepassing op de uitwisseling van gegevens als bedoeld in [artikel 13 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=13).
 
@@ -258,11 +280,11 @@ De ontvangende bevoegde dienst maakt steeds gebruik van de meest recent ontvange
 
 3. De bevoegde diensten van de ontvangende Partij mogen de ontvangen referentiegegevens slechts doorverstrekken aan derden onder de voorwaarden bepaald in [artikel 9 van het Politieverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0006758&artikel=9).
 
-#### Artikel 22
+##### Artikel 22
 
 Elke Partij draagt haar eigen kosten voor de uitvoering van deze Uitvoeringsovereenkomst.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De secretaris-generaal van de Benelux Unie is depositaris van deze Uitvoeringsovereenkomst.
 

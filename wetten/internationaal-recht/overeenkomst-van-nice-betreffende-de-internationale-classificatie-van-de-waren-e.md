@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten waarop fabrieks- of handelsmerken betrekking hebben, ondertekend op 15 juni 1957"
 identifier: "BWBV0005056"
-categorie: "Internationaal recht"
-publicatiedatum: 1962-08-20
-laatste_update: 1962-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005056"
+country: "nl"
+rank: "verdrag"
+publication_date: "1962-08-20"
+last_updated: "1962-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005056"
+soort: "verdrag"
+stam_id: "10004453623"
+version_id: "10004661352"
+internal_id: "C10007124711"
+label_id: "10004438354"
+dtd_version: "2.0"
+original_entry_into_force: "1962-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005056/1962-08-20/0"
+intitule_bron: "Trb.1958-76"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1958-06-18"
+intitule_in_force: "1962-08-10"
+intitule_status: "goed"
+original_publication: "Trb.1958-76"
+original_published_date: "1958-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-76"
+entry_into_force_date: "1962-08-20"
+jci_1_3: "jci1.3:c:BWBV0005056&z=1962-08-20&g=1962-08-20"
+jci_1_0: "1.0:c:BWBV0005056&g=1962-08-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1962-08-20"
 ---
-
 # Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten waarop fabrieks- of handelsmerken betrekking hebben, ondertekend op 15 juni 1957
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De landen, waarvoor deze Overeenkomst geldt, vormen een bijzondere Unie.
 
@@ -28,7 +50,7 @@ bron: "https://wetten.overheid.nl/BWBV0005056"
 
 (6). De classificatie zal in de Franse taal worden opgesteld en, op verzoek van ieder Overeenkomstsluitend land, zal daarvan een officiële vertaling in zijn taal kunnen worden openbaar gemaakt door het Internationaal Bureau in overleg met de betrokken nationale Administratie. Elke vertaling van de lijst van waren en diensten zal bij de waren of diensten, behalve het rangnummer van de alfabetische opsomming in de desbetreffende taal, ook het rangnummer van de in de Franse taal opgestelde lijst vermelden.
 
-#### Artikel 2
+##### Artikel 2
 
 (1). Onder voorbehoud van de door deze Overeenkomst opgelegde verplichtingen is de betekenis van de internationale classificatie die, welke daaraan door elk Overeenkomstsluitend land wordt toegekend. In het bijzonder bindt de internationale classificatie de Overeenkomstsluitende landen noch wat betreft de beoordeling van de omvang der bescherming van het merk, noch wat betreft de erkenning van de dienstmerken.
 
@@ -38,7 +60,7 @@ bron: "https://wetten.overheid.nl/BWBV0005056"
 
 (4). De omstandigheid, dat een benaming voorkomt in de alfabetische lijst van de waren en diensten doet niets af aan de rechten, die op die benaming zouden kunnen bestaan.
 
-#### Artikel 3
+##### Artikel 3
 
 (1). Bij het Internationaal Bureau wordt een Comité van deskundigen ingesteld, dat moet beslissen over alle in de internationale classificatie van de waren en diensten aan te brengen wijzigingen en aanvullingen. Elk der Overeenkomstsluitende landen zal zijn vertegenwoordigd in het Comité, waarvan de wijze van werken zal worden geregeld door een huishoudelijk reglement, vastgesteld bij meerderheid van stemmen der vertegenwoordigde landen. Het Internationaal Bureau is in het Comité vertegenwoordigd.
 
@@ -52,7 +74,7 @@ bron: "https://wetten.overheid.nl/BWBV0005056"
 
 (6). Ingeval een land geen deskundige heeft aangewezen om het te vertegenwoordigen, alsmede ingeval de aangewezen deskundige zijn mening niet heeft medegedeeld binnen een door het huishoudelijk reglement vast te stellen termijn, zal het desbetreffende land geacht worden het besluit van het Comité te hebben aanvaard.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Van alle wijzigingen en alle aanvullingen, waartoe het Comité van deskundigen besluit, zal door het Internationaal Bureau kennis worden gegeven aan de Administraties van de Overeenkomstsluitende landen.
 
@@ -60,7 +82,7 @@ De besluiten zullen in werking treden, voor wat betreft de aanvullingen, bij ont
 
 (2). Het Internationaal Bureau brengt, in zijn hoedanigheid van bewaarder van de classificatie van de waren en diensten, daarin de in werking getreden wijzigingen en de aanvullingen aan. Van deze wijzigingen en aanvullingen geschiedt openbaarmaking in de twee periodieken „La Propriété industrielle” en „Les Marques internationales”.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). De uitgaven, die het Internationaal Bureau zal hebben te doen in verband met de uitvoering van deze Overeenkomst, zullen door de Overeenkomstsluitende landen gemeenschappelijk worden gedragen onder toepassing van het bepaalde in artikel 13, leden (8), (9) en (10), van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom. Tot nader besluit zullen deze uitgaven een bedrag van 40.000 goudfranken *)Deze geldeenheid is de frank verdeeld in 100 centimes, met een gewicht van 10/31 gram en een gehalte van 0,900. per jaar niet mogen overschrijden.
 
@@ -68,7 +90,7 @@ De besluiten zullen in werking treden, voor wat betreft de aanvullingen, bij ont
 
 (3). De bedragen der in het eerste en tweede lid bedoelde kosten zullen zo nodig kunnen worden verhoogd bij besluit van de Overeenkomstsluitende landen of van een in artikel 8 bedoelde Conferentie; zodanige besluiten zullen rechtsgeldig zijn, mits zij de instemming van vier-vijfde van de Overeenkomstsluitende landen hebben verkregen.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). Deze Overeenkomst zal worden bekrachtigd en de akten van bekrachtiging zullen uiterlijk de 31ste december 1961 worden nedergelegd te PARIJS. Van de bekrachtigingen zal, onder vermelding van de data daarvan en alle verklaringen waarvan zij vergezeld mochten gaan, door de Regering van de Franse Republiek mededeling gedaan worden aan de Regeringen der andere Overeenkomstsluitende landen.
 
@@ -76,13 +98,13 @@ De besluiten zullen in werking treden, voor wat betreft de aanvullingen, bij ont
 
 (3). De landen, voor welke de akte van bekrachtiging niet in het in het eerste lid bedoelde tijdvak zal zijn nedergelegd, zullen tot de Overeenkomst mogen toetreden volgens de bepalingen van [artikel 16 van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=16).
 
-#### Artikel 7
+##### Artikel 7
 
 Deze Overeenkomst zal tussen de landen, voor welke zij zal zijn bekrachtigd of die tot haar zijn toegetreden, in werking treden één maand nadat de akten van bekrachtiging zullen zijn nedergelegd of van de toetreding zal zijn kennis gegeven door tenminste tien landen.
 
 De Overeenkomst zal dezelfde rechtskracht en dezelfde werkingsduur hebben als de [Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 8
+##### Artikel 8
 
 (1). Deze Overeenkomst zal regelmatig herzien worden teneinde er de gewenste verbeteringen in aan te brengen.
 
@@ -92,17 +114,17 @@ De Overeenkomst zal dezelfde rechtskracht en dezelfde werkingsduur hebben als de
 
 (4). De Directeur van het Internationaal Bureau zal de zittingen van de Conferenties bijwonen en aan de besprekingen deelnemen, zonder stemgerechtigd te zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 (1). Elk der Overeenkomstsluitende landen zal het recht hebben deze Overeenkomst op te zeggen door middel van een schriftelijke kennisgeving aan de Regering van de Zwitserse Bondsstaat.
 
 (2). Deze opzegging, die door vorengenoemde Regering aan alle andere aangesloten landen zal worden medegedeeld, zal slechts ten opzichte van het opzeggende land werken en eerst twaalf maanden na ontvangst van de tot de Regering van de Zwitserse Bondsstaat gerichte mededeling van opzegging, terwijl de Overeenkomst voor de andere aangesloten landen van kracht blijft.
 
-#### Artikel 10
+##### Artikel 10
 
 De bepalingen van artikel 16**bis** van de Internationale Overeenkomst van Parijs tot bescherming van de industriële eigendom zijn van toepassing op deze Overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 (1). Deze Overeenkomst zal worden getekend in een enkel exemplaar, hetwelk zal worden nedergelegd in de archieven van het Ministerie van Buitenlandse Zaken van de Franse Republiek. Een voor eensluidend gewaarmerkt afschrift zal langs diplomatieke weg aan elk der Regeringen van de Overeenkomstsluitende landen worden toegezonden.
 

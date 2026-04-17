@@ -1,14 +1,41 @@
 ---
-title: "Wet elektronische gegevensuitwisseling in de zorg"
+title: "Wet van 19 april 2023, houdende regels inzake het elektronisch delen en benaderen van gegevens tussen zorgverleners in aangewezen gegevensuitwisselingen (Wet elektronische gegevensuitwisseling in de zorg)"
 identifier: "BWBR0048095"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048095"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048095"
+soort: "wet"
+stam_id: "16730593"
+version_id: "29352742"
+internal_id: "C41882241"
+label_id: "16647424"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048095/2025-07-05/0"
+intitule_bron: "Stb.2023-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-19"
+intitule_published: "2023-04-21"
+intitule_in_force: "2023-04-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-133"
+original_signed_date: "2023-04-19"
+original_published_date: "2023-04-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "35824"
+original_url_id: "stb-2023-133"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048095&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0048095&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Wet elektronische gegevensuitwisseling in de zorg"
+signed_date: "2023-04-19"
+entry_into_force: "2023-07-01"
 ---
-
-# Wet elektronische gegevensuitwisseling in de zorg
+# Wet van 19 april 2023, houdende regels inzake het elektronisch delen en benaderen van gegevens tussen zorgverleners in aangewezen gegevensuitwisselingen (Wet elektronische gegevensuitwisseling in de zorg)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### Paragraaf 1. – Algemene bepalingen
 
-#### Artikel 1.1. (begripsbepalingen)
+##### Artikel 1.1. (begripsbepalingen)
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,13 +91,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **zorgverlener:** zorgverlener als bedoeld in [artikel 1, eerste lid, van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=1).
 
-#### Artikel 1.2. (doel)
+##### Artikel 1.2. (doel)
 
 1. Om goede zorg als bedoeld in [artikel 2 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=2) te kunnen verlenen worden onverminderd [artikel 3 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=3) bij of krachtens deze wet voorschriften gesteld die randvoorwaardelijk zijn voor het verlenen van goede zorg, voor zover het gaat om het uitwisselen van gegevens over een cliënt tussen zorgverleners en het delen van gegevens over een cliënt tussen zorgverleners en cliënten.
 
 2. Om de marktwerking van informatietechnologieproducten en -diensten en zorginformatiesystemen te verbeteren, kunnen bij of krachtens deze wet voorschriften worden gesteld.
 
-#### Artikel 1.3. (Meerjarenagenda Wegiz)
+##### Artikel 1.3. (Meerjarenagenda Wegiz)
 
 1. Onze Minister zendt aan de Tweede Kamer der Staten-Generaal een lijst met gegevensuitwisselingen die aangewezen kunnen worden op grond van [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05).
 
@@ -82,7 +109,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het draagvlak in de zorg is.
 
-#### Artikel 1.4. (aanwijzen van gegevensuitwisselingen en gegevens, en eisen aan het uitwisselen van gegevens tussen zorgverleners en met persoonlijke gezondheidsomgevingen)
+##### Artikel 1.4. (aanwijzen van gegevensuitwisselingen en gegevens, en eisen aan het uitwisselen van gegevens tussen zorgverleners en met persoonlijke gezondheidsomgevingen)
 
 1. Bij of krachtens algemene maatregel van bestuur worden voor het doel, bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.2&z=2025-07-05&g=2025-07-05), gegevensuitwisselingen aangewezen waarvoor de verplichtingen bij of krachtens deze wet gelden.
 
@@ -104,13 +131,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen voor het doel, bedoeld in [artikel 1.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.2&z=2025-07-05&g=2025-07-05), eisen worden gesteld die er toe leiden dat bij een aangewezen gegevensuitwisseling door de zorgverlener op een veilige en betrouwbare wijze gegevens met een persoonlijke gezondheidsomgeving worden gedeeld.
 
-#### Artikel 1.5. (eisen aan informatietechnologieproducten – en diensten en zorginformatiesystemen ter verbetering van de marktwerking)
+##### Artikel 1.5. (eisen aan informatietechnologieproducten – en diensten en zorginformatiesystemen ter verbetering van de marktwerking)
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen eisen worden gesteld aan informatietechnologieproducten of -diensten of, voor zover geen informatietechnologieproduct of -dienst, zorginformatiesystemen die er toe leiden dat het voor een zorgaanbieder mogelijk is om gebruik te maken van andere, gelijksoortige systemen, producten of diensten.
 
 2. De eisen kunnen zien op de realisering van dataportabiliteit.
 
-#### Artikel 1.6. (zorg in justitiële inrichtingen, forensische zorg en militaire gezondheidszorg)
+##### Artikel 1.6. (zorg in justitiële inrichtingen, forensische zorg en militaire gezondheidszorg)
 
 1. Deze wet is niet van toepassing op inrichtingen als bedoeld in [artikel 1, onderdeel b, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), inrichtingen als bedoeld in [artikel 1, onderdeel b, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1) en instellingen voor de verpleging van ter beschikking gestelden als bedoeld in de [artikelen 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.1), en [3.3, eerste lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=3.3), tenzij bij algemene maatregel van bestuur anders wordt bepaald.
 
@@ -118,13 +145,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij algemene maatregel van bestuur kan voor zover er sprake is van militaire gezondheidszorg als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=1) worden afgeweken van deze wet als dat met het oog op operationele omstandigheden voor de inzet of het ter beschikking stellen van de krijgsmacht ter uitvoering van de in [artikel 97 van de Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=97) omschreven taken noodzakelijk is.
 
-#### Artikel 1.7. (geen verplichting tot uitwisselen van gegevens)
+##### Artikel 1.7. (geen verplichting tot uitwisselen van gegevens)
 
 De verplichtingen die bij of krachtens deze wet gelden omvatten in ieder geval niet de verplichting tot het uitwisselen van gegevens.
 
 #### Paragraaf 2. – Zorgaanbieders
 
-#### Artikel 2.1. (verplichting zorgaanbieders)
+##### Artikel 2.1. (verplichting zorgaanbieders)
 
 1. Een zorgaanbieder ziet er op toe dat in een aangewezen gegevensuitwisseling bij het uitwisselen van gegevens door onder hem ressorterende zorgverleners ten minste gebruik wordt gemaakt van een elektronische infrastructuur.
 
@@ -142,7 +169,7 @@ De verplichtingen die bij of krachtens deze wet gelden omvatten in ieder geval n
 
 - c. die ressorteren onder een opdrachtnemer met wie de zorgaanbieder een schriftelijke overeenkomst als bedoeld in [artikel 4, eerste lid, onderdeel b, Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=4) heeft afgesloten om zorg te doen verlenen.
 
-#### Artikel 2.2. (verplichting zorgaanbieders inzake delen van gegevens tussen zorgverleners en persoonlijke gezondheidsomgevingen)
+##### Artikel 2.2. (verplichting zorgaanbieders inzake delen van gegevens tussen zorgverleners en persoonlijke gezondheidsomgevingen)
 
 1. De zorgaanbieder ziet erop toe dat, als bij of krachtens [artikel 1.4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05), eisen zijn gesteld, de onder hem ressorterende zorgverlener bij het delen van gegevens met een persoonlijke gezondheidsomgeving voldoet aan die eisen, tenzij het eisen betreffen die zien op persoonlijke gezondheidsomgevingen.
 
@@ -150,7 +177,7 @@ De verplichtingen die bij of krachtens deze wet gelden omvatten in ieder geval n
 
 #### Paragraaf 3. – Informatietechnologieproducten of -diensten
 
-#### Artikel 3.1. (certificering van informatietechnologieproducten of -diensten)
+##### Artikel 3.1. (certificering van informatietechnologieproducten of -diensten)
 
 Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05), is bepaald dat deze voorzien is van een certificaat:
 
@@ -158,7 +185,7 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 - b. is voorzien van een certificaat waaruit blijkt dat het informatietechnologieproduct of de -dienst voldoet aan die eisen.
 
-#### Artikel 3.2. (aanwijzen certificerende instellingen op verzoek)
+##### Artikel 3.2. (aanwijzen certificerende instellingen op verzoek)
 
 1. Een certificaat wordt op aanvraag verstrekt door een door Onze Minister aangewezen instelling.
 
@@ -188,7 +215,7 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 7. Als de continuïteit van het uitwisselen van gegevens in een aangewezen gegevensuitwisseling dit vereist, kan in afwijking van het eerste lid een certificaat op aanvraag worden verstrekt door Onze Minister. De [artikelen 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.3&z=2025-07-05&g=2025-07-05), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.5&z=2025-07-05&g=2025-07-05) en [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.6&z=2025-07-05&g=2025-07-05) zijn in dat geval van overeenkomstige toepassing.
 
-#### Artikel 3.3. (nadere regels rond certificering)
+##### Artikel 3.3. (nadere regels rond certificering)
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over:
 
@@ -200,7 +227,7 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 2. Bij ministeriele regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3.4. (kosten aanvraag en andere werkzaamheden certificering door Onze Minister)
+##### Artikel 3.4. (kosten aanvraag en andere werkzaamheden certificering door Onze Minister)
 
 1. In het geval Onze Minister de aanvraag behandelt en overige taken uitvoert ten aanzien van certificering kunnen bij algemene maatregel van bestuur regels worden gesteld met betrekking tot vergoeding van de kosten voor:
 
@@ -210,13 +237,13 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 2. Bij ministeriele regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3.5. (verstrekken en geldigheid certificaat)
+##### Artikel 3.5. (verstrekken en geldigheid certificaat)
 
 1. Een certificerende instelling verstrekt op aanvraag een certificaat als de aanvrager aantoont dat het informatietechnologieproduct of de -dienst voldoet aan de eisen die aan dat informatietechnologieproduct of die -dienst zijn gesteld op grond van [artikel 1.4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05).
 
 2. Van een certificerende instelling waarvan de aanwijzing, bedoeld in [artikel 3.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.2&z=2025-07-05&g=2025-07-05), is ingetrokken, zijn de afgegeven certificaten twaalf maanden geldig na de datum van intrekking van de aanwijzing.
 
-#### Artikel 3.6. (schorsen of intrekken certificaat)
+##### Artikel 3.6. (schorsen of intrekken certificaat)
 
 1. Een certificerende instelling kan een certificaat schorsen of intrekken als het informatietechnologieproduct of de -dienst niet langer voldoet aan de eisen die aan dat informatietechnologieproduct of die -dienst gesteld zijn op grond van [artikel 1.4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05).
 
@@ -228,7 +255,7 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 #### Paragraaf 4. – Toezicht en handhaving
 
-#### Artikel 4.1. (toezicht op de naleving)
+##### Artikel 4.1. (toezicht op de naleving)
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
@@ -238,7 +265,7 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 4. Voor zover de desbetreffende zorgaanbieder of zorgverlener uit hoofde van ambt, beroep of wettelijk voorschrift tot geheimhouding van gegevens verplicht is, kan diegene deze verplichting, in afwijking van [artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), niet inroepen tegenover de in het eerste lid bedoelde ambtenaren. Op de in het eerste lid bedoelde ambtenaren rust dezelfde geheimhoudingsplicht als op de desbetreffende zorgaanbieder of zorgverlener.
 
-#### Artikel 4.2. (handhaving [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05))
+##### Artikel 4.2. (handhaving [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05))
 
 1. Als Onze Minister van oordeel is dat het bepaalde in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05) niet wordt nageleefd, kan hij de zorgaanbieder een schriftelijke aanwijzing geven.
 
@@ -254,13 +281,13 @@ Een informatietechnologieproduct of -dienst waarvoor op grond van [artikel 1.4, 
 
 5. Onze Minister is bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder die het bepaalde in de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.1&z=2025-07-05&g=2025-07-05) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=2&artikel=2.2&z=2025-07-05&g=2025-07-05) niet naleeft.
 
-#### Artikel 4.3. (handhaving [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05))
+##### Artikel 4.3. (handhaving [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05))
 
 Onze Minister kan degene die een informatietechnologieproduct of -dienst aanbiedt aan een zorgaanbieder of een informatietechnologieproduct of -dienst ondersteunt die in strijd met [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=3&artikel=3.1&z=2025-07-05&g=2025-07-05) niet voorzien is van een certificaat, een bestuurlijke boete opleggen van ten hoogste het bedrag van de geldboete van de zesde categorie van [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23) of, als dat meer is, ten hoogste 10% van de omzet van de onderneming, onderscheidenlijk, als de overtreding door een ondernemersvereniging is begaan, van de gezamenlijke omzet van de ondernemingen die van de vereniging deel uitmaken, in het boekjaar voorafgaande aan de beschikking waarin de bestuurlijke boete wordt opgelegd.
 
 #### Paragraaf 5. – Informatie
 
-#### Artikel 5.1. (nadere regels over informatieverwerking)
+##### Artikel 5.1. (nadere regels over informatieverwerking)
 
 1. Bij algemene maatregel van bestuur kunnen regels worden gesteld over de verwerking van informatie die noodzakelijk is voor de uitvoering van de wettelijke taken of beleidsvorming.
 
@@ -268,25 +295,25 @@ Onze Minister kan degene die een informatietechnologieproduct of -dienst aanbied
 
 #### Paragraaf 6. – Betrokkenheid parlement
 
-#### Artikel 6.1. (voorhangprocedure)
+##### Artikel 6.1. (voorhangprocedure)
 
 De voordracht voor een algemene maatregel van bestuur op grond van [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05) wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. Als een van de kamers der Staten-Generaal besluit niet in te stemmen met het ontwerp, wordt er geen voordracht gedaan en kan niet eerder dan zes weken na het besluit van die kamer der Staten-Generaal een nieuw ontwerp aan beide kamers der Staten-Generaal worden overgelegd.
 
-#### Artikel 6.2. (rapportageverplichting)
+##### Artikel 6.2. (rapportageverplichting)
 
 Als aan een aangewezen gegevensuitwisseling geen eisen zijn gesteld als bedoeld in [artikel 1.4, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0048095&paragraaf=1&artikel=1.4&z=2025-07-05&g=2025-07-05), zendt Onze Minister jaarlijks aan de Staten-Generaal zijn bevindingen over de voortgang om deze eisen te gaan stellen.
 
 #### Paragraaf 7. – Aanpassing andere wetten
 
-#### Artikel 7.1. (aanpassing [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864)
+##### Artikel 7.1. (aanpassing [Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0023864)
 
 Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg.
 
-#### Artikel 7.2. (aanpassing [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173))
+##### Artikel 7.2. (aanpassing [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173))
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
 
-#### Artikel 7.3. (aanpassing [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705))
+##### Artikel 7.3. (aanpassing [Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705))
 
 Wijzigt de Wet publieke gezondheid.
 
@@ -294,25 +321,25 @@ Dit onderdeel is nog niet inwerking getreden
 
 #### Paragraaf 8. – Samenloopbepalingen
 
-#### Artikel 8.1. (eerste samenloopbepaling)
+##### Artikel 8.1. (eerste samenloopbepaling)
 
 Vervallen
 
-#### Artikel 8.2. (tweede samenloopbepaling)
+##### Artikel 8.2. (tweede samenloopbepaling)
 
 Vervallen
 
 #### Paragraaf 9. – Slotbepalingen
 
-#### Artikel 9.1. (evaluatiebepaling)
+##### Artikel 9.1. (evaluatiebepaling)
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 9.2. (inwerkingtreding)
+##### Artikel 9.2. (inwerkingtreding)
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 9.3. (citeertitel)
+##### Artikel 9.3. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet elektronische gegevensuitwisseling in de zorg.
 

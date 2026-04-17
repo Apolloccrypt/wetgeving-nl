@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)"
 identifier: "BWBR0019911"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-06-08
-laatste_update: 2006-06-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019911"
+country: "nl"
+rank: "circulaire"
+publication_date: "2006-06-08"
+last_updated: "2006-06-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019911"
+soort: "circulaire"
+stam_id: "8326583"
+version_id: "13195882"
+internal_id: "C17765941"
+label_id: "8307534"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019911/2006-06-08/0"
+intitule_bron: "Stcrt.2006-109"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-29"
+intitule_published: "2006-06-08"
+intitule_in_force: "2006-06-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-109"
+original_signed_date: "2006-05-29"
+original_published_date: "2006-06-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-109-p22-SC75447"
+entry_into_force_date: "2006-06-08"
+jci_1_3: "jci1.3:c:BWBR0019911&z=2006-06-08&g=2006-06-08"
+jci_1_0: "1.0:c:BWBR0019911&g=2006-06-08"
+citeertitel_status: "redactioneel"
+signed_date: "2006-05-29"
+entry_into_force: "2006-06-08"
 ---
-
 # Circulaire Nadere uitleg Arbeidsvoorwaardenovereenkomst sector Rijk (Arbeid en Gezondheid)
 
 ### Inleiding

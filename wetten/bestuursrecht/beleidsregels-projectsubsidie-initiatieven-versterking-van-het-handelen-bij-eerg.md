@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld"
+title: "Besluit van de Minister voor Vreemdelingenzaken en Integratie van 14 september 2005, nr. DDS 5373122 houdende de vaststelling van beleidsregels ter zake van de uitvoering van artikel 48s van de Wet Justitie-subsidies (Beleidsregels projectsubsidie initiatieven versterking van het handelen bij eergerelateerd geweld)"
 identifier: "BWBR0018748"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-09-24
-laatste_update: 2005-09-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018748"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-09-24"
+last_updated: "2005-09-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018748"
+soort: "beleidsregel"
+stam_id: "7355503"
+version_id: "12307832"
+internal_id: "C16552881"
+label_id: "7343414"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018748/2005-09-24/0"
+intitule_bron: "Stcrt.2005-184"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-14"
+intitule_published: "2005-09-22"
+intitule_in_force: "2005-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-184"
+original_signed_date: "2005-09-14"
+original_published_date: "2005-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-184-p13-SC71600"
+entry_into_force_date: "2005-09-24"
+jci_1_3: "jci1.3:c:BWBR0018748&z=2005-09-24&g=2005-09-24"
+jci_1_0: "1.0:c:BWBR0018748&g=2005-09-24"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld"
+signed_date: "2005-09-14"
+entry_into_force: "2005-09-24"
 ---
-
 # Besluit van de Minister voor Vreemdelingenzaken en Integratie van 14 september 2005, nr. DDS 5373122 houdende de vaststelling van beleidsregels ter zake van de uitvoering van artikel 48s van de Wet Justitie-subsidies (Beleidsregels projectsubsidie initiatieven versterking van het handelen bij eergerelateerd geweld)
 
 Gelet op [artikel 48s van de Wet Justitiesubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In dit besluit wordt verstaan onder:
 
 - d. Handelingsprotocol: een door en voor burgers en organisaties uit de minderheden op te stellen document dat inzicht geeft in handelingsmogelijkheden ter voorkoming van of interventie bij eergerelateerd geweld.
 
-#### Artikel 2. Doelomschrijving
+##### Artikel 2. Doelomschrijving
 
 De Minister kan op aanvraag een subsidie verlenen ten behoeve van initiatieven die:
 
@@ -34,11 +60,11 @@ De Minister kan op aanvraag een subsidie verlenen ten behoeve van initiatieven d
 
 - b. bijdragen aan de realisatie van een gezamenlijk op te stellen handelingsprotocol.
 
-#### Artikel 3. Budget
+##### Artikel 3. Budget
 
 Het beschikbare budget voor het verlenen van de subsidies bedraagt € 200.000,= , te besteden in het jaar 2005.
 
-#### Artikel 4. Subsidieaanvrager
+##### Artikel 4. Subsidieaanvrager
 
 Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
@@ -46,7 +72,7 @@ Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
 - b. een gemeente of provincie, dan wel een door de gemeente of provincie bij overeenkomst aangewezen rechtspersoon, onder aanvullende voorwaarden als genoemd in [artikel 7, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=7&z=2005-09-24&g=2005-09-24).
 
-#### Artikel 5. Subsidieaanvraag
+##### Artikel 5. Subsidieaanvraag
 
 1. Bij de aanvraag dient te worden overgelegd een projectvoorstel, als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=6&z=2005-09-24&g=2005-09-24), en een daarbij behorende begroting van de kosten die voor subsidie in aanmerking worden gebracht.
 
@@ -58,7 +84,7 @@ Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
 3. Een aanvraag tot verlening van een subsidie dient uiterlijk 5 oktober 2005 door de Minister te zijn ontvangen.
 
-#### Artikel 6. Projectvoorstel
+##### Artikel 6. Projectvoorstel
 
 1. Het projectvoorstel, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=5&z=2005-09-24&g=2005-09-24), bevat in ieder geval:
 
@@ -86,7 +112,7 @@ Voor verlening van een subsidie komen in aanmerking rechtspersonen, zijnde:
 
 3. Het projectvoorstel vermeldt een projectleider.
 
-#### Artikel 7. Aanvullende criteria
+##### Artikel 7. Aanvullende criteria
 
 Als voorwaarde voor verlening van een subsidie gelden ten aanzien van de te subsidiëren activiteiten de volgende aanvullende criteria:
 
@@ -104,7 +130,7 @@ Als voorwaarde voor verlening van een subsidie gelden ten aanzien van de te subs
 
 - g. de activiteiten mogen niet reeds uit andere hoofde van rijkswege zijn gesubsidieerd en maken geen onderdeel uit van het reguliere beleid van de rijksoverheid, provincie of gemeente.
 
-#### Artikel 8. Subsidiabele kosten
+##### Artikel 8. Subsidiabele kosten
 
 Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende, rechtstreeks aan de voorbereiding, de uitvoering en het beheer van het project toe te rekenen, werkelijk gemaakte en ten laste van de subsidie-aanvrager gebleven kosten van:
 
@@ -114,11 +140,11 @@ Voor subsidie kunnen slechts in aanmerking worden gebracht de volgende, rechtstr
 
 - c. overhead.
 
-#### Artikel 9. Omvang subsidie
+##### Artikel 9. Omvang subsidie
 
 De subsidie voor de kosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=8&z=2005-09-24&g=2005-09-24), bedragen maximaal € 35.000 per project, onder verwijzing naar [artikel 7, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=7&z=2005-09-24&g=2005-09-24) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018748&artikel=8&z=2005-09-24&g=2005-09-24).
 
-#### Artikel 10. Verlening van de subsidie
+##### Artikel 10. Verlening van de subsidie
 
 1. De Minister besluit voor 1 november 2005 op de aanvraag om verlening van een subsidie.
 
@@ -132,7 +158,7 @@ De subsidie voor de kosten, bedoeld in [artikel 8](https://wetten.overheid.nl/jc
 
 4. De subsidie wordt eenmalig verleend.
 
-#### Artikel 11. Afwijzing subsidie
+##### Artikel 11. Afwijzing subsidie
 
 Op een aanvraag om verlening van een subsidie wordt in ieder geval afwijzend beslist indien:
 
@@ -140,7 +166,7 @@ Op een aanvraag om verlening van een subsidie wordt in ieder geval afwijzend bes
 
 - b. de kosten van het project naar het oordeel van de Minister niet in redelijke verhouding staan tot de beoogde effecten.
 
-#### Artikel 12. Vaststelling van de subsidie
+##### Artikel 12. Vaststelling van de subsidie
 
 1. De ontvanger van een subsidie dient voor 1 mei 2006 bij de Minister een aanvraag in tot vaststelling van de subsidie.
 
@@ -148,14 +174,14 @@ Op een aanvraag om verlening van een subsidie wordt in ieder geval afwijzend bes
 
 3. De Minister beslist voor 1 augustus 2006 op de aanvraag om vaststelling van de subsidie.
 
-#### Artikel 13. Inventarisatie en evaluatie
+##### Artikel 13. Inventarisatie en evaluatie
 
 De subsidieontvanger verleent op verzoek van de Minister medewerking aan een inventarisatie- of evaluatieonderzoek, bedoeld om inzicht te krijgen in effecten van de gesubsidiëerde activiteiten.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 15. Titel
+##### Artikel 15. Titel
 
 Dit besluit wordt aangehaald als: Beleidsregels projectsubsidie Initiatieven versterking van het handelen bij eergerelateerd geweld.

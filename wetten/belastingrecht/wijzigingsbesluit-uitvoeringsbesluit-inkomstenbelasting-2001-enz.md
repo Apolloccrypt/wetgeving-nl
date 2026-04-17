@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz."
+title: "Besluit van 23 december 2010 tot wijziging van enige fiscale uitvoeringsbesluiten"
 identifier: "BWBR0029375"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-02-24
-laatste_update: 2011-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029375"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-02-24"
+last_updated: "2011-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029375"
+soort: "AMvB"
+stam_id: "11194513"
+version_id: "18321832"
+internal_id: "C25512881"
+label_id: "11168854"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029375/2011-02-24/0"
+intitule_bron: "Stb.2010-885"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-30"
+intitule_in_force: "2010-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-885"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-885"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029375&z=2011-02-24&g=2011-02-24"
+jci_1_0: "1.0:c:BWBR0029375&g=2011-02-24"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Uitvoeringsbesluit inkomstenbelasting 2001, enz."
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Besluit van 23 december 2010 tot wijziging van enige fiscale uitvoeringsbesluiten
 
 Op de voordracht van de Staatssecretaris van Financiën van 19 november 2010, nr. DB 2010/244 M;
@@ -20,39 +46,39 @@ Gezien het nader rapport van de Staatssecretaris van Financiën van 20 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel V
+##### Artikel V
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit winstbepaling en reserves verzekeraars 2001.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel IX
+##### Artikel IX
 
 Voor de toepassing van [artikel 7, tweede lid, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=7) wordt:
 
@@ -64,43 +90,43 @@ Voor de toepassing van [artikel 7, tweede lid, van het Uitvoeringsbesluit omzetb
 
 aangemerkt als een instelling die door de inspecteur is erkend als een instelling van sociale of culturele aard. Hierbij blijven de voorwaarden en beperkingen van kracht die met betrekking tot het verlenen van de vrijstelling zijn gesteld.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Algemeen douanebesluit.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Uitvoeringsbesluit verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 

@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling Belastingwet BES"
 identifier: "BWBR0029332"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029332"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029332"
+soort: "ministeriele-regeling-BES"
+stam_id: "11183063"
+version_id: "29139452"
+internal_id: "C41409171"
+label_id: "11158024"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029332/2025-01-01/0"
+intitule_bron: "Stcrt.2010-20995"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33377"
+original_signed_date: "2022-12-02"
+original_published_date: "2022-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-33377"
+entry_into_force_date: "2022-12-02"
+jci_1_3: "jci1.3:c:BWBR0029332&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0029332&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-12-02"
+entry_into_force: "2022-12-02"
 ---
-
 # Uitvoeringsregeling Belastingwet BES
 
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -20,7 +45,7 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt.
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. Deze regeling geeft uitvoering aan de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=1.3), [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=4.4), [4.8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=4.8), [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=5.7), [6.3](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.3), [6.7l](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.7l), [6.10](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.10), [6.11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.11), [6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.12), [6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.15), [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.20), [6.21](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.21), [6.22](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.22), [6.25, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.25), [6.26](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.26), [8.3, eerste en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.3), [8.8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.8), [8.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.11), [8.19, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.19), [8.21, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.21), [8.57, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.57), [8.58, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.58), [8.63](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.63), [8.89a](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89a), [8.128, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.128), en [8.130, derde lid, van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.130) en [artikel XVII van de Invoeringswet fiscaal stelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029268&artikel=XVII).
 
@@ -34,7 +59,7 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt.
 
 ### Hoofdstuk 4. Vastgoedbelasting ([hoofdstuk IV van de wet](onbekend))
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Buiten het Rijk gevestigde of georganiseerde kerkelijke, levensbeschouwelijke, charitatieve, culturele of wetenschappelijke instellingen en doelen bij welke de behartiging van het algemeen nut of een sociaal belang op de voorgrond staat, worden op verzoek door de inspecteur, onder door hem te stellen voorwaarden, aangemerkt als een buiten het Rijk gevestigde of georganiseerde instelling of doel ter zake waarvan inhouding van opbrengstbelasting achterwege kan blijven.
 
@@ -70,15 +95,15 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Dit hoofdstuk verstaat onder belasting: algemene bestedingsbelasting.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 1. De aftrek van de in [artikel 6.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.3) bedoelde belasting (voorbelasting) geschiedt overeenkomstig de bestemming van de goederen op het tijdstip waarop de belasting aan de producent in rekening wordt gebracht dan wel door hem ter zake van de invoer is betaald.
 
@@ -106,25 +131,25 @@ Vervallen
 
 - b. wordt hij de ten onrechte in aftrek gebrachte voorbelasting alsnog verschuldigd en moet hij deze belasting verrekenen met de in dat zevende lid bedoelde teruggaaf, of, indien die voorbelasting meer bedraagt dan die teruggaaf, moet hij dat saldo voldoen op de eerst volgende aangifte.
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 Alvorens te beslissen op een verzoek om teruggaaf van belasting als bedoeld in [artikel 6.15, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.15), kan de inspecteur een onderzoek instellen dan wel om nadere gegevens vragen ter vaststelling van de juistheid van het verzoek.
 
 #### § 2. Plaats van dienst
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 Vervallen
 
 #### § 2. Plaats van dienst
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 1. De aanspraak op toepassing van het tarief van nihil voor leveringen van goederen als genoemd in [artikel 6.10, tweede lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.10) geldt slechts indien de toepasselijkheid van dat tarief uit boeken en bescheiden blijkt.
 
 2. Als producten als bedoeld in [artikel 6.10, tweede lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.10), worden aangewezen producten die zijn opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&bijlage=II&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 1. Voor de toepassing van de in [artikel 6.11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.11) vervatte vrijstellingen is de ondernemer gehouden een boekhouding te voeren waarin de voor die toepassing benodigde gegevens op duidelijke en overzichtelijke wijze zijn vermeld.
 
@@ -142,25 +167,25 @@ Vervallen
 
 8. De vrijstelling, bedoeld in [artikel 6.11, eerste lid, onderdeel y, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.11), wordt alleen toegepast op schriftelijk verzoek aan de inspecteur door de ondernemer die de vrijstelling op een prestatie of op een deel van die prestatie wil toepassen en die bij zijn verzoek schriftelijke bescheiden overlegt waaruit blijkt dat het een prestatie of een deel daarvan betreft voor projecten die voor rekening komen van de in genoemd artikel van de wet bedoelde donoren. De inspecteur beslist op het verzoek om toepassing van de vrijstelling bij voor bezwaar vatbare beslissing.
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 Als diensten die van de belasting zijn vrijgesteld worden aangewezen diensten als bedoeld in [artikel 7.1, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.1), indien ter zake van het verrichten van die diensten overdrachtsbelasting verschuldigd is.
 
 #### § 4. Wijze van heffing
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 1. Als gevallen als bedoeld in [artikel 6.12, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.12) worden aangewezen de gevallen waarin diensten, andere dan de in [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=6&paragraaf=3&artikel=6.8&z=2025-01-01&g=2025-01-01) bedoelde diensten, worden verricht bestaande uit de overdracht van rechten op onroerende zaken, van zakelijke rechten die aan de rechthebbende de bevoegdheid verschaffen om een onroerende zaak te gebruiken en van deelbewijzen en aandelen waarvan het bezit rechtens of in feite recht geven op eigendom of het genot van een onroerende zaak of een deel daarvan, alsmede van andere dergelijke diensten ter zake van de overdracht van rechten op onroerende zaken.
 
 2. De in het eerste lid aangewezen gevallen worden mede aangewezen als gevallen als bedoeld in [artikel 8.63, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.63), tenzij de ondernemer die de in het eerste lid aangewezen diensten verricht van het verrichten van zijn dienst en van de door hem daarvoor ontvangen vergoeding, uiterlijk op de laatste dag van de maand volgend op de maand waarin de dienst is verricht, afzonderlijk opgave heeft gedaan bij de inspecteur.
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 Gereserveerd
 
 #### § 4. Wijze van heffing
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 1. Het verzoek, bedoeld in [artikel 6.20, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.20), wordt ingewilligd indien de producent:
 
@@ -192,13 +217,13 @@ Gereserveerd
 
 8. Vrijgesteld van de belasting ter zake van invoer zijn geneesmiddelen en medische kunst- en hulpmiddelen waarvan de levering op grond van [artikel 6.11, eerste lid, onderdelen d en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.11), is vrijgesteld van belasting.
 
-#### Artikel 6.12
+##### Artikel 6.12
 
 Het verzoek om teruggaaf van belasting als bedoeld in [artikel 6.21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.21) geschiedt bij een schriftelijk bij de inspecteur in te dienen verzoek als bedoeld in [artikel 3.145, eerste lid, van de Douane- en Accijnswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029236&artikel=3.145). De bepalingen van dat artikel 3.145 zijn daarbij van overeenkomstige toepassing.
 
 #### § 5. Heffing ter zake van invoer
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 1. Voor de toepassing van [artikel 6.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.22):
 
@@ -210,7 +235,7 @@ Het verzoek om teruggaaf van belasting als bedoeld in [artikel 6.21, tweede lid,
 
 2. De ondernemer die op grond van [artikel 6.22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.22) is ontheven van het voldoen van belasting, en die zijn omzet aangeeft op een hem door de inspecteur voor een tijdvak van een kalenderjaar uitgereikte aangifte in de zin van [artikel 6.15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.15), is voor dat tijdvak ontheven van de hem bij artikel 6.22, vierde lid, van de wet, opgelegde verplichting. Een verzuim van de ondernemer tot het bij de inspecteur indienen van die uitgereikte aangifte wordt gelijkgesteld aan het verzuim tot het doen van een opgave.
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 1. Ontheffing van de verplichtingen bedoeld in [artikel 6.25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.25) wordt op schriftelijk verzoek verleend, indien aannemelijk is dat de ondernemer, een andere dan een producent, bij toepassing van [artikel 6.22, eerste lid, onderdeel a, en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.22) geen belasting hoeft te voldoen en dat hij ter zake van de door hem verrichte diensten per kalenderjaar een omzet exclusief belasting zal behalen van USD 10.000 of minder.
 
@@ -228,7 +253,7 @@ Het verzoek om teruggaaf van belasting als bedoeld in [artikel 6.21, tweede lid,
 
 5. Na het vervallen van de ontheffing door opzegging kan een hernieuwd verzoek eerst na vijf jaar worden ingewilligd.
 
-#### Artikel 6.15
+##### Artikel 6.15
 
 1. De ondernemer is verplicht het in [artikel 6.25, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.25) bedoelde houden van aantekening regelmatig te verrichten en, voor zover van toepassing, alle documenten ter zake van de invoer en uitvoer van goederen in zijn administratie te bewaren.
 
@@ -236,7 +261,7 @@ Het verzoek om teruggaaf van belasting als bedoeld in [artikel 6.21, tweede lid,
 
 3. Een ondernemer aan wie een levering of dienst wordt verricht waarvoor hij ingevolge [artikel 6.12, tweede lid of vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.12), belasting verschuldigd is, is, onverminderd de verplichtingen, bedoeld in [artikel 6.25, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.25), tevens gehouden aan de verplichting zijn boekhouding zo in te richten dat de door hem ter zake van die levering of dienst verschuldigde belasting op overeenkomstige wijze als bedoeld in artikel 6.25, eerste lid, onderdeel c, van de wet, kan worden vastgesteld.
 
-#### Artikel 6.16
+##### Artikel 6.16
 
 Vervallen
 
@@ -246,7 +271,7 @@ Vervallen
 
 #### § 1. Uitnodiging tot het doen van aangifte
 
-#### Artikel 8.1
+##### Artikel 8.1
 
 1. Het uitnodigen tot het doen van aangifte geschiedt door het uitreiken of toezenden van een aangiftebrief waaruit blijkt de wijze van het doen van aangifte, een omschrijving van de gevraagde gegevens of bescheiden en de termijn waarbinnen aangifte moet worden gedaan.
 
@@ -254,7 +279,7 @@ Vervallen
 
 #### § 1. Uitnodiging tot het doen van aangifte
 
-#### Artikel 8.2
+##### Artikel 8.2
 
 1. Aangifte wordt gedaan door het op de in de aangiftebrief, bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=1&artikel=8.1&z=2025-01-01&g=2025-01-01), aangegeven wijze, inleveren of toezenden van de gevraagde gegevens of bescheiden.
 
@@ -274,7 +299,7 @@ Vervallen
 
 3. De inspecteur kan al dan niet op verzoek bij voor bezwaar vatbare beschikking ontheffing verlenen van een van de verplichtingen, bedoeld in het tweede lid, indien het langs elektronische weg doen van aangifte onredelijk bezwarend is voor de administratieplichtige. De ontheffing geldt voor maximaal een jaar. De inspecteur kan de beschikking waarbij ontheffing is verleend intrekken bij voor bezwaar vatbare beschikking indien blijkt dat ten onrechte ontheffing is verleend dan wel dat de gronden voor ontheffing zich niet langer voordoen.
 
-#### Artikel 8.3
+##### Artikel 8.3
 
 1. Met betrekking tot de overdrachtsbelasting ter zake van een verkrijging waarvan een notariële akte is opgemaakt, wordt aangifte gedaan door het aanbieden van die akte ter registratie. Het verschuldigde bedrag aan overdrachtsbelasting wordt vermeld in een aan de voet van de akte gestelde, door de verkrijger of namens deze door de notaris ondertekende verklaring. In die verklaring wordt tevens vermeld of in verband met de verkrijging van de onroerende zaak of zaken tevens een of meer roerende zaken zijn verkregen. Indien dat het geval is, wordt in de verklaring voorts vermeld welke roerende zaak of zaken het betreft, voor welk bedrag deze werd of werden verkregen en of dat bedrag is begrepen in de in de akte vermelde tegenprestatie voor de onroerende zaak of zaken. Voor zover overigens in de akte niet alle gegevens voorkomen waarvan kennisneming van belang kan zijn voor de heffing van de overdrachtsbelasting, worden deze eveneens opgenomen in de verklaring.
 
@@ -282,29 +307,29 @@ Vervallen
 
 3. De aangifte, bedoeld in het eerste lid, kan worden gedaan door een afschrift van de aldaar bedoelde akte, vergezeld van het daartoe door de Belastingdienst beschikbaar gestelde voorblad, langs elektronische weg ter registratie aan te bieden. Dit voorblad treedt dan in de plaats van de in het eerste lid bedoelde verklaring.
 
-#### Artikel 8.4
+##### Artikel 8.4
 
 Van de verplichting de in de uitnodiging tot het doen van aangifte gevraagde gegevens en bescheiden en andere gegevensdragers of de inhoud daarvan in te leveren of toe te zenden, kan de inspecteur ontheffing verlenen ingeval degene die is uitgenodigd tot het doen van aangifte, op een binnen de door de inspecteur ingevolge [artikel 8.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.6) gestelde termijn ingediend verzoek opnieuw is uitgenodigd tot het doen van aangifte.
 
 #### § 2. Het doen van aangifte
 
-#### Artikel 8.5
+##### Artikel 8.5
 
 1. De inspecteur legt een voorlopige aanslag op, indien het bedrag waarop de aanslag vermoedelijk zal worden vastgesteld, na verrekening van voorheffingen en reeds opgelegde voorlopige aanslagen, zulks naar zijn mening rechtvaardigt.
 
 2. De bepaling van het bedrag waarop een voorlopige aanslag die wordt vastgesteld in het tijdvak waarover de belasting wordt geheven, dan wel na het tijdvak waarin de belastingschuld is ontstaan, kan voor de inkomstenbelasting geschieden op grond van de gegevens die hebben gediend ter vaststelling van de meest recente belastingaanslag over het meest recente kalenderjaar.
 
-#### Artikel 8.6
+##### Artikel 8.6
 
 Indien een voorlopige aanslag inkomstenbelasting is of zal worden vastgesteld en een relevante wijziging optreedt in de omstandigheden die van belang zijn voor de opgelegde of op te leggen voorlopige aanslag, doet de belastingplichtige daarvan zo spoedig mogelijk op de door de inspecteur aangegeven wijze mededeling aan de inspecteur.
 
 #### § 2a. Beschikking vermindering loonbelasting
 
-#### Artikel 8.7
+##### Artikel 8.7
 
 Het tijdvak waarover de algemene bestedingsbelasting moet worden betaald, is de kalendermaand. De inspecteur kan, al dan niet op verzoek, toestaan dat het tijdvak waarover de algemene bestedingsbelasting moet worden betaald het kalenderkwartaal is.
 
-#### Artikel 8.8
+##### Artikel 8.8
 
 1. Het tijdvak waarover de loonbelasting moet worden betaald is een kalenderkwartaal.
 
@@ -324,7 +349,7 @@ Het tijdvak waarover de algemene bestedingsbelasting moet worden betaald, is de 
 
 #### § 3. Voorlopige aanslag
 
-#### Artikel 8.9
+##### Artikel 8.9
 
 1. De geheimhoudingsplicht, bedoeld in [artikel 8.21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.21), geldt niet voor verstrekking aan de hierna genoemde bestuursorganen voor zover het betreft de hierna genoemde gegevens ten behoeve van de hierna genoemde publiekrechtelijke taak:
 
@@ -404,7 +429,7 @@ Het tijdvak waarover de algemene bestedingsbelasting moet worden betaald, is de 
 
 #### Titel 1. Algemene bepalingen uitstel van betaling en kwijtschelding van BES belastingen
 
-#### Artikel 8.10
+##### Artikel 8.10
 
 1. Een verzoek om uitstel van betaling of om kwijtschelding wordt schriftelijk ingediend bij de ontvanger.
 
@@ -412,11 +437,11 @@ Het tijdvak waarover de algemene bestedingsbelasting moet worden betaald, is de 
 
 3. De ontvanger beslist op een verzoek om uitstel van betaling of om kwijtschelding bij voor bezwaar vatbare beschikking. Een besluit tot herziening of een besluit tot gehele of gedeeltelijke beëindiging van het op de voet van [titel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2025-01-01&g=2025-01-01) verleende uitstel van betaling wordt eveneens door de ontvanger genomen bij voor bezwaar vatbare beschikking.
 
-#### Artikel 8.11
+##### Artikel 8.11
 
 De ontvanger maakt een ingevolge deze afdeling ten aanzien van een belastingschuldige genomen beschikking aan deze bekend door uitreiking of toezending van een gedagtekende kennisgeving terzake.
 
-#### Artikel 8.12
+##### Artikel 8.12
 
 1. Voor de toepassing van de [titels 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&z=2025-01-01&g=2025-01-01) worden de rente en de bestuurlijke boeten die de belastingschuldige heeft belopen in verband met belastingen, gelijkgesteld met de belasting waarmee zij samenhangen.
 
@@ -424,7 +449,7 @@ De ontvanger maakt een ingevolge deze afdeling ten aanzien van een belastingschu
 
 #### Titel 2. Uitstel van betaling
 
-#### Artikel 8.13
+##### Artikel 8.13
 
 1. De ontvanger kan uitstel van betaling verlenen wegens betalingsproblemen.
 
@@ -440,17 +465,17 @@ De ontvanger maakt een ingevolge deze afdeling ten aanzien van een belastingschu
 
 5. Gedurende het uitstel van betaling kan verrekening op de voet van [artikel 8.59 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.59) plaatsvinden. Verrekening heeft geen invloed op het door de belastingschuldige maandelijks te betalen bedrag.
 
-#### Artikel 8.14
+##### Artikel 8.14
 
 1. De ontvanger kan uitstel van betaling verlenen gedurende de periode dat er een bezwaar of beroep aanhangig is inzake de belastingaanslag, voor zover die belastingaanslag bestreden wordt.
 
 2. [Artikel 8.13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.13&z=2025-01-01&g=2025-01-01), is van toepassing.
 
-#### Artikel 8.15
+##### Artikel 8.15
 
 De ontvanger kan uitstel van betaling verlenen in verband met een binnen afzienbare tijd te verwachten door hem uit te betalen bedrag.
 
-#### Artikel 8.16
+##### Artikel 8.16
 
 1. Voor belastingaanslagen als genoemd in [artikel 8.57, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.57), kan de ontvanger uitstel van betaling verlenen, mits voldoende zekerheid is gesteld.
 
@@ -470,7 +495,7 @@ De ontvanger kan uitstel van betaling verlenen in verband met een binnen afzienb
 
 5. [Artikel 8.18, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.18&z=2025-01-01&g=2025-01-01), is niet van toepassing.
 
-#### Artikel 8.17
+##### Artikel 8.17
 
 1. Gedurende de behandeling van het verzoek om uitstel van betaling neemt de ontvanger ten aanzien van de belastingaanslag waarvoor om uitstel van betaling is verzocht geen invorderingsmaatregelen. Indien voor een belastingaanslag uitstel van betaling is verleend, neemt de ontvanger ten aanzien van deze belastingaanslag evenmin invorderingsmaatregelen.
 
@@ -478,7 +503,7 @@ De ontvanger kan uitstel van betaling verlenen in verband met een binnen afzienb
 
 3. Gedurende het uitstel dienen lopende fiscale verplichtingen tijdig te worden nagekomen.
 
-#### Artikel 8.18
+##### Artikel 8.18
 
 Het uitstel van betaling wordt beëindigd:
 
@@ -502,7 +527,7 @@ Het uitstel van betaling wordt beëindigd:
 
 #### Afdeling 1. Algemene bepalingen
 
-#### Artikel 8.19
+##### Artikel 8.19
 
 1. Geen kwijtschelding wordt verleend:
 
@@ -518,7 +543,7 @@ Het uitstel van betaling wordt beëindigd:
 
 2. Voorts wordt geen kwijtschelding verleend voor zover het verzoek betrekking heeft op een belastingschuld waarvan aannemelijk is dat die schuld in de toekomst kan worden voldaan, zoals in geval van sterk wisselende inkomens, een verwachte verbetering van de financiële omstandigheden of een te verwachten door de ontvanger uit te betalen bedrag.
 
-#### Artikel 8.20
+##### Artikel 8.20
 
 1. Gedurende de behandeling van het verzoek om kwijtschelding worden voor de belastingaanslag ten aanzien waarvan om kwijtschelding is verzocht geen conservatoire maatregelen genomen of voortgezet. Eveneens wordt gedurende die tijd voor die belastingaanslag de dwanginvordering niet aangevangen of voortgezet.
 
@@ -526,11 +551,11 @@ Het uitstel van betaling wordt beëindigd:
 
 #### Afdeling 1. Algemene bepalingen
 
-#### Artikel 8.21
+##### Artikel 8.21
 
 Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd door natuurlijke personen die geen bedrijf en niet zelfstandig een beroep uitoefenen.
 
-#### Artikel 8.22
+##### Artikel 8.22
 
 Kwijtschelding kan worden verleend voor:
 
@@ -542,17 +567,17 @@ Kwijtschelding kan worden verleend voor:
 
 - 2°. de betalingscapaciteit is aangewend.
 
-#### Artikel 8.23
+##### Artikel 8.23
 
 De ontvanger kan aan de belastingschuldige kwijtschelding van inkomstenbelasting verlenen tot een bedrag gelijk aan de in het nieuwe woonland van de belastingschuldige feitelijk geheven belasting voor voordelen uit vervreemding als bedoeld in [artikel 11, vijfde lid, onderdelen e en f, van de Wet inkomstenbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029281&artikel=11), welke aan het uitstel verleend op grond van [artikel 8.16](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=2&artikel=8.16&z=2025-01-01&g=2025-01-01) ten grondslag liggen, met dien verstande dat het bedrag aan kwijtschelding niet meer bedraagt dan het bedrag van de inkomstenbelasting waarvoor op grond van artikel 8.16 uitstel van betaling is verleend.
 
 #### Afdeling 1. Algemene bepalingen
 
-#### Artikel 8.24
+##### Artikel 8.24
 
 Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen.
 
-#### Artikel 8.25
+##### Artikel 8.25
 
 1. Kwijtschelding wordt uitsluitend verleend indien dit geschiedt in het kader van een akkoord met alle schuldeisers en er geen redelijke mogelijkheid aanwezig is om een derde aansprakelijk te stellen.
 
@@ -560,7 +585,7 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 #### Afdeling 2. Kwijtschelding van BES belastingen in de privésfeer
 
-#### Artikel 8.26
+##### Artikel 8.26
 
 1. De ontvanger verleent op schriftelijk verzoek van de aansprakelijk gestelde ontslag van de verplichting tot betaling van BES belastingen op de voet van [afdeling 3](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&hoofdstuk=8&paragraaf=6&titeldeel=3&afdeling=3&z=2025-01-01&g=2025-01-01).
 
@@ -572,7 +597,7 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 #### § 7. Internationale bijstandsverlening
 
-#### Artikel 8.27
+##### Artikel 8.27
 
 1. Ingeval een bevoegde autoriteit een verzoek doet tot de notificatie van stukken, beslist de Minister van Financiën zo spoedig mogelijk omtrent het aan het verzoek te verlenen gevolg.
 
@@ -584,7 +609,7 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 5. De bevoegde autoriteit, bedoeld in het eerste lid, wordt onverwijld op de hoogte gesteld van het gevolg van de uitvoering van het verzoek tot notificatie van stukken. In ieder geval wordt deze autoriteit in kennis gesteld van de datum waarop de notificatie van stukken heeft plaatsgevonden.
 
-#### Artikel 8.28
+##### Artikel 8.28
 
 1. Ingeval een bevoegde autoriteit een voorstel doet tot een gelijktijdig onderzoek, beslist de Minister van Financiën na het in het in [artikel 8.130, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.130) bedoelde overleg zo spoedig mogelijk omtrent het aan het voorstel te verlenen gevolg.
 
@@ -594,7 +619,7 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 9.1
+##### Artikel 9.1
 
 1. Deze regeling treedt in werking op het tijdstip waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) in werking treedt.
 
@@ -602,7 +627,7 @@ Deze paragraaf heeft betrekking op kwijtschelding van belasting verschuldigd doo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6.17
+##### Artikel 6.17
 
 Ter zake van de overgang van de tot 1 januari 2011 op de BES eilanden geheven omzetbelasting en belasting op de bedrijfsomzetten naar de heffing van algemene bestedingsbelasting is [artikel 6.27 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=6.27) van overeenkomstige toepassing.
 
@@ -638,7 +663,7 @@ Ter zake van de overgang van de tot 1 januari 2011 op de BES eilanden geheven om
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8.4a
+##### Artikel 8.4a
 
 1. Indien het bedrag van de aan de werknemer, bedoeld in [artikel 2 van de Wet loonbelasting BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029283&artikel=2), op te leggen aanslag inkomstenbelasting zonder toepassing van dit artikel vermoedelijk meer dan een vierde of meer dan USD 560 lager zal zijn dan de van hem over het betreffende jaar in te houden loonbelasting, kan de werknemer bij de inspecteur verzoeken om een voor bezwaar vatbare beschikking vermindering loonbelasting.
 
@@ -668,7 +693,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8.8a
+##### Artikel 8.8a
 
 1. Het tijdvak waarover de kansspelbelasting die wordt geheven van de belastingplichtige, bedoeld in [artikel 7a.1, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7a.1), moet worden betaald, is de kalendermaand.
 
@@ -692,7 +717,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 De vrijstelling van belasting, bedoeld in [artikel 7.4, eerste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.4), is alleen van toepassing voor zover ter zake van de levering van de in dat onderdeel genoemde onroerende zaken algemene bestedingsbelasting verschuldigd is.
 
@@ -718,7 +743,7 @@ De vrijstelling van belasting, bedoeld in [artikel 7.4, eerste lid, onderdeel g,
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Het niet in aanmerking nemen van een waardestijging als bedoeld in [artikel 4.8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=4.8) vindt alleen plaats met betrekking tot waardestijgingen die door de inspecteur zijn vastgesteld. De inspecteur stelt deze waardestijging alleen vast indien de belastingplichtige binnen een jaar na afloop van het kalenderjaar waarin zich de wijzigingen met betrekking tot de onroerende zaak hebben voorgedaan aan de inspecteur meldt dat zich wijzigingen hebben voorgedaan en welke waardestijging naar zijn oordeel uit deze wijzigingen voortvloeit. Het niet in aanmerking nemen van de door de inspecteur vastgestelde waardestijging werkt terug tot en met het eerste kalenderjaar na afloop van het kalenderjaar waarin deze waardestijging zich heeft voorgedaan.
 
@@ -778,7 +803,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Als charitatieve of culturele instellingen, doelen voor de behartiging van het algemeen nut of een sociaal belang of organisaties van werkgevers of werknemers als bedoeld in [artikel 4.4, onderdeel i, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=4.4) worden aangewezen de instellingen die in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0029332&bijlage=I&z=2025-01-01&g=2025-01-01) bij deze regeling zijn opgenomen.
 
@@ -868,7 +893,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### Afdeling 4. Ontslag van de verplichting tot betaling aansprakelijk gestelde
 
-#### Artikel 8.26a
+##### Artikel 8.26a
 
 1. Voor de toepassing van de in [artikel 8.89a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=8.89a) opgenomen factuurplicht kan:
 
@@ -1036,7 +1061,7 @@ St. Eustatius Sev. Day Adventist School, Weg naar Lynch 10, Sint Eustatius
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Met betrekking tot de algemene bestedingsbelasting worden niet als personenauto of bestelauto aangemerkt, motorrijtuigen die:
 
@@ -1070,7 +1095,7 @@ Met betrekking tot de algemene bestedingsbelasting worden niet als personenauto 
 
 ### Hoofdstuk 8. Formeel belastingrecht en invordering van BES belastingen ([hoofdstuk VIII van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VIII))
 
-#### Artikel 8.8b
+##### Artikel 8.8b
 
 Het tijdvak waarover de minimumbelasting moet worden betaald, is de verslagleggingsperiode waarover de uiteindelijkemoederentiteit van een multinationale groep of binnenlandse groep haar geconsolideerde jaarrekening opstelt of, indien de uiteindelijkemoederentiteit geen geconsolideerde jaarrekening opstelt, het kalenderjaar.
 

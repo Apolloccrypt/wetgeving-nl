@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Nationale ombudsman (1964) 1982– (Minister van Volksgezondheid, Welzijn en Sport)"
 identifier: "BWBR0023450"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2008-02-13
-laatste_update: 2008-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023450"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2008-02-13"
+last_updated: "2008-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023450"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9414273"
+version_id: "15155632"
+internal_id: "C25321451"
+label_id: "9391734"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023450/2008-02-13/0"
+intitule_bron: "Stcrt.2008-29"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-15"
+intitule_published: "2008-02-11"
+intitule_in_force: "2008-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-29"
+original_signed_date: "2008-01-15"
+original_published_date: "2008-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-29-p76-SC84382"
+entry_into_force_date: "2008-02-13"
+jci_1_3: "jci1.3:c:BWBR0023450&z=2008-02-13&g=2008-02-13"
+jci_1_0: "1.0:c:BWBR0023450&g=2008-02-13"
+citeertitel_status: "redactioneel"
+signed_date: "2008-01-15"
+entry_into_force: "2008-02-13"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Nationale ombudsman (1964) 1982– (Minister van Volksgezondheid, Welzijn en Sport)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 30 augustus 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Volksgezondheid, Welzijn en Sport en de onder hem ressorterende actoren op het beleidsterrein Nationale ombudsman over de periode (1964) 1982–’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

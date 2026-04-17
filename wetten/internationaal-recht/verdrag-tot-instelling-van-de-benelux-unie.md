@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot instelling van de Benelux Unie"
 identifier: "BWBV0003087"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003087"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003087"
+soort: "verdrag"
+stam_id: "10003327423"
+version_id: "10003358002"
+internal_id: "C10007637871"
+label_id: "10003313724"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003087/2012-01-01/0"
+intitule_bron: "Trb.2008-135"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-07-03"
+intitule_in_force: "2011-12-22"
+intitule_status: "goed"
+original_publication: "Trb.2008-135"
+original_published_date: "2008-07-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-135"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBV0003087&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBV0003087&g=2012-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-01-01"
 ---
-
 # Verdrag tot instelling van de Benelux Unie
 
 Preambule
@@ -60,11 +82,11 @@ Komen overeen het Verdrag tot instelling van de Benelux Economische Unie van 3 f
 
 ## DEEL 1. BEGINSELEN EN DOELSTELLINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 De Hoge Verdragsluitende Partijen stellen een Benelux Unie in met het oog op het bevorderen van hun gemeenschappelijke belangen en het welzijn van hun bevolkingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Benelux Unie heeft tot doel de samenwerking tussen de Hoge Verdragsluitende Partijen te verdiepen en uit te bouwen, opdat deze verder een voortrekkersrol kan vervullen binnen de Europese Unie en de grensoverschrijdende samenwerking op alle niveaus kan versterken en verbeteren.
 
@@ -76,7 +98,7 @@ De Hoge Verdragsluitende Partijen stellen een Benelux Unie in met het oog op het
 
 - c. de samenwerking op de gebieden van justitie en binnenlandse zaken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Met het oog op de verwezenlijking van de doelstellingen in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2012-01-01&g=2012-01-01) stelt de Benelux Unie periodiek een meerjarig Gemeenschappelijk Werkprogramma op, waarin de prioriteiten van de samenwerking worden vastgesteld.
 
@@ -90,13 +112,13 @@ De Hoge Verdragsluitende Partijen stellen een Benelux Unie in met het oog op het
 
 - d. de samenwerking op overig gebied indien noodzakelijk ter verwezenlijking van de doelstellingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=1&artikel=2&z=2012-01-01&g=2012-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 De rechten en verplichtingen voortvloeiende uit [Deel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&deel=1) en [Deel 3 van het Verdrag van 1958](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&deel=3) zijn onverminderd van kracht, tenzij in dit Verdrag anders wordt bepaald.
 
 ## DEEL 2. INSTELLINGEN
 
-#### Artikel 5
+##### Artikel 5
 
 De instellingen van de Benelux Unie zijn:
 
@@ -112,7 +134,7 @@ De instellingen van de Benelux Unie zijn:
 
 ### HOOFDSTUK 1. HET BENELUX COMITÉ VAN MINISTERS
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Comité van Ministers draagt zorg voor de toepassing van dit Verdrag en verzekert de verwezenlijking van de daarin vervatte doelstellingen. Het bepaalt de richtsnoeren en de prioriteiten van de samenwerking in de Benelux Unie.
 
@@ -134,31 +156,31 @@ De instellingen van de Benelux Unie zijn:
 
 - h. richtlijnen te geven aan de Raad en aan het Secretariaat-generaal.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Comité van Ministers telt ten minste één vertegenwoordiger op ministerieel niveau van elke Hoge Verdragsluitende Partij. De samenstelling van het Comité van Ministers kan veranderen in functie van de agenda en van de verdeling van de bevoegdheden bij iedere Hoge Verdragsluitende Partij.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Comité besluit met algemene stemmen. Ieder der Hoge Verdragsluitende Partijen beschikt over één stem. De onthouding van een Hoge Verdragsluitende Partij verhindert niet dat een besluit wordt genomen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Comité van Ministers komt minstens een keer per voorzitterschap bijeen. In dringende gevallen komt het bijeen op verzoek van een van de Hoge Verdragsluitende Partijen.
 
 2. De vergaderingen van het Comité van Ministers worden bij toerbeurt door een Belgisch, Luxemburgs en Nederlands lid voorgezeten voor de duur van een kalenderjaar, ongeacht de plaats van vergadering.
 
-#### Artikel 10
+##### Artikel 10
 
 Het Comité van Ministers kan ministeriële werkgroepen instellen, waaraan het bepaalde bevoegdheden kan overdragen. Deze werkgroepen bestaan uit de leden van het Comité of andere leden van de Regeringen in ieder van de Hoge Verdragsluitende Partijen.
 
-#### Artikel 11
+##### Artikel 11
 
 Het Comité van Ministers stelt zijn reglement van orde vast.
 
 ### HOOFDSTUK 2. DE BENELUX RAAD
 
-#### Artikel 12
+##### Artikel 12
 
 De Benelux Raad heeft tot taak:
 
@@ -170,39 +192,39 @@ De Benelux Raad heeft tot taak:
 
 - d. aan het Comité van Ministers de voorstellen te doen, welke de Raad voor de werking van de Benelux Unie nuttig acht.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ieder der Hoge Verdragsluitende Partijen wijst ten minste een vertegenwoordiger aan om zitting te hebben in de Raad. De samenstelling van de Raad kan veranderen in functie van de agenda en van de verdeling van de bevoegdheden bij iedere Hoge Verdragsluitende Partij.
 
 2. Het Voorzitterschap van de Raad wordt bekleed door de Hoge Verdragsluitende Partij die het voorzitterschap van het Comité van Ministers bekleedt.
 
-#### Artikel 14
+##### Artikel 14
 
 De Raad stelt zijn reglement van orde vast.
 
 ### HOOFDSTUK 3. DE RAADGEVENDE INTERPARLEMENTAIRE BENELUXRAAD
 
-#### Artikel 15
+##### Artikel 15
 
 De [Overeenkomst van 5 november 1955 nopens de instelling van de Raadgevende Interparlementaire Beneluxraad](https://wetten.overheid.nl/jci1.3:c:BWBV0004827) regelt de samenstelling, de bevoegdheid en de werkwijze van de Raadgevende Interparlementaire Beneluxraad.
 
-#### Artikel 16
+##### Artikel 16
 
 Wat de vraagstukken betreft die rechtstreeks verband houden met de werking van de Benelux Unie onderhoudt de Raadgevende Interparlementaire Beneluxraad betrekkingen met het Comité van Ministers.
 
 ### HOOFDSTUK 4. HET BENELUX-GERECHTSHOF
 
-#### Artikel 17
+##### Artikel 17
 
 Het [Verdrag van 31 maart 1965 betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117) regelt de samenstelling, de bevoegdheid en de werkwijze van het Benelux-Gerechtshof.
 
 ### HOOFDSTUK 5. HET BENELUX SECRETARIAAT-GENERAAL
 
-#### Artikel 18
+##### Artikel 18
 
 Het Benelux Secretariaat-generaal is gevestigd te Brussel.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het College van Secretarissen-generaal is samengesteld uit een Secretaris-generaal en twee adjunct-Secretarissen-generaal. De leden van het College zijn onderdaan van de Hoge Verdragsluitende Partijen. De drie nationaliteiten zijn binnen het College vertegenwoordigd. Het College geeft leiding aan het Secretariaat-generaal.
 
@@ -212,13 +234,13 @@ Het Benelux Secretariaat-generaal is gevestigd te Brussel.
 
 4. Het Comité van Ministers benoemt en ontslaat de Secretaris-generaal en de adjunct-Secretarissen-generaal. Het bepaalt, na advies van de Raad, de schalen voor hun salaris, pensioen en toelagen, alsmede de andere arbeidsvoorwaarden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Secretaris-generaal benoemt en ontslaat de leden van het personeel van het Secretariaat-generaal overeenkomstig het statuut, voorzien in lid 2 van dit artikel.
 
 2. Het personeelsstatuut, de personeelsformatie, de schalen van de salarissen, pensioenen en toelagen, alsmede de andere arbeidsvoorwaarden worden vastgesteld door het Comité van Ministers op voorstel van de Secretaris-generaal en na advies van de Raad.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het Secretariaat-generaal heeft tot taak:
 
@@ -234,7 +256,7 @@ Het Benelux Secretariaat-generaal is gevestigd te Brussel.
 
 2. Het Comité van Ministers kan aan het Secretariaat-generaal andere taken opdragen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De Secretaris-generaal stelt de jaarlijkse ontwerp-begroting van de instellingen van de Benelux Unie op en legt deze voor aan het Comité van Ministers met begeleidend advies van de Raad.
 
@@ -250,35 +272,35 @@ Het Benelux Secretariaat-generaal is gevestigd te Brussel.
 
 3. De bepalingen van dit artikel zijn niet van toepassing op de Raadgevende Interparlementaire Beneluxraad en het Benelux-Gerechtshof.
 
-#### Artikel 23
+##### Artikel 23
 
 De Secretaris-generaal maakt de beschikkingen, het Gemeenschappelijk Werkprogramma, het jaarplan, het jaarverslag en de aanbevelingen genoemd in [artikel 6, tweede lid, onder (a), (b), (d), (e) en (g)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01) bekend in het Benelux Publicatieblad.
 
 ## DEEL 3. EXTERNE BETREKKINGEN
 
-#### Artikel 24
+##### Artikel 24
 
 Het Comité van Ministers bepaalt de uitgangspunten van de samenwerking van de Benelux Unie met andere staten en deelstaten en met name met Lidstaten van de Europese Unie en regionale samenwerkingsverbanden van deze Lidstaten, indien dit de verwezenlijking van de doelstellingen van dit Verdrag bevordert en in het bijzonder de voortrekkersrol binnen het bredere kader van de Europese Unie.
 
-#### Artikel 25
+##### Artikel 25
 
 Het Comité van Ministers kan bij de opstelling of uitvoering van het Gemeenschappelijk Werkprogramma besluiten tot samenwerking tussen enerzijds de Benelux Unie en anderzijds de staten, deelstaten en bestuurlijke entiteiten die grenzen aan de grondgebieden van de Hoge Verdragsluitende Partijen.
 
-#### Artikel 26
+##### Artikel 26
 
 Indien de uitvoering van de [artikelen 24](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=24&z=2012-01-01&g=2012-01-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=25&z=2012-01-01&g=2012-01-01) leidt tot verdragsluiting door de Hoge Verdragsluitende Partijen met een derde staat of een deelstaat, is [artikel 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), van toepassing.
 
-#### Artikel 27
+##### Artikel 27
 
 Het Secretariaat-generaal van de Benelux Unie onderhoudt, in het kader van de doelstellingen van dit Verdrag en in overleg met de Raad, dienstige betrekkingen met staten, deelstaten en andere bestuurlijke entiteiten, alsmede met internationale organisaties en andere internationale instellingen.
 
 ## DEEL 4. INTERNATIONALE RECHTSPERSOONLIJKHEID, VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 28
+##### Artikel 28
 
 De Benelux Unie geniet internationale rechtspersoonlijkheid met het oog op de verlening van voorrechten en immuniteiten.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De voorrechten en immuniteiten welke nodig zijn voor de uitoefening van de taken en het bereiken van de doelstellingen van de Benelux Unie zijn vastgelegd middels het bijgevoegde Protocol.
 
@@ -288,55 +310,55 @@ De Benelux Unie geniet internationale rechtspersoonlijkheid met het oog op de ve
 
 ## DEEL 5. BENELUX GEMEENSCHAPPELIJKE DIENSTEN
 
-#### Artikel 30
+##### Artikel 30
 
 Het Comité van Ministers kan de voor de werking van de Benelux Unie wenselijke Gemeenschappelijke Diensten instellen; het bepaalt de bevoegdheden, de organisatie en de werkwijze van deze Diensten.
 
 ## DEEL 6. BENELUX-ORGANISATIE VOOR DE INTELLECTUELE EIGENDOM
 
-#### Artikel 31
+##### Artikel 31
 
 De Benelux-Organisatie voor de Intellectuele Eigendom (merken en tekeningen of modellen) is geregeld in het [Benelux-Verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen)](https://wetten.overheid.nl/jci1.3:c:BWBV0001716) ondertekend te ’s-Gravenhage op 25 februari 2005.
 
 ## DEEL 7. OVERGANGSBEPALINGEN
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het Comité van Ministers besluit op basis van een inventarisatie door het Benelux Secretariaat-generaal en na advies van de Raad, welke beschikkingen, aanbevelingen en richtlijnen bedoeld in [artikel 6, tweede lid, onder (a), (g) en (h)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), zijn vervallen omdat zij geen toepassing meer vinden.
 
 2. De Commissies en Bijzondere Commissies die zijn ingesteld in en op basis van het [Verdrag van 1958](https://wetten.overheid.nl/jci1.3:c:BWBV0005047) zijn gerechtigd hun werkzaamheden voort te zetten. De Raad bepaalt zo spoedig mogelijk op basis van een inventarisatie van het Secretariaat-generaal op welke wijze [artikel 12, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=2&artikel=12&z=2012-01-01&g=2012-01-01), op deze Commissies en Bijzondere Commissies wordt toegepast.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Zolang daarin niet nader is voorzien door een aanvullende overeenkomst tussen de Benelux Unie en de staat waarin de Benelux Unie haar zetel heeft, bedoeld in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=4&artikel=29&z=2012-01-01&g=2012-01-01), genieten de Secretaris-generaal en de adjunct-Secretarissen-generaal in deze staat de voorrechten en immuniteiten die zijn toegekend aan een in deze staat geaccrediteerd hoofd van een diplomatieke zending respectievelijk aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
 2. De gerechtelijke immuniteit kan in voorkomende gevallen door het Comité van Ministers worden opgeheven.
 
-#### Artikel 34
+##### Artikel 34
 
 [Artikel 19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=5&artikel=19&z=2012-01-01&g=2012-01-01), is bij de inwerkingtreding van dit Verdrag onverkort van toepassing op de op het tijdstip van de ondertekening in functie zijnde Secretaris-generaal.
 
 ## DEEL 8. SLOTBEPALINGEN
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt het Verdrag tot instelling van de Benelux Economische Unie; 's-Gravenhage, 3 februari 1958.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De toepassing van dit Verdrag is beperkt tot het grondgebied van België, Luxemburg en Nederland.
 
 2. Het Koninkrijk der Nederlanden behoudt zich het recht voor in de overeenkomsten bedoeld in de [artikelen 6, tweede lid, onder (f)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=2&hoofdstuk=1&artikel=6&z=2012-01-01&g=2012-01-01), en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&deel=3&artikel=26&z=2012-01-01&g=2012-01-01) bepalingen in te lassen die van belang zijn voor de andere constituerende delen van het Koninkrijk der Nederlanden.
 
-#### Artikel 37
+##### Artikel 37
 
 De bepalingen van dit Verdrag verzetten zich niet tegen het bestaan noch tegen een eventuele ontwikkeling van de Economische Unie tussen het Koninkrijk België en het Groothertogdom Luxemburg, voor zover de doelstellingen van die Unie niet zijn bereikt door de toepassing van dit Verdrag.
 
-#### Artikel 38
+##### Artikel 38
 
 De officiële talen van de instellingen van de Benelux Unie zijn het Nederlands en het Frans.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Dit Verdrag wordt voor onbepaalde tijd gesloten.
 
@@ -348,7 +370,7 @@ De officiële talen van de instellingen van de Benelux Unie zijn het Nederlands 
 
 5. Het tweede lid vindt geen toepassing gedurende een periode van tien jaar vanaf de datum van inwerkingtreding van het Verdrag.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen worden neergelegd bij de Secretaris-generaal, die de andere Hoge Verdragsluitende Partijen van de ontvangst van de akten in kennis stelt.
 
@@ -356,7 +378,7 @@ De officiële talen van de instellingen van de Benelux Unie zijn het Nederlands 
 
 Met verwijzing naar [artikel 29 van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=29) (hierna: het Verdrag) komen de Hoge Verdragsluitende Partijen het volgende overeen:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Protocol wordt verstaan onder:
 
@@ -368,7 +390,7 @@ In dit Protocol wordt verstaan onder:
 
 - d. „officiële werkzaamheden”: de werkzaamheden van de Benelux Unie welke strikt noodzakelijk zijn voor de uitvoering van haar taak zoals die is vastgesteld in [Deel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&deel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kantoorruimten van de Benelux Unie alsmede haar archieven en documenten die haar toebehoren of die zij onder zich houdt, zijn onschendbaar.
 
@@ -376,7 +398,7 @@ In dit Protocol wordt verstaan onder:
 
 3. Het betekenen ten kantore van de Benelux Unie van processtukken welke betrekking hebben op een tegen de Benelux Unie gerichte rechtsvordering, vormt geen inbreuk op de onschendbaarheid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het kader van haar officiële werkzaamheden geniet de Benelux Unie immuniteit van rechtsmacht en van executie behoudens:
 
@@ -390,13 +412,13 @@ In dit Protocol wordt verstaan onder:
 
 3. Activa, fondsen en tegoeden van de Benelux Unie zijn eveneens vrij van elke vorm van administratieve of gerechtelijke dwang, behalve voor zover deze tijdelijk geboden zou zijn in verband met het voorkomen van ongevallen waarbij motorvoertuigen zijn betrokken, die toebehoren aan de Benelux Unie of namens deze worden gebruikt, en het instellen van een onderzoek naar de toedracht van die ongevallen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Met betrekking tot officiële berichtgeving en het overbrengen van al haar documenten geniet de Benelux Unie in elke Hoge Verdragsluitende Partij de meest gunstige behandeling, die deze Hoge Verdragsluitende Partij elke andere internationale organisatie doet genieten.
 
 2. Er wordt geen censuur uitgeoefend op de officiële berichtgeving van de Benelux Unie, ongeacht de middelen waarmee bedoelde berichtgeving geschiedt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Binnen het kader van haar officiële werkzaamheden zijn de Benelux Unie, haar eigendommen, bezittingen en inkomsten bestemd voor officieel gebruik vrijgesteld van alle directe belastingen.
 
@@ -406,13 +428,13 @@ In dit Protocol wordt verstaan onder:
 
 4. Goederen of diensten ten aanzien waarvan vrijstelling van belastingen is verleend als bedoeld in het eerste of tweede lid, mogen uitsluitend aan de vrijgestelde bestemming worden onttrokken overeenkomstig de voorwaarden vastgesteld door het gastland dat de vrijstelling heeft toegekend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Benelux Unie geniet op het grondgebied van ieder der Hoge Verdragsluitende Partijen dezelfde rechtsbevoegdheid als aan nationale rechtspersonen wordt toegekend, voor zover deze nodig is voor het uitoefenen van haar taak en voor het bereiken van haar doeleinden; in het bijzonder kan zij onroerende en roerende goederen verwerven en vervreemden alsmede in rechte optreden. De Benelux Unie wordt hiertoe door de Secretaris-generaal vertegenwoordigd.
 
 2. Ingeval van een competentiegeschil tussen de rechtsprekende organen van de Hoge Verdragsluitende Partijen ter zake van een geschil waarbij de Benelux Unie als partij optreedt, is het gerecht van de staat waar de Benelux Unie haar zetel heeft bij uitsluiting bevoegd.
 
-#### Artikel 7
+##### Artikel 7
 
 De vertegenwoordigers van de Hoge Verdragsluitende Partijen, alsmede hun plaatsvervangers, hun raadgevers en deskundigen genieten bij de vergaderingen van de instellingen van de Benelux Unie, van de Gemeenschappelijke Diensten en van de ambtelijke werkgroepen, alsmede op hun reizen naar de plaats van samenkomst en terug, de volgende voorrechten en immuniteiten:
 
@@ -424,7 +446,7 @@ De vertegenwoordigers van de Hoge Verdragsluitende Partijen, alsmede hun plaatsv
 
 - d. het recht codes te gebruiken en documenten of correspondentie te ontvangen per speciale koerier of in een verzegelde tas.
 
-#### Artikel 8
+##### Artikel 8
 
 De Secretaris-generaal, de adjunct-Secretarissen-generaal en de personeelsleden van de Benelux Unie:
 
@@ -438,7 +460,7 @@ De Secretaris-generaal, de adjunct-Secretarissen-generaal en de personeelsleden 
 
 - e. ontvangen voor henzelf, hun samenwonende echtgeno(o)t(e) of geregistreerde partner en inwonende kinderen ten laste in tijden van internationale crisis dezelfde repatriëringfaciliteiten als personen die met een diplomatieke zending zijn belast.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Naast de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) vastgelegde voorrechten en immuniteiten genieten de Secretaris-generaal en de Adjunct-secretarissen-generaal respectievelijk de voorrechten en immuniteiten die zijn toegekend aan een hoofd van een diplomatieke zending en aan de leden van het diplomatiek personeel ingevolge het [Verdrag van Wenen van 18 april 1961 inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345).
 
@@ -446,7 +468,7 @@ De Secretaris-generaal, de adjunct-Secretarissen-generaal en de personeelsleden 
 
 3. Niettegenstaande het eerste lid wordt de toepassing van de belastingen naar het inkomen en naar het vermogen op de inkomsten en vermogensbestanddelen van de Secretaris-generaal en de adjunct-Secretarissen-generaal geregeld in aanvullende overeenkomsten in de zin van [artikel 29 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=29).
 
-#### Artikel 10
+##### Artikel 10
 
 Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, ook tijdens de reizen die zij in de uitoefening van hun functie of tijdens deze zending maken, de hierna vermelde voorrechten en immuniteiten, voor zover deze noodzakelijk zijn voor de uitoefening van hun functie of de uitvoering van hun zending:
 
@@ -454,13 +476,13 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 - b. onschendbaarheid van al hun officiële papieren en documenten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd de verplichtingen die voor de Hoge Verdragsluitende Partijen voortvloeien uit de verdragen betreffende de Europese Unie treffen zij de nodige maatregelen om personen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) de binnenkomst in hun landen te vergemakkelijken. Het voor deze personen vereiste visum wordt zo snel mogelijk afgegeven.
 
 2. De Secretaris-generaal van de Benelux Unie geeft de bevoegde autoriteiten vooraf kennis van de naam van de in het eerste lid bedoelde personen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Hoge Verdragsluitende Partijen zijn niet verplicht de in [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), [8, onder (b)](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=9&z=2012-01-01&g=2012-01-01) bedoelde voorrechten en immuniteiten toe te kennen aan:
 
@@ -468,7 +490,7 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 - b. personen die bij het begin van hun werkzaamheden bij de Benelux Unie duurzaam verblijf houden op hun grondgebied. Voor de toepassing van dit artikel wordt onder duurzaam verblijf verstaan een voorafgaand verblijf op het grondgebied van een der Hoge Verdragsluitende Partijen, gedurende een minimale periode zoals voorzien krachtens de in deze Hoge Verdragsluitende Partij geldende bepalingen, met uitzondering van de jaren in dienstverband bij een internationale organisatie of bij een buitenlandse zending.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Secretaris-generaal heeft de plicht de immuniteit van de personeelsleden bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en van de deskundigen bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) op te heffen indien hij van oordeel is dat deze immuniteit aan de loop van het recht in de weg staat en indien het mogelijk is van deze immuniteit afstand te doen zonder de belangen van de Benelux Unie in gevaar te brengen.
 
@@ -476,7 +498,7 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 3. Elke Hoge Verdragsluitende Partij heeft de plicht de immuniteit op te heffen van haar vertegenwoordigers, alsmede van haar plaatsvervangers, raadgevers of deskundigen bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), telkens wanneer, naar het oordeel van de betreffende Staat, de immuniteit aan de loop van het recht in de weg zou staan, en er afstand van kan worden gedaan zonder de doeleinden waarvoor zij was toegekend in gevaar te brengen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Benelux Unie werkt voortdurend samen met de bevoegde autoriteiten van de Hoge Verdragsluitende Partijen ter bevordering van een goede rechtsbedeling, ter verzekering van de naleving van politievoorschriften en van voorschriften met betrekking tot de volksgezondheid, de arbeidsinspectie, of andere nationale wetten, alsmede ter voorkoming van misbruik van de in dit Protocol bedoelde voorrechten, immuniteiten en faciliteiten.
 
@@ -484,19 +506,19 @@ Deskundigen die optreden namens en voor rekening van de Benelux Unie genieten, o
 
 3. De Benelux Unie en de personen genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=7&z=2012-01-01&g=2012-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=8&z=2012-01-01&g=2012-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003087&artikel=10&z=2012-01-01&g=2012-01-01) dienen zich te houden aan de wetgeving en de regelgeving van de Hoge Verdragsluitende Partijen.
 
-#### Artikel 15
+##### Artikel 15
 
 Elke Hoge Verdragsluitende Partij behoudt zich het recht voor alle voorzorgen te treffen die nodig zijn in het belang van haar veiligheid.
 
-#### Artikel 16
+##### Artikel 16
 
 De Hoge Verdragsluitende Partijen dragen ten aanzien van de werkzaamheden van de Benelux Unie generlei internationale aansprakelijkheid voor daden of nalatigheden van de Benelux Unie of van diens personeelsleden die in het kader van hun functie een daad stellen of nalaten te stellen.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Protocol is niet van toepassing op de Raadgevende Interparlementaire Beneluxraad en het Benelux-Gerechtshof.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elk geschil tussen twee of meer Verdragsluitende Partijen of tussen de Benelux Unie en een of meer Verdragsluitende Partijen over de uitlegging of de toepassing van dit Protocol wordt geregeld door overleg, onderhandeling of elk ander overeengekomen middel.
 

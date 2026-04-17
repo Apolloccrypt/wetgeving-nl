@@ -1,13 +1,38 @@
 ---
-title: "Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten "EUMETSAT""
+title: "Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten \"EUMETSAT\""
 identifier: "BWBV0002157"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002157"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002157"
+soort: "verdrag"
+stam_id: "10002682893"
+version_id: "10002681592"
+internal_id: "C10006979171"
+label_id: "10002671274"
+dtd_version: "2.0"
+original_entry_into_force: "1989-01-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002157/2004-01-01/0"
+intitule_bron: "Trb.1988-155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-12-06"
+intitule_published: "1988-12-21"
+intitule_in_force: "1988-12-21"
+intitule_status: "goed"
+original_publication: "Trb.1988-155"
+original_signed_date: "1988-12-06"
+original_published_date: "1988-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-155"
+entry_into_force_date: "1989-01-05"
+jci_1_3: "jci1.3:c:BWBV0002157&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBV0002157&g=2004-01-01"
+citeertitel_status: "officieel"
+signed_date: "1988-12-06"
+entry_into_force: "1989-01-05"
 ---
-
 # Protocol betreffende de voorrechten en immuniteiten van de Europese Organisatie voor de exploitatie van meteorologische satellieten "EUMETSAT"
 
 The States parties to the [Convention for the Establishment of a European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)](https://wetten.overheid.nl/jci1.3:c:BWBV0002717), opened for signature at Geneva on 24 May 1983 (hereinafter referred to as the "Convention");
@@ -18,7 +43,7 @@ Affirming that the purpose of the privileges and immunities set forth in this Pr
 
 Have agreed as follows:
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 For the purposes of this Protocol:
 
@@ -36,15 +61,15 @@ For the purposes of this Protocol:
 
 - g). "expert" means a person other than a staff member appointed to carry out a specific task on behalf of EUMETSAT and at its expense.
 
-#### Article 2. Legal Personality
+##### Article 2. Legal Personality
 
 EUMETSAT shall have legal personality in accordance with [Article 1 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=1). It shall in particular have the capacity to contract, to acquire and dispose of movable and immovable property, and to be a party to legal proceedings.
 
-#### Article 3. Inviolability of Archives
+##### Article 3. Inviolability of Archives
 
 The archives of EUMETSAT shall be inviolable.
 
-#### Article 4. Immunity from jurisdiction and execution
+##### Article 4. Immunity from jurisdiction and execution
 
 (1). Within the scope of its official activities, EUMETSAT shall have immunity from jurisdiction and execution, except:
 
@@ -66,7 +91,7 @@ The archives of EUMETSAT shall be inviolable.
 
 - b). from any form of sequestration and administrative or provisional judicial constraint, except in the cases provided for in the preceding paragraph.
 
-#### Article 5. Fiscal and Custom Provisions
+##### Article 5. Fiscal and Custom Provisions
 
 (1). Within the scope of its official activities, EUMETSAT, its property and income shall be exempt from direct taxes.
 
@@ -78,21 +103,21 @@ The archives of EUMETSAT shall be inviolable.
 
 (5). Goods acquired or imported and exempted under this Article shall not be sold, hired out, lent or given away against payment or free of charge, except in accordance with conditions laid down by the Member States which have granted exemptions or reimbursements.
 
-#### Article 6. Funds, Currency and Securities
+##### Article 6. Funds, Currency and Securities
 
 EUMETSAT may receive and hold any kind of funds, currency, cash and securities. It may dispose of them freely for any of its official activities and hold accounts in any currency to the extent required to meet its obligations.
 
-#### Article 7. Communication
+##### Article 7. Communication
 
 (1). For its official communications and the transfer of all its documents, EUMETSAT shall enjoy treatment not less favourable than that accorded by each Member State to other comparable international organisations.
 
 (2). With regard to the transmission of data within the scope of its official activities, EUMETSAT shall enjoy in the territory of each Member State treatment as favourable as that accorded by that State to its national meteorological service, taking into account the international obligations of that State in respect of telecommunications.
 
-#### Article 8. Publications
+##### Article 8. Publications
 
 The circulation of publications and other information material sent by or to EUMETSAT shall not be restricted in any way.
 
-#### Article 9. Representatives
+##### Article 9. Representatives
 
 (1). Representatives of Member States shall, while exercising their official functions and in the course of their journeys to and from the place of meeting, enjoy the following privileges and immunities:
 
@@ -112,7 +137,7 @@ The circulation of publications and other information material sent by or to EUM
 
 (3). No Member State shall be obliged to accord privileges and immunities to its own representatives.
 
-#### Article 10. Staff Members
+##### Article 10. Staff Members
 
 The staff members of EUMETSAT shall enjoy the following privileges and immunities:
 
@@ -134,7 +159,7 @@ The staff members of EUMETSAT shall enjoy the following privileges and immunitie
 
 Goods imported and exempted under this paragraph shall not be sold, hired out, lent or given away against payment or free of charge, except in accordance with the conditions laid down by the Member States which have granted the exemptions.
 
-#### Article 11. Director-General
+##### Article 11. Director-General
 
 In addition to the privileges and immunities provided for staff members under Article 10, the Director-General shall enjoy:
 
@@ -146,11 +171,11 @@ In addition to the privileges and immunities provided for staff members under Ar
 
 - d). the same customs facilities as regards his personal luggage as are accorded to diplomatic agents.
 
-#### Article 12. Social Security
+##### Article 12. Social Security
 
 Provided that the staff members are covered by a social security scheme of EUMETSAT providing adequate benefits, EUMETSAT, and its staff members shall be exempt form all compulsory contributions to national social security schemes, subject to agreements to be concluded with Member States concerned in accordance with Article 19 or equivalent measures taken by the Member States or other relevant provisions in force in the Member States.
 
-#### Article 13. Experts
+##### Article 13. Experts
 
 Experts other than the staff members shall enjoy the following privileges and immunities while performing their duties for EUMETSAT or carrying out missions on its behalf:
 
@@ -162,41 +187,41 @@ Experts other than the staff members shall enjoy the following privileges and im
 
 - d). the same treatment in the matter of currency and exchange regulations as is accorded to the representatives of foreign governments on temporary official missions.
 
-#### Article 14. Waiver
+##### Article 14. Waiver
 
 (1). The privileges and immunities provided for in this Protocol are not granted to staff members and experts for their personal advantage. They are provided solely to ensure, in all circumstances, the unimpeded functioning of EUMETSAT and the complete independence of the persons to whom they are accorded.
 
 (2). The Director-General has the duty to waive the immunity of a staff member or an expert in all cases wherever retaining it would impede the course of justice and it can be waived without prejudicing the interests of EUMETSAT. In the case of the Director-General, the Council is competent to waive such immunity.
 
-#### Article 15. Notification of staff members and experts
+##### Article 15. Notification of staff members and experts
 
 The Director-General of EUMETSAT shall at least once every year notify the Member States of the names and nationalities of the staff members and experts.
 
-#### Article 16. Entry, Stay and Departure
+##### Article 16. Entry, Stay and Departure
 
 Member States shall take all appropriate measures to facilitate the entry into, stay in, or departure from their territories of representatives of Member States, staff members and experts.
 
-#### Article 17. Security
+##### Article 17. Security
 
 The provisions of this Protocol shall not prejudice the right of each Member State to take all precautionary measures necessary in the interests of its security.
 
-#### Article 18. Cooperation with the Member States
+##### Article 18. Cooperation with the Member States
 
 EUMETSAT shall co-operate at all times with the competent authorities of Member States in order to facilitate the proper administration of justice, to ensure the observance of the laws and regulations, and to prevent any abuse of the privileges, immunities and facilities provided for in this Protocol.
 
-#### Article 19. Complementary Agreements
+##### Article 19. Complementary Agreements
 
 EUMETSAT may conclude with one or more Member States complementary agreements to give effect to the provisions of the Protocol as regards such State or States, and other arrangements to ensure the efficient functioning of EUMETSAT.
 
-#### Article 20. Privileges and Immunities for Nationals and Permanent Residents
+##### Article 20. Privileges and Immunities for Nationals and Permanent Residents
 
 No Member State shall be obliged to accord the privileges and immunities referred to in Articles 9, 10 b), d), e), f) and h), 11 and 13 c) and d) to its own nationals or permanent residents.
 
-#### Article 21. Arbitration Clause in Written Contracts
+##### Article 21. Arbitration Clause in Written Contracts
 
 When concluding written contracts, other than those concluded in accordance with the staff regulations, EUMETSAT shall provide for arbitration. The arbitration clause or the special arbitration agreement concluded to this end shall specify the law and procedure applicable, the composition of the tribunal, the procedure for the appointment of the arbitrators and the seat of the tribunal. The execution of the arbitration award shall be governed by the rules in force in the State on whose territory the award is to be executed.
 
-#### Article 22. Settlement of disputes concerning damage, non-contractual responsibility or staff Members and Experts
+##### Article 22. Settlement of disputes concerning damage, non-contractual responsibility or staff Members and Experts
 
 Any Member State may submit to arbitration in accordance with the procedure provided for in [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=15) any dispute.
 
@@ -206,11 +231,11 @@ Any Member State may submit to arbitration in accordance with the procedure prov
 
 - c). involving a staff member or an expert and in which the person concerned can claim immunity from jurisdiction, if this immunity is not waived.
 
-#### Article 23. Settlement of disputes concerning the interpretation or application of this Protocol
+##### Article 23. Settlement of disputes concerning the interpretation or application of this Protocol
 
 Any dispute between EUMETSAT and a Member State or between two or more Member States concerning the interpretation or application of this Protocol which is not settled by negotiations or through the Council shall, at the request of any party to the dispute, be submitted to arbitration in accordance with the procedure provided for in [Article 15 of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717&artikel=15).
 
-#### Article 24. Entry into force, duration and termination
+##### Article 24. Entry into force, duration and termination
 
 (1). This Protocol shall be open for signature or accession by the States parties to the [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0002717).
 

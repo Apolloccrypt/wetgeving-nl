@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen"
 identifier: "BWBV0004039"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-01-09
-laatste_update: 2005-10-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004039"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-01-09"
+last_updated: "2005-10-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004039"
+soort: "verdrag"
+stam_id: "10003838223"
+version_id: "10003908792"
+internal_id: "C10008431351"
+label_id: "10003823884"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004039/2010-01-09/0"
+intitule_bron: "Trb.2007-89"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-05-23"
+intitule_in_force: "2009-12-07"
+intitule_status: "goed"
+original_publication: "Trb.2007-89"
+original_published_date: "2007-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-89"
+entry_into_force_date: "2010-01-09"
+jci_1_3: "jci1.3:c:BWBV0004039&z=2010-01-09&g=2010-01-09"
+jci_1_0: "1.0:c:BWBV0004039&g=2010-01-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-01-09"
 ---
-
 # Overeenkomst betreffende de bescherming en de bevordering van de diversiteit van cultuuruitingen
 
 De Algemene Conferentie van de UNESCO, de Organisatie van de Verenigde Naties voor onderwijs, wetenschap en cultuur, tijdens de 33e zitting te Parijs van 3 tot en met 21 oktober 2005 bijeen,
@@ -58,7 +80,7 @@ Keurt op 20 oktober 2005 het onderhavige verdrag goed.
 
 ### I. DOELSTELLINGEN EN LEIDENDE BEGINSELEN
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 Dit verdrag heeft tot doel:
 
@@ -80,7 +102,7 @@ Dit verdrag heeft tot doel:
 
 - i. de internationale samenwerking en solidariteit in een geest van partnerschap te versterken teneinde met name de capaciteiten van de ontwikkelingslanden om de diversiteit van cultuuruitingen te beschermen en te bevorderen, te verhogen.
 
-#### Artikel 2. Leidende beginselen
+##### Artikel 2. Leidende beginselen
 
 1. Respect voor de mensenrechten en de fundamentele vrijheden
 
@@ -100,13 +122,13 @@ Dit verdrag heeft tot doel:
 
 ### II. TOEPASSINGSGEBIED
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 Dit verdrag is van toepassing op de maatregelen en het beleid van de partijen met betrekking tot de bescherming en de bevordering van de diversiteit van cultuuruitingen.
 
 ### III. DEFINITIES
 
-#### Artikel 4. Definities
+##### Artikel 4. Definities
 
 In dit verdrag worden de volgende definities gehanteerd:
 
@@ -148,13 +170,13 @@ Onder „interculturaliteit’’ wordt verstaan: het bestaan van en de billijke
 
 ### IV. RECHTEN EN VERPLICHTINGEN VAN DE PARTIJEN
 
-#### Artikel 5. Algemene regel inzake rechten en verplichtingen
+##### Artikel 5. Algemene regel inzake rechten en verplichtingen
 
 1. Overeenkomstig het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), de internationale rechtsbeginselen en de universeel erkende instrumenten op het gebied van de mensenrechten, bevestigen de partijen hun soevereine recht om hun cultuurbeleid te bepalen en uit te voeren, en om maatregelen te nemen ter bescherming en bevordering van de diversiteit van cultuuruitingen en ter versterking van de internationale samenwerking teneinde de doelstellingen van dit verdrag te verwezenlijken.
 
 2. Wanneer een partij een beleid uitvoert en maatregelen neemt om de diversiteit van cultuuruitingen op haar grondgebied te beschermen en te bevorderen, moeten haar beleid en maatregelen met dit verdrag in overeenstemming zijn.
 
-#### Artikel 6. Rechten van de partijen op nationaal vlak
+##### Artikel 6. Rechten van de partijen op nationaal vlak
 
 1. Elke partij kan in het kader van haar in artikel 4, punt 6, beschreven cultuurbeleid en culturele maatregelen, en rekening houdend met de eigen omstandigheden en behoeften, maatregelen nemen ter bescherming en bevordering van de diversiteit van cultuuruitingen op haar grondgebied.
 
@@ -176,7 +198,7 @@ Onder „interculturaliteit’’ wordt verstaan: het bestaan van en de billijke
 
 - h. maatregelen ter bevordering van de diversiteit van de media, onder meer via de openbare omroep.
 
-#### Artikel 7. Maatregelen ter bevordering van cultuuruitingen
+##### Artikel 7. Maatregelen ter bevordering van cultuuruitingen
 
 1. De partijen streven ernaar om op hun grondgebied de omstandigheden te creëren die personen en maatschappelijke groepen ertoe aanzetten:
 
@@ -186,7 +208,7 @@ Onder „interculturaliteit’’ wordt verstaan: het bestaan van en de billijke
 
 2. De partijen streven er eveneens naar de belangrijke bijdrage te erkennen van kunstenaars en van al wie bij het scheppingsproces betrokken is, van culturele gemeenschappen en van organisaties die hen in hun werk steunen, alsook hun centrale rol die erin bestaat de diversiteit van cultuuruitingen te bevorderen.
 
-#### Artikel 8. Maatregelen ter bescherming van cultuuruitingen
+##### Artikel 8. Maatregelen ter bescherming van cultuuruitingen
 
 1. Onverminderd de artikelen 5 en 6 kan een partij vaststellen dat zich speciale situaties voordoen waarin cultuuruitingen op haar grondgebied gevaar lopen te verdwijnen, ernstig bedreigd worden of op de ene of andere manier dringend moeten worden gevrijwaard.
 
@@ -194,7 +216,7 @@ Onder „interculturaliteit’’ wordt verstaan: het bestaan van en de billijke
 
 3. De partijen brengen bij het in artikel 23 bedoelde Intergouvernementeel Comité verslag uit over alle maatregelen die zijn genomen om de situatie te verhelpen, en het Comité kan passende aanbevelingen doen.
 
-#### Artikel 9. Uitwisseling van informatie en transparantie
+##### Artikel 9. Uitwisseling van informatie en transparantie
 
 De partijen:
 
@@ -204,7 +226,7 @@ De partijen:
 
 - c. delen informatie mee en wisselen informatie uit over de bescherming en de bevordering van de diversiteit van cultuuruitingen.
 
-#### Artikel 10. Voorlichting en bewustmaking van het publiek
+##### Artikel 10. Voorlichting en bewustmaking van het publiek
 
 De partijen:
 
@@ -214,11 +236,11 @@ De partijen:
 
 - c. zetten zich ervoor in om creativiteit aan te moedigen en productiecapaciteiten te versterken door op het gebied van de cultuurindustrie voorlichtings-, opleidings- en uitwisselingsprogramma’s in te stellen. Deze maatregelen moeten op zodanige wijze worden toegepast dat zij geen negatieve gevolgen hebben voor traditionele productievormen.
 
-#### Artikel 11. Participatie van het maatschappelijk middenveld
+##### Artikel 11. Participatie van het maatschappelijk middenveld
 
 De partijen erkennen de essentiële rol van het maatschappelijk middenveld in de bescherming en de bevordering van de diversiteit van cultuuruitingen. Zij moedigen het maatschappelijk middenveld ertoe aan actief te participeren in hun inspanningen om de doelstellingen van dit verdrag te verwezenlijken.
 
-#### Artikel 12. Bevordering van de internationale samenwerking
+##### Artikel 12. Bevordering van de internationale samenwerking
 
 De partijen streven ernaar hun bilaterale, regionale en internationale samenwerking te versterken om gunstige voorwaarden te scheppen voor de bevordering van de diversiteit van cultuuruitingen, in het bijzonder rekening houdend met de in artikelen 8 en 17 vermelde situaties, met name teneinde:
 
@@ -232,11 +254,11 @@ De partijen streven ernaar hun bilaterale, regionale en internationale samenwerk
 
 - e. het sluiten van coproductie- en codistributieovereenkomsten aan te moedigen.
 
-#### Artikel 13. Integratie van cultuur in duurzame ontwikkeling
+##### Artikel 13. Integratie van cultuur in duurzame ontwikkeling
 
 De partijen streven ernaar cultuur op alle niveaus in hun ontwikkelingsbeleid te integreren om gunstige voorwaarden voor duurzame ontwikkeling te scheppen, en in dat kader aspecten die verband houden met de bescherming en de bevordering van cultuuruitingen te stimuleren.
 
-#### Artikel 14. Ontwikkelingssamenwerking
+##### Artikel 14. Ontwikkelingssamenwerking
 
 De partijen beijveren zich ervoor de samenwerking met het oog op duurzame ontwikkeling en armoedebestrijding te steunen, in het bijzonder wat de specifieke behoeften van de ontwikkelingslanden betreft, teneinde onder meer met de volgende middelen het ontluiken van een dynamische culturele sector te bevorderen:
 
@@ -266,19 +288,19 @@ De partijen beijveren zich ervoor de samenwerking met het oog op duurzame ontwik
 
 - iii. andere vormen van financiële hulp zoals laagrentende leningen, subsidies en andere financieringsmechanismen.
 
-#### Artikel 15. Invulling van de samenwerking
+##### Artikel 15. Invulling van de samenwerking
 
 De partijen stimuleren de ontwikkeling van partnerschappen tussen en in de overheidssector, de privé-sector en non-profitorganisaties, die tot doel hebben met ontwikkelingslanden samen te werken aan de versterking van hun capaciteit om de diversiteit van cultuuruitingen te beschermen en te bevorderen. Inspelend op de concrete behoeften van de ontwikkelingslanden zullen deze vernieuwende partnerschappen de nadruk leggen op de verdere ontwikkeling van infrastructuur, menselijk potentieel en beleidsmaatregelen, alsook op de uitwisseling van culturele activiteiten, goederen en diensten.
 
-#### Artikel 16. Voorkeursbehandeling voor ontwikkelingslanden
+##### Artikel 16. Voorkeursbehandeling voor ontwikkelingslanden
 
 De ontwikkelde landen bevorderen de culturele uitwisselingen met de ontwikkelingslanden door hun kunstenaars en andere professionals uit de cultuursector en cultuurbeoefenaars, alsook hun culturele goederen en diensten door middel van een passend institutioneel en juridisch kader een voorkeursbehandeling te geven.
 
-#### Artikel 17. Internationale samenwerking in geval van een ernstige bedreiging van cultuuruitingen
+##### Artikel 17. Internationale samenwerking in geval van een ernstige bedreiging van cultuuruitingen
 
 De partijen werken samen om elkaar, en in het bijzonder de ontwikkelingslanden, in de in artikel 8 bedoelde situaties bijstand te verlenen.
 
-#### Artikel 18. Internationaal Fonds voor culturele diversiteit
+##### Artikel 18. Internationaal Fonds voor culturele diversiteit
 
 1. Er wordt een Internationaal Fonds voor culturele diversiteit opgericht, hierna „het fonds” te noemen.
 
@@ -306,7 +328,7 @@ De partijen werken samen om elkaar, en in het bijzonder de ontwikkelingslanden, 
 
 7. De partijen streven ernaar op gezette tijden vrijwillige bijdragen te storten voor de uitvoering van dit verdrag.
 
-#### Artikel 19. Uitwisseling, analyse en verspreiding van informatie
+##### Artikel 19. Uitwisseling, analyse en verspreiding van informatie
 
 1. De partijen komen overeen informatie en deskundigheid met betrekking tot gegevensverzameling en statistieken op het gebied van de diversiteit van cultuuruitingen uit te wisselen, alsook met betrekking tot beste praktijken om deze diversiteit te beschermen en te bevorderen.
 
@@ -320,7 +342,7 @@ De partijen werken samen om elkaar, en in het bijzonder de ontwikkelingslanden, 
 
 ### V. VERHOUDING TOT ANDERE INSTRUMENTEN
 
-#### Artikel 20. Verhouding tot andere instrumenten: wederzijdse steun, complementariteit en non-subordinatie
+##### Artikel 20. Verhouding tot andere instrumenten: wederzijdse steun, complementariteit en non-subordinatie
 
 1. De partijen erkennen dat zij hun verplichtingen krachtens dit en alle andere verdragen waarbij zij partij zijn, te goeder trouw moeten nakomen. Zonder dit verdrag aan andere verdragen ondergeschikt te maken,
 
@@ -330,13 +352,13 @@ De partijen werken samen om elkaar, en in het bijzonder de ontwikkelingslanden, 
 
 2. Niets in dit verdrag mag worden geïnterpreteerd als een wijziging van de rechten en verplichtingen van de partijen krachtens andere verdragen waarbij zij partij zijn.
 
-#### Artikel 21. Overleg en coördinatie op internationaal niveau
+##### Artikel 21. Overleg en coördinatie op internationaal niveau
 
 De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beginselen van dit verdrag op andere internationale fora te bevorderen. Daartoe plegen de partijen, indien nodig, overleg, daarbij deze doelstellingen en beginselen in gedachten houdend.
 
 ### VI. ORGANEN VAN HET VERDRAG
 
-#### Artikel 22. Conferentie van de partijen
+##### Artikel 22. Conferentie van de partijen
 
 1. Er wordt een Conferentie van de partijen ingesteld. Deze Conferentie is het plenaire en hoogste orgaan van dit verdrag.
 
@@ -354,7 +376,7 @@ De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beg
 
 - d. alle nodige maatregelen te nemen die zij nodig acht voor de verwezenlijking van de doelstellingen van dit verdrag.
 
-#### Artikel 23. Intergouvernementeel Comité
+##### Artikel 23. Intergouvernementeel Comité
 
 1. Bij de UNESCO wordt een Intergouvernementeel Comité voor de bescherming en de bevordering van de diversiteit van cultuuruitingen ingesteld, hierna „het Intergouvernementeel Comité” te noemen. Het comité bestaat uit vertegenwoordigers van 18 staten die partij zijn bij het verdrag. Zij worden, zodra dit verdrag overeenkomstig artikel 29 in werking treedt, voor vier jaar door de Conferentie van de partijen verkozen.
 
@@ -384,7 +406,7 @@ De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beg
 
 8. Het Intergouvernementeel Comité stelt zijn reglement van orde vast en legt het ter goedkeuring voor aan de Conferentie van de partijen.
 
-#### Artikel 24. Secretariaat van de UNESCO
+##### Artikel 24. Secretariaat van de UNESCO
 
 1. De organen van het verdrag worden bijgestaan door het secretariaat van de UNESCO.
 
@@ -392,7 +414,7 @@ De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beg
 
 ### VII. SLOTBEPALINGEN
 
-#### Artikel 25. Geschillenregeling
+##### Artikel 25. Geschillenregeling
 
 1. Wanneer de partijen het oneens zijn over de interpretatie of de toepassing van dit verdrag, proberen zij door overleg een oplossing te vinden.
 
@@ -402,13 +424,13 @@ De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beg
 
 4. Elke partij kan bij de bekrachtiging, de aanvaarding, de goedkeuring of de toetreding verklaren dat zij de hierboven vermelde verzoeningsprocedure niet erkent. Elke partij die een dergelijke verklaring heeft afgelegd, kan die verklaring te allen tijde intrekken door middel van kennisgeving aan de directeur-generaal van de UNESCO.
 
-#### Artikel 26. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 26. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit verdrag is onderworpen aan bekrachtiging, aanvaarding, goedkeuring of toetreding door de lidstaten van de UNESCO, overeenkomstig hun respectieve grondwettelijke procedures.
 
 2. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding worden bij de directeur-generaal van de UNESCO nedergelegd.
 
-#### Artikel 27. Toetreding
+##### Artikel 27. Toetreding
 
 1. Tot dit verdrag kunnen staten toetreden die geen lid zijn van de UNESCO, maar wel van de Verenigde Naties of van één van haar gespecialiseerde instellingen, en die door de Algemene Conferentie van de UNESCO tot toetreding worden uitgenodigd.
 
@@ -432,17 +454,17 @@ De partijen verbinden zich ertoe de verwezenlijking van de doelstellingen en beg
 
 4. De akte van toetreding wordt bij de directeur-generaal van de UNESCO nedergelegd.
 
-#### Artikel 28. Contactpunt
+##### Artikel 28. Contactpunt
 
 Elke partij die lid wordt bij dit verdrag wijst een contactpunt aan als bedoeld in artikel 9.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 1. Dit verdrag treedt in werking drie maanden na de datum waarop de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd, maar uitsluitend ten aanzien van de staten en organisaties voor regionale economische integratie die hun respectieve akte van bekrachtiging, aanvaarding, goedkeuring of toetreding op die datum of eerder hebben nedergelegd. Voor alle andere partijen treedt het verdrag in werking drie maanden na de nederlegging van hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 2. Voor de toepassing van dit artikel wordt een akte die door een organisatie voor regionale economische integratie wordt nedergelegd niet beschouwd als een bijkomende akte naast de akten die haar lidstaten reeds hebben nedergelegd.
 
-#### Artikel 30. Federale of niet-unitaire grondwettelijke stelsels
+##### Artikel 30. Federale of niet-unitaire grondwettelijke stelsels
 
 Erkennende dat de internationale overeenkomsten de partijen, ongeacht hun grondwettelijke stelsels, verbinden, gelden de onderstaande bepalingen voor de partijen met een federaal of niet-unitair grondwettelijk stelsel:
 
@@ -450,7 +472,7 @@ Erkennende dat de internationale overeenkomsten de partijen, ongeacht hun grondw
 
 - b. wat de bepalingen van dit verdrag betreft, waarvan de toepassing tot de bevoegdheid behoort van elk van de samenstellende delen zoals staten, districten, provincies of kantons, die krachtens het grondwettelijk stelsel van de federatie niet gehouden zijn wetgevingsmaatregelen te nemen, brengt de federale overheid deze bepalingen, indien nodig, ter kennis van de bevoegde autoriteiten van de samenstellende delen zoals staten, districten, provincies of kantons, samen met haar aanbeveling voor goedkeuring.
 
-#### Artikel 31. Opzegging
+##### Artikel 31. Opzegging
 
 1. Elk van de partijen kan dit verdrag opzeggen.
 
@@ -458,11 +480,11 @@ Erkennende dat de internationale overeenkomsten de partijen, ongeacht hun grondw
 
 3. De opzegging wordt van kracht twaalf maanden na ontvangst van de akte van opzegging. Zij wijzigt geenszins de financiële verplichtingen, die de opzeggende partij dient na te komen tot de datum waarop de opzegging van kracht wordt.
 
-#### Artikel 32. Taken van de depositaris
+##### Artikel 32. Taken van de depositaris
 
 In zijn hoedanigheid van depositaris van dit verdrag licht de directeur-generaal van de UNESCO de lidstaten van de organisatie, de in artikel 27 bedoelde niet-lidstaten en organisaties voor regionale economische integratie, alsook de Verenigde Naties, in over de nederlegging van alle in artikelen 26 en 27 bedoelde akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, en over de in artikel 31 bedoelde opzeggingen.
 
-#### Artikel 33. Amendementen
+##### Artikel 33. Amendementen
 
 1. Elke partij kan bij schriftelijke mededeling aan de directeur-generaal amendementen op dit verdrag voorstellen. De directeur-generaal doet deze mededeling aan alle partijen toekomen. Indien, binnen zes maanden na de datum waarop de mededeling is toegestuurd, minstens de helft van de partijen een gunstig antwoord heeft gegeven, presenteert de directeur-generaal dit voorstel ter bespreking en eventuele aanneming op de volgende zitting van de Conferentie van de partijen.
 
@@ -482,34 +504,34 @@ Deze amendementen treden in werking op het ogenblik van hun aanneming.
 
 - b. partij te zijn bij het niet geamendeerde verdrag ten aanzien van alle partijen die niet door deze amendementen gebonden zijn.
 
-#### Artikel 34. Authentieke teksten
+##### Artikel 34. Authentieke teksten
 
 Dit verdrag is opgesteld in het Arabisch, het Chinees, het Engels, het Frans, het Russisch en het Spaans. De zes teksten zijn gelijkelijk authentiek.
 
-#### Artikel 35. Registratie
+##### Artikel 35. Registratie
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt dit verdrag op verzoek van de directeur-generaal van de UNESCO geregistreerd bij het secretariaat van de Verenigde Naties.
 
-#### Artikel 1. Verzoeningscommissie
+##### Artikel 1. Verzoeningscommissie
 
 Op verzoek van één van de partijen bij het geschil wordt een verzoeningscommissie opgericht. Tenzij de partijen er anders over beslissen, is de commissie samengesteld uit vijf leden: elke betrokken partij wijst twee leden aan, en de voorzitter wordt door de aldus aangewezen leden in onderlinge overeenstemming gekozen.
 
-#### Artikel 2. Leden van de commissie
+##### Artikel 2. Leden van de commissie
 
 Bij een geschil tussen meer dan twee partijen wijzen de partijen met dezelfde belangen hun leden van de commissie in onderlinge overeenstemming aan. Wanneer minstens twee partijen onafhankelijke belangen hebben of het er niet over eens zijn of zij dezelfde belangen hebben, wijzen zij hun leden afzonderlijk aan.
 
-#### Artikel 3. Aanwijzing
+##### Artikel 3. Aanwijzing
 
 Wanneer de partijen twee maanden na het verzoek tot oprichting van een verzoeningscommissie niet alle leden hebben aangewezen, wijst de directeur-generaal van de UNESCO op vraag van de partij die het verzoek heeft ingediend binnen een nieuwe termijn van twee maanden alle leden van de commissie aan die niet door de partijen zijn aangewezen.
 
-#### Artikel 4. Voorzitter van de commissie
+##### Artikel 4. Voorzitter van de commissie
 
 Wanneer de leden van de commissie binnen een termijn van twee maanden na de aanwijzing van het laatste lid van de commissie geen voorzitter hebben gekozen, wijst de directeur-generaal van de UNESCO op verzoek van een partij binnen een nieuwe termijn van twee maanden de voorzitter aan.
 
-#### Artikel 5. Beslissingen
+##### Artikel 5. Beslissingen
 
 De verzoeningscommissie neemt haar beslissingen met de meerderheid van de stemmen van haar leden. Tenzij de partijen bij het geschil daar anders over beschikken, stelt zij haar eigen procedure vast. Zij doet een voorstel voor een oplossing van het geschil, dat de partijen te goeder trouw overwegen.
 
-#### Artikel 6. Onenigheden
+##### Artikel 6. Onenigheden
 
 Bij onenigheid over de bevoegdheid van de verzoeningscommissie, beslist deze laatste of zij al dan niet bevoegd is.

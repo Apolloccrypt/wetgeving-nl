@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzing opsporing en behandeling militaire zaken"
 identifier: "BWBR0033103"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033103"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033103"
+soort: "beleidsregel"
+stam_id: "12167393"
+version_id: "20317332"
+internal_id: "C28582051"
+label_id: "12139304"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033103/2013-04-01/0"
+intitule_bron: "Stcrt.2013-8057"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-12"
+intitule_published: "2013-03-28"
+intitule_in_force: "2013-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8057"
+original_signed_date: "2013-03-12"
+original_published_date: "2013-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8057"
+entry_into_force_date: "2013-04-01"
+jci_1_3: "jci1.3:c:BWBR0033103&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0033103&g=2013-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2013-03-12"
+entry_into_force: "2013-04-01"
 ---
-
 # Aanwijzing opsporing en behandeling militaire zaken
 
 ### Samenvatting

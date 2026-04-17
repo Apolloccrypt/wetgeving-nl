@@ -1,20 +1,44 @@
 ---
 title: "Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW"
 identifier: "BWBR0014926"
-categorie: "Overig"
-publicatiedatum: 2006-12-06
-laatste_update: 2006-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014926"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-12-06"
+last_updated: "2006-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014926"
+soort: "zbo"
+stam_id: "6582693"
+version_id: "11408872"
+internal_id: "C15361451"
+label_id: "6571104"
+original_entry_into_force: "2003-04-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014926/2006-12-06/0"
+intitule_bron: "Stcrt.2003-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-07"
+intitule_published: "2003-04-25"
+intitule_in_force: "2003-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-80"
+original_signed_date: "2003-04-07"
+original_published_date: "2003-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-080-p18-SC39682"
+entry_into_force_date: "2003-04-27"
+jci_1_3: "jci1.3:c:BWBR0014926&z=2006-12-06&g=2006-12-06"
+jci_1_0: "1.0:c:BWBR0014926&g=2006-12-06"
+citeertitel_status: "officieel"
+signed_date: "2003-04-07"
+entry_into_force: "2003-04-27"
 ---
-
 # Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW
 
 Gelet op [artikel 63a, zevende lid, van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - c. Wfsv: de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745).
 
-#### Artikel 2. Toetsing voorstellen voor beslissingen
+##### Artikel 2. Toetsing voorstellen voor beslissingen
 
 1. De eigenrisicodrager legt een voorstel voor een beslissing aan het UWV voor.
 
@@ -42,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 8. Het UWV maakt de beschikking zo spoedig mogelijk bekend.
 
-#### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) door de eigenrisicodrager
+##### Artikel 3. Inrichting ziekteverzuimadministratie van eigenrisicodrager; controle op de uitvoering [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) door de eigenrisicodrager
 
 1. De eigenrisicodrager richt zijn ziekteverzuimadministratie als volgt in:
 
@@ -98,17 +122,17 @@ De termijnen vangen aan op 1 januari van het jaar volgend op het jaar waarin de 
 
 12. De overige beschikkingen maakt het UWV zo spoedig mogelijk bekend.
 
-#### Artikel 4. Informatieverstrekking door eigenrisicodrager en UWV met betrekking tot te verrichten werkzaamheden
+##### Artikel 4. Informatieverstrekking door eigenrisicodrager en UWV met betrekking tot te verrichten werkzaamheden
 
 1. De eigenrisicodrager verstrekt de gegevens die nodig zijn voor de uitvoering van de in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) genoemde werkzaamheden aan het UWV in de situatie dat het UWV werkzaamheden verricht voor de eigenrisicodrager.
 
 2. Indien de persoon, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), het UWV informatie heeft verstrekt ter nakoming van de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), deelt het UWV die informatie onverwijld mee aan de eigenrisicodrager met in achtneming van de medische besluitenregeling, neergelegd in de [derde afdeling, paragraaf 2, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&paragraaf=2).
 
-#### Artikel 5. Informatieverstrekking door de eigenrisicodrager aan het UWV
+##### Artikel 5. Informatieverstrekking door de eigenrisicodrager aan het UWV
 
 Indien de eigenrisicodrager het vermoeden heeft dat de persoon, bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40), de verplichting, bedoeld in [artikel 31, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=31), of [artikel 49 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=49), niet of niet behoorlijk is nagekomen, deelt hij dit onverwijld mee aan het UWV.
 
-#### Artikel 6. Kosten werkzaamheden verricht door het UWV
+##### Artikel 6. Kosten werkzaamheden verricht door het UWV
 
 1. Indien het UWV werkzaamheden als bedoeld in [artikel 63a, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=63a) verricht, brengt het UWV de eigenrisicodrager ter zake van deze werkzaamheden per persoon als bedoeld in [artikel 40, eerste lid, onderdeel a, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=40) en per genoemd onderdeel de volgende bedragen in rekening.
 
@@ -126,17 +150,17 @@ Indien de eigenrisicodrager het vermoeden heeft dat de persoon, bedoeld in [arti
 
 3. Indien het UWV naast het ziekengeld een bedrag aan wettelijke rente heeft betaald wegens het te laat betalen van ziekengeld, brengt het UWV ook de wettelijke rente in rekening bij de eigenrisicodrager.
 
-#### Artikel 7. Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
+##### Artikel 7. Schadevergoeding, griffierecht en proceskosten na onrechtmatig gebleken beschikking
 
 1. Indien blijkt dat een door het UWV genomen beschikking onrechtmatig is, en op grond van het [Besluit Schadebeleid](onbekend) dan wel op grond van een rechterlijke uitspraak, een schadevergoeding verschuldigd is, betaalt het UWV de schadevergoeding.
 
 2. Indien de kosten, bedoeld in [artikel 7:15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:15), of [artikel 8:75, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:75) of het griffierecht bedoeld in [art. 8:74, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:74) moeten worden vergoed, betaalt het UWV die vergoeding.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit werkzaamheden, administratieve voorschriften en kosten eigenrisicodragen ZW.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin dit besluit wordt geplaatst.
 

@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg"
 identifier: "BWBR0046173"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-12-29
-laatste_update: 2023-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046173"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-29"
+last_updated: "2023-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046173"
+soort: "zbo"
+stam_id: "16225693"
+version_id: "28332382"
+internal_id: "C39940171"
+label_id: "16153284"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046173/2023-12-29/0"
+intitule_bron: "Stcrt.2021-49629"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-07"
+intitule_published: "2021-12-16"
+intitule_in_force: "2021-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49629"
+original_signed_date: "2021-12-07"
+original_published_date: "2021-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-49629"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0046173&z=2023-12-29&g=2023-12-29"
+jci_1_0: "1.0:c:BWBR0046173&g=2023-12-29"
+citeertitel_status: "officieel"
+signed_date: "2021-12-07"
+entry_into_force: "2023-01-01"
 ---
-
 # Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg
 
 Gelet op [artikel 57, eerste lid, onderdeel c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59 aanhef en onderdeel a Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met brief van 16 mei 2011, kenmerk GMT/VDG/3063109, ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -56,7 +81,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgaanbieder:** De natuurlijke persoon of rechtspersoon die beroeps- of bedrijfsmatig farmaceutische zorg verleent als bedoeld in [artikel 1 lid 1 onderdeel c Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Deze beleidsregel dient twee doelen:
 
@@ -64,11 +89,11 @@ Deze beleidsregel dient twee doelen:
 
 - 2. Het zichtbaar maken van handelingen behorend bij farmaceutische zorg in de onderhandelingstaal tussen zorgaanbieders, consumenten en zorgverzekeraars.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op farmaceutische zorg die omvat advies of begeleiding ten behoeve van medicatiebeoordeling en verantwoord gebruik van UR-geneesmiddelen als bedoeld in [artikel 1, eerste lid, onder s, van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=1) of de terhandstelling van die geneesmiddelen, of waarop de Wet inzake bloedtransfusie van toepassing is.2De farmaceutische zorg waarop de artikelen 50 tot en met 56 Wmg op van toepassing zijn zoals bepaald in artikel 3, eerste lid, onderdeel a, onder 1° en 2° van het Besluit uitbreiding en beperking werkingssfeer Wmg.
 
-#### Artikel 4. Prestaties
+##### Artikel 4. Prestaties
 
 In het kader van deze beleidsregel worden de volgende prestaties onderscheiden:
 
@@ -112,7 +137,7 @@ In het kader van deze beleidsregel worden de volgende deelprestaties onderscheid
 
 Hierna worden onder [artikelen 5 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29) de prestaties nader beschreven en onder [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=17&z=2023-12-29&g=2023-12-29) wordt naast de tariefsoort aangegeven op welke wijze elke prestatie kan worden gedeclareerd.
 
-#### Artikel 5. Terhandstelling van een geneesmiddel
+##### Artikel 5. Terhandstelling van een geneesmiddel
 
 1. Terhandstelling van een geneesmiddel
 
@@ -222,11 +247,11 @@ De deelprestatie Bijzondere apotheekbereiding kan in rekening worden gebracht, i
 
 De deelprestatie dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie onder [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=5&z=2023-12-29&g=2023-12-29), 5.2 of 5.3 indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
 
-#### Artikel 6. Instructie geneesmiddel-gerelateerd hulpmiddel
+##### Artikel 6. Instructie geneesmiddel-gerelateerd hulpmiddel
 
 Het geven van gebruiksinstructie van het UR-geneesmiddel-gerelateerd hulpmiddel indien sprake is van een eerste toepassing voor de patiënt of indien sprake is van een geconstateerd foutief gebruik van het UR-geneesmiddel-gerelateerd hulpmiddel. De indicatie voor het geven van de gebruiksinstructie wordt in het digitale patiëntendossier vastgelegd.
 
-#### Artikel 7. Medicatiebeoordeling bij chronisch geneesmiddelengebruik
+##### Artikel 7. Medicatiebeoordeling bij chronisch geneesmiddelengebruik
 
 Een systematische beoordeling van ten minste het UR-geneesmiddelengebruik van een individuele (veelal oudere) patiënt door arts, apotheker en patiënt (en/of diens verzorger) op basis van een periodieke gestructureerde, kritische evaluatie van de medische-, farmaceutische- en gebruiksinformatie. Deze prestatie kan enkel worden gedeclareerd indien er een medische of farmaceutische noodzaak bestaat.
 
@@ -246,7 +271,7 @@ Om deze prestatie te kunnen declareren dienen alle onderstaande activiteiten ten
 
 - 1. Deelprestatie Dienstverlening thuis De deelprestatie Dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=7&z=2023-12-29&g=2023-12-29) indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
 
-#### Artikel 8. Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek
+##### Artikel 8. Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek
 
 Om voorschrijvers in de polikliniek/op de dagbehandeling tijdig te kunnen laten beschikken over een actueel medicatieoverzicht dient voorafgaande aan de dagbehandeling/het polikliniekbezoek het medicatieoverzicht afgestemd te worden met de patiënt (en/of diens verzorger). Zodoende kan worden vastgesteld welke medicatie (al dan niet op recept) de patiënt daadwerkelijk gebruikt. Deze afstemming met de patiënt (en/of diens verzorger) dient vastgelegd te worden in het digitale patiëntendossier. Hierbij worden alle geneesmiddelen die de patiënt gebruikt (al dan niet op recept) en relevante gegevens met betrekking tot het gebruik daarvan geregistreerd in het digitale patiëntendossier conform de vigerende richtlijn ‘Richtlijn Overdracht van Medicatiegegevens in de keten’.
 
@@ -256,7 +281,7 @@ Om relevante ketenpartners na het bezoek aan de polikliniek/dagbehandeling te vo
 
 De prestatie Farmaceutische begeleiding bij dagbehandeling/polikliniekbezoek kan in rekening worden gebracht indien alle relevante gegevens conform de vigerende richtlijn ‘Richtlijn Overdracht van Medicatiegegevens in de keten’ zijn vastgelegd in het digitale patiëntendossier en daar waar nodig aantoonbaar afgestemd met de patiënt (en/of diens verzorger). Ook dient overdracht naar ten minste de farmaceutisch zorgaanbieder en huisarts te zijn geschied.
 
-#### Artikel 9. Farmaceutische begeleiding bij ziekenhuisopname
+##### Artikel 9. Farmaceutische begeleiding bij ziekenhuisopname
 
 Voor de dienstverlening die samenhangt met farmaceutische begeleiding in verband met ziekenhuisopname dient een gesprek3Indien een face-to-face gesprek niet noodzakelijk wordt geacht, kan na overleg met de patiënt (en/of diens verzorger) de informatie-uitwisseling over het geneesmiddelengebruik via een andere weg plaatsvinden. met de patiënt (en/of diens verzorger) plaats te vinden. Het medicatieoverzicht moet hierbij afgestemd worden met de patiënt (en/of diens verzorger) om vast te stellen welke medicatie (al dan niet op recept) de patiënt daadwerkelijk gebruikt.
 
@@ -266,7 +291,7 @@ De prestatie Farmaceutische begeleiding bij ziekenhuisopname kan in rekening wor
 
 - 1. Deelprestatie Dienstverlening in de avond, nacht of op zon- of feestdagen De deelprestatie Dienstverlening in de avond, nacht of op zon- of feestdagen kan in rekening worden gebracht tezamen met de prestatie in artikel 9 indien voldaan wordt aan de begripsbepaling van ANZ-dienstverlening.
 
-#### Artikel 10. Farmaceutische begeleiding in verband met ontslag uit het ziekenhuis
+##### Artikel 10. Farmaceutische begeleiding in verband met ontslag uit het ziekenhuis
 
 De farmaceutische begeleiding bij ontslag uit het ziekenhuis bestaat uit:
 
@@ -290,7 +315,7 @@ Om relevante ketenpartners na ontslag uit het ziekenhuis te voorzien van een act
 
 - 2. Deelprestatie Dienstverlening thuis De deelprestatie dienstverlening thuis kan in rekening worden gebracht tezamen met de prestatie in artikel 10 indien voldaan wordt aan de begripsbepaling van dienstverlening thuis.
 
-#### Artikel 11. Voorlichting farmaceutisch zelfmanagement voor patiëntengroep
+##### Artikel 11. Voorlichting farmaceutisch zelfmanagement voor patiëntengroep
 
 Het individueel ondersteunen van patiënten in groepsverband middels informatiebijeenkomsten over UR-geneesmiddelen in relatie tot ‘gezondheid en gedrag’ teneinde het geneesmiddelengebruik van de betreffende patiënt te optimaliseren.
 
@@ -300,29 +325,29 @@ Deze prestatie kan door de zorgaanbieder alleen geleverd worden indien aan alle 
 
 - –. De individuele behandelplannen worden uitgebreid met een "groepsbehandelplan".
 
-#### Artikel 12. Advies farmaceutische zelfzorg
+##### Artikel 12. Advies farmaceutische zelfzorg
 
 Het op verzoek van een individuele patiënt/consument verstrekken van advies over de vraag of er mogelijke interacties bestaan van Uitsluitend Apotheek -, Uitsluitend Apotheek of Drogist – of zelfzorg geneesmiddelen met UR-geneesmiddelen die de patiënt op het betreffende moment gebruikt of wil gaan gebruiken. Relevante gegevens moeten worden vastgelegd in het digitale patiëntendossier.
 
-#### Artikel 13. Advies gebruik geneesmiddelen tijdens reis
+##### Artikel 13. Advies gebruik geneesmiddelen tijdens reis
 
 Het op verzoek van een individuele patiënt/consument verstrekken van advies over het gebruik en bewaren van, door de patiënt tijdens een reis te gebruiken, UR-geneesmiddelen in een ander weersklimaat.
 
 De prestatie kan enkel worden gedeclareerd indien dit advies is vastgelegd in het digitale patiëntendossier.
 
-#### Artikel 14. Advies ziekterisico bij reizen
+##### Artikel 14. Advies ziekterisico bij reizen
 
 Het op verzoek van een individuele patiënt/consument verstrekken van informatie over UR-geneesmiddelen in verband met ziekterisico bij reizen.
 
 De prestatie kan enkel worden gedeclareerd indien dit advies is vastgelegd in het digitale patiëntendossier.
 
-#### Artikel 15. Onderlinge dienstverlening
+##### Artikel 15. Onderlinge dienstverlening
 
 In deze beleidsregel is sprake van onderlinge dienstverlening als de zorg die door een zorgaanbieder wordt verleend onderdeel uitmaakt van de beschrijving van een door een andere zorgaanbieder uit te voeren prestatie op het gebied van de farmaceutische zorg. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’.
 
 De uitvoerende zorgaanbieder brengt de prestatie ‘onderlinge dienstverlening’ in rekening bij de opdrachtgevende zorgaanbieder die de prestatie bij de uitvoerende zorgaanbieder heeft aangevraagd.
 
-#### Artikel 16. Facultatieve prestatie
+##### Artikel 16. Facultatieve prestatie
 
 De NZa kan een prestatiebeschrijving vaststellen voor de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=3&z=2023-12-29&g=2023-12-29) aangeduide zorg die afwijkt van de hiervoor vermelde prestatiebeschrijvingen, indien ten minste één zorgaanbieder en ten minste één ziektekostenverzekeraar gezamenlijk daarom verzoeken. Andere verzoeken dan gezamenlijke worden zonder inhoudelijke beoordeling afgewezen.
 
@@ -350,7 +375,7 @@ Valt de voorgestelde prestatiebeschrijving(en) onder de reikwijdte van deze bele
 
 Indien de aanvraag niet voldoet aan de gestelde voorwaarden zal de NZa de beoordeling ervan aanhouden totdat de benodigde gegevens zijn ontvangen. Bij een complete aanvraag voor een nieuwe prestatie zal de NZa binnen vier weken na ontvangst van de schriftelijke aanvraag een besluit nemen.
 
-#### Artikel 17. Tariefsoort en declaratie
+##### Artikel 17. Tariefsoort en declaratie
 
 Voor de prestaties zoals vastgelegd in deze beleidsregel gelden vrije tarieven.
 
@@ -360,11 +385,11 @@ Voor de prestatie zoals bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.
 
 Voor de prestatie als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0046173&artikel=16&z=2023-12-29&g=2023-12-29) geldt een tarief dat afhankelijk is van de inhoud van de prestatie.
 
-#### Artikel 18. Intrekken oude beleidsregel
+##### Artikel 18. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de beleidsregel ‘Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg’, kenmerk BR/REG-22144 ingetrokken.
 
-#### Artikel 19. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 19. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De beleidsregel ‘Beleidsregel prestatiebeschrijvingen voor farmaceutische zorg’, met kenmerk BR/REG-22144, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006"
 identifier: "BWBR0020580"
-categorie: "Milieu"
-publicatiedatum: 2006-12-15
-laatste_update: 2006-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020580"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-12-15"
+last_updated: "2006-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020580"
+soort: "beleidsregel"
+stam_id: "8751013"
+version_id: "13817502"
+internal_id: "C18744711"
+label_id: "8730874"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020580/2006-12-15/0"
+intitule_bron: "Stcrt.2006-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-29"
+intitule_published: "2006-12-05"
+intitule_in_force: "2006-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-237"
+original_signed_date: "2006-11-29"
+original_published_date: "2006-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-237-p12-SC78019"
+entry_into_force_date: "2006-12-15"
+jci_1_3: "jci1.3:c:BWBR0020580&z=2006-12-15&g=2006-12-15"
+jci_1_0: "1.0:c:BWBR0020580&g=2006-12-15"
+citeertitel_status: "officieel"
+signed_date: "2006-11-29"
+entry_into_force: "2006-12-15"
 ---
-
 # Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -22,7 +47,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. MEP-subsidie: subsidie op grond van [artikel 72m van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kent een kostenvergoeding toe aan een verzoeker die:
 
@@ -36,7 +61,7 @@ In deze beleidsregel wordt verstaan onder:
 
 2. De Minister kent geen kostenvergoeding toe indien voor een productie-installatie subsidie wordt verleend op grond van de in de brief van 11 september 2006 (Kamerstukken II, 28 665, 76) aangekondigde subsidieregeling voor vergistingsinstallaties.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Kosten komen alleen voor vergoeding in aanmerking indien het directe kosten betreffen die de verzoeker noodzakelijkerwijs voor 18 augustus 2006 heeft gemaakt en betaald aan derden om voor 1 januari 2007 MEP-subsidie aan te vragen, voor zover deze kosten redelijk zijn.
 
@@ -54,11 +79,11 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Indirecte kosten waaronder in ieder geval worden begrepen financieringskosten, inkomstenderving, winstderving, gederfde subsidieopbrengsten en gederfde fiscale voordelen komen niet voor vergoeding in aanmerking.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de verzoeker kosten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020580&artikel=3&z=2006-12-15&g=2006-12-15), heeft gemaakt in verband met het aanvragen van een ontheffing op grond van [artikel 72m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m), of [artikel 72s, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72s) en hij voordeel geniet van het feit dat zijn productie-installatie is gerenoveerd of uitgebreid, wordt dat voordeel in mindering gebracht op de kostenvergoeding.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het verzoek om kostenvergoeding wordt gedaan door het indienen van een juist en volledig ingevuld en ondertekend exemplaar van een bij SenterNovem te verkrijgen formulier, waarbij de verzoeker aannemelijk maakt dat hij voor 1 januari 2007 aan alle eisen zou hebben kunnen voldoen om een aanvraag voor MEP-subsidie in te dienen.
 
@@ -68,11 +93,11 @@ Indien de verzoeker kosten als bedoeld in [artikel 3, eerste lid](https://wetten
 
 4. Het verzoek om kostenvergoeding wordt gericht aan de Minister en wordt uiterlijk 1 februari 2007 ontvangen door SenterNovem.
 
-#### Artikel 6
+##### Artikel 6
 
 De Minister bevestigt de ontvangst van het verzoek om kostenvergoeding binnen twee weken na ontvangst.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Minister beslist binnen 13 weken na 1 februari 2007 onder voorbehoud van goedkeuring van de Commissie van de Europese Gemeenschappen voor deze beleidsregels op een verzoek en deelt deze beslissing schriftelijk aan verzoeker mede.
 
@@ -80,11 +105,11 @@ De Minister bevestigt de ontvangst van het verzoek om kostenvergoeding binnen tw
 
 3. De beslissing tot kostenvergoeding kan worden ingetrokken of gewijzigd indien dit noodzakelijk is in verband met het verkrijgen van de goedkeuring van de commissie van de Europese Gemeenschappen voor deze beleidsregels of het uitblijven daarvan.
 
-#### Artikel 8
+##### Artikel 8
 
 Betaling van de toegekende kostenvergoeding zal geschieden binnen vier weken na de beslissing op het verzoek of, indien dit later is, binnen vier weken na de goedkeurende beschikking van de Europese Commissie
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister besluit de beslissing tot kostenvergoeding in te trekken of te wijzigen indien binnen het verstrijken van een termijn van vijf jaar na de inwerkingtreding van deze beleidsregels:
 
@@ -96,11 +121,11 @@ De Minister besluit de beslissing tot kostenvergoeding in te trekken of te wijzi
 
 - b. aan de verzoeker kosten zijn vergoed die hij heeft gemaakt in verband met het aanvragen van een ontheffing op grond van [artikel 72m, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72m), of [artikel 72s, tweede lid, van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=72s) en hij na de beslissing tot kostenvergoeding voordeel geniet van het feit dat zijn productie-installatie is gerenoveerd of uitgebreid.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregels treden op 15 december 2006 in werking.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze beleidsregels worden aangehaald als: Beleidsregels kostenvergoeding subsidie milieukwaliteit elektriciteitsproductie 2006.
 

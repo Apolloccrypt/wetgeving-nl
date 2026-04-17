@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperkingen openbaarheid archief Sociale Inlichtingen- en Opsporingsdienst (SIOD) 2002–2012"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 februari 2025, nr. 2025-0000028015, houdende beperkingen aan de openbaarheid van het archief van de Sociale Inlichtingen- en Opsporingsdienst (SIOD), 2002–2012"
 identifier: "BWBR0050818"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-03-04
-laatste_update: 2025-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050818"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-04"
+last_updated: "2025-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050818"
+soort: "ministeriele-regeling"
+stam_id: "17378223"
+version_id: "30635182"
+internal_id: "C43915271"
+label_id: "17281204"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050818/2025-03-04/0"
+intitule_bron: "Stcrt.2025-7376"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-21"
+intitule_published: "2025-03-03"
+intitule_in_force: "2025-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7376"
+original_signed_date: "2025-02-21"
+original_published_date: "2025-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-7376"
+entry_into_force_date: "2025-03-04"
+jci_1_3: "jci1.3:c:BWBR0050818&z=2025-03-04&g=2025-03-04"
+jci_1_0: "1.0:c:BWBR0050818&g=2025-03-04"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperkingen openbaarheid archief Sociale Inlichtingen- en Opsporingsdienst (SIOD) 2002–2012"
+signed_date: "2025-02-21"
+entry_into_force: "2025-03-04"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 februari 2025, nr. 2025-0000028015, houdende beperkingen aan de openbaarheid van het archief van de Sociale Inlichtingen- en Opsporingsdienst (SIOD), 2002–2012
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d. 23 januari 2025, met kenmerk 49670713.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de Sociale Inlichtingen- en Opsporingsdienst (SIOD), 2002–2012, Uitgever: Nationaal Archief, Den Haag
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -136,6 +162,6 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 264–268 (digitale dragers) | 2083 |
 | 268 (digitale dragers) | 2084 |
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

@@ -1,13 +1,39 @@
 ---
-title: "Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025"
+title: "Reglement voor de Wetenschappelijke Adviesraad van Zorginstituut Nederland, kenmerk 2024027403"
 identifier: "BWBR0050882"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-03-26
-laatste_update: 2025-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050882"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-26"
+last_updated: "2025-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050882"
+soort: "zbo"
+stam_id: "17390853"
+version_id: "30658812"
+internal_id: "C43956211"
+label_id: "17294264"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050882/2025-03-26/0"
+intitule_bron: "Stcrt.2025-10571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-11"
+intitule_published: "2025-03-25"
+intitule_in_force: "2025-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10571"
+original_signed_date: "2025-03-11"
+original_published_date: "2025-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10571"
+entry_into_force_date: "2025-03-26"
+jci_1_3: "jci1.3:c:BWBR0050882&z=2025-03-26&g=2025-03-26"
+jci_1_0: "1.0:c:BWBR0050882&g=2025-03-26"
+citeertitel_status: "officieel"
+short_title: "Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025"
+signed_date: "2025-03-11"
+entry_into_force: "2025-03-26"
 ---
-
 # Reglement voor de Wetenschappelijke Adviesraad van Zorginstituut Nederland, kenmerk 2024027403
 
 Gelet op [artikel 8, tweede lid, van het Bestuursreglement Zorginstituut Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=8),
@@ -16,7 +42,7 @@ heeft in zijn vergadering van 11 maart 2025 besloten:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. begripsbepalingen
+##### Artikel 1.1. begripsbepalingen
 
 Dit reglement verstaat onder:
 
@@ -58,7 +84,7 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 2. Taak en samenstelling van de adviesraad
 
-#### Artikel 2.1. Taak
+##### Artikel 2.1. Taak
 
 1. De adviesraad heeft tot taak:
 
@@ -74,7 +100,7 @@ Dit reglement verstaat onder:
 
 3. De adviesraad doet op een door de voorzitter van de Raad van Bestuur aangegeven wijze verslag van zijn taakuitoefening en die van de werkcommissies.
 
-#### Artikel 2.2. Samenstelling en benoeming van de adviesraad
+##### Artikel 2.2. Samenstelling en benoeming van de adviesraad
 
 1. De adviesraad bestaat uit minimaal twintig leden en maximaal vijftig leden, waaronder de voorzitter WAR.
 
@@ -86,7 +112,7 @@ Dit reglement verstaat onder:
 
 5. De leden van de adviesraad oefenen hun taken uit zonder last of ruggespraak en op persoonlijke titel.
 
-#### Artikel 2.3. Werkcommissies
+##### Artikel 2.3. Werkcommissies
 
 1. De adviesraad voert zijn taak uit met verschillende werkcommissies, die specifieke onderwerpen behandelen.
 
@@ -104,15 +130,15 @@ Dit reglement verstaat onder:
 
 5. De voorzitter WAR is belast met het bewaken van de kwaliteit en de consistentie tussen de adviezen van de werkcommissies.
 
-#### Artikel 2.4. Bekendmaking
+##### Artikel 2.4. Bekendmaking
 
 De samenstelling van de adviesraad en de werkcommissies is te vinden op de website van het Zorginstituut, waarbij de termijn en de benoemingsperiode van de leden vermeld wordt.
 
-#### Artikel 2.5. Waarnemers
+##### Artikel 2.5. Waarnemers
 
 De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
-#### Artikel 2.6. Tijdelijke klankbordgroep
+##### Artikel 2.6. Tijdelijke klankbordgroep
 
 1. De adviesraad kan, op initiatief van de voorzitter WAR, tijdelijke klankbordgroepen instellen waarvan de omvang, samenstelling en duur is afgestemd op het doel.
 
@@ -124,7 +150,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 ### Hoofdstuk 3. Secretariaat
 
-#### Artikel 3.1. De rol en samenstelling van het secretariaat
+##### Artikel 3.1. De rol en samenstelling van het secretariaat
 
 1. De adviesraad en de werkcommissies worden ondersteund door een secretariaat.
 
@@ -162,7 +188,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 ### Hoofdstuk 4. Persoonlijke belangen
 
-#### Artikel 4.1. Omgaan met persoonlijke belangen
+##### Artikel 4.1. Omgaan met persoonlijke belangen
 
 1. De adviesraad verricht zijn taak onpartijdig en zonder vooringenomenheid.
 
@@ -188,7 +214,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 9. Indien het lid een persoonlijk belang heeft dat niet is uitgesloten op grond van artikel 4.1, zesde lid, maakt het lid een expliciete afweging over de vraag of en onder welke voorwaarden deelgenomen kan worden aan de beraadslaging over het onderwerp. Het lid overlegt met de voorzitter WAR en secretaris WAR over het persoonlijke belang om na te gaan of met de voorgenomen beheersmaatregelen de onafhankelijkheid van de adviesraad is gewaarborgd.
 
-#### Artikel 4.2. Persoonlijke belangen medewerkers
+##### Artikel 4.2. Persoonlijke belangen medewerkers
 
 1. Voorafgaand aan de voorbereiding van een onderwerp gaan de secretarissen, plaatsvervangend secretarissen en de overig betrokken medewerkers van het Zorginstituut na of zij een persoonlijk belang hebben bij dat onderwerp, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0050882&hoofdstuk=4&artikel=4.1&z=2025-03-26&g=2025-03-26). Indien een secretaris, plaatsvervangend secretaris of een overig betrokken medewerker van het Zorginstituut een persoonlijk belang heeft bij het onderwerp, meldt hij dit onmiddellijk bij zijn direct leidinggevende.
 
@@ -196,7 +222,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 ### Hoofdstuk 5. Werkwijze
 
-#### Artikel 5.1. Vergaderingen
+##### Artikel 5.1. Vergaderingen
 
 1. De adviesraad vergadert tenminste een maal per twee jaar over onderwerpen die de werkcommissies gezamenlijk aangaan. Verder belegt de voorzitter WAR een vergadering zo dikwijls hij dit nodig acht.
 
@@ -208,7 +234,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 5. De voorzitter WAR kan in bijzondere gevallen besluiten om de leden schriftelijk te raadplegen.
 
-#### Artikel 5.2. Agenda
+##### Artikel 5.2. Agenda
 
 1. Het secretariaat stelt in overleg met de voorzitter WAR en de technisch voorzitters de agenda voor de vergaderingen van de werkcommissies op.
 
@@ -216,7 +242,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 3. Onderwerpen die niet op de agenda staan worden niet in behandeling genomen, tenzij de meerderheid van de aanwezige leden de behandeling ervan van eenvoudige of spoedeisende aard verklaart.
 
-#### Artikel 5.3. Orde van de vergadering van de werkcommissies
+##### Artikel 5.3. Orde van de vergadering van de werkcommissies
 
 1. De technisch voorzitter van een werkcommissie leidt de vergadering en is belast met de handhaving van de orde in de vergadering.
 
@@ -230,7 +256,7 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 6. De technisch voorzitter kan de beraadslagingen sluiten, zodra hij meent, dat een onderwerp voldoende is toegelicht.
 
-#### Artikel 5.4. Advisering aan het Zorginstituut
+##### Artikel 5.4. Advisering aan het Zorginstituut
 
 1. De adviesraad adviseert de Raad van Bestuur.
 
@@ -248,25 +274,25 @@ De Minister van VWS kan een of twee waarnemers voor de adviesraad aanwijzen.
 
 8. De adviezen van de WAR CG en de WAR CC zijn openbaar en worden op de website van het Zorginstituut bekend gemaakt.
 
-#### Artikel 5.5. Afstemmen werk adviesraad en werkcommissies
+##### Artikel 5.5. Afstemmen werk adviesraad en werkcommissies
 
 1. De voorzitter WAR is in beginsel bij de vergaderingen van de werkcommissies aanwezig om de kwaliteit en de consistentie in de advisering van de werkcommissies te bewaken.
 
 2. De voorzitter WAR heeft tenminste twee keer per jaar overleg met de technische voorzitters van de werkcommissies.
 
-#### Artikel 5.6. Afstemming tussen de adviesraad en de Raad van Bestuur
+##### Artikel 5.6. Afstemming tussen de adviesraad en de Raad van Bestuur
 
 De voorzitter WAR heeft tenminste acht keer per jaar overleg met de voorzitter van de Raad van Bestuur.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Intrekking en inwerkingtreding
+##### Artikel 6.1. Intrekking en inwerkingtreding
 
 1. Het Reglement Wetenschappelijke adviesraad van 5 december 2016 wordt ingetrokken.
 
 2. Dit reglement treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6.2. Citeertitel
+##### Artikel 6.2. Citeertitel
 
 Dit besluit kan worden aangehaald als: Reglement Wetenschappelijke Adviesraad Zorginstituut Nederland 2025.
 

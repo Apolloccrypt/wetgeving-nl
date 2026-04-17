@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsregeling Wmo 2015"
+title: "Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 12 december 2014, houdende regels voor de uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsregeling Wmo 2015)"
 identifier: "BWBR0036096"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036096"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036096"
+soort: "ministeriele-regeling"
+stam_id: "12931323"
+version_id: "26208882"
+internal_id: "C37271841"
+label_id: "12900744"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036096/2026-01-01/0"
+intitule_bron: "Stcrt.2014-36807"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-12"
+intitule_published: "2014-12-23"
+intitule_in_force: "2014-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-61945"
+original_signed_date: "2019-11-07"
+original_published_date: "2019-11-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-61945"
+entry_into_force_date: "2019-11-07"
+jci_1_3: "jci1.3:c:BWBR0036096&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0036096&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsregeling Wmo 2015"
+signed_date: "2019-11-07"
+entry_into_force: "2019-11-07"
 ---
-
 # Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 12 december 2014, houdende regels voor de uitvoering van de Wet maatschappelijke ondersteuning 2015 (Uitvoeringsregeling Wmo 2015)
 
 Gelet op de [artikelen 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3), [5, derde lid, van de Kwaliteitswet zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007850&artikel=5), [48i, tweede lid, van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48i), [2.5.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.5.1), [4.2.10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.10), [4.2.13](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.13), [4.2.14](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.14), [5.2.9, zesde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.2.9), [2.7 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.7), [107 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=107), [21 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0012223&artikel=21), [3.13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), [4.3.3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.3), en [5.3 van het Uitvoeringsbesluit Wmo 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=5.3) en [artikel 7a, vierde lid, van het Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633&artikel=7a);
@@ -16,7 +42,7 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1. budgetbeheer Sociale verzekeringsbank
 
-#### Artikel 2
+##### Artikel 2
 
 In deze paragraaf wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze paragraaf wordt verstaan onder:
 
 #### Paragraaf 2. beveiligingseisen gegevensverwerking
 
-#### Artikel 3
+##### Artikel 3
 
 De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.2.9), voldoet aan NEN-ISO-IEC 27001 en NEN-ISO-IEC 27002 of is aan deze normen gelijkwaardig.
 
@@ -58,7 +84,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 #### Paragraaf 1. financiële verantwoording
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een Veilig Thuis-organisatie stelt een jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=361) op waarin de eigen financiële gegevens zijn opgenomen en de gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=392), zijn bijgevoegd.
 
@@ -76,7 +102,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 - e. kan een Veilig Thuis-organisatie dat op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, heeft voldaan aan twee of drie van de eisen genoemd in [artikel 396, eerste lid, onderdelen a tot en met c, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=396), volstaan met een beoordelingsverklaring van een accountant in plaats van een verklaring als bedoeld in [artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een Veilig Thuis-organisatie stelt de jaarverslaggeving en een jaardocument op dat ten minste een verantwoordingsdocument, het verslag, bedoeld in [artikel 4.2.10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=4.2.10) en andere informatie die wordt verstrekt op grond van het model, bedoeld in het derde lid, bevat.
 
@@ -88,7 +114,7 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 5. De gegevens, bedoeld in [artikel 4.1, eerste en tweede lid, van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=4.1), over de verslagjaren 2019 of 2020 worden uiterlijk voor 1 oktober 2020, respectievelijk 1 oktober 2021 openbaar gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De jaarverslaggeving en het jaardocument, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), worden in elektronische vorm bij het Centraal Informatiepunt Beroepen Gezondheidszorg ingediend voor 1 juni van het jaar volgend op het verslagjaar, dan wel uiterlijk voor 15 juli van dat jaar, indien zij betrekking hebben op een Veilig Thuis-organisatie dat valt onder een gemeenschappelijke regeling in de zin van de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740). In afwijking van de eerste zin worden de jaarverslaggeving en het jaardocument over de verslagjaren 2019 of 2020 ingediend voor 1 oktober 2020, respectievelijk 1 oktober 2021.
 
@@ -96,13 +122,13 @@ De gegevensverwerking, bedoeld in [artikel 5.2.9, zesde lid, van de wet](https:/
 
 #### Paragraaf 1. financiële verantwoording
 
-#### Artikel 7
+##### Artikel 7
 
 Een Veilig Thuis-organisatie verstrekt aan het Centraal Bureau voor de Statistiek structureel de gegevens, bedoeld in [artikel 4.3.2, eerste lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4.3.2), op de wijze beschreven in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=A&z=2026-01-01&g=2026-01-01) bij deze regeling.
 
 ### Hoofdstuk 3. Beveiligingseisen gegevensverwerking
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een onderzoek als bedoeld in [artikel 2.5.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.5.1), bestaat mede uit een ervaringsonderzoek ten minste onder personen voor wie een onderzoek is uitgevoerd als bedoeld in [artikel 2.3.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.2) of hen die gebruik maken van een voorziening.
 
@@ -118,7 +144,7 @@ Een Veilig Thuis-organisatie verstrekt aan het Centraal Bureau voor de Statistie
 
 ### Hoofdstuk 3a. Tolkdiensten voor auditief beperkten
 
-#### Artikel 9
+##### Artikel 9
 
 1. Van de vermogensgrondslag, bedoeld in [artikel 3.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.2), wordt het volgende vermogensbestanddeel afgetrokken:
 
@@ -152,7 +178,7 @@ Een Veilig Thuis-organisatie verstrekt aan het Centraal Bureau voor de Statistie
 
 4. De termijn gedurende welke het bedrag van de uitkering, genoemd in het eerste lid, onderdelen b, c, d, h, i, j en k, wordt afgetrokken van de vermogensgrondslag, bedoeld in [artikel 3.2, tweede en derde lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.2), bedraagt tien jaar, welke termijn aanvangt in het kalenderjaar dat volgt op het jaar waarin de uitkering is verkregen.
 
-#### Artikel 10
+##### Artikel 10
 
 Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13) wordt in verband met zak- en kleedgeld in mindering gebracht:
 
@@ -160,7 +186,7 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 - b. voor de gehuwde cliënten tezamen: € 7.661.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13) worden in verband met de premie zorgverzekering in mindering gebracht:
 
@@ -182,7 +208,7 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 - b. voor de cliënten die gehuwd zijn: een bedrag van € 2.833 met dien verstande dat indien hun gezamenlijke inkomen € 26.820 of meer bedraagt dit bedrag wordt verminderd met 13,67% van het verschil tussen hun gezamenlijke inkomen en € 26.820.
 
-#### Artikel 12
+##### Artikel 12
 
 Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13) wordt in mindering gebracht:
 
@@ -192,7 +218,7 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 ### Hoofdstuk 6. Bedragen beschermd wonen en overgangsrecht Wmo 2015 AWBZ
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de ongehuwde cliënt die de pensioengerechtigde leeftijd heeft bereikt, wordt, indien het op grond van [artikel 3.13, eerste lid, onderdeel a, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.13), na toepassing van de [artikelen 10 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=6&artikel=10&z=2026-01-01&g=2026-01-01), berekende bedrag, meer bedraagt dan € 11.830, als extra vrijlating in mindering gebracht 25% van het verschil tussen het berekende bedrag en laatstbedoeld bedrag.
 
@@ -204,37 +230,37 @@ Ingevolge [artikel 3.13, eerste lid, onderdeel b, onder 2°, van het Uitvoerings
 
 5. Het tweede lid is van toepassing indien een van beide gehuwde cliënten de pensioengerechtigde leeftijd nog niet heeft bereikt.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Regeling bezoldigingsmaxima topfunctionarissen zorg- en welzijnssector.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Regeling Halt 2013.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt de Regeling kwaliteitsjaarverslag zorginstellingen 2010.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Subsidieregeling donatie bij leven.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Voorschrift Vreemdelingen 2000.
 
 ### Hoofdstuk 4. AMHK’s
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers.
 
-#### Artikel 20
+##### Artikel 20
 
 [Artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), is niet van toepassing op het verrichten van betalingen uit het persoonsgebonden budget voor een verzekerde als bedoeld in [artikel 8.3, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=8.3), gedurende de looptijd van het indicatiebesluit of uiterlijk tot 1 januari 2016.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
@@ -922,7 +948,7 @@ Het aanleveren van de gegevens aan het CBS is verplicht op grond van [artikel 4.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. De cliënt sluit een schriftelijke overeenkomst met iedere derde die hij ten laste van zijn persoonsgebonden budget maatschappelijke ondersteuning laat verlenen, behalve voor zover reeds vervoer van een derde is betrokken of een hulp uit het sociaal netwerk maatschappelijke ondersteuning zal verlenen.
 
@@ -1028,7 +1054,7 @@ In [artikel 4.3.1, eerste lid, van het Uitvoeringsbesluit Wmo 2015](https://wett
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. De Sociale verzekeringsbank voert het budgetbeheer, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2), uit:
 
@@ -1112,7 +1138,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 12. De cliënt bedoeld in het elfde lid, verstrekt op verzoek van het college voor elke derde het op grond van het derde lid, onderdelen c, d en e, totaal aantal betaalde uren inclusief het bijbehorende totaalbedrag door middel van een daartoe beschikbaar gesteld formulier aan de Sociale verzekeringsbank.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. In afwijking van [artikel 2b, eerste lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=2&artikel=2b&z=2026-01-01&g=2026-01-01), en het vierde en vijfde lid van dat artikel, kan de Sociale verzekeringsbank rechtstreeks aan de cliënt, betalen:
 
@@ -1280,7 +1306,7 @@ Elke vorm van voor de minderjarige bedreigende of gewelddadige interactie van fy
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 De bedragen, bedoeld in [artikel 3.7, vierde lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=B&z=2019-07-26&g=2019-07-26) van deze regeling opgenomen bedragen.
 
@@ -1384,11 +1410,11 @@ De bedragen, bedoeld in [artikel 3.7, vierde lid, van het Uitvoeringsbesluit](ht
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2d
+##### Artikel 2d
 
 De cliënt doet aan de Sociale verzekeringsbank op verzoek of onverwijld uit eigen beweging mededeling van gegevens waarvan hem redelijkerwijs duidelijk moet zijn dat zij noodzakelijk zijn voor het uitvoeren van het budgetbeheer, bedoeld in [artikel 2.6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.2), of het uitvoeren van betalingen ten laste van het persoonsgebonden budget.
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. In het belang van een gecoördineerde uitvoering van het persoonsgebonden budget ondersteunt de Sociale verzekeringsbank het college bij de uitoefening van diens taken als de verstrekker van dat budget.
 
@@ -1492,7 +1518,7 @@ Partners hebben een wederzijdse zorgverplichting en zijn vaak financieel, econom
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2ab
+##### Artikel 2ab
 
 1. Indien van toepassing kan een cliënt ten laste van zijn persoonsgebonden budget een hulp uit het sociaal netwerk voor maatschappelijke ondersteuning, die zonder dienstbetrekking wordt verleend, laten betalen:
 
@@ -1616,7 +1642,7 @@ Profielen van (ex-)partnergeweld:11Graham, Kevan en Archer, 2003; Johnson, 2008;
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -1628,7 +1654,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **tolk op afstand:** tolk die zijn tolkdiensten verricht vanuit een andere locatie, niet zijnde de locatie waar de afnemer zich bevindt.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Het UWV draagt zorg voor continue bereikbaarheid om een afnemer te bemiddelen naar tolken in geval van spoed.
 
@@ -1642,17 +1668,17 @@ In dit hoofdstuk wordt verstaan onder:
 
 6. Het UWV vergoedt de werktijd van de betrokken tolk tijdens pauzes van de afnemer.
 
-#### Artikel 3c
+##### Artikel 3c
 
 Bij de aanvraag legt de persoon alle documenten die noodzakelijk zijn voor de beoordeling van de aanvraag op grond van [artikel 4a.1.1 van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=4a.1.1), waaronder in ieder geval informatie over de aard van de opdracht indien twee tolken tegelijkertijd voor één afnemer zouden tolken.
 
-#### Artikel 3d
+##### Artikel 3d
 
 Een declaratie van een vergoeding bevat een handtekening of een elektronische handtekening van de afnemer.
 
 #### Paragraaf 2. Vergoeding van tolken
 
-#### Artikel 3e
+##### Artikel 3e
 
 1. De vergoeding voor tolkdiensten bedraagt ten hoogste € 60,75 (exclusief btw) per uur per tolk of, indien de dienstverlening geen hele uren beslaat, een bedrag naar rato van dat uur afgerond op vijftien minuten. Voor tolk op afstand mag 130% van dit tarief in rekening worden gebracht.
 
@@ -1670,7 +1696,7 @@ Een declaratie van een vergoeding bevat een handtekening of een elektronische ha
 
 4. Het bedrag, genoemd in het eerste lid, wordt met ingang van 1 januari van elk kalenderjaar gewijzigd met het percentage waarmee het indexcijfer van de Cao-lonen in de gezondheids- en welzijnszorg over de maand september, die daaraan voorafgaat, afwijkt van het indexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd en door de voorzitter van de Raad van Bestuur van UWV openbaargemaakt.
 
-#### Artikel 3f
+##### Artikel 3f
 
 1. Het UWV verstrekt een vergoeding voor vervoerskosten van € 0,70 per gereden kilometer aan een tolk op basis van het aantal werkelijk gereisde kilometers. Dit aantal wordt bepaald aan de hand van ‘de snelste route’ op basis van de routeplanner die door het UWV wordt gehanteerd, op basis van volledige postcodes en per enkele reis. Voor de vervoersvergoeding geldt een maximum van 60 kilometer per enkele reis, met uitzondering van personen, die zowel een auditief als visuele beperking hebben. De gereisde afstand wordt naar boven afgerond op hele kilometers.
 
@@ -1702,7 +1728,7 @@ Voor schrijftolken gelden eveneens de volgende aanvullende postcodegebieden:
 
 4. Het bedrag, genoemd in het eerste lid, wordt met ingang van 1 januari van elk kalenderjaar gewijzigd aan de hand van de consumentenprijsindex over de maand september die aan het betreffende kalenderjaar voorafgaat. De voorzitter van de Raad van Bestuur van UWV maakt de consumentenprijsindex openbaar.
 
-#### Artikel 3g
+##### Artikel 3g
 
 1. In het geval dat degene die krachtens [artikel 3a.1.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.1.1) een vergoeding van het UWV wenst voor tolkdiensten minder dan 24 uur voor het tijdstip van aanvang van de dienstverlening annuleert, telt het aantal verzochte uren mee voor de urennorm, bedoeld in [artikel 3b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3a&paragraaf=1&artikel=3b&z=2026-01-01&g=2026-01-01).
 
@@ -1710,7 +1736,7 @@ Voor schrijftolken gelden eveneens de volgende aanvullende postcodegebieden:
 
 #### Paragraaf 2. Vergoeding van tolken
 
-#### Artikel 3h
+##### Artikel 3h
 
 1. Het UWV biedt jaarlijks vóór 15 maart het gedeelte van het bestuursverslag dat betrekking heeft op de uitvoering van [artikel 3a.3.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=3a.3.1), met het gedeelte van de jaarrekening dat daarop betrekking heeft aan de Minister aan. De verklaring omtrent de getrouwheid, bedoeld in **artikel 35 van de Kaderwet zelfstandige bestuursorganen**, bevat een afzonderlijke verklaring over het gedeelte dat betrekking heeft op de uitvoering van dit besluit.
 
@@ -1722,7 +1748,7 @@ Voor schrijftolken gelden eveneens de volgende aanvullende postcodegebieden:
 
 5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, ten minste inzicht in de gerealiseerde uitgaven op grond van **artikel 3a.1.1 van de wet**, ten opzichte van de voor deze doeleinden verstrekte voorschotten.
 
-#### Artikel 3i
+##### Artikel 3i
 
 1. Het UWV dient jaarlijks vóór 1 december van het jaar voorafgaand aan het begrotingsjaar waarin de kosten zullen worden gemaakt de aanvraag om een voorschot aan de Minister in.
 
@@ -1844,7 +1870,7 @@ Overschrijding van de grens van goede zorg door een mantelzorger, veroorzaakt do
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3j
+##### Artikel 3j
 
 1. Bij de bekostiging van aanbieders, bedoeld in [artikel 2.6.7a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.6.7a) kan het college gebruik maken van een:
 
@@ -1856,7 +1882,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 3. Toepassing van de iWmo houdt in ieder geval in dat er overeenkomstig de iWmo elektronisch berichtenverkeer is tussen gemeenten en de in het eerste lid bedoelde aanbieders bij het toewijzen, factureren en declareren, en leveren van producten, diensten of resultaten.
 
-#### Artikel 3k
+##### Artikel 3k
 
 Indien de iWmo worden gewijzigd, wordt de wijziging van kracht vanaf het moment waarop deze openbaar is gemaakt door het Zorginstituut.
 
@@ -1872,7 +1898,7 @@ Indien de iWmo worden gewijzigd, wordt de wijziging van kracht vanaf het moment 
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-#### Artikel 19a
+##### Artikel 19a
 
 In afwijking van [artikel 3j, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=3b&artikel=3j&z=2026-01-01&g=2026-01-01), hoeven de iWmo niet te worden toegepast bij de uitvoering van contracten die door de contractspartijen zijn ondertekend voor de datum waarop deze regeling in werking treedt, behalve voor zover:
 
@@ -1964,17 +1990,17 @@ Voor kinderen die geweld plegen tegen hun ouders jonger dan 65 jaar is geen cate
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2f
+##### Artikel 2f
 
 De gegevens die noodzakelijk zijn voor de vaststelling en de inning, bedoeld in [artikel 2.1.4b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.1.4b), worden door het college uiterlijk binnen één maand na de dag waarop de voorziening is verstrekt of, indien de leveringsvorm een persoonsgebonden budget betreft, uiterlijk binnen vier maanden na de ingangsdatum van de toekenning van dat budget door het college, aan het CAK verstrekt.
 
-#### Artikel 2g
+##### Artikel 2g
 
 1. Indien de gegevens door het college onjuist of onvolledig zijn ingediend bij het CAK, stuurt het CAK zo spoedig mogelijk na indiening een uitnodiging tot herstel aan het college.
 
 2. Het college dient zo spoedig na ontvangst van de uitnodiging, bedoeld in het eerste lid, het herstelde bericht bij het CAK in.
 
-#### Artikel 2h
+##### Artikel 2h
 
 1. Ten behoeve van de vaststelling en inning van de eigen bijdrage voor beschermd wonen, vergelijken het college en het CAK ten minste elke twee maanden hun administraties houdende de gegevens van de cliënten die noodzakelijk zijn voor de juiste uitvoering van hun taken.
 
@@ -1988,7 +2014,7 @@ De gegevens die noodzakelijk zijn voor de vaststelling en de inning, bedoeld in 
 
 ### Hoofdstuk 6. Bedragen beschermd wonen en overgangsrecht Wmo 2015 AWBZ
 
-#### Artikel 13a
+##### Artikel 13a
 
 De bedragen, bedoeld in [artikel 3.7, derde lid, van het Uitvoeringsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0035733&artikel=3.7), voor zover vastgesteld voor het lopende kalenderjaar, zijn de in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&bijlage=B&z=2026-01-01&g=2026-01-01) van deze regeling opgenomen bedragen.
 
@@ -1996,7 +2022,7 @@ De bedragen, bedoeld in [artikel 3.7, derde lid, van het Uitvoeringsbesluit](htt
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling Wmo 2015.
 
@@ -2060,7 +2086,7 @@ Meestal gaat het bij huwelijksdwang om ouders die hun dochter of zoon een huweli
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01) is op de jaarverslaggeving van een Veilig Thuis-organisatie die tevens een zorgaanbieder is waarop [artikel 40b van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) van toepassing is, de [Regeling openbare jaarverantwoording WMG](onbekend) van overeenkomstige toepassing.
 
@@ -2072,7 +2098,7 @@ In afwijking van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk 8. Overgang- en slotbepalingen
 
-#### Artikel 19b
+##### Artikel 19b
 
 [Artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0036096&hoofdstuk=4&paragraaf=1&artikel=6a&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde op 31 december 2021, blijft van toepassing op de jaarverslaggeving over verslagjaar 2020.
 

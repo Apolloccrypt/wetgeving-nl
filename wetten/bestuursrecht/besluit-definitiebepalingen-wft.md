@@ -1,13 +1,39 @@
 ---
-title: "Besluit definitiebepalingen Wft"
+title: "Besluit van 12 oktober 2006, houdende bepalingen met betrekking tot enkele definities uit artikel 1:1 van de Wet op het financieel toezicht (Besluit definitiebepalingen Wft)"
 identifier: "BWBR0020412"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020412"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020412"
+soort: "AMvB"
+stam_id: "8684223"
+version_id: "13707292"
+internal_id: "C18900791"
+label_id: "8664394"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020412/2012-01-01/0"
+intitule_bron: "Stb.2006-505"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-10-31"
+intitule_in_force: "2006-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-505"
+original_signed_date: "2006-10-12"
+original_published_date: "2006-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-505"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020412&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0020412&g=2012-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit definitiebepalingen Wft"
+signed_date: "2006-10-12"
+entry_into_force: "2007-01-01"
 ---
-
 # Besluit van 12 oktober 2006, houdende bepalingen met betrekking tot enkele definities uit artikel 1:1 van de Wet op het financieel toezicht (Besluit definitiebepalingen Wft)
 
 Op de voordracht van Onze Minister van Financiën van 26 juni 2006, nr. FM 2006-01571 M;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Financiën van 9 oktober 2006, nr
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - b. afgeleide instrumenten voor de overdracht van kredietrisico: financiële instrumenten als bedoeld in Bijlage I, Deel C, onderdeel 8 van [richtlijn nr. 2004/39/EG](32004L0039) van het Europees Parlement en de Raad van de Europese Unie van 21 april 2004 betreffende markten voor financiële instrumenten tot wijziging van de [richtlijnen 85/611/EEG](31985L0611) en [93/6/EEG](31993L0006) van de Raad en van [richtlijn 2000/12/EG](32000L0012) van het Europees Parlement en de Raad en houdende intrekking van [richtlijn 93/22/EEG](31993L0022) van de Raad (PbEU L 145).
 
-#### Artikel 2
+##### Artikel 2
 
 Als beleggingsobject in de zin van onderdeel b van de definitie van beleggingsobject in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) wordt aangewezen een deelneming in een personenvennootschap door middel waarvan wordt geïnvesteerd in een speelfilm, niet zijnde een financieel product als bedoeld in de onderdelen b tot en met h van de definitie van financieel product in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), bij welke verkrijging aan de houder van de deelneming een rendement in geld of een gedeelte van de opbrengst van de speelfilm in het vooruitzicht wordt gesteld en waarbij de personenvennootschap hoofdzakelijk wordt gedreven door een ander dan de houder van de deelneming.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als professionele marktpartij in de zin van onderdeel c van de definitie van professionele marktpartij in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) worden aangewezen:
 
@@ -58,15 +84,15 @@ Als beleggingsobject in de zin van onderdeel b van de definitie van beleggingsob
 
 3. Op overeenkomsten betreffende het aantrekken, het ter beschikking verkrijgen of het ter beschikking hebben van opvorderbare gelden die zijn aangegaan voor het tijdstip van inwerkingtreding van [artikel III, onderdeel A, van het Wijzigingsbesluit financiële markten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030619&artikel=III), blijft het tweede lid, zoals dat onmiddellijk voorafgaand aan dat tijdstip luidde, van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit definitiebepalingen Wft.
 

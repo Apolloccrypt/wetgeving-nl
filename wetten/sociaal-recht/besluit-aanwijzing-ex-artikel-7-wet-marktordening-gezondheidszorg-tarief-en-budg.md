@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (tarief- en budgetkorting curatieve geestelijke gezondheidszorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 30 augustus 2011, MC-U-3078388, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tarief- en budgetkorting curatieve geestelijke gezondheidszorg"
 identifier: "BWBR0030393"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-09-06
-laatste_update: 2011-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030393"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-09-06"
+last_updated: "2011-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030393"
+soort: "ministeriele-regeling"
+stam_id: "11432243"
+version_id: "18781342"
+internal_id: "C26219911"
+label_id: "11405674"
+dtd_version: "2.0"
+original_entry_into_force: "2011-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030393/2011-09-06/0"
+intitule_bron: "Stcrt.2011-15967"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-08-30"
+intitule_published: "2011-09-06"
+intitule_in_force: "2011-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-15967"
+original_signed_date: "2011-08-30"
+original_published_date: "2011-09-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-15967"
+entry_into_force_date: "2011-09-06"
+jci_1_3: "jci1.3:c:BWBR0030393&z=2011-09-06&g=2011-09-06"
+jci_1_0: "1.0:c:BWBR0030393&g=2011-09-06"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (tarief- en budgetkorting curatieve geestelijke gezondheidszorg)"
+signed_date: "2011-08-30"
+entry_into_force: "2011-09-06"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 30 augustus 2011, MC-U-3078388, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake tarief- en budgetkorting curatieve geestelijke gezondheidszorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -20,7 +46,7 @@ Gelet op het verslag van een schriftelijk overleg van de Eerste Kamer der Staten
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,18 +64,18 @@ In deze aanwijzing wordt verstaan onder:
 
 - g. **dbc:** diagnose behandeling combinatie.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op de geneeskundige geestelijke gezondheidszorg. Van deze aanwijzing is uitgezonderd zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 57, vierde lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 3. uitvoering van de aanwijzing
+##### Artikel 3. uitvoering van de aanwijzing
 
 Ter uitvoering van deze aanwijzing stelt de zorgautoriteit regels en beleidsregels vast.
 
-#### Artikel 4. tarief- en budgetkorting
+##### Artikel 4. tarief- en budgetkorting
 
 Voor zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030393&artikel=2&z=2011-09-06&g=2011-09-06) geldt per 1 januari 2012 een taakstelling van structureel € 222 miljoen (prijspeil 2011). De zorgautoriteit voert deze taakstelling uit door een generieke afslag op de dbc-tarieven in combinatie met een korting op de instellingsbudgetten.
 
-#### Artikel 5. inwerkingtreding
+##### Artikel 5. inwerkingtreding
 
 Deze aanwijzing treedt terstond in werking en wordt met toelichting in de Staatscourant geplaatst.

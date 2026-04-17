@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake het behoud van het architectonische erfgoed van Europa"
 identifier: "BWBV0002624"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-06-01
-laatste_update: 1994-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002624"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-06-01"
+last_updated: "1994-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002624"
+soort: "verdrag"
+stam_id: "10002952953"
+version_id: "10002956302"
+internal_id: "C10006958651"
+label_id: "10002940344"
+dtd_version: "2.0"
+original_entry_into_force: "1994-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002624/1994-06-01/0"
+intitule_bron: "Trb.1985-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-15"
+intitule_published: "1985-12-19"
+intitule_in_force: "1994-03-15"
+intitule_status: "goed"
+original_publication: "Trb.1985-163"
+original_signed_date: "1994-02-15"
+original_published_date: "1985-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-163"
+entry_into_force_date: "1994-06-01"
+jci_1_3: "jci1.3:c:BWBV0002624&z=1994-06-01&g=1994-06-01"
+jci_1_0: "1.0:c:BWBV0002624&g=1994-06-01"
+citeertitel_status: "officieel"
+signed_date: "1994-02-15"
+entry_into_force: "1994-06-01"
 ---
-
 # Overeenkomst inzake het behoud van het architectonische erfgoed van Europa
 
 De Lid-Staten van de Raad van Europa die deze Overeenkomst hebben ondertekend,
@@ -32,7 +57,7 @@ Zijn overeengekomen als volgt:
 
 ## OMSCHRIJVING VAN HET BEGRIP ARCHITECTONISCH ERFGOED
 
-#### Artikel 1
+##### Artikel 1
 
 Voorde toepassing van deze Overeenkomst, wordt het begrip „architectonisch erfgoed” geacht de volgende onroerende goederen te omvatten:
 
@@ -44,13 +69,13 @@ Voorde toepassing van deze Overeenkomst, wordt het begrip „architectonisch erf
 
 ## GOEDEREN DIE BESCHERMD DIENEN TE WORDEN
 
-#### Artikel 2
+##### Artikel 2
 
 Ten einde nauwkeurig te bepalen welke monumenten, gebouwen die een architectonische eenheid vormen en waardevolle gebieden beschermd dienen te worden, verplicht iedere Partij zich ertoe een inventarisatie hiervan bij te houden en, ingeval deze goederen worden bedreigd, zo spoedig mogelijk een passende documentatie op te stellen.
 
 ## WETTELIJKE BESCHERMINGSPROCEDURES
 
-#### Artikel 3
+##### Artikel 3
 
 Iedere Partij verplicht zich ertoe:
 
@@ -58,7 +83,7 @@ Iedere Partij verplicht zich ertoe:
 
 - 2. in het kader van die regeling en op een voor iedere Staat of regio passende wijze te zorgen voor de bescherming van de monumenten, gebouwen die een architectonische eenheid vormen en landschappen.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere Partij verplicht zich ertoe:
 
@@ -80,13 +105,13 @@ Iedere Partij verplicht zich ertoe:
 
 - d. het mogelijk te maken een beschermd goed te onteigenen.
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere Partij verplicht zich ertoe de verplaatsing van een beschermd monument of van een deel daarvan te verbieden, behalve indien zulks dringend is vereist voor het behoud van dit monument. In dat geval neemt de bevoegde autoriteit de nodige voorzorgsmaatregelen betreffende het demonteren, het overbrengen en het herbouwen van het monument op een geschikte plaats.
 
 ## AANVULLENDE MAATREGELEN
 
-#### Artikel 6
+##### Artikel 6
 
 Iedere Partij verplicht zich ertoe:
 
@@ -96,11 +121,11 @@ Iedere Partij verplicht zich ertoe:
 
 - 3. het particuliere initiatief voor onderhoud en restauratie van dit erfgoed te stimuleren.
 
-#### Artikel 7
+##### Artikel 7
 
 Iedere Partij verplicht zich ertoe ervoor te zorgen dat er maatregelen worden genomen ten einde in de directe omgeving van monumenten en binnen de architectonische eenheden van gebouwen alsmede in de waardevolle gebieden het leefmilieu te verbeteren.
 
-#### Artikel 8
+##### Artikel 8
 
 Ten einde de risico's van een achteruitgang van de toestand van het architectonische erfgoed te beperken, verplicht iedere Partij zich ertoe:
 
@@ -110,13 +135,13 @@ Ten einde de risico's van een achteruitgang van de toestand van het architectoni
 
 ## STRAFMAATREGELEN
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere Partij verplicht zich ertoe om, voor zover zulks in haar vermogen ligt, ervoor te zorgen dat bij overtredingen van de wetgeving tot bescherming van het architectonische erfgoed, door de bevoegde autoriteit voldoende en passende maatregelen worden genomen. Deze maatregelen kunnen, in bepaalde gevallen, voor de overtreders de verplichting inhouden een nieuw gebouw dat niet volgens de voorschriften is gebouwd, af te breken, dan wel het beschermde goed in zijn oude staat te herstellen.
 
 ## BELEID TEN AANZIEN VAN HET BEHOUD VAN HET ARCHITECTONISCHE ERFGOED
 
-#### Artikel 10
+##### Artikel 10
 
 Iedere Partij verplicht zich ertoe een geïntegreerd beleid te voeren dat is gericht op het behoud van het architectonische erfgoed en dat:
 
@@ -130,7 +155,7 @@ Iedere Partij verplicht zich ertoe een geïntegreerd beleid te voeren dat is ger
 
 - 5. de toepassing en de ontwikkeling van de traditionele technieken en materialen bevordert in het belang van de toekomst van het architectonische erfgoed.
 
-#### Artikel 11
+##### Artikel 11
 
 Rekening houdend met de architectonische en historische aard van het erfgoed, verplicht iedere Partij zich tot het bevorderen van:
 
@@ -138,17 +163,17 @@ Rekening houdend met de architectonische en historische aard van het erfgoed, ve
 
 - -. het zodanig aanpassen van oude gebouwen dat deze voor nieuwe doeleinden kunnen worden gebruikt.
 
-#### Artikel 12
+##### Artikel 12
 
 Erkennend dat het van belang is dat het publiek in staat wordt gesteld beschermde goederen te bezoeken, verplicht iedere Partij zich ertoe alle maatregelen te nemen opdat de gevolgen van dit openstellen voor het publiek, in het bijzonder de nodige voorzieningen voor het toegankelijk maken, geen aantasting betekenen voor de architectonische en historische aard van deze goederen en omgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Ten einde de toepassing van dit beleid te vergemakkelijken, verplicht iedere Partij zich ertoe om, binnen haar mogelijkheden op het gebied van beleid en bestuur, een doeltreffende samenwerking te bevorderen tussen de diverse niveaus waarop wordt gewerkt aan het behoud van het architectonische erfgoed, de cultuur, het milieu en de ruimtelijke ordening.
 
 ## DEELNEMING EN VERENIGINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 Ter ondersteuning van het optreden van de overheid bij het vaststellen, het beschermen, het restaureren, het onderhouden en het beheren van, alsmede het aandacht vragen voor het architectonische erfgoed, verplicht iedere Partij zich ertoe:
 
@@ -158,7 +183,7 @@ Ter ondersteuning van het optreden van de overheid bij het vaststellen, het besc
 
 ## INFORMATIE EN OPLEIDING
 
-#### Artikel 15
+##### Artikel 15
 
 Iedere Partij verplicht zich ertoe:
 
@@ -170,13 +195,13 @@ Iedere Partij verplicht zich ertoe:
 
 - b. de eenheid van het culturele erfgoed en de banden die er bestaan tussen architectuur, kunst, volksgebruiken en levensgewoonten, op Europees, nationaal of regionaal niveau zichtbaar te maken.
 
-#### Artikel 16
+##### Artikel 16
 
 Iedere Partij verplicht zich ertoe de opleiding te bevorderen in verschillende beroepen en ambachten die betrokken zijn bij het behoud van het architectonische erfgoed.
 
 ## EUROPESE COÖRDINATIE VAN HET BELEID BETREFFENDE HET BEHOUD VAN HET ARCHITECTONISCHE ERFGOED
 
-#### Artikel 17
+##### Artikel 17
 
 De Partijen verplichten zich ertoe over hun beleid betreffende het behoud van het architectonische erfgoed informatie uit te wisselen omtrent:
 
@@ -188,15 +213,15 @@ De Partijen verplichten zich ertoe over hun beleid betreffende het behoud van he
 
 - 4. de middelen ter bevordering van scheppend werk op architectonisch gebied als hedendaagse bijdrage tot het Europese erfgoed.
 
-#### Artikel 18
+##### Artikel 18
 
 De Partijen verbinden zich ertoe elkaar, waar nodig, wederzijdse technische bijstand te verlenen in de vorm van uitwisseling van ervaringen en deskundigen op het gebied van het behoud van het architectonische erfgoed.
 
-#### Artikel 19
+##### Artikel 19
 
 De Partijen verbinden zich ertoe om, in het kader van de nationale wetgeving ter zake of van de internationale overeenkomsten waardoor zij zijn gebonden, op Europees niveau uitwisselingen te bevorderen van deskundigen op het gebied van het behoud van het architectonische erfgoed, met inbegrip van deskundigen belast met bijscholing op dit gebied.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de toepassing van deze Overeenkomst wordt een door het Comité van Ministers van de Raad van Europa ingevolge [artikel 17 van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=17) ingesteld comité van deskundigen belast met het toezicht op de toepassing van de Overeenkomst en in het bijzonder met:
 
@@ -206,7 +231,7 @@ Voor de toepassing van deze Overeenkomst wordt een door het Comité van Minister
 
 - 3. het doen van aanbevelingen aan het Comité van Ministers van de Raad van Europa betreffende het uitnodigen van Staten die geen lid van de Raad van Europa zijn, toe te treden tot deze Overeenkomst.
 
-#### Artikel 21
+##### Artikel 21
 
 De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van specifieke bepalingen die gunstiger zijn voor de bescherming van de goederen bedoeld in artikel 1, en die zijn vervat in
 
@@ -216,7 +241,7 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van spec
 
 ## SLOTBEPALINGEN
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa. De Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -224,13 +249,13 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van spec
 
 3. Ten aanzien van iedere Lid-Staat die later zijn instemming tot uitdrukking heeft gebracht door de Overeenkomst te worden gebonden, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Na de inwerkingtreding van deze Overeenkomst, kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid van de Raad is, alsmede de Europese Economische Gemeenschap uitnodigen toe te treden tot deze Overeenkomst, wanneer daartoe wordt besloten met de meerderheid van stemmen bedoeld in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) of met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die gerechtigd zijn zitting te hebben in het Comité.
 
 2. Ten aanzien van iedere toetredende Staat of ten aanzien van de Europese Economische Gemeenschap indien deze toetreedt, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop deze Overeenkomst van toepassing is.
 
@@ -238,7 +263,7 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van spec
 
 3. Iedere verklaring gedaan krachtens beide vorige leden kan, ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren zich het recht voor te behouden zich niet of slechts gedeeltelijk te houden aan het bepaalde in artikel 4, de letters c en d. Een ander voorbehoud is niet toegestaan.
 
@@ -246,13 +271,13 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van spec
 
 3. De Partij die een voorbehoud heeft gemaakt ten aanzien van het bepaalde in het eerste lid hierboven, kan geen aanspraak maken op de toepassing van dit bepaalde door een andere Partij; indien het gemaakte voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel op de toepassing van dit bepaalde aanspraak maken voor zover zij dit voorbehoud zelf heeft aanvaard.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Iedere Partij kan te allen tijde deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Secretaris-Generaal van de Raad van Europa stelt de Lid-Staten van de Raad van Europa, iedere toetredende Staat en de Europese Economische Gemeenschap, indien deze tot deze Overeenkomst toetreedt, in kennis van:
 

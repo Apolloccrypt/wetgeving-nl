@@ -1,13 +1,37 @@
 ---
 title: "Wijziging Wet voorkeursrecht gemeenten"
 identifier: "BWBR0008242"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-09-25
-laatste_update: 1996-09-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008242"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-09-25"
+last_updated: "1996-09-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008242"
+soort: "circulaire"
+stam_id: "6423663"
+version_id: "11091802"
+internal_id: "C15005431"
+label_id: "6412904"
+original_entry_into_force: "1996-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008242/1996-09-25/0"
+intitule_bron: "Stcrt.1996-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-19"
+intitule_published: "1996-09-25"
+intitule_in_force: "1996-09-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-185"
+original_signed_date: "1996-09-19"
+original_published_date: "1996-09-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-185-p7-SC7019"
+entry_into_force_date: "1996-09-25"
+jci_1_3: "jci1.3:c:BWBR0008242&z=1996-09-25&g=1996-09-25"
+jci_1_0: "1.0:c:BWBR0008242&g=1996-09-25"
+citeertitel_status: "redactioneel"
+signed_date: "1996-09-19"
+entry_into_force: "1996-09-25"
 ---
-
 # Wijziging Wet voorkeursrecht gemeenten
 
 Circulaire aan de colleges van burgemeester en wethouders en de colleges van gedeputeerde staten

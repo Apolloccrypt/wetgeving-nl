@@ -1,13 +1,39 @@
 ---
-title: "Besluit vervoer gevaarlijke stoffen door de lucht"
+title: "Besluit van 14 maart 2002, houdende regels met betrekking tot het vervoer van gevaarlijke stoffen door de lucht (Besluit vervoer gevaarlijke stoffen door de lucht)"
 identifier: "BWBR0013514"
-categorie: "Milieu"
-publicatiedatum: 2023-06-13
-laatste_update: 2023-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013514"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-06-13"
+last_updated: "2023-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013514"
+soort: "AMvB"
+stam_id: "1968663"
+version_id: "2917332"
+internal_id: "C13515131"
+label_id: "1918154"
+dtd_version: "2.0"
+original_entry_into_force: "2003-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013514/2023-06-13/0"
+intitule_bron: "Stb.2002-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-03-14"
+intitule_published: "2002-04-11"
+intitule_in_force: "2003-03-13"
+intitule_status: "goed"
+original_publication: "Stb.2002-180"
+original_signed_date: "2002-03-14"
+original_published_date: "2002-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-180"
+entry_into_force_date: "2003-03-16"
+jci_1_3: "jci1.3:c:BWBR0013514&z=2023-06-13&g=2023-06-13"
+jci_1_0: "1.0:c:BWBR0013514&g=2023-06-13"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer gevaarlijke stoffen door de lucht"
+signed_date: "2002-03-14"
+entry_into_force: "2003-03-16"
 ---
-
 # Besluit van 14 maart 2002, houdende regels met betrekking tot het vervoer van gevaarlijke stoffen door de lucht (Besluit vervoer gevaarlijke stoffen door de lucht)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 6 juni 2001, nr. DGRLD/DLB/01.421019, Directoraat-Generaal Rijksluchtvaartdienst, gedaan mede namens Onze Minister van Defensie;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I van de Wijzigingswet Wet luch
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - wet: [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555).
 
-#### Artikel 2
+##### Artikel 2
 
 Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) worden aangewezen:
 
@@ -64,7 +90,7 @@ Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https
 
 - 9°. andere stoffen of voorwerpen, die bij vervoer door de lucht gevaar kunnen opleveren voor de gezondheid, de veiligheid of het milieu; zoals vastgelegd en geclassificeerd in de Technische Voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het in [artikel 6.51, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=6.51) bedoelde verbod geldt niet voor de daar bedoelde handelingen ten aanzien van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=1&artikel=2&z=2023-06-13&g=2023-06-13) aangewezen gevaarlijke stoffen, voorzover daarbij Annex 18 en de Technische Voorschriften in acht worden genomen.
 
@@ -72,31 +98,31 @@ Als gevaarlijke stoffen, bedoeld in [artikel 6.51, eerste lid, van de wet](https
 
 #### Paragraaf 2. Constructie, inrichting en uitrusting van luchtvaartuigen waarmee gevaarlijke stoffen worden vervoerd alsmede van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen worden geladen of gelost
 
-#### Artikel 4
+##### Artikel 4
 
 Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld ten aanzien van de constructie, inrichting en uitrusting van luchtvaartuigen waarmee gevaarlijke stoffen worden vervoerd.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen in verband met de veiligheid of het milieu regels worden gesteld met betrekking tot de constructie, inrichting en uitrusting van inrichtingen, voertuigen of werktuigen met behulp waarvan gevaarlijke stoffen op een luchthaven worden geladen of gelost.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen regels worden gesteld met betrekking tot de keuring van de inrichtingen, voertuigen en werktuigen bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0013514&paragraaf=2&artikel=5&z=2023-06-13&g=2023-06-13).
 
 #### Paragraaf 3. Bepalingen met het oog op de veiligheid en het milieu
 
-#### Artikel 7
+##### Artikel 7
 
 Bij regeling van Onze Minister van Infrastructuur en Waterstaat respectievelijk van Onze Minister van Defensie kunnen in het belang van de veiligheid of het milieu regels worden gesteld over het opstellen van een risico-inventarisatie met betrekking tot het vervoeren, laden of lossen van daartoe aangewezen gevaarlijke stoffen.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister van Infrastructuur en Waterstaat respectievelijk Onze Minister van Defensie kan in het belang van de veiligheid of het milieu luchtroutes aanwijzen waarlangs daartoe aangewezen gevaarlijke stoffen vervoerd dienen te worden.
 
 #### Paragraaf 4. Erkenningen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister van Infrastructuur en Waterstaat kan de navolgende erkenningen verlenen:
 
@@ -116,25 +142,25 @@ Onze Minister van Infrastructuur en Waterstaat respectievelijk Onze Minister van
 
 #### Paragraaf 5. Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit Raad voor de Transportveiligheid.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Regeling toezicht luchtvaart.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet houdende wijziging van de Wet luchtvaart (vervoer van gevaarlijke stoffen en van dieren)](https://wetten.overheid.nl/jci1.3:c:BWBR0011704&artikel=I) (Stb. 2000, 468) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit vervoer gevaarlijke stoffen door de lucht.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Op verzoek van een logistiek dienstverlener zet Onze Minister van Infrastructuur en Waterstaat een aan die dienstverlener afgegeven E-erkenning om naar een D-erkenning.
 

@@ -1,16 +1,38 @@
 ---
 title: "Verdrag inzake Octrooirecht"
 identifier: "BWBV0004818"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-12-27
-laatste_update: 2010-12-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004818"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-12-27"
+last_updated: "2010-12-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004818"
+soort: "verdrag"
+stam_id: "10004338043"
+version_id: "10004539002"
+internal_id: "C10006994511"
+label_id: "10004323884"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004818/2010-12-27/0"
+intitule_bron: "Trb.2001-120"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2001-07-23"
+intitule_in_force: "2010-12-17"
+intitule_status: "goed"
+original_publication: "Trb.2001-120"
+original_published_date: "2001-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2001-120"
+entry_into_force_date: "2010-12-27"
+jci_1_3: "jci1.3:c:BWBV0004818&z=2010-12-27&g=2010-12-27"
+jci_1_0: "1.0:c:BWBV0004818&g=2010-12-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-12-27"
 ---
-
 # Verdrag inzake Octrooirecht
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders is bepaald, wordt verstaan onder:
 
@@ -60,13 +82,13 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders is bepaald, word
 
 - xxiii. „Directeur-Generaal”: de Directeur-Generaal van de Organisatie.
 
-#### Artikel 2. Algemene beginselen
+##### Artikel 2. Algemene beginselen
 
 1. [Gunstiger vereisten] Het staat een Verdragsluitende Partij vrij eisen te stellen die, vanuit het standpunt van de aanvragers en eigenaren, gunstiger zijn dan de in dit Verdrag en het Reglement van Uitvoering bedoelde eisen, anders dan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27).
 
 2. [Geen beperking van materieel octrooirecht] Geen enkele bepaling uit dit Verdrag of het Reglement van Uitvoering is bedoeld om te worden uitgelegd als beperking van de vrijheid van een Verdragsluitende Partij de door haar gewenste vereisten ingevolge het toepasselijke materiële recht inzake octrooien op te leggen.
 
-#### Artikel 3. Aanvragen en octrooien waarop het Verdrag van toepassing is
+##### Artikel 3. Aanvragen en octrooien waarop het Verdrag van toepassing is
 
 1. [Aanvragen]
 
@@ -84,11 +106,11 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders is bepaald, word
 
 2. [Octrooien] De bepalingen van dit Verdrag en het Reglement van Uitvoering zijn van toepassing op nationale en regionale uitvindingsoctrooien, en op nationale en regionale aanvullingsoctrooien, die zijn verleend met rechtsgevolgen voor een Verdragsluitende Partij.
 
-#### Artikel 4. Uitzondering voor veiligheid
+##### Artikel 4. Uitzondering voor veiligheid
 
 Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de vrijheid van een Verdragsluitende Partij maatregelen te nemen die zij noodzakelijk acht voor de waarborging van essentiële veiligheidsbelangen.
 
-#### Artikel 5. Datum van indiening
+##### Artikel 5. Datum van indiening
 
 1. [Onderdelen van een aanvraag]
 
@@ -140,7 +162,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - ii. het recht van een Verdragsluitende Partij eventuele vereisten te hanteren die nodig zijn voor het toekennen van het genot van de datum van indiening van een eerdere aanvraag bij een aanvraag van een willekeurig type als voorgeschreven in het Reglement van Uitvoering.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. [Vorm of inhoud van aanvraag] Tenzij anders bepaald in dit Verdrag, verlangt geen enkele Verdragsluitende Partij dat wordt voldaan aan vereisten met betrekking tot de vorm of inhoud van een aanvraag die afwijken van of een aanvulling zijn op:
 
@@ -172,7 +194,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - b. Indien binnen de in het Reglement van Uitvoering voorgeschreven termijn niet wordt voldaan aan een door de Verdragsluitende Partij ingevolge het eerste, vijfde of zesde lid gehanteerd vereiste ten aanzien van een beroep op voorrang, kan het beroep op voorrang, onder voorbehoud van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27), geacht worden niet te bestaan. Behoudens [artikel 5, zevende lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27), mogen geen andere sancties worden opgelegd.
 
-#### Artikel 7. Vertegenwoordiging
+##### Artikel 7. Vertegenwoordiging
 
 1. [Gemachtigden]
 
@@ -208,7 +230,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 6. [Niet voldoen aan vereisten] Wanneer niet wordt voldaan aan een of meer van de door de Verdragsluitende Partij ingevolge het eerste tot en met het derde lid gehanteerde vereisten binnen de in het Reglement van Uitvoering voorgeschreven termijn, kan de Verdragsluitende Partij de in haar wetgeving geldende sanctie opleggen.
 
-#### Artikel 8. Mededelingen; adressen
+##### Artikel 8. Mededelingen; adressen
 
 1. [Vorm en wijze van verzending van mededelingen]
 
@@ -246,7 +268,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 8. [Niet voldoen aan vereisten] Wanneer niet wordt voldaan aan een van de door de Verdragsluitende Partij ingevolge het eerste tot en met het zesde lid gehanteerde vereisten binnen de in het Reglement van Uitvoering voorgeschreven termijn, kan de Verdragsluitende Partij, onverminderd de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2010-12-27&g=2010-12-27), en onder voorbehoud van in het Reglement van Uitvoering voorgeschreven uitzonderingen, de in haar wetgeving voorziene sanctie opleggen.
 
-#### Artikel 9. Kennisgevingen
+##### Artikel 9. Kennisgevingen
 
 1. [Afdoende kennisgeving] Elke kennisgeving uit hoofde van dit Verdrag of van het Reglement van Uitvoering dat door het bureau aan een correspondentieadres of een gekozen woonplaats zoals bedoeld in [artikel 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), of aan enig in het Reglement van Uitvoering bedoeld overig adres wordt gezonden ten behoeve van de onderhavige bepaling, en die voldoet aan de bepalingen ten aanzien van die kennisgeving, vormt een afdoende kennisgeving voor de toepassing van dit Verdrag en van het Reglement van Uitvoering.
 
@@ -254,7 +276,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 3. [Verzuim kennisgeving te doen] Onverminderd [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=10&z=2010-12-27&g=2010-12-27), ontslaat, wanneer een bureau een aanvrager, eigenaar of andere belanghebbende geen kennisgeving doet van een verzuim ten aanzien van enig vereiste uit hoofde van dit Verdrag of van het Reglement van Uitvoering, deze achterwege gelaten kennisgeving de aanvrager, eigenaar of andere belanghebbende niet van de verplichting aan dat vereiste te voldoen.
 
-#### Artikel 10. Geldigheid van het octrooi; intrekking
+##### Artikel 10. Geldigheid van het octrooi; intrekking
 
 1. [Geldigheid van het octrooi niet aangetast wanneer niet wordt voldaan aan bepaalde vormvereisten] Wanneer niet wordt voldaan aan een of meerdere van de in [artikel 6, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en [artikel 8, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), bedoelde vormvereisten met betrekking tot een aanvraag, kan dit geen grond zijn voor intrekking of ongeldigverklaring van een octrooi, hetzij geheel of gedeeltelijk, tenzij het niet voldoen aan het vormvereiste uit een opzettelijk frauduleus oogmerk voortkomt.
 
@@ -262,7 +284,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 3. [Geen verplichting ten aanzien van bijzondere procedures] Het eerste en tweede lid levert geen verplichting op gerechtelijke procedures in te stellen voor de handhaving van octrooirechten, anders dan die welke gelden voor de handhaving van het recht in het algemeen.
 
-#### Artikel 11. Uitstel ten aanzien van termijnen
+##### Artikel 11. Uitstel ten aanzien van termijnen
 
 1. [Verlenging van termijnen] Een Verdragsluitende Partij kan voorzien in verlenging, voor het in het Reglement van Uitvoering voorgeschreven tijdvak, van een door het bureau vastgestelde termijn voor een handeling in een procedure voor het bureau met betrekking tot een aanvraag of een octrooi, indien daartoe een verzoekschrift aan het bureau wordt gericht in overeenstemming met de in het Reglement van Uitvoering voorgeschreven vereisten, en het verzoekschrift, naar keuze van de Verdragsluitende Partij, wordt ingediend:
 
@@ -284,7 +306,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 6. [Gelegenheid tot het leveren van commentaar in geval van een voorgenomen weigering] Een verzoekschrift uit hoofde van het eerste of tweede lid kan niet worden geweigerd zonder dat de aanvrager of eigenaar in de gelegenheid wordt gesteld binnen een redelijke termijn commentaar te leveren op de voorgenomen weigering.
 
-#### Artikel 12. Herstel van de rechten nadat het bureau heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
+##### Artikel 12. Herstel van de rechten nadat het bureau heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
 
 1. [Verzoekschrift] Een Verdragsluitende Partij zorgt ervoor dat, wanneer een aanvrager of eigenaar een termijn voor een handeling in een procedure voor het bureau niet in acht heeft genomen, en dit verzuim het verlies van rechten ten aanzien van een aanvraag of octrooi tot rechtstreeks gevolg heeft, het bureau de rechten van de aanvrager of eigenaar ten aanzien van de desbetreffende aanvraag of het desbetreffende octrooi herstelt, indien:
 
@@ -304,7 +326,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 5. [Gelegenheid tot het leveren van commentaar in geval van een voorgenomen weigering] Een verzoekschrift uit hoofde van het eerste lid kan niet, geheel of ten dele, worden geweigerd zonder dat de verzoekende partij in de gelegenheid wordt gesteld binnen een redelijke termijn commentaar te leveren op de voorgenomen weigering.
 
-#### Artikel 13. Verbetering of toevoeging van een beroep op voorrang; herstel van het recht van voorrang
+##### Artikel 13. Verbetering of toevoeging van een beroep op voorrang; herstel van het recht van voorrang
 
 1. [Verbetering of toevoeging van een beroep op voorrang] Behoudens wanneer in het Reglement van Uitvoering anders wordt voorgeschreven, zorgt een Verdragsluitende Partij voor de verbetering of toevoeging van een beroep op voorrang ten aanzien van een aanvraag (de „vervolgaanvraag”), indien:
 
@@ -342,7 +364,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 6. [Gelegenheid tot het leveren van commentaar in geval van een voorgenomen weigering] Een verzoekschrift uit hoofde van het eerste tot en met het derde lid kan niet, geheel of ten dele, worden geweigerd zonder dat de verzoekende partij in de gelegenheid wordt gesteld binnen een redelijke termijn commentaar te leveren op de voorgenomen weigering.
 
-#### Artikel 14. Reglement van Uitvoering
+##### Artikel 14. Reglement van Uitvoering
 
 1. [Inhoud]
 
@@ -378,7 +400,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 4. [Verschillen tussen het Verdrag en het Reglement van Uitvoering] In geval van een verschil tussen de bepalingen van dit Verdrag en die van het Reglement van Uitvoering, zijn de eerste doorslaggevend.
 
-#### Artikel 15. Verhouding tot het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120)
+##### Artikel 15. Verhouding tot het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120)
 
 1. [Verplichting tot naleving van het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120)] Elke Verdragsluitende Partij leeft de bepalingen van het Verdrag van Parijs na ten aanzien van octrooien.
 
@@ -388,13 +410,13 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - b. Niets in dit Verdrag doet afbreuk aan de rechten die aanvragers en eigenaren genieten uit hoofde van het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 16. De gevolgen van herzieningen, wijzigingen en aanpassingen van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)
+##### Artikel 16. De gevolgen van herzieningen, wijzigingen en aanpassingen van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)
 
 1. [Toepasselijkheid van herzieningen, wijzigingen en aanpassingen van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)] Onverminderd het tweede lid is elke herziening, aanpassing of wijziging van het Verdrag tot samenwerking inzake octrooien gedaan na 2 juni 2000, die in overeenstemming is met de artikelen van dit Verdrag, van toepassing ten behoeve van dit Verdrag en het Reglement van Uitvoering, indien de Algemene Vergadering daartoe beslist, in het desbetreffende geval, met een meerderheid van drie vierde van de uitgebrachte stemmen.
 
 2. [Niet-toepasselijkheid van overgangsbepalingen van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)] Elke bepaling van het Verdrag tot samenwerking inzake octrooien, uit hoofde waarvan een herziene, gewijzigde of aangepaste bepaling van dat Verdrag niet van toepassing is op een Staat die partij is bij dat Verdrag, op het bureau van een dergelijke Staat of op het bureau dat optreedt voor een dergelijke Staat, is, zolang de bepaling onverenigbaar blijft met de nationale wetgeving van die Staat of dat bureau, niet van toepassing ten aanzien van dit Verdrag en het Reglement van Uitvoering.
 
-#### Artikel 17. Algemene Vergadering
+##### Artikel 17. Algemene Vergadering
 
 1. [Samenstelling]
 
@@ -442,7 +464,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 7. [Reglement van orde] De Algemene Vergadering stelt haar eigen reglement van orde vast, met inbegrip van regels voor de bijeenroeping van buitengewone vergaderingen.
 
-#### Artikel 18. Internationaal Bureau
+##### Artikel 18. Internationaal Bureau
 
 1. [Administratieve taken]
 
@@ -468,7 +490,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 5. [Overige taken] Het Internationaal Bureau voert alle overige aan hem met betrekking tot dit Verdrag opgedragen taken uit.
 
-#### Artikel 19. Herzieningen
+##### Artikel 19. Herzieningen
 
 1. [Herziening van het Verdrag] Onverminderd het tweede lid, kan dit Verdrag worden herzien door middel van een conferentie van de Verdragsluitende Partijen. De Algemene Vergadering besluit tot bijeenroeping van een herzieningsconferentie.
 
@@ -482,7 +504,7 @@ Geen enkele bepaling in dit Verdrag en het Reglement van Uitvoering beperkt de v
 
 - c. [Inwerkingtreding] Elke wijziging van de onder a bedoelde bepalingen treedt in werking een maand nadat de Directeur-Generaal van drie vierde van de Verdragsluitende Partijen die op het tijdstip dat de wijziging werd aangenomen door de Algemene Vergadering lid van de Algemene Vergadering waren, schriftelijke kennisgevingen heeft ontvangen van de aanvaarding overeenkomstig hun onderscheiden constitutionele procedures. Elke aldus aanvaarde wijziging van de bedoelde bepalingen, bindt alle Verdragsluitende Partijen die gebonden worden door het Verdrag op het tijdstip dat de wijziging in werking treedt, en de Staten en intergouvernementele organisaties die op een later tijdstip Verdragsluitende Partij worden.
 
-#### Artikel 20. Partij worden bij het Verdrag
+##### Artikel 20. Partij worden bij het Verdrag
 
 1. [Staten] Elke Staat die partij is bij het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) of die lid is van de Organisatie, en ten aanzien waarvan octrooien kunnen worden verleend, hetzij door het eigen bureau van de desbetreffende Staat of door tussenkomst van het bureau van een andere Staat of intergouvernementele organisatie, kan Partij worden bij dit Verdrag.
 
@@ -502,7 +524,7 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 - ii. een akte van toetreding nederleggen indien voor hem of haar dit Verdrag niet is ondertekend.
 
-#### Artikel 21. Inwerkingtreding; data van vankrachtwording van bekrachtigingen en toetredingen
+##### Artikel 21. Inwerkingtreding; data van vankrachtwording van bekrachtigingen en toetredingen
 
 1. [Inwerkingtreding van dit Verdrag] Dit Verdrag treedt in werking drie maanden nadat tien akten van bekrachtiging of toetreding door Staten zijn nedergelegd bij de Directeur-Generaal.
 
@@ -516,13 +538,13 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 - iv. elke andere intergouvernementele organisatie die in aanmerking komt om Partij te worden bij dit Verdrag, na het verstrijken van drie maanden na de nederlegging van haar akte van bekrachtiging of aanvaarding, of op enige in die akte vermelde latere datum, doch uiterlijk zes maanden na de datum van een dergelijke nederlegging.
 
-#### Artikel 22. Toepassing van het Verdrag op bestaande aanvragen en octrooien
+##### Artikel 22. Toepassing van het Verdrag op bestaande aanvragen en octrooien
 
 1. [Beginsel] Onverminderd het bepaalde in het tweede lid, past een Verdragsluitende Partij de bepalingen van dit Verdrag en het Reglement van Uitvoering, met uitzondering van de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) en [6, eerste en tweede lid,](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27) en de met deze artikelen samenhangende bepalingen van het Reglement, toe op lopende aanvragen, en op van kracht zijnde octrooien, op de datum waarop dit Verdrag de desbetreffende Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2010-12-27&g=2010-12-27) bindt.
 
 2. [Procedures] Geen enkele Verdragsluitende Partij is verplicht de bepalingen van dit Verdrag en het Reglement van Uitvoering toe te passen op enige procedure in een rechtszaak ten aanzien van in het eerste lid bedoelde aanvragen en octrooien, indien een dergelijke procedure is aangevangen voor de datum waarop dit Verdrag die Verdragsluitende Partij ingevolge [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=21&z=2010-12-27&g=2010-12-27) bindt.
 
-#### Artikel 23. Voorbehouden
+##### Artikel 23. Voorbehouden
 
 1. [Voorbehoud] Een Staat of intergouvernementele organisatie kan door middel van een voorbehoud verklaren dat de bepalingen van [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), niet van toepassing zijn op een vereiste dat betrekking heeft op de eenheid van uitvinding en dat, uit hoofde van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680), op een internationale aanvraag van toepassing is.
 
@@ -532,13 +554,13 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 4. [Verbod van andere voorbehouden] Ten aanzien van dit Verdrag kan geen ander voorbehoud worden gemaakt dan hetwelk ingevolge het eerste lid is toegestaan.
 
-#### Artikel 24. Opzegging van het Verdrag
+##### Artikel 24. Opzegging van het Verdrag
 
 1. [Kennisgeving] Elke Verdragsluitende Partij kan dit Verdrag opzeggen door een aan de Directeur-Generaal te richten kennisgeving.
 
 2. [Vankrachtwording] De opzegging wordt van kracht een jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen of op elke in de kennisgeving aangegeven latere datum. De opzegging heeft, ten aanzien van de Verdragsluitende Partij die het Verdrag opzegt, geen enkel gevolg voor de toepassing van dit Verdrag op aanvragen die in behandeling zijn of op octrooien die van kracht zijn op het moment van de vankrachtwording van de opzegging.
 
-#### Artikel 25. Talen van het Verdrag
+##### Artikel 25. Talen van het Verdrag
 
 1. [Authentieke teksten]
 
@@ -548,17 +570,17 @@ Onverminderd het bepaalde in het derde lid, wordt een dergelijke verklaring afge
 
 3. [Doorslaggevend karakter van authentieke teksten] In geval van verschillen van mening met betrekking tot de interpretatie van authentieke en officiële teksten, zijn de authentieke teksten doorslaggevend.
 
-#### Artikel 26. Ondertekening van het Verdrag
+##### Artikel 26. Ondertekening van het Verdrag
 
 Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de Organisatie openstaan ter ondertekening door een Staat die in aanmerking komt om ingevolge [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=20&z=2010-12-27&g=2010-12-27), Partij te worden bij het Verdrag, en door de Europese Octrooiorganisatie, het Euraziatische Octrooibureau en de Regionale Organisatie voor de Industriële Eigendom in Afrika.
 
-#### Artikel 27. Depositaris; registratie
+##### Artikel 27. Depositaris; registratie
 
 1. [Depositaris] De Directeur-Generaal is de depositaris van dit Verdrag.
 
 2. [Registratie] De Directeur-Generaal registreert dit Verdrag bij het Secretariaat van de Verenigde Naties.
 
-#### Regel 1. Definities
+##### Regel 1. Definities
 
 1. [„Verdrag”; „artikel”]
 
@@ -568,7 +590,7 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 2. [In het Verdrag omschreven definities] De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=1&z=2010-12-27&g=2010-12-27) voor de toepassing van het Verdrag omschreven definities hebben dezelfde betekenis voor de toepassing van het Reglement van Uitvoering.
 
-#### Regel 2. Details met betrekking tot de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) bedoelde datum van indiening
+##### Regel 2. Details met betrekking tot de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27) bedoelde datum van indiening
 
 1. [Termijn ingevolge [artikel 5, derde lid en vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=5&z=2010-12-27&g=2010-12-27)] Onverminderd het tweede lid, bedragen de termijnen bedoeld in artikel 5, derde lid en vierde lid, letter b, niet minder dan twee maanden, te rekenen vanaf de datum van de in artikel 5, derde lid, bedoelde kennisgeving.
 
@@ -614,7 +636,7 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 - iii. aanvragen door nieuwe aanvragers ten aanzien van wie het recht op een uitvinding die het voorwerp vormde van een eerdere aanvraag, is erkend.
 
-#### Regel 3. Details betreffende de toepassing ingevolge [artikel 6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
+##### Regel 3. Details betreffende de toepassing ingevolge [artikel 6, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
 
 1. [Verdere vereisten ingevolge [artikel 6, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)]
 
@@ -640,7 +662,7 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 3. [Vereisten ingevolge [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan, ingevolge artikel 6, derde lid, een vertaling verlangen van de titel, de vorderingen en het uittreksel van een aanvraag gesteld in een door het bureau aanvaarde taal, naar andere door dat bureau aanvaarde talen.
 
-#### Regel 4. Beschikbaarheid van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en regel 2, punt 4, of van een eerder ingediende aanvraag ingevolge Regel 2, punt 5, letter b
+##### Regel 4. Beschikbaarheid van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en regel 2, punt 4, of van een eerder ingediende aanvraag ingevolge Regel 2, punt 5, letter b
 
 1. [Afschrift van een eerdere aanvraag ingevolge [artikel 6, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Onverminderd het derde lid, kan een Verdragsluitende Partij verlangen dat een afschrift van de eerdere in artikel 6, vijfde lid, bedoelde aanvraag bij het bureau wordt ingediend binnen een termijn die ten minste 16 maanden bedraagt, te rekenen vanaf de datum van die eerdere aanvraag of, wanneer sprake is van meer dan één dergelijke eerdere aanvraag, te rekenen vanaf de eerste datum van indiening van die eerdere aanvragen.
 
@@ -650,11 +672,11 @@ Dit Verdrag blijft gedurende een jaar na de aanneming ervan op de zetel van de O
 
 4. [Vertaling] Wanneer de eerdere aanvraag niet is gesteld in een door het bureau aanvaarde taal en de geldigheid van het beroep op voorrang relevant is voor de vaststelling of octrooi kan worden verleend voor de betrokken uitvinding, kan de Verdragsluitende Partij van de aanvrager verlangen dat, op verzoek van het bureau of van de bevoegde autoriteit, een vertaling van de in punt 1 bedoelde eerdere aanvraag wordt ingediend door de aanvraagr binnen een termijn van ten minste twee maanden, te rekenen vanaf de datum van dat verzoek, en ten minste binnen de termijn die ingevolge dat punt mogelijk van toepassing is.
 
-#### Regel 5. Bewijs ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), en Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, en Regel 18, punt 4
+##### Regel 5. Bewijs ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), en [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), en Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, en Regel 18, punt 4
 
 Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft dat ingevolge [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), of [artikel 8, vierde lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27), of Regel 7, punt 4, Regel 15, punt 4, Regel 16, punt 6, Regel 17, punt 6, of Regel 18, punt 4, bewijs vereist is, wordt in de kennisgeving de reden vermeld waarom het bureau twijfelt aan de waarheid van de aangelegenheid, de aanduiding of de handtekening, of de juistheid van de vertaling, naar gelang hetgeen het geval is.
 
-#### Regel 6. Termijnen betreffende de aanvraag ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
+##### Regel 6. Termijnen betreffende de aanvraag ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)
 
 1. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27)] Onverminderd punten 2 en 3, bedragen de in artikel 6, zevende en achtste lid bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 6, zevende lid, bedoelde kennisgeving.
 
@@ -662,7 +684,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 3. [Termijnen ingevolge [artikel 6, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=6&z=2010-12-27&g=2010-12-27), betreffende de betaling van aanvraagtaks in overeenstemming met het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680)] Wanneer ingevolge artikel 6, vierde lid, te betalen taksen ten aanzien van de indiening van de aanvraag niet worden betaald, kan een Verdragsluitende Partij, ingevolge artikel 6, zevende en achtste lid, termijnen voor betaling vaststellen, ook voor late betaling, die hetzelfde zijn als die welke van toepassing zijn ingevolge het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680) met betrekking tot de basistaks-component van de internationale taks.
 
-#### Regel 7. Details inzake machtiging ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)
+##### Regel 7. Details inzake machtiging ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)
 
 1. [Andere procedures ingevolge [artikel 7, tweede lid, letter a, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27)] De in artikel 7, tweede lid, letter a, iii, bedoelde andere procedures waarvoor een Verdragsluitende Partij niet de benoeming van een gemachtigde kan verlangen, zijn:
 
@@ -688,7 +710,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 6. [Uitzondering op de in [artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=7&z=2010-12-27&g=2010-12-27), bedoelde termijn] Wanneer een in artikel 7, vijfde lid, bedoelde kennisgeving niet is gedaan omdat gegevens die het bureau in staat stellen in contact te treden met de aanvrager, de eigenaar of een andere belanghebbende niet zijn ingediend, bedraagt de in artikel 7, zesde lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum van aanvang van de in artikel 7, vijfde lid, bedoelde procedure.
 
-#### Regel 8. Indiening van mededelingen ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
+##### Regel 8. Indiening van mededelingen ingevolge [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Op papier ingediende mededelingen]
 
@@ -714,7 +736,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Punt 2, letter b, is, mutatis mutandis, van toepassing op afschriften, in elektronische vorm of door middel van elektronische media, van op papier ingediende mededelingen.
 
-#### Regel 9. Details betreffende de handtekening ingevolge [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
+##### Regel 9. Details betreffende de handtekening ingevolge [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Vermeldingen die de handtekening vergezellen] Een Verdragsluitende Partij kan verlangen dat de handtekening van een natuurlijke persoon die ondertekent, vergezeld gaat van:
 
@@ -744,7 +766,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 6. [Uitzondering op de waarmerking van de handtekening ingevolge [artikel 8, vierde lid, letter b](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat handtekeningen bedoeld in punt 5 worden bevestigd door middel van een door die Verdragsluitende Partij aangegeven procedure voor de waarmerking van handtekeningen in elektronische vorm.
 
-#### Regel 10. Details betreffende vermeldingen ingevolge [artikel 8, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
+##### Regel 10. Details betreffende vermeldingen ingevolge [artikel 8, vijfde, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Vermeldingen ingevolge [artikel 8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)]
 
@@ -772,13 +794,13 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 5. [Sancties in verband met niet-naleving van de vereisten ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Geen enkele Verdragsluitende Partij kan een aanvraag weigeren omdat niet is voldaan aan een vereiste met betrekking tot het opgeven van een registratienummer of andere aanduiding ingevolge punt 1, a, onder iii, en letter b, onder iii.
 
-#### Regel 11. Termijnen betreffende mededelingen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
+##### Regel 11. Termijnen betreffende mededelingen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)
 
 1. [Termijnen ingevolge [artikel 8, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Onverminderd punt 2, bedragen de in artikel 8, zevende en achtste lid, bedoelde termijnen ten minste twee maanden, te rekenen vanaf de datum van de in artikel 8, zevende lid, bedoelde kennisgeving.
 
 2. [Uitzondering op de termijn ingevolge [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=8&z=2010-12-27&g=2010-12-27)] Wanneer een kennisgeving ingevolge artikel 8, zevende lid, niet is gedaan omdat aanwijzingen die het bureau in staat stellen in contact te treden met de aanvrager, eigenaar of andere belanghebbende niet zijn verschaft, bedraagt de in artikel 8, achtste lid, bedoelde termijn ten minste drie maanden, te rekenen vanaf de datum waarop de in artikel 8, zevende lid, bedoelde mededeling door het bureau is ontvangen.
 
-#### Regel 12. Details betreffende uitstel ten aanzien van termijnen ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)
+##### Regel 12. Details betreffende uitstel ten aanzien van termijnen ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)
 
 1. [Vereisten ingevolge [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27)]
 
@@ -822,7 +844,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Van geen enkele Verdragsluitende Partij die een maximumtermijn voorziet voor het voldoen aan alle vereisten van een procedure voor het bureau, wordt verlangd dat zij ingevolge [artikel 11, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=11&z=2010-12-27&g=2010-12-27), uitstel verleent ten aanzien van een termijn voor een handeling in die procedure ten aanzien van die vereisten na het verstrijken van die maximumtermijn.
 
-#### Regel 13. Details betreffende het herstel van rechten nadat het bureau ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27) heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
+##### Regel 13. Details betreffende het herstel van rechten nadat het bureau ingevolge [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27) heeft vastgesteld dat de nodige zorg is betracht of dat het verzuim onopzettelijk was
 
 1. [Vereisten ingevolge [artikel 12, eerste lid, onder i](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=12&z=2010-12-27&g=2010-12-27)] Een Verdragsluitende Partij kan verlangen dat een in artikel 12, eerste lid, onder i, bedoeld verzoekschrift wordt ondertekend door de aanvrager of eigenaar.
 
@@ -842,7 +864,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - iv. voor het verrichten van een handeling in een procedure inter partes.
 
-#### Regel 14. Details betreffende een verbetering of toevoeging van een beroep op voorrang en herstel van het recht van voorrang, ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)
+##### Regel 14. Details betreffende een verbetering of toevoeging van een beroep op voorrang en herstel van het recht van voorrang, ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)
 
 1. [Uitzondering ingevolge [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] Geen enkele Verdragsluitende Partij is verplicht te voorzien in de verbetering of toevoeging van een beroep op voorrang ingevolge artikel 13, eerste lid, wanneer het in artikel 13, eerste lid, onder i, bedoelde verzoekschrift wordt ontvangen nadat de aanvrager een verzoekschrift heeft ingediend voor vroegtijdige publicatie of versnelde behandeling, tenzij dat verzoekschrift voor vroegtijdige publicatie of voor versnelde behandeling wordt ingetrokken voordat de technische voorbereidingen voor publicatie van de aanvraag zijn voltooid.
 
@@ -878,7 +900,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 7. [Termijn ingevolge [artikel 13, derde lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=13&z=2010-12-27&g=2010-12-27)] De in artikel 13, derde lid, onder iii, bedoelde termijn verstrijkt twee maanden voor het verstrijken van de in de regel 4, punt 1, voorgeschreven termijn.
 
-#### Regel 15. Verzoekschrift tot inschrijving van een wijziging van naam of adres
+##### Regel 15. Verzoekschrift tot inschrijving van een wijziging van naam of adres
 
 1. [Verzoekschrift] Wanneer geen wijziging plaatsvindt ten aanzien van de persoon van de aanvrager of eigenaar, maar een wijziging optreedt in zijn naam of adres, aanvaardt een Verdragsluitende Partij dat een verzoekschrift tot inschrijving van de wijziging wordt ingediend in een door de aanvrager of eigenaar ondertekende mededeling die de volgende gegevens bevat:
 
@@ -916,7 +938,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 8. [Wijziging van de naam of het adres van de gemachtigde, of van het correspondentieadres of de gekozen woonplaats] De punten 1 tot en met 7 zijn mutatis mutandis van toepassing op wijzigingen van de naam of het adres van de gemachtigde, en op wijzigingen betreffende het correspondentieadres of de gekozen woonplaats.
 
-#### Regel 16. Verzoekschrift tot inschrijving van een wijziging van de aanvrager of eigenaar
+##### Regel 16. Verzoekschrift tot inschrijving van een wijziging van de aanvrager of eigenaar
 
 1. [Verzoekschrift tot inschrijving van een wijziging van de aanvrager of eigenaar]
 
@@ -972,7 +994,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 9. [Uitsluiting betreffende het uitvinderschap] Een Verdragsluitende Partij kan de toepassing van deze Regel met betrekking tot wijzigingen van het uitvinderschap uitsluiten. De criteria voor de vaststelling van het uitvinderschap worden bepaald in de toepasselijke wetgeving.
 
-#### Regel 17. Verzoekschrift om inschrijving van een licentie of van een veiligheidsbelang
+##### Regel 17. Verzoekschrift om inschrijving van een licentie of van een veiligheidsbelang
 
 1. [Verzoekschrift om inschrijving van een licentie]
 
@@ -1030,7 +1052,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - ii. annulering van de inschrijving van een licentie of een veiligheidsbelang ten aanzien van een aanvraag of octrooi.
 
-#### Regel 18. Verzoek om verbetering van een fout
+##### Regel 18. Verzoek om verbetering van een fout
 
 1. [Verzoekschrift]
 
@@ -1072,7 +1094,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - b. Een Verdragsluitende Partij kan de toepassing van deze Regel uitsluiten ten aanzien van fouten die de Partij moet corrigeren ingevolge een procedure voor hernieuwde verlening van een octrooi.
 
-#### Regel 19. Wijze van identificatie van een aanvraag zonder het aanvraagnummer
+##### Regel 19. Wijze van identificatie van een aanvraag zonder het aanvraagnummer
 
 1. [Wijze van identificatie] Wanneer vereist is dat een aanvraag wordt geïdentificeerd aan de hand van het aanvraagnummer, maar een dergelijk nummer nog niet is afgegeven of bij de belanghebbende of diens gemachtigde niet bekend is, wordt de aanvraag beschouwd als geïdentificeerd indien een van de volgende gegevens, naar keuze van die persoon, wordt verstrekt:
 
@@ -1084,7 +1106,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 2. [Verbod van andere vereisten] Geen enkele Verdragsluitende Partij kan verlangen dat andere wijzen van identificatie dan die welke in punt 1 zijn genoemd, ter beschikking worden gesteld ter identificatie van een aanvraag wanneer het aanvraagnummer hiervan nog niet is verstrekt of bij de belanghebbenden of diens gemachtigde niet bekend is.
 
-#### Regel 20. Opstelling van internationale standaardformulieren
+##### Regel 20. Opstelling van internationale standaardformulieren
 
 1. [Internationale standaardformulieren] De Algemene Vergadering stelt ingevolge [artikel 14, eerste lid, letter c](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27), internationale standaardformulieren op in elk van de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=25&z=2010-12-27&g=2010-12-27), bedoelde talen, ten aanzien van:
 
@@ -1110,7 +1132,7 @@ Wanneer het bureau de aanvrager, eigenaar of andere persoon ervan kennis geeft d
 
 - ii. de in punt 2 bedoelde wijzigingen van het aanvraagformulier van het [Verdrag tot samenwerking inzake octrooien](https://wetten.overheid.nl/jci1.3:c:BWBV0004680).
 
-#### Regel 21. Vereiste van unanimiteit ingevolge [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27)
+##### Regel 21. Vereiste van unanimiteit ingevolge [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004818&artikel=14&z=2010-12-27&g=2010-12-27)
 
 Voor de opstelling of wijziging van de volgende Regels is unanimiteit vereist:
 

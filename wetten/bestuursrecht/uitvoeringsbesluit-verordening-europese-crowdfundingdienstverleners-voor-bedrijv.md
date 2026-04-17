@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven"
+title: "Besluit van 14 oktober 2021 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten, het Besluit Gedragstoezicht financiële ondernemingen Wft en het Besluit bekostiging financieel toezicht 2019, en in verband met de uitvoering van Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (PbEU 2020, L 347) (Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven)"
 identifier: "BWBR0045740"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-11-11
-laatste_update: 2022-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045740"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-11-11"
+last_updated: "2022-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045740"
+soort: "AMvB"
+stam_id: "16111393"
+version_id: "28103472"
+internal_id: "C39633501"
+label_id: "16041714"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045740/2022-11-11/0"
+intitule_bron: "Stb.2021-497"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-14"
+intitule_published: "2021-10-27"
+intitule_in_force: "2021-10-27"
+intitule_status: "goed"
+original_publication: "Stb.2021-497"
+original_signed_date: "2021-10-14"
+original_published_date: "2021-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-497"
+entry_into_force_date: "2021-11-10"
+jci_1_3: "jci1.3:c:BWBR0045740&z=2022-11-11&g=2022-11-11"
+jci_1_0: "1.0:c:BWBR0045740&g=2022-11-11"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven"
+signed_date: "2021-10-14"
+entry_into_force: "2021-11-10"
 ---
-
 # Besluit van 14 oktober 2021 tot wijziging van het Besluit uitvoering EU-verordeningen financiële markten, het Besluit Gedragstoezicht financiële ondernemingen Wft en het Besluit bekostiging financieel toezicht 2019, en in verband met de uitvoering van Verordening (EU) 2020/1503 van het Europees Parlement en de Raad van 7 oktober 2020 betreffende Europese crowdfundingdienstverleners voor bedrijven en tot wijziging van Verordening (EU) 2017/1129 en Richtlijn (EU) 2019/1937 (PbEU 2020, L 347) (Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven)
 
 Op de voordracht van Onze Minister van Financiën van 10 september 2021, 2021-0000180236, directie Financiële Markten;
@@ -20,25 +46,25 @@ Gezien het nader rapport van Onze Minister van Financiën van 12 oktober 2021, 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit bekostiging financieel toezicht 2019.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Dit besluit treedt in werking met ingang van 10 november 2021, met uitzondering van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2022-11-11&g=2022-11-11), dat in werking treedt met ingang van 11 november 2022.
 
 2. In afwijking van het eerste lid kan bij koninklijk besluit worden bepaald dat [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0045740&artikel=II&z=2022-11-11&g=2022-11-11) in werking treedt met ingang van 11 november 2023.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit verordening Europese crowdfundingdienstverleners voor bedrijven.
 

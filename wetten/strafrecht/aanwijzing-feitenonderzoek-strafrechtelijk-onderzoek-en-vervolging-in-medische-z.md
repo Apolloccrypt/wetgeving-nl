@@ -1,13 +1,38 @@
 ---
 title: "Aanwijzing feitenonderzoek / strafrechtelijk onderzoek en vervolging in medische zaken"
 identifier: "BWBR0032580"
-categorie: "Strafrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032580"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032580"
+soort: "beleidsregel"
+stam_id: "11992023"
+version_id: "19940802"
+internal_id: "C28015471"
+label_id: "11964294"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032580/2013-01-01/0"
+intitule_bron: "Stcrt.2012-26863"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-04"
+intitule_published: "2012-12-24"
+intitule_in_force: "2012-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26863"
+original_signed_date: "2012-12-04"
+original_published_date: "2012-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26863"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032580&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032580&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-12-04"
+entry_into_force: "2013-01-01"
 ---
-
 # Aanwijzing feitenonderzoek / strafrechtelijk onderzoek en vervolging in medische zaken
 
 ### Achtergrond

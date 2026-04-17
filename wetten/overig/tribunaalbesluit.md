@@ -1,13 +1,35 @@
 ---
-title: "Tribunaalbesluit"
+title: "Besluit van 17 september 1944, houdende vaststelling van het Tribunaalbesluit"
 identifier: "BWBR0002009"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002009"
+country: "nl"
+rank: "kb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002009"
+soort: "KB"
+stam_id: "961653"
+version_id: "1410832"
+internal_id: "C1410831"
+label_id: "933914"
+dtd_version: "2.0"
+original_entry_into_force: "1944-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002009/2015-01-01/0"
+intitule_bron: "Stb.1944-E 101"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1944-09-17"
+intitule_status: "goed"
+original_publication: "Stb.1944-E 101"
+original_signed_date: "1944-09-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1944-09-20"
+jci_1_3: "jci1.3:c:BWBR0002009&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0002009&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Tribunaalbesluit"
+signed_date: "1944-09-17"
+entry_into_force: "1944-09-20"
 ---
-
 # Besluit van 17 september 1944, houdende vaststelling van het Tribunaalbesluit
 
 Op de voordracht van Onze Ministers voor Algemeene Oorlogvoering van het Koninkrijk, van Algemeene Zaken, van Buitenlandsche Zaken, van Justitie, van Onderwijs, Kunsten en Wetenschappen, van Financiën, van Oorlog, van Marine, van Waterstaat, van Handel, Nijverheid en Landbouw, van Scheepvaart en Visscherij, van Sociale Zaken, van Koloniën en van Onzen Minister zonder Portefeuille van 15 September 1944, No. 1640/ G 92 (D);
@@ -20,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 ## Titel I. Van de oplegging van bijzondere maatregelen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Aan Nederlanders, die op het tijdstip van het in werking treden van dit besluit den leeftijd van achttien jaren hebben bereikt en gedurende de vijandelijkheden in, of tijdens de vijandelijke bezetting van het Rijk in Europa,
 
@@ -44,7 +66,7 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 3. Ten aanzien van de oplegging van de bijzondere maatregelen, in dit besluit bedoeld, worden met Nederlanders gelijkgesteld Nederlandsche onderdanen uit anderen hoofde en zij, die den staat van Nederlander of Nederlandsch onderdaan uit anderen hoofde sedert 10 Mei 1940 hebben verloren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Omtrent de interneering wordt door de Tribunalen in hun uitspraak geen tijdsduur bepaald. Zij zijn echter bevoegd, in die uitspraken voor bepaalde gevallen het inachtnemen van een daarbij aangegeven tijdsduur in overweging te geven.
 
@@ -54,7 +76,7 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 4. Indien een persoon, aan wien de maatregel van interneering is opgelegd, zich rechtmatig in vrijheid bevindt, kan Onze Minister van Veiligheid en Justitie bevelen, dat de interneering niet of niet verder ten uitvoer zal worden gelegd, indien de tenuitvoerlegging of verdere tenuitvoerlegging door bijzondere omstandigheden voor den betrokkene of het gezin waartoe hij behoort onnoodig hard zou zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Omtrent de tenuitvoerlegging der interneering worden door Ons nadere regelen vastgesteld.
 
@@ -62,13 +84,13 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 3. De interneering belet niet de tenuitvoerlegging van eenige aan den schuldige bij rechterlijke uitspraak opgelegde vrijheidsstraf. Gedurende den tijd, dat de schuldige een zoodanige straf ondergaat, wordt de tenuitvoerlegging der interneering geschorst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Ingeval van oplegging van den bijzonderen maatregel van interneering kan het Tribunaal daarbij tevens het bevel geven, dat de interneering niet zal worden ten uitvoer gelegd, tenzij het later anders mocht gelasten op grond, dat degene, aan wien de bijzondere maatregel van interneering is opgelegd, gedurende een bij het bevel te stellen proeftijd zich niet als een goed Nederlander heeft gedragen, of een bijzondere voorwaarde, welke bij het bevel mocht zijn gesteld, niet heeft nageleefd.
 
 2. Ingeval van oplegging van den bijzonderen maatregel van interneering kan het Tribunaal daarbij tevens het bevel, in het voorgaande lid bedoeld, geven ten aanzien van een bepaald gedeelte der interneering, indien in de uitspraak in overweging wordt gegeven het na den dag der uitspraak onvoorwaardelijk te ondergaan gedeelte der interneering te beperken tot een tijdsduur, zes maanden niet te boven gaande.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. De proeftijd bedraagt ten hoogste drie jaren. Hij loopt niet gedurende den tijd, dat dengene, aan wien de bijzondere maatregel van interneering is opgelegd, rechtens zijn vrijheid is ontnomen.
 
@@ -76,7 +98,7 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 3. De proeftijd gaat in zoodra de beteekening is geschied.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. Bij het bevel, bedoeld in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01), kan het Tribunaal behalve de algemeene voorwaarde, dat de schuldige zich als een goed Nederlander zal gedragen, één of meer van de navolgende bijzondere voorwaarden stellen:
 
@@ -102,17 +124,17 @@ kunnen, indien zij op grond van hun handelen of nalaten geacht moeten worden zic
 
 2. Het Tribunaal is bevoegd, tevens andere, het gedrag van den schuldige betreffende, de godsdienstige en staatkundige vrijheid niet beperkende bijzondere voorwaarden te stellen, waaraan deze gedurende den proeftijd heeft te voldoen.
 
-#### Artikel 3d
+##### Artikel 3d
 
 1. Met het toezicht op de naleving der voorwaarden is belast de procureur-fiscaal bij het Bijzondere Gerechtshof, binnen welks ressort het arrondissement gelegen is, voor hetwelk het Tribunaal, dat het bevel gegeven heeft, is ingesteld.
 
 2. Indien de voorwaarden niet worden nageleefd, geeft de procureur-fiscaal hiervan kennis aan het Tribunaal, dat het in [artikel 3**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3a&z=2015-01-01&g=2015-01-01) bedoelde bevel gegeven heeft.
 
-#### Artikel 3e
+##### Artikel 3e
 
 Het Tribunaal kan, hetzij ambtshalve, hetzij op verzoek van den schuldige, gedurende den proeftijd bij schriftelijke beslissing in de gestelde bijzondere voorwaarden wijziging brengen, deze voorwaarden opheffen, alsnog bijzondere voorwaarden stellen, of den proeftijd verlengen voor ten hoogste anderhalf jaar.
 
-#### Artikel 3f
+##### Artikel 3f
 
 1. Het Tribunaal kan, indien de voorwaarden niet worden nageleefd, bij schriftelijke beslissing een of meer der volgende maatregelen treffen:
 
@@ -122,7 +144,7 @@ Het Tribunaal kan, hetzij ambtshalve, hetzij op verzoek van den schuldige, gedur
 
 2. De maatregelen, bedoeld in het voorgaande lid, kunnen niet meer worden getroffen, wanneer sedert het einde van den proeftijd een termijn van drie maanden is verstreken.
 
-#### Artikel 3g
+##### Artikel 3g
 
 1. Het Tribunaal geeft de in de [artikelen 3**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) genoemde beslissingen niet dan nadat de schuldige in raadkamer is gehoord, althans behoorlijk is opgeroepen. Het Tribunaal kan de medebrenging van den schuldige bevelen.
 
@@ -132,17 +154,17 @@ Het Tribunaal kan, hetzij ambtshalve, hetzij op verzoek van den schuldige, gedur
 
 4. De beslissing, waarbij last tot tenuitvoerlegging gegeven wordt, wordt in het openbaar uitgesproken.
 
-#### Artikel 3h
+##### Artikel 3h
 
 De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3e&z=2015-01-01&g=2015-01-01) en [3**f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=3f&z=2015-01-01&g=2015-01-01) bedoelde beslissingen aan den procureur-fiscaal, die deze onverwijld aan den schuldige doet beteekenen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De rechten, waarvan de schuldige bij wijze van bijzonderen maatregel kan worden ontzet, zijn de rechten genoemd in [artikel 28, onder 1°., 2°., 3°. en 4°., van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28), alsmede de uitoefening van bepaalde beroepen of groepen van beroepen en het bekleeden van bepaalde functies of groepen van functies, waarvoor de schuldige geacht moet worden de in het algemeen belang vereischte waardigheid of betrouwbaarheid te missen. [Artikel 8, tweede lid, van het Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006&artikel=8) is van overeenkomstige toepassing.
 
 2. De ontzetting van een recht bij wijze van bijzonderen maatregel, als in dit besluit bedoeld, wordt voor de toepassing van [artikel 195 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=195) met ontzetting bij rechterlijke uitspraak gelijkgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ontzetting van rechten gaat in op den dag, waarop op de uitspraak het fiat executie wordt verleend, en geschiedt
 
@@ -152,7 +174,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 2. Volgens door Ons nader te stellen regelen kunnen niet of niet langer geïnterneerde personen, die bij wijze van bijzonderen maatregel van bepaalde rechten zijn ontzet en die - mede gelet op den ernst der gedraging of gedragingen, ter zake waarvan de maatregel is opgelegd - op grond van hun gedrag hiervoor in aanmerking komen, in deze rechten geheel of gedeeltelijk worden hersteld, voor zoover zij niet bij rechterlijke uitspraak van dezelfde rechten zijn ontzet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Vatbaar voor verbeurdverklaring is:
 
@@ -162,7 +184,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 2. Het Tribunaal bepaalt bij zijn uitspraak, hoever de verbeurdverklaring zich uitstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van dit besluit wordt het vermogen onderscheidenlijk de nalatenschap van den schuldige geacht mede te omvatten:
 
@@ -186,7 +208,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 7. De uitspraak betreffende de ontbinding der gemeenschap wordt tegenover derden eerst van kracht, nadat de in het vorige lid bedoelde openbaarmaking heeft plaats gevonden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Omtrent de tenuitvoerlegging der verbeurdverklaring worden door Ons nadere regelen vastgesteld. Daarbij zal mede worden geregeld de bevoegdheid der met de tenuitvoerlegging te belasten instantie tot het doen van uitkeeringen ter voorziening in het levensonderhoud van den schuldige en zijn gezin.
 
@@ -196,11 +218,11 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 ## Titel II. Van de Tribunalen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor ieder arrondissement wordt door Ons een Tribunaal ingesteld om te beslissen omtrent de oplegging van de in den voorgaanden Titel bedoelde maatregelen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Elk Tribunaal is samengesteld uit een of meer kamers, waarvan het aantal door Ons wordt bepaald.
 
@@ -212,7 +234,7 @@ De secretaris zendt een gewaarmerkt afschrift van de in [artikel 3**e**](https:/
 
 5. De leden der Tribunalen worden telkens tot het einde van een loopend of van een eerstvolgend kalenderjaar benoemd en kunnen tusschentijds alleen op eigen verzoek of om dringende redenen door Ons worden ontslagen. De secretarissen, adjunct-secretarissen en waarnemende secretarissen worden tot wederopzeggens toe benoemd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Tot leden van een Tribunaal kunnen alleen worden benoemd Nederlanders en Nederlandsche onderdanen uit anderen hoofde; zij moeten ingezetenen zijn van het Koninkrijk en den vollen ouderdom van dertig, doch niet dien van zeventig jaren hebben bereikt. Ten aanzien van den secretaris, zijn adjuncten en de waarnemende secretarissen gelden dezelfde vereischten, behoudens dat reeds benoembaar zijn zij die den vollen ouderdom van vijfentwintig jaren hebben bereikt.
 
@@ -226,7 +248,7 @@ hetzij den graad van doctor in de rechtsgeleerdheid of de hoedanigheid van meest
 
 4. Tusschen de leden van een Tribunaal mag geen bloedverwantschap of zwagerschap tot en met den derden graad bestaan; noch mogen zij met elkander in het huwelijk verbonden zijn. De zwagerschap houdt op door het overlijden van hem, die haar veroorzaakte.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Alvorens in bediening te treden, leggen de leden der Tribunalen, de secretarissen, hunne adjuncten en de waarnemende secretarissen, elk naar de wijze zijner godsdienstige gezindheid, den eed (belofte) af, dat zij hun taak naar plicht en geweten, nauwgezet, onpartijdig en als goede vaderlanders zullen vervullen.
 
@@ -234,11 +256,11 @@ hetzij den graad van doctor in de rechtsgeleerdheid of de hoedanigheid van meest
 
 3. Van de eedsaflegging wordt proces-verbaal opgemaakt.
 
-#### Artikel 13
+##### Artikel 13
 
 Omtrent de aan de leden der Tribunalen, de secretarissen, hunne adjuncten en de waarnemende secretarissen ter zake van hun werkzaamheden toe te kennen vergoedingen worden door Ons nadere regelen vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor zoover in dit besluit niet anders is bepaald, geschiedt de behandeling der zaken, waarvan het Tribunaal kennis neemt, door den voorzitter van een kamer en twee, tot die kamer behoorende, gewone leden, die met eenparigheid of bij meerderheid van stemmen beslissen, in tegenwoordigheid van den secretaris, die daarbij de pen voert.
 
@@ -246,11 +268,11 @@ Omtrent de aan de leden der Tribunalen, de secretarissen, hunne adjuncten en de 
 
 3. Een plaatsvervangende voorzitter kan ook als gewoon lid zitting hebben.
 
-#### Artikel 15
+##### Artikel 15
 
 De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstentenis van een voorzitter de plaatsvervangende voorzitters als zoodanig zullen fungeeren; zoo er meer dan een kamer is, bepaalt hij tevens, in welke kamer de gewone leden zitting zullen nemen, en regelt hij de verdeeling der werkzaamheden onder de kamers; hij treft voorts, met inachtneming van zoodanige regelen of aanwijzingen als te dien aanzien door Onze Minister van Veiligheid en Justitie mochten worden gesteld of gegeven, alle verdere beschikkingen, rakende den dienst van het Tribunaal, welke mochten worden noodig gevonden; een en ander zooveel mogelijk in overleg met de overige leden van zijn college.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Van elk onderzoek door het Tribunaal wordt proces-verbaal opgemaakt.
 
@@ -258,7 +280,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 3. Insgelijks is ten aanzien van de Tribunalen van overeenkomstige toepassing het bepaalde in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=7), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=12), [74](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=74) en [95 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=95).
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. De president van het Tribunaal is bevoegd, volgens regelen te stellen door Onze Minister van Veiligheid en Justitie, personeel voor den dienst van zijn Tribunaal aan te nemen.
 
@@ -268,7 +290,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 ## Titel III. Van de aangifte
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een ieder, die kennis draagt of gegronde reden heeft om te vermoeden, dat een Nederlander of een daarmede bij [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=I&artikel=1&z=2015-01-01&g=2015-01-01), gelijkgesteld persoon zich gedurende de vijandelijkheden in, of tijdens de vijandelijke bezetting van het Rijk in Europa heeft gedragen op een wijze, welke volgens het bepaalde in dat artikel tot de oplegging van bijzondere maatregelen aanleiding kan geven, is bevoegd daarvan aangifte te doen.
 
@@ -276,7 +298,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 3. Hij, die een aangifte doet, als bedoeld in dit artikel, wetende, dat de beschuldigde zich niet op de aangegeven wijze heeft gedragen, wordt als schuldig aan een misdrijf gestraft met gevangenisstraf van ten hoogste een jaar.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De aangifte wordt hetzij schriftelijk ingediend bij het Departement van Justitie, hetzij mondeling of schriftelijk gedaan aan een ambtenaar, die tot het ontvangen van zoodanige aangiften door Onze Minister van Veiligheid en Justitie bevoegd en verplicht is verklaard. Zij geschiedt hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van een bijzondere schriftelijke volmacht voorzien.
 
@@ -290,7 +312,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 6. Uiterlijk drie maanden na het in werking treden van dit besluit zal door Ons een termijn worden gesteld, na afloop waarvan nieuwe aangiften niet meer kunnen worden ingediend.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Nadat, indien hem dit ter voorbereiding van de behandeling der zaak geraden mocht voorkomen, ter zake nadere inlichtingen zijn ingewonnen, kan de procureur-fiscaal na verleening van een fiatbehandeling de aangifte met de op de zaak betrekkelijke stukken stellen in handen van het Tribunaal, dat uit hoofde van de woon- of verblijfplaats van den beschuldigde, van de plaats, waar deze zich op de aangegeven wijze heeft gedragen, of om andere redenen naar zijn oordeel het meest in aanmerking komt om van de zaak kennis te nemen, zulks met dien verstande, dat alle aangiften tegen denzelfden beschuldigde bij hetzelfde Tribunaal worden aangebracht.
 
@@ -298,7 +320,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 3. In zaken, betrekking hebbende op personen of de nalatenschap van personen, die ter zake van een misdrijf, waarop de bepalingen van het [Besluit Buitengewoon Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002006) van toepassing zijn, onherroepelijk zijn veroordeeld, verleent de procureur-fiscaal geen fiatbehandeling dan met machtiging van Onze Minister van Veiligheid en Justitie.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. De voorzitter van de kamer, welke met de behandeling van de zaak is belast, is bevoegd, indien hij van oordeel is, dat een nader onderzoek noodig is, alvorens de zaak voor behandeling door het Tribunaal vatbaar is, aan de politie een onderzoek op te dragen en bevelen te geven.
 
@@ -306,21 +328,21 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 ## Titel IV. Van de behandeling der zaak door het Tribunaal
 
-#### Artikel 20
+##### Artikel 20
 
 1. De behandeling van aangiften, welke tegen denzelfden beschuldige zijn gericht, wordt door het Tribunaal zooveel mogelijk gevoegd.
 
 2. De voeging kan door het Tribunaal te allen tijde worden opgeheven.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien onder de behandeling der zaak tegen den beschuldigde verdenking rijst van een of meer andere gedragingen dan waarop een tegen hem gericht aangifte betrekking heeft, welke grond kunnen opleveren voor de oplegging van bijzondere maatregelen, kan het onderzoek zich mede tot deze gedraging of gedragingen uitstrekken en is het Tribunaal bevoegd zonder nadere aangifte daarvan kennis te nemen.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien de beschuldigde ter zake van een misdrijf wordt vervolgd, kan het Tribunaal in elken stand der zaak haar verdere behandeling voor een bepaalden tijd schorsen, ten einde de uitspraak van den rechter of den uitslag van eenig rechterlijk onderzoek af te wachten.
 
@@ -328,13 +350,13 @@ Vervallen
 
 3. De schorsing kan door het Tribunaal telkens voor een bepaalden tijd worden verlengd en te allen tijde worden opgeheven.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Van eenige beslissing, als in het voorgaande artikel bedoeld, geeft de secretaris onverwijld schriftelijk kennis aan den procureur-fiscaal bij het Bijzondere Gerechtshof bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=III&artikel=18&z=2015-01-01&g=2015-01-01). Gelijke kennisgeving geschiedt aan den beschuldigde, tenzij een voorbereidend onderzoek aan de beslissing niet is voorafgegaan of deze in zijn tegenwoordigheid wordt gegeven.
 
 2. Nadat de behandeling der zaak ter zitting van het Tribunaal is aangevangen, kan in dezelfde zaak een beslissing, als in het voorgaande artikel bedoeld, alleen als uitspraak der zitting worden gegeven.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Voor een beschuldigde, die overleden is, benoemt het Tribunaal, wanneer in de zaak eenig onderzoek wordt ingesteld of voortgezet, zoo spoedig mogelijk een bijzonderen vertegenwoordiger.
 
@@ -342,13 +364,13 @@ Vervallen
 
 3. In alle gevallen, waarin bij dit besluit eenige mededeeling of kennisgeving dan wel de oproeping, dagvaarding, toestemming of het hooren van den beschuldigde wordt gevorderd of aan dezen eenig recht of eenige bevoegdheid is toegekend, vinden de desbetreffende bepalingen, indien de beschuldigde een bijonderen vertegenwoordiger heeft, ten aanzien van dien vertegenwoordiger overeenkomstige toepassing.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het Tribunaal kan, indien het termen vindt tot de instelling van een voorbereidend onderzoek, dat onderzoek hetzij, als raadkamer vergaderende, zelf verrichten, hetzij geheel of gedeeltelijk opdragen aan een voorzitter, een plaatsvervangenden voorzitter, den secretaris, een adjunct-secretaris of een waarnemenden secretaris, dien het in de zaak tot commissaris benoemt. Het Tribunaal is steeds bevoegd een commissaris door een anderen commissaris te vervangen of zelf het onderzoek van den commissaris over te nemen.
 
 2. Onder voorbereidend onderzoek wordt verstaan elk onderzoek, dat aan de behandeling ter zitting voorafgaat, behalve het onderzoek, bedoeld in [artikel 19**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=III&artikel=19a&z=2015-01-01&g=2015-01-01).
 
-#### Artikel 27
+##### Artikel 27
 
 1. De commissaris gedraagt zich naar de instructies, welke hem door het Tribunaal mochten worden verstrekt. Het Tribunaal waakt tegen noodelooze vertraging van het onderzoek door den commissaris.
 
@@ -360,11 +382,11 @@ Vervallen
 
 5. De bevoegdheden, bij dezen Titel aan den commissaris toegekend, gelden alleen voor den tijd, gedurende welken hij door het Tribunaal met een voorbereidend onderzoek in de zaak is belast, en alleen binnen de grenzen van, of in verband met de hem door het Tribunaal verstrekte opdracht.
 
-#### Artikel 28
+##### Artikel 28
 
 Van de instelling van een voorbereidend onderzoek en de benoeming van een commissaris wordt aan den beschuldigde onverwijld schriftelijk kennis gegeven. Bij deze kennisgeving wordt aan den beschuldigde, indien zijn dagvaarding ter zitting nog niet is bevolen, tevens mededeeling gedaan van de gedraging of gedragingen, waarvan hij voorloopig wordt beschuldigd.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De beschuldigde is bevoegd zich door een gekozen of toegevoegden raadsman te doen bijstaan.
 
@@ -372,7 +394,7 @@ Van de instelling van een voorbereidend onderzoek en de benoeming van een commis
 
 3. Ten aanzien van de keuze van een raadsman is het bepaalde in [artikel 38 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38) van overeenkomstige toepassing. De gekozen raadsman geeft van zijn optreden als zoodanig schriftelijk kennis aan den secretaris. Door deze mededeeling neemt de werkzaamheid van den vervangen toegevoegden of vroeger gekozen raadsman een einde.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Aan den beschuldigde, die nog een geen raadsman heeft en wiens onvermogen voldoende gestaafd wordt geoordeeld, wordt door den secretaris op zijn verzoek een raadsman toegevoegd.
 
@@ -386,7 +408,7 @@ Van de instelling van een voorbereidend onderzoek en de benoeming van een commis
 
 6. De toegevoegde raadsman heeft ter zake van zijn verrichtingen recht op een toelage uit 's Rijks kasmiddelen volgens door Ons nader te stellen regelen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Na den aanvang van het voorbereidend onderzoek is ten aanzien van het verkeer tusschen den raadsman en den beschuldigde, die zich in verzekerde bewaring bevindt, het bepaalde in [artikel 50, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=50) van overeenkomstige toepassing.
 
@@ -394,11 +416,11 @@ Van de instelling van een voorbereidend onderzoek en de benoeming van een commis
 
 3. Het bepaalde in het eerste lid laat onverlet de belemmeringen in het verkeer tusschen raadsman en beschuldigde, welke door den rechter of het openbaar ministerie mochten zijn bevolen, indien de beschuldigde tevens ter zake van eenig strafbaar feit wordt vervolgd. Nochtans zal de beschuldigde, zoolang hem het vrij verkeer met zijn raadsman is belet, niet ter zitting van het Tribunaal worden gedagvaard.
 
-#### Artikel 32
+##### Artikel 32
 
 Het bepaalde in [artikel 29 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=29) is ten aanzien van den beschuldigde van overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Tijdens het voorbereidend onderzoek staat de secretaris zoowel aan den beschuldigde als aan diens raadsman op hun verzoek toe van de processtukken kennis te nemen.
 
@@ -410,17 +432,17 @@ Het bepaalde in [artikel 29 van het Wetboek van Strafvordering](https://wetten.o
 
 5. Het bepaalde in het Besluit orde van dienst gerechten ter voldoening aan [artikel 11 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=11) is van overeenkomstige toepassing.
 
-#### Artikel 34
+##### Artikel 34
 
 Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het belang van het onderzoek dit vordert, tot kennisneming en tot het bekomen van kosteloos afschrift van alle processtukken, welke bij eenig Nederlandsch gerecht of openbaar ministerie dan wel bij een ander Tribunaal berusten.
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. Een ieder is verplicht aan het Tribunaal de inlichtingen te verstrekken en de bescheiden over te leggen, waarvan de verstrekking of de overlegging door het Tribunaal voor de uitoefening van zijn taak noodig wordt geacht.
 
 2. Hij, die opzettelijk niet voldoet aan de verplichting omschreven in het vorige lid, dan wel door handelen of nalaten opzettelijk bewerkt of medebewerkt, dat aan die verplichting niet wordt voldaan, wordt als schuldig aan een misdrijf gestraft met gevangenisstraf van ten hoogste één jaar of geldboete van de derde categorie.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het Tribunaal en de commissaris zijn bevoegd door tusschenkomst van den advocaat-generaal bij het ressortsparket of van den officier van justitie aan de politie en door tusschenkomst van den procureur-fiscaal bij het Bijzondere Gerechtshof aan de politieke recherche-afdeelingen een onderzoek op te dragen en bevelen te geven.
 
@@ -432,13 +454,13 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 4. Het Tribunaal en de commissaris hebben gelijke bevoegdheid als in [artikel 147 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=147) aan het openbaar ministerie is toegekend.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Het Tribunaal, diens leden en de commissaris zijn bevoegd in de uitoefening hunner ambtsverrichtingen de hulp in te roepen van de openbare burgerlijke en gewapende macht. Deze zijn verplicht aan de vordering onmiddelijk gevolg te geven.
 
 2. Het bepaalde in de [artikelen 124](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=124) en [125 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=125) is van overeenkomstige toepassing.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien tegen den beschuldigde ernstige bezwaren blijken te bestaan en diens vrijheidsbeneming in het belang van het onderzoek of van de openbare orde of veiligheid dan wel wegens gevaar voor vlucht geboden blijkt te zijn, geeft het Tribunaal aan den procureur-fiscaal bij het Bijzondere Gerechtshof schriftelijk of mondeling kennis, dat de beschuldigde in bewaring dient te worden gesteld of gehouden. De kennisgeving is met redenen omkleed en wordt, indien zij mondeling is gedaan, ten spoedigste schriftelijk bevestigd.
 
@@ -446,19 +468,19 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 3. De procureur-fiscaal geeft een met redenen omkleede beschikking en doet hiervan schriftelijk mededeeling aan het Tribunaal en aan den beschuldigde.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien het Tribunaal of de commissaris het, na hieromtrent het oordeel van een of meer deskundigen te hebben ingewonnen, noodzakelijk acht, dat een onderzoek naar de geestvermogens van den in bewaring gestelden beschuldigde zal worden ingesteld, en dit niet voldoende op een andere wijze kan plaats hebben, kan het Tribunaal onderscheidenlijk de commissaris de in het voorgaande artikel bedoelde autoriteit verzoeken den beschuldigde te dien einde voor een termijn van ten hoogste zes weken te doen overbrengen naar een inrichting tot verpleging en genezing bestemd.
 
 2. Dit verzoek kan worden gedaan tegelijk met een kennisgeving, als bedoeld in het eerste of tweede lid van het voorgaande artikel.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Indien in het beheer van het vermogen of de nalatenschap van den beschuldigde overeenkomstig het Besluit Vijandelijk Vermogen niet reeds uit anderen hoofde daadwerkelijk is voorzien, terwijl van gegronde vrees voor verduistering of verwaarloozing daarvan en tevens van ernstige bezwaren tegen den beschuldigde blijkt, kan het Tribunaal in elken stand der zaak diens vermogen of nalatenschap onder bewind stellen met opdracht aan de hiervoor bij het Besluit Vijandelijk Vermogen aangewezen instantie om het bewind overeenkomstig de desbetreffende bepalingen van dat besluit te voeren.
 
 2. Het in het voorgaande lid bedoelde bewind kan door het Tribunaal te allen tijde worden opgeheven, tot een gedeelte van het vermogen of de nalatenschap van den beschuldigde worden beperkt of na zoodanige beperking wederom worden uitgebreid. Het eindigt van rechtswege, zoodra de zaak is geëindigd, in welke het Tribunaal de in het voorgaande lid bedoelde beslissing heeft gegeven, voor zoover het vermogen of de natalenschap van den beschuldigde niet is verbeurd verklaard.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het Tribunaal en de commissaris zijn bevoegd elk voorwerp in beslag te nemen of te doen nemen, dat kan dienen om de waarheid aan den dag te brengen.
 
@@ -468,7 +490,7 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 4. Nadat de zaak is geëindigd, draagt de secretaris zorg, dat de inbeslaggenomen voorwerpen worden afgegeven aan dengeen, bij wien zij inbeslaggenomen zijn, tenzij het Tribunaal anders mocht bepalen.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het Tribunaal kan, teneinde eenigen plaatselijken toestand of eenig voorwerp te schouwen, om ter inbeslagneming een onderzoek in te stellen of huiszoeking te doen of om den beschuldigde of een getuige of deskundige te hooren, met de personen, welke het macht aanwijzen, elke plaats betreden.
 
@@ -476,11 +498,11 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 3. Het bepaalde in de [artikelen 120, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=120), en [123 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=123) is van overeenkomstige toepassing.
 
-#### Artikel 42
+##### Artikel 42
 
 Voor zoover het belang van het onderzoek dit niet verbiedt, wordt van een voorgenomen schouw aan den beschuldigde en diens raadsman mondeling of schriftelijk kennis gegeven en worden deze toegelaten de schouw geheel of gedeeltelijk bij te wonen. Zij kunnen verzoeken, dat zij aanwijzingen mogen doen of inlichtingen mogen geven of dat bepaalde opmerkingen in het proces-verbaal worden vermeld.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Ten aanzien van de verhooren van den beschuldigde en van getuigen en deskundigen door het Tribunaal of den commissaris tijdens het voorbereidend onderzoek vinden de [artikelen 173](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=173), [174](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=174), [186](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=186) en [188-191 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=188) overeenkomstige toepassing.
 
@@ -488,13 +510,13 @@ Voor zoover het belang van het onderzoek dit niet verbiedt, wordt van een voorge
 
 3. Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan het Tribunaal of de commissaris bevelen, dat een aanwezige beschuldigde of getuige, die in vrijheid is, gedurende ten hoogste tweemaal vierentwintig uren in eene bij dat bevel aan te wijzen plaats in verzekering zal worden gesteld. Ten aanzien van den beschuldigde kan het bevel ook op de overige gronden, als bedoeld in [artikel 37, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=37&z=2015-01-01&g=2015-01-01), worden gegeven. Het bevel vermeldt de redenen, welke tot de inverzekeringstelling hebben geleid. Het kan door het Tribunaal éénmaal voor ten hoogste tweemaal vierentwintig uren worden verlengd.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Aan een verzoek van den beschuldigde om tijdens het voorbereidende onderzoek te worden gehoord, wordt door het Tribunaal of den commissaris zooveel mogelijk gevolg gegeven.
 
 2. Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de [artikelen 208, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=208), en [209 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=209), alsmede, indien het verhoor door den commissaris geschiedt, het bepaalde in het derde lid van eerstgemeld artikel van overeenkomstige toepassing.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De getuige, die door het Tribunaal of den commissaris wordt gehoord, wordt vóór zijn ondervraging door den voorzitter onderscheidenlijk den commissaris beëedigd, dat hij de geheele waarheid en niets dan de waarheid zal zeggen. [Artikel 216, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=216), betreffende de vervanging der beëediging door een aanmaning, is van overeenkomstige toepassing.
 
@@ -504,13 +526,13 @@ Voor zoover het belang van het onderzoek dit niet verbiedt, wordt van een voorge
 
 4. Een getuige, die bij zijn verhoor zonder wettigen grond weigert op de hem gestelde vragen te antwoorden of wel den eed of de belofte, die van hem gevorderd wordt, af te leggen, kan deswege overeenkomstig het bepaalde in het [derde lid van artikel 43](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=43&z=2015-01-01&g=2015-01-01) in verzekering worden gesteld. Indien de getuige daarna bij zijn weigering blijft volharden, kan het Tribunaal aan den procureur-fiscaal bij het Bijzondere Gerechtshof kennis geven, dat de getuige in bewaring dient te worden gesteld. Zoodra de dienvolgens in bewaring gestelde getuige aan zijne verplichting heeft voldaan, zijne getuigenis niet meer noodig is of de zaak is geëindigd, stelt het Tribunaal hiervan den procureur-fiscaal in kennis, die den getuige terstond in vrijheid doet stellen, tenzij tegen dezen bezwaren uit anderen hoofde gerezen zijn.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Het Tribunaal of de commissaris kan een of meer deskundigen benoemen, teneinde bij het onderzoek der zaak voorlichting of bijstand te verleenen, een bepaald onderzoek in te stellen en daaromtrent een met redenen omkleed verslag uit te brengen.
 
 2. De in het tweede lid van het voorgaande artikel genoemde bepalingen zijn ook ten aanzien van deskundigen en hun verhoor van overeenkomstige toepassing. Insgelijks is van overeenkomstige toepassing het bepaalde in de [artikelen 227, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=227), [228](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=228), [229](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=229), [230, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=230), [231](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=231) - behalve voor zoover daarin van den officier van justitie wordt gesproken - [235, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=235), en [236 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=236).
 
-#### Artikel 47
+##### Artikel 47
 
 1. Het Tribunaal beveelt, zoodra het dit geraden oordeelt, de dagvaarding van den beschuldigde om op een bij dat bevel te bepalen plaats, dag en uur ter zitting van het Tribunaal te verschijnen, teneinde zich ter zake van de bij het bevel zoo nauwkeurig mogelijk te omschrijven gedraging of gedragingen, waarvan hij beschuldigd wordt, te verantwoorden.
 
@@ -518,13 +540,13 @@ Voor zoover het belang van het onderzoek dit niet verbiedt, wordt van een voorge
 
 3. De secretaris draagt zorg, dat de dagvaarding aan den beschuldigde tijdig wordt beteekend. Hij geeft voorts van het bevel tot dagvaarding onverwijld schriftelijk kennis aan diens raadsman.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Indien overeenkomstig het bepaalde in het Besluit Vijandelijk Vermogen het vermogen of de nalatenschap van den beschuldigde onder beheer of bewind is gesteld, wordt de beheerder of bewindvoerder door de zorg van den secretaris tot dezelfde zitting als de beschuldigde schriftelijk opgeroepen of gedagvaard om hetzij in persoon, hetzij bij gemachtigde te verschijnen, teneinde inlichtingen te verstrekken omtrent het vermogen of de nalatenschap van den beschuldigde.
 
 2. De secretaris draagt tevens zorg voor de schriftelijke oproeping of dagvaarding van den echtgenoot of gewezen echtgenoot van den beschuldigde, waarmede deze op het tijdstip van het in werking treden van dit besluit of, indien hij voordien is overleden, op het tijdstip van zijn overlijden was gehuwd, zonder van tafel en bed te zijn gescheiden, teneinde ter zitting, in het eerste lid bedoeld, in verband met de mogelijke verbeurdverklaring van het vermogen of de nalatenschap van den beschuldigde omtrent zijne belangen te worden gehoord.
 
-#### Artikel 49
+##### Artikel 49
 
 De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde is beteekend en dien der zitting, waartoe hij is gedagvaard, moet verstrijken, bedraagt:
 
@@ -538,13 +560,13 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 - c. in alle andere gevallen tenminste drie maanden.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Zoolang het onderzoek der zaak ter zitting nog niet is aangevangen, kan het Tribunaal aan den beschuldigde de instrekking der dagvaarding doen beteekenen.
 
 2. De secretaris draagt zorg, dat de raadsman van den beschuldigde en de ingevolge het bepaalde in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) opgeroepen of gedagvaarde personen tijdig met de intrekking bekend worden gemaakt.
 
-#### Artikel 51
+##### Artikel 51
 
 1. De zitting van het Tribunaal wordt in het openbaar gehouden, voor zoover het Tribunaal niet om gewichtige, in het proces-verbaal der zitting te vermelden redenen mocht bevelen, dat het onderzoek geheel of gedeeltelijk met gesloten deuren zal plaats hebben.
 
@@ -556,7 +578,7 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 5. De behandeling der zaak ter zitting van het Tribunaal geschiedt voorts met inachtneming der volgende artikelen van dezen Titel, met dien verstande, dat elke bevoegdheid, ingevolge deze artikelen aan den beschuldigde toegekend, ook toekomt aan diens raadsman en dat in de gevallen, waarin ingevolge deze artikelen de toestemming of het hooren van den beschuldigde of diens raadsman wordt gevorderd, dit alleen geldt ten aanzien van den op de zitting aanwezigen beschuldigde.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Het onderzoek ter zitting wordt begonnen overeenkomstig het bepaalde in [artikel 278 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=278).
 
@@ -564,7 +586,7 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 3. Vervolgens worden processen-verbaal, verslagen van deskundigen en andere schriftelijke bewijsstukken voorgelezen, waarna de beschuldigde door den voorzitter wordt verhoord.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Op last van den voorzitter worden alle schriftelijke bewijsstukken voorgelezen, waarvan een der leden van het Tribunaal, de beschuldigde of zijn raadsman dit verlangt.
 
@@ -574,7 +596,7 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 4. De voorzitter geeft aan den beschuldigde op diens verzoek de gelegenheid om tegen de bewijsstukken en hun inhoud in te brengen, wat tot verdediging kan dienen.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de [artikelen 301](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=301) en [309 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=309) van overeenkomstige toepassing.
 
@@ -582,7 +604,7 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 3. Gedurende den verderen loop van het onderzoek kunnen den beschuldigde opnieuw vragen worden gedaan. Ook kunnen aan den beschuldigde reeds vóór zijn verhoor vragen worden gedaan, voor zoover de voorzitter niet met goedvinden van het Tribunaal bepaalt, dat eenige ondervraging van den beschuldigde tot diens verhoor zal worden aangehouden.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Na het verhoor van den beschuldigde en diens ondervraging, bedoeld in het tweede lid van het voorgaande artikel, kunnen op den voet van [artikel 53](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=53&z=2015-01-01&g=2015-01-01) opnieuw schriftelijke bewijsstukken worden voorgelezen en worden de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoelde personen, voor zoover zij aanwezig zijn, gehoord.
 
@@ -590,17 +612,17 @@ De termijn, welke tusschen den dag, waarop de dagvaarding aan den beschuldigde i
 
 3. Door de leden van het Tribunaal en den beschuldigde kunnen aan de in de beide voorgaande leden genoemde personen vragen worden gedaan. Het Tribunaal kan evenwel beletten, dat aan eenige vraag, door den beschuldigde of diens raadsman gedaan, gevolg wordt gegeven.
 
-#### Artikel 56
+##### Artikel 56
 
 Indien de beschuldigde of een der personen, in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoeld, de Nederlandsche taal niet verstaat of niet of slechts zeer gebrekkig hooren of spreken kan, vindt [artikel 191 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=191) overeenkomstige toepassing, met dien verstande, dat het daar ten aanzien van den rechter-commissaris bepaalde ten deze voor den voorzitter geldt.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Nadat overeenkomstig de [artikelen 52-55](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=52&z=2015-01-01&g=2015-01-01) is gehandeld, kan de beschuldigde het woord voeren.
 
 2. Daarna kunnen opnieuw schriftelijke bewijsstukken worden voorgelezen en aan den beschuldigde en de in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoelde personen vragen worden gedaan. Aan den beschuldigde wordt echter het recht gelaten om het laatst te spreken.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Het Tribunaal is bevoegd de beschuldiging tijdens het onderzoek ter zitting aan te vullen of te wijzigen.
 
@@ -610,13 +632,13 @@ Indien de beschuldigde of een der personen, in [artikel 48](https://wetten.overh
 
 4. Het Tribunaal kan zoowel bij den aanvang als gedurende den loop van het onderzoek, indien hiertoe termen aanwezig zijn, de nietigheid der dagvaarding uitspreken.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Indien aan het Tribunaal bij afwezigheid van een persoon, als in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoeld, blijkt, dat diens dagvaarding of oproeping niet of niet tijdig is geschied, of wel indien aan het Tribunaal de noodzakelijkheid blijkt van de overlegging van schriftelijke bewijsstukken of stukken van overtuiging, die niet ter zitting aanwezig zijn, beveelt het tegen een bepaald tijdstip de dagvaarding of schriftelijke oproeping van dien persoon of de overlegging van die stukken.
 
 2. Indien eenig nader onderzoek buiten de zitting noodig blijkt, schorst het Tribunaal, onder aanduiding van het onderwerp van dat onderzoek, de behandeling der zaak ter zitting tot den afloop daarvan. Het onderzoek geldt als voorbereidend onderzoek en wordt overeenkomstig de desbetreffende bepalingen van dezen Titel gevoerd.
 
-#### Artikel 60
+##### Artikel 60
 
 1. In alle gevallen, waarin het onderzoek wordt onderbroken of voor een bepaalden tijd geschorst, wordt door den voorzitter aan den aanwezigen beschuldigde en aan de aanwezige personen, in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoeld, mondeling aangezegd, wanneer en waar het onderzoek ter zitting zal worden hervat. Die aanzegging geldt als dagvaarding. Indien een der personen, in [artikel 48](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=48&z=2015-01-01&g=2015-01-01) bedoeld, bij de aanzegging niet aanwezig is, wordt bij, ingeval van schorsing, voor de nadere behandeling opnieuw gedagvaard of schriftelijk opgeroepen.
 
@@ -628,11 +650,11 @@ Indien de beschuldigde of een der personen, in [artikel 48](https://wetten.overh
 
 5. In alle gevallen, waarin schorsing van het onderzoek plaats heeft, wordt de zaak op de nadere zitting hervat in den stand, waarin zij zich op het tijdstip der schorsing bevond, voor zoover het Tribunaal niet mocht bepalen, dat de behandeling geheel of gedeeltelijk opnieuw worde aangevangen.
 
-#### Artikel 61
+##### Artikel 61
 
 Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaalde in [artikel 345 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=345).
 
-#### Artikel 62
+##### Artikel 62
 
 1. Indien onder de beraadslaging blijkt, dat het onderzoek niet volledig is geweest, kan het Tribunaal op de zitting bepalen, dat het onderzoek buiten de zitting zal worden hervat. Het bepaalde in den [tweeden zin van het tweede lid van artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=59&z=2015-01-01&g=2015-01-01) is van toepassing.
 
@@ -640,7 +662,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 3. In de gevallen, in de beide voorgaande leden bedoeld, wordt gehandeld, als ware het onderzoek ter zitting voor onbepaalden tijd geschorst.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Ingeval het Tribunaal oordeelt, dat de dagvaarding nietig behoort te worden verklaard, spreekt het deze nietigheid uit.
 
@@ -648,7 +670,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 3. Voor zoover het Tribunaal het in het voorgaande lid bedoelde bewijs niet aanneemt of indien het oordeelt, dat het bewezen verklaarde de oplegging van bijzondere maatregelen aan den beschuldigde niet wettigt, verklaart het de beschuldiging vervallen.
 
-#### Artikel 64
+##### Artikel 64
 
 1. De uitspraak behelst, voor zooveel mogelijk, naam, voornamen, dag en plaats van geboorte en beroep van den beschuldigde, alsmede diens woon- of verblijfplaats onderschiedenlijk, indien de beschuldigde overleden is, diens laatste woon- of verblijfplaats en dag en plaats van zijn overlijden. Tevens worden, voor zooveel mogelijk en van belang, opgegeven naam en voornamen van eenigen echtgenoot of gewezen echtgenoot van den beschuldigde.
 
@@ -658,7 +680,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 4. In geval van opplegging van een of meer bijzondere maatregelen bevat de uitspraak den inhoud der beschuldiging, de op redengevende feiten en omstandigheden steunende bewezenverklaring, dat de beschuldigde zich op de in de beschuldiging aangegeven wijze heeft gedragen, met den ter zake doenden inhoud of een aanduiding van de bewijsmiddelen, welke tot dat bewijs dienen, benevens de beslissing, dat het bewezen verklaarde de oplegging van een of meer bijzondere maatregelen wettigt, en de redenen, welke tot de opgelegde maatregelen hebben geleid. De beslissing, dat de beschuldigde geacht moet worden zich desbewust te hebben gedragen in strijd met de belangen van het Nederlandsche volk of desbewust afbreuk te hebben gedaan aan het verzet tegen den vijand en diens handlangers, behoeft op geen bepaalde bewijsmiddelen te steunen en alleen in zooverre met redenen te zijn omkleed, als die beslissing wordt gegeven in strijd met een te dien aanzien door den beschuldigde uitdrukkelijk voorgedragen en met redenen omkleed verweer.
 
-#### Artikel 65
+##### Artikel 65
 
 1. De uitspraak wordt door den voorzitter of door een der gewone leden, die dezelve hebben gewezen, in eene openbare zitting van het Tribunaal gegeven. Zij wordt zoo spoedig mogelijk onderteekend.
 
@@ -672,13 +694,13 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 ## Titel V. Van het fiat executie
 
-#### Artikel 66
+##### Artikel 66
 
 1. Een bijzondere maatregel is niet vatbaar voor tenuitvoerlegging dan nadat ten aanzien van dien maatregel op de uitspraak, houdende de oplegging daarvan, het fiat executie is verleend.
 
 2. Te dien einde stelt Onze Minister van Veiligheid en Justitie alle ingevolge [artikel 65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002009&titeldeel=IV&artikel=65&z=2015-01-01&g=2015-01-01), bij hem ingekomen uitspraken met de processtukken onverwijld in handen van den Raad van State.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Behoudens het bepaalde in het volgende lid neemt de vice-president van den Raad van State of diens plaatsvervanger kennis van de uitspraken, gewezen door de Tribunalen der arrondissementen, behoorende tot het rechtsgebied van het gerechtshof te Amsterdam, en nemen de overige leden van de afdeeling voor de geschillen van bestuur of hunne plaatsvervangers naar de orde van hun rang van ouderdom van dienst kennis van de uitspraken, gewezen door de Tribunalen der arrondissementen, behoorende tot het rechtsgebied onderscheidenlijk van het gerechtshof te 's-Gravenhage, van het gerechtshof te 's-Hertogenbosch, van het gerechtshof te Arnhem en van het gerechtshof te Leeuwarden.
 
@@ -686,13 +708,13 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 3. De afdeeling voor de geschillen van bestuur beraadslaagt telkens, wanneer de voorzitter dit geraden acht, over de richtlijnen, welke door de leden der afdeeling bij de door ieder hunner te nemen beslissingen dienen te worden gevolgd, teneinde daarbij tot de noodige eenheid te geraken.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Omtrent de verleening van fiat executie wordt zoo spoedig mogelijk beslist.
 
 2. Daarbij wordt uitsluitend op de uitspraak en de processtukken acht geslagen, zonder dat ter zake eenig verhoor wordt gehouden. Nochtans kan de beschuldigde een bezwaarschrift tegen de uitspraak bij den Raad van State indienen en kunnen aan het Tribunaal schriftelijk inlichtingen worden gevraagd.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Het fiat executie kan worden geweigerd op grond, dat het onderzoek der zaak door het Tribunaal niet deugdelijk is geweest of de uitspraak om een of meer andere gewichtige rendenen niet behoort in stand te blijven.
 
@@ -700,17 +722,17 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 3. Ingeval de uitspraak, waarbij de bijzondere maatregel van verbeurdverklaring is opgelegd, tot de kennisneming van de afdeeling voor de geschillen van bestuur in haar geheel behoort, is deze bevoegd ten aanzien van de uitgestrektheid der verbeurdverklaring bij de verleening van het fiat executie beperkingen te stellen.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Het fiat executie wordt verleend door het stellen op de uitspraak van een desbetreffende gedagteekende aanteekening, welke door den verleenenden Staatsraad onderscheidenlijk alle leden der afdeeling voor de geschillen van bestuur van den Raad van State wordt onderteekend. Voor zoover uit den inhoud dier aanteekening niet het tegendeel blijkt, wordt het fiat executie geacht op de geheele uitspraak betrekking te hebben.
 
 2. De weigering van het fiat executie wordt bij een afzonderlijk geschrift gedaan en met redenen omkleed.
 
-#### Artikel 71
+##### Artikel 71
 
 Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de zaak betrekkelijke stukken onverwijld wederom toegezonden aan Onze Minister van Veiligheid en Justitie, die deze doet toekomen aan het Tribunaal, dat de uitspraak heeft gewezen.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Een zaak, waarin bij beslissing van een Staatsraad het fiat executie geweigerd is, zal door het Tribunaal opnieuw in behandeling worden genomen.
 
@@ -722,41 +744,41 @@ Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de 
 
 ## Titel VI. Van verzoeken om invrijheidstelling
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 76a
+##### Artikel 76a
 
 Vervallen
 
 ## Titel VII. Slotbepalingen
 
-#### Artikel 77
+##### Artikel 77
 
 Ten aanzien van de ingevolge dit besluit voorgeschreven beteekeningen en andere mededeelingen is het bepaalde in de [artikelen 585-589 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=585) van overeenkomstige toepassing.
 
-#### Artikel 78
+##### Artikel 78
 
 In alle gevallen, waarin ingevolge de bepalingen van dit besluit bij de behandeling van zaken door het Tribunaal de inachtneming van bepaalde vormen of termijnen is voorgeschreven, heeft verzuim van den voorgeschreven vorm of niet-inachtneming van den gestelden termijn, ook indien daarop bij eenig toepasselijk verklaard artikel van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) nietigheid is gesteld, alleen dan nietigheid ten gevolge, indien het Tribunaal, gelet op de omstandigheden en de belangen van den ter zake betrokken persoon, tot de nietigverklaring termen aanwezig acht. Zooveel mogelijk draagt het Tribunaal zorg voor het herstel van het verzuim onder aanwijzing van de verrichtingen, welke daartoe opnieuw zullen geschieden.
 
-#### Artikel 79
+##### Artikel 79
 
 De bepalingen der wet van 18 April 1874 (**Staatsblad**, No. 66) tot vaststelling der tarieven van gerechtskosten in strafzaken, waarvan de gewone rechter kennis neemt, zooals deze wet sedert is gewijzigd, alsmede de bepalingen tot uitvoering dier wet zijn ten aanzien van de kosten in zaken, waarvan de Tribunalen kennis nemen, voor zooveel mogelijk en voor zoover door Ons niet anders mocht worden bepaaldt, van overeenkomstige toepassing.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Dit besluit, ten aanzien waarvan de bevoegdheid, bedoeld in artikel 9, tweede lid, van het Besluit op den bijzonderen staat van beleg, niet kan worden uitgeoefend, treedt in werking op den dag zijner afkondiging.
 

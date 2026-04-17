@@ -1,13 +1,38 @@
 ---
-title: "Regeling seinen luchtvaart"
+title: "Regeling houdende regels voor de luchtvaart voor het geven en ontvangen van seinen in nood, bij spoed, bij zoek- en reddingsacties en bij onderschepping (Regeling seinen luchtvaart)"
 identifier: "BWBR0016765"
-categorie: "Milieu"
-publicatiedatum: 2014-12-12
-laatste_update: 2014-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016765"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-12-12"
+last_updated: "2014-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016765"
+soort: "ministeriele-regeling"
+stam_id: "5896023"
+version_id: "10484802"
+internal_id: "C14237561"
+label_id: "5875964"
+original_entry_into_force: "2004-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016765/2014-12-12/0"
+intitule_bron: "Stcrt.2004-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-27"
+intitule_published: "2004-06-07"
+intitule_in_force: "2004-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-105"
+original_signed_date: "2004-05-27"
+original_published_date: "2004-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-105-p15-SC65253"
+entry_into_force_date: "2004-06-09"
+jci_1_3: "jci1.3:c:BWBR0016765&z=2014-12-12&g=2014-12-12"
+jci_1_0: "1.0:c:BWBR0016765&g=2014-12-12"
+citeertitel_status: "officieel"
+short_title: "Regeling seinen luchtvaart"
+signed_date: "2004-05-27"
+entry_into_force: "2004-06-09"
 ---
-
 # Regeling houdende regels voor de luchtvaart voor het geven en ontvangen van seinen in nood, bij spoed, bij zoek- en reddingsacties en bij onderschepping (Regeling seinen luchtvaart)
 
 Handelende in overeenstemming met de Minister van Defensie;
@@ -20,7 +45,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,65 +61,65 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Nood- en spoedseinen
 
-#### Artikel 2
+##### Artikel 2
 
 Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016765&bijlage=1&z=2014-12-12&g=2014-12-12) bij deze regeling, gebruikt. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen wordt gehandeld.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk 3. Zoek- en reddingsseinen; seinen bij onderschepping
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 ### Hoofdstuk 4. Seinen voor het luchthavenverkeer
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 De [Regeling seinen](https://wetten.overheid.nl/jci1.3:c:BWBR0006176) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling seinen luchtvaart.
 
@@ -404,7 +429,7 @@ e. Landen: De armen gekruist voor het lichaam naar beneden gestrekt.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op [artikel 6 van het Besluit luchtverkeer 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=6).
 

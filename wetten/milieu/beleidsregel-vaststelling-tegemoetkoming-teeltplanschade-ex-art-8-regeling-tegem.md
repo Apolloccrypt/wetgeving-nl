@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel vaststelling tegemoetkoming teeltplanschade ex art. 8 Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant (juli 2021)"
+title: "Beleidsregel van de Minister van Justitie en Veiligheid van 18 januari 2022, nr. 3789369, ten behoeve van de vaststelling van de tegemoetkoming in de teeltplanschade bedoeld in artikel 8 van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021"
 identifier: "BWBR0046247"
-categorie: "Milieu"
-publicatiedatum: 2022-01-28
-laatste_update: 2022-01-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046247"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-01-28"
+last_updated: "2022-01-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046247"
+soort: "beleidsregel"
+stam_id: "16248533"
+version_id: "28374632"
+internal_id: "C40018001"
+label_id: "16175804"
+dtd_version: "2.0"
+original_entry_into_force: "2022-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046247/2022-01-28/0"
+intitule_bron: "Stcrt.2022-2962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-18"
+intitule_published: "2022-01-28"
+intitule_in_force: "2022-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-2962"
+original_signed_date: "2022-01-18"
+original_published_date: "2022-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-2962"
+entry_into_force_date: "2022-01-28"
+jci_1_3: "jci1.3:c:BWBR0046247&z=2022-01-28&g=2022-01-28"
+jci_1_0: "1.0:c:BWBR0046247&g=2022-01-28"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel vaststelling tegemoetkoming teeltplanschade ex art. 8 Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant (juli 2021)"
+signed_date: "2022-01-18"
+entry_into_force: "2022-01-28"
 ---
-
 # Beleidsregel van de Minister van Justitie en Veiligheid van 18 januari 2022, nr. 3789369, ten behoeve van de vaststelling van de tegemoetkoming in de teeltplanschade bedoeld in artikel 8 van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant in juli 2021
 
 De Minister van Justitie en Veiligheid maakt bekend dat bij de vaststelling van de tegemoetkoming in de teeltplanschade, bedoeld in [artikel 8 van de Regeling tegemoetkoming waterschade in Limburg en het onbedijkte gebied langs de Maas in Noord-Brabant](https://wetten.overheid.nl/jci1.3:c:BWBR0045602&artikel=8) in juli 2021 (Staatscourant 2021, 40211), uitgegaan wordt van de in de bijlage opgenomen standaardopbrengst (SO-)normen per product per hectare.

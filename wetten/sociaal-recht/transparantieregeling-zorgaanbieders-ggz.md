@@ -1,13 +1,38 @@
 ---
 title: "Transparantieregeling zorgaanbieders ggz"
 identifier: "BWBR0047120"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047120"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047120"
+soort: "zbo"
+stam_id: "16474943"
+version_id: "28868142"
+internal_id: "C40871901"
+label_id: "16396914"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047120/2022-10-01/0"
+intitule_bron: "Stcrt.2022-23295"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-23"
+intitule_published: "2022-09-06"
+intitule_in_force: "2022-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23295"
+original_signed_date: "2022-08-23"
+original_published_date: "2022-09-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-23295"
+entry_into_force_date: "2022-10-01"
+jci_1_3: "jci1.3:c:BWBR0047120&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0047120&g=2022-10-01"
+citeertitel_status: "officieel"
+signed_date: "2022-08-23"
+entry_into_force: "2022-10-01"
 ---
-
 # Transparantieregeling zorgaanbieders ggz
 
 Ingevolge de [artikelen 38, leden 4 en 7](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38), [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg (Wmg)](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van de informatievoorziening van zorgaanbieders.

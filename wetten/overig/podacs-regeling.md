@@ -1,13 +1,38 @@
 ---
-title: "PODACS-regeling"
+title: "Regeling van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie, nrs. EIB99/N85874 en 791049/599/JvD, houdende aanwijzing en regels over het gebruik van het politie-datacommunicatiesysteem"
 identifier: "BWBR0010770"
-categorie: "Overig"
-publicatiedatum: 2025-09-04
-laatste_update: 2025-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010770"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-04"
+last_updated: "2025-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010770"
+soort: "ministeriele-regeling"
+stam_id: "4642803"
+version_id: "6459242"
+internal_id: "C6706121"
+label_id: "4621244"
+dtd_version: "2.0"
+original_entry_into_force: "1999-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010770/2025-09-04/0"
+intitule_bron: "Stcrt.1999-225"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-10-12"
+intitule_published: "1999-11-22"
+intitule_in_force: "1999-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-225"
+original_signed_date: "1999-10-12"
+original_published_date: "1999-11-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-11-24"
+jci_1_3: "jci1.3:c:BWBR0010770&z=2025-09-04&g=2025-09-04"
+jci_1_0: "1.0:c:BWBR0010770&g=2025-09-04"
+citeertitel_status: "officieel"
+short_title: "PODACS-regeling"
+signed_date: "1999-10-12"
+entry_into_force: "1999-11-24"
 ---
-
 # Regeling van de Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie, nrs. EIB99/N85874 en 791049/599/JvD, houdende aanwijzing en regels over het gebruik van het politie-datacommunicatiesysteem
 
 Gelet op [artikel 3 eerste en derde lid, van het Besluit beheer regionale politiekorpsen](https://wetten.overheid.nl/jci1.3:c:BWBR0006560&artikel=3);
@@ -16,13 +41,13 @@ Besluiten:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Gebruik van het PODACS
 
-#### Artikel 2
+##### Artikel 2
 
 1. De politie maakt bij de geautomatiseerde uitwisseling van gegevens door middel van draadgebonden telecommunicatievoorzieningen binnen de eigen organisatie en met de organisaties en instanties die worden genoemd in de bij deze regeling behorende bijlage, uitsluitend gebruik van het PODACS.
 
@@ -34,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien een verzoek als bedoeld in het tweede lid, onder a, door de minister wordt ingewilligd, wordt de toe te laten organisatie of instantie aan de in de bijlage van deze regeling opgenomen lijst van organisaties en instanties toegevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2025-09-04&g=2025-09-04), voor zover het betreft de Koninklijke Marechaussee, en in afwijking van [artikel 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2025-09-04&g=2025-09-04), voor zover het betreft de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten waaraan krachtens de [Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557) vergunning is verleend, mogen verbindingen van het regionale datacommunicatienetwerk van de politie met datacommunicatienetwerken van de Koninklijke Marechaussee en de regionale en gemeentelijke brandweerkorpsen en de ambulancediensten buiten het PODACS worden gerealiseerd onder de voorwaarden dat:
 
@@ -44,11 +69,11 @@ In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - c). door de korpschef voorzieningen worden getroffen teneinde logische scheiding als bedoeld in onderdeel b, zeker te stellen.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten behoeve van de geautomatiseerde uitwisseling van gegevens, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2025-09-04&g=2025-09-04), beschikt elke regionale eenheid en elke landelijke eenheid over minimaal twee koppelvlakken op het PODACS.
 
-#### Artikel 5
+##### Artikel 5
 
 De PODACS-beheerder draagt ervoor zorg dat het PODACS voldoet aan:
 
@@ -58,11 +83,11 @@ De PODACS-beheerder draagt ervoor zorg dat het PODACS voldoet aan:
 
 #### Paragraaf 3. Eisen aan het datacommunicatienetwerk van de politie
 
-#### Artikel 6
+##### Artikel 6
 
 De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie alleen voorziet in verbindingen tussen de onderscheidenlijke politielocaties.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2025-09-04&g=2025-09-04) van deze regeling kan de korpschef bepalen dat het datacommunicatienetwerk van de politie voorziet in verbindingen met:
 
@@ -90,7 +115,7 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 - d). de overeenkomstig dit artikel verleende autorisaties worden ten minste jaarlijks gecontroleerd en geëvalueerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien bij verbindingen, als bedoeld in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=6&z=2025-09-04&g=2025-09-04) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2025-09-04&g=2025-09-04), gebruik wordt gemaakt van kiesverbindingen worden er voorzieningen getroffen ter beveiliging van deze netwerktoegang tot het datacommunicatienetwerk van de politie.
 
@@ -104,7 +129,7 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 - d). jaarlijkse analyse van de vastgelegde netwerkhandelingen als bedoeld onder c.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De juiste werking van op basis van de [artikelen 2, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=2&z=2025-09-04&g=2025-09-04), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=2&artikel=3&z=2025-09-04&g=2025-09-04), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=7&z=2025-09-04&g=2025-09-04) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0010770&paragraaf=3&artikel=8&z=2025-09-04&g=2025-09-04), te treffen voorzieningen wordt periodiek door de politie gecontroleerd.
 
@@ -112,31 +137,31 @@ De korpschef draagt ervoor zorg dat het datacommunicatienetwerk van de politie a
 
 #### Paragraaf 4. PODACS componenten
 
-#### Artikel 10
+##### Artikel 10
 
 De korpschef draagt ervoor zorg dat PODACS componenten die zich binnen een politielocatie bevinden adequaat worden beveiligd tegen ongeautoriseerde fysieke toegang, het wegvallen van ondersteunende voorzieningen, brand, wateroverlast en natuurgeweld.
 
 #### Paragraaf 5. Maatregelen
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de korpschef niet of niet volledig toepassing geeft aan deze regeling, waardoor het beveiligingsniveau van het PODACS wordt of kan worden aangetast, kan de minister beveiligingsmaatregelen nemen.
 
 #### Paragraaf 6. Overgangs- en slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit berust op [artikel 23, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=23).
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: PODACS-regeling.
 

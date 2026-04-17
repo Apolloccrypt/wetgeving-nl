@@ -1,13 +1,39 @@
 ---
-title: "Dagloonbesluit werknemersverzekeringen"
+title: "Besluit van 22 mei 2013, houdende regels in verband met het vaststellen van het dagloon op grond van de Ziektewet, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen en de Wet op de arbeidsongeschiktheidsverzekering (Dagloonbesluit werknemersverzekeringen)"
 identifier: "BWBR0033471"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033471"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033471"
+soort: "AMvB"
+stam_id: "12272823"
+version_id: "23636182"
+internal_id: "C34026641"
+label_id: "12244454"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033471/2025-01-01/0"
+intitule_bron: "Stb.2013-185"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-22"
+intitule_published: "2013-05-30"
+intitule_in_force: "2013-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2016-390"
+original_signed_date: "2016-10-24"
+original_published_date: "2016-11-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-390"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0033471&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0033471&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Dagloonbesluit werknemersverzekeringen"
+signed_date: "2016-10-24"
+entry_into_force: "2017-01-01"
 ---
-
 # Besluit van 22 mei 2013, houdende regels in verband met het vaststellen van het dagloon op grond van de Ziektewet, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen en de Wet op de arbeidsongeschiktheidsverzekering (Dagloonbesluit werknemersverzekeringen)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 26 februari 2013, nr. IVV/2013/10006,
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In dit besluit wordt verstaan onder:
 
@@ -82,7 +108,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Bepalingen voor vaststelling WW-dagloon
 
-#### Artikel 2. Referteperiode voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 2. Referteperiode voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 1. Onder referteperiode wordt in dit hoofdstuk de periode verstaan van één jaar die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin het arbeidsurenverlies is ingetreden.
 
@@ -106,7 +132,7 @@ Hebben goedgevonden en verstaan:
 
 9. In afwijking van het achtste lid eindigt de referteperiode, indien de aanspraak op uitkering berust op [artikel 46 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46), op de laatste dag van het aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.
 
-#### Artikel 3. Loonbegrip voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 3. Loonbegrip voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 1. Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16), genoten in de referteperiode met dien verstande dat niet onder loon worden begrepen:
 
@@ -120,13 +146,13 @@ Hebben goedgevonden en verstaan:
 
 3. In dit hoofdstuk wordt, indien [artikel 18 van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=18) van toepassing is, onder loon tevens verstaan de som van het loon, bedoeld in het eerste en tweede lid, indien de werknemer bij één werkgever als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), meer elkaar opvolgende dienstbetrekkingen als bedoeld in [artikel 691 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691), heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding.
 
-#### Artikel 4. Algemene bepalingen over het loon voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 4. Algemene bepalingen over het loon voor [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 1. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover de werkgever van dat loon opgave heeft gedaan.
 
 2. Onder loon als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01) wordt mede begrepen het loon waarvan de werknemer aantoont dat dit in de referteperiode vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in de referteperiode een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in de referteperiode opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.
 
-#### Artikel 5. WW-dagloon
+##### Artikel 5. WW-dagloon
 
 1. Het dagloon van een uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) is de uitkomst van de volgende berekening:
 
@@ -178,7 +204,7 @@ H staat voor:
 
 - b. indien het uitkeringspercentage hoger is dan 70%, het uitkeringspercentage waarnaar het ziekengeld is berekend.
 
-#### Artikel 6. Loon in geval van verlof, ziekte of werkstaking tijdens een dienstbetrekking
+##### Artikel 6. Loon in geval van verlof, ziekte of werkstaking tijdens een dienstbetrekking
 
 1. Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof, ziekte of werkstaking tijdens de dienstbetrekking, wordt bij de berekening van het dagloon, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01), als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking in het laatste aan dat verlof, die werkstaking of die ziekte voorafgaande en volledig in de referteperiode gelegen aangiftetijdvak, waarin die omstandigheden zich niet hebben voorgedaan en waarin de werknemer het volledige aangiftetijdvak in dienstbetrekking tot de desbetreffende werkgever stond.
 
@@ -196,11 +222,11 @@ H staat voor:
 
 - b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering op grond van de ZW, vanwege de omstandigheden, bedoeld in het eerste lid.
 
-#### Artikel 7. ZW-dagloon van een uitkeringsgerechtigde en bij nawerking
+##### Artikel 7. ZW-dagloon van een uitkeringsgerechtigde en bij nawerking
 
 Vervallen
 
-#### Artikel 8. WW-dagloon van gewezen en gedeeltelijk arbeidsongeschikte werknemer
+##### Artikel 8. WW-dagloon van gewezen en gedeeltelijk arbeidsongeschikte werknemer
 
 1. Het WW-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) heeft ontvangen, is, indien die uitkering met ingang van de eerste werkloosheidsdag wordt ingetrokken op grond van [artikel 43, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=43), gelijk aan het laatstelijk geldende WAO-dagloon. Het WAO-dagloon van de werknemer die op de dag voorafgaande aan de eerste werkloosheidsdag een uitkering op grond van de WAO naar een arbeidsongeschiktheid van minder dan 80% heeft ontvangen, wordt in aanmerking genomen naar de mate waarin de uitkering, waarvoor het dagloon wordt vastgesteld, in de plaats is gekomen voor de uitkering op grond van de WAO.
 
@@ -228,7 +254,7 @@ B staat voor het midden van de arbeidsongeschiktheidsklasse die bij de vaststell
 
 9. De dagloonvaststelling op grond van het eerste lid is van overeenkomstige toepassing op de werknemer die voorafgaande aan de eerste werkloosheidsdag een arbeidsongeschiktheidsuitkering op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) ontvangt.
 
-#### Artikel 9. WW-dagloon bij niet toekennen of intrekken van invaliditeitsuitkering eu-lidstaat
+##### Artikel 9. WW-dagloon bij niet toekennen of intrekken van invaliditeitsuitkering eu-lidstaat
 
 1. In afwijking van [artikel 8, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), vindt de evenredige verlaging bij vaststelling respectievelijk hernieuwde vaststelling plaats overeenkomstig het tweede lid indien:
 
@@ -252,15 +278,15 @@ A staat voor het midden van de arbeidsongeschiktheidsklasse die bij de vaststell
 
 B staat voor de breuk die de verhouding weergeeft, bedoeld in het eerste lid, onderdeel b.
 
-#### Artikel 10. WW-dagloon bij opeenvolgend arbeidsurenverlies binnen het refertejaar uit dezelfde dienstbetrekking
+##### Artikel 10. WW-dagloon bij opeenvolgend arbeidsurenverlies binnen het refertejaar uit dezelfde dienstbetrekking
 
 Vervallen
 
-#### Artikel 11. WW-dagloon na overeengekomen vermindering van loon bij dezelfde werkgever
+##### Artikel 11. WW-dagloon na overeengekomen vermindering van loon bij dezelfde werkgever
 
 Vervallen
 
-#### Artikel 12. Algemene dagloongarantie [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 12. Algemene dagloongarantie [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 1. Het WW-dagloon van de werknemer die aansluitend op de beëindiging van een eerdere dienstbetrekking van ten minste één jaar, één of meerdere dienstbetrekkingen is aangegaan, waardoor geen recht op een WW-uitkering is ontstaan, wordt, bij beëindiging van deze nieuwe dienstbetrekkingen binnen 54 weken na die eerdere beëindiging, niet lager vastgesteld dan op het WW-dagloon dat zou hebben gegolden vanwege beëindiging van die eerdere dienstbetrekking.
 
@@ -268,7 +294,7 @@ Vervallen
 
 ### Hoofdstuk 2a. Bepalingen voor vaststelling ZW- en Wazo-dagloon
 
-#### Artikel 13. Referteperiode voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 13. Referteperiode voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 1. Onder referteperiode wordt in dit hoofdstuk de periode verstaan van één jaar die eindigt op de laatste dag van het aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de arbeidsongeschiktheid is ingetreden, of die eindigt, in geval de arbeidsongeschiktheid is ingetreden in gelijktijdige dienstbetrekkingen, op de laatste dag van het aangiftetijdvak dat het eerst voor het intreden van de arbeidsongeschiktheid is geëindigd.
 
@@ -276,7 +302,7 @@ Vervallen
 
 3. De referteperiode eindigt, indien de aanspraak op uitkering berust op [artikel 10 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=10) of op [artikel 17 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=17), in afwijking van het eerste lid, op de laatste dag van het aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.
 
-#### Artikel 14. Loonbegrip voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 14. Loonbegrip voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) met dien verstande dat niet onder loon wordt begrepen:
 
@@ -286,13 +312,13 @@ Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de
 
 - c. een uitkering op grond van [hoofdstuk IV van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV).
 
-#### Artikel 15. Algemene bepalingen over het loon voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
+##### Artikel 15. Algemene bepalingen over het loon voor [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524)
 
 1. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover een werkgever van dat loon opgave heeft gedaan.
 
 2. Onder loon als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01) wordt mede begrepen het loon waarvan de werknemer aantoont dat dit in de referteperiode vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in de referteperiode een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in de referteperiode opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.
 
-#### Artikel 16. WIA- en WAO-dagloon
+##### Artikel 16. WIA- en WAO-dagloon
 
 1. Het dagloon van uitkeringen op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) is de uitkomst van de volgende berekening:
 
@@ -344,7 +370,7 @@ H gelijk is aan de factor F, bedoeld in het derde lid.
 
 5. Indien een dienstbetrekking is geëindigd door wederzijds goedvinden van partijen, of opzegging, zonder inachtneming van de geldende opzegtermijn, wordt voor de toepassing van het eerste lid factor D verminderd met het aantal dagloondagen gedurende de periode tussen de laatste dag van die dienstbetrekking en de dag waarop de rechtens geldende opzegtermijn eindigt, voor zover die periode in de referteperiode ligt en worden de factoren A, B en C verminderd met al het loon genoten in de aangiftetijdvakken die volledig liggen binnen die periode.
 
-#### Artikel 17. Loon in geval van ziekte, verlof of werkstaking tijdens een dienstbetrekking
+##### Artikel 17. Loon in geval van ziekte, verlof of werkstaking tijdens een dienstbetrekking
 
 1. Indien de werknemer in een aangiftetijdvak in de referteperiode geen loon of minder loon heeft genoten in verband met verlof of werkstaking of omdat hij de bedongen arbeid niet heeft verricht wegens ziekte wordt bij de berekening van het dagloon, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=16&z=2025-01-01&g=2025-01-01), als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten bij dezelfde werkgever in het laatste aan dat verlof, die werkstaking of die ziekte, voorafgaande en volledig in de referteperiode gelegen aangiftetijdvak, waarin die omstandigheden zich niet hebben voorgedaan en waarin de werknemer het volledige aangiftetijdvak in dienstbetrekking tot de desbetreffende werkgever stond.
 
@@ -362,7 +388,7 @@ H gelijk is aan de factor F, bedoeld in het derde lid.
 
 - b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering in verband met de omstandigheden, bedoeld in het eerste lid.
 
-#### Artikel 18. Dagloon starter en herintreder
+##### Artikel 18. Dagloon starter en herintreder
 
 1. Het dagloon van de werknemer die vanaf de aanvang van de referteperiode tot en met de laatste dag van het eerste volledige aangiftetijdvak van dat jaar geen loon als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=14&z=2025-01-01&g=2025-01-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=15&z=2025-01-01&g=2025-01-01) heeft genoten, wordt vastgesteld door bij de toepassing van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=16&z=2025-01-01&g=2025-01-01), «261» te vervangen door: het aantal dagloondagen vanaf en met inbegrip van de dag waarop de dienstbetrekking is aangevangen tot en met de laatste dag van de referteperiode.
 
@@ -392,29 +418,29 @@ F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de arbeidsong
 
 4. Dit artikel is niet van toepassing indien de werknemer in verband met verlof geen loon heeft ontvangen.
 
-#### Artikel 19. WIA-dagloongarantie voor oudere arbeidsongeschikten
+##### Artikel 19. WIA-dagloongarantie voor oudere arbeidsongeschikten
 
 Indien een werknemer, die recht heeft op een uitkering op grond van de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), op of na de dag waarop hij de leeftijd van 45 jaar heeft bereikt, met arbeid inkomen is gaan verwerven in verband waarmee zijn uitkering op grond van de WAO of de Wet WIA is beëindigd, binnen vijf jaar na de datum waarop die uitkering is beëindigd recht heeft op een uitkering op grond van de Wet WIA, wordt het WIA-dagloon niet lager vastgesteld dan het WAO- of WIA-dagloon van de laatstelijk ontvangen uitkering op grond van de WAO of de Wet WIA. Het dagloon van de laatstelijk ontvangen uitkering als bedoeld in de eerste zin, wordt in aanmerking genomen, zoals dat zou zijn herzien vanaf de datum van beëindiging tot aan de datum van het nieuwe recht op uitkering op grond van [artikel 15, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=15), dan wel [artikel 14, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=14) indien de uitkering op grond van de WAO of de Wet WIA niet zou zijn beëindigd.
 
-#### Artikel 20. WIA-dagloon bij gedeeltelijke arbeidsongeschiktheid bij aanvang verzekering
+##### Artikel 20. WIA-dagloon bij gedeeltelijke arbeidsongeschiktheid bij aanvang verzekering
 
 Het WIA-dagloon van de werknemer, die gedeeltelijk arbeidsongeschikt is als bedoeld in [artikel 46, derde lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=46), zoals dat artikellid luidde op 31 december 2010, bedraagt ten hoogste het maatmaninkomen, dat op grond van dat artikellid, zoals dat luidde op 31 december 2010, wordt vastgesteld, vermenigvuldigd met het aantal uren van de urenomvang, bedoeld in [artikel 9, onderdeel b, van het Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478&artikel=9), gedeeld door vijf.
 
-#### Artikel 21. WIA-dagloon bij later ontstaan van recht dan einde wachttijd
+##### Artikel 21. WIA-dagloon bij later ontstaan van recht dan einde wachttijd
 
 In de gevallen waarin de [artikelen 48, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=48), en [55, eerste lid, onderdelen b en c, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=55) van toepassing zijn, wordt het WIA-dagloon niet lager vastgesteld dan het dagloon dat op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) in aanmerking zou zijn genomen als het recht op uitkering zou zijn ontstaan op de in [artikel 47, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=47), en [artikel 54, tweede lid van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=54) bedoelde dag, zoals dat dagloon vanaf die dag tot aan de datum van het recht op uitkering op grond van [artikel 14, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=14) zou zijn herzien, indien het recht op uitkering op grond van de Wet WIA op die dag zou zijn ontstaan.
 
-#### Artikel 22. Toepassingsbereik
+##### Artikel 22. Toepassingsbereik
 
 Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 23. Aanpassing dagloon in verband met herziening minimumloon
+##### Artikel 23. Aanpassing dagloon in verband met herziening minimumloon
 
 Indien het minimumloon is herzien tussen het einde van de referteperiode en de eerste dag waarop recht bestaat op een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) of de [WAZO](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) wordt de hoogte van het dagloon zoals berekend op grond van dit besluit aangepast in de mate waarin het minimumloon is herzien.
 
-#### Artikel 24. Verhoging dagloon en herziening dagloon voor een werknemer jonger dan 21 jaar bij aanvang van de referteperiode en bij aanvang uitkering
+##### Artikel 24. Verhoging dagloon en herziening dagloon voor een werknemer jonger dan 21 jaar bij aanvang van de referteperiode en bij aanvang uitkering
 
 1. Indien de werknemer:
 
@@ -438,7 +464,7 @@ B staat voor het minimumjeugdloonpercentage dat verbonden is aan de leeftijd van
 
 4. Indien de referteperiode, bedoeld in het eerste lid, is aangevangen voor 1 juli 2019, wordt bij toepassing van het eerste lid voor «21 jaar» gelezen: 22 jaar.
 
-#### Artikel 25. Maximering van het dagloon bij samenloop van uitkeringen
+##### Artikel 25. Maximering van het dagloon bij samenloop van uitkeringen
 
 1. Vanaf het moment waarop een werknemer gelijktijdig aanspraak gaat hebben op meer dan een uitkering en de som van de uitkeringen per dag meer bedraagt dan 70% van het bedrag, bedoeld in [artikel 17, eerste lid, tweede zin, van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17), met betrekking tot een loontijdvak van een dag, worden de aan die uitkeringen ten grondslag liggende daglonen zodanig vastgesteld of herzien dat de som van de evenredig verlaagde uitkeringen per dag niet meer bedraagt dan 70% van dat bedrag.
 
@@ -454,7 +480,7 @@ B staat voor het dagloon van de uitkering, waarvoor het uitkeringspercentage A g
 
 3. Indien een van de uitkeringen, bedoeld in het eerste of tweede lid, wordt beëindigd wegens het bereiken van de maximale uitkeringsduur, wordt het dagloon van de resterende uitkering of uitkeringen met ingang van de dag van de beëindiging herzien, voor zover van toepassing met inachtneming van het eerste en tweede lid.
 
-#### Artikel 26. Intrekken [Besluit dagloonregels werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018842)
+##### Artikel 26. Intrekken [Besluit dagloonregels werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018842)
 
 1. Het [Besluit dagloonregels werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0018842) wordt ingetrokken.
 
@@ -466,29 +492,29 @@ B staat voor het dagloon van de uitkering, waarvoor het uitkeringspercentage A g
 
 5. Het tweede lid is niet van toepassing op een dagloonherziening op grond van [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=40), of [48, derde lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=48).
 
-#### Artikel 27. Overgangsbepaling
+##### Artikel 27. Overgangsbepaling
 
 [Artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01) van het Dagloonbesluit werknemersverzekeringen zoals deze luidden op de dag voorafgaand aan de dag van de inwerkingtreding van artikel II, onderdelen A, C en D, maar met inachtneming van de wijzigingen in artikel II, onderdeel B, van het Besluit tot wijziging van het Besluit SUWI en enige andere besluiten in verband met gegevensverstrekking aan werkgevers en verzekeraars en enige andere technische wijzigingen, blijven van toepassing op een recht op uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), waarvan de eerste uitkeringsdag is gelegen voor de dag van die inwerkingtreding.
 
-#### Artikel 28. Grondslag
+##### Artikel 28. Grondslag
 
 Dit besluit berust mede op de [artikelen 1b, zesde lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=1b), [4:2b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b), en [6:3, vijfde lid, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3).
 
-#### Artikel 29. Intrekken [Besluit verlaagde wekeneis WW en Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019719)
+##### Artikel 29. Intrekken [Besluit verlaagde wekeneis WW en Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019719)
 
 Vervallen
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Dit besluit wordt aangehaald als: Dagloonbesluit werknemersverzekeringen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a. Werknemer
+##### Artikel 12a. Werknemer
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer:
 
@@ -498,7 +524,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer:
 
 - c. de werknemer, bedoeld in de [artikelen 4:2b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b), en [6:3, eerste lid, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3).
 
-#### Artikel 12b. Referteperiode voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 12b. Referteperiode voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 1. Onder referteperiode wordt in dit hoofdstuk verstaan de periode van een jaar die eindigt op de laatste dag van het tweede aangiftetijdvak voorafgaande aan het aangiftetijdvak waarin de ongeschiktheid tot werken, bedoeld in [artikel 29, derde lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=29), is ingetreden of waarin het recht op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), [artikel 4:2b van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [artikel 6:3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) is ontstaan.
 
@@ -508,7 +534,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer:
 
 4. Bij het vaststellen van het Wazo-dagloon van de persoon, wiens aanspraak op uitkering berust op [artikel 3:10 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:10) eindigt de referteperiode, in afwijking van het eerste lid, op de laatste dag van het tweede aangiftetijdvak voorafgaand aan het aangiftetijdvak waarin de verzekering is geëindigd.
 
-#### Artikel 12c. Loonbegrip voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 12c. Loonbegrip voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 1. Onder loon wordt in dit hoofdstuk verstaan loon in de zin van [artikel 16 van de Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16), genoten in de referteperiode uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [artikel 6:3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) is ontstaan, met dien verstande dat niet onder loon worden begrepen:
 
@@ -530,13 +556,13 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder werknemer:
 
 4. In dit hoofdstuk wordt onder loon tevens verstaan de som van het loon, bedoeld in het eerste, tweede en derde lid, indien de werknemer bij één werkgever als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=690), meer elkaar opvolgende dienstbetrekkingen als bedoeld in [artikel 691 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=691), heeft gehad en deze dienstbetrekkingen in de loonaangifte vanaf de aanvang van de eerste dienstbetrekking worden aangemerkt als één inkomstenverhouding.
 
-#### Artikel 12d. Algemene bepalingen over het loon voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
+##### Artikel 12d. Algemene bepalingen over het loon voor [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008)
 
 1. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht zijn loon te hebben genoten in het aangiftetijdvak waarover de werkgever van dat loon opgave heeft gedaan.
 
 2. Onder loon als bedoeld in [artikel 12c](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12c&z=2025-01-01&g=2025-01-01) wordt mede begrepen loon uit de dienstbetrekking waaruit de werknemer ziek is geworden of waaruit het recht op uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [artikel 6:3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) is ontstaan, en uit de daaraan voorafgaande dienstbetrekkingen, bedoeld in artikel 12c, tweede, derde en vierde lid, waarvan de werknemer aantoont dat dit in de referteperiode vorderbaar maar niet tevens inbaar is geworden. Voor de toepassing van dit hoofdstuk wordt de werknemer geacht dit loon te hebben genoten in het aangiftetijdvak waarin het vorderbaar is geworden. Indien in de referteperiode een uitkering is genoten, waarbij in het dagloon loon als bedoeld in de eerste zin is meegerekend, wordt, indien van dat loon in de referteperiode opgave is gedaan, dat loon bij de dagloonberekening buiten beschouwing gelaten.
 
-#### Artikel 12e. ZW- en Wazo-dagloon
+##### Artikel 12e. ZW- en Wazo-dagloon
 
 1. Het dagloon van uitkeringen op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) en de [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) is de uitkomst van de volgende berekening:
 
@@ -574,7 +600,7 @@ E staat voor het overeengekomen loon in het aangiftetijdvak waarin de ziekte is 
 
 F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is ingetreden of waaruit het recht op uitkering op grond van [hoofdstuk 3, afdeling 2, paragraaf 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&paragraaf=1), [artikel 4:2b](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:2b) of [artikel 6:3 van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:3) is ontstaan dan wel, indien het een aangiftetijdvak van een maand betreft, voor 21,75.
 
-#### Artikel 12f. Loon in geval van ziekte, verlof of werkstaking tijdens een dienstbetrekking
+##### Artikel 12f. Loon in geval van ziekte, verlof of werkstaking tijdens een dienstbetrekking
 
 1. Indien de werknemer in een aangiftetijdvak geen loon of minder loon heeft genoten in verband met verlof of werkstaking of omdat hij de bedongen arbeid niet heeft verricht in verband met ziekte, wordt bij de berekening van het dagloon, bedoeld in [12e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12e&z=2025-01-01&g=2025-01-01), als loon in dat aangiftetijdvak in aanmerking genomen het loon, genoten in dezelfde dienstbetrekking of in de opvolgende dienstbetrekkingen als bedoeld in [artikel 12c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12c&z=2025-01-01&g=2025-01-01), in het laatste aan dat verlof, die werkstaking of die ziekte, voorafgaande en volledig in de referteperiode gelegen aangiftetijdvak, waarin die omstandigheden zich niet hebben voorgedaan.
 
@@ -592,7 +618,7 @@ F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is 
 
 - b. gedurende het aangiftetijdvak, bedoeld in het eerste lid, het te vervangen loon mede bestaat uit een uitkering op grond van de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), vanwege de omstandigheden, bedoeld in het eerste lid.
 
-#### Artikel 12g. ZW-dagloon na eerder recht op uitkering
+##### Artikel 12g. ZW-dagloon na eerder recht op uitkering
 
 1. In afwijking van de [artikelen 12b tot en met 12f](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=12&z=2025-01-01&g=2025-01-01) wordt het ZW-dagloon van de persoon, wiens aanspraak op ziekengeld berust op [artikel 46 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=46), die tevens laatstelijk op grond van [artikel 8c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8c) verzekerd was, vastgesteld op het Wazo-dagloon.
 
@@ -600,7 +626,7 @@ F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is 
 
 3. In afwijking van de [artikelen 12b tot en met 12f](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12b&z=2025-01-01&g=2025-01-01) wordt het ZW-dagloon van de persoon die laatstelijk op grond van [artikel 8c van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=8c) verzekerd was, vastgesteld op het Wazo-dagloon.
 
-#### Artikel 12h. Wazo-dagloon in geval van een voorafgaande reguliere WW, ZW of WIA uitkering
+##### Artikel 12h. Wazo-dagloon in geval van een voorafgaande reguliere WW, ZW of WIA uitkering
 
 1. In afwijking van de [artikelen 12b tot en met 12f](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12b&z=2025-01-01&g=2025-01-01), wordt het dagloon van de gelijkgestelde, bedoeld in [artikel 3:6, eerste lid, onderdeel b, onder 1°, van de Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:6), die op de dag voorafgaande aan het ontstaan van het recht op een uitkering op grond van de [Wazo](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) als werknemer wordt aangemerkt op grond van [artikel 7, onderdeel a, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=7), vastgesteld op:
 
@@ -632,7 +658,7 @@ F staat voor het aantal dagloondagen in het aangiftetijdvak waarin de ziekte is 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 27a. Overgangsbepaling in verband met het Besluit van 24 oktober 2016 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met starters, stakingsdagen en 104 weken wachttijd Wet WIA (Stb. 2016, 390) en het Besluit van 4 december 2017 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met de conversie van het dagloon voor zogenoemde herlevers (Stb. 2017, 475)
+##### Artikel 27a. Overgangsbepaling in verband met het Besluit van 24 oktober 2016 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met starters, stakingsdagen en 104 weken wachttijd Wet WIA (Stb. 2016, 390) en het Besluit van 4 december 2017 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met de conversie van het dagloon voor zogenoemde herlevers (Stb. 2017, 475)
 
 1. Het Dagloonbesluit werknemersverzekeringen, zoals dat luidde op 30 november 2016, blijft van toepassing op uitkeringen waarvan de eerste rechtdag is gelegen voor 1 december 2016.
 
@@ -642,7 +668,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het eerste lid is niet van toepassing op de werknemer, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3a&artikel=22&z=2025-01-01&g=2025-01-01). Op die werknemer zijn de [artikelen 2, achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=2&z=2025-01-01&g=2025-01-01), en [5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01), zoals deze luidden op of na 1 december 2016, niet van toepassing, voor zover het een recht op uitkering betreft dat op of na 1 juli 2015 en voor 1 december 2016 is ontstaan.
 
-#### Artikel 27b. Overgangsbepaling in verband met het beperken van het toepassingsbereik van het met het Besluit van 20 juni 2018 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met een andere berekeningswijze van het WW-dagloon in het geval van een lager dagloon door ziekte in de referteperiode en enkele andere wijzigingen (Stb. 193) gewijzigde artikel 5, eerste lid
+##### Artikel 27b. Overgangsbepaling in verband met het beperken van het toepassingsbereik van het met het Besluit van 20 juni 2018 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met een andere berekeningswijze van het WW-dagloon in het geval van een lager dagloon door ziekte in de referteperiode en enkele andere wijzigingen (Stb. 193) gewijzigde artikel 5, eerste lid
 
 [Artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01), zoals dat luidt na de dag van inwerkingtreding van artikel I, onderdeel C, onder 1, van het Besluit van 20 juni 2018 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met een andere berekeningswijze van het WW-dagloon in het geval van een lager dagloon door ziekte in de referteperiode en enkele andere wijzigingen (Stb. 2018, 193) is niet van toepassing op de werknemer wiens WW-recht is ontstaan voor die dag van inwerkingtreding.
 
@@ -650,15 +676,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 3a. Overgangsbepalingen voor de vaststelling van het dagloon
 
-#### Artikel 22a. Algemene bepalingen
+##### Artikel 22a. Algemene bepalingen
 
 Vervallen
 
-#### Artikel 22b. Dagloon [artikel 22, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3a&artikel=22&z=2025-01-01&g=2025-01-01)
+##### Artikel 22b. Dagloon [artikel 22, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3a&artikel=22&z=2025-01-01&g=2025-01-01)
 
 Vervallen
 
-#### Artikel 22c. Vervallen [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3a&z=2025-01-01&g=2025-01-01)
+##### Artikel 22c. Vervallen [hoofdstuk 3a](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3a&z=2025-01-01&g=2025-01-01)
 
 Vervallen
 
@@ -666,7 +692,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 27c. Overgangsbepaling in verband met het beperken van het toepassingsbereik van wijzigingen in verband met ziekte in de referteperiode van het WW-dagloon
+##### Artikel 27c. Overgangsbepaling in verband met het beperken van het toepassingsbereik van wijzigingen in verband met ziekte in de referteperiode van het WW-dagloon
 
 1. De [artikelen 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), [5, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01), en [6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01), zoals deze luiden na de dag van inwerkingtreding van artikel I, onderdelen B, C, onder 2, en D, van het Besluit van 20 juni 2018 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met een andere berekeningswijze van het WW-dagloon in het geval van een lager dagloon door ziekte in de referteperiode en enkele andere wijzigingen (Stb. 2018, 193), zijn niet van toepassing op de werknemer:
 
@@ -688,19 +714,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het eerste lid is niet van toepassing op de werknemer wiens recht op een WW-uitkering is ontstaan voor 15 november 2017, maar waarvan de datum van de beschikking omtrent het ontstaan van dat recht op of na 15 november 2017 ligt.
 
-#### Artikel 27d. Overgangsbepaling in verband met het beperken van het toepassingsbereik van wijzigingen in verband met ziekte in de referteperiode van het ZW-dagloon
+##### Artikel 27d. Overgangsbepaling in verband met het beperken van het toepassingsbereik van wijzigingen in verband met ziekte in de referteperiode van het ZW-dagloon
 
 De [artikelen 12c tot en met 12f,](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12c&z=2025-01-01&g=2025-01-01) zoals deze luiden na de dag van inwerkingtreding van artikel I, onderdelen E tot en met H, van het Besluit van 20 juni 2018 tot wijziging van het Dagloonbesluit werknemersverzekeringen in verband met een andere berekeningswijze van het WW-dagloon in het geval van een lager dagloon door ziekte in de referteperiode en enkele andere wijzigingen (Stb. 2018, 193), zijn niet van toepassing op de werknemer wiens recht op ziekengeld is ontstaan voor die dag van inwerkingtreding.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 27e. Overgangsbepaling in verband met het beperken van het toepassingsbereik van de wijzigingen vanwege het arbeidsvoorwaardenbedrag
+##### Artikel 27e. Overgangsbepaling in verband met het beperken van het toepassingsbereik van de wijzigingen vanwege het arbeidsvoorwaardenbedrag
 
 1. De [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2&artikel=5&z=2025-01-01&g=2025-01-01), [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=2a&artikel=12e&z=2025-01-01&g=2025-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=16&z=2025-01-01&g=2025-01-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&hoofdstuk=3&artikel=18&z=2025-01-01&g=2025-01-01), zoals deze luidden op 31 december 2021, blijven van toepassing op uitkeringen waarvan de eerste rechtdag is gelegen voor 1 januari 2022.
 
 2. Onder eerste rechtdag, bedoeld in het eerste lid, wordt voor de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) de eerste dag van werkloosheid verstaan, voor de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) en [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) de dag dat recht op uitkering is ontstaan en voor de [ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) de eerste dag waarover het ziekengeld wordt uitgekeerd.
 
-#### Artikel 27f. Overgangsrecht invoering inkomstenverhouding
+##### Artikel 27f. Overgangsrecht invoering inkomstenverhouding
 
 Dit onderdeel is nog niet inwerking getreden
 

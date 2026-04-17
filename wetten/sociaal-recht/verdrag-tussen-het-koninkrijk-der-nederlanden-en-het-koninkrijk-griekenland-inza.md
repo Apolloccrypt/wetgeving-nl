@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland inzake sociale zekerheid"
 identifier: "BWBV0004471"
-categorie: "Sociaal recht"
-publicatiedatum: 1970-07-01
-laatste_update: 1970-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004471"
+country: "nl"
+rank: "verdrag"
+publication_date: "1970-07-01"
+last_updated: "1970-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004471"
+soort: "verdrag"
+stam_id: "10004152373"
+version_id: "10004322652"
+internal_id: "C10006999451"
+label_id: "10004138504"
+dtd_version: "2.0"
+original_entry_into_force: "1970-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004471/1970-07-01/0"
+intitule_bron: "Trb.1967-22"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-03-20"
+intitule_in_force: "1970-07-22"
+intitule_status: "goed"
+original_publication: "Trb.1967-22"
+original_published_date: "1967-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-22"
+entry_into_force_date: "1970-07-01"
+jci_1_3: "jci1.3:c:BWBV0004471&z=1970-07-01&g=1970-07-01"
+jci_1_0: "1.0:c:BWBV0004471&g=1970-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1970-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland inzake sociale zekerheid
 
 Hare Majesteit de Koningin der Nederlanden
@@ -30,7 +52,7 @@ die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, om
 
 ## TITEL I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing:
 
@@ -76,23 +98,23 @@ Dit Verdrag is van toepassing:
 
 4. De bevoegde autoriteiten in de zin van dit Verdrag zijn van Nederlandse zijde, de Minister van Sociale Zaken en Volksgezondheid en van Griekse zijde, de Minister van Arbeid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van dit Verdrag zijn van toepassing op de werknemers of daarmede gelijkgestelden, op wie de wettelijke regeling van één der Verdragsluitende Partijen van toepassing is of geweest is en die onderdaan zijn van één van die Partijen, alsmede op hun gezinsleden en hun nagelaten betrekkingen.
 
 2. De bepalingen van dit Verdrag zijn niet van toepassing op leden van diplomatieke en consulaire vertegenwoordigingen (met inbegrip van kanselarij-beambten, indien zij onderdaan zijn van de vertegenwoordigde Staat), noch op personen die tot het overheidspersoneel van een der Verdragsluitende Partijen behoren en die door hun Regering naar het grondgebied van de andere Partij worden gezonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De onderdanen van één der Verdragsluitende Partijen op wie de bepalingen van dit Verdrag van toepassing zijn, zijn onder dezelfde voorwaarden als de onderdanen van de andere Partij onderworpen aan de verplichtingen en gerechtigd tot de voordelen, voortvloeiende uit de in artikel 1 genoemde wettelijke regelingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Behoudens het bepaalde in artikel 25 kunnen de pensioenen of renten, met inbegrip van de bijslagen, verkregen op grond van de wettelijke regelingen van één der Verdragsluitende Partijen, niet verminderd, gewijzigd, geschorst, ingetrokken of verbeurd verklaard worden op grond van het feit, dat de rechthebbende woonachtig is op het grondgebied van de andere Verdragsluitende Partij dan die, op het grondgebied waarvan het orgaan dat de uitkering verschuldigd is zich bevindt.
 
 2. De sociale verzekeringsuitkeringen van één der Verdragsluitende Partijen worden aan de onderdanen van de andere Verdragsluitende Partij, die op het grondgebied van een derde Staat verblijven, onder dezelfde voorwaarden en tot dezelfde omvang uitbetaald als wanneer het onderdanen van de eerste Partij betrof, die op het grondgebied van die derde Staat verbleven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Krachtens de bepalingen van dit Verdrag kan geen recht worden uitgeoefend of gehandhaafd om op grond van de wettelijke regelingen van de Verdragsluitende Partijen meer dan één uitkering van dezelfde aard of verschillende uitkeringen, die betrekking hebben op eenzelfde tijdvak van verzekering of een daarmee gelijkgesteld tijdvak te genieten, behoudens indien het betreft de invaliditeits- en ouderdomsverzekering en de verzekering bij overlijden (pensioenen), wanneer deze tot verdeling van de lasten tussen de organen van beide Verdragsluitende Partijen leiden.
 
@@ -106,11 +128,11 @@ De onderdanen van één der Verdragsluitende Partijen op wie de bepalingen van d
 
 ## TITEL II. Bepalingen ter vaststelling van de van toepassing zijnde wetgeving
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd de bepalingen van deze Titel is op werknemers of daarmede gelijkgestelden, die werkzaam zijn op het grondgebied van één der Verdragsluitende Partijen, de wetgeving van deze Partij van toepassing, zelfs indien zij nog geacht worden te wonen op het grondgebied van de andere Partij of indien hun werkgever of de zetel van de onderneming waarbij zij in dienst zijn, zich op het grondgebied van de andere Partij bevindt.
 
-#### Artikel 7
+##### Artikel 7
 
 Op het beginsel vervat in het vorige artikel, gelden de volgende uitzonderingen:
 
@@ -118,13 +140,13 @@ Op het beginsel vervat in het vorige artikel, gelden de volgende uitzonderingen:
 
 - b. op werknemers of daarmede gelijkgestelden, die in dienst zijn van een onderneming welke voor rekening van anderen of voor eigen rekening personen of goederen per spoor, over de weg, door de lucht of te water vervoert, of de zeevisserij bedrijft en haar zetel heeft op het grondgebied van één der Verdragsluitende Partijen, en die als lid van het rijdend of varend personeel werkzaam zijn, is de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan de onderneming gevestigd is, van toepassing; indien echter de onderneming op het grondgebied van de andere Verdragsluitende Partij een filiaal of een duurzame vertegenwoordiging heeft, is op de daarbij werkzame werknemers de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan het filiaal of de duurzame vertegenwoordiging zich bevindt van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onverminderd het bepaalde in het tweede lid van artikel 2, is artikel 6 van toepassing op de werknemers of daarmede gelijkgestelden, die in diplomatieke of consulaire vertegenwoordigingen van de Verdragsluitende Partijen werkzaam zijn of in persoonlijke dienst van ambtenaren dier vertegenwoordigingen zijn.
 
 2. De in het eerste lid van dit artikel bedoelde werknemers, die onderdaan zijn van de Verdragsluitende Partij, welke door de desbetreffende diplomatieke of consulaire vertegenwoordiging wordt vertegenwoordigd, mogen evenwel binnen een termijn van zes maanden na aanvang van hun werkzaamheid of inwerkingtreding van dit Verdrag kiezen voor toepassing van de wetgeving van de vertegenwoordigde Staat.
 
-#### Artikel 9
+##### Artikel 9
 
 De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen voor bepaalde werknemers of groepen werknemers met betrekking tot de toepasselijke wetgeving in gemeen overleg uitzonderingen vaststellen op de bepalingen van de artikelen 6 tot en met 8 van dit Verdrag.
 
@@ -132,11 +154,11 @@ De bevoegde autoriteiten van de Verdragsluitende Partijen kunnen voor bepaalde w
 
 ### HOOFDSTUK EERSTE. Ziekte, moederschap en overlijden (begrafenisuitkering)
 
-#### Artikel 10
+##### Artikel 10
 
 Wanneer een werknemer of een daarmede gelijkgestelde achtereenvolgens of afwisselend aan de wettelijke regelingen van beide Verdragsluitende Partijen onderworpen is geweest, worden met het oog op het verkrijgen, het behoud of het herstel van het recht op uitkeringen of verstrekkingen de tijdvakken van verzekering of daarmede gelijkgestelde tijdvakken, vervuld krachtens de wettelijke regeling van elk der Verdragsluitende Partijen, voor zover zij niet samenvallen, samengeteld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De werknemer of de daarmede gelijkgestelde, die tijdvakken van verzekering of daarmede gelijkgestelde tijdvakken heeft vervuld krachtens de wettelijke regeling van één der Verdragsluitende Partijen en zich naar het grondgebied van de andere Verdragsluitende Partij begeeft, heeft voor zichzelf en voor zijn gezinsleden, die zich op dat grondgebied bevinden, recht op uitkeringen en verstrekkingen als voorzien in de wettelijke regeling van deze Verdragsluitende Partij, mits hij:
 
@@ -148,7 +170,7 @@ Wanneer een werknemer of een daarmede gelijkgestelde achtereenvolgens of afwisse
 
 2. Indien in de in het eerste lid van dit artikel bedoelde gevallen de werknemer of de daarmede gelijkgestelde niet aan de in de alinea's **a, b** en **c** van dat lid vermelde voorwaarden voldoet en wanneer bedoelde werknemer nog recht op uitkeringen of verstrekkingen ingevolge de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan hij het laatst verzekerd was, voordat hij van woonplaats veranderde, zou hebben, indien hij zich op laatstbedoeld grondgebied bevond, behoudt hij dat recht gedurende een tijdvak van 21 dagen te rekenen van de laatste dag waarop hij aan de verplichte verzekering van die Partij onderworpen was. Het orgaan van laatstbedoelde Partij kan het orgaan van de woonplaats verzoeken de verstrekkingen te verlenen overeenkomstig de wettelijke regeling, toegepast door laatstgenoemd orgaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een werknemer of een daarmede gelijkgestelde, die aangesloten is bij een orgaan van een der Verdragsluitende Partijen en woonachtig is op het grondgebied van die Partij, heeft recht op uitkeringen of verstrekkingen gedurende een tijdelijk verblijf op het grondgebied van de andere Verdragsluitende Partij, wanneer zijn gezondheidstoestand onmiddellijke geneeskundige behandeling, met inbegrip van opname in een ziekenhuis, noodzakelijk maakt.
 
@@ -162,7 +184,7 @@ Wanneer een werknemer of een daarmede gelijkgestelde achtereenvolgens of afwisse
 
 6. De bepalingen van de vorige leden zijn van overeenkomstige toepassing op de gezinsleden, wanneer zij tijdelijk op het grondgebied van de andere Verdragsluitende Partij verblijven of wanneer zij hun woonplaats overbrengen naar het grondgebied van de andere Verdragsluitende Partij, nadat zij ziek of zwanger zijn geworden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De gezinsleden van een werknemer of een daarmede gelijkgestelde, die is aangesloten bij een orgaan van een der Verdragsluitende Partijen, genieten, indien zij woonachtig zijn op het grondgebied van de andere Partij, verstrekkingen, alsof de werknemer bij het orgaan van hun woonplaats was aangesloten. De omvang, duur en wijze van verlening van bedoelde verstrekkingen worden vastgesteld volgens de bepalingen van de wettelijke regeling, welke dat orgaan toepast.
 
@@ -172,11 +194,11 @@ Wanneer een werknemer of een daarmede gelijkgestelde achtereenvolgens of afwisse
 
 4. als gezinsleden in de zin van de vorige leden worden beschouwd personen, die ingevolge de wettelijke regeling van de Verdragsluitende Partij op het grondgebied waarvan zij wonen, als zodanig worden beschouwd.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkgestelde of een lid van zijn gezin op grond van de wettelijke regelingen van beide Verdragsluitende Partijen recht op moederschapsuitkeringen zou kunnen doen gelden, is op de belanghebbende van toepassing de wettelijke regeling welke van kracht is op het grondgebied van de Verdragsluitende Partij, waar de geboorte heeft plaatsgevonden, waarbij, voor zover noodzakelijk, rekening wordt gehouden met de samentelling van tijdvakken, bedoeld in artikel 10 van dit Verdrag.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Wanneer de rechthebbende op pensioenen of renten, verschuldigd krachtens de wettelijke regeling van beide Verdragsluitende Partijen, woonachtig is op het grondgebied van één dier Partijen en hij volgens de wettelijke regeling van deze Partij recht op verstrekkingen heeft, worden deze aan hemzelf en aan zijn gezinsleden verleend door het orgaan van zijn woonplaats, alsof hij in het genot was van een pensioen of rente, uitsluitend verschuldigd op grond van de wettelijke regeling van het land van zijn woonplaats. Genoemde verstrekkingen komen ten laste van het orgaan van de woonplaats.
 
@@ -184,13 +206,13 @@ Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkg
 
 3. Indien, ter dekking van de verstrekkingen, de wettelijke regeling van een Verdragsluitende Partij voorziet in premie- of bijdrage-inhoudingen ten laste van degenen, die een pensioen of rente geniet, is het orgaan, dat het pensioen of de rente verschuldigd is en tot welks last de verstrekkingen komen, gemachtigd in de in dit artikel bedoelde gevalen tot die inhoudingen over te gaan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De verstrekkingen verleend krachtens artikel 11, lid 2, artikel 12, leden 1, 2 en 6, artikel 13, lid 1, en artikel 15, lid 2, van dit Verdrag worden door de bevoegde organen vergoed aan de organen, welke deze hebben verleend.
 
 2. De vergoeding wordt vastgesteld en vindt plaats overeenkomstig de in een tussen de bevoegde autoriteiten te sluiten administratief akkoord vast te stellen regelen; de vergoeding kan betaald worden door middel van vaste bedragen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer een werknemer of een daarmede gelijkgestelde, die onderworpen is aan de wettelijke regeling van de ene Verdragsluitende Partij, of een rechthebbende op een pensioen of rente, dan wel een gezinslid overlijdt op het grondgebied van de andere Partij, wordt het overlijden geacht te hebben plaatsgevonden op het grondgebied van eerstgenoemde Partij.
 
@@ -200,7 +222,7 @@ Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkg
 
 ### AFDELING 1. Algemene bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Wanneer een verzekerde achtereenvolgens of afwisselend aan de wettelijke regelingen beide Verdragsluitende Partijen onderworpen is geweest, worden met het oog op het verkrijgen, het behoud of het herstel van het recht op uitkeringen de tijdvakken van verzekering of de daarmede gelijkgestelde tijdvakken, vervuld krachtens de wettelijke regeling van elk der Verdragsluitende Partijen, voor zover zij niet samenvallen, samengeteld.
 
@@ -208,7 +230,7 @@ Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkg
 
 3. Indien de tijdvakken van verzekering en de daarmede gelijkgestelde tijdvakken krachtens de wettelijke regeling van één der Verdragsluitende Partijen in totaal geen zes maanden vormen, wordt geen enkele uitkering ingevolge die wettelijke regeling toegekend; in dat geval worden met het oog op het verkrijgen, het behoud en het herstel van het recht op uitkeringen van de zijde van de andere Verdragsluitende Partij bedoelde tijdvakken in aanmerking genomen doch niet voor de vaststelling van het volgens artikel 19, lid 1, alinea **b**, van dit Verdrag verschuldigde pro-ratabedrag. Deze bepaling is evenwel niet van toepassing, indien het recht op uitkeringen wordt verkregen krachtens de wettelijke regeling van eerstbedoelde Partij, alleen op grond van tijdvakken, vervuld ingevolge die wettelijke regeling.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De uitkeringen waarop een verzekerde, als bedoeld in artikel 18 van dit Verdrag of zijn nagelaten betrekkingen, op grond van de wettelijke regelingen van de Verdragsluitende Partijen krachtens welke de verzekerde tijdvakken van verzekering of daarmede gelijkgestelde tijdvakken heeft vervuld, aanspraak kunnen maken, worden op de volgende wijze vastgesteld:
 
@@ -228,7 +250,7 @@ Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkg
 
 ### AFDELING 2. Bijzondere bepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. De werknemer of de daarmede gelijkgestelde, die verzekerd is ingevolge de Nederlandse wettelijke regelingen inzake de algemene ouderdomsverzekering en de algemene weduwen- en wezen verzekering, blijft verzekerd gedurende elk tijdvak van tijdelijke of blijvende ongeschiktheid tot werken, veroorzaakt door een ziekte, bedrijfsongeval of beroepsziekte, waarvoor een uitkering van Nederlandse zijde wordt genoten, indien de ongeschiktheid tot werken tenminste 50% bedraagt, zelfs indien hij zijn woonplaats overbrengt naar het grondgebied van Griekenland, mits hij aldaar geen werkzaamheden als werknemer of als zelfstandige is gaan verrichten.
 
@@ -238,27 +260,27 @@ Indien bij de toepassing van dit hoofdstuk een werknemer of een daarmede gelijkg
 
 - b. gedurende hetwelk zij op grond van een zodanige regeling een ouderdomspensioen geniet.
 
-#### Artikel 21
+##### Artikel 21
 
 De Nederlandse organen mogen de pensioenen krachtens de algemene ouderdomsverzekering en de renten krachtens de verzekering inzake invaliditeit, ouderdom en vroegtijdig overlijden voor werknemers, alsmede de procentuele bijslagen op deze renten, rechtstreeks en uitsluitend berekenen op basis van de tijdvakken van verzekering en daarmede gelijkgestelde tijdvakken, vervuld krachtens de betreffende wettelijke regeling.
 
-#### Artikel 22
+##### Artikel 22
 
 1. In het geval, dat een werknemer of een daarmede gelijkgestelde achtereenvolgens of afwisselend onderworpen is geweest aan de wettelijke regelingen genoemd in artikel 1, onder **a**, cijfer 4 en onder **b**, cijfers 1 en 2, kunnen zijn nabestaanden uitsluitend aanspraak maken op de uitkeringen ingevolge de wetelijke regeling, waaraan de werknemer ten tijde van zijn overlijden onderworpen was.
 
 2. Wanneer de werknemer laatstelijk onderworpen is geweest aan de Griekse wettelijke regeling, genoemd in artikel 1, onder **b**, cijfers 1 en 2, worden de tijdvakken van verzekering en de daarmede gelijkgestelde tijdvakken, vervuld krachtens de Nederlandse wettelijke regeling, genoemd in artikel 1, onder **a**, cijfer 4, en krachtens de Nederlandse wettelijke regeling, genoemd in artikel 1, onder **a**, cijfer 2, voorzover zij vóór 1 oktober 1959 liggen, voor de berekening en vaststelling van het recht op uitkering ingevolge de Griekse wettelijke regeling eveneens in aanmerking genomen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De in de Nederlandse wettelijke regeling inzake de algemene ouderdomsverzekering bedoelde overgangspensioenen voor personen die op 1 januari 1957 de 65-jarige leeftijd reeds bereikt hadden, worden aan Griekse onderdanen onder dezelfde voorwaarden toegekend als aan Nederlandse onderdanen.
 
 2. De in de Nederlandse wettelijke regeling inzake de algemene ouderdomsverzekering bedoelde overgangsvoordelen voor personen die op 1 januari 1957 tussen 15 en 65 jaar oud waren, worden aan Griekse onderdanen onder dezelfde voorwaarden toegekend als aan Nederlandse onderdanen.
 
-#### Artikel 24
+##### Artikel 24
 
 De uit de overgangsbepalingen van de Nederlandse wettelijke regeling inzake de algemene weduwen- en wezenverzekering voortvloeiende voordelen op grond van een overlijden, dat plaatsvond vóór 1 oktober 1959 worden aan Griekse onderdanen onder dezelfde voorwaarden toegekend als aan Nederlandse onderdanen.
 
-#### Artikel 25
+##### Artikel 25
 
 Het bepaalde in artikel 4, eerste lid, van dit Verdrag is niet van toepassing:
 
@@ -266,7 +288,7 @@ Het bepaalde in artikel 4, eerste lid, van dit Verdrag is niet van toepassing:
 
 - b. op de in de vorige artikelen bedoelde, aan Nederlandse onderdanen toegekende overgangspensioenen en -voordelen.
 
-#### Artikel 26
+##### Artikel 26
 
 Wanneer een werknemer of een daarmede gelijkgestelde vóór het bereiken van de 35-jarige leeftijd ingevolge de Griekse wettelijke regeling verplicht verzekerd is geweest en vervolgens in Nederland arbeid in loondienst of daarmede gelijkgestelde arbeid verricht:
 
@@ -278,11 +300,11 @@ Wanneer een werknemer of een daarmede gelijkgestelde vóór het bereiken van de 
 
 ### HOOFDSTUK DERDE. Arbeidsongevallen en beroepsziekten
 
-#### Artikel 27
+##### Artikel 27
 
 Indien de wettelijke regeling van één der Verdragsluitende Partijen met betrekking tot de vaststelling van de graad van ongeschiktheid in geval van een arbeidsongeval of beroepsziekte uitdrukkelijk of stilzwijgend bepaalt, dat arbeidsongevallen of beroepsziekten, welke zich op een vroeger tijdstip hebben voorgedaan, in aanmerking worden genomen, dan worden de arbeidsongevallen en broepsziekten welke zich op een vroeger tijdstip onder de wettelijke regeling van de andere Verdaagsluitende Partij hebben voorgedaan, eveneens in aanmerking genomen alsof zij zich onder de wettelijke regeling van eerstbedoelde Partij hebben voorgedaan.
 
-#### Artikel 28
+##### Artikel 28
 
 Indien een werknemer of een daarmede gelijkgestelde, die van de zijde van het bevoegde orgaan van één der Verdragsluitende Partijen in het genot is gesteld van een schadeloosstelling wegens een beroepsziekte, terzake van een beroepsziekte van dezelfde aard rechten doet gelden op schadeloosstelling krachtens de wettelijke regeling van de andere Partij, dient hij aan het bevoegde orgaan van laatstbedoelde Partij de nodige inlichtingen te verstrekken, met betrekking tot vroeger reeds ter schadeloosstelling van de betreffende beroepsziekte verleende uitkeringen.
 
@@ -290,7 +312,7 @@ Het orgaan, dat de nieuwe uitkeringen moet betalen, zal met de vroegere uitkerin
 
 ### HOOFDSTUK VIERDE. Werkloosheid
 
-#### Artikel 29
+##### Artikel 29
 
 1. Wanneer een verzekerde achtereenvolgens of afwisselend aan de wettelijke regelingen van beide Verdragsluitende Partijen onderworpen is geweest, worden met het oog op het verkrijgen, het behoud of het herstel van het recht op uitkeringen de tijdvakken van verzekering en de daarmede gelijkgestelde tijdvakken, vervuld krachtens de wettelijke regeling van elk der Verdragsluitende Partijen, voorzover zij niet samenvallen, samengeteld.
 
@@ -300,7 +322,7 @@ Het orgaan, dat de nieuwe uitkeringen moet betalen, zal met de vroegere uitkerin
 
 - b. voldoet aan de door de wettelijke regeling van deze Verdragsluitende Partij gestelde voorwaarden, de in het vorige lid bedoelde samentelling van tijdvakken in aanmerking genomen.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een werkloze, die krachtens de wettelijke regeling van een der Verdragsluitende Partijen recht op uitkering heeft verkregen en vervolgens zijn woonplaats naar het grondgebied van de andere Verdragsluitende Partij overbrengt, behoudt dit recht ten hoogste voor het tijdvak gedurende hetwelk hij recht op uitkering zou hebben krachtens de wettelijke regeling van het land waar hij het laatst werkzaam is geweest. Vóór de overbrenging van zijn woonplaats moet de werkloze van deze overbrenging mededeling doen aan het bevoegde orgaan van het land waar hij het laatst werkzaam is geweest.
 
@@ -310,11 +332,11 @@ Het orgaan, dat de nieuwe uitkeringen moet betalen, zal met de vroegere uitkerin
 
 ### HOOFDSTUK VIJFDE. Kinderbijslagen
 
-#### Artikel 31
+##### Artikel 31
 
 Indien de wettelijke regeling van één der Verdragsluitende Partijen het verkrijgen van het recht op kinderbijslag afhankelijk stelt van de vervulling van tijdvakken van verzekering of daarmede gelijkgestelde tijdvakken, houdt het bevoegde orgaan van deze Partij, voor zover zulks noodzakelijk is, rekening met alle op het grondgebied van elk der Verdragsluitende Partijen vervulde tijdvakken.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Indien een werknemer of een daarmede gelijkgestelde, die verzekerd is krachtens de wettelijke regeling van een der Verdragsluitende Partijen, kinderen heeft die op het grondgebied van de andere Partij woonachtig zijn dan wel daar worden opgevoed, heeft hij, met inachtneming eventueel van de in het vorige artikel bedoelde samentelling van tijdvakken, voor deze kinderen recht op kinderbijslag overeenkomstig de wettelijke regeling van eerstbedoelde Verdragsluitende Partij, zelfs indien deze werknemer op het grondgebied van de andere Partij woont.
 
@@ -324,7 +346,7 @@ Indien de wettelijke regeling van één der Verdragsluitende Partijen het verkri
 
 ## TITEL IV. Diverse bepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 1. De bevoegde autoriteiten:
 
@@ -336,41 +358,41 @@ Indien de wettelijke regeling van één der Verdragsluitende Partijen het verkri
 
 2. De bevoegde autoriteiten kunnen in gemeen overleg bijzondere bepalingen vaststellen ten einde ten behoeve van afzonderlijke groepen van werknemers, met name ten behoeve van de zeelieden en van personen die in dienst zijn van ondernemingen welke een steenkolenmijn exploiteren, zo nodig nadere regelingen te treffen.
 
-#### Artikel 34
+##### Artikel 34
 
 Bij de toepassing van dit Verdrag zijn de autoriteiten en organen, die belast zijn met de uitvoering van dit Verdrag, elkaar behulpzaam; zij handelen als betrof het de toepassing van hun eigen wetgeving,
 
-#### Artikel 35
+##### Artikel 35
 
 1. De vrijstelling of verlaging van rechten, zegelrechten, griffie- of registratierechten, geregeld bij de wetgeving van één der Verdragsluitende Partijen met betrekking tot de bescheiden of documenten, welke ter uitvoering van de wetgeving van deze Partij moeten worden overgelegd, wordt uitgebreid tot de overeenkomstige bescheiden en documenten, welke dienen te worden overgelegd ter uitvoering van de wetgeving van de andere Verdragsluitende Partij of van dit Verdrag.
 
 2. Alle akten, documenten en bescheiden van welke aard dan ook, welke dienen te worden overgelegd voor de uitvoering van dit Verdrag, zijn vrijgesteld van legalisatie door diplomatieke of consulaire autoriteiten en van kanselarijrechten.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Voor de toepassing van dit Verdrag voeren de organen rechtstreeks briefwisseling met elkaar in de Franse taal.
 
 2. De organen en autoriteiten van één der Verdragsluitende Partijen mogen de verzoekschriften of andere documenten, welke tot hen worden gericht, niet afwijzen op grond van het feit dat zij zijn gesteld in de officiële taal van de andere Verdragsluitende Partij.
 
-#### Artikel 37
+##### Artikel 37
 
 Aanvragen, verklaringen of beroepschriften, welke voor de uitvoering van de wetgeving van één der Verdragsluitende Partijen binnen een bepaalde termijn moeten worden ingediend bij een autoriteit, orgaan of ander lichaam van die Partij, kunnen binnen dezelfde termijn bij een overeenkomstige autoriteit, orgaan of ander lichaam van de andere Partij worden ingediend.
 
 In dat geval zal een aldus ingeschakelde autoriteit, orgaan of lichaam onverwijld deze aanvragen, verklaringen of beroepschriften doen toekomen aan de bevoegde autoriteit, het bevoegde orgaan of het bevoegde lichaam van eerstbedoelde Partij, hetzij rechtstreeks, hetzij door bemiddeling van de bevoegde autoriteiten van de Verdragsluitende Partijen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De organen van een Verdragsluitende Partij welke uit hoofde van dit Verdrag uitkeringen in geld verschuldigd zijn aan rechthebbenden, die zich op het grondgebied van de andere Verdragsluitende Partij bevinden, kunnen het verschuldigde rechtens voldoen in de munt van eerstbedoelde Partij; wanneer zij gelden verschuldigd zijn aan organen, die zich op het grondgebied van de andere Verdragsluitende Partij bevinden, moeten zij die gelden betalen in de munt van deze Partij.
 
 2. Het overmaken van gelden, voortvloeiende uit de toepassing van dit Verdrag, heeft plaats krachtens de overeenkomsten welke terzake op het tijdstip van de overmaking tussen de beide Verdragsluitende Partijen van kracht zijn.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Over elk geschil tussen de Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag wordt rechtstreeks tussen de bevoegde autoriteiten van de Verdragsluitende Partijen onderhandeld.
 
 2. Indien het geschil op deze wijze niet binnen een termijn van zes maanden te rekenen van de aanvang van de onderhandelingen opgelost kan worden, wordt het voorgelegd aan een scheidsrechterlijke commissie, waarvan de samenstelling en de procedure in een overeenkomst tussen de Verdragsluitende Partijen worden vastgelegd. De scheidsrechterlijke commissie moet het geschil beslechten volgens de grondbgeinselen en de geest van dit Verdrag. Haar beslissingen zijn bindend en niet vatbaar voor beroep.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Wanneer een orgaan van een Verdragsluitende Partij aan een rechthebbende op uitkeringen een voorschot heeft betaald kan dit orgaan, of op zijn verzoek het bevoegde orgaan van de andere Partij, het voorschat inhouden op de betalingen waarop de belanghebbende recht heeft.
 
@@ -378,7 +400,7 @@ In dat geval zal een aldus ingeschakelde autoriteit, orgaan of lichaam onverwijl
 
 ## TITEL V. Overgangs-en slotbepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 1. Dit Verdrag opent geen enkel recht op betaling van uitkeringen over tijdvakken gelegen vóór zijn inwerkingtreding.
 
@@ -388,23 +410,23 @@ In dat geval zal een aldus ingeschakelde autoriteit, orgaan of lichaam onverwijl
 
 4. Ten aanzien van de uit de toepassing van het vorige lid voortvloeiende rechten, zijn de bepalingen van de wettelijke regelingen van de Verdragsluitende Partijen met betrekking tot het verlies en de verjaring van rechten niet op de belanghebbende van toepassing, indien het betrokken verzoek binnen een termijn van twee jaar na de datum van inwerkingtreding van dit Verdrag is ingediend. Indien het verzoek na het verstrijken van deze termijn wordt ingediend, wordt het recht op uitkering dat niet vervallen is verklaard of verjaard, verworven met ingang van de datum, waarop het verzoek wordt ingediend, tenzij gunstiger bepalingen van de wettelijke regeling van een Verdragsluitende Partij van toepassing zijn.
 
-#### Artikel 42
+##### Artikel 42
 
 Wat het Koninkrijk der Nederlanden betreft is dit Verdrag alleen van toepassing op het Rijk in Europa.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 
-#### Artikel 44
+##### Artikel 44
 
 Dit Verdrag treedt in werking op de eerste dag van de maand volgende op die, waarin de akten van bekrachtiging zijn uitgewisseld.
 
-#### Artikel 45
+##### Artikel 45
 
 Dit Verdrag wordt gesloten voor de tijd van een jaar. Het zal stilzwijgend van jaar tot jaar worden verlengd, behoudens opzegging, waarvan ten minste drie maanden vóór afloop van de termijn mededeling moet worden gedaan.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Ingeval van opzegging wordt elk recht, dat met toepassing van de bepalingen van dit Verdrag is verkregen, gehandhaafd.
 

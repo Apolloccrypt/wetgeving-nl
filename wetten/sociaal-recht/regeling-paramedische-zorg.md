@@ -1,18 +1,43 @@
 ---
 title: "Regeling paramedische zorg"
 identifier: "BWBR0051712"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051712"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051712"
+soort: "zbo"
+stam_id: "17585443"
+version_id: "31029972"
+internal_id: "C44436201"
+label_id: "17486304"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051712/2026-01-01/0"
+intitule_bron: "Stcrt.2025-37583"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-21"
+intitule_published: "2025-11-06"
+intitule_in_force: "2025-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37583"
+original_signed_date: "2025-10-21"
+original_published_date: "2025-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-37583"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051712&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051712&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-21"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling paramedische zorg
 
 Gelet op [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van registratie-, declaratie, en transparantievoorschriften.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,11 +63,11 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Audit-trail:** Zodanige vastlegging van gegevens dat het spoor van basisgegeven naar eindgegeven en omgekeerd achteraf door een externe accountant of, afhankelijk van de aard van de gegevens, door de NZa en de zorgverzekeraar kan worden gevolgd en gecontroleerd.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Het doel van deze nadere regel is om administratie-, declaratie- en transparantievoorschriften te stellen die een zorgaanbieder in acht moet nemen bij het leveren van prestaties van de onder [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051712&artikel=3&z=2026-01-01&g=2026-01-01) van deze regeling genoemde zorg.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die de volgende zorg leveren als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw):
 
@@ -60,13 +85,13 @@ Deze regeling is van toepassing op zorgaanbieders die de volgende zorg leveren a
 
 Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze regeling van toepassing op personen, ingeschreven in een register als bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) (Wet BIG) of op personen als bedoeld in [artikel 34 van de Wet BIG](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34), voor zover voornoemde categorieën personen handelingen of werkzaamheden op het terrein van zorg als omschreven in de vorige zin uitvoeren of verantwoordelijk zijn voor dergelijke door anderen uitgevoerde handelingen1Het betreft hier de handelingen bedoeld in artikel 1, eerste lid, onderdeel b, onder 2o, van de Wmg. of werkzaamheden2Het betreft hier de werkzaamheden bedoeld in artikel 2, eerste lid, onderdeel c, van het Besluit uitbreiding en beperking werkingssfeer Wmg..
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 1. De registratie van de prestaties en tarieven in de administratie van de zorgaanbieder is volledig, juist en actueel.
 
 2. De administratieve organisatie dient zodanig ingericht te zijn dat een audit-trail mogelijk is. De NZa en de zorgverzekeraar moeten te allen tijde de mogelijkheid hebben om vastlegging van de uitgevoerde behandeltrajecten op juistheid te controleren.
 
-#### Artikel 5. Declaratievoorschriften
+##### Artikel 5. Declaratievoorschriften
 
 1. Een declaratie van de zorgaanbieder aan de patiënt/verzekeraar vindt plaats op patiëntniveau en vermeldt de navolgende gegevens:
 
@@ -104,7 +129,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 - c. Per prestatie heeft minimaal één contact tussen de zorgaanbieder en patiënt plaatsgevonden. Dit kan fysiek face-to-face contact zijn maar ook contact via een beeldverbinding indien de zorgverlening zorginhoudelijk vergelijkbaar is met het fysiek face-to-face contact. De zorgaanbieder brengt de prestatie pas in rekening nadat de prestatie is afgerond.
 
-#### Artikel 6. Transparantievoorschriften
+##### Artikel 6. Transparantievoorschriften
 
 1. De zorgaanbieder informeert de consument tijdig en zorgvuldig over de tarieven die zij voor de prestaties in rekening brengt.
 
@@ -130,11 +155,11 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze rege
 
 - i. desgevraagd doet de zorgaanbieder consumenten binnen twee werkdagen per post dan wel digitaal de standaardprijslijst toekomen.
 
-#### Artikel 7. Verplichting
+##### Artikel 7. Verplichting
 
 De verplichtingen als genoemd in deze nadere regel zijn van toepassing op het moment dat sprake is van levering van de prestatie(s) genoemd in de onderliggende beleidsregels voor paramedische zorg.
 
-#### Artikel 8. Verantwoordelijkheid
+##### Artikel 8. Verantwoordelijkheid
 
 De zorgaanbieder is verantwoordelijk voor de goede opvolging van de in deze regeling genoemde bepalingen.
 
@@ -142,11 +167,11 @@ Indien een zorgaanbieder in loondienst is, draagt de werkgever zorg voor uitvoer
 
 Indien een zorgaanbieder in een personenvennootschap werkzaam is en niet zelf de tarieven bepaalt of in rekening brengt, draagt de personenvennootschap zorg voor de uitvoering van de in deze regeling genoemde bepalingen.
 
-#### Artikel 9. Intrekking oude regeling
+##### Artikel 9. Intrekking oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling paramedische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049521), met kenmerk NR/REG-2501, ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 10. Toepasselijkheid voorgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling paramedische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0049521) met kenmerk NR/REG-2501, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, omzetbelasting en compensatie van omzetbelasting bij publiekrechtelijke lichamen"
 identifier: "BWBR0044602"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-12-31
-laatste_update: 2020-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044602"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-12-31"
+last_updated: "2020-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044602"
+soort: "beleidsregel"
+stam_id: "15781313"
+version_id: "27357762"
+internal_id: "C38637341"
+label_id: "15719894"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044602/2020-12-31/0"
+intitule_bron: "Stcrt.2020-62965"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-24"
+intitule_published: "2020-12-30"
+intitule_in_force: "2020-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62965"
+original_signed_date: "2020-12-24"
+original_published_date: "2020-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62965"
+entry_into_force_date: "2020-12-31"
+jci_1_3: "jci1.3:c:BWBR0044602&z=2020-12-31&g=2020-12-31"
+jci_1_0: "1.0:c:BWBR0044602&g=2020-12-31"
+citeertitel_status: "redactioneel"
+signed_date: "2020-12-24"
+entry_into_force: "2020-12-31"
 ---
-
 # Omzetbelasting, omzetbelasting en compensatie van omzetbelasting bij publiekrechtelijke lichamen
 
 **De staatssecretaris van Financiën heeft het volgende besloten.**

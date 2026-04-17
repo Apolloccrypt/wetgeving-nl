@@ -1,18 +1,40 @@
 ---
 title: "Addendum bij Reglement Stimuleringsmaatregel Filmproductie in Nederland voor High End Series & Single Episodes"
 identifier: "BWBR0041772"
-categorie: "Overig"
-publicatiedatum: 2018-12-28
-laatste_update: 2018-12-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041772"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-12-28"
+last_updated: "2018-12-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041772"
+soort: "zbo"
+stam_id: "14931903"
+version_id: "25564372"
+internal_id: "C36490551"
+label_id: "14882954"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041772/2018-12-28/0"
+intitule_bron: "Stcrt.2018-72932"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-28"
+intitule_in_force: "2018-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-72932"
+original_published_date: "2018-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-72932"
+entry_into_force_date: "2018-12-28"
+jci_1_3: "jci1.3:c:BWBR0041772&z=2018-12-28&g=2018-12-28"
+jci_1_0: "1.0:c:BWBR0041772&g=2018-12-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-12-28"
 ---
-
 # Addendum bij Reglement Stimuleringsmaatregel Filmproductie in Nederland voor High End Series & Single Episodes
 
 Annex to the Netherlands Film Production Incentive Scheme (‘Scheme’) for High End Series & Single Episodes
 
-#### Artikel a
+##### Artikel a
 
 Ten behoeve van aanvragen voor televisieseries worden aan [artikel 1 van het Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0035122&artikel=1) de volgende definities toegevoegd:
 
@@ -70,7 +92,7 @@ Achter het woord ‘filmproductie’ wordt ingevoegd ‘**of televisieserie**’
 
 Voor aanvragen voor televisieseries worden overal in de [artikelen 2 tot en met 22 van het Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0035122&artikel=2) de woorden ‘animatiefilm’, ‘bioscoopuitbreng’, ‘documentairefilm’, ‘filmproductie’ en ‘speelfilm’ gelezen als: ‘animatieserie’, ‘televisie-/VOD-uitzending’, ‘documentaireserie’, ‘televisieserie’ en ’dramaserie’, tenzij hierna in [Artikel B](https://wetten.overheid.nl/jci1.3:c:BWBR0041772&artikel=b&z=2018-12-28&g=2018-12-28) anders is aangegeven.
 
-#### Artikel b
+##### Artikel b
 
 Met in achtneming van [artikel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041772&artikel=a&z=2018-12-28&g=2018-12-28), zijn de [artikelen 1 tot en met 22 van het Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0035122&artikel=1) van overeenkomstige toepassing op aanvragen voor televisieseries, met in achtneming van de hierna genoemde aanpassingen:
 
@@ -150,7 +172,7 @@ Aan het negende lid wordt een zin toegevoegd, luidende:
 
 **‘ Per 1 oktober 2017 is voor televisieseries een addendum op de Stimuleringsmaatregel ingevoerd met goedkeuring van de Raad van Toezicht op 7 juli 2017 met een looptijd van in eerste instantie twaalf maanden vanaf inwerkingtreding, danwel (indien zulks eerder gebeurt) een looptijd vanaf inwerkingtreding tot het moment waarop het totaal aan bijdragen dat het Fonds verleent aan televisieseries en single episodes het bedrag van 10 miljoen euro overstijgt. Bij uitputting van dit budget kan het Fonds uit de onbenutte middelen van het beschikbare budget van de stimuleringsregeling, middelen toevoegen voor ‘High end televisieseries & Single Episodes’. Uiterlijk drie maanden voor het einde van de looptijd maakt het Fonds op de website** **www.filmfonds.nl** **bekend of de looptijd wordt verlengd onder vermelding van de duur van de verlenging.’**
 
-#### Artikel c
+##### Artikel c
 
 Voor zover daarvan in [artikel A](https://wetten.overheid.nl/jci1.3:c:BWBR0041772&artikel=a&z=2018-12-28&g=2018-12-28) en [B](https://wetten.overheid.nl/jci1.3:c:BWBR0041772&artikel=b&z=2018-12-28&g=2018-12-28) en in het [puntensysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0041772&bijlage=2&z=2018-12-28&g=2018-12-28) niet uitdrukkelijk is afgeweken, zijn de bepalingen van het [Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0035122) terzake filmproducties van overeenkomstige toepassing op televisieseries.
 

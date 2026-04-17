@@ -1,36 +1,62 @@
 ---
-title: "NRGD veegregeling 2019"
+title: "Besluit van het College gerechtelijk deskundigen van 17 januari 2019, houdende intrekking van diverse besluiten van algemene strekking en interne regelingen (NRGD veegregeling 2019)"
 identifier: "BWBR0041875"
-categorie: "Overig"
-publicatiedatum: 2019-02-06
-laatste_update: 2019-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041875"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-02-06"
+last_updated: "2019-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041875"
+soort: "zbo"
+stam_id: "14989913"
+version_id: "25667812"
+internal_id: "C36625231"
+label_id: "14940074"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041875/2019-02-06/0"
+intitule_bron: "Stcrt.2019-5620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-17"
+intitule_published: "2019-02-05"
+intitule_in_force: "2019-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-5620"
+original_signed_date: "2019-01-17"
+original_published_date: "2019-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-5620"
+entry_into_force_date: "2019-02-06"
+jci_1_3: "jci1.3:c:BWBR0041875&z=2019-02-06&g=2019-02-06"
+jci_1_0: "1.0:c:BWBR0041875&g=2019-02-06"
+citeertitel_status: "officieel"
+short_title: "NRGD veegregeling 2019"
+signed_date: "2019-01-17"
+entry_into_force: "2019-02-06"
 ---
-
 # Besluit van het College gerechtelijk deskundigen van 17 januari 2019, houdende intrekking van diverse besluiten van algemene strekking en interne regelingen (NRGD veegregeling 2019)
 
 Gelet op [artikel 11, tweede lid onderdeel e van het Besluit register deskundige in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0026190&artikel=11),
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De besluiten van algemene strekking en interne regelingen van het College gerechtelijk deskundigen worden bekendgemaakt via de website van het Nederlands register deskundige in strafzaken, www.nrgd.nl.
 
-#### Artikel II
+##### Artikel II
 
 De in de bijlage bij dit besluit vermelde besluiten van algemene strekking en interne regelingen worden ingetrokken.
 
-#### Artikel III
+##### Artikel III
 
 Aanspraken of verplichtingen die voortvloeien uit een van de regelingen, genoemd in de bijlage als vermeld in [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0041875&artikel=II&z=2019-02-06&g=2019-02-06), blijven in stand.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel V
+##### Artikel V
 
 Deze regeling wordt aangehaald als: NRGD veegregeling 2019.
 

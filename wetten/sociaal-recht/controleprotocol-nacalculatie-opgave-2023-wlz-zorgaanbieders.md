@@ -1,13 +1,35 @@
 ---
 title: "Controleprotocol nacalculatie-opgave 2023 Wlz-zorgaanbieders"
 identifier: "BWBR0049035"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-12-08
-laatste_update: 2023-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049035"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-08"
+last_updated: "2023-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049035"
+soort: "zbo"
+stam_id: "16954533"
+version_id: "29800632"
+internal_id: "C42713951"
+label_id: "16864904"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049035/2023-12-08/0"
+intitule_bron: "Stcrt.2023-33448"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-08"
+intitule_in_force: "2023-12-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-33448"
+original_published_date: "2023-12-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-33448"
+entry_into_force_date: "2023-12-08"
+jci_1_3: "jci1.3:c:BWBR0049035&z=2023-12-08&g=2023-12-08"
+jci_1_0: "1.0:c:BWBR0049035&g=2023-12-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-12-08"
 ---
-
 # Controleprotocol nacalculatie-opgave 2023 Wlz-zorgaanbieders
 
 **Aanpassingen in het kort**
@@ -16,7 +38,7 @@ In dit protocol zijn ten opzichte van vorig jaar de volgende aanpassingen gedaan
 
 Versie 1, december 2023
 
-#### Artikel 1. Inleiding
+##### Artikel 1. Inleiding
 
 Zorgaanbieders die [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)-zorg in natura leveren, moeten aan de NZa gegevens en inlichtingen verstrekken, waaronder een nacalculatie-opgave, zoals bedoeld in de [Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048217). De zorgaanbieder draagt er zorg voor dat een accountant een uitspraak doet over de betrouwbaarheid en nauwkeurigheid van de aan de NZa verstrekte gegevens en inlichtingen.
 
@@ -112,7 +134,7 @@ Voor de tekst van de controleverklaring bij de nacalculatie-opgave maakt de acco
 
 Als de zorgaanbieder op basis van [artikel 10 van de Regeling declaratievoorschriften, administratievoorschriften en informatieverstrekking Wlz 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048217&artikel=10) aan de NZa een controleverklaring moet verstrekken, moet de gehele nacalculatie-opgave 2023 worden gewaarmerkt door de accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393). Met waarmerking geeft de accountant aan dat de betreffende pagina onderdeel is van de nacalculatie-opgave van de zorgaanbieder waar de controleverklaring onderdeel van is. Waarmerking door de accountant vindt plaats door een stempel van het controlerend accountantskantoor, uitsluitend ter identificatie, of een gekwalificeerde elektronische handtekening volgens EU [Verordening 910/2014](32014R0910).
 
-#### Artikel 2. Onderzoeksaanpak
+##### Artikel 2. Onderzoeksaanpak
 
 Het object van onderzoek voor de accountant bestaat uit het ondertekeningsdocument ‘Ondertekening Langdurige zorg nacalculatie 2023’ van de zorgaanbieder. In dit document is mogelijk sprake van de volgende correcties:
 

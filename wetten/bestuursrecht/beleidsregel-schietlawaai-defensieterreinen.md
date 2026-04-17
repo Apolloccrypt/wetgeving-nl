@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel schietlawaai defensieterreinen"
 identifier: "BWBR0038459"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-08-30
-laatste_update: 2016-08-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038459"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-08-30"
+last_updated: "2016-08-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038459"
+soort: "beleidsregel"
+stam_id: "13740633"
+version_id: "23551412"
+internal_id: "C33908511"
+label_id: "13706874"
+dtd_version: "2.0"
+original_entry_into_force: "2016-08-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038459/2016-08-30/0"
+intitule_bron: "Stcrt.2016-45834"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-08-23"
+intitule_published: "2016-08-30"
+intitule_in_force: "2016-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-45834"
+original_signed_date: "2016-08-23"
+original_published_date: "2016-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-45834"
+entry_into_force_date: "2016-08-30"
+jci_1_3: "jci1.3:c:BWBR0038459&z=2016-08-30&g=2016-08-30"
+jci_1_0: "1.0:c:BWBR0038459&g=2016-08-30"
+citeertitel_status: "redactioneel"
+signed_date: "2016-08-23"
+entry_into_force: "2016-08-30"
 ---
-
 # Beleidsregel schietlawaai defensieterreinen
 
 Ministerie van Defensie, tav Hoofddirecteur Bedrijfsvoering

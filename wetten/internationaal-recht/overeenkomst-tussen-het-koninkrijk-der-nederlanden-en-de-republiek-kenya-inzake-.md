@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kenya inzake technische samenwerking"
 identifier: "BWBV0003789"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-04-15
-laatste_update: 1981-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003789"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-04-15"
+last_updated: "1981-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003789"
+soort: "verdrag"
+stam_id: "10003712343"
+version_id: "10003773942"
+internal_id: "C10006980211"
+label_id: "10003697484"
+dtd_version: "2.0"
+original_entry_into_force: "1981-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003789/1981-04-15/0"
+intitule_bron: "Trb.1980-109"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-07-02"
+intitule_in_force: "1981-06-01"
+intitule_status: "goed"
+original_publication: "Trb.1980-109"
+original_published_date: "1980-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-109"
+entry_into_force_date: "1981-04-15"
+jci_1_3: "jci1.3:c:BWBV0003789&z=1981-04-15&g=1981-04-15"
+jci_1_0: "1.0:c:BWBV0003789&g=1981-04-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1981-04-15"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Kenya inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Kenya,
@@ -18,7 +40,7 @@ Verlangend de technische samenwerking te bevorderen en daartoe het noodzakelijke
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Overeenkomst is het bevorderen van de technische samenwerking en het daartoe scheppen van het juridische en administratieve kader voor de projecten van technische samenwerking waartoe de bevoegde bestuurlijke autoriteiten van de beide Partijen ter uitvoering van deze Overeenkomst besluiten.
 
@@ -30,7 +52,7 @@ Zijn als volgt overeengekomen:
 
 - -. voor de Regering van de Republiek Kenya: het Kabinet van de Vice-President en het Ministerie van Financiën, Nairobi.
 
-#### Artikel II
+##### Artikel II
 
 In verband met een project verbindt de Regering van de Republiek Kenya zich ertoe:
 
@@ -62,7 +84,7 @@ In verband met een project verbindt de Regering van de Republiek Kenya zich erto
 
 - n. de kosten te dragen van, en een dagvergoeding te betalen bij dienstreizen die in Kenya worden gemaakt door het Nederlandse personeel in verband met hun taak, volgens de tarieven die gelden voor de medewerkers van de Kenyase Regering met dezelfde of overeenkomstige rang.
 
-#### Artikel III
+##### Artikel III
 
 1. De Kenyase Regering stelt de Nederlandse Regering en het Nederlandse personeel dat in Kenya werkzaam is overeenkomstig deze Overeenkomst, schadeloos en vrijwaart hen tegen aansprakelijkheid, aanklachten, rechtsvorderingen, eisen, eisen tot schadevergoeding, kosten of honoraria verband houdend met dodelijk letsel toegebracht aan derden of schade toegebracht aan bezittingen van derden of met enig ander verlies voortvloeiend uit of verband houdend met enig handelen of nalaten van het Nederlandse personeel bij de uitvoering van zijn taken.
 
@@ -72,7 +94,7 @@ In verband met een project verbindt de Regering van de Republiek Kenya zich erto
 
 4. Indien de Regering van de Republiek Kenya zulks verzoekt, verschaft de Regering van het Koninkrijk der Nederlanden de bevoegde autoriteiten van de Republiek Kenya de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van de problemen die eventueel kunnen ontstaan in verband met de toepassing van bovenstaande leden van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Kenyase Regering heeft, na overleg met de Nederlandse Regering, het recht de terugroeping te verzoeken van die Nederlandse personeelsleden waarvan het werk of het gedrag onbevredigend is;
 
@@ -84,23 +106,23 @@ in geval van terugroeping doet de Nederlandse Regering al het mogelijke om te zo
 
 Berichtgeving tussen het Nederlandse personeel en de bevoegde Nederlandse autoriteiten wordt geregeld in de onderscheiden administratieve akkoorden met betrekking tot de projecten.
 
-#### Artikel V
+##### Artikel V
 
 1. De bepalingen van deze Overeenkomst betreffende het Nederlandse personeel zijn gelijkelijk van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen waarmee de Nederlandse Regering een contract heeft afgesloten voor de uitvoering van een project ten aanzien waarvan beide bevoegde autoriteiten tot samenwerking hebben besloten.
 
 2. Het terbeschikking gestelde Nederlandse personeel kan ter vervulling van zijn taak hetzij zelf werkzaamheden uitvoeren, hetzij adviseren.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Het bepaalde in de artikelen II, III en IV, eerste lid, van deze Overeenkomst is van toepassing op de operationale deskundigen die ter beschikking zijn gesteld door Nederland. Deze deskundigen zijn echter verplicht de plaatselijke inkomstenbelasting te betalen over de vergoedingen die zij ontvangen van de Kenyase Regering en hebben niet het voorrecht bedoeld in artikel II, letter d.
 
 2. De deskundigen bedoeld in het eerste lid van dit artikel staan uitsluitend onder leiding van de desbetreffende Kenyase autoriteiten. De deskundigen moeten zich houden aan de regelingen en voorschriften die te enigerlei tijd in Kenya van kracht zijn, mits deze regelingen en voorschriften niet in strijd zijn met enige bepaling van deze Overeenkomst of enige andere tussen beide Overeenkomstsluitende Partijen getroffen regeling die van toepassing is op de betrokken deskundigen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Regering van de Republiek Kenya stelt de door de Nederlandse Regering voor het project verschafte uitrusting (met inbegrip van motorvoertuigen) vrij van alle in- en uitvoerrechten en andere officiële heffingen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de beide Regeringen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.
 

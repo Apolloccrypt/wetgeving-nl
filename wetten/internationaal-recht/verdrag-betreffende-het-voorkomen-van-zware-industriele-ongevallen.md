@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende het voorkomen van zware industriële ongevallen"
 identifier: "BWBV0001282"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-03-25
-laatste_update: 1998-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001282"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-03-25"
+last_updated: "1998-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001282"
+soort: "verdrag"
+stam_id: "10002245283"
+version_id: "10002289352"
+internal_id: "C10006977851"
+label_id: "10002235744"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001282/1998-03-25/0"
+intitule_bron: "Trb.1993-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-25"
+intitule_published: "1993-11-09"
+intitule_in_force: "1997-07-04"
+intitule_status: "goed"
+original_publication: "Trb.1993-161"
+original_signed_date: "1997-03-25"
+original_published_date: "1993-11-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-161"
+entry_into_force_date: "1998-03-25"
+jci_1_3: "jci1.3:c:BWBV0001282&z=1998-03-25&g=1998-03-25"
+jci_1_0: "1.0:c:BWBV0001282&g=1998-03-25"
+citeertitel_status: "redactioneel"
+signed_date: "1997-03-25"
+entry_into_force: "1998-03-25"
 ---
-
 # Verdrag betreffende het voorkomen van zware industriële ongevallen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -38,7 +63,7 @@ neemt heden, de tweeëntwintigste juni van het jaar negentienhonderd drieënnege
 
 ## DEEL I. TOEPASSINGSGBEID EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. De doelstelling van dit Verdrag is het voorkomen van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken en het beperken van de gevolgen van dergelijke ongevallen.
 
@@ -54,11 +79,11 @@ neemt heden, de tweeëntwintigste juni van het jaar negentienhonderd drieënnege
 
 4. Een Lid dat dit Verdrag bekrachtigt kan, na raadpleging van de betrokken werkgevers- en werknemersorganisaties en andere betrokken partijen die er door kunnen worden getroffen, installaties of takken van economische bedrijvigheid waar is gezorgd voor een gelijkwaardige bescherming, uitsluiten van het toepassingsgebied van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Wanneer zich speciale problemen van ernstige aard voordoen, zodat het niet mogelijk is onmiddellijk alle in dit Verdrag voorziene preventieve en beschermende maatregelen te treffen, stelt een Lid, in overleg met de meest betrokken representatieve organisaties van werkgevers en werknemers en andere eventueel betrokken partijen, plannen op voor de gefaseerde uitvoering van bedoelde maatregelen volgens een vast tijdschema.
 
-#### Artikel 3
+##### Artikel 3
 
 In dit Verdrag wordt verstaan onder:
 
@@ -76,19 +101,19 @@ In dit Verdrag wordt verstaan onder:
 
 ## DEEL II. ALGEMENE BEGINSELEN
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rekening houdend met de nationale wet- en regelgeving, omstandigheden en praktijk en in overleg met de meest representatieve organisaties van werkgevers en werknemers en met andere eventueel betrokken partijen, dient elk Lid een samenhangend nationaal beleid inzake de bescherming van de werknemers, de bevolking en het milieu tegen de risico's van zware ongevallen te formuleren, uit te voeren en regelmatig opnieuw te bezien.
 
 2. Dit beleid dient te worden uitgevoerd door middel van preventieve en beschermende maatregelen inzake de installaties waaraan risico's van zware ongevallen zijn verbonden en dient, voor zover mogelijk, het gebruik van de beste beschikbare veiligheidstechnologieën te bevorderen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bevoegde autoriteit of een door de bevoegde autoriteit goedgekeurde of erkende instantie dient, na overleg met de meest representatieve organisaties van werkgevers en werknemers en andere eventueel betrokken partijen, een systeem op te zetten voor de identificatie van installaties waaraan risico's van zware ongevallen zijn verbonden als bedoeld in artikel 3, letter c, op basis van een lijst van gevaarlijke stoffen of groepen stoffen of van beide, met hun respectievelijke drempelwaarden, overeenkomstig de nationale wet- en regelgeving of internationale normen.
 
 2. Het in het eerste lid bedoelde systeem moet regelmatig opnieuw worden bezien en worden bijgewerkt.
 
-#### Artikel 6
+##### Artikel 6
 
 Na overleg met de betrokken representatieve organisaties van werkgevers en werknemers dient de bevoegde autoriteit speciale voorzieningen te treffen ter bescherming van de haar overeenkomstig de artikelen 8, 12, 13 of 14, toegezonden of verstrekte vertrouwelijke informatie, waarvan het openbaar worden schade zou kunnen veroorzaken aan het bedrijf van een werkgever, voor zover deze voorzieningen niet tot ernstige risico's voor de werknemers, de bevolking of het milieu leiden.
 
@@ -96,13 +121,13 @@ Na overleg met de betrokken representatieve organisaties van werkgevers en werkn
 
 #### **Identificatie**
 
-#### Artikel 7
+##### Artikel 7
 
 Werkgevers dienen elke installatie waaraan risico's van zware ongevallen zijn verbonden en waarover zij het beheer voeren te identificeren, op basis van het in artikel 5 bedoelde systeem.
 
 #### **Kennisgeving**
 
-#### Artikel 8
+##### Artikel 8
 
 1. Werkgevers dienen de bevoegde autoriteit in kennis te stellen van elke installatie waaraan risico's van zware ongevallen zijn verbonden en die zij als zodanig hebben geïdentificeerd:
 
@@ -114,7 +139,7 @@ Werkgevers dienen elke installatie waaraan risico's van zware ongevallen zijn ve
 
 #### **Op het niveau van de installatie te treffen regelingen**
 
-#### Artikel 9
+##### Artikel 9
 
 Met betrekking tot elke installatie waaraan risico's van zware ongevallen zijn verbonden, dienen de werkgevers een gedocumenteerd systeem ter voorkoming van en bescherming tegen deze risico's op te zetten en te onderhouden, dat omvat:
 
@@ -140,7 +165,7 @@ Met betrekking tot elke installatie waaraan risico's van zware ongevallen zijn v
 
 #### **Veiligheidsrapport**
 
-#### Artikel 10
+##### Artikel 10
 
 1. De werkgevers dienen een veiligheidsrapport op te stellen op basis van het bepaalde in artikel 9.
 
@@ -150,7 +175,7 @@ Met betrekking tot elke installatie waaraan risico's van zware ongevallen zijn v
 
 - b. voor elke nieuwe installatie waaraan risico's van zware ongevallen zijn verbonden: voordat deze in werking wordt gesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Werkgevers dienen het veiligheidsrapport opnieuw te bezien, bij te werken en te wijzigen:
 
@@ -162,17 +187,17 @@ Werkgevers dienen het veiligheidsrapport opnieuw te bezien, bij te werken en te 
 
 - d. op verzoek van de bevoegde autoriteit.
 
-#### Artikel 12
+##### Artikel 12
 
 De werkgevers dienen de in artikel 10 en 11 bedoelde veiligheidsrapporten aan de bevoegde autoriteit te zenden of te verstrekken.
 
 #### **Ongevallenrapport**
 
-#### Artikel 13
+##### Artikel 13
 
 Zodra zich een zwaar ongeval voordoet, stellen de werkgevers de bevoegde autoriteit en de andere hiertoe aangewezen instanties hiervan op de hoogte.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Na een zwaar ongeval doen de werkgevers de bevoegde autoriteit binnen een vastgestelde termijn een gedetailleerd rapport toekomen dat een analyse van de oorzaken van dat ongeval bevat en waarin de onmiddellijke gevolgen ervan voor het terrein van de installatie worden aangegeven, alsmede alle getroffen maatregelen om de gevolgen van het ongeval te beperken.
 
@@ -182,11 +207,11 @@ Zodra zich een zwaar ongeval voordoet, stellen de werkgevers de bevoegde autorit
 
 #### **Rampenplannen buiten het terrein van de installatie**
 
-#### Artikel 15
+##### Artikel 15
 
 Rekening houdend met de door de werkgever verstrekte informatie zorgt de bevoegde autoriteit ervoor dat rampen- of noodplannen en noodprocedures worden opgesteld die voorzieningen bevatten ter bescherming van de bevolking en van het milieu buiten het terrein van elke installatie waaraan risico's van zware ongevallen zijn verbonden, welke plannen en procedures op gezette tijden worden bijgewerkt en gecoördineerd met de betrokken autoriteiten en instanties.
 
-#### Artikel 16
+##### Artikel 16
 
 De bevoegde autoriteit draagt er zorg voor dat:
 
@@ -198,25 +223,25 @@ De bevoegde autoriteit draagt er zorg voor dat:
 
 #### **Vestiging van installaties waaraan risico's van zware ongevallen verbonden zijn**
 
-#### Artikel 17
+##### Artikel 17
 
 De bevoegde autoriteit werkt een integraal vestigingsbeleid uit dat voorziet in een passende scheiding tussen de geplande installaties waaraan risico's van zware ongevallen zijn verbonden en woon- en werkgebieden en openbare voorzieningen en, in geval van bestaande installaties, in alle passende maatregelen. Dit beleid dient uit te gaan van de in deel II van het Verdrag genoemde algemene beginselen.
 
 #### **Inspectie**
 
-#### Artikel 18
+##### Artikel 18
 
 1. De bevoegde autoriteit dient te beschikken over naar behoren gekwalificeerd, opgeleid en bekwaam personeel, en over voldoende technische en specialistische ondersteuning om te kunnen inspecteren, onderzoeken, evalueren en adviseren inzake de kwesties die in dit Verdrag worden behandeld en om te kunnen zorgen voor de naleving van de nationale wet- en regelgeving.
 
 2. Vertegenwoordigers van de werkgever en van de werknemers van een installatie waaraan risico's van zware ongevallen zijn verbonden, moeten de mogelijkheid hebben de inspecteurs te vergezellen wanneer dezen de toepassing van de krachtens dit Verdrag voorgeschreven maatregelen controleren, tenzij de inspecteurs, in het licht van de algemene instructies van de bevoegde autoriteit, van mening zijn dat daardoor de doeltreffendheid van hun controle zou kunnen worden aangetast.
 
-#### Artikel 19
+##### Artikel 19
 
 De bevoegde autoriteit heeft het recht elke activiteit die een onmiddellijke dreiging van een zwaar ongeval vormt stil te leggen.
 
 ## DEEL V. RECHTEN EN PLICHTEN VAN DE WERKNEMERS EN HUN VERTEGENWOORDIGERS
 
-#### Artikel 20
+##### Artikel 20
 
 In een installatie waaraan risico's van zware ongevallen zijn verbonden dienen de werknemers en hun vertegenwoordigers volgens daarvoor in aanmerking komende samenwerkingsprocedures te worden geraadpleegd om een veilig arbeidsproces te waarborgen. De werknemers en hun vertegenwoordigers dienen in het bijzonder:
 
@@ -238,7 +263,7 @@ In een installatie waaraan risico's van zware ongevallen zijn verbonden dienen d
 
 - f. met hun werkgever alle potentiële gevaren te bespreken die naar hun mening een zwaar ongeval kunnen veroorzaken, en het recht te hebben de bevoegde autoriteit in kennis te stellen van deze gevaren.
 
-#### Artikel 21
+##### Artikel 21
 
 De werknemers die in dienst zijn op het terrein van een installatie waaraan risico's van zware ongevallen zijn verbonden dienen:
 
@@ -248,17 +273,17 @@ De werknemers die in dienst zijn op het terrein van een installatie waaraan risi
 
 ## DEEL VI. VERANTWOORDELIJKHEID VAN EXPORTERENDE STATEN
 
-#### Artikel 22
+##### Artikel 22
 
 Wanneer in een exporterende Lidstaat het gebruik van gevaarlijke stoffen, technologieën of procédés is verboden als zijnde een potentiële bron van een zwaar ongeval, dient die Staat de informatie met betrekking tot dat verbod en de gronden waarop het berust ter kennis te brengen van elk land waarnaar deze exporteert.
 
 ## DEEL VII. SLOTBEPALINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationaal Arbeidsbureau medegedeeld en door hem geregistreerd.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal is geregistreerd.
 
@@ -266,27 +291,27 @@ De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van 
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar, op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden der Organisatie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 27
+##### Artikel 27
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties, van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 28
+##### Artikel 28
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -296,7 +321,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 30
+##### Artikel 30
 
 De Engelse en Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijk experimentenbesluit nieuwe stembiljetten"
+title: "Besluit van 30 oktober 2023, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijk experimentenbesluit nieuwe stembiljetten)"
 identifier: "BWBR0048850"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048850"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048850"
+soort: "AMvB"
+stam_id: "16907093"
+version_id: "29712892"
+internal_id: "C42575231"
+label_id: "16818774"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048850/2024-01-01/0"
+intitule_bron: "Stb.2023-384"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-30"
+intitule_published: "2023-11-06"
+intitule_in_force: "2023-11-06"
+intitule_status: "goed"
+original_publication: "Stb.2023-384"
+original_signed_date: "2023-10-30"
+original_published_date: "2023-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-384"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048850&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048850&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijk experimentenbesluit nieuwe stembiljetten"
+signed_date: "2023-10-30"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 30 oktober 2023, houdende tijdelijke regels voor experimenten met nieuwe stembiljetten (Tijdelijk experimentenbesluit nieuwe stembiljetten)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 17 juli 2023, nr. 2023-0000360559;
@@ -22,19 +48,19 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
 - **Experimentenwet:** [Tijdelijke experimentenwet nieuwe stembiljetten](https://wetten.overheid.nl/jci1.3:c:BWBR0047212);
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Dit besluit is van toepassing op een experiment met een nieuw stembiljet als bedoeld in [artikel 2, eerste lid, van de Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0047212&artikel=2).
 
 ### Hoofdstuk 2. Het stembiljet
 
-#### Artikel 3. Het model stembiljet bij het experiment
+##### Artikel 3. Het model stembiljet bij het experiment
 
 1. Bij een experiment wordt een model stembiljet gebruikt, op basis waarvan een kiezer stemt door op het stembiljet eerst de lijst te kiezen waartoe de kandidaat van zijn keuze behoort, en vervolgens het nummer van de kandidaat van zijn keuze op die lijst te kiezen.
 
@@ -44,21 +70,21 @@ Dit besluit is van toepassing op een experiment met een nieuw stembiljet als bed
 
 ### Hoofdstuk 3. Experiment met een nieuw stembiljet
 
-#### Artikel 4. Het aantal stembureauleden
+##### Artikel 4. Het aantal stembureauleden
 
 Onverminderd het bepaalde krachtens [artikel E 3, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=E_3) en in afwijking van [artikel J 12, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_12), zijn gedurende de stemming steeds ten minste vier leden van het stembureau aanwezig.
 
-#### Artikel 5. De stemhokjes
+##### Artikel 5. De stemhokjes
 
 1. In elk stemhokje is een overzicht van de kandidaten, geordend per lijst beschikbaar. Bij ministeriële regeling wordt voor dit overzicht een model vastgesteld.
 
 2. Bij ministeriële regeling wordt voor de handleiding een model vastgesteld dat afwijkt van het krachtens [artikel J 16, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_12) vastgestelde model.
 
-#### Artikel 6. Inrichting van het stemlokaal
+##### Artikel 6. Inrichting van het stemlokaal
 
 In afwijking van [artikel J 19 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_19) kunnen bij ministeriële regeling nadere regels worden gesteld betreffende de inrichting van het stemlokaal.
 
-#### Artikel 7. Het uitbrengen van de stem
+##### Artikel 7. Het uitbrengen van de stem
 
 In afwijking van [artikel J 26, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_26) stemt een kiezer door op het stembiljet:
 
@@ -66,11 +92,11 @@ In afwijking van [artikel J 26, eerste lid, van de Kieswet](https://wetten.overh
 
 - 2°. een wit stipje, geplaatst vóór het nummer van de kandidaat van zijn keuze op die lijst, rood te maken.
 
-#### Artikel 8. Vergissen bij het invullen van het stembiljet
+##### Artikel 8. Vergissen bij het invullen van het stembiljet
 
 In afwijking van [artikel J 27, eerste lid, tweede volzin, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=J_27), verstrekt de voorzitter de kiezer op zijn verzoek ten hoogste tweemaal een nieuw biljet.
 
-#### Artikel 9. Het beoordelen van de stem
+##### Artikel 9. Het beoordelen van de stem
 
 1. In afwijking van de [artikelen N 7, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_7), en [N 8, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_8), beslist het stembureau met inachtneming van artikel N 7, eerste lid, van de Kieswet, alsmede met inachtneming van het tweede tot en met vierde lid, over de geldigheid van de stem.
 
@@ -84,13 +110,13 @@ In afwijking van [artikel J 27, eerste lid, tweede volzin, van de Kieswet](https
 
 - b. ondubbelzinnig blijkt dat de kiezer niet op een andere kandidaat heeft willen stemmen.
 
-#### Artikel 10. Opmaken proces-verbaal
+##### Artikel 10. Opmaken proces-verbaal
 
 1. Het stembureau maakt in het proces-verbaal aantekening van de reden of redenen van ongeldigheid van een uitgebrachte stem.
 
 2. Bij ministeriële regeling wordt voor het proces-verbaal een model vastgesteld dat afwijkt van het krachtens [artikel N 10, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_10) vastgestelde model.
 
-#### Artikel 11. Controle processen-verbaal door gemeentelijk stembureau
+##### Artikel 11. Controle processen-verbaal door gemeentelijk stembureau
 
 1. In afwijking van [artikel Na 13 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Na_13) vindt de nieuwe stemopneming plaats met inachtneming van hetgeen bij of krachtens de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627) is bepaald ten aanzien van de stemopneming door een stembureau voor zover daarvan niet bij dit besluit wordt afgeweken.
 
@@ -98,21 +124,21 @@ In afwijking van [artikel J 27, eerste lid, tweede volzin, van de Kieswet](https
 
 3. Bij ministeriële regeling wordt voor het corrigendum een model vastgesteld dat afwijkt van het krachtens [artikel Na 14, vijfde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Na_14) vastgestelde model.
 
-#### Artikel 12. Centrale stemopneming
+##### Artikel 12. Centrale stemopneming
 
 1. In afwijking van [artikel Na 19, eerste lid, laatste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Na_19), beslissen de leden van het gemeentelijk stembureau over de geldigheid van de stem met inachtneming van [artikel N 7, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=N_7) en [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048850&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01).
 
 2. [Artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048850&hoofdstuk=3&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 13. Proces-verbaal gemeentelijk stembureau
+##### Artikel 13. Proces-verbaal gemeentelijk stembureau
 
 Bij ministeriële regeling kan voor het proces-verbaal van het gemeentelijk stembureau een model vastgesteld worden dat afwijkt van het krachtens [artikel Na 31, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Na_31) vastgestelde model.
 
-#### Artikel 14. Een nieuwe opneming van stembiljetten
+##### Artikel 14. Een nieuwe opneming van stembiljetten
 
 Indien op grond van de [artikelen P 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=P_1e), [P 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=P_21), of [V 4a, eerste lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=V_4a) wordt overgegaan tot een nieuwe opneming van de stembiljetten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048850&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01), vindt de beoordeling van de stembiljetten plaats met toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0048850&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 15. Het experiment bij de verkiezing van de leden van de Eerste Kamer der Staten Generaal
+##### Artikel 15. Het experiment bij de verkiezing van de leden van de Eerste Kamer der Staten Generaal
 
 1. Dit hoofdstuk en de daarop berustende bepalingen zijn van overeenkomstige toepassing op de verkiezing van de leden van de Eerste Kamer der Staten-Generaal, met dien verstande dat in plaats van «de kiezer» wordt gelezen: het statenlid.
 
@@ -122,11 +148,11 @@ Indien op grond van de [artikelen P 1e, eerste lid](https://wetten.overheid.nl/j
 
 4. Onverminderd [artikel Ya 30, derde lid, van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Ya_30) vindt de verkiezing van de leden van de Eerste Kamer door de leden van de kiescolleges in Bonaire, Sint Eustatius en Saba plaats overeenkomstig het bepaalde in het eerste tot en met derde lid, met dien verstande dat in plaats van «het statenlid» wordt gelezen: het kiescollegelid.
 
-#### Artikel 16. Het experiment bij de verkiezing van de leden van het Europees Parlement
+##### Artikel 16. Het experiment bij de verkiezing van de leden van het Europees Parlement
 
 Dit hoofdstuk en de daarop berustende bepalingen zijn in aanvulling op [artikel Y 2 van de Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627&artikel=Y_2) van overeenkomstige toepassing op de verkiezing van de Nederlandse leden van het Europees Parlement.
 
-#### Artikel 17. Logo’s
+##### Artikel 17. Logo’s
 
 1. Bij ministeriële regeling wordt een model vastgesteld voor het verzoek om registratie van een logo.
 
@@ -146,7 +172,7 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn in aanvulling op [artikel 
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 18. Evaluatie
+##### Artikel 18. Evaluatie
 
 1. Onder verantwoordelijkheid van Onze Minister vindt een evaluatie plaats van elk experiment.
 
@@ -186,13 +212,13 @@ Dit hoofdstuk en de daarop berustende bepalingen zijn in aanvulling op [artikel 
 
 4. De evaluatie bevat conclusies omtrent de voortzetting van het experiment.
 
-#### Artikel 19. Inwerkingtreding en verval
+##### Artikel 19. Inwerkingtreding en verval
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. Dit besluit vervalt met ingang van de dag dat de [Experimentenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0047212) vervalt.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Dit besluit wordt aangehaald als: Tijdelijk experimentenbesluit nieuwe stembiljetten.
 

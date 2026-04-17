@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel ruilen bewijzen van toelating ho 2014"
+title: "Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2014, nr. HO&S/633048, inzake het ruilen van bewijzen van toelating voor numerusfixusopleidingen in het hoger onderwijs (Beleidsregel ruilen bewijzen van toelating ho 2014)"
 identifier: "BWBR0035199"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-06-17
-laatste_update: 2014-06-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035199"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-06-17"
+last_updated: "2014-06-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035199"
+soort: "beleidsregel"
+stam_id: "12690723"
+version_id: "21446642"
+internal_id: "C30791821"
+label_id: "12660824"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035199/2014-06-17/0"
+intitule_bron: "Stcrt.2014-16425"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-04"
+intitule_published: "2014-06-16"
+intitule_in_force: "2014-06-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-16425"
+original_signed_date: "2014-06-04"
+original_published_date: "2014-06-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-16425"
+entry_into_force_date: "2014-06-17"
+jci_1_3: "jci1.3:c:BWBR0035199&z=2014-06-17&g=2014-06-17"
+jci_1_0: "1.0:c:BWBR0035199&g=2014-06-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel ruilen bewijzen van toelating ho 2014"
+signed_date: "2014-06-04"
+entry_into_force: "2014-06-17"
 ---
-
 # Beleidsregel van de Minister van Onderwijs, Cultuur en Wetenschap van 4 juni 2014, nr. HO&S/633048, inzake het ruilen van bewijzen van toelating voor numerusfixusopleidingen in het hoger onderwijs (Beleidsregel ruilen bewijzen van toelating ho 2014)
 
 ### 1. Inleiding

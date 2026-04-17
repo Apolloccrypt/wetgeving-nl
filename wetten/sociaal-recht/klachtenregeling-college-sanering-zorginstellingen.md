@@ -1,16 +1,38 @@
 ---
 title: "Klachtenregeling College sanering zorginstellingen"
 identifier: "BWBR0037755"
-categorie: "Sociaal recht"
-publicatiedatum: 2016-03-26
-laatste_update: 2016-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037755"
+country: "nl"
+rank: "zbo"
+publication_date: "2016-03-26"
+last_updated: "2016-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037755"
+soort: "zbo"
+stam_id: "13444003"
+version_id: "23077062"
+internal_id: "C33350111"
+label_id: "13411174"
+dtd_version: "2.0"
+original_entry_into_force: "2016-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037755/2016-03-26/0"
+intitule_bron: "Stcrt.2016-15845"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-03-25"
+intitule_in_force: "2016-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-15845"
+original_published_date: "2016-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-15845"
+entry_into_force_date: "2016-03-26"
+jci_1_3: "jci1.3:c:BWBR0037755&z=2016-03-26&g=2016-03-26"
+jci_1_0: "1.0:c:BWBR0037755&g=2016-03-26"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-03-26"
 ---
-
 # Klachtenregeling College sanering zorginstellingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +44,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **De secretaris/ directeur van het College sanering:** verder te noemen de directeur.
 
-#### Artikel 2
+##### Artikel 2
 
 De regeling is van toepassing op elke klacht, mits schriftelijk en ondertekend ingediend, met vermelding van tenminste:
 
@@ -32,11 +54,11 @@ De regeling is van toepassing op elke klacht, mits schriftelijk en ondertekend i
 
 - c. een omschrijving van de gedraging waartegen de klacht is gericht.
 
-#### Artikel 3
+##### Artikel 3
 
 Zo spoedig mogelijk, en in ieder geval binnen twee weken na ontvangst van de klacht, wordt de klager schriftelijk in kennis gesteld van de ontvangst van zijn klacht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De behandeling van de klacht geschiedt door de directeur.
 
@@ -46,7 +68,7 @@ Zo spoedig mogelijk, en in ieder geval binnen twee weken na ontvangst van de kla
 
 - b. de voorzitter. In dit geval dient de klacht te worden ingediend bij de minister van Volksgezondheid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De klacht hoeft niet in behandeling te worden genomen indien zij betrekking heeft op een gedraging:
 
@@ -66,11 +88,11 @@ Zo spoedig mogelijk, en in ieder geval binnen twee weken na ontvangst van de kla
 
 3. Van het niet in behandeling nemen van een klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk en gemotiveerd in kennis gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift van het klaagschrift alsmede van de daarbij meegezonden stukken toegezonden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De klager en degene op wiens gedraging de klacht betrekking heeft, worden in de gelegenheid gesteld te worden gehoord.
 
@@ -80,30 +102,30 @@ Aan degene op wiens gedraging de klacht betrekking heeft, wordt een afschrift va
 
 4. Van het horen wordt een verslag gemaakt. Het verslag en de op de zaak betrekking hebbende stukken worden aan het College en degene die gehoord is toegezonden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het College behandelt de klacht binnen zes weken na ontvangst:
 
 2. De behandeling kan voor ten hoogste vier weken verdaagd worden. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het College stelt de klager schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die hij daaraan verbindt.
 
 2. Bij de kennisgeving wordt melding gemaakt bij welke ombudsman en binnen welke termijn de klager desgewenst en vervolgens een verzoekschrift kan indienen.
 
-#### Artikel 10
+##### Artikel 10
 
 Het College draagt zorg voor registratie van ingediende schriftelijke klachten en legt van iedere schriftelijke klacht een dossier aan. De geregistreerde klachten worden jaarlijks gepubliceerd.
 
-#### Artikel 11
+##### Artikel 11
 
 Het College kan besluiten dat een onafhankelijk persoon adviseert over de behandeling van de klacht.
 
-#### Artikel 12
+##### Artikel 12
 
 De klachtenregeling d.d. 1 maart 2006 wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin he wordt geplaatst.

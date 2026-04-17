@@ -1,14 +1,38 @@
 ---
-title: "Wet financieel statuut van het Koninklijk Huis"
+title: "Wet van 22 november 1972, houdende regeling van het financieel statuut van het Koninklijk Huis"
 identifier: "BWBR0002845"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002845"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002845"
+soort: "wet"
+stam_id: "1987983"
+version_id: "2948982"
+internal_id: "C2948981"
+label_id: "1936914"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002845/2024-01-01/0"
+intitule_bron: "Stb.1972-701"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-22"
+intitule_status: "goed"
+original_publication: "Stb.1972-701"
+original_signed_date: "1972-11-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "11848"
+entry_into_force_date: "1973-01-01"
+entry_into_force_dossier: "11848"
+jci_1_3: "jci1.3:c:BWBR0002845&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0002845&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet financieel statuut van het Koninklijk Huis"
+signed_date: "1972-11-22"
+entry_into_force: "1973-01-01"
 ---
-
-# Wet financieel statuut van het Koninklijk Huis
+# Wet van 22 november 1972, houdende regeling van het financieel statuut van het Koninklijk Huis
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat ingevolge artikel 22 in samenhang met
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Koning en de na te noemen andere leden van het Koninklijk Huis ontvangen jaarlijks de volgende geldelijke uitkeringen:
 
@@ -51,7 +75,7 @@ vermeerderd of verminderd in elk jaar waarover de uitkering wordt genoten:
 
 3. In dit artikel wordt onder echtgenote van de Koning mede verstaan de echtgenoot van de Koningin, draagster van de Kroon.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien de Koning overlijdt, ontvangt de overlevende echtgenoot of echtgenote, zolang deze lid is van het koninklijk huis,:
 
@@ -75,11 +99,11 @@ vermeerderd of verminderd in elk jaar waarover de uitkering wordt genoten:
 
 5. In de in het eerste, tweede en derde lid genoemde gevallen waarin is bepaald dat de overlevende echtgenoot of echtgenote gedurende de eerste twee jaar na het overlijden de jaarlijkse geldelijke uitkering ontvangt die hij of zij zou hebben ontvangen indien het overlijden niet zou hebben plaatsgehad, vermeerderd met een kwart van het in [artikel 1, tweede lid, onder B](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2024-01-01&g=2024-01-01), vermelde gedeelte van de uitkering van de overledene alsmede het andere in het eerste lid, onder a, genoemde geval en de overige in het derde lid, onder a en b, genoemde gevallen, is het gedeelte van de jaarlijkse geldelijke uitkering dat betrekking heeft op het inkomensbestanddeel in alle gevallen gelijk aan het in [artikel 1, tweede lid, onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2024-01-01&g=2024-01-01), vermelde gedeelte van de uitkering dat de overlevende echtgenoot of echtgenote ontving voordat het overlijden plaatsvond. Het overige gedeelte van de jaarlijkse geldelijke uitkering heeft betrekking op de materiële en personele kosten.
 
-#### Artikel 3
+##### Artikel 3
 
 Personele en materiële kosten die samenhangen met het koningschap, niet zijnde de uitkeringen die op grond van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=1&z=2024-01-01&g=2024-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0002845&artikel=2&z=2024-01-01&g=2024-01-01) worden verstrekt, worden bekostigd uit de begroting van het Rijk voor zover deze hiervoor een voorziening bevat en nadat de kosten door of vanwege de Koning daartoe door tussenkomst van Onze Minister-President bij Onze minister die het aangaat zijn gedeclareerd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de Koning worden ten laste van het Rijk het paleis Noordeinde te ’s-Gravenhage, het paleis Huis ten Bosch te ’s-Gravenhage en het paleis op de Dam te Amsterdam tot gebruik ter beschikking gesteld.
 
@@ -91,39 +115,39 @@ Personele en materiële kosten die samenhangen met het koningschap, niet zijnde 
 
 5. Een koninklijk besluit, strekkende tot de uitvoering van het tweede tot en met vierde lid, wordt in het **Staatsblad** geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ten aanzien van de Staatsdomeinen blijft het genot van de jacht, bij het in werking treden van deze wet behorende tot of voortvloeiende uit het Kroondomein, bedoeld in de wet van 1 mei 1863, **Stb.** 43, afgestaan aan de Koning; deze is jachthouder in de zin van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885).
 
 2. Wijzigt de Jachtwet 1954.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet op het Kroondomein 1959
 
-#### Artikel 8
+##### Artikel 8
 
 De wet van 5 maart 1952, **Stb.** 99, wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet kan worden aangehaald als: Wet financieel statuut van het Koninklijk Huis.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking met ingang van 1 januari 1973.
 
 #### Aanvullende bepalingen in verband met de afstand van de Kroon door Koningin Juliana
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 

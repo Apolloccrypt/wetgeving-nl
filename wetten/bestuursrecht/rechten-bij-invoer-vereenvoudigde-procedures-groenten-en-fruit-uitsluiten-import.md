@@ -1,13 +1,37 @@
 ---
 title: "Rechten bij invoer, vereenvoudigde procedures groenten en fruit; uitsluiten importeur"
 identifier: "BWBR0015558"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-09-09
-laatste_update: 2003-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015558"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-09-09"
+last_updated: "2003-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015558"
+soort: "beleidsregel"
+stam_id: "8502123"
+version_id: "13391432"
+internal_id: "C18480421"
+label_id: "8482504"
+dtd_version: "2.0"
+original_entry_into_force: "2003-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015558/2003-09-09/0"
+intitule_bron: "Infob.2004-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-09"
+intitule_published: "2004-01-01"
+intitule_in_force: "2004-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2004-1"
+original_signed_date: "2003-09-09"
+original_published_date: "2004-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-09"
+jci_1_3: "jci1.3:c:BWBR0015558&z=2003-09-09&g=2003-09-09"
+jci_1_0: "1.0:c:BWBR0015558&g=2003-09-09"
+citeertitel_status: "redactioneel"
+signed_date: "2003-09-09"
+entry_into_force: "2003-09-09"
 ---
-
 # Rechten bij invoer, vereenvoudigde procedures groenten en fruit; uitsluiten importeur
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

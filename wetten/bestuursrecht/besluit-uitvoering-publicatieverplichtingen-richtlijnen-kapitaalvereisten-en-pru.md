@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitvoering publicatieverplichtingen richtlijnen kapitaalvereisten en prudentieel toezicht beleggingsondernemingen"
+title: "Besluit van 11 september 2014, houdende regels ter uitvoering van de artikelen 89 en 90 van Richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176) (Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten)"
 identifier: "BWBR0035575"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-26
-laatste_update: 2021-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035575"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-11-26"
+last_updated: "2021-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035575"
+soort: "AMvB"
+stam_id: "12803173"
+version_id: "21742842"
+internal_id: "C31205831"
+label_id: "12772884"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035575/2021-11-26/0"
+intitule_bron: "Stb.2014-334"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-11"
+intitule_published: "2014-09-24"
+intitule_in_force: "2014-09-24"
+intitule_status: "goed"
+original_publication: "Stb.2014-334"
+original_signed_date: "2014-09-11"
+original_published_date: "2014-09-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-334"
+entry_into_force_date: "2014-09-25"
+jci_1_3: "jci1.3:c:BWBR0035575&z=2021-11-26&g=2021-11-26"
+jci_1_0: "1.0:c:BWBR0035575&g=2021-11-26"
+citeertitel_status: "officieel"
+short_title: "Besluit uitvoering publicatieverplichtingen richtlijnen kapitaalvereisten en prudentieel toezicht beleggingsondernemingen"
+signed_date: "2014-09-11"
+entry_into_force: "2014-09-25"
 ---
-
 # Besluit van 11 september 2014, houdende regels ter uitvoering van de artikelen 89 en 90 van Richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176) (Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten)
 
 Op de voordracht van Onze Minister van Financiën van 26 juni 2014, FM/2014/1019 M, directie Financiële Markten, gedaan mede namens Onze Minister van Veiligheid en Justitie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Financiën van 5 september 2014, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In dit besluit wordt verstaan onder:
 
@@ -42,11 +68,11 @@ In dit besluit wordt verstaan onder:
 
 - **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op banken met zetel in Nederland, op beleggingsondernemingen onder de verordening kapitaalvereisten en op beleggingsondernemingen in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen.
 
-#### Artikel 3. (country by country reporting)
+##### Artikel 3. (country by country reporting)
 
 1. Een bank of beleggingsonderneming onder de verordening kapitaalvereisten doet op geconsolideerde basis mededeling over de volgende informatie, voor elke staat waarin zij of haar dochterondernemingen een vestiging hebben:
 
@@ -70,7 +96,7 @@ Dit besluit is van toepassing op banken met zetel in Nederland, op beleggingsond
 
 5. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op beleggingsondernemingen in de zin van de richtlijn prudentieel toezicht beleggingsondernemingen, met dien verstande dat voor de toepassing van het eerste lid voor «dochterondernemingen» wordt gelezen «dochterondernemingen die een financiële instelling zijn als bedoeld in [artikel 1:1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1)».
 
-#### Artikel 4. (direct ingaande verplichtingen)
+##### Artikel 4. (direct ingaande verplichtingen)
 
 1. Een bank of beleggingsonderneming onder de verordening kapitaalvereisten maakt, in aanvulling op [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035575&artikel=3&z=2021-11-26&g=2021-11-26), de in de onderdelen a, b en c van dat lid bedoelde informatie over het laatst afgesloten boekjaar binnen vier weken na de inwerkingtreding van dit besluit openbaar.
 
@@ -78,17 +104,17 @@ Dit besluit is van toepassing op banken met zetel in Nederland, op beleggingsond
 
 3. [Artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) is niet van toepassing op de informatie, bedoeld in het eerste en tweede lid.
 
-#### Artikel 5. (bekendmaking rendement op activa)
+##### Artikel 5. (bekendmaking rendement op activa)
 
 1. Een bank of beleggingsonderneming onder de verordening kapitaalvereisten maakt in haar bestuursverslag als een van de belangrijkste indicatoren haar rendement op activa bekend, berekend als de nettowinst gedeeld door het balanstotaal.
 
 2. Dit artikel is van toepassing op de bestuursverslagen die worden opgesteld over de boekjaren die aanvangen op of na 1 januari 2014.
 
-#### Artikel 6. (inwerkingtreding)
+##### Artikel 6. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit uitvoering publicatieverplichtingen richtlijnen kapitaalvereisten en prudentieel toezicht beleggingsondernemingen.
 

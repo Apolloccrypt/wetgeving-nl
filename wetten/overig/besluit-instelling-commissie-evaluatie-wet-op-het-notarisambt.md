@@ -1,13 +1,37 @@
 ---
 title: "Besluit instelling Commissie evaluatie Wet op het Notarisambt"
 identifier: "BWBR0017009"
-categorie: "Overig"
-publicatiedatum: 2004-09-01
-laatste_update: 2004-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017009"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-09-01"
+last_updated: "2004-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017009"
+soort: "ministeriele-regeling"
+stam_id: "5968013"
+version_id: "10571072"
+internal_id: "C14370681"
+label_id: "5957464"
+original_entry_into_force: "2004-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017009/2004-09-01/0"
+intitule_bron: "Stcrt.2004-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-07-09"
+intitule_published: "2004-07-21"
+intitule_in_force: "2004-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-137"
+original_signed_date: "2004-07-09"
+original_published_date: "2004-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-137-p12-SC65901"
+entry_into_force_date: "2004-09-01"
+jci_1_3: "jci1.3:c:BWBR0017009&z=2004-09-01&g=2004-09-01"
+jci_1_0: "1.0:c:BWBR0017009&g=2004-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-07-09"
+entry_into_force: "2004-09-01"
 ---
-
 # Besluit instelling Commissie evaluatie Wet op het Notarisambt
 
 Overwegende,
@@ -22,7 +46,7 @@ waarbij de vragen centraal staan of de geïntroduceerde marktwerking de beoogde 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In te stellen een commissie evaluatie [Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388).
 
@@ -48,7 +72,7 @@ Besluit:
 
 - –. het mogelijk is om via pro-competitieve maatregelen de positie van de consument te versterken door het vergroten van hun keuzevrijheid met betrekking tot de notariële dienstverlening en het bevorderen van transparantie in de verhouding prijs en kwaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. Lid, tevens voorzitter:
 
@@ -82,13 +106,13 @@ Besluit:
 
 In de commissie hebben zitting:
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie zal vóór 1 juli 2005 haar rapport aan de Minister van Justitie uitbrengen.
 
 2. De commissie zal aan de Minister advies uitbrengen met betrekking tot de in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017009&artikel=1&z=2004-09-01&g=2004-09-01), vermelde onderwerpen, en indien haar onderzoek daartoe aanleiding geeft, andere onderwerpen die in de wet geregeld moeten worden in verband met de goede vervulling van het notarisambt.
 
-#### Artikel 4
+##### Artikel 4
 
 De leden van de Commissie evaluatie Wet op het notarisambt ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) en de daarop voor het Ministerie van Justitie geldende bepalingen, waarbij de Commissie als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) wordt aangemerkt. Daarnaast hebben zij recht op vergoeding wegens reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889).
 

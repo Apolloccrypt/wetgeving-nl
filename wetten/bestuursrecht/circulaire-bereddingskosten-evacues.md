@@ -1,13 +1,37 @@
 ---
 title: "Circulaire bereddingskosten evacués"
 identifier: "BWBR0007612"
-categorie: "Bestuursrecht"
-publicatiedatum: 1995-10-27
-laatste_update: 1995-10-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007612"
+country: "nl"
+rank: "circulaire"
+publication_date: "1995-10-27"
+last_updated: "1995-10-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007612"
+soort: "circulaire"
+stam_id: "6414813"
+version_id: "11081852"
+internal_id: "C14994111"
+label_id: "6403654"
+original_entry_into_force: "1995-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007612/1995-10-27/0"
+intitule_bron: "Stcrt.1995-209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-10-18"
+intitule_published: "1995-10-27"
+intitule_in_force: "1995-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-209"
+original_signed_date: "1995-10-18"
+original_published_date: "1995-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-209-p13-SC4060"
+entry_into_force_date: "1995-10-27"
+jci_1_3: "jci1.3:c:BWBR0007612&z=1995-10-27&g=1995-10-27"
+jci_1_0: "1.0:c:BWBR0007612&g=1995-10-27"
+citeertitel_status: "redactioneel"
+signed_date: "1995-10-18"
+entry_into_force: "1995-10-27"
 ---
-
 # Circulaire bereddingskosten evacués
 
 Geacht gemeentebestuur!

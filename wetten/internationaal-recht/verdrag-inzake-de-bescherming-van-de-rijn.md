@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake de bescherming van de Rijn"
 identifier: "BWBV0001466"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001466"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001466"
+soort: "verdrag"
+stam_id: "10000959553"
+version_id: "10000997912"
+internal_id: "C10006992001"
+label_id: "10000959964"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001466/2003-01-01/0"
+intitule_bron: "Trb.1999-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-01-09"
+intitule_published: "1999-07-27"
+intitule_in_force: "2003-02-14"
+intitule_status: "goed"
+original_publication: "Trb.1999-139"
+original_signed_date: "2001-01-09"
+original_published_date: "1999-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-139"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBV0001466&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBV0001466&g=2003-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-01-09"
+entry_into_force: "2003-01-01"
 ---
-
 # Verdrag inzake de bescherming van de Rijn
 
 De Regeringen
@@ -40,7 +64,7 @@ zich bewust van het feit dat de Rijn een belangrijke Europese vaarweg is en voor
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder
 
@@ -48,7 +72,7 @@ In dit Verdrag wordt verstaan onder
 
 - b). „Commissie” de Internationale Commissie ter Bescherming van de Rijn (IRC).
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Het toepassingsgebied van dit Verdrag omvat
 
@@ -62,7 +86,7 @@ Het toepassingsgebied van dit Verdrag omvat
 
 - e). het stroomgebied van de Rijn, voor zover van belang voor het voorkomen van hoogwaterproblemen en de bescherming tegen overstromingen langs de oevers van de Rijn.
 
-#### Artikel 3. Doelstellingen
+##### Artikel 3. Doelstellingen
 
 Met dit Verdrag streven de Verdragspartijen de volgende doelstellingen na:
 
@@ -92,7 +116,7 @@ Met dit Verdrag streven de Verdragspartijen de volgende doelstellingen na:
 
 5. vermindering van de belasting van de Noordzee afgestemd op de andere maatregelen ter bescherming van dit zeegebied.
 
-#### Artikel 4. Principes
+##### Artikel 4. Principes
 
 De Verdragspartijen laten zich daarbij leiden door de volgende principes:
 
@@ -114,7 +138,7 @@ De Verdragspartijen laten zich daarbij leiden door de volgende principes:
 
 - i). het principe van het niet verschuiven van belasting van het ene milieucompartiment naar het andere.
 
-#### Artikel 5. Plichten van de Verdragspartijen
+##### Artikel 5. Plichten van de Verdragspartijen
 
 Teneinde de in artikel 3 genoemde doelstellingen te verwezenlijken en met inachtneming van de in artikel 4 genoemde beginselen verplichten de Verdragspartijen zich tot het volgende:
 
@@ -142,7 +166,7 @@ Teneinde de in artikel 3 genoemde doelstellingen te verwezenlijken en met inacht
 
 6. Zij informeren bij bedrijfsstoringen of ongevallen waarvan de gevolgen de waterkwaliteit van de Rijn kunnen bedreigen, of bij naderend hoogwater onverwijld de Commissie en de Verdragspartijen die daardoor getroffen kunnen worden overeenkomstig de door de Commissie gecoördineerde waarschuwings- en alarmplannen.
 
-#### Artikel 6. Commissie
+##### Artikel 6. Commissie
 
 1. Voor de tenuitvoerlegging van dit Verdrag blijven de Verdragspartijen in de Commissie samenwerken.
 
@@ -150,7 +174,7 @@ Teneinde de in artikel 3 genoemde doelstellingen te verwezenlijken en met inacht
 
 3. Op vraagstukken met betrekking tot het arbeidsrecht en op sociale vraagstukken is het recht van het land van de zetel van toepassing.
 
-#### Artikel 7. Organisatie van de Commissie
+##### Artikel 7. Organisatie van de Commissie
 
 1. De Commissie bestaat uit de delegaties van de Verdragspartijen. Iedere Verdragspartij benoemt afgevaardigden, van wie er een als delegatieleider wordt aangewezen.
 
@@ -164,7 +188,7 @@ Indien een Verdragspartij afziet van uitoefening van het voorzitterschap, wordt 
 
 5. De Commissie neemt besluiten over maatregelen met betrekking tot de interne organisatie, de noodzakelijk geachte werkstructuur en de jaarlijkse begroting.
 
-#### Artikel 8. Taken van de Commissie
+##### Artikel 8. Taken van de Commissie
 
 1. Teneinde de in artikel 3 omschreven doelstellingen te verwezenlijken vervult de Commissie de volgende taken:
 
@@ -184,7 +208,7 @@ Indien een Verdragspartij afziet van uitoefening van het voorzitterschap, wordt 
 
 4. De Commissie informeert het publiek over de toestand van de Rijn en over de resultaten van haar werkzaamheden. Zij kan rapporten opstellen en openbaar maken.
 
-#### Artikel 9. Plenaire vergaderingen van de Commissie
+##### Artikel 9. Plenaire vergaderingen van de Commissie
 
 1. De Commissie komt eenmaal per jaar op uitnodiging van de voorzitter in plenaire vergadering bijeen.
 
@@ -192,7 +216,7 @@ Indien een Verdragspartij afziet van uitoefening van het voorzitterschap, wordt 
 
 3. De voorzitter stelt de agenda voor. Iedere delegatie heeft het recht die onderwerpen op de agenda te doen plaatsen die zij behandeld wenst te zien.
 
-#### Artikel 10. Besluitvorming van de Commissie
+##### Artikel 10. Besluitvorming van de Commissie
 
 1. Besluiten van de Commissie worden genomen met eenparigheid van stemmen.
 
@@ -204,7 +228,7 @@ Indien een Verdragspartij afziet van uitoefening van het voorzitterschap, wordt 
 
 5. Het huishoudelijk reglement kan voorzien in een schriftelijke procedure.
 
-#### Artikel 11. Tenuitvoerlegging van de besluiten van de Commissie
+##### Artikel 11. Tenuitvoerlegging van de besluiten van de Commissie
 
 1. De Commissie richt haar besluiten over maatregelen als bedoeld in artikel 8, eerste lid, onder b, in de vorm van aanbevelingen aan de Verdragspartijen. De tenuitvoerlegging geschiedt overeenkomstig het nationale recht van de Verdragspartijen.
 
@@ -228,7 +252,7 @@ De Commissie kan op grond van de verslagen van de Verdragspartijen of op grond v
 
 5. De Commissie houdt een lijst bij van haar aan de Verdragspartijen gerichte besluiten. De Verdragspartijen vullen jaarlijks, uiterlijk twee maanden voor de plenaire vergadering van de Commissie, de lijst van de Commissie aan door de stand van zaken aan te geven met betrekking tot de uitvoering van de besluiten van de Commissie.
 
-#### Artikel 12. Secretariaat van de Commissie
+##### Artikel 12. Secretariaat van de Commissie
 
 1. De Commissie heeft een permanent secretariaat, dat de hem door de Commissie gedelegeerde taken uitoefent en dat wordt geleid door een hoofd.
 
@@ -236,13 +260,13 @@ De Commissie kan op grond van de verslagen van de Verdragspartijen of op grond v
 
 3. De Commissie benoemt het hoofd van het secretariaat.
 
-#### Artikel 13. Verdeling van de kosten
+##### Artikel 13. Verdeling van de kosten
 
 1. Elke Verdragspartij draagt de kosten van haar vertegenwoordiging in de Commissie en haar werkstructuur, en elke Verdragsluitende Staat draagt de kosten van het onderzoek en de maatregelen die hij op zijn grondgebied uitvoert.
 
 2. De verdeelsleutel van de Verdragspartijen ter dekking van de kosten van de jaarlijkse begroting worden in het huishoudelijk en financieel reglement van de Commissie vastgelegd.
 
-#### Artikel 14. Samenwerking met andere staten, andere organisaties en externe deskundigen
+##### Artikel 14. Samenwerking met andere staten, andere organisaties en externe deskundigen
 
 1. De Commissie werkt met andere intergouvernementele organisaties samen en kan aan hen aanbevelingen richten.
 
@@ -262,27 +286,27 @@ De Commissie kan op grond van de verslagen van de Verdragspartijen of op grond v
 
 6. In het huishoudelijk en financieel reglement worden de voorwaarden voor de samenwerking alsmede de vereiste voorwaarden voor toelating en deelneming geregeld.
 
-#### Artikel 15. Werktalen
+##### Artikel 15. Werktalen
 
 De werktalen van de Commissie zijn Duits, Frans en Nederlands. De modaliteiten worden in het huishoudelijk en financieel reglement geregeld.
 
-#### Artikel 16. Geschillenbeslechting
+##### Artikel 16. Geschillenbeslechting
 
 1. Indien tussen Verdragspartijen een geschil ontstaat met betrekking tot de interpretatie of toepassing van dit Verdrag, streven deze ernaar tot een oplossing te komen door onderhandeling of via een andere methode van geschillenbeslechting die de Partijen bij het geschil aanvaardbaar achten.
 
 2. Indien het geschil langs deze weg niet kan worden beslecht, wordt, tenzij de Partijen bij het geschil anders beslissen, op verzoek van een van hen een scheidsrechterlijke procedure gevoerd overeenkomstig de bepalingen van de Bijlage bij dit Verdrag, die onderdeel uitmaakt van dit Verdrag.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Elke Verdragspartij deelt de Regering van de Zwitserse Bondsstaat mede dat voldaan is aan de nationale vereisten voor de inwerkingtreding van dit Verdrag. De Regering van de Zwitserse Bondsstaat bevestigt de ontvangst van deze mededelingen en stelt daarvan tevens de andere Verdragspartijen in kennis. Het Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de ontvangst van de laatste mededeling.
 
-#### Artikel 18. Opzegging
+##### Artikel 18. Opzegging
 
 1. Na het verstrijken van een tijdvak van drie jaar na de inwerkingtreding kan dit Verdrag te allen tijde door elke Verdragspartij worden opgezegd door middel van een aan de Regering van de Zwitserse Bondsstaat te richten schriftelijke verklaring.
 
 2. Een opzegging wordt van kracht aan het einde van het jaar dat volgt op de opzegging.
 
-#### Artikel 19. Intrekking en handhaving van het geldende recht
+##### Artikel 19. Intrekking en handhaving van het geldende recht
 
 1. Onverminderd het tweede en derde lid houden bij de inwerkingtreding van dit Verdrag op van kracht te zijn:
 
@@ -296,47 +320,47 @@ Elke Verdragspartij deelt de Regering van de Zwitserse Bondsstaat mede dat volda
 
 3. De verdeling van de kosten ten behoeve van de jaarlijkse begroting overeenkomstig artikel 12 van de Overeenkomst van 29 april 1963 nopens de Internationale Commissie ter bescherming van de Rijn tegen verontreiniging, zoals gewijzigd door de Aanvullende Overeenkomst van 3 december 1976 blijft van kracht totdat de Commissie in het huishoudelijk en financieel reglement een verdeling heeft vastgelegd.
 
-#### Artikel 20. Authentieke tekst en nederlegging
+##### Artikel 20. Authentieke tekst en nederlegging
 
 Dit Verdrag, dat in de Duitse, Franse en Nederlandse taal is opgesteld, zijnde de drie teksten gelijkelijk authentiek, zal worden nedergelegd bij de Regering van de Zwitserse Bondsstaat, die daarvan een voor eensluidend gewaarmerkt afschrift zal doen toekomen aan elke Verdragspartij.
 
-#### 1
+##### 1
 
 Tenzij de Partijen bij het geschil anders besluiten, wordt de scheidsrechterlijke procedure gevoerd met inachtneming van de bepalingen van deze Bijlage.
 
-#### 2
+##### 2
 
 Het scheidsgerecht bestaat uit drie leden. Zowel de klagende als de aangeklaagde Partij wijst een scheidsman aan; de beide aldus aangewezen scheidsmannen wijzen in onderlinge overeenstemming de derde scheidsman aan, die het voorzitterschap van het gerecht op zich neemt.
 
 Indien binnen twee maanden na de benoeming van de tweede scheidsman de voorzitter van het scheidsgerecht niet is aangewezen, gaat de President van het Internationaal Gerechtshof, op verzoek van de meest gerede partij, binnen een volgende periode van twee maanden, over tot de benoeming.
 
-#### 3
+##### 3
 
 Indien binnen twee maanden na de ontvangst van het verzoek bedoeld in artikel 16 van het Verdrag, één van de Partijen bij het geschil niet is overgegaan tot de door haar te verrichten aanwijzing van een lid van het gerecht, kan de andere Partij zich wenden tot de President van het Internationaal Gerechtshof, die de voorzitter van het scheidsgerecht aanwijst binnen een volgende termijn van twee maanden. Zodra de voorzitter van het scheidsgerecht is benoemd, verzoekt hij de Partij die nog geen scheidsman heeft aangewezen dit te doen binnen een termijn van twee maanden. Na het verstrijken van deze termijn wendt hij zich tot de President van het Internationaal Gerechtshof, die binnen een volgende termijn van twee maanden overgaat tot de benoeming.
 
-#### 4
+##### 4
 
 Indien in de in de voorgaande leden bedoelde gevallen de President van het Internationaal Gerechtshof verhinderd mocht zijn of indien hij onderdaan is van een van de Partijen bij het geschil, dient de aanwijzing van de voorzitter van het scheidsgerecht of de benoeming van de scheidsman te geschieden door de vice-president van het Gerechtshof of door het in dienstjaren oudste lid van het Hof dat niet verhinderd is en dat geen onderdaan is van een van de Partijen bij het geschil.
 
-#### 5
+##### 5
 
 De voorgaande bepalingen zijn van overeenkomstige toepassing om in vacatures te voorzien.
 
-#### 6
+##### 6
 
 Het scheidsgerecht beslist overeenkomstig de regels van het internationale recht en, in het bijzonder, overeenkomstig de bepalingen van dit Verdrag.
 
-#### 7
+##### 7
 
 Het scheidsgerecht beslist, zowel ten aanzien van de procedure als van de zaak zelf, met meerderheid van stemmen van zijn leden; wanneer één van de door de Partijen aangewezen leden van het gerecht niet aanwezig is of zich van stemming onthoudt, verhindert dit het gerecht niet uitspraak te doen. Indien de stemmen staken, is de stem van de voorzitter doorslaggevend. De beslissingen van het gerecht zijn bindend voor de Partijen. Deze dragen de kosten van de scheidsman die zij hebben aangewezen en verdelen de andere kosten gelijkelijk. Ten aanzien van de andere punten stelt het scheidsgerecht zelf zijn procedureregels vast.
 
-#### 8
+##### 8
 
 In geval van een geschil tussen twee Verdragspartijen waarvan er één Lidstaat is van de Europese Gemeenschap, die zelf Verdragspartij is, richt de andere Partij het verzoek zowel aan deze Lidstaat als aan de Gemeenschap, die gezamenlijk binnen een termijn van twee maanden na ontvangst van het verzoek, aan die Partij ter kennis brengen of de Lidstaat, de Gemeenschap, dan wel de Lidstaat en de Gemeenschap gezamenlijk Partij zullen zijn bij het geschil. Indien een dergelijke kennisgeving niet wordt gedaan binnen de genoemde termijn, worden de Lidstaat en de Gemeenschap voor de toepassing van het bepaalde in deze Bijlage geacht een en dezelfde Partij te vormen bij het geschil. Hetzelfde geldt wanneer de Lidstaat en de Gemeenschap gezamenlijk Partij zijn bij het geschil.
 
 Bij de ondertekening van het Verdrag inzake de bescherming van de Rijn zijn de delegatieleiders van de IRC overeengekomen dat
 
-#### 1
+##### 1
 
 het Verdrag onverlet laat:
 
@@ -350,15 +374,15 @@ het Verdrag onverlet laat:
 
 - e). de Verklaring van 25 september 1991 van de delegatieleiders van de Regeringen die de Overeenkomstsluitende Partijen van de Overeenkomst van 29 april 1963 nopens de Internationale Commissie ter bescherming van de Rijn tegen verontreiniging zijn.
 
-#### 2
+##### 2
 
 De „stand van de techniek" en de „beste beschikbare technologie" synonieme begrippen zijn en dat deze begrippen, evenals het begrip „beste milieupraktijk" in het kader van het Verdrag inzake de bescherming van de Rijn dienen te worden begrepen zoals zij in het [Verdrag van 17 maart 1992 inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren (Bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBV0001174&bijlage=I) en [II](https://wetten.overheid.nl/jci1.3:c:BWBV0001174&bijlage=II)) en in het [Verdrag van 22 september 1992 inzake de bescherming van het marine milieu in het noordoostelijk deel van de Atlantische Oceaan (Aanhangsel 1)](https://wetten.overheid.nl/jci1.3:c:BWBV0001119&bijlage=1) zijn omschreven.
 
-#### 3
+##### 3
 
 Koblenz de zetel van het secretariaat blijft.
 
-#### 4
+##### 4
 
 Voor het bijleggen van een geschil tussen lidstaten de Europese Gemeenschap dat geen andere staat betreft, [artikel 219 van het Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=219) van toepassing is.
 

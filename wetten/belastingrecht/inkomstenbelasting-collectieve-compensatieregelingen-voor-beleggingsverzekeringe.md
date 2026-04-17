@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, collectieve compensatieregelingen voor beleggingsverzekeringen"
 identifier: "BWBR0030941"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-12-24
-laatste_update: 2011-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030941"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-12-24"
+last_updated: "2011-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030941"
+soort: "beleidsregel"
+stam_id: "11573383"
+version_id: "19074542"
+internal_id: "C26598741"
+label_id: "11546614"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030941/2011-12-24/0"
+intitule_bron: "Stcrt.2011-23113"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-20"
+intitule_published: "2011-12-23"
+intitule_in_force: "2011-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-23113"
+original_signed_date: "2011-12-20"
+original_published_date: "2011-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-23113"
+entry_into_force_date: "2011-12-24"
+jci_1_3: "jci1.3:c:BWBR0030941&z=2011-12-24&g=2011-12-24"
+jci_1_0: "1.0:c:BWBR0030941&g=2011-12-24"
+citeertitel_status: "redactioneel"
+signed_date: "2011-12-20"
+entry_into_force: "2011-12-24"
 ---
-
 # Inkomstenbelasting, collectieve compensatieregelingen voor beleggingsverzekeringen
 
 Dit besluit vervangt het [besluit van 22 januari 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027140), nr. DGB 2010/415 M over de gevolgen voor de inkomstenbelasting van de collectieve compensatieregelingen voor beleggingsverzekeringen (kapitaalverzekeringen en lijfrenteverzekeringen). Het besluit wordt uitgebracht omdat de verzekeraars op dit moment omzettingen van beleggingsverzekeringen aan klanten aanbieden om te komen tot een andere productstructuur daarvan.

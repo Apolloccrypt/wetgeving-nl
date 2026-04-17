@@ -1,13 +1,38 @@
 ---
-title: "Warenwetregeling extractiemiddelen"
+title: "Warenwetregeling Extractiemiddelen"
 identifier: "BWBR0005945"
-categorie: "Overig"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005945"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005945"
+soort: "ministeriele-regeling"
+stam_id: "4613093"
+version_id: "6429342"
+internal_id: "C6674901"
+label_id: "4591414"
+dtd_version: "2.0"
+original_entry_into_force: "1993-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005945/2024-07-01/0"
+intitule_bron: "Stcrt.1993-72"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-04-05"
+intitule_published: "1993-04-15"
+intitule_in_force: "1993-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-72"
+original_signed_date: "1993-04-05"
+original_published_date: "1993-04-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-07-05"
+jci_1_3: "jci1.3:c:BWBR0005945&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0005945&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling extractiemiddelen"
+signed_date: "1993-04-05"
+entry_into_force: "1993-07-05"
 ---
-
 # Warenwetregeling Extractiemiddelen
 
 handelende in overeenstemming met de Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -18,7 +43,7 @@ Gelet op [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR000196
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -32,7 +57,7 @@ Besluit:
 
 - b. zijn bestemd voor uitvoer uit de Europese Unie.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de bereiding van eet- of drinkwaren of bestanddelen daarvan worden uitsluitend de volgende stoffen als extractiemiddel gebruikt:
 
@@ -42,7 +67,7 @@ Bij de bereiding van eet- of drinkwaren of bestanddelen daarvan worden uitsluite
 
 - c. de in bijlage I van [richtlijn 2009/32/EG](32009L0032) genoemde extractiemiddelen onder de daarbij opgenomen gebruiksvoorwaarden en met inachtneming van de eventueel in die bijlage genoemde maximale restgehalten.
 
-#### Artikel 3
+##### Artikel 3
 
 1.
 
@@ -50,7 +75,7 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 2. Extractiemiddelen bevatten geen toxicologisch gevaarlijke hoeveelheden van elementen of stoffen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij het verhandelen van de in [artikel 2, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0005945&artikel=2&z=2024-07-01&g=2024-07-01), bedoelde extractiemiddelen, worden op de verpakking, de recipiënt of het etiket gemakkelijk zichtbaar, duidelijk leesbaar en onuitwisbaar de volgende vermeldingen aangebracht:
 
@@ -70,15 +95,15 @@ Extractiemiddelen bevatten per kg niet meer dan 1 mg arseen of 1 mg lood.
 
 3. Voor de vermeldingen, bedoeld in het eerste lid, wordt gebruik gemaakt van in ieder geval de Nederlandse taal.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang 5 juli 1993.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Warenwetregeling extractiemiddelen.
 

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel andere dag- en weekindeling op scholen in de G5"
+title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 mei 2020, nr. PO/24137474, houdende regels voor een experiment ten behoeve van onderzoek naar een andere dag- en weekindeling in het kader van de noodmaatregelen voor het lerarentekort in het primair onderwijs in de gemeenten Amsterdam, Almere, Den Haag, Rotterdam en Utrecht (Beleidsregel andere dag- en weekindeling op scholen in de G5)"
 identifier: "BWBR0043523"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-12
-laatste_update: 2024-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043523"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-12"
+last_updated: "2024-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043523"
+soort: "beleidsregel"
+stam_id: "15453543"
+version_id: "30218882"
+internal_id: "C43289471"
+label_id: "15396934"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043523/2024-07-12/0"
+intitule_bron: "Stcrt.2020-26759"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-11"
+intitule_published: "2020-05-13"
+intitule_in_force: "2020-05-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21834"
+original_signed_date: "2024-06-11"
+original_published_date: "2024-07-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-21834"
+entry_into_force_date: "2024-06-11"
+jci_1_3: "jci1.3:c:BWBR0043523&z=2024-07-12&g=2024-07-12"
+jci_1_0: "1.0:c:BWBR0043523&g=2024-07-12"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel andere dag- en weekindeling op scholen in de G5"
+signed_date: "2024-06-11"
+entry_into_force: "2024-06-11"
 ---
-
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 11 mei 2020, nr. PO/24137474, houdende regels voor een experiment ten behoeve van onderzoek naar een andere dag- en weekindeling in het kader van de noodmaatregelen voor het lerarentekort in het primair onderwijs in de gemeenten Amsterdam, Almere, Den Haag, Rotterdam en Utrecht (Beleidsregel andere dag- en weekindeling op scholen in de G5)
 
 Gelet op [artikel 2 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **WPO:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-#### Artikel 2. Doel experiment
+##### Artikel 2. Doel experiment
 
 Het doel van het experiment is om bij de deelnemende scholen te onderzoeken:
 
@@ -38,7 +64,7 @@ Het doel van het experiment is om bij de deelnemende scholen te onderzoeken:
 
 - b. of de uitkomsten van het experiment voldoende grond bieden voor het aanpassen van wet- en regelgeving.
 
-#### Artikel 3. Het experiment
+##### Artikel 3. Het experiment
 
 Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken van [artikel 3, eerste lid, onder b, van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3) en [artikel 3, eerste lid, onder b, van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=3) en daarbij andere onderwijsactiviteiten als bedoeld in [artikel 9 van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=9) en [artikel 13 van de WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=13) aanbieden als noodmaatregel, indien:
 
@@ -52,7 +78,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - e. het bevoegd gezag zich blijft inspannen om het grote tekort in de formatie van een school te verminderen, zodat het onderwijs weer kan worden gegeven binnen de kaders van de [WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en [WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549).
 
-#### Artikel 4. De aanvraagprocedure en voorwaarden voor deelname aan het experiment
+##### Artikel 4. De aanvraagprocedure en voorwaarden voor deelname aan het experiment
 
 1. Het bevoegd gezag dat wil deelnemen aan het experiment kan bij de minister een aanvraag doen, mits het bevoegd gezag het noodplan in de betreffende stad heeft ondertekend.
 
@@ -70,7 +96,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - 2°. De wijze waarop onbevoegde docenten worden begeleid bij het geven van onderwijsactiviteiten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2024-07-12&g=2024-07-12).
 
-#### Artikel 5. Selectie en beslistermijn
+##### Artikel 5. Selectie en beslistermijn
 
 1. Voor toelating tot het experiment beoordeelt de minister of de aanvraag voldoet aan de voorschriften uit [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2024-07-12&g=2024-07-12).
 
@@ -86,7 +112,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 3. Aanvragen ingediend na 29 februari 2024 worden afgewezen.
 
-#### Artikel 6. Looptijd van het experiment
+##### Artikel 6. Looptijd van het experiment
 
 1. Het experiment begint op 1 augustus van een schooljaar en eindigt op 31 juli 2026.
 
@@ -96,7 +122,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 4. In afwijking van het eerste lid begint het experiment voor een bevoegd gezag dat vanaf 1 januari 2021 een aanvraag heeft ingediend de dag na ontvangst van de goedkeurende beschikking tot deelname.
 
-#### Artikel 7. Melding gebruik en beëindiging van het gebruik van het noodplan
+##### Artikel 7. Melding gebruik en beëindiging van het gebruik van het noodplan
 
 1. Een school van een bevoegd gezag dat deelneemt aan het experiment kan pas gebruik maken van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2024-07-12&g=2024-07-12) geboden mogelijkheden, nadat de school melding heeft gemaakt bij het onderzoeksbureau van het besluit dat zij voornemens is om de acties uit het plan, bedoeld in [artikel 4, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=4&z=2024-07-12&g=2024-07-12), daadwerkelijk ten uitvoer te brengen.
 
@@ -130,7 +156,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - e. de startdatum en einddatum van de afwijking van de wettelijke voorschriften, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=3&z=2024-07-12&g=2024-07-12).
 
-#### Artikel 8. Plan op schoolniveau
+##### Artikel 8. Plan op schoolniveau
 
 1. Voordat een school een eerste melding doet als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2024-07-12&g=2024-07-12), stelt de school een plan op schoolniveau op en legt dit ter instemming voor aan de medezeggenschapsraad, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3). Indien het plan op schoolniveau inhoudelijk wordt gewijzigd is opnieuw instemming van de medezeggenschapsraad nodig.
 
@@ -140,7 +166,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 - b. de procedure die wordt gevolgd na inzet van het plan op schoolniveau om het gebruik hiervan zo spoedig mogelijk te beëindigen.
 
-#### Artikel 9. Onderzoek en evaluatie
+##### Artikel 9. Onderzoek en evaluatie
 
 1. Bevoegde gezagsorganen en scholen die deelnemen aan dit experiment werken mee aan door of namens de minister ingesteld onderzoek dat gericht is op het verschaffen van inlichtingen aan de minister ten behoeve van de ontwikkeling van het experiment en het beleid.
 
@@ -148,19 +174,19 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag afwijken v
 
 3. De minister schakelt een onderzoeksbureau in ten behoeve van de meldingen, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043523&artikel=7&z=2024-07-12&g=2024-07-12) en het onderzoek bedoeld in de eerste twee leden.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
 2. Deze beleidsregel vervalt met ingang van 31 juli 2026.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel andere dag- en weekindeling op scholen in de G5.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Verlenging experiment
+##### Artikel 5a. Verlenging experiment
 
 De minister verleent een bevoegd gezag dat deelneemt aan het experiment ambtshalve een beschikking tot verlenging van de periode van deelname aan het experiment tot 1 augustus 2026.
 

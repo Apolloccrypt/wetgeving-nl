@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel bevoegdheid graadverlening hoger onderwijs"
+title: "Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 september 2010, nr. HO&S/BS/2010/ 227934, betreffende onder meer de bevoegdheid tot het verlenen van toestemming aan rechtspersonen om graden te verlenen (Beleidsregel bevoegdheid graadverlening hoger onderwijs)"
 identifier: "BWBR0028402"
-categorie: "Onderwijs"
-publicatiedatum: 2024-11-26
-laatste_update: 2024-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028402"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-11-26"
+last_updated: "2024-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028402"
+soort: "beleidsregel"
+stam_id: "10775573"
+version_id: "17752202"
+internal_id: "C24528991"
+label_id: "10750304"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028402/2024-11-26/0"
+intitule_bron: "Stcrt.2010-14710"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-08"
+intitule_published: "2010-09-23"
+intitule_in_force: "2010-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14710"
+original_signed_date: "2010-09-08"
+original_published_date: "2010-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14710"
+entry_into_force_date: "2010-09-24"
+jci_1_3: "jci1.3:c:BWBR0028402&z=2024-11-26&g=2024-11-26"
+jci_1_0: "1.0:c:BWBR0028402&g=2024-11-26"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bevoegdheid graadverlening hoger onderwijs"
+signed_date: "2010-09-08"
+entry_into_force: "2010-09-24"
 ---
-
 # Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 8 september 2010, nr. HO&S/BS/2010/ 227934, betreffende onder meer de bevoegdheid tot het verlenen van toestemming aan rechtspersonen om graden te verlenen (Beleidsregel bevoegdheid graadverlening hoger onderwijs)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2. Reikwijdte
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel heeft betrekking op:
 
@@ -54,7 +80,7 @@ Deze beleidsregel heeft betrekking op:
 
 #### § 3. Het verlenen van toestemming
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister verleent uitsluitend toestemming, indien hij naar aanleiding van de aanvraag en mede op grond van het advies van de inspectie van oordeel is dat:
 
@@ -76,7 +102,7 @@ Deze beleidsregel heeft betrekking op:
 
 #### § 4. Benodigde gegevens en bescheiden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor een beslissing op de aanvraag zijn in ieder geval de volgende gegevens en bescheiden nodig:
 
@@ -114,13 +140,13 @@ Deze beleidsregel heeft betrekking op:
 
 #### § 5. Beslistermijn
 
-#### Artikel 5
+##### Artikel 5
 
 De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit.
 
 #### § 6. Ontneming van rechten
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister kan besluiten dat aan een opleiding of aan alle opleidingen verzorgd door een rechtspersoon voor hoger onderwijs, het recht om graden te verlenen wordt ontnomen, indien:
 
@@ -144,31 +170,31 @@ De minister neemt binnen 16 weken nadat een aanvraag is ingediend, een besluit.
 
 #### § 7. Interpretatie van [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12)
 
-#### Artikel 7
+##### Artikel 7
 
 De inlichtingen, bedoeld in [artikel 1.12, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=1.12), worden opgenomen in het jaarlijkse verslag omtrent de werkzaamheden van de rechtspersoon, bedoeld in artikel 1.12, derde lid, tweede volzin, van de wet.
 
 #### § 8. Overgangs- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Onder gelijktijdige intrekking van de Beleidsregel aanwijzing instellingen voor hoger onderwijs treedt deze beleidsregel in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bevoegdheid graadverlening hoger onderwijs.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Onverminderd [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028402&paragraaf=3&artikel=3&z=2024-11-26&g=2024-11-26), stelt de Minister voor de beoordeling van de continuïteit van de rechtspersoon, bedoeld in [artikel 6.9, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.9), in ieder geval vast of de aanvrager ten minste de kern van het curriculum van de opleiding waarop de aanvraag betrekking heeft zelf verzorgt. Dit houdt ten minste in:
 
@@ -192,7 +218,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 8. Overgangs- en slotbepalingen
 
-#### Artikel 7a
+##### Artikel 7a
 
 Op aanvragen die voor het tijdstip van inwerkingtreding van dit artikel zijn ingediend blijft deze beleidsregel, zoals deze luidde onmiddellijk voorafgaand aan het genoemde tijdstip van inwerkingtreding, van toepassing.
 

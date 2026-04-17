@@ -1,13 +1,38 @@
 ---
 title: "Tariefbeschikking Tandheelkundige zorg"
 identifier: "BWBR0032360"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032360"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032360"
+soort: "zbo"
+stam_id: "11933043"
+version_id: "19833792"
+internal_id: "C27859271"
+label_id: "11904934"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032360/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25203"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-20"
+intitule_published: "2012-12-07"
+intitule_in_force: "2012-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25203"
+original_signed_date: "2012-11-20"
+original_published_date: "2012-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25203"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032360&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032360&g=2013-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2012-11-20"
+entry_into_force: "2013-01-01"
 ---
-
 # Tariefbeschikking Tandheelkundige zorg
 
 De Nederlandse Zorgautoriteit,

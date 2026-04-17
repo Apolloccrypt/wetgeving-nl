@@ -1,13 +1,38 @@
 ---
 title: "Herziene regeling projectwerkbeurzen voor literaire vertalers"
 identifier: "BWBR0027430"
-categorie: "Overig"
-publicatiedatum: 2009-07-21
-laatste_update: 2009-07-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027430"
+country: "nl"
+rank: "zbo"
+publication_date: "2009-07-21"
+last_updated: "2009-07-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027430"
+soort: "zbo"
+stam_id: "10471633"
+version_id: "17230042"
+internal_id: "C23769601"
+label_id: "10447104"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027430/2009-07-21/0"
+intitule_bron: "Stcrt.2010-4675"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-07-21"
+intitule_published: "2010-03-25"
+intitule_in_force: "2010-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-4675"
+original_signed_date: "2009-07-21"
+original_published_date: "2010-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-4675"
+entry_into_force_date: "2009-07-21"
+jci_1_3: "jci1.3:c:BWBR0027430&z=2009-07-21&g=2009-07-21"
+jci_1_0: "1.0:c:BWBR0027430&g=2009-07-21"
+citeertitel_status: "redactioneel"
+signed_date: "2009-07-21"
+entry_into_force: "2009-07-21"
 ---
-
 # Herziene regeling projectwerkbeurzen voor literaire vertalers
 
 Regeling van het bestuur van de Stichting Nederlands Letterenfonds als bedoeld in [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en artikel 5 lid 2 van het Algemeen reglement van de Stichting Nederlands Letterenfonds, afdeling Huddestraat.

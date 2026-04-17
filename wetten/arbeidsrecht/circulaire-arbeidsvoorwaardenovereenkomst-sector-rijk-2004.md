@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2004"
 identifier: "BWBR0018517"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2005-09-09
-laatste_update: 2005-09-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018517"
+country: "nl"
+rank: "circulaire"
+publication_date: "2005-09-09"
+last_updated: "2005-09-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018517"
+soort: "circulaire"
+stam_id: "7144113"
+version_id: "12043272"
+internal_id: "C16150941"
+label_id: "7132134"
+original_entry_into_force: "2005-07-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018517/2005-09-09/0"
+intitule_bron: "Stcrt.2005-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-30"
+intitule_published: "2005-07-06"
+intitule_in_force: "2005-07-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-128"
+original_signed_date: "2005-06-30"
+original_published_date: "2005-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-128-p10-SC70606"
+entry_into_force_date: "2005-07-06"
+jci_1_3: "jci1.3:c:BWBR0018517&z=2005-09-09&g=2005-09-09"
+jci_1_0: "1.0:c:BWBR0018517&g=2005-09-09"
+citeertitel_status: "redactioneel"
+signed_date: "2005-06-30"
+entry_into_force: "2005-07-06"
 ---
-
 # Circulaire Arbeidsvoorwaardenovereenkomst sector Rijk 2004
 
 ### Inleiding

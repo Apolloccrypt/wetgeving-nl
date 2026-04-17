@@ -1,13 +1,39 @@
 ---
-title: "Regeling verkeersregelaars 2009"
+title: "Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de opleiding, de aanstelling, de examinering en de uitrusting van verkeersregelaars (Regeling verkeersregelaars 2009)"
 identifier: "BWBR0025299"
-categorie: "Verkeer"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025299"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025299"
+soort: "ministeriele-regeling"
+stam_id: "9902663"
+version_id: "26216812"
+internal_id: "C37280351"
+label_id: "9879354"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025299/2020-07-01/0"
+intitule_bron: "Stcrt.2009-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-09"
+intitule_published: "2009-02-13"
+intitule_in_force: "2009-02-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-62341"
+original_signed_date: "2019-11-15"
+original_published_date: "2019-11-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-62341"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0025299&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0025299&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verkeersregelaars 2009"
+signed_date: "2019-11-15"
+entry_into_force: "2020-07-01"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de opleiding, de aanstelling, de examinering en de uitrusting van verkeersregelaars (Regeling verkeersregelaars 2009)
 
 Gelet op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=12) en [13 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=13), [artikel 33 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33), de [artikelen 56](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=56) en [58 van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=58), [artikel 30, tweede lid, van het RVV 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=30) en [artikel 5.3.51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.3.51), en [5.3.61, derde lid, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.3.61);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - g. **volledige contourmarkering:** een contourmarkering die de omtrek van het voertuig aangeeft door middel van een doorlopende lijn.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
@@ -46,7 +72,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 #### § 2. Opleiding
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot verkeersregelaar, met uitzondering van de categorie evenementenverkeersregelaars, bestaat uit een theoretisch en een praktisch gedeelte. Beide onderdelen worden afgesloten met een examen, met dien verstande dat het praktijkexamen voor verkeersregelaars met in het kader van het beroep verkeersregelende taken plaatsvindt nadat het theorie-examen met goed gevolg is afgelegd.
 
@@ -58,7 +84,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 5. De evenementenverkeersregelaar volgt de e-instructie van de politie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een getuigschrift wordt afgegeven nadat alle vereiste examens met goed gevolg zijn afgelegd.
 
@@ -66,7 +92,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 #### § 3. Aanstelling transportbegeleiders en verkeersregelaars met in het kader van het beroep verkeersregelende werkzaamheden
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de aanstelling als transportbegeleider komen slechts in aanmerking personen die:
 
@@ -84,7 +110,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 4. De migrerende beroepsbeoefenaar mag meerdere aanpassingsstages volgen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor de aanstelling als verkeersregelaar met in het kader van het beroep verkeersregelende taken komen slechts in aanmerking personen die:
 
@@ -104,7 +130,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 5. De migrerende beroepsbeoefenaar mag meerdere aanpassingsstages volgen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanstelling van transportbegeleiders en verkeersregelaars met in het kader van het beroep verkeersregelende taken geschiedt voor een periode van vijf jaren en wordt vastgelegd in een aanstellingsbesluit. Bij de aanstelling kan een beperking in de uitoefening van de bevoegdheid worden opgelegd.
 
@@ -112,7 +138,7 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 3. Transportbegeleiders en verkeersregelaars met in het kader van het beroep verkeersregelende taken ontvangen tevens een aanstellingspas, die zij tijdens de uitoefening van hun werkzaamheden bij zich dragen. Deze pas is vervaardigd van duurzaam en vochtbestendig materiaal. Op deze pas worden tenminste de volgende gegevens opgenomen: een pasfoto, de naam, de voorletters en de geboortedatum van de betrokkene, de einddatum van de aanstelling, de naam van de afgevende instantie, het afgiftenummer van het aanstellingsbesluit, de eventuele beperkingen in de uitoefening van de bevoegdheid, alsmede de bedrijfsnaam van de werkgever.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanstelling van transportbegeleiders en verkeersregelaars met in het kader van hun beroep verkeersregelende taken kan telkens voor een periode van vijf jaren worden verlengd, met dien verstande dat:
 
@@ -128,13 +154,13 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 #### § 4. Aanstelling evenementenverkeersregelaars
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de aanstelling tot evenementenverkeersregelaar komen uitsluitend in aanmerking personen die de leeftijd van 16 jaren hebben bereikt.
 
 2. Voor de aanstelling tot evenementenverkeersregelaar komen uitsluitend in aanmerking personen die de e-instructie van de politie niet langer dan twaalf maanden vóór de dag van de aanstelling aantoonbaar hebben gevolgd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In het aanstellingsbesluit worden ten minste de volgende gegevens van de evenementenverkeersregelaar opgenomen:
 
@@ -154,23 +180,23 @@ Voor een aanstelling als verkeersregelaar komen uitsluitend in aanmerking:
 
 4. Tijdens de uitoefening van zijn werkzaamheden toont de evenementenverkeersregelaar op eerste vordering een geldig identiteitsbewijs aan het voor het evenement bevoegde gezag of de toezichthouder.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bevoegde gezag draagt er zoveel mogelijk zorg voor dat de politie niet later dan acht weken voor de aanvang van een voorgenomen evenement op de hoogte is van het evenement, en dat de politie de lijst van evenementenverkeersregelaars voor elk evenement tijdig ontvangt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Evenementenverkeersregelaars dienen voor elke inzet de specifiek daarop toegesneden instructie te hebben gevolgd.
 
 2. De evenementenverkeersregelaar is werkzaam volgens de instructies die hem gegeven worden door of namens degene die akkoord heeft gekregen voor het houden van het evenement, dan wel volgens de nadere instructies van de toezichthouder.
 
-#### Artikel 13
+##### Artikel 13
 
 Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de uitoefening van hun taak slechts ingezet op wegen waar in het algemeen niet sneller wordt gereden dan 50 km per uur en indien ter plaatse bij duisternis of slecht zicht voldoende openbare straatverlichting aanwezig is.
 
 #### § 5. Uitrusting
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tijdens de uitoefening van hun taak dragen verkeersregelaars, alsmede personen die optreden tijdens praktijklessen of praktijkexamens in het kader van een opleiding tot verkeersregelaar, voor de duur van hun werkzaamheden, respectievelijk van deze praktijklessen of het praktijkexamen, een jas, hes of poloshirt, die voldoet aan de omschrijving in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025299&bijlage=2&z=2020-07-01&g=2020-07-01).
 
@@ -182,7 +208,7 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 #### § 6. Intrekking van de aanstelling
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het ingevolge [artikel 56, eerste lid, van het BABW](https://wetten.overheid.nl/jci1.3:c:BWBR0004826&artikel=56) bevoegde bestuursorgaan kan de aanstelling intrekken indien:
 
@@ -204,7 +230,7 @@ Evenementenverkeersregelaars die jonger zijn dan achttien jaren worden bij de ui
 
 #### § 7. Overgangsrecht
 
-#### Artikel 16
+##### Artikel 16
 
 De transportbegeleider weigert het transport te begeleiden indien:
 
@@ -214,23 +240,23 @@ De transportbegeleider weigert het transport te begeleiden indien:
 
 #### § 8. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Regeling permanente eisen.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt de Regeling optische en geluidssignalen.
 
-#### Artikel 19
+##### Artikel 19
 
 De [Regeling verkeersregelaars](https://wetten.overheid.nl/jci1.3:c:BWBR0011295) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling treedt in werking met ingang van 1 maart 2009.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling wordt aangehaald als: Regeling verkeersregelaars 2009.
 
@@ -370,7 +396,7 @@ Afbeelding van de jas/hes
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 De aanvraag van een migrerend beroepsbeoefenaar tot het verlenen van erkenning van EU-beroepskwalificaties gaat vergezeld van de volgende documenten:
 

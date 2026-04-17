@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Vuurwerkbesluit, enz. (verbetering uitvoerbaarheid en handhaafbaarheid)"
+title: "Besluit van 15 maart 2012, houdende wijziging van het Vuurwerkbesluit en enkele andere algemene maatregelen van bestuur (verbetering uitvoerbaarheid en handhaafbaarheid Vuurwerkbesluit)"
 identifier: "BWBR0031399"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-01
-laatste_update: 2012-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031399"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-07-01"
+last_updated: "2012-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031399"
+soort: "AMvB"
+stam_id: "11696913"
+version_id: "19308562"
+internal_id: "C26963291"
+label_id: "11669564"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031399/2012-07-01/0"
+intitule_bron: "Stb.2012-127"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-15"
+intitule_published: "2012-03-29"
+intitule_in_force: "2012-03-29"
+intitule_status: "goed"
+original_publication: "Stb.2012-127"
+original_signed_date: "2012-03-15"
+original_published_date: "2012-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2012-127"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031399&z=2012-07-01&g=2012-07-01"
+jci_1_0: "1.0:c:BWBR0031399&g=2012-07-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Vuurwerkbesluit, enz. (verbetering uitvoerbaarheid en handhaafbaarheid)"
+signed_date: "2012-03-15"
+entry_into_force: "2012-07-01"
 ---
-
 # Besluit van 15 maart 2012, houdende wijziging van het Vuurwerkbesluit en enkele andere algemene maatregelen van bestuur (verbetering uitvoerbaarheid en handhaafbaarheid Vuurwerkbesluit)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Milieu van 21 april 2011, nr. BJZ2011043272, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Veiligheid en Justitie en Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -30,33 +56,33 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Milieu va
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Vuurwerkbesluit.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit omgevingsrecht.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit vervoer gevaarlijke stoffen.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Indien voor 1 juli 2012 nog niet is beslist op een aanvraag om een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0024779&artikel=2.1) voor de opslag van consumentenvuurwerk, en met ingang van die datum een zodanige vergunning voor die opslag niet langer vereist is, wordt de aanvraag om de vergunning gelijkgesteld met een melding als bedoeld in [artikel 2.2.4, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=2.2.4).
 
 2. Voor een inrichting waarvoor onmiddellijk voorafgaand aan 1 juli 2012 voor de opslag van consumentenvuurwerk een omgevingsvergunning in werking en onherroepelijk was, die met ingang van die datum niet langer vereist is, worden de aan de vergunning verbonden voorschriften, voor zover die betrekking hebben op de opslag van consumentenvuurwerk, gelijkgesteld met maatwerkvoorschriften als bedoeld in [artikel 8.42 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.42), mits de aan de vergunning verbonden voorschriften vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van maatwerkvoorschriften.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit besluit treedt in werking met ingang van 1 juli 2012.
 

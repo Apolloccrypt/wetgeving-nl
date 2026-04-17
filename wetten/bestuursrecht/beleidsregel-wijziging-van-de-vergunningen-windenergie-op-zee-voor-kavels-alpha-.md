@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver"
+title: "Beleidsregel van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 37829962, houdende beleidsregels inzake de wijziging van de vergunningen windenergie op zee voor de kavels Alpha en Beta in windenergiegebied IJmuiden Ver (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver)"
 identifier: "BWBR0049137"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-30
-laatste_update: 2023-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049137"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-12-30"
+last_updated: "2023-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049137"
+soort: "beleidsregel"
+stam_id: "16979483"
+version_id: "29851472"
+internal_id: "C42792871"
+label_id: "16889904"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049137/2023-12-30/0"
+intitule_bron: "Stcrt.2023-34859"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-12"
+intitule_published: "2023-12-29"
+intitule_in_force: "2023-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34859"
+original_signed_date: "2023-12-12"
+original_published_date: "2023-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34859"
+entry_into_force_date: "2023-12-30"
+jci_1_3: "jci1.3:c:BWBR0049137&z=2023-12-30&g=2023-12-30"
+jci_1_0: "1.0:c:BWBR0049137&g=2023-12-30"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver"
+signed_date: "2023-12-12"
+entry_into_force: "2023-12-30"
 ---
-
 # Beleidsregel van de Minister voor Klimaat en Energie van 12 december 2023, nr. WJZ/ 37829962, houdende beleidsregels inzake de wijziging van de vergunningen windenergie op zee voor de kavels Alpha en Beta in windenergiegebied IJmuiden Ver (Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver)
 
 Gelet op [artikel 17, vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=17) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel is van toepassing op de aanvraag voor een wijziging van een vergunning die overeenkomstig [artikel 25b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) is verleend voor kavel Alpha of kavel Beta.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvraag gaat vergezeld van toelichting die inzichtelijk maakt wat de invloed van de beoogde wijziging van de vergunning is op:
 
@@ -64,7 +90,7 @@ Deze beleidsregel is van toepassing op de aanvraag voor een wijziging van een ve
 
 - e. overige wijzigingen die van invloed zijn op de windenergie-opbrengstberekening.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister wijzigt de vergunning indien de wijziging van de vergunning leidt tot de realisatie of exploitatie van een windpark:
 
@@ -72,11 +98,11 @@ De minister wijzigt de vergunning indien de wijziging van de vergunning leidt to
 
 - b. waarvan een vergunningsaanvraag bij de rangschikking een gelijke of hogere waardering in punten zou hebben opgeleverd bij de toepassing van elk rangschikkingscriterium.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel wijziging van de vergunningen windenergie op zee voor kavels Alpha en Beta in windenergiegebied IJmuiden Ver.
 

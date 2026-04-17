@@ -1,13 +1,39 @@
 ---
-title: "Besluit beveiliging gegevens telecommunicatie"
+title: "Besluit van 28 oktober 2003, houdende regels betreffende door aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit beveiliging gegevens aftappen telecommunicatie)"
 identifier: "BWBR0015808"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015808"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015808"
+soort: "AMvB"
+stam_id: "5477263"
+version_id: "16626312"
+internal_id: "C22893841"
+label_id: "5451804"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015808/2018-05-01/0"
+intitule_bron: "Stb.2003-472"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-28"
+intitule_published: "2003-11-25"
+intitule_in_force: "2005-03-22"
+intitule_status: "goed"
+original_publication: "Stb.2009-350"
+original_signed_date: "2009-08-11"
+original_published_date: "2009-08-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2009-350"
+entry_into_force_date: "2009-09-01"
+jci_1_3: "jci1.3:c:BWBR0015808&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0015808&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beveiliging gegevens telecommunicatie"
+signed_date: "2009-08-11"
+entry_into_force: "2009-09-01"
 ---
-
 # Besluit van 28 oktober 2003, houdende regels betreffende door aanbieders van openbare telecommunicatienetwerken of openbare telecommunicatiediensten te treffen beveiligingsmaatregelen ten aanzien van gegevens betreffende het aftappen en opnemen van telecommunicatie (Besluit beveiliging gegevens aftappen telecommunicatie)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 15 mei 2003, nr. WJZ/03/02344 gedaan mede namens Onze Minister van Justitie, Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Defensie;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Minister van Economische Zaken van 22 oktober 20
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - d. bijzondere last: last tot het aftappen of opnemen van telecommunicatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanbieder draagt zorg voor het treffen van alle noodzakelijke beveiligingsmaatregelen om kennisneming door onbevoegden te voorkomen van de navolgende gegevens en informatie:
 
@@ -62,25 +88,25 @@ In dit besluit wordt verstaan onder:
 
 3. Tot de maatregelen, bedoeld in het eerste en tweede lid worden in ieder geval gerekend de maatregelen, bedoeld in de bijlage bij dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanbieder draagt zorg voor een beveiligingsplan, waarin hij aangeeft op welke wijze door hem uitvoering is gegeven aan zijn beveiligingsplicht. In het beveiligingsplan wordt ten minste aangegeven op welke wijze uitvoering is gegeven aan de maatregelen, bedoeld in de bijlage.
 
 2. Op een daartoe strekkend verzoek van de bevoegde autoriteit wordt door de aanbieder inzage verleend in het beveiligingsplan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit lid is nog niet in werking getreden.
 
 2. De aanbieder draagt er zorg voor dat aan de uitvoering van de in [artikel 13.2, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2) bedoelde bevoegd gegeven bijzondere last en de in de [artikelen 13.2b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2b) en [13.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.4) neergelegde verplichting tot het verstrekken van informatie, de medewerking uitsluitend wordt verleend door personen, die aan hem een verklaring omtrent het gedrag als bedoeld in de [Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002195) hebben overgelegd. De eerste volzin is niet van toepassing, indien de betrokken persoon een vertrouwensfunctie uitoefent als bedoeld in het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanbieder draagt er zorg voor dat de gegevens, die ingevolge [artikel 13.2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a), worden bewaard, onverwijld doch uiterlijk binnen acht dagen na afloop van de termijn, bedoeld in [artikel 13.2a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.2a), worden vernietigd.
 
 2. [Artikel 5, eerste lid, van het Besluit bewaren en vernietigen niet-gevoegde stukken](https://wetten.overheid.nl/jci1.3:c:BWBR0010975&artikel=5) is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, indien op de vertrouwelijkheid van enigerlei gegevens of informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01), een ongeoorloofde inbreuk is gemaakt. Hierbij vermeldt de aanbieder:
 
@@ -90,7 +116,7 @@ De aanbieder stelt de desbetreffende bevoegde autoriteit terstond op de hoogte, 
 
 - c. de maatregelen welke zijn genomen om verdere verspreiding van bedoelde informatie of gegevens tegen te gaan en herhaling van het gebeurde te voorkomen.
 
-#### Artikel 7
+##### Artikel 7
 
 De aanbieder draagt er zorg voor dat de personeelsleden die belast zijn met:
 
@@ -100,7 +126,7 @@ De aanbieder draagt er zorg voor dat de personeelsleden die belast zijn met:
 
 met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij in dat kader kennis nemen, geheimhouding betrachten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien de aanbieder de uitvoering van werkzaamheden uitbesteedt aan een derde en in dat kader de derde kennis neemt of kan nemen van gegevens en informatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015808&artikel=2&z=2018-05-01&g=2018-05-01), draagt de aanbieder er zorg voor dat de derde zich verplicht:
 
@@ -116,7 +142,7 @@ met betrekking tot deze werkzaamheden en de gegevens en informatie waarvan zij i
 
 3. De aanbieder is verantwoordelijk voor de naleving door de derde van de verplichtingen, bedoeld in het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -190,7 +216,7 @@ c. In afwijking van onderdeel b, is het op afstand onderhouden van geautomatisee
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit beveiliging gegevens telecommunicatie.
 

@@ -1,13 +1,38 @@
 ---
 title: "Circulaire benoeming, klankbordgesprekken en herbenoeming burgemeesters"
 identifier: "BWBR0040084"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-10-01
-laatste_update: 2017-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040084"
+country: "nl"
+rank: "circulaire"
+publication_date: "2017-10-01"
+last_updated: "2017-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040084"
+soort: "circulaire"
+stam_id: "14314913"
+version_id: "24528092"
+internal_id: "C35133221"
+label_id: "14275634"
+dtd_version: "2.0"
+original_entry_into_force: "2017-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040084/2017-10-01/0"
+intitule_bron: "Stcrt.2017-58959"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-09-29"
+intitule_published: "2017-10-18"
+intitule_in_force: "2017-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-58959"
+original_signed_date: "2017-09-29"
+original_published_date: "2017-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-58959"
+entry_into_force_date: "2017-10-01"
+jci_1_3: "jci1.3:c:BWBR0040084&z=2017-10-01&g=2017-10-01"
+jci_1_0: "1.0:c:BWBR0040084&g=2017-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2017-09-29"
+entry_into_force: "2017-10-01"
 ---
-
 # Circulaire benoeming, klankbordgesprekken en herbenoeming burgemeesters
 
 Hierbij doe ik u de vernieuwde circulaire benoeming, herbenoeming en klankbordgesprekken burgemeester toekomen. Ten opzichte van de oude circulaire uit 2012 zijn er belangrijke wijzigingen.

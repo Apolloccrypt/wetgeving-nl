@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit hoeveelheden voorverpakkingen"
+title: "Besluit van 1 september 2014, houdende regels voor het aanduiden van de hoeveelheid op voorverpakkingen (Warenwetbesluit hoeveelheden voorverpakkingen)"
 identifier: "BWBR0035560"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-21
-laatste_update: 2023-01-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035560"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-21"
+last_updated: "2023-01-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035560"
+soort: "AMvB"
+stam_id: "12800533"
+version_id: "21735722"
+internal_id: "C31195201"
+label_id: "12770394"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035560/2023-01-21/0"
+intitule_bron: "Stb.2014-329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-01"
+intitule_published: "2014-09-19"
+intitule_in_force: "2014-09-19"
+intitule_status: "goed"
+original_publication: "Stb.2014-329"
+original_signed_date: "2014-09-01"
+original_published_date: "2014-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-329"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035560&z=2023-01-21&g=2023-01-21"
+jci_1_0: "1.0:c:BWBR0035560&g=2023-01-21"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit hoeveelheden voorverpakkingen"
+signed_date: "2014-09-01"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 1 september 2014, houdende regels voor het aanduiden van de hoeveelheid op voorverpakkingen (Warenwetbesluit hoeveelheden voorverpakkingen)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 juni 2014, kenmerk 382626-122055-VGP, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -28,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -56,7 +82,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is van toepassing op voorverpakkingen als bedoeld in artikel 1 van [Richtlijn 76/211/EEG](31976L0211).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden voorverpakkingen in de handel te brengen anders dan met inachtneming van de bij dit besluit gestelde voorschriften.
 
@@ -64,15 +90,15 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Voorverpakkingen met een ℮-teken
 
-#### Artikel 3
+##### Artikel 3
 
 Het in de handel brengen van voorverpakkingen met daarop het ℮-teken geschiedt met inachtneming van de bij de artikelen 3, eerste lid, en 4, eerste tot en met derde lid, van [Richtlijn 76/211/EEG](31976L0211) gestelde voorschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517) is een wettig meetmiddel als bedoeld in bijlage I, punt 4, tweede alinea, van [Richtlijn 76/211/EEG](31976L0211).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een vulbedrijf niet de werkelijke inhoud van elke voorverpakking met daarop een ℮-teken meet, beschikt het vulbedrijf over een door Onze Minister erkend bedrijfscontrolesysteem.
 
@@ -84,7 +110,7 @@ Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.ove
 
 5. De voorlopige erkenning voor de betrokkene van een bedrijfscontrolesysteem vervalt van rechtswege na een periode van zes maanden, of, indien dit eerder is, met ingang van de inwerkingtreding van een besluit tot verlening of tot weigering van een definitieve erkenning van een bedrijfscontrolesysteem.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de importeur niet de werkelijke inhoud van elke voorverpakking met daarop een ℮-teken meet, beschikt de importeur over een door Onze Minister erkend bedrijfscontrolesysteem dan wel een verklaring waaruit blijkt dat de werkelijke inhoud van voorverpakkingen met daarop het ℮-teken is gegarandeerd.
 
@@ -92,13 +118,13 @@ Een geregeld meetinstrument als bedoeld in de [Metrologiewet](https://wetten.ove
 
 3. Indien een importeur gebruik maakt van een bedrijfscontrolesysteem is [artikel 5, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=5&z=2023-01-21&g=2023-01-21), van overeenkomstige toepassing op de erkenning van het bedrijfscontrolesysteem.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvrager is aan Onze Minister een retributie verschuldigd voor elke ingediende aanvraag voor en afgifte van een voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en voor de aanvraag voor en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21).
 
 2. Onze Minister stelt ter uitvoering van het eerste lid nadere regels. Deze regels hebben in elk geval betrekking op de hoogte van de retributies voor de voorlopige of definitieve erkenning van een bedrijfscontrolesysteem en de afgifte van een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21).
 
-#### Artikel 8
+##### Artikel 8
 
 De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een verklaring als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0035560&paragraaf=2&artikel=6&z=2023-01-21&g=2023-01-21), kan door Onze Minister worden ingetrokken indien:
 
@@ -108,23 +134,23 @@ De voorlopige of definitieve erkenning van een bedrijfscontrolesysteem, of een v
 
 - c. het vulbedrijf of de importeur een voorverpakking met daarop een ℮-teken verhandelt ten aanzien waarvan niet is voldaan aan dit besluit.
 
-#### Artikel 9
+##### Artikel 9
 
 De termijn gedurende welke de in bijlage I, punt 4, vijfde alinea, van [Richtlijn 76/211/EEG](31976L0211), bedoelde documenten ter beschikking van de met het toezicht op de naleving van dit besluit belaste ambtenaren of personen worden gehouden, bedraagt ten minste één jaar.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### § 3. Voorverpakkingen zonder ℮-teken
 
-#### Artikel 11
+##### Artikel 11
 
 Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakking in elk geval de hoeveelheid van de waar die op de verpakking wordt aangegeven.
 
 #### § 4. Nominale hoeveelheden voor gedistilleerde dranken
 
-#### Artikel 12
+##### Artikel 12
 
 1. Gedistilleerde drank dat in een voorverpakking binnen het in punt 1 van de bijlage bij [Richtlijn 2007/45/EG](32007L0045) vermelde interval voor gedistilleerde drank is verpakt, wordt uitsluitend in de handel gebracht indien het is voorverpakt in de in punt 1 van die bijlage voor gedistilleerde dranken vermelde nominale hoeveelheden.
 
@@ -136,23 +162,23 @@ Indien op een voorverpakking geen ℮-teken is aangebracht bevat de voorverpakki
 
 #### § 5. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Hoeveelheidsaanduidingenbesluit (Warenwet)](https://wetten.overheid.nl/jci1.3:c:BWBR0003310) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Warenwetbesluit hoeveelheden voorverpakkingen.
 

@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de wederzijdse erkenning en de tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken"
 identifier: "BWBV0001018"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1979-01-10
-laatste_update: 1979-01-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001018"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-01-10"
+last_updated: "1979-01-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001018"
+soort: "verdrag"
+stam_id: "10002496023"
+version_id: "10002489242"
+internal_id: "C10008421171"
+label_id: "10002485604"
+dtd_version: "2.0"
+original_entry_into_force: "1979-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001018/1979-01-10/0"
+intitule_bron: "Trb.1976-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-01-10"
+intitule_published: "1976-09-29"
+intitule_in_force: "1979-01-26"
+intitule_status: "goed"
+original_publication: "Trb.1976-144"
+original_signed_date: "1979-01-10"
+original_published_date: "1976-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-144"
+entry_into_force_date: "1979-01-10"
+jci_1_3: "jci1.3:c:BWBV0001018&z=1979-01-10&g=1979-01-10"
+jci_1_0: "1.0:c:BWBV0001018&g=1979-01-10"
+citeertitel_status: "redactioneel"
+signed_date: "1979-01-10"
+entry_into_force: "1979-01-10"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Suriname betreffende de wederzijdse erkenning en de tenuitvoerlegging van rechterlijke beslissingen en authentieke akten in burgerlijke zaken
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -22,7 +47,7 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. Toepassingsgebied van de Overeenkomst
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Overeenkomst is van toepassing op:
 
@@ -46,7 +71,7 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK II. Erkenning en tenuitvoerlegging
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een in het Koninkrijk der Nederlanden of in de Republiek Suriname door een gerecht gegeven beslissing wordt in het andere land overeenkomstig de bepalingen van deze Overeenkomst erkend en tenuitvoergelegd indien:
 
@@ -56,7 +81,7 @@ Zijn overeengekomen als volgt:
 
 2. Onder beslissing in de zin van deze Overeenkomst wordt verstaan elke door een gerecht in het Koninkrijk der Nederlanden of in de Republiek Suriname gegeven beslissing, ongeacht de daaraan gegeven benaming zoals vonnis, beschikking, rechterlijk dwangbevel of arrest.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de zin van deze Overeenkomst zijn de volgende gerechten bevoegd tot het geven van beslissingen:
 
@@ -70,17 +95,17 @@ Zijn overeengekomen als volgt:
 
 2. Daarenboven is het gerecht van het land van herkomst bevoegd in de zin van deze Overeenkomst, wanneer de persoon tegen wie de erkenning of de tenuitvoerlegging wordt verzocht eiser was in de zaak voor het gerecht van het land van herkomst en dat gerecht hem in het ongelijk heeft gesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 De erkenning of de tenuitvoerlegging van een beslissing kan slechts worden geweigerd, indien de erkenning of de tenuitvoerlegging kennelijk onverenigbaar is met de openbare orde van het aangezochte land.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd het bepaalde in artikel 4 erkent in het geval van een bij verstek gegeven beslissing het gerecht, waaraan de erkenning of de tenuitvoerlegging wordt verzocht, de beslissing slechts indien vaststaat dat het stuk, dat het geding inleidt, overeenkomstig het recht van het land van herkomst is medegedeeld of betekend aan de partij tegen wie het verstek werd verleend en aan die partij een termijn was gelaten die, de omstandigheden van het geval in aanmerking nemende, voldoende was voor het voeren van verweer.
 
 2. Eveneens onverminderd het bepaalde in artikel 4 kan een gerecht een uitspraak tot erkenning of tenuitvoerlegging van een bij verstek gegeven beslissing weigeren indien hem niet is gebleken, dat in het land van herkomst van deze beslissing al het nodige is gedaan om te bewerkstelligen dat het stuk, dat het geding inleidt, de verweerder in feite heeft bereikt alsmede dat aan de verweerder voldoende tijd is gelaten om zijn verweer te kunnen voeren.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd het bepaalde in de artikelen 3 en 4, gaat het gerecht van het aangezochte land in geen geval over tot een onderzoek naar de juistheid van de in het land van herkomst gegeven beslissing.
 
@@ -88,7 +113,7 @@ De erkenning of de tenuitvoerlegging van een beslissing kan slechts worden gewei
 
 ### HOOFDSTUK III. Procedure betreffende de erkenning en de tenuitvoerlegging
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een beslissing wordt voorzien van het verlof tot tenuitvoerlegging, wanneer zij in het land van herkomst vatbaar is voor tenuitvoerlegging. Desalniettemin kan het gerecht van het aangezochte land zijn uitspraak tot het verlenen van het verlof tot tenuitvoerlegging aanhouden indien tegen de beslissing een gewoon rechtsmiddel is aangewend.
 
@@ -98,7 +123,7 @@ De erkenning of de tenuitvoerlegging van een beslissing kan slechts worden gewei
 
 - b. voor wat betreft de Republiek Suriname: de kantonrechter waar de wederpartij van de verzoeker woonplaats heeft of waar de tenuitvoerlegging wordt verlangd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De partij, die de erkenning inroept of de tenuitvoerlegging verlangt, moet de volgende documenten overleggen:
 
@@ -114,15 +139,15 @@ De erkenning of de tenuitvoerlegging van een beslissing kan slechts worden gewei
 
 4. Wanneer bij de beslissing over verschillende punten van de eis afzonderlijk uitspraak is gedaan, kan de erkenning of tenuitvoerlegging voor een of meer onderdelen van de beslissing worden verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Onverminderd de bepalingen van deze Overeenkomst wordt de procedure ter verkrijging van het verlof tot tenuitvoerlegging geregeld door het recht van het land waar de tenuitvoerlegging moet plaatshebben.
 
-#### Artikel 10
+##### Artikel 10
 
 De erkenning of de tenuitvoerlegging van een veroordeling in de proceskosten kan slechts krachtens deze Overeenkomst worden verleend, indien de Overeenkomst van toepassing is op de beslissing over de hoofdvordering.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De partij die in het land van herkomst toestemming had verkregen om kosteloos of tegen verminderd tarief te procederen, behoudt, onder de door het recht van het aangezochte land gestelde voorwaarden, dit recht in elke procedure ter verkrijging in dat land van de erkenning of de tenuitvoerlegging van de beslissing, mits zij een document overlegt waaruit die toestemming blijkt.
 
@@ -130,7 +155,7 @@ De erkenning of de tenuitvoerlegging van een veroordeling in de proceskosten kan
 
 ### HOOFDSTUK IV. Authentieke akten en gerechtelijke schikkingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Authentieke akten, verleden in het Koninkrijk der Nederlanden of in de Republiek Suriname, worden als in kracht van gewijsde gegane rechterlijke beslissingen tenuitvoergelegd overeenkomstig het bepaalde in deze Overeenkomst, voorzover zij in het land van herkomst voor tenuitvoerlegging vatbaar zijn.
 
@@ -138,11 +163,11 @@ De erkenning of de tenuitvoerlegging van een veroordeling in de proceskosten kan
 
 3. Artikel 4 is in beide gevallen van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze Overeenkomst maakt geen inbreuk op andere verdragen betreffende de erkenning en de tenuitvoerlegging van rechterlijke beslissingen in burgerlijke zaken en authentieke akten, waarbij het Koninkrijk der Nederlanden of de Republiek Suriname reeds partij is.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De vonnissen, bevelen en grossen van authentieke akten welke in burgerlijke zaken zijn uitgesproken, gegeven of tot stand gekomen vóór of op 24 november 1975, blijven op de voet van artikel 40 van het Statuut voor het Koninkrijk der Nederlanden in elk van de beide Staten voor tenuitvoerlegging vatbaar.
 
@@ -150,7 +175,7 @@ Deze Overeenkomst maakt geen inbreuk op andere verdragen betreffende de erkennin
 
 ### HOOFDSTUK V. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Wat het Koninkrijk der Nederlanden betreft, zal deze Overeenkomst alleen gelden voor het in Europa gelegen grondgebied van het Koninkrijk.
 
@@ -158,7 +183,7 @@ Deze Overeenkomst maakt geen inbreuk op andere verdragen betreffende de erkennin
 
 3. Met inachtneming van het bepaalde in artikel 16, tweede lid, kunnen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Suriname de toepassing van de Overeenkomst op de Nederlandse Antillen, bedoeld in het tweede lid van dit artikel, beëindigen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De onderhavige Overeenkomst treedt in werking nadat de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld, dat in hun landen aan de terzake geldende constitutionele vereisten is voldaan.
 

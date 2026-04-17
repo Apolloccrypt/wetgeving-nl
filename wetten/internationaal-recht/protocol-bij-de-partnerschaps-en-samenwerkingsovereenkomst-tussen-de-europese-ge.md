@@ -1,13 +1,35 @@
 ---
 title: "Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie"
 identifier: "BWBV0003109"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-02-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003109"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-02-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003109"
+soort: "verdrag"
+stam_id: "10003333923"
+version_id: "10003363792"
+internal_id: "C10008429911"
+label_id: "10003319514"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003109/2009-02-01/0"
+intitule_bron: "Trb.2008-198"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-10-15"
+intitule_in_force: "2009-11-19"
+intitule_status: "goed"
+original_publication: "Trb.2008-198"
+original_published_date: "2008-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-198"
+entry_into_force_date: "2009-02-01"
+jci_1_3: "jci1.3:c:BWBV0003109&z=2009-02-01&g=2009-02-01"
+jci_1_0: "1.0:c:BWBV0003109&g=2009-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-02-01"
 ---
-
 # Protocol bij de Partnerschaps- en Samenwerkingsovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -86,33 +108,33 @@ Rekening houdende met de wens van de partijen om de verwezenlijking en tenuitvoe
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Bulgarije en Roemenië worden partij bij de [partnerschaps- en samenwerkingsovereenkomst waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Republiek Oezbekistan, anderzijds](https://wetten.overheid.nl/jci1.3:c:BWBV0001350), die op 21 juni 1996 te Luxemburg is ondertekend en op 1 juli 1999 in werking is getreden (hierna “de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001350)” genoemd), en dienen, op dezelfde wijze als de andere lidstaten, de tekst van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001350) en die van de gemeenschappelijke verklaringen, de briefwisselingen en de verklaring van de Republiek Oezbekistan die aan de op diezelfde datum ondertekende [slotakte](onbekend) zijn gehecht, alsmede het [protocol bij de overeenkomst van 30 april 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001659), dat op 1 november 2005 in werking is getreden, goed te keuren dan wel er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit protocol vormt een integrerend onderdeel van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001350).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit protocol wordt door de Gemeenschappen, door de Raad van de Europese Unie namens de lidstaten en door de Republiek Oezbekistan volgens hun eigen procedures goedgekeurd.
 
 2. De partijen stellen elkaar in kennis van de voltooiing van de in voorgaand lid bedoelde procedures. De akten van goedkeuring worden nedergelegd bij het secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum waarop de laatste akte van goedkeuring is nedergelegd.
 
 2. Dit protocol is in afwachting van zijn inwerkingtreding voorlopig van toepassing met ingang van 1 januari 2007.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De tekst van de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001350), van de [slotakte](onbekend) en van alle daaraan gehechte documenten, alsmede het [protocol bij de overeenkomst van 30 april 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001659), worden opgesteld in de Bulgaarse en de Roemeense taal.
 
 2. Zij zijn aan dit protocol gehecht en zijn evenzeer authentiek als de teksten in de andere talen waarin de [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001350), de [slotakte](onbekend) en de daaraan gehechte documenten zijn opgesteld, alsmede het [protocol bij de overeenkomst van 30 april 2004](https://wetten.overheid.nl/jci1.3:c:BWBV0001659).
 
-#### Artikel 6
+##### Artikel 6
 
 Dit protocol is opgesteld in tweevoud in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Oezbeekse taal, zijnde alle teksten gelijkelijk authentiek.
 

@@ -1,20 +1,44 @@
 ---
 title: "Ondernemersregeling zendinrichtingen"
 identifier: "BWBR0004455"
-categorie: "Overig"
-publicatiedatum: 1996-09-01
-laatste_update: 1996-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004455"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-09-01"
+last_updated: "1996-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004455"
+soort: "ministeriele-regeling"
+stam_id: "5100103"
+version_id: "9161882"
+internal_id: "C12189181"
+label_id: "5075584"
+dtd_version: "2.0"
+original_entry_into_force: "1989-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004455/1996-09-01/0"
+intitule_bron: "Stcrt.1988-254"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-12-19"
+intitule_published: "1988-12-30"
+intitule_in_force: "1988-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1988-254"
+original_signed_date: "1988-12-19"
+original_published_date: "1988-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-01-01"
+jci_1_3: "jci1.3:c:BWBR0004455&z=1996-09-01&g=1996-09-01"
+jci_1_0: "1.0:c:BWBR0004455&g=1996-09-01"
+citeertitel_status: "officieel"
+signed_date: "1988-12-19"
+entry_into_force: "1989-01-01"
 ---
-
 # Ondernemersregeling zendinrichtingen
 
 Gelet op de artikelen D.1.3, D.1.4 en D.4.3 van het Besluit radio-elektrische inrichtingen (Stb. 1988, 552);
 
 Besluit:
 
-#### Artikel 1. Indeling
+##### Artikel 1. Indeling
 
 Ten behoeve van registratie worden zendinrichtingen ingedeeld in de volgende klassen:
 
@@ -32,7 +56,7 @@ Ten behoeve van registratie worden zendinrichtingen ingedeeld in de volgende kla
 
 - c. zendinrichtingen klasse III: andere zendinrichtingen dan bedoeld onder a en b.
 
-#### Artikel 2. Registratie van zendinrichtingen
+##### Artikel 2. Registratie van zendinrichtingen
 
 1. De ondernemer aan wie machtiging is verleend ten behoeve van de vervaardiging, de handel, export, reparatie en installatie van zendinrichtingen is verplicht voor zendinrichtingen voor lokale radio-omroep, alsmede voor zendinrichtingen van de klassen II en III, voor elke klasse afzonderlijk een doorlopend register te houden overeenkomstig het model zoals is opgenomen in bijlage 2 behorend bij deze regeling en daarin onverwijld aantekening te houden van alle door hem vervaardigde, ontvangen en afgeleverde zendinrichtingen.
 
@@ -42,7 +66,7 @@ Ten behoeve van registratie worden zendinrichtingen ingedeeld in de volgende kla
 
 4. Indien de te registreren zendinrichtingen niet zijn voorzien van een serienummer, is de ondernemer verplicht een eigen serienummer hierop aan te brengen op een zodanige wijze dat dit nummer niet op eenvoudige wijze uitwisbaar of verwijderbaar is.
 
-#### Artikel 3. Niet voor het publiek toegankelijke plaats
+##### Artikel 3. Niet voor het publiek toegankelijke plaats
 
 1. Als zendinrichtingen die op een niet voor het publiek toegankelijke plaats aanwezig dienen te zijn worden aangewezen zendinrichtingen van de klasse III.
 
@@ -52,7 +76,7 @@ Ten behoeve van registratie worden zendinrichtingen ingedeeld in de volgende kla
 
 4. Ten behoeve van beurzen en tentoonstellingen kan Onze Minister onder daarbij te stellen voorschriften en beperkingen ontheffing verlenen van het bepaalde in het eerste lid.
 
-#### Artikel 4. Slotbepaling
+##### Artikel 4. Slotbepaling
 
 1. Het ‘Ondernemersbesluit zendinrichtingen’ van 22 augustus 1985, nr. 850821/1607 wordt ingetrokken.
 

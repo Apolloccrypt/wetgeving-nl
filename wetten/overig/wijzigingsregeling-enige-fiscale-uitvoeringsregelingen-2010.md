@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen 2010"
+title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen"
 identifier: "BWBR0027014"
-categorie: "Overig"
-publicatiedatum: 2010-03-18
-laatste_update: 2010-03-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027014"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-03-18"
+last_updated: "2010-03-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027014"
+soort: "ministeriele-regeling"
+stam_id: "10365173"
+version_id: "17030432"
+internal_id: "C23486451"
+label_id: "10340444"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027014/2010-03-18/0"
+intitule_bron: "Stcrt.2009-20549"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-17"
+intitule_published: "2009-12-31"
+intitule_in_force: "2009-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-20549"
+original_signed_date: "2009-12-17"
+original_published_date: "2009-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-20549"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0027014&z=2010-03-18&g=2010-03-18"
+jci_1_0: "1.0:c:BWBR0027014&g=2010-03-18"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen 2010"
+signed_date: "2009-12-17"
+entry_into_force: "2010-01-01"
 ---
-
 # Wijzigingsregeling enige fiscale uitvoeringsregelingen
 
 Handelende wat [artikel 3.13, eerste lid, onderdeel i, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13) betreft, in overeenstemming met de Minister van Verkeer en Waterstaat;
@@ -20,87 +46,87 @@ Gelet op de [artikelen 2.14a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&ar
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XII
+##### Artikel XII
 
 De [Uitvoeringsregeling vakbekwaamheidseisen Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007229) wordt ingetrokken.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling Wob Financiën.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XX
+##### Artikel XX
 
 [Artikel 3 van de Uitvoeringsregeling Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&artikel=3), zoals dat artikel luidde op 31 december 2009, blijft van toepassing met betrekking tot belastingaanslagen ter zake van inkomstenbelasting wegens een schenking van tot een aanmerkelijk belang behorende aandelen of winstbewijzen die voor 1 januari 2010 heeft plaatsgevonden, met dien verstande dat het vijfde lid van artikel 3 van de Uitvoeringsregeling Invorderingswet 1990 zoals dat artikel luidt met ingang van 1 januari 2010, eveneens van toepassing is.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. Een functionaris die op grond van de [Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506) en de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291), zoals deze luiden na inwerkingtreding van deze regeling, is aangewezen als directeur, inspecteur of ontvanger treedt in de plaats van de functionaris die als zodanig vóór inwerkingtreding van deze regeling bevoegd was.
 
@@ -108,7 +134,7 @@ Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
 3. Ingeval in een beschikking na inwerkingtreding van deze regeling wordt verwezen naar een (onderdeel van een) organisatieonderdeel dan wel een functionaris, genoemd in de [Uitvoeringsregeling belastingdienst 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014506) of de [Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291), zoals deze luidden vóór inwerkingtreding van deze regeling, wordt dit geacht een verwijzing te zijn naar het daarvoor in de plaats gekomen (onderdeel van het) organisatieonderdeel dan wel de daarvoor in de plaats gekomen functionaris in de Uitvoeringsregeling belastingdienst 2003 of de Algemene douaneregeling, zoals deze luiden na inwerkingtreding van deze regeling.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Deze regeling treedt in werking met ingang van 1 januari 2010, met dien verstande dat:
 

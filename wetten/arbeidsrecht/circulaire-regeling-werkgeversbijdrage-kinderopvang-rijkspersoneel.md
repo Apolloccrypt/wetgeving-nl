@@ -1,13 +1,34 @@
 ---
 title: "Circulaire Regeling werkgeversbijdrage kinderopvang rijkspersoneel"
 identifier: "BWBR0016256"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2004-12-06
-laatste_update: 2004-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016256"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-12-06"
+last_updated: "2004-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016256"
+soort: "circulaire"
+stam_id: "6705723"
+version_id: "11544662"
+internal_id: "C15565931"
+label_id: "6694034"
+original_entry_into_force: "2004-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016256/2004-12-06/0"
+intitule_bron: "Stcrt.2004-235"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-12-06"
+intitule_in_force: "2004-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-235"
+original_published_date: "2004-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-235-p9-SC67733"
+entry_into_force_date: "2004-12-06"
+jci_1_3: "jci1.3:c:BWBR0016256&z=2004-12-06&g=2004-12-06"
+jci_1_0: "1.0:c:BWBR0016256&g=2004-12-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "2004-12-06"
 ---
-
 # Circulaire Regeling werkgeversbijdrage kinderopvang rijkspersoneel
 
 Aan: de Ministers

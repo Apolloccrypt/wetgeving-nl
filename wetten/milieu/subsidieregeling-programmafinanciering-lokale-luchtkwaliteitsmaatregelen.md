@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2008, nr. BREM2008094427, houdende regels met betrekking tot de programmafinanciering van lokale luchtkwaliteitsmaatregelen (Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen)"
 identifier: "BWBR0024593"
-categorie: "Milieu"
-publicatiedatum: 2011-11-02
-laatste_update: 2011-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024593"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-11-02"
+last_updated: "2011-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024593"
+soort: "ministeriele-regeling"
+stam_id: "9747523"
+version_id: "15794992"
+internal_id: "C29433991"
+label_id: "9724494"
+dtd_version: "2.0"
+original_entry_into_force: "2008-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024593/2011-11-02/0"
+intitule_bron: "Stcrt.2008-196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-02"
+intitule_published: "2008-10-09"
+intitule_in_force: "2008-10-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-196"
+original_signed_date: "2008-10-02"
+original_published_date: "2008-10-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-196-p19-SC87885"
+entry_into_force_date: "2008-10-11"
+jci_1_3: "jci1.3:c:BWBR0024593&z=2011-11-02&g=2011-11-02"
+jci_1_0: "1.0:c:BWBR0024593&g=2011-11-02"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen"
+signed_date: "2008-10-02"
+entry_into_force: "2008-10-11"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 2 oktober 2008, nr. BREM2008094427, houdende regels met betrekking tot de programmafinanciering van lokale luchtkwaliteitsmaatregelen (Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen)
 
 Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - o. saneringstool: door de Minister beschikbaar gesteld rekenprogramma waarmee effecten van lokale luchtkwaliteitsmaatregelen en projecten op de luchtkwaliteit kunnen worden bepaald.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan subsidie luchtkwaliteit derde tranche of subsidie luchtkwaliteit vierde tranche verlenen aan een provincie en, door tussenkomst van een provincie, aan een plusregio, openbaar lichaam of gemeente, voor het treffen van een of meer in een programma voor het desbetreffende gebied opgenomen lokale luchtkwaliteitsmaatregelen.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 3. Doel van de subsidieverlening vierde tranche is het, in vervolg op de subsidieverlening derde tranche, financieel ondersteunen van een provincie, plusregio, openbaar lichaam of gemeente bij het door middel van een programma treffen van een of meer lokale luchtkwaliteitsmaatregelen die gericht zijn op beëindiging van een na de derde tranche resterende overschrijding of dreigende overschrijding, op of na het daarbij behorende tijdstip, van een of meer in [bijlage 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&bijlage=2) opgenomen grenswaarden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De indiening van een RSL geldt voor de toepassing van deze regeling, het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065) en [artikel 15.13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13) als een aanvraag om verlening van subsidie luchtkwaliteit derde tranche en vierde tranche voor maximaal 50% van de kosten van lokale luchtkwaliteitsmaatregelen.
 
@@ -72,13 +98,13 @@ In deze regeling wordt verstaan onder:
 
 7. Indien toepassing wordt gegeven aan het zesde lid wordt geen hogere subsidie verleend dan het bedrag, genoemd in de voorlopige en indicatieve verdeling in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien subsidie luchtkwaliteit derde tranche, respectievelijk subsidie luchtkwaliteit vierde tranche, geheel of gedeeltelijk niet is of zal worden ingezet voor het treffen van een of meer in een programma voor het desbetreffende gebied opgenomen lokale luchtkwaliteitsmaatregelen, wordt het niet ingezette deel van die subsidie zo spoedig mogelijk, doch uiterlijk in 2011, respectievelijk 2015, door de ontvanger gerestitueerd aan de Minister, behoudens gevallen waarin [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=8&z=2011-11-02&g=2011-11-02), van toepassing is.
 
 2. Krachtens het eerste lid gerestitueerde rijksmiddelen, krachtens [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&artikel=14&z=2011-11-02&g=2011-11-02) teruggevorderde rijksmiddelen en rijksmiddelen waarvoor geheel of gedeeltelijk geen aanvraag voor subsidie luchtkwaliteit vierde tranche wordt ingediend conform de verdeling als genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024593&bijlage=2&z=2011-11-02&g=2011-11-02), onder B, worden gedurende de looptijd van het NSL ingezet ten behoeve van de verlening van subsidie aan een provincie, plusregio, openbaar lichaam of gemeente waar een extra bijdrage voor de uitvoering van een of meer lokale luchtkwaliteitsmaatregelen vereist is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het voldoen door de ontvanger van subsidie luchtkwaliteit aan de verplichting, bedoeld in [artikel 5.12, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12), tot uitvoering van een lokale luchtkwaliteitsmaatregel waarvoor de subsidie is verleend, tot het moment waarop uitvoering van een maatregel ingevolge het elfde lid van het [genoemde artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12) niet langer vereist is, wordt voldaan aan [artikel 10, onder a en b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=10).
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 3. De verlening of vaststelling van een subsidie geldt mede voor een gewijzigde, vervangende of toegevoegde lokale luchtkwaliteitsmaatregel als bedoeld in het eerste lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de aanvraag tot verlening van subsidie luchtkwaliteit worden, mede ter uitvoering van [artikel 11 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=11), in een programma, voor zover betrekking hebbend op het desbetreffende gebied, dan wel in een bij een programma behorende begroting of financieel overzicht, de volgende gegevens opgenomen:
 
@@ -116,17 +142,17 @@ In deze regeling wordt verstaan onder:
 
 2. Voor zover reeds vóór 1 januari 2006 is begonnen met uitvoering van een lokale luchtkwaliteitsmaatregel als bedoeld in [artikel 5.12, vierde lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12), wordt de stand van zaken van de uitvoering en de reden van de eerdere uitvoering toegelicht bij de aanvraag.
 
-#### Artikel 7
+##### Artikel 7
 
 Als subsidiabele kosten worden aangemerkt: de kosten van het uitvoeren of doen uitvoeren van lokale luchtkwaliteitsmaatregelen, met uitzondering van directe reguliere apparaatskosten en een winstopslag ten behoeve van de subsidie-ontvanger.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In geval van wijziging van een lokale luchtkwaliteitsmaatregel als bedoeld in [artikel 5.12, tiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12), of vervanging of toevoeging van een lokale luchtkwaliteitsmaatregel als bedoeld in [artikel 5.12, twaalfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.12), kunnen meerkosten daarvan worden voldaan uit een eventueel surplus dat resteert als gevolg van lagere kosten van andere maatregelen waarvoor subsidie luchtkwaliteit is verleend.
 
 2. [Artikel 10, onder d, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=10) blijft van toepassing in geval van een wijziging, vervanging of toevoeging als bedoeld in het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De eigen bijdrage is ten minste gelijk aan de subsidie luchtkwaliteit derde tranche of de subsidie luchtkwaliteit vierde tranche.
 
@@ -134,7 +160,7 @@ Als subsidiabele kosten worden aangemerkt: de kosten van het uitvoeren of doen u
 
 3. Rentebaten die ontstaan uit de toepassing van deze regeling worden ingezet ten behoeve van lokale luchtkwaliteitsmaatregelen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De indiening van een RSL geldt als een aanvraag om voorschotten als bedoeld in [artikel 12, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=12).
 
@@ -142,19 +168,19 @@ Als subsidiabele kosten worden aangemerkt: de kosten van het uitvoeren of doen u
 
 3. Voorschotten voor subsidies luchtkwaliteit vierde tranche worden niet vóór 2011 beschikbaar gesteld. Op verzoek van het betreffende bestuursorgaan kan de Minister in bijzondere gevallen overgaan tot eerdere beschikbaarstelling in het belang van een doelmatig en effectief luchtkwaliteitsbeheer.
 
-#### Artikel 11
+##### Artikel 11
 
 Aan de verplichtingen, opgenomen in [artikel 13 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=13), wordt uitvoering gegeven door middel van de rapportages, bedoeld in [artikel 5.14, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.14).
 
-#### Artikel 12
+##### Artikel 12
 
 [Artikel 14a van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14a) is van overeenkomstige toepassing op de aanvraag tot subsidievaststelling en de daarbij te verstrekken verantwoordingsinformatie door een openbaar lichaam.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor zover binnen een provincie de aanvraag, verlening of uitkering van subsidies luchtkwaliteit als bedoeld in deze regeling plaatsvindt door tussenkomst van de provincie geldt de plusregio, het openbare lichaam of de gemeente voor wie een subsidie luchtkwaliteit is bestemd als aanvrager en ontvanger.
 
-#### Artikel 14
+##### Artikel 14
 
 De Minister kan een subsidie luchtkwaliteit derde tranche of subsidie luchtkwaliteit vierde tranche geheel of gedeeltelijk terugvorderen bij de ontvanger van deze bijdrage voor zover:
 
@@ -162,11 +188,11 @@ De Minister kan een subsidie luchtkwaliteit derde tranche of subsidie luchtkwali
 
 - b. niet een eigen bijdrage is ingezet van ten minste 50 procent van de totale kosten van de in een programma voor het desbetreffende gebied opgenomen lokale luchtkwaliteitsmaatregel of lokale luchtkwaliteitsmaatregelen.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2008.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Subsidieregeling programmafinanciering lokale luchtkwaliteitsmaatregelen.
 

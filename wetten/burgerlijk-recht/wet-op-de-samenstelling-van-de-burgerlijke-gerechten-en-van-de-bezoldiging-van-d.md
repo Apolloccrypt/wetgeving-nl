@@ -1,14 +1,38 @@
 ---
-title: "Wet op de samenstelling van de burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren"
+title: "Wet van 18 december 1957, houdende een nieuwe regeling van de samenstelling der burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren"
 identifier: "BWBR0002261"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1999-02-17
-laatste_update: 1999-02-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002261"
+country: "nl"
+rank: "wet"
+publication_date: "1999-02-17"
+last_updated: "1999-02-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002261"
+soort: "wet"
+stam_id: "1355493"
+version_id: "2017632"
+internal_id: "C2017631"
+label_id: "1314564"
+dtd_version: "2.0"
+original_entry_into_force: "1958-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002261/1999-02-17/0"
+intitule_bron: "Stb.1957-534"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1957-12-18"
+intitule_status: "goed"
+original_publication: "Stb.1957-534"
+original_signed_date: "1957-12-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "4777"
+entry_into_force_date: "1958-01-13"
+entry_into_force_dossier: "4777"
+jci_1_3: "jci1.3:c:BWBR0002261&z=1999-02-17&g=1999-02-17"
+jci_1_0: "1.0:c:BWBR0002261&g=1999-02-17"
+citeertitel_status: "officieel"
+short_title: "Wet op de samenstelling van de burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren"
+signed_date: "1957-12-18"
+entry_into_force: "1958-01-13"
 ---
-
-# Wet op de samenstelling van de burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren
+# Wet van 18 december 1957, houdende een nieuwe regeling van de samenstelling der burgerlijke gerechten en van de bezoldiging van de rechterlijke ambtenaren
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +40,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is nieuwe regelingen te
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wet op de samenstelling van de burgerlijke gerechten
 
 Zie voor de tekst de bovengenoemde wet.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
 #### Overgangsbepalingen
 
-#### Artikel III
+##### Artikel III
 
 1. De kinderrechter of het lid van een economische kamer bij meer dan een arrondissements-rechtbank als kinderrechter onderscheidenlijk als lid van een of meer economische kamers werkzaam, wordt geacht tot het verrichten van zijn werkzaamheden in de arrondissements-rechtbank of de arrondissements-rechtbanken, waarin hij tot rechter-plaatsvervanger is benoemd, een opdracht als bedoeld in artikel 6, eerste lid, van de Wet op de samenstelling der burgerlijke gerechten te hebben ontvangen.
 
@@ -42,7 +66,7 @@ Vervallen
 
 6. In afwijking van het bepaalde in artikel 4 der Wet op de bezoldiging van de rechterlijke ambtenaren wordt het salaris van de griffier, die op grond van [artikel 37 der Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=37) en het beleid der justitie reeds thans bij meer dan één kantongerecht werkzaam is, te rekenen vanaf 1 januari 1957, vermeerderd met een bedrag van f 42,40.
 
-#### Artikel IV
+##### Artikel IV
 
 De substituut-griffiers bij de Hoge Raad, de gerechtshoven, en de arrondissements-rechtbanken, die vóór 1 januari 1957 zijn benoemd en de waarnemende substituut-officieren van justitie, bedoeld in het [tweede lid van artikel VII](https://wetten.overheid.nl/jci1.3:c:BWBR0002261&artikel=VII&z=1999-02-17&g=1999-02-17) der wet van 28 juni 1956 (**Stb.** 377) genieten met ingang van 1 januari 1959, 1 april 1960 en 1 juli 1961 maandelijks een salaris volgens onderstaande schaal:
 
@@ -58,7 +82,7 @@ De substituut-griffiers bij de Hoge Raad, de gerechtshoven, en de arrondissement
 | na 7 jaar | 854 | 917 | 920 |
 | maximum | 885 | 949 | 951 |
 
-#### Artikel V
+##### Artikel V
 
 Aan de rechterlijke ambtenaren, wier bezoldiging bij de wet is geregeld, worden uitkeringen toegekend met overeenkomstige toepassing van:
 
@@ -80,29 +104,29 @@ Aan de rechterlijke ambtenaren, wier bezoldiging bij de wet is geregeld, worden 
 
 - i. de Hoofdstukken III en IV van Ons besluit van 23 december 1968 (**Stb.** 706), over het tijdvak 1 januari 1967-1 mei 1968.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Het salaris van de substituut-officier van justitie, die vóór 1 januari 1957 was aangewezen als hoofd van het kantongerechtsparket, wordt over het tijdvak van 1 januari 1957 tot de datum van indiensttreding als substituut-officier van justitie vermeerderd met een bedrag van f 122,96 per maand.
 
 2. Voor de substituut-officier van justitie, die gedurende een onafgebroken periode van twee jaar als hoofd van het kantongerechtsparket te ’s-Gravenhage, Rotterdam of Amsterdam was aangewezen, wordt het salaris over het tijdvak van 1 januari 1957 tot de datum van indiensttreding als substituut-officier van justitie vermeerderd met een bedrag van f 199,81 per maand.
 
-#### Artikel VII
+##### Artikel VII
 
 De voor periodieke salarisverhoging medetellende diensttijd, die voor de rechterlijke ambtenaren, voor welke een salarisschaal is opgenomen, geldt op de dag van het inwerkingtreden dezer wet, blijft gehandhaafd.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De reeds in functie zijnde griffiers van de tot de eerste klasse behorende, niet te ’s-Gravenhage, Rotterdam of Amsterdam gevestigde kantongerechten genieten het maximum van de voor hen vastgestelde salarisschaal.
 
-#### Artikel IX
+##### Artikel IX
 
 Wachtgelden, genoten krachtens artikel 2 van de wet van 17 november 1933 (**Stb.** 606) worden verhoogd in dier voege, dat de daaraan ten grondslag liggende wedde wordt gesteld op het bedrag, dat zij ingevolge deze wet zou hebben belopen.
 
-#### Artikel X
+##### Artikel X
 
 De tegemoetkomingen en vergoedingen, na de totstandkoming van de wet van 24 mei 1956, **Stb.** 349 krachtens [Verplaatsingskostenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004630) (**Stb.** G 371) uitgekeerd en berekend op de grondslag van de bezoldiging genoten volgens genoemde wet, blijven ongewijzigd.
 
-#### Artikel XI
+##### Artikel XI
 
 1. De remuneraties, vóór de inwerkingtreding van dit artikel toegekend aan tegenwoordige leden van de rechterlijke macht als beloning voor werkzaamheden, welke zij in hun hoedanigheid van rechterlijk ambtenaar verrichten en welke zijn vastgesteld op een bedrag, dat hoger is dan hetwelk aan die ambtenaren zou zijn toegekend ingevolge het bepaalde in artikel 2 van de Wet op de bezoldiging van de rechterlijke ambtenaren, blijven gehandhaafd, met dien verstande, dat Onze Minister van Justitie haar intrekt of vermindert, indien en zodra de samenstelling en de werkzaamheden van het gerecht, waarbij die leden zijn aangesteld, daartoe aanleiding geven.
 
@@ -110,11 +134,11 @@ De tegemoetkomingen en vergoedingen, na de totstandkoming van de wet van 24 mei 
 
 #### Slotbepalingen
 
-#### Artikel XII
+##### Artikel XII
 
 De wet van 18 december 1947 (**Stb.** H 430) wordt ingetrokken.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 

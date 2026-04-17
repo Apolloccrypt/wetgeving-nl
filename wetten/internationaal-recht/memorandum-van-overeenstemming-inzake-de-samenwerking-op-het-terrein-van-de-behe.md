@@ -1,13 +1,35 @@
 ---
 title: "Memorandum van overeenstemming inzake de samenwerking op het terrein van de beheersing van crisissen met mogelijke grensoverschrijdende gevolgen tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg"
 identifier: "BWBV0003156"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-03-01
-laatste_update: 2012-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003156"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-03-01"
+last_updated: "2012-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003156"
+soort: "verdrag"
+stam_id: "10003360743"
+version_id: "10003396962"
+internal_id: "C10007739221"
+label_id: "10003346284"
+dtd_version: "2.0"
+original_entry_into_force: "2012-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003156/2012-03-01/0"
+intitule_bron: "Trb.2009-58"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-04-15"
+intitule_in_force: "2012-02-22"
+intitule_status: "goed"
+original_publication: "Trb.2009-58"
+original_published_date: "2009-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-58"
+entry_into_force_date: "2012-03-01"
+jci_1_3: "jci1.3:c:BWBV0003156&z=2012-03-01&g=2012-03-01"
+jci_1_0: "1.0:c:BWBV0003156&g=2012-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-03-01"
 ---
-
 # Memorandum van overeenstemming inzake de samenwerking op het terrein van de beheersing van crisissen met mogelijke grensoverschrijdende gevolgen tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg
 
 Het Koninkrijk België,
@@ -62,7 +84,7 @@ Gelet op de Wet rampen en zware ongevallen, de Wet geneeskundige hulpverlening b
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Doel van de samenwerking
+##### Artikel 1. Doel van de samenwerking
 
 Deze overeenkomst heeft als doel de samenwerking te intensiveren en effectueren tussen het Koninkrijk België, het Koninkrijk der Nederlanden en het Groothertogdom Luxemburg, hierna genoemd de „Partijen”, op het terrein van de beheersing van crisissen in relatie tot een voorval of ongeval dat zich op het grondgebied van een der Partijen voordoet of dreigt voor te doen en grensoverschrijdende gevolgen heeft of kan hebben, ongeacht of de crisis van natuurlijke, technische of menselijke oorsprong is.
 
@@ -84,15 +106,15 @@ De samenwerking heeft betrekking op de afstemming van nationaal beleid, de plann
 
 Aan deze overeenkomst wordt naar gelang van de reikwijdte van de respectieve crisissen bi- dan wel trilateraal uitvoering gegeven.
 
-#### Artikel 2. Verantwoordelijke autoriteiten
+##### Artikel 2. Verantwoordelijke autoriteiten
 
 Aan dit memorandum van overeenstemming wordt uitvoering gegeven door het Coördinatie- en Crisiscentrum van de Regering van het Koninkrijk België, het Nationaal Coördinatiecentrum van het Koninkrijk der Nederlanden en het **Haut-commissariat à la protection nationale** van het Groothertogdom Luxemburg, hierna genoemd de „Crisiscentra”.
 
-#### Artikel 3. Technische afspraken
+##### Artikel 3. Technische afspraken
 
 In het kader van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2012-03-01&g=2012-03-01) van deze overeenkomst bedoelde tenuitvoerlegging kunnen met name op het operationele vlak relevante technische afspraken worden gemaakt tussen de naar gelang het onderwerp van de afspraak bevoegde overheden en diensten van de Partijen. De technische afspraken alsmede desbetreffende wijzigingsvoorstellen worden voorafgaandelijk ter goedkeuring voorgelegd aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=2&z=2012-03-01&g=2012-03-01) bedoelde autoriteiten.
 
-#### Artikel 4. Wederzijdse informatie
+##### Artikel 4. Wederzijdse informatie
 
 De Partijen wisselen informatie uit. Daarbij wordt gebruik gemaakt van een transmissiesysteem waarmee eventuele alarmeringen, kennisgevingen, verzoeken om wederzijdse bijstand of andere inlichtingen over een crisissituatie die grensoverschrijdende gevolgen kan hebben, vierentwintig uur per dag en zeven dagen per week kunnen verstuurd worden.
 
@@ -100,7 +122,7 @@ De wederzijdse informatieuitwisseling die bij dit memorandum van overeenstemming
 
 De praktische regelingen voor de wederzijdse informatievoorziening worden nader uitgewerkt in technische afspraken.
 
-#### Artikel 5. Inhoud van de informatie
+##### Artikel 5. Inhoud van de informatie
 
 De informatie over de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=3&z=2012-03-01&g=2012-03-01) van dit memorandum van overeenstemming bedoelde gebeurtenissen dient de volgende gegevens te omvatten:
 
@@ -110,7 +132,7 @@ De informatie over de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 De in het kader van dit memorandum van overeenstemming uitgewisselde informatie is confidentieel. Elke informatieverstrekkende Partij kan de overige Partijen er echter van in kennis stellen dat het confidentiële karakter van bepaalde gegevens werd opgeheven.
 
-#### Artikel 6. Overlegvergaderingen
+##### Artikel 6. Overlegvergaderingen
 
 De Partijen organiseren minstens eenmaal per jaar onderling binnen de Senningen-werkgroep „Rampenbeheersing“ overlegvergaderingen.
 
@@ -122,27 +144,27 @@ Tijdens die vergaderingen worden de uitvoeringsmaatregelen (technische afspraken
 
 De vergaderingen worden georganiseerd op initiatief van het land dat op dat ogenblik het voorzitterschap van de Benelux bekleedt, terwijl het secretariaat wordt gevoerd door het Secretariaat-Generaal van de Benelux Economische Unie.
 
-#### Artikel 7. Aanstelling van een liaison
+##### Artikel 7. Aanstelling van een liaison
 
 Wanneer zich een gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2012-03-01&g=2012-03-01) voordoet, kan elke Partij een liaison aanwijzen en hem in opdracht op het grondgebied van de overige Partijen sturen om er de acties te volgen, nadat de betrokken Partijen daarover overeenstemming hebben bereikt. Die liaison mag de ingewonnen informatie doorzenden naar de betrokken diensten van zijn eigen staat. De nauwkeurige taakomschrijving van de liaison en de praktische regelingen voor zijn dienstreis worden in een technische afspraak beschreven.
 
 Naar gelang van de reikwijdte van de gebeurtenis in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=1&z=2012-03-01&g=2012-03-01) kunnen meerdere liaisons worden aangesteld.
 
-#### Artikel 8. Organiseren van gemeenschappelijke oefeningen
+##### Artikel 8. Organiseren van gemeenschappelijke oefeningen
 
 Rond de tenuitvoerlegging van deze overeenkomstworden oefeningen gehouden volgens een tijdpad en regels die in onderlinge overeenstemming tussen de Crisiscentra worden afgesproken, in het bijzonder tijdens de overlegvergaderingen zoals bepaald in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=6&z=2012-03-01&g=2012-03-01). Die oefeningen vinden volgens de gekozen scenario’s tussen de Partijen plaats met landen die als waarnemer optreden dan wel worden uitgenodigd om deel te nemen.
 
-#### Artikel 9. Gemeenschappelijke evaluatie
+##### Artikel 9. Gemeenschappelijke evaluatie
 
 Na elke crisissituatie en/of oefening als bedoeld in dit memorandum van overeenstemming wordt tussen de betrokken Crisiscentra een evaluatie georganiseerd. Die evaluatie vindt plaats op initiatief van het land waar de crisissituatie zich heeft voorgedaan of die de desbetreffende oefening heeft gecoördineerd.
 
 Het met toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003156&artikel=4&z=2012-03-01&g=2012-03-01) van dit memorandum van overeenstemming tot stand gebrachte wederzijdse informatie-uitwisseling wordt minstens eenmaal per jaar door de bevoegde autoriteiten van de drie landen getest.
 
-#### Artikel 10. Geschillenbeslechting
+##### Artikel 10. Geschillenbeslechting
 
 Geschillen die naar aanleiding van de uitvoering of de interpretatie van deze overeenkomst kunnen rijzen worden indien mogelijkbij wege van overleg tussen de Partijen beslecht.
 
-#### Artikel 11. Slotbepalingen
+##### Artikel 11. Slotbepalingen
 
 Elk der Partijen stelt de andere Partij ervan in kennis dat de voor de inwerkingtreding van deze overeenkomst vereiste nationale procedures wat haar betreft zijn vervuld. De overeenkomst wordt van kracht op de eerste dag van de tweede maand volgend op de dag van ontvangst van de tweede kennisgeving.
 

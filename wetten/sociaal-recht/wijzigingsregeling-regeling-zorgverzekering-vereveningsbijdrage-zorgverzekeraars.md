@@ -1,32 +1,58 @@
 ---
-title: "Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2011)"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011"
 identifier: "BWBR0029376"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029376"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029376"
+soort: "ministeriele-regeling"
+stam_id: "11194773"
+version_id: "18322102"
+internal_id: "C25513251"
+label_id: "11169074"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029376/2014-04-01/0"
+intitule_bron: "Stcrt.2010-21547"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-14"
+intitule_published: "2010-12-31"
+intitule_in_force: "2010-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21547"
+original_signed_date: "2010-12-14"
+original_published_date: "2010-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21547"
+entry_into_force_date: "2011-01-02"
+jci_1_3: "jci1.3:c:BWBR0029376&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0029376&g=2014-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2011)"
+signed_date: "2010-12-14"
+entry_into_force: "2011-01-02"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 14 december 2010, nr. Z/F-3038399, houdende wijziging van de Regeling zorgverzekering ter zake van de vereveningsbijdrage voor zorgverzekeraars in het jaar 2011
 
 Gelet op [artikel 32, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), en [38, tweede lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=38) en de [artikelen 1, onderdelen g en x](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=1), [3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.1), [3.2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.2), [3.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.4), [3.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.5), [3.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.6), [3.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.7), [3.8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.8), [3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.10), [3.11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.11), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.12), [3.13, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.13), [3.14, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.14), [3.15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.15), [3.16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.16), [3.17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17), [3.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.19), [3.22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.22) en [3.24 derde lid, van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.24);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Regeling zorgverzekering.
 
-#### Artikel III
+##### Artikel III
 
 In afwijking van hetgeen daarover in [artikel 3.4, eerste lid, van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.4) zoals dat met betrekking tot het jaar 2006 gold, was geregeld, bedraagt het bedrag per verzekerde op basis waarvan het macro-deelbedrag vaste kosten van ziekenhuisverpleging over het jaar 2006 mede wordt vastgesteld: € 36,59.
 
-#### Artikel IV
+##### Artikel IV
 
 In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9) zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend:
 
@@ -56,7 +82,7 @@ In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekerin
 
 - 13. Indien het gemiddelde absolute resultaat per premieplichtige verzekerde na toepassing van het twaalfde lid meer dan € 17,50 afwijkt van 0, worden de buiten bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent nagecalculeerd.
 
-#### Artikel V
+##### Artikel V
 
 In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.10) zoals dat met betrekking tot het jaar 2007 gold, was geregeld, worden de vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2007 als volgt herberekend:
 
@@ -84,7 +110,7 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 12. Het Zorginstituut calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met elfde lid, en het deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid.
 
-#### Artikel VI
+##### Artikel VI
 
 In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.9) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend:
 
@@ -116,7 +142,7 @@ In afwijking van hetgeen daarover in [artikel 3.9 van de Regeling zorgverzekerin
 
 - 11. Indien het gemiddelde absolute resultaat per premieplichtige verzekerde na toepassing van het tiende lid meer dan € 20 afwijkt van 0, worden de buiten bedoelde bandbreedte liggende meer- of minderkosten voor 90 procent nagecalculeerd.
 
-#### Artikel VII
+##### Artikel VII
 
 In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.10) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend:
 
@@ -152,7 +178,7 @@ In afwijking van hetgeen daarover in [artikel 3.10 van de Regeling zorgverzekeri
 
 - 13. Het Zorginstituut calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met dertiende lid, en het deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid.
 
-#### Artikel VIII
+##### Artikel VIII
 
 In afwijking van hetgeen daarover in [artikel 3.11 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.11) zoals dat met betrekking tot het jaar 2008 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2008 als volgt herberekend:
 
@@ -160,7 +186,7 @@ In afwijking van hetgeen daarover in [artikel 3.11 van de Regeling zorgverzekeri
 
 - 2. Het Zorginstituut calculeert 100 procent na op het verschil tussen de werkelijk gemaakte kosten voor geneeskundige geestelijke gezondheidszorg en de normatieve bijdrage geneeskundige geestelijke gezondheidszorg.
 
-#### Artikel IX
+##### Artikel IX
 
 In afwijking van hetgeen daarover in [artikel 3.15 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de variabele kosten van ziekenhuisverpleging en de kosten van specialistische hulp ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend:
 
@@ -192,11 +218,11 @@ In afwijking van hetgeen daarover in [artikel 3.15 van de Regeling zorgverzekeri
 
 - 11. Het Zorginstituut calculeert 40 procent na op het verschil tussen de variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp, vastgesteld ingevolge het eerste tot en met negende lid enerzijds, en het herberekende deelbedrag van variabele kosten van ziekenhuisverpleging en kosten van specialistische hulp na toepassing van het tiende lid anderzijds.
 
-#### Artikel X
+##### Artikel X
 
 In afwijking van hetgeen daarover in [artikel 3.16 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.16) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, wordt het antwoord op de vraag of daar bedoelde nacalculatie dient plaats te vinden niet mede bepaald aan de hand van toepassing van het tiende lid van [artikel 3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.15), maar aan de hand van toepassing van het [elfde lid van artikel IX](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=IX&z=2014-04-01&g=2014-04-01).
 
-#### Artikel XI
+##### Artikel XI
 
 In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.17) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden vaste kosten van ziekenhuisverpleging ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend:
 
@@ -234,7 +260,7 @@ In afwijking van hetgeen daarover in [artikel 3.17 van de Regeling zorgverzekeri
 
 - 14. Het Zorginstituut calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met twaalfde lid enerzijds, en het deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid anderzijds.
 
-#### Artikel XII
+##### Artikel XII
 
 In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&artikel=3.18) zoals dat met betrekking tot het jaar 2009 gold, was geregeld, worden de kosten van geneeskundige geestelijke gezondheidszorg ten behoeve van de vaststelling van de vereveningsbijdrage over het jaar 2009 als volgt herberekend:
 
@@ -242,15 +268,15 @@ In afwijking van hetgeen daarover in [artikel 3.18 van de Regeling zorgverzekeri
 
 - 2. Het Zorginstituut calculeert 100 procent na op het verschil tussen de werkelijk gemaakte kosten voor geneeskundige geestelijke gezondheidszorg en de normatieve bijdrage geneeskundige geestelijke gezondheidszorg.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wijzigingsregeling Regeling zorgverzekering (vereveningsbijdrage zorgverzekeraars 2010).
 
-#### Artikel XIV
+##### Artikel XIV
 
 [Hoofdstuk 3 van de Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715&hoofdstuk=3), zoals dat na toepassing van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=I&z=2014-04-01&g=2014-04-01) juncto [XV, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=XV&z=2014-04-01&g=2014-04-01), luidde op de dag voor de inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0029376&artikel=II&z=2014-04-01&g=2014-04-01), blijft van toepassing voor de vaststelling van de voor zorgverzekeraars geldende vereveningsbijdragen over 2010.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Deze Regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

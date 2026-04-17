@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg"
+title: "Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de toepassing van regels van Verordening 1071/2009/EG en Verordening (EU) 2016/403, Wet wegvervoer goederen en het Besluit wegvervoer goederen houdende bepalingen in verband met de uitvoering van de evenredigheidstoets en het sanctioneren van de vervoerder en de vervoersmanager bij verlies van betrouwbaarheid in het goederenvervoer over de weg (Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg)"
 identifier: "BWBR0049165"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049165"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049165"
+soort: "zbo"
+stam_id: "16984133"
+version_id: "29859902"
+internal_id: "C42808751"
+label_id: "16894574"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049165/2024-01-01/0"
+intitule_bron: "Stcrt.2023-34392"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-12-28"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34392"
+original_published_date: "2023-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34392"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049165&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049165&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel van de Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake de toepassing van regels van Verordening 1071/2009/EG en Verordening (EU) 2016/403, Wet wegvervoer goederen en het Besluit wegvervoer goederen houdende bepalingen in verband met de uitvoering van de evenredigheidstoets en het sanctioneren van de vervoerder en de vervoersmanager bij verlies van betrouwbaarheid in het goederenvervoer over de weg (Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg)
 
 Gelet op artikel 6 van [Verordening 1071/2009/EG](32009R1071), artikel 1 van [Verordening (EU) 2016/403](32016R0403) en van [Verordening (EU) 2022/694](32022R0694), de [artikelen 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.8), [2.8a](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=2.8a) en [7.1 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=7.1), de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033600&artikel=1) en [2 van het Besluit wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0033600&artikel=2) en [artikel 4:81 en volgende van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +39,7 @@ Besluit:
 
 ### Hoofdstuk 1. Definities en inleidende bepalingen
 
-#### Artikel 1. Definitiebepaling
+##### Artikel 1. Definitiebepaling
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -38,7 +61,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - i. **recidivist:** een vervoerder waarvan eerder op basis van deze beleidsregel de communautaire vergunning is geschorst of ingetrokken of een vervoersmanager die eerder op basis van deze beleidsregel ongeschikt is verklaard.
 
-#### Artikel 2. Toepassingskader
+##### Artikel 2. Toepassingskader
 
 1. Deze beleidsregel heeft betrekking op:
 
@@ -54,13 +77,13 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Strafpunten
 
-#### Artikel 3. Strafpunten
+##### Artikel 3. Strafpunten
 
 1. Een veroordeling of sanctie komt voor strafpunten in aanmerking indien deze niet ouder is dan twee jaar vanaf de datum dat de desbetreffende veroordeling of sanctie onherroepelijk is geworden.
 
 2. Het aantal toe te rekenen strafpunten per overtreding is vastgesteld in de bijlage bij deze beleidsregel.
 
-#### Artikel 4. Grenswaarden
+##### Artikel 4. Grenswaarden
 
 1. Strafpunten worden aan de vervoerder en de vervoersmanager toegerekend, tenzij in het betrouwbaarheidsonderzoek van de ILT kan worden aangetoond dat de vervoerder of de vervoersmanager niet verwijtbaar is.
 
@@ -86,17 +109,17 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 3. Preventie en verwijtbaarheid
 
-#### Artikel 5. Preventie
+##### Artikel 5. Preventie
 
 De ILT zendt de vervoerder en de vervoersmanager een schriftelijke kennisgeving bij elke eerste registratie van strafpunten en nadat ten minste 50% van de grenswaarde van het aantal strafpunten is overschreden.
 
-#### Artikel 6. Betrouwbaarheid
+##### Artikel 6. Betrouwbaarheid
 
 1. Bij het overschrijden van de grenswaarde van het aantal strafpunten stelt de ILT een adviesrapport op ten aanzien van de vervoerder of de vervoersmanager.
 
 2. Verlies van betrouwbaarheid is in beginsel geen onevenredig strenge sanctie indien de vervoerder of de vervoersmanager de grenswaarde van het aantal toegerekende strafpunten heeft overschreden.
 
-#### Artikel 7. Onderzoek en verwijtbaarheid vervoerder
+##### Artikel 7. Onderzoek en verwijtbaarheid vervoerder
 
 1. De ILT concludeert in haar adviesrapport dat het verlies van betrouwbaarheid van de vervoerder een onevenredig strenge sanctie is indien:
 
@@ -120,7 +143,7 @@ De ILT zendt de vervoerder en de vervoersmanager een schriftelijke kennisgeving 
 
 4. De ILT concludeert in haar adviesrapport dat het verlies van betrouwbaarheid van de vervoerder geen onevenredig strenge sanctie is indien hij door zijn solistische wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van de overtredingen.
 
-#### Artikel 8. Onderzoek en verwijtbaarheid vervoersmanager
+##### Artikel 8. Onderzoek en verwijtbaarheid vervoersmanager
 
 1. De ILT concludeert in haar adviesrapport dat het verlies van betrouwbaarheid van de vervoersmanager een onevenredig strenge sanctie is indien de vervoersmanager kan aantonen dat:
 
@@ -132,7 +155,7 @@ De ILT zendt de vervoerder en de vervoersmanager een schriftelijke kennisgeving 
 
 2. De ILT concludeert in haar adviesrapport dat het verlies van betrouwbaarheid van de vervoersmanager geen onevenredig strenge sanctie is indien hij door zijn solistische wijze van optreden en handelen, dat indruist tegen het bestendig bedrijfsbeleid, als enige verantwoordelijk kan worden gehouden voor het begaan of doen begaan van de overtredingen.
 
-#### Artikel 9. Besluitvorming
+##### Artikel 9. Besluitvorming
 
 1. De NIWO wordt in kennis gesteld van het adviesrapport door een afschrift hiervan te ontvangen van de ILT.
 
@@ -146,13 +169,13 @@ De ILT zendt de vervoerder en de vervoersmanager een schriftelijke kennisgeving 
 
 6. Indien door de vervoerder of vervoersmanager geen feiten of omstandigheden naar voren zijn gebracht, zal de NIWO een besluit nemen conform de conclusie van het adviesrapport van de ILT.
 
-#### Artikel 10. Evenredigheidstoets
+##### Artikel 10. Evenredigheidstoets
 
 De NIWO beoordeelt of een voorgenomen besluit evenredig is.
 
 ### Hoofdstuk 4. Verlies van betrouwbaarheid en rehabilitatie
 
-#### Artikel 11. Schorsing en intrekking communautaire vergunning
+##### Artikel 11. Schorsing en intrekking communautaire vergunning
 
 1. Bij het verlies van betrouwbaarheid kan de NIWO de communautaire vergunning van de vervoerder schorsen of intrekken.
 
@@ -164,11 +187,11 @@ De NIWO beoordeelt of een voorgenomen besluit evenredig is.
 
 5. Indien de vervoerder niet binnen één week na de inwerkingtreding van het besluit tot intrekking van de communautaire vergunning die vergunning en de daarbij behorende gewaarmerkte afschriften inlevert, kan de NIWO een last onder dwangsom opleggen op grond van [artikel 5.2 van de Wet wegvervoer goederen](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=5.2) en de [Beleidsregel last onder dwangsom van de NIWO](https://wetten.overheid.nl/jci1.3:c:BWBR0039057).
 
-#### Artikel 11a. Bestuurder van de vervoerdersonderneming
+##### Artikel 11a. Bestuurder van de vervoerdersonderneming
 
 De schorsing of intrekking van de communautaire vergunning werkt door naar de bestuurder die in het Handelsregister van de Kamer van Koophandel staat geregistreerd.
 
-#### Artikel 12. Rehabilitatie vervoerder
+##### Artikel 12. Rehabilitatie vervoerder
 
 1. De vervoerder waarvan de communautaire vergunning wegens het niet voldoen aan de betrouwbaarheidseis is geschorst, is na het verstrijken van de termijn van die schorsing, gerehabiliteerd.
 
@@ -178,7 +201,7 @@ De schorsing of intrekking van de communautaire vergunning werkt door naar de be
 
 4. Na de schorsing of intrekking van de communautaire vergunning worden van de vervoerder de strafpunten gewist die het schorsings- of intrekkingsbesluit ten gevolge hebben gehad.
 
-#### Artikel 13. Ongeschikt verklaring en rehabilitatie vervoersmanager
+##### Artikel 13. Ongeschikt verklaring en rehabilitatie vervoersmanager
 
 1. Bij het verlies van betrouwbaarheid kan de NIWO de vervoersmanager voor de duur van twee jaar ongeschikt verklaren.
 
@@ -194,7 +217,7 @@ De schorsing of intrekking van de communautaire vergunning werkt door naar de be
 
 ### Hoofdstuk 5. Bezwaar
 
-#### Artikel 14. Bezwaar
+##### Artikel 14. Bezwaar
 
 1. Tegen een besluit van de NIWO kan binnen zes weken schriftelijk bezwaar worden ingediend.
 
@@ -204,15 +227,15 @@ De schorsing of intrekking van de communautaire vergunning werkt door naar de be
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 15. Intrekking
+##### Artikel 15. Intrekking
 
 De [beleidsregel van 26 februari 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044866) (**Stcrt.** 26 februari 2021, nr. 10050) wordt ingetrokken.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2024.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel evenredigheidstoets en sanctionering bij verlies betrouwbaarheid in het goederenvervoer over de weg.
 

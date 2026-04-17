@@ -1,13 +1,38 @@
 ---
 title: "Statuut van de Internationale Arbeidsorganisatie"
 identifier: "BWBV0001986"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2015-10-08
-laatste_update: 2015-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001986"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-10-08"
+last_updated: "2015-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001986"
+soort: "verdrag"
+stam_id: "10002592423"
+version_id: "10002583962"
+internal_id: "C10008430091"
+label_id: "10002582004"
+dtd_version: "2.0"
+original_entry_into_force: "1973-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001986/2015-10-08/0"
+intitule_bron: "Trb.1975-102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1973-10-19"
+intitule_published: "1975-09-29"
+intitule_in_force: "1975-09-29"
+intitule_status: "goed"
+original_publication: "Trb.1975-102"
+original_signed_date: "1973-10-19"
+original_published_date: "1975-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-102"
+entry_into_force_date: "1973-10-19"
+jci_1_3: "jci1.3:c:BWBV0001986&z=2015-10-08&g=2015-10-08"
+jci_1_0: "1.0:c:BWBV0001986&g=2015-10-08"
+citeertitel_status: "redactioneel"
+signed_date: "1973-10-19"
+entry_into_force: "1973-10-19"
 ---
-
 # Statuut van de Internationale Arbeidsorganisatie
 
 PREAMBULE
@@ -22,7 +47,7 @@ Hechten de Hoge Verdragsluitende Partijen, evenzeer gedreven door gevoelens van 
 
 ### HOOFDSTUK I. Organisatie
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er wordt een permanente Organisatie opgericht die tot taak heeft te streven naar de verwezenlijking van het programma zoals dat is uiteengezet in de Preambule van dit Statuut en in de Verklaring nopens de doelstellingen van de Internationale Arbeidsorganisatie, welke Verklaring op 10 mei 1944 te Philadelphia is aangenomen en waarvan de tekst als bijlage aan dit Statuut is toegevoegd.
 
@@ -36,7 +61,7 @@ Hechten de Hoge Verdragsluitende Partijen, evenzeer gedreven door gevoelens van 
 
 6. Ingeval een Staat heeft opgehouden Lid te zijn van de Organisatie, wordt zijn wedertoelating als Lid geregeld door het bepaalde in de leden 3 en 4 van dit artikel.
 
-#### Artikel 2
+##### Artikel 2
 
 De permanente Organisatie omvat:
 
@@ -46,7 +71,7 @@ De permanente Organisatie omvat:
 
 - c). een Internationaal Arbeidsbureau onder toezicht van de Raad van Beheer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Algemene Conferentie van vertegenwoordigers der Leden komt bijeen telkens wanneer dit nodig is en ten minste eenmaal per jaar. Zij is samengesteld uit vier vertegenwoordigers van elk Lid, waaronder twee regeringsafgevaardigden en twee afgevaardigden die onderscheidenlijk de werkgevers en de werknemers van elk Lid vertegenwoordigen.
 
@@ -70,7 +95,7 @@ De permanente Organisatie omvat:
 
 9. De geloofsbrieven van de afgevaardigden en van hun adviseurs worden onderzocht door de Conferentie die, bij een meerderheid van twee derde van de door de aanwezige Leden uitgebrachte stemmen, kan weigeren een afgevaardigde of een adviseur toe te laten die naar haar mening niet is aangewezen in overeenstemming met het bepaalde in dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Iedere afgevaardigde heeft het recht hoofdelijk te stemmen over alle aangelegenheden die door de Conferentie worden behandeld.
 
@@ -78,15 +103,15 @@ De permanente Organisatie omvat:
 
 3. Indien de Conferentie op grond van het bepaalde in artikel 3 de toelating van een afgevaardigde van een der Leden weigert, wordt het bepaalde in dit artikel toegepast alsof die afgevaardigde niet was aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 De bijeenkomsten der Conferentie worden, behoudens een door de Conferentie zelf in een voorafgaande zitting genomen beslissing, gehouden in een door de Raad van Beheer aan te wijzen plaats.
 
-#### Artikel 6
+##### Artikel 6
 
 De Conferentie beslist over verplaatsing van de zetel van het Internationaal Arbeidsbureau met een meerderheid van twee derde van de door de aanwezige afgevaardigden uitgebrachte stemmen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Raad van Beheer is samengesteld uit 56 personen, namelijk:
 
@@ -110,13 +135,13 @@ De Conferentie beslist over verplaatsing van de zetel van het Internationaal Arb
 
 8. De Raad van Beheer stelt een reglement van orde vast en komt op door de Raad zelf te bepalen tijdstippen bijeen. Een buitengewone zitting moet worden gehouden telkens wanneer ten minste 16 vertegenwoordigers in de Raad van Beheer een schriftelijke aanvraag daartoe hebben ingediend.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan het hoofd van het Internationaal Arbeidsbureau staat een Directeur-Generaal die wordt aangewezen door de Raad van Beheer van welke hij zijn instructies ontvangt en tegenover welke hij verantwoordelijk is voor de goede gang van zaken van het Bureau alsmede voor de uitvoering van alle andere werkzaamheden die hem worden opgedragen.
 
 2. De Directeur-Generaal of zijn plaatsvervanger woont alle bijeenkomsten van de Raad van Beheer bij.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het personeel van het Internationaal Arbeidsbureau wordt aangesteld door de Directeur-Generaal overeenkomstig de door de Raad van Beheer goedgekeurde voorschriften.
 
@@ -128,7 +153,7 @@ De Conferentie beslist over verplaatsing van de zetel van het Internationaal Arb
 
 5. Ieder Lid van de Organisatie verbindt zich het uitsluitend internationale karakter van de verantwoordelijkheden van de Directeur-Generaal en van het personeel te eerbiedigen en niet te trachten invloed op hen uit te oefenen bij de vervulling van hun taken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De werkzaamheden van het Internationaal Arbeidsbureau omvatten het verzamelen en het verspreiden van inlichtingen over alle onderwerpen die betrekking hebben op de internationale regeling van de werkomstandigheden en van de arbeidsverhoudingen der werknemers, en in het bijzonder het bestuderen van de vraagstukken die worden voorgesteld ter bespreking door de Conferentie, met het oog op het sluiten van internationale verdragen, alsmede het instellen van alle door de Conferentie of de Raad van Beheer opgedragen bijzondere onderzoeken.
 
@@ -144,11 +169,11 @@ De Conferentie beslist over verplaatsing van de zetel van het Internationaal Arb
 
 3. Verder bezit het Bureau die bevoegdheden en functies welke hem worden toegekend door de Conferentie of de Raad van Beheer.
 
-#### Artikel 11
+##### Artikel 11
 
 De ministeries van de Leden die zich met industrie- en arbeidsvraagstukken bezighouden, kunnen rechtstreeks in verbinding treden met de Directeur-Generaal door tussenkomst van hun regeringsvertegenwoordiger in de Raad van Beheer van het Internationaal Arbeidsbureau of, indien een zodanige vertegenwoordiger ontbreekt, door tussenkomst van enige andere bevoegde functionaris die daartoe door de betrokken regering is aangewezen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Binnen het kader van dit Statuut werkt de Internationale Arbeidsorganisatie samen met iedere algemene internationale organisatie die is belast met het coördineren van de werkzaamheden van publiekrechtelijke internationale organisaties die gespecialiseerde taken hebben alsmede met publiekrechtelijke internationale organisaties die gespecialiseerde taken hebben op aanverwante gebieden.
 
@@ -156,7 +181,7 @@ De ministeries van de Leden die zich met industrie- en arbeidsvraagstukken bezig
 
 3. De Internationale Arbeidsorganisatie kan de nodige maatregelen treffen om, indien zij dit wenselijk oordeelt, erkende niet-gouvernementele internationale organisaties te raadplegen, met inbegrip van internationale organisaties van werkgevers, werknemers, landbouwers en coöperatieve organisaties.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Internationale Arbeidsorganisatie kan met de Verenigde Naties zodanige financiële en budgettaire regelingen treffen als wenselijk worden geacht.
 
@@ -176,19 +201,19 @@ De ministeries van de Leden die zich met industrie- en arbeidsvraagstukken bezig
 
 ### HOOFDSTUK II. Werkwijze
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Raad van Beheer stelt de agenda voor de zittingen van de Conferentie vast na alle voorstellen te hebben onderzocht die ten aanzien van de te behandelen punten zijn gedaan door de regering van een der Leden, door een representatieve organisatie als bedoeld in artikel 3 of door een publiekrechtelijke internationale organisatie.
 
 2. De Raad van Beheer stelt regels vast om, door middel van een voorbereidende technische conferentie of anderszins, een nauwkeurige technische voorbereiding en een behoorlijke raadpleging van de meest belanghebbende Leden te verzekeren alvorens een verdrag of een aanbeveling door de Conferentie wordt aangenomen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Directeur-Generaal treedt op als Secretaris-Generaal van de Conferentie en doet de agenda van elke zitting vier maanden tevoren toekomen aan alle Leden en, door tussenkomst van deze, aan de niet-regeringsafgevaardigden, indien deze laatsten zijn aangewezen.
 
 2. De verslagen over elk punt van de agenda moeten de Leden tijdig worden toegezonden om hen in staat te stellen deze behoorlijk te bestuderen vóór de aanvang van de Conferentie. De Raad van Beheer stelt regels vast voor de uitvoering van deze bepaling.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Iedere regering der Leden heeft het recht zich te verzetten tegen de plaatsing van een of meer der voorgestelde onderwerpen op de agenda van de zitting. De redenen van dit verzet moeten worden uiteengezet in een nota gericht aan de Directeur-Generaal die deze ter kennis brengt van de Leden der Organisatie.
 
@@ -196,7 +221,7 @@ De ministeries van de Leden die zich met industrie- en arbeidsvraagstukken bezig
 
 3. Iedere aangelegenheid ten aanzien waarvan de Conferentie (anders dan bedoeld in het vorige lid) met een zelfde twee derde meerderheid besluit dat deze in behandeling moet worden genomen, wordt op de agenda van de volgende zitting geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Conferentie kiest een voorzitter en drie ondervoorzitters. Als ondervoorzitters worden gekozen een regeringsafgevaardigde, een afgevaardigde van de werkgevers en een afgevaardigde van de werknemers. De Conferentie stelt haar eigen reglement van orde vast en kan commissies benoemen voor het uitbrengen van verslagen over alle vraagstukken die naar haar mening in studie moeten worden genomen.
 
@@ -204,11 +229,11 @@ De ministeries van de Leden die zich met industrie- en arbeidsvraagstukken bezig
 
 3. De stemming is ongeldig indien het aantal uitgebrachte stemmen minder is dan de helft van het aantal der bij de zitting van de Conferentie aanwezige afgevaardigden.
 
-#### Artikel 18
+##### Artikel 18
 
 De Conferentie kan aan de door haar ingestelde commissies adviseurs toevoegen die geen stemrecht hebben.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Indien de Conferentie zich uitspreekt voor het aannemen van voorstellen die betrekking hebben op een punt van de agenda, dient zij te bepalen of deze voorstellen de vorm zullen krijgen van: **(a)** een internationaal verdrag; **(b)** een aanbeveling, wanneer het behandelde onderwerp of een aspect daarvan op dat ogenblik niet geschikt wordt geacht voor een verdrag.
 
@@ -260,35 +285,35 @@ De Conferentie kan aan de door haar ingestelde commissies adviseurs toevoegen di
 
 9. Handelend op voorstel van de Raad van Beheer kan de Conferentie, met een meerderheid van twee derde der door de aanwezige afgevaardigden uitgebrachte stemmen, een verdrag dat conform de bepalingen van dit artikel is aangenomen intrekken indien blijkt dat het verdrag zijn doel heeft verloren of dat het geen zinvolle bijdrage meer levert aan de verwezenlijking van de doelstellingen van de Organisatie.
 
-#### Artikel 20
+##### Artikel 20
 
 Ieder aldus bekrachtigd verdrag wordt door de Directeur-Generaal van het Internationaal Arbeidsbureau ter kennis gebracht van de Secretaris-Generaal van de Verenigde Naties ten einde overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) te worden geregistreerd, maar is slechts bindend voor de Leden die het hebben bekrachtigd.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien bij de eindstemming over een ontwerp-verdrag niet de meerderheid van twee derde der door de aanwezige afgevaardigden uitgebrachte stemmen wordt behaald, kunnen de Leden der Organisatie die zulks wensen, ertoe overgaan een zodanig verdrag onderling te sluiten.
 
 2. Ieder aldus gesloten verdrag wordt door de betrokken regeringen ter kennis gebracht van de Directeur-Generaal van het Internationaal Arbeidsbureau en van de Secretaris-Generaal van de Verenigde Naties ten einde overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) te worden geregistreerd.
 
-#### Artikel 22
+##### Artikel 22
 
 Ieder Lid verbindt zich aan het Internationaal Arbeidsbureau een jaarverslag uit te brengen betreffende de door hem genomen maatregelen ter uitvoering van de verdragen waartoe hij is toegetreden. Deze verslagen worden opgesteld in de door de Raad van Beheer aangegeven vorm en dienen de bijzonderheden te bevatten waarom door de Raad is verzocht.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Directeur-Generaal geeft de Conferentie op haar eerstvolgende zitting een samenvatting van de inlichtingen en de verslagen die hem ingevolge het bepaalde in de artikelen 19 en 22 door de Leden zijn toegezonden.
 
 2. Elk Lid zendt aan de representatieve organisaties die voor de toepassing van het bepaalde in artikel 3 als zodanig zijn erkend, afschriften van de inlichtingen en verslagen die de Directeur-Generaal ingevolge het bepaalde in de artikelen 19 en 22 zijn toegezonden.
 
-#### Artikel 24
+##### Artikel 24
 
 Elk door een werkgevers- of werknemersorganisatie aan het Internationaal Arbeidsbureau gericht bezwaarschrift volgens hetwelk een Lid niet op een bevredigende wijze uitvoering zou hebben gegeven aan een verdrag waartoe dat Lid is toegetreden, kan door de Raad van Beheer ter kennis worden gebracht van de betrokken regering, die kan worden uitgenodigd ter zake een passende verklaring af te leggen.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien van de betrokken regering binnen een redelijke termijn geen verklaring is ontvangen of indien de Raad van Beheer de ontvangen verklaring niet bevredigend acht, heeft de Raad het recht het ontvangen bezwaarschrift en de eventuele reactie daarop openbaar te maken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ieder Lid kan bij het Internationaal Arbeidsbureau een klacht indienen tegen een ander Lid dat, naar zijn mening, niet op een bevredigende wijze uitvoering geeft aan een verdrag dat beide krachtens het bepaalde in de voorgaande artikelen hebben bekrachtigd.
 
@@ -300,43 +325,43 @@ Indien van de betrokken regering binnen een redelijke termijn geen verklaring is
 
 5. Wanneer een uit de toepassing van het bepaalde in de artikelen 25 of 26 voortvloeiende aangelegenheid wordt behandeld door de Raad van Beheer, heeft de betrokken regering, indien zij niet reeds in de Raad van Beheer is vertegenwoordigd, het recht een afgevaardigde te doen deelnemen aan de beraadslagingen van de Raad over deze aangelegenheid. Het tijdstip waarop deze aangelegenheid zal worden behandeld, dient tijdig ter kennis van de betrokken regering te worden gebracht.
 
-#### Artikel 27
+##### Artikel 27
 
 Indien een klacht krachtens het bepaalde in artikel 26 naar een commissie van onderzoek wordt verwezen, verbindt ieder Lid zich, ongeacht of het rechtstreeks bij de klacht is betrokken, alle inlichtingen waarover het met betrekking tot het onderwerp van de klacht beschikt, aan de commissie te verschaffen.
 
-#### Artikel 28
+##### Artikel 28
 
 Nadat de commissie van onderzoek de klacht grondig heeft onderzocht, stelt zij een verslag op over haar bevindingen omtrent alle feiten die voor de beoordeling van het geschil van belang zijn; tevens geeft zij aan welke maatregelen zij meent te moeten aanbevelen om aan de klacht tegemoet te komen en binnen welke termijn deze maatregelen zouden moeten worden genomen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau zendt het verslag van de commissie van onderzoek aan de Raad van Beheer en aan elke bij de klacht betrokken regering en zorgt voor de openbaarmaking daarvan.
 
 2. ledere betrokken regering deelt de Directeur-Generaal van het Internationaal Arbeidsbureau binnen drie maanden mede of zij de in het verslag van de commissie vervatte aanbevelingen al dan niet aanvaardt; en ingeval zij deze niet aanvaardt, of zij de klacht aan het Internationale Gerechtshof wenst voor te leggen.
 
-#### Artikel 30
+##### Artikel 30
 
 Ingeval een Lid ten aanzien van een verdrag of een aanbeveling niet de in de leden 5, letter **b)**, 6, letter **b)**, of 7 letter **b)** onder (i), van artikel 19 voorgeschreven maatregelen neemt, heeft elk ander Lid het recht deze zaak voor te leggen aan de Raad van Beheer. Indien de Raad van Beheer tot de slotsom komt dat het Lid in gebreke is gebleven, brengt hij daarover verslag uit aan de Conferentie.
 
-#### Artikel 31
+##### Artikel 31
 
 Tegen de beslissing van het Internationale Gerechtshof betreffende een klacht of een aangelegenheid die overeenkomstig artikel 29 aan het Gerechtshof is voorgelegd, is geen beroep mogelijk.
 
-#### Artikel 32
+##### Artikel 32
 
 Het Internationale Gerechtshof kan de conclusies of de aanbevelingen van de commissie van onderzoek bevestigen, wijzigen of vernietigen.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien een Lid zich binnen de voorgeschreven termijn niet voegt naar de aanbevelingen die eventueel zijn vervat in het verslag van de commissie van onderzoek of in de beslissing van het Internationale Gerechtshof, kan de Raad van Beheer de Conferentie die maatregel aanbevelen welke hij dienstig acht om de uitvoering van de gedane aanbevelingen te waarborgen.
 
-#### Artikel 34
+##### Artikel 34
 
 De in gebreke gebleven regering kan de Raad van Beheer te allen tijde mededelen dat zij de nodige maatregelen heeft genomen om uitvoering te geven hetzij aan de aanbevelingen van de commissie van onderzoek, hetzij aan de aanbevelingen die zijn vervat in de beslissing van het Internationale Gerechtshof en kan de Raad verzoeken een commissie van onderzoek in te stellen om na te gaan of zij haar verklaringen gestand doet. In dat geval is het bepaalde in de artikelen 27, 28, 29, 31 en 32 van toepassing en, indien het verslag van de commissie van onderzoek of de beslissing van het Internationale Gerechtshof gunstig is voor de in gebreke gebleven regering, dient de Raad van Beheer onmiddellijk aan te bevelen de ingevolge artikel 33 genomen maatregelen op te heffen.
 
 ### HOOFDSTUK III. Algemene voorschriften
 
-#### Artikel 35
+##### Artikel 35
 
 1. De Leden verbinden zich de verdragen die zij overeenkomstig de bepalingen van dit Statuut hebben bekrachtigd, toe te passen op de buiten het moederland gelegen gebieden waarvoor zij de buitenlandse betrekkingen onderhouden, met inbegrip van alle trustgebieden met het beheer waarvan zij zijn belast, behalve wanneer de in het verdrag behandelde aangelegenheden vallen onder de eigen bevoegdheden van de autoriteiten van die gebieden of wanneer het verdrag niet van toepassing is in verband met plaatselijke omstandigheden of wanneer er wijzigingen noodzakelijk mochten zijn om de verdragen aan de plaatselijke omstandigheden aan te passen.
 
@@ -358,17 +383,17 @@ De in gebreke gebleven regering kan de Raad van Beheer te allen tijde mededelen 
 
 8. Indien de uit een verdrag voortvloeiende verplichtingen niet worden aanvaard namens een gebied waarop het bepaalde in lid 4 of lid 5 van dit artikel betrekking heeft, wordt door het Lid of door de Leden of door de internationale autoriteit aan de Directeur-Generaal van het Internationaal Arbeidsbureau verslag uitgebracht over de stand van de wetgeving en de gebruiken in dat gebied ten aanzien van de in het verdrag behandelde aangelegenheden, waarbij in het verslag wordt aangegeven in hoeverre aan alle bepalingen van het verdrag uitvoering is gegeven of zal worden gegeven door middel van wettelijke of bestuurlijke maatregelen, collectieve overeenkomsten of anderszins en welke moeilijkheden de aanvaarding van dat verdrag verhinderen of vertragen.
 
-#### Artikel 36
+##### Artikel 36
 
 De wijzigingen van dit Statuut die door de Conferentie met een meerderheid van twee-derde der door de aanwezige afgevaardigden uitgebrachte stemmen zijn aangenomen, worden van kracht zodra zij zijn bekrachtigd of aanvaard door twee-derde van de Leden der Organisatie, waaronder vijf van de tien Leden die overeenkomstig het bepaalde in lid 3 van artikel 7 van dit Statuut in de Raad van Beheer zijn vertegenwoordigd in verband met hun belangrijkste plaatsen op het gebied van de industrie.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Alle vragen of geschillen betreffende de uitleg van dit Statuut en van de verdragen die op een later tijdstip door de Leden krachtens dit Statuut worden gesloten, worden aan het Internationale Gerechtshof voorgelegd.
 
 2. Onverminderd het bepaalde in lid 1 van dit artikel, kan de Raad van Beheer voorschriften voor de instelling van een scheidsgerecht opstellen en aan de Conferentie ter goedkeuring voorleggen met het oog op een snelle regeling van de op de uitleg van een verdrag betrekking hebbende vragen of geschillen die aan het scheidsgerecht kunnen worden voorgelegd door de Raad van Beheer of overeenkomstig de bepalingen van dat verdrag. Alle vonnissen of adviezen van het Internationale Gerechtshof zijn bindend voor ieder scheidsgerecht dat krachtens het bepaalde in dit lid is ingesteld. Iedere uitspraak van een dergelijk scheidsgerecht wordt aan de Leden van de Organisatie medegedeeld en hun eventuele opmerkingen worden aan de Conferentie voorgelegd.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Internationale Arbeidsorganisatie kan de regionale conferenties bijeenroepen en de regionale instellingen oprichten die zij wenselijk acht voor het bereiken van haar doeleinden.
 
@@ -376,7 +401,7 @@ De wijzigingen van dit Statuut die door de Conferentie met een meerderheid van t
 
 ### HOOFDSTUK IV. Diverse bepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 De Internationale Arbeidsorganisatie bezit rechtspersoonlijkheid en heeft met name de bevoegdheid om:
 
@@ -386,7 +411,7 @@ De Internationale Arbeidsorganisatie bezit rechtspersoonlijkheid en heeft met na
 
 - (c). in rechte op te treden.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Internationale Arbeidsorganisatie geniet op het gebied van ieder Lid de voorrechten en immuniteiten die nodig zijn voor het verwezenlijken van haar doeleinden.
 

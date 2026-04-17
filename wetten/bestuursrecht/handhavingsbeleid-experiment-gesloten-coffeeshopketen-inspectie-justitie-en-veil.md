@@ -1,13 +1,39 @@
 ---
-title: "Handhavingsbeleid Experiment Gesloten Coffeeshopketen Inspectie Justitie en Veiligheid"
+title: "Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 14 oktober 2021 tot vaststelling van het Handhavingsbeleid Experiment Gesloten Coffeeshopketen Inspectie Justitie en Veiligheid"
 identifier: "BWBR0045722"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-01
-laatste_update: 2021-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045722"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-11-01"
+last_updated: "2021-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045722"
+soort: "beleidsregel"
+stam_id: "16106183"
+version_id: "28094142"
+internal_id: "C39622221"
+label_id: "16037174"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045722/2021-11-01/0"
+intitule_bron: "Stcrt.2021-44238"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-14"
+intitule_published: "2021-10-22"
+intitule_in_force: "2021-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-44238"
+original_signed_date: "2021-10-14"
+original_published_date: "2021-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-44238"
+entry_into_force_date: "2021-11-01"
+jci_1_3: "jci1.3:c:BWBR0045722&z=2021-11-01&g=2021-11-01"
+jci_1_0: "1.0:c:BWBR0045722&g=2021-11-01"
+citeertitel_status: "officieel"
+short_title: "Handhavingsbeleid Experiment Gesloten Coffeeshopketen Inspectie Justitie en Veiligheid"
+signed_date: "2021-10-14"
+entry_into_force: "2021-11-01"
 ---
-
 # Besluit van de Inspecteur-generaal van de Inspectie Justitie en Veiligheid namens de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid, van 14 oktober 2021 tot vaststelling van het Handhavingsbeleid Experiment Gesloten Coffeeshopketen Inspectie Justitie en Veiligheid
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 8, eerste lid, van de Wet Experiment Gesloten Coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8), [artikel 6 van het Besluit houdende aanwijzing van toezichthouders naleving Wet experiment gesloten coffeeshopketen en het verlenen van mandaat en machtiging voor de uitvoering en handhaving van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043743&artikel=6)

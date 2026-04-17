@@ -1,13 +1,35 @@
 ---
 title: "Beleidskader rechtspositie stagiairs bij de sector Rijk 2025"
 identifier: "BWBR0050962"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-18
-laatste_update: 2025-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050962"
+country: "nl"
+rank: "circulaire"
+publication_date: "2025-04-18"
+last_updated: "2025-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050962"
+soort: "circulaire"
+stam_id: "17411613"
+version_id: "30699922"
+internal_id: "C44005981"
+label_id: "17315064"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050962/2025-04-18/0"
+intitule_bron: "Stcrt.2025-13521"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-04-18"
+intitule_in_force: "2025-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-13521"
+original_published_date: "2025-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-13521"
+entry_into_force_date: "2025-04-18"
+jci_1_3: "jci1.3:c:BWBR0050962&z=2025-04-18&g=2025-04-18"
+jci_1_0: "1.0:c:BWBR0050962&g=2025-04-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-04-18"
 ---
-
 # Beleidskader rechtspositie stagiairs bij de sector Rijk 2025
 
 ### 1. Inleiding

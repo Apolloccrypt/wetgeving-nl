@@ -1,20 +1,46 @@
 ---
-title: "Besluit verlengbaarheid vergunningen niet-landelijke commerciële radio FM-band, vergunning voor commerciële radio-omroep in de AM-band en niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021)"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 augustus 2021 nr. DGBI/, 212 14 231 inzake de verlengbaarheid van vergunningen voor niet-landelijke commerciële radio-omroepen in de FM-band, inzake de verlengbaarheid van de vergunning voor commerciële radio-omroep in de AM-band en inzake de verlengbaarheid van niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021)"
 identifier: "BWBR0045547"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-08-31
-laatste_update: 2021-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045547"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-08-31"
+last_updated: "2021-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045547"
+soort: "ministeriele-regeling"
+stam_id: "16061063"
+version_id: "27974142"
+internal_id: "C39466411"
+label_id: "15993164"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045547/2021-08-31/0"
+intitule_bron: "Stcrt.2021-38956"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-08-26"
+intitule_published: "2021-08-30"
+intitule_in_force: "2021-08-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-38956"
+original_signed_date: "2021-08-26"
+original_published_date: "2021-08-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-38956"
+entry_into_force_date: "2021-08-31"
+jci_1_3: "jci1.3:c:BWBR0045547&z=2021-08-31&g=2021-08-31"
+jci_1_0: "1.0:c:BWBR0045547&g=2021-08-31"
+citeertitel_status: "officieel"
+short_title: "Besluit verlengbaarheid vergunningen niet-landelijke commerciële radio FM-band, vergunning voor commerciële radio-omroep in de AM-band en niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021)"
+signed_date: "2021-08-26"
+entry_into_force: "2021-08-31"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 26 augustus 2021 nr. DGBI/, 212 14 231 inzake de verlengbaarheid van vergunningen voor niet-landelijke commerciële radio-omroepen in de FM-band, inzake de verlengbaarheid van de vergunning voor commerciële radio-omroep in de AM-band en inzake de verlengbaarheid van niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021)
 
 Gelet op [artikel 18, tweede lid, aanhef en onder a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio in de FM-band, de vergunning voor commerciële radio-omroep in de AM-band en de niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4, genoemd in kolom 1 van tabel 1, zijn verlengbaar om redenen van algemeen economisch belang, als bedoeld in [artikel 18, tweede lid, onderdeel a, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18).
 
@@ -61,23 +87,23 @@ De vergunningen voor niet-landelijke commerciële radio in de FM-band, de vergun
 | Kavel C12 | 2 | 5B | 4, 5, 6, 11 |
 | Vergunningen niet-gekoppelde digitale radio-omroep | - | 7C-Z | 3, 5, 6, 13 |
 
-#### Artikel 2
+##### Artikel 2
 
 De vergunningen voor niet-landelijke commerciële radio in de FM-band en de vergunning voor commerciële radio-omroep in de AM-band, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&artikel=1&z=2021-08-31&g=2021-08-31), zijn verlengbaar voor een vaste periode die aanvangt op 1 september 2022 en loopt tot en met 31 augustus 2025.
 
-#### Artikel 3
+##### Artikel 3
 
 De niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4,bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&artikel=1&z=2021-08-31&g=2021-08-31), zijn verlengbaar vanaf 1 juni 2022 en deze periode loopt tot en met 31 augustus 2025.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een vergunning als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&artikel=1&z=2021-08-31&g=2021-08-31) wordt verlengd, wordt zij met ingang van de datum, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&artikel=2&z=2021-08-31&g=2021-08-31) dan wel genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&artikel=3&z=2021-08-31&g=2021-08-31) gewijzigd overeenkomstig [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&bijlage=1&z=2021-08-31&g=2021-08-31) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0045547&bijlage=2&z=2021-08-31&g=2021-08-31).
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit verlengbaarheid vergunningen niet-landelijke commerciële radio FM-band, vergunning voor commerciële radio-omroep in de AM-band en niet-gekoppelde vergunningen voor digitale radio-omroep in laag 4 (2021).
 

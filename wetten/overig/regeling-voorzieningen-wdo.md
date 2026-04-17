@@ -1,13 +1,39 @@
 ---
-title: "Regeling voorzieningen Wdo"
+title: "Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 2023-0000244781, houdende regels met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in artikel 5, eerste lid, van de Wet digitale overheid (Regeling voorzieningen Wdo)"
 identifier: "BWBR0048167"
-categorie: "Overig"
-publicatiedatum: 2025-12-06
-laatste_update: 2025-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048167"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-06"
+last_updated: "2025-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048167"
+soort: "ministeriele-regeling"
+stam_id: "16747683"
+version_id: "29408582"
+internal_id: "C42046931"
+label_id: "16663674"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048167/2025-12-06/0"
+intitule_bron: "Stcrt.2023-13657"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-08"
+intitule_published: "2023-05-17"
+intitule_in_force: "2023-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-13657"
+original_signed_date: "2023-05-08"
+original_published_date: "2023-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-13657"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048167&z=2025-12-06&g=2025-12-06"
+jci_1_0: "1.0:c:BWBR0048167&g=2025-12-06"
+citeertitel_status: "officieel"
+short_title: "Regeling voorzieningen Wdo"
+signed_date: "2023-05-08"
+entry_into_force: "2023-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 8 mei 2023, nr 2023-0000244781, houdende regels met betrekking tot het gebruik van publieke identificatiemiddelen en de voorzieningen, bedoeld in artikel 5, eerste lid, van de Wet digitale overheid (Regeling voorzieningen Wdo)
 
 Gelet op [artikel 10, tweede lid, van de Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156&artikel=10) en [artikel 20, vijfde lid, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=20);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** de [Wet digitale overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0048156).
 
-#### Artikel 2. Onderbreking toegang en informatieverschaffing
+##### Artikel 2. Onderbreking toegang en informatieverschaffing
 
 De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaarheid van DigiD, DigiD Machtigen en MijnOverheid onderbreken, indien sprake is van een storing of aantasting van de betrouwbaarheid van de voorziening, misbruik of oneigenlijk gebruik of een beveiligingsincident. Indien mogelijk wordt voorafgaand informatie verstrekt over de aard en verwachte duur van de onderbreking via [www.digid.nl](http://www.digid.nl/), [www.machtigen.digid.nl](http://www.machtigen.digid.nl/) respectievelijk [www.mijnoverheid.nl](http://www.mijnoverheid.nl/).
 
 ### Hoofdstuk 2. Voorzieningen voor identificatiemiddelen
 
-#### Artikel 3. Gebruik DigiD
+##### Artikel 3. Gebruik DigiD
 
 1. Een rechthebbende kan, als beoogde gebruiker, DigiD aanvragen. Dit geschiedt op de volgende manier:
 
@@ -92,7 +118,7 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 ### Hoofdstuk 3. Voorzieningen voor elektronische registratie van machtigingen
 
-#### Artikel 4. Gebruik DigiD Machtigen
+##### Artikel 4. Gebruik DigiD Machtigen
 
 1. Een vertegenwoordigde of beoogd gemachtigde kan een aanvraag tot registratie van een machtiging doen via [www.machtigen.digid.nl](http://www.machtigen.digid.nl) of via een afnemer die het aanvragen faciliteert.
 
@@ -110,7 +136,7 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 ### Hoofdstuk 4. Voorzieningen voor elektronisch berichtenverkeer en informatieverschaffing
 
-#### Artikel 5. Gebruik MijnOverheid
+##### Artikel 5. Gebruik MijnOverheid
 
 1. Rechthebbende op een door de Minister aangemaakt MijnOverheid-account is een ieder die:
 
@@ -138,15 +164,15 @@ De Minister kan zonder voorafgaande bekendmaking de toegang tot of de beschikbaa
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 6. Intrekking
+##### Artikel 6. Intrekking
 
 De [Regeling voorzieningen GDI](https://wetten.overheid.nl/jci1.3:c:BWBR0037124) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen Wdo.
 

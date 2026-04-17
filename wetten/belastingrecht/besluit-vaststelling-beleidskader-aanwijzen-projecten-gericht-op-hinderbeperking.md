@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling beleidskader aanwijzen projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden (vrijstelling voordelen voor deelnemers projecten volgens de Wet inkomstenbelasting 2001)"
+title: "Besluit van de Minister van IenW van 25 april 2018, IENW/BSK-2018/76264, houdende vaststelling van een beleidskader voor het aanwijzen van projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden in het kader van de vrijstelling voor de voordelen die deelnemers aan dergelijke projecten ontvangen, opgenomen in de Wet inkomstenbelasting 2001"
 identifier: "BWBR0040864"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040864"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040864"
+soort: "beleidsregel"
+stam_id: "14597783"
+version_id: "24996192"
+internal_id: "C35752281"
+label_id: "14551294"
+dtd_version: "2.0"
+original_entry_into_force: "2018-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040864/2018-05-01/0"
+intitule_bron: "Stcrt.2018-23038"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-04-25"
+intitule_published: "2018-04-30"
+intitule_in_force: "2018-04-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-23038"
+original_signed_date: "2018-04-25"
+original_published_date: "2018-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-23038"
+entry_into_force_date: "2018-05-01"
+jci_1_3: "jci1.3:c:BWBR0040864&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0040864&g=2018-05-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling beleidskader aanwijzen projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden (vrijstelling voordelen voor deelnemers projecten volgens de Wet inkomstenbelasting 2001)"
+signed_date: "2018-04-25"
+entry_into_force: "2018-05-01"
 ---
-
 # Besluit van de Minister van IenW van 25 april 2018, IENW/BSK-2018/76264, houdende vaststelling van een beleidskader voor het aanwijzen van projecten gericht op hinderbeperking tijdens grootschalige wegwerkzaamheden in het kader van de vrijstelling voor de voordelen die deelnemers aan dergelijke projecten ontvangen, opgenomen in de Wet inkomstenbelasting 2001
 
 Gelet op [artikel 3.13 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13);

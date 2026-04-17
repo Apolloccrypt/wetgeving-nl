@@ -1,116 +1,142 @@
 ---
-title: "Wijzigingsregeling enige uitvoeringsregelingen 2020 (belastingen en toeslagen)"
+title: "Regeling van de Staatssecretaris van Financiën van 31 december 2020 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen"
 identifier: "BWBR0044593"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044593"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044593"
+soort: "ministeriele-regeling"
+stam_id: "15779373"
+version_id: "27352092"
+internal_id: "C38631071"
+label_id: "15717324"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044593/2022-01-01/0"
+intitule_bron: "Stcrt.2020-64029"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-12-31"
+intitule_published: "2020-12-31"
+intitule_in_force: "2020-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-64029"
+original_signed_date: "2020-12-31"
+original_published_date: "2020-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-64029"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044593&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0044593&g=2022-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige uitvoeringsregelingen 2020 (belastingen en toeslagen)"
+signed_date: "2020-12-31"
+entry_into_force: "2021-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 31 december 2020 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 [Artikel I, onderdeel E](https://wetten.overheid.nl/jci1.3:c:BWBR0044593&artikel=I&z=2022-01-01&g=2022-01-01), is niet van toepassing op onderhandse akten van schenking die uiterlijk op 31 december 2020 tot stand zijn gekomen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VII
+##### Artikel VII
 
 De [Regeling verstrekking jaarloongegevens 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0022374) wordt ingetrokken.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De [Regeling verstrekking jaarloongegevens 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0023732) wordt ingetrokken.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Uitvoeringsregeling Registratiewet 1970.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling verbruiksbelasting van alcoholvrije dranken.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Regeling aanwijzing rechtsgebieden Common Reporting Standard.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wijzigingsregeling enige uitvoeringsregelingen 2017 (belastingen en toeslagen).
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2021, met dien verstande dat:
 

@@ -1,13 +1,35 @@
 ---
 title: "Gemeenschappelijke regeling Historisch Centrum Limburg 2020"
 identifier: "BWBR0042878"
-categorie: "Overig"
-publicatiedatum: 2019-12-31
-laatste_update: 2019-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042878"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-12-31"
+last_updated: "2019-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042878"
+soort: "ministeriele-regeling"
+stam_id: "15272263"
+version_id: "26307572"
+internal_id: "C37394261"
+label_id: "15218684"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042878/2019-12-31/0"
+intitule_bron: "Stcrt.2019-67745"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-12-12"
+intitule_in_force: "2019-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-67745"
+original_published_date: "2019-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-67745"
+entry_into_force_date: "2019-12-31"
+jci_1_3: "jci1.3:c:BWBR0042878&z=2019-12-31&g=2019-12-31"
+jci_1_0: "1.0:c:BWBR0042878&g=2019-12-31"
+citeertitel_status: "officieel"
+entry_into_force: "2019-12-31"
 ---
-
 # Gemeenschappelijke regeling Historisch Centrum Limburg 2020
 
 Gelet op de [hoofdstukken I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [VIII van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII);
@@ -20,7 +42,7 @@ De [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://we
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -38,7 +60,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Historisch Centrum Limburg
 
-#### Artikel 2
+##### Artikel 2
 
 1. De regeling wordt getroffen met het doel de belangen van de Minister en de colleges B&W bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten, in gezamenlijkheid te behartigen.
 
@@ -46,7 +68,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 3. De Minister en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Historisch Centrum Limburg de belangen, bedoeld in het eerste lid, behartigt.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Er is een openbaar lichaam genaamd Historisch Centrum Limburg, dat gevestigd is in Maastricht.
 
@@ -64,7 +86,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk III. Doel en taken
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Aan het bestuur van het Historisch Centrum Limburg zijn de navolgende werkzaamheden, taken en bevoegdheden van de Minister en de colleges B&W overgedragen:
 
@@ -80,13 +102,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 2. Het Historisch Centrum Limburg stelt zich tevens ten doel het in de archiefbewaarplaatsen van de Minister en de gemeenten ondergebrachte cultuurhistorisch erfgoed toegankelijk te maken voor en onder de aandacht te brengen van een breed publiek.
 
-#### Artikel 3
+##### Artikel 3
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor de archiefbescheiden van het Rijk.
 
 ### Hoofdstuk IV. Het algemeen bestuur
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het algemeen bestuur bestaat uit zes leden.
 
@@ -106,7 +128,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 9. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ieder lid van het algemeen bestuur heeft één stem.
 
@@ -128,7 +150,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 ### Hoofdstuk V. De taken en bevoegdheden van het algemeen bestuur
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Historisch Centrum Limburg toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
@@ -138,11 +160,11 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat de Minister en de raden van de gemeenten in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
-#### Artikel 7
+##### Artikel 7
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, de raden van de gemeenten en de colleges B&W de door hen gevraagde inlichtingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een lid van het algemeen bestuur dat is aangewezen door de Minister verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
@@ -150,13 +172,13 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister,
 
 3. De Minister, de colleges B&W en de raden van de gemeenten kunnen een lid van het algemeen bestuur dat door de Minister of de colleges B&W is aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
 
-#### Artikel 9
+##### Artikel 9
 
 De Minister en de colleges B&W kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
 ### Hoofdstuk VI. Het dagelijks bestuur
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en twee door het algemeen bestuur uit zijn midden aan te wijzen leden.
 
@@ -170,17 +192,17 @@ De Minister en de colleges B&W kunnen een door hen aangewezen lid van het algeme
 
 6. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 11
+##### Artikel 11
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 ### Hoofdstuk VII. De taken en bevoegdheden van het dagelijks bestuur
 
-#### Artikel 13
+##### Artikel 13
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -202,7 +224,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk VIII. De voorzitter
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter wordt door en uit het algemeen bestuur aangewezen.
 
@@ -218,7 +240,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk IX. Tegemoetkoming en vergoeding
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder van de gemeenten, of als ambtenaar in rijks- of gemeentedienst werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van het Historisch Centrum Limburg.
 
@@ -228,7 +250,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk X. Financiële bepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de gemeenten, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
 
@@ -244,7 +266,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 7. Indien de Minister of de colleges B&W een bijzondere taak opdragen als bedoeld in [artikel 2b, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=III&artikel=2b&z=2019-12-31&g=2019-12-31), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de opdrachtgever in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan en een meerjarenbegroting op.
 
@@ -254,7 +276,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 4. De Minister en de colleges B&W maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met het Historisch Centrum Limburg over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de Minister en de raden van de gemeenten.
 
@@ -268,7 +290,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. De Minister en de raden van de gemeenten kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt bij unanimiteit vastgesteld.
 
@@ -276,19 +298,19 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan gedeputeerde staten van de provincie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
 2. De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=X&artikel=18&z=2019-12-31&g=2019-12-31) en [18a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=X&artikel=18a&z=2019-12-31&g=2019-12-31), zijn van overeenkomstige toepassing, met uitzondering van die wijzigingen, waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=X&artikel=16&z=2019-12-31&g=2019-12-31). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan gedeputeerde staten van de provincie,
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Minister en de gemeenten voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
 2. In afwijking van het eerste lid kunnen de Minister en de gemeenten de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister en de raden van de gemeenten. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -302,29 +324,29 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister en de raden van de gemeenten. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister en de gemeenten.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister en de gemeenten van dat jaar.
 
-#### Artikel 23
+##### Artikel 23
 
 Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister en de gemeenten vast.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van het Historisch Centrum Limburg. Bij deze regels wordt bepaald welke ambtenaren van het Historisch Centrum Limburg met het doen van ontvangsten en betalingen worden belast.
 
 2. Het algemeen bestuur stelt regels vast met betrekking tot de controle op de financiële administratie en het kasbeheer.
 
-#### Artikel 25
+##### Artikel 25
 
 De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
 ### Hoofdstuk XI. Het archief
 
-#### Artikel 26
+##### Artikel 26
 
 1. Overeenkomstig door het algemeen bestuur met inachtneming van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) vast te stellen regels, die aan gedeputeerde staten worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van de bestuursorganen van het Historisch Centrum Limburg.
 
@@ -336,13 +358,13 @@ De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het fi
 
 5. Bij opheffing van deze gemeenschappelijke regeling worden de daarvoor in aanmerking komende archiefbescheiden overgebracht naar de rijksarchiefbewaarplaats in de provincie.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De Minister, de colleges B&W en het Historisch Centrum Limburg verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak. De Minister en de colleges B&W kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 2. Het Historisch Centrum Limburg stelt de Minister en de colleges B&W te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Minister en de colleges B&W doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=II&artikel=2&z=2019-12-31&g=2019-12-31), voor het Historisch Centrum Limburg van belang zijn.
 
@@ -350,29 +372,29 @@ De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het fi
 
 ### Hoofdstuk XII. De directeur en het overige personeel
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het dagelijks bestuur beslist omtrent het aangaan, wijzigen en beëindigen van een arbeidsovereenkomst met de directeur van het Historisch Centrum Limburg.
 
 2. Het dagelijks bestuur draagt er zorg voor dat er periodiek een functionerings- en beoordelingsgesprek met de directeur plaatsvindt overeenkomstig de arbeidsvoorwaardenregeling, bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=XII&artikel=33&z=2019-12-31&g=2019-12-31).
 
-#### Artikel 30
+##### Artikel 30
 
 1. Het dagelijks bestuur stelt voor de directeur een instructie vast.
 
 2. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042878&hoofdstuk=VIII&artikel=14&z=2019-12-31&g=2019-12-31), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 32
+##### Artikel 32
 
 Het dagelijks bestuur besluit tot het aangaan, wijzigen en beëindigen van arbeidsovereenkomsten met het overige personeel.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het dagelijks bestuur stelt de arbeidsvoorwaardenregeling vast.
 
@@ -382,11 +404,11 @@ Het dagelijks bestuur besluit tot het aangaan, wijzigen en beëindigen van arbei
 
 ### Hoofdstuk XIII. Toetreding, uittreding, wijziging en opheffing
 
-#### Artikel 34
+##### Artikel 34
 
 Toetreding tot de regeling geschiedt door een daartoe strekkende besluit van het bestuursorgaan dat wenst toe te treden, welk besluit de goedkeuring behoeft van de Minister en de colleges B&W, na verkregen toestemming van de raden van de gemeenten.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Uittreding uit de regeling geschiedt door toezending van het daartoe strekkende besluit van de Minister of het college B&W van de uittredende gemeente. De colleges B&W overleggen daarbij ook het besluit tot toestemming van de raad van de gemeente.
 
@@ -396,19 +418,19 @@ Toetreding tot de regeling geschiedt door een daartoe strekkende besluit van het
 
 4. Het algemeen bestuur stelt nadere regels ten aanzien van de uittredingsprocedure en de bestuurlijke en financiële gevolgen van uittreding.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Deze regeling kan worden gewijzigd bij gezamenlijk eensluidend besluit van de Minister en de colleges B&W.
 
 2. De colleges B&W hebben voor het besluit tot wijziging van de regeling de toestemming nodig van de raden van de gemeenten.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze regeling kan worden opgeheven bij gezamenlijk eensluidend besluit van de Minister en de colleges B&W. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Staat en van de gemeente om alle rechten en plichten van het openbaar lichaam over de Staat en de gemeenten te verdelen op een in het plan te bepalen wijze.
 
 ### Hoofdstuk XIV. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 1. Deze regeling treedt in werking met ingang van 31 december 2019.
 
@@ -416,11 +438,11 @@ Deze regeling kan worden opgeheven bij gezamenlijk eensluidend besluit van de Mi
 
 3. Het college B&W van de gemeente Maastricht zendt de regeling aan gedeputeerde staten van de provincie.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Historisch Centrum Limburg 2020.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De [Gemeenschappelijke regeling Regionaal Historisch Centrum Limburg](https://wetten.overheid.nl/jci1.3:c:BWBR0039744) wordt ingetrokken.
 

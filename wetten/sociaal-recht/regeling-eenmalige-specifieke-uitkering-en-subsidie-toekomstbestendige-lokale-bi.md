@@ -1,13 +1,39 @@
 ---
-title: "Regeling eenmalige specifieke uitkering en subsidie toekomstbestendige lokale bibliotheekvoorzieningen"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 maart 2023, nr. WJZ/37384724 (ID14608), houdende regels voor het verstrekken van eenmalige specifieke uitkeringen aan gemeenten en eenmalige subsidies aan provinciale ondersteuningsinstellingen ten behoeve van het realiseren van toekomstbestendige lokale bibliotheekvoorzieningen (Regeling eenmalige specifieke uitkeringen en subsidies lokale bibliotheekvoorzieningen)"
 identifier: "BWBR0047991"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-11-27
-laatste_update: 2025-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047991"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-27"
+last_updated: "2025-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047991"
+soort: "ministeriele-regeling"
+stam_id: "16701783"
+version_id: "29297762"
+internal_id: "C41730321"
+label_id: "16618844"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047991/2025-11-27/0"
+intitule_bron: "Stcrt.2023-9297"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-22"
+intitule_published: "2023-03-24"
+intitule_in_force: "2023-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-9297"
+original_signed_date: "2023-03-22"
+original_published_date: "2023-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-9297"
+entry_into_force_date: "2023-03-25"
+jci_1_3: "jci1.3:c:BWBR0047991&z=2025-11-27&g=2025-11-27"
+jci_1_0: "1.0:c:BWBR0047991&g=2025-11-27"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalige specifieke uitkering en subsidie toekomstbestendige lokale bibliotheekvoorzieningen"
+signed_date: "2023-03-22"
+entry_into_force: "2023-03-25"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 maart 2023, nr. WJZ/37384724 (ID14608), houdende regels voor het verstrekken van eenmalige specifieke uitkeringen aan gemeenten en eenmalige subsidies aan provinciale ondersteuningsinstellingen ten behoeve van het realiseren van toekomstbestendige lokale bibliotheekvoorzieningen (Regeling eenmalige specifieke uitkeringen en subsidies lokale bibliotheekvoorzieningen)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en [artikel 21 van de Wet stelsel openbare bibliotheekvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0035878&artikel=21);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen en doel van de regeling
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - **zelfbedieningslocatie:** locatie waar een collectie van werken aanwezig is, die niet bemand geopend is en waar het publiek zich zelf kan bedienen.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel bij te dragen aan het realiseren van toekomstgerichte bibliotheekvoorzieningen in gemeenten door:
 
@@ -56,7 +82,7 @@ Deze regeling heeft tot doel bij te dragen aan het realiseren van toekomstgerich
 
 ### Hoofdstuk 2. Specifieke uitkering aan gemeenten
 
-#### Artikel 3. Uitkeringsplafond
+##### Artikel 3. Uitkeringsplafond
 
 1. Voor het verstrekken van specifieke uitkeringen op grond van dit hoofdstuk is in totaal € 56.000.000 beschikbaar, waarbij:
 
@@ -66,7 +92,7 @@ Deze regeling heeft tot doel bij te dragen aan het realiseren van toekomstgerich
 
 2. Een specifieke uitkering wordt geweigerd voor zover door de verstrekking van de specifieke uitkering het uitkeringsplafond zou worden overschreden.
 
-#### Artikel 4. In aanmerking komende activiteiten en kosten
+##### Artikel 4. In aanmerking komende activiteiten en kosten
 
 1. De minister kan op aanvraag specifieke uitkeringen verstrekken aan gemeenten ter tegemoetkoming in de kosten van de volgende activiteiten:
 
@@ -82,17 +108,17 @@ Deze regeling heeft tot doel bij te dragen aan het realiseren van toekomstgerich
 
 3. Voor een specifieke uitkering komen uitsluitend in aanmerking activiteiten waarvoor de kosten na de verlening van de specifieke uitkering zijn gemaakt door een lokale bibliotheek en voor zover deze kosten niet op andere wijze zijn gefinancierd.
 
-#### Artikel 5. Cofinanciering
+##### Artikel 5. Cofinanciering
 
 Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minimaal 20 procent van de kosten uit eigen middelen of op andere wijze te zullen financieren.
 
-#### Artikel 6. Hoogte specifieke uitkering
+##### Artikel 6. Hoogte specifieke uitkering
 
 1. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27), bedraagt 80 procent van de kosten, met een maximum van € 440.000 inclusief btw.
 
 2. De hoogte van een specifieke uitkering als bedoeld in [artikel 4, eerste lid, onderdelen b tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27), bedraagt 80 procent van de kosten, met een maximum van € 220.000 inclusief btw.
 
-#### Artikel 7. Aanvraag voor een specifieke uitkering
+##### Artikel 7. Aanvraag voor een specifieke uitkering
 
 1. Een specifieke uitkering wordt op aanvraag verleend. Een aanvraag wordt ingediend door de gemeente en wordt ondertekend door het bevoegd gezag van de gemeente. Voor elke activiteit dient de gemeente een afzonderlijke aanvraag in.
 
@@ -116,7 +142,7 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 7. Voor het bepalen van de inwoneraantallen in een gemeente, bedoeld in het tweede lid, wordt uitgegaan van peildatum 1 januari 2023.
 
-#### Artikel 8. Wijze van verdelen beschikbare middelen
+##### Artikel 8. Wijze van verdelen beschikbare middelen
 
 1. De minister beslist per aanvraagperiode als bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2025-11-27&g=2025-11-27), gelijktijdig op alle aanvragen waarbij verlening van een specifieke uitkering geschiedt op basis van de rangschikking zoals geregeld in dit artikel.
 
@@ -140,15 +166,15 @@ Een specifieke uitkering wordt slechts verleend, als de gemeente aantoont minima
 
 5. Aanvragen die door rangschikking op grond van een van de vorige leden niet gehonoreerd kunnen worden vanwege overschrijding van een uitkeringsplafond, worden afgewezen.
 
-#### Artikel 9. Beslistermijn
+##### Artikel 9. Beslistermijn
 
 Op de aanvragen wordt binnen dertien weken na afloop van de aanvraagperioden, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=7&z=2025-11-27&g=2025-11-27), beslist.
 
-#### Artikel 10. Voorschot en betaling
+##### Artikel 10. Voorschot en betaling
 
 Bij verlening van een specifieke uitkering wordt het verleende bedrag in één keer bij wijze van voorschot van 100 procent binnen vier weken na bekendmaking van het besluit tot verlening uitbetaald.
 
-#### Artikel 11. Verplichtingen
+##### Artikel 11. Verplichtingen
 
 Aan de verlening van een specifieke uitkering zijn de volgende verplichtingen verbonden:
 
@@ -166,11 +192,11 @@ Aan de verlening van een specifieke uitkering zijn de volgende verplichtingen ve
 
 - 3°. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de specifieke uitkering.
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 De gemeente legt verantwoording af over de besteding van een specifieke uitkering op de wijze bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 13. Vaststelling
+##### Artikel 13. Vaststelling
 
 1. De minister stelt een specifieke uitkering vast binnen 22 weken na ontvangst van de verantwoording, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=12&z=2025-11-27&g=2025-11-27), over het jaar waarin de activiteiten waarvoor de specifieke uitkering is verleend zijn afgerond.
 
@@ -188,11 +214,11 @@ De gemeente legt verantwoording af over de besteding van een specifieke uitkerin
 
 ### Hoofdstuk 3. Subsidie aan provinciale ondersteuningsinstellingen
 
-#### Artikel 14. Doel van de subsidie
+##### Artikel 14. Doel van de subsidie
 
 De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteuningsinstellingen als tegemoetkoming in de kosten van werkzaamheden die zij verrichten ter ondersteuning bij de uitvoering van activiteiten als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=4&z=2025-11-27&g=2025-11-27).
 
-#### Artikel 15. Subsidieplafond en subsidiehoogte
+##### Artikel 15. Subsidieplafond en subsidiehoogte
 
 1. Voor subsidieverstrekking op grond van dit hoofdstuk is voor 2023 € 601.000 beschikbaar.
 
@@ -211,17 +237,17 @@ De minister verleent ambtshalve eenmalige subsidies aan provinciale ondersteunin
 | Stichting ZB – Bibliotheek van Zeeland | Zeeland | € 32.000 |
 | **Totaal** | **Totaal** | **€ 601.000** |
 
-#### Artikel 16. Voorschot en betaling
+##### Artikel 16. Voorschot en betaling
 
 Bij verlening van een subsidie wordt het verleende bedrag in één keer bij wijze van voorschot van 100 procent binnen vier weken na bekendmaking van het besluit tot verlening uitbetaald.
 
-#### Artikel 17. Verplichtingen
+##### Artikel 17. Verplichtingen
 
 1. [Artikel 11, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=11&z=2025-11-27&g=2025-11-27), is van overeenkomstige toepassing.
 
 2. De subsidieontvanger is verplicht de activiteiten uiterlijk op 31 december 2024 af te ronden.
 
-#### Artikel 18. Verantwoording en vaststelling
+##### Artikel 18. Verantwoording en vaststelling
 
 1. De provinciale ondersteuningsinstelling die een subsidie ontvangt toont op verzoek van de minister aan dat de activiteiten waarvoor de subsidie is verleend, zijn verricht en dat is voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -231,23 +257,23 @@ Bij verlening van een subsidie wordt het verleende bedrag in één keer bij wijz
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 19. Begrotingsvoorbehoud
+##### Artikel 19. Begrotingsvoorbehoud
 
 Voor zover een specifieke uitkering of een subsidie wordt verleend ten laste van een begroting die nog niet is vastgesteld of goedgekeurd, wordt zij verleend onder de voorwaarde dat voldoende gelden ter beschikking worden gesteld. Ten aanzien van de specifieke uitkeringen is [artikel 4:34, tweede tot en met vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34) van overeenkomstige toepassing.
 
-#### Artikel 20. Hardheidsclausule
+##### Artikel 20. Hardheidsclausule
 
 De minister kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 21. Inwerkingtreding en vervaldatum
+##### Artikel 21. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt op 1 januari 2027, met dien verstande dat zij van toepassing blijft ten aanzien van specifieke uitkeringen en subsidies die voor die datum op grond van deze regeling zijn verstrekt.
 
-#### Artikel 22. Citeertitel
+##### Artikel 22. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling eenmalige specifieke uitkering en subsidie toekomstbestendige lokale bibliotheekvoorzieningen.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. In aanvulling op [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0047991&hoofdstuk=2&artikel=3&z=2025-11-27&g=2025-11-27), is voor het jaar 2024 een aanvullend bedrag van € 11.000.000 beschikbaar voor het verstrekken van specifieke uitkeringen aan gemeenten wier aanvragen in 2024 uitsluitend zijn afgewezen wegens de dreigende overschrijding van het in dat lid bedoelde uitkeringsplafond.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit bevorderen samenwerking en rechtmatige zorg"
 identifier: "BWBR0049565"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049565"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049565"
+soort: "AMvB"
+stam_id: "17071963"
+version_id: "30043292"
+internal_id: "C43516971"
+label_id: "16981174"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049565/2025-01-01/0"
+intitule_bron: "Stb.2024-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-08"
+intitule_published: "2024-04-12"
+intitule_in_force: "2024-09-25"
+intitule_status: "goed"
+original_publication: "Stb.2024-85"
+original_signed_date: "2024-04-08"
+original_published_date: "2024-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-85"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0049565&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0049565&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-04-08"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit bevorderen samenwerking en rechtmatige zorg
 
 Op de voordracht van Onze Minister voor Langdurige Zorg en Sport, in overeenstemming met Onze Minister voor Rechtsbescherming en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, van 9 november 2023, kenmerk 3718267-1056219-WJZ;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,7 +85,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Gegevensverwerking bij gerechtvaardigde overtuiging van fraude in de zorg
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Er is sprake van gerechtvaardigde overtuiging als bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1), indien er voldoende bewijs van betrokkenheid bij fraude voorhanden is en sprake is van een vastgestelde gedraging die een zwaardere verdenking dan een redelijk vermoeden oplevert.
 
@@ -74,7 +99,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het gegeven of de rechtspersoon of natuurlijke persoon op wie de verstrekking ziet, is geïnformeerd over deze verstrekking.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Het protocol, bedoeld in [artikel 2.1, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1), geeft een concrete invulling en uitwerking van de volgende eisen:
 
@@ -114,7 +139,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. een beschrijving van het recht van natuurlijke personen of rechtspersonen van wie gegevens worden verwerkt op inzage, rectificatie, verwijdering en beperking van de verwerking van hun gegevens, de wijze waarop zij deze rechten kunnen uitoefenen en de wijze waarop natuurlijke personen of rechtspersonen van wie gegevens worden verwerkt worden geïnformeerd over de rechtsbescherming die open staat tegen een beslissing op de uitoefening van dit recht.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Bij ministeriële regeling worden eisen gesteld aan de beveiliging van de gegevens, bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1).
 
@@ -126,7 +151,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. de borging van een vergelijkbaar niveau van bescherming van de rechten van rechtspersonen en de op hen betrekking hebbende gegevens, niet zijnde persoonsgegevens.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Het college of de ziektekostenverzekeraar, die de gegevens als bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1) heeft verstrekt, informeert een betrokkene onverwijld over deze verstrekking tenzij het noodzakelijk is om het informeren achterwege te laten om fraude in de zorg effectief op te sporen, te onderzoeken, te voorkomen of te vervolgen of indien dit noodzakelijk is om de rechten en vrijheden van anderen te beschermen.
 
@@ -142,7 +167,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Ten aanzien van een betrokkene die zich bij de uitoefening van zijn recht wendt tot een ander college of andere ziektekostenverzekeraar dan degene die de gegevens heeft verstrekt, draagt dit college of deze ziektekostenverzekeraar zorg dat het verzoek van betrokkene wordt doorgezonden naar het college of de ziektekostenverzekeraar die de gegevens heeft verstrekt, onder gelijktijdige mededeling daarvan aan de betrokkene.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Onverminderd [artikel 2.1, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1), worden de gegevens, bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.1), na vier jaar verwijderd, tenzij het college of de ziektekostenverzekeraar een langere registratie aangewezen acht, gelet op het bestaan van ernstige verzwarende omstandigheden en de omstandigheden van het geval.
 
@@ -168,7 +193,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Aanwijzen van gegevensset
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Het CIZ verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover het daarover beschikt, aan het Informatieknooppunt zorgfraude de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -184,7 +209,7 @@ Het CIZ verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wet
 
 - f. conclusies uit benchmarkgegevens.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 Het college verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover zij daarover beschikt, aan het Informatieknooppunt zorgfraude de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -208,7 +233,7 @@ Het college verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https:/
 
 - j. conclusies uit benchmarkgegevens.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 De Inspectie gezondheidszorg en jeugd verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -228,7 +253,7 @@ De Inspectie gezondheidszorg en jeugd verstrekt op grond van [artikel 2.4, eerst
 
 - h. conclusies uit benchmarkgegevens.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Onverminderd het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) ten aanzien van de verstrekking van persoonsgegevens, verstrekt de Nederlandse arbeidsinspectie op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -246,7 +271,7 @@ De Inspectie gezondheidszorg en jeugd verstrekt op grond van [artikel 2.4, eerst
 
 2. Als de gegevens nauw verbonden zijn met politiegegevens waarover de Nederlandse arbeidsinspectie beschikt, verstrekt de Nederlandse arbeidsinspectie de in het eerste lid bedoelde gegevens alleen als ook de betreffende politiegegevens kunnen worden verstrekt.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 De rijksbelastingdienst, met uitzondering van de FIOD, verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -254,7 +279,7 @@ De rijksbelastingdienst, met uitzondering van de FIOD, verstrekt op grond van [a
 
 - b. gegevens over en afkomstig uit de aangifte inkomstenbelasting, aangifte loonheffing, aangifte omzetbelasting of uit de aangifte vennootschapsbelasting.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Onverminderd het bepaalde bij of krachtens de [Wet politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0022463) ten aanzien van de verstrekking van persoonsgegevens verstrekt de FIOD op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -272,7 +297,7 @@ De rijksbelastingdienst, met uitzondering van de FIOD, verstrekt op grond van [a
 
 2. Als de gegevens nauw verbonden zijn met politiegegevens waarover de FIOD beschikt, verstrekt de FIOD de in het eerste lid bedoelde gegevens alleen als ook de betreffende politiegegevens kunnen worden verstrekt.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 De Sociale verzekeringsbank verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -288,7 +313,7 @@ De Sociale verzekeringsbank verstrekt op grond van [artikel 2.4, eerste lid, van
 
 - f. declaratiegegevens.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 De ziektekostenverzekeraars verstrekken op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -312,7 +337,7 @@ De ziektekostenverzekeraars verstrekken op grond van [artikel 2.4, eerste lid, v
 
 - j. conclusies uit benchmarkgegevens.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 De zorgautoriteit verstrekt op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) voor zover deze daarover beschikt, de volgende gegevens van natuurlijke personen of rechtspersonen op wie een aanleiding tot een vermoeden van fraude in de zorg betrekking heeft:
 
@@ -332,11 +357,11 @@ De zorgautoriteit verstrekt op grond van [artikel 2.4, eerste lid, van de wet](h
 
 - h. conclusies uit benchmarkgegevens.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 Justitiële gegevens of strafvorderlijke gegevens als bedoeld in [artikel 1, onderdeel a, respectievelijk onderdeel b, van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=1) worden op grond van [artikel 2.4 eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) slechts verwerkt met inachtneming van de [Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194).
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 Het Informatieknooppunt fraude kan alle gegevens verwerken als bedoeld in [artikel 2.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) van degene ten aanzien van wie een aanleiding tot het vermoeden van fraude in de zorg bestaat, die afkomstig zijn uit:
 
@@ -346,11 +371,11 @@ Het Informatieknooppunt fraude kan alle gegevens verwerken als bedoeld in [artik
 
 - c. het handelsregister, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=1), voor zover het openbare gegevens betreft.
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 Het Informatieknooppunt zorgfraude verstrekt de in [artikel 2.4, derde lid, tweede zin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) bedoelde gegevens over en afkomstig uit de aangifte inkomstenbelasting, aangifte loonheffing, aangifte omzetbelasting of uit de aangifte vennootschapsbelasting, voor zover de rijksbelastingdienst, respectievelijk FIOD, daarvoor toestemming heeft verleend.
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 1. De gegevens, bedoeld in [artikel 2.4, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), zijn:
 
@@ -370,7 +395,7 @@ Het Informatieknooppunt zorgfraude verstrekt de in [artikel 2.4, derde lid, twee
 
 #### § 2. Signalering en verrijking
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 1. De instanties verstrekken wanneer er sprake is van een aanleiding tot een vermoeden van fraude in de zorg uit eigen beweging de gegevens, bedoeld in de [artikelen 3.1 tot en met 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=3&paragraaf=1&artikel=3.1&z=2025-01-01&g=2025-01-01), aan het Informatieknooppunt zorgfraude. Bij de beoordeling om gegevens te verstrekken worden in ieder geval de volgende elementen meegewogen:
 
@@ -384,7 +409,7 @@ Het Informatieknooppunt zorgfraude verstrekt de in [artikel 2.4, derde lid, twee
 
 2. De resultaten van de weging vormen onderdeel van de aan het Informatieknooppunt zorgfraude te verstrekken gegevens betreffende de aanleiding tot een vermoeden van fraude in de zorg.
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 Met inachtneming van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=3&paragraaf=2&artikel=3.16&z=2025-01-01&g=2025-01-01), verzoekt het Informatieknooppunt zorgfraude in het kader van zijn in [artikel 2.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) bedoelde taak, slechts om gegevens van de instanties:
 
@@ -396,7 +421,7 @@ Met inachtneming van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0049
 
 - d. indien en voor zover die gegevens de aanleiding tot het vermoeden van fraude in de zorg verder zouden kunnen onderbouwen, dan wel ontkrachten, al dan niet in combinatie met andere gegevens die instanties op grond van [artikel 2.4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) aan het Informatieknooppunt kunnen verstrekken.
 
-#### Artikel 3.16
+##### Artikel 3.16
 
 1. Om nader te waarborgen dat in het kader van de in [artikel 2.4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) bedoelde taak, gegevens niet of niet verder worden verwerkt indien dit niet noodzakelijk is voor de bestrijding van fraude in de zorg in het kader van de instanties opgedragen wettelijke taken, deelt het Informatieknooppunt zorgfraude zijn verwerkingsproces op in treden, waarbij per trede wordt beoordeeld of een volgende trede van verrijking noodzakelijk is en welke verwerking in die trede mag plaatsvinden. Dit verwerkingsproces bestaat ten minste uit de volgende treden:
 
@@ -412,7 +437,7 @@ Met inachtneming van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0049
 
 #### § 3. Bewaartermijnen en rechten van een betrokkene
 
-#### Artikel 3.17
+##### Artikel 3.17
 
 1. De gegevens, bedoeld in [artikel 2.4, eerste, tweede en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4), worden, voor zover het persoonsgegevens of gegevens die herleidbaar zijn tot individuele rechtspersonen betreft, door het Informatieknooppunt zorgfraude ten behoeve van de in het derde lid van dat artikel bedoelde taak maximaal vijf jaar bewaard.
 
@@ -422,7 +447,7 @@ Met inachtneming van [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0049
 
 4. In afwijking van het eerste tot en met het derde lid, worden gegevens die dienen als bewijsmiddel voor het feit dat de gegevensverwerkingen, bedoeld in de [artikelen 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) en [2.5, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.5) rechtmatig zijn geweest, niet verwijderd na de in het eerste en derde lid bedoelde termijnen. Deze gegevens worden pas verwijderd nadat tegen die verwerkingen en de rechtmatigheid daarvan geen rechtsmiddelen meer open staan. Deze bewijsmiddelen worden niet gebruikt voor een ander doel dan het aantonen van de rechtmatigheid van de gegevensverwerkingen.
 
-#### Artikel 3.18
+##### Artikel 3.18
 
 1. Het Informatieknooppunt zorgfraude informeert een betrokkene zo spoedig mogelijk over de verwerking van zijn persoonsgegevens nadat het Informatieknooppunt zorgfraude het verwerkingsproces als bedoeld in [artikel 3.16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=3&paragraaf=2&artikel=3.16&z=2025-01-01&g=2025-01-01), heeft afgerond, tenzij een instantie meldt dat er een grond is om het informeren van een betrokkene achterwege te laten en een dergelijke melding voldoende is onderbouwd.
 
@@ -436,7 +461,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 #### § 4. Aanwijzing, inrichting, beheer en financiering van het Informatieknooppunt fraude
 
-#### Artikel 3.19
+##### Artikel 3.19
 
 1. Onze Minister wijst een rechtspersoon aan als Informatieknooppunt zorgfraude.
 
@@ -458,7 +483,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 10. Bij ministeriële regeling kunnen nadere regels worden gesteld over hetgeen in dit artikel is geregeld, alsmede over de inrichting en de vormgeving van de werkprocessen van het Informatieknooppunt zorgfraude.
 
-#### Artikel 3.20
+##### Artikel 3.20
 
 1. Onze Minister draagt zorg voor de financiering van het Informatieknooppunt zorgfraude.
 
@@ -468,7 +493,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld ten uitvoering van dit artikel.
 
-#### Artikel 3.21
+##### Artikel 3.21
 
 1. Medewerkers van het Informatieknooppunt zorgfraude hebben slechts toegang tot de op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601) te verwerken persoonsgegevens of gegevens die herleidbaar zijn tot individuele rechtspersonen die zij nodig hebben voor het uitvoeren van hun werkzaamheden.
 
@@ -476,7 +501,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 3. Persoonsgegevens worden slechts op grond van [artikel 2.5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.5) verwerkt indien daarop pseudonimisering is toegepast als bedoeld in artikel 4, onderdeel 5, van de Algemene verordening gegevensbescherming, tenzij dat voor de specifieke noodzakelijke verwerking onmogelijk of onredelijk bezwarend is. Dit lid is van overeenkomstige toepassing op gegevens die herleidbaar zijn tot individuele rechtspersonen.
 
-#### Artikel 3.22
+##### Artikel 3.22
 
 1. Het Informatieknooppunt zorgfraude verstrekt desgevraagd aan Onze Minister alle voor de uitoefening van diens taak benodigde inlichtingen. Onze Minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
@@ -486,7 +511,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 #### § 5. Samenwerking, elektronische voorzieningen en beveiliging
 
-#### Artikel 3.23
+##### Artikel 3.23
 
 1. De verwerking van gegevens op grond van [artikel 2.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0048601&artikel=2.4) geschiedt elektronisch.
 
@@ -496,7 +521,7 @@ effectieve en kenbare processen voor de effectuering van de rechten, genoemd in 
 
 4. Het tweede lid is niet van toepassing voor de verstrekking van gegevens door en aan de rijksbelastingdienst, met uitzondering van de FIOD.
 
-#### Artikel 3.24
+##### Artikel 3.24
 
 Het Informatieknooppunt zorgfraude voert ten behoeve van de zorg voor de instandhouding van de elektronische voorzieningen de volgende beheertaken uit:
 
@@ -504,13 +529,13 @@ Het Informatieknooppunt zorgfraude voert ten behoeve van de zorg voor de instand
 
 - b. de ondersteuning van de instanties bij het gebruik van de elektronische voorzieningen.
 
-#### Artikel 3.25
+##### Artikel 3.25
 
 1. Onverminderd de [artikelen 3.23](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=3&paragraaf=5&artikel=3.23&z=2025-01-01&g=2025-01-01) en [3.24](https://wetten.overheid.nl/jci1.3:c:BWBR0049565&hoofdstuk=3&paragraaf=5&artikel=3.24&z=2025-01-01&g=2025-01-01) ontwikkelt het Informatieknooppunt zorgfraude in samenwerking met de instanties eenduidige en heldere afspraken over de wijze waarop en de termijn waarbinnen gegevensverstrekking plaatsvindt, alsmede over welke gegevens voor welke instanties bijdragen aan de wettelijke taken op het gebied van de bestrijding van fraude in de zorg die aan die instanties is opgedragen.
 
 2. Het Informatieknooppunt zorgfraude publiceert op bij ministeriële regeling bepaalde wijze de belangrijkste elementen van de afspraken en diens eigen werkprocessen, voor zover hiermee het werk van het Informatieknooppunt zorgfraude niet wordt belemmerd.
 
-#### Artikel 3.26
+##### Artikel 3.26
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot:
 
@@ -522,21 +547,21 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ### Hoofdstuk 4. Wijziging van andere regelingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Wijzigt het Besluit basisregistratie personen.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Dit besluit wordt aangehaald als: Besluit bevorderen samenwerking en rechtmatige zorg.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit Earningsstrippingmaatregel 2025"
 identifier: "BWBR0051336"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-30
-laatste_update: 2025-07-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051336"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-07-30"
+last_updated: "2025-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051336"
+soort: "beleidsregel"
+stam_id: "17492353"
+version_id: "30852312"
+internal_id: "C44209481"
+label_id: "17395474"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051336/2025-07-30/0"
+intitule_bron: "Stcrt.2025-25392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-16"
+intitule_published: "2025-07-29"
+intitule_in_force: "2025-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-25392"
+original_signed_date: "2025-07-16"
+original_published_date: "2025-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-25392"
+entry_into_force_date: "2025-07-30"
+jci_1_3: "jci1.3:c:BWBR0051336&z=2025-07-30&g=2025-07-30"
+jci_1_0: "1.0:c:BWBR0051336&g=2025-07-30"
+citeertitel_status: "officieel"
+signed_date: "2025-07-16"
+entry_into_force: "2025-07-30"
 ---
-
 # Besluit Earningsstrippingmaatregel 2025
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

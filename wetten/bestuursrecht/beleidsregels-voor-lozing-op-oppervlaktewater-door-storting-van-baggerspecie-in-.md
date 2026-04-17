@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels voor lozing op oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten"
+title: "Besluit van de Minister van Verkeer en Waterstaat houdende beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten (beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten)"
 identifier: "BWBR0027505"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-04-16
-laatste_update: 2010-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027505"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2010-04-16"
+last_updated: "2010-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027505"
+soort: "beleidsregel"
+stam_id: "10499123"
+version_id: "17297302"
+internal_id: "C23864261"
+label_id: "10475254"
+dtd_version: "2.0"
+original_entry_into_force: "2010-04-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027505/2010-04-16/0"
+intitule_bron: "Stcrt.2010-5695"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-04-02"
+intitule_published: "2010-04-15"
+intitule_in_force: "2010-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-5695"
+original_signed_date: "2010-04-02"
+original_published_date: "2010-04-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-5695"
+entry_into_force_date: "2010-04-16"
+jci_1_3: "jci1.3:c:BWBR0027505&z=2010-04-16&g=2010-04-16"
+jci_1_0: "1.0:c:BWBR0027505&g=2010-04-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels voor lozing op oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten"
+signed_date: "2010-04-02"
+entry_into_force: "2010-04-16"
 ---
-
 # Besluit van de Minister van Verkeer en Waterstaat houdende beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten (beleidsregels voor lozing op een oppervlaktewater door storting van baggerspecie in Wm-vergunningplichtige winputten)
 
 De Minister van Verkeer en Waterstaat,

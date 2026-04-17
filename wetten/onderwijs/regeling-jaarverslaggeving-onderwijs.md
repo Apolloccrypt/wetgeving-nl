@@ -1,13 +1,39 @@
 ---
-title: "Regeling jaarverslaggeving onderwijs"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2007, nr. WJZ/2007/50507, houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van door de Minister van Onderwijs, Cultuur en Wetenschap dan wel de Minister van Landbouw, Natuur en Voedselkwaliteit bekostigde onderwijsinstellingen (Regeling jaarverslaggeving onderwijs)"
 identifier: "BWBR0023132"
-categorie: "Onderwijs"
-publicatiedatum: 2026-04-15
-laatste_update: 2026-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023132"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-15"
+last_updated: "2026-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023132"
+soort: "ministeriele-regeling"
+stam_id: "9342973"
+version_id: "30679292"
+internal_id: "C43981271"
+label_id: "9321304"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023132/2026-04-15/0"
+intitule_bron: "Stcrt.2007-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-17"
+intitule_published: "2007-12-21"
+intitule_in_force: "2007-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12149"
+original_signed_date: "2025-03-20"
+original_published_date: "2025-04-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-12149"
+entry_into_force_date: "2025-04-09"
+jci_1_3: "jci1.3:c:BWBR0023132&z=2026-04-15&g=2026-04-15"
+jci_1_0: "1.0:c:BWBR0023132&g=2026-04-15"
+citeertitel_status: "officieel"
+short_title: "Regeling jaarverslaggeving onderwijs"
+signed_date: "2025-03-20"
+entry_into_force: "2025-04-09"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 17 december 2007, nr. WJZ/2007/50507, houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van door de Minister van Onderwijs, Cultuur en Wetenschap dan wel de Minister van Landbouw, Natuur en Voedselkwaliteit bekostigde onderwijsinstellingen (Regeling jaarverslaggeving onderwijs)
 
 Gelet op:
@@ -22,7 +48,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - o. **VOG:** verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28).
 
-#### Artikel 2. Boek 2 BW
+##### Artikel 2. Boek 2 BW
 
 Op de jaarverslaggeving is [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9) van overeenkomstige toepassing, met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=10), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), een en ander voor zover in deze regeling niet anders is bepaald.
 
-#### Artikel 3. Afwijkingen van en aanvullingen op [Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
+##### Artikel 3. Afwijkingen van en aanvullingen op [Boek 2 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045)
 
 In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9):
 
@@ -102,7 +128,7 @@ In afwijking van of in aanvulling op [Titel 9 Boek 2 van het Burgerlijk Wetboek]
 
 - m. is het niet toegestaan de jaarrekening op te stellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.
 
-#### Artikel 4. Afwijking en aanvulling richtlijn
+##### Artikel 4. Afwijking en aanvulling richtlijn
 
 1a. In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de lasten op basis van de Bapo en de SOP, overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk, in de staat van baten en lasten verantwoord als periodelasten.
 
@@ -148,7 +174,7 @@ Tevens geven de onderwijsinstellingen per categorie aan hoeveel ho-studenten een
 
 7. In het bestuursverslag rapporteert een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1), [artikel 1.1 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1), of [artikel 1.1.1 van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=1.1.1) over de tijdige aanwezigheid van de VOG met gebruikmaking van de in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=6&z=2026-04-15&g=2026-04-15) opgenomen tabel.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het voorafgaande kalenderjaar aan bij de Dienst Uitvoering Onderwijs:
 
@@ -156,11 +182,11 @@ Het bevoegd gezag levert jaarlijks vóór 1 juli de volgende gegevens over het v
 
 - b. met gebruikmaking van de methode SBR/XBRL overeenkomstig de op de website van de Dienst Uitvoering Onderwijs bekend gemaakte onderwijstaxonomie, de gegevens uit de jaarrekening, alsmede de gegevens, bedoeld in [artikel 3, onder e3](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=3&z=2026-04-15&g=2026-04-15), en [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&artikel=4&z=2026-04-15&g=2026-04-15).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking per 1 januari 2008.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs.
 
@@ -196,7 +222,7 @@ Naam, aard dienstbetrekking, functiecategorie, aanvang en einde functie, belonin
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 3a. Compact bestuursverslag
+##### Artikel 3a. Compact bestuursverslag
 
 1. Indien de totale baten van een bevoegd gezag ten hoogste € 15.000.000 bedragen kan het bevoegd gezag ervoor kiezen een compact bestuursverslag op te stellen.
 
@@ -533,7 +559,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 ### A. Gegevensset
 
-#### Artikel 4a
+##### Artikel 4a
 
 Een bevoegd gezag neemt, ter verantwoording van de aan haar door de Minister van Onderwijs, Cultuur en Wetenschap of de Minister voor Basis- en Voortgezet Onderwijs en Media verstrekte subsidies, in haar jaarverslag het verantwoordingsmodel G op als bedoeld in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0023132&bijlage=4&z=2026-04-15&g=2026-04-15), indien zij daartoe verplicht is op grond van een besluit van één of beide ministers.
 
@@ -613,7 +639,7 @@ Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. In afwijking van deze regeling is de [Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649) van overeenkomstige toepassing op de jaarverslaglegging van een onderwijsinstelling, indien:
 
@@ -695,7 +721,7 @@ Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 1a. Samenwerkingsverbanden voor passend onderwijs
+##### Artikel 1a. Samenwerkingsverbanden voor passend onderwijs
 
 Deze regeling is van overeenkomstige toepassing ten aanzien van de jaarverslaggeving van samenwerkingsverbanden als bedoeld in [artikel 1 van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=1) of [artikel 1.1 van de Wet voorgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=1.1).
 
@@ -746,7 +772,7 @@ Deze bijlage behoort bij [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst en bekendgemaakt op de internetsite van de Centrale Financiën Instellingen, agentschap van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. In afwijking van deze regeling is zijn de [artikelen 4.2 tot en met 4.4 van de Regeling Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&artikel=4.2) van overeenkomstige toepassing op de jaarverslaglegging van een onderwijsinstelling, indien:
 
@@ -756,7 +782,7 @@ Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden ge
 
 2. In afwijking van deze regeling is zijn de [artikelen 4.2 tot en met 4.4 van de Regeling Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0036007&artikel=4.2) zijn van overeenkomstige toepassing op het eerste en tweede boekjaar voor een onderwijsinstelling waarvan op de balansdatum van het eerste boekjaar een groter aandeel van de netto-omzet bestaat uit jeugdhulp dan uit onderwijs.
 
-#### Artikel 5c. Omhang
+##### Artikel 5c. Omhang
 
 Deze regeling berust mede op [artikel 6.19, zesde lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19).
 

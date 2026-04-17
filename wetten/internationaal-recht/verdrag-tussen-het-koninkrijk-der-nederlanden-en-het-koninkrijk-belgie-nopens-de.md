@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens de ontginning van steenkolen in evenwijdig aan de grens liggende stroken van de langs de Maas gelegen steenkolenmijnen"
 identifier: "BWBV0004379"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-03-23
-laatste_update: 1967-03-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004379"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-03-23"
+last_updated: "1967-03-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004379"
+soort: "verdrag"
+stam_id: "10004088763"
+version_id: "10004257332"
+internal_id: "C10006987241"
+label_id: "10004073114"
+dtd_version: "2.0"
+original_entry_into_force: "1967-03-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004379/1967-03-23/0"
+intitule_bron: "Trb.1965-65"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1965-06-04"
+intitule_in_force: "1967-04-12"
+intitule_status: "goed"
+original_publication: "Trb.1965-65"
+original_published_date: "1965-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1965-65"
+entry_into_force_date: "1967-03-23"
+jci_1_3: "jci1.3:c:BWBV0004379&z=1967-03-23&g=1967-03-23"
+jci_1_0: "1.0:c:BWBV0004379&g=1967-03-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-03-23"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België nopens de ontginning van steenkolen in evenwijdig aan de grens liggende stroken van de langs de Maas gelegen steenkolenmijnen
 
 Hare Majesteit de Koningin der Nederlanden, enerzijds,
@@ -30,7 +52,7 @@ Zijne Excellentie F. X. Baron van der Straten-Waillet, buitengewoon en gevolmach
 
 die, na elkander hun in goede en behoorlijke vorm bevonden volmachten te hebben overgelegd, zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit verdrag is van toepassing op:
 
@@ -38,7 +60,7 @@ Dit verdrag is van toepassing op:
 
 - b. het deel van de mijn van de „Société Anonyme des Charbonnages de Limbourg Meuse”, gelegen aan de westzijde van de onder a bedoelde ontginningsgrens, welk deel op de aan dit verdrag gehechte kaart in geel is aangegeven en dat is begrensd: **ten zuiden** door een ten opzichte van het tussen de punten 64a en 66 gelegen gedeelte van de ontginningsgrens door eerstgenoemd punt getrokken loodlijn; **ten oosten** door de ontginningsgrens; **ten noorden** door een lijn getrokken door het punt 145 in het verlengde van de noordelijke grens van het mijnveld van Staatsmijn Maurits tot waar deze lijn, die onder ten westen genoemd snijdt; **ten westen** door een lijn evenwijdig aan de ontginningsgrens op een afstand van 500 m van die grens.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien en voor zover zulks tussen de bestuurders van de ondernemingen, waartoe de betrokken mijnen behoren, schriftelijk is overeengekomen, mogen, met overschrijding van de in artikel 1 bedoelde ontginningsgrens en in afwijking van het in artikel 4, eerste en tweede lid, van het op 23 oktober 1950 te Brussel tussen het Koninkrijk der Nederlanden en het Koninkrijk België gesloten verdrag bepaalde, kolenlagen worden ontgonnen:
 
@@ -50,15 +72,15 @@ en mogen de in verband met zodanige ontginning nodige ontsluitingswerkzaamheden 
 
 2. Een schriftelijke overeenkomst als in het eerste lid bedoeld dient te beantwoorden aan eventuele bijzondere eisen, waaraan naar gemeenschappelijk oordeel van het Toezicht op de Mijnen van beide Staten met het oog op de veiligheid in de ondergrondse werken moet worden voldaan.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij een met toepassing van artikel 2 van de mijn aan Nederlandse onderscheidenlijk Belgische zijde uit ondernomen ontginning en uitvoering van ontsluitingswerkzaamheden in de aan de andere zijde van de in artikel 1 bedoelde ontginningsgrens gelegen mijn, mag geen verbinding tussen de ondergrondse werken van beide mijnen tot stand worden gebracht, doch moeten de ondergrondse werken te allen tijde tot op een afstand van ten minste 20 meter uit elkaar blijven. Vermindering van deze afstand is slechts toegestaan, indien een doorbraak tussen de desbetreffende ondergrondse werken is uitgesloten en van het Toezicht op de Mijnen van beide Staten daartoe vergunning is verkregen.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten aanzien van de gedeelten der hogergenoemde mijnen, die met toepassing van artikel 2 worden ontsloten en ontgonnen, is het bepaalde bij de artikelen 2, 5, onder a—g, en 6 van eerdergenoemd verdrag van overeenkomstige toepassing, met dien verstande, dat daarbij in plaats van de in het eerste lid van laatstgenoemd artikel vermelde afstand van 500 meter wordt gelezen: „600 meter”.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit verdrag zal worden bekrachtigd. De uitwisseling der bekrachtigingsoorkonden zal zo spoedig mogelijk te Brussel plaatsvinden.
 

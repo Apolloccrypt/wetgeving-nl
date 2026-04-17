@@ -1,13 +1,36 @@
 ---
-title: "Beleidsregels WNT 2024"
+title: "Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van PM 2023, nr. 2023-0000572393 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2024 (Beleidsregels WNT 2024)"
 identifier: "BWBR0048851"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048851"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048851"
+soort: "ministeriele-regeling"
+stam_id: "16907403"
+version_id: "29713292"
+internal_id: "C42575821"
+label_id: "16818884"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048851/2024-01-01/0"
+intitule_bron: "Stcrt.2023-27539"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-11-06"
+intitule_in_force: "2023-11-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27539"
+original_published_date: "2023-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27539"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048851&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048851&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels WNT 2024"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van PM 2023, nr. 2023-0000572393 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2024 (Beleidsregels WNT 2024)
 
 Gelet op [artikel 1.10 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.10)
@@ -16,15 +39,15 @@ Besluit:
 
 Voorgaande versie geen MUT op verzoek van CP.
 
-#### Artikel I
+##### Artikel I
 
 De als bijlage bij dit besluit gevoegde beleidsregels zijn voor het jaar 2024 van toepassing op de uitvoering van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) berustende bepalingen, daaronder begrepen de uitvoering en handhaving door of namens de ministers van die wet en de daartoe door hen aangewezen ambtenaren.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit wordt aangehaald als: Beleidsregels WNT 2024.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 januari 2024.
 
@@ -34,17 +57,17 @@ Dit besluit treedt in werking met ingang van 1 januari 2024.
 
 ### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 De [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) wordt in deze beleidsregels aangehaald met de afkorting ‘WNT’.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze beleidsregels zijn met ingang van 1 januari 2024 van toepassing op de uitvoering van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) en de daarop berustende bepalingen, daaronder begrepen de uitvoering en handhaving door of namens de ministers en bij de uitoefening van toezicht op de naleving van de WNT en de daarop berustende bepalingen door de daartoe door hen aangewezen ambtenaren.
 
 ### § 2. Reikwijdte van de WNT
 
-#### Artikel 3. Overheidsverenigingen of -stichtingen
+##### Artikel 3. Overheidsverenigingen of -stichtingen
 
 Van een rechtspersoon als bedoeld in [artikel 1.3, eerste lid, onderdeel b, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.3) is onder meer sprake, indien een of meer krachtens publiekrecht ingestelde rechtspersonen (overheidsorganisaties genoemd in [artikel 1.2 van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.2)) op grond van de statuten of ingevolge een mondelinge dan wel schriftelijke overeenkomst ten aanzien van een vereniging (inclusief bijzondere vormen van een vereniging, zoals de coöperatie) of stichting:
 
@@ -58,7 +81,7 @@ Van een rechtspersoon als bedoeld in [artikel 1.3, eerste lid, onderdeel b, van 
 
 - e. op een andere wijze invloed van betekenis hebben op het beheer of beleid, vergelijkbaar met de in de onderdelen a tot en met d bedoelde invloed.
 
-#### Artikel 4. Topfunctionaris
+##### Artikel 4. Topfunctionaris
 
 1. De [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) bepaalt wie topfunctionaris is van organisaties waarover ministers gehouden zijn financiële verantwoording af te leggen, van de provincies, gemeenten, waterschappen en openbare lichamen voor beroep en bedrijf. Voor de toepassing daarvan worden functionarissen die op basis van formele aanwijzing of een formeel besluit de functie van topfunctionaris bij een van deze instellingen waarnemen, voor de duur van die functievervulling, eveneens aangemerkt als topfunctionaris in de zin van de WNT.
 
@@ -76,7 +99,7 @@ Iemand kan in de praktijk tegelijkertijd aan meerdere criteria voldoen.
 
 4. Wie in het concrete geval als topfunctionaris moet worden aangemerkt volgt primair uit de organisatiestructuur, zoals die bijvoorbeeld is neergelegd in de statuten en/of een organogram. Omdat het begrip topfunctionaris materieel moet worden uitgelegd, wordt ook degene die weliswaar niet volgens de formele organisatiestructuur, maar wel blijkens zijn feitelijke werkzaamheden, leiding geeft aan de gehele rechtspersoon of instelling voor de toepassing van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) als topfunctionaris aangemerkt.
 
-#### Artikel 4a. Topfunctionaris na neerleggen van de functie als topfunctionaris als bedoeld in [artikel 1.1, onderdeel b, onder 6°, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1)
+##### Artikel 4a. Topfunctionaris na neerleggen van de functie als topfunctionaris als bedoeld in [artikel 1.1, onderdeel b, onder 6°, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1)
 
 1. Sinds 1 januari 2018 is een functionaris na het neerleggen van zijn/haar functie als topfunctionaris nog voor een periode van vier jaar als leidinggevende topfunctionaris genormeerd. Dit geldt vanaf het tijdstip dat de functie niet langer wordt vervuld als topfunctionaris en waarbij:
 
@@ -92,7 +115,7 @@ Iemand kan in de praktijk tegelijkertijd aan meerdere criteria voldoen.
 
 2. Van een dienstverband zoals bedoeld in het eerste lid, onderdeel c, is sprake indien dit dienstverband aanvangt binnen twaalf kalendermaanden na beëindiging van de functie als topfunctionaris.
 
-#### Artikel 5. Toezichthoudende topfunctionaris
+##### Artikel 5. Toezichthoudende topfunctionaris
 
 - 1. De organisatiestructuur, zoals deze bijvoorbeeld is neergelegd in de statuten en/of een organogram, bepaalt primair wie toezichthoudende topfunctionaris is in de zin van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249). Degene die volgens de statuten en/of het organogram deel uitmaakt van het hoogste toezichthoudende orgaan wordt dus als toezichthoudende topfunctionaris aangemerkt. In elk geval worden als toezichthoudende topfunctionaris aangemerkt de leden van een raad van toezicht of raad van commissarissen. Indien een instelling niet beschikt over een raad van toezicht of raad van commissarissen, kan het (interne) toezicht zijn opgedragen aan een ander orgaan bestaande uit een of meer functionarissen. Omdat het begrip topfunctionaris materieel moet worden uitgelegd, wordt een topfunctionaris die -op het hoogste niveau- formeel of blijkens zijn feitelijke werkzaamheden uitsluitend belast is met het houden van toezicht op (leden van) het hoogste uitvoerende orgaan voor de toepassing van de WNT als toezichthouder aangemerkt.
 
@@ -100,7 +123,7 @@ Iemand kan in de praktijk tegelijkertijd aan meerdere criteria voldoen.
 
 ### § 3. Bezoldigingsmaximum
 
-#### Artikel 7. Bezoldigingsmaximum en deeltijdwerken
+##### Artikel 7. Bezoldigingsmaximum en deeltijdwerken
 
 1. Het individueel toepasselijke bezoldigingsmaximum dat geldt voor een topfunctionaris -niet zijnde lid van een toezichthoudend orgaan- met dienstbetrekking, of in het geval zonder dienstbetrekking vanaf de dertiende kalendermaand van de functievervulling, dient als volgt te worden berekend:
 
@@ -122,7 +145,7 @@ In het geval van een schrikkeljaar dient in de noemer van bovenstaande breuk nie
 
 2. Bij een deeltijdfactor van meer dan 1 fte wordt de omvang van het dienstverband voor de berekening van het individueel toepasselijke bezoldigingsmaximum op 1 fte gesteld, ook als er feitelijk meer wordt gewerkt dan de totale werktijd van een fulltime functionaris.
 
-#### Artikel 7a. Het bezoldigingsmaximum voor een topfunctionaris zonder dienstbetrekking (met ingang van 1 januari 2016) als bedoeld in [artikel 4, eerste en tweede lid, van het Uitvoeringsbesluit WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4).
+##### Artikel 7a. Het bezoldigingsmaximum voor een topfunctionaris zonder dienstbetrekking (met ingang van 1 januari 2016) als bedoeld in [artikel 4, eerste en tweede lid, van het Uitvoeringsbesluit WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4).
 
 1. Voor de berekening van het bezoldigingsmaximum voor een topfunctionaris zonder dienstbetrekking wordt onderscheid gemaakt tussen de eerste twaalf kalendermaanden van de functievervulling en de berekening van het bezoldigingsmaximum vanaf de dertiende maand.
 
@@ -146,7 +169,7 @@ Het laagste bedrag van de uitkomst van de berekeningen onder a. en b. geldt als 
 
 4. Voor de berekening van het bezoldigingsmaximum vanaf de dertiende kalendermaand van de functievervulling is het individueel toepasselijke bezoldigingsmaximum van toepassing zoals dit geldt voor topfunctionarissen met een dienstbetrekking. In het bovenstaande artikel 7 wordt uiteengezet op welke wijze dit bezoldigingsmaximum wordt berekend. Zie voor de hoogte van de normbedragen het overzicht met bezoldigingsmaxima voor het desbetreffende kalenderjaar.
 
-#### Artikel 8. Meerdere functies of nevenfuncties als bedoeld in [artikel 2.1, vijfde lid, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)
+##### Artikel 8. Meerdere functies of nevenfuncties als bedoeld in [artikel 2.1, vijfde lid, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.1)
 
 1. Bij een gelieerde rechtspersoon als gedefinieerd in [artikel 1.1, onder m, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.1) is de som van de bezoldiging ontvangen bij de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249)-instelling en de bezoldiging ontvangen bij de gelieerde rechtspersoon bepalend voor de toets of aan het voor de WNT-instelling geldende bezoldigingsmaximum is voldaan. Herrekening van het voor de instelling geldende bezoldigingsmaximum op grond van een eventueel lagere deeltijdfactor dan 1,0 en/of een kleiner aantal kalenderdagen dan 365 (in een schrikkeljaar: 366) blijft hierbij achterwege. Dit geldt:
 
@@ -168,7 +191,7 @@ Deze toets aan het voor de instelling geldende bezoldigingsmaximum dient te word
 
 ### § 4. Non-activiteit
 
-#### Artikel 10. Bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult.
+##### Artikel 10. Bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult.
 
 1. Bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult (non-activiteit voorafgaand aan einde dienstverband), telt in afwijking van het bepaalde in [artikel 2.10, derde lid, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=2.10) niet mee als uitkering wegens beëindiging van het dienstverband maar als bezoldiging indien:
 
@@ -190,17 +213,17 @@ Deze toets aan het voor de instelling geldende bezoldigingsmaximum dient te word
 
 ### § 5a. Contractovername door mobiliteitsbureaus
 
-#### Artikel 10a. Contractovername door mobiliteitsbureaus
+##### Artikel 10a. Contractovername door mobiliteitsbureaus
 
 Bij de toepassing van [artikel 4, tweede lid van de Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=4) worden tot de uitkeringen wegens beëindiging van het dienstverband niet gerekend: uitkeringen in de vorm van betalingen van een bedrag ineens of in termijnen aan een mobiliteitsbureau uit hoofde van contractovername ter vervanging van uitkeringen, bedoeld in artikel 4, tweede lid, van de Uitvoeringsregeling WNT, voor zover deze vervangende uitkeringen in totaliteit niet hoger zijn dan de aanspraken die in totaliteit zouden bestaan bij onvrijwillige beëindiging van het dienstverband.
 
 ### § 5b. Uitkeringen wegens beëindiging dienstverband
 
-#### Artikel 10b. Transitievergoeding op grond van [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673).
+##### Artikel 10b. Transitievergoeding op grond van [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673).
 
 De transitievergoeding waarop de topfunctionaris recht heeft op grond van [artikel 673 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=673), wordt aangemerkt als een uitkering wegens beëindiging van het dienstverband die voortvloeit uit een wettelijk voorschrift als bedoeld in [artikel 4, tweede lid, van de Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=4). Dit betekent dat slechts voor zover de transitievergoeding rechtstreeks, dwingend en eenduidig voortvloeit uit artikel 673, eerste en tweede lid, van Boek 7 van het Burgerlijk Wetboek, deze uitkering is uitgezonderd van de normering.
 
-#### Artikel 10c. Afkoop van opgebouwde uitkeringsrechten in verband met werkloosheid
+##### Artikel 10c. Afkoop van opgebouwde uitkeringsrechten in verband met werkloosheid
 
 1. Onder de in [artikel 4, tweede lid, van de Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962&artikel=4) genoemde, van normering van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) uitgezonderde uitkering wegens beëindiging van het dienstverband wordt mede verstaan de afkoop van een op grond van die bepaling uitgezonderde uitkering wegens beëindiging van het dienstverband, indien is voldaan aan in het tweede tot en met vijfde lid bepaalde.
 
@@ -214,7 +237,7 @@ De transitievergoeding waarop de topfunctionaris recht heeft op grond van [artik
 
 ### § 6. Overgangsrecht
 
-#### Artikel 11. Overgangsrecht bij verhoging
+##### Artikel 11. Overgangsrecht bij verhoging
 
 1. Bezoldiging die is toegestaan op grond van het overgangsrecht mag gedurende een periode van vier jaar nadat het overgangsrecht van toepassing is geworden alleen worden verhoogd indien deze verhoging en de wijze waarop deze wordt berekend, is overeengekomen voorafgaand aan de inwerkingtreding van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) (of indien van toepassing: voorafgaand aan de inwerkingtreding van de [Wet verlaging bezoldigingsmaximum WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036047), de wijziging van het [Uitvoeringsbesluit WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032421) per 1 januari 2016, de ministeriële regeling, de wijziging van de bijlagen bij de WNT of de wijziging van een klasse-indeling). Hetzelfde geldt ingeval de bezoldiging eerst door de verhoging boven het voor de topfunctionaris geldende bezoldigingsmaximum uitstijgt.
 
@@ -230,7 +253,7 @@ De transitievergoeding waarop de topfunctionaris recht heeft op grond van [artik
 
 7. De overeengekomen bezoldiging die onder het overgangsrecht valt wordt beschermd en alleen verhoogd voor zover deze verhoging ingevolge het overgangsrecht is toegestaan én niet zorgt voor een overschrijding van het bezoldigingsmaximum dat ten tijde van het overeenkomen van de bezoldiging gold. Dit bezoldigingsmaximum geldt zodoende als absoluut bezoldigingsmaximum.
 
-#### Artikel 11a. Startpunt afbouw overgangsrecht bij vrijwillige wijzigingen van de bezoldiging
+##### Artikel 11a. Startpunt afbouw overgangsrecht bij vrijwillige wijzigingen van de bezoldiging
 
 1. Bij de berekening van de maximaal toegestane bezoldiging in het eerste afbouwjaar wordt uitgegaan van de bezoldiging die op grond van artikel 7.3, eerste tot en met vierde lid werd genoten. Onder genoten bezoldiging als bedoeld in [artikel 7.3, achtste lid, van de WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) wordt in dit verband verstaan de in het jaar voorafgaand aan het eerste afbouwjaar werkelijk genoten bezoldiging.
 
@@ -242,7 +265,7 @@ De transitievergoeding waarop de topfunctionaris recht heeft op grond van [artik
 
 5. Indien door de toepassing van het tweede lid een nabetaling plaatsvindt met betrekking tot 2017, wordt deze nabetaling voor de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) aangemerkt als bezoldiging in 2017 en niet als bezoldiging in 2018.
 
-#### Artikel 12. Overgangsrecht bij herbenoeming en interne promotie
+##### Artikel 12. Overgangsrecht bij herbenoeming en interne promotie
 
 1. Bij herbenoeming vervalt in beginsel het overgangsrecht. Een uitzondering geldt uitsluitend in het geval waarin:
 
@@ -266,17 +289,17 @@ Een voorbeeld waarbij geen sprake is van een wezenlijke functiewijziging, is de 
 
 3. Als de arbeidsovereenkomst of aanstelling wordt verlengd of een nieuwe arbeidsovereenkomst of aanstelling wordt aangegaan, vervalt het overgangsrecht, ook als daarin de eerdere afspraken over de bezoldiging of de uitkering wegens beëindiging van het dienstverband ongewijzigd blijven.
 
-#### Artikel 13. Overgangsrecht bij fusies en overgang van onderneming
+##### Artikel 13. Overgangsrecht bij fusies en overgang van onderneming
 
 Bij een juridische fusie gaan alle rechten en verplichtingen van rechtswege over op de verkrijgende rechtspersoon. Dit geldt ook voor de aanstellingen, arbeidsovereenkomsten en overeenkomsten van opdracht; deze blijven in dat geval in stand. Datzelfde geldt bij arbeidsovereenkomsten bij overgang van een onderneming waarop [titel 10, afdeling 8, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&titeldeel=10) van toepassing is. Als een topfunctionaris bij instelling A door een juridische fusie of overgang van rechtswege topfunctionaris wordt bij instelling B blijft het eventueel toepasselijke overgangsrecht van toepassing. Indien met de topfunctionaris bij of na de fusie of overgang nieuwe bezoldigingsafspraken worden gemaakt, gaat het overgangsrecht verloren.
 
 ### § 7. Overig
 
-#### Artikel 15. Toepassing van de [Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962)
+##### Artikel 15. Toepassing van de [Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962)
 
 Constructies in de toepassing van de werkkostenregeling die het ontwijken of ontduiken van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) beogen, zoals oneigenlijk gebruik van individualiseerbare ongebruikelijke eindheffingsbestanddelen, zijn niet toegestaan. Zie tevens de toelichting bij de [Uitvoeringsregeling WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0035962) en de beantwoording van Kamervragen over dit onderwerp (Aanhangsel Handelingen II 2014/15, nr. 106).
 
-#### Artikel 16. Wetsuitleg en handreikingen op topinkomens.nl
+##### Artikel 16. Wetsuitleg en handreikingen op topinkomens.nl
 
 1. Op de website [www.topinkomens.nl](onbekend) wordt onder verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties uitleg gegeven over het bepaalde bij en krachtens de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) ten behoeve van:
 
@@ -292,13 +315,13 @@ Constructies in de toepassing van de werkkostenregeling die het ontwijken of ont
 
 3. Naast wetsuitleg worden op [www.topinkomens.nl](onbekend) tevens praktische handreikingen, zoals modellen en voorbeelden gegeven.
 
-#### Artikel 17. Overgangsbepaling
+##### Artikel 17. Overgangsbepaling
 
 1. De [Beleidsregels WNT 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0047418) blijven van toepassing bij de uitvoering van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) met betrekking tot het jaar 2023. Deze beleidsregels blijven onderdeel van het geldende normenkader voor dit specifieke jaar.
 
 2. Indien een vraag over de toepassing van de [WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) voor 1 januari 2024 zich na die datum voordoet en de in het eerste lid bedoelde beleidsregels daarin niet voorzien, maar deze beleidsregels wel, dan kunnen deze beleidsregels in aanvulling op die beleidsregels worden toegepast.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels WNT 2024.
 

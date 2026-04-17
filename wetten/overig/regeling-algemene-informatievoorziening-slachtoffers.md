@@ -1,20 +1,46 @@
 ---
-title: "Regeling algemene informatievoorziening slachtoffers"
+title: "Regeling van de Minister van Veiligheid en Justitie van 29 maart 2017, nr. 2045950 houdende regels voor de algemene informatievoorziening aan slachtoffers"
 identifier: "BWBR0039405"
-categorie: "Overig"
-publicatiedatum: 2017-04-01
-laatste_update: 2017-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039405"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-04-01"
+last_updated: "2017-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039405"
+soort: "ministeriele-regeling"
+stam_id: "13967453"
+version_id: "24026212"
+internal_id: "C34529331"
+label_id: "13930514"
+dtd_version: "2.0"
+original_entry_into_force: "2017-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039405/2017-04-01/0"
+intitule_bron: "Stcrt.2017-18951"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-29"
+intitule_published: "2017-03-31"
+intitule_in_force: "2017-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-18951"
+original_signed_date: "2017-03-29"
+original_published_date: "2017-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-18951"
+entry_into_force_date: "2017-04-01"
+jci_1_3: "jci1.3:c:BWBR0039405&z=2017-04-01&g=2017-04-01"
+jci_1_0: "1.0:c:BWBR0039405&g=2017-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling algemene informatievoorziening slachtoffers"
+signed_date: "2017-03-29"
+entry_into_force: "2017-04-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 29 maart 2017, nr. 2045950 houdende regels voor de algemene informatievoorziening aan slachtoffers
 
 gelet op [artikel 51ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ab), en [51ac, zevende lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51ac) en [artikel 8 van het Besluit slachtoffers van strafbare feiten](https://wetten.overheid.nl/jci1.3:c:BWBR0038468&artikel=8).
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - d. **de opsporingsambtenaar:** een ambtenaar als bedoeld in [artikel 141 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De opsporingsambtenaar of andere ambtenaar van een organisatie die opsporing van strafbare feiten tot taak heeft, verstrekt het slachtoffer bij zijn eerste contact met de betrokken opsporingsambtenaar onverwijld de als bijlage bij deze regeling opgenomen en door de minister vastgestelde verklaring van rechten.
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een slachtoffer de leeftijd van twaalf jaren nog niet heeft bereikt, verstrekt de opsporingsambtenaar of andere ambtenaar van een organisatie die opsporing van strafbare feiten tot taak heeft, de verklaring van rechten in beginsel aan de wettelijke vertegenwoordigers van het slachtoffer.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verklaring van rechten is opgesteld in eenvoudige en toegankelijke bewoordingen.
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 3. Wanneer het slachtoffer te kennen geeft de Nederlandse taal niet of onvoldoende te beheersen, vindt verstrekking van de verklaring van rechten plaats in de talen Engels, Frans of Duits. Indien het slachtoffer geen van deze talen voldoende beheerst wordt taalkundige bijstand geboden.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 april 2017.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling algemene informatievoorziening slachtoffers.
 

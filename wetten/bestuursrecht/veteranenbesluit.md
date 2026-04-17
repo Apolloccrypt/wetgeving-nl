@@ -1,13 +1,39 @@
 ---
-title: "Veteranenbesluit"
+title: "Besluit van 19 juni 2014, houdende nadere regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenbesluit)"
 identifier: "BWBR0035237"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035237"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035237"
+soort: "AMvB"
+stam_id: "12700843"
+version_id: "21476582"
+internal_id: "C30840961"
+label_id: "12671254"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035237/2018-07-28/0"
+intitule_bron: "Stb.2014-221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-19"
+intitule_published: "2014-06-25"
+intitule_in_force: "2014-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2014-221"
+original_signed_date: "2014-06-19"
+original_published_date: "2014-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-221"
+entry_into_force_date: "2014-06-28"
+jci_1_3: "jci1.3:c:BWBR0035237&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0035237&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Veteranenbesluit"
+signed_date: "2014-06-19"
+entry_into_force: "2014-06-28"
 ---
-
 # Besluit van 19 juni 2014, houdende nadere regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenbesluit)
 
 Op de voordracht van onze Minister van Defensie, van 12 maart 2014 gedaan mede namens onze Ministers van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Erkenning en waardering voor veteranen
 
-#### Artikel 1. Erkenning en waardering
+##### Artikel 1. Erkenning en waardering
 
 1. Onze minister stelt een Inspecteur der Veteranen aan die tot taak heeft Onze Minister te adviseren over veteranenaangelegenheden en te bemiddelen in individuele aangelegenheden ten behoeve van veteranen.
 
@@ -36,13 +62,13 @@ Hebben goedgevonden en verstaan:
 
 - d. een verzorgingshuisfunctie voor veteranen.
 
-#### Artikel 2. Onderscheidingstekens
+##### Artikel 2. Onderscheidingstekens
 
 1. Aan de veteraan wordt zo spoedig mogelijk na terugkeer van de missie het draaginsigne veteranen en de veteranenpas uitgereikt om zich als veteraan te onderscheiden;
 
 2. Over toekenning van eventuele andere onderscheidingstekens worden bij ministeriële regeling regels gesteld.
 
-#### Artikel 3. Bijeenkomsten en faciliteiten
+##### Artikel 3. Bijeenkomsten en faciliteiten
 
 Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van militaire eenheden wordt volgens bij ministeriële regeling te stellen regels bevorderd door:
 
@@ -54,7 +80,7 @@ Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van mi
 
 ### Hoofdstuk 2. Zorgplicht voor en tijdens inzet
 
-#### Artikel 4. Bepalen van de uitzendgeschiktheid van de militair
+##### Artikel 4. Bepalen van de uitzendgeschiktheid van de militair
 
 1. Alvorens een militair wordt aangewezen voor deelnemen aan een uitzending stelt de commandant van de organieke eenheid van de militair vast of de militair uitzendgeschikt is.
 
@@ -64,7 +90,7 @@ Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van mi
 
 4. De commandant bewaakt dat militairen bestemd voor uitzending uit tandheelkundig oogpunt geschikt zijn en de vereiste vaccinaties hebben ontvangen.
 
-#### Artikel 5. Voorbereiden van militairen op daadwerkelijke inzet
+##### Artikel 5. Voorbereiden van militairen op daadwerkelijke inzet
 
 1. De Commandant der Strijdkrachten draagt er zorg voor dat militairen die zijn aangewezen voor uitzending deelnemen aan een opwerkprogramma, dat ten minste bestaat uit een opleiding gericht op de specifieke kenmerken van de missie en het uitzendgebied en een training gericht op de algemene kenmerken van een uitzending.
 
@@ -82,11 +108,11 @@ Het deelnemen van veteranen en hun relaties aan bijeenkomsten en reünies van mi
 
 6. Indien operationele noodzaak het op korte termijn vertrekken van een militair naar een uitzendgebied noodzakelijk maakt en daardoor onvoldoende gelegenheid bestaat om de in dit artikel bedoelde opleiding en voorbereiding te volgen, draagt de Commandant der Strijdkrachten er zorg voor dat de militair en diens relaties zich op een andere manier zo goed mogelijk kunnen voorbereiden en dat hen de noodzakelijke informatie en kennis wordt aangeboden.
 
-#### Artikel 6. Informeren van militairen en hun relaties
+##### Artikel 6. Informeren van militairen en hun relaties
 
 Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=2&artikel=5&z=2018-07-28&g=2018-07-28), worden de militair en diens relaties door de Commandant der Strijdkrachten geïnformeerd over de gezondheidsrisico’s van de inzet en over het veteranenloket bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=10&z=2018-07-28&g=2018-07-28) en de zorg die in dit verband voor de militair en voor diens relaties beschikbaar is.
 
-#### Artikel 7. Sociaal medische begeleiding en geestelijke verzorging
+##### Artikel 7. Sociaal medische begeleiding en geestelijke verzorging
 
 1. Tijdens inzet zijn medische zorg en sociaal-medische begeleiding beschikbaar voor het verlenen van zorg aan de militair.
 
@@ -96,7 +122,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 4. Het zorg- en hulpverleningsteam adviseert de commandant inzake inzetbaarheid van personeel, repatriëring en ernstige incidenten.
 
-#### Artikel 8. Begeleiden van de relaties van militairen tijdens de inzet
+##### Artikel 8. Begeleiden van de relaties van militairen tijdens de inzet
 
 1. Gedurende de uitzending van de militair worden diens relaties door de zorg van de Commandant der Strijdkrachten geïnformeerd en begeleid door middel van het organiseren van bijeenkomsten waar contact kan worden gelegd met relaties van andere militairen en waarbij voorlichting wordt gegeven.
 
@@ -116,7 +142,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 3. Zorgplicht na inzet
 
-#### Artikel 9. Het voorzien in sociaal medische begeleiding na afloop van de inzet
+##### Artikel 9. Het voorzien in sociaal medische begeleiding na afloop van de inzet
 
 1. Gedurende de eerste 18 maanden na terugkeer van de veteraan worden de veteraan en zijn relaties door de zorg van de Commandant der Strijdkrachten proactief begeleid.
 
@@ -142,7 +168,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 4. Bijzondere zorgplicht voor veteranen
 
-#### Artikel 10. Veteranenloket
+##### Artikel 10. Veteranenloket
 
 1. Het veteranenloket bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=1&artikel=1&z=2018-07-28&g=2018-07-28) fungeert als zorgloket voor de veteraan en zijn relaties teneinde hen te ondersteunen en begeleiden.
 
@@ -152,7 +178,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 4. Bij ministeriële regeling worden kwaliteitseisen en voorwaarden gesteld waaraan het veteranenloket, de zorgcoördinator en het zorgplan moeten voldoen.
 
-#### Artikel 11. Landelijk Zorgsysteem voor Veteranen
+##### Artikel 11. Landelijk Zorgsysteem voor Veteranen
 
 1. Er is een Landelijk Zorgsysteem voor Veteranen waarbij instellingen zijn aangesloten op het gebied van de geestelijke gezondheidszorg, waaronder wordt verstaan: psychische en psychosociale zorg voor veteranen.
 
@@ -164,7 +190,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 5. Onze minister kan nadere regels stellen omtrent de uitvoering van dit artikel
 
-#### Artikel 12. Sociale zekerheidswetgeving en Kaderwet militaire pensioenen
+##### Artikel 12. Sociale zekerheidswetgeving en Kaderwet militaire pensioenen
 
 1. Het veteranenloket ondersteunt de veteraan en zijn relaties op verzoek bij de aanvraag van een uitkering op grond van de sociale zekerheidswetgeving, een voorziening op grond van de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362), de [militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) of enige aanspraak op grond van de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955).
 
@@ -172,7 +198,7 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 3. De arbeidsongeschiktheidsuitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsvoorziening voor militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) en het militair invaliditeitspensioen worden door zorg van Onze minister gecombineerd betaald.
 
-#### Artikel 13. Re-integratie
+##### Artikel 13. Re-integratie
 
 1. De veteraan die niet meer in militaire dienst is en die ten gevolge van een aandoening waarvoor een vermoeden van verband met de dienst als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=1&artikel=19&z=2018-07-28&g=2018-07-28) is aangenomen, geen werk meer heeft dan wel zijn werk dreigt te verliezen, heeft recht op begeleiding bij het vinden van werk overeenkomstig het re-integratiebeleid dat geldt binnen het ministerie van Defensie, indien en voor zover hij daarvoor geen beroep kan doen op een werkgever.
 
@@ -182,21 +208,21 @@ Tijdens de voorbereiding, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1
 
 4. Dit artikel is van overeenkomstige toepassing op de relaties van de veteraan.
 
-#### Artikel 14. Revalidatie
+##### Artikel 14. Revalidatie
 
 De veteraan en zijn relaties krijgen ondersteuning door tussenkomst van het veteranenloket bij de revalidatie van de veteraan, door het bieden van bemiddeling bij het verkrijgen van de medische zorg binnen, of buiten het militair revalidatiecentrum en door het bieden van de psychosociale begeleiding, zorg en opvang die zij daarbij nodig hebben.
 
-#### Artikel 15. Maatschappelijke ondersteuning
+##### Artikel 15. Maatschappelijke ondersteuning
 
 De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteuning door tussenkomst van het veteranenloket.
 
-#### Artikel 16. Wetenschappelijk onderzoek
+##### Artikel 16. Wetenschappelijk onderzoek
 
 1. Onze minister bevordert het onderzoek, bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10) onder meer door het ter beschikking stellen van fondsen voor het wetenschappelijk onderzoek, bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=4&artikel=11&z=2018-07-28&g=2018-07-28) van dit besluit en door het verlenen van subsidie aan de Stichting het Veteraneninstituut.
 
 2. Onze minister rapporteert jaarlijks aan de Staten-Generaal over de uitkomsten van wetenschappelijk onderzoek als bedoeld in [artikel 10 van de Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=10).
 
-#### Artikel 17. Taken Raad van Toezicht en advisering
+##### Artikel 17. Taken Raad van Toezicht en advisering
 
 1. De Raad van toezicht en advisering ten behoeve van het civiel-militaire zorgsysteem voor de hulpverlening aan veteranen en het wetenschappelijk onderzoek naar aandoeningen gerelateerd aan uitzendingen adviseert Onze minister van Defensie ten aanzien van wetenschappelijk onderzoek op het gebied van aandoeningen gerelateerd aan uitzendingen.
 
@@ -204,7 +230,7 @@ De veteraan en zijn relaties krijgen de noodzakelijke maatschappelijke ondersteu
 
 3. Onze minister kan nadere regels stellen omtrent de uitvoering van dit artikel.
 
-#### Artikel 18. Militaire dienstslachtoffers
+##### Artikel 18. Militaire dienstslachtoffers
 
 Hoofdstuk 4 is van overeenkomstige toepassing op militaire dienstslachtoffers voor zover die niet als veteraan kunnen worden aangemerkt.
 
@@ -212,7 +238,7 @@ Hoofdstuk 4 is van overeenkomstige toepassing op militaire dienstslachtoffers vo
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 19. Begripsbepalingen
+##### Artikel 19. Begripsbepalingen
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -232,7 +258,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. Recht op Inkomensvoorziening
 
-#### Artikel 20. Inkomensvoorziening
+##### Artikel 20. Inkomensvoorziening
 
 1. Onze minister kent op aanvraag een inkomensvoorziening toe aan de belanghebbende die ziek dan wel arbeidsongeschikt is en waarbij sprake is van een door Onze minister vastgesteld vermoeden van verband met de dienst.
 
@@ -254,13 +280,13 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 10. Onze minister is bevoegd om in bijzondere gevallen, waarin de toepassing van dit artikel tot een naar zijn oordeel onredelijke uitkomst leidt, de duur van de inkomensvoorziening te verlengen.
 
-#### Artikel 21. Verrekening
+##### Artikel 21. Verrekening
 
 Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd, geweigerd of in duur beperkt als gevolg van verwijtbaar handelen van de belanghebbende wordt voor de toepassing van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=5&paragraaf=2&artikel=20&z=2018-07-28&g=2018-07-28), de uitkering geacht steeds onverminderd te zijn genoten.
 
 #### Paragraaf 3. Verplichtingen gedurende de duur van de inkomensvoorziening
 
-#### Artikel 22. Voorwaarden verbonden aan de inkomensvoorziening
+##### Artikel 22. Voorwaarden verbonden aan de inkomensvoorziening
 
 1. De belanghebbende die een aanvraag voor een inkomensvoorziening heeft ingediend of een inkomensvoorziening geniet verstrekt op verzoek of uit eigen beweging zo spoedig mogelijk aan onze minister alle informatie, waaronder mede begrepen informatie in het kader van behandeling en re-integratie, waarvan het hem in de gegeven omstandigheden redelijkerwijs duidelijk moet zijn dat die van invloed kan zijn op het recht op inkomensvoorziening dan wel op de hoogte of de betaling van de inkomensvoorziening.
 
@@ -288,7 +314,7 @@ Indien een uitkering op grond van de sociale zekerheidswetgeving wordt verlaagd,
 
 #### Paragraaf 4. Rechten gedurende de duur van de inkomensvoorziening
 
-#### Artikel 23. Begeleiding en aanvullende voorzieningen
+##### Artikel 23. Begeleiding en aanvullende voorzieningen
 
 1. De belanghebbende heeft gedurende de duur van de inkomensvoorziening recht op:
 
@@ -304,7 +330,7 @@ indien en voor zover de belanghebbende daarvoor geen beroep kan doen op zijn wer
 
 #### Paragraaf 5. Uitkering bij overlijden
 
-#### Artikel 24. Uitkering
+##### Artikel 24. Uitkering
 
 1. In geval van overlijden van de belanghebbende die in het genot is van een inkomensvoorziening wordt een uitkering verstrekt:
 
@@ -320,7 +346,7 @@ indien en voor zover de belanghebbende daarvoor geen beroep kan doen op zijn wer
 
 #### Paragraaf 6. Stimuleringspremie
 
-#### Artikel 25. Aanspraak op stimuleringspremie
+##### Artikel 25. Aanspraak op stimuleringspremie
 
 1. De belanghebbende die bij het beëindigen van de inkomensvoorziening geheel of gedeeltelijk is gere-integreerd in een dienstbetrekking dan wel in arbeid als zelfstandige ontvangt eenmalig een stimuleringspremie gelijk aan het bedrag van de aan de belanghebbende toegekende inkomensvoorziening over een periode van drie maanden.
 
@@ -328,13 +354,13 @@ indien en voor zover de belanghebbende daarvoor geen beroep kan doen op zijn wer
 
 3. In afwijking van het eerste en tweede lid heeft de belanghebbende, die een aanstelling of arbeidsovereenkomst heeft van ten minste drie maanden dan wel als zelfstandige gedurende tenminste drie maanden opdrachten heeft, aanspraak op 50% van de stimuleringspremie.
 
-#### Artikel 26. Nadere regels
+##### Artikel 26. Nadere regels
 
 Bij regeling van onze minister worden nadere regels gesteld ter uitvoering van dit hoofdstuk.
 
 ### Hoofdstuk 6. Veteranenregistratiesysteem
 
-#### Artikel 27. Inrichting
+##### Artikel 27. Inrichting
 
 1. Onze minister houdt een veteranenregistratiesysteem bij waarin persoonsgegevens betreffende veteranen worden verwerkt.
 
@@ -352,7 +378,7 @@ Bij regeling van onze minister worden nadere regels gesteld ter uitvoering van d
 
 4. Aan het verwerken van gegevens ten behoeve van de in het tweede lid, onder c en d genoemde doeleinden kunnen nadere voorwaarden worden verbonden ten einde te verzekeren dat de verwerking uitsluitend geschiedt ten behoeve van deze specifieke doeleinden en plaatsvindt binnen de kaders van het veteranenbeleid van het ministerie van Defensie.
 
-#### Artikel 28. Opgenomen gegevens
+##### Artikel 28. Opgenomen gegevens
 
 In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffende veteranen opgenomen:
 
@@ -364,13 +390,13 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 - d. administratieve gegevens, zoals een indicatie betreffende de uitvoering van het bepaalde in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28).
 
-#### Artikel 29. Bescherming privacy
+##### Artikel 29. Bescherming privacy
 
 1. Onze Minister houdt aantekening van verstrekking van gegevens overeenkomstig het bepaalde in [artikel 27, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035237&hoofdstuk=6&artikel=27&z=2018-07-28&g=2018-07-28).
 
 2. Aan het verwerken van gegevens kunnen nadere voorwaarden worden verbonden ter naleving van de Algemene verordening gegevensbescherming en dit besluit.
 
-#### Artikel 30. Verstrekking gegevens
+##### Artikel 30. Verstrekking gegevens
 
 1. In het veteranenregistratiesysteem opgenomen persoonsgegevens worden slechts verstrekt:
 
@@ -382,29 +408,29 @@ In het veteranenregistratiesysteem worden slechts de volgende gegevens betreffen
 
 ### Hoofdstuk 7. Wijziging andere regelingen
 
-#### Artikel 31. Intrekking [Regeling veteranenregistratie Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0019956)
+##### Artikel 31. Intrekking [Regeling veteranenregistratie Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0019956)
 
 De [Regeling veteranenregistratie Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0019956) nr.: C/2006019485 d.d. 13 juni 2006 wordt ingetrokken.
 
-#### Artikel 32. Wijziging van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen
+##### Artikel 32. Wijziging van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen
 
 Wijzigt het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 33. Hardheidsclausule
+##### Artikel 33. Hardheidsclausule
 
 Onze Minister kan termijnen, bedragen en percentages, genoemd in dit besluit buiten toepassing laten of daarvan afwijken indien toepassing gelet op het belang van een goede zorgverlening aan de veteraan of zijn relaties zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 34. Inwerkingtreden [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401)
+##### Artikel 34. Inwerkingtreden [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401)
 
 De [Veteranenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0031401) treedt in werking op 28 juni 2014.
 
-#### Artikel 35. Inwerkingtreden
+##### Artikel 35. Inwerkingtreden
 
 Dit besluit treedt in werking op 28 juni 2014.
 
-#### Artikel 36. Citeertitel
+##### Artikel 36. Citeertitel
 
 Dit besluit wordt aangehaald als: Veteranenbesluit
 

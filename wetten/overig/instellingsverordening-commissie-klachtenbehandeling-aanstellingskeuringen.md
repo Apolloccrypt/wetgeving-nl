@@ -1,13 +1,38 @@
 ---
-title: "Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen"
+title: "Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)"
 identifier: "BWBR0031838"
-categorie: "Overig"
-publicatiedatum: 2019-06-29
-laatste_update: 2019-06-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031838"
+country: "nl"
+rank: "pbo"
+publication_date: "2019-06-29"
+last_updated: "2019-06-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031838"
+soort: "pbo"
+stam_id: "11807423"
+version_id: "19561902"
+internal_id: "C27595411"
+label_id: "11779664"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031838/2019-06-29/0"
+intitule_bron: "Vbbo.2012-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-15"
+intitule_published: "2012-07-13"
+intitule_in_force: "2012-09-28"
+intitule_status: "goed"
+original_publication: "Vbbo.2012-30"
+original_signed_date: "2012-06-15"
+original_published_date: "2012-07-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBR0031838&z=2019-06-29&g=2019-06-29"
+jci_1_0: "1.0:c:BWBR0031838&g=2019-06-29"
+citeertitel_status: "officieel"
+short_title: "Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen"
+signed_date: "2012-06-15"
+entry_into_force: "2012-10-01"
 ---
-
 # Verordening van de Sociaal-Economische Raad van 15 juni 2012 tot instelling van de Commissie klachtenbehandeling Aanstellingskeuringen (Instellingsverordening Commissie Klachtenbehandeling Aanbestellingskeuringen)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&artikel=3) en [4 van het Besluit klachtenbehandeling aanstellingskeuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&artikel=4), alsmede [artikel 36 van de Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=36);
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Besluit aanstelli
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening wordt verstaan onder:
 
@@ -30,11 +55,11 @@ In deze verordening wordt verstaan onder:
 
 #### § 2. Instelling
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met de behandeling van klachten over keuringen als bedoeld in [artikel 4, eerste lid, van de Wet op de medische keuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=4).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit vijf leden.
 
@@ -52,13 +77,13 @@ Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met
 
 5. De onafhankelijke leden en onafhankelijke plaatsvervangende leden hebben de hoedanigheid van arts of jurist, waarbij een evenwichtige verhouding wordt nagestreefd, met dien verstande dat van de onafhankelijke leden ten minste één lid arts is en ten minste één lid jurist is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voorzitter, de leden en de plaatsvervangende leden van de commissie worden benoemd voor een periode van drie jaar. Zij kunnen terstond opnieuw worden benoemd.
 
 2. Op voordracht van de commissie kan het dagelijks bestuur een lid van de commissie, wiens handelen of nalaten ernstig nadeel toebrengt aan de goede gang van zaken bij de commissie of aan het in haar gestelde vertrouwen, tussentijds ontslaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie wordt bijgestaan door een secretariaat.
 
@@ -66,11 +91,11 @@ Er is een Commissie Klachtenbehandeling Aanstellingskeuringen, die belast is met
 
 #### § 3. Werkwijze en vergoedingen
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie stelt een regeling van werkzaamheden vast, waarin in ieder geval de procedure van klachtbehandeling en advisering wordt geregeld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter, de leden en de plaatsvervangende leden van de commissie ontvangen voor hun deelname aan commissievergaderingen, vergaderingen van door de commissie ingestelde werkgroepen en hoorzittingen een vacatievergoeding en een vergoeding voor reis- en verblijfkosten.
 
@@ -90,11 +115,11 @@ De commissie stelt een regeling van werkzaamheden vast, waarin in ieder geval de
 
 #### § 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Indien het bij koninklijke boodschap van 14 oktober 2011 ingediende voorstel van wet tot wijziging van de Wet op de medische keuringen in verband met het opnemen van de mogelijkheid tot onderbrenging van de klachtenbehandeling bij aanstellingskeuringen bij de Sociaal-Economische Raad en enige andere wijzigingen (Kamerstukken 33050) tot wet is of wordt verheven en die wet in werking treedt, treedt deze verordening in werking op het tijdstip waarop de met de wetswijziging verband houdende wijzigingen van het [Besluit klachtenbehandeling aanstellingskeuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0013030) in werking treden.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze verordening wordt aangehaald als: Instellingsverordening Commissie Klachtenbehandeling Aanstellingskeuringen.
 

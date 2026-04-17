@@ -1,18 +1,43 @@
 ---
 title: "Wet Verdrag Chemische Wapens BES"
 identifier: "BWBR0028248"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-01-25
-laatste_update: 2014-01-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028248"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2014-01-25"
+last_updated: "2014-01-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028248"
+soort: "wet-BES"
+stam_id: "10720973"
+version_id: "17689032"
+internal_id: "C24779041"
+label_id: "10695764"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028248/2014-01-25/0"
+intitule_bron: "Stb.2010-444"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-444"
+original_signed_date: "2010-09-14"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-444"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028248&z=2014-01-25&g=2014-01-25"
+jci_1_0: "1.0:c:BWBR0028248&g=2014-01-25"
+citeertitel_status: "officieel"
+signed_date: "2010-09-14"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet Verdrag Chemische Wapens BES
 
 ### Hoofdstuk 1. Begripsomschrijving
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -58,13 +83,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Verbodsbepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden chemische wapens te ontwikkelen, te produceren, anderszins te verwerven, op te slaan, voorhanden te hebben, over te dragen of te gebruiken.
 
 2. Het is verboden, met het oog op de ontwikkeling, produktie, verwerving, opslag, overdracht of het gebruik van chemische wapens, giftige stoffen, daarbij inbegrepen hun precursoren, te ontwikkelen, te produceren, anderszins te verwerven, voorhanden te hebben, over te dragen of te gebruiken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden de stoffen, bedoeld in artikel VI, derde lid, van het verdrag te ontwikkelen, te produceren, anderszins te verwerven, op te slaan, voorhanden te hebben, over te dragen of te gebruiken.
 
@@ -80,7 +105,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Kennisgevingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die een inrichting als bedoeld in [artikel 3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), in bedrijf houdt, is verplicht aan de minister de gegevens te verstrekken die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (D), onder 13 tot en met 16, van het verdrag. De eerste volzin is niet van toepassing indien de inrichting een ziekenhuis betreft.
 
@@ -88,7 +113,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Degene aan wie een ontheffing als bedoeld in [artikel 3, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), is verleend, is verplicht aan de minister de gegevens te verstrekken, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VI (B), onder 5 en 6, van het verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die een inrichting in bedrijf houdt waar de stoffen, bedoeld in artikel VI, vierde en vijfde lid, van het verdrag worden geproduceerd, verwerkt of verbruikt, in hoeveelheden, aangegeven bij algemene maatregel van bestuur, is verplicht aan de minister de gegevens te verstrekken, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling VII (A), onder 6 tot en met 8, onderscheidenlijk Afdeling VIII (A), onder 6 tot en met 8, van het verdrag.
 
@@ -96,39 +121,39 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Degene die de in het eerste lid bedoelde stoffen in- of uitvoert, is verplicht aan de minister mededeling te doen van de in- en uitgevoerde hoeveelheden, gespecificeerd naar land van herkomst of bestemming.
 
-#### Artikel 6
+##### Artikel 6
 
 Degene die een inrichting als bedoeld in artikel VI, zesde lid, van het verdrag in bedrijf houdt waar stoffen als bedoeld in Afdeling I, onder 4, van de Verificatiebijlage van het Verdrag worden geproduceerd, in hoeveelheden, aangegeven bij algemene maatregel van bestuur, is verplicht aan de Minister de gegevens te verstrekken, die zijn aangewezen bij algemene maatregel van bestuur. Tot de aan te wijzen gegevens behoren de gegevens, bedoeld in de Verificatiebijlage, Afdeling IX, onder 4 tot en met 6, van het verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Degene die overeenkomstig de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25) een kennisgeving heeft gedaan, is verplicht de in die artikelen bedoelde gegevens ten minste tot tien jaar na de indiening van de kennisgeving te bewaren.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij of krachtens algemene maatregel van bestuur, worden nadere regels gesteld ter uitvoering van het bepaalde in de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25).
 
 ### Hoofdstuk 3. Straf- en toezichtsbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid, gestelde verbod](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), is, voor zover opzettelijk begaan, een misdrijf en wordt gestraft met, hetzij gevangenisstraf van ten hoogste zes jaren en geldboete van de vijfde categorie, hetzij met één van beide straffen.
 
 2. Overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), gestelde verbod, is, voor zover niet opzettelijk begaan, een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste een jaar en geldboete van de vierde categorie, hetzij met één van beide straffen.
 
-#### Artikel 10
+##### Artikel 10
 
 Handelen in strijd met de bij of krachtens de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=2&artikel=4&z=2014-01-25&g=2014-01-25), [14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=14&z=2014-01-25&g=2014-01-25), of [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=4&artikel=15&z=2014-01-25&g=2014-01-25), gestelde voorschriften is een overtreding en wordt gestraft met, hetzij hechtenis van ten hoogste zes maanden en geldboete van de vierde categorie, hetzij met één van beide straffen.
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe aangewezen ambtenaren of andere personen. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25) bedoelde personen maken van hun bevoegdheden slechts gebruik, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
@@ -150,7 +175,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 10. Zij zijn bevoegd met het oog op de uitoefening van deze bevoegdheden van de bestuurder van een voertuig of van de schipper van een vaartuig te vorderen dat deze zijn vervoermiddel tot stilstand brengt en stilhoudt en naar een door hen aangewezen plaats overbrengt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een ieder is verplicht de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=3&artikel=12&z=2014-01-25&g=2014-01-25) bedoelde personen alle medewerking te verlenen die deze redelijkerwijs kunnen vorderen bij de uitoefening van hun bevoegdheden.
 
@@ -160,7 +185,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ### Hoofdstuk 4. Internationale routine- en uitdagingsinspecties
 
-#### Artikel 15
+##### Artikel 15
 
 1. De minister wijst het hoofd van het begeleidingsteam aan.
 
@@ -168,7 +193,7 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 3. Een ieder is verplicht alle medewerking te verlenen aan een vordering als bedoeld in het tweede lid.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het internationale inspectieteam is bevoegd om, vergezeld door het begeleidingsteam en met medeneming van de benodigde apparatuur, bij het verrichten van een internationale routine-inspectie fabriekscomplexen, fabrieken en eenheden te betreden, voor zover het dat voor de uitvoering van die inspectie nodig acht. Het hoofd van het begeleidingsteam kan daartoe zo nodig de hulp van de sterke arm inroepen.
 
@@ -178,16 +203,16 @@ Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn 
 
 ### Hoofdstuk 5. Overige bepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 Het [Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570) is van toepassing op de ingezetene die zich buiten Bonaire, Sint Eustatius of Saba schuldig maakt aan overtreding van het in de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=2&z=2014-01-25&g=2014-01-25), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028248&hoofdstuk=2&paragraaf=1&artikel=3&z=2014-01-25&g=2014-01-25), gestelde verbod.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet treedt in werking op een bij landsbesluit te bepalen tijdstip.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet kan worden aangehaald als: Wet Verdrag Chemische Wapens BES.

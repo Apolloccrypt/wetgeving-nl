@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing vervolgingsbeslissing inzake late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen"
 identifier: "BWBR0040270"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040270"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040270"
+soort: "beleidsregel"
+stam_id: "14429693"
+version_id: "24673032"
+internal_id: "C35300611"
+label_id: "14390414"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040270/2017-12-01/0"
+intitule_bron: "Stcrt.2017-69445"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-12-01"
+intitule_in_force: "2017-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-69445"
+original_published_date: "2017-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-69445"
+entry_into_force_date: "2017-12-01"
+jci_1_3: "jci1.3:c:BWBR0040270&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBR0040270&g=2017-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-12-01"
 ---
-
 # Aanwijzing vervolgingsbeslissing inzake late zwangerschapsafbreking en levensbeëindiging bij pasgeborenen
 
 Deze aanwijzing geeft inzicht in de wijze waarop vervolgingsbeslissingen van het College van procureurs-generaal (verder: het College) tot stand komen ten aanzien van artsen die een zwangerschap van meer dan 24 weken afbreken, een zwangerschap afbreken in verband met de behandeling van de gezondheid van de moeder (maternale indicatie) of het leven van een pasgeborene beëindigen.

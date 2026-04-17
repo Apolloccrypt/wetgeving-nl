@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering oplichting"
 identifier: "BWBR0041958"
-categorie: "Strafrecht"
-publicatiedatum: 2019-03-01
-laatste_update: 2019-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041958"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-03-01"
+last_updated: "2019-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041958"
+soort: "beleidsregel"
+stam_id: "15013283"
+version_id: "25716992"
+internal_id: "C36681821"
+label_id: "14963134"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041958/2019-03-01/0"
+intitule_bron: "Stcrt.2019-10294"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-02-26"
+intitule_in_force: "2019-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-10294"
+original_published_date: "2019-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-10294"
+entry_into_force_date: "2019-03-01"
+jci_1_3: "jci1.3:c:BWBR0041958&z=2019-03-01&g=2019-03-01"
+jci_1_0: "1.0:c:BWBR0041958&g=2019-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-03-01"
 ---
-
 # Richtlijn voor strafvordering oplichting
 
 Deze richtlijn ziet op de meest voorkomende vormen van oplichting, zoals omschreven in [art 326, lid 1 Sr](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=326), waarbij een of meerdere slachtoffers bewogen wordt/worden tot de afgifte van geld of goederen, danwel tot het verlenen van (een) dienst(en). Het gaat daarbij om oplichting al dan niet via internet van burgers of bedrijven, niet van de overheid (verticale fraude). Indien tevens valsheid in geschrift is gepleegd (zoals vaak bij verzekeringsfraude) dient het zwaardere misdrijf van [artikel 225 ev. Wetboek van strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225) als uitgangspunt te worden genomen en niet de oplichting. Voor online handelsfraude is een aparte tabel.

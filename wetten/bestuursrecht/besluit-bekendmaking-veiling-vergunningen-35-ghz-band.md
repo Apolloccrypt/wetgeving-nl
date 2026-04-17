@@ -1,42 +1,68 @@
 ---
-title: "Besluit bekendmaking veiling vergunningen 3,5 GHz-band"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. DG ED/DE 44619100, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 3,5 GHz-band en de vaststelling van de te veilen vergunningen"
 identifier: "BWBR0049386"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-02-15
-laatste_update: 2024-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049386"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-15"
+last_updated: "2024-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049386"
+soort: "ministeriele-regeling"
+stam_id: "17034613"
+version_id: "29972382"
+internal_id: "C42971751"
+label_id: "16944184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049386/2024-02-15/0"
+intitule_bron: "Stcrt.2024-3833"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-02"
+intitule_published: "2024-02-14"
+intitule_in_force: "2024-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-3833"
+original_signed_date: "2024-02-02"
+original_published_date: "2024-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-3833"
+entry_into_force_date: "2024-02-15"
+jci_1_3: "jci1.3:c:BWBR0049386&z=2024-02-15&g=2024-02-15"
+jci_1_0: "1.0:c:BWBR0049386&g=2024-02-15"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling vergunningen 3,5 GHz-band"
+signed_date: "2024-02-02"
+entry_into_force: "2024-02-15"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 2 februari 2024, nr. DG ED/DE 44619100, inzake de keuze voor het instrument veiling van vergunningen voor mobiele communicatie in de 3,5 GHz-band en de vaststelling van de te veilen vergunningen
 
 Gelet op [artikel 3.10, vierde lid van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10) en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De vergunningen voor mobiele communicatie voor het gebruik van de frequentieruimte binnen het frequentiebereik 3450 – 3750 MHz worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
 2. De aan de vergunningen, bedoeld in het eerste lid, te verbinden voorschriften en beperkingen worden voor zover dat reeds mogelijk is, vastgesteld in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049386&bijlage=1&z=2024-02-15&g=2024-02-15) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0049386&bijlage=2&z=2024-02-15&g=2024-02-15) en toegelicht in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049386&bijlage=3&z=2024-02-15&g=2024-02-15).
 
-#### Artikel 2. (beschikbare vergunningen)
+##### Artikel 2. (beschikbare vergunningen)
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049386&artikel=1&z=2024-02-15&g=2024-02-15), worden geveild in 3 vergunningen met een omvang van 60 MHz in het eerste deel van de primaire fase van de veiling en 12 vergunningen met een omvang van 10 MHz in het tweede deel van de primaire fase van de veiling.
 
-#### Artikel 3. (onverdeelde vergunningen)
+##### Artikel 3. (onverdeelde vergunningen)
 
 In het geval dat vergunningen met een omvang van 60 MHz niet verdeeld worden in het eerste deel van de primaire fase van de veiling, wordt de frequentieruimte van deze vergunningen toegevoegd aan het tweede deel van de primaire fase van de veiling en in vergunningen van 10 MHz geveild.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvraag- en veilingprocedure vangt aan op de datum waarop de [Regeling aanvraag- en veilingprocedure vergunningen 3,5 GHz-band 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049372) in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling vergunningen 3,5 GHz-band.
 

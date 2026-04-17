@@ -1,13 +1,35 @@
 ---
 title: "Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel"
 identifier: "BWBV0005045"
-categorie: "Internationaal recht"
-publicatiedatum: 2026-02-21
-laatste_update: 2026-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005045"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-02-21"
+last_updated: "2026-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005045"
+soort: "verdrag"
+stam_id: "10004447753"
+version_id: "10004656762"
+internal_id: "C10007524771"
+label_id: "10004433784"
+dtd_version: "2.0"
+original_entry_into_force: "1959-07-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005045/2026-02-21/0"
+intitule_bron: "Trb.1956-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1956-01-19"
+intitule_in_force: "1959-08-07"
+intitule_status: "goed"
+original_publication: "Trb.1956-10"
+original_published_date: "1956-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1956-10"
+entry_into_force_date: "1959-07-22"
+jci_1_3: "jci1.3:c:BWBV0005045&z=2026-02-21&g=2026-02-21"
+jci_1_0: "1.0:c:BWBV0005045&g=2026-02-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-07-22"
 ---
-
 # Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, Zweden, de Zwitserse Bondsstaat en de Federale Volksrepubliek Zuidslavië,
@@ -30,13 +52,13 @@ overwegende, dat de kredietwaardigheid van de Maatschappij welke haar transactie
 
 hebben de ondergetekenden tot hun vertegenwoordigers aangewezen die, behoorlijk gevolmachtigd, het volgende zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 a). De bij dit Verdrag partij zijnde Regeringen keuren de oprichting van de Maatschappij goed, welke wordt beheerst door de Statuten die bij dit Verdrag zijn gevoegd (hierna te noemen „de Statuten”) en subsidiair door het recht van de Staat van vestiging, voorzover hiervan door dit Verdrag niet wordt afgeweken.
 
 b). De Regering van de Staat van vestiging zal de nodige maatregelen nemen om de oprichting van de Maatschappij mogelijk te maken, zodra dit Verdrag in werking is getreden.
 
-#### Artikel 2
+##### Artikel 2
 
 a). De Statuten en alle wijzigingen, welke daarin zullen worden aangebracht overeenkomstig de bepalingen daarvan en met inachtneming van de hiernavolgende bepalingen, zullen rechtskracht hebben, ongeacht iedere tegengestelde bepaling van het recht van de Staat van vestiging.
 
@@ -62,31 +84,31 @@ d). De Regering van de Staat van vestiging geeft onverwijld kennis aan de andere
 
 e). Indien door een Regering bezwaar wordt gemaakt, treedt deze in overleg met de andere Regeringen, op verzoek van één hunner, teneinde de wenselijkheid van de betrokken wijzigingen te onderzoeken.
 
-#### Artikel 3
+##### Artikel 3
 
 a). Wanneer een tussen de Maatschappij en een spoorweg gesloten overeenkomst met betrekking tot de beschikbaarstelling van door de Maatschappij gekocht materieel is onderworpen aan de wet van de Staat van vestiging, blijft de Maatschappij behoudens uitdrukkelijk beding van het tegendeel eigenares van het desbetreffende materieel, totdat zij de gehele prijs zal hebben ontvangen, zonder dat officiële registratie nodig is. In dat geval heeft de Maatschappij, wanneer een overeenkomst vervalt door niet tijdige nakoming door een spoorweg, het recht naast schadevergoeding wegens niet-nakoming van de overeenkomst, de teruggave van het desbetreffende materieel te eisen, zonder verplichting tot restitutie van de reeds ontvangen termijnen.
 
 b). De rechtbanken van de Staat van vestiging nemen, daartoe verzocht, kennis van geschillen betreffende overeenkomsten, die gesloten zijn tussen de Maatschappij en de spoorwegen en die onderworpen zijn aan de wet van de Staat van vestiging.
 
-#### Artikel 4
+##### Artikel 4
 
 a). De Regeringen verlenen aan hun spoorwegen de machtigingen, welke deze behoeven voor alle handelingen met betrekking tot de oprichting van de Maatschappij.
 
 b). De Regeringen verlenen aan hun spoorwegen de nodige faciliteiten voor de uitvoering van alle handelingen, welke betrekking hebben op de werkzaamheid van de Maatschappij.
 
-#### Artikel 5
+##### Artikel 5
 
 a). In het geval, dat een Staat op grond van de bestaande nationale wetgeving niet door de verbintenissen van een spoorweg van zijn land, welke aandeelhouder van de Maatschappij is, hetzij met zijn gehele vermogen, hetzij met een deel van zijn vermogen is gebonden, garandeert de Regering de verbintenissen van deze spoorweg tegenover de Maatschappij.
 
 b). Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf deze garantie verleent ten behoeve van een spoorweg, die geen aandeelhouder van de Maatschappij is, of ten behoeve van een andere spoorwegorganisatie. Indien in dit laatste geval geen garantie door de Regering, waartoe de aandeelhouder-spoorweg behoort, wordt verleend, hebben de andere Regeringen geen enkele garantieverplichting.
 
-#### Artikel 6
+##### Artikel 6
 
 a). Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de [leden d) en e) van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=2&z=2026-02-21&g=2026-02-21) vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.
 
 b). De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.
 
-#### Artikel 7
+##### Artikel 7
 
 a). Voorzover daaraan behoefte bestaat, nemen de bij dit Verdrag partij zijnde Regeringen de nodige maatregelen, opdat de handelingen van de Maatschappij met het oog op de verschaffing van spoorwegmaterieel aan de spoorwegen - hetzij de eigendom daarvan onmiddellijk dan wel eerst later overgaat - op zodanige wijze geschieden, dat daaruit niet meer fiscale lasten voortvloeien dan het geval zou zijn, indien de spoorwegen dat materieel rechtstreeks zouden verwerven.
 
@@ -94,19 +116,19 @@ b). Voor zover betreft in- en uitvoer van spoorwegmaterieel, die plaats vindt in
 
 c). De door de Staat van vestiging met het oog op de oprichting en de werkzaamheid van de Maatschappij toegekende bijzondere voordelen op belastinggebied zijn vervat in een tussen de Regering van de Staat van vestiging en de andere bij dit Verdrag partij zijnde Regeringen gesloten Aanvullend Protocol.
 
-#### Artikel 8
+##### Artikel 8
 
 De bij dit Verdrag partij zijnde Regeringen nemen, voor zover daaraan behoefte bestaat, de nodige maatregelen ten einde de in- en uitvoer van materieel, dat het voorwerp is van de werkzaamheden van de Maatschappij, te vergemakkelijken.
 
-#### Artikel 9
+##### Artikel 9
 
 De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezenvoorschriften, de nodige maatregelen om de overmaking van geld, waartoe de oprichting en de werkzaamheid van de Maatschappij aanleiding geven, te verzekeren.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2026-02-21&g=2026-02-21), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298).
 
-#### Artikel 11
+##### Artikel 11
 
 a). Iedere Regering van een Europees land, die dit Verdrag niet heeft ondertekend, kan na de inwerkingtreding daarvan tot het Verdrag toetreden door middel van een tot de Regering van Zwitserland gerichte kennisgeving.
 
@@ -114,21 +136,21 @@ b). De toetreding van een Regering, die geen lid is van de Europese Conferentie 
 
 c). De toetreding tot dit Verdrag heeft toetreding tot het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2026-02-21&g=2026-02-21), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) tot gevolg.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag is gesloten voor de duur van de Maatschappij.
 
-#### Artikel 13
+##### Artikel 13
 
 a). Een bij dit Verdrag partij zijnde Regering, waarvan geen spoorweg aandeelhouder is of waarvan iedere spoorweg heeft opgehouden aandeelhouder te zijn van de Maatschappij, kan haar deelneming aan dit Verdrag beëindigen door met inachtneming van een opzeggingstermijn van drie maanden een desbetreffende mededeling tot de Regering van Zwitserland te richten. Indien de opzegging echter geschiedt door de Regering van de Staat van vestiging, eindigt haar deelneming aan dit Verdrag eerst nadat de zetel van de Maatschappij is verplaatst naar een andere Staat.
 
 b). De uittreding van een Regering overeenkomstig dit artikel tast de door deze Regering ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=5&z=2026-02-21&g=2026-02-21) op zich genomen verplichtingen niet aan, voor wat betreft de verbintenissen welke door haar spoorweg of spoorwegen werden aangegaan, toen deze aandeelhouder van de Maatschappij waren.
 
-#### Artikel 14
+##### Artikel 14
 
 Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking tot de uitlegging en de toepassing van dit Verdrag zal, bij gebreke van overeenstemming omtrent een andere procedure, worden onderworpen aan de beslissing van het Internationale Gerechtshof.
 
-#### Artikel 15
+##### Artikel 15
 
 a). Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2026-02-21&g=2026-02-21), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.
 
@@ -136,27 +158,27 @@ b). Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het V
 
 c). De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserland.
 
-#### Artikel 16
+##### Artikel 16
 
 a). Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.
 
 b). Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in [artikel 7, lid c)](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7&z=2026-02-21&g=2026-02-21), bedoelde [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0005298) zal hebben bekrachtigd.
 
-#### Artikel 17
+##### Artikel 17
 
 Na ontvangst van de akten van bekrachtiging, van toetreding of van opzegging zal de Regering van Zwitserland hiervan mededeling doen aan alle bij dit Verdrag partij zijnde Regeringen en aan de Maatschappij. Zij zal hun eveneens kennis geven van de datum van inwerkingtreding van dit Verdrag.
 
 #### Naam, zetel, doel en duur van de vennootschap
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de naam „Eurofima” Europese Maatschappij tot financiering van spoorwegmaterieel („Eurofima” Société européenne pour le financement de matériel ferroviaire, „Eurofima” Europäische Gesellschaft für die Finanzierung von Eisenbahnmaterial, «Eurofima» Società europea per il finanziamento di materiale ferroviario, „Eurofima” European Company for the Financing of Railroad Rolling Stock) wordt een vennootschap op aandelen opgericht, die wordt beheerst door de bepalingen van het internationale verdrag betreffende de oprichting van deze vennootschap, door deze statuten en, subsidiair, door de wet van de staat van vestiging.
 
-#### Artikel 2
+##### Artikel 2
 
 De vennootschap is gevestigd te Bazel (Zwitserland).
 
-#### Artikel 3
+##### Artikel 3
 
 De vennootschap heeft ten doel het aanschaffen of financieren van spoorwegmaterieel voor alle aandeelhouders, hetzij i. voor de eigen activiteiten, ii. voor de activiteiten van elke onderneming die wordt gecontroleerd door of gelieerd is aan een aandeelhouder of iii. voor de activiteiten van een onderneming die niet wordt gecontroleerd door of gelieerd is aan een aandeelhouder, mits die onderneming een spoorwegadministratie is zoals gedefinieerd in artikel 9, tweede alinea (die, om twijfel te voorkomen, aandeelhouder kan zijn, maar dat niet hoeft te zijn).
 
@@ -166,13 +188,13 @@ De financiering door de vennootschap wordt verstrekt overeenkomstig het kredietb
 
 De vennootschap werft de nodige middelen, naast haar eigen middelen, in de vorm van leningen. Zij zal alle commerciële en financiële verrichtingen uitvoeren die nuttig zijn voor het bereiken van haar doel.
 
-#### Artikel 4
+##### Artikel 4
 
 De vennootschap wordt voor onbepaalde tijd opgericht.
 
 #### MAATSCHAPPELIJK KAPITAAL
 
-#### Artikel 5
+##### Artikel 5
 
 Het maatschappelijk kapitaal van de vennootschap omvat kapitaal van categorie A en kapitaal van categorie B.
 
@@ -204,7 +226,7 @@ Zodra er voor aandeelhouders van categorie A geen verplichting meer bestaat uit 
 
 - iii. De raad van bestuur roept de algemene vergaderingen bijeen die nodig zijn voor de uitvoering van de verschillende stappen, op voorwaarde dat de raad uiterlijk 365 kalenderdagen na het plaatsvinden van de omzettingstrigger een algemene vergadering bijeenroept om de eerste van de stappen uit te voeren die op die datum nog niet zijn voltooid en, in voorkomend geval, elke aanvullende algemene vergadering die nodig is om de resterende stappen onmiddellijk na de vorige stap uit te voeren en die een afzonderlijke vergadering vereist. Alle resoluties van de algemene vergadering ter uitvoering van de bovengenoemde wijzigingen van de statuten vormen bevestigende resoluties (elk een „bevestigende resolutie”), met inachtneming van het quorum als bedoeld in artikel 15, tweede alinea.
 
-#### Artikel 6
+##### Artikel 6
 
 Iedere aandeelhouder kan vanaf het kalenderjaar volgend op de omzetting waarin één enkele categorie aandelen is gecreëerd, zijn aandelen geheel of gedeeltelijk ter terugkoop aan de vennootschap aanbieden, waarbij de vennootschap verplicht is de aldus aangeboden aandelen terug te kopen volgens de volgende beginselen:
 
@@ -230,7 +252,7 @@ Indien in een bepaald kalenderjaar het totale aantal aangeboden aandelen, met in
 
 De vennootschap mag aandelen die via dergelijke aanbiedingen zijn verkregen, als eigen aandelen aanhouden tot maximaal 20% van het dan geldende maatschappelijk kapitaal en deze aandelen vrijelijk verkopen door middel van verkoop aan bestaande aandeelhouders of nieuwe aandeelhouders die door de algemene vergadering zijn goedgekeurd. Overtollige eigen aandelen worden in de regel geëlimineerd door een overeenkomstige vermindering van het maatschappelijk kapitaal.
 
-#### Artikel 7
+##### Artikel 7
 
 De aandelen van de vennootschap bestaan in gedematerialiseerde vorm; de vennootschap drukt geen certificaten van aandelen af en geeft deze evenmin uit en geen enkele aandeelhouder heeft het recht de afdruk en uitgifte van certificaten van aandelen te verlangen.
 
@@ -240,13 +262,13 @@ De vennootschap draagt zorg voor de vervanging van alle bestaande certificaten v
 
 Aandelen op naam die niet zijn gedocumenteerd, met inbegrip van alle daaruit voortvloeiende rechten die niet in een titel zijn gedocumenteerd, kunnen uitsluitend door middel van overneming worden overgedragen. Deze overneming is slechts geldig indien daarvan aan de vennootschap kennis is gegeven.
 
-#### Artikel 8
+##### Artikel 8
 
 Het kapitaal van de vennootschap kan worden uitgebreid ingevolge een stem van de algemene vergadering van aandeelhouders. Het kapitaal van categorie A en het kapitaal van categorie B kunnen onafhankelijk van elkaar worden uitgebreid. Onder voorbehoud van de bepalingen van de artikelen 5 en 9 is elke houder van aandelen van een bepaalde aandelencategorie alleen gerechtigd om in te schrijven op nieuwe aandelen van dezelfde categorie naar verhouding van het totale aantal aandelen van die categorie dat deze houder ten tijde van de kapitaaluitbreiding in zijn bezit heeft. Indien een aandeelhouder zijn claimrecht niet uitoefent, kan hij dit recht, met toestemming van de algemene vergadering van aandeelhouders, aan een andere aandeelhouder overdragen.
 
 De algemene vergadering van aandeelhouders stelt de voorwaarden van uitgifte van nieuwe aandelen vast.
 
-#### Artikel 9
+##### Artikel 9
 
 Iedere spoorwegadministratie kan als aandeelhouder van de vennootschap worden toegelaten ingevolge besluit van de algemene vergadering van aandeelhouders, hetzij door overdracht van aandelen, hetzij door deelneming in een kapitaalsuitbreiding.
 
@@ -266,7 +288,7 @@ Met uitzondering van een algemene kapitaaluitbreiding die openstaat voor alle aa
 
 #### DE ALGEMENE VERGADERING VAN AANDEELHOUDERS
 
-#### Artikel 10
+##### Artikel 10
 
 De algemene vergadering van aandeelhouders is de hoogste macht in de vennootschap. Zij heeft de volgende bevoegdheden:
 
@@ -294,11 +316,11 @@ De algemene vergadering van aandeelhouders is de hoogste macht in de vennootscha
 
 - 12. zij beslist over alle aangelegenheden die haar zijn voorbehouden of haar door de raad van bestuur worden voorgelegd.
 
-#### Artikel 11
+##### Artikel 11
 
 Jaarlijks vindt een gewone algemene vergadering van aandeelhouders plaats binnen zes maanden na afloop van het boekjaar.
 
-#### Artikel 12
+##### Artikel 12
 
 Een buitengewone algemene vergadering van aandeelhouders wordt bijeengeroepen:
 
@@ -310,7 +332,7 @@ Een buitengewone algemene vergadering van aandeelhouders wordt bijeengeroepen:
 
 Een buitengewone algemene vergadering van aandeelhouders wordt bijeengeroepen en gehouden volgens dezelfde regels als een gewone algemene vergadering van aandeelhouders.
 
-#### Artikel 13
+##### Artikel 13
 
 De oproeping van aandeelhouders voor een algemene vergadering vindt ten minste 14 dagen van tevoren langs elektronische weg of schriftelijk plaats.
 
@@ -334,11 +356,11 @@ Fysieke en hybride vergaderingen kunnen gehouden worden in een of meer vergaderl
 
 De raad van bestuur beslist over de vorm en locatie van de vergadering en het gebruik van elektronische middelen.
 
-#### Artikel 14
+##### Artikel 14
 
 Elk aandeel geeft, ongeacht de nominale waarde ervan, recht op één stem, vermenigvuldigd met het stortingspercentage (een „stem”).
 
-#### Artikel 15
+##### Artikel 15
 
 De algemene vergadering van aandeelhouders kan op de eerste oproep slechts rechtsgeldig beraadslagen indien de meerderheid van de stemmen vertegenwoordigd is. Indien dit quorum niet bereikt wordt, wordt een tweede vergadering bijeengeroepen op een termijn van ten minste twee weken, welke rechtsgeldige besluiten kan nemen ongeacht het aantal stemmen dat vertegenwoordigd is.
 
@@ -346,13 +368,13 @@ Voor besluiten in de algemene vergadering van aandeelhouders is de meerderheid v
 
 Er wordt gestemd door handopsteking, tenzij een aandeelhouder een geheime stemming verlangt.
 
-#### Artikel 16
+##### Artikel 16
 
 De algemene vergadering van aandeelhouders wordt voorgezeten door de voorzitter van de raad van bestuur of, bij ontstentenis van deze, door een van de vicevoorzitters of, bij ontstentenis ook van dezen, door een door de raad van bestuur uit zijn midden aan te wijzen lid.
 
 De algemene vergadering van aandeelhouders benoemt door handopsteking twee stemopnemers. Zij benoemt tevens een secretaris.
 
-#### Artikel 17
+##### Artikel 17
 
 Van de beraadslagingen en de beslissingen van de algemene vergadering van aandeelhouders worden notulen gehouden.
 
@@ -366,7 +388,7 @@ Ondertekening met elektronische middelen is toegestaan.
 
 #### DE RAAD VAN BESTUUR
 
-#### Artikel 18
+##### Artikel 18
 
 De raad van bestuur is belast met de leiding van de vennootschap.
 
@@ -376,19 +398,19 @@ Elk lid van de raad van bestuur wordt benoemd voor een tijdvak van drie jaar. He
 
 Alle leden van de raad van bestuur hebben gelijk stemrecht.
 
-#### Artikel 19
+##### Artikel 19
 
 De verkiezing van de leden van de raad van bestuur vindt plaats in de gewone algemene vergadering. Hetzelfde geldt in geval van verkiezingen voor een tussentijds opengevallen zetel, tenzij een aandeelhouder verlangt dat in de vacature onmiddellijk wordt voorzien. In dat geval is de raad van bestuur verplicht onverwijld een buitengewone algemene vergadering van aandeelhouders bijeen te roepen teneinde tot een tussentijdse verkiezing over te gaan.
 
 Wanneer een lid van de raad van bestuur in de loop van zijn zittingsperiode ophoudt van die raad deel uit te maken, neemt zijn opvolger zijn zetel in voor de rest van die periode.
 
-#### Artikel 20
+##### Artikel 20
 
 De algemene vergadering van aandeelhouders benoemt de voorzitter en de vicevoorzitters van de raad van bestuur en wel voor de duur van hun zittingsperiode als lid van die raad. Zij zijn herkiesbaar. De raad kan zich doen bijstaan door een secretaris die niet een van zijn leden is.
 
 Bij ontstentenis van de voorzitter wordt het voorzitterschap van de raad waargenomen door een van de vicevoorzitters of bij ontstentenis ook van dezen, door het oudst bij de vergadering aanwezige lid.
 
-#### Artikel 21
+##### Artikel 21
 
 De raad van bestuur beslist over alle aangelegenheden die niet aan een ander orgaan van de vennootschap zijn opgedragen.
 
@@ -412,7 +434,7 @@ De raad van bestuur stelt ook het kredietbeleid vast, dat onder meer de criteria
 
 Het kredietbeleid bepaalt bovendien de aard en het bedrag van de zakelijke zekerheid van de vennootschap op het door de vennootschap gefinancierde spoorwegmaterieel en de criteria op basis waarvan de vennootschap kan afzien van de eis van een zakelijke zekerheid op het door haar gefinancierde spoorwegmaterieel.
 
-#### Artikel 22
+##### Artikel 22
 
 De raad van bestuur komt bijeen zo dikwijls als nodig is, doch ten minste eenmaal in de drie maanden. De bijeenroeping geschiedt door de voorzitter of een van de vicevoorzitters. De bijeenroeping, tezamen met de agenda, wordt langs elektronische weg of schriftelijk verzonden, ten minste acht dagen voor de vergadering.
 
@@ -436,7 +458,7 @@ Wanneer een lid verhinderd is de vergadering bij te wonen, kan hij zijn stem sch
 
 De voorzitter van de raad van bestuur beslist over de vorm van de vergadering, de locatie van de vergadering en het gebruik van elektronische middelen, op voorwaarde dat een lid van de raad van bestuur geen fysieke vergadering verlangt.
 
-#### Artikel 23
+##### Artikel 23
 
 De raad van bestuur kan beraadslagen noch rechtsgeldige besluiten nemen indien de bijeenroeping niet op basis van regelmatigheid is geschied en indien de meerderheid van de leden niet aanwezig of vertegenwoordigd is.
 
@@ -444,7 +466,7 @@ Dit quorum is niet vereist voor het implementeren van een kapitaalverhoging en v
 
 De besluiten van de raad worden genomen met meerderheid van de stemmen van de aanwezige of vertegenwoordigde leden. Bij staking van stemmen is de stem van de voorzitter van de vergadering doorslaggevend. Voor besluiten bedoeld in artikel 21, derde alinea, onderdeel 3, is bij uitzondering een meerderheid van 3/4 vereist.
 
-#### Artikel 24
+##### Artikel 24
 
 Van de beraadslagingen en de besluiten van de raad van bestuur worden notulen gehouden.
 
@@ -454,11 +476,11 @@ Afschriften of uittreksels worden ondertekend door de voorzitter of een van de v
 
 Ondertekening met elektronische middelen is toegestaan.
 
-#### Artikel 25
+##### Artikel 25
 
 De leden van de raad van bestuur ontvangen geen bezoldiging; niettemin kan hun presentiegeld worden toegekend.
 
-#### Artikel 26
+##### Artikel 26
 
 Met inachtneming van de volgende beperkingen zullen de houders van aandelen van categorie A, elk naar verhouding met hun belang in het kapitaal van categorie A en tot een maximumbedrag dat gelijk is aan dat belang, de uitvoering garanderen van financieringsovereenkomsten voor spoorwegmaterieel (de „financieringsovereenkomsten”) die door de vennootschap zijn toegekend (de „garantie door de aandeelhouders”).
 
@@ -488,13 +510,13 @@ De garantie door de aandeelhouders loopt af op 1 januari 2018 onder voorbehoud v
 
 #### Garantie
 
-#### Artikel 27
+##### Artikel 27
 
 De jaarrekening van de vennootschap wordt gecontroleerd door een extern accountantsbureau (dat internationaal wordt erkend) dat door de algemene vergadering van aandeelhouders voor een termijn van één jaar wordt gekozen (controlerend orgaan). Het controlerend orgaan kan opnieuw worden gekozen.
 
 #### Controle
 
-#### Artikel 28
+##### Artikel 28
 
 De rekeningen van de vennootschap worden afgesloten en de jaarrekening wordt per het einde van ieder kalenderjaar opgesteld.
 
@@ -504,7 +526,7 @@ De Raad van Bestuur bepaalt de (internationaal erkende) standaarden voor jaarrek
 
 #### Afsluiting van de boeken en verdeling van de winst
 
-#### Artikel 29
+##### Artikel 29
 
 Van de winst die na aftrek van de afschrijvingen overblijft, wordt allereerst 5% bestemd voor de algemene reserve, totdat deze een vijfde van het geplaatste maatschappelijk kapitaal van de vennootschap bedraagt. De algemene reserve mag slechts worden gebruikt voor het dekken van verliezen.
 
@@ -514,7 +536,7 @@ Hetgeen dan nog overblijft wordt bestemd voor de vorming van een bijzondere gara
 
 De algemene vergadering van aandeelhouders beslist over de buitengewone uitkeringen ten laste van de bijzondere garantiereserve of, onder voorbehoud van de eerste alinea, ten laste van het gewone reservefonds. Dergelijke buitengewone uitkeringen kunnen alleen worden uitgevoerd aan aandelen van categorie A tot het saldo van het prioritaire bedrag.
 
-#### Artikel 30
+##### Artikel 30
 
 In geval van ontbinding wordt de vennootschap geliquideerd. Zij wordt vanaf dat moment beschouwd als vennootschap in liquidatie.
 
@@ -526,7 +548,7 @@ Na voldoening van de verplichtingen, terugbetaling van het geplaatste maatschapp
 
 #### Liquidatie
 
-#### Artikel 31
+##### Artikel 31
 
 Mededelingen aan aandeelhouders worden schriftelijk gedaan, onder voorbehoud van artikel 13, eerste alinea.
 
@@ -536,11 +558,11 @@ Ten aanzien van alle andere publicaties beslist de raad van bestuur op welke wij
 
 #### Bepalingen van verschillende aard
 
-#### Artikel 32
+##### Artikel 32
 
 Elke wijziging welke in deze statuten wordt aangebracht wordt medegedeeld aan de regering van het land waar de vennootschap is gevestigd.
 
-#### Artikel 33
+##### Artikel 33
 
 Elke wijziging, welke in deze statuten wordt aangebracht, wordt medegedeeld aan de Regering van het land, waar de vennootschap is gevestigd.
 

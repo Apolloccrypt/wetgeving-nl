@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de voorkoming en de bestraffing van genocide"
 identifier: "BWBV0005551"
-categorie: "Internationaal recht"
-publicatiedatum: 1966-09-18
-laatste_update: 1966-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005551"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-09-18"
+last_updated: "1966-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005551"
+soort: "verdrag"
+stam_id: "10004706553"
+version_id: "10004969602"
+internal_id: "C10007589241"
+label_id: "10004690694"
+dtd_version: "2.0"
+original_entry_into_force: "1966-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005551/1966-09-18/0"
+intitule_bron: "Trb.1960-32"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-04-14"
+intitule_in_force: "1966-08-09"
+intitule_status: "goed"
+original_publication: "Trb.1960-32"
+original_published_date: "1960-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-32"
+entry_into_force_date: "1966-09-18"
+jci_1_3: "jci1.3:c:BWBV0005551&z=1966-09-18&g=1966-09-18"
+jci_1_0: "1.0:c:BWBV0005551&g=1966-09-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-09-18"
 ---
-
 # Verdrag inzake de voorkoming en de bestraffing van genocide
 
 De Verdragsluitende Partijen,
@@ -20,11 +42,11 @@ Overtuigd, dat, teneinde de mensheid van deze afschuwelijke gesel te verlossen, 
 
 Komen hierbij als volgt overeen:
 
-#### Artikel I
+##### Artikel I
 
 De Verdragsluitende Partijen stellen vast, dat genocide, ongeacht of het feit in vredes- dan wel in oorlogstijd wordt bedreven een misdrijf is krachtens internationaal recht, welk misdrijf zij op zich nemen te voorkomen en te bestraffen.
 
-#### Artikel II
+##### Artikel II
 
 In dit Verdrag wordt onder genocide verstaan een van de volgende handelingen, gepleegd met de bedoeling om een nationale, ethnische, godsdienstige groep, dan wel een groep, behorende tot een bepaald ras, geheel of gedeeltelijk als zodanig te vernietigen:
 
@@ -38,7 +60,7 @@ In dit Verdrag wordt onder genocide verstaan een van de volgende handelingen, ge
 
 - e. het gewelddadig overbrengen van kinderen van de groep naar een andere groep.
 
-#### Artikel III
+##### Artikel III
 
 Strafbaar zijn de volgende handelingen:
 
@@ -52,37 +74,37 @@ Strafbaar zijn de volgende handelingen:
 
 - e. medeplichtigheid aan genocide.
 
-#### Artikel IV
+##### Artikel IV
 
 Zij, die genocide of een der andere in artikel III genoemde feiten plegen, worden gestraft, onverschillig of zij constitutioneel verantwoordelijke regeringspersonen, ambtenaren of privé personen zijn.
 
-#### Artikel V
+##### Artikel V
 
 De Verdragsluitende Partijen verbinden zich om, overeenkomstig hun onderscheiden grondwetten, de wetten af te kondigen, welke nodig zijn voor de tenuitvoerlegging van de bepalingen van dit Verdrag, en, in het bijzonder, voor de vaststelling van doeltreffende straffen voor hen, die schuldig zijn aan genocide of enig ander in artikel III genoemd feit.
 
-#### Artikel VI
+##### Artikel VI
 
 Zij, die worden beschuldigd van genocide of enig ander in artikel III genoemd feit, worden berecht door een daartoe bevoegde rechtbank van de Staat, binnen welks gebied het feit is gepleegd, of door een zodanige internationale strafrechter als daartoe bevoegd is ten aanzien van die Verdragsluitende Partijen, welke de rechtsmacht van deze rechter hebben aanvaard.
 
-#### Artikel VII
+##### Artikel VII
 
 Met betrekking tot uitlevering worden genocide en de andere in artikel III genoemde feiten niet beschouwd als politieke misdrijven.
 
 De Verdragsluitende Partijen verbinden zich in die gevallen verzoeken om uitlevering in te willigen overeenkomstig hun wetten en de voor hen van kracht zijnde verdragen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Elke Verdragsluitende Partij kan een beroep doen op de bevoegde organen van de Verenigde Naties om krachtens het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) zodanige maatregelen te treffen, als zij passend achten ter voorkoming en onderdrukking van daden van genocide of van enig ander in artikel III genoemd feit.
 
-#### Artikel IX
+##### Artikel IX
 
 Geschillen tussen de Verdragsluitende Partijen, de interpretatie, toepassing of tenuitvoerlegging van dit Verdrag betreffende, met inbegrip van de geschillen, welke betrekking hebben op de verantwoordelijkheid van een Staat voor genocide of enig ander in artikel III genoemd feit, worden, op verzoek van een der bij het geschil betrokken partijen, voorgelegd aan het Internationale Gerechtshof.
 
-#### Artikel X
+##### Artikel X
 
 Dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, draagt de dagtekening van 9 December 1948.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit Verdrag kan tot 31 December 1949 worden ondertekend door ieder Lid van de Verenigde Naties en door elke andere Staat, die, niet Lid van de Verenigde Naties zijnde, een uitnodiging tot ondertekening heeft ontvangen van de Algemene Vergadering.
 
@@ -92,11 +114,11 @@ Na 1 Januari 1950 kunnen tot dit Verdrag toetreden elk Lid van de Verenigde Nati
 
 De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel XII
+##### Artikel XII
 
 Elke Verdragsluitende Partij kan te allen tijde door kennisgeving aan de Secretaris-Generaal van de Verenigde Naties de toepasselijkheid van dit Verdrag uitbreiden tot een of alle der gebieden, voor welker buitenlandse betrekkingen deze Verdragsluitende Partij verantwoordelijk is.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Op de dag, waarop de eerste twintig akten van bekrachtiging of toetreding zijn nedergelegd, maakt de Secretaris-Generaal proces-verbaal op en doet een afschrift hiervan toekomen aan elk Lid van de Verenigde Naties en aan elk der Staten, niet-Leden, bedoeld in artikel XI.
 
@@ -104,7 +126,7 @@ Dit Verdrag treedt in werking op de negentigste dag na die, waarop de twintigste
 
 Elke bekrachtiging of toetreding, tot stand gekomen na voornoemde datum, wordt van kracht op de negentigste dag, volgende op de nederlegging van de akte van bekrachtiging of toetreding.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit Verdrag blijft van kracht voor de tijd van tien jaren van de dag af, waarop het in werking is getreden.
 
@@ -112,17 +134,17 @@ Het blijft daarna van kracht, telkens voor de tijd van vijf jaren, voor die Verd
 
 Opzegging geschiedt door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel XV
+##### Artikel XV
 
 Indien, tengevolge van opzeggingen, het aantal der bij dit Verdrag betrokken Partijen minder dan zestien mocht bedragen, houdt het Verdrag op van kracht te zijn van de dag af, waarop de laatste van deze opzeggingen van kracht wordt.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Een verzoek tot herziening van dit Verdrag kan te allen tijde door elke Verdragsluitende Partij worden gedaan door middel van een schriftelijke kennisgeving, gericht aan de Secretaris-Generaal.
 
 De Algemene Vergadering beslist, of en zo ja, welke stappen zullen worden gedaan met betrekking tot een dergelijk verzoek.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De Secretaris-Generaal van de Verenigde Naties stelt alle Leden van de Verenigde Naties en de Staten, niet-Leden, als bedoeld in artikel XI van het volgende in kennis:
 
@@ -138,12 +160,12 @@ De Secretaris-Generaal van de Verenigde Naties stelt alle Leden van de Verenigde
 
 - f. kennisgevingen, ontvangen overeenkomstig artikel XVI.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Het origineel van dit Verdrag wordt nedergelegd in het archief van de Verenigde Naties.
 
 Een gewaarmerkt afschrift van het Verdrag wordt ter hand gesteld aan alle Leden van de Verenigde Naties en aan de Staten, niet-Leden, bedoeld in artikel XI.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Dit Verdrag wordt door de Secretaris-Generaal geregistreerd op de dag waarop het in werking treedt.

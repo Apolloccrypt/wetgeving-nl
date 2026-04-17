@@ -1,13 +1,38 @@
 ---
-title: "Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie"
+title: "Regeling van de Minister van Justitie van 24 februari 2005, nr. 5336480/805, tot vaststelling van nadere regels bij reorganisaties in de sector Rechterlijke Macht, die het openbaar ministerie betreffen (Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie)"
 identifier: "BWBR0018055"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-05-30
-laatste_update: 2020-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018055"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-05-30"
+last_updated: "2020-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018055"
+soort: "ministeriele-regeling"
+stam_id: "6806683"
+version_id: "11682322"
+internal_id: "C15744391"
+label_id: "6795054"
+original_entry_into_force: "2005-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018055/2020-05-30/0"
+intitule_bron: "Stcrt.2005-43"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-24"
+intitule_published: "2005-03-02"
+intitule_in_force: "2005-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-43"
+original_signed_date: "2005-02-24"
+original_published_date: "2005-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-43-p15-SC69031"
+entry_into_force_date: "2005-03-04"
+jci_1_3: "jci1.3:c:BWBR0018055&z=2020-05-30&g=2020-05-30"
+jci_1_0: "1.0:c:BWBR0018055&g=2020-05-30"
+citeertitel_status: "officieel"
+short_title: "Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie"
+signed_date: "2005-02-24"
+entry_into_force: "2005-03-04"
 ---
-
 # Regeling van de Minister van Justitie van 24 februari 2005, nr. 5336480/805, tot vaststelling van nadere regels bij reorganisaties in de sector Rechterlijke Macht, die het openbaar ministerie betreffen (Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie)
 
 Gelet op [artikel 36e van het Besluit rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36e);
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 - i. reorganisatie: reorganisatie als bedoeld in [artikel 36c, eerste lid onder f, van het Brra](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&artikel=36c).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op reorganisaties die het openbaar ministerie betreffen en waarbij rechterlijke ambtenaren betrokken zijn.
 
@@ -46,11 +71,11 @@ Deze regeling is van toepassing op reorganisaties die het openbaar ministerie be
 
 #### De plaatsingsprocedure
 
-#### Artikel 3
+##### Artikel 3
 
 Nadat het organisatie- en formatierapport door Onze Minister is vastgesteld wordt, met inachtneming van het in deze paragraaf bepaalde een concept-plaatsingsplan opgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister stelt een plaatsingsadviescommissie in, als bedoeld in [artikel 7 van de Regeling procedure bij reorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007967&artikel=7) zoals dat gold tot en met 30 september 2019, die tot taak heeft ten behoeve van hem een concept-plaatsingsplan op te stellen en hem te adviseren ten aanzien van eventueel ingediende bedenkingen.
 
@@ -70,7 +95,7 @@ Nadat het organisatie- en formatierapport door Onze Minister is vastgesteld word
 
 6. Onze Minister kan aan de plaatsingsadviescommissie een secretaris en één of meer plaatsvervangend secretarissen toevoegen.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister informeert alle betrokken rechterlijke ambtenaren schriftelijk over ten minste:
 
@@ -82,7 +107,7 @@ Onze Minister informeert alle betrokken rechterlijke ambtenaren schriftelijk ove
 
 - d. de mogelijkheid voor belanghebbenden om bezwaar te maken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De plaatsingsadviescommissie inventariseert schriftelijk de plaatsingsvoorkeuren van:
 
@@ -96,11 +121,11 @@ Voor zover een rechterlijk ambtenaar niet reeds door de plaatsingsadviescommissi
 
 3. De plaatsingsadviescommissie maakt een verslag van hetgeen een rechterlijk ambtenaar overeenkomstig het tweede lid mondeling naar voren heeft gebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 De plaatsingsadviescommissie stelt het concept-plaatsingsplan op en doet dit aan Onze Minister toekomen. Zij voegt daarbij alle stukken die het Onze Minister nodig heeft om zich ervan te kunnen vergewissen dat zij bij de voorbereiding van het concept-plaatsingsplan de nodige kennis omtrent de relevante feiten en de af te wegen belangen heeft vergaard, deze belangen zorgvuldig heeft afgewogen en een correcte procedure heeft gevolgd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister neemt op basis van het concept-plaatsingsplan voorgenomen besluiten met betrekking tot de bij de reorganisatie betrokken rechterlijke ambtenaren en doet betrokkenen deze toekomen.
 
@@ -108,11 +133,11 @@ De plaatsingsadviescommissie stelt het concept-plaatsingsplan op en doet dit aan
 
 3. De plaatsingsadviescommissie hoort de betrokken rechterlijk ambtenaar en brengt daaromtrent advies uit aan Onze Minister. Zij maakt verslag van hetgeen de rechterlijk ambtenaar tijdens het horen naar voren heeft gebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende individuele besluiten tot plaatsing dan wel niet-plaatsing van elk van de betrokken rechterlijke ambtenaren.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister informeert schriftelijk de bij de reorganisatie betrokken rechterlijk ambtenaar die krachtens het plaatsingsplan niet is geplaatst over de resterende termijn gedurende welke getracht zal worden hem te herplaatsen alsmede over de in dat kader te nemen maatregelen om tot een herplaatsing te komen.
 
@@ -120,7 +145,7 @@ Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende i
 
 #### De bezwarenprocedure
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister stelt een bezwarenadviescommissie in die tot taak heeft het gezag dat bevoegd is op het bezwaarschrift te beslissen schriftelijk te adviseren ten aanzien van het bezwaar.
 
@@ -140,7 +165,7 @@ Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende i
 
 #### De plaatsingscriteria
 
-#### Artikel 12
+##### Artikel 12
 
 1. Bij de reorganisatie betrokken rechterlijke ambtenaren wier functie in het kader van de reorganisatie niet wordt opgeheven en wier functie geen deel uitmaakt van een groep van functies worden geplaatst in de eigen functie.
 
@@ -150,11 +175,11 @@ Onze Minister stelt het plaatsingsplan vast, alsmede de hieruit voortvloeiende i
 
 #### Paragraaf 3. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling reorganisaties Rechterlijke Macht betreffende het openbaar ministerie.
 

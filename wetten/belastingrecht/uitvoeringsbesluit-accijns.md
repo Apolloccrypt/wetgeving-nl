@@ -1,13 +1,38 @@
 ---
-title: "Uitvoeringsbesluit accijns"
+title: "Besluit van 20 december 1991, tot vaststelling van het Uitvoeringsbesluit accijns"
 identifier: "BWBR0005360"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005360"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005360"
+soort: "AMvB"
+stam_id: "973473"
+version_id: "12647822"
+internal_id: "C17029691"
+label_id: "944544"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005360/2025-01-01/0"
+intitule_bron: "Stb.1991-754"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-20"
+intitule_in_force: "1991-12-31"
+intitule_status: "goed"
+original_publication: "Stb.2005-689"
+original_signed_date: "2005-12-16"
+original_published_date: "2005-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2005-689"
+entry_into_force_date: "2005-12-16"
+jci_1_3: "jci1.3:c:BWBR0005360&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0005360&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit accijns"
+signed_date: "2005-12-16"
+entry_into_force: "2005-12-16"
 ---
-
 # Besluit van 20 december 1991, tot vaststelling van het Uitvoeringsbesluit accijns
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 oktober 1991, nr. WV 91/343, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen;
@@ -24,13 +49,13 @@ Hebben goedgevonden en verstaan:
 
 ### Afdeling 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit geeft uitvoering aan de [artikelen 1a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=1a), [2, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), [2a, eerste, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), [2e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2e), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5), [41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=41), [42a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a), [50b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50b), [50d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50d), [50f, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f), [50h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50h), [50i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50i), [50j, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50j), [50k, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50k), [51, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=51), [56, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=56), [64, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64), [64a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64a), [65, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), [66, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66), [66a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66a), [66b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66b), [68, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=68), [69a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69a), [70, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=70), [71, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), [71g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), [71h, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), [75, zesde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75), [80, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=80), [82, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=82), [85, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=85), en [89, eerste lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=89) en [artikel 70 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=70).
 
 ### Afdeling 2. Overbrengen van accijnsgoederen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het brengen, bedoeld in [artikel 2a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een accijnsgoederenplaats naar de in artikel 2a, eerste lid, onderdelen a tot en met f, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.
 
@@ -72,7 +97,7 @@ De vergunninghouder dient daartoe een voorlopig bericht van splitsing in.
 
 15. Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, kan het e-AD, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2025-01-01&g=2025-01-01), op verzoek achterwege blijven indien:
 
@@ -114,11 +139,11 @@ De vergunninghouder dient daartoe een voorlopig bericht van splitsing in.
 
 8. Bij toepassing van het eerste lid is [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=V&afdeling=1&artikel=34&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing.
 
-#### Artikel 2b
+##### Artikel 2b
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het brengen, bedoeld in [artikel 2a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed vanuit een belastingentrepot of door een in een andere lidstaat gevestigde geregistreerde afzender naar de in artikel 2a, tweede lid, onderdelen a tot en met e, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.
 
@@ -128,7 +153,7 @@ Vervallen
 
 4. Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het brengen, bedoeld in artikel 2a, derde lid, van de wet, van een accijnsgoed door een in Nederland gevestigde geregistreerde afzender van de plaats van invoer naar de in artikel 2a, derde lid, onderdelen a tot en met f, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.
 
@@ -154,11 +179,11 @@ De geregistreerde afzender dient daartoe een voorlopig bericht van splitsing in.
 
 7. Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.
 
-#### Artikel 3b
+##### Artikel 3b
 
 Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, onderdeel c, en derde lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), van een accijnsgoed naar een geadresseerde als bedoeld in [artikel 69 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=69), gaan de accijnsgoederen vergezeld van een certificaat van vrijstelling.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2025-01-01&g=2025-01-01) en [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2025-01-01&g=2025-01-01) kan de in artikel 2, eerste lid, bedoelde vergunninghouder van de accijnsgoederenplaats onderscheidenlijk de in artikel 3a, eerste lid, bedoelde geregistreerde afzender, hierna de afzender genoemd, wanneer het EMCS niet beschikbaar is in Nederland, een overbrenging van accijnsgoederen onder een accijnsschorsingsregeling aanvangen op voorwaarde dat:
 
@@ -184,13 +209,13 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 9. In de gevallen, bedoeld in [artikel 2a, eerste lid, onderdelen d en f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), verstrekt de afzender een kopie van het nooddocument, bedoeld in het eerste lid, onderdeel a, aan de aangever.
 
-#### Artikel 3d
+##### Artikel 3d
 
 1. Indien, in de in de [artikelen 2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2025-01-01&g=2025-01-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2025-01-01&g=2025-01-01), en [3a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2025-01-01&g=2025-01-01), bedoelde gevallen, het in die bepalingen bedoelde bericht van ontvangst bij het eindigen van de overbrenging niet binnen de in die bepalingen vastgestelde termijn kan worden ingediend, hetzij omdat het EMCS niet beschikbaar is in Nederland, hetzij omdat de in die bepalingen bedoelde geadresseerde het e-AD nog niet heeft ontvangen als gevolg van het niet beschikbaar zijn van het EMCS in de lidstaat van verzending, dient de geadresseerde, behoudens in naar behoren gerechtvaardigde gevallen, bij de inspecteur een noodbericht van ontvangst in waarin wordt verklaard dat de overbrenging is geëindigd.
 
 2. Zodra het EMCS in Nederland weer beschikbaar komt of de in het eerste lid bedoelde geadresseerde het e-AD heeft ontvangen, dient de geadresseerde onverwijld een bericht van ontvangst in overeenkomstig onderscheidenlijk [artikel 2, veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2025-01-01&g=2025-01-01), [3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2025-01-01&g=2025-01-01), en [3a, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3a&z=2025-01-01&g=2025-01-01). De artikelen 2, vijftiende lid, 3, vierde lid, en 3a, zevende lid zijn van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vergunninghouder van een accijnsgoederenplaats of de in Nederland gevestigde geregistreerde geadresseerde kan verzoeken om toestemming tot het toepassen van rechtstreekse aflevering, bedoeld in [artikel 2a, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a).
 
@@ -224,13 +249,13 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 - c. aan een geregistreerde geadresseerde als bedoeld in [artikel 50a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50a).
 
-#### Artikel 5
+##### Artikel 5
 
 1. In afwijking van de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2&z=2025-01-01&g=2025-01-01), en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2025-01-01&g=2025-01-01), behoeft het door middel van een pijpleiding brengen van minerale oliën vanuit een accijnsgoederenplaats naar een belastingentrepot, alsmede het door middel van een pijpleiding brengen van minerale oliën vanuit een belastingentrepot naar een accijnsgoederenplaats niet te worden aangetoond met een e-AD.
 
 2. Van het brengen, bedoeld in het eerste lid, wordt door de vergunninghouder van de accijnsgoederenplaats maandelijks een opgaaf verstrekt aan de inspecteur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De overbrenging van reeds tot verbruik uitgeslagen accijnsgoederen vanuit Nederland naar een andere lidstaat geschiedt onder dekking van een e-VAD.
 
@@ -252,7 +277,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 10. Het eerste tot en met negende lid zijn niet van toepassing op het vervoer van andere minerale oliën dan bedoeld in [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5).
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De overbrenging, bedoeld in [artikel 2e, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2e), van reeds tot verbruik uitgeslagen accijnsgoederen vanuit een andere lidstaat naar Nederland geschiedt onder dekking van een e-VAD.
 
@@ -268,7 +293,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 7. Het eerste tot en met zesde lid zijn niet van toepassing op het vervoer van andere minerale oliën dan bedoeld in [artikel 5, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=5).
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Indien het EMCS niet beschikbaar is in de lidstaat van verzending, worden de accijnsgoederen vergezeld van het nooddocument met dezelfde gegevens als het voorlopige e-VAD.
 
@@ -294,7 +319,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 ### Afdeling 2a. Gebruik als brandstof in een accijnsgoederenplaats
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Het verbruik, bedoeld in [artikel 2, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), van minerale oliën als brandstof voor het produceren of verwerken van minerale oliën, dient te blijken uit de administratie.
 
@@ -308,7 +333,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 ### Afdeling 2a. Gebruik als brandstof in een accijnsgoederenplaats
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ontheffing, bedoeld in artikel 5, derde lid, onderdeel a, van de wet, vindt uitsluitend toepassing indien uit de administratie van degene die de accijnsgoederen produceert of verwerkt uit andere accijnsgoederen blijkt dat het accijnsbedrag dat eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn geproduceerd of verwerkt en dat de accijns voor deze laatstbedoelde goederen is betaald.
 
@@ -322,7 +347,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 ### Afdeling 2a. Gebruik als brandstof in een accijnsgoederenplaats
 
-#### Artikel 8
+##### Artikel 8
 
 1. De vergunninghouder van een accijnsgoederenplaats moet:
 
@@ -344,7 +369,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 3. Met betrekking tot accijnsgoederenplaatsen waar accijnsgoederen worden geproduceerd of verwerkt, dient de in het eerste lid, onderdeel b, bedoelde administratie tevens de voor de heffing van de accijns van belang zijnde gegevens te bevatten omtrent de inkoop van grondstoffen en van halffabrikaten, alsmede omtrent de productie of verwerking van halffabrikaten en van eindproducten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien degene die om een vergunning voor een accijnsgoederenplaats verzoekt naar het oordeel van de inspecteur niet volledig kan voldoen aan het bepaalde in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2025-01-01&g=2025-01-01), stelt de inspecteur voorwaarden met betrekking tot de locatie en de inrichting van de accijnsgoederenplaats, alsmede met betrekking tot het stelsel van toezicht.
 
@@ -352,7 +377,7 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 ### Afdeling 3. Ontheffing algemene verbodsbepalingen
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De geregistreerde geadresseerde moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.
 
@@ -362,13 +387,13 @@ Bij het brengen, bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, on
 
 - b. de documenten en berichten als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 9b
+##### Artikel 9b
 
 Vervallen
 
 ### Afdeling 1. Accijnsgoederenplaats
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. De geregistreerde afzender moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.
 
@@ -380,7 +405,7 @@ Vervallen
 
 ### Afdeling 4. Fiscaal vertegenwoordiger van de verkoper op afstand
 
-#### Artikel 9d
+##### Artikel 9d
 
 1. De fiscaal vertegenwoordiger, bedoeld in [artikel 50f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f), moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.
 
@@ -392,7 +417,7 @@ Vervallen
 
 ### Afdeling 2. Geregistreerde geadresseerden
 
-#### Artikel 9e
+##### Artikel 9e
 
 1. Degene aan wie toestemming is verleend om accijnszegels aan te vragen moet per toestemming een zegeladministratie voeren.
 
@@ -400,7 +425,7 @@ Vervallen
 
 ### Hoofdstuk III. Wijze van heffing
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bepaalde in [artikel 51, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=51) vindt uitsluitend toepassing met betrekking tot minerale oliën die zijn uitgeslagen uit een accijnsgoederenplaats op basis van een schriftelijke opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor minerale oliën.
 
@@ -412,41 +437,41 @@ Vervallen
 
 ### Afdeling 3a. Gecertificeerde geadresseerden
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vrijstelling van accijns als bedoeld in [artikel 64a, eerste lid, aanhef en onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64a) ter zake van de uitslag tot verbruik van overige alcoholhoudende producten die kennelijk niet zijn bestemd voor inwendig gebruik door de mens wordt verleend voor producten die zijn vermengd met bij ministeriële regeling aangewezen stoffen tot de daarbij te bepalen hoeveelheden.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vrijstelling van accijns als bedoeld in [artikel 64, eerste lid, aanhef en onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64) wordt verleend ter zake van de uitslag tot verbruik van minerale oliën, andere dan minerale oliën van de GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00, die kennelijk niet zijn bestemd te worden gebruikt als brandstof voor verwarming, als motorbrandstof of als grondstof indien de verkoopprijs exclusief accijns en omzetbelasting van de desbetreffende minerale olie hoger is dan de verkoopprijs inclusief accijns en omzetbelasting van de gelijkwaardige soort minerale olie die wordt gebruikt als brandstof.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Vrijstelling van accijns als bedoeld in [artikel 64, eerste lid, aanhef en onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64) ter zake van de uitslag tot verbruik van minerale oliën die in hoogovens met het oog op chemische reductie worden ingespoten als toevoeging aan de steenkool, die wordt gebruikt als voornaamste brandstof, wordt verleend, indien degene die de minerale oliën betrekt in het bezit is van een vergunning van de inspecteur waaruit blijkt dat hij de desbetreffende goederen met vrijstelling mag betrekken met inachtneming van de in het tweede lid opgenomen voorwaarden.
 
 2. In de in het eerste lid bedoelde vergunning kunnen nadere technische en administratieve voorwaarden worden gesteld ter vaststelling van de betrokken hoeveelheid minerale oliën ter zake waarvan vrijstelling wordt gevraagd.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vrijstelling van accijns als bedoeld in [artikel 64, eerste lid, aanhef en onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=64) ter zake van de uitslag tot verbruik van sigaretten en rooktabak die geheel uit andere stoffen dan tabak bestaan en die uitsluitend zijn bestemd om te worden gebruikt voor medicinale doeleinden wordt verleend indien de samenstelling van de sigaretten en de rooktabak en de bestemming ervan blijken uit de kleinhandelsverpakking en de presentatie van het product.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Om de in [artikel 65, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65) bedoelde vergunning te kunnen verkrijgen dient de administratie van degene die om de vergunning verzoekt zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens omtrent alle voor de vrijstelling van accijns van belang zijnde bedrijfshandelingen zijn opgenomen. Daarin moeten in ieder geval de gegevens zijn opgenomen omtrent de betrokken accijnsgoederen en omtrent de daarvan geproduceerde of verwerkte accijnsgoederen en niet-accijnsgoederen, dan wel omtrent het gebruik van de desbetreffende accijnsgoederen.
 
@@ -494,7 +519,7 @@ Vrijstelling van accijns als bedoeld in [artikel 64, eerste lid, aanhef en onder
 
 7. Met betrekking tot het gebruik van de maandverklaring, bedoeld in het zesde lid, onderdeel b, is [artikel 2a, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=2a&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Vrijstelling van accijns ter zake van de uitslag tot verbruik van minerale oliën die worden gebruikt voor de aandrijving van schepen of als scheepsbehoeften aan boord van schepen, wordt verleend indien:
 
@@ -506,11 +531,11 @@ Vrijstelling van accijns ter zake van de uitslag tot verbruik van minerale olië
 
 - d. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de accijnsgoederenplaats in geval van uitslag uit de accijnsgoederenplaats en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie aan boord van het schip.
 
-#### Artikel 19a
+##### Artikel 19a
 
 [Artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing op het verlenen van vrijstelling van accijns ter zake van de uitslag tot verbruik van andere accijnsgoederen dan de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2025-01-01&g=2025-01-01) bedoelde minerale oliën, die worden gebruikt aan boord van schepen in het verkeer van Nederland naar een andere lidstaat, anders dan over de binnenwateren.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Vrijstelling van accijns als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=19&z=2025-01-01&g=2025-01-01) wordt voor lichte olie niet verleend.
 
@@ -518,11 +543,11 @@ Vrijstelling van accijns ter zake van de uitslag tot verbruik van minerale olië
 
 3. Het tweede lid is van overeenkomstige toepassing op producten van GN-code 3824 99 92 (met uitzondering van roestwerende preparaten die aminen als werkzame bestanddelen bevatten en anorganische preparaten voor het oplossen of voor het verdunnen van vernissen of van dergelijke producten) voor zover deze voor de toepassing van het tarief kunnen worden gelijkgesteld met halfzware olie of gasolie alsmede van de GN-codes 3826 00 10 en 3826 00 90.
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 21a
+##### Artikel 21a
 
 Vrijstelling van accijns ter zake van de uitslag tot verbruik van accijnsgoederen, andere dan voor de voortstuwing bestemde minerale olie, die worden gebruikt aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere lidstaat wordt verleend indien:
 
@@ -534,11 +559,11 @@ Vrijstelling van accijns ter zake van de uitslag tot verbruik van accijnsgoedere
 
 - d. een exemplaar op overzichtelijke wijze wordt bewaard bij de administratie van de vergunninghouder van de accijnsgoederenplaats in geval van uitslag uit de accijnsgoederenplaats en bij de administratie van degene die de aangifte tot plaatsing onder de douaneregeling brengen in het vrije verkeer doet, in geval van invoer. Het andere exemplaar wordt op overzichtelijke wijze bewaard bij de administratie van de eigenaar of exploitant van het luchtvaartuig.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Vrijstelling van accijns ter zake van de uitslag tot verbruik van accijnsgoederen die worden gebruikt voor onderzoek, kwaliteitscontroles en smaaktesten buiten een accijnsgoederenplaats wordt verleend indien de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden uitgeslagen dan wel degene die de goederen invoert, in het bezit is van een vergunning van de inspecteur waaruit blijkt dat hij de desbetreffende accijnsgoederen met vrijstelling mag uitslaan dan wel invoeren.
 
@@ -560,11 +585,11 @@ Vervallen
 
 ### Afdeling 2. Teruggaven
 
-#### Artikel 24
+##### Artikel 24
 
 Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65) zouden kunnen worden betrokken met vrijstelling, is [artikel 18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=18&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Teruggaaf van accijns voor accijnsgoederen waarvoor op de voet van de [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66) en [66a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=66a) aanspraak op een vrijstelling zou bestaan, wordt verleend indien:
 
@@ -578,19 +603,19 @@ Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen
 
 2. Bij de toepassing van het eerste lid is [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=1&artikel=20&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing voor zover het minerale oliën betreft die worden gebruikt voor de aandrijving van schepen of als scheepsbehoeften aan boord van schepen.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Teruggaaf van accijns voor accijnsgoederen die zijn verloren gegaan wordt verleend indien de goederen tot een bedrijfsvoorraad behoren en de belanghebbende onverwijld nadat is geconstateerd dat de accijnsgoederen zijn verloren gegaan, daarvan melding doet bij de inspecteur.
 
@@ -598,19 +623,19 @@ Vervallen
 
 3. Teruggaaf wordt uitsluitend verleend indien het verloren gaan van de accijnsgoederen is te wijten aan overmacht of ongeval.
 
-#### Artikel 29
+##### Artikel 29
 
 Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde accijnsgoederen is [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=IV&afdeling=2&artikel=28&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 Teruggaaf van accijns voor accijnsgoederen die zijn gebracht naar een derde land, wordt verleend indien in de administratie van degene die verzoekt om teruggaaf van accijns documenten zijn opgenomen die zijn vereist op grond van wettelijke bepalingen als bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746&artikel=1:1), waarmee wordt aangetoond dat de accijnsgoederen ten uitvoer zijn aangegeven en het grondgebied van de Unie hebben verlaten.
 
-#### Artikel 31
+##### Artikel 31
 
 Teruggaaf van accijns voor accijnsgoederen die zijn gebracht binnen een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de accijnsgoederenplaats waarnaar de goederen zijn overgebracht wanneer hij om teruggaaf verzoekt en uit de administratie blijkt dat de goederen in zijn accijnsgoederenplaats zijn opgenomen.
 
-#### Artikel 31a
+##### Artikel 31a
 
 Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die door een gecertificeerde afzender zijn overgebracht in de zin van [artikel 71, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), moet die gecertificeerde afzender:
 
@@ -618,7 +643,7 @@ Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die door ee
 
 - b. het bericht van ontvangst in zijn administratie opnemen.
 
-#### Artikel 31b
+##### Artikel 31b
 
 Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die zijn geleverd in de zin van [artikel 71, eerste lid, onderdeel f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71), moet belanghebbende:
 
@@ -630,13 +655,13 @@ Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die zijn ge
 
 - d. een administratie voeren van de leveringen van de accijnsgoederen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Bij een verzoek om teruggaaf binnen drie maanden na een tariefwijziging van de accijns wordt de teruggaaf ingevolge deze afdeling bij een tariefverhoging naar het daarvóór geldende tarief en bij een tariefverlaging naar het dan geldende tarief verleend, tenzij de belanghebbende aantoont dat de accijns waarvan teruggaaf wordt gevraagd, is voldaan naar het na de tariefverhoging geldende onderscheidenlijk vóór de tariefverlaging gegolden hebbende hogere tarief.
 
 2. Het eerste lid is van overeenkomstige toepassing met betrekking tot een gedeeltelijke teruggaaf van accijns.
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
@@ -644,7 +669,7 @@ Vervallen
 
 ### Afdeling 2. Teruggaven
 
-#### Artikel 34
+##### Artikel 34
 
 1. Van accijnsgoederen, andere dan tabaksproducten die zijn voorzien van de wettelijk voorgeschreven accijnszegels, die worden vervoerd of voorhanden zijn, niet zijnde onder een accijnsschorsingsregeling, wordt aan de hand van bescheiden de herkomst aangetoond.
 
@@ -656,15 +681,15 @@ Vervallen
 
 - b. die bij anderen dan ondernemers voorhanden zijn of door hen worden vervoerd voor eigen behoeften voor zover die accijnsgoederen zich bevinden in de gebruikelijke kleinhandelsverpakking.
 
-#### Artikel 34a
+##### Artikel 34a
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet aan de hand van bescheiden de herkomst kunnen worden aangetoond.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Degene die handel drijft in ruwe tabak dient in het bezit te zijn van een daartoe strekkende vergunning van de inspecteur.
 
@@ -678,15 +703,15 @@ Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet 
 
 ### Afdeling 2. Overige bepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de [artikelen 43 tot en met 50 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=43) van overeenkomstige toepassing.
 
-#### Artikel 38
+##### Artikel 38
 
 In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigste lid, van de Gedelegeerde Verordening Douanewetboek van de Unie of een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie mogen accijnsgoederen met de douanestatus van Uniegoederen als bedoeld in artikel 5, drieëntwintigste lid, van het Douanewetboek van de Unie voorhanden zijn die voor uitvoer zijn vrijgegeven en die in afwachting van het verlaten van de Unie worden opgeslagen in een douane-entrepot, met toepassing van artikel 237, derde lid, van het Douanewetboek van de Unie, in samenhang met artikel 177 van de Gedelegeerde Verordening Douanewetboek van de Unie.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De opslagruimte van een particulier douane-entrepot als bedoeld in artikel 240, tweede lid, van het Douanewetboek van de Unie kan voor de opslag van accijnsgoederen als accijnsgoederenplaats worden aangewezen.
 
@@ -696,7 +721,7 @@ In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigst
 
 4. Voor de in het derde lid bedoelde overbrengingen is geen e-AD vereist.
 
-#### Artikel 39a
+##### Artikel 39a
 
 1. De inspecteur kan toestaan dat de vervoerder, de eigenaar of de gecertificeerde afzender, bedoeld in artikel 56, derde lid, van de wet, zekerheid stelt in plaats van de vergunninghouder van een accijnsgoederenplaats, de geregistreerde afzender of de gecertificeerde geadresseerde, indien hiertoe een gezamenlijk verzoek van die vervoerder, eigenaar of gecertificeerde afzender en die vergunninghouder, geregistreerde afzender of gecertificeerde geadresseerde wordt ingediend.
 
@@ -712,19 +737,19 @@ In een publiek douane-entrepot type II als bedoeld in artikel 1, drieëndertigst
 
 ### Afdeling 1. Controlebepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
 ### Afdeling 1. Controlebepalingen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
 ### Hoofdstuk VII. Strafbepalingen
 
-#### Artikel 42
+##### Artikel 42
 
 Strafbare feiten zijn:
 
@@ -742,7 +767,7 @@ Strafbare feiten zijn:
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Dit besluit treedt in werking op het tijdstip waarop de [Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251) in werking treedt.
 
@@ -750,7 +775,7 @@ Strafbare feiten zijn:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Teruggaaf van accijns voor minerale oliën die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, wordt verleend aan degene die de minerale oliën overeenkomstig het vorenstaande heeft gebruikt.
 
@@ -774,7 +799,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 33a
+##### Artikel 33a
 
 Vervallen
 
@@ -792,11 +817,11 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 1a
+##### Artikel 1a
 
 In dit besluit wordt verstaan onder:
 
@@ -834,7 +859,7 @@ In dit besluit wordt verstaan onder:
 
 ### Afdeling 2. Overbrengen van accijnsgoederen
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Niettegenstaande [artikel 3d](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=3d&z=2025-01-01&g=2025-01-01) vormt in de gevallen, bedoeld in [artikel 2a, eerste, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), het bericht van ontvangst of het bericht van uitvoer het bewijs dat een overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2b) is geëindigd.
 
@@ -862,7 +887,7 @@ In dit besluit wordt verstaan onder:
 
 ### Afdeling 3. Ontheffing algemene verbodsbepalingen
 
-#### Artikel 8a
+##### Artikel 8a
 
 Onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=II&afdeling=1&artikel=8&z=2025-01-01&g=2025-01-01), moet de administratie van de vergunninghouder van een accijnsgoederenplaats als bedoeld in [artikel 42a, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=42a) in ieder geval bevatten de regelmatige aantekening van:
 
@@ -884,7 +909,7 @@ Onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ### Afdeling 4. Fiscaal vertegenwoordiger en afzender die in een andere lidstaat een zelfstandige economische activiteit verricht
 
-#### Artikel 21b
+##### Artikel 21b
 
 1. De vrijstelling, bedoeld in artikel 66b, eerste en tweede lid, van de wet, wordt verleend indien wordt aangetoond dat de accijnsgoederen worden meegevoerd in de persoonlijke bagage van de reizigers, bedoeld in artikel 66b, eerste lid, van de wet, dan wel worden geleverd op de in artikel 66b, tweede lid, van de wet bedoelde wijze.
 
@@ -900,11 +925,11 @@ Onverminderd [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 ### Afdeling 2. Teruggaven
 
-#### Artikel 31c
+##### Artikel 31c
 
 Vervallen
 
-#### Artikel 31d
+##### Artikel 31d
 
 Het verzoek om teruggaaf, bedoeld in [artikel 71g van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71g), wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin het vloeibaar gemaakt petroleumgas is geleverd.
 
@@ -926,7 +951,7 @@ Het verzoek om teruggaaf, bedoeld in [artikel 71g van de wet](https://wetten.ove
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 31e
+##### Artikel 31e
 
 1. Teruggaaf van accijns als bedoeld in [artikel 71h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=71h), wordt slechts verleend indien de motorbrandstof wordt gebruikt voor het aandrijven van motorrijtuigen.
 
@@ -956,7 +981,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 9f
+##### Artikel 9f
 
 1. In de in [artikel 75, eerste lid, onderdelen c en d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=75) bedoelde gevallen kunnen tabaksproducten worden uitgeslagen tot verbruik door een ander dan degene die de accijnszegels heeft aangevraagd.
 
@@ -978,7 +1003,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 31f
+##### Artikel 31f
 
 Vervallen
 
@@ -992,7 +1017,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De vergunning, bedoeld in [artikel 65, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), is niet vereist in geval alcoholhoudende restproducten worden gebruikt als grondstof voor het produceren van diervoeder ten behoeve van dieren aanwezig op de boerderij van de ontvanger en indien de ontvanger een verklaring heeft overgelegd aan degene die de alcoholhoudende restproducten aan hem gaat leveren.
 
@@ -1026,13 +1051,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 6aa
+##### Artikel 6aa
 
 1. De overbrenging van in Nederland reeds tot verbruik uitgeslagen accijnsgoederen via het grondgebied van een andere lidstaat naar een bestemming in Nederland vindt plaats onder dekking van een e-VAD. De [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6&z=2025-01-01&g=2025-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6a&z=2025-01-01&g=2025-01-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6b&z=2025-01-01&g=2025-01-01), [6ba](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6ba&z=2025-01-01&g=2025-01-01) en [6bb](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6bb&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing.
 
 2. De overbrenging van accijnsgoederen die in een andere lidstaat tot verbruik zijn uitgeslagen en waarvan in Nederland de accijns niet is geheven via het grondgebied van Nederland naar een bestemming in die andere lidstaat, vindt plaats onder dekking van een e-VAD.
 
-#### Artikel 6ba
+##### Artikel 6ba
 
 1. Indien de gecertificeerde geadresseerde het bericht van ontvangst niet kan indienen overeenkomstig [artikel 6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6a&z=2025-01-01&g=2025-01-01), omdat het EMCS niet beschikbaar is in Nederland of hij het e-VAD nog niet heeft ontvangen omdat het EMCS niet beschikbaar is in de lidstaat van verzending, zendt hij de inspecteur een noodbericht van ontvangst waarin hij verklaart dat de overbrenging is geëindigd. Het zenden van een bericht van ontvangst is niet nodig in naar behoren gerechtvaardigde gevallen.
 
@@ -1040,7 +1065,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Indien Nederland de lidstaat van verzending is, ontvangt de gecertificeerde afzender van de inspecteur een afschrift van het bericht van ontvangst wanneer de gecertificeerde geadresseerde in een andere lidstaat het bericht van ontvangst alsnog via het EMCS heeft ingediend.
 
-#### Artikel 6bb
+##### Artikel 6bb
 
 1. Onverminderd het bepaalde in [artikel 6ba, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005360&hoofdstuk=I&afdeling=2&artikel=6ba&z=2025-01-01&g=2025-01-01), vormt het vereiste bericht van ontvangst, het bewijs dat de accijnsgoederen aan de gecertificeerde geadresseerde zijn geleverd.
 
@@ -1050,7 +1075,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Indien de aftekening is aanvaard door de lidstaat van verzending, geldt dit als afdoende bewijs dat de gecertificeerde geadresseerde alle noodzakelijke formaliteiten heeft vervuld en verschuldigde accijns in de lidstaat van bestemming heeft betaald.
 
-#### Artikel 6b
+##### Artikel 6b
 
 Vervallen
 
@@ -1058,7 +1083,7 @@ Vervallen
 
 ### Hoofdstuk II. Vergunningen
 
-#### Artikel 9ca
+##### Artikel 9ca
 
 1. De gecertificeerde geadresseerde moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.
 
@@ -1074,7 +1099,7 @@ Vervallen
 
 ### Afdeling 3b. Gecertificeerde afzenders
 
-#### Artikel 9cb
+##### Artikel 9cb
 
 1. De gecertificeerde afzender moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.
 
@@ -1086,7 +1111,7 @@ Vervallen
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de vergunninghouder van een accijnsgoederenplaats of de geregistreerde afzender die optreedt als gecertificeerde afzender.
 
-#### Artikel 9da
+##### Artikel 9da
 
 1. De afzender, bedoeld in [artikel 50f, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=50f), die geen fiscaal vertegenwoordiger aanstelt, neemt in zijn melding bij de inspecteur in ieder geval het volgende op:
 
@@ -1104,7 +1129,7 @@ Vervallen
 
 ### Afdeling 1. Vrijstellingen
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. De vergunning, bedoeld in [artikel 65, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=65), is niet vereist voor alcohol en alcoholhoudende dranken indien zij in ziekenhuizen of apotheken worden gebruikt voor medische doeleinden en de ontvanger een zodanig gebruik bevestigende verklaring heeft overgelegd aan degene die de alcohol en alcoholhoudende dranken aan hem gaat leveren.
 
@@ -1182,7 +1207,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 3e
+##### Artikel 3e
 
 1. Indien, in de gevallen, bedoeld in [artikel 2a, tweede lid, onderdelen d en e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2a), het EMCS niet beschikbaar is in de lidstaat van verzending, ontvangt de aangever van de afzender een kopie van het nooddocument.
 

@@ -1,13 +1,38 @@
 ---
 title: "Regeling klachtenbehandeling gezondheidszorg Defensie 2016"
 identifier: "BWBR0039064"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039064"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039064"
+soort: "ministeriele-regeling"
+stam_id: "13865303"
+version_id: "23806692"
+internal_id: "C34250061"
+label_id: "13830754"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039064/2017-01-01/0"
+intitule_bron: "Stcrt.2017-756"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-21"
+intitule_published: "2017-01-09"
+intitule_in_force: "2017-01-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-756"
+original_signed_date: "2016-12-21"
+original_published_date: "2017-01-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-756"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0039064&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0039064&g=2017-01-01"
+citeertitel_status: "officieel"
+signed_date: "2016-12-21"
+entry_into_force: "2017-01-01"
 ---
-
 # Regeling klachtenbehandeling gezondheidszorg Defensie 2016
 
 Gelet op: de [Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173).
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +63,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Klachtenfunctionaris
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Commandant Defensie Gezondheidszorg Organisatie wijst voor ieder onderdeel van de militair geneeskundige dienst waar gezondheidszorg wordt verleend een of meer daartoe geschikt te achten personen aan als klachtenfunctionaris.
 
@@ -52,7 +77,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Klachtencommissie en klachtbehandeling
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Secretaris-Generaal stelt voor de behandeling van klachten een klachtencommissie gezondheidszorg Defensie, hierna: klachtencommissie, in.
 
@@ -66,7 +91,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien blijkt dat een klacht betrekking heeft op zorg verleend in samenhang met de zorgverlening door of vanwege de zorgaanbieder, doch door een zorgverlener die niet werkzaam is onder het gezag van de militair geneeskundige dienst, wordt de klacht behandeld op grond van deze Regeling, als bedoeld in [artikel 7.3 van het Uitvoeringsbesluit Wkkgz](https://wetten.overheid.nl/jci1.3:c:BWBR0037262&artikel=7.3).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De klachtencommissie bestaat uit minimaal drie en maximaal zeven leden, onder wie de voorzitter.
 
@@ -74,7 +99,7 @@ In deze regeling wordt verstaan onder:
 
 3. Aan de klachtencommissie wordt een secretariaat toegevoegd, dat is belast met de voorbereiding van de klachtbehandeling alsmede de administratieve ondersteuning van de klachtencommissie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden worden voor een periode van vijf jaar benoemd.
 
@@ -86,11 +111,11 @@ In deze regeling wordt verstaan onder:
 
 5. De klachtencommissie stelt mede ten behoeve van de Secretaris-Generaal een rooster van aftreden op van de leden en hun plaatsvervangers.
 
-#### Artikel 6
+##### Artikel 6
 
 De klachtencommissie draagt er voor zorg dat de privacy van de cliënt en degene over wie wordt geklaagd alsmede de geheimhouding van de medische gegevens zijn gewaarborgd en legt de wijze waarop dit gebeurt vast in het in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=3&artikel=3&z=2017-01-01&g=2017-01-01), bedoelde reglement.
 
-#### Artikel 7
+##### Artikel 7
 
 De klachtencommissie heeft de volgende taken:
 
@@ -112,7 +137,7 @@ De klachtencommissie heeft de volgende taken:
 
 - f. het, voor zover nodig, ter uitvoering van haar taken zorg dragen voor een goede afstemming van haar werkzaamheden met andere daarvoor in aanmerking komende instanties die een taak hebben in de opvang van klachten van cliënten.
 
-#### Artikel 8
+##### Artikel 8
 
 De klachtencommissie heeft ter uitvoering van haar functie de volgende bevoegdheden:
 
@@ -126,7 +151,7 @@ De klachtencommissie heeft ter uitvoering van haar functie de volgende bevoegdhe
 
 #### § 4. Het indienen en behandelen van klachten
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een klacht kan door of namens de cliënt worden ingediend.
 
@@ -136,13 +161,13 @@ De klachtencommissie heeft ter uitvoering van haar functie de volgende bevoegdhe
 
 4. Klachten waarin een verzoek om schadevergoeding is begrepen dienen te worden ingediend bij de Directie Juridische Dienstverlening van het Commando Dienstencentra, dan wel bij de in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=5&z=2017-01-01&g=2017-01-01) bedoelde Geschillencommissie, bij de laatstgenoemde instantie voor zover de vordering het bedrag van € 25.000 niet overstijgt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De klacht wordt bij voorkeur in eerste instantie kenbaar gemaakt aan degene(n) tegen wie de klacht is gericht om te trachten op directe wijze tot een oplossing te komen.
 
 2. De cliënt kan hierbij desgewenst de bemiddelende hulp inroepen van de klachtenfunctionaris.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De cliënt kan de klacht schriftelijk indienen bij het secretariaat van de klachtencommissie indien de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=4&artikel=10&z=2017-01-01&g=2017-01-01) niet tot een oplossing leidt, dan wel van hem in redelijkheid niet kan worden verlangd dat hij onder de gegeven omstandigheden zijn klacht op die wijze aanhangig maakt.
 
@@ -152,21 +177,21 @@ De klachtencommissie heeft ter uitvoering van haar functie de volgende bevoegdhe
 
 4. De klachtencommissie past [artikel 2 lid 6](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=2&artikel=2&z=2017-01-01&g=2017-01-01) in voorkomend geval overeenkomstig toe.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de behandeling van een klacht wordt niet deelgenomen door een persoon op wiens gedraging de klacht rechtstreeks betrekking heeft.
 
-#### Artikel 13
+##### Artikel 13
 
 De cliënt, degene over wie wordt geklaagd alsmede bij de procedure betrokkenen die naar het oordeel van de klachtencommissie moeten worden gehoord, worden door de klachtencommissie in de gelegenheid gesteld mondeling of schriftelijk een toelichting te geven op de gedraging waarover wordt geklaagd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De cliënt brengt de klachtencommissie onverwijld op de hoogte indien hij besluit om de klacht geheel of gedeeltelijk in te trekken; de klachtencommissie licht de cliënt desgevraagd voor over de gevolgen ervan.
 
 2. Nadat de cliënt zijn besluit schriftelijk heeft bevestigd, sluit de klachtencommissie de zaak af met een schriftelijk bericht aan de cliënt en aan degene over wie is geklaagd, onder vermelding van de reden van afsluiting. De zorgaanbieder en de Inspecteur Militaire Gezondheidszorg ontvangen een geanonimiseerde mededeling, in voorkomend geval voorzien van een gemotiveerd advies om aandacht te besteden aan de onderhavige problematiek.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De behandeling van de klacht door de klachtencommissie kan resulteren in één van de volgende oordelen:
 
@@ -180,23 +205,23 @@ De cliënt, degene over wie wordt geklaagd alsmede bij de procedure betrokkenen 
 
 3. Zo nodig verwijst de klachtencommissie de cliënt naar een andere instantie die bevoegd is om de klacht te behandelen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De klachtencommissie informeert de cliënt, degene over wie is geklaagd en de zorgaanbieder uiterlijk binnen zes weken na indiening van een schriftelijke klacht over het in [artikel 7 onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=3&artikel=7&z=2017-01-01&g=2017-01-01). bedoelde oordeel. Indien het vereiste zorgvuldige onderzoek van een schriftelijke klacht daartoe noodzaakt, kan de klachtencommissie deze termijn met ten hoogste vier weken verlengen. De klachtencommissie doet daarvan voor het verstrijken van de termijn schriftelijk mededeling aan de cliënt, degene over wie is geklaagd en de zorgaanbieder.
 
 2. De zorgaanbieder informeert de cliënt en degene over wie is geklaagd binnen de in het eerste lid genoemde, in voorkomend geval verlengde, termijn schriftelijk omtrent de beslissingen die de zorgaanbieder naar aanleiding van de klacht heeft genomen en binnen welke termijn maatregelen waartoe is besloten, zullen zijn gerealiseerd.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor de toepassing van de [artikelen 7, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=3&artikel=7&z=2017-01-01&g=2017-01-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=4&artikel=11&z=2017-01-01&g=2017-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=4&artikel=13&z=2017-01-01&g=2017-01-01), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=4&artikel=14&z=2017-01-01&g=2017-01-01) en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039064&paragraaf=4&artikel=16&z=2017-01-01&g=2017-01-01), wordt onder ‘schriftelijk’ mede verstaan: op elektronische wijze.
 
-#### Artikel 18
+##### Artikel 18
 
 Het gestelde in deze paragraaf laat de bevoegdheid van cliënt om de klacht aan andere bevoegde instanties voor te leggen onverlet.
 
 #### § 5. Geschillencommissie Defensie Geneeskundige Zorg
 
-#### Artikel 19
+##### Artikel 19
 
 1. De cliënt kan een geschil over de zorgaanbieder en/of over een gedraging van een binnen de militair geneeskundige dienst werkzame persoon jegens een cliënt in het kader van de zorgverlening door of vanwege de zorgaanbieder, over de behandeling van klachten als bedoeld in deze regeling, alsmede over een vergoeding wegens geleden schade, tot een bedrag van € 25.000, voorleggen aan de geschillencommissie.
 
@@ -208,20 +233,20 @@ Het gestelde in deze paragraaf laat de bevoegdheid van cliënt om de klacht aan 
 
 #### § 6. Toezicht door de Inspecteur Militaire Gezondheidszorg
 
-#### Artikel 20
+##### Artikel 20
 
 De Inspecteur Militaire Gezondheidszorg ziet toe op de uitvoering van deze Regeling en rapporteert daaromtrent jaarlijks en wanneer de omstandigheden daartoe aanleiding geven aan de Minister.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 De [Regeling klachtenbehandeling gezondheidszorginstellingen Defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0021066) wordt ingetrokken.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze regeling treedt in werking met ingang van 1 januari 2017.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze regeling wordt aangehaald als: Regeling klachtenbehandeling gezondheidszorg Defensie 2016.

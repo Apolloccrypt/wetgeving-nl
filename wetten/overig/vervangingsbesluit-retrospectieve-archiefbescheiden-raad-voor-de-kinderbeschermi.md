@@ -1,13 +1,38 @@
 ---
 title: "Vervangingsbesluit retrospectieve archiefbescheiden Raad voor de Kinderbescherming 2024"
 identifier: "BWBR0050234"
-categorie: "Overig"
-publicatiedatum: 2024-09-28
-laatste_update: 2024-09-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050234"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-09-28"
+last_updated: "2024-09-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050234"
+soort: "ministeriele-regeling"
+stam_id: "17228523"
+version_id: "30342702"
+internal_id: "C43520831"
+label_id: "17134294"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050234/2024-09-28/0"
+intitule_bron: "Stcrt.2024-31686"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-08-13"
+intitule_published: "2024-09-27"
+intitule_in_force: "2024-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-31686"
+original_signed_date: "2024-08-13"
+original_published_date: "2024-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-31686"
+entry_into_force_date: "2024-09-28"
+jci_1_3: "jci1.3:c:BWBR0050234&z=2024-09-28&g=2024-09-28"
+jci_1_0: "1.0:c:BWBR0050234&g=2024-09-28"
+citeertitel_status: "officieel"
+signed_date: "2024-08-13"
+entry_into_force: "2024-09-28"
 ---
-
 # Vervangingsbesluit retrospectieve archiefbescheiden Raad voor de Kinderbescherming 2024
 
 Gelet op:
@@ -20,7 +45,7 @@ De regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 6 december 
 
 Besluit(en):
 
-#### Artikel 1
+##### Artikel 1
 
 1. Over te gaan tot vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van de vigerende ‘[Selectielijst van het Ministerie van Justitie en Veiligheid en rechtsvoorgangers vanaf 5 mei 1945](onbekend)’ voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
@@ -30,11 +55,11 @@ Besluit(en):
 
 4. Het publiceren van het handboek op [www.kinderbescherming.nl](http://www.kinderbescherming.nl) ter inzage voor burgers en andere organisaties.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dag van bekendmaking van dit besluit in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: ‘Vervangingsbesluit retrospectieve archiefbescheiden Raad voor de Kinderbescherming 2024’.
 

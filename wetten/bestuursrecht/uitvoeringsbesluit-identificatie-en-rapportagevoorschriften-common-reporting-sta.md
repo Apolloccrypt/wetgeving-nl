@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard"
+title: "Besluit van 23 december 2015, houdende identificatie- en rapportagevoorschriften voor rapporterende financiële instellingen met het oog op de automatische uitwisseling van inlichtingen op basis van de Common Reporting Standard (Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard)"
 identifier: "BWBR0037469"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037469"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037469"
+soort: "AMvB"
+stam_id: "13372273"
+version_id: "22928862"
+internal_id: "C33154721"
+label_id: "13340134"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037469/2025-12-12/0"
+intitule_bron: "Stb.2015-546"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-23"
+intitule_published: "2015-12-30"
+intitule_in_force: "2015-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2015-546"
+original_signed_date: "2015-12-23"
+original_published_date: "2015-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-546"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037469&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0037469&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard"
+signed_date: "2015-12-23"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van 23 december 2015, houdende identificatie- en rapportagevoorschriften voor rapporterende financiële instellingen met het oog op de automatische uitwisseling van inlichtingen op basis van de Common Reporting Standard (Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard)
 
 Op de voordracht van de Staatssecretaris van Financiën van 24 november 2015, nr. DB/2015/408 U;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikelen 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10a), [10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b) en [10c van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10c).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. Dit besluit verstaat onder:
 
@@ -52,7 +78,7 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 3. Voor de toepassing van dit besluit en de daarop berustende bepalingen hebben, waar direct of indirect wordt verwezen naar de bepalingen in de bijlagen I en II van [Richtlijn 2011/16](32011L0016)/EU, in de desbetreffende bepalingen de begrippen te rapporteren persoon, te rapporteren rekening en passieve NFE de betekenis die deze hebben volgens [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=2a).
 
-#### Artikel 3. Eigen verklaring
+##### Artikel 3. Eigen verklaring
 
 1. Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt onder een eigen verklaring verstaan een gedagtekende en ondertekende verklaring van een rekeninghouder of van een uiteindelijk belanghebbende van een passieve NFE met daarin opgenomen ten minste de volgende gegevens ten aanzien van de rekeninghouder of de uiteindelijk belanghebbende:
 
@@ -72,7 +98,7 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 ### Hoofdstuk 2. Identificatie- en rapportagevoorschriften
 
-#### Artikel 4. Bestaande rekening van een natuurlijk persoon
+##### Artikel 4. Bestaande rekening van een natuurlijk persoon
 
 1. Een rapporterende financiële instelling volgt met betrekking tot lagewaarderekeningen, met inachtneming van bijlage II, onder 1, van [Richtlijn 2011/16](32011L0016)/EU, de procedures die zijn opgenomen in bijlage I, deel III, onderdeel B, van [Richtlijn 2011/16](32011L0016)/EU om vast te stellen of sprake is van te rapporteren rekeningen.
 
@@ -84,7 +110,7 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 5. Een rapporterende financiële instelling mag nadat zij op basis van een wijziging van omstandigheden weet of redenen heeft om te weten dat de fiscale woonstaat van de rekeninghouder is of kan zijn gewijzigd, nog gedurende 90 dagen uitgaan van de fiscale woonstaat van de rekeninghouder zoals die is vastgesteld vóór de wijziging van omstandigheden.
 
-#### Artikel 5. Nieuwe rekening van een natuurlijk persoon
+##### Artikel 5. Nieuwe rekening van een natuurlijk persoon
 
 1. Een rapporterende financiële instelling verkrijgt, met inachtneming van bijlage I, deel IV, onderdeel A, van [Richtlijn 2011/16](32011L0016)/EU, bij het openen van een nieuwe rekening door een natuurlijk persoon een eigen verklaring van de rekeninghouder.
 
@@ -96,7 +122,7 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 5. Indien een rapporterende financiële instelling met betrekking tot een nieuwe rekening als gevolg van bijzondere omstandigheden niet tijdig een eigen verklaring kan verkrijgen om voor de rapportageperiode waarin die rekening is geopend aan haar verplichtingen op grond van het eerste tot en met vierde lid en de [artikelen 10b tot en met 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10) te voldoen, volgt zij met betrekking tot die rekening de procedures die zijn opgenomen in bijlage I, deel III, van [Richtlijn 2011/16/EU](32011L0016) totdat zij die eigen verklaring heeft verkregen en de juistheid daarvan heeft bevestigd.
 
-#### Artikel 6. Bestaande entiteitsrekening
+##### Artikel 6. Bestaande entiteitsrekening
 
 1. Een rapporterende financiële instelling volgt met betrekking tot bestaande entiteitsrekeningen de procedures die zijn opgenomen in bijlage I, deel V, onderdeel D, van [Richtlijn 2011/16](32011L0016)/EU om, met inachtneming van bijlage I, deel VII, onderdeel C, onder 2, van die richtlijn, vast te stellen of sprake is van te rapporteren rekeningen. Indien een rapporterende financiële instelling bij de toepassing van de procedure, bedoeld in bijlage I, deel V, onderdeel D, onder 2, onderdeel a, van [Richtlijn 2011/16](32011L0016)/EU, de status van de rekeninghouder als actieve NFE, passieve NFE of financiële instelling niet kan vaststellen, merkt deze de rekeninghouder aan als passieve NFE. Indien een rapporterende financiële instelling bij de toepassing van de procedure, bedoeld in bijlage I, deel V, onderdeel D, onder 2, onderdeel c, onder ii, van [Richtlijn 2011/16](32011L0016)/EU, geen eigen verklaring van de rekeninghouder of de uiteindelijk belanghebbende verkrijgt, past deze de procedure, bedoeld in bijlage I, deel III, onderdeel B, onder 2, van [Richtlijn 2011/16](32011L0016)/EU, toe om vast te stellen of de uiteindelijk belanghebbende een te rapporteren persoon is.
 
@@ -112,7 +138,7 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 4. Een rapporterende financiële instelling voltooit de procedures, bedoeld in het derde lid, vóór het eind van het kalenderjaar waarin de wijziging van omstandigheden, bedoeld in dat lid, zich voordoet, dan wel, indien dit later is, uiterlijk 90 dagen nadat deze weet of redenen heeft om te weten dat sprake is van een wijziging van omstandigheden. Indien een rapporterende financiële instelling geen actuele eigen verklaring of redelijke uitleg en, waar nodig, aanvullende bewijsstukken als bedoeld in het derde lid, onderdeel a, verkrijgt, merkt deze de rekeninghouder, bedoeld in het derde lid, onderdeel a, aan als inwoner van zowel het rechtsgebied waarvan diens inwonerschap is vastgesteld vóór de wijziging van omstandigheden als het rechtsgebied waarin de rekeninghouder als gevolg van de wijziging van omstandigheden fiscaal woonachtig zou kunnen zijn. Indien een rapporterende financiële instelling geen actuele eigen verklaring of aanvullende bewijsstukken als bedoeld in het derde lid, onderdeel b, verkrijgt, merkt deze de rekeninghouder, bedoeld in het derde lid, onderdeel b, aan als passieve NFE. Indien een rapporterende financiële instelling geen actuele eigen verklaring of redelijke uitleg en, waar nodig, aanvullende bewijsstukken als bedoeld in het derde lid, onderdeel c, verkrijgt, past deze de procedure, bedoeld in bijlage I, deel III, onderdeel B, onder 2, van [Richtlijn 2011/16](32011L0016)/EU, toe om vast te stellen of de uiteindelijk belanghebbende, bedoeld in het derde lid, onderdeel c, een te rapporteren persoon is.
 
-#### Artikel 7. Nieuwe entiteitsrekening
+##### Artikel 7. Nieuwe entiteitsrekening
 
 1. Een rapporterende financiële instelling volgt met betrekking tot nieuwe entiteitsrekeningen, met inachtneming van bijlage II, onder 2, van [Richtlijn 2011/16](32011L0016)/EU, de procedures die zijn opgenomen in bijlage I, deel VI, van [Richtlijn 2011/16](32011L0016)/EU om vast te stellen of sprake is van te rapporteren rekeningen.
 
@@ -120,13 +146,13 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 3. Indien een rapporterende financiële instelling met betrekking tot een nieuwe rekening als gevolg van bijzondere omstandigheden niet tijdig een eigen verklaring kan verkrijgen om voor de rapportageperiode waarin die rekening is geopend aan haar verplichtingen op grond van het eerste en tweede lid en de [artikelen 10b tot en met 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b) te voldoen, volgt zij met betrekking tot die rekening de procedures die zijn opgenomen in bijlage I, deel V, van [Richtlijn 2011/16/EU](32011L0016) totdat zij die eigen verklaring heeft verkregen en de juistheid daarvan heeft bevestigd.
 
-#### Artikel 8. Kapitaal- of lijfrenteverzekering en groepskapitaal- of groepslijfrenteverzekering
+##### Artikel 8. Kapitaal- of lijfrenteverzekering en groepskapitaal- of groepslijfrenteverzekering
 
 1. Een rapporterende financiële instelling mag met betrekking tot een kapitaalverzekering of lijfrenteverzekering de alternatieve procedures die zijn opgenomen in bijlage I, deel VII, onderdeel B, eerste alinea, van [Richtlijn 2011/16](32011L0016)/EU toepassen om vast te stellen of sprake is van een te rapporteren rekening.
 
 2. Een rapporterende financiële instelling mag met betrekking tot een groepskapitaalverzekering of groepslijfrenteverzekering de alternatieve procedures die zijn opgenomen in bijlage I, deel VII, onderdeel B, tweede alinea, van [Richtlijn 2011/16](32011L0016)/EU toepassen om vast te stellen of sprake is van een te rapporteren rekening.
 
-#### Artikel 9. Nadere identificatie- en rapportagevoorschriften
+##### Artikel 9. Nadere identificatie- en rapportagevoorschriften
 
 1. Een financiële rekening is een te rapporteren rekening met ingang van het tijdstip waarop deze krachtens de identificatievoorschriften, bedoeld in dit hoofdstuk, als zodanig wordt aangemerkt en tot het tijdstip waarop deze rekening niet meer als een te rapporteren rekening kan worden aangemerkt.
 
@@ -138,17 +164,17 @@ Dit besluit en de daarop berustende bepalingen geeft uitvoering aan de [artikele
 
 5. Een rapporterende financiële instelling legt vast welke stappen zij heeft gezet en op welke bewijsmiddelen zij heeft vertrouwd bij de uitvoering van de identificatie- en rapportagevoorschriften die voortvloeien uit de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954) en dit besluit. Een rapporterende financiële instelling bewaart die vastlegging en de bewijsmiddelen ten minste zeven jaren maar niet langer dan noodzakelijk. Onze Minister verkrijgt met het oog op de door Onze Minister te verstrekken informatie, bedoeld in de [artikelen 10b](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b) en [10c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10c), aan rechtsgebieden ten aanzien waarvan het land Nederland een verplichting heeft om die informatie te verstrekken desgevraagd binnen een door hem te stellen termijn en op een door hem te bepalen wijze inzage in die stappen en bewijsmiddelen.
 
-#### Artikel 10. Wijze en tijdstip van gegevensverstrekking
+##### Artikel 10. Wijze en tijdstip van gegevensverstrekking
 
 Een rapporterende financiële instelling verstrekt de gegevens en inlichtingen, bedoeld in de [artikelen 10b tot en met 10f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003954&artikel=10b), op een door Onze Minister voorgeschreven wijze. De gegevens en inlichtingen worden uiterlijk verstrekt op 31 januari van het jaar volgend op het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben. Indien een rapporterende financiële instelling rapporteert over een andere relevante periode dan een kalenderjaar, worden de gegevens en inlichtingen uiterlijk verstrekt op 31 januari van het jaar volgend op het kalenderjaar waarin de laatste dag valt van de periode waarover wordt gerapporteerd. Onze Minister kan toestaan dat wordt afgeweken van de datum van 31 januari, bedoeld in de tweede en derde volzin.
 
 ### Hoofdstuk 3. Overgangsbepalingen
 
-#### Artikel 11. Aanwijzing rechtsgebieden ten behoeve van eerste identificatie
+##### Artikel 11. Aanwijzing rechtsgebieden ten behoeve van eerste identificatie
 
 Een rapporterende financiële instelling stelt bij toepassing van de procedures, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037469&hoofdstuk=2&artikel=4&z=2025-12-12&g=2025-12-12) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0037469&hoofdstuk=2&artikel=6&z=2025-12-12&g=2025-12-12), ook vast of een rekeninghouder van een bestaande rekening of een uiteindelijk belanghebbende van een passieve NFE met een bestaande rekening fiscaal inwoner is van een of meer van de bij ministeriële regeling aan te wijzen rechtsgebieden.
 
-#### Artikel 12. Tijdstip eerste identificatie
+##### Artikel 12. Tijdstip eerste identificatie
 
 1. Voor hogewaarderekeningen wordt uiterlijk op 31 december 2016 voor het eerst vastgesteld of sprake is van een te rapporteren rekening.
 
@@ -158,17 +184,17 @@ Een rapporterende financiële instelling stelt bij toepassing van de procedures,
 
 ### Hoofdstuk 4. Wijziging ander besluit
 
-#### Artikel 13. Wijziging [Uitvoeringsbesluit Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029323)
+##### Artikel 13. Wijziging [Uitvoeringsbesluit Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029323)
 
 Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2016 en vindt voor het eerst toepassing met betrekking tot gegevens en inlichtingen over het kalenderjaar 2016.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit identificatie- en rapportagevoorschriften Common Reporting Standard.
 

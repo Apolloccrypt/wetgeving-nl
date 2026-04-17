@@ -1,20 +1,46 @@
 ---
-title: "Reglement Commissie Onderzoek Passende Zorg 2025"
+title: "Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)"
 identifier: "BWBR0052386"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-03
-laatste_update: 2026-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052386"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-03"
+last_updated: "2026-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052386"
+soort: "zbo"
+stam_id: "17792423"
+version_id: "31457522"
+internal_id: "C44928761"
+label_id: "17690404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052386/2026-03-03/0"
+intitule_bron: "Stcrt.2026-8207"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-21"
+intitule_published: "2026-03-02"
+intitule_in_force: "2026-03-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8207"
+original_signed_date: "2025-11-21"
+original_published_date: "2026-03-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8207"
+entry_into_force_date: "2026-03-03"
+jci_1_3: "jci1.3:c:BWBR0052386&z=2026-03-03&g=2026-03-03"
+jci_1_0: "1.0:c:BWBR0052386&g=2026-03-03"
+citeertitel_status: "officieel"
+short_title: "Reglement Commissie Onderzoek Passende Zorg 2025"
+signed_date: "2025-11-21"
+entry_into_force: "2026-03-03"
 ---
-
 # Besluit van het bestuur van ZonMw van 21 november 2025 en de Raad van Bestuur van Zorginstituut Nederland van 11 november 2025, kenmerk 2025026005, tot vaststelling van het reglement van de Commissie Onderzoek Passende zorg 2025 (Reglement Commissie Onderzoek Passende Zorg 2025)
 
 Gelet op [artikel 4.1, eerste lid, van het Bestuursreglement ZonMw 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0042194&artikel=4.1) en [artikel 5.6 van het Bestuursreglement Zorginstituut Nederland 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0035079&artikel=5);
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 Dit reglement verstaat onder:
 
@@ -74,11 +100,11 @@ Dit reglement verstaat onder:
 
 ### Hoofdstuk 2. Instelling en samenstelling van de commissie
 
-#### Artikel 2.1. Instelling van de commissie
+##### Artikel 2.1. Instelling van de commissie
 
 ZonMw en het Zorginstituut stellen gezamenlijk de Commissie Onderzoek Passende Zorg in.
 
-#### Artikel 2.2. Samenstelling en benoeming van de commissie
+##### Artikel 2.2. Samenstelling en benoeming van de commissie
 
 1. De commissie bestaat uit ten minste acht leden die worden benoemd, geschorst en ontslagen door het bestuur van ZonMw en de Raad van Bestuur van het Zorginstituut gezamenlijk.
 
@@ -106,15 +132,15 @@ ZonMw en het Zorginstituut stellen gezamenlijk de Commissie Onderzoek Passende Z
 
 7. Het lidmaatschap van de commissie is onverenigbaar met het lidmaatschap van het bestuur van ZonMw of de Raad van Bestuur van het Zorginstituut. Ook medewerkers van ZonMw of het Zorginstituut kunnen geen lid zijn van de commissie.
 
-#### Artikel 2.3. Bekendmaking
+##### Artikel 2.3. Bekendmaking
 
 De samenstelling van de commissie en de benoemingsperiode van de leden wordt gepubliceerd op de website van ZonMw en het Zorginstituut.
 
-#### Artikel 2.4. Waarnemers
+##### Artikel 2.4. Waarnemers
 
 De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
-#### Artikel 2.5. Vergoeding
+##### Artikel 2.5. Vergoeding
 
 1. De voorzitter en de leden ontvangen voor hun werkzaamheden een vergoeding per vergadering overeenkomstig het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279).
 
@@ -126,7 +152,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 ### Hoofdstuk 3. Taken van de commissie
 
-#### Artikel 3.1. Adviestaak
+##### Artikel 3.1. Adviestaak
 
 1. De commissie adviseert ZonMw en het Zorginstituut over KPPZ, ViO en ZE&GG.
 
@@ -148,7 +174,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 5. De wijze waarop de commissie de in het tweede en derde lid genoemde taken uitvoert, is geregeld in de [artikelen 3.2 tot en met 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.2&z=2026-03-03&g=2026-03-03).
 
-#### Artikel 3.2. Indiening kennisvragen, studiesynopsissen en subsidieaanvragen gerichte rondes KPPZ, ViO en ZE&GG
+##### Artikel 3.2. Indiening kennisvragen, studiesynopsissen en subsidieaanvragen gerichte rondes KPPZ, ViO en ZE&GG
 
 1. ZonMw publiceert op haar website:
 
@@ -168,7 +194,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 4. Subsidieaanvragen kunnen worden ingediend door geselecteerde projectgroepen.
 
-#### Artikel 3.3. Advisering kennisvragen gerichte rondes KPPZ
+##### Artikel 3.3. Advisering kennisvragen gerichte rondes KPPZ
 
 1. Ter voorbereiding van de advisering over een kennisvraag bestuderen vijf leden de kennisvraag en toetsen zij deze aan de selectiecriteria aan de hand van een voorbewerkingsformulier. Tot deze vijf leden behoren in ieder geval een lid dat afkomstig is uit de kring van patiëntenorganisaties en een lid dat afkomstig is uit de kring van zorgverzekeraars.
 
@@ -178,7 +204,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 4. De commissie brengt een onderbouwd advies over de kennisvraag uit aan het bestuur van ZonMw.
 
-#### Artikel 3.4. Advisering studiesynopsissen ZE&GG
+##### Artikel 3.4. Advisering studiesynopsissen ZE&GG
 
 1. Naast de in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=3&artikel=3.1&z=2026-03-03&g=2026-03-03), genoemde adviestaak heeft de commissie tot taak om projectgroepen te adviseren over de kwaliteit van de studiesynopsis.
 
@@ -188,7 +214,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 4. De commissie brengt een onderbouwd advies over de studiesynopsis uit aan de geselecteerde projectgroep.
 
-#### Artikel 3.5. Advisering subsidieaanvragen gerichte rondes KPPZ en ViO
+##### Artikel 3.5. Advisering subsidieaanvragen gerichte rondes KPPZ en ViO
 
 1. Ter voorbereiding van de advisering over de kwaliteit van een subsidieaanvraag bestuderen vijf leden de subsidieaanvraag en toetsen zij deze aan de selectiecriteria aan de hand van een voorbewerkingsformulier. Tot deze vijf leden behoren in ieder geval een lid dat afkomstig is uit de kring van patiëntenorganisaties en een lid dat afkomstig is uit de kring van zorgverzekeraars.
 
@@ -202,7 +228,7 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 6. In de overige gevallen brengt de commissie een onderbouwd advies uit aan het bestuur van ZonMw.
 
-#### Artikel 3.6. Advisering subsidieaanvragen ZE&GG
+##### Artikel 3.6. Advisering subsidieaanvragen ZE&GG
 
 1. Ter voorbereiding van de advisering over de kwaliteit van een subsidieaanvraag bestuderen vijf leden de subsidieaanvraag en toetsen zij deze aan de selectiecriteria aan de hand van een voorbewerkingsformulier. Tot deze vijf leden behoren in ieder geval een lid dat afkomstig is uit de kring van patiëntenorganisaties en een lid dat afkomstig is uit de kring van zorgverzekeraars.
 
@@ -214,17 +240,17 @@ De Minister van VWS kan een of twee waarnemers voor de commissie aanwijzen.
 
 5. De commissie brengt een onderbouwd advies uit aan het Zorginstituut en het bestuur van ZonMw.
 
-#### Artikel 3.7. Advisering Vezo
+##### Artikel 3.7. Advisering Vezo
 
 De commissie adviseert op verzoek van het Zorginstituut over wijzigingsverzoeken voor lopende subsidies van de [Subsidieregeling veelbelovende zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0041816) aan de hand van de criteria in die subsidieregeling.
 
-#### Artikel 3.8. Overige vragen om advies gerichte rondes KPPZ, ViO, ZE&GG en Vezo
+##### Artikel 3.8. Overige vragen om advies gerichte rondes KPPZ, ViO, ZE&GG en Vezo
 
 Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard van de vraag.
 
 ### Hoofdstuk 4. Persoonlijke belangen
 
-#### Artikel 4.1. Omgaan met persoonlijke belangen
+##### Artikel 4.1. Omgaan met persoonlijke belangen
 
 1. De commissie verricht haar taak onpartijdig en zonder vooringenomenheid.
 
@@ -258,7 +284,7 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 ### Hoofdstuk 5. De vergaderingen van de commissie
 
-#### Artikel 5.1. Vergaderingen
+##### Artikel 5.1. Vergaderingen
 
 1. De voorzitter belegt een vergadering zo dikwijls hij dit nodig acht en bepaalt de tijd, plaats en werkwijze van de vergadering.
 
@@ -276,7 +302,7 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 8. Iedere vergadering vangt aan met een inventarisatie van persoonlijke belangen van de leden, de secretarissen en de betrokken medewerkers van ZonMw en het Zorginstituut, als bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0052386&hoofdstuk=4&artikel=4.1&z=2026-03-03&g=2026-03-03). De commissie beslist over deelname van leden met een persoonlijk belang alsmede over de geschiktheid van de beheersmaatregelen. De commissie stelt daarna vast of zij haar werk onpartijdig en zonder vooringenomenheid kan verrichten.
 
-#### Artikel 5.2. Tussentijdse schriftelijke raadpleging gerichte rondes KPPZ, ViO, ZE&GG en Vezo
+##### Artikel 5.2. Tussentijdse schriftelijke raadpleging gerichte rondes KPPZ, ViO, ZE&GG en Vezo
 
 1. De commissie kan tussen vergaderingen schriftelijk geraadpleegd worden.
 
@@ -288,7 +314,7 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 5. Indien drie of meer leden van de commissie binnen de in het vorige lid gestelde termijn de voorzitter schriftelijk meedelen zich te verzetten tegen een schriftelijke raadpleging, wordt het voorstel op de agenda van de eerstvolgende vergadering van de commissie geplaatst en in die vergadering behandeld.
 
-#### Artikel 5.3. Bureau
+##### Artikel 5.3. Bureau
 
 1. De commissie wordt ondersteund door een bureau.
 
@@ -308,11 +334,11 @@ Voor de overige vragen om advies stemt de commissie haar werkwijze af op de aard
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Inwerkingtreding
+##### Artikel 6.1. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt terug tot en met 12 november 2025.
 
-#### Artikel 6.2. Citeertitel
+##### Artikel 6.2. Citeertitel
 
 Dit besluit wordt aangehaald als Reglement Commissie Onderzoek Passende Zorg 2025.
 

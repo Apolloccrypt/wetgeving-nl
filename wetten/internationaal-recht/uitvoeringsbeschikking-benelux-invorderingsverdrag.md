@@ -1,40 +1,64 @@
 ---
 title: "Uitvoeringsbeschikking Benelux Invorderingsverdrag"
 identifier: "BWBR0002239"
-categorie: "Internationaal recht"
-publicatiedatum: 1956-12-15
-laatste_update: 1956-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002239"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1956-12-15"
+last_updated: "1956-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002239"
+soort: "ministeriele-regeling"
+stam_id: "4554203"
+version_id: "6360392"
+internal_id: "C6604861"
+label_id: "4532464"
+dtd_version: "2.0"
+original_entry_into_force: "1956-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002239/1956-12-15/0"
+intitule_bron: "Stcrt.1956-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-12-10"
+intitule_published: "1956-12-14"
+intitule_in_force: "1956-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1956-245"
+original_signed_date: "1956-12-10"
+original_published_date: "1956-12-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1956-12-15"
+jci_1_3: "jci1.3:c:BWBR0002239&z=1956-12-15&g=1956-12-15"
+jci_1_0: "1.0:c:BWBR0002239&g=1956-12-15"
+citeertitel_status: "officieel"
+signed_date: "1956-12-10"
+entry_into_force: "1956-12-15"
 ---
-
 # Uitvoeringsbeschikking Benelux Invorderingsverdrag
 
 Gelet op de artikelen 2 en 3 van de wet van 8 juli 1953 (Stb. 332), houdende goedkeuring van het op 5 september 1952 te Brussel tussen Nederland. België en Luxemburg gesloten Verdrag nopens wederkerige bijstand inzake de invordering van belastingschulden (Trb. 1952, 137) en mede gelet op de bepalingen van vorenbedoeld verdrag.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze beschikking verstaat onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Als bevoegde autoriteit, welke op de voet van artikel 3 van het Verdrag de bijstand inzake de invordering van een Nederlandse belastingschuld in België of Luxemburg kan verzoeken, wordt aangewezen de ontvanger der directe belastingen of der invoerrechten en accijnzen, die ingevolge de wettelijke voorschriften hier te lande met de invordering van de desbetreffende belastingschuld is belast.
 
-#### Artikel 3
+##### Artikel 3
 
 Als bevoegde autoriteit, welke op de voet van artikel 4 van het Verdrag tot de invordering of tot het nemen van conservatoire maatregelen hier te lande overgaat, wordt van geval tot geval door de Minister van Financiën een ontvanger der directe belastingen of der invoerrechten en accijnzen aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 Als belasting, welke voor de toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002239&artikel=2&z=1956-12-15&g=1956-12-15) van de goedkeuringswet geldt als soortgelijk aan een Belgische of Luxemburgse belasting, wordt aangemerkt de als zodanig in de bij deze beschikking behorende bijlage naast elke Belgische en Luxemburgse belasting of heffing vermelde Nederlandse belasting.
 
-#### Artikel 5
+##### Artikel 5
 
 De kosten van vervolging voor de invordering hier te lande van een Belgische of een Luxemburgse belastingschuld worden berekend overeenkomstig de voorschriften, welke gelden ten aanzien van de kosten van vervolging voor de invordering van de ingevolge het vorig artikel als soortgelijk aangemerkte Nederlandse belasting.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze beschikking treedt in werking met ingang van de dag na die van haar bekendmaking in de **Nederlandse Staatscourant**.
 

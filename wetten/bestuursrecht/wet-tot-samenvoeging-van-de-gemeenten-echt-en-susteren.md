@@ -1,14 +1,41 @@
 ---
-title: "Wet tot samenvoeging van de gemeenten Echt en Susteren"
+title: "Wet van 20 juni 2002 tot samenvoeging van de gemeenten Echt en Susteren"
 identifier: "BWBR0013799"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-09-01
-laatste_update: 2002-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013799"
+country: "nl"
+rank: "wet"
+publication_date: "2002-09-01"
+last_updated: "2002-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013799"
+soort: "wet"
+stam_id: "2857883"
+version_id: "4395682"
+internal_id: "C4395681"
+label_id: "2806004"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013799/2002-09-01/0"
+intitule_bron: "Stb.2002-382"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-20"
+intitule_published: "2002-07-23"
+intitule_in_force: "2002-07-23"
+intitule_status: "goed"
+original_publication: "Stb.2002-382"
+original_signed_date: "2002-06-20"
+original_published_date: "2002-07-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "28012"
+original_url_id: "stb-2002-382"
+entry_into_force_date: "2002-09-01"
+jci_1_3: "jci1.3:c:BWBR0013799&z=2002-09-01&g=2002-09-01"
+jci_1_0: "1.0:c:BWBR0013799&g=2002-09-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot samenvoeging van de gemeenten Echt en Susteren"
+signed_date: "2002-06-20"
+entry_into_force: "2002-09-01"
 ---
-
-# Wet tot samenvoeging van de gemeenten Echt en Susteren
+# Wet van 20 juni 2002 tot samenvoeging van de gemeenten Echt en Susteren
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +45,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Echt en Susteren opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. Met ingang van de datum van herindeling wordt de nieuwe gemeente Echt-Susteren ingesteld zoals aangegeven op de bij de wet behorende kaart.
 
@@ -30,11 +57,11 @@ Met ingang van de datum van herindeling worden de gemeenten Echt en Susteren opg
 
 #### Paragraaf 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de nieuwe gemeente Echt-Susteren wordt de op te heffen gemeente Echt aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de op te heffen gemeenten Echt en Susteren wordt de nieuwe gemeente Echt-Susteren aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -50,7 +77,7 @@ Voor de op te heffen gemeenten Echt en Susteren wordt de nieuwe gemeente Echt-Su
 
 - f. [artikel 71, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=71), in verband met de overgang van de gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de nieuwe gemeente Echt-Susteren die bij deze wet wordt ingesteld, wordt een tussentijdse raadsverkiezing gehouden als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52).
 
@@ -60,19 +87,19 @@ Voor de op te heffen gemeenten Echt en Susteren wordt de nieuwe gemeente Echt-Su
 
 4. De zittingsperiode van de leden van de raad van de nieuwe gemeente eindigt in de in het derde lid bedoelde situatie gelijk met de zittingsperiode van de leden van de raden van de overige gemeenten die volgt op de eerste verkiezingen voor de gemeenteraden na de datum van herindeling.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel 8
+##### Artikel 8
 
 Advocaten en procureurs die kantoor houden in dat deel van de op te heffen gemeente Susteren dat ingevolge deze wet is overgegaan naar het arrondissement Roermond, worden door de zorg van de betrokken griffiers ingeschreven bij de rechtbank van het arrondissement Roermond. De procureurs blijven tot vijf jaren na de datum van herindeling tevens ingeschreven bij de rechtbank van het arrondissement Maastricht. [Artikel 61, tweede lid, tweede volzin, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=61) blijft buiten toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling leerresultaten VO 2016"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 juli 2016, nr. 812176, houdende vernieuwde voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs (Regeling leerresultaten VO 2016)"
 identifier: "BWBR0038374"
-categorie: "Overig"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038374"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038374"
+soort: "ministeriele-regeling"
+stam_id: "13718923"
+version_id: "28484042"
+internal_id: "C40190511"
+label_id: "13685254"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038374/2025-08-01/0"
+intitule_bron: "Stcrt.2016-39322"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-12"
+intitule_published: "2016-07-27"
+intitule_in_force: "2016-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-993"
+original_signed_date: "2021-12-07"
+original_published_date: "2022-02-09"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-993"
+entry_into_force_date: "2021-12-07"
+jci_1_3: "jci1.3:c:BWBR0038374&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0038374&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling leerresultaten VO 2016"
+signed_date: "2021-12-07"
+entry_into_force: "2021-12-07"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 12 juli 2016, nr. 812176, houdende vernieuwde voorschriften in het kader van de meting en beoordeling van leerresultaten als bedoeld in artikel 23a1, eerste lid, van de Wet op het voortgezet onderwijs (Regeling leerresultaten VO 2016)
 
 Gelet op de [artikelen 37a](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37a) en [37b van het Inrichtingsbesluit WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0005946&artikel=37b);
@@ -16,27 +42,27 @@ Gelet op het voorstel bedoeld in [artikel 37b, tweede lid, van het Inrichtingsbe
 
 Besluit:
 
-#### Artikel 1. Berekening en correctie indicatoren; normering resultaten
+##### Artikel 1. Berekening en correctie indicatoren; normering resultaten
 
 De berekening van de in [artikel 2.52, eerste lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.52) bedoelde indicatoren, daaronder mede begrepen de correcties, bedoeld in het derde lid van dat artikel, alsmede de normering waarop de inspectie het oordeel voldoende dan wel onvoldoende resultaat baseert als bedoeld in [artikel 2.94, tweede lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.94), geschieden volgens het bepaalde in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=A&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 2. Wijze totstandkoming oordeel leerresultaten
+##### Artikel 2. Wijze totstandkoming oordeel leerresultaten
 
 Het oordeel over de leerresultaten van de schoolsoort of leerweg komt tot stand op de wijze als vastgesteld in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
+##### Artikel 3. Benodigde gegevens; meting onmogelijk of gegevens incompleet
 
 De aard en de aantallen benodigde gegevens, bedoeld in [artikel 2.53, tweede lid, onderdeel a, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.53), volgen uit het bepaalde in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0038374&bijlage=B&z=2025-08-01&g=2025-08-01).
 
-#### Artikel 4. Intrekking
+##### Artikel 4. Intrekking
 
 De [Regeling leerresultaten VO](https://wetten.overheid.nl/jci1.3:c:BWBR0027953) wordt ingetrokken.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2016.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling leerresultaten VO 2016.
 
@@ -184,7 +210,7 @@ In alle andere gevallen (één of twee met de kwalificatie ‘boven de norm’) 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a. Omhang
+##### Artikel 4a. Omhang
 
 Deze regeling berust op de [artikelen 2.53](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.53) en [2.54 van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=2.54)
 

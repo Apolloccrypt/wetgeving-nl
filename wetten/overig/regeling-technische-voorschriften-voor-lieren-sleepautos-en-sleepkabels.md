@@ -1,13 +1,39 @@
 ---
-title: "Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels"
+title: "Regeling van de Staatssecretaris van infrastructuur en milieu houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels (Regeling technische voorschriften lieren, sleepauto’s en sleepkabels)"
 identifier: "BWBR0029692"
-categorie: "Overig"
-publicatiedatum: 2011-03-08
-laatste_update: 2011-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029692"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-03-08"
+last_updated: "2011-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029692"
+soort: "ministeriele-regeling"
+stam_id: "11263753"
+version_id: "18446762"
+internal_id: "C25714731"
+label_id: "11238124"
+dtd_version: "2.0"
+original_entry_into_force: "2011-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029692/2011-03-08/0"
+intitule_bron: "Stcrt.2011-3919"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-28"
+intitule_published: "2011-03-07"
+intitule_in_force: "2011-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-3919"
+original_signed_date: "2011-02-28"
+original_published_date: "2011-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-3919"
+entry_into_force_date: "2011-03-08"
+jci_1_3: "jci1.3:c:BWBR0029692&z=2011-03-08&g=2011-03-08"
+jci_1_0: "1.0:c:BWBR0029692&g=2011-03-08"
+citeertitel_status: "officieel"
+short_title: "Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels"
+signed_date: "2011-02-28"
+entry_into_force: "2011-03-08"
 ---
-
 # Regeling van de Staatssecretaris van infrastructuur en milieu houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels (Regeling technische voorschriften lieren, sleepauto’s en sleepkabels)
 
 Gelet op [artikel 21 van het Besluit luchtvaartuigen 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0023922&artikel=21);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Lieren
 
-#### Artikel 2. Algemeen
+##### Artikel 2. Algemeen
 
 1. Een lier omvat in ieder geval:
 
@@ -58,7 +84,7 @@ In deze regeling wordt verstaan onder:
 
 4. De lierman stelt zich zodanig op of nabij de lier op, dat hij een voldoende, voor zover mogelijk onbeperkt, uitzicht naar alle zijden heeft en dat hij het zweefvliegtuig tijdens het lieren gemakkelijk kan waarnemen.
 
-#### Artikel 3. Liermechanisme
+##### Artikel 3. Liermechanisme
 
 1. Het remvermogen van de krachtbron bedraagt voor het lieren van een zweefvliegtuig met één zitplaats ten minste 44 kW en van een zweefvliegtuig met twee zitplaatsen ten minste 66 kW.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 7. De krachtbron en de daarbij behorende installaties en onderdelen zijn zodanig opgesteld en verkeren in zodanige staat, dat zij onder alle te verwachten bedrijfsomstandigheden zonder storing en regelmatig werken.
 
-#### Artikel 4. Kapinrichting
+##### Artikel 4. Kapinrichting
 
 1. De kapinrichting is zodanig uitgevoerd dat in ieder geval:
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 6. De veiligheidsfactor tegen blijvende vervorming, die bij de sterkteberekening van de bedieningsinrichting verplicht gebruikt is, bedraagt 6.
 
-#### Artikel 5. Snijproeven
+##### Artikel 5. Snijproeven
 
 1. De geschiktheid van de kapinrichting voor de te gebruiken sleepkabel wordt aangetoond door middel van vijf achtereenvolgende snijproeven.
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien de stand van de kapinrichting tijdens het bedrijf van de lier kan veranderen, wordt de goede werking van de kapinrichting en de bedieningsinrichting in alle te verwachten standen aangetoond.
 
-#### Artikel 6. Kabelgeleiding
+##### Artikel 6. Kabelgeleiding
 
 1. De kabelgeleiding is zodanig geconstrueerd dat:
 
@@ -134,13 +160,13 @@ In deze regeling wordt verstaan onder:
 
 7. Het regelmatig verdelen van de kabel op de kabeltrommel tijdens het lieren geschiedt op zodanige wijze dat de lierman hiermee geen bemoeienis heeft.
 
-#### Artikel 7. Instrumenten
+##### Artikel 7. Instrumenten
 
 1. De schalen van de instrumenten zijn overzichtelijk ingedeeld en gemakkelijk af te lezen door de lierman vanaf zijn standplaats.
 
 2. Op de schalen zijn de met betrekking tot de lier en de sleepkabel maximaal toelaatbare en andere belangrijke waarden of gebieden duidelijk gemarkeerd.
 
-#### Artikel 8. Bedieningsorganen
+##### Artikel 8. Bedieningsorganen
 
 1. Bedieningsorganen zijn alle organen die voor de lierman noodzakelijk zijn voor de bediening van de lier en de daarop aangebrachte installaties.
 
@@ -168,23 +194,23 @@ In deze regeling wordt verstaan onder:
 
 - –. bedieningsorgaan van de kapinrichting: om te kappen naar achteren.
 
-#### Artikel 9. Veiligheidsmaatregelen
+##### Artikel 9. Veiligheidsmaatregelen
 
 1. De standplaats van de lierman is afgescheiden van de gevaarlijke delen van het liermechanisme, de kabelgeleiding en de kapinrichting en is beschermd tegen een over de lier vallende sleepkabel.
 
 2. Alle draaiende delen van de lier alsmede de messen van de kapinrichting zijn afgeschermd tegen aanraking door het bedieningspersoneel.
 
-#### Artikel 10. Ondersteuning van de lier
+##### Artikel 10. Ondersteuning van de lier
 
 De lier wordt op zodanige wijze ondersteund dat deze niet ten gevolge van de tijdens het bedrijf erop werkende krachten zodanig van stand kan veranderen dat de goede werking ervan of de veiligheid van het bedieningspersoneel in gevaar wordt gebracht.
 
-#### Artikel 11. Zwaailicht
+##### Artikel 11. Zwaailicht
 
 1. Lieren zijn uitgerust met een geel zwaailicht, dat in werking is wanneer een kabeltrommel is ingeschakeld.
 
 2. Het licht is op een afstand van ten minste 1500 meter zichtbaar.
 
-#### Artikel 12. Meervoudige lieren
+##### Artikel 12. Meervoudige lieren
 
 Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelden in ieder geval de volgende eisen:
 
@@ -202,7 +228,7 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 ### Hoofdstuk 3. Sleepauto’s
 
-#### Artikel 13. Algemeen
+##### Artikel 13. Algemeen
 
 1. Een sleepauto omvat in ieder geval de volgende onderdelen:
 
@@ -228,7 +254,7 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 8. De plaatsen van de bestuurder en de startman zijn zodanig dat tijdens het slepen een geregeld, rechtstreeks en uitstekend contact tussen hen mogelijk is.
 
-#### Artikel 14. Ontkoppelbare haak
+##### Artikel 14. Ontkoppelbare haak
 
 1. De haak kan door de startman vanaf zijn standplaats gemakkelijk en snel ontkoppeld worden.
 
@@ -236,19 +262,19 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 3. De haak is zodanig geconstrueerd dat de verbinding tussen sleepkabel en sleepauto onder alle mogelijke omstandigheden geheel verbroken kan worden.
 
-#### Artikel 15. Instrumenten
+##### Artikel 15. Instrumenten
 
 1. De schalen van de instrumenten zijn overzichtelijk ingedeeld en door de startman vanaf zijn standplaats gemakkelijk af te lezen.
 
 2. Op de schalen zijn de met betrekking tot de sleepauto en de sleepkabel maximaal toelaatbare en andere belangrijke waarden of gebieden duidelijk gemarkeerd.
 
-#### Artikel 16. Bedieningsorganen
+##### Artikel 16. Bedieningsorganen
 
 1. Bedieningsorganen zijn alle organen die hetzij door de bestuurder, hetzij door de startman bediend moeten worden voor een goed verloop van het sleepproces.
 
 2. [Artikel 8, derde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029692&hoofdstuk=2&artikel=8&z=2011-03-08&g=2011-03-08), is van overeenkomstige toepassing.
 
-#### Artikel 17. Veiligheidsmaatregelen
+##### Artikel 17. Veiligheidsmaatregelen
 
 1. De standplaatsen van bestuurder en startman zijn zodanig ingericht dat deze personen tijdens het slepen niet van de sleepauto kunnen vallen.
 
@@ -258,7 +284,7 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 ### Hoofdstuk 4. Sleepkabels
 
-#### Artikel 18. Algemeen
+##### Artikel 18. Algemeen
 
 1. De bepalingen van dit hoofdstuk zijn uitsluitend van toepassing op sleepkabels die gebruikt worden voor de opstijging van een zweefvliegtuig met behulp van een lier of een sleepauto.
 
@@ -282,7 +308,7 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 8. Alle verbindingselementen van de sleepkabel zijn voldoende bedrijfszeker, zodat deze tijdens het slepen niet kunnen losraken.
 
-#### Artikel 19. Breukstuk
+##### Artikel 19. Breukstuk
 
 1. Het breukstuk en de houder waarin dit is opgenomen, zijn deugdelijk en van een door Onze Minister van Infrastructuur en Milieu toegelaten type.
 
@@ -294,7 +320,7 @@ Ten aanzien van lieren die zijn uitgerust met meer dan één kabeltrommel, gelde
 
 3. Het breukstuk waarvan de nominale sterkte in het vlieghandboek is vermeld, is met één of meer kleuren en een ingeslagen merk duidelijk gekenmerkt.
 
-#### Artikel 20. Bevestigingsring
+##### Artikel 20. Bevestigingsring
 
 De ring waarmee de kabel aan het zweefvliegtuig respectievelijk de sleepauto is bevestigd, voldoet aan de volgende eisen:
 
@@ -304,7 +330,7 @@ De ring waarmee de kabel aan het zweefvliegtuig respectievelijk de sleepauto is 
 
 - c. de ring komt onmiddellijk na het ontkoppelen zonder enige moeilijkheid los van de haak.
 
-#### Artikel 21. Kabelvalscherm
+##### Artikel 21. Kabelvalscherm
 
 Indien een kabelvalscherm wordt gebruikt om de valsnelheid van de sleepkabel te verkleinen, voldoet dit aan de volgende eisen:
 
@@ -318,19 +344,19 @@ Indien een kabelvalscherm wordt gebruikt om de valsnelheid van de sleepkabel te 
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 22. Wederzijdse erkenning
+##### Artikel 22. Wederzijdse erkenning
 
 Met de lieren, sleepauto’s en sleepkabels als bedoeld in deze regeling worden gelijkgesteld de lieren, sleepauto’s en sleepkabels, die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend Verdrag, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij een tot een vrijhandelszone strekkend Verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
-#### Artikel 23. Intrekking
+##### Artikel 23. Intrekking
 
 De [regeling van de Minister van Verkeer en Waterstaat](https://wetten.overheid.nl/jci1.3:c:BWBR0004853) van 5 september 1990, houdende technische voorschriften voor lieren, sleepauto’s en sleepkabels wordt ingetrokken.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 25. Citeertitel
+##### Artikel 25. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling technische voorschriften voor lieren, sleepauto’s en sleepkabels.
 

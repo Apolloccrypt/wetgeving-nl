@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende arbeidsvoorwaarden luchtvaart politie"
+title: "Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)"
 identifier: "BWBR0044408"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-03-17
-laatste_update: 2026-03-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044408"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-17"
+last_updated: "2026-03-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044408"
+soort: "ministeriele-regeling"
+stam_id: "15717103"
+version_id: "27240762"
+internal_id: "C38489331"
+label_id: "15655834"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044408/2026-03-17/0"
+intitule_bron: "Stcrt.2020-61980"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-26"
+intitule_published: "2020-11-30"
+intitule_in_force: "2020-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-61980"
+original_signed_date: "2020-11-26"
+original_published_date: "2020-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-61980"
+entry_into_force_date: "2020-12-01"
+jci_1_3: "jci1.3:c:BWBR0044408&z=2026-03-17&g=2026-03-17"
+jci_1_0: "1.0:c:BWBR0044408&g=2026-03-17"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende arbeidsvoorwaarden luchtvaart politie"
+signed_date: "2020-11-26"
+entry_into_force: "2020-12-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 26 november 2020, nr. 394030, tot vaststelling van regels omtrent aanvullende arbeidsvoorwaarden voor vliegers en licentiehouders bij de politie (Regeling aanvullende arbeidsvoorwaarden luchtvaart politie)
 
 Gelet op [artikel 21, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=21);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **volledige betrekking:** een volledige betrekking als bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1).
 
-#### Artikel 2. Luchtvaarttoelage vliegers
+##### Artikel 2. Luchtvaarttoelage vliegers
 
 1. De vlieger heeft aanspraak op een maandelijkse bruto luchtvaarttoelage.
 
@@ -57,7 +83,7 @@ In deze regeling wordt verstaan onder:
 | Factor categorie I | 3 | 6 | 9 | 12 | 15 | 18 | 21 | 24 | 27 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 | 30 |
 | Factor categorie II | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 | 55 | 60 | 65 | 70 | 75 | 80 | 80 | 80 | 80 | 80 |
 
-#### Artikel 3. Categorieën vliegers
+##### Artikel 3. Categorieën vliegers
 
 1. De vlieger die gecertificeerd is voor het vliegen op eenmotorige vleugelvliegtuigen behoort tot categorie I.
 
@@ -67,13 +93,13 @@ In deze regeling wordt verstaan onder:
 
 4. Bij overgang van categorie I naar categorie II behoudt de vlieger zijn op dat moment geldende vermenigvuldigingsfactor, dan wel bij afwezigheid daarvan in categorie II de naast-hogere vermenigvuldigingsfactor.
 
-#### Artikel 4. Eenmalige verhoging
+##### Artikel 4. Eenmalige verhoging
 
 1. De vlieger heeft recht op een eenmalige verhoging van de luchtvaarttoelage ter grootte van 8,33% van de in de afgelopen 12 maanden genoten luchtvaarttoelage.
 
 2. De eenmalige verhoging wordt eenmaal per kalenderjaar in de maand november betaald.
 
-#### Artikel 5. Loss of licence
+##### Artikel 5. Loss of licence
 
 1. Hij, die de bevoegdheid tot het uitoefenen van de functie vlieger tijdelijk dan wel blijvend verliest, waarbij dit verlies niet aan grove nalatigheid of opzet van hemzelf is te wijten, behoudt gedurende zijn aanstelling bij de politie aanspraak op de volgende toelage, tenzij een of meer van de gronden, genoemd in de [artikelen 83](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=83) en [84 van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=84) van toepassing zijn:
 
@@ -91,13 +117,13 @@ In deze regeling wordt verstaan onder:
 
 - b. op 1 januari 2007 reeds de functie van vlieger vervulde in dienst van de politie en op het moment van het verlies na 1 november 2008 langer dan 20 jaar de luchtvaarttoelage heeft genoten.
 
-#### Artikel 6. Bijstelling maximum luchtvaarttoelage vliegers
+##### Artikel 6. Bijstelling maximum luchtvaarttoelage vliegers
 
 1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van de hoogte van het in [artikel 2, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=2&z=2026-03-17&g=2026-03-17), bedoelde maximumbedrag kan plaatsvinden.
 
 2. Indien verlaging van het maximumbedrag leidt tot een lagere luchtvaarttoelage voor de vlieger vindt geleidelijke afbouw van de luchtvaarttoelage plaats volgens de systematiek beschreven in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17).
 
-#### Artikel 7. Afbouw jaarlijkse luchtvaarttoelage vliegers
+##### Artikel 7. Afbouw jaarlijkse luchtvaarttoelage vliegers
 
 1. Bij verlaging van het maximumbedrag tot en met een hoogte van € 20.000,– bruto per jaar bedraagt de jaarlijkse luchtvaarttoelage:
 
@@ -125,7 +151,7 @@ In deze regeling wordt verstaan onder:
 
 - h. In het achtste jaar na bijstelling van het maximumbedrag het verlaagde maximumbedrag + 20% van het verschil tussen € 20.000,– en het verlaagde maximumbedrag.
 
-#### Artikel 8. Samenloop afbouwregimes
+##### Artikel 8. Samenloop afbouwregimes
 
 1. Indien bij een vlieger geleidelijke afbouw van de luchtvaarttoelage plaatsvindt op grond van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17) en er gedurende de afbouwperiode, bedoeld in artikel 7, eerste dan wel tweede lid, sprake is van loss of licence als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17), blijft de afbouwsystematiek van artikel 7, eerste respectievelijk tweede lid, op hem van toepassing.
 
@@ -135,7 +161,7 @@ In deze regeling wordt verstaan onder:
 
 4. Vanaf het moment van verlies van de bevoegdheid tot operationeel vliegen kan het totaal aantal afbouwjaren volgend uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=7&z=2026-03-17&g=2026-03-17) en [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=5&z=2026-03-17&g=2026-03-17), niet groter zijn dan op grond van artikel 5 voor de medewerker geldt.
 
-#### Artikel 9. Luchtvaarttoelage licentiehouders
+##### Artikel 9. Luchtvaarttoelage licentiehouders
 
 1. De licentiehouder die werkzaam is binnen de afdeling Luchtvaart van de Dienst infrastructuur van de Eenheid landelijke expertise en operaties en zijn licentie nodig heeft voor de uitoefening van zijn functie, bedoeld in [artikel 1, eerste lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), heeft aanspraak op een maandelijkse luchtvaarttoelage ter grootte van € 2.185,85 bruto.
 
@@ -145,13 +171,13 @@ In deze regeling wordt verstaan onder:
 
 4. Het bedrag, genoemd in het eerste lid, wordt bij ministeriële regeling gewijzigd overeenkomstig een algemene salarismaatregel in de sector politie.
 
-#### Artikel 10. Bijstelling luchtvaarttoelage licentiehouders
+##### Artikel 10. Bijstelling luchtvaarttoelage licentiehouders
 
 1. In ieder geval elke vijf jaar na inwerkingtreding van deze regeling wordt er een arbeidsmarktonderzoek gedaan, waarna bijstelling van het bedrag, genoemd in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), kan plaatsvinden.
 
 2. Indien de luchtvaarttoelage licentiehouders wordt verlaagd vindt geleidelijke afbouw plaats volgens de systematiek beschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=11&z=2026-03-17&g=2026-03-17).
 
-#### Artikel 11. Afbouw jaarlijkse luchtvaarttoelage licentiehouders
+##### Artikel 11. Afbouw jaarlijkse luchtvaarttoelage licentiehouders
 
 1. Bij verlaging van de jaarlijkse luchtvaarttoelage, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044408&artikel=9&z=2026-03-17&g=2026-03-17), tot en met een hoogte van € 12.000,– bruto per jaar, bedraagt de jaarlijkse luchtvaarttoelage:
 
@@ -179,15 +205,15 @@ In deze regeling wordt verstaan onder:
 
 - h. in het achtste jaar het verlaagde jaarbedrag + 20% van het verschil tussen € 12.000,– en het verlaagde jaarbedrag.
 
-#### Artikel 12. Intrekking oude regeling
+##### Artikel 12. Intrekking oude regeling
 
 De [Regeling vliegtoelage vliegers Landelijke eenheid](https://wetten.overheid.nl/jci1.3:c:BWBR0038750) wordt ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 juli 2020.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende arbeidsvoorwaarden luchtvaart politie.
 

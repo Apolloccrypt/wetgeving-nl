@@ -1,13 +1,35 @@
 ---
 title: "Regeling Model Jaarverslaggeving 2017 CAK"
 identifier: "BWBR0040814"
-categorie: "Overig"
-publicatiedatum: 2018-04-12
-laatste_update: 2018-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040814"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-04-12"
+last_updated: "2018-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040814"
+soort: "zbo"
+stam_id: "14588163"
+version_id: "24978032"
+internal_id: "C35716671"
+label_id: "14542474"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040814/2018-04-12/0"
+intitule_bron: "Stcrt.2018-20100"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-04-11"
+intitule_in_force: "2018-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-20100"
+original_published_date: "2018-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-20100"
+entry_into_force_date: "2018-04-12"
+jci_1_3: "jci1.3:c:BWBR0040814&z=2018-04-12&g=2018-04-12"
+jci_1_0: "1.0:c:BWBR0040814&g=2018-04-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-04-12"
 ---
-
 # Regeling Model Jaarverslaggeving 2017 CAK
 
 Bestuurlijke verantwoording 2017

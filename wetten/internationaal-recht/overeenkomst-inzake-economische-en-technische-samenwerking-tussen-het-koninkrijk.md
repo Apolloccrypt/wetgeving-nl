@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake economische en technische samenwerking tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte"
 identifier: "BWBV0004723"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-06-01
-laatste_update: 1977-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004723"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-06-01"
+last_updated: "1977-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004723"
+soort: "verdrag"
+stam_id: "10004281583"
+version_id: "10004473962"
+internal_id: "C10006983401"
+label_id: "10004266634"
+dtd_version: "2.0"
+original_entry_into_force: "1977-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004723/1977-06-01/0"
+intitule_bron: "Trb.1975-86"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-08-20"
+intitule_in_force: "1977-05-12"
+intitule_status: "goed"
+original_publication: "Trb.1975-86"
+original_published_date: "1975-08-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-86"
+entry_into_force_date: "1977-06-01"
+jci_1_3: "jci1.3:c:BWBV0004723&z=1977-06-01&g=1977-06-01"
+jci_1_0: "1.0:c:BWBV0004723&g=1977-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-06-01"
 ---
-
 # Overeenkomst inzake economische en technische samenwerking tussen het Koninkrijk der Nederlanden en de Arabische Republiek Egypte
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Arabische Republiek Egypte,
@@ -20,17 +42,17 @@ Geleid door de wens de voorwaarden voor het ontwikkelen van deze samenwerking te
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 De Overeenkomstsluitende Partijen stimuleren en bevorderen de economische en technische samenwerking tussen hun onderscheiden landen, binnen het kader van hun wetten en voorschriften en met inachtneming van hun internationale verplichtingen.
 
-#### Artikel II
+##### Artikel II
 
 1. De Overeenkomstsluitende Partijen moedigen in het bijzonder initiatieven aan die kunnen leiden tot het sluiten van contracten en het treffen van regelingen inzake economische en technische samenwerking tussen ondernemingen en organisaties in het Koninkrijk der Nederlanden enerzijds en ondernemingen en organisaties in de Arabische Republiek Egypte anderzijds.
 
 2. Zij vergemakkelijken, voor zover mogelijk, de uitvoering van zulke contracten en regelingen op basis van wederzijds voordeel.
 
-#### Artikel III
+##### Artikel III
 
 1. De Overeenkomstsluitende Partijen erkennen dat binnen het kader van deze Overeenkomst samenwerking onder andere kan omvatten:
 
@@ -42,11 +64,11 @@ De Overeenkomstsluitende Partijen stimuleren en bevorderen de economische en tec
 
 - (iv). organisatie van beraadslaging en conferenties van deskundigen.
 
-#### Artikel IV
+##### Artikel IV
 
 De voorwaarden met betrekking tot bepaalde projecten voor economische en technische samenwerking worden in onderling overleg vastgesteld door de onderscheiden ondernemingen en organisaties, in overeenstemming met de desbetreffende wetten en voorschriften van de beide landen.
 
-#### Artikel V
+##### Artikel V
 
 De Overeenkomstsluitende Partijen komen overeen een Gemengde Commissie inzake economische en technische samenwerking in te stellen, bestaande uit vertegenwoordigers van de beide landen.
 
@@ -64,11 +86,11 @@ De Gemengde Commissie:
 
 De Gemengde Commissie komt ten minste eenmaal per jaar beurtelings te Kairo en te ’s Gravenhage bijeen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst voor het gehele Koninkrijk, tenzij de Regering van het Koninkrijk der Nederlanden de Regering van de Arabische Republiek Egypte binnen een maand na de inwerkingtreding van deze Overeenkomst van het tegendeel in kennis stelt.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand, volgend op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat de in hun onderscheiden landen constitutioneel hiervoor vereiste procedures zijn vervuld, en blijft van kracht voor een tijdvak van 10 jaar.
 

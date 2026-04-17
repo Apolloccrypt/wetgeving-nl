@@ -1,20 +1,45 @@
 ---
-title: "Spaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Spanje"
+title: "Regeling inzake vermindering van Spaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland"
 identifier: "BWBR0004899"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004899"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004899"
+soort: "ministeriele-regeling"
+stam_id: "4733673"
+version_id: "6550462"
+internal_id: "C7001431"
+label_id: "4711834"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004899/1997-06-19/0"
+intitule_bron: "Stcrt.1990-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-14"
+intitule_published: "1990-11-14"
+intitule_in_force: "1990-11-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-222"
+original_signed_date: "1990-11-14"
+original_published_date: "1990-11-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004899&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004899&g=1997-06-19"
+citeertitel_status: "officieel"
+short_title: "Spaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Spanje"
+signed_date: "1990-11-14"
+entry_into_force: "1991-01-01"
 ---
-
 # Regeling inzake vermindering van Spaanse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 16 juni 1971 tussen Nederland en Spanje gesloten Overeenkomst tot het vermijden van dubbele belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1971, nr. 144) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het bij de Overeenkomst behorende Protocol:
 
@@ -28,7 +53,7 @@ Aan de op 16 juni 1971 tussen Nederland en Spanje gesloten Overeenkomst tot het 
 
 De in de onderdelen a tot en met d van dit artikel bedoelde verminderingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty's in Spanje een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 10, zesde lid, respectievelijk artikel 11, vierde lid, en artikel 12, vijfde lid).
 
-#### Artikel 2. Spaanse regeling
+##### Artikel 2. Spaanse regeling
 
 Ter uitvoering van artikel 1 is van Spaanse zijde de volgende regeling getroffen:
 
@@ -54,11 +79,11 @@ Ter uitvoering van artikel 1 is van Spaanse zijde de volgende regeling getroffen
 
 - d. Verkrijgbaarheid van de formulieren De formulieren EE-RPB REDUCCION (vermindering) en EE-RPB DEVOLUCION (teruggaaf) zijn op aanvraag kosteloos verkrijgbaar bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de staatssecretaris van Financiën van 24 maar 1975, nr. B75/6174 (Stcrt. van 27 maart 1975, nr. 61), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Spaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Spanje.
 

@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling registratie akten BES"
 identifier: "BWBR0029296"
-categorie: "Overig"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029296"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029296"
+soort: "ministeriele-regeling-BES"
+stam_id: "11174003"
+version_id: "18277002"
+internal_id: "C25432871"
+label_id: "11148534"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029296/2011-01-01/0"
+intitule_bron: "Stcrt.2010-21028"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-21028"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-21028"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0029296&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0029296&g=2011-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-12-23"
+entry_into_force: "2011-01-01"
 ---
-
 # Uitvoeringsregeling registratie akten BES
 
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -20,7 +45,7 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt. 
 
 ### Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan de [artikelen 7.23](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.23) en [7.24 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&artikel=7.24).
 
@@ -28,7 +53,7 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt. 
 
 ### Registratie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder registratie wordt verstaan de ambtelijke inschrijving in een register van de gehele of van de zakelijke inhoud van akten.
 
@@ -38,11 +63,11 @@ Treedt in werking op het tijdstip waarop de Belastingwet BES in werking treedt. 
 
 4. Op de akten, die zijn geregistreerd, stelt de Inspecteur ten bewijze daarvan een ondertekende verklaring, vermeldende het nummer en de dagtekening van de registratie; de dagtekening wordt voluit in letters gesteld, het jaartal kan in cijfers worden uitgedrukt.
 
-#### Artikel 3
+##### Artikel 3
 
 Onder akten worden niet alleen verstaan stukken, opgemaakt om tot bewijs te dienen, maar ook huiselijke papieren, brieven, kaarten, tekeningen en andere geschriften.
 
-#### Artikel 4
+##### Artikel 4
 
 De volgende akten, met uitzondering van de akten genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=5&z=2011-01-01&g=2011-01-01), moeten ter registratie worden aangeboden:
 
@@ -54,7 +79,7 @@ De volgende akten, met uitzondering van de akten genoemd in [artikel 5](https://
 
 - d. alle onderhandse en alle buiten de BES eilanden opgemaakte bewijsschriften.
 
-#### Artikel 5
+##### Artikel 5
 
 De volgende akten kunnen ter registratie worden aangeboden:
 
@@ -68,7 +93,7 @@ De volgende akten kunnen ter registratie worden aangeboden:
 
 - e. alle overige akten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Akten van notarissen, andere dan de onder het vijfde lid bedoelde, moeten binnen acht dagen na de dagtekening van de akte ter registratie worden aangeboden.
 
@@ -86,7 +111,7 @@ De volgende akten kunnen ter registratie worden aangeboden:
 
 8. Bij de voornoemde termijnen wordt de dag van de dagtekening van de akte of het vonnis, de dag van overlijden of van het bekend worden van het overlijden niet meegeteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De notarissen, griffiers en deurwaarders zijn verplicht, binnen de voorgeschreven termijnen, de in [artikel 4, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=4&z=2011-01-01&g=2011-01-01), genoemde akten en vonnissen aan te bieden ten kantore van de inspecteur.
 
@@ -98,11 +123,11 @@ De volgende akten kunnen ter registratie worden aangeboden:
 
 5. De griffiers worden niet gestraft met een geldboete, wanneer de belanghebbenden in gebreke zijn gebleven om, overeenkomstig [hoofdstuk 7 van de Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244&hoofdstuk=VII) de verschuldigde belasting op aangifte te voldoen, mits de griffier binnen de termijn van registratie aan de inspecteur heeft aangeboden een op ongezegeld papier te stellen uittreksel van het vonnis, bevattende al hetgeen ter berekening van de bedoelde belastingen nodig is.
 
-#### Artikel 8
+##### Artikel 8
 
 De griffiers is, behoudens het bepaalde in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=7&z=2011-01-01&g=2011-01-01), niet toegestaan grossen, afschriften of uittreksels uit te geven van de vonnissen, bedoeld in [artikel 4, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=4&z=2011-01-01&g=2011-01-01), voordat de minuut is geregistreerd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het is aan alle ambtenaren verboden om krachtens of naar aanleiding van enig onderhands of buiten de BES-eilanden opgemaakt geschrift als bedoeld in [artikel 4, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=4&z=2011-01-01&g=2011-01-01):
 
@@ -124,7 +149,7 @@ voordat het onderhandse of buiten de BES eilanden opgemaakte geschrift is geregi
 
 3. Het bepaalde bij het eerste lid is niet van toepassing ten aanzien van notarissen, mits deze de bedoelde geschriften tegelijk met hun akte ter registratie aanbieden.
 
-#### Artikel 10
+##### Artikel 10
 
 Het vorige artikel is niet van toepassing op:
 
@@ -138,7 +163,7 @@ Het vorige artikel is niet van toepassing op:
 
 - e. akten van de Burgerlijke Stand, waarbij ongeregistreerd kunnen worden gebruikt de stukken, daarbij volgens het Burgerlijk Wetboek BES gevorderd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De notarissen, de griffiers en de deurwaarders zijn verplicht een kolomsgewijze ingericht repertorium te houden en zijn verplicht dag voor dag de minuten van alle akten te hun overstaan verleden of door hen opgemaakt en van de vonnissen, met uitzondering van de akten en vonnissen in strafzaken, in te schrijven.
 
@@ -162,7 +187,7 @@ Het vorige artikel is niet van toepassing op:
 
 5. Het niet voldoen aan de verplichtingen van het eerste lid en elke verzuimde of dubbele inschrijving zijn strafbare feiten die worden bestraft met een geldboete van USD 100.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De notarissen, griffiers en deurwaarders zijn verplicht binnen de eerste tien dagen van elk kalenderkwartaal aan de inspecteur hun repertorium ter visering aan te bieden.
 
@@ -174,13 +199,13 @@ een geldboete van USD 100 voor elke ingegane week verzuim.
 
 ### De Registers
 
-#### Artikel 13
+##### Artikel 13
 
 1. De registratieregisters zijn op elk blad genummerd en verdeeld in vakken; zij worden ingericht naar het model, door Onze Minister te bepalen.
 
 2. Bij inwerkingtreding van deze regeling geldt als model het model dat van toepassing was onder de als wet van toepassing zijnde Registratieverordening 1908.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Alle ter registratie aangeboden stukken worden, naarmate dat zij inkomen, onder een per jaar doorlopend volgnummer in het register ingeschreven. De inschrijving vangt aan met dit nummer en met de dagtekening van aanbieding. De dagtekening wordt, met uitzondering van het jaartal, voluit in letters geschreven.
 
@@ -188,7 +213,7 @@ een geldboete van USD 100 voor elke ingegane week verzuim.
 
 3. Voor elke inschrijving worden één of meer vakken gebruikt. Een vak mag slechts voor één inschrijving worden gebezigd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het is verboden om in de registers enig woord, letter of cijfer tussen-, bij- of over te schrijven, onleesbaar te maken of op enige andere wijze te doen verdwijnen.
 
@@ -198,7 +223,7 @@ een geldboete van USD 100 voor elke ingegane week verzuim.
 
 4. Elke doorhaling, bijvoeging of verandering in het register na de afgifte van het geregistreerde stuk is verboden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dagelijks, onmiddellijk ná het sluitingsuur, wordt het register door de inspecteur afgesloten door een gedagtekende en ondertekende verklaring, waarvoor een vak wordt gebruikt, onmiddellijk volgende op de laatste inschrijving of, indien geen inschrijving op die dag heeft plaats gehad, op de laatste afsluiting. Daarbij worden de dag en de dagtekening, met uitzondering van het jaartal, voluit in letters geschreven.
 
@@ -208,17 +233,17 @@ een geldboete van USD 100 voor elke ingegane week verzuim.
 
 registratie op de volgende en zonodig de verdere kantoordagen vervolgd met onderlinge verwijzing.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor elke overtreding van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=14&z=2011-01-01&g=2011-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=15&z=2011-01-01&g=2011-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0029296&artikel=16&z=2011-01-01&g=2011-01-01), voor ieder opengebleven vak, voor elke dubbele registratie of dubbele afsluiting kan door de inspecteur een geldboete worden opgelegd van USD 50, ook al is het opengelaten vak aangevuld of onbruikbaar gemaakt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De inspecteur geeft geen inzage van de registratieregisters, noch geeft daar uittreksels uit af anders dan aan partijen bij het geregistreerde stuk of hun rechtverkrijgenden, tenzij Onze Minister ontheffing verleent van de geheimhoudingsplicht. Een dergelijke autorisatie ontheft de inspecteur van de verplichting tot geheimhouding.
 
 2. Een uittreksel uit het registratieregister is niet anders dan een volledig afschrift van een inschrijving in het register; het wordt door de inspecteur voor afschrift ondertekend, met vermelding van de dagtekening van afgifte en van naam en woonplaats van degene, aan wie het wordt uitgereikt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Alle personen, die in een openbare betrekking registers, akten of stukken houden of in bewaring hebben, zijn verplicht om daarvan, zonder verplaatsing, inzage te geven aan de inspecteur en aan door deze aan te wijzen ambtenaren en te gedogen, dat deze daarvan afschriften of uittreksels nemen.
 
@@ -228,7 +253,7 @@ Voor elke overtreding van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:
 
 4. Weigering of belemmering van inzage is een strafbaar feit dat wordt gestraft met een geldboete van USD 750.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Ministers, openbare lichamen en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, alsmede lichamen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, verschaffen, mondeling, schriftelijk of op andere wijze, zulks ter keuze van de inspecteur, de gegevens en inlichtingen, en wel kosteloos, die hun door de inspecteur ter uitvoering van deze regeling worden gevraagd.
 
@@ -236,27 +261,27 @@ Voor elke overtreding van de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:
 
 ### Overige bepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 De kantoren van de inspecteur zijn voor de registratie van akten dagelijks geopend van 09.30 uur tot 15.30 uur, met uitzondering van zaterdagen, van zondagen en de krachtens de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202) met de zondag gelijkgestelde dagen.
 
-#### Artikel 22
+##### Artikel 22
 
 Indien de laatste dag van een termijn bij deze regeling bepaald een zaterdag, een zondag, of een krachtens de [Arbeidswet 2000 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028202) met de zondag gelijkgestelde dag is, wordt de termijn verlengd tot en met de eerstvolgende werkdag.
 
-#### Artikel 23
+##### Artikel 23
 
 De verplichtingen die volgens deze regeling bestaan jegens de inspecteur gelden mede jegens iedere door deze aangewezen ambtenaar van de Belastingdienst.
 
 ### Overgangsrecht
 
-#### Artikel 24
+##### Artikel 24
 
 Indien vóór het tijdstip van de inwerkingtreding van deze uitvoeringsregeling verplichtingen ter zake van registratie zijn ontstaan uit hoofde van de als wet van toepassing zijnde Registratieverordening 1908 en de registratieverordening 1908 en vóór het tijdstip van de inwerkingtreding van deze uitvoeringsregeling nog geen registratie heeft plaatsgevonden, blijven die verplichtingen ter zake onverkort gelden en vindt de uitvoering van die registratie plaats op basis van de bepalingen van deze regeling.
 
 ### Slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Deze regeling treedt in werking op het tijdstip waarop de [Belastingwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029244) in werking treedt.
 

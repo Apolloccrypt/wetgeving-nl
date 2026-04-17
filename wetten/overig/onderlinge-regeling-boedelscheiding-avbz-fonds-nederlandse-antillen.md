@@ -1,13 +1,38 @@
 ---
 title: "Onderlinge regeling boedelscheiding AVBZ-fonds Nederlandse Antillen"
 identifier: "BWBR0028984"
-categorie: "Overig"
-publicatiedatum: 2010-10-02
-laatste_update: 2010-10-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028984"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-02"
+last_updated: "2010-10-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028984"
+soort: "ministeriele-regeling"
+stam_id: "11082113"
+version_id: "18113382"
+internal_id: "C25184911"
+label_id: "11056544"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028984/2010-10-02/0"
+intitule_bron: "Stcrt.2010-14722"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14722"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14722"
+entry_into_force_date: "2010-10-02"
+jci_1_3: "jci1.3:c:BWBR0028984&z=2010-10-02&g=2010-10-02"
+jci_1_0: "1.0:c:BWBR0028984&g=2010-10-02"
+citeertitel_status: "officieel"
+signed_date: "2010-09-07"
+entry_into_force: "2010-10-02"
 ---
-
 # Onderlinge regeling boedelscheiding AVBZ-fonds Nederlandse Antillen
 
 Onderlinge regeling in de zin van [artikel 38, eerste lid, van het Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), strekkende tot splitsing van het vermogen van het AVBZ-fonds van de Nederlandse Antillen en toedeling van de AVBZ-gerechtigden bij het AVBZ-fonds van de Nederlandse Antillen, alsmede strekkende tot overeenstemming tussen betrokken partijen over een goede uitvoering hiervan,
@@ -36,7 +61,7 @@ Partijen komen het volgende overeen:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepaling regeling
+##### Artikel 1. Begripsbepaling regeling
 
 1. In deze regeling wordt verstaan onder:
 
@@ -70,23 +95,23 @@ Partijen komen het volgende overeen:
 
 #### § 2. Bepalingen in verband met toedeling belanghebbenden
 
-#### Artikel 2. Overgang archiefbescheiden
+##### Artikel 2. Overgang archiefbescheiden
 
 De overnemende landen verkrijgen zo spoedig mogelijk na het tijdstip van transitie de archiefbescheiden ter zake van AVBZ-gerechtigden waarmee de onderscheiden landen gelet op het bepaalde in het Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen ingaande het tijdstip van transitie een relatie hebben. Hetzelfde geldt voor archiefbescheiden van gewezen AVBZ-gerechtigden naar woonplaats op het tijdstip van transitie.
 
-#### Artikel 3. Communicatie
+##### Artikel 3. Communicatie
 
 De AVBZ-gerechtigden en zorgverleners worden tijdig over de gevolgen van de uit hoofde van het Rijksbesluit opvolging Sociale Verzekeringsbank Nederlandse Antillen op het tijdstip van transitie nieuwe situatie geïnformeerd. De informatievoorziening ter zake wordt tussen de vertegenwoordigers van de (toekomstige) landen onderling afgestemd.
 
 #### § 3. Financieel en materieel
 
-#### Artikel 4. Vermogensbepaling AVBZ-fonds Nederlandse Antillen
+##### Artikel 4. Vermogensbepaling AVBZ-fonds Nederlandse Antillen
 
 1. De waardering van het vermogen van het AVBZ-fonds van de Nederlandse Antillen geldt voor het tijdstip van de transitie.
 
 2. Voor de waardering van het vermogen van het AVBZ-fonds van de Nederlandse Antillen vormt de vermogensvaststelling ten tijde van de transitie, zoals opgenomen in de gecontroleerde jaarrekening, het uitgangspunt.
 
-#### Artikel 5. Verdeling en overdracht vermogen AVBZ-fonds Nederlandse Antillen
+##### Artikel 5. Verdeling en overdracht vermogen AVBZ-fonds Nederlandse Antillen
 
 1. Het vermogen van het AVBZ-fonds van de Nederlandse Antillen onmiddellijk voorafgaand aan het tijdstip van de transitie en overeenkomstig de in artikel 8, tweede lid bepaalde vaststelling, wordt zo spoedig mogelijk doch uiterlijk twaalf maanden na het tijdstip van transitie verdeeld tussen de betrokken landen naar:
 
@@ -104,7 +129,7 @@ De AVBZ-gerechtigden en zorgverleners worden tijdig over de gevolgen van de uit 
 
 De kosten van een nader onderzoek als bedoeld in de eerste volzin worden ten laste van het te verdelen vermogen van het AVBZ-fonds van de Nederlandse Antillen gebracht.
 
-#### Artikel 6. Voorschot vermogensverdeling
+##### Artikel 6. Voorschot vermogensverdeling
 
 1. Bij wijze van voorschot op het bepaalde in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028984&paragraaf=3&artikel=5&z=2010-10-02&g=2010-10-02), ontvangen de betrokken landen elk afzonderlijk een evenredig aandeel in de waarde per 31 december 2009 van 85 procent van de liquide middelen, beleggingen en reserveringen van het AVBZ-fonds van de Nederlandse Antillen, te verdelen volgens de criteria als bedoeld in artikel 5, eerste lid, van deze regeling, met dien verstande dat bij deze voorlopige verdeling het jaar 2010 als onderdeel van de verdeelcriteria buiten beschouwing wordt gelaten en dat op het aan een land toekomend evenredig aandeel haar schuld aan het AVBZ-fonds in mindering wordt gebracht.
 
@@ -114,31 +139,31 @@ De kosten van een nader onderzoek als bedoeld in de eerste volzin worden ten las
 
 4. De uitvoering van dit artikel ligt bij het AVBZ-Uitvoeringsorgaan van de Nederlandse Antillen.
 
-#### Artikel 7. Contracten en systemen
+##### Artikel 7. Contracten en systemen
 
 Met betrekking tot de op het tijdstip, onmiddellijk voorafgaand aan het tijdstip van de transitie, lopende contracten – en de op basis daarvan in gebruik zijnde systemen – van het AVBZ-fonds van de Nederlandse Antillen maken de landen onderling en met de betrokken contractpartij afspraken over de voortzetting dan wel beëindiging, van het betreffende contract.
 
 #### § 4. Overleg en geschillenregeling
 
-#### Artikel 8. Overleg
+##### Artikel 8. Overleg
 
 Op uitvoerend niveau wordt namens de partijen in vast overleg voorzien met het oog op de uitvoering van deze regeling. Na het tijdstip van transitie wordt dit overleg op passende wijze voortgezet, zolang de betrokken overlegpartners dit noodzakelijk achten.
 
-#### Artikel 9. Geschillenregeling
+##### Artikel 9. Geschillenregeling
 
 Indien zich in de uitvoering geschillen voordoen betreffende de toepassing van deze onderlinge regeling, dan kunnen deze worden voorgelegd aan de partijen gezamenlijk. Zij kunnen een onafhankelijke bemiddelaar aanwijzen die een voor de partijen bindend advies uitbrengt.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 10. Uitvoering na transitiedatum
+##### Artikel 10. Uitvoering na transitiedatum
 
 Het land Curaçao is belast met de aangelegenheden die verband houden met de afwikkeling en beëindiging van zaken na de splitsing van het AVBZ-fonds van de Nederlandse Antillen, tenzij anders wordt bepaald.
 
-#### Artikel 11. Nadere overeenkomst
+##### Artikel 11. Nadere overeenkomst
 
 Met het oog op een goede uitvoering van of ter uitwerking van het bepaalde in deze regeling kunnen op Secretaris Generaal-niveau namens de betrokken landen of hun uitvoeringsinstanties nadere afspraken worden gemaakt.
 
-#### Artikel 12. Inwerkingtreding en citeertitel
+##### Artikel 12. Inwerkingtreding en citeertitel
 
 1. Deze overeenkomst treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.
 

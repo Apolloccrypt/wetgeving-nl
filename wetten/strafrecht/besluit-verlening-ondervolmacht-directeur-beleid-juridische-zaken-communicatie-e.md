@@ -1,24 +1,50 @@
 ---
-title: "Besluit verlening ondervolmacht directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, directeur Bedrijfsvoering, programmadirecteur Toezicht Sociaal Domein en hoofden en teamleiders Inspectie Gezondheidszorg en Jeugd"
+title: "Besluit van de Inspecteur-generaal van de Inspectie Gezondheidszorg en Jeugd van 17 september 2019, kenmerk 2019-2338710, houdende de verlening van ondervolmacht aan de directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, de directeur Bedrijfsvoering, de programmadirecteur Toezicht Sociaal Domein en de hoofden en teamleiders van de Inspectie Gezondheidszorg en Jeugd"
 identifier: "BWBR0043071"
-categorie: "Strafrecht"
-publicatiedatum: 2020-01-16
-laatste_update: 2019-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043071"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-16"
+last_updated: "2019-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043071"
+soort: "ministeriele-regeling"
+stam_id: "15320643"
+version_id: "26413032"
+internal_id: "C37528221"
+label_id: "15266084"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043071/2020-01-16/0"
+intitule_bron: "Stcrt.2020-2259"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-09-17"
+intitule_published: "2020-01-15"
+intitule_in_force: "2020-01-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-2259"
+original_signed_date: "2019-09-17"
+original_published_date: "2020-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-2259"
+entry_into_force_date: "2020-01-16"
+jci_1_3: "jci1.3:c:BWBR0043071&z=2020-01-16&g=2020-01-16"
+jci_1_0: "1.0:c:BWBR0043071&g=2020-01-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verlening ondervolmacht directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, directeur Bedrijfsvoering, programmadirecteur Toezicht Sociaal Domein en hoofden en teamleiders Inspectie Gezondheidszorg en Jeugd"
+signed_date: "2019-09-17"
+entry_into_force: "2020-01-16"
 ---
-
 # Besluit van de Inspecteur-generaal van de Inspectie Gezondheidszorg en Jeugd van 17 september 2019, kenmerk 2019-2338710, houdende de verlening van ondervolmacht aan de directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, de directeur Bedrijfsvoering, de programmadirecteur Toezicht Sociaal Domein en de hoofden en teamleiders van de Inspectie Gezondheidszorg en Jeugd
 
 Gelet op [artikel 16, tweede lid, van de Volmachtregeling VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010710&artikel=16);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes en de directeur Bedrijfsvoering van de IGJ wordt ondervolmacht verleend om op hun werkterrein privaatrechtelijke rechtshandelingen te verrichten tot een maximumbedrag van € 100.000,– inclusief btw.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan:
 
@@ -76,11 +102,11 @@ Aan:
 
 van de IGJ wordt ondervolmacht verleend om op hun werkterrein privaatrechtelijke rechtshandelingen te verrichten tot een maximumbedrag van € 2.500,– inclusief btw.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [besluit van 22 oktober 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041586), kenmerk 2018-2189771/KH/rr, houdende de verlening van ondervolmacht aan de directeur Beleid, Juridische Zaken, Communicatie en Bureau Opsporing Boetes, de directeur Bedrijfsvoering en hoofden van de Inspectie Gezondheidszorg en Jeugd wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met datum 1 oktober 2019.
 

@@ -1,13 +1,35 @@
 ---
 title: "Berner Conventie voor de bescherming van werken van letterkunde en kunst van 9 september 1886, aangevuld te Parijs op 4 mei 1896, herzien te Berlijn op 13 november 1908, aangevuld te Bern op 20 maart 1914, herzien te Rome op 2 juni 1928, te Brussel op 26 juni 1948, te Stockholm op 14 juli 1967 en te Parijs op 24 juli 1971"
 identifier: "BWBV0003977"
-categorie: "Internationaal recht"
-publicatiedatum: 1986-01-30
-laatste_update: 1986-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003977"
+country: "nl"
+rank: "verdrag"
+publication_date: "1986-01-30"
+last_updated: "1986-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003977"
+soort: "verdrag"
+stam_id: "10003794353"
+version_id: "10003860582"
+internal_id: "C10006983961"
+label_id: "10003780104"
+dtd_version: "2.0"
+original_entry_into_force: "1975-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003977/1986-01-30/0"
+intitule_bron: "Trb.1972-157"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-12-12"
+intitule_in_force: "1974-12-05"
+intitule_status: "goed"
+original_publication: "Trb.1972-157"
+original_published_date: "1972-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-157"
+entry_into_force_date: "1975-01-10"
+jci_1_3: "jci1.3:c:BWBV0003977&z=1986-01-30&g=1986-01-30"
+jci_1_0: "1.0:c:BWBV0003977&g=1986-01-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-01-10"
 ---
-
 # Berner Conventie voor de bescherming van werken van letterkunde en kunst van 9 september 1886, aangevuld te Parijs op 4 mei 1896, herzien te Berlijn op 13 november 1908, aangevuld te Bern op 20 maart 1914, herzien te Rome op 2 juni 1928, te Brussel op 26 juni 1948, te Stockholm op 14 juli 1967 en te Parijs op 24 juli 1971
 
 De landen van de Unie, gelijkelijk bezield door de wens op een zo doeltreffend en eenvormig mogelijke wijze de rechten der auteurs op hun werken van letterkunde en kunst te beschermen,
@@ -18,11 +40,11 @@ Hebben besloten de door de Conferentie van Stockholm aangenomen Akte te herzien 
 
 Dientengevolge zijn de ondergetekende gevolmachtigden, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De landen waarvoor deze Conventie geldt, vormen een Unie voor de bescherming van de rechten der auteurs op hun werken van letterkunde en kunst.
 
-#### Artikel 2
+##### Artikel 2
 
 1). De term „werken van letterkunde en kunst” omvat alle voortbrengselen op het gebied van letterkunde, wetenschap en kunst, welke ook de wijze of de vorm van uitdrukking zij, zoals boeken, brochures en andere geschriften; voordrachten, toespraken, preken en andere werken van dien aard; toneelwerken of dramatisch-muzikale werken; choreografische werken en pantomimes; muzikale composities met of zonder woorden; cinematografische werken, waarmee volgens een soortgelijke werkwijze uitgedrukte werken worden gelijkgesteld; werken van teken-, schilder-, bouw-, beeldhouw-, graveer- en lithografeerkunst; fotografische werken, waarmee volgens een soortgelijke werkwijze uitgedrukte werken worden gelijkgesteld; werken van toegepaste kunst; illustraties en aardrijkskundige kaarten; tekeningen, schetsen en plastische werken, betrekking hebbende op de aardrijkskunde, de topografie, de bouwkunde of de wetenschappen.
 
@@ -40,7 +62,7 @@ De landen waarvoor deze Conventie geldt, vormen een Unie voor de bescherming van
 
 8). De bescherming van deze Conventie is niet toepasselijk op nieuwstijdingen of gemengde berichten die louter het karakter van persberichten dragen.
 
-#### Artikel 2bis
+##### Artikel 2bis
 
 1). Het is aan de wetgeving van de landen van de Unie voorbehouden om van de bescherming bedoeld in het vorige artikel politieke redevoeringen en in rechtszaken uitgesproken redevoeringen geheel of gedeeltelijk uit te sluiten.
 
@@ -48,7 +70,7 @@ De landen waarvoor deze Conventie geldt, vormen een Unie voor de bescherming van
 
 3). Alleen de auteur zal evenwel het recht hebben zijn in de vorige leden genoemde werken in een verzameling bijeen te brengen.
 
-#### Artikel 3
+##### Artikel 3
 
 1). Krachtens deze Conventie genieten bescherming:
 
@@ -62,7 +84,7 @@ De landen waarvoor deze Conventie geldt, vormen een Unie voor de bescherming van
 
 4). Als gelijktijdig in verscheidene landen gepubliceerd wordt beschouwd elk werk, dat binnen dertig dagen na zijn eerste publikatie in twee of meer landen verschenen is.
 
-#### Artikel 4
+##### Artikel 4
 
 Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedoelde voorwaarden niet zijn vervuld:
 
@@ -70,7 +92,7 @@ Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedo
 
 - b. scheppers van bouwwerken die gebouwd zijn in een land van de Unie of auteurs van werken van grafische en plastische kunst die één geheel vormen met een gebouw gelegen in een land van de Unie.
 
-#### Artikel 5
+##### Artikel 5
 
 1). De auteurs genieten voor de werken waarvoor zij krachtens deze Conventie zijn beschermd, in de landen van de Unie die niet het land van oorsprong van het werk zijn, de rechten, welke de onderscheidene wetten thans of in de toekomst aan eigen onderdanen verlenen of zullen verlenen, alsmede de rechten door deze Conventie in het bijzonder verleend.
 
@@ -90,7 +112,7 @@ Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedo
 
 - ii). bouwwerken betreft gebouwd in een land van de Unie of werken van grafische en plastische kunst die één geheel vormen met een gebouw gelegen in een land van de Unie, is dit land het land van oorsprong.
 
-#### Artikel 6
+##### Artikel 6
 
 1). Wanneer een land dat geen lid van de Unie is de werken van auteurs die onderdaan zijn van een der landen van de Unie niet in voldoende mate beschermt, kan dat laatste land de bescherming beperken van werken, waarvan de auteurs, op het ogenblik der eerste publikatie van die werken, onderdaan zijn van dat andere land en niet hun gewone verblijfplaats hebben in een der landen van de Unie. Indien het land van eerste publikatie van deze bevoegdheid gebruik maakt, zijn de andere landen van de Unie niet gehouden aan de werken, die aldus aan een bijzondere behandeling zijn onderworpen, een ruimere bescherming toe te kennen dan die, welke hun in het land van eerste publikatie wordt toegekend.
 
@@ -98,7 +120,7 @@ Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedo
 
 3). De landen van de Unie die krachtens dit artikel de bescherming van de rechten der auteurs beperken, moeten daarvan aan de Directeur-Generaal van de Wereldorganisatie voor de Intellectuele Eigendom (hierna te noemen de „Directeur-Generaal”) kennis geven door een schriftelijke verklaring, waarin moeten worden aangegeven de landen tegenover welke de bescherming wordt beperkt, evenals beperkingen waaraan de rechten van de tot die landen behorende auteurs zijn onderworpen. De Directeur-Generaal zal die verklaring dadelijk ter kennis van alle landen van de Unie brengen.
 
-#### Artikel 6bis
+##### Artikel 6bis
 
 1). Onafhankelijk van de vermogensrechtelijke auteursrechten, en zelfs na overdracht van die rechten, behoudt de auteur het recht om het auteurschap van het werk op te eisen, en om zich te verzetten tegen elke misvorming, verminking of andere wijziging van dat werk, of tegen elke andere aantasting daarvan, die nadeel zou kunnen toebrengen aan zijn eer of zijn goede naam.
 
@@ -106,7 +128,7 @@ Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedo
 
 3). De rechtsmiddelen ter handhaving van de in dit artikel toegekende rechten worden geregeld door de wetgeving van het land waar de bescherming wordt ingeroepen.
 
-#### Artikel 7
+##### Artikel 7
 
 1). De duur der bescherming die door deze Conventie wordt toegekend, omvat het leven van de auteur en vijftig jaren na zijn dood.
 
@@ -124,15 +146,15 @@ Krachtens deze Conventie genieten bescherming, zelfs indien de in artikel 3 bedo
 
 8). In alle gevallen wordt de duur geregeld door de wet van het land waar de bescherming wordt ingeroepen; tenzij de wetgeving van dat land anders beschikt overschrijdt hij evenwel niet de in het land van oorsprong van het werk vastgestelde duur.
 
-#### Artikel 7bis
+##### Artikel 7bis
 
 De bepalingen van het voorgaande artikel zijn eveneens van toepassing wanneer het auteursrecht gemeenschappelijk toebehoort aan de medewerkers aan een werk, met dien verstande dat de termijnen volgend op de dood van de auteur worden berekend vanaf de datum van overlijden van de auteur, die het langst in leven gebleven is.
 
-#### Artikel 8
+##### Artikel 8
 
 De door deze Conventie beschermde auteurs van werken van letterkunde en kunst genieten gedurende de gehele duur van hun rechten op het oorspronkelijk werk het uitsluitend recht om vertalingen van hun werken te maken of daartoe toestemming te verlenen.
 
-#### Artikel 9
+##### Artikel 9
 
 1). De door deze Conventie beschermde auteurs van werken van letterkunde en kunst genieten het uitsluitende recht om toestemming te verlenen tot het verveelvoudigen van deze werken, ongeacht op welke wijze en in welke vorm.
 
@@ -140,7 +162,7 @@ De door deze Conventie beschermde auteurs van werken van letterkunde en kunst ge
 
 3). Geluids- of beeldopnamen worden beschouwd als een verveelvoudiging in de zin van deze Conventie.
 
-#### Artikel 10
+##### Artikel 10
 
 1). Geoorloofd zijn aanhalingen uit een werk dat reeds op geoorloofde wijze voor het publiek toegankelijk is gemaakt, mits zij verenigbaar zijn met de goede gebruiken en voor zover door het doel gerechtvaardigd, zulks met inbegrip van aanhalingen uit artikelen in nieuwsbladen en tijdschriften in de vorm van persoverzichten.
 
@@ -148,13 +170,13 @@ De door deze Conventie beschermde auteurs van werken van letterkunde en kunst ge
 
 3). Bij de aanhalingen en het gebruik bedoeld in de voorgaande leden moeten de bron en de naam van de auteur vermeld worden, indien deze naam in de bron voorkomt.
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 1). Het is aan de wetgeving van de landen van de Unie voorbehouden de verveelvoudiging door de pers, de uitzending door de radio of de overbrenging per draad aan het publiek van artikelen waarin actuele vragen van economie, politiek of godsdienst worden behandeld, en die zijn gepubliceerd in nieuwsbladen, of tijdschriften, of van door de radio uitgezonden werken van dezelfde aard, toe te staan in de gevallen waarin de verveelvoudiging, de radio-uitzending of de genoemde overbrenging niet uitdrukkelijk zijn voorbehouden. De bron moet echter altijd duidelijk zijn aangegeven; de sanctie op overtreding van deze verplichting wordt bepaald door de wetgeving van het land waar de bescherming wordt ingeroepen.
 
 2). Het is eveneens aan de wetgeving van de landen van de Unie voorbehouden de voorwaarden te regelen waaronder, ter gelegenheid van verslagen van actuele gebeurtenissen, door middel van fotografie, cinematografie of langs de weg van radio-uitzending of overbrenging per draad aan het publiek, de werken van letterkunde of kunst gezien of gehoord tijdens de gebeurtenis, voor zover uit een oogpunt van voorlichting gerechtvaardigd, kunnen worden weergegeven en voor het publiek toegankelijk gemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1). Auteurs van toneelwerken, dramatisch-muzikale werken en muziekwerken genieten het uitsluitend recht toestemming te verlenen tot:
 
@@ -164,7 +186,7 @@ De door deze Conventie beschermde auteurs van werken van letterkunde en kunst ge
 
 2). Dezelfde rechten worden toegekend aan auteurs van toneelwerken of dramatisch-muzikale werken gedurende de gehele duur van hun rechten op hun oorspronkelijke werk, ten aanzien van de vertaling van hun werken.
 
-#### Artikel 11bis
+##### Artikel 11bis
 
 1). Auteurs van werken van letterkunde en kunst genieten het uitsluitend recht toestemming te verlenen tot:
 
@@ -178,7 +200,7 @@ De door deze Conventie beschermde auteurs van werken van letterkunde en kunst ge
 
 3). Tenzij anders is overeengekomen, is in een overeenkomstig het eerste lid van dit artikel verleende toestemming niet begrepen de toestemming om het door de radio uitgezonden werk op te nemen door middel van instrumenten die geluiden of beelden vastleggen. Nochtans is het aan de wetgeving van de landen van de Unie voorbehouden een regeling vast te stellen voor kortstondige opnamen, die door een radiozendorganisatie met haar eigen middelen en voor haar eigen uitzendingen tot stand worden gebracht. Die wetgeving kan toestaan dat zulke opnamen uit hoofde van hun uitzonderlijk documentair karakter in officiële archieven worden bewaard.
 
-#### Artikel 11ter
+##### Artikel 11ter
 
 1). Auteurs van letterkundige werken genieten het uitsluitend recht toestemming te verlenen tot:
 
@@ -188,11 +210,11 @@ De door deze Conventie beschermde auteurs van werken van letterkunde en kunst ge
 
 2). Dezelfde rechten worden toegekend aan auteurs van letterkundige werken gedurende de gehele duur van hun rechten op het oorspronkelijke werk, ten aanzien van de vertaling van hun werken.
 
-#### Artikel 12
+##### Artikel 12
 
 Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toestemming te verlenen tot bewerkingen, arrangementen en andere veranderingen van hun werken.
 
-#### Artikel 13
+##### Artikel 13
 
 1). Ieder land van de Unie kan, voor zover het dit land zelf aangaat, voorbehouden en voorwaarden vaststellen met betrekking tot het uitsluitend recht van de auteur van een muziekwerk en van de auteur van de woorden, - wanneer laatstgenoemde auteur reeds toestemming heeft verleend tot de opname van die woorden te zamen met het muziekwerk -, om tot de geluidsopname van genoemd muziekwerk, eventueel met de woorden, toestemming te verlenen; de werking van alle voorbehouden en voorwaarden van dien aard zal evenwel strikt beperkt blijven tot het land dat ze gesteld heeft en zal in geen geval afbreuk kunnen doen aan het de auteur toekomend recht op een billijke vergoeding, die bij gebreke van een minnelijke schikking door het bevoegde gezag wordt vastgesteld.
 
@@ -200,7 +222,7 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 3). De opnamen, die krachtens het eerste en tweede lid van dit artikel gemaakt, en zonder toestemming der belanghebbenden zijn ingevoerd in een land waar zij niet geoorloofd zijn, kunnen daar in beslag worden genomen.
 
-#### Artikel 14
+##### Artikel 14
 
 1). Auteurs van werken van letterkunde of kunst hebben het uitsluitend recht toestemming te verlenen tot:
 
@@ -212,7 +234,7 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 3). De bepalingen van het eerste lid van artikel 13 zijn niet van toepassing.
 
-#### Artikel 14bis
+##### Artikel 14bis
 
 1). Onverminderd de rechten van de auteur van elk werk dat is bewerkt of verveelvuldigd, wordt het cinematografische werk beschermd als een oorspronkelijk werk. De rechthebbende op het auteursrecht op het cinematografische werk geniet dezelfde rechten als de auteur van een oorspronkelijk werk waaronder de in het voorgaande artikel bedoelde rechten zijn begrepen.
 
@@ -226,7 +248,7 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 3). Tenzij de nationale wetgeving anders bepaalt, zijn de bepalingen van het tweede lid, onder b, niet van toepassing op auteurs van scenario's, dialogen en muziekwerken die zijn gemaakt voor het tot stand brengen van het cinematografische werk noch op degene die bij het tot stand brengen daarvan de leiding heeft. De landen van de Unie wier wetgeving evenwel geen bepalingen bevat, waarbij wordt voorzien in de toepassing van het tweede lid, onder b, op degene die bij het tot stand brengen van de film de leiding heeft, moeten daarvan kennis geven aan de Directeur-Generaal door een schriftelijke verklaring die door de laatste onmiddellijk ter kennis van alle andere landen van de Unie wordt gebracht.
 
-#### Artikel 14ter
+##### Artikel 14ter
 
 1). Wat betreft oorspronkelijke kunstwerken en oorspronkelijke handschriften van schrijvers en componisten, geniet de auteur - of, na zijn dood, de door de nationale wetgeving aangewezen personen of instellingen - het onvervreemdbaar recht op een geldelijk voordeel bij elke verkooptransactie van het werk na de eerste overdracht door de auteur.
 
@@ -234,7 +256,7 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 3). De wijze van inning en de hoogte der bedragen worden door elke nationale wetgeving bepaald.
 
-#### Artikel 15
+##### Artikel 15
 
 1). Opdat de auteurs van de door deze Conventie beschermde werken van letterkunde en kunst, behoudens bewijs van het tegendeel, als zodanig worden beschouwd en zij bijgevolg voor de rechter van de landen van de Unie worden toegelaten om vervolgingen wegens inbreuk in te stellen, is het voldoende dat de naam op de gebruikelijke wijze op het werk vermeld staat. Dit lid is van toepassing, zelfs indien deze naam een schuilnaam is, zodra de door de auteur aangenomen schuilnaam geen twijfel laat ten aanzien van zijn identiteit.
 
@@ -246,7 +268,7 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 - b. De landen van de Unie die krachtens deze bepaling tot een zodanige aanwijzing overgaan geven daarvan kennis aan de Directeur-Generaal door een schriftelijke verklaring waarin alle gegevens betreffende de aldus aangewezen autoriteit zijn vermeld. De Directeur-Generaal brengt deze verklaring onmiddellijk ter kennis van alle andere landen van de Unie.
 
-#### Artikel 16
+##### Artikel 16
 
 1). Elk afschrift van een werk, waardoor inbreuk wordt gemaakt op het auteursrecht kan in de landen van de Unie waar het oorspronkelijke werk wettelijke bescherming geniet in beslag worden genomen.
 
@@ -254,11 +276,11 @@ Auteurs van werken van letterkunde of kunst genieten het uitsluitend recht toest
 
 3). Het beslag wordt gelegd overeenkomstig de wetgeving van elk land.
 
-#### Artikel 17
+##### Artikel 17
 
 De bepalingen van deze Conventie kunnen in geen enkel opzicht afbreuk doen aan het recht van de Regering van elk land van de Unie om door maatregelen van wetgeving of bestuur de verspreiding, opvoering of tentoonstelling van elk werk of voortbrengsel ten aanzien waarvan het bevoegde gezag dat recht meent te moeten uitoefenen, toe te staan, onder toezicht te stellen of te verbieden.
 
-#### Artikel 18
+##### Artikel 18
 
 1). Deze Conventie is van toepassing op alle werken, die op het ogenblik van haar inwerkingtreding nog niet gemeengoed zijn geworden in het land van oorsprong ten gevolge van het verstrijken van de beschermingsduur.
 
@@ -268,21 +290,21 @@ De bepalingen van deze Conventie kunnen in geen enkel opzicht afbreuk doen aan h
 
 4). De voorgaande bepalingen zijn eveneens van toepassing in geval van nieuwe toetredingen tot de Unie en in gevallen, waarin de bescherming wordt uitgebreid door toepassing van artikel 7 of door het prijsgeven van voorbehouden.
 
-#### Artikel 19
+##### Artikel 19
 
 De bepalingen van deze Conventie beletten niet dat een beroep wordt gedaan op een grotere mate van bescherming, die door de wetgeving van een der landen van de Unie mocht zijn voorgeschreven.
 
-#### Artikel 20
+##### Artikel 20
 
 De Regeringen van de landen van de Unie behouden zich het recht voor onderling bijzondere schikkingen te treffen, voor zover deze aan de auteurs ruimere rechten toekennen dan die door de Conventie worden toegekend, of andere bepalingen bevatten die niet in strijd zijn met deze Conventie. De bepalingen der bestaande schikkingen, die aan de bovenomschreven voorwaarden voldoen, blijven van toepassing.
 
-#### Artikel 21
+##### Artikel 21
 
 1). De bijzondere bepalingen betreffende de ontwikkelingslanden zijn vervat in het Aanhangsel.
 
 2). Behoudens hetgeen bepaald is in artikel 28, eerste lid, letter b, vormt het Aanhangsel een integrerend deel van deze Akte.
 
-#### Artikel 22
+##### Artikel 22
 
 - a. De Unie kent een Algemene Vergadering, samengesteld uit de landen van de Unie die gebonden zijn door de artikelen 22 tot en met 26.
 
@@ -340,7 +362,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 5). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 23
+##### Artikel 23
 
 1). De Algemene Vergadering heeft een Uitvoerende Commissie.
 
@@ -394,7 +416,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 10). De Uitvoerende Commissie stelt haar reglement van orde vast.
 
-#### Artikel 24
+##### Artikel 24
 
 - a. De administratieve taken die aan de Unie ten deel vallen worden verricht door het Internationale Bureau, dat een voortzetting is van het Bureau van de Unie verenigd met het Bureau van de Unie ingesteld bij het [Verdrag tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
@@ -420,7 +442,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 8). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 25
+##### Artikel 25
 
 - a. De Unie heeft een begroting.
 
@@ -477,7 +499,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door een of meer landen van de Unie of door onafhankelijke controleurs, die, met hun instemming, zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 26
+##### Artikel 26
 
 1). Voorstellen tot wijziging van de artikelen 22, 23, 24 en 25 en van dit artikel kunnen worden ingediend door ieder land dat lid is van de Algemene Vergadering, door de Uitvoerende Commissie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan het onderzoek der Algemene Vergadering worden onderworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
 
@@ -485,7 +507,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 3). De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden constitutionele procedures, door drie/vierde van de landen, die lid waren van de Algemene Vergadering op het tijdstip waarop de wijziging werd aanvaard. Een aldus aanvaarde wijziging van de genoemde artikelen bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum lid worden; wijzigingen die de financiële verplichtingen van de landen verzwaren binden evenwel slechts die landen die te kennen hebben gegeven deze wijzigingen te aanvaarden.
 
-#### Artikel 27
+##### Artikel 27
 
 1). Deze Conventie wordt onderworpen aan herzieningen ten einde daarin wijzigingen aan te brengen die kunnen strekken tot verbetering van het stelsel der Unie.
 
@@ -493,7 +515,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 3). Behoudens de bepalingen van artikel 26 die van toepassing zijn op de wijziging van de artikelen 22 tot en met 26, is voor elke herziening van deze Conventie, met inbegrip van het Aanhangsel, eenparigheid van stemmen vereist.
 
-#### Artikel 28
+##### Artikel 28
 
 - a. Elk land van de Unie dat deze akte heeft ondertekend kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden. De akten van bekrachtiging en toetreding worden nedergelegd bij de Directeur-Generaal.
 
@@ -515,7 +537,7 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 3). Voor elk land van de Unie dat deze Akte bekrachtigt of daartoe toetreedt met of zonder verklaring ingevolge het eerste lid, letter b, treden de artikelen 22 tot en met 38 in werking drie maanden na de datum waarop de Directeur-Generaal kennis heeft gegeven van de nederlegging van de betrokken akte van bekrachtging of toetreding, tenzij in de nedergelegde akte een latere datum is aangegeven. In dat geval treden de artikelen 22 tot en met 38 voor dat land in werking op de aldus aangegeven datum.
 
-#### Artikel 29
+##### Artikel 29
 
 1). Elk land dat geen lid is van de Unie kan tot deze Akte toetreden en daardoor partij bij deze Conventie en lid van de Unie worden. De akten van toetreding worden nedergelegd bij de Directeur-Generaal.
 
@@ -523,11 +545,11 @@ De Regeringen van de landen van de Unie behouden zich het recht voor onderling b
 
 - b. Indien de inwerkingtreding krachtens toepassing van letter a voorafgaat aan de inwerkingtreding van de artikelen 1 tot en met 21 en het Aanhangsel op grond van artikel 28, tweede lid, letter a, zal dat land middelerwijl zijn gebonden door de artikelen 1 tot en met 20 van de Akte van Brussel van deze Conventie, die daarmede in de plaats treden van de artikelen 1 tot en met 21 en het Aanhangsel.
 
-#### Artikel 29bis
+##### Artikel 29bis
 
 De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is gebonden door de artikelen 22 tot en met 38 van de Akte van Stockholm van deze Conventie, staat, uitsluitend ten behoeve van de toepassing van [artikel 14, tweede lid, van het Verdrag tot oprichting van de Organisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0004328&artikel=14), gelijk met bekrachtiging van de Akte van Stockholm of toetreding tot deze Akte met de beperking voorzien in artikel 28, eerste lid, letter b onder i), van genoemde Akte.
 
-#### Artikel 30
+##### Artikel 30
 
 1). Behoudens de uitzonderingen toegestaan in het tweede lid van dit artikel, in artikel 28, eerste lid, letter b, in artikel 33, tweede lid, alsmede in het Aanhangsel, houdt bekrachtiging of toetreding van rechtswege in aanvaarding van alle bepalingen en toelating tot alle voordelen in deze Akte vastgelegd.
 
@@ -537,7 +559,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 - c. Elk land kan op ieder tijdstip zodanige voorbehouden intrekken door een aan de Directeur-Generaal gerichte kennisgeving.
 
-#### Artikel 31
+##### Artikel 31
 
 1). Elk land kan in zijn akte van bekrachtiging of toetreding verklaren of op ieder tijdstip de Directeur-Generaal schriftelijk mededelen dat deze Conventie van toepassing is op alle of een gedeelte van de gebieden, aangegeven in de verklaring of kennisgeving, voor de buitenlandse betrekkingen waarvan dat land verantwoordelijk is.
 
@@ -549,7 +571,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 4). Dit artikel mag evenwel in geen geval zodanig worden uitgelegd dat het de erkenning of stilzwijgende aanvaarding door een der landen van de Unie zou inhouden van de feitelijke situatie van elk gebied waarop een ander land van de Unie deze Conventie toepasselijk doet zijn ingevolge een verklaring als bedoeld in het eerste lid.
 
-#### Artikel 32
+##### Artikel 32
 
 1). Deze Akte vervangt in de betrekkingen tussen de landen van de Unie en voor zover zij van toepassing is, de [Berner Conventie van 9 september 1886](https://wetten.overheid.nl/jci1.3:c:BWBV0005667) en de daarop gevolgde Akten van herziening. De Akten die tevoren van kracht waren, blijven in hun geheel of voor zover deze Akte daarvoor niet in de plaats treedt krachtens de voorgaande zin, van toepassing in de betrekkingen met de landen van de Unie die deze Akte niet bekrachtigen of daartoe niet toetreden.
 
@@ -561,7 +583,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 3). Een land dat gebruik heeft gemaakt van een van de mogelijkheden voorzien in het Aanhangsel, kan de bepalingen van het Aanhangsel die betrekking hebben op die mogelijkheid of mogelijkheden waarvan het gebruik heeft gemaakt inroepen in zijn betrekkingen met elk ander land van de Unie dat niet gebonden is door deze Akte, mits laatstgenoemd land de toepassing van deze bepalingen heeft aanvaard.
 
-#### Artikel 33
+##### Artikel 33
 
 1). Elk geschil tussen twee of meer landen van de Unie betreffende de uitlegging of de toepassing van deze Conventie dat niet door onderhandelingen kan worden beslecht, kan door een der betrokken landen worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken landen een andere wijze van beslechting van het geschil overeenkomen. Het land, dat het geschil aan het Hof heeft voorgelegd, stelt het Internationale Bureau hiervan in kennis; het Bureau brengt de zaak onder de aandacht van de andere landen van de Unie.
 
@@ -569,13 +591,13 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 3). Elk land dat een verklaring overeenkomstig het bepaalde in het tweede lid aflegt, kan deze te allen tijde intrekken door een aan de Directeur-Generaal gerichte kennisgeving.
 
-#### Artikel 34
+##### Artikel 34
 
 1). Behoudens het bepaalde in artikel 29**bis** kan een land na de inwerkingtreding van de artikelen 1 tot en met 21 en van het Aanhangsel niet meer toetreden tot voorgaande Akten van deze Conventie of deze bekrachtigen.
 
 2). Na de inwerkingtreding van de artikelen 1 tot en met 21 en van het Aanhangsel kan een land niet meer een een verklaring afleggen krachtens artikel 5 van het Protocol betreffende de ontwikkelingslanden gehecht aan de Akte van Stockholm.
 
-#### Artikel 35
+##### Artikel 35
 
 1). Deze Conventie blijft voor onbepaalde tijd van kracht.
 
@@ -585,13 +607,13 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 4). De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren te rekenen van de datum waarop dat land lid van de Unie is geworden.
 
-#### Artikel 36
+##### Artikel 36
 
 1). Elk land, partij bij deze Conventie, verbindt zich overeenkomstig zijn grondwet de nodige maatregelen te treffen om de toepassing van deze Conventie te verzekeren.
 
 2). Het is wel verstaan dat op het ogenblik waarop een land wordt gebonden door deze Conventie, het overeenkomstig zijn binnenlandse wetgeving in staat is aan de bepalingen van deze Conventie uitvoering te geven.
 
-#### Artikel 37
+##### Artikel 37
 
 - a. Deze akte wordt ondertekend in een enkel exemplaar in de Franse en de Engelse taal en, behoudens het bepaalde in het tweede lid, nedergelegd bij de Directeur-Generaal.
 
@@ -607,7 +629,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 5). De Directeur-Generaal brengt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding en de verklaringen vervat in deze akten, dan wel afgelegd ingevolge de artikelen 28, eerste lid, letter c, 30, tweede lid, letters a en b, en 33, tweede lid, de inwerkingtreding van alle bepalingen van deze Akte, de kennisgevingen van opzegging en de mededelingen gedaan ingevolge de artikelen 30, tweede lid, letter c, 31, eerste en tweede lid, 33, derde lid, en 38, eerste lid, alsmede de mededelingen bedoeld in het Aanhangsel ter kennis van de Regeringen van alle landen van de Unie.
 
-#### Artikel 38
+##### Artikel 38
 
 1). De landen van de Unie die deze Akte niet hebben bekrachtigd of daartoe niet zijn toegetreden en die niet zijn gebonden door de artikelen 22 tot en met 26 van de Akte van Stockholm kunnen, indien zij dit wensen, tot 26 april 1975 de rechten uitoefenen bedoeld in genoemde artikelen, alsof zij door deze artikelen waren gebonden. Elk land dat deze rechten wenst uit te oefenen richt tot dit doel een schriftelijke kennisgeving aan de Directeur-Generaal, waarvan de rechtsgevolgen ingaan op de datum van ontvangst. Zodanige landen worden geacht lid te zijn van de Algemene Vergadering tot genoemde datum.
 
@@ -615,7 +637,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 3). Wanneer alle landen van de Unie lid van de Organisatie zijn geworden gaan de rechten, verplichtingen en goederen van het Bureau van de Unie over op het Internationale Bureau van de Organisatie.
 
-#### Artikel I
+##### Artikel I
 
 1). Een land dat overeenkomstig de gevestigde gebruiken van de Algemene Vergadering van de Verenigde Naties als ontwikkelingsland wordt beschouwd en dat deze Akte, waarvan dit Aanhangsel een integrerend deel uitmaakt, bekrachtigt of daartoe toetreedt en dat zich, gezien zijn economische situatie en zijn sociale of culturele behoeften, niet in staat acht om terstond de nodige regelingen te treffen ten einde de bescherming te verzekeren van alle rechten zoals bepaald in deze Akte kan, door middel van een kennisgeving, nedergelegd bij de Directeur-Generaal op het tijdstip van nederlegging van zijn akte van bekrachtiging of toetreding of, behoudens het bepaalde in artikel V, eerste lid, letter c, op elk later tijdstip, verklaren dat het zich beroept op de mogelijkheid voorzien in artikel II of op die, voorzien in artikel III, dan wel op beide. In plaats van een beroep te doen op de mogelijkheid voorzien in artikel II kan het een verklaring afleggen overeenkomstig artikel V, eerste lid, letter a.
 
@@ -633,7 +655,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 - b. Van de mogelijkheid tot wederkerigheid bepaald in artikel 30, tweede lid, letter b, tweede zin, kan tot de datum waarop de termijn die ingevolge artikel I, derde lid, van toepassing is, verstrijkt, geen gebruik worden gemaakt voor werken uit een land van oorsprong dat een verklaring heeft afgelegd overeenkomstig artikel V, eerste lid, letter a.
 
-#### Artikel II
+##### Artikel II
 
 1). Een land dat heeft verklaard de mogelijkheid, voorzien in dit artikel, in te roepen is bevoegd, wat de werken betreft die in gedrukte vorm of in enigerlei andere soortgelijke vorm van verveelvoudiging, zijn gepubliceerd, het uitsluitende recht tot vertaling, voorzien in artikel 8, te vervangen door een stelsel van vergunningen, die uitsluitend noch overdraagbaar zijn en die door de bevoegde autoriteit op de onderstaande voorwaarden en overeenkomstig artikel IV verleend worden.
 
@@ -677,7 +699,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 - d. Behoudens het bepaalde in de letters a tot en met c zijn de bepalingen van de voorgaande leden van toepassing op de verlening en het gebruik van elke krachtens dit lid verleende vergunning.
 
-#### Artikel III
+##### Artikel III
 
 1). Een land dat heeft verklaard de bij dit artikel voorziene mogelijkheid in te roepen is bevoegd het uitsluitend recht van verveelvoudiging, voorzien in artikel 9, te vervangen door een stelsel van vergunningen, die uitsluitend noch overdraagbaar zijn en die door de bevoegde autoriteit op de onderstaande voorwaarden en overeenkomstig artikel IV verleend worden.
 
@@ -719,7 +741,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 - b. Dit artikel is eveneens van toepassing op de audiovisuele verveelvoudiging van op rechtmatige wijze gemaakte audiovisuele opnamen voor zover zij beschermde werken vormen of omvatten, alsook op de vertaling van de begeleidende tekst in een taal die algemeen wordt gebruikt in het land waar de vergunning wordt aangevraagd, met dien verstande dat de desbetreffende audiovisuele opnamen uitsluitend zijn bedoeld en zijn gepubliceerd voor gebruik bij het onderwijs aan scholen en universiteiten.
 
-#### Artikel IV
+##### Artikel IV
 
 1). Een vergunning zoals bedoeld in artikel II of III kan slechts worden verleend indien de aanvrager, overeenkomstig de bepalingen die in het betrokken land van kracht zijn, bewijst dat hij, al naar het geval, de rechthebbende heeft verzocht om toestemming tot het vervaardigen en publiceren van een vertaling en tot het verveelvoudigen en publiceren van de uitgaven, en dat hij niet diens toestemming heeft kunnen verkrijgen of, na van zijn kant het nodige te hebben verricht, de rechthebbende niet heeft kunnen bereiken. Tegelijk met het verzoek aan de rechthebbende dient de aanvrager de nationale of internationale inlichtingencentra bedoeld in het tweede lid hiervan in kennis te stellen.
 
@@ -751,7 +773,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 - b. In het kader van de nationale wetgeving worden passende maatregelen genomen opdat een juiste vertaling van het werk of een nauwkeurige weergave van de betrokken uitgave, al naar het geval, wordt gewaarborgd.
 
-#### Artikel V
+##### Artikel V
 
 - a. Een land dat bevoegd is te verklaren dat het zich beroept op de mogelijkheid voorzien in artikel II kan, wanneer het deze Akte bekrachtigt of daartoe toetreedt, in plaats van een zodanige verklaring,
 
@@ -767,7 +789,7 @@ De bekrachtiging van of de toetreding tot deze Akte door een land dat niet is ge
 
 3). Een land dat niet langer wordt beschouwd als ontwikkelingsland zoals bedoeld in artikel I, eerste lid, kan uiterlijk twee jaar voor het verstrijken van de termijn die overeenkomstig artikel I, derde lid, van toepassing is, een verklaring afleggen in de zin van artikel 30, tweede lid, letter b, eerste zin, zulks ongeacht het feit dat het niet een land betreft dat geen lid van de Unie is. Deze verklaring wordt van kracht op de datum waarop de termijn die overeenkomstig artikel I, derde lid, van toepassing is, verstrijkt.
 
-#### Artikel VI
+##### Artikel VI
 
 1). Een land van de Unie kan verklaren, met ingang van de dagtekening van deze Akte en op elk tijdstip voordat het wordt gebonden door de artikelen 1 tot en met 21 en door dit Aanhangsel:
 

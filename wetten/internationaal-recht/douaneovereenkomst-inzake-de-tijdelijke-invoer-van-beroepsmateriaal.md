@@ -1,13 +1,35 @@
 ---
 title: "Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal"
 identifier: "BWBV0004591"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-04-18
-laatste_update: 1964-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004591"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-04-18"
+last_updated: "1964-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004591"
+soort: "verdrag"
+stam_id: "10004208153"
+version_id: "10004385112"
+internal_id: "C10008336031"
+label_id: "10004193334"
+dtd_version: "2.0"
+original_entry_into_force: "1964-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004591/1964-04-18/0"
+intitule_bron: "Trb.1962-80"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1962-08-24"
+intitule_in_force: "1964-03-06"
+intitule_status: "goed"
+original_publication: "Trb.1962-80"
+original_published_date: "1962-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-80"
+entry_into_force_date: "1964-04-18"
+jci_1_3: "jci1.3:c:BWBV0004591&z=1964-04-18&g=1964-04-18"
+jci_1_0: "1.0:c:BWBV0004591&g=1964-04-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1964-04-18"
 ---
-
 # Douaneovereenkomst inzake de tijdelijke invoer van beroepsmateriaal
 
 PREAMBULE
@@ -24,7 +46,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Overeenkomst wordt verstaan onder:
 
@@ -38,23 +60,23 @@ In deze Overeenkomst wordt verstaan onder:
 
 ### HOOFDSTUK II. Tijdelijke invoer
 
-#### Artikel 2
+##### Artikel 2
 
 Iedere Overeenkomstsluitende Partij die gebonden is door een bijlage bij deze Overeenkomst staat tijdelijke invoer toe ten aanzien van het in die bijlage bedoelde materiaal, onder de voorwaarden vermeld in de artikelen 1 tot en met 22 en in die bijlage. Onder materiaal wordt mede verstaan alle daarbij behorende hulpmiddelen en onderdelen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien een Overeenkomstsluitende Partij, tot nakoming van de voorwaarden verbonden aan de tijdelijke invoer zekerheidstelling eist mag deze zekerheid het bedrag van de te heffen rechten bij invoer met niet meer dan 10% te boven gaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Materiaal waarvoor tijdelijke invoer is toegestaan moet weder worden uitgevoerd binnen zes maanden na de datum van invoer. De douaneautoriteiten kunnen om geldige redenen en binnen de grenzen voorgeschreven door de wetgeving en voorschriften van het land van tijdelijke invoer een langere termijn toestaan of de eerste termijn verlengen.
 
-#### Artikel 5
+##### Artikel 5
 
 Materiaal waarvoor tijdelijke invoer is toegestaan mag naar ieder land weder worden uitgevoerd in één of meer zendingen langs ieder douanekantoor dat daartoe is opengesteld, ook als dit kantoor een ander is dan het kantoor van invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in deze Overeenkomst neergelegde verplichting tot wederuitvoer geldt niet voor materiaal dat ernstig beschadigd is tengevolge van een ongeval waarvan op afdoende wijze wordt aangetoond dat het heeft plaats gehad, mits, al naar gelang de douaneautoriteiten zulks vorderen, het materiaal:
 
@@ -66,35 +88,35 @@ Materiaal waarvoor tijdelijke invoer is toegestaan mag naar ieder land weder wor
 
 2. Indien tijdelijk ingevoerd materiaal niet weder kan worden uitgevoerd als gevolg van een inbeslagneming of beslaglegging, anders dan op vordering van particulieren, wordt de verplichting tot wederuitvoer opgeschort voor de duur van het beslag.
 
-#### Artikel 7
+##### Artikel 7
 
 De faciliteiten van deze Overeenkomst worden eveneens verleend ten aanzien van losse delen ingevoerd voor de herstelling van materiaal waarvoor tijdelijke invoer is toegestaan.
 
 ### HOOFDSTUK III. Algemene bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De bijlage of bijlagen waardoor een Overeenkomstsluitende Partij is gebonden vormt/vormen voor de toepassing van deze Overeenkomst een integrerend deel daarvan; met betrekking tot die Overeenkomstsluitende Partij geldt elke verwijzing naar deze Overeenkomst mede ten aanzien van die bijlage of bijlagen.
 
-#### Artikel 9
+##### Artikel 9
 
 De bepalingen van deze Overeenkomst bevatten minimum faciliteiten en beletten niet de toepassing van ruimere faciliteiten die bepaalde Overeenkomstsluitende Partijen toestaan of in de toekomst eventueel zullen toestaan, hetzij unilateraal, hetzij krachtens bilaterale of multilaterale overeenkomsten.
 
-#### Artikel 10
+##### Artikel 10
 
 Voor de toepassing van deze Overeenkomst kunnen de gebieden van de Overeenkomstsluitende Partijen die een douane-unie of een economische unie vormen worden beschouwd als één gebied.
 
-#### Artikel 11
+##### Artikel 11
 
 De bepalingen van deze Overeenkomst beletten niet dat uit hoofde van de nationale wetgeving en op grond van overwegingen van openbare zedelijkheid, openbare veiligheid, hygiëne of volksgezondheid, diergeneeskundige of planteziektenkundige overwegingen of wel om redenen van bescherming van octrooien, fabrieks- en handelsmerken, auteursrechten en kopijrechten, beperkingen worden opgelegd en toezicht wordt uitgeoefend.
 
-#### Artikel 12
+##### Artikel 12
 
 Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse verklaring of handeling, die tot gevolg heeft dat een persoon of een voorwerp ten onrechte de voordelen geniet van de in deze Overeenkomst neergelegde regelen stelt de overtreder in het land waar het strafbare feit is begaan bloot aan de straffen voorzien in de wetgeving van dat land en aan de betaling van de verschuldigde rechten bij invoer.
 
 ### HOOFDSTUK IV. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Overeenkomstsluitende Partijen komen, indien nodig, in vergadering bijeen ten einde de werking van deze Overeenkomst te onderzoeken en, in het bijzonder, om te onderzoeken welke maatregelen moeten worden genomen ter verzekering van een eenvormige uitlegging en toepassing van deze Overeenkomst.
 
@@ -104,7 +126,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. De Overeenkomstsluitende Partijen nemen geen besluiten tenzij meer dan de helft van hen aanwezig is.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elk geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst wordt zoveel mogelijk bijgelegd door middel van rechtstreekse onderhandelingen tussen de desbetreffende partijen.
 
@@ -112,7 +134,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. De Overeenkomstsluitende Partijen tussen wie het geschil is gerezen kunnen van tevoren overeenkomen dat zij de aanbevelingen van de Overeenkomstsluitende Partijen als bindend zullen aanvaarden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elke staat die lid is van de Raad en elke staat die lid is van de Verenigde Naties of van gespecialiseerde organisaties daarvan kan Partij bij deze Overeenkomst worden door:
 
@@ -132,7 +154,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 6. De akten van bekrachtiging of toetreding worden nedergelegd bij de Secretaris-Generaal van de Raad.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze Overeenkomst treedt, met betrekking tot een bepaalde bijlage, in werking drie maanden nadat vijf van de in het eerste lid van artikel 15 van deze Overeenkomst bedoelde staten haar hebben ondertekend zonder voorbehoud van bekrachtiging of hun akten van bekrachtiging of toetreding hebben nedergelegd en zich tot toepassing van die bijlage hebben verbonden.
 
@@ -140,7 +162,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 3. Voor elke staat die, na ondertekening zonder voorbehoud van bekrachtiging of na bekrachtiging of toetreding, zich verbindt tot toepassing van een andere bijlage die eerder reeds door vijf staten is aanvaard, treedt deze Overeenkomst, met betrekking tot die bijlage, in werking drie maanden nadat deze staat heeft medegedeeld dat hij door deze bijlage is gebonden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Deze Overeenkomst wordt voor onbepaalde tijd gesloten doch kan door elke Overeenkomstsluitende Partij worden opgezegd op elk willekeurig tijdstip na de datum van haar inwerkingtreding als is vastgesteld in artikel 16 van deze Overeenkomst.
 
@@ -150,7 +172,7 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 4. De bepalingen van het tweede en derde lid van dit artikel zijn ook van toepassing op de bijlagen van deze Overeenkomst. Elke Overeenkomstsluitende Partij kan op elk tijdstip na de datum waarop zij overeenkomstig artikel 16 van deze Overeenkomst in werking zijn getreden verklaren dat zij zich niet langer gebonden acht door een of meer bijlagen. Elke Overeenkomstsluitende Partij die alle bijlagen waardoor zij gebonden was opzegt wordt geacht de gehele Overeenkomst te hebben opgezegd.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Overeenkomstsluitende Partijen, in vergadering bijeen overeenkomstig artikel 14 van deze Overeenkomst, kunnen wijzigingen van deze Overeenkomst aanbevelen.
 
@@ -184,17 +206,17 @@ Elke inbreuk op de bepalingen van deze Overeenkomst, elke verwisseling, valse ve
 
 10. Elke staat die na ondertekening van deze Overeenkomst zonder voorbehoud van bekrachtiging of na bekrachtiging van of toetreding tot deze Overeenkomst verklaart dat hij door enige andere bijlage gebonden is, wordt geacht de wijzigingen van deze bijlage te hebben aanvaard, die van kracht zijn ten tijde van de mededeling van zijn besluit aan de Secretaris-Generaal van de Raad.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke staat kan, hetzij ten tijde van de ondertekening zonder voorbehoud van bekrachtiging, of van de nederlegging van zijn akte van bekrachtiging of van toetreding, hetzij daarna, door middel van een aan de Secretaris-Generaal van de Raad gerichte kennisgeving verklaren dat deze Overeenkomst mede van toepassing zal zijn op alle of bepaalde gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is; de Overeenkomst is drie maanden na ontvangst van deze kennisgeving door de Secretaris-Generaal van de Raad van toepassing ten aanzien van de in de kennisgeving genoemde gebieden, doch niet vóór het tijdstip van inwerkingtreding van deze Overeenkomst ten aanzien van die staat.
 
 2. Elke staat die met toepassing van het eerste lid van dit artikel heeft medegedeeld, dat deze Overeenkomst mede wordt toegepast in een gebied voor welks buitenlandse betrekkingen hij verantwoordelijk is, kan overeenkomstig artikel 17 van deze Overeenkomst aan de Secretaris-Generaal van de Raad mededelen dat dit gebied de Overeenkomst niet langer zal toepassen.
 
-#### Artikel 20
+##### Artikel 20
 
 Ten aanzien van deze Overeenkomst is geen voorbehoud toegelaten.
 
-#### Artikel 21
+##### Artikel 21
 
 De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen, aan de andere staten die deze Overeenkomst hebben ondertekend of ertoe zijn toegetreden, aan de Secretaris-Generaal van de Verenigde Naties, aan de Verdragsluitende Partijen bij de Algemene Overeenkomst betreffende Tarieven en Handel en aan de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur mededeling van:
 
@@ -208,11 +230,11 @@ De Secretaris-Generaal van de Raad doet aan alle Overeenkomstsluitende Partijen,
 
 - e. verklaringen en kennisgevingen, ontvangen overeenkomstig artikel 19.
 
-#### Artikel 22
+##### Artikel 22
 
 Overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst op verzoek van de Secretaris-Generaal van de Raad geregistreerd bij het Secretariaat van de Verenigde Naties.
 
-#### I. OMSCHRIJVING EN VOORWAARDEN
+##### I. OMSCHRIJVING EN VOORWAARDEN
 
 1. **Omschrijving**
 
@@ -232,7 +254,7 @@ Het materiaal:
 
 - e. mag geen voorwerp zijn van een overeenkomst van huur en verhuur of van een soortgelijke overeenkomst met een persoon wonende of gevestigd in het land van tijdelijke invoer, met dien verstande dat deze voorwaarde niet van toepassing is in geval van gezamenlijke radio- of televisieprogramma's.
 
-#### II. VOORBEELDEN
+##### II. VOORBEELDEN
 
 A. Materiaal voor de pers, zoals:
 
@@ -282,7 +304,7 @@ C. Materiaal voor de televisie, zoals:
 
 D. Voertuigen bestemd of speciaal ingericht voor de bovenstaande doeleinden.
 
-#### I. OMSCHRIJVING EN VOORWAARDEN
+##### I. OMSCHRIJVING EN VOORWAARDEN
 
 1. **Omschrijving**
 
@@ -302,7 +324,7 @@ Het materiaal:
 
 - e. mag geen voorwerp zijn van een overeenkomst van huur en verhuur of een soortgelijke overeenkomst met een persoon wonende of gevestigd in het land van tijdelijke invoer.
 
-#### II. VOORBEELDEN
+##### II. VOORBEELDEN
 
 A. Materiaal zoals:
 
@@ -326,7 +348,7 @@ A. Materiaal zoals:
 
 B. Voertuigen bestemd of speciaal ingericht voor de bovenstaande doeleinden.
 
-#### I. OMSCHRIJVING EN VOORWAARDEN
+##### I. OMSCHRIJVING EN VOORWAARDEN
 
 1. **Omschrijving**
 
@@ -344,7 +366,7 @@ Het materiaal:
 
 - d. mag alleen worden gebezigd door degene die zich naar het land van invoer begeeft of onder diens persoonlijk toezicht.
 
-#### II. VOORBEELDEN
+##### II. VOORBEELDEN
 
 A. Materiaal voor montage, beproeving, indienststelling, controle, verificatie, onderhoud of herstelling van machines, installaties, vervoermiddelen, enz., zoals:
 

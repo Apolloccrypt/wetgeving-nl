@@ -1,13 +1,40 @@
 ---
-title: "Besluit wapens en munitie"
+title: "Besluit van 15 juli 2019 ter implementatie van de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (Besluit wapens en munitie)"
 identifier: "BWBR0042436"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-23
-laatste_update: 2019-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042436"
+country: "nl"
+rank: "amvb"
+publication_date: "2019-07-23"
+last_updated: "2019-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042436"
+soort: "AMvB"
+stam_id: "15128063"
+version_id: "25939362"
+internal_id: "C36960481"
+label_id: "15076044"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042436/2019-07-23/0"
+intitule_bron: "Stb.2019-268"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-15"
+intitule_published: "2019-07-22"
+intitule_in_force: "2019-07-22"
+intitule_status: "goed"
+original_publication: "Stb.2019-268"
+original_signed_date: "2019-07-15"
+original_published_date: "2019-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-268"
+entry_into_force_date: "2019-07-23"
+entry_into_force_dossier: "34984"
+jci_1_3: "jci1.3:c:BWBR0042436&z=2019-07-23&g=2019-07-23"
+jci_1_0: "1.0:c:BWBR0042436&g=2019-07-23"
+citeertitel_status: "officieel"
+short_title: "Besluit wapens en munitie"
+signed_date: "2019-07-15"
+entry_into_force: "2019-07-23"
 ---
-
 # Besluit van 15 juli 2019 ter implementatie van de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (Besluit wapens en munitie)
 
 Op de voordracht van Onze Minister Justitie en Veiligheid van 14 mei 2019, nr. 2594027,
@@ -22,7 +49,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de wet tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van Richtlijn 91/477/EEG van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (34 984) in werking treedt (Stb. 2019/267).
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +71,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **wet:** de [Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804).
 
-#### Artikel 2. Erkenning als museum
+##### Artikel 2. Erkenning als museum
 
 1. Onze Minister erkent een museum in de zin van [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4) slechts indien:
 
@@ -60,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 4. De erkenning heeft een maximale geldigheidsduur van vijf jaar.
 
-#### Artikel 3. Erkenning als verzamelaar
+##### Artikel 3. Erkenning als verzamelaar
 
 1. Onze Minister erkent een verzamelaar in de zin van [artikel 4, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4) slechts indien de aanvrager zich bezighoudt met het verzamelen van wapens, essentiële onderdelen of munitie voor historische, culturele, wetenschappelijke, technische of educatieve doeleinden of uit erfgoedoverwegingen.
 
@@ -70,11 +97,11 @@ In dit besluit wordt verstaan onder:
 
 4. De erkende verzamelaar die een verzameling houdt waarin vuurwapens als bedoeld in categorie A in bijlage I van de Richtlijn zijn opgenomen, houdt hiervan een register bij dat hij overlegt aan de korpschef. De verzamelaar geeft een wijziging in het register onverwijld door aan de korpschef.
 
-#### Artikel 4. Verplicht lidmaatschap erkende vereniging
+##### Artikel 4. Verplicht lidmaatschap erkende vereniging
 
 Een verlof op grond van [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28) voor het voorhanden hebben van een vuurwapen opgenomen in categorie A, onderdelen 6 of 7, in bijlage I van de Richtlijn, wordt in ieder geval geweigerd indien de aanvrager geen bewijs van lidmaatschap overlegt van een erkende vereniging.
 
-#### Artikel 5. Beheer van wapens bij een erkende vereniging
+##### Artikel 5. Beheer van wapens bij een erkende vereniging
 
 1. Het beheer als bedoeld in [artikel 6b, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b) voorziet er in dat:
 
@@ -90,7 +117,7 @@ Een verlof op grond van [artikel 28 van de wet](https://wetten.overheid.nl/jci1.
 
 2. Aan leden die korter dan één jaar lid zijn van de vereniging of introducés bij de vereniging, worden alleen wapens ter hand gesteld die geschikt zijn voor door Onze Minister bij regeling aangewezen disciplines.
 
-#### Artikel 6. Verdachte transacties
+##### Artikel 6. Verdachte transacties
 
 Onder een verdachte transactie in de zin van [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=9a) wordt in ieder geval verstaan:
 
@@ -98,7 +125,7 @@ Onder een verdachte transactie in de zin van [artikel 9a, eerste lid, van de wet
 
 - b. een transactie waarbij degene die munitie aanschaft naar het oordeel van de houder van een erkenning of de beheerder in de zin van [artikel 9a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=9a) niet vertrouwd lijkt te zijn met het gebruik van de munitie, dan wel niet overtuigend kan aangeven waarvoor hij de munitie gaat gebruiken.
 
-#### Artikel 7. Redelijk belang
+##### Artikel 7. Redelijk belang
 
 1. Voor een verlof op grond van [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=28) waarvoor op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0042436&artikel=4&z=2019-07-23&g=2019-07-23) van dit besluit een verplicht lidmaatschap van een erkende vereniging geldt, heeft de aanvrager slechts een redelijk belang in de zin artikel 28 van de wet als hij aantoont dat hij in de twaalf maanden voorafgaand aan de aanvraag minimaal 18 schietbeurten heeft verricht bij een erkende vereniging met een wapen dat voldoet aan de specificaties die vereist zijn voor een erkende of gereglementeerde schietsportdiscipline als bedoeld in [artikel 6b, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=6b).
 
@@ -114,7 +141,7 @@ Onder een verdachte transactie in de zin van [artikel 9a, eerste lid, van de wet
 
 4. Onverminderd het bepaalde in het eerste lid heeft een aanvrager van een verlof voor een magazijn voor een vuurwapen als bedoeld in artikel 10, eerste lid, van de Richtlijn, slechts een redelijk belang als dit magazijn wordt gebruikt bij een door Onze Minister bij regeling aangewezen schietsportdiscipline.
 
-#### Artikel 8. Gegevens die de korpschef moet registreren over wapens
+##### Artikel 8. Gegevens die de korpschef moet registreren over wapens
 
 De korpschef registreert ter uitvoering van [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=35):
 
@@ -126,15 +153,15 @@ De korpschef registreert ter uitvoering van [artikel 35 van de wet](https://wett
 
 - d. iedere ombouw of aanpassing van een vuurwapen die ertoe leidt dat het moet worden ingedeeld in een andere categorie of subcategorie van bijlage I van de Richtlijn met inbegrip van de door de korpschef op grond van [artikel 43 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=43) gecontroleerde onbruikbaarmaking of vernietiging van het vuurwapen en de bijbehorende datum of data.
 
-#### Artikel 9. Overgangsrecht erkenning musea en verzamelaars
+##### Artikel 9. Overgangsrecht erkenning musea en verzamelaars
 
 Ontheffingen die op grond van [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=4) aan musea en verzamelaars zijn verleend voordat dit besluit in werking is getreden gelden, voor de nog lopende geldigheidsduur van deze ontheffing, als een erkenning in de zin van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042436&artikel=2&z=2019-07-23&g=2019-07-23) respectievelijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0042436&artikel=3&z=2019-07-23&g=2019-07-23) van dit besluit.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Indien het bij koninklijke boodschap van 29 juni 2018 ingediende voorstel van wet tot wijziging van de Wet wapens en munitie in verband met de Richtlijn (EU) 2017/853 van het Europees parlement en de Raad van de Europese Unie van 17 mei 2017 tot wijziging van [Richtlijn 91/477/EEG](31991L0477) van de Raad inzake de controle op de verwerving en het voorhanden hebben van wapens (PbEU 2017, L 137/22) (34 984) tot wet is of wordt verheven en die wet in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit wapens en munitie.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit vrijwilligersmedaille openbare orde en veiligheid"
+title: "Besluit van 2 februari 1998, houdende regels met betrekking tot de toekenning van een medaille aan vrijwilligers die in repressieve dienst taken op het terrein van de openbare orde en veiligheid verrichten (Besluit vrijwilligersmedaille openbare orde en veiligheid)"
 identifier: "BWBR0009362"
-categorie: "Overig"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009362"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009362"
+soort: "rijksKB"
+stam_id: "742883"
+version_id: "1084932"
+internal_id: "C1084931"
+label_id: "719674"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009362/2026-04-01/0"
+intitule_bron: "Stb.1998-68"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-02"
+intitule_published: "1998-02-19"
+intitule_in_force: "1998-02-19"
+intitule_status: "goed"
+original_publication: "Stb.1998-68"
+original_signed_date: "1998-02-02"
+original_published_date: "1998-02-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-68"
+entry_into_force_date: "1998-04-01"
+jci_1_3: "jci1.3:c:BWBR0009362&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0009362&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vrijwilligersmedaille openbare orde en veiligheid"
+signed_date: "1998-02-02"
+entry_into_force: "1998-04-01"
 ---
-
 # Besluit van 2 februari 1998, houdende regels met betrekking tot de toekenning van een medaille aan vrijwilligers die in repressieve dienst taken op het terrein van de openbare orde en veiligheid verrichten (Besluit vrijwilligersmedaille openbare orde en veiligheid)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken, directoraat-generaal voor Openbare Orde en Veiligheid van 8 oktober 1997, nr. EB97/1956, gedaan mede namens Onze Ministers van Defensie en van Volksgezondheid, Welzijn en Sport, alsmede Onze Minister voor Nederlands-Antilliaanse en Arubaanse Zaken;
@@ -22,7 +48,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken, directoraat-g
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - d. het bevoegd gezag: het bevoegd gezag van de vrijwilliger.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bevoegd gezag kent een medaille toe aan degene die aaneensluitend of met een onderbreking van ten hoogste twee maanden gedurende een periode van tien jaren in repressieve dienst taken op het terrein van de openbare orde en veiligheid heeft verricht als vrijwilliger bij:
 
@@ -58,7 +84,7 @@ Het bevoegd gezag kent een medaille toe aan degene die aaneensluitend of met een
 
 - j. USAR.NL.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bevoegd gezag dient een aanvraag voor een medaille in bij de Kanselarij der Nederlandse Orden.
 
@@ -68,35 +94,35 @@ Het bevoegd gezag kent een medaille toe aan degene die aaneensluitend of met een
 
 4. De verstrekking van de medaille geschiedt kosteloos.
 
-#### Artikel 4
+##### Artikel 4
 
 De medaille wordt door het bevoegd gezag uitgereikt aan de vrijwilliger.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bevoegd gezag kent een jaarteken toe aan de vrijwilliger die aaneensluitend of met een onderbreking van ten hoogste twee maanden gedurende een periode van vijftien, twintig, vijfentwintig, dertig, vijfendertig respectievelijk veertig jaren taken heeft verricht als vrijwilliger op grond waarvan hem de medaille is toegekend.
 
 2. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=3&z=2026-04-01&g=2026-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009362&artikel=4&z=2026-04-01&g=2026-04-01) zijn van overeenkomstige toepassing, met dien verstande dat het bevoegd gezag bij de aanvraag voor een jaarteken tevens de datum waarop de medaille is toegekend en het aantal dienstjaren van de vrijwilliger vermeldt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vrijwilliger draagt de medaille aan of op het lint op borsthoogte op de linkerzijde van de uniformkleding.
 
 2. De vrijwilliger draagt het jaarteken op het lint, waarbij geldt dat het laatst ontvangen jaarteken het eerder ontvangen jaarteken vervangt.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de vrijwilliger die na de inwerkingtreding van dit besluit een jaarteken wordt toegekend en aan wie ingevolge het Besluit Vrijwilligersmedaille geen medaille is toegekend, wordt tegelijkertijd een medaille toegekend.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Besluit Vrijwilligersmedaille wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit vrijwilligersmedaille openbare orde en veiligheid.
 

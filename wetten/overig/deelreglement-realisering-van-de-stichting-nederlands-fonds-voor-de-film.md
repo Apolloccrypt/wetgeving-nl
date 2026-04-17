@@ -1,13 +1,38 @@
 ---
 title: "Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film"
 identifier: "BWBR0050675"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050675"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050675"
+soort: "zbo"
+stam_id: "17340373"
+version_id: "30558032"
+internal_id: "C43809681"
+label_id: "17244674"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050675/2025-01-01/0"
+intitule_bron: "Stcrt.2025-2143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-04"
+intitule_published: "2025-01-17"
+intitule_in_force: "2025-01-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-2143"
+original_signed_date: "2024-11-04"
+original_published_date: "2025-01-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-2143"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050675&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050675&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-11-04"
+entry_into_force: "2025-01-01"
 ---
-
 # Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film
 
 gelet op het bepaalde in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -24,7 +49,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Algemeen
 
-#### Artikel 1. – definities –
+##### Artikel 1. – definities –
 
 In dit deelreglement wordt verstaan onder:
 
@@ -120,13 +145,13 @@ In dit deelreglement wordt verstaan onder:
 
 - **werkkopie:** de montageversie die voorafgaand aan de ‘picture lock’ van de filmproductie ter bespreking wordt voorgelegd aan het Fonds en een duidelijke opzet van de definitieve filmproductie toont.
 
-#### Artikel 2. – toepasselijkheid reglementen –
+##### Artikel 2. – toepasselijkheid reglementen –
 
 1. Dit deelreglement is van toepassing op subsidies die het bestuur verstrekt voor realisering en afwerking in de categorieën speelfilm, documentaire, animatie, korte film en onderzoek & experiment en, met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050675&artikel=8&z=2025-01-01&g=2025-01-01), op subsidies die worden verstrekt in het kader van de samenwerkingsprojecten met andere instellingen die tot realisering van deze filmproducties strekken.
 
 2. Het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596) van het Fonds zoals van tijd tot tijd vastgesteld is van toepassing naast en in aanvulling op dit deelreglement.
 
-#### Artikel 3. – aanvraag –
+##### Artikel 3. – aanvraag –
 
 1. Per categorie wordt een aanvraag digitaal ingediend, waarbij een schriftelijke, door de aanvrager ondertekende, kopie van deze digitale aanvraag aan het Fonds wordt overgelegd.
 
@@ -144,7 +169,7 @@ In dit deelreglement wordt verstaan onder:
 
 8. In een oproep of regeling voor een speciale aanvraagmogelijkheid die gepubliceerd is op de website van het Fonds kan worden afgeweken van het derde tot en met het vijfde lid en kunnen andere of nadere voorwaarden worden gesteld aan de aanvraag.
 
-#### Artikel 4. – aanvrager –
+##### Artikel 4. – aanvrager –
 
 1. Realiseringsaanvragen in de categorie **speelfilm**, **lange animatiefilm** of **documentaire**worden gedaan door een productiemaatschappij, vertegenwoordigd door een producent die als majoritair producent hoofdverantwoordelijk is geweest voor het realiseren van tenminste één filmproductie in dezelfde categorie met een bioscoopuitbreng in Nederland.
 
@@ -160,23 +185,23 @@ hoofdverantwoordelijk is geweest voor een eerdere majoritaire filmproductie die 
 
 6. In een oproep of regeling gepubliceerd op de website van het Fonds kan worden afgeweken van het eerste tot en met het derde lid en kunnen andere of nadere voorwaarden worden gesteld aan de aanvrager.
 
-#### Artikel 5. – subsidievorm –
+##### Artikel 5. – subsidievorm –
 
 1. De subsidie die op grond van dit deelreglement wordt verstrekt, dient uit inkomsten die worden verkregen uit exploitatie van de filmproductie te worden terugbetaald. Eerder door het bestuur ten behoeve van de filmproductie verleende subsidies maken onderdeel uit van de subsidie voor realisering.
 
 2. Aan de subsidie voor realisering kan het bestuur nadere voorwaarden verbinden.
 
-#### Artikel 6. – beoordeling subsidie voor realisering –
+##### Artikel 6. – beoordeling subsidie voor realisering –
 
 1. De aanvraag voor de filmproductie wordt beoordeeld aan de hand van de beoordelingscriteria van [artikel 5 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=5) van het Fonds. Voor toekenning van de aanvraag dient in ieder geval het oordeel van het bestuur over de inhoudelijke kwaliteit van de filmproductie positief te zijn.
 
 2. Het bestuur kan op de website van het Fonds: [www.filmfonds.nl](http://www.filmfonds.nl) nadere voorwaarden, procedures en werkwijzen publiceren met betrekking tot de beoordeling van realiseringaanvragen van de verschillende categorieën.
 
-#### Artikel 7. – onderlinge verhouding financiële bijdragen –
+##### Artikel 7. – onderlinge verhouding financiële bijdragen –
 
 Het verstrekken van een subsidie voor de realisering van een filmproductie bindt het bestuur in geen geval tot het verlenen van enige andere subsidie.
 
-#### Artikel 8. – samenwerkingsprojecten –
+##### Artikel 8. – samenwerkingsprojecten –
 
 1. Het bestuur kan in samenwerking met andere (subsidie verlenende) instellingen subsidies verstrekken ten behoeve van de realisering van filmproducties en daartoe samenwerkingsovereenkomsten met deze instellingen of uitvoeringsovereenkomsten met de aanvragers aangaan.
 
@@ -184,13 +209,13 @@ Het verstrekken van een subsidie voor de realisering van een filmproductie bindt
 
 3. Het bestuur publiceert op de website van het Fonds: [www.filmfonds.nl](http://www.filmfonds.nl) de nadere voorwaarden, procedures en werkwijze van de samenwerkingsprojecten.
 
-#### Artikel 9. – voorbereiding besluitvorming –
+##### Artikel 9. – voorbereiding besluitvorming –
 
 1. Het besluit tot subsidieverlening (Fase 2) kan worden voorafgegaan door een voornemen tot subsidieverlening (Fase 1).
 
 2. Bij een voornemen tot subsidieverlening dient, naar het oordeel van het bestuur van het Fonds, de inhoudelijke en zakelijke kwaliteit positief en met elkaar in balans te zijn, maar moet, om tot besluitvorming te komen, de solide onderbouwing van de begroting, financiële en productionele haalbaarheid en uitvoerbaarheid nog concreet uitgewerkt en aangetoond worden. De unieke kenmerken worden vastgelegd in de beschikking waarin het voornemen kenbaar gemaakt wordt.
 
-#### Artikel 10. – aanvullende eisen –
+##### Artikel 10. – aanvullende eisen –
 
 1. Indien er sprake is van een filmproductie die naar het oordeel van het bestuur als risicovol wordt gekwalificeerd, kan het bestuur aanvullende eisen stellen aan het financieel en productioneel toezicht op de filmproductie dan wel een gegarandeerd overbruggingskrediet of het afsluiten van een **completion bond** verplicht stellen.
 
@@ -198,7 +223,7 @@ Het verstrekken van een subsidie voor de realisering van een filmproductie bindt
 
 3. Indien een **completion bond** is vereist op grond van het eerste lid, dient de ontvanger van de subsidie bij het afsluiten van de uitvoeringsovereenkomst een schriftelijke verklaring over te leggen van een **completion guarantor**, waaruit onomstotelijk blijkt dat de begrote productiekosten van de filmproductie waarvoor subsidie is verleend, zoals opgenomen in de productiebegroting, toereikend zijn en dat de voortbrenging en voltooiing van de bioscoopfilm waarvoor subsidie is verleend vallen onder de dekking van deze **completion guarantor** vanaf het moment waarop de opnamen van de filmproductie starten. Tevens dient de ontvanger van de subsidie een afschrift van een geldende **completion bond** te overleggen waarin het Fonds als medebegunstiger is aangewezen.
 
-#### Artikel 11. – verplichtingen subsidieontvanger –
+##### Artikel 11. – verplichtingen subsidieontvanger –
 
 1. De ontvanger is verplicht om:
 
@@ -214,7 +239,7 @@ Het verstrekken van een subsidie voor de realisering van een filmproductie bindt
 
 4. De ontvanger is verplicht het Fonds adequaat en schriftelijk te informeren over de kosten, het publieksbereik, festivalselecties, en – prijzen, en de opbrengsten die door distributie en exploitatie van de filmproductie, waarvoor subsidie is verleend, worden voortgebracht.
 
-#### Artikel 12. – uitvoeringsovereenkomst –
+##### Artikel 12. – uitvoeringsovereenkomst –
 
 1. Nadat de in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050675&artikel=10&z=2025-01-01&g=2025-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0050675&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde overeenkomsten en stukken door het bestuur zijn ontvangen, dienen de ontvanger en het bestuur, een uitvoeringsovereenkomst te tekenen, tenzij anders is bepaald.
 
@@ -226,15 +251,15 @@ Het verstrekken van een subsidie voor de realisering van een filmproductie bindt
 
 - c. de wijze waarop de met exploitatie van de filmproductie te genereren opbrengsten worden verdeeld tussen de rechthebbenden en financiers en op welk moment deze opbrengsten dienen te worden aangewend om de op grond van dit reglement verleende subsidie terug te betalen of aan te wenden voor een volgende filmproductie.
 
-#### Artikel 13. – betrokkenheid regisseurs en scenaristen –
+##### Artikel 13. – betrokkenheid regisseurs en scenaristen –
 
 Het bestuur kan, gelet op de doelmatige besteding van middelen, voorwaarden dan wel beperkingen stellen aan de betrokkenheid van regisseurs en scenaristen. Een producent kan daarbij in beginsel niet eveneens als regisseur of scenarist optreden.
 
-#### Artikel 14. – bestedingsverplichting –
+##### Artikel 14. – bestedingsverplichting –
 
 De betreffende filmproductie dient een impact te hebben op de audiovisuele sector en het filmklimaat in Nederland. De aanvrager is verplicht een bedrag gelijk aan de verleende subsidie te besteden in Nederland. Het deel van de productiekosten dat in Nederland wordt uitgegeven wordt, evenals de besteding in mogelijke andere territoria, separaat aangegeven in de ingediende productiebegroting. In het geval dat andere bijdragen of subsidies zijn verstrekt die kwalificeren als staatssteun, waaraan een (gedeeltelijke) bestedingsverplichting in Nederland is verbonden, dan staat het de aanvrager te allen tijde vrij om 20% van de begrote productiekosten te besteden in een andere lidstaat van de Europese Unie, of in een Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of in Zwitserland.
 
-#### Artikel 15. – subsidiabele activiteit realisering minoritaire coproductie –
+##### Artikel 15. – subsidiabele activiteit realisering minoritaire coproductie –
 
 Voor een aanvraag voor subsidie voor een internationale minoritaire coproductie gelden de volgende voorwaarden:
 
@@ -284,7 +309,7 @@ Voor een aanvraag voor subsidie voor een internationale minoritaire coproductie 
 
 - 8. De filmproductie dient een (non) theatrical release in Nederland te krijgen. Voor de categorieën speelfilm, lange animatiefilm en documentaire dient de aanvrager een schriftelijke verklaring ondertekend door een Nederlandse filmdistributeur of indien van toepassing van een Nederlandse zendgemachtigde te overleggen of een uitgewerkt uitbrengplan met het oog op publieksbereik en zichtbaarheid in Nederland.
 
-#### Artikel 16. – subsidiabele activiteit afwerking –
+##### Artikel 16. – subsidiabele activiteit afwerking –
 
 Het bestuur verleent uitsluitend subsidie voor afwerking indien de aanvraag een majoritaire filmproductie betreft die
 
@@ -298,13 +323,13 @@ zonder realiseringssubsidie op grond van deze regeling tot stand is gebracht, er
 
 - d. de filmproductie als voorfilm bij een hoofdfilm met een bioscoopuitbreng zal worden vertoond.
 
-#### Artikel 17. – oplevering werkkopie en picture lock –
+##### Artikel 17. – oplevering werkkopie en picture lock –
 
 1. De aanvrager is verplicht de werkkopie en picture lock versie te overleggen volgens de procedure die is beschreven in het Financieel & Productioneel Protocol.
 
 2. Het bestuur beoordeelt of de werkkopie en de uiteindelijke picture lock in overeenstemming zijn met de aanvraag en het bijbehorende filmplan.
 
-#### Artikel 18. – digitale conservering en exploitatie –
+##### Artikel 18. – digitale conservering en exploitatie –
 
 1. Ter behoud van het cultureel erfgoed is de ontvanger van de subsidie verplicht om tijdig, dat wil zeggen ten tijde van de afwerking van de filmproductie contact op te nemen met EYE Film Instituut Nederland en hen toegang te verschaffen tot het digitale en analoge (indien van toepassing) moedermateriaal van de uiteindelijke filmproductie (Digital Cinema Distribution Master). De ontvanger gaat bij verlening van de subsidie akkoord met het conserveren en het met dat doel digitaal opslaan van de film door EYE Film Instituut Nederland. De condities verbonden aan de conservering en daaraan verbonden digitale opslag door EYE Film Instituut Nederland zullen worden vastgelegd in een separate overeenkomst tussen de aanvrager en EYE Film Instituut Nederland.
 
@@ -316,7 +341,7 @@ zonder realiseringssubsidie op grond van deze regeling tot stand is gebracht, er
 
 #### Speelfilm en lange animatiefilm
 
-#### Artikel 19. – subsidiabele activiteit –
+##### Artikel 19. – subsidiabele activiteit –
 
 1. De subsidie voor realisering van een speelfilm of lange animatiefilm wordt beschikbaar gesteld ten behoeve van de vervaardiging van een werkkopie en de definitieve vertoning gereed zijnde kopie die in de bioscoop of filmtheaters en tevens non theatrical zal worden uitgebracht.
 
@@ -336,7 +361,7 @@ zonder realiseringssubsidie op grond van deze regeling tot stand is gebracht, er
 
 #### Documentaire
 
-#### Artikel 20. – subsidiabele activiteit –
+##### Artikel 20. – subsidiabele activiteit –
 
 1. De subsidie voor realisering van een documentaire met een vertoningsduur van tenminste 70 minuten wordt beschikbaar gesteld ten behoeve van een werkkopie en een definitieve voor vertoning gereed zijnde kopie die naast een brede non theatrical release ook in de bioscopen of filmtheaters zal worden vertoond.
 
@@ -352,7 +377,7 @@ zonder realiseringssubsidie op grond van deze regeling tot stand is gebracht, er
 
 #### Animatie
 
-#### Artikel 21. – subsidiabele activiteit –
+##### Artikel 21. – subsidiabele activiteit –
 
 1. Dit artikel is van toepassing op animatie met een vertoningsduur tot maximaal 60 minuten.
 
@@ -364,25 +389,25 @@ zonder realiseringssubsidie op grond van deze regeling tot stand is gebracht, er
 
 #### Onderzoek & experiment
 
-#### Artikel 22. – subsidiabele activiteit –
+##### Artikel 22. – subsidiabele activiteit –
 
 1. De subsidie voor realisering van een filmproductie in de categorie onderzoek & experiment wordt beschikbaar gesteld ten behoeve van een eindproduct dat geschikt is voor openbare vertoning aan een publiek.
 
 2. De aanvrager dient de keuze voor de vertoningswijze en de locatie daarvan te onderbouwen in de aanvraag.
 
-#### Artikel 23. – beoordelingscriterium –
+##### Artikel 23. – beoordelingscriterium –
 
 Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van [Artikel 5 van het Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0050596&artikel=5) of de filmproductie in de categorie onderzoek & experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische vernieuwing van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn.
 
 #### Korte film
 
-#### Artikel 24. – subsidiabele activiteit –
+##### Artikel 24. – subsidiabele activiteit –
 
 De subsidie voor realisering van een korte film in alle categorieën wordt beschikbaar gesteld ten behoeve van een werkkopie en een definitieve, voor vertoning gereed zijnde kopie, met minimaal een aantoonbare non theatrical release.
 
 ### Stimulans
 
-#### Artikel 25. – subsidiabele activiteit –
+##### Artikel 25. – subsidiabele activiteit –
 
 1. De stimulans wordt op basis van eerder behaald publieksbereik van een majoritaire filmproductie aan een aanvrager beschikbaar gesteld om productionele meerwaarde toe te voegen aan een nieuwe, op een breed publiek gerichte filmproductie;
 
@@ -406,7 +431,7 @@ De subsidie voor realisering van een korte film in alle categorieën wordt besch
 
 ### Slot- en overgangsbepalingen
 
-#### Artikel 26. – slot- en overgangsbepalingen –
+##### Artikel 26. – slot- en overgangsbepalingen –
 
 1. In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 

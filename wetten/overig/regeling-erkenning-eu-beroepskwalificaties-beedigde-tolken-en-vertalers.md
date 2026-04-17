@@ -1,13 +1,39 @@
 ---
-title: "Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers"
+title: "Regeling van de Staatssecretaris van Justitie van 9 december 2008, nr. 5564127/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties en tijdelijke en incidentele dienstverrichting van beëdigde tolken en vertalers (Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers)"
 identifier: "BWBR0024932"
-categorie: "Overig"
-publicatiedatum: 2016-04-05
-laatste_update: 2016-04-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024932"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-04-05"
+last_updated: "2016-04-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024932"
+soort: "ministeriele-regeling"
+stam_id: "9816303"
+version_id: "15951752"
+internal_id: "C21859621"
+label_id: "9793024"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024932/2016-04-05/0"
+intitule_bron: "Stcrt.2008-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-09"
+intitule_published: "2008-12-19"
+intitule_in_force: "2008-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-247"
+original_signed_date: "2008-12-09"
+original_published_date: "2008-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-2211"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024932&z=2016-04-05&g=2016-04-05"
+jci_1_0: "1.0:c:BWBR0024932&g=2016-04-05"
+citeertitel_status: "officieel"
+short_title: "Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers"
+signed_date: "2008-12-09"
+entry_into_force: "2009-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Justitie van 9 december 2008, nr. 5564127/08, houdende nadere regels ten aanzien van erkenning van EG-beroepskwalificaties en tijdelijke en incidentele dienstverrichting van beëdigde tolken en vertalers (Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers)
 
 Gelet op [artikel 33 van de Algemene wet erkenning EG-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 - a. **wet:** de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066);
 
@@ -34,7 +60,7 @@ Besluit:
 
 - h. **register:** het register voor beëdigde tolken en vertalers, bedoeld in [artikel 2 van de Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
 
-#### Artikel 2. Mandaat en machtiging
+##### Artikel 2. Mandaat en machtiging
 
 1. Het bestuur wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=25), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30a), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [31c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31c), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=32), [34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34), [34c](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34c), en [35, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en het terzake voeren van gerechtelijke procedures.
 
@@ -42,7 +68,7 @@ Besluit:
 
 ### Hoofdstuk 2. Erkenning van EU-beroepskwalificaties
 
-#### Artikel 3. Documenten bij aanvraag
+##### Artikel 3. Documenten bij aanvraag
 
 1. De aanvraag wordt ingediend bij het bestuur, met een duidelijke omschrijving van het betreffende gereglementeerde beroep, en met aanduiding van de betreffende bron- en doeltalen, per taalcombinatie en per taalvaardigheid.
 
@@ -76,7 +102,7 @@ Besluit:
 
 5. Het bestuur kan verlangen dat de aanvraag en de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met e en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van beëdigde vertalingen in het Nederlands.
 
-#### Artikel 4. Compenserende maatregel
+##### Artikel 4. Compenserende maatregel
 
 1. Met inachtneming van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11) stelt het bestuur de aanvrager op de hoogte van de eis van het met goed gevolg afleggen van een compenserende maatregel met een bepaalde duur of inhoud.
 
@@ -96,7 +122,7 @@ Besluit:
 
 - –. vertaalvaardigheid voor de vertaler.
 
-#### Artikel 5. Aanpassingsstage
+##### Artikel 5. Aanpassingsstage
 
 1. Indien de compenserende maatregel bestaat uit een aanpassingsstage, wordt deze begeleid door een tolk of vertaler die is ingeschreven in het register voor beëdigde tolken en vertalers. Deze tolk of vertaler is stagebegeleider en belast de stagiair met tolk- of vertaalwerkzaamheden waarvoor geen beëdiging vereist is.
 
@@ -106,7 +132,7 @@ Besluit:
 
 4. De aanvrager mag meer aanpassingsstages volgen.
 
-#### Artikel 6. Proeve van bekwaamheid
+##### Artikel 6. Proeve van bekwaamheid
 
 1. Indien de compenserende maatregel bestaat uit een proeve van bekwaamheid, wordt deze afgelegd bij een door het bestuur aangewezen instantie.
 
@@ -118,29 +144,29 @@ Besluit:
 
 ### Hoofdstuk 3. Tijdelijke en incidentele dienstverrichting
 
-#### Artikel 7. Beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters
+##### Artikel 7. Beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters
 
 1. De dienstverrichter doet voorafgaand aan de eerste dienstverrichting in Nederland aan het bestuur een schriftelijke verklaring toekomen, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), met een aanduiding van welk gereglementeerd beroep, met aanduiding van bron- en doeltalen, op welke tijdelijke en incidentele wijze zal worden verricht.
 
 2. De dienstverrichter voegt bij de verklaring de documenten, genoemd in [artikel 23, derde lid, onderdeel a tot en met d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23).
 
-#### Artikel 8. Controle in verband met openbare veiligheid
+##### Artikel 8. Controle in verband met openbare veiligheid
 
 1. Het bestuur kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27).
 
 2. In geval van [artikel 27, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=4&z=2016-04-05&g=2016-04-05), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0024932&hoofdstuk=2&artikel=6&z=2016-04-05&g=2016-04-05), aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.
 
-#### Artikel 9. Gegevens voor afnemers van de dienst
+##### Artikel 9. Gegevens voor afnemers van de dienst
 
 Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=26) voert, kan het bestuur eisen dat de dienstverrichter aan de afnemer van de dienst de gegevens verstrekt, genoemd in [artikel 29, onderdeel a tot en met e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29).
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2009.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling erkenning EU-beroepskwalificaties beëdigde tolken en vertalers.
 

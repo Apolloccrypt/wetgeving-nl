@@ -1,14 +1,41 @@
 ---
-title: "Wet rol werknemers bij Europese rechtspersonen"
+title: "Wet van 17 maart 2005 tot uitvoering van richtlijn nr. 2001/86/EG van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (Wet rol werknemers bij de Europese vennootschap)"
 identifier: "BWBR0018115"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018115"
+country: "nl"
+rank: "wet"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018115"
+soort: "wet"
+stam_id: "6894613"
+version_id: "13490442"
+internal_id: "C18131111"
+label_id: "6883594"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018115/2022-01-01/0"
+intitule_bron: "Stb.2005-166"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-17"
+intitule_published: "2005-03-31"
+intitule_in_force: "2005-03-31"
+intitule_status: "goed"
+original_publication: "Stb.2006-361"
+original_signed_date: "2006-07-05"
+original_published_date: "2006-08-17"
+original_effect: "structuurwijziging"
+original_dossier: "30386"
+original_url_id: "stb-2006-361"
+entry_into_force_date: "2006-08-18"
+jci_1_3: "jci1.3:c:BWBR0018115&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0018115&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet rol werknemers bij Europese rechtspersonen"
+signed_date: "2006-07-05"
+entry_into_force: "2006-08-18"
 ---
-
-# Wet rol werknemers bij Europese rechtspersonen
+# Wet van 17 maart 2005 tot uitvoering van richtlijn nr. 2001/86/EG van de Raad van de Europese Unie van 8 oktober 2001 tot aanvulling van het statuut van de Europese vennootschap met betrekking tot de rol van de werknemers (Wet rol werknemers bij de Europese vennootschap)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Definities
 
-#### Artikel 1:1
+##### Artikel 1:1
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -68,7 +95,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Definitie moederonderneming
 
-#### Artikel 1:2
+##### Artikel 1:2
 
 1. In dit hoofdstuk wordt verstaan onder moederonderneming: de vennootschap die direct of indirect een overheersende zeggenschap kan uitoefenen op een andere onderneming en die zelf geen vennootschap is waarover door een andere onderneming direct of indirect een overheersende zeggenschap wordt uitgeoefend. Een vennootschap wordt, tenzij het tegendeel blijkt, vermoed moederonderneming te zijn, indien zij:
 
@@ -100,7 +127,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Definitie werknemer, vertegenwoordigers van werknemers, SE-ondernemingsraad
 
-#### Artikel 1:3
+##### Artikel 1:3
 
 1. In dit hoofdstuk wordt onder werknemer verstaan
 
@@ -116,7 +143,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Rechten en verplichtingen van Nederlandse werknemersvertegenwoordigers
 
-#### Artikel 1:4
+##### Artikel 1:4
 
 1. Ten aanzien van de in Nederland werkzame werknemers die lid zijn van een bijzondere onderhandelingsgroep, de SE-ondernemingsraad, of als werknemersvertegenwoordigers lid zijn van het toezichthoudend of bestuursorgaan van de SE, dan wel optreden als vertegenwoordigers bij een andere wijze van informatieverstrekking en raadpleging van werknemers, gelden het tweede tot en met het zevende lid.
 
@@ -138,7 +165,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Beroep op de rechter
 
-#### Artikel 1:5
+##### Artikel 1:5
 
 1. Iedere belanghebbende kan de ondernemingskamer van het gerechtshof Amsterdam verzoeken te bepalen dat gevolg dient te worden gegeven aan hetgeen is bepaald bij dit hoofdstuk, met uitzondering van [artikel 1:4](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=1&artikel=1:4&z=2022-01-01&g=2022-01-01) voor zo ver het tweede lid niet anders bepaalt, of bij een overeenkomst als bedoeld in [1:18](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:18&z=2022-01-01&g=2022-01-01). Een bijzondere onderhandelingsgroep of de leden daarvan en een SE-ondernemingsraad, ingesteld krachtens dit hoofdstuk, kunnen niet in de proceskosten van deze procedure worden veroordeeld.
 
@@ -150,7 +177,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Verhouding tot andere wetten
 
-#### Artikel 1:6
+##### Artikel 1:6
 
 1. Wanneer een SE een communautaire onderneming is of een moederonderneming in een communautaire groep in de zin van de [Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508), is die wet niet van toepassing op die onderneming en haar dochterondernemingen, tenzij de bijzondere onderhandelingsgroep het besluit, bedoeld in [artikel 1:13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:13&z=2022-01-01&g=2022-01-01), heeft genomen.
 
@@ -168,7 +195,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Toepasselijkheid
 
-#### Artikel 2:1
+##### Artikel 2:1
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -220,7 +247,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Instelling en doel
 
-#### Artikel 2:2
+##### Artikel 2:2
 
 1. In dit hoofdstuk wordt verstaan onder moederonderneming: het juridisch lichaam dat direct of indirect een overheersende zeggenschap kan uitoefenen op een andere onderneming en dat zelf geen juridisch lichaam is waarover door een andere onderneming direct of indirect een overheersende zeggenschap wordt uitgeoefend. Een juridisch lichaam wordt, tenzij het tegendeel blijkt, vermoed moederonderneming te zijn, indien zij:
 
@@ -252,7 +279,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Samenstelling
 
-#### Artikel 2:3
+##### Artikel 2:3
 
 1. In dit hoofdstuk wordt onder werknemer verstaan:
 
@@ -268,7 +295,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Verkiezing of aanwijzing van de leden
 
-#### Artikel 2:4
+##### Artikel 2:4
 
 1. Ten aanzien van de in Nederland werkzame werknemers die lid zijn van een bijzondere onderhandelingsgroep, de SCE-ondernemingsraad, of als werknemersvertegenwoordigers lid zijn van het toezichthoudend of bestuursorgaan van de SCE, dan wel optreden als vertegenwoordigers bij een andere wijze van informatieverstrekking en raadpleging van werknemers, gelden het tweede tot en met het zevende lid.
 
@@ -292,7 +319,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Overeenkomst
 
-#### Artikel 2:5
+##### Artikel 2:5
 
 1. Iedere belanghebbende kan de ondernemingskamer van het gerechtshof Amsterdam verzoeken te bepalen dat gevolg dient te worden gegeven aan hetgeen is bepaald bij dit hoofdstuk, met uitzondering van [artikel 2:4](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=1&artikel=2:4&z=2022-01-01&g=2022-01-01) voor zover het tweede lid niet anders bepaalt, of bij een overeenkomst als bedoeld in [artikel 2:19](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:19&z=2022-01-01&g=2022-01-01). Een bijzondere onderhandelingsgroep of de leden daarvan en een SCE-ondernemingsraad, ingesteld krachtens dit hoofdstuk, kunnen niet in de proceskosten van deze procedure worden veroordeeld.
 
@@ -304,7 +331,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Informatieverstrekking
 
-#### Artikel 2:6
+##### Artikel 2:6
 
 1. Wanneer een SCE een communautaire onderneming is of een moederonderneming in een communautaire groep in de zin van de [Wet op de Europese ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0008508), is [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008508) niet van toepassing op die onderneming en haar dochterondernemingen, tenzij de bijzondere onderhandelingsgroep het besluit, bedoeld in [artikel 2:14, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:14&z=2022-01-01&g=2022-01-01), heeft genomen.
 
@@ -318,7 +345,7 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Besluiten
 
-#### Artikel 2:7
+##### Artikel 2:7
 
 1. Deze afdeling is van toepassing in het geval van oprichting van een SCE door ten minste twee juridische lichamen of door omzetting.
 
@@ -328,13 +355,13 @@ met dien verstande, dat indien het bestuursorgaan overeenkomstig een onderlinge 
 
 #### Besluitvorming
 
-#### Artikel 2:8
+##### Artikel 2:8
 
 Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht van toepassing op de in deze afdeling geregelde onderhandelingsprocedure.
 
 #### Heropening onderhandelingen
 
-#### Artikel 2:9
+##### Artikel 2:9
 
 1. De deelnemende juridische lichamen die voornemens zijn een SCE op te richten stellen een bijzondere onderhandelingsgroep in die representatief is voor de werknemers van de deelnemende juridische lichamen, betrokken dochterondernemingen en vestigingen, om met de vertegenwoordigers van de werknemers van de juridische lichamen in onderhandeling te treden over regelingen inzake de rol van de werknemers in de SCE.
 
@@ -354,7 +381,7 @@ Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht 
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 2:10
+##### Artikel 2:10
 
 1. De bijzondere onderhandelingsgroep bestaat uit een zodanig aantal vertegenwoordigers van de werknemers van de deelnemende juridische lichamen en de betrokken dochterondernemingen en vestigingen, dat is gewaarborgd dat per lidstaat een lid wordt gekozen of aangewezen voor elke 10%, of een deel daarvan, van de werknemers die in de betrokken lidstaat werkzaam zijn, berekend over het totale aantal werknemers dat bij de deelnemende juridische lichamen en de betrokken dochterondernemingen en vestigingen in alle lidstaten tezamen werkzaam is.
 
@@ -374,7 +401,7 @@ Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht 
 
 #### Start en duur onderhandelingen
 
-#### Artikel 2:11
+##### Artikel 2:11
 
 1. Elk lid van de bijzondere onderhandelingsgroep wordt gekozen of aangewezen overeenkomstig het recht van of de praktijk in de lidstaat waaruit hij wordt afgevaardigd. Bij de aanwijzing wordt bepaald welk deel van de in die lidstaat werkzame werknemers van de deelnemende juridische lichamen en de betrokken dochterondernemingen en vestigingen door het aangewezen lid wordt vertegenwoordigd.
 
@@ -394,7 +421,7 @@ Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht 
 
 #### Inhoud overeenkomst
 
-#### Artikel 2:12
+##### Artikel 2:12
 
 1. De deelnemende juridische lichamen en de bijzondere onderhandelingsgroep stellen in een schriftelijke overeenkomst regelingen vast over de rol van de werknemers in de SCE. Daartoe beleggen de deelnemende juridische lichamen na de oprichting van de bijzondere onderhandelingsgroep met deze een vergadering om te onderhandelen over een dergelijke overeenkomst.
 
@@ -402,7 +429,7 @@ Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht 
 
 #### Onderhandelingen over een nieuwe overeenkomst
 
-#### Artikel 2:13
+##### Artikel 2:13
 
 1. De deelnemende juridische lichamen voorzien de bijzondere onderhandelingsgroep van de gegevens die noodzakelijk zijn bij de onderhandelingen. Tot die gegevens behoren ten minste het voorstel tot oprichting van de SCE en het verloop van de oprichting tot het tijdstip van de inschrijving van de SCE.
 
@@ -414,13 +441,13 @@ Indien de SCE haar statutaire zetel in Nederland zal hebben is Nederlands recht 
 
 #### Toepasselijkheid referentievoorschriften
 
-#### Artikel 3:1
+##### Artikel 3:1
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
 #### Toepasselijkheid referentievoorschriften voor medezeggenschap bij omzetting, fusie, bij oprichting van een moederonderneming of een dochteronderneming
 
-#### Artikel 3:2
+##### Artikel 3:2
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
@@ -428,13 +455,13 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Instelling
 
-#### Artikel 3:3
+##### Artikel 3:3
 
 Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Samenstelling en besluitvorming
 
-#### Artikel 3:4
+##### Artikel 3:4
 
 1. Op de samenstelling van de SE-ondernemingsraad is [artikel 2:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&paragraaf=2&artikel=2:3&z=2005-04-01&g=2005-04-01), van overeenkomstige toepassing, met dien verstande dat de SE-ondernemingsraad hierbij in de plaats treedt van de bijzondere onderhandelingsgroep. Wanneer zich in de SE en haar dochterondernemingen en vestigingen zodanige en blijvende veranderingen voordoen dat de samenstelling van de SE-ondernemingsraad niet langer voldoet aan het bepaalde in de eerste zin, stelt de SE de SE-ondernemingsraad daarvan zo spoedig mogelijk in kennis. De SE-ondernemingsraad wijzigt zijn samenstelling uiterlijk binnen een jaar na de kennisgeving. Zolang de samenstelling van de SE-ondernemingsraad nog niet is gewijzigd, hebben de voor een lidstaat zitting hebbende leden, voor de toepassing van de relevante bepalingen betreffende de stemverhoudingen binnen de raad, samen zoveel stemmen als overeenkomt met het aantal leden dat na de wijziging voor die lidstaat zitting zal hebben.
 
@@ -446,7 +473,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Regeling van werkzaamheden
 
-#### Artikel 3:5
+##### Artikel 3:5
 
 1. De SE-ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering de plaatsvervangende voorzitter, vertegenwoordigt de SE-ondernemingsraad in rechte.
 
@@ -456,7 +483,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Evaluatieprocedure en nieuwe onderhandelingen
 
-#### Artikel 3:6
+##### Artikel 3:6
 
 1. Uiterlijk vier jaren na zijn instelling besluit de SE-ondernemingsraad, al dan niet op voorstel van de SE, of het wenselijk is met de SE in onderhandeling te treden over het sluiten van een overeenkomst als bedoeld in [artikel 2:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&paragraaf=3&artikel=2:5&z=2005-04-01&g=2005-04-01).
 
@@ -470,7 +497,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Informatie, raadpleging en bevoegdheid van de SE-ondernemingsraad
 
-#### Artikel 3:7
+##### Artikel 3:7
 
 1. De verstrekking van informatie door de SE geschiedt op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat de SE-ondernemingsraad of de vertegenwoordigers van de werknemers het mogelijke effect ervan grondig kunnen beoordelen en desgewenst raadplegingen met de SE kunnen voorbereiden.
 
@@ -482,7 +509,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Reguliere vergaderingen en informatieverstrekking
 
-#### Artikel 3:8
+##### Artikel 3:8
 
 1. Onverminderd [artikel 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2005-04-01&g=2005-04-01) komen de SE en de SE-ondernemingsraad ten minste één maal per kalenderjaar in vergadering bijeen. De SE stelt de leiding van plaatselijke ondernemingen of vestigingen in kennis van de vergadering. In de vergadering wordt de SE-ondernemingsraad aan de hand van een door de SE opgesteld schriftelijk rapport geïnformeerd en geraadpleegd over de gang van zaken bij en de vooruitzichten van de SE.
 
@@ -492,7 +519,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Bijzondere omstandigheden
 
-#### Artikel 3:9
+##### Artikel 3:9
 
 1. De SE licht zo spoedig mogelijk de SE-ondernemingsraad in over alle buitengewone omstandigheden en voorgenomen besluiten die aanzienlijke gevolgen hebben voor de belangen van de werknemers, in het bijzonder betreffende verplaatsing of sluiting van vestigingen of ondernemingen of collectief ontslag.
 
@@ -506,7 +533,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Functioneren van de SE-ondernemingsraad
 
-#### Artikel 3:10
+##### Artikel 3:10
 
 1. De SE-ondernemingsraad of het beperkt comité is gerechtigd om voor elke vergadering met de SE te vergaderen zonder dat laatstbedoelde daarbij vertegenwoordigd is. [Artikel 3:9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=3&paragraaf=3&artikel=3:9&z=2005-04-01&g=2005-04-01), is van overeenkomstige toepassing.
 
@@ -516,7 +543,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 3:11
+##### Artikel 3:11
 
 1. De SE-ondernemingsraad en het beperkt comité kunnen zich doen bijstaan door deskundigen van hun keuze voor zover dit voor het verrichten van hun taken noodzakelijk is.
 
@@ -528,7 +555,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Aantal leden van het toezichthoudend of het bestuursorgaan van de SE waarvoor medezeggenschap geldt
 
-#### Artikel 3:12
+##### Artikel 3:12
 
 1. In het geval bedoeld in [artikel 3:2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=3&paragraaf=1&artikel=3:2&z=2005-04-01&g=2005-04-01), behouden de werknemers van de in een SE omgezette vennootschap en van haar dochterondernemingen en vestigingen of hun vertegenwoordigingsorgaan alle elementen van medezeggenschap die vóór de inschrijving van de SE bestonden in de omgezette vennootschap. Het in deze paragraaf voor de andere wijzen van oprichting van de SE bepaalde is daartoe van overeenkomstige toepassing.
 
@@ -538,7 +565,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Medezeggenschap in verhouding tot aantal werknemers in lidstaten
 
-#### Artikel 3:13
+##### Artikel 3:13
 
 1. De SE-ondernemingsraad verdeelt de zetels in het toezichthoudend of het bestuursorgaan van de SE waarop een medezeggenschapsprocedure van toepassing is, zodanig dat de werknemers worden vertegenwoordigd naar verhouding van het aantal werknemers van de SE en van haar dochterondernemingen en vestigingen dat in elke lidstaat werkzaam is.
 
@@ -552,7 +579,7 @@ Deze wet wordt aangehaald als: Wet rol werknemers bij Europese rechtspersonen.
 
 #### Rechten en plichten van leden van het toezichthoudend of het bestuursorgaan
 
-#### Artikel 3:14
+##### Artikel 3:14
 
 Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van wie door de SE-ondernemingsraad het recht op medezeggenschap is uitgeoefend, is van rechtswege lid met dezelfde rechten en plichten als de leden die de aandeelhouders vertegenwoordigen, met inbegrip van het stemrecht.
 
@@ -560,7 +587,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Verkiezing en aanwijzing van werknemers in een niet-Nederlandse SE
 
-#### Artikel 4:1
+##### Artikel 4:1
 
 1. Indien ter uitvoering van de richtlijn in een andere lidstaat dan Nederland een bijzondere onderhandelingsgroep dan wel een SE-ondernemingsraad of een andere informatie- en raadplegingsprocedure wordt ingesteld, zijn op de verkiezing of aanwijzing van de Nederlandse leden de [artikelen 2:4, tweede tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&paragraaf=2&artikel=2:4&z=2005-04-01&g=2005-04-01), en [3:3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=3&paragraaf=2&artikel=3:3&z=2005-04-01&g=2005-04-01), van overeenkomstige toepassing.
 
@@ -568,25 +595,25 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Einde van de arbeidsovereenkomst van (kandidaat)leden van de SE-ondernemingsraad
 
-#### Artikel 4:2
+##### Artikel 4:2
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
 #### Wijziging van de Wet op de Europese ondernemingsraden
 
-#### Artikel 4:3
+##### Artikel 4:3
 
 Wijzigt de Wet op de Europese ondernemingsraden.
 
 #### Inwerkingtreding
 
-#### Artikel 4:4
+##### Artikel 4:4
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Citeertitel
 
-#### Artikel 4:5
+##### Artikel 4:5
 
 Deze wet wordt aangehaald als: Wet rol werknemers bij de Europese vennootschap.
 
@@ -612,7 +639,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Toepasselijkheid
 
-#### Artikel 1:7
+##### Artikel 1:7
 
 Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht van toepassing op de in deze afdeling geregelde onderhandelingsprocedure.
 
@@ -620,7 +647,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Instelling en doel
 
-#### Artikel 1:8
+##### Artikel 1:8
 
 1. De deelnemende vennootschappen die voornemens zijn een SE op te richten stellen een bijzondere onderhandelingsgroep in die representatief is voor de werknemers van de deelnemende vennootschappen, betrokken dochterondernemingen en vestigingen, om met de vertegenwoordigers van de werknemers van de vennootschappen in onderhandeling te treden over regelingen inzake de rol van de werknemers in de SE.
 
@@ -640,7 +667,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Samenstelling
 
-#### Artikel 1:9
+##### Artikel 1:9
 
 1. De bijzondere onderhandelingsgroep bestaat uit een zodanig aantal vertegenwoordigers van de werknemers van de deelnemende vennootschappen en de betrokken dochterondernemingen en vestigingen, dat is gewaarborgd dat per lidstaat een lid wordt gekozen of aangewezen voor elke 10%, of een deel daarvan, van de werknemers die in de betrokken lidstaat werkzaam zijn, berekend over het totale aantal werknemers dat bij de deelnemende vennootschappen en de betrokken dochterondernemingen en vestigingen in alle lidstaten tezamen werkzaam is.
 
@@ -660,7 +687,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Verkiezing of aanwijzing van de leden
 
-#### Artikel 1:10
+##### Artikel 1:10
 
 1. Elk lid van de bijzondere onderhandelingsgroep wordt gekozen of aangewezen overeenkomstig het recht van of de praktijk in de lidstaat waaruit hij wordt afgevaardigd. Bij de aanwijzing wordt bepaald welk deel van de in die lidstaat werkzame werknemers van de deelnemende vennootschappen en de betrokken dochterondernemingen en vestigingen door het aangewezen lid wordt vertegenwoordigd.
 
@@ -680,7 +707,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Overeenkomst
 
-#### Artikel 1:11
+##### Artikel 1:11
 
 1. De deelnemende vennootschappen en de bijzondere onderhandelingsgroep stellen in een schriftelijke overeenkomst regelingen vast over de rol van de werknemers in de SE. Daartoe beleggen de deelnemende vennootschappen na de oprichting van de bijzondere onderhandelingsgroep met deze een vergadering om te onderhandelen over een dergelijke overeenkomst.
 
@@ -688,7 +715,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Informatieverstrekking
 
-#### Artikel 1:12
+##### Artikel 1:12
 
 1. De deelnemende vennootschappen voorzien de bijzondere onderhandelingsgroep van de gegevens die noodzakelijk zijn bij de onderhandelingen. Tot die gegevens behoren ten minste het voorstel tot oprichting van de SE en het verloop van de oprichting tot het tijdstip van de inschrijving van de SE.
 
@@ -696,7 +723,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Besluiten
 
-#### Artikel 1:13
+##### Artikel 1:13
 
 1. De bijzondere onderhandelingsgroep kan besluiten:
 
@@ -708,7 +735,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Besluitvorming
 
-#### Artikel 1:14
+##### Artikel 1:14
 
 1. Ieder lid van de bijzondere onderhandelingsgroep heeft één stem.
 
@@ -728,7 +755,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Heropening onderhandelingen
 
-#### Artikel 1:15
+##### Artikel 1:15
 
 1. Indien de bijzondere onderhandelingsgroep het besluit heeft genomen, bedoeld in [artikel 1:13, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:13&z=2022-01-01&g=2022-01-01), roept de SE de bijzondere onderhandelingsgroep op schriftelijk verzoek van ten minste 10% van de werknemers van de SE en haar dochterondernemingen en vestigingen, of van hun vertegenwoordigers, opnieuw bijeen om in onderhandeling te treden over regelingen op het gebied van de rol van de werknemers in de SE.
 
@@ -740,7 +767,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 1:16
+##### Artikel 1:16
 
 1. De bijzondere onderhandelingsgroep kan de vertegenwoordigers van externe organisaties, waaronder een of meer verenigingen van werknemers, in kennis stellen van het openen van onderhandelingen.
 
@@ -750,7 +777,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Start en duur onderhandelingen
 
-#### Artikel 1:17
+##### Artikel 1:17
 
 1. De onderhandelingen beginnen op het tijdstip waarop de eerste vergadering bedoeld in [artikel 1:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:11&z=2022-01-01&g=2022-01-01), wordt gehouden en kunnen worden voortgezet gedurende een periode van zes maanden.
 
@@ -758,7 +785,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Inhoud overeenkomst
 
-#### Artikel 1:18
+##### Artikel 1:18
 
 1. Indien de deelnemende vennootschappen en de bijzondere onderhandelingsgroep overeenkomen een SE-ondernemingsraad in te stellen, dan regelt de overeenkomst ten minste de volgende aangelegenheden:
 
@@ -806,7 +833,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Onderhandelingen over een nieuwe overeenkomst
 
-#### Artikel 1:19
+##### Artikel 1:19
 
 1. Indien de overeenkomst geen regels bevat als bedoeld in [artikel 1:18, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:18&z=2022-01-01&g=2022-01-01), of de daarin opgenomen regels niet inhouden, dat werknemers of hun vertegenwoordigers van ondernemingen of vestigingen, die na het sluiten van de overeenkomst tot de SE zijn gaan behoren, binnen twee jaar worden betrokken bij de vernieuwing of aanpassing daarvan dan wel niet binnen twee jaar worden vertegenwoordigd in de SE-ondernemingsraad of bij de andere procedure van informatieverstrekking en raadpleging, is de SE verplicht om met de SE-ondernemingsraad, of bij ontbreken daarvan met een nieuw samengestelde bijzondere onderhandelingsgroep, te onderhandelen over een nieuwe overeenkomst indien:
 
@@ -824,7 +851,7 @@ Indien de SE haar statutaire zetel in Nederland zal hebben is Nederlands recht v
 
 #### Toepasselijkheid referentievoorschriften
 
-#### Artikel 1:20
+##### Artikel 1:20
 
 Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Nederland indien:
 
@@ -838,7 +865,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Toepasselijkheid referentievoorschriften voor medezeggenschap bij omzetting, fusie, bij oprichting van een moederonderneming of een dochteronderneming
 
-#### Artikel 1:21
+##### Artikel 1:21
 
 1. Onverminderd [artikel 1:20](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1:20&z=2022-01-01&g=2022-01-01) is in het geval van oprichting van een SE door omzetting [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=4&z=2022-01-01&g=2022-01-01) van deze afdeling slechts van toepassing indien op de in een SE omgezette vennootschap wettelijke regels of praktijken van toepassing waren betreffende de medezeggenschap van de werknemers in het toezichthoudend of het bestuursorgaan.
 
@@ -860,7 +887,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Instelling
 
-#### Artikel 1:22
+##### Artikel 1:22
 
 1. De SE stelt een SE-ondernemingsraad in.
 
@@ -872,7 +899,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Samenstelling en besluitvorming
 
-#### Artikel 1:23
+##### Artikel 1:23
 
 1. Op de samenstelling van de SE-ondernemingsraad is [artikel 1:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1:9&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat de SE-ondernemingsraad hierbij in de plaats treedt van de bijzondere onderhandelingsgroep. Wanneer zich in de SE en haar dochterondernemingen en vestigingen zodanige en blijvende veranderingen voordoen dat de samenstelling van de SE-ondernemingsraad niet langer voldoet aan het bepaalde in de eerste zin, stelt de SE de SE-ondernemingsraad daarvan zo spoedig mogelijk in kennis. De SE-ondernemingsraad wijzigt zijn samenstelling uiterlijk binnen een jaar na de kennisgeving. Zolang de samenstelling van de SE-ondernemingsraad nog niet is gewijzigd, hebben de voor een lidstaat zitting hebbende leden, voor de toepassing van de relevante bepalingen betreffende de stemverhoudingen binnen de raad, samen zoveel stemmen als overeenkomt met het aantal leden dat na de wijziging voor die lidstaat zitting zal hebben.
 
@@ -884,7 +911,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Regeling van werkzaamheden
 
-#### Artikel 1:24
+##### Artikel 1:24
 
 1. De SE-ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering de plaatsvervangende voorzitter, vertegenwoordigt de SE-ondernemingsraad in rechte.
 
@@ -894,7 +921,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Evaluatieprocedure en nieuwe onderhandelingen
 
-#### Artikel 1:25
+##### Artikel 1:25
 
 1. Uiterlijk vier jaren na zijn instelling besluit de SE-ondernemingsraad, al dan niet op voorstel van de SE, of het wenselijk is met de SE in onderhandeling te treden over het sluiten van een overeenkomst als bedoeld in [artikel 1:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=3&artikel=1:11&z=2022-01-01&g=2022-01-01).
 
@@ -908,7 +935,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Informatie, raadpleging en bevoegdheid van de SE-ondernemingsraad
 
-#### Artikel 1:26
+##### Artikel 1:26
 
 1. De verstrekking van informatie door de SE geschiedt op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat de SE-ondernemingsraad of de vertegenwoordigers van de werknemers het mogelijke effect ervan grondig kunnen beoordelen en desgewenst raadplegingen met de SE kunnen voorbereiden.
 
@@ -920,7 +947,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Reguliere vergaderingen en informatieverstrekking
 
-#### Artikel 1:27
+##### Artikel 1:27
 
 1. Onverminderd [artikel 1:28](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1:28&z=2022-01-01&g=2022-01-01) komen de SE en de SE-ondernemingsraad ten minste één maal per kalenderjaar in vergadering bijeen. De SE stelt de leiding van plaatselijke ondernemingen of vestigingen in kennis van de vergadering. In de vergadering wordt de SE-ondernemingsraad aan de hand van een door de SE opgesteld schriftelijk rapport geïnformeerd en geraadpleegd over de gang van zaken bij en de vooruitzichten van de SE.
 
@@ -930,7 +957,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Bijzondere omstandigheden
 
-#### Artikel 1:28
+##### Artikel 1:28
 
 1. De SE licht zo spoedig mogelijk de SE-ondernemingsraad in over alle buitengewone omstandigheden en voorgenomen besluiten die aanzienlijke gevolgen hebben voor de belangen van de werknemers, in het bijzonder betreffende verplaatsing of sluiting van vestigingen of ondernemingen of collectief ontslag.
 
@@ -944,7 +971,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Functioneren van de SE-ondernemingsraad
 
-#### Artikel 1:29
+##### Artikel 1:29
 
 1. De SE-ondernemingsraad of het beperkt comité is gerechtigd om voor elke vergadering met de SE te vergaderen zonder dat laatstbedoelde daarbij vertegenwoordigd is. [Artikel 1:28, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=3&artikel=1:28&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
@@ -954,7 +981,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 1:30
+##### Artikel 1:30
 
 1. De SE-ondernemingsraad en het beperkt comité kunnen zich doen bijstaan door deskundigen van hun keuze voor zover dit voor het verrichten van hun taken noodzakelijk is.
 
@@ -966,7 +993,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Aantal leden van het toezichthoudend of het bestuursorgaan van de SE waarvoor medezeggenschap geldt
 
-#### Artikel 1:31
+##### Artikel 1:31
 
 1. In het geval bedoeld in [artikel 1:21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=1&artikel=1:21&z=2022-01-01&g=2022-01-01), behouden de werknemers van de in een SE omgezette vennootschap en van haar dochterondernemingen en vestigingen of hun vertegenwoordigingsorgaan alle elementen van medezeggenschap die vóór de inschrijving van de SE bestonden in de omgezette vennootschap. Het in deze paragraaf voor de andere wijzen van oprichting van de SE bepaalde is daartoe van overeenkomstige toepassing.
 
@@ -976,7 +1003,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Medezeggenschap in verhouding tot aantal werknemers in lidstaten
 
-#### Artikel 1:32
+##### Artikel 1:32
 
 1. De SE-ondernemingsraad verdeelt de zetels in het toezichthoudend of het bestuursorgaan van de SE waarop een medezeggenschapsprocedure van toepassing is, zodanig dat de werknemers worden vertegenwoordigd naar verhouding van het aantal werknemers van de SE en van haar dochterondernemingen en vestigingen dat in elke lidstaat werkzaam is.
 
@@ -990,7 +1017,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SE in Ned
 
 #### Rechten en plichten van leden van het toezichthoudend of het bestuursorgaan
 
-#### Artikel 1:33
+##### Artikel 1:33
 
 Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van wie door de SE-ondernemingsraad het recht op medezeggenschap is uitgeoefend, is van rechtswege lid met dezelfde rechten en plichten als de leden die de aandeelhouders vertegenwoordigen, met inbegrip van het stemrecht.
 
@@ -998,7 +1025,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Verkiezing en aanwijzing van werknemers in een niet-Nederlandse SE
 
-#### Artikel 1:34
+##### Artikel 1:34
 
 1. Indien ter uitvoering van de richtlijn in een andere lidstaat dan Nederland een bijzondere onderhandelingsgroep dan wel een SE-ondernemingsraad of een andere informatie- en raadplegingsprocedure wordt ingesteld, zijn op de verkiezing of aanwijzing van de Nederlandse leden de [artikelen 1:10, tweede tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=2&paragraaf=2&artikel=1:10&z=2022-01-01&g=2022-01-01), en [1:22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=1&afdeling=3&paragraaf=2&artikel=1:22&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 
@@ -1042,7 +1069,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Besluiten
 
-#### Artikel 2:14
+##### Artikel 2:14
 
 1. De bijzondere onderhandelingsgroep kan besluiten:
 
@@ -1054,7 +1081,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Besluitvorming
 
-#### Artikel 2:15
+##### Artikel 2:15
 
 1. Ieder lid van de bijzondere onderhandelingsgroep heeft één stem.
 
@@ -1074,7 +1101,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Heropening onderhandelingen
 
-#### Artikel 2:16
+##### Artikel 2:16
 
 1. Indien de bijzondere onderhandelingsgroep het besluit heeft genomen, bedoeld in [artikel 2:14, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:14&z=2022-01-01&g=2022-01-01), roept de SCE de bijzondere onderhandelingsgroep op schriftelijk verzoek van ten minste 10% van de werknemers van de SCE en haar dochterondernemingen en vestigingen, of van hun vertegenwoordigers, opnieuw bijeen om in onderhandeling te treden over regelingen op het gebied van de rol van de werknemers in de SCE.
 
@@ -1086,7 +1113,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 2:17
+##### Artikel 2:17
 
 1. De bijzondere onderhandelingsgroep kan de vertegenwoordigers van externe organisaties, waaronder een of meer verenigingen van werknemers, in kennis stellen van het openen van onderhandelingen.
 
@@ -1096,7 +1123,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Start en duur onderhandelingen
 
-#### Artikel 2:18
+##### Artikel 2:18
 
 1. De onderhandelingen beginnen op het tijdstip waarop de eerste vergadering, bedoeld in [artikel 2:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:12&z=2022-01-01&g=2022-01-01), wordt gehouden en kunnen worden voortgezet gedurende een periode van zes maanden.
 
@@ -1104,7 +1131,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Inhoud overeenkomst
 
-#### Artikel 2:19
+##### Artikel 2:19
 
 1. Indien de deelnemende juridische lichamen en de bijzondere onderhandelingsgroep overeenkomen een SCE-ondernemingsraad in te stellen, dan regelt de overeenkomst ten minste de volgende aangelegenheden:
 
@@ -1154,7 +1181,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Onderhandelingen over een nieuwe overeenkomst
 
-#### Artikel 2:20
+##### Artikel 2:20
 
 1. Indien de overeenkomst geen regels bevat als bedoeld in [artikel 2:19, eerste lid, onderdelen i en j](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:19&z=2022-01-01&g=2022-01-01), of de daarin opgenomen regels niet inhouden, dat werknemers of hun vertegenwoordigers van ondernemingen of vestigingen, die na het sluiten van de overeenkomst tot de SCE zijn gaan behoren, binnen twee jaar worden betrokken bij de vernieuwing of aanpassing daarvan dan wel niet binnen twee jaar worden vertegenwoordigd in de SCE-ondernemingsraad of bij de andere procedure van informatieverstrekking en raadpleging, is de SCE verplicht om met de SCE-ondernemingsraad, of bij ontbreken daarvan met een nieuw samengestelde bijzondere onderhandelingsgroep, te onderhandelen over een nieuwe overeenkomst indien:
 
@@ -1172,7 +1199,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Toepasselijkheid
 
-#### Artikel 2:21
+##### Artikel 2:21
 
 1. Deze afdeling is van toepassing in het geval van oprichting van een SCE door ten minste twee juridische lichamen of door omzetting.
 
@@ -1182,7 +1209,7 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SE ten aanzien van 
 
 #### Tijdstip toepasselijkheid referentievoorschriften
 
-#### Artikel 2:22
+##### Artikel 2:22
 
 Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Nederland indien:
 
@@ -1196,7 +1223,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Toepasselijkheid referentievoorschriften voor medezeggenschap bij omzetting, fusie, bij oprichting op andere wijze
 
-#### Artikel 2:23
+##### Artikel 2:23
 
 1. Onverminderd [artikel 2:22](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2:22&z=2022-01-01&g=2022-01-01) is in het geval van oprichting van een SCE door omzetting [paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=4&z=2022-01-01&g=2022-01-01) van deze afdeling slechts van toepassing, indien op de in een SCE omgezette coöperatie wettelijke regels of praktijken van toepassing waren betreffende de medezeggenschap van de werknemers in het toezichthoudend of het bestuursorgaan.
 
@@ -1218,7 +1245,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Instelling
 
-#### Artikel 2:24
+##### Artikel 2:24
 
 1. De SCE stelt een SCE-ondernemingsraad in.
 
@@ -1230,7 +1257,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Samenstelling en besluitvorming
 
-#### Artikel 2:25
+##### Artikel 2:25
 
 1. Op de samenstelling van de SCE-ondernemingsraad is [artikel 2:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:10&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing, met dien verstande dat de SCE-ondernemingsraad hierbij in de plaats treedt van de bijzondere onderhandelingsgroep. Wanneer zich in de SCE en haar dochterondernemingen en vestigingen zodanige en blijvende veranderingen voordoen dat de samenstelling van de SCE-ondernemingsraad niet langer voldoet aan het bepaalde in de eerste zin, stelt de SCE de SCE-ondernemingsraad daarvan zo spoedig mogelijk in kennis. De SCE-ondernemingsraad wijzigt zijn samenstelling uiterlijk binnen een jaar na de kennisgeving. Zolang de samenstelling van de SCE-ondernemingsraad nog niet is gewijzigd, hebben de voor een lidstaat zitting hebbende leden, voor de toepassing van de relevante bepalingen betreffende de stemverhoudingen binnen de raad, samen zoveel stemmen als overeenkomt met het aantal leden dat na de wijziging voor die lidstaat zitting zal hebben.
 
@@ -1242,7 +1269,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Regeling van werkzaamheden
 
-#### Artikel 2:26
+##### Artikel 2:26
 
 1. De SCE-ondernemingsraad kiest uit zijn midden een voorzitter en een of meer plaatsvervangende voorzitters. De voorzitter, of bij diens verhindering de plaatsvervangende voorzitter, vertegenwoordigt de SCE-ondernemingsraad in rechte.
 
@@ -1252,7 +1279,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Evaluatieprocedure en nieuwe onderhandelingen
 
-#### Artikel 2:27
+##### Artikel 2:27
 
 1. Uiterlijk vier jaren na zijn instelling besluit de SCE-ondernemingsraad, al dan niet op voorstel van de SCE, of het wenselijk is met de SCE in onderhandeling te treden over het sluiten van een overeenkomst als bedoeld in [artikel 2:12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=3&artikel=2:12&z=2022-01-01&g=2022-01-01).
 
@@ -1266,7 +1293,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Informatie, raadpleging en bevoegdheid van de SCE-ondernemingsraad
 
-#### Artikel 2:28
+##### Artikel 2:28
 
 1. De verstrekking van informatie door de SCE geschiedt op een zodanig tijdstip, op een zodanige wijze en met een zodanige inhoud dat de SCE-ondernemingsraad of de vertegenwoordigers van de werknemers het mogelijke effect ervan grondig kunnen beoordelen en desgewenst raadplegingen met de SCE kunnen voorbereiden.
 
@@ -1278,7 +1305,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Reguliere vergaderingen en informatieverstrekking
 
-#### Artikel 2:29
+##### Artikel 2:29
 
 1. Onverminderd [artikel 2:30](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2:30&z=2022-01-01&g=2022-01-01) komen de SCE en de SCE-ondernemingsraad ten minste één maal per kalenderjaar in vergadering bijeen. De SCE stelt de leiding van plaatselijke ondernemingen of vestigingen in kennis van de vergadering. In de vergadering wordt de SCE-ondernemingsraad aan de hand van een door de SCE opgesteld schriftelijk rapport geïnformeerd en geraadpleegd over de gang van zaken bij en de vooruitzichten van de SCE.
 
@@ -1288,7 +1315,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Bijzondere omstandigheden
 
-#### Artikel 2:30
+##### Artikel 2:30
 
 1. De SCE licht zo spoedig mogelijk de SCE-ondernemingsraad in over alle buitengewone omstandigheden en voorgenomen besluiten die aanzienlijke gevolgen hebben voor de belangen van de werknemers, in het bijzonder betreffende verplaatsing of sluiting van vestigingen of ondernemingen of collectief ontslag.
 
@@ -1302,7 +1329,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Functioneren van de SCE-ondernemingsraad
 
-#### Artikel 2:31
+##### Artikel 2:31
 
 1. De SCE-ondernemingsraad of het beperkt comité is gerechtigd om voor elke vergadering met de SCE te vergaderen zonder dat laatstbedoelde daarbij vertegenwoordigd is. [Artikel 2:30, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=3&artikel=2:30&z=2022-01-01&g=2022-01-01), is van overeenkomstige toepassing.
 
@@ -1312,7 +1339,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Bijstand door deskundigen en kosten
 
-#### Artikel 2:32
+##### Artikel 2:32
 
 1. De SCE-ondernemingsraad en het beperkt comité kunnen zich doen bijstaan door deskundigen van hun keuze voor zover dit voor het verrichten van hun taken noodzakelijk is.
 
@@ -1324,7 +1351,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Aantal leden van het toezichthoudend of het bestuursorgaan van de SCE waarvoor medezeggenschap geldt
 
-#### Artikel 2:33
+##### Artikel 2:33
 
 1. In het geval, bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=1&artikel=2:23&z=2022-01-01&g=2022-01-01), behouden de werknemers van de in een SCE omgezette coöperatie en van haar dochterondernemingen en vestigingen of hun vertegenwoordigingsorgaan alle elementen van medezeggenschap die vóór de inschrijving van de SCE bestonden in de omgezette coöperatie. Het in deze paragraaf voor de andere wijzen van oprichting van de SCE bepaalde is daartoe van overeenkomstige toepassing.
 
@@ -1334,7 +1361,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Medezeggenschap in verhouding tot aantal werknemers in lidstaten
 
-#### Artikel 2:34
+##### Artikel 2:34
 
 1. De SCE-ondernemingsraad verdeelt de zetels in het toezichthoudend of het bestuursorgaan van de SCE waarop een medezeggenschapsprocedure van toepassing is, zodanig dat de werknemers worden vertegenwoordigd naar verhouding van het aantal werknemers van de SCE en van haar dochterondernemingen en vestigingen dat in elke lidstaat werkzaam is.
 
@@ -1348,7 +1375,7 @@ Deze afdeling is van toepassing vanaf de datum van inschrijving van de SCE in Ne
 
 #### Rechten en plichten van leden van het toezichthoudend of het bestuursorgaan
 
-#### Artikel 2:35
+##### Artikel 2:35
 
 Elk lid van het toezichthoudend of het bestuursorgaan van de SCE ten aanzien van wie door de SCE-ondernemingsraad het recht op medezeggenschap is uitgeoefend, is van rechtswege lid met dezelfde rechten en plichten als de leden die de leden van de SCE vertegenwoordigen, met inbegrip van het stemrecht.
 
@@ -1356,13 +1383,13 @@ Elk lid van het toezichthoudend of het bestuursorgaan van de SCE ten aanzien van
 
 #### Toepasselijkheid
 
-#### Artikel 2:36
+##### Artikel 2:36
 
 Deze afdeling is slechts van toepassing in het geval van oprichting van een SCE door uitsluitend natuurlijke personen of door slechts één juridisch lichaam en natuurlijke personen, indien het totale aantal werknemers van de SCE en haar dochterondernemingen en vestigingen minder dan 50 bedraagt of 50 of meer in slechts één lidstaat.
 
 #### De rol van de werknemers in de SCE respectievelijk de dochterondernemingen en vestigingen van de SCE
 
-#### Artikel 2:37
+##### Artikel 2:37
 
 1. In het geval van oprichting van een SCE als bedoeld in [artikel 2:36](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=4&artikel=2:36&z=2022-01-01&g=2022-01-01), geldt met betrekking tot de rol van de werknemers in de SCE zelf, het recht dat in de lidstaat waarin de SCE haar statutaire zetel heeft, van toepassing is op gelijksoortige lichamen. Ten aanzien van een SCE met statutaire zetel in Nederland is dat het recht op grond van de [Wet op de ondernemingsraden](https://wetten.overheid.nl/jci1.3:c:BWBR0002747) en de [artikelen 158](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=158) en [159 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=159).
 
@@ -1372,7 +1399,7 @@ Deze afdeling is slechts van toepassing in het geval van oprichting van een SCE 
 
 #### Wijziging van de rol van de werknemers na inschrijving SCE
 
-#### Artikel 2:38
+##### Artikel 2:38
 
 Indien na de inschrijving van een SCE als bedoeld in [artikel 2:36](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=4&artikel=2:36&z=2022-01-01&g=2022-01-01),
 
@@ -1384,7 +1411,7 @@ Indien na de inschrijving van een SCE als bedoeld in [artikel 2:36](https://wett
 
 #### Toepasselijkheid
 
-#### Artikel 2:39
+##### Artikel 2:39
 
 1. Deze afdeling is van toepassing in het geval van oprichting van een SCE door ten minste twee juridische lichamen of door omzetting.
 
@@ -1394,7 +1421,7 @@ Indien na de inschrijving van een SCE als bedoeld in [artikel 2:36](https://wett
 
 #### Stemrecht werknemers(vertegenwoordigers)
 
-#### Artikel 2:40
+##### Artikel 2:40
 
 Onverminderd artikel 59, vierde lid, van de verordening kunnen de werknemers van de SCE of de werknemersvertegenwoordigers deelnemen aan de algemene vergadering of aan de sector- of afdelingsvergadering en stemrecht uitoefenen, indien:
 
@@ -1418,7 +1445,7 @@ Onverminderd artikel 59, vierde lid, van de verordening kunnen de werknemers van
 
 #### Verkiezing en aanwijzing van werknemers in een niet-Nederlandse SCE
 
-#### Artikel 2:41
+##### Artikel 2:41
 
 1. Indien ter uitvoering van de richtlijn in een andere lidstaat dan Nederland een bijzondere onderhandelingsgroep dan wel een SCE-ondernemingsraad of een andere informatie- en raadplegingsprocedure wordt ingesteld, zijn op de verkiezing of aanwijzing van de Nederlandse leden de [artikelen 2:11, tweede tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=2&paragraaf=2&artikel=2:11&z=2022-01-01&g=2022-01-01), en [2:24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018115&hoofdstuk=2&afdeling=3&paragraaf=2&artikel=2:24&z=2022-01-01&g=2022-01-01), van overeenkomstige toepassing.
 

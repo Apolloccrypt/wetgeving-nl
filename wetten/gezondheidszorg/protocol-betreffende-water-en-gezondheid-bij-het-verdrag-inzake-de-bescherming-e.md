@@ -1,13 +1,35 @@
 ---
 title: "Protocol betreffende water en gezondheid bij het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren van 1992"
 identifier: "BWBV0004373"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2009-09-23
-laatste_update: 2009-09-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004373"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-09-23"
+last_updated: "2009-09-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004373"
+soort: "verdrag"
+stam_id: "10004087153"
+version_id: "10004255922"
+internal_id: "C10008335851"
+label_id: "10004071744"
+dtd_version: "2.0"
+original_entry_into_force: "2009-09-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004373/2009-09-23/0"
+intitule_bron: "Trb.2000-48"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-05-10"
+intitule_in_force: "2009-07-28"
+intitule_status: "goed"
+original_publication: "Trb.2000-48"
+original_published_date: "2000-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-48"
+entry_into_force_date: "2009-09-23"
+jci_1_3: "jci1.3:c:BWBV0004373&z=2009-09-23&g=2009-09-23"
+jci_1_0: "1.0:c:BWBV0004373&g=2009-09-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-09-23"
 ---
-
 # Protocol betreffende water en gezondheid bij het Verdrag inzake de bescherming en het gebruik van grensoverschrijdende waterlopen en internationale meren van 1992
 
 De Partijen bij dit Protocol,
@@ -40,11 +62,11 @@ Aangemoedigd door de vele voorbeelden van positieve resultaten bereikt door de S
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het doel van dit Protocol is op alle niveaus, zowel nationaal als in grensoverschrijdende en internationale verbanden, de bescherming van de gezondheid en het welzijn van de mens, zowel individueel als collectief, binnen een kader van duurzame ontwikkeling door verbetering van het waterbeheer, met inbegrip van de bescherming van waterecosystemen, en door het voorkomen, beheersen en verminderen van aan water gerelateerde ziekten.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -94,7 +116,7 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - 17. „Vergadering van de Partijen”: het door de Partijen in overeenstemming met [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=2009-09-23&g=2009-09-23) opgerichte orgaan.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 De bepalingen van dit Protocol zijn van toepassing op:
 
@@ -112,7 +134,7 @@ De bepalingen van dit Protocol zijn van toepassing op:
 
 - g. afvalwater gedurende het gehele traject van verzamelen, vervoeren, behandelen en afvoeren of hergebruiken.
 
-#### Artikel 4. Algemene bepalingen
+##### Artikel 4. Algemene bepalingen
 
 1. De Partijen treffen alle passende maatregelen ter voorkoming, beheersing en terugdringing van aan water gerelateerde ziekten binnen een kader van integrale waterbeheersingssystemen gericht op het duurzaam gebruik van watervoorkomens, op een kwaliteit van het water die de gezondheid van de mens niet bedreigt en op de bescherming van waterecosystemen.
 
@@ -148,7 +170,7 @@ De bepalingen van dit Protocol zijn van toepassing op:
 
 9. De bepalingen van dit Protocol doen geen afbreuk aan de rechten en verplichtingen van de Partijen bij dit Protocol die voortvloeien uit het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001174) of uit een andere bestaande internationale overeenkomst, tenzij de vereisten ingevolge dit Protocol stringenter zijn dan de overeenkomstige vereisten ingevolge het Verdrag of die andere bestaande internationale overeenkomst.
 
-#### Artikel 5. Beginselen en benaderingen
+##### Artikel 5. Beginselen en benaderingen
 
 Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen in het bijzonder geleid door de volgende beginselen en benaderingen:
 
@@ -180,7 +202,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 - n. bij de uitvoering van dit Protocol dient op passende wijze rekening te worden gehouden met lokale problemen, behoeften en kennis.
 
-#### Artikel 6. Doelen en streefdata
+##### Artikel 6. Doelen en streefdata
 
 1. Teneinde de doelstelling van dit Protocol te verwezenlijken streven de Partijen naar:
 
@@ -236,7 +258,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 - d. creëren en handhaven de Partijen regelingen, indien passend met inbegrip van wettelijke en institutionele regelingen, voor het toezicht op, het bevorderen en bereiken van en, waar nodig, de handhaving van andere normen en niveaus van resultaten waarvoor de in het tweede lid genoemde doelen zijn gesteld.
 
-#### Artikel 7. Toetsing en beoordeling van de vooruitgang
+##### Artikel 7. Toetsing en beoordeling van de vooruitgang
 
 1. De Partijen verzamelen en evalueren elk gegevens met betrekking tot:
 
@@ -254,7 +276,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 6. De Vergadering van de Partijen evalueert de vooruitgang in de uitvoering van dit Protocol op basis van dergelijke samenvattende verslagen.
 
-#### Artikel 8. Bestrijdingssystemen
+##### Artikel 8. Bestrijdingssystemen
 
 1. De Partijen dragen er elk zorg voor dat:
 
@@ -276,7 +298,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 3. Binnen drie jaar nadat zij Partij is geworden, dient elke Partij de in het eerste lid bedoelde systemen voor toezicht en vroegtijdige waarschuwing, noodplannen en bestrijdingscapaciteiten te hebben ingesteld.
 
-#### Artikel 9. Bewustwording van het publiek, scholing, training, onderzoek en ontwikkeling en informatie
+##### Artikel 9. Bewustwording van het publiek, scholing, training, onderzoek en ontwikkeling en informatie
 
 1. De Partijen nemen maatregelen met het oog op de vergroting van het bewustzijn van het publiek in alle geledingen van de samenleving met betrekking tot:
 
@@ -298,7 +320,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 - b. de ontwikkeling van geïntegreerde informatiesystemen voor het behandelen van informatie met betrekking tot trends op de lange termijn, actuele en vroegere problemen en goede oplossingen hiervoor op het gebied van water en gezondheid, en de verstrekking van deze informatie aan de bevoegde autoriteiten.
 
-#### Artikel 10. Openbare informatie
+##### Artikel 10. Openbare informatie
 
 1. Naast de vereisten van dit Protocol voor de Partijen om specifieke informatie of documenten openbaar te maken, neemt elke Partij binnen het kader van haar eigen wetgeving stappen om aan het publiek informatie beschikbaar te stellen die in het bezit is van overheidsinstanties en redelijkerwijs nodig is om het publieke debat mogelijk te maken over:
 
@@ -340,7 +362,7 @@ Bij het nemen van maatregelen ter uitvoering van dit Protocol worden de Partijen
 
 Deze gronden voor het niet openbaarmaken van informatie worden op een restrictieve wijze uitgelegd, rekening houdend met het openbare belang dat is gediend met de bekendmaking ervan en rekening houdend met het feit of de informatie al dan niet betrekking heeft op emissies en lozingen in het milieu.
 
-#### Artikel 11. Internationale samenwerking
+##### Artikel 11. Internationale samenwerking
 
 De Partijen werken samen en bieden elkaar passende bijstand:
 
@@ -348,7 +370,7 @@ De Partijen werken samen en bieden elkaar passende bijstand:
 
 - b. op verzoek, bij de uitvoering van nationale en lokale plannen ingevolge dit Protocol.
 
-#### Artikel 12. Gezamenlijke en gecoördineerde internationale maatregelen
+##### Artikel 12. Gezamenlijke en gecoördineerde internationale maatregelen
 
 Ingevolge [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23), bevorderen de Partijen samenwerking bij internationale maatregelen met betrekking tot:
 
@@ -370,7 +392,7 @@ Ingevolge [artikel 11, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0004
 
 - g. de uitwisseling van informatie inzake doeltreffende wijzen van verspreiding onder het publiek van informatie met betrekking tot aan water gerelateerde ziekten.
 
-#### Artikel 13. Samenwerking met betrekking tot grensoverschrijdende wateren
+##### Artikel 13. Samenwerking met betrekking tot grensoverschrijdende wateren
 
 1. Wanneer Partijen grenzen aan dezelfde grensoverschrijdende wateren dienen zij ter aanvulling van hun andere verplichtingen ingevolge de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=12&z=2009-09-23&g=2009-09-23) samen te werken en waar nodig elkaar bijstand te verlenen ter voorkoming, beheersing en vermindering van de grensoverschrijdende gevolgen van aan water gerelateerde ziekten.
 
@@ -386,7 +408,7 @@ In het bijzonder:
 
 2. Wanneer de betrokken Partijen Partij zijn bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001174), vinden de samenwerking en bijstand ten aanzien van grensoverschrijdende gevolgen van aan water gerelateerde ziekten die grensoverschrijdende effecten zijn, plaats in overeenstemming met de bepalingen van het Verdrag.
 
-#### Artikel 14. Internationale steun voor nationale maatregelen
+##### Artikel 14. Internationale steun voor nationale maatregelen
 
 Bij de samenwerking en wederzijdse bijstand bij de uitvoering van nationale en lokale plannen ingevolge [artikel 11, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=11&z=2009-09-23&g=2009-09-23), overwegen de Partijen in het bijzonder hoe zij het best kunnen helpen bij de bevordering van:
 
@@ -408,11 +430,11 @@ Bij de samenwerking en wederzijdse bijstand bij de uitvoering van nationale en l
 
 - i. het realiseren van kwaliteitsborging van toezichtactiviteiten, met inbegrip van de onderlinge vergelijkbaarheid van laboratoria.
 
-#### Artikel 15. Toetsing van de naleving
+##### Artikel 15. Toetsing van de naleving
 
 De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Protocol op basis van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=7&z=2009-09-23&g=2009-09-23) bedoelde toetsingen en beoordelingen. Tijdens de eerste vergadering van de Partijen stellen de Partijen multilaterale regelingen vast van een niet-confronterende en niet-rechtelijke en raadplegende aard voor de toetsing van de naleving. Deze regelingen dienen te voorzien in passende betrokkenheid van het publiek.
 
-#### Artikel 16. Vergadering van de Partijen
+##### Artikel 16. Vergadering van de Partijen
 
 1. De eerste vergadering van de Partijen wordt uiterlijk achttien maanden na de datum van inwerkingtreding van dit Protocol belegd. Daarna worden gewone vergaderingen gehouden met regelmatige tussenpozen zoals bepaald door de Partijen, maar ten minste elke drie jaar, behoudens voorzover andere regelingen nodig zijn voor het bereiken van de hieronder in het tweede lid genoemde doelen. De Partijen beleggen een buitengewone vergadering indien zij daartoe tijdens een gewone vergadering besluiten, of op schriftelijk verzoek van een Partij, mits dit verzoek, binnen zes maanden nadat het aan alle Partijen is toegezonden, door ten minste een derde van de Partijen wordt gesteund.
 
@@ -444,7 +466,7 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 - l. het bespreken en treffen van alle aanvullende maatregelen die vereist kunnen zijn voor de verwezenlijking van de doelen van dit Protocol.
 
-#### Artikel 17. Secretariaat
+##### Artikel 17. Secretariaat
 
 1. De Uitvoerend Secretaris van de Economische Commissie voor Europa en de Regionaal Directeur van het Regionaal Bureau voor Europa van de Wereldgezondheidsorganisatie verrichten de volgende secretariaatstaken voor dit Protocol:
 
@@ -460,7 +482,7 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 - b. brengen de Partijen verslag uit over de onderdelen en de wijze van uitvoering van het in [artikel 16, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=16&z=2009-09-23&g=2009-09-23), bedoelde werkprogramma.
 
-#### Artikel 18. Wijziging van het Protocol
+##### Artikel 18. Wijziging van het Protocol
 
 1. Iedere Partij kan voorstellen doen tot wijziging van dit Protocol.
 
@@ -470,13 +492,13 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 4. Een wijziging van dit Protocol wordt aangenomen met consensus van de vertegenwoordigers van de Partijen die tijdens de vergadering aanwezig zijn. De aangenomen wijziging wordt door het secretariaat aan de Depositaris verstrekt, die dit aan alle Partijen ter aanvaarding zendt. De wijziging treedt ten aanzien van de Partijen die haar hebben aanvaard in werking op de negentigste dag na de datum waarop twee derde van die Partijen hun akten van aanvaarding van de wijziging bij de Depositaris hebben nedergelegd. Voor iedere andere Partij treedt de wijziging in werking op de negentigste dag na de datum waarop die Partij haar akte van aanvaarding van de wijziging nederlegt.
 
-#### Artikel 19. Stemrecht
+##### Artikel 19. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid van dit artikel heeft elke Partij één stem.
 
 2. Regionale organisaties voor economische integratie oefenen ten aanzien van de aangelegenheden die onder hun bevoegdheid vallen hun stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij zijn. Deze organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 20. Geschillenregeling
+##### Artikel 20. Geschillenregeling
 
 1. Indien tussen twee of meer Partijen een geschil ontstaat over de uitlegging of de toepassing van dit Protocol, trachten zij dit op te lossen door onderhandeling of volgens een andere voor de partijen bij het geschil aanvaardbare methode voor de regeling van geschillen.
 
@@ -486,11 +508,11 @@ De Partijen toetsen de naleving door de Partijen van de bepalingen van dit Proto
 
 - b. in alle andere gevallen, voorlegging van het geschil aan het Internationaal Gerechtshof, tenzij de Partijen instemmen met arbitrage of een andere vorm van geschillenbeslechting.
 
-#### Artikel 21. Ondertekening
+##### Artikel 21. Ondertekening
 
 Dit Protocol staat op 17 juni 1999 ter gelegenheid van de Derde Ministeriële Conferentie inzake Milieu en Gezondheid te Londen, en daarna tot 18 juni 2000 op de Zetel van de Verenigde Naties te New York, open voor ondertekening voor de lidstaten van de Economische Commissie voor Europa alsmede voor de lidstaten van het Regionaal Comité voor Europa van de Wereldgezondheidsorganisatie, voor Staten die een consultatieve status bij de Economische Commissie voor Europa hebben krachtens paragraaf 8 van resolutie 36 (IV) van 28 maart 1947 van de Economische en Sociale Raad, en voor regionale organisaties voor economische integratie opgericht door soevereine Staten die lid zijn van de Economische Commissie voor Europa of van het Regionaal Comité voor Europa van de Wereldgezondheidsorganisatie waaraan de lidstaten bevoegdheden hebben overgedragen ten aanzien van aangelegenheden die onder dit Protocol vallen, met inbegrip van de bevoegdheid ten aanzien van die aangelegenheden verdragen aan te gaan.
 
-#### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol dient te worden bekrachtigd, aanvaard of goedgekeurd door ondertekenende Staten en regionale organisaties voor economische integratie.
 
@@ -502,7 +524,7 @@ Dit Protocol staat op 17 juni 1999 ter gelegenheid van de Derde Ministeriële Co
 
 5. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op de negentigste dag na de datum van nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -510,15 +532,15 @@ Dit Protocol staat op 17 juni 1999 ter gelegenheid van de Derde Ministeriële Co
 
 3. Ten aanzien van elke in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004373&artikel=21&z=2009-09-23&g=2009-09-23) bedoelde staat of organisatie die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt na de nederlegging van de zestiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt het Protocol in werking op de negentigste dag na de datum van nederlegging door die staat of organisatie van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 24. Opzegging
+##### Artikel 24. Opzegging
 
 Elke Partij kan, te allen tijde na drie jaar vanaf de datum waarop dit Protocol ten aanzien van die Partij in werking is getreden, het Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. Deze opzegging wordt van kracht op de negentigste dag na de datum van ontvangst van de kennisgeving door de Depositaris.
 
-#### Artikel 25. Depositaris
+##### Artikel 25. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties treedt op als Depositaris van dit Protocol.
 
-#### Artikel 26. Authentieke teksten
+##### Artikel 26. Authentieke teksten
 
 Het origineel van dit Protocol, waarvan de Engelse, de Franse, de Duitse en de Russische tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

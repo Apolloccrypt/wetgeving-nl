@@ -1,16 +1,41 @@
 ---
 title: "Regeling navigatie- en telecommunicatieinstallaties BES"
 identifier: "BWBR0028674"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028674"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028674"
+soort: "ministeriele-regeling-BES"
+stam_id: "10923363"
+version_id: "17907452"
+internal_id: "C24982661"
+label_id: "10897944"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028674/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14839"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14839"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14839"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028674&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028674&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling navigatie- en telecommunicatieinstallaties BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze beschikking wordt verstaan onder:
 
@@ -34,7 +59,7 @@ bron: "https://wetten.overheid.nl/BWBR0028674"
 
 2. Een wijziging van Bijlage 10 treedt in werking vanaf het moment waarop in het Tractatenblad mededeling van deze wijziging is gedaan.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het uitvoeren van een vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES. is een luchtvaartuig niet zijnde een staatsluchtvaartuig voor zover het betreft:
 
@@ -44,7 +69,7 @@ bron: "https://wetten.overheid.nl/BWBR0028674"
 
 2. Het eerste lid is voor een in dat lid bedoeld luchtvaartuig niet van toepassing indien de Minister met betrekking tot dat luchtvaartuig een daartoe strekkende verklaring heeft afgegeven. De verklaring wordt meegevoerd tijdens de vlucht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig uitgerust met:
 
@@ -62,21 +87,21 @@ bron: "https://wetten.overheid.nl/BWBR0028674"
 
 2. Het eerste lid, onderdelen a, b, c en d, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen b, c en d.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor het uitvoeren van een IFR-vlucht of een gecontroleerde VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig uitgerust met navigatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor het uitvoeren van een VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES, behalve in gebieden met de classificatie G beneden 1500 voet AMSL is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 code mogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag. Indien het eerste bewijs van luchtwaardigheid met betrekking tot het desbetreffende luchtvaartuig is afgegeven na 30 maart 2005 is het luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag.
 
 2. In uitzonderingsgebieden aangewezen als bijzondere gebieden kan de Minister ontheffing verlenen van het gestelde in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Curaçao en Sint Maarten TMA wordt een SSR-transponder als volgt gebruikt:
 
@@ -108,7 +133,7 @@ Voor het uitvoeren van een vlucht in het vluchtinformatiegebied Curaçao en Sint
 
 - k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de luchtverkeersdienst vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en St. Maarten TMA wordt, tenzij door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht, een SSR-transponder als volgt gebruikt:
 
@@ -134,7 +159,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en 
 
 - 2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor het uitvoeren van een VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES zijn de volgende voorschriften voor het gebruik van een SSR-transponder van toepassing:
 
@@ -144,7 +169,7 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en 
 
 2. De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Verkeer en Waterstaat.
 
@@ -156,10 +181,10 @@ Voor het uitvoeren van een IFR-vlucht in het vluchtinformatiegebied Curaçao en 
 
 5. De door de Minister toegekende 24-bit luchtvaartadressen, alsmede de wijzigingen daarin, worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba opgenomen. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba 6. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangeduid als: Regeling navigatie- en telecommunicatieinstallaties BES.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling berust op artikel 113 van het Besluit luchtverkeer BES.

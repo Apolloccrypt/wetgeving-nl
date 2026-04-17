@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Cyprus inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten"
 identifier: "BWBV0003090"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-07-01
-laatste_update: 2009-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003090"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-07-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003090"
+soort: "verdrag"
+stam_id: "10003330023"
+version_id: "10003359922"
+internal_id: "C10008429871"
+label_id: "10003315644"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003090/2009-07-01/0"
+intitule_bron: "Trb.2008-108"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-05-23"
+intitule_in_force: "2009-06-29"
+intitule_status: "goed"
+original_publication: "Trb.2008-108"
+original_published_date: "2008-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-108"
+entry_into_force_date: "2009-07-01"
+jci_1_3: "jci1.3:c:BWBV0003090&z=2009-07-01&g=2009-07-01"
+jci_1_0: "1.0:c:BWBV0003090&g=2009-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Cyprus inzake het wederzijds aanhouden van voorraden ruwe aardolie en/of aardolieproducten
 
 Het Koninkrijk der Nederlanden
@@ -26,7 +48,7 @@ Gelet op nationale wetgeving inzake de verplichting tot het aanhouden van voorra
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -42,11 +64,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - f. „onderneming” een onderneming, instantie of entiteit gevestigd op het grondgebied van een Verdragsluitende Partij die voorraden aanhoudt ten behoeve van het vergemakkelijken van de nakoming, door die onderneming of een derde, van de wetgeving inzake de verplichting tot het aanhouden van voorraden aardolieproducten van die of de andere Verdragsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is uitsluitend van toepassing op voorraden waarop de Richtlijn van toepassing is die door de bevoegde autoriteiten van beide Verdragsluitende Partijen zijn aanvaard.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een op Cyprus gevestigde onderneming kan in Nederland voorraden aanhouden. Dergelijke voorraden kunnen worden aangehouden:
 
@@ -64,11 +86,11 @@ Dit Verdrag is uitsluitend van toepassing op voorraden waarop de Richtlijn van t
 
 4. Indien een onderneming voorraden aanhoudt namens een andere onderneming in overeenstemming met het eerste lid, onderdeel b, of het tweede lid, onderdeel b, van dit artikel, dan mogen deze voorraden niet door de eerstgenoemde onderneming worden meegeteld bij haar eigen voorraadopgave.
 
-#### Artikel 4
+##### Artikel 4
 
 Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar grondgebied van voorraden waarop dit Verdrag van toepassing is, noch tegen de behandeling ervan in overeenstemming met instructies van de bevoegde autoriteit van de andere Verdragsluitende Partij.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voorraden mogen niet uit hoofde van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0003090&artikel=2&z=2009-07-01&g=2009-07-01) van dit Verdrag worden aanvaard als zijnde voorraden waarop dit Verdrag van toepassing is, tenzij:
 
@@ -100,7 +122,7 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar
 
 5. Aanvaarding uit hoofde van het derde en vierde lid van dit artikel kan door elk van de bevoegde autoriteiten worden ingetrokken indien er een onjuistheid wordt geconstateerd in de gegevens die met betrekking tot die aanvaarding zijn verstrekt uit hoofde van het eerste lid, onderdeel a, of het tweede lid van dit artikel, of indien er een wezenlijke verandering is opgetreden met betrekking tot de zaken waarop deze gegevens betrekking hebben. Alvorens een aanvaarding in te trekken uit hoofde van deze bepaling stelt de desbetreffende bevoegde autoriteit de bevoegde autoriteit van de andere Verdragsluitende Partij hiervan in kennis en biedt zij de onderneming die de gegevens heeft verstrekt in redelijke mate de gelegenheid bezwaar te maken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke bevoegde autoriteit verplicht een onderneming die voorraden aanhoudt op het grondgebied van de andere Verdragsluitende Partij haar ten minste maandelijks te voorzien van een statistisch overzicht van deze voorraden binnen zes weken na het verstrijken van de periode waarop het overzicht betrekking heeft.
 
@@ -116,7 +138,7 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar
 
 4. De bevoegde autoriteit van de Verdragsluitende Partij waar de voorraden worden aangehouden, controleert, door van tijd tot tijd haar inspectiebevoegdheden uit te oefenen, de gegevens in de aldus geleverde statistische overzichten en stelt de bevoegde autoriteit van de andere Verdragsluitende Partij onverwijld in kennis van enige materiële afwijking met betrekking tot deze gegevens.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In het geval van een tekort in de totale hoeveelheid voorraad die een verschaffende onderneming moet aanhouden namens begunstigde ondernemingen en als onderdeel van de voorraadverplichting van de Verdragsluitende Partij waar zij is gevestigd, stelt de bevoegde autoriteit van de laatstgenoemde Verdragsluitende Partij zodra dit tekort te harer kennis komt de bevoegde autoriteit van de andere Verdragsluitende Partij daarvan in kennis.
 
@@ -132,11 +154,11 @@ Geen van de Verdragsluitende Partijen verzet zich tegen de verwijdering van haar
 
 - ii. bepalingen van dit Verdrag te wijzigen.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat beide Verdragsluitende Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat de procedures vereist voor de inwerkingtreding van dit Verdrag zijn afgerond.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit Verdrag kan door elk van de Verdragsluitende Partijen langs diplomatieke weg worden beëindigd door schriftelijke kennisgeving aan de andere Verdragsluitende Partij ten minste zes maanden voor het einde van enig kalenderjaar, in welk geval het met ingang van de eerste dag van het volgende kalenderjaar ophoudt van kracht te zijn.
 

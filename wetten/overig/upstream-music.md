@@ -1,13 +1,38 @@
 ---
 title: "Upstream: Music"
 identifier: "BWBR0046574"
-categorie: "Overig"
-publicatiedatum: 2022-04-20
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046574"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-20"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046574"
+soort: "zbo"
+stam_id: "16331993"
+version_id: "28565842"
+internal_id: "C40309981"
+label_id: "16256934"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046574/2022-04-20/0"
+intitule_bron: "Stcrt.2022-10845"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-03-23"
+intitule_published: "2022-04-20"
+intitule_in_force: "2022-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-10845"
+original_signed_date: "2022-03-23"
+original_published_date: "2022-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-10845"
+entry_into_force_date: "2022-04-20"
+jci_1_3: "jci1.3:c:BWBR0046574&z=2022-04-20&g=2022-04-20"
+jci_1_0: "1.0:c:BWBR0046574&g=2022-04-20"
+citeertitel_status: "officieel"
+signed_date: "2022-03-23"
+entry_into_force: "2022-04-20"
 ---
-
 # Upstream: Music
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
@@ -16,7 +41,7 @@ Besluit:
 
 #### Paragraaf 1. algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -26,13 +51,13 @@ In dit reglement wordt verstaan onder:
 
 - **Nederland/NL:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten.
 
-#### Artikel 1.2. Doel
+##### Artikel 1.2. Doel
 
 Om bij te dragen aan de carrièreontwikkeling van artiesten in Nederland kent het bestuur in het kader van Upstream: Music financiële bijdrages toe ten behoeve van creatieve en zakelijke trajecten waarmee een duurzame verbetering van het verdienmodel van een artiest zal worden gerealiseerd.
 
 #### Paragraaf 2. de aanvraag
 
-#### Artikel 2.1. De aanvraag
+##### Artikel 2.1. De aanvraag
 
 1. De aanvraag heeft betrekking op een creatief en zakelijk traject met een looptijd van maximaal twee jaar waarin het distribueren en exploiteren van nieuwe of reeds bestaande muziekwerken van een specifieke artiest centraal staat.
 
@@ -40,7 +65,7 @@ Om bij te dragen aan de carrièreontwikkeling van artiesten in Nederland kent he
 
 3. Als het aangevraagde bedrag 25.000 euro of meer bedraagt dient de aanvrager rechtspersoonlijkheid te bezitten. In alle andere gevallen is alleen een inschrijving bij de Kamer van Koophandel vereist.
 
-#### Artikel 2.2. Inhoud aanvraag
+##### Artikel 2.2. Inhoud aanvraag
 
 1. In het plan wordt in ieder geval beschreven hoe de aanvrager te werk wil gaan, met welke partijen er wordt samengewerkt en wat de realistische ambities zijn op het gebied van de carrièreontwikkeling van de artiest.
 
@@ -50,7 +75,7 @@ Om bij te dragen aan de carrièreontwikkeling van artiesten in Nederland kent he
 
 4. Het bestuur kan de aanvrager verzoeken specifieke afspraken nader toe te lichten en te documenteren.
 
-#### Artikel 2.3. Voorwaarden met betrekking tot de betrokken artiest
+##### Artikel 2.3. Voorwaarden met betrekking tot de betrokken artiest
 
 Om in aanmerking te komen voor een bijdrage in de zin van dit reglement dient de artiest waarop de aanvraag betrekking heeft naar het oordeel van het bestuur aan de hierna volgende kenmerken te voldoen:
 
@@ -64,7 +89,7 @@ Om in aanmerking te komen voor een bijdrage in de zin van dit reglement dient de
 
 - e). de artiest kan worden aangemerkt als zijnde (pre) mid career.
 
-#### Artikel 2.4. Subsidiabele kosten
+##### Artikel 2.4. Subsidiabele kosten
 
 1. Alleen kosten die onlosmakelijk verbonden zijn met het traject kunnen onderdeel zijn van de begroting en daarmee de grondslag zijn voor het berekenen van de hoogte van de bijdrage.
 
@@ -72,7 +97,7 @@ Om in aanmerking te komen voor een bijdrage in de zin van dit reglement dient de
 
 3. Het bestuur kan kosten als niet-subsidiabel aanmerken als de noodzaak en het realiteitsgehalte niet voldoende zijn onderbouwd in het licht van het beoogde doel van het traject.
 
-#### Artikel 2.5. Vereisten algemeen
+##### Artikel 2.5. Vereisten algemeen
 
 Een bijdrage op grond van deze regeling kan slechts worden verstrekt, indien naar het oordeel van het bestuur:
 
@@ -84,7 +109,7 @@ Een bijdrage op grond van deze regeling kan slechts worden verstrekt, indien naa
 
 - d). de aanvraag voldoet aan de vereisten, criteria en bepalingen genoemd in deze regeling.
 
-#### Artikel 2.6. Vereisten met betrekking tot fair policy
+##### Artikel 2.6. Vereisten met betrekking tot fair policy
 
 Uit de aanvraag blijkt:
 
@@ -94,7 +119,7 @@ Uit de aanvraag blijkt:
 
 - c). dat er sprake is van een redelijke verdeling van risico's en revenuen over de betrokken partijen.
 
-#### Artikel 2.7. Afwijzingsgronden
+##### Artikel 2.7. Afwijzingsgronden
 
 Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur:
 
@@ -112,7 +137,7 @@ Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 #### Paragraaf 3. beoordeling en besluit
 
-#### Artikel 3.1. Beoordeling
+##### Artikel 3.1. Beoordeling
 
 Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voor een bijdrage als:
 
@@ -130,7 +155,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 - g). aannemelijk is dat het traject kan leiden tot een structurele stijging van de inkomsten voor de betrokken artiest.
 
-#### Artikel 3.2. Hoogte en aard bijdrage
+##### Artikel 3.2. Hoogte en aard bijdrage
 
 1. De bijdrage die kan worden verstrekt bedraagt minimaal 15.000 euro en maximaal 50.000 euro. Hiervan wordt 30% als lening verstrekt.
 
@@ -138,7 +163,7 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 3. Een bijdrage kan alleen definitief worden toegezegd als de aanvrager naar genoegen van het bestuur aantoont dat de overige financiering onvoorwaardelijk beschikbaar is.
 
-#### Artikel 3.3. Uitvoeringsovereenkomst
+##### Artikel 3.3. Uitvoeringsovereenkomst
 
 1. Het bestuur verbindt, in het geval een bijdrage wordt verstrekt, aan het besluit de opschortende voorwaarde dat een uitvoeringsovereenkomst tot stand komt.
 
@@ -154,29 +179,29 @@ Aanvragen die aan de vereisten in deze regeling voldoen, komen in aanmerking voo
 
 #### Paragraaf 4. Procedure
 
-#### Artikel 4.1. De aanvraag
+##### Artikel 4.1. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
 2. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds Podiumkunsten en vergezeld gaat van de op het formulier vermelde bijlagen.
 
-#### Artikel 4.2. Beoordeling
+##### Artikel 4.2. Beoordeling
 
 1. Het bestuur kan advies vragen over ingediende aanvragen. Adviseurs beoordelen de aan hen voorgelegde aanvragen met inachtneming van het bepaalde in deze regeling.
 
 2. Het bestuur informeert de aanvrager zo spoedig mogelijk, maar uiterlijk binnen 13 weken na de uiterlijke indiendatum schriftelijk over zijn besluit.
 
-#### Artikel 4.3. Beschikbaar budget
+##### Artikel 4.3. Beschikbaar budget
 
 Het beschikbare budget wordt jaarlijks vastgesteld door het bestuur en bekendgemaakt via de website van het Fonds Podiumkunsten. Het bestuur kan het budget verdelen in kwartaaltranches.
 
-#### Artikel 4.4. Moment van indiening
+##### Artikel 4.4. Moment van indiening
 
 1. Aanvragen op grond van dit reglement kunnen gedurende het gehele jaar worden ingediend. Een aanvraag dient uiterlijk 13 weken voor de start van het traject waarvoor een bijdrage wordt gevraagd te zijn ingediend.
 
 2. In afwijking op het voorgaande lid kan het bestuur besluiten tijdelijke indienstops dan wel vaste indienmomenten in te lassen. Deze worden bekendgemaakt op de website van het Fonds Podiumkunsten.
 
-#### Artikel 4.5. Aan de bijdrage verbonden verplichtingen
+##### Artikel 4.5. Aan de bijdrage verbonden verplichtingen
 
 De ontvanger van een bijdrage meldt onverwijld aan het bestuur als:
 
@@ -186,7 +211,7 @@ De ontvanger van een bijdrage meldt onverwijld aan het bestuur als:
 
 - c). er aanzienlijke wijzigingen zijn ten opzichte van het plan op basis waarvan de bijdrage is verstrekt.
 
-#### Artikel 4.6. Verantwoording
+##### Artikel 4.6. Verantwoording
 
 1. Na het verstrijken van de in de beschikking opgenomen einddatum stuurt de ontvanger van de bijdrage bewijsstukken waarmee kan worden aangetoond dat de activiteiten volgens plan hebben plaatsgevonden en dat is voldaan aan de in de beschikking en de uitvoeringsovereenkomst aan de bijdrage verbonden verplichtingen.
 
@@ -196,11 +221,11 @@ De ontvanger van een bijdrage meldt onverwijld aan het bestuur als:
 
 #### Paragraaf 5. slotbepalingen
 
-#### Artikel 5.1. Inwerkingtreding
+##### Artikel 5.1. Inwerkingtreding
 
 Deze regeling treedt met terugwerkende kracht in werking met ingang van 1 januari 2022.
 
-#### Artikel 5.2. Citeertitel
+##### Artikel 5.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Upstream: Music.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit winstallocatie vaste inrichtingen 2022"
 identifier: "BWBR0046838"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-07-02
-laatste_update: 2022-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046838"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-07-02"
+last_updated: "2022-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046838"
+soort: "beleidsregel"
+stam_id: "16402003"
+version_id: "28729012"
+internal_id: "C40616321"
+label_id: "16326534"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046838/2022-07-02/0"
+intitule_bron: "Stcrt.2022-16683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-14"
+intitule_published: "2022-07-01"
+intitule_in_force: "2022-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16683"
+original_signed_date: "2022-06-14"
+original_published_date: "2022-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16683"
+entry_into_force_date: "2022-07-02"
+jci_1_3: "jci1.3:c:BWBR0046838&z=2022-07-02&g=2022-07-02"
+jci_1_0: "1.0:c:BWBR0046838&g=2022-07-02"
+citeertitel_status: "officieel"
+signed_date: "2022-06-14"
+entry_into_force: "2022-07-02"
 ---
-
 # Besluit winstallocatie vaste inrichtingen 2022
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**
@@ -38,7 +63,7 @@ Met ingang van 1 januari 2012 is voor (buitenlandse) vaste inrichtingen in de [W
 
 Voor de winsttoerekening aan vaste inrichtingen in verdragssituaties is het van toepassing zijnde artikel in het verdrag relevant. Voor de winsttoerekening aan vaste inrichtingen in niet-verdragssituaties moet worden aangesloten bij de meest recente tekst van [artikel 7](onbekend) OESO-modelverdrag,5In dit besluit zal het nieuwe artikel 7 OESO-modelverdrag zoals door de OESO vastgesteld in juli 2010 als artikel 7 Nieuw worden aangeduid. Het artikel 7 dat tot juli 2010 geldig was zal in dit besluit als artikel 7 Oud worden aangeduid. waardoor het OESO-commentaar op dit artikel en het PE-Report relevant zijn.
 
-#### Artikel 7. Oeso-modelverdrag
+##### Artikel 7. Oeso-modelverdrag
 
 In Nederland wordt bij de uitleg van verdragen die zijn afgesloten vóór wijziging van het OESO-commentaar op het betreffende artikel gestreefd naar een uitkomst die zoveel mogelijk aansluit bij de meest recente inzichten in relatie tot het arm’s-lengthbeginsel. Dit leidt ertoe dat wijzigingen die bedoeld zijn als verduidelijking ook van toepassing zijn op verdragen die zijn afgesloten vóór wijziging van het commentaar. De wijzigingen in het commentaar op artikel 7 zoals vastgesteld in juli 2008 zijn dergelijke verduidelijkingen. Deze zijn dan ook van toepassing op bestaande verdragen. Het is echter niet zo dat de wijzigingen in artikel 7 Nieuw en het daarbij horende commentaar automatisch doorwerken naar bestaande verdragen die met een ander artikel 7 tot stand zijn gekomen.
 

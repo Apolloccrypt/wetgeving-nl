@@ -1,13 +1,35 @@
 ---
 title: "Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije"
 identifier: "BWBV0003971"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-11-19
-laatste_update: 1972-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003971"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-11-19"
+last_updated: "1972-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003971"
+soort: "verdrag"
+stam_id: "10003791033"
+version_id: "10003856722"
+internal_id: "C10006983951"
+label_id: "10003776194"
+dtd_version: "2.0"
+original_entry_into_force: "1972-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003971/1972-11-19/0"
+intitule_bron: "Trb.1972-13"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-02-04"
+intitule_in_force: "1972-11-15"
+intitule_status: "goed"
+original_publication: "Trb.1972-13"
+original_published_date: "1972-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-13"
+entry_into_force_date: "1972-11-19"
+jci_1_3: "jci1.3:c:BWBV0003971&z=1972-11-19&g=1972-11-19"
+jci_1_0: "1.0:c:BWBV0003971&g=1972-11-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1972-11-19"
 ---
-
 # Veterinaire Overeenkomst tussen het Koninkrijk der Nederlanden en de Volksrepubliek Bulgarije
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -20,19 +42,19 @@ Verlangende de onderlinge handel in dieren en dierlijke produkten te ontwikkelen
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De invoer, uitvoer of doorvoer van in deze Overeenkomst genoemde levende dieren en produkten van dierlijke oorsprong kan aan de grens aan een veterinaire of sanitaire controle worden onderworpen door de bevoegde dienst van elk der Overeenkomstsluitende Partijen.
 
 2. De grensposten, havens en luchthavens waar de veterinaire controle plaatsvindt, alsmede de dagen en uren van openstelling daarvan, worden door de bevoegde autoriteiten van ieder der Partijen vastgesteld en ter kennis gebracht van de bevoegde autoriteiten van de andere Overeenkomstsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in deze Overeenkomst met betrekking tot dieren voorgeschreven certificaten van oorsprong en gezondheidscertificaten moeten de verklaring inhouden dat de dieren van het grondgebied van een der Overeenkomstsluitende Partijen afkomstig zijn. Genoemde certificaten en de veterinaire gezondheidscertificaten voor vlees en andere produkten van dierlijke oorsprong moeten door de bevoegde dienst van het uitvoerende land worden afgegeven.
 
 2. Genoemde certificaten worden in de Franse taal gesteld overeenkomstig door de centrale veeartsenijkundige diensten van beide Partijen in onderling overleg vast te stellen modellen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Eenhoevige dieren, herkauwers, varkens en pluimvee moeten, om voor invoer te worden toegelaten, vergezeld zijn van een certificaat van oorsprong en van gezondheid, inhoudende de verklaring:
 
@@ -48,7 +70,7 @@ Zijn het volgende overeengekomen:
 
 5. De dieren, pluimvee en wilde dieren uitgezonderd, worden gemerkt door tatoeëring van het oor, door het aanbrengen van een metalen beugel of knoop voorzien van een nummer, of door enig ander onuitwisbaar merkteken waardoor identificatie mogelijk is.
 
-#### Artikel 4
+##### Artikel 4
 
 Uitvoercertificaten voor dieren die vatbaar zijn voor een der in dit artikel genoemde ziekten worden, wat de vatbare soorten betreft, slechts afgegeven indien de genoemde ziekten tijdens de hieronder genoemde tijdvakken niet zijn waargenomen:
 
@@ -60,7 +82,7 @@ Uitvoercertificaten voor dieren die vatbaar zijn voor een der in dit artikel gen
 
 - d. ten aanzien van mond- en klauwzeer, varkenspest en alle vormen van vogelpest de voor elk geval door de centrale veeartsenijkundige diensten vastgestelde tijdvakken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De certificaten moeten bovendien de verklaring inhouden:
 
@@ -94,7 +116,7 @@ Voor zover niet in deze Overeenkomst is voorzien, stellen de centrale veeartseni
 
 - c. runderen en varkens niet in aanraking worden gebracht met andere tweehoevige dieren dan runderen of varkens die voldoen aan de eisen gesteld voor het handelsverkeer tussen de Overeenkomstsluitende Partijen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Paarden die bestemd zijn voor rennen, concours hippiques of andere sportieve manifestaties, kunnen tijdelijk voor invoer worden toegelaten, indien zij vergezeld zijn van een door een officiële dierenarts afgegeven bewijs, waarin de naam en het domicilie van de eigenaar, het nauwkeurig signalement der dieren, hun herkomst en plaats van bestemming is aangegeven, en dat de verklaring inhoudt dat de dieren goed gezond zijn en dat het bedrijf van herkomst vrij is van voor eenhoevige dieren besmettelijke ziekten.
 
@@ -104,11 +126,11 @@ De officiële veterinaire autoriteit van het land van invoer kan een voorafgaand
 
 De Overeenkomstsluitende Partijen eisen dat de dieren tegen hondsdolheid zijn ingeënt.
 
-#### Artikel 7
+##### Artikel 7
 
 Produkten van dierlijke oorsprong, zoals sperma, huiden, paardehaar, wol, hoorns, hoeven, beenderen, daaronder begrepen gebroken of gemalen beenderen, stalmest, kunstmest en veevoeder dat geheel of gedeeltelijk uit diermeel, beendermeel of bloedmeel bestaat, moeten vergezeld zijn van een gezondheidscertificaat, dat vaststelling van de identiteit der produkten mogelijk maakt en dat de verklaring inhoudt dat ze niet verdacht worden dragers te zijn van een smetstof die een in artikel 4 genoemde ziekte kan verwekken, waaronder begrepen salmonellosen voor zover het vlees-, beender- en bloedmeel betreft, en dat zij zijn gesteriliseerd of gedesinfecteerd. De centrale veeartsenijkundige dienst van ieder der Overeenkomstsluitende Partijen stelt de centrale veeartsenijkundige dienst van de andere Partij in kennis van de bij het steriliseren of desinfecteren van de produkten van dierlijke oorsprong vóór uitvoer toegepaste technische methoden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Om voor invoer in aanmerking te komen, moeten vlees van runderen, paarden, schapen, geiten en varkens in verse, bevroren of gekoelde toestand of op andere wijze verduurzaamd, vetten, reuzel en alle vleesprodukten die voor voeding bestemd zijn, vergezeld zijn van een certificaat, inhoudende de verklaring, dat de dieren waarvan deze produkten afkomstig zijn, voor en na het slachten, in een onder voortdurend officieel veterinair toezicht staand slachthuis, aan een veterinair onderzoek onderworpen zijn geweest. Voor uitvoer bestemd vlees moet gezond en onvoorwaardelijk geschikt voor consumptie zijn bevonden.
 
@@ -142,7 +164,7 @@ Eveneens teruggewezen wordt:
 
 10. De centrale veeartsenijkundige dienst van elk der Overeenkomstsluitende Partijen doet de veeartsenijkundige dienst van de andere Partij een lijst toekomen van stoffen, waarvan de toevoeging aan vleeswaren en vetten is toegestaan krachtens de wetgeving van zijn eigen land.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Geslacht pluimvee in verse, gekoelde of bevroren toestand moet zijn vergezeld van een veterinair gezondheidscertificaat dat de verklaring inhoudt dat het betreffende pluimvee is geslacht in gespecialiseerde, voor uitvoerdoeleinden goedgekeurde, onder toezicht van de veeartsenijkundige dienst staande inrichtingen en moet geplukt, schoongemaakt of ontdaan van de ingewanden ten invoer worden aangeboden. Het is echter toegestaan enkele veren aan de vleugels van ganzen en eenden te laten.
 
@@ -150,7 +172,7 @@ Eveneens teruggewezen wordt:
 
 3. De invoer van eieren zonder schaal, van hun samenstellende delen of van eipoeder is toegestaan mits deze produkten vergezeld zijn van een door een officiële of door de Staat daartoe gemachtigde dierenarts afgegeven certificaat inhoudende, dat zij vrij zijn van salmonellal of andere ziekteverwekkende kiemen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De invoer van melk, zuivelprodukten, eieren en vis is toegestaan, indien zij vergezeld gaan van een veterinair gezondheidscertificaat.
 
@@ -160,7 +182,7 @@ Eveneens teruggewezen wordt:
 
 De verpakking moet bovendien in overeenstemming zijn met de wetgeving van het land van invoer.
 
-#### Artikel 11
+##### Artikel 11
 
 Om van het grondgebied van een der Overeenkomstsluitende Partijen naar dat van de andere te kunnen worden overgebracht, moeten de hierna te noemen dieren vergezeld zijn van een door een officiële dierenarts afgegeven gezondheidscertificaat, inhoudende dat:
 
@@ -174,7 +196,7 @@ Om van het grondgebied van een der Overeenkomstsluitende Partijen naar dat van d
 
 - e. wat wilde zwijnen betreft, de uitslag van het onderzoek op trichine negatief is geweest.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Zendingen die niet aan de bovengenoemde bepalingen voldoen, zomede dieren ten aanzien waarvan de officiële dierenarts bij het overschrijden van de grens constateert dat zij zijn aangetast door, of die hij ervan verdenkt, te zijn aangetast door besmettelijke ziekten, worden niet toegelaten. Teruggewezen dieren kunnen echter op verzoek van de belanghebbende importeur of exporteur en overeenkomstig de wettelijke voorschriften van het invoerende land worden toegelaten, op voorwaarde dat zij onmiddellijk in een door de centrale veterinaire autoriteit aan te wijzen slachthuis zullen worden geslacht. Op het vlees en de produkten van aldus geslachte dieren wordt dezelfde behandeling toegepast als van kracht is voor inheemse dieren die zijn aangetast door, of verdacht worden te zijn aangetast door een besmettelijke ziekte.
 
@@ -186,25 +208,25 @@ Om van het grondgebied van een der Overeenkomstsluitende Partijen naar dat van d
 
 5. De onder 4 genoemde handelwijze is eveneens van toepassing op de invoer van vlees, vetten en vleeswaren.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien de centrale veeartsenijkundige dienst van een der Overeenkomstsluitende Partijen dit nodig acht, kunnen de centrale veeartsenijkundige diensten van beide Partijen in onderling overleg de bepalingen van artikel 4 ook van toepassing verklaren op produkten van dierlijke oorsprong, alsmede op alle andere produkten en voorwerpen die drager van smetstof kunnen zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien is vastgesteld dat een veeziekte op het grondgebied van een der Overeenkomstsluitende Partijen de neiging heeft zich uit te breiden, heeft de andere Partij, na voorafgaand overleg met de Overeenkomstsluitende Partij op wier grondgebied de veeziekte is uitgebroken, het recht, zolang er besmettingsgevaar bestaat, de invoer en de doorvoer van dieren en dierlijke produkten, alsmede van alle produkten die de besmetting kunnen overbrengen, te verbieden of te beperken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De bij deze Overeenkomst vastgestelde bepalingen zullen van toepassing zijn op dieren en dierlijke produkten die uit het grondgebied van een der Overeenkomstsluitende Partijen afkomstig zijn en die zijn bestemd voor rechtstreekse doorvoer over het grondgebied van de andere Partij, op voorwaarde dat het land van bestemming zich verbindt in geen geval de in transito vervoerde dieren of dierlijke produkten terug te wijzen. Indien bij doorvoer de doortocht door andere landen noodzakelijk is, moet van tevoren toestemming voor doorvoer van de landen waardoor wordt gereisd zijn verkregen.
 
 2. De doorvoer van vers, gekoeld, bevroren, verduurzaamd of toebereid vlees, en van ruwe produkten van dierlijke oorsprong, die per spoor, in gesloten en verzegelde wagons, in gesloten en verzegelde vrachtwagens of per vliegtuig worden vervoerd, kan geschieden zonder voorafgaande goedkeuring van de landen waarover doorvoer eventueel zal plaatshebben, en van het land van bestemming.
 
-#### Artikel 16
+##### Artikel 16
 
 Levende dieren, dierlijke produkten of andere produkten en voorwerpen die drager van smetstof kunnen zijn en die niet in deze Overeenkomst worden genoemd, vallen onder de corresponderende veterinaire bepalingen van de betreffende Overeenkomstsluitende Partij.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De veeartsenijkundige diensten van de Overeenkomstsluitende Partijen geven met betrekking tot de veterinaire gezondheidstoestand een veertiendaags bulletin uit, dat rechtstreeks aan de veeartsenijkundige dienst van de andere Overeenkomstsluitende Partij wordt toegezonden. Bovendien kan de centrale veeartsenijkundige dienst van elk der Overeenkomstsluitende Partijen van de centrale veeartsenijkundige dienst van de andere Partij alle inlichtingen op veterinair gebied krijgen die voor die Partij van belang kunnen zijn.
 
@@ -212,7 +234,7 @@ Levende dieren, dierlijke produkten of andere produkten en voorwerpen die drager
 
 3. Alle andere dringende mededelingen de toepassing van deze Overeenkomst betreffende kunnen eveneens rechtstreeks tussen de centrale veterinaire autoriteiten van elk der Overeenkomstsluitende Partijen worden uitgewisseld.
 
-#### Artikel 18
+##### Artikel 18
 
 De Overeenkomstsluitende Partijen nemen de verplichting op zich:
 
@@ -222,21 +244,21 @@ De Overeenkomstsluitende Partijen nemen de verplichting op zich:
 
 - 3. de teksten betreffende de veterinaire wetgeving (in één exemplaar) uit te wisselen.
 
-#### Artikel 19
+##### Artikel 19
 
 De door de toepassing van artikel 18, onder 2, gemaakte kosten worden gedragen door de Overeenkomstsluitende Partij die haar deskundigen uitstuurt.
 
-#### Artikel 20
+##### Artikel 20
 
 De ontsmetting van vervoermiddelen voor dieren of ruwe produkten van dierlijke oorsprong, die volgens de van kracht zijnde voorschriften op het gebied van een der Overeenkomstsluitende Partijen is uitgevoerd, wordt door de andere Partij als geldig erkend.
 
-#### Artikel 21
+##### Artikel 21
 
 De wijze waarop deze Overeenkomst moet worden toegepast wordt door briefwisselingen tusen de centrale veeartsenijkundige diensten van de Overeenkomstsluitende Partijen geregeld.
 
 De regels die bij deze briefwisselingen zijn vastgesteld, kunnen later door eenzelfde procedure worden gewijzigd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De beide Overeenkomstsluitende Partijen stellen een gemengde commissie in, die zal zijn samengesteld uit drie vertegenwoordigers van elk der beide Partijen, te weten twee dierenartsen en een juridisch adviseur. Als voorzitter van de vergaderingen treden beurtelings de voorzitters van de delegaties op. De vertegenwoordigers van iedere Partij kunnen zich op de vergaderingen door specialisten laten voorlichten.
 
@@ -250,19 +272,19 @@ De regels die bij deze briefwisselingen zijn vastgesteld, kunnen later door eenz
 
 4. De bepalingen van dit artikel en van artikel 21 sluiten de mogelijkheid tot rechtstreekse beraadslagingen tussen de bevoegde autoriteiten der Overeenkomstsluitende Partijen omtrent de uitlegging, de uitvoering en de wijziging van de Overeenkomst niet uit.
 
-#### Artikel 23
+##### Artikel 23
 
 De bepalingen van deze Overeenkomst kunnen, zo nodig, door briefwisseling tussen de bevoegde instanties der Overeenkomstsluitende Partijen worden uitgebreid tot andere heden ten dage bekende of onbekende ziekten waarvan overbrenging met recht zou kunnen worden gevreesd.
 
-#### Artikel 24
+##### Artikel 24
 
 De beide Overeenkomstsluitende Partijen nemen in onderlinge overeenstemming maatregelen die ertoe strekken de bepalingen van deze Overeenkomst in overeenstemming te brengen met de verplichtingen die elk der Partijen aangaat uit hoofde van internationale overeenkomsten waarbij de andere geen partij is.
 
-#### Artikel 25
+##### Artikel 25
 
 Wat het Koninkrijk der Nederlanden betreft, is de onderhavige Overeenkomst alleen van toepassing op het Rijk in Europa.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Deze Overeenkomst wordt goedgekeurd overeenkomstig de grondwettelijke bepalingen van ieder der Overeenkomstsluitende Partijen en treedt een maand na de datum van de uitwisseling der diplomatieke nota's, waarin de goedkeuring wordt medegedeeld, in werking.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels uitvoering artikel 6, derde lid, Tijdelijke wet ambulancezorg"
+title: "Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 20 september 2011, nr. CZ-3082275, ter uitvoering van artikel 6, derde lid, van de Tijdelijke wet ambulancevoorziening"
 identifier: "BWBR0030478"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-01-01
-laatste_update: 2011-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030478"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-01-01"
+last_updated: "2011-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030478"
+soort: "beleidsregel"
+stam_id: "11454153"
+version_id: "18819862"
+internal_id: "C27774331"
+label_id: "11427794"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030478/2013-01-01/0"
+intitule_bron: "Stcrt.2011-17233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-09-20"
+intitule_published: "2011-09-28"
+intitule_in_force: "2012-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-17233"
+original_signed_date: "2011-09-20"
+original_published_date: "2011-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-17233"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0030478&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0030478&g=2013-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregels uitvoering artikel 6, derde lid, Tijdelijke wet ambulancezorg"
+signed_date: "2011-09-20"
+entry_into_force: "2013-01-01"
 ---
-
 # Beleidsregels van de Minister van Volksgezondheid, Welzijn en Sport van 20 september 2011, nr. CZ-3082275, ter uitvoering van artikel 6, derde lid, van de Tijdelijke wet ambulancevoorziening
 
 Gelet op [artikel 6, derde lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=6);
@@ -18,11 +44,11 @@ Treedt in werking op het tijdstip waarop de Tijdelijke wet ambulancezorg in werk
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de aanwijzing als Regionale Ambulancevoorziening, bedoeld in [artikel 6, eerste en tweede lid, van de Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557&artikel=6) worden naast de eisen in artikel 6, eerste en tweede lid, van de Tijdelijke wet ambulancezorg, de eisen gehanteerd, zoals voor een Regionale Ambulancevoorziening opgenomen in de hierna volgende artikelen.
 
-#### Artikel 2
+##### Artikel 2
 
 In de hierna volgende artikelen wordt verstaan onder:
 
@@ -46,25 +72,25 @@ In de hierna volgende artikelen wordt verstaan onder:
 
 #### § 1. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 De Regionale Ambulancevoorziening is in Nederland gevestigd.
 
-#### Artikel 4
+##### Artikel 4
 
 De Regionale Ambulancevoorziening verkeert in een dusdanig financiële staat dat deze de continuïteit van de ambulancezorg niet in gevaar brengt.
 
-#### Artikel 5
+##### Artikel 5
 
 De Regionale Ambulancevoorziening voldoet aan de geldende wet- en regelgeving en aan de door de beroepsgroep ontwikkelde richtlijnen en professionele standaarden, zoals vastgelegd in de landelijke richtlijnen voor de meldkamer en de ambulancezorg.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel ervan, laat uitvoeren door een derde, zorgt de Regionale Ambulancevoorziening ervoor dat deze derde handelt volgens de eisen die voor de Regionale Ambulancevoorziening zijn gesteld.
 
 #### § 2. De cliënt
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Regionale Ambulancevoorziening geeft in overleg met de zorgverzekeraars in de regio uitvoering aan het referentiekader spreiding en beschikbaarheid voor wat betreft de spreiding van standplaatsen en de beschikbaarheid van ambulances.
 
@@ -78,7 +104,7 @@ Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel 
 
 6. De Regionale Ambulancevoorziening analyseert de oorzaken van overschrijding van de 15 minuten responstijd en neemt maatregelen om deze zoveel mogelijk te voorkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Regionale Ambulancevoorziening past zorgdifferentiatie toe onder de volgende voorwaarden:
 
@@ -90,7 +116,7 @@ Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel 
 
 #### § 3. Prijs en doelmatigheid
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Regionale Ambulancevoorziening heeft een meerjarenbegroting, gekoppeld aan een meerjarenbeleidsplan, het zogenaamde Regionaal Ambulanceplan (RAP), waarmee de financiën en het beleid voor de langere termijn kan worden overzien en tijdig worden bijgestuurd.
 
@@ -102,11 +128,11 @@ Voor zover de Regionale Ambulancevoorziening de ambulancezorg, dan wel een deel 
 
 #### § 4. Samenwerking in de zorgketen en met buur- en grensregio’s
 
-#### Artikel 10
+##### Artikel 10
 
 De Regionale Ambulancevoorziening neemt deel aan het ROAZ en voert de adviezen van het ROAZ inzake het oplossen van knelpunten in de acute zorg uit, voor zover dit past binnen de (financiële) mogelijkheden en verantwoordelijkheden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ten behoeve van het leveren van verantwoorde zorg heeft de Regionale Ambulancevoorziening schriftelijke afspraken met:
 
@@ -122,7 +148,7 @@ De Regionale Ambulancevoorziening neemt deel aan het ROAZ en voert de adviezen v
 
 #### § 5. Het personeel
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Regionale Ambulancevoorziening beschikt over kwalitatief en kwantitatief voldoende deskundig personeel om verantwoorde ambulancezorg te kunnen leveren.
 
@@ -136,29 +162,29 @@ De Regionale Ambulancevoorziening neemt deel aan het ROAZ en voert de adviezen v
 
 #### § 6. De organisatie
 
-#### Artikel 13
+##### Artikel 13
 
 De Regionale Ambulancevoorziening is ingericht voor het leveren van doelmatige en doeltreffende ambulancezorg, waarbij de verantwoordelijkheidsverdeling bij alle processen is beschreven, inclusief de overleg- en besluitvormingsstructuur. In ieder geval is de Regionale Ambulancevoorziening bestuurlijk zodanig georganiseerd dat slagvaardige besluitvorming over de (daadwerkelijke) uitvoering van de ambulancezorg onder alle omstandigheden is gegarandeerd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Regionale Ambulancevoorziening heeft een gecertificeerd kwaliteitszorgsysteem voor ambulancezorg.
 
-#### Artikel 15
+##### Artikel 15
 
 De Regionale Ambulancevoorziening is verzekerd tegen risico’s verbonden aan ambulancezorg.
 
-#### Artikel 16
+##### Artikel 16
 
 De Regionale Ambulancevoorziening beschikt over de benodigde informatievoorzieningen om te kunnen communiceren met andere Regionale Ambulancevoorzieningen en partners in de keten van zorg.
 
 #### § 7. De meldkamer ambulancezorg
 
-#### Artikel 17
+##### Artikel 17
 
 Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken gemaakt over het centrale aanspreekpunt voor de directeur publieke gezondheid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Regionale Ambulancevoorziening heeft schriftelijke afspraken met het bestuur van de veiligheidsregio, bedoeld in [artikel 9 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=9), en het regionale college, bedoeld in [artikel 22 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=22), over de bestuurlijke en operationele samenwerking in de meldkamer.
 
@@ -176,7 +202,7 @@ Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken
 
 - f. het continuïteitsplan voor de meldkamer.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Regionale Ambulancevoorziening controleert en verbetert continu de selectie en triage bij de ambulancezorg.
 
@@ -184,7 +210,7 @@ Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken
 
 #### § 8. Opschaling
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Regionale Ambulancevoorziening heeft schriftelijk afspraken met de directeur publieke gezondheid over het multidisciplinaire oefenen, de inzet bij evenementen en de voorbereiding op de inzet bij een ramp of crisis.
 
@@ -202,13 +228,13 @@ Indien sprake is van een bovenregionale meldkamer ambulancezorg worden afspraken
 
 - f. het onderhoud en beheer van materiaal voor de geneeskundige hulpverlening bij ongevallen en rampen.
 
-#### Artikel 21
+##### Artikel 21
 
 De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, actueel regionaal gewondenspreidingsplan en slachtoffervolgsysteem.
 
 ### Hoofdstuk III. Regionale eisen ambulancezorg
 
-#### Artikel 22
+##### Artikel 22
 
 1. Voor de Veiligheidsregio Limburg Noord geldt de eis dat de betreffende Regionale Ambulancevoorziening meewerkt aan een geïntegreerde meldkamer, voor zover dit niet strijdig is met geldende wet- en regelgeving en past binnen de budgettaire kaders van de betreffende rechtspersoon.
 
@@ -216,7 +242,7 @@ De Regionale Ambulancevoorziening heeft een ambulancebijstandsplan, actueel regi
 
 3. Voor de Veiligheidsregio Haaglanden en de Veiligheidsregio Amsterdam-Amstelland geldt dat op de meldkamer 7 x 24 uur minimaal twee op grond van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) geregistreerde verpleegkundigen aanwezig zijn die verantwoordelijk zijn voor de zorgintake en de zorgindicatie.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien het bij koninklijke boodschap van 8 augustus 2011 ingediende voorstel van wet houdende tijdelijke bepalingen over de ambulancezorg ([Tijdelijke wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0031557)), (Kamerstukken II 2010/11, 32 854) tot wet is of wordt verheven en die wet in werking treedt, treden deze beleidsregels op hetzelfde tijdstip in werking en werken zij terug tot en met 1 december 2011.
 

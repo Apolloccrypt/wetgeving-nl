@@ -1,13 +1,38 @@
 ---
-title: "Aanwijzing inzake prijsbijstelling materiële kosten van organen voor de gezondheidszorg"
+title: "Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake prijsbijstelling materiële kosten van organen voor de gezondheidszorg"
 identifier: "BWBR0009061"
-categorie: "Sociaal recht"
-publicatiedatum: 1997-12-05
-laatste_update: 1997-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009061"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-12-05"
+last_updated: "1997-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009061"
+soort: "ministeriele-regeling"
+stam_id: "4769763"
+version_id: "6576022"
+internal_id: "C7033261"
+label_id: "4747834"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009061/1997-12-05/0"
+intitule_bron: "Stcrt.1997-233"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-28"
+intitule_published: "1997-12-03"
+intitule_in_force: "1997-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-233"
+original_signed_date: "1997-11-28"
+original_published_date: "1997-12-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-12-05"
+jci_1_3: "jci1.3:c:BWBR0009061&z=1997-12-05&g=1997-12-05"
+jci_1_0: "1.0:c:BWBR0009061&g=1997-12-05"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing inzake prijsbijstelling materiële kosten van organen voor de gezondheidszorg"
+signed_date: "1997-11-28"
+entry_into_force: "1997-12-05"
 ---
-
 # Aanwijzing ex artikel 14 Wet tarieven gezondheidszorg inzake prijsbijstelling materiële kosten van organen voor de gezondheidszorg
 
 Gelet op [artikel 14 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=14);
@@ -18,7 +43,7 @@ Na schriftelijk mededeling te hebben gedaan aan de Eerste en Tweede Kamer der St
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt met het oog op de jaarlijkse aanpassing van de materiële component in de budgetten en de kostenbestanddelen in de tarieven (exclusief de loonkosten) in verband met de prijsontwikkeling, nieuwe richtlijnen vast ten behoeve van organen voor gezondheidszorg aangewezen in het [Besluit werkingssfeer WTG 1992](https://wetten.overheid.nl/jci1.3:c:BWBR0005342) met in achtneming van het volgende:
 
@@ -34,11 +59,11 @@ Het Centraal orgaan tarieven gezondheidszorg (Cotg) stelt met het oog op de jaar
 
 - c. de verwerking van eventuele verschillen tussen de prijsbijstelling particuliere consumptie jaar t zoals bepaald op grond van het CEP t+1 en de prijsbijstelling particuliere concumptie zoals bepaald op grond van het CEP t+2 en volgende jaren blijft achterwege.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009061&artikel=1&z=1997-12-05&g=1997-12-05) bedoelde richtlijnen treden in werking met ingang van 1 januari 1998.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

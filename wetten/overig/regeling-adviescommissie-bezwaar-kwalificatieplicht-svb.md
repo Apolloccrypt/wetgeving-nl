@@ -1,13 +1,38 @@
 ---
 title: "Regeling Adviescommissie bezwaar kwalificatieplicht SVB"
 identifier: "BWBR0045169"
-categorie: "Overig"
-publicatiedatum: 2021-06-01
-laatste_update: 2021-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045169"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-06-01"
+last_updated: "2021-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045169"
+soort: "zbo"
+stam_id: "15968063"
+version_id: "27786432"
+internal_id: "C39189761"
+label_id: "15902284"
+dtd_version: "2.0"
+original_entry_into_force: "2021-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045169/2021-06-01/0"
+intitule_bron: "Stcrt.2021-26714"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-17"
+intitule_published: "2021-05-31"
+intitule_in_force: "2021-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-26714"
+original_signed_date: "2021-05-17"
+original_published_date: "2021-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-26714"
+entry_into_force_date: "2021-06-01"
+jci_1_3: "jci1.3:c:BWBR0045169&z=2021-06-01&g=2021-06-01"
+jci_1_0: "1.0:c:BWBR0045169&g=2021-06-01"
+citeertitel_status: "officieel"
+signed_date: "2021-05-17"
+entry_into_force: "2021-06-01"
 ---
-
 # Regeling Adviescommissie bezwaar kwalificatieplicht SVB
 
 gelet op [artikel 3:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5) en [artikel 1 van Regeling van de Minister voor Jeugd en Gezin van 13 juli 2010, nr. IVV/J&G/3013046, houdende de instelling van een onafhankelijke adviescommissie ter advisering van de Raad van bestuur van de Sociale verzekeringsbank over de aspecten van de Leerplichtwet 1969 ten behoeve van de beslissing op bezwaar inzake artikel 7, tweede lid, onder a, van de Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027951&artikel=1)
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 Deze regeling verstaat onder:
 
@@ -34,7 +59,7 @@ Deze regeling verstaat onder:
 
 - g. **de belanghebbende:** belanghebbende als bedoeld in [artikel 1:2, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2).
 
-#### Artikel 2. Instelling adviescommissie bezwaar kwalificatieplicht
+##### Artikel 2. Instelling adviescommissie bezwaar kwalificatieplicht
 
 1. De Raad van bestuur voorziet in de instelling van een vaste adviescommissie bezwaar kwalificatieplicht met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=3&z=2021-06-01&g=2021-06-01) genoemde taak. De samenstelling van de commissie en de benoeming van zijn leden vindt plaats overeenkomstig de bepalingen van deze regeling.
 
@@ -42,7 +67,7 @@ Deze regeling verstaat onder:
 
 ### Hoofdstuk 2. Samenstelling en benoeming
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. De commissie bestaat uit een voorzitter en twee leden.
 
@@ -52,7 +77,7 @@ Deze regeling verstaat onder:
 
 4. De leden en plaatsvervangende leden zijn werkzaam als deskundige op het gebied van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628).
 
-#### Artikel 4. Onpartijdigheid
+##### Artikel 4. Onpartijdigheid
 
 1. De voorzitter en de leden nemen op generlei wijze deel aan de behandeling van een bezwaarschrift als hun onpartijdigheid in het geding kan zijn.
 
@@ -60,7 +85,7 @@ Deze regeling verstaat onder:
 
 3. In verband met de onpartijdigheid werken de leden niet als deskundige op het gebied van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628) in de gemeente waar de belanghebbende woont.
 
-#### Artikel 5. Benoeming en herbenoeming
+##### Artikel 5. Benoeming en herbenoeming
 
 1. De Raad van bestuur benoemt de voorzitter en de leden van de commissie voor een periode van ten hoogste vier jaar.
 
@@ -68,7 +93,7 @@ Deze regeling verstaat onder:
 
 3. De voorzitter en de leden worden niet opnieuw benoemd als zij niet langer voldoen aan het gestelde in [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=2&artikel=3&z=2021-06-01&g=2021-06-01).
 
-#### Artikel 6. Vervanging
+##### Artikel 6. Vervanging
 
 1. De voorzitter van de commissie wordt tussentijds door de Raad van bestuur vervangen:
 
@@ -98,19 +123,19 @@ Deze regeling verstaat onder:
 
 4. Vervanging vanwege de in de onderdelen d en e van het eerste en tweede lid genoemde reden vindt niet plaats dan na hoor of wederhoor door of namens de Raad van bestuur.
 
-#### Artikel 7. Plaatsvervangend voorzitter en plaatsvervangende leden
+##### Artikel 7. Plaatsvervangend voorzitter en plaatsvervangende leden
 
 De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=2&artikel=4&z=2021-06-01&g=2021-06-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=2&artikel=5&z=2021-06-01&g=2021-06-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=2&artikel=6&z=2021-06-01&g=2021-06-01) zijn van overeenkomstige toepassing op de plaatsvervangend voorzitter en de plaatsvervangende leden.
 
 ### Hoofdstuk 3. Taak
 
-#### Artikel 8. Advisering
+##### Artikel 8. Advisering
 
 De commissie adviseert de Raad van bestuur desgevraagd over de beslissing op een bezwaarschrift, voor zover dit bezwaarschrift is gericht tegen het oordeel van de leerplichtambtenaar dat de belanghebbende niet heeft voldaan aan de verplichtingen op grond van de [Leerplichtwet 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002628).
 
 ### Hoofdstuk 4. Informatievoorziening en faciliteiten
 
-#### Artikel 9. Informatie
+##### Artikel 9. Informatie
 
 1. De SVB verstrekt de commissie tijdig, spontaan en op verzoek alle informatie die nodig is voor het uitbrengen van het advies, tenzij enig wettelijk voorschrift deze verstrekking in de weg staat.
 
@@ -120,7 +145,7 @@ De commissie adviseert de Raad van bestuur desgevraagd over de beslissing op een
 
 4. De commissie kan van een gemachtigde een schriftelijke machtiging verlangen.
 
-#### Artikel 10. Secretariaat
+##### Artikel 10. Secretariaat
 
 1. De SVB voert het secretariaat van de commissie.
 
@@ -128,17 +153,17 @@ De commissie adviseert de Raad van bestuur desgevraagd over de beslissing op een
 
 3. De Raad van bestuur wijst een of meer van zijn medewerkers aan als plaatsvervangend secretaris.
 
-#### Artikel 11. Accommodatie
+##### Artikel 11. Accommodatie
 
 De Raad van bestuur stelt de commissie accommodatie beschikbaar voor het houden van vergaderingen en hoorzittingen.
 
-#### Artikel 12. Onkostenvergoeding
+##### Artikel 12. Onkostenvergoeding
 
 De voorzitter en de leden van de commissie hebben recht op een door de Raad van bestuur vast te stellen onkostenvergoeding en op een vergoeding voor reiskosten. De hoogte van deze vergoedingen stelt de Raad van bestuur vast in een nadere regeling. Alle kosten die het lidmaatschap met zich meebrengt worden geacht door deze onkostenvergoeding te zijn gedekt.
 
 ### Hoofdstuk 5. Hoorzitting en advies
 
-#### Artikel 13. Hoorzitting
+##### Artikel 13. Hoorzitting
 
 1. De commissie komt zo vaak als nodig is bijeen voor het houden van de hoorzittingen, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045169&hoofdstuk=4&artikel=9&z=2021-06-01&g=2021-06-01).
 
@@ -146,7 +171,7 @@ De voorzitter en de leden van de commissie hebben recht op een door de Raad van 
 
 3. De [artikelen 7:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:4) en [7:6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:6) zijn van overeenkomstige toepassing.
 
-#### Artikel 14. Uitnodiging hoorzitting
+##### Artikel 14. Uitnodiging hoorzitting
 
 1. De commissie deelt de belanghebbende en de leerplichtambtenaar, ten minste twee weken voor de hoorzitting, schriftelijk mee dat zij in de gelegenheid worden gesteld om te worden gehoord.
 
@@ -156,7 +181,7 @@ De voorzitter en de leden van de commissie hebben recht op een door de Raad van 
 
 4. Het horen door de commissie wordt gecombineerd met het horen volgens [artikel 7:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:2). Hiervan kan alleen worden afgeweken op verzoek van de belanghebbende.
 
-#### Artikel 15. Advies
+##### Artikel 15. Advies
 
 1. De commissie adviseert de Raad van bestuur binnen vier weken na de hoorzitting.
 
@@ -168,15 +193,15 @@ De voorzitter en de leden van de commissie hebben recht op een door de Raad van 
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 In gevallen waarin deze regeling niet voorziet of over geschillen voortkomend uit de interpretatie van deze regeling beslist de Raad van bestuur in overleg met de commissie.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als de Regeling Adviescommissie bezwaar kwalificatieplicht SVB.
 

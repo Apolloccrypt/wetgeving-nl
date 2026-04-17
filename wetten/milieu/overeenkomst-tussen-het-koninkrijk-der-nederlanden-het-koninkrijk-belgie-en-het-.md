@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg inzake de uitvoering van het Verdrag inzake het open luchtruim"
 identifier: "BWBV0006806"
-categorie: "Milieu"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006806"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006806"
+soort: "verdrag"
+stam_id: "10005472783"
+version_id: "10005948092"
+internal_id: "C10009528261"
+label_id: "10005455984"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006806/2002-01-01/0"
+intitule_bron: "Trb.1993-193"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1993-12-17"
+intitule_in_force: "2019-04-01"
+intitule_status: "goed"
+original_publication: "Trb.1993-193"
+original_published_date: "1993-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-193"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBV0006806&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBV0006806&g=2002-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2002-01-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden, het Koninkrijk België en het Groothertogdom Luxemburg inzake de uitvoering van het Verdrag inzake het open luchtruim
 
 De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België en de Regering van het Groothertogdom Luxemburg,
@@ -22,7 +44,7 @@ Vaststellende dat de drie Staten-Partijen deel uitmaken van de groep Staten-Part
 
 Zijn ter uitvoering van [artikel XIV van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XIV) het volgende overeengekomen:
 
-#### Artikel 1. Coördinatie
+##### Artikel 1. Coördinatie
 
 1. De drie Staten-Partijen werken samen in aangelegenheden aangaande het [Verdrag](onbekend). Daartoe wijzen zij elk een coördinator aan ter uitvoering van de bepalingen van het Verdrag waarin de drie Staten-Partijen worden beschouwd als één Staat-Partij. De coördinatoren zijn vertegenwoordigers van de Ministeries van Defensie.
 
@@ -34,15 +56,15 @@ Zijn ter uitvoering van [artikel XIV van het Verdrag](https://wetten.overheid.nl
 
 5. Kennisgevingen met betrekking tot de [artikelen X](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=X), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XIII), [XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XIV), [XV](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XV) of [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XVI) worden verzonden door de drie Staten-Partijen afzonderlijk. Er wordt evenwel naar gestreefd om de aanwijzing van personeel, als bedoeld in artikel XIII, te coördineren.
 
-#### Artikel 2. Financiën
+##### Artikel 2. Financiën
 
 De Staten-Partijen komen overeen dat de kosten van „open luchtruim”- activiteiten zullen worden gedeeld. De van toepassing zijnde financiële beginselen en procedures zijn vastgelegd in de Bijlage bij deze Overeenkomst.
 
-#### Artikel 3. Actieve vluchten: vliegtuigen en sensoren
+##### Artikel 3. Actieve vluchten: vliegtuigen en sensoren
 
 De Staten-Partijen zijn het erover eens dat ernaar dient te worden gestreefd om technische middelen gezamenlijk te gebruiken met andere belanghebbende Staten-Partijen bij het [Verdrag](onbekend). België is bereid in het kader van de Benelux-samenwerking een C130 Hercules beschikbaar te stellen als „open luchtruim”-observatie- en -transportvliegtuig, tenzij er andere, goedkopere mogelijkheden om het Verdrag uit te voeren beschikbaar zijn. Dit aanbod verplicht België geenszins tot enige constructieverandering met betrekking tot de C130 Hercules.
 
-#### Artikel 4. Actieve vluchten: bemanning en voorbereiding van de vlucht
+##### Artikel 4. Actieve vluchten: bemanning en voorbereiding van de vlucht
 
 1. De Staten-Partijen aanvaarden het beginsel van gemengde „open luchtruim”-teams, bestaande uit onderdanen van de drie Staten-Partijen. Wanneer een Belgische C130 Hercules voor een „open luchtruim”- vlucht wordt gebruikt, bestaat de vliegtuigbemanning uit personeel van de Belgische Luchtmacht.
 
@@ -50,21 +72,21 @@ De noodzakelijke opleiding van „open luchtruim”-specialisten wordt gezamenli
 
 2. De coördinatoren benoemen voor elke „open luchtruim”-vlucht een teamleider, als hoofdvluchtwaarnemer of anderszins, alsook het overige personeel, met uitzondering van de vliegtuigbemanning. De benoemde teamleider is hoofd van het „open luchtruim”-team, stelt het missieplan op en verricht andere taken, te zamen en in overleg met de Benelux-coördinatoren.
 
-#### Artikel 5. Actieve vluchten: resultaten
+##### Artikel 5. Actieve vluchten: resultaten
 
 Nederland neemt de verantwoordelijkheid voor het verwerken van de door de sensoren verzamelde gegevens op zich. De verwerkte gegevens staan alle drie Staten-Partijen ter beschikking. Op verzoek van andere Staten-Partijen bij het [Verdrag](onbekend) stelt Nederland kopieën van de verwerkte gegevens beschikbaar aan die Staten-Partijen, zulks in overeenstemming met [artikel IX van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=IX). Nederland organiseert de noodzakelijke Benelux-bijeenkomsten ter vergelijking van de nationale analyses van de verwerkte gegevens.
 
-#### Artikel 6. Passieve vluchten: luchtverkeersleiding (ATC)
+##### Artikel 6. Passieve vluchten: luchtverkeersleiding (ATC)
 
 1. „Open luchtruim”-vluchten boven de Benelux worden geleid als algemeen luchtverkeer. De desbetreffende met de luchtverkeersleiding belaste instanties begeleiden „open luchtruim”-vluchten in overeenstemming met de vereisten van het [Verdrag](onbekend).
 
 2. België heeft nummers van diplomatieke toestemmingen en identificatiecodes voor het luchtverkeer verstrekt en zal deze blijven verstrekken.
 
-#### Artikel 7. Passieve vluchten: vliegvelden
+##### Artikel 7. Passieve vluchten: vliegvelden
 
 Het vliegveld Zaventem/Melsbroek is het punt van binnenkomst/ vertrek voor de Benelux. Er wordt geen ander „open luchtruim”- vliegveld aangewezen. In uitzonderlijke gevallen kunnen andere vliegvelden, in het bijzonder vliegbasis Eindhoven, als uitwijkvliegveld worden gebruikt, rekening houdend met hun beperkingen als uiteengezet in de desbetreffende naslagwerken van de ICAO.
 
-#### Artikel 8. Passieve vluchten: aan de vlucht voorafgaande procedures
+##### Artikel 8. Passieve vluchten: aan de vlucht voorafgaande procedures
 
 1. Staten-Partijen bij het [Verdrag](onbekend) die voornemens zijn een observatievlucht uit te voeren boven de Benelux hebben het recht het observatievliegtuig van hun keuze te gebruiken.
 
@@ -74,7 +96,7 @@ Het vliegveld Zaventem/Melsbroek is het punt van binnenkomst/ vertrek voor de Be
 
 4. Indien een passieve vlucht deel uitmaakt van een langere vlucht boven het grondgebied van de Westeuropese Unie, beslissen de coördinatoren over de inbreng van de Benelux in de te verrichten taken.
 
-#### Artikel 9. Aansprakelijkheid
+##### Artikel 9. Aansprakelijkheid
 
 Voor „open luchtruim”-activiteiten in het kader van deze Overeenkomst wordt de aansprakelijkheidsclausule als vervat in [artikel XII van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XII) als volgt toegepast:
 
@@ -86,29 +108,29 @@ Voor „open luchtruim”-activiteiten in het kader van deze Overeenkomst wordt 
 
 - 4. In geval van schade die is toegebracht aan of door gemeenschappelijke goederen van de Staten-Partijen worden de kosten van de schadevergoeding, wanneer deze niet op derden kunnen worden verhaald, gedragen door de Staten-Partijen in overeenstemming met de verdeelsleutel als vervat in de Bijlage bij deze Overeenkomst.
 
-#### Artikel 10. Vertegenwoordiging
+##### Artikel 10. Vertegenwoordiging
 
 Voor de doeleinden als omschreven in de [artikelen II tot en met IX](onbekend) en [artikel XI van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XI), alsmede de [Bijlage A tot en met I](onbekend) en [Bijlage K](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&bijlage=K) daarbij, wordt de Benelux in de „Open Luchtruim”-Overlegcommissie vertegenwoordigd door de Staat-Partij die het voorzitterschap bekleedt in het Benelux-samenwerkingsverband. De vertegenwoordigers van de twee andere Staten-Partijen fungeren als plaatsvervangend vertegenwoordigers in de „Open Luchtruim”-Overlegcommissie, waarbij de vertegenwoordiger van de Partij die als eerstvolgende het voorzitterschap zal bekleden, als eerste plaatsvervanger optreedt.
 
-#### Artikel 11. Diverse bepalingen
+##### Artikel 11. Diverse bepalingen
 
 1. België en Nederland staan Luxemburg bij in de uitvoering van het [Verdrag](onbekend) en deze Overeenkomst.
 
 2. Nederland is bereid een C130 Hercules beschikbaar te stellen voor „open luchtruim”-vluchten wanneer het zo’n vliegtuig tot zijn beschikking heeft. Indien dit vliegtuig wordt gebruikt, zijn de desbetreffende bepalingen van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006806&artikel=3&z=2002-01-01&g=2002-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006806&artikel=4&z=2002-01-01&g=2002-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0006806&artikel=9&z=2002-01-01&g=2002-01-01) van deze Overeenkomst van overeenkomstige toepassing.
 
-#### Artikel 12. Wijzigingen
+##### Artikel 12. Wijzigingen
 
 1. Elke door de Staten-Partijen overeengekomen aanpassing of wijziging van deze Overeenkomst wordt van kracht op een in een diplomatieke-notawisseling vast te stellen datum.
 
 2. Elke aanpassing of wijziging van de Bijlage wordt schriftelijk tussen de bevoegde autoriteiten overeengekomen en wordt onmiddellijk van kracht.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. De Staten-Partijen leggen hun akten van bekrachtiging van het [Verdrag](onbekend) gelijktijdig neder.
 
 2. Deze Overeenkomst treedt in werking op de datum van inwerkingtreding van het [Verdrag](onbekend), of, indien de drie Staten-Partijen hun akten van bekrachtiging van het Verdrag niet hebben nedergelegd vóór de inwerkingtreding daarvan, op de dag waarop zij hun akten nederleggen.
 
-#### Artikel 14. Regeling van geschillen
+##### Artikel 14. Regeling van geschillen
 
 1. Een geschil tussen de Staten-Partijen met betrekking tot de uitlegging of toepassing van de Overeenkomst dat niet binnen een redelijke termijn kan worden geregeld door middel van diplomatieke onderhandelingen, wordt voorgelegd aan een scheidsgerecht bestaande uit drie leden. De twee bij een geschil betrokken partijen benoemen één scheidsman en de aldus benoemde scheidsmannen benoemen gezamenlijk een derde scheidsman, die geen onderdaan is van de Staten-Partijen; deze fungeert als voorzitter.
 
@@ -118,7 +140,7 @@ Voor de doeleinden als omschreven in de [artikelen II tot en met IX](onbekend) e
 
 4. Ingeval het scheidsgerecht niet tot consensus kan komen, wordt een beslissing genomen met een meerderheid van stemmen. De beslissing is onherroepelijk en bindend voor de Staten-Partijen.
 
-#### Artikel 15. Beëindiging
+##### Artikel 15. Beëindiging
 
 Deze Overeenkomst wordt beëindigd op de datum van terugtrekking uit het [Verdrag](onbekend) door één of meer Staten-Partijen bij de Overeenkomst, dan wel op de datum van beëindiging van de regeling ingevolge [artikel XIV van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001051&artikel=XIV).
 

@@ -1,18 +1,43 @@
 ---
 title: "Gevangenismaatregel 1999 BES"
 identifier: "BWBR0028513"
-categorie: "Strafrecht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028513"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028513"
+soort: "AMvB-BES"
+stam_id: "10831453"
+version_id: "17810292"
+internal_id: "C24903011"
+label_id: "10806574"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028513/2010-10-10/0"
+intitule_bron: "Stb.2010-558"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-558"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-558"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028513&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028513&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Gevangenismaatregel 1999 BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ bron: "https://wetten.overheid.nl/BWBR0028513"
 
 2. Dit besluit berust op de artikelen 12, 16, vierde lid, 18, tweede lid, 28, 32a, 37g, 42 en 44, zesde lid, van de Wet beginselen gevangeniswezen BES.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur is verantwoordelijk voor het beheer en de regelmatige gang van zaken in het gesticht.
 
@@ -34,13 +59,13 @@ bron: "https://wetten.overheid.nl/BWBR0028513"
 
 4. De gestichtsmedewerkers komen de opdrachten van de directeur stipt na.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De directeur draagt er zorg voor dat de gedetineerde, onder handhaving van het karakter van de gevangenisstraf of maatregel, tegemoet wordt getreden op een wijze die zijn menselijke waardigheid respecteert.
 
 2. Het verblijf van de gedetineerde in het gesticht wordt mede dienstbaar gemaakt aan de voorbereiding van zijn terugkeer in het maatschappelijk leven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De plaatsing in en overplaatsing naar een gesticht of een afdeling van een gesticht geschieden zoveel mogelijk met inachtneming van het regime dat het meest strookt met de persoonlijkheid van de gedetineerde, waarbij zowel op de duur van de straf of maatregel als op het gedrag en de mogelijkheden tot reclassering van de gedetineerde wordt gelet.
 
@@ -54,13 +79,13 @@ bron: "https://wetten.overheid.nl/BWBR0028513"
 
 6. Bij ministeriële regeling kunnen ter uitvoering van dit artikel nadere regels worden vastgesteld.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld over de kwaliteit van de inrichting en de activiteiten van en voor de gedetineerde.
 
 #### § 2. De opneming in het gesticht
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ten behoeve van de registratie van opgenomen gedetineerden wordt bij ministeriële regeling een model gedetineerdenregister vastgesteld
 
@@ -68,7 +93,7 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de kwaliteit
 
 3. Het onderzoek aan kleding en lichaam wordt ingesteld door een gestichtsmedewerker van hetzelfde geslacht als de gedetineerde.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geld, waardepapieren en andere goederen, die de gedetineerde niet onder zijn berusting mag houden, worden door de directeur in bewaring genomen, met dien verstande dat aan bederf onderhevige waren worden vernietigd, tenzij deze met schriftelijke toestemming van de gedetineerde en voor zijn rekening aan een door hem opgegeven derde worden afgestaan.
 
@@ -78,25 +103,25 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld over de kwaliteit
 
 #### § 3. Gedwongen geneeskundige behandeling
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voordat de directeur beslist dat de door de arts noodzakelijk geachte geneeskundige handeling onder dwang zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de gedetineerde verblijft.
 
 2. In het in het eerste lid bedoelde overleg wordt nagegaan of het ernstige gevaar voor de gezondheid of de veiligheid van de gedetineerde of van anderen niet op een andere wijze kan worden afgewend. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de gedetineerde minst ingrijpende handeling.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gedwongen geneeskundige handeling wordt toegepast in een daartoe geschikte ruimte, onder verantwoordelijkheid van de arts.
 
 2. Van de toepassing van een gedwongen geneeskundige handeling wordt onverwijld melding gedaan aan Onze Minister en de Commissie van Toezicht.
 
-#### Artikel 9
+##### Artikel 9
 
 Zo spoedig mogelijk na de toepassing van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van de aan de inrichting verbonden arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de gedetineerde dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in het medische dossier.
 
 #### § 4. Geestelijke en sociale zorg
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij een gesticht zijn een of meer geestelijke raadslieden en maatschappelijke hulpverleners werkzaam.
 
@@ -106,11 +131,11 @@ Zo spoedig mogelijk na de toepassing van de gedwongen geneeskundige handeling wo
 
 #### § 5. Gezondheidskundige zorg en voorzieningen
 
-#### Artikel 14
+##### Artikel 14
 
 De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor persoonlijke en medische verzorging, keukens, alsmede de zich daarin bevindende voorzieningen en apparatuur voldoen aan de eisen die daaraan, gelet op de stand van de kennis in de gezondheidskunde en de stand van de techniek, redelijkerwijs gesteld mogen worden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De directeur, daarin bijgestaan door de aan het gesticht verbonden arts, draagt er zorg voor dat de gedetineerde de beschikking heeft over voldoende voorzieningen en middelen ten behoeve van zijn persoonlijke verzorging.
 
@@ -118,7 +143,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. Door de directeur kunnen bepaalde persoonlijke verzorgingshandelingen worden verplicht gesteld, beperkt of uitgebreid, indien redenen van medische of hygiënische aard daartoe volgens de aan het gesticht verbonden arts bepaaldelijk aanleiding geven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De directeur kan ter zake van het dragen van eigen kleding nadere voorschriften vaststellen, waaronder een verbod op het dragen daarvan.
 
@@ -130,13 +155,13 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 6. Voeding
 
-#### Artikel 17
+##### Artikel 17
 
 1. De directeur, daarin bijgestaan door de aan het gesticht verbonden voedingsdeskundige, draagt er zorg voor dat de gedetineerden kwantitatief en kwalitatief voldoende voeding wordt verstrekt.
 
 2. De voedingsdeskundige is bevoegd aanwijzingen te geven aan degene die in het gesticht met de voorbereiding van de voeding is belast. Hij heeft toegang tot alle plaatsen waar voeding ten behoeve van de gedetineerden wordt bereid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien de gedetineerde uit hoofde van zijn levensovertuiging bijzondere voeding verzoekt aan de directeur, wordt met die wens, voor zover dat redelijkerwijs mogelijk is, rekening gehouden.
 
@@ -146,7 +171,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 7. Geldelijke middelen van de gedetineerde
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het bezit van contant geld door de gedetineerde in de inrichting of een afdeling is verboden, tenzij in het huishoudelijk reglement anders is bepaald.
 
@@ -170,7 +195,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 8. Arbeid
 
-#### Artikel 20
+##### Artikel 20
 
 1. De gedetineerde heeft recht op deelname aan de in het gesticht beschikbare arbeid.
 
@@ -178,7 +203,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. De directeur is belast met de vaststelling en uitbetaling van het arbeidsloon.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De gedetineerde is verplicht de hem opgedragen arbeid naar behoren te verrichten.
 
@@ -186,13 +211,13 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. Ten behoeve van de registratie van het gewerkte aantal arbeidsuren en het daarmee verdiende bedrag wordt bij ministeriële regeling een model arbeidsregister vastgesteld.
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
 #### § 9. Ontvangst en bezit van goederen tijdens het verblijf in het gesticht
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het is de gedetineerde met toestemming van de directeur en op de door deze vast te stellen wijze toegestaan kleding en andere goederen te ontvangen of te verzenden. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10) is van overeenkomstige toepassing.
 
@@ -200,7 +225,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 10. Bezoek en briefwisseling
 
-#### Artikel 24
+##### Artikel 24
 
 1. De gedetineerde heeft het recht om op de bij of krachtens het voor het gesticht vastgestelde huishoudelijk reglement bepaalde tijdstippen, tenminste eenmaal per twee weken gedurende tenminste 1 uur bezoek te ontvangen van een ieder.
 
@@ -208,7 +233,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. Bij of krachtens het voor het gesticht vastgestelde huishoudelijk reglement worden regels gesteld omtrent de aanmelding en toelating van bezoekers, het aantal personen per bezoek, de wijze waarop de bezoekers zich dienen te gedragen in het gesticht en de aanwezigheid van gestichtsmedewerkers bij het bezoek.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De gedetineerde heeft het recht om, voor rekening van het gesticht, brieven te schrijven aan en te ontvangen van een ieder.
 
@@ -228,7 +253,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 5. De niet verzonden of uitgereikte brieven worden geretourneerd aan de afzender. Is zulks niet mogelijk dan worden zij door de directeur vernietigd.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Niet onderworpen aan controle is de briefwisseling van gedetineerden met leden van het Koninklijk huis, de Eerste en de Tweede Kamer der Staten-Generaal en de leden daarvan, de Rijksvertegenwoordiger, Onze Minister, justitiële autoriteiten, de Nationale ombudsman, de Commissie van Toezicht, het openbaar ministerie en andere door Onze Minister of de directeur aan te wijzen personen of instanties.
 
@@ -246,7 +271,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 13. Maatregel ex artikel 14 of 22 Wetboek van Strafrecht BES
 
-#### Artikel 34
+##### Artikel 34
 
 1. Een veroordeelde bedoeld in de artikelen 14 en 22 van het Wetboek van Strafrecht BES kan door Onze Minister op verzoek van de directeur van het gesticht alwaar hij is opgenomen dan wel zou moeten worden, voor maximaal zes aaneengesloten maanden worden geplaatst in een door Onze Minister aangewezen instelling als bedoeld in artikel 6 van de Wet beginselen gevangeniswezen BES.
 
@@ -260,7 +285,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 #### § 14. Toezicht, kennisneming van grieven en klachtenbehandeling
 
-#### Artikel 35
+##### Artikel 35
 
 1. De Commissie van Toezicht bestaat uit een oneven aantal leden tot ten hoogste 13 leden.
 
@@ -272,7 +297,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 5. De secretaris, de plaatsvervangende secretarissen en het ambtelijk secretariaat van de Commissie van Toezicht hebben mede tot taak een gedetineerde desgewenst behulpzaam te zijn bij het opstellen van een klaagschrift.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Onze Minister wijst uit de leden van de Commissie van Toezicht een voorzitter, plaatsvervangend voorzitters, een secretaris en plaatsvervangende secretarissen aan.
 
@@ -284,7 +309,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 5. De overige leden van de Commissie van Toezicht ontvangen voor de werkzaamheden verbonden aan hun lidmaatschap een door Onze Minister vast te stellen vergoeding.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De Commissie van Toezicht vergadert zo mogelijk eenmaal per maand.
 
@@ -292,7 +317,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. Onze Minister is bevoegd de vergaderingen van de Commissie van Toezicht te laten bijwonen door daartoe door hem aangewezen ambtenaren.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De leden en plaatsvervangende leden van de Commissie van Toezicht zijn bevoegd:
 
@@ -306,7 +331,7 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 3. De directeur brengt uit eigen beweging alle voor de uitoefening van de taken van de Commissie van Toezicht belangrijke feiten en omstandigheden onverwijld ter kennis van de voorzitter.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De Commissie van Toezicht stelt per half jaar een lijst vast van de leden die gedurende de eerstvolgende zes maanden zullen optreden als maandcommissaris.
 
@@ -322,11 +347,11 @@ De directeur draagt er zorg voor dat de celruimtes, werkplaatsen, ruimtes voor p
 
 7. De voorzitter van de Commissie van Toezicht zendt de directeur onverwijld een afschrift van het oordeel bedoeld in het zesde lid, tezamen met een afschrift van het verslag bedoeld in het vijfde lid.
 
-#### Artikel 40
+##### Artikel 40
 
 De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=14&artikel=35&z=2010-10-10&g=2010-10-10), uit haar midden leden aan die, gezamenlijk of afzonderlijk, zullen optreden als Beklagcommissie.
 
-#### Artikel 40a
+##### Artikel 40a
 
 1. Een gedetineerde kan beklag doen over het medisch handelen van de inrichtingsarts. Met de inrichtingsarts wordt in dit besluit gelijkgesteld de verpleegkundige dan wel andere hulpverleners die door de inrichtingsarts bij de zorg aan gedetineerden zijn betrokken.
 
@@ -342,7 +367,7 @@ De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](h
 
 5. In afwijking van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=14&artikel=38&z=2010-10-10&g=2010-10-10), is de beklagcommissie bevoegd ten behoeve van het behandelen van het klaagschrift het medisch dossier van de klager in te zien.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het mondeling horen bedoeld in de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=14&artikel=43&z=2010-10-10&g=2010-10-10) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=14&artikel=44&z=2010-10-10&g=2010-10-10) van dit besluit, en het nemen van beslissingen bedoeld in de artikelen 43 en 44 van de Wet beginselen gevangeniswezen BES, geschieden door de voltallige Beklagcommissie.
 
@@ -350,13 +375,13 @@ De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](h
 
 3. In afwijking van het eerste lid kan één lid van de Beklagcommissie worden belast met de uitoefening van de aldaar bedoelde taken en bevoegdheden, indien het betreft een beklag van eenvoudige aard of een beklag, dat kennelijk niet-ontvankelijk, kennelijk gegrond of kennelijk ongegrond is, zulks ter beoordeling van de voorzitter.
 
-#### Artikel 42
+##### Artikel 42
 
 1. De Beklagcommissie doet onverwijld na ontvangst van een beklag bedoeld in artikel 40 van de Wet beginselen gevangeniswezen BES, een afschrift daarvan toekomen aan de directeur, met – voor zover nodig – het verzoek om een schriftelijk reactie.
 
 2. De Beklagcommissie doet onverwijld na ontvangst van een schriftelijke reactie bedoeld in het eerste lid, een afschrift daarvan toekomen aan de gedetineerde.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Indien de gedetineerde of de directeur daarom vragen, worden zij door de Beklagcommissie mondeling gehoord omtrent het beklag. Het horen geschiedt uiterlijk binnen zeven werkdagen na ontvangst van het beklag.
 
@@ -372,7 +397,7 @@ De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](h
 
 7. Van het mondeling horen wordt door de secretaris verslag gemaakt.
 
-#### Artikel 44
+##### Artikel 44
 
 1. De Beklagcommissie kan, al dan niet op verzoek van de gedetineerde of de directeur, indien zij gewenst acht, andere gedetineerden en gestichtsmedewerkers mondeling of schriftelijk horen.
 
@@ -382,7 +407,7 @@ De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](h
 
 4. [Artikel 43, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028513&paragraaf=14&artikel=43&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 45
+##### Artikel 45
 
 1. De Beklagcommissie doet binnen de termijn zoals gesteld in artikel 44, eerste lid, van de Wet beginselen gevangeniswezen BES, mondeling dan wel schriftelijk, met redenen omkleed uitspraak op het beklag.
 
@@ -394,11 +419,11 @@ De Commissie van Toezicht wijst, met inachtneming van [artikel 35, tweede lid](h
 
 5. De Beklagcommissie kan een tegemoetkoming van maximaal USD 1397 toekennen aan de gedetineerde.
 
-#### Artikel 46
+##### Artikel 46
 
 De directeur stelt de Commissie van Toezicht en Beklagcommissie in het gesticht voldoende ruimte en andere voorzieningen ter beschikking voor een goede uitoefening van hun taken.
 
-#### Artikel 47
+##### Artikel 47
 
 1. De Commissie van Toezicht brengt eens in de zes maanden verslag uit aan Onze Minister over haar werkzaamheden. Een afschrift van het verslag wordt onverwijld aan de directeur gezonden.
 
@@ -406,10 +431,10 @@ De directeur stelt de Commissie van Toezicht en Beklagcommissie in het gesticht 
 
 #### § 15. Overgangs- en slotbepalingen
 
-#### Artikel 48
+##### Artikel 48
 
 Op klachten die zijn ingediend voor inwerkingtreding van dit besluit is het nieuwe recht van toepassing.
 
-#### Artikel 49
+##### Artikel 49
 
 Dit besluit wordt aangehaald als: Gevangenismaatregel 1999 BES.

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het wegverkeer"
 identifier: "BWBV0003507"
-categorie: "Verkeer"
-publicatiedatum: 2025-02-09
-laatste_update: 2025-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003507"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-02-09"
+last_updated: "2025-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003507"
+soort: "verdrag"
+stam_id: "10003564063"
+version_id: "10003622332"
+internal_id: "C10006985471"
+label_id: "10003551134"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003507/2025-02-09/0"
+intitule_bron: "Trb.1974-35"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1974-03-15"
+intitule_in_force: "2008-04-18"
+intitule_status: "goed"
+original_publication: "Trb.1974-35"
+original_published_date: "1974-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-35"
+entry_into_force_date: "2008-11-08"
+jci_1_3: "jci1.3:c:BWBV0003507&z=2025-02-09&g=2025-02-09"
+jci_1_0: "1.0:c:BWBV0003507&g=2025-02-09"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-11-08"
 ---
-
 # Verdrag inzake het wegverkeer
 
 De Verdragsluitende Partijen,
@@ -18,7 +40,7 @@ Zijn de navolgende bepalingen overeengekomen:
 
 ### Hoofdstuk I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daaraan in dit artikel toegekende betekenis:
 
@@ -100,7 +122,7 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daara
 
 - (ac). „Dynamisch besturen”: het in real time uitvoeren van alle operationele en tactische functies die nodig zijn om het voertuig te verplaatsen. Dit omvat het besturen van de laterale en longitudinale bewegingen van het voertuig, het monitoren van de weg, het reageren op gebeurtenissen in het wegverkeer en het plannen en signaleren van manoeuvres.
 
-#### Artikel 2. Bijlagen bij het Verdrag
+##### Artikel 2. Bijlagen bij het Verdrag
 
 De Bijlagen bij dit Verdrag, te weten,
 
@@ -120,7 +142,7 @@ Bijlage 7: Het internationale rijbewijs;
 
 zijn integrerende onderdelen van dit Verdrag.
 
-#### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
+##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
 
 - (a). De Verdragsluitende Partijen nemen passende maatregelen opdat de op hun grondgebied geldende verkeersregels in hoofdzaak overeenkomen met de bepalingen van Hoofdstuk II van dit Verdrag. Op voorwaarde dat deze regels op geen enkele wijze in strijd zijn met genoemde bepalingen:
 
@@ -150,7 +172,7 @@ zijn integrerende onderdelen van dit Verdrag.
 
 8. Niets in het derde, vijfde of zevende lid van dit artikel is van invloed op het recht van een Verdragsluitende Partij, op haar grondgebied de toelating in het internationale verkeer van motorvoertuigen, aanhangwagens, bromfietsen en fietsen, en/of hun bestuurders of meerijdenden, afhankelijk te stellen van haar voorschriften betreffende het tegen betaling vervoeren van passagiers en goederen, van haar voorschriften betreffende de verzekering van bestuurders tegen wettelijke aansprakelijkheid van haar douanevoorschriften en, in het algemeen, van haar voorschriften met betrekking tot andere aangelegenheden dan het wegverkeer.
 
-#### Artikel 4. Verkeerstekens
+##### Artikel 4. Verkeerstekens
 
 De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeerstekens](https://wetten.overheid.nl/jci1.3:c:BWBV0004310) dat op dezelfde dag als dit Verdrag te Wenen voor ondertekening is opengesteld, verplichten zich er zorg voor te dragen dat;
 
@@ -170,13 +192,13 @@ De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeer
 
 ### Hoofdstuk II. VERKEERSREGELS
 
-#### Artikel 5. De rechtsgeldigheid van verkeerstekens
+##### Artikel 5. De rechtsgeldigheid van verkeerstekens
 
 1. Weggebruikers zijn verplicht zich te houden aan de voorschriften, zoals deze worden aangeduid door verkeerstekens op borden, en door verkeerslichten en verkeerstekens op het wegdek, zelfs indien deze voorschriften in strijd schijnen te zijn met andere verkeersregels.
 
 2. Voorschriften die worden aangeduid door verkeerslichten hebben voorrang boven voorschriften die worden aangeduid door verkeerstekens die de voorrang regelen.
 
-#### Artikel 6. Aanwijzingen die worden gegeven door bevoegde ambtenaren
+##### Artikel 6. Aanwijzingen die worden gegeven door bevoegde ambtenaren
 
 1. Bevoegde ambtenaren dienen, wanneer zij het verkeer regelen, op een afstand gemakkelijk herkenbaar te zijn, ’s nachts zo goed als overdag.
 
@@ -192,7 +214,7 @@ De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeer
 
 4. Aanwijzingen, gegeven door bevoegde ambtenaren die het verkeer regelen, hebben voorrang boven die welke worden aangeduid door verkeerstekens op borden en door verkeerslichten en verkeerstekens op het wegdek, alsmede boven verkeersregels.
 
-#### Artikel 7. Regels van algemene aard
+##### Artikel 7. Regels van algemene aard
 
 1. Weggebruikers dienen zich te onthouden van alle gedragingen die er toe zouden kunnen leiden het verkeer in gevaar te brengen of het te belemmeren, die gevaarlijk zouden kunnen zijn voor personen, of die schade zouden kunnen veroorzaken aan openbaar of particulier bezit.
 
@@ -204,7 +226,7 @@ De Partijen bij dit Verdrag die geen Partij zijn bij het [Verdrag inzake Verkeer
 
 5. Het dragen van veiligheidsgordels is verplicht voor bestuurders en passagiers van motorvoertuigen die op zitplaatsen zitten die met gordels zijn uitgerust, behoudens uitzonderingen ingevolge de nationale wetgeving.
 
-#### Artikel 8. Bestuurders
+##### Artikel 8. Bestuurders
 
 1. Elk rijdend voertuig of elk rijdend samenstel van voertuigen dient een bestuurder te hebben.
 
@@ -222,11 +244,11 @@ Voertuigsystemen die van invloed zijn op de wijze waarop voertuigen worden bestu
 
 6. Een bestuurder van een voertuig dient te allen tijde alle andere activiteiten dan rijden tot een minimum te beperken. De nationale wetgeving moet regels opstellen voor het gebruik van telefoons door bestuurders van voertuigen. In elk geval moet de wet het gebruik verbieden van een in de hand gehouden telefoon door een bestuurder van een motorvoertuig of bromfiets wanneer het voertuig in beweging is.
 
-#### Artikel 9. Kudden
+##### Artikel 9. Kudden
 
 Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in kleinere groepen van redelijke lengte worden verdeeld, en dat deze groepen ten gerieve van het verkeer op redelijke afstand van elkaar worden gehouden, behalve in die gevallen waarin uitzonderingen worden toegestaan om het verplaatsen van zeer grote aantallen te vergemakkelijken.
 
-#### Artikel 10. Plaats op de rijbaan
+##### Artikel 10. Plaats op de rijbaan
 
 1. De rijrichting dient op alle wegen in een Staat gelijk te zijn, behalve, waar zulks dienstig is, op wegen die uitsluitend of hoofdzakelijk worden gebruikt voor doorgaand verkeer tussen twee andere Staten.
 
@@ -242,7 +264,7 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in klein
 
 6. Indien door middel van een verkeersteken een extra rijstrook wordt aangegeven, dienen bestuurders van voertuigen die zich langzaam verplaatsen, onverminderd de bepalingen van artikel 11, deze rijstrook te gebruiken.
 
-#### Artikel 11. Inhalen en rijden in files
+##### Artikel 11. Inhalen en rijden in files
 
 - (a). Inhalen dient te geschieden aan de zijde, tegenover die overeenkomstig de rijrichting.
 
@@ -300,13 +322,13 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in klein
 
 - (b). In het geval waarnaar wordt verwezen in dit lid, onder **(a)**, onder voorbehoud van de bepalingen van het negende lid van dit artikel, dient de wijze waarop wordt gereden niet te worden opgevat als inhalen in de zin van dit Verdrag.
 
-#### Artikel 12. Tegemoetkomend verkeer
+##### Artikel 12. Tegemoetkomend verkeer
 
 1. Bij het voorbijgaan van tegemoetkomend verkeer dient een bestuurder voldoende ruimte, in de breedterichting van de weg, vrij te laten en, zo nodig, dient hij zo dicht mogelijk langs de kant van de rijbaan overeenkomstig de rijrichting te rijden. Indien hij merkt dat hij door zo te handelen in zijn voortgang wordt gehinderd door een obstakel of door de aanwezigheid van andere weggebruikers, dient hij zijn snelheid te verminderen en indien nodig, te stoppen, ten einde een hem tegemoetkomende weggebruiker of hem tegemoetkomende weggebruikers gelegenheid te geven hem voorbij te gaan.
 
 2. Op bergwegen en steile wegen met dezelfde eigenschappen als bergwegen, waar het onmogelijk of moeilijk is tegemoetkomend verkeer voorbij te gaan, dient de bestuurder van het voertuig dat bergafwaarts rijdt zo veel mogelijk uit te wijken naar de kant van de weg, ten einde het bergopwaarts rijdende voertuig in staat te stellen hem voorbij te gaan, behalve daar waar de aanleg van uitwijkhavens voor voertuigen om uit te wijken naar de kant van de weg zodanig is, dat in aanmerking genomen de snelheid en de plaats van beide voertuigen, het bergopwaarts rijdende voertuig een dergelijke uitwijkhaven bijna heeft bereikt, zodat de noodzaak voor één van beide voertuigen een stuk achteruit te rijden kan worden vermeden, indien het bergopwaarts rijdende voertuig van de uitwijkhaven gebruik maakt. Indien een van beide voertuigen die elkaar voorbij willen gaan genoodzaakt is achteruit te rijden om het voorbijgaan mogelijk te maken, dan dient de bestuurder van het bergafwaarts rijdende voertuig achteruit te rijden, tenzij deze manoeuvre duidelijk gemakkelijker kan worden uitgevoerd door de bestuurder van het bergopwaarts rijdende voertuig. De Verdragsluitende Partijen of onderdelen daarvan kunnen echter voor bepaalde voertuigen of bepaalde wegen of gedeelten van wegen speciale voorschriften uitvaardigen die verschillen van die welke in dit lid zijn vastgelegd.
 
-#### Artikel 13. Snelheid en afstand tussen voertuigen
+##### Artikel 13. Snelheid en afstand tussen voertuigen
 
 1. Elke bestuurder van een voertuig dient onder alle omstandigheden zijn voertuig dusdanig in zijn macht te hebben, dat hij in staat is de nodige voorzichtigheid te betrachten en hij te allen tijde in staat is alle vereiste handelingen te verrichten. Bij het regelen van de snelheid van zijn voertuig dient hij voortdurend te letten op de omstandigheden, in het bijzonder op de plaatselijke gesteldheid, de toestand van de weg, de staat waarin zijn voertuig en de lading zich bevinden, de weersomstandigheden en de verkeersdichtheid, ten einde zijn voertuig binnen zijn gezichtsveld in voorwaartse richting tot stilstand te kunnen brengen, voor enig voorzienbaar obstakel. Hij dient zijn vaart te verminderen en, indien nodig, te stoppen zo vaak de omstandigheden dit eisen, in het bijzonder wanneer het zicht slecht is.
 
@@ -324,7 +346,7 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in klein
 
 - (b). kunnen de Verdragsluitende Partijen en onderdelen daarvan andere gewichten en afmetingen voorschrijven dan die welke in dit lid zijn genoemd met betrekking tot de daarin beschreven eigenschappen van voertuigen.
 
-#### Artikel 14. Algemene eisen betreffende het manoeuvreren met voertuigen
+##### Artikel 14. Algemene eisen betreffende het manoeuvreren met voertuigen
 
 1. Elke bestuurder die een handeling met zijn voertuig wenst uit te voeren zoals het verlaten van een rij geparkeerde voertuigen of het zich er in begeven, het zich naar rechts of naar links op de rijbaan begeven, of het links of rechts een andere weg inslaan, of een aan de weg gelegen perceel binnenrijden, dient zich er eerst van te overtuigen dat hij zulks kan doen zonder het risico, gevaar op te leveren voor andere weggebruikers die vóór of achter hem rijden, of die op het punt staan hem te passeren, waarbij hij rekening dient te houden met hun plaats, richting en snelheid.
 
@@ -332,11 +354,11 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat kudden in klein
 
 3. Alvorens te keren of af te slaan of met een handeling te beginnen die een zijwaartse verplaatsing inhoudt, dient de bestuurder zijn bedoelingen tijdig op duidelijk wijze kenbaar te maken met behulp van de richtingaanwijzer of -aanwijzers van zijn voertuig, of bij gebreke hiervan door, indien mogelijk, het juiste teken te geven met zijn hand. De waarschuwing door middel van de richtingaanwijzer of -aanwijzers dient gedurende de gehele manoeuvre te worden gegeven en te worden beëindigd zodra de manoeuvre is voltooid.
 
-#### Artikel 15. Bijzondere voorschriften met betrekking tot voertuigen van openbare lijndiensten
+##### Artikel 15. Bijzondere voorschriften met betrekking tot voertuigen van openbare lijndiensten
 
 Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat binnen de bebouwde kom, ten einde het verkeer met voertuigen van openbare lijndiensten te vergemakkelijken, de bestuurders van andere voertuigen, behoudens de bepalingen van artikel 17, eerste lid, van dit Verdrag, hun vaart behoren te verminderen en, zo nodig, te stoppen, ten einde de voertuigen van het openbaar vervoer gelegenheid te geven de handelingen te verrichten die nodig zijn om van de als zodanig aangegeven halteplaatsen weg te rijden. De aldus door de Verdragsluitende Partijen of onderdelen daarvan uitgevaardigde bepalingen mogen op geen enkele wijze van invloed zijn op de verplichting van bestuurders van voertuigen voor openbaar vervoer om, nadat zij door middel van hun richtingaanwijzers hebben kenbaar gemaakt dat zij van plan zijn weg te rijden, de noodzakelijke voorzorgsmaatregelen te treffen om de kans op ongelukken te vermijden.
 
-#### Artikel 16. Verandering van richting
+##### Artikel 16. Verandering van richting
 
 1. Alvorens rechts of links af te slaan om een andere weg in te slaan of een aan de weg gelegen perceel in te rijden, dient een bestuurder, onverminderd de bepalingen van artikel 7, eerste lid, en van artikel 14 van dit Verdrag,
 
@@ -346,13 +368,13 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat binnen de bebou
 
 2. Terwijl de bestuurder van richting verandert dient hij, onverminderd de bepalingen van artikel 21 van dit Verdrag met betrekking tot voetgangers, alle weggebruikers op de rijbaan, of op andere delen van dezelfde weg die hij op het punt staat te verlaten, te laten passeren.
 
-#### Artikel 17. Vaart minderen
+##### Artikel 17. Vaart minderen
 
 1. Het is de bestuurder van een voertuig verboden plotseling te remmen tenzij het uit veiligheidsoverwegingen noodzakelijk is zulks te doen.
 
 2. Elke bestuurder die van plan is in aanzienlijke mate vaart te verminderen, dient er zich eerst van te overtuigen dat hij zulks kan doen zonder gevaar of buitensporig ongemak voor andere bestuurders, behalve in die gevallen waar hij vaart moet verminderen uit hoofde van onmiddellijk dreigend gevaar. Bovendien dient hij zijn bedoeling duidelijk en tijdig kenbaar te maken door het daartoe geschikte gebaar met zijn hand te maken, tenzij hij er zich eerst van heeft overtuigd dat geen ander voertuig achter hem rijdt, of dat een achter hem rijdend voertuig ver verwijderd is. Deze bepaling is echter niet van toepassing wanneer het minderen van vaart wordt aangegeven door middel van de stoplichten van het betrokken voertuig, zoals bedoeld in Bijlage 5, paragraaf 31, van dit Verdrag.
 
-#### Artikel 18. Kruisingen en de verplichting voorrang te verlenen
+##### Artikel 18. Kruisingen en de verplichting voorrang te verlenen
 
 1. Elke bestuurder die een kruising nadert dient zoveel extra voorzichtigheid in acht te nemen als de situatie ter plaatse vereist. Bestuurders van voertuigen dienen met name niet harder te rijden dan met een snelheid die het hun mogelijk maakt te stoppen, ten einde voertuigen die voorrang hebben te laten passeren.
 
@@ -372,7 +394,7 @@ Het verdient aanbeveling dat de nationale wetgeving bepaalt, dat binnen de bebou
 
 7. Bestuurders van voertuigen die niet op rails rijden dienen voorrang te verlenen aan voertuigen die wel op rails rijden.
 
-#### Artikel 19. Overwegen
+##### Artikel 19. Overwegen
 
 Weggebruikers dienen extra voorzichtig te zijn bij het naderen en oversteken van overwegen. Met name:
 
@@ -386,7 +408,7 @@ Weggebruikers dienen extra voorzichtig te zijn bij het naderen en oversteken van
 
 - (e). Een weggebruiker mag niet talmen bij het oversteken van een overweg; indien een voertuig is gedwongen daar te stoppen, moet de bestuurder trachten het van de rails te verwijderen en, indien hij hiertoe niet bij machte is, moet hij onmiddellijk al het mogelijke doen opdat de bestuurders van op rails rijdende voertuigen tijdig voor dit gevaar gewaarschuwd worden.
 
-#### Artikel 20. Voorschriften voor voetgangers
+##### Artikel 20. Voorschriften voor voetgangers
 
 1. Het staat de Verdragsluitende Partijen of onderdelen daarvan vrij de bepalingen van dit artikel al of niet te doen naleven behalve in die gevallen waarin voetgangersverkeer op de rijbaan gevaarlijk zou kunnen zijn of het rijdende verkeer zou hinderen.
 
@@ -418,7 +440,7 @@ Weggebruikers dienen extra voorzichtig te zijn bij het naderen en oversteken van
 
 7. De Verdragsluitende Partijen of onderdelen daarvan mogen voetgangers die de rijbaan oversteken echter strengere voorschriften opleggen.
 
-#### Artikel 21. Het gedrag van bestuurders tegenover voetgangers
+##### Artikel 21. Het gedrag van bestuurders tegenover voetgangers
 
 1. Elke bestuurder dient zich te onthouden van gedragingen waardoor voetgangers in gevaar kunnen worden gebracht.
 
@@ -436,7 +458,7 @@ bestuurders te verbieden het oversteken van voetgangers te beletten of te verhin
 
 4. Bestuurders die van plan zijn een voertuig voor openbaar vervoer bij een als zodanig aangegeven halte in te halen aan de zijde overeenkomstig de rijrichting, dienen hun vaart te verminderen en zo nodig te stoppen, ten einde passagiers in staat te stellen in of uit dat voertuig te stappen.
 
-#### Artikel 22. Vluchtheuvels op de rijbaan
+##### Artikel 22. Vluchtheuvels op de rijbaan
 
 Onverminderd de bepalingen van artikel 10 van dit Verdrag mag een bestuurder vluchtheuvels, verkeerszuilen en andere installaties die op de rijbaan zijn aangebracht, links of rechts passeren, behalve in de volgende gevallen:
 
@@ -444,7 +466,7 @@ Onverminderd de bepalingen van artikel 10 van dit Verdrag mag een bestuurder vlu
 
 - (b). wanneer de vluchtheuvel, de zuil of de installatie is aangebracht op de as van een rijbaan voor verkeer in beide richtingen; in dit geval dient de bestuurder de vluchtheuvel, de zuil of de installatie te passeren aan de zijde overeenkomstig de rijrichting.
 
-#### Artikel 23. Stilstaan en parkeren
+##### Artikel 23. Stilstaan en parkeren
 
 1. Buiten de bebouwde kom dienen stilstaande of geparkeerde voertuigen en stilstaande dieren, voor zover mogelijk, niet op de rijbaan te worden neergezet. Zowel binnen als buiten de bebouwde kom mogen zij evenmin worden neergezet op fietspaden, fietsstroken, busstroken, ruiterpaden, voetpaden, trottoirs of bermen die speciaal voor voetgangers zijn aangelegd, behoudens waar de nationale wetgeving zulks toestaat.
 
@@ -496,11 +518,11 @@ Onverminderd de bepalingen van artikel 10 van dit Verdrag mag een bestuurder vlu
 
 6. Niets in dit artikel mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten andere verbodsbepalingen ten aanzien van parkeren en stilstaan in te voeren of zou beletten specifieke bepalingen te maken voor het stilstaan en parkeren van fietsen en bromfietsen.
 
-#### Artikel 24. Het openen van deuren
+##### Artikel 24. Het openen van deuren
 
 Het is verboden de deur van een voertuig te openen, of deze open te laten staan, of uit een voertuig te stappen zonder zich er van verzekerd te hebben dat men zulks kan doen zonder gevaar voor andere weggebruikers.
 
-#### Artikel 25. Autosnelwegen en soortgelijke wegen
+##### Artikel 25. Autosnelwegen en soortgelijke wegen
 
 1. Op autosnelwegen en, indien zulks in de nationale wetgeving is bepaald, op de speciale op- en afritten van autosnelwegen:
 
@@ -518,7 +540,7 @@ Het is verboden de deur van een voertuig te openen, of deze open te laten staan,
 
 4. Voor de toepassing van het eerste, tweede en derde lid van dit artikel worden andere wegen die uitsluitend zijn bestemd voor verkeer met motorvoertuigen, die op de juiste wijze door verkeerstekens als zodanig zijn aangeduid, en die geen in- of uitritten hebben naar en van aan zo'n weg liggende percelen, als autosnelwegen behandeld.
 
-#### Artikel 25bis. Bijzondere regels betreffende tunnels aangegeven door middel van speciale verkeerstekens
+##### Artikel 25bis. Bijzondere regels betreffende tunnels aangegeven door middel van speciale verkeerstekens
 
 In tunnels die zijn aangegeven door speciale verkeerstekens, gelden de volgende regels:
 
@@ -534,13 +556,13 @@ In tunnels die zijn aangegeven door speciale verkeerstekens, gelden de volgende 
 
 - 4. Wanneer een voertuig langere tijd stilstaat, moet de bestuurder de motor afzetten.
 
-#### Artikel 26. Speciale regels van toepassing op optochten en invaliden
+##### Artikel 26. Speciale regels van toepassing op optochten en invaliden
 
 1. Het is weggebruikers verboden legercolonnes, files van schoolkinderen onder geleide of andere optochten, te doorsnijden.
 
 2. Invaliden rijdende in invalidenwagens, die zij zelf voortbewegen, of die stapvoets rijden, mogen trottoirs, voetpaden aan de kant van de weg en geschikte bermen gebruiken.
 
-#### Artikel 27. Speciale regels van toepassing op fietsers, bromfietsers en berijders van motorfietsen
+##### Artikel 27. Speciale regels van toepassing op fietsers, bromfietsers en berijders van motorfietsen
 
 1. Niettegenstaande de bepalingen van artikel 10, derde lid, van dit Verdrag, staat het de Verdragsluitende Partijen of onderdelen daarvan vrij fietsers niet te verbieden met twee of meer naast elkaar te rijden.
 
@@ -550,7 +572,7 @@ In tunnels die zijn aangegeven door speciale verkeerstekens, gelden de volgende 
 
 4. Daar waar fietspaden of fietsstroken bestaan, kunnen de Verdragsluitende Partijen of onderdelen daarvan fietsers verbieden de rest van de rijbaan te gebruiken. In dezelfde omstandigheden kunnen zij bromfietsen toestaan het fietspad of de fietsstrook te gebruiken en, indien zij zulks raadzaam achten, hun verbieden de rest van de rijbaan te gebruiken. De nationale wetgeving bepaalt onder welke voorwaarden andere weggebruikers de fietsstrook of het fietspad mogen gebruiken of mogen oversteken, waarbij te allen tijde de veiligheid van de fietsers moet worden gewaarborgd.
 
-#### Artikel 28. Waarschuwingen door middel van geluids- of lichtsignalen
+##### Artikel 28. Waarschuwingen door middel van geluids- of lichtsignalen
 
 1. Apparaten die waarschuwen door middel van geluid mogen alleen worden gebruikt:
 
@@ -564,13 +586,13 @@ De voortbrenging van geluid door deze apparaten mag niet langer duren dan noodza
 
 3. De Verdragsluitende Partijen of onderdelen daarvan kunnen het gebruik van waarschuwingen door middel van lichtsignalen in de bebouwde kom ook toestaan voor het doel aangegeven in het eerste lid, sub **(b)**, van dit artikel.
 
-#### Artikel 29. Voertuigen die zich op rails voortbewegen
+##### Artikel 29. Voertuigen die zich op rails voortbewegen
 
 1. Daar waar een spoor- of tramweg gebruik maakt van een rijbaan dient elke weggebruiker bij het naderen van een tram of van een ander voertuig dat zich op rails voortbeweegt, de spoor- of trambaan zo snel mogelijk te verlaten ten einde het voertuig dat zich op rails voortbeweegt te laten passeren.
 
 2. De Verdragsluitende Partijen of onderdelen daarvan kunnen, voor het verkeer van op rails rijdende voertuigen op de weg en voor het passeren en inhalen van dergelijke voertuigen, speciale regels aannemen die verschillen van die welke in dit hoofdstuk zijn vastgelegd. De Verdragsluitende Partijen of onderdelen daarvan kunnen echter geen bepalingen vaststellen die in strijd zijn met die van artikel 18, zevende lid, van dit Verdrag.
 
-#### Artikel 30. Het laden van voertuigen
+##### Artikel 30. Het laden van voertuigen
 
 1. Indien een maximum toegestaan massa voor een voertuig is vastgesteld, mag het totale massa van het voertuig het maximum toegestane massa nooit overschrijden.
 
@@ -594,11 +616,11 @@ De voortbrenging van geluid door deze apparaten mag niet langer duren dan noodza
 
 5. Niets in het vierde lid van dit artikel mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten, uitstekende ladingen, als bedoeld in genoemd vierde lid, te verbieden, te beperken of te onderwerpen aan speciale vergunningen.
 
-#### Artikel 30bis. Het vervoer van passagiers
+##### Artikel 30bis. Het vervoer van passagiers
 
 Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze dat daardoor het besturen wordt bemoeilijkt of het zicht van de bestuurder wordt belemmerd.
 
-#### Artikel 31. Gedrag in geval van een ongeval
+##### Artikel 31. Gedrag in geval van een ongeval
 
 1. Onverminderd de bepalingen van de nationale wetgeving met betrekking tot de verplichting gewonden te helpen, dient elke bestuurder of elke andere weggebruiker die bij een ongeluk betrokken raakt:
 
@@ -612,7 +634,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 2. De Verdragsluitende Partijen of onderdelen daarvan kunnen overeenkomstig hun nationale wetgeving, zich er van onthouden de bepaling van het eerste lid, onder **(d)**, van dit artikel toe te passen in gevallen waarin geen ernstig letsel is veroorzaakt en waarin geen van de betrokken personen verzoekt dat de politie wordt gewaarschuwd.
 
-#### Artikel 32. Regels voor het voeren van verlichting
+##### Artikel 32. Regels voor het voeren van verlichting
 
 1. Tussen avondschemering en dageraad en in alle andere omstandigheden gedurende welke het zicht onvoldoende is vanwege bijvoorbeeld mist, sneeuwval of zware regen, dienen de volgende lichten op een rijdend voertuig te zijn ontstoken:
 
@@ -678,7 +700,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 15. Onder geen enkele omstandigheid mag een voertuig rood licht aan de voorzijde of wit licht aan de achterzijde tonen, behoudens de in [bijlage 5, paragraaf 61](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&hoofdstuk=IV&z=2025-02-09&g=2025-02-09), genoemde uitzonderingen. Het is niet toegestaan een voertuig zodanig aan te passen of hieraan zodanig lichten toe te voegen dat dit strijdigheid met deze bepaling zou opleveren.
 
-#### Artikel 33. Verlichtingsregels voor andere dan de in Artikel 32 genoemde voertuigen en voor bepaalde weggebruikers
+##### Artikel 33. Verlichtingsregels voor andere dan de in Artikel 32 genoemde voertuigen en voor bepaalde weggebruikers
 
 1. Elk voertuig of samenstel van voertuigen waarop de bepalingen van artikel 32 van dit Verdrag niet van toepassing zijn, en dat zich op een weg bevindt tussen de avondschemering en de dageraad, dient ten minste één wit of selectief geel licht aan de voorzijde te voeren en ten minste één rood licht aan de achterzijde. Indien aan de voor- of achterzijde slechts één licht brandt, dient dit licht te zijn geplaatst op de lengte-as van het voertuig ofwel aan de zijde tegenovergesteld aan die overeenkomstig de rijrichting.
 
@@ -694,7 +716,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 - b. De lichten bedoeld in letter a van dit lid zijn evenwel niet vereist binnen een bebouwde kom die op voldoende wijze is verlicht.
 
-#### Artikel 34. Uitzonderingen
+##### Artikel 34. Uitzonderingen
 
 1. Wanneer een weggebruiker door de bijzondere licht- en geluidssignalen van een voorrangsvoertuig voor de nadering van dit voertuig wordt gewaarschuwd dient hij voldoende ruimte op de rijbaan vrij te laten opdat dit voertuig kan doorrijden, en hij dient, indien nodig, te stoppen.
 
@@ -706,7 +728,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 ### Hoofdstuk III. VOORWAARDEN VOOR DE TOELATING VAN MOTORVOERTUIGEN EN AANHANGWAGENS TOT HET INTERNATIONALE VERKEER
 
-#### Artikel 35. Inschrijving
+##### Artikel 35. Inschrijving
 
 - (a). Ten einde de voorrechten van dit Verdrag te kunnen genieten, dient elk motorvoertuig in het internationale verkeer en elke aanhangwagen, met uitzondering van een lichte aanhangwagen, die aan een motorvoertuig is gekoppeld, door een Verdragsluitende Partij of een onderdeel daarvan te worden ingeschreven, en dient de bestuurder van zo’n motorvoertuig een geldig bewijs van een dergelijke inschrijving bij zich te dragen, dat ofwel is uitgegeven door een bevoegde autoriteit van zo’n Verdragsluitende Partij of onderdeel daarvan, dan wel door een vereniging namens en gemachtigd door deze Verdragsluitende Partij of onderdeel daarvan. Dit bewijs, aangeduid als kentekenbewijs, dient ten minste de volgende gegevens te bevatten: De gegevens die op het kentekenbewijs zijn ingevuld dienen ofwel met gewone (Latijnse) drukletters of in lopend schrift (Engels cursief) te zijn geschreven, dan wel op een van deze wijzen te worden herhaald.
 
@@ -744,7 +766,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 4. Aanbevolen wordt dat de Verdragsluitende Partijen, indien zij zulks nog niet hebben gedaan, een speciale dienst oprichten die verantwoordelijk is voor de inschrijving, landelijk dan wel regionaal, van alle motorvoertuigen die in gebruik werden genomen, alsmede een centraal inschrijvingsregister, waarin voor elk voertuig de gegevens die op het kentekenbewijs zijn ingevuld, zijn opgetekend.
 
-#### Artikel 36. Het kenteken
+##### Artikel 36. Het kenteken
 
 1. Op elk motorvoertuig in het internationale verkeer dient aan de voor- en achterzijde het kenteken te zijn aangebracht; op motorfietsen echter behoeft het kenteken alleen aan de achterzijde te zijn aangebracht.
 
@@ -752,7 +774,7 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 3. De samenstelling van het kenteken als bedoeld in dit artikel, en de wijze waarop het dient te zijn aangebracht dienen te voldoen aan de bepalingen van Bijlage 2 bij dit Verdrag.
 
-#### Artikel 37. Het onderscheidingsteken van de Staat waarin het voertuig is ingeschreven
+##### Artikel 37. Het onderscheidingsteken van de Staat waarin het voertuig is ingeschreven
 
 - a. Op elk motorvoertuig in het internationale verkeer dient aan de achterzijde, behalve zijn kenteken, het onderscheidingsteken te zijn aangebracht van de Staat waarin het is ingeschreven.
 
@@ -764,11 +786,11 @@ Passagiers mogen niet worden vervoerd in zodanige aantallen of op zodanige wijze
 
 3. De samenstelling van het onderscheidingsteken en de wijze waarop het dient te worden bevestigd of in de kentekenplaat dient te worden opgenomen, dienen te voldoen aan de eisen vervat in Bijlagen 2 en 3 van dit Verdrag.
 
-#### Artikel 38. Identificatiemerken
+##### Artikel 38. Identificatiemerken
 
 Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zijn voorzien van de identificatiemerken bedoeld in Bijlage 4 bij dit Verdrag.
 
-#### Artikel 39. Technische eisen en inspectie van voertuigen
+##### Artikel 39. Technische eisen en inspectie van voertuigen
 
 1. Elk motorvoertuig, elke aanhangwagen en elk samenstel van voertuigen in het internationale verkeer dient te voldoen aan de bepalingen van [Bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&bijlage=5&z=2025-02-09&g=2025-02-09) bij dit Verdrag. Bovendien dienen zij rijtechnisch in goede staat van onderhoud te verkeren. Wanneer deze voertuigen worden voorzien van systemen, onderdelen en uitrustingsstukken die in overeenstemming zijn met de eisen voor constructie, montage en gebruik conform de technische bepalingen van internationale juridische instrumenten bedoeld in [artikel 8, lid 5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0003507&hoofdstuk=II&artikel=8&z=2025-02-09&g=2025-02-09), van dit Verdrag, worden zij geacht in overeenstemming te zijn met Bijlage 5.
 
@@ -780,7 +802,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 3. De nationale wetgeving breidt de bepalingen van het tweede lid zoveel mogelijk uit tot de overige categorieën voertuigen.
 
-#### Artikel 40. Overgangsbepalingen
+##### Artikel 40. Overgangsbepalingen
 
 1. Gerekend van het tijdstip waarop dit Verdrag overeenkomstig artikel 47, eerste lid, van kracht wordt kunnen aanhangwagens in het internationale verkeer, ongeacht hun maximum toegestaan massa, gedurende een periode van tien jaar de voorrechten van de bepalingen van dit Verdrag genieten, zelfs wanneer zij niet zijn ingeschreven.
 
@@ -788,7 +810,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 ### Hoofdstuk IV. BESTUURDERS VAN MOTORVOERTUIGEN
 
-#### Artikel 41. Rijbewijzen
+##### Artikel 41. Rijbewijzen
 
 - a. Elke bestuurder van een motorvoertuig dient in het bezit te zijn van een rijbewijs;
 
@@ -826,7 +848,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 - b. de geldigheid te erkennen van rijbewijzen die zijn afgegeven aan bestuurders die, ten tijde van deze afgifte, hun normale woonplaats niet op het grondgebied hadden waar het rijbewijs werd afgegeven of die sinds deze afgifte naar een ander grondgebied zijn verhuisd.
 
-#### Artikel 42. De schorsing van de geldigheid van rijbewijzen
+##### Artikel 42. De schorsing van de geldigheid van rijbewijzen
 
 1. De Verdragsluitende Partijen of onderdelen daarvan kunnen een bestuurder het recht ontzeggen van zijn nationale of internationale rijbewijs op hun grondgebied gebruik te maken, indien hij op hun grondgebied inbreuk heeft gemaakt op hun voorschriften, waardoor ingevolge hun wetgeving zijn rijbewijs kan worden ingetrokken. In een zodanig geval kan de bevoegde autoriteit van de Verdragsluitende Partij of een onderdeel daarvan die het recht tot gebruik maken van het rijbewijs ontzegt:
 
@@ -842,7 +864,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 3. Niets in dit Verdrag mag zo worden uitgelegd dat dit de Verdragsluitende Partijen of onderdelen daarvan zou beletten een bestuurder, die een nationaal of internationaal rijbewijs bezit, ervan te weerhouden een voertuig te besturen, wanneer het duidelijk waarneembaar of aangetoond is dat hij in zodanige toestand verkeert dat hij niet in staat is op veilige wijze te rijden, of indien het recht om te besturen hem is ontzegd in de Staat waar hij zijn normale woonplaats heeft.
 
-#### Artikel 43. Overgangsbepalingen
+##### Artikel 43. Overgangsbepalingen
 
 1. De Verdragsluitende Partijen geven nationale rijbewijzen af in overeenstemming met de nieuwe bepalingen van Bijlage 6 uiterlijk 5 jaar na de inwerkingtreding ervan. Nationale rijbewijzen die vóór het verstrijken van dit tijdvak zijn afgegeven in overeenstemming met eerdere bepalingen van artikel 41, artikel 43 en Bijlage 6 bij dit Verdrag, worden erkend zolang deze geldig zijn.
 
@@ -850,7 +872,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 ### Hoofdstuk V. VOORWAARDEN VOOR DE TOELATING VAN FIETSEN EN BROMFIETSEN TOT HET INTERNATIONALE VERKEER
 
-#### Artikel 44
+##### Artikel 44
 
 1. In het internationale verkeer dienen fietsen zonder motor:
 
@@ -876,7 +898,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 ### Hoofdstuk VI. SLOTBEPALINGEN
 
-#### Artikel 45
+##### Artikel 45
 
 1. Dit Verdrag is tot 31 december 1969 in het hoofdkwartier der Verenigde Naties te New York opengesteld voor ondertekening door alle Lid-Staten van de Verenigde Naties, van een van de gespecialiseerde organisaties, of van de Internationale Organisatie voor Atoomenergie of door de Staten die Partij zijn bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), alsmede door elke andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd Partij te worden bij dit Verdrag.
 
@@ -886,7 +908,7 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 4. Elke Staat stelt bij de ondertekening van dit Verdrag of bij de nederlegging van de akte van bekrachtiging of van toetreding, de Secretaris-Generaal in kennis van het onderscheidingsteken dat hij heeft uitgekozen om in het internationale verkeer te worden getoond door de voertuigen die door de betrokken Staat zijn ingeschreven, overeenkomstig Bijlage 3 bij dit Verdrag. Door middel van een kennisgeving aan de Secretaris-Generaal gericht kan elke Staat het op een vroeger tijdstip uitgekozen onderscheidingsteken veranderen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Elke Staat kan bij de ondertekening of de bekrachtiging van dit Verdrag, of bij toetreding tot het Verdrag, alsook te allen tijde daarna, door middel van een aan de Secretaris-Generaal gerichte kennisgeving, verklaren dat het Verdrag van toepassing wordt voor een of meer der gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is. Het Verdrag wordt van toepassing voor het gebied of de gebieden genoemd in de kennisgeving dertig dagen na ontvangst van de kennisgeving door de Secretaris-Generaal dan wel op de datum waarop het Verdrag in werking treedt in de Staat die de kennisgeving heeft afgelegd, welke van beide data later valt.
 
@@ -894,17 +916,17 @@ Elk motorvoertuig en elke aanhangwagen in het internationale verkeer dient te zi
 
 3. Elke Staat die een verklaring aflegt als bedoeld in het eerste lid van dit artikel, dient de Secretaris-Generaal in kennis te stellen van het onderscheidingsteken of de onderscheidingstekens die door deze Staat zijn uitgekozen om in het internationale verkeer te worden aangebracht op voertuigen die in het betrokken gebied of in de betrokken gebieden zijn ingeschreven, overeenkomstig Bijlage 3 bij dit Verdrag. Door middel van een aan de Secretaris-Generaal gerichte kennisgeving kan elke Staat het op een vroeger tijdstip uitgekozen onderscheidingsteken veranderen.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum van nederlegging van de vijftiende akte van bekrachtiging of toetreding.
 
 2. Voor elke Staat die dit Verdrag bekrachtigt of er toe toetreedt nadat de vijftiende akte van bekrachtiging of van toetreding is nedergelegd, treedt het Verdrag in werking twaalf maanden na de datum waarop deze Staat zijn akte van bekrachtiging of van toetreding heeft nedergelegd.
 
-#### Artikel 48
+##### Artikel 48
 
 Bij zijn inwerkingtreding beëindigt en vervangt dit Verdrag tussen de Verdragsluitende Partijen het Internationale Verdrag betreffende het verkeer met Motorrijtuigen en het Internationale Verdrag betreffende wegverkeer, beide getekend te Parijs op 24 april 1926, het Verdrag ter regeling van het Inter-Amerikaanse gemotoriseerd verkeer, opengesteld voor ondertekening te Washington op 15 december 1943, en het [Verdrag nopens het Wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0005415), opengesteld voor ondertekening te Genève op 19 september 1949.
 
-#### Artikel 49
+##### Artikel 49
 
 1. Wanneer dit Verdrag een jaar van kracht is geweest kan elke Verdragsluitende Partij een of meer wijzigingen in dit Verdrag voorstellen. De tekst van de wijzigingsvoorstellen, vergezeld van een memorie van toelichting, wordt toegezonden aan de Secretaris-Generaal, die deze ter kennis van alle Verdragsluitende Partijen brengt. De Verdragsluitende Partijen hebben de gelegenheid hem, binnen een tijdvak van twaalf maanden te rekenen van de datum van die kennisgeving, mede te delen of zij: **(a)** de wijziging aanvaarden; of **(b)** de wijziging verwerpen; of **(c)** wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal doet de tekst van de voorgestelde wijziging tevens toekomen aan alle andere Staten, als bedoeld in Artikel 45, eerste lid, van dit Verdrag.
 
@@ -922,23 +944,23 @@ Bij zijn inwerkingtreding beëindigt en vervangt dit Verdrag tussen de Verdragsl
 
 6. Indien de voorgestelde wijziging niet wordt geacht te zijn aanvaard overeenkomstig het tweede lid van dit artikel, en indien aan de in het derde lid van dit artikel voorgeschreven voorwaarden met betrekking tot het bijeenroepen van een conferentie niet is voldaan, wordt de voorgestelde wijziging geacht te zijn verworpen.
 
-#### Artikel 50
+##### Artikel 50
 
 Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 51
+##### Artikel 51
 
 Dit Verdrag houdt op van kracht te zijn indien het aantal Verdragsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder is dan vijf.
 
-#### Artikel 52
+##### Artikel 52
 
 Elk geschil tussen twee of meer Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag, welk geschil de Partijen niet door onderhandelingen of door andere middelen tot regeling van een geschil kunnen oplossen, kan, op verzoek van een van de betrokken Verdragsluitende Partijen, bij het Internationale Gerechtshof ter beslissing aanhangig worden gemaakt.
 
-#### Artikel 53
+##### Artikel 53
 
 Niets in dit Verdrag mag zo worden uitgelegd dat een Verdragsluitende Partij daardoor zou worden belet de maatregelen te nemen die deze Partij noodzakelijk acht voor haar binnenlandse of buitenlandse veiligheid en die verenigbaar zijn met de bepalingen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), en beperkt blijven tot de vereisten der gegeven omstandigheden.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Elke Staat kan bij de ondertekening van dit Verdrag of bij de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren dat hij zich niet gebonden acht door artikel 52 van dit Verdrag. Andere Verdragsluitende Partijen zijn niet gebonden door artikel 52 met betrekking tot een Verdragsluitende Partij die een dergelijke verklaring heeft afgelegd.
 
@@ -960,7 +982,7 @@ Door middel van een aan de Secretaris-Generaal gerichte kennisgeving kan elke St
 
 - (b). wijzigt deze bepalingen in dezelfde mate voor de andere Verdragsluitende Partijen ten aanzien van hun betrekkingen met de Verdragsluitende Partij die het voorbehoud heeft gemaakt.
 
-#### Artikel 55
+##### Artikel 55
 
 Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 49 en 54 van dit Verdrag, stelt de Secretaris-Generaal alle Staten, bedoeld in artikel 45, eerste lid, in kennis van:
 
@@ -976,7 +998,7 @@ Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 
 
 - (f). de beëindiging van dit Verdrag ingevolge artikel 51.
 
-#### Artikel 56
+##### Artikel 56
 
 De oorspronkelijke tekst van dit Verdrag, gedaan in één enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle vijf teksten gelijkelijk authentiek, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten bedoeld in artikel 45, eerste lid van dit Verdrag.
 
@@ -984,7 +1006,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized by t
 
 DONE at Vienna this eighth day of November, one thousand nine hundred and sixty-eight.
 
-#### Artikel 34bis. Geautomatiseerd rijden
+##### Artikel 34bis. Geautomatiseerd rijden
 
 Aan de eis dat elk rijdend voertuig of elk rijdend samenstel van voertuigen een bestuurder dient te hebben, wordt geacht te zijn voldaan wanneer het voertuig gebruikmaakt van een geautomatiseerd rĳsysteem dat voldoet aan:
 

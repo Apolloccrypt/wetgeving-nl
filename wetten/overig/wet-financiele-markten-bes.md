@@ -1,14 +1,41 @@
 ---
-title: "Wet financiële markten BES"
+title: "Wet van 1 december 2011, houdende regels met betrekking tot de financiële markten in de openbare lichamen Bonaire, Sint Eustatius en Saba en het toezicht op die markten (Wet financiële markten BES)"
 identifier: "BWBR0030883"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030883"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030883"
+soort: "wet-BES"
+stam_id: "11559913"
+version_id: "19057012"
+internal_id: "C27221621"
+label_id: "11536564"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030883/2023-07-01/0"
+intitule_bron: "Stb.2011-612"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-01"
+intitule_published: "2011-12-20"
+intitule_in_force: "2012-06-12"
+intitule_status: "goed"
+original_publication: "Stb.2011-612"
+original_signed_date: "2011-12-01"
+original_published_date: "2011-12-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "32784"
+original_url_id: "stb-2011-612"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0030883&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0030883&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet financiële markten BES"
+signed_date: "2011-12-01"
+entry_into_force: "2012-07-01"
 ---
-
-# Wet financiële markten BES
+# Wet van 1 december 2011, houdende regels met betrekking tot de financiële markten in de openbare lichamen Bonaire, Sint Eustatius en Saba en het toezicht op die markten (Wet financiële markten BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. **Inleidende bepalingen**
 
-#### Artikel 1:1. (begripsbepalingen)
+##### Artikel 1:1. (begripsbepalingen)
 
 In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder:
 
@@ -210,11 +237,11 @@ In deze wet en de daarop berustende bepalingen wordt, tenzij anders bepaald, ver
 
 - **zetel:** plaats waar een onderneming volgens haar statuten of reglementen is gevestigd dan wel, indien zij geen rechtspersoon is, de plaats waar de onderneming haar hoofdvestiging heeft.
 
-#### Artikel 1:2. (toepassingsbereik)
+##### Artikel 1:2. (toepassingsbereik)
 
 Deze wet is van toepassing in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 1:3. (uitzonderingen)
+##### Artikel 1:3. (uitzonderingen)
 
 1. Deze wet is niet van toepassing op de uitvoering van socialezekerheidsregelingen en zorgverzekeringen onder verantwoordelijkheid van Onze Minister van Sociale Zaken en Werkgelegenheid of van Onze Minister van Volksgezondheid, Welzijn en Sport.
 
@@ -224,13 +251,13 @@ Deze wet is van toepassing in Bonaire, Sint Eustatius en Saba.
 
 4. Bij algemene maatregel van bestuur kunnen categorieën financiële ondernemingen worden aangewezen waarop in bij of krachtens die maatregel te bepalen gevallen deze wet geheel of gedeeltelijk niet van toepassing is.
 
-#### Artikel 1:4. (rechtsgeldigheid privaatrechtelijke rechtshandelingen)
+##### Artikel 1:4. (rechtsgeldigheid privaatrechtelijke rechtshandelingen)
 
 De rechtsgeldigheid van een privaatrechtelijke rechtshandeling, verricht in strijd met het bij of krachtens deze wet bepaalde, is niet uit dien hoofde aantastbaar, behoudens voor zover in deze wet anders is bepaald.
 
 #### § 2. **De toezichtautoriteiten**
 
-#### Artikel 1:5. (taakstelling de Nederlandsche Bank)
+##### Artikel 1:5. (taakstelling de Nederlandsche Bank)
 
 1. Prudentieel toezicht is gericht op de soliditeit van financiële ondernemingen en het bijdragen aan de stabiliteit van de financiële sector.
 
@@ -238,7 +265,7 @@ De rechtsgeldigheid van een privaatrechtelijke rechtshandeling, verricht in stri
 
 3. De Nederlandsche Bank heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:6&z=2023-07-01&g=2023-07-01), aan de Autoriteit Financiële Markten opgedragen gedragstoezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde. Tevens heeft zij tot taak toezicht uit te oefenen op de naleving van de bij of krachtens de [artikelen 2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2023-07-01&g=2023-07-01) gestelde regels.
 
-#### Artikel 1:6. (taakstelling Autoriteit Financiële Markten)
+##### Artikel 1:6. (taakstelling Autoriteit Financiële Markten)
 
 1. Gedragstoezicht is gericht op ordelijke en transparante financiëlemarktprocessen, zuivere verhoudingen tussen marktpartijen en zorgvuldige behandeling van consumenten of cliënten.
 
@@ -246,7 +273,7 @@ De rechtsgeldigheid van een privaatrechtelijke rechtshandeling, verricht in stri
 
 3. De Autoriteit Financiële Markten heeft voorts tot taak te beslissen omtrent de toelating van de in [artikel 2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), genoemde financiële ondernemingen tot de financiële markten en, met uitzondering van het ingevolge [artikel 1:5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:5&z=2023-07-01&g=2023-07-01), aan de Nederlandsche Bank opgedragen prudentiële toezicht, ten aanzien van die ondernemingen toezicht uit te oefenen op de naleving van het bij of krachtens deze wet bepaalde.
 
-#### Artikel 1:7. (bevoegdheid inlichtingen te vorderen)
+##### Artikel 1:7. (bevoegdheid inlichtingen te vorderen)
 
 1. De toezichtautoriteit is bevoegd van een ieder inlichtingen te vorderen, voor zover dat redelijkerwijs nodig is voor:
 
@@ -258,15 +285,15 @@ De rechtsgeldigheid van een privaatrechtelijke rechtshandeling, verricht in stri
 
 3. Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.
 
-#### Artikel 1:8. (begroting, verantwoording en jaarverslag)
+##### Artikel 1:8. (begroting, verantwoording en jaarverslag)
 
 Vervallen
 
-#### Artikel 1:9. (zorgvuldige taakuitvoering)
+##### Artikel 1:9. (zorgvuldige taakuitvoering)
 
 Vervallen
 
-#### Artikel 1:10. (doorberekening toezichtkosten)
+##### Artikel 1:10. (doorberekening toezichtkosten)
 
 1. De aanvrager van een beschikking op grond van deze wet is de toezichtautoriteit voor het in behandeling nemen van zijn aanvraag een vergoeding verschuldigd van de met de behandeling van die aanvraag verband houdende kosten.
 
@@ -274,11 +301,11 @@ Vervallen
 
 3. Bij regeling van Onze Minister worden de tarieven vastgesteld ter vergoeding van de in het eerste en tweede lid bedoelde kosten. Bij de regeling kan worden bepaald dat vergoedingen als bedoeld in het eerste lid bij vooruitbetaling verschuldigd zijn.
 
-#### Artikel 1:11. (inlichtingenrecht van minister i.v.m. beleidsvoornemens)
+##### Artikel 1:11. (inlichtingenrecht van minister i.v.m. beleidsvoornemens)
 
 Vervallen
 
-#### Artikel 1:12. (onderzoek naar toereikendheid of uitvoering van de wet)
+##### Artikel 1:12. (onderzoek naar toereikendheid of uitvoering van de wet)
 
 1. De toezichtautoriteit verstrekt Onze Minister desgevraagd de gegevens en inlichtingen die nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de toezichtautoriteit deze wet uitvoert, met uitzondering van vertrouwelijke gegevens als bedoeld in [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), die:
 
@@ -292,11 +319,11 @@ Vervallen
 
 4. De [Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754) en de [Wet openbaarheid van bestuur BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028154), de [Wet Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372) en [titel 9.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.2) zijn niet van toepassing op gegevens die Onze Minister of een in zijn opdracht werkende derde uit hoofde van dit artikel onder zich heeft.
 
-#### Artikel 1:13. (taakverwaarlozing door toezichtautoriteit)
+##### Artikel 1:13. (taakverwaarlozing door toezichtautoriteit)
 
 Vervallen
 
-#### Artikel 1:13a. (aansprakelijkheidsbeperking toezichtautoriteiten)
+##### Artikel 1:13a. (aansprakelijkheidsbeperking toezichtautoriteiten)
 
 1. De Nederlandsche Bank, de leden van haar directie en raad van commissarissen en haar werknemers zijn niet aansprakelijk voor schade veroorzaakt door een handelen of nalaten in de uitoefening van haar op grond van een wettelijk voorschrift opgedragen taak of verleende bevoegdheid, tenzij de schade in belangrijke mate het gevolg is van een opzettelijk onbehoorlijke taakuitoefening of een opzettelijk onbehoorlijke uitoefening van bevoegdheden of in belangrijke mate te wijten is aan grove schuld.
 
@@ -304,7 +331,7 @@ Vervallen
 
 #### § 3. **Samenwerking tussen toezichthoudende instanties**
 
-#### Artikel 1:14. (advies bij vergunningverlening)
+##### Artikel 1:14. (advies bij vergunningverlening)
 
 1. Indien de Nederlandsche Bank in het kader van de behandeling van een aanvraag om vergunning dient te beoordelen of de aanvrager zal voldoen aan bij of krachtens de [artikelen 3:9, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2023-07-01&g=2023-07-01), [3:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2023-07-01&g=2023-07-01) of [3:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:12&z=2023-07-01&g=2023-07-01) gestelde regels, vraagt zij, alvorens op de aanvraag te beslissen, daarover advies aan de Autoriteit Financiële Markten.
 
@@ -314,11 +341,11 @@ Vervallen
 
 4. Indien de toezichtautoriteit die bevoegd is op de aanvraag te beslissen, overweegt van het in het derde lid bedoelde advies af te wijken, stelt zij de toezichtautoriteit die het advies heeft uitgebracht, in de gelegenheid om haar advies mondeling toe te lichten.
 
-#### Artikel 1:15. (advies over verklaring van geen bezwaar)
+##### Artikel 1:15. (advies over verklaring van geen bezwaar)
 
 De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid advies uit te brengen alvorens zij met betrekking tot een gekwalificeerde deelneming in een beleggingsinstelling of een vermogensbeheerder een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01) verleent. [Artikel 1:14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=3&artikel=1:14&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 1:16. (advies over bestuurlijke maatregelen)
+##### Artikel 1:16. (advies over bestuurlijke maatregelen)
 
 1. De toezichtautoriteit gaat niet over tot het treffen van een hierna genoemde maatregel, dan nadat zij de andere toezichtautoriteit in de gelegenheid heeft gesteld om daarover binnen een redelijke termijn haar zienswijze naar voren te brengen:
 
@@ -334,7 +361,7 @@ De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid 
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op het aanvragen van een faillissement op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917) of het aanvragen van de noodregeling op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 1:17. (bindende aanbeveling bij negatieve bestuurderstoets)
+##### Artikel 1:17. (bindende aanbeveling bij negatieve bestuurderstoets)
 
 1. Indien de toezichtautoriteit constateert dat een persoon die het beleid van een financiële onderneming waaraan door de andere toezichtautoriteit vergunning is of wordt verleend, bepaalt of mede bepaalt dan wel zal bepalen of mede bepalen, niet of niet meer voldoet aan de bij of krachtens [artikel 3:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2023-07-01&g=2023-07-01) of[3:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2023-07-01&g=2023-07-01) gestelde regels, kan zij de andere toezichtautoriteit een bindende aanbeveling doen voor een door die toezichtautoriteit te treffen maatregel, te geven oordeel of te nemen beslissing.
 
@@ -344,7 +371,7 @@ De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid 
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing ten aanzien van personen die deel uitmaken of zullen gaan uitmaken van een orgaan dat is belast met het toezicht op het beleid en de algemene gang van zaken binnen de financiële onderneming.
 
-#### Artikel 1:18. (samenwerking met andere toezichthoudende instanties)
+##### Artikel 1:18. (samenwerking met andere toezichthoudende instanties)
 
 1. De toezichtautoriteit werkt samen met de toezichthoudende instanties in de andere landen van het Koninkrijk, indien dat voor de vervulling van haar taak op grond van deze wet of voor de vervulling van de taak van die toezichthoudende instanties nodig is.
 
@@ -354,19 +381,19 @@ De Nederlandsche Bank stelt de Autoriteit Financiële Markten in de gelegenheid 
 
 4. Indien de toezichtautoriteit met een toezichthoudende instantie buiten het Koninkrijk een overeenkomst sluit met betrekking tot de uitwisseling van gegevens en inlichtingen, zendt zij onverwijld een afschrift van die overeenkomst aan Onze Minister.
 
-#### Artikel 1:19. (nadere regels betreffende samenwerking)
+##### Artikel 1:19. (nadere regels betreffende samenwerking)
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de samenwerking tussen de toezichtautoriteiten en de samenwerking met buitenlandse toezichthoudende instanties.
 
 #### § 4. **Geheimhoudingsplicht en vertrouwelijke gegevens**
 
-#### Artikel 1:20. (geheimhoudingsplicht)
+##### Artikel 1:20. (geheimhoudingsplicht)
 
 1. Het is een ieder die uit hoofde van de toepassing van deze wet of van een ingevolge deze wet genomen besluit enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet zijn verstrekt of verkregen of van een instantie of persoon als bedoeld in [artikel 1:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2023-07-01&g=2023-07-01) of [1:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:23&z=2023-07-01&g=2023-07-01) zijn ontvangen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of door deze wet wordt geëist.
 
 2. De toezichtautoriteit is, in afwijking van het eerste lid, bevoegd met gebruikmaking van vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van haar taak op grond van deze wet, mededelingen te doen, mits deze niet kunnen worden herleid tot afzonderlijke personen.
 
-#### Artikel 1:21. (gegevensuitwisseling met andere instanties)
+##### Artikel 1:21. (gegevensuitwisseling met andere instanties)
 
 1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan:
 
@@ -402,11 +429,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 6. Het eerste tot en met vijfde lid is van overeenkomstige toepassing op de uitwisseling van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste organisatieonderdelen van de toezichtautoriteit.
 
-#### Artikel 1:22. (gegevensuitwisseling met opsporingsinstanties)
+##### Artikel 1:22. (gegevensuitwisseling met opsporingsinstanties)
 
 De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan instanties die zijn belast met de uitoefening van strafvorderlijke bevoegdheden.
 
-#### Artikel 1:23. (bewindvoerder, curator en rechter-commissaris)
+##### Artikel 1:23. (bewindvoerder, curator en rechter-commissaris)
 
 1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan een op grond van de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917)of op grond van [hoofdstuk 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&z=2023-07-01&g=2023-07-01) benoemde of aangestelde rechter-commissaris, bewindvoerder of curator, voor zover die gegevens of inlichtingen dienstig zijn voor de uitoefening van diens taak.
 
@@ -416,7 +443,7 @@ De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wet
 
 4. Het eerste tot en met derde lid is van overeenkomstige toepassing op een naar het recht van het Europese deel van Nederland of het recht van Aruba, Curaçao of Sint Maarten benoemde of aangestelde rechter-commissaris, bewindvoerder of curator.
 
-#### Artikel 1:24. (monetaire autoriteiten, externe deskundigen e.a.)
+##### Artikel 1:24. (monetaire autoriteiten, externe deskundigen e.a.)
 
 1. De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), bevoegd vertrouwelijke gegevens of inlichtingen, verkregen bij de uitvoering van een haar op grond van deze wet opgedragen taak, te verstrekken aan:
 
@@ -428,17 +455,17 @@ De toezichtautoriteit is in afwijking van [artikel 1:20, eerste lid](https://wet
 
 2. [Artikel 1:21, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:21&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 1:25. (verklaringen in burgerlijke zaken)
+##### Artikel 1:25. (verklaringen in burgerlijke zaken)
 
 [Artikel 1:20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01), laat onverlet de toepasselijkheid van de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) die betrekking hebben op het als getuige of als partij in een comparitie van partijen dan wel als deskundige in burgerlijke zaken afleggen van een verklaring omtrent gegevens of inlichtingen, verkregen bij de vervulling van een op grond van deze wet opgedragen taak, voor zover het gaat om vertrouwelijke gegevens of inlichtingen omtrent een financiële onderneming die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.
 
 #### § 5. **Vrijstelling en ontheffing**
 
-#### Artikel 1:26. (vrijstelling)
+##### Artikel 1:26. (vrijstelling)
 
 Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende voorschriften, vrijstelling worden verleend van de bij of krachtens de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), [2:3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2023-07-01&g=2023-07-01), [3:1 tot en met 6:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2023-07-01&g=2023-07-01) en [8:1 tot en met 8:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&artikel=8:1&z=2023-07-01&g=2023-07-01) gestelde regels, indien de belangen die deze wet beoogt te beschermen, zich daartegen niet verzetten.
 
-#### Artikel 1:27. (ontheffing)
+##### Artikel 1:27. (ontheffing)
 
 1. De toezichtautoriteit kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van:
 
@@ -456,7 +483,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 #### § 1. **Vergunningen**
 
-#### Artikel 2:1. (vergunning van de Nederlandsche Bank)
+##### Artikel 2:1. (vergunning van de Nederlandsche Bank)
 
 1. Het is verboden zonder daartoe door de Nederlandsche Bank verleende vergunning:
 
@@ -470,7 +497,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 2. Een vergunning tot uitoefening van het bedrijf van kredietinstelling geldt, tenzij in de vergunning anders is bepaald, tevens als vergunning tot uitoefening van het bedrijf van elektronischgeldinstelling of geldtransactiekantoor.
 
-#### Artikel 2:2. (groepsvergunning trustkantoren)
+##### Artikel 2:2. (groepsvergunning trustkantoren)
 
 1. Een vergunning om als trustkantoor werkzaam te zijn kan aan een groep van trustkantoren worden verleend.
 
@@ -478,7 +505,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 2:3. (vergunning van de Autoriteit Financiële Markten)
+##### Artikel 2:3. (vergunning van de Autoriteit Financiële Markten)
 
 1. Het is verboden zonder daartoe door de Autoriteit Financiële Markten verleende vergunning in de openbare lichamen:
 
@@ -496,7 +523,7 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 4. Indien de beleggingsinstelling een beleggingsfonds is, wordt de in het tweede lid bedoelde vergunning verleend aan de beheerder van dat fonds.
 
-#### Artikel 2:4. (voorkomen dubbele vergunningplicht DNB en AFM)
+##### Artikel 2:4. (voorkomen dubbele vergunningplicht DNB en AFM)
 
 1. [Artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, voor zover de in dat artikel bedoelde activiteiten betrekking hebben op een financieel product dat door de betrokken onderneming zelf of door een tot dezelfde groep behorende financiële onderneming wordt aangeboden.
 
@@ -504,13 +531,13 @@ Bij regeling van Onze Minister kan, zo nodig onder het stellen van aanvullende v
 
 3. [Artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), is niet van toepassing op ondernemingen waaraan vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, tenzij in de vergunning anders is bepaald.
 
-#### Artikel 2:5. (overdraagbaarheid)
+##### Artikel 2:5. (overdraagbaarheid)
 
 Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraagbaar.
 
 #### § 2. **Aanvraag van een vergunning**
 
-#### Artikel 2:6. (indiening aanvraag)
+##### Artikel 2:6. (indiening aanvraag)
 
 1. Een vergunning op grond van deze wet wordt aangevraagd bij de tot verlening van die vergunning bevoegde toezichtautoriteit.
 
@@ -520,7 +547,7 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 4. De toezichtautoriteit kan voor het indienen van aanvragen en het verstrekken van gegevens een formulier vaststellen, voor zover daarin niet krachtens het derde lid is voorzien.
 
-#### Artikel 2:7. (niet in behandeling nemen aanvraag)
+##### Artikel 2:7. (niet in behandeling nemen aanvraag)
 
 1. De toezichtautoriteit kan beslissen een aanvraag om vergunning niet te behandelen, indien:
 
@@ -532,13 +559,13 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 3. De beslissing om een aanvraag niet te behandelen wordt schriftelijk aan de aanvrager bekendgemaakt binnen vier weken nadat de aanvraag is aangevuld of nadat de daarvoor gestelde termijn ongebruikt is verstreken.
 
-#### Artikel 2:8. (beslistermijn)
+##### Artikel 2:8. (beslistermijn)
 
 1. De toezichtautoriteit beslist binnen dertien weken na ontvangst van de aanvraag om vergunning.
 
 2. Indien de beslissing niet binnen de in het eerste lid genoemde termijn kan worden gegeven, deelt de toezichtautoriteit dit aan de aanvrager mede en noemt daarbij een zo kort mogelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.
 
-#### Artikel 2:9. (opschorting beslistermijn)
+##### Artikel 2:9. (opschorting beslistermijn)
 
 1. De in [artikel 2:8](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2023-07-01&g=2023-07-01) bedoelde termijn wordt opgeschort met ingang van de dag na die waarop de toezichtautoriteit:
 
@@ -558,7 +585,7 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 4. Indien de opschorting eindigt, doet de toezichtautoriteit daarvan in de gevallen, bedoeld in het eerste lid, onderdeel b, of het tweede lid, onderdelen b en c, zo spoedig mogelijk mededeling aan de aanvrager, onder vermelding van de termijn binnen welke de beslissing alsnog moet worden gegeven.
 
-#### Artikel 2:10. (aanhouden beslissing in verband met vvgb)
+##### Artikel 2:10. (aanhouden beslissing in verband met vvgb)
 
 1. In afwijking van [artikel 2:8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:8&z=2023-07-01&g=2023-07-01), houdt de toezichtautoriteit, indien er tevens een aanvraag van een verklaring van geen bezwaar als bedoeld in [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01) is ingediend, de beslissing op een aanvraag om vergunning aan, tot uiterlijk zes weken na het tijdstip waarop de beslissing op de aanvraag van de verklaring van geen bezwaar is bekendgemaakt.
 
@@ -566,7 +593,7 @@ Vergunningen, verleend op grond van deze wet, zijn persoonlijk en niet overdraag
 
 #### § 3. **Verlening, weigering en intrekking van vergunningen**
 
-#### Artikel 2:11. (verlening van de vergunning)
+##### Artikel 2:11. (verlening van de vergunning)
 
 De toezichtautoriteit verleent de vergunning, indien de aanvrager aantoont dat zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de [artikelen 3:1 tot en met 3:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2023-07-01&g=2023-07-01), [3:8 tot en met 3:24](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:8&z=2023-07-01&g=2023-07-01), [3:33](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:33&z=2023-07-01&g=2023-07-01), [3:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:34&z=2023-07-01&g=2023-07-01) en [3:44 tot en met 3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2023-07-01&g=2023-07-01) gestelde regels, alsmede:
 
@@ -578,11 +605,11 @@ De toezichtautoriteit verleent de vergunning, indien de aanvrager aantoont dat z
 
 - d. voor verzekeraars: de bij of krachtens de [artikelen 4:25 tot en met 4:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:25&z=2023-07-01&g=2023-07-01) gestelde regels.
 
-#### Artikel 2:12. (voorschriften en beperkingen)
+##### Artikel 2:12. (voorschriften en beperkingen)
 
 Aan een vergunning kunnen met het oog op de belangen die deze wet beoogt te beschermen, voorschriften worden verbonden en beperkingen worden gesteld.
 
-#### Artikel 2:13. (weigering van de vergunning)
+##### Artikel 2:13. (weigering van de vergunning)
 
 De toezichtautoriteit kan in afwijking van [artikel 2:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:11&z=2023-07-01&g=2023-07-01) de vergunning geheel of gedeeltelijk weigeren, indien:
 
@@ -592,7 +619,7 @@ De toezichtautoriteit kan in afwijking van [artikel 2:11](https://wetten.overhei
 
 - c. de belangen die deze wet beoogt te beschermen, zich tegen verlening van de vergunning verzetten.
 
-#### Artikel 2:14. (wijziging of intrekking van de vergunning)
+##### Artikel 2:14. (wijziging of intrekking van de vergunning)
 
 De toezichtautoriteit kan een door haar verleende vergunning wijzigen dan wel geheel of gedeeltelijk intrekken op verzoek van de vergunninghouder en voorts indien:
 
@@ -618,7 +645,7 @@ De toezichtautoriteit kan een door haar verleende vergunning wijzigen dan wel ge
 
 - k. de belangen die deze wet beoogt te beschermen, zich tegen instandhouding of ongewijzigde instandhouding van de vergunning verzetten.
 
-#### Artikel 2:15. (verplichte intrekkingsgronden)
+##### Artikel 2:15. (verplichte intrekkingsgronden)
 
 1. De toezichtautoriteit trekt een door haar verleende vergunning in, indien:
 
@@ -636,17 +663,17 @@ De toezichtautoriteit kan een door haar verleende vergunning wijzigen dan wel ge
 
 3. Indien van een buitenlandse financiële onderneming door de toezichthoudende instantie van de staat van zetel de vergunning van die onderneming om in de staat van zetel haar bedrijf uit te oefenen wordt ingetrokken, trekt de toezichtautoriteit tevens de op grond van deze wet aan die onderneming verleende vergunning in.
 
-#### Artikel 2:16. (motivering en bekendmaking)
+##### Artikel 2:16. (motivering en bekendmaking)
 
 Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, intrekking of beperking van een vergunning is met redenen omkleed en wordt schriftelijk bekendgemaakt aan de aanvrager, onderscheidenlijk de vergunninghouder.
 
-#### Artikel 2:17. (afwikkeling bedrijf na intrekking vergunning)
+##### Artikel 2:17. (afwikkeling bedrijf na intrekking vergunning)
 
 1. Indien de toezichtautoriteit een vergunning intrekt, kan zij bij haar beslissing tot intrekking bepalen dat de betrokken financiële onderneming haar bedrijf binnen een door de toezichtautoriteit te bepalen termijn geheel of gedeeltelijk afwikkelt, zo nodig met inachtneming van door de toezichtautoriteit gegeven aanwijzingen.
 
 2. Bij de afwikkeling van het bedrijf van een financiële onderneming wordt die onderneming, evenals de curator in het faillissement van een financiële onderneming, aangemerkt als vergunninghoudende onderneming.
 
-#### Artikel 2:18. (wijzigingen na vergunningverlening)
+##### Artikel 2:18. (wijzigingen na vergunningverlening)
 
 1. Een financiële onderneming waaraan op grond van deze wet vergunning is verleend, meldt met betrekking tot onderwerpen waarover ingevolge [artikel 2:6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2023-07-01&g=2023-07-01), in het kader van een aanvraag om vergunning verstrekking van gegevens of bescheiden is voorgeschreven, aan de toezichtautoriteit alle wijzigingen waarvan zij weet of redelijkerwijs moet vermoeden dat die wijzigingen voor het door de toezichtautoriteit op die onderneming uit te oefenen toezicht van belang zijn.
 
@@ -656,7 +683,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 #### § 4. **Register financiële markten**
 
-#### Artikel 2:19. (register financiële markten)
+##### Artikel 2:19. (register financiële markten)
 
 1. Er is een register financiële markten, waarin de financiële ondernemingen staan ingeschreven waaraan op grond van deze wet een vergunning is verleend of waarvan een kennisgeving als bedoeld in [artikel 2:23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:23&z=2023-07-01&g=2023-07-01), is ontvangen.
 
@@ -664,7 +691,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de indeling en inrichting van het register en de in het register op te nemen gegevens, alsmede regels met betrekking tot de wijziging van in het register opgenomen gegevens.
 
-#### Artikel 2:20. (inschrijving in register)
+##### Artikel 2:20. (inschrijving in register)
 
 1. Inschrijving van een financiële onderneming in het register geschiedt zo spoedig mogelijk na verlening van de vergunning, doch uiterlijk binnen veertien dagen nadien.
 
@@ -674,13 +701,13 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 #### § 5. **Bijzondere bepalingen**
 
-#### Artikel 2:21. (verbod op gebruik woord «bank»)
+##### Artikel 2:21. (verbod op gebruik woord «bank»)
 
 1. Het is een onderneming, niet zijnde een kredietinstelling waaraan op grond van deze wet vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, verboden om de woorden «bank», «krediet» of «spaar» en vertalingen of vormen daarvan te gebruiken in haar naam of bij de uitoefening van haar bedrijf, tenzij zulks in zodanige samenhang geschiedt dat daaruit duidelijk blijkt dat de onderneming niet werkzaam is op de financiële markten.
 
 2. Het in het eerste lid bedoelde verbod op het gebruik van het woord «krediet» geldt niet voor ondernemingen waaraan op grond van deze wet vergunning is verleend tot het aanbieden van krediet.
 
-#### Artikel 2:22. (verbod aantrekken opvorderbare gelden)
+##### Artikel 2:22. (verbod aantrekken opvorderbare gelden)
 
 1. Het is verboden in de openbare lichamen in de uitoefening van een bedrijf buiten besloten kring opvorderbare gelden van anderen dan professionele marktpartijen aan te trekken, ter beschikking te verkrijgen of ter beschikking te hebben of als tussenpersoon werkzaamheden, gericht op het aantrekken of ter beschikking krijgen van zodanige gelden, te verrichten.
 
@@ -692,7 +719,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 - c. als gevolg van het aanbieden van effecten overeenkomstig de bij of krachtens [hoofdstuk 5, paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&z=2023-07-01&g=2023-07-01), gestelde regels.
 
-#### Artikel 2:23. (inkomende dienstverrichting verzekeraars)
+##### Artikel 2:23. (inkomende dienstverrichting verzekeraars)
 
 1. Het is een verzekeraar met zetel in het buitenland verboden door middel van het verrichten van diensten vanuit een vestiging in het buitenland verzekeringen aan te bieden in de openbare lichamen, tenzij hij de Nederlandsche Bank hiervan kennis geeft en aantoont:
 
@@ -714,7 +741,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 #### § 1. **Zetel en rechtsvorm**
 
-#### Artikel 3:1. (plaats van zetel)
+##### Artikel 3:1. (plaats van zetel)
 
 1. Een financiële onderneming heeft haar zetel in de openbare lichamen, Curaçao of Sint Maarten.
 
@@ -722,13 +749,13 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01) verricht, die activiteiten vanuit een bijkantoor in de openbare lichamen verricht.
 
-#### Artikel 3:2. (buitenlandse ondernemingen)
+##### Artikel 3:2. (buitenlandse ondernemingen)
 
 1. Een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01) verricht, is in de staat van zetel bevoegd tot uitoefening van die activiteiten.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen beperkingen worden gesteld aan de aard of de omvang van de activiteiten die financiële ondernemingen met zetel in het buitenland in of vanuit de openbare lichamen mogen verrichten, alsmede regels met betrekking tot de voorwaarden waaronder zij die activiteiten mogen verrichten.
 
-#### Artikel 3:3. (rechtsvorm)
+##### Artikel 3:3. (rechtsvorm)
 
 1. Een verzekeraar met zetel in de openbare lichamen heeft de rechtsvorm van naamloze vennootschap of onderlinge waarborgmaatschappij.
 
@@ -738,7 +765,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 #### § 2. **Bestuur, inrichting en bedrijfsvoering**
 
-#### Artikel 3:4. (betrouwbaarheid beleidsbepalers)
+##### Artikel 3:4. (betrouwbaarheid beleidsbepalers)
 
 1. Het beleid van een financiële onderneming wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de onderneming een orgaan is belast met toezicht op het beleid en de algemene gang van zaken van de onderneming, wordt dit toezicht gehouden door personen wier betrouwbaarheid eveneens buiten twijfel staat.
 
@@ -748,25 +775,25 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 4. Bij de maatregel, bedoeld in het derde lid, kan worden bepaald dat periodiek een nieuwe beoordeling van de betrouwbaarheid plaatsvindt.
 
-#### Artikel 3:5. (geschiktheid beleidsbepalers)
+##### Artikel 3:5. (geschiktheid beleidsbepalers)
 
 1. Het dagelijks beleid van een financiële onderneming wordt bepaald door personen die geschikt zijn in verband met de uitoefening van het bedrijf van die onderneming. Indien binnen de onderneming een orgaan is belast met toezicht op het beleid en de algemene gang van zaken binnen de onderneming, wordt dit toezicht gehouden door personen die geschikt zijn in verband met de uitoefening van dit toezicht.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de geschiktheid van personen als bedoeld in het eerste lid.
 
-#### Artikel 3:6. (vierogenprincipe en plaats van werkzaamheden)
+##### Artikel 3:6. (vierogenprincipe en plaats van werkzaamheden)
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het aantal natuurlijke personen dat het dagelijks beleid van een financiële onderneming bepaalt, en het aantal natuurlijke personen dat belast is met toezicht op het beleid en de algemene gang van zaken binnen de onderneming.
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat een of meer personen die het dagelijks beleid van een financiële onderneming bepalen of mede bepalen, hun werkzaamheden in verband daarmee vanuit de openbare lichamen verrichten.
 
-#### Artikel 3:7. (benoeming beleidsbepalers)
+##### Artikel 3:7. (benoeming beleidsbepalers)
 
 1. Het is verboden zonder voorafgaande toestemming van de toezichtautoriteit personen die het beleid van een financiële onderneming bepalen of mede bepalen, of leden van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken binnen een financiële onderneming, te benoemen.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van het eerste lid.
 
-#### Artikel 3:8. (integere bedrijfsuitoefening)
+##### Artikel 3:8. (integere bedrijfsuitoefening)
 
 1. Een financiële onderneming voert een adequaat beleid voor een integere uitoefening van haar bedrijf, en richt haar bedrijfsvoering zodanig in dat de integere uitoefening van haar bedrijf is gewaarborgd.
 
@@ -782,7 +809,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 - e. andere handelingen door de onderneming of haar werknemers, die zodanig ingaan tegen hetgeen volgens ongeschreven recht in het maatschappelijk verkeer betaamt dat daardoor het vertrouwen in de onderneming of in de financiële markten kan worden geschaad.
 
-#### Artikel 3:9. (beheerste bedrijfsuitoefening)
+##### Artikel 3:9. (beheerste bedrijfsuitoefening)
 
 1. Een financiële onderneming voert een adequaat beleid voor een beheerste uitoefening van haar bedrijf, en richt haar bedrijfsvoering zodanig in dat een beheerste uitoefening van haar bedrijf is gewaarborgd.
 
@@ -794,19 +821,19 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 - c. ordelijke en transparante financiëlemarktprocessen, zuivere verhoudingen tussen marktpartijen en de zorgvuldige behandeling van consumenten of cliënten.
 
-#### Artikel 3:10. (doorzichtige zeggenschapstructuur)
+##### Artikel 3:10. (doorzichtige zeggenschapstructuur)
 
 1. Een financiële onderneming is niet met personen verbonden in een formele of feitelijke zeggenschapsstructuur die in zodanige mate ondoorzichtig is dat deze een belemmering vormt of kan vormen voor het adequaat uitoefenen van toezicht op die onderneming.
 
 2. Een financiële onderneming is niet met personen verbonden in een formele of feitelijke zeggenschapsstructuur, indien op die personen buitenlands recht van toepassing is en dat buitenlandse recht een belemmering vormt of kan vormen voor het adequaat uitoefenen van toezicht op die onderneming.
 
-#### Artikel 3:11. (vakbekwaamheid werknemers)
+##### Artikel 3:11. (vakbekwaamheid werknemers)
 
 1. Een financiële onderneming die financiële producten aanbiedt of financiële diensten verleent, draagt zorg voor de vakbekwaamheid van zijn werknemers en van andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met het aanbieden van die producten of het verlenen van die diensten. Hiertoe beschikt in ieder geval een zodanig aantal feitelijk leidinggevenden van de onderneming over voldoende vakbekwaamheid, dat de kwaliteit van de dienstverlening aan de consument of cliënt kan worden gewaarborgd.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vakbekwaamheid van de personen, bedoeld in het eerste lid. Bij algemene maatregel van bestuur kan worden bepaald dat Onze Minister volgens daarbij te stellen regels exameninstituten erkent die bevoegd zijn tot het afgeven van diploma’s waarmee de vakbekwaamheid wordt aangetoond. Daarbij kunnen tevens regels worden gesteld met betrekking tot het toezicht op de naleving van die regels.
 
-#### Artikel 3:12. (klachtbehandeling)
+##### Artikel 3:12. (klachtbehandeling)
 
 1. Een financiële onderneming die financiële producten aanbiedt of financiële diensten verleent, beschikt over een procedure voor de zorgvuldige en consistente behandeling van klachten van consumenten of cliënten binnen een redelijke termijn. De onderneming draagt er zorg voor dat deze procedure genoegzaam bekend is bij alle personen die vanwege de onderneming betrokken zijn bij de afhandeling van klachten.
 
@@ -814,7 +841,7 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de klachtenprocedure, bedoeld in het eerste lid, alsmede regels met betrekking tot de erkenning en werkwijze van een geschilleninstantie als bedoeld in het tweede lid.
 
-#### Artikel 3:13. (uitbesteding aan derden)
+##### Artikel 3:13. (uitbesteding aan derden)
 
 1. Indien een financiële onderneming werkzaamheden uitbesteedt aan derden, draagt zij er zorg voor dat deze derden de ingevolge deze wet met betrekking tot die werkzaamheden op de uitbestedende onderneming van toepassing zijnde regels naleven.
 
@@ -822,11 +849,11 @@ Een beslissing op een aanvraag om vergunning of een beslissing tot wijziging, in
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid. Bij algemene maatregel van bestuur kan tevens worden bepaald dat bij die maatregel aan te wijzen werkzaamheden niet worden uitbesteed.
 
-#### Artikel 3:14. (buitenlandse ondernemingen)
+##### Artikel 3:14. (buitenlandse ondernemingen)
 
 De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2023-07-01&g=2023-07-01) en[3:11 tot en met 3:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:11&z=2023-07-01&g=2023-07-01) zijn, indien een financiële onderneming haar zetel in het buitenland heeft, slechts van toepassing met betrekking tot de activiteiten die de betrokken onderneming in of vanuit de openbare lichamen verricht.
 
-#### Artikel 3:15. (verplichte vertegenwoordiger)
+##### Artikel 3:15. (verplichte vertegenwoordiger)
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland die in of vanuit de openbare lichamen vergunningplichtige activiteiten als bedoeld in [artikel 2:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01) of [2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01)verricht, gehouden is in de openbare lichamen een vertegenwoordiger aan te stellen.
 
@@ -838,7 +865,7 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 #### § 3. **Financiële waarborgen**
 
-#### Artikel 3:16. (minimumvermogen)
+##### Artikel 3:16. (minimumvermogen)
 
 1. Een beleggingsmaatschappij, bemiddelaar in effecten, elektronischgeldinstelling, kredietinstelling, vermogensbeheerder of verzekeraar beschikt over een minimumbedrag aan eigen vermogen.
 
@@ -848,7 +875,7 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 4. Het minimumbedrag aan eigen vermogen van een verzekeraar wordt uitgedrukt in een minimumbedrag van het garantiefonds, bedoeld in [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2023-07-01&g=2023-07-01), vierde lid.
 
-#### Artikel 3:17. (solvabiliteit)
+##### Artikel 3:17. (solvabiliteit)
 
 1. Een bemiddelaar in effecten, elektronischgeldinstelling, kredietinstelling, vermogensbeheerder of verzekeraar beschikt over voldoende solvabiliteit.
 
@@ -860,13 +887,13 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het aanhouden van balansposten of posten buiten de balanstelling door kredietinstellingen en elektronischgeldinstellingen.
 
-#### Artikel 3:18. (liquiditeit)
+##### Artikel 3:18. (liquiditeit)
 
 1. Een kredietinstelling of, in bij algemene maatregel van bestuur te bepalen gevallen, beleggingsinstelling beschikt over voldoende liquiditeit.
 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de minimumomvang, de samenstelling en de berekening van de in het eerste lid bedoelde liquiditeit.
 
-#### Artikel 3:19. (technische voorzieningen verzekeraar)
+##### Artikel 3:19. (technische voorzieningen verzekeraar)
 
 1. Een verzekeraar houdt toereikende technische voorzieningen aan. De technische voorzieningen worden volledig door waarden gedekt.
 
@@ -876,23 +903,23 @@ De [artikelen 3:4 tot en met 3:9](https://wetten.overheid.nl/jci1.3:c:BWBR003088
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de ingevolge het eerste lid aan te houden technische voorzieningen, de waarden ter dekking van die voorzieningen, de lokalisatie van die waarden en de muntsoort waarin zij worden uitgedrukt.
 
-#### Artikel 3:20. (bewijsvermoeden buitenlandse ondernemingen)
+##### Artikel 3:20. (bewijsvermoeden buitenlandse ondernemingen)
 
 1. Een financiële onderneming met zetel in het buitenland die in de staat van zetel onder prudentieel toezicht staat wordt, onverminderd de bevoegdheden van de toezichtautoriteit en de door haar aangewezen toezichthouders uit hoofde van [artikel 1:7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2023-07-01&g=2023-07-01) en [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&z=2023-07-01&g=2023-07-01), vermoed te voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2023-07-01&g=2023-07-01) op haar van toepassing zijnde eisen, zolang zij in de staat van zetel is toegelaten tot de uitoefening van haar bedrijf.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3:21. (bijzondere waarborgen buitenlandse ondernemingen)
+##### Artikel 3:21. (bijzondere waarborgen buitenlandse ondernemingen)
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat een verzekeraar met zetel in het buitenland verplicht is in de openbare lichamen een solvabiliteitsfonds aan te houden, overeenkomstig bij of krachtens die maatregel te stellen regels.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen van ondernemingen als bedoeld in de [artikelen 3:16 tot en met 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2023-07-01&g=2023-07-01) met zetel in het buitenland, niet zijnde verzekeraars, aanvullende financiële waarborgen worden geëist ter dekking van verplichtingen die zij in of vanuit de openbare lichamen zijn aangegaan jegens consumenten, cliënten of andere bij die maatregel aan te wijzen derden.
 
-#### Artikel 3:22. (waarborgen houders van een effectenbeurs)
+##### Artikel 3:22. (waarborgen houders van een effectenbeurs)
 
 Een houder van een effectenbeurs beschikt over voldoende financiële middelen om een ordelijke werking van de markt te bevorderen, gelet op de aard en omvang van de op de markt uitgevoerde transacties en de risico’s waaraan hij is blootgesteld.
 
-#### Artikel 3:23. (vermogensscheiding)
+##### Artikel 3:23. (vermogensscheiding)
 
 1. Een vermogensbeheerder of bemiddelaar in effecten die effecten of gelden onder zich houdt die toebehoren aan een consument of cliënt, treft adequate maatregelen ter bescherming van de rechten van die consument of cliënt op bedoelde effecten of gelden, en ter voorkoming van het gebruik van die effecten of gelden voor eigen rekening door de vermogensbeheerder of bemiddelaar in effecten.
 
@@ -904,15 +931,15 @@ Een houder van een effectenbeurs beschikt over voldoende financiële middelen om
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste tot en met vierde lid.
 
-#### Artikel 3:24. (beroepsaansprakelijkheidsverzekering tussenpersonen)
+##### Artikel 3:24. (beroepsaansprakelijkheidsverzekering tussenpersonen)
 
 Een adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of een gevolmachtigd of ondergevolmachtigd agent heeft ter dekking van aansprakelijkheid, voortvloeiende uit de uitoefening van zijn beroep of bedrijf, een verzekeringsovereenkomst afgesloten die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels.
 
-#### Artikel 3:25. (meldingsplicht bij niet-voldoen)
+##### Artikel 3:25. (meldingsplicht bij niet-voldoen)
 
 Indien een financiële onderneming voorziet of redelijkerwijze kan voorzien dat zij niet voldoet of niet zal voldoen aan de ingevolge de [artikelen 3:16 tot en met 3:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:16&z=2023-07-01&g=2023-07-01) op haar van toepassing zijnde eisen, stelt zij de Nederlandsche Bank daarvan onverwijld in kennis.
 
-#### Artikel 3:26. (ontbinding of liquidatie)
+##### Artikel 3:26. (ontbinding of liquidatie)
 
 1. Een elektronischgeldinstelling, kredietinstelling of verzekeraar met zetel in de openbare lichamen, die tot ontbinding dan wel algehele of gedeeltelijke liquidatie van haar of zijn bedrijf heeft besloten, raadpleegt ten minste dertien weken voordat aan dat besluit uitvoering wordt gegeven, de Nederlandsche Bank over de wijze waarop de ontbinding onderscheidenlijk de liquidatie zal plaatsvinden.
 
@@ -920,11 +947,11 @@ Indien een financiële onderneming voorziet of redelijkerwijze kan voorzien dat 
 
 #### § 4. **Deelnemingen in financiële ondernemingen**
 
-#### Artikel 3:27. (begrip gekwalificeerde deelneming)
+##### Artikel 3:27. (begrip gekwalificeerde deelneming)
 
 Onder gekwalificeerde deelneming wordt in deze paragraaf en de daarop berustende bepalingen verstaan: een rechtstreeks of middellijk belang van ten minste tien procent van het geplaatste aandelenkapitaal van een onderneming of het rechtstreeks of middellijk kunnen uitoefenen van ten minste tien procent van de stemrechten in een onderneming dan wel het rechtstreeks of middellijk kunnen uitoefenen van een daarmee vergelijkbare zeggenschap.
 
-#### Artikel 3:28. (verklaring van geen bezwaar)
+##### Artikel 3:28. (verklaring van geen bezwaar)
 
 1. Het is verboden, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank, een gekwalificeerde deelneming in een beleggingsinstelling, elektronischgeldinstelling, kredietinstelling, trustkantoor, vermogensbeheerder of verzekeraar met zetel in de openbare lichamen te houden, te verwerven of te vergroten, dan wel enige zeggenschap, verbonden aan een dergelijke deelneming, uit te oefenen.
 
@@ -940,11 +967,11 @@ Onder gekwalificeerde deelneming wordt in deze paragraaf en de daarop berustende
 
 5. Indien een verklaring van geen bezwaar wordt verleend kan op aanvraag worden bepaald dat die verklaring van geen bezwaar geldt voor alle groepsmaatschappijen gezamenlijk.
 
-#### Artikel 3:29. (betrouwbaarheid houder van deelneming)
+##### Artikel 3:29. (betrouwbaarheid houder van deelneming)
 
 De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming het beleid van een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01), genoemde onderneming bepalen of mede bepalen of kunnen bepalen of mede bepalen, moet buiten twijfel staan. [Artikel 3:4, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 3:30. (verlening van verklaring van geen bezwaar)
+##### Artikel 3:30. (verlening van verklaring van geen bezwaar)
 
 1. De Nederlandsche Bank verleent een verklaring van geen bezwaar als bedoeld in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01), tenzij:
 
@@ -964,13 +991,13 @@ De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming 
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de weigeringsgronden in het eerste lid.
 
-#### Artikel 3:31. (indiening aanvraag van vvgb bij AFM)
+##### Artikel 3:31. (indiening aanvraag van vvgb bij AFM)
 
 1. Een aanvraag van een verklaring van geen bezwaar die betrekking heeft op een gekwalificeerde deelneming in een beleggingsinstelling of vermogensbeheerder, kan indien die financiële onderneming op het moment van de aanvraag nog niet over een vergunning op grond van deze wet beschikt, tevens bij de Autoriteit Financiële Markten worden ingediend.
 
 2. Indien de aanvraag van een verklaring van geen bezwaar overeenkomstig het eerste lid bij de Autoriteit Financiële Markten is ingediend, zendt de Nederlandsche Bank de beslissing op die aanvraag aan de Autoriteit Financiële Markten, die haar aan de betrokken financiële onderneming meedeelt.
 
-#### Artikel 3:32. (vernietigbaarheid besluiten zonder vvgb)
+##### Artikel 3:32. (vernietigbaarheid besluiten zonder vvgb)
 
 1. Indien enige zeggenschap, verbonden aan een gekwalificeerde deelneming in een in [artikel 3:28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01), genoemde onderneming, is uitgeoefend zonder dat een verklaring van geen bezwaar is verkregen of indien daarbij de aan een verklaring van geen bezwaar gestelde beperkingen niet in acht zijn genomen, is een mede door uitoefening van die zeggenschap tot stand gekomen besluit vernietigbaar.
 
@@ -980,17 +1007,17 @@ De betrouwbaarheid van personen die op grond van een gekwalificeerde deelneming 
 
 #### § 5. **Boekhouding en rapportage**
 
-#### Artikel 3:33. (aanhouden boeken in openbare lichamen)
+##### Artikel 3:33. (aanhouden boeken in openbare lichamen)
 
 Een financiële onderneming met zetel in de openbare lichamen houdt de op haar boekhouding betrekking hebbende boeken, bescheiden en andere informatiedragers aan in de openbare lichamen.
 
-#### Artikel 3:34. (afzonderlijke boekhouding buitenlandse ondernemingen)
+##### Artikel 3:34. (afzonderlijke boekhouding buitenlandse ondernemingen)
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat een financiële onderneming met zetel in het buitenland een afzonderlijke boekhouding voert met betrekking tot haar activiteiten in de openbare lichamen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3:35. (jaarrekening en jaarverslag)
+##### Artikel 3:35. (jaarrekening en jaarverslag)
 
 1. Een beleggingsinstelling, bemiddelaar in effecten, elektronischgeldinstelling, kredietinstelling, vermogensbeheerder of verzekeraar dient jaarlijks binnen een bij algemene maatregel van bestuur te bepalen termijn bij de toezichtautoriteit een jaarrekening en een jaarverslag over het afgelopen boekjaar in. De jaarrekening omvat ten minste een balans en een verlies- en winstrekening met een toelichting daarop.
 
@@ -998,7 +1025,7 @@ Een financiële onderneming met zetel in de openbare lichamen houdt de op haar b
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van de jaarrekening en het jaarverslag en de daarbij behorende bescheiden, alsmede regels met betrekking tot de vorm en de wijze van indiening.
 
-#### Artikel 3:36. (staten)
+##### Artikel 3:36. (staten)
 
 1. Een kredietinstelling of verzekeraar dient periodiek, op bij of krachtens algemene maatregel van bestuur te bepalen tijdstippen en binnen een bij of krachtens die maatregel te bepalen termijn, bij de Nederlandsche Bank staten in, al dan niet op geconsolideerde basis, die tezamen een getrouw beeld geven van het door de betrokken onderneming gevoerde beheer en haar financiële toestand.
 
@@ -1008,17 +1035,17 @@ Een financiële onderneming met zetel in de openbare lichamen houdt de op haar b
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inhoud van de staten en de daarbij behorende bescheiden, alsmede regels met betrekking tot de vorm en de wijze van indiening. Voorts kunnen bij de maatregel regels worden gesteld met betrekking tot de openbaarmaking van de staten.
 
-#### Artikel 3:37. (indieningstermijnen)
+##### Artikel 3:37. (indieningstermijnen)
 
 De Nederlandsche Bank kan, indien zich een gebeurtenis voordoet of heeft voorgedaan die ernstige gevolgen heeft of kan hebben voor de financiële positie van een elektronischgeldinstelling, kredietinstelling of verzekeraar, voorschrijven dat een of meer staten tijdelijk worden verstrekt met een hogere frequentie of op een kortere termijn dan ingevolge [artikel 3:36, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:36&z=2023-07-01&g=2023-07-01), is bepaald. Deze staten worden niet openbaar gemaakt.
 
-#### Artikel 3:38. (overige rapportage- en meldingsverplichtingen)
+##### Artikel 3:38. (overige rapportage- en meldingsverplichtingen)
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot door financiële ondernemingen in te dienen periodieke verslagen of rapportages, alsmede regels met betrekking tot incidenteel te melden voorvallen of omstandigheden.
 
 #### § 6. **Externe deskundige en actuaris**
 
-#### Artikel 3:39. (meldingsplicht externe deskundige)
+##### Artikel 3:39. (meldingsplicht externe deskundige)
 
 Een externe deskundige die een onderzoek uitvoert naar de getrouwheid van de jaarrekening of de staten van een financiële onderneming, stelt de toezichtautoriteit zo spoedig mogelijk in kennis van elke omstandigheid waarvan hij bij de uitvoering van het onderzoek kennis heeft gekregen en die:
 
@@ -1030,21 +1057,21 @@ Een externe deskundige die een onderzoek uitvoert naar de getrouwheid van de jaa
 
 - d. leidt tot weigering om een verklaring omtrent de getrouwheid af te geven of tot het maken van een voorbehoud.
 
-#### Artikel 3:40. (meldingsplicht actuaris)
+##### Artikel 3:40. (meldingsplicht actuaris)
 
 Een actuaris die een onderzoek uitvoert naar de toereikendheid van de technische voorzieningen en de getrouwheid van het actuarieel verslag van een verzekeraar, stelt de Nederlandsche Bank zo spoedig mogelijk in kennis van elke omstandigheid waarvan hij bij de uitvoering van het onderzoek kennis heeft gekregen en die een bedreiging vormt of kan vormen voor de toereikendheid van de technische voorzieningen of de financiële positie van die verzekeraar.
 
-#### Artikel 3:41. (toelichting door externe deskundige of actuaris)
+##### Artikel 3:41. (toelichting door externe deskundige of actuaris)
 
 1. Indien de toezichtautoriteit zulks noodzakelijk acht, kan zij een externe deskundige of actuaris oproepen om een mondelinge toelichting te geven bij een kennisgeving als bedoeld in [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2023-07-01&g=2023-07-01) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2023-07-01&g=2023-07-01).
 
 2. De toezichtautoriteit stelt de betrokken financiële onderneming in de gelegenheid bij de mondelinge toelichting aanwezig te zijn.
 
-#### Artikel 3:42. (aansprakelijkheid externe deskundige of actuaris)
+##### Artikel 3:42. (aansprakelijkheid externe deskundige of actuaris)
 
 De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:39&z=2023-07-01&g=2023-07-01) of [3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=6&artikel=3:40&z=2023-07-01&g=2023-07-01) tot een kennisgeving is overgegaan, is niet aansprakelijk voor schade die een derde dientengevolge lijdt, tenzij aannemelijk wordt gemaakt dat, gelet op alle feiten en omstandigheden, in redelijkheid niet tot kennisgeving of het verstrekken van inlichtingen had mogen worden overgegaan.
 
-#### Artikel 3:43. (bezwaar tegen externe deskundige of actuaris)
+##### Artikel 3:43. (bezwaar tegen externe deskundige of actuaris)
 
 1. Indien een externe deskundige of actuaris niet de nodige waarborgen biedt dat hij zijn taak met betrekking tot een financiële onderneming naar behoren zal kunnen vervullen, kan de toezichtautoriteit ten aanzien van de deskundige of actuaris bepalen dat deze niet langer bevoegd is de in deze wet bedoelde verklaringen met betrekking tot die financiële onderneming af te leggen.
 
@@ -1052,7 +1079,7 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 #### § 7. **Financiële groepen**
 
-#### Artikel 3:44. (algemene bepalingen betreffende financiële groepen)
+##### Artikel 3:44. (algemene bepalingen betreffende financiële groepen)
 
 1. Een onderneming met zetel in een openbaar lichaam die aan het hoofd staat van een groep als bedoeld in [artikel 3:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2023-07-01&g=2023-07-01) of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2023-07-01&g=2023-07-01), draagt zorg voor een zodanige bedrijfsvoering dat de financiële soliditeit van de groep en de tot de groep behorende kredietinstellingen en verzekeraars niet in gevaar wordt gebracht door:
 
@@ -1066,7 +1093,7 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 3:45. (geconsolideerd toezicht op kredietinstellingen)
+##### Artikel 3:45. (geconsolideerd toezicht op kredietinstellingen)
 
 1. Op een kredietinstelling met zetel in de openbare lichamen die deel uitmaakt van een groep, wordt door de Nederlandsche Bank geconsolideerd toezicht uitgeoefend.
 
@@ -1078,7 +1105,7 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste tot en met vierde lid.
 
-#### Artikel 3:46. (aanvullend toezicht op verzekeraars)
+##### Artikel 3:46. (aanvullend toezicht op verzekeraars)
 
 1. Op een verzekeraar met zetel in de openbare lichamen die deel uitmaakt van een groep, wordt door de Nederlandsche Bank aanvullend toezicht uitgeoefend.
 
@@ -1096,11 +1123,11 @@ De externe deskundige of actuaris die op grond van [artikel 3:39](https://wetten
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste tot en met vierde lid.
 
-#### Artikel 3:47. (maatregelen door DNB)
+##### Artikel 3:47. (maatregelen door DNB)
 
 Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:44&z=2023-07-01&g=2023-07-01), of uit het toezicht, bedoeld in de [artikelen 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2023-07-01&g=2023-07-01), en [3:46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2023-07-01&g=2023-07-01), blijkt dat de financiële positie van de kredietinstelling of verzekeraar in gevaar is of zou kunnen komen, neemt de Nederlandsche Bank jegens die kredietinstelling of verzekeraar maatregelen.
 
-#### Artikel 3:48. (uitzonderingen)
+##### Artikel 3:48. (uitzonderingen)
 
 1. De Nederlandsche Bank kan besluiten een onderneming niet in het toezicht, bedoeld in [artikel 3:45, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:45&z=2023-07-01&g=2023-07-01), of [3:46](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=7&artikel=3:46&z=2023-07-01&g=2023-07-01), eerste lid, te betrekken, indien:
 
@@ -1116,7 +1143,7 @@ Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid
 
 #### § 1. **Beleggingsinstellingen**
 
-#### Artikel 4:1. (beheer van beleggingsfondsen)
+##### Artikel 4:1. (beheer van beleggingsfondsen)
 
 1. Een beleggingsfonds wordt beheerd door een beheerder.
 
@@ -1124,11 +1151,11 @@ Indien uit de bedrijfsvoering, bedoeld in [artikel 3:44](https://wetten.overheid
 
 3. De ingevolge deze wet op beleggingsinstellingen rustende verplichtingen zijn, indien de beleggingsinstelling een beleggingsfonds is, gericht tot de beheerder van dat fonds.
 
-#### Artikel 4:2. (beheer van beleggingsmaatschappijen)
+##### Artikel 4:2. (beheer van beleggingsmaatschappijen)
 
 Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutair bestuurder van de beleggingsmaatschappij. [Artikel 4:1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:1&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 4:3. (vermogensscheiding activa beleggingsfonds)
+##### Artikel 4:3. (vermogensscheiding activa beleggingsfonds)
 
 1. De beheerder van een beleggingsfonds treft maatregelen, opdat:
 
@@ -1138,7 +1165,7 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 4:4. (bewaring van activa)
+##### Artikel 4:4. (bewaring van activa)
 
 1. Indien de activa van een beleggingsinstelling door een bewaarder worden bewaard, gaat de beleggingsinstelling met de bewaarder een schriftelijke overeenkomst inzake beheer en bewaring aan. De overeenkomst voldoet aan bij of krachtens algemene maatregel van bestuur te stellen regels.
 
@@ -1146,7 +1173,7 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 3. Indien er op grond van het beleggingsbeleid van een beleggingsinstelling een reëel risico bestaat dat het vermogen van die instelling en het vermogen van haar bewaarder ontoereikend zullen zijn om daaruit de vorderingen, bedoeld in [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2023-07-01&g=2023-07-01), te voldoen, worden de activa van de beleggingsinstelling bewaard door een bewaarder die uitsluitend als bewaarder voor die beleggingsinstelling optreedt.
 
-#### Artikel 4:5. (minimumvermogen)
+##### Artikel 4:5. (minimumvermogen)
 
 1. De beheerder van een beleggingsfonds beschikt over een minimumbedrag aan eigen vermogen. Gelijke verplichting rust op de aan een beleggingsinstelling verbonden bewaarder.
 
@@ -1156,7 +1183,7 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 4. [Artikel 3:35](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=5&artikel=3:35&z=2023-07-01&g=2023-07-01) is van overeenkomstige toepassing op een beheerder of bewaarder als bedoeld in het eerste lid.
 
-#### Artikel 4:6. (vorderingen op vermogen beleggingsfonds)
+##### Artikel 4:6. (vorderingen op vermogen beleggingsfonds)
 
 1. Het vermogen van een beleggingsfonds dient uitsluitend tot voldoening van vorderingen die voortvloeien uit:
 
@@ -1170,23 +1197,23 @@ Indien een beleggingsmaatschappij een beheerder heeft, is die beheerder statutai
 
 4. Indien de vorderingen, bedoeld in het eerste lid, niet volledig uit het vermogen van het beleggingsfonds kunnen worden voldaan, dient, behoudens de door de wet erkende andere redenen van voorrang, het vermogen van de bewaarder eerst tot voldoening van deze vorderingen. Het derde lid is van overeenkomstige toepassing.
 
-#### Artikel 4:7. (subfondsen)
+##### Artikel 4:7. (subfondsen)
 
 1. Voor de toepassing van [artikel 4:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=1&artikel=4:6&z=2023-07-01&g=2023-07-01) wordt een subfonds gelijkgesteld met een zelfstandig beleggingsfonds.
 
 2. Onder subfonds wordt verstaan: een administratief afgescheiden gedeelte van het vermogen van een beleggingsinstelling waarvoor een separaat beleggingsbeleid wordt gevoerd en waarin specifiek voor dat gedeelte ter collectieve belegging gevraagde of verkregen gelden of andere goederen zijn of worden opgenomen teneinde de deelnemers in de opbrengst van de beleggingen te doen delen onder specifiek voor dat gedeelte geldende voorwaarden.
 
-#### Artikel 4:8. (behartiging belangen deelnemers)
+##### Artikel 4:8. (behartiging belangen deelnemers)
 
 1. Een beleggingsinstelling handelt in het belang van de deelnemers in de beleggingsinstelling. Zij behandelt de deelnemers in de beleggingsinstelling onder vergelijkbare omstandigheden op vergelijkbare wijze.
 
 2. Het eerste lid is van overeenkomstige toepassing op de beheerder van een beleggingsinstelling en de aan een beleggingsinstelling verbonden bewaarder.
 
-#### Artikel 4:9. (oneigenlijke transacties)
+##### Artikel 4:9. (oneigenlijke transacties)
 
 Door of namens een beleggingsinstelling worden voor rekening van die instelling geen transacties uitgevoerd met een zodanige frequentie of van een zodanige omvang dat dit gezien de omstandigheden kennelijk slechts strekt tot bevoordeling van de beleggingsinstelling, de beheerder, de bewaarder of een met de beleggingsinstelling, beheerder of bewaarder gelieerde partij.
 
-#### Artikel 4:10. (prospectus)
+##### Artikel 4:10. (prospectus)
 
 1. Een beleggingsinstelling heeft een prospectus beschikbaar met betrekking tot de door haar aangeboden rechten van deelneming, dat ten minste de in [artikel 5:4](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:4&z=2023-07-01&g=2023-07-01) bedoelde informatie bevat. Het prospectus wordt geactualiseerd, zodra daartoe aanleiding bestaat.
 
@@ -1194,7 +1221,7 @@ Door of namens een beleggingsinstelling worden voor rekening van die instelling 
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de door een beleggingsinstelling over de door haar aangeboden rechten van deelneming te publiceren of te verstrekken informatie, alsmede nadere regels met betrekking tot het prospectus en het verkrijgbaar stellen daarvan.
 
-#### Artikel 4:11. (intrinsieke waarde rechten van deelneming)
+##### Artikel 4:11. (intrinsieke waarde rechten van deelneming)
 
 1. Telkens wanneer een beleggingsinstelling rechten van deelneming aanbiedt, verkoopt, inkoopt of daarop terugbetaalt, bepaalt zij de intrinsieke waarde van die rechten.
 
@@ -1204,15 +1231,15 @@ Door of namens een beleggingsinstelling worden voor rekening van die instelling 
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het bepalen van de intrinsieke waarde, bedoeld in het eerste lid, en de waardering van activa, bedoeld in het tweede lid.
 
-#### Artikel 4:12. (opschorting inkoop rechten van deelneming)
+##### Artikel 4:12. (opschorting inkoop rechten van deelneming)
 
 Indien een beleggingsinstelling de inkoop van rechten van deelneming of de terugbetaling op zodanige rechten opschort, stelt zij de Autoriteit Financiële Markten daarvan onverwijld op de hoogte.
 
-#### Artikel 4:13. (voorkomen van naamsverwarring)
+##### Artikel 4:13. (voorkomen van naamsverwarring)
 
 De Autoriteit Financiële Markten kan, indien zij van oordeel is dat van de in de openbare lichamen gevoerde of te voeren naam van een beleggingsinstelling gevaar voor verwarring te duchten is, van de beleggingsinstelling verlangen dat aan de naam van de instelling een verklarende vermelding wordt toegevoegd of dat de naam wordt gewijzigd.
 
-#### Artikel 4:14. (ontbinding en vereffening)
+##### Artikel 4:14. (ontbinding en vereffening)
 
 1. Een beleggingsmaatschappij waarvan de vergunning is ingetrokken, wordt op verzoek van de Autoriteit Financiële Markten door het Gerecht ontbonden. Het Gerecht wijst een of meer vereffenaars aan.
 
@@ -1222,11 +1249,11 @@ De Autoriteit Financiële Markten kan, indien zij van oordeel is dat van de in d
 
 #### § 2. **Effectenbeurzen**
 
-#### Artikel 4:15. (houden van een effectenbeurs)
+##### Artikel 4:15. (houden van een effectenbeurs)
 
 De houder van een effectenbeurs zorgt ervoor dat het houden van de effectenbeurs, de voor de effectenbeurs te hanteren regels, de toepassing van die regels en de controle op de naleving van die regels voldoen aan hetgeen met het oog op een adequaat functioneren van de effectenmarkten en de positie van de beleggers op die markten nodig is.
 
-#### Artikel 4:16. (regels en procedures effectenbeurs)
+##### Artikel 4:16. (regels en procedures effectenbeurs)
 
 1. De houder van een effectenbeurs beschikt over:
 
@@ -1248,7 +1275,7 @@ De houder van een effectenbeurs zorgt ervoor dat het houden van de effectenbeurs
 
 #### § 3. **Kredietinstellingen, elektronischgeldinstellingen en geldtransactiekantoren**
 
-#### Artikel 4:17. (deelname aan depositogarantiestelsel)
+##### Artikel 4:17. (deelname aan depositogarantiestelsel)
 
 1. Een kredietinstelling waaraan op grond van deze wet vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, neemt deel aan het depositogarantiestelsel, bedoeld in [artikel 8:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2023-07-01&g=2023-07-01).
 
@@ -1260,19 +1287,19 @@ De houder van een effectenbeurs zorgt ervoor dat het houden van de effectenbeurs
 
 5. Het vierde lid is niet van toepassing op kredietinstellingen die in een reclame-uiting vermelden dat op hen het depositogarantiestelsel van toepassing is.
 
-#### Artikel 4:18. (geschiktheid voor betalingsverkeer in openbare lichamen)
+##### Artikel 4:18. (geschiktheid voor betalingsverkeer in openbare lichamen)
 
 1. Een kredietinstelling draagt er zorg voor dat de door haar in een openbaar lichaam aangeboden betaal- of spaarrekeningen met de daaraan verbonden betaal- of spaarfaciliteiten geschikt zijn voor deelname aan het betalingsverkeer in de openbare lichamen.
 
 2. De in het eerste lid bedoelde verplichting geldt niet voor rekeningen die zijn bestemd voor deelname aan het betalingsverkeer met het buitenland.
 
-#### Artikel 4:19. (informatie over betaler bij geldovermakingen)
+##### Artikel 4:19. (informatie over betaler bij geldovermakingen)
 
 1. Een kredietinstelling, geldtransactiekantoor of elektronischgeldinstelling is verplicht bij geldovermakingen informatie over de betaler en de ontvanger bij te voegen.
 
 2. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het eerste lid, alsmede regels met betrekking tot het bewaren en beschikbaar houden van de over de betaler bij te voegen informatie, de behandeling van ontvangen geldovermakingen waarbij niet alle vereiste informatie is gevoegd, en het optreden als intermediaire dienstverlener bij geldovermakingen.
 
-#### Artikel 4:20. (uitgifte en omwisseling elektronisch geld)
+##### Artikel 4:20. (uitgifte en omwisseling elektronisch geld)
 
 1. Een elektronischgeldinstelling of kredietinstelling geeft slechts elektronisch geld uit tegen een waarde die ten hoogste gelijk is aan de waarde van de voor de uitgifte ontvangen gelden.
 
@@ -1280,11 +1307,11 @@ De houder van een effectenbeurs zorgt ervoor dat het houden van de effectenbeurs
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de uitgifte en omwisseling van elektronisch geld.
 
-#### Artikel 4:21. (geconsolideerd toezicht op kredietinstellingen)
+##### Artikel 4:21. (geconsolideerd toezicht op kredietinstellingen)
 
 Een kredietinstelling met zetel in de openbare lichamen die een dochtermaatschappij is van een kredietinstelling met zetel in het buitenland, staat in de staat waar de laatstbedoelde kredietinstelling haar zetel heeft, onder voldoende geconsolideerd toezicht.
 
-#### Artikel 4:22. (verbod op correspondentbankrelatie met shellbank)
+##### Artikel 4:22. (verbod op correspondentbankrelatie met shellbank)
 
 Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling van transacties of de uitvoering van opdrachten aan te gaan of voort te zetten met:
 
@@ -1292,7 +1319,7 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 - b. een buitenlandse kredietinstelling waarvan bekend is dat zij instellingen of ondernemingen als bedoeld in onderdeel a toestaat om gebruik te maken van haar rekeningen.
 
-#### Artikel 4:23. (vvgb-plichtige handelingen van kredietinstellingen)
+##### Artikel 4:23. (vvgb-plichtige handelingen van kredietinstellingen)
 
 1. Het is een kredietinstelling met zetel in de openbare lichamen, anders dan na verkregen verklaring van geen bezwaar van de Nederlandsche Bank, verboden:
 
@@ -1322,7 +1349,7 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 - b. verworven dan wel nog te verwerven middellijke deelnemingen, niet zijnde deelnemingen als bedoeld in onderdeel a, voor zover deze deelnemingen buiten de invloedssfeer van de aanvrager zijn verworven dan wel worden verworven.
 
-#### Artikel 4:24. (verklaring van geen bezwaar)
+##### Artikel 4:24. (verklaring van geen bezwaar)
 
 1. De Nederlandsche Bank verleent de in [artikel 4:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=3&artikel=4:23&z=2023-07-01&g=2023-07-01) bedoelde verklaring van geen bezwaar, tenzij de handeling waarvoor de verklaring wordt gevraagd:
 
@@ -1336,13 +1363,13 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 #### § 4. **Verzekeraars**
 
-#### Artikel 4:25. (combinatie leven en schade)
+##### Artikel 4:25. (combinatie leven en schade)
 
 1. Het is een verzekeraar met zetel in de openbare lichamen verboden zowel het bedrijf van levensverzekeraar als dat van schadeverzekeraar uit te oefenen.
 
 2. Het is een verzekeraar met zetel in het buitenland, die in het buitenland zowel het levensverzekeringsbedrijf als het schadeverzekeringsbedrijf uitoefent, verboden in de openbare lichamen het levensverzekeringsbedrijf uit te oefenen.
 
-#### Artikel 4:26. (branches van het schadeverzekeringsbedrijf)
+##### Artikel 4:26. (branches van het schadeverzekeringsbedrijf)
 
 1. Het bedrijf van schadeverzekeraar wordt onderscheiden in de volgende branches:
 
@@ -1360,41 +1387,41 @@ Het is een kredietinstelling verboden om een vaste relatie voor de afwikkeling v
 
 3. Bij algemene maatregel van bestuur wordt bepaald welke risico’s die behoren tot een andere branche dan de branche of branches waarvoor vergunning tot uitoefening van het bedrijf van schadeverzekeraar is verleend, als bijkomend risico mogen worden verzekerd, alsmede welke risico’s niet als bijkomende risico’s met andere branches mogen worden gecombineerd.
 
-#### Artikel 4:27. (nadere regels betreffende verzekeringsbranches)
+##### Artikel 4:27. (nadere regels betreffende verzekeringsbranches)
 
 Bij algemene maatregel kunnen nadere regels worden gesteld met betrekking tot de branches waarin het bedrijf van schadeverzekeraar wordt onderscheiden, alsmede regels met betrekking tot de branches waarin het bedrijf van levensverzekeraar wordt onderscheiden. [Artikel 4:26, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 4:28. (verbod uitoefening verzekeringsbedrijf in andere branches)
+##### Artikel 4:28. (verbod uitoefening verzekeringsbedrijf in andere branches)
 
 1. Het is verboden het bedrijf van levensverzekeraar of schadeverzekeraar uit te oefenen in een branche waarvoor geen vergunning is verleend.
 
 2. Het eerste lid is niet van toepassing op risico’s die op grond van [artikel 4:26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:26&z=2023-07-01&g=2023-07-01), als bijkomende risico’s mogen worden verzekerd.
 
-#### Artikel 4:29. (verbod op nevenbedrijf)
+##### Artikel 4:29. (verbod op nevenbedrijf)
 
 1. Het is een verzekeraar aan wie vergunning tot uitoefening van het bedrijf van levensverzekeraar, natura-uitvaartverzekeraar of schadeverzekeraar is verleend, verboden een ander bedrijf uit te oefenen dan het verzekeringsbedrijf waarvoor de vergunning is verleend.
 
 2. In afwijking van het eerste lid is het een verzekeraar aan wie vergunning tot uitoefening van het bedrijf van levensverzekeraar is verleend, tevens toegestaan het bedrijf van natura-uitvaartverzekeraar uit te oefenen.
 
-#### Artikel 4:30. (verbod op verzekeren van molest)
+##### Artikel 4:30. (verbod op verzekeren van molest)
 
 Het is een verzekeraar verboden schaden te verzekeren, veroorzaakt door of ontstaan uit gewapend conflict, burgeroorlog, opstand, binnenlandse onlusten, oproer of muiterij. In zee-, transport-, luchtvaart- en reisverzekeringen is het evenwel toegestaan risico’s van molest te verzekeren in de algemeen gebruikelijke molestclausules, zolang de Nederlandsche Bank daartegen geen bedenkingen naar voren heeft gebracht.
 
-#### Artikel 4:31. (krediet, borgtocht en rechtsbijstand)
+##### Artikel 4:31. (krediet, borgtocht en rechtsbijstand)
 
 Kredietverzekeringen, borgtochtverzekeringen en rechtsbijstandsverzekeringen mogen elk slechts worden gesloten bij een overeenkomst waarbij uitsluitend de onder de desbetreffende verzekering gedekte risico’s worden verzekerd.
 
-#### Artikel 4:32. (aansprakelijkheid motorrijtuigen)
+##### Artikel 4:32. (aansprakelijkheid motorrijtuigen)
 
 Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, voldoet aan de in de [Wet aansprakelijkheidsverzekering motorrijtuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254) ter zake van de verzekeringsvoorwaarden gestelde eisen.
 
-#### Artikel 4:33. (nadere regels voor specifieke branches of verzekeringen)
+##### Artikel 4:33. (nadere regels voor specifieke branches of verzekeringen)
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de uitoefening van het bedrijf van levensverzekeraar of schadeverzekeraar in een specifieke branche.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de in overeenkomsten van verzekering op te nemen voorwaarden.
 
-#### Artikel 4:34. (munteenheid in verzekeringsovereenkomsten)
+##### Artikel 4:34. (munteenheid in verzekeringsovereenkomsten)
 
 1. Verzekeringen, gesloten met een in de openbare lichamen woonachtige of gevestigde cliënt luiden, tenzij het verzekerde risico buiten de openbare lichamen is gelegen, in de munteenheid van de openbare lichamen.
 
@@ -1402,7 +1429,7 @@ Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakel
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat het eerste lid niet geldt voor bij die maatregel aan te wijzen categorieën verzekeringen. Voorts kunnen bij of krachtens algemene maatregel van bestuur nadere regels worden gesteld met betrekking tot de plaats van ligging van het verzekerde risico, bedoeld in het eerste lid.
 
-#### Artikel 4:35. (toestemming DNB voor portefeuilleoverdracht)
+##### Artikel 4:35. (toestemming DNB voor portefeuilleoverdracht)
 
 1. Een verzekeraar kan zijn rechten en verplichtingen uit overeenkomsten van levensverzekering of natura-uitvaartverzekering slechts bij schriftelijke overeenkomst en met schriftelijke toestemming van de Nederlandsche Bank aan een andere verzekeraar overdragen.
 
@@ -1412,7 +1439,7 @@ Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakel
 
 4. Het eerste lid is niet van toepassing op de overdracht van rechten en verplichtingen uit individuele verzekeringen op schriftelijk verzoek van de verzekeringnemer.
 
-#### Artikel 4:36. (instemming polishouders met portefeuilleoverdracht)
+##### Artikel 4:36. (instemming polishouders met portefeuilleoverdracht)
 
 1. Een verzekeraar doet van zijn voornemen tot overdracht van rechten en verplichtingen uit overeenkomsten van levensverzekering of natura-uitvaartverzekering mededeling op door de Nederlandsche Bank te bepalen wijze. De mededeling bevat een door de Nederlandsche Bank te bepalen termijn waarbinnen de betrokken polishouders zich bij de Nederlandsche Bank schriftelijk tegen de overdracht kunnen verzetten.
 
@@ -1422,7 +1449,7 @@ Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakel
 
 4. Indien zich niet binnen de in het eerste bedoelde termijn een vierde of meer van de polishouders tegen de voorgenomen overdracht heeft verzet en tegen de overdracht ook bij de Nederlandsche Bank geen bedenkingen bestaan, verleent de Nederlandsche Bank toestemming voor de overdracht. De overdracht kan dan plaatsvinden en is van kracht ten aanzien van alle betrokkenen.
 
-#### Artikel 4:37. (mededeling van portefeuilleoverdracht)
+##### Artikel 4:37. (mededeling van portefeuilleoverdracht)
 
 1. Een verzekeraar die met toestemming van de Nederlandsche Bank rechten en verplichtingen uit overeenkomsten van verzekering heeft overgedragen, doet van die overdracht mededeling op door de Nederlandsche Bank te bepalen wijze. De overdracht wordt van kracht met ingang van de tweede dag na de dag waarop de mededeling is gedaan.
 
@@ -1430,17 +1457,17 @@ Een verzekeraar die verzekeringen aanbiedt tot dekking van wettelijke aansprakel
 
 3. De bij een overdracht van rechten en verplichtingen uit overeenkomsten van schadeverzekering betrokken verzekeringnemers kunnen gedurende drie maanden na de dag waarop de overdracht van kracht is geworden, hun schadeverzekering schriftelijk opzeggen met ingang van de dag na afloop van die termijn.
 
-#### Artikel 4:38. (nadere regels portefeuilleoverdracht)
+##### Artikel 4:38. (nadere regels portefeuilleoverdracht)
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de [artikelen 4:35 tot en met 4:37](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=4&artikel=4:35&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 4:39. (verbod overdracht overeenkomsten naar buitenland)
+##### Artikel 4:39. (verbod overdracht overeenkomsten naar buitenland)
 
 Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit een vestiging in de openbare lichamen, over te boeken naar een vestiging die hij buiten de openbare lichamen heeft.
 
 #### § 5. **Bemiddeling**
 
-#### Artikel 4:40. (zorgplicht aanbieder en bemiddelaar)
+##### Artikel 4:40. (zorgplicht aanbieder en bemiddelaar)
 
 1. De aanbieder van een financieel product die voor de eerste keer door tussenkomst van een bepaalde bemiddelaar een overeenkomst inzake een financieel product aangaat, gaat daartoe pas over nadat hij zich ervan heeft vergewist dat die bemiddelaar met betrekking tot dat product op grond van deze wet is toegelaten tot de uitoefening van het beroep of bedrijf van bemiddelaar.
 
@@ -1448,19 +1475,19 @@ Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit 
 
 3. Een bemiddelaar die weet of behoort te weten dat de vergunning van de aanbieder van een financieel product voor wie hij bemiddelt, is ingetrokken of dat het die aanbieder anderszins niet langer is toegestaan financiële producten aan te bieden, bemiddelt niet langer voor die aanbieder.
 
-#### Artikel 4:41. (zorgplicht bij onderbemiddeling)
+##### Artikel 4:41. (zorgplicht bij onderbemiddeling)
 
 1. Alvorens derden toe te staan in zijn naam of voor zijn rekening te bemiddelen inzake financiële producten of effecten, vergewist een bemiddelaar zich ervan dat die derden op grond van deze wet eveneens zijn toegelaten tot de uitoefening van het beroep of bedrijf van bemiddelaar inzake die producten of effecten.
 
 2. Een bemiddelaar die weet of behoort te weten dat een derde die in zijn naam of voor zijn rekening bemiddelt of in wiens naam of voor wiens rekening hij zelf bemiddelt, niet langer over de op grond van deze wet benodigde vergunning beschikt of anderszins niet langer is toegelaten tot het beroep of bedrijf van bemiddelaar, staat die derde niet langer toe in zijn naam of voor zijn rekening te bemiddelen, dan wel beëindigt zijn eigen werkzaamheden in naam of voor rekening van die derde.
 
-#### Artikel 4:42. (portefeuille assurantiebemiddelaar)
+##### Artikel 4:42. (portefeuille assurantiebemiddelaar)
 
 1. Een verzekering die door tussenkomst van een bemiddelaar tot stand is gekomen of naar de portefeuille van een bemiddelaar is overgeboekt, behoort in de relatie tot de betrokken verzekeraar tot de portefeuille van die bemiddelaar, zolang zij daaruit niet is overgeboekt of door de verzekeraar in eigen beheer is genomen.
 
 2. Bij algemene maatregel van bestuur kan worden bepaald dat een bemiddelaar in verzekeringen jegens de verzekeraar aanspraak op beloning of vergoeding heeft over tot zijn portefeuille behorende verzekeringen, volgens bij of krachtens die maatregel te stellen regels.
 
-#### Artikel 4:43. (overboeking of in eigen beheer nemen)
+##### Artikel 4:43. (overboeking of in eigen beheer nemen)
 
 1. Een verzekeraar boekt niet zonder toestemming van de bemiddelaar of diens rechtverkrijgenden een deel of het geheel van diens portefeuille over naar de portefeuille van een andere bemiddelaar.
 
@@ -1470,13 +1497,13 @@ Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit 
 
 4. De verzekeraar verleent op schriftelijk verzoek van een bemiddelaar zijn medewerking aan de gehele of gedeeltelijke overdracht van de portefeuille van die bemiddelaar aan een andere bemiddelaar, tenzij de verzekeraar gegronde bezwaren heeft tegen die bemiddelaar.
 
-#### Artikel 4:44. (incasso van verzekeringspremies)
+##### Artikel 4:44. (incasso van verzekeringspremies)
 
 1. Tenzij anders wordt overeengekomen, verzorgt de bemiddelaar voor de verzekeraar het incasso van de premies. Ter zake van dit premie-incasso is hij jegens de verzekeraar te allen tijde rekening en verantwoording schuldig.
 
 2. Betaling van de verschuldigde premie en kosten aan de bemiddelaar bevrijdt de verzekeringnemer van diens betalingsverplichting jegens de verzekeraar. Alsdan gaat de verplichting tot betaling van de verschuldigde premie en kosten over op de bemiddelaar.
 
-#### Artikel 4:45. (beëindiging van incasso door bemiddelaar)
+##### Artikel 4:45. (beëindiging van incasso door bemiddelaar)
 
 1. Tenzij tussen verzekeraar en bemiddelaar anders is overeengekomen, kan de verzekeraar het premie-incasso door een bemiddelaar beëindigen, indien:
 
@@ -1488,13 +1515,13 @@ Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit 
 
 3. In de gevallen waarin op grond van het eerste of tweede lid het premie-incasso door een bemiddelaar eindigt, wordt dit door de verzekeraar overgenomen.
 
-#### Artikel 4:46. (gevolmachtigde en ondergevolmachtigde agent)
+##### Artikel 4:46. (gevolmachtigde en ondergevolmachtigde agent)
 
 1. De [artikelen 4:40](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2023-07-01&g=2023-07-01) en [4:41](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:41&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op een verzekeraar en zijn gevolmachtigde agent, onderscheidenlijk een gevolmachtigde agent en diens ondergevolmachtigde agent.
 
 2. Voor de toepassing van de [artikelen 4:40 tot en met 4:45](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=5&artikel=4:40&z=2023-07-01&g=2023-07-01) wordt, indien een bemiddelaar in verzekeringen bemiddelt voor een gevolmachtigde agent of een ondergevolmachtigde agent, de gevolmachtigde agent dan wel ondergevolmachtigde agent gelijkgesteld met een verzekeraar.
 
-#### Artikel 4:47. (volmacht)
+##### Artikel 4:47. (volmacht)
 
 1. De aan een gevolmachtigde of ondergevolmachtigde agent te verlenen volmacht of ondervolmacht wordt schriftelijk verleend. Bij algemene maatregel van bestuur kan worden bepaald dat de volmacht wordt opgemaakt overeenkomstig een krachtens die maatregel vast te stellen model.
 
@@ -1504,7 +1531,7 @@ Het is een verzekeraar verboden overeenkomsten van verzekering, gesloten vanuit 
 
 4. Beperkingen aan een volmacht of ondervolmacht kunnen niet aan derden worden tegengeworpen. De ondergevolmachtigde agent geldt jegens de verzekeraar niet als derde.
 
-#### Artikel 4:48. (nadere regels)
+##### Artikel 4:48. (nadere regels)
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de onderlinge verhouding tussen aanbieders van financiële producten, bemiddelaars en gevolmachtigde of ondergevolmachtigde agenten en de daarbij in acht te nemen rechten en verplichtingen.
 
@@ -1512,19 +1539,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gest
 
 #### § 1. **Algemene bepalingen betreffende marktgedrag**
 
-#### Artikel 5:1. (begrip financiëledienstverlener)
+##### Artikel 5:1. (begrip financiëledienstverlener)
 
 In deze paragraaf en de daarop berustende bepalingen wordt onder financiëledienstverlener verstaan: degene die een financieel product aanbiedt of een financiële dienst verleent.
 
-#### Artikel 5:2. (zorgvuldige behandeling consumenten en cliënten)
+##### Artikel 5:2. (zorgvuldige behandeling consumenten en cliënten)
 
 Een financiëledienstverlener neemt jegens consumenten of cliënten de nodige zorgvuldigheid in acht. Hij houdt zich daartoe in ieder geval aan de ingevolge deze paragraaf op hem van toepassing zijnde regels.
 
-#### Artikel 5:3. (informatieverstrekking door financiëledienstverlener)
+##### Artikel 5:3. (informatieverstrekking door financiëledienstverlener)
 
 Een financiëledienstverlener draagt er zorg voor dat de door of namens hem ten behoeve van consumenten of cliënten in de vorm van reclame-uitingen of anderszins over een financieel product, een financiële dienst of effecten verstrekte of beschikbaar gestelde informatie feitelijk juist, duidelijk en niet misleidend is.
 
-#### Artikel 5:4. (precontractuele informatie)
+##### Artikel 5:4. (precontractuele informatie)
 
 1. Een financiëledienstverlener draagt er zorg voor dat de consument of cliënt tijdig en kosteloos de informatie ontvangt die deze redelijkerwijs nodig heeft om zich, voordat hij met betrekking tot een financieel product, een financiële dienst of effecten een verplichting aangaat, over dat product, die dienst of die effecten een adequaat oordeel te vormen.
 
@@ -1534,7 +1561,7 @@ Een financiëledienstverlener draagt er zorg voor dat de door of namens hem ten 
 
 4. Indien een financieel product wordt aangeboden door tussenkomst van een bemiddelaar, rust de in het eerste lid bedoelde verplichting om de consument of cliënt van informatie met betrekking tot dat product te voorzien, op de bemiddelaar.
 
-#### Artikel 5:5. (verhouding tussen aanbieder en tussenpersoon)
+##### Artikel 5:5. (verhouding tussen aanbieder en tussenpersoon)
 
 1. Een adviseur of bemiddelaar informeert de consument of cliënt over de zakelijke relatie die hij in voorkomend geval onderhoudt met de aanbieder of aanbieders van het financiële product waarover hij adviseert of ter zake waarvan hij bemiddelt.
 
@@ -1542,13 +1569,13 @@ Een financiëledienstverlener draagt er zorg voor dat de door of namens hem ten 
 
 3. Bij algemene maatregel van bestuur kan voor bij die maatregel aan te wijzen financiële producten of effecten worden bepaald dat een bemiddelaar de consument of cliënt voorafgaand aan de totstandkoming van een overeenkomst inzake zodanig product informeert over de hoogte van de provisie die hij in verband met zijn bemiddeling ontvangt, daaronder mede begrepen afsluitprovisies en doorlopende provisies per betalingstermijn.
 
-#### Artikel 5:6. (informatie gedurende de overeenkomst)
+##### Artikel 5:6. (informatie gedurende de overeenkomst)
 
 1. Een financiëledienstverlener die een overeenkomst inzake een financieel product of financiële dienst is aangegaan met een consument of client, verstrekt die consument of cliënt gedurende de looptijd van de overeenkomst tijdig informatie over wezenlijke wijzigingen ten opzichte van eerder verstrekte informatie, wijzigingen in de voorwaarden waaronder de overeenkomst is aangegaan, alsmede andere informatie met betrekking tot dat product of die dienst, voor zover die informatie voor de consument of cliënt redelijkerwijs relevant is.
 
 2. Indien een overeenkomst inzake een financieel product door tussenkomst van een bemiddelaar tot stand is gekomen, rust de in het eerste lid bedoelde verplichting op de aanbieder van het product, tenzij aanbieder en bemiddelaar anders zijn overeengekomen.
 
-#### Artikel 5:7. (passend advies)
+##### Artikel 5:7. (passend advies)
 
 1. Een financiëledienstverlener die een consument of cliënt adviseert, baseert zijn advies op de financiële positie, kennis en ervaring, doelstellingen en risicobereidheid van de consument of cliënt.
 
@@ -1556,15 +1583,15 @@ Een financiëledienstverlener draagt er zorg voor dat de door of namens hem ten 
 
 3. Indien een financiëledienstverlener een consument of cliënt bij het verlenen van een financiële dienst niet adviseert, maakt hij dat voorafgaand aan zijn werkzaamheden ten behoeve van de consument of cliënt aan deze kenbaar.
 
-#### Artikel 5:8. (passend vermogensbeheer)
+##### Artikel 5:8. (passend vermogensbeheer)
 
 Een vermogensbeheerder wint informatie in over de financiële positie, kennis en ervaring, doelstellingen en risicobereidheid van de cliënt en stemt het beheer van het vermogen van de cliënt mede daarop af.
 
-#### Artikel 5:9. (behandeling van klachten)
+##### Artikel 5:9. (behandeling van klachten)
 
 Een financiëledienstverlener draagt er zorg voor dat klachten van consumenten of cliënten zorgvuldig, consistent en binnen een redelijke termijn worden behandeld.
 
-#### Artikel 5:10. (beloning van tussenpersonen)
+##### Artikel 5:10. (beloning van tussenpersonen)
 
 1. De beloning die een adviseur of bemiddelaar voor door hem verleende financiële diensten ontvangt van de aanbieder van een financieel product, mag niet zodanig zijn dat de belangen van de consument of cliënt daardoor in het gedrang komen of kunnen komen.
 
@@ -1576,17 +1603,17 @@ Een financiëledienstverlener draagt er zorg voor dat klachten van consumenten o
 
 - b. het rechtstreeks of middellijk toekennen, afstaan of beloven van provisie, retourprovisie of enig ander op geld waardeerbaar voordeel aan anderen dan de bemiddelaar tot wiens portefeuille een verzekering behoort.
 
-#### Artikel 5:11. (gevolmachtigd of ondergevolmachtigd agent)
+##### Artikel 5:11. (gevolmachtigd of ondergevolmachtigd agent)
 
 Indien een verzekering door tussenkomst van een gevolmachtigd of ondergevolmachtigd agent wordt aangeboden of afgesloten, wordt de gevolmachtigde of ondergevolmachtigde agent voor de toepassing van deze paragraaf aangemerkt als degene die de verzekering aanbiedt.
 
-#### Artikel 5:12. (nadere regels)
+##### Artikel 5:12. (nadere regels)
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de door financiëledienstverleners jegens consumenten of cliënten in acht te nemen zorgvuldigheid en met betrekking tot de in de [artikelen 5:3 tot en met 5:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=1&artikel=5:3&z=2023-07-01&g=2023-07-01) geregelde onderwerpen.
 
 #### § 2. **Kredietverlening**
 
-#### Artikel 5:13. (begripsbepalingen)
+##### Artikel 5:13. (begripsbepalingen)
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1594,7 +1621,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - **vertragingsvergoeding:** alle kosten die een kredietaanbieder in verband met niet-nakoming of te late betaling door de kredietnemer van aflossing of rente in rekening brengt aan de kredietnemer, met uitzondering van buitengerechtelijke incassokosten.
 
-#### Artikel 5:14. (kredietwaardigheidstoets)
+##### Artikel 5:14. (kredietwaardigheidstoets)
 
 1. Een kredietaanbieder gaat geen overeenkomst inzake krediet aan met een consument, noch gaat hij over tot een verhoging van een reeds op grond van een bestaande overeenkomst aan een consument beschikbaar gesteld krediet, indien dit gelet op het risico van overkreditering onverantwoord is.
 
@@ -1602,7 +1629,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid, alsmede regels met betrekking tot de erkenning en inrichting van een stelsel van kredietregistratie.
 
-#### Artikel 5:15. (maximale kredietvergoeding)
+##### Artikel 5:15. (maximale kredietvergoeding)
 
 1. Een kredietaanbieder brengt geen hogere kredietvergoeding, vertragingsvergoeding of vergoeding voor vervroegde aflossing in rekening dan is toegestaan krachtens het tweede lid.
 
@@ -1610,7 +1637,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een overeenkomst in strijd met de krachtens het tweede lid gestelde regels is vernietigbaar. Op deze vernietigingsgrond kan uitsluitend de kredietnemer een beroep doen.
 
-#### Artikel 5:16. (verbod op koppelverkoop)
+##### Artikel 5:16. (verbod op koppelverkoop)
 
 1. Een kredietaanbieder verplicht de kredietnemer bij het aangaan van een kredietovereenkomst niet tot het aangaan van een andere overeenkomst inzake een financieel product of een financiële dienst, tenzij:
 
@@ -1624,7 +1651,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. **Herroepingsrechten van krediet- of verzekeringnemer**
 
-#### Artikel 5:17. (herroepingsrecht kredietovereenkomst)
+##### Artikel 5:17. (herroepingsrecht kredietovereenkomst)
 
 1. Een consument heeft het recht om de kredietovereenkomst zonder opgave van redenen gedurende te ontbinden gedurende vijf werkdagen na de dag van de sluiting van de kredietovereenkomst.
 
@@ -1634,7 +1661,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het eerste lid is niet van toepassing op hypothecair krediet.
 
-#### Artikel 5:18. (herroepingsrecht levens- en natura-uitvaartverzekeringen)
+##### Artikel 5:18. (herroepingsrecht levens- en natura-uitvaartverzekeringen)
 
 1. Een verzekeringnemer heeft het recht om een overeenkomst inzake een individuele levensverzekering met een looptijd van meer dan zes maanden of een natura-uitvaartverzekering zonder opgave van redenen schriftelijk te ontbinden gedurende dertig kalenderdagen na het sluiten van de overeenkomst.
 
@@ -1642,7 +1669,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 4. **Aanbieden van effecten**
 
-#### Artikel 5:19. (prospectusplicht)
+##### Artikel 5:19. (prospectusplicht)
 
 1. Het is verboden in de openbare lichamen buiten besloten kring effecten aan te bieden aan anderen dan professionele marktpartijen of effecten te doen toelaten tot de handel op een in de openbare lichamen gehouden effectenbeurs, tenzij ter zake van de aanbieding een prospectus algemeen verkrijgbaar is, dat is goedgekeurd door de Autoriteit Financiële Markten.
 
@@ -1652,7 +1679,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. bij regeling van Onze Minister uitgezonderde categorieën effecten.
 
-#### Artikel 5:20. (goedkeuring prospectus)
+##### Artikel 5:20. (goedkeuring prospectus)
 
 1. De Autoriteit Financiële Markten verleent goedkeuring van een prospectus, indien het prospectus voldoet aan de bij of krachtens [artikel 5:21](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:21&z=2023-07-01&g=2023-07-01) gestelde regels.
 
@@ -1660,7 +1687,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De [artikelen 2:6](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:6&z=2023-07-01&g=2023-07-01), [2:7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:7&z=2023-07-01&g=2023-07-01), [2:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=2&artikel=2:9&z=2023-07-01&g=2023-07-01) en [2:16](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:16&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing, met dien verstande dat indien de aanvrager op grond van artikel 2:7, tweede lid, in de gelegenheid is gesteld om zijn aanvraag aan te vullen, de termijnen, bedoeld in het tweede lid, opnieuw ingaan, te rekenen vanaf het tijdstip waarop de aanvrager zijn aanvraag heeft aangevuld.
 
-#### Artikel 5:21. (eisen aan prospectus)
+##### Artikel 5:21. (eisen aan prospectus)
 
 1. Het prospectus, bedoeld in [artikel 5:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=4&artikel=5:19&z=2023-07-01&g=2023-07-01), bevat alle gegevens die, gelet op de aard van de uitgevende instelling en van de aan het publiek aangeboden of tot de handel op de effectenbeurs toegelaten effecten, van belang zijn voor het vormen van een verantwoord oordeel over het vermogen, de financiële positie, het resultaat en de vooruitzichten van de uitgevende instelling en de eventuele garant en de rechten welke aan deze effecten verbonden zijn.
 
@@ -1668,7 +1695,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de aan een prospectus te stellen eisen.
 
-#### Artikel 5:22. (doorlopende informatieverplichtingen)
+##### Artikel 5:22. (doorlopende informatieverplichtingen)
 
 1. Een uitgevende instelling, niet zijnde een uitgevende instelling waarvan effecten zijn toegelaten tot de handel op een effectenbeurs waarvoor een vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), is verleend, stelt binnen vier maanden na afloop van het boekjaar haar jaarlijkse financiële verslaggeving algemeen verkrijgbaar. Tot de jaarlijkse financiële verslaggeving behoren in ieder geval de door een externe deskundige goedgekeurde jaarrekening en het jaarverslag.
 
@@ -1676,7 +1703,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 5:23. (reclameregel)
+##### Artikel 5:23. (reclameregel)
 
 1. Een uitgevende instelling of aanbieder van effecten draagt er zorg voor dat reclame-uitingen die betrekking hebben op het aanbieden van effecten:
 
@@ -1688,7 +1715,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 5. **Marktmisbruik**
 
-#### Artikel 5:24. (begrip voorwetenschap)
+##### Artikel 5:24. (begrip voorwetenschap)
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwetenschap: bekendheid met informatie die concreet is en die rechtstreeks of middellijk betrekking heeft op een uitgevende instelling van effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2023-07-01&g=2023-07-01), of op de handel in zodanige effecten:
 
@@ -1696,7 +1723,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 - b. waarvan openbaarmaking significante invloed zou kunnen hebben op de koers van de effecten of op de koers van daarvan afgeleide effecten.
 
-#### Artikel 5:25. (verbod op gebruik voorwetenschap)
+##### Artikel 5:25. (verbod op gebruik voorwetenschap)
 
 1. Het is een ieder verboden om gebruik te maken van voorwetenschap door in of vanuit de openbare lichamen een transactie te verrichten of te bewerkstelligen in:
 
@@ -1714,7 +1741,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 3. Bij algemene maatregel van bestuur kan worden bepaald dat het in het eerste lid bedoelde verbod niet van toepassing is op bij die maatregel aangewezen categorieën transacties. Binnen een categorie kan onderscheid worden gemaakt naar de personen die een transactie verrichten of de omstandigheden waaronder een transactie wordt verricht.
 
-#### Artikel 5:26. (tipverbod)
+##### Artikel 5:26. (tipverbod)
 
 1. Het is een ieder die beschikt over voorwetenschap, verboden om:
 
@@ -1726,7 +1753,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 3. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gevallen waarin en de omstandigheden waaronder sprake is van meedelen in de normale uitoefening van werk, beroep of functie als bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 5:27. (verbod op marktmanipulatie)
+##### Artikel 5:27. (verbod op marktmanipulatie)
 
 1. Het is verboden een transactie te verrichten of te bewerkstelligen in effecten als bedoeld in [artikel 5:25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=5&paragraaf=5&artikel=5:25&z=2023-07-01&g=2023-07-01):
 
@@ -1746,7 +1773,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 #### § 1. **Algemene bepalingen**
 
-#### Artikel 6:1. (begripsbepalingen)
+##### Artikel 6:1. (begripsbepalingen)
 
 1. In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1778,7 +1805,7 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder voorwe
 
 2. Onder een met een persoon gelieerde partij wordt in dit hoofdstuk verstaan een persoon wiens verkrijgen, houden of bezitten van stemgerechtigde aandelen, op grond van [artikel 6:3, eerste lid, onderdelen b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2023-07-01&g=2023-07-01), mede wordt toegerekend aan die persoon.
 
-#### Artikel 6:2. (stemgerechtigde aandelen)
+##### Artikel 6:2. (stemgerechtigde aandelen)
 
 Onder stemgerechtigde aandelen wordt mede verstaan:
 
@@ -1790,7 +1817,7 @@ Onder stemgerechtigde aandelen wordt mede verstaan:
 
 - d. rechten tot het verkrijgen van stemgerechtigde aandelen, waarbij de bezitter of houder van het recht mede als de bezitter of houder van het aan die aandelen verbonden stemrecht wordt aangemerkt; indien het recht aandelen betreft die niet zijn uitgegeven of die door de vennootschap zelf worden gehouden, worden voor de berekening van het aan een persoon toekomend percentage van het stemrecht, de aandelen op de verkrijging waarvan die persoon recht heeft, berekend als zijn deze uitgegeven en worden deze gehouden door die persoon.
 
-#### Artikel 6:3. (verkrijgen, houden of bezitten van aandelen)
+##### Artikel 6:3. (verkrijgen, houden of bezitten van aandelen)
 
 1. Onder verkrijgen, houden of bezitten van stemgerechtigde aandelen door een persoon wordt mede verstaan:
 
@@ -1806,19 +1833,19 @@ Onder stemgerechtigde aandelen wordt mede verstaan:
 
 2. Wanneer een persoon met een derde die stemgerechtigde aandelen houdt, een overeenkomst aangaat als bedoeld in het eerste lid, onderdeel e, of tussen die persoon en de derde een verhouding ontstaat als bedoeld in de onderdelen a tot en met d van dat lid, of de derde dochtermaatschappij van die persoon wordt, dan geldt het tijdstip waarop de overeenkomst wordt aangegaan, de verhouding ontstaat, of de derde dochtermaatschappij wordt, als het moment waarop die aandelen door die persoon zijn verkregen.
 
-#### Artikel 6:4. (uitzondering voor effectenverkeer)
+##### Artikel 6:4. (uitzondering voor effectenverkeer)
 
 Stemgerechtigde aandelen die verkregen en gehouden worden door personen die toegelaten zijn tot een erkende effectenbeurs of anderszins onder de voor die beurs van toepassing zijnde regels vergunning hebben hun bedrijf uit te oefenen, voor zover die aandelen in de normale uitoefening van hun beroep of bedrijf worden verkregen en gehouden, en voor zover zij door hen niet worden gebruikt om zeggenschap in de vennootschap te verkrijgen of trachten te verkrijgen, worden voor de berekening van het door hen verkregen of gehouden percentage aan stemrecht buiten beschouwing gelaten.
 
 #### § 2. **Kennisgeving van zeggenschap**
 
-#### Artikel 6:5. (meldingsplicht)
+##### Artikel 6:5. (meldingsplicht)
 
 1. De persoon die, onder welke titel ook, stemgerechtigde aandelen in het kapitaal van een vennootschap verkrijgt, en die weet of behoort te weten dat hij door deze verkrijging stemrecht bezit dat een percentage bereikt of overschrijdt van 5, 10, 20, 33 1/3, 50 of 66 2/3 van alle stemmen die op het geplaatste kapitaal van die vennootschap kunnen worden uitgebracht, meldt dit onverwijld aan de vennootschap.
 
 2. Wanneer stemgerechtigde aandelen anders dan door overdracht van aandelen op naam worden verkregen, wordt aan de plicht onverwijld te melden, voldaan, indien de vennootschap de melding ontvangt binnen vijf dagen nadat de meldingsplicht ontstond.
 
-#### Artikel 6:6. (inhoud melding)
+##### Artikel 6:6. (inhoud melding)
 
 1. De melding geschiedt schriftelijk aan het kantoor van de vennootschap volgens het Handelsregister gehouden door de Kamer van Koophandel en Nijverheid in het openbaar lichaam waar de vennootschap is gevestigd, alsmede aan de domicilies van de vennootschap in steden waarin een erkende effectenbeurs is gevestigd, die door de vennootschap ter uitvoering van deze wet zijn gekozen en opgegeven aan bedoeld Handelsregister.
 
@@ -1840,11 +1867,11 @@ Stemgerechtigde aandelen die verkregen en gehouden worden door personen die toeg
 
 4. Indien de meldingsplichtige in de melding stelt dat hij niet een van de in het derde lid, onderdelen a en b, genoemde voornemens heeft, is het hem verboden om binnen de tijd van twaalf maanden meer aandelen te verwerven, zonder dit eerst ten minste vier weken van te voren aan het bestuur te melden overeenkomstig dit artikel.
 
-#### Artikel 6:7. (meerdere personen meldingsplichtig)
+##### Artikel 6:7. (meerdere personen meldingsplichtig)
 
 Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=1&artikel=6:3&z=2023-07-01&g=2023-07-01), meerdere personen meldingsplichtig zijn, worden door de melding door een van hen de overigen van de meldingsplicht ontslagen.
 
-#### Artikel 6:8. (openbaar maken melding)
+##### Artikel 6:8. (openbaar maken melding)
 
 1. Het bestuur van een vennootschap dat een melding heeft ontvangen als bedoeld in [artikel 6:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&artikel=6:5&z=2023-07-01&g=2023-07-01), maakt onverwijld de inhoud ervan openbaar in een advertentie in een of meer in de openbare lichamen gepubliceerde nieuwsbladen, en door kennisgeving aan de aandeelhouders op de wijze waarop zij doorgaans berichten of oproepingen aan hen doorgeeft.
 
@@ -1854,7 +1881,7 @@ Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 #### § 3. **Openbaar bod**
 
-#### Artikel 6:9. (openbaar bod)
+##### Artikel 6:9. (openbaar bod)
 
 1. De persoon die voornemens is, onder welke titel ook, stemgerechtigde aandelen in het kapitaal van een vennootschap te verkrijgen en die weet of behoort te weten dat hij na die verkrijging stemmen zal hebben die 20 procent of meer vertegenwoordigen van alle stemmen die op het geplaatste kapitaal van die vennootschap kunnen worden uitgebracht, stelt, alvorens tot die verkrijging over te gaan, het bestuur van de vennootschap van zijn voornemen op de hoogte en geeft het de gelegenheid met hem te overleggen binnen een periode die hij op niet minder kan stellen dan twee weken nadat hij het bestuur op de hoogte heeft gesteld.
 
@@ -1864,7 +1891,7 @@ Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 4. Indien het bestuur geen gebruik heeft gemaakt van de uitnodiging tot overleg, of indien het overleg niet binnen een week tot een met toestemming van de raad van commissarissen bereikt resultaat heeft geleid, is het de persoon verboden stemgerechtigde aandelen en andere aandelen van de vennootschap boven de in het eerste lid genoemde drempel te verwerven, anders dan door het uitbrengen van een openbaar bod waarbij de voorwaarden, bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2023-07-01&g=2023-07-01), in acht worden genomen.
 
-#### Artikel 6:10. (verplichting aandelenbezit beneden drempel te brengen)
+##### Artikel 6:10. (verplichting aandelenbezit beneden drempel te brengen)
 
 1. De persoon die stemgerechtigde aandelen boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2023-07-01&g=2023-07-01), door welke oorzaak ook is gaan houden zonder toestemming van het bestuur en de raad van commissarissen van de vennootschap of anders dan door een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2023-07-01&g=2023-07-01), brengt onmiddellijk zijn aandelenbezit tot beneden die drempel.
 
@@ -1872,7 +1899,7 @@ Indien ingevolge [artikel 6:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:B
 
 3. Binnen tien dagen nadat een persoon onopzettelijk of buiten zijn toedoen en buiten het toedoen van met hem gelieerde partijen, stemgerechtigde aandelen is gaan houden boven de bedoelde drempel, of nadat hem dat feit bekend werd, of nadat een verzoek tot ontheffing, bedoeld in het tweede lid, is afgewezen, kan de persoon aan het bestuur zijn voornemen kenbaar maken om een openbaar bod als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2023-07-01&g=2023-07-01) uit te brengen. In dat geval is hij niet verplicht zijn aandelenbezit tot beneden de drempel terug te brengen. De verplichting herleeft zodra hij van dat voornemen afziet.
 
-#### Artikel 6:11. (openbaar bod zonder toestemming bestuur en RvC)
+##### Artikel 6:11. (openbaar bod zonder toestemming bestuur en RvC)
 
 Een openbaar bod, uitgebracht door een persoon of door een met hem gelieerde partij, waarmee wordt beoogd of dat ertoe kan leiden dat die persoon stemgerechtigde aandelen in het kapitaal van een vennootschap verkrijgt boven de drempel, bedoeld in [artikel 6:9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:9&z=2023-07-01&g=2023-07-01), en dat wordt uitgebracht zonder de toestemming van het bestuur en van de raad van commissarissen van de vennootschap, dient:
 
@@ -1900,7 +1927,7 @@ Een openbaar bod, uitgebracht door een persoon of door een met hem gelieerde par
 
 #### § 4. **Diverse bepalingen**
 
-#### Artikel 6:12. (afkoelingsperiode)
+##### Artikel 6:12. (afkoelingsperiode)
 
 Indien door een persoon of door een met hem gelieerde partij een openbaar bod is uitgebracht als bedoeld in [artikel 6:11](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:11&z=2023-07-01&g=2023-07-01) en de persoon ten gevolge van de op grond van dat bod verkregen stemgerechtigde aandelen tezamen met de stemgerechtigde aandelen die hij bij het uitbrengen van het bod reeds bezat, minder dan 85 procent van de stemmen kan uitbrengen die op het geplaatste kapitaal van de vennootschap kunnen worden uitgebracht, zal het hem en de met hem gelieerde partijen voor de duur van een jaar na verloop van de aanmeldingstermijn of -termijnen, verboden zijn:
 
@@ -1908,7 +1935,7 @@ Indien door een persoon of door een met hem gelieerde partij een openbaar bod is
 
 - b. in te stemmen met, mee te werken aan, en anderen ertoe te bewegen om in te stemmen met of mee te werken aan de verkoop van aanzienlijke vermogensbestanddelen van de vennootschap en haar dochtermaatschappijen, en aan enig besluit tot ontbinding, fusie of zetelverplaatsing van de vennootschap.
 
-#### Artikel 6:13. (niet-erkenning of nietigverklaring aandelenoverdracht)
+##### Artikel 6:13. (niet-erkenning of nietigverklaring aandelenoverdracht)
 
 1. Indien aandelen op naam worden overgedragen en het bestuur van de vennootschap weet of vermoedt dat:
 
@@ -1924,7 +1951,7 @@ is de vennootschap bevoegd de overdracht niet te erkennen danwel, indien de over
 
 3. De overdracht wordt onmiddellijk erkend wanneer de reden voor het niet erkennen van de overdracht niet meer bestaat.
 
-#### Artikel 6:14. (voorwaarden uitbrengen stemmen)
+##### Artikel 6:14. (voorwaarden uitbrengen stemmen)
 
 1. Op de aan een persoon toegerekende stemgerechtigde aandelen mogen gezamenlijk niet meer stemmen uitgebracht worden dan vertegenwoordigende 5 procent van het geplaatste stemgerechtigde kapitaal van de vennootschap:
 
@@ -1940,7 +1967,7 @@ is de vennootschap bevoegd de overdracht niet te erkennen danwel, indien de over
 
 4. Voor de berekening van een door de statuten vereist quorum, worden de aandelen waarvoor vanwege het eerste of tweede lid geen stemmen mogen worden uitgebracht, aangemerkt als niet geplaatst.
 
-#### Artikel 6:15. (schorsing door vennootschap)
+##### Artikel 6:15. (schorsing door vennootschap)
 
 1. Indien het bestuur van een vennootschap weet of vermoedt dat iemand stemrechten of andere rechten uitoefent of tracht uit te oefenen in strijd met [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2023-07-01&g=2023-07-01), is het bestuur bevoegd die persoon te schorsen in de uitoefening van bedoelde rechten door middel van een aangetekend schrijven aan die persoon.
 
@@ -1952,13 +1979,13 @@ is de vennootschap bevoegd de overdracht niet te erkennen danwel, indien de over
 
 5. Een schorsing wordt voorts terstond opgeheven wanneer [artikel 6:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=4&artikel=6:14&z=2023-07-01&g=2023-07-01) de betrokkene niet meer belet de rechten waarin hij is geschorst, uit te oefenen.
 
-#### Artikel 6:16. (besluiten aandeelhouders buiten vergadering)
+##### Artikel 6:16. (besluiten aandeelhouders buiten vergadering)
 
 De aandeelhouders van een vennootschap als bedoeld in dit hoofdstuk kunnen buiten vergadering slechts geldige besluiten nemen, indien het bestuur verzoekt de besluiten te nemen.
 
 #### § 5. **Uitzonderingen**
 
-#### Artikel 6:17. (uitzonderingen en nadere regels)
+##### Artikel 6:17. (uitzonderingen en nadere regels)
 
 1. Bij algemene maatregel van bestuur kan voor daarvoor in aanmerking komende categorieën vennootschappen worden bepaald dat de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=2&z=2023-07-01&g=2023-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&z=2023-07-01&g=2023-07-01) niet of slechts gedeeltelijk op die vennootschappen van toepassing zijn, of dat voor die vennootschappen andere drempelwaarden gelden dan in die paragrafen is bepaald.
 
@@ -1968,7 +1995,7 @@ De aandeelhouders van een vennootschap als bedoeld in dit hoofdstuk kunnen buite
 
 #### § 1. **Inleidende bepalingen**
 
-#### Artikel 7:1. (begripsbepalingen)
+##### Artikel 7:1. (begripsbepalingen)
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -1994,11 +2021,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - **toezichthouder:** persoon, belast met het houden van toezicht op de naleving van het bij of krachtens deze wet bepaalde.
 
-#### Artikel 7:2. (overtredingen door rechtspersonen)
+##### Artikel 7:2. (overtredingen door rechtspersonen)
 
 Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. [Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=53) is van overeenkomstige toepassing.
 
-#### Artikel 7:3. (rechtvaardigingsgrond; meerdaadse samenloop)
+##### Artikel 7:3. (rechtvaardigingsgrond; meerdaadse samenloop)
 
 1. De toezichtautoriteit legt geen bestuurlijke sanctie op, voor zover voor de overtreding een rechtvaardigingsgrond bestond.
 
@@ -2006,7 +2033,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 #### § 2. **Toezicht op de naleving**
 
-#### Artikel 7:4. (aanwijzing toezichthouders)
+##### Artikel 7:4. (aanwijzing toezichthouders)
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van de toezichtautoriteit aangewezen personen.
 
@@ -2016,7 +2043,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 4. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening door toezichthouders.
 
-#### Artikel 7:5. (legitimatie)
+##### Artikel 7:5. (legitimatie)
 
 1. Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is.
 
@@ -2024,11 +2051,11 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 
 3. Het legitimatiebewijs voldoet aan de bij en krachtens [artikel 5:12, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) gestelde regels.
 
-#### Artikel 7:6. (evenredigheidsbeginsel)
+##### Artikel 7:6. (evenredigheidsbeginsel)
 
 Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-#### Artikel 7:7. (betreden van plaatsen)
+##### Artikel 7:7. (betreden van plaatsen)
 
 1. Een toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, elke plaats te betreden.
 
@@ -2038,15 +2065,15 @@ Een toezichthouder maakt van zijn bevoegdheden slechts gebruik voor zover dat re
 
 4. Op het binnentreden van woningen zonder de toestemming van de bewoner is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&titeldeel=X) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=155), [156, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=156), [157, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=157), [158, eerste lid, laatste zinsnede](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=158), en [160, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=160), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.
 
-#### Artikel 7:8. (vorderen van inlichtingen)
+##### Artikel 7:8. (vorderen van inlichtingen)
 
 Een toezichthouder is bevoegd inlichtingen te vorderen.
 
-#### Artikel 7:9. (inzage van identiteitsdocument)
+##### Artikel 7:9. (inzage van identiteitsdocument)
 
 Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2).
 
-#### Artikel 7:10. (inzage van gegevens en bescheiden)
+##### Artikel 7:10. (inzage van gegevens en bescheiden)
 
 1. Een toezichthouder is bevoegd inzage te vorderen van zakelijke gegevens en bescheiden.
 
@@ -2056,7 +2083,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 4. Een financiële onderneming is, voor zover zij de op haar activiteiten in of vanuit de openbare lichamen betrekking hebbende boeken, bescheiden of andere informatiedragers in het buitenland aanhoudt, verplicht de toezichthouder op diens verzoek inzage te verlenen in die boeken, bescheiden of informatiedragers en hem daartoe toegang te verlenen tot de plaats waar deze zich bevinden.
 
-#### Artikel 7:11. (medewerkingsplicht)
+##### Artikel 7:11. (medewerkingsplicht)
 
 1. Een ieder is verplicht aan een toezichthouder binnen de door hem gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.
 
@@ -2064,7 +2091,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 #### § 3. **Aanwijzing, benoeming curator en activiteitenverbod**
 
-#### Artikel 7:12. (algemene aanwijzingsbevoegdheid)
+##### Artikel 7:12. (algemene aanwijzingsbevoegdheid)
 
 1. De toezichtautoriteit kan een financiële onderneming of andere persoon die niet voldoet aan een ingevolge de [artikelen 1:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:7&z=2023-07-01&g=2023-07-01), [1:26](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:26&z=2023-07-01&g=2023-07-01), [1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2023-07-01&g=2023-07-01), [2:1 tot en met 2:3](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), [2:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:12&z=2023-07-01&g=2023-07-01), [2:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:17&z=2023-07-01&g=2023-07-01), [2:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=3&artikel=2:18&z=2023-07-01&g=2023-07-01), [2:21 tot en met 2:23](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=5&artikel=2:21&z=2023-07-01&g=2023-07-01), de [hoofdstukken 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&z=2023-07-01&g=2023-07-01), de [artikelen 7:10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:10&z=2023-07-01&g=2023-07-01), en [7:11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=2&artikel=7:11&z=2023-07-01&g=2023-07-01), of [hoofdstuk 8, paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=1&z=2023-07-01&g=2023-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&z=2023-07-01&g=2023-07-01), op hem of haar rustende verplichting, een aanwijzing geven.
 
@@ -2074,7 +2101,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 4. Een aanwijzing strekt niet tot aantasting van overeenkomsten tussen degene tot wie de aanwijzing is gericht, en derden.
 
-#### Artikel 7:13. (aanwijzing aan houder van effectenbeurs)
+##### Artikel 7:13. (aanwijzing aan houder van effectenbeurs)
 
 1. De Autoriteit Financiële Markten kan de houder van een effectenbeurs een aanwijzing geven om jegens een derde die zich niet houdt aan de in [artikel 4:16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=4&paragraaf=2&artikel=4:16&z=2023-07-01&g=2023-07-01), bedoelde regels, een bepaalde gedragslijn te volgen.
 
@@ -2084,7 +2111,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 4. [Artikel 7:12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2023-07-01&g=2023-07-01), is van overeenkomstige toepassing op een aanwijzing als bedoeld in het eerste, tweede of derde lid.
 
-#### Artikel 7:14. (benoeming van curator)
+##### Artikel 7:14. (benoeming van curator)
 
 1. De toezichtautoriteit kan een of meer personen benoemen als curator ten aanzien van alle of bepaalde organen of vertegenwoordigers van een financiële onderneming, indien die onderneming niet voldoet aan het bij of krachtens deze wet bepaalde.
 
@@ -2098,7 +2125,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 3. In een geval als bedoeld in het tweede lid, onderdeel b of c, wordt de beslissing niet genomen dan nadat de onderneming in de gelegenheid is gesteld haar zienswijze naar voren te brengen.
 
-#### Artikel 7:15. (gevaar voor financiële waarborgen)
+##### Artikel 7:15. (gevaar voor financiële waarborgen)
 
 1. Onverminderd [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2023-07-01&g=2023-07-01) kan de Nederlandsche Bank een of meer personen benoemen als curator ten aanzien van alle of bepaalde organen of vertegenwoordigers van een financiële onderneming, indien zij tekenen ontwaart van een ontwikkeling die de integere of beheerste bedrijfsuitoefening, het eigen vermogen, de solvabiliteit of de liquiditeit van die financiële onderneming in gevaar kan brengen.
 
@@ -2108,13 +2135,13 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 - b. indien onverwijld ingrijpen noodzakelijk is en de financiële onderneming voorafgaand in de gelegenheid is gesteld haar zienswijze naar voren te brengen over de voorgenomen beslissing.
 
-#### Artikel 7:16. (beslissing om curator te benoemen)
+##### Artikel 7:16. (beslissing om curator te benoemen)
 
 1. De beslissing om een curator te benoemen bevat een beschrijving van de belangen waardoor de curator zich dient te laten leiden. De beslissing is met redenen omkleed en wordt schriftelijk bekendgemaakt aan de betrokken onderneming.
 
 2. De toezichtautoriteit benoemt de curator voor ten hoogste twee jaren, met de mogelijkheid deze termijn telkens voor ten hoogste een jaar te verlengen. Een verlenging wordt terstond van kracht.
 
-#### Artikel 7:17. (gevolgen benoeming curator)
+##### Artikel 7:17. (gevolgen benoeming curator)
 
 1. Met ingang van het tijdstip waarop de beslissing tot benoeming van de curator aan de financiële onderneming is bekendgemaakt, mogen de betrokken organen of vertegenwoordigers hun bevoegdheden slechts uitoefenen na goedkeuring door de curator en met inachtneming van de opdrachten van de curator.
 
@@ -2128,7 +2155,7 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 3. De kosten en beloning van een op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2023-07-01&g=2023-07-01) of [7:15](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:15&z=2023-07-01&g=2023-07-01) benoemde curator komen ten laste van de betrokken financiële onderneming.
 
-#### Artikel 7:18. (bevoegdheden van toezichtautoriteit)
+##### Artikel 7:18. (bevoegdheden van toezichtautoriteit)
 
 1. De toezichtautoriteit kan de organen of vertegenwoordigers ten aanzien waarvan een curator is benoemd, toestaan bepaalde rechtshandelingen zonder goedkeuring van de curator te verrichten.
 
@@ -2136,11 +2163,11 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 
 3. Zodra de omstandigheid die tot benoeming van de curator heeft geleid, niet langer aanwezig is, trekt de toezichtautoriteit de benoeming van de curator in. De beslissing tot intrekking wordt op schrift gesteld en onverwijld bekendgemaakt aan de financiële onderneming.
 
-#### Artikel 7:19. (aantrekken opvorderbare gelden)
+##### Artikel 7:19. (aantrekken opvorderbare gelden)
 
 De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2023-07-01&g=2023-07-01) en [7:16 tot en met 7:18](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:16&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op een ieder die in de uitoefening van een bedrijf in of vanuit de openbare lichamen buiten besloten kring opvorderbare gelden aantrekt, ter beschikking verkrijgt of ter beschikking heeft.
 
-#### Artikel 7:20. (transactie- of activiteitenverbod)
+##### Artikel 7:20. (transactie- of activiteitenverbod)
 
 1. De toezichtautoriteit kan, indien een financiële onderneming met zetel in het buitenland geen gevolg geeft aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2023-07-01&g=2023-07-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2023-07-01&g=2023-07-01) gegeven aanwijzing, de betrokken onderneming een verbod opleggen in de openbare lichamen nieuwe overeenkomsten af te sluiten.
 
@@ -2152,7 +2179,7 @@ De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&
 
 #### § 4. **Last onder dwangsom**
 
-#### Artikel 7:21. (opleggen last onder dwangsom)
+##### Artikel 7:21. (opleggen last onder dwangsom)
 
 1. De toezichtautoriteit kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2023-07-01&g=2023-07-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2023-07-01&g=2023-07-01) gegeven aanwijzing.
 
@@ -2162,13 +2189,13 @@ De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&
 
 4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.
 
-#### Artikel 7:22. (zienswijze overtreder)
+##### Artikel 7:22. (zienswijze overtreder)
 
 1. Voordat de toezichtautoriteit een last onder dwangsom oplegt, stelt zij degene aan wie zij voornemens is de last op te leggen, in de gelegenheid zijn zienswijze naar voren te brengen.
 
 2. Het eerste lid is niet van toepassing, indien de vereiste spoed zich daartegen verzet, of indien betrokkene reeds eerder in de gelegenheid is gesteld om zijn zienswijze naar voren te brengen en zich sindsdien geen nieuwe feiten of omstandigheden hebben voorgedaan.
 
-#### Artikel 7:23. (inhoud van de last)
+##### Artikel 7:23. (inhoud van de last)
 
 1. De last onder dwangsom omschrijft de te nemen herstelmaatregelen.
 
@@ -2180,7 +2207,7 @@ De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&
 
 - b. zo nodig een aanduiding van de plaats waar en het tijdstip waarop de overtreding is geconstateerd.
 
-#### Artikel 7:24. (hoogte dwangsom)
+##### Artikel 7:24. (hoogte dwangsom)
 
 1. De toezichtautoriteit stelt de dwangsom vast hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid waarin de last niet is uitgevoerd, dan wel per overtreding van de last.
 
@@ -2190,17 +2217,17 @@ De [artikelen 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&
 
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de dwangsom.
 
-#### Artikel 7:25. (betaling verbeurde dwangsom)
+##### Artikel 7:25. (betaling verbeurde dwangsom)
 
 Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege is verbeurd.
 
-#### Artikel 7:26. (opheffing of vermindering dwangsom)
+##### Artikel 7:26. (opheffing of vermindering dwangsom)
 
 1. De toezichtautoriteit die een last onder dwangsom heeft opgelegd, kan op verzoek van de overtreder de last opheffen, de looptijd ervan opschorten voor een bepaalde termijn, of de dwangsom verminderen ingeval van blijvende of tijdelijke gehele of gedeeltelijk onmogelijkheid voor die overtreder om aan zijn verplichtingen te voldoen.
 
 2. De toezichtautoriteit die een last onder dwangsom heeft opgelegd, kan op verzoek van de overtreder de last opheffen, indien de beschikking één jaar van kracht is geweest zonder dat de dwangsom is verbeurd.
 
-#### Artikel 7:27. (beslissing tot invordering dwangsom)
+##### Artikel 7:27. (beslissing tot invordering dwangsom)
 
 1. Alvorens aan te manen tot betaling van de dwangsom beslist de toezichtautoriteit bij beschikking omtrent de invordering van de dwangsom.
 
@@ -2208,13 +2235,13 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 
 3. De toezichtautoriteit beslist binnen vier weken op het verzoek.
 
-#### Artikel 7:28. (invordering na wijziging van de last)
+##### Artikel 7:28. (invordering na wijziging van de last)
 
 1. Indien uit een beschikking tot intrekking of wijziging van de last onder dwangsom voorvloeit dat een reeds gegeven beschikking tot invordering van die dwangsom niet in stand kan blijven, vervalt die beschikking.
 
 2. De toezichtautoriteit kan een nieuwe beschikking tot invordering geven die in overeenstemming is met de gewijzigde last onder dwangsom.
 
-#### Artikel 7:29. (bezwaar en beroep)
+##### Artikel 7:29. (bezwaar en beroep)
 
 1. Het bezwaar, beroep of hoger beroep tegen een last onder dwangsom heeft mede betrekking op een beschikking die strekt tot invordering van de dwangsom, voor zover de belanghebbende deze beschikking betwist.
 
@@ -2222,13 +2249,13 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 
 #### § 5. **Bestuurlijke boete**
 
-#### Artikel 7:30. (opleggen bestuurlijke boete)
+##### Artikel 7:30. (opleggen bestuurlijke boete)
 
 1. De toezichtautoriteit kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de in de bijlage bij deze wet genoemde artikelen, alsmede ter zake van het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2023-07-01&g=2023-07-01) of [7:13](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:13&z=2023-07-01&g=2023-07-01) gegeven aanwijzing.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de uitoefening van de in het eerste lid bedoelde bevoegdheid.
 
-#### Artikel 7:31. (hoogte bestuurlijke boete)
+##### Artikel 7:31. (hoogte bestuurlijke boete)
 
 1. Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.
 
@@ -2238,7 +2265,7 @@ Een verbeurde dwangsom wordt betaald binnen zes weken nadat zij van rechtswege i
 
 4. [Artikel 1, tweede lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=1) is van overeenkomstige toepassing.
 
-#### Artikel 7:32. (uitzonderingsgronden)
+##### Artikel 7:32. (uitzonderingsgronden)
 
 De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
@@ -2250,13 +2277,13 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 - d. tegen de overtreder wegens dezelfde gedraging een strafvervolging is ingesteld en het onderzoek ter terechtzitting is begonnen of het recht tot strafvervolging is vervallen ingevolge [artikel 76 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=76).
 
-#### Artikel 7:33. (zwijgrecht van overtreder)
+##### Artikel 7:33. (zwijgrecht van overtreder)
 
 1. Degene die wordt verhoord met het oog op het aan hem opleggen van een bestuurlijke boete, is niet verplicht ten behoeve daarvan verklaringen omtrent de overtreding af te leggen.
 
 2. Voor het verhoor wordt aan de betrokkene medegedeeld dat hij niet verplicht is tot antwoorden.
 
-#### Artikel 7:34. (boeterapport)
+##### Artikel 7:34. (boeterapport)
 
 1. De toezichtautoriteit of de voor de overtreding bevoegde toezichthouder maakt van de overtreding een rapport op.
 
@@ -2270,13 +2297,13 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 3. Indien van de overtreding een proces-verbaal als bedoeld in [artikel 186 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=186) is opgemaakt, treedt dit voor de toepassing van deze paragraaf in de plaats van het rapport.
 
-#### Artikel 7:35. (inzagerecht van overtreder)
+##### Artikel 7:35. (inzagerecht van overtreder)
 
 1. De toezichtautoriteit stelt de overtreder desgevraagd in de gelegenheid de gegevens waarop het opleggen van de bestuurlijke boete of het voornemen daartoe berust, in te zien en daarvan afschriften te vervaardigen.
 
 2. Voor zover blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt, draagt de toezichtautoriteit er zoveel mogelijk zorg voor dat deze gegevens aan de overtreder worden medegedeeld in een voor deze begrijpelijke taal.
 
-#### Artikel 7:36. (zienswijze van overtreder)
+##### Artikel 7:36. (zienswijze van overtreder)
 
 1. Voordat de toezichtautoriteit een bestuurlijke boete oplegt, stelt zij de overtreder in de gelegenheid zijn zienswijze naar voren te brengen. Bij de uitnodiging daartoe wordt tevens het rapport aan de overtreder toegezonden of uitgereikt.
 
@@ -2284,7 +2311,7 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 3. Indien de toezichtautoriteit, nadat de overtreder zijn zienswijze naar voren heeft gebracht, beslist dat voor de overtreding geen bestuurlijke boete zal worden opgelegd, dan wel dat de overtreding alsnog aan de officier van justitie zal worden voorgelegd, wordt dit schriftelijk aan de overtreder medegedeeld.
 
-#### Artikel 7:37. (beslissing tot opleggen bestuurlijke boete)
+##### Artikel 7:37. (beslissing tot opleggen bestuurlijke boete)
 
 1. De toezichtautoriteit beslist binnen dertien weken na de dagtekening van het rapport, bedoeld in [artikel 7:34](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:34&z=2023-07-01&g=2023-07-01), omtrent het opleggen van de bestuurlijke boete.
 
@@ -2302,7 +2329,7 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 3. De in het eerste lid bedoelde beslistermijn wordt, indien de overtreding is voorgelegd aan de officier van justitie, met ingang van de dag waarop dat is geschied, opgeschort tot de dag waarop de toezichtautoriteit weer bevoegd wordt een bestuurlijke boete op te leggen.
 
-#### Artikel 7:38. (vervallen van bestuurlijke boete)
+##### Artikel 7:38. (vervallen van bestuurlijke boete)
 
 1. Een bestuurlijke boete vervalt, indien zij op het tijdstip van het overlijden van de overtreder niet onherroepelijk is. Een onherroepelijke boete vervalt, voor zover zij op dat tijdstip nog niet is betaald.
 
@@ -2314,11 +2341,11 @@ De toezichtautoriteit legt geen bestuurlijke boete op, indien:
 
 #### § 6. **Betaling van dwangsommen en bestuurlijke boeten**
 
-#### Artikel 7:39. (bestemming verschuldigde geldsommen)
+##### Artikel 7:39. (bestemming verschuldigde geldsommen)
 
 Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt deze geldsom toe aan de toezichtautoriteit die de sanctie heeft opgelegd.
 
-#### Artikel 7:40. (wijze van betaling)
+##### Artikel 7:40. (wijze van betaling)
 
 1. Betaling van een verbeurde dwangsom of een bestuurlijke boete geschiedt aan een door de toezichtautoriteit te bepalen kantoor dan wel door bijschrijving op een daartoe door de toezichtautoriteit bestemde bankrekening.
 
@@ -2328,7 +2355,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 4. De kosten van betaling komen ten laste van de schuldenaar.
 
-#### Artikel 7:41. (verzuim bij niet-betaling)
+##### Artikel 7:41. (verzuim bij niet-betaling)
 
 1. De overtreder is in verzuim, indien hij de verbeurde dwangsom of de bestuurlijke boete niet binnen de in [artikel 7:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=4&artikel=7:25&z=2023-07-01&g=2023-07-01), onderscheidenlijk [artikel 7:37, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:37&z=2023-07-01&g=2023-07-01), bedoelde termijn heeft betaald.
 
@@ -2338,25 +2365,25 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 #### § 7. **Verjaring van dwangsommen en bestuurlijke boeten**
 
-#### Artikel 7:42. (verjaring van invorderingsbevoegdheid)
+##### Artikel 7:42. (verjaring van invorderingsbevoegdheid)
 
 1. De bevoegdheid tot invordering van een verbeurde dwangsom verjaart door verloop van één jaar na de dag waarop de dwangsom is verbeurd.
 
 2. De rechtsvordering tot betaling van een geldsom, voortvloeiend uit een bestuurlijke boete, verjaart door verloop van vijf jaren, nadat de voorgeschreven betalingstermijn is verstreken.
 
-#### Artikel 7:43. (stuiten van verjaring)
+##### Artikel 7:43. (stuiten van verjaring)
 
 1. De verjaring wordt gestuit door een daad van rechtsvervolging overeenkomstig [artikel 316, eerste lid, van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=316). Artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek BES is van overeenkomstige toepassing.
 
 2. De toezichtautoriteit kan de verjaring ook stuiten door de schuldenaar schriftelijk aan te manen tot betaling.
 
-#### Artikel 7:44. (nieuwe verjaringstermijn na stuiting)
+##### Artikel 7:44. (nieuwe verjaringstermijn na stuiting)
 
 1. Door stuiting van de verjaring begint een nieuwe verjaringstermijn te lopen met de aanvang van de volgende dag. De nieuwe termijn is gelijk aan de oorspronkelijke.
 
 2. Wordt de verjaring echter gestuit door het instellen van een eis die door toewijzing wordt gevolgd, dan is [artikel 324 van Boek 3 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028745&artikel=324) van overeenkomstige toepassing.
 
-#### Artikel 7:45. (verlenging van verjaringstermijn)
+##### Artikel 7:45. (verlenging van verjaringstermijn)
 
 1. De verjaringstermijn van de rechtsvordering tot betaling aan de toezichtautoriteit wordt verlengd met de tijd gedurende welke de schuldenaar na de aanvang van die termijn uitstel van betaling heeft.
 
@@ -2368,21 +2395,21 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 #### § 8. **Openbaarmaking van overtredingen**
 
-#### Artikel 7:46. (openbare waarschuwing)
+##### Artikel 7:46. (openbare waarschuwing)
 
 De toezichtautoriteit kan, met het oog op de belangen die deze wet beoogt te beschermen, bij overtreding van een verbodsbepaling uit deze wet en bij oplegging of overtreding van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2023-07-01&g=2023-07-01) een openbare waarschuwing uitvaardigen, indien nodig onder vermelding van de overwegingen die tot de waarschuwing hebben geleid.
 
-#### Artikel 7:47. (zienswijze betrokkene)
+##### Artikel 7:47. (zienswijze betrokkene)
 
 1. De toezichtautoriteit stelt, indien zij voornemens is een openbare waarschuwing uit te vaardigen, de betrokkene schriftelijk in kennis van de voorgenomen beslissing en stelt hem in de gelegenheid daarover zijn zienswijze naar voren te brengen.
 
 2. De toezichtautoriteit kan toepassing van het eerste lid achterwege laten, indien de vereiste spoed zich daartegen verzet, of indien van de betrokkene geen adres bekend is en zijn adres ook niet met een redelijke inspanning kan worden verkregen.
 
-#### Artikel 7:48. (beslissing tot uitvaardiging openbare waarschuwing)
+##### Artikel 7:48. (beslissing tot uitvaardiging openbare waarschuwing)
 
 De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift gesteld en vermeldt in ieder geval de geconstateerde overtreding, de inhoud van de openbaarmaking, de gronden waarop de beslissing berust alsmede de wijze waarop en de termijn waarna de openbare waarschuwing zal worden uitgevaardigd.
 
-#### Artikel 7:49. (uitvaardigen van de openbare waarschuwing)
+##### Artikel 7:49. (uitvaardigen van de openbare waarschuwing)
 
 1. Het uitvaardigen van een openbare waarschuwing geschiedt niet eerder dan nadat vijf werkdagen zijn verstreken na de dag waarop betrokkene overeenkomstig [artikel 7:47](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2023-07-01&g=2023-07-01) in kennis is gesteld van de voorgenomen beslissing om een openbare waarschuwing uit te vaardigen.
 
@@ -2392,7 +2419,7 @@ De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift g
 
 4. De toezichtautoriteit kan, in afwijking van het eerste en tweede lid, de openbare waarschuwing onverwijld uitvaardigen, indien de bescherming van de belangen die deze wet beoogt te beschermen geen uitstel toelaat.
 
-#### Artikel 7:50. (openbaarmaking oplegging bestuurlijke boete)
+##### Artikel 7:50. (openbaarmaking oplegging bestuurlijke boete)
 
 1. De toezichtautoriteit maakt een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet na bekendmaking van die beslissing openbaar, indien de boete is opgelegd ter zake overtreding van:
 
@@ -2406,15 +2433,15 @@ De beslissing tot uitvaardiging van een openbare waarschuwing wordt op schrift g
 
 3. De toezichtautoriteit kan beslissen niet tot openbaarmaking van een beslissing tot het opleggen van een bestuurlijke boete over te gaan, indien openbaarmaking van die beslissing in strijd is of in strijd zou kunnen komen met het doel van het door de toezichtautoriteit uit te oefenen toezicht op de naleving van deze wet.
 
-#### Artikel 7:51. (openbaarmaking onherroepelijke bestuurlijke boete)
+##### Artikel 7:51. (openbaarmaking onherroepelijke bestuurlijke boete)
 
 De toezichtautoriteit maakt, onverminderd [artikel 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2023-07-01&g=2023-07-01), een beslissing tot het opleggen van een bestuurlijke boete op grond van deze wet openbaar, nadat die beslissing onherroepelijk is geworden. Artikel 7:50, derde lid, is van overeenkomstige toepassing.
 
-#### Artikel 7:52. (openbaarmaking last onder dwangsom)
+##### Artikel 7:52. (openbaarmaking last onder dwangsom)
 
 De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder dwangsom op grond van deze wet openbaar, wanneer een dwangsom is verbeurd. De [artikelen 7:47 tot en met 7:49](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:47&z=2023-07-01&g=2023-07-01) en [7:50, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2023-07-01&g=2023-07-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 7:53. (behandeling achter gesloten deuren)
+##### Artikel 7:53. (behandeling achter gesloten deuren)
 
 1. Indien een verzoek als bedoeld in [artikel 85, eerste lid, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=85) is ingediend tegen een beslissing tot uitvaardiging van een openbare waarschuwing of tegen openbaarmaking van een beslissing als bedoeld in [artikel 7:50, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2023-07-01&g=2023-07-01), [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2023-07-01&g=2023-07-01) of [7:52](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:52&z=2023-07-01&g=2023-07-01), vindt het onderzoek ter zitting plaats met gesloten deuren.
 
@@ -2428,7 +2455,7 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 #### § 1. **Bijzondere prudentiële maatregelen kredietinstellingen**
 
-#### Artikel 8:1. (periodieke evaluatie risico’s)
+##### Artikel 8:1. (periodieke evaluatie risico’s)
 
 1. De Nederlandsche Bank evalueert met het oog op huidige en mogelijke toekomstige risico’s periodiek de wijze waarop een kredietinstelling aan haar verplichtingen met betrekking tot beheerste bedrijfsuitoefening voldoet, alsmede het toetsingsvermogen van die instelling.
 
@@ -2436,7 +2463,7 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 3. De Nederlandsche Bank stemt de frequentie en de omvang van de evaluatie, bedoeld in het eerste lid, af op de aard, omvang en complexiteit van de betrokken kredietinstelling, alsmede op het belang van de werkzaamheden van die instelling voor het financiële stelsel.
 
-#### Artikel 8:2. (bijzondere maatregelen)
+##### Artikel 8:2. (bijzondere maatregelen)
 
 1. De Nederlandsche Bank kan, indien een kredietinstelling niet voldoet aan de bij of krachtens de [artikelen 3:9, eerste en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:9&z=2023-07-01&g=2023-07-01), en [3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2023-07-01&g=2023-07-01) met betrekking tot de beheerste bedrijfsuitoefening of het toetsingsvermogen gestelde regels, die instelling verplichten om:
 
@@ -2452,7 +2479,7 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 #### § 2. **Bijzondere prudentiële maatregelen verzekeraars**
 
-#### Artikel 8:3. (herstelplan)
+##### Artikel 8:3. (herstelplan)
 
 1. Indien de rechten van degenen die als verzekeringnemers, verzekerden of gerechtigden op uitkeringen betrokken zijn bij verzekeringen, gesloten door een verzekeraar, in het gedrang komen, kan de Nederlandsche Bank van de verzekeraar een herstelplan verlangen dat binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt, aan haar instemming wordt onderworpen, tenzij [artikel 8:5](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2023-07-01&g=2023-07-01) van toepassing is.
 
@@ -2462,7 +2489,7 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 4. Bij de vaststelling van het niveau van het hogere minimumbedrag aan solvabiliteitsmarge wordt uitgegaan van het herstelplan, bedoeld in het eerste lid. Tevens kan daarbij een termijn worden bepaald waarbinnen het hogere minimumbedrag dient te zijn bereikt.
 
-#### Artikel 8:4. (ontoereikende technische voorzieningen)
+##### Artikel 8:4. (ontoereikende technische voorzieningen)
 
 1. Indien een verzekeraar met zetel in de openbare lichamen niet voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2023-07-01&g=2023-07-01) met betrekking tot de technische voorzieningen gestelde regels, kan de Nederlandsche Bank de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank te beschikken over deze waarden.
 
@@ -2470,7 +2497,7 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 3. De Nederlandsche Bank heft de beperking of het verbod op, zodra de verzekeraar weer voldoet aan de bij of krachtens [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2023-07-01&g=2023-07-01) gestelde regels.
 
-#### Artikel 8:5. (ontoereikende solvabiliteitsmarge)
+##### Artikel 8:5. (ontoereikende solvabiliteitsmarge)
 
 1. Indien een verzekeraar niet meer beschikt over de ingevolge [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2023-07-01&g=2023-07-01) vereiste solvabiliteitsmarge, dient hij, tenzij het tweede lid van toepassing is, binnen acht weken of zoveel eerder als de Nederlandsche Bank bepaalt een saneringsplan ter instemming in.
 
@@ -2480,11 +2507,11 @@ De toezichtautoriteit maakt een beslissing tot het opleggen van een last onder d
 
 4. De Nederlandsche Bank kan op verzoek van de verzekeraar wijzigingen in een goedgekeurd plan toestaan. Eveneens kan de Nederlandsche Bank bij gewijzigde omstandigheden wijzigingen in het plan eisen of de instemming intrekken.
 
-#### Artikel 8:6. (opgave waarden ter dekking van technische voorzieningen)
+##### Artikel 8:6. (opgave waarden ter dekking van technische voorzieningen)
 
 Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [artikel 3:17](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:17&z=2023-07-01&g=2023-07-01) met betrekking tot de solvabiliteitsmarge gestelde regels, doet aan de Nederlandsche Bank binnen een door haar te bepalen termijn een opgave van de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2023-07-01&g=2023-07-01) bedoelde waarden en van de wijzigingen die daarin optreden.
 
-#### Artikel 8:7. (beperking te beschikken over waarden)
+##### Artikel 8:7. (beperking te beschikken over waarden)
 
 1. De Nederlandsche Bank kan, indien zich in het geval, bedoeld in [artikel 8:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=2&artikel=8:5&z=2023-07-01&g=2023-07-01), uitzonderlijke omstandigheden voordoen op grond waarvan te verwachten is dat de financiële positie van de verzekeraar nog verder zal verslechteren, evenals in het geval, bedoeld in artikel 8:5, tweede lid, de vrije beschikking door de verzekeraar over zijn waarden, waar zij zich ook bevinden, beperken of hem verbieden om anders dan met machtiging van de Nederlandsche Bank over deze waarden te beschikken.
 
@@ -2494,7 +2521,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 #### § 3. **Noodregeling en faillissement**
 
-#### Artikel 8:8. (geen faillietverklaring dan na intrekking vergunning)
+##### Artikel 8:8. (geen faillietverklaring dan na intrekking vergunning)
 
 1. Een vordering of verzoek tot faillietverklaring van een kredietinstelling of verzekeraar, eigen aangifte daaronder begrepen, wordt niet in behandeling genomen zolang de betrokken onderneming in het bezit is van een op grond van deze wet verleende vergunning tot uitoefening van het bedrijf van kredietinstelling, onderscheidenlijk verzekeraar.
 
@@ -2502,7 +2529,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 3. De wettelijke bepalingen inzake surseance van betaling zijn niet van toepassing op kredietinstellingen en verzekeraars.
 
-#### Artikel 8:9. (uitspreken noodregeling)
+##### Artikel 8:9. (uitspreken noodregeling)
 
 1. Indien de solvabiliteit of de liquiditeit van een kredietinstelling waaraan op grond van deze wet vergunning tot uitoefening van het bedrijf van kredietinstelling is verleend, tekenen van een gevaarlijke ontwikkeling vertoont en redelijkerwijs in die ontwikkeling geen of onvoldoende verbetering te voorzien is, of indien het belang der gezamenlijke schuldeisers een bijzondere voorziening vordert, kan het Gerecht op verzoek van de Nederlandsche Bank ten aanzien van die kredietinstelling de noodregeling uitspreken.
 
@@ -2510,7 +2537,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 3. Indien de solvabiliteit of de liquiditeit van een kredietinstelling of verzekeraar, niet zijnde een onderneming waaraan op grond van deze wet vergunning tot uitoefening van het bedrijf van kredietinstelling of verzekeraar is verleend, zodanig is dat redelijkerwijs is te voorzien dat de onderneming haar verplichtingen aan haar schuldeisers niet of slechts ten dele kan nakomen, kan het Gerecht op verzoek van de Nederlandsche Bank in het belang van de gezamenlijke schuldeisers ten aanzien van die kredietinstelling of verzekeraar de noodregeling uitspreken.
 
-#### Artikel 8:10. (machtiging DNB bij uitspreken noodregeling)
+##### Artikel 8:10. (machtiging DNB bij uitspreken noodregeling)
 
 1. Bij het uitspreken van de noodregeling machtigt het Gerecht de Nederlandsche Bank tot:
 
@@ -2524,7 +2551,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 3. De Nederlandsche Bank kan in haar verzoek op grond van [artikel 8:9](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:9&z=2023-07-01&g=2023-07-01) vermelden welke van de machtigingen, bedoeld in het eerste lid, naar haar oordeel het meest passend is.
 
-#### Artikel 8:11. (behandeling verzoek tot uitspreken noodregeling)
+##### Artikel 8:11. (behandeling verzoek tot uitspreken noodregeling)
 
 1. Het Gerecht behandelt het verzoek van de Nederlandsche Bank tot het uitspreken van de noodregeling met de meeste spoed op een niet-openbare terechtzitting, op de voet van de rechtspleging in burgerlijke zaken, voor zover daarvan in deze paragraaf niet is afgeweken.
 
@@ -2540,7 +2567,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 7. Tegen de beschikking staat generlei voorziening open, behoudens cassatie in het belang der wet.
 
-#### Artikel 8:12. (gevolgen uitspreken noodregeling)
+##### Artikel 8:12. (gevolgen uitspreken noodregeling)
 
 1. Indien een verzoek tot het uitspreken van de noodregeling tegelijk met een verzoek of vordering tot faillietverklaring aanhangig is, wordt de behandeling van het verzoek of de vordering tot faillietverklaring geschorst, totdat op het verzoek tot het uitspreken van de noodregeling is beschikt. Indien het Gerecht de noodregeling uitspreekt, vervalt het verzoek of de vordering tot faillietverklaring van rechtswege.
 
@@ -2552,7 +2579,7 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 5. Indien het faillissement van een verzekeraar wordt uitgesproken zonder voorafgaande noodregeling of later dan een maand na beëindiging van de noodregeling, geldt het in het vierde lid bedoelde verbod vanaf de dag van faillietverklaring.
 
-#### Artikel 8:13. (uitoefening bevoegdheden bestuurders en commissarissen)
+##### Artikel 8:13. (uitoefening bevoegdheden bestuurders en commissarissen)
 
 1. Indien het Gerecht de noodregeling uitspreekt, oefent de Nederlandsche Bank bij uitsluiting alle bevoegdheden van de bestuurders en de commissarissen van de kredietinstelling of verzekeraar uit. De Nederlandsche Bank waakt voor de belangen van de gezamenlijke schuldeisers.
 
@@ -2564,13 +2591,13 @@ Een verzekeraar wiens solvabiliteitsmarge niet voldoet aan de bij of krachtens [
 
 5. De Nederlandsche Bank kan personen machtigen alle of een deel van de bevoegdheden uit te oefenen, die zij ingevolge het eerste lid heeft. Zij kan het Gerecht verzoeken een beloning voor de gemachtigden vast te stellen. De Nederlandsche Bank maakt de naam en woonplaats van een door haar gemachtigde persoon, alsook de intrekking van een machtiging, bekend in de Staatscourant.
 
-#### Artikel 8:14. (besluiten van aandeelhouders of leden)
+##### Artikel 8:14. (besluiten van aandeelhouders of leden)
 
 1. Indien de noodregeling is uitgesproken ten aanzien van een kredietinstelling of verzekeraar met zetel in de openbare lichamen, behoeft een besluit van de aandeelhouders of leden om van kracht te zijn de goedkeuring van de Nederlandsche Bank.
 
 2. Wordt een besluit van de aandeelhouders of leden, dat volgens de statuten van een in het eerste lid bedoelde kredietinstelling of verzekeraar voor een handeling vereist is, niet genomen of verkrijgt dit besluit niet de volgens de statuten vereiste goedkeuring, dan kan de Nederlandsche Bank dit besluit nemen.
 
-#### Artikel 8:15. (stortingen op aandelen en naheffingen)
+##### Artikel 8:15. (stortingen op aandelen en naheffingen)
 
 De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kredietinstelling of verzekeraar is bepaald, ingevolge de haar op grond van [artikel 8:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2023-07-01&g=2023-07-01) verleende machtiging bevoegd:
 
@@ -2580,7 +2607,7 @@ De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kre
 
 - c. naheffingen op te leggen en te innen tot het in de statuten bepaalde maximum, indien de verzekeraar de rechtsvorm van onderlinge waarborgmaatschappij bezit.
 
-#### Artikel 8:16. (gevolgen voor schuldeisers)
+##### Artikel 8:16. (gevolgen voor schuldeisers)
 
 1. Het uitspreken van de noodregeling heeft tot gevolg dat de kredietinstelling of verzekeraar niet kan worden genoodzaakt tot nakoming van schulden die voor de uitspraak zijn ontstaan. Aangevangen executiën worden geschorst en gelegde beslagen vervallen. [Artikel 32 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=32) is van overeenkomstige toepassing op de in de eerste volzin bedoelde schulden.
 
@@ -2594,7 +2621,7 @@ De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kre
 
 6. [Artikel 231a van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=231a) is van overeenkomstige toepassing.
 
-#### Artikel 8:17. (schuldvergelijking en schuldoverneming)
+##### Artikel 8:17. (schuldvergelijking en schuldoverneming)
 
 1. Met betrekking tot schuldvergelijking en schuldoverneming vinden de [artikelen 224](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=224) en [225 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=225) overeenkomstige toepassing, met dien verstande dat de schuldenaar van de kredietinstelling of verzekeraar die zijn schuld wil vergelijken met een schuldvordering aan order of toonder, gehouden is te bewijzen dat hij reeds op het ogenblik van de uitspraak waarbij het verzoek tot machtiging werd toegewezen, te goeder trouw eigenaar was van het order- of toonderpapier.
 
@@ -2602,7 +2629,7 @@ De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kre
 
 3. Met betrekking tot de voldoening van een schuld aan de kredietinstelling of verzekeraar nadat de noodregeling is uitgesproken, vindt [artikel 230 van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=230) overeenkomstige toepassing.
 
-#### Artikel 8:18. (bijzondere machtiging aan DNB)
+##### Artikel 8:18. (bijzondere machtiging aan DNB)
 
 1. Het Gerecht kan, tegelijk met de in [artikel 8:10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=3&artikel=8:10&z=2023-07-01&g=2023-07-01), bedoelde machtiging of nadien, de Nederlandsche Bank op haar verzoek een bijzondere machtiging verlenen tot:
 
@@ -2618,21 +2645,21 @@ De Nederlandsche Bank is, ongeacht hetgeen daaromtrent in de statuten van de kre
 
 5. De overdracht en de wijziging, bedoeld in het eerste lid, onderdeel a, worden ten aanzien van alle andere belanghebbenden van de betrokken kredietinstelling of verzekeraar van kracht met ingang van de dag, volgende op die waarop de bekendmaking in de Staatscourant is geschied.
 
-#### Artikel 8:19. (geen nadeel overdracht van rechten)
+##### Artikel 8:19. (geen nadeel overdracht van rechten)
 
 Een overdracht van rechten en verplichtingen ingevolge dit hoofdstuk mag geen nadeel toebrengen aan de rechten van de overblijvende schuldeisers.
 
-#### Artikel 8:20. (kosten noodregeling)
+##### Artikel 8:20. (kosten noodregeling)
 
 1. Het Gerecht stelt het bedrag vast van de kosten van de noodregeling. Deze kosten komen ten laste van de betrokken kredietinstelling of verzekeraar.
 
 2. De kosten van de noodregeling omvatten de door of namens de Nederlandsche Bank ter zake gedane uitgaven en de vergoeding van de door of namens haar ter zake verrichte werkzaamheden.
 
-#### Artikel 8:21. (gelijkstelling noodregeling met faillissement)
+##### Artikel 8:21. (gelijkstelling noodregeling met faillissement)
 
 Voor de toepassing van de [artikelen 200](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=200), [355](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=355), [356](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=356) en [360 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=360) wordt met faillissement gelijkgesteld de rechtstoestand waarin een kredietinstelling of verzekeraar verkeert zolang te zijnen aanzien de noodregeling van kracht is.
 
-#### Artikel 8:22. (faillietverklaring op verzoek van DNB)
+##### Artikel 8:22. (faillietverklaring op verzoek van DNB)
 
 1. De Nederlandsche Bank dient een verzoek tot faillietverklaring van de kredietinstelling of verzekeraar in, indien haar blijkt dat de betrokken onderneming een negatief eigen vermogen heeft en hetzij het met de noodregeling te bereiken doel is of niet meer kan worden verwezenlijkt, hetzij – indien niet tevoren de noodregeling werd uitgesproken – geen redelijk vooruitzicht meer bestaat dat het met de noodregeling te bereiken doel alsnog kan worden verwezenlijkt.
 
@@ -2640,7 +2667,7 @@ Voor de toepassing van de [artikelen 200](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. De faillietverklaring wordt uitgesproken ongeacht of de kredietinstelling of verzekeraar verkeert in een toestand van te hebben opgehouden te betalen. De [eerste titel van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&titeldeel=I) is overigens van toepassing.
 
-#### Artikel 8:23. (beëindiging noodregeling bij faillietverklaring)
+##### Artikel 8:23. (beëindiging noodregeling bij faillietverklaring)
 
 De noodregeling houdt van rechtswege op van kracht te zijn, indien de kredietinstelling of verzekeraar in staat van faillissement wordt verklaard. Alsdan, zomede indien de faillietverklaring wordt uitgesproken binnen een maand na het intrekken van de noodregeling, gelden de volgende bepalingen:
 
@@ -2654,11 +2681,11 @@ De noodregeling houdt van rechtswege op van kracht te zijn, indien de kredietins
 
 - e. vorderingen uit overeenkomsten van levensverzekering kunnen in afwijking van [artikel 105, eerste lid, van de Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917&artikel=105) worden ingediend door overlegging van de polis of een afschrift daarvan, zonder dat het bedrag van de vordering behoeft te worden vermeld. Voor zover de curator de vordering erkent, stelt hij de omvang daarvan vast.
 
-#### Artikel 8:24. (verslag aan minister)
+##### Artikel 8:24. (verslag aan minister)
 
 De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodregeling daaromtrent zo spoedig mogelijk verslag uit aan Onze Minister.
 
-#### Artikel 8:25. (bevoorrechte vorderingen)
+##### Artikel 8:25. (bevoorrechte vorderingen)
 
 1. In geval van noodregeling of faillissement worden de boedelschulden van een verzekeraar, overeenkomstig de [Faillissementswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028917), al naar gelang de aard van de betrokken boedelschuld hetzij mede over de in [artikel 3:19](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=3&artikel=3:19&z=2023-07-01&g=2023-07-01) bedoelde waarden omgeslagen, hetzij uitsluitend van een bepaalde bate van de boedel afgetrokken.
 
@@ -2670,7 +2697,7 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 
 #### § 4. **Depositogarantiestelsel**
 
-#### Artikel 8:26. (depositogarantiestelsel)
+##### Artikel 8:26. (depositogarantiestelsel)
 
 1. Er is een depositogarantiestelsel dat tot doel heeft depositohouders te compenseren in het geval een kredietinstelling niet in staat is te voldoen aan haar verplichtingen die voortvloeien uit vorderingen uit deposito’s. Kredietinstellingen dragen de kosten van het depositogarantiestelsel.
 
@@ -2686,13 +2713,13 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 
 - d. de financiering, bekostiging en verdeling van baten van het depositogarantiestelsel.
 
-#### Artikel 8:27. (stichting tot beheer van middelen)
+##### Artikel 8:27. (stichting tot beheer van middelen)
 
 1. De middelen ter financiering en bekostiging van het depositogarantiestelsel kunnen worden ondergebracht in een door de Nederlandsche Bank of, in het geval van een Caribisch depositogarantiestelsel als bedoeld in het [artikel 8:26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2023-07-01&g=2023-07-01), een mede door de Nederlandsche Bank op te richten stichting tot beheer van die middelen.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste lid, alsmede regels met betrekking tot het bestuur van een stichting als bedoeld in het eerste lid.
 
-#### Artikel 8:28. (uitvoering door DNB)
+##### Artikel 8:28. (uitvoering door DNB)
 
 1. De Nederlandsche Bank is belast met de uitvoering van het depositogarantiestelsel in de openbare lichamen.
 
@@ -2700,19 +2727,19 @@ De Nederlandsche Bank brengt na beëindiging van en desgevraagd tijdens de noodr
 
 3. De Nederlandsche Bank is bevoegd de uitvoering van het depositogarantiestelsel, alsmede de uitvoering van de in het tweede lid bedoelde taak geheel of gedeeltelijk uit te besteden. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld.
 
-#### Artikel 8:29. (subrogatie)
+##### Artikel 8:29. (subrogatie)
 
 1. De Nederlandsche Bank treedt in de rechten die een depositohouder ter zake van een vordering op de betalingsonmachtige kredietinstelling heeft, voor zover zij aan die depositohouder een vergoeding als bedoeld in [artikel 8:28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:28&z=2023-07-01&g=2023-07-01), heeft betaald.
 
 2. Indien de middelen ter financiering en bekostiging van het depositogarantiestelsel zijn ondergebracht in een stichting als bedoeld in [artikel 8:27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:27&z=2023-07-01&g=2023-07-01), treedt in afwijking van het eerste lid die stichting in de in het eerste lid bedoelde rechten van de depositohouder.
 
-#### Artikel 8:30. (geen hoofdelijke aansprakelijkheid DNB)
+##### Artikel 8:30. (geen hoofdelijke aansprakelijkheid DNB)
 
 De samenloop van vorderingen van depositohouders op een kredietinstelling ten aanzien waarvan het depositogarantiestelsel is toegepast, met aanspraken op vergoeding van de ingevolge [artikel 8:26, derde lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=8&paragraaf=4&artikel=8:26&z=2023-07-01&g=2023-07-01), daarvoor in aanmerking komende vorderingen, leidt er niet toe dat de Nederlandsche Bank en de boedel of de kredietinstelling hoofdelijk zijn verbonden.
 
 ### Hoofdstuk 9. Strafbepalingen
 
-#### Artikel 9:1. (misdrijven)
+##### Artikel 9:1. (misdrijven)
 
 1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2023-07-01&g=2023-07-01) wordt, voor zover opzettelijk begaan, gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.
 
@@ -2720,7 +2747,7 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 9:2. (overtredingen)
+##### Artikel 9:2. (overtredingen)
 
 1. Overtreding van de [artikelen 2:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), en [2:3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), of van een verbod als bedoeld in [artikel 7:20](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:20&z=2023-07-01&g=2023-07-01) wordt, voor zover niet opzettelijk begaan, gestraft met hechtenis van ten hoogste een jaar of geldboete van de vijfde categorie.
 
@@ -2728,7 +2755,7 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 9:3. (opsporing van strafbare feiten)
+##### Artikel 9:3. (opsporing van strafbare feiten)
 
 1. Met de opsporing van de in de [artikelen 9:1](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:1&z=2023-07-01&g=2023-07-01) en [9:2](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=9&artikel=9:2&z=2023-07-01&g=2023-07-01) strafbaar gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184), belast de daartoe bij besluit van Onze Minister van Justitie in overeenstemming met Onze Minister aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -2738,7 +2765,7 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 #### § 1. **Overgangsrecht**
 
-#### Artikel 10:1. (vergunningen)
+##### Artikel 10:1. (vergunningen)
 
 1. Vergunningen tot uitoefening van het bedrijf van kredietinstelling of geldtransactiekantoor, verleend op grond van [artikel 2 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=2), berusten na de inwerkingtreding van deze wet op [artikel 2:1, eerste lid, onderdeel a, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), met dien verstande dat vergunningen tot uitoefening van het bedrijf van kredietinstelling die zijn verleend aan een kredietaanbieder, niet zijnde een kredietinstelling, na de inwerkingtreding van deze wet op [artikel 2:3, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), berusten.
 
@@ -2750,7 +2777,7 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 5. Vergunningen aan beleggingsinstellingen, verleend op grond van [artikel 3 van de Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553&artikel=3), berusten na de inwerkingtreding van deze wet op [artikel 2:3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 10:2. (van rechtswege vergunningen)
+##### Artikel 10:2. (van rechtswege vergunningen)
 
 1. Aan personen die op het tijdstip van inwerkingtreding van deze wet waren vermeld op een bijlage als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=6) of [7 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=7), wordt van rechtswege vergunning als bedoeld in [artikel 2:1, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:1&z=2023-07-01&g=2023-07-01), verleend, met dien verstande dat die vergunning uitsluitend strekt tot het verlenen van beheersdiensten als bedoeld in [artikel 1 van de Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368&artikel=1).
 
@@ -2758,27 +2785,27 @@ De samenloop van vorderingen van depositohouders op een kredietinstelling ten aa
 
 3. Aan bemiddelaars die op het tijdstip van inwerkingtreding van deze wet waren ingeschreven in het register voor assurantiebemiddelaars op grond van [artikel 4 van de Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566&artikel=4), wordt van rechtswege vergunning als bedoeld in [artikel 2:3, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=2&paragraaf=1&artikel=2:3&z=2023-07-01&g=2023-07-01), verleend om als bemiddelaar in verzekeringen op te treden.
 
-#### Artikel 10:3. (buitenlandse zetelhouders)
+##### Artikel 10:3. (buitenlandse zetelhouders)
 
 [Artikel 3:1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=1&artikel=3:1&z=2023-07-01&g=2023-07-01), is, zolang een onderneming haar zetel niet verplaatst naar een andere staat, niet van toepassing op financiële ondernemingen die op het tijdstip van inwerkingtreding van deze wet hun zetel hadden buiten de openbare lichamen, Curaçao en Sint Maarten.
 
-#### Artikel 10:4. (ontheffingen)
+##### Artikel 10:4. (ontheffingen)
 
 1. Ontheffingen, verleend op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), die betrekking hebben op een mede op grond van deze wet bestaande verplichting, berusten, voor zover van die verplichting ingevolge de bij of krachtens [artikel 1:27](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=5&artikel=1:27&z=2023-07-01&g=2023-07-01) gestelde regels ontheffing kan worden verleend, na de inwerkingtreding van deze wet op artikel 1:27.
 
 2. Ontheffingen, verleend op grond van [artikel 9 van de Wet zeggenschap in ter beurze genoteerde vennootschappen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028364&artikel=9), worden na de inwerkingtreding van deze wet aangemerkt als ontheffingen, bedoeld in [artikel 6:10](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=6&paragraaf=3&artikel=6:10&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 10:5. (betrouwbaarheid en geschiktheid beleidsbepalers)
+##### Artikel 10:5. (betrouwbaarheid en geschiktheid beleidsbepalers)
 
 1. Indien de Nederlandsche Bank of de Autoriteit Financiële Markten op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) de betrouwbaarheid heeft vastgesteld van een persoon als bedoeld in [artikel 3:4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:4&z=2023-07-01&g=2023-07-01), staat de betrouwbaarheid van die persoon voor de toepassing van deze wet buiten twijfel, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling en zolang geen nieuwe beoordeling als bedoeld in artikel 3:4, vierde lid, is voorgeschreven.
 
 2. Indien een persoon als bedoeld in [artikel 3:5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=2&artikel=3:5&z=2023-07-01&g=2023-07-01), op grond van een in het eerste lid genoemde wet voldoende deskundig is bevonden, wordt hij voor de toepassing van deze wet eveneens geschikt geacht, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.
 
-#### Artikel 10:6. (verklaringen van geen bezwaar)
+##### Artikel 10:6. (verklaringen van geen bezwaar)
 
 Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547&artikel=46) of [artikel 81 van de Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495&artikel=81), worden vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een op grond van [artikel 3:28](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=3&paragraaf=4&artikel=3:28&z=2023-07-01&g=2023-07-01) verkregen verklaring van geen bezwaar.
 
-#### Artikel 10:7. (aanwijzingen en aanzeggingen)
+##### Artikel 10:7. (aanwijzingen en aanzeggingen)
 
 1. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de[Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:12](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:12&z=2023-07-01&g=2023-07-01) gegeven aanwijzing.
 
@@ -2786,7 +2813,7 @@ Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toe
 
 3. Een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495) gedane aanzegging wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een besluit op grond van [artikel 7:14](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=3&artikel=7:14&z=2023-07-01&g=2023-07-01).
 
-#### Artikel 10:8. (bestuurlijke boeten)
+##### Artikel 10:8. (bestuurlijke boeten)
 
 1. Een bestuurlijke boete, opgelegd terzake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van [artikel 7:30](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=5&artikel=7:30&z=2023-07-01&g=2023-07-01) opgelegde bestuurlijke boete.
 
@@ -2794,21 +2821,21 @@ Verklaringen van geen bezwaar, verkregen op grond van [artikel 46 van de Wet toe
 
 3. De [artikelen 7:50](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:50&z=2023-07-01&g=2023-07-01) en [7:51](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=7&paragraaf=8&artikel=7:51&z=2023-07-01&g=2023-07-01) zijn niet van toepassing op boeten als bedoeld in het eerste en tweede lid.
 
-#### Artikel 10:9. (noodregeling en faillissement)
+##### Artikel 10:9. (noodregeling en faillissement)
 
 Op de afhandeling van een noodregeling of faillietverklaring van een kredietinstelling of verzekeraar die is uitgesproken voor het tijdstip van inwerkingtreding van deze wet, blijft het op het tijdstip van het uitspreken van de noodregeling of faillietverklaring geldende recht van toepassing.
 
-#### Artikel 10:10. (geheimhoudingsplicht en vertrouwelijke gegevens)
+##### Artikel 10:10. (geheimhoudingsplicht en vertrouwelijke gegevens)
 
 De [artikelen 1:20 tot en met 1:25](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=4&artikel=1:20&z=2023-07-01&g=2023-07-01) zijn van overeenkomstige toepassing op gegevens en inlichtingen die zijn verstrekt of verkregen op grond van de [Wet assurantiebemiddelingsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028566), de [Wet toezicht bank- en kredietwezen 1994 BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028547), de [Wet toezicht beleggingsinstellingen en administrateurs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028553), de [Wet toezicht effectenbeurzen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028366), de [Wet toezicht trustwezen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028368) of de [Wet toezicht verzekeringsbedrijf BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028495).
 
-#### Artikel 10:10a. (aansprakelijkheidsbeperking toezichtautoriteiten)
+##### Artikel 10:10a. (aansprakelijkheidsbeperking toezichtautoriteiten)
 
 [Artikel 1:13a](https://wetten.overheid.nl/jci1.3:c:BWBR0030883&hoofdstuk=1&paragraaf=2&artikel=1:13a&z=2023-07-01&g=2023-07-01) is niet van toepassing op een handelen of nalaten van de Nederlandsche Bank, de Autoriteit Financiële Markten, de leden van hun organen of hun werknemers dat heeft plaatsgevonden voor de inwerkingtreding van [artikel II van de Wet aansprakelijkheidsbeperking DNB en AFM en bonusverbod staatsgesteunde ondernemingen](https://wetten.overheid.nl/jci1.3:c:BWBR0031680&artikel=II).
 
 #### § 2. **Wijziging van andere wetten**
 
-#### Artikel 10:11. **(intrekking bestaande toezichtwetten)**
+##### Artikel 10:11. **(intrekking bestaande toezichtwetten)**
 
 De volgende wetten worden ingetrokken:
 
@@ -2826,7 +2853,7 @@ De volgende wetten worden ingetrokken:
 
 - g. de [Wet zeggenschap in ter beurze genoteerde vennootschappen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028364).
 
-#### Artikel 10:12. **(Burgerlijk Wetboek BES)**
+##### Artikel 10:12. **(Burgerlijk Wetboek BES)**
 
 1.
 
@@ -2836,45 +2863,45 @@ Wijzigt Boek 1 van het Burgerlijk Wetboek BES
 
 Wijzigt Boek 3 van het Burgerlijk Wetboek BES
 
-#### Artikel 10:13. ([Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891))
+##### Artikel 10:13. ([Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891))
 
 Wijzigt de Comptabiliteitswet 2001.
 
-#### Artikel 10:14. ([Deurwaarderswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028261))
+##### Artikel 10:14. ([Deurwaarderswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028261))
 
 Wijzigt de Deurwaarderswet BES.
 
-#### Artikel 10:15. ([Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712))
+##### Artikel 10:15. ([Pensioenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028712))
 
 Wijzigt de Pensioenwet BES.
 
-#### Artikel 10:16. ([Wet aansprakelijkheidsverzekering motorrijtuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254))
+##### Artikel 10:16. ([Wet aansprakelijkheidsverzekering motorrijtuigen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028254))
 
 Wijzigt de Wet aansprakelijkheidsverzekering motorrijtuigen BES.
 
-#### Artikel 10:17. ([Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294))
+##### Artikel 10:17. ([Wet algemene verzekering bijzondere ziektekosten BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028294))
 
 Wijzigt de Wet algemene verzekering bijzondere ziektekosten BES.
 
-#### Artikel 10:18. ([Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551))
+##### Artikel 10:18. ([Wet geldstelsel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028551))
 
 Wijzigt de Wet geldstelsel BES.
 
-#### Artikel 10:19. ([Wet op het notarisambt BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028457))
+##### Artikel 10:19. ([Wet op het notarisambt BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028457))
 
 Wijzigt de Wet op het notarisambt BES.
 
-#### Artikel 10:20. ([Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496))
+##### Artikel 10:20. ([Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496))
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering BES.
 
 #### § 3. **Inwerkingtreding en citeertitel**
 
-#### Artikel 10:21. (inwerkingtreding)
+##### Artikel 10:21. (inwerkingtreding)
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan en voor de verschillende op grond van deze wet te onderscheiden categorieën financiële ondernemingen verschillend kan worden vastgesteld.
 
-#### Artikel 10:22. (citeertitel)
+##### Artikel 10:22. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet financiële markten BES.
 

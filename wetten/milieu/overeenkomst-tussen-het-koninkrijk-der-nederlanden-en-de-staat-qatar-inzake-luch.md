@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Qatar inzake luchtdiensten tussen en via hun onderscheiden grondgebieden"
 identifier: "BWBV0003753"
-categorie: "Milieu"
-publicatiedatum: 2003-08-22
-laatste_update: 2003-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003753"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-08-22"
+last_updated: "2003-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003753"
+soort: "verdrag"
+stam_id: "10003696273"
+version_id: "10003757112"
+internal_id: "C10006980161"
+label_id: "10003681624"
+dtd_version: "2.0"
+original_entry_into_force: "1981-06-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003753/2003-08-22/0"
+intitule_bron: "Trb.1981-17"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-02-04"
+intitule_in_force: "1982-03-31"
+intitule_status: "goed"
+original_publication: "Trb.1981-17"
+original_published_date: "1981-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-17"
+entry_into_force_date: "1981-06-09"
+jci_1_3: "jci1.3:c:BWBV0003753&z=2003-08-22&g=2003-08-22"
+jci_1_0: "1.0:c:BWBV0003753&g=2003-08-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1981-06-09"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Staat Qatar inzake luchtdiensten tussen en via hun onderscheiden grondgebieden
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Staat Qatar, hierna te noemen: de Overeenkomstsluitende Partijen;
@@ -18,7 +40,7 @@ Geleid door de wens een aanvullende overeenkomst bij dat Verdrag te sluiten, met
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband anders blijkt:
 
@@ -32,7 +54,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband an
 
 - e. de uitdrukkingen „grondgebied”, „luchtvaartmaatschappij”, „luchtdienst”, „internationale luchtdienst” en „landing, anders dan voor verkeersdoeleinden”, hebben onderscheidenlijk de betekenis die daaraan in de artikelen 2 en 96 van het Verdrag wordt toegekend. Wat het Koninkrijk der Nederlanden betreft, is de Overeenkomst uitsluitend van toepassing op het Rijk in Europa.
 
-#### Artikel II. Verlening van rechten
+##### Artikel II. Verlening van rechten
 
 1. Elk der Overeenkomstsluitende Partijen verleent de andere Overeenkomstsluitende Partij de volgende rechten ten behoeve van de door die andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappijen:
 
@@ -46,7 +68,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband an
 
 Geen van de bepalingen in het eerste lid van dit artikel wordt geacht de luchtvaartmaatschappijen van een Overeenkomstsluitende Partij het recht te geven tot het opnemen, op het grondgebied van de andere Overeenkomstsluitende Partij, van passagiers, vracht of post, vervoerd tegen beloning of vergoeding en bestemd voor een ander punt op het grondgebied van die andere Overeenkomstsluitende Partij.
 
-#### Artikel III. Aanwijzing van luchtvaartmaatschappijen
+##### Artikel III. Aanwijzing van luchtvaartmaatschappijen
 
 1. Elk der Overeenkomstsluitende Partijen heeft het recht, in een schriftelijke mededeling, gericht aan de andere Overeenkomstsluitende Partij, twee luchtvaartmaatschappijen aan te wijzen voor het exploiteren van de overeengekomen diensten op de omschreven routes.
 
@@ -60,7 +82,7 @@ Geen van de bepalingen in het eerste lid van dit artikel wordt geacht de luchtva
 
 6. Ten minste 30 dagen voor de aanvang van de exploitatie van een overeengekomen luchtdienst stelt de aangewezen luchtvaartmaatschappijen de luchtvaartautoriteiten van de andere Overeenkomstsluitende Partij in kennis van de frequentie, de dienstregeling en het type luchtvaartuig. Dit is eveneens van toepassing op latere wijzigingen.
 
-#### Artikel IV. Intrekking of opschorting van exploitatievergunningen
+##### Artikel IV. Intrekking of opschorting van exploitatievergunningen
 
 1. Elk der Overeenkomstsluitende Partijen heeft het recht een exploitatievergunning in te trekken of de uitoefening van de in artikel II van deze Overeenkomst omschreven rechten door de luchtvaartmaatschappijen die door de andere Overeenkomstsluitende Partij is aangewezen, op te schorten of aan de uitoefening van deze rechten de door haar noodzakelijk geachte voorwaarden te verbinden, indien:
 
@@ -76,7 +98,7 @@ Geen van de bepalingen in het eerste lid van dit artikel wordt geacht de luchtva
 
 Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten krachtens dit artikel, blijven de in artikel XIV toegekende rechten van de andere Overeenkomstsluitende Partij onverlet.
 
-#### Artikel V. Beginselen inzake de exploitatie van overeengekomen diensten
+##### Artikel V. Beginselen inzake de exploitatie van overeengekomen diensten
 
 1. De door elk der Overeenkomstsluitende Partijen aangewezen luchtvaartmaatschappijen wordt op billijke en gelijke wijze in de gelegenheid gesteld de overeengekomen diensten op de omschreven routes tussen hun onderscheiden grondgebieden te exploiteren.
 
@@ -92,7 +114,7 @@ Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten kr
 
 - c. de eisen die de exploitatie van doorgaande luchtdiensten stelt.
 
-#### Artikel VI. Toepasselijkheid van wetten en voorschriften
+##### Artikel VI. Toepasselijkheid van wetten en voorschriften
 
 1. De wetten, voorschriften en procedures van de ene Overeenkomstsluitende Partij betreffende de toelating tot of het vertrek uit haar grondgebied van in de internationale luchtvaart gebruikte luchtvaartuigen of betreffende de exploitatie van en het vliegen met zulke luchtvaartuigen dienen door de aangewezen luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij te worden nageleefd bij het binnenkomen op of het verlaten van en gedurende het verblijf binnen het bedoelde grondgebied.
 
@@ -100,7 +122,7 @@ Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten kr
 
 3. Bagage en vracht in rechtstreeks doorgaand verkeer zijn vrijgesteld van douanerechten en andere soortgelijke heffingen.
 
-#### Artikel VII. Bewijzen van luchtwaardigheid en vergunningen
+##### Artikel VII. Bewijzen van luchtwaardigheid en vergunningen
 
 1. Bewijzen van luchtwaardigheid, bewijzen van bevoegdheid en vergunningen die door een der Overeenkomstsluitende Partijen zijn uitgereikt of geldig verklaard en die nog van kracht zijn, worden door de andere Overeenkomstsluitende Partij als geldig erkend voor de exploitatie van luchtdiensten op de omschreven routes, mits deze bewijzen of vergunningen werden uitgereikt of geldig verklaard ingevolge en overeenkomstig de op grond van het Verdrag gestelde normen. Elke Overeenkomstsluitende Partij behoudt zich evenwel het recht voor, de erkenning van bewijzen van bevoegdheid en van vergunningen die door de andere Overeenkomstsluitende Partij aan haar onderdanen zijn uitgereikt, te weigeren voor vluchten boven haar eigen grondgebied.
 
@@ -124,13 +146,13 @@ Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten kr
 
 9. Een maatregel door een Overeenkomstsluitende Partij in overeenstemming met het vierde of achtste lid wordt opgeschort, zodra de aanleiding voor de maatregel ophoudt te bestaan.
 
-#### Artikel VIII. Gelijke behandeling
+##### Artikel VIII. Gelijke behandeling
 
 1. De kosten die op het grondgebied van een der Overeenkomstsluitende Partijen met betrekking tot de luchtvaartuigen van een aangewezen luchtvaartmaatschappij van de andere Overeenkomstsluitende Partij worden berekend voor het gebruik van luchthavens en andere luchtvaartvoorzieningen, mogen niet hoger zijn dan die welke in rekening worden gebracht aan luchtvaartuigen van een nationale luchtvaartmaatschappij die soortgelijke internationale luchtdiensten uitvoert.
 
 2. Geen der Overeenkomstsluitende Partijen mag haar eigen of enige andere luchtvaartmaatschappij begunstigen ten opzichte van een door de andere Overeenkomstsluitende Partij aangewezen luchtvaartmaatschappijen bij de toepassing van haar voorschriften inzake douane, immigratie, quarantaine en soortgelijke aangelegenheden of bij het gebruik van luchthavens, luchtwegen en luchtverkeersdiensten en aanverwante voorzieningen waarop zij toezicht uitoefent.
 
-#### Artikel IX. Vrijstelling van douanerechten en andere heffingen
+##### Artikel IX. Vrijstelling van douanerechten en andere heffingen
 
 1. Luchtvaartuigen die door de door een der Overeenkomstsluitende Partijen aangewezen luchtvaartmaatschappijen op internationale luchtdiensten worden gebruikt, alsmede de zich aan boord daarvan bevindende normale uitrustingsstukken, reservedelen, voorraden motorbrandstof en smeermiddelen, en proviand (met inbegrip van etenswaren, dranken en tabaksartikelen), zijn bij binnenkomst op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van alle douanerechten, inspectiekosten en andere soortgelijke heffingen, op voorwaarde dat deze uitrustingsstukken en voorraden aan boord van de luchtvaartuigen blijven totdat zij weer worden uitgevoerd.
 
@@ -138,7 +160,7 @@ Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten kr
 
 3. De normale boorduitrustingsstukken, reservedelen, proviand en voorraden motorbrandstof en smeermiddelen, die zich aan boord bevinden van de luchtvaartuigen van een der Overeenkomstsluitende Partijen, kunnen op het grondgebied van de andere Overeenkomstsluitende Partij slechts worden uitgeladen met toestemming van de douaneautoriteiten van die Partij, die kunnen verlangen dat deze goederen onder hun toezicht worden geplaatst tot het tijdstip waarop zij weer worden uitgevoerd of overeenkomstig de douanevoorschriften een andere bestemming hebben gekregen.
 
-#### Artikel X. Tarieven
+##### Artikel X. Tarieven
 
 1. De tarieven die door de aangewezen luchtvaartmaatschappijen van een Overeenkomstsluitende Partij worden geheven voor het vervoer naar of van het grondgebied van de andere Overeenkomstsluitende Partij, worden op een redelijk niveau vastgesteld, waarbij naar behoren rekening wordt gehouden met alle daarvoor in aanmerking komende factoren, daaronder begrepen de exploitatiekosten, een redelijke winst, de kenmerkende eigenschappen van de dienst en de tarieven van andere luchtvaartmaatschappijen.
 
@@ -154,25 +176,25 @@ Ingeval een der Overeenkomstsluitende Partijen gebruik maakt van haar rechten kr
 
 7. De overeenkomstig de bepalingen van dit artikel vastgestelde tarieven blijven van kracht, totdat nieuwe tarieven zijn vastgesteld overeenkomstig de bepalingen van dit artikel.
 
-#### Artikel XI. Overmaking van inkomsten
+##### Artikel XI. Overmaking van inkomsten
 
 Elke Overeenkomstsluitende Partij verleent aan de luchtvaartmaatschappijen van de andere Overeenkomstsluitende Partij het recht van vrije overmaking, in convertibele valuta, van het batig saldo van de ontvangsten en uitgaven, door elke luchtvaartmaatschappij verkregen tijdens het normale verloop van haar exploitatie.
 
 Deze overmakingen worden regelmatig en zonder verwijl toegestaan en zijn gebaseerd op de gangbare koersen op de markt voor buitenlandse valuta voor lopende betalingen. Op deze overmakingen zijn geen andere kosten van toepassing dan de normale bankkosten.
 
-#### Artikel XII. Vrijstelling van belasting
+##### Artikel XII. Vrijstelling van belasting
 
 1. De inkomsten en winsten die zijn verkregen uit de exploitatie van een luchtvaartuig dat in het internationale luchtverkeer wordt gebruikt door een aangewezen luchtvaartmaatschappij die voor de toepassing van de inkomstenbelasting is gevestigd op het grondgebied van één der Overeenkomstsluitende Partijen, zijn vrijgesteld van inkomstenbelasting en alle andere belastingen op winsten, die door de Regering van de andere Overeenkomstsluitende Partij worden geheven.
 
 2. De luchtvaartuigen die door de aangewezen luchtvaartmaatschappijen van een van beide Overeenkomstsluitende Partijen op internationale luchtdiensten worden gebruikt, alsmede de op het gebruik daarvan betrekking hebbende benodigdheden, zijn niet belastbaar op het grondgebied van de andere Overeenkomstsluitende Partij.
 
-#### Artikel XIII. Overleg
+##### Artikel XIII. Overleg
 
 1. De luchtvaartautoriteiten van de Overeenkomstsluitende Partijen plegen, in een geest van nauwe samenwerking, van tijd tot tijd overleg met elkaar, ten einde de uitvoering en de bevredigende naleving van de bepalingen van deze Overeenkomst en de Bijlage daarbij te verzekeren.
 
 2. Elk der Overeenkomstsluitende Partijen kan schriftelijk verzoeken om overleg, dat een aanvang dient te nemen binnen een periode van zestig dagen, te rekenen van de datum van ontvangst van het verzoek, tenzij beide Overeenkomstsluitende Partijen instemmen met een verlenging van deze periode.
 
-#### Artikel XIV. Regeling van geschillen
+##### Artikel XIV. Regeling van geschillen
 
 1. Indien tussen de Overeenkomstsluitende Partijen een geschil mocht ontstaan omtrent de uitlegging of toepassing van deze Overeenkomst, trachten de Overeenkomstsluitende Partijen in de eerste plaats dit geschil te regelen door middel van onderhandelingen.
 
@@ -184,7 +206,7 @@ Deze overmakingen worden regelmatig en zonder verwijl toegestaan en zijn gebasee
 
 De kosten van het scheidsgerecht worden gelijkelijk door de Overeenkomstsluitende Partijen gedragen.
 
-#### Artikel XV. Wijzigingen
+##### Artikel XV. Wijzigingen
 
 1. Indien een der Overeenkomstsluitende Partijen het wenselijk acht enige bepaling van deze Overeenkomst of van de Bijlage daarbij te wijzigen, kan zij de andere Overeenkomstsluitende Partij om overleg verzoeken. Dit overleg, dat zowel mondeling als schriftelijk kan worden gepleegd, kan plaatsvinden tussen de luchtvaartautoriteiten en vangt aan binnen een termijn van zestig dagen, te rekenen van de datum van het verzoek.
 
@@ -192,15 +214,15 @@ De kosten van het scheidsgerecht worden gelijkelijk door de Overeenkomstsluitend
 
 3. Wijzigingen in de Bijlage bij deze Overeenkomst waartoe tijdens het in het eerste lid van dit artikel bedoelde overleg is besloten, worden schriftelijk overeengekomen tussen de luchtvaartautoriteiten en treden onmiddellijk in werking.
 
-#### Artikel XVI. Registratie bij de ICAO
+##### Artikel XVI. Registratie bij de ICAO
 
 Deze Overeenkomst en alle daarin aangebrachte wijzigingen worden bij de Internationale Burgerluchtvaartorganisatie geregistreerd.
 
-#### Artikel XVII. Inwerkingtreding
+##### Artikel XVII. Inwerkingtreding
 
 Deze Overeenkomst wordt voorlopig toegepast vanaf de datum van de ondertekening daarvan en treedt in werking op de datum van de laatste kennisgeving van een van beide Overeenkomstsluitende Partijen aan de andere Partij dat zij aan de nationale constitutionele vereisten heeft voldaan.
 
-#### Artikel XVIII. Beëindiging
+##### Artikel XVIII. Beëindiging
 
 1. Elk der Overeenkomstsluitende Partijen kan te allen tijde de andere Overeenkomstsluitende Partij mededelen dat zij heeft besloten deze Overeenkomst te beëindigen.
 

@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, landbouw"
 identifier: "BWBR0040474"
-categorie: "Belastingrecht"
-publicatiedatum: 2020-08-07
-laatste_update: 2020-08-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040474"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-08-07"
+last_updated: "2020-08-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040474"
+soort: "beleidsregel"
+stam_id: "14469063"
+version_id: "24760182"
+internal_id: "C35426471"
+label_id: "14429734"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040474/2020-08-07/0"
+intitule_bron: "Stcrt.2017-71064"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-22"
+intitule_published: "2017-12-29"
+intitule_in_force: "2017-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-71064"
+original_signed_date: "2017-12-22"
+original_published_date: "2017-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-71064"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040474&z=2020-08-07&g=2020-08-07"
+jci_1_0: "1.0:c:BWBR0040474&g=2020-08-07"
+citeertitel_status: "redactioneel"
+signed_date: "2017-12-22"
+entry_into_force: "2018-01-01"
 ---
-
 # Omzetbelasting, landbouw
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

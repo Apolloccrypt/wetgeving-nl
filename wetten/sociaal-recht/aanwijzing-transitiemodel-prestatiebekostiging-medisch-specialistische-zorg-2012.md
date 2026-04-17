@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U- 3072825, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
 identifier: "BWBR0030318"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030318"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030318"
+soort: "ministeriele-regeling"
+stam_id: "11415803"
+version_id: "18739362"
+internal_id: "C26143911"
+label_id: "11389594"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030318/2014-04-01/0"
+intitule_bron: "Stcrt.2011-13950"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-21"
+intitule_published: "2011-07-29"
+intitule_in_force: "2011-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-13950"
+original_signed_date: "2011-07-21"
+original_published_date: "2011-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-13950"
+entry_into_force_date: "2011-07-29"
+jci_1_3: "jci1.3:c:BWBR0030318&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0030318&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012"
+signed_date: "2011-07-21"
+entry_into_force: "2011-07-29"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U- 3072825, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake transitiemodel prestatiebekostiging medisch specialistische zorg 2012
 
 Overwegende dat het wenselijk is de functiegerichte budgettering voor instellingen voor medisch specialistische zorg en de bekostiging op basis van begrotingsfinanciering van audiologische centra te beëindigen en mede met het oog op de macrobudgettaire gevolgen zorgvuldig geleidelijk over te gaan naar een systeem van prestatiebekostiging;
@@ -74,7 +100,7 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -94,17 +120,17 @@ In deze aanwijzing wordt verstaan onder:
 
 - h. **Hoofdlijnenakkoord:** het Bestuurlijk hoofdlijnenakkoord 2012–2015 tussen de Nederlandse Vereniging van Ziekenhuizen, de Nederlandse Federatie van Universitair Medische Centra, Zelfstandige Klinieken Nederland, Zorgverzekeraars Nederland en de minister, ondertekend op 4 juli 2011.
 
-#### Artikel 2. opdrachtverlening
+##### Artikel 2. opdrachtverlening
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en regels op.
 
 ### Hoofdstuk II. Transitiemodel
 
-#### Artikel 3. werkingssfeer
+##### Artikel 3. werkingssfeer
 
 Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) welke wordt geleverd door instellingen voor medisch specialistische zorg met uitzondering van categorale instellingen waaronder centra voor long/astma, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra, zelfstandige behandelcentra en instellingen voor medisch specialistische zorg verleend door psychiaters (ggz-instellingen).
 
-#### Artikel 4. grens
+##### Artikel 4. grens
 
 1. De zorgautoriteit stelt voor instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) voor het jaar 2012 en het jaar 2013 ambtshalve een vaste grens als bedoeld in [artikel 50, tweede lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) vast voor de som van de tarieven die met betrekking tot die jaren in rekening worden gebracht of hadden of zullen kunnen worden gebracht voor zorg in de zin van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) die in 2011 niet zou hebben behoord tot het vrije segment bij instellingen en in 2011 bekostigd zou zijn op basis van de beleidsregels van de zorgautoriteit met betrekking tot functiegerichte budgettering of delen van die zorg.
 
@@ -120,7 +146,7 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 - b. 70 procent van het transitiebedrag als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=5&z=2014-04-01&g=2014-04-01).
 
-#### Artikel 5. transitiebedrag
+##### Artikel 5. transitiebedrag
 
 1. De zorgautoriteit stelt voor de overgang van functiegerichte bekostiging naar prestatiegerichte bekostiging van de instellingen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01) eenmalig een transitiebedrag vast per instelling.
 
@@ -132,7 +158,7 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 3. Het vastgestelde transitiebedrag geldt voor de gehele transitieperiode, bestaande uit de jaren 2012 en 2013.
 
-#### Artikel 6. verrekenbedrag
+##### Artikel 6. verrekenbedrag
 
 1. De zorgautoriteit stelt per instelling voor het jaar 2012 en het jaar 2013 een verrekenbedrag vast.
 
@@ -140,7 +166,7 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 3. De verrekenfactor voor het jaar 2012 is vastgesteld op 0,95. De verrekenfactor voor het jaar 2013 is vastgesteld op 0,70.
 
-#### Artikel 7. afwikkeling transitie via opbrengstverrekening en sluittarief
+##### Artikel 7. afwikkeling transitie via opbrengstverrekening en sluittarief
 
 1. Indien de vaststelling van het verrekenbedrag als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=6&z=2014-04-01&g=2014-04-01) door de zorgautoriteit leidt tot negatief bedrag voor de desbetreffende instelling, wordt door de zorgautoriteit met toepassing van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b) een vereffeningbedrag per relevante zorgverzekeraar vastgesteld naar rato van het marktaandeel van de desbetreffende zorgverzekeraar per instelling.
 
@@ -148,13 +174,13 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ### Hoofdstuk III. Afwikkeling fb/bf
 
-#### Artikel 8. afwikkeling 2011 via opbrengstverrekening
+##### Artikel 8. afwikkeling 2011 via opbrengstverrekening
 
 1. Voor prestaties die zijn omschreven als diagnose behandeling combinaties en die zijn geopend vóór het jaar 2012, blijven de prestatiebeschrijvingen en tarieven van toepassing zoals die luiden op het moment van openen van de prestatie.
 
 2. Alle in 2011 en daarvoor geopende diagnose behandeling combinaties en het daarop betrekking hebbende functiegericht budget van instellingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01), worden afgehandeld met inachtneming van de systematiek die is opgenomen in de Aanwijzing van 19 juni 2009 inzake overdekking ziekenhuiszorg 2007 en verder (Stcrt. 2009, nr. 9643).
 
-#### Artikel 9. einde DOT-experiment
+##### Artikel 9. einde DOT-experiment
 
 1. Met de invoering van de product- en tariefstructuur als bedoeld in de [Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030210) van 27 juni 2011 (Stcrt. 2011, nr. 11796) vervalt het experiment als bedoeld in [Aanwijzing inzake experiment met de DOT-structuur](https://wetten.overheid.nl/jci1.3:c:BWBR0029155) van 10 december 2010 (Stcrt. 2010, nr. 20441) met ingang van 2012 en wordt met deze aanwijzing en de invoering van die structuur bij eerstgenoemde aanwijzing het experiment als geslaagd en als afgehandeld beschouwd overeenkomstig het bepaalde in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
@@ -162,23 +188,23 @@ Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of kracht
 
 ### Hoofdstuk IV. Categorale instellingen
 
-#### Artikel 10. werkingssfeer
+##### Artikel 10. werkingssfeer
 
 1. Dit hoofdstuk is van toepassing op zorg of diensten als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) welke wordt geleverd door de categorale instellingen voor medisch specialistische zorg, te weten: zelfstandige instellingen voor revalidatie, radiotherapeutische centra en dialysecentra en voor audiologische centra, verder in dit hoofdstuk te noemen categorale instellingen.
 
 2. In deze aanwijzing wordt onder categorale instelling mede begrepen de medisch specialisten die in of ten behoeve van die instelling werkzaam zijn.
 
-#### Artikel 11. opbrengstverschil
+##### Artikel 11. opbrengstverschil
 
 1. De zorgautoriteit stelt voor 2010 en daarna voor ieder volgend jaar, mede op basis van door die categorale instellingen verstrekte gegevens, per instelling ambtshalve vast, het verschil tussen het budget en de daadwerkelijke opbrengst die is toe te rekenen aan de in dat jaar geleverde productie, verder te noemen het opbrengstverschil. De eerste volzin is met ingang van het jaar 2012 van overeenkomstige toepassing op het verschil tussen de door de zorgautoriteit vastgestelde begroting van audiologische centra en bedoelde opbrengst.
 
 2. De zorgautoriteit stelt ambtshalve ter verrekening van het opbrengstverschil per categorale instelling per jaar een bedrag vast.
 
-#### Artikel 12. opschorting 2008–2011
+##### Artikel 12. opschorting 2008–2011
 
 De zorgautoriteit schort de toepassing op van de verrekening van opbrengstverschillen, zoals die verrekening in beleidsregels van de zorgautoriteit is vormgegeven op het moment van inwerkingtreding van onderhavige aanwijzing, voor zover de verrekening van het bedrag als bedoeld in het [vorige artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01) daadwerkelijk plaats vindt.
 
-#### Artikel 13. toerekening opbrengstverschil
+##### Artikel 13. toerekening opbrengstverschil
 
 1. De zorgautoriteit stelt voor 2008 en daarna voor ieder volgend jaar, mede op basis van door het Zorginstituut, verder te noemen het CVZ, verstrekte gegevens, per categorale instelling ambtshalve vast, welk deel van het opbrengstverschil, zoals genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01), is toe te rekenen aan te onderscheiden individuele, in het desbetreffende jaar werkzame:
 
@@ -190,11 +216,11 @@ De zorgautoriteit schort de toepassing op van de verrekening van opbrengstversch
 
 3. De zorgautoriteit vermeldt de in het eerste lid bedoelde toerekening voor de onderscheiden individuele verzekeraar in een brief waarmee zij het bedrag, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=11&z=2014-04-01&g=2014-04-01), aan deze bekend maakt.
 
-#### Artikel 14. opbrengstverrekening 2012 en volgende
+##### Artikel 14. opbrengstverrekening 2012 en volgende
 
 Met ingang van 2012 vindt met inachtneming van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=8&z=2014-04-01&g=2014-04-01) de opbrengstverrekening plaats op grond van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b).
 
-#### Artikel 15. audiologische centra
+##### Artikel 15. audiologische centra
 
 1. De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige audiologische centra met dien verstande dat:
 
@@ -214,15 +240,15 @@ Met ingang van 2012 vindt met inachtneming van [artikel 8](https://wetten.overhe
 
 - c. overstap naar het eindmodel zonder vangnet als op hoofdlijnen omschreven in de [Aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030210) (Stcrt. 2011, nr. 1796) en de daaraan voorafgaande brief aan beide Kamers der Staten-Generaal, getiteld ‘Zorg die loont’ (Kamerstukken II 2010/11, 32 620, nr. 6).
 
-#### Artikel 16. dialysecentra
+##### Artikel 16. dialysecentra
 
 De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige dialysecentra met dien verstande dat voor prestaties door dialysecentra vrije tarieven gelden.
 
-#### Artikel 17. radiotherapeutische centra
+##### Artikel 17. radiotherapeutische centra
 
 De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige radiotherapeutische centra met dien verstande dat voor prestaties door radiotherapeutische centra vrije tarieven gelden.
 
-#### Artikel 18. revalidatie centra
+##### Artikel 18. revalidatie centra
 
 De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=4&z=2014-04-01&g=2014-04-01) juncto [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) zijn van overeenkomstige toepassing op zelfstandige revalidatiecentra met dien verstande dat:
 
@@ -234,17 +260,17 @@ De [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&ho
 
 - d. voor prestaties door revalidatiecentra maximumtarieven gelden.
 
-#### Artikel 19
+##### Artikel 19
 
 De zorgautoriteit doet onderzoek naar de omvang van de immateriële vaste activa bij zelfstandige instellingen voor dialyse, radiotherapie en revalidatie en bericht de minister voor 1 september 2011.
 
 ### Hoofdstuk V. Bestuurlijk hoofdlijnenakkoord 2012-2015
 
-#### Artikel 20. macrobudgettaire overschrijdingen
+##### Artikel 20. macrobudgettaire overschrijdingen
 
 In afwijking van de [Aanwijzing inzake de overschrijding ziekenhuiskader 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0029018) ten aanzien van algemene en categorale ziekenhuizen inclusief long/astmacentra, academische ziekenhuizen, epilepsie-inrichtingen, instellingen voor revalidatie, radiotherapeutische centra en dialysecentra van 25 november 2010 (Stcrt. 2010, nr. 19323) waarbij een structurele korting van € 314 miljoen (prijspeil 2009) is opgelegd, wordt ter uitvoering van het Hoofdlijnenakkoord de voor overschrijdingen 2009 opgelegde structurele korting alleen in 2011 eenmalig beperkt tot € 233 miljoen.
 
-#### Artikel 21. vervolmaking productstructuur
+##### Artikel 21. vervolmaking productstructuur
 
 In aanvulling op opdrachten in de [aanwijzing transparante prestatiebeschrijvingen medisch specialistische zorg 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030210) van 27 juni 2011 en ter uitvoering van het Hoofdlijnenakkoord dient de zorgautoriteit, met medebetrokkenheid van DBC-Onderhoud, zorgaanbieders en ziektekostenverzekeraars, bij de vervolmaking van de productstructuur rekening te houden met het volgende:
 
@@ -258,15 +284,15 @@ In aanvulling op opdrachten in de [aanwijzing transparante prestatiebeschrijving
 
 ### Hoofdstuk VI. Overgangs- en slotartikelen
 
-#### Artikel 22. afwikkeling transitie via beschikbaarheidbijdrage
+##### Artikel 22. afwikkeling transitie via beschikbaarheidbijdrage
 
 Het bepaalde in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=7&z=2014-04-01&g=2014-04-01) is niet van toepassing indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan, daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven en de zorgautoriteit op grond van die aanwijzing met betrekking tot die afwikkeling beleidsregels heeft vastgesteld.
 
-#### Artikel 23. citeertitel
+##### Artikel 23. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing transitiemodel prestatiebekostiging medisch specialistische zorg 2012
 
-#### Artikel 24. inwerkingtreding
+##### Artikel 24. inwerkingtreding
 
 1. Met uitzondering van de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=II&artikel=3&z=2014-04-01&g=2014-04-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=III&artikel=9&z=2014-04-01&g=2014-04-01), [14 tot en met 18](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=IV&artikel=14&z=2014-04-01&g=2014-04-01) en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) treedt deze aanwijzing terstond in werking.
 
@@ -274,6 +300,6 @@ Deze aanwijzing wordt aangehaald als: Aanwijzing transitiemodel prestatiebekosti
 
 3. [Artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0030318&hoofdstuk=VI&artikel=22&z=2014-04-01&g=2014-04-01) van deze aanwijzing treedt in werking nadat het bij koninklijk besluit op 25 mei 2010 aan de Tweede Kamer der Staten-Generaal aangeboden voorstel van wet houdende wijziging van de Wet marktordening gezondheidszorg en enkele andere wetten in verband met de aanvulling met instrumenten voor bekostiging tot wet is verheven en in werking is getreden, indien en voor zover bij of krachtens algemene maatregel van bestuur de toepassing van [artikel 56a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56a) voor de afwikkeling van het transitiemodel is toegestaan en daartoe op grond van [artikel 59, aanhef en onder e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) een aanwijzing aan de zorgautoriteit is gegeven.
 
-#### Artikel 25. publicatie
+##### Artikel 25. publicatie
 
 Deze aanwijzing wordt met de toelichting in de Staatscourant geplaatst.

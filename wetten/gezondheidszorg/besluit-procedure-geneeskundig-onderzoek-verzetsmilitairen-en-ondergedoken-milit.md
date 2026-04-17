@@ -1,13 +1,35 @@
 ---
-title: "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen"
+title: "Besluit van 25 augustus 1979, houdende vaststelling van de procedure voor het geneeskundig onderzoek ten aanzien van verzetsmilitairen en ondergedoken militairen"
 identifier: "BWBR0003262"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2005-05-11
-laatste_update: 2005-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003262"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-05-11"
+last_updated: "2005-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003262"
+soort: "AMvB"
+stam_id: "884833"
+version_id: "1291412"
+internal_id: "C1291411"
+label_id: "858314"
+dtd_version: "2.0"
+original_entry_into_force: "1979-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003262/2005-05-11/0"
+intitule_bron: "Stb.1979-517"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-08-25"
+intitule_status: "goed"
+original_publication: "Stb.1979-517"
+original_signed_date: "1979-08-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1979-09-29"
+jci_1_3: "jci1.3:c:BWBR0003262&z=2005-05-11&g=2005-05-11"
+jci_1_0: "1.0:c:BWBR0003262&g=2005-05-11"
+citeertitel_status: "officieel"
+short_title: "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen"
+signed_date: "1979-08-25"
+entry_into_force: "1979-09-29"
 ---
-
 # Besluit van 25 augustus 1979, houdende vaststelling van de procedure voor het geneeskundig onderzoek ten aanzien van verzetsmilitairen en ondergedoken militairen
 
 Op de voordracht van de Staatssecretaris van Defensie, C. L. J. van Lent, van 27 februari 1979, afdeling pensioenen en wachtgelden, nr. P.130087/11-T;
@@ -22,7 +44,7 @@ Gezien het nader rapport van de voornoemde Staatssecretaris van Defensie van 20 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - h. "de gekozen arts": de door de geneeskundige autoriteit aan te wijzen, door de betrokkene gekozen, arts, die het geneeskundig onderzoek bijwoont en de onder g bedoelde arts van advies dient.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het geneeskundig onderzoek geschiedt door een door de geneeskundige autoriteit aan te wijzen arts.
 
@@ -50,11 +72,11 @@ In dit besluit wordt verstaan onder:
 
 3. Van de aanvraag kan een omschrijving van de omstandigheden, waaronder de verwonding of verminking of de ziekten of gebreken naar zijn mening zijn ontstaan, alsmede een omschrijving van de nadelige gevolgen, welke hij daarvan ondervindt, worden verlangd, zo mogelijk gestaafd door bewijsstukken.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtingen over de betrokkene of over de omstandigheden bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2005-05-11&g=2005-05-11), worden ingewonnen en te zijner beschikking gesteld, zorgt Onze Minister dat hieraan zoveel mogelijk wordt voldaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De arts brengt zo spoedig mogelijk een met redenen omkleed rapport uit, waarin tenminste het volgende is opgenomen:
 
@@ -80,7 +102,7 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 2. Bij zijn rapport legt de arts de stukken over waarvan voor het opmaken van het rapport gebruik is gemaakt, desgewenst in gewaarmerkt afschrift, waaronder, indien aanwezig, het schriftelijk advies van de gekozen arts, alsmede de omschrijving van de betrokkene, zoals bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=2&z=2005-05-11&g=2005-05-11).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De arts zendt het rapport aan de geneeskundige autoriteit.
 
@@ -96,7 +118,7 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 5. Het uittreksel uit het rapport bevat de gegevens, als bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=4&z=2005-05-11&g=2005-05-11), een en ander met weglating van eventuele medische gegevens.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister is bevoegd over het volledige rapport van de arts, nadat dit door de geneeskundige autoriteit is voorzien van zijn visum, een schriftelijk oordeel van één of meer andere deskundigen te vragen. Deze is/zijn gehouden de gekozen arts, indien betrokken bij het geneeskundig onderzoek, te horen. Wijkt het inzicht van deze deskundige(n) af van dat van de geneeskundige autoriteit, dan wordt van het door de deskundige(n) uitgebracht schriftelijk oordeel geen gebruik gemaakt dan nadat de geneeskundige autoriteit tegenover Onze Minister zijn standpunt nader schriftelijk heeft kunnen verdedigen.
 
@@ -104,17 +126,17 @@ Indien de arts het voor het uitbrengen van zijn rapport nodig acht dat inlichtin
 
 3. Het in [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=5&z=2005-05-11&g=2005-05-11), bepaalde is van overeenkomstige toepassing op het door de deskundige(n) uitgebrachte schriftelijk oordeel, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003262&artikel=6&z=2005-05-11&g=2005-05-11).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister van Defensie kan nadere regels vaststellen met betrekking tot de uitvoering van dit besluit.
 
 2. Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in het eerste lid kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit kan worden aangehaald als "Besluit procedure geneeskundig onderzoek verzetsmilitairen en ondergedoken militairen".
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na datum van afgifte van het **Staatsblad** waarin het wordt geplaatst.
 

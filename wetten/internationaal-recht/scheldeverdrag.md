@@ -1,13 +1,38 @@
 ---
 title: "Scheldeverdrag"
 identifier: "BWBV0001712"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-12-01
-laatste_update: 2002-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001712"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-12-01"
+last_updated: "2002-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001712"
+soort: "verdrag"
+stam_id: "10001923293"
+version_id: "10002011442"
+internal_id: "C10006995391"
+label_id: "10001923474"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001712/2005-12-01/0"
+intitule_bron: "Trb.2003-76"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-10"
+intitule_published: "2003-06-06"
+intitule_in_force: "2005-11-18"
+intitule_status: "goed"
+original_publication: "Trb.2003-76"
+original_signed_date: "2005-02-10"
+original_published_date: "2003-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-76"
+entry_into_force_date: "2005-12-01"
+jci_1_3: "jci1.3:c:BWBV0001712&z=2005-12-01&g=2005-12-01"
+jci_1_0: "1.0:c:BWBV0001712&g=2005-12-01"
+citeertitel_status: "redactioneel"
+signed_date: "2005-02-10"
+entry_into_force: "2005-12-01"
 ---
-
 # Scheldeverdrag
 
 De Regeringen van
@@ -50,7 +75,7 @@ Ervan overtuigd dat dit dringende taken zijn, waarbij elk voor zich bevoegd blij
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In het onderhavig Verdrag wordt verstaan onder:
 
@@ -68,7 +93,7 @@ In het onderhavig Verdrag wordt verstaan onder:
 
 In aanvulling op de bovenstaande begripsbepalingen zijn de definities uit de Kaderrichtlijn Water van toepassing.
 
-#### Artikel 2. Doel van het Verdrag
+##### Artikel 2. Doel van het Verdrag
 
 De Verdragsluitende Partijen streven het bereiken van een duurzaam en integraal waterbeheer van het internationaal stroomgebiedsdistrict van de Schelde na, in het bijzonder rekening houdend met de multifunctionaliteit van haar wateren.
 
@@ -84,7 +109,7 @@ Zij werken in het bijzonder samen om:
 
 - d. maatregelen ter voorkoming en bestrijding van calamiteuze waterverontreiniging af te stemmen, alsmede zorg te dragen voor de noodzakelijke informatiedoorgeleiding.
 
-#### Artikel 3. Beginselen van de samenwerking
+##### Artikel 3. Beginselen van de samenwerking
 
 1. Bij hun handelen laten de Verdragsluitende Partijen zich leiden door de volgende beginselen:
 
@@ -114,7 +139,7 @@ zoals gedefinieerd en gemeenschappelijk geïnterpreteerd in het Europese milieur
 
 3. De bepalingen van het onderhavig Verdrag doen geen afbreuk aan het recht van de Verdragsluitende Partijen om afzonderlijk of gezamenlijk strengere maatregelen aan te nemen en toe te passen dan die uit hoofde van het onderhavig Verdrag.
 
-#### Artikel 4. Taken van de Commissie
+##### Artikel 4. Taken van de Commissie
 
 1. De Verdragsluitende Partijen stellen de Commissie in, voor de uitvoering van het onderhavig Verdrag.
 
@@ -184,7 +209,7 @@ Dit betreft met name de afstemming van:
 
 7. De Commissie kan andere zaken binnen het toepassingsgebied van het onderhavig Verdrag behandelen, die de Verdragsluitende Partijen haar in onderlinge overeenstemming opdragen.
 
-#### Artikel 5. Samenstelling en werkwijze van de Commissie
+##### Artikel 5. Samenstelling en werkwijze van de Commissie
 
 1. De Commissie bestaat uit delegaties van de Verdragsluitende Partijen. Elke Verdragsluitende Partij benoemt haar afgevaardigden, onder wie een delegatieleider.
 
@@ -204,7 +229,7 @@ De delegatie van het Koninkrijk België en de onderscheiden delegaties van de Be
 
 8. Ter regeling van haar werkzaamheden neemt de Commissie een Huishoudelijk en Financieel Reglement aan. Dit Reglement dient in een schriftelijke procedure voor de besluitvorming te voorzien, onverminderd de principes aangegeven in lid 4 van dit artikel.
 
-#### Artikel 6. Waarnemers en samenwerking met derden
+##### Artikel 6. Waarnemers en samenwerking met derden
 
 1. De Commissie kan op hun verzoek als waarnemer erkennen:
 
@@ -226,7 +251,7 @@ De modaliteiten van deze samenwerking alsmede de voorwaarden voor de toelating t
 
 5. De Commissie kan besluiten zich te laten bijstaan door deskundigen en deze uit te nodigen voor haar vergaderingen.
 
-#### Artikel 7. Financiering van de Commissie
+##### Artikel 7. Financiering van de Commissie
 
 1. Elke Verdragsluitende Partij draagt de kosten van haar vertegenwoordiging in de Commissie.
 
@@ -242,11 +267,11 @@ De modaliteiten van deze samenwerking alsmede de voorwaarden voor de toelating t
 
 De Commissie kan in geval van latere toetreding of uittreding van een Verdragsluitende Partij of van naar haar oordeel bijzondere activiteiten, een andere verdeelsleutel bepalen.
 
-#### Artikel 8. Geschillenbeslechting
+##### Artikel 8. Geschillenbeslechting
 
 Indien tussen Verdragsluitende Partijen een geschil ontstaat met betrekking tot de uitlegging of de toepassing van het onderhavig Verdrag, streven deze met voorrang ernaar tot een oplossing te komen door onderhandeling of via een andere methode van geschillenbeslechting die de Partijen bij het geschil aanvaardbaar achten.
 
-#### Artikel 9. Relatie met andere Verdragen
+##### Artikel 9. Relatie met andere Verdragen
 
 1. Vanaf zijn inwerkingtreding heft het onderhavig Verdrag het Verdrag van Charleville-Mézières op en vervangt dit.
 
@@ -256,7 +281,7 @@ Indien tussen Verdragsluitende Partijen een geschil ontstaat met betrekking tot 
 
 4. De bepalingen van het onderhavig Verdrag doen geen afbreuk aan de rechten en verplichtingen van Verdragsluitende Partijen die voortvloeien uit andere verdragen, voorafgaand aan de inwerkingtreding van het onderhavig Verdrag en verband houdend met het doel ervan.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 1. Elke Verdragsluitende Partij deelt aan de Regering van het Koninkrijk België, die hierbij wordt aangeduid als depositaris van het onderhavig Verdrag, mee wanneer aan de voor haar vereiste interne procedures voor de inwerkingtreding van het onderhavig Verdrag is voldaan.
 
@@ -264,13 +289,13 @@ Indien tussen Verdragsluitende Partijen een geschil ontstaat met betrekking tot 
 
 3. Het onderhavig Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de laatste mededeling.
 
-#### Artikel 11. Opzegging
+##### Artikel 11. Opzegging
 
 1. Na het verstrijken van een periode van drie jaar na zijn inwerkingtreding kan het onderhavig Verdrag te allen tijde door elk der Verdragsluitende Partijen worden opgezegd, na de beëindiging van de eigen nationale procedures, door middel van een aan de depositaris te richten schriftelijke verklaring.
 
 2. Een opzegging wordt van kracht aan het einde van het jaar volgend op dat van de opzegging.
 
-#### Artikel 12. Authentieke tekst en neerlegging
+##### Artikel 12. Authentieke tekst en neerlegging
 
 Het onderhavig Verdrag, opgesteld in de Nederlandse en de Franse taal, waarbij de twee teksten gelijkelijk authentiek zijn, zal worden neergelegd in de archieven van de depositaris die daarvan een gewaarmerkt afschrift zal doen toekomen aan elk der Verdragsluitende Partijen.
 

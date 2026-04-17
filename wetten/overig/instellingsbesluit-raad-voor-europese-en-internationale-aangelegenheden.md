@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden"
 identifier: "BWBR0007888"
-categorie: "Overig"
-publicatiedatum: 1996-02-16
-laatste_update: 1996-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007888"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1996-02-16"
+last_updated: "1996-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007888"
+soort: "ministeriele-regeling"
+stam_id: "3535943"
+version_id: "5319092"
+internal_id: "C5512181"
+label_id: "3515964"
+dtd_version: "2.0"
+original_entry_into_force: "1996-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007888/1996-02-16/0"
+intitule_bron: "Stcrt.1996-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-02"
+intitule_published: "1996-02-14"
+intitule_in_force: "1996-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-32"
+original_signed_date: "1996-02-02"
+original_published_date: "1996-02-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-02-16"
+jci_1_3: "jci1.3:c:BWBR0007888&z=1996-02-16&g=1996-02-16"
+jci_1_0: "1.0:c:BWBR0007888&g=1996-02-16"
+citeertitel_status: "officieel"
+signed_date: "1996-02-02"
+entry_into_force: "1996-02-16"
 ---
-
 # Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,11 +40,11 @@ Gelet op [artikel 25, eerste lid, van het Reglement van Orde voor de Ministerraa
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Raad voor Europese en Internationale Aangelegenheden (REIA).
 
-#### Artikel 2
+##### Artikel 2
 
 De Raad heeft tot taak het voorbereiden van de besluitvorming door de ministerraad over:
 
@@ -42,7 +66,7 @@ De Raad heeft tot taak het voorbereiden van de besluitvorming door de ministerra
 
 - i. de verdeling van de gelden binnen de homogene groep internationale samenwerking, alsook de verwerking van tegenvallers of majeure beleidsintensiveringen binnen de homogene groep.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Raad vergadert in twee samenstellingen:
 
@@ -116,19 +140,19 @@ De Raad heeft tot taak het voorbereiden van de besluitvorming door de ministerra
 
 7. De minister-president kan, naar gelang de onderwerpen die aan de orde komen, in overleg met de coördinerende bewindspersonen, anderen voor de vergadering uitnodigen, met name de gevolmachtigde ministers van de Nederlandse Antillen en Aruba, het Nederlandse lid van de Europese Commissie, de president van de Nederlandse Bank en de permanente vertegenwoordigers bij de Europese Unie, de Noord Atlantische Verdragsorganisaties, de Westeuropese Unie en de Verenigde Naties.
 
-#### Artikel 4
+##### Artikel 4
 
 Het secretariaat van de Raad wordt verzorgd door het ministerie van Algemene Zaken.
 
-#### Artikel 5
+##### Artikel 5
 
 De Algemene Verdedigingsraad, de Raad voor Europese Zaken en de Raad voor Ontwikkelingssamenwerking zijn opgeheven.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Raad voor Europese en Internationale Aangelegenheden.
 

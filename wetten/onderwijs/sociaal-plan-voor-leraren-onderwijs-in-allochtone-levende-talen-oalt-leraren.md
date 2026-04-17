@@ -1,13 +1,37 @@
 ---
-title: "Sociaal plan voor leraren onderwijs in allochtone levende talen (oalt-leraren)"
+title: "Voorlichtingspublicatie over een sociaal plan voor oalt-leraren in verband met het aanscherpen van de kwalificatievereisten per 1 augustus 2002 voor oaltleraren die taalondersteuning geven"
 identifier: "BWBR0014859"
-categorie: "Onderwijs"
-publicatiedatum: 2003-04-02
-laatste_update: 2003-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014859"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-04-02"
+last_updated: "2003-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014859"
+soort: "beleidsregel"
+stam_id: "6487363"
+version_id: "11166702"
+internal_id: "C15090141"
+label_id: "6476024"
+original_entry_into_force: "2003-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014859/2003-04-02/0"
+intitule_bron: "Uitleg.2003-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-20"
+intitule_published: "2003-04-02"
+intitule_in_force: "2003-04-02"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-9"
+original_signed_date: "2003-03-20"
+original_published_date: "2003-04-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-04-02"
+jci_1_3: "jci1.3:c:BWBR0014859&z=2003-04-02&g=2003-04-02"
+jci_1_0: "1.0:c:BWBR0014859&g=2003-04-02"
+citeertitel_status: "redactioneel"
+short_title: "Sociaal plan voor leraren onderwijs in allochtone levende talen (oalt-leraren)"
+signed_date: "2003-03-20"
+entry_into_force: "2003-04-02"
 ---
-
 # Voorlichtingspublicatie over een sociaal plan voor oalt-leraren in verband met het aanscherpen van de kwalificatievereisten per 1 augustus 2002 voor oaltleraren die taalondersteuning geven
 
 ### 1. Inleiding
@@ -86,7 +110,7 @@ Overwegende:
 
 Komen overeen:
 
-#### Artikel 1. Uitgangspunten
+##### Artikel 1. Uitgangspunten
 
 Partijen onderschrijven de volgende uitgangspunten:
 
@@ -96,7 +120,7 @@ Partijen onderschrijven de volgende uitgangspunten:
 
 - het is van groot belang dat oalt-leraren, rekening houdend met de aanwezige of nog te verwerven kwalificaties, zoveel mogelijk in de functie van leraar behouden blijven voor het primair onderwijs.
 
-#### Artikel 2. Inspanningsverplichtingen
+##### Artikel 2. Inspanningsverplichtingen
 
 I. Partijen verplichten zich binnen hun verantwoordelijkheden en mogelijkheden in te spannen om te komen tot een succesvolle uitvoering van het sociaal plan.
 
@@ -160,11 +184,11 @@ Centrales
 
 - voorbeelden van ”good practice” opsporen en actief verspreiden.
 
-#### Artikel 3. Aanstelling of benoeming nieuw personeel op vrijvallende oalt-middelen
+##### Artikel 3. Aanstelling of benoeming nieuw personeel op vrijvallende oalt-middelen
 
 Indien schoolbesturen in overleg met de gemeente ertoe overgaan op oalt-middelen die vrijvallen als gevolg van maatregelen betreffende de oalt-leraren, nieuw personeel aan te stellen of te benoemen, leidt dit niet tot verplichtingen voor de rijksoverheid, zoals bedoeld in [artikel 171, zevende lid WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=171), [artikel 157, zevende lid WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=157) en [artikel 272, zevende lid WVO](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=272).
 
-#### Artikel 4. Passende arbeid
+##### Artikel 4. Passende arbeid
 
 I. De werkgeversorganisaties, de centrales en de VNG zullen bevorderen dat gemeenten, scholen en oalt-leraren op zoek gaan naar passende arbeid voor oalt-leraren in het geval dat werkloosheid dreigt.
 
@@ -172,7 +196,7 @@ II. Onder passende arbeid wordt verstaan alle arbeid die voor de krachten en bek
 
 III. Bij het zoeken naar passende arbeid wordt te werk gegaan volgens de criteria en het stappenplan zoals die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014859&bijlage=1&z=2003-04-02&g=2003-04-02) bij dit convenant zijn opgenomen.
 
-#### Artikel 5. Loonsuppletie
+##### Artikel 5. Loonsuppletie
 
 I. Een oalt-leraar die niet kan voldoen aan de per 1-8-2002 verscherpte kwalificaties voor het verzorgen van taalondersteuning en die ook niet (meer) ingezet kan worden voor het verzorgen van cultuureducatie, kan in aanmerking komen voor loonsuppletie.
 
@@ -196,7 +220,7 @@ II. Partijen zijn het eens over de volgende elementen van een regeling voor loon
 
 III. De minister van OCenW bevordert de totstandkoming van een (wijziging van een) algemene maatregel van bestuur waarin de onder lid II genoemde elementen nader worden uitgewerkt en voert daarover het gebruikelijke overleg met de werkgeversorganisaties en de centrales.
 
-#### Artikel 6. Afkoop bovenwettelijke deel uitkering
+##### Artikel 6. Afkoop bovenwettelijke deel uitkering
 
 I. Voor de mogelijkheid tot afkoop van het bovenwettelijk deel van de uitkering gelden de daarover bestaande regelingen in het Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair en voortgezet onderwijs en educatie en beroepsonderwijs (BBWO) en de daarop gebaseerde ministeriële regeling ”[Regels inzake afkoop van het recht op bovenwettelijke uitkering](https://wetten.overheid.nl/jci1.3:c:BWBR0012325)”, gepubliceerd in het Gele Katern nr.9 van 28 maart 2001.
 
@@ -204,19 +228,19 @@ II. In aanvulling op de onder lid I genoemde regelingen is het tevens mogelijk o
 
 III. De minister van OCenW bevordert de totstandkoming van een (wijziging van een) ministeriële regeling waarin het bepaalde in lid II nader wordt uitgewerkt en voert daarover het gebruikelijke overleg met de werkgeversorganisaties en de centrales.
 
-#### Artikel 7. Verhuiskosten
+##### Artikel 7. Verhuiskosten
 
 Voor een regeling voor de vergoeding van de verhuiskosten wordt verwezen naar de bepalingen daarover in het BBWO.
 
-#### Artikel 8. Projectleider
+##### Artikel 8. Projectleider
 
 Ter bevordering van een goede begeleiding, ondersteuning en coördinatie van activiteiten van gemeenten en schoolbesturen in het kader van dit convenant wordt op kosten van OCenW voor de duur van twee jaar en in een betrekkingsomvang van 0,4 fte een projectleider aangesteld. Over de precieze invulling van het takenpakket en de organisatie waarbinnen deze projectleider de werkzaamheden zal verrichten wordt nog nader overleg gevoerd.
 
-#### Artikel 9. Uitvoeringstoets
+##### Artikel 9. Uitvoeringstoets
 
 Alle hierboven genoemde afspraken of uitwerkingen ervan, voor zover vallend onder de verantwoordelijkheid van de minister van OCenW, die uitvoeringstechnische consequenties hebben, worden onderworpen aan een uitvoeringstoets.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 I. Dit convenant treedt in werking op de datum waarop het door alle partijen is ondertekend en werkt terug tot en met 1 augustus 2002.
 

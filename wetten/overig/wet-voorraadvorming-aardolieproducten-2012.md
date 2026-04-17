@@ -1,14 +1,41 @@
 ---
-title: "Wet voorraadvorming aardolieproducten 2012"
+title: "Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)"
 identifier: "BWBR0032775"
-categorie: "Overig"
-publicatiedatum: 2021-07-23
-laatste_update: 2021-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032775"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-23"
+last_updated: "2021-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032775"
+soort: "wet"
+stam_id: "12061553"
+version_id: "20098392"
+internal_id: "C28571281"
+label_id: "12033734"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032775/2021-07-23/0"
+intitule_bron: "Stb.2013-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2013-01-17"
+intitule_in_force: "2013-03-28"
+intitule_status: "goed"
+original_publication: "Stb.2013-15"
+original_signed_date: "2012-12-20"
+original_published_date: "2013-01-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "33357"
+original_url_id: "stb-2013-15"
+entry_into_force_date: "2013-04-01"
+jci_1_3: "jci1.3:c:BWBR0032775&z=2021-07-23&g=2021-07-23"
+jci_1_0: "1.0:c:BWBR0032775&g=2021-07-23"
+citeertitel_status: "officieel"
+short_title: "Wet voorraadvorming aardolieproducten 2012"
+signed_date: "2012-12-20"
+entry_into_force: "2013-04-01"
 ---
-
-# Wet voorraadvorming aardolieproducten 2012
+# Wet van 20 december 2012, houdende regels inzake het aanhouden van voorraden aardolieproducten (Wet voorraadvorming aardolieproducten 2012)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,7 +87,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **wettelijke voorraad:** voorraad aardolieproducten waarmee wordt beoogd aan de voor Nederland geldende internationale verplichtingen te voldoen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardolieproducten, gedefinieerd in hoofdstuk 3.4 van bijlage A, van [Verordening (EG) nr. 1099/2008](32008R1099) van het Europees Parlement en de Raad van 22 oktober 2008 betreffende energiestatistieken (PbEG 2008, L 304), verdeeld in de volgende categorieën:
 
@@ -90,11 +117,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde worden aardoliepro
 
 #### § 1. Diverse voorraadplichtigen en de omvang van hun wettelijke voorraad
 
-#### Artikel 3
+##### Artikel 3
 
 De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende hoeveelheden: 90 maal het daggemiddelde van de netto invoer van aardolieproducten of 61 maal het daggemiddelde van het binnenlands verbruik, berekend overeenkomstig artikel 3 van [richtlijn 2009/119/EG](32009L0119).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister stelt jaarlijks uiterlijk 31 maart voor het daarop volgende voorraadjaar de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast:
 
@@ -112,7 +139,7 @@ De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende
 
 6. De relatieve omvang van de verplichting voor marktdeelnemers wordt berekend naar de aangiften, bedoeld in [artikel 53 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=53), over het referentiejaar, alsmede naar de hoeveelheid reactiemotorbrandstof van het kerosinetype die voor de voorstuwing van luchtvaartuigen is geleverd over het referentiejaar. De berekening wordt gedaan op een bij ministeriële regeling te bepalen wijze.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vaststelling, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), geschiedt overeenkomstig de artikelen 4 en 9, vijfde lid, van [richtlijn 2009/119/EG](32009L0119) en wel zodanig dat:
 
@@ -134,11 +161,11 @@ De wettelijke voorraad is ten minste gelijk aan de grootste van de twee volgende
 
 4. De totale hoeveelheid aardolieproducten die COVA moet aanhouden, wordt bepaald door de wettelijke voorraad te verminderen met de totale hoeveelheid aardolieproducten die marktdeelnemers aan moeten houden. Voor zover met de voorraadplicht van de marktdeelnemers tezamen niet wordt voldaan aan het eerste lid, onderdeel a, wordt het resterende deel van de bedoelde aardolieproducten door COVA aangehouden.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan met het oog op een dreigende oliecrisis bepalen dat het voor COVA vastgestelde gedeelte van de wettelijke voorraad met een door hem te bepalen hoeveelheid wordt verhoogd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan met het oog op een oliecrisis dan wel een dreigende oliecrisis bepalen dat:
 
@@ -150,13 +177,13 @@ Onze Minister kan met het oog op een dreigende oliecrisis bepalen dat het voor C
 
 #### § 2. Eisen aan de wettelijke voorraad
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een product wordt slechts tot de wettelijke voorraad gerekend, indien het zich bevindt in een lidstaat van de Europese Unie.
 
 2. Als het product zich niet in Nederland bevindt, wordt het slechts tot de wettelijke voorraad gerekend indien is voldaan aan het gestelde bij of krachtens de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=2&artikel=10&z=2021-07-23&g=2021-07-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=12&z=2021-07-23&g=2021-07-23), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=14&z=2021-07-23&g=2021-07-23) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=3&artikel=15&z=2021-07-23&g=2021-07-23).
 
-#### Artikel 9
+##### Artikel 9
 
 Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gerekend indien deze:
 
@@ -168,7 +195,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 - –. bestemd zijn om bij vervoer te worden gebruikt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Tot de wettelijke voorraad worden niet gerekend producten:
 
@@ -188,7 +215,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 #### § 3. Beheer en overdracht van de wettelijke voorraad
 
-#### Artikel 11
+##### Artikel 11
 
 1. COVA kan taken betreffende het beheer van het voor haar vastgestelde gedeelte van de wettelijke voorraad voor een bepaalde termijn overdragen aan uitsluitend:
 
@@ -204,7 +231,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 4. De overdracht aan een bedrijf in Nederland en wijziging daarvan wordt vooraf gemeld aan Onze Minister.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een product wordt slechts tot de wettelijke voorraad gerekend, indien het op elk moment daadwerkelijk ter beschikking staat van de voorraadplichtige.
 
@@ -222,7 +249,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 4. Onze Minister kan bepalen dat een marktdeelnemer enig rechthebbende dient te zijn op ten minste een door hem te bepalen gedeelte van de wettelijke voorraad, indien is gebleken dat in het verleden door deze marktdeelnemer of ten opzichte van deze marktdeelnemer, niet werd voldaan aan het tweede en derde lid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. COVA aanvaardt voor een marktdeelnemer tegen kostprijs de overdracht van de verplichting om een voorraad aardolieproducten aan te houden als onderdeel van de wettelijke voorraad.
 
@@ -230,7 +257,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 3. COVA kan aan een dergelijke overdracht de voorwaarde verbinden dat de marktdeelnemer een garantie of andere zekerheid stelt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een marktdeelnemer kan de verplichting om een voorraad aardolieproducten aan te houden als onderdeel van de wettelijke voorraad ten minste gedeeltelijk overdragen aan uitsluitend:
 
@@ -250,7 +277,7 @@ Biobrandstoffen en toevoegingen worden slechts tot de wettelijke voorraad gereke
 
 5. Wijziging of uitbreiding van een overdracht als bedoeld in het eerste lid, onder d, wordt beschouwd als een nieuwe overdracht.
 
-#### Artikel 15
+##### Artikel 15
 
 1.
 
@@ -260,7 +287,7 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen wo
 
 #### § 4. Informatie- en administratieverplichtingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister houdt, onder verwijzing naar de categorieën genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=1&artikel=2&z=2021-07-23&g=2021-07-23), een register in stand van de wettelijke voorraad. Dit register bevat de in het tweede en derde lid bedoelde informatie.
 
@@ -272,7 +299,7 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen wo
 
 5. Een voorraadplichtige meldt aan Onze Minister zodra hij in staat van surseance van betaling dan wel van faillissement is komen te verkeren, alsmede indien op het voor hem vastgestelde gedeelte van de wettelijke voorraad beslag is gelegd dan wel ten aanzien van hem andere executiemaatregelen zijn getroffen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. COVA houdt een openbaar register in stand van:
 
@@ -282,13 +309,13 @@ Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen wo
 
 2. De in het eerste lid, onder b, bedoelde voorwaarden worden ten minste zeven maanden voorafgaand aan de overdracht van de verplichting om een voorraad aardolieproducten aan te houden, bekend gemaakt.
 
-#### Artikel 18
+##### Artikel 18
 
 De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking tot een wettelijke voorraad gedurende ten minste vijf jaar.
 
 #### § 5. Ontheffingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister kan op verzoek van een voorraadplichtige ontheffing verlenen van de [artikelen 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), en [16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2021-07-23&g=2021-07-23), indien de voorraadplicht voor de voorraadplichtige leidt tot een onevenredig zware financiële belasting doordat hij
 
@@ -318,19 +345,19 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 ## Titel 2. Institutionele bepalingen omtrent COVA
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister draagt er zorg voor dat er een Stichting Centraal Orgaan Voorraadvorming Aardolieproducten is.
 
 2. COVA heeft tot taak om, met inachtneming van de vereiste zekerheid van voorziening van aardolieproducten, haar gedeelte van de wettelijke voorraad tegen zo laag mogelijke kosten aan te houden en te doen al hetgeen daarvoor bevorderlijk kan zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het bestuur van COVA bestaat uit ten minste drie en ten hoogste vijf leden.
 
 2. Onze Minister benoemt en ontslaat de voorzitter en de overige leden van het bestuur.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Slechts Onze Minister kan de statuten van COVA wijzigen.
 
@@ -338,7 +365,7 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 3. COVA verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De begroting van inkomsten en uitgaven en de jaarrekening van COVA behoeven, na door het bestuur van COVA te zijn vastgesteld, de goedkeuring van Onze Minister.
 
@@ -348,19 +375,19 @@ De voorraadplichtige bewaart gegevens, overzichten en bescheiden met betrekking 
 
 4. De goedkeuring van de jaarrekening strekt, voor zover het de daarbij goedgekeurde inkomsten en uitgaven betreft, tot decharge van het bestuur, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien COVA naar het oordeel van Onze Minister haar taak ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen, zo nodig met afwijking van de statuten van COVA.
 
 2. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat COVA in de gelegenheid is gesteld om binnen een door Onze Minister gestelde termijn alsnog haar taak naar behoren uit te voeren.
 
-#### Artikel 25
+##### Artikel 25
 
 De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haar liquidatie als rechtspersoon.
 
 ## Titel 3. Voorraadheffing ten behoeve van de financiering van COVA
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onder de naam voorraadheffing wordt een heffing geheven van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=3&artikel=27&z=2021-07-23&g=2021-07-23) bedoelde producten. De voorraadheffing strekt tot financiering van de exploitatiekosten van COVA.
 
@@ -368,7 +395,7 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 3. Onze Minister van Financiën keert de opbrengst van de voorraadheffing uit aan COVA, of, na liquidatie van COVA als rechtspersoon, aan Onze Minister.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De heffing bedraagt voor:
 
@@ -384,7 +411,7 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 ### Hoofdstuk 3. Het in Nederland aanhouden van voorraden ter naleving van internationale verplichtingen van andere landen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het in Nederland aanhouden van een voorraad aardolieproducten ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat, behoeft de voorafgaande instemming van Onze Minister.
 
@@ -394,37 +421,37 @@ De staat is aansprakelijk voor schulden van COVA, die mochten overblijven na haa
 
 - b. weigering naar zijn oordeel anderszins noodzakelijk is met het oog op de naleving van voor Nederland geldende internationale verplichtingen.
 
-#### Artikel 29
+##### Artikel 29
 
 De [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=16&z=2021-07-23&g=2021-07-23) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=4&artikel=18&z=2021-07-23&g=2021-07-23)zijn van overeenkomstige toepassing op degene die in Nederland een voorraad aardolieproducten aanhoudt ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.
 
-#### Artikel 30
+##### Artikel 30
 
 Bij algemene maatregel van bestuur kunnen nadere voorschriften en beperkingen worden gesteld aan het in Nederland aanhouden van een voorraad aardolieproducten ter naleving van internationale verplichtingen van een andere staat dan Nederland dan wel van een onderdaan van die staat.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 De voor het uitoefenen van toezicht aangewezen ambtenaren zijn belast met het verlenen van bijstand aan inspecties op grond van richtlijn 2009/119/EG door personen die de Europese Commissie daartoe heeft gemachtigd. Op deze inspecties is [afdeling 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=5.2) van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 34
+##### Artikel 34
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk en over de doeltreffendheid en doelmatigheid van het functioneren van COVA.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt deze wet en de Algemene wet bestuursrecht.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De [Wet voorraadvorming aardolieproducten 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012373) wordt ingetrokken.
 
@@ -432,11 +459,11 @@ Wijzigt deze wet en de Algemene wet bestuursrecht.
 
 3. In afwijking van [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&hoofdstuk=2&titeldeel=1&paragraaf=1&artikel=4&z=2021-07-23&g=2021-07-23), stelt Onze Minister met betrekking tot een periode liggende tussen 31 december 2012 tot en met 31 maart 2013 de omvang en samenstelling van de in voorraad aan te houden aardolieproducten vast overeenkomstig artikel 3, derde lid, van [richtlijn 2009/119/EG](32009L0119).
 
-#### Artikel 37
+##### Artikel 37
 
 De artikelen van deze wet treden in werking met ingang van een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze wet wordt aangehaald als: Wet voorraadvorming aardolieproducten 2012.
 

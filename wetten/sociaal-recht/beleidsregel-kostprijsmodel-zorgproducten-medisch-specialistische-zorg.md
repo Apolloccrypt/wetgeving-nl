@@ -1,18 +1,44 @@
 ---
-title: "Beleidsregel kostprijsmodel zorgproducten medisch-specialistische zorg"
+title: "Beleidsregel Kostprijsmodel zorgproducten medisch-specialistische zorg – BR/REG-23152, Nederlandse Zorgautoriteit"
 identifier: "BWBR0048131"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-05-01
-laatste_update: 2023-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048131"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048131"
+soort: "zbo"
+stam_id: "16739653"
+version_id: "29391452"
+internal_id: "C41954251"
+label_id: "16655774"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048131/2023-05-01/0"
+intitule_bron: "Stcrt.2023-12816"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-11"
+intitule_published: "2023-05-04"
+intitule_in_force: "2023-05-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-12816"
+original_signed_date: "2023-04-11"
+original_published_date: "2023-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-12816"
+entry_into_force_date: "2023-05-01"
+jci_1_3: "jci1.3:c:BWBR0048131&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBR0048131&g=2023-05-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel kostprijsmodel zorgproducten medisch-specialistische zorg"
+signed_date: "2023-04-11"
+entry_into_force: "2023-05-01"
 ---
-
 # Beleidsregel Kostprijsmodel zorgproducten medisch-specialistische zorg – BR/REG-23152, Nederlandse Zorgautoriteit
 
 Ingevolge [artikel 57, eerste lid, aanhef en onder b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. Deze beleidsregel is van toepassing op medisch-specialistische zorg, voor zo ver geleverd door een van de hieronder genoemde categorieën instellingen:
 
@@ -48,11 +74,11 @@ Ingevolge [artikel 57, eerste lid, aanhef en onder b en c, van de Wet marktorden
 
 - e. instellingen die geriatrische revalidatiezorg leveren en die niet behoren tot een van de instellingscategorieën genoemd in het eerste lid.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Deze beleidsregel geeft inzicht in de wijze waarop de NZa informatie over de kostprijzen vergaart en de wijze waarop zij kostprijzen laat berekenen en aanleveren door instellingen.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -102,7 +128,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Zorgproduct:** Een aanduiding van prestaties binnen de medisch specialistisch zorg. Zorgproducten zijn onderverdeeld in dbc-zorgproducten en overige zorgproducten.
 
-#### Artikel 4. Kostprijsmodel
+##### Artikel 4. Kostprijsmodel
 
 1. De NZa stelt de tarieven in het gereguleerde segment vast op basis van werkelijke kostprijzen van instellingen. Hierbij worden de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048131&artikel=5&z=2023-05-01&g=2023-05-01) genoemde bepalingen als uitgangspunt genomen.
 
@@ -126,7 +152,7 @@ Om de eenduidigheid en kwaliteit van de aan te leveren gegevens te bevorderen en
 
 8. Ontheffingen die op grond van het zesde lid zijn verleend, gelden ook voor de jaren volgend op het jaar waarvoor de ontheffing initieel werd verleend, tenzij het overeenkomstig het zesde lid berekende omzetaandeel nadien groter is geworden dan de in dat lid genoemde 10%.
 
-#### Artikel 5. Uitgangspunten kostprijsberekening
+##### Artikel 5. Uitgangspunten kostprijsberekening
 
 Voor de wijze van berekenen van kostprijzen hanteert de NZa de uitgangspunten zoals hieronder genoemd onder a, b en c.
 
@@ -190,21 +216,21 @@ Voor de wijze van berekenen van kostprijzen hanteert de NZa de uitgangspunten zo
 
 - •. Incidentele baten/lasten.
 
-#### Artikel 6. Kostprijzen dbc-zorgproducten vrij segment
+##### Artikel 6. Kostprijzen dbc-zorgproducten vrij segment
 
 1. In de beleidsregel ‘[beschikbaarheidbijdrage academische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047246)’ wordt beschreven hoe de BBAZ wordt verstrekt en hoe instellingen hier verantwoording over af moeten leggen. Voor de verantwoording van het variabele deel van de BBAZ is een analyse betreffende de meerkosten ten opzichte van referentiekostprijs noodzakelijk. Om deze meerkosten te kunnen bepalen is, behalve inzicht in kostprijzen van het gereguleerde segment, ook inzicht noodzakelijk in de kostprijzen van dbc-zorgproducten in het vrije segment van universitaire medische centra en algemene ziekenhuizen. Zie in dit verband ook [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048131&artikel=4&z=2023-05-01&g=2023-05-01).
 
 2. De voorschriften die zijn verbonden aan de aanlevering van kostprijzen van dbc-zorgproducten in het vrije segment zijn vastgelegd in de regeling ‘[Registratie en aanlevering kostprijzen zorgproducten medisch-specialistische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0045282)’.
 
-#### Artikel 7. Intrekking oude beleidsregel(s)
+##### Artikel 7. Intrekking oude beleidsregel(s)
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de beleidsregel ‘Kostprijsmodel zorgproducten medisch-specialistische zorg’, met kenmerk BR/REG-21153, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel
 
 De beleidsregel ‘Kostprijsmodel zorgproducten medisch-specialistische zorg’, met kenmerk BR/REG-21153, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 
-#### Artikel 9. Inwerkingtreding en citeerregel
+##### Artikel 9. Inwerkingtreding en citeerregel
 
 Deze beleidsregel treedt in werking met ingang van 1 mei 2023.
 

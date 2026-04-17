@@ -1,13 +1,36 @@
 ---
 title: "Wetboek van Burgerlijke Rechtsvordering"
 identifier: "BWBR0001827"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001827"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001827"
+soort: "wet"
+stam_id: "3209413"
+version_id: "4961582"
+internal_id: "C33893321"
+label_id: "3192094"
+dtd_version: "2.0"
+original_entry_into_force: "1838-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001827/2026-01-01/0"
+intitule_bron: "Stb.1828-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1828-03-29"
+intitule_published: "1828-04-16"
+intitule_status: "goed"
+original_publication: "Stb.1828-14"
+original_signed_date: "1828-03-29"
+original_published_date: "1828-04-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1838-10-01"
+jci_1_3: "jci1.3:c:BWBR0001827&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0001827&g=2026-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1828-03-29"
+entry_into_force: "1838-10-01"
 ---
-
 # Wetboek van Burgerlijke Rechtsvordering
 
 ## Boek Eerste. De wijze van procederen voor de rechtbanken, de hoven en de Hoge Raad
@@ -16,15 +39,15 @@ bron: "https://wetten.overheid.nl/BWBR0001827"
 
 ### afdeling Eerste. Rechtsmacht van de Nederlandse rechter
 
-#### Artikel 1
+##### Artikel 1
 
 Onverminderd het omtrent rechtsmacht in verdragen en EG-verordeningen bepaalde en onverminderd [artikel 13a van de Wet algemene bepalingen](https://wetten.overheid.nl/jci1.3:c:BWBR0001833&artikel=13a) wordt de rechtsmacht van de Nederlandse rechter beheerst door de volgende bepalingen.
 
-#### Artikel 2
+##### Artikel 2
 
 In zaken die bij dagvaarding moeten worden ingeleid, heeft de Nederlandse rechter rechtsmacht indien de gedaagde in Nederland zijn woonplaats of gewone verblijfplaats heeft.
 
-#### Artikel 3
+##### Artikel 3
 
 In zaken die bij verzoekschrift moeten worden ingeleid, met uitzondering van zaken als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=4&z=2026-01-01&g=2026-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=5&z=2026-01-01&g=2026-01-01), heeft de Nederlandse rechter rechtsmacht indien:
 
@@ -34,7 +57,7 @@ In zaken die bij verzoekschrift moeten worden ingeleid, met uitzondering van zak
 
 - c. de zaak anderszins voldoende met de rechtssfeer van Nederland verbonden is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de [Verordening (EU) nr. 2019/1111](32019R1111) van de Raad van 25 juni 2019 betreffende de bevoegdheid, erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en betreffende internationale kinderontvoering (PbEU L178) niet van toepassing is, wordt de rechtsmacht van de rechter met betrekking tot echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed, nietigverklaring, alsmede nietigheid en geldigheid van het huwelijk uitsluitend bepaald overeenkomstig de artikelen 3, 4 en 5 van deze verordening.
 
@@ -48,11 +71,11 @@ In zaken die bij verzoekschrift moeten worden ingeleid, met uitzondering van zak
 
 4. Met betrekking tot het geregistreerd partnerschap zijn het eerste tot en met het derde lid van overeenkomstige toepassing, met dien verstande dat de Nederlandse rechter steeds rechtsmacht heeft indien het geregistreerd partnerschap in Nederland is aangegaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=1&z=2026-01-01&g=2026-01-01) heeft de Nederlandse rechter in zaken betreffende ouderlijke verantwoordelijkheid geen rechtsmacht indien het kind zijn gewone verblijfplaats niet in Nederland heeft, tenzij hij zich in een uitzonderlijk geval, wegens de verbondenheid van de zaak met de rechtssfeer van Nederland, in staat acht het belang van het kind naar behoren te beoordelen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Nederlandse rechter heeft eveneens rechtsmacht in zaken betreffende:
 
@@ -74,13 +97,13 @@ De Nederlandse rechter heeft eveneens rechtsmacht in zaken betreffende:
 
 - i. faillissement, surséance van betaling of schuldsaneringsregeling natuurlijke personen indien het faillissement, de surséance van betaling of de toepassing van de schuldsaneringsregeling in Nederland is uitgesproken of verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien in zaken die bij dagvaarding moeten worden ingeleid de Nederlandse rechter ten aanzien van een van de gedaagden rechtsmacht heeft, komt hem deze ook toe ten aanzien van in hetzelfde geding betrokken andere gedaagden, mits tussen de vorderingen tegen de onderscheiden gedaagden een zodanige samenhang bestaat, dat redenen van doelmatigheid een gezamenlijke behandeling rechtvaardigen.
 
 2. Indien in zaken die bij dagvaarding moeten worden ingeleid de Nederlandse rechter rechtsmacht heeft, komt hem deze ook toe ten aanzien van een vordering in reconventie en ten aanzien van een vordering tot vrijwaring, voeging of tussenkomst, tenzij tussen deze vorderingen en de oorspronkelijke vordering onvoldoende samenhang bestaat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Nederlandse rechter heeft rechtsmacht indien partijen met betrekking tot een bepaalde rechtsbetrekking die tot hun vrije bepaling staat, bij overeenkomst een Nederlandse rechter of de Nederlandse rechter hebben aangewezen voor de kennisneming van geschillen welke naar aanleiding van die rechtsbetrekking zijn ontstaan of zullen ontstaan, tenzij daarvoor geen redelijk belang aanwezig is.
 
@@ -98,7 +121,7 @@ De Nederlandse rechter heeft eveneens rechtsmacht in zaken betreffende:
 
 6. Een overeenkomst als bedoeld in het eerste of het tweede lid dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. De aangewezen rechter is bevoegd te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan een overeenkomst als bedoeld in het eerste of het tweede lid deel uitmaakt of waarop zij betrekking heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 Komt de Nederlandse rechter niet op grond van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=2&z=2026-01-01&g=2026-01-01) rechtsmacht toe, dan heeft hij niettemin rechtsmacht indien:
 
@@ -108,29 +131,29 @@ Komt de Nederlandse rechter niet op grond van de [artikelen 2 tot en met 8](http
 
 - c. een zaak die bij dagvaarding moet worden ingeleid voldoende met de rechtssfeer van Nederland verbonden is en het onaanvaardbaar is van de eiser te vergen dat hij de zaak aan het oordeel van een rechter van een vreemde staat onderwerpt.
 
-#### Artikel 10
+##### Artikel 10
 
 De Nederlandse rechter heeft rechtsmacht in het geval, bedoeld in [artikel 767](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Achtste&artikel=767&z=2026-01-01&g=2026-01-01), alsmede indien dit voortvloeit uit andere wettelijke bepalingen tot aanwijzing van een bevoegde rechter dan die vervat in de derde afdeling van de tweede titel en de tweede afdeling van de derde titel.
 
-#### Artikel 11
+##### Artikel 11
 
 Het verweer dat de Nederlandse rechter geen rechtsmacht heeft, wordt in zaken die bij dagvaarding moeten worden ingeleid op straffe van verval van het recht daartoe gevoerd vóór alle weren ten gronde.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien een zaak voor een rechter van een vreemde staat aanhangig is gemaakt en daarin een beslissing kan worden gegeven die voor erkenning en, in voorkomend geval, voor tenuitvoerlegging in Nederland vatbaar is, kan de Nederlandse rechter bij wie nadien een zaak tussen dezelfde partijen over hetzelfde onderwerp is aangebracht, de behandeling aanhouden totdat daarin door eerstbedoelde rechter is beslist. Indien die beslissing voor erkenning en, in voorkomend geval, voor tenuitvoerlegging in Nederland vatbaar blijkt te zijn, verklaart de Nederlandse rechter zich onbevoegd. Indien het een zaak betreft die bij dagvaarding moet worden ingeleid, is [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=11&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 De bevoegdheid van de Nederlandse rechter tot het treffen van bewarende of voorlopige maatregelen kan niet worden betwist op de enkele grond dat hij met betrekking tot de zaak ten principale geen rechtsmacht heeft.
 
-#### Artikel 14
+##### Artikel 14
 
 Voor de toepassing van de regels betreffende de rechtsmacht van de Nederlandse rechter wordt het Nederlandse gedeelte van het continentale plat gelijk gesteld met het grondgebied van Nederland.
 
 ### afdeling Tweede. Enkelvoudige en meervoudige kamers
 
-#### Artikel 15
+##### Artikel 15
 
 1. Bij de rechtbank worden zaken, behoudens in de wet genoemde uitzonderingen, behandeld en beslist door een enkelvoudige kamer.
 
@@ -142,7 +165,7 @@ Voor de toepassing van de regels betreffende de rechtsmacht van de Nederlandse r
 
 5. De meervoudige kamer kan na het wijzen van een tussenvonnis de zaak verwijzen naar de enkelvoudige kamer voor verdere behandeling. Het tweede lid en het derde lid, tweede volzin, zijn van overeenkomstige toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij het gerechtshof worden zaken, behoudens in de wet genoemde uitzonderingen, behandeld en beslist door een meervoudige kamer, bestaande uit drie raadsheren.
 
@@ -154,7 +177,7 @@ Voor de toepassing van de regels betreffende de rechtsmacht van de Nederlandse r
 
 5. De meervoudige kamer kan bepalen dat de behandeling geheel of gedeeltelijk zal geschieden door een zoveel als mogelijk uit haar midden aangewezen rechter-commissaris. De raadsheer-commissaris oefent daarbij de bevoegdheden uit, aan het gerechtshof toegekend.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Bij de Hoge Raad worden zaken, behoudens in de wet genoemde uitzonderingen, behandeld en beslist door vijf leden van de meervoudige kamer.
 
@@ -162,7 +185,7 @@ Voor de toepassing van de regels betreffende de rechtsmacht van de Nederlandse r
 
 3. De leden kunnen bepalen dat de behandeling geheel of gedeeltelijk zal geschieden door een uit hun midden aangewezen raadsheer-commissaris. De raadsheer-commissaris oefent daarbij de bevoegdheden uit, aan de Hoge Raad toegekend.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kamer bij welke een zaak in behandeling is, kan deze, met toestemming van het bestuur van het gerecht, verwijzen naar een andere kamer van gelijk getal. Tegen de verwijzing staat geen voorziening open.
 
@@ -170,23 +193,23 @@ Voor de toepassing van de regels betreffende de rechtsmacht van de Nederlandse r
 
 ### afdeling Derde. Algemene voorschriften voor procedures
 
-#### Artikel 19
+##### Artikel 19
 
 1. De rechter stelt partijen over en weer in de gelegenheid hun standpunten naar voren te brengen en toe te lichten en zich uit te laten over elkaars standpunten en over alle bescheiden en andere gegevens die in de procedure ter kennis van de rechter zijn gebracht, een en ander tenzij uit de wet anders voortvloeit. Bij zijn beslissing baseert de rechter zijn oordeel, ten nadele van een der partijen, niet op bescheiden of andere gegevens waarover die partij zich niet voldoende heeft kunnen uitlaten.
 
 2. De rechter neemt ambtshalve of op verlangen van een van de partijen alle beslissingen die nodig zijn voor een goed verloop van de procedure.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De rechter waakt tegen onredelijke vertraging van de procedure en treft, zo nodig, op verzoek van een partij of ambtshalve maatregelen.
 
 2. Partijen zijn tegenover elkaar verplicht onredelijke vertraging van de procedure te voorkomen.
 
-#### Artikel 21
+##### Artikel 21
 
 Partijen zijn verplicht de voor de beslissing van belang zijnde feiten volledig en naar waarheid aan te voeren. Wordt deze verplichting niet nageleefd, dan kan de rechter daaruit de gevolgtrekking maken die hij geraden acht.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De rechter kan in alle gevallen en in elke stand van de procedure partijen of een van hen bevelen bepaalde stellingen toe te lichten of bepaalde, op de zaak betrekking hebbende gegevens over te leggen.
 
@@ -202,25 +225,25 @@ Partijen zijn verplicht de voor de beslissing van belang zijnde feiten volledig 
 
 7. Het tweede tot en met zesde lid zijn van overeenkomstige toepassing als een partij de rechter meedeelt dat zij zelf bepaalde stellingen wil toelichten of bepaalde, op de zaak betrekking hebbende gegevens in de procedure wil overleggen waarvan uitsluitend de rechter of ook een gemachtigde als bedoeld in [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=22a&z=2026-01-01&g=2026-01-01) kennis mag nemen.
 
-#### Artikel 23
+##### Artikel 23
 
 De rechter beslist over al hetgeen partijen hebben gevorderd of verzocht.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De rechter onderzoekt en beslist de zaak op de grondslag van hetgeen partijen aan hun vordering, verzoek of verweer ten gronde hebben gelegd, tenzij uit de wet anders voortvloeit.
 
 2. De rechter kan binnen de grenzen van de rechtsstrijd ambtshalve met partijen de grondslag van hun vordering, verzoek of verweer bespreken.
 
-#### Artikel 25
+##### Artikel 25
 
 De rechter vult ambtshalve de rechtsgronden aan.
 
-#### Artikel 26
+##### Artikel 26
 
 De rechter mag niet weigeren te beslissen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De zitting is openbaar. De rechter kan evenwel gehele of gedeeltelijke behandeling met gesloten deuren of slechts met toelating van bepaalde personen bevelen:
 
@@ -234,7 +257,7 @@ De rechter mag niet weigeren te beslissen.
 
 2. Indien iemand op een zitting de orde verstoort, kan de rechter hem laten verwijderen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het is aan partijen verboden aan derden mededelingen te doen omtrent:
 
@@ -246,7 +269,7 @@ De rechter mag niet weigeren te beslissen.
 
 2. De rechter kan het verbod, bedoeld in het eerste lid, op verzoek van een der partijen geheel of gedeeltelijk opheffen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De uitspraak geschiedt in het openbaar.
 
@@ -268,11 +291,11 @@ De rechter mag niet weigeren te beslissen.
 
 10. Ingevolge artikel 39, tweede lid, van [verordening (EU) 2022/1925](32022R1925) van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van [Richtlijnen (EU) 2019/1937](32019L1937) en [(EU) 2020/1828](32020L1828) (digitalemarktenverordening) (PbEU 2022, L 265) verstrekt de griffier onverwijld een afschrift van vonnissen, arresten en beschikkingen met betrekking tot de toepassing van die verordening aan de Europese Commissie. Het achtste lid, tweede en derde volzin, is van toepassing.
 
-#### Artikel 30
+##### Artikel 30
 
 Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, tenzij uit de wet anders voortvloeit.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De rechter verbetert te allen tijde op verzoek van een partij of ambtshalve in zijn vonnis, arrest of beschikking een kennelijke rekenfout, schrijffout of andere kennelijke fout die zich voor eenvoudig herstel leent. De rechter gaat niet tot de verbetering over dan na partijen in de gelegenheid te hebben gesteld zich daarover uit te laten.
 
@@ -282,7 +305,7 @@ Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, ten
 
 4. Tegen de verbetering of de weigering daarvan staat geen voorziening open.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De rechter vult te allen tijde op verzoek van een partij zijn vonnis, arrest of beschikking aan indien hij heeft verzuimd te beslissen over een onderdeel van het gevorderde of verzochte. De rechter gaat niet tot de aanvulling over dan na partijen in de gelegenheid te hebben gesteld zich daarover uit te laten.
 
@@ -290,7 +313,7 @@ Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, ten
 
 3. Tegen de weigering van de aanvulling staat geen voorziening open.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Verzoeken en mededelingen kunnen ook elektronisch worden gedaan, indien van deze mogelijkheid voor het desbetreffende gerecht blijkt uit een voor dat gerecht vastgesteld procesreglement. Een gerecht kan een verzoek of mededeling dat tot een of meer geadresseerden is gericht, elektronisch verzenden indien de geadresseerde kenbaar heeft gemaakt dat hij daarvoor langs deze weg bereikbaar is. De bereikbaarheid langs deze weg geldt voor de duur van een procedure, tenzij de geadresseerde meedeelt dat hij haar wijzigt of intrekt. De voorgaande zinnen gelden mede voor de indiening van processtukken ter griffie en de verzending van processtukken door de griffier.
 
@@ -306,7 +329,7 @@ Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, ten
 
 7. In afwijking van de voorgaande leden kan de rechter bepalen dat de procedure wordt voortgezet volgens de regels die gelden voor stukkenwisseling op papier.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Wanneer een procedure na verwijzing of na toepassing van een rechtsmiddel voor een andere rechter wordt voortgezet, is de aanlegger verplicht aan de rechter over te leggen:
 
@@ -318,7 +341,7 @@ Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, ten
 
 3. Wanneer een procedure na verwijzing of toepassing van een rechtsmiddel voor een andere rechter wordt voortgezet, zendt de griffier van het gerecht waar de procedure aanhangig was afschriften van de op de procedure betrekking hebbende stukken op diens verzoek aan de griffier van het gerecht waar de procedure wordt voortgezet. Desverzocht zendt de griffier de stukken in origineel.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot door de rechter te stellen termijnen voor het verrichten van proceshandelingen en kunnen beperkingen worden gesteld aan de mogelijkheid om daarvoor uitstel te verkrijgen.
 
@@ -326,11 +349,11 @@ Vonnissen, arresten en beschikkingen houden de gronden in waarop zij rusten, ten
 
 ### afdeling Vierde. Wraking en verschoning van rechters
 
-#### Artikel 36
+##### Artikel 36
 
 Op verzoek van een partij kan elk van de rechters die een zaak behandelen, worden gewraakt op grond van feiten of omstandigheden waardoor de rechterlijke onpartijdigheid schade zou kunnen lijden.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het verzoek wordt gedaan zodra de feiten of omstandigheden aan de verzoeker bekend zijn geworden.
 
@@ -342,11 +365,11 @@ Op verzoek van een partij kan elk van de rechters die een zaak behandelen, worde
 
 5. Aanstonds na een verzoek tot wraking wordt de behandeling geschorst. De rechter wiens wraking is verzocht, onthoudt zich van het verder behandelen van de zaak, waaronder begrepen het nemen van beslissingen, tenzij dit geen uitstel duldt.
 
-#### Artikel 38
+##### Artikel 38
 
 Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Het verzoek tot wraking wordt zo spoedig mogelijk ter zitting behandeld door een meervoudige kamer waarin de rechter van wie wraking is verzocht, geen zitting heeft.
 
@@ -360,7 +383,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 6. Tegen de beslissing staat geen voorziening open.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Op grond van feiten of omstandigheden als bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Vierde&artikel=36&z=2026-01-01&g=2026-01-01) kan elk van de rechters die een zaak behandelen, verzoeken zich te mogen verschonen.
 
@@ -368,7 +391,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 3. Aanstonds na een verzoek zich te mogen verschonen wordt de behandeling geschorst.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het verzoek zich te mogen verschonen wordt zo spoedig mogelijk behandeld door een meervoudige kamer waarin de rechter die dat verzoek heeft gedaan, geen zitting heeft.
 
@@ -378,7 +401,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 ### afdeling Vijfde. Het openbaar ministerie en de procureur-generaal bij de Hoge Raad
 
-#### Artikel 42
+##### Artikel 42
 
 1. Het openbaar ministerie is bevoegd alle op een zaak betrekking hebbende bescheiden in te zien en op elke zitting tegenwoordig te zijn.
 
@@ -386,7 +409,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 3. In zaken bij de Hoge Raad zijn het eerste en het tweede lid van toepassing, met dien verstande dat voor het openbaar ministerie wordt gelezen: de procureur-generaal bij de Hoge Raad.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Wanneer het openbaar ministerie als partij optreedt, geschieden de inleiding en de behandeling van de zaak volgens de gewone regels, voor zover daarvan in dit artikel niet is afgeweken.
 
@@ -396,7 +419,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 4. Een beslissing omtrent de kosten wordt ten aanzien van het openbaar ministerie genomen ten name van de Staat.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Wanneer het openbaar ministerie niet als partij optreedt, wordt het gehoord indien het, al dan niet op verzoek van de rechter, de wens daartoe te kennen heeft gegeven.
 
@@ -406,7 +429,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 ### afdeling Vijfde A. De raad van bestuur van de Nederlandse Mededingingsautoriteit en de commissie van de Europese gemeenschappen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Exploten worden door een daartoe bevoegde deurwaarder gedaan op de wijze in deze afdeling bepaald.
 
@@ -428,7 +451,7 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 5. Het exploot en de afschriften daarvan worden door de deurwaarder ondertekend.
 
-#### Artikel 46
+##### Artikel 46
 
 1. De deurwaarder laat een afschrift van het exploot aan degene voor wie het is bestemd in persoon of aan de woonplaats aan een huisgenoot van deze of aan een andere persoon die zich daar bevindt en van wie aannemelijk is dat deze zal bevorderen dat het afschrift degene voor wie het exploot is bestemd, tijdig bereikt. Is het exploot voor meer personen bestemd, dan verstrekt hij voor ieder van hen een afschrift.
 
@@ -436,35 +459,35 @@ Een rechter van wie wraking is verzocht, kan in de wraking berusten.
 
 3. Indien degene voor wie het exploot is bestemd, weigert het afschrift in ontvangst te nemen, vermeldt de deurwaarder die weigering op het exploot en wordt degene voor wie het exploot is bestemd, geacht het afschrift in persoon te hebben ontvangen. Voorts laat de deurwaarder een afschrift in een gesloten envelop aan de woonplaats, dan wel verzendt hij een afschrift per post. Zijn achterlating aan de woonplaats en verzending per post redelijkerwijs niet zinvol of niet mogelijk, dan kan de deurwaarder het afschrift in een gesloten envelop achterlaten in de macht van degene voor wie het exploot is bestemd. [Artikel 47, eerste lid, derde zin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=47&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing..
 
-#### Artikel 47
+##### Artikel 47
 
 1. Indien de deurwaarder aan geen van de in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=46&z=2026-01-01&g=2026-01-01), bedoelde personen afschrift kan laten, laat hij een afschrift aan de woonplaats achter in een gesloten envelop. Indien ook dat feitelijk onmogelijk is, bezorgt hij terstond een afschrift ter post. De deurwaarder maakt, zowel in het ene als het andere geval tevens onder vermelding van de reden van de feitelijke onmogelijkheid, van deze handelingen melding in het exploot.
 
 2. Op de envelop waarin het afschrift ingevolge het eerste lid wordt achtergelaten of ter post wordt bezorgd, worden vermeld de naam en de woonplaats van degene voor wie het exploot is bestemd. De envelop vermeldt tevens de naam, de hoedanigheid, het kantooradres en het telefoonnummer van de deurwaarder, alsmede een aanduiding dat de inhoud de onmiddellijke aandacht behoeft.
 
-#### Artikel 48
+##### Artikel 48
 
 Ten aanzien van de Koning, de vermoedelijke opvolger van de Koning, hun echtgenoten en de Regent, alsmede ten aanzien van de Staat, geschiedt de betekening aan het parket van de procureur-generaal bij de Hoge Raad. Indien afschrift van een voor de Staat bestemd exploot wordt gelaten aan een persoon ten parkette die daartoe is aangewezen, is het exploot gedaan aan de Staat in persoon. Indien mogelijk wordt in het exploot vermeld welk ministerie het betreft.
 
-#### Artikel 49
+##### Artikel 49
 
 Ten aanzien van een rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](onbekend), met uitzondering van de Staat, geschiedt de betekening ter plaatse waar het bestuur zitting of kantoor houdt, of aan de persoon of de woonplaats van het hoofd van dat bestuur. Indien afschrift van het exploot wordt gelaten aan een bestuurder of aan een persoon die daartoe is aangewezen, is het exploot gedaan aan de rechtspersoon in persoon.
 
-#### Artikel 50
+##### Artikel 50
 
 Ten aanzien van andere rechtspersonen geschiedt de betekening aan hun kantoor of aan de persoon of de woonplaats van een van de bestuurders. Na de ontbinding geschiedt zij aan het kantoor, de persoon of de woonplaats van een van de vereffenaars. Indien afschrift van het exploot wordt gelaten aan een bestuurder, of, na de ontbinding, aan een vereffenaar, is het exploot gedaan aan de rechtspersoon in persoon.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Ten aanzien van vennootschappen onder firma en commanditaire vennootschappen geschiedt de betekening aan hun kantoor of aan de persoon of de woonplaats van een van de beherende vennoten. Na de ontbinding geschiedt zij aan het kantoor, de persoon of de woonplaats van een van de vereffenaars. Indien afschrift van het exploot wordt gelaten aan een beherende vennoot, of, na de ontbinding, aan een vereffenaar, is het exploot gedaan aan de vennootschap in persoon.
 
 2. Ten aanzien van maatschappen die een gemeenschappelijke naam voeren, geschiedt de betekening aan hun kantoor.
 
-#### Artikel 52
+##### Artikel 52
 
 Ten aanzien van curatoren in een faillissement, bewindvoerders in een surséance van betaling dan wel in een schuldsaneringsregeling natuurlijke personen geschiedt de betekening aan het kantoor, de persoon of de woonplaats van een van hen.
 
-#### Artikel 53
+##### Artikel 53
 
 Bij een betekening ten aanzien van de gezamenlijke erfgenamen van een overledene kan vermelding van hun namen en woonplaatsen achterwege blijven indien deze geschiedt:
 
@@ -474,7 +497,7 @@ Bij een betekening ten aanzien van de gezamenlijke erfgenamen van een overledene
 
 - c. aan de persoon of de woonplaats van een van de erfgenamen, mits binnen een jaar na het overlijden, in welk geval het exploot tevens moet worden aangekondigd in een landelijk dagblad of een dagblad verschijnend in de streek waar de laatste woonplaats van de overledene was; een en ander onverminderd de mogelijkheid van betekening aan ieder van de erfgenamen afzonderlijk op de gewone wijze.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Ten aanzien van hen die geen bekende woonplaats in Nederland hebben, geschiedt de betekening ter plaatse van hun werkelijk verblijf.
 
@@ -486,13 +509,13 @@ Bij een betekening ten aanzien van de gezamenlijke erfgenamen van een overledene
 
 5. Indien het exploot ten verzoeke van de ene echtgenoot of geregistreerde partner aan de andere wordt gedaan, houdt het de naam van de raadsman van die andere echtgenoot of geregistreerde partner in, indien deze bekend is.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Ten aanzien van hen die geen bekende woonplaats of bekend werkelijk verblijf in Nederland hebben, maar van wie de woonplaats of het werkelijk verblijf buiten Nederland bekend is, geschiedt de betekening aan het parket van de ambtenaar van het openbaar ministerie, onderscheidenlijk de procureur-generaal, bedoeld in [artikel 54, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=54&z=2026-01-01&g=2026-01-01), die een afschrift van het exploot ten behoeve van degene voor wie het bestemd is, toezendt aan het Ministerie van Buitenlandse Zaken of, indien de woonplaats of het werkelijk verblijf van de betrokkene zich in Aruba, Curaçao of Sint Maarten bevindt, aan het Kabinet van de Gevolmachtigd Minister van Aruba, Curaçao respectievelijk Sint Maarten in Nederland dan wel, indien de woonplaats of het werkelijk verblijf van de betrokkene zich in een van de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt, aan Onze Minister van Justitie. Een tweede afschrift wordt door de deurwaarder per aangetekende brief onverwijld toegezonden aan de woonplaats of het werkelijk verblijf van de betrokkene.
 
 2. Heeft degene voor wie het exploot bestemd is, een bekende woonplaats of een bekend werkelijk verblijf buiten Nederland in een Staat die partij is bij het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken (Trb. 1966, 91) en ontvangt deze het afschrift op een wijze die aldaar wordt aangemerkt als betekening in persoon, dan wordt het exploot geacht te zijn gedaan aan hem in persoon.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Voorzover nodig in afwijking van hetgeen elders in deze afdeling is bepaald, geschiedt de betekening ten aanzien van hen die geen bekende woonplaats of bekend werkelijk verblijf in Nederland hebben, maar wel een bekende woonplaats of bekend werkelijk verblijf hebben in een Staat waar de verordening (EU) 2020/1784 van het Europees Parlement en de Raad van 25 november 2020 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken (de betekening en kennisgeving van stukken) (herschikking) van toepassing is, met inachtneming van het tweede tot en met vijfde lid.
 
@@ -528,39 +551,39 @@ De gerechtsdeurwaarder maakt in het stuk melding van de verzending, alsmede van 
 
 5. Ontvangt degene voor wie het stuk bestemd is het afschrift of de vertaling op een wijze die in de desbetreffende Staat wordt aangemerkt als betekening in persoon, dan wordt het stuk geacht te zijn betekend aan hem in persoon.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Ten aanzien van hem die met degene ten verzoeke van wie het exploot wordt gedaan de woning deelt, geschiedt de betekening aan hem in persoon.
 
 2. Indien betekening in persoon niet kan geschieden, handelt de deurwaarder overeenkomstig [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=47&z=2026-01-01&g=2026-01-01) en doet hij bovendien een afschrift van het exploot toekomen aan het parket van de ambtenaar van het openbaar ministerie bij het gerecht waarvoor de zaak moet dienen of dient, dan wel, indien het exploot niet een te voeren of aanhangige procedure betreft, bij de rechtbank binnen welker rechtsgebied de woning gelegen is. Indien de zaak dient of moet dienen bij de Hoge Raad, geschiedt de betekening aan het parket van de procureur-generaal bij de Hoge Raad. De ambtenaar van het openbaar ministerie, onderscheidenlijk de procureur-generaal, bevordert dat het exploot de betrokkene bereikt.
 
-#### Artikel 58
+##### Artikel 58
 
 Ten aanzien van de eigenaar en ten aanzien van de leden dan wel de boekhouder van een rederij van een schip dat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), te boek staat, indien het exploot het schip dan wel een in of krachtens [Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&boek=8) geregeld onderwerp betreft, geschiedt de betekening aan de in [artikel 194, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=194), of [artikel 784, zevende lid, van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=784) genoemde woonplaats.
 
-#### Artikel 59
+##### Artikel 59
 
 Ten aanzien van de opvarenden van een schip die geen bekende woonplaats in Nederland hebben en die noch aan boord van dat schip, noch elders worden aangetroffen, geschiedt de betekening, indien het exploot het schip of een in of krachtens [Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&boek=8) geregeld onderwerp betreft, aan boord aan de kapitein of de schipper van dat schip.
 
-#### Artikel 60
+##### Artikel 60
 
 Ten aanzien van de eigenaar van een luchtvaartuig dat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), te boek staat, geschiedt de betekening, indien het exploot het luchtvaartuig dan wel een in of krachtens [Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034) geregeld onderwerp betreft, aan de in [artikel 1303, zesde lid, van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1303) genoemde woonplaats.
 
-#### Artikel 61
+##### Artikel 61
 
 Ten aanzien van hen die verblijven in een gebouwde onroerende zaak of een gedeelte daarvan, indien het exploot een vordering tot ontruiming daarvan door anderen dan gebruikers of gewezen gebruikers krachtens een persoonlijk of zakelijk recht betreft, zonder dat de naam en de woonplaats van degenen voor wie het exploot is bestemd, alsmede de persoon aan wie afschrift wordt gelaten, worden vermeld, geschiedt de betekening op de wijze als vermeld in [artikel 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=47&z=2026-01-01&g=2026-01-01), met dien verstande dat voor «aan de woonplaats» in het eerste lid van dat artikel wordt gelezen: ter plaatse, en dat degenen voor wie het exploot bestemd is, daarin en op de envelop waarin een afschrift wordt achtergelaten of ter post wordt bezorgd, worden aangeduid als: zij die verblijven in de desbetreffende onroerende zaak of een gedeelte daarvan. Voorts wordt een uittreksel van het exploot zo spoedig mogelijk bekend gemaakt in een landelijk dagblad of in een dagblad verschijnend in de streek waarin de onroerende zaak gelegen is, onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen.
 
-#### Artikel 62
+##### Artikel 62
 
 Ten aanzien van hen die algemene voorwaarden gebruiken waarin bedingen voorkomen waarvan gesteld wordt dat zij onredelijk bezwarend zijn, geschiedt, indien ingevolge [artikel 1003, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Twaalfde&artikel=1003&z=2026-01-01&g=2026-01-01), hun naam en woonplaats niet afzonderlijk in het exploot worden vermeld, de betekening aan het parket van de procureur-generaal bij het gerecht waar de zaak aanhangig wordt gemaakt, is of laatstelijk was, terwijl een uittreksel van het exploot zo spoedig mogelijk bekend wordt gemaakt in een landelijk dagblad onder vermelding van naam en kantooradres van de deurwaarder of van de advocaat van wie afschrift van het exploot kan worden verkregen.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Een exploot waarbij verzet wordt gedaan of waarbij hoger beroep wordt ingesteld of waarbij een oproepingsbericht in cassatie wordt betekend, kan ook worden gedaan aan het kantoor van de advocaat of deurwaarder bij wie degene voor wie het exploot is bestemd, laatstelijk ter zake woonplaats heeft gekozen, ook indien deze een bekende woonplaats of bekend werkelijk verblijf heeft in een Staat waar de in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=56&z=2026-01-01&g=2026-01-01), bedoelde verordening van toepassing is. Deze advocaat of deurwaarder bevordert dat het exploot degene voor wie het is bestemd, tijdig bereikt.
 
 2. Aan een in verband met executie volgens wettelijk voorschrift gekozen woonplaats kunnen alle exploten worden gedaan, zelfs van verzet, hoger beroep en cassatie.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Geen exploot mag worden gedaan tussen acht uur 's avonds en zeven uur 's ochtends.
 
@@ -568,11 +591,11 @@ Ten aanzien van hen die algemene voorwaarden gebruiken waarin bedingen voorkomen
 
 3. De voorzieningenrechter of, in kantonzaken, de kantonrechter van het gerecht, waarvoor bij dat exploot wordt gedagvaard of opgeroepen, en in alle andere gevallen de voorzieningenrechter van de rechtbank binnen het rechtsgebied waarvan het exploot wordt uitgebracht, kan, in afwijking van het eerste en tweede lid, verlof verlenen het exploot uit te brengen op alle dagen en uren.
 
-#### Artikel 65
+##### Artikel 65
 
 Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indien dit exploot of deze akte lijdt aan een gebrek dat uitdrukkelijk met nietigheid is bedreigd of indien de nietigheid voortvloeit uit de aard van het gebrek.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De niet-naleving van hetgeen in deze afdeling is voorgeschreven, brengt slechts nietigheid mee voor zover aannemelijk is dat degene voor wie het exploot is bestemd, door het gebrek onredelijk is benadeeld.
 
@@ -580,7 +603,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 ### afdeling Zesde. Exploten
 
-#### Artikel 67
+##### Artikel 67
 
 1. Indien de rechter inlichtingen wil inwinnen overeenkomstig artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (Trb. 1968, 142) dan wel inlichtingen of advies wil vragen ingevolge artikel 15, eerste lid, van [verordening (EG) nr. 1/2003](32003R0001) van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1) of informatie of advies wil vragen ingevolge artikel 39, eerste lid, van [verordening (EU) 2022/1925](32022R1925) van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van [Richtlijnen (EU) 2019/1937](32019L1937) en [(EU) 2020/1828](32020L1828) (digitalemarktenverordening) (PbEU 2022, L 265), doet hij aan partijen schriftelijk opgave van de te stellen vragen en de te verzenden stukken.
 
@@ -592,7 +615,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 5. Indien aan de rechter op grond van artikel 13 van de Overeenkomst aanvullende inlichtingen worden gevraagd, stelt hij partijen in de gelegenheid binnen een door hem te bepalen termijn schriftelijk op dit verzoek te reageren.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De griffier zendt een afschrift van het antwoord op het verzoek om inlichtingen of van het advies aan partijen. Alsdan bepaalt de rechter de dag waarop de procedure wordt voortgezet.
 
@@ -600,7 +623,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 ### afdeling Zevende. Inlichtingen over buitenlands recht en communautair mededingingsrecht
 
-#### Artikel 69
+##### Artikel 69
 
 1. Indien een procedure met een verzoekschrift is ingeleid in plaats van met een dagvaarding of met een dagvaarding in plaats van met een verzoekschrift, beveelt de rechter, zo nodig, de aanlegger binnen een door de rechter te bepalen termijn op kosten van de aanlegger het stuk waarmee de procedure is ingeleid, te verbeteren of aan te vullen. De procedure is aanhangig vanaf de oorspronkelijke dag van indiening of dagvaarding.
 
@@ -612,7 +635,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 5. Tegen een beslissing ingevolge het eerste, tweede, derde of vierde lid staat geen hogere voorziening open.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Voor zover de rechter de eiser of verzoeker in zijn vordering of verzoek niet-ontvankelijk verklaart omdat bezwaar kon worden gemaakt, administratief beroep kon worden ingesteld of beroep bij een bestuursrechter kon worden ingesteld, wordt dit in het vonnis, het arrest of de beschikking vermeld.
 
@@ -620,7 +643,7 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 3. De termijn voor het alsnog indienen van het bezwaar- of beroepschrift vangt aan met ingang van de dag na die waarop het vonnis, het arrest of de beschikking onherroepelijk is geworden.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Moet een zaak, in behandeling bij de kantonrechter, verder worden behandeld en beslist door een kamer voor andere zaken dan kantonzaken, dan wordt de zaak daartoe op verlangen van een der partijen of ambtshalve naar een zodanige kamer verwezen.
 
@@ -632,15 +655,15 @@ Een exploot of akte van rechtspleging kan slechts nietig worden verklaard, indie
 
 5. Tegen een verwijzing en tegen het achterwege laten van verwijzing staat geen voorziening open. De rechter naar wie de zaak is verwezen, is aan de verwijzing gebonden.
 
-#### Artikel 72
+##### Artikel 72
 
 Indien een zaak niet behoort tot de absolute bevoegdheid van de rechter, verklaart deze zich, zo nodig ambtshalve, onbevoegd.
 
-#### Artikel 73
+##### Artikel 73
 
 Verklaart de rechter zich onbevoegd en is een andere gewone rechter wel bevoegd, dan verwijst hij de zaak naar deze rechter. [Artikel 71, vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Achtste&artikel=71&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 74
+##### Artikel 74
 
 1. Betreft de verwijzing een zaak die bij dagvaarding moet worden ingeleid, dan heeft iedere partij het recht de overige partijen bij exploot op te roepen tegen de dag waarop zij de zaak ter rolle wil doen dienen. Voor deze oproeping moeten de voor dagvaarding voorgeschreven termijnen in acht worden genomen. Het exploot kan ook worden gedaan aan het kantoor van de advocaat of deurwaarder bij wie degene voor wie het exploot bestemd is, laatstelijk ter zake woonplaats heeft gekozen. Deze advocaat of deurwaarder bevordert dat het exploot degene voor wie het is bestemd, tijdig bereikt.
 
@@ -648,19 +671,19 @@ Verklaart de rechter zich onbevoegd en is een andere gewone rechter wel bevoegd,
 
 3. De procedure wordt, in de stand waarin zij zich bij de verwijzing bevindt, voortgezet voor de rechter naar wie de zaak is verwezen. Een lagere rechter is aan de verwijzing gebonden, een hogere rechter niet.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Tegen een arrest of beschikking waarbij de rechter zich onbevoegd verklaart en de zaak verwijst naar een lagere rechter, kan beroep in cassatie slechts worden ingesteld binnen acht weken, te rekenen van de dag van de uitspraak van het arrest of de beschikking.
 
 2. Tegen een vonnis of beschikking waarbij de rechter zich onbevoegd verklaart en de zaak verwijst naar een hogere rechter, is geen hogere voorziening toegelaten.
 
-#### Artikel 76
+##### Artikel 76
 
 Indien de rechter in hoger beroep een vonnis of beschikking van een lagere rechter, waarbij deze zich onbevoegd had verklaard wegens ontbreken van rechtsmacht of in verband met een overeenkomst tot arbitrage, vernietigt, verwijst de rechter de zaak naar deze lagere rechter om op de hoofdzaak te worden beslist, tenzij partijen verklaren te verlangen dat de rechter in beroep de zaak aan zich houdt.
 
 ### afdeling Achtste. Herstel van verkeerd inleiden van een procedure, verwijzing door of naar de kantonrechter en verwijzing bij absolute onbevoegdheid
 
-#### Artikel 77
+##### Artikel 77
 
 1. In alle procedures waarin de Koning als eiser of als verzoeker optreedt, wordt de zaak ingeleid en voortgezet ten name van en door een door hem aan te wijzen gemachtigde.
 
@@ -670,19 +693,19 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 ### afdeling Negende. Slotbepaling
 
-#### Artikel 78
+##### Artikel 78
 
 1. Deze titel is van toepassing op alle zaken waarop niet ingevolge [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Eerste&artikel=261&z=2026-01-01&g=2026-01-01) de derde titel van toepassing is, en voor zover daarop niet een andere, bijzondere wettelijke regeling van toepassing is.
 
 2. De zaken, bedoeld in het eerste lid, worden elders in dit wetboek aangeduid als: zaken die bij dagvaarding moeten worden ingeleid.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Partijen kunnen in zaken voor de kantonrechter in persoon procederen.
 
 2. In alle overige zaken kunnen partijen niet in persoon procederen, maar slechts bij advocaat. Zij worden geacht tot aan het eindvonnis bij de gestelde advocaat woonplaats te hebben gekozen, tenzij zij hebben verklaard een andere woonplaats te hebben gekozen. Zij kunnen de door hen gestelde advocaat niet herroepen zonder tevens een andere advocaat te stellen.
 
-#### Artikel 80
+##### Artikel 80
 
 1. In zaken waarin partijen in persoon kunnen procederen, kunnen zij zich laten bijstaan of zich door een gemachtigde laten vertegenwoordigen.
 
@@ -692,7 +715,7 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 4. Partijen worden geacht tot aan het eindvonnis bij de gemachtigde woonplaats te hebben gekozen, tenzij zij hebben verklaard een andere woonplaats te hebben gekozen.
 
-#### Artikel 81
+##### Artikel 81
 
 1. De kantonrechter kan bij met redenen omklede beschikking bijstand of vertegenwoordiging door een persoon tegen wie ernstige bezwaren bestaan en die geen advocaat of deurwaarder is, weigeren. De weigering geldt voor een bepaalde zaak of voor een door de kantonrechter te bepalen tijd.
 
@@ -704,7 +727,7 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 5. Het gerechtshof beslist na de betrokken kantonrechter te hebben uitgenodigd de nodige inlichtingen te verstrekken en na de appellant te hebben gehoord.
 
-#### Artikel 82
+##### Artikel 82
 
 1. In zaken waarin partijen in persoon kunnen procederen, worden conclusies en akten genomen ter terechtzitting, dan wel door indiening ter griffie vóór de roldatum.
 
@@ -712,13 +735,13 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 3. In zaken waarin partijen niet in persoon kunnen procederen, worden, indien op de roldatum een terechtzitting plaatsvindt, conclusies en akten ter terechtzitting genomen. Indien niet een terechtzitting plaatsvindt, worden conclusies en akten op de roldatum genomen door indiening ter griffie vóór of op de roldatum.
 
-#### Artikel 83
+##### Artikel 83
 
 1. In zaken waarin partijen in persoon kunnen procederen, worden de conclusies en akten, wanneer zij niet mondeling worden genomen, ondertekend door de partij van wie het stuk afkomstig is of door haar gemachtigde.
 
 2. In zaken waarin partijen niet in persoon kunnen procederen, worden deze stukken ondertekend door de advocaat.
 
-#### Artikel 84
+##### Artikel 84
 
 1. Conclusies en akten worden, wanneer zij ter zitting worden genomen, aan de griffier verstrekt.
 
@@ -728,7 +751,7 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 4. In zaken waarin partijen niet in persoon kunnen procederen, doet de advocaat uiterlijk op de roldatum een afschrift van deze stukken aan de advocaat van de wederpartij toekomen.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Indien een partij zich bij dagvaarding, conclusie of akte op enig stuk beroept, is zij verplicht een afschrift van het stuk bij te voegen, tenzij een afschrift reeds bij een eerder processtuk in dezelfde zaak was gevoegd. De in de vorige volzin bedoelde verplichting vervalt indien de wederpartij verklaart geen afschrift te verlangen.
 
@@ -738,11 +761,11 @@ Indien de rechter in hoger beroep een vonnis of beschikking van een lagere recht
 
 4. Indien ten aanzien van enig stuk aan enig voorschrift van dit artikel of van [artikel 87, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01) niet is voldaan, of dermate laat dat de wederpartij dientengevolge niet voldoende in staat is zich daarover uit te laten, kan zij zich daarop tot aan het eindvonnis beroepen. In dat geval of indien zodanig beroep niet wordt gedaan, terwijl de rechter reden heeft om te veronderstellen dat de wederpartij geen afschrift van het stuk heeft ontvangen, biedt hij de wederpartij de gelegenheid zich alsnog over het stuk uit te laten, dan wel houdt hij bij zijn beslissing ten nadele van de wederpartij met het stuk geen rekening.
 
-#### Artikel 86
+##### Artikel 86
 
 De in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=85&z=2026-01-01&g=2026-01-01), bedoelde stukken worden teruggegeven binnen een week na dagtekening van het ontvangstbewijs of, op verlangen van de partij die zich op de stukken beroept, binnen een week na de kennisgeving aan de wederpartij dat de stukken ter griffie zijn gedeponeerd.
 
-#### Artikel 87
+##### Artikel 87
 
 1. De rechter kan, op verzoek van partijen of van een van hen dan wel ambtshalve, in alle gevallen en in elke stand van het geding een mondelinge behandeling bevelen.
 
@@ -770,19 +793,19 @@ De in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 8. Heeft geen mondelinge behandeling plaatsgevonden, dan biedt de rechter voordat hij over de zaak beslist, aan partijen desverlangd gelegenheid hun standpunt mondeling uiteen te zetten.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Tijdens de mondelinge behandeling ondervraagt de rechter partijen. Partijen kunnen elkaar vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven.
 
 2. De rechter kan uit de afgelegde verklaringen, uit een niet-verschijnen op de mondelinge behandeling of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen de gevolgtrekking maken die hij geraden acht, behoudens [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=1&artikel=154&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 89
+##### Artikel 89
 
 1. Indien op de zitting een schikking is bereikt, wordt een proces-verbaal opgemaakt, dat door de rechter en partijen of hun tot dat doel bijzonder gevolmachtigden wordt ondertekend en waarin de verbintenissen die partijen ten gevolge van die schikking op zich nemen, worden neergelegd. De uitgifte van dit proces-verbaal geschiedt in executoriale vorm.
 
 2. Indien geen schikking tot stand komt, bepaalt de rechter de dag waarop de zaak weer op de rol zal komen.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De rechter maakt van de mondelinge behandeling proces-verbaal op:
 
@@ -804,19 +827,19 @@ De in [artikel 85, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van beeld- en geluidsopnamen.
 
-#### Artikel 91
+##### Artikel 91
 
 1. In alle gevallen waarin de rechter een dag bepaalt waarop de zaak weer op de rol zal komen, bepaalt hij tevens welke proceshandeling dan moet worden verricht.
 
 2. Dient een zaak in enige stand van het geding wederom voor een proceshandeling ter rolle, dan geschiedt dit bij een enkelvoudige kamer.
 
-#### Artikel 92
+##### Artikel 92
 
 Indien de griffier aan partijen stukken toezendt, geschiedt dit, tenzij de rechter anders bepaalt, bij gewone brief.
 
 ### afdeling Tweede. Kantonzaken
 
-#### Artikel 93
+##### Artikel 93
 
 Door de kantonrechter worden behandeld en beslist:
 
@@ -828,7 +851,7 @@ Door de kantonrechter worden behandeld en beslist:
 
 - d. andere zaken ten aanzien waarvan de wet dit bepaalt.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Indien een zaak meer dan één vordering als bedoeld in [artikel 93 onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01) betreft, is voor de toepassing van dat artikel beslissend het totale beloop of de totale waarde van deze vorderingen.
 
@@ -838,69 +861,69 @@ Door de kantonrechter worden behandeld en beslist:
 
 4. In het geval van een hoofdzaak en een zaak in vrijwaring, waarvan er tenminste één een vordering betreft als bedoeld in [artikel 93 onder c of d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01), worden deze vorderingen alle door de kantonrechter behandeld en beslist.
 
-#### Artikel 95
+##### Artikel 95
 
 Voor de toepassing van de [artikelen 93](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01) en [94](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=94&z=2026-01-01&g=2026-01-01) wordt mede gelet op een wijziging van de eis.
 
-#### Artikel 96
+##### Artikel 96
 
 1. In alle zaken die slechts rechtsgevolgen betreffen die ter vrije bepaling van partijen staan, kunnen zij zich samen tot een kantonrechter van hun keuze wenden en zijn beslissing inroepen. Het geding wordt gevoerd op de wijze als door de kantonrechter bepaald.
 
 2. Indien slechts een van partijen zich tot de kantonrechter wendt voor toepassing van het eerste lid, wordt aan haar keuze slechts gevolg gegeven indien alle andere partijen de kantonrechter berichten dat zij instemmen met deze keuze.
 
-#### Artikel 97
+##### Artikel 97
 
 1. Buiten de gevallen als bedoeld in [artikel 94, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=94&z=2026-01-01&g=2026-01-01), wordt een zaak in reconventie ook in afwijking van de [artikelen 93 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01) behandeld en beslist door de rechter die de zaak in conventie behandelt en beslist, voor zover de samenhang tussen de vorderingen zich tegen afzonderlijke behandeling verzet.
 
 2. Buiten de gevallen als bedoeld in [artikel 94, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=94&z=2026-01-01&g=2026-01-01), wordt een zaak in vrijwaring ook in afwijking van de [artikelen 93 tot en met 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01) behandeld en beslist door de rechter die de hoofdzaak behandelt en beslist.
 
-#### Artikel 98
+##### Artikel 98
 
 Indien de kantonrechter in de gevallen, bedoeld in de [artikelen 94, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=94&z=2026-01-01&g=2026-01-01), en [97, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=97&z=2026-01-01&g=2026-01-01), van oordeel is dat de zaak ongeschikt is voor behandeling en beslissing door één rechter, kan hij de zaak met toepassing van [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Tweede&artikel=15&z=2026-01-01&g=2026-01-01), verwijzen naar een meervoudige kamer voor andere zaken dan kantonzaken.
 
 ### afdeling Tweede. Kantonzaken
 
-#### Artikel 99
+##### Artikel 99
 
 1. Tenzij de wet anders bepaalt, is bevoegd de rechter van de woonplaats van de gedaagde.
 
 2. Bij gebreke van een bekende woonplaats van de gedaagde in Nederland is bevoegd de rechter van zijn werkelijk verblijf.
 
-#### Artikel 100
+##### Artikel 100
 
 In zaken betreffende een individuele arbeidsovereenkomst, een agentuurovereenkomst, een collectieve arbeidsovereenkomst of algemeen verbindend verklaarde bepalingen van een collectieve arbeidsovereenkomst is mede bevoegd de rechter van de plaats waar de arbeid gewoonlijk wordt of laatstelijk gewoonlijk werd verricht. In zaken betreffende een individuele arbeidsovereenkomst is, indien de arbeid tijdelijk in Nederland wordt verricht, mede bevoegd de rechter van de plaats waar de werknemer de arbeid tijdelijk verricht, voorzover het betreft een rechtsvordering met betrekking tot arbeidsvoorwaarden en arbeidsomstandigheden, welke is gegrond op [artikel 2 van de Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&artikel=2), [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=7a), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=13) of [15 van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=15), [artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8), [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=8a) of [11 van de Wet allocatie arbeidskrachten door intermediairs](https://wetten.overheid.nl/jci1.3:c:BWBR0009616&artikel=11), alsmede [artikel 5, eerste lid, onder b, d, e, of f, van de Algemene wet gelijke behandeling](https://wetten.overheid.nl/jci1.3:c:BWBR0006502&artikel=5).
 
-#### Artikel 101
+##### Artikel 101
 
 In zaken betreffende een overeenkomst die wordt gesloten door een partij die handelt in de uitoefening van een beroep of bedrijf en een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf, is mede bevoegd de rechter van de woonplaats of, bij gebreke daarvan, van het werkelijk verblijf van die natuurlijke persoon.
 
-#### Artikel 102
+##### Artikel 102
 
 In zaken betreffende verbintenissen uit onrechtmatige daad is mede bevoegd de rechter van de plaats waar het schadebrengende feit zich heeft voorgedaan.
 
-#### Artikel 103
+##### Artikel 103
 
 In zaken betreffende onroerende zaken is mede bevoegd de rechter binnen wiens rechtsgebied de zaak of het grootste gedeelte daarvan is gelegen. In zaken betreffende huur van woonruimte of huur van bedrijfsruimte in de zin van [artikel 290 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=290) is echter uitsluitend bevoegd de rechter binnen wiens rechtsgebied het gehuurde of het grootste gedeelte daarvan is gelegen.
 
-#### Artikel 104
+##### Artikel 104
 
 1. In zaken betreffende nalatenschappen is mede bevoegd de rechter van de laatste woonplaats van de overledene.
 
 2. In zaken betreffende schuldvorderingen ten laste van de overledene is de in het eerste lid aangewezen rechter eveneens bevoegd.
 
-#### Artikel 105
+##### Artikel 105
 
 In zaken betreffende de geldigheid, de nietigheid of de ontbinding van vennootschappen of rechtspersonen, de geldigheid, nietigheid of rechtsgevolgen van hun besluiten of die van hun organen dan wel de rechten en verplichtingen van hun leden of vennoten als zodanig, is mede bevoegd de rechter van de woonplaats of de plaats van vestiging van de rechtspersoon of de vennootschap.
 
-#### Artikel 106
+##### Artikel 106
 
 In zaken betreffende de toepassing van de wettelijke bepalingen inzake faillissement, surséance van betaling en schuldsaneringsregeling natuurlijke personen is mede bevoegd de rechtbank waaruit de rechter-commissaris is benoemd of, indien in geval van surséance geen rechter-commissaris is benoemd, de rechtbank die over het verzoek tot het verlenen van surséance heeft geoordeeld.
 
-#### Artikel 107
+##### Artikel 107
 
 Indien een rechter ten aanzien van een van de gezamenlijk in het geding betrokken gedaagden bevoegd is, is die rechter ook ten aanzien van de overige gedaagden bevoegd, mits tussen de vorderingen tegen de onderscheiden gedaagden een zodanige samenhang bestaat, dat redenen van doelmatigheid een gezamenlijke behandeling rechtvaardigen.
 
-#### Artikel 108
+##### Artikel 108
 
 1. Hebben partijen bij overeenkomst een rechter aangewezen voor de kennisneming van geschillen die zijn ontstaan of zullen ontstaan naar aanleiding van een bepaalde rechtsbetrekking die tot hun vrije bepaling staat, dan is die rechter bij uitsluiting bevoegd van de zaak kennis te nemen, voorzover niet uit de overeenkomst anders voortvloeit.
 
@@ -914,11 +937,11 @@ Indien een rechter ten aanzien van een van de gezamenlijk in het geding betrokke
 
 4. Een overeenkomst tot aanwijzing van een bevoegde rechter dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. De aangewezen rechter is bevoegd te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan een overeenkomst tot aanwijzing van een bevoegde rechter deel uitmaakt of waarop zij betrekking heeft.
 
-#### Artikel 109
+##### Artikel 109
 
 Wijzen de [artikelen 99 tot en met 108](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Derde&artikel=99&z=2026-01-01&g=2026-01-01) geen bevoegde rechter aan, dan is bevoegd de rechter van de woonplaats van de eiser dan wel, indien er meer eisers zijn, elk van de eisers of, bij gebreke daarvan, de rechter te 's-Gravenhage.
 
-#### Artikel 110
+##### Artikel 110
 
 1. Het verweer dat de rechter niet relatief bevoegd is, wordt op straffe van verval van het recht daartoe gevoerd vóór alle weren ten gronde. In zaken waarin de vordering ten hoogste € 25.000 beloopt, zaken betreffende een individuele arbeidsovereenkomst en zaken als bedoeld in [artikel 101](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Derde&artikel=101&z=2026-01-01&g=2026-01-01) en [103, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Derde&artikel=103&z=2026-01-01&g=2026-01-01), beoordeelt de rechter ook zonder daartoe strekkend verweer of hij relatief bevoegd is.
 
@@ -928,7 +951,7 @@ Wijzen de [artikelen 99 tot en met 108](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### afdeling Vierde. Dagvaarding
 
-#### Artikel 111
+##### Artikel 111
 
 1. Dagvaarding geschiedt bij exploot.
 
@@ -966,19 +989,19 @@ Wijzen de [artikelen 99 tot en met 108](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 3. Het exploot van dagvaarding vermeldt de door gedaagde tegen de eis aangevoerde verweren en de gronden daarvoor. Verder vermeldt het exploot de bewijsmiddelen waarover eiser kan beschikken en de getuigen die hij kan doen horen ter staving van de aldus betwiste gronden van de eis.
 
-#### Artikel 112
+##### Artikel 112
 
 Vervallen.
 
-#### Artikel 113
+##### Artikel 113
 
 Vervallen.
 
-#### Artikel 114
+##### Artikel 114
 
 De gewone termijn van dagvaarding is ten minste een week.
 
-#### Artikel 115
+##### Artikel 115
 
 1. Indien de gedaagde een bekende woonplaats of een bekend werkelijk verblijf buiten Nederland heeft in een Staat waar de in [artikel 56, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=56&z=2026-01-01&g=2026-01-01), bedoelde verordening van toepassing is, of in een Staat die in Europa is gelegen en die partij is bij het op 15 november 1965 te 's-Gravenhage tot stand gekomen Verdrag inzake de betekening en de kennisgeving in het buitenland van gerechtelijke en buitengerechtelijke stukken in burgerlijke en in handelszaken (Trb. 1966, 91), is de termijn van dagvaarding ten minste vier weken.
 
@@ -986,29 +1009,29 @@ De gewone termijn van dagvaarding is ten minste een week.
 
 3. Indien de gedaagde in Nederland geen bekende woonplaats of bekend werkelijk verblijf heeft, is de termijn van dagvaarding in afwijking van het eerste en tweede lid ten minste een week, indien het exploot in Nederland wordt gedaan aan de gedaagde in persoon, dan wel aan een door de gedaagde voor deze zaak gekozen woonplaats.
 
-#### Artikel 116
+##### Artikel 116
 
 1. Indien in rechte worden opgeroepen houders van aandelen of andere effecten welke niet op naam staan of waarvan de houders niet bij name bekend zijn, is de termijn van dagvaarding ten minste vier weken.
 
 2. Deze termijn geldt eveneens indien in rechte worden opgeroepen zij die algemene voorwaarden gebruiken waarin bedingen voorkomen waarvan gesteld wordt dat zij onredelijk bezwarend zijn, in het geval dat ingevolge [artikel 1003, onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Twaalfde&artikel=1003&z=2026-01-01&g=2026-01-01), hun naam en woonplaats niet afzonderlijk in het exploot worden vermeld.
 
-#### Artikel 117
+##### Artikel 117
 
 De in de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=114&z=2026-01-01&g=2026-01-01), [115](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=115&z=2026-01-01&g=2026-01-01) en [116](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=116&z=2026-01-01&g=2026-01-01) genoemde termijnen kunnen op mondeling of schriftelijk verzoek van de eiser door de voorzieningenrechter of, in kantonzaken, de kantonrechter, zo nodig onder het stellen van voorwaarden, worden verkort. De beschikking wordt vermeld aan het hoofd van het exploot van dagvaarding.
 
-#### Artikel 118
+##### Artikel 118
 
 1. Oproepingen van derden als partij in het geding geschieden met inachtneming van de voor dagvaarding geldende termijnen. Indien de oproeping niet geschiedt bij hetzelfde exploot waarmee de gedaagde is gedagvaard, wordt het exploot, waarmee de gedaagde is gedagvaard, met de oproeping aan de derde betekend. [Artikel 111, tweede lid, aanhef en onderdelen g, h, i, j en k](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
 2. [Artikel 128, tweede, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 119
+##### Artikel 119
 
 1. De termijn van dagvaarding vangt aan op de dag, volgend op die waarop het exploot is uitgebracht. Wordt de dagvaarding gedaan met toepassing van [artikel 56](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=56&z=2026-01-01&g=2026-01-01), dan vangt de termijn van dagvaarding aan op de dag, volgend op de datum van verzending als bedoeld in het tweede lid, onder a, van dat artikel.
 
 2. Bij het bepalen van de termijn van dagvaarding wordt de roldatum niet meegerekend.
 
-#### Artikel 120
+##### Artikel 120
 
 1. Al hetgeen in deze afdeling is voorgeschreven, wordt op straffe van nietigheid in acht genomen.
 
@@ -1018,7 +1041,7 @@ De in de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Ee
 
 4. Het eerste lid is niet van toepassing op hetgeen is voorgeschreven in [artikel 111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01). Wordt niet voldaan aan hetgeen is voorgeschreven in artikel 111, derde lid, dan kan de rechter daaraan de gevolgtrekking verbinden die hij geraden acht.
 
-#### Artikel 121
+##### Artikel 121
 
 1. Verschijnt de gedaagde niet in het geding dan wel verzuimt hij advocaat te stellen hoewel hem dat bij dagvaarding was aangezegd, en blijkt aan de rechter dat het exploot van dagvaarding lijdt aan een gebrek dat nietigheid meebrengt, dan verleent de rechter geen verstek tegen hem.
 
@@ -1026,13 +1049,13 @@ De in de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Ee
 
 3. Is echter aannemelijk dat het exploot van dagvaarding de gedaagde als gevolg van het gebrek niet heeft bereikt, dan spreekt de rechter de nietigheid van het exploot uit.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Verschijnt de gedaagde in het geding, of komt hij, na bij verstek te zijn veroordeeld, in verzet, en beroept hij zich op de nietigheid van het exploot van dagvaarding, dan verwerpt de rechter dat beroep indien naar zijn oordeel het gebrek de gedaagde niet onredelijk in zijn belangen heeft geschaad.
 
 2. De rechter kan echter in dit geval, zo daartoe gronden zijn, het herstel van het gebrek op kosten van de eiser bevelen.
 
-#### Artikel 123
+##### Artikel 123
 
 1. Indien echter de eiser ten onrechte geen advocaat heeft gesteld, biedt de rechter hem en, indien in dit geval de gedaagde wel in het geding was verschenen maar eveneens ten onrechte geen advocaat had gesteld, ook deze, de gelegenheid binnen een door hem te bepalen termijn alsnog advocaat te stellen.
 
@@ -1044,13 +1067,13 @@ De in de [artikelen 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Ee
 
 5. Tegen een beslissing ingevolge het eerste, tweede of vierde lid staat geen hogere voorziening open.
 
-#### Artikel 124
+##### Artikel 124
 
 Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet met inachtneming van de voorschriften voor zaken waarin partijen in persoon kunnen procederen.
 
 ### afdeling Vijfde. Verloop van het geding
 
-#### Artikel 125
+##### Artikel 125
 
 1. Het geding is aanhangig vanaf de dag van dagvaarding.
 
@@ -1062,7 +1085,7 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 
 5. De aanhangigheid van het geding vervalt indien het exploot van dagvaarding niet uiterlijk op het in het tweede lid vermelde tijdstip ter griffie is ingediend, tenzij binnen twee weken na de in de dagvaarding vermelde roldatum een geldig herstelexploot is uitgebracht.
 
-#### Artikel 126
+##### Artikel 126
 
 1. De gedaagde kan de roldatum, vermeld in het exploot van dagvaarding, vervroegen door aan de eiser bij exploot een vroegere roldatum te doen aanzeggen, met vermelding van het uur indien alsdan een terechtzitting plaatsvindt. In zaken waarin partijen niet in persoon kunnen procederen, wordt hierbij tevens advocaat gesteld.
 
@@ -1072,7 +1095,7 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 
 4. Wordt door meer dan één gedaagde van het recht de roldatum te vervroegen gebruik gemaakt, dan geldt de aanzegging van de vroegste roldatum.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Indien de in [artikel 125, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=125&z=2026-01-01&g=2026-01-01), bedoelde indiening ter griffie van het exploot van dagvaarding niet tijdig heeft plaats gehad, is de gedaagde bevoegd, onder overlegging van het exploot van dagvaarding, de zaak op de rol te laten inschrijven.
 
@@ -1080,7 +1103,7 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 
 3. Indien de gedaagde een vroegere roldatum heeft aangezegd en het exploot van aanzegging niet tijdig ter griffie heeft ingediend, blijft de oorspronkelijke, in het exploot van dagvaarding vermelde roldatum gehandhaafd.
 
-#### Artikel 128
+##### Artikel 128
 
 1. Indien de gedaagde bij gemachtigde of bij advocaat procedeert, deelt hij op de eerste roldatum de naam en het adres van de gemachtigde of de naam en het kantooradres van de advocaat mede.
 
@@ -1096,11 +1119,11 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 
 7. [Artikel 127a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=127a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 129
+##### Artikel 129
 
 Zolang de rechter nog geen eindvonnis heeft gewezen, kan de eiser te allen tijde zijn eis verminderen.
 
-#### Artikel 130
+##### Artikel 130
 
 1. Zolang de rechter nog geen eindvonnis heeft gewezen, is de eiser bevoegd zijn eis of de gronden daarvan schriftelijk, bij conclusie of akte ter rolle, te veranderen of te vermeerderen. De gedaagde is bevoegd hiertegen bezwaar te maken, op grond dat de verandering of vermeerdering in strijd is met de eisen van een goede procesorde. De rechter beslist, partijen gehoord, zo spoedig mogelijk. De rechter kan op dezelfde grond ook ambtshalve een verandering of vermeerdering van eis buiten beschouwing laten.
 
@@ -1108,11 +1131,11 @@ Zolang de rechter nog geen eindvonnis heeft gewezen, kan de eiser te allen tijde
 
 3. Indien een partij niet in het geding is verschenen, is een verandering of vermeerdering van eis tegen die partij uitgesloten, tenzij de eiser de verandering of vermeerdering tijdig bij exploot aan haar kenbaar heeft gemaakt. In laatstgenoemd geval is [artikel 120, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=120&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 131
+##### Artikel 131
 
 Nadat de gedaagde voor antwoord heeft geconcludeerd, beveelt de rechter een mondelinge behandeling als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01), tenzij hij oordeelt dat de zaak daarvoor niet geschikt is. Uiterlijk twee weken na het in de eerste volzin bedoelde tijdstip beslist de rechter hieromtrent. Tegen deze beslissing staat geen hogere voorziening open.
 
-#### Artikel 132
+##### Artikel 132
 
 1. Indien geen mondelinge behandeling op de voet van [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=131&z=2026-01-01&g=2026-01-01) is bevolen, geeft de rechter aan de eiser gelegenheid voor repliek te concluderen. Hierna kan de gedaagde voor dupliek concluderen.
 
@@ -1122,7 +1145,7 @@ Nadat de gedaagde voor antwoord heeft geconcludeerd, beveelt de rechter een mond
 
 4. Tegen beslissingen over de toepassing van het tweede lid en het derde lid staat geen hogere voorziening open.
 
-#### Artikel 133
+##### Artikel 133
 
 1. De rechter stelt de termijnen voor het nemen van de conclusies vast.
 
@@ -1132,25 +1155,25 @@ Nadat de gedaagde voor antwoord heeft geconcludeerd, beveelt de rechter een mond
 
 4. Wanneer een proceshandeling niet is verricht binnen de daarvoor gestelde termijn en daarvoor geen uitstel kan worden verkregen, vervalt het recht om de desbetreffende proceshandeling te verrichten.
 
-#### Artikel 134
+##### Artikel 134
 
 Vervallen
 
-#### Artikel 135
+##### Artikel 135
 
 In zaken waarin partijen in persoon kunnen procederen, stelt de griffier zo spoedig mogelijk de eiser en de in het geding verschenen gedaagde, voor zover zij niet in persoon of bij gemachtigde aanwezig waren op de terechtzitting, op de hoogte van het procesverloop.
 
 ### afdeling Zesde. Reconventie
 
-#### Artikel 136
+##### Artikel 136
 
 De gedaagde is bevoegd een eis in reconventie in te stellen, tenzij de eiser in conventie is opgetreden in hoedanigheid en de reconventie hem persoonlijk zou betreffen of omgekeerd.
 
-#### Artikel 137
+##### Artikel 137
 
 De eis in reconventie moet dadelijk bij het antwoord worden ingesteld. [Artikel 111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 138
+##### Artikel 138
 
 1. De zaken in conventie en in reconventie worden tegelijk voldongen en bij een en hetzelfde eindvonnis beslist, tenzij de rechter van oordeel is dat de zaak in conventie of die in reconventie vroeger kan worden afgedaan.
 
@@ -1158,11 +1181,11 @@ De eis in reconventie moet dadelijk bij het antwoord worden ingesteld. [Artikel 
 
 ### afdeling Zesde. Reconventie
 
-#### Artikel 139
+##### Artikel 139
 
 Indien de gedaagde niet op de eerste of op een door de rechter nader bepaalde roldatum in het geding verschijnt dan wel verzuimt advocaat te stellen of, indien verschuldigd, het griffierecht niet tijdig voldoet hoewel hem dat bij dagvaarding was aangezegd, en de voorgeschreven termijnen en formaliteiten in acht zijn genomen, verleent de rechter verstek tegen hem en wijst hij de vordering toe, tenzij deze hem onrechtmatig of ongegrond voorkomt.
 
-#### Artikel 140
+##### Artikel 140
 
 1. Zijn er meer gedaagden en is ten minste een van hen in het geding verschenen, dan wordt, indien ten aanzien van de overige gedaagden de voorgeschreven formaliteiten en termijnen in acht zijn genomen, tegen dezen verstek verleend en tussen de eiser en de verschenen gedaagden voortgeprocedeerd.
 
@@ -1172,17 +1195,17 @@ Indien de gedaagde niet op de eerste of op een door de rechter nader bepaalde ro
 
 4. Het eerste en derde lid zijn van overeenkomstige toepassing in geval van oproeping van derden als partij in het geding als bedoeld in [artikel 118](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=118&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 141
+##### Artikel 141
 
 De kosten die een gevolg zijn van het feit dat een partij niet in het geding is verschenen of het griffierecht niet tijdig heeft voldaan, komen ten laste van die partij, tenzij verstek was verleend op een dagvaarding die nietig wordt verklaard.
 
-#### Artikel 142
+##### Artikel 142
 
 De gedaagde tegen wie verstek is verleend, heeft, zolang het eindvonnis nog niet is gewezen, de bevoegdheid om alsnog in het geding te verschijnen, of om alsnog het griffierecht te voldoen, waardoor de gevolgen van het tegen hem verleende verstek vervallen, behalve ten aanzien van de daardoor veroorzaakte kosten.
 
 ### afdeling Zesde. Reconventie
 
-#### Artikel 143
+##### Artikel 143
 
 1. De gedaagde die bij verstek is veroordeeld, kan daartegen verzet doen.
 
@@ -1192,7 +1215,7 @@ De gedaagde tegen wie verstek is verleend, heeft, zolang het eindvonnis nog niet
 
 4. De veroordeelde die in het vonnis heeft berust, kan daartegen niet meer in verzet komen.
 
-#### Artikel 144
+##### Artikel 144
 
 Het vonnis wordt geacht ten uitvoer te zijn gelegd:
 
@@ -1204,17 +1227,17 @@ Het vonnis wordt geacht ten uitvoer te zijn gelegd:
 
 - d. in geval van gedwongen ontruiming van onroerende zaken, nadat de ontruiming heeft plaatsgevonden.
 
-#### Artikel 145
+##### Artikel 145
 
 Het verzet, mits tijdig en op de voorgeschreven wijze gedaan, schorst de tenuitvoerlegging van het vonnis, tenzij dit uitvoerbaar bij voorraad was verklaard.
 
-#### Artikel 146
+##### Artikel 146
 
 1. Op het exploot van verzet is [artikel 111, tweede lid, onder a tot en met c en e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat niet vermeld hoeft te worden de wijze waarop de oorspronkelijk eiser kan antwoorden,
 
 2. Indien een eis in reconventie wordt ingesteld, vermeldt het exploot deze eis met de gronden daarvan. [Artikel 111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 147
+##### Artikel 147
 
 1. Door het verzet wordt de instantie heropend. Het geding verloopt als in de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&z=2026-01-01&g=2026-01-01) bepaald, met dien verstande dat het exploot van verzet als conclusie van antwoord geldt.
 
@@ -1224,7 +1247,7 @@ Het verzet, mits tijdig en op de voorgeschreven wijze gedaan, schorst de tenuitv
 
 4. [Artikel 127a, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=127a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 148
+##### Artikel 148
 
 Door verval van instantie na verzet vervalt ook het verstekvonnis.
 
@@ -1232,39 +1255,39 @@ Door verval van instantie na verzet vervalt ook het verstekvonnis.
 
 #### § 1. Algemene bepalingen van bewijsrecht
 
-#### Artikel 149
+##### Artikel 149
 
 1. Tenzij uit de wet anders voortvloeit, mag de rechter slechts die feiten of rechten aan zijn beslissing ten grondslag leggen, die in het geding aan hem ter kennis zijn gekomen of zijn gesteld en die overeenkomstig de voorschriften van deze afdeling zijn komen vast te staan. Feiten of rechten die door de ene partij zijn gesteld en door de wederpartij niet of niet voldoende zijn betwist, moet de rechter als vaststaand beschouwen, behoudens zijn bevoegdheid bewijs te verlangen, zo vaak aanvaarding van de stellingen zou leiden tot een rechtsgevolg dat niet ter vrije bepaling van partijen staat.
 
 2. Feiten of omstandigheden van algemene bekendheid, alsmede algemene ervaringsregels mogen door de rechter aan zijn beslissing ten grondslag worden gelegd, ongeacht of zij zijn gesteld, en behoeven geen bewijs.
 
-#### Artikel 150
+##### Artikel 150
 
 De partij die zich beroept op rechtsgevolgen van door haar gestelde feiten of rechten, draagt de bewijslast van die feiten of rechten, tenzij uit enige bijzondere regel of uit de eisen van redelijkheid en billijkheid een andere verdeling van de bewijslast voortvloeit.
 
-#### Artikel 151
+##### Artikel 151
 
 1. Dwingend bewijs houdt in dat de rechter verplicht is de inhoud van bepaalde bewijsmiddelen als waar aan te nemen dan wel verplicht is de bewijskracht te erkennen die de wet aan bepaalde gegevens verbindt.
 
 2. Tegenbewijs, ook tegen dwingend bewijs, staat vrij, tenzij de wet het uitsluit.
 
-#### Artikel 152
+##### Artikel 152
 
 1. Bewijs kan worden geleverd door alle middelen, tenzij de wet anders bepaalt.
 
 2. De waardering van het bewijs is aan het oordeel van de rechter overgelaten, tenzij de wet anders bepaalt.
 
-#### Artikel 153
+##### Artikel 153
 
 Overeenkomsten waarbij van het wettelijke bewijsrecht wordt afgeweken, blijven buiten toepassing, wanneer zij betrekking hebben op het bewijs van feiten waaraan het recht gevolgen verbindt, die niet ter vrije bepaling van partijen staan, zulks onverminderd de gronden waarop zij krachtens het Burgerlijk Wetboek buiten toepassing blijven.
 
-#### Artikel 154
+##### Artikel 154
 
 1. Een gerechtelijke erkentenis is het in een aanhangig geding door een partij uitdrukkelijk erkennen van de waarheid van een of meer stellingen van de wederpartij.
 
 2. Een gerechtelijke erkentenis kan slechts worden herroepen, indien aannemelijk is dat zij door een dwaling of niet in vrijheid is afgelegd.
 
-#### Artikel 155
+##### Artikel 155
 
 1. De rechter ten overstaan van wie in een zaak bewijs is bijgebracht, zal daarin zoveel als mogelijk het eindvonnis wijzen of medewijzen.
 
@@ -1272,7 +1295,7 @@ Overeenkomsten waarbij van het wettelijke bewijsrecht wordt afgeweken, blijven b
 
 #### § 2. Akten en vonnissen
 
-#### Artikel 156
+##### Artikel 156
 
 1. Akten zijn ondertekende geschriften, bestemd om tot bewijs te dienen.
 
@@ -1280,37 +1303,37 @@ Overeenkomsten waarbij van het wettelijke bewijsrecht wordt afgeweken, blijven b
 
 3. Onderhandse akten zijn alle akten die niet authentieke akten zijn.
 
-#### Artikel 157
+##### Artikel 157
 
 1. Authentieke akten leveren tegen een ieder dwingend bewijs op van hetgeen de ambtenaar binnen de kring van zijn bevoegdheid omtrent zijn waarnemingen en verrichtingen heeft verklaard.
 
 2. Een authentieke of onderhandse akte levert ten aanzien van de verklaring van een partij omtrent hetgeen de akte bestemd is ten behoeve van de wederpartij te bewijzen, tussen partijen dwingend bewijs op van de waarheid van die verklaring, tenzij dit zou kunnen leiden tot een rechtsgevolg dat niet ter vrije bepaling van partijen staat. Onder partij wordt begrepen de rechtverkrijgende onder algemene of bijzondere titel, voor zover het desbetreffende recht is verkregen na het opmaken van de akte.
 
-#### Artikel 158
+##### Artikel 158
 
 1. Op een onderhandse akte waarin verbintenissen van slechts één partij zijn aangegaan of vastgelegd, is, voor zover die verbintenissen strekken tot voldoening van een geldsom, [het tweede lid van artikel 157](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=2&artikel=157&z=2026-01-01&g=2026-01-01) niet van toepassing, tenzij deze partij de akte geheel met de hand heeft geschreven of heeft voorzien van een goedkeuring die de geldsom voluit in letters vermeldt.
 
 2. Het eerste lid is niet van toepassing op aandelen in een obligatielening en op verbintenissen door de schuldenaar in de uitoefening van zijn beroep of bedrijf aangegaan.
 
-#### Artikel 159
+##### Artikel 159
 
 1. Een geschrift dat het uiterlijk heeft van een authentieke akte, geldt als zodanig behoudens bewijs van het tegendeel.
 
 2. Een onderhandse akte waarvan de ondertekening door de partij, tegen welke zij dwingend bewijs zou leveren, stellig wordt ontkend, levert geen bewijs op, zolang niet bewezen is van wie de ondertekening afkomstig is. Is degeen tegen wie de akte wordt ingeroepen een ander dan hij die haar ondertekend zou hebben, dan kan worden volstaan met de verklaring, dat men de echtheid van de ondertekening niet erkent.
 
-#### Artikel 160
+##### Artikel 160
 
 1. De kracht van het schriftelijke bewijs is in de oorspronkelijke akte gelegen.
 
 2. Grossen en gehele afschriften van een authentieke akte die volgens wettelijk voorschrift moet worden bewaard, leveren, wanneer zij zijn afgegeven door een daartoe bevoegde ambtenaar, hetzelfde bewijs op als de oorspronkelijke akte.
 
-#### Artikel 161
+##### Artikel 161
 
 Een in kracht van gewijsde gegaan, op tegenspraak gewezen vonnis waarbij de Nederlandse strafrechter bewezen heeft verklaard dat iemand een feit heeft begaan, levert dwingend bewijs op van dat feit.
 
 #### § 3. Openlegging van boeken, bescheiden en geschriften
 
-#### Artikel 162
+##### Artikel 162
 
 1. De rechter kan in de loop van een geding, op verzoek of ambtshalve, aan partijen of aan een van hen de openlegging bevelen van de boeken, bescheiden en geschriften, die zij ingevolge de wet moeten houden, maken of bewaren.
 
@@ -1320,17 +1343,17 @@ Een in kracht van gewijsde gegaan, op tegenspraak gewezen vonnis waarbij de Nede
 
 #### § 2. Akten en vonnissen
 
-#### Artikel 163
+##### Artikel 163
 
 Een getuigenverklaring kan slechts als bewijs dienen, voor zover zij betrekking heeft op aan de getuige uit eigen waarneming bekende feiten.
 
-#### Artikel 164
+##### Artikel 164
 
 1. Ook partijen kunnen als getuige optreden.
 
 2. Indien een partij die gehouden is als getuige een verklaring af te leggen, niet ter zitting verschijnt, niet antwoordt op de haar gestelde vragen of weigert haar verklaring te ondertekenen, kan de rechter daaruit de gevolgtrekking maken die hij geraden acht.
 
-#### Artikel 165
+##### Artikel 165
 
 1. Een ieder, daartoe op wettige wijze opgeroepen, is verplicht getuigenis af te leggen.
 
@@ -1342,7 +1365,7 @@ Een getuigenverklaring kan slechts als bewijs dienen, voor zover zij betrekking 
 
 3. De getuige kan zich verschonen van het beantwoorden van een aan hem gestelde vraag, indien hij daardoor of zichzelf, of een van zijn bloed- of aanverwanten in de rechte lijn of in de zijlijn in de tweede of derde graad, dan wel zijn echtgenoot of vroegere echtgenoot of zijn geregistreerde partner of vroegere partner of zijn levensgezel of vroegere levensgezel aan het gevaar van een strafrechtelijke veroordeling ter zake van een misdrijf zou blootstellen.
 
-#### Artikel 166
+##### Artikel 166
 
 1. De rechter kan op verzoek van een partij de in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01), bedoelde toestemming verlenen voor het horen van getuigen tijdens de mondelinge behandeling of ambtshalve bevelen getuigen voor de mondelinge behandeling op te roepen. Op verzoek van een partij of ambtshalve kan de rechter ook een afzonderlijk getuigenverhoor bevelen. Een verhoor van getuigen vindt plaats als bewijs door getuigen bij de wet is toegelaten en een partij bewijs heeft aangeboden van feiten die betwist zijn en die tot de beslissing van de zaak kunnen leiden.
 
@@ -1352,33 +1375,33 @@ Een getuigenverklaring kan slechts als bewijs dienen, voor zover zij betrekking 
 
 4. De rechter vermeldt in de beslissing, voor zover mogelijk, aan welke partij en van welke feiten bewijs wordt opgedragen. Als het getuigenverhoor op een afzonderlijke zitting plaatsvindt, vermeldt de rechter dit in elk geval in de beslissing waarin het getuigenverhoor wordt bevolen en vermeldt hij ook de plaats waar, en de dag en het uur waarop de getuigen zullen worden gehoord. Plaats, dag en uur van het getuigenverhoor kunnen ook later door de rechter worden vastgesteld.
 
-#### Artikel 167
+##### Artikel 167
 
 De rechter kan bepalen dat partijen bij de getuigenverhoren die op een afzonderlijke zitting plaatsvinden, in persoon aanwezig moeten zijn.
 
-#### Artikel 168
+##### Artikel 168
 
 Het verhoor van getuigen tot het leveren van tegenbewijs staat van rechtswege vrij en wordt gehouden op de plaats, de dag en het uur te bepalen dadelijk na afloop van het verhoor van de voor het bewijs gehoorde getuigen of op een later tijdstip, tenzij de rechter, na overleg met partijen, dit verhoor doet plaatsvinden in aansluiting op het verhoor van de voor het bewijs gehoorde getuigen.
 
-#### Artikel 169
+##### Artikel 169
 
 Indien een partij verkorting of verlenging van de termijnen, bedoeld in de [artikelen 166](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=166&z=2026-01-01&g=2026-01-01) en [168](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=168&z=2026-01-01&g=2026-01-01), verzoekt, wordt op dit verzoek na verhoor of behoorlijke oproeping van de wederpartij beslist. Tegen de beslissing staat geen hogere voorziening open.
 
-#### Artikel 170
+##### Artikel 170
 
 1. De namen en woonplaatsen van de getuigen worden ten minste tien dagen voor het verhoor aan de wederpartij en aan de griffier opgegeven. De belanghebbende partij roept de getuigen ten minste tien dagen voor het verhoor bij exploot of bij aangetekende brief op. De dag van de oproeping en de dag van het verhoor worden niet meegerekend bij het bepalen van deze termijn. Indien een partij meer getuigen heeft voorgebracht dan redelijkerwijs noodzakelijk was, kan de rechter daarmee bij de veroordeling in de kosten rekening houden.
 
 2. De oproeping maakt melding van dag, uur en plaats van het verhoor, van de feiten waaromtrent bewijs moet worden geleverd en van de gevolgen, verbonden aan het niet verschijnen ter zitting.
 
-#### Artikel 171
+##### Artikel 171
 
 Indien een bij aangetekende brief opgeroepen getuige niet ter zitting verschijnt, bepaalt de rechter op verzoek van de belanghebbende partij een dag waartegen de getuige bij exploot kan worden opgeroepen. Daarbij wordt de termijn, bedoeld in [artikel 170, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=170&z=2026-01-01&g=2026-01-01), in acht genomen.
 
-#### Artikel 172
+##### Artikel 172
 
 De rechter kan bevelen, dat de op een oproeping bij exploot niet ter zitting verschenen getuige door de openbare macht voor hem wordt gebracht op een door hem te bepalen dag en uur om aan zijn verplichting te voldoen.
 
-#### Artikel 173
+##### Artikel 173
 
 1. Indien een getuige weigert zijn verklaring af te leggen, kan de rechter op verzoek van de belanghebbende partij bevelen, dat hij op kosten van die partij in gijzeling zal worden gesteld totdat hij aan zijn verplichting zal hebben voldaan, met dien verstande dat de gijzeling ten hoogste een jaar kan duren. Deze bepaling is niet van toepassing als het een partij betreft die als getuige wordt gehoord.
 
@@ -1386,17 +1409,17 @@ De rechter kan bevelen, dat de op een oproeping bij exploot niet ter zitting ver
 
 3. De rechter die de gijzeling heeft bevolen, beëindigt ambtshalve of op verzoek van de gegijzelde de gijzeling indien voortzetting ervan naar zijn oordeel niet meer door het belang dat met toepassing van de dwangmaatregel werd gediend, wordt gerechtvaardigd.
 
-#### Artikel 174
+##### Artikel 174
 
 1. Indien een getuige te ver verwijderd woont, kan de rechter het verhoor opdragen aan de rechter van gelijke rang van de woonplaats van de getuige.
 
 2. Het eerste lid is niet van toepassing indien het een partij betreft die als getuige wordt gehoord.
 
-#### Artikel 175
+##### Artikel 175
 
 Indien een getuige verhinderd is uit hoofde van ziekte of anderszins om naar het gerechtsgebouw te komen, kan de rechter zich bij hem vervoegen tot het ontvangen van zijn verklaring of de rechter, in [artikel 174](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=174&z=2026-01-01&g=2026-01-01) bedoeld, verzoeken hem te verhoren.
 
-#### Artikel 176
+##### Artikel 176
 
 1. Voor zover bij verdrag of EG-verordening niet anders is bepaald, kan de rechter, indien een getuige in het buitenland woont, aan een door hem aan te wijzen autoriteit van het land waar de getuige zijn woonplaats heeft, verzoeken het verhoor, indien mogelijk onder ede, te houden, of dat verhoor opdragen aan de Nederlandse consulaire ambtenaar tot wiens ressort de woonplaats van die getuige behoort.
 
@@ -1404,7 +1427,7 @@ Indien een getuige verhinderd is uit hoofde van ziekte of anderszins om naar het
 
 3. Het proces-verbaal van dit getuigenverhoor heeft gelijke kracht als dat van het door de Nederlandse rechter gehouden verhoor.
 
-#### Artikel 177
+##### Artikel 177
 
 1. Op de bepaalde dag vraagt de rechter de getuigen hun naam, voornamen, leeftijd, beroep en woon- of verblijfplaats, of zij bloed- of aanverwant zijn van de partijen of van een van hen, en zo ja in welke graad, alsmede of zij in dienstverband staan tot partijen of een van hen.
 
@@ -1414,11 +1437,11 @@ Indien een getuige verhinderd is uit hoofde van ziekte of anderszins om naar het
 
 4. Overigens mag de rechter aan een onbeëdigde verklaring slechts bewijs ontlenen indien hij in het vonnis vermeldt dat de eed ten onrechte niet is afgenomen en dat het niet mogelijk is de getuige opnieuw te horen.
 
-#### Artikel 178
+##### Artikel 178
 
 De opgeroepen getuige die niet ter zitting verschijnt of, verschenen zijnde, weigert de eed of zijn verklaring af te leggen, kan worden veroordeeld tot vergoeding van de vergeefs aangewende kosten, onverminderd zijn aansprakelijkheid tot schadevergoeding indien daartoe gronden zijn.
 
-#### Artikel 179
+##### Artikel 179
 
 1. De rechter hoort ieder van de getuigen buiten tegenwoordigheid van de mede ter zitting verschenen getuigen die nog niet zijn gehoord, voor zover deze laatste getuigen niet tevens partij zijn.
 
@@ -1428,7 +1451,7 @@ De opgeroepen getuige die niet ter zitting verschijnt of, verschenen zijnde, wei
 
 4. De rechter kan uit de op de voet van het derde lid afgelegde verklaringen, uit het niet-verschijnen ter zitting of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen, de gevolgtrekking maken die hij geraden acht, behoudens hetgeen in [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=1&artikel=154&z=2026-01-01&g=2026-01-01) is bepaald.
 
-#### Artikel 180
+##### Artikel 180
 
 1. Van het getuigenverhoor op een afzonderlijke zitting wordt proces-verbaal opgemaakt, waarin achtereenvolgens aantekening geschiedt van de in acht genomen vormen en van al hetgeen met betrekking tot de zaak voorvalt.
 
@@ -1442,31 +1465,31 @@ De opgeroepen getuige die niet ter zitting verschijnt of, verschenen zijnde, wei
 
 6. De rechter kan bepalen dat het proces-verbaal, bedoeld in het eerste lid, wordt vervangen door een door of namens hem gemaakte beeld- of geluidsopname als bedoeld in [artikel 90, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=90&z=2026-01-01&g=2026-01-01). Als naderhand een schriftelijke weergave van het proces-verbaal wordt opgesteld, wordt daarin melding gemaakt van de in acht genomen vormen en wordt het ondertekend door de rechter voor wie het getuigenverhoor heeft plaatsgehad.
 
-#### Artikel 181
+##### Artikel 181
 
 1. In afwijking van [artikel 180](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=180&z=2026-01-01&g=2026-01-01) behoeft in zaken die niet aan hoger beroep zijn onderworpen, geen proces-verbaal van het getuigenverhoor te worden opgemaakt. Het naar aanleiding van het getuigenverhoor te wijzen vonnis houdt, behalve de vermelding van de opgave, verklaringen en eedsaflegging bij [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=177&z=2026-01-01&g=2026-01-01) aangeduid, de summiere inhoud van de afgelegde getuigenverklaringen in.
 
 2. Het eerste lid wordt niet toegepast in zaken die in eerste aanleg door een gerechtshof worden behandeld.
 
-#### Artikel 182
+##### Artikel 182
 
 Indien de getuige schadeloosstelling vordert, wordt deze door de rechter begroot. Daarvan wordt melding gemaakt in het proces-verbaal. De schadeloosstelling wordt voldaan door de partij die de getuige heeft voorgebracht.
 
-#### Artikel 183
+##### Artikel 183
 
 In geval de getuigen niet op één dag kunnen worden gehoord, stelt de rechter het verdere horen tot een nadere dag uit en geschiedt er noch aan de ter zitting verschenen getuigen noch aan de al dan niet aldaar verschenen partij enige nieuwe oproeping.
 
-#### Artikel 184
+##### Artikel 184
 
 Het nalaten van een van de in deze paragraaf voorgeschreven formaliteiten heeft, met uitzondering van [artikel 177](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=177&z=2026-01-01&g=2026-01-01) omtrent het afleggen van de eed, alleen de nietigheid van het verhoor ten gevolge indien de belanghebbende partij daardoor in haar belangen is benadeeld en het verzuim niet kan worden hersteld; in het tegenovergestelde geval kan de rechter, zo daartoe gronden zijn, herstel van begane onregelmatigheden bevelen.
 
-#### Artikel 185
+##### Artikel 185
 
 Na afloop van het getuigenverhoor of indien dit achterwege blijft, bepaalt de rechter de dag waarop de zaak weer op de rol zal komen.
 
 #### § 3. Openlegging van boeken, bescheiden en geschriften
 
-#### Artikel 186
+##### Artikel 186
 
 1. De rechter kan op verzoek van een partij of ambtshalve een bericht of een verhoor van deskundigen bevelen. Het vonnis vermeldt de punten waarover het oordeel van deskundigen wordt gevraagd.
 
@@ -1478,17 +1501,17 @@ Na afloop van het getuigenverhoor of indien dit achterwege blijft, bepaalt de re
 
 5. De rechter kan, op verzoek van een partij of ambtshalve, aan de deskundigen het geven van een nadere mondelinge of schriftelijke toelichting of aanvulling bevelen. Pas nadat de deskundigen hiertoe in de gelegenheid zijn gesteld, kan de rechter, na overleg met partijen, een of meer andere deskundigen benoemen, tenzij de rechter een nadere toelichting of aanvulling niet zinvol acht.
 
-#### Artikel 187
+##### Artikel 187
 
 De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vragen hun kosten te begroten. Door de eisende partij wordt een door de rechter te bepalen voorschot en, als dit is bepaald, een nader voorschot, voor die kosten ter griffie gestort, voor zover niet bij het vonnis, bedoeld in [artikel 186, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=186&z=2026-01-01&g=2026-01-01), in verband met de omstandigheden van het geding de wederpartij of beide partijen samen daartoe is of zijn aangewezen. Aan partijen aan wie ingevolge de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368) een toevoeging is verleend of bij wie ingevolge [artikel 16 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=16) het griffierecht voor onvermogenden is geheven, wordt geen voorschot opgelegd. Ook wordt geen voorschot opgelegd aan de partijen van wie geen griffierecht is geheven en aan wie de griffier verklaart dat, als van hen wel griffierecht zou zijn geheven, dat het griffierecht voor onvermogenden zou zijn. Weigert de griffier een verklaring als bedoeld in de vorige zin af te geven, dan staat daartegen verzet open op de wijze als voorzien in [artikel 29 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=29).
 
-#### Artikel 188
+##### Artikel 188
 
 1. De rechter kan, zo nodig ambtshalve, bij de bepaling van een voorschot als bedoeld in [artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=187&z=2026-01-01&g=2026-01-01), of later, een termijn vaststellen voor de voldoening van het voorschot. Deze termijn kan een of meerdere keren worden verlengd. Tegen beslissingen ingevolge de eerste en tweede zin staat geen hogere voorziening open.
 
 2. Wanneer een partij het voorschot niet binnen de daarvoor gestelde termijn voldoet, kan de rechter daaruit de gevolgtrekking maken die hij geraden acht.
 
-#### Artikel 189
+##### Artikel 189
 
 1. Als de deskundigen een onderzoek moeten verrichten, bepaalt de rechter bij hun benoeming of op een later tijdstip waar en wanneer zij tot het onderzoek zullen overgaan.
 
@@ -1496,7 +1519,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 3. Wanneer op die dag het bericht van deskundigen nog niet is ontvangen, kan de rechter op verzoek van partijen of van een van hen een nadere roldatum bepalen. Ook kan de rechter een nadere zitting bepalen, wanneer op de daarvoor vastgestelde zitting het mondelinge verslag niet wordt uitgebracht.
 
-#### Artikel 190
+##### Artikel 190
 
 1. De deskundige die zijn benoeming heeft aanvaard, is verplicht de opdracht onpartijdig en naar beste weten te volbrengen.
 
@@ -1510,7 +1533,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 6. De rechter kan bepalen dat het proces-verbaal, bedoeld in het vijfde lid, wordt vervangen door een door of namens hem gemaakte beeld- of geluidsopname als bedoeld in [artikel 90, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=90&z=2026-01-01&g=2026-01-01). Als naderhand een schriftelijke weergave van het proces-verbaal wordt opgesteld, wordt het proces-verbaal ondertekend door de rechter aan wie het mondelinge verslag is uitgebracht.
 
-#### Artikel 191
+##### Artikel 191
 
 1. De deskundigen hebben aanspraak op schadeloosstelling en op loon, door de rechter te begroten onder de minuut van het schriftelijke bericht of onder het van het mondelinge verslag opgemaakte proces-verbaal.
 
@@ -1518,7 +1541,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 3. Wordt geen voorschot opgelegd als bedoeld in [artikel 187, derde tot en met vijfde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=187&z=2026-01-01&g=2026-01-01), en kan het tweede lid als gevolg daarvan niet worden toegepast, dan betaalt de griffier het bedrag waarop de deskundigen aanspraak hebben ten laste van de Staat. Gedurende het geding wordt het ten laste van de Staat betaalde bedrag voorlopig in debet gesteld.
 
-#### Artikel 192
+##### Artikel 192
 
 1. Op verzoek van een partij kan de rechter toestemming verlenen voor het horen van deskundigen die niet door de rechter zijn benoemd op de mondelinge behandeling, bedoeld in [artikel 87, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01), of op een afzonderlijke zitting.
 
@@ -1530,7 +1553,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 5. [Artikel 186, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=186&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing wanneer de rechter na een bericht of verhoor van een niet door de rechter benoemde deskundige, op verzoek van een partij of ambtshalve een deskundige wil benoemen als bedoeld in artikel 186, eerste lid.
 
-#### Artikel 193
+##### Artikel 193
 
 1. De rechter kan op verzoek van een partij of ambtshalve, vergezeld van de griffier, een plaatselijke gesteldheid opnemen of zaken bezichtigen die niet of bezwaarlijk ter zitting kunnen worden meegebracht.
 
@@ -1548,7 +1571,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 #### § 6. Deskundigen
 
-#### Artikel 194
+##### Artikel 194
 
 1. Een partij bij een rechtsbetrekking heeft tegenover degene die beschikt over bepaalde gegevens over die rechtsbetrekking, recht op inzage, afschrift of uittreksel van die gegevens als zij daarbij voldoende belang heeft. De partij die om inzage, afschrift of uittreksel van bepaalde gegevens verzoekt, draagt de kosten die voor de verstrekking daarvan moeten worden gemaakt.
 
@@ -1562,7 +1585,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 4. De voorgaande leden zijn niet van toepassing voor zover de gegevens waarvan inzage, afschrift of uittreksel wordt verzocht, de persoonsgegevens van die partij zelf betreffen.
 
-#### Artikel 195
+##### Artikel 195
 
 1. Op verzoek van de partij die daar ingevolge [artikel 194, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), recht op heeft, kan de rechter de wederpartij bevelen tot het verstrekken van inzage, afschrift of uittreksel van bepaalde gegevens waarover de wederpartij beschikt. Artikel 194, eerste lid, tweede volzin, tweede, derde en vierde lid, is van overeenkomstige toepassing.
 
@@ -1570,7 +1593,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 3. Wordt de beslissing, bedoeld in het tweede lid, door een hogere rechter vernietigd, dan worden de gegevens waarvan inzage, afschrift of uittreksel is verstrekt onverwijld na het in kracht van gewijsde gaan van die beslissing aan de wederpartij teruggegeven onder gelijktijdige vernietiging van alle kopieën.
 
-#### Artikel 196
+##### Artikel 196
 
 1. Voordat een zaak aanhangig is, of als het geding aanhangig is gemaakt, voordat de zaak op de rol is ingeschreven, kan de rechter op verzoek van een belanghebbende een of meer voorlopige bewijsverrichtingen bevelen. De wederpartij en andere belanghebbenden kunnen volgend op dat verzoek ook een of meer voorlopige bewijsverrichtingen verzoeken, waarna de rechter deze gezamenlijk kan behandelen.
 
@@ -1586,7 +1609,7 @@ De rechter kan ambtshalve of op verzoek van een of meer partijen deskundigen vra
 
 - e. andere gewichtige redenen bestaan die zich verzetten tegen de voorlopige bewijsverrichting.
 
-#### Artikel 197
+##### Artikel 197
 
 1. Het verzoek wordt gedaan aan de rechter die vermoedelijk bevoegd zal zijn van de zaak kennis te nemen als deze aanhangig wordt gemaakt. Het verzoek kan ook worden gedaan aan de rechter tot wiens absolute bevoegdheid de zaak behoort en binnen wiens rechtsgebied degenen van wie informatie wordt verlangd, of het grootste aantal van hen, woonplaats hebben of, als zij geen bekende woonplaats in Nederland hebben, werkelijk verblijven. Als de zaak door de kantonrechter moet worden behandeld en beslist, wordt het verzoek gedaan aan de kantonrechter. De rechter beoordeelt summierlijk of hij absoluut bevoegd is en of de zaak door de kantonrechter moet worden behandeld en beslist. In spoedeisende gevallen kan het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens ook worden gedaan aan de voorzieningenrechter.
 
@@ -1610,13 +1633,13 @@ Het in onderdeel a vermelde wordt op straffe van niet-ontvankelijkheid in acht g
 
 - d. als wordt verzocht om inzage, afschrift of uittreksel van bepaalde gegevens, de aanduiding van de gegevens waarvan inzage, afschrift of uittreksel wordt verzocht en de namen en woonplaatsen van degenen die de gegevens tot hun beschikking hebben.
 
-#### Artikel 198
+##### Artikel 198
 
 1. Op het verzoek om een of meer voorlopige bewijsverrichtingen wordt pas beslist nadat een behandeling heeft plaatsgevonden, waartoe de verzoeker en de wederpartij worden opgeroepen. Een mondelinge behandeling kan achterwege blijven als de wederpartij onbekend is, in geval van onverwijlde spoed of als de opgeroepen wederpartij schriftelijk heeft meegedeeld geen bezwaar te hebben tegen inwilliging van het verzoek.
 
 2. Als de rechter het verzoek om een of meer voorlopige bewijsverrichtingen toestaat, bepaalt hij de dag waarop de verzoeker uiterlijk een afschrift van het verzoekschrift, als dit nog niet is toegezonden, en van de beschikking aan de wederpartij, als die bekend is, moet doen toekomen. Een afschrift van het verzoekschrift en van de beschikking wordt bij aangetekende brief verzonden of bij exploot betekend.
 
-#### Artikel 199
+##### Artikel 199
 
 1. Tijdens de mondelinge behandeling stelt de rechter de verzoeker in de gelegenheid zijn verzoek toe te lichten en de wederpartij om daarop te reageren. De rechter kan partijen daarbij verzoeken hem inlichtingen te geven, aanwijzingen geven die hij geraden acht of een schikking beproeven.
 
@@ -1624,7 +1647,7 @@ Het in onderdeel a vermelde wordt op straffe van niet-ontvankelijkheid in acht g
 
 3. Als een partij dat verlangt, worden de afspraken die op de mondelinge behandeling tussen partijen worden gemaakt in een proces-verbaal vastgelegd. Het proces-verbaal wordt door de rechter en partijen of hun tot dat doel bijzonderlijk gevolmachtigden ondertekend. Een beroep in rechte op deze afspraken kan niet worden gedaan, voor zover zij in strijd komen met een dwingende wetsbepaling, met fundamentele beginselen van behoorlijke rechtspleging of als een beroep daarop in verband met onvoorziene omstandigheden redelijkerwijs niet kan worden gedaan.
 
-#### Artikel 200
+##### Artikel 200
 
 1. Tegen de beslissing op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens kan hoger beroep worden ingesteld binnen vier weken te rekenen van de dag van de uitspraak.
 
@@ -1632,7 +1655,7 @@ Het in onderdeel a vermelde wordt op straffe van niet-ontvankelijkheid in acht g
 
 #### § 7. Plaatsopneming en bezichtiging
 
-#### Artikel 201
+##### Artikel 201
 
 1. Als de rechter het verzoek tot het horen van getuigen toestaat, bepaalt hij de plaats, de dag en het uur waarop het voorlopig getuigenverhoor zal plaatshebben. De bepalingen over het getuigenverhoor zijn op het voorlopig getuigenverhoor van overeenkomstige toepassing.
 
@@ -1644,7 +1667,7 @@ Het in onderdeel a vermelde wordt op straffe van niet-ontvankelijkheid in acht g
 
 #### § 7. Plaatsopneming en bezichtiging
 
-#### Artikel 202
+##### Artikel 202
 
 1. Als de rechter het verzoek om een voorlopig bericht of verhoor van deskundigen toestaat, benoemt hij na overleg met partijen een of meer deskundigen met de opdracht bij hem schriftelijk bericht in te leveren of aan hem mondeling verslag uit te brengen. De beschikking vermeldt de punten waarover het oordeel van deskundigen wordt gevraagd. De bepalingen over deskundigen zijn van overeenkomstige toepassing.
 
@@ -1652,17 +1675,17 @@ Het in onderdeel a vermelde wordt op straffe van niet-ontvankelijkheid in acht g
 
 3. Als de rechter het verzoek toestaat zonder dat een mondelinge behandeling heeft plaatsgevonden, gaat de rechter, voordat hij een of meer deskundigen benoemt, eerst na of de verzoeker heeft voldaan aan de verplichting bedoeld in [artikel 198, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=8&artikel=198&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 203
+##### Artikel 203
 
 1. Als de rechter het verzoek om een plaatsopneming of bezichtiging toestaat, bepaalt hij de plaats, de dag en het uur waarop de plaatsopneming of bezichtiging plaatsvindt en de termijn waarbinnen het proces-verbaal van de plaatsopneming of bezichtiging aan partijen moet zijn verstrekt. [Artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=6&artikel=193&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
 2. Als de rechter het verzoek toestaat zonder dat een mondelinge behandeling heeft plaatsgevonden, gaat de rechter, voordat hij overgaat tot de plaatsopneming of bezichtiging, eerst na of de verzoeker heeft voldaan aan de verplichting bedoeld in [artikel 198, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=8&artikel=198&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 204
+##### Artikel 204
 
 Op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens zijn de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), [195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195&z=2026-01-01&g=2026-01-01) en [195a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195a&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 205
+##### Artikel 205
 
 1. Voor het leggen van conservatoir beslag tot bescherming van bewijs is verlof vereist van de voorzieningenrechter van de rechtbank binnen wiens rechtsgebied zich een of meer van de in beslag te nemen gegevens of zaken bevinden of binnen wiens rechtsgebied de wederpartij of degene onder wie het beslag wordt gelegd, woonplaats heeft. De voorzieningenrechter beoordeelt summierlijk of is voldaan aan de voorwaarden als bedoeld in [artikel 194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), en of zich geen van de gronden bedoeld in [artikel 196, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=8&artikel=196&z=2026-01-01&g=2026-01-01), voordoet. De voorschriften over middelen tot bewaring van zijn recht zijn van overeenkomstige toepassing, met uitzondering van [artikel 709, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=709&z=2026-01-01&g=2026-01-01).
 
@@ -1688,7 +1711,7 @@ Op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens zijn de 
 
 6. Tegen een op grond van dit artikel gegeven verlof is geen hogere voorziening toegelaten.
 
-#### Artikel 206
+##### Artikel 206
 
 1. Het beslag wordt gelegd bij een proces-verbaal van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid het verkregen rechterlijk verlof vermeldt. Dadelijk na de beslaglegging of uiterlijk op de volgende dag gaat de deurwaarder over tot een meer nauwkeurige aanduiding van de gegevens of zaken die in beslag zijn genomen. Het proces-verbaal wordt binnen drie dagen na de beslaglegging betekend aan de wederpartij en bij een beslag onder een derde, ook aan de derde en als er een bewaarder is, ook aan hem. Het proces-verbaal dat is bestemd voor de beslaglegger bevat een globale aanduiding van de in beslag genomen gegevens of zaken. Van de in beslag genomen gegevens of zaken krijgt de beslaglegger geen kennis dan nadat de rechter daarover afzonderlijk in de hoofdzaak heeft beslist. Bevatten de in beslag genomen gegevens persoonsgegevens, dan wordt aan de verplichtingen op grond van de artikelen 13 en 14 van de Algemene Verordening Gegevensbescherming voldaan zodra de rechter heeft beslist dat recht op kennisneming van die gegevens bestaat.
 
@@ -1698,7 +1721,7 @@ Op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens zijn de 
 
 4. Onverminderd [artikel 705](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=705&z=2026-01-01&g=2026-01-01) kan de wederpartij in de procedure waarin de eis in de hoofdzaak is ingesteld, vorderen dat het beslag wordt opgeheven.
 
-#### Artikel 207
+##### Artikel 207
 
 1. De voorzieningenrechter kan op verzoek van een belanghebbende verlof verlenen tot het opmaken van een proces-verbaal ter vastlegging van persoonlijk door de deurwaarder waargenomen feiten op een niet voor het publiek toegankelijke plaats. Bij het verlenen van het verlof bepaalt de voorzieningenrechter de termijn waarbinnen de waarneming door de deurwaarder moet plaatsvinden en geeft hij zo nodig nadere aanwijzingen aan de deurwaarder. [Artikel 205](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=9&artikel=205&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -1708,7 +1731,7 @@ Op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens zijn de 
 
 #### § 8. Voorlopige bewijsverrichtingen
 
-#### Artikel 208
+##### Artikel 208
 
 1. Incidentele vorderingen worden ingesteld bij dagvaarding of bij met redenen omklede conclusie. De [artikelen 85](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=85&z=2026-01-01&g=2026-01-01), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=86&z=2026-01-01&g=2026-01-01), [87, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01), [128](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2026-01-01&g=2026-01-01) en [133](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=133&z=2026-01-01&g=2026-01-01) zijn van toepassing.
 
@@ -1716,13 +1739,13 @@ Op het verzoek om inzage, afschrift of uittreksel van bepaalde gegevens zijn de 
 
 3. Incidentele vorderingen worden zoveel mogelijk tegelijk ingesteld.
 
-#### Artikel 209
+##### Artikel 209
 
 Op de incidentele vorderingen wordt, indien de zaak dat medebrengt, eerst en vooraf beslist. Voor zover de hoofdzaak niet gelijktijdig is afgedaan, bepaalt de rechter bij de beslissing op het incident tevens de dag waarop de zaak weer op de rol zal komen.
 
 #### § 8. Voorlopig bericht of verhoor van deskundigen, voorlopige plaatsopneming en bezichtiging
 
-#### Artikel 210
+##### Artikel 210
 
 1. Indien de gedaagde meent gronden te hebben om iemand in vrijwaring op te roepen en hij die oproeping niet heeft gedaan vóór de dag waarop de hoofdzaak moet dienen, neemt hij zijn daartoe strekkende, met redenen omklede conclusie vóór alle weren op de voor het nemen van de conclusie van antwoord bepaalde roldatum.
 
@@ -1734,15 +1757,15 @@ Op de incidentele vorderingen wordt, indien de zaak dat medebrengt, eerst en voo
 
 5. Indien de vordering wordt afgewezen, bepaalt de rechter bij die beslissing de dag waarop de zaak weer op de rol zal komen of beveelt hij een verschijning van partijen ter terechtzitting.
 
-#### Artikel 211
+##### Artikel 211
 
 Indien de vordering tot oproeping in vrijwaring niet tijdig is gedaan, wordt zonder uitstel in de hoofdzaak voortgeprocedeerd.
 
-#### Artikel 212
+##### Artikel 212
 
 In geval van vrijwaring wegens uitwinning van een goed of wegens een recht waarmee het goed niet belast had mogen zijn, mag de waarborg de hoofdzaak van de gewaarborgde overnemen met dien verstande dat de gewaarborgde als partij in het geding blijft.
 
-#### Artikel 213
+##### Artikel 213
 
 1. In het geval, bedoeld in [artikel 212](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tiende&paragraaf=2&artikel=212&z=2026-01-01&g=2026-01-01), kan het tegen de waarborg gewezen vonnis tegen de gewaarborgde ten uitvoer worden gelegd.
 
@@ -1750,29 +1773,29 @@ In geval van vrijwaring wegens uitwinning van een goed of wegens een recht waarm
 
 3. Indien echter de waarborg geen verhaal biedt, moet de gewaarborgde de kosten dragen en, zo daartoe gronden zijn, ook de schade vergoeden.
 
-#### Artikel 214
+##### Artikel 214
 
 In zaken van eenvoudige vrijwaring mag de waarborg zich in de hoofdzaak slechts voegen zonder de zaak van de gewaarborgde over te nemen.
 
-#### Artikel 215
+##### Artikel 215
 
 In geval de hoofdzaak en de zaak in vrijwaring tegelijk in staat van wijzen zijn, wordt daarin gelijktijdig beslist. Indien dit niet het geval is, wordt op vordering van de oorspronkelijke eiser of gedaagde de hoofdzaak afzonderlijk beslist.
 
-#### Artikel 216
+##### Artikel 216
 
 Hij die ter zake van vrijwaring is gedagvaard, moet procederen voor de rechter waar de hoofdzaak aanhangig is, zelfs indien hij ontkent waarborg te zijn.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 217
+##### Artikel 217
 
 Ieder die een belang heeft bij een tussen andere partijen aanhangig geding, kan vorderen zich daarin te mogen voegen of daarin te mogen tussenkomen.
 
-#### Artikel 218
+##### Artikel 218
 
 Deze vordering wordt ingesteld bij incidentele conclusie vóór of op de roldatum waarop de laatste conclusie in het aanhangige geding wordt genomen.
 
-#### Artikel 219
+##### Artikel 219
 
 1. De conclusie vermeldt:
 
@@ -1786,7 +1809,7 @@ Deze vordering wordt ingesteld bij incidentele conclusie vóór of op de roldatu
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 220
+##### Artikel 220
 
 1. In zaken die reeds eerder bij een andere gewone rechter van gelijke rang aanhangig zijn gemaakt tussen dezelfde partijen over hetzelfde onderwerp, of in geval de zaak verknocht is aan een zaak die reeds bij een andere gewone rechter van gelijke rang aanhangig is, kan de verwijzing naar die andere rechter worden gevorderd. In deze zaken kan de rechter ook ambtshalve naar die andere rechter verwijzen, nadat partijen hierover zijn gehoord. Verwijzing is ook mogelijk indien één der zaken bij de kantonrechter in behandeling is en de andere niet.
 
@@ -1800,11 +1823,11 @@ Deze vordering wordt ingesteld bij incidentele conclusie vóór of op de roldatu
 
 6. [Artikel 71, vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Achtste&artikel=71&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 221
+##### Artikel 221
 
 Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het recht de overige partijen bij exploot op te roepen tegen de dag waarop zij de zaak ter rolle wil doen dienen. Voor deze oproeping moeten de voor dagvaarding voorgeschreven termijnen in acht worden genomen. Is met het oog op het geding voor de eerste rechter woonplaats gekozen, dan kan het in dit artikel bedoelde exploot ook aan die woonplaats worden gedaan.
 
-#### Artikel 222
+##### Artikel 222
 
 1. In geval voor dezelfde rechter tussen dezelfde partijen en over hetzelfde onderwerp tegelijk zaken aanhangig zijn, of voor dezelfde rechter verknochte zaken aanhangig zijn, kan daarvan de voeging worden gevorderd. In deze zaken kan de rechter ook ambtshalve tot voeging overgaan.
 
@@ -1812,7 +1835,7 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 #### § 8. Voorlopig bericht of verhoor van deskundigen, voorlopige plaatsopneming en bezichtiging
 
-#### Artikel 223
+##### Artikel 223
 
 1. Tijdens een aanhangig geding kan iedere partij vorderen dat de rechter een voorlopige voorziening zal treffen voor de duur van het geding.
 
@@ -1820,7 +1843,7 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 #### § 4. Verwijzing en voeging van zaken
 
-#### Artikel 224
+##### Artikel 224
 
 1. Allen zonder woonplaats of gewone verblijfplaats in Nederland die bij een Nederlandse rechter een vordering instellen of zich voegen of tussenkomen in een geding alhier, zijn verplicht op vordering van de wederpartij zekerheid te stellen voor de proceskosten en de schadevergoeding tot betaling waarvan zij veroordeeld zouden kunnen worden.
 
@@ -1842,7 +1865,7 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 ### afdeling Elfde. Schorsing en hervatting
 
-#### Artikel 225
+##### Artikel 225
 
 1. Gronden voor schorsing van het geding zijn:
 
@@ -1858,13 +1881,13 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 4. Schorsing kan niet meer plaatsvinden nadat de dag is bepaald waarop het vonnis zal worden uitgesproken.
 
-#### Artikel 226
+##### Artikel 226
 
 1. In zaken waarin partijen niet in persoon kunnen procederen, wordt het geding van rechtswege geschorst doordat de gestelde advocaat overlijdt of doordat hij zijn hoedanigheid van advocaat verliest.
 
 2. [Artikel 225, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 227
+##### Artikel 227
 
 1. In de gevallen, bedoeld in [artikel 225, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01), wordt het geding hervat in de stand waarin dit zich bij de schorsing bevond:
 
@@ -1876,7 +1899,7 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 3. In zaken waarin partijen niet in persoon kunnen procederen, stellen zij opnieuw advocaat.
 
-#### Artikel 228
+##### Artikel 228
 
 1. In geval van schorsing wegens overlijden of verlies van de hoedanigheid van de gestelde advocaat, wordt het geding hervat in de stand waarin dit zich bij de schorsing bevond doordat een der partijen, met instemming van de andere partij, een daartoe strekkende akte ter rolle neemt, dan wel bij exploot verklaart dat het geding wordt hervat.
 
@@ -1886,11 +1909,11 @@ Indien een zaak naar een andere rechter wordt verwezen, heeft iedere partij het 
 
 #### § 2. Vrijwaring
 
-#### Artikel 229
+##### Artikel 229
 
 De rechter bepaalt de dag waarop hij uitspraak zal doen en deelt deze dag aan de eiser en aan de in het geding verschenen gedaagde mede. Op verlangen van de in het geding verschenen partijen stelt de rechter de uitspraak uit.
 
-#### Artikel 230
+##### Artikel 230
 
 1. Het vonnis vermeldt:
 
@@ -1914,7 +1937,7 @@ De rechter bepaalt de dag waarop hij uitspraak zal doen en deelt deze dag aan de
 
 3. Het vonnis wordt door de rechter, of, bij een meervoudige kamer, door de voorzitter en de griffier ondertekend. Het vonnis kan ook worden ondertekend door de rechter die het uitspreekt.
 
-#### Artikel 231
+##### Artikel 231
 
 1. Van de vonnissen verstrekt de griffier op de dag van de uitspraak een afschrift aan de eiser en aan de gedaagde die in het geding is verschenen. Betreft het een eindvonnis, dan is het afschrift dat wordt verstrekt aan een partij die tot tenuitvoerlegging van dat vonnis kan overgaan, opgemaakt in executoriale vorm.
 
@@ -1922,13 +1945,13 @@ De rechter bepaalt de dag waarop hij uitspraak zal doen en deelt deze dag aan de
 
 3. Elk afschrift dat in executoriale vorm is opgemaakt, wordt gedagtekend.
 
-#### Artikel 232
+##### Artikel 232
 
 1. De rechter kan, voordat hij definitief over de zaak beslist, een tussenvonnis wijzen.
 
 2. Van de [artikelen 230](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=230&z=2026-01-01&g=2026-01-01) en [231, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=231&z=2026-01-01&g=2026-01-01), kan, voor zover nodig, worden afgeweken indien een tussenvonnis wordt gewezen ter beslissing op een incidentele vordering en de wederpartij te kennen geeft tegen toewijzing geen bezwaar te hebben.
 
-#### Artikel 233
+##### Artikel 233
 
 1. Tenzij uit de wet of uit de aard van de zaak anders voortvloeit, kan de rechter, indien dit wordt gevorderd, verklaren dat zijn vonnis uitvoerbaar bij voorraad zal zijn niettegenstaande daartegen aan te wenden rechtsmiddelen. De rechter kan een vonnis waarbij op de voet van [artikel 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=187&z=2026-01-01&g=2026-01-01) wordt beslist omtrent een voorschot ter zake van de kosten van deskundigen, ook ambtshalve uitvoerbaar bij voorraad verklaren.
 
@@ -1936,15 +1959,15 @@ De rechter bepaalt de dag waarop hij uitspraak zal doen en deelt deze dag aan de
 
 3. De rechter kan aan de uitvoerbaarverklaring bij voorraad de voorwaarde verbinden dat tot een door hem te bepalen bedrag zekerheid wordt gesteld.
 
-#### Artikel 234
+##### Artikel 234
 
 Indien het vonnis niet uitvoerbaar bij voorraad is verklaard en tegen dat vonnis een rechtsmiddel is aangewend, kan alsnog een incidentele vordering tot uitvoerbaarverklaring bij voorraad van dat vonnis worden ingesteld.
 
-#### Artikel 235
+##### Artikel 235
 
 Indien het vonnis uitvoerbaar bij voorraad is verklaard, evenwel zonder dat daaraan de voorwaarde is verbonden dat zekerheid wordt gesteld, en indien tegen dat vonnis een rechtsmiddel is aangewend, kan alsnog een daartoe strekkende incidentele vordering worden ingesteld.
 
-#### Artikel 236
+##### Artikel 236
 
 1. Beslissingen die de rechtsbetrekking in geschil betreffen en zijn vervat in een in kracht van gewijsde gegaan vonnis, hebben in een ander geding tussen dezelfde partijen bindende kracht.
 
@@ -1954,7 +1977,7 @@ Indien het vonnis uitvoerbaar bij voorraad is verklaard, evenwel zonder dat daar
 
 #### § 3. Voeging en tussenkomst
 
-#### Artikel 237
+##### Artikel 237
 
 1. De partij die bij vonnis in het ongelijk wordt gesteld, wordt in de kosten veroordeeld. De kosten mogen echter geheel of gedeeltelijk worden gecompenseerd tussen echtgenoten of geregistreerde partners of andere levensgezellen, bloedverwanten in de rechte lijn, broers en zusters of aanverwanten in dezelfde graad, alsmede indien partijen over en weer op enkele punten in het ongelijk zijn gesteld. Ook kan de rechter de kosten die nodeloos werden aangewend of veroorzaakt, voor rekening laten van de partij die deze kosten aanwendde of veroorzaakte.
 
@@ -1966,35 +1989,35 @@ Indien het vonnis uitvoerbaar bij voorraad is verklaard, evenwel zonder dat daar
 
 5. De rechter kan bepalen dat het griffierecht tot betaling waarvan de partij, bedoeld in het eerste of tweede lid, wordt veroordeeld, niet hoger is dan het griffierecht dat van deze partij is geheven of, in het geval dat deze partij gedaagde is in een zaak bij de kantonrechter en van haar geen griffierecht is geheven, het griffierecht dat deze partij verschuldigd zou zijn geweest als zij eiser was geweest. De rechter kan hiertoe besluiten indien hij van oordeel is dat veroordeling tot betaling van het hogere griffierecht, gelet op de proceshouding van de in het gelijk gestelde partij, zal leiden tot een onbillijkheid van overwegende aard. Hiertegen is geen hogere voorziening toegelaten.
 
-#### Artikel 238
+##### Artikel 238
 
 1. In zaken waarin partijen in persoon kunnen procederen, wordt, indien de wederpartij van de in het ongelijk gestelde partij zonder gemachtigde procedeert, onder de kosten waarin laatstgenoemde partij wordt veroordeeld, opgenomen een door de rechter te bepalen bedrag voor noodzakelijke reis- en verblijfkosten van die wederpartij. De rechter kan onder de kosten waarin de in het ongelijk gestelde partij wordt veroordeeld, ook opnemen een door hem te bepalen bedrag voor noodzakelijke verletkosten van de wederpartij.
 
 2. Procedeert de wederpartij van de in het ongelijk gestelde partij met een gemachtigde, dan wordt onder die kosten een door de rechter te bepalen bedrag opgenomen voor salaris en noodzakelijke verschotten van de gemachtigde, tenzij de rechter om in het vonnis te vermelden redenen anders beslist.
 
-#### Artikel 239
+##### Artikel 239
 
 In zaken waarin partijen niet in persoon kunnen procederen, kunnen van de kosten van de wederpartij slechts de salarissen en verschotten van de advocaat van die wederpartij ten laste van de in het ongelijk gestelde partij worden gebracht.
 
-#### Artikel 240
+##### Artikel 240
 
 Kosten terzake van ambtshandelingen, verricht door gerechtsdeurwaarders, worden berekend overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde tarieven.
 
-#### Artikel 241
+##### Artikel 241
 
 Ter zake van verrichtingen waarvoor de in de [artikelen 237 tot en met 240](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=237&z=2026-01-01&g=2026-01-01) bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de wederpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96) worden toegekend, maar zijn alleen de regels betreffende proceskosten van toepassing. Dit artikel is niet van toepassing ter zake van kosten als bedoeld in artikel 96, vijfde lid, van Boek 6 van het Burgerlijk Wetboek.
 
-#### Artikel 242
+##### Artikel 242
 
 1. De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in [artikel 96, tweede lid, onder b en c, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96) ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten respectievelijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.
 
 2. Het eerste lid is niet van toepassing ter zake van kosten als bedoeld in [artikel 96, vijfde lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96) en geldt niet voor overeenkomsten die strekken tot regeling van een reeds gerezen geschil.
 
-#### Artikel 243
+##### Artikel 243
 
 Vervallen
 
-#### Artikel 244
+##### Artikel 244
 
 1. Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=191&z=2026-01-01&g=2026-01-01), het bedrag van de schadeloosstelling en het loon van deskundigen voorlopig in debet zijn gesteld, veroordeelt de rechter de partij die in de kosten van het geding wordt verwezen ambtshalve om dit bedrag aan de griffier te voldoen.
 
@@ -2002,7 +2025,7 @@ Vervallen
 
 3. [De tweede zin van artikel 202, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=8&artikel=202&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 245
+##### Artikel 245
 
 1. Indien blijkt dat een partij niet bestaat, of dat zij niet rechtsgeldig in het geding is verschenen doordat een daartoe niet bevoegde voor haar is opgetreden of tot het voeren van een geding opdracht heeft gegeven, geschiedt een veroordeling in de kosten, wanneer daartoe aanleiding is, in plaats van ten laste van de partij in naam van wie in rechte is opgetreden, ten laste van de gemachtigde of advocaat van die partij, of van degene die tot het voeren van het geding opdracht heeft gegeven, in het eerste geval onverminderd het verhaal van die advocaat of gemachtigde op zijn opdrachtgever.
 
@@ -2012,23 +2035,23 @@ Vervallen
 
 #### § 6. Zekerheidstelling voor proceskosten
 
-#### Artikel 246
+##### Artikel 246
 
 1. Op verlangen van partijen wordt de zaak op de rol doorgehaald.
 
 2. De enkele doorhaling op de rol heeft geen rechtsgevolgen. Partijen kunnen de rechtsgevolgen bij overeenkomst bepalen.
 
-#### Artikel 247
+##### Artikel 247
 
 Indien geen van partijen er, na in de gelegenheid te zijn gesteld zich daarover uit te laten, blijk van geeft het geding te willen voortzetten, kan de zaak ook ambtshalve op de rol worden doorgehaald.
 
-#### Artikel 248
+##### Artikel 248
 
 Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel 191](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=191&z=2026-01-01&g=2026-01-01), het bedrag van de schadeloosstelling en het loon van deskundigen voorlopig in debet zijn gesteld, beslist de rechter met overeenkomstige toepassing van [artikel 244, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=244&z=2026-01-01&g=2026-01-01), welk deel van dit bedrag elk der partijen dient te dragen en veroordeelt hen dienovereenkomstig tot voldoening aan de griffier.
 
 #### § 2. Kosten
 
-#### Artikel 249
+##### Artikel 249
 
 1. Zolang de gedaagde niet voor antwoord heeft geconcludeerd, kan de eiser afstand doen van de instantie.
 
@@ -2036,7 +2059,7 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 3. [Artikel 248](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Dertiende&paragraaf=1&artikel=248&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 250
+##### Artikel 250
 
 1. Afstand van instantie wordt gedaan bij akte ter rolle.
 
@@ -2050,7 +2073,7 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 #### § 1. Algemeen
 
-#### Artikel 251
+##### Artikel 251
 
 1. Indien de proceshandeling waarvoor de zaak staat, langer dan twaalf maanden niet is verricht, bepaalt de rechter op verlangen van de wederpartij van de partij die de proceshandeling moet verrichten, een roldatum waarop deze wederpartij verval van instantie kan vorderen, dan wel kan vragen om een laatste uitstel te verlenen aan de partij die de proceshandeling moet verrichten of om vonnis te wijzen. De rechter kan hiertoe, eveneens na verloop van twaalf maanden, ook ambtshalve een roldatum bepalen.
 
@@ -2066,13 +2089,13 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 5. Indien op de ingevolge het eerste lid bepaalde roldatum de proceshandeling waarvoor de zaak staat niet alsnog is of wordt verricht, en voorts de wederpartij van degene die de proceshandeling moet verrichten geen verval van instantie vordert noch zich anderszins uitlaat over de voortgang van het geding als bedoeld in het eerste lid, wordt de zaak op de rol doorgehaald.
 
-#### Artikel 252
+##### Artikel 252
 
 1. De kosten van de vervallen instantie worden van rechtswege gecompenseerd. De rechter kan echter, indien hij daartoe gronden aanwezig acht, een partij geheel of gedeeltelijk in de kosten veroordelen.
 
 2. [Artikel 248](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Dertiende&paragraaf=1&artikel=248&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 253
+##### Artikel 253
 
 1. Door verval van instantie worden partijen van rechtswege hersteld in de toestand als ware het geding niet in deze instantie aanhangig geweest, onverminderd het bepaalde in [artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek](onbekend).
 
@@ -2080,7 +2103,7 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 ### afdeling Dertiende. Afbreking van de instantie
 
-#### Artikel 254
+##### Artikel 254
 
 1. In alle spoedeisende zaken waarin, gelet op de belangen van partijen, een onmiddellijke voorziening bij voorraad wordt vereist, is de voorzieningenrechter bevoegd deze te geven.
 
@@ -2094,7 +2117,7 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 6. Indien de gevorderde voorziening betrekking heeft op een zaak betreffende het personen- en familierecht als bedoeld in de [zesde titel van het derde boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&z=2026-01-01&g=2026-01-01) is [artikel 803](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=803&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 255
+##### Artikel 255
 
 1. De gedaagde kan in de zaken, bedoeld in [artikel 79, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=79&z=2026-01-01&g=2026-01-01), behalve bij advocaat ook in persoon procederen, maar niet vertegenwoordigd door een gemachtigde die geen advocaat is.
 
@@ -2102,23 +2125,23 @@ Indien ten aanzien van een partij, met toepassing van [het derde lid van artikel
 
 3. In andere korte gedingen niet ingeleid met een dagvaarding, kunnen partijen behalve bij advocaat ook in persoon procederen, maar niet vertegenwoordigd door een gemachtigde die geen advocaat is.
 
-#### Artikel 256
+##### Artikel 256
 
 Indien de voorzieningenrechter oordeelt dat de zaak niet geschikt is om in kort geding te worden beslist, weigert hij de voorziening.
 
-#### Artikel 257
+##### Artikel 257
 
 De beslissingen bij voorraad brengen geen nadeel toe aan de zaak ten principale.
 
-#### Artikel 258
+##### Artikel 258
 
 De voorzieningenrechter kan zijn vonnis ook ambtshalve uitvoerbaar bij voorraad verklaren.
 
-#### Artikel 259
+##### Artikel 259
 
 Het verzet moet worden gedaan bij de voorzieningenrechter. [Artikel 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Veertiende&artikel=255&z=2026-01-01&g=2026-01-01), is niet van toepassing.
 
-#### Artikel 260
+##### Artikel 260
 
 Vervallen
 
@@ -2126,7 +2149,7 @@ Vervallen
 
 ### afdeling Eerste. Algemene bepaling
 
-#### Artikel 261
+##### Artikel 261
 
 1. Voor zover uit de wet niet anders voortvloeit, is deze titel van toepassing op alle zaken die met een verzoekschrift moeten worden ingeleid, alsmede op zaken waarin de rechter ambtshalve een beschikking geeft.
 
@@ -2134,7 +2157,7 @@ Vervallen
 
 ### afdeling Eerste. Algemene bepaling
 
-#### Artikel 262
+##### Artikel 262
 
 Tenzij de wet anders bepaalt, is bevoegd:
 
@@ -2142,37 +2165,37 @@ Tenzij de wet anders bepaalt, is bevoegd:
 
 - b. indien het verzoek betrekking heeft op een bij dagvaarding ingeleid of in te leiden geding, de rechter die bevoegd is van dat geding kennis te nemen, tenzij het verzoek niet behoort tot diens absolute bevoegdheid.
 
-#### Artikel 263
+##### Artikel 263
 
 In zaken die uitsluitend betreffen de aanvulling van de registers van de burgerlijke stand of de inschrijving, doorhaling of wijziging van daarin in te schrijven of ingeschreven akten, is bevoegd de rechter binnen wiens rechtsgebied de akte is of moet worden ingeschreven. In zaken als bedoeld in de eerste zin, die betrekking hebben op krachtens [Boek 1 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028743) in de registers van de burgerlijke stand van de gemeente ’s-Gravenhage in te schrijven of ingeschreven akten, is bevoegd de rechter van de rechtbank Den Haag.
 
-#### Artikel 264
+##### Artikel 264
 
 In zaken betreffende huur van gebouwde onroerende zaken of een gedeelte daarvan is uitsluitend bevoegd de rechter binnen wiens rechtsgebied het gehuurde of het grootste gedeelte daarvan is gelegen.
 
-#### Artikel 265
+##### Artikel 265
 
 In zaken betreffende minderjarigen is bevoegd de rechter van de woonplaats of, bij gebreke van een woonplaats in Nederland, van het werkelijk verblijf van de minderjarige.
 
-#### Artikel 266
+##### Artikel 266
 
 In zaken betreffende curatele, onderbewindstelling ter bescherming van meerderjarigen of mentorschap ten behoeve van meerderjarigen is bevoegd de rechter van de woonplaats of, bij gebreke van een woonplaats in Nederland, van het werkelijk verblijf van degene wiens curatele onderscheidenlijk goederen of mentorschap het betreft.
 
-#### Artikel 267
+##### Artikel 267
 
 In zaken van afwezigheid of vermissing is bevoegd de rechter van de verlaten woonplaats van de afwezige of vermiste. Ten aanzien van de vaststelling van overlijden is bevoegd de rechter van de rechtbank Den Haag.
 
-#### Artikel 268
+##### Artikel 268
 
 1. In zaken betreffende nalatenschappen is bevoegd de rechter van de laatste woonplaats van de overledene. In afwijking van de eerste zin is in zaken die volgens [afdeling 7 van titel 5 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=7) met een verzoekschrift moeten worden ingeleid, bevoegd de rechter van de woonplaats van de rechthebbende.
 
 2. Van de in [artikel 12, vierde lid, tweede volzin, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=12), bedoelde beschikking wordt door de griffier afschrift gezonden aan de als uitsluitend bevoegde aangewezen kantonrechter, aan de onder curatele gestelde, de rechthebbende en degene ten behoeve van wie een mentorschap is ingesteld en voorts aan de curator, de mentor en aan ieder der bewindvoerders. Van de beslissing is geen hogere voorziening toegelaten. De kantonrechter die als uitsluitend bevoegde is aangewezen, is aan die aanwijzing gebonden.
 
-#### Artikel 269
+##### Artikel 269
 
 Wijzen de [artikelen 262 tot en met 268](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Tweede&artikel=262&z=2026-01-01&g=2026-01-01) geen bevoegde rechter aan, dan is de rechter te 's-Gravenhage bevoegd.
 
-#### Artikel 270
+##### Artikel 270
 
 1. Indien de rechter, zonodig ambtshalve, beslist dat niet hij, maar een andere rechter van gelijke rang bevoegd is, verwijst hij de zaak in de stand waarin deze zich bevindt, naar die andere rechter. De griffier zendt een afschrift van de beschikking aan de rechter naar wie de zaak is verwezen. Verwijzing als bedoeld in dit lid vindt niet plaats indien de verzoeker en de opgeroepen belanghebbenden hebben aangegeven dat zij geen verwijzing wensen.
 
@@ -2182,29 +2205,29 @@ Wijzen de [artikelen 262 tot en met 268](https://wetten.overheid.nl/jci1.3:c:BWB
 
 ### afdeling Eerste. Algemene bepaling
 
-#### Artikel 271
+##### Artikel 271
 
 De oproeping van verzoekers of van in de procedure verschenen belanghebbenden geschiedt door de griffier bij gewone brief, tenzij de rechter anders bepaalt.
 
-#### Artikel 272
+##### Artikel 272
 
 De oproeping van niet in de procedure verschenen belanghebbenden van wie de woonplaats of het werkelijk verblijf onbekend zijn geschiedt door plaatsing van de oproeping in de Staatscourant. De rechter kan bepalen dat de oproeping tevens op andere wijze geschiedt.
 
 De oproeping van overige niet in de procedure verschenen belanghebbenden geschiedt door de griffier bij aangetekende brief, tenzij de rechter anders bepaalt.
 
-#### Artikel 273
+##### Artikel 273
 
 De oproeping van een rechterlijke autoriteit, het openbaar ministerie of de raad voor de kinderbescherming geschiedt door de griffier bij gewone brief.
 
-#### Artikel 274
+##### Artikel 274
 
 Oproepingen die bij brief geschieden, vermelden de dag van de verzending. Deze vermelding geschiedt niet slechts op de envelop.
 
-#### Artikel 275
+##### Artikel 275
 
 Indien de griffier een bij aangetekende brief verzonden oproeping terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk een week nadien in de daartoe bestemde registers ingeschreven stond op het op de oproeping vermelde adres, verzendt hij de oproeping onverwijld bij gewone brief. In de overige gevallen waarin de griffier de oproeping terug ontvangt, verbetert de griffier, indien mogelijk, het op de oproeping vermelde adres en verzendt hij de oproeping opnieuw bij aangetekende brief, tenzij de rechter anders bepaalt.
 
-#### Artikel 276
+##### Artikel 276
 
 1. Oproepingen vermelden de plaats, de dag en het uur van de terechtzitting. Zij worden zo spoedig mogelijk en ten minste een week vóór die dag verzonden, tenzij de rechter anders bepaalt.
 
@@ -2216,7 +2239,7 @@ Indien de griffier een bij aangetekende brief verzonden oproeping terug ontvangt
 
 3. Indien het een zaak betreft waarbij meerdere belanghebbenden zijn betrokken, bevat de oproeping tevens de mededeling dat van belanghebbenden die bij dezelfde advocaat verschijnen en gelijkluidende verweerschriften indienen, op basis van [artikel 15 van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=15) slechts eenmaal een gezamenlijk griffierecht wordt geheven.
 
-#### Artikel 277
+##### Artikel 277
 
 1. De oproeping bij brief van verzoekers of belanghebbenden die geen bekende woonplaats of bekend werkelijk verblijf in Nederland hebben, maar wel een bekende woonplaats of een bekend werkelijk verblijf in een Staat waar de [verordening (EU) 2020/1784](33684R2020) van het Europees Parlement en de Raad van 25 november 2020 inzake de betekening en de kennisgeving in de lidstaten van gerechtelijke en buitengerechtelijke stukken in burgerlijke of in handelszaken (de betekening en kennisgeving van stukken) van toepassing is, geschiedt door rechtstreekse verzending overeenkomstig artikel 18 van de verordening. In plaats daarvan mag het gerecht ook een vertaling van de oproeping verzenden in een taal als bedoeld in artikel 12, eerste lid, van de verordening. Het gerecht maakt in de oproeping melding van de verzending, alsmede van het volgende:
 
@@ -2248,7 +2271,7 @@ Het gerecht maakt in de oproeping melding van de verzending, alsmede van volgend
 
 ### afdeling Derde. Oproeping
 
-#### Artikel 278
+##### Artikel 278
 
 1. Het verzoekschrift vermeldt de voornamen, naam en woonplaats of, bij gebreke van een woonplaats in Nederland, het werkelijk verblijf van de verzoeker, alsmede een duidelijke omschrijving van het verzoek en de gronden waarop het berust. In zaken betreffende een nalatenschap vermeldt het verzoekschrift tevens de laatste woonplaats van de overledene of de reden waarom deze vermelding niet mogelijk is. De [artikelen 111, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), en [120, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=120&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing, tenzij de aard van de zaak of de procedure zich hiertegen verzet.
 
@@ -2258,7 +2281,7 @@ Het gerecht maakt in de oproeping melding van de verzending, alsmede van volgend
 
 4. De griffier tekent de dag van indiening of de dag van terhandstelling aan de voorzieningenrechter op het verzoekschrift aan.
 
-#### Artikel 279
+##### Artikel 279
 
 1. De rechter bepaalt, tenzij hij zich aanstonds onbevoegd verklaart of het verzoek toewijst, onverwijld dag en uur waarop de behandeling aanvangt. Hij beveelt tevens oproeping van de verzoeker en voor zover nodig van de in het verzoekschrift genoemde belanghebbenden. Bovendien kan hij te allen tijde belanghebbenden, bekende of onbekende, doen oproepen.
 
@@ -2272,17 +2295,17 @@ Het gerecht maakt in de oproeping melding van de verzending, alsmede van volgend
 
 6. De [artikelen 87 tot en met 90](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing, tenzij de aard van de zaak of de procedure zich hiertegen verzet.
 
-#### Artikel 280
+##### Artikel 280
 
 In zaken waarin de indiening van het verzoekschrift niet door een advocaat behoeft te geschieden, zijn de [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=80&z=2026-01-01&g=2026-01-01) en [81](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=81&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 281
+##### Artikel 281
 
 1. Indien het verzoekschrift ten onrechte niet door een advocaat is ingediend, biedt de rechter de verzoeker de gelegenheid binnen een door hem te bepalen termijn dit verzuim te herstellen. Maakt de verzoeker van deze gelegenheid geen gebruik, dan wordt hij in het verzoek niet ontvankelijk verklaard.
 
 2. Tegen een beslissing ingevolge het eerste lid staat geen hogere voorziening open.
 
-#### Artikel 282
+##### Artikel 282
 
 1. Iedere belanghebbende kan tot de aanvang van de behandeling of, indien de rechter dit toestaat, in de loop van de behandeling een verweerschrift indienen. [Artikel 278](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=278&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing met dien verstande dat, indien de rechter dit bepaalt, indiening van een verweerschrift in de loop van de behandeling kan geschieden ter terechtzitting onder verstrekking van een afschrift aan de verzoeker en de andere opgeroepen belanghebbenden.
 
@@ -2292,41 +2315,41 @@ In zaken waarin de indiening van het verzoekschrift niet door een advocaat behoe
 
 4. Het verweerschrift mag een zelfstandig verzoek bevatten, mits dit betrekking heeft op het onderwerp van het oorspronkelijke verzoek. De rechter kan aan de verzoeker en aan de overige belanghebbenden gelegenheid geven tegen dit zelfstandige verzoek een verweerschrift in te dienen.
 
-#### Artikel 283
+##### Artikel 283
 
 Zolang de rechter nog geen eindbeschikking heeft gegeven, is de verzoeker bevoegd het verzoek of de gronden daarvan te verminderen, dan wel schriftelijk te veranderen of te vermeerderen. In het geval van verandering of vermeerdering is [artikel 130](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=130&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 284
+##### Artikel 284
 
 1. De negende afdeling van de tweede titel is van overeenkomstige toepassing, tenzij de aard van de zaak zich hiertegen verzet.
 
 2. De overeenkomstige toepassing van de [artikelen 187](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=187&z=2026-01-01&g=2026-01-01) en [191](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=5&artikel=191&z=2026-01-01&g=2026-01-01) vindt aldus plaats dat de daarin bedoelde voorschotheffing, tenuitvoerlegging of voorlopige indebetstelling geschiedt ten laste van de belanghebbende die het verzoekschrift heeft ingediend dan wel mede of uitsluitend ten laste van een of meer andere door de rechter aangewezen belanghebbenden.
 
-#### Artikel 285
+##### Artikel 285
 
 1. De rechter kan, indien een verzoekschrift over hetzelfde of een verknocht onderwerp reeds bij een andere rechter is ingediend, de verwijzing naar die andere rechter bevelen. Een verzoek daartoe kan worden gedaan tot de aanvang van de behandeling. De griffier zendt een afschrift van de beschikking aan de rechter naar wie is verwezen.
 
 2. Indien bij dezelfde rechter meer verzoekschriften over hetzelfde of een verknocht onderwerp zijn ingediend, kan de voeging daarvan worden bevolen. Een verzoek daartoe kan worden gedaan tot het einde van de behandeling.
 
-#### Artikel 286
+##### Artikel 286
 
 De rechter bepaalt na afloop van de behandeling de dag waarop hij uitspraak zal doen en deelt deze dag aan de verzoeker en de in de procedure verschenen belanghebbenden mede. Op verlangen van de verzoeker en de in de procedure verschenen belanghebbenden kan de rechter de uitspraak uitstellen.
 
-#### Artikel 287
+##### Artikel 287
 
 1. Op een beschikking is [artikel 230, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=230&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
 2. Indien het verzoekschrift rechtstreeks aan de voorzieningenrechter ter hand is gesteld en de voorzieningenrechter toewijzend op het verzoek beschikt, is ook [artikel 230, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=230&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 288
+##### Artikel 288
 
 De rechter kan de eindbeschikking uitvoerbaar bij voorraad verklaren, met of zonder zekerheidstelling.
 
-#### Artikel 289
+##### Artikel 289
 
 De eindbeschikking kan tevens een veroordeling in de proceskosten inhouden. [Artikel 244](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=244&z=2026-01-01&g=2026-01-01) is van toepassing.
 
-#### Artikel 290
+##### Artikel 290
 
 1. De verzoeker en iedere belanghebbende hebben recht op inzage en afschrift van het verzoekschrift, de verweerschriften, de op de zaak betrekking hebbende bescheiden en de processen-verbaal.
 
@@ -2338,169 +2361,169 @@ De eindbeschikking kan tevens een veroordeling in de proceskosten inhouden. [Art
 
 5. Elk afschrift dat in executoriale vorm is opgemaakt, wordt gedagtekend.
 
-#### Artikel 291
+##### Artikel 291
 
 De verzending van processtukken en van mededelingen aan de verzoeker en belanghebbenden, geschiedt op de wijze als in de derde afdeling van deze titel voor oproepingen bepaald.
 
-#### Artikel 292
+##### Artikel 292
 
 Vervallen
 
-#### Artikel 293
+##### Artikel 293
 
 Vervallen
 
-#### Artikel 294
+##### Artikel 294
 
 Vervallen
 
-#### Artikel 295
+##### Artikel 295
 
 Vervallen
 
-#### Artikel 296
+##### Artikel 296
 
 Vervallen
 
-#### Artikel 297
+##### Artikel 297
 
 Vervallen
 
-#### Artikel 298
+##### Artikel 298
 
 Vervallen
 
-#### Artikel 299
+##### Artikel 299
 
 Vervallen
 
-#### Artikel 300
+##### Artikel 300
 
 Vervallen
 
-#### Artikel 301
+##### Artikel 301
 
 Vervallen
 
-#### Artikel 302
+##### Artikel 302
 
 Vervallen
 
 ## titel Vierde
 
-#### Artikel 303
+##### Artikel 303
 
 Vervallen
 
-#### Artikel 304
+##### Artikel 304
 
 Vervallen
 
-#### Artikel 305
+##### Artikel 305
 
 Vervallen
 
-#### Artikel 306
+##### Artikel 306
 
 Vervallen
 
-#### Artikel 307
+##### Artikel 307
 
 Vervallen
 
-#### Artikel 308
+##### Artikel 308
 
 Vervallen
 
-#### Artikel 309
+##### Artikel 309
 
 Vervallen
 
-#### Artikel 310
+##### Artikel 310
 
 Vervallen
 
-#### Artikel 311
+##### Artikel 311
 
 Vervallen
 
-#### Artikel 312
+##### Artikel 312
 
 Vervallen
 
-#### Artikel 313
+##### Artikel 313
 
 Vervallen
 
-#### Artikel 314
+##### Artikel 314
 
 Vervallen
 
-#### Artikel 315
+##### Artikel 315
 
 Vervallen
 
-#### Artikel 316
+##### Artikel 316
 
 Vervallen
 
-#### Artikel 317
+##### Artikel 317
 
 Vervallen
 
-#### Artikel 318
+##### Artikel 318
 
 Vervallen
 
-#### Artikel 319
+##### Artikel 319
 
 Vervallen
 
-#### Artikel 320
+##### Artikel 320
 
 Vervallen
 
-#### Artikel 320a
+##### Artikel 320a
 
 Vervallen
 
-#### Artikel 373
+##### Artikel 373
 
 Vervallen
 
-#### Artikel 374
+##### Artikel 374
 
 Vervallen
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
-#### Artikel 376
+##### Artikel 376
 
 Derden zijn bevoegd zich te verzetten tegen een vonnis hetwelk hunne regten benadeelt, indien zij noch in persoon, noch wettiglijk vertegenwoordigd, of indien zij welke zij vertegenwoordigen, in het regtsgeding niet zijn geroepen, of door voeging of tusschenkomst geene partij zijn geweest.
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -2510,13 +2533,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -2524,105 +2547,105 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2026-01-01&g=2026-01-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2026-01-01&g=2026-01-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 320b
+##### Artikel 320b
 
 Vervallen
 
-#### Artikel 320c
+##### Artikel 320c
 
 Vervallen
 
-#### Artikel 320d
+##### Artikel 320d
 
 Vervallen
 
-#### Artikel 320e
+##### Artikel 320e
 
 Vervallen
 
-#### Artikel 320f
+##### Artikel 320f
 
 Vervallen
 
-#### Artikel 320g
+##### Artikel 320g
 
 Vervallen
 
-#### Artikel 321
+##### Artikel 321
 
 Vervallen
 
 ## titel Vijfde
 
-#### Artikel 322
+##### Artikel 322
 
 Vervallen
 
-#### Artikel 323
+##### Artikel 323
 
 Vervallen
 
-#### Artikel 324
+##### Artikel 324
 
 Vervallen
 
-#### Artikel 325
+##### Artikel 325
 
 Vervallen
 
-#### Artikel 326
+##### Artikel 326
 
 Vervallen
 
-#### Artikel 327
+##### Artikel 327
 
 Vervallen
 
-#### Artikel 328
+##### Artikel 328
 
 Vervallen
 
 ## titel Zesde. Prorogatie van rechtspraak aan het gerechtshof
 
-#### Artikel 329
+##### Artikel 329
 
 In alle voor hoger beroep bij het gerechtshof vatbare geschillen over zaken die ter vrije bepaling van de partijen staan, kunnen partijen overeenkomen die geschillen bij de aanvang van het geding dadelijk ter kennis te brengen van het gerechtshof dat in hoger beroep bevoegd zou zijn.
 
-#### Artikel 330
+##### Artikel 330
 
 Voogden, curators of bewindvoerders zijn hiervan niet uitgesloten, mits zij daarbij de verplichtingen in acht nemen die bij wet aan hen zijn opgelegd.
 
-#### Artikel 331
+##### Artikel 331
 
 1. Voor het gerechtshof gelden, bij deze rechtsgedingen, de voorschriften, ten aanzien van het rechtsgeding in eerste aanleg.
 
@@ -2632,7 +2655,7 @@ Voogden, curators of bewindvoerders zijn hiervan niet uitgesloten, mits zij daar
 
 ### afdeeling Eerste. Van de zaken aan hooger beroep onderworpen
 
-#### Artikel 332
+##### Artikel 332
 
 1. Partijen kunnen van een in eerste aanleg gewezen vonnis in hoger beroep komen, tenzij de vordering waarover de rechter in eerste aanleg had te beslissen niet meer beloopt dan € 1750 of, in geval van een vordering van onbepaalde waarde, er duidelijke aanwijzingen bestaan dat de vordering geen hogere waarde vertegenwoordigt dan € 1750, een en ander tenzij de wet anders bepaalt. Voor de toepassing van de eerste zin wordt de tot aan de dag van dagvaarding in eerste aanleg verschenen rente bij de vordering inbegrepen.
 
@@ -2640,37 +2663,37 @@ Voogden, curators of bewindvoerders zijn hiervan niet uitgesloten, mits zij daar
 
 3. Was in eerste aanleg een eis in reconventie ingesteld, dan is voor de toepassing van het eerste lid beslissend het totale beloop of de totale waarde van de vordering in conventie en van de vordering in reconventie, met dien verstande dat met betrekking tot de vordering in reconventie de rente wordt berekend tot aan de dag van instelling van de eis in reconventie. Indien echter de beide zaken zijn gesplitst en daarin afzonderlijk is beslist, zijn op elk van beide vonnissen de gewone regels voor de vatbaarheid voor hoger beroep van toepassing.
 
-#### Artikel 333
+##### Artikel 333
 
 Geen hoger beroep staat open in zaken die slechts rechtsgevolgen betreffen die ter vrije bepaling van partijen staan en waarbij partijen zijn overeengekomen van hoger beroep af te zien. In zaken als bedoeld in [artikel 96](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=96&z=2026-01-01&g=2026-01-01) staat hoger beroep slechts open indien partijen zich dat beroep, binnen de grenzen van [artikel 332](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Eerste&artikel=332&z=2026-01-01&g=2026-01-01), hebben voorbehouden.
 
-#### Artikel 334
+##### Artikel 334
 
 Elke partij welke zal berust hebben in een vonnis, kan niet meer ontvankelijk zijn om daarvan te komen in hooger beroep.
 
-#### Artikel 335
+##### Artikel 335
 
 1. Van veroordeelingen bij verstek valt geen hooger beroep, doch indien de oorspronkelijke eischer van het vonnis in hooger beroep komt, zal de gedaagde alle zijne verdedigingen insgelijks in het hooger beroep kunnen doen gelden, zelfs bij wege van incidenteel beroep, zonder van het middel van verzet in eersten aanleg meer te kunnen gebruik maken.
 
 2. In afwijking van het eerste lid kan de gedaagde die niet is verschenen of het griffierecht niet tijdig heeft voldaan van een vonnis als bedoeld in [artikel 140, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Zevende&artikel=140&z=2026-01-01&g=2026-01-01), in hoger beroep komen, mits hij vooraf bij voorraad, tegen het stellen van zekerheid, aan het vonnis voldoet, zelfs wanneer dat vonnis niet uitvoerbaar bij voorraad was verklaard.
 
-#### Artikel 336
+##### Artikel 336
 
 Vervallen
 
-#### Artikel 337
+##### Artikel 337
 
 1. Van vonnissen waarbij een voorlopige voorziening wordt getroffen of geweigerd, kan hoger beroep worden ingesteld voordat het eindvonnis is gewezen.
 
 2. Van andere tussenvonnissen kan hoger beroep slechts tegelijk met dat van het eindvonnis worden ingesteld, tenzij de rechter anders heeft bepaald.
 
-#### Artikel 338
+##### Artikel 338
 
 Vervallen
 
 ### afdeeling Tweede. Van den termijn van beroep
 
-#### Artikel 339
+##### Artikel 339
 
 1. De termijn voor het instellen van hoger beroep is drie maanden, te rekenen van de dag van de uitspraak van het vonnis dan wel de dag van de mondelinge uitspraak als bedoeld in [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2026-01-01&g=2026-01-01).
 
@@ -2682,47 +2705,47 @@ Vervallen
 
 5. Indien in eerste aanleg een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het hoger beroep daartegen open tot het moment dat in de hoofdzaak in hoger beroep de conclusie van antwoord wordt genomen.
 
-#### Artikel 340
+##### Artikel 340
 
 Indien tijdig beroep in cassatie van een vonnis is ingesteld, doch dit vonnis voor cassatie niet vatbaar wordt bevonden, vangt de termijn van beroep van dat vonnis opnieuw aan te rekenen van de dag der uitspraak in cassatie, mits het beroep in cassatie werd ingesteld binnen de termijn van beroep.
 
-#### Artikel 341
+##### Artikel 341
 
 Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de termijn voor het hoger beroep, kan het beroep door haar erfgenamen of rechtverkrijgenden nog worden ingesteld binnen drie maanden na het overlijden, of binnen een maand na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 342
+##### Artikel 342
 
 Vervallen
 
 ### afdeeling Tweede. Van den termijn van beroep
 
-#### Artikel 343
+##### Artikel 343
 
 Het hoger beroep wordt aangevangen door een dagvaarding in dezelfde vorm en met dezelfde vereisten als die in eerste aanleg, zonder dat zij de middelen waarop het hoger beroep gegrond is, behoeft uit te drukken. [Artikel 111, tweede lid, onder i, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), is niet van toepassing. In aanvulling op artikel 111, tweede lid, vermeldt de dagvaarding ook de gevolgen van niet tijdige betaling van het griffierecht.
 
-#### Artikel 344
+##### Artikel 344
 
 1. Alle zaken die in hoger beroep bij de hogere rechter aanhangig worden gemaakt, worden ingeschreven ter rolle van een enkelvoudige kamer en door haar behandeld.
 
 2. De enkelvoudige kamer verwijst een zaak, ingevolge dit artikel bij haar aanhangig, naar een meervoudige kamer indien zij dit wenselijk acht, doch uiterlijk wanneer een mondelinge behandeling als bedoeld in [artikel 87](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01) zal worden gehouden of uitspraak zal worden gedaan.
 
-#### Artikel 344a
+##### Artikel 344a
 
 Vervallen
 
-#### Artikel 344b
+##### Artikel 344b
 
 De voorschriften omtrent de behandeling in hoger beroep zijn zowel op de behandeling door de enkelvoudige als op die door de meervoudige kamer van toepassing, met dien verstande, dat degene die zitting heeft in een enkelvoudige kamer tevens de bevoegdheden bezit die aan de voorzitter van een meervoudige kamer toekomen.
 
-#### Artikel 345
+##### Artikel 345
 
 Vervallen
 
-#### Artikel 346
+##### Artikel 346
 
 Vervallen
 
-#### Artikel 347
+##### Artikel 347
 
 1. In hoger beroep worden een conclusie van eis en een conclusie van antwoord genomen.
 
@@ -2730,29 +2753,29 @@ Vervallen
 
 3. Niettemin zal ingeval van incidenteel beroep of indien door den verweerder eene exceptie tegen het principaal beroep wordt aangevoerd, den appellant, op zijn verlangen, een termijn verleend worden om het incidenteel beroep of de voorgestelde exceptie bij conclusie te beantwoorden.
 
-#### Artikel 348
+##### Artikel 348
 
 De oorspronkelijke verweerder kan nieuwe weren van regten, eene verdediging ten principale opleverende, inbrengen, tenzij dezelve in het geding ter eerster instantie zijn gedekt, waaronder niet begrepen is het geval, dat het regt om ten principale te antwoorden ingevolge [artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2026-01-01&g=2026-01-01) vervallen is.
 
-#### Artikel 349
+##### Artikel 349
 
 Zoo wel in het principaal als in het incidenteel beroep, kunnen de nieuwe verweringen, waarvan in het voorgaande artikel is gesproken, gedaan worden bij met redenen omkleede conclusiën.
 
-#### Artikel 350
+##### Artikel 350
 
 1. Het hooger beroep schorst de ten uitvoerlegging van het vonnis, indien daarbij niet is bepaald, dat hetzelve bij voorraad zal worden ten uitvoer gelegd in de gevallen waarin dit is toegelaten.
 
 2. Het hoger beroep, ingesteld tegen een tussenvonnis waartegen ingevolge [artikel 337, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Eerste&artikel=337&z=2026-01-01&g=2026-01-01), geen hoger beroep openstaat voordat het eindvonnis is gewezen of ingesteld met gebruikmaking van de nieuwe termijn ingevolge [artikel 340](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=340&z=2026-01-01&g=2026-01-01), schorst de tenuitvoerlegging niet.
 
-#### Artikel 351
+##### Artikel 351
 
 Indien hoger beroep is ingesteld tegen een vonnis dat uitvoerbaar bij voorraad is verklaard, kan de hogere rechter op vordering van een partij alsnog de tenuitvoerlegging van het vonnis schorsen.
 
-#### Artikel 352
+##### Artikel 352
 
 Vervallen
 
-#### Artikel 353
+##### Artikel 353
 
 1. Voor zover uit deze titel dan wel uit een andere wettelijke regeling niet anders voortvloeit, is de tweede titel in hoger beroep van overeenkomstige toepassing, met dien verstande dat partijen slechts bij advocaat kunnen procederen, dat [artikel 131](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=131&z=2026-01-01&g=2026-01-01) niet van toepassing is en dat geen eis in reconventie kan worden ingesteld.
 
@@ -2766,27 +2789,27 @@ De in eersten aanleg gestelde zekerheid blijft ook verbonden voor de kosten van 
 
 De zekerheidstelling wordt gevorderd vóór alle weren van regten.
 
-#### Artikel 354
+##### Artikel 354
 
 Vervallen
 
-#### Artikel 355
+##### Artikel 355
 
 In geval van beroep van een tussenvonnis verwijst de rechter in beroep, wanneer hij het vonnis bekrachtigt, de zaak naar de rechter in eerste aanleg om op de hoofdzaak te worden beslist.
 
 Niettemin kan de rechter in beroep de hoofdzaak in het hoogste ressort zelf afdoen op eenstemmig verlangen van partijen of indien het geding in staat van wijzen is.
 
-#### Artikel 356
+##### Artikel 356
 
 Wanneer de rechter in hoger beroep een tussenvonnis vernietigt, kan hij de zaak aan zich houden om in hoger beroep op de hoofdzaak te beslissen.
 
-#### Artikel 357
+##### Artikel 357
 
 Vervallen
 
 ### afdeling Derde. Van de regtspleging in hooger beroep en de gevolgen van hetzelve
 
-#### Artikel 358
+##### Artikel 358
 
 1. Tegen eindbeschikkingen in zaken als bedoeld in [artikel 261](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Eerste&artikel=261&z=2026-01-01&g=2026-01-01) staat, behoudens berusting, hoger beroep open.
 
@@ -2798,11 +2821,11 @@ Vervallen
 
 5. Indien hoger beroep is ingesteld, kan ondanks het verstrijken van de in de eerste zin van het tweede lid genoemde termijn en ondanks berusting ieder van de aldaar genoemde personen alsnog bij verweerschrift incidenteel hoger beroep instellen.
 
-#### Artikel 359
+##### Artikel 359
 
 Hoger beroep wordt ingesteld door indiening van een beroepschrift ter griffie van het gerechtshof. Het beroepschrift vermeldt, naast hetgeen ingevolge [artikel 278, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=278&z=2026-01-01&g=2026-01-01), in het verzoekschrift moet worden vermeld, naam en woonplaats van hen die in eerste aanleg in de procedure zijn verschenen of bij name zijn opgeroepen.
 
-#### Artikel 360
+##### Artikel 360
 
 1. Hoger beroep schorst de werking, tenzij de beschikking uitvoerbaar bij voorraad is verklaard.
 
@@ -2810,7 +2833,7 @@ Hoger beroep wordt ingesteld door indiening van een beroepschrift ter griffie va
 
 3. Het hoger beroep ingesteld tegen een tussenbeschikking waartegen ingevolge [artikel 358, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Vierde&artikel=358&z=2026-01-01&g=2026-01-01), geen hoger beroep openstaat, schorst de werking niet.
 
-#### Artikel 361
+##### Artikel 361
 
 1. De rechter bepaalt dag en uur waarop de behandeling aanvangt. Hij beveelt tevens oproeping van de appellant, van de verzoeker in eerste aanleg en van de in eerste aanleg in de procedure verschenen belanghebbenden. Bovendien kan hij te allen tijde belanghebbenden, bekende of onbekende, doen oproepen.
 
@@ -2820,87 +2843,87 @@ Hoger beroep wordt ingesteld door indiening van een beroepschrift ter griffie va
 
 4. Indien een belanghebbende incidenteel hoger beroep heeft ingesteld, kunnen de appellant en de in hoger beroep opgeroepen belanghebbenden daartegen binnen vier weken na de toezending aan hen van een afschrift van het verweerschrift waarbij dit incidentele hoger beroep is ingesteld, een verweerschrift indienen, tenzij de rechter anders bepaalt.
 
-#### Artikel 362
+##### Artikel 362
 
 Voor zover uit deze afdeling dan wel uit een andere wettelijke regeling niet anders voortvloeit, is de derde titel in hoger beroep van overeenkomstige toepassing, met dien verstande dat [artikel 285](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=285&z=2026-01-01&g=2026-01-01) niet van toepassing is en dat geen zelfstandig verzoek kan worden gedaan.
 
 ## titel Achtste
 
-#### Artikel 363
+##### Artikel 363
 
 Vervallen
 
-#### Artikel 364
+##### Artikel 364
 
 Vervallen
 
-#### Artikel 365
+##### Artikel 365
 
 Vervallen
 
-#### Artikel 366
+##### Artikel 366
 
 Vervallen
 
-#### Artikel 367
+##### Artikel 367
 
 Vervallen
 
-#### Artikel 368
+##### Artikel 368
 
 Vervallen
 
-#### Artikel 369
+##### Artikel 369
 
 Vervallen
 
-#### Artikel 370
+##### Artikel 370
 
 Vervallen
 
-#### Artikel 371
+##### Artikel 371
 
 Vervallen
 
-#### Artikel 372
+##### Artikel 372
 
 Vervallen
 
-#### Artikel 373
+##### Artikel 373
 
 Vervallen
 
-#### Artikel 374
+##### Artikel 374
 
 Vervallen
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
 ## titel Achtste
 
-#### Artikel 376
+##### Artikel 376
 
 Derden zijn bevoegd zich te verzetten tegen een vonnis hetwelk hunne regten benadeelt, indien zij noch in persoon, noch wettiglijk vertegenwoordigd, of indien zij welke zij vertegenwoordigen, in het regtsgeding niet zijn geroepen, of door voeging of tusschenkomst geene partij zijn geweest.
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -2908,7 +2931,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -2918,13 +2941,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2004-05-01&g=2004-05-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -2932,39 +2955,39 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2004-05-01&g=2004-05-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2004-05-01&g=2004-05-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2004-05-01&g=2004-05-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2004-05-01&g=2004-05-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -2972,35 +2995,35 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 320h
+##### Artikel 320h
 
 Vervallen
 
-#### Artikel 320i
+##### Artikel 320i
 
 Vervallen
 
-#### Artikel 320j
+##### Artikel 320j
 
 Vervallen
 
-#### Artikel 320k
+##### Artikel 320k
 
 Vervallen
 
-#### Artikel 401a
+##### Artikel 401a
 
 1. Van uitspraken, waarbij een voorlopige voorziening wordt toegestaan of geweigerd, kan beroep in cassatie worden ingesteld voordat de einduitspraak is gewezen.
 
 2. Van andere tussenvonnissen of tussenarresten kan beroep in cassatie slechts tegelijk met dat van het eindvonnis of eindarrest worden ingesteld, tenzij de rechter anders heeft bepaald of [artikel 75, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Achtste&artikel=75&z=2026-01-01&g=2026-01-01), van toepassing is.
 
-#### Artikel 401b
+##### Artikel 401b
 
 1. Van een bij verstek gewezen uitspraak kan de niet-verschenen partij geen beroep in cassatie instellen.
 
 2. Zij kan echter, indien een der andere partijen beroep in cassatie instelt, bij de Hoge Raad verweer voeren en zelfs incidenteel beroep in cassatie instellen.
 
-#### Artikel 401c
+##### Artikel 401c
 
 1. Indien het beroep in cassatie van een bij verstek gewezen uitspraak wordt ingesteld, terwijl verzet nog open staat, kan de verweerder niet meer verzet doen, indien hij heeft gebruik gemaakt van de bevoegdheid, hem in [artikel 401**b**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste_A&artikel=401b&z=2026-01-01&g=2026-01-01), toegekend.
 
@@ -3010,37 +3033,37 @@ Vervallen
 
 ### afdeling Tweede. Van de termijn van beroep en van deszelfs schorsende kracht
 
-#### Artikel 320l
+##### Artikel 320l
 
 Vervallen
 
-#### Artikel 320m
+##### Artikel 320m
 
 Vervallen
 
-#### Artikel 320n
+##### Artikel 320n
 
 Vervallen
 
-#### Artikel 320o
+##### Artikel 320o
 
 Vervallen
 
-#### Artikel 320p
+##### Artikel 320p
 
 Vervallen
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 320q
+##### Artikel 320q
 
 Vervallen
 
-#### Artikel 320r
+##### Artikel 320r
 
 Vervallen
 
-#### Artikel 408a
+##### Artikel 408a
 
 1. Alle zaken worden door de enkelvoudige kamer in behandeling genomen.
 
@@ -3056,49 +3079,49 @@ Vervallen
 
 4. Voor de toepassing van de [artikelen 412, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=412&z=2026-01-01&g=2026-01-01), [417](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=417&z=2026-01-01&g=2026-01-01) en [418, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=418&z=2026-01-01&g=2026-01-01) geldt de schriftelijke toelichting als bedoeld in het tweede lid, onderdeel **a**, en in het derde lid als pleidooi.
 
-#### Artikel 320s
+##### Artikel 320s
 
 Vervallen
 
-#### Artikel 320t
+##### Artikel 320t
 
 Vervallen
 
-#### Artikel 320u
+##### Artikel 320u
 
 Vervallen
 
-#### Artikel 320v
+##### Artikel 320v
 
 Vervallen
 
-#### Artikel 320w
+##### Artikel 320w
 
 Vervallen
 
-#### Artikel 320x
+##### Artikel 320x
 
 Vervallen
 
-#### Artikel 320y
+##### Artikel 320y
 
 Vervallen
 
-#### Artikel 320z
+##### Artikel 320z
 
 Vervallen
 
-#### Artikel 417
+##### Artikel 417
 
 De pleidooien kunnen ook worden gehouden door andere dan de volgens de [artikelen 407](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2026-01-01&g=2026-01-01) en [409](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=409&z=2026-01-01&g=2026-01-01) aangewezen advocaten, zonder dat de daaruit ontstaande vermeerdering van kosten in de uitspraak over de kosten begrepen is.
 
-#### Artikel 418
+##### Artikel 418
 
 1. Na de pleidooien neemt de procureur-generaal bij de Hoge Raad conclusie, hetzij onmiddellijk, hetzij op een daartoe te bepalen dag.
 
 2. Tenzij de Hoge Raad dadelijk uitspraak doet, bepaalt hij de dag, waarop dit zal geschieden. [Artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 418a
+##### Artikel 418a
 
 Voor zover uit deze titel niet anders voortvloeit, zijn van de tweede titel de [artikelen 117 tot en met 122](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=117&z=2026-01-01&g=2026-01-01), de [zevende tot en met de negende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Zevende&z=2026-01-01&g=2026-01-01), alsmede de [elfde tot en met de dertiende afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -3108,7 +3131,7 @@ Voor zover uit deze titel niet anders voortvloeit, zijn van de tweede titel de [
 
 ### afdeling Derde. Van de rechtspleging in cassatie
 
-#### Artikel 419
+##### Artikel 419
 
 1. De Hoge Raad bepaalt zich bij zijn onderzoek tot de middelen waarop het beroep in cassatie steunt.
 
@@ -3118,23 +3141,23 @@ Voor zover uit deze titel niet anders voortvloeit, zijn van de tweede titel de [
 
 4. De Hoge Raad geeft omtrent de kosten van het geding zodanige uitspraak als hij vermeent te behoren.
 
-#### Artikel 420
+##### Artikel 420
 
 Bij vernietiging van de bestreden uitspraak doet de Hoge Raad het geding zelf af, voor zover er niet op de voet van de navolgende bepalingen gronden zijn voor verwijzing.
 
-#### Artikel 421
+##### Artikel 421
 
 Indien na de vernietiging dient te worden beslist over feiten, waaromtrent nog geen uitspraak is gedaan, verwijst de Hoge Raad het geding, tenzij het een punt van ondergeschikte aard betreft, waarover de Hoge Raad op grond van de stukken van het geding een beslissing kan geven.
 
-#### Artikel 422
+##### Artikel 422
 
 Indien na de vernietiging dient te worden beslist over rechtspunten, waaromtrent nog geen uitspraak is gedaan, zal de Hoge Raad naar bevind van omstandigheden daaromtrent een beslissing geven dan wel daartoe het geding verwijzen.
 
-#### Artikel 422a
+##### Artikel 422a
 
 Het geding wordt verwezen naar de rechter, wiens uitspraak vernietigd is, tenzij er overeenkomstig het bepaalde bij de [artikelen 76](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Achtste&artikel=76&z=2026-01-01&g=2026-01-01) en [355](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Derde&artikel=355&z=2026-01-01&g=2026-01-01) reden is tot verwijzing naar de rechter van eerste aanleg.
 
-#### Artikel 423
+##### Artikel 423
 
 De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens uitspraak vernietigd is, het verwijzen naar een andere rechter en wel:
 
@@ -3142,17 +3165,17 @@ De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens ui
 
 - 2°. wanneer de vernietigde uitspraak was gewezen door een gerechtshof, naar een ander gerechtshof.
 
-#### Artikel 424
+##### Artikel 424
 
 De rechter, naar wie het geding is verwezen, zet de behandeling daarvan voort en beslist met inachtneming van de uitspraak van de Hoge Raad.
 
-#### Artikel 425
+##### Artikel 425
 
 Verzet is niet toegelaten tegen arresten die door de Hoge Raad bij verstek in cassatie zijn gewezen.
 
 ### afdeling Derde. Van de rechtspleging in cassatie in vorderingsprocedures
 
-#### Artikel 426
+##### Artikel 426
 
 1. Van beschikkingen kan beroep in cassatie worden ingesteld door degenen, die in een van de vorige instanties verschenen zijn, binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -3162,29 +3185,29 @@ Verzet is niet toegelaten tegen arresten die door de Hoge Raad bij verstek in ca
 
 4. De [artikelen 399](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste_A&artikel=399&z=2026-01-01&g=2026-01-01), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste_A&artikel=400&z=2026-01-01&g=2026-01-01), [401a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste_A&artikel=401a&z=2026-01-01&g=2026-01-01), [403](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Tweede&artikel=403&z=2026-01-01&g=2026-01-01) en [404](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Tweede&artikel=404&z=2026-01-01&g=2026-01-01) en de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=79) en [80 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80) zijn van overeenkomstige toepassing.
 
-#### Artikel 426a
+##### Artikel 426a
 
 1. Het beroep in cassatie wordt ingesteld bij een procesinleiding, die wordt getekend door een advocaat bij de Hoge Raad en wordt ingediend op de wijze bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=397&z=2026-01-01&g=2026-01-01).
 
 2. De procesinleiding behelst de omschrijving van de middelen waarop het beroep in cassatie steunt.
 
-#### Artikel 426b
+##### Artikel 426b
 
 De verweerder heeft voor het indienen van een door een advocaat bij de Hoge Raad getekend verweerschrift een termijn van drie weken nadat de griffier hem heeft bericht over de indiening van het cassatieberoep. [Artikel 276](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Derde&artikel=276&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het bericht van de griffier.
 
-#### Artikel 427
+##### Artikel 427
 
 1. Bij het verweerschrift kan de verweerder, ondanks het verstrijken van de in [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Vijfde&artikel=426&z=2026-01-01&g=2026-01-01) gestelde termijnen en ondanks berusting, van zijn zijde in cassatie komen.
 
 2. [Artikel 426**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Vijfde&artikel=426a&z=2026-01-01&g=2026-01-01), en [artikel 410, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=410&z=2026-01-01&g=2026-01-01), zijn van toepassing.
 
-#### Artikel 427a
+##### Artikel 427a
 
 1. In geval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principaal cassatieberoep wordt aangevoerd, kan de verzoeker tot cassatie binnen drie weken na de indiening daarvan antwoorden bij door een advocaat bij de Hoge Raad getekend verweerschrift.
 
 2. [Artikel 276](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Derde&artikel=276&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het bericht van de griffier.
 
-#### Artikel 428
+##### Artikel 428
 
 1. Tenzij de Hoge Raad toepassing geeft aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a), kan de Hoge Raad, indien het belang der zaak dit geraden doet voorkomen, hetzij ambtshalve, hetzij op daartoe strekkend verzoek, een toelichting door de advocaten bevelen.
 
@@ -3192,11 +3215,11 @@ De verweerder heeft voor het indienen van een door een advocaat bij de Hoge Raad
 
 3. De toelichting kan ook worden gegeven door andere advocaten, zonder dat de daaruit ontstaande vermeerdering van kosten in de uitspraak over de kosten begrepen is.
 
-#### Artikel 428a
+##### Artikel 428a
 
 Voor zover uit deze afdeling niet anders voortvloeit, is [artikel 284](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=284&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 429
+##### Artikel 429
 
 1. Nadat de procureur-generaal bij de Hoge Raad binnen een door de Hoge Raad te bepalen termijn schriftelijk conclusie heeft genomen, geeft de Hoge Raad zijn beschikking.
 
@@ -3208,7 +3231,7 @@ Voor zover uit deze afdeling niet anders voortvloeit, is [artikel 284](https://w
 
 ## titel Eerste. Algemene regels
 
-#### Artikel 430
+##### Artikel 430
 
 1. De grossen van in Nederland gewezen vonnissen, van beschikkingen van de Nederlandse rechter en van in Nederland verleden authentieke akten alsmede van andere bij de wet als executoriale titel aangewezen stukken kunnen in geheel Nederland worden ten uitvoer gelegd.
 
@@ -3216,33 +3239,33 @@ Voor zover uit deze afdeling niet anders voortvloeit, is [artikel 284](https://w
 
 3. Zij kunnen niet worden ten uitvoer gelegd dan na betekening aan de partij tegen wie de executie zich zal richten.
 
-#### Artikel 431
+##### Artikel 431
 
 1. Behoudens het bepaalde in de [artikelen 985-994](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Negende&afdeling=Eerste&artikel=985&z=2026-01-01&g=2026-01-01), kunnen noch beslissingen, door vreemde rechters gegeven, noch buiten Nederland verleden authentieke akten binnen Nederland ten uitvoer worden gelegd.
 
 2. De gedingen kunnen opnieuw bij de Nederlandse rechter worden behandeld en afgedaan.
 
-#### Artikel 431a
+##### Artikel 431a
 
 Indien de bevoegdheid tot tenuitvoerlegging van een executoriale titel op een ander overgaat, kan de executie eerst worden aangevangen of voortgezet na betekening van deze overgang aan de geëxecuteerde. Indien de rechtsopvolger bij wet is bepaald of door een fusie als bedoeld in [artikel 309](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=309) of een splitsing als bedoeld in [artikel 334a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334a) vaststaat, kan worden volstaan met het schriftelijk mededelen van de overgang van de bevoegdheid tot tenuitvoerlegging aan de geëxecuteerde mits deze hierdoor niet in zijn belang wordt geschaad.
 
-#### Artikel 432
+##### Artikel 432
 
 Geen vonnis waarvan de voorlopige tenuitvoerlegging niet is toegestaan kan tegen een derde worden ten uitvoer gelegd, noch kan daaraan door die derde worden voldaan, dan acht dagen na betekening daarvan aan de partij die in het ongelijk is gesteld, en met overlegging van een verklaring van de griffier dat er op zijn registers geen verzet, hoger beroep of cassatie daartegen is aangetekend.
 
-#### Artikel 433
+##### Artikel 433
 
 De partij die verzet heeft gedaan, of hoger beroep of beroep in cassatie heeft ingesteld, heeft de bevoegdheid om daarvan ter griffie van het gerecht dat het bestreden vonnis heeft uitgesproken, in een daartoe bestemd register aantekening te doen houden, met vermelding van de namen van de partijen, de dagtekening van het vonnis en die van het verzet, het hoger beroep of het beroep in cassatie.
 
-#### Artikel 434
+##### Artikel 434
 
 De overhandiging van de executoriale titel, waarvan men de uitvoering verlangt, aan de deurwaarder, machtigt hem in die zaak tot het doen van de gehele executie, uit die titel voortvloeiende, met uitzondering alleen van die bij lijfsdwang, waartoe een bijzondere volmacht vereist wordt.
 
-#### Artikel 434a
+##### Artikel 434a
 
 Kosten terzake van ambtshandelingen, verricht door gerechtsdeurwaarders, worden voor de bepaling van de kosten van tenuitvoerlegging in aanmerking genomen overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde tarieven.
 
-#### Artikel 435
+##### Artikel 435
 
 1. Het staat aan de executant vrij beslag te leggen op alle voor beslag vatbare goederen, waartoe hij bevoegd is zijn vordering te verhalen.
 
@@ -3250,15 +3273,15 @@ Kosten terzake van ambtshandelingen, verricht door gerechtsdeurwaarders, worden 
 
 3. Wordt een beslag van de in het vorige lid bedoelde strekking ten laste van de schuldenaar gelegd, dan is de beslaglegger verplicht het binnen acht dagen aan de ander te betekenen of, zo hij diens recht niet kent, onverwijld nadat hij van dat recht kennis heeft gekregen. Indien de ander, voordat acht dagen na deze betekening zijn verstreken, schriftelijk aan de deurwaarder mededeelt zich tegen het verhaal op zijn goed te verzetten, geldt het beslag jegens hem slechts als conservatoir en kan de executie jegens hem slechts plaatsvinden uit hoofde van een tegen hem verkregen executoriale titel om deze executie te dulden.
 
-#### Artikel 436
+##### Artikel 436
 
 Beslag mag niet worden gelegd op goederen, bestemd voor de openbare dienst of op goederen die De Nederlandsche Bank N.V. onder zich heeft ten behoeve van een systeem als bedoeld in [artikel 212a, onder b, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212a).
 
-#### Artikel 437
+##### Artikel 437
 
 Hetgeen omtrent de executie van een goed is bepaald, is van overeenkomstige toepassing op de executie van een beperkt recht op of een aandeel in een zodanig goed.
 
-#### Artikel 438
+##### Artikel 438
 
 1. Geschillen die in verband met een executie rijzen, worden gebracht voor de rechtbank die naar de gewone regels bevoegd zou zijn, of in welker rechtsgebied de inbeslagneming plaatsvindt, zich een of meer van de betrokken zaken bevinden of de executie zal geschieden. In afwijking van de vorige zin worden geschillen die rijzen in verband met de executie van een door de kantonrechter afgegeven executoriale titel voor de kantonrechter gebracht die de executoriale titel heeft afgegeven.
 
@@ -3272,13 +3295,13 @@ Hetgeen omtrent de executie van een goed is bepaald, is van overeenkomstige toep
 
 6. Verzet tegen de executie door een derde geschiedt door dagvaarding van zowel de executant als de geëxecuteerde.
 
-#### Artikel 438a
+##### Artikel 438a
 
 1. In zaken betreffende een executie die volgens de tweede en de derde titel van dit Boek of [titel 9 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&titeldeel=9) worden ingeleid door indiening van een verzoek aan de voorzieningenrechter van de rechtbank, is bevoegd de voorzieningenrechter in wiens rechtsgebied de te executeren zaken zich geheel of grotendeels bevinden of de executie zal geschieden.
 
 2. De indiening van verzoeken krachtens de [artikelen 459, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=459&z=2026-01-01&g=2026-01-01), [461b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461b&z=2026-01-01&g=2026-01-01), [462, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=462&z=2026-01-01&g=2026-01-01), [463, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=463&z=2026-01-01&g=2026-01-01), [463a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=463a&z=2026-01-01&g=2026-01-01), [465](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=465&z=2026-01-01&g=2026-01-01), [481, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=481&z=2026-01-01&g=2026-01-01), [496, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=496&z=2026-01-01&g=2026-01-01), en [506, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=506&z=2026-01-01&g=2026-01-01), kan ook door een deurwaarder geschieden. Hetzelfde geldt voor een verzoek krachtens [artikel 234, derde lid, van Boek 3 van het Burgerlijk Wetboek](onbekend), indien de executie door een pandhouder geschiedt, of krachtens [artikel 251 van dat Boek](onbekend). Indien een deurwaarder het verzoek indient, geldt zijn kantoor als gekozen woonplaats van de verzoeker.
 
-#### Artikel 438b
+##### Artikel 438b
 
 Voor zover de executie andere handelingen vergt dan het doen van een exploot, is [artikel 64](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=64&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van het derde lid van dat artikel de plaats waar de handeling moet worden verricht, bepalend is.
 
@@ -3286,7 +3309,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 ### afdeling Eerste. Van executoriaal beslag op roerende zaken die geen registergoederen zijn
 
-#### Artikel 439
+##### Artikel 439
 
 1. Het beslag op roerende zaken die geen registergoederen zijn, moet worden voorafgegaan door een exploot van een deurwaarder, houdende bevel om binnen twee dagen aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd. Indien daartoe gronden zijn, kan de voorzieningenrechter van de rechtbank, ook op mondeling verzoek van de deurwaarder, die termijn inkorten.
 
@@ -3294,7 +3317,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 3. Bij het bevel of de betekening moet de executant tot het uiteinde der executie woonplaats kiezen ten kantore van de deurwaarder, zulks op straffe van nietigheid van het exploot. Tevens kan woonplaats worden gekozen in Nederland ten kantore van een advocaat.
 
-#### Artikel 440
+##### Artikel 440
 
 1. Het beslag geschiedt bij een proces-verbaal van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -3308,7 +3331,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 3. Het proces-verbaal van inbeslagneming van een motorrijtuig als bedoeld in [artikel 1, sub c, Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=1) of een aanhangwagen als bedoeld in artikel 1, sub d, Wegenverkeerswet 1994 waarvoor een kenteken is opgegeven als bedoeld in [artikel 36 Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) zal onverwijld in het kentekenregister, bedoeld in [artikel 42 Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42), worden ingeschreven. De deurwaarder zorgt ervoor dat deze inschrijving wordt beëindigd zodra het beslag is opgeheven of vervallen.
 
-#### Artikel 441
+##### Artikel 441
 
 1. Het beslag kan slechts worden gedaan voor een vordering waarvan het geldelijk beloop bepaalbaar is.
 
@@ -3316,13 +3339,13 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 3. Het is niet toegestaan zaken in beslag te nemen indien redelijkerwijs voorzienbaar is dat de opbrengst die gerealiseerd kan worden door het verhaal op die zaken minder bedraagt dan de kosten van de beslaglegging en de daaruit voortvloeiende executie, tenzij de schuldeiser aannemelijk kan maken dat de schuldenaar door het beslag en de executie niet op onevenredig zware wijze in zijn belangen wordt getroffen.
 
-#### Artikel 443
+##### Artikel 443
 
 1. De deurwaarder zal dadelijk, of uiterlijk op de volgende dag overgaan tot de meer bijzondere aanduiding der zaken die hij in beslag neemt, en zal deze op het door hem daarvan onverwijld op te maken proces-verbaal nauwkeurig beschrijven met opgave van hun getal, gewicht en maat overeenkomstig hun aard. Het proces-verbaal wordt binnen drie dagen na de inbeslagneming betekend aan de geëxecuteerde en, als er een bewaarder is, ook aan deze.
 
 2. De executant mag bij de inbeslagneming niet tegenwoordig zijn dan in geval de deurwaarder zulks ter aanwijzing van de in beslag te nemen zaken noodzakelijk acht.
 
-#### Artikel 444
+##### Artikel 444
 
 1. De deurwaarder heeft ter inbeslagneming en al hetgeen hieruit voortvloeit toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
@@ -3330,7 +3353,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 3. Bij het binnentreden in een woning zonder toestemming van de bewoner zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10) en [11, tweede lid, van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=11) op het proces-verbaal van beslag van overeenkomstige toepassing. Deze artikelen gelden eveneens in het geval dat na het binnentreden geen beslag wordt gelegd.
 
-#### Artikel 444a
+##### Artikel 444a
 
 1. Indien er redelijk vermoeden bestaat, dat in beslag te nemen zaken zich bevinden op een plaats, van een derde gehuurd of op andere wijze in gebruik verkregen, zodanig dat voor de toegang de medewerking van de derde nodig blijft, zal de deurwaarder, ingeval van weigering van de geëxecuteerde of de derde om de deuren, welke tot de plaats toegang geven, te openen, handelen, zoals in het vorige artikel is bepaald. Met weigering staat gelijk afwezigheid na behoorlijke sommatie om persoonlijk of bij gemachtigde te verschijnen om de deuren te openen. De deurwaarder kan inmiddels door een bewaarder beletten, dat van de plaats iets wordt weggenomen.
 
@@ -3340,7 +3363,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 4. Van het ogenblik, dat de deurwaarder zich tot de derde heeft gewend om tot de inbeslagneming ingevolge dit artikel te komen, mag de derde de geëxecuteerde toegang tot de ruimte niet meer verlenen dan in tegenwoordigheid van de deurwaarder.
 
-#### Artikel 444b
+##### Artikel 444b
 
 1. Indien de derde niet voldoet aan enige hem bij het tweede, derde en vierde lid van het vorige artikel opgelegde verplichting, kan hij worden veroordeeld tot voldoening van het bedrag der vordering, waarvoor het beslag wordt gelegd, met rente en kosten.
 
@@ -3348,17 +3371,17 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 3. De deurwaarder en de ambtenaar, in [artikel 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01) genoemd, zijn tot geheimhouding verplicht nopens de inhoud van het register en de stukken, bedoeld in het derde lid van het vorige artikel; echter wat de geëxecuteerde betreft, voor zover niet anders is vereist voor een behoorlijke vervulling van hun taak te dezen.
 
-#### Artikel 445
+##### Artikel 445
 
 Indien er bij de inbeslagneming gereed geld wordt gevonden, zal het getal en de geldsoort vermeld worden; de deurwaarder zal het geld benevens alle aandeelbewijzen, effecten en verder geldswaarde hebbend papier aan een door hem aan te wijzen financiële onderneming die ingevolge de [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368) in Nederland het bedrijf van bank mag uitoefenen of door een zodanige financiële onderneming gegarandeerd effectenbewaarbedrijf of aan de Nederlandsche Bank N.V. in gerechtelijke bewaring geven, tenzij de executant en geëxecuteerde omtrent een andere plaats van bewaring mochten zijn overeengekomen. De bewaring geschiedt ten name van de deurwaarder onder vermelding van het beslag, van de executant en van de geëxecuteerde.
 
-#### Artikel 446
+##### Artikel 446
 
 1. De deurwaarder kan ook andere zaken dan die bedoeld in het vorige artikel aan een door hem aan te wijzen geschikte bewaarder in gerechtelijke bewaring geven, indien dit voor het behoud van deze zaken redelijkerwijze noodzakelijk is. De tweede zin van het vorige artikel is van toepassing.
 
 2. De deurwaarder maakt van de inbewaringgeving een afzonderlijk proces-verbaal op, dat binnen drie dagen na de inbewaringgeving wordt betekend aan de geëxecuteerde en aan de bewaarder.
 
-#### Artikel 447
+##### Artikel 447
 
 1. Op de volgende roerende zaken mag geen beslag worden gelegd:
 
@@ -3382,47 +3405,47 @@ Indien er bij de inbeslagneming gereed geld wordt gevonden, zal het getal en de 
 
 4. Bij algemene maatregel van bestuur kunnen andere dan de in het eerste lid bedoelde roerende zaken worden aangewezen waarop geen beslag mag worden gelegd.
 
-#### Artikel 448
+##### Artikel 448
 
 Een roerende zaak of gezelschapsdier als bedoeld in [artikel 447, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=447&z=2026-01-01&g=2026-01-01), kan wel in beslag worden genomen voor vorderingen ter zake de verkoop, vervaardiging of het herstel van de zaak of de verkoop of verzorging van het gezelschapsdier aan de geëxecuteerde of de tot zijn gezin behorende huisgenoten.
 
-#### Artikel 449
+##### Artikel 449
 
 1. Dag en uur van de verkoop van de in beslag genomen zaken worden aan de geëxecuteerde betekend hetzij tezamen met het proces-verbaal van inbeslagneming hetzij binnen drie dagen na de betekening daarvan.
 
 2. Bij een verkoop via het internet als bedoeld in [artikel 463, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=463&z=2026-01-01&g=2026-01-01), wordt aan de geëxecuteerde betekend via welke website en gedurende welke periode er kan worden geboden.
 
-#### Artikel 451
+##### Artikel 451
 
 1. Indien beesten of werktuigen voor de landbouw, of vruchten te velde welke reeds van de grond zijn afgescheiden, zijn in beslag genomen, kan de kantonrechter, op verzoek van de executant, en na verhoor of behoorlijke oproeping van de geëxecuteerde, een geschikte persoon aanstellen, teneinde voor de nodige bedrijfsvoering, verzorging of inzameling zorg te dragen.
 
 2. Tegen een toewijzende beschikking krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 453a
+##### Artikel 453a
 
 1. Een vervreemding, bezwaring, onderbewindstelling of verhuring van de zaak, tot stand gekomen nadat deze in beslag genomen is, kan niet tegen de beslaglegger worden ingeroepen.
 
 2. Rechten door een derde anders dan om niet verkregen, worden geëerbiedigd, mits de zaak in zijn handen is gekomen en hij toen te goeder trouw was.
 
-#### Artikel 455
+##### Artikel 455
 
 1. Nog niet verantwoorde en afgedragen baten, voortgebracht door de in beslag genomen zaken, vallen mede onder het beslag en moeten aan de deurwaarder worden verantwoord en op zijn verlangen aan hem worden afgedragen, een en ander behoudens de rechten van derden, die de executant moet eerbiedigen.
 
 2. Bestaat de bate in een vordering op een derde dan valt zij niet onder het beslag dan nadat het beslag aan de derde is betekend. De [artikelen 475i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476&z=2026-01-01&g=2026-01-01) en [478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 455a
+##### Artikel 455a
 
 1. Vorderingen tot vergoeding die na inbeslagneming in de plaats van de beslagen zaak zijn getreden, daaronder begrepen vorderingen ter zake van waardevermindering van de zaak, vallen, nadat het beslag aan de schuldenaar uit die vordering is betekend, eveneens onder het beslag, behoudens de rechten van derden, die de executant moet eerbiedigen. Zij moeten op verlangen van de deurwaarder aan hem worden voldaan.
 
 2. De [artikelen 475i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01), [476](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476&z=2026-01-01&g=2026-01-01) en [478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 456
+##### Artikel 456
 
 1. Treft het beslag een zaak die geheel of ten dele aan een ander toebehoort of ten aanzien waarvan een ander een recht geldend kan maken dat de executant moet eerbiedigen, dan kan deze ander zich tegen verkoop waarbij zijn recht niet in acht wordt genomen tot op het tijdstip van verkoop verzetten.
 
 2. De eiser die in het ongelijk wordt gesteld, zal op vordering van de executant, zo daartoe gronden zijn, tot schadevergoeding worden veroordeeld.
 
-#### Artikel 457
+##### Artikel 457
 
 1. Op de in beslag genomen zaken kan tot op het tijdstip van de verkoop opnieuw beslag worden gelegd. De beslaglegger is verplicht een zodanig beslag onverwijld te betekenen aan de deurwaarder die het eerdere beslag heeft gelegd en, zo deze er is, aan de gerechtelijke bewaarder, met vermelding van de aard van de vordering en van het beloop van het bedrag waarvoor het nieuwe beslag is gelegd of, indien de vordering nog niet is vereffend, van het geschatte bedrag.
 
@@ -3432,13 +3455,13 @@ Een roerende zaak of gezelschapsdier als bedoeld in [artikel 447, eerste lid](ht
 
 4. Het eerste lid, tweede zin, en het tweede lid zijn niet van toepassing als er beslag is gelegd op een motorrijtuig of een aanhangwagen als bedoeld in de [artikelen 440](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=440&z=2026-01-01&g=2026-01-01) en [442](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=442&z=2026-01-01&g=2026-01-01) en dat beslag is ingeschreven in het kentekenregister, bedoeld in [artikel 42 Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=42).
 
-#### Artikel 458
+##### Artikel 458
 
 1. Indien op de zaak meer beslagen zijn gelegd, wordt zij verkocht door de beslaglegger die het oudste executoriale beslag heeft gelegd.
 
 2. Rust op een zaak een beperkt recht dat deze beslaglegger moet eerbiedigen, maar dat niet aan een latere beslaglegger kan worden tegengeworpen, dan wordt de zaak vrij van het beperkte recht verkocht, indien deze laatste beslaglegger aan de executant, de geëxecuteerde en de beperkt gerechtigde bij exploot mededeelt dit te verlangen.
 
-#### Artikel 459
+##### Artikel 459
 
 1. Indien de executant in gebreke blijft om binnen vier weken na afloop van de in [artikel 462](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=462&z=2026-01-01&g=2026-01-01) bedoelde termijn de verkoop tot stand te brengen, kan iedere beslaglegger die een executoriale titel heeft, de executie van de door hem in beslag genomen zaken overnemen door zulks bij exploot aan de executant en de geëxecuteerde aan te zeggen.
 
@@ -3448,15 +3471,15 @@ Een roerende zaak of gezelschapsdier als bedoeld in [artikel 447, eerste lid](ht
 
 4. Tegen beschikkingen krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 460
+##### Artikel 460
 
 Vervallen
 
-#### Artikel 461
+##### Artikel 461
 
 Vervallen
 
-#### Artikel 461a
+##### Artikel 461a
 
 1. Indien de in beslag genomen zaak is verpand en de pandhouder bevoegd is tot executie over te gaan, kan hij, zo nodig overeenkomstig [artikel 496](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=496&z=2026-01-01&g=2026-01-01) afgifte van de zaak vorderende, de executie overnemen en zelf executeren met inachtneming van de bepalingen betreffende executie krachtens pandrecht.
 
@@ -3466,27 +3489,27 @@ Vervallen
 
 4. Zolang geen aanzegging als voormeld plaatsvindt, blijft de beslaglegger bevoegd de executie voort te zetten.
 
-#### Artikel 461b
+##### Artikel 461b
 
 1. Indien de pandhouder de in het derde lid van het vorige artikel bedoelde termijn te lang stelt dan wel binnen die termijn niet tot verkoop overgaat, kan de voorzieningenrechter van de rechtbank op verzoek van de beslaglegger een termijn bepalen binnen welke de pandhouder uiterlijk tot de verkoop moet overgaan. Volgt binnen die termijn geen verkoop, dan is de executant met uitsluiting van de pandhouder bevoegd met de executie voort te gaan.
 
 2. Tegen een beschikking krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 461c
+##### Artikel 461c
 
 De schuldeiser die vóór het beslag ten aanzien van in beslag genomen zaken het beding, bedoeld in artikel 254 van Boek 3 van het Burgerlijk Wetboek heeft gemaakt en van de in het [tweede lid van dat artikel](onbekend) bedoelde bevoegdheid tot gezamenlijke executie gebruik wil maken, kan de executie overeenkomstig [artikel 461a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461a&z=2026-01-01&g=2026-01-01) overnemen. De artikelen 544-548 zijn op de executie van deze zaken van toepassing.
 
-#### Artikel 461d
+##### Artikel 461d
 
 Bevindt de in beslag genomen zaak zich onder een derde en beroept deze zich erop dat hij het beslag wegens de vorm ervan of wegens een hem ten aanzien van de zaak toekomend recht niet behoeft te dulden, dan dienen bij het beslag, voor zover de executant de executie zonder eerbiediging van het ingeroepen recht of bevoegdheid wenst door te zetten, de regels betreffende het derden-beslag uit de tweede afdeling te worden gevolgd, met dien verstande dat het reeds gelegde beslag geldt als een uitsluitend op die zaken gelegd derden-beslag en vervalt indien niet binnen drie dagen nadat de derde zich erop heeft beroepen dat hij het beslag niet behoeft te dulden, aan de derde een formulier als bedoeld in [artikel 475](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01), is betekend.
 
-#### Artikel 462
+##### Artikel 462
 
 1. De verkoop der in beslag genomen zaken mag geen plaats hebben vóór vier weken, te rekenen van de dag van de betekening aan de geëxecuteerde van het proces-verbaal, bedoeld in [artikel 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=443&z=2026-01-01&g=2026-01-01), zulks op straffe van schadevergoeding.
 
 2. Deze termijn kan verkort worden bij onderlinge toestemming van partijen of ook ten verzoeke van de meest gerede partij door de voorzieningenrechter van de rechtbank.
 
-#### Artikel 463
+##### Artikel 463
 
 1. De verkoop zal in het openbaar worden gehouden ten overstaan van de deurwaarder en op een door deze daartoe aan te wijzen plaats.
 
@@ -3498,33 +3521,33 @@ Bevindt de in beslag genomen zaak zich onder een derde en beroept deze zich erop
 
 5. De voorzieningenrechter van de rechtbank kan ten verzoeke van de beslaglegger of de geëxecuteerde een verkoop als in het vorige lid bedoeld ook bepalen ten aanzien van effecten aan toonder die niet ter beurze verhandelbaar zijn.
 
-#### Artikel 463a
+##### Artikel 463a
 
 Geschillen over de veilingvoorwaarden, over de wijze van verkoop of over dag, uur of plaats daarvan, dan wel, indien van toepassing, via welke website en gedurende welke periode er kan worden geboden worden op verzoek van de meest gerede partij of de deurwaarder beslist door de voorzieningenrechter van de rechtbank, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig [artikel 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01) te verzetten.
 
-#### Artikel 463b
+##### Artikel 463b
 
 Tegen beschikkingen krachtens de [artikelen 462, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=462&z=2026-01-01&g=2026-01-01), [463, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=463&z=2026-01-01&g=2026-01-01), en [463a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=463a&z=2026-01-01&g=2026-01-01) is geen hogere voorziening toegelaten.
 
-#### Artikel 464
+##### Artikel 464
 
 De aankondiging van de verkoop geschiedt door bekendmaking op een of meer algemeen toegankelijke websites van de plaats, de dag en het uur van de verkoop, dan wel via welke website en gedurende welke periode er kan worden geboden. Bij de aankondiging wordt de aard van de zaken aangeduid zonder vermelding van nadere bijzonderheden.
 
-#### Artikel 465
+##### Artikel 465
 
 1. De aankondiging van de verkoop moet geschieden na de in [artikel 449](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=449&z=2026-01-01&g=2026-01-01) bedoelde betekening en tenminste vier dagen vóór de aanvang van de verkoop, tenzij die termijn door de voorzieningenrechter van de rechtbank ten verzoeke van de meest gerede partij is verkort.
 
 2. Tegen een beschikking krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 466
+##### Artikel 466
 
 Vervallen
 
-#### Artikel 467
+##### Artikel 467
 
 De deurwaarder zal aan de voet van zijn proces-verbaal van beslag aantekening moeten doen van de wijze van aankondiging van de verkoop.
 
-#### Artikel 469
+##### Artikel 469
 
 1. De verkoop wordt gehouden bij opbod of, ter keuze van de executant, bij opbod gevolgd door afmijning en de toewijzing zal geschieden aan de meestbiedende en tegen gerede betaling of storting in handen van de deurwaarder.
 
@@ -3536,19 +3559,19 @@ De deurwaarder zal aan de voet van zijn proces-verbaal van beslag aantekening mo
 
 5. Bij gebreke van betaling zal de zaak terstond weer verkocht worden ten laste van hem wien zij toegewezen is.
 
-#### Artikel 470
+##### Artikel 470
 
 1. Men zal met de verkoop der in beslag genomen zaken niet verder gaan dan nodig is om een opbrengst te verkrijgen, die voor betaling van de schulden en kosten voldoende is.
 
 2. Te dien einde kan de geëxecuteerde de orde regelen, volgens welke de zaken zullen worden verkocht.
 
-#### Artikel 474
+##### Artikel 474
 
 De deurwaarder is verantwoordelijk voor de verkregen opbrengst en voldoet daaruit onverwijld de kosten van de executie. Hij vermeldt in zijn proces-verbaal de namen en woonplaatsen van de kopers. Indien [artikel 480, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=480&z=2026-01-01&g=2026-01-01), van toepassing is, maakt de deurwaarder aan de voet van zijn proces-verbaal aantekening van de namen van de schuldeisers die beslag hebben gelegd op goederen of de opbrengst van de tenuitvoerlegging en van de beperkt gerechtigden van wie het recht door de tenuitvoerlegging is vervallen.
 
 ### afdeling Eerste. Van executoriaal beslag op roerende zaken die geen registergoederen zijn
 
-#### Artikel 474a
+##### Artikel 474a
 
 1. Het beslag op rechten aan toonder of order geschiedt door beslag op het papier. De eerste en tweede afdeling en de tweede afdeling B zijn, voor wat betreft het daar omtrent beslag op zaken bepaalde, van overeenkomstige toepassing, tenzij uit de betreffende bepaling in verband met de aard van het recht anders volgt. Indien het recht bestaat in een opeisbare vordering, kan de executant in plaats van tot verkoop overeenkomstig de eerste afdeling over te gaan, de executie ook voortzetten door beslag onder derden overeenkomstig de tweede afdeling.
 
@@ -3556,13 +3579,13 @@ De deurwaarder is verantwoordelijk voor de verkregen opbrengst en voldoet daarui
 
 3. Ingeval van verkoop moeten de voormelde rechten op de biljetten als bedoeld in [artikel 464](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=464&z=2026-01-01&g=2026-01-01) worden omschreven, met opgave van de naam van degene jegens wie het recht bestaat, van de aard van het recht, van het bedrag van de vordering waarin het recht bestaat en van de renten welke daarbij mochten zijn bepaald.
 
-#### Artikel 474aa
+##### Artikel 474aa
 
 1. De executie van andere aandelen op naam dan die bedoeld in de volgende afdelingen en van effecten op naam die geen aandelen zijn, geschiedt met overeenkomstige toepassing van die afdeling, tenzij uit de betreffende bepaling in verband met de aard van het aandeel of effect anders voortvloeit.
 
 2. Lidmaatschapsrechten in verenigingen worden als effecten op naam aangemerkt, indien zij voor vervreemding vatbaar zijn.
 
-#### Artikel 474b
+##### Artikel 474b
 
 1. Nog niet aan de geëxecuteerde verantwoorde en afgedragen baten, die voortvloeien uit een recht aan toonder of order, een aandeel op naam of een effect op naam dat geen aandeel is, en die bestaan in geld of andere waarden, vallen mede onder het beslag en moeten aan de deurwaarder worden verantwoord en op zijn verlangen aan hem worden afgedragen, een en ander behoudens de rechten van derden die de executant moet eerbiedigen.
 
@@ -3570,11 +3593,11 @@ De deurwaarder is verantwoordelijk voor de verkregen opbrengst en voldoet daarui
 
 3. De [artikelen 475i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01) , [476](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476&z=2026-01-01&g=2026-01-01) en [478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 474ba
+##### Artikel 474ba
 
 Het stemrecht verbonden aan een in beslag genomen goed als bedoeld in het vorige artikel, en andere aan een zodanig goed verbonden bevoegdheden die niet onder het vorige artikel vallen, blijven gedurende het beslag bij de geëxecuteerde. Desgevraagd is de bewaarder of, als deze ontbreekt, de deurwaarder verplicht hem daartoe een bewijsstuk af te geven en verder het nodige te verrichten om hem in de gelegenheid te stellen tot het uitoefenen van deze rechten.
 
-#### Artikel 474bb
+##### Artikel 474bb
 
 1. Rechten waarvan de executie niet elders geregeld is, en niet opeisbare rechten waarop beslag onder derden mogelijk is, kunnen met overeenkomstige toepassing van de eerste afdeling worden geëxecuteerd, tenzij uit de wet of de aard van het recht anders volgt.
 
@@ -3586,7 +3609,7 @@ Het stemrecht verbonden aan een in beslag genomen goed als bedoeld in het vorige
 
 ### Eerste afdeling B. Van executoriaal beslag op aandelen op naam in naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid
 
-#### Artikel 474c
+##### Artikel 474c
 
 1. Onverminderd het bepaalde in het achtste lid van dit artikel geschiedt het beslag op aandelen op naam in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid bij exploot van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -3612,7 +3635,7 @@ Het stemrecht verbonden aan een in beslag genomen goed als bedoeld in het vorige
 
 8. Indien het betreft aandelen op naam in vennootschappen als bedoeld in [artikel 86c van boek 2 van het Burgerlijk Wetboek](onbekend), welker statuten voorschrijven, dat voor levering daarvan al dan niet onder bepaalde omstandigheden afgifte van het aandeelbewijs bij de vennootschap vereist is, geschiedt het beslag bij exploot van een deurwaarder met aanzegging als in het eerste lid vermeld na voorafgaande inbeslagneming van de desbetreffende aandeelbewijzen op de wijze als omschreven in de eerste afdeling. Deze inbeslagneming en de bewaargeving, bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01), zullen onder verwijzing naar de akte of processen-verbaal, bedoeld in de [artikelen 440](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=440&z=2026-01-01&g=2026-01-01) en 443, in het exploot worden vermeld.
 
-#### Artikel 474d
+##### Artikel 474d
 
 1. De deurwaarder zal van het gelegde beslag onverwijld, zo mogelijk op dezelfde dag, schriftelijk mededeling doen aan de geëxecuteerde.
 
@@ -3622,15 +3645,15 @@ Het stemrecht verbonden aan een in beslag genomen goed als bedoeld in het vorige
 
 4. De deurwaarder zal, in afwachting van de executoriale verkoop, met die stukken handelen als bepaald in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 474e
+##### Artikel 474e
 
 De in beslag genomen aandelen kunnen niet ten nadele van de beslaglegger worden vervreemd, bezwaard of onder bewind gesteld.
 
-#### Artikel 474f
+##### Artikel 474f
 
 Binnen acht dagen na het beslag zal de vennootschap aan de deurwaarder schriftelijk mededeling doen van rechten die vóór het exploot reeds op de in beslag genomen aandelen mochten zijn gevestigd, onder opgave van de namen en woonplaatsen der gerechtigden.
 
-#### Artikel 474g
+##### Artikel 474g
 
 1. Binnen één maand na het exploot van beslag zal de beslaglegger, op straffe van verval van het gelegde beslag, aan de rechtbank van de plaats van vestiging van de vennootschap, zo mogelijk onder overlegging van de mededeling bedoeld in het [voorgaande artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474f&z=2026-01-01&g=2026-01-01) en de statuten der vennootschap, verzoeken bij beschikking te bepalen, dat en binnen welke termijn tot verkoop en overdracht van de in beslag genomen aandelen kan worden overgegaan.
 
@@ -3640,7 +3663,7 @@ Binnen acht dagen na het beslag zal de vennootschap aan de deurwaarder schriftel
 
 4. De wettelijke en statutaire bepalingen ter zake van vervreemding van aandelen moeten worden in acht genomen, met dien verstande, dat alle ten aanzien van de vervreemding aan de aandeelhouder toekomende rechten en op hem drukkende verplichtingen worden uitgeoefend en nagekomen door de deurwaarder. Ook de beschikking der rechtbank zal ten aanzien van deze wettelijke en statutaire bepalingen geen afwijkingen mogen inhouden behoudens voor zover inachtneming van deze bepalingen de executoriale verkoop onmogelijk zou maken.
 
-#### Artikel 474h
+##### Artikel 474h
 
 1. Van de verkoop wordt door de deurwaarder proces-verbaal opgemaakt. Tenzij [artikel 86c van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=86c) van toepassing is, vermeldt het proces-verbaal de gegevens als bedoeld in [lid 2 van onderscheidenlijk artikel 86](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=86) en [artikel 196 van dat wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=196). De koopprijs wordt de deurwaarder ter hand gesteld.
 
@@ -3648,13 +3671,13 @@ Binnen acht dagen na het beslag zal de vennootschap aan de deurwaarder schriftel
 
 3. Indien ten aanzien van andere aandelen dan die bedoeld in de laatste zin van het tweede lid van dit artikel de verkrijger daarvan niet de beschikking heeft kunnen krijgen over de aandeelbewijzen met de eventueel daarbij behorende dividendbewijzen en talons op naam, zal de vennootschap hem daarvan desverlangd en op zijn kosten duplicaten afgeven. Door de uitgifte der duplicaten verliezen de oorspronkelijke stukken hun geldigheid. Indien de bedoelde verkrijger niet de beschikking heeft kunnen krijgen over de eventueel bij de aandeelbewijzen behorende dividendbewijzen en talons aan toonder, zal de vennootschap hem daarvan desverlangd en op zijn kosten slechts duplicaten afgeven na zekerheidstelling zijnerzijds voor de door de vennootschap tengevolge van de uitgifte der duplicaten op te lopen schade.
 
-#### Artikel 474i
+##### Artikel 474i
 
 Bij executie van een executoriale titel tot levering van een aandeel zijn [artikel 474h, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474h&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat in plaats van het proces-verbaal en de beschikking, bedoeld in het tweede lid, de te executeren titel aan de vennootschap wordt betekend.
 
 ### Eerste afdeling B. Van executoriaal beslag op aandelen op naam in naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid
 
-#### Artikel 475
+##### Artikel 475
 
 1. Het beslag op vorderingen die de geëxecuteerde op derden mocht hebben of uit een ten tijde van het beslag reeds bestaande rechtsverhouding rechtstreeks zal verkrijgen, en op hem toebehorende roerende zaken die onder derden mochten berusten en geen registergoederen zijn, geschiedt bij een exploot van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -3680,7 +3703,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 5. De voordracht voor de krachtens het vierde lid vast te stellen algemene maatregelen van bestuur wordt niet eerder gedaan dan vier weken nadat de ontwerpen aan beide kamers der Staten-Generaal zijn overgelegd.
 
-#### Artikel 475a
+##### Artikel 475a
 
 1. Het beslag strekt zich niet uit tot vorderingen of zaken die volgens de wet niet voor beslag vatbaar zijn, noch tot vorderingen die recht geven op een volgens de wet of naar haar aard niet voor beslag vatbare prestatie.
 
@@ -3698,13 +3721,13 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 8. Op ingevolge [artikel 642c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642c&z=2026-01-01&g=2026-01-01) in de consignatiekas gestorte bedragen mag geen beslag worden gelegd.
 
-#### Artikel 475b
+##### Artikel 475b
 
 1. Beslag onder een derde op een of meer vorderingen van de geëxecuteerde tot periodieke betalingen waaraan een beslagvrije voet is verbonden, is slechts geldig voor zover een periodieke betaling de beslagvrije voet overtreft.
 
 2. Beslag op een vordering tot nabetaling is niet verder geldig dan indien de betaling gedurende het beslag tijdig was gedaan.
 
-#### Artikel 475c
+##### Artikel 475c
 
 1. Een beslagvrije voet is verbonden aan vorderingen tot periodieke betaling van:
 
@@ -3740,7 +3763,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 7. Een derde-beslagene die een betaling heeft gedaan aan een deurwaarder die in strijd met [artikel 475c, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475c&z=2026-01-01&g=2026-01-01), een executoriaal beslag heeft gelegd dat is vernietigd, heeft niettemin bevrijdend betaald.
 
-#### Artikel 475d
+##### Artikel 475d
 
 1. Voor de vaststelling van de beslagvrije voet wordt gebruik gemaakt van het belastbaar inkomen van de schuldenaar en, indien de schuldenaar gehuwd is, de echtgenoot. De hoogte van het belastbaar inkomen wordt berekend op basis van het meest recente maandinkomen zoals dat blijkt uit de polisadministratie, tenzij dit maandinkomen geen reële afspiegeling vormt van het belastbaar inkomen omdat het maandinkomen fluctueert of er sprake is van een incidentele betaling. Of het meest recente maandinkomen een reële afspiegeling van het belastbaar inkomen vormt, wordt beoordeeld aan de hand van in de polisadministratie opgenomen gegevens over de vier meest recente maanden gerekend vanaf het moment van verstrekking, bedoeld in [artikel 475ga, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475ga&z=2026-01-01&g=2026-01-01). Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop in het geval dat het meest recente maandinkomen geen reële afspiegeling van het belastbaar inkomen vormt, het belastbaar inkomen wordt berekend.
 
@@ -3760,7 +3783,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 7. Het tweede en derde lid zijn niet van toepassing bij opgave van de beslagvrije voet op de wijze, bedoeld in [artikel 475dc, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475dc&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 475e
+##### Artikel 475e
 
 1. Indien de geëxecuteerde over een niet in de basisregistratie personen opgenomen vaste woon- of verblijfplaats beschikt en hij de deurwaarder die gerechtigd is ten laste van hem binnen Nederland beslag te leggen, inzicht geeft in zijn leefsituatie en zijn bronnen van inkomsten, blijft het bepaalde in [artikel 475da, vierde lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475da&z=2026-01-01&g=2026-01-01), buiten toepassing.
 
@@ -3770,13 +3793,13 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 - b. het bedrag, genoemd in [artikel 23, tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=23).
 
-#### Artikel 475f
+##### Artikel 475f
 
 1. Indien beslag is gelegd op een vordering tot weerkerende betalingen die niet in [artikel 475c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475c&z=2026-01-01&g=2026-01-01), is omschreven en de geëxecuteerde onvoldoende andere middelen van bestaan heeft, kan de geëxecuteerde de kantonrechter verzoeken de [artikelen 475b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475b&z=2026-01-01&g=2026-01-01) en [475d tot en met 475e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475d&z=2026-01-01&g=2026-01-01) mede op die vordering van toepassing te verklaren.
 
 2. Indien bij toepassing van het eerste lid op een vordering tot weerkerende betalingen tevens beslag ligt of wordt gelegd op een vordering tot periodieke betaling als bedoeld in [artikel 475c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475c&z=2026-01-01&g=2026-01-01), is artikel 475c, vijfde lid, van overeenkomstige toepassing.
 
-#### Artikel 475g
+##### Artikel 475g
 
 1. Een schuldenaar is verplicht aan een deurwaarder die gerechtigd is ten laste van hem beslag te leggen, desgevraagd zijn bronnen van inkomsten op te geven, alsmede voor de vaststelling van de beslagvrije voet benodigde gegevens te verstrekken voor zover deze gegevens niet door de deurwaarder kunnen worden verkregen op grond van de [artikelen 475ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475ga&z=2026-01-01&g=2026-01-01) en [475gb](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475gb&z=2026-01-01&g=2026-01-01).
 
@@ -3794,7 +3817,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 - e. de loonbelasting over het in [artikel 13bis van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=13bis) bedoelde voordeel ten gevolge van het tevens voor privédoeleinden ter beschikking stellen van vervoermiddelen aan de schuldenaar.
 
-#### Artikel 475h
+##### Artikel 475h
 
 1. Een vervreemding, bezwaring, afstand of onderbewindstelling van een door het beslag getroffen vordering, tot stand gekomen nadat het beslag is gelegd, kan niet tegen de beslaglegger worden ingeroepen. Hetzelfde geldt voor een in weerwil van het beslag gedane betaling of afgifte, tenzij de derde heeft gedaan wat redelijkerwijs van hem kon worden gevergd om de betaling of afgifte te voorkomen.
 
@@ -3802,7 +3825,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 3. In afwijking van het eerste lid kan een in weerwil van het beslag gedane betaling aan de notaris ten behoeve van de overdracht van een onroerende zaak tegen de beslaglegger worden ingeroepen, indien dit beslag is gelegd nadat de koop van de zaak is ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), op de wijze die is voorgeschreven in [artikel 3 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=3).
 
-#### Artikel 475i
+##### Artikel 475i
 
 1. De executant is verplicht om binnen acht dagen na het leggen van het beslag het beslagexploot aan de geëxecuteerde te doen betekenen bij gebreke waarvan de voorzieningenrechter van de rechtbank het beslag op vordering van de geëxecuteerde kan opheffen.
 
@@ -3818,13 +3841,13 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 - b. verstrekt de coördinerende deurwaarder aan de andere deurwaarder op diens verzoek onverwijld schriftelijk de beslagvrije voet, alsmede de gegevens waarop deze is gebaseerd.
 
-#### Artikel 476
+##### Artikel 476
 
 1. Een schorsing van de executie werkt tegen de derde-beslagene pas, nadat deze schorsing hem met de grond waarop zij berust schriftelijk is medegedeeld.
 
 2. De executie wordt mede geschorst door betekening aan de derde-beslagene van een dagvaarding, waarbij de geëxecuteerde in kort geding schorsing van de executie of opheffing van het beslag vordert, indien deze dagvaarding niet later is uitgebracht dan veertien dagen na de in [artikel 475i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01) bedoelde betekening van het beslag aan de geëxecuteerde en in het exploit van betekening aan de derde tevens mededeling van deze schorsende werking wordt gedaan.
 
-#### Artikel 476a
+##### Artikel 476a
 
 1. Zodra twee weken zijn verstreken na het leggen van het beslag, is de derde verplicht verklaring te doen van de vorderingen en zaken die door het beslag zijn getroffen. Indien de geëxecuteerde de derde dit binnen twee weken na het leggen van het beslag schriftelijk verzoekt, wordt de verklaring gedaan zodra vier weken zijn verstreken na het leggen van het beslag. Is de executie geschorst op grond van een tegen de executoriale titel gericht rechtsmiddel of een tegen de executie gericht verzet, dan loopt de termijn vanaf de betekening van de uitspraak, waarbij het rechtsmiddel is verworpen of het verzet is afgewezen, dan wel de schorsing is opgeheven of geweigerd.
 
@@ -3844,7 +3867,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 3. Bij algemene maatregel van bestuur worden regels gegeven aangaande de kosten die door de derde-beslagene kunnen worden gerekend voor het doen van de verklaring en de afwikkeling van het beslag.
 
-#### Artikel 476b
+##### Artikel 476b
 
 1. De verklaring wordt op een bij algemene maatregel van bestuur vast te stellen wijze gericht tot de deurwaarder die het beslag heeft gelegd.
 
@@ -3852,7 +3875,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 3. De deurwaarder die een verklaring heeft ontvangen, zendt binnen drie dagen afschrift daarvan aan de geëxecuteerde.
 
-#### Artikel 477
+##### Artikel 477
 
 1. De derde-beslagene die overeenkomstig het vorige artikel verklaring heeft gedaan, is verplicht de volgens deze verklaring verschuldigde geldsommen aan de deurwaarder te voldoen en de verschuldigde goederen of af te geven zaken te zijner beschikking te stellen.
 
@@ -3864,7 +3887,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 5. Hetgeen in handen van de deurwaarder is gesteld, wordt verder geëxecuteerd overeenkomstig de gewone regels, die voor de executie daarvan gelden.
 
-#### Artikel 477a
+##### Artikel 477a
 
 1. Indien de derde-beslagene in gebreke blijft verklaring te doen, wordt hij op vordering van de executant veroordeeld tot betaling van het bedrag waarvoor het beslag is gelegd als ware hij daarvan zelf schuldenaar, onverminderd zijn verplichting tot vergoeding van de schade, zo daartoe gronden zijn. De derde-beslagene tegen wie deze vordering wordt ingesteld, wordt toegelaten alsnog een gerechtelijke verklaring te doen. De kosten die in dat geval nodeloos zijn veroorzaakt, worden voor zijn rekening gebracht.
 
@@ -3876,7 +3899,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 5. Tot kennisneming van de in dit artikel bedoelde vorderingen is de rechtbank bevoegd. Indien de executant bij zijn dagvaarding het beslag slechts vervolgt op vorderingen, waarvan de berechting ongeacht hun beloop of naar hun gezamenlijk beloop tot de bevoegdheid van de kantonrechter behoort, is slechts de kantonrechter bevoegd.
 
-#### Artikel 477b
+##### Artikel 477b
 
 1. Betaling of afgifte door de derde-beslagene overeenkomstig zijn buitengerechtelijke verklaring of krachtens een veroordeling als bedoeld in [artikel 477a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=477a&z=2026-01-01&g=2026-01-01) geldt als betaling of afgifte aan de geëxecuteerde.
 
@@ -3884,7 +3907,7 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 3. De derde-beslagene en de geëxecuteerde worden overigens niet gebonden door hetgeen in een vonnis ingevolge [artikel 477a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=477a&z=2026-01-01&g=2026-01-01) omtrent hun onderlinge rechtsverhouding is beslist, tenzij de derde-beslagene de geëxecuteerde tijdig in het geding heeft geroepen.
 
-#### Artikel 478
+##### Artikel 478
 
 1. Indien onder de derde-beslagene ten laste van de geëxecuteerde ook andere beslagen zijn gelegd en niet bij voorbaat vaststaat dat alle beslagleggers uit de door de derde-beslagene verschuldigde geldsommen zullen kunnen worden voldaan, int de deurwaarder die het oudste executoriale beslag heeft gelegd voor de gezamenlijke beslagleggers hetgeen de derde-beslagene heeft te betalen of af te geven.
 
@@ -3900,13 +3923,13 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 7. Ieder van de beslagleggers kan tussen komen in een procedure als bedoeld in [artikel 477a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=477a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 479
+##### Artikel 479
 
 1. Derdenbeslag onder de staat of een openbaar lichaam is, onverminderd het in [artikel 436](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=436&z=2026-01-01&g=2026-01-01) bepaalde, toegelaten, echter slechts op bepaalde in het exploot of, in geval van het beslag als bedoeld in [artikel 479g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_A&artikel=479g&z=2026-01-01&g=2026-01-01), in de kennisgeving omschreven vorderingen of zaken.
 
 2. Om redenen van openbaar belang kan de staat of het openbaar lichaam in kort geding voor de voorzieningenrechter van de rechtbank onmiddellijke opheffing van het derdenbeslag vorderen.
 
-#### Artikel 479a
+##### Artikel 479a
 
 1. Ingeval een schuldeiser voor een vordering verhaal zoekt op een schuldenaar, die om niet of tegen een onevenredig lage vergoeding geregeld werkzaamheden of diensten voor een derde verricht welker aard en omvang zodanig zijn, dat zij gewoonlijk slechts tegen betaling worden verricht, wordt ten behoeve van die schuldeiser aangenomen, dat daarvoor een redelijke vergoeding verschuldigd is.
 
@@ -3914,19 +3937,19 @@ Bij executie van een executoriale titel tot levering van een aandeel zijn [artik
 
 ### Eerste afdeling A. Van executoriaal beslag op rechten aan toonder of order, aandelen op naam en effecten op naam, die geen aandelen zijn
 
-#### Artikel 479b
+##### Artikel 479b
 
 Het beslag tot verhaal van een uitkering tot levensonderhoud, krachtens [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1) of bij wijze van voorlopige voorziening in verband met een geding tot echtscheiding, tot scheiding van tafel en bed, onderscheidenlijk tot ontbinding van een geregistreerd partnerschap verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige alsmede het beslag tot verhaal van een uitkering krachtens [artikel 84, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=84) door de ene partner aan de andere partner verschuldigd, worden, indien de beslagen gelegd worden op loon of andere periodieke uitkeringen, welke de geëxecuteerde van een derde te vorderen mocht hebben, gelegd en vervolgd op de wijze en met de gevolgen in de vorige afdeling bepaald, voor zover daarvan in deze afdeling niet is afgeweken.
 
-#### Artikel 479c
+##### Artikel 479c
 
 Vervallen
 
-#### Artikel 479d
+##### Artikel 479d
 
 De geëxecuteerde kan te allen tijde overeenkomstig [artikel 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01) verzet instellen op grond dat de beslissing over de uitkering inmiddels is gewijzigd of ingetrokken of dat het recht op uitkering niet langer bestaat.
 
-#### Artikel 479e
+##### Artikel 479e
 
 1. Van de dag van het beslag af is de derde-beslagene verplicht om, zolang de executant dit verlangt, naar gelang hij loon of andere periodieke uitkeringen aan de geëxecuteerde verschuldigd is het door de executant aangegeven achterstallig bedrag en de termijnen van de uitkering, tot welker verhaal het beslag is gelegd, aan de executant te betalen, tenzij onder hem beslag gelegd mocht worden wegens vorderingen van hogere of gelijke rang.
 
@@ -3934,11 +3957,11 @@ De geëxecuteerde kan te allen tijde overeenkomstig [artikel 438](https://wetten
 
 3. De derde die meer aan de executant heeft betaald dan waarop deze recht heeft, is jegens de geëxecuteerde bevrijd, voor zover dat voortvloeit uit [artikel 34 van Boek 6 van het Burgerlijk Wetboek](onbekend).
 
-#### Artikel 479f
+##### Artikel 479f
 
 De executant vervolgt de derde-beslagene, die in gebreke blijft aan zijn verplichting ingevolge het voorgaand artikel te voldoen, voor de kantonrechter.
 
-#### Artikel 479g
+##### Artikel 479g
 
 1. Indien de raad voor de kinderbescherming executant is dan wel, indien ingevolge het bepaalde in [artikel 408, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=408) het Landelijk Bureau Inning Onderhoudsbijdragen is belast met de invordering van onderhoudsgelden, kan hij dit beslag leggen hetzij op de gewone wijze, hetzij door van de beschikking in afschrift mededeling te doen aan de derde-beslagene. In het laatste geval zendt deze die schriftelijke kennisgeving voor "gezien" getekend aan de raad voor de kinderbescherming of het Landelijk Bureau Inning Onderhoudsbijdragen terug. Eerst door deze terugzending is het beslag voltooid. Indien het beslag op deze wijze wordt gelegd, komen de in de [artikelen 475g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475g&z=2026-01-01&g=2026-01-01), [475ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475ga&z=2026-01-01&g=2026-01-01), [475gb](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475gb&z=2026-01-01&g=2026-01-01) en [475i, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01), aan de deurwaarder toegekende bevoegdheden en verplichtingen gelijkelijk toe aan de raad voor de kinderbescherming of het Landelijk Bureau Inning Onderhoudsbijdragen.
 
@@ -3948,11 +3971,11 @@ De executant vervolgt de derde-beslagene, die in gebreke blijft aan zijn verplic
 
 ### Eerste afdeling B. Van executoriaal beslag op aandelen op naam in naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid
 
-#### Artikel 479h
+##### Artikel 479h
 
 Een schuldeiser kan ook beslag leggen op de vorderingen die zijn schuldenaar op hem heeft of uit een ten tijde van het beslag reeds bestaande rechtsverhouding rechtstreeks zal verkrijgen, alsook op de aan zijn schuldenaar toebehorende roerende zaken die hij voor deze onder zich heeft en die geen registergoederen zijn.
 
-#### Artikel 479i
+##### Artikel 479i
 
 1. Het beslag wordt gelegd bij een exploot van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -3966,23 +3989,23 @@ Een schuldeiser kan ook beslag leggen op de vorderingen die zijn schuldenaar op 
 
 2. De [artikelen 475a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475a&z=2026-01-01&g=2026-01-01), en [475ab tot en met 475h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475b&z=2026-01-01&g=2026-01-01) en [475i, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 479j
+##### Artikel 479j
 
 1. Veertien dagen na het leggen van het beslag is de executant bevoegd de door hem aan de geëxecuteerde verschuldigde goederen of af te geven zaken over te geven aan de deurwaarder ter executie volgens de gewone regels voor zodanige goederen of zaken voorgeschreven.
 
 2. Door de executoriale verkoop wordt de executant bevrijd van zijn verplichting tot levering van de goederen of afgifte van de zaken aan de geëxecuteerde.
 
-#### Artikel 479k
+##### Artikel 479k
 
 Indien andere schuldeisers ten laste van de schuldenaar beslag op de vordering of de zaak hebben gelegd, is [artikel 478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 ### Eerste afdeling B. Van executoriaal beslag op aandelen op naam in naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid
 
-#### Artikel 479l
+##### Artikel 479l
 
 Het beslag op de rechten die voor de geëxecuteerde als verzekeringnemer voortvloeien uit een overeenkomst van levensverzekering, wordt uitsluitend gelegd en vervolgd op de wijze zoals in de tweede afdeling voor de in [artikel 475](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01) bedoelde goederen is bepaald, voor zover daarvan in deze afdeling niet wordt afgeweken.
 
-#### Artikel 479m
+##### Artikel 479m
 
 1. Nadat de verzekeraar verklaring heeft gedaan als bedoeld in [artikel 476a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476a&z=2026-01-01&g=2026-01-01), kan de executant de levensverzekering doen afkopen, tenzij de verzekeringnemer de bevoegdheid mist de verzekering te doen afkopen, en zulks niet het gevolg is van een beperking of uitsluiting als bedoeld in [artikel 986, vierde lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=986). Tevens kan de executant de begunstiging wijzigen ten behoeve van de geëxecuteerde, voor zover deze niet reeds onherroepelijk was toen het beslag gelegd werd.
 
@@ -3990,7 +4013,7 @@ Het beslag op de rechten die voor de geëxecuteerde als verzekeringnemer voortvl
 
 3. Het door de verzekeraar ingevolge afkoop, belening of uitkering van de levensverzekering aan de geëxecuteerde of diens rechtverkrijgenden verschuldigde bedrag, valt onder het beslag.
 
-#### Artikel 479n
+##### Artikel 479n
 
 1. De executant is verplicht bij deurwaardersexploot aan de geëxecuteerde mededeling te doen welke van de in [artikel 479m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479m&z=2026-01-01&g=2026-01-01), bedoelde rechten hij wil uitoefenen. Het exploot houdt op straffe van nietigheid de vermelding in van de mogelijkheid als bedoeld in [artikel 479p](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479p&z=2026-01-01&g=2026-01-01) tot het vorderen van een verbod van de afkoop van de verzekering of de wijziging van de begunstiging, alsmede van de daarvoor gestelde termijn. Hij doet een afschrift van het exploot toekomen aan de verzekeraar.
 
@@ -3998,13 +4021,13 @@ Het beslag op de rechten die voor de geëxecuteerde als verzekeringnemer voortvl
 
 3. De executant kan de bevoegdheden als bedoeld in [artikel 479m, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479m&z=2026-01-01&g=2026-01-01), uitoefenen zodra twee weken zijn verstreken na de dag waarop het exploot bedoeld in het eerste lid is uitgebracht. Heeft de geëxecuteerde een mededeling gedaan als bedoeld in het tweede lid, dan kan de executant de levensverzekering evenwel eerst doen afkopen zodra vier weken na die mededeling zijn verstreken en de belening niet heeft plaatsgevonden.
 
-#### Artikel 479o
+##### Artikel 479o
 
 1. Indien de executant de levensverzekering heeft doen afkopen of de geëxecuteerde deze overeenkomstig [artikel 479m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479m&z=2026-01-01&g=2026-01-01), heeft beleend, vervalt het beslag met betrekking tot die verzekering zodra de verzekeraar het uit die afkoop of die belening verschuldigde bedrag aan de deurwaarder heeft voldaan.
 
 2. Indien de executant met betrekking tot een levensverzekering de begunstiging heeft gewijzigd, vervalt die wijziging door de beëindiging van het beslag op die verzekering.
 
-#### Artikel 479p
+##### Artikel 479p
 
 1. Indien de geëxecuteerde of een begunstigde door een afkoop van de levensverzekering of een wijziging van de begunstiging onredelijk zou worden benadeeld, verbiedt de voorzieningenrechter op diens vordering geheel of ten dele die afkoop of wijziging. De in de vorige volzin bedoelde vordering kan slechts worden ingesteld tot twee weken na de dag waarop het exploot bedoeld in [artikel 479n, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479n&z=2026-01-01&g=2026-01-01), is uitgebracht. De in de eerste volzin bedoelde vordering kan in de gevallen, bedoeld in [artikel 479r, tweede lid, eerste volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479r&z=2026-01-01&g=2026-01-01), worden ingesteld tot twee weken na de dag waarop het exploot, bedoeld in [artikel 479r, tweede lid, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479r&z=2026-01-01&g=2026-01-01), is uitgebracht.
 
@@ -4012,13 +4035,13 @@ Het beslag op de rechten die voor de geëxecuteerde als verzekeringnemer voortvl
 
 3. Bij de beslissing op een vordering tot het verbieden van de afkoop van de verzekering kan de voorzieningenrechter, ook ambtshalve, de geëxecuteerde een nadere termijn van ten hoogste vier weken toestaan voor het belenen van de verzekering.
 
-#### Artikel 479q
+##### Artikel 479q
 
 Indien met betrekking tot een levensverzekering door verschillende schuldeisers beslag is gelegd, geschiedt de voortzetting van de executie door degene die het oudste executoriaal beslag heeft gelegd. Wordt de executie door de legger van dit beslag niet voortgezet, dan neemt degene die het daaropvolgende beslag heeft gelegd, de executie over.
 
 ### afdeling Tweede. Van executoriaal beslag onder derden
 
-#### Artikel 480
+##### Artikel 480
 
 1. Indien er geen andere schuldeiser is, die op de goederen of de opbrengst van de executie beslag heeft gelegd, en evenmin een beperkt gerechtigde bekend is wiens recht door de executie is vervallen, keert de deurwaarder de netto-opbrengst aan de executant tot het beloop van diens vordering uit. Een eventueel overschot wordt aan de geëxecuteerde afgedragen.
 
@@ -4026,7 +4049,7 @@ Indien met betrekking tot een levensverzekering door verschillende schuldeisers 
 
 3. Voor zover de verplichtingen welke krachtens dit artikel op de deurwaarder rusten, niet worden nageleefd, is de Staat jegens belanghebbenden voor de daaruit voor hen voortvloeiende schade met de deurwaarder hoofdelijk aansprakelijk.
 
-#### Artikel 481
+##### Artikel 481
 
 1. Is na de inning van de opbrengst van de executie geen overeenstemming als bedoeld in het tweede lid van het vorige artikel tot stand gekomen, dan kan de meest gerede partij aan de voorzieningenrechter van de rechtbank binnen welker rechtsgebied de executie in hoofdzaak heeft plaats gehad, de benoeming van een rechter-commissaris verzoeken, te wiens overstaan de verdeling zal plaatsvinden.
 
@@ -4036,61 +4059,61 @@ Indien met betrekking tot een levensverzekering door verschillende schuldeisers 
 
 4. [Artikel 282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=282a&z=2026-01-01&g=2026-01-01) is van toepassing.
 
-#### Artikel 482
+##### Artikel 482
 
 1. De griffier doet onverwijld aan de voormelde belanghebbenden bij gewone brief mededeling van de benoeming van de rechter-commissaris, met vermelding van de termijn waarbinnen de in het tweede lid bedoelde aanmelding van de vorderingen moet plaatsvinden.
 
 2. De tot voormelde belanghebbenden behorende schuldeisers, onder wie begrepen de voormelde beperkt gerechtigden, dienen binnen veertien dagen na de in het eerste lid bedoelde mededeling hun vorderingen schriftelijk, zo veel mogelijk met overlegging van bewijsstukken, bij de rechter-commissaris aan te melden teneinde overeenkomstig de door hen daarbij aan te geven rang te worden gerangschikt.
 
-#### Artikel 483
+##### Artikel 483
 
 Na verloop der veertien dagen bij het voorgaande artikel bepaald, zal de rechter-commissaris, naar aanleiding van de overgelegde stukken, een staat van verdeling opmaken.
 
-#### Artikel 483a
+##### Artikel 483a
 
 Vorderingen onder een ontbindende voorwaarde worden in de rangschikking begrepen voor het hele bedrag, onverminderd de werking van de voorwaarde, wanneer zij vervuld wordt.
 
-#### Artikel 483b
+##### Artikel 483b
 
 Vorderingen onder een opschortende voorwaarde worden in de rangschikking begrepen, hetzij voor hun waarde ten tijde van het opmaken van de staat van verdeling, hetzij op verlangen van een der schuldeisers of de geëxecuteerde, voorwaardelijk voor het hele bedrag.
 
-#### Artikel 483c
+##### Artikel 483c
 
 1. Niet opeisbare vorderingen en vorderingen die recht geven op periodieke uitkeringen, worden in de rangschikking begrepen voor hun waarde ten tijde van het opmaken van de staat van verdeling.
 
 2. Bij de berekening wordt uitsluitend gelet op het tijdstip en de wijze van aflossing, het kansgenot, waar dit bestaat, en, indien de vordering rentedragend is, op de bedongen rentevoet.
 
-#### Artikel 483d
+##### Artikel 483d
 
 Vorderingen, waarvan de waarde onbepaald of onzeker is of niet in Nederlands geld uitgedrukt, worden in de rangschikking begrepen voor hun geschatte waarde in Nederlands geld ten tijde van het opmaken van de staat van verdeling.
 
-#### Artikel 483e
+##### Artikel 483e
 
 Indien een pand- of hypotheekrecht strekt tot zekerheid van vorderingen die de pand- of hypotheekhouder uit hoofde van een bestaande rechtsverhouding zal verkrijgen, kunnen deze in de rangregeling worden begrepen, hetzij voor het gehele op het tijdstip van het opmaken van de staat reeds verschuldigde bedrag, hetzij, op verlangen van de pand- of hypotheekhouder, voorwaardelijk voor het hele bedrag waarvoor het pand- of hypotheekrecht tot zekerheid strekt.
 
-#### Artikel 483f
+##### Artikel 483f
 
 Vorderingen die betwist worden, kunnen door de rechter-commissaris voorwaardelijk worden opgenomen tot een door hem te bepalen bedrag. Wanneer de voorrang betwist wordt, kan deze door de rechter-commissaris voorwaardelijk worden erkend.
 
-#### Artikel 484
+##### Artikel 484
 
 1. De staat wordt door de rechter-commissaris verstrekt aan alle bovengenoemde belanghebbenden en de rechter bepaalt dag en uur, waarop alle partijen zich bij de rechter-commissaris zullen kunnen vervoegen tot het voorstellen van hun tegenspraak.
 
 2. Indien de geëxecuteerde niet tevens de schuldenaar is, geschiedt de kennisgeving mede aan deze laatste.
 
-#### Artikel 485
+##### Artikel 485
 
 1. Ingeval er geen tegenspraak gedaan wordt, zal de rechter-commissaris zijn proces-verbaal sluiten, en bij bevelschrift de houder van de netto-opbrengst gelasten daaruit de nog niet eerder voldane kosten te voldoen en aan de schuldeisers en de geëxecuteerde uit te betalen hetgeen hun, volgens de staat, toekomt. Het bedrag waarvoor een vordering of een daaraan verbonden voorrang voorwaardelijk is opgenomen of erkend, wordt gereserveerd tot de vordering of de voorrang vaststaat.
 
 2. De bevelschriften worden in executoriale vorm uitgegeven.
 
-#### Artikel 485a
+##### Artikel 485a
 
 1. De tegenspraak wordt gericht tot de rechter-commissaris en op diens proces-verbaal aangetekend.
 
 2. Heeft een schuldeiser als bedoeld in [artikel 482, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=482&z=2026-01-01&g=2026-01-01), de daar bedoelde termijn niet in acht genomen of niet op de in [artikel 484](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=484&z=2026-01-01&g=2026-01-01) bedoelde dag tegenspraak gedaan, dan zal hij slechts in zijn tegenspraak kunnen worden ontvangen, indien hij daarbij een redelijk belang heeft en hij de daardoor veroorzaakte kosten en schade voor zijn rekening neemt en deze tot een door de rechter-commissaris voorlopig te begroten bedrag onverwijld stort bij de bewaarder van de opbrengst.
 
-#### Artikel 486
+##### Artikel 486
 
 1. In geval van tegenspraak verwijst de rechter-commissaris de partijen, zo hij ze niet kan verenigen, en voor zover het geschil niet reeds aanhangig is, naar een door hem te bepalen zitting van de rechtbank, zonder dat daartoe een dagvaarding is vereist.
 
@@ -4100,19 +4123,19 @@ Vorderingen die betwist worden, kunnen door de rechter-commissaris voorwaardelij
 
 4. Belanghebbenden die geen tegenspraak hebben gedaan, kunnen in het geding niet tussenkomen of zich voegen.
 
-#### Artikel 489
+##### Artikel 489
 
 Nadat op het geschil bij in kracht van gewijsde gegane uitspraak is beslist of het geschil krachtens [artikel 486, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=486&z=2026-01-01&g=2026-01-01), is geëindigd, legt de meest gerede partij de uitspraak of een uittreksel uit het audiëntieblad waaruit van het niet verschijnen blijkt, aan de rechter-commissaris over. Deze sluit zijn proces-verbaal en beveelt de uitgifte van bevelschriften tot betaling overeenkomstig [artikel 485](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=485&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 490
+##### Artikel 490
 
 Na het sluiten van het proces-verbaal van verdeling kan geen tegenspraak meer worden gedaan, hebben de belanghebbenden onderling geen recht meer op rente over hetgeen aan hen is toegedeeld, en kan geen beslag op de opbrengst van de executie meer worden gelegd.
 
-#### Artikel 490a
+##### Artikel 490a
 
 Het bedrag, uitgetrokken voor een voorwaardelijk opgenomen vordering of een voorwaardelijk erkende voorrang, wordt, zodra blijkt dat de schuldeiser niets of minder te vorderen heeft dan wel geen of een lagere voorrang heeft, overeenkomstig de opgemaakte staat onder de schuldeisers verdeeld.
 
-#### Artikel 490b
+##### Artikel 490b
 
 1. Indien een pandhouder krachtens zijn pandrecht heeft geëxecuteerd en er beperkt gerechtigden of beslagleggers zijn als bedoeld in de derde volzin van [artikel 253, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=253), wordt het daar bedoelde overschot dat van de netto-opbrengst na afhouding van het aan de pandhouder krachtens zijn rang toekomende is overgebleven, aan hen uitgekeerd overeenkomstig hetgeen zij en de pandgever omtrent de verdeling daarvan zijn overeengekomen.
 
@@ -4126,19 +4149,19 @@ Het bedrag, uitgetrokken voor een voorwaardelijk opgenomen vordering of een voor
 
 6. Indien belanghebbenden voor het tot stand komen van een rangregeling alsnog over de verdeling overeenstemming bereiken en daarvan uit een onderhandse of authentieke akte doen blijken, keert de bewaarder ieder het hem volgens deze akte toekomende uit.
 
-#### Artikel 490c
+##### Artikel 490c
 
 1. Een executant die betaling heeft ontvangen, is verplicht desverlangd aan hem wiens goed is verkocht en aan de schuldenaar binnen één maand na de betaling rekening en verantwoording te doen.
 
 2. Een schuldeiser die in de rangregeling is begrepen, kan binnen één maand na de sluiting daarvan een gelijke rekening en verantwoording vragen, indien hij daarbij een rechtstreeks belang heeft.
 
-#### Artikel 490d
+##### Artikel 490d
 
 Beschikkingen van de rechter-commissaris krachtens de onderhavige afdeling zijn niet vatbaar voor hoger beroep.
 
 ### afdeling Vierde. Van executie tot afgifte van roerende zaken, die geen registergoederen zijn
 
-#### Artikel 491
+##### Artikel 491
 
 1. De executie tot afgifte van een roerende zaak die geen registergoed is, vangt aan met een bevel als bedoeld in [artikel 439](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=439&z=2026-01-01&g=2026-01-01), dat van overeenkomstige toepassing is, behoudens dat de in het eerste lid van dat artikel bedoelde termijn niet behoeft te worden in acht genomen ter zake van de executie van vonnissen en beschikkingen, die uitvoerbaar bij voorraad zijn verklaard.
 
@@ -4146,7 +4169,7 @@ Beschikkingen van de rechter-commissaris krachtens de onderhavige afdeling zijn 
 
 3. De [artikelen 440](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=440&z=2026-01-01&g=2026-01-01) en [443-444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=443&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing met dien verstande dat voor de toepassing van [artikel 444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01) de waarde van de zaak in de plaats treedt van het bedrag van de vordering waarvoor beslag is gelegd.
 
-#### Artikel 492
+##### Artikel 492
 
 1. Ter inleiding van de toepassing van [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=491&z=2026-01-01&g=2026-01-01) kan de deurwaarder op de zaak beslag tot verkrijging van afgifte leggen. De in [artikel 439, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=439&z=2026-01-01&g=2026-01-01), bedoelde termijn behoeft daarbij niet in acht te worden genomen.
 
@@ -4156,11 +4179,11 @@ Beschikkingen van de rechter-commissaris krachtens de onderhavige afdeling zijn 
 
 4. Indien geen ander beslag daaraan in de weg staat, kan de deurwaarder alsnog [artikel 491](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=491&z=2026-01-01&g=2026-01-01) toepassen. Het door hem gelegde beslag eindigt daardoor.
 
-#### Artikel 493
+##### Artikel 493
 
 Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan zal de deurwaarder een aan dat recht beantwoordende hoeveelheid zaken van die soort onder zich of in beslag nemen, uit te kiezen door de deurwaarder tenzij de geëxecuteerde tijdig van een hem toekomende bevoegdheid tot kiezen gebruik maakt.
 
-#### Artikel 494
+##### Artikel 494
 
 1. Betreft het recht op afgifte te velde staande vruchten en beplantingen van een onroerende zaak, dan kan uit dien hoofde beslag worden gelegd op de zaak of het zakelijk recht van degene jegens wie dit recht bestaat, zulks overeenkomstig de bepalingen betreffende beslag op onroerende zaken, maar met vermelding in het proces-verbaal dat het beslag slechts ten aanzien van die vruchten of beplantingen zijn werking heeft.
 
@@ -4168,13 +4191,13 @@ Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan zal d
 
 3. [Artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=451&z=2026-01-01&g=2026-01-01) is, mede ter zake van de inoogsting, van overeenkomstige toepassing.
 
-#### Artikel 495
+##### Artikel 495
 
 1. Betreft het recht op afgifte een orderpapier, dan is [artikel 474a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
 2. Betreft het recht op afgifte een toonder- of orderpapier en is aan het daaruit voortvloeiende recht stemrecht verbonden, dan is [artikel 474ba](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474ba&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, tenzij het stemrecht blijkens de executoriale titel aan de executant toekomt.
 
-#### Artikel 496
+##### Artikel 496
 
 1. Betreft het een executie tot afgifte op vordering van een pandhouder als bedoeld in [artikel 237, derde lid, van Boek 3 van het Burgerlijk Wetboek](onbekend), dan geeft de deurwaarder de zaak af aan de pandhouder of derde in wiens macht de zaak moet worden gebracht.
 
@@ -4182,7 +4205,7 @@ Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan zal d
 
 3. Is op de zaak reeds beslag gelegd, dan kan de deurwaarder haar met handhaving van het beslag niettemin onder zich nemen, mits de pandhouder tevens overeenkomstig [artikel 461a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461a&z=2026-01-01&g=2026-01-01) de executie van de beslaglegger overneemt. Hij betekent de in de vierde zin van het vorige lid bedoelde stukken onverwijld mede aan de deurwaarder die het beslag heeft gelegd.
 
-#### Artikel 497
+##### Artikel 497
 
 1. Bij samenloop van een beslag tot verkrijging van afgifte met een ander beslag, al of niet van dezelfde aard, kan de meest gerede partij zich overeenkomstig [artikel 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01) tot de rechter wenden.
 
@@ -4190,15 +4213,15 @@ Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan zal d
 
 3. Een beslag tot verhaal van een vordering tot vervangende schadevergoeding wegens het uitblijven van afgifte van een zaak kan niet tegen de legger van een beslag tot verkrijging van afgifte van die zaak worden ingeroepen, indien deze andere goederen van de beslagene aanwijst die voor deze vordering voldoende verhaal bieden.
 
-#### Artikel 498
+##### Artikel 498
 
 Zolang de afgifte nog niet heeft plaats gevonden, kan ieder wiens recht op de zaak de executant moet eerbiedigen, zich tegen de afgifte verzetten.
 
-#### Artikel 499
+##### Artikel 499
 
 Bevindt de zaak zich onder een derde die tegen de afgifte geen bezwaar maakt of zich niet te goeder trouw tegen een vordering tot afgifte aan de geëxecuteerde zou kunnen verzetten, dan geschiedt de executie overeenkomstig de voorgaande artikelen van deze afdeling. De afgifte aan de executant geldt mede als afgifte van de derde aan de geëxecuteerde.
 
-#### Artikel 500
+##### Artikel 500
 
 Tot afgifte van een zaak die zich onder een derde bevindt, kan ook derdenbeslag gelegd worden. De [artikelen 475-479](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing. Het exploot van beslaglegging houdt in om de afgifte van welke zaak of zaken het gaat. De verklaring van de derde, als bedoeld in [artikel 476a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476a&z=2026-01-01&g=2026-01-01), betreft uitsluitend deze zaak of zaken.
 
@@ -4206,7 +4229,7 @@ Tot afgifte van een zaak die zich onder een derde bevindt, kan ook derdenbeslag 
 
 ### Tweede afdeling B. Van executoriaal beslag onder de schuldeiser zelf
 
-#### Artikel 502
+##### Artikel 502
 
 1. Het beslag op onroerende zaken moet worden voorafgegaan door een exploot van een deurwaarder, houdende bevel om binnen twee dagen aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd. Indien daartoe gronden zijn, kan de voorzieningenrechter van de rechtbank, ook op mondeling verzoek van de deurwaarder, die termijn inkorten.
 
@@ -4216,11 +4239,11 @@ Tot afgifte van een zaak die zich onder een derde bevindt, kan ook derdenbeslag 
 
 4. Bij het bevel of de betekening moet de executant tot het uiteinde der executie woonplaats kiezen ten kantore van de deurwaarder, zulks op straffe van nietigheid van het exploot. Tevens kan woonplaats worden gekozen in Nederland ten kantore van een advocaat.
 
-#### Artikel 503
+##### Artikel 503
 
 Indien de schuldeiser een jaar na het bevel heeft laten verlopen, zal hij gehouden zijn het bevel te vernieuwen.
 
-#### Artikel 504
+##### Artikel 504
 
 1. Het beslag geschiedt bij een proces-verbaal van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -4234,13 +4257,13 @@ Indien de schuldeiser een jaar na het bevel heeft laten verlopen, zal hij gehoud
 
 2. In het proces-verbaal kan tevens een notaris worden aangewezen ten overstaan van wie de verkoop zal geschieden. In dat geval wordt in plaats van bij de deurwaarder, woonplaats bij de notaris gekozen.
 
-#### Artikel 504a
+##### Artikel 504a
 
 1. Het beslag kan slechts worden gelegd voor een vordering waarvan het geldelijk beloop bepaalbaar is.
 
 2. Zolang de vordering niet is vereffend, kan niet tot executoriale verkoop worden overgegaan.
 
-#### Artikel 505
+##### Artikel 505
 
 1. Het proces-verbaal van inbeslagneming zal in de in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2) bedoelde openbare registers worden ingeschreven. Een afschrift van het proces-verbaal zal op straffe van nietigheid van het beslag niet later dan drie dagen na de inschrijving aan de geëxecuteerde worden betekend.
 
@@ -4248,7 +4271,7 @@ Indien de schuldeiser een jaar na het bevel heeft laten verlopen, zal hij gehoud
 
 3. Indien de akte betreffende de vervreemding of bezwaring vóór de inschrijving van het beslag reeds was verleden, kan de vervreemding of bezwaring nog tegen de beslaglegger worden ingeroepen, mits de inschrijving van deze akte uiterlijk geschiedt de eerste dag, waarop het kantoor van de Dienst voor het kadaster en de openbare registers na de dag van de inschrijving van het beslag voor het publiek opengesteld is.
 
-#### Artikel 506
+##### Artikel 506
 
 1. De geëxecuteerde is verplicht de in beslag genomen zaken in goede staat te houden.
 
@@ -4256,7 +4279,7 @@ Indien de schuldeiser een jaar na het bevel heeft laten verlopen, zal hij gehoud
 
 3. Tegen een aanstelling krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 507
+##### Artikel 507
 
 1. Vruchten en beplantingen, die ten tijde van de inschrijving zich nog op of in de zaak bevinden of te velde staan en vóór de verkoop worden geoogst, vallen mede onder het beslag, tenzij daarop rechten of beslagen van derden rusten, daaronder begrepen het pandrecht bedoeld in artikel 237, vierde lid, van Boek 3 van het Burgerlijk Wetboek.
 
@@ -4266,17 +4289,17 @@ Indien de schuldeiser een jaar na het bevel heeft laten verlopen, zal hij gehoud
 
 4. Het vorige lid is van overeenkomstige toepassing op hetgeen aan de geëxecuteerde verschuldigd is als canon uit hoofde van een erfpacht of als retributie uit hoofde van een opstalrecht of erfdienstbaarheid of als tegenprestatie ter zake van een kwalitatieve verplichting als bedoeld in [artikel 252, vierde lid, van Boek 6 van het Burgerlijk Wetboek](onbekend).
 
-#### Artikel 507a
+##### Artikel 507a
 
 1. Eveneens vallen onder het beslag vorderingen tot vergoeding die na de inschrijving in de plaats van de zaak zijn getreden, daaronder begrepen vorderingen ter zake van waardevermindering van de zaak.
 
 2. Zij moeten met overeenkomstige toepassing van [artikel 507, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=507&z=2026-01-01&g=2026-01-01), aan de notaris worden voldaan, behoudens de rechten van derden, die de executant moet eerbiedigen.
 
-#### Artikel 508
+##### Artikel 508
 
 Rusten op de in beslag genomen zaak een of meer hypotheken, dan zal de beslaglegger het door hem gelegde beslag uiterlijk binnen vier dagen na de inschrijving in de betreffende openbare registers aan de hypotheekhouders doen betekenen; de betekening mag geschieden aan de door deze overeenkomstig [artikel 260, eerste lid, derde zin, van Boek 3 van het Burgerlijk Wetboek](onbekend) gekozen woonplaats.
 
-#### Artikel 509
+##### Artikel 509
 
 1. Indien een hypotheekhouder die uit hoofde van zijn recht bevoegd is tot executoriale verkoop, de executie wil overnemen en dit binnen veertien dagen nadat het beslag aan hem is betekend, aanzegt aan de executant met inachtneming van [artikel 544, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vierde&artikel=544&z=2026-01-01&g=2026-01-01), geschiedt de executie verder door de hypotheekhouder en zijn de desbetreffende bepalingen van toepassing.
 
@@ -4284,19 +4307,19 @@ Rusten op de in beslag genomen zaak een of meer hypotheken, dan zal de beslagleg
 
 3. Wordt niet binnen veertien dagen een aanzegging als in het eerste lid bedoeld gedaan, dan is de beslaglegger bevoegd de executie voort te zetten.
 
-#### Artikel 510
+##### Artikel 510
 
 Vervallen
 
-#### Artikel 511
+##### Artikel 511
 
 Vervallen
 
-#### Artikel 512
+##### Artikel 512
 
 Vervallen
 
-#### Artikel 513
+##### Artikel 513
 
 1. Indien meer schuldeisers op dezelfde zaak beslag hebben gelegd, zal de executie plaatsvinden op de vervolging van degene die het eerst overeenkomstig [artikel 505, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=505&z=2026-01-01&g=2026-01-01), het proces-verbaal van beslag heeft doen inschrijven.
 
@@ -4310,7 +4333,7 @@ Vervallen
 
 4. Bij toepassing van het tweede lid wordt de overneming bij exploot aan de geëxecuteerde aangezegd.
 
-#### Artikel 513a
+##### Artikel 513a
 
 De inschrijving van het beslag kan worden doorgehaald met toepassing van de [artikelen 28](onbekend) en [29 van Boek 3 van het Burgerlijk Wetboek](onbekend), met dien verstande dat de bewaarder mede tot doorhaling wordt gemachtigd door:
 
@@ -4320,7 +4343,7 @@ De inschrijving van het beslag kan worden doorgehaald met toepassing van de [art
 
 ### afdeling Derde. Van de verdeling van de opbrengst der executie
 
-#### Artikel 514
+##### Artikel 514
 
 1. De executoriale verkoop geschiedt ten overstaan van een bevoegde notaris.
 
@@ -4328,31 +4351,31 @@ De inschrijving van het beslag kan worden doorgehaald met toepassing van de [art
 
 3. Bij een exploot als bedoeld in het tweede lid kiest de executant op straffe van nietigheid woonplaats ten kantore van de aangewezen notaris.
 
-#### Artikel 515
+##### Artikel 515
 
 1. De notaris stelt binnen veertien dagen na zijn aanwijzing of, zo er hypothecaire inschrijvingen zijn, binnen veertien dagen na het ongebruikt verstrijken van de in [artikel 509, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=509&z=2026-01-01&g=2026-01-01), bedoelde termijn, dag, uur en plaats van de verkoop vast.
 
 2. Hij deelt schriftelijk dag, uur en plaats van de verkoop mede aan de geëxecuteerde en aan alle in [artikel 551](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vijfde&artikel=551&z=2026-01-01&g=2026-01-01) bedoelde beperkt gerechtigden en schuldeisers, een en ander aan de hand van een door de bewaarder van het kadaster en de openbare registers af te geven kadastraal uittreksel inzake hypotheken en beslagen als bedoeld in [artikel 100, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=100), waarin de inschrijvingen en de boekingen in de registers van voorlopige aantekeningen worden vermeld, die daartoe van belang zijn.
 
-#### Artikel 516
+##### Artikel 516
 
 1. Geen verkoop zal kunnen plaatsvinden dan na verloop van dertig dagen, nadat zij door aankondiging op een of meer algemeen toegankelijke websites zal zijn bekend gemaakt.
 
 2. In de bekendmakingen wordt vermeld dat het een executoriale verkoop betreft.
 
-#### Artikel 517
+##### Artikel 517
 
 1. De notaris stelt de veilingvoorwaarden vast, zulks in overleg met de executant en met inachtneming van het bepaalde in de [artikelen 519](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=519&z=2026-01-01&g=2026-01-01), [524a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=524a&z=2026-01-01&g=2026-01-01) en [525 lid 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=525&z=2026-01-01&g=2026-01-01). Tenminste dertig dagen voor de verkoop doet hij de in [artikel 515, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=515&z=2026-01-01&g=2026-01-01), bedoelde ingeschrevenen en latere beslagleggers hiervan mededeling met toezending van een exemplaar van deze voorwaarden en plaatst hij de veilingvoorwaarden tevens op de in [artikel 516, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=516&z=2026-01-01&g=2026-01-01), bedoelde website of websites.
 
 2. Op verlangen van ieder der voormelde belanghebbenden kunnen de veilingvoorwaarden tevens inhouden dat de zaak wordt verkocht vrij van daarop rustende rechten of beperkingen, die niet tegen het recht van deze belanghebbende kunnen worden ingeroepen.
 
-#### Artikel 518
+##### Artikel 518
 
 1. Geschillen over de veilingvoorwaarden, over de wijze van verkoop of over dag, uur of plaats daarvan, dan wel, via welke website en gedurende welke periode er kan worden geboden, worden op verzoek van de meest gerede partij of van de notaris beslist door de voorzieningenrechter van de rechtbank in welker rechtsgebied de zaken geheel of grotendeels zijn gelegen, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig [artikel 538](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Derde&artikel=538&z=2026-01-01&g=2026-01-01) te verzetten.
 
 2. Tegen beschikkingen krachtens dit artikel is geen hogere voorziening toegelaten.
 
-#### Artikel 519
+##### Artikel 519
 
 1. De verkoop vindt in het openbaar plaats, eerst bij opbod en vervolgens bij afmijning.
 
@@ -4362,7 +4385,7 @@ De inschrijving van het beslag kan worden doorgehaald met toepassing van de [art
 
 4. De algemeen toegankelijke website waarop de verkoop plaatsvindt is ingericht met passende technische maatregelen om de betrouwbaarheid en veiligheid te waarborgen. Bij algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.
 
-#### Artikel 520
+##### Artikel 520
 
 1. De executant kan onroerende zaken die in verschillende arrondissementen zijn gelegen, slechts gezamenlijk voor één prijs verkopen, indien zij tezamen worden geëxploiteerd of door alle belanghebbenden bij de opbrengst gezamenlijke verkoop is overeengekomen.
 
@@ -4370,23 +4393,23 @@ De inschrijving van het beslag kan worden doorgehaald met toepassing van de [art
 
 3. Tegen beschikkingen krachtens het vorige lid is geen hogere voorziening toegelaten.
 
-#### Artikel 521
+##### Artikel 521
 
 Heeft de executant voor de schuld waarvoor hij beslag heeft gelegd tevens hypotheek op andere onroerende zaken of op beperkte rechten daarop, dan mag hij de in beslag genomen zaken slechts verkopen in geval de aan hem verhypothekeerde goederen ontoereikend zijn.
 
-#### Artikel 522
+##### Artikel 522
 
 Indien meer onroerende zaken in dezelfde inbeslagneming zijn vervat en de opbrengst van het verkochte toereikend is om de executant, de beperkt gerechtigden wier recht vervalt, en de andere beslagleggers op deze zaken, met de kosten, te voldoen, zal de notaris met de verkoop der overige zaken niet verder gaan, tenzij de geëxecuteerde verklaart die verkoop te verlangen.
 
-#### Artikel 523
+##### Artikel 523
 
 De notaris is verplicht, voor zover hem dit mogelijk is, uiterlijk op de dag na de verkoop, van de verkoop schriftelijk kennis te geven aan de geëxecuteerde en aan alle in [artikel 551](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vijfde&artikel=551&z=2026-01-01&g=2026-01-01) bedoelde beperkt gerechtigden en schuldeisers.
 
-#### Artikel 524
+##### Artikel 524
 
 De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze voldoet daaruit de kosten van de executie.
 
-#### Artikel 525
+##### Artikel 525
 
 1. De koper verkrijgt het recht op de verkochte zaken door inschrijving van het proces-verbaal van toewijzing.
 
@@ -4396,127 +4419,127 @@ De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze vold
 
 4. De tot bewoning bestemde onroerende zaak is voor risico van de koper vanaf het moment van de inschrijving van het proces-verbaal van toewijzing.
 
-#### Artikel 526
+##### Artikel 526
 
 1. [Artikel 273 van Boek 3 van het Burgerlijk Wetboek](onbekend) is van toepassing.
 
 2. Op de in dat artikel aangegeven wijze vervallen ook beperkte rechten die wel tegen de verkoper ingeroepen kunnen worden, indien de zaak vrij van deze rechten is verkocht overeenkomstig [artikel 517, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=517&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 527
+##### Artikel 527
 
 Schiet de koper tekort in de nakoming van de koopovereenkomst, dan mag de executant ten laste van de koper de verkochte zaak met inachtneming van de [artikelen 514 en volgende](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=514&z=2026-01-01&g=2026-01-01) wederom verkopen. De executant is tot deze verkoop gehouden, indien een van de bij de opbrengst direct belanghebbenden dit verlangt.
 
-#### Artikel 528
+##### Artikel 528
 
 De koper zal deze nieuwe verkoop kunnen voorkomen door vóór de verkoop alsnog aan de koopovereenkomst te voldoen en de met betrekking tot deze nieuwe verkoop reeds gemaakte kosten te betalen met aanbod van zekerheid voor zover deze nog niet bekend mochten zijn.
 
-#### Artikel 529
+##### Artikel 529
 
 De koper die in de nakoming van de koopovereenkomst tekortschiet, is aansprakelijk voor het verschil tussen de prijs waarvoor hij de zaak heeft gekocht en die van de nieuwe verkoop, zonder dat hij nochtans het meerdere dat deze laatste verkoop mocht hebben opgebracht, zal kunnen vorderen; dit meerdere zal aan de schuldeisers, of zo dezen niet meer te vorderen hebben, aan degenen tegen wie het beslag gedaan is, betaald worden.
 
-#### Artikel 530
+##### Artikel 530
 
 Vervallen
 
-#### Artikel 531
+##### Artikel 531
 
 Vervallen
 
-#### Artikel 532
+##### Artikel 532
 
 Vervallen
 
-#### Artikel 533
+##### Artikel 533
 
 Vervallen
 
-#### Artikel 534
+##### Artikel 534
 
 Vervallen
 
-#### Artikel 535
+##### Artikel 535
 
 Vervallen
 
-#### Artikel 536
+##### Artikel 536
 
 Vervallen
 
-#### Artikel 537
+##### Artikel 537
 
 Vervallen
 
-#### Artikel 537a
+##### Artikel 537a
 
 Vervallen
 
-#### Artikel 537b
+##### Artikel 537b
 
 Vervallen
 
-#### Artikel 537c
+##### Artikel 537c
 
 Vervallen
 
-#### Artikel 537d
+##### Artikel 537d
 
 Vervallen
 
-#### Artikel 537e
+##### Artikel 537e
 
 Vervallen
 
-#### Artikel 537f
+##### Artikel 537f
 
 Vervallen
 
-#### Artikel 537g
+##### Artikel 537g
 
 Vervallen
 
-#### Artikel 537h
+##### Artikel 537h
 
 Vervallen
 
-#### Artikel 537i
+##### Artikel 537i
 
 Vervallen
 
-#### Artikel 537j
+##### Artikel 537j
 
 Vervallen
 
 ### afdeling Eerste. Van executoriaal beslag op onroerende zaken
 
-#### Artikel 538
+##### Artikel 538
 
 1. Treft het beslag een zaak die geheel of ten dele aan een ander toebehoort of waarop een recht van een ander rust dat de executant moet eerbiedigen, dan kan deze ander zich tegen verkoop waarbij zijn recht niet in acht wordt genomen, tot op het tijdstip van de verkoop verzetten.
 
 2. De eiser die in het ongelijk wordt gesteld, zal, op vordering van de executant, zo daartoe gronden zijn, tot schadevergoeding worden veroordeeld.
 
-#### Artikel 539
+##### Artikel 539
 
 De notaris aan wie een dagvaarding als bedoeld in het vorige artikel betekend wordt is bevoegd de verkoop van alle bij de executie betrokken zaken op te schorten, totdat de voorzieningenrechter van de rechtbank omtrent de schorsing van de executie zal hebben beslist op vordering van de meest gerede partij of op verlangen van de notaris, die zich daartoe bij de voorzieningenrechter kan vervoegen.
 
-#### Artikel 540
+##### Artikel 540
 
 Indien de verkoop door het verzet is vertraagd, kan deze niet plaatsvinden dan nadat de in [artikel 516](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=516&z=2026-01-01&g=2026-01-01) bedoelde bekendmakingen opnieuw hebben plaatsgevonden en de daar bedoelde termijn opnieuw is in acht genomen.
 
-#### Artikel 541
+##### Artikel 541
 
 Vervallen
 
-#### Artikel 542
+##### Artikel 542
 
 Vervallen
 
-#### Artikel 543
+##### Artikel 543
 
 Vervallen
 
 ### afdeling Vierde. Van executie door een hypotheekhouder
 
-#### Artikel 544
+##### Artikel 544
 
 1. De hypotheekhouder is verplicht de executie te doen inleiden door een aanzegging daarvan of van de in [artikel 509](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=509&z=2026-01-01&g=2026-01-01) bedoelde overneming aan de hypotheekgever, de schuldenaar en hen van wier recht of beslag uit de registers blijkt en wier recht door de executoriale verkoop zal tenietgaan of vervallen.
 
@@ -4528,7 +4551,7 @@ Vervallen
 
 3. Een hypotheekhouder kan de executie ook overnemen van een andere hypotheekhouder wiens recht in rang na het zijne komt, door binnen veertien dagen nadat hem de in het eerste lid bedoelde aanzegging is gedaan, van de overneming aanzegging te doen. Artikel 509 is van overeenkomstige toepassing. De vorige leden worden opnieuw in acht genomen.
 
-#### Artikel 545
+##### Artikel 545
 
 1. Indien de hypotheekhouder in gebreke mocht blijven de executie met redelijke spoed voort te zetten, kan elke beslaglegger of hypotheekhouder aan de voorzieningenrechter van de rechtbank binnen welker rechtsgebied de zaken geheel of grotendeels zijn gelegen, verzoeken een termijn vast te stellen, waarbinnen de hypotheekhouder tot de verkoop of tot indiening van een verzoek tot onderhandse verkoop moet overgaan.
 
@@ -4536,11 +4559,11 @@ Vervallen
 
 3. Tegen een beschikking krachtens het eerste lid is geen hogere voorziening toegelaten.
 
-#### Artikel 546
+##### Artikel 546
 
 De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=514&z=2026-01-01&g=2026-01-01), [515-520](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=515&z=2026-01-01&g=2026-01-01), [522](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=522&z=2026-01-01&g=2026-01-01), [523](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=523&z=2026-01-01&g=2026-01-01), [524a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=524a&z=2026-01-01&g=2026-01-01), [525](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=525&z=2026-01-01&g=2026-01-01), [526, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=526&z=2026-01-01&g=2026-01-01), en [527-529](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=527&z=2026-01-01&g=2026-01-01) zijn ook bij executie door een hypotheekhouder van toepassing met inachtneming van de volgende artikelen van deze afdeling.
 
-#### Artikel 547
+##### Artikel 547
 
 1. De in [artikel 515](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=515&z=2026-01-01&g=2026-01-01) bedoelde termijn loopt vanaf de dag van de in [artikel 544](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vierde&artikel=544&z=2026-01-01&g=2026-01-01) bedoelde aanzegging aan de hypotheekgever.
 
@@ -4548,7 +4571,7 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 3. De notaris geeft van de binnengekomen biedingen onverwijld afschrift aan de executant en de geëxecuteerde.
 
-#### Artikel 548
+##### Artikel 548
 
 1. Tot één week vóór de voor de verkoop bepaalde dag kan bij de voorzieningenrechter van de rechtbank het in [artikel 268, tweede lid, van Boek 3 van het Burgerlijk Wetboek](onbekend) bedoelde verzoek dat de verkoop ondershands zal geschieden, worden ingediend.
 
@@ -4558,7 +4581,7 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 4. Door tijdige indiening van het verzoek vervalt de voor de openbare verkoop bepaalde dag. Wordt het verzoek afgewezen, dan zal de rechter tevens de dag bepalen waarop de openbare verkoop zal plaatsvinden. Deze verkoop zal tenminste veertien dagen tevoren op de in [artikel 516](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=516&z=2026-01-01&g=2026-01-01) bedoelde wijze worden bekendgemaakt. De voorzieningenrechter kan de verzoeker in de kosten van de bekendmaking veroordelen, onverminderd diens verplichting de door het verzoek ontstane schade te vergoeden, zo daartoe gronden zijn.
 
-#### Artikel 549
+##### Artikel 549
 
 1. Een verzoekschrift van de hypotheekhouder tot het verkrijgen van het verlof, bedoeld in [artikel 264 lid 5 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=264) kan, behalve door een advocaat, ook door een notaris worden ingediend, in welk geval diens kantoor als gekozen woonplaats van de verzoeker geldt. Bij het verzoekschrift wordt overgelegd een niet langer dan één maand tevoren aan de huurder of, als de woonruimte in zijn plaats door een onderhuurder wordt bewoond, aan de onderhuurder door een deurwaarder uitgebracht exploit waarbij:
 
@@ -4572,7 +4595,7 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 4. Onder de huurder in de zin van dit artikel wordt begrepen degene die ingevolge [artikel 266 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=266) of [artikel 267 lid 1 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=267) medehuurder is.
 
-#### Artikel 550
+##### Artikel 550
 
 1. In het geval, bedoeld in het derde lid van [artikel 267a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=267a), vindt de bezichtiging plaats door tussenkomst van de deurwaarder, die hiertoe bevoegd is tot het binnentreden van de woning zonder toestemming van de bewoner en die hiervan proces-verbaal opmaakt.
 
@@ -4580,7 +4603,7 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 ### afdeling Tweede. Van executoriale verkoop van onroerende zaken
 
-#### Artikel 551
+##### Artikel 551
 
 1. Indien er geen andere schuldeiser is, die op het geëxecuteerde of op de koopprijs beslag heeft gelegd, en evenmin door de executie een beperkt recht vervalt, draagt de notaris aan de executant uit de netto-opbrengst van de zaak af hetgeen aan deze blijkens een door hem te dien aanzien aan de notaris afgelegde verklaring krachtens zijn executoriale titel toekomt; het overschot keert de notaris uit aan de geëxecuteerde.
 
@@ -4594,13 +4617,13 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 6. Van het in dit artikel bepaalde kan in de koopvoorwaarden niet worden afgeweken.
 
-#### Artikel 551a
+##### Artikel 551a
 
 1. Na de betaling van de koopprijs is ieder der in het derde lid van het vorige artikel genoemde belanghebbenden bevoegd een gerechtelijke rangregeling te verzoeken.
 
 2. Indien deze belanghebbenden met betrekking tot de verdeling alsnog tot overeenstemming komen en daarvan door een authentieke akte doen blijken aan de in [artikel 551, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vijfde&artikel=551&z=2026-01-01&g=2026-01-01), bedoelde bewaarder, keert deze aan ieder het hem volgens deze akte toekomende uit.
 
-#### Artikel 552
+##### Artikel 552
 
 1. Een gerechtelijke rangregeling, bedoeld in het vorige artikel en in [artikel 271 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=271), wordt verzocht door aan de voorzieningenrechter van de rechtbank binnen welker rechtsgebied zich de geëxecuteerde zaken geheel of grotendeels bevinden, de benoeming van een rechter-commissaris te verzoeken, te wiens overstaan de verdeling zal plaatsvinden. [Artikel 282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=282a&z=2026-01-01&g=2026-01-01) is van toepassing.
 
@@ -4610,25 +4633,25 @@ De [artikelen 514, tweede lid, tweede zin, en derde lid](https://wetten.overheid
 
 4. Op de rangregeling zijn de [artikelen 482-490a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=482&z=2026-01-01&g=2026-01-01), [490c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490c&z=2026-01-01&g=2026-01-01) en [490d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490d&z=2026-01-01&g=2026-01-01) van toepassing.
 
-#### Artikel 553
+##### Artikel 553
 
 1. Ingeval bij een executoriale verkoop meer onroerende zaken of daarop rustende rechten tezamen, dan wel een of meer onroerende zaken of daarop rustende rechten tezamen met daarbij behorende roerende zaken, zoals omschreven in [artikel 254 van Boek 3 van het Burgerlijk Wetboek](onbekend), voor één prijs zijn verkocht en er deelnemers aan de rangregeling zijn, wier recht of voorrang niet alle verkochte zaken of rechten betreft, deelt ieder van hen alleen mee of alleen met voorrang mee in het gedeelte van de netto-opbrengst dat naar schatting kan worden toegerekend aan de zaken of rechten waarop zijn recht of voorrang betrekking had.
 
 2. In de in [artikel 483](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=483&z=2026-01-01&g=2026-01-01) bedoelde staat van verdeling zal de rechter-commissaris aan de hand van de overgelegde stukken en zo nodig na verhoor van deskundigen een verdeling overeenkomstig het vorige lid voorstellen.
 
-#### Artikel 554
+##### Artikel 554
 
 Vervallen
 
 ### afdeling Vierde. Van executie door een hypotheekhouder
 
-#### Artikel 555
+##### Artikel 555
 
 1. De gedwongen ontruiming van onroerende zaken moet worden voorafgegaan door een exploot van een deurwaarder, houdende bevel om binnen drie dagen aan de executoriale titel te voldoen, alsmede een vermelding van de datum van ontruiming. De [artikelen 502](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=502&z=2026-01-01&g=2026-01-01) en [503](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=503&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 2. Indien de gedwongen ontruiming niet plaatsvindt op de datum aangegeven in het exploot, dient de nieuwe datum ten minste drie dagen voor de ontruiming te worden aangezegd aan de schuldenaar.
 
-#### Artikel 556
+##### Artikel 556
 
 1. De gedwongen ontruiming geschiedt door een deurwaarder.
 
@@ -4636,11 +4659,11 @@ Vervallen
 
 3. Het college van burgemeester en wethouders draagt ten laste van de executant zorg voor het meevoeren en opslaan van de roerende zaken die zich in de tot bewoning bestemde ontruimde onroerende zaak bevonden. Zaken waarvan redelijkerwijs aangenomen mag worden dat de rechthebbende daar geen belang bij heeft, kunnen terstond worden afgevoerd en vernietigd. De [artikelen 5:29](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:29) en [5:30 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:30) zijn van overeenkomstige toepassing. Bij gebreke van betaling binnen de door het college gestelde termijn, kan het college het verschuldigde bedrag van de executant invorderen bij dwangbevel.
 
-#### Artikel 557
+##### Artikel 557
 
 Indien de deuren gesloten zijn, of de opening geweigerd wordt, gelijk mede indien geweigerd wordt enige kamer te openen, is [artikel 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 557a
+##### Artikel 557a
 
 1. Tenzij zulks onverenigbaar zou zijn met het belang van degene op wiens vordering het bevel wordt gedaan, kan de rechter bepalen dat een vonnis, waarbij aan anderen dan aan gebruikers of gewezen gebruikers krachtens een persoonlijk of zakelijk recht de ontruiming wordt bevolen van een gebouwde onroerende zaak of gedeelte daarvan, binnen een door hem te bepalen termijn niet ten uitvoer kan worden gelegd, onverminderd het recht van de eerstgenoemde op vergoeding van alle geleden of te lijden schade.
 
@@ -4648,7 +4671,7 @@ Indien de deuren gesloten zijn, of de opening geweigerd wordt, gelijk mede indie
 
 3. Desgevorderd kan de rechter bepalen dat een vonnis, waarbij aan anderen dan aan gebruikers of gewezen gebruikers krachtens een persoonlijk of zakelijk recht de ontruiming wordt bevolen van een gebouwde onroerende zaak of gedeelte daarvan, tot een jaar na de dag waarop het vonnis wordt uitgesproken dan wel bekrachtigd, of, indien de rechter een termijn bepaalt als bedoeld in het eerste lid, tot een jaar na de dag waarop die datum verstrijkt, ten uitvoer kan worden gelegd tegen een ieder die ten tijde van de tenuitvoerlegging zich daar bevindt of daar binnentreedt en telkens wanneer dat zich voordoet.
 
-#### Artikel 558
+##### Artikel 558
 
 Deze afdeling is mede van toepassing, indien een gehele of gedeeltelijke al of niet tijdelijke ontruiming nodig is, omdat:
 
@@ -4656,19 +4679,19 @@ Deze afdeling is mede van toepassing, indien een gehele of gedeeltelijke al of n
 
 - b. de executant krachtens de door hem verkregen uitspraak gerechtigd is werkzaamheden op of aan een onroerende zaak te verrichten en degene tegen wie de tenuitvoerlegging zich richt, gehouden is dit te gedogen.
 
-#### Artikel 559
+##### Artikel 559
 
 Vervallen
 
-#### Artikel 560
+##### Artikel 560
 
 Vervallen
 
-#### Artikel 561
+##### Artikel 561
 
 Vervallen
 
-#### Artikel 562
+##### Artikel 562
 
 Vervallen
 
@@ -4676,11 +4699,11 @@ Vervallen
 
 ### afdeling Vierde. Van executie door een hypotheekhouder
 
-#### Artikel 562a
+##### Artikel 562a
 
 In deze titel wordt onder schepen mede verstaan schepen in aanbouw.
 
-#### Artikel 563
+##### Artikel 563
 
 1. Het beslag op schepen moet worden voorafgegaan door een aan de eigenaar of boekhouder te betekenen exploot van een deurwaarder, houdende een bevel om binnen vierentwintig uur aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd.
 
@@ -4688,7 +4711,7 @@ In deze titel wordt onder schepen mede verstaan schepen in aanbouw.
 
 3. In dat geval zal, in afwijking van [artikel 430, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=430&z=2026-01-01&g=2026-01-01), de betekening van de titel tezamen met die van het proces-verbaal van inbeslagneming kunnen geschieden.
 
-#### Artikel 564
+##### Artikel 564
 
 1. Het beslag op schepen wordt aan boord daarvan gedaan. [Artikel 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -4696,7 +4719,7 @@ In deze titel wordt onder schepen mede verstaan schepen in aanbouw.
 
 3. De deurwaarder kan een bewaarder aan boord stellen en de nodige maatregelen nemen om het vertrek van het schip te beletten.
 
-#### Artikel 565
+##### Artikel 565
 
 1. Het beslag geschiedt bij een proces-verbaal van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -4726,7 +4749,7 @@ In deze titel wordt onder schepen mede verstaan schepen in aanbouw.
 
 5. [Artikel 435 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=435&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 566
+##### Artikel 566
 
 1. Het proces-verbaal van inbeslagneming van schepen die te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), zal worden ingeschreven in die registers.
 
@@ -4736,15 +4759,15 @@ In deze titel wordt onder schepen mede verstaan schepen in aanbouw.
 
 4. [Artikel 513a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=513a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 567
+##### Artikel 567
 
 Een inbeslagneming van schepen die niet te boek staan in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), heeft tot gevolg dat een vervreemding, bezwaring, onderbewindstelling, verhuring of vervrachting, totstandgekomen na de in [artikel 565, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=565&z=2026-01-01&g=2026-01-01), bedoelde betekening, niet tegen de beslaglegger kan worden ingeroepen.
 
-#### Artikel 568
+##### Artikel 568
 
 Indien op een in beslag genomen schip dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), een of meer hypotheken rusten, zijn de [artikelen 508](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=508&z=2026-01-01&g=2026-01-01) en [509](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=509&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 569
+##### Artikel 569
 
 1. Indien meer schuldeisers op hetzelfde schip beslag hebben gelegd, zal de executie plaatsvinden op vervolging van degene die het oudste executoriale beslag heeft gelegd.
 
@@ -4754,7 +4777,7 @@ Indien op een in beslag genomen schip dat te boek staat in de openbare registers
 
 4. Bij toepassing van het tweede lid wordt de overneming bij exploot aangezegd aan de in [artikel 565, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=565&z=2026-01-01&g=2026-01-01), aangewezen personen.
 
-#### Artikel 570
+##### Artikel 570
 
 1. De executoriale verkoop geschiedt ten overstaan van een bevoegde notaris, tenzij de executant gebruik maakt van de hem in [artikel 575](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=575&z=2026-01-01&g=2026-01-01) toegekende bevoegdheid of [artikel 576](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=576&z=2026-01-01&g=2026-01-01) van toepassing is.
 
@@ -4764,7 +4787,7 @@ Indien op een in beslag genomen schip dat te boek staat in de openbare registers
 
 4. In afwijking van [artikel 525](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=525&z=2026-01-01&g=2026-01-01) zal de geëxecuteerde op enkel vertoon van het proces-verbaal tot ontruiming worden genoodzaakt op de wijze bepaald bij de [artikelen 556](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Zesde&artikel=556&z=2026-01-01&g=2026-01-01) en [557](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Zesde&artikel=557&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 571
+##### Artikel 571
 
 1. Geen verkoop zal kunnen plaatsvinden dan na verloop van veertien dagen, nadat zij bekend zal zijn gemaakt door aanplakking volgens plaatselijk gebruik, die in elk geval mede op een in het oog vallende plaats van het schip geschiedt, en door aankondiging in een ter plaatse waar het schip zich bevindt verspreid dagblad.
 
@@ -4776,7 +4799,7 @@ Indien op een in beslag genomen schip dat te boek staat in de openbare registers
 
 5. De in het tweede tot en met vierde lid bedoelde beslissingen van de voorzieningenrechter worden gegeven op verzoek van de executant of de notaris, ten overstaan van wie de verkoop zal geschieden. Tegen toewijzing van het verzoek is geen hogere voorziening toegelaten.
 
-#### Artikel 572
+##### Artikel 572
 
 De in [artikel 571](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=571&z=2026-01-01&g=2026-01-01) bedoelde aanplakkingen en aankondigingen moeten inhouden:
 
@@ -4796,15 +4819,15 @@ De in [artikel 571](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&
 
 - h. de plaats, de dag en het uur, waarop de verkoop zal plaatshebben.
 
-#### Artikel 573
+##### Artikel 573
 
 Vindt verkoop ten overstaan van een notaris plaats van een schip dat niet te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), dan vinden de in [artikel 515, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=515&z=2026-01-01&g=2026-01-01), en [517, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=517&z=2026-01-01&g=2026-01-01), bedoelde mededelingen plaats aan de rechthebbenden en beslagleggers die aan de notaris bekend zijn.
 
-#### Artikel 574
+##### Artikel 574
 
 In het in [artikel 573](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=573&z=2026-01-01&g=2026-01-01) bedoelde geval is [artikel 525, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=525&z=2026-01-01&g=2026-01-01), niet van toepassing, en geschiedt de levering met toepassing van de regels die ter zake van levering van een schip van de betreffende soort in acht dienen te worden genomen.
 
-#### Artikel 575
+##### Artikel 575
 
 1. Geldt de verkoop een buitenlands zeeschip, dan kan zij ook plaats vinden voor de rechtbank ter openbare zitting. De executant verzoekt daartoe aan de rechtbank Rotterdam, bepaling van dag en uur van de verkoop. De rechtbank stelt deze vast met inachtneming van de in het tweede lid bedoelde termijnen waarbinnen geen verkoop kan plaatsvinden.
 
@@ -4830,7 +4853,7 @@ De executant geeft schriftelijk van de verkoop kennis aan de geëxecuteerde en d
 
 8. De rechtbank kan op verzoek van de executant nader dag en uur van de verkoop vaststellen. In dat geval vinden de in [artikel 571, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=571&z=2026-01-01&g=2026-01-01), bedoelde aanplakkingen en aankondigingen opnieuw plaats.
 
-#### Artikel 576
+##### Artikel 576
 
 1. De verkoop zal geschieden als die van andere roerende zaken, indien het beslag gelegd is op:
 
@@ -4840,33 +4863,33 @@ De executant geeft schriftelijk van de verkoop kennis aan de geëxecuteerde en d
 
 2. De bekendmaking zal geschieden door aankondiging in een dagblad, verspreid ter plaatse waar het schip zich bevindt, en door aanplakking naar plaatselijk gebruik en in elk geval op een in het oog vallende plaats van het schip.
 
-#### Artikel 577
+##### Artikel 577
 
 1. De koopprijs wordt gestort in handen van de notaris, de griffier of de deurwaarder, naar gelang de verkoop plaats heeft gevonden met toepassing van [artikel 570](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=570&z=2026-01-01&g=2026-01-01), [575](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=575&z=2026-01-01&g=2026-01-01) of [576](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=576&z=2026-01-01&g=2026-01-01), dan wel bij een door de notaris, de griffier of deurwaarder aan te wijzen bewaarder die aan de eisen van [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01) voldoet, telkens onverminderd de bevoegdheid van de koper om in afwachting van de betaling voldoende zekerheid te stellen.
 
 2. Bij gebreke van een zodanige betaling, bewaring of zekerheidsstelling is de executant bevoegd het schip ten laste van de koper met inachtneming van [artikel 570](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=570&z=2026-01-01&g=2026-01-01) en volgende wederom te verkopen. De executant is tot deze verkoop gehouden, indien een van de bij de opbrengst direct belanghebbenden dit verlangt.
 
-#### Artikel 578
+##### Artikel 578
 
 1. Door betaling van de koopprijs, onderscheidenlijk zekerheidsstelling of in bewaringgeving overeenkomstig [artikel 577, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=577&z=2026-01-01&g=2026-01-01), wordt het schip bevrijd van de daarop bij voorrang verhaalbare vorderingen en vervallen de daarop gelegde beslagen, alsook de beperkte rechten die niet tegen de verkoper ingeroepen kunnen worden of ter zake waarvan [artikel 517, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=517&z=2026-01-01&g=2026-01-01), is toegepast.
 
 2. Ter zake van schepen die teboekstaan in het in [artikel 193 van Boek 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=193) of [783 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=783) genoemde register is [artikel 273, tweede en derde lid, van Boek 3, van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=273), van overeenkomstige toepassing, met dien verstande dat bevoegd is de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de verkoop heeft plaatsgevonden.
 
-#### Artikel 579
+##### Artikel 579
 
 Bij de executie door een hypotheekhouder van een schip dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), zijn de [artikelen 544](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vierde&artikel=544&z=2026-01-01&g=2026-01-01) en [545](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vierde&artikel=545&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing. De executie geschiedt voorts met toepassing van de [artikelen 570](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=570&z=2026-01-01&g=2026-01-01), [571, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=571&z=2026-01-01&g=2026-01-01), en [572](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=572&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 580
+##### Artikel 580
 
 Op de verdeling van de opbrengst zijn de [artikelen 551-552](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vijfde&artikel=551&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing, met dien verstande dat het in artikel 552, eerste lid, bedoelde verzoek plaatsvindt aan de voorzieningenrechter van de rechtbank Rotterdam. Is een schip verkocht als bedoeld in [artikel 576](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=576&z=2026-01-01&g=2026-01-01), dan zijn de [artikelen 480-490a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=480&z=2026-01-01&g=2026-01-01), [490c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490c&z=2026-01-01&g=2026-01-01) en [490d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490d&z=2026-01-01&g=2026-01-01) van toepassing.
 
-#### Artikel 581
+##### Artikel 581
 
 1. In geval bij een executoriale verkoop van een schip voor één prijs mede scheepstoebehoren is verkocht, dat ten tijde van de verkoop aan een ander dan de eigenaar van het schip toebehoorde en deze ander de eigendom van het scheepstoebehoren als gevolg van de verkoop verloren heeft, wordt aan hem uit de netto-opbrengst met voorrang boven allen jegens wie hij zijn recht ten tijde van de verkoop kon inroepen, een vergoeding uitgekeerd ten bedrage van de waarde die het scheepstoebehoren ten tijde van de executie naar schatting had.
 
 2. Ingeval er bij de verdeling van de netto-opbrengst deelnemers aan de rangregeling zijn, wier recht of voorrang niet gelijkelijk schip en scheepstoebehoren betreft, is [artikel 553](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Vijfde&artikel=553&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 582
+##### Artikel 582
 
 1. De executie tot afgifte van een schip vangt aan met een bevel als bedoeld in [artikel 563](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=563&z=2026-01-01&g=2026-01-01), dat van overeenkomstige toepassing is.
 
@@ -4874,17 +4897,17 @@ Op de verdeling van de opbrengst zijn de [artikelen 551-552](https://wetten.over
 
 3. De [artikelen 444-444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01), [492, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=492&z=2026-01-01&g=2026-01-01), [497](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=497&z=2026-01-01&g=2026-01-01), [499](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=499&z=2026-01-01&g=2026-01-01), [500](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=500&z=2026-01-01&g=2026-01-01) en [564](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=564&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing, met dien verstande dat voor de toepassing van [artikel 444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01) de waarde van het schip in de plaats treedt van de vordering waarvoor het beslag is gelegd.
 
-#### Artikel 583
+##### Artikel 583
 
 Vervallen
 
-#### Artikel 584
+##### Artikel 584
 
 Vervallen
 
 ### afdeling Derde. Van opvordering door derden
 
-#### Artikel 584a
+##### Artikel 584a
 
 1. De in [artikel 1300 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1300) opgenomen begripsomschrijvingen gelden ook voor de onderhavige afdeling.
 
@@ -4894,7 +4917,7 @@ Vervallen
 
 - b. nationaliteitsregister: een register als bedoeld in artikel 17 van het Verdrag van Chicago.
 
-#### Artikel 584b
+##### Artikel 584b
 
 1. Het beslag op een luchtvaartuig dat in de openbare registers of in een verdragsregister te boek staat, moet worden voorafgegaan door een aan de geëxecuteerde te betekenen exploot van een deurwaarder, houdende een bevel om binnen vierentwintig uur aan de executoriale titel te voldoen. Eerst na verloop van die termijn kan het beslag worden gelegd.
 
@@ -4902,7 +4925,7 @@ Vervallen
 
 3. In dat geval zal, in afwijking van [artikel 430, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=430&z=2026-01-01&g=2026-01-01), de betekening van de titel tezamen met die van het proces-verbaal van inbeslagneming kunnen geschieden.
 
-#### Artikel 584c
+##### Artikel 584c
 
 1. De deurwaarder legt het beslag ter plaatse waar het luchtvaartuig zich bevindt bij een proces-verbaal dat behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -4922,7 +4945,7 @@ Vervallen
 
 3. De deurwaarder neemt de nodige maatregelen om vertrek van het luchtvaartuig te beletten. Hij is gerechtigd het luchtvaartuig of enig onderdeel daarvan in gerechtelijke bewaring te geven, waartoe hij tot verplaatsing binnen Nederland mag overgaan. De [artikelen 445, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01), en [446, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=446&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 584d
+##### Artikel 584d
 
 1. Wanneer beslag is gelegd op een luchtvaartuig dat te boek staat in de openbare registers, zal het proces-verbaal van inbeslagneming daarin worden ingeschreven.
 
@@ -4930,11 +4953,11 @@ Vervallen
 
 3. In elk geval zal het proces-verbaal van beslag op straffe van nietigheid binnen drie dagen na het leggen daarvan aan de geëxecuteerde worden betekend.
 
-#### Artikel 584e
+##### Artikel 584e
 
 Een vervreemding, bezwaring of onderbewindstelling tot stand gebracht na de inschrijving in de openbare registers, kan niet tegen de beslaglegger of de koper ter executie worden ingeroepen, wanneer deze totstandbrenging geschiedde door de geëxecuteerde, terwijl hij kennis droeg van het beslag.
 
-#### Artikel 584f
+##### Artikel 584f
 
 1. De beslaglegger dient bij de rechtbank binnen het rechtsgebied waar het luchtvaartuig zich dan bevindt, een afschrift in van het proces-verbaal van inbeslagneming, alsmede een uittreksel uit de registratie voor luchtvaartuigen als bedoeld in [artikel 102, eerste lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=102), dat ten minste de gegevens bevat, bedoeld in [artikel 92, tweede lid, Kadasterwet, onder a, c, d, e, f, g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, dan wel een soortgelijk uittreksel uit het verdragsregister.
 
@@ -4952,7 +4975,7 @@ Een vervreemding, bezwaring of onderbewindstelling tot stand gebracht na de insc
 
 4. Hij verwittigt voorts 6 weken voor de voor de verkoop bestemde dag degenen die in de registratie voor luchtvaartuigen, bedoeld in [artikel 92 Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=92) of in een verdragsregister, als beperkt gerechtigd of beslaglegger staan vermeld, van de voorgenomen verkoop bij aangetekende brief, alsmede zo mogelijk bij per luchtpost verzonden aangetekende brief, beide gericht naar hun woonplaatsen vermeld in de registratie voor luchtvaartuigen dan wel in het verdragsregister.
 
-#### Artikel 584g
+##### Artikel 584g
 
 De kennisgevingen uit hoofde van [artikel 584**f** derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), behelzen:
 
@@ -4968,23 +4991,23 @@ De kennisgevingen uit hoofde van [artikel 584**f** derde lid](https://wetten.ove
 
 - f. de door de rechtbank op grond van [artikel 584**f** tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), gegeven beschikkingen.
 
-#### Artikel 584h
+##### Artikel 584h
 
 Op verzoek van de executant kan de rechtbank ook na het verstrijken van de krachtens [artikel 584f, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), door haar gestelde termijn, nader plaats, dag en uur, waarop de verkoop en de toewijzing zullen plaats hebben, vaststellen alsmede een nadere dag, voor welke de in [artikel 584f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01) bedoelde vorderingen bij de rechter-commissaris moeten zijn kenbaar gemaakt. De rechtbank neemt bij deze nadere vaststelling, welke zij slechts éénmaal kan verrichten, de termijnen, vermeld in [artikel 584f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), in acht en stelt overigens die voorwaarden, welke haar dienstig voorkomen. De executant vervult de formaliteiten, vermeld in [artikel 584f leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584g&z=2026-01-01&g=2026-01-01) en in [artikel 584g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584g&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 584i
+##### Artikel 584i
 
 1. Na het verstrijken van de krachtens [artikel 584f, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01) of [584h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584h&z=2026-01-01&g=2026-01-01) door de rechtbank gestelde termijn maakt de rechter-commissaris uit de ingediende beweringen een staat op van de in [artikel 584f tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), bedoelde rechten en vorderingen.
 
 2. De [artikelen 483a-490a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=483a&z=2026-01-01&g=2026-01-01)[490c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490c&z=2026-01-01&g=2026-01-01) en [490d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=490d&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing, voor zover uit de volgende artikelen van deze afdeling niet anders voortvloeit.
 
-#### Artikel 584j
+##### Artikel 584j
 
 1. De in [artikel 484](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Derde&artikel=484&z=2026-01-01&g=2026-01-01) bedoelde nederlegging en mededeling vinden plaats ten minste twee weken voor de voor de verkoop vastgestelde dag.
 
 2. De rechter-commissaris sluit de lijst van rechten en vorderingen niet voor het voor de verkoop vastgestelde tijdstip; tot dit tijdstip kunnen schuldeisers tegenspraak doen.
 
-#### Artikel 584k
+##### Artikel 584k
 
 1. Indien voor het tijdstip van de verkoop geen tegenspraak is gedaan dan tegen rechten en vorderingen die in rang na die van de executant komen, sluit de rechter-commissaris de lijst en wordt tot verkoop overgegaan.
 
@@ -4994,13 +5017,13 @@ Op verzoek van de executant kan de rechtbank ook na het verstrijken van de krach
 
 4. De executant vervult in dat geval opnieuw de formaliteiten vermeld in [artikel 584**f**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01). Hij verwittigt voorts hen, die een bewering hebben ingediend, alsmede de in [artikel 584**f**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01), bedoelde beperkt gerechtigden en beslagleggers, van de voorgenomen verkoop bij aangetekende brief, alsmede, zo mogelijk, bij per luchtpost verzonden aangetekende brief.
 
-#### Artikel 584l
+##### Artikel 584l
 
 1. Iedere schuldeiser, wiens vordering op de door de rechter-commissaris vastgestelde lijst rang neemt boven die van de beslaglegger, kan bij de verkoop diens plaats innemen mits hij de beslaglegger ten minste 7 dagen voor de verkoop van zijn voornemen hiertoe bij aangetekende brief heeft kennis gegeven.
 
 2. Indien de beslaglegger de uitwinning niet of niet op de bepaalde dag vervolgt, heeft iedere schuldeiser, wiens vordering op de door de rechter-commissaris vastgestelde lijst rang neemt boven die van de beslaglegger, het recht dit te doen. Dit recht vervalt, wanneer hij, na aanmaning door een belanghebbende, er binnen een redelijke termijn geen gebruik van maakt. De schuldeiser, die van dit recht gebruik wenst te maken, vervult in dat geval opnieuw de formaliteiten vermeld in [artikel 584k, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584k&z=2026-01-01&g=2026-01-01); [artikel 584g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584g&z=2026-01-01&g=2026-01-01) vindt, voor zover mogelijk, overeenkomstige toepassing.
 
-#### Artikel 584m
+##### Artikel 584m
 
 1. De verkoop geschiedt bij opbod en vervolgens bij afmijning voor de rechter-commissaris met inachtneming van de veilingvoorwaarden zoals hiervan door de beslaglegger is kennisgegeven of zoals deze door de rechter-commissaris op verzoek van een belanghebbende nader zijn bepaald, en overigens op de door de rechter-commissaris na raadpleging van de executant te bepalen wijze.
 
@@ -5008,13 +5031,13 @@ Op verzoek van de executant kan de rechtbank ook na het verstrijken van de krach
 
 3. In het in het vorige lid bedoelde geval blijven de kosten van uitwinning ten laste van hem, op wiens verzoek de verkoop geschiedt.
 
-#### Artikel 584n
+##### Artikel 584n
 
 1. De koopprijs wordt binnen twee dagen voldaan in handen van de griffier van de rechtbank binnen welker rechtsgebied de verkoop is geschied dan wel bij een door de griffier aan te wijzen bewaarder die aan de eisen van [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01) voldoet. De griffier voldoet daaruit op last van de rechter-commissaris de kosten van de executie die in het gezamenlijk belang van de schuldeisers zijn gemaakt en keert de netto-opbrengst uit overeenkomstig de door de rechter-commissaris opgestelde lijst, zodra deze gesloten is.
 
 2. Schiet de koper in de nakoming van de koopovereenkomst tekort, dan zijn de [artikelen 527-529](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Tweede&artikel=527&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 584o
+##### Artikel 584o
 
 1. De koper verkrijgt de eigendom van een in het register teboekstaand luchtvaartuig door inschrijving van het proces-verbaal van toewijzing.
 
@@ -5022,17 +5045,17 @@ Op verzoek van de executant kan de rechtbank ook na het verstrijken van de krach
 
 3. De koper verkrijgt de eigendom van een in het verdragsregister teboekstaand luchtvaartuig door de voldoening van de koopprijs.
 
-#### Artikel 584p
+##### Artikel 584p
 
 1. Tenzij in de veilingvoorwaarden anders is bepaald, vervallen door de levering aan de koper en de voldoening van de koopprijs alle op een in het register teboekstaand luchtvaartuig rustende rechten, voor zover deze niet rang nemen boven het recht van de executant, alsmede de rechten die niet op de lijst van de rechter-commissaris voorkomen. De ingeschreven overeenkomsten, bedoeld in de [artikelen 1308](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1308) en [1309 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1309), worden ontbonden, voor zover de daaruit voortvloeiende rechten rang nemen na de vordering van de executant. Aldus waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald.
 
 2. Tenzij in de veilingvoorwaarden anders is bepaald, vervallen door de eigendomsverkrijging overeenkomstig [artikel 584o, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584o&z=2026-01-01&g=2026-01-01), alle in het vorige lid bedoelde rechten die op een in het verdragsregister teboekstaand luchtvaartuig rusten.
 
-#### Artikel 584q
+##### Artikel 584q
 
 Indien het beslag en de executie niet overeenkomstig deze afdeling hebben plaats gevonden, kan een ieder, die daardoor is benadeeld, binnen zes maanden na de toewijzing vorderen dat de rechtbank binnen welker rechtsgebied de verkoop is geschied de verkoop en daaropgevolgde eigendomsovergang vernietigt. Indien deze vorderingen een in het register teboekstaand luchtvaartuig betreft, moet zij op straffe van niet ontvankelijkheid binnen drie dagen na de instelling daarvan in de openbare registers worden ingeschreven.
 
-#### Artikel 584r
+##### Artikel 584r
 
 1. De executie tot afgifte van een in het register of een verdragsregister teboekstaand luchtvaartuig vangt aan met een bevel als bedoeld in [artikel 584b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584b&z=2026-01-01&g=2026-01-01), dat van overeenkomstige toepassing is.
 
@@ -5044,7 +5067,7 @@ Indien het beslag en de executie niet overeenkomstig deze afdeling hebben plaats
 
 ### afdeling Eerste. Lijfsdwang
 
-#### Artikel 585
+##### Artikel 585
 
 De rechter kan op verlangen van de schuldeiser de tenuitvoerlegging bij lijfsdwang toestaan van:
 
@@ -5052,69 +5075,69 @@ De rechter kan op verlangen van de schuldeiser de tenuitvoerlegging bij lijfsdwa
 
 - b. vonnissen, beschikkingen en authentieke akten waarbij een uitkering tot levensonderhoud, krachtens [Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&boek=1) verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen waarbij een uitkering krachtens [artikel 84, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=84) door de ene echtgenoot of geregistreerde partner aan de andere verschuldigd, is bevolen, en beschikkingen tot verhaal op grond van de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-#### Artikel 586
+##### Artikel 586
 
 Tenzij de tenuitvoerlegging bij lijfsdwang reeds was toegestaan in het vonnis of de beschikking tot nakoming waarvan dit dwangmiddel strekt, wordt een vordering tot uitvoerbaarverklaring bij lijfsdwang ingesteld bij de voorzieningenrechter van de rechtbank. De vordering wordt ingesteld en behandeld als een kort geding.
 
-#### Artikel 587
+##### Artikel 587
 
 De rechter verklaart een vonnis, beschikking of akte als bedoeld in [artikel 585](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vijfde&afdeling=Eerste&artikel=585&z=2026-01-01&g=2026-01-01) slechts uitvoerbaar bij lijfsdwang, indien aannemelijk is dat toepassing van een ander dwangmiddel onvoldoende uitkomst zal bieden en het belang van de schuldeiser toepassing daarvan rechtvaardigt.
 
-#### Artikel 588
+##### Artikel 588
 
 Uitvoerbaarheid bij lijfsdwang wordt niet uitgesproken indien de schuldenaar buiten staat is aan de verplichting waarvoor tenuitvoerlegging bij lijfsdwang wordt verlangd, te voldoen.
 
-#### Artikel 589
+##### Artikel 589
 
 1. De tenuitvoerlegging van de lijfsdwang duurt ter zake van dezelfde verplichting ten hoogste een jaar.
 
 2. Strekt de verplichting van de schuldenaar tot nalaten, dan bepaalt de rechter de termijn gedurende welke de lijfsdwang kan worden ten uitvoer gelegd. Bij andere verplichtingen kan de rechter een termijn bepalen.
 
-#### Artikel 589a
+##### Artikel 589a
 
 Vervallen
 
-#### Artikel 590
+##### Artikel 590
 
 De rechter kan zijn beslissing over de uitvoerbaarheid bij lijfsdwang voor een door hem te bepalen termijn aanhouden.
 
 ### afdeling Tweede. Van executoriaal beslag op en executie van luchtvaartuigen
 
-#### Artikel 591
+##### Artikel 591
 
 1. Behoudens verlof tot dadelijke tenuitvoerlegging, kan lijfsdwang niet worden ten uitvoer gelegd dan een dag na betekening van het vonnis of de beschikking waarin de uitvoerbaarheid bij lijfsdwang is toegestaan.
 
 2. Het exploot houdt mede een bevel tot nakoming in.
 
-#### Artikel 592
+##### Artikel 592
 
 1. De deurwaarder heeft voor de ingijzelingstelling van de schuldenaar toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is. [Artikel 444, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
 2. De schuldenaar mag niet worden gegijzeld zolang een vrijgeleide duurt, waarvan de tijd moet worden bepaald door de rechter die het heeft gegeven teneinde de schuldenaar voor zich te laten verschijnen.
 
-#### Artikel 593
+##### Artikel 593
 
 De ingijzelingstelling kan op alle dagen en uren plaatsvinden.
 
-#### Artikel 594
+##### Artikel 594
 
 De deurwaarder kan zich door een of twee getuigen doen bijstaan.
 
-#### Artikel 595
+##### Artikel 595
 
 De deurwaarder kan de sterke arm verzoeken bij de aanhouding bijstand te verlenen.
 
-#### Artikel 596
+##### Artikel 596
 
 De gegijzelde schuldenaar wordt overgebracht naar een huis van bewaring.
 
-#### Artikel 597
+##### Artikel 597
 
 1. De schuldeiser schiet iedere dertig dagen een toereikende som tot onderhoud van de schuldenaar voor, volgens een bij algemene maatregel van bestuur vastgesteld tarief.
 
 2. Indien de schuldeiser niet aan het eerste lid voldoet, is de directeur van het huis van bewaring bevoegd de schuldenaar uit de gijzeling te ontslaan.
 
-#### Artikel 598
+##### Artikel 598
 
 1. Van de ingijzelingstelling en de insluiting in het huis van bewaring maakt de deurwaarder een akte op.
 
@@ -5140,57 +5163,57 @@ De gegijzelde schuldenaar wordt overgebracht naar een huis van bewaring.
 
 3. Bij het binnentreden in een woning zonder toestemming van de bewoner zijn de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10) en [11, tweede lid, van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763) op de akte, bedoeld in het eerste lid, van overeenkomstige toepassing. Is na het binnentreden de schuldenaar niet gegijzeld, dan maakt de deurwaarder, met overeenkomstige toepassing van de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=10) en [11, tweede lid, van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=11) en van het tweede lid, onder a, b, c, e, f en g, eveneens een akte op.
 
-#### Artikel 598a
+##### Artikel 598a
 
 Vervallen
 
-#### Artikel 598b
+##### Artikel 598b
 
 Vervallen
 
-#### Artikel 598c
+##### Artikel 598c
 
 Vervallen
 
-#### Artikel 598d
+##### Artikel 598d
 
 Vervallen
 
-#### Artikel 598e
+##### Artikel 598e
 
 Vervallen
 
-#### Artikel 598f
+##### Artikel 598f
 
 Vervallen
 
-#### Artikel 598g
+##### Artikel 598g
 
 Vervallen
 
-#### Artikel 598h
+##### Artikel 598h
 
 Vervallen
 
-#### Artikel 598i
+##### Artikel 598i
 
 Vervallen
 
-#### Artikel 598j
+##### Artikel 598j
 
 Vervallen
 
-#### Artikel 598k
+##### Artikel 598k
 
 Vervallen
 
-#### Artikel 599
+##### Artikel 599
 
 1. De directeur van het huis van bewaring schrijft de gegevens bedoeld in [artikel 598, tweede lid, onder a tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vijfde&afdeling=Tweede&artikel=598&z=2026-01-01&g=2026-01-01), in in zijn register.
 
 2. De deurwaarder verstrekt de directeur afschriften van het vonnis of de beschikking waarin de tenuitvoerlegging bij lijfsdwang werd toegestaan en van de akte van insluiting. Deze afschriften worden bij het in het eerste lid bedoelde register gevoegd. Indien de deurwaarder de afschriften niet verstrekt, weigert de directeur de opname van de schuldenaar.
 
-#### Artikel 600
+##### Artikel 600
 
 De schuldenaar wordt uit de gijzeling ontslagen indien:
 
@@ -5206,53 +5229,53 @@ De schuldenaar wordt uit de gijzeling ontslagen indien:
 
 - f. toepassing van een ander dwangmiddel alsnog redelijkerwijs voldoende uitkomst kan bieden.
 
-#### Artikel 601
+##### Artikel 601
 
 Vervallen
 
-#### Artikel 602
+##### Artikel 602
 
 Vervallen
 
-#### Artikel 603
+##### Artikel 603
 
 Vervallen
 
-#### Artikel 604
+##### Artikel 604
 
 Vervallen
 
-#### Artikel 605
+##### Artikel 605
 
 Vervallen
 
-#### Artikel 606
+##### Artikel 606
 
 Vervallen
 
-#### Artikel 607
+##### Artikel 607
 
 Vervallen
 
-#### Artikel 608
+##### Artikel 608
 
 Vervallen
 
-#### Artikel 609
+##### Artikel 609
 
 Vervallen
 
-#### Artikel 610
+##### Artikel 610
 
 Vervallen
 
-#### Artikel 611
+##### Artikel 611
 
 Vervallen
 
 ### afdeeling Derde. Van dwangsom
 
-#### Artikel 611a
+##### Artikel 611a
 
 1. De rechter kan op vordering van een der partijen de wederpartij veroordelen tot betaling van een geldsom, dwangsom genaamd, voor het geval dat aan de hoofdveroordeling niet wordt voldaan, onverminderd het recht op schadevergoeding indien daartoe gronden zijn. Een dwangsom kan echter niet worden opgelegd in geval van een veroordeling tot betaling van een geldsom.
 
@@ -5262,21 +5285,21 @@ Vervallen
 
 4. De rechter kan bepalen dat de veroordeelde pas na verloop van een zekere termijn de dwangsom zal kunnen verbeuren.
 
-#### Artikel 611b
+##### Artikel 611b
 
 De rechter kan de dwangsom hetzij op een bedrag ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In de laatste twee gevallen kan de rechter eveneens een bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.
 
-#### Artikel 611c
+##### Artikel 611c
 
 De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordeling heeft verkregen. Deze partij kan de dwangsom ten uitvoer leggen krachtens de titel waarbij zij is vastgesteld.
 
-#### Artikel 611d
+##### Artikel 611d
 
 1. De rechter die een dwangsom heeft opgelegd, kan op vordering van de veroordeelde de dwangsom opheffen, de looptijd ervan opschorten gedurende de door hem te bepalen termijn of de dwangsom verminderen in geval van blijvende of tijdelijke, gehele of gedeeltelijke onmogelijkheid voor de veroordeelde om aan de hoofdveroordeling te voldoen.
 
 2. Voor zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de rechter haar niet opheffen of verminderen.
 
-#### Artikel 611e
+##### Artikel 611e
 
 1. De dwangsom kan gedurende het faillissement van de veroordeelde niet worden verbeurd.
 
@@ -5284,13 +5307,13 @@ De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordel
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing in de schuldsaneringsregeling natuurlijke personen, met dien verstande dat dwangsommen tijdens de toepassing van de schuldsaneringsregeling kunnen worden opgelegd en verbeurd ter zake van vorderingen ten aanzien waarvan de schuldsaneringsregeling niet werkt.
 
-#### Artikel 611f
+##### Artikel 611f
 
 1. Na overlijden van de veroordeelde wordt een dwangsom die op een bepaald bedrag per tijdseenheid is vastgesteld, niet verder verbeurd, maar de vóór het overlijden verbeurde dwangsommen blijven verschuldigd. De dwangsom wordt door erfgenamen van de veroordeelde pas opnieuw verbeurd nadat de rechter die haar heeft opgelegd, aldus heeft beslist. De rechter kan het bedrag en de voorwaarden ervan wijzigen.
 
 2. Andere dwangsommen kunnen, op vordering van de erfgenamen, door de rechter die ze heeft opgelegd, worden opgeheven of verminderd, hetzij blijvend hetzij tijdelijk, en, in voorkomend geval, met ingang van de dag waarop de veroordeelde overleden is.
 
-#### Artikel 611g
+##### Artikel 611g
 
 1. Een dwangsom verjaart door verloop van zes maanden na de dag waarop zij verbeurd is.
 
@@ -5298,45 +5321,45 @@ De dwangsom, eenmaal verbeurd, komt ten volle toe aan de partij die de veroordel
 
 3. De verjaring wordt ook geschorst zolang degene die de veroordeling verkreeg met het verbeuren van de dwangsom redelijkerwijze niet bekend kon zijn.
 
-#### Artikel 611h
+##### Artikel 611h
 
 Voor de bepaling van de rechterlijke bevoegdheid en de vatbaarheid voor hoger beroep wordt geen rekening gehouden met de dwangsom.
 
-#### Artikel 611i
+##### Artikel 611i
 
 Onder rechter in deze afdeling worden mede arbiters begrepen.
 
 ## titel Vijfde. Van lijfsdwang en de tenuitvoerlegging van lijfsdwang en van dwangsom
 
-#### Artikel 612
+##### Artikel 612
 
 De rechter die een veroordeling tot schadevergoeding uitspreekt, begroot, voor zover hem dit mogelijk is, de schade in het vonnis. Indien begroting in het vonnis hem niet mogelijk is, spreekt hij een veroordeling uit tot schadevergoeding op te maken bij staat.
 
-#### Artikel 613
+##### Artikel 613
 
 1. De tenuitvoerlegging van een veroordeling tot schadevergoeding op te maken bij staat, vangt aan met de betekening aan de wederpartij van een staat waarin het beloop van de schade waarvan de vereffening wordt gevorderd, gespecificeerd wordt opgegeven.
 
 2. Het exploot vermeldt de roldatum en, indien dan een terechtzitting wordt gehouden, het uur daarvan. De bepalingen betreffende dagvaarding zijn van overeenkomstige toepassing. Bevoegd is de rechter die in eerste instantie over de hoofdzaak heeft geoordeeld.
 
-#### Artikel 614
+##### Artikel 614
 
 De schuldeiser kan in de schadestaat ook vereffening van de schade in andere vorm dan betaling van een geldsom vorderen.
 
-#### Artikel 615
+##### Artikel 615
 
 De schuldeiser kan, onverschillig of in de hoofdzaak reeds schadeposten waren gesteld, nieuwe posten in de schadestaat opnemen. Indien de wederpartij zich door de opneming in haar verdediging onredelijk bemoeilijkt acht, kan zij zich daartegen verzetten met overeenkomstige toepassing van [artikel 130, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=130&z=2026-01-01&g=2026-01-01). Het verzet wordt in elk geval afgewezen, voor zover de schuldeiser ten tijde van de hoofdzaak niet met de schade bekend was.
 
-#### Artikel 615a
+##### Artikel 615a
 
 Voor de toepassing van de [artikelen 123](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=123&z=2026-01-01&g=2026-01-01), [127](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=127&z=2026-01-01&g=2026-01-01), [129](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=129&z=2026-01-01&g=2026-01-01), [130](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=130&z=2026-01-01&g=2026-01-01), [139 tot en met 147](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Zevende&artikel=139&z=2026-01-01&g=2026-01-01), [225 tot en met 228](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01), [249 tot en met 253](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Dertiende&paragraaf=2&artikel=249&z=2026-01-01&g=2026-01-01) worden hoofdzaak en schadestaatprocedure als afzonderlijke gedingen beschouwd.
 
-#### Artikel 615b
+##### Artikel 615b
 
 De schuldenaar wordt veroordeeld de vastgestelde schade te voldoen. Op verlangen van de schuldeiser kan de rechter de schadeposten afzonderlijk toewijzen, zodra zij zijn komen vast te staan.
 
 ## titel Zevende. Van het stellen van zekerheid
 
-#### Artikel 616
+##### Artikel 616
 
 1. Ingeval van geschil over een krachtens vonnis of beschikking te stellen zekerheid wordt daarover op vordering van de meest gerede partij in kort geding beslist door de voorzieningenrechter van de rechtbank, door wie of door wiens college de zaak in eerste aanleg is behandeld, of, in geval van een arbitraal vonnis, van de rechtbank van het arrondissement waarin de plaats van de arbitrage is gelegen.
 
@@ -5350,19 +5373,19 @@ De schuldenaar wordt veroordeeld de vastgestelde schade te voldoen. Op verlangen
 
 4. De rechter die de termijn heeft bepaald, kan deze op verzoek van de meest gerede partij, in te dienen voordat de termijn is verstreken, verlengen. Tegen een beschikking krachtens dit lid is geen hogere voorziening toegelaten.
 
-#### Artikel 617
+##### Artikel 617
 
 Vervallen
 
-#### Artikel 618
+##### Artikel 618
 
 Vervallen
 
-#### Artikel 619
+##### Artikel 619
 
 Vervallen
 
-#### Artikel 620
+##### Artikel 620
 
 Vervallen
 
@@ -5372,21 +5395,21 @@ Vervallen
 
 ### afdeeling Derde. Van dwangsom
 
-#### Artikel 621
+##### Artikel 621
 
 Bevoegd tot het kennisnemen van een betwisting, als bedoeld in [artikel 168 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=168), en van verzoeken tot verkoop als bedoeld in [afdeling 1 van titel 3 van Boek 8 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=1) is de rechtbank Rotterdam. Verkoop van het schip geschiedt slechts na verhoor of behoorlijke oproeping van de leden der rederij en de boekhouder, zo er een boekhouder is.
 
-#### Artikel 622
+##### Artikel 622
 
 1. Indien binnen één maand, nadat de boekhouder aan de leden der rederij kennis heeft gegeven van zijn verlangen als bedoeld in [artikel 170 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=170), tussen hem en alle leden der rederij geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, zullen deze, in oneven getale, op verzoek van de boekhouder dan wel een lid der rederij, worden benoemd door de voorzieningenrechter van de rechtbank Rotterdam.
 
 2. Indien binnen één maand, nadat een lid der rederij aan de andere leden daarvan kennis heeft gegeven van zijn verlangen als bedoeld in [artikel 174 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=174), tussen hem en die andere leden geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, zullen deze, in oneven getale, op verzoek van het eerstgenoemde lid der rederij, worden benoemd door de voorzieningenrechter van de in het eerste lid genoemde rechtbank.
 
-#### Artikel 623
+##### Artikel 623
 
 Een vonnis verkregen tegen de rederij of tegen de boekhouder als zodanig kan op het gemeenschappelijke vermogen van de leden der rederij ten uitvoer worden gelegd en daarnaast voor ieders aandeel op het overige vermogen van die leden die ten dage dat de vordering, voor welke beslag wordt gelegd, is ontstaan, leden der rederij waren.
 
-#### Artikel 624
+##### Artikel 624
 
 1. Bevoegd tot kennisneming van verzoeken tot machtiging tot doorhaling als bedoeld in de [artikelen 195](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=195) of [786 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=786) is de rechtbank Rotterdam.
 
@@ -5396,7 +5419,7 @@ Een vonnis verkregen tegen de rederij of tegen de boekhouder als zodanig kan op 
 
 4. Bij de verzoeken, bedoeld in het eerste lid, is de tussenkomst van een advocaat niet vereist.
 
-#### Artikel 625
+##### Artikel 625
 
 1. De rechtbank Rotterdam is in eerste aanleg bij uitsluiting bevoegd tot kennisneming van vorderingen en verzoeken betreffende:
 
@@ -5430,21 +5453,21 @@ Een vonnis verkregen tegen de rederij of tegen de boekhouder als zodanig kan op 
 
 8. De [artikelen 110, tweede lid en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Derde&artikel=110&z=2026-01-01&g=2026-01-01), en [artikel 270, eerste lid, eerste en tweede volzin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Tweede&artikel=270&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 626
+##### Artikel 626
 
 1. Een vervoerder kan terzake van het hem verschuldigde conservatoir beslag leggen op onder de vervoerovereenkomst aan boord van een schip vervoerde zaken gedurende één maand na de aanvang van de dag, waarop zij niet meer aan boord van het schip zijn, zolang niet een derde te goeder trouw en anders dan om niet daarop enig recht heeft verkregen.
 
 2. Het beslag wordt gelegd met toepassing van de regels betreffende conservatoir beslag op roerende zaken in handen van de schuldenaar. De [artikelen 711, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=711&z=2026-01-01&g=2026-01-01), [461d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461d&z=2026-01-01&g=2026-01-01) en [708, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=708&z=2026-01-01&g=2026-01-01), zijn op dit beslag niet van toepassing. Het verlof tot het leggen van het beslag kan mede worden verleend door de voorzieningenrechter van de rechtbank Rotterdam.
 
-#### Artikel 627
+##### Artikel 627
 
 De aanwijzing van een derde, als bedoeld in [artikel 481 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=481) en [artikel 946 tweede lid van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=946) of in enig desbetreffend partijbeding, geschiedt ten verzoeke van de meest gerede partij door de voorzieningenrechter van de rechtbank Rotterdam.
 
-#### Artikel 628
+##### Artikel 628
 
 Op een verzoek van de vervoerder tot toestemming ten vervoer ontvangen zaken op te slaan, onder zichzelf te houden of daarvoor andere maatregelen te treffen wordt beslist door de voorzieningenrechter van de rechtbank Rotterdam.
 
-#### Artikel 629
+##### Artikel 629
 
 1. Bevoegd tot het kennis nemen van geschillen tussen een vervoerder en een ontvanger, die niet de afzender was, inzake overeenkomsten tot vervoer geheel of gedeeltelijk per schip van een buiten Nederland gelegen plaats naar een in Nederland gelegen plaats van eindbestemming is de rechtbank Rotterdam. Onder ontvanger wordt mede begrepen, hij, die een vordering instelt terzake van niet afgeleverde zaken.
 
@@ -5454,39 +5477,39 @@ Op een verzoek van de vervoerder tot toestemming ten vervoer ontvangen zaken op 
 
 - b. is neergelegd in een afzonderlijk, niet naar algemene voorwaarden verwijzend geschrift en niet een rechter binnen Nederland aanwijst.
 
-#### Artikel 630
+##### Artikel 630
 
 Tot het kennisnemen van geschillen als bedoeld in [artikel 31 van het Verdrag betreffende de overeenkomst tot internationaal vervoer van goederen over de weg](onbekend) is mede bevoegd de rechtbank van de plaats van in ontvangstneming der zaken of van de plaats bestemd voor de aflevering der zaken.
 
-#### Artikel 631
+##### Artikel 631
 
 Geschillen naar aanleiding van het stellen, aanvullen of vervangen van zekerheid als bedoeld in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=30), [69](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=69) en [1131 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1131) worden ten verzoeke van de meest gerede partij beslist door de voorzieningenrechter van de rechtbank, binnen welker rechtsgebied de aflevering plaatsvindt of moet plaatsvinden. Geschillen aanhangig gemaakt op grond van de [artikelen 489](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=489) of [954 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=954) worden beslist door de voorzieningenrechter van de rechtbank Rotterdam.
 
-#### Artikel 632
+##### Artikel 632
 
 1. Op een verzoek tot machtiging ten vervoer ontvangen zaken te verkopen wordt beslist door de voorzieningenrechter van de rechtbank, binnen welker rechtsgebied de zaken zich bevinden. De verzoeker is verplicht bij zijn verzoek aan te geven op welke wijze of wijzen de zaken kunnen worden verkocht. Indien het verzoek gegrond is op het eerste lid van de [artikelen 491](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=491) of [957 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=957), wordt op het verzoek beslist door de voorzieningenrechter van de rechtbank Rotterdam.
 
 2. De voorzieningenrechter van de rechtbank zal op verzoek van de meest gerede partij in zijn beschikking bepalen dat, en zo ja, op welke wijze de opbrengst van het verkochte of een gedeelte daarvan zal strekken tot zekerheid voor nog niet vaststaande vorderingen van de vervoerder.
 
-#### Artikel 633
+##### Artikel 633
 
 1. Op een verzoek tot gerechtelijk onderzoek als bedoeld in de [artikelen 494](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=494), [495](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=495), [959](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=959) en [960 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=960) wordt beslist door de voorzieningenrechter van de rechtbank Rotterdam. Indien het verzoek gegrond is op [artikel 1135 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1135), wordt op het verzoek beslist door de voorzieningenrechter van de rechtbank in het rechtsgebied waarbinnen de zaken zich bevinden. Deze wijst daarbij hetzij één, hetzij drie deskundigen aan en bepaalt op welke wijze dezen de wederpartij van de verzoeker zullen oproepen bij het onderzoek aanwezig te zijn.
 
 2. Op een verzoek van de in het eerste lid bedoelde aanvrager tot het geheel of gedeeltelijk ten laste van zijn wederpartij brengen van de kosten van het onderzoek of de begroting als daar bedoeld, dan wel van de door dat onderzoek geleden schade, wordt beslist door de in dat lid genoemde rechter.
 
-#### Artikel 634
+##### Artikel 634
 
 Vervallen
 
-#### Artikel 635
+##### Artikel 635
 
 Vervallen
 
-#### Artikel 635a
+##### Artikel 635a
 
 Vervallen
 
-#### Artikel 636
+##### Artikel 636
 
 1. Een hulpverlener kan terzake van het hem uit hoofde van hulpverlening verschuldigde conservatoir beslag leggen op zaken, waaraan hulp is verleend doch die niet meer aan boord van het schip zijn, zolang niet een derde te goeder trouw en anders dan om niet daarop enig recht heeft verkregen.
 
@@ -5494,11 +5517,11 @@ Vervallen
 
 3. Tenzij het een schip betreft dat niet onder [artikel 573](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=573&z=2026-01-01&g=2026-01-01) valt, wordt het beslag gelegd met toepassing van de regels betreffende conservatoir beslag op roerende zaken in handen van de schuldenaar, met dien verstande dat het verlof voor het leggen van conservatoir beslag mede kan worden verleend door de voorzieningenrechter van de rechtbank Rotterdam. De [artikelen 711, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=711&z=2026-01-01&g=2026-01-01), [461d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461d&z=2026-01-01&g=2026-01-01) en [708, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=708&z=2026-01-01&g=2026-01-01), zijn op dit beslag niet van toepassing.
 
-#### Artikel 637
+##### Artikel 637
 
 Betreft de zaak een verzoek als bedoeld in [afdeling 2 van titel 6 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&afdeling=2) of een geschil met betrekking tot de zekerheid als bedoeld in [artikel 571 van dat Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=571), dan is bevoegd de voorzieningenrechter van de rechtbank Rotterdam.
 
-#### Artikel 638
+##### Artikel 638
 
 1. Indien zich naar zijn mening een geval van avarij-grosse voordeed, is de eigenaar van het schip en in geval van rompbevrachting de rompbevrachter, verplicht met inachtneming van het derde lid van dit artikel binnen redelijke termijn na het einde van de onderneming een persoon (dispacheur) aan te wijzen ter berekening van de avarij-grosse en ter vaststelling van hen die recht hebben op vergoedingen en van hen te wier laste de bijdragen in de avarij-grosse komen. Hij is verplicht van deze aanwijzing tijdig mededeling te doen aan hen die naar zijn mening in de avarij-grosse moeten bijdragen.
 
@@ -5506,47 +5529,47 @@ Betreft de zaak een verzoek als bedoeld in [afdeling 2 van titel 6 van Boek 8 va
 
 3. Tenzij de in het tweede lid bedoelde belanghebbenden anders overeenkomen, moet de dispacheur kantoorhouden in, danwel zo dicht mogelijk bij, de plaats waar de onderneming eindigde. Ligt deze plaats in Nederland dan moet de dispacheur in Nederland kantoor houden.
 
-#### Artikel 639
+##### Artikel 639
 
 1. De belanghebbenden bij de avarij-grosse zijn verplicht de dispacheur iedere inlichting en alle documenten, die hij ter opstelling van de dispache vraagt, te doen toekomen.
 
 2. Indien een partij niet aan de in het eerste lid omschreven verplichting voldoet, is de dispacheur gerechtigd zich de noodzakelijke inlichtingen of documenten te verschaffen en deze worden alsdan vermoed juist te zijn.
 
-#### Artikel 640
+##### Artikel 640
 
 De dispacheur is bevoegd een door hem ondertekend exemplaar van de dispache ter griffie van de rechtbank Rotterdam in te dienen en is alsdan verplicht, voor zover hem dit redelijkerwijs mogelijk is, alle belanghebbenden, onder toezending van een exemplaar der dispache of een uittreksel daarvan, bericht te zenden.
 
-#### Artikel 641
+##### Artikel 641
 
 Hij, die de hem toegezonden dan wel ter griffie van de rechtbank Rotterdam ingediende dispache wenst af te wikkelen, verzoekt deze rechtbank de dispache te homologeren. Zo dit nog niet is geschied, dient hij een exemplaar van de dispache of een uittreksel daarvan ter griffie in.
 
-#### Artikel 641a
+##### Artikel 641a
 
 1. Ieder der in [artikel 638](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=638&z=2026-01-01&g=2026-01-01) bedoelde personen, die zich niet met de hem toegezonden, dan wel ter griffie van de rechtbank Rotterdam gedeponeerde dispache kan verenigen, verzoekt deze rechtbank de dispache te herzien. Zo dit nog niet is geschied legt hij een exemplaar der dispache of een uittreksel daarvan ter griffie neer.
 
 2. Wijst de rechter het in het vorige lid bedoelde verzoek af, dan homologeert hij de dispache.
 
-#### Artikel 641b
+##### Artikel 641b
 
 1. Gaat de rechter in het geval van [artikel 641](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=641&z=2026-01-01&g=2026-01-01) of [artikel 641a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=641a&z=2026-01-01&g=2026-01-01) niet tot homologatie over dan is de dispacheur of een mogelijkerwijs door de rechter aangewezen andere dispacheur verplicht de dispache in overeenstemming met de rechterlijke beslissing te wijzigen, dan wel haar in te trekken. In geval van intrekking wordt, tenzij de rechter anders beslist, de dispache desalniettemin wat betreft honorarium en kosten van de dispacheur gehomologeerd.
 
 2. Gaat de rechter in het geval van [artikel 641](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=641&z=2026-01-01&g=2026-01-01) of [artikel 641a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=641a&z=2026-01-01&g=2026-01-01) tot homologatie over, dan zijn zij die de dispache betwistten, hoofdelijk verplicht de belanghebbenden, die niet tot dergelijke betwisting overgingen, de tengevolge van de betwisting geleden schade te vergoeden.
 
-#### Artikel 641c
+##### Artikel 641c
 
 Ieder die de dispache betwist, is op verzoek van ieder die dit niet deed, verplicht ten behoeve van deze laatste zekerheid te stellen voor de door deze laatste mogelijkerwijs geleden of te lijden schade. Geschillen naar aanleiding van het stellen, aanvullen of vervangen van deze zekerheid worden ten verzoeke van de meest gerede partij beslist door de voorzieningenrechter van de rechtbank.
 
-#### Artikel 641d
+##### Artikel 641d
 
 Na het in kracht van gewijsde gaan van een beschikking van homologatie levert de dispache een voor tenuitvoerlegging vatbare titel op.
 
-#### Artikel 642
+##### Artikel 642
 
 Tegen een beslissing van de voorzieningenrechter van de rechtbank, gegeven in de gevallen van de [artikelen 621 tot en met 641d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=621&z=2026-01-01&g=2026-01-01),met uitzondering van [artikel 625](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Eerste&artikel=625&z=2026-01-01&g=2026-01-01), staat geen andere voorziening open dan cassatie in het belang van de wet.
 
 ### Afdeling Eerste. Algemene bepalingen
 
-#### Artikel 642a
+##### Artikel 642a
 
 1. Wie op grond van [artikel 750](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=750), [artikel 751](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=751), [artikel 1060](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1060) of [artikel 1061 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1061) een beroep wil doen op beperking van zijn aansprakelijkheid, verzoekt de rechtbank Rotterdam het bedrag of de bedragen vast te stellen waartoe zijn aansprakelijkheid is beperkt (het bedrag van het fonds of de fondsen), en te bevelen dat tot een procedure ter verdeling van een te stellen fonds wordt overgegaan.
 
@@ -5570,11 +5593,11 @@ De verzoeker doet in het verzoekschrift een voorstel omtrent de wijze waarop hij
 
 4. De behandeling geschiedt op de dag en de tijd die door de griffier aan de in het tweede lid onder**f**bedoelde personen worden medegedeeld. Bovendien doet de griffier van het verzoek aankondiging in één of meer door de rechtbank mogelijkerwijs aan te wijzen nieuwsbladen.
 
-#### Artikel 642b
+##### Artikel 642b
 
 Wanneer naar aanleiding van hetzelfde voorval meer dan één op eenzelfde schip betrekking hebbend verzoek als bedoeld in [artikel 642a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642a&z=2026-01-01&g=2026-01-01) is ingediend, beveelt de rechtbank alvorens op deze verzoeken te beslissen, tenzij een verzoeker zich daartegen verzet en dit verzet gegrond is bevonden, de voeging van de zaken op één fonds betrekking hebbend.
 
-#### Artikel 642c
+##### Artikel 642c
 
 1. Bij de behandeling van het in [artikel 642a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642a&z=2026-01-01&g=2026-01-01) bedoelde verzoek kan geen beroep worden gedaan op [artikel 754](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=754) of artikel [1064 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1064).
 
@@ -5596,7 +5619,7 @@ Wanneer naar aanleiding van hetzelfde voorval meer dan één op eenzelfde schip 
 
 8. Op de voldoening aan een bevel tot storting of andere zekerheidsstelling als bedoeld in dit artikel zijn de [artikelen 45 tot en met 48 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=45) en de [artikelen 42 tot en met 49 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=42) niet van toepassing.
 
-#### Artikel 642d
+##### Artikel 642d
 
 Indien terzake van één en hetzelfde voorval een fonds is gesteld door één der personen of zijn verzekeraar genoemd in
 
@@ -5610,7 +5633,7 @@ Indien terzake van één en hetzelfde voorval een fonds is gesteld door één de
 
 wordt dit fonds aangemerkt als door alle onder dezelfde letter genoemde personen te zijn gesteld en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.
 
-#### Artikel 642e
+##### Artikel 642e
 
 1. Indien na toewijzing van een op [artikel 750](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=750) of [artikel 751 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=751) gegrond verzoek geen der schuldeisers binnen de in [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642g&z=2026-01-01&g=2026-01-01) genoemde termijn betwist heeft, dat de schuldenaar zijn aansprakelijkheid kan beperken, dan wel omtrent een zodanige betwisting onherroepelijk afwijzend is beslist en een fonds is gesteld ten aanzien waarvan de rechtbank een verklaring als bedoeld in [het zesde lid van artikel 642c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642c&z=2026-01-01&g=2026-01-01) heeft afgegeven en dat werkelijk ten bate van de schuldeiser beschikbaar is alsmede de schuldeiser zijn vordering op het fonds in rechte geldend kan maken, kan de rechter op verzoek van hem te wiens behoeve het fonds is gesteld de opheffing van beslagen die ter zake van de vorderingen waarvoor het fonds is gesteld, zijn gelegd, dan wel de teruggave van te dier zake gegeven zekerheid bevelen.
 
@@ -5628,7 +5651,7 @@ wordt dit fonds aangemerkt als door alle onder dezelfde letter genoemde personen
 
 4. Indien ten aanzien van een op [artikel 1060](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1060) of [artikel 1061 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1061) gegrond verzoek aan de in het eerste lid gestelde vereisten is voldaan, geeft de rechtbank op een verzoek als in het eerste lid bedoeld een bevel als in dat lid bedoeld.
 
-#### Artikel 642f
+##### Artikel 642f
 
 1. Indien aan de in [artikel 642e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642e&z=2026-01-01&g=2026-01-01) gestelde vereisten is voldaan, worden procedures terzake van vorderingen waarvoor het fonds is gesteld, geschorst overeenkomstig [artikel 225, tweede lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01), ook al waren deze reeds in staat van wijzen.
 
@@ -5650,7 +5673,7 @@ wordt dit fonds aangemerkt als door alle onder dezelfde letter genoemde personen
 
 5. Op de schorsing en de hervatting van het geding zijn [artikel 225, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01), en [artikel 227](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=227&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing..
 
-#### Artikel 642g
+##### Artikel 642g
 
 1. Nadat de in [artikel 642**c**, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642c&z=2026-01-01&g=2026-01-01), bedoelde verklaring is afgegeven bepaalt de rechter-commissaris, de vereffenaar gehoord hebbend, zo spoedig mogelijk de dag waarop uiterlijk de vorderingen op de schuldenaar, alsmede de betwistingen van diens beroep op beperking van zijn aansprakelijkheid hetzij ten aanzien van alle, hetzij ten aanzien van één of meer der schuldeisers bij de vereffenaar moeten worden ingediend.
 
@@ -5658,23 +5681,23 @@ wordt dit fonds aangemerkt als door alle onder dezelfde letter genoemde personen
 
 3. Tussen de in het eerste lid genoemde dag voor de indiening der vorderingen en het verrichten van betwistingen als in dat lid bedoeld en de dag der verificatiezitting of de zitting waarop deze betwistingen zullen worden behandeld, moeten tenminste acht weken verlopen.
 
-#### Artikel 642h
+##### Artikel 642h
 
 Indien een schuldenaar aantoont, dat hij op een later tijdstip niettegenstaande [het eerste lid van artikel 642f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642f&z=2026-01-01&g=2026-01-01) gedwongen zou kunnen worden geheel of gedeeltelijk een bedrag te betalen waarvoor hij, als hij dit bedrag vóór de verdeling van het fonds had betaald, op grond van [artikel 642j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642j&z=2026-01-01&g=2026-01-01) in de rechten van de schuldeiser zou zijn gesubrogeerd, kan de rechter-commissaris gelasten, dat voorlopig een bedrag zal worden terzijde gesteld, dat voldoende is om het de schuldenaar mogelijk te maken op dat latere tijdstip zijn rechten overeenkomstig [artikel 642j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642j&z=2026-01-01&g=2026-01-01) geldend te maken.
 
-#### Artikel 642i
+##### Artikel 642i
 
 De vereffenaar geeft van de beschikkingen genoemd in [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642g&z=2026-01-01&g=2026-01-01) onverwijld bij aangetekende brief kennis aan de schuldenaar of de schuldenaren en de door dezen opgegeven schuldeisers. Bovendien doet hij, indien de rechter-commissaris zulks beveelt, van deze beschikkingen aankondiging in één of meer door de rechter-commissaris mogelijkerwijs aan te wijzen nieuwsbladen.
 
-#### Artikel 642j
+##### Artikel 642j
 
 Een bedrag dat een schuldenaar of diens verzekeraar vóór de verdeling van een fonds heeft betaald, kan door hem niet geheel of gedeeltelijk worden teruggevorderd; hij wordt voor het betaalde bedrag van rechtswege gesubrogeerd in de rechten van de schuldeiser.
 
-#### Artikel 642k
+##### Artikel 642k
 
 De schuldeiser die tegen het verzoek van een schuldenaar verweer voert, moet niettemin zijn vordering ter verificatie aanmelden. Hetzelfde geldt ten aanzien van een schuldeiser die twijfelt of de schuldenaar gezien de aard van de vordering met betrekking tot deze vordering jegens hem een beroep kan doen op de beperking van zijn aansprakelijkheid.
 
-#### Artikel 642l
+##### Artikel 642l
 
 1. De indiening der schuldvorderingen geschiedt bij de vereffenaar door de overlegging van een rekening of andere schriftelijke verklaring aangevende de aard en het bedrag der vordering vergezeld van de bewijsstukken of een afschrift daarvan. De in de [tweede zin van artikel 642k](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642k&z=2026-01-01&g=2026-01-01) bedoelde schuldeiser legt bovendien over een schriftelijke verklaring bevattende de gronden van zijn daar bedoelde twijfel.
 
@@ -5690,15 +5713,15 @@ De schuldeiser die tegen het verzoek van een schuldenaar verweer voert, moet nie
 
 7. De vereffenaar vermeldt de verweerschriften ingediend tegen het verzoek door een schuldenaar gedaan vermeldende de gronden der betwisting.
 
-#### Artikel 642m
+##### Artikel 642m
 
 Van de krachtens [artikel 642l](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642l&z=2026-01-01&g=2026-01-01) gedane nederlegging der lijsten geeft de vereffenaar aan alle bekende schuldeisers en de schuldenaar of schuldenaren schriftelijk bericht, waarbij hij een nadere oproeping tot de verificatievergadering voegt.
 
-#### Artikel 642n
+##### Artikel 642n
 
 Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642g&z=2026-01-01&g=2026-01-01) bepaalde dag of dagen houdt de rechter-commissaris in tegenwoordigheid van de vereffenaar één of meer zittingen.
 
-#### Artikel 642o
+##### Artikel 642o
 
 1. Vorderingen ingediend na afloop van de in [het eerste lid van artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642g&z=2026-01-01&g=2026-01-01) genoemde termijn kunnen op verzoek van de schuldeiser door de rechter-commissaris tot de verificatie worden toegelaten.
 
@@ -5706,7 +5729,7 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 3. In geval van geschil over het al dan niet aanwezig zijn der verhindering in het tweede lid bedoeld beslist de rechter-commissaris na de vergadering te hebben geraadpleegd.
 
-#### Artikel 642p
+##### Artikel 642p
 
 1. Alle schuldeisers en schuldenaren kunnen een vordering betwisten.
 
@@ -5714,13 +5737,13 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 3. Van de vaststelling door de rechter-commissaris geschiedt aantekening in het proces-verbaal ter zitting en op de door de vereffenaar opgestelde lijst.
 
-#### Artikel 642q
+##### Artikel 642q
 
 1. In geval van betwisting ter zitting van een vordering of van het beroep op beperking van aansprakelijkheid verwijst de rechter-commissaris partijen en de schuldenaar, indien hij hen niet kan verenigen, naar een of meer door hem te bepalen zittingen van de rechtbank ter beslissing van het punt van geschil. De rechter-commissaris verwijst ook de in [de tweede zin van artikel 642k](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642k&z=2026-01-01&g=2026-01-01)bedoelde schuldeiser wiens vordering overigens niet wordt betwist, naar de zitting der rechtbank ter beslissing van de vraag of zijn vordering terecht ter verificatie werd ingediend.
 
 2. Indien een schuldeiser wiens vordering betwist wordt, of indien een schuldenaar niet ter zitting aanwezig is, geeft de vereffenaar hem onmiddellijk per aangetekende brief kennis van iedere verwijzing.
 
-#### Artikel 642r
+##### Artikel 642r
 
 1. Verschijnt de schuldeiser die de verificatie vraagt, niet ter zitting van de rechtbank, dan wordt hij geacht zijn vordering voor zover zij betwist is, te hebben ingetrokken.
 
@@ -5732,13 +5755,13 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 5. Een onherroepelijke beslissing inhoudende dat een schuldenaar zijn aansprakelijkheid ten opzichte van één of meer vorderingen niet kan beperken, heeft bindende kracht zowel jegens een schuldenaar als in geval van diens faillissement of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen jegens zijn schuldeisers.
 
-#### Artikel 642s
+##### Artikel 642s
 
 1. Na afloop van de in [artikel 642n](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642n&z=2026-01-01&g=2026-01-01) bedoelde zittingen of, indien deze tot geschillen aanleiding hebben gegeven, nadat daarover onherroepelijk is beslist, wordt door de vereffenaar een staat van verdeling van het betrokken fonds opgemaakt en aan de goedkeuring van de rechter-commissaris onderworpen.
 
 2. Indien onherroepelijk is beslist, dat de schuldenaar zijn aansprakelijkheid niet kan beperken, vervalt de gestelde zekerheid en wordt een gestort bedrag uitgekeerd aan hem die de storting verrichtte doch niet eerder dan één maand nadat het vonnis in kracht van gewijsde is gegaan en de vereffenaar op de in [artikel 642i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642i&z=2026-01-01&g=2026-01-01) voorgeschreven wijze kennis heeft gegeven van de dag waarop deze uitkering zal plaatsvinden.
 
-#### Artikel 642t
+##### Artikel 642t
 
 1. Vorderingen waarvan de waarde niet in Nederlands geld is uitgedrukt, worden geverifieerd voor hun geschatte waarde in Nederlands geld.
 
@@ -5760,7 +5783,7 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 4. Onder voorbehoud van het in het tweede lid, onder **c**, bepaalde is ieder fonds uitsluitend bestemd voor de voldoening van de vorderingen met betrekking waartoe het is gesteld.
 
-#### Artikel 642u
+##### Artikel 642u
 
 1. Een door de rechter-commissaris goedgekeurde staat van verdeling van het beschikbare fonds ligt gedurende 14 dagen ter griffie van de rechtbank ter kosteloze inzage van de schuldeisers wier vorderingen zijn erkend, en van de schuldenaren. De nederlegging geschiedt kosteloos.
 
@@ -5768,7 +5791,7 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 3. Na afloop van de termijn geeft de rechtbank haar beschikking, nadat zij de schuldeisers en de schuldenaren heeft gehoord of behoorlijk doen oproepen. De oproeping geschiedt bij aangetekende brief door de vereffenaar.
 
-#### Artikel 642v
+##### Artikel 642v
 
 1. Nadat een staat van verdeling door de rechter-commissaris of, indien tijdig verzet is gedaan, door de rechtbank is vastgesteld, roept de griffier bij aangetekende brief de schuldeisers op het hun toekomende bedrag in ontvangst te nemen.
 
@@ -5776,17 +5799,17 @@ Op de ingevolge [artikel 642g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 3. Een nog bestaand batig saldo en uitkeringen waarover niet binnen één jaar is beschikt, worden uitgekeerd aan hem die de storting verrichtte. [Artikel 642**s**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642s&z=2026-01-01&g=2026-01-01), is daarbij van overeenkomstige toepassing.
 
-#### Artikel 642w
+##### Artikel 642w
 
 Behoudens [het vierde lid van artikel 642f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642f&z=2026-01-01&g=2026-01-01) gaan de vorderingen van schuldeisers die, hoewel daartoe behoorlijk opgeroepen zijnde, deze niet ter verificatie hebben aangemeld, door het in kracht van gewijsde gaan van de staat van verdeling teniet.
 
-#### Artikel 642x
+##### Artikel 642x
 
 1. De rechter-commissaris is bevoegd te allen tijde een voorlopige staat van verdeling vast te stellen. In dat geval zijn de [artikelen 642**s** tot en met 642**v**](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642s&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 2. De rechter-commissaris kan bevelen, dat door schuldeisers aan wie op grond van een voorlopige staat van verdeling een uitkering wordt gedaan, een door hem aan te wijzen vorm van zekerheid wordt gegeven.
 
-#### Artikel 642y
+##### Artikel 642y
 
 1. De beschikkingen van de rechter-commissaris alsmede die van de rechtbank krachtens [artikel 642**u**, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642u&z=2026-01-01&g=2026-01-01), zijn niet vatbaar voor hoger beroep, noch voor beroep in cassatie.
 
@@ -5796,67 +5819,67 @@ Behoudens [het vierde lid van artikel 642f](https://wetten.overheid.nl/jci1.3:c:
 
 4. De uitspraak op het rechtsmiddel wordt door de griffier van het betrokken rechtscollege onverwijld medegedeeld aan de griffier der rechtbank, die daarvan bij aangetekende brief aan schuldeisers en schuldenaren kennis geeft.
 
-#### Artikel 642z
+##### Artikel 642z
 
 Behoudens de toepassing van [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=289&z=2026-01-01&g=2026-01-01) komen de kosten voortvloeiende uit de toepassing van de [artikelen 642a tot en met 642y](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Eerste&afdeling=Tweede&artikel=642a&z=2026-01-01&g=2026-01-01) ten laste van de schuldenaar.
 
-#### Artikel 643
+##### Artikel 643
 
 Vervallen
 
-#### Artikel 644
+##### Artikel 644
 
 Vervallen
 
-#### Artikel 645
+##### Artikel 645
 
 Vervallen
 
-#### Artikel 646
+##### Artikel 646
 
 Vervallen
 
-#### Artikel 647
+##### Artikel 647
 
 Vervallen
 
-#### Artikel 648
+##### Artikel 648
 
 Vervallen
 
-#### Artikel 649
+##### Artikel 649
 
 Vervallen
 
-#### Artikel 650
+##### Artikel 650
 
 Vervallen
 
-#### Artikel 651
+##### Artikel 651
 
 Vervallen
 
-#### Artikel 652
+##### Artikel 652
 
 Vervallen
 
-#### Artikel 653
+##### Artikel 653
 
 Vervallen
 
-#### Artikel 654
+##### Artikel 654
 
 Vervallen
 
-#### Artikel 655
+##### Artikel 655
 
 Vervallen
 
-#### Artikel 656
+##### Artikel 656
 
 Vervallen
 
-#### Artikel 657
+##### Artikel 657
 
 Vervallen
 
@@ -5864,17 +5887,17 @@ Vervallen
 
 ### afdeling Eerste. Van de verzegeling
 
-#### Artikel 658
+##### Artikel 658
 
 1. Zaken die tot een nalatenschap of een gemeenschap waarop [afdeling 2 van titel 7 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2) van toepassing is behoren kunnen worden verzegeld met verlof van de kantonrechter van de rechtbank van het arrondissement waarin de verzegeling moet plaatsvinden. De verzegeling geschiedt door een bij dit verlof aan te wijzen notaris met diens zegel. Tegen het verlof is geen hogere voorziening toegelaten.
 
 2. De notaris kan een bewaarder van de gelegde zegels aanstellen.
 
-#### Artikel 659
+##### Artikel 659
 
 De [artikelen 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01), [444a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444a&z=2026-01-01&g=2026-01-01) en [444b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 660
+##### Artikel 660
 
 1. Verlof tot verzegeling kan worden verzocht:
 
@@ -5896,11 +5919,11 @@ De [artikelen 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&t
 
 2. Het verlof wordt slechts gegeven, indien de verzoeker zijn recht of bevoegdheid en een voldoende ernstig belang bij de verzegeling summierlijk aannemelijk maakt.
 
-#### Artikel 661
+##### Artikel 661
 
 Indien in geval van een nalatenschap een der in [artikel 660, eerste lid onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=660&z=2026-01-01&g=2026-01-01), bedoelde personen afwezig of onbekwaam is, en geen wettelijke vertegenwoordiger heeft of deze afwezig is, kan het verlof tot verzegeling ook door een notaris worden verzocht of door de kantonrechter ambtshalve worden bevolen.
 
-#### Artikel 662
+##### Artikel 662
 
 Van de verzegeling moet door een proces-verbaal blijken, dat zal inhouden:
 
@@ -5918,17 +5941,17 @@ Van de verzegeling moet door een proces-verbaal blijken, dat zal inhouden:
 
 - 7°. de eed bij de sluiting der verzegeling die in handen van de notaris moet worden afgelegd door degenen die de zaken onder zich hadden of het huis bewonen, waar de verzegeling is gedaan, dat zij niets verduisterd hebben, noch gezien hebben noch weten dat iets verduisterd is.
 
-#### Artikel 663
+##### Artikel 663
 
 1. Indien bij de verzegeling boeken of papieren worden gevonden, kunnen zij door de notaris worden geopend. Indien zij voor de nalatenschap of gemeenschap of de daartoe behorende goederen of schulden van belang kunnen zijn, worden zij overgebracht naar de griffie van de rechtbank, bedoeld in [artikel 658, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=658&z=2026-01-01&g=2026-01-01), of naar een andere door de notaris aan te wijzen plaats, waar zij ter beschikking van de partijen blijven.
 
 2. Zodra blijkt dat de overgebrachte boeken of papieren niet van belang zijn of aan een derde toebehoren, zorgt de notaris voor afgifte aan de rechthebbende.
 
-#### Artikel 664
+##### Artikel 664
 
 De notaris kan op verlangen en op kosten van elk der partijen de voorwerpen, boeken en papieren, alsmede de plaats waar zij zijn aangetroffen, doen fotograferen of kopiëren. Hij hecht de foto’s of kopieën aan het proces-verbaal van verzegeling.
 
-#### Artikel 665
+##### Artikel 665
 
 1. Indien geen tot de nalatenschap of gemeenschap behorende roerende zaken van voldoende belang worden aangetroffen, zal dit in het proces-verbaal worden vermeld en verzegeling achterwege kunnen blijven.
 
@@ -5936,27 +5959,27 @@ De notaris kan op verlangen en op kosten van elk der partijen de voorwerpen, boe
 
 ### Afdeling Tweede. Van rechtspleging inzake beperking van aansprakelijkheid van scheepseigenaren
 
-#### Artikel 666
+##### Artikel 666
 
 1. De in [artikel 660 onder 1° en 3° onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=660&z=2026-01-01&g=2026-01-01) bedoelde personen kunnen aan de kantonrechter die verlof tot de verzegeling gaf, verlof tot ontzegeling verzoeken. Tegen het verlof is geen hogere voorziening toegelaten.
 
 2. Ontzegeling heeft in elk geval plaats voor zover van de nalatenschap of gemeenschap van goederen een partijen bindende boedelbeschrijving wordt opgesteld of alle partijen hun toestemming tot de ontzegeling geven en het vrije beheer over hun goederen hebben.
 
-#### Artikel 667
+##### Artikel 667
 
 1. De in [artikel 660 onder 1° en 3° onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=660&z=2026-01-01&g=2026-01-01) bedoelde personen en degene die de verzegeling heeft uitgelokt worden opgeroepen om op het verzoek te worden gehoord, indien zij het verlangen daartoe tijdig aan de notaris die de verzegeling heeft verricht, hebben medegedeeld met opgave van de redenen van dit verlangen en van hun woonplaats.
 
 2. Bij het verzoekschrift wordt een verklaring van de notaris overgelegd waaruit blijkt of en, zo ja, welke mededelingen zijn gedaan.
 
-#### Artikel 668
+##### Artikel 668
 
 De ontzegeling geschiedt door de in het verlof tot ontzegeling aangewezen notaris.
 
-#### Artikel 669
+##### Artikel 669
 
 De in [artikel 660 onder 1° en 3° onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=660&z=2026-01-01&g=2026-01-01) bedoelde personen en degene die de verzegeling heeft uitgelokt worden door de notaris ten minste vierentwintig uur tevoren van het tijdstip van ontzegeling op de hoogte gesteld. Hetzelfde geldt voor de schuldeiser van de nalatenschap of gemeenschap die zijn verlangen daartoe tijdig aan de notaris heeft medegedeeld met opgave van zijn vordering en van zijn woonplaats.
 
-#### Artikel 670
+##### Artikel 670
 
 Het proces-verbaal van de ontzegeling moet bevatten:
 
@@ -5974,11 +5997,11 @@ Het proces-verbaal van de ontzegeling moet bevatten:
 
 ### afdeling Derde. Van boedelbeschrijving
 
-#### Artikel 671
+##### Artikel 671
 
 Indien alle partijen zich daarmee verenigen en het vrije beheer over hun goederen hebben, kan een voorgeschreven boedelbeschrijving plaatsvinden bij een onderhandse akte. In alle andere gevallen geschiedt zij bij notariële akte.
 
-#### Artikel 672
+##### Artikel 672
 
 1. De kantonrechter van de rechtbank van het arrondissement waarin de boedel zich geheel of voor een groot deel bevindt, kan op verzoek van een der in [artikel 660 onder 1° en 3° onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Eerste&artikel=660&z=2026-01-01&g=2026-01-01) bedoelde personen of van iemand die daarbij op andere grond voldoende belang heeft, een boedelbeschrijving bevelen door een bij dat bevel aan te wijzen notaris. Tegen het bevel is geen hogere voorziening toegelaten.
 
@@ -5986,11 +6009,11 @@ Indien alle partijen zich daarmee verenigen en het vrije beheer over hun goedere
 
 3. Het bevel wordt slechts gegeven, indien de verzoeker zijn recht en belang summierlijk aannemelijk maakt.
 
-#### Artikel 673
+##### Artikel 673
 
 Indien de notaris nodig oordeelt de te beschrijven zaken zelf in ogenschouw te nemen, zijn de [artikelen 444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01), [444a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444a&z=2026-01-01&g=2026-01-01) en [444b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 674
+##### Artikel 674
 
 De boedelbeschrijving zal bevatten:
 
@@ -6008,19 +6031,19 @@ De boedelbeschrijving zal bevatten:
 
 - 7°. ingeval van een notariële beschrijving: vermelding van de eed, af te leggen in handen van de notaris, van hen die vóór de beschrijving de goederen in hun macht hadden of het huis waarin deze zich bevinden bewoond hebben, dat zij niets hebben verduisterd, noch gezien hebben, noch weten dat iets verduisterd is.
 
-#### Artikel 675
+##### Artikel 675
 
 Indien partijen het niet eens worden over de aanwijzing van de schatters, worden deze benoemd door de notaris of in geval van een onderhandse boedelbeschrijving, door de in [artikel 672](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Tweede&afdeling=Derde&artikel=672&z=2026-01-01&g=2026-01-01) bedoelde kantonrechter.
 
 ### afdeling Vierde. Van geschillen in verband met verzegeling, ontzegeling en boedelbeschrijving
 
-#### Artikel 676
+##### Artikel 676
 
 Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving rijzen, worden in kort geding gebracht voor de voorzieningenrechter van de rechtbank in welker rechtsgebied de verzegeling is geschiedt of de te beschrijven boedel zich geheel of grotendeels bevindt.
 
 ### afdeling Tweede. Van ontzegeling
 
-#### Artikel 677
+##### Artikel 677
 
 1. Het vonnis waarbij een vordering tot verdeling van een gemeenschap wordt toegewezen zonder dat de rechter de vaststelling van de verdeling aan zich houdt, zal inhouden een bevel tot verdeling ten overstaan van een notaris, alsmede, zo partijen het over de keuze niet eens zijn, de benoeming van deze notaris. De rechter die een notaris benoemt, kan de zaak voor wat betreft hetgeen overigens ter zake van de verdeling is gevorderd, aanhouden tot is gebleken of de notaris partijen kan verenigen. De griffier van het gerecht dat de benoeming deed, zendt de notaris onverwijld een expeditie van de uitspraak.
 
@@ -6030,7 +6053,7 @@ Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving
 
 4. De bepalingen van deze afdeling zijn van overeenkomstige toepassing op verzoeken en beschikkingen betreffende de verdeling van een gemeenschap van goederen die door of tijdens een huwelijk of een geregistreerd partnerschap is ontstaan.
 
-#### Artikel 678
+##### Artikel 678
 
 1. Indien de notaris partijen niet kan verenigen, constateert hij dit in een proces-verbaal, waarin hij desverlangd opgeeft op welke punten partijen reeds tot overeenstemming zijn gekomen.
 
@@ -6038,13 +6061,13 @@ Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving
 
 3. Zolang hem geen afschrift van het in het eerste lid bedoelde proces-verbaal wordt overgelegd, kan de rechter op verlangen van elk der partijen de zaak aanhouden ten einde de notaris opnieuw gelegenheid te geven tot toepassing van het derde lid van het vorige artikel.
 
-#### Artikel 679
+##### Artikel 679
 
 1. Indien partijen het niet eens worden over de benoeming van een deskundige om de waarde van een of meer der te verdelen goederen te schatten, geschiedt de benoeming op verzoek van de meest gerede partij door de kantonrechter van de rechtbank van het arrondissement waarin de goederen zich bevinden. Bevinden zij zich in het buitenland, dan is de kantonrechter van de rechtbank Amsterdam bevoegd.
 
 2. Is met betrekking tot de verdeling een procedure aanhangig, dan kan de benoeming ook, op verlangen van een der partijen of ambtshalve, worden gedaan door de rechter voor wie de zaak in eerste aanleg of in hoger beroep dient of door de rechter voor wie een getuigenverhoor of verschijning van partijen is gelast.
 
-#### Artikel 680
+##### Artikel 680
 
 1. Indien een vordering tot verdeling, tot gelasten van de wijze van verdeling of tot vaststelling van een verdeling niet de gehele voor verdeling vatbare gemeenschap betreft, kan ieder van de gedaagden overeenkomstig de hem in de [artikelen 179](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=179) en [185 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=185) toegekende bevoegdheden eisen dat de verdeling van de gehele voor verdeling vatbare gemeenschap wordt bevolen of door de rechter zelf wordt vastgesteld.
 
@@ -6056,83 +6079,83 @@ Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving
 
 5. Zijn niet allen die aan de verdeling dienen mee te werken in het geding betrokken, dan kan ieder van de gedaagden hen met overeenkomstige toepassing van het vorige lid alsnog in het geding roepen, met betekening tevens van een afschrift van de aan hem zelf uitgebrachte dagvaarding.
 
-#### Artikel 681
+##### Artikel 681
 
 Vervallen
 
-#### Artikel 682
+##### Artikel 682
 
 Vervallen
 
-#### Artikel 683
+##### Artikel 683
 
 Vervallen
 
-#### Artikel 684
+##### Artikel 684
 
 Vervallen
 
-#### Artikel 685
+##### Artikel 685
 
 Vervallen
 
-#### Artikel 686
+##### Artikel 686
 
 Vervallen
 
-#### Artikel 687
+##### Artikel 687
 
 Vervallen
 
-#### Artikel 688
+##### Artikel 688
 
 Vervallen
 
-#### Artikel 689
+##### Artikel 689
 
 Vervallen
 
-#### Artikel 690
+##### Artikel 690
 
 Vervallen
 
-#### Artikel 691
+##### Artikel 691
 
 Vervallen
 
-#### Artikel 691a
+##### Artikel 691a
 
 Vervallen
 
-#### Artikel 692
+##### Artikel 692
 
 Vervallen
 
-#### Artikel 693
+##### Artikel 693
 
 Vervallen
 
-#### Artikel 694
+##### Artikel 694
 
 Vervallen
 
-#### Artikel 695
+##### Artikel 695
 
 Vervallen
 
-#### Artikel 696
+##### Artikel 696
 
 Vervallen
 
-#### Artikel 697
+##### Artikel 697
 
 Vervallen
 
-#### Artikel 698
+##### Artikel 698
 
 Vervallen
 
-#### Artikel 699
+##### Artikel 699
 
 Vervallen
 
@@ -6140,7 +6163,7 @@ Vervallen
 
 ### afdeling Vierde. Van geschillen in verband met verzegeling, ontzegeling en boedelbeschrijving
 
-#### Artikel 700
+##### Artikel 700
 
 1. Voor het leggen van conservatoir beslag is verlof vereist van de voorzieningenrechter van de rechtbank binnen welker rechtsgebied zich een of meer van de betrokken zaken bevinden, dan wel, indien het beslag niet op zaken betrekking heeft, de schuldenaar of degene of een dergenen onder wie het beslag gelegd wordt, woonplaats heeft.
 
@@ -6150,29 +6173,29 @@ Vervallen
 
 4. Verlof tot het leggen van beslag ten laste van een instelling als bedoeld in [artikel 212a, onder a, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212a) kan slechts worden verleend nadat de instelling in de gelegenheid is gesteld om te worden gehoord, tenzij het beslag uitsluitend op zaken betrekking heeft.
 
-#### Artikel 701
+##### Artikel 701
 
 1. De voorzieningenrechter kan het verlof verlenen onder voorwaarde dat tot een door hem te bepalen bedrag zekerheid wordt gesteld voor schade die door het beslag kan worden veroorzaakt.
 
 2. De zekerheid moet voor of bij de betekening van het beslagexploot aan de beslagene worden aangeboden. Voor het overige is [artikel 616](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Zevende&artikel=616&z=2026-01-01&g=2026-01-01) van toepassing.
 
-#### Artikel 702
+##### Artikel 702
 
 1. Tenzij de wet anders bepaalt, wordt een conservatoir beslag gelegd met overeenkomstige toepassing van [artikel 441, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=441&z=2026-01-01&g=2026-01-01), en van de voorschriften, geldende voor het leggen van executoriaal beslag tot verhaal van een geldvordering op een goed van de soort als in beslag genomen wordt. In plaats van de executoriale titel wordt in het beslagexploot het in [artikel 700](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01) bedoelde verlof van de voorzieningenrechter vermeld.
 
 2. Dit verlof en het verzoekschrift waarop het is gegeven worden tezamen met het beslagexploot aan de beslagene betekend.
 
-#### Artikel 703
+##### Artikel 703
 
 Het beslag mag niet worden gelegd op goederen bestemd voor de openbare dienst of op goederen die De Nederlandsche Bank N.V. onder zich heeft ten behoeve van een systeem als bedoeld in [artikel 212a, onder b, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=212a).
 
-#### Artikel 704
+##### Artikel 704
 
 1. Zodra de beslaglegger in de hoofdzaak een executoriale titel heeft verkregen en deze voor tenuitvoerlegging vatbaar is geworden, gaat het conservatoir beslag over in een executoriaal beslag, mits de verkregen titel aan de beslagene en, zo het beslag onder een derde is gelegd, ook aan deze is betekend.
 
 2. Wordt de eis in de hoofdzaak afgewezen, en is deze afwijzing in kracht van gewijsde gegaan, dan vervalt daardoor tevens van rechtswege het beslag. Hetzelfde geldt, indien voor de tenuitvoerlegging van de beslissing in de hoofdzaak een rechterlijk bevelschrift of verlof nodig is, en de beslissing waarbij dit door de rechter is geweigerd in kracht van gewijsde is gegaan.
 
-#### Artikel 705
+##### Artikel 705
 
 1. De voorzieningenrechter die verlof tot het beslag heeft gegeven kan, rechtdoende in kort geding, het beslag op vordering van elke belanghebbende opheffen, onverminderd de bevoegdheid van de gewone rechter.
 
@@ -6180,21 +6203,21 @@ Het beslag mag niet worden gelegd op goederen bestemd voor de openbare dienst of
 
 3. [Artikel 63, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=63&z=2026-01-01&g=2026-01-01), en [artikel 438, derde lid, derde zin, vierde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
-#### Artikel 706
+##### Artikel 706
 
 De kosten van het beslag kunnen, al of niet in de hoofdzaak, van de beslagene worden teruggevorderd, tenzij het beslag nietig, onnodig of onrechtmatig was.
 
-#### Artikel 707
+##### Artikel 707
 
 Hetgeen is bepaald omtrent conservatoir beslag op een goed, is van overeenkomstige toepassing op conservatoir beslag op een beperkt recht op of een aandeel in een zodanig goed.
 
-#### Artikel 708
+##### Artikel 708
 
 1. Hetgeen is bepaald omtrent conservatoir beslag op een goed van de schuldenaar is van overeenkomstige toepassing op conservatoir beslag op een goed waarop de schuldeiser zich kan verhalen en dat aan een ander dan de schuldenaar toebehoort. De beslaglegger is in dit geval verplicht het beslag binnen acht dagen aan de schuldenaar te betekenen.
 
 2. Wordt het beslag ten laste van de schuldenaar gelegd, dan is de beslaglegger verplicht het binnen acht dagen aan de ander te betekenen of, zo hij diens recht niet kent, onverwijld nadat hij van dat recht kennis heeft gekregen. Indien de ander, voordat acht dagen na deze betekening zijn verstreken, schriftelijk aan de deurwaarder mededeelt zich tegen het voorgenomen verhaal op zijn goed te verzetten, gaat het beslag jegens hem slechts over in een executoriaal beslag uit hoofde van een tegen hem verkregen executoriale titel om de executie te dulden.
 
-#### Artikel 709
+##### Artikel 709
 
 1. Op verzoek van degene die verlof vraagt tot het leggen van conservatoir beslag op roerende zaken die geen registergoederen zijn, of die op zodanige zaken reeds beslag heeft gelegd, kan de voorzieningenrechter die het verlof geeft of heeft gegeven of in het rechtsgebied van wiens rechtbank zich een of meer van de betrokken zaken bevinden, bevelen dat zij tevens ter gerechtelijke bewaring zullen worden afgegeven aan een door de voorzieningenrechter aan te wijzen bewaarder.
 
@@ -6204,7 +6227,7 @@ Hetgeen is bepaald omtrent conservatoir beslag op een goed, is van overeenkomsti
 
 4. [Artikel 701](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=701&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 710
+##### Artikel 710
 
 1. Indien over één of meer goederen geschil bestaat aan wie van twee of meer partijen zij toekomen, kunnen zij op vordering van elk der partijen in kort geding onder bewind worden gesteld door de voorzieningenrechter van de rechtbank in welker rechtsgebied zich een of meer van de betrokken zaken bevinden of waarvoor de hoofdzaak aanhangig is of die naar de gewone regels bevoegd zou zijn van de hoofdzaak kennis te nemen.
 
@@ -6216,13 +6239,13 @@ Hetgeen is bepaald omtrent conservatoir beslag op een goed, is van overeenkomsti
 
 5. De voorzieningenrechter kan voor het bewind zodanige voorschriften geven als hij dienstig acht. Op het bewind zijn, voor zover deze voorschriften niet anders bepalen de [artikelen 433 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=433), [435](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435), [436 leden 1-3](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=436), [437](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=437), [438 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=438), [439](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=439), [441 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=441), en [442-448 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=422) van toepassing. Het kan door een gezamenlijk besluit van partijen of op verzoek van een hunner door de voorzieningenrechter worden opgeheven.
 
-#### Artikel 710a
+##### Artikel 710a
 
 De indiening van verzoekschriften krachtens de [artikelen 700, derde lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), [709, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=709&z=2026-01-01&g=2026-01-01), [715, tweede lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Derde&artikel=715&z=2026-01-01&g=2026-01-01), en [721, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Vierde&artikel=721&z=2026-01-01&g=2026-01-01), kan ook door een deurwaarder geschieden. Indien een deurwaarder het verzoekschrift indient, geldt zijn kantoor als gekozen woonplaats van de verzoeker.
 
 ### afdeling Derde. Van boedelbeschrijving
 
-#### Artikel 711
+##### Artikel 711
 
 1. Verlof om conservatoir beslag tot verhaal van een geldvordering te leggen op roerende zaken die geen registergoederen zijn en op rechten aan toonder of order wordt slechts verleend, indien de schuldeiser aantoont dat er gegronde vrees bestaat voor verduistering hetzij door de schuldenaar van zijn goederen hetzij, zo de voor het beslag vatbare goederen aan een ander dan de schuldenaar toebehoren, door deze ander van die goederen.
 
@@ -6230,21 +6253,21 @@ De indiening van verzoekschriften krachtens de [artikelen 700, derde lid, tweede
 
 3. De vorige leden zijn mede van toepassing op de goederen bedoeld in [artikel 474bb](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474bb&z=2026-01-01&g=2026-01-01). Het in beslag te nemen goed moet in het in [artikel 700, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bedoelde verzoekschrift worden omschreven.
 
-#### Artikel 712
+##### Artikel 712
 
 De [artikelen 441, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=441&z=2026-01-01&g=2026-01-01), [442-445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=443&z=2026-01-01&g=2026-01-01), [447](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=447&z=2026-01-01&g=2026-01-01), [448](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=448&z=2026-01-01&g=2026-01-01), [451](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=451&z=2026-01-01&g=2026-01-01), [453a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=453a&z=2026-01-01&g=2026-01-01), [455a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=455a&z=2026-01-01&g=2026-01-01), [457](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=457&z=2026-01-01&g=2026-01-01) en [461d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=461d&z=2026-01-01&g=2026-01-01) zijn op de in het vorige artikel bedoelde beslag van overeenkomstige toepassing.
 
-#### Artikel 713
+##### Artikel 713
 
 Wordt het beslag gelegd op een recht aan toonder of order, dan worden de in [artikel 474b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474b&z=2026-01-01&g=2026-01-01) bedoelde baten geïnd door de bewaarder van het papier en zijn voorts dat artikel en [artikel 474ba](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474ba&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
 ### afdeling Derde. Van boedelbeschrijving
 
-#### Artikel 714
+##### Artikel 714
 
 De bepalingen van de [artikelen 474b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474b&z=2026-01-01&g=2026-01-01), [474ba](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474ba&z=2026-01-01&g=2026-01-01) en [711, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=711&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing op het conservatoir beslag tot verhaal van een geldvordering op aandelen op naam en effecten op naam die geen aandelen zijn.
 
-#### Artikel 715
+##### Artikel 715
 
 1. Conservatoir beslag op aandelen op naam in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid wordt gelegd op de wijze en met de gevolgen als bepaald in de [artikelen 474c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474c&z=2026-01-01&g=2026-01-01), [474d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474d&z=2026-01-01&g=2026-01-01), [474e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474e&z=2026-01-01&g=2026-01-01) en [474f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474f&z=2026-01-01&g=2026-01-01), met dien verstande dat het verlof van de voorzieningenrechter van de rechtbank treedt in de plaats van de executoriale titel.
 
@@ -6252,11 +6275,11 @@ De bepalingen van de [artikelen 474b, tweede lid](https://wetten.overheid.nl/jci
 
 3. De termijn, vermeld in [artikel 474g, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474g&z=2026-01-01&g=2026-01-01), eindigt eerst één maand na de dag, waarop de in kracht van gewijsde gegane executoriale titel aan de vennootschap is betekend.
 
-#### Artikel 716
+##### Artikel 716
 
 Ten aanzien van de baten uit in beslag genomen aandelen op naam voortvloeiende geldt het beslag als een beslag onder de vennootschap. Van deze baten doet de vennootschap verklaring aan de rechtbank alvorens deze de beschikking bedoeld in [artikel 474g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_B&artikel=474g&z=2026-01-01&g=2026-01-01) geeft. Bij deze beschikking wordt tevens beslist omtrent de deugdelijkheid van deze verklaring, en wordt de afgifte van de baten aan de deurwaarder gelast, mits alle kosten aan de zijde van de vennootschap ter zake van de deugdelijk bevonden verklaring worden vergoed.
 
-#### Artikel 717
+##### Artikel 717
 
 1. De bepalingen van de [artikelen 715](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Derde&artikel=715&z=2026-01-01&g=2026-01-01) en [716](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Derde&artikel=716&z=2026-01-01&g=2026-01-01) zijn voor zover mogelijk eveneens van toepassing op andere aandelen op naam dan in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid en op effecten op naam die geen aandelen zijn.
 
@@ -6264,35 +6287,35 @@ Ten aanzien van de baten uit in beslag genomen aandelen op naam voortvloeiende g
 
 ### Vierde afdeling A. Rechtsmiddelen tegen beschikkingen in procedures betreffende een nalatenschap
 
-#### Artikel 718
+##### Artikel 718
 
 Een schuldeiser kan onder derden conservatoir beslag leggen op de in [artikel 475](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01) bedoelde goederen.
 
-#### Artikel 719
+##### Artikel 719
 
 1. Onverminderd hetgeen voortvloeit uit [artikel 702](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=702&z=2026-01-01&g=2026-01-01), moeten op straffe van nietigheid in het beslagexploot worden vermeld het bedrag waarvoor het in [artikel 700](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01) bedoelde verlof werd verleend, alsmede waar de hoofdzaak aanhangig is of binnen welke termijn zij blijkens het verlof ingesteld moet worden.
 
 2. Bij het beslagexploot wordt aan de derde tevens een afschrift betekend van het verlof van de voorzieningenrechter en van het verzoekschrift waarop het is gegeven.
 
-#### Artikel 720
+##### Artikel 720
 
 De [artikelen 475, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01), [475a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475a&z=2026-01-01&g=2026-01-01), [475b tot en met 475i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475b&z=2026-01-01&g=2026-01-01), [476a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476a&z=2026-01-01&g=2026-01-01) en [476b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=476b&z=2026-01-01&g=2026-01-01), [479](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=479&z=2026-01-01&g=2026-01-01) en [479a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=479a&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing. In het geval van [artikel 475a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475a&z=2026-01-01&g=2026-01-01), moet de vordering waarop het beslag wordt gelegd in het verzoekschrift waarbij verlof van de voorzieningenrechter wordt gevraagd, uitdrukkelijk worden omschreven. Verlof tot het leggen van beslag op een vordering tot een in [artikel 475c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475c&z=2026-01-01&g=2026-01-01) vermelde periodieke betaling kan slechts worden verleend, nadat de schuldenaar is gehoord of hij de gelegenheid te worden gehoord, ongebruikt heeft laten voorbijgaan.
 
-#### Artikel 721
+##### Artikel 721
 
 De beslaglegger is op straffe van nietigheid van het beslag verplicht om, zo de eis in de hoofdzaak na het beslag wordt ingesteld, binnen acht dagen na dit instellen een afschrift van de dagvaarding of, zo de eis op andere wijze is ingesteld, van het stuk waarbij het is geschied, aan de derde te betekenen. De voorzieningenrechter kan deze termijn op verzoek van de beslaglegger verlengen, in dier voege dat de verlenging om haar werking te hebben binnen acht dagen na het verstrijken van de termijn schriftelijk aan de derde moet zijn medegedeeld. Tegen de beschikking is geen hogere voorziening toegelaten.
 
-#### Artikel 722
+##### Artikel 722
 
 De betekening aan de derde, in [het eerste lid van artikel 704](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=704&z=2026-01-01&g=2026-01-01) voorgeschreven, dient te geschieden binnen één maand nadat ter zake van de hoofdvordering een executoriale titel is verkregen en deze voor tenuitvoerlegging vatbaar is geworden; blijft betekening binnen deze termijn uit, dan zullen de betalingen door de derde gedaan, van waarde zijn.
 
-#### Artikel 723
+##### Artikel 723
 
 De in [artikel 477](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=477&z=2026-01-01&g=2026-01-01) bedoelde verplichting van de derde en de in [477a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=477a&z=2026-01-01&g=2026-01-01) bedoelde bevoegdheden van de executant gaan niet in voordat vier weken sedert de in het vorige artikel bedoelde betekening zijn verstreken.
 
 ### afdeling Vijfde. Van de verdeling van een gemeenschap
 
-#### Artikel 724
+##### Artikel 724
 
 1. Een schuldeiser kan onder zichzelf beslag leggen op de in [artikel 479h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_B&artikel=479h&z=2026-01-01&g=2026-01-01) bedoelde goederen. Deze goederen moeten in het in [artikel 700, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bedoelde verzoekschrift worden omschreven.
 
@@ -6302,23 +6325,23 @@ De in [artikel 477](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&
 
 ### Vierde afdeling A. Rechtsmiddelen tegen beschikkingen in procedures betreffende een nalatenschap
 
-#### Artikel 725
+##### Artikel 725
 
 Indien is voldaan aan de eisen die in [artikel 711, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=711&z=2026-01-01&g=2026-01-01), voor het verlof worden gesteld, kan ook verlof verleend worden om beslag te leggen op een of meer bepaald aan te wijzen onroerende zaken.
 
-#### Artikel 726
+##### Artikel 726
 
 1. De [artikelen 504a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=504a&z=2026-01-01&g=2026-01-01), [505](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=505&z=2026-01-01&g=2026-01-01), [506](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=506&z=2026-01-01&g=2026-01-01), [507a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=507a&z=2026-01-01&g=2026-01-01), [507b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=507b&z=2026-01-01&g=2026-01-01) en [513a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=513a&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 2. De termijn van [artikel 508](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=508&z=2026-01-01&g=2026-01-01) begint te lopen vanaf de dag dat de schuldeiser een executoriale titel heeft verkregen en deze voor tenuitvoerlegging vatbaar is geworden en aan de schuldenaar is betekend.
 
-#### Artikel 727
+##### Artikel 727
 
 Indien de eis in de hoofdzaak niet binnen de overeenkomstig [artikel 700, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bepaalde termijn is ingesteld, is de beslaglegger verplicht de inschrijving van het beslag in de openbare registers onverwijld te doen doorhalen op straffe van schadevergoeding.
 
 ### afdeling Vierde. Van conservatoir beslag onder derden
 
-#### Artikel 728
+##### Artikel 728
 
 1. Tot het geven van verlof tot het leggen van conservatoir beslag op schepen zijn mede bevoegd de voorzieningenrechter van de rechtbank in het rechtsgebied waarbinnen het schip wordt verwacht en de voorzieningenrechter van de rechtbank Rotterdam.
 
@@ -6326,25 +6349,25 @@ Indien de eis in de hoofdzaak niet binnen de overeenkomstig [artikel 700, derde 
 
 2. In het proces-verbaal van inbeslagneming kan woonplaats worden gekozen ten kantore van de deurwaarder in plaats van bij een notaris. Tevens kan woonplaats worden gekozen in Nederland ten kantore van een advocaat.
 
-#### Artikel 728a
+##### Artikel 728a
 
 1. [Artikel 708, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=708&z=2026-01-01&g=2026-01-01), is niet van toepassing. De [artikelen 566](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=566&z=2026-01-01&g=2026-01-01), [567](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=567&z=2026-01-01&g=2026-01-01) en [513a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=513a&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 2. De termijn van [artikel 508](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=508&z=2026-01-01&g=2026-01-01), in verbinding met [artikel 568](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Eerste&artikel=568&z=2026-01-01&g=2026-01-01), begint te lopen vanaf de dag dat de schuldeiser een executoriale titel heeft verkregen en deze voor tenuitvoerlegging vatbaar is geworden en is betekend aan de schuldenaar jegens wie deze titel luidt.
 
-#### Artikel 728b
+##### Artikel 728b
 
 Indien het beslag is gelegd op een schip dat te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2) en de eis in hoofdzaak niet binnen de overeenkomstig [artikel 700, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bepaalde termijn is ingesteld, is de beslaglegger verplicht de waardeloosheid van de inschrijving van het beslag onverwijld te doen inschrijven op straffe van schadevergoeding.
 
 ### afdeling Vierde. Van conservatoir beslag onder derden
 
-#### Artikel 729
+##### Artikel 729
 
 1. Deze afdeling geldt uitsluitend voor in het in de openbare registers te boek staande luchtvaartuigen en voor luchtvaartuigen van de nationaliteit van een vreemde staat, ten aanzien van welke het op 29 mei 1933 te Rome gesloten verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen van kracht is.
 
 2. De in [artikel 1300 van Boek 8 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005034&artikel=1300) opgenomen begripsomschrijvingen gelden ook voor de onderhavige afdeling.
 
-#### Artikel 729a
+##### Artikel 729a
 
 1. Voor beslag zijn niet vatbaar:
 
@@ -6356,7 +6379,7 @@ Indien het beslag is gelegd op een schip dat te boek staat in de openbare regist
 
 2. Het bepaalde in het vorige lid is niet van toepassing ten aanzien van beslag, hetwelk wordt gelegd ter zake van terugvordering van een ontvreemd luchtvaartuig.
 
-#### Artikel 729b
+##### Artikel 729b
 
 1. Onverminderd het bepaalde in [artikel 729a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Zesde_B&artikel=729a&z=2026-01-01&g=2026-01-01) mag geen beslag op een luchtvaartuig worden gelegd, indien ter voorkoming daarvan voldoende zekerheid is gesteld. Onmiddellijke opheffing van gelegd beslag zal worden gelast, wanneer voldoende zekerheid wordt gesteld.
 
@@ -6364,13 +6387,13 @@ Indien het beslag is gelegd op een schip dat te boek staat in de openbare regist
 
 3. Wanneer bij het aanbieden van zekerheid ter voorkoming van beslag geschil ontstaat over het bedrag of de aard van de te stellen zekerheid, beslist de voorzieningenrechter van de rechtbank, binnen welker gebied het luchtvaartuig zich bevindt, op verzoek van de meest gerede partij, na verhoor of behoorlijke oproeping.
 
-#### Artikel 729c
+##### Artikel 729c
 
 1. Wanneer in strijd met de overige artikelen van deze afdeling of zonder goede grond beslag op een luchtvaartuig is gelegd, is de beslaglegger gehouden de daardoor ontstane schade te vergoeden.
 
 2. Het eerste lid is mede van toepassing, wanneer de schuldenaar zekerheid heeft moeten stellen om een beslag te voorkomen dat, ware het gelegd, in strijd met de vorige artikelen of zonder goede grond zijn geweest.
 
-#### Artikel 729d
+##### Artikel 729d
 
 1. Tot het geven van verlof tot het leggen van conservatoir beslag op luchtvaartuigen is mede bevoegd de voorzieningenrechter van de rechtbank binnen welker rechtsgebied het luchtvaartuig wordt verwacht. De [artikelen 711, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=711&z=2026-01-01&g=2026-01-01), en [712](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Tweede&artikel=712&z=2026-01-01&g=2026-01-01) zijn niet van toepassing.
 
@@ -6378,31 +6401,31 @@ Indien het beslag is gelegd op een schip dat te boek staat in de openbare regist
 
 3. Indien het beslag is gelegd op een in het register teboekstaand luchtvaartuig en de eis in de hoofdzaak niet binnen de overeenkomstig [artikel 700, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bepaalde termijn is ingesteld, is de beslaglegger verplicht de inschrijving van het beslag in de openbare registers onverwijld te doen doorhalen op straffe van schadevergoeding.
 
-#### Artikel 729e
+##### Artikel 729e
 
 Indien terzake van de hoofdvordering een executoriale titel is verkregen en deze voor tenuitvoerlegging vatbaar is geworden, gaat de beslaglegger tot executie over overeenkomstig [artikel 584f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vierde&afdeling=Tweede&artikel=584f&z=2026-01-01&g=2026-01-01).
 
 ### afdeling Derde. Van conservatoir beslag op aandelen op naam, en effecten op naam die geen aandelen zijn
 
-#### Artikel 730
+##### Artikel 730
 
 Ieder die recht heeft op afgifte van een roerende zaak of levering van een goed of die zodanig recht door een rechterlijke uitspraak tot vernietiging of ontbinding kan verkrijgen, kan deze zaak of dit goed ter bewaring van dit recht in beslag nemen.
 
-#### Artikel 731
+##### Artikel 731
 
 Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan zal de deurwaarder een aan dat recht beantwoordende hoeveelheid zaken van die soort in beslag nemen, uit te kiezen door de deurwaarder, tenzij de beslagene tijdig een redelijke andere keuze doet.
 
-#### Artikel 732
+##### Artikel 732
 
 Betreft het recht op afgifte te velde staande vruchten of beplantingen van een onroerende zaak, dan kan uit dien hoofde beslag worden gelegd overeenkomstig [artikel 494](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=494&z=2026-01-01&g=2026-01-01). In dat geval worden de in [artikel 451](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=451&z=2026-01-01&g=2026-01-01) aan de kantonrechter toegekende bevoegdheden uitgeoefend door de voorzieningenrechter van de rechtbank, indien dit bij het in [artikel 700, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bedoelde verzoekschrift wordt verzocht.
 
-#### Artikel 733
+##### Artikel 733
 
 1. Hij die verdeling van een gemeenschap kan vorderen, kan de daartoe behorende goederen in beslag nemen, voor zover zij in het bijzonder in aanmerking komen om aan hem of aan de deelgenoot voor wiens aandeel hij optreedt, te worden toegedeeld.
 
 2. Het beslag vervalt, naarmate de goederen aan een ander worden toegedeeld.
 
-#### Artikel 734
+##### Artikel 734
 
 1. Op een beslag als bedoeld in deze afdeling zijn de voorschriften betreffende conservatoir beslag tot verhaal van geldvorderingen van overeenkomstige toepassing, behoudens voor zover dit zou leiden tot toepasselijkheid van de [artikelen 447](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=447&z=2026-01-01&g=2026-01-01), [448](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=448&z=2026-01-01&g=2026-01-01) en [505, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=505&z=2026-01-01&g=2026-01-01).
 
@@ -6412,29 +6435,29 @@ Betreft het recht op afgifte te velde staande vruchten of beplantingen van een o
 
 4. In het in [artikel 700, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=700&z=2026-01-01&g=2026-01-01), bedoelde verzoekschrift wordt het in beslag te nemen goed omschreven. Vrees voor verduistering behoeft niet te worden gesteld.
 
-#### Artikel 734a
+##### Artikel 734a
 
 Vervallen
 
-#### Artikel 734b
+##### Artikel 734b
 
 Vervallen
 
-#### Artikel 734c
+##### Artikel 734c
 
 Vervallen
 
-#### Artikel 734d
+##### Artikel 734d
 
 Vervallen
 
-#### Artikel 735
+##### Artikel 735
 
 1. Een beslag als bedoeld in de voorgaande artikelen, gelegd ter verkrijging van levering van een goed, blijft van kracht totdat hetzij de levering heeft plaatsgevonden, hetzij zes maanden zijn verstreken, nadat in de hoofdzaak een beslissing is verkregen die een executoriale titel oplevert en die in kracht van gewijsde is gegaan.
 
 2. Een beslag als bedoeld in de voorgaande artikelen van deze afdeling op een roerende zaak die geen registergoed is, gaat krachtens [artikel 704, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=704&z=2026-01-01&g=2026-01-01), over in een executoriaal beslag als bedoeld in [artikel 492](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Vierde&artikel=492&z=2026-01-01&g=2026-01-01), indien de door de beslaglegger verkregen executoriale titel tot afgifte strekt.
 
-#### Artikel 736
+##### Artikel 736
 
 1. Bij samenloop van een beslag als bedoeld in de onderhavige afdeling met een ander beslag, al of niet van dezelfde aard, kan de meest gerede partij zich tot de rechter wenden, al naar de aard van het andere beslag overeenkomstig [artikel 438](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01) of overeenkomstig [artikel 705](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=705&z=2026-01-01&g=2026-01-01).
 
@@ -6442,153 +6465,153 @@ Vervallen
 
 3. Een beslag tot verhaal van een vordering tot vervangende schadevergoeding wegens het uitblijven van afgifte of levering kan niet tegen de legger van een beslag tot verkrijging van afgifte of levering van dezelfde zaak of hetzelfde goed worden ingeroepen, indien deze andere goederen van de beslagene aanwijst die voor de vordering voldoende verhaal bieden.
 
-#### Artikel 737
+##### Artikel 737
 
 1. Een beslag als bedoeld in deze afdeling kan mede worden gelegd door een schuldeiser die door een rechterlijke uitspraak tot vernietiging op grond van [artikel 45 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=45) de bevoegdheid kan verkrijgen zich op het goed te verhalen.
 
 2. Is de vernietiging uitgesproken, dan gaat het beslag over in een conservatoir beslag op het goed tot verhaal van zijn vordering of, als te dier zake is voldaan aan de eisen van [artikel 704, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=704&z=2026-01-01&g=2026-01-01), in een overeenkomstig executoriaal beslag.
 
-#### Artikel 738
+##### Artikel 738
 
 Vervallen
 
-#### Artikel 739
+##### Artikel 739
 
 Vervallen
 
-#### Artikel 740
+##### Artikel 740
 
 Vervallen
 
-#### Artikel 741
+##### Artikel 741
 
 Vervallen
 
-#### Artikel 742
+##### Artikel 742
 
 Vervallen
 
-#### Artikel 743
+##### Artikel 743
 
 Vervallen
 
-#### Artikel 744
+##### Artikel 744
 
 Vervallen
 
-#### Artikel 745
+##### Artikel 745
 
 Vervallen
 
-#### Artikel 746
+##### Artikel 746
 
 Vervallen
 
-#### Artikel 747
+##### Artikel 747
 
 Vervallen
 
-#### Artikel 748
+##### Artikel 748
 
 Vervallen
 
-#### Artikel 749
+##### Artikel 749
 
 Vervallen
 
-#### Artikel 750
+##### Artikel 750
 
 Vervallen
 
-#### Artikel 751
+##### Artikel 751
 
 Vervallen
 
-#### Artikel 752
+##### Artikel 752
 
 Vervallen
 
-#### Artikel 753
+##### Artikel 753
 
 Vervallen
 
-#### Artikel 754
+##### Artikel 754
 
 Vervallen
 
-#### Artikel 755
+##### Artikel 755
 
 Vervallen
 
-#### Artikel 756
+##### Artikel 756
 
 Vervallen
 
-#### Artikel 757
+##### Artikel 757
 
 Vervallen
 
-#### Artikel 757a
+##### Artikel 757a
 
 Vervallen
 
-#### Artikel 757b
+##### Artikel 757b
 
 Vervallen
 
-#### Artikel 757c
+##### Artikel 757c
 
 Vervallen
 
-#### Artikel 757d
+##### Artikel 757d
 
 Vervallen
 
-#### Artikel 758
+##### Artikel 758
 
 Vervallen
 
-#### Artikel 759
+##### Artikel 759
 
 Vervallen
 
-#### Artikel 760
+##### Artikel 760
 
 Vervallen
 
-#### Artikel 761
+##### Artikel 761
 
 Vervallen
 
-#### Artikel 762
+##### Artikel 762
 
 Vervallen
 
-#### Artikel 763
+##### Artikel 763
 
 Vervallen
 
-#### Artikel 764
+##### Artikel 764
 
 Vervallen
 
 ### afdeling Zesde. Van conservatoir beslag op onroerende zaken
 
-#### Artikel 765
+##### Artikel 765
 
 Indien de schuldenaar geen bekende woonplaats in Nederland heeft, kan in Nederland overeenkomstig de voorgaande afdelingen van deze titel beslag worden gelegd, zonder dat vrees voor verduistering behoeft te worden aangetoond.
 
-#### Artikel 766
+##### Artikel 766
 
 De beslaglegger is van rechtswege bewaarder van de in beslag genomen zaken, in geval deze zich onder hem bevinden; zo niet, dan kan daarover naar de regels betreffende executoriaal beslag een gerechtelijke bewaarder worden aangesteld.
 
-#### Artikel 767
+##### Artikel 767
 
 Bij gebreke van een andere weg om een executoriale titel in Nederland te verkrijgen kan de eis in de hoofdzaak, de vordering ter zake van de beslagkosten daaronder begrepen, worden ingesteld voor de rechtbank waarvan de voorzieningenrechter het verlof tot het gelegde of het tegen zekerheidstelling voorkomen of opgeheven beslag heeft verleend. In geval van verlof tot beslag onder een derde geldt dit alleen indien het goed waarop beslag zal worden gelegd in het verzoekschrift uitdrukkelijk is omschreven.
 
 ### Zesde afdeling A. Van conservatoir beslag op schepen
 
-#### Artikel 768
+##### Artikel 768
 
 1. Indien echtgenoten of gewezen echtgenoten dan wel geregistreerde partners of vroegere geregistreerde partners gehuwd onderscheidenlijk als partners geregistreerd zijn of waren in een gemeenschap van goederen, kan ieder van hen de voorzieningenrechter van de rechtbank verzoeken hem verlof te verlenen tot verzegeling, boedelbeschrijving en waardering van goederen der gemeenschap alsmede tot het leggen van conservatoir beslag op goederen der gemeenschap.
 
@@ -6598,25 +6621,25 @@ Bij gebreke van een andere weg om een executoriale titel in Nederland te verkrij
 
 4. Tegen een verlof als bedoeld in het eerste lid is geen hogere voorziening toegelaten.
 
-#### Artikel 769
+##### Artikel 769
 
 1. Op het beslag zijn de bepalingen betreffende conservatoir beslag tot verhaal van een geldvordering van overeenkomstige toepassing met dien verstande dat geen vermelding van een bedrag wordt vereist en dat als hoofdzaak geldt het verzoek tot opheffing van de gemeenschap respectievelijk tot echtscheiding, tot scheiding van tafel en bed of tot ontbinding van het geregistreerd partnerschap, alles behoudens voor zover daarvan in de volgende artikelen niet wordt afgeweken.
 
 2. Voor de overeenkomstige toepassing van [artikel 444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01) treedt de waarde van het in beslag te nemen goed in de plaats van het bedrag van de vordering waarvoor het beslag wordt gelegd.
 
-#### Artikel 770
+##### Artikel 770
 
 1. Indien het beslag is gelegd onder een derde, is deze verplicht verklaring te doen van de vorderingen en zaken die door het beslag zijn getroffen. De [artikelen 475-477**a**](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
 2. De derde voldoet op verlangen van de deurwaarder aan zijn verplichtingen tot voldoening, afgifte of terbeschikkingstelling van de uit te keren gelden, zaken of goederen, naar gelang dit voor de afwikkeling van de verdeling van de gemeenschap nodig is.
 
-#### Artikel 770a
+##### Artikel 770a
 
 1. In geval van een beslag op een onroerende zaak is [artikel 505, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Derde&afdeling=Eerste&artikel=505&z=2026-01-01&g=2026-01-01), niet van toepassing.
 
 2. In geval van een beslag op een roerende zaak die geen registergoed is, zijn de [artikelen 441, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=441&z=2026-01-01&g=2026-01-01), [447](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=447&z=2026-01-01&g=2026-01-01) en [448](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=448&z=2026-01-01&g=2026-01-01) niet van toepassing.
 
-#### Artikel 770b
+##### Artikel 770b
 
 1. Bij toewijzing van het verzoek tot opheffing van de gemeenschap respectievelijk tot echtscheiding, tot scheiding van tafel en bed of tot ontbinding van het geregistreerd partnerschap, vervalt het beslag zodra de goederen aan de andere echtgenoot of geregistreerde partner worden toegedeeld of krachtens de verdeling aan de beslaglegger geleverd.
 
@@ -6624,13 +6647,13 @@ Bij gebreke van een andere weg om een executoriale titel in Nederland te verkrij
 
 3. De [artikelen 704, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=704&z=2026-01-01&g=2026-01-01), [715, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Derde&artikel=715&z=2026-01-01&g=2026-01-01), [722](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Vierde&artikel=722&z=2026-01-01&g=2026-01-01), [723](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Vierde&artikel=723&z=2026-01-01&g=2026-01-01) en [724, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Vijfde&artikel=724&z=2026-01-01&g=2026-01-01), zijn niet van toepassing.
 
-#### Artikel 770c
+##### Artikel 770c
 
 Een eventueel overschot van een executie wordt door de deurwaarder, notaris of pandhouder onverwijld gestort bij een bewaarder als bedoeld in [artikel 445](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=445&z=2026-01-01&g=2026-01-01) ten behoeve van de echtgenoot of geregistreerde partner aan wie dit overschot wordt toegedeeld.
 
 ## titel Vijfde. Rekenprocedure
 
-#### Artikel 771
+##### Artikel 771
 
 1. Indien rekening en verantwoording moet worden gedaan aan belanghebbenden die allen of voor een deel onbekend of afwezig zijn, dagvaardt de rekenplichtige hen allen tot het opnemen en goedkeuren van de rekening op de wijze als vermeld in [artikel 54, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Zesde&artikel=54&z=2026-01-01&g=2026-01-01).
 
@@ -6638,133 +6661,133 @@ Een eventueel overschot van een executie wordt door de deurwaarder, notaris of p
 
 3. De termijn van dagvaarding is ten minste drie maanden.
 
-#### Artikel 772
+##### Artikel 772
 
 De rekenplichtige deponeert de rekening met de daarbij behorende bescheiden ter griffie, waar deze ter inzage van de belanghebbenden ligt. De rekenplichtige vermeldt dit depot in het exploot van dagvaarding.
 
-#### Artikel 773
+##### Artikel 773
 
 [Artikel 140, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Zevende&artikel=140&z=2026-01-01&g=2026-01-01), is van toepassing, met dien verstande dat de rechter, indien tegen een of meer gedaagden verstek is verleend, ambtshalve de rechtmatigheid en de gegrondheid van de vordering onderzoekt.
 
-#### Artikel 774
+##### Artikel 774
 
 1. Wordt tegen alle belanghebbenden verstek verleend, dan onderzoekt de rechter ambtshalve de rechtmatigheid en de gegrondheid van de vordering. Indien dit onderzoek niet leidt tot afwijzing van de vordering, stelt de rechter het saldo aan de hand van de overgelegde bescheiden vast en sluit hij de rekening. Tegen dit vonnis staat geen verzet open.
 
 2. De rechter geeft zodanige beslissing over de kosten van het geding als hij geraden acht. Een gedaagde tegen wie verstek is verleend, wordt niet verwezen in de kosten.
 
-#### Artikel 775
+##### Artikel 775
 
 De rekenplichtige kan zich van het onder hem berustende saldo bevrijden door storting in de consignatiekas. Deze storting kan ook op vordering van belanghebbenden worden bevolen.
 
-#### Artikel 776
+##### Artikel 776
 
 Wordt tussen de belanghebbenden over de verdeling van een batig saldo geen overeenstemming bereikt, dan kan de meest gerede partij rangregeling overeenkomstig de voorschriften van de derde afdeling van de tweede titel van het Tweede Boek verzoeken.
 
-#### Artikel 777
+##### Artikel 777
 
 Vervallen
 
-#### Artikel 778
+##### Artikel 778
 
 Vervallen
 
-#### Artikel 779
+##### Artikel 779
 
 Vervallen
 
-#### Artikel 780
+##### Artikel 780
 
 Vervallen
 
-#### Artikel 781
+##### Artikel 781
 
 Vervallen
 
-#### Artikel 782
+##### Artikel 782
 
 Vervallen
 
-#### Artikel 783
+##### Artikel 783
 
 Vervallen
 
-#### Artikel 784
+##### Artikel 784
 
 Vervallen
 
-#### Artikel 785
+##### Artikel 785
 
 Vervallen
 
-#### Artikel 786
+##### Artikel 786
 
 Vervallen
 
-#### Artikel 787
+##### Artikel 787
 
 Vervallen
 
-#### Artikel 788
+##### Artikel 788
 
 Vervallen
 
-#### Artikel 789
+##### Artikel 789
 
 Vervallen
 
-#### Artikel 790
+##### Artikel 790
 
 Vervallen
 
-#### Artikel 791
+##### Artikel 791
 
 Vervallen
 
-#### Artikel 792
+##### Artikel 792
 
 Vervallen
 
-#### Artikel 793
+##### Artikel 793
 
 Vervallen
 
-#### Artikel 794
+##### Artikel 794
 
 Vervallen
 
-#### Artikel 795
+##### Artikel 795
 
 Vervallen
 
-#### Artikel 796
+##### Artikel 796
 
 Vervallen
 
-#### Artikel 797
+##### Artikel 797
 
 Vervallen
 
-#### Artikel 797a
+##### Artikel 797a
 
 Vervallen
 
-#### Artikel 797b
+##### Artikel 797b
 
 Vervallen
 
-#### Artikel 797c
+##### Artikel 797c
 
 Vervallen
 
-#### Artikel 797d
+##### Artikel 797d
 
 Vervallen
 
-#### Artikel 797e
+##### Artikel 797e
 
 Vervallen
 
-#### Artikel 797f
+##### Artikel 797f
 
 Vervallen
 
@@ -6772,19 +6795,19 @@ Vervallen
 
 ### afdeling Eerste. Rechtspleging in andere zaken dan scheidingszaken
 
-#### Artikel 798
+##### Artikel 798
 
 1. Voor de toepassing van deze afdeling wordt onder belanghebbende verstaan degene op wiens rechten of verplichtingen de zaak rechtstreeks betrekking heeft. Degene die niet de ouder is en de minderjarige op wie de zaak betrekking heeft gedurende ten minste een jaar als behorende tot zijn gezin verzorgt en opvoedt, wordt aangemerkt als belanghebbende.
 
 2. In zaken van curatele, onderbewindstelling of mentorschap worden onder belanghebbenden bovendien verstaan de echtgenoot, de geregistreerde partner of andere levensgezel en de kinderen of, bij gebreke van dezen, de ouders, broers en zusters van degene wiens curatele, goederen of mentorschap het betreft.
 
-#### Artikel 799
+##### Artikel 799
 
 1. Onverminderd het bepaalde in [artikel 278, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=278&z=2026-01-01&g=2026-01-01), bevat een verzoekschrift de namen en, voor zover bekend, de voornamen en de woonplaats van de belanghebbenden, alsmede van anderen wier verklaring in verband met de beoordeling van het verzoek van betekenis kan zijn.
 
 2. Bij de indiening van het verzoekschrift ter griffie worden, voor zover nodig, overgelegd de bescheiden die kunnen dienen tot bewijs van de gestelde feiten. Eveneens worden de nodige afschriften van het verzoekschrift en de bescheiden overgelegd.
 
-#### Artikel 800
+##### Artikel 800
 
 1. Tenzij de rechter aanstonds een beschikking geeft waarbij hij zich onbevoegd verklaart of het verzoek toewijst, wordt aan de belanghebbenden, voorzover hun woonplaats bekend is, een afschrift van het verzoekschrift en van de daarbij behorende bescheiden toegezonden en worden de belanghebbenden opgeroepen voor de behandeling. Is de woonplaats niet bekend, dan wordt bij de oproeping het verzoek kort aangeduid.
 
@@ -6792,27 +6815,27 @@ Vervallen
 
 3. De beschikkingen tot voorlopige ondertoezichtstelling van een minderjarige en tot machtiging van de gecertificeerde instelling, bedoeld in [artikel 1.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=1.1) om een minderjarige uit huis te plaatsen, een beschikking met betrekking tot de voorlopige voogdij alsmede een beschikking als bedoeld in [artikel 265i, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265i) kunnen alleen dan aanstonds worden gegeven, indien de behandeling niet kan worden afgewacht zonder onmiddellijk en ernstig gevaar voor de minderjarige. Deze beschikkingen verliezen haar kracht na verloop van twee weken, tenzij de belanghebbenden binnen deze termijn in de gelegenheid zijn gesteld hun mening kenbaar te maken.
 
-#### Artikel 801
+##### Artikel 801
 
 1. In zaken van levensonderhoud wordt in de oproeping van de belanghebbenden een termijn vermeld waarbinnen dezen een verweerschrift kunnen indienen. Indien binnen die termijn geen verweerschrift wordt ingediend, kan, tenzij [artikel 809](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=809&z=2026-01-01&g=2026-01-01) toepassing vindt, een mondelinge behandeling achterwege blijven.
 
 2. De oproeping van de belanghebbende gaat in deze zaken vergezeld van de mededeling dat de rechter kan bepalen dat de mondelinge behandeling achterwege kan blijven indien binnen de voor het indienen van een verweerschrift vastgestelde termijn geen verweerschrift wordt ingediend, alsmede van de mededeling dat de indiening slechts kan geschieden door een advocaat.
 
-#### Artikel 802
+##### Artikel 802
 
 Indien een verzoeker, een belanghebbende, of een ander wiens verklaring in verband met de beoordeling van het verzoek van betekenis kan zijn en die moet worden ondervraagd, in Nederland verblijft, doch buiten staat is zich naar het gerechtsgebouw te begeven, kan de ondervraging op diens verblijfplaats geschieden. Zou de rechter zich daartoe buiten zijn rechtsgebied moeten begeven, dan kan hij een rechter binnen wiens rechtsgebied de betrokkene verblijft, verzoeken de ondervraging te verrichten.
 
-#### Artikel 803
+##### Artikel 803
 
 1. In verband met de belangen van minderjarigen of de eerbiediging van de persoonlijke levenssfeer van belanghebbenden, geschiedt de mondelinge behandeling met gesloten deuren.
 
 2. De rechter kan evenwel op verzoek van een belanghebbende bepalen dat de mondelinge behandeling geheel of gedeeltelijk openbaar is, indien zwaarwegende belangen bij openbaarheid daartoe aanleiding geven en de belangen als bedoeld in het eerste lid zich daartegen niet verzetten.
 
-#### Artikel 804
+##### Artikel 804
 
 Na afloop van de mondelinge behandeling deelt de rechter aan de ter zitting verschenen personen mede op welke zitting de beschikking zal worden uitgesproken.
 
-#### Artikel 805
+##### Artikel 805
 
 1. De griffier verstrekt of verzendt onverwijld een afschrift van de beschikking aan de verzoeker, de verschenen belanghebbenden en de niet verschenen belanghebbenden aan wie een afschrift van het verzoekschrift is verzonden. De griffier verstrekt of verzendt eveneens een afschrift van een beschikking die een minderjarige of de herroeping van een adoptie betreft, aan de raad voor de kinderbescherming, tenzij de beschikking het levensonderhoud van de minderjarige betreft.
 
@@ -6820,7 +6843,7 @@ Na afloop van de mondelinge behandeling deelt de rechter aan de ter zitting vers
 
 3. Bij beschikkingen betreffende het verstrekken van levensonderhoud verstrekt de griffier aan de verzoeker en aan de in de procedure verschenen belanghebbenden de berekeningen van de behoefte en de draagkracht die mede aan de beschikking ten grondslag liggen.
 
-#### Artikel 806
+##### Artikel 806
 
 1. In afwijking van het bepaalde in [het tweede lid van artikel 358](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Vierde&artikel=358&z=2026-01-01&g=2026-01-01) kan van een beschikking hoger beroep worden ingesteld:
 
@@ -6830,7 +6853,7 @@ Na afloop van de mondelinge behandeling deelt de rechter aan de ter zitting vers
 
 2. Op de procedure in hoger beroep zijn de [artikelen 799 tot en met 805, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=799&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 807
+##### Artikel 807
 
 Tegen beschikkingen ingevolge
 
@@ -6846,51 +6869,51 @@ Tegen beschikkingen ingevolge
 
 staat geen andere voorziening open dan cassatie in het belang der wet.
 
-#### Artikel 808
+##### Artikel 808
 
 Zaken betreffende minderjarigen die bij de rechtbank aanhangig worden gemaakt, uitgezonderd die welke het levensonderhoud van een minderjarige betreffen, worden behandeld door de kinderrechter. Indien deze de zaak naar de meervoudige kamer verwijst, neemt de kinderrechter aan de mondelinge behandeling deel.
 
-#### Artikel 808a
+##### Artikel 808a
 
 Vervallen
 
-#### Artikel 808b
+##### Artikel 808b
 
 Vervallen
 
-#### Artikel 808c
+##### Artikel 808c
 
 Vervallen
 
-#### Artikel 808d
+##### Artikel 808d
 
 Vervallen
 
-#### Artikel 808e
+##### Artikel 808e
 
 Vervallen
 
-#### Artikel 808f
+##### Artikel 808f
 
 Vervallen
 
-#### Artikel 808g
+##### Artikel 808g
 
 Vervallen
 
-#### Artikel 808h
+##### Artikel 808h
 
 Vervallen
 
-#### Artikel 808i
+##### Artikel 808i
 
 Vervallen
 
-#### Artikel 808j
+##### Artikel 808j
 
 Vervallen
 
-#### Artikel 809
+##### Artikel 809
 
 1. In zaken betreffende minderjarigen, uitgezonderd die welke het levensonderhoud van een minderjarige betreffen die de leeftijd van zestien jaren nog niet heeft bereikt, beslist de rechter niet dan na de minderjarige van twaalf jaren of ouder in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, tenzij het naar het oordeel van de rechter een zaak van kennelijk ondergeschikt belang betreft. De rechter kan minderjarigen die de leeftijd van twaalf jaren nog niet hebben bereikt, in de gelegenheid stellen hem hun mening kenbaar te maken op een door hem te bepalen wijze. Hetzelfde geldt in zaken betreffende het levensonderhoud van minderjarigen die de leeftijd van zestien jaren nog niet hebben bereikt.
 
@@ -6900,7 +6923,7 @@ Vervallen
 
 4. Indien de minderjarige van de in het eerste en derde lid bedoelde gelegenheid geen gebruik heeft gemaakt, kan de rechter een nadere dag bepalen, waarop hij voor hem gebracht zal worden. Verschijnt de minderjarige alsdan wederom niet, dan kan de zaak zonder hem worden behandeld.
 
-#### Artikel 810
+##### Artikel 810
 
 1. De rechter kan in zaken betreffende minderjarigen, uitgezonderd die welke zijn levensonderhoud betreffen, indien hij dit met het oog op de beoordeling van de belangen van de minderjarige noodzakelijk acht, het advies van de raad voor de kinderbescherming inwinnen. Hij kan de raad daartoe in elke stand van de zaak oproepen.
 
@@ -6910,7 +6933,7 @@ Vervallen
 
 4. Indien de zaak evenwel de ondertoezichtstelling van een minderjarige betreft, de toepassing of overeenkomstige toepassing van de [artikelen 264](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=264) en [265 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265) daaronder niet begrepen, dan wel de beëindiging van het ouderlijk gezag of van de voogdij, beslist de rechter niet dan na verhoor of behoorlijke oproeping daartoe van de raad voor de kinderbescherming.
 
-#### Artikel 810a
+##### Artikel 810a
 
 1. In zaken betreffende minderjarigen, uitgezonderd zaken als bedoeld in het tweede lid alsmede die welke het levensonderhoud van een minderjarige betreffen, beslist de rechter pas nadat een ouder, indien deze daarom verzoekt, in de gelegenheid is gesteld een rapport van een niet door de rechter benoemde deskundige over te leggen, mits dat mede tot de beslissing van de zaak kan leiden en het belang van het kind zich daartegen niet verzet.
 
@@ -6918,7 +6941,7 @@ Vervallen
 
 3. In de in het tweede lid genoemde zaken wordt het aan de in dat lid bedoelde deskundige toekomende bedrag overeenkomstig bij algemene maatregel van bestuur te stellen regels door de rechter vastgesteld en ten laste van ’s Rijks kas door de griffier aan de deskundige betaald. Van de ouder kan een bijdrage worden gevraagd overeenkomstig bij algemene maatregel van bestuur te stellen regels.
 
-#### Artikel 811
+##### Artikel 811
 
 1. In zaken betreffende minderjarigen worden als belanghebbenden bij het recht op inzage en afschrift, als bedoeld in [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=290&z=2026-01-01&g=2026-01-01), van door de raad voor de kinderbescherming of het openbaar ministerie overgelegde bescheiden alsmede van door een deskundige op verzoek van de rechter overgelegde bescheiden aangemerkt:
 
@@ -6934,13 +6957,13 @@ Vervallen
 
 3. Tegen de beschikking staat geen andere voorziening open dan cassatie in het belang der wet.
 
-#### Artikel 812
+##### Artikel 812
 
 1. Iedere beschikking betreffende de gezagsuitoefening over minderjarigen, de beschikkingen ingevolge de [artikelen 253s](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253s), [265b](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b), [326](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=326) en [336a van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=336a) daaronder begrepen, geeft degene aan wie deze minderjarigen ingevolge de beschikking tijdelijk of blijvend worden toevertrouwd, van rechtswege het recht tot het aan hem doen afgeven van deze minderjarigen, zonodig met behulp van de sterke arm.
 
 2. Een beschikking als bedoeld in [artikel 253a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=253a), of [artikel 377a, tweede lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=377a) kan slechts met de sterke arm ten uitvoer worden gelegd voorzover dit bij die beschikking is bepaald.
 
-#### Artikel 813
+##### Artikel 813
 
 1. Het openbaar ministerie verleent zo nodig zijn medewerking:
 
@@ -6958,11 +6981,11 @@ Vervallen
 
 #### § 1. Echtscheiding, scheiding van tafel en bed en ontbinding van het huwelijk na scheiding van tafel en bed
 
-#### Artikel 814
+##### Artikel 814
 
 Vervallen
 
-#### Artikel 815
+##### Artikel 815
 
 1. Onverminderd het in [artikel 278, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=278&z=2026-01-01&g=2026-01-01), bepaalde vermeldt het verzoekschrift:
 
@@ -7004,7 +7027,7 @@ Vervallen
 
 7. Indien ten behoeve van minderjarige kinderen voorzieningen moeten worden getroffen, zendt de griffier onverwijld een afschrift van het verzoekschrift aan de raad voor de kinderbescherming.
 
-#### Artikel 816
+##### Artikel 816
 
 1. Betreft het een verzoek van één der echtgenoten, dan doet de verzoeker binnen veertien dagen na de indiening van het verzoekschrift een afschrift daarvan betekenen aan de andere echtgenoot. Uiterlijk op een in het exploit vermeld tijdstip kan de andere echtgenoot hetzij een verweerschrift indienen, hetzij om uitstel te dier zake verzoeken. Het exploit vermeldt dat een en ander slechts kan geschieden door een advocaat. Het originele exploit moet ter griffie worden ingediend.
 
@@ -7016,7 +7039,7 @@ Vervallen
 
 5. Op eensluidend verzoek van de echtgenoten verlengt de rechter de termijn bedoeld in lid 4, tenzij dit leidt tot onredelijke vertraging van het geding. Hij kan deze termijn ook verlengen op verzoek van een der echtgenoten of ambtshalve.
 
-#### Artikel 817
+##### Artikel 817
 
 1. Betreft het een verzoek van een der echtgenoten, terwijl de andere echtgenoot op grond van een geestesstoornis verblijft in een ziekenhuis, verpleeghuis, verpleeginrichting of een psychiatrische inrichting als bedoeld in het derde lid, dan vermeldt het verzoekschrift het feit van dit verblijf.
 
@@ -7024,7 +7047,7 @@ Vervallen
 
 3. Onder een psychiatrische inrichting wordt verstaan een accommodatie als bedoeld in [artikel 1:1, onderdeel b, van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&artikel=1:1), of als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=1).
 
-#### Artikel 818
+##### Artikel 818
 
 1. In afwijking van het bepaalde in [artikel 279, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=279&z=2026-01-01&g=2026-01-01), kan een behandeling ter terechtzitting achterwege blijven indien er geen minderjarige kinderen zijn die ingevolge [artikel 809](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=809&z=2026-01-01&g=2026-01-01) in de gelegenheid moeten worden gesteld hun mening kenbaar te maken en er, wanneer het een verzoek van een der echtgenoten betreft, niet tijdig verweer is gevoerd.
 
@@ -7038,11 +7061,11 @@ Vervallen
 
 6. De [artikelen 802](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=802&z=2026-01-01&g=2026-01-01) en [803](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=803&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 819
+##### Artikel 819
 
 De rechter kan op verzoek van de echtgenoten of van een van hen de getroffen onderlinge regelingen, daaronder begrepen afspraken omtrent uitkeringen tot levensonderhoud en omtrent de kosten van verzorging en opvoeding van een minderjarige, geheel of gedeeltelijk in de beschikking opnemen.
 
-#### Artikel 820
+##### Artikel 820
 
 1. In afwijking van het bepaalde van [artikel 358, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Vierde&artikel=358&z=2026-01-01&g=2026-01-01), kan een echtgenoot die in eerste aanleg niet in de procedure is verschenen, tegen een beschikking waarbij een verzoek tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed is toegewezen, hoger beroep instellen binnen drie maanden na de betekening van deze beschikking aan hem in persoon dan wel binnen drie maanden nadat zij op andere wijze is betekend en overeenkomstig het tweede lid openlijk bekend is gemaakt.
 
@@ -7054,13 +7077,13 @@ De rechter kan op verzoek van de echtgenoten of van een van hen de getroffen ond
 
 5. In hoger beroep en in cassatie zijn de [artikelen 802](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=802&z=2026-01-01&g=2026-01-01), [803](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=803&z=2026-01-01&g=2026-01-01) en [817](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=1&artikel=817&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 820a
+##### Artikel 820a
 
 Vervallen
 
 #### § 2. Voorlopige voorzieningen
 
-#### Artikel 821
+##### Artikel 821
 
 1. In zaken van echtscheiding of scheiding van tafel en bed kan ieder der echtgenoten om voorlopige voorzieningen als bedoeld in de [artikelen 822](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=822&z=2026-01-01&g=2026-01-01) en [823](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=823&z=2026-01-01&g=2026-01-01) verzoeken. Een verzoek tot voorlopige voorzieningen kan worden gedaan tot het tijdstip waarop een zodanige voorziening, indien gegeven, ingevolge [artikel 826](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=826&z=2026-01-01&g=2026-01-01) haar kracht verliest.
 
@@ -7072,7 +7095,7 @@ Vervallen
 
 5. De [artikelen 810](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=810&z=2026-01-01&g=2026-01-01) en [812](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=812&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 822
+##### Artikel 822
 
 1. De rechter kan bij beschikking voor de duur van het geding:
 
@@ -7088,59 +7111,59 @@ Vervallen
 
 2. De voorzieningen, bedoeld in het eerste lid, vangen aan op de dag van de dagtekening der beschikking, tenzij de rechter een eerdere of latere aanvangsdag heeft vastgesteld.
 
-#### Artikel 823
+##### Artikel 823
 
 1. De rechter is bevoegd op verzoek van een echtgenoot of van de raad voor de kinderbescherming een kind onder toezicht te stellen als bedoeld in [artikel 255 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255).
 
 2. [Artikel 826](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=826&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 824
+##### Artikel 824
 
 1. Tegen de op grond van [artikel 822](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=822&z=2026-01-01&g=2026-01-01) gegeven beschikkingen en tegen de beschikkingen tot wijziging of intrekking daarvan staan geen hogere voorzieningen open, behoudens cassatie in het belang der wet.
 
 2. Op een verzoek van de echtgenoten of van één van hen kan een beschikking, als bedoeld in [artikel 822](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Tweede&paragraaf=2&artikel=822&z=2026-01-01&g=2026-01-01), door de rechtbank die of het gerechtshof dat de beschikking heeft gegeven, worden gewijzigd of ingetrokken, indien de omstandigheden na de dagtekening der beschikking in zodanige mate zijn gewijzigd of indien bij het geven van de beschikking in zodanige mate van onjuiste of onvolledige gegevens is uitgegaan, dat, alle betrokken belangen in aanmerking genomen, de voorziening niet in stand kan blijven. Artikel 821, tweede tot en met vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 824a
+##### Artikel 824a
 
 Vervallen
 
-#### Artikel 824b
+##### Artikel 824b
 
 Vervallen
 
-#### Artikel 825
+##### Artikel 825
 
 Als belanghebbenden bij het recht op inzage en afschrift, bedoeld in [artikel 290](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=290&z=2026-01-01&g=2026-01-01), van de bescheiden die betrekking hebben op de voorlopige voorzieningen, worden aangemerkt de echtgenoten met dien verstande dat in zaken betreffende minderjarigen [artikel 811](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=811&z=2026-01-01&g=2026-01-01) van toepassing is.
 
-#### Artikel 825a
+##### Artikel 825a
 
 Vervallen
 
-#### Artikel 825b
+##### Artikel 825b
 
 Vervallen
 
-#### Artikel 825c
+##### Artikel 825c
 
 Vervallen
 
-#### Artikel 825d
+##### Artikel 825d
 
 Vervallen
 
-#### Artikel 825e
+##### Artikel 825e
 
 Vervallen
 
-#### Artikel 825f
+##### Artikel 825f
 
 Vervallen
 
-#### Artikel 825g
+##### Artikel 825g
 
 Vervallen
 
-#### Artikel 826
+##### Artikel 826
 
 1. De voorlopige voorzieningen verliezen hun kracht zodra een beschikking waarbij de echtscheiding of de scheiding van tafel en bed is uitgesproken, wordt ingeschreven in de registers van de burgerlijke stand onderscheidenlijk het huwelijksgoederenregister, aangewezen in [artikel 116 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=116), of zodra de mogelijkheid daartoe vervalt, met dien verstande dat:
 
@@ -7154,7 +7177,7 @@ Vervallen
 
 #### § 2. Voorlopige voorzieningen
 
-#### Artikel 827
+##### Artikel 827
 
 1. Ingeval de echtscheiding, de scheiding van tafel en bed of de ontbinding van het huwelijk na scheiding van tafel en bed wordt uitgesproken, kan de rechter als nevenvoorziening de navolgende voorzieningen treffen:
 
@@ -7178,133 +7201,133 @@ alsmede, ingeval de echtscheiding of de scheiding van tafel en bed wordt uitgesp
 
 3. Indien aan de rechter blijkt dat een verzoek tot toekenning van een uitkering tot levensonderhoud aan een echtgenoot ten laste van de andere echtgenoot als voorwaarde is verbonden aan verlening van bijstand, stelt de rechter de gemeente die de voorwaarde heeft gesteld, in de gelegenheid schriftelijk of ter zitting haar mening omtrent de vordering kenbaar te maken.
 
-#### Artikel 827a
+##### Artikel 827a
 
 Vervallen
 
-#### Artikel 827b
+##### Artikel 827b
 
 Vervallen
 
-#### Artikel 827c
+##### Artikel 827c
 
 Vervallen
 
-#### Artikel 827d
+##### Artikel 827d
 
 Vervallen
 
-#### Artikel 827e
+##### Artikel 827e
 
 Vervallen
 
-#### Artikel 827f
+##### Artikel 827f
 
 Vervallen
 
-#### Artikel 827g
+##### Artikel 827g
 
 Vervallen
 
-#### Artikel 827h
+##### Artikel 827h
 
 Vervallen
 
-#### Artikel 827i
+##### Artikel 827i
 
 Vervallen
 
-#### Artikel 827j
+##### Artikel 827j
 
 Vervallen
 
-#### Artikel 827k
+##### Artikel 827k
 
 Vervallen
 
-#### Artikel 827l
+##### Artikel 827l
 
 Vervallen
 
-#### Artikel 827m
+##### Artikel 827m
 
 Vervallen
 
-#### Artikel 827n
+##### Artikel 827n
 
 Vervallen
 
-#### Artikel 827o
+##### Artikel 827o
 
 Vervallen
 
-#### Artikel 827p
+##### Artikel 827p
 
 Vervallen
 
 #### § 2. Voorlopige voorzieningen
 
-#### Artikel 828
+##### Artikel 828
 
 Op een ontbinding van een geregistreerd partnerschap zijn de bepalingen over de rechtspleging in scheidingszaken van overeenkomstige toepassing.
 
-#### Artikel 828a
+##### Artikel 828a
 
 Vervallen
 
-#### Artikel 828b
+##### Artikel 828b
 
 Vervallen
 
-#### Artikel 828c
+##### Artikel 828c
 
 Vervallen
 
-#### Artikel 828d
+##### Artikel 828d
 
 Vervallen
 
-#### Artikel 828e
+##### Artikel 828e
 
 Vervallen
 
-#### Artikel 828f
+##### Artikel 828f
 
 Vervallen
 
-#### Artikel 828g
+##### Artikel 828g
 
 Vervallen
 
-#### Artikel 828h
+##### Artikel 828h
 
 Vervallen
 
-#### Artikel 828i
+##### Artikel 828i
 
 Vervallen
 
-#### Artikel 828j
+##### Artikel 828j
 
 Vervallen
 
-#### Artikel 828k
+##### Artikel 828k
 
 Vervallen
 
-#### Artikel 829
+##### Artikel 829
 
 Vervallen
 
-#### Artikel 830
+##### Artikel 830
 
 Vervallen
 
-#### Artikel 831
+##### Artikel 831
 
 Vervallen
 
-#### Artikel 832
+##### Artikel 832
 
 Vervallen
 
@@ -7312,69 +7335,69 @@ Vervallen
 
 ### afdeling Eerste. Afschrift, uittreksel en inzage van akten en andere bewijsmiddelen
 
-#### Artikel 833
+##### Artikel 833
 
 Vervallen
 
-#### Artikel 834
+##### Artikel 834
 
 Vervallen
 
-#### Artikel 835
+##### Artikel 835
 
 Vervallen
 
-#### Artikel 836
+##### Artikel 836
 
 Vervallen
 
-#### Artikel 837
+##### Artikel 837
 
 Vervallen
 
-#### Artikel 838
+##### Artikel 838
 
 Vervallen
 
-#### Artikel 839
+##### Artikel 839
 
 Vervallen
 
-#### Artikel 840
+##### Artikel 840
 
 Vervallen
 
-#### Artikel 841
+##### Artikel 841
 
 Vervallen
 
-#### Artikel 842
+##### Artikel 842
 
 Vervallen
 
-#### Artikel 843
+##### Artikel 843
 
 Vervallen
 
-#### Artikel 843a
+##### Artikel 843a
 
 Vervallen
 
-#### Artikel 843b
+##### Artikel 843b
 
 Vervallen
 
-#### Artikel 844
+##### Artikel 844
 
 1. Deze afdeling is van toepassing op zaken waarin inzage, afschrift of uittreksel van gegevens als bedoeld in de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), [195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195&z=2026-01-01&g=2026-01-01) en [195a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195a&z=2026-01-01&g=2026-01-01) wordt gevorderd wegens een inbreuk op het mededingingsrecht als bedoeld in [artikel 193k, onderdeel a, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193k).
 
 2. Voor de toepassing van deze afdeling wordt onder een mededingingsautoriteit verstaan een mededingingsautoriteit als bedoeld in [artikel 193k, onderdeel c, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193k).
 
-#### Artikel 845
+##### Artikel 845
 
 In afwijking van het in [artikel 194, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01) bepaalde is degene die gegevens omtrent een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht te zijner beschikking of onder zijn berusting heeft, niet gehouden inzage, afschrift of uittreksel daarvan te verschaffen, indien daarvoor gewichtige redenen zijn.
 
-#### Artikel 846
+##### Artikel 846
 
 1. Geen inzage, afschrift of uittreksel wordt verschaft van de volgende, enkel uit het dossier van een mededingingsautoriteit afkomstige bescheiden:
 
@@ -7384,7 +7407,7 @@ In afwijking van het in [artikel 194, tweede lid, aanhef en onder b](https://wet
 
 2. De in het eerste lid bedoelde bescheiden leveren geen bewijs op voor een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht.
 
-#### Artikel 847
+##### Artikel 847
 
 1. Onverminderd het in de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), [195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195&z=2026-01-01&g=2026-01-01) en [195a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195a&z=2026-01-01&g=2026-01-01) bepaalde wordt omtrent een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht pas inzage, afschrift of uittreksel verschaft van de volgende, enkel uit het dossier van een mededingingsautoriteit afkomstige bescheiden:
 
@@ -7398,43 +7421,43 @@ nadat de mededingingsautoriteit een besluit heeft genomen of de procedure anders
 
 2. De in het eerste lid bedoelde gegevens leveren geen bewijs op voor een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht voordat de mededingingsautoriteit een besluit heeft genomen of de procedure anderszins heeft beëindigd.
 
-#### Artikel 848
+##### Artikel 848
 
 Onverminderd het in de [artikelen 846](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zevende&afdeling=Eerste&artikel=846&z=2026-01-01&g=2026-01-01) en [847](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zevende&afdeling=Eerste&artikel=847&z=2026-01-01&g=2026-01-01) bepaalde levert aan een natuurlijk persoon of rechtspersoon verschafte inzage, afschrift of uittreksel van enkel uit het dossier van een mededingingsautoriteit afkomstige bescheiden slechts bewijs op voor een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht voor die persoon of zijn rechtsopvolgers.
 
-#### Artikel 849
+##### Artikel 849
 
 Onverminderd het in de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), [195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195&z=2026-01-01&g=2026-01-01) en [195a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195a&z=2026-01-01&g=2026-01-01) en deze afdeling bepaalde verschaft een mededingingsautoriteit slechts inzage, afschrift of uittreksel van gegevens omtrent een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht, indien er geen andere partij is die de gegevens redelijkerwijs kan verschaffen.
 
-#### Artikel 850
+##### Artikel 850
 
 De rechter neemt bij de beslissing over het verschaffen van inzage in, afschrift of uittreksel van bescheiden in een dossier van een mededingingsautoriteit omtrent een vordering tot schadevergoeding wegens een inbreuk op het mededingingsrecht steeds in overweging of de doeltreffendheid van de publieke handhaving van het mededingingsrecht dient te worden gewaarborgd.
 
-#### Artikel 851
+##### Artikel 851
 
 Vervallen
 
-#### Artikel 852
+##### Artikel 852
 
 Vervallen
 
 ### afdeling Eerste. Afschrift, uittreksel en inzage van akten en andere bewijsmiddelen
 
-#### Artikel 853
+##### Artikel 853
 
 Behalve in de andere in de wet vermelde gevallen kan een zaak in gerechtelijke bewaring worden gesteld op een in kort geding gegeven bevel van de voorzieningenrechter van de rechtbank.
 
-#### Artikel 854
+##### Artikel 854
 
 De rechter die de gerechtelijke bewaring van een bepaalde zaak beveelt, kan iedere daartoe geschikte persoon die bereid is deze benoeming te aanvaarden, als gerechtelijke bewaarder van die zaak aanwijzen. Hetzelfde geldt voor de deurwaarder die gebruik maakt van zijn bevoegdheid om een zaak in bewaring te stellen krachtens [artikel 446](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=446&z=2026-01-01&g=2026-01-01) en die ter plaatse geen voor zodanige zaken aangewezen gerechtelijke bewaarder tegen een redelijk loon tot de bewaring bereid vindt.
 
-#### Artikel 855
+##### Artikel 855
 
 1. Degene die gerechtelijke bewaring verlangt van een roerende zaak die geen registergoed is, geeft bij de inbewaringgeving aan de bewaarder de wettelijke bepaling of het rechterlijk bevel op uit hoofde waarvan de bewaring zal geschieden. De bewaarder geeft hem een ontvangstbewijs waarop deze bepaling of dit bevel is vermeld.
 
 2. Degene die de zaak in bewaring heeft gegeven, is verplicht hiervan zo spoedig mogelijk schriftelijk mededeling te doen aan degenen tegen wie de bewaring zich richt en daarbij op te geven op welke grond de inbewaringstelling geschiedt.
 
-#### Artikel 856
+##### Artikel 856
 
 1. De gerechtelijke bewaring van een zaak geschiedt op de voorwaarden die door de bewaarder gewoonlijk voor zaken van dezelfde soort worden overeengekomen, of, bij gebreke daarvan, volgens de regels die krachtens het Burgerlijk Wetboek op de overeenkomst van toepassing zijn, telkens tenzij de rechter die de gerechtelijke bewaring beveelt, anders bepaalt.
 
@@ -7442,13 +7465,13 @@ De rechter die de gerechtelijke bewaring van een bepaalde zaak beveelt, kan iede
 
 3. De rechter die de gerechtelijke bewaring heeft bevolen, of anders de voorzieningenrechter van de rechtbank, kan op verzoek van de bewaarder of een belanghebbende de voorwaarden vaststellen of wijzigen of een gerechtelijke bewaarder aanwijzen die de gerechtelijke bewaring van de oorspronkelijke zal overnemen. De indiening van het verzoekschrift kan ook door een deurwaarder geschieden, voor zover de bewaring haar grond vindt in een beslag.
 
-#### Artikel 857
+##### Artikel 857
 
 1. De kosten van de bewaring worden aan de bewaarder voldaan door degene die de zaak in bewaring heeft doen geven of het bevel tot bewaring heeft uitgelokt, onverminderd de rechten van hemzelf tegen degenen die jegens hem voor de kosten aansprakelijk zijn.
 
 2. De bewaarder heeft voor al hetgeen hem ter zake van de bewaring toekomt een retentierecht op de in bewaring gestelde zaken, dat hij kan uitoefenen tegen ieder die recht op afgifte van die zaken mocht hebben.
 
-#### Artikel 858
+##### Artikel 858
 
 1. Wanneer de kosten van de bewaring niet op tijd aan de bewaarder worden voldaan, kan deze op een door de voorzieningenrechter van de rechtbank op zijn verzoek te bepalen wijze het in bewaring gestelde verkopen; de opbrengst treedt voor het in bewaring gestelde in de plaats en wordt, na aftrek van de kosten van bewaring en van de verkoop, ten behoeve van belanghebbenden in de consignatiekas gestort.
 
@@ -7458,11 +7481,11 @@ De rechter die de gerechtelijke bewaring van een bepaalde zaak beveelt, kan iede
 
 4. Van dit artikel kan niet bij de overeenkomst van bewaargeving worden afgeweken, tenzij de rechter krachtens [artikel 856](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zevende&afdeling=Tweede&artikel=856&z=2026-01-01&g=2026-01-01) anders bepaalt.
 
-#### Artikel 859
+##### Artikel 859
 
 Indien degene die de zaak in bewaring heeft doen geven, in verband daarmee ten aanzien van de zaak een verzekering heeft gesloten, kan hij de door hem betaalde premies en kosten op dezelfde voet als de kosten van de bewaring terugvorderen van degenen die jegens hem voor die kosten aansprakelijk zijn, tenzij het niet redelijk was om de verzekering te sluiten.
 
-#### Artikel 860
+##### Artikel 860
 
 1. Een gerechtelijke bewaring kan op vordering van elke belanghebbende in kort geding, al of niet tegen zekerheidstelling, worden opgeheven door de voorzieningenrechter die de bewaring heeft bevolen of in het rechtsgebied van wiens rechtbank de zaken zich bevinden. De voorzieningenrechter bepaalt desverlangd aan wie de bewaarder de zaak dient af te geven.
 
@@ -7470,633 +7493,633 @@ Indien degene die de zaak in bewaring heeft doen geven, in verband daarmee ten a
 
 3. Opheffing van de bewaring doet niet af aan de rechten van de bewaarder tot het tijdstip van de afgifte.
 
-#### Artikel 861
+##### Artikel 861
 
 1. In geval van een gerechtelijke bewaring die haar grond vindt in een beslag tot verhaal van een geldvordering, geeft de bewaarder het in bewaring gestelde op verzoek van de deurwaarder die met de executoriale verkoop is belast, tijdig aan deze af.
 
 2. Is een zaak in bewaring gesteld in afwachting van de beslissing wie op afgifte daarvan recht heeft, dan geeft de bewaarder haar af aan degene aan wie zij krachtens een in kracht van gewijsde gegane of uitvoerbaar bij voorraad verklaarde beslissing toekomt.
 
-#### Artikel 862
+##### Artikel 862
 
 Vervallen
 
-#### Artikel 863
+##### Artikel 863
 
 Vervallen
 
-#### Artikel 864
+##### Artikel 864
 
 Vervallen
 
-#### Artikel 865
+##### Artikel 865
 
 Vervallen
 
-#### Artikel 866
+##### Artikel 866
 
 Vervallen
 
-#### Artikel 867
+##### Artikel 867
 
 Vervallen
 
-#### Artikel 868
+##### Artikel 868
 
 Vervallen
 
-#### Artikel 869
+##### Artikel 869
 
 Vervallen
 
-#### Artikel 870
+##### Artikel 870
 
 Vervallen
 
-#### Artikel 871
+##### Artikel 871
 
 Vervallen
 
-#### Artikel 872
+##### Artikel 872
 
 Vervallen
 
-#### Artikel 873
+##### Artikel 873
 
 Vervallen
 
-#### Artikel 874
+##### Artikel 874
 
 Vervallen
 
-#### Artikel 875
+##### Artikel 875
 
 Vervallen
 
-#### Artikel 876
+##### Artikel 876
 
 Vervallen
 
-#### Artikel 877
+##### Artikel 877
 
 Vervallen
 
-#### Artikel 878
+##### Artikel 878
 
 Vervallen
 
-#### Artikel 879
+##### Artikel 879
 
 Vervallen
 
-#### Artikel 880
+##### Artikel 880
 
 Vervallen
 
-#### Artikel 881
+##### Artikel 881
 
 Vervallen
 
-#### Artikel 882
+##### Artikel 882
 
 Vervallen
 
-#### Artikel 883
+##### Artikel 883
 
 Vervallen
 
-#### Artikel 884
+##### Artikel 884
 
 Vervallen
 
-#### Artikel 885
+##### Artikel 885
 
 Vervallen
 
-#### Artikel 886
+##### Artikel 886
 
 Vervallen
 
-#### Artikel 887
+##### Artikel 887
 
 Vervallen
 
-#### Artikel 888
+##### Artikel 888
 
 Vervallen
 
-#### Artikel 889
+##### Artikel 889
 
 Vervallen
 
-#### Artikel 890
+##### Artikel 890
 
 Vervallen
 
-#### Artikel 891
+##### Artikel 891
 
 Vervallen
 
-#### Artikel 892
+##### Artikel 892
 
 Vervallen
 
-#### Artikel 893
+##### Artikel 893
 
 Vervallen
 
-#### Artikel 894
+##### Artikel 894
 
 Vervallen
 
-#### Artikel 895
+##### Artikel 895
 
 Vervallen
 
-#### Artikel 896
+##### Artikel 896
 
 Vervallen
 
-#### Artikel 897
+##### Artikel 897
 
 Vervallen
 
-#### Artikel 898
+##### Artikel 898
 
 Vervallen
 
-#### Artikel 899
+##### Artikel 899
 
 Vervallen
 
-#### Artikel 899a
+##### Artikel 899a
 
 Vervallen
 
-#### Artikel 899b
+##### Artikel 899b
 
 Vervallen
 
-#### Artikel 899c
+##### Artikel 899c
 
 Vervallen
 
-#### Artikel 899d
+##### Artikel 899d
 
 Vervallen
 
-#### Artikel 899e
+##### Artikel 899e
 
 Vervallen
 
-#### Artikel 899f
+##### Artikel 899f
 
 Vervallen
 
-#### Artikel 900
+##### Artikel 900
 
 Vervallen
 
-#### Artikel 901
+##### Artikel 901
 
 Vervallen
 
-#### Artikel 902
+##### Artikel 902
 
 Vervallen
 
-#### Artikel 902a
+##### Artikel 902a
 
 Vervallen
 
-#### Artikel 902b
+##### Artikel 902b
 
 Vervallen
 
-#### Artikel 903
+##### Artikel 903
 
 Vervallen
 
-#### Artikel 904
+##### Artikel 904
 
 Vervallen
 
-#### Artikel 905
+##### Artikel 905
 
 Vervallen
 
-#### Artikel 906
+##### Artikel 906
 
 Vervallen
 
-#### Artikel 907
+##### Artikel 907
 
 Vervallen
 
-#### Artikel 908
+##### Artikel 908
 
 Vervallen
 
-#### Artikel 908a
+##### Artikel 908a
 
 Vervallen
 
-#### Artikel 908b
+##### Artikel 908b
 
 Vervallen
 
-#### Artikel 909
+##### Artikel 909
 
 Vervallen
 
-#### Artikel 910
+##### Artikel 910
 
 Vervallen
 
-#### Artikel 911
+##### Artikel 911
 
 Vervallen
 
-#### Artikel 912
+##### Artikel 912
 
 Vervallen
 
-#### Artikel 912a
+##### Artikel 912a
 
 Vervallen
 
-#### Artikel 913
+##### Artikel 913
 
 Vervallen
 
-#### Artikel 914
+##### Artikel 914
 
 Vervallen
 
-#### Artikel 915
+##### Artikel 915
 
 Vervallen
 
-#### Artikel 916
+##### Artikel 916
 
 Vervallen
 
-#### Artikel 917
+##### Artikel 917
 
 Vervallen
 
-#### Artikel 918
+##### Artikel 918
 
 Vervallen
 
-#### Artikel 919
+##### Artikel 919
 
 Vervallen
 
-#### Artikel 919a
+##### Artikel 919a
 
 Vervallen
 
-#### Artikel 920
+##### Artikel 920
 
 Vervallen
 
-#### Artikel 921
+##### Artikel 921
 
 Vervallen
 
-#### Artikel 922
+##### Artikel 922
 
 Vervallen
 
-#### Artikel 923
+##### Artikel 923
 
 Vervallen
 
-#### Artikel 924
+##### Artikel 924
 
 Vervallen
 
-#### Artikel 925
+##### Artikel 925
 
 Vervallen
 
-#### Artikel 926
+##### Artikel 926
 
 Vervallen
 
-#### Artikel 927
+##### Artikel 927
 
 Vervallen
 
-#### Artikel 928
+##### Artikel 928
 
 Vervallen
 
-#### Artikel 929
+##### Artikel 929
 
 Vervallen
 
-#### Artikel 929a
+##### Artikel 929a
 
 Vervallen
 
-#### Artikel 930
+##### Artikel 930
 
 Vervallen
 
-#### Artikel 931
+##### Artikel 931
 
 Vervallen
 
-#### Artikel 932
+##### Artikel 932
 
 Vervallen
 
-#### Artikel 933
+##### Artikel 933
 
 Vervallen
 
-#### Artikel 934
+##### Artikel 934
 
 Vervallen
 
-#### Artikel 934a
+##### Artikel 934a
 
 Vervallen
 
-#### Artikel 934b
+##### Artikel 934b
 
 Vervallen
 
-#### Artikel 934c
+##### Artikel 934c
 
 Vervallen
 
-#### Artikel 935
+##### Artikel 935
 
 Vervallen
 
-#### Artikel 936
+##### Artikel 936
 
 Vervallen
 
-#### Artikel 937
+##### Artikel 937
 
 Vervallen
 
-#### Artikel 938
+##### Artikel 938
 
 Vervallen
 
-#### Artikel 939
+##### Artikel 939
 
 Vervallen
 
-#### Artikel 939a
+##### Artikel 939a
 
 Vervallen
 
-#### Artikel 940
+##### Artikel 940
 
 Vervallen
 
-#### Artikel 941
+##### Artikel 941
 
 Vervallen
 
-#### Artikel 942
+##### Artikel 942
 
 Vervallen
 
-#### Artikel 943
+##### Artikel 943
 
 Vervallen
 
-#### Artikel 944
+##### Artikel 944
 
 Vervallen
 
-#### Artikel 945
+##### Artikel 945
 
 Vervallen
 
-#### Artikel 946
+##### Artikel 946
 
 Vervallen
 
-#### Artikel 947
+##### Artikel 947
 
 Vervallen
 
-#### Artikel 948
+##### Artikel 948
 
 Vervallen
 
-#### Artikel 949
+##### Artikel 949
 
 Vervallen
 
-#### Artikel 950
+##### Artikel 950
 
 Vervallen
 
-#### Artikel 951
+##### Artikel 951
 
 Vervallen
 
-#### Artikel 952
+##### Artikel 952
 
 Vervallen
 
-#### Artikel 953
+##### Artikel 953
 
 Vervallen
 
-#### Artikel 954
+##### Artikel 954
 
 Vervallen
 
-#### Artikel 955
+##### Artikel 955
 
 Vervallen
 
-#### Artikel 955a
+##### Artikel 955a
 
 Vervallen
 
-#### Artikel 955b
+##### Artikel 955b
 
 Vervallen
 
-#### Artikel 955c
+##### Artikel 955c
 
 Vervallen
 
-#### Artikel 955d
+##### Artikel 955d
 
 Vervallen
 
-#### Artikel 955e
+##### Artikel 955e
 
 Vervallen
 
-#### Artikel 955f
+##### Artikel 955f
 
 Vervallen
 
-#### Artikel 955g
+##### Artikel 955g
 
 Vervallen
 
-#### Artikel 956
+##### Artikel 956
 
 Vervallen
 
-#### Artikel 956a
+##### Artikel 956a
 
 Vervallen
 
-#### Artikel 957
+##### Artikel 957
 
 Vervallen
 
-#### Artikel 957a
+##### Artikel 957a
 
 Vervallen
 
-#### Artikel 958
+##### Artikel 958
 
 Vervallen
 
-#### Artikel 959
+##### Artikel 959
 
 Vervallen
 
-#### Artikel 960
+##### Artikel 960
 
 Vervallen
 
-#### Artikel 961
+##### Artikel 961
 
 Vervallen
 
-#### Artikel 962
+##### Artikel 962
 
 Vervallen
 
-#### Artikel 963
+##### Artikel 963
 
 Vervallen
 
-#### Artikel 964
+##### Artikel 964
 
 Vervallen
 
-#### Artikel 964a
+##### Artikel 964a
 
 Vervallen
 
-#### Artikel 965
+##### Artikel 965
 
 Vervallen
 
-#### Artikel 966
+##### Artikel 966
 
 Vervallen
 
-#### Artikel 966a
+##### Artikel 966a
 
 Vervallen
 
-#### Artikel 967
+##### Artikel 967
 
 Vervallen
 
-#### Artikel 968
+##### Artikel 968
 
 Vervallen
 
-#### Artikel 968a
+##### Artikel 968a
 
 Vervallen
 
-#### Artikel 968b
+##### Artikel 968b
 
 Vervallen
 
-#### Artikel 968c
+##### Artikel 968c
 
 Vervallen
 
-#### Artikel 968d
+##### Artikel 968d
 
 Vervallen
 
-#### Artikel 969
+##### Artikel 969
 
 Vervallen
 
-#### Artikel 970
+##### Artikel 970
 
 Vervallen
 
-#### Artikel 971
+##### Artikel 971
 
 Vervallen
 
-#### Artikel 972
+##### Artikel 972
 
 Vervallen
 
-#### Artikel 973
+##### Artikel 973
 
 Vervallen
 
-#### Artikel 974
+##### Artikel 974
 
 Vervallen
 
-#### Artikel 975
+##### Artikel 975
 
 Vervallen
 
-#### Artikel 976
+##### Artikel 976
 
 Vervallen
 
-#### Artikel 976a
+##### Artikel 976a
 
 Vervallen
 
-#### Artikel 977
+##### Artikel 977
 
 Vervallen
 
-#### Artikel 978
+##### Artikel 978
 
 Vervallen
 
-#### Artikel 979
+##### Artikel 979
 
 Vervallen
 
-#### Artikel 980
+##### Artikel 980
 
 Vervallen
 
-#### Artikel 981
+##### Artikel 981
 
 Vervallen
 
-#### Artikel 982
+##### Artikel 982
 
 Vervallen
 
-#### Artikel 983
+##### Artikel 983
 
 Vervallen
 
-#### Artikel 984
+##### Artikel 984
 
 Vervallen
 
@@ -8104,11 +8127,11 @@ Vervallen
 
 ### afdeling Eerste. Algemene bepalingen
 
-#### Artikel 985
+##### Artikel 985
 
 Wanneer een beslissing, gegeven door de rechter van een vreemde Staat, in Nederland uitvoerbaar is krachtens een verdrag of krachtens de wet, wordt zij niet ten uitvoer gelegd dan na daartoe verkregen rechterlijk verlof. De zaak zelf wordt niet aan een nieuw onderzoek onderworpen. Tot de kennisneming van het verzoek om verlening van het verlof zijn bevoegd de rechtbank van het arrondissement waar de wederpartij van de verzoeker woonplaats heeft en die van het arrondissement waar de tenuitvoerlegging wordt verlangd.
 
-#### Artikel 986
+##### Artikel 986
 
 1. Het verlof tot tenuitvoerlegging wordt gevraagd bij verzoekschrift. Het verzoekschrift wordt ingediend door een advocaat en houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.
 
@@ -8118,7 +8141,7 @@ Wanneer een beslissing, gegeven door de rechter van een vreemde Staat, in Nederl
 
 4. Bij ongenoegzaamheid der overgelegde stukken wordt de verzoeker de gelegenheid tot aanvulling gegeven.
 
-#### Artikel 987
+##### Artikel 987
 
 1. De rechtbank geeft haar beschikking met bekwame spoed, doch niet dan na verhoor, althans behoorlijke oproeping, van de partijen tegen wie de tenuitvoerlegging wordt verlangd.
 
@@ -8132,7 +8155,7 @@ Wanneer een beslissing, gegeven door de rechter van een vreemde Staat, in Nederl
 
 6. Na afloop van het verhoor deelt de rechter mede, wanneer de uitspraak zal plaatsvinden.
 
-#### Artikel 988
+##### Artikel 988
 
 1. De beschikking der rechtbank is met redenen omkleed en wordt in het openbaar uitgesproken.
 
@@ -8140,7 +8163,7 @@ Wanneer een beslissing, gegeven door de rechter van een vreemde Staat, in Nederl
 
 3. Ten aanzien van de proceskosten is het bepaalde in de [artikelen 237](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=237&z=2026-01-01&g=2026-01-01), [239](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=239&z=2026-01-01&g=2026-01-01) en [245](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&artikel=245&z=2026-01-01&g=2026-01-01) van toepassing.
 
-#### Artikel 989
+##### Artikel 989
 
 1. De beschikking der rechtbank is niet vatbaar voor verzet.
 
@@ -8148,33 +8171,33 @@ Wanneer een beslissing, gegeven door de rechter van een vreemde Staat, in Nederl
 
 3. In geval van hoger beroep vinden de [artikelen 986-988](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Negende&afdeling=Eerste&artikel=986&z=2026-01-01&g=2026-01-01) en [989, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Negende&afdeling=Eerste&artikel=989&z=2026-01-01&g=2026-01-01), overeenkomstige toepassing, met dien verstande dat ook de oorspronkelijke verzoeker wordt verhoord, althans behoorlijk opgeroepen.
 
-#### Artikel 990
+##### Artikel 990
 
 Partijen kunnen tegen de beschikking van het gerechtshof beroep in cassatie instellen binnen een maand na de dag waarop zij is gegeven. De [artikelen 988, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Negende&afdeling=Eerste&artikel=988&z=2026-01-01&g=2026-01-01), en [989, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Negende&afdeling=Eerste&artikel=989&z=2026-01-01&g=2026-01-01), vinden overeenkomstige toepassing.
 
-#### Artikel 991
+##### Artikel 991
 
 Vervallen
 
-#### Artikel 992
+##### Artikel 992
 
 De bepalingen van deze titel zijn slechts van toepassing, voor zover een verdrag of een bijzondere wet geen afwijkende voorzieningen inhoudt.
 
 ### afdeling Tweede. Bijzondere bepalingen
 
-#### Artikel 993
+##### Artikel 993
 
 1. De bepalingen van de Eerste Afdeling van deze titel zijn van overeenkomstige toepassing, wanneer een in een vreemde Staat verleden authentieke akte in Nederland uitvoerbaar is krachtens verdrag of wet, met dien verstande dat de voorzieningenrechter der rechtbank treedt in de plaats van de rechtbank.
 
 2. Wij behouden Ons voor bij algemene maatregel van bestuur te bepalen, dat onder dit artikel tevens zullen vallen niet eerder in deze titel bedoelde, in vreemde Staten tot stand gekomen executoriale titels, welke krachtens verdrag of wet in Nederland uitvoerbaar zijn.
 
-#### Artikel 994
+##### Artikel 994
 
 De bepalingen van deze titel zijn niet van toepassing op uitspraken van internationale organen.
 
 ## titel Tiende. Van rechtspleging in zaken van rechtspersonen
 
-#### Artikel 995
+##### Artikel 995
 
 1. In de zaken die ingevolge het bij of krachtens [Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&boek=2) bepaalde met een verzoek worden ingeleid, is, tenzij anders is bepaald, bevoegd de rechter van de woonplaats van de rechtspersoon. Nadat de rechtspersoon is opgehouden te bestaan blijft deze rechter bevoegd in zaken betreffende de vereffening, de benoeming van bewaarders van boeken en bescheiden en het verlenen van machtiging tot inzage in boeken en bescheiden.
 
@@ -8182,7 +8205,7 @@ De bepalingen van deze titel zijn niet van toepassing op uitspraken van internat
 
 3. De rechter gelast in ieder geval de oproeping van de rechtspersoon.
 
-#### Artikel 996
+##### Artikel 996
 
 Hoger beroep moet worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak van de eindbeschikking in zaken.
 
@@ -8198,7 +8221,7 @@ Hoger beroep moet worden ingesteld binnen drie maanden, te rekenen van de dag va
 
 - f. tot wijziging van of voorziening in het bestuur van een stichting.
 
-#### Artikel 997
+##### Artikel 997
 
 1. Het verzet van een schuldeiser onderscheidenlijk een wederpartij overeenkomstig de [artikelen 100 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=100), [182 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=182), [316 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=316), [334l](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=334l), of [404 lid 5 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=404) wordt door de rechter met de meeste spoed behandeld. Indien verschillende verzoeken zijn ingediend, wordt op alle tezamen beschikt.
 
@@ -8210,35 +8233,35 @@ Hoger beroep moet worden ingesteld binnen drie maanden, te rekenen van de dag va
 
 5. Hoger beroep moet binnen drie weken na de dagtekening van de eindbeschikking worden ingesteld bij de ondernemingskamer van het gerechtshof Amsterdam. De voorgaande leden vinden in hoger beroep overeenkomstige toepassing.
 
-#### Artikel 997a
+##### Artikel 997a
 
 Vervallen
 
-#### Artikel 998
+##### Artikel 998
 
 Vervallen
 
 ## titel Negende. Van de formaliteiten, vereist voor de tenuitvoerlegging van in vreemde Staten tot stand gekomen executoriale titels
 
-#### Artikel 999
+##### Artikel 999
 
 Vervallen
 
-#### Artikel 1000
+##### Artikel 1000
 
 Vervallen
 
-#### Artikel 1001
+##### Artikel 1001
 
 Vervallen
 
-#### Artikel 1002
+##### Artikel 1002
 
 Vervallen
 
 ## titel Elfde. Van rechtspleging inzake jaarrekeningen en jaarverslagen
 
-#### Artikel 1003
+##### Artikel 1003
 
 Bij vorderingen als bedoeld in de [artikelen 240](onbekend) en [242 van Boek 6 van het Burgerlijk Wetboek](onbekend) kan als volgt worden afgeweken van het bepaalde in [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01):
 
@@ -8246,15 +8269,15 @@ Bij vorderingen als bedoeld in de [artikelen 240](onbekend) en [242 van Boek 6 v
 
 - 2°. Een exploit dat wordt uitgebracht zowel ten verzoeke van een vereniging die ten doel heeft de behartiging van belangen van personen die een beroep of bedrijf uitoefenen, alsook ten verzoeke van de leden van deze vereniging, alsmede een exploit dat wordt uitgebracht ten verzoeke van de gewezen leden van een in eerste aanleg mede-gedagvaarde, doch inmiddels ontbonden vereniging als hiervoor bedoeld, behoeft de voornaam, de naam en de woonplaats van deze leden of gewezen leden niet afzonderlijk te vermelden.
 
-#### Artikel 1004
+##### Artikel 1004
 
 Een verzoekschrift als bedoeld in [artikel 242, tweede lid, van Boek 6 van het Burgerlijk Wetboek](onbekend), dat wordt ingediend namens of mede namens de leden van een vereniging die ten doel heeft de behartiging van belangen van personen die een beroep of bedrijf uitoefenen, dan wel namens of mede namens de gewezen leden van een in eerste aanleg mede-gedagvaarde, doch inmiddels ontbonden vereniging als hiervoor bedoeld, behoeft, in afwijking van het bepaalde in [artikel 278](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=278&z=2026-01-01&g=2026-01-01), de voornamen, de naam en de woonplaats of het werkelijk verblijf van deze verzoekers niet afzonderlijk te vermelden.
 
-#### Artikel 1005
+##### Artikel 1005
 
 In geval van een vordering als bedoeld in [artikel 240 van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=240) waarbij de in [artikel 1003 onder 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Twaalfde&artikel=1003&z=2026-01-01&g=2026-01-01) bedoelde gegevens niet in het exploot werden vermeld, kan het beroep in cassatie slechts worden ingesteld door degenen die in eerste aanleg verschenen zijn.
 
-#### Artikel 1006
+##### Artikel 1006
 
 Bovendien gelden in geval van een vordering of verzoek als bedoeld in de [artikelen 240](onbekend) en [242 van Boek 6 van het Burgerlijk Wetboek](onbekend), indien de in de [artikelen 1003](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Twaalfde&artikel=1003&z=2026-01-01&g=2026-01-01) en [1004](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Twaalfde&artikel=1004&z=2026-01-01&g=2026-01-01) bedoelde gegevens niet in het exploit of in het verzoekschrift werden vermeld, de navolgende bijzondere voorzieningen:
 
@@ -8264,11 +8287,11 @@ Bovendien gelden in geval van een vordering of verzoek als bedoeld in de [artike
 
 ## titel Negende. Van de formaliteiten, vereist voor de tenuitvoerlegging van in vreemde Staten tot stand gekomen executoriale titels
 
-#### Artikel 1008
+##### Artikel 1008
 
 Een lid-staat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte kan voor de naar de regels van dit Wetboek bevoegde rechtbank een rechtsvordering tot teruggave van een roerende zaak die een cultuurgoed is in de zin van artikel 2, onder 1, van Richtlijn 2014/60/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de teruggave van cultuurgoederen die op onrechtmatige wijze buiten het grondgebied van een lid-staat zijn gebracht en houdende wijziging van Verordening (EU) nr. 1024/2012 (PbEU 2014, L 159), instellen tegen de bezitter of, bij ontstentenis van een bezitter, tegen de houder van die zaak, mits de zaak na 31 december 1992 op onrechtmatige wijze buiten zijn grondgebied is gebracht zonder dat deze onrechtmatigheid inmiddels is opgeheven, met dien verstande dat voor de Republiek Oostenrijk geldt dat de zaak na 30 juni 1994 buiten het grondgebied van deze staat dient te zijn gebracht, dat voor de Republiek Finland, de Republiek IJsland, het Koninkrijk Noorwegen en het Koninkrijk Zweden geldt dat de zaak na 31 december 1994 buiten het grondgebied van de desbetreffende staat dient te zijn gebracht en dat voor het Vorstendom Liechtenstein geldt dat de zaak na 30 april 1995 buiten het grondgebied van deze staat dient te zijn gebracht.
 
-#### Artikel 1009
+##### Artikel 1009
 
 Op straffe van nietigheid dienen te zamen met de dagvaarding te worden betekend:
 
@@ -8276,15 +8299,15 @@ Op straffe van nietigheid dienen te zamen met de dagvaarding te worden betekend:
 
 - b. een verklaring van de staat die de vordering heeft ingesteld, dat de roerende zaak waarop de vordering tot teruggave betrekking heeft, op onrechtmatige wijze buiten zijn grondgebied is gebracht.
 
-#### Artikel 1010
+##### Artikel 1010
 
 De centrale autoriteit, aangewezen krachtens artikel 4 van de richtlijn, bedoeld in [artikel 1008](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1008&z=2026-01-01&g=2026-01-01), kan ten behoeve van de lid-staat van de Europese Unie of ten behoeve van de andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte die aanspraak op teruggave van een cultuurgoed maakt, de nodige maatregelen nemen, zoals het doen leggen van conservatoir beslag, het in bewaring of onder bewind doen stellen van de zaak, en het vorderen van voorlopige voorzieningen in kort geding, zulks onverminderd de bevoegdheid te dier zake van de desbetreffende staat zelf.
 
-#### Artikel 1011
+##### Artikel 1011
 
 De kosten die voortvloeien uit de uitvoering van een beslissing van een rechtbank tot teruggave van een roerende zaak ingevolge [artikel 1008](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1008&z=2026-01-01&g=2026-01-01), komen ten laste van de staat die rechtsvordering heeft ingesteld. Dit geldt ook voor de kosten inzake de maatregelen die door de centrale autoriteit, aangewezen krachtens artikel 4 van de richtlijn, zijn genomen voor het materiële behoud van het cultuurgoed, bedoeld in artikel 5, onder 4, van de richtlijn. Hieronder vallen tevens de kosten, bedoeld in [artikel 1010](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1010&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1012
+##### Artikel 1012
 
 De eigendom van een cultuurgoed waarvan ingevolge [artikel 1008](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1008&z=2026-01-01&g=2026-01-01) door een lidstaat of ingevolge [artikel 1011a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1011a&z=2026-01-01&g=2026-01-01) door een verdragsstaat teruggave is gevorderd, wordt na de teruggave bepaald door het nationale recht van de staat die de rechtsvordering tot teruggave heeft ingesteld.
 
@@ -8294,7 +8317,7 @@ De eigendom van een cultuurgoed waarvan ingevolge [artikel 1008](https://wetten.
 
 ### afdeling Eerste. De overeenkomst tot arbitrage en de benoeming tot arbiter
 
-#### Artikel 1020
+##### Artikel 1020
 
 1. Partijen kunnen bij overeenkomst geschillen die tussen hen uit een bepaalde, al dan niet uit een overeenkomst voortvloeiende, rechtsbetrekking zijn ontstaan dan wel zouden kunnen ontstaan, aan arbitrage onderwerpen.
 
@@ -8314,31 +8337,31 @@ De eigendom van een cultuurgoed waarvan ingevolge [artikel 1008](https://wetten.
 
 6. Een arbitragereglement, waarnaar in een overeenkomst tot arbitrage wordt verwezen, wordt geacht deel van die overeenkomst uit te maken.
 
-#### Artikel 1021
+##### Artikel 1021
 
 De overeenkomst tot arbitrage wordt bewezen door een geschrift. Daarvoor is voldoende een geschrift dat in arbitrage voorziet of dat verwijst naar algemene voorwaarden welke in arbitrage voorzien en dat door of namens de wederpartij uitdrukkelijk of stilzwijgend is aanvaard. De overeenkomst tot arbitrage kan tevens worden bewezen door elektronische gegevens. [Artikel 227a, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=227a) is van overeenkomstige toepassing.
 
-#### Artikel 1022
+##### Artikel 1022
 
 De rechter, bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is.
 
-#### Artikel 1023
+##### Artikel 1023
 
 Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Geen persoon is om reden van zijn nationaliteit van benoeming uitgesloten, tenzij de partijen met het oog op de onpartijdigheid en de onafhankelijkheid van het scheidsgerecht anders zijn overeengekomen.
 
-#### Artikel 1024
+##### Artikel 1024
 
 1. Het compromis bevat een aanduiding van hetgeen de partijen aan arbitrage wensen te onderwerpen.
 
 2. Door het sluiten van een compromis is de zaak aanhangig, tenzij de partijen een andere wijze van aanhangig maken zijn overeengekomen.
 
-#### Artikel 1025
+##### Artikel 1025
 
 1. Ingeval van een arbitraal beding is een zaak aanhangig op de dag van de ontvangst van een schriftelijke mededeling, waarbij een partij aan haar wederpartij bericht, tot arbitrage over te gaan. Die mededeling bevat een aanduiding van hetgeen de partij, die de zaak aanhangig maakt, aan arbitrage wenst te onderwerpen.
 
 2. De partijen kunnen overeenkomen dat de zaak op een andere wijze aanhangig wordt gemaakt dan voorzien in dit artikel.
 
-#### Artikel 1026
+##### Artikel 1026
 
 1. Een scheidsgerecht heeft een oneven aantal arbiters. Het kan ook uit een arbiter bestaan.
 
@@ -8350,7 +8373,7 @@ Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Ge
 
 5. [Artikel 1027, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1027&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op het bepaalde in het tweede en het vierde lid.
 
-#### Artikel 1027
+##### Artikel 1027
 
 1. De arbiter of arbiters worden benoemd op de wijze zoals de partijen zijn overeengekomen. De partijen kunnen de benoeming van de arbiter of arbiters, of van een of meer hunner, aan een derde opdragen. Indien geen wijze van benoeming is overeengekomen, worden de arbiter of arbiters door de partijen gezamenlijk benoemd.
 
@@ -8360,7 +8383,7 @@ Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Ge
 
 4. De voorzieningenrechter of de derde benoemt de arbiter of arbiters ongeacht de vraag of de overeenkomst tot arbitrage geldig is. Door mede te werken aan de benoeming van de arbiter of arbiters verliezen de partijen niet het recht om een beroep te doen op de onbevoegdheid van het scheidsgerecht wegens het ontbreken van een geldige overeenkomst tot arbitrage.
 
-#### Artikel 1028
+##### Artikel 1028
 
 1. Indien bij overeenkomst of anderszins aan een der partijen een bevoorrechte positie bij de benoeming van de arbiter of arbiters is toegekend, kan ieder der partijen, in afwijking van de overeengekomen benoemingsregeling, de voorzieningenrechter van de rechtbank verzoeken de arbiter of arbiters te benoemen.
 
@@ -8368,7 +8391,7 @@ Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Ge
 
 3. De wederpartij van de verzoeker wordt in de gelegenheid gesteld, te worden gehoord. [Artikel 1027, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1027&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 1029
+##### Artikel 1029
 
 1. Een arbiter aanvaardt zijn opdracht schriftelijk. Een arbiter kan slechts van zijn opdracht worden ontheven in de gevallen, bedoeld in het tweede tot en met het vijfde lid van dit artikel, tenzij de partijen anders zijn overeengekomen.
 
@@ -8380,7 +8403,7 @@ Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Ge
 
 5. Een scheidsgerecht dat zijn opdracht heeft aanvaard kan, indien het, ondanks herhaalde aanmaning, zijn opdracht, alle omstandigheden in aanmerking genomen, op onaanvaardbare trage wijze uitvoert, op verzoek van een der partijen van zijn opdracht worden ontheven door de door partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank.
 
-#### Artikel 1030
+##### Artikel 1030
 
 1. Een arbiter die ingevolge [artikel 1029, tweede, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1029&z=2026-01-01&g=2026-01-01), dan wel een scheidsgerecht dat ingevolge artikel 1029, vijfde lid, van zijn opdracht is ontheven, wordt vervangen volgens de regelen die van toepassing waren op de oorspronkelijke benoeming, tenzij de partijen een andere wijze van vervanging zijn overeengekomen. Hetzelfde geldt ingeval van overlijden van een arbiter.
 
@@ -8388,15 +8411,15 @@ Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Ge
 
 3. Ingeval van vervanging is het geding van rechtswege geschorst, tenzij de partijen anders zijn overeengekomen. Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1031
+##### Artikel 1031
 
 De partijen kunnen gezamenlijk de opdracht van het scheidsgerecht beëindigen.
 
-#### Artikel 1032
+##### Artikel 1032
 
 Vervallen
 
-#### Artikel 1033
+##### Artikel 1033
 
 1. Een arbiter kan worden gewraakt indien gerechtvaardigde twijfel bestaat aan zijn onpartijdigheid of onafhankelijkheid.
 
@@ -8404,7 +8427,7 @@ Vervallen
 
 3. Een partij kan een door een derde of door de voorzieningenrechter van de rechtbank benoemde arbiter niet wraken, indien zij in diens benoeming heeft berust, tenzij de reden tot wraking haar eerst later bekend is geworden.
 
-#### Artikel 1034
+##### Artikel 1034
 
 1. Een als arbiter aangezochte persoon die het vermoeden heeft dat hij zou kunnen worden gewraakt, doet daarvan schriftelijk mededeling aan degene die hem heeft aangezocht, onder vermelding van de vermoedelijke redenen tot wraking.
 
@@ -8412,7 +8435,7 @@ Vervallen
 
 3. Een arbiter die hangende het arbitraal geding het vermoeden krijgt dat hij zou kunnen worden gewraakt, doet daarvan onder vermelding van de vermoedelijke redenen tot wraking schriftelijk mededeling aan de partijen en, indien het scheidsgerecht uit meer arbiters bestaat, aan de mede-arbiters.
 
-#### Artikel 1035
+##### Artikel 1035
 
 1. De wrakende partij brengt de wraking onder opgave van redenen schriftelijk ter kennis van de betrokken arbiter, de wederpartij en, indien het scheidsgerecht uit meerdere arbiters bestaat, de mede-arbiters. De kennisgeving wordt gedaan binnen vier weken na de dag van ontvangst van de mededeling als bedoeld in [artikel 1034](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1034&z=2026-01-01&g=2026-01-01) of, bij gebreke daarvan, binnen vier weken nadat de reden tot wraking aan de wrakende partij bekend is geworden.
 
@@ -8432,7 +8455,7 @@ Vervallen
 
 ### afdeling Tweede. Het arbitraal geding
 
-#### Artikel 1036
+##### Artikel 1036
 
 1. Onverminderd de bepalingen van dwingend recht in deze titel, wordt het arbitraal geding gevoerd op de wijze als door de partijen is overeengekomen. Voorzover de partijen niet in de regeling van het arbitraal geding hebben voorzien, wordt dit, onverminderd het bepaalde in deze titel, gevoerd op de wijze als door het scheidsgerecht bepaald.
 
@@ -8440,7 +8463,7 @@ Vervallen
 
 3. Het scheidsgerecht waakt tegen onredelijke vertraging van het geding en treft zo nodig, op verzoek van een partij of uit eigen beweging, maatregelen. Partijen zijn tegenover elkaar verplicht onredelijke vertraging van het geding te voorkomen.
 
-#### Artikel 1037
+##### Artikel 1037
 
 1. De plaats van arbitrage wordt door de partijen bij overeenkomst bepaald en bij gebreke daarvan door het scheidsgerecht. Door de bepaling van de plaats van arbitrage is tevens de plaats van de uitspraak vastgesteld.
 
@@ -8448,25 +8471,25 @@ Vervallen
 
 3. Het scheidsgerecht kan zitting houden, beraadslagen, getuigen en deskundigen horen op elke andere plaats, in of buiten Nederland, die het daartoe geschikt acht, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht is bevoegd om een van zijn leden aan te wijzen om de zitting als bedoeld in de vorige zin te houden, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1038
+##### Artikel 1038
 
 1. De partijen kunnen in het geding in persoon verschijnen of zich doen vertegenwoordigen door een advocaat dan wel door een bijzonderlijk daartoe schriftelijk gevolmachtigde.
 
 2. De partijen kunnen zich in het geding door personen van hun keuze doen bijstaan.
 
-#### Artikel 1039
+##### Artikel 1039
 
 1. De bewijsvoering, de toelaatbaarheid van de bewijsmiddelen, de bewijslastverdeling en de waardering van het bewijs staan ter vrije bepaling van het scheidsgerecht, tenzij de partijen anders zijn overeengekomen.
 
 2. Het scheidsgerecht is bevoegd om een van zijn leden aan te wijzen om getuigen of deskundigen te horen dan wel om een plaatsopneming of bezichtiging te houden, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1040
+##### Artikel 1040
 
 1. Tenzij de partijen anders zijn overeengekomen, gaan de memoriën als bedoeld in [artikel 1038a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1038a&z=2026-01-01&g=2026-01-01) zoveel mogelijk vergezeld van de bescheiden waarop de partijen zich beroepen.
 
 2. Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, inzage, afschrift of uittreksel van bepaalde, op het geschil betrekking hebbende bescheiden bevelen van de partij die deze bescheiden tot zijn beschikking heeft, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht bepaalt de voorwaarden waaronder en de wijze waarop inzage, afschrift of uittreksel van bescheiden wordt verschaft.
 
-#### Artikel 1041
+##### Artikel 1041
 
 1. Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, partijen bevelen om bewijs te leveren door het horen van getuigen en deskundigen, tenzij de partijen anders zijn overeengekomen.
 
@@ -8476,7 +8499,7 @@ Vervallen
 
 4. Indien het scheidsgerecht het nodig oordeelt, hoort het de getuigen nadat dezen op de bij de wet bepaalde wijze de eed hebben gezworen de gehele waarheid en niets dan de waarheid te zullen zeggen.
 
-#### Artikel 1042
+##### Artikel 1042
 
 1. Tenzij de partijen anders zijn overeengekomen, kan het scheidsgerecht een of meer deskundigen benoemen tot het uitbrengen van een advies. Het scheidsgerecht kan de partijen raadplegen over de aan de deskundigen te verstrekken opdracht. Het scheidsgerecht zendt ten spoedigste een afschrift van de benoeming en van de aan deskundigen gegeven opdracht aan de partijen.
 
@@ -8486,17 +8509,17 @@ Vervallen
 
 4. Onverminderd het in het derde lid bepaalde stelt het scheidsgerecht de partijen in de gelegenheid zich uit te laten over het advies van de door het scheidsgerecht benoemde deskundigen, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1043
+##### Artikel 1043
 
 Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning van de partijen bevelen voor het geven van inlichtingen dan wel teneinde een vergelijk te beproeven.
 
-#### Artikel 1044
+##### Artikel 1044
 
 1. Tenzij de partijen anders zijn overeengekomen, kan het scheidsgerecht door tussenkomst van de voorzieningenrechter van de rechtbank Den Haag een verzoek om inlichtingen doen als bedoeld in artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (**Trb**. 1968, 142). De voorzieningenrechter zendt het verzoek, tenzij het hem nutteloos voorkomt, ten spoedigste aan het orgaan als bedoeld in artikel 2 van de Overeenkomst en deelt dit aan het scheidsgerecht mede.
 
 2. Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het antwoord op het verzoek om inlichtingen heeft ontvangen.
 
-#### Artikel 1045
+##### Artikel 1045
 
 1. Tenzij de partijen anders zijn overeengekomen, kan op schriftelijk verzoek van een derde die enig belang heeft bij een arbitraal geding, het scheidsgerecht hem toestaan om zich daarin te voegen of tussen te komen, mits tussen de partijen en de derde dezelfde overeenkomst tot arbitrage geldt of van kracht wordt als tussen de oorspronkelijke partijen.
 
@@ -8508,7 +8531,7 @@ Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning
 
 5. Na de toelating van een voeging of tussenkomst regelt het scheidsgerecht de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien.
 
-#### Artikel 1046
+##### Artikel 1046
 
 1. Ten aanzien van een in Nederland aanhangig arbitraal geding kan een partij een door de partijen daartoe aangewezen derde verzoeken de samenvoeging met een ander in of buiten Nederland aanhangig arbitraal geding te gelasten, tenzij de partijen anders zijn overeengekomen. Bij gebreke van een door partijen daartoe aangewezen derde kan de voorzieningenrechter van de rechtbank Amsterdam worden verzocht de samenvoeging van een in Nederland aanhangig arbitraal geding te gelasten met een ander in Nederland aanhangig arbitraal geding, tenzij de partijen anders zijn overeengekomen.
 
@@ -8518,31 +8541,31 @@ Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning
 
 4. Indien de derde of de voorzieningenrechter samenvoeging beveelt, benoemen de partijen in onderling overleg de arbiter of arbiters, in oneven getale, en bepalen zij, welke regelen op het samengevoegde geding van toepassing zullen zijn. Indien de partijen daarover binnen een door een derde of de voorzieningenrechter te stellen termijn geen overeenstemming kunnen bereiken, benoemt de derde of de voorzieningenrechter, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt hij, zo nodig, welke regelen op het samengevoegde geding van toepassing zullen zijn. De derde of de voorzieningenrechter bepaalt zo nodig voor de arbiter of arbiters die als gevolg van de samenvoeging van hun opdracht worden ontheven, de beloning voor de reeds door hen verrichte werkzaamheden. [Artikel 1027, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1027&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 1047
+##### Artikel 1047
 
 Ingeval van arbitrage omtrent zaken als bedoeld in [artikel 1020, vierde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste&artikel=1020&z=2026-01-01&g=2026-01-01), blijft, behoudens de [artikelen 1037](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1037&z=2026-01-01&g=2026-01-01) en [1048](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1048&z=2026-01-01&g=2026-01-01), het in deze afdeling bepaalde buiten toepassing. Het geding wordt alsdan gevoerd op de wijze als door de partijen is overeengekomen of, voor zover de partijen daarin niet hebben voorzien, als door het scheidsgerecht bepaald.
 
-#### Artikel 1048
+##### Artikel 1048
 
 De bepaling van het tijdstip waarop het vonnis zal worden gewezen, is het scheidsgerecht voorbehouden.
 
 ### afdeling Tweede. Bijzondere bepalingen
 
-#### Artikel 1049
+##### Artikel 1049
 
 1. Het scheidsgerecht kan een geheel of gedeeltelijk eindvonnis dan wel een tussenvonnis wijzen. Van een geheel of gedeeltelijk eindvonnis is sprake wanneer het gevorderde in een vonnis geheel of gedeeltelijk bij dictum wordt afgedaan.
 
 2. Indien een scheidsgerecht een vonnis wijst dat blijkens het dictum deels een tussenvonnis en deels een eindvonnis vormt, is een dergelijk vonnis een gedeeltelijk eindvonnis.
 
-#### Artikel 1050
+##### Artikel 1050
 
 Vervallen
 
-#### Artikel 1051
+##### Artikel 1051
 
 Vervallen
 
-#### Artikel 1052
+##### Artikel 1052
 
 1. Het scheidsgerecht is gerechtigd, over zijn bevoegdheid te oordelen.
 
@@ -8556,11 +8579,11 @@ Vervallen
 
 6. De onbevoegdverklaring als bedoeld in het vorige lid, geldt als een arbitraal vonnis waarop de eerste afdeling B tot en met de vijfde afdeling van deze titel van toepassing is.
 
-#### Artikel 1053
+##### Artikel 1053
 
 De overeenkomst tot arbitrage dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. Het scheidsgerecht is bevoegd te oordelen over het bestaan en de rechtsgeldigheid van de hoofdovereenkomst waarvan de overeenkomst tot arbitrage deel uitmaakt of waarop zij betrekking heeft.
 
-#### Artikel 1054
+##### Artikel 1054
 
 1. Het scheidsgerecht beslist naar de regelen des rechts.
 
@@ -8570,15 +8593,15 @@ De overeenkomst tot arbitrage dient als een afzonderlijke overeenkomst te worden
 
 4. In alle gevallen houdt het scheidsgerecht rekening met de toepasselijke handelsgebruiken.
 
-#### Artikel 1055
+##### Artikel 1055
 
 Vervallen
 
-#### Artikel 1056
+##### Artikel 1056
 
 In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheidsgerecht daartoe eveneens bevoegd. Onverminderd de toepasselijkheid van de [artikelen 611a tot en met 611h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vijfde&afdeling=Derde&artikel=611a&z=2026-01-01&g=2026-01-01) dient in de gevallen, bedoeld in [artikel 611d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vijfde&afdeling=Derde&artikel=611d&z=2026-01-01&g=2026-01-01), om de opheffing, de opschorting of de vermindering van de dwangsom bij het scheidsgerecht te worden verzocht, en indien de opdracht van het scheidsgerecht niet voortduurt, te worden verzocht aan de voorzieningenrechter van de rechtbank van het arrondissement waarin de plaats van de arbitrage is gelegen.
 
-#### Artikel 1057
+##### Artikel 1057
 
 1. Het scheidsgerecht beslist, indien het uit meer arbiters bestaat, bij meerderheid van stemmen, tenzij de partijen anders zijn overeengekomen. Indien het scheidsgerecht uit meer arbiters bestaat, kunnen procedurele zaken van ondergeschikt belang door de voorzitter worden beslist indien daartoe door de mede-arbiters bevoegdheid is verleend, tenzij de partijen anders zijn overeengekomen.
 
@@ -8606,7 +8629,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 - c. in alle andere gevallen, nadat de arbitrage aanhangig is gemaakt, de partijen schriftelijk overeenkomen dat geen gronden voor de beslissing worden gegeven.
 
-#### Artikel 1058
+##### Artikel 1058
 
 1. Het scheidsgerecht draagt er zorg voor dat ten spoedigste:
 
@@ -8622,7 +8645,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 5. Tenzij de partijen andere termijnen als bedoeld in de [artikelen 1060](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1060&z=2026-01-01&g=2026-01-01), [1061](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1061&z=2026-01-01&g=2026-01-01), [1061c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde_A&artikel=1061c&z=2026-01-01&g=2026-01-01) zijn overeengekomen, geldt een termijn van drie maanden na de dag van nederlegging van het vonnis ter griffie van de rechtbank, indien partijen nederlegging zijn overeengekomen.
 
-#### Artikel 1059
+##### Artikel 1059
 
 1. Beslissingen die de rechtsbetrekking in geschil betreffen en zijn vervat in een in kracht van gewijsde gegaan arbitraal vonnis hebben in een ander geding tussen dezelfde partijen gezag van gewijsde met ingang van de dag waarop zij zijn gegeven. [Artikel 236, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=236&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -8630,7 +8653,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 3. Een in kracht van gewijsde gegaan arbitraal vonnis als bedoeld in het eerste lid heeft bindende kracht tussen dezelfde partijen in een ander geding met ingang van de dag waarop het is gewezen.
 
-#### Artikel 1060
+##### Artikel 1060
 
 1. Een partij kan binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, het scheidsgerecht schriftelijk verzoeken een kennelijke rekenfout, schrijffout of andere kennelijke fout die zich voor eenvoudig herstel leent in het vonnis te verbeteren.
 
@@ -8648,7 +8671,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 8. Het verzoek, bedoeld in het eerste en tweede lid, schort de mogelijkheid tot tenuitvoerlegging niet op, tenzij de voorzieningenrechter gewichtige redenen aanwezig acht om die mogelijkheid wel op te schorten totdat over het verzoek is beslist. Het bepaalde in [artikel 1070](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Zevende&artikel=1070&z=2026-01-01&g=2026-01-01) is op de beschikking van de voorzieningenrechter van toepassing. Hetzelfde geldt als het scheidsgerecht overeenkomstig het vierde lid uit eigen beweging tot verbetering overgaat.
 
-#### Artikel 1061
+##### Artikel 1061
 
 1. Heeft het scheidsgerecht nagelaten, te beslissen omtrent een of meer vorderingen of tegenvorderingen welke aan zijn oordeel waren onderworpen, dan kan de meest gerede partij, binnen een tussen partijen overeengekomen termijn of tot drie maanden na de dag van verzending van het vonnis, het scheidsgerecht verzoeken, een aanvullend vonnis te wijzen.
 
@@ -8662,7 +8685,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 ### afdeling Vierde. De tenuitvoerlegging van het arbitraal vonnis
 
-#### Artikel 1062
+##### Artikel 1062
 
 1. De tenuitvoerlegging in Nederland van een arbitraal vonnis kan eerst plaatsvinden nadat de voorzieningenrechter van de rechtbank van het arrondissement waarin de plaats van arbitrage is gelegen daartoe op verzoek van een der partijen verlof heeft verleend.
 
@@ -8672,7 +8695,7 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 4. Vernietiging of herroeping van het arbitraal vonnis brengt van rechtswege die van het verlof tot tenuitvoerlegging met zich mede.
 
-#### Artikel 1063
+##### Artikel 1063
 
 1. De voorzieningenrechter van de rechtbank kan de tenuitvoerlegging van het arbitraal vonnis slechts weigeren, indien hem na een summierlijk onderzoek is gebleken dat het aannemelijk is dat het vonnis zal worden vernietigd op een van de gronden genoemd in [artikel 1065, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vijfde&artikel=1065&z=2026-01-01&g=2026-01-01), of herroepen op een van de gronden genoemd in [artikel 1068, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vijfde&artikel=1068&z=2026-01-01&g=2026-01-01), dan wel indien in strijd met [artikel 1056](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1056&z=2026-01-01&g=2026-01-01) een dwangsom is opgelegd. In dit laatste geval betreft de weigering alleen de tenuitvoerlegging van de dwangsom.
 
@@ -8688,11 +8711,11 @@ In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheid
 
 ### afdeling Vierde. De tenuitvoerlegging van het arbitraal vonnis
 
-#### Artikel 1064
+##### Artikel 1064
 
 Tegen een geheel of gedeeltelijk arbitraal eindvonnis staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van het bepaalde in deze afdeling open.
 
-#### Artikel 1065
+##### Artikel 1065
 
 1. Vernietiging kan slechts plaatsvinden op een of meer van de navolgende gronden:
 
@@ -8718,7 +8741,7 @@ Tegen een geheel of gedeeltelijk arbitraal eindvonnis staan slechts de rechtsmid
 
 7. In afwijking van het bepaalde in [artikel 1064a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vijfde&artikel=1064a&z=2026-01-01&g=2026-01-01), vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van verzending van het aanvullend vonnis dan wel van de mededeling der afwijzing, bedoeld in [artikel 1061, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1061&z=2026-01-01&g=2026-01-01). Indien de partijen zijn overeengekomen gebruik te maken van het in [artikel 1058, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1058&z=2026-01-01&g=2026-01-01), bepaalde, vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van nederlegging van het aanvullend vonnis dan wel van de mededeling der afwijzing, bedoeld in [artikel 1061, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1061&z=2026-01-01&g=2026-01-01). Het in de eerste en tweede zin bepaalde is van overeenkomstige toepassing op de verbetering van het vonnis, bedoeld in [artikel 1060](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1060&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1066
+##### Artikel 1066
 
 1. De vordering tot vernietiging schorst de tenuitvoerlegging van het vonnis niet.
 
@@ -8732,11 +8755,11 @@ Tegen een geheel of gedeeltelijk arbitraal eindvonnis staan slechts de rechtsmid
 
 6. Ingeval van schorsing van de tenuitvoerlegging kan de meest gerede partij de rechter verzoeken, de schorsing op te heffen. Het derde tot en met vijfde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 1067
+##### Artikel 1067
 
 Zodra het arrest waarbij een arbitraal vonnis is vernietigd onherroepelijk is geworden, herleeft de bevoegdheid van de gewone rechter, indien en voorzover het arbitraal vonnis is vernietigd op grond van het ontbreken van een geldige overeenkomst tot arbitrage. Indien en voorzover het arbitraal vonnis wordt vernietigd op een andere grond, blijft de overeenkomst tot arbitrage van kracht, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1068
+##### Artikel 1068
 
 1. Herroeping kan slechts plaats vinden op een of meer van de navolgende gronden:
 
@@ -8752,7 +8775,7 @@ Zodra het arrest waarbij een arbitraal vonnis is vernietigd onherroepelijk is ge
 
 ### afdeling Vijfde. De vernietiging en de herroeping van het arbitraal vonnis
 
-#### Artikel 1069
+##### Artikel 1069
 
 1. Indien de partijen gedurende een arbitraal geding tot een vergelijk komen, kan op gezamenlijk verzoek het scheidsgerecht de inhoud daarvan in een arbitraal vonnis vastleggen. Het scheidsgerecht kan het verzoek zonder opgave van redenen weigeren.
 
@@ -8764,19 +8787,19 @@ Zodra het arrest waarbij een arbitraal vonnis is vernietigd onherroepelijk is ge
 
 ### afdeling Zevende. Slotbepalingen
 
-#### Artikel 1070
+##### Artikel 1070
 
 Tegen beschikkingen van de voorzieningenrechter van de rechtbank, als bedoeld in de eerste tot en met de derde afdeling van deze Titel, staat geen voorziening open.
 
-#### Artikel 1071
+##### Artikel 1071
 
 In de gevallen bedoeld in de [artikelen 1026, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1026&z=2026-01-01&g=2026-01-01), [1027, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1027&z=2026-01-01&g=2026-01-01), [1028, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1028&z=2026-01-01&g=2026-01-01), [1029, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1029&z=2026-01-01&g=2026-01-01), [1041a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1041a&z=2026-01-01&g=2026-01-01), [1044, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1044&z=2026-01-01&g=2026-01-01) en [1062, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vierde&artikel=1062&z=2026-01-01&g=2026-01-01), behoeven het verzoekschrift en, voorzover van toepassing, het verweerschrift niet door een advocaat te worden ingediend.
 
-#### Artikel 1072
+##### Artikel 1072
 
 De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rechtbank als bevoegde voorzieningenrechter aanwijzen voor zaken als bedoeld in de [artikelen 1026, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1026&z=2026-01-01&g=2026-01-01), [1027, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1027&z=2026-01-01&g=2026-01-01), [1028, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1028&z=2026-01-01&g=2026-01-01), [1029, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1029&z=2026-01-01&g=2026-01-01), [1035, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1035&z=2026-01-01&g=2026-01-01), en [1041a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1041a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1073
+##### Artikel 1073
 
 1. Het in deze Titel bepaalde is van toepassing indien de plaats van arbitrage in Nederland is gelegen.
 
@@ -8784,11 +8807,11 @@ De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rec
 
 ## Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
 
-#### Artikel 1074
+##### Artikel 1074
 
 De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten en waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is onder het op die overeenkomst toepasselijke recht.
 
-#### Artikel 1075
+##### Artikel 1075
 
 1. Een in een vreemde Staat gewezen arbitraal vonnis waarop een erkennings- en tenuitvoerleggingsverdrag van toepassing is, kan, op verzoek van een der partijen, in Nederland worden erkend en ten uitvoer gelegd.
 
@@ -8796,7 +8819,7 @@ De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een ov
 
 3. De [artikelen 261 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Eerste&artikel=261&z=2026-01-01&g=2026-01-01) zijn van toepassing op het verzoek voorzover niet anders is bepaald in het tweede lid van dit artikel.
 
-#### Artikel 1076
+##### Artikel 1076
 
 1. Is geen erkennings- en tenuitvoerleggingsverdrag van toepassing of laat een toepasselijk verdrag toe, zich te beroepen op de wet van het land waar de erkenning of tenuitvoerlegging wordt verzocht, dan kan een in een vreemde Staat gewezen arbitraal vonnis in Nederland worden erkend en kan daarvan in Nederland de tenuitvoerlegging door een van de partijen worden verzocht, tegen overlegging van het origineel of een gewaarmerkt afschrift, van de overeenkomst tot arbitrage en van het arbitraal vonnis, tenzij:
 
@@ -8828,7 +8851,7 @@ De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een ov
 
 8. Indien de vernietiging van een in een vreemde Staat gewezen arbitraal vonnis is verzocht aan de bevoegde autoriteit van het land waar dat vonnis is gewezen, is, indien in Nederland de erkenning of tenuitvoerlegging wordt verzocht, [artikel 1066, tweede tot en met het zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vijfde&artikel=1066&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 1077. Algemene slotbepaling
+##### Artikel 1077. Algemene slotbepaling
 
 1. De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de termijn gesteld in de [artikelen 443, eerste lid, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=443&z=2026-01-01&g=2026-01-01), en [479g, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_A&artikel=479g&z=2026-01-01&g=2026-01-01).
 
@@ -8836,7 +8859,7 @@ De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een ov
 
 3. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3) als zodanig genoemde en de bij of krachtens dat artikel daarmede gelijkgestelde dagen.
 
-#### Artikel 676a
+##### Artikel 676a
 
 Geen andere voorziening dan cassatie in het belang der wet staat open tegen beschikkingen ingevolge:
 
@@ -8888,7 +8911,7 @@ Geen andere voorziening dan cassatie in het belang der wet staat open tegen besc
 
 - x. [artikel 226, derde lid, van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=226), waarbij een machtiging als in die bepaling bedoeld wordt verleend.
 
-#### Artikel 676b
+##### Artikel 676b
 
 Van de beschikkingen van de rechter-commissaris ingevolge [afdeling 3 van titel 6 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&afdeling=3) is gedurende vijf dagen hoger beroep op de rechtbank toegelaten, behoudens voor zover het beschikkingen betreft waartegen, indien zij door de kantonrechter waren gegeven, geen hogere voorziening is toegelaten.
 
@@ -9076,37 +9099,37 @@ Van de beschikkingen van de rechter-commissaris ingevolge [afdeling 3 van titel 
 
 ## titel Achtste
 
-#### Artikel 374
+##### Artikel 374
 
 Vervallen
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
 ## titel Achtste
 
-#### Artikel 376
+##### Artikel 376
 
 Derden zijn bevoegd zich te verzetten tegen een vonnis hetwelk hunne regten benadeelt, indien zij noch in persoon, noch wettiglijk vertegenwoordigd, of indien zij welke zij vertegenwoordigen, in het regtsgeding niet zijn geroepen, of door voeging of tusschenkomst geene partij zijn geweest.
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -9114,7 +9137,7 @@ Vervallen
 
 ### afdeling Vierde. Hoger beroep tegen beschikkingen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -9124,13 +9147,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2004-07-01&g=2004-07-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -9138,39 +9161,39 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2004-07-01&g=2004-07-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2004-07-01&g=2004-07-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2004-07-01&g=2004-07-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2004-07-01&g=2004-07-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -9178,7 +9201,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -9344,7 +9367,7 @@ Partijen kunnen beroep in cassatie instellen:
 
 ## Titel 14a. Van rechtspleging in zaken betreffende een collectieve actie en collectieve schadeafwikkeling
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. De Autoriteit Consument en Markt of de Europese Commissie kan, niet optredende als partij, schriftelijke opmerkingen maken ingevolge artikel 15, derde lid, eerste alinea, van [verordening (EG) nr. 1/2003](32003R0001) van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingregels van de artikelen 81 en 82 van het Verdrag (PbEG 2003, L 1), indien deze de wens daartoe te kennen heeft gegeven. Met toestemming van de rechter kan de Autoriteit Consument en Markt of de Europese Commissie ook mondelinge opmerkingen maken.
 
@@ -9450,33 +9473,33 @@ Partijen kunnen beroep in cassatie instellen:
 
 ## titel Achtste
 
-#### Artikel 375
+##### Artikel 375
 
 Vervallen
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 376
+##### Artikel 376
 
 Derden zijn bevoegd zich te verzetten tegen een vonnis hetwelk hunne regten benadeelt, indien zij noch in persoon, noch wettiglijk vertegenwoordigd, of indien zij welke zij vertegenwoordigen, in het regtsgeding niet zijn geroepen, of door voeging of tusschenkomst geene partij zijn geweest.
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -9484,7 +9507,7 @@ Vervallen
 
 ### afdeling Vierde. Hoger beroep tegen beschikkingen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -9494,13 +9517,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2005-09-01&g=2005-09-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -9508,39 +9531,39 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2005-09-01&g=2005-09-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2005-09-01&g=2005-09-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2005-09-01&g=2005-09-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2005-09-01&g=2005-09-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -9548,7 +9571,7 @@ Vervallen
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -9556,7 +9579,7 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
@@ -9728,7 +9751,7 @@ Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door d
 
 ## Titel 17. Van rechtspleging in deelgeschillen betreffende letsel- en overlijdensschade
 
-#### Artikel 1013
+##### Artikel 1013
 
 1. Het verzoekschrift waarmee het verzoek, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907) wordt ingeleid, vermeldt:
 
@@ -9754,11 +9777,11 @@ Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door d
 
 8. De rechter kan, op verzoek van partijen of van een van hen dan wel ambtshalve, in elke stand van de procedure een verschijning van partijen ter terechtzitting bevelen teneinde het verloop van de procedure te bespreken en daaromtrent aanwijzingen te verstrekken en bevelen te geven. Partijen verschijnen ter terechtzitting in persoon of bij advocaat. Van het verhandelde wordt een proces-verbaal opgemaakt, dat door de rechter en de griffier wordt ondertekend. Tegen de beslissing om al dan niet een verschijning te bevelen, staat geen voorziening open.
 
-#### Artikel 1014
+##### Artikel 1014
 
 Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar statuten de belangen van personen behartigt ten behoeve van wie de overeenkomst is gesloten, kan een verweerschrift indienen.
 
-#### Artikel 1015
+##### Artikel 1015
 
 1. Procedures betreffende geschillen in de beëindiging waarvan de overeenkomst voorziet, worden door de indiening van het verzoek, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907), van rechtswege geschorst, ook indien reeds de dag is bepaald waarop het vonnis, het arrest of de beschikking zal worden uitgesproken.
 
@@ -9782,13 +9805,13 @@ Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar s
 
 5. De [artikelen 225, tweede lid, tweede zin, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=225&z=2026-01-01&g=2026-01-01) en [227, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Elfde&artikel=227&z=2026-01-01&g=2026-01-01), zijn van toepassing.
 
-#### Artikel 1016
+##### Artikel 1016
 
 1. De rechter kan bevelen dat één of meer deskundigen zullen berichten over de voor het verzoek van belang zijnde punten.
 
 2. Behoudens de toepassing van [artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=289&z=2026-01-01&g=2026-01-01) kan de rechter bepalen dat de kosten voortvloeiende uit de toepassing van de bepalingen van deze titel ten laste komen van één of meer verzoekers.
 
-#### Artikel 1017
+##### Artikel 1017
 
 1. Een afschrift van de beschikking wordt door de griffier schriftelijk zo spoedig mogelijk verstrekt aan de verzoekers.
 
@@ -9800,7 +9823,7 @@ Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar s
 
 5. De verzoekers kunnen het gerechtshof Amsterdam verzoeken om ter uitvoering van de in het derde en vierde lid bedoelde meldingen en aankondigingen nadere aanwijzingen te verstrekken.
 
-#### Artikel 1018
+##### Artikel 1018
 
 1. Beroep in cassatie staat uitsluitend open indien het verzoek wordt afgewezen en kan uitsluitend door de verzoekers gezamenlijk worden ingesteld.
 
@@ -9822,7 +9845,7 @@ Een stichting of vereniging met volledige rechtsbevoegdheid die ingevolge haar s
 
 ## Titel 15. Van rechtspleging in zaken betreffende rechten van intellectuele eigendom
 
-#### Artikel 6a
+##### Artikel 6a
 
 Voor de toepassing van [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Eerste&artikel=6&z=2026-01-01&g=2026-01-01), is, tenzij anders is overeengekomen, de plaats van uitvoering in Nederland gelegen:
 
@@ -9928,27 +9951,27 @@ Voor de toepassing van [artikel 6, onderdeel a](https://wetten.overheid.nl/jci1.
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 376
+##### Artikel 376
 
 Derden zijn bevoegd zich te verzetten tegen een vonnis hetwelk hunne regten benadeelt, indien zij noch in persoon, noch wettiglijk vertegenwoordigd, of indien zij welke zij vertegenwoordigen, in het regtsgeding niet zijn geroepen, of door voeging of tusschenkomst geene partij zijn geweest.
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -9956,7 +9979,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -9966,13 +9989,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2009-12-28&g=2009-12-28) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -9980,39 +10003,39 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2009-12-28&g=2009-12-28) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2009-12-28&g=2009-12-28), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2009-12-28&g=2009-12-28) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2009-12-28&g=2009-12-28) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -10020,7 +10043,7 @@ Vervallen
 
 ### afdeling Eerste. Van de zaken aan cassatie onderworpen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -10028,11 +10051,11 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
@@ -10192,7 +10215,7 @@ Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 479ka
+##### Artikel 479ka
 
 1. Ten laste van degene die als begunstigde derde tot het ontvangen van een uitkering uit een sommenverzekering is aangewezen kan beslag worden gelegd onder de verzekeraar, indien:
 
@@ -10202,13 +10225,13 @@ Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
 2. De begunstigde derde wordt in het geval, bedoeld in het eerste lid onder b, geacht zijn aanwijzing te hebben aanvaard voor zover de executie strekt. Heeft de aanwijzing betrekking op een uitkering uit een levensverzekering, dan blijft de eerste zin buiten toepassing zolang de begunstiging ingevolge de eerste zin van [artikel 479r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479r&z=2026-01-01&g=2026-01-01), nog kan worden gewijzigd.
 
-#### Artikel 479kb
+##### Artikel 479kb
 
 1. Onder de verzekeringnemer of een begunstigde kan geen beslag worden gelegd op enig uit de verzekering voortvloeiend recht, tenzij hun rechten aan toonder of order zijn gesteld.
 
 2. Zijn de rechten van de verzekeringnemer of de begunstigde aan toonder of order gesteld, dan kunnen deze rechten niet krachtens [artikel 474a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste_A&artikel=474a&z=2026-01-01&g=2026-01-01) worden verkocht, doch dient de executie te worden voortgezet door beslag onder de verzekeraar overeenkomstig de tweede afdeling.
 
-#### Artikel 479kc
+##### Artikel 479kc
 
 1. Aan degene die ten laste van de verzekeringnemer beslag onder de verzekeraar heeft gelegd, kan een rechtshandeling, na de beslaglegging door of met medewerking van de verzekeringnemer met betrekking tot de verzekering verricht, niet worden tegengeworpen.
 
@@ -10216,7 +10239,7 @@ Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
 #### § 2. Beslag ten laste van de verzekeringnemer op diens rechten uit een levensverzekering
 
-#### Artikel 479r
+##### Artikel 479r
 
 1. Indien de begunstiging na de beslaglegging onherroepelijk wordt, kan deze onherroepelijkheid niet aan de executant worden tegengeworpen. De verzekeraar is verplicht een uitkering, waarop de begunstiging betrekking heeft, onder zich te houden. Voor zover vaststaat dat de begunstiging niet zal worden gewijzigd, blijven de eerste en de tweede volzin buiten toepassing.
 
@@ -10268,7 +10291,7 @@ Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
 ### afdeling Tweede. Van ontzegeling
 
-#### Artikel 724a
+##### Artikel 724a
 
 1. Een schuldeiser kan conservatoir beslag leggen op de rechten die voor de verzekeringnemer voortvloeien uit een sommenverzekering. Voorts kan in de gevallen, bedoeld in [artikel 479ka, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=1&artikel=479ka&z=2026-01-01&g=2026-01-01), conservatoir beslag worden gelegd ten laste van degene die tot het ontvangen van een uitkering uit sommenverzekering is aangewezen. De [artikelen 479kb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=1&artikel=479kb&z=2026-01-01&g=2026-01-01), [479kc](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=1&artikel=479kc&z=2026-01-01&g=2026-01-01), [479m, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479m&z=2026-01-01&g=2026-01-01), [479o, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479o&z=2026-01-01&g=2026-01-01), [479p, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479p&z=2026-01-01&g=2026-01-01), en [479r, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede_c&paragraaf=2&artikel=479r&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing.
 
@@ -10324,11 +10347,11 @@ Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
 ## titel Negende. Van de formaliteiten, vereist voor de tenuitvoerlegging van in vreemde Staten tot stand gekomen executoriale titels
 
-#### Artikel 1019
+##### Artikel 1019
 
 Deze titel is van toepassing op de handhaving van rechten van intellectuele eigendom ingevolge de [Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886), de [Wet op de naburige rechten](https://wetten.overheid.nl/jci1.3:c:BWBR0005921), de [Databankenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010591), de [Rijksoctrooiwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007118), het Benelux-verdrag inzake de intellectuele eigendom (merken en tekeningen of modellen), de [Wet houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224), de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040), op procedures krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5) en [5a Handelsnaamwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001906&artikel=5a), op procedures inzake geografische benamingen krachtens [artikel 14 Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14) en op handhaving van rechten van intellectuele eigendom ingevolge verordening (EG) nr. 40/94 van de Raad van 20 december 1993 inzake het Gemeenschapsmerk (PbEG 1994, L11), verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht (PbEG L 227) en verordening (EG) nr. 6/2002 van de Raad van 12 december 2001 betreffende Gemeenschapsmodellen (PbEG 2002, L3).
 
-#### Artikel 1019a
+##### Artikel 1019a
 
 1. Een verbintenis uit onrechtmatige daad wegens inbreuk op een recht van intellectuele eigendom geldt als een rechtsbetrekking als bedoeld in [artikel 194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01).
 
@@ -10336,7 +10359,7 @@ Deze titel is van toepassing op de handhaving van rechten van intellectuele eige
 
 3. De rechter wijst het verzoek af voor zover de bescherming van vertrouwelijke informatie niet is gewaarborgd. [Artikel 194, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 1019b
+##### Artikel 1019b
 
 1. De voorzieningenrechter kan verlof verlenen tot het treffen van voorlopige maatregelen ter bescherming van bewijs aan de verzoeker die voldoende aannemelijk heeft gemaakt dat er inbreuk op zijn recht van intellectuele eigendom is gemaakt of dreigt te worden gemaakt. Tot deze maatregelen ter bescherming van bewijs kunnen behoren, naast de reeds in de wet geregelde maatregelen, conservatoir bewijsbeslag, gedetailleerde beschrijving en monsterneming ter zake van vermeend inbreukmakende roerende zaken, bij de productie daarvan gebruikte materialen en werktuigen en op de inbreuk betrekking hebbende documenten.
 
@@ -10346,13 +10369,13 @@ Deze titel is van toepassing op de handhaving van rechten van intellectuele eige
 
 4. Verlof tot het treffen van de gevraagde maatregel wordt niet gegeven voor zover de bescherming van vertrouwelijke informatie niet is gewaarborgd.
 
-#### Artikel 1019c
+##### Artikel 1019c
 
 1. Conservatoir beslag tot bescherming van bewijs wordt gelegd met overeenkomstige toepassing van de voorschriften betreffende middelen tot bewaring van zijn recht, met uitzondering van [artikel 709, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&afdeling=Eerste&artikel=709&z=2026-01-01&g=2026-01-01).
 
 2. Zodra in de hoofdzaak is beslist en deze beslissing in kracht van gewijsde is gegaan, vervalt het beslag van rechtswege. Zijn de beslagen zaken in gerechtelijke bewaring gegeven, dan is de bewaarder verplicht tot afgifte daarvan aan de beslagene, tenzij de rechter op vordering van eiser anders heeft bepaald. De rechter kan op verzoek van partijen of ambtshalve nadere aanwijzingen geven.
 
-#### Artikel 1019d
+##### Artikel 1019d
 
 1. Beschrijving geschiedt door een deurwaarder ter plaatse waar de zaken, bedoeld in [artikel 1019b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=15&artikel=1019b&z=2026-01-01&g=2026-01-01), zich bevinden. De deurwaarder zal de zaken op het door hem daarvan onverwijld op te maken proces-verbaal nauwkeurig beschrijven met opgave van hun beweerdelijk inbreukmakende kenmerken, getal, gewicht en maat overeenkomstig hun aard. Tot deze beschrijving kan ook behoren het op enigerlei wijze vastleggen van de zaken op beeld- of geluidsmateriaal dat wordt gevoegd bij het proces-verbaal en daarvan deel uitmaakt. Het proces-verbaal vermeldt het rechterlijk verlof. De [artikelen 440, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=440&z=2026-01-01&g=2026-01-01), [443](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=443&z=2026-01-01&g=2026-01-01), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444&z=2026-01-01&g=2026-01-01), [444a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444a&z=2026-01-01&g=2026-01-01) en [444b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=444b&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
@@ -10360,7 +10383,7 @@ Deze titel is van toepassing op de handhaving van rechten van intellectuele eige
 
 3. Zodra in de hoofdzaak is beslist en deze beslissing in kracht van gewijsde is gegaan, is de bewaarder verplicht tot afgifte van de monsters aan de beslagene, tenzij de rechter op vordering van eiser anders heeft bepaald. De rechter kan op verzoek van partijen of ambtshalve nadere aanwijzingen geven.
 
-#### Artikel 1019e
+##### Artikel 1019e
 
 1. In spoedeisende zaken, met name indien uitstel onherstelbare schade voor de houder van het recht van intellectuele eigendom zou veroorzaken, is de voorzieningenrechter bevoegd een onmiddellijke voorziening bij voorraad te geven op een verzoek om tegen de vermeende inbreukmaker een bevel uit te vaardigen teneinde een dreigende inbreuk op het recht van intellectuele eigendom van de houder te voorkomen, zonder de vermeende inbreukmaker op te roepen. Onder dezelfde voorwaarden kan een onmiddellijke voorziening bij voorraad worden gegeven tegen een tussenpersoon wiens diensten door een derde worden gebruikt om op een recht van intellectuele eigendom inbreuk te maken.
 
@@ -10368,13 +10391,13 @@ Deze titel is van toepassing op de handhaving van rechten van intellectuele eige
 
 3. De vermeende inbreukmaker en de tussenpersoon wiens diensten door een derde worden gebruikt om op een recht van intellectuele eigendom inbreuk te maken, kunnen vorderen dat de voorzieningenrechter die de beschikking inhoudende het bevel genoemd in het eerste lid heeft gegeven, de beschikking herziet, rechtdoende in kort geding.
 
-#### Artikel 1019f
+##### Artikel 1019f
 
 1. Indien de eiser informatie wenst te verkrijgen van een derde die op commerciële schaal inbreukmakende goederen in zijn bezit heeft of gebruikt, die op commerciële schaal diensten verleent die bij de inbreuk worden gebruikt, of die door een van deze derden is aangewezen als zijnde betrokken bij de productie, fabricage of distributie van deze goederen of bij het verlenen van deze diensten, kan de rechter op gerechtvaardigde en redelijke vordering van de eiser een getuigenverhoor bevelen over al hetgeen de derde bekend is over de herkomst en de distributiekanalen van de inbreukmakende goederen of diensten. Dit verhoor heeft enkel betrekking op het verkrijgen van de in dit lid bedoelde informatie.
 
 2. Naast of in plaats van verhoor van een getuige ter zitting, kan ook overlegging gevraagd worden van de in het tweede lid bedoelde informatie in schriftelijke vorm door de getuige.
 
-#### Artikel 1019g
+##### Artikel 1019g
 
 De rechter kan op vordering van degene die is getroffen door
 
@@ -10388,11 +10411,11 @@ De rechter kan op vordering van degene die is getroffen door
 
 gelasten dat degene die om deze maatregel heeft gevraagd de door deze maatregel toegebrachte schade op passende wijze vergoedt, indien het beslag ten onrechte is gelegd of het beslag is opgeheven dan wel voor zover de maatregel niet had behoren te worden getroffen of het bevel niet had behoren te worden gegeven of indien wordt vastgesteld dat er geen inbreuk was gemaakt of dreigde.
 
-#### Artikel 1019h
+##### Artikel 1019h
 
 Voor zover nodig in afwijking van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&z=2026-01-01&g=2026-01-01) en in afwijking van [artikel 194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01) wordt de in het ongelijk gestelde partij desgevorderd veroordeeld in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, tenzij de billijkheid zich daartegen verzet.
 
-#### Artikel 1019i
+##### Artikel 1019i
 
 1. Bij het treffen van een voorlopige voorziening bepaalt de voorzieningenrechter een redelijke termijn voor het instellen van de eis in de hoofdzaak. De voorlopige voorziening verliest haar kracht wanneer een eis in de hoofdzaak niet binnen die termijn is ingesteld en de gedaagde een daartoe strekkende verklaring bij de griffie indient. Is de verklaring ingediend na het verstrijken van de gestelde termijn, dan verliest de voorlopige voorziening haar kracht met de indiening van de verklaring.
 
@@ -10420,7 +10443,7 @@ Voor zover nodig in afwijking van de [tweede paragraaf van de twaalfde afdeling 
 
 ## Titel 15a. Van rechtspleging in zaken betreffende bescherming van bedrijfsgeheimen
 
-#### Artikel 1019j
+##### Artikel 1019j
 
 Door de pachtkamer van de rechtbank bedoeld in [artikel 48 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), worden behandeld en beslist alle zaken betreffende
 
@@ -10444,13 +10467,13 @@ Door de pachtkamer van de rechtbank bedoeld in [artikel 48 van de Wet op de rech
 
 - j. vorderingen tot vergoeding van schade wegens onrechtmatig gebruik van het gepachte, nadat de pachtovereenkomst is geëindigd.
 
-#### Artikel 1019k
+##### Artikel 1019k
 
 1. Indien een zaak niet behoort tot de bevoegdheid van de pachtkamer, verklaart deze zich zonodig ambtshalve onbevoegd. Behoort de zaak tot de bevoegdheid van de gewone rechter, dan verwijst de pachtkamer de zaak naar de gewone rechter die ingevolge de voor de betreffende zaak geldende bepalingen bevoegd is.
 
 2. Indien een zaak behoort tot de bevoegdheid van de pachtkamer, maar bij een andere gewone rechter is ingediend, verklaart deze zich ambtshalve onbevoegd en verwijst hij de zaak naar de bevoegde pachtkamer.
 
-#### Artikel 1019l
+##### Artikel 1019l
 
 1. Indien een zaak meer vorderingen betreft en ten minste één daarvan een zaak als bedoeld in [artikel 1019j onder a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=16&artikel=1019j&z=2026-01-01&g=2026-01-01), worden al deze vorderingen door de pachtkamer behandeld en beslist, voor zover de samenhang tussen de vorderingen zich tegen afzonderlijke behandeling verzet.
 
@@ -10458,43 +10481,43 @@ Door de pachtkamer van de rechtbank bedoeld in [artikel 48 van de Wet op de rech
 
 3. In geval van een hoofdzaak en een zaak in vrijwaring waarvan er ten minste één een vordering betreft als bedoeld in [artikel 1019j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=16&artikel=1019j&z=2026-01-01&g=2026-01-01), worden deze vorderingen alle door de pachtkamer behandeld en beslist.
 
-#### Artikel 1019m
+##### Artikel 1019m
 
 Voor de toepassing van de [artikelen 1019j tot en met 1019l](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=16&artikel=1019j&z=2026-01-01&g=2026-01-01) wordt mede gelet op een wijziging van eis.
 
-#### Artikel 1019n
+##### Artikel 1019n
 
 Indien binnen de in de wet gestelde termijn een verzoek is ingediend bij de grondkamer en deze beslist, dat zij niet bevoegd is daarvan kennis te nemen, kan het verzoek, indien de pachtkamer van de rechtbank bevoegd is daarvan kennis te nemen en een wettelijke termijn, binnen welke het verzoek bij de pachtkamer moet worden ingediend of de vordering moet worden ingesteld, niet meer kan worden in acht genomen, niettemin nog binnen een maand na de beslissing van de grondkamer bij de pachtkamer worden ingediend of kan de vordering binnen dezelfde termijn worden ingesteld. Hetzelfde geldt, indien een dergelijke beslissing door de Centrale Grondkamer wordt bevestigd dan wel door haar de grondkamer alsnog niet bevoegd wordt verklaard van het verzoek kennis te nemen.
 
-#### Artikel 1019o
+##### Artikel 1019o
 
 1. Het hoger beroep van de vonnissen en beschikkingen van de pachtkamer van de rechtbanken wordt ingesteld bij de pachtkamer van het gerechtshof Arnhem-Leeuwarden, bedoeld in [artikel 69 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69)
 
 2. De termijn van hoger beroep bedraagt één maand na de dag van de uitspraak.
 
-#### Artikel 1019p
+##### Artikel 1019p
 
 De pachtkamer van het gerechtshof neemt kennis van alle jurisdictie geschillen tussen de pachtkamers van de rechtbanken.
 
-#### Artikel 1019q
+##### Artikel 1019q
 
 1. Op zaken, bedoeld in [artikel 1019j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=16&artikel=1019j&z=2026-01-01&g=2026-01-01), zijn de gewone regels van procesrecht van toepassing, voor zover daarvan niet in deze titel wordt afgeweken.
 
 2. De pachtkamer van de rechtbank treedt in de plaats van de kantonrechter behoudens in de gevallen voorzien bij de [artikelen 117](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=117&z=2026-01-01&g=2026-01-01), [177, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=177&z=2026-01-01&g=2026-01-01), [180, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=4&artikel=180&z=2026-01-01&g=2026-01-01), en [230, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=230&z=2026-01-01&g=2026-01-01). De [artikelen 96–97](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=96&z=2026-01-01&g=2026-01-01) zijn niet van toepassing.
 
-#### Artikel 1019r
+##### Artikel 1019r
 
 1. Onverminderd het in [artikel 193](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=6&artikel=193&z=2026-01-01&g=2026-01-01) bepaalde is de pachtkamer bevoegd, zo vaak zulks haar nodig voorkomt, in elke stand van de procedure, de staat van de onroerende zaak door een of meer van haar leden te doen opnemen, mits de griffier hiervan ten minste twee dagen voor de opneming aan partijen heeft kennis gegeven. Van de opneming wordt proces-verbaal opgemaakt.
 
 2. De pachtkamer van het gerechtshof Arnhem-Leeuwarden kan de kosten van een plaatsopneming geheel of ten dele ten laste van de Staat brengen.
 
-#### Artikel 1019s
+##### Artikel 1019s
 
 1. De pachtkamer van een rechtbank kan bepalen dat de behandeling van de zaak geheel of gedeeltelijk zal geschieden door een uit haar midden aangewezen rechter-commissaris. De rechter-commissaris oefent daarbij de bevoegdheden uit, aan de pachtkamer toegekend.
 
 2. De pachtkamer van het gerechtshof kan bepalen dat de behandeling geheel of gedeeltelijk zal geschieden door een uit haar midden aangewezen raadsheer-commissaris. De raadsheer-commissaris oefent daarbij de bevoegdheid uit, aan de pachtkamer van het gerechtshof toegekend.
 
-#### Artikel 1019t
+##### Artikel 1019t
 
 1. Met betrekking tot de schriftelijke vastlegging van pachtovereenkomsten of van overeenkomsten tot wijziging of beëindiging van pachtovereenkomsten gelden de volgende bepalingen.
 
@@ -10508,11 +10531,11 @@ De pachtkamer van het gerechtshof neemt kennis van alle jurisdictie geschillen t
 
 6. De griffier van de Hoge Raad geeft onverwijld aan de grondkamer kennis van een ingesteld beroep in cassatie. De grondkamer houdt alsdan de behandeling aan, totdat omtrent de uitslag van beroep bericht is ontvangen. De griffier van de Hoge Raad geeft onverwijld aan de grondkamer kennis van die uitslag.
 
-#### Artikel 1019u
+##### Artikel 1019u
 
 In zaken als bedoeld in [artikel 1019j](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=16&artikel=1019j&z=2026-01-01&g=2026-01-01) die met een verzoek moeten worden ingeleid, is de pachtkamer bevoegd van de rechtbank binnen welker rechtsgebied het gepachte of het grootste deel daarvan is gelegen. Indien het een hoeve betreft, is de pachtkamer bevoegd van de rechtbank binnen welker rechtsgebied het hoofdgebouw, tot de hoeve behorend, gelegen is.
 
-#### Artikel 1019v
+##### Artikel 1019v
 
 De bepalingen betreffende wraking en verschoning van rechters zijn van overeenkomstige toepassing op de deskundige leden van de pachtkamers van de rechtbanken en de pachtkamer van het gerechtshof, bedoeld in de [artikelen 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=48), en [69, tweede lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=69) en hun plaatsvervangers.
 
@@ -10534,7 +10557,7 @@ De bepalingen betreffende wraking en verschoning van rechters zijn van overeenko
 
 ## titel Eerste. Arbitrage in Nederland
 
-#### Artikel 1011a
+##### Artikel 1011a
 
 1. Een rechtsvordering tot teruggave van een roerende zaak, gegrond op [artikel 6.7 van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.7), wordt ingesteld tegen de bezitter of, bij ontstentenis van een bezitter, tegen de houder van het cultuurgoed voor de naar de regels van dit wetboek bevoegde rechter.
 
@@ -10544,15 +10567,15 @@ De bepalingen betreffende wraking en verschoning van rechters zijn van overeenko
 
 - b. een verklaring van de verdragsstaat waaruit het cultuurgoed afkomstig is, dat dit cultuurgoed buiten het grondgebied van die staat is geraakt met schending van de regels die door die staat in overeenstemming met de doelstellingen van het Unesco-verdrag 1970, bedoeld in [artikel 6.1, onder a, van de Erfgoedwet](https://wetten.overheid.nl/jci1.3:c:BWBR0037521&artikel=6.1) zijn vastgesteld ter zake van de uitvoer en de eigendomsoverdracht van cultuurgoederen, dan wel dat dit cultuurgoed is ontvreemd in die verdragsstaat.
 
-#### Artikel 1011b
+##### Artikel 1011b
 
 Onze Minister van Onderwijs, Cultuur en Wetenschap kan ten behoeve van een verdragsstaat die aanspraak op teruggave van een cultuurgoed maakt, de nodige maatregelen als bedoeld in [artikel 1010](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1010&z=2026-01-01&g=2026-01-01) nemen.
 
-#### Artikel 1011c
+##### Artikel 1011c
 
 De kosten die voortvloeien uit de uitvoering van een rechterlijke beslissing tot teruggave van een roerende zaak ingevolge [artikel 1011a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1011a&z=2026-01-01&g=2026-01-01), komen ten laste van de staat die de rechtsvordering heeft ingesteld. Indien de vordering is ingesteld door de rechthebbende op het cultuurgoed komen die kosten ten laste van die rechthebbende. Hetzelfde geldt voor de kosten, gemaakt voor het materiële behoud van het cultuurgoed en voor de kosten van eventuele voorlopige maatregelen, als bedoeld in [artikel 1010](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1010&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1011d
+##### Artikel 1011d
 
 Indien het cultuurgoed bij teruggave bloot komt te staan aan gevaar, kan de rechter de tenuitvoerlegging van een op grond van [artikel 1011a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=13&artikel=1011a&z=2026-01-01&g=2026-01-01) verkregen uitspraak schorsen tot het moment waarop het cultuurgoed bij teruggave geen gevaar meer loopt.
 
@@ -10576,7 +10599,7 @@ Indien het cultuurgoed bij teruggave bloot komt te staan aan gevaar, kan de rech
 
 ## Titel 18. Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat
 
-#### Artikel 438c
+##### Artikel 438c
 
 Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiële waarborg is vereist, wordt een gelijkwaardige bij een in een andere lidstaat van de Europese Unie gevestigde bank of verzekeraar gestelde waarborg erkend. Die banken moeten in een lidstaat van de Europese Unie erkend zijn overeenkomstig Richtlijn 2013/36/EU van het Europees Parlement en de Raad van 26 juni 2013 betreffende toegang tot het bedrijf van kredietinstellingen en het prudentieel toezicht op kredietinstellingen en beleggingsondernemingen, tot wijziging van Richtlijn 2002/87/EG en tot intrekking van de Richtlijnen 2006/48/EG en 2006/49/EG (PbEU 2013, L 176), en die verzekeraars overeenkomstig richtlijn 2009/138/EG van het Europees Parlement en de Raad van 25 november 2009 betreffende de toegang tot en uitoefening van het verzekerings- en het herverzekeringsbedrijf (Solvabiliteit II) (PbEU 2009, L 335).
 
@@ -10704,7 +10727,7 @@ Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiël
 
 ## Titel 17. Van rechtspleging in deelgeschillen betreffende letsel- en overlijdensschade
 
-#### Artikel 156a
+##### Artikel 156a
 
 1. Onderhandse akten kunnen op een andere wijze dan bij geschrift worden opgemaakt op zodanige wijze dat het degene ten behoeve van wie de akte bewijs oplevert, in staat stelt om de inhoud van de akte op te slaan op een wijze die deze inhoud toegankelijk maakt voor toekomstig gebruik gedurende een periode die is afgestemd op het doel waarvoor de akte bestemd is te dienen, en die een ongewijzigde reproductie van de inhoud van de akte mogelijk maakt.
 
@@ -10764,23 +10787,23 @@ Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiël
 
 ## titel Achtste
 
-#### Artikel 377
+##### Artikel 377
 
 Dit verzet wordt beoordeeld door den regter, bij wien zoodanig vonnis is gewezen. Het wordt aangebragt door eene dagvaarding tegen alle de partijen tusschen welke hetzelve is gevallen, en de algemeene voorschriften wegens de wijze van procederen zijn op dit verzet toepasselijk.
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -10788,7 +10811,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -10798,13 +10821,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2010-07-01&g=2010-07-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -10812,39 +10835,39 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2010-07-01&g=2010-07-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2010-07-01&g=2010-07-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2010-07-01&g=2010-07-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2010-07-01&g=2010-07-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -10852,7 +10875,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -10860,15 +10883,15 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
@@ -10994,7 +11017,7 @@ Vervallen
 
 ## titel Elfde. Van rechtspleging inzake jaarrekeningen en jaarverslagen
 
-#### Artikel 1019w
+##### Artikel 1019w
 
 1. Indien een persoon een ander aansprakelijk houdt voor schade die hij lijdt door dood of letsel, kan ieder van hen of kunnen zij gezamenlijk, ook voordat de zaak ten principale aanhangig is, de rechter verzoeken te beslissen over een geschil omtrent of in verband met een deel van hetgeen ter zake tussen hen rechtens geldt en waarvan de beëindiging kan bijdragen aan de totstandkoming van een vaststellingsovereenkomst over de vordering als bedoeld in [artikel 1019x, derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=17&artikel=1019x&z=2026-01-01&g=2026-01-01).
 
@@ -11002,7 +11025,7 @@ Vervallen
 
 3. Een verzoek als bedoeld in het eerste lid kan ook worden gedaan in het geval dat een benadeelde ingevolge [artikel 954 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=954), dan wel uit hoofde van een aan hem door de wet toegekend eigen recht op schadevergoeding, betaling van een verzekeraar verlangt.
 
-#### Artikel 1019x
+##### Artikel 1019x
 
 1. Het verzoek wordt gedaan aan de rechter die vermoedelijk bevoegd zal zijn van de zaak, indien deze ten principale aanhangig wordt gemaakt, kennis te nemen. Indien de zaak door de kantonrechter moet worden behandeld en beslist, wordt het verzoek gedaan aan de kantonrechter. De rechter beoordeelt summierlijk of hij absoluut bevoegd is en of de zaak door de kantonrechter moet worden behandeld en beslist.
 
@@ -11020,17 +11043,17 @@ Vervallen
 
 4. Indien over de vordering reeds eerder een verzoek als bedoeld in [artikel 1019w, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=17&artikel=1019w&z=2026-01-01&g=2026-01-01), is gedaan, wordt daarvan melding gemaakt en worden de processtukken en, indien gegeven, de beschikking bij het verzoekschrift gevoegd.
 
-#### Artikel 1019ij
+##### Artikel 1019ij
 
 1. De rechter kan, op verzoek van partijen of van een van hen dan wel ambtshalve, een verschijning van partijen voor een mondelinge behandeling bevelen.
 
 2. Op de mondelinge behandeling kan ook de vraag hoe partijen verder zullen trachten een vaststellingsovereenkomst te bereiken, of de verdere wijze van behandeling van geschillen over de vordering, worden besproken. [Artikel 199, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=8&artikel=199&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 1019z
+##### Artikel 1019z
 
 De rechter wijst het verzoek af voor zover de verzochte beslissing naar zijn oordeel onvoldoende kan bijdragen aan de totstandkoming van een vaststellingsovereenkomst.
 
-#### Artikel 1019aa
+##### Artikel 1019aa
 
 1. De rechter begroot de kosten bij de behandeling van het verzoek aan de zijde van de persoon die schade door dood of letsel lijdt in de beschikking en neemt daarbij alle redelijke kosten als bedoeld in [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=96) in aanmerking.
 
@@ -11038,11 +11061,11 @@ De rechter wijst het verzoek af voor zover de verzochte beslissing naar zijn oor
 
 3. [Artikel 289](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=289&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 1019bb
+##### Artikel 1019bb
 
 Tegen de beschikking op het verzoek staat geen voorziening open, onverminderd [artikel 1019cc, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=17&artikel=1019cc&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1019cc
+##### Artikel 1019cc
 
 1. Voor zover in de beschikking uitdrukkelijk en zonder voorbehoud is beslist op een of meer geschilpunten tussen partijen betreffende hun materiële rechtsverhouding, is de rechter daaraan in de procedure ten principale op dezelfde wijze gebonden als wanneer de beslissing zou zijn opgenomen in een tussenvonnis in die procedure.
 
@@ -11066,7 +11089,7 @@ Tegen de beschikking op het verzoek staat geen voorziening open, onverminderd [a
 
 ## titel Eerste. Arbitrage in Nederland
 
-#### Artikel 282a
+##### Artikel 282a
 
 1. Voor zover bij of krachtens deze wet of een andere wet niet anders is bepaald, houdt de rechter de zaak aan zolang de verzoeker en de belanghebbende het griffierecht niet hebben voldaan en de termijn genoemd in [artikel 3, vierde lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3) nog loopt.
 
@@ -11096,19 +11119,19 @@ Tegen de beschikking op het verzoek staat geen voorziening open, onverminderd [a
 
 ## titel Achtste
 
-#### Artikel 378
+##### Artikel 378
 
 Indien zoodanig vonnis aan eenen derde is tegengeworpen in een regtsgeding, en het verzet daartegen is ingesteld op den voet van het vorige artikel, staat het vrij aan den regter voor wien dat regtsgeding aanhangig is, indien daartoe gronden bestaan, de schorsing van hetzelve toe te staan, tot dat het ingestelde verzet zal zijn uitgewezen.
 
-#### Artikel 379
+##### Artikel 379
 
 De regter die over een verzet van derden oordeelt, kan, indien daartoe gronden bestaan, de uitvoering van het aangevallen vonnis schorsen, tot dat het verzet zal zijn uitgewezen.
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -11116,7 +11139,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -11126,13 +11149,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2010-11-01&g=2010-11-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -11140,37 +11163,37 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2010-11-01&g=2010-11-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2010-11-01&g=2010-11-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2010-11-01&g=2010-11-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2010-11-01&g=2010-11-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -11178,7 +11201,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -11186,21 +11209,21 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
 ### afdeling Tweede. Herroeping van beschikkingen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -11210,7 +11233,7 @@ Vervallen
 
 ### afdeling Eerste. Algemeen
 
-#### Artikel 409a
+##### Artikel 409a
 
 1. De Hoge Raad houdt de zaak aan zolang de eiser het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3a, tweede lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3a) nog loopt.
 
@@ -11222,7 +11245,7 @@ Vervallen
 
 ### afdeling Tweede. De termijn van beroep in cassatie in vorderingsprocedures en de schorsende kracht daarvan
 
-#### Artikel 427b
+##### Artikel 427b
 
 [Artikel 282a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=282a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -11336,7 +11359,7 @@ Vervallen
 
 ## Titel 18. Van rechtspleging in zaken betreffende een arbeidsovereenkomst op grond waarvan de werknemer arbeid verricht op het continentaal plat
 
-#### Artikel 127a
+##### Artikel 127a
 
 1. De rechter houdt de zaak aan zolang de eiser het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 3, derde lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=3) nog loopt.
 
@@ -11368,7 +11391,7 @@ Vervallen
 
 #### § 6. Deskundigen
 
-#### Artikel 219a
+##### Artikel 219a
 
 1. De rechter houdt de zaak aan zolang degene die vordert zich te mogen voegen of te mogen tussenkomen het griffierecht niet heeft voldaan en de termijn genoemd in [artikel 5, tweede lid, van de Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899&artikel=5) nog loopt.
 
@@ -11412,11 +11435,11 @@ Vervallen
 
 ## titel Achtste
 
-#### Artikel 380
+##### Artikel 380
 
 Bij wettiging van het verzet wordt het vonnis, waartegen dit gerigt is geweest, alleen in zoo verre verbeterd als het de regten van derden heeft benadeeld, ten zij het onsplitsbare der gevallene uitspraak eene geheele vernietiging daarvan noodzakelijk mogt maken.
 
-#### Artikel 381
+##### Artikel 381
 
 Vervallen
 
@@ -11424,7 +11447,7 @@ Vervallen
 
 ### afdeling Eerste. Herroeping van vonnissen
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -11434,13 +11457,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2011-01-01&g=2011-01-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -11448,37 +11471,37 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2011-01-01&g=2011-01-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2011-01-01&g=2011-01-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2011-01-01&g=2011-01-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2011-01-01&g=2011-01-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
@@ -11486,7 +11509,7 @@ Vervallen
 
 ### afdeling Eerste. Van de zaken aan cassatie onderworpen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -11494,19 +11517,19 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -11514,13 +11537,13 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daartegen open tot het moment dat in de hoofdzaak in cassatie de conclusie van antwoord wordt genomen.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
@@ -11634,7 +11657,7 @@ Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toeg
 
 ## titel Eerste. Arbitrage in Nederland
 
-#### Artikel 108a
+##### Artikel 108a
 
 Vervallen
 
@@ -11684,7 +11707,7 @@ Vervallen
 
 ### afdeling Tweede. Relatieve bevoegdheid
 
-#### Artikel 268a
+##### Artikel 268a
 
 Vervallen
 
@@ -11702,7 +11725,7 @@ Vervallen
 
 ## titel Achtste
 
-#### Artikel 382
+##### Artikel 382
 
 Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij worden herroepen indien:
 
@@ -11712,13 +11735,13 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 - c. de partij na het vonnis stukken van beslissende aard in handen heeft gekregen die door toedoen van de wederpartij waren achtergehouden.
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2017-01-01&g=2017-01-01) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -11726,43 +11749,43 @@ Een vonnis dat in kracht van gewijsde is gegaan, kan op vordering van een partij
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2017-01-01&g=2017-01-01) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2017-01-01&g=2017-01-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2017-01-01&g=2017-01-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2017-01-01&g=2017-01-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 Vervallen
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -11770,19 +11793,19 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -11790,21 +11813,21 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daartegen open tot het moment dat in de hoofdzaak in cassatie de conclusie van antwoord wordt genomen.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
@@ -11908,7 +11931,7 @@ Vervallen
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1019dd
+##### Artikel 1019dd
 
 1. De kantonrechter van de rechtbank Noord-Holland is mede bevoegd kennis te nemen van zaken betreffende een arbeidsovereenkomst, op grond waarvan de werknemer arbeid verricht op het continentaal plat.
 
@@ -11932,7 +11955,7 @@ Vervallen
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de eis of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -11952,7 +11975,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de eis of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -11976,27 +11999,27 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de eis of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2017-01-01&g=2017-01-01), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 Vervallen
 
-#### Artikel 396
+##### Artikel 396
 
 Vervallen
 
-#### Artikel 397
+##### Artikel 397
 
 Vervallen
 
 ## titel Tiende. Herroeping
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -12004,19 +12027,19 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -12024,21 +12047,21 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daartegen open tot het moment dat in de hoofdzaak in cassatie de conclusie van antwoord wordt genomen.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
@@ -12154,7 +12177,7 @@ Vervallen
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1018a
+##### Artikel 1018a
 
 1. Indien een veelheid aan personen door een gebeurtenis of gelijksoortige gebeurtenissen is benadeeld, kan, voordat een zaak aanhangig is, de rechtbank, teneinde een overeenkomst, bedoeld in [artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907), te beproeven, op verzoek van een stichting of vereniging, bedoeld in artikel 907, derde lid, onderdeel f, van Boek 7 van het Burgerlijk Wetboek en van de persoon of personen die voor deze gebeurtenis of gebeurtenissen verantwoordelijk worden gehouden, dan wel op verzoek van een van hen, een verschijning ter zitting van deze partijen bevelen.
 
@@ -12192,7 +12215,7 @@ Vervallen
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 799a
+##### Artikel 799a
 
 1. Onverminderd [artikel 799](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Zesde&afdeling=Eerste&artikel=799&z=2026-01-01&g=2026-01-01) vermeldt het verzoekschrift, bedoeld in de [artikelen 255, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=255), en [260, eerste lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=260), de concrete bedreigingen in de ontwikkeling van de minderjarige alsmede de daarop afgestemde duur waarvoor de ondertoezichtstelling zal gelden.
 
@@ -12228,27 +12251,27 @@ Vervallen
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1038a
+##### Artikel 1038a
 
 1. Tenzij de partijen anders zijn overeengekomen, worden de eiser en de verweerder door het scheidsgerecht in de gelegenheid gesteld een memorie van eis respectievelijk een memorie van antwoord in te dienen.
 
 2. Tenzij de partijen anders zijn overeengekomen, is het scheidsgerecht vrij te bepalen of nadere memoriën kunnen worden ingediend.
 
-#### Artikel 1038b
+##### Artikel 1038b
 
 Het scheidsgerecht stelt, op verzoek van een der partijen of uit eigen beweging, de partijen in de gelegenheid hun zaak op een zitting mondeling toe te lichten, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1038c
+##### Artikel 1038c
 
 1. Een tegenvordering is toelaatbaar indien daarop dezelfde arbitrageovereenkomst als waarop de vordering is gebaseerd van toepassing is dan wel diezelfde arbitrageovereenkomst door de partijen uitdrukkelijk of stilzwijgend van toepassing is verklaard.
 
 2. Tenzij de partijen anders zijn overeengekomen, wordt een tegenvordering als bedoeld in het eerste lid dadelijk bij memorie van antwoord ingediend.
 
-#### Artikel 1038d
+##### Artikel 1038d
 
 Een partij kan zijn vordering respectievelijk tegenvordering of de gronden daarvan veranderen of vermeerderen gedurende de arbitrale procedure, op voorwaarde dat de wederpartij daardoor in zijn verdediging niet onredelijk wordt bemoeilijkt of het geding daardoor niet onredelijk wordt vertraagd.
 
-#### Artikel 1041a
+##### Artikel 1041a
 
 1. Indien een getuige niet vrijwillig verschijnt dan wel, verschenen zijnde, weigert een verklaring af te leggen, kan het scheidsgerecht aan de partij die dit verzoekt, toestaan om zich, binnen een door het scheidsgerecht te bepalen termijn, te wenden tot de voorzieningenrechter van de rechtbank met het verzoek een rechter-commissaris te benoemen voor wie het getuigenverhoor zal plaatsvinden.
 
@@ -12258,11 +12281,11 @@ Een partij kan zijn vordering respectievelijk tegenvordering of de gronden daarv
 
 4. Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het verslag van het verhoor heeft ontvangen.
 
-#### Artikel 1042a
+##### Artikel 1042a
 
 Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, in of buiten Nederland, een plaatselijke gesteldheid opnemen of zaken bezichtigen, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht stelt de partijen in de gelegenheid bij de plaatsopneming of bezichtiging aanwezig te zijn.
 
-#### Artikel 1043a
+##### Artikel 1043a
 
 1. Blijft de eiser, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke zijn eisen in te dienen of naar behoren toe te lichten, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht bij vonnis, of op een andere wijze die het scheidsgerecht daartoe geschikt acht, een einde maken aan het arbitraal geding.
 
@@ -12270,7 +12293,7 @@ Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, i
 
 3. Bij het vonnis, bedoeld in het tweede lid, wordt de eis toegewezen, tenzij deze aan het scheidsgerecht onrechtmatig of ongegrond voorkomt. Het scheidsgerecht kan, alvorens vonnis te wijzen, van de eiser het bewijs van een of meer van zijn stellingen verlangen.
 
-#### Artikel 1043b
+##### Artikel 1043b
 
 1. Tijdens een aanhangig arbitraal geding ten gronde kan het scheidsgerecht, op verzoek van een der partijen, een voorlopige voorziening, met uitzondering van bewarende maatregelen als bedoeld in de [vierde titel van het Derde Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=Vierde&z=2026-01-01&g=2026-01-01), treffen. De voorlopige voorziening moet samenhangen met de vordering of tegenvordering in het aanhangige arbitraal geding.
 
@@ -12284,7 +12307,7 @@ Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, i
 
 6. Het scheidsgerecht kan, op eenparig verzoek van de partijen, onder vermelding van het verzoek, een arbitraal vonnis als bedoeld in het vierde lid omzetten in een arbitraal vonnis als bedoeld in het vijfde lid.
 
-#### Artikel 1045a
+##### Artikel 1045a
 
 1. Op schriftelijk verzoek van een partij kan het scheidsgerecht deze toestaan een derde schriftelijk in vrijwaring op te roepen, mits tussen de belanghebbende partij en de derde dezelfde arbitrageovereenkomst geldt of van kracht wordt als tussen de oorspronkelijke partijen.
 
@@ -12296,7 +12319,7 @@ Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, i
 
 5. Na de toelating van een vrijwaring regelt het scheidsgerecht de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien.
 
-#### Artikel 1048a
+##### Artikel 1048a
 
 Een partij die in het geding is verschenen maakt zonder onredelijke vertraging bezwaar bij het scheidsgerecht met een afschrift aan de wederpartij zodra zij weet of redelijkerwijs behoort te weten dat is gehandeld in strijd met of is nagelaten te handelen overeenkomstig enige bepalingen van de [tweede afdeling van deze titel](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&z=2026-01-01&g=2026-01-01), de overeenkomst tot arbitrage dan wel een opdracht, beslissing of maatregel van het scheidsgerecht. Laat een partij dit na, dan vervalt het recht daarop nadien, in het arbitraal geding of bij de gewone rechter, alsnog een beroep te doen.
 
@@ -12304,7 +12327,7 @@ Een partij die in het geding is verschenen maakt zonder onredelijke vertraging b
 
 ### afdeling Eerste B. Het scheidsgerecht
 
-#### Artikel 1064a
+##### Artikel 1064a
 
 1. De vordering tot vernietiging wordt ingesteld bij het gerechtshof van het ressort waarin de plaats van arbitrage is gelegen. Indien de plaats van arbitrage is gelegen in het ressort Amsterdam en partijen dit uitdrukkelijk zijn overeengekomen, kan de vordering tot vernietiging worden ingesteld bij de internationale handelskamer van het gerechtshof Amsterdam («Netherlands Commercial Court of Appeal»). [artikel 32a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=32a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing.
 
@@ -12316,7 +12339,7 @@ Een partij die in het geding is verschenen maakt zonder onredelijke vertraging b
 
 5. Tegen een uitspraak op grond van het eerste lid kan beroep in cassatie worden ingesteld. Partijen kunnen overeenkomen dat geen beroep in cassatie kan worden ingesteld tegen een uitspraak op grond van het eerste lid, tenzij een van hen een natuurlijk persoon is niet handelend in de uitoefening van een beroep of bedrijf.
 
-#### Artikel 1065a
+##### Artikel 1065a
 
 1. Het gerechtshof kan, op verzoek van een partij of uit eigen beweging, de vernietigingsprocedure schorsen voor een door het gerechtshof te bepalen termijn om het scheidsgerecht in staat te stellen de grond tot vernietiging ongedaan te maken door het heropenen van het arbitraal geding dan wel door het nemen van een andere maatregel als het scheidsgerecht geraden acht. Tegen een beslissing van het gerechtshof staat geen hogere voorziening open.
 
@@ -12330,11 +12353,11 @@ Een partij die in het geding is verschenen maakt zonder onredelijke vertraging b
 
 ### afdeling Tweede. Het arbitraal geding
 
-#### Artikel 1072a
+##### Artikel 1072a
 
 Voorzover in deze titel niet anders is bepaald, zijn de [artikelen 261 tot en met 291](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Eerste&artikel=261&z=2026-01-01&g=2026-01-01) van toepassing op zaken welke ingevolge het bij deze titel bepaalde met een verzoek worden ingediend.
 
-#### Artikel 1072b
+##### Artikel 1072b
 
 1. Indien de geadresseerde kenbaar heeft gemaakt dat hij daarvoor langs deze weg bereikbaar is en het scheidsgerecht daarmee instemt, kan, voorzover in enige bepaling van deze titel voor een overeenkomst, processtuk, mededeling, verzoek of handeling de schriftelijke vorm wordt vereist, dit ook op elektronische wijze geschieden, behalve voorzover het een handeling betreft die geschiedt in een gerechtelijke procedure, tenzij dit wordt toegestaan in laatstgenoemde procedure. De bereikbaarheid langs deze weg geldt voor de duur van het arbitraal geding, tenzij de geadresseerde meedeelt dat hij haar wijzigt of, voor zover partijen deze mogelijkheid zijn overeengekomen, intrekt.
 
@@ -12346,7 +12369,7 @@ Voorzover in deze titel niet anders is bepaald, zijn de [artikelen 261 tot en me
 
 5. Een mededeling of handeling die langs elektronische weg geschiedt of een processtuk dat langs elektronische weg wordt ingediend, wordt geacht te zijn verzonden op het tijdstip waarop het bericht een systeem voor gegevensverwerking heeft bereikt waarvoor de verzender geen verantwoordelijkheid draagt.
 
-#### Artikel 1072c
+##### Artikel 1072c
 
 1. Het overlijden van een partij doet de overeenkomst tot arbitrage noch de opdracht van het scheidsgerecht eindigen, tenzij de partijen anders zijn overeengekomen.
 
@@ -12358,23 +12381,23 @@ Voorzover in deze titel niet anders is bepaald, zijn de [artikelen 261 tot en me
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1074a
+##### Artikel 1074a
 
 De overeenkomst waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt om een maatregel tot bewaring van recht of zich wendt tot de voorzieningenrechter van de rechtbank of de kantonrechter in kort geding overeenkomstig [artikel 254](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Veertiende&artikel=254&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1074b
+##### Artikel 1074b
 
 Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt om een of meer voorlopige bewijsverrichtingen in Nederland te bevelen.
 
-#### Artikel 1074c
+##### Artikel 1074c
 
 Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de gewone rechter verzoekt een rechter-commissaris te benoemen indien een getuige die in Nederland woont of feitelijk verblijf houdt, niet vrijwillig verschijnt. In dat geval zijn de bepalingen van [artikel 1041a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1041a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 1074d
+##### Artikel 1074d
 
 Indien in de gevallen, genoemd in de [artikelen 1074a tot en met 1074c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Tweede&artikel=1074a&z=2026-01-01&g=2026-01-01), een partij zich voor alle weren beroept op het bestaan van een overeenkomst tot arbitrage, verklaart de rechter zich uitsluitend bevoegd, indien de gevraagde beslissing niet of niet tijdig in arbitrage kan worden gekregen.
 
-#### Artikel 524a
+##### Artikel 524a
 
 1. Indien sprake is van een tot bewoning bestemde onroerende zaak worden, voor zover verschuldigd, aan de koper geen andere kosten of heffingen in rekening gebracht dan:
 
@@ -12458,19 +12481,19 @@ Indien in de gevallen, genoemd in de [artikelen 1074a tot en met 1074c](https://
 
 ## titel Eerste. Arbitrage in Nederland
 
-#### Artikel 1022a
+##### Artikel 1022a
 
 Een overeenkomst tot arbitrage belet niet dat een partij de gewone rechter verzoekt om een maatregel tot bewaring van recht dan wel zich wendt tot de voorzieningenrechter van de rechtbank of de kantonrechter in kort geding overeenkomstig [artikel 254](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Veertiende&artikel=254&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1022b
+##### Artikel 1022b
 
 Een overeenkomst tot arbitrage belet niet dat een partij de gewone rechter verzoekt om een of meer voorlopige bewijsverrichtingen te bevelen.
 
-#### Artikel 1022c
+##### Artikel 1022c
 
 Indien in de gevallen, genoemd in de [artikelen 1022a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_A&artikel=1022a&z=2026-01-01&g=2026-01-01) en [1022b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_A&artikel=1022b&z=2026-01-01&g=2026-01-01), een partij zich voor alle weren beroept op het bestaan van een overeenkomst tot arbitrage, verklaart de rechter zich uitsluitend bevoegd, indien de gevraagde beslissing niet of niet tijdig in arbitrage kan worden gekregen.
 
-#### Artikel 1035a
+##### Artikel 1035a
 
 Indien het scheidsgerecht zich laat bijstaan door een secretaris, zijn de [artikelen 1033 tot en met 1035](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste_B&artikel=1033&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -12478,19 +12501,19 @@ Indien het scheidsgerecht zich laat bijstaan door een secretaris, zijn de [artik
 
 ### afdeling Eerste B. Het scheidsgerecht
 
-#### Artikel 1061a
+##### Artikel 1061a
 
 Indien de partijen arbitraal hoger beroep zijn overeengekomen, is het bepaalde in deze titel van toepassing voorzover in deze afdeling niet anders is bepaald of de aard van het arbitraal hoger beroep zich daartegen verzet.
 
-#### Artikel 1061b
+##### Artikel 1061b
 
 Arbitraal hoger beroep tegen een arbitraal vonnis is slechts mogelijk indien de partijen daarin bij overeenkomst hebben voorzien. Deze overeenkomst dient te voldoen aan de vereisten van de [artikelen 1020](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste&artikel=1020&z=2026-01-01&g=2026-01-01) en [1021](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste&artikel=1021&z=2026-01-01&g=2026-01-01) alsmede aan de vereisten van de [artikelen 166](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=166) en [167 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=167).
 
-#### Artikel 1061c
+##### Artikel 1061c
 
 Binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, kunnen partijen arbitraal hoger beroep instellen.
 
-#### Artikel 1061d
+##### Artikel 1061d
 
 1. Arbitraal hoger beroep kan worden ingesteld tegen een geheel eindvonnis en een laatste gedeeltelijk eindvonnis.
 
@@ -12498,27 +12521,27 @@ Binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na 
 
 3. Tegen een tussenvonnis, met uitzondering van een vonnis op grond van [artikel 1043b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1043b&z=2026-01-01&g=2026-01-01), kan arbitraal hoger beroep slechts tegelijk met dat van het geheel of gedeeltelijk eindvonnis worden ingesteld, tenzij de partijen anders zijn overeengekomen.
 
-#### Artikel 1061e
+##### Artikel 1061e
 
 Tegen een op de voet van [artikel 1046, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Tweede&artikel=1046&z=2026-01-01&g=2026-01-01), gewezen arbitraal vonnis staat arbitraal hoger beroep open, indien en voorzover alle bij het samengevoegde geding betrokken partijen bij overeenkomst in zodanig hoger beroep hebben voorzien. Deze overeenkomst dient te voldoen aan de vereisten van de [artikelen 1020](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste&artikel=1020&z=2026-01-01&g=2026-01-01) en [1021](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Eerste&artikel=1021&z=2026-01-01&g=2026-01-01) alsmede aan de vereisten van de [artikelen 166](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=166) en [167 van Boek 10 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0030068&artikel=167).
 
-#### Artikel 1061f
+##### Artikel 1061f
 
 1. Ingeval van onbevoegdverklaring door het scheidsgerecht als bedoeld in [artikel 1052, vijfde lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1052&z=2026-01-01&g=2026-01-01), is arbitraal hoger beroep toegelaten.
 
 2. Ingeval van bevoegdverklaring en onbevoegdverklaring door het scheidsgerecht zijn de bepalingen van [artikel 1052, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1052&z=2026-01-01&g=2026-01-01), van toepassing nadat in hoger beroep uitspraak is gedaan, of de voor dit beroep geldende termijn ongebruikt is verstreken dan wel eerder, indien door ieder der partijen schriftelijk van hoger beroep afstand is gedaan, of later, op het moment van voortijdige beëindiging van het hoger beroep.
 
-#### Artikel 1061g
+##### Artikel 1061g
 
 1. De dwangsom als bedoeld in [artikel 1056](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1056&z=2026-01-01&g=2026-01-01) kan ook voor het eerst in arbitraal hoger beroep worden gevorderd.
 
 2. In afwijking van het bepaalde in [artikel 1056](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1056&z=2026-01-01&g=2026-01-01), dient in de gevallen bedoeld in [artikel 611d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Vijfde&afdeling=Derde&artikel=611d&z=2026-01-01&g=2026-01-01) de opheffing, de opschorting of de vermindering van de dwangsom te worden verzocht aan het scheidsgerecht in hoger beroep, indien en voor zolang de opdracht van dat scheidsgerecht voortduurt.
 
-#### Artikel 1061h
+##### Artikel 1061h
 
 Het in eerste aanleg gewezen arbitraal vonnis kan slechts in arbitraal hoger beroep worden aangevuld overeenkomstig [artikel 1061](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1061&z=2026-01-01&g=2026-01-01). Het verzoek daartoe moet binnen de voor het hoger beroep geldende termijn worden gedaan. De partijen kunnen bij overeenkomst van het in dit artikel bepaalde afwijken.
 
-#### Artikel 1061i
+##### Artikel 1061i
 
 1. Tenzij uit de wet of uit de aard van de zaak anders voortvloeit, kan het scheidsgerecht in eerste aanleg, indien dit wordt gevorderd, verklaren dat zijn vonnis uitvoerbaar bij voorraad zal zijn niettegenstaande arbitraal hoger beroep. De uitvoerbaarverklaring bij voorraad kan het gehele vonnis betreffen of een gedeelte daarvan. Het scheidsgerecht kan aan de uitvoerbaarverklaring bij voorraad de voorwaarde verbinden dat tot een door het scheidsgerecht te bepalen bedrag zekerheid wordt gesteld.
 
@@ -12526,17 +12549,17 @@ Het in eerste aanleg gewezen arbitraal vonnis kan slechts in arbitraal hoger ber
 
 3. Indien het vonnis uitvoerbaar bij voorraad is verklaard door het scheidsgerecht in eerste aanleg, evenwel zonder dat daaraan de voorwaarde is verbonden dat zekerheid wordt gesteld, en indien tegen dat vonnis arbitraal hoger beroep is ingesteld, kan een daartoe strekkende vordering worden ingesteld bij het scheidsgerecht in arbitraal hoger beroep. Op deze vordering zal, de wederpartij gehoord, dadelijk worden beslist.
 
-#### Artikel 1061j
+##### Artikel 1061j
 
 In afwijking van het bepaalde in [artikel 1059, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde&artikel=1059&z=2026-01-01&g=2026-01-01), heeft een in eerste aanleg gewezen arbitraal vonnis bindende kracht tussen dezelfde partijen in een ander geding met ingang van de dag waarop de voor het arbitraal hoger beroep geldende termijn ongebruikt is verstreken, of eerder, met ingang van de dag waarop schriftelijk van hoger beroep afstand is gedaan, of later, op het moment van voortijdige beëindiging van het hoger beroep, dan wel met ingang van de dag waarop in hoger beroep uitspraak is gedaan, indien en voorzover het vonnis in eerste aanleg in dat hoger beroep is bevestigd.
 
-#### Artikel 1061k
+##### Artikel 1061k
 
 1. Een in eerste aanleg gewezen arbitraal vonnis dat uitvoerbaar bij voorraad is verklaard, en een arbitraal vonnis dat is gewezen in arbitraal hoger beroep, kan worden tenuitvoergelegd overeenkomstig de bepalingen van de vierde afdeling van deze titel. In aanvulling op [artikel 1063, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vierde&artikel=1063&z=2026-01-01&g=2026-01-01), kan de voorzieningenrechter van de rechtbank tenuitvoerlegging van het arbitraal vonnis ook weigeren, indien in strijd met [artikel 1061i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Derde_A&artikel=1061i&z=2026-01-01&g=2026-01-01) tenuitvoerlegging bij voorraad is bevolen.
 
 2. Een in eerste aanleg gewezen arbitraal vonnis dat niet uitvoerbaar bij voorraad is verklaard kan slechts worden tenuitvoergelegd overeenkomstig de bepalingen van de vierde afdeling van deze titel nadat de voor het arbitraal hoger beroep geldende termijn ongebruikt is verstreken, of indien en voorzover het in hoger beroep is bevestigd, dan wel eerder, indien schriftelijk van hoger beroep afstand is gedaan, dan wel later, op het moment van voortijdige beëindiging van het hoger beroep.
 
-#### Artikel 1061l
+##### Artikel 1061l
 
 1. Tegen een geheel of gedeeltelijk eindvonnis gewezen in arbitraal hoger beroep staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van de [vijfde afdeling](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Vierde&titeldeel=Eerste&afdeling=Vijfde&z=2026-01-01&g=2026-01-01) van deze titel open.
 
@@ -12556,7 +12579,7 @@ In afwijking van het bepaalde in [artikel 1059, derde lid](https://wetten.overhe
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 507b
+##### Artikel 507b
 
 1. Een beslag gelegd op een onroerende zaak nadat de koop van de zaak is ingeschreven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2), op de wijze die is voorgeschreven in [artikel 3 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=3), rust na de levering van de zaak op het deel van de koopprijs dat de notaris ten behoeve van de verkoper onder zich houdt, op voorwaarde dat de levering heeft plaatsgevonden binnen de termijn genoemd in lid 4 van artikel 3 van Boek 7.
 
@@ -12638,7 +12661,7 @@ In afwijking van het bepaalde in [artikel 1059, derde lid](https://wetten.overhe
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 562b
+##### Artikel 562b
 
 Geschillen die in verband met een executie van schepen rijzen, kunnen, behalve voor de in [artikel 438, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Eerste&artikel=438&z=2026-01-01&g=2026-01-01), aangewezen rechtbank, ook worden gebracht voor de rechtbank Rotterdam.
 
@@ -12722,7 +12745,7 @@ Geschillen die in verband met een executie van schepen rijzen, kunnen, behalve v
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 161a
+##### Artikel 161a
 
 Een onherroepelijk besluit houdende een inbreukbeslissing van de Autoriteit Consument en Markt levert onweerlegbaar bewijs op van de vastgestelde inbreuk in een procedure waarin schadevergoeding wordt gevorderd wegens een inbreuk op het mededingingsrecht als bedoeld in [artikel 193k, onderdeel a, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=193k).
 
@@ -12772,13 +12795,13 @@ Een onherroepelijk besluit houdende een inbreukbeslissing van de Autoriteit Cons
 
 ## titel Tiende. Herroeping
 
-#### Artikel 383
+##### Artikel 383
 
 1. Het rechtsmiddel moet worden aangewend binnen drie maanden nadat de grond voor de herroeping is ontstaan en de eiser daarmee bekend is geworden. De termijn vangt niet aan dan nadat het vonnis in kracht van gewijsde is gegaan.
 
 2. Indien de partij die gronden heeft de herroeping te vorderen binnen die termijn is overleden, is [artikel 341](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Zevende&afdeling=Tweede&artikel=341&z=2017-02-10&g=2017-02-10) van overeenkomstige toepassing.
 
-#### Artikel 384
+##### Artikel 384
 
 1. De vordering tot herroeping wordt gebracht voor de rechter die in laatste feitelijke instantie over de zaak heeft geoordeeld.
 
@@ -12786,37 +12809,37 @@ Een onherroepelijk besluit houdende een inbreukbeslissing van de Autoriteit Cons
 
 3. Is in laatste feitelijke instantie beslist door de voorzieningenrechter in kort geding, dan wordt de vordering gebracht voor de rechtbank.
 
-#### Artikel 385
+##### Artikel 385
 
 Het geding wordt ingeleid met een dagvaarding die voldoet aan de eisen van [artikel 111](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2017-02-10&g=2017-02-10) en wordt verder gevoerd op de wijze als in de tweede titel is bepaald.
 
-#### Artikel 386
+##### Artikel 386
 
 De vordering tot herroeping schorst de tenuitvoerlegging van het vonnis niet. De rechter die over de herroeping oordeelt, kan evenwel, desgevorderd, bij voorlopige voorziening de tenuitvoerlegging schorsen.
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2017-02-10&g=2017-02-10), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2017-02-10&g=2017-02-10) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2017-02-10&g=2017-02-10) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de eis of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -12836,7 +12859,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de eis of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -12860,27 +12883,27 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de eis of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2017-02-10&g=2017-02-10), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 Vervallen
 
-#### Artikel 396
+##### Artikel 396
 
 Vervallen
 
-#### Artikel 397
+##### Artikel 397
 
 Vervallen
 
 ## titel Tiende. Herroeping
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen:
 
@@ -12888,21 +12911,21 @@ Partijen kunnen beroep in cassatie instellen:
 
 - 2°. tegen vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
 ### afdeling Eerste A. Vorderingsprocedures aan cassatie onderworpen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -12910,25 +12933,25 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daartegen open tot het moment dat in de hoofdzaak in cassatie de conclusie van antwoord wordt genomen.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld bij een dagvaarding in dezelfde vorm en met dezelfde vereisten als in eerste aanleg, behoudens de volgende leden:
 
@@ -13040,7 +13063,7 @@ Vervallen
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. De rechter kan, indien de vrees bestaat dat kennisneming van stukken door een partij haar lichamelijke of geestelijke gezondheid zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat of arts is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen.
 
@@ -13048,13 +13071,13 @@ Vervallen
 
 3. De rechter kan, indien kennisneming van stukken door een partij de bescherming van een bedrijfsgeheim als bedoeld in [artikel 1 van de Wet bescherming bedrijfsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&artikel=1) onevenredig zou schaden, bepalen dat deze kennisneming is voorbehouden aan een gemachtigde die advocaat is dan wel daarvoor van de rechter bijzondere toestemming heeft gekregen. [Artikel 1019ib, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=15a&artikel=1019ib&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 22b
+##### Artikel 22b
 
 De rechter kan door partijen verschafte gegevens en bescheiden buiten beschouwing laten indien zij op zijn verzoek niet aangeven ter toelichting of staving van welke stelling de gegevens of bescheiden zijn bedoeld en welk onderdeel daartoe van belang is.
 
 ### afdeling Derde A. Algemene voorschriften voor procedures
 
-#### Artikel 30a
+##### Artikel 30a
 
 1. De eiser of verzoeker stelt zijn vordering in of dient zijn verzoek in door middel van een procesinleiding.
 
@@ -13080,7 +13103,7 @@ De rechter kan door partijen verschafte gegevens en bescheiden buiten beschouwin
 
 4. De procesinleiding wordt ondertekend. In zaken waarin partijen niet in persoon kunnen procederen, geschiedt ondertekening door de advocaat.
 
-#### Artikel 30c
+##### Artikel 30c
 
 1. De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de rechter. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in, tenzij de rechter anders bepaalt. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de rechter anders bepaalt.
 
@@ -13098,7 +13121,7 @@ De rechter kan door partijen verschafte gegevens en bescheiden buiten beschouwin
 
 8. Niet-ontvankelijkverklaring wegens het ten onrechte indienen van een procesinleiding op papier of het buiten beschouwing laten van een stuk omdat het ten onrechte op papier of na afloop van een termijn is ingediend, blijft achterwege indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.
 
-#### Artikel 30d
+##### Artikel 30d
 
 1. Als tijdstip waarop een bericht door de rechter langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de gerechten heeft bereikt. Na elke indiening langs elektronische weg ontvangt de indiener een ontvangstbevestiging in het digitale systeem voor gegevensverwerking.
 
@@ -13108,25 +13131,25 @@ De rechter kan door partijen verschafte gegevens en bescheiden buiten beschouwin
 
 4. Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking als bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.
 
-#### Artikel 30e
+##### Artikel 30e
 
 1. Oproepingen door de rechter, processen-verbaal en afschriften van een vonnis of beschikking, alsmede andere berichten tussen het gerecht en partijen worden langs elektronische weg ter beschikking gesteld, tenzij [artikel 30c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30c&z=2023-01-01&g=2023-01-01), van toepassing is.
 
 2. Oproepingen die bij brief geschieden, vermelden de datum van de verzending. Deze vermelding geschiedt niet slechts op de envelop.
 
-#### Artikel 30f
+##### Artikel 30f
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het elektronisch verkeer met de rechter, het digitale systeem voor gegevensverwerking en de verschoonbaarheid van termijnoverschrijdingen wegens verstoring van het digitale systeem voor gegevensverwerking van de gerechten of van de toegang tot dit systeem.
 
-#### Artikel 30g
+##### Artikel 30g
 
 Oproepingen van derden als partij in het geding geschieden met inachtneming van de termijnen die gelden voor de betekening van de procesinleiding bij de belanghebbende of verweerder. Indien de oproeping niet geschiedt bij dezelfde procesinleiding waarmee de belanghebbende of verweerder in de procedure is betrokken, wordt de procesinleiding, waarmee de belanghebbende of verweerder in de procedure is betrokken, met de oproeping bij de derde betekend. [Artikel 111, tweede lid, aanhef en onderdelen a, b, d, e, en g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2023-01-01&g=2023-01-01), [artikel 128, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2023-01-01&g=2023-01-01) en [artikel 276](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Derde&artikel=276&z=2023-01-01&g=2023-01-01) zijn van overeenkomstige toepassing. [Artikel 112](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=112&z=2023-01-01&g=2023-01-01) is niet van toepassing.
 
-#### Artikel 30h
+##### Artikel 30h
 
 Indien de behandeling van een zaak wordt aangehouden, blijft een hernieuwde oproeping van of mededeling aan diegenen, aan wie de dag en het uur reeds mondeling ter zitting waren medegedeeld, achterwege.
 
-#### Artikel 30i
+##### Artikel 30i
 
 1. Iedere verweerder in een vorderingsprocedure en iedere belanghebbende in een verzoekprocedure kan binnen de daarvoor geldende termijn zijn met redenen omkleed verweer schriftelijk bij de rechter indienen.
 
@@ -13146,7 +13169,7 @@ Indien de behandeling van een zaak wordt aangehouden, blijft een hernieuwde opro
 
 9. De eiser of verzoeker en overige verweerders of belanghebbenden kunnen tegen een tegenvordering of tegenverzoek een verweerschrift indienen indien zij elkaars wederpartij zijn. De termijn voor het indienen van dit verweerschrift bedraagt in vorderingsprocedures voor de kantonrechter vier weken, in andere vorderingsprocedures zes weken, tenzij de wet of de rechter anders bepaalt. In verzoekzaken is [artikel 282, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=282&z=2023-01-01&g=2023-01-01), van toepassing. De zaken betreffende de vordering of het verzoek en de tegenvordering of het tegenverzoek worden tegelijk behandeld en bij vonnis of beschikking beslist, tenzij de rechter anders bepaalt.
 
-#### Artikel 30j
+##### Artikel 30j
 
 1. Zo spoedig mogelijk nadat verweerder in de procedure is verschenen als bedoeld in [artikel 114](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=114&z=2023-01-01&g=2023-01-01), dan wel na ontvangst van de procesinleiding in een verzoekprocedure, bepaalt de rechter de dag en het uur waarop de mondelinge behandeling plaatsvindt. Met inachtneming van de dag waarop verweerder ten laatste zijn verweerschrift kan indienen als bedoeld in [artikel 111, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2023-01-01&g=2023-01-01), bedraagt de termijn tussen de uitnodiging van partijen en de mondelinge behandeling ten minste drie weken, tenzij sprake is van een behandeling in kort geding.
 
@@ -13160,7 +13183,7 @@ Indien de behandeling van een zaak wordt aangehouden, blijft een hernieuwde opro
 
 6. De rechter kan met instemming of op verlangen van partijen de mondelinge behandeling achterwege laten en uitspraak doen.
 
-#### Artikel 30k
+##### Artikel 30k
 
 1. Tijdens de mondelinge behandeling stelt de rechter partijen in de gelegenheid hun stellingen toe te lichten en kan de rechter:
 
@@ -13186,19 +13209,19 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 6. Indien met het oog op de mondelinge behandeling een bevel als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=22&z=2023-01-01&g=2023-01-01) wordt gegeven, moeten de stukken uiterlijk op een door de rechter te bepalen dag vóór de datum van de mondelinge behandeling zijn ingediend en aan de wederpartij ter beschikking zijn gesteld.
 
-#### Artikel 30l
+##### Artikel 30l
 
 1. Tijdens de mondelinge behandeling ondervraagt de rechter partijen. Partijen kunnen elkaar vragen stellen, behoudens de bevoegdheid van de rechter om te beletten dat aan een bepaalde vraag gevolg wordt gegeven.
 
 2. Een verklaring omtrent door haar te bewijzen feiten kan in het voordeel van de partij die haar aflegde geen bewijs opleveren. Overigens kan de rechter uit de afgelegde verklaringen, uit een niet-verschijnen op de mondelinge behandeling of uit een weigering om te antwoorden of het proces-verbaal te ondertekenen de gevolgtrekking maken die hij geraden acht, behoudens [artikel 154](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=1&artikel=154&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 30m
+##### Artikel 30m
 
 1. Indien een schikking tot stand komt, eindigt de procedure. Van de zitting waarop een schikking is bereikt, wordt een proces-verbaal opgemaakt, dat door de rechter en partijen of hun tot dat doel bijzonderlijk gevolmachtigden wordt ondertekend en waarin de verbintenissen die partijen ten gevolge van die schikking op zich nemen, worden neergelegd. De uitgifte van dit proces-verbaal geschiedt in executoriale vorm.
 
 2. Indien geen schikking tot stand komt, bepaalt de rechter wat de volgende proceshandeling zal zijn.
 
-#### Artikel 30n
+##### Artikel 30n
 
 1. De rechter maakt van de mondelinge behandeling proces-verbaal op:
 
@@ -13220,7 +13243,7 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 8. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van beeld- en geluidsopnamen.
 
-#### Artikel 30o
+##### Artikel 30o
 
 1. Indien dit met het oog op [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=19&z=2023-01-01&g=2023-01-01) of met het oog op een goede instructie van de zaak noodzakelijk is, kan de rechter op verzoek van een partij toestaan of ambtshalve bepalen dat, in afwijking van of aanvulling op hetgeen in deze afdeling is bepaald:
 
@@ -13234,7 +13257,7 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 2. De rechter bepaalt de termijnen voor proceshandelingen als bedoeld in het eerste lid, onder b, c en d.
 
-#### Artikel 30p
+##### Artikel 30p
 
 1. De rechter kan, indien alle partijen op de mondelinge behandeling zijn verschenen, tijdens of na de mondelinge behandeling ter zitting mondeling uitspraak doen.
 
@@ -13246,7 +13269,7 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 5. De rechter stelt binnen twee weken na de mondelinge uitspraak een afschrift van het proces-verbaal ter beschikking van partijen. Het afschrift dat wordt verstrekt aan een partij die tot tenuitvoerlegging van de uitspraak kan overgaan, is in executoriale vorm opgemaakt.
 
-#### Artikel 30q
+##### Artikel 30q
 
 1. Tenzij mondeling uitspraak wordt gedaan, doet de rechter in kantonzaken binnen vier weken en in andere zaken binnen zes weken na afloop van de mondelinge behandeling of na het verrichten van de laatste proceshandeling schriftelijk uitspraak.
 
@@ -13324,7 +13347,7 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 ### afdeling Tweede. De termijn van beroep in cassatie in vorderingsprocedures en de schorsende kracht daarvan
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -13332,21 +13355,21 @@ voor zover de rechter dit in overeenstemming acht met de eisen van een goede pro
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daarvan open tot het moment dat in de hoofdzaak in cassatie het verweerschrift is ingediend.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 1. De [artikelen 30c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30c&z=2018-10-23&g=2018-10-23), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30h&z=2018-10-23&g=2018-10-23), [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30i&z=2018-10-23&g=2018-10-23), [30p](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30p&z=2018-10-23&g=2018-10-23) en [30q](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30q&z=2018-10-23&g=2018-10-23) zijn niet van toepassing op de procedure in cassatie.
 
@@ -13354,7 +13377,7 @@ Vervallen
 
 ### afdeling Derde. Van de rechtspleging in cassatie in vorderingsprocedures
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door het indienen van een procesinleiding in dezelfde vorm en met dezelfde vereisten als in eerste aanleg, behoudens de volgende leden:
 
@@ -13366,17 +13389,17 @@ Vervallen
 
 5. Op het oproepingsbericht van de griffier is [artikel 111, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2018-10-23&g=2018-10-23), niet van toepassing. In aanvulling op artikel 111, tweede lid, vermeldt het oproepingsbericht wel de gevolgen van niet tijdige betaling van het griffierecht.
 
-#### Artikel 408
+##### Artikel 408
 
 Vervallen
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -13384,23 +13407,23 @@ Vervallen
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
 2. [Artikel 30i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30i&z=2018-10-23&g=2018-10-23), is van toepassing in cassatie. Alleen de in artikel 30i, vijfde lid, bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.
 
-#### Artikel 412
+##### Artikel 412
 
 1. Ingeval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend om het incidentele beroep of de voorgestelde exceptie bij conclusie te beantwoorden.
 
 2. Is het een noch het ander het geval en geeft de Hoge Raad geen toepassing aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a), dan wordt onmiddellijk na het indienen van het verweerschrift de dag van pleidooi bepaald.
 
-#### Artikel 413
+##### Artikel 413
 
 Vervallen
 
-#### Artikel 414
+##### Artikel 414
 
 1. [Artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tiende&paragraaf=6&artikel=224&z=2018-10-23&g=2018-10-23) is van toepassing in cassatie.
 
@@ -13412,27 +13435,27 @@ Vervallen
 
 5. De zekerheidstelling wordt gevorderd vóór alle weren van rechten.
 
-#### Artikel 415
+##### Artikel 415
 
 1. De vordering tot zekerheidstelling en alle andere incidentele vorderingen worden ingesteld bij conclusie.
 
 2. De verweerder in het incident dient tegelijk met de vorderingen als bedoeld in het eerste lid of op een nader door de Hoge Raad te bepalen datum zijn verweerschrift in het incident in, waarop door de Hoge Raad, na partijen, zo zij dit verlangen, en de procureur-generaal bij de Hoge Raad te hebben gehoord, afzonderlijk wordt beslist.
 
-#### Artikel 416
+##### Artikel 416
 
 De aangewezen advocaat blijft de partij vertegenwoordigen totdat hetzij door haar een andere advocaat bij de Hoge Raad is aangewezen bij aan de wederpartij betekend exploit, hetzij de advocaat zelf aan deze laatste bij betekend exploot of ter zitting heeft aangezegd, dat hij zich aan de verdere behandeling der zaak onttrekt.
 
-#### Artikel 417
+##### Artikel 417
 
 De pleidooien kunnen ook worden gehouden door andere dan de volgens de [artikelen 407](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2018-10-23&g=2018-10-23) en [409](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=409&z=2018-10-23&g=2018-10-23) aangewezen advocaten, zonder dat de daaruit ontstaande vermeerdering van kosten in de uitspraak over de kosten begrepen is.
 
-#### Artikel 418
+##### Artikel 418
 
 1. Na de pleidooien neemt de procureur-generaal bij de Hoge Raad conclusie, hetzij onmiddellijk, hetzij op een daartoe te bepalen dag.
 
 2. Tenzij de Hoge Raad dadelijk uitspraak doet, bepaalt hij de dag, waarop dit zal geschieden.
 
-#### Artikel 419
+##### Artikel 419
 
 1. De Hoge Raad bepaalt zich bij zijn onderzoek tot de middelen waarop het beroep in cassatie steunt.
 
@@ -13442,19 +13465,19 @@ De pleidooien kunnen ook worden gehouden door andere dan de volgens de [artikele
 
 4. De Hoge Raad geeft omtrent de kosten van het geding zodanige uitspraak als hij vermeent te behoren.
 
-#### Artikel 420
+##### Artikel 420
 
 Bij vernietiging van de bestreden uitspraak doet de Hoge Raad het geding zelf af, voor zover er niet op de voet van de navolgende bepalingen gronden zijn voor verwijzing.
 
-#### Artikel 421
+##### Artikel 421
 
 Indien na de vernietiging dient te worden beslist over feiten, waaromtrent nog geen uitspraak is gedaan, verwijst de Hoge Raad het geding, tenzij het een punt van ondergeschikte aard betreft, waarover de Hoge Raad op grond van de stukken van het geding een beslissing kan geven.
 
-#### Artikel 422
+##### Artikel 422
 
 Indien na de vernietiging dient te worden beslist over rechtspunten, waaromtrent nog geen uitspraak is gedaan, zal de Hoge Raad naar bevind van omstandigheden daaromtrent een beslissing geven dan wel daartoe het geding verwijzen.
 
-#### Artikel 423
+##### Artikel 423
 
 De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens uitspraak vernietigd is, het verwijzen naar een andere rechter en wel:
 
@@ -13462,17 +13485,17 @@ De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens ui
 
 - 2°. wanneer de vernietigde uitspraak was gewezen door een gerechtshof, naar een ander gerechtshof.
 
-#### Artikel 424
+##### Artikel 424
 
 De rechter, naar wie het geding is verwezen, zet de behandeling daarvan voort en beslist met inachtneming van de uitspraak van de Hoge Raad.
 
-#### Artikel 425
+##### Artikel 425
 
 Er wordt geen verzet toegelaten tegen arresten door de Hoge Raad bij verstek in cassatie gewezen, dan alleen wanneer er gronden waren tot nietigverklaring van de dagvaarding of het beroep was ingesteld na verloop van de wettelijke termijn en mits het verzet geschiedde binnen veertien dagen na de betekening van het arrest.
 
 ### afdeling Vijfde. Van beroep in cassatie tegen beschikkingen op rekest
 
-#### Artikel 426
+##### Artikel 426
 
 1. Tegen beschikkingen op rekest kan beroep in cassatie worden ingesteld door degenen, die in een der vorige instantiën verschenen zijn, binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -13590,7 +13613,7 @@ Er wordt geen verzet toegelaten tegen arresten door de Hoge Raad bij verstek in 
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 475ab
+##### Artikel 475ab
 
 1. In de [artikelen 475a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475a&z=2026-01-01&g=2026-01-01), [475d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475d&z=2026-01-01&g=2026-01-01), [475da](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475da&z=2026-01-01&g=2026-01-01), [475db](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475db&z=2026-01-01&g=2026-01-01), [475dc](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475dc&z=2026-01-01&g=2026-01-01), [475e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475e&z=2026-01-01&g=2026-01-01), [475ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475ga&z=2026-01-01&g=2026-01-01), [475gb](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475gb&z=2026-01-01&g=2026-01-01), [475i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475i&z=2026-01-01&g=2026-01-01) en [478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) wordt verstaan onder:
 
@@ -13618,7 +13641,7 @@ Er wordt geen verzet toegelaten tegen arresten door de Hoge Raad bij verstek in 
 
 2. In de [artikelen 475aa](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475aa&z=2026-01-01&g=2026-01-01), [475g](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475g&z=2026-01-01&g=2026-01-01), [475ga](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475ga&z=2026-01-01&g=2026-01-01) en [475gb](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475gb&z=2026-01-01&g=2026-01-01) wordt onder schuldenaar mede verstaan degene met wie hij in enige gemeenschap van goederen als bedoeld in de eerste afdeling van de [zevende titel van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&titeldeel=7) is gehuwd dan wel op die voorwaarden een geregistreerd partnerschap is aangegaan.
 
-#### Artikel 475da
+##### Artikel 475da
 
 1. De beslagvrije voet bedraagt ten hoogste:
 
@@ -13680,7 +13703,7 @@ Hierbij staat
 
 9. De bedragen, genoemd in het zevende lid, worden jaarlijks met ingang van 1 januari gewijzigd door (I x (F / 12)) en (I x (G / 12)) gelijk te stellen aan de maximale normhuur. Daarbij staan F, G en I voor de normen, bedoeld in het tweede lid, en wordt de maximale normhuur berekend door het bedrag van de kwaliteitskortingsgrens, genoemd in [artikel 20, eerste lid, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=20), te vermeerderen met het in [artikel 21, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=21) bedoelde percentage van het verschil tussen het bedrag van de kwaliteitskortingsgrens en de aftoppingsgrens, genoemd in artikel 20, tweede lid, onderdeel a, van die wet, vermeerderd met het in artikel 21, eerste lid, onderdeel c, van die wet bedoelde percentage van het verschil tussen het bedrag van de aftoppingsgrens en het bedrag van de rekenhuur, genoemd in [artikel 13, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=31). De gewijzigde bedragen worden door of namens Onze Minister van Sociale Zaken en Werkgelegenheid medegedeeld in de Staatscourant.
 
-#### Artikel 475db
+##### Artikel 475db
 
 1. De beslagvrije voet, bedoeld in de [artikelen 475da](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475da&z=2026-01-01&g=2026-01-01) en [475e, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475e&z=2026-01-01&g=2026-01-01), wordt in de onderstaande volgorde verminderd met:
 
@@ -13692,17 +13715,17 @@ Hierbij staat
 
 2. De hoogte van het op basis van het eerste lid, onderdelen a en b, in mindering te brengen bedrag wordt berekend op basis van het meest recente maandinkomen zoals dat blijkt uit de polisadministratie op het moment van beslaglegging, tenzij dit maandinkomen geen reële afspiegeling vormt van het belastbaar inkomen op het moment van beslaglegging omdat het maandinkomen fluctueert of er sprake is van een incidentele betaling. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop de hoogte van het in mindering te brengen bedrag wordt berekend. [Artikel 475d, eerste lid, derde en vierde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475d&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 475dc
+##### Artikel 475dc
 
 1. In afwijking van de [artikelen 475da](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475da&z=2026-01-01&g=2026-01-01) en [475db](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475db&z=2026-01-01&g=2026-01-01) bedraagt de beslagvrije voet 95% van het maandelijkse inkomen inclusief vakantiebijslag dat de geëxecuteerde op basis van zijn vorderingen tot periodieke betaling, genoemd in [artikel 475c, eerste lid, onderdelen a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475c&z=2026-01-01&g=2026-01-01), ontvangt, indien toepassing van de artikelen 475da en 475db leidt tot een beslagvrije voet die hoger is dan 95% van het maandelijkse inkomen inclusief vakantiebijslag.
 
 2. Indien sprake is van beslag op bij algemene maatregel van bestuur aan te wijzen uitkeringen geeft de deurwaarder of, in geval van samenloop van beslagen als bedoeld in [artikel 478](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=478&z=2026-01-01&g=2026-01-01) de coördinerende deurwaarder, bij toepassing van het eerste lid aan de derde-beslagene op dat de beslagvrijevoet 95% bedraagt van de voor de geëxecuteerde geldende bijstandsnorm inclusief vakantiebijslag, verminderd met het inkomen, bedoeld in [artikel 32 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=32).
 
-#### Artikel 475fa
+##### Artikel 475fa
 
 Indien de toepassing van de [artikelen 475da tot en met 475e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Tweede&artikel=475e&z=2026-01-01&g=2026-01-01) leidt tot een kennelijk onevenredige hardheid als gevolg van een omstandigheid waarmee geen rekening is gehouden bij de vaststelling van de beslagvrije voet, kan de kantonrechter op verzoek van de geëxecuteerde de beslagvrije voet voor een door hem te bepalen termijn verhogen.
 
-#### Artikel 475ga
+##### Artikel 475ga
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=5), verstrekt op verzoek van een deurwaarder die gerechtigd is ten laste van een schuldenaar beslag te leggen, ten behoeve van het leggen van dit beslag gegevens die het Uitvoeringsinstituut werknemersverzekeringen ten aanzien van de schuldenaar verwerkt in de polisadministratie, voor zover die noodzakelijk zijn voor het vaststellen van de beslagvrije voet, en de aard van de periodieke inkomsten van de schuldenaar en overige gegevens die door het Uitvoeringsinstituut werknemersverzekeringen in de administratie worden verwerkt, voor zover die vereist zijn voor het vaststellen van de identiteit van degene die periodieke betalingen aan de schuldenaar verricht. Indien de schuldenaar gehuwd is, verstrekt het Uitvoeringsinstituut werknemersverzekeringen op gelijke wijze gegevens met betrekking tot de hoogte van het belastbaar inkomen van de echtgenoot van de schuldenaar.
 
@@ -13710,7 +13733,7 @@ Indien de toepassing van de [artikelen 475da tot en met 475e](https://wetten.ove
 
 3. Bij ministeriële regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden de gegevens, bedoeld in het eerste lid, nader bepaald.
 
-#### Artikel 475gb
+##### Artikel 475gb
 
 De deurwaarder is bevoegd het burgerservicenummer van de schuldenaar en zijn echtgenoot te gebruiken voor zover dit noodzakelijk is voor:
 
@@ -13796,11 +13819,11 @@ De deurwaarder is bevoegd het burgerservicenummer van de schuldenaar en zijn ech
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1019ia
+##### Artikel 1019ia
 
 Deze titel is van toepassing op de gerechtelijke procedures tot bescherming van bedrijfsgeheimen ingevolge de [Wet bescherming bedrijfsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0041459).
 
-#### Artikel 1019ib
+##### Artikel 1019ib
 
 1. Het is aan partijen, hun advocaten of andere vertegenwoordigers, getuigen, deskundigen en andere personen die deelnemen aan gerechtelijke procedures betreffende het onrechtmatig verkrijgen, gebruiken of openbaar maken van een bedrijfsgeheim, of die toegang hebben tot de documenten die deel uitmaken van deze gerechtelijke procedures, verboden bedrijfsgeheimen of vermeende bedrijfsgeheimen te gebruiken of openbaar te maken die de rechter op verzoek van een partij als vertrouwelijk heeft aangemerkt en die hun ter kennis zijn gekomen als gevolg van een dergelijke deelname of toegang.
 
@@ -13824,7 +13847,7 @@ De rechter kan het verbod op verzoek van een der partijen geheel of gedeeltelijk
 
 5. Het aantal personen, bedoeld in het derde lid, onder a en b, is niet groter dan nodig om te voldoen aan het recht van partijen op een doeltreffende voorziening en op een eerlijk proces en omvat ten minste één natuurlijk persoon van elke partij alsmede de advocaten of andere vertegenwoordigers van partijen bij de procedure.
 
-#### Artikel 1019ic
+##### Artikel 1019ic
 
 1. De voorzieningenrechter kan een vordering of verzoek van een houder van een bedrijfsgeheim tot het gelasten van voorlopige maatregelen ter bescherming van bedrijfsgeheimen als bedoeld in [artikel 5, eerste en tweede lid, van de Wet bescherming bedrijfsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&artikel=5) toewijzen onder voorwaarde dat tot een door hem te bepalen bedrag zekerheid wordt gesteld voor schade die door de voorlopige maatregel kan worden geleden door verweerder en derden.
 
@@ -13832,7 +13855,7 @@ De rechter kan het verbod op verzoek van een der partijen geheel of gedeeltelijk
 
 3. Op het treffen van een voorlopige voorziening is [artikel 1019i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=15&artikel=1019i&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
-#### Artikel 1019id
+##### Artikel 1019id
 
 De rechter kan op vordering van degene die is getroffen door een voorlopige maatregel als bedoeld in [artikel 5, eerste of tweede lid, van de Wet bescherming bedrijfsgeheimen](https://wetten.overheid.nl/jci1.3:c:BWBR0041459&artikel=5) gelasten dat degene die om deze maatregel heeft gevraagd de door deze maatregel toegebrachte schade op passende wijze vergoedt:
 
@@ -13842,7 +13865,7 @@ De rechter kan op vordering van degene die is getroffen door een voorlopige maat
 
 - c. indien wordt vastgesteld dat er geen sprake was van het onrechtmatig verkrijgen, gebruiken of openbaar maken van het bedrijfsgeheim of dreiging daarvan.
 
-#### Artikel 1019ie
+##### Artikel 1019ie
 
 1. Voor zover nodig in afwijking van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&z=2026-01-01&g=2026-01-01) en in afwijking van [artikel 194, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), kan de rechter de in het ongelijk gestelde partij desgevorderd veroordelen in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, tenzij de billijkheid zich daartegen verzet.
 
@@ -13870,7 +13893,7 @@ De rechter kan op vordering van degene die is getroffen door een voorlopige maat
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 30r
+##### Artikel 30r
 
 1. Indien de rechtbank Amsterdam of het gerechtshof Amsterdam bevoegd is kennis te nemen van een geschil dat is ontstaan of zal ontstaan naar aanleiding van een bepaalde rechtsbetrekking die ter vrije bepaling van partijen staat en het een internationaal geschil betreft, kunnen partijen die dit uitdrukkelijk zijn overeengekomen bij de internationale handelskamer van die rechtbank («Netherlands Commercial Court») of dat gerechtshof («Netherlands Commercial Court of Appeal») procederen in de Engelse taal. Dit geldt niet voor zaken die tot de bevoegdheid van de kantonrechter behoren. Een overeenkomst als bedoeld in de eerste volzin wordt bewezen door een geschrift. Een geschrift dat een dergelijk beding bevat of dat verwijst naar algemene voorwaarden die een dergelijk beding bevatten, is daarvoor voldoende, mits het specifieke beding door of namens de wederpartij uitdrukkelijk is aanvaard.
 
@@ -13956,21 +13979,21 @@ De rechter kan op vordering van degene die is getroffen door een voorlopige maat
 
 ### afdeling Tweede. De termijn van beroep in cassatie in vorderingsprocedures en de schorsende kracht daarvan
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 1. De [artikelen 30c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30c&z=2023-01-01&g=2023-01-01), [30h](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30h&z=2023-01-01&g=2023-01-01), [30i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30i&z=2023-01-01&g=2023-01-01), [30p](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30p&z=2023-01-01&g=2023-01-01) en [30q](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30q&z=2023-01-01&g=2023-01-01) zijn niet van toepassing op de procedure in cassatie.
 
@@ -13978,7 +14001,7 @@ Vervallen
 
 ### afdeling Derde. Van de rechtspleging in cassatie in vorderingsprocedures
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door het indienen van een procesinleiding in dezelfde vorm en met dezelfde vereisten als in eerste aanleg, behoudens de volgende leden:
 
@@ -13990,17 +14013,17 @@ Vervallen
 
 5. Op het oproepingsbericht van de griffier is [artikel 111, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2023-01-01&g=2023-01-01), niet van toepassing. In aanvulling op artikel 111, tweede lid, vermeldt het oproepingsbericht wel de gevolgen van niet tijdige betaling van het griffierecht.
 
-#### Artikel 408
+##### Artikel 408
 
 Vervallen
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -14008,23 +14031,23 @@ Vervallen
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
 2. [Artikel 30i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde_A&artikel=30i&z=2023-01-01&g=2023-01-01), is van toepassing in cassatie. Alleen de in artikel 30i, vijfde lid, bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.
 
-#### Artikel 412
+##### Artikel 412
 
 1. Ingeval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend voor het verweerschrift om op het incidentele beroep of de voorgestelde exceptie te reageren.
 
 2. Is het een noch het ander het geval en geeft de Hoge Raad geen toepassing aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a), dan wordt onmiddellijk na het indienen van het verweerschrift de dag van pleidooi bepaald.
 
-#### Artikel 413
+##### Artikel 413
 
 Vervallen
 
-#### Artikel 414
+##### Artikel 414
 
 1. [Artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tiende&paragraaf=6&artikel=224&z=2023-01-01&g=2023-01-01) is van toepassing in cassatie.
 
@@ -14036,27 +14059,27 @@ Vervallen
 
 5. De zekerheidstelling wordt gevorderd vóór alle weren van rechten.
 
-#### Artikel 415
+##### Artikel 415
 
 1. De vordering tot zekerheidstelling en alle andere incidentele vorderingen worden ingesteld bij conclusie.
 
 2. De verweerder in het incident dient tegelijk met de vorderingen als bedoeld in het eerste lid of op een nader door de Hoge Raad te bepalen datum zijn verweerschrift in het incident in, waarop door de Hoge Raad, na partijen, zo zij dit verlangen, en de procureur-generaal bij de Hoge Raad te hebben gehoord, afzonderlijk wordt beslist.
 
-#### Artikel 416
+##### Artikel 416
 
 De aangewezen advocaat blijft de partij vertegenwoordigen totdat hetzij door haar een andere advocaat bij de Hoge Raad is aangewezen bij aan de wederpartij betekend exploit, hetzij de advocaat zelf aan deze laatste bij betekend exploot of ter zitting heeft aangezegd, dat hij zich aan de verdere behandeling der zaak onttrekt.
 
-#### Artikel 417
+##### Artikel 417
 
 De pleidooien kunnen ook worden gehouden door andere dan de volgens de [artikelen 407](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2023-01-01&g=2023-01-01) en [409](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=409&z=2023-01-01&g=2023-01-01) aangewezen advocaten, zonder dat de daaruit ontstaande vermeerdering van kosten in de uitspraak over de kosten begrepen is.
 
-#### Artikel 418
+##### Artikel 418
 
 1. Na de pleidooien neemt de procureur-generaal bij de Hoge Raad conclusie, hetzij onmiddellijk, hetzij op een daartoe te bepalen dag.
 
 2. Tenzij de Hoge Raad dadelijk uitspraak doet, bepaalt hij de dag, waarop dit zal geschieden.
 
-#### Artikel 419
+##### Artikel 419
 
 1. De Hoge Raad bepaalt zich bij zijn onderzoek tot de middelen waarop het beroep in cassatie steunt.
 
@@ -14066,19 +14089,19 @@ De pleidooien kunnen ook worden gehouden door andere dan de volgens de [artikele
 
 4. De Hoge Raad geeft omtrent de kosten van het geding zodanige uitspraak als hij vermeent te behoren.
 
-#### Artikel 420
+##### Artikel 420
 
 Bij vernietiging van de bestreden uitspraak doet de Hoge Raad het geding zelf af, voor zover er niet op de voet van de navolgende bepalingen gronden zijn voor verwijzing.
 
-#### Artikel 421
+##### Artikel 421
 
 Indien na de vernietiging dient te worden beslist over feiten, waaromtrent nog geen uitspraak is gedaan, verwijst de Hoge Raad het geding, tenzij het een punt van ondergeschikte aard betreft, waarover de Hoge Raad op grond van de stukken van het geding een beslissing kan geven.
 
-#### Artikel 422
+##### Artikel 422
 
 Indien na de vernietiging dient te worden beslist over rechtspunten, waaromtrent nog geen uitspraak is gedaan, zal de Hoge Raad naar bevind van omstandigheden daaromtrent een beslissing geven dan wel daartoe het geding verwijzen.
 
-#### Artikel 423
+##### Artikel 423
 
 De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens uitspraak vernietigd is, het verwijzen naar een andere rechter en wel:
 
@@ -14086,15 +14109,15 @@ De Hoge Raad kan, in stede van het geding te verwijzen naar de rechter, wiens ui
 
 - 2°. wanneer de vernietigde uitspraak was gewezen door een gerechtshof, naar een ander gerechtshof.
 
-#### Artikel 424
+##### Artikel 424
 
 De rechter, naar wie het geding is verwezen, zet de behandeling daarvan voort en beslist met inachtneming van de uitspraak van de Hoge Raad.
 
-#### Artikel 425
+##### Artikel 425
 
 Tegen arresten door de Hoge Raad bij verstek in cassatie gewezen wordt geen verzet toegelaten.
 
-#### Artikel 426
+##### Artikel 426
 
 1. Van beschikkingen kan beroep in cassatie worden ingesteld door degenen, die in een van de vorige instanties verschenen zijn, binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -14104,7 +14127,7 @@ Tegen arresten door de Hoge Raad bij verstek in cassatie gewezen wordt geen verz
 
 4. De [artikelen 399](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=399&z=2023-01-01&g=2023-01-01), [400](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=400&z=2023-01-01&g=2023-01-01), [401a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=401a&z=2023-01-01&g=2023-01-01), [403](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Tweede&artikel=403&z=2023-01-01&g=2023-01-01) en [404](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Tweede&artikel=404&z=2023-01-01&g=2023-01-01) en de [artikelen 79](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=79) en [80 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80) zijn van overeenkomstige toepassing.
 
-#### Artikel 427
+##### Artikel 427
 
 1. Bij het verweerschrift kan de verweerder, ondanks het verstrijken van de in [artikel 426](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Vijfde&artikel=426&z=2023-01-01&g=2023-01-01) gestelde termijnen en ondanks berusting, van zijn zijde in cassatie komen.
 
@@ -14214,7 +14237,7 @@ Tegen arresten door de Hoge Raad bij verstek in cassatie gewezen wordt geen verz
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1018b
+##### Artikel 1018b
 
 1. Deze titel is van toepassing op procedures betreffende een vordering als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a). Met uitzondering van [artikel 1018c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01), is deze titel niet van toepassing op zaken als bedoeld in [artikel 254](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Veertiende&artikel=254&z=2026-01-01&g=2026-01-01).
 
@@ -14222,7 +14245,7 @@ Tegen arresten door de Hoge Raad bij verstek in cassatie gewezen wordt geen verz
 
 3. [Artikel 93](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tweede&artikel=93&z=2026-01-01&g=2026-01-01) is niet van toepassing.
 
-#### Artikel 1018c
+##### Artikel 1018c
 
 1. Onverminderd [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01), vermeldt de dagvaarding waarmee de collectieve vordering bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) wordt ingesteld:
 
@@ -14256,7 +14279,7 @@ In afwijking van [artikel 128, derde lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 6. Indien een collectieve vordering voor dezelfde gebeurtenis of gebeurtenissen wordt ingesteld na het aanhangig worden van de collectieve vordering bedoeld in het eerste lid maar voordat de termijn bedoeld in [artikel 1018d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018d&z=2026-01-01&g=2026-01-01) is aangevangen, wordt de zaak, zo nodig na verwijzing, gevoegd met de reeds aanhangige collectieve vordering als bedoeld in het tweede lid, onder a.
 
-#### Artikel 1018d
+##### Artikel 1018d
 
 1. Binnen drie maanden na de aantekening in het register als bedoeld in [artikel 1018c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01), kan een rechtspersoon als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) een collectieve vordering instellen voor dezelfde gebeurtenis of gebeurtenissen als waarop de collectieve vordering bedoeld in artikel 1018c, eerste lid, betrekking heeft, over gelijksoortige feitelijke en rechtsvragen, onder vermelding van de aantekening. De collectieve vordering wordt ingesteld bij dezelfde rechtbank als waar de eerder in het register aangetekende collectieve vordering is ingesteld. Artikel 1018c, eerste lid, is van toepassing.
 
@@ -14264,7 +14287,7 @@ In afwijking van [artikel 128, derde lid](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Voor de toepassing van het [eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&z=2026-01-01&g=2026-01-01) worden de overeenkomstig dit artikel ingestelde collectieve vorderingen na inschrijving op de rol gezamenlijk behandeld als een zaak. De in de dagvaarding vermelde roldatum ligt vier weken na het verstrijken van de termijn op grond van het eerste en tweede lid.
 
-#### Artikel 1018e
+##### Artikel 1018e
 
 1. De rechter wijst uit de eisers die overeenkomstig [artikel 1018c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01) of [1018d](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018d&z=2026-01-01&g=2026-01-01) een collectieve vordering hebben ingesteld en voldoen aan de eisen voor ontvankelijkheid van [artikel 305a, eerste tot en met derde lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a), de meest geschikte eiser aan als exclusieve belangenbehartiger, waarbij hij de volgende omstandigheden in aanmerking neemt:
 
@@ -14286,7 +14309,7 @@ Tegen deze uitspraak staat geen rechtsmiddel open.
 
 5. De uitspraak ingevolge dit artikel wordt door de exclusieve belangenbehartiger aangetekend in het in [artikel 1018c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01), bedoelde register.
 
-#### Artikel 1018f
+##### Artikel 1018f
 
 1. De procedure over een collectieve vordering heeft geen gevolg voor en leidt niet tot gebondenheid van personen behorend tot de nauw omschreven groep personen wier belangen in deze collectieve vordering worden behartigd indien zij binnen een door de rechter te bepalen termijn van ten minste een maand na de in het derde lid bedoelde aankondiging van de uitspraak, bedoeld in [artikel 1018e, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018e&z=2026-01-01&g=2026-01-01), door een schriftelijke mededeling aan de griffie hebben laten weten zich van de behartiging van hun belangen in deze collectieve vordering te willen bevrijden. Een eerdere collectieve stuiting van de verjaring van de vordering stuit de verjaring slechts ten aanzien van deze personen indien zij binnen zes maanden, nadat zij zich ingevolge dit artikel van de behartiging van hun belangen in de collectieve vordering hebben bevrijd, een individuele stuitingshandeling voor deze vordering verrichten. Is het aantal personen, dat zich ingevolge dit artikel van de behartiging van hun belangen in de collectieve vordering heeft bevrijd, te groot om de voortzetting van de procedure te rechtvaardigen, dan kan de rechter beslissen dat deze niet wordt voortgezet.
 
@@ -14300,11 +14323,11 @@ Tegen deze uitspraak staat geen rechtsmiddel open.
 
 6. Op personen behorend tot de nauw omschreven groep personen wier belangen in deze collectieve vordering worden behartigd ter bescherming van een belang als bedoeld in artikel 2, eerste lid, van [Richtlijn (EU) 2020/1828](32020L1828) van het Europees Parlement en de Raad van 25 november 2020 betreffende representatieve vorderingen ter bescherming van de collectieve belangen van consumenten en tot intrekking van [Richtlijn 2009/22/EG](32009L0022) (PbEU 2020, L 409) en die geen woonplaats of verblijf in Nederland hebben, is de laatste zin van het vijfde lid niet van toepassing. Voor deze personen heeft de procedure over de collectieve vordering alleen gevolg en leidt deze tot gebondenheid, indien zij naast de schriftelijke mededeling, bedoeld in het vijfde lid, door een schriftelijke mededeling aan de griffie ook hebben laten weten dat hun belangen niet worden behartigd in een collectieve vordering of individuele vordering, gebaseerd op soortgelijke feitelijke en rechtsvragen voor dezelfde gebeurtenis of gebeurtenissen en tegen dezelfde verweerder in een andere lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 1018g
+##### Artikel 1018g
 
 Na aanwijzing van een exclusieve belangenbehartiger als bedoeld in [artikel 1018e](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018e&z=2026-01-01&g=2026-01-01) stelt de rechter een termijn voor het beproeven van een overeenkomst die in elk geval het in [artikel 907, tweede lid, onderdelen a tot en met f, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907) bepaalde bevat en, indien geen overeenkomst als in deze bepaling bedoeld wordt bereikt, voor het aanvullen van de gronden van de vordering en het verweer voor zover de gedaagde gebruik heeft gemaakt van zijn bevoegdheid bedoeld in [artikel 1018c, vijfde lid, laatste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1018h
+##### Artikel 1018h
 
 1. Indien partijen een vaststellingsovereenkomst als bedoeld in [artikel 907, tweede lid van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907) sluiten, wordt deze ter goedkeuring aan de rechter voorgelegd.
 
@@ -14318,7 +14341,7 @@ Na aanwijzing van een exclusieve belangenbehartiger als bedoeld in [artikel 1018
 
 6. Uitsluitend tegen de weigering van de goedkeuring staat beroep in cassatie open, dat uitsluitend door partijen gezamenlijk kan worden ingesteld. [Artikel 1018, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14&artikel=1018&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 1018i
+##### Artikel 1018i
 
 1. Betreft de collectieve vordering een vordering tot schadevergoeding in geld, dan kan de rechter alvorens een collectieve schadeafwikkeling vast te stellen, de overlegging door de exclusieve belangenbehartiger en de gedaagde bevelen van een voorstel voor een collectieve schadeafwikkeling. Dit voorstel bevat in ieder geval het in [artikel 907, tweede lid, onderdelen a tot en met f, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907) bepaalde voor:
 
@@ -14332,25 +14355,25 @@ De rechter bepaalt de termijn waarbinnen partijen een voorstel dienen over te le
 
 3. Alvorens een in het tweede lid bedoelde collectieve schadeafwikkeling vast te stellen, kan de rechter bevelen dat één of meer deskundigen zullen berichten over de voor de inhoud van de collectieve schadeafwikkeling van belang zijnde punten.
 
-#### Artikel 1018j
+##### Artikel 1018j
 
 1. Bij gewone brief wordt aan de bekende personen ten behoeve van wie de collectieve schadeafwikkeling is vastgesteld of is geweigerd, zo spoedig mogelijk mededeling gedaan van de uitspraak waarbij deze is vastgesteld of is geweigerd, tenzij de rechter anders bepaalt. Bovendien wordt van de uitspraak zo spoedig mogelijk aankondiging gedaan in één of meer door de rechter aan te wijzen nieuwsbladen. Als de rechter een collectieve schadeafwikkeling heeft vastgesteld, wordt telkens op een door de rechter aan te geven wijze melding gemaakt van een korte omschrijving van de collectieve schadeafwikkeling, in het bijzonder de wijze waarop vergoeding van de gedaagde kan worden verkregen of anderszins een beroep op de collectieve schadeafwikkeling kan worden gedaan en, indien de collectieve schadeafwikkeling dat bepaalt, de termijn waarbinnen daarop aanspraak dient te worden gemaakt. Tevens wordt vermeld op welke wijze inzage en afschrift kan worden verkregen van de uitspraak waarbij de collectieve schadeafwikkeling is vastgesteld. De rechter kan bevelen dat ook van andere dan de in dit lid genoemde gegevens melding wordt gemaakt. Tenzij de rechter anders bepaalt, draagt de gedaagde zorg voor de in dit lid bedoelde melding en aankondiging. De rechter kan gelasten dat de in dit lid bedoelde gegevens ook op andere wijze bekend worden gemaakt. Voor personen die geen woonplaats of verblijf in Nederland hebben en voor wie een voor Nederland bindende internationale of Unie-regeling niet een wijze van aankondiging voorschrijft, gelast de rechter aankondiging op een door hem te bepalen wijze ten behoeve van deze personen, zo nodig in één of meer andere talen dan de Nederlandse taal.
 
 2. De exclusieve belangenbehartiger draagt zorg voor aankondiging van de uitspraak waarbij de collectieve schadeafwikkeling is vastgesteld of is geweigerd op de internetpagina als bedoeld in het [tweede lid, onder d, van artikel 305a van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305a) en voor plaatsing in het in [artikel 1018c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018c&z=2026-01-01&g=2026-01-01), bedoelde register.
 
-#### Artikel 1018k
+##### Artikel 1018k
 
 1. Zodra een uitspraak ingevolge deze titel onherroepelijk is geworden, is deze voor ieder der partijen en voor de in [artikel 1018i, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018i&z=2026-01-01&g=2026-01-01), bedoelde personen, verbindend. Tenzij de uitspraak uitvoerbaar bij voorraad is verklaard, kunnen deze personen vanaf het tijdstip waarop de uitspraak onherroepelijk is geworden aanspraak maken op een vergoeding op de wijze en onder de voorwaarden vermeld in de uitspraak waarbij een collectieve schadeafwikkeling is vastgesteld.
 
 2. Voor een persoon als bedoeld in [artikel 1018i, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018i&z=2026-01-01&g=2026-01-01), die bij de in [artikel 1018f, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018f&z=2026-01-01&g=2026-01-01), bedoelde aankondiging niet met zijn schade bekend kon zijn, heeft een uitspraak ingevolge deze titel geen gevolg indien hij na het bekend worden van zijn schade door een schriftelijke mededeling aan de gedaagde of, indien een collectieve schadeafwikkeling is vastgesteld, aan de in [artikel 907, tweede lid, onder g, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=907), bedoelde persoon, heeft laten weten niet gebonden te willen zijn. De gedaagde kan een persoon als bedoeld in het eerste lid schriftelijk een termijn van ten minste zes maanden stellen waarbinnen deze kan laten weten niet gebonden te willen zijn. Bij een uitspraak ingevolge deze titel waarbij een collectieve schadeafwikkeling is vastgesteld overeenkomstig artikel 1018i moet de gedaagde daarbij ook mededeling doen van de persoon bedoeld in artikel 907, tweede lid, onder g.
 
-#### Artikel 1018l
+##### Artikel 1018l
 
 1. Indien summierlijk van de ondeugdelijkheid van de vordering is gebleken, kan de rechter in zijn uitspraak voor de toepassing van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&z=2026-01-01&g=2026-01-01) de salarissen van de advocaat van de wederpartij ten laste van de in het ongelijk gestelde partij maximaal vervijfvoudigen, tenzij de billijkheid zich daartegen verzet.
 
 2. Een uitspraak ingevolge [artikel 1018i](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018i&z=2026-01-01&g=2026-01-01) houdt tevens een veroordeling in de kosten in waarbij de rechter voor zover nodig in afwijking van de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste Boek](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=2&z=2026-01-01&g=2026-01-01) de in het ongelijk gestelde partij desgevorderd kan veroordelen in redelijke en evenredige gerechtskosten en andere kosten die de in het gelijk gestelde partij heeft gemaakt, tenzij de billijkheid zich daartegen verzet.
 
-#### Artikel 1018m
+##### Artikel 1018m
 
 1. Procedures tussen degene of degenen tegen wie de collectieve vordering ingevolge deze titel zich richt, en een persoon tot bescherming van wier belangen de procedure over de collectieve vordering wordt gevoerd en die zich overeenkomstig [artikel 1018f](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Derde&titeldeel=14a&artikel=1018f&z=2026-01-01&g=2026-01-01) aan de behartiging van hun belangen in de procedure en de uitspraak heeft bevrijd, kunnen op verzoek van de meest gerede partij worden geschorst indien de procedure betrekking heeft op gelijksoortige feitelijke en rechtsvragen voor dezelfde gebeurtenis of gebeurtenissen, ook indien reeds de dag is bepaald waarop het vonnis, het arrest of de beschikking zal worden uitgesproken.
 
@@ -14382,7 +14405,7 @@ De rechter bepaalt de termijn waarbinnen partijen een voorstel dienen over te le
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 442
+##### Artikel 442
 
 1. In afwijking van [artikel 440](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Tweede&titeldeel=Tweede&afdeling=Eerste&artikel=440&z=2026-01-01&g=2026-01-01), kan beslag op een in het kentekenregister geregistreerd motorrijtuig of aanhangwagen geschieden bij een proces-verbaal van een deurwaarder dat, behalve de gewone formaliteiten, op straffe van nietigheid inhoudt:
 
@@ -14404,7 +14427,7 @@ De rechter bepaalt de termijn waarbinnen partijen een voorstel dienen over te le
 
 ### Eerste afdeling B. Van executoriaal beslag op aandelen op naam in naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid
 
-#### Artikel 475aa
+##### Artikel 475aa
 
 Indien de deurwaarder gerechtigd is tegen de schuldenaar beslag te leggen, is:
 
@@ -14504,7 +14527,7 @@ aan een bank te vragen of de schuldenaar bij de bank een betaal- of spaarrekenin
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 1018n
+##### Artikel 1018n
 
 1. Op een rechtsvordering als bedoeld in [artikel 305c, eerste lid, van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=305c) is deze titel van overeenkomstige toepassing.
 
@@ -14528,7 +14551,7 @@ aan een bank te vragen of de schuldenaar bij de bank een betaal- of spaarrekenin
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. De rechter kan, indien alle partijen op de mondelinge behandeling zijn verschenen, tijdens of na de mondelinge behandeling ter zitting mondeling uitspraak doen.
 
@@ -14542,7 +14565,7 @@ aan een bank te vragen of de schuldenaar bij de bank een betaal- of spaarrekenin
 
 6. Wordt mondeling uitspraak gedaan op grond van het vijfde lid, dan stelt de rechter zo nodig een verkort vonnis of verkorte beschikking in executoriale vorm op. In ieder geval wordt zo spoedig mogelijk, maar in ieder geval binnen twee weken na de mondelinge uitspraak, met inachtneming van de eisen opgenomen in de [artikelen 230](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Twaalfde&paragraaf=1&artikel=230&z=2026-01-01&g=2026-01-01) en [287](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Derde&afdeling=Vierde&artikel=287&z=2026-01-01&g=2026-01-01), een volledige schriftelijke uitwerking van de mondelinge uitspraak ter beschikking van partijen gesteld. De schriftelijke uitwerking vermeldt de datum van de mondelinge uitspraak alsmede de datum van vaststelling van de schriftelijke uitwerking van die uitspraak. Is geen verkort vonnis of verkorte beschikking in executoriale vorm opgemaakt, dan is de volledige schriftelijke uitwerking van de mondelinge uitspraak in executoriale vorm opgemaakt.
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. Indien de rechtbank Amsterdam of het gerechtshof Amsterdam bevoegd is kennis te nemen van een geschil dat is ontstaan of zal ontstaan naar aanleiding van een bepaalde rechtsbetrekking die ter vrije bepaling van partijen staat en het een internationaal geschil betreft, kunnen partijen die dit uitdrukkelijk zijn overeengekomen bij de internationale handelskamer van die rechtbank («Netherlands Commercial Court») of dat gerechtshof («Netherlands Commercial Court of Appeal») procederen in de Engelse taal. Dit geldt niet voor zaken die tot de bevoegdheid van de kantonrechter behoren. Een overeenkomst als bedoeld in de eerste volzin wordt bewezen door een geschrift. Een geschrift dat een dergelijk beding bevat of dat verwijst naar algemene voorwaarden die een dergelijk beding bevatten, is daarvoor voldoende, mits het specifieke beding door of namens de wederpartij uitdrukkelijk is aanvaard.
 
@@ -14598,31 +14621,31 @@ aan een bank te vragen of de schuldenaar bij de bank een betaal- of spaarrekenin
 
 ### afdeling Vierde. Hoger beroep tegen beschikkingen
 
-#### Artikel 387
+##### Artikel 387
 
 De rechter die de voor herroeping aangevoerde grond of gronden juist bevindt, heropent het geding geheel of gedeeltelijk. Hij geeft partijen gelegenheid hun stellingen en verweren te wijzigen en aan te vullen.
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2024-07-01&g=2024-07-01), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2024-07-01&g=2024-07-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
 ## titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de vordering of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -14642,7 +14665,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de vordering of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -14666,25 +14689,25 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de vordering of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2024-07-01&g=2024-07-01), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2024-07-01&g=2024-07-01) is in een procedure inzake prejudiciële vragen geen mondelinge uitspraak mogelijk.
 
 ## titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 
-#### Artikel 396
+##### Artikel 396
 
 1. Als beroep in cassatie wordt ingesteld in een dagvaardingsprocedure wordt deze procedure in cassatie aangeduid als een vorderingsprocedure en wordt het beroep ingeleid met een procesinleiding en een oproepingsbericht.
 
 2. Als beroep in cassatie wordt ingesteld in een verzoekschriftprocedure wordt deze procedure in cassatie aangeduid als een verzoekprocedure en wordt het beroep ingeleid met een procesinleiding.
 
-#### Artikel 397
+##### Artikel 397
 
 1. De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de Hoge Raad. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de Hoge Raad anders bepaalt.
 
@@ -14694,7 +14717,7 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 4. Indien niet is voldaan aan de verplichtingen die voortvloeien uit dit artikel of een algemene maatregel van bestuur als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=33&z=2024-07-01&g=2024-07-01), stelt de Hoge Raad de desbetreffende partij in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de eiser of verzoeker van deze gelegenheid geen gebruik, dan verklaart de Hoge Raad eiser of verzoeker niet ontvankelijk in zijn beroep in cassatie dan wel kan de Hoge Raad het stuk buiten beschouwing laten.
 
-#### Artikel 397a
+##### Artikel 397a
 
 1. Als tijdstip waarop een bericht door de Hoge Raad langs elektronische weg is ontvangen, geldt het tijdstip waarop het bericht het digitale systeem voor gegevensverwerking van de Hoge Raad heeft bereikt. Na elke indiening langs elektronische weg ontvangt de indiener een ontvangstbevestiging in het digitale systeem voor gegevensverwerking.
 
@@ -14704,13 +14727,13 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 4. Indien een partij of andere betrokkene bij de procedure afziet van digitale bereikbaarheid buiten het digitale systeem voor gegevensverwerking bedoeld in het eerste lid, zodat de kennisgeving bedoeld in het tweede en derde lid niet kan worden gezonden, geldt als tijdstip waarop een bericht als bedoeld in deze leden door hem is ontvangen, het tijdstip waarop het bericht voor hem toegankelijk is geworden in het digitale systeem voor gegevensverwerking.
 
-#### Artikel 397b
+##### Artikel 397b
 
 1. Oproepingen door de Hoge Raad, processen-verbaal en afschriften van een arrest of beschikking, alsmede andere berichten van of aan de Hoge Raad en partijen worden langs elektronische weg ter beschikking gesteld.
 
 2. Oproepingen bij brief vermelden de datum van de verzending. Deze vermelding geschiedt niet slechts op de envelop.
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen van:
 
@@ -14718,19 +14741,19 @@ Partijen kunnen beroep in cassatie instellen van:
 
 - 2°. vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep in cassatie staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep in cassatie staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -14738,25 +14761,25 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daarvan open tot het moment dat in de hoofdzaak in cassatie het verweerschrift is ingediend.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door een procesinleiding, die wordt getekend door een advocaat bij de Hoge Raad en wordt ingediend op de wijze bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=397&z=2024-07-01&g=2024-07-01).
 
@@ -14774,13 +14797,13 @@ Vervallen
 
 4. De eiser wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij de procesinleiding een andere gekozen woonplaats in Nederland uitdrukt.
 
-#### Artikel 407a
+##### Artikel 407a
 
 1. De griffier stuurt de eiser een oproepingsbericht na ontvangst van de procesinleiding.
 
 2. In het oproepingsbericht neemt de griffier de inhoud en de datum van indiening van de procesinleiding op, alsmede de gegevens bedoeld in de onderdelen h, j, k en l van [artikel 111, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=111&z=2026-01-01&g=2026-01-01). De griffier vermeldt daarnaast de rechtsgevolgen die intreden indien de verweerder het door zijn verschijning verschuldigde griffierecht niet tijdig voldoet en de dag waarop de verweerder ten laatste zijn verweerschrift kan indienen.
 
-#### Artikel 407b
+##### Artikel 407b
 
 1. Het oproepingsbericht bedoeld in [artikel 407a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407a&z=2026-01-01&g=2026-01-01) wordt aan de verweerder bij exploot betekend of door eiser op andere wijze bezorgd, binnen twee weken na de dag van indiening van de procesinleiding, tenzij de wet anders bepaalt. Het exploot van betekening van het oproepingsbericht wordt door de eiser ingediend uiterlijk op de dag, voorafgaande aan de dag waarop de verweerder ten laatste kan verschijnen. Is de verweerder eerder verschenen, dan kan de eiser de indiening van het exploot van betekening achterwege laten.
 
@@ -14788,7 +14811,7 @@ Vervallen
 
 3. Indien eiser de oproeping bij exploot bedoeld in het tweede lid achterwege laat, wordt hij niet-ontvankelijk verklaard in zijn beroep in cassatie.
 
-#### Artikel 407c
+##### Artikel 407c
 
 1. In afwijking van [artikel 407, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2026-01-01&g=2026-01-01), bedraagt de termijn om te verschijnen:
 
@@ -14798,17 +14821,17 @@ Vervallen
 
 2. [Artikel 116](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vierde&artikel=116&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat de termijn om te verschijnen ten minste zes weken bedraagt.
 
-#### Artikel 408
+##### Artikel 408
 
 Het geding is aanhangig met ingang van de dag waarop de procesinleiding is ingediend als bedoeld in [artikel 407, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2024-07-01&g=2024-07-01).
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -14816,7 +14839,7 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
@@ -14854,7 +14877,7 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 802a
+##### Artikel 802a
 
 In alle zaken betreffende een verzoek tot verlening van een machtiging als bedoeld in [paragraaf 6.1 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&paragraaf=6.1), een verzoek op grond van [Afdeling 4 van Titel 14 van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&afdeling=4) of betreffende een voorziening in het gezag als bedoeld in [artikel 241 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=241) kan de rechter bepalen dat de zitting wordt gehouden in de gesloten accommodatie, bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), waarin de jeugdige verblijft.
 
@@ -14884,7 +14907,7 @@ In alle zaken betreffende een verzoek tot verlening van een machtiging als bedoe
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 277a
+##### Artikel 277a
 
 Een vreemde staat in de zin van artikel 2, eerste lid, onder b, van het te New York gesloten Verdrag van de Verenigde Naties inzake de immuniteit van rechtsmacht van Staten en hun eigendommen van 2 december 2004, (**Trb.** 2010, 272), wordt opgeroepen bij exploot waarbij het verzoekschrift wordt betekend overeenkomstig artikel 22, eerste en derde lid, van het Verdrag.
 
@@ -14900,27 +14923,27 @@ Een vreemde staat in de zin van artikel 2, eerste lid, onder b, van het te New Y
 
 ### afdeling Vierde. Hoger beroep tegen beschikkingen
 
-#### Artikel 388
+##### Artikel 388
 
 1. Het vonnis waarbij het geding is heropend, schorst de tenuitvoerlegging van het bestreden vonnis in zoverre.
 
 2. De beslissing inzake de heropening van het geding is niet vatbaar voor hoger beroep. Een vordering tot herroeping kan daartegen evenmin worden ingesteld.
 
-#### Artikel 389
+##### Artikel 389
 
 Indien de rechter met betrekking tot het geding voor zover het is heropend, tot een ander oordeel komt, doet hij daarin opnieuw uitspraak met herroeping in zoverre van het bestreden vonnis.
 
-#### Artikel 390
+##### Artikel 390
 
 Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belanghebbende worden herroepen op de gronden genoemd in [artikel 382](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2024-11-08&g=2024-11-08), tenzij de aard van de beschikking zich daartegen verzet.
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2024-11-08&g=2024-11-08) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2024-11-08&g=2024-11-08) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
 ## titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de vordering of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -14940,7 +14963,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de vordering of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -14964,25 +14987,25 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de vordering of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2024-11-08&g=2024-11-08), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2024-11-08&g=2024-11-08) is in een procedure inzake prejudiciële vragen geen mondelinge uitspraak mogelijk.
 
 ## titel Elfde. Cassatie
 
-#### Artikel 396
+##### Artikel 396
 
 1. Als beroep in cassatie wordt ingesteld in een dagvaardingsprocedure wordt deze procedure in cassatie aangeduid als een vorderingsprocedure en wordt het beroep ingeleid met een procesinleiding en een oproepingsbericht.
 
 2. Als beroep in cassatie wordt ingesteld in een verzoekschriftprocedure wordt deze procedure in cassatie aangeduid als een verzoekprocedure en wordt het beroep ingeleid met een procesinleiding.
 
-#### Artikel 397
+##### Artikel 397
 
 1. De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de Hoge Raad. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de Hoge Raad anders bepaalt.
 
@@ -14992,7 +15015,7 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 4. Indien niet is voldaan aan de verplichtingen die voortvloeien uit dit artikel of een algemene maatregel van bestuur als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=33&z=2024-11-08&g=2024-11-08), stelt de Hoge Raad de desbetreffende partij in de gelegenheid dit verzuim te herstellen binnen een door hem te bepalen termijn. Maakt de eiser of verzoeker van deze gelegenheid geen gebruik, dan verklaart de Hoge Raad eiser of verzoeker niet ontvankelijk in zijn beroep in cassatie dan wel kan de Hoge Raad het stuk buiten beschouwing laten.
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen van:
 
@@ -15000,19 +15023,19 @@ Partijen kunnen beroep in cassatie instellen van:
 
 - 2°. vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep in cassatie staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep in cassatie staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -15020,25 +15043,25 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daarvan open tot het moment dat in de hoofdzaak in cassatie het verweerschrift is ingediend.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door een procesinleiding, die wordt getekend door een advocaat bij de Hoge Raad en wordt ingediend op de wijze bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=397&z=2024-11-08&g=2024-11-08).
 
@@ -15056,17 +15079,17 @@ Vervallen
 
 4. De eiser wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij de procesinleiding een andere gekozen woonplaats in Nederland uitdrukt.
 
-#### Artikel 408
+##### Artikel 408
 
 Het geding is aanhangig met ingang van de dag waarop de procesinleiding is ingediend als bedoeld in [artikel 407, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2024-11-08&g=2024-11-08).
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -15074,13 +15097,13 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
 2. De verweerder brengt alle excepties en zijn verweer ten principale tegelijk naar voren, op straffe van verval van niet aangevoerde excepties en, indien niet ten principale verweer is gevoerd, van het recht om dat alsnog te doen. Alleen de in [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2024-11-08&g=2024-11-08), bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.
 
-#### Artikel 412
+##### Artikel 412
 
 1. Ingeval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend voor het verweerschrift om op het incidentele beroep of de voorgestelde exceptie te reageren.
 
@@ -15158,7 +15181,7 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 ## Titel 14. Van rechtspleging in zaken betreffende de verbindendverklaring van overeenkomsten strekkende tot collectieve schadeafwikkeling
 
-#### Artikel 1018o
+##### Artikel 1018o
 
 Op een rechtsvordering als bedoeld in artikel 14, eerste lid, van [Verordening (EU) 2019/1150](32019R1150) van het Europees Parlement en de Raad van 20 juni 2019 ter bevordering van billijkheid en transparantie voor zakelijke gebruikers van onlinetussenhandelsdiensten (PbEU 2019, L 186) is deze titel van overeenkomstige toepassing.
 
@@ -15176,7 +15199,7 @@ Op een rechtsvordering als bedoeld in artikel 14, eerste lid, van [Verordening (
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 29b
+##### Artikel 29b
 
 1. De griffiers en andere bewaarders van openbare registers verstrekken, zonder rechterlijk bevel, tegen betaling van het daarvoor verschuldigde griffierecht, afschrift of uittreksel uit die registers aan eenieder die daarom verzoekt.
 
@@ -15204,7 +15227,7 @@ Op een rechtsvordering als bedoeld in artikel 14, eerste lid, van [Verordening (
 
 #### § 4. Getuigen
 
-#### Artikel 195a
+##### Artikel 195a
 
 1. Als degene die over bepaalde gegevens beschikt, geen partij is bij de rechtsbetrekking waarop deze gegevens betrekking hebben, kan de rechter op verzoek van de partij die daar ingevolge [artikel 194, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=194&z=2026-01-01&g=2026-01-01), recht op heeft, deze derde veroordelen tot het verstrekken van inzage, afschrift of uittreksel van die gegevens. De artikelen 194, eerste lid, tweede volzin, tweede, derde en vierde lid, en [artikel 195](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Negende&paragraaf=7&artikel=195&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing.
 
@@ -15234,13 +15257,13 @@ Op een rechtsvordering als bedoeld in artikel 14, eerste lid, van [Verordening (
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 391
+##### Artikel 391
 
 De [artikelen 382 tot en met 384](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=382&z=2025-01-01&g=2025-01-01) en [386 tot en met 389](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende&afdeling=Eerste&artikel=386&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.
 
 ## titel Tiende A. Prejudiciële vragen aan de Hoge Raad
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de vordering of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -15260,7 +15283,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de vordering of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -15284,13 +15307,13 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de vordering of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2025-01-01&g=2025-01-01), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2025-01-01&g=2025-01-01) is in een procedure inzake prejudiciële vragen geen mondelinge uitspraak mogelijk.
 
@@ -15298,13 +15321,13 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 ### afdeling Eerste. Algemeen
 
-#### Artikel 396
+##### Artikel 396
 
 1. Als beroep in cassatie wordt ingesteld in een dagvaardingsprocedure wordt deze procedure in cassatie aangeduid als een vorderingsprocedure en wordt het beroep ingeleid met een procesinleiding en een oproepingsbericht.
 
 2. Als beroep in cassatie wordt ingesteld in een verzoekschriftprocedure wordt deze procedure in cassatie aangeduid als een verzoekprocedure en wordt het beroep ingeleid met een procesinleiding.
 
-#### Artikel 397
+##### Artikel 397
 
 1. De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de Hoge Raad. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de Hoge Raad anders bepaalt.
 
@@ -15316,7 +15339,7 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 ### afdeling Eerste A. Vorderingsprocedures aan cassatie onderworpen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen van:
 
@@ -15324,19 +15347,19 @@ Partijen kunnen beroep in cassatie instellen van:
 
 - 2°. vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep in cassatie staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep in cassatie staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -15344,25 +15367,25 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daarvan open tot het moment dat in de hoofdzaak in cassatie het verweerschrift is ingediend.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door een procesinleiding, die wordt getekend door een advocaat bij de Hoge Raad en wordt ingediend op de wijze bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=397&z=2025-01-01&g=2025-01-01).
 
@@ -15380,17 +15403,17 @@ Vervallen
 
 4. De eiser wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij de procesinleiding een andere gekozen woonplaats in Nederland uitdrukt.
 
-#### Artikel 408
+##### Artikel 408
 
 Het geding is aanhangig met ingang van de dag waarop de procesinleiding is ingediend als bedoeld in [artikel 407, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -15398,23 +15421,23 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
 2. De verweerder brengt alle excepties en zijn verweer ten principale tegelijk naar voren, op straffe van verval van niet aangevoerde excepties en, indien niet ten principale verweer is gevoerd, van het recht om dat alsnog te doen. Alleen de in [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2025-01-01&g=2025-01-01), bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.
 
-#### Artikel 412
+##### Artikel 412
 
 1. Ingeval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend voor het verweerschrift om op het incidentele beroep of de voorgestelde exceptie te reageren.
 
 2. Is het een noch het ander het geval en geeft de Hoge Raad geen toepassing aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a), dan wordt onmiddellijk na het indienen van het verweerschrift de dag van pleidooi bepaald.
 
-#### Artikel 413
+##### Artikel 413
 
 De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepassing kan geven aan de [artikelen 87 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 414
+##### Artikel 414
 
 1. [Artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tiende&paragraaf=6&artikel=224&z=2025-01-01&g=2025-01-01) is van toepassing in cassatie.
 
@@ -15426,7 +15449,7 @@ De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepa
 
 5. De zekerheidstelling wordt gevorderd vóór alle weren van rechten.
 
-#### Artikel 415
+##### Artikel 415
 
 1. De vordering tot zekerheidstelling en alle andere incidentele vorderingen worden ingesteld bij conclusie.
 
@@ -15514,7 +15537,7 @@ De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepa
 
 ## titel Tweede. Arbitrage buiten Nederland
 
-#### Artikel 44b
+##### Artikel 44b
 
 1. De Europese Commissie kan, niet optredende als partij, schriftelijke opmerkingen maken ingevolge artikel 39, derde lid, van [verordening (EU) 2022/1925](32022R1925) van het Europees Parlement en de Raad van 14 september 2022 over betwistbare en eerlijke markten in de digitale sector, en tot wijziging van [Richtlijnen (EU) 2019/1937](32019L1937) en [(EU) 2020/1828](32020L1828) (digitalemarktenverordening) (PbEU 2022, L 265), indien deze de wens daartoe te kennen heeft gegeven. Met toestemming van de rechter kan de Europese Commissie ook mondelinge opmerkingen maken.
 
@@ -15564,7 +15587,7 @@ De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepa
 
 ## titel Negende. Verzet door derden
 
-#### Artikel 392
+##### Artikel 392
 
 1. De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de vordering of het verzoek te beslissen en rechtstreeks van belang is:
 
@@ -15584,7 +15607,7 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 6. Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de vordering of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.
 
-#### Artikel 393
+##### Artikel 393
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -15608,25 +15631,25 @@ De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wi
 
 11. De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.
 
-#### Artikel 394
+##### Artikel 394
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op de vordering of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.
 
 2. De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge [artikel 393, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tiende_A&artikel=393&z=2026-01-01&g=2026-01-01), door de wederpartij gemaakte kosten.
 
-#### Artikel 395
+##### Artikel 395
 
 In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Eerste&afdeling=Derde&artikel=29a&z=2026-01-01&g=2026-01-01) is in een procedure inzake prejudiciële vragen geen mondelinge uitspraak mogelijk.
 
 ## titel Elfde. Cassatie
 
-#### Artikel 396
+##### Artikel 396
 
 1. Als beroep in cassatie wordt ingesteld in een dagvaardingsprocedure wordt deze procedure in cassatie aangeduid als een vorderingsprocedure en wordt het beroep ingeleid met een procesinleiding en een oproepingsbericht.
 
 2. Als beroep in cassatie wordt ingesteld in een verzoekschriftprocedure wordt deze procedure in cassatie aangeduid als een verzoekprocedure en wordt het beroep ingeleid met een procesinleiding.
 
-#### Artikel 397
+##### Artikel 397
 
 1. De eiser of verzoeker dient de procesinleiding langs elektronische weg in bij de Hoge Raad. Partijen dienen gedurende de procedure ook overige stukken langs elektronische weg in. Anderen dan partijen, die bij de procedure worden betrokken, dienen stukken langs elektronische weg in, tenzij de wet of de Hoge Raad anders bepaalt.
 
@@ -15638,7 +15661,7 @@ In afwijking van [artikel 29a](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&b
 
 ### afdeling Eerste A. Vorderingsprocedures aan cassatie onderworpen
 
-#### Artikel 398
+##### Artikel 398
 
 Partijen kunnen beroep in cassatie instellen van:
 
@@ -15646,19 +15669,19 @@ Partijen kunnen beroep in cassatie instellen van:
 
 - 2°. vonnissen die in eerste ressort op tegenspraak zijn gewezen, indien partijen nadien zijn overeengekomen het hoger beroep over te slaan.
 
-#### Artikel 399
+##### Artikel 399
 
 Het beroep in cassatie staat niet open voor hem die zijn bezwaren kan doen herstellen door dezelfde rechter bij wie de zaak heeft gediend.
 
-#### Artikel 400
+##### Artikel 400
 
 Het beroep in cassatie staat niet open voor hem, die in de uitspraak heeft berust.
 
-#### Artikel 401
+##### Artikel 401
 
 Vervallen
 
-#### Artikel 402
+##### Artikel 402
 
 1. Het beroep in cassatie moet - behoudens in de gevallen waarin de wet een kortere cassatietermijn voorschrijft - worden ingesteld binnen drie maanden, te rekenen van de dag van de uitspraak.
 
@@ -15666,25 +15689,25 @@ Vervallen
 
 3. Indien in de vorige instantie een vordering tot vrijwaring geheel of gedeeltelijk is afgewezen op grond van de afwijzing van de vordering in de hoofdzaak, staat het beroep in cassatie daarvan open tot het moment dat in de hoofdzaak in cassatie het verweerschrift is ingediend.
 
-#### Artikel 403
+##### Artikel 403
 
 1. Bij overlijden van de in het ongelijk gestelde partij gedurende de loop van de cassatietermijn vangt voor de erfgenamen of rechtverkrijgenden een nieuwe termijn aan op de dag na die van het overlijden.
 
 2. In ieder geval kan het beroep in cassatie nog worden ingesteld binnen vier weken na afloop van de termijn, bedoeld in [artikel 185 van Boek 4 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002761&artikel=185).
 
-#### Artikel 404
+##### Artikel 404
 
 Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toegestaan, heeft het beroep in cassatie schorsende kracht.
 
-#### Artikel 405
+##### Artikel 405
 
 Vervallen
 
-#### Artikel 406
+##### Artikel 406
 
 Vervallen
 
-#### Artikel 407
+##### Artikel 407
 
 1. Het beroep in cassatie wordt ingesteld door een procesinleiding, die wordt getekend door een advocaat bij de Hoge Raad en wordt ingediend op de wijze bedoeld in [artikel 397](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Eerste&artikel=397&z=2026-01-01&g=2026-01-01).
 
@@ -15702,17 +15725,17 @@ Vervallen
 
 4. De eiser wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij de procesinleiding een andere gekozen woonplaats in Nederland uitdrukt.
 
-#### Artikel 408
+##### Artikel 408
 
 Het geding is aanhangig met ingang van de dag waarop de procesinleiding is ingediend als bedoeld in [artikel 407, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Elfde&afdeling=Derde&artikel=407&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 409
+##### Artikel 409
 
 1. De verweerder kan alleen verschijnen vertegenwoordigd door een advocaat bij de Hoge Raad, die verklaart als zodanig op te treden.
 
 2. De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland opgeven.
 
-#### Artikel 410
+##### Artikel 410
 
 1. De verweerder, die in cassatie wil komen, doet dit, op straffe van verval van het recht daartoe, bij verweerschrift, dat alsdan een omschrijving behelst van de middelen waarop het beroep in cassatie steunt.
 
@@ -15720,23 +15743,23 @@ Het geding is aanhangig met ingang van de dag waarop de procesinleiding is inged
 
 3. De afstand van instantie laat de mogelijkheid incidenteel cassatieberoep in te stellen onverlet. De afstand van instantie wordt op dezelfde wijze als het oproepingsbericht in hoger beroep betekend bij de nog niet verschenen verweerder. De verweerder kan binnen twee weken na de kennisgeving van de afstand van instantie aan de Hoge Raad verzoeken een termijn te bepalen voor het instellen van incidenteel cassatieberoep. De gronden van het incidenteel cassatieberoep moeten binnen twee weken na het instellen ervan bij exploot aan de wederpartij worden betekend.
 
-#### Artikel 411
+##### Artikel 411
 
 1. De verweerder dient zijn verweerschrift in op een door de Hoge Raad te bepalen datum. Voor de indiening wordt een termijn van vier weken verleend. Indiening geschiedt niet dan nadat de verweerder het verschuldigde griffierecht heeft voldaan. Indien de verweerder het griffierecht niet tijdig heeft voldaan, vervalt zijn recht om verweer in cassatie te voeren of om van zijn zijde in cassatie te komen.
 
 2. De verweerder brengt alle excepties en zijn verweer ten principale tegelijk naar voren, op straffe van verval van niet aangevoerde excepties en, indien niet ten principale verweer is gevoerd, van het recht om dat alsnog te doen. Alleen de in [artikel 128, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Vijfde&artikel=128&z=2026-01-01&g=2026-01-01), bedoelde exceptie wordt op straffe van verval afzonderlijk voor alle weren van rechten voorgedragen.
 
-#### Artikel 412
+##### Artikel 412
 
 1. Ingeval van incidenteel cassatieberoep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend voor het verweerschrift om op het incidentele beroep of de voorgestelde exceptie te reageren.
 
 2. Is het een noch het ander het geval en geeft de Hoge Raad geen toepassing aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=80a), dan wordt onmiddellijk na het indienen van het verweerschrift de dag van pleidooi bepaald.
 
-#### Artikel 413
+##### Artikel 413
 
 De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepassing kan geven aan de [artikelen 87 tot en met 91](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Eerste&artikel=87&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 414
+##### Artikel 414
 
 1. [Artikel 224](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&boek=Eerste&titeldeel=Tweede&afdeling=Tiende&paragraaf=6&artikel=224&z=2026-01-01&g=2026-01-01) is van toepassing in cassatie.
 
@@ -15748,13 +15771,13 @@ De Hoge Raad kan een mondelinge behandeling gelasten, waarbij de Hoge Raad toepa
 
 5. De zekerheidstelling wordt gevorderd vóór alle weren van rechten.
 
-#### Artikel 415
+##### Artikel 415
 
 1. De vordering tot zekerheidstelling en alle andere incidentele vorderingen worden ingesteld bij conclusie.
 
 2. De verweerder in het incident dient tegelijk met de vorderingen als bedoeld in het eerste lid of op een nader door de Hoge Raad te bepalen datum zijn verweerschrift in het incident in, waarop door de Hoge Raad, na partijen, zo zij dit verlangen, en de procureur-generaal bij de Hoge Raad te hebben gehoord, afzonderlijk wordt beslist.
 
-#### Artikel 416
+##### Artikel 416
 
 De aangewezen advocaat blijft de partij vertegenwoordigen totdat hetzij door haar een andere advocaat bij de Hoge Raad is aangewezen bij aan de wederpartij betekend exploit, hetzij de advocaat zelf aan deze laatste bij betekend exploot of ter zitting heeft aangezegd, dat hij zich aan de verdere behandeling der zaak onttrekt.
 

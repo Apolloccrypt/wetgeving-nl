@@ -1,20 +1,45 @@
 ---
-title: "Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië"
+title: "Regeling inzake vermindering van Roemeense belasting op dividenden, interest, royalty's en commissiebeloningen uit Roemeense bron, genoten door inwoners van Nederland"
 identifier: "BWBR0004983"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-27
-laatste_update: 1991-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004983"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-27"
+last_updated: "1991-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004983"
+soort: "ministeriele-regeling"
+stam_id: "3771703"
+version_id: "5554552"
+internal_id: "C5747641"
+label_id: "3751434"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004983/1991-01-27/0"
+intitule_bron: "Stcrt.1991-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-01-25"
+intitule_published: "1991-01-25"
+intitule_in_force: "1991-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-18"
+original_signed_date: "1991-01-25"
+original_published_date: "1991-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-27"
+jci_1_3: "jci1.3:c:BWBR0004983&z=1991-01-27&g=1991-01-27"
+jci_1_0: "1.0:c:BWBR0004983&g=1991-01-27"
+citeertitel_status: "officieel"
+short_title: "Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië"
+signed_date: "1991-01-25"
+entry_into_force: "1991-01-27"
 ---
-
 # Regeling inzake vermindering van Roemeense belasting op dividenden, interest, royalty's en commissiebeloningen uit Roemeense bron, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 27 maart 1979 tussen Nederland en Roemenië gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1980, nr. 50) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -32,7 +57,7 @@ Aan de op 27 maart 1979 tussen Nederland en Roemenië gesloten Overeenkomst tot 
 
 - g. erdeel c van dit artikel vermelde vrijstelling alsmede de in de onderdelen a, b, d en e van dit artikel vermelde verminderingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty's in Roemenië een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is, of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 10, vijfde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid). De in onderdeel f van dit artikel vermelde vermindering is niet van toepassing indien de genieter van de commissiebeloningen in Roemenië een vaste inrichting heeft waarmede de commissiebeloningen verbonden zijn (artikel 13, vierde lid).
 
-#### Artikel 2. Roemeense regeling
+##### Artikel 2. Roemeense regeling
 
 Ter uitvoering van artikel 1 is van Roemeense zijde de volgende regeling getroffen:
 
@@ -48,11 +73,11 @@ Ter uitvoering van artikel 1 is van Roemeense zijde de volgende regeling getroff
 
 - 4. Termijn van indiening van verzoeken om teruggaaf van belasting Verzoeken om teruggaaf moeten worden ingediend binnen een tijdvak van drie jaren na het einde van het kalenderjaar waarin de belasting is geheven (onderdeel IV van het Protocol).
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 2 november 1981, nr. 081-2183 (Stcrt. van 3 november 1981, nr. 211), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Roemeense uitvoeringsvoorschriften belastingovereenkomst Nederland-Roemenië.
 

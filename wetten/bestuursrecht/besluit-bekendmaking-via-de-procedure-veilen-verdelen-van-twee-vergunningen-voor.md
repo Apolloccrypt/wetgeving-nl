@@ -1,13 +1,39 @@
 ---
-title: "Besluit bekendmaking via de procedure veilen verdelen van twee vergunningen voor frequentieruimte t.b.v. digitale omroep"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 5 november 2008, nr. WJZ / 8170868, houdende bekendmaking van het via de procedure van veilen verdelen van twee vergunningen voor frequentieruimte ten behoeve van digitale omroep"
 identifier: "BWBR0024729"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-01-01
-laatste_update: 2009-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024729"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-01-01"
+last_updated: "2009-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024729"
+soort: "ministeriele-regeling"
+stam_id: "9772713"
+version_id: "15851632"
+internal_id: "C21740501"
+label_id: "9749554"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024729/2009-01-01/0"
+intitule_bron: "Stcrt.2008-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-05"
+intitule_published: "2008-11-21"
+intitule_in_force: "2008-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-227"
+original_signed_date: "2008-11-05"
+original_published_date: "2008-11-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-989"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024729&z=2009-01-01&g=2009-01-01"
+jci_1_0: "1.0:c:BWBR0024729&g=2009-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit bekendmaking via de procedure veilen verdelen van twee vergunningen voor frequentieruimte t.b.v. digitale omroep"
+signed_date: "2008-11-05"
+entry_into_force: "2009-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 5 november 2008, nr. WJZ / 8170868, houdende bekendmaking van het via de procedure van veilen verdelen van twee vergunningen voor frequentieruimte ten behoeve van digitale omroep
 
 De Staatssecretaris van Economische Zaken, handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap;

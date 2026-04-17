@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende de arbeidsinspectie in de industrie en de handel"
 identifier: "BWBV0005445"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1964-11-13
-laatste_update: 1964-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005445"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-11-13"
+last_updated: "1964-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005445"
+soort: "verdrag"
+stam_id: "10004634473"
+version_id: "10004891402"
+internal_id: "C10008335841"
+label_id: "10004619634"
+dtd_version: "2.0"
+original_entry_into_force: "1952-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005445/1964-11-13/0"
+intitule_bron: "Stb.1949-J 424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-09-09"
+intitule_published: "1949-10-04"
+intitule_in_force: "1951-11-20"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 424"
+original_signed_date: "1949-09-09"
+original_published_date: "1949-10-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1952-09-15"
+jci_1_3: "jci1.3:c:BWBV0005445&z=1964-11-13&g=1964-11-13"
+jci_1_0: "1.0:c:BWBV0005445&g=1964-11-13"
+citeertitel_status: "redactioneel"
+signed_date: "1949-09-09"
+entry_into_force: "1952-09-15"
 ---
-
 # Verdrag betreffende de arbeidsinspectie in de industrie en de handel
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -22,17 +46,17 @@ neemt heden, de elfde Juli negentienhonderd zeven en veertig, het volgende verdr
 
 ### DEEL I. Arbeidsinspectie in de industrie
 
-#### Artikel 1
+##### Artikel 1
 
 Elk Lid der Internationale Arbeidsorganisatie, waarvoor dit verdrag van kracht is, moet een arbeidsinspectie voor industriële inrichtingen bezitten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De arbeidsinspectie voor industriële inrichtingen zal van toepassing zijn op alle inrichtingen ten aanzien waarvan het handhaven van de naleving van wettelijke bepalingen betreffende de arbeidsvoorwaarden en de bescherming van werknemers bij de uitoefening van hun werkzaamheden, aan inspecteurs van de arbeid is opgedragen.
 
 2. De nationale wetgeving zal de mijnondernemingen en de transportondernemingen, of delen daarvan, van de toepassing van dit verdrag kunnen uitzonderen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De taak van de arbeidsinspectie zal zijn:
 
@@ -44,13 +68,13 @@ Elk Lid der Internationale Arbeidsorganisatie, waarvoor dit verdrag van kracht i
 
 2. Indien aan de inspecteurs van de arbeid andere functies opgedragen zijn, zullen deze hen bij de uitoefening van hun voornaamste functies niet mogen hinderen noch zullen deze op enigerlei wijze afbreuk mogen doen aan het gezag of de onpartijdigheid, welke voor de inspecteurs bij hun betrekkingen met werkgevers en werknemers noodzakelijk zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor zover zulks met de administratieve praktijk van het Lid te verenigen is, zal de arbeidsinspectie onder toezicht en contrôle van een centrale autoriteit moeten staan.
 
 2. In geval het een federale staat betreft zal de uitdrukking „centrale autoriteit” hetzij de federale autoriteit, hetzij een centrale autoriteit van een samenstellende eenheid kunnen aanduiden.
 
-#### Artikel 5
+##### Artikel 5
 
 De bevoegde autoriteit moet passende maatregelen treffen om te bevorderen:
 
@@ -58,11 +82,11 @@ De bevoegde autoriteit moet passende maatregelen treffen om te bevorderen:
 
 - b. samenwerking tussen de ambtenaren van de arbeidsinspectie en de werkgevers en de werknemers of hun organisaties.
 
-#### Artikel 6
+##### Artikel 6
 
 Het personeel der arbeidsinspectie zal uit ambtenaren bestaan, wier rechtspositie en arbeidsvoorwaarden zodanig zijn, dat zij van de bestendigheid van hun betrekking verzekerd zijn en onafhankelijk zijn van elke verandering van Regering en elke onbehoorlijke beïnvloeding van buiten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Behoudens de voorwaarden voor het in dienst nemen van personen in openbare dienst door de nationale wetgeving gesteld, zullen de inspecteurs van de arbeid uitsluitend op grond van hun geschiktheid voor de taak, die zij op zich moeten nemen, aangenomen mogen worden.
 
@@ -70,15 +94,15 @@ Het personeel der arbeidsinspectie zal uit ambtenaren bestaan, wier rechtspositi
 
 3. De inspecteurs van de arbeid moeten een behoorlijke opleiding voor de uitoefening van hun functies ontvangen.
 
-#### Artikel 8
+##### Artikel 8
 
 Zowel mannen als vrouwen zullen tot leden van het personeel der arbeidsinspectie kunnen worden benoemd; indien nodig, zullen aan de inspecteurs, onderscheidenlijk de inspectrices, bijzondere taken opgedragen kunnen worden.
 
-#### Artikel 9
+##### Artikel 9
 
 Elk Lid zal de nodige maatregelen nemen om te verzekeren, dat behoorlijk bevoegde deskundigen en technici, daaronder begrepen specialisten op het gebied der geneeskunde, werktuig- en bouwkunde, electriciteit en scheikunde opgenomen worden in de arbeidsinspectie volgens methoden, welke geacht worden het best te passen bij de nationale omstandigheden, zulks ter verzekering van de toepassing van de wettelijke bepalingen betreffende de gezondheid en de veiligheid van de werknemers bij de uitoefening van hun werkzaamheden en ter onderzoek van de uitwerking van toegepaste procédés, gebruikte materialen en arbeidsmethoden op de gezondheid en de veiligheid van de werknemers.
 
-#### Artikel 10
+##### Artikel 10
 
 Het aantal inspecteurs van de arbeid moet voldoende zijn om een doeltreffende uitoefening van de functies van de dienst der inspectie te verzekeren; bij de vaststelling van dat aantal moet behoorlijk rekening gehouden worden met:
 
@@ -94,7 +118,7 @@ Het aantal inspecteurs van de arbeid moet voldoende zijn om een doeltreffende ui
 
 - c. de praktische voorwaarden, waaronder de inspectiebezoeken gebracht zullen moeten worden, teneinde doeltreffend te zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bevoegde autoriteiten zullen de nodige maatregelen nemen om aan de inspecteurs van de arbeid ter beschikking te stellen:
 
@@ -104,7 +128,7 @@ Het aantal inspecteurs van de arbeid moet voldoende zijn om een doeltreffende ui
 
 2. De bevoegde autoriteit zal de nodige maatregelen nemen om aan de inspecteurs van de arbeid alle reiskosten en alle bijkomende uitgaven nodig voor de uitoefening van hun taak te vergoeden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De inspecteurs van de arbeid, voorzien van behoorlijke legitimatiebewijzen, zullen bevoegd zijn:
 
@@ -124,7 +148,7 @@ Het aantal inspecteurs van de arbeid moet voldoende zijn om een doeltreffende ui
 
 2. Bij gelegenheid van een inspectiebezoek moet de inspecteur de werkgever of diens vertegenwoordiger van zijn aanwezigheid in kennis stellen, tenzij hij van oordeel is dat een dergelijke kennisgeving de uitoefening van zijn taak zou kunnen schaden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De inspecteurs van de arbeid zullen bevoegd zijn om maatregelen te nemen om gebreken, geconstateerd in een installatie, een inrichting of bij de arbeidsmethoden, ten aanzien waarvan zij een redelijke grond hebben om te veronderstellen, dat die een bedreiging voor de gezondheid en de veiligheid van de werknemers vormen, te verhelpen.
 
@@ -136,11 +160,11 @@ Het aantal inspecteurs van de arbeid moet voldoende zijn om een doeltreffende ui
 
 3. Indien de procedure, voorgeschreven in het tweede lid, niet overeenkomt met de administratieve en gerechtelijke praktijk van het Lid, zullen de inspecteurs het recht hebben om zich tot de bevoegde autoriteiten te wenden, opdat deze bevelen ter zake geven of onmiddellijk van kracht wordende maatregelen nemen.
 
-#### Artikel 14
+##### Artikel 14
 
 De arbeidsinspectie moet in kennis worden gesteld van de arbeidsongevallen en de gevallen van beroepsziekten, in de gevallen en op de wijze voor te schrijven bij de nationale wetgeving.
 
-#### Artikel 15
+##### Artikel 15
 
 Behoudens de uitzonderingen bij de nationale wetgeving vast te stellen, zullen de inspecteurs van de arbeid:
 
@@ -150,27 +174,27 @@ Behoudens de uitzonderingen bij de nationale wetgeving vast te stellen, zullen d
 
 - c. als strikt vertrouwelijk moeten beschouwen de bron van elke klacht, waarbij een gebrek in de installatie of een inbreuk op de wettelijke bepalingen te hunner kennis wordt gebracht en zich er van moeten onthouden om aan de werkgever of diens vertegenwoordiger mede te delen, dat tengevolge van een klacht een inspectiebezoek is gebracht.
 
-#### Artikel 16
+##### Artikel 16
 
 De inrichtingen moeten zo vaak en zo zorgvuldig worden geînspecteerd als nodig is om een daadwerkelijke naleving van de betreffende wettelijke bepalingen te verzekeren.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Personen, die de wettelijke bepalingen, waarvan de naleving onderworpen is aan het toezicht van de inspecteurs van de arbeid, niet nakomen of veronachtzamen, staan aan onmiddellijke wettelijke vervolging, zonder voorafgaande waarschuwing bloot. De nationale wetgeving zal echter uitzonderingen kunnen bepalen voor die gevallen, waarin vooraf een waarschuwing zal moeten worden gegeven om in de toestand verbetering te brengen of preventieve maatregelen te nemen.
 
 2. Het wordt aan de vrije beslissing van de inspecteurs van de arbeid overgelaten om waarschuwingen of raad te geven in plaats van het instellen van vervolgingen of het aanbevelen daarvan.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij de nationale wetgeving zullen doeltreffende straffen voorgeschreven worden voor overtreding van de wettelijke bepalingen, waarvan de naleving onderworpen is aan het toezicht van de inspecteurs van de arbeid, en voor obstructie tegen de inspecteurs van de arbeid bij de uitoefening van hun functies; die strafbepalingen zullen daadwerkelijk worden toegepast.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De inspecteurs van de arbeid of de plaatselijke inspectiebureaux, al naar het geval zich voordoet, zullen gehouden zijn om periodieke verslagen van algemene aard omtrent de resultaten van hun werkzaamheden aan de bevoegde centrale arbeidsinspectie-autoriteit voor te leggen.
 
 2. Die verslagen zullen in een door de centrale autoriteit vastgegestelde vorm opgemaakt worden en zullen de onderwerpen, van tijd tot tijd door de centrale autoriteit voorgeschreven, behandelen; zij zullen ten minste zo dikwijls als de centrale autoriteit zal bepalen ingediend worden en in elk geval ten minste eenmaal per jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De centrale inspectie-autoriteit zal een algemeen jaarverslag over de werkzaamheden van de onder haar toezicht geplaatste inspectiediensten doen verschijnen.
 
@@ -178,7 +202,7 @@ Bij de nationale wetgeving zullen doeltreffende straffen voorgeschreven worden v
 
 3. Exemplaren van de jaarverslagen zullen binnen een redelijke termijn na hun verschijning — in elk geval binnen drie maanden daarna — aan de Directeur-Generaal van het Internationaal Arbeidsbureau worden toegezonden.
 
-#### Artikel 21
+##### Artikel 21
 
 De jaarverslagen door de centrale arbeidsinspectie-autoriteit uitgegeven, zullen op de volgende en andere ter zake dienende aangelegenheden voor zover die onder toezicht van de bedoelde autoriteit staan, betrekking hebben:
 
@@ -198,21 +222,21 @@ De jaarverslagen door de centrale arbeidsinspectie-autoriteit uitgegeven, zullen
 
 ### DEEL II. Arbeidsinspectie in de handel
 
-#### Artikel 22
+##### Artikel 22
 
 Elk Lid van de Internationale Arbeidsorganisatie, waarvoor dit deel van het onderhavige verdrag van kracht is, moet een arbeidsinspectie voor handelsinrichtingen bezitten.
 
-#### Artikel 23
+##### Artikel 23
 
 De arbeidsinspectie voor handelsinrichtingen zal van toepassing zijn op alle inrichtingen ten aanzien waarvan het handhaven van de naleving van wettelijke bepalingen betreffende de arbeidsvoorwaarden en de bescherming van werknemers bij de uitoefening van hun werkzaamheden, aan inspecteurs van de arbeid is opgedragen.
 
-#### Artikel 24
+##### Artikel 24
 
 De arbeidsinspectie voor handelsinrichtingen zal aan het bepaalde in de artikelen 3 tot en met 21 van dit verdrag, voor zover van toepassing, moeten voldoen.
 
 ### DEEL III. Verschillende bepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Elk Lid der Internationale Arbeidsorganisatie, dat dit verdrag bekrachtigt, kan, bij een verklaring, gevoegd bij zijn bekrachtiging, deel II van de aanvaarding van dit verdrag uitsluiten.
 
@@ -220,19 +244,19 @@ De arbeidsinspectie voor handelsinrichtingen zal aan het bepaalde in de artikele
 
 3. Elk Lid, waarvoor een verklaring, afgelegd overeenkomstig het bepaalde in het eerste lid van dit artikel van kracht is, zal ieder jaar in zijn jaarrapport over de toepassing van dit verdrag de stand van zijn wetgeving en van de praktijk ten aanzien van de bepalingen van deel II van dit verdrag aangeven en daarbij de mate, waarin het aan bedoelde bepalingen gevolg heeft gegeven of zich voorstelt te geven, vermelden.
 
-#### Artikel 26
+##### Artikel 26
 
 In geval van twijfel of een onderneming, een onderdeel of een dienst van een onderneming onder de toepassing van dit verdrag valt, zal de bevoegde autoriteit dienaangaande beslissen.
 
-#### Artikel 27
+##### Artikel 27
 
 In dit verdrag omvat de uitdrukking „wettelijke bepalingen” behalve de wetgeving, de scheidsrechterlijke beslissingen en de collectieve overeenkomsten, die wetskracht hebben en ten aanzien waarvan het handhaven van de naleving aan inspecteurs van de arbeid is opgedragen.
 
-#### Artikel 28
+##### Artikel 28
 
 In de jaarverslagen, die overeenkomstig het bepaalde in [artikel 22 van het Statuut der Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=22) ingediend moeten worden, zullen nauwkeurige inlichtingen over de nationale wetgeving, waarbij uitvoering wordt gegeven aan de bepalingen van dit verdrag, opgenomen moeten worden.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Wanneer het gebied van een Lid grote streken bevat, waar tengevolge van schaarse bevolking of tengevolge van de stand van de ontwikkeling, de bevoegde autoriteit het ondoenlijk acht om de bepalingen van dit verdrag toe te passen, kan het die streken van de toepassing van het verdrag uitsluiten en wel algemeen of met die uitzonderingen, welke het ten aanzien van bepaalde ondernemingen of bepaalde werkzaamheden geschikt acht.
 
@@ -240,7 +264,7 @@ In de jaarverslagen, die overeenkomstig het bepaalde in [artikel 22 van het Stat
 
 3. Elk Lid, dat een beroep op de bepalingen van dit artikel doet, moet in zijn latere jaarverslagen de streken aangeven, ten aanzien waarvan het afstand doet van het recht van beroep op de bepalingen van dit artikel.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor zoveel betreft de gebieden, bedoeld in [artikel 35 van het Statuut der Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=35), zoals dit is gewijzigd bij de Akte van wijziging van het Statuut der Internationale Arbeidsorganisatie, 1946, behoudens de gebieden, bedoeld in de leden 4 en 5 van dat aldus gewijzigde artikel, moet elk Lid der Organisatie, dat dit verdrag bekrachtigt, tegelijk met zijn bekrachtiging of zo spoedig mogelijk na zijn bekrachtiging aan de Directeur-Generaal van het Internationaal Arbeidsbureau een verklaring doen toekomen, waarin het mededeelt:
 
@@ -258,7 +282,7 @@ In de jaarverslagen, die overeenkomstig het bepaalde in [artikel 22 van het Stat
 
 4. Elk Lid zal op enig tijdstip waarop dit verdrag overeenkomstig het bepaalde in artikel 34 kan worden opgezegd, aan de Directeur-Generaal een nadere verklaring kunnen doen toekomen, waarbij in enig ander opzicht de inhoud van een vroegere verklaring gewijzigd wordt en de toestand ten aanzien van bepaalde aangegeven gebieden uiteengezet wordt.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Wanneer de in dit verdrag behandelde aangelegenheden vallen binnen de eigen bevoegdheden van een buiten het moederland gelegen gebied, kan het Lid, dat verantwoordelijk is voor de buitenlandse betrekkingen van dat gebied, in overeenstemming met de Regering van dat gebied, aan de Directeur-Generaal van het Internationaal Arbeidsbureau een verklaring doen toekomen, waarbij het de verplichtingen, neergelegd in dit verdrag, namens dat gebied aanvaardt.
 
@@ -276,11 +300,11 @@ In de jaarverslagen, die overeenkomstig het bepaalde in [artikel 22 van het Stat
 
 ### DEEL IV. Slotbepalingen
 
-#### Artikel 32
+##### Artikel 32
 
 De officiële bekrachtigingen van dit verdrag zullen worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem worden ingeschreven.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Dit verdrag zal slechts verbindend zijn voor de Leden der Internationale Arbeidsorganisatie, die hun bekrachtigingen door de Directeur-Generaal hebben doen inschrijven.
 
@@ -288,27 +312,27 @@ De officiële bekrachtigingen van dit verdrag zullen worden medegedeeld aan de D
 
 3. Vervolgens zal dit verdrag voor ieder der Leden van kracht worden twaalf maanden na de datum, waarop zijn bekrachtiging zal zijn ingeschreven.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Ieder Lid, dat dit verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaren na de datum, waarop dit verdrag van kracht is geworden, zulks bij een verklaring toegezonden aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door deze in te schrijven. De opzegging wordt eerst van kracht een jaar, nadat zij is ingeschreven.
 
 2. Ieder Lid, dat dit verdrag heeft bekrachtigd en binnen een jaar na verloop van de termijn van tien jaar, bedoeld in het vorig lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, zal voor een nieuwe termijn van tien jaren gebonden zijn en kan daarna dit verdrag opzeggen na verloop van elke termijn van tien jaren, volgens de voorwaarden bedoeld in dit artikel.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan alle Leden der Internationale Arbeidsorganisatie mededeling doen van de inschrijving van alle bekrachtigingen, verklaringen en opzeggingen, welke hem door de Leden der Organisatie zullen zijn medegedeeld.
 
 2. Bij de mededeling aan de Leden der Organisatie van de tweede hem medegedeelde bekrachtiging, zal de Directeur-Generaal de aandacht van de Leden der Organisatie vestigen op de datum, waarop dit verdrag van kracht zal worden.
 
-#### Artikel 36
+##### Artikel 36
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau zal aan de Secretaris-Generaal van de Verenigde Naties mededeling doen ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtingen, verklaringen en opzeggingen, welke hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 37
+##### Artikel 37
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht legt deze een verslag inzake de toepassing van dit Verdrag voor aan de Algemene Conferentie, en gaat na of het wenselijk is de kwestie van de gehele of gedeeltelijke herziening van het Verdrag op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke wijziging van het onderhavige verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -318,6 +342,6 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Dit verdrag zal echter van kracht blijven naar vorm en inhoud voor de Leden, die het bekrachtigd hebben en die het nieuwe verdrag, houdende herziening, niet zullen bekrachtigen.
 
-#### Artikel 39
+##### Artikel 39
 
 De Engelse en de Franse tekst van dit verdrag zijn gelijkelijk authentiek.

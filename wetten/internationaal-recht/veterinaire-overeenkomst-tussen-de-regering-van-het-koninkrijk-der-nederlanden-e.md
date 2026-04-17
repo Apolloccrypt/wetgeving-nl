@@ -1,13 +1,35 @@
 ---
 title: "Veterinaire Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek"
 identifier: "BWBV0003987"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-10-11
-laatste_update: 2011-10-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003987"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-10-11"
+last_updated: "2011-10-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003987"
+soort: "verdrag"
+stam_id: "10003797943"
+version_id: "10004816462"
+internal_id: "C10007184041"
+label_id: "10003783434"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003987/2011-10-11/0"
+intitule_bron: "Trb.2011-119"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2011-06-29"
+intitule_in_force: "2011-06-29"
+intitule_status: "vervallen"
+original_publication: "Trb.2011-119"
+original_published_date: "2011-06-29"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2011-119"
+entry_into_force_date: "2011-10-11"
+jci_1_3: "jci1.3:c:BWBV0003987&z=2011-10-11&g=2011-10-11"
+jci_1_0: "1.0:c:BWBV0003987&g=2011-10-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-10-11"
 ---
-
 # Veterinaire Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek,
@@ -18,47 +40,47 @@ zijn het volgende overeengekomen:
 
 Opgezegd per 11 april 2011 (Trb. 2011/119).
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 1
+##### Artikel 1
 
 De voorwaarden bedoeld in artikel 2 van de hierbovengenoemde Veterinaire Overeenkomst hebben betrekking op de volgende levende dieren en produkten van dierlijke oorsprong:
 
@@ -80,11 +102,11 @@ De voorwaarden bedoeld in artikel 2 van de hierbovengenoemde Veterinaire Overeen
 
 Levende dieren en produkten van dierlijke oorsprong, niet begrepen in dit Protocol, zullen worden beoordeeld overeenkomstig de door elk der Overeenkomstsluitende Partijen vastgestelde regelingen.
 
-#### Artikel 2
+##### Artikel 2
 
 De grensovergangen die zijn goedgekeurd ten behoeve van de veeartsenijkundige controle op de in de Overeenkomst bedoelde produkten, worden door elk der Overeenkomstsluitende Partijen aangewezen. Het douanekantoor waarlangs de zending wordt ingevoerd wordt aangewezen in het gezondheidscertificaat.
 
-#### Artikel 3
+##### Artikel 3
 
 De eenhoevige dieren worden verdeeld in:
 
@@ -102,25 +124,25 @@ In het gezondheidscertificaat worden de gegevens van dit merk opgenomen.
 
 De invoer van eenhoevigen van zuiver ras bestemd voor de fokkerij blijft onderworpen aan de eigen voorschriften van de Overeenkomstsluitende Partijen.
 
-#### Artikel 4
+##### Artikel 4
 
 Fok- en gebruiksrunderen, fok- en gebruiksvarkens dienen vergezeld te gaan van een gezondheidscertificaat volgens de aangehechte modellen IV en V. De dieren moeten voorzien zijn van een officieel erkend en genummerd oormerk. In het gezondheidscertificaat worden de gegevens van deze merken opgenomen.
 
-#### Artikel 5
+##### Artikel 5
 
 Slachtrunderen en slachtvarkens dienen vergezeld te gaan van een gezondheidscertificaat volgens de aangehechte modellen VI en VII.
 
 Deze dieren moeten worden gemerkt volgens de in het voorgaande artikel voorziene bepalingen; in het gezondheidscertificaat moeten de gegevens van deze merken worden opgenomen.
 
-#### Artikel 6
+##### Artikel 6
 
 De invoer van schapen en geiten geschiedt overeenkomstig de in gemeen overleg van geval tot geval te stellen gezondheidsvoorwaarden.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten behoeve van de invoer van pluimvee, eendagskuikens en broedeieren worden de voorwaarden in gemeen overleg van geval tot geval vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Vers, gekoeld of bevroren vlees, afvallen en vet van eenhoevige dieren en van runderen, geiten, schapen en varkens dienen afkomstig te zijn uit door het importerende land erkende slachthuizen en uitsnijderijen.
 
@@ -154,27 +176,27 @@ Varkensvlees moet vergezeld gaan van een gezondheidscertificaat afgegeven door e
 
 Vlees, vetten en organen, vers, gekoeld, bevroren en diepgevroren, dienen vergezeld te gaan van een gezondheidscertificaat overeenkomstig het model in bijlage VIII; voor zover zij afkomstig zijn van runderen, schapen, geiten en varkens wordt de tekst aangevuld met een verklaring waaruit blijkt, dat de bedoelde waren bereid zijn uit dieren die niet afkomstig zijn uit een wegens mond- en klauwzeer gesloten gebied, of, ingeval van varkens, uit een wegens besmettelijke varkensverlamming (Teschenerziekte), blaasjesuitslag en varkenspest gesloten gebied.
 
-#### Artikel 9
+##### Artikel 9
 
 De invoer van op basis van vlees, afvallen of andere eetbare delen verwerkte produkten wordt verricht overeenkomstig de gezondheidsvoorschriften die in gemeen overleg van geval tot geval worden vastgesteld.
 
-#### Artikel 10
+##### Artikel 10
 
 De invoer van geslacht gevogelte, delen van gevogelte, eetbare afvallen en daaruit verkregen produkten, vers, gekoeld, bevroren of diepgevroren, geschiedt overeenkomstig de gezondheidsvoorschriften die in gemeen overleg van geval tot geval worden vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
@@ -190,42 +212,42 @@ Pour le Gouvernement de la République Socialiste Tchécoslovaque:
 
 (s.) BOHUSLAV VECERA
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen

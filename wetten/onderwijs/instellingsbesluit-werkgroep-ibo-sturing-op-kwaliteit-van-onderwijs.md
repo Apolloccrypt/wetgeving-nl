@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs"
+title: "Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Sturing op kwaliteit van onderwijs (Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs)"
 identifier: "BWBR0046379"
-categorie: "Onderwijs"
-publicatiedatum: 2022-03-04
-laatste_update: 2022-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046379"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-04"
+last_updated: "2022-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046379"
+soort: "ministeriele-regeling"
+stam_id: "16284713"
+version_id: "28449982"
+internal_id: "C40144691"
+label_id: "16210714"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046379/2022-03-04/0"
+intitule_bron: "Stcrt.2022-4927"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-09"
+intitule_published: "2022-03-03"
+intitule_in_force: "2022-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-4927"
+original_signed_date: "2022-02-09"
+original_published_date: "2022-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-4927"
+entry_into_force_date: "2022-03-04"
+jci_1_3: "jci1.3:c:BWBR0046379&z=2022-03-04&g=2022-03-04"
+jci_1_0: "1.0:c:BWBR0046379&g=2022-03-04"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs"
+signed_date: "2022-02-09"
+entry_into_force: "2022-03-04"
 ---
-
 # Besluit van de Minister van Financiën, van 9 februari 2022, nr. 11359, tot instelling van de Werkgroep Interdepartementaal Beleidsonderzoek (IBO) Sturing op kwaliteit van onderwijs (Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046379&artikel=2&z=2022-03-04&g=2022-03-04).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een werkgroep IBO Sturing op kwaliteit van onderwijs.
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het onderzoek moet resulteren in een rapport waarin één of meerdere beleidsopties in kaart worden gebracht op het betreffende beleidsterrein.
 
-#### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
+##### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
 
 1. De werkgroep bestaat uit een voorzitter en een aantal leden.
 
@@ -60,13 +86,13 @@ In dit besluit wordt verstaan onder:
 
 7. De werkgroep kan besluiten aanvullende leden uit te nodigen om deel te nemen aan de werkgroep.
 
-#### Artikel 4. Instellingsduur
+##### Artikel 4. Instellingsduur
 
 1. De werkgroep wordt ingesteld per 10 januari 2022.
 
 2. De werkgroep wordt opgeheven twee weken nadat het rapport zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046379&artikel=2&z=2022-03-04&g=2022-03-04) door de Minister van Financiën aan de Minister van Onderwijs, Cultuur en Wetenschap is aangeboden, behoudens voor zover de werkgroep nog wordt verzocht toelichting te geven op het eindrapport.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De werkgroep wordt in haar werkzaamheden bijgestaan door een secretariaat.
 
@@ -76,25 +102,25 @@ In dit besluit wordt verstaan onder:
 
 4. De Minister draagt, na overleg met de werkgroep, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de werkgroep.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De werkgroep stelt haar eigen werkwijze vast, met inachtneming van de spelregels voor interdepartementale beleidsonderzoeken zoals vastgesteld bij de vierde voortgangsrapportage van de Operatie Inzicht in Kwaliteit.
 
 2. De werkgroep verstrekt desgevraagd aan de Minister de voor de uitoefening van zijn taak benodigde inlichtingen. De Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 7. Openbaarmaking
+##### Artikel 7. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de werkgroep worden vervaardigd of vergaard, worden niet door de werkgroep openbaar gemaakt, maar uitsluitend aan de Minister uitgebracht of overgedragen.
 
-#### Artikel 8. Archiefbescheiden
+##### Artikel 8. Archiefbescheiden
 
 De werkgroep draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Inspectie der Rijksfinanciën.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 januari 2022.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep IBO Sturing op kwaliteit van onderwijs.
 

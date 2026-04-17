@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2026"
 identifier: "BWBR0051354"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051354"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051354"
+soort: "zbo"
+stam_id: "17498493"
+version_id: "30860392"
+internal_id: "C44223131"
+label_id: "17400824"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051354/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-04"
+intitule_in_force: "2025-08-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26198"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26198"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051354&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051354&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2026
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -26,7 +51,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om Wlz-zorgaanbieders met een eigen tandartspraktijkruimte de mogelijkheid te bieden om de kosten te declareren van:
 
@@ -34,15 +59,15 @@ Het doel van deze beleidsregel is om Wlz-zorgaanbieders met een eigen tandartspr
 
 - –. intraveneuze sedatie of narcose voor externe én eigen cliënten.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Prijspeil
+##### Artikel 4. Prijspeil
 
 Het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051354&artikel=5&z=2026-01-01&g=2026-01-01) genoemde bedrag voor de prestatie ‘Gebruik tandartspraktijkruimte’ (G013) is inclusief de definitieve indexen 2025 en de voorlopige indexen 2026.
 
-#### Artikel 5. Prestaties en tarieven
+##### Artikel 5. Prestaties en tarieven
 
 | Prestatie | NZa-code | Tarief per uur |
 | --- | --- | --- |
@@ -55,7 +80,7 @@ Het G201 tarief is in tegenstelling tot de prestatie G013 ook van toepassing op 
 
 De door de NZa in de tariefbeschikking vastgestelde tarieven zijn vaste tarieven.
 
-#### Artikel 6. Wijze van declareren
+##### Artikel 6. Wijze van declareren
 
 Wlz-zorgaanbieders met een tandartspraktijk ingericht voor het verlenen van tandheelkundige hulp kunnen de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051354&artikel=5&z=2026-01-01&g=2026-01-01) genoemde prestaties leveren en op de volgende wijze declareren:
 
@@ -65,7 +90,7 @@ Wlz-zorgaanbieders met een tandartspraktijk ingericht voor het verlenen van tand
 
 - –. Voordat de Wlz-zorgaanbieder de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051354&artikel=5&z=2026-01-01&g=2026-01-01) genoemde G-tarieven kan declareren, moeten deze via het budget-/herschikkingsformulier Wlz of nacalculatieformulier Wlz bij de NZa zijn aangevraagd en vermeld zijn op de tariefbeschikking van de Wlz-zorgaanbieder. De aanvraag voor het G201-tarief dient een overzicht te bevatten van de verwachte jaarlijkse meerkosten (uitgesplitst naar kapitaallasten, loon- en materiële kosten) die betrekking hebben op het narcose-deel van de behandeling én het aantal uren narcosebehandeling per jaar. Het uurtarief wordt berekend door de totale verwachte werkelijke kosten te delen door het aantal begrote behandeluren.
 
-#### Artikel 7. Onderdelen ter vaststelling van de tariefopbouw
+##### Artikel 7. Onderdelen ter vaststelling van de tariefopbouw
 
 Het tarief voor Gebruik tandartspraktijkruimte (G013) is opgebouwd uit de onderstaande posten:
 
@@ -79,11 +104,11 @@ Het tarief is exclusief honorarium van de tandarts. Deze kosten kan de mondzorgv
 
 Als de Wlz-zorgaanbieder tandtechnische werkstukken (zelf) vervaardigt, is hij verplicht om aan het zorgkantoor/de Wlz-uitvoerder de materiaal- en/of techniekkosten te specificeren conform de Beleidsregel tandtechniek in eigen beheer, met kenmerk BR/REG-26118 of de opvolger hiervan, van de NZa.
 
-#### Artikel 8. Intrekken oude beleidsregel
+##### Artikel 8. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050026), met kenmerk BR/REG-25132, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De Beleidsregel Wlz-zorgaanbieders met tandartspraktijk 2025, met kenmerk BR/REG-25132, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

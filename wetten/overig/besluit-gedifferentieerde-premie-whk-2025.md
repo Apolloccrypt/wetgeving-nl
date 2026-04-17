@@ -1,20 +1,45 @@
 ---
 title: "Besluit gedifferentieerde premie Whk 2025"
 identifier: "BWBR0049984"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049984"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049984"
+soort: "zbo"
+stam_id: "17171383"
+version_id: "30528962"
+internal_id: "C43764531"
+label_id: "17079324"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049984/2025-01-01/0"
+intitule_bron: "Stcrt.2024-22547-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2024-06-25"
+intitule_published: "2024-07-15"
+intitule_in_force: "2024-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22547-n1"
+original_signed_date: "2024-06-25"
+original_published_date: "2024-07-15"
+original_effect: "wijziging"
+original_url_id: "stcrt-2024-22547-n1"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0049984&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0049984&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-06-25"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit gedifferentieerde premie Whk 2025
 
 Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) (Wfsv) en [artikel 2.10 lid 3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de berekening van de gedifferentieerde premie op grond [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2025 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:
 
@@ -23,7 +48,7 @@ Voor de berekening van de gedifferentieerde premie op grond [artikel 38 van de W
 | Grens kleine/middelgrote werkgever | € 990.000 |
 | Grens middelgrote/grote werkgever | € 3.960.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2025 worden voor de premiecomponent WGA voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -40,7 +65,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 | 4 jaar bekend | 1,25 |
 | Sectorale premies | Bijlage |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2025 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -59,11 +84,11 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 5,65%.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Whk 2025.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2025.
 

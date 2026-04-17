@@ -1,13 +1,36 @@
 ---
-title: "Tweede tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2021"
+title: "Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van desinfectiemiddelen in luchtvaartuigen in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2021)"
 identifier: "BWBR0044807"
-categorie: "Milieu"
-publicatiedatum: 2021-02-13
-laatste_update: 2021-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044807"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-02-13"
+last_updated: "2021-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044807"
+soort: "ministeriele-regeling"
+stam_id: "15840863"
+version_id: "27516232"
+internal_id: "C38829561"
+label_id: "15777104"
+dtd_version: "2.0"
+original_entry_into_force: "2021-02-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044807/2021-02-13/0"
+intitule_bron: "Stcrt.2021-6895"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-02-12"
+intitule_in_force: "2021-02-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-6895"
+original_published_date: "2021-02-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-6895"
+entry_into_force_date: "2021-02-13"
+jci_1_3: "jci1.3:c:BWBR0044807&z=2021-02-13&g=2021-02-13"
+jci_1_0: "1.0:c:BWBR0044807&g=2021-02-13"
+citeertitel_status: "officieel"
+short_title: "Tweede tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2021"
+entry_into_force: "2021-02-13"
 ---
-
 # Tijdelijke vrijstelling op grond van artikel 46, eerste lid van de Wet gewasbeschermingsmiddelen en biociden voor het gebruik van desinfectiemiddelen in luchtvaartuigen in verband met de uitbraak COVID-19 (Tweede tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2021)
 
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -18,7 +41,7 @@ Gelet op [artikel 46, eerste lid, van de Wet gewasbeschermingsmiddelen en biocid
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het coronavirus SARS-CoV-2 en in verband met de oppervlaktedesinfectie in luchtvaartuigen en het waarborgen van de luchtwaardigheid van de luchtvaartuigen, wordt op grond van:
 
@@ -32,15 +55,15 @@ Ten behoeve van de bestrijding van infecties ten tijde van de uitbraak van het c
 
 - b). artikel 55 van Verordening (EU) nr. 528/2012 toegestaan dat de in onderdeel a genoemde middelen onder de daarin genoemde voorwaarden op de markt worden aangeboden en gebruikt.
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de vrijstelling en toestemming, bedoeld in [artikel 1, onderdelen a onderscheidenlijk b](https://wetten.overheid.nl/jci1.3:c:BWBR0044807&artikel=1&z=2021-02-13&g=2021-02-13), zijn de in de bijlage bij dit besluit opgenomen beperkingen en voorschriften verbonden.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling annex toestemming wordt verleend van 13 februari 2021 tot en met 11 augustus 2021.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Tweede tijdelijke vrijstelling desinfectie luchtvaartuigen COVID-19 2021.
 

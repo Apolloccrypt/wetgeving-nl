@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake de strafrechtelijke bestrijding van corruptie"
 identifier: "BWBV0001532"
-categorie: "Strafrecht"
-publicatiedatum: 2002-08-01
-laatste_update: 2002-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001532"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-08-01"
+last_updated: "2002-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001532"
+soort: "verdrag"
+stam_id: "10000137073"
+version_id: "10000156902"
+internal_id: "C10006991341"
+label_id: "10000137604"
+original_entry_into_force: "2002-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001532/2002-08-01/0"
+intitule_bron: "Trb.2000-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-11"
+intitule_published: "2000-10-30"
+intitule_in_force: "2002-06-24"
+intitule_status: "goed"
+original_publication: "Trb.2000-130"
+original_signed_date: "2002-04-11"
+original_published_date: "2000-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-130"
+entry_into_force_date: "2002-08-01"
+jci_1_3: "jci1.3:c:BWBV0001532&z=2002-08-01&g=2002-08-01"
+jci_1_0: "1.0:c:BWBV0001532&g=2002-08-01"
+citeertitel_status: "officieel"
+signed_date: "2002-04-11"
+entry_into_force: "2002-08-01"
 ---
-
 # Verdrag inzake de strafrechtelijke bestrijding van corruptie
 
 Preambule
@@ -42,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -56,55 +80,55 @@ Voor de toepassing van dit Verdrag:
 
 ### HOOFDSTUK II. MAATREGELEN TE NEMEN OP NATIONAAL NIVEAU
 
-#### Artikel 2. Actieve omkoping van nationale overheidsfunctionarissen
+##### Artikel 2. Actieve omkoping van nationale overheidsfunctionarissen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het beloven, aanbieden of geven, rechtstreeks of indirect, van elk onverschuldigd voordeel aan een van haar overheidsfunctionarissen, voor hem zelf of voor iemand anders, opdat hij een handeling verricht of nalaat te verrichten in de uitoefening van zijn taken.
 
-#### Artikel 3. Passieve omkoping van nationale overheidsfunctionarissen
+##### Artikel 3. Passieve omkoping van nationale overheidsfunctionarissen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het door een van haar overheidsfunctionarissen vragen of ontvangen, rechtstreeks of indirect, van elk onverschuldigd voordeel, voor hem zelf of voor iemand anders, of het aanvaarden van het aanbod of de belofte daarvan, om een handeling te verrichten of na te laten te verrichten in de uitoefening van zijn taken.
 
-#### Artikel 4. Omkoping van leden van nationale openbare vergaderingen
+##### Artikel 4. Omkoping van leden van nationale openbare vergaderingen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=3&z=2002-08-01&g=2002-08-01), wanneer daarbij betrokken is enige persoon die lid is van om het even welke nationale openbare vergadering met wetgevende of administratieve bevoegdheden.
 
-#### Artikel 5. Omkoping van buitenlandse overheidsfunctionarissen
+##### Artikel 5. Omkoping van buitenlandse overheidsfunctionarissen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=3&z=2002-08-01&g=2002-08-01), wanneer daarbij een overheidsfunctionaris van enige andere Staat betrokken is.
 
-#### Artikel 6. Omkoping van leden van buitenlandse openbare vergaderingen
+##### Artikel 6. Omkoping van leden van buitenlandse openbare vergaderingen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=3&z=2002-08-01&g=2002-08-01), wanneer daarbij betrokken is enige persoon die lid is van om het even welke openbare vergadering met wetgevende of administratieve bevoegdheden van enige andere Staat.
 
-#### Artikel 7. Actieve omkoping in de particuliere sector
+##### Artikel 7. Actieve omkoping in de particuliere sector
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, in het kader van zakelijke activiteiten, het beloven, aanbieden of geven, rechtstreeks of indirect, van elk onverschuldigd voordeel aan enige persoon die leiding geeft aan of werkt voor een eenheid in de particuliere sector, voor hem zelf of voor iemand anders, opdat hij een handeling verricht of nalaat te verrichten in strijd met zijn plichten.
 
-#### Artikel 8. Passieve omkoping in de particuliere sector
+##### Artikel 8. Passieve omkoping in de particuliere sector
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, in het kader van zakelijke activiteiten, het vragen of ontvangen, rechtstreeks of indirect, door een ieder die leiding geeft aan of werkt voor een eenheid in de particuliere sector, van elk onverschuldigd voordeel, of het aannemen van het aanbod of de belofte daarvan, voor hem zelf of voor iemand anders, om een handeling te verrichten of na te laten in strijd met zijn plichten.
 
-#### Artikel 9. Omkoping van internationale ambtenaren
+##### Artikel 9. Omkoping van internationale ambtenaren
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken de gedragingen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=3&z=2002-08-01&g=2002-08-01), wanneer daarbij betrokken is enige persoon die de hoedanigheid van ambtenaar of gecontracteerde in de zin van het personeelsstatuut bezit, bij elke publiekrechtelijke internationale of supranationale organisatie waarvan de Partij lid is, dan wel enige persoon, ongeacht of hij bij een dergelijke organisatie gedetacheerd is of niet, die taken uitoefent welke overeenkomen met die van genoemde ambtenaren of gecontracteerden.
 
-#### Artikel 10. Omkoping van leden van internationale parlementaire vergaderingen
+##### Artikel 10. Omkoping van leden van internationale parlementaire vergaderingen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, de gedragingen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=4&z=2002-08-01&g=2002-08-01), wanneer daarbij betrokken is enige persoon die lid is van een parlementaire vergadering van een internationale of supranationale organisatie waarvan de Partij lid is.
 
-#### Artikel 11. Omkoping van rechters en ambtenaren van internationale gerechtshoven
+##### Artikel 11. Omkoping van rechters en ambtenaren van internationale gerechtshoven
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, de gedragingen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=3&z=2002-08-01&g=2002-08-01), wanneer daarbij betrokken is enige persoon die rechterlijke taken uitoefent in een internationaal gerechtshof waarvan de Partij de rechtsmacht heeft aanvaard of enige persoon die ambtenaar op de griffie van een dergelijk gerechtshof is.
 
-#### Artikel 12. Ongeoorloofde beïnvloeding
+##### Artikel 12. Ongeoorloofde beïnvloeding
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, wanneer opzettelijk gepleegd, het beloven, aanbieden of geven, rechtstreeks of onrechtstreeks, van elk onverschuldigd voordeel als beloning, aan enige persoon die beweert of bevestigt in staat te zijn invloed uit te oefenen op de besluitvorming door een van de personen, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01), [4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=4&z=2002-08-01&g=2002-08-01) en [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=9&z=2002-08-01&g=2002-08-01), ongeacht of het onverschuldigde voordeel voor hem zelf is of voor iemand anders, alsmede het vragen, ontvangen of aanvaarden van het aanbod of de belofte daarvan als beloning voor bedoelde beïnvloeding, ongeacht of de invloed al dan niet is uitgeoefend dan wel of de veronderstelde beïnvloeding al dan niet leidt tot het beoogde resultaat.
 
-#### Artikel 13. Witwassen van de opbrengsten van corruptiedelicten
+##### Artikel 13. Witwassen van de opbrengsten van corruptiedelicten
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, de gedragingen vermeld in het [Verdrag van de Raad van Europa inzake het witwassen, de opsporing, de inbeslagneming en de confiscatie van opbrengsten van misdrijven](https://wetten.overheid.nl/jci1.3:c:BWBV0003045) (ETS nr. 141), in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=6&z=2002-08-01&g=2002-08-01), onder de daarin genoemde omstandigheden, wanneer het gronddelict wordt gevormd door een van de krachtens de artikelen [2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) van dit Verdrag strafbaar gestelde feiten, voor zover de Partij geen voorbehoud heeft gemaakt of een verklaring heeft afgelegd ten aanzien van deze strafbare feiten, dan wel deze strafbare feiten in het licht van de wetgeving met betrekking tot het witwassen van geld niet als ernstige strafbare feiten beschouwt.
 
-#### Artikel 14. Boekhoudkundige delicten
+##### Artikel 14. Boekhoudkundige delicten
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als met strafrechtelijke of andere sancties bedreigde feiten aan te merken, het volgende handelen of nalaten, wanneer opzettelijk gepleegd, ten einde de strafbare feiten bedoeld in de [artikelen 2 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) te plegen, te verhelen of te verhullen, voor zover de Partij geen voorbehoud heeft gemaakt of verklaring heeft afgelegd:
 
@@ -112,15 +136,15 @@ Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zij
 
 - b. het onwettig nalaten een betaling te boeken.
 
-#### Artikel 15. Deelneming
+##### Artikel 15. Deelneming
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om overeenkomstig haar interne recht als strafbaar feit aan te merken, ieder deelnemen aan de krachtens dit Verdrag strafbaar gestelde feiten.
 
-#### Artikel 16. Immuniteit
+##### Artikel 16. Immuniteit
 
 De bepalingen van dit Verdrag laten onverlet de bepalingen van enig Verdrag, Protocol of Statuut alsmede van de teksten over hun toepassing, voor zover het betreft het opheffen van de immuniteit.
 
-#### Artikel 17. Rechtsmacht
+##### Artikel 17. Rechtsmacht
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om rechtsmacht te vestigen ten aanzien van een krachtens de artikelen [2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) van dit Verdrag strafbaar gesteld feit, wanneer:
 
@@ -136,7 +160,7 @@ De bepalingen van dit Verdrag laten onverlet de bepalingen van enig Verdrag, Pro
 
 4. Dit Verdrag sluit de uitoefening door een Partij van om het even welke overeenkomstig het interne recht gevestigde rechtsmacht niet uit.
 
-#### Artikel 18. Aansprakelijkheid van rechtspersonen
+##### Artikel 18. Aansprakelijkheid van rechtspersonen
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om zich ervan te vergewissen dat rechtspersonen aansprakelijk kunnen worden gesteld voor de krachtens dit Verdrag strafbaar gestelde feiten actieve omkoping, ongeoorloofde beïnvloeding en witwassen van kapitaal, wanneer deze te hunner voordele zijn gepleegd door om het even welke natuurlijke persoon, handelend ofwel individueel, ofwel als lid van een orgaan van de rechtspersoon, die binnen de rechtspersoon een leidinggevende functie vervult, die gebaseerd is op:
 
@@ -152,7 +176,7 @@ alsmede voor de deelname van een dergelijk natuurlijk persoon als medeplichtige 
 
 3. De aansprakelijkheid van de rechtspersoon krachtens het eerste en het tweede lid sluit vervolging van de natuurlijke personen, daders, uitlokkers of medeplichtigen, van of aan de in het eerste lid vermelde strafbare feiten, niet uit.
 
-#### Artikel 19. Sancties en maatregelen
+##### Artikel 19. Sancties en maatregelen
 
 1. Rekening houdend met de ernst van de krachtens dit Verdrag strafbaar gestelde feiten, voorziet iedere Partij, ten aanzien van de overeenkomstig de artikelen [2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) strafbaar gestelde feiten, in doeltreffende, evenredige en afschrikkende sancties en maatregelen, waarvan, wanneer zij zijn gepleegd door natuurlijke personen, vrijheidsbenemende sancties die aanleiding kunnen geven tot uitlevering deel uitmaken.
 
@@ -160,11 +184,11 @@ alsmede voor de deelname van een dergelijk natuurlijk persoon als medeplichtige 
 
 3. Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om het verbeurd verklaren of het anderszins ontnemen van de instrumenten en opbrengsten van krachtens dit Verdrag strafbaar gestelde feiten of van de bezittingen waarvan de waarde overeenkomt met de opbrengsten, mogelijk te maken.
 
-#### Artikel 20. Gespecialiseerde autoriteiten
+##### Artikel 20. Gespecialiseerde autoriteiten
 
 Iedere Partij neemt de maatregelen die noodzakelijk blijken te zijn om ervoor te zorgen dat personen of organen gespecialiseerd zijn in de bestrijding van corruptie. Zij beschikken, binnen het kader van de fundamentele grondbeginselen van het rechtsstelsel van de Partij, over de nodige onafhankelijkheid om hun taken doeltreffend en ongehinderd door elke ongeoorloofde druk te kunnen uitoefenen. De Partijen zien erop toe dat het personeel van genoemde organen beschikt over een opleiding en financiële middelen die aansluiten op de uit te oefenen taken.
 
-#### Artikel 21. Samenwerking tussen nationale autoriteiten
+##### Artikel 21. Samenwerking tussen nationale autoriteiten
 
 Iedere Partij neemt de gepaste maatregelen die nodig blijken te zijn om zich ervan te vergewissen dat de overheidsinstanties alsmede elke overheidsfunctionaris overeenkomstig het nationale recht samenwerken met de autoriteiten die belast zijn met opsporing en vervolging van strafbare feiten:
 
@@ -172,7 +196,7 @@ Iedere Partij neemt de gepaste maatregelen die nodig blijken te zijn om zich erv
 
 - b. door laatstgenoemde autoriteiten, op verzoek, alle noodzakelijke informatie te verschaffen.
 
-#### Artikel 22. Bescherming van hen die samenwerken met de justitie en van getuigen
+##### Artikel 22. Bescherming van hen die samenwerken met de justitie en van getuigen
 
 Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zijn om een doeltreffende en gepaste bescherming te waarborgen:
 
@@ -180,7 +204,7 @@ Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zij
 
 - b. van getuigen die een verklaring afleggen over dergelijke strafbare feiten.
 
-#### Artikel 23. Maatregelen ter vergemakkelijking van de vergaring van bewijs en van de verbeurdverklaring van de opbrengsten
+##### Artikel 23. Maatregelen ter vergemakkelijking van de vergaring van bewijs en van de verbeurdverklaring van de opbrengsten
 
 1. Iedere Partij neemt de wetgevende en andere maatregelen, met inbegrip van die welke het gebruik van bijzondere opsporingstechnieken overeenkomstig de nationale wetgeving toestaan, die nodig blijken te zijn om de vergaring van bewijs met betrekking tot de krachtens de [artikelen 2 tot en met 14](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=2&z=2002-08-01&g=2002-08-01) strafbaar gestelde feiten te vergemakkelijken en om het identificeren, onderzoeken en bevriezen van en het beslag leggen op instrumenten en opbrengsten van corruptie of van de bezittingen waarvan de waarde overeenkomt met dergelijke opbrengsten, en die vatbaar zijn voor de maatregelen omschreven in het [derde lid van artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=19&z=2002-08-01&g=2002-08-01) van dit Verdrag, mogelijk te maken.
 
@@ -190,13 +214,13 @@ Iedere Partij neemt de wetgevende en andere maatregelen die nodig blijken te zij
 
 ### HOOFDSTUK III. TOEZICHT OP DE IMPLEMENTATIE
 
-#### Artikel 24. Toezicht
+##### Artikel 24. Toezicht
 
 De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de implementatie van dit Verdrag door de lidstaten.
 
 ### HOOFDSTUK IV. INTERNATIONALE SAMENWERKING
 
-#### Artikel 25. Algemene beginselen en maatregelen die van toepassing zijn op de internationale samenwerking
+##### Artikel 25. Algemene beginselen en maatregelen die van toepassing zijn op de internationale samenwerking
 
 1. De Partijen werken, overeenkomstig de bepalingen van de toepasselijke internationale instrumenten inzake de internationale strafrechtelijke samenwerking of de afspraken die zijn overeengekomen op basis van uniforme of wederkerige wetgeving, en overeenkomstig hun nationaal recht, in zo ruim mogelijke mate met elkaar samen ten behoeve van onderzoeken en procedures met betrekking tot de strafbare feiten die vallen binnen de werkingssfeer van dit Verdrag.
 
@@ -204,7 +228,7 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 3. De [artikelen 26 tot en met 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=IV&artikel=26&z=2002-08-01&g=2002-08-01) van dit hoofdstuk zijn ook van toepassing wanneer zij gunstiger zijn dan de bepalingen die zijn opgenomen in de internationale instrumenten of in de afspraken als bedoeld in het eerste lid.
 
-#### Artikel 26. Wederzijdse rechtshulp
+##### Artikel 26. Wederzijdse rechtshulp
 
 1. De Partijen verlenen elkaar in zo ruim mogelijke mate rechtshulp door verzoeken afkomstig van autoriteiten die krachtens hun nationale wetgeving bevoegd zijn tot het opsporen of vervolgen van de strafbare feiten die vallen binnen de werkingssfeer van dit Verdrag onverwijld te behandelen.
 
@@ -212,7 +236,7 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 3. De Partijen kunnen niet met een beroep op het bankgeheim weigeren om krachtens dit hoofdstuk samen te werken. Wanneer haar interne recht het vereist, kan een Partij eisen dat een verzoek om samenwerking dat de opheffing van het bankgeheim zou inhouden, aan de goedkeuring wordt onderworpen van ofwel een rechter, ofwel een andere rechterlijke autoriteit, met inbegrip van het openbaar ministerie, welke autoriteit optreedt inzake strafbare feiten.
 
-#### Artikel 27. Uitlevering
+##### Artikel 27. Uitlevering
 
 1. De strafbare feiten die vallen onder de werkingssfeer van dit Verdrag worden geacht in elk tussen de Partijen bestaand uitleveringsverdrag te zijn begrepen als uitleveringsdelicten. De Partijen verplichten zich ertoe deze strafbare feiten op te nemen als uitleveringsdelicten in ieder uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -224,17 +248,17 @@ De Groep van Staten tegen Corruptie (GRECO) draagt zorg voor het toezicht op de 
 
 5. Indien de uitlevering voor een overeenkomstig dit Verdrag strafbaar gesteld feit wordt geweigerd uitsluitend op grond van de nationaliteit van de persoon, of omdat de aangezochte Partij van oordeel is dat zij in het onderhavige geval tot kennisneming bevoegd is, legt de aangezochte Partij de zaak met het oog op vervolging voor aan haar bevoegde autoriteiten, tenzij met de verzoekende Partij anders is overeengekomen, en deelt zij de definitieve uitkomst daarvan te gelegener tijd mee aan de verzoekende Partij.
 
-#### Artikel 28. Informatie uit eigen beweging
+##### Artikel 28. Informatie uit eigen beweging
 
 Onverminderd haar eigen onderzoeken en procedures, kan een Partij zonder voorafgaand verzoek aan een andere Partij feitelijke gegevens verstrekken wanneer zij van oordeel is dat het vrijgeven van bedoelde gegevens de ontvangende Partij kan helpen bij het instellen of uitvoeren van onderzoeken of strafvervolgingen ter zake van de krachtens dit Verdrag strafbaar gestelde feiten of kan leiden tot een verzoek van die Partij in de zin van dit hoofdstuk.
 
-#### Artikel 29. Centrale autoriteit
+##### Artikel 29. Centrale autoriteit
 
 1. De Partijen wijzen een centrale autoriteit of, waar nodig, verscheidene centrale autoriteiten aan, belast met het verzenden en het beantwoorden van de krachtens dit hoofdstuk opgestelde verzoeken en met de uitvoering daarvan of de doorzending aan de autoriteiten die bevoegd zijn deze uit te voeren.
 
 2. Iedere Partij deelt, op het tijdstip van ondertekening of bij het nederleggen van haar akte van bekrachtiging, aanvaarding of toetreding, de Secretaris-Generaal van de Raad van Europa de naam en het adres van de ingevolge het eerste lid aangewezen autoriteiten mee.
 
-#### Artikel 30. Rechtstreekse contacten
+##### Artikel 30. Rechtstreekse contacten
 
 1. De centrale autoriteiten onderhouden rechtstreeks contact met elkaar.
 
@@ -248,13 +272,13 @@ Onverminderd haar eigen onderzoeken en procedures, kan een Partij zonder voorafg
 
 6. Iedere Staat kan, op het tijdstip van ondertekening of bij het nederleggen van haar akte van bekrachtiging, aanvaarding of toetreding, de Secretaris-Generaal van de Raad van Europa meedelen dat, om redenen van doelmatigheid, de met inachtneming van dit hoofdstuk opgestelde verzoeken gezonden moeten worden aan zijn centrale autoriteit.
 
-#### Artikel 31. Inlichtingen
+##### Artikel 31. Inlichtingen
 
 De aangezochte Partij licht de verzoekende Partij onverwijld in over het onmiddellijk gevolg dat aan een krachtens dit hoofdstuk opgesteld verzoek is gegeven alsmede over het resultaat daarvan. De aangezochte Partij licht eveneens de verzoekende Staat onverwijld in over om het even welke omstandigheden die de uitvoering van de verzochte maatregelen onmogelijk maken of deze aanzienlijk dreigen te vertragen.
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 32. Ondertekening en inwerkingtreding
+##### Artikel 32. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa en door Staten, die geen lid zijnde van de Raad, aan de opstelling hebben deelgenomen. Deze Staten kunnen hun instemming te worden gebonden tot uitdrukking brengen door:
 
@@ -268,13 +292,13 @@ De aangezochte Partij licht de verzoekende Partij onverwijld in over het onmidde
 
 4. Ten aanzien van iedere ondertekenende Staat die later zijn instemming door dit Verdrag gebonden te worden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop overeenkomstig de bepalingen van het eerste lid zijn instemming door het Verdrag te worden gebonden tot uitdrukking is gebracht. Een ondertekenende Staat die op het tijdstip van de bekrachtiging geen lid is van de Groep van Staten tegen Corruptie (GRECO) wordt daarvan automatisch lid op de datum waarop het Verdrag ten aanzien van hem in werking treedt.
 
-#### Artikel 33. Toetreding tot het Verdrag
+##### Artikel 33. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag, kan het Comité van Ministers van de Raad van Europa, na raadpleging van de Verdragsluitende Partijen bij het Verdrag, de Europese Gemeenschap alsmede iedere Staat die geen lid is van de Raad en niet heeft deelgenomen aan het opstellen ervan uitnodigen tot dit Verdrag toe te treden bij een beslissing welke overeenkomstig [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) met meerderheid van stemmen is genomen, en met eenstemmigheid van de vertegenwoordigers van de Verdragsluitende Partijen die recht hebben in het Comité zitting te nemen.
 
 2. Ten aanzien van de Europese Gemeenschap en ten aanzien van iedere toetredende Staat, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa. De Europese Gemeenschap en iedere toetredende Staat worden op de datum waarop dit Verdrag ten aanzien van hen in werking treedt automatisch lid van de Groep van Staten tegen Corruptie (GRECO), indien zij daarvan op het tijdstip van de toetreding nog geen lid zijn.
 
-#### Artikel 34. Territoriale toepasselijkheid
+##### Artikel 34. Territoriale toepasselijkheid
 
 1. Iedere Staat kan op het tijdstip van ondertekening of bij nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden nader aanduiden waarop dit Verdrag van toepassing is.
 
@@ -282,7 +306,7 @@ De aangezochte Partij licht de verzoekende Partij onverwijld in over het onmidde
 
 3. Iedere krachtens de twee vorige leden gedane verklaring kan met betrekking tot elk in die verklaring nader aangeduid grondgebied worden ingetrokken door een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 35. Verhouding tot andere Verdragen en Overeenkomsten
+##### Artikel 35. Verhouding tot andere Verdragen en Overeenkomsten
 
 1. Dit Verdrag laat onverlet de rechten en verplichtingen voortvloeiende uit internationale multilaterale verdragen betreffende specifieke aangelegenheden.
 
@@ -290,11 +314,11 @@ De aangezochte Partij licht de verzoekende Partij onverwijld in over het onmidde
 
 3. Indien twee of meer Partijen reeds een overeenkomst of verdrag hebben gesloten met betrekking tot een onderwerp dat door dit Verdrag wordt bestreken, of hun betrekkingen te dezer zake anderszins hebben geregeld, hebben zij de bevoegdheid die overeenkomst of dat verdrag, of die betrekkingen, dienovereenkomstig te regelen, in plaats van dit Verdrag, indien dit de internationale samenwerking vergemakkelijkt.
 
-#### Artikel 36. Verklaringen
+##### Artikel 36. Verklaringen
 
 Iedere Staat kan, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij de actieve en passieve omkoping van buitenlandse overheidsfunctionarissen in de zin van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=5&z=2002-08-01&g=2002-08-01), van internationale ambtenaren in de zin van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=9&z=2002-08-01&g=2002-08-01) of van rechters en ambtenaren bij internationale gerechtshoven in de zin van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=11&z=2002-08-01&g=2002-08-01), als strafbare feiten aan zal merken, slechts voor zover de overheidsfunctionaris of de rechter een handeling verricht of nalaat te verrichten in strijd met zijn plichten.
 
-#### Artikel 37. Voorbehouden
+##### Artikel 37. Voorbehouden
 
 1. Iedere Staat kan, op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij de gedragingen, bedoeld in de artikelen [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=4&z=2002-08-01&g=2002-08-01), [6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=6&z=2002-08-01&g=2002-08-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=10&z=2002-08-01&g=2002-08-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=12&z=2002-08-01&g=2002-08-01), of het in artikel [5](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=5&z=2002-08-01&g=2002-08-01) bedoelde delict van passieve omkoping, niet of gedeeltelijk, als strafbaar feit in zijn interne recht zal aanmerken.
 
@@ -304,7 +328,7 @@ Iedere Staat kan, op het tijdstip van ondertekening of bij de nederlegging van z
 
 4. Een Staat kan, in toepassing van het eerste, tweede en het derde lid van dit artikel, bij de in genoemde leden vermelde bepalingen niet meer dan vijf voorbehouden maken. Elk ander voorbehoud is niet toegestaan. Gelijksoortige voorbehouden met betrekking tot de artikelen [4](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=4&z=2002-08-01&g=2002-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=6&z=2002-08-01&g=2002-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=10&z=2002-08-01&g=2002-08-01) worden beschouwd als een voorbehoud.
 
-#### Artikel 38. Geldigheid en herziening van verklaringen en voorbehouden
+##### Artikel 38. Geldigheid en herziening van verklaringen en voorbehouden
 
 1. De verklaringen, bedoeld in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=V&artikel=36&z=2002-08-01&g=2002-08-01), en de voorbehouden, bedoeld in [artikel 37](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=V&artikel=37&z=2002-08-01&g=2002-08-01), zijn drie jaar geldig, gerekend vanaf de eerste dag van de inwerkingtreding van dit Verdrag ten aanzien van de betrokken Staat. Dergelijke verklaringen en voorbehouden kunnen evenwel worden verlengd met tijdvakken van dezelfde duur.
 
@@ -312,7 +336,7 @@ Iedere Staat kan, op het tijdstip van ondertekening of bij de nederlegging van z
 
 3. Indien een Partij overeenkomstig de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=V&artikel=36&z=2002-08-01&g=2002-08-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=V&artikel=37&z=2002-08-01&g=2002-08-01) een verklaring aflegt of een voorbehoud maakt, geeft zij voor de verlenging of op verzoek uitleg aan de GRECO over de gronden die de handhaving rechtvaardigen.
 
-#### Artikel 39. Wijzigingen
+##### Artikel 39. Wijzigingen
 
 1. Wijzigingen van dit Verdrag kunnen worden voorgesteld door iedere Partij en worden door de Secretaris-Generaal van de Raad van Europa aan de lidstaten van de Raad van Europa en aan elke Staat, die geen lid zijnde van de Raad, is toegetreden of uitgenodigd is toe te treden tot dit Verdrag overeenkomstig de bepalingen van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001532&hoofdstuk=II&artikel=23&z=2002-08-01&g=2002-08-01).
 
@@ -324,19 +348,19 @@ Iedere Staat kan, op het tijdstip van ondertekening of bij de nederlegging van z
 
 5. Iedere overeenkomstig het derde lid van dit artikel aangenomen wijziging treedt in werking op de dertigste dag nadat alle Partijen de Secretaris-Generaal hebben meegedeeld dat zij haar hebben aanvaard.
 
-#### Artikel 40. Beslechting van geschillen
+##### Artikel 40. Beslechting van geschillen
 
 1. De Europese Commissie voor strafrechtelijke vraagstukken van de Raad van Europa wordt op de hoogte gehouden van de uitleg en de toepassing van dit Verdrag.
 
 2. Ingeval van een geschil tussen de Partijen over de uitleg of de toepassing van dit Verdrag, trachten zij het geschil te beslechten, door onderhandelingen of op elke andere vreedzame wijze naar hun keuze, met inbegrip van het voorleggen van het geschil aan de Europese Commissie voor strafrechtelijke vraagstukken, aan een scheidsgerecht die beslissingen neemt welke voor de Partijen bij het geschil bindend zijn, of aan het Internationaal Gerechtshof, als overeengekomen tussen de betrokken Partijen.
 
-#### Artikel 41. Opzegging
+##### Artikel 41. Opzegging
 
 1. Iedere Partij kan te allen tijde dit Verdrag opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 42. Kennisgeving
+##### Artikel 42. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa en iedere Staat die tot dit Verdrag is toegetreden, in kennis van:
 

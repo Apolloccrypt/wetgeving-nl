@@ -1,13 +1,37 @@
 ---
 title: "Vragen en antwoorden Brede herwaardering (derde tranche)"
 identifier: "BWBR0013055"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-11-29
-laatste_update: 2001-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013055"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-11-29"
+last_updated: "2001-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013055"
+soort: "beleidsregel"
+stam_id: "8346803"
+version_id: "13218542"
+internal_id: "C18414791"
+label_id: "8327954"
+dtd_version: "2.0"
+original_entry_into_force: "2001-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013055/2001-11-29/0"
+intitule_bron: "Infob.2001-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-29"
+intitule_published: "2001-01-01"
+intitule_in_force: "2001-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2001-24"
+original_signed_date: "2001-11-29"
+original_published_date: "2001-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-11-29"
+jci_1_3: "jci1.3:c:BWBR0013055&z=2001-11-29&g=2001-11-29"
+jci_1_0: "1.0:c:BWBR0013055&g=2001-11-29"
+citeertitel_status: "redactioneel"
+signed_date: "2001-11-29"
+entry_into_force: "2001-11-29"
 ---
-
 # Vragen en antwoorden Brede herwaardering (derde tranche)
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

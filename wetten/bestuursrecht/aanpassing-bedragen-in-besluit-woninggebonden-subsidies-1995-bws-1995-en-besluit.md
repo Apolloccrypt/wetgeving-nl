@@ -1,13 +1,37 @@
 ---
 title: "Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995) en Besluit locatiegebonden subsidies (BLS)"
 identifier: "BWBR0016884"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-06-29
-laatste_update: 2004-06-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016884"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-06-29"
+last_updated: "2004-06-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016884"
+soort: "circulaire"
+stam_id: "6709103"
+version_id: "11551302"
+internal_id: "C15574371"
+label_id: "6697404"
+original_entry_into_force: "2004-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016884/2004-06-29/0"
+intitule_bron: "Stcrt.2004-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-21"
+intitule_published: "2004-06-29"
+intitule_in_force: "2004-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-121"
+original_signed_date: "2004-06-21"
+original_published_date: "2004-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-121-p22-SC65675"
+entry_into_force_date: "2004-06-29"
+jci_1_3: "jci1.3:c:BWBR0016884&z=2004-06-29&g=2004-06-29"
+jci_1_0: "1.0:c:BWBR0016884&g=2004-06-29"
+citeertitel_status: "redactioneel"
+signed_date: "2004-06-21"
+entry_into_force: "2004-06-29"
 ---
-
 # Aanpassing bedragen in Besluit woninggebonden subsidies 1995 (BWS 1995) en Besluit locatiegebonden subsidies (BLS)
 
 Geacht college, geacht bestuur,

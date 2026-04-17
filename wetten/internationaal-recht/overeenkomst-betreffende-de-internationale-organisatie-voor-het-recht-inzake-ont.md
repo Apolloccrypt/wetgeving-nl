@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende de Internationale Organisatie voor het Recht inzake Ontwikkeling"
 identifier: "BWBV0002154"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-03-28
-laatste_update: 2002-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002154"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-03-28"
+last_updated: "2002-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002154"
+soort: "verdrag"
+stam_id: "10002681843"
+version_id: "10002680642"
+internal_id: "C10006982151"
+label_id: "10002670324"
+dtd_version: "2.0"
+original_entry_into_force: "1990-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002154/2008-03-28/0"
+intitule_bron: "Trb.1988-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-03-05"
+intitule_published: "1988-04-12"
+intitule_in_force: "1990-05-16"
+intitule_status: "goed"
+original_publication: "Trb.1988-32"
+original_signed_date: "1990-03-05"
+original_published_date: "1988-04-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1988-32"
+entry_into_force_date: "1990-03-05"
+jci_1_3: "jci1.3:c:BWBV0002154&z=2008-03-28&g=2008-03-28"
+jci_1_0: "1.0:c:BWBV0002154&g=2008-03-28"
+citeertitel_status: "officieel"
+signed_date: "1990-03-05"
+entry_into_force: "1990-03-05"
 ---
-
 # Overeenkomst betreffende de Internationale Organisatie voor het Recht inzake Ontwikkeling
 
 De ondertekenende Partijen,
@@ -26,7 +51,7 @@ Zijn ervan overtuigd dat het thans wenselijk is dat het Internationaal Instituut
 
 Derhalve zijn de Partijen nu als volgt overeengekomen:
 
-#### Artikel I. Oprichting en status
+##### Artikel I. Oprichting en status
 
 1. Hierbij wordt opgericht als internationale organisatie het Internationaal Instituut voor het Recht inzake Ontwikkeling, hierna te noemen het „Instituut” of het „IDLI”.
 
@@ -34,7 +59,7 @@ Derhalve zijn de Partijen nu als volgt overeengekomen:
 
 3. Het Instituut handelt in overeenstemming met deze Overeenkomst.
 
-#### Artikel II. Doelstellingen en activiteiten
+##### Artikel II. Doelstellingen en activiteiten
 
 1. De doelstellingen van het Instituut zijn:
 
@@ -52,7 +77,7 @@ Derhalve zijn de Partijen nu als volgt overeengekomen:
 
 3. Bij zijn activiteiten, het beheer en de personeelswerving wordt het Instituut niet beïnvloed door politieke overwegingen.
 
-#### Artikel III. Bevoegdheden
+##### Artikel III. Bevoegdheden
 
 Ter bevordering van de bovenstaande doelstellingen en activiteiten bezit het Instituut de volgende bevoegdheden:
 
@@ -68,13 +93,13 @@ Ter bevordering van de bovenstaande doelstellingen en activiteiten bezit het Ins
 
 - 6. Het nemen van andere geoorloofde maatregelen nodig ter verwezenlijking van de doelstellingen van het Instituut.
 
-#### Artikel VI. Zetel
+##### Artikel VI. Zetel
 
 1. De zetel van het Instituut bevindt zich te Rome, Italië, tenzij de Vergadering besluit het Instituut naar elders te verplaatsen.
 
 2. Het Instituut kan op andere plaatsen kantoren vestigen, zoals vereist ter ondersteuning van zijn programma's.
 
-#### Artikel V. Financiën
+##### Artikel V. Financiën
 
 1. Het Instituut verkrijgt zijn financiële middelen op manieren als vrijwillige bijdragen en schenkingen; lesgelden voor cursussen en seminars; vergoedingen voor werkgroepen en technische bijstand; inkomsten uit publikatie en andere diensten; renteopbrengsten van trusts, schenkingen en bankrekeningen.
 
@@ -82,7 +107,7 @@ Ter bevordering van de bovenstaande doelstellingen en activiteiten bezit het Ins
 
 3. Het Instituut treft regelingen ten genoegen van de Regering van het land waarin zijn zetel is gevestigd, ter waarborging dat het Instituut aan zijn verplichtingen kan voldoen.
 
-#### Artikel VI. Organisatie
+##### Artikel VI. Organisatie
 
 De organisatie van het Instituut bestaat uit een Vergadering van de Partijen bij deze Overeenkomst („de Vergadering”), een Raad van Beheer, een Directeur en personeel.
 
@@ -124,33 +149,33 @@ De organisatie van het Instituut bestaat uit een Vergadering van de Partijen bij
 
 - c. De Directeur is de Raad verantwoording verschuldigd voor het functioneren en het beheer van het Instituut in overeenstemming met deze Overeenkomst en de besluiten van de Raad.
 
-#### Artikel VII. Samenwerkingsverbanden
+##### Artikel VII. Samenwerkingsverbanden
 
 Het Instituut kan samenwerkingsverbanden met andere instellingen en programma's aangaan en kan personeel aanvaarden op basis van uitlening of detachering.
 
-#### Artikel VIII. Rechten, voorrechten en immuniteiten
+##### Artikel VIII. Rechten, voorrechten en immuniteiten
 
 Het Instituut en zijn personeel genieten in het land, waarin het zijn zetel heeft, de rechten, voorrechten en immuniteiten die zijn bepaald in de zetelovereenkomst. Andere landen kunnen ter ondersteuning van de activiteiten van het Instituut in de desbetreffende landen vergelijkbare rechten, voorrechten en immuniteiten verlenen.
 
-#### Artikel IX. Externe accountant
+##### Artikel IX. Externe accountant
 
 Jaarlijks wordt een volledige financiële controle van de verrichtingen van het Instituut uitgevoerd door een door de Raad te kiezen onafhankelijk internationaal accountantskantoor. De Raad en de Vergadering krijgen inzage in de resultaten van dergelijke controles.
 
-#### Artikel X. Wijzigingen
+##### Artikel X. Wijzigingen
 
 Deze Overeenkomst kan door de Vergadering worden gewijzigd bij een meerderheid van drie vierde van de stemmen van al haar leden, mits de kennisgeving van een zodanige wijziging, te zamen met de volledige tekst daarvan ten minste acht weken voor het vastgestelde tijdstip van stemming over de voorgestelde wijziging aan alle leden van de Vergadering is toegezonden.
 
-#### Artikel XI. Opheffing
+##### Artikel XI. Opheffing
 
 1. Het Instituut kan worden opgeheven indien een meerderheid van vier vijfde van alle leden van de Vergadering besluit dat het Instituut niet langer noodzakelijk is of dat het niet langer in staat is doeltreffend te functioneren.
 
 2. In geval van opheffing worden de activa van het Instituut, die overblijven nadat aan al zijn wettelijke verplichtingen is voldaan, bij besluit van de Vergadering in overleg met de Raad verdeeld onder instellingen die soortgelijke doelstellingen hebben als het Instituut.
 
-#### Artikel XII. Beëindiging
+##### Artikel XII. Beëindiging
 
 Elke Partij bij deze Overeenkomst kan door middel van een schriftelijke kennisgeving haar toetreding tot deze Overeenkomst beëindigen en haar lidmaatschap van de Vergadering intrekken. Een zodanige beëindiging wordt van kracht drie maanden na de datum waarop de kennisgeving van beëindiging is ontvangen door de depositaris.
 
-#### Artikel XIII. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel XIII. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Deze Overeenkomst staat open voor ondertekening door Staten en intergouvernementele organisaties. In plaats van door een Staat kan zij ook worden ondertekend door een ontwikkelingsorganisatie van een nationale overheid aan wie gedelegeerd is om namens de desbetreffende Staat te handelen. Zij staat open voor ondertekening gedurende een tijdvak van twee jaar vanaf 1 juni 1987, tenzij deze termijn vóór het verstrijken daarvan door de depositaris wordt verlengd. Voor latere ondertekening van deze Overeenkomst door een partij die daarvoor op grond van deze bepaling in aanmerking komt, is de goedkeuring van de Vergadering bij eenvoudige meerderheid vereist.
 
@@ -158,11 +183,11 @@ Elke Partij bij deze Overeenkomst kan door middel van een schriftelijke kennisge
 
 3. Bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst geschiedt door de ondertekenaars overeenkomstig hun eigen wetten, voorschriften en procedures.
 
-#### Artikel XIV. Inwerkingtreding
+##### Artikel XIV. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking onmiddellijk na de ontvangst door de depositaris van kennisgevingen door drie Staten die Partij zijn bij deze Overeenkomst dat de formaliteiten die de nationale wetgeving van deze Partijen vereist met betrekking tot deze Overeenkomst zijn vervuld.
 
-#### Artikel XV. Overgang
+##### Artikel XV. Overgang
 
 Bij de inwerkingtreding van deze Overeenkomst neemt het Instituut alle nodige maatregelen ter verwerving van de rechten, verplichtingen, vergunningen, eigendommen en rentetegoeden van zijn rechtsvoorganger, het Internationaal Instituut voor het Recht inzake Ontwikkeling (International Development Law Institute), een niet-gouvernementele organisatie wettig gevestigd te Rotterdam, Nederland.
 

@@ -1,14 +1,41 @@
 ---
-title: "Wet tijdelijk huisverbod"
+title: "Wet van 9 oktober 2008, houdende regels strekkende tot het opleggen van een tijdelijk huisverbod aan personen van wie een ernstige dreiging van huiselijk geweld uitgaat (Wet tijdelijk huisverbod)"
 identifier: "BWBR0024649"
-categorie: "Overig"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024649"
+country: "nl"
+rank: "wet"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024649"
+soort: "wet"
+stam_id: "9757753"
+version_id: "15817912"
+internal_id: "C21747661"
+label_id: "9734654"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024649/2020-07-01/0"
+intitule_bron: "Stb.2008-421"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-09"
+intitule_published: "2008-11-04"
+intitule_in_force: "2008-11-25"
+intitule_status: "goed"
+original_publication: "Stb.2008-421"
+original_signed_date: "2008-10-09"
+original_published_date: "2008-11-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "30657"
+original_url_id: "stb-2008-421"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024649&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0024649&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tijdelijk huisverbod"
+signed_date: "2008-10-09"
+entry_into_force: "2009-01-01"
 ---
-
-# Wet tijdelijk huisverbod
+# Wet van 9 oktober 2008, houdende regels strekkende tot het opleggen van een tijdelijk huisverbod aan personen van wie een ernstige dreiging van huiselijk geweld uitgaat (Wet tijdelijk huisverbod)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om een maatregel in 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -26,7 +53,7 @@ In deze wet wordt verstaan onder:
 
 - c. **uithuisgeplaatste:** degene aan wie een huisverbod is opgelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De burgemeester kan een huisverbod opleggen aan een persoon indien uit feiten of omstandigheden blijkt dat diens aanwezigheid in de woning ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen die met hem in de woning wonen of daarin anders dan incidenteel verblijven of indien op grond van feiten of omstandigheden een ernstig vermoeden van dit gevaar bestaat. Het verbod geldt voor een periode van tien dagen, behoudens verlenging overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01). Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aard van de feiten en omstandigheden die aanleiding kunnen geven om een huisverbod op te leggen.
 
@@ -52,13 +79,13 @@ In deze wet wordt verstaan onder:
 
 9. De burgemeester kan het huisverbod in ieder geval intrekken indien de uithuisgeplaatste een aanbod tot hulpverlening heeft aanvaard en dit door de instantie voor advies of hulpverlening, aangewezen ingevolge het achtste lid, is bevestigd, en deze aanvaarding tevens inhoudt dat de uithuisgeplaatste hulpverlening aan één of meer personen die met de uithuisgeplaatste in de woning wonen of daarin anders dan incidenteel verblijven niet zal belemmeren en zal meewerken indien dit van hem wordt gevraagd door de instantie voor advies of hulpverlening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De burgemeester kan van de bevoegdheden en taken, bedoeld in [artikel 2, eerste, derde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=5&z=2020-07-01&g=2020-07-01), mandaat onderscheidenlijk machtiging verlenen aan de hulpofficier van justitie. [Artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:9) is niet van toepassing.
 
 2. De hulpofficier van justitie doet onverwijld mededeling van een door hem opgelegd huisverbod aan de burgemeester.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien het gevaar, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), zich voordoet, is de burgemeester of een ambtenaar van politie met het oog op het opleggen van het huisverbod, bevoegd de woning zonder toestemming van de bewoner binnen te treden, voor zover dat redelijkerwijs voor de vervulling van diens taak nodig is.
 
@@ -66,13 +93,13 @@ In deze wet wordt verstaan onder:
 
 3. Voor de controle op de naleving van het huisverbod zijn ambtenaren van politie bevoegd elke plaats waar de uithuisgeplaatste zich op grond van het huisverbod niet mag bevinden, te betreden, met uitzondering van een woning zonder toestemming van de bewoner.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de uithuisgeplaatste geen raadsman heeft, en desgevraagd rechtsbijstand wenst, stelt de burgemeester het bestuur van de raad voor rechtsbijstand daarvan in kennis, die voor de uithuisgeplaatste een raadsman aanwijst.
 
 2. De [artikelen 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=28), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=37), [38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=44) en [51 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=51) zijn van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien tegen het huisverbod een verzoek om voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:81), wordt gedaan:
 
@@ -84,11 +111,11 @@ In deze wet wordt verstaan onder:
 
 3. In afwijking van de [artikelen 8:41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:41), en [8:82, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:82) wordt door de griffier geen griffierecht geheven.
 
-#### Artikel 7
+##### Artikel 7
 
 De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste behoren en die de leeftijd van twaalf jaren hebben bereikt, in de gelegenheid hem hun mening kenbaar te maken, tenzij de spoedige behandeling van de zaak zich hiertegen verzet. Hij kan minderjarigen die de leeftijd van twaalf jaren nog niet hebben bereikt, in de gelegenheid stellen hem hun mening kenbaar te maken op een door hem te bepalen wijze.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De griffier zendt een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak van de voorzieningenrechter onverwijld, en een afschrift van de uitspraak of van het proces-verbaal van de mondelinge uitspraak van de rechtbank binnen twee weken na dagtekening van de uitspraak kosteloos aan:
 
@@ -100,7 +127,7 @@ De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste b
 
 2. De griffier stelt de uithuisgeplaatste, de raadsman van de uithuisgeplaatste en de burgemeester onverwijld mondeling op de hoogte van de uitspraak. De burgemeester stelt de personen, bedoeld in het eerste lid, onder a, voor zover zij niet aanwezig waren ter zitting waarop de uitspraak werd gedaan, en de politie onverwijld mondeling op de hoogte van de uitspraak.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De burgemeester kan een huisverbod verlengen tot ten hoogste vier weken nadat het is opgelegd indien de dreiging van het gevaar, of het ernstige vermoeden daarvan, zich voortzet. De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), en [6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=6&z=2020-07-01&g=2020-07-01) zijn van overeenkomstige toepassing.
 
@@ -110,39 +137,39 @@ De rechter stelt minderjarigen die tot het huishouden van de uithuisgeplaatste b
 
 4. Het tweede en het derde lid zijn van overeenkomstige toepassing op een verzoek om voorlopige voorziening.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De beschikking waarbij het huisverbod met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), of [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01), is opgelegd of verlengd, wordt gedurende vijf jaren ter gemeentesecretarie bewaard en vervolgens vernietigd. De gedurende deze termijn ontvangen stukken betreffende het huisverbod worden daarbij gevoegd.
 
 2. De persoonsgegevens, opgenomen in de beschikkingen of in de andere stukken, bedoeld in het eerste lid, worden verwerkt met het oog op het opleggen, het verlengen en de controle op de naleving van het huisverbod.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De uithuisgeplaatste die handelt in strijd met een met toepassing van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), of [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01), gegeven huisverbod wordt gestraft met gevangenisstraf van ten hoogste twee jaren of een geldboete van de vierde categorie.
 
 2. De in het eerste lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is op de termijnen, bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=2&z=2020-07-01&g=2020-07-01), en [9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024649&artikel=9&z=2020-07-01&g=2020-07-01), niet van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Wet op de rechtsbijstand.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet tijdelijk huisverbod.
 

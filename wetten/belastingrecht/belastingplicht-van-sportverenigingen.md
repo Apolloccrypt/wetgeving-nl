@@ -1,13 +1,37 @@
 ---
 title: "Belastingplicht van sportverenigingen"
 identifier: "BWBR0003572"
-categorie: "Belastingrecht"
-publicatiedatum: 1983-01-31
-laatste_update: 1983-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003572"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1983-01-31"
+last_updated: "1983-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003572"
+soort: "beleidsregel"
+stam_id: "8397683"
+version_id: "13270262"
+internal_id: "C18431711"
+label_id: "8378474"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003572/1983-01-31/0"
+intitule_bron: "Infob.1983-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-01-31"
+intitule_published: "1983-01-01"
+intitule_in_force: "1983-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1983-1"
+original_signed_date: "1983-01-31"
+original_published_date: "1983-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-31"
+jci_1_3: "jci1.3:c:BWBR0003572&z=1983-01-31&g=1983-01-31"
+jci_1_0: "1.0:c:BWBR0003572&g=1983-01-31"
+citeertitel_status: "redactioneel"
+signed_date: "1983-01-31"
+entry_into_force: "1983-01-31"
 ---
-
 # Belastingplicht van sportverenigingen
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten

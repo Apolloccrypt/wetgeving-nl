@@ -1,14 +1,41 @@
 ---
-title: "Wet elektriciteit en drinkwater BES"
+title: "Wet van 23 maart 2016, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Wet elektriciteit en drinkwater BES)"
 identifier: "BWBR0037861"
-categorie: "Milieu"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037861"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037861"
+soort: "wet-BES"
+stam_id: "13480533"
+version_id: "23134932"
+internal_id: "C33707151"
+label_id: "13448254"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037861/2023-01-01/0"
+intitule_bron: "Stb.2016-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-23"
+intitule_published: "2016-04-22"
+intitule_in_force: "2016-06-24"
+intitule_status: "goed"
+original_publication: "Stb.2016-142"
+original_signed_date: "2016-03-23"
+original_published_date: "2016-04-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "34089"
+original_url_id: "stb-2016-142"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0037861&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0037861&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet elektriciteit en drinkwater BES"
+signed_date: "2016-03-23"
+entry_into_force: "2016-07-01"
 ---
-
-# Wet elektriciteit en drinkwater BES
+# Wet van 23 maart 2016, houdende regels met betrekking tot de productie en de distributie van elektriciteit en drinkwater op Bonaire, Sint Eustatius en Saba (Wet elektriciteit en drinkwater BES)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,11 +99,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **woninginstallatie:** op een drinkwaternet aangesloten installatie die deel uitmaakt van een woning.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 Deze wet is van toepassing in de openbare lichamen.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld in [artikel 1 van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=1) van drinkwaren in verpakkingen als bedoeld in die wet, behoudens de productie en distributie van drinkwater of nooddrinkwater in bij regeling van Onze Minister van Infrastructuur en Waterstaat in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen verpakkingen.
 
@@ -84,7 +111,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 #### § 2.1. Vergunningverlening en inrichting producent
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het is verboden zonder vergunning elektriciteit of drinkwater te produceren ten behoeve van de distributie.
 
@@ -96,7 +123,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 - c. voor het produceren van elektriciteit of nooddrinkwater door een krachtens [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2023-01-01&g=2023-01-01), aangewezen noodproducent.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Onze Minister kan op aanvraag een vergunning voor de productie van elektriciteit of drinkwater voor een periode van ten hoogste vijftien jaar verlenen aan een rechtspersoon die:
 
@@ -114,7 +141,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 #### § 2.2. Taken en verplichtingen producent
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Een producent heeft tot taak:
 
@@ -138,7 +165,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 - c. het gebruik van materialen en chemicaliën en de wijze van toepassing, bedoeld in het eerste lid, onderdeel c.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. De boekhouding van een producent bevat betrouwbare informatie over de integrale kosten en opbrengsten die verband houden met de productie van elektriciteit of drinkwater.
 
@@ -154,7 +181,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 #### § 2.3. Tariefregulering producent
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. De Autoriteit Consument en Markt stelt op 1 januari van ieder jaar, op voorstel van een producent, de productieprijs vast die deze producent ten hoogste zal berekenen aan een distributeur voor de geproduceerde elektriciteit of voor het geproduceerde drinkwater.
 
@@ -176,13 +203,13 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 #### § 3.1. Aanwijzing en inrichting distributeur
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Het is verboden zonder een aanwijzing als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01) elektriciteit of drinkwater te distribueren.
 
 2. In afwijking van het eerste lid is geen aanwijzing nodig voor de distributie van nooddrinkwater door een krachtens [artikel 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2023-01-01&g=2023-01-01), aangewezen nooddistributeur.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Onze Minister kan op aanvraag voor ieder openbaar lichaam één rechtspersoon aanwijzen als distributeur indien deze:
 
@@ -198,13 +225,13 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de procedure voor het geven van een aanwijzing, de criteria en de inhoud van de aanwijzing en de voorschriften en beperkingen.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. Een distributeur beschikt over het eigendom van het door hem beheerde net.
 
 2. De aandelen van een distributeur berusten direct of indirect bij de Staat, een provincie, een gemeente of een openbaar lichaam.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De raad van commissarissen van een distributeur bestaat uit maximaal vijf leden.
 
@@ -212,7 +239,7 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 #### § 3.2. Taken en verplichtingen distributeur
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Een distributeur heeft in het kader van transport tot taak:
 
@@ -264,19 +291,19 @@ Deze wet is niet van toepassing op het vervaardigen of verhandelen als bedoeld i
 
 - g. de periode gedurende welke tenminste nooddrinkwater geleverd moet kunnen worden en de minimum hoeveelheid nooddrinkwater per inwoner per dag.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 Indien een aansluiting op het drinkwaternet bedrijfseconomisch onverantwoord is, heeft een distributeur tot taak om het transport van drinkwater uit te voeren via tankauto’s, tankschepen of andere transportvoorzieningen.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 Een distributeur onthoudt zich van discriminatie tussen afnemers of categorieën afnemers.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs kan vermoeden, is hij verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taken de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 3.9
+##### Artikel 3.9
 
 1. Een distributeur stelt al hetgeen redelijkerwijs in zijn vermogen ligt in het werk om afsluiting of verstoring te voorkomen en, indien een verstoring optreedt, deze zo snel mogelijk te verhelpen.
 
@@ -288,7 +315,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 5. Bij ministeriële regeling worden nadere regels gesteld over het beëindigen van de distributie van elektriciteit of drinkwater, de heraansluiting en de hoogte van het forfaitaire bedrag en over preventieve maatregelen om beëindiging zoveel mogelijk te voorkomen.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 1. Een distributeur voorziet in een transparante, eenvoudige en goedkope procedure voor:
 
@@ -308,7 +335,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 - c. de klacht zo spoedig mogelijk, doch uiterlijk binnen acht weken na dagtekening wordt afgehandeld.
 
-#### Artikel 3.11
+##### Artikel 3.11
 
 1. De boekhouding van een distributeur bevat betrouwbare en op een inzichtelijke wijze vormgegeven informatie over de integrale kosten en opbrengsten die verband houden met de distributie van elektriciteit of drinkwater.
 
@@ -324,7 +351,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van de boekhouding van een distributeur.
 
-#### Artikel 3.12
+##### Artikel 3.12
 
 1. Een distributeur voert een goed financieel beheer waardoor hij langdurig in staat is om zijn taken en verplichtingen, gesteld bij of krachtens deze paragraaf, te vervullen en na te komen. Hij bezit voldoende eigen vermogen voor noodzakelijke investeringen in netten.
 
@@ -332,7 +359,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 #### § 3.3. Collectieve drinkwatervoorziening, collectief leidingnet en woninginstallatie
 
-#### Artikel 3.13
+##### Artikel 3.13
 
 1. Een eigenaar van een productie-installatie van drinkwater voor eigen gebruik waarmee ook aan anderen drinkwater ter beschikking wordt gesteld, heeft tot taak:
 
@@ -346,7 +373,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 #### § 3.4. Tariefregulering distributeur
 
-#### Artikel 3.14
+##### Artikel 3.14
 
 1. De Autoriteit Consument en Markt stelt, op voorstel van een distributeur, de tarieven vast die de distributeur ten hoogste zal berekenen aan de afnemers voor de distributie van elektriciteit of drinkwater.
 
@@ -374,7 +401,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 9. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de procedure en de elementen en de wijze van berekening van de tarieven, bedoeld in dit artikel.
 
-#### Artikel 3.15
+##### Artikel 3.15
 
 1. Het aansluittarief verdisconteert de kosten die verband houden met de taak, bedoeld in [artikel 3.5, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-01-01&g=2023-01-01).
 
@@ -384,7 +411,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 4. Indien op een aansluiting van een afnemer die een lengte heeft van meer dan 25 meter binnen vijf jaar een nieuwe aansluiting wordt aangelegd voor een andere afnemer, dan wordt de afnemer die betaald heeft voor de bestaande aansluiting daarvoor deels gecompenseerd via de distributeur door de afnemer met een nieuwe aansluiting.
 
-#### Artikel 3.16
+##### Artikel 3.16
 
 1. Het vaste gebruikstarief verdisconteert de kosten die verband houden met de taken, bedoeld in [artikel 3.5, eerste lid, aanhef en onderdelen a, b, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-01-01&g=2023-01-01).
 
@@ -396,7 +423,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 5. Kosten die verband houden met moedwillige vernielingen door een afnemer worden individueel bij die afnemer in rekening gebracht.
 
-#### Artikel 3.17
+##### Artikel 3.17
 
 1. Het variabele gebruikstarief verdisconteert de productieprijs, bedoeld in [artikel 2.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-01-01&g=2023-01-01), en de kosten die verband houden met de taken en verplichtingen van een distributeur, met uitzondering van kosten die verband houden met de taken waarvoor een aansluittarief, vast gebruikstarief of een wegtransporttarief zijn vastgesteld.
 
@@ -404,7 +431,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 3. In afwijking van het eerste lid en [artikel 3.16, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.4&artikel=3.16&z=2023-01-01&g=2023-01-01), kan, indien er sprake is van een systeem waarbij vooraf voor een bepaalde hoeveelheid elektriciteit of drinkwater wordt betaald, door een distributeur bij een afnemer uitsluitend een door de Autoriteit Consument en Markt vast te stellen bijzonder variabel gebruikstarief in rekening worden gebracht. In dit bijzondere variabel gebruikstarief wordt het vaste gebruikstarief, bedoeld in 3.16, eerste lid, verdisconteerd waarbij wordt uitgegaan van een bij ministeriële regeling vast te stellen jaarverbruik van elektriciteit of drinkwater.
 
-#### Artikel 3.18
+##### Artikel 3.18
 
 1. Het wegtransporttarief voor drinkwater verdisconteert de kosten die verband houden met de taak, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-01-01&g=2023-01-01), en wordt verhoogd met de productieprijs, bedoeld in [artikel 2.5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.3&artikel=2.5&z=2023-01-01&g=2023-01-01).
 
@@ -416,7 +443,7 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 #### § 4.1. Teruglevering van hernieuwbare elektriciteit door afnemers
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. Voor een afnemer die hernieuwbare elektriciteit invoedt op een net, factureert en int een distributeur het variabele gebruikstarief, bedoeld in [artikel 3.14, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.4&artikel=3.14&z=2023-01-01&g=2023-01-01), op basis van de aan het net onttrokken elektriciteit.
 
@@ -430,31 +457,31 @@ Indien een distributeur bij de uitvoering van zijn taken de beschikking krijgt o
 
 #### § 4.2. Bevoegdheden waarborgen voorziening in bijzondere omstandigheden
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. Onze Minister kan een noodproducent en, voor drinkwater, eveneens een nooddistributeur, aanwijzen die elektriciteit of nooddrinkwater produceert en zo nodig distribueert. De noodproducent of nooddistributeur ontvangt een redelijke vergoeding voor de noodproductie en de nooddistributie.
 
 2. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de noodvoorziening, bedoeld in het eerste lid.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over maatregelen die worden genomen door een distributeur van drinkwater indien het drinkwater niet voldoet aan de eisen, bedoeld in 2.3, tweede lid, onderdeel a, en dit te wijten is aan de installatie van een afnemer, waaronder mede een voorziening voor het zuiveren of opslaan van drinkwater wordt begrepen, of het onderhoud daarvan.
 
 #### § 4.3. Overige bepalingen
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Onze Minister van Infrastructuur en Waterstaat stelt voor drinkwater de hoofdlijnen en beginselen van het beleid ter uitvoering van deze wet vast. Dit omvat ten minste de productie en distributie van drinkwater en de veiligstelling van een betrouwbare en duurzame openbare drinkwatervoorziening.
 
 2. Het beleid wordt opgenomen in de beleidsnota, bedoeld in [artikel 6, eerste lid, van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=6). Artikel 6, derde tot en met vijfde lid, van de Drinkwaterwet is van overeenkomstige toepassing.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 Onze Minister zendt het bestuurscollege, bedoeld in [artikel 36 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=36), dat het aangaat en de Autoriteit Consument en Markt een afschrift van de besluiten die hij neemt op basis van deze wet.
 
 ### Hoofdstuk 5. Subsidiëring
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Onze Minister kan op aanvraag voor een kalenderjaar subsidie verlenen aan een aangewezen distributeur als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01), met als doel een deel van de kosten te dekken die worden verdisconteerd in het vaste gebruikstarief en het wegtransporttarief, teneinde deze tarieven die in rekening worden gebracht bij afnemers te verminderen.
 
@@ -474,7 +501,7 @@ Onze Minister zendt het bestuurscollege, bedoeld in [artikel 36 van de Wet openb
 
 #### § 6.1. Toezicht
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 De Autoriteit Consument en Markt is belast met het toezicht op de naleving van het bepaalde bij of krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&z=2023-01-01&g=2023-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&z=2023-01-01&g=2023-01-01), met uitzondering van:
 
@@ -482,7 +509,7 @@ De Autoriteit Consument en Markt is belast met het toezicht op de naleving van h
 
 - b. de bepalingen inzake de kwaliteit, veiligheid en leveringszekerheid, waaronder verstoring en de noodvoorziening, bedoeld in [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&paragraaf=4.2&artikel=4.2&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. Onze Minister van Infrastructuur en Waterstaat is belast met het toezicht op de naleving van:
 
@@ -494,7 +521,7 @@ De Autoriteit Consument en Markt is belast met het toezicht op de naleving van h
 
 3. Bij een besluit als bedoeld in het tweede lid kunnen tevens ambtenaren ressorterend onder een openbaar lichaam worden aangewezen. Bij ministeriële regeling worden in dat geval regels gesteld betreffende de vervulling van hun in het tweede lid bedoelde taak, in overeenstemming met het openbaar lichaam dat het aangaat.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 1. Een toezichthouder is, uitsluitend voor zover dat voor de vervulling van zijn taak redelijkerwijze noodzakelijk is, bevoegd:
 
@@ -520,11 +547,11 @@ De Autoriteit Consument en Markt is belast met het toezicht op de naleving van h
 
 #### § 6.2. Handhaving
 
-#### Artikel 6.4
+##### Artikel 6.4
 
 De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Waterstaat kan een bindende gedragslijn opleggen.
 
-#### Artikel 6.5
+##### Artikel 6.5
 
 1. De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Waterstaat kan in geval van overtreding van het bepaalde bij of krachtens deze wet, voor zover hij krachtens [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2023-01-01&g=2023-01-01) of [artikel 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.1&artikel=6.2&z=2023-01-01&g=2023-01-01) met het toezicht is belast, de overtreder een last onder dwangsom opleggen, die ertoe strekt de overtreding ongedaan te maken dan wel een herhaling van de overtreding te voorkomen.
 
@@ -540,7 +567,7 @@ De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Watersta
 
 7. Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028496) kan worden ten uitvoer gelegd. De betekening van het dwangbevel geschiedt op kosten van de overtreder. Gedurende een maand na betekening staat verzet tegen het dwangbevel open door dagvaarding van de Staat der Nederlanden. Het verzet schorst de tenuitvoerlegging. Op verzoek van de Staat der Nederlanden kan de rechter de schorsing van de tenuitvoerlegging opheffen.
 
-#### Artikel 6.6
+##### Artikel 6.6
 
 1. De Autoriteit Consument en Markt kan in geval van overtreding van het bepaalde bij of krachtens [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2023-01-01&g=2023-01-01), [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.2&artikel=2.4&z=2023-01-01&g=2023-01-01), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2023-01-01&g=2023-01-01), [3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2023-01-01&g=2023-01-01), [3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2023-01-01&g=2023-01-01), [3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2023-01-01&g=2023-01-01), [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2023-01-01&g=2023-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.10&z=2023-01-01&g=2023-01-01), [3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.4&artikel=3.14&z=2023-01-01&g=2023-01-01), en [4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2023-01-01&g=2023-01-01) voor zover zij is belast met het toezicht op de naleving van die artikelen, of [6b van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b), per overtreding een bestuurlijke boete opleggen van ten hoogste USD 50.000.
 
@@ -550,7 +577,7 @@ De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Watersta
 
 4. Een bestuurlijke boete en daarmee verband houdende documenten worden aan de betrokkene meegedeeld in een voor hem begrijpelijke taal.
 
-#### Artikel 6.7
+##### Artikel 6.7
 
 1. Met het onderzoek in verband met de op te leggen bestuurlijke boete zijn belast de toezichthouders.
 
@@ -568,7 +595,7 @@ De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Watersta
 
 5. Een kopie van het rapport wordt gezonden aan degene die de overtreding heeft begaan.
 
-#### Artikel 6.8
+##### Artikel 6.8
 
 1. Een belanghebbende wordt schriftelijk opgeroepen om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen omtrent het rapport, bedoeld in [artikel 6.7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.2&artikel=6.7&z=2023-01-01&g=2023-01-01).
 
@@ -584,7 +611,7 @@ De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Watersta
 
 5. De werkzaamheden die verband houden met de uitvoering dit artikel worden verricht door toezichthouders die niet betrokken zijn geweest bij de opstelling van het rapport en het daaraan voorafgaande onderzoek.
 
-#### Artikel 6.9
+##### Artikel 6.9
 
 1. Een boete wordt betaald binnen zes weken nadat de beschikking waarbij de boete is opgelegd, in werking is getreden.
 
@@ -594,13 +621,13 @@ De Autoriteit Consument en Markt of Onze Minister van Infrastructuur en Watersta
 
 4. [Artikel 6.5, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 6.10
+##### Artikel 6.10
 
 De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=7), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=9), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=10), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12a) en [12t van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=12t) zijn van overeenkomstige toepassing voor de uitvoering van de taken en het uitoefenen van toezicht krachtens deze wet door de Autoriteit Consument en Markt.
 
 #### § 6.3. Geschilbeslechting
 
-#### Artikel 6.11
+##### Artikel 6.11
 
 1. Een afnemer die een geschil heeft met een distributeur over de wijze waarop deze zijn taken en bevoegdheden bij of krachtens deze wet uitoefent, dan wel aan zijn verplichtingen op grond van deze wet voldoet, kan, nadat de klachtprocedure, bedoeld in [artikel 3.10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.10&z=2023-01-01&g=2023-01-01), is doorlopen, een klacht indienen bij de Autoriteit Consument en Markt, of indien het een klacht aangaande kwaliteit, veiligheid of leveringszekerheid van drinkwater betreft, bij Onze Minister van Infrastructuur en Waterstaat.
 
@@ -612,7 +639,7 @@ De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&art
 
 #### § 6.4. Bevoegdheden van Onze Minister
 
-#### Artikel 6.12
+##### Artikel 6.12
 
 1. Indien Onze Minister vaststelt dat een producent of een distributeur niet in staat is zijn bij of krachtens deze wet gestelde taken uit te voeren of zijn verplichtingen na te komen, kan hij een producent of een distributeur opdragen voorzieningen of maatregelen te treffen, waaronder het staken van de productie of de distributie.
 
@@ -626,7 +653,7 @@ De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&art
 
 6. Onze Minister is bevoegd tot oplegging van een last onder dwangsom van het bepaalde in dit artikel. [Artikel 6.5, tweede tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2023-01-01&g=2023-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 6.13
+##### Artikel 6.13
 
 1. Onze Minister van Infrastructuur en Milieu kan tijdelijk ontheffing verlenen van de kwaliteitseisen voor stoffen, bedoeld in [artikel 2.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2023-01-01&g=2023-01-01), voor zover dit geen gevaar voor de volksgezondheid oplevert.
 
@@ -634,7 +661,7 @@ De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&art
 
 #### § 6.5. Coördinatie handhaving
 
-#### Artikel 6.14
+##### Artikel 6.14
 
 1. Onze Minister van Infrastructuur en Waterstaat stelt een handhavingsplan vast waarin gemotiveerd wordt aangegeven welke doelen met het toezicht op de naleving en verdere handhaving nagestreefd worden, welke activiteiten hij daartoe zal uitvoeren en welke afspraken hij heeft gemaakt met andere betrokken organen die zijn belast met het toezicht en de verdere handhaving. Bij de voorbereiding van het handhavingsbeleid worden het bestuurscollege, bedoeld in [artikel 36 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028142&artikel=36), en de Autoriteit Consument en Markt geraadpleegd.
 
@@ -642,19 +669,19 @@ De [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&art
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Wijzigt het Wetboek van Strafrecht BES.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Wijzigt het Burgerlijk Wetboek BES Boek 5.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 In aanvulling op [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.4&artikel=3.16&z=2023-01-01&g=2023-01-01), wordt het vaste gebruikstarief voor een periode van vijf jaar na afsluiting, tevens in rekening gebracht bij afnemers voor elektriciteit met een aansluiting met een capaciteit van meer dan 14 kVA of bij de afnemers met een aansluiting voor drinkwater die op het tijdstip van inwerkingtreding van [artikel 3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.4&artikel=3.14&z=2023-01-01&g=2023-01-01) van deze wet een aansluiting op het net hadden en na die datum op hun verzoek zijn afgesloten en in hun eigen elektriciteit of drinkwater zijn gaan voorzien.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 1. Diegenen die op 1 juli 2016 reeds elektriciteit of drinkwater produceerden of distribueerden en op grond van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.1&z=2023-01-01&g=2023-01-01) vergunningplichtig zijn geworden of op grond van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.1&z=2023-01-01&g=2023-01-01) een aanwijzing nodig hebben, vragen voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum, een vergunning aan als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=2&paragraaf=2.1&artikel=2.2&z=2023-01-01&g=2023-01-01) of een aanwijzing als bedoeld in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.1&artikel=3.2&z=2023-01-01&g=2023-01-01). De artikelen 2.1, eerste lid, en 3.1, eerste lid, zijn niet van toepassing op de in de eerste zin bedoelde personen tot het tijdstip waarop onherroepelijk op de aanvraag is beslist.
 
@@ -662,27 +689,27 @@ In aanvulling op [artikel 3.16, tweede lid](https://wetten.overheid.nl/jci1.3:c:
 
 3. Indien een distributeur op 1 juli 2016 niet voldeed aan de eis, bedoeld in [artikel 3.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2023-01-01&g=2023-01-01), voldoet deze distributeur, in afwijking van het tweede lid, voor 1 juli 2026 dan wel, indien die datum verstreken is, binnen een door Onze Minister te bepalen termijn van ten hoogste een jaar na die datum aan de betreffende eis.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 Het beleid, bedoeld in [artikel 4.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037861&hoofdstuk=4&paragraaf=4.3&artikel=4.4&z=2023-01-01&g=2023-01-01), wordt voor de eerste keer vastgesteld op het moment dat de eerstvolgende beleidsnota, bedoeld in [artikel 6 van de Drinkwaterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026338&artikel=6), na inwerkingtreding van artikel 4.4 van deze wet, wordt vastgesteld.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Vervallen
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 Deze wet is niet van toepassing voor zover bij of krachtens [hoofdstuk 2 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=2) regels van dezelfde aard zijn gesteld ten aanzien van een leidingnet of een installatie die deel uitmaakt van een gebouw als bedoeld in [artikel 1.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=1.2).
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 De [Wet elektriciteitsconcessies BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028194) en de[Wet drinkwater BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028180) worden ingetrokken.
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 Deze wet wordt aangehaald als: Wet elektriciteit en drinkwater BES.
 

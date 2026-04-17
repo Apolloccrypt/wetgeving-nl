@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit FIU-Nederland 2013"
+title: "Regeling van de Minister van Veiligheid en Justitie van 16 mei 2013, nr. 382509, houdende instelling van de Financial Intelligence Unit – Nederland (Instellingsbesluit FIU-Nederland 2013)"
 identifier: "BWBR0033439"
-categorie: "Overig"
-publicatiedatum: 2020-01-25
-laatste_update: 2020-01-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033439"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-25"
+last_updated: "2020-01-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033439"
+soort: "ministeriele-regeling"
+stam_id: "12262783"
+version_id: "20523112"
+internal_id: "C28863711"
+label_id: "12234114"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033439/2020-01-25/0"
+intitule_bron: "Stcrt.2013-13691"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-16"
+intitule_published: "2013-05-24"
+intitule_in_force: "2013-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-13691"
+original_signed_date: "2013-05-16"
+original_published_date: "2013-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-13691"
+entry_into_force_date: "2013-05-25"
+jci_1_3: "jci1.3:c:BWBR0033439&z=2020-01-25&g=2020-01-25"
+jci_1_0: "1.0:c:BWBR0033439&g=2020-01-25"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit FIU-Nederland 2013"
+signed_date: "2013-05-16"
+entry_into_force: "2013-05-25"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 16 mei 2013, nr. 382509, houdende instelling van de Financial Intelligence Unit – Nederland (Instellingsbesluit FIU-Nederland 2013)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **Wwft:** [Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een FIU-Nederland.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 8. Het hoofd van de FIU-Nederland is verantwoordelijk voor het gegevensbestand van ongebruikelijke transacties. Overeenkomstig [artikel 14 van de Wwft](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=14) en [artikel 3.3. van de Wwft BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3) is het gegevensbestand uitsluitend toegankelijk voor de daartoe door het hoofd van de FIU-Nederland geautoriseerde medewerkers van de FIU-Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De FIU-Nederland is beheersmatig ondergebracht bij de politie, bedoeld in [artikel 25 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=25), als herkenbare zelfstandig en onafhankelijk functionerende entiteit.
 
@@ -70,15 +96,15 @@ In deze regeling wordt verstaan onder:
 
 6. De FIU-Nederland beheert haar eigen ICT systemen in onafhankelijkheid en kan daarbij gebruik maken van de voorzieningen van de politie.
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Instellingsbesluit FIU-Nederland](https://wetten.overheid.nl/jci1.3:c:BWBR0022395) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2013.
 
-#### Artikel 6
+##### Artikel 6
 
 De regeling wordt aangehaald als: Instellingsbesluit FIU-Nederland 2013.
 

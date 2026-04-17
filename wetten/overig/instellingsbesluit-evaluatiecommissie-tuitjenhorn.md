@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit evaluatiecommissie Tuitjenhorn"
+title: "Besluit van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2014, nr. 531399, houdende instelling van de Evaluatiecommissie Tuitjenhorn"
 identifier: "BWBR0035364"
-categorie: "Overig"
-publicatiedatum: 2015-06-24
-laatste_update: 2015-06-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035364"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-06-24"
+last_updated: "2015-06-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035364"
+soort: "ministeriele-regeling"
+stam_id: "12735973"
+version_id: "21556742"
+internal_id: "C30956451"
+label_id: "12705794"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035364/2015-06-24/0"
+intitule_bron: "Stcrt.2014-20214"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-07"
+intitule_published: "2014-07-18"
+intitule_in_force: "2014-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-20214"
+original_signed_date: "2014-07-07"
+original_published_date: "2014-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-20214"
+entry_into_force_date: "2014-07-19"
+jci_1_3: "jci1.3:c:BWBR0035364&z=2015-06-24&g=2015-06-24"
+jci_1_0: "1.0:c:BWBR0035364&g=2015-06-24"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit evaluatiecommissie Tuitjenhorn"
+signed_date: "2014-07-07"
+entry_into_force: "2014-07-19"
 ---
-
 # Besluit van de Minister van Veiligheid en Justitie en de Minister van Volksgezondheid, Welzijn en Sport van 7 juli 2014, nr. 531399, houdende instelling van de Evaluatiecommissie Tuitjenhorn
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluiten:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2015-06-24&g=2015-06-24).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Evaluatiecommissie Tuitjenhorn, hierna te noemen: de commisie.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 7. Na het uitbrengen van het rapport is de commissie ontbonden.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit:
 
@@ -60,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 3. De benoeming geschiedt voor de duur van de commissie.
 
-#### Artikel 4. Secretariaat
+##### Artikel 4. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 5. De ministers dragen, na overleg met de commissie, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de commissie.
 
-#### Artikel 5. Inwinnen van inlichtingen
+##### Artikel 5. Inwinnen van inlichtingen
 
 1. De leden van de commissie kunnen zich onder meer voor het inwinnen van inlichtingen rechtstreeks wenden tot alle instanties en personen die aan het uitvoeren van haar taak kunnen bijdragen.
 
@@ -82,21 +108,21 @@ In dit besluit wordt verstaan onder:
 
 4. De commissie verstrekt aan de ministers desgevraagd de door de ministers gewenste inlichtingen.
 
-#### Artikel 6. Vergoeding
+##### Artikel 6. Vergoeding
 
 De voorzitter en de andere leden ontvangen een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter en de andere leden is [schaal 18 van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B). De arbeidsduurfactor voor de voorzitter en de andere leden is 1/5.
 
-#### Artikel 7. Archiefbescheiden
+##### Artikel 7. Archiefbescheiden
 
 1. De archiefbescheiden van de commissie, voor zover niet afkomstig van de in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035364&artikel=2&z=2015-06-24&g=2015-06-24) bedoelde organisaties, worden na afloop van het evaluatie overgebracht naar het archief van het Ministerie van Veiligheid en Justitie.
 
 2. Het beheer van de archiefbescheiden vindt plaats met inachtneming van de door commissie in haar protocol aangegeven vertrouwelijkheid.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit evaluatiecommissie Tuitjenhorn.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel openstelling landgoederen Natuurschoonwet 1928"
+title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182476, inzake de voorwaarden voor openstelling van landgoederen (Beleidsregel openstelling landgoederen Natuurschoonwet 1928)"
 identifier: "BWBR0044265"
-categorie: "Milieu"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044265"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044265"
+soort: "beleidsregel"
+stam_id: "15678583"
+version_id: "27108982"
+internal_id: "C38612641"
+label_id: "15618034"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044265/2021-01-01/0"
+intitule_bron: "Stcrt.2020-54438"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-10-27"
+intitule_published: "2020-10-29"
+intitule_in_force: "2020-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-54438"
+original_signed_date: "2020-10-27"
+original_published_date: "2020-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-54438"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044265&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044265&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel openstelling landgoederen Natuurschoonwet 1928"
+signed_date: "2020-10-27"
+entry_into_force: "2021-01-01"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Financiën van 27 oktober 2020, nr. WJZ/ 18182476, inzake de voorwaarden voor openstelling van landgoederen (Beleidsregel openstelling landgoederen Natuurschoonwet 1928)
 
 Gelet op [artikel 7, eerste lid, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Wijzigingsbesluit Rangschikkingsbes
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **wet:** [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939).
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. Deze beleidsregel geldt voor de in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) bedoelde goedkeuring door de Ministers van openstellingsregels.
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Voorwaarden openstelling landgoederen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Het opengestelde gedeelte van een landgoed vormt een aaneengesloten gebied van ten minste 5 hectare.
 
@@ -54,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Indien het landgoederen als bedoeld in [artikel 3, derde of vierde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=3) betreft, vormt het opengestelde gedeelte van deze landgoederen een aangesloten gebied van ten minste 5 hectare en geldt de voorwaarde dat het opengestelde gedeelte evenwichtig verdeeld is over beide landgoederen.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Voor wandelaars zijn er voldoende vrij toegankelijke en begaanbare wegen en paden die min of meer gelijkmatig over het landgoed zijn verdeeld.
 
@@ -72,7 +98,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. de wegen en paden van beide landgoederen zijn op elkaar aangesloten.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. Om aangemerkt te worden als een opengesteld landgoed moeten de in [artikel 2.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.2&z=2021-01-01&g=2021-01-01), bedoelde wegen en paden een minimale lengte hebben, bestaande uit de som van:
 
@@ -86,11 +112,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. de oppervlakte van terreinen of gedeelten van terreinen, daaronder begrepen vennen en plassen, die in verband met bijzondere natuurwetenschappelijke of cultuurhistorische waarden worden afgesloten voor het publiek.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden, die bij de toegangswegen tot het landgoed zijn geplaatst.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. Een landgoed of een gedeelte daarvan al dan niet tijdelijk voor het publiek afsluiten staat de aanmerking als opengesteld landgoed niet in de weg in de volgende omstandigheden:
 
@@ -112,7 +138,7 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 6. Indien een landgoed of een gedeelte daarvan tijdelijk wordt afgesloten als een gebeurtenis als bedoeld in het eerste lid, onder d, zich voordoet, meldt de eigenaar van het landgoed de tijdelijke afsluiting en de verwachte duur daarvan volledig en onverwijld aan de Ministers.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. De openstelling van een landgoed kan op verzoek van de eigenaar met toestemming van de Ministers worden beperkt door het gebruik van toegangskaarten al dan niet tegen betaling.
 
@@ -136,7 +162,7 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 6. De eigenaar van het landgoed moet het verzoek om toestemming voor het gebruik van toegangskaarten bij de Minister van Landbouw, Natuur en Voedselkwaliteit indienen.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. De eigenaar van een landgoed mag gedragsregels voor bezoekers hanteren.
 
@@ -164,7 +190,7 @@ De openstelling is voor het publiek duidelijk waarneembaar aangegeven met borden
 
 ### Hoofdstuk 3. Voorwaarden openstellingsregels
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 In de openstellingsregels moet ten minste het volgende zijn opgenomen:
 
@@ -172,11 +198,11 @@ In de openstellingsregels moet ten minste het volgende zijn opgenomen:
 
 - b. er wordt geen toegangsprijs gevraagd en toegangskaarten zijn niet nodig, behoudens in het geval als bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.6&z=2021-01-01&g=2021-01-01).
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk afsluiten van een landgoed voor het publiek indien zich een van de omstandigheden als bedoeld in [artikel 2.5, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0044265&hoofdstuk=2&artikel=2.5&z=2021-01-01&g=2021-01-01), voordoet.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. De eigenaar voegt bij het verzoek tot openstelling een topografische kaart, als bedoeld in [artikel 7, vijfde lid, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=7), bij.
 
@@ -192,13 +218,13 @@ In de openstellingsregels wordt melding gemaakt van het al dan niet tijdelijk af
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De door de eigenaar voor het landgoed opgestelde openstellingsregels worden goedgekeurd bij beschikking van de Ministers.
 
 2. Het landgoed krijgt de status van een opengesteld landgoed in de zin van [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) met ingang van het tijdstip waarop het landgoed en de openstellingsregels aan de voorwaarden in dit besluit voldoen, maar niet eerder dan het tijdstip waarop het verzoek is ontvangen door de Minister van Landbouw, Natuur en Voedselkwaliteit.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Een landgoed, dat op het moment van overlijden of schenking van de eigenaar niet of nog niet was aangemerkt als een opengesteld landgoed, kan worden aangemerkt als een opengesteld landgoed, indien is voldaan aan de volgende voorwaarden:
 
@@ -208,13 +234,13 @@ Een landgoed, dat op het moment van overlijden of schenking van de eigenaar niet
 
 - c. het landgoed moet daadwerkelijk opengesteld zijn op het moment dat de verkrijger krachtens erfrecht of schenking het verzoek tot goedkeuring van de openstellingsregels bij de Minister van Landbouw, Natuur en Voedselkwaliteit heeft ingediend.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 1. De Ministers kunnen een goedkeuring als bedoeld in [artikel 7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=7) intrekken indien naar hun oordeel niet of niet meer voldaan is aan de in dit besluit opgenomen voorwaarden.
 
 2. De vaststelling dat het landgoed of een gedeelte van een landgoed niet of niet langer als een voor het publiek opengesteld landgoed door de Ministers wordt beschouwd geldt met ingang van de datum van de beschikking tot intrekken van de goedkeuring.
 
-#### Artikel 4.4
+##### Artikel 4.4
 
 1. Nadat de openstellingsregels van een landgoed bij beschikking zijn goedgekeurd wordt het landgoed op een lijst van opengestelde landgoederen in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) geplaatst.
 
@@ -228,7 +254,7 @@ Een landgoed, dat op het moment van overlijden of schenking van de eigenaar niet
 
 3. Aan de plaatsing van een landgoed op de in het eerste lid bedoelde lijst kunnen geen rechten worden ontleend voor de toepassing van de belastingwetgeving.
 
-#### Artikel 4.5
+##### Artikel 4.5
 
 De volgende besluiten worden ingetrokken:
 
@@ -236,11 +262,11 @@ De volgende besluiten worden ingetrokken:
 
 - b. het [besluit van 8 september 2015, nr. BLKB 2015/1169M](https://wetten.overheid.nl/jci1.3:c:BWBR0036998) (Stcrt. 2015, 29749).
 
-#### Artikel 4.6
+##### Artikel 4.6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel openstelling landgoederen Natuurschoonwet 1928.
 
-#### Artikel 4.7
+##### Artikel 4.7
 
 Deze beleidsregel treedt in werking op het tijdstip waarop het [besluit van 31 augustus 2020, houdende wijziging van het Rangschikkingsbesluit Natuurschoonwet 1928 in verband met de evaluatie van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0044074) (Stb. 2020, 331) in werking treedt.
 

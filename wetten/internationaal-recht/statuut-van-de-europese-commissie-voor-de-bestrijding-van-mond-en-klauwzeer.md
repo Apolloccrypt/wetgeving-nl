@@ -1,26 +1,48 @@
 ---
 title: "Statuut van de Europese Commissie voor de bestrijding van mond- en klauwzeer"
 identifier: "BWBV0004791"
-categorie: "Internationaal recht"
-publicatiedatum: 1997-11-06
-laatste_update: 1997-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004791"
+country: "nl"
+rank: "verdrag"
+publication_date: "1997-11-06"
+last_updated: "1997-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004791"
+soort: "verdrag"
+stam_id: "10004324253"
+version_id: "10004523922"
+internal_id: "C10007052851"
+label_id: "10004309524"
+dtd_version: "2.0"
+original_entry_into_force: "1954-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004791/1997-11-06/0"
+intitule_bron: "Trb.1954-17"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-02-17"
+intitule_in_force: "1954-07-08"
+intitule_status: "goed"
+original_publication: "Trb.1954-17"
+original_published_date: "1954-02-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-17"
+entry_into_force_date: "1954-06-12"
+jci_1_3: "jci1.3:c:BWBV0004791&z=1997-11-06&g=1997-11-06"
+jci_1_0: "1.0:c:BWBV0004791&g=1997-11-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1954-06-12"
 ---
-
 # Statuut van de Europese Commissie voor de bestrijding van mond- en klauwzeer
 
 Preambule
 
 De deelnemende Regeringen, overwegende het grote belang van het voorkomen van nieuwe zware verliezen voor de Europese landbouw, veroorzaakt door het herhaald uitbreken van mond- en klauwzeer, stellen hierbij, in het kader van de Voedsel- en Landbouworganisatie van de Verenigde Naties, een Commissie in, welke bekend zal zijn als de Europese Commissie voor de bestrijding van mond- en klauwzeer, en welke ten doel heeft nationaal en internationaal maatregelen te bevorderen voor de preventie en bestrijding van mond- en klauwzeer in Europa.
 
-#### Artikel I. Lidmaatschap
+##### Artikel I. Lidmaatschap
 
 1. Lidmaatschap van de Europese Commissie voor de bestrijding van mond- en klauwzeer (hierna genoemd „de Commissie”) staat open voor die Europese Statenleden van de Voedsel- en Landbouworganisatie van de Verenigde Naties, die Staten die als Lid deelnemen aan de Regionale Conferentie voor Europa van de Voedsel- en Landbouworganisatie van de Verenigde Naties en bediend door het Regionaal Bureau voor Europa van de Voedsel- en Landbouworganisatie van de Verenigde Naties, en die Europese Statenleden van het Internationale Bureau voor besmettelijke veeziekten die lid zijn van de Verenigde Naties, welke dit Statuut aanvaarden in overeenstemming met de bepalingen van artikel XV. De Commissie kan, met een tweederdemeerderheid van de leden van de Commissie, die andere Europese Staten die lid zijn van de Verenigde Naties, elke van haar Gespecialiseerde Organisaties of de Internationale Organisatie voor Atoomenergie, tot het lidmaatschap toelaten die een aanvraag daartoe hebben ingediend alsmede een in een officiële akte vastgelegde verklaring dat zij de verplichtingen van dit Statuut, zoals deze ten tijde van de toelating van kracht zijn, aanvaarden.
 
 2. De Voedsel- en Landbouworganisatie van de Verenigde Naties (hierna genoemd „de Organisatie”), het Internationale Bureau voor besmettelijke veeziekten (hierna genoemd „het Bureau”), de Europese Gemeenschap, en de Organisatie voor Economische Samenwerking en Ontwikkeling hebben het recht op alle zittingen van de Commissie en haar subcommissies vertegenwoordigd te zijn, doch hun vertegenwoordigers hebben geen stemrecht.
 
-#### Artikel II. Verplichtingen van Leden betreffende nationale gedragslijnen en internationale samenwerking ter bestrijding van mond- en klauwzeer
+##### Artikel II. Verplichtingen van Leden betreffende nationale gedragslijnen en internationale samenwerking ter bestrijding van mond- en klauwzeer
 
 1. De Leden verplichten zich het mond- en klauwzeer te bestrijden met de uiteindelijke bedoeling deze ziekte uit te roeien, door het uitvaardigen van de daartoe geëigende quarantaine- en sanitaire maatregelen, en door een of meer van de hierna volgende methoden:
 
@@ -42,13 +64,13 @@ Eenmaal aangenomen methoden zullen stipt worden uitgevoerd.
 
 5. De Leden verplichten zich de Commissie alle inlichtingen te verstrekken, welke zij nodig mocht hebben voor de uitoefening van haar functies. In het bijzonder zullen de Leden de Commissie en het Bureau onverwijld in kennis stellen van elke uitbraak van mond- en klauwzeer en van de omvang daarvan. Voorts zullen zij opgave doen van alle verdere bijzonderheden welke de Commissie mocht verlangen.
 
-#### Artikel III. Zetel
+##### Artikel III. Zetel
 
 1. De Zetel van de Commissie en van haar Secretariaat is in Rome op het hoofdbureau van de Organisatie.
 
 2. De zittingen van de Commissie worden gehouden in de plaats waar zij haar Zetel heeft, tenzij zij, als gevolg van een beslissing van de Commissie op een van de voorgaande zittingen, of, in buitengewone omstandigheden, van een beslissing van het Uitvoerend Comité, elders worden gehouden.
 
-#### Artikel IV. Algemene Functies
+##### Artikel IV. Algemene Functies
 
 De algemene functies van de Commissie zijn:
 
@@ -78,7 +100,7 @@ De algemene functies van de Commissie zijn:
 
 - 10. Het beoordelen en goedkeuren van het verslag van het Uitvoerend Comité over de werkzaamheden van de Commissie, de jaarrekening over het voorafgaande boekjaar en de begroting en het programma voor de volgende periode van twee jaar, alvorens deze worden voorgelegd aan de Financiële Commissie van de Organisatie.
 
-#### Artikel V. Speciale Functies
+##### Artikel V. Speciale Functies
 
 Tot de speciale functies van de Commissie behoren:
 
@@ -94,7 +116,7 @@ Tot de speciale functies van de Commissie behoren:
 
 - 4. Fondsen uit het overschot van de administratieve begroting kunnen worden aangewend voor de doeleinden omschreven in het tweede en derde lid van dit Artikel, wanneer hieraan de goedkeuring wordt gehecht door de Commissie met een meerderheid van twee derde van het aantal uitgebrachte stemmen, mits deze meerderheid groter is dan de helft van het aantal Leden van de Commissie.
 
-#### Artikel VI. Zittingen
+##### Artikel VI. Zittingen
 
 1. Ieder Lid wordt op de zittingen van de Commissie vertegenwoordigd door een enkele afgevaardigde, die vergezeld kan zijn van een plaatsvervanger en van deskundigen en adviseurs. Plaatsvervangers, deskundigen en adviseurs mogen aan de werkzaamheden van de Commissie deelnemen, doch mogen niet stemmen, behoudens in geval van een plaatsvervanger, die naar behoren is gemachtigd voor de afgevaardigde op te treden.
 
@@ -104,7 +126,7 @@ Tot de speciale functies van de Commissie behoren:
 
 4. De Directeur-Generaal van de Organisatie roept, in overleg met de Voorzitter van de Commissie, ten minste eenmaal per twee jaar een gewone zitting van de Commissie bijeen. Speciale zittingen kunnen worden bijeengeroepen door de Directeur-Generaal, in overleg met de Voorzitter van de Commissie, of, indien dit wordt verzocht door de Commissie tijdens gewone zittingen, of door ten minste een derde van het aantal Leden gedurende het tijdvak tussen twee gewone zittingen.
 
-#### Artikel VII. Subcommissies
+##### Artikel VII. Subcommissies
 
 1. De Commissie kan tijdelijke, speciale of permanente subcommissies in het leven roepen voor het bestuderen van aangelegenheden welke betrekking hebben op het doel van de Commissie, en voor het uitbrengen van een verslag daarover, onder voorbehoud van de beschikbaarheid van de hiervoor noodzakelijke financiële middelen in de goedgekeurde begroting van de Commissie.
 
@@ -114,11 +136,11 @@ Tot de speciale functies van de Commissie behoren:
 
 4. Leden van de subcommissies worden benoemd tijdens de gewone zitting van de Commissie en elke subcommissie kiest haar eigen Voorzitter.
 
-#### Artikel VIII. Reglement
+##### Artikel VIII. Reglement
 
 Met inachtneming van de bepalingen van dit Statuut kan de Commissie, met een meerderheid van twee derde van haar leden, haar eigen Huishoudelijk en Financieel Reglement aannemen en wijzigen, in overeenstemming met de Algemene Regels en het Financieel Reglement van de Organisatie. De Regels van de Commissie en eventuele wijzigingen daarvan treden in werking na goedkeuring door de Directeur-Generaal van de Organisatie; het Financieel Reglement en wijzigingen daarvan dienen door de Raad van de Organisatie te worden bevestigd.
 
-#### Artikel IX. Waarnemers
+##### Artikel IX. Waarnemers
 
 1. Elk Staten-lid van de Organisatie dat geen Lid van de Commissie is alsmede elk Geassocieerd Lid kan worden uitgenodigd tot de zittingen van de Commissie of kan daar, op zijn verzoek, door een waarnemer worden vertegenwoordigd. Het lid kan memoranda indienen en aan de discussie deelnemen, maar heeft geen stemrecht.
 
@@ -126,7 +148,7 @@ Met inachtneming van de bepalingen van dit Statuut kan de Commissie, met een mee
 
 3. Op de deelname van internationale organisaties aan het werk van de Commissie en op de betrekkingen tussen de Commissie en dergelijke organisaties zijn de relevante bepalingen van het Statuut en de Algemene Regels van de Organisatie van toepassing alsook de regels inzake betrekkingen met internationale organisaties die zijn aangenomen door de Algemene Vergadering of de Raad van de Organisatie. Al deze betrekkingen behoren tot het terrein van de Directeur-Generaal van de Organisatie. Op de betrekkingen tussen de Organisatie en het Bureau is de overeenkomst van toepassing zoals die tussen de Organisatie en het Bureau van kracht is.
 
-#### Artikel X. Het Uitvoerend Comité
+##### Artikel X. Het Uitvoerend Comité
 
 1. Er wordt een Uitvoerend Comité ingesteld, dat bestaat uit de Voorzitter, twee Vicevoorzitters van de Commissie en vijf afgevaardigden van Leden welke aan het einde van iedere gewone zitting door de Commissie worden gekozen. De Voorzitter van de Commissie is tevens Voorzitter van het Uitvoerend Comité.
 
@@ -138,7 +160,7 @@ Met inachtneming van de bepalingen van dit Statuut kan de Commissie, met een mee
 
 5. De Secretaris van de Commissie treedt op als Secretaris van het Uitvoerend Comité.
 
-#### Artikel XI. Functies van het Uitvoerend Comité
+##### Artikel XI. Functies van het Uitvoerend Comité
 
 Het Uitvoerend Comité zal:
 
@@ -152,7 +174,7 @@ Het Uitvoerend Comité zal:
 
 - 5. Zich met die andere taken belasten welke de Commissie haar mocht overdragen, in het bijzonder wat betreft de noodmaatregelen bedoeld in artikel V, eerste lid.
 
-#### Artikel XII. Administratie
+##### Artikel XII. Administratie
 
 1. De staf van het Secretariaat van de Commissie wordt aangesteld door de Directeur-Generaal met goedkeuring van het Uitvoerend Comité. Voor zover het de administratie betreft, is de staf verantwoording verschuldigd aan de Directeur-Generaal. De leden van de staf worden aangesteld op dezelfde voorwaarden als de staf van de Organisatie.
 
@@ -160,7 +182,7 @@ Het Uitvoerend Comité zal:
 
 3. Uitgaven gedaan door afgevaardigden en hun plaatsvervangers, deskundigen en adviseurs in verband met het bijwonen van zittingen van de Commissie en haar subcommissies in de hoedanigheid van regeringsvertegenwoordigers, alsmede de uitgaven gedaan door waarnemers bij zittingen, worden gedragen door de onderscheiden regeringen of organisaties. De uitgaven van deskundigen die door de Commissie zijn uitgenodigd om vergaderingen van de Commissie of haar subcommissies op persoonlijke titel bij te wonen komen ten laste van de begroting van de Commissie.
 
-#### Artikel XIII. Financiën
+##### Artikel XIII. Financiën
 
 1. Ieder Lid van de Commissie verbindt zich jaarlijks zijn aandeel in de administratieve begroting bij te dragen, overeenkomstig een bijdragenschaal. Deze bijdragenschaal wordt door de Commissie goedgekeurd met een tweederdemeerderheid van haar Leden in overeenstemming met het Financieel Reglement van de Commissie.
 
@@ -176,7 +198,7 @@ Het Uitvoerend Comité zal:
 
 7. Aan het eind van elk boekjaar wordt een eventueel saldo van de administratieve begroting, waarvoor nog geen bestemming is gevonden, in het Trustfonds gehouden en beschikbaar gesteld voor de begroting van het volgende jaar.
 
-#### Artikel XIV. Wijzigingen
+##### Artikel XIV. Wijzigingen
 
 1. Dit Statuut kan door de Commissie met een meerderheid van twee derde van haar leden worden gewijzigd.
 
@@ -196,7 +218,7 @@ Het Uitvoerend Comité zal:
 
 9. De Directeur-Generaal stelt alle Leden van de Commissie in kennis van het van kracht worden van een wijziging.
 
-#### Artikel XV. Toetreding
+##### Artikel XV. Toetreding
 
 1. Toetreding tot dit Statuut geschiedt door de nederlegging van een akte van toetreding bij de Directeur-Generaal van de Organisatie en wordt ten aanzien van de Leden van de Organisatie of van het Bureau van kracht na ontvangst van een zodanige akte door de Directeur-Generaal, die daarvan elk van de Leden van de Commissie onverwijld in kennis stelt.
 
@@ -204,7 +226,7 @@ Het Uitvoerend Comité zal:
 
 3. Bij de toetreding tot het Statuut kunnen voorbehouden worden gemaakt. De Directeur-Generaal van de Organisatie stelt elk van de Leden van de Commissie onverwijld in kennis van de ontvangst van elke aanvraag tot lidmaatschap of elke akte van toetreding tot het Statuut waarin een voorbehoud wordt gemaakt. Een voorbehoud wordt alleen van kracht na unanieme goedkeuring door de Leden van de Commissie. De Leden van de Commissie die binnen drie maanden na de datum van kennisgeving door de Directeur-Generaal van het voorbehoud geen antwoord hebben gegeven worden geacht het voorbehoud te hebben aanvaard. Ingeval het voorbehoud niet unaniem wordt aanvaard door de Leden van de Commissie, wordt het land dat het voorbehoud maakt geen Partij bij dit Statuut.
 
-#### Artikel XVI. Terugtrekking
+##### Artikel XVI. Terugtrekking
 
 1. Elk Lid kan zich op ieder tijdstip na verloop van één jaar vanaf het tijdstip waarop hij tot het Statuut is toegetreden, of vanaf het tijdstip waarop het Statuut van kracht werd, naargelang welk tijdstip later valt, uit de Commissie terugtrekken, door het zenden van een schriftelijk bericht van terugtrekking aan de Directeur-Generaal van de Organisatie, die daarvan onverwijld aan alle Leden van de Commissie mededeling doet. De terugtrekking wordt van kracht een jaar na het tijdstip van ontvangst van de kennisgeving van terugtrekking.
 
@@ -212,7 +234,7 @@ Het Uitvoerend Comité zal:
 
 3. Ieder Lid van de Commissie dat zich terugtrekt uit de Organisatie of het Bureau wordt, indien het gevolg van deze terugtrekking is dat dit land niet langer Lid is van een van deze beide organen, geacht zich tegelijkertijd te hebben teruggetrokken uit de Commissie.
 
-#### Artikel XVII. Regeling van geschillen
+##### Artikel XVII. Regeling van geschillen
 
 1. Mocht er enig geschil rijzen aangaande de uitlegging of toepassing van dit Statuut, dan kan het betreffende Lid of kunnen de betreffende Leden de Directeur-Generaal van de Organisatie verzoeken een commissie in te stellen ter beoordeling van het geschil.
 
@@ -222,13 +244,13 @@ Het Uitvoerend Comité zal:
 
 4. De betreffende Leden dragen ieder voor een gelijk deel de kosten van de deskundigen.
 
-#### Artikel XVIII. Beëindiging
+##### Artikel XVIII. Beëindiging
 
 1. Dit Statuut wordt beëindigd bij beslissing van de Commissie, welke met een drie vierde meerderheid van het aantal Leden van de Commissie dient te worden genomen. Het wordt automatisch beëindigd indien het aantal Leden, ten gevolge van terugtrekkingen, minder dan zes zou bedragen.
 
 2. Bij beëindiging van het Statuut worden alle activa van de Commissie door de Directeur-Generaal van de Organisatie geliquideerd, en nadat is voldaan aan alle verplichtingen, wordt het saldo onder de Leden verdeeld in een verhouding welke is gebaseerd op de op dat tijdstip geldende bijdragenschaal. De landen welke hun bijdragen gedurende twee achtereenvolgende jaren niet hebben betaald, en zich om die reden, overeenkomstig het bepaalde in artikel XVI, tweede lid, worden geacht te hebben teruggetrokken, hebben geen recht op een aandeel in de activa.
 
-#### Artikel XIX. Inwerkingtreding
+##### Artikel XIX. Inwerkingtreding
 
 1. Dit Statuut treedt in werking na ontvangst door de Directeur-Generaal van de Organisatie van de kennisgevingen van toetreding van zes Staten-leden van de Organisatie, of van het Bureau, mits hun bijdragen in totaal niet minder bedragen dan 30% van de administratieve begroting, bedoeld in artikel XIII, eerste lid.
 

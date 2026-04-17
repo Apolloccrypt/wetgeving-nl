@@ -1,13 +1,39 @@
 ---
-title: "Besluit beheer autowrakken"
+title: "Besluit van 24 mei 2002, houdende implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) (Besluit beheer autowrakken)"
 identifier: "BWBR0013707"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013707"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013707"
+soort: "AMvB"
+stam_id: "1970433"
+version_id: "29340732"
+internal_id: "C41860631"
+label_id: "1920104"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013707/2024-01-01/0"
+intitule_bron: "Stb.2002-259"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-24"
+intitule_published: "2002-06-04"
+intitule_in_force: "2002-06-04"
+intitule_status: "goed"
+original_publication: "Stb.2023-124"
+original_signed_date: "2023-04-12"
+original_published_date: "2023-04-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-124"
+entry_into_force_date: "2023-04-12"
+jci_1_3: "jci1.3:c:BWBR0013707&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0013707&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit beheer autowrakken"
+signed_date: "2023-04-12"
+entry_into_force: "2023-04-12"
 ---
-
 # Besluit van 24 mei 2002, houdende implementatie van richtlijn nr. 2000/53/EG van het Europees Parlement en de Raad van de Europese Unie van 18 september 2000 betreffende autowrakken (PbEG L 269) (Besluit beheer autowrakken)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 5 november 2001, nr. MJZ2001120 768, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft de onderdelen e en f in afwijking van [artikel 1.1, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1), verstaan onder:
 
@@ -82,7 +108,7 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 - p. op de markt aanbieden: op de markt aanbieden als bedoeld in artikel 3, onderdeel 1, van de EU-verordening markttoezicht.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), [8, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01), [9 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op voertuigen als bedoeld in [artikel 1, onder a, onderdeel 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=1&artikel=1&z=2024-01-01&g=2024-01-01).
 
@@ -90,7 +116,7 @@ In dit besluit en de daarop berustende bepalingen wordt, voor zover het betreft 
 
 #### § 2. Preventie
 
-#### Artikel 3
+##### Artikel 3
 
 De producent neemt maatregelen ter bevordering van preventie die erop gericht zijn dat:
 
@@ -100,7 +126,7 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 - c. steeds meer materiaal afkomstig van het voorbereiden voor hergebruik of recycling in voertuigen en in andere producten wordt toegepast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden materialen en onderdelen van voertuigen, die lood, kwik, cadmium of zeswaardig chroom bevatten, na 1 juli 2003 in Nederland voor het eerst aan een ander ter beschikking te stellen.
 
@@ -108,11 +134,11 @@ De producent neemt maatregelen ter bevordering van preventie die erop gericht zi
 
 #### § 3. Afgifte, inname en verwerking
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.23), of bij omgevingsplan wordt bepaald dat een autowrak, zijnde een huishoudelijke afvalstof, slechts mag worden afgegeven aan:
 
@@ -122,17 +148,17 @@ Bij de afvalstoffenverordening, bedoeld in [artikel 10.23, eerste lid, van de We
 
 - c. degene die in een ander land dan Nederland is gevestigd en die overeenkomstig de EG-verordening overbrenging van afvalstoffen en [titel 10.7 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&titeldeel=10.7) het autowrak naar dat land brengt.
 
-#### Artikel 7
+##### Artikel 7
 
 [Artikel 10.22, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.22) blijft buiten toepassing met betrekking tot autowrakken.
 
-#### Artikel 8
+##### Artikel 8
 
 De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt opgezet voor autowrakken, voor zover het voertuigen betreft die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld.
 
 #### § 4. Hergebruik en nuttige toepassing
 
-#### Artikel 9
+##### Artikel 9
 
 1. De producent of importeur draagt er zorg voor dat in de periode van 1 januari 2003 tot en met 31 december 2014, gedurende een kalenderjaar, van autowrakken, voorzover het voertuigen betreft die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking zijn gesteld:
 
@@ -150,13 +176,13 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 #### § 5. Aanduiding en demontage-informatie
 
-#### Artikel 10
+##### Artikel 10
 
 1. De producent of importeur draagt er zorg voor dat van de voertuigen die onder zijn verantwoordelijkheid in Nederland aan een ander ter beschikking worden gesteld, de materialen of onderdelen worden voorzien van een aanduiding die in overeenstemming is met de onderdeel- en materiaalcoderingsnormen die door de Commissie van de Europese Gemeenschappen overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) van de autowrakkenrichtlijn zijn vastgesteld.
 
 2. De bij de beschikking, bedoeld in het eerste lid, vastgestelde normering gaat voor de toepassing van dit besluit gelden met ingang van het tijdstip dat door Onze Minister in de Staatscourant wordt bekendgemaakt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De producent of importeur draagt er zorg voor dat binnen zes maanden nadat voertuigen van een nieuw type onder zijn verantwoordelijkheid in Nederland voor het eerst aan een ander ter beschikking zijn gesteld, aan een ieder die een verwerking met een autowrak van een derde verricht, informatie wordt verstrekt omtrent demontage van die voertuigen, voorzover die informatie nodig is om de doelstellingen, bedoeld in [artikel 9,](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01) te realiseren.
 
@@ -168,13 +194,13 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 #### § 6. Mededeling en verslaglegging
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tegelijkertijd met de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), doet de producent mededeling aan Onze Minister over de wijze waarop uitvoering zal worden gegeven aan de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
 2. De mededeling bevat een overzicht van de te nemen maatregelen ter bevordering van preventie alsmede een schatting van de daarmee te bereiken resultaten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De mededeling, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), behoeft de instemming van Onze Minister.
 
@@ -184,11 +210,11 @@ De producent of importeur draagt er zorg voor dat een verwerkingssysteem wordt o
 
 4. Onze Minister kan de voorschriften of beperkingen, bedoeld in het tweede lid, ambtshalve of op een daartoe strekkend verzoek wijzigen of intrekken.
 
-#### Artikel 14
+##### Artikel 14
 
 De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), uit overeenkomstig de mededeling, zoals Onze Minister daarmee heeft ingestemd.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De producent zendt elk jaar voor 1 augustus aan Onze Minister een verslag over de uitvoering van de verplichting, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), in het voorafgaande kalenderjaar, voor zover hij in dat jaar als producent werkzaam was.
 
@@ -196,13 +222,13 @@ De producent voert de verplichting, bedoeld in [artikel 3](https://wetten.overhe
 
 3. Het verslag, bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5), wordt jaarlijks voor 1 augustus over het voorafgaande kalenderjaar uitgebracht.
 
-#### Artikel 16
+##### Artikel 16
 
 De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=12&z=2024-01-01&g=2024-01-01), doen of een verslag als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), toezenden.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een wijziging van de autowrakkenrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
@@ -210,35 +236,35 @@ De producenten kunnen gezamenlijk een mededeling als bedoeld in [artikel 12, eer
 
 3. Een wijziging van de richtlijn, genoemd in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=4&artikel=9&z=2024-01-01&g=2024-01-01), gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Besluit inrichtingen voor motorvoertuigen milieubeheer.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Besluit beheer personenwagenbanden.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Besluit inbeslaggenomen voorwerpen.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
-#### Artikel 23
+##### Artikel 23
 
 In afwijking van [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), heeft een verslag over de uitvoering van de verplichtingen, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=3&artikel=8&z=2024-01-01&g=2024-01-01) en [15, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&paragraaf=6&artikel=15&z=2024-01-01&g=2024-01-01), geen betrekking op het tijdvak vanaf 1 januari 2002 tot het tijdstip van inwerkingtreding van dit besluit.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit treedt in werking met ingang van 1 juli 2002. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 mei 2002, treedt het in werking met ingang van de dag waarop vier weken zijn verstreken sedert de dag van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit beheer autowrakken.
 
@@ -316,7 +342,7 @@ Bij de verwerking of vernietiging van autowrakken in een shredderinstallatie wor
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Onze Minister bevordert dat degene die een verwerking verricht, een gecertificeerd milieubeheerssysteem invoert.
 
@@ -382,7 +408,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Het is marktdeelnemers die betrokken zijn of zijn geweest bij het op de markt aanbieden van voertuigen, verboden te handelen in strijd met artikel 7, eerste lid, van de EU-verordening markttoezicht.
 

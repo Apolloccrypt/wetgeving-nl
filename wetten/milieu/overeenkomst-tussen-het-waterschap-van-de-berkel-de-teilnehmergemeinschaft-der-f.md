@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Waterschap van de Berkel, de Teilnehmergemeinschaft der Flurbereinigung Vreden en het Wasser- und Bodenverband Grosse Mast-Gaxel over de verbetering en het onderhoud van de Beurzerbeek met enkele zijleidingen in het grensgebied"
 identifier: "BWBV0003890"
-categorie: "Milieu"
-publicatiedatum: 1980-09-22
-laatste_update: 1980-09-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003890"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-09-22"
+last_updated: "1980-09-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003890"
+soort: "verdrag"
+stam_id: "10003760263"
+version_id: "10003824752"
+internal_id: "C10006981571"
+label_id: "10003745174"
+dtd_version: "2.0"
+original_entry_into_force: "1980-09-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003890/1980-09-22/0"
+intitule_bron: "Trb.1979-110"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1979-07-10"
+intitule_in_force: "1981-07-10"
+intitule_status: "goed"
+original_publication: "Trb.1979-110"
+original_published_date: "1979-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-110"
+entry_into_force_date: "1980-09-22"
+jci_1_3: "jci1.3:c:BWBV0003890&z=1980-09-22&g=1980-09-22"
+jci_1_0: "1.0:c:BWBV0003890&g=1980-09-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-09-22"
 ---
-
 # Overeenkomst tussen het Waterschap van de Berkel, de Teilnehmergemeinschaft der Flurbereinigung Vreden en het Wasser- und Bodenverband Grosse Mast-Gaxel over de verbetering en het onderhoud van de Beurzerbeek met enkele zijleidingen in het grensgebied
 
 De Teilnehmergemeinschaft der Flurbereinigung Vreden, hierna ,,Teilnehmergemeinschaft” genoemd,
@@ -24,7 +46,7 @@ het Waterschap van de Berkel, hierna „Waterschap” genoemd, vertegenwoordigd 
 
 sluiten, gelet op hoofdstuk 4, artikel 59, lid 2 van het Grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Waterschap verbindt zich, op zijn kosten overeenkomstig de als bijlage bijgevoegde tekeningen (1 overzichtskaart1)[Red: De overzichtskaart is niet opgenomen.]en 5 lengte- en dwarsprofielen2)[Red: Deze bijlagen zijn niet opgenomen.] ) de volgende gedeelten van watergangen te verbeteren en te onderhouden:
 
@@ -40,11 +62,11 @@ Het Waterschap verbindt zich, op zijn kosten overeenkomstig de als bijlage bijge
 
 De tekeningen maken deel uit van deze overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 De Teilnehmergemeinschaft verbindt zich, aan het Waterschap in de kosten van de krachtens artikel 1 uit te voeren verbetering van de Afwatering van het Warfslat een eenmalige bijdrage te betalen van drie en negentig duizend gulden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Teilnehmergemeinschaft verbindt zich, op haar kosten overeenkomstig de in artikel 1 genoemde tekeningen de volgende gedeelten van watergangen te verbeteren:
 
@@ -58,29 +80,29 @@ De Teilnehmergemeinschaft verbindt zich, aan het Waterschap in de kosten van de 
 
 2. Het Verband verbindt zich, de in lid 1 genoemde gedeelten van watergangen overeenkomstig de tekeningen te onderhouden.
 
-#### Artikel 4
+##### Artikel 4
 
 De verplichtingen in de artikelen 1 en 3 staan verderstrekkende maatregelen van de overeenkomstsluitende partijen niet in de weg, voorzover daardoor geen der overeenkomstsluitende partijen benadeeld wordt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Duitse eigenaren van aanliggende gronden mogen draineerwater brengen op de in artikel 1 onder 2 en 4 genoemde gedeelten van watergangen met inachtneming van de Nederlandse technische voorschriften.
 
 2. De Nederlandse eigenaren van aanliggende gronden mogen draineerwater brengen op de in artikel 3 onder 3 en 4 genoemde gedeelten van watergangen met inachtneming van de Duitse technische voorschriften.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Veranderingen van de overeenkomst behoeven de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden.
 
 2. Veranderingen van de in artikel 1 genoemde tekeningen behoeven slechts de instemming van de Regierungspräsident te Munster en van Gedeputeerde Staten van Gelderland.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De overeenkomst wordt voor de duur van 20 jaar aangegaan. Als zij niet drie jaar voor het verstrijken van deze termijn wordt opzegd, wordt zij stilzwijgend voor telkens 10 jaar verlengd.
 
 2. Opzegging dient te geschieden bij aangetekend schrijven.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden. Zij treedt een maand na ontvangst door een der partijen van de laatst verleende goedkeuring in werking. Partijen stellen het tijdstip van in werking treding door briefwisseling vast.
 

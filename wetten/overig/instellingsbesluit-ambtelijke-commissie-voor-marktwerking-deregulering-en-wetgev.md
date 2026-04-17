@@ -1,28 +1,52 @@
 ---
 title: "Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit"
 identifier: "BWBR0007202"
-categorie: "Overig"
-publicatiedatum: 1995-01-22
-laatste_update: 1995-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007202"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-01-22"
+last_updated: "1995-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007202"
+soort: "ministeriele-regeling"
+stam_id: "4256033"
+version_id: "6019542"
+internal_id: "C6222931"
+label_id: "4234684"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007202/1995-01-22/0"
+intitule_bron: "Stcrt.1995-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-01-10"
+intitule_published: "1995-01-20"
+intitule_in_force: "1995-01-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-15"
+original_signed_date: "1995-01-10"
+original_published_date: "1995-01-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-01-20"
+jci_1_3: "jci1.3:c:BWBR0007202&z=1995-01-22&g=1995-01-22"
+jci_1_0: "1.0:c:BWBR0007202&g=1995-01-22"
+citeertitel_status: "officieel"
+signed_date: "1995-01-10"
+entry_into_force: "1995-01-20"
 ---
-
 # Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ambtelijke commissie heeft, met het oog op de verbetering van de wetgevingskwaliteit, waarin begrepen de rechtshandhaving, de verbetering van de marktwerking en de vermindering van uit wet- en regelgeving voortvloeiende onevenredig zware lasten voor burgers, bedrijven en instellingen, tot taak:
 
@@ -34,7 +58,7 @@ Er is een ambtelijke commissie voor marktwerking, deregulering en wetgevingskwal
 
 3. De activiteiten kunnen betrekking hebben op zowel bestaande als voorgenomen wet- en regelgeving.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Leden van de ambtelijke commissie zijn:
 
@@ -52,11 +76,11 @@ Er is een ambtelijke commissie voor marktwerking, deregulering en wetgevingskwal
 
 2. Indien in de ambtelijke commissie een onderwerp aan de orde komt waarvoor geen van de in het eerste lid genoemde ministeries als eerste verantwoordelijke draagt, kan de minister die daarvoor wèl eerstverantwoordelijk is een vertegenwoordiger aanwijzen die voor de behandeling van dit onderwerp participeert in de ambtelijke commissie.
 
-#### Artikel 5
+##### Artikel 5
 
 De Ministers van Justitie en van Economische Zaken wijzen beiden een secretaris van de ambtelijke commissie aan, die gezamenlijk de werkzaamheden van de ambtelijke commissie voorbereiden en daaraan uitvoering geven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ambtelijke commissie stelt ambtelijke werkgroepen in die per onderwerp de feitelijke werkzaamheden ter hand nemen.
 
@@ -66,29 +90,29 @@ De Ministers van Justitie en van Economische Zaken wijzen beiden een secretaris 
 
 4. Het secretariaat van de werkgroepen wordt gezamenlijk gevoerd door vertegenwoordigers van de Ministeries van Justitie en van Economische Zaken, waar gewenst aangevuld met een vertegenwoordiger van het eerstverantwoordelijke ministerie.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ambtelijke commissie formuleert de concrete taakopdrachten voor de werkgroepen. Daartoe behoort steeds het doen van concreet implementeerbare beleidsvoorstellen. Tevens stelt de ambtelijke commissie de termijnen vast waarbinnen de resultaten gereed moeten zijn. De ambtelijke commissie kan in verband met de voortgangsbewaking een tussentijdse rappotage verlangen.
 
 2. De ambtelijke commissie bespreekt en beoordeelt de rapporten van de werkgroepen en geleidt deze door naar de ministeriële commissie, vergezeld van het advies van de ambtelijke commissie.
 
-#### Artikel 8
+##### Artikel 8
 
 De ambtelijke commissie doet jaarlijks voor 1 juli verslag aan de ministeriële commissie over haar werkzaamheden in de afgelopen twaalf maanden. Dit verslag bevat de in die periode uitgebrachte adviezen aan de ministeriële commissie.
 
-#### Artikel 9
+##### Artikel 9
 
 Het besluit van de Minister-President van 11 januari 1989, houdende herziening van het besluit tot instelling van de Commissie voor de toetsing van wetgevingsprojecten (Stcrt. 20), wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 De ambtelijke commissie stelt in het vierde jaar na de inwerkingtreding van dit besluit een verslag vast over de doeltreffendheid en de effecten van de werkzaamheden van de ambtelijke commissie en zendt dat aan de Ministers van Justitie en van Economische Zaken.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Instellingsbesluit ambtelijke commissie voor marktwerking, deregulering en wetgevingskwaliteit.
 

@@ -1,20 +1,45 @@
 ---
 title: "Besluit financiën en personeel Kabinetten van de Gouverneurs"
 identifier: "BWBR0030723"
-categorie: "Overig"
-publicatiedatum: 2012-12-07
-laatste_update: 2012-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030723"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-12-07"
+last_updated: "2012-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030723"
+soort: "ministeriele-regeling"
+stam_id: "11512683"
+version_id: "18947022"
+internal_id: "C26441881"
+label_id: "11485974"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030723/2012-12-07/0"
+intitule_bron: "Stcrt.2011-21877"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-14"
+intitule_published: "2011-12-06"
+intitule_in_force: "2011-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21877"
+original_signed_date: "2011-11-14"
+original_published_date: "2011-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-21877"
+entry_into_force_date: "2012-12-07"
+jci_1_3: "jci1.3:c:BWBR0030723&z=2012-12-07&g=2012-12-07"
+jci_1_0: "1.0:c:BWBR0030723&g=2012-12-07"
+citeertitel_status: "officieel"
+signed_date: "2011-11-14"
+entry_into_force: "2012-12-07"
 ---
-
 # Besluit financiën en personeel Kabinetten van de Gouverneurs
 
 Gelet op [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=19), en [21, zesde lid, van de Comptabiliteitswet 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0013891&artikel=21), [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Aruba](https://wetten.overheid.nl/jci1.3:c:BWBR0030153&artikel=4), [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Curaçao](https://wetten.overheid.nl/jci1.3:c:BWBR0028704&artikel=4) en [artikel 4 van het Instellingsbesluit Kabinet van de Gouverneur van Sint Maarten](https://wetten.overheid.nl/jci1.3:c:BWBR0028707&artikel=4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 - f. **directeur PRIO:** directeur van de directie Personeel, Regie, ICT en Organisatie van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De directeur van het Kabinet zendt de minister jaarlijks vóór 1 januari van een begrotingsjaar een bestedingsplan ten behoeve van de aan de taakvervulling van het Kabinet verbonden uitgaven voor het volgende begrotingsjaar.
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 - b. vóór 15 augustus een tussentijdse verantwoording van de ontvangsten en de uitgaven van het Kabinet over de periode van januari tot en met juni.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In aanvulling op [artikel 12, tweede lid, van het Besluit Taak FEZ](https://wetten.overheid.nl/jci1.3:c:BWBR0005333&artikel=12), beschikt de directeur van het Kabinet over het budget met betrekking tot het Kabinet, zoals vastgesteld in de begroting voor de Overige Hoge Colleges van Staat en Kabinetten (IIB).
 
@@ -52,7 +77,7 @@ In dit besluit wordt verstaan onder:
 
 5. De Rijksauditdienst is belast met de controle op de door de directeur van het Kabinet gehouden administratie. De directeur Rijksauditdienst rapporteert zijn bevindingen aan de minister en aan de directeur van het Kabinet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur van het Kabinet is bevoegd om namens de minister de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07), uit te oefenen ten aanzien van de personeelsleden werkzaam bij het Kabinet.
 
@@ -60,27 +85,27 @@ In dit besluit wordt verstaan onder:
 
 3. De directeur van het Kabinet zendt de minister jaarlijks vóór 1 april een verslag omtrent de uitgeoefende bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De directeur van het Kabinet kan een beroep doen op de directeur PRIO voor advies en bijstand ten aanzien van de uitvoering van de bevoegdheden, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
 2. De directeur PRIO ziet toe op de uitvoering van de bevoegdheden van de directeur van het Kabinet, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030723&bijlage=1&z=2012-12-07&g=2012-12-07).
 
-#### Artikel 6
+##### Artikel 6
 
 Ten minste twee maal per jaar vindt een overleg plaats tussen de directeur van het Kabinet en, namens de minister, de Secretaris-generaal over de uitvoering van deze regeling bij het Kabinet.
 
-#### Artikel 7
+##### Artikel 7
 
 Het [Beheersbesluit KABGNA/KABGA 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009743) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 10 oktober 2010.
 
 2. In tegenstelling tot het eerste lid treedt dit besluit in Aruba in werking op het tijdstip waarop een nieuw besluit tot instelling van het Kabinet van de Gouverneur van Aruba, op basis van [artikel 2 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=2), in werking treedt
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit financiën en personeel Kabinetten van de Gouverneurs.
 

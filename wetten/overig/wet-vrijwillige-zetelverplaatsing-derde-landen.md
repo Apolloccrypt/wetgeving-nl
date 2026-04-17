@@ -1,14 +1,38 @@
 ---
-title: "Wet vrijwillige zetelverplaatsing derde landen"
+title: "Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood"
 identifier: "BWBR0006968"
-categorie: "Overig"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006968"
+country: "nl"
+rank: "wet"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006968"
+soort: "wet"
+stam_id: "463563"
+version_id: "683902"
+internal_id: "C683911"
+label_id: "450984"
+dtd_version: "2.0"
+original_entry_into_force: "1994-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006968/2011-07-01/0"
+intitule_bron: "Stb.1994-800"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-13"
+intitule_status: "goed"
+original_publication: "Stb.1994-800"
+original_signed_date: "1994-10-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "23316"
+entry_into_force_date: "1994-11-23"
+entry_into_force_dossier: "23316"
+jci_1_3: "jci1.3:c:BWBR0006968&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0006968&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet vrijwillige zetelverplaatsing derde landen"
+signed_date: "1994-10-13"
+entry_into_force: "1994-11-23"
 ---
-
-# Wet vrijwillige zetelverplaatsing derde landen
+# Wet van 13 oktober 1994, houdende regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het gewenst is voor naamloze vennoots
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid, een coöperatie, een onderlinge waarborgmaatschappij en een stichting kunnen de zetel van de rechtspersoon verplaatsen naar een plaats buiten het Koninkrijk.
 
@@ -24,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het in werking treden van het besluit heeft van rechtswege tot gevolg dat de plaats waarheen de zetel is overgebracht, geldt als de zetel van de rechtspersoon.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bevoegd tot het nemen van een besluit tot zetelverplaatsing zijn:
 
@@ -46,7 +70,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. Bij een aanwijzing als bedoeld in het eerste lid, onder **c**, kunnen de bevoegdheden bedoeld in het derde tot en met het zesde lid voor een of meer van de aangewezen personen worden uitgesloten of beperkt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van het besluit tot zetelverplaatsing en van de besluiten bedoeld in [artikel 2, tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), wordt op straffe van nietigheid een in Nederland te verlijden notariële akte opgemaakt, dan wel worden de vormen in acht genomen die voor wijziging van de statuten zijn vereist in het land waarheen de zetel wordt overgebracht. De akte wordt verleden in de Nederlandse taal of in de officiële taal van het land waarnaar de zetel wordt overgebracht.
 
@@ -54,7 +78,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De notaris ten overstaan van wie de akte is verleden, zendt onverwijld een afschrift van de akte aan Onze Minister van Justitie. Indien de zetelverplaatsing geschiedt met inachtneming van de vormen voor wijziging van statuten, vereist in het land waarnaar de zetel wordt overgebracht, doet het bestuur dan wel de persoon die tot het nemen van het besluit tot zetelverplaatsing bevoegd is mededeling van de zetelverplaatsing aan Onze Minister van Justitie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een rechtspersoon waarvan de zetel overeenkomstig deze wet is verplaatst naar een land buiten het Koninkrijk en die de staat van naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij of stichting heeft behouden, kan zijn zetel naar Nederland terugbrengen.
 
@@ -66,7 +90,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 5. De notaris zendt van de akte bedoeld in het derde lid onverwijld een afschrift aan Onze Minister van Justitie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De rechtspersoon die door het verplaatsen van de statutaire zetel naar een land buiten het Koninkrijk de staat van naamloze vennootschap, besloten vennootschap met beperkte aansprakelijkheid, coöperatie, onderlinge waarborgmaatschappij of stichting heeft verloren, kan zijn zetel naar Nederland terugbrengen, indien het toepasselijke recht zich daartegen niet verzet.
 
@@ -94,7 +118,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 7. De rechtspersoon doet na de zetelverplaatsing onverwijld de nodige opgaven ter inschrijving in het handelsregister. Bij de opgave wordt een authentiek afschrift van de akte bedoeld in het derde lid overgelegd. Zolang de opgave ter inschrijving niet is geschied, zijn de bestuurders naast de rechtspersoon hoofdelijk aansprakelijk voor elke tijdens hun bestuur verrichte rechtshandeling waardoor de rechtspersoon verbonden wordt sedert de dag van de ministeriële goedkeuring, dan wel sedert de dag van de akte indien deze is verleden na de ministeriële goedkeuring.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een consulaire ambtenaar als bedoeld in de [Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847) is bevoegd tot het verlijden van een akte als bedoeld in de [artikelen 2, eerste lid, onder **c**, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=2&z=2011-07-01&g=2011-07-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=3&z=2011-07-01&g=2011-07-01), [4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=4&z=2011-07-01&g=2011-07-01), en [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006968&artikel=5&z=2011-07-01&g=2011-07-01), met dien verstande dat de beperking tot Nederlanders in [artikel 1, vierde lid, van de Consulaire Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001847&artikel=1) niet van toepassing is.
 
@@ -102,11 +126,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De door een consulaire ambtenaar of te zijnen overstaan overeenkomstig deze wet verleden akten hebben gelijke kracht als waren zij in Nederland notarieel verleden.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet kan worden aangehaald als: Wet vrijwillige zetelverplaatsing derde landen.
 

@@ -1,13 +1,37 @@
 ---
 title: "Regeling Samen Cultuurmaken 2022–2024"
 identifier: "BWBR0046394"
-categorie: "Overig"
-publicatiedatum: 2023-04-13
-laatste_update: 2023-04-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046394"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-04-13"
+last_updated: "2023-04-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046394"
+soort: "zbo"
+stam_id: "16287683"
+version_id: "29018732"
+internal_id: "C41076931"
+label_id: "16214304"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046394/2023-04-13/0"
+intitule_bron: "Stcrt.2022-6494"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-03-07"
+intitule_in_force: "2022-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-30103"
+original_signed_date: "2022-09-01"
+original_published_date: "2022-11-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-30103"
+entry_into_force_date: "2022-09-01"
+jci_1_3: "jci1.3:c:BWBR0046394&z=2023-04-13&g=2023-04-13"
+jci_1_0: "1.0:c:BWBR0046394&g=2023-04-13"
+citeertitel_status: "officieel"
+signed_date: "2022-09-01"
+entry_into_force: "2022-09-01"
 ---
-
 # Regeling Samen Cultuurmaken 2022–2024
 
 gelet op [artikel 10, vierde lid, van de **Wet op het specifiek cultuurbeleid**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -22,7 +46,7 @@ besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -60,11 +84,11 @@ In deze regeling worden onderstaande begrippen gebruikt.
 
 - q. **Sociale instelling:** een instelling met rechtspersoonlijkheid zonder commercieel winstoogmerk in het domein zorg, welzijn, leefbaarheid, werk, maatschappelijke ondersteuning, participatie en integratie, zelfredzaamheid, speciaal onderwijs, jeugdzorg, eerstelijnszorg, ouderenzorg, of GGZ en alle daaraan verwante taken, waaronder naar gemeenten gedecentraliseerd beleid.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Doel van deze regeling is het stimuleren van cultuurparticipatie door mensen voor wie in de huidige samenleving cultuurparticipatie niet vanzelfsprekend is. Dit doet het Fonds door het mede mogelijk maken van activiteiten, waarbij het cultureel en het sociaal domein en cultuurmakers samenwerken aan cultuur voor iedereen.
 
-#### Artikel 1.3. Indeling van de regeling
+##### Artikel 1.3. Indeling van de regeling
 
 Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen een subsidieaanvraag kan worden ingediend:
 
@@ -76,7 +100,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 - d. Open Oproep, zoals bedoeld in [paragraaf 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=5&z=2023-04-13&g=2023-04-13).
 
-#### Artikel 1.4. Wie kan aanvragen
+##### Artikel 1.4. Wie kan aanvragen
 
 1. Subsidie voor spoor 1 of spoor 2 kan worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde:
 
@@ -102,7 +126,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 4. Instellingen met een provinciale, door de overheid gefinancierde opdracht om het culturele veld te ondersteunen kunnen geen subsidie aanvragen; zij kunnen wel samenwerkingspartner zijn mits hun werkzaamheden niet worden gefinancierd vanuit de subsidieaanvraag.
 
-#### Artikel 1.5. Subsidieplafond en budgetverdeling
+##### Artikel 1.5. Subsidieplafond en budgetverdeling
 
 1. Spoor 1, spoor 2, spoor 3 en de Open Oproep hebben elk een eigen subsidieplafond.
 
@@ -116,7 +140,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 3. Een besluit tot wijziging van het subsidieplafond wordt bekendgemaakt via de website van het Fonds.
 
-#### Artikel 1.6. Indieningstermijnen sporen 1, 2 en 3
+##### Artikel 1.6. Indieningstermijnen sporen 1, 2 en 3
 
 1. Een aanvraag binnen spoor 1 of spoor 2 kan alleen binnen de volgende acht indieningstermijnen worden ingediend:
 
@@ -158,7 +182,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 7. Bij onvolledige aanvragen kan het Fonds de aanvrager in de gelegenheid stellen de aanvraag aan te vullen. Het moment waarop de aanvulling op de aanvraag is ingediend en goedgekeurd, geldt dan als het moment van het indienen van de aanvraag.
 
-#### Artikel 1.7. Indieningsvereisten
+##### Artikel 1.7. Indieningsvereisten
 
 1. Wat betreft het indienen van een aanvraag geldt:
 
@@ -176,7 +200,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 5. Een aanvraag voor een bijdrage van meer dan € 50.000 gaat ook vergezeld van de jaarrekeningen van de afgelopen drie jaar. Als de aanvrager deze niet kan overleggen, wordt dit toegelicht in de aanvraag. Vervolgens neemt het Fonds daarover een beslissing.
 
-#### Artikel 1.8. Weigeringsgronden
+##### Artikel 1.8. Weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -218,7 +242,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 - e. de projectaanvraag bevat een uitgewerkt marketing- of communicatieplan dat als doel heeft de zichtbaarheid van het project te vergroten.
 
-#### Artikel 1.9. Voorwaarden en beperkingen
+##### Artikel 1.9. Voorwaarden en beperkingen
 
 1. Wat betreft de sporen geldt, dat een aanvrager per indieningstermijn voor maximaal één spoor één aanvraag kan indienen. Wat betreft de Open Oproep geldt, dat per oproep bekendgemaakt wordt of er een maximaal aantal aanvragen wordt ingesteld.
 
@@ -246,7 +270,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 10. Voor spoor 3 worden per indieningstermijn maximaal vier aanvragen per provincie gehonoreerd.
 
-#### Artikel 1.10. Bijzondere verplichtingen
+##### Artikel 1.10. Bijzondere verplichtingen
 
 1. De aanvrager is verplicht:
 
@@ -282,7 +306,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 - c. aangevraagd bedrag meer dan € 25.000: pas de codes toe, leg uit waar dit nog niet volledig lukt, benoem hierbij de ambities en reflecteer hierop achteraf in de verantwoording.
 
-#### Artikel 1.11. Beslistermijn
+##### Artikel 1.11. Beslistermijn
 
 1. Het Fonds neemt aanvragen op volgorde van binnenkomst in behandeling.
 
@@ -290,7 +314,7 @@ Deze regeling kent drie sporen en de mogelijkheid van de Open Oproep waarbinnen 
 
 Het Fonds beslist binnen dertien weken nadat een volledige aanvraag is ontvangen.
 
-#### Artikel 1.12. Startdatum
+##### Artikel 1.12. Startdatum
 
 Het project:
 
@@ -302,7 +326,7 @@ Het project:
 
 - d. start, wat betreft spoor 3, uiterlijk binnen negen maanden na het indienen van de aanvraag.
 
-#### Artikel 1.13. Bevoorschotting
+##### Artikel 1.13. Bevoorschotting
 
 1. Voor gehonoreerde aanvragen waarbij de subsidie maximaal € 25.000 bedraagt, € 25.000 wordt de aanvrager een voorschot verleend van 100% van het subsidiebedrag.
 
@@ -320,29 +344,29 @@ Het project:
 
 - c. de resterende 10% van het bedrag na de subsidievaststelling.
 
-#### Artikel 1.14. Verantwoording en vaststelling subsidie
+##### Artikel 1.14. Verantwoording en vaststelling subsidie
 
 De verantwoordingsverplichtingen en vaststellingsprocedures zijn beschreven in de [paragrafen 5 tot en met 8 van het **Algemeen Subsidiereglement**](https://wetten.overheid.nl/jci1.3:c:BWBR0045516&paragraaf=5).
 
 #### Paragraaf 2. Spoor 1: Try-out
 
-#### Artikel 2.1. Waarvoor kan worden aangevraagd
+##### Artikel 2.1. Waarvoor kan worden aangevraagd
 
 1. Subsidie voor spoor 1 kan worden aangevraagd voor een onderzoek, experiment of proefsituatie waarbij concrete activiteiten met de deelnemende cultuurmakers worden uitgevoerd. De aanvrager richt zich op een activiteit vanuit samenwerking tussen het cultureel en het sociaal domein. Deze activiteit heeft als doel om drempels ten aanzien van cultuurparticipatie weg te nemen.
 
 2. Het project in spoor 1 heeft een looptijd van maximaal één jaar.
 
-#### Artikel 2.2. Subsidieplafond
+##### Artikel 2.2. Subsidieplafond
 
 Het subsidieplafond van spoor 1 bedraagt € 1.000.000 per kalenderjaar.
 
-#### Artikel 2.3. Hoogte van de subsidie
+##### Artikel 2.3. Hoogte van de subsidie
 
 1. De subsidie voor spoor 1 bedraagt minimaal € 2.500 en maximaal € 25.000 per aanvraag.
 
 2. De subsidie voor spoor 1 bedraagt maximaal 80% van de totale projectkosten.
 
-#### Artikel 2.4. Beoordeling en toekenning
+##### Artikel 2.4. Beoordeling en toekenning
 
 1. Aanvragen voor spoor 1 worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is beschreven hoe die toetsing plaatsvindt:
 
@@ -358,7 +382,7 @@ Het subsidieplafond van spoor 1 bedraagt € 1.000.000 per kalenderjaar.
 
 #### Paragraaf 3. Spoor 2: Ontwikkeltrajecten
 
-#### Artikel 3.1. Waarvoor kan worden aangevraagd?
+##### Artikel 3.1. Waarvoor kan worden aangevraagd?
 
 1. Subsidie voor spoor 2 kan worden aangevraagd voor een ontwikkeltraject waarbij leren en verbeteren centraal staan. Dit traject omvat achtereenvolgens een aantal van de door de aanvrager omschreven fasen, zoals onderzoek, ontwikkeling, uitvoering, evaluatie, doorontwikkeling en borging. De aanvrager richt zich op een activiteit vanuit samenwerking tussen het cultureel en het sociaal domein, die met de doelgroep wordt uitgevoerd. De activiteit heeft als doel om drempels ten aanzien van cultuurparticipatie weg te nemen.
 
@@ -366,17 +390,17 @@ Het subsidieplafond van spoor 1 bedraagt € 1.000.000 per kalenderjaar.
 
 3. Het project in spoor 2 heeft een looptijd van maximaal twee jaar.
 
-#### Artikel 3.2. Subsidieplafond
+##### Artikel 3.2. Subsidieplafond
 
 Het subsidieplafond voor spoor 2 bedraagt € 3.440.000 per kalenderjaar.
 
-#### Artikel 3.3. Hoogte van de subsidie
+##### Artikel 3.3. Hoogte van de subsidie
 
 1. De subsidie voor spoor 2 bedraagt meer dan € 25.000 en maximaal € 125.000 per aanvraag.
 
 2. De subsidie voor spoor 2 bedraagt niet meer dan 80% van de totale projectkosten.
 
-#### Artikel 3.4. Beoordeling en toekenning
+##### Artikel 3.4. Beoordeling en toekenning
 
 1. Aanvragen voor spoor 2 worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet hoe die toetsing plaatsvindt:
 
@@ -392,11 +416,11 @@ Het subsidieplafond voor spoor 2 bedraagt € 3.440.000 per kalenderjaar.
 
 #### Paragraaf 3a. Spoor 3: Meerjarentrajecten
 
-#### Artikel 4.1. Doel
+##### Artikel 4.1. Doel
 
 Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoering van projectactiviteiten rond specifieke thema’s waarmee cultuurparticipatie zo toegankelijk morgelijk wordt gemaakt voor en met mensen die hiertoe drempels ervaren.
 
-#### Artikel 4.2. Waarvoor kan worden aangevraagd
+##### Artikel 4.2. Waarvoor kan worden aangevraagd
 
 1. Subsidie op grond van deze paragraaf wordt verstrekt via de Open Oproep en kan worden aangevraagd voor het thema waarop de Open Oproep zich richt.
 
@@ -416,7 +440,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 5. Het project kan beginnen op het moment dat het Fonds de aanvraag heeft gehonoreerd en dat via een besluit aan de aanvrager heeft bekendgemaakt.
 
-#### Artikel 4.3. Bekendmaking en publicatie
+##### Artikel 4.3. Bekendmaking en publicatie
 
 1. Als er een Open Oproep komt, volgt er eerst een vooraankondiging. Die vooraankondiging is terug te vinden op de website van het Fonds.
 
@@ -440,13 +464,13 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 - f. de criteria aan de hand waarvan de aanvraag beoordeeld wordt, zoals bedoeld in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0046394&paragraaf=4&artikel=4.9&z=2023-04-13&g=2023-04-13).
 
-#### Artikel 4.4. Subsidieplafond
+##### Artikel 4.4. Subsidieplafond
 
 1. Het subsidieplafond voor deze paragraaf is € 1.500.000.
 
 2. Bij de publicatie van de Open Oproep wordt vermeld welk deel van het subsidieplafond hiervoor bestemd is.
 
-#### Artikel 4.5. Hoogte van de subsidie
+##### Artikel 4.5. Hoogte van de subsidie
 
 1. De subsidies voor projecten op grond van deze paragraaf zijn verdeeld in drie categorieën:
 
@@ -458,7 +482,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 2. Het Fonds vermeldt bij publicatie van de Open Oproep binnen welke categorie deze valt.
 
-#### Artikel 4.6. Subsidiepercentage
+##### Artikel 4.6. Subsidiepercentage
 
 1. Bij aanvragen voor subsidie op grond van deze paragraaf is de hoogte van het subsidiepercentage ten opzichte van de totale projectkosten:
 
@@ -468,7 +492,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 2. Het Fonds vermeldt het exacte subsidiepercentage bij publicatie van de Open Oproep.
 
-#### Artikel 4.7. Bijzondere verplichtingen
+##### Artikel 4.7. Bijzondere verplichtingen
 
 1. Subsidieontvangers zijn verplicht tot een of meer van de hieronder genoemde activiteiten:
 
@@ -482,7 +506,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 2. Het Fonds vermeldt de exacte verplichtingen bij de publicatie van de Open Oproep.
 
-#### Artikel 4.8. Indieningsvereisten
+##### Artikel 4.8. Indieningsvereisten
 
 1. Tenzij bij de publicatie van de Open Oproep anders is vermeld, worden aanvragen ingediend via het digitale aanvraagformulier op de online omgeving Mijn Fonds, via de website van het Fonds.
 
@@ -494,7 +518,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 - c. een samenwerkingsdocument.
 
-#### Artikel 4.9. Beoordelingscriteria
+##### Artikel 4.9. Beoordelingscriteria
 
 1. Aanvragen op grond van deze paragraaf worden beoordeeld aan de hand van minimaal twee en maximaal vier van de volgende criteria:
 
@@ -514,7 +538,7 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 2. Het Fonds vermeldt welke van de beoordelingscriteria van toepassing zijn bij de publicatie van de Open Oproep.
 
-#### Artikel 4.10. Beoordelingswijze
+##### Artikel 4.10. Beoordelingswijze
 
 1. Het Fonds beoordeelt de aanvragen voor de Open Oproep op volgorde van binnenkomst en neemt daarover een besluit.
 
@@ -524,15 +548,15 @@ Met deze paragraaf stimuleert het Fonds de verkenning, ontwikkeling en uitvoerin
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 5.1. Hardheidsclausule
+##### Artikel 5.1. Hardheidsclausule
 
 In zeer uitzonderlijke gevallen, waar bij het opstellen van deze regeling geen rekening mee is gehouden en die een onredelijke uitwerking hebben, kan het bestuur ten gunste van de aanvrager afwijken van de rechten en plichten die in deze regeling zijn opgenomen.
 
-#### Artikel 5.2. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
+##### Artikel 5.2. [Algemeen Subsidiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0045516)
 
 Voor zover deze regeling daar niet in voorziet, zijn de bepalingen uit het **Algemeen Subsidiereglement** van toepassing. Dat reglement is te vinden op de website van het Fonds.
 
-#### Artikel 5.3. Inwerkingtreding en vervaldatum
+##### Artikel 5.3. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag nadat deze in de **Staatscourant**is gepubliceerd.
 
@@ -540,11 +564,11 @@ Voor zover deze regeling daar niet in voorziet, zijn de bepalingen uit het **Alg
 
 3. Deze regeling vervalt met ingang van 1 januari 2027. Op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond blijft deze regeling van toepassing.
 
-#### Artikel 5.4. Citeertitel
+##### Artikel 5.4. Citeertitel
 
 Deze regeling wordt aangehaald als **Regeling Samen Cultuurmaken 2022–2024**.
 
-#### Artikel 3.4a. Waarvoor kan worden aangevraagd?
+##### Artikel 3.4a. Waarvoor kan worden aangevraagd?
 
 1. Subsidie voor spoor 3 kan alleen worden aangevraagd vanuit een samenwerking tussen organisaties of professionals in het cultureel en sociaal domein, als het een samenwerkingsproject betreft:
 
@@ -564,17 +588,17 @@ Deze regeling wordt aangehaald als **Regeling Samen Cultuurmaken 2022–2024**.
 
 4. Aanvragers gevestigd in Aruba, Curaçao of Sint-Maarten kunnen in spoor 3 uitsluitend aanvragen indienen met een looptijd van minimaal 12 tot en met maximaal 24 maanden.
 
-#### Artikel 3.4b. Subsidieplafond
+##### Artikel 3.4b. Subsidieplafond
 
 Het subsidieplafond voor spoor 3 bedraagt € 3.280.000 per kalenderjaar.
 
-#### Artikel 3.4c. Hoogte van de subsidie
+##### Artikel 3.4c. Hoogte van de subsidie
 
 1. Per project bedraagt de subsidie voor spoor 3 meer dan € 125.000, en is maximaal € 500.000.
 
 2. De subsidie voor spoor 3 bedraagt niet meer dan 50% van de totale projectkosten.
 
-#### Artikel 3.4d. Beoordeling en toekenning
+##### Artikel 3.4d. Beoordeling en toekenning
 
 1. Aanvragen voor spoor 3 worden beoordeeld aan de hand van de volgende criteria:
 

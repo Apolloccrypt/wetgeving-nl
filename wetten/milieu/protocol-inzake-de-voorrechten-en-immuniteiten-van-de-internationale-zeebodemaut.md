@@ -1,13 +1,37 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Internationale Zeebodemautoriteit"
 identifier: "BWBV0001557"
-categorie: "Milieu"
-publicatiedatum: 2003-05-31
-laatste_update: 2003-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001557"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-05-31"
+last_updated: "2003-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001557"
+soort: "verdrag"
+stam_id: "10000696043"
+version_id: "10000714202"
+internal_id: "C10006990111"
+label_id: "10000696314"
+original_entry_into_force: "2003-05-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001557/2003-05-31/0"
+intitule_bron: "Trb.1998-242"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-21"
+intitule_published: "1998-10-26"
+intitule_in_force: "2003-06-18"
+intitule_status: "goed"
+original_publication: "Trb.1998-242"
+original_signed_date: "2002-11-21"
+original_published_date: "1998-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-242"
+entry_into_force_date: "2003-05-31"
+jci_1_3: "jci1.3:c:BWBV0001557&z=2003-05-31&g=2003-05-31"
+jci_1_0: "1.0:c:BWBV0001557&g=2003-05-31"
+citeertitel_status: "officieel"
+signed_date: "2002-11-21"
+entry_into_force: "2003-05-31"
 ---
-
 # Protocol inzake de voorrechten en immuniteiten van de Internationale Zeebodemautoriteit
 
 The States Parties to this Protocol,
@@ -22,7 +46,7 @@ Recognizing that certain additional privileges and immunities are necessary for 
 
 Have agreed as follows:
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 For the purposes of this Protocol:
 
@@ -44,11 +68,11 @@ For the purposes of this Protocol:
 
 - g). “Secretary-General" means the Secretary-General of the International Seabed Authority.
 
-#### Article 2. General provision
+##### Article 2. General provision
 
 Without prejudice to the legal status, privileges and immunities accorded to the Authority and the Enterprise set forth in [section 4, subsection G, of Part XI](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&paragraaf=G) and [Annex IV, article 13, of the Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&artikel=13) respectively, each State party to this Protocol shall accord to the Authority and its organs, the representatives of members of the Authority, officials of the Authority and experts on mission for the Authority such privileges and immunities as are specified in this Protocol.
 
-#### Article 3. Legal personality of the Authority
+##### Article 3. Legal personality of the Authority
 
 1. The Authority shall possess legal personality. It shall have the legal capacity:
 
@@ -58,11 +82,11 @@ Without prejudice to the legal status, privileges and immunities accorded to the
 
 - c). to be a party in legal proceedings.
 
-#### Article 4. Inviolability of the premises of the Authority
+##### Article 4. Inviolability of the premises of the Authority
 
 The premises of the Authority shall be inviolable.
 
-#### Article 5. Financial facilities of the Authority
+##### Article 5. Financial facilities of the Authority
 
 1. Without being restricted by financial controls, regulations or moratoriums of any kind, the Authority may freely:
 
@@ -74,11 +98,11 @@ The premises of the Authority shall be inviolable.
 
 2. The Authority shall, in exercising its rights under paragraph 1 of this article, pay due regard to any representations made by the Government of any member of the Authority insofar as it is considered that effect can be given to such representations without detriment to the interests of the Authority.
 
-#### Article 6. Flag and emblem
+##### Article 6. Flag and emblem
 
 The Authority shall be entitled to display its flag and emblem at its premises and on vehicles used for official purposes.
 
-#### Article 7. Representatives of members of the Authority
+##### Article 7. Representatives of members of the Authority
 
 1. Representatives of members of the Authority attending meetings convened by the Authority shall, while exercising their functions and during their journey to and from the place of meeting, enjoy the following privileges and immunities:
 
@@ -104,7 +128,7 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 6. The provisions of paragraphs 1, 2 and 3 are not applicable as between a representative and the authorities of the member of the Authority of which he is a national or of which he or she is or has been a representative.
 
-#### Article 8. Officials
+##### Article 8. Officials
 
 1. The Secretary-General will specify the categories of officials to which the provisions of paragraph 2 of this article shall apply. The Secretary-General shall submit these categories to the Assembly. Thereafter these categories shall be communicated to the Governments of all members of the Authority. The names of the officials included in these categories shall from time to time be made known to the Governments of members of the Authority.
 
@@ -136,7 +160,7 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 6. Pursuant to the laws and regulations of the State concerned, the officials of the Authority shall be required to have insurance coverage against third-party risks in respect of vehicles owned or operated by them.
 
-#### Article 9. Experts on mission for the Authority
+##### Article 9. Experts on mission for the Authority
 
 1. Experts (other than officials coming within the scope of article 8) performing missions for the Authority shall be accorded such privileges and immunities as are necessary for the independent exercise of their functions during the period of their missions, including the time spent on journeys in connection with their missions. In particular they shall be accorded:
 
@@ -154,25 +178,25 @@ The Authority shall be entitled to display its flag and emblem at its premises a
 
 2. Privileges and immunities are accorded to experts, not for the personal benefit of the individuals themselves, but in order to safeguard the independent exercise of their functions in connection with the Authority. The Secretary-General shall have the right and the duty to waive the immunity of any expert where, in the opinion of the Secretary-General, the immunity would impede the course of justice, and it can be waived without prejudice to the interests of the Authority.
 
-#### Article 10. Respect for laws and regulations
+##### Article 10. Respect for laws and regulations
 
 Without prejudice to their privileges and immunities, it is the duty of all persons referred to in articles 7, 8 and 9 to respect the laws and regulations of the member of the Authority in whose territory they may be on the business of the Authority or through whose territory they may pass on such business. They also have a duty not to interfere in the internal affairs of that member.
 
-#### Article 11. Laissez-passer and visas
+##### Article 11. Laissez-passer and visas
 
 1. Without prejudice to the possibility for the Authority to issue its own travel documents, the States Parties to this Protocol shall recognize and accept the United Nations laissez-passer issued to officials of the Authority.
 
 2. Applications for visas (where required) from officials of the Authority shall be dealt with as speedily as possible. Applications for visas (where required) from officials of the Authority holding United Nations laissez-passer shall be accompanied by a document confirming that they are travelling on the official business of the Authority.
 
-#### Article 12. Relationship between the Headquarters Agreement and the Protocol
+##### Article 12. Relationship between the Headquarters Agreement and the Protocol
 
 The provisions of this Protocol shall be complementary to the provisions of the Headquarters Agreement. Insofar as any provision of this Protocol relates to the same subject matter, the two provisions shall, wherever possible, be treated as complementary, so that both provisions shall be applicable and neither shall narrow the effect of the other; but in any case of conflict, the provisions of that Agreement shall prevail.
 
-#### Article 13. Supplementary agreement
+##### Article 13. Supplementary agreement
 
 This Protocol shall in no way limit or prejudice the privileges and immunities which have been, or may hereafter be, accorded to the Authority by any member of the Authority by reason of the location in the territory of that member of the Authority's headquarters or regional centres or offices. This Protocol shall not be deemed to prevent the conclusion of supplementary agreements between the Authority and any member of the Authority.
 
-#### Article 14. Settlement of disputes
+##### Article 14. Settlement of disputes
 
 1. In connection with the implementation of the privileges and immunities granted under this Protocol, the Authority shall make suitable provision for the proper settlement of:
 
@@ -188,39 +212,39 @@ This Protocol shall in no way limit or prejudice the privileges and immunities w
 
 Should the first two arbitrators fail to agree upon the appointment of the third arbitrator within three months following the appointment of the first two arbitrators, the third arbitrator shall be chosen by the President of the International Tribunal for the Law of the Sea upon the request of the Secretary-General or the other party to the dispute.
 
-#### Article 15. Signature
+##### Article 15. Signature
 
 This Protocol shall be open for signature by all members of the Authority at the headquarters of the International Seabed Authority in Kingston, Jamaica, from 17 August until 28 August 1998 and subsequently until 16 August 2000 at United Nations Headquarters in New York.
 
-#### Article 16. Ratification
+##### Article 16. Ratification
 
 This Protocol is subject to ratification, approval or acceptance. The instruments of ratification, approval or acceptance shall be deposited with the Secretary-General of the United Nations.
 
-#### Article 17. Accession
+##### Article 17. Accession
 
 This Protocol shall remain open for accession by all members of the Authority. The instruments of accession shall be deposited with the Secretary-General of the United Nations.
 
-#### Article 18. Entry into force
+##### Article 18. Entry into force
 
 1. The Protocol shall enter into force 30 days after the date of deposit of the tenth instrument of ratification, approval, acceptance or accession.
 
 2. For each member of the Authority which ratifies, approves or accepts this Protocol or accedes thereto after the deposit of the tenth instrument of ratification, approval, acceptance or accession, this Protocol shall enter into force on the thirtieth day following the deposit of its instrument of ratification, approval, acceptance or accession.
 
-#### Article 19. Provisional application
+##### Article 19. Provisional application
 
 A State which intends to ratify, approve, accept or accede to this Protocol may at any time notify the depositary that it will apply this Protocol provisionally for a period not exceeding two years.
 
-#### Article 20. Denunciation
+##### Article 20. Denunciation
 
 1. A State Party may, by written notification addressed to the Secretary-General of the United Nations, denounce this Protocol. The denunciation shall take effect one year after the date of receipt of the notification, unless the notification specifies a later date.
 
 2. The denunciation shall not in any way affect the duty of any State Party to fulfil any obligation embodied in this Protocol to which it would be subject under international law independently of this Protocol.
 
-#### Article 21. Depositary
+##### Article 21. Depositary
 
 The Secretary-General of the United Nations shall be the depositary of this Protocol.
 
-#### Article 22. Authentic texts
+##### Article 22. Authentic texts
 
 The Arabic, Chinese, English, French, Russian and Spanish texts of this Protocol are equally authentic.
 

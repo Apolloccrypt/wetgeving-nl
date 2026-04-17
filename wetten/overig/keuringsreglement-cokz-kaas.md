@@ -1,13 +1,37 @@
 ---
 title: "Keuringsreglement COKZ kaas"
 identifier: "BWBR0009718"
-categorie: "Overig"
-publicatiedatum: 2002-12-13
-laatste_update: 2002-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009718"
+country: "nl"
+rank: "zbo"
+publication_date: "2002-12-13"
+last_updated: "2002-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009718"
+soort: "zbo"
+stam_id: "6780153"
+version_id: "11639792"
+internal_id: "C19844601"
+label_id: "6768924"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009718/2002-12-13/0"
+intitule_bron: "Stcrt.1998-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-24"
+intitule_published: "1998-10-01"
+intitule_in_force: "1998-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-187"
+original_signed_date: "1998-06-24"
+original_published_date: "1998-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-187-p16-SC15657"
+entry_into_force_date: "1998-10-01"
+jci_1_3: "jci1.3:c:BWBR0009718&z=2002-12-13&g=2002-12-13"
+jci_1_0: "1.0:c:BWBR0009718&g=2002-12-13"
+citeertitel_status: "officieel"
+signed_date: "1998-06-24"
+entry_into_force: "1998-10-01"
 ---
-
 # Keuringsreglement COKZ kaas
 
 gelet op [artikel 10, eerste lid, onder e, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede artikel 36, tweede lid, van de statuten van genoemde Stichting (Stcrt. 1992, 63),
@@ -16,7 +40,7 @@ heeft in zijn vergadering van 24 juni 1998 vastgesteld het navolgende Reglement
 
 ### Hoofdstuk 1. Terminologie
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt, tenzij uitdrukkelijk anders is bepaald, de terminologie van de Landbouwkwaliteitsregeling kaas overgenomen en wordt voorts verstaan onder
 
@@ -46,7 +70,7 @@ bestuur: bestuur van het COKZ.
 
 ### Hoofdstuk 2. Voorschriften inzake rijkskaasmerken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Rijkskaasmerken worden gedrukt:
 
@@ -70,7 +94,7 @@ bestuur: bestuur van het COKZ.
 
 #### Rijkskaasmerken in de vorm van caseïneplaatjes
 
-#### Artikel 3
+##### Artikel 3
 
 1. Rijkskaasmerken in de vorm van caseïneplaatjes worden door of namens het COKZ aan de bereider van kaas verstrekt, uitsluitend om te worden aangebracht op de in zijn bedrijf bereide kaas.
 
@@ -94,7 +118,7 @@ bestuur: bestuur van het COKZ.
 
 #### Rijkskaasmerken in de vorm van etiketten of rechtstreeks aangebracht op de verpakking
 
-#### Artikel 4
+##### Artikel 4
 
 1. Door of namens het COKZ worden aan de bereider van kaas verstrekt:
 
@@ -132,7 +156,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 7. Door of namens de directeur kan ontheffing worden verleend van het bepaalde in het tweede en het vijfde lid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van de kaas of van zijn verpakking verwijderde of losgelaten rijkskaasmerken mogen niet opnieuw worden gebruikt.
 
@@ -154,7 +178,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 #### A. Voorschriften inzake grondstoffen, hulpstoffen en toevoegingen met betrekking tot kaas, uitgezonderd boerenkaas
 
-#### Artikel 6
+##### Artikel 6
 
 1. De eerste bereider van kaas, uitgezonderd boerenkaas is verplicht van elke zending grondstoffen, welke ingevolge het bepaalde in [artikel 7, eerste lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&artikel=7) resp. [artikel 16, tweede lid van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&artikel=16) is toegelaten voor de bereiding van kaas, direct bij ontvangst een monster te nemen ter grootte van 1 liter en dit te bewaren bij een temperatuur van ten minste 0 °C en ten hoogste 5 °C totdat de betreffende grondstof geheel is verwerkt, doch ten minste gedurende twee etmalen na ontvangst van de zending.
 
@@ -162,7 +186,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 #### B. Administratieve voorschriften met betrekking tot kaas, uitgezonderd boerenkaas en voorschriften inzake het afleveren van kaas, uitgezonderd boerenkaas
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een productdossier dient minimaal 5 werkdagen voordat de in het productdossier beschreven kaas voor het eerst wordt bereid, te worden ingediend bij het COKZ.
 
@@ -172,7 +196,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 - 2. Het COKZ beoordeelt het productdossier aan het gestelde in [artikel 14 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&artikel=14).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De eerste bereider van kaas, uitgezonderd boerenkaas is verplicht, dagelijks, voor elke bak of charge kaas een unieke codering toe te kennen en per bak of charge afzonderlijk, aantekening te houden van:
 
@@ -202,7 +226,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 #### Doorlevering van kaas, uitgezonderd boerenkaas, van de eerste bereider aan de opvolgende bereider
 
-#### Artikel 9
+##### Artikel 9
 
 1. Doorlevering van kaas, uitgezonderd boerenkaas, binnen de voor de onderscheiden kaassoorten voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. binnen de voor de desbetreffende kaas in het product-dossier genoemde minimale rijpingsduur, door de eerste bereider aan de opvolgende bereider, mag slechts plaatsvinden:
 
@@ -246,7 +270,7 @@ In afwijking van het bovenstaande dient de kennisgeving van doorlevering van kaa
 
 #### Doorlevering van kaas, uitgezonderd boerenkaas van de opvolgende bereider aan de volgende opvolgende bereider
 
-#### Artikel 10
+##### Artikel 10
 
 1. Doorlevering van kaas, uitgezonderd boerenkaas, binnen de voor de onderscheiden kaassoorten voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. binnen de voor de desbetreffende kaas in het productdossier genoemde minimale rijpingsduur, van de opvolgende bereider aan de volgende opvolgende bereider, mag slechts plaatsvinden:
 
@@ -284,25 +308,25 @@ In afwijking van het bovenstaande dient de kennisgeving van doorlevering van kaa
 
 #### Doorlevering van kaas, uitgezonderd boerenkaas aan het einde van de minimale rijpingsduur
 
-#### Artikel 11
+##### Artikel 11
 
 In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beëindigd binnen de laatste vier dagen van de voor de onderscheiden kaassoorten voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. binnen de voor de desbetreffende kaas in het productdossier genoemde minimale rijpingsduur moet de kennisgeving als bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&artikel=9&z=2002-12-13&g=2002-12-13) resp. [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&artikel=10&z=2002-12-13&g=2002-12-13) uiterlijk vier en twintig uur vóór het tijdstip van beëindiging van de verplaatsing door het COKZ zijn ontvangen. Kennisgeving van verplaatsingen gedurende de laatste vier dagen van de voor de onderscheiden kaassoorten voorgeschreven minimale rijpingsduur als bedoeld in [bijlage 2 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&bijlage=2) resp. gedurende de laatste vier dagen van de voor de desbetreffende kaas in het productdossier genoemde minimale rijpingsduur dienen gescheiden van de overige kennisgevingen van verplaatsing plaats te vinden .
 
 #### C. Voorschriften inzake de keuring van kaas, uitgezonderd boerenkaas
 
-#### Artikel 12
+##### Artikel 12
 
 1. De eerste bereider van kaas, uitgezonderd boerenkaas is verplicht elke aan keuring onderworpen partij kaas schriftelijk binnen drie dagen na de eerste dag van de bereiding ter keuring bij het COKZ aan te melden. Door of namens het bestuur kunnen met betrekking tot de melding nadere regelen worden gesteld.
 
 2. Het bepaalde in het eerste lid vindt geen toepassing indien er doorlopend kaas wordt bereid met dien verstande dat de eerste bereider van kaas verplicht is om bij onderbreking van de bereiding van kaas aan het COKZ melding te doen van de tijdstippen van aanvang en beëindiging van deze onderbreking.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De keuring van kaas, uitgezonderd boerenkaas vindt steekproefsgewijs plaats, op basis van twee deelkeuringen, overeenkomstig het bepaalde in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=14&z=2002-12-13&g=2002-12-13) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=15&z=2002-12-13&g=2002-12-13).
 
 2. De keuring kan met betrekking tot een bepaalde bak, charge of partij kaas worden beperkt tot één of meer van de in de [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=14&z=2002-12-13&g=2002-12-13) en [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=15&z=2002-12-13&g=2002-12-13), genoemde onderdelen van de deelkeuringen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De eerste deelkeuring van:
 
@@ -348,7 +372,7 @@ In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beë
 
 3. In afwijking van het bepaalde in het eerste lid kunnen korstloze Goudse kaas, korstloze Edammer kaas worden gekeurd nadat ten minste drie dagen zijn verlopen na de eerste dag van de bereiding, zulks uitsluitend in geval van vervroegde aflevering van de genoemde kaassoorten aan kaasverwerkers ter industriële verwerking, in overeenstemming met het bepaalde in [artikel 19, tweede lid, van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&artikel=19).
 
-#### Artikel 15
+##### Artikel 15
 
 1. De tweede deelkeuring van kaas, uitgezonderd boerenkaas geschiedt:
 
@@ -378,7 +402,7 @@ In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beë
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende kaas gestelde overige genoemde eisen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het bestuur bepaalt het aantal monsters, dat ten behoeve van het in [artikel 14, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=14&z=2002-12-13&g=2002-12-13), bedoelde onderzoek wordt genomen en de wijze waarop de monsters uit de aanwezige voorraad worden gekozen.
 
@@ -392,11 +416,11 @@ In het geval dat de verplaatsing van de kaas, uitgezonderd boerenkaas wordt beë
 
 6. De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens de voorgaande leden bepaalde.
 
-#### Artikel 17
+##### Artikel 17
 
 Het resultaat van de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=14&z=2002-12-13&g=2002-12-13) en [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=15&z=2002-12-13&g=2002-12-13) bedoelde onderdelen van de keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonste-ringsgege-vens en de analyse- en/of keuringsresultaten aan de eerste resp. de opvolgende bereider van de kaas bekend gemaakt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het bepaalde in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=C&artikel=13&z=2002-12-13&g=2002-12-13) laat onverlet dat kaas, uitgezonderd boerenkaas kan worden gekeurd:
 
@@ -410,7 +434,7 @@ Het resultaat van de in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1
 
 #### D. De gevolgen van de keuring kaas, uitgezonderd boerenkaas
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het door of namens het COKZ met keuring en toezicht belaste personeel kan de aflevering verbieden van een bak, charge of partij kaas, welke kazen bevat, die naar het oordeel van het genoemde personeel:
 
@@ -434,13 +458,13 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 #### A. Administratieve voorschriften met betrekking tot boerenkaas
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een productdossier dient minimaal 5 werkdagen voordat de in het productdossier beschreven boerenkaas voor het eerst wordt bereid, te worden ingediend bij het COKZ.
 
 2. Het COKZ beoordeelt het productdossier aan het gestelde in [artikel 14 van de regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0009794&artikel=14).
 
-#### Artikel 21
+##### Artikel 21
 
 1. De bereider van boerenkaas is verplicht, dagelijks, met betrekking tot elke kaassoort afzonderlijk, aantekening te houden van:
 
@@ -478,7 +502,7 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 #### B. Voorschriften inzake de keuring van boerenkaas
 
-#### Artikel 22
+##### Artikel 22
 
 1. De keuring van:
 
@@ -524,7 +548,7 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 - b. onderzoek op de bij het productdossier aan de desbetreffende boerenkaas gestelde overige genoemde eisen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het bestuur bepaalt het aantal monsters dat ten behoeve van het in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=4&paragraaf=B&artikel=22&z=2002-12-13&g=2002-12-13), bedoelde onderzoek wordt genomen en de wijze waarop de monsters uit de aanwezige voorraad worden gekozen.
 
@@ -532,11 +556,11 @@ In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keurings
 
 3. De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens de voorgaande leden bepaalde.
 
-#### Artikel 24
+##### Artikel 24
 
 Het resultaat van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=4&paragraaf=B&artikel=22&z=2002-12-13&g=2002-12-13), bedoelde onderdelen van de keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonste-ringsgegevens en de analyse- en/of keuringsresultaten aan de bereider van de boerenkaas bekend gemaakt.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het bepaalde in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=4&paragraaf=B&artikel=22&z=2002-12-13&g=2002-12-13), laat onverlet dat boerenkaas kan worden gekeurd
 
@@ -550,13 +574,13 @@ Het resultaat van de in [artikel 22, derde lid](https://wetten.overheid.nl/jci1.
 
 #### C. De gevolgen van de keuring
 
-#### Artikel 26
+##### Artikel 26
 
 Het bepaalde in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=3&paragraaf=D&artikel=19&z=2002-12-13&g=2002-12-13) is van overeenkomstige toepassing op boerenkaas, waarvoor een afleveringsverbod is opgelegd.
 
 ### Hoofdstuk 5. Methoden voor monsterneming en onderzoek
 
-#### Artikel 27
+##### Artikel 27
 
 Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in de bijlage vermelde methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door het bestuur goedgekeurde en gevalideerde methode worden toegepast.
 
@@ -564,7 +588,7 @@ Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling 
 
 #### A. Het maken van bezwaar tegen de monsterneming
 
-#### Artikel 28
+##### Artikel 28
 
 1. De aangeslotene kan bezwaar maken tegen
 
@@ -580,7 +604,7 @@ Voor de vaststelling of kaas voldoet aan het bij het besluit of bij de regeling 
 
 #### B. Het maken van bezwaar tegen de keuringsuitslag
 
-#### Artikel 29
+##### Artikel 29
 
 1. Tegen een door of namens het COKZ vastgestelde keuringsuitslag staat bezwaar open bij het bestuur van het COKZ. Zodanig bezwaar heeft geen schorsende werking.
 
@@ -608,7 +632,7 @@ kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten
 
 5. De aangeslotene die herkeuring, als bedoeld in het zesde lid, aanvraagt, is verplicht de partij kaasproducten, waarvoor herkeuring wordt aangevraagd, in ongewijzigde toestand te houden tot het tijdstip waarop de herkeuring wordt verricht.
 
-#### Artikel 30. Het inwinnen van advies
+##### Artikel 30. Het inwinnen van advies
 
 1. Het bestuur kan, alvorens een beslissing op het bezwaarschrift te nemen, advies inwinnen bij het RIKILT of een ander orgaan met specifieke deskundigheid met betrekking tot de aard van het bezwaar.
 
@@ -616,7 +640,7 @@ kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten
 
 3. Indien de beslissing op het bezwaarschrift afwijkt van het ingewonnen advies, wordt in de beslissing de reden voor die afwijking vermeld en wordt het advies met de beslissing meegezonden.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De in [artikel 29, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=6&paragraaf=B&artikel=29&z=2002-12-13&g=2002-12-13), bedoelde herkeuring wordt verricht door de in [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0009718&hoofdstuk=6&paragraaf=B&artikel=32&z=2002-12-13&g=2002-12-13) bedoelde herkeuringscommissie zo spoedig mogelijk, doch uiterlijk binnen drie werkdagen, nadat het verzoek om herkeuring door het bestuur is ontvangen.
 
@@ -626,7 +650,7 @@ kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten
 
 4. De in het derde lid bedoelde uitslag komt in de plaats van het oorspronkelijke door of namens het COKZ vastgestelde resultaat en is voor beide partijen bindend.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Voor een herkeuring wordt door het COKZ een uit drie leden bestaande herkeuringscommissie samengesteld, op zodanige wijze dat:
 
@@ -648,7 +672,7 @@ kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten
 
 4. De in het eerste lid onder a en b bedoelde lijsten van deskundigen worden, zonder andersluidend advies van de desbetreffende organisaties, telkenmale voor de duur van vier jaar ongewijzigd vastgesteld. Tussentijdse wijzigingen behoeven de goedkeuring van de directeur Industrie en Handel.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien de uitslag van de herkeuring het oorspronkelijk door of namens het COKZ vastgestelde keuringsresultaat ten minste bevestigt, is de betrokken aangeslotene aan het COKZ een bedrag verschuldigd van € 2,27 per 100 kg product van de partij, waarop de herkeuring betrekking heeft met een minimum € 113,45.
 
@@ -656,17 +680,17 @@ kan de aangeslotene het bestuur verzoeken de desbetreffende partij kaasproducten
 
 ### Hoofdstuk 7. Algemene en slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 Aangeslotenen zijn verplicht alle plaatsen, waar bereidingshandelingen plaatsvinden in het kader van de regeling, onverwijld ter kennis te brengen van het COKZ, onder opgave van het adres en de plaats van vestiging.
 
-#### Artikel 35
+##### Artikel 35
 
 1. In de gevallen, waarin het onderhavige reglement voorziet in de mogelijkheid tot verlening van een ontheffing of een toestemming, wordt deze slechts verleend op met redenen omkleed schriftelijk door betrokkene bij de directeur ingediend verzoek.
 
 2. Van elke door of namens het bestuur of de directeur verleende ontheffing wordt gelijktijdig met de verlening een afschrift gezonden aan de directeur Industrie en Handel.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit reglement kan worden aangehaald als ’Keuringsreglement COKZ kaas’.
 

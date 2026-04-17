@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit WNT"
+title: "Besluit van 6 december 2012 tot uitvoering van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsbesluit WNT)"
 identifier: "BWBR0032421"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032421"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032421"
+soort: "AMvB"
+stam_id: "11944613"
+version_id: "22846542"
+internal_id: "C33031541"
+label_id: "11916484"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032421/2026-01-01/0"
+intitule_bron: "Stb.2012-624"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-06"
+intitule_published: "2012-12-13"
+intitule_in_force: "2012-11-23"
+intitule_status: "goed"
+original_publication: "Stb.2015-475"
+original_signed_date: "2015-11-30"
+original_published_date: "2015-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-475"
+entry_into_force_date: "2015-11-30"
+jci_1_3: "jci1.3:c:BWBR0032421&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032421&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit WNT"
+signed_date: "2015-11-30"
+entry_into_force: "2015-11-30"
 ---
-
 # Besluit van 6 december 2012 tot uitvoering van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (Uitvoeringsbesluit WNT)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 oktober 2012, nr. 2012 - 0000578978, Directie Constitutionele Zaken en Wetgeving, Afdeling Wetgeving Staatsinrichting en Bestuur;
@@ -22,19 +48,19 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt onder «wet» verstaan: [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.6) bedoelde kosten verbonden aan de openbaarmaking van gegevens, bedoeld in artikel 5.6, eerste lid, en van het opstellen van het document wordt vastgesteld op € 1100, vermeerderd met de kosten verbonden aan de werkzaamheden van een accountant in verband met de verzameling en de controle van gegevens, tot een maximum van € 12.000.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de functie van topfunctionaris wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen voor de duur van de functievervulling tot en met twaalf kalendermaanden geen bezoldiging overeen die hoger is dan de som van € 34.800 per kalendermaand voor de eerste zes kalendermaanden van de functievervulling en € 26.500 per kalendermaand voor de zevende tot en met de twaalfde kalendermaand van de functievervulling.
 
@@ -48,13 +74,13 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 6. De ministeriële regeling, bedoeld in het vijfde lid, wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk besluiten dat partijen bij dat besluit vast te stellen hogere bedragen mogen overeenkomen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2026-01-01&g=2026-01-01) en het op grond van het derde lid toepasselijke bedrag.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister wie het aangaat kan, gehoord Onze Minister, bij een ministeriële regeling als bedoeld in [artikel 3.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=3.1) voor de in dat lid bedoelde categorie rechtspersonen en instellingen hogere bedragen vaststellen dan de bedragen, genoemd in [artikel 4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032421&artikel=4&z=2026-01-01&g=2026-01-01).
 
@@ -64,7 +90,7 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 4. Onze Minister wie het aangaat stelt, gehoord Onze Minister, de bedragen, bedoeld in het eerste lid, jaarlijks vast uiterlijk in de maand november voorafgaand aan het jaar waarop die bedragen betrekking hebben.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een tussen partijen voor 1 januari 2016 overeengekomen bezoldiging die op enig moment na die datum meer bedraagt dan het op grond van of krachtens de wet van toepassing zijnde bezoldigingsmaximum, is toegestaan voor ten hoogste vier jaar na de datum waarop het toepasselijke bezoldigingsmaximum eerst wordt overschreden, tenzij op grond van [artikel 7.3, eerste tot en met derde lid of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=7.3) reeds eerder een periode van ten hoogste vier jaar is aangevangen. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan 1 januari 2016, tussen partijen zijn overeengekomen. De [artikelen 5.4 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=5.4) zijn van toepassing.
 
@@ -72,17 +98,17 @@ Het bedrag van de in [artikel 5.6, tweede lid, van de wet](https://wetten.overhe
 
 3. Indien een dienstverband waarop dit artikel van toepassing is, wordt verlengd, blijft dit artikel na de verlenging buiten verdere toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit WNT.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 

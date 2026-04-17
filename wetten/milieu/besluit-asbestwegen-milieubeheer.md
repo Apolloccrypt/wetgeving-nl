@@ -1,13 +1,39 @@
 ---
-title: "Besluit asbestwegen milieubeheer"
+title: "Besluit van 8 september 2000, houdende regels voor wegen waarin asbestbevattend materiaal is verwerkt (Besluit asbestwegen Wms)"
 identifier: "BWBR0011619"
-categorie: "Milieu"
-publicatiedatum: 2008-06-01
-laatste_update: 2008-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011619"
+country: "nl"
+rank: "amvb"
+publication_date: "2008-06-01"
+last_updated: "2008-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011619"
+soort: "AMvB"
+stam_id: "1417903"
+version_id: "2127612"
+internal_id: "C2127611"
+label_id: "1376214"
+dtd_version: "2.0"
+original_entry_into_force: "2000-10-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011619/2008-06-01/0"
+intitule_bron: "Stb.2000-374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-08"
+intitule_published: "2000-09-26"
+intitule_in_force: "2000-09-26"
+intitule_status: "goed"
+original_publication: "Stb.2000-374"
+original_signed_date: "2000-09-08"
+original_published_date: "2000-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-374"
+entry_into_force_date: "2000-10-25"
+jci_1_3: "jci1.3:c:BWBR0011619&z=2008-06-01&g=2008-06-01"
+jci_1_0: "1.0:c:BWBR0011619&g=2008-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit asbestwegen milieubeheer"
+signed_date: "2000-09-08"
+entry_into_force: "2000-10-25"
 ---
-
 # Besluit van 8 september 2000, houdende regels voor wegen waarin asbestbevattend materiaal is verwerkt (Besluit asbestwegen Wms)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 29 mei 2000, nr. MJZ 2000059247, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Voorhanden hebben van een asbestbevattende weg
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden een weg die asbest bevat, voorhanden te hebben.
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 4. Het eerste lid is eveneens niet van toepassing op een asbestbevattende weg die voldoet aan bij ministeriële regeling gegeven voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), is tot 1 juli 2001 niet van toepassing op:
 
@@ -62,11 +88,11 @@ Hebben goedgevonden en verstaan:
 
 2. Onze Minister kan in plaats van de datum van 1 juli 2001, genoemd in het eerste lid, ten aanzien van de in dat lid bedoelde wegen of een deel van die wegen een andere datum vaststellen indien het nemen van maatregelen aan die wegen niet vóór 1 juli 2001 kan zijn voltooid.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=2&z=2008-06-01&g=2008-06-01), en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011619&paragraaf=2&artikel=3&z=2008-06-01&g=2008-06-01), geen maatregelen zijn genomen die strekken tot het tegengaan van blootstelling van gebruikers van die weg aan asbest, de eigenaar of degene die uit anderen hoofde bevoegd is tot het nemen van die maatregelen, het nemen van tijdelijke maatregelen bij of aan die weg opleggen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Degene die weet of had kunnen weten dat hij een asbestbevattende weg voorhanden heeft, meldt dit terstond aan Onze Minister, die de gemelde gegevens registreert ten behoeve van toekomstige werkzaamheden aan die weg.
 
@@ -86,17 +112,17 @@ Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de [artike
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit wordt aangehaald als: Besluit asbestwegen milieubeheer.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 

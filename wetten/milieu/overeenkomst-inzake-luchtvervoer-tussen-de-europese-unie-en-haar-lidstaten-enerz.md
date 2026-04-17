@@ -1,13 +1,32 @@
 ---
 title: "Overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de Staat Qatar, anderzijds"
 identifier: "BWBV0006942"
-categorie: "Milieu"
-publicatiedatum: 2021-10-18
-laatste_update: 2021-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006942"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-10-18"
+last_updated: "2021-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006942"
+soort: "verdrag"
+stam_id: "10005602413"
+version_id: "10006141872"
+internal_id: "C10009867821"
+label_id: "10005584374"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006942/2021-10-18/0"
+intitule_bron: "Trb.2021-156"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-11-30"
+intitule_status: "nogniet"
+original_publication: "Trb.2021-156"
+original_published_date: "2021-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2021-156"
+jci_1_3: "jci1.3:c:BWBV0006942&z=2021-10-18&g=2021-10-18"
+jci_1_0: "1.0:c:BWBV0006942&g=2021-10-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2021-11-30"
 ---
-
 # Overeenkomst inzake luchtvervoer tussen de Europese Unie en haar lidstaten, enerzijds, en de Staat Qatar, anderzijds
 
 Het Koninkrijk België,
@@ -110,7 +129,7 @@ De wens uitdrukkend een overeenkomst inzake luchtvervoer te sluiten, ter aanvull
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst verstaan onder:
 
@@ -172,7 +191,7 @@ Tenzij anders bepaald, wordt met het oog op de toepassing van deze overeenkomst 
 
 ## TITEL I. ECONOMISCHE BEPALINGEN
 
-#### Artikel 2. Verlening van rechten
+##### Artikel 2. Verlening van rechten
 
 1. Elke partij verleent luchtvaartmaatschappijen van de andere partij toestemming om vluchten uit te voeren op de hieronder gespecificeerde routes:
 
@@ -240,7 +259,7 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 - b. de Unie het recht in Qatar tegen betaling passagiers, bagage, goederen en/of post aan boord te nemen die bestemd zijn voor een ander punt in Qatar.
 
-#### Artikel 3. Exploitatievergunning
+##### Artikel 3. Exploitatievergunning
 
 1. Na ontvangst van een aanvraag voor een exploitatievergunning van een luchtvaartmaatschappij van een partij verlenen de bevoegde autoriteiten van de andere partij zo spoedig mogelijk de exploitatievergunningen en passende technische vergunningen, voor zover:
 
@@ -268,7 +287,7 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 3. Als een partij een aanvraag voor een exploitatievergunning ontvangt van een luchtvaartmaatschappij van de andere partij, erkent zij de door de eerste partij gedane vaststellingen met betrekking tot de deugdelijkheid en/of nationaliteit van die luchtvaartmaatschappij alsof die vaststellingen door haar eigen bevoegde autoriteiten zijn gedaan, en voert zij verder geen onderzoek naar deze kwesties, behalve in de gevallen als bedoeld in [artikel 4, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=I&artikel=4&z=2021-10-18&g=2021-10-18). Teneinde elke twijfel uit te sluiten, wordt benadrukt dat deze alinea geen betrekking heeft op de erkenning van vaststellingen die verband houden met veiligheidscertificaten of -vergunningen, beveiligingsregelingen of de verzekeringsdekking.
 
-#### Artikel 4. Weigering, intrekking, opschorting of beperking van vergunningen
+##### Artikel 4. Weigering, intrekking, opschorting of beperking van vergunningen
 
 1. Elke partij mag de exploitatievergunningen of technische vergunningen weigeren, intrekken, opschorten, aan voorwaarden onderwerpen of beperken of de activiteiten van een luchtvaartmaatschappij van de andere partij op een andere wijze weigeren, opschorten, aan voorwaarden onderwerpen of beperken als:
 
@@ -296,11 +315,11 @@ Voor de toepassing van het bovengenoemde routeschema betekent:
 
 4. Onverminderd lid 3, kan een partij met betrekking tot lid 1, punt c), in noodgevallen of om verdere inbreuken te voorkomen onmiddellijke of dringende maatregelen nemen. Teneinde elke twijfel uit te sluiten, kan er slechts sprake zijn van verdere inbreuken als over de vermeende inbreuk voordien reeds overleg is gepleegd tussen de bevoegde autoriteiten van de partijen.
 
-#### Artikel 5. Liberalisering van eigendoms- en zeggenschapsvereisten
+##### Artikel 5. Liberalisering van eigendoms- en zeggenschapsvereisten
 
 De partijen erkennen de potentiële baten van de geleidelijke liberalisering van de eigendom van en zeggenschap over hun respectieve luchtvaartmaatschappijen. De partijen komen overeen binnen het gemengd comité te gepasten tijde de opportuniteiten van een wederzijdse liberalisering van de eigendom van en zeggenschap over luchtvaartmaatschappijen te bekijken. Als resultaat van die analyse kan het gemengd comité overeenkomstig [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=25&z=2021-10-18&g=2021-10-18) wijzigingen van deze overeenkomst voorstellen.
 
-#### Artikel 6. Naleving van wetten en regels
+##### Artikel 6. Naleving van wetten en regels
 
 1. Als luchtvaartmaatschappijen van de ene partij het grondgebied van de andere partij binnenkomen of verlaten, moeten zij zich houden aan de wetten en regels van die partij inzake binnenkomst op en vertrek uit het grondgebied door luchtvaartuigen die internationaal luchtvervoer uitvoeren en inzake de exploitatie van luchtvaartuigen.
 
@@ -308,7 +327,7 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 3. De partijen staan op hun grondgebied toe dat de luchtvaartmaatschappij van de andere partij maatregelen neemt om te garanderen dat alleen personen worden vervoerd die beschikken over de vereiste reisdocumenten voor binnenkomst op hun grondgebied of voor transit via het grondgebied van de andere partij.
 
-#### Artikel 7. Eerlijke mededinging
+##### Artikel 7. Eerlijke mededinging
 
 1. De partijen komen overeen hun luchtvaartmaatschappijen eerlijke en gelijke kansen te bieden om te concurreren voor de exploitatie van luchtvervoerdiensten.
 
@@ -374,7 +393,7 @@ De partijen erkennen de potentiële baten van de geleidelijke liberalisering van
 
 13. Niets in deze overeenkomst kan de autoriteit en de rechten van de bevoegde concurrentieautoriteiten en de rechtbanken van de partijen om de besluiten van die autoriteiten te toetsen, beïnvloeden, beperken of schaden. Alle maatregelen van een partij uit hoofde van lid 9 laten eventuele maatregelen van deze autoriteiten en rechtbanken, waaronder die van de handelende partij, derhalve onverlet. Besluiten van de rechtbanken ter toetsing van de maatregelen en acties van de bevoegde autoriteiten worden uitgesloten van het bij [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=23&z=2021-10-18&g=2021-10-18) vastgestelde mechanisme voor geschillenbeslechting.
 
-#### Artikel 8. Commerciële opportuniteiten
+##### Artikel 8. Commerciële opportuniteiten
 
 1. De partijen zijn het erover eens dat de voordelen van deze overeenkomst niet kunnen worden verwezenlijkt wanneer commerciële exploitanten worden gehinderd in hun bedrijfsvoering. De partijen komen dan ook overeen om dergelijke hinderpalen voor de bedrijfsvoering van de luchtvaartmaatschappijen van beide partijen, die commerciële activiteiten belemmeren, concurrentieverstoringen veroorzaken of de totstandbrenging van een gelijk speelveld verhinderen, effectief en wederzijds uit de weg te ruimen.
 
@@ -428,7 +447,7 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 - c. een door een luchtvaartmaatschappij uit een land dan de partij van de huurder geleaset vliegtuig met bemanning, op voorwaarde dat leasing gerechtvaardigd is op grond van uitzonderlijke behoeften, seizoensgebonden capaciteitsbehoeften of operationele problemen van de huurder en dat de leasing niet langer duurt dan strikt noodzakelijk is om die behoeften te vervullen of die problemen op te lossen. De betrokken partijen kunnen verlangen dat de leasingovereenkomsten door hun bevoegde autoriteiten worden goedgekeurd teneinde na te gaan of de voorwaarden van dit punt en de toepasselijke veiligheids- en beveiligingseisen worden nageleefd. Als een partij een dergelijke goedkeuring verlangt, zorgt zij voor een vlot verloop van de goedkeuringsprocedures en beperkt zij de administratieve last van die procedures voor de luchtvaartmaatschappijen tot een minimum. Teneinde elke twijfel uit te sluiten, weze eraan herinnerd dat dit lid geen afbreuk doet aan de wetten en regels van de partij inzake de leasing van vliegtuigen door maatschappijen van die partij.
 
-#### Artikel 9. Douanerechten
+##### Artikel 9. Douanerechten
 
 1. Bij aankomst op het grondgebied van de ene partij worden luchtvaartuigen die door luchtvaartmaatschappijen van de andere partij worden ingezet voor internationaal luchtvervoer, hun gebruikelijke apparatuur, brandstof, smeermiddelen, technische verbruiksgoederen, grondapparatuur, reserveonderdelen (inclusief motoren), boordproviand (inclusief, maar niet beperkt tot, voedsel, drank, tabak en andere producten die bestemd zijn om tijdens de vlucht in beperkte hoeveelheden aan passagiers te worden verkocht of door passagiers te worden verbruikt) en andere voorwerpen die bestemd zijn voor of uitsluitend worden gebruikt in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer ingezette luchtvaartuigen, voor zover zij aan boord van het luchtvaartuig blijven, op basis van wederkerigheid vrijgesteld van alle invoerbeperkingen, eigendomstaksen en heffingen op activa, douanerechten, accijnzen, inspectievergoedingen, belasting over de toegevoegde waarde (btw) of andere vergelijkbare indirecte belastingen en soortgelijke vergoedingen en rechten die:
 
@@ -462,7 +481,7 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 9. Deze overeenkomst doet geen afbreuk aan de bepalingen van de respectieve overeenkomsten die tussen de EU-lidstaten en Qatar van kracht zijn ter vermijding van dubbele belasting op inkomsten en kapitaal.
 
-#### Artikel 10. Gebruikersheffingen
+##### Artikel 10. Gebruikersheffingen
 
 1. Elke partij ziet erop toe dat gebruikersheffingen die door haar bevoegde heffingsautoriteiten of -organen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd voor het gebruik van luchtvaartnavigatie en luchtverkeersleiding kostengerelateerd en niet-discriminerend zijn. In ieder geval moeten dergelijke gebruikersheffingen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd volgens voorwaarden die niet minder gunstig zijn als de gunstigste voorwaarden die iedere andere luchtvaartmaatschappij kan verkrijgen.
 
@@ -470,13 +489,13 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 3. Elke partij eist dat de bevoegde heffingsautoriteiten of -organen op haar grondgebied en de luchtvaartmaatschappijen die gebruik maken van de diensten en installaties overleg plegen en de informatie uitwisselen die nodig is om nauwkeurig te kunnen nagaan of de gebruikersheffingen redelijk zijn, overeenkomstig de beginselen van leden 1 en 2. De bevoegde heffingsautoriteiten of -organen stellen de gebruikers binnen een redelijke termijn in kennis van ieder voorstel tot wijziging van de gebruikersheffingen, zodat de gebruikers hun mening en opmerkingen kunnen geven alvorens wijzigingen worden doorgevoerd.
 
-#### Artikel 11. Passagiers- en goederentarieven
+##### Artikel 11. Passagiers- en goederentarieven
 
 1. De partijen staan toe dat de luchtvaartmaatschappijen hun passagiers- en goederentarieven vrij vaststellen op basis van vrije en eerlijke mededinging.
 
 2. Elke partij mag op niet-discriminerende basiseisen dat de luchtvaartmaatschappijen van beide partijen hun bevoegde autoriteiten, op vereenvoudigde wijze en uitsluitend voor informatiedoeleinden, in kennis stellen van de passagiers- en goederentarieven voor diensten die op haar grondgebied vertrekken. Deze kennisgeving mag ten vroegste van de luchtvaartmaatschappijen worden gevraagd op het ogenblik dat het passagiers- of goederentarief voor het eerst wordt aangeboden.
 
-#### Artikel 12. Statistieken
+##### Artikel 12. Statistieken
 
 1. De partijen werken samen binnen het gemengd comité om de uitwisseling van statistische informatie betreffende het luchtvervoer op grond van deze overeenkomst te faciliteren.
 
@@ -484,7 +503,7 @@ Met betrekking tot de in de eerste alinea, punten a) en b), bedoelde rechten gel
 
 ## TITEL II. SAMENWERKING OP REGELGEVINGSGEBIED
 
-#### Artikel 13. Veiligheid van de luchtvaart
+##### Artikel 13. Veiligheid van de luchtvaart
 
 1. De partijen bevestigen opnieuw het belang van nauwe samenwerking op het gebied van de veiligheid van de luchtvaart. In die context zetten de partijen, in voorkomend geval, een nauwere samenwerking op met betrekking tot onderzoek naar ongevallen, de ontwikkeling van de regelgeving, de uitwisseling van veiligheidsinformatie, de mogelijke deelname aan elkaars toezichtsactiviteiten of de uitvoering van gezamenlijke toezichtsactiviteiten en de ontwikkeling van gezamenlijke projecten en initiatieven.
 
@@ -506,7 +525,7 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 8. Alle door een partij overeenkomstig de leden 4, 6 of 7 genomen maatregelen zijn noodzakelijk en evenredig om een veiligheidsbevinding aan te pakken en worden stopgezet zodra de aanleiding voor die maatregelen wegvalt.
 
-#### Artikel 14. Beveiliging van de luchtvaart
+##### Artikel 14. Beveiliging van de luchtvaart
 
 1. De partijen benadrukken hun streven om de hoogste niveaus van normen voor de beveiliging van de luchtvaart te bereiken en kunnen op dit gebied, desgevallend, verdere dialoog en samenwerking aangaan.
 
@@ -530,7 +549,7 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 11. Elke overeenkomstig dit artikel genomen maatregel is noodzakelijk en evenredig om een bedreiging van de veiligheid aan te pakken, en wordt opgeheven zodra de andere partij de bepalingen van dit artikel naleeft of zodra een dergelijke maatregel niet langer noodzakelijk is.
 
-#### Artikel 15. Luchtverkeersbeheer
+##### Artikel 15. Luchtverkeersbeheer
 
 1. De partijen werken samen op het gebied van regelgeving met betrekking tot luchtvaartnavigatiediensten, met inbegrip van het toezicht op dergelijke diensten. Zij behandelen alle beleidskwesties in verband met de prestaties van het luchtverkeersbeheer, teneinde de algemene vluchtefficiëntie te optimaliseren, de kosten te drukken, de milieu-impact tot een minimum te beperken en de veiligheid en de capaciteit van de systemen te vergroten.
 
@@ -540,7 +559,7 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 4. De partijen komen overeen samen te werken op het gebied van moderniseringsprogramma’s, met inbegrip van de ontwikkeling, uitrol en beste praktijken voor economische efficiëntie, luchtverkeersbeheer en relevante aspecten van luchtvaartterreinen, en de wederzijdse deelname aan validerings- en demonstratie-activiteiten aan te moedigen.
 
-#### Artikel 16. Milieu
+##### Artikel 16. Milieu
 
 1. De partijen ondersteunen de noodzaak aan milieubescherming door de duurzame ontwikkeling van de luchtvaart te bevorderen. De partijen nemen zich voor samen te werken om na te gaan welke gevolgen de luchtvaart heeft voor het milieu.
 
@@ -564,15 +583,15 @@ Indien de andere partij nalaat binnen een redelijke termijn passende corrigerend
 
 6. De partijen erkennen dat het noodzakelijk is passende maatregelen te nemen om de gevolgen van de luchtvaart voor het milieu te voorkomen of te beperken, voor zover deze maatregelen volledig verenigbaar zijn met hun rechten en plichten uit hoofde van het internationaal recht.
 
-#### Artikel 17. Aansprakelijkheid van luchtvaartmaatschappijen
+##### Artikel 17. Aansprakelijkheid van luchtvaartmaatschappijen
 
 De partijen bevestigen hun verplichtingen uit hoofde van het [Verdrag tot het brengen van eenheid in enige bepalingen inzake het internationale luchtvervoer](https://wetten.overheid.nl/jci1.3:c:BWBV0001644), dat op 28 mei 1999 in Montreal is opgesteld (het Verdrag van Montreal).
 
-#### Artikel 18. Consumentenbescherming
+##### Artikel 18. Consumentenbescherming
 
 De partijen werken samen om de belangen van de consumenten in de luchtvaart te beschermen. Het doel van die samenwerking is een hoog niveau van consumentenbescherming te bereiken. Daartoe plegen de partijen in het Gemengd Comité overleg over aangelegenheden die van belang zijn voor de consument, met inbegrip van voorgenomen maatregelen, teneinde een zo groot mogelijke convergentie en compatibiliteit van de regelgeving te bevorderen.
 
-#### Artikel 19. Geautomatiseerde boekingssystemen
+##### Artikel 19. Geautomatiseerde boekingssystemen
 
 1. Op het grondgebied van een partij opererende verkopers van geautomatiseerde boekingssystemen („CRS’en”) zijn gerechtigd om hun CRS’en in te voeren, in stand te houden en vrij ter beschikking te stellen van reisbureaus of touroperators wier belangrijkste activiteit bestaat in de distributie van reisproducten op het grondgebied van de andere partij, mits het CRS voldoet aan alle desbetreffende wettelijke voorschriften van de andere partij.
 
@@ -582,7 +601,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 4. Eigenaars en exploitanten van CRS’en van een partij die voldoet aan de relevante regelgevende voorschriften van de andere partij moeten dezelfde mogelijkheden krijgen om eigenaar te worden van CRS’en op het grondgebied van de andere partij als de eigenaars en exploitanten van andere CRS’en hebben op de markt van die partij.
 
-#### Artikel 20. Sociale aspecten
+##### Artikel 20. Sociale aspecten
 
 1. De partijen erkennen dat het belangrijk is rekening te houden met het effect van deze overeenkomst op de werkgelegenheid en de arbeidsomstandigheden. De partijen komen overeen samen te werken met betrekking tot arbeidskwesties die onder het toepassingsgebied van deze overeenkomst vallen, onder meer wat betreft de gevolgen voor de werkgelegenheid, de fundamentele rechten op de werkplek, de arbeidsomstandigheden, de sociale bescherming en de sociale dialoog.
 
@@ -600,7 +619,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 ## TITEL III. INSTITUTIONELE EN SLOTBEPALINGEN
 
-#### Artikel 21. Interpretatie en uitvoering
+##### Artikel 21. Interpretatie en uitvoering
 
 1. De partijen verlenen elkaar de in deze overeenkomst vastgestelde rechten. Elke verwijzing in deze overeenkomst naar rechten die aan de luchtvaartmaatschappijen van een partij worden toegekend, wordt uitsluitend beschouwd als een verwijzing naar de aan die partij verleende rechten. Geen enkele bepaling in deze overeenkomst mag zodanig worden uitgelegd dat zij rechten toekent of verplichtingen oplegt die door onderdanen van de ene partij rechtstreeks kunnen worden ingeroepen voor de rechterlijke instanties van de andere partij.
 
@@ -618,7 +637,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 8. Wanneer in deze overeenkomst wordt verwezen naar samenwerking tussen de partijen, met inbegrip van maar niet beperkt tot de aspecten commerciële perspectieven, beveiliging, veiligheid, milieu, luchtverkeersbeheer en consumentenbescherming, streven de partijen naar overeenstemming voor gezamenlijke actie om deze overeenkomst verder te ontwikkelen en/of de werking ervan op de betrokken gebieden te verbeteren, op basis van wederzijdse instemming.
 
-#### Artikel 22. Gemengd comité
+##### Artikel 22. Gemengd comité
 
 1. Een gemengd comité van vertegenwoordigers van de partijen wordt belast met het toezicht op het beheer van deze overeenkomst en moet de correcte uitvoering daarvan waarborgen.
 
@@ -640,7 +659,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 5. De aanbevelingen en beslissingen van het Gemengd Comité worden door de partijen bij consensus aangenomen. De besluiten van het gemengd comité zijn bindend voor de partijen.
 
-#### Artikel 23. Geschillenbeslechting en arbitrage
+##### Artikel 23. Geschillenbeslechting en arbitrage
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=I&artikel=4&z=2021-10-18&g=2021-10-18) kunnen de partijen voor elk geschil in verband met de toepassing of interpretatie van deze overeenkomst een beroep doen op het in dit artikel bedoelde geschillenbeslechtingsmechanisme.
 
@@ -678,7 +697,7 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 16. Elke partij draagt de kosten van de door haar aangewezen scheidsrechter. De overige kosten van het scheidsgerecht worden gelijk verdeeld over de partijen.
 
-#### Artikel 24. Verhouding met andere overeenkomsten
+##### Artikel 24. Verhouding met andere overeenkomsten
 
 1. Deze overeenkomst schorst eerdere overeenkomsten en regelingen over hetzelfde onderwerp tussen de partijen waarop de leden 2 en 7 van toepassing zijn, tenzij deze overeenkomst wordt opgezegd.
 
@@ -694,11 +713,11 @@ De partijen werken samen om de belangen van de consumenten in de luchtvaart te b
 
 7. Niets in deze overeenkomst doet afbreuk aan de geldigheid en de toepassing van bestaande en toekomstige overeenkomsten tussen de EU-lidstaten en Qatar wat betreft grondgebieden die onder hun respectieve soevereiniteit vallen waarop de definitie van „grondgebied” in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&artikel=1&z=2021-10-18&g=2021-10-18) van deze overeenkomst niet van toepassing is.
 
-#### Artikel 25. Wijzigingen
+##### Artikel 25. Wijzigingen
 
 Alle wijzigingen van deze overeenkomst kunnen door de partijen worden overeengekomen na overleg overeenkomstig [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=22&z=2021-10-18&g=2021-10-18). De wijzigingen worden van kracht overeenkomstig de bepalingen van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=29&z=2021-10-18&g=2021-10-18).
 
-#### Artikel 26. Toetreding van nieuwe lidstaten tot de Unie
+##### Artikel 26. Toetreding van nieuwe lidstaten tot de Unie
 
 1. Deze overeenkomst staat open voor toetreding door staten die EU-lidstaten zijn geworden na de datum van ondertekening van deze overeenkomst.
 
@@ -706,15 +725,15 @@ Alle wijzigingen van deze overeenkomst kunnen door de partijen worden overeengek
 
 3. [Artikel 24, leden 1, 2, 3 en 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006942&titeldeel=III&artikel=24&z=2021-10-18&g=2021-10-18), van deze overeenkomst zijn mutatis mutandis van toepassing op de overeenkomsten en regelingen die reeds bestaan op het ogenblik waarop een EU-lidstaat tot de overeenkomst toetreedt.
 
-#### Artikel 27. Opzegging
+##### Artikel 27. Opzegging
 
 Een partij kan te allen tijde de andere partij langs diplomatieke kanalen schriftelijk meedelen dat zij besloten heeft deze overeenkomst te beëindigen. Deze kennisgeving wordt tegelijk ook naar de ICAO en het secretariaat van de Verenigde Naties gestuurd. Deze overeenkomst houdt op te bestaan om middernacht GMT aan het einde van het verkeersseizoen van de Internationale Burgerluchtvaartorganisatie dat één jaar na de datum van schriftelijke mededeling van de beëindiging van kracht is, tenzij de mededeling in onderlinge overeenstemming tussen de partijen wordt ingetrokken voordat deze termijn is verstreken.
 
-#### Artikel 28. Registratie van de overeenkomst
+##### Artikel 28. Registratie van de overeenkomst
 
 Deze overeenkomst en alle wijzigingen daarvan worden geregistreerd bij de ICAO, overeenkomstig artikel 83 van het ICAO-verdrag, en bij het secretariaat van de Verenigde Naties, overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143).
 
-#### Artikel 29. Inwerkingtreding, voorlopige toepassing en depositaris
+##### Artikel 29. Inwerkingtreding, voorlopige toepassing en depositaris
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de maand waarin de partijen elkaar in kennis hebben gesteld van de voltooiing van hun respectieve interne procedures die nodig zijn voor de inwerkingtreding van deze overeenkomst.
 
@@ -724,7 +743,7 @@ Deze overeenkomst en alle wijzigingen daarvan worden geregistreerd bij de ICAO, 
 
 4. Het secretariaat-generaal van de Raad van de Europese Unie treedt op als depositaris van deze overeenkomst.
 
-#### Artikel 30. Authentieke teksten
+##### Artikel 30. Authentieke teksten
 
 Deze overeenkomst is in tweevoud opgesteld in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Ierse, de Italiaanse, de Kroatische, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische, de Zweedse en de Arabische taal, waarbij alle teksten gelijkelijk authentiek zijn.
 

@@ -1,13 +1,35 @@
 ---
-title: "Warenwetbesluit veilige verpakking huishoudchemicaliën"
+title: "Besluit van 4 februari 1994, houdende een algemene maatregel van bestuur tot regeling inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten"
 identifier: "BWBR0006448"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-11-14
-laatste_update: 2014-11-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006448"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-11-14"
+last_updated: "2014-11-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006448"
+soort: "AMvB"
+stam_id: "1448473"
+version_id: "2171312"
+internal_id: "C2171311"
+label_id: "1407354"
+dtd_version: "2.0"
+original_entry_into_force: "1994-02-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006448/2014-11-14/0"
+intitule_bron: "Stb.1994-106"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-04"
+intitule_status: "goed"
+original_publication: "Stb.1994-106"
+original_signed_date: "1994-02-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-02-25"
+jci_1_3: "jci1.3:c:BWBR0006448&z=2014-11-14&g=2014-11-14"
+jci_1_0: "1.0:c:BWBR0006448&g=2014-11-14"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit veilige verpakking huishoudchemicaliën"
+signed_date: "1994-02-04"
+entry_into_force: "1994-02-25"
 ---
-
 # Besluit van 4 februari 1994, houdende een algemene maatregel van bestuur tot regeling inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 18 augustus 1993 DGVgz/VVP/P 93992, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -22,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 - c. voelbare gevaarsaanduiding: een aanduiding die voldoet aan NEN-EN-ISO 11683:1997.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden huishoudchemicaliën te verhandelen, indien de verpakking daarvan niet voldoet aan de in dit besluit gestelde eisen.
 
@@ -52,17 +74,17 @@ In dit besluit wordt verstaan onder:
 
 3. Het is verboden huishoudchemicaliën te verhandelen, indien niet is voldaan aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=6&z=2014-11-14&g=2014-11-14).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° tot en met 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14) is voorzien van een kinderveilige sluiting.
 
 2. Het eerste lid is niet van toepassing op huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), die worden verhandeld als aërosol als bedoeld in het [Warenwetbesluit drukverpakkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007965).
 
-#### Artikel 4
+##### Artikel 4
 
 De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 1° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), is voorzien van een voelbare gevaarsaanduiding.
 
-#### Artikel 5
+##### Artikel 5
 
 De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a**, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0006448&artikel=1&z=2014-11-14&g=2014-11-14), mag
 
@@ -70,7 +92,7 @@ De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a*
 
 - -. geen aanbiedingsvorm hebben of benaming dragen die wordt gebruikt voor levensmiddelen, diervoeders, geneesmiddelen of cosmetische produkten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene die huishoudchemicaliën waarvan de verpakking moet zijn voorzien van een kinderveilige sluiting, voor het eerst in de handel brengt, is in het bezit van een certificaat waaruit blijkt dat:
 
@@ -82,15 +104,15 @@ De verpakking van huishoudchemicaliën als bedoeld in [artikel 1, onderdeel **a*
 
 3. Een certificaat als bedoeld in het eerste lid moet zijn afgegeven door een instelling die voldoet aan NEN-EN-ISO/IEC 17025:2005.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Besluit kinderveilige verpakkingen huishoudchemicaliën (Warenwet) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Warenwetbesluit veilige verpakking huishoudchemicaliën.
 

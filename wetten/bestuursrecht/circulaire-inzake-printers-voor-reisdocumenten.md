@@ -1,13 +1,37 @@
 ---
 title: "Circulaire inzake printers voor reisdocumenten"
 identifier: "BWBR0009089"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-08
-laatste_update: 1997-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009089"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-12-08"
+last_updated: "1997-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009089"
+soort: "circulaire"
+stam_id: "6372563"
+version_id: "11036292"
+internal_id: "C14935091"
+label_id: "6361384"
+original_entry_into_force: "1997-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009089/1997-12-08/0"
+intitule_bron: "Stcrt.1998-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-08"
+intitule_published: "1998-01-22"
+intitule_in_force: "1998-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-14"
+original_signed_date: "1997-12-08"
+original_published_date: "1998-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-14-p79-SC12377"
+entry_into_force_date: "1997-12-08"
+jci_1_3: "jci1.3:c:BWBR0009089&z=1997-12-08&g=1997-12-08"
+jci_1_0: "1.0:c:BWBR0009089&g=1997-12-08"
+citeertitel_status: "redactioneel"
+signed_date: "1997-12-08"
+entry_into_force: "1997-12-08"
 ---
-
 # Circulaire inzake printers voor reisdocumenten
 
 «Circulaire»

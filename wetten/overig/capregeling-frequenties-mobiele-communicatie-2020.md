@@ -1,13 +1,39 @@
 ---
-title: "Capregeling frequenties mobiele communicatie 2020"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20063207, tot vaststelling van de maximale hoeveelheid frequentieruimte voor mobiele communicatie (Capregeling frequenties mobiele communicatie 2020)"
 identifier: "BWBR0043243"
-categorie: "Overig"
-publicatiedatum: 2024-02-15
-laatste_update: 2024-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043243"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-15"
+last_updated: "2024-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043243"
+soort: "ministeriele-regeling"
+stam_id: "15356283"
+version_id: "26546062"
+internal_id: "C37674381"
+label_id: "15301144"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043243/2024-02-15/0"
+intitule_bron: "Stcrt.2020-13724"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-06"
+intitule_published: "2020-03-06"
+intitule_in_force: "2020-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-13724"
+original_signed_date: "2020-03-06"
+original_published_date: "2020-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-13724"
+entry_into_force_date: "2020-03-07"
+jci_1_3: "jci1.3:c:BWBR0043243&z=2024-02-15&g=2024-02-15"
+jci_1_0: "1.0:c:BWBR0043243&g=2024-02-15"
+citeertitel_status: "officieel"
+short_title: "Capregeling frequenties mobiele communicatie 2020"
+signed_date: "2020-03-06"
+entry_into_force: "2020-03-07"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020, nr. WJZ/20063207, tot vaststelling van de maximale hoeveelheid frequentieruimte voor mobiele communicatie (Capregeling frequenties mobiele communicatie 2020)
 
 Gelet op [artikel 3.11, eerste en tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.11);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking met ingang van de datum waarop de Regelingaanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz inwerking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - 3. anderszins verkregen bevoegdheid om frequentieruimte te gebruiken voor eigen elektronische communicatiediensten.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling geldt niet:
 
@@ -44,7 +70,7 @@ Deze regeling geldt niet:
 
 - b. ten aanzien van een transitievergunning voor zover deze betrekking heeft op frequentieruimte als bedoeld in [artikel 3.8a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.8a).
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van deze regeling wordt voor de berekening van de hoeveelheid frequentieruimte die een bepaalde rechtspersoon gebruikt, bij diens frequentiegebruik tevens het frequentiegebruik van de volgende, met de betreffende rechtspersoon verbonden, rechtspersonen opgeteld:
 
@@ -72,7 +98,7 @@ Voor de toepassing van deze regeling wordt voor de berekening van de hoeveelheid
 
 - g). rechtspersonen waarover de betreffende rechtspersoon rechtstreeks of middellijk, alleen of gezamenlijk met een rechtspersoon zoals bedoeld onder a) tot en met c), zeggenschap in de zin van artikel 3 van de concentratieverordening bezit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De maximale hoeveelheid frequentieruimte voor mobiele communicatie die een rechtspersoon op enig moment op enige locatie mag gebruiken is 384 MHz.
 
@@ -80,11 +106,11 @@ Voor de toepassing van deze regeling wordt voor de berekening van de hoeveelheid
 
 3. De maximale hoeveelheid frequentieruimte voor mobiele communicatie in de 3,5 GHz-band die een rechtspersoon op enig moment op enige locatie mag gebruiken is 120 MHz.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de datum waarop de [Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz](https://wetten.overheid.nl/jci1.3:c:BWBR0043242) in werking treedt, en vervalt op 31 december 2029.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Capregeling frequenties mobiele communicatie 2020.
 

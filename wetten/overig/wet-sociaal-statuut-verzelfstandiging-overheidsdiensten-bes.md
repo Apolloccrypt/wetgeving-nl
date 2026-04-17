@@ -1,18 +1,43 @@
 ---
 title: "Wet sociaal statuut verzelfstandiging overheidsdiensten BES"
 identifier: "BWBR0028538"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028538"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028538"
+soort: "wet-BES"
+stam_id: "10840623"
+version_id: "17820842"
+internal_id: "C24859531"
+label_id: "10815414"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028538/2011-10-09/0"
+intitule_bron: "Stb.2010-396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-396"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-396"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028538&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028538&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet sociaal statuut verzelfstandiging overheidsdiensten BES
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ bron: "https://wetten.overheid.nl/BWBR0028538"
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van deze wet en de daarop berustende bepalingen worden de bonden van overheidspersoneel die het aangaat betrokken bij de regeling van de uit de verzelfstandiging van de overheidsdiensten voortvloeiende personele gevolgen.
 
@@ -42,7 +67,7 @@ bron: "https://wetten.overheid.nl/BWBR0028538"
 
 3. De arbeidsvoorwaarden van de werknemer zijn onmiddellijk na de datum van overgang naar de rechtspersoon in hun totaliteit niet ongunstiger dan zijn rechtspositie als personeelslid onmiddellijk voor de datum van overgang.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een personeelslid heeft het recht om bij de rechtspersoon op basis van een arbeidsovereenkomst naar burgerlijk recht als werknemer in dienst te treden. De datum van indiensttreding ligt niet voor hei moment van de verzelfstandiging van de rechtspersoon.
 
@@ -68,31 +93,31 @@ bron: "https://wetten.overheid.nl/BWBR0028538"
 
 6. Indien indiensttreding bij de rechtspersoon tevens inhoudt, dat de werknemer naar een ander openbaar lichaam dan waar hij woonachtig is dient te verhuizen, zijn [artikelen 66](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=66) en [69 van het Rechtspositiebesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=69) van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd de overige bepalingen van deze wet heeft een personeelslid dat een leidinggevende functie bij de overheidsdienst vervult geen aanspraak op een leidinggevende functie bij de rechtspersoon.
 
 2. Aan het personeelslid, bedoeld in het eerste lid, wordt een passende functie aangeboden bij de rechtspersoon dan wel bij het bevoegde gezag.
 
-#### Artikel 5
+##### Artikel 5
 
 De dienstjaren van een personeelslid bij het bevoegde gezag worden door de rechtspersoon in aanmerking genomen voor de bepaling van het aantal dienstjaren van belang voor het toekennen van jubileumgratificaties en de verdere opbouw van pensioenaanspraken.
 
-#### Artikel 6
+##### Artikel 6
 
 De werknemer behoudt het aantal als personeelslid bij het bevoegde gezag opgebouwde, niet genoten vacantiedagen, waarop hij recht had op de datum van indiensttreding bij de rechtspersoon.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voordat het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-10-09&g=2011-10-09), wordt gedaan, worden alle rechtspositionele zaken van het personeelslid, zoals met betrekking tot een eventuele bevordering, een eventuele aanstelling in vaste dienst of een eventuele functiewaardering, door het bevoegde gezag afgehandeld.
 
 2. Indien uitvoering van het eerste lid niet mogelijk blijkt, houdt de rechtspersoon met terugwerkende kracht rekening met de afhandeling door het bevoegde gezag op een later tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de rechtspersoon beschouwd als een interne kandidaat, indien hij solliciteert op een vacature die ontstaat door toepassing van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). Bij de bekendmaking van de vacature wordt hiermee rekening gehouden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De werknemer kan binnen een jaar na indiensttreding bij de rechtspersoon hetzelfde bevoegde gezag verzoeken hem opnieuw in dienst te nemen.
 
@@ -100,7 +125,7 @@ Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de
 
 3. De werknemer die niet kan worden geplaatst door het bevoegde gezag en evenmin in dienst wenst te blijven van de rechtspersoon, wordt door de rechtspersoon ontslag verleend met toepassing van het Wachtgeldbesluit ambtenaren BES of een daarvoor in de plaats getreden gelijkwaardige regeling, voortvloeiend uit het reglement of de collectieve arbeidsovereenkomst, bedoeld in [artikel 16, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het personeelslid dat niet op het aanbod, bedoeld in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=3&z=2011-10-09&g=2011-10-09), ingaat, wordt door het bevoegde gezag ontslag aangezegd. Gedurende drie maanden na de ontslagaanzegging spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. [Artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=8&z=2011-10-09&g=2011-10-09) is van overeenkomstige toepassing. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). Het ontslag kan, indien het personeelslid ingevolge [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=14&z=2011-10-09&g=2011-10-09), een bezwaarschrift heeft ingediend, niet eerder in werking treden dan na de beslissing op het bezwaarschrift, indien het bezwaarschrift ongegrond is verklaard.
 
@@ -108,7 +133,7 @@ Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de
 
 3. Bij toepassing van het tweede lid blijft het bevoegde gezag zich gedurende drie maanden inspannen het personeelslid, bedoeld in het eerste lid, te plaatsen in een functie op het laatste schaalniveau.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het bevoegde gezag brengt binnen zijn organisatie bestaande vacatures onder de aandacht van de werknemer, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
@@ -118,19 +143,19 @@ Een werknemer wordt gedurende een tijdvak van een jaar na indiensttreding bij de
 
 4. Bij eilandsbesluit, houdende algemene maatregelen, kunnen regelingen worden getroffen ten aanzien van eventuele om-, her- en bijscholing en outplacement van de werknemers, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=9&z=2011-10-09&g=2011-10-09), en de personeelsleden, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 12
+##### Artikel 12
 
 Het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), aanvaardt binnen twee weken nadat het bevoegde gezag hem schriftelijk een gelijkwaardige functie binnen zijn organisatie heeft aangeboden deze functie, bij gebreke waarvan aan hem eervol ontslag wordt verleend wegens het vervallen van zijn functie. Artikel 99 van de Wet materieel ambtenarenrecht BES is van toepassing.
 
 #### § 3. Commissies
 
-#### Artikel 13
+##### Artikel 13
 
 1. De uitvoering van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09) vindt plaats onder toezicht van een plaatsingscommissie. De samenstelling, taakstelling en werkwijze van de plaatsingscommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de plaatsingscommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd.
 
 2. Alvorens te beslissen wint het bevoegde gezag advies van de plaatsingscommissie in. Indien het bevoegde gezag afwijkt van het advies, brengt het de redenen van afwijking ter kennis van de plaatsingscommissie en van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De behandeling van een bezwaarschrift tegen de plaatsing, niet-plaatsing daaronder mede verstaan, ingediend door het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), geschiedt door een bezwarencommissie. De samenstelling, taakstelling en werkwijze van de bezwarencommissie geschiedt bij eilandsbesluit, houdende algemene maatregelen, met dien verstande, dat in de bezwarencommissie tenminste één vertegenwoordiger van de bonden van overheidspersoneel wordt benoemd. De personen waaruit de bezwarencommissie is samengesteld mogen niet dezelfde zijn als van de plaatsingscommissie, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=13&z=2011-10-09&g=2011-10-09).
 
@@ -140,11 +165,11 @@ Het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.n
 
 #### § 3. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Indien plaatsing van het personeelslid, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=2&artikel=10&z=2011-10-09&g=2011-10-09), binnen drie maanden na afloop van de termijn, bedoeld in artikel 10, eerste lid, niet mogelijk is gebleken, wordt hem eervol ontslag verleend wegens het vervallen van zijn functie, tenzij toepassing is gegeven aan artikel 10, tweede lid. Gedurende drie maanden na het ontslag spant het bevoegde gezag zich in binnen zijn organisatie voor hem een gelijkwaardige functie te vinden. Het bevoegde gezag houdt hierbij rekening met [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=20&z=2011-10-09&g=2011-10-09). [Artikel 99 van de Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215&artikel=99) is van toepassing.
 
-#### Artikel 16
+##### Artikel 16
 
 Gedurende een jaar na het tijdstip van de verzelfstandiging van de rechtspersoon spant de rechtspersoon zich in om:
 
@@ -154,28 +179,28 @@ Gedurende een jaar na het tijdstip van de verzelfstandiging van de rechtspersoon
 
 - c. een overgangsregeling te treffen met een werknemer, indien het totale pakket arbeidsvoorwaarden van de rechtspersoon onmiddellijk na de datum van overgang ongunstiger is dan de rechtspositie die de werknemer als personeelslid had direct voor het moment van de overgang naar de rechtspersoon, welke overgangsregeling nader wordt uitgewerkt in het in het reglement dan wel de collectieve arbeidsovereenkomst, bedoeld in onderdeel a, neer te leggen sociaal plan.
 
-#### Artikel 17
+##### Artikel 17
 
 Het reglement, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028538&paragraaf=3&artikel=16&z=2011-10-09&g=2011-10-09), behoeft de goedkeuring van het bevoegde gezag.
 
-#### Artikel 18
+##### Artikel 18
 
 De rechtspersoon garandeert het bevoegde gezag, dat hij voor de werknemers die als personeelsleden ten behoeve van hun pensioen waren verzekerd bij het BES ambtenarenpensioensfonds hetzij deze verzekering continueert, hetzij deze naar een andere gelijkwaardige pensioenverzekering overbrengt.
 
-#### Artikel 19
+##### Artikel 19
 
 Het bevoegde gezag dan wel de rechtspersoon is bevoegd ten gunste van het personeelslid onderscheidenlijk de werknemer af te wijken van deze wet en de daarop berustende bepalingen, indien de toepassing ervan leidt tot onbillijkheden van overwegende aard.
 
-#### Artikel 20
+##### Artikel 20
 
 Indien van de overheidsdienst taken met een publiekrechtelijk karakter onder het bevoegde gezag resteren, wordt de herschikking van die taken geregeld bij eilandsbesluit, houdende algemene maatregelen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Deze landsverordening treedt in werking met ingang van de dag na de datum van uitgifte van het Publicatieblad waarin zij wordt geplaatst en werkt behoudens het bepaalde in het tweede lid terug tot en met 1 januari 1998.
 
 2. Op de onverbindendheid van een bepaling die voorkomt in het Sociaal plan verzelfstandiging Biblioteka Publiko Körsou of het Sociaal plan verzelfstandiging DIV, vastgesteld bij besluit van het Bestuurscollege van het eilandgebied Curacao van 10 december 1997, No. 18 (No. 97/11924), kan geen beroep worden gedaan op de grond dat zij afwijkt van of in strijd is met de bepalingen van deze wet.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet sociaal statuut verzelfstandiging overheidsdiensten BES.

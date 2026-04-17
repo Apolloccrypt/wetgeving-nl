@@ -1,108 +1,134 @@
 ---
-title: "Eindejaarsbesluit 2024"
+title: "Besluit van 18 december 2024 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2024)"
 identifier: "BWBR0050618"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050618"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050618"
+soort: "AMvB"
+stam_id: "17322753"
+version_id: "30524192"
+internal_id: "C43759071"
+label_id: "17227104"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050618/2025-01-01/0"
+intitule_bron: "Stb.2024-441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-18"
+intitule_published: "2024-12-23"
+intitule_in_force: "2024-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2024-441"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-441"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050618&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050618&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Eindejaarsbesluit 2024"
+signed_date: "2024-12-18"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van 18 december 2024 tot wijziging van enige uitvoeringsbesluiten op het gebied van de belastingen en enige andere besluiten (Eindejaarsbesluit 2024)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit fiscale eenheid 2003.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit proceskosten bestuursrecht.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Besluit belasting- en invorderingsrente.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Belastingregeling voor het land Nederland.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Uitvoeringsbesluit Belastingwet BES.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Besluit gegevensverstrekking heffing eilandbelastingen BES.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Uitvoeringsbesluit Douane- en Accijnswet BES.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt het Besluit zorgverzekering BES.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 De in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050618&artikel=VII&z=2025-01-01&g=2025-01-01), opgenomen termijn van acht weken vangt niet eerder aan dan op 1 januari 2025.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2025, met dien verstande dat:
 
@@ -116,7 +142,7 @@ De in [artikel VII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0050618
 
 2. In afwijking van het eerste lid treden de [artikelen XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0050618&artikel=XVIII&z=2025-01-01&g=2025-01-01), [XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0050618&artikel=XIX&z=2025-01-01&g=2025-01-01), [XX](https://wetten.overheid.nl/jci1.3:c:BWBR0050618&artikel=XX&z=2025-01-01&g=2025-01-01) en [XXI](https://wetten.overheid.nl/jci1.3:c:BWBR0050618&artikel=XXI&z=2025-01-01&g=2025-01-01) in de openbare lichamen Bonaire, Sint-Eustatius en Saba in werking met ingang van 1 januari 2025, 00:00 uur, en in het Europese deel van Nederland met ingang van 1 januari 2025, 05:00 uur.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Dit besluit wordt aangehaald als: Eindejaarsbesluit 2024.
 

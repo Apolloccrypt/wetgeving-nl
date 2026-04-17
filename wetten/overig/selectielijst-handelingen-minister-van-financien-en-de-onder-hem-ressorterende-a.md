@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst handelingen Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein invoerrechten en accijnzen 1945-1962"
 identifier: "BWBR0011897"
-categorie: "Overig"
-publicatiedatum: 2001-02-04
-laatste_update: 2001-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011897"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2001-02-04"
+last_updated: "2001-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011897"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "3647123"
+version_id: "5430162"
+internal_id: "C25307931"
+label_id: "3627044"
+dtd_version: "2.0"
+original_entry_into_force: "2001-02-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011897/2001-02-04/0"
+intitule_bron: "Stcrt.2001-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-07"
+intitule_published: "2001-02-02"
+intitule_in_force: "2001-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-24"
+original_signed_date: "2000-12-07"
+original_published_date: "2001-02-02"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-02-04"
+jci_1_3: "jci1.3:c:BWBR0011897&z=2001-02-04&g=2001-02-04"
+jci_1_0: "1.0:c:BWBR0011897&g=2001-02-04"
+citeertitel_status: "officieel"
+signed_date: "2000-12-07"
+entry_into_force: "2001-02-04"
 ---
-
 # Selectielijst handelingen Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein invoerrechten en accijnzen 1945-1962
 
 Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 24 oktober 200
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van de Minister van Financiën en de onder hem ressorterende actoren op het beleidsterrein invoerrechten en accijnzen over de periode 1945-1962' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende lijsten worden ingetrokken, voor zover ze betrekking hebben op het beleidsterrein invoerrechten en accijnzen:
 
@@ -30,7 +54,7 @@ De volgende lijsten worden ingetrokken, voor zover ze betrekking hebben op het b
 
 - `Lijst van te vernietigen archiefbescheiden van de onder het Ministerie van Financiën ressorterende Directie Personeel van de Belastingdienst' (vastgesteld bij beschikking van de Minister van Welzijn, Volksgezondheid en Cultuur en de Minister van Financiën, nr. MMA/Ar-2063 I d.d. 22 juni 1987).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -42,13 +66,13 @@ Basis Selectie Document invoerrechten en accijnzen, periode 1945-1962 (1965)
 
 ### Inleiding
 
-#### 1. Algemeen
+##### 1. Algemeen
 
 In het kader van het Project Invoering Verkorting Overbrengings Termijn (PIVOT) werd tussen de secretaris-generaal van het ministerie van Financiën en de Algemene Rijksarchivaris op 25 juni 1992 een convenant afgesloten. Hierin werd onder meer afgesproken dat een institutioneel onderzoek `naar de taakontwikkeling en de daaraan gekoppelde organisatorische ontwikkeling van het ministerie in de periode na 1940' zou plaatsvinden. Dit onderzoek leidde tot o.a. het rapport `De grens verlegd'; dit rapport vormt de basis voor dit Basis Selectie Document (BSD).
 
 Het doel van dit rapport is een instrument te bieden dat leidt tot het formuleren van selectiecriteria ten aanzien van de handelingen van de minister van Financiën en andere actoren op het beleidsterrein invoerrechten en accijnzen over de periode 1945 - 1962.
 
-#### 2. Taken van de Rijksoverheid op het beleidsterrein
+##### 2. Taken van de Rijksoverheid op het beleidsterrein
 
 De doelstelling van de Rijksoverheid met het beleidsterrein invoerrechten en accijnzen was drieledig, te weten:
 
@@ -74,7 +98,7 @@ Handelingen voortvloeiende uit bovenvermelde doelstellingen zijn in het rapport 
 
 Het beleidsterrein is dermate omvattend dat besloten is om het onderzoek en de selectielijst in twee gedeelten op te delen; bovendien werd in 1962 de wet- en regelgeving inzake invoerrechten en accijnzen volledig herzien bij het tot stand komen van de Algemene wet inzake de douane en accijnzen, welke in 1962 in werking trad.
 
-#### 3. Overzicht van actoren werkzaam op het beleidsterrein
+##### 3. Overzicht van actoren werkzaam op het beleidsterrein
 
 In dit BSD zijn handelingen van onderstaande actoren opgenomen:
 
@@ -94,17 +118,17 @@ In dit BSD zijn handelingen van onderstaande actoren opgenomen:
 
 Op het beleidsterrein invoerrechten en accijnzen is daarnaast een aantal internationale organisaties actief, te weten: de Benelux, de Europese Economische Gemeenschap (EEG), de Europese Gemeenschap voor Kolen en Staal (EGKS), de Europese Vrijhandels Associatie (EVA), de General Agreement on Tariffs and Trade (GATT), de Internationale Douaneraad (IDR), en de Rijnvaartcommissie. Voor wat betreft de periode tot 1962 zijn de Benelux de Europese Gemeenschap, en de Rijnvaartcommissie het belangrijkst. De Benelux streeft naar unificatie van de invoerrechten en accijnzen terwijl de EG een harmonisatie van wetgeving op het gebied van de invoerrechten en accijnzen nastreeft.
 
-#### 4. Uitgangspunten bij de selectie
+##### 4. Uitgangspunten bij de selectie
 
 De selectie richt zich op de neerslag van het handelen van die overheidsorganen welke vallen onder de werking van de Archiefwet 1995.
 
 Het uitgangspunt hierbij is het maken van een onderscheid tussen 'te bewaren' en 'te vernietigen' neerslag van handelingen; met als doel het mogelijk maken van een `reconstructie van het overheidshandelen op hoofdlijnen'. Door het convent van rijksarchivarissen werd deze doelstelling vertaald als `het selecteren van handelingen van de overheid om bronnen voor de kennis van de Nederlandse samenleving en cultuur veilig te stellen voor blijvende bewaring.'
 
-#### 5. Selectiecriteria
+##### 5. Selectiecriteria
 
 Door PIVOT zijn selectiecriteria opgesteld welke het mogelijk maken de in het rapport institutioneel onderzoek verwoorde handelingen te wegen en zo de doelstelling van de selectie te realiseren. De door PIVOT ontwikkelde criteria zijn:
 
-#### Algemene selectiecriteria
+##### Algemene selectiecriteria
 
 Handelingen die worden gewaardeerd met B(ewaren)
 
@@ -126,11 +150,11 @@ Handelingen die worden gewaardeerd met B(ewaren)
 
 - **Selectiecriterium:** 9. Uitvoerende handelingen die direct zijn gerelateerd aan en/of direct voortvloeien uit voor Nederland bijzondere tijdsomstandigheden en incidenten. **Toelichting:** Hierbij moet worden gedacht aan handelingen verricht in het kader van de Tweede Wereldoorlog, de politionele acties, de watersnoodramp van 1953, de gijzelingsacties e.d.
 
-#### 6. Uitzonderingscriterium
+##### 6. Uitzonderingscriterium
 
 Ingevolge artikel 5, onder e, van het Archiefbesluit 1995 kan neerslag van bepaalde, als te vernietigen gewaardeerde handelingen betreffende personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang, van vernietiging worden uitgezonderd.
 
-#### 7. Selectielijst
+##### 7. Selectielijst
 
 De handelingen zoals in dit BSD zijn opgenomen komen grotendeels overeen met het rapport institutioneel onderzoek `De grens verlegd'. De handelingen zijn per actor gegroepeerd. De handelingen zijn overeenkomstig de handelingen in het rapport genummerd.
 
@@ -152,7 +176,7 @@ Hoewel dit oorspronkelijk wel de bedoeling was, is besloten is om de neerslag ui
 
 Aan iedere handeling is een waardering toegekend. Deze waardering kan zijn een B(ewaren) of een V(ernietigen). Wanneer een B is toegekend, wordt tevens het desbetreffende selectiecriterium opgenomen.
 
-#### Overzicht van handelingen die met een B(ewaren) zijn gewaardeerd.
+##### Overzicht van handelingen die met een B(ewaren) zijn gewaardeerd.
 
 | Actor | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -164,7 +188,7 @@ Aan iedere handeling is een waardering toegekend. Deze waardering kan zijn een B
 | Aangewezen ambtenaar Fin. |   |   |   |   |   |   |   |   |   |
 | Commissie van deskundigen voor de tabaksaccijns |   |   | 322 |   |   |   |   |   |   |
 
-#### 8. Vaststelling BSD
+##### 8. Vaststelling BSD
 
 Op 25 februari 2000 is het ontwerp-BSD door het Hoofd Algemene Secretarie van het Ministerie van Financiën aan de Staatssecretaris van OCenW aangeboden, voor wat betreft de handelingen van de onder dit ministerie ressorterende actoren. Hierna heeft de Staatssecretaris het ontwerp-BSD ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waarderingen van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Vanaf 15 maart 2000 lag de selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Algemeen Rijksarchief evenals in de bibliotheken van de betrokken zorgdragers, het Ministerie van OCenW en de rijksarchieven in de provincie, hetgeen was aangekondigd in de Staatscourant nr. 52 van 14 maart 2000.
 

@@ -1,13 +1,37 @@
 ---
 title: "Internationaal Verdrag voor de vereenvoudiging van douaneformaliteiten"
 identifier: "BWBV0006239"
-categorie: "Internationaal recht"
-publicatiedatum: 1925-08-28
-laatste_update: 1925-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006239"
+country: "nl"
+rank: "verdrag"
+publication_date: "1925-08-28"
+last_updated: "1925-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006239"
+soort: "verdrag"
+stam_id: "10005112733"
+version_id: "10005461122"
+internal_id: "C10008422331"
+label_id: "10005096184"
+dtd_version: "2.0"
+original_entry_into_force: "1925-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006239/1925-08-28/0"
+intitule_bron: "Stb.1925-270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1925-06-23"
+intitule_published: "1925-07-10"
+intitule_in_force: "1925-07-10"
+intitule_status: "goed"
+original_publication: "Stb.1925-270"
+original_signed_date: "1925-06-23"
+original_published_date: "1925-07-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1925-08-28"
+jci_1_3: "jci1.3:c:BWBV0006239&z=1925-08-28&g=1925-08-28"
+jci_1_0: "1.0:c:BWBV0006239&g=1925-08-28"
+citeertitel_status: "redactioneel"
+signed_date: "1925-06-23"
+entry_into_force: "1925-08-28"
 ---
-
 # Internationaal Verdrag voor de vereenvoudiging van douaneformaliteiten
 
 Wenschende de toepassing te verzekeren van het beginsel van de rechtvaardige behandeling van den handel, zooals dat is neergelegd in artikel 23 van het Volkenbondverdrag;
@@ -24,19 +48,19 @@ Weshalve de Hooge Verdragsluitende Partijen als haar Gevolmachtigden hebben beno
 
 die, na mededeeling van hunne volmachten, welke in goede orde zijn bevonden, het volgende zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Teineinde onderling het beginsel en de bepalingen van artikel 23 van het Volkenbondverdrag, voorzoover betreft de rechtvaardige behandeling van den handel, toe te passen, verbinden de Verdragstaten zich hun handelsbetrekkingen niet te belemmeren door overdreven, onnoodige of willekeurige douane- of dergelijke formaliteiten.
 
 Te dien einde verbinden de Verdragstaten zich, door alle gepaste wetgevende of administratieve maatregelen de herziening te bevorderen van de bepalingen, neergelegd in hun wetten of reglementen of in de voorschriften en instructies van hun administratieve autoriteiten, voor zoover betreft de douane- en dergelijke formaliteiten, teneinde deze te vereenvoudigen en van tijd tot tijd aan te passen aan de behoeften van de handelsbetrekkingen met het buitenland en daarbij iedere belemmering te vermijden, die niet noodzakelijk zou zijn voor de bescherming van de wezenlijke belangen van het land.
 
-#### Artikel 2
+##### Artikel 2
 
 De Verdragstaten verbinden zich het beginsel van de rechtvaardige behandeling nauwlettend in acht te nemen, ten aanzien van douane- of dergelijke voorschriften of behandeling, formaliteiten ter zake van het afgeven van consenten, wijze van verificatie of onderzoek of alle andere onderwerpen, bedoeld in dit Verdrag; en overeenkomstig dit beginsel komen zij overeen zich te dezer zake te onthouden van iedere onrechtvaardige achterstelling, die gericht zou zijn tegen den handel van eenigen Verdragstaat.
 
 Het hierboven bedoeld beginsel blijft van toepassing zelfs in de gevallen, waarin zekere Verdragstaten, overeenkomstig hun wetgeving of hun handelsovereenkomsten, elkander nog grootere faciliteiten zouden toekennen dan die, welke voort vloeien uit dit Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Op grond van de ernstige belemmeringen, die verboden en beperkingen van invoer of van uitvoer aan den internationalen handel in den weg leggen, verbinden de Verdragstaten zich om, zoodra de omstandigheden hun dit mogelijk zullen maken, alle maatregelen te nemen en toe te passen, die geschikt zullen zijn om zoodanige verboden en beperkingen tot een minimum terug te brengen en in ieder geval om inzake consenten, die in afwijking van de invoer- of uitvoerverboden worden uitgereikt, alle noodige maatregelen te nemen:
 
@@ -50,7 +74,7 @@ Op grond van de ernstige belemmeringen, die verboden en beperkingen van invoer o
 
 - e). opdat, ingeval van het vaststellen van contingenten, de formaliteiten, die opgelegd worden door het land van invoer, niet zoodanig zijn, dat zij een rechtvaardige toebedeeling van de hoeveelheid goederen, waarvan de invoer wordt toegestaan, beletten.
 
-#### Artikel 4
+##### Artikel 4
 
 De Verdragstaten zullen onverwijld alle reglementen betreffende douane- en dergelijke formaliteiten, evenals alle wijzigingen, die hierin worden aangebracht, voorzoover deze tot dusverre niet zouden zijn bekend gemaakt, op zoodanige wijze publiceeren, dat de betrokken personen hiervan kennis kunnen nemen, en aldus de nadeelen vermijden, die zouden kunnen voortvloeien uit de toepassing van douane-formaliteiten, die zij niet kennen.
 
@@ -60,7 +84,7 @@ Dezelfde verplichting tot voorafgaande bekendmaking is van toepassing op alles w
 
 Intusschen zullen in gevallen van zoo bijzonderen aard, dat voorafgaande bekendmaking nadeel zou kunnen toebrengen aan de wezenlijke belangen van het land, de bepalingen van lid 2 en 3 van dit artikel haar verplichtend karakter verliezen. In zoodanige gevallen zal echter de bekendmaking zooveel mogelijk moeten samenvallen met het in werking treden van den genomen maatregel.
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere Verdragstaat, die door achtereenvolgende toevoegingen of veranderingen zijn douane-tarief voor een belangrijk aantal artikelen zal hebben gewijzigd, zal hiervan aan het publiek een duidelijk overzicht moeten geven door in een gemakkelijk toegankelijken vorm alle rechten, welke van toepassing zijn tengevolge van het geheel der geldende bepalingen, te publiceeren.
 
@@ -70,7 +94,7 @@ Terwijl de heffingen, waaraan de goederen onderworpen zijn, aldus duidelijk word
 
 De Verdragstaten verbinden zich de noodige maatregelen te nemen om de kooplieden in staat te stellen zich officieele inlichtingen te verschaffen omtrent de douane-tarieven, en met name omtrent het bedrag der rechten, die ten opzichte van een bepaalde koopwaar worden geheven.
 
-#### Artikel 6
+##### Artikel 6
 
 Ten einde de Verdragstaten en hun onderdanen in staat te stellen zoo spoedig mogelijk kennis te nemen van alle in de artikelen 4 en 5 bedoelde maatregelen, die van belang zijn voor hun handel, verbindt iedere Verdragstaat zich aan den diplomatieken vertegenwoordiger van ieder van de andere Staten of aan iederen anderen vertegenwoordiger, die voor dit doel wordt aangewezen en op zijn grondgebied verblijf houdt, alle publicaties te doen toekomen, die overeenkomstig de genoemde artikelen worden uitgegeven, met dien verstande, dat deze mededeeling moet geschieden terstond bij de bekendmaking, en in twee exemplaren. Bij gebreke van een diplomatiek of ander vertegenwoordiger zal de mededeeling aan den betrokken Staat geschieden op de wijze, die deze voor dit doel zal aangeven.
 
@@ -78,23 +102,23 @@ Iedere Verdragstaat verbindt zich bovendien alle publicaties, welke plaats hebbe
 
 Iedere Verdragstaat verbindt zich eveneens alle douanetarieven of wijzigingen in de tarieven, welke door hem worden vastgesteld, zoodra deze zullen zijn verschenen, in tien exemplaren toe te zenden aan het „Internationaal Bureau voor de bekendmaking van de Douanetarieven” te Brussel, waaraan door het internationale Verdrag van 5 Juli 1890 de vertaling en de bekendmaking der tarieven is opgedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 De Verdragstaten verbinden zich, zoowel door middel van hun wetgeving als van hun administratie, de meest geschikte maatregelen te nemen, teneinde willekeurige of onrechtvaardige toepassing van hun wetten en regelingen op douane- en dergelijk gebied te voorkomen, alsmede een beroep langs den administratieven, rechterlijken of scheidsrechterlijken weg te verzekeren aan hen, die door zoodanige misbruiken zouden kunnen zijn benadeeld.
 
 Alle zoodanige maatregelen, die op dit oogenblik van kracht zijn of die in de toekomst zullen worden genomen, zullen moeten worden bekendgemaakt op de in de artikelen 4 en 5 aangegeven wijze.
 
-#### Artikel 8
+##### Artikel 8
 
 Met uitzondering van de gevallen, waarin goederen zouden kunnen vallen onder een invoerverbod, en voorzoover de aanwezigheid der goederen niet noodzakelijk is voor de oplossing van het geschil, moeten de goederen, die het voorwerp uitmaken van een geschil met betrekking tot de toepassing van het tarief, de oorsprong, de herkomst of de waarde, op verzoek van den aangever onmiddellijk te zijner vrije beschikking worden gesteld, zonder dat de oplossing van het geschil wordt afgewacht, onder voorbehoud echter van de maatregelen, welke noodig kunnen zijn ter bescherming van de belangen van den Staat. Het is wel te verstaan, dat de terugbetaling van het in bewaring gegeven bedrag der rechten of de opheffing van de zekerheid, die de aangever heeft gesteld, plaats zal hebben, zoodra het geschil tot oplossing zal zijn gebracht, hetgeen in ieder geval zoo spoedig mogelijk zal moeten geschieden.
 
-#### Artikel 9
+##### Artikel 9
 
 Teneinde de vorderingen te doen uitkomen, welke bereikt zijn in alles wat betrekking heeft op de vereenvoudiging van de douane- of dergelijke formaliteiten, als bedoeld in de voorafgaande artikelen, moet ieder van de Verdragstaten, binnen een tijdsverloop van 12 maanden nadat dit Verdrag voor hem zal zijn in werking getreden, aan den Secretaris-Generaal van den Volkenbond een overzicht doen toekomen van de maatregelen, welke hij heeft genomen om de bedoelde vereenvoudiging te verzekeren.
 
 Dergelijke overzichten zullen daarna iedere drie jaar en telkens wanneer de Raad van den Volkenbond het verzoekt, worden overgelegd.
 
-#### Artikel 10
+##### Artikel 10
 
 Monsters en modellen, welke onderhevg zijn aan invoerrechten en niet door een verbod worden getroffen, zullen, wanneer zij worden ingevoerd door fabrikanten of kooplieden, gevestigd in een van de Verdragstaten, hetzij dit persoonlijk, hetzij door tusschenkomst van handelsreizigers geschiedt, met voorloopige vrijstelling van rechten worden toegelaten op het grondgebied van ieder van de Verdragstaten, onder voorbehoud, dat het voor de invoerrechten verschuldigde bedrag worde gestort, of zekerheid worde gesteld voor eventueele betaling van deze rechten.
 
@@ -116,7 +140,7 @@ In afwachting van de totstandkoming van het bovenomschreven stelsel, zullen de f
 
 De bepalingen van dit artikel, met uitzondering van die, welke betrekking hebben op legitimatiekaarten, zijn op de monsters en modellen, die onderworpen zijn aan invoerrechten, niet onderhevig zijn aan invoerverboden, en ingevoerd worden door de fabrikanten, handelaars of handelsreizigers, gevestigd in één van de Verdragstaten, ook dan toepasselijk, wanneer deze fabrikanten, handelaars of handelsreizigers de monsters of modellen niet vergezellen.
 
-#### Artikel 11
+##### Artikel 11
 
 De Verdragstaten zullen de gevallen, waarin certificaten van oorsprong worden geëischt, zooveel mogelijk beperken.
 
@@ -150,7 +174,7 @@ In overeenstemming met dit beginsel en met dien verstande, dat de douane-adminis
 
 - 9°. De bepalingen van dit artikel zijn van toepassing op alle stukken, die dienst doen als certificaten van oorsprong.
 
-#### Artikel 12
+##### Artikel 12
 
 De zoogenaamde consulaire facturen zullen alleen verlangd mogen worden voorzoover het overleggen er van noodzakelijk is, hetzij om den oorsprong van de ingevoerde goederen vast te stellen, wanneer de oorsprong invloed kan hebben op de voorwaarden van toelating van de goederen, hetzij om de waarde er van vast te stellen ingeval van belasting naar de waarde, voor de toepassing waarvan de handelsfactuur niet voldoende zou zijn.
 
@@ -158,7 +182,7 @@ De vorm van de consulaire facturen zal vereenvoudigd worden teneinde alle verwar
 
 De kosten van het visum van de consulaire facturen zullen een vaste som bedragen, welk bedrag zoo laag mogelijk zal moeten zijn en voorts zullen voor eenzelfde factuur niet meer dan drie exemplaren mogen worden verlangd.
 
-#### Artikel 13
+##### Artikel 13
 
 Wanneer de behandeling, die op een bepaalde soort van goederen bij invoer moet worden toegepast, afhankelijk is van de uitvoering van bijzondere technische voorwaarden nopens de samenstelling, den graad van zuiverheid, de hoedanigheid, den gezondheidstoestand, het gebied van productie of andere dergelijke omstandigheden, zullen de Verdragstaten er naar streven overeenkomsten te sluiten, krachtens welke de in het uitvoerende land afgegeven certificaten, evenals de zegels of merken, die daar zijn aangebracht om te waarborgen, dat bedoelde voorwaarden zijn vervuld, worden aanvaard, zonder dat deze goederen aan een tweede onderzoek of een nieuwe keuring in het land van invoer worden onderworpen, onder voorbehoud, dat bijzondere waarborgen kunnen worden verlangd, wanneer er reden bestaat om aan te nemen, dat aan de vereischte voorwaarden niet is voldaan. Het land van invoer zou eveneens alle waarborgen moeten hebben ten aanzien van de autoriteit, die de certificaten afgeeft, evenals ten aanzien van den aard en het karakter van het onderzoek, dat in het land van uitvoer wordt ingesteld. Anderzijds zouden de douane-autoriteiten van het land van invoer het recht moeten behouden om over te gaan tot een nieuw onderzoek, telkens wanneer er bijzondere redenen zouden zijn om dit te doen.
 
@@ -168,7 +192,7 @@ Teneinde de algemeene aanvaarding van zoodanige overeenkomsten te bevorderen, zo
 
 - b). Aard en karakter van de onderzoekingen, in het land van ieder van de Staten, die partij zijn bij zoodanige overeenkomsten, te verrichten, waarbij in het bijzonder de graad van zuiverheid, welke voor de producten wordt verlangd, zoodanig worde vastgesteld, dat die eisch niet in werkelijkheid zou gelijk staan met een invoerverbod.
 
-#### Artikel 14
+##### Artikel 14
 
 De Verdragstaten zullen de meest geschikte methodes onderzoeken tot het vereenvoudigen, het meer eenvormig en tevens meer redelijk maken — hetzij door individuele, hetzij door gemeenschappelijke actie —- van de formaliteiten, welke betrekking hebben op het snel vrijmaken van goederen, het visiteeren van reizigersbagage, de behandeling van goederen in entrepôt, de pakhuishuren en de andere aangelegenheden als bedoeld in de bijlage van dit artikel.
 
@@ -220,11 +244,11 @@ Voor de toepassing van dit artikel zullen de Verdragstaten de in deze bijlage ve
 
 - 18. Het is wenschelijk de instelling van internationale spoorwegstations te ontwikkelen en de doeltreffende samenwerking te verwezenlijken tusschen de daarin gevestigde diensten der verschillende Staten. Eveneens zou het aanbeveling verdienen om zooveel mogelijk overeenstemming te bereiken tusschen de bevoegdheden en de uren van openstelling van de naburige kantoren van twee aan elkander grenzende landen, aan weerszijde der grens gelegen, zoowel wanneer het betreft wegen en rivieren, als spoorwegen. De praktijk om douanekantoren van aan elkander grenzende landen in dezelfde plaats te vestigen, en indien doenlijk zelfs in hetzelfde gebouw, zou zooveel mogelijk algemeen moeten worden. Teneinde de aanbevelingen, welke vervat zijn in deze afdeeling E te verwezenlijken, is het wenschelijk, dat een internationale Conferentie wordt bijeengeroepen, waaraan vertegenwoordigers van alle betrokken administraties en organisaties zouden moeten deelnemen.
 
-#### Artikel 15
+##### Artikel 15
 
 Ieder van de Verdragstaten verbindt zich om onder voldoende waarborgen van de zijde van de vervoerders en onder voorbehoud van straffen volgens de wet ingeval van fraude of van onwettigen invoer, toe te staan, dat ingeschreven bagage rechtstreeks en ambtshalve, zonder douane-onderzoek aan de grens, wordt verzonden van de plaats van afzending in het buitenland naar een kantoor dat in het binnenland is gelegen, wanneer dit kantoor daarvoor is aangewezen. De Staten zullen lijsten van de aldus aangewezen kantoren bekendmaken. Het is wel te verstaan, dat de reiziger de bevoegdheid zal behouden zijn bagage aan te geven aan het eerste grenskantoor, waar hij het grondgebied betreedt.
 
-#### Artikel 16
+##### Artikel 16
 
 De Verdragstaten zullen, onder voorbehoud van alle rechten inzake het stelsel van hun eigen wetgeving nopens tijdelijken in- en uitvoer zich zooveel mogelijk laten leiden door de beginselen uiteengezet in de bijlage van dit artikel met betrekking tot de behandeling van goederen die worden in- of uitgevoerd om een verdere bewerking te ondergaan, van voorwerpen die bestemd zijn voor openbare tentoonstellingen, hetzij deze een industrieel, commercieel, artistiek of wetenschappelijk doel hebben, van toestellen en voorwerpen bestemd voor proeven en demonstraties, van voertuigen voor toerisme of van verhuiswagens, van monsters, van verpakkingsmaterialen, van goederen, die uitgevoerd worden onder voorbehoud dat zij teruggezonden zullen worden en van andere dergelijke goederen.
 
@@ -246,29 +270,29 @@ De Verdragstaten zullen, onder voorbehoud van alle rechten inzake het stelsel va
 
 - 7. Het is wenschelijk, dat de gegeven borgstellingen worden terugbetaald of opgeheven, zoodra voldaan is aan alle verplichtingen, die zijn aangegaan.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag zal geen inbreuk maken op de algemeene of bijzondere maatregelen, welke een Verdragstaat genoodzaakt zou zijn bij uitzondering te nemen ingeval van ernstige gebeurtenissen, welke de veiligheid van het land of zijn levensbelangen raken, met dien verstande dat het beginsel van rechtvaardige behandeling van den handel steeds zooveel mogelijk zal worden in acht genomen. Evenmin zal dit Verdrag mogen worden aangevoerd tegen de maatregelen, welke de Verdragstaten zouden kunnen nemen ter verzekering van de gezondheid van menschen, dieren of planten.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag legt aan geen der Verdragstaten een verplichting op, die strijdig zou zijn met zijn rechten en verplichtingen als Lid van den Volkenbond.
 
-#### Artikel 19
+##### Artikel 19
 
 De verplichtingen, die de Verdragstaten op het gebied van douane-regeling hebben aanvaard krachtens verdragen, overeenkomsten of schikkingen, welke zij vóór den datum van 3 November 1923 hebben gesloten, worden tengevolge van het van kracht worden van dit Verdrag niet buiten werking gesteld.
 
 Op grond van deze niet-buitenwerking-stelling, verbinden de Verdragstaten zich, in de aldus van kracht gebleven verbintenissen, welke in strijd komen met de bepalingen van dit Verdrag, zoodra de omstandigheden dit mogelijk zullen maken en althans bij het afloopen van de overeenkomsten, de wijzigingen aan te brengen, noodig om deze met die bepalingen te doen overeenstemmen, met dien verstande, dat deze verplichting niet van toepassing is op de bepalingen van de verdragen, die een einde hebben gemaakt aan den oorlog 1914—1918, verdragen, welke dit Verdrag niet aantast.
 
-#### Artikel 20
+##### Artikel 20
 
 Overeenkomstig artikel 23 **e** van het Volkenbondverdrag zal iedere Verdragstaat, die tegen de toepassing van een der bepalingen van dit Verdrag op het geheele, of op een gedeelte van zijn grondgebied geldige bezwaren kan inbrengen, op grond van een ernstigen economischen toestand, die het gevolg is van verwoestingen, die op zijn grondgebied zijn aangebracht gedurende den oorlog van 1914—1918, geacht worden tijdelijk te zijn vrijgesteld van de verplichtingen, voortvloeiende uit de toepassing van bedoelde bepaling, met dien verstande dat het beginsel van de rechtvaardige behandeling van den handel, waartoe de Verdragstaten zich verplichten, in zoo ruim mogelijke mate zal moeten worden in acht genomen.
 
-#### Artikel 21
+##### Artikel 21
 
 Het is wel te verstaan, dat dit Verdrag niet mag worden uitgelegd in dien zin, dat het op eenigerlei wijze de rechten en verplichtingen **inter se** regelt van gebieden, die deel uitmaken van of die geplaatst zijn onder de bescherming van eenzelfden souvereinen Staat, onverschillig of deze gebieden elk voor zich Verdragstaten zijn of niet.
 
-#### Artikel 22
+##### Artikel 22
 
 Wanneer een geschil rijst tusschen twee of meer Verdragstaten inzake de uitlegging of de toepassing van de bepalingen van dit Verdrag, en wanneer dit geschil niet beslecht kan worden, hetzij rechtstreeks tusschen de partijen, hetzij langs eenigen anderen weg van vreedzame beslechting, zullen de bij het geschil betrokken partijen, alvorens haar toevlucht te nemen tot eenige scheidsrechterlijke of gerechtelijke procedure, het geschil ter minnelijke schikking kunnen onderwerpen aan het technisch orgaan, dat de Raad van den Volkenbond tot dit doel zal aanwijzen. Dit orgaan zal, na de partijen te hebben gehoord en zoo noodig tezamen opgeroepen, een advies uitbrengen.
 
@@ -278,43 +302,43 @@ Indien een geschil rijst van den aard als bedoeld in het eerste lid van dit arti
 
 Het aanvaarden van de procedure voor het hierboven bedoelde orgaan of het door dit orgaan gegeven advies zal in geen geval de opschorting medebrengen van den maatregel, waarop het geschil betrekking heeft; ditzelfde zal gelden in het geval van een geding voor het Permanente Hof van Internationale Justitie, tenzij het Hof krachtens artikel 41 van zijn Statuut anders beslist.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit Verdrag, waarvan de Fransche en Engelsche tekst beide als authentiek zullen gelden, zal de dagteekening dragen van heden en zal tot op 31 October 1924 geteekend kunnen worden door iederen Staat, die op de Conferentie van Genève vertegenwoordigd was, door ieder Lid van den Volkenbond en door iederen Staat, waaraan de Raad van den Volkenbond te dien einde een exemplaar van dit Verdrag zal hebben doen toekomen.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit Verdrag is onderworpen aan bekrachtiging. De bekrachtigingsoorkonden zullen worden overgelegd aan den Secretaris-Generaal van den Volkenbond, die van de ontvangst zal kennis geven aan de Leden van den Volkenbond, die het Verdrag onderteekend hebben, evenals aan de andere Staten, welke het onderteekend hebben.
 
-#### Artikel 25
+##### Artikel 25
 
 Na 31 October 1924 zal iedere Staat, die vertegenwoordigd was op de in artikel 23 bedoelde Conferentie en het Verdrag niet onderteekend heeft, ieder Lid van den Volkenbond en iedere Staat, aan wien de Raad van den Volkenbond te dien einde een exemplaar van het Verdrag heeft doen toekomen, tot dit Verdrag kunnen toetreden.
 
 Deze toetreding zal geschieden door middel van een oorkonde, die aan den Secretaris-Generaal van den Volkenbond wordt overgelegd, teneinde in de archieven van het Secretariaat te worden nedergelegd. De Secretaris-Generaal zal van de ontvangst onmiddellijk kennis geven aan de Leden van den Volkenbond, die het Verdrag onderteekend hebben, alsook aan de andere Staten, welke het onderteekend hebben.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit Verdrag zal slechts in werking treden, wanneer het door vijf Mogendheden bekrachtigd zal zijn. Datum van inwerkingtreding zal zijn de negentigste dag na ontvangst van de vijfde bekrachtiging door den Secretaris-Generaal van den Volkenbond. Daarna zal dit Verdrag van kracht worden voor wat betreft elk der Partijen, negentig dagen na de ontvangst van hare bekrachtiging of de kennisgeving van hare toetreding.
 
 Overeenkomstig de bepalingen van artikel 18 van het Volkenbondverdrag zal de Secretaris-Generaal dit Verdrag registreeren op den dag, waarop het in werking treedt.
 
-#### Artikel 27
+##### Artikel 27
 
 Een bijzonder register zal gehouden worden door den Secretaris-Generaal van den Volkenbond, aangevend welke Partijen dit Verdrag hebben onderteekend of bekrachtigd, er toe zijn toegetreden of het hebben opgezegd. Dat register zal voortdurend ter inzage zijn voor de Leden van den Bond en zal zoo veelvuldig mogelijk openbaar gemaakt worden volgens de aanwijzigingen van den Raad.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit Verdrag kan worden opgezegd door een schriftelijke kennisgeving, gericht tot den Secretaris-Generaal van den Volkenbond. De opzegging zal van kracht worden een jaar na den datum, waarop zij door den Secretaris-Generaal ontvangen is en zal slechts gevolg hebben ten opzichte van het Lid van den Volkenbond of den Staat, die het Verdrag opzegt.
 
 De Secretaris-Generaal van den Volkenbond zal iedere opzegging, welke hij ontvangt, ter kennis brengen van ieder van de Leden van den Volkenbond, die het Verdrag hebben geteekend of tot het Verdrag zijn toegetreden, evenals van de andere Staten, die het Verdrag hebben geteekend of daartoe zijn toegetreden.
 
-#### Artikel 29
+##### Artikel 29
 
 Iedere Staat, die het Verdrag onderteekent of tot dit Verdrag toetreedt, kan, op het oogenblik, hetzij van zijn onderteekening, hetzij van zijn bekrachtiging, hetzij van zijn toetreding, verklaren, dat zijn aanvaarding van dit Verdrag niet bindend is voor alle of eenige zijner protectoraten, koloniën, bezittingen of overzeesche gebieden, welke aan zijne souvereiniteit of gezag zijn onderworpen; zoodanige Staat kan later, overeenkomstig artikel 25, afzonderlijk toetreden voor elk der protectoraten, koloniën, bezittingen of overzeesche gebieden, die in zijn verklaring waren uitgesloten.
 
 Eveneens zal de opzegging afzonderlijk kunnen geschieden voor elk der zoodanige protectoraten, koloniën, bezittingen of overzeesche gebieden; de bepalingen van artikel 28 zullen op deze opzegging van toepassing zijn.
 
-#### Artikel 30
+##### Artikel 30
 
 De Raad van den Volkenbond wordt uitgenoodigd, de wenschelijkheid te overwegen van het bijeenroepen van een Conferentie tot herziening van dit Verdrag, wanneer een derde van de Verdragstaten dit verzoekt.
 

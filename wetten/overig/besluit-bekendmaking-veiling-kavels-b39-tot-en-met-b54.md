@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling kavels B39 tot en met B54"
+title: "Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 9 juli 2021, nr. DGBI-DE/210 25 388, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B39 tot en met B54, en de vaststelling van die vergunningen, (Besluit bekendmaking veiling kavels B39 tot en met B54)"
 identifier: "BWBR0045530"
-categorie: "Overig"
-publicatiedatum: 2021-08-26
-laatste_update: 2021-08-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045530"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-08-26"
+last_updated: "2021-08-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045530"
+soort: "ministeriele-regeling"
+stam_id: "16058093"
+version_id: "27969282"
+internal_id: "C39460721"
+label_id: "15990234"
+dtd_version: "2.0"
+original_entry_into_force: "2021-08-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045530/2021-08-26/0"
+intitule_bron: "Stcrt.2021-38633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-07-09"
+intitule_published: "2021-08-25"
+intitule_in_force: "2021-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-38633"
+original_signed_date: "2021-07-09"
+original_published_date: "2021-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-38633"
+entry_into_force_date: "2021-08-26"
+jci_1_3: "jci1.3:c:BWBR0045530&z=2021-08-26&g=2021-08-26"
+jci_1_0: "1.0:c:BWBR0045530&g=2021-08-26"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling kavels B39 tot en met B54"
+signed_date: "2021-07-09"
+entry_into_force: "2021-08-26"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken en Klimaat van 9 juli 2021, nr. DGBI-DE/210 25 388, handelend in overeenstemming met de Minister voor Basis- en Voortgezet Onderwijs en Media, inzake de keuze voor het instrument veiling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B39 tot en met B54, en de vaststelling van die vergunningen, (Besluit bekendmaking veiling kavels B39 tot en met B54)
 
 Gelet op [artikel 3.10, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daaraan, voor zover nu reeds mogelijk, te verbinden voorschriften en beperkingen, genoemd in tabel 1, worden verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -39,19 +65,19 @@ De vergunningen voor niet-landelijke commerciële radio in de FM-band met de daa
 
 1 Aan de uitgifte van deze frequentie kunnen geen rechten worden ontleend op uitgiftes van andere frequenties uit deze omroepband.
 
-#### Artikel 2
+##### Artikel 2
 
 De procedure van de veiling vangt aan op 4 januari 2022.
 
-#### Artikel 3
+##### Artikel 3
 
 De vergunningen, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045530&artikel=1&z=2021-08-26&g=2021-08-26), zijn nader bestemd voor niet-landelijke commerciële radio-omroep.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B39 tot en met B54.
 
@@ -59,7 +85,7 @@ Dit besluit wordt aangehaald als: Besluit bekendmaking veiling kavels B39 tot en
 
 ### Vergunning Kavel B39, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -75,7 +101,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B39).
 
@@ -85,7 +111,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -95,11 +121,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -117,11 +143,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -151,7 +177,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B40, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -167,7 +193,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B40).
 
@@ -177,7 +203,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -187,11 +213,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -209,11 +235,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -243,7 +269,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B41, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -259,7 +285,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B41).
 
@@ -269,7 +295,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -277,11 +303,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -299,11 +325,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -331,7 +357,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B42, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -347,7 +373,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B42).
 
@@ -361,7 +387,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -371,11 +397,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -393,11 +419,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -427,7 +453,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B43, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -443,7 +469,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B43).
 
@@ -453,7 +479,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -463,11 +489,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -485,11 +511,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -519,7 +545,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B44, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -535,7 +561,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B44).
 
@@ -545,7 +571,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 3. De vergunninghouder veroorzaakt:
 
@@ -555,11 +581,11 @@ In deze vergunning wordt verstaan onder:
 
 - 4. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -577,11 +603,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -609,7 +635,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B45, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -625,7 +651,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B45).
 
@@ -635,7 +661,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -645,11 +671,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -667,11 +693,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -699,7 +725,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B46, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -715,7 +741,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B46).
 
@@ -725,7 +751,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -735,11 +761,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -757,11 +783,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -789,7 +815,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B47, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -805,7 +831,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B47).
 
@@ -815,7 +841,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -825,11 +851,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -847,11 +873,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -879,7 +905,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B48, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -895,7 +921,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B48).
 
@@ -905,7 +931,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -915,11 +941,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -937,11 +963,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -969,7 +995,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B49, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -985,7 +1011,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B49).
 
@@ -995,7 +1021,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1005,11 +1031,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1027,11 +1053,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -1059,7 +1085,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B50, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -1075,7 +1101,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B50).
 
@@ -1085,7 +1111,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1095,11 +1121,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1117,11 +1143,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -1151,7 +1177,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B51, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -1167,7 +1193,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B51).
 
@@ -1177,7 +1203,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1187,11 +1213,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1209,11 +1235,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -1243,7 +1269,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B52, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -1259,7 +1285,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B52).
 
@@ -1269,7 +1295,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1279,11 +1305,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1301,11 +1327,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -1335,7 +1361,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B53, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -1351,7 +1377,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B53).
 
@@ -1361,7 +1387,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1371,11 +1397,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1393,11 +1419,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 
@@ -1429,7 +1455,7 @@ De frequentieplanning en de berekening van het theoretische verzorgingsgebied (h
 
 ### Vergunning Kavel B54, inclusief bijbehorende bijlagen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze vergunning wordt verstaan onder:
 
@@ -1445,7 +1471,7 @@ In deze vergunning wordt verstaan onder:
 
 - f. **niet-landelijke commerciële radio-omroep:** commerciële radio-omroep via FM-frequenties waarvoor op grond van [artikel 7 van de Regeling aanwijzing en gebruik frequentieruimte commerciële radio-omroep 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014740&artikel=7) gebruiksvoorschriften gelden.
 
-#### Artikel 2. Gebruiksrecht
+##### Artikel 2. Gebruiksrecht
 
 - 1. Het gebruiksrecht omvat het gebruik van de frequentieruimte, opgenomen in de bijlage bij deze vergunning, voor niet-landelijke commerciële radio-omroep (kavel B54).
 
@@ -1455,7 +1481,7 @@ In deze vergunning wordt verstaan onder:
 
 - 4. De vergunninghouder neemt daarbij de voorschriften en beperkingen bedoeld in de artikelen 3 tot en met 7 en de bijlagen van deze vergunning in acht.
 
-#### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
+##### Artikel 3. Beperkingen ter uitvoering van de [Beleidsregel storing door het gewenste signaal van radiozendapparaten](https://wetten.overheid.nl/jci1.3:c:BWBR0025800)
 
 - 1. De vergunninghouder veroorzaakt:
 
@@ -1465,11 +1491,11 @@ In deze vergunning wordt verstaan onder:
 
 - 2. Het eerste lid, onderdeel b, is niet van toepassing indien een vergunninghouder op of in een ziekenhuis of het perceel waarop dat ziekenhuis staat een radioapparaat heeft geplaatst met schriftelijke instemming van dat ziekenhuis.
 
-#### Artikel 4. Nederlandse of Friese taal
+##### Artikel 4. Nederlandse of Friese taal
 
 Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betreft, wordt ten minste 50 procent in de Nederlandse of Friese taal gepresenteerd.
 
-#### Artikel 5. Wijzigingen betreffende verbondenheid
+##### Artikel 5. Wijzigingen betreffende verbondenheid
 
 - 1. De vergunninghouder informeert Agentschap Telecom onmiddellijk over:
 
@@ -1487,11 +1513,11 @@ Voor zover het gepresenteerde programmaonderdelen tussen 07.00 en 19.00 uur betr
 
 - b. het door natuurlijke personen kunnen uitoefenen van zeggenschap of feitelijke invloed op rechtspersonen als bedoeld in [artikel 3 van de Tijdelijke regeling gebruiksbeperking commerciële FM-radio-omroep](https://wetten.overheid.nl/jci1.3:c:BWBR0043213&artikel=3) die onder de verklaring, bedoeld in onderdeel a, vallen.
 
-#### Artikel 6. Correspondentie
+##### Artikel 6. Correspondentie
 
 Kennisgevingen en correspondentie die verband houden met deze vergunning, worden gericht aan Agentschap Telecom te Groningen, tenzij door of vanwege de Minister anders wordt aangegeven.
 
-#### Artikel 7. Duur van de vergunning
+##### Artikel 7. Duur van de vergunning
 
 Deze vergunning is geldig van <de dag na verzending> tot en met 31 augustus 2024.
 

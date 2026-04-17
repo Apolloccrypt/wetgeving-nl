@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Bijdragenbesluit openbare lichamen milieubeheer"
+title: "Besluit van 13 juni 1995, houdende wijziging van het Bijdragenbesluit openbare lichamen milieubeheer (bijdrageregeling sanering industrielawaai)"
 identifier: "BWBR0007438"
-categorie: "Milieu"
-publicatiedatum: 1995-07-26
-laatste_update: 1995-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007438"
+country: "nl"
+rank: "amvb"
+publication_date: "1995-07-26"
+last_updated: "1995-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007438"
+soort: "AMvB"
+stam_id: "1477333"
+version_id: "2206322"
+internal_id: "C2206321"
+label_id: "1435004"
+dtd_version: "2.0"
+original_entry_into_force: "1995-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007438/1995-07-26/0"
+intitule_bron: "Stb.1995-328"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-06-13"
+intitule_published: "1995-06-27"
+intitule_in_force: "1995-06-27"
+intitule_status: "goed"
+original_publication: "Stb.1995-328"
+original_signed_date: "1995-06-13"
+original_published_date: "1995-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-328"
+entry_into_force_date: "1995-07-26"
+jci_1_3: "jci1.3:c:BWBR0007438&z=1995-07-26&g=1995-07-26"
+jci_1_0: "1.0:c:BWBR0007438&g=1995-07-26"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Bijdragenbesluit openbare lichamen milieubeheer"
+signed_date: "1995-06-13"
+entry_into_force: "1995-07-26"
 ---
-
 # Besluit van 13 juni 1995, houdende wijziging van het Bijdragenbesluit openbare lichamen milieubeheer (bijdrageregeling sanering industrielawaai)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 11 juli 1994, nr. MJZ11794028, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -20,15 +46,15 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 In afwijking van [artikel 6**c**, derde lid, van het Bijdragenbesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739&artikel=6c) wordt de bijdrage voor het kalenderjaar 1995 betaald binnen vier weken na de inwerkingtreding van dit besluit.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van de negenentwintigste dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

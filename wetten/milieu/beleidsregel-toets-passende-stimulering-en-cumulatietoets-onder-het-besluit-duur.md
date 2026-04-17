@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie"
+title: "Beleidsregel van de Minister voor Klimaat en Energie van 28 juni 2022, nr. WJZ/ 21315315, tot vaststelling van regels over de toets passende stimulering en de cumulatietoets in het kader van het Besluit duurzame energieproductie en klimaattransitie (Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie)"
 identifier: "BWBR0046885"
-categorie: "Milieu"
-publicatiedatum: 2022-07-12
-laatste_update: 2022-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046885"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-07-12"
+last_updated: "2022-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046885"
+soort: "beleidsregel"
+stam_id: "16414583"
+version_id: "28748422"
+internal_id: "C40674901"
+label_id: "16338874"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046885/2022-07-12/0"
+intitule_bron: "Stcrt.2022-17825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-28"
+intitule_published: "2022-07-11"
+intitule_in_force: "2022-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17825"
+original_signed_date: "2022-06-28"
+original_published_date: "2022-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17825"
+entry_into_force_date: "2022-07-12"
+jci_1_3: "jci1.3:c:BWBR0046885&z=2022-07-12&g=2022-07-12"
+jci_1_0: "1.0:c:BWBR0046885&g=2022-07-12"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie"
+signed_date: "2022-06-28"
+entry_into_force: "2022-07-12"
 ---
-
 # Beleidsregel van de Minister voor Klimaat en Energie van 28 juni 2022, nr. WJZ/ 21315315, tot vaststelling van regels over de toets passende stimulering en de cumulatietoets in het kader van het Besluit duurzame energieproductie en klimaattransitie (Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 7 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=7) en [artikel 4, eerste lid, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=4);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In deze beleidsregel wordt verstaan onder:
 
 #### § 2. Toets passende stimulering en cumulatietoets
 
-#### Artikel 2. (toets passende stimulering)
+##### Artikel 2. (toets passende stimulering)
 
 1. De minister toetst of sprake is van overstimulering, indien aan een subsidieontvanger sdek-subsidie wordt verstrekt voor een productie-installatie voor restwarmte, koolstofdioxide-arme warmte met een elektroboiler of een industriële warmtepomp met 3.000 vollasturen, waterstof uit elektrolyse, afvang en permanente opslag van koolstofdioxide of afvang en gebruik van koolstofdioxide dan wel hernieuwbare warmte of hernieuwbare elektriciteit en hernieuwbare warmte door middel van thermische conversie van vaste of vloeibare biomassa waarvoor via verlengde levensduur opnieuw subsidie is gegeven als bedoeld in [artikel 3, zevende lid, van de algemene uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0023563&artikel=3).
 
@@ -72,7 +98,7 @@ In deze beleidsregel wordt verstaan onder:
 
 **(geprognosticeerde sdek-subsidie + verkoopinkomsten hernieuwbare energie of inkomsten uit vermindering van broeikasgas + eventuele andere exploitatiesteun) – (netto investering + rendement op geïnvesteerd vermogen + exploitatiesaldo) > € 0.**
 
-#### Artikel 3. (cumulatietoets)
+##### Artikel 3. (cumulatietoets)
 
 1. De minister toetst of sprake is van overstimulering, indien aan een subsidieontvanger sdek-subsidie wordt verstrekt voor een andere productie-installatie dan een productie-installatie als bedoeld in [artikel 2, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en aan die subsidieontvanger ook steun op grond van andere steunmaatregelen dan de sdek-subsidie wordt verstrekt.
 
@@ -90,7 +116,7 @@ of
 
 4. Indien de uitkomsten van de berekeningen, bedoeld in het derde lid, beide hoger zijn dan € 0, bedraagt de overstimulering het hoogste bedrag van die uitkomsten.
 
-#### Artikel 4. (uitzonderingen op cumulatietoets)
+##### Artikel 4. (uitzonderingen op cumulatietoets)
 
 [Artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12) is niet van toepassing indien:
 
@@ -110,7 +136,7 @@ of
 
 #### § 3. Elementen uit de toetsen
 
-#### Artikel 5. (geprognosticeerde sdek-subsidie)
+##### Artikel 5. (geprognosticeerde sdek-subsidie)
 
 1. De minister berekent de waarde van de geprognosticeerde sdek-subsidie, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en [3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12):
 
@@ -120,7 +146,7 @@ of
 
 2. De geprognosticeerde correcties, bedoeld in het eerste lid, onderdeel b, worden gebaseerd op de meest recent vastgestelde correcties, waarbij voor toekomstige jaren rekening gehouden kan worden met inflatie.
 
-#### Artikel 6. (verkoopinkomsten hernieuwbare energie en inkomsten uit vermindering van broeikasgas)
+##### Artikel 6. (verkoopinkomsten hernieuwbare energie en inkomsten uit vermindering van broeikasgas)
 
 1. De minister berekent de waarde van de verkoopinkomsten uit hernieuwbare energie of de inkomsten uit vermindering van broeikasgas, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en [3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12), en voor zover van toepassing bedoeld in artikel 3, derde lid:
 
@@ -130,11 +156,11 @@ of
 
 2. In afwijking van het eerste lid, onderdeel a, hanteert de minister de door de subsidieontvanger opgegeven prijzen, indien de subsidieontvanger met facturen aantoont dat zijn verkoopinkomsten afwijken van de vastgestelde prijzen.
 
-#### Artikel 7. (netto investering)
+##### Artikel 7. (netto investering)
 
 De netto investering, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en [3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12), bedraagt de investeringskosten na aftrek van de investeringssteun.
 
-#### Artikel 8. (investeringssteun)
+##### Artikel 8. (investeringssteun)
 
 1. Bij de berekening van de waarde van de investeringssteun, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=3&artikel=7&z=2022-07-12&g=2022-07-12), hanteert de minister de rekenregels, bedoeld in het tweede tot en met achtste lid.
 
@@ -226,7 +252,7 @@ waarbij **Y en S** achtereenvolgens staan voor:
 
 9. De minister kan bij de berekeningen, bedoeld in het eerste tot en met achtste lid, andere waarden hanteren dan de waarden, bedoeld in die leden, indien de subsidieontvanger deze waarden kan aantonen met een accountantsverklaring, waarbij de fiscale voordelen worden toegerekend aan het jaar waarin ze in de belastingaangifte zijn geclaimd.
 
-#### Artikel 9. (rendement op geïnvesteerd vermogen)
+##### Artikel 9. (rendement op geïnvesteerd vermogen)
 
 1. De minister berekent bij het bepalen van de waarde van het rendement op geïnvesteerd vermogen, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en [3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12), de netto contante waarde van de financieringslasten verbonden aan de investering bij een gemiddeld rendement van het geïnvesteerde vermogen, dat is opgenomen in het eindadvies voor de betreffende categorie in het betreffende jaar van de indiening van de aanvraag voor de sdek-subsidie.
 
@@ -238,7 +264,7 @@ waarbij **Y en S** achtereenvolgens staan voor:
 
 5. De minister kan een afwijkende waarde voor het gemiddelde rendement van het geïnvesteerde vermogen hanteren dan de waarde, bedoeld in het vierde lid, indien de subsidieontvanger schriftelijk aantoont dat bij de start van de financiering voor hem een andere verhouding tussen vreemd vermogen en eigen vermogen van toepassing is, waarbij als grenswaarden gelden maximaal 15% als vergoeding voor inbreng van eigen vermogen en maximaal 6% voor inbreng van het vreemd vermogen.
 
-#### Artikel 10. (exploitatiesaldo)
+##### Artikel 10. (exploitatiesaldo)
 
 1. In geval het een productie-installatie betreft voor fotovoltaïsche zonnepanelen, zonthermie, windenergie, osmose of waterkracht, gebruikt de minister voor het berekenen van het exploitatiesaldo, bedoeld in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=2&z=2022-07-12&g=2022-07-12), en [3, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12), de exploitatiekosten en -baten die zijn opgenomen in het eindadvies voor de betreffende categorie in het betreffende jaar van de indiening van de aanvraag voor subsidie.
 
@@ -282,7 +308,7 @@ waarbij **Y en S** achtereenvolgens staan voor:
 
 5. Voor het aanleveren van het exploitatieoverzicht wordt gebruik gemaakt van een middel dat door de minister beschikbaar wordt gesteld.
 
-#### Artikel 11. (maximale sdek-subsidie)
+##### Artikel 11. (maximale sdek-subsidie)
 
 De minister berekent de waarde van de maximale sdek-subsidie, bedoeld in de [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=2&artikel=3&z=2022-07-12&g=2022-07-12):
 
@@ -290,7 +316,7 @@ De minister berekent de waarde van de maximale sdek-subsidie, bedoeld in de [art
 
 - b. indien het nog niet afgesloten productiejaren betreft volgens de formule: **de netto contante waarde van de maximale productie in MWh of kg koolstofdioxide die voor sdek-subsidie in aanmerking komt x het basisbedrag of fasebedrag – basiselektricteits- of basisenergieprijs of basisbroeikasgasbedrag.**
 
-#### Artikel 12. (discontopercentage en datum netto contante waarde)
+##### Artikel 12. (discontopercentage en datum netto contante waarde)
 
 1. De minister gebruikt het discontopercentage dat op het moment van het indienen van de aanvraag om sdek-subsidie als geldend discontopercentage is vermeld op de website van de Europese Commissie1[https://ec.europa.eu/competition-policy/state-aid/legislation/reference-discount-rates-and-recovery-interest-rates/reference-and-discount_nl](onbekend) voor het berekenen van de netto contante waarde van:
 
@@ -306,7 +332,7 @@ De minister berekent de waarde van de maximale sdek-subsidie, bedoeld in de [art
 
 #### § 4. Toetsmomenten en gevolgen
 
-#### Artikel 13. (begintoets)
+##### Artikel 13. (begintoets)
 
 1. De minister voert één jaar na ingebruikname van de productie-installatie waar de sdek-subsidie betrekking op heeft, een toets passende stimulering of cumulatietoets uit.
 
@@ -326,7 +352,7 @@ De minister berekent de waarde van de maximale sdek-subsidie, bedoeld in de [art
 
 5. Indien uit de toets passende stimulering of de cumulatietoets blijkt dat geen sprake is van overstimulering of dat de overstimulering minder dan € 10.000 bedraagt, stelt de minister de subsidieontvanger op de hoogte van de uitkomst van de toets.
 
-#### Artikel 14. (aanvragen van voor 24 november 2020)
+##### Artikel 14. (aanvragen van voor 24 november 2020)
 
 Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend voor 24 november 2020 en uit de cumulatietoets, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=13&z=2022-07-12&g=2022-07-12), blijkt dat de overstimulering € 10.000 of meer bedraagt:
 
@@ -334,7 +360,7 @@ Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend v
 
 - b. past de minister in afwijking van [artikel 13, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=13&z=2022-07-12&g=2022-07-12), de beschikking tot verlening van de sdek-subsidie overeenkomstig aan door de maximale subsidiabele productie in MWh te verlagen.
 
-#### Artikel 15. (hertoets)
+##### Artikel 15. (hertoets)
 
 1. Indien tijdens de periode van de sdek-subsidie sprake is van wijzigingen waarvan redelijkerwijs kan worden aangenomen dat die kunnen leiden tot significante wijzigingen in de uitkomst van de toets passende stimulering of de cumulatietoets, voert de minister ambtshalve die toets uit tijdens de periode van de sdek-subsidie.
 
@@ -342,7 +368,7 @@ Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend v
 
 3. Een subsidieontvanger kan een verzoek als bedoeld in het tweede lid ten hoogste drie keer indienen, tot uiterlijk het moment waarop de beschikking tot subsidievaststelling is gegeven.
 
-#### Artikel 16. (gevolgen hertoets)
+##### Artikel 16. (gevolgen hertoets)
 
 1. Indien uit de toets passende stimulering, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=15&z=2022-07-12&g=2022-07-12), blijkt dat de overstimulering € 10.000 of meer bedraagt:
 
@@ -368,7 +394,7 @@ Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend v
 
 6. Indien uit de toets passende stimulering of de cumulatietoets, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=15&z=2022-07-12&g=2022-07-12), blijkt dat geen sprake is van overstimulering of dat de overstimulering minder dan € 10.000 bedraagt, stelt de minister de subsidieontvanger op de hoogte van de uitkomst van de toets.
 
-#### Artikel 17. (aanvragen van voor 24 november 2020)
+##### Artikel 17. (aanvragen van voor 24 november 2020)
 
 1. Indien sdek-subsidie is verleend op grond van een aanvraag die is ingediend voor 24 november 2020 en uit de cumulatietoets, bedoeld in [artikel 15, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=15&z=2022-07-12&g=2022-07-12), blijkt dat de overstimulering € 10.000 of meer bedraagt:
 
@@ -384,7 +410,7 @@ Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend v
 
 3. In afwijking van [artikel 16, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046885&paragraaf=4&artikel=16&z=2022-07-12&g=2022-07-12), bedraagt bij een verhoging als bedoeld in het tweede lid de maximale subsidiabele productie in MWh niet meer dan opgenomen in de beschikking tot verlening van de sdek-subsidie zoals die oorspronkelijk luidde.
 
-#### Artikel 18. (eindtoets)
+##### Artikel 18. (eindtoets)
 
 1. De minister voert een toets passende stimulering of cumulatietoets uit voordat hij overgaat tot vaststelling van de sdek-subsidie, indien sprake is van wijzigingen waarvan redelijkerwijs kan worden aangenomen dat die kunnen leiden tot significante wijzigingen in de uitkomst van die toets.
 
@@ -396,15 +422,15 @@ Indien de sdek-subsidie is verleend op grond van een aanvraag die is ingediend v
 
 #### § 5. Slotbepalingen
 
-#### Artikel 19. (intrekking eerdere Beleidsregels)
+##### Artikel 19. (intrekking eerdere Beleidsregels)
 
 De [Beleidsregels cumulatietoets steun in het kader van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0030747) worden ingetrokken.
 
-#### Artikel 20. (inwerkingtreding)
+##### Artikel 20. (inwerkingtreding)
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 21. (citeertitel)
+##### Artikel 21. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel toets passende stimulering en cumulatietoets onder het Besluit duurzame energieproductie en klimaattransitie.
 

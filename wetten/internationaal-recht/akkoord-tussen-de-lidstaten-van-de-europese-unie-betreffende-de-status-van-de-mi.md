@@ -1,13 +1,38 @@
 ---
 title: "Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA)"
 identifier: "BWBV0003024"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-04-01
-laatste_update: 2003-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003024"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-04-01"
+last_updated: "2003-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003024"
+soort: "verdrag"
+stam_id: "10003294743"
+version_id: "10003319642"
+internal_id: "C10009528681"
+label_id: "10003280654"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003024/2019-04-01/0"
+intitule_bron: "Trb.2004-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-15"
+intitule_published: "2004-06-01"
+intitule_in_force: "2019-04-05"
+intitule_status: "goed"
+original_publication: "Trb.2004-142"
+original_signed_date: "2008-04-15"
+original_published_date: "2004-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-142"
+entry_into_force_date: "2019-04-01"
+jci_1_3: "jci1.3:c:BWBV0003024&z=2019-04-01&g=2019-04-01"
+jci_1_0: "1.0:c:BWBV0003024&g=2019-04-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-04-15"
+entry_into_force: "2019-04-01"
 ---
-
 # Akkoord tussen de lidstaten van de Europese Unie betreffende de status van de militairen en leden van het burgerpersoneel die bij de instellingen van de Europese Unie gedetacheerd zijn, van de hoofdkwartieren en de strijdkrachten die ter beschikking van de Europese Unie kunnen worden gesteld in het kader van de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, van het Verdrag betreffende de Europese Unie, en van de militairen en leden van het burgerpersoneel van de lidstaten die aan de Europese Unie beschikbaar zijn gesteld om in dit kader op te treden (EU-SOFA)
 
 De vertegenwoordigers van de regeringen van de Lid-Staten van de Europese Unie, in het kader van de Raad bijeen,
@@ -28,7 +53,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. GEMEENSCHAPPELIJKE BEPALINGEN VOOR MILITAIREN EN BURGERPERSONEEL
 
-#### Artikel 1
+##### Artikel 1
 
 In dit akkoord wordt verstaan onder:
 
@@ -52,17 +77,17 @@ In dit akkoord wordt verstaan onder:
 
 - 7. „ontvangststaat": de lidstaat op het grondgebied waarvan de militair, het lid van het burgerpersoneel, de strijdkrachten of het hoofdkwartier zich bevinden, hetzij omdat hij/zij daar gelegerd is/zijn of ingezet wordt/worden, hetzij omdat hij/zij daar op doorreis is/zijn, in verband met een individuele of collectieve dienstopdracht, dan wel in verband met een besluit tot detachering bij de EU-instellingen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De lidstaten vergemakkelijken indien nodig de binnenkomst, het verblijf en het vertrek van het in artikel 1 bedoelde personeel en van de van hen afhankelijke personen voor dienstdoeleinden. Van hen kan evenwel verlangd worden, dat zij aantonen dat zij tot de in artikel 1 bedoelde categorieën behoren.
 
 2. Onverminderd de desbetreffende regels inzake het vrije verkeer van personen uit hoofde van het Gemeenschapsrecht, is daartoe een individuele of collectieve reisopdracht of een besluit tot detachering bij de EU-instellingen voldoende.
 
-#### Artikel 3
+##### Artikel 3
 
 De militairen en het burgerpersoneel, alsook de van hen afhankelijke personen, hebben de plicht de wetgeving van de ontvangststaat te eerbiedigen en zich te onthouden van iedere activiteit die indruist tegen de geest van dit akkoord.
 
-#### Artikel 4
+##### Artikel 4
 
 Ten behoeve van dit akkoord:
 
@@ -70,21 +95,21 @@ Ten behoeve van dit akkoord:
 
 - 2. kan door bevoegd personeel van iedere lidstaat medische en tandheelkundige zorg verleend worden aan het personeel van de strijdkrachten en hoofdkwartieren van iedere andere lidstaat.
 
-#### Artikel 5
+##### Artikel 5
 
 De militairen en het burgerpersoneel dragen hun uniform volgens de in de zendstaat geldende reglementen.
 
-#### Artikel 6
+##### Artikel 6
 
 Voertuigen met een speciale registratie bij de strijdkrachten of de overheid van de zendstaat voeren behalve hun registratienummer een kenteken ter aanduiding van de nationaliteit.
 
 ## DEEL II. BEPALINGEN UITSLUITEND VAN TOEPASSING OP BIJ DE EU-INSTELLINGEN GEDETACHEERDE MILITAIREN EN LEDEN VAN HET BURGERPERSONEEL
 
-#### Artikel 7
+##### Artikel 7
 
 Bij de EU-instellingen gedetacheerde militairen en leden van het burgerpersoneel mogen wapens bezitten en dragen overeenkomstig artikel 13, wanneer zij werkzaam zijn bij de hoofdkwartieren of strijdkrachten die aan de EU beschikbaar kunnen worden gesteld in het kader van de voorbereiding en uitvoering van de opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen, of wanneer zij deelnemen aan missies in verband met dergelijke taken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de EU-instellingen gedetacheerde militairen of leden van het burgerpersoneel genieten vrijstelling van iedere vorm van rechtsvervolging voor hetgeen zij in de uitoefening van hun officiële taken hebben gezegd, geschreven of gedaan; ook na afloop van hun detachering blijven zij daarvan vrijgesteld.
 
@@ -102,37 +127,37 @@ Bij de EU-instellingen gedetacheerde militairen en leden van het burgerpersoneel
 
 ## DEEL III. BEPALINGEN UITSLUITEND VAN TOEPASSING OP HOOFDKWARTIEREN EN STRIJDKRACHTEN, ALSMEDE OP DE ALDAAR WERKZAME MILITAIREN EN LEDEN VAN HET BURGERPERSONEEL
 
-#### Artikel 9
+##### Artikel 9
 
 In het kader van de voorbereiding en de uitvoering van de in artikel 17, lid 2, VEU, bedoelde opdrachten, waaronder oefeningen, mogen de hoofdkwartieren en de strijdkrachten, alsmede het in artikel 1 genoemde personeel daarvan en hun uitrusting, over het grondgebied van een lidstaat reizen, respectievelijk worden vervoerd, en daar tijdelijk worden ingezet, mits de bevoegde autoriteiten van deze lidstaat daarmee instemmen.
 
-#### Artikel 10
+##### Artikel 10
 
 De militairen en het burgerpersoneel ontvangen medische noodhulp en tandheelkundige hulp, waaronder ziekenhuisopname, onder dezelfde voorwaarden als vergelijkbaar personeel van de ontvangststaat.
 
-#### Artikel 11
+##### Artikel 11
 
 Behoudens de toepassing van akkoorden en regelingen die reeds van kracht zijn of na de inwerkingtreding van dit akkoord tussen de bevoegde autoriteiten van de zendstaat en van de ontvangststaat, zijn de autoriteiten van de ontvangststaat als enigen verantwoordelijk voor het nemen van passende maatregelen voor het ter beschikking stellen aan de eenheden, formaties en andere entiteiten, van de benodigde gebouwen en terreinen en de verlening van faciliteiten en diensten die daarmee verband houden. Deze akkoorden en regelingen stemmen zoveel mogelijk overeen met de voorschriften betreffende huisvesting en inkwartiering van eenheden, formaties en andere entiteiten van de ontvangststaat.
 
 Tenzij een regeling het tegendeel bepaalt, worden de rechten en plichten welke voortvloeien uit het gebruikmaken van gebouwen, terreinen, faciliteiten en diensten beheerst door de wetten van de ontvangststaat.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De geregelde eenheden, formaties of entiteiten van militairen of burgerpersoneel hebben het recht in ieder kamp, iedere inrichting, ieder hoofdkwartier of ieder ander gebouw dat zij op grond van hun overeenkomst met de ontvangststaat in exclusief gebruik hebben, politietoezicht uit te oefenen. De politie van die eenheden, formaties of entiteiten is bevoegd alle nodige maatregelen te nemen om de orde en veiligheid in die ruimten te handhaven.
 
 2. Buiten deze ruimten kan op de in lid 1 bedoelde politie slechts een beroep worden gedaan op grond van regelingen met de autoriteiten van de ontvangststaat en in samenwerking met deze autoriteiten en voorzover het inzetten noodzakelijk is ter handhaving van tucht en orde onder de leden van die eenheden, formaties en entiteiten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De militairen mogen dienstwapens bezitten en dragen, mits hun dat is toegestaan in hun dienstbevelen en behoudens afspraken met de autoriteiten van de ontvangststaat.
 
 2. Burgerpersoneel mag dienstwapens bezitten en dragen, mits hun dat is toegestaan door de nationale regelgeving van de zendstaat en mits de autoriteiten van de ontvangststaat daarmee instemmen.
 
-#### Artikel 14
+##### Artikel 14
 
 De hoofdkwartieren en de strijdkrachten genieten op het gebied van post en telecommunicatie, reizen en reducties op vervoerkosten dezelfde faciliteiten als de strijdkrachten van de ontvangststaat, overeenkomstig de regelgeving van die staat.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De archieven en andere officiële documenten die zich in de gebouwen van een hoofdkwartier bevinden of die in het bezit zijn van een naar behoren gemachtigd lid van een hoofdkwartier, zijn onschendbaar, tenzij door het hoofdkwartier afstand is gedaan van deze immuniteit. Op verzoek van de ontvangststaat en in aanwezigheid van een vertegenwoordiger van deze staat, wordt door het hoofdkwartier nagegaan of de documenten naar hun aard onder de in dit artikel bedoelde immuniteit vallen.
 
@@ -140,7 +165,7 @@ De hoofdkwartieren en de strijdkrachten genieten op het gebied van post en telec
 
 3. Indien dat overleg niet tot een voor beide zijden bevredigend resultaat leidt, wordt de kwestie in de Raad besproken, teneinde tot een oplossing te komen. Indien geen oplossing is gevonden, neemt de Raad met eenparigheid van stemmen een besluit over de wijze waarop het geschil zal worden geregeld.
 
-#### Artikel 16
+##### Artikel 16
 
 Ter vermijding van dubbele belastingheffing en ter verfijning van de toepassing van overeenkomsten inzake dubbele belastingheffing tussen de lidstaten, en onverminderd het recht van de ontvangststaat om militairen en leden van het burgerpersoneel die onderdanen van die staat zijn of die normaal gesproken in de ontvangststaat verblijven, belasting te laten betalen:
 
@@ -152,7 +177,7 @@ Ter vermijding van dubbele belastingheffing en ter verfijning van de toepassing 
 
 - 4. is dit artikel in geen enkel opzicht van toepassing op rechten: onder „rechten" worden verstaan douanerechten en alle andere rechten en belastingen over invoer en uitvoer, met uitzondering van rechten en belastingen die slechts betaling voor verleende diensten vertegenwoordigen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De autoriteiten van de zendstaat oefenen de strafrechtelijke en disciplinaire rechtsmacht uit die hun door de wetgeving van de zendstaat verleend wordt, met betrekking tot militairen en leden van het burgerpersoneel, voor zover het burgerpersoneel uit hoofde van het feit dat het wordt ingezet bij deze strijdkrachten onderworpen is aan het recht dat van toepassing is op alle strijdkrachten van de zendstaat of op een onderdeel daarvan.
 
@@ -182,7 +207,7 @@ Ter vermijding van dubbele belastingheffing en ter verfijning van de toepassing 
 
 7. Dit artikel geeft de autoriteiten van de zendstaat geen enkel recht tot uitoefening van rechtsmacht over personen die onderdanen zijn van of gewoonlijk verblijven in de ontvangststaat, tenzij zij leden zijn van de krijgsmacht van de zendstaat.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Iedere lidstaat doet afstand van al zijn vorderingen tegen een andere lidstaat ter zake van schade aan zijn eigendom die gebruikt wordt bij de voorbereiding en de uitvoering van de opdrachten bedoeld in artikel 17, lid 2, VEU, ook tijdens oefeningen, indien deze schade:
 
@@ -252,7 +277,7 @@ Van vorderingen ter zake van maritieme berging die een lidstaat tegen een andere
 
 ## DEEL IV. SLOTBEPALINGEN
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit akkoord wordt aan de lidstaten ter goedkeuring voorgelegd volgens hun onderscheiden grondwettelijke bepalingen.
 

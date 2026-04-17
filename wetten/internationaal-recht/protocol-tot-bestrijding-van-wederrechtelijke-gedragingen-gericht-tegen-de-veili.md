@@ -1,13 +1,35 @@
 ---
 title: "Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat"
 identifier: "BWBV0003226"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-05-30
-laatste_update: 2011-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003226"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-05-30"
+last_updated: "2011-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003226"
+soort: "verdrag"
+stam_id: "10003414703"
+version_id: "10003459452"
+internal_id: "C10006982221"
+label_id: "10003400674"
+dtd_version: "2.0"
+original_entry_into_force: "1992-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003226/2011-05-30/0"
+intitule_bron: "Trb.1989-18"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1989-01-27"
+intitule_in_force: "1992-05-08"
+intitule_status: "goed"
+original_publication: "Trb.1989-18"
+original_published_date: "1989-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-18"
+entry_into_force_date: "1992-06-03"
+jci_1_3: "jci1.3:c:BWBV0003226&z=2011-05-30&g=2011-05-30"
+jci_1_0: "1.0:c:BWBV0003226&g=2011-05-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1992-06-03"
 ---
-
 # Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat
 
 De Staten-Partijen bij dit Protocol,
@@ -22,7 +44,7 @@ Bevestigend dat aangelegenheden die niet door dit Protocol worden geregeld, behe
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bepalingen van [artikel 1, eerste lid, sub c, d, e, f, g, h, en tweede lid, sub a](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=1), en van de [artikelen 2bis](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=2bis), [5](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=5), [5bis](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=5bis), 5, 5**bis** en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=7), en van de [artikelen 10 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=10), met inbegrip van de [artikelen 11bis](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=11bis), [11ter](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=11ter) en [12bis van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart](https://wetten.overheid.nl/jci1.3:c:BWBV0002724&artikel=12bis), zoals gewijzigd bij het Protocol van 2005 bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart zijn van overeenkomstige toepassing op de strafbare feiten omschreven in de artikelen 2, 2**bis** en 2**ter** van dit Protocol, indien deze strafbare feiten worden gepleegd aan boord van of tegen vaste platforms op het continentale plat.
 
@@ -30,7 +52,7 @@ Zijn als volgt overeengekomen:
 
 3. Voor de toepassing van dit Protocol wordt verstaan onder „vast platform”: een kunstmatig eiland, installatie of inrichting die permanent met de zeebodem is verbonden ten behoeve van de exploratie of exploitatie van rijkdommen of voor andere economische doeleinden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan een strafbaar feit maakt zich schuldig hij die wederrechtelijk en opzettelijk:
 
@@ -44,7 +66,7 @@ Zijn als volgt overeengekomen:
 
 2. Aan een strafbaar feit maakt zich eveneens schuldig hij die dreigt, al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving, teneinde een natuurlijke persoon of een rechtspersoon te dwingen tot het verrichten of zich onthouden van een handeling, een van de in het eerste lid, sub b en c omschreven strafbare feiten te plegen, indien door deze dreiging de veiligheid van het vaste platform in gevaar kan worden gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Staat-Partij neemt de maatregelen die nodig zijn om zijn rechtsmacht te vestigen met betrekking tot de in artikelen 2, 2**bis** en 2**ter** omschreven strafbare feiten, wanneer het strafbare feit wordt gepleegd:
 
@@ -66,11 +88,11 @@ Zijn als volgt overeengekomen:
 
 5. Dit Protocol sluit geen enkele krachtens de nationale wetgeving uitgeoefende rechtsmacht in strafrechtelijke aangelegenheden uit.
 
-#### Artikel 4
+##### Artikel 4
 
 De regelen van internationaal recht met betrekking tot vaste platforms gelegen op het continentale plat worden op generlei wijze door dit Protocol aangetast.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit Protocol staat voor ondertekening open te Rome op 10 maart 1988 en op de zetel van de Internationale Maritieme Organisatie (hierna te noemen „de Organisatie”) van 14 maart 1988 tot 9 maart 1989 door alle Staten die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002724) hebben ondertekend. Daarna blijft het openstaan voor toetreding.
 
@@ -86,13 +108,13 @@ De regelen van internationaal recht met betrekking tot vaste platforms gelegen o
 
 4. Slechts een Staat die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002724) zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring heeft ondertekend, of het heeft bekrachtigd, aanvaard of goedgekeurd, dan wel daartoe is toegetreden, kan Partij bij dit Protocol worden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Dit Protocol treedt in werking negentig dagen na de datum waarop drie Staten het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd. Dit Protocol treedt evenwel niet in werking voordat het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002724) in werking is getreden.
 
 2. Voor een Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Protocol heeft nedergelegd nadat aan de voorwaarden voor inwerkingtreding is voldaan, treedt de bekrachtiging, aanvaarding, goedkeuring of toetreding in werking negentig dagen na de datum van nederlegging.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit Protocol kan door elke Staat-Partij te allen tijde worden opgezegd na het verstrijken van een jaar na de datum waarop het Protocol voor die Staat in werking is getreden.
 
@@ -102,7 +124,7 @@ De regelen van internationaal recht met betrekking tot vaste platforms gelegen o
 
 4. Opzegging van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002724) door een Staat-Partij wordt beschouwd als opzegging van het Protocol door die Partij.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Door de Organisatie kan een conferentie worden belegd met het oog op herziening of wijziging van dit Protocol.
 
@@ -110,7 +132,7 @@ De regelen van internationaal recht met betrekking tot vaste platforms gelegen o
 
 3. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die is nedergelegd na de datum van inwerkingtreding van een wijziging van dit Protocol wordt geacht van toepassing te zijn op het gewijzigde Protocol.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit Protocol wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -130,7 +152,7 @@ De regelen van internationaal recht met betrekking tot vaste platforms gelegen o
 
 3. Terstond na inwerkingtreding van dit Protocol zendt de Depositaris een voor eensluidend gewaarmerkt afschrift hiervan aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Protocol is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde elke tekst gelijkelijk authentiek.
 
@@ -138,7 +160,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Go
 
 DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
 
-#### Artikel 2bis
+##### Artikel 2bis
 
 Aan een strafbaar feit in de zin van dit Protocol maakt zich schuldig hij die wederrechtelijk en opzettelijk, indien het doel van de gedraging door haar aard of context is een bevolking te intimideren of een regering of internationale organisatie te dwingen tot het verrichten of zich onthouden van enige handeling:
 
@@ -148,7 +170,7 @@ Aan een strafbaar feit in de zin van dit Protocol maakt zich schuldig hij die we
 
 - c. al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving dreigt met het plegen van een strafbaar feit zoals voorzien in sub a of b.
 
-#### Artikel 2ter
+##### Artikel 2ter
 
 Aan een strafbaar feit in de zin van dit Protocol maakt zich tevens schuldig hij die:
 
@@ -166,7 +188,7 @@ Aan een strafbaar feit in de zin van dit Protocol maakt zich tevens schuldig hij
 
 - ii. hetzij met de wetenschap van het doel van de groep een strafbaar feit te plegen zoals omschreven in artikel 2 of 2**bis**.
 
-#### Artikel 4bis. Slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005
+##### Artikel 4bis. Slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005
 
 De slotbepalingen van het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat van 2005 zijn de artikelen 8 tot en met 13 van het Protocol van 2005 bij het Protocol tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van vaste platforms op het continentale plat. Verwijzingen in dit Protocol naar Staten-Partijen verwijzen naar Staten die Partij zijn bij het Protocol van 2005.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK"
 identifier: "BWBR0026519"
-categorie: "Overig"
-publicatiedatum: 2009-10-18
-laatste_update: 2009-10-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026519"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-10-18"
+last_updated: "2009-10-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026519"
+soort: "ministeriele-regeling"
+stam_id: "10237213"
+version_id: "16745332"
+internal_id: "C23037471"
+label_id: "10212934"
+dtd_version: "2.0"
+original_entry_into_force: "2009-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026519/2009-10-18/0"
+intitule_bron: "Stcrt.2009-15597"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-09-08"
+intitule_published: "2009-10-16"
+intitule_in_force: "2009-10-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-15597"
+original_signed_date: "2009-09-08"
+original_published_date: "2009-10-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-15597"
+entry_into_force_date: "2009-10-18"
+jci_1_3: "jci1.3:c:BWBR0026519&z=2009-10-18&g=2009-10-18"
+jci_1_0: "1.0:c:BWBR0026519&g=2009-10-18"
+citeertitel_status: "officieel"
+signed_date: "2009-09-08"
+entry_into_force: "2009-10-18"
 ---
-
 # Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK
 
 Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De Commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Bezwarenadviescommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -42,7 +67,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het tweede lid is niet van toepassing als ingevolge enig wettelijk voorschrift een andere commissie over het betrokken bezwaar adviseert.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit:
 
@@ -60,11 +85,11 @@ Bij toepassing van [artikel 2, tweede lid, onderdeel b](https://wetten.overheid.
 
 5. De benoeming geldt, behoudens tussentijds ontslag, voor vier jaar en kan aansluitend eenmaal voor vier jaar worden verlengd. Ingeval van tussentijds ontslag vindt tussentijdse benoeming plaats van een nieuw of plaatsvervangend lid voor de resterende periode. De tweede volzin van het vierde lid is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de Manager Expertisecentrum arbeidsjuridisch.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden van de commissie verschonen zich van de behandeling van zaken waarbij zij in enig opzicht betrokken zijn geweest.
 
@@ -74,7 +99,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 4. De fungerend voorzitter beslist of de wraking wordt toegestaan. Indien het verzoek tot wraking de voorzitter betreft, beslist een plaatsvervangend voorzitter.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie behandelt een verzoek om een advies over een bezwaar in de volgende samenstelling: de voorzitter of een plaatsvervangend voorzitter en ten minste twee leden of plaatsvervangende leden.
 
@@ -82,7 +107,7 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 3. De aldus samengestelde commissie kan het horen opdragen aan de fungerend voorzitter.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bij de behandeling van een zaak betrokken leden van de commissie stellen het advies van de commissie vast bij meerderheid van stemmen. Geen der betrokken leden onthoudt zich van stemming.
 
@@ -90,25 +115,25 @@ De commissie wordt bijgestaan door een secretaris die wordt aangewezen door de M
 
 3. De secretaris zendt het advies en het verslag van de hoorzitting aan de betrokken minister.
 
-#### Artikel 8
+##### Artikel 8
 
 De commissie kan van de betrokken minister de medewerking verlangen die zij nodig acht voor de behandeling van een bezwaar.
 
 #### § 3. Overgangs- en slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 De benoeming van de op het tijdstip van inwerkingtreding van dit besluit ingevolge de [Regeling bezwarenadviescommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007209) zittende leden en plaatsvervangende leden van de commissie blijft, behoudens tussentijds ontslag, van kracht voor de periode waarvoor zij zijn benoemd.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Regeling bezwarenadviescommissie personele aangelegenheden Binnenlandse Zaken en Koninkrijksrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0007209) wordt ingetrokken. Bezwaren die in behandeling zijn genomen voor de datum van inwerkingtreding van dit besluit worden behandeld op basis van de regeling genoemd in de vorige volzin.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatcourant waarin het wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit instelling bezwarenadviescommissie personele aangelegenheden BZK.
 

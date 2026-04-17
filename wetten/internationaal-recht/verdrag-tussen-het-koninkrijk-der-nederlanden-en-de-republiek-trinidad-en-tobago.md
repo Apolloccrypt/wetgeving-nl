@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Trinidad en Tobago inzake uitlevering"
 identifier: "BWBV0001599"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-08-01
-laatste_update: 2003-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001599"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-08-01"
+last_updated: "2003-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001599"
+soort: "verdrag"
+stam_id: "10001454413"
+version_id: "10001532692"
+internal_id: "C10006993581"
+label_id: "10001454714"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001599/2003-08-01/0"
+intitule_bron: "Trb.2003-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-01"
+intitule_published: "2003-03-21"
+intitule_status: "nogniet"
+original_publication: "Trb.2003-41"
+original_signed_date: "2003-08-01"
+original_published_date: "2003-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-41"
+jci_1_3: "jci1.3:c:BWBV0001599&z=2003-08-01&g=2003-08-01"
+jci_1_0: "1.0:c:BWBV0001599&g=2003-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-08-01"
+entry_into_force: "2003-03-21"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Trinidad en Tobago inzake uitlevering
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,11 +42,11 @@ Elkanders rechtsinstellingen eerbiedigend en geleid door de wens de samenwerking
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Verplichting tot uitlevering
+##### Artikel 1. Verplichting tot uitlevering
 
 De Verdragsluitende Staten komen overeen aan elkander in overeenstemming met de bepalingen van dit Verdrag, personen uit te leveren die zich op hun grondgebied bevinden en die worden verdacht van een strafbaar feit of worden gezocht met het oog op de oplegging van een straf of de tenuitvoerlegging van een vonnis door de autoriteiten van de andere Staat.
 
-#### Artikel 2. Uitleveringsdelicten
+##### Artikel 2. Uitleveringsdelicten
 
 1. Uitlevering wordt toegestaan voor gedrag dat krachtens het recht van beide Staten een strafbaar feit oplevert dat met een gevangenisstraf van ten minste twaalf maanden of met een zwaardere straf is bedreigd. Bovendien dient, ingeval een gevangenisstraf of een andere vorm van vrijheidsbeneming is opgelegd door een rechter in de verzoekende Staat, het gedeelte van de straf of maatregel dat nog moet worden ondergaan ten minste zes maanden te bedragen.
 
@@ -34,7 +56,7 @@ De Verdragsluitende Staten komen overeen aan elkander in overeenstemming met de 
 
 4. Indien het verzoek om uitlevering betrekking heeft op een aantal feiten die krachtens het recht van beide Staten strafbaar zijn, doch waarvan er enkele niet voldoen aan de overige vereisten van het eerste lid, kan de aangezochte Staat ook uitlevering toestaan voor deze feiten.
 
-#### Artikel 3. Uitlevering van onderdanen
+##### Artikel 3. Uitlevering van onderdanen
 
 1. Een verzoek om uitlevering van een persoon die wordt verdacht van een strafbaar feit wordt niet afgewezen uitsluitend op grond van de nationaliteit van de opgeëiste persoon.
 
@@ -42,7 +64,7 @@ De Verdragsluitende Staten komen overeen aan elkander in overeenstemming met de 
 
 3. Indien uitlevering wordt geweigerd op grond van het tweede lid, legt de aangezochte Staat, op verzoek van de verzoekende Staat en indien het recht van de aangezochte Staat zulks toelaat, de zaak voor aan zijn autoriteiten met het oog op de tenuitvoerlegging van het vonnis dat in de verzoekende Staat is uitgesproken.
 
-#### Artikel 4. Verplichte weigering van uitlevering
+##### Artikel 4. Verplichte weigering van uitlevering
 
 Uitlevering wordt niet toegestaan:
 
@@ -54,7 +76,7 @@ Uitlevering wordt niet toegestaan:
 
 - d. indien het recht tot strafvordering of tot tenuitvoerlegging van straf ter zake van het feit waarvan om uitlevering wordt verzocht krachtens het recht van de aangezochte Staat zou zijn verjaard.
 
-#### Artikel 5. Facultatieve weigering van uitlevering
+##### Artikel 5. Facultatieve weigering van uitlevering
 
 Uitlevering kan worden geweigerd:
 
@@ -68,7 +90,7 @@ Uitlevering kan worden geweigerd:
 
 - e. indien de aangezochte Staat, de aard van het strafbare feit en het belang van de verzoekende Staat in aanmerking nemend, van oordeel is dat de uitlevering van de opgeëiste persoon onverenigbaar is met humanitaire overwegingen, in het bijzonder gelet op de leeftijd of de gezondheid van die persoon.
 
-#### Artikel 6. Over te leggen stukken
+##### Artikel 6. Over te leggen stukken
 
 1. Alle verzoeken om uitlevering worden gedaan langs diplomatieke weg.
 
@@ -102,13 +124,13 @@ Uitlevering kan worden geweigerd:
 
 6. Een vertaling van stukken die worden overgelegd ter ondersteuning van een verzoek om uitlevering die door de verzoekende Staat wordt verstrekt, wordt voor alle doeleinden in een uitleveringsprocedure erkend.
 
-#### Artikel 7. Aanvullende inlichtingen
+##### Artikel 7. Aanvullende inlichtingen
 
 1. Indien de bevoegde autoriteiten van de aangezochte Staat in enig stadium van de uitleveringsprocedure van oordeel zijn dat de door de verzoekende Staat verstrekte inlichtingen onvoldoende zijn om een beslissing te nemen uit hoofde van dit Verdrag, kan de aangezochte Staat om aanvullende inlichtingen verzoeken. De aangezochte Staat kan een termijn van ten hoogste dertig (30) dagen stellen voor de overlegging van bedoelde inlichtingen en kan op verzoek van de verzoekende Staat een redelijke verlenging van de termijn verlenen.
 
 2. Indien de aanvullende inlichtingen onvoldoende worden geacht of niet binnen de door de aangezochte Staat aangegeven termijn zijn ontvangen, kan de opgeëiste persoon, indien in detentie, in vrijheid worden gesteld en kan de zaak tegen deze persoon worden beëindigd. Invrijheidstelling van de opgeëiste persoon sluit niet uit dat de behandeling van het verzoek wordt voortgezet en beëindiging van de zaak sluit niet uit dat op een later tijdstip een nieuw verzoek ter zake van hetzelfde strafbare feit wordt ingediend.
 
-#### Artikel 8. Voorlopige aanhouding
+##### Artikel 8. Voorlopige aanhouding
 
 1. In geval van spoed kunnen de bevoegde autoriteiten van de verzoekende Staat verzoeken om voorlopige aanhouding van de opgeëiste persoon.
 
@@ -130,13 +152,13 @@ Uitlevering kan worden geweigerd:
 
 5. Invrijheidstelling van de opgeëiste persoon aan het eind van de termijn van veertig (40) dagen vormt geen beletsel voor aanhouding en uitlevering op een later tijdstip indien het verzoek om uitlevering en de in artikel 6 genoemde stukken ter ondersteuning daarvan nadien worden ontvangen.
 
-#### Artikel 9. Samenloop van verzoeken
+##### Artikel 9. Samenloop van verzoeken
 
 1. Indien uitlevering van dezelfde persoon door twee of meer staten wordt verzocht, bepaalt de aangezochte Staat aan welke van deze staten de persoon zal worden uitgeleverd en stelt hij de verzoekende Staat in kennis van zijn besluit.
 
 2. Het eerste lid is van overeenkomstige toepassing wanneer er samenloop is met een verzoek om overlevering van het Internationale Strafhof.
 
-#### Artikel 10. Overlevering
+##### Artikel 10. Overlevering
 
 1. De aangezochte Staat stelt de verzoekende Staat in kennis van zijn besluit ten aanzien van de uitlevering.
 
@@ -146,19 +168,19 @@ Uitlevering kan worden geweigerd:
 
 4. Indien de opgeëiste persoon niet is overgeleverd op de vastgestelde datum, kan die persoon na verloop van vijftien (15) dagen vanaf die datum in vrijheid worden gesteld en behoeft na verloop van dertig (30) dagen geen gevolg meer aan de beslissing tot zijn uitlevering gegeven te worden.
 
-#### Artikel 11. Uitstel van de overlevering en voorlopige overlevering
+##### Artikel 11. Uitstel van de overlevering en voorlopige overlevering
 
 1. De aangezochte Staat kan de overlevering van de opgeëiste persoon uitstellen teneinde de betrokkene te vervolgen of deze een straf te doen ondergaan wegens een ander strafbaar feit dan dat ter zake waarvan uitlevering is toegestaan, en stelt de verzoekende Staat in kennis van zijn besluit.
 
 2. De aangezochte Staat kan de opgeëiste persoon tijdelijk overleveren aan de verzoekende Staat uitsluitend ten behoeve van het instellen van een vervolging. De aldus overgeleverde persoon dient tijdens zijn verblijf in de verzoekende Staat in hechtenis te worden gehouden en dient na af.oop van de behandeling van de gerechtelijke behandeling van zijn zaak te worden teruggezonden overeenkomstig de in onderling overleg tussen de Verdragsluitende Staten vast te stellen voorwaarden.
 
-#### Artikel 12. Overdracht van voorwerpen
+##### Artikel 12. Overdracht van voorwerpen
 
 1. Voor zover zulks krachtens het recht van de aangezochte Staat is toegelaten en onder eerbiediging van de rechten van derden kunnen alle voorwerpen die ten gevolge van het strafbare feit zijn verkregen of die als bewijsmateriaal kunnen worden gebruikt, indien aangetroffen, op verzoek worden overgedragen aan de verzoekende Staat indien de uitlevering is toegestaan of daarmee is ingestemd.
 
 2. De in het eerste lid bedoelde voorwerpen worden overgedragen, zelfs indien, nadat de uitlevering is toegestaan of daarmede is ingestemd, de overlevering van de opgeëiste persoon niet kan plaatsvinden ten gevolge van diens overlijden of ontvluchting.
 
-#### Artikel 13. Specialiteitsbeginsel
+##### Artikel 13. Specialiteitsbeginsel
 
 1. Een uit hoofde van dit Verdrag uitgeleverde persoon wordt niet vervolgd, in hechtenis genomen, berecht of gestraft op het grondgebied van de verzoekende Staat wegens een ander feit dan dat ter zake waarvan uitlevering is toegestaan, tenzij:
 
@@ -176,11 +198,11 @@ Uitlevering kan worden geweigerd:
 
 - b. met dezelfde maximumstraf is bedreigd als, of met een lagere maximumstraf dan, het feit waarvoor de persoon werd uitgeleverd.
 
-#### Artikel 14. Verderlevering aan een derde staat
+##### Artikel 14. Verderlevering aan een derde staat
 
 Een uit hoofde van dit Verdrag uitgeleverde persoon wordt niet verdergeleverd aan een derde staat zonder de instemming van de aangezochte Staat, behalve de in artikel 13, eerste lid, onder de letters a en b bedoelde gevallen. De aangezochte Staat kan de overlegging verlangen van de stukken die van de derde staat zijn ontvangen ter ondersteuning van diens verzoek om uitlevering op een later tijdstip, alsmede van de door de uitgeleverde persoon ter zake afgelegde verklaringen.
 
-#### Artikel 15. Instemming met de uitlevering
+##### Artikel 15. Instemming met de uitlevering
 
 1. Een persoon wiens uitlevering wordt verlangd en die is aangehouden uit hoofde van dit Verdrag wordt door de bevoegde autoriteit van de aangezochte Staat, in overeenstemming met zijn nationale recht, in kennis gesteld van het verzoek dat met betrekking tot hem is gedaan en van zijn recht in te stemmen met zijn terugkeer naar de verzoekende Staat zonder verdere officiële procedure, alsmede van de rechtsgevolgen daarvan.
 
@@ -188,7 +210,7 @@ Een uit hoofde van dit Verdrag uitgeleverde persoon wordt niet verdergeleverd aa
 
 3. De persoon dient schriftelijk in te stemmen ten overstaan van een bevoegde autoriteit van de aangezochte Staat. Wanneer een dergelijke instemming is verstrekt, neemt de verzoekende Staat onverwijld alle stappen die nodig zijn om de opgeëiste persoon te ontvangen.
 
-#### Artikel 16. Doortocht
+##### Artikel 16. Doortocht
 
 1. Wanneer een derde staat de uitlevering van een persoon aan één van de Verdragsluitende Staten heeft toegestaan, verzoekt die Verdragsluitende Staat de andere Verdragsluitende Staat om toestemming tot doortocht van die persoon ingeval een landing op het grondgebied van laatstgenoemde Staat is voorzien van een luchtvaartuig met die persoon aan boord.
 
@@ -196,11 +218,11 @@ Een uit hoofde van dit Verdrag uitgeleverde persoon wordt niet verdergeleverd aa
 
 3. De Verdragsluitende Staat die om doortocht wordt verzocht kan weigeren toestemming te verlenen op de gronden waarin zijn recht voorziet.
 
-#### Artikel 17. Talen
+##### Artikel 17. Talen
 
 Verzoeken uit hoofde van dit Verdrag kunnen in de Engelse taal worden gedaan. Alle stukken ter ondersteuning dienen te worden vertaald in een officiële taal van de aangezochte Staat.
 
-#### Artikel 18. Kosten
+##### Artikel 18. Kosten
 
 1. Kosten in verband met de vertaling van stukken en de overdracht van de uitgeleverde persoon van het grondgebied van de aangezochte Staat naar dat van de verzoekende Staat worden gedragen door de verzoekende Staat.
 
@@ -208,13 +230,13 @@ Verzoeken uit hoofde van dit Verdrag kunnen in de Engelse taal worden gedaan. Al
 
 3. Kosten in verband met de doortocht, gemaakt door de Staat van doortocht, worden op zijn verzoek vergoed door de Verdragsluitende Staat van bestemming.
 
-#### Artikel 19. Instelling van de procedure
+##### Artikel 19. Instelling van de procedure
 
 1. In geval van een verzoek om uitlevering ingediend door het Koninkrijk der Nederlanden stelt de procureur-generaal van de Republiek Trinidad en Tobago of zijn naar behoren benoemde vertegenwoordiger de uitleveringsprocedure in overeenstemming met de wetgeving van Trinidad en Tobago in.
 
 2. In geval van een verzoek om uitlevering ingediend door de Republiek Trinidad en Tobago, stellen de bevoegde autoriteiten in het Koninkrijk der Nederlanden de uitleveringsprocedure in overeenstemming met de wetgeving van het Koninkrijk der Nederlanden in, zonder verdere vertegenwoordiging van de Republiek Trinidad en Tobago.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Verdragsluitende Staten elkander hebben medegedeeld dat aan hun wettelijke vereisten is voldaan.
 
@@ -224,7 +246,7 @@ Verzoeken uit hoofde van dit Verdrag kunnen in de Engelse taal worden gedaan. Al
 
 4. Dit Verdrag is van toepassing op elk verzoek dat na zijn inwerkingtreding wordt ingediend of, indien dit Verdrag in overeenstemming met het tweede lid voorlopig wordt toegepast, na de begindatum van een dergelijke toepassing, zelfs indien het feit ter zake waarvan om uitlevering wordt verzocht, vóór die datum is gepleegd.
 
-#### Artikel 21. Beëindiging
+##### Artikel 21. Beëindiging
 
 1. Elk der Verdragsluitende Staten kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Staat. De beëindiging wordt van kracht één jaar na de datum van ontvangst van een dergelijke kennisgeving.
 

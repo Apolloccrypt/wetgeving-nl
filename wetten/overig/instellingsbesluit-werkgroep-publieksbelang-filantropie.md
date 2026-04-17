@@ -1,18 +1,44 @@
 ---
-title: "Instellingsbesluit Werkgroep publieksbelang filantropie"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)"
 identifier: "BWBR0033095"
-categorie: "Overig"
-publicatiedatum: 2013-03-29
-laatste_update: 2013-03-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033095"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-03-29"
+last_updated: "2013-03-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033095"
+soort: "ministeriele-regeling"
+stam_id: "12165613"
+version_id: "20314172"
+internal_id: "C28578121"
+label_id: "12137184"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033095/2013-03-29/0"
+intitule_bron: "Stcrt.2013-8475"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-19"
+intitule_published: "2013-03-28"
+intitule_in_force: "2013-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-8475"
+original_signed_date: "2013-03-19"
+original_published_date: "2013-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-8475"
+entry_into_force_date: "2013-03-29"
+jci_1_3: "jci1.3:c:BWBR0033095&z=2013-03-29&g=2013-03-29"
+jci_1_0: "1.0:c:BWBR0033095&g=2013-03-29"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Werkgroep publieksbelang filantropie"
+signed_date: "2013-03-19"
+entry_into_force: "2013-03-29"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 19 maart 2013, kenmerk 347449, houdende instelling van de Werkgroep publieksbelang filantropie (Instellingsbesluit Werkgroep publieksbelang filantropie)
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -20,11 +46,11 @@ In dit besluit wordt verstaan onder:
 
 - b. **de Werkgroep:** de Werkgroep publieksbelang filantropie.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Werkgroep publieksbelang filantropie.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De Werkgroep heeft tot taak:
 
@@ -34,7 +60,7 @@ De Werkgroep heeft tot taak:
 
 - c. hierover advies uit te brengen aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘**Ruimte voor geven**’.
 
-#### Artikel 4. Samenstelling
+##### Artikel 4. Samenstelling
 
 1. De Werkgroep bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
@@ -46,7 +72,7 @@ De Werkgroep heeft tot taak:
 
 5. Nieuwe leden van de Werkgroep worden, op aanbeveling van de voorzitter, door de Minister benoemd.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 Als leden van de Werkgroep worden benoemd:
 
@@ -66,7 +92,7 @@ Als leden van de Werkgroep worden benoemd:
 
 - h. De heer drs. G.W. Kramer, Ministerie van Veiligheid en Justitie.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De heer drs. R.W. Velders, directeur Velders-IMC, is secretaris van de Werkgroep.
 
@@ -74,7 +100,7 @@ Als leden van de Werkgroep worden benoemd:
 
 3. De secretaris is geen lid van de Werkgroep.
 
-#### Artikel 7. Toetsingskader
+##### Artikel 7. Toetsingskader
 
 1. De Werkgroep brengt voor één maart 2013 het toetsingskader publieksbelang uit aan de Minister.
 
@@ -84,25 +110,25 @@ Als leden van de Werkgroep worden benoemd:
 
 4. De Minister beslist over de eventuele verlenging van de termijn bedoeld in het eerste lid en brengt de Werkgroep daarvan schriftelijk op de hoogte.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De leden van de Werkgroep, voor zover niet vallend onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), ontvangen een vergoeding per vergadering, met uitzondering van de ambtelijk leden. Overeenkomstig het bepaalde in artikel 2 van het Besluit vergoedingen adviescolleges en commissies bedraagt deze vergoeding 3% van het maximum van salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B), met dien verstande dat aan de voorzitter een vergoeding wordt toegekend van 130% van de hoogte van de vergoeding per vergadering die aan de andere leden van de Werkgroep wordt toegekend.
 
 2. De leden ontvangen een vergoeding voor reis- en verblijfkosten conform [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
-#### Artikel 9. Einde Werkgroep
+##### Artikel 9. Einde Werkgroep
 
 Zodra de Werkgroep advies heeft uitgebracht aan het bestuurlijk overleg van de ondertekenende partijen van het convenant ‘Ruimte voor geven’, als bedoeld in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033095&artikel=3&z=2013-03-29&g=2013-03-29), eindigen de werkzaamheden van de Werkgroep.
 
-#### Artikel 10. Archief
+##### Artikel 10. Archief
 
 De archiefbescheiden van de Werkgroep worden na haar opheffing of, zo de omstandigheden daartoe eerder aanleiding geven, zoveel eerder, overgedragen aan het archief van het Ministerie van van Veiligheid en Justitie.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 december 2012.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep publieksbelang filantropie.
 

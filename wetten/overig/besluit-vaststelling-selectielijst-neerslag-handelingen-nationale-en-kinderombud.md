@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst neerslag handelingen Nationale- en Kinderombudsman"
+title: "Besluit van 12 januari 2015, nr. 2015000006, houdende vaststelling van een selectielijst voor de neerslag van het handelen (primaire taken en institutionele aangelegenheden) van de actoren Nationale- en Kinderombudsman (Nationale ombudsman vanaf 1998; Kinderombudsman vanaf 2011)"
 identifier: "BWBR0036237"
-categorie: "Overig"
-publicatiedatum: 2015-02-07
-laatste_update: 2015-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036237"
+country: "nl"
+rank: "kb"
+publication_date: "2015-02-07"
+last_updated: "2015-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036237"
+soort: "KB"
+stam_id: "12975413"
+version_id: "22134492"
+internal_id: "C31742481"
+label_id: "12944414"
+dtd_version: "2.0"
+original_entry_into_force: "2015-02-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036237/2015-02-07/0"
+intitule_bron: "Stcrt.2015-3086"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-01-12"
+intitule_published: "2015-02-05"
+intitule_in_force: "2015-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-3086"
+original_signed_date: "2015-01-12"
+original_published_date: "2015-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-3086"
+entry_into_force_date: "2015-02-07"
+jci_1_3: "jci1.3:c:BWBR0036237&z=2015-02-07&g=2015-02-07"
+jci_1_0: "1.0:c:BWBR0036237&g=2015-02-07"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst neerslag handelingen Nationale- en Kinderombudsman"
+signed_date: "2015-01-12"
+entry_into_force: "2015-02-07"
 ---
-
 # Besluit van 12 januari 2015, nr. 2015000006, houdende vaststelling van een selectielijst voor de neerslag van het handelen (primaire taken en institutionele aangelegenheden) van de actoren Nationale- en Kinderombudsman (Nationale ombudsman vanaf 1998; Kinderombudsman vanaf 2011)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2014, kenmerk NA/14/14680, agentschap Nationaal Archief;
@@ -16,11 +42,11 @@ Gelet op [artikel 5, tweede lid, aanhef en onder a, van de Archiefwet 1995](http
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘Selectielijst voor de neerslag van het handelen (primaire taken en institutionele aangelegenheden) van de actoren Nationale- en Kinderombudsman (Nationale ombudsman vanaf 1998; Kinderombudsman vanaf 2011)’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

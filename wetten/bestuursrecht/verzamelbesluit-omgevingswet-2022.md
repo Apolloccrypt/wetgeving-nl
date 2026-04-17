@@ -1,13 +1,39 @@
 ---
-title: "Verzamelbesluit Omgevingswet 2022"
+title: "Besluit van 26 april 2022, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2022)"
 identifier: "BWBR0046640"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046640"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046640"
+soort: "AMvB"
+stam_id: "16353363"
+version_id: "28610522"
+internal_id: "C40363211"
+label_id: "16278054"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046640/2024-01-01/0"
+intitule_bron: "Stb.2022-172"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-26"
+intitule_published: "2022-05-05"
+intitule_in_force: "2022-05-05"
+intitule_status: "goed"
+original_publication: "Stb.2022-172"
+original_signed_date: "2022-04-26"
+original_published_date: "2022-05-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-172"
+entry_into_force_date: "2022-05-06"
+jci_1_3: "jci1.3:c:BWBR0046640&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0046640&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit Omgevingswet 2022"
+signed_date: "2022-04-26"
+entry_into_force: "2022-05-06"
 ---
-
 # Besluit van 26 april 2022, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2022)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 oktober 2021, nr. 2021-0000545799;
@@ -20,55 +46,55 @@ Gezien het nader rapport van Onze Minister voor Volkshuisvesting en Ruimtelijke 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+##### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
+##### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
+##### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
+##### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
+##### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-#### Artikel VI. ([Aanvullingsbesluit bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044911))
+##### Artikel VI. ([Aanvullingsbesluit bodem Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044911))
 
 Wijzigt het Aanvullingsbesluit bodem Omgevingswet.
 
-#### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
+##### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel VIII. ([Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826))
+##### Artikel VIII. ([Besluit administratieve bepalingen inzake het wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0004826))
 
 Wijzigt het Besluit administratieve bepalingen inzake het wegverkeer (BABW).
 
-#### Artikel IX. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
+##### Artikel IX. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
 
 Wijzigt het Besluit basisregistratie ondergrond.
 
-#### Artikel X. (Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche))
+##### Artikel X. (Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche))
 
 Wijzigt het Besluit van 2 december 2021, houdende wijziging van het Besluit basisregistratie ondergrond en het Invoeringsbesluit Omgevingswet met betrekking tot het aanwijzen van registratieobjecten en een technische wijziging (vierde tranche).
 
-#### Artikel XI. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
+##### Artikel XI. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel XII. (Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties)
+##### Artikel XII. (Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties)
 
 Wijzigt het Besluit van 14 september 2020 houdende wijziging van het Bouwbesluit 2012, het Besluit bouwwerken leefomgeving, het Besluit kwaliteit leefomgeving en het Omgevingsbesluit in verband met de introductie van een stelsel van certificering voor werkzaamheden aan gasverbrandingsinstallaties.
 
-#### Artikel XIII. (Intrekking)
+##### Artikel XIII. (Intrekking)
 
 De volgende besluiten worden ingetrokken:
 
@@ -76,13 +102,13 @@ De volgende besluiten worden ingetrokken:
 
 - –. het [POP-besluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0018138).
 
-#### Artikel XIV. (Inwerkingtreding)
+##### Artikel XIV. (Inwerkingtreding)
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. In afwijking van het eerste lid treden [artikel X](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=X&z=2024-01-01&g=2024-01-01) en [artikel XI, onderdelen A tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBR0046640&artikel=XI&z=2024-01-01&g=2024-01-01), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel XV. (Citeertitel)
+##### Artikel XV. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Verzamelbesluit Omgevingswet 2022.
 

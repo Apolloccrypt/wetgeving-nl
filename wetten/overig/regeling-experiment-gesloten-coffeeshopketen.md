@@ -1,13 +1,39 @@
 ---
-title: "Regeling experiment gesloten coffeeshopketen"
+title: "Regeling van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 12 mei 2020, kenmerk 1681487-204740-VGP, houdende regels in verband met het experiment met een gesloten coffeeshopketen (Regeling experiment gesloten coffeeshopketen)"
 identifier: "BWBR0043749"
-categorie: "Overig"
-publicatiedatum: 2025-03-22
-laatste_update: 2025-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043749"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-22"
+last_updated: "2025-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043749"
+soort: "ministeriele-regeling"
+stam_id: "15529833"
+version_id: "28678432"
+internal_id: "C40463611"
+label_id: "15472364"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043749/2025-03-22/0"
+intitule_bron: "Stcrt.2020-33138"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-05-12"
+intitule_published: "2020-06-22"
+intitule_in_force: "2020-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-14996"
+original_signed_date: "2022-05-20"
+original_published_date: "2022-06-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-14996"
+entry_into_force_date: "2022-05-20"
+jci_1_3: "jci1.3:c:BWBR0043749&z=2025-03-22&g=2025-03-22"
+jci_1_0: "1.0:c:BWBR0043749&g=2025-03-22"
+citeertitel_status: "officieel"
+short_title: "Regeling experiment gesloten coffeeshopketen"
+signed_date: "2022-05-20"
+entry_into_force: "2022-05-20"
 ---
-
 # Regeling van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 12 mei 2020, kenmerk 1681487-204740-VGP, houdende regels in verband met het experiment met een gesloten coffeeshopketen (Regeling experiment gesloten coffeeshopketen)
 
 Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=7), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=11), [15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=15), [18, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=18), [28, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=28), [29, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=29), [32, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=32), en [33, eerste, derde, vierde en vijfde lid, van het Besluit experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=33);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet experiment gesloten coffeeshopke
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In deze regeling wordt verstaan onder:
 
@@ -50,11 +76,11 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Nadere regels over de loting en verdere selectie van telers
 
-#### Artikel 2. (loting)
+##### Artikel 2. (loting)
 
 Tot deelname aan een loting als bedoeld in [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=18) worden uitsluitend toegelaten de aanvragen die niet reeds buiten behandeling zijn gesteld of die niet reeds zijn afgewezen op grond van [artikel 19, eerste lid, onderdelen a tot en met j, of tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=19).
 
-#### Artikel 3. (uitvoering van de loting)
+##### Artikel 3. (uitvoering van de loting)
 
 1. De loting wordt uitgevoerd door een notaris, aan te wijzen door de minister.
 
@@ -76,11 +102,11 @@ Tot deelname aan een loting als bedoeld in [artikel 18, eerste lid, van het besl
 
 8. Als winnend lot wordt aangemerkt een aan de loting deelnemende aanvraag die in een van de eerste tien rondes van de loting is getrokken.
 
-#### Artikel 4. (informatievoorziening na loting)
+##### Artikel 4. (informatievoorziening na loting)
 
 De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenomen, onverwijld na ontvangst van het in [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&paragraaf=2&artikel=3&z=2025-03-22&g=2025-03-22), bedoelde proces-verbaal, of op zijn aanvraag wel of geen winnend lot is gevallen. Indien op zijn aanvraag geen winnend lot is gevallen, wordt hij tevens geïnformeerd over zijn plaats in de wachtrij, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&paragraaf=2&artikel=5&z=2025-03-22&g=2025-03-22).
 
-#### Artikel 5. (termijn en werking wachtrij)
+##### Artikel 5. (termijn en werking wachtrij)
 
 1. De minister houdt een wachtrij in stand. Aanvragen die aan de loting hebben deelgenomen maar waarop geen winnend lot is gevallen, worden in de wachtrij geplaatst tenzij de aanvrager te kennen geeft niet of niet langer van deze mogelijkheid gebruik te willen maken.
 
@@ -94,7 +120,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 6. Het vijfde lid is van overeenkomstige toepassing indien een aanvrager te kennen heeft gegeven niet of niet langer van de wachtrij gebruik te willen maken.
 
-#### Artikel 6. (opschorting termijn in verband met de loting en wachtrij)
+##### Artikel 6. (opschorting termijn in verband met de loting en wachtrij)
 
 1. De wettelijke termijn waarbinnen een besluit op een aanvraag om aanwijzing als teler dient te worden genomen, wordt voor aanvragen waarop een winnend lot is gevallen, opgeschort voor de duur van de periode die begint met de dag waarop toepassing wordt gegeven aan [artikel 18, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=18) en eindigt met de dag van ontvangst van het proces-verbaal van de loting door de minister.
 
@@ -106,7 +132,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 #### Paragraaf 2a. Handelsvoorraad coffeeshophouders
 
-#### Artikel 7. (vormgeving en uiterlijk van de verpakking)
+##### Artikel 7. (vormgeving en uiterlijk van de verpakking)
 
 1. Een verpakkingseenheid als bedoeld in [artikel 29 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=29):
 
@@ -128,7 +154,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 - b. is niet fluorescerend of bevat geen pigmenten die ultraviolette energie absorberen.
 
-#### Artikel 8. (etiket)
+##### Artikel 8. (etiket)
 
 1. De aangewezen teler voorziet elke verpakkingseenheid van een wit etiket dat daarop onlosmakelijk wordt bevestigd en waarop de volgende informatie is gedrukt:
 
@@ -168,7 +194,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 - e. de tekst dient zo groot mogelijk op het etiket te worden weergegeven.
 
-#### Artikel 9. (bijsluiter)
+##### Artikel 9. (bijsluiter)
 
 1. De aangewezen teler voorziet elke verpakkingseenheid van een van rijkswege verstrekte of door hemzelf gegeneerde QR-code via welke, zonder dat daartoe de verpakkingseenheid moet worden geopend, de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=II&z=2025-03-22&g=2025-03-22) opgenomen informatie in de aangegeven kleuren en de daarbij behorende animatie elektronisch raadpleegbaar zijn.
 
@@ -176,7 +202,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 3. Een door de teler gegenereerde QR-code mag tevens de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&paragraaf=3&artikel=8&z=2025-03-22&g=2025-03-22), bedoelde code zijn. In dat geval draagt de teler ervoor zorg dat bij elektronische raadpleging de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=II&z=2025-03-22&g=2025-03-22) opgenomen informatie en de daarbij behorende animatie voorafgaat aan de informatie, bedoeld in artikel 8, tweede lid.
 
-#### Artikel 10. (overige informatie op de verpakkingseenheid)
+##### Artikel 10. (overige informatie op de verpakkingseenheid)
 
 1. Op het gedeelte van de buitenzijde van de verpakkingseenheid dat niet bestreken wordt door het etiket, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&paragraaf=3&artikel=8&z=2025-03-22&g=2025-03-22), mag de aangewezen teler de informatie die hij op het etiket van de verpakkingseenheid heeft opgenomen, tevens in braille aanbrengen.
 
@@ -184,7 +210,7 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 #### Paragraaf 4. Controle van de hennep of hasjiesj
 
-#### Artikel 11. (monsterneming)
+##### Artikel 11. (monsterneming)
 
 1. Ter uitvoering van [artikel 28, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=28) laat de aangewezen teler het gehalte THC en CBD bepalen met inachtneming van het tweede tot en met zesde lid, en de controle op aflatoxines, zware metalen en micro-organismen met inachtneming van het tweede tot en met zesde lid en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&paragraaf=4&artikel=12&z=2025-03-22&g=2025-03-22).
 
@@ -200,13 +226,13 @@ De minister informeert de aanvrager wiens aanvraag aan de loting heeft deelgenom
 
 5. De aangewezen teler laat van de drie monsters, bedoeld in het tweede of derde lid, één monster testen ter uitvoering van [artikel 28, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=28) en hij houdt één monster beschikbaar voor een eventuele contra-expertise en één monster voor de personen die krachtens [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8) zijn belast met het toezicht op de naleving van het bij of krachtens de wet bepaalde, onverminderd hun bevoegdheid om zelf monsters te nemen. De beschikbaar te houden monsters dienen voorhanden te blijven gedurende een periode van **drie maanden** na de dag waarop de aangewezen teler het laatste geproduceerde eindproduct waarop de monsters betrekking hebben, aan een coffeeshophouder heeft geleverd. Na het verstrijken van die termijn vernietigt de aangewezen teler de desbetreffende monsters met inachtneming van [artikel 26a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=26a).
 
-#### Artikel 12. (grenswaarden)
+##### Artikel 12. (grenswaarden)
 
 De door de aangewezen teler uit te laten voeren controles, bedoeld in [artikel 28 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=28), vinden plaats op de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=III&z=2025-03-22&g=2025-03-22) bij deze regeling genoemde zware metalen, aflatoxines en micro-organismen. De eventuele op de hennep of hasjiesj aangetroffen waarden van de in bijlage III opgenomen stoffen overschrijden de in die bijlage voor de betreffende stoffen opgenomen grenswaarden niet.
 
 #### Paragraaf 5. Administratie en Unieke identificatiemarkering
 
-#### Artikel 13. (bedrijfsadministratie aangewezen telers)
+##### Artikel 13. (bedrijfsadministratie aangewezen telers)
 
 1. Onverminderd [artikel 32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=32) en [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=15), houdt de aangewezen teler ten behoeve van de uitoefening van het toezicht en de handhaving in ieder geval de volgende gegevens en bescheiden beschikbaar in zijn bedrijfsadministratie:
 
@@ -230,7 +256,7 @@ De door de aangewezen teler uit te laten voeren controles, bedoeld in [artikel 2
 
 3. De gegevens en bescheiden blijven gedurende het gehele experiment in de bedrijfsadministratie beschikbaar ten behoeve van het toezicht en de handhaving.
 
-#### Artikel 14. (bedrijfsadministratie coffeeshophouders)
+##### Artikel 14. (bedrijfsadministratie coffeeshophouders)
 
 1. Onverminderd [artikel 11 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=11) en [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=15), houdt de coffeeshophouder ten behoeve van de uitoefening van het toezicht en de handhaving in ieder geval de volgende gegevens en bescheiden beschikbaar in zijn bedrijfsadministratie:
 
@@ -246,23 +272,23 @@ De door de aangewezen teler uit te laten voeren controles, bedoeld in [artikel 2
 
 3. De gegevens en bescheiden blijven gedurende het gehele experiment in de bedrijfsadministratie beschikbaar ten behoeve van het toezicht en de handhaving.
 
-#### Artikel 15. (unieke identificatiemarkering)
+##### Artikel 15. (unieke identificatiemarkering)
 
 1. De aangewezen teler voert in zijn bedrijfsprocessen de via het track-and-tracesysteem gegenereerde unieke identificatiemarkering op de wijze als beschreven in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=IV&z=2025-03-22&g=2025-03-22), onderdeel A en registreert bij het uitvoeren van de in die bijlage aangegeven handelingen de daarbij genoemde gegevens op de daarbij aangegeven wijze in het track-and-tracesysteem.
 
 2. De coffeeshophouder voert vanaf de ontvangst van de eindproducten in zijn coffeeshop tot en met de verkoop door hem aan de klant de via het track-and-tracesysteem gegenereerde unieke identificatiemarkering op de wijze als beschreven in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=IV&z=2025-03-22&g=2025-03-22), onderdeel B en registreert bij het uitvoeren van de in die bijlage aangegeven handelingen de daarbij genoemde gegevens op de daarbij aangegeven wijze in het track-and-tracesysteem.
 
-#### Artikel 16. (toegang tot gegevens in het track-and-tracesysteem)
+##### Artikel 16. (toegang tot gegevens in het track-and-tracesysteem)
 
 Onverminderd [artikel 46 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=46) hebben de personen die krachtens [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8) zijn belast met het toezicht op de naleving van het bij of krachtens de wet bepaalde, direct toegang tot de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=V&z=2025-03-22&g=2025-03-22) genoemde via het track-and-tracesysteem toegankelijke gegevens.
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 17. (inwerkingtreding)
+##### Artikel 17. (inwerkingtreding)
 
 Deze regeling treedt in werking op het tijdstip dat de [Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818) in werking treedt en vervalt op het tijdstip dat die wet vervalt.
 
-#### Artikel 18. (citeertitel)
+##### Artikel 18. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling experiment gesloten coffeeshopketen
 
@@ -652,7 +678,7 @@ UID – RETOURVERZENDNUMMER
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a. (vernietiging wegens overschrijding grenswaarden)
+##### Artikel 12a. (vernietiging wegens overschrijding grenswaarden)
 
 Indien uit een controle als bedoeld in [artikel 28, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=28) blijkt dat de gecontroleerde hennep of hasjiesj niet voldoet aan de in bijlage III bij deze regeling opgenomen grenswaarden voor zware metalen, aflatoxines of micro-organismen, wordt de batch, mengbatch of hasjiesj waaruit het gecontroleerde monster is genomen, onverwijld door de aangewezen teler vernietigd.
 
@@ -822,7 +848,7 @@ UID – RETOURVERZENDNUMMER
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Tot de in [artikel 5, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0043738&artikel=5) bedoelde voorraad hennep of hasjiesj die wordt aangehouden voor de verkoop aan klanten, behoort niet de in de coffeeshop aanwezige hennep of hasjiesj die overeenkomstig [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0043749&bijlage=IV&z=2025-03-22&g=2025-03-22), onderdeel B, bij deze regeling door de coffeeshophouder in het track-and-tracesysteem is geregistreerd als zijnde gederfd.
 

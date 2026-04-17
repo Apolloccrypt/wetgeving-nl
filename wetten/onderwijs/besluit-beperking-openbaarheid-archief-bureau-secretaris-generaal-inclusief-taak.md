@@ -1,20 +1,46 @@
 ---
-title: "Besluit beperking openbaarheid archief Bureau Secretaris-generaal, inclusief taakvoorgangers en taakopvolgers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1922–) 1945–1998"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 7 mei 2012, nr. FM/ICT/404686, houdende beperking van de openbaarheid van het archief van het Bureau Secretaris-generaal, inclusief taakvoorgangers en taakopvolgers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1922–) 1945–1998"
 identifier: "BWBR0031604"
-categorie: "Onderwijs"
-publicatiedatum: 2012-08-01
-laatste_update: 2012-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031604"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-08-01"
+last_updated: "2012-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031604"
+soort: "ministeriele-regeling"
+stam_id: "11742913"
+version_id: "19405752"
+internal_id: "C27187051"
+label_id: "11715264"
+dtd_version: "2.0"
+original_entry_into_force: "2012-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031604/2012-08-01/0"
+intitule_bron: "Stcrt.2012-10662"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-07"
+intitule_published: "2012-06-01"
+intitule_in_force: "2012-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10662"
+original_signed_date: "2012-05-07"
+original_published_date: "2012-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10662"
+entry_into_force_date: "2012-08-01"
+jci_1_3: "jci1.3:c:BWBR0031604&z=2012-08-01&g=2012-08-01"
+jci_1_0: "1.0:c:BWBR0031604&g=2012-08-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Bureau Secretaris-generaal, inclusief taakvoorgangers en taakopvolgers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1922–) 1945–1998"
+signed_date: "2012-05-07"
+entry_into_force: "2012-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 7 mei 2012, nr. FM/ICT/404686, houdende beperking van de openbaarheid van het archief van het Bureau Secretaris-generaal, inclusief taakvoorgangers en taakopvolgers van het Ministerie van Onderwijs, Cultuur en Wetenschap over de periode (1922–) 1945–1998
 
 Gelet op [artikel 10 van het archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### artikel Enig
+##### artikel Enig
 
 Met het oog op;
 

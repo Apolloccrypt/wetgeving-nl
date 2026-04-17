@@ -1,20 +1,46 @@
 ---
-title: "Archiefregeling II voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maart 2009, nr. Directie GOB/DIV/2009/5301, houdende een beperking van de openbaarheid voor de inventarisnummers 107 tot en met 126, 177, 183 tot en met 185, 213, 434, 543, 552, 572, 645, 647, 650, 651, 657, 661, 671, 672, 701, 702, 705, 708, 712, 723, 727 tot en met 731, 755 tot en met 758, 761, 762, 767, 769, 771, 776, 821, 827, 834, 860, 862, 875, 876, 878, 880, 885, 886, 894 tot en met 898, 1001, 1018, 1032, 1052, 1059, 1060, 1089, 1127 tot en met 1138, 1227, 1241, 1302, 1314, 1324, 1327, 1330, 1331, 1339, 1341, 1349, 1350, 1365, 1370, 1371, 1410, 1532, 1535 tot en met 1541, 1562, 1564, 1581, 1589 tot en met 1593, 1614, 1770, 1771, 1785 tot en met 1788, 1799 tot en met 1834, 1911 tot en met 1915, 1980 tot en met 1982, 2009, 2010, 2012, 2013, 2019, 2020, 2025, 2061, 2068 tot en met 2074, 2135 tot en met 2280, 2356, 2360 tot en met 2362, 2366, 2367, 2392, 2393, 2471, 2494, 2562 en 2564 uit het archief van de Directie Emigratie van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1945–1994 (Archiefregeling I voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid)"
 identifier: "BWBR0025575"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2009-04-01
-laatste_update: 2009-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025575"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2009-04-01"
+last_updated: "2009-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025575"
+soort: "ministeriele-regeling"
+stam_id: "9958723"
+version_id: "16260602"
+internal_id: "C22295111"
+label_id: "9935024"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025575/2009-04-01/0"
+intitule_bron: "Stcrt.2009-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-17"
+intitule_published: "2009-03-30"
+intitule_in_force: "2009-03-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-61"
+original_signed_date: "2009-03-17"
+original_published_date: "2009-03-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-4618"
+entry_into_force_date: "2009-04-01"
+jci_1_3: "jci1.3:c:BWBR0025575&z=2009-04-01&g=2009-04-01"
+jci_1_0: "1.0:c:BWBR0025575&g=2009-04-01"
+citeertitel_status: "officieel"
+short_title: "Archiefregeling II voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid"
+signed_date: "2009-03-17"
+entry_into_force: "2009-04-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 17 maart 2009, nr. Directie GOB/DIV/2009/5301, houdende een beperking van de openbaarheid voor de inventarisnummers 107 tot en met 126, 177, 183 tot en met 185, 213, 434, 543, 552, 572, 645, 647, 650, 651, 657, 661, 671, 672, 701, 702, 705, 708, 712, 723, 727 tot en met 731, 755 tot en met 758, 761, 762, 767, 769, 771, 776, 821, 827, 834, 860, 862, 875, 876, 878, 880, 885, 886, 894 tot en met 898, 1001, 1018, 1032, 1052, 1059, 1060, 1089, 1127 tot en met 1138, 1227, 1241, 1302, 1314, 1324, 1327, 1330, 1331, 1339, 1341, 1349, 1350, 1365, 1370, 1371, 1410, 1532, 1535 tot en met 1541, 1562, 1564, 1581, 1589 tot en met 1593, 1614, 1770, 1771, 1785 tot en met 1788, 1799 tot en met 1834, 1911 tot en met 1915, 1980 tot en met 1982, 2009, 2010, 2012, 2013, 2019, 2020, 2025, 2061, 2068 tot en met 2074, 2135 tot en met 2280, 2356, 2360 tot en met 2362, 2366, 2367, 2392, 2393, 2471, 2494, 2562 en 2564 uit het archief van de Directie Emigratie van het Ministerie van Sociale Zaken en Werkgelegenheid over de periode 1945–1994 (Archiefregeling I voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid)
 
 Gelet op [artikel 15, eerste lid, onder a en c, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) en [artikel 10 van het van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met het oog op de eerbiediging van de persoonlijke levenssfeer, alsmede op het anderszins voorkomen van onevenredige bevoordeling of benadeling van betrokken natuurlijke personen of rechtspersonen dan wel van derden wordt aan de openbaarheid van de naar het Nationaal Archief over te brengen archiefbescheiden uit het historische bestand van personeelsleden van het Ministerie de in het volgende lid genoemde beperking gesteld voor de volledige duur van de in [artikel 15, vierde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) genoemde termijn.
 
@@ -722,12 +748,12 @@ Indiening van het verzoek geschiedt door invulling en ondertekening door de verz
 
 - –. inventarisnummer 2564 op 1 januari 2050
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling wordt aangehaald als:
 
 Archiefregeling II voor de archieven op het beleidsterrein Arbeidsvoorziening van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.

@@ -1,40 +1,65 @@
 ---
 title: "Protocol bij de Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong, zoals gewijzigd"
 identifier: "BWBV0002901"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-04-19
-laatste_update: 1982-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002901"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-04-19"
+last_updated: "1982-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002901"
+soort: "verdrag"
+stam_id: "10003221643"
+version_id: "10003238712"
+internal_id: "C10006979781"
+label_id: "10003207984"
+dtd_version: "2.0"
+original_entry_into_force: "1982-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002901/1982-04-19/0"
+intitule_bron: "Trb.1982-109"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-04-19"
+intitule_published: "1982-07-20"
+intitule_in_force: "1982-07-20"
+intitule_status: "goed"
+original_publication: "Trb.1982-109"
+original_signed_date: "1982-04-19"
+original_published_date: "1982-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1982-109"
+entry_into_force_date: "1982-04-19"
+jci_1_3: "jci1.3:c:BWBV0002901&z=1982-04-19&g=1982-04-19"
+jci_1_0: "1.0:c:BWBV0002901&g=1982-04-19"
+citeertitel_status: "officieel"
+signed_date: "1982-04-19"
+entry_into_force: "1982-04-19"
 ---
-
 # Protocol bij de Europese Overeenkomst betreffende de uitwisseling van geneesmiddelen van menselijke oorsprong, zoals gewijzigd
 
 ## PART I. General Provisions
 
-#### A. Labelling
+##### A. Labelling
 
 A label printed in English and French, based on the appropriate model to be found in Annexes 2 to 10 to the Protocol, shall be affixed to each container or giving-set.
 
-#### B. Packing and dispatch
+##### B. Packing and dispatch
 
 Whole human blood shall be dispatched in containers in which a temperature of 4° to 6° C is maintained throughout the period of transport.
 
 This condition is not required for the derivatives mentioned in the Protocol.
 
-#### C. Products and apparatus
+##### C. Products and apparatus
 
 The products and apparatus referred to in Part II of this Protocol shall be sterile, non-pyrogenic and non-toxic.
 
 It is recommended that the giving-set, as well as the solvents required for the dried products, be sent with each consignment.
 
-#### D. Freedom from toxicity of plastic blood transfusion equipment
+##### D. Freedom from toxicity of plastic blood transfusion equipment
 
 Equipment shall comply with the provisions set out in Annex 11 to this Protocol.
 
 ## PART II. Specific Provisions
 
-#### 1. Whole Human Blood
+##### 1. Whole Human Blood
 
 Whole Human Blood is blood which has been mixed with a suitable anti-coagulant, after collection from a human subject in normal health.
 
@@ -60,7 +85,7 @@ Storage - Whole human blood shall be kept in a sterile container sealed so as to
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 2). The Rhesus group shall be written as "Positive" or "Negative" or, in abbreviated form, "POS" or "NEG".
 
-#### 1 bis. Human red cell concentrate
+##### 1 bis. Human red cell concentrate
 
 A human red cell concentrate is a unit of Whole Human Blood from which most of the plasma has been removed.
 
@@ -74,7 +99,7 @@ Blood group and storage - as for Whole Human Blood.
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 2 bis). The Rhesus group shall be written as "Positive" or "Negative" or, in abbreviated form, "POS" or "NEG". If an artificial aqueous solution has been added, the label shall also indicate its volume and composition.
 
-#### 2. Dried Human Plasma
+##### 2. Dried Human Plasma
 
 Dried Human Plasma is prepared by drying the supernatant fluids which are separated by centrifuging or by sedimentation from quantities of Whole Human Blood.
 
@@ -100,7 +125,7 @@ Storage - Dried Human Plasma must be kept in an atmosphere of nitrogen or in a v
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 3).
 
-#### 3. Human Albumin and Human Plasma Protein Fraction
+##### 3. Human Albumin and Human Plasma Protein Fraction
 
 Human Albumin and Human Plasma Protein Fraction are preparations of that protein component which forms about 60% of the total protein mass in the plasma of Whole Human Blood.
 
@@ -140,7 +165,7 @@ Solutions of Human Albumin and Human Plasma Protein Fraction must be kept in ste
 
 Labelling - The label on the container shall give all the information shown on the appropriate model label (Annex 4). For solutions, the date of preparation is the date of heat treatment in the final container.
 
-#### 4. Human Normal Immunoglobulin
+##### 4. Human Normal Immunoglobulin
 
 Human Normal Immunoglobulin is a preparation of the plasma proteins prepared from Whole Human Blood, containing the antibodies of normal adults. It is obtained from pooled liquid human plasma from not less than 1000 donors.
 
@@ -166,7 +191,7 @@ Storage - Human Immunoglobulin solution must be kept in a sterile container, sea
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 5). The date of preparation is the date of filling the final container.
 
-#### 5. Human Specific Immunoglobulins
+##### 5. Human Specific Immunoglobulins
 
 Human Specific Immunoglobulins contain antibodies against designated viral or bacterial agents. Therefore they may be prepared from pools of a limited number of donations.
 
@@ -186,7 +211,7 @@ Depending on the antibody content, the immunoglobulin concentration of the final
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 5). In addition the label shall state the potency in international units in terms of the appropriate International Standard or International Reference Preparation.
 
-#### 6. Dried Human Fibrinogen
+##### 6. Dried Human Fibrinogen
 
 Dried Human Fibrinogen is a dried preparation which contains the soluble constitutent of liquid human plasma which, on the addition of thrombin, is transformed to fibrin. The method of preparation used should be one which produces a material meeting the requirements herein prescribed and which minimises the risk of transmitting serum hepatitis. Plasma pools used in the preparation of fibrinogen should contain as few donations as possible.
 
@@ -210,7 +235,7 @@ Storage - Human Fibrinogen shall be kept in an atmosphere of nitrogen or in a va
 
 Labelling - The label on the container shall give all the information shown on the model label (Annex 6). The date of preparation is the date of placing into final solution before freeze-drying.
 
-#### 7. Dried or frozen human coagulation factor VIII
+##### 7. Dried or frozen human coagulation factor VIII
 
 I. **Requirements applying to donors**
 
@@ -240,7 +265,7 @@ III. **Labelling**
 
 The label on the preparation shall give all the information shown on the model label (Annex 7).
 
-#### 8. Dried human coagulation factor IX
+##### 8. Dried human coagulation factor IX
 
 I. **Requirements applying to donors**
 
@@ -274,7 +299,7 @@ The label on the preparation shall give all the information shown on the model l
 
 #### I. Chemical tests
 
-#### A. Preparation of extract and blank
+##### A. Preparation of extract and blank
 
 (a). A total test as described below requires 1250 cm2 plastics (total surface area, both sides, of a plastics sample in sheet form with surface area of 625 cm2). The sample - without any printing or label on it - should be cut into pieces of not more than 10 cm2.
 
@@ -292,7 +317,7 @@ Heat-sensitive plastics material, instead of being heated in an autoclave, may b
 
 A blank preparation is made in a corresponding manner omitting the plastics.
 
-#### B. Tests on the extract
+##### B. Tests on the extract
 
 1. **Oxidisable matter**
 

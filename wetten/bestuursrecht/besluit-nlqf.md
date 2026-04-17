@@ -1,13 +1,39 @@
 ---
-title: "Besluit NLQF"
+title: "Besluit van 2 oktober 2024, houdende de aanwijzing van het Nationaal coördinatiepunt NLQF, de vaststelling van de kwalificatieniveaus van het NLQF alsmede de wijze waarop deze corresponderen met de kwalificatieniveaus van het EQF en het stellen van regels over de vaststelling van het NLQF-niveau van non-formele opleidingen en over het NLQF-register (Besluit NLQF)"
 identifier: "BWBR0050303"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050303"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050303"
+soort: "AMvB"
+stam_id: "17242553"
+version_id: "30367892"
+internal_id: "C43553151"
+label_id: "17148394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050303/2025-01-01/0"
+intitule_bron: "Stb.2024-290"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-10-02"
+intitule_published: "2024-10-17"
+intitule_in_force: "2024-10-17"
+intitule_status: "goed"
+original_publication: "Stb.2024-290"
+original_signed_date: "2024-10-02"
+original_published_date: "2024-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-290"
+entry_into_force_date: "2024-10-18"
+jci_1_3: "jci1.3:c:BWBR0050303&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050303&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit NLQF"
+signed_date: "2024-10-02"
+entry_into_force: "2024-10-18"
 ---
-
 # Besluit van 2 oktober 2024, houdende de aanwijzing van het Nationaal coördinatiepunt NLQF, de vaststelling van de kwalificatieniveaus van het NLQF alsmede de wijze waarop deze corresponderen met de kwalificatieniveaus van het EQF en het stellen van regels over de vaststelling van het NLQF-niveau van non-formele opleidingen en over het NLQF-register (Besluit NLQF)
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -16,7 +42,7 @@ bron: "https://wetten.overheid.nl/BWBR0050303"
 
 ### Hoofdstuk 2. Vaststelling NLQF-niveau van non-formele opleidingen
 
-#### Artikel 11. Gelijkgestelde vaststelling
+##### Artikel 11. Gelijkgestelde vaststelling
 
 1. Dit besluit is van overeenkomstige toepassing op een non-formele opleiding waarvan voorafgaand aan het moment van inwerkingtreding van de [Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058) het NLQF-niveau is vastgesteld door Stichting CINOP, Stichting CINOP – ecbo of Stichting CINOP Publiek.
 
@@ -24,17 +50,17 @@ bron: "https://wetten.overheid.nl/BWBR0050303"
 
 3. Dit artikel vervalt met ingang van 1 januari van het zevende jaar na de datum van inwerkingtreding van de [Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058).
 
-#### Artikel 12. Wijziging van het [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
+##### Artikel 12. Wijziging van het [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
 
 Wijzigt het Uitvoeringsbesluit WHW 2008.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Dit besluit treedt, met uitzondering van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=3&artikel=12&z=2025-01-01&g=2025-01-01), in werking op het moment waarop de [Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058) in werking treedt.
 
 2. [Artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=3&artikel=12&z=2025-01-01&g=2025-01-01) van dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit NLQF.
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **NLQF-register:** openbaar register als bedoeld in de [artikelen 1.4, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&artikel=1.4), en [3.1, tweede lid, van de Wet NLQF](https://wetten.overheid.nl/jci1.3:c:BWBR0050058&artikel=3.1).
 
-#### Artikel 2. Vaststelling kwalificatieniveaus NLQF en relatie tot het EQF
+##### Artikel 2. Vaststelling kwalificatieniveaus NLQF en relatie tot het EQF
 
 1. De NLQF-niveaus en de daarmee corresponderende EQF-niveaus worden als volgt vastgesteld:
 
@@ -87,13 +113,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Bij ministeriële regeling worden de NLQF-niveaus omschreven in termen van kennis, vaardigheden, zelfstandigheid en verantwoordelijkheid.
 
-#### Artikel 3. Nationaal coördinatiepunt NLQF
+##### Artikel 3. Nationaal coördinatiepunt NLQF
 
 De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aangewezen als Nationaal coördinatiepunt NLQF.
 
 ### Hoofdstuk 2. Vaststelling NLQF-niveau van non-formele opleidingen
 
-#### Artikel 4. Aanvraag tot vaststelling NLQF-niveau
+##### Artikel 4. Aanvraag tot vaststelling NLQF-niveau
 
 1. Bij een aanvraag tot vaststelling van het NLQF-niveau van een non-formele opleiding wordt gebruik gemaakt van een door het Nationaal coördinatiepunt NLQF vastgesteld aanvraagformulier.
 
@@ -101,7 +127,7 @@ De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aan
 
 3. Bij ministeriële regeling kan worden vastgesteld welke gegevens de aanvraag in ieder geval dient te omvatten.
 
-#### Artikel 5. Beoordeling aanvraag tot vaststelling NLQF-niveau
+##### Artikel 5. Beoordeling aanvraag tot vaststelling NLQF-niveau
 
 1. De beoordeling van de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01), omvat een validiteitstoets en een inschalingstoets.
 
@@ -119,13 +145,13 @@ De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aan
 
 4. Het Nationaal coördinatiepunt NLQF besluit binnen dertien weken na ontvangst van de aanvraag.
 
-#### Artikel 6. Besluit tot vaststelling NLQF-niveau en geldigheidsduur
+##### Artikel 6. Besluit tot vaststelling NLQF-niveau en geldigheidsduur
 
 1. Het besluit tot vaststelling van het NLQF-niveau van een non-formele opleiding vervalt zes jaar na het moment van vaststelling van dat besluit.
 
 2. Aan het besluit kunnen voorwaarden en voorschriften worden verbonden. Het Nationaal coördinatiepunt NLQF kan het besluit intrekken indien niet aan die voorwaarden of voorschriften, of aan de voorschriften bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=2&artikel=9&z=2025-01-01&g=2025-01-01), wordt voldaan.
 
-#### Artikel 7. NLQF-register
+##### Artikel 7. NLQF-register
 
 1. Nadat het Nationaal coördinatiepunt NLQF heeft besloten tot vaststelling van het NLQF-niveau van een non-formele opleiding, neemt het de volgende gegevens op in het NLQF-register:
 
@@ -145,7 +171,7 @@ De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aan
 
 2. Bij ministeriële regeling kunnen de gegevens, bedoeld in het eerste lid, nader worden gespecificeerd.
 
-#### Artikel 8. Aanvraag tot herbeoordeling NLQF-niveau
+##### Artikel 8. Aanvraag tot herbeoordeling NLQF-niveau
 
 1. Het Nationaal coördinatiepunt NLQF stelt de aanbieder van een in het NLQF-register opgenomen non-formele opleiding tijdig op de hoogte van het moment waarop de geldigheidsduur van de inschaling van die opleiding afloopt.
 
@@ -159,7 +185,7 @@ De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aan
 
 6. Als het Nationaal coördinatiepunt NLQF positief besluit op de aanvraag tot herbeoordeling, wordt de geldigheidsduur van de inschaling van de non-formele opleiding met zes jaar verlengd. [Artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=2&artikel=6&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 9. Informatieverplichtingen van de aanbieder van in het NLQF ingeschaalde opleidingen
+##### Artikel 9. Informatieverplichtingen van de aanbieder van in het NLQF ingeschaalde opleidingen
 
 1. De aanbieder van een ingeschaalde non-formele opleiding meldt aan het Nationaal coördinatiepunt NLQF tussentijdse wijzigingen die er mogelijk toe zouden hebben geleid dat het Nationaal coördinatiepunt NLQF een ander besluit zou hebben genomen op de aanvraag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=2&artikel=4&z=2025-01-01&g=2025-01-01) of [8](https://wetten.overheid.nl/jci1.3:c:BWBR0050303&hoofdstuk=2&artikel=8&z=2025-01-01&g=2025-01-01), indien deze wijzigingen op dat moment bekend zouden zijn geweest, of wijzigingen die van invloed zijn op de wijze waarop de opleiding in het NLQF-register staat geregistreerd.
 
@@ -181,7 +207,7 @@ De Stichting CINOP Publiek, statutair gevestigd te ’s-Hertogenbosch, wordt aan
 
 3. Als de aanbieder van een non-formele opleiding het NLQF-niveau van die opleiding vermeldt op een waardedocument van de opleiding of in communicatie over de opleiding, houdt hij zich aan de voorschriften die het Nationaal coördinatiepunt NLQF hierover heeft vastgesteld.
 
-#### Artikel 10. Beëindiging inschaling non-formele opleiding
+##### Artikel 10. Beëindiging inschaling non-formele opleiding
 
 De inschaling van een non-formele opleiding in het NLQF-register wordt beëindigd:
 

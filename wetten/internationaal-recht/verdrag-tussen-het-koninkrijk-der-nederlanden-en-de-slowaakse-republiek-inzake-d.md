@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de privileges en immuniteiten van verbindingsofficieren die door de Slowaakse Republiek bij Europol gedetacheerd worden"
 identifier: "BWBV0003480"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-12-24
-laatste_update: 2009-09-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003480"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-12-24"
+last_updated: "2009-09-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003480"
+soort: "verdrag"
+stam_id: "10003557523"
+version_id: "10003612932"
+internal_id: "C10008431651"
+label_id: "10003542964"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003480/2009-12-24/0"
+intitule_bron: "Trb.2009-151"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-10-26"
+intitule_in_force: "2010-01-12"
+intitule_status: "goed"
+original_publication: "Trb.2009-151"
+original_published_date: "2009-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-151"
+entry_into_force_date: "2009-12-24"
+jci_1_3: "jci1.3:c:BWBV0003480&z=2009-12-24&g=2009-12-24"
+jci_1_0: "1.0:c:BWBV0003480&g=2009-12-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-12-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Slowaakse Republiek inzake de privileges en immuniteiten van verbindingsofficieren die door de Slowaakse Republiek bij Europol gedetacheerd worden
 
 The Kingdom of the Netherlands
@@ -22,7 +44,7 @@ with reference to [Article 41, paragraph 2 of the Convention based on Article K.
 
 have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 In this Agreement:
 
@@ -36,7 +58,7 @@ In this Agreement:
 
 - e). “Archives of the liaison officer” means all records, correspondence, documents, manuscripts, computer and media data, photographs, films, video and sound recordings belonging to or held by the liaison officer, and any other similar material which in the unanimous opinion of the Member State and the Government forms part of the archives of the liaison officer.
 
-#### Article 2. Privileges and immunities
+##### Article 2. Privileges and immunities
 
 1. Subject to the provisions of this Agreement, the liaison officer and members of his family who form part of his household and do not possess Dutch nationality, shall enjoy in and vis-à-vis the Kingdom of the Netherlands the same privileges and immunities as are conferred on members of the diplomatic staff by the Vienna Convention on Diplomatic Relations of 18 April 1961**.**
 
@@ -48,7 +70,7 @@ In this Agreement:
 
 3. The obligations of Sending States and their personnel that apply under the Vienna Convention to members of the diplomatic staff, shall apply to the persons referred to in paragraph 1 of this Article.
 
-#### Article 3. Entry, stay and departure
+##### Article 3. Entry, stay and departure
 
 1. The Government shall facilitate, if necessary, the entry, stay and departure of the liaison officer and members of his family forming part of the household.
 
@@ -56,31 +78,31 @@ In this Agreement:
 
 3. Visas which may be required by persons referred to in this Article shall be granted without charge and as promptly as possible.
 
-#### Article 4. Employment
+##### Article 4. Employment
 
 Members of the family forming part of the household of the liaison officer not having the nationality of an EU State shall be exempt from the obligation to obtain working permits for the duration of the secondment of the liaison officer.
 
-#### Article 5. Inviolability of archives
+##### Article 5. Inviolability of archives
 
 The archives of the liaison officer wherever located and by whomsoever held shall be inviolable.
 
-#### Article 6. Personal Protection
+##### Article 6. Personal Protection
 
 The Host State authorities shall, if so requested by the Member State, take all reasonable steps in accordance with their national laws to ensure the necessary safety and protection of the liaison officer, as well as members of his family who form part of his household, whose security is endangered due to the performance of the tasks of the liaison officer at Europol.
 
-#### Article 7. Facilities and immunities in respect of communication
+##### Article 7. Facilities and immunities in respect of communication
 
 1. The Government shall permit the liaison officer to communicate freely and without a need for special permission, for all official purposes, and shall protect the right of the liaison officer to do so. The liaison officer shall have the right to use codes and to dispatch and receive official correspondence and other official communications by courier or in sealed bags which shall be subject to the same privileges and immunities as diplomatic couriers and bags.
 
 2. The liaison officer shall, as far as may be compatible with the International Telecommunications Convention of 6 November 1982, for his official communications enjoy treatment not less favourable than that accorded by the Kingdom of the Netherlands to any international organization or government, in the matter of priorities for communication by mail, cable, telegraph, telex, radio, television, telephone, fax, satellite, or other means.
 
-#### Article 8. Notification
+##### Article 8. Notification
 
 1. The Member State shall promptly notify the Government of the name of the liaison officer, his arrival and his final departure or the termination of his secondment as well as the arrival and final departure of the members of the family forming part of the household and, where appropriate, the fact that a person has ceased to form part of the household.
 
 2. The Government shall issue to the liaison officer and members of his family forming part of the household, an identification card bearing the photograph of the holder.This card shall serve to identify the holder in relation to all Host State authorities.
 
-#### Article 9. Settlement of Disputes
+##### Article 9. Settlement of Disputes
 
 1. Any dispute between the Member State and the Government concerning the interpretation or application of this Agreement, or any question affecting the liaison officer or the relationship between the Member State and the Government which is not settled amicably, shall be referred for final decision to a tribunal of three arbitrators, at the request of the Member State or the Government. Each party shall appoint one arbitrator. The third, who shall be chairman of the tribunal, is to be chosen by the first two arbitrators.
 
@@ -92,11 +114,11 @@ The Host State authorities shall, if so requested by the Member State, take all 
 
 5. The tribunal shall reach its decision by a majority of votes. The Chairman shall have a casting vote. The decision shall be final and binding on the Contracting Parties to the dispute.
 
-#### Article 10. Territorial scope
+##### Article 10. Territorial scope
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 11. Entry into force
+##### Article 11. Entry into force
 
 1. This Agreement shall be subject to approval in accordance with the national legislation of the Contracting Parties and shall enter into force on the thirtieth (30th) day after the mutual written notification of the Contracting Parties on fulfillment of the conditions for entry into force of this Agreement, as laid down in the national legislation of the Contracting Parties.
 

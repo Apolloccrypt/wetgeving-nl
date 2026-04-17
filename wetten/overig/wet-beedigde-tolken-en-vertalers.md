@@ -1,14 +1,41 @@
 ---
-title: "Wet beëdigde tolken en vertalers"
+title: "Wet van 11 oktober 2007, houdende regels inzake de beëdiging van tolken en vertalers en de kwaliteit en de integriteit van beëdigde tolken en vertalers (Wet beëdigde tolken en vertalers)"
 identifier: "BWBR0022704"
-categorie: "Overig"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022704"
+country: "nl"
+rank: "wet"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022704"
+soort: "wet"
+stam_id: "9248143"
+version_id: "14831212"
+internal_id: "C20307311"
+label_id: "9227244"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022704/2018-07-28/0"
+intitule_bron: "Stb.2007-375"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-10-11"
+intitule_published: "2007-10-23"
+intitule_in_force: "2007-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2007-375"
+original_signed_date: "2007-10-11"
+original_published_date: "2007-10-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "29936"
+original_url_id: "stb-2007-375"
+entry_into_force_date: "2007-12-05"
+jci_1_3: "jci1.3:c:BWBR0022704&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0022704&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Wet beëdigde tolken en vertalers"
+signed_date: "2007-10-11"
+entry_into_force: "2007-12-05"
 ---
-
-# Wet beëdigde tolken en vertalers
+# Wet van 11 oktober 2007, houdende regels inzake de beëdiging van tolken en vertalers en de kwaliteit en de integriteit van beëdigde tolken en vertalers (Wet beëdigde tolken en vertalers)
 
 ### Hoofdstuk I. Begripsbepalingen
 
@@ -26,7 +53,7 @@ bron: "https://wetten.overheid.nl/BWBR0022704"
 
 ### Hoofdstuk VII. Beëdigde vertalers
 
-#### Artikel 37
+##### Artikel 37
 
 De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=II&paragraaf=2&artikel=3&z=2018-07-28&g=2018-07-28) en [5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-07-28&g=2018-07-28), zijn gedurende een periode van twee jaar na inwerkingtreding van deze wet niet van toepassing op de inschrijving in het register van degenen die op het moment van inwerkingtreding van deze wet:
 
@@ -34,43 +61,43 @@ De [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=II&pa
 
 - b. definitief zijn ingeschreven in het landelijk kwaliteitsregister tolken en vertalers, bedoeld in de [Tijdelijke regeling van 13 mei 2003 houdende machtiging van de Raad voor rechtsbijstand te ’s-Hertogenbosch tot het beheer van het landelijk kwaliteitsregister tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0015070) (Stcrt. 2003, 94).
 
-#### Artikel 38
+##### Artikel 38
 
 De [wet van 6 mei 1878, houdende bepalingen omtrent de beëedigde vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0001849) wordt ingetrokken.
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt de Registratiewet 1970.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Wet gebruik Friese taal in het rechtsverkeer.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 41a
+##### Artikel 41a
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 41b
+##### Artikel 41b
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 41c
+##### Artikel 41c
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 41d
+##### Artikel 41d
 
 Wijzigt de Advocatenwet.
 
-#### Artikel 42
+##### Artikel 42
 
 Deze wet wordt aangehaald als: Wet beëdigde tolken en vertalers.
 
-#### Artikel 43
+##### Artikel 43
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en werken wat betreft de [artikelen 41a tot en met 41c](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=VIII&artikel=41a&z=2018-07-28&g=2018-07-28) terug tot en met 1 juli 2006.
 
@@ -84,7 +111,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -98,7 +125,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 #### § 1. Instelling register
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een register voor beëdigde tolken en vertalers. Het register bevat ten aanzien van iedere ingeschreven tolk of vertaler in elk geval de volgende gegevens:
 
@@ -120,7 +147,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 #### § 2. Inhoud van en inschrijving in het register
 
-#### Artikel 3
+##### Artikel 3
 
 Om voor inschrijving in het register in aanmerking te komen dient de tolk dan wel de vertaler te voldoen aan de bij of krachtens algemene maatregel van bestuur te stellen eisen ten aanzien van de volgende competenties:
 
@@ -142,7 +169,7 @@ Om voor inschrijving in het register in aanmerking te komen dient de tolk dan we
 
 - –. vertaalvaardigheid voor de vertaler.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvraag tot inschrijving geschiedt bij Onze Minister.
 
@@ -164,7 +191,7 @@ Om voor inschrijving in het register in aanmerking te komen dient de tolk dan we
 
 7. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een verzoek tot inschrijving als bedoeld in het eerste lid.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvraag tot inschrijving wordt afgewezen indien:
 
@@ -176,7 +203,7 @@ De aanvraag tot inschrijving wordt afgewezen indien:
 
 - d. een op grond van deze wet jegens de aanvrager genomen maatregel van doorhaling van de inschrijving zich daartegen verzet.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=II&paragraaf=2&artikel=5&z=2018-07-28&g=2018-07-28), wordt de aanvraag van een tolk of vertaler die niet voldoet aan de daar bedoelde eisen, niet afgewezen indien:
 
@@ -186,13 +213,13 @@ In afwijking van [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BW
 
 - c. Onze Minister, gelet op een door de betrokkene in het buitenland verkregen getuigschrift, hem op aanvraag een verklaring heeft afgegeven, inhoudende dat tegen zijn inschrijving in het register voor wat zijn vakbekwaamheid betreft geen bedenkingen bestaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beëdigde tolk of vertaler die is ingeschreven in het register ontvangt een bewijs van inschrijving.
 
 2. Het bewijs van inschrijving vermeldt de bron- of doeltaal dan wel bron- of doeltalen waarin de tolk of vertaler zijn werkzaamheden verricht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De inschrijving geschiedt voor een periode van vijf jaar. De inschrijving kan op aanvraag van de beëdigde tolk of vertaler telkens met vijf jaar worden verlengd.
 
@@ -208,7 +235,7 @@ In afwijking van [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BW
 
 #### § 3. Doorhaling in het register
 
-#### Artikel 9
+##### Artikel 9
 
 1. De inschrijving in het register kan worden doorgehaald indien Onze Minister is gebleken van ernstige feiten of omstandigheden, de integriteit of de vakbekwaamheid van de beëdigde tolk of vertaler betreffende.
 
@@ -220,11 +247,11 @@ In afwijking van [artikel 5, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BW
 
 5. De inschrijving in het register wordt in elk geval doorgehaald bij overlijden van de ingeschrevene en op schriftelijk verzoek van de ingeschrevene.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in het register is ingeschreven, kan de doorhaling ook worden beperkt tot één of meer van deze bron- of doeltalen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Van een beschikking tot doorhaling wordt mededeling gedaan in de Staatscourant.
 
@@ -232,7 +259,7 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 ### Hoofdstuk III. De beëdiging
 
-#### Artikel 12
+##### Artikel 12
 
 1. De beëdigde tolk of vertaler legt binnen twee maanden na inschrijving in het register de in [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=III&artikel=13&z=2018-07-28&g=2018-07-28) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=III&artikel=14&z=2018-07-28&g=2018-07-28) bedoelde eed of belofte af ten overstaan van de rechtbank van het arrondissement waarbinnen zijn woonplaats is gelegen.
 
@@ -240,7 +267,7 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 3. Om te kunnen worden beëdigd dient de beëdigde tolk of vertaler een bewijs van inschrijving in het register over te leggen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De beëdigde tolk legt ter zitting van de rechtbank de navolgende eed of belofte af:
 
@@ -256,7 +283,7 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 3. Na het afleggen van de eed of belofte wordt aan de beëdigde tolk een akte van beëdiging uitgereikt.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De beëdigde vertaler legt ter zitting van de rechtbank de navolgende eed of belofte af:
 
@@ -274,7 +301,7 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 4. Na het afleggen van de eed of belofte en het neerleggen van de handtekening wordt aan de beëdigde vertaler een akte van beëdiging uitgereikt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Na overlegging van de akte van beëdiging ontvangt de betrokkene een legitimatiebewijs.
 
@@ -282,7 +309,7 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 ### Hoofdstuk IV. Klachtbehandeling
 
-#### Artikel 16
+##### Artikel 16
 
 1. Eenieder kan een klacht indienen bij Onze Minister inzake de wijze waarop een beëdigde tolk of vertaler zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen.
 
@@ -300,11 +327,11 @@ Indien een beëdigde tolk of vertaler voor meer dan één bron- of doeltaal in h
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de samenstelling en de werkwijze van de klachtencommissie, waaronder in elk geval regels betreffende de onafhankelijkheid van de klachtencommissie.
 
-#### Artikel 17
+##### Artikel 17
 
 Indien de beëdigde tolk of vertaler naar tevredenheid van de klager aan diens klacht tegemoet is gekomen, ziet Onze Minister af van verdere behandeling van de klacht.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister bevestigt de ontvangst van het klaagschrift schriftelijk.
 
@@ -312,7 +339,7 @@ Indien de beëdigde tolk of vertaler naar tevredenheid van de klager aan diens k
 
 3. Het horen geschiedt door de in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=IV&artikel=16&z=2018-07-28&g=2018-07-28) bedoelde klachtencommissie. De klachtencommissie kan het horen opdragen aan de voorzitter of een lid van de commissie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
@@ -326,15 +353,15 @@ Indien de beëdigde tolk of vertaler naar tevredenheid van de klager aan diens k
 
 3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk doch uiterlijk binnen vier weken na ontvangst van het klaagschrift schriftelijk in kennis gesteld.
 
-#### Artikel 20
+##### Artikel 20
 
 Aan degene op wiens gedraging een klacht betrekking heeft, wordt een afschrift van het klaagschrift alsmede van de daarbij meegezonden stukken gezonden.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien de klacht gericht is op het handelen van een lid van de klachtencommissie, wordt dit lid vervangen door een door de voorzitter aan te wijzen ander lid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De klachtencommissie stelt de klager en degene op wiens gedraging de klacht betrekking heeft, in de gelegenheid te worden gehoord.
 
@@ -342,19 +369,19 @@ Indien de klacht gericht is op het handelen van een lid van de klachtencommissie
 
 3. Van het horen wordt een verslag gemaakt.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De klachtencommissie behandelt de klacht binnen zes weken na ontvangst van het klaagschrift.
 
 2. De klachtencommissie kan de behandeling voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De klachtencommissie zendt een rapport van bevindingen, vergezeld van een advies en eventuele aanbevelingen aan Onze Minister. Het rapport bevat een verslag van het horen.
 
 2. De klachtencommissie kan bij het advies tot het gegrond verklaren van een klacht de aanbeveling doen aan Onze Minister dat een beëdigde tolk of vertaler gezien zijn gedraging in aanmerking komt voor een tijdelijke doorhaling dan wel doorhaling in het register.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Onze Minister handelt de klacht af binnen tien weken na ontvangst van het klaagschrift.
 
@@ -364,17 +391,17 @@ Indien de klacht gericht is op het handelen van een lid van de klachtencommissie
 
 4. Indien de conclusie van Onze Minister afwijkt van het advies, wordt in de conclusie de reden voor die afwijking vermeld.
 
-#### Artikel 26
+##### Artikel 26
 
 Onze Minister draagt zorg voor de registratie van de bij hem ingediende klachten. De geregistreerde klachten worden jaarlijks gepubliceerd.
 
-#### Artikel 27
+##### Artikel 27
 
 Tegen een besluit inzake de behandeling van een klacht als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=IV&artikel=16&z=2018-07-28&g=2018-07-28), kan geen beroep worden ingesteld.
 
 ### Hoofdstuk V. Afnameplicht
 
-#### Artikel 28
+##### Artikel 28
 
 1. De volgende diensten en instanties maken in het kader van het strafrecht en het vreemdelingenrecht uitsluitend gebruik van beëdigde tolken of vertalers:
 
@@ -398,15 +425,15 @@ Tegen een besluit inzake de behandeling van een klacht als bedoeld in [artikel 1
 
 ### Hoofdstuk VI. Beëdigde tolken
 
-#### Artikel 29
+##### Artikel 29
 
 De beëdigde tolk is verplicht tot geheimhouding van de gegevens waarover hij bij de uitoefening van zijn werkzaamheden de beschikking krijgt en waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn werkzaamheden de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 30
+##### Artikel 30
 
 Bij het verrichten van zijn werkzaamheden is de beëdigde tolk verplicht het legitimatiebewijs, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=III&artikel=15&z=2018-07-28&g=2018-07-28), op verzoek te tonen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een dienst of instantie als bedoeld in [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=V&artikel=28&z=2018-07-28&g=2018-07-28), kan indien de bijzondere aard van de werkzaamheden dit vereist van een beëdigde tolk verlangen dat deze voorafgaande aan zijn inzet een recente verklaring omtrent het gedrag overlegt.
 
@@ -414,21 +441,21 @@ Bij het verrichten van zijn werkzaamheden is de beëdigde tolk verplicht het leg
 
 ### Hoofdstuk VII. Beëdigde vertalers
 
-#### Artikel 32
+##### Artikel 32
 
 De beëdigde vertaler is verplicht tot geheimhouding van de gegevens waarover hij bij de uitoefening van zijn werkzaamheden de beschikking krijgt en waarvan hij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn werkzaamheden de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een dienst of instantie als bedoeld in [artikel 28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=V&artikel=28&z=2018-07-28&g=2018-07-28), kan indien de bijzondere aard van de werkzaamheden dit vereist, van een beëdigde vertaler verlangen dat deze voorafgaand aan zijn inzet een recente verklaring omtrent het gedrag overlegt.
 
 2. De kosten die samenhangen met de aanvraag van de verklaring omtrent het gedrag komen voor rekening van de verzoekende dienst of instantie.
 
-#### Artikel 34
+##### Artikel 34
 
 Onze Minister kan regels stellen waaraan de wijze van vertalen en de administratie van de beëdigde vertaler dienen te voldoen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien stukken of opgaven die krachtens wettelijk voorschrift in openbare registers moeten worden ingeschreven, in een vreemde taal zijn gesteld, wordt van deze stukken een getrouwe vertaling in het Nederlands bijgevoegd, vervaardigd en voor overeenstemmend verklaard door een voor die brontaal beëdigde vertaler.
 
@@ -436,7 +463,7 @@ Onze Minister kan regels stellen waaraan de wijze van vertalen en de administrat
 
 3. Bij de wet kan worden bepaald dat het eerste en tweede lid niet van toepassing zijn.
 
-#### Artikel 36
+##### Artikel 36
 
 Ingeval een beëdigde vertaler werkzaamheden verricht bij een dienst of een instantie als bedoeld in [artikel 28, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=V&artikel=28&z=2018-07-28&g=2018-07-28), is hij verplicht het door Onze Minister afgegeven legitimatiebewijs, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&hoofdstuk=III&artikel=15&z=2018-07-28&g=2018-07-28), op verzoek te tonen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst inzake de immuniteit van Staten"
 identifier: "BWBV0003721"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-05-22
-laatste_update: 1985-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003721"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-05-22"
+last_updated: "1985-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003721"
+soort: "verdrag"
+stam_id: "10003668483"
+version_id: "10003729522"
+internal_id: "C10006982761"
+label_id: "10003654434"
+dtd_version: "2.0"
+original_entry_into_force: "1985-05-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003721/1985-05-22/0"
+intitule_bron: "Trb.1973-43"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-04-04"
+intitule_in_force: "1985-03-19"
+intitule_status: "goed"
+original_publication: "Trb.1973-43"
+original_published_date: "1973-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-43"
+entry_into_force_date: "1985-05-22"
+jci_1_3: "jci1.3:c:BWBV0003721&z=1985-05-22&g=1985-05-22"
+jci_1_0: "1.0:c:BWBV0003721&g=1985-05-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-05-22"
 ---
-
 # Europese Overeenkomst inzake de immuniteit van Staten
 
 Preambule
@@ -26,7 +48,7 @@ Zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. Immuniteit ten aanzien van rechtsmacht
 
-#### Artikel 1
+##### Artikel 1
 
 1. Een Overeenkomstsluitende Staat die optreedt als eiser of die zich voegt in een geding voor de rechter van een andere Overeenkomstsluitende Staat, onderwerpt zich, wat betreft dat geding, aan de rechtsmacht van de rechter van die Staat.
 
@@ -38,7 +60,7 @@ Zijn overeengekomen als volgt:
 
 3. Een Overeenkomstsluitende Staat die een eis in reconventie instelt voor de rechter van een andere Overeenkomstsluitende Staat, onderwerpt zich aan de rechtsmacht van de rechter van die Staat, zowel ten aanzien van de eis in conventie als van de eis in reconventie.
 
-#### Artikel 2
+##### Artikel 2
 
 Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat, indien hij zich ertoe heeft verbonden zich te onderwerpen aan de rechtsmacht van die rechter krachtens:
 
@@ -48,13 +70,13 @@ Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien v
 
 - (c). een uitdrukkelijke toestemming, gegeven na het ontstaan van het geschil.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een Overeenkomstsluitende Staat geniet geen immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat, indien hij, alvorens daarop een beroep te doen, ten principale concludeert. Indien hij evenwel aantoont dat hij slechts naderhand kennis heeft kunnen nemen van feiten waarop hij zijn immuniteit had kunnen gronden, kan hij een beroep doen op immuniteit op grond van die feiten, mits hij zulks doet zodra dit mogelijk is.
 
 2. Een Overeenkomstsluitende Staat wordt niet geacht afstand te hebben gedaan van immuniteit, indien hij voor de rechter van een andere Overeenkomstsluitende Staat verschijnt ten einde een beroep te doen op die immuniteit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd het bepaalde in artikel 5 kan een Overeenkomstsluitende Staat geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat, indien het geding betrekking heeft op een verplichting van de Staat, waaraan uit hoofde van een overeenkomst moet worden voldaan op het grondgebied van de Staat van het forum.
 
@@ -66,7 +88,7 @@ Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien v
 
 - (c). de Staat partij is bij een op zijn grondgebied gesloten overeenkomst en de verplichting van die Staat wordt beheerst door zijn administratief recht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat, indien het geding betrekking heeft op een arbeidsovereenkomst gesloten tussen de Staat en een natuurlijk persoon, wanneer de arbeid moet worden verricht op het grondgebied van de Staat van het forum.
 
@@ -80,19 +102,19 @@ Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien v
 
 3. Indien de arbeid wordt verricht voor een kantoor, agentschap of andere vestiging als bedoeld in artikel 7, is het bepaalde in het tweede lid, letters **(a)** en **(b),** van dit artikel slechts van toepassing, indien de persoon met wie de overeenkomst is gesloten, op het tijdstip van het sluiten der overeenkomst zijn gewone verblijfplaats had op het grondgebied van de Staat die hem in dienst heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van een rechter van een andere Overeenkomstsluitende Staat, indien hij met een of meer particulieren deelneemt in een vennootschap, vereniging of rechtspersoon die zijn werkelijke of statutaire zetel of zijn voornaamste vestiging heeft op het grondgebied van de Staat van het forum en het geding betrekking heeft op uit deze deelneming voortvloeiende betrekkingen tussen de Staat ter ene zijde en het lichaam of een deelnemer ter andere zijde.
 
 2. Het eerste lid is niet van toepassing indien schriftelijk anders is overeengekomen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een Overeenkomstsluitende Staat kan geen aanspraak maken op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien hij op het grondgebied van de Staat van het forum een kantoor, agentschap of een andere vestiging heeft, door middel waarvan hij, op dezelfde wijze als een particulier persoon, een industriële, commerciële of financiële werkzaamheid uitoefent en het geding verband houdt met die werkzaamheid van het kantoor, het agentschap of de vestiging.
 
 2. Het eerste lid is niet van toepassing indien alle partijen bij het geding Staten zijn of indien de partijen schriftelijk anders zijn overeengekomen.
 
-#### Artikel 8
+##### Artikel 8
 
 Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien het geding betrekking heeft op:
 
@@ -104,7 +126,7 @@ Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien v
 
 - (d). het recht tot gebruik van een handelsnaam in de Staat van het forum.
 
-#### Artikel 9
+##### Artikel 9
 
 Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien het geding betrekking heeft op:
 
@@ -114,15 +136,15 @@ Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien v
 
 en dit goed is gelegen op het grondgebied van de Staat van het forum.
 
-#### Artikel 10
+##### Artikel 10
 
 Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien het geding betrekking heeft op een recht op roerende of onroerende goederen dat hem is toegevallen uit hoofde van erfopvolging of schenking, dan wel als behorende tot een onbeheerde nalatenschap.
 
-#### Artikel 11
+##### Artikel 11
 
 Een Overeenkomstsluitende Staat kan geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien het geding betrekking heeft op vergoeding voor lichamelijk letsel of materiële schade, voortvloeiende uit een gebeurtenis die zich heeft voorgedaan op het grondgebied van de Staat van het forum, en indien de veroorzaker van het letsel of de schade zich op dat grondgebied bevond op het tijdstip waarop die gebeurtenis zich heeft voorgedaan.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien een Overeenkomstsluitende Staat er schriftelijk in heeft toegestemd een geschil op het terrein van het burgerlijk of handelsrecht dat reeds is ontstaan of zal kunnen ontstaan, te onderwerpen aan arbitrage, kan die Staat geen beroep doen op immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat op welks grondgebied of volgens welks wet de arbitrage heeft plaatsgehad of zal plaatshebben, als het betreft gedingen met betrekking tot:
 
@@ -136,21 +158,21 @@ tenzij de overeenkomst van arbitrage iets anders bepaalt.
 
 2. Het eerste lid is niet van toepassing op een overeenkomst inzake arbitrage tussen Staten.
 
-#### Artikel 13
+##### Artikel 13
 
 Artikel 1, eerste lid, is niet van toepassing indien een Overeenkomstsluitende Staat voor de rechter van een andere Overeenkomstsluitende Staat, bij wie een geding aanhangig is, waarbij eerstbedoelde Staat geen partij is, aanvoert dat hij een recht heeft op of een belang heeft bij een goed, dat voorwerp is van het geding, en de omstandigheden zodanig zijn, dat hij recht zou hebben op immuniteit indien het geding tegen hem zou zijn ingesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 Niets in deze Overeenkomst mag worden uitgelegd als een verhindering voor de rechter van een Overeenkomstsluitende Staat tot het beheren van goederen, zoals die van een **trust** of van een failliete boedel, of het regelen van of het toezicht houden op zodanig beheer, enkel en alleen wegens het feit dat een andere Overeenkomstsluitende Staat een recht heeft op of een belang heeft bij die goederen.
 
-#### Artikel 15
+##### Artikel 15
 
 Een Overeenkomstsluitende Staat geniet immuniteit ten aanzien van de rechtsmacht van de rechter van een andere Overeenkomstsluitende Staat indien het geding niet wordt beheerst door de artikelen 1 tot en met 14; de rechter mag geen kennis nemen van een dergelijk geding, zelfs niet indien de Staat niet verschijnt.
 
 ### HOOFDSTUK II. Procedureregels
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op gedingen, ingesteld tegen een Overeenkomstsluitende Staat voor de rechter van een andere Overeenkomstsluitende Staat, zijn de navolgende regels van toepassing.
 
@@ -172,17 +194,17 @@ langs diplomatieke weg aan de Minister van Buitenlandse Zaken van de gedaagde St
 
 7. Indien een Overeenkomstsluitende Staat niet is verschenen, mag een vonnis bij verstek tegen hem slechts dan worden gewezen, indien is komen vast te staan dat het document waarbij het geding is ingeleid hem is overhandigd overeenkomstig het bepaalde in het tweede lid en dat de termijnen van verschijning, bedoeld in het vierde en vijfde lid, in acht zijn genomen.
 
-#### Artikel 17
+##### Artikel 17
 
 Geen zekerheidstelling of depot, onder welke benaming ook, die in de Staat van het forum niet zou kunnen worden gevorderd van een onderdaan van die Staat of van een persoon die daar zijn woon- of verblijfplaats heeft, mag worden opgelegd aan een Overeenkomstsluitende Staat ter waarborging van de betaling van de kosten van het geding. De Staat die als eiser optreedt voor de rechter van een andere Overeenkomstsluitende Staat moet alle te zijnen laste komende kosten van het geding voldoen.
 
-#### Artikel 18
+##### Artikel 18
 
 Een Overeenkomstsluitende Staat die partij is bij een geding voor de rechter van een andere Overeenkomstsluitende Staat mag niet worden onderworpen aan dwangmaatregelen of andere sancties wegens het nalaten of weigeren documenten of andere bewijsstukken over te leggen.
 
 De rechter mag evenwel uit een zodanige nalatigheid of weigering de gevolgtrekkingen maken die hij dienstig acht.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De rechter voor wie een geding is aanhangig gemaakt waarbij een Overeenkomstsluitende Staat partij is, moet op verzoek van een der partijen of, indien zijn nationale wet zulks toestaat, ambtshalve weigeren de zaak te behandelen of het geding schorsen indien een ander geding tussen dezelfde partijen, gegrond op dezelfde feiten en van dezelfde strekking:
 
@@ -194,7 +216,7 @@ De rechter mag evenwel uit een zodanige nalatigheid of weigering de gevolgtrekki
 
 ### HOOFDSTUK III. Uitvoering van vonnissen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een Overeenkomstsluitende Staat moet aan een door de rechter van een andere Overeenkomstsluitende Staat tegen hem gewezen vonnis gevolg geven indien:
 
@@ -228,7 +250,7 @@ De rechter mag evenwel uit een zodanige nalatigheid of weigering de gevolgtrekki
 
 Evenwel kan een Overeenkomstsluitende Staat zich niet beroepen op de weigeringsgronden, bedoeld in de letters **(a)** en **(b)** van dit lid, indien tussen hem en de Staat van het forum een verdrag bestaat inzake de erkenning en tenuitvoerlegging van vonnissen en indien het vonnis voldoet aan de in dat verdrag neergelegde vereisten wat betreft de bevoegdheid en, indien dat een rol speelt, de toegepaste wet.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een vonnis is gewezen tegen een Overeenkomstsluitende Staat en die Staat aan dat vonnis geen gevolg geeft, dan is de partij die zich van dat vonnis wil bedienen, gerechtigd aan de bevoegde rechter van die Staat te verzoeken een beslissing te geven over de vraag of aan het vonnis gevolg moet worden gegeven overeenkomstig artikel 20.
 
@@ -248,19 +270,19 @@ De Staat tegen welke het vonnis is gewezen, kan, indien zijn wet zulks toestaat,
 
 4. Elke Overeenkomstsluitende Staat moet bij de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding de in het eerste lid bedoelde rechter of rechters aanwijzen en de Secretaris-Generaal van de Raad van Europa daarvan mededeling doen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een Overeenkomstsluitende Staat is verplicht gevolg te geven aan een schikking waarbij hij partij is en die tijdens het geding is getroffen voor de rechter van een andere Overeenkomstsluitende Staat; het bepaalde in artikel 20 is op een zodanige schikking niet van toepassing.
 
 2. Indien de Staat de schikking niet uitvoert, kan de in artikel 21 bedoelde procedure worden gevolgd.
 
-#### Artikel 23
+##### Artikel 23
 
 Geen maatregelen van gedwongen tenuitvoerlegging noch conservatoire maatregelen mogen ten aanzien van goederen van een Overeenkomstsluitende Staat op het grondgebied van een andere Overeenkomstsluitende Staat worden genomen, behoudens in de gevallen en naar de mate waarin die Staat daar schriftelijk in heeft toegestemd.
 
 ### HOOFDSTUK IV. Facultatieve bepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Niettegenstaande het bepaalde in artikel 15 kan iedere Staat op het tijdstip van de ondertekening van deze Overeenkomst of van de nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding of op enig later tijdstip door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving verklaren, dat in gevallen niet vermeld in de artikelen 1 tot en met 13, zijn rechters gerechtigd zullen zijn kennis te nemen van gedingen, ingesteld tegen een andere Overeenkomstsluitende Staat, voor zover zij kennis kunnen nemen van gedingen tegen Staten die geen partij zijn bij deze Overeenkomst. Deze verklaring laat onverlet de immuniteit ten aanzien van de rechtsmacht die vreemde Staten genieten ten aanzien van handelingen, verricht in de uitoefening van hun publiekrechtelijke macht **(acta jure imperii).**
 
@@ -270,7 +292,7 @@ Geen maatregelen van gedwongen tenuitvoerlegging noch conservatoire maatregelen 
 
 4. De overeenkomstig het eerste lid afgelegde verklaring kan worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht drie maanden na de datum van haar ontvangst, maar heeft geen invloed op de vóór het verloop van deze termijn ingestelde gedingen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een Overeenkomstsluitende Staat die de in artikel 24 bedoelde verklaring heeft afgelegd, moet gevolg geven aan een vonnis dat, buiten de in artikelen 1 tot en met 13 genoemde gevallen, is gewezen door de rechter van een andere Overeenkomstsluitende Staat die een zodanige verklaring heeft afgelegd:
 
@@ -294,7 +316,7 @@ Geen maatregelen van gedwongen tenuitvoerlegging noch conservatoire maatregelen 
 
 5. Indien de Staat aan het vonnis geen gevolg geeft, kan de in artikel 21 bedoelde procedure worden gevolgd.
 
-#### Artikel 26
+##### Artikel 26
 
 Niettegenstaande het bepaalde in artikel 23 kan een tegen een Overeenkomstsluitende Staat gewezen vonnis in een geding betreffende een industriële of commerciële werkzaamheid, door de Staat op dezelfde wijze uitgeoefend als door een natuurlijk persoon, in de Staat van het forum ten uitvoer worden gelegd op die goederen van de Staat tegen welke het vonnis is gewezen, welke uitsluitend worden gebruikt in verband met die werkzaamheid, indien:
 
@@ -306,7 +328,7 @@ Niettegenstaande het bepaalde in artikel 23 kan een tegen een Overeenkomstsluite
 
 ### HOOFDSTUK V. Algemene bepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor de toepassing van deze Overeenkomst is onder de term „Overeenkomstsluitende Staat”, niet begrepen een lichaam dat afgezonderd is van een Overeenkomstsluitende Staat en bevoegd is in rechten op te treden, zelfs indien daaraan publiekrechtelijke taken zijn opgedragen.
 
@@ -314,7 +336,7 @@ Niettegenstaande het bepaalde in artikel 23 kan een tegen een Overeenkomstsluite
 
 3. Een zodanig lichaam kan in elk geval voor die rechter worden gedaagd wanneer deze in soortgelijke omstandigheden kennis had kunnen nemen van het geding, indien dit was ingesteld tegen een Overeenkomstsluitende Staat.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onverminderd het bepaalde in artikel 27 genieten de Lid-Staten van een Bondsstaat geen immuniteit.
 
@@ -324,7 +346,7 @@ Niettegenstaande het bepaalde in artikel 23 kan een tegen een Overeenkomstsluite
 
 4. Alleen de Bondsstaat is bevoegd tot het doen van de verklaringen, kennisgevingen en mededelingen, bedoeld in deze Overeenkomst, en alleen hij kan partij zijn bij een geding als bedoeld in artikel 34.
 
-#### Artikel 29
+##### Artikel 29
 
 Deze Overeenkomst is niet van toepassing op gedingen ter zake van:
 
@@ -334,23 +356,23 @@ Deze Overeenkomst is niet van toepassing op gedingen ter zake van:
 
 - (c). heffingen of boeten, douanerechten, belastingen.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze Overeenkomst is niet van toepassing op gedingen met betrekking tot vorderingen betreffende de exploitatie van zeeschepen die het eigendom zijn van een Overeenkomstsluitende Staat of door hem worden geexploiteerd, betreffende het vervoer van ladingen en passagiers door die schepen of betreffende het vervoer van ladingen toebehorend aan een Overeenkomstsluitende Staat en vervoerd aan boord van koopvaardijschepen.
 
-#### Artikel 31
+##### Artikel 31
 
 De bepalingen van deze Overeenkomst laten onverlet de immuniteiten en voorrechten die een Overeenkomstsluitende Staat geniet met betrekking tot elke handeling of nalatigheid begaan door of in verband met zijn strijdkrachten wanneer deze zich bevinden op het grondgebied van een andere Overeenkomstsluitende Staat.
 
-#### Artikel 32
+##### Artikel 32
 
 De bepalingen van deze Overeenkomst laten onverlet de voorrechten en immuniteiten met betrekking tot de uitoefening van de functies van diplomatieke missies en consulaire posten en van de daaraan verbonden personen.
 
-#### Artikel 33
+##### Artikel 33
 
 De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten internationale overeenkomsten die, op bijzondere terreinen, in verband staan met vraagstukken die het onderwerp vormen van deze Overeenkomst.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Geschillen die tussen twee of meer Overeenkomstsluitende Staten mochten ontstaan met betrekking tot de uitlegging of de toepassing van deze Overeenkomst worden op verzoek van een der partijen bij het geschil of bij wijze van compromis voorgelegd aan het Internationaal Gerechtshof tenzij de partijen een andere vreedzame regeling van het geschil overeenkomen.
 
@@ -360,7 +382,7 @@ De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten
 
 - (b). dat betrekking heeft op een vraag die aan de orde wordt gesteld in een geding dat is ingesteld voor de rechter van een Overeenkomstsluitende Staat overeenkomstig artikel 21, eerste lid, alvorens die rechter in dat geding een eindvonnis heeft gewezen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Deze Overeenkomst is alleen van toepassing op gedingen die na haar inwerkingtreding aanhangig zijn gemaakt.
 
@@ -370,7 +392,7 @@ De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten
 
 ### HOOFDSTUK VI. Slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Zij dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding moeten worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -378,7 +400,7 @@ De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten
 
 3. Voor elke ondertekenende Staat die haar daarna bekrachtigt of aanvaardt, treedt de Overeenkomst in werking drie maanden na de datum van nederlegging van de akte van bekrachtiging of aanvaarding van die Staat.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa, krachtens een met eenstemmigheid genomen besluit van de leden die een stem uitbrengen, iedere Staat die geen lid is van de Raad van Europa, uitnodigen tot deze Overeenkomst toe te treden.
 
@@ -386,7 +408,7 @@ De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten
 
 3. Indien evenwel de toetreding van een Staat die geen lid is van de Raad, voordat deze toetreding van kracht is geworden, het onderwerp vormt van een tot de Secretaris-Generaal van de Raad van Europa gericht bezwaar van een Staat die voordien tot deze Overeenkomst is toegetreden, is de Overeenkomst niet van toepassing op de betrekkingen tussen die beide Staten.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een Overeenkomstsluitende Staat kan op het tijdstip van ondertekening of nederlegging van zijn akte van bekrachtiging, aanvaarding of toetreding het grondgebied of de grondgebieden aanwijzen, waarop deze Overeenkomst van toepassing is.
 
@@ -394,17 +416,17 @@ De bepalingen van deze Overeenkomst laten onverlet de gesloten of nog te sluiten
 
 3. Verklaringen afgelegd krachtens het voorgaande lid kunnen, wat een in deze verklaring aangewezen grondgebied betreft, worden ingetrokken op de wijze als bedoeld in artikel 40 van deze Overeenkomst.
 
-#### Artikel 39
+##### Artikel 39
 
 Het maken van voorbehouden ten aanzien van deze Overeenkomst is niet toegestaan.
 
-#### Artikel 40
+##### Artikel 40
 
 1. Een Overeenkomstsluitende Staat kan deze Overeenkomst, voor zover het hem betreft, opzeggen door een kennisgeving te richten tot de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal. De Overeenkomst blijft evenwel van toepassing op gedingen die zijn ingesteld vóór de afloop van deze termijn en op de in deze gedingen gewezen vonnissen.
 
-#### Artikel 41
+##### Artikel 41
 
 De Secretaris-Generaal van de Raad van Europa geeft aan de Lid-Staten van de Raad van Europa en aan iedere Staat die is toegetreden tot deze Overeenkomst kennis van:
 

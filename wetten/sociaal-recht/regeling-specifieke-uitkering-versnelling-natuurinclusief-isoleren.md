@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering versnelling natuurinclusief isoleren"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2023, nr. 2023-0000735552 houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van soortenmanagementplannen die het voorkomen van vertraging van verduurzaming door isolatie als doel hebben"
 identifier: "BWBR0049033"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-11
-laatste_update: 2024-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049033"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-11"
+last_updated: "2024-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049033"
+soort: "ministeriele-regeling"
+stam_id: "16953973"
+version_id: "30474222"
+internal_id: "C43694701"
+label_id: "16864434"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049033/2024-12-11/0"
+intitule_bron: "Stcrt.2023-32727"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-08"
+intitule_published: "2023-12-12"
+intitule_in_force: "2023-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-40938"
+original_signed_date: "2024-12-09"
+original_published_date: "2024-12-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-40938"
+entry_into_force_date: "2024-12-09"
+jci_1_3: "jci1.3:c:BWBR0049033&z=2024-12-11&g=2024-12-11"
+jci_1_0: "1.0:c:BWBR0049033&g=2024-12-11"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering versnelling natuurinclusief isoleren"
+signed_date: "2024-12-09"
+entry_into_force: "2024-12-09"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2023, nr. 2023-0000735552 houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van soortenmanagementplannen die het voorkomen van vertraging van verduurzaming door isolatie als doel hebben
 
 Gelet op [artikel 2, eerste lid, onderdeel m](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [artikel 3 van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3) (Stb. 2022, 452);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 - **Minister:** Minister van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2. Doel en activiteiten van de specifieke uitkering
+##### Artikel 2. Doel en activiteiten van de specifieke uitkering
 
 De minister verstrekt aan de provincie een specifieke uitkering ter bevordering van:
 
@@ -52,7 +78,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 - d. het toezichthouden op en handhaven van voorschriften ter bescherming van beschermde diersoorten, in zoverre dit noodzakelijk is voor de uitvoering van de energiebesparende isolatie van de thermische schil van gebouwen in de gebouwde omgeving.
 
-#### Artikel 3. Hoogte van de specifieke uitkering
+##### Artikel 3. Hoogte van de specifieke uitkering
 
 1. De specifiek uitkering bedraagt in 2023 exclusief btw voor de provincie:
 
@@ -108,7 +134,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 3. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de activiteiten bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=2&z=2024-12-11&g=2024-12-11) voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 4. Wijze van betaling en uitkeringsbeschikking
+##### Artikel 4. Wijze van betaling en uitkeringsbeschikking
 
 1. De Minister verleent bij het besluit tot verlening van de specifieke uitkering een voorschot van 100 procent dat in één keer wordt uitbetaald.
 
@@ -122,7 +148,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 - d. het ingeschatte bedrag dat de provincie aan BTW verschuldigd zal zijn.
 
-#### Artikel 5. Verplichtingen
+##### Artikel 5. Verplichtingen
 
 1. Gedeputeerde staten besteden het voor die provincie in de derde kolom van de tabel in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=I&z=2024-12-11&g=2024-12-11) opgenomen bedrag voor de verdeling middelen voor ondersteunende taken provincies uiterlijk 31 december 2030 aan:
 
@@ -150,7 +176,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 8. Indien gedeputeerde staten op grond van het zevende lid een lager bedrag verstrekken dan het bedrag opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&bijlage=II&z=2024-12-11&g=2024-12-11), dan kunnen zij het verschil tussen het verstrekte bedrag en het voor die gemeente in bijlage II opgenomen bedrag verstrekken aan een andere gemeente, of andere gemeentes, voor activiteiten als bedoeld in het derde lid, op een wijze die naar opvatting van gedeputeerde staten bijdraagt aan een doelmatige versnelling van de isolatie van gebouwen, ook als daarmee in totaal een ander bedrag wordt verstrekt dan het voor die andere gemeente, of andere gemeentes, in bijlage II opgenomen bedrag.
 
-#### Artikel 6. Informatievoorziening na uitkering
+##### Artikel 6. Informatievoorziening na uitkering
 
 1. Gedeputeerde staten informeren de Minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
@@ -158,7 +184,7 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 3. Gedeputeerde staten informeren de Minister, in het jaar dat de provincie de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049033&artikel=7&z=2024-12-11&g=2024-12-11), bedoelde eindverantwoording aan de Minister heeft verstrekt, over het aantal gemeenten dat de middelen heeft ontvangen voor het opstellen dan wel het uitvoeren van het soortenmanagementplan.
 
-#### Artikel 7. Verantwoording, terugvordering en vaststelling
+##### Artikel 7. Verantwoording, terugvordering en vaststelling
 
 1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -166,11 +192,11 @@ De minister verstrekt aan de provincie een specifieke uitkering ter bevordering 
 
 3. De Minister stelt de specifieke uitkering vast uiterlijk op 31 december van het jaar waarin de gedeputeerde staten, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de Minister hebben verstrekt.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 januari 2032, met dien verstande dat deze regeling van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering versnelling natuurinclusief isoleren.
 

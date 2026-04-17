@@ -1,14 +1,41 @@
 ---
-title: "Wet afschaffing plusregio’s"
+title: "Wet van 17 december 2014 tot wijziging van de Wet gemeenschappelijke regelingen en enkele andere wetten in verband met de afschaffing van de plusregio’s"
 identifier: "BWBR0036043"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036043"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036043"
+soort: "wet"
+stam_id: "12917753"
+version_id: "21989202"
+internal_id: "C31536481"
+label_id: "12887264"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036043/2015-01-01/0"
+intitule_bron: "Stb.2014-557"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-17"
+intitule_published: "2014-12-24"
+intitule_in_force: "2014-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2014-557"
+original_signed_date: "2014-12-17"
+original_published_date: "2014-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "33659"
+original_url_id: "stb-2014-557"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036043&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0036043&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet afschaffing plusregio’s"
+signed_date: "2014-12-17"
+entry_into_force: "2015-01-01"
 ---
-
-# Wet afschaffing plusregio’s
+# Wet van 17 december 2014 tot wijziging van de Wet gemeenschappelijke regelingen en enkele andere wetten in verband met de afschaffing van de plusregio’s
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,105 +45,105 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Opheffing plusregio’s
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet gemeenschappelijke regelingen.
 
-#### Artikel II
+##### Artikel II
 
 De [Wijzigingswet Wgr-plus](https://wetten.overheid.nl/jci1.3:c:BWBR0019114) wordt ingetrokken.
 
 ### Hoofdstuk 2. Wijziging van enkele wetten
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Provinciewet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Huisvestingswet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Woningwet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op het BTW-compensatiefonds.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet BDU verkeer en vervoer.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet personenvervoer 2000.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Planwet verkeer en vervoer.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet bereikbaarheid en mobiliteit.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet Infrastructuurfonds.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet houdende regels met betrekking tot enkele specifieke uitkeringen aan provincies en gemeenten op het terrein van Verkeer en Waterstaat.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet bodembescherming.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de jeugdzorg.
 
 ### Hoofdstuk 3. Samenloop met andere wetsvoorstellen
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Huisvestingswet 2014.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Huisvestingswet 2014.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Wet lokaal spoor.
 
-#### Artikel XXIa
+##### Artikel XXIa
 
 Wijzigt deze wet.
 
-#### Artikel XXIb
+##### Artikel XXIb
 
 Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering gemeente- en provinciebestuur, enz.).
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. De gemeenten die deelnemen aan een gemeenschappelijke regeling waarbij een plusregio is ingesteld, dragen er zorg voor dat de desbetreffende gemeenschappelijke regeling binnen een jaar na de datum van inwerkingtreding van deze wet wordt opgeheven met toepassing van de bepalingen die ingevolge [artikel 9, eerste en tweede lid, van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=9) in de regeling zijn opgenomen.
 
@@ -124,7 +151,7 @@ Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering ge
 
 3. [Paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&paragraaf=3) en [5 van Hoofdstuk XI van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&paragraaf=5), zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding van deze wet, blijven van toepassing op een gemeenschappelijke regeling waarbij een plusregio is ingesteld, zolang de regeling niet overeenkomstig het eerste of tweede lid is beëindigd of gewijzigd.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. De huisvestingsverordeningen, bedoeld in [artikel 2, derde lid, van de Huisvestingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005674&artikel=2), die op het tijdstip van inwerkingtreding van deze wet van kracht zijn in plusregio’s als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=104), blijven in de dienovereenkomstige gebieden van kracht tot het moment waarop de gemeenschappelijke regeling waarbij de plusregio is ingesteld, krachtens [artikel XVII, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036043&hoofdstuk=2&artikel=XVII&z=2015-01-01&g=2015-01-01), is beëindigd met dien verstande dat de verordeningen uiterlijk een jaar na inwerkingtreding van deze wet vervallen.
 
@@ -132,13 +159,13 @@ Wijzigt de Wijzigingswet Wet gemeenschappelijke regelingen, enz. (dualisering ge
 
 3. Gedurende de periode dat de huisvestingsverordeningen van kracht zijn, kan het algemeen bestuur van een voormalige plusregio deze wijzigen of intrekken.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 1. De besluiten die op grond van [artikel 107, eerste lid, van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=107), zoals dat luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet, zijn genomen in verband met de overdracht van bevoegdheden inzake de uitvoering van de provinciale taken in het kader van de jeugdzorg blijven van kracht.
 
 2. De termijn genoemd in [artikel XXII, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036043&hoofdstuk=4&artikel=XXII&z=2015-01-01&g=2015-01-01), vangt voor de plusregio waarvan de gemeente Amsterdam, Rotterdam onderscheidenlijk ’s-Gravenhage deel uitmaakt aan op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Bijdragen, subsidies en uitkeringen die zijn verleend of verstrekt aan een plusregio op grond van:
 
@@ -160,15 +187,15 @@ zoals deze luidden op de dag voorafgaand aan de datum van inwerkingtreding van d
 
 5. In afwijking van [artikel 3, eerste lid, van de Wet BDU verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0017828&artikel=3) kan de verstrekking van de brede doeluitkering voor het uitkeringsjaar waarin deze wet in werking treedt, plaatsvinden in het jaar waarop de uitkering betrekking heeft.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Concessies die door de dagelijkse besturen van de plusregio’s zijn verleend op grond van [artikel 20, tweede of derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20), zoals dit luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet, worden met ingang van de datum van inwerkingtreding van deze wet geacht te zijn verleend door de krachtens artikel 20, tweede, derde of vierde lid, van de Wet personenvervoer 2000 bevoegde concessieverleners.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Regionale verkeer- en vervoerplannen die door de plusregio’s zijn vastgesteld op grond van [artikel 16 van de Planwet verkeer en vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0009642&artikel=16), zoals dit artikel luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet worden geacht te zijn vastgesteld door gedeputeerde staten of, indien van toepassing, door het dagelijks bestuur van een openbaar lichaam als bedoeld in [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20).
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Na de inwerkingtreding van deze wet:
 
@@ -176,11 +203,11 @@ Na de inwerkingtreding van deze wet:
 
 - b. berusten besluiten die genomen zijn op grond van [artikel 20, derde lid, van de Wet personenvervoer 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011470&artikel=20) zoals dat luidde op de dag voorafgaand aan de datum van inwerkingtreding van deze wet op artikel 20, vierde lid, van de Wet personenvervoer 2000.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Deze wet wordt aangehaald als: Wet afschaffing plusregio’s.
 

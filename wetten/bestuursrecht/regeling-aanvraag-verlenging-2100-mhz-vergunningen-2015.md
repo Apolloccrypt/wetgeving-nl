@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015"
+title: "Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ / 15147598, houdende regels voor het aanvragen van een verlenging van 2.100 MHz-vergunningen (Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015)"
 identifier: "BWBR0037214"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-24
-laatste_update: 2015-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037214"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-11-24"
+last_updated: "2015-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037214"
+soort: "ministeriele-regeling"
+stam_id: "13307593"
+version_id: "22788292"
+internal_id: "C32937701"
+label_id: "13275434"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037214/2015-11-24/0"
+intitule_bron: "Stcrt.2015-41456"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-17"
+intitule_published: "2015-11-23"
+intitule_in_force: "2015-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-41456"
+original_signed_date: "2015-11-17"
+original_published_date: "2015-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-41456"
+entry_into_force_date: "2015-11-24"
+jci_1_3: "jci1.3:c:BWBR0037214&z=2015-11-24&g=2015-11-24"
+jci_1_0: "1.0:c:BWBR0037214&g=2015-11-24"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015"
+signed_date: "2015-11-17"
+entry_into_force: "2015-11-24"
 ---
-
 # Regeling van de Minister van Economische Zaken van 17 november 2015, nr. WJZ / 15147598, houdende regels voor het aanvragen van een verlenging van 2.100 MHz-vergunningen (Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015)
 
 Gelet op [artikel 18, vijfde en elfde lid, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=18);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanvraag verlenging
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om verlenging van de looptijd van een vergunning voor de periode 1 januari 2017 tot en met 31 december 2020 wordt ingediend bij de minister.
 
@@ -38,11 +64,11 @@ In deze regeling wordt verstaan onder:
 
 5. Voor zover het de vergunningen met kenmerken 2000/DGTP/00/3949/TvM en 2000/DGTP/00/3951/TvM betreft, wordt kenbaar gemaakt of 2 keer 0,3 MHz extra frequentieruimte wordt aangevraagd, overeenkomstig [artikel 2 van het Besluit verlengbaarheid vergunningen 2.100 MHz 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035914&artikel=2).
 
-#### Artikel 3
+##### Artikel 3
 
 Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037214&paragraaf=2&artikel=2&z=2015-11-24&g=2015-11-24), weigert de minister de verlenging van de vergunning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de aanvrager niet heeft voldaan aan een van de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037214&paragraaf=2&artikel=2&z=2015-11-24&g=2015-11-24), gestelde eisen, deelt de minister dit de aanvrager mee en stelt de minister de aanvrager in de gelegenheid het verzuim te herstellen.
 
@@ -52,11 +78,11 @@ Indien niet is voldaan aan [artikel 2, tweede lid](https://wetten.overheid.nl/jc
 
 4. Indien het verzuim niet binnen de termijn, bedoeld in het tweede lid, en op de wijze, genoemd in het derde lid, is hersteld of de aanvrager na herstel niet heeft voldaan aan de in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037214&paragraaf=2&artikel=2&z=2015-11-24&g=2015-11-24) gestelde, eisen, kan de aanvraag buiten behandeling worden gelaten.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling aanvraag verlenging 2.100 MHz-vergunningen 2015.
 

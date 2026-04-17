@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek Tanzania"
 identifier: "BWBV0003852"
-categorie: "Milieu"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003852"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003852"
+soort: "verdrag"
+stam_id: "10003750353"
+version_id: "10005783192"
+internal_id: "C10009094631"
+label_id: "10003735654"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003852/2016-07-01/0"
+intitule_bron: "Trb.2016-80"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2016-06-16"
+intitule_in_force: "2016-06-16"
+intitule_status: "vervallen"
+original_publication: "Trb.2016-80"
+original_published_date: "2016-06-16"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2016-80"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBV0003852&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBV0003852&g=2016-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-07-01"
 ---
-
 # Overeenkomst inzake luchtdiensten tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek Tanzania
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Verenigde Republiek Tanzania (hierna te noemen de Overeenkomstsluitende Partijen),
@@ -18,83 +40,83 @@ Geleid door de wens een overeenkomst te sluiten tot aanvulling van genoemd Verdr
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 2. Verlening van rechten
+##### Artikel 2. Verlening van rechten
 
 Vervallen
 
-#### Artikel 3. Wetten en voorschriften
+##### Artikel 3. Wetten en voorschriften
 
 Vervallen
 
-#### Artikel 4. Aanwijzing van luchtvaartmaatschappijen en exploitatievergunningen
+##### Artikel 4. Aanwijzing van luchtvaartmaatschappijen en exploitatievergunningen
 
 Vervallen
 
-#### Artikel 5. Herroeping en opschorting van exploitatievergunningen
+##### Artikel 5. Herroeping en opschorting van exploitatievergunningen
 
 Vervallen
 
-#### Artikel 6. Douanerechten en andere lasten
+##### Artikel 6. Douanerechten en andere lasten
 
 Vervallen
 
-#### Artikel 7. Bepalingen inzake capaciteit
+##### Artikel 7. Bepalingen inzake capaciteit
 
 Vervallen
 
-#### Artikel 8. Verschaffing van statistische gegevens
+##### Artikel 8. Verschaffing van statistische gegevens
 
 Vervallen
 
-#### Artikel 9. Tarieven
+##### Artikel 9. Tarieven
 
 Vervallen
 
-#### Artikel 10. Overmaking van inkomsten
+##### Artikel 10. Overmaking van inkomsten
 
 Vervallen
 
-#### Artikel 11. Kosten en andere lasten
+##### Artikel 11. Kosten en andere lasten
 
 Vervallen
 
-#### Artikel 12. Vertegenwoordiging van de luchtvaartmaatschappij
+##### Artikel 12. Vertegenwoordiging van de luchtvaartmaatschappij
 
 Vervallen
 
-#### Artikel 13. Overleg tussen de luchtvaartautoriteiten
+##### Artikel 13. Overleg tussen de luchtvaartautoriteiten
 
 Vervallen
 
-#### Artikel 14. Wijziging van de overeenkomst
+##### Artikel 14. Wijziging van de overeenkomst
 
 Vervallen
 
-#### Artikel 15. Aanpassing aan multilaterale verdragen
+##### Artikel 15. Aanpassing aan multilaterale verdragen
 
 Vervallen
 
-#### Artikel 16. Regeling van geschillen
+##### Artikel 16. Regeling van geschillen
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18. Registratie bij de ICAO
+##### Artikel 18. Registratie bij de ICAO
 
 Vervallen
 
-#### Artikel 19. Toepasselijkheid van het Verdrag van Chicago
+##### Artikel 19. Toepasselijkheid van het Verdrag van Chicago
 
 Vervallen
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Vervallen
 

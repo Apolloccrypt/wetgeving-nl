@@ -1,13 +1,38 @@
 ---
-title: "Instellingsbesluit Commissie Hoekstra"
+title: "Instelling Commissie toetredingsvereisten juridische beroepen (Commissie Hoekstra)"
 identifier: "BWBR0018317"
-categorie: "Overig"
-publicatiedatum: 2005-07-01
-laatste_update: 2005-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018317"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-07-01"
+last_updated: "2005-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018317"
+soort: "ministeriele-regeling"
+stam_id: "7013153"
+version_id: "11891062"
+internal_id: "C15992371"
+label_id: "7001174"
+original_entry_into_force: "2005-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018317/2005-07-01/0"
+intitule_bron: "Stcrt.2005-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-05-11"
+intitule_published: "2005-05-23"
+intitule_in_force: "2005-05-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-96"
+original_signed_date: "2005-05-11"
+original_published_date: "2005-05-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-96-p17-SC70023"
+entry_into_force_date: "2005-07-01"
+jci_1_3: "jci1.3:c:BWBR0018317&z=2005-07-01&g=2005-07-01"
+jci_1_0: "1.0:c:BWBR0018317&g=2005-07-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Hoekstra"
+signed_date: "2005-05-11"
+entry_into_force: "2005-07-01"
 ---
-
 # Instelling Commissie toetredingsvereisten juridische beroepen (Commissie Hoekstra)
 
 Mede namens de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
@@ -26,13 +51,13 @@ Overwegende
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Een commissie in te stellen met als taak om – met name met het oog op de invoering van de bachelor-masterstructuur – te bezien of de regeling van de voor toetreding tot de juridische beroepen (advocatuur, notariaat, rechterlijke macht) vereiste graden in de toekomst aanpassing behoeft en hierover advies uit te brengen. Meer in het bijzonder zal moeten worden nagegaan of ook andere graden dan de in het wetenschappelijk onderwijs verkregen graad bachelor op het gebied van het recht, tezamen met de in het wetenschappelijk onderwijs verkregen graad master op het gebied van het recht, toetreding tot genoemde juridische beroepen mogelijk moeten kunnen maken.
 
 Daarnaast heeft de commissie als taak om te beoordelen of de (nadere) regelgeving met betrekking tot de voor toelating tot juridische beroepen vereiste kennis ten aanzien van specifieke juridische vakken wijziging moet ondergaan, en hierover advies uit te brengen. In elk geval zal moeten worden bezien of de verschillen in dit opzicht voor de te onderscheiden juridische beroepen zich nog laten rechtvaardigen.
 
-#### Artikel 2
+##### Artikel 2
 
 In de commissie hebben zitting:
 
@@ -66,14 +91,14 @@ d. secretariaat:
 
 - –. mr. E.W. Engelkes, Directie Toegang Rechtsbestel van het Ministerie van Justitie.
 
-#### Artikel 3
+##### Artikel 3
 
 De commissie zal voor de zomer van 2005 aan de Minister van Justitie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap rapport uitbrengen.
 
-#### Artikel 4
+##### Artikel 4
 
 Op de commissie is het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) (Stb. 1988, 205) en het [Reisbesluit Binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) (Stb. 1993, 144) van toepassing. De commissie wordt als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](https://wetten.overheid.nl/jci1.3:c:BWBR0004317) aangemerkt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als Instellingsbesluit Commissie Hoekstra en wordt gepubliceerd in de Staatscourant.

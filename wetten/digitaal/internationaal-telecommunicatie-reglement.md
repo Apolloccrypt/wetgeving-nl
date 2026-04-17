@@ -1,20 +1,45 @@
 ---
 title: "Internationaal telecommunicatie reglement"
 identifier: "BWBV0002750"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1991-10-17
-laatste_update: 1991-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002750"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-10-17"
+last_updated: "1991-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002750"
+soort: "verdrag"
+stam_id: "10003084313"
+version_id: "10003088262"
+internal_id: "C10006987031"
+label_id: "10003070834"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002750/1991-10-17/0"
+intitule_bron: "Trb.1990-59"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-17"
+intitule_published: "1990-04-27"
+intitule_in_force: "1991-11-29"
+intitule_status: "goed"
+original_publication: "Trb.1990-59"
+original_signed_date: "1991-10-17"
+original_published_date: "1990-04-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-59"
+entry_into_force_date: "1991-10-17"
+jci_1_3: "jci1.3:c:BWBV0002750&z=1991-10-17&g=1991-10-17"
+jci_1_0: "1.0:c:BWBV0002750&g=1991-10-17"
+citeertitel_status: "officieel"
+signed_date: "1991-10-17"
+entry_into_force: "1991-10-17"
 ---
-
 # Internationaal telecommunicatie reglement
 
 Preamble
 
 While the sovereign right of each country to regulate its telecommunications is fully recognized, the provisions of the present Regulations supplement the International Telecommunication Convention, with a view to attaining the purpose of the International Telecommunication Union in promoting the development of telecommunication services and their most efficient operation while harmonizing the development of facilities for world-wide telecommunications.
 
-#### Article 1. Purpose and Scope of the Regulations
+##### Article 1. Purpose and Scope of the Regulations
 
 - 2. 1.1 a) These Regulations establish general principles which relate to the provision and operation of international telecommunication services offered to the public as well as to the underlying international telecommuncation transport means used to provide such services. They also set rules applicable to administrations*or recognized private operating agency(ies).
 
@@ -38,7 +63,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 12. 1.8 The regulations shall apply, regardless of the means of transmission used, so far as the Radio Regulations do not provide otherwise.
 
-#### Article 2. Definitions
+##### Article 2. Definitions
 
 - 13. For the purpose of these Regulations, the following definitions shall apply. These terms and definitions do not, however, necessarily apply for other purposes.
 
@@ -84,7 +109,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 27. 2.10 **Instructions:** A collection of provisions drawn from one or more CCITT Recommendations dealing with practical operational procedures for the handling of telecommuncation traffic (e.g., acceptance, transmission, accounting)
 
-#### Article 3. International Network
+##### Article 3. International Network
 
 - 28. 3.1 Members shall ensure that administrations*or recognized private operating agency(ies) cooperate in the establishment, operation and maintenance of the international network to provide a satisfactory quality of service.
 
@@ -94,7 +119,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 31. 3.4 Subject to national law, any user, by having access to the international network established by an administration*or recognized private operating agency(ies), has the right to send traffic. A satisfactory quality of service should be maintained to the greatest extent practicable, corresponding to relevant CCITT Recommendations
 
-#### Article 4. International Telecommunication Services
+##### Article 4. International Telecommunication Services
 
 - 32. 4.1 Members shall promote the implementation of international telecommunication services and shall endeavour to make such services generaly available to the public in their national network(s).
 
@@ -110,7 +135,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 38. d) a capability for interworking between different services, as appropriate, to facilitate international communications.
 
-#### Article 5. Safety of Life and Priority of Telecommuncations
+##### Article 5. Safety of Life and Priority of Telecommuncations
 
 - 39. 5.1 Safety of life telecommunications, such as distress telecommunications, shall be entitled to transmission as of right and shall, where technically practicable have absolute priority over all other telecommunications, in accordance with the relevant Articles of the Convention and taking due account of relevant CCITT Recommendations.
 
@@ -118,7 +143,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 41. 5.3 The provisions governing the priority enjoyed by all other telecommunications are contained in the relevant CCITT Recommendations.
 
-#### Article 6. Charging and Accounting
+##### Article 6. Charging and Accounting
 
 - 42. 6.1 **Collection charges**
 
@@ -150,17 +175,17 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 54. 6.5.1 Administrations*or recognized private operating agency(ies) shall follow the relavant provisions as set out in Appendix 3.
 
-#### Article 7. Suspension of Services
+##### Article 7. Suspension of Services
 
 - 55. 7.1 If a Member exercises its right in accordance with the Convention to suspend international telecommunication services partially of totally, that Member shall immendiately notify the Secretary-General of the suspension and of the subsequent return to normal conditions by the most appropriate means of communication.
 
 - 56. 7.2 The Secretary-General shall immediately bring such information to the attention of all other Members, using the most appropriate means of communication.
 
-#### Article 8. Dissemination of Information
+##### Article 8. Dissemination of Information
 
 - 57. Using the most suitable and economical means, the Secretary-General shall disseminate information, provided by administrations*or recognized private operating agency(ies), of an administrative, operational, tariff or statistical nature concerning international telecommunication routes and services. Such information shall be disseminated in accordance with the relevant provisions of the Convention and of this Article, on the basis of decisions taken by the Administrative Council or by competent administrative conferences, and taking account of conclusions or decisions of Plenary Assemblies of the International Consultative Committees.
 
-#### Article 9. Special Arrangements
+##### Article 9. Special Arrangements
 
 - 58. 9.1 a) Pursuant to Article 31 of the International Telecommunication Convention (Nairobi, 1982), special arrangements may be entered into on telecommunication matters which do not concern Memberts in general. Subject to national laws, Members may allow administrations*or recognized private operating agency(ies) or other organizations or persons to enter into such special mutual arrangements with Members, administrations*or recognized private operating agency(ies) or other organizations or persons that are so allowed in another country for the establishment, operation, and use of special telecommunication networks, systems and services, in order to meet specialized international telecommunication needs within and/or between the territories of the Members concerned, and including, as necessary, those financial, technical, or operating conditions to be observed.
 
@@ -168,7 +193,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 60. 9.2 Members should, where appropriate, encourage the parties to any special arrangements that are made pursuant to No. 58 to take into account relevant provisions of CCITT Recommendations.
 
-#### Article 10. Final Provisions
+##### Article 10. Final Provisions
 
 - 61. 10.1 These Regulations, of which Appendices 1, 2 and 3 form integral parts, shall enter into force on 1 July 1990 at 0001 hours UTC.
 
@@ -178,7 +203,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 64. 10.4 Members of the Union shall inform the Secretary-General of their approval of the International Telecommunication Regulations adopted by the Conference. The Secretary-General shall inform Members promptly of the receipt of such notifications of approval.
 
-#### 1. Accounting rates
+##### 1. Accounting rates
 
 1.1. For each applicable service in a given relation, administrations*or recognized private operating agency(ies) shall by mutual agreement establish and revise accounting rates to be applied between them, taking into account the Recommendations of the CCITT and trends in the cost of providing the specific telecommunication service, and shall divide such rates into terminal shares payable to the administrations*or recognized private operating agency(ies) of terminal countries, and where appropriate, into transit shares payable to the administrations*or recognized private operating agency(ies) of transit countries.
 
@@ -196,7 +221,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 1.6. Where an administration*or recognized private operating agency(ies) has a duty or fiscal tax levied on its accounting rate shares or other remunerations, it shall not in turn impose any such duty or fiscal tax on other administrations*or recognized private operating agency(ies).
 
-#### 2. Establishment of accounts
+##### 2. Establishment of accounts
 
 2.1. Unless otherwise agreed, the administrations*or recognized private operating agency(ies) responsible for collecting the charges shall establish a monthly account showing all the amounts due and send it to the administrations*or recognized private operating agency(ies) concerned.
 
@@ -210,7 +235,7 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 2.6. In indirect relations where a transit administration*or recognized private operating agency(ies) acts as an accounting intermediary between two terminal points, it shall include accounting data for transit trafffic in the relevant outgoing traffic account to administrations*or recognized private operating agency(ies) beyond it in the routing sequence as soon as possible after receiving that data from the originating administration*or recognized private operating agency(ies).
 
-#### 3. Settlement of balances of accounts
+##### 3. Settlement of balances of accounts
 
 3.1. **Choice of the currency of payment**
 
@@ -256,11 +281,11 @@ While the sovereign right of each country to regulate its telecommunications is 
 
 - 3.4.3. If there should be a redical change in the international monetary system which invalidates or makes inappropriate one or more of the foregoing paragraphs, administrations*or recognized private operating agency(ies) are free to adopt, by mutual agreement, a different monetary basis and/or different procedures for the settlement of balances of accounts, pending a revision of the above provisions.
 
-#### 1. General
+##### 1. General
 
 The provisions contained in Article 6 and Appendix 1, taking into account the relevant CCITT Recommendations, shall also apply to maritime telecommunications in so far as the following provisions do not provide otherwise.
 
-#### 2. Accounting authority
+##### 2. Accounting authority
 
 2.1. Charges for maritime telecommunications in the maritime mobile service and the maritime mobile-satellite service shall in principle, and subject to national law and pratice, be collected from the maritime mobile station licensee:
 
@@ -276,13 +301,13 @@ The provisions contained in Article 6 and Appendix 1, taking into account the re
 
 2.4. Members shall designate their accounting authority or authorities for the purposes of implementing this Appendix and notify their names, identification codes and addresses to the Secretary-General for inclusion in the List of Ship Stations; the number of such names and addresses shall be limited taking into account the relevant CCITT Recommendations.
 
-#### 3. Establishment of accounts
+##### 3. Establishment of accounts
 
 3.1. In principle, an account shall be considered as accepted without the need for specific notification of acceptance to the accounting authority that sent it.
 
 3.2. Howerver, any accounting authority has the right to question the contents of an account for a period of six calendar months after dispatch of the account.
 
-#### 4. Settlement of balances of account
+##### 4. Settlement of balances of account
 
 4.1. All international maritime telecommunication accounts shall be paid by the accounting authority without delay and in any case within six calendar months after dispatch of the account, except where the settlement of account is undertaken in accordance with paragraph 4.3 below.
 
@@ -292,17 +317,17 @@ The provisions contained in Article 6 and Appendix 1, taking into account the re
 
 4.4. The debtor accounting authority may refuse the settlement and adjustment of accounts presented more than eighteen calendar months after the date of the traffic to which the accounts relate.
 
-#### 1. Service telecommunications
+##### 1. Service telecommunications
 
 1.1. Administrations*or recognized private operating agency(ies) may provide service telecommunications free of charge.
 
 Administrations*or recognized private operating agency(ies) may in principle forego inclusion of service telecommunications in international accounting, under the relevant provisions of the International Telecommunication Convention and the present Regulations, having due regard for the need for reciprocal arrangements.
 
-#### 2. Privilege telecommunications
+##### 2. Privilege telecommunications
 
 Administrations*or recognized private operating agency(ies) may provide privilege telecommunications free of charge, and accordingly may forego the inclusion of such classes of telecommunication in international accounting, under the relevant provisions of the International Telecommunication Convention and the present Regulations.
 
-#### 3. Applicable provisions
+##### 3. Applicable provisions
 
 The general operational, charging and accounting principles applicable to service and privilege telecommunications should take account of the relevant CCITT Recommendations.
 

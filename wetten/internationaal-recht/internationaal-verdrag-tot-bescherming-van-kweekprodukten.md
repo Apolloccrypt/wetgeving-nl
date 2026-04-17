@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag tot bescherming van kweekprodukten"
 identifier: "BWBV0004510"
-categorie: "Internationaal recht"
-publicatiedatum: 1977-02-11
-laatste_update: 1977-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004510"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-02-11"
+last_updated: "1977-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004510"
+soort: "verdrag"
+stam_id: "10004170973"
+version_id: "10004343322"
+internal_id: "C10006999871"
+label_id: "10004156374"
+dtd_version: "2.0"
+original_entry_into_force: "1968-08-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004510/1977-02-11/0"
+intitule_bron: "Trb.1962-21"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1962-03-22"
+intitule_in_force: "1968-10-01"
+intitule_status: "goed"
+original_publication: "Trb.1962-21"
+original_published_date: "1962-03-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1962-21"
+entry_into_force_date: "1968-08-10"
+jci_1_3: "jci1.3:c:BWBV0004510&z=1977-02-11&g=1977-02-11"
+jci_1_0: "1.0:c:BWBV0004510&g=1977-02-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "1968-08-10"
 ---
-
 # Internationaal Verdrag tot bescherming van kweekprodukten
 
 De Verdragsluitende Staten,
@@ -22,7 +44,7 @@ Er naar strevende op basis van deze beginselen een overeenkomst tot stand te bre
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 (1). Dit Verdrag strekt ertoe aan de kweker van een nieuw plantenras of aan zijn rechtverkrijgende een recht toe te kennen en te verzekeren, waarvan de inhoud en de wijze van uitoefening hierna zijn omschreven.
 
@@ -30,19 +52,19 @@ Zijn het volgende overeengekomen:
 
 (3). De zetel van de Unie en van haar permanente organen is gevestigd te Genève.
 
-#### Artikel 2
+##### Artikel 2
 
 (1). Iedere Unie-Staat kan het recht van de kweker, bedoeld in dit Verdrag, erkennen door verlening van een bijzondere titel van bescherming of van een octrooi. Evenwel mag een Unie-Staat waarvan de nationale wetgeving beide vormen van bescherming toelaat, voor eenzelfde botanisch geslacht of eenzelfde botanische soort slechts voorzien in één van beide vormen.
 
 (2). Het woord ras in de zin van dit Verdrag omvat iedere cultivar, iedere cloon, lijn, stam en hybride, die geteeld kan worden en die voldoet aan de bepalingen van artikel 6, lid (1), onder**c)** en **d).**
 
-#### Artikel 3
+##### Artikel 3
 
 (1). De natuurlijke en rechtspersonen die hun woonplaats of zetel hebben in een van de Unie-Staten, genieten in de andere Unie-Staten voor de toekenning en de bescherming van het recht van de kweker de behandeling die de onderscheidene wetten van die Staten verlenen of in de toekomst zullen verlenen aan hun onderdanen, dit alles onverminderd de in dit Verdrag in het bijzonder bedoelde rechten en onder voorbehoud, dat de voorwaarden en formaliteiten, opgelegd aan de eigen onderdanen, vervuld zijn.
 
 (2). De onderdanen van de Unie-Staten die noch hun woonplaats, noch hun zetel in een van die Staten hebben, genieten eveneens dezelfde rechten, mits zij voldoen aan de verplichtingen die hun kunnen worden opgelegd ten einde het onderzoek van de nieuwe rassen die zij eventueel hebben gekweekt, en het toezicht op de vermeerdering daarvan mogelijk te maken.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). Dit Verdrag is van toepassing op alle botanische geslachten en soorten.
 
@@ -62,7 +84,7 @@ Hij verbindt zich voorts deze bepalingen toe te passen op andere geslachten van 
 
 (5). Iedere Unie-Staat kan op het tijdstip van de ondertekening van dit Verdrag of van de nederlegging van de akte van bekrachtiging of van toetreding verklaren dat hij voor de bescherming van kweekprodukten de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=2) en [3 van het Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=3) zal toepassen.
 
-#### Artikel 5
+##### Artikel 5
 
 (1). Het aan de kweker van een nieuw ras of aan diens rechtverkrijgende verleende recht houdt in, dat het voortbrengen voor handelsdoeleinden van geslachtelijk of ongeslachtelijk teeltmateriaal als zodanig van dat nieuwe ras, alsmede het te koop aanbieden en het verhandelen van dat teeltmateriaal aan zijn voorafgaande toestemming zijn onderworpen. Tot het ongeslachtelijk teeltmateriaal wordt mede de gehele plant gerekend. Het recht van de kweker strekt zich uit tot sierplanten of delen daarvan, die in de regel verhandeld worden voor andere doeleinden dan voor vermeerdering, indien zij zijn gebruikt als vermeerderingsmateriaal voor de voorbrenging van sierplanten of snijbloemen voor de handel.
 
@@ -72,7 +94,7 @@ Hij verbindt zich voorts deze bepalingen toe te passen op andere geslachten van 
 
 (4). Het staat iedere Unie-Staat vrij hetzij in zijn eigen wetgeving, hetzij in bijzondere overeenkomsten in de zin van artikel 29, voor bepaalde botanische geslachten of soorten aan de kwekers een recht te verlenen, dat verder strekt dan dat omschreven in het eerste lid van dit artikel en dat zich in het bijzonder kan uitstrekken tot het verhandelde eindprodukt. Een Unie-Staat die een dergelijk recht verleent, is bevoegd het genot ervan te beperken tot de onderdanen van die Unie-Staten die een gelijk recht verlenen, alsmede tot de natuurlijke en rechtspersonen die hun woonplaats of zetel in een van die Staten hebben.
 
-#### Artikel 6
+##### Artikel 6
 
 (1). De kweker van een nieuw ras of zijn rechtverkrijgende geniet de bescherming voorzien in dit Verdrag, wanneer de volgende voorwaarden zijn vervuld:
 
@@ -88,7 +110,7 @@ Hij verbindt zich voorts deze bepalingen toe te passen op andere geslachten van 
 
 (2). De verlening van de bescherming voor een nieuw ras kan niet afhankelijk worden gesteld van andere voorwaarden dan die welke hierboven zijn vermeld, mits de kweker of zijn rechtverkrijgende voldaan heeft aan de formaliteiten die in de nationale wetgeving van elk land zijn voorgeschreven, daaronder begrepen de betaling van rechten.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). De bescherming wordt verleend na een onderzoek van het nieuwe ras met betrekking tot de in artikel 6 omschreven voorwaarden. Dit onderzoek moet zijn aangepast aan ieder botanisch geslacht of iedere botanische soort, rekening houdende met de gebruikelijke wijze van vermeerdering.
 
@@ -96,7 +118,7 @@ Hij verbindt zich voorts deze bepalingen toe te passen op andere geslachten van 
 
 (3). Gedurende de periode tussen de indiening van het verzoek om bescherming van een nieuw ras en de beslissing daarop kan iedere Unie-Staat maatregelen nemen, ten einde de kweker of zijn rechtverkrijgende tegen misbruik door derden te beschermen.
 
-#### Artikel 8
+##### Artikel 8
 
 (1). Het aan de kweker van een nieuw ras of zijn rechtverkrijgende toegekende recht wordt voor een beperkte duur verleend. Deze duur kan niet korter zijn dan vijftien jaren. Voor planten als wijnstokken, vruchtbomen en hun onderstammen, woudbomen en sierbomen wordt deze minimum duur bepaald op achttien jaren.
 
@@ -104,13 +126,13 @@ Hij verbindt zich voorts deze bepalingen toe te passen op andere geslachten van 
 
 (3). Het staat iedere Unie-Staat vrij een langere beschermingsduur vast te stellen dan hierboven is aangegeven en voor bepaalde groepen gewassen een verschillende beschermingsduur te bepalen, in het bijzonder ten einde rekening te houden met de eisen van de wetgeving inzake de voortbrenging van en die handel in zaaizaad en plantgoed.
 
-#### Artikel 9
+##### Artikel 9
 
 De vrije uitoefening van het aan de kweker of zijn rechtverkrijgende verleend uitsluitende recht kan slechts beperkt worden om redenen van algemeen belang.
 
 Indien een zodanige beperking plaats vindt ten einde verbreiding van de nieuwe rassen te verzekeren, is de Unie-Staat die deze beperking oplegt, gehouden alle noodzakelijke maatregelen te nemen, opdat de kweker of zijn rechtverkrijgende een billijke vergoeding ontvangt.
 
-#### Artikel 10
+##### Artikel 10
 
 (1). Het recht van de kweker wordt, overeenkomstig de bepalingen van de nationale wetgeving van iedere Unie-Staat, nietig verklaard indien blijkt, dat op het tijdstip van de verlening van de titel van bescherming de in artikel 6, lid (1), onder **a)** en **b)** vastgestelde voorwaarden in feite niet waren vervuld.
 
@@ -124,7 +146,7 @@ Indien een zodanige beperking plaats vindt ten einde verbreiding van de nieuwe r
 
 (4). Het recht van de kweker kan niet worden nietig verklaard en de kweker of zijn rechtverkrijgende kan van dat recht niet worden vervallen verklaard op andere gronden dan die vermeld in dit artikel.
 
-#### Artikel 11
+##### Artikel 11
 
 (1). De kweker of zijn rechtverkrijgende heeft de vrijheid de Unie-Staat te kiezen waar hij voor de eerste maal de bescherming van zijn recht op een nieuw ras vraagt.
 
@@ -132,7 +154,7 @@ Indien een zodanige beperking plaats vindt ten einde verbreiding van de nieuwe r
 
 (3). De bescherming, gevraagd in verschillende Unie-Staten door natuurlijke of rechtspersonen die de voordelen van dit Verdrag deelachtig kunnen worden, is onafhankelijk van de bescherming die voor hetzelfde nieuwe ras is verkregen in andere Staten, al dan niet behorende tot de Unie.
 
-#### Artikel 12
+##### Artikel 12
 
 (1). De kweker of zijn rechtverkrijgende, die in een van de Unie-Staten overeenkomstig de voorschriften een aanvraag tot verkrijging van bescherming voor een nieuw ras heeft ingediend, geniet voor de indiening van een aanvraag in de andere Unie-Staten een recht van voorrang gedurende een termijn van twaalf maanden. Deze termijn begint te lopen vanaf de datum van indiening van de eerste aanvraag. De dag van indiening is niet in deze termijn begrepen.
 
@@ -142,7 +164,7 @@ Indien een zodanige beperking plaats vindt ten einde verbreiding van de nieuwe r
 
 (4). Aan de indiening van een aanvraag, gedaan met inachtneming van hetgeen hiervoor is bepaald, kunnen niet worden tegengeworpen de feiten die zich binnen de in lid (1) bepaalde termijn hebben voorgedaan, zoals de indiening van een andere aanvraag, de bekendmaking van het voorwerp van de aanvraag of de exploitatie ervan. Deze feiten kunnen geen enkel recht ten gunste van derden noch een recht van voorgebruik doen ontstaan.
 
-#### Artikel 13
+##### Artikel 13
 
 (1). Een nieuw ras moet worden aangeduid door een benaming.
 
@@ -174,13 +196,13 @@ De bevoegde dienst van iedere Unie-Staat geeft van iedere inschrijving van de be
 
 (10). Geen inbreuk wordt gemaakt op oudere rechten van derden ten aanzien van tekens die dienen om hun waren of hun onderneming te onderscheiden. Indien op grond van een ouder recht het gebruik van de benaming van een nieuw ras wordt verboden aan iemand die overeenkomstig de bepalingen van lid (7) verplicht is die benaming te gebruiken, eist de bevoegde dienst in voorkomend geval dat de kweker of zijn rechtverkrijgende een andere benaming voor het nieuwe ras voorstelt.
 
-#### Artikel 14
+##### Artikel 14
 
 (1). Het aan de kweker overeenkomstig de bepalingen van dit Verdrag toegekende recht is onafhankelijk van de maatregelen in iedere Unie-Staat genomen ter regeling van de voortbrenging van, de controle op en het verhandelen van zaaizaad en plantgoed.
 
 (2). Evenwel zal bij laatstbedoelde maatregelen zoveel mogelijk moeten worden vermeden, dat zij een belemmering vormen voor de toepassing van de bepalingen van dit Verdrag.
 
-#### Artikel 15
+##### Artikel 15
 
 De permanente organen van de Unie zijn:
 
@@ -188,7 +210,7 @@ De permanente organen van de Unie zijn:
 
 - b). het Secretariaat-Generaal, genaamd Bureau van de Internationale Unie tot bescherming van kweekprodukten. Dit Bureau staat onder toezicht van de Zwitserse Bondsstaat.
 
-#### Artikel 16
+##### Artikel 16
 
 (1). De Raad is samengesteld uit de vertegenwoordigers van de Unie-Staten. Iedere Unie-Staat benoemt één vertegenwoordiger in de Raad en één plaatsvervanger.
 
@@ -196,25 +218,25 @@ De permanente organen van de Unie zijn:
 
 (3). Iedere Unie-Staat heeft één stem in de Raad.
 
-#### Artikel 17
+##### Artikel 17
 
 (1). De Staten die dit Verdrag hebben ondertekend, maar nog niet bekrachtigd, worden als waarnemer tot de vergaderingen van de Raad uitgenodigd. Hun vertegenwoordigers hebben een raadgevende stem.
 
 (2). Tot deze vergaderingen kunnen ook andere waarnemers of deskundigen worden uitgenodigd.
 
-#### Artikel 18
+##### Artikel 18
 
 (1). De Raad kiest uit zijn midden een voorzitter en een eerste vice-voorzitter. Hij kan andere vice-voorzitters kiezen. De eerste vice-voorzitter vervangt de voorzitter van rechtswege ingeval van diens verhindering.
 
 (2). De duur van het voorzitterschap bedraagt drie jaren.
 
-#### Artikel 19
+##### Artikel 19
 
 (1). De Raad vergadert op uitnodiging van de voorzitter.
 
 (2). Hij houdt eenmaal per jaar een gewone zitting. Voor het overige kan de voorzitter de Raad bijeenroepen, zo dikwijls hij daartoe aanleiding vindt; hij is gehouden de Raad bijeen te roepen binnen een termijn van drie maanden, wanneer tenminste een derde van de Unie-Staten dit verzoekt.
 
-#### Artikel 20
+##### Artikel 20
 
 (1). De Raad stelt zijn reglement van orde vast.
 
@@ -222,7 +244,7 @@ De permanente organen van de Unie zijn:
 
 (3). Deze reglementen en hun eventuele wijzigingen moeten worden aangenomen met een meerderheid van drie vierden van de Unie-Staten.
 
-#### Artikel 21
+##### Artikel 21
 
 De taken van de Raad zijn de volgende:
 
@@ -242,11 +264,11 @@ De taken van de Raad zijn de volgende:
 
 - h). in het algemeen het nemen van alle beslissingen met het oog op de goede werking van de Unie.
 
-#### Artikel 22
+##### Artikel 22
 
 De beslissingen van de Raad worden genomen met een eenvoudige meerderheid der aanwezige leden, behalve in de gevallen voorzien in de artikelen 20, 27, 28 en 32, evenals in geval van stemming over de begroting, de vaststelling van de bijdrage van iedere Unie-Staat, de in artikel 26, vijfde lid, voorziene mogelijkheid tot betaling van de helft van de met klasse V overeenkomende bijdrage en alle beslissingen ingevolge artikel 26, zesde lid, ter zake van het stemrecht. In de laatste vier gevallen is een meerderheid vereist van drie vierden van de aanwezige leden.
 
-#### Artikel 23
+##### Artikel 23
 
 (1). Het Bureau van de Unie is belast met de uitvoering van alle opdrachten en taken die hem door de Raad worden toevertrouwd. Het wordt geleid door de Secretaris-Generaal.
 
@@ -258,15 +280,15 @@ Hij legt de begroting aan de Raad ter goedkeuring voor en draagt zorg voor de ui
 
 Het statuut en de bezoldiging van het overige personeel van het Bureau van de Unie worden geregeld in het administratief en financieel reglement.
 
-#### Artikel 24
+##### Artikel 24
 
 De Regering van de Zwitserse Bondsstaat houdt toezicht op de uitgaven van het Bureau van de internationale Unie tot bescherming van kweekprodukten, alsmede op de rekeningen van het Bureau. Zij biedt de Raad een jaarlijks verslag van haar bevindingen bij de controle aan.
 
-#### Artikel 25
+##### Artikel 25
 
 De wijze van technische en administratieve samenwerking tussen de Unie tot bescherming van kweekprodukten en de Unies die beheerd worden door de Verenigde Internationale Bureaus tot bescherming van de industriële, litteraire en artistieke eigendom, zullen worden geregeld bij een reglement, vastgesteld door de Regering van de Zwitserse Bondsstaat in overeenstemming met de belanghebbende Unies.
 
-#### Artikel 26
+##### Artikel 26
 
 (1). De uitgaven van de Unie worden gedekt door:
 
@@ -299,7 +321,7 @@ Deze verklaring moet tenminste zes maanden voor het einde van het dienstjaar voo
 
 De Raad kan echter, zolang hij van mening is dat de achterstalligheid het gevolg is van buitengewone en onvermijdbare omstandigheden een betrokken Staat toestaan zijn stemrecht te blijven uitoefenen.
 
-#### Artikel 27
+##### Artikel 27
 
 (1). Dit Verdrag wordt onderworpen aan periodieke herzieningen ten einde daarin de verbeteringen aan te brengen, die kunnen strekken tot vervolmaking van het stelsel van de Unie.
 
@@ -311,7 +333,7 @@ Voor herziening van het Verdrag is nodig, dat de herziene tekst een meerderheid 
 
 (4). De herziene tekst treedt voor de Unie-Staten die deze hebben bekrachtigid in werking, wanneer hij door vijf zesden van die Unie-Staten is bekrachtigd. Het tijdstip van inwerkingtreding is dertig dagen na de nederlegging van de laatste akte van bekrachtiging. Indien evenwel die meerderheid van vijf zesden van de ter Conferentie vertegenwoordigde Unie-Staten van oordeel is, dat de herziene tekst zodanig wijzigingen bevat, dat deze voor de Unie-Staten die deze tekst niet zouden bekrachtigen, de mogelijkheid uitsluiten jegens de andere Unie-Staten gebonden te blijven door de oude tekst, treedt de herziene tekst in werking twee jaar na de nederlegging van de laatste akte van bekrachtiging. In een dergelijk geval zijn te rekenen van deze inwerkingtreding af die Staten die de herziene tekst hebben bekrachtigd, niet langer door de oude tekst gebonden.
 
-#### Artikel 28
+##### Artikel 28
 
 (1). Bij de vervulling van zijn taken gebruikt het Bureau van de Unie de Franse, die Duitse en de Engelse taal.
 
@@ -319,11 +341,11 @@ Voor herziening van het Verdrag is nodig, dat de herziene tekst een meerderheid 
 
 (3). De Raad kan, voor zoveel nodig, met een meerderheid van drie vierden der aanwezige leden beslissen, dat andere talen zullen worden gebruikt.
 
-#### Artikel 29
+##### Artikel 29
 
 De Unie-Staten behouden zich het recht voor, onderling bijzondere overeenkomsten te sluiten voor de bescherming van kweekprodukten, voor zover deze niet in strijd zijn met de bepalingen van dit Verdrag. De Unie-Staten die niet hebben deelgenomen aan een dergelijke overeenkomst, worden op hun verzoek in de gelegenheid gesteld om toe te treden.
 
-#### Artikel 30
+##### Artikel 30
 
 (1). Iedere Unie-Staat verbindt zich alle maatregelen te nemen, die noodzakelijk zijn voor de toepassing van dit Verdrag.
 
@@ -339,7 +361,7 @@ Hij verbindt zich in het bijzonder:
 
 (3). Er bestaat overeenstemming over, dat iedere Staat ten tijde van de nederlegging van zijn akte van bekrachtiging of van zijn toetreding in staat moet zijn, overeenkomstig zijn nationale wetgeving uitvoering te geven aan de bepalingen van dit Verdrag.
 
-#### Artikel 31
+##### Artikel 31
 
 (1). Dit Verdrag staat tot twee december negentienhonderd tweeënzestig open voor ondertekening door de Staten die vertegenwoordigd waren op de Conferentie van Parijs voor de bescherming van kweekprodukten.
 
@@ -347,7 +369,7 @@ Hij verbindt zich in het bijzonder:
 
 (3). Zodra het door ten minste drie Staten is bekrachtigd, treedt het Verdrag tussen deze Staten in werking dertig dagen na de nederlegging van de derde akte van bekrachtiging. Ten aanzien van iedere Staat, die het later bekrachtigd, treedt het Verdrag n werking dertig dagen na de nederlegging van de akte van bekrachtiging van die Staat.
 
-#### Artikel 32
+##### Artikel 32
 
 (1). Dit Verdrag staat open voor toetreding door de Staten, die het niet hebben ondertekend, op de voorwaarden voorzien in de leden (3) en (4) van dit artikel.
 
@@ -363,7 +385,7 @@ Op het ogenblik van de stemming moeten drie vierden van de Unie-Staten vertegenw
 
 De toetreding wordt van kracht dertig dagen na de nederlegging van die akte.
 
-#### Artikel 33
+##### Artikel 33
 
 (1). Iedere Staat deelt bij de bekrachtiging van het Verdrag, wanneer het gaat om een Staat die ondertekend heeft, of bij de indiening van het verzoek om toetreding, wanneer het gaat om een andere Staat, in het eerste geval aan de Regering van de Franse Republiek, in het tweede geval aan de Regering van de Zwitserse Bondsstaat, de lijst van geslachten en soorten mede, voor welke hij zich verbindt de bepalingen van dit Verdrag met inachtneming van de bepalingen van artikel 4 toe te passen. Hij geeft daarbij voorts aan, ingeval zich daaronder geslachten of soorten bevinden, bedoeld in lid (4) van dat artikel, of hij voornemens is gebruik te maken van de in die bepaling geboden bevoegdheid tot beperking.
 
@@ -371,7 +393,7 @@ De toetreding wordt van kracht dertig dagen na de nederlegging van die akte.
 
 (3). De Regering van de Franse Republiek of in voorkomend geval, de Regering van de Zwitserse Bondsstaat brengt de mededelingen, bedoeld in de leden (1) en (2) van dit artikel, onmiddellijk ter kennis van alle Unie-Staten.
 
-#### Artikel 34
+##### Artikel 34
 
 (1). Iedere Unie-Staat verklaart bij zijn ondertekening, bekrachtiging of toetreding, of het Verdrag van toepassing zal zijn op zijn gehele grondgebied of op een deel ervan, of op één of meer of op alle Staten of gebieden, waarvoor hij bevoegd is verbintenissen aan te gaan.
 
@@ -379,21 +401,21 @@ Hij kan deze verklaring later op elk moment door middel van een kennisgeving aan
 
 (2). De Regering die de verklaringen of kennisgevingen, vermeld in lid (1) van dit artikel, heeft ontvangen, geeft daarvan kennis aan alle Unie-Staten.
 
-#### Artikel 35
+##### Artikel 35
 
 In afwijking van de bepalingen van artikel 6 is iedere Unie-Staat bevoegd, zonder dat daaruit enige verplichting voortvloeit voor de andere Unie-Staten, de in genoemd artikel bedoelde eis van nieuwheid te beperken voor wat betreft rassen die op het tijdstip waarop dit Verdrag ten aanzien van de betreffende Staat in werking treedt, reeds bestaan, doch welke korte tijd daarvoor zijn gewonnen.
 
-#### Artikel 36
+##### Artikel 36
 
 (1). Indien op het tijdstip waarop dit Verdrag ten aanzien van een Unie-Staat in werking treedt, de kweker van een in die Staat beschermd nieuw ras of zijn rechtverkrijgende voor de benaming van dat ras in die Staat de bescherming geniet bij wege van fabrieks- of handelsmerk voor gelijke of gelijksoortige waren in de zin van de wetgeving op de merken, heeft hij de keus om ofwel afstand te doen van de bescherming bij wege van fabrieks- of handelsmerk, ofwel een nieuwe benaming voor het ras in de plaats van de bestaande te deponeren. Indien binnen een termijn van zes maanden geen nieuwe benaming is gedeponeerd, kan de kweker of zijn rechtverkrijgende zich voor de hiervoor bedoelde waren niet langer op zijn recht op het fabrieks- of handelsmerk beroepen.
 
 (2). Indien een nieuwe benaming voor het ras is ingeschreven kan de kweker of zijn rechtverkrijgende aan personen die voor het in werking treden van dit Verdrag gehouden waren de oude benaming te gebruiken, dit gebruik eerst verbieden na verloop van een termijn van één jaar te rekenen van de bekendmaking van de inschrijving van de nieuwe benaming af.
 
-#### Artikel 37
+##### Artikel 37
 
 Dit Verdrag maakt geen inbreuk op de rechten die uit hoofde van de nationale wetgevingen van de Unie-Staten of ingevolge tussen die Staten gesloten overeenkomsten waren verkregen.
 
-#### Artikel 38
+##### Artikel 38
 
 (1). Elk geschil tussen twee of meer Unie-Staten, dat betrekking heeft op de uitlegging of toepassing van dit Verdrag en dat niet langs minnelijke weg tot oplossing is gebracht, wordt op verzoek van een van de belanghebbende Staten voorgelegd aan de Raad, die het nodige doet om overeenstemming tussen deze Staten tot stand te brengen.
 
@@ -415,11 +437,11 @@ Indien de President onderdaan is van een van de Staten die partij zijn bij het g
 
 (6). Ieder van de Staten die partij zijn bij het geschil, draagt de kosten van zijn vertegenwoordiging voor het Scheidsgerecht; de overige kosten worden gelijkelijk over alle Staten omgeslagen.
 
-#### Artikel 39
+##### Artikel 39
 
 Bij de ondertekening van dit Verdrag, bij bekrachtiging of bij toetreding mag geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 40
+##### Artikel 40
 
 (1). Dit Verdrag wordt aangegaan voor onbepaalde tijd.
 
@@ -429,7 +451,7 @@ Bij de ondertekening van dit Verdrag, bij bekrachtiging of bij toetreding mag ge
 
 (4). Deze opzeggingen en verklaringen maken geen inbreuk op de rechten die vóór het verstrijken van de in de leden (2) en (3) van dit artikel bepaalde termijnen in het kader van dit Verdrag waren verkregen.
 
-#### Artikel 41
+##### Artikel 41
 
 (1). Dit Verdrag is opgesteld in één exemplaar in de Franse taal, dat in het archief van de Regering van de Franse Republiek wordt nedergelegd.
 

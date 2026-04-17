@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit"
 identifier: "BWBV0004452"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-08-20
-laatste_update: 1996-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004452"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-08-20"
+last_updated: "1996-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004452"
+soort: "verdrag"
+stam_id: "10004139593"
+version_id: "10004308622"
+internal_id: "C10006998991"
+label_id: "10004124914"
+dtd_version: "2.0"
+original_entry_into_force: "1985-06-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004452/1996-08-20/0"
+intitule_bron: "Trb.1964-4"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-01-24"
+intitule_in_force: "1985-05-17"
+intitule_status: "goed"
+original_publication: "Trb.1964-4"
+original_published_date: "1964-01-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-4"
+entry_into_force_date: "1985-06-10"
+jci_1_3: "jci1.3:c:BWBV0004452&z=1996-08-20&g=1996-08-20"
+jci_1_0: "1.0:c:BWBV0004452&g=1996-08-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1985-06-10"
 ---
-
 # Verdrag betreffende beperking van gevallen van meervoudige nationaliteit en betreffende militaire verplichtingen in geval van meervoudige nationaliteit
 
 De Lid-Staten van de Raad van Europa, die dit Verdrag hebben ondertekend,
@@ -22,7 +44,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Beperking van gevallen van meervoudige nationaliteit
 
-#### Artikel 1
+##### Artikel 1
 
 1. Meerderjarige onderdanen van de Verdragsluitende Partijen verliezen hun nationaliteit, indien zij ten gevolge van een uitdrukkelijke wilsverklaring de nationaliteit van een andere Partij verkrijgen door naturalisatie, optie of herstel in die nationaliteit; aan hen mag geen vergunning worden gegeven hun vroegere nationaliteit te behouden.
 
@@ -40,7 +62,7 @@ Evenwel kan, zonder inbreuk te maken op de bepalingen van de wet van elk der Ver
 
 7. Onverminderd de bepalingen van het tweede lid, waar van toepassing, kan elk van deze Partijen, wanneer een minderjarige onderdaan van een Verdragsluitende Partij wiens ouders onderdanen van verschillende Verdragsluitende Partijen zijn, de nationaliteit van een van zijn ouders verkrijgt, bepalen dat hij de oorspronkelijke nationaliteit behoudt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Hij die de nationaliteit van twee of meer Verdragsluitende Partijen bezit, kan van één of meer van die nationaliteiten afstand doen, mits de Verdragsluitende Partij van welker nationaliteit hij afstand wenst te doen, daarin toestemt.
 
@@ -50,23 +72,23 @@ Evenmin mag toestemming worden geweigerd door de Verdragsluitende Partij waarvan
 
 3. Wat onder meerderjarigheid en minderjarigheid dient te worden verstaan, alsmede welke eisen aan bevoegdheid en vertegenwoordiging zijn te stellen, wordt bepaald door de wet van de Verdragsluitende Partij van welker nationaliteit de betrokken persoon afstand wenst te doen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Verdragsluitende Partij van welker nationaliteit de betrokken persoon afstand wenst te doen, verlangt daarvoor geen bijzonder recht of enige andere betaling.
 
-#### Artikel 4
+##### Artikel 4
 
 De bepalingen van dit Verdrag laten onverlet de voor beperking van de gevallen van meervoudige nationaliteit gunstiger bepalingen, welke zijn of later mochten worden opgenomen, hetzij in de nationale wet van een Verdragsluitende Partij, hetzij in enig ander verdrag of enige andere overeenkomst gesloten tussen twee of meer Verdragsluitende Partijen.
 
 ### HOOFDSTUK II. Militaire verplichtingen in geval van meervoudige nationaliteit
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij die de nationaliteit van twee of meer Verdragsluitende Partijen bezit, behoeft zijn militaire verplichtingen slechts ten opzichte van één van die Partijen na te komen.
 
 2. De wijze waarop uitvoering zal worden gegeven aan de bepaling van het eerste lid, kan bij bijzondere overeenkomsten tussen belanghebbende Verdragsluitende Partijen worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor zover bij bijzondere overeenkomsten welke zijn of zullen worden gesloten, geen andere voorzieningen zijn getroffen, zijn de volgende bepalingen van toepassing op hem die de nationaliteit van twee of meer Verdragsluitende Partijen bezit.
 
@@ -86,7 +108,7 @@ Voor zover bij bijzondere overeenkomsten welke zijn of zullen worden gesloten, g
 
 ### HOOFDSTUK III. Toepassing van het Verdrag
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Verdragsluitende Partij past de bepalingen van de hoofdstukken I en II toe.
 
@@ -98,7 +120,7 @@ Zij kan te allen tijde daarna de Secretaris-Generaal van de Raad van Europa erva
 
 ### HOOFDSTUK IV. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke Verdragsluitende Partij kan, hetzij op het tijdstip van ondertekening, hetzij op het tijdstip van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, verklaren, dat zij gebruik maakt van één of meer der voorbehouden vermeld in de Bijlage bij dit Verdrag. Geen enkel ander voorbehoud kan worden toegestaan.
 
@@ -106,13 +128,13 @@ Zij kan te allen tijde daarna de Secretaris-Generaal van de Raad van Europa erva
 
 3. Een Verdragsluitende Partij die overeenkomstig dit artikel gebruik heeft gemaakt van een voorbehoud ten aanzien van een bepaling van het Verdrag, kan geen aanspraak maken op de toepassing van die bepaling door een andere Partij. Zij kan evenwel, indien het voorbehoud gedeeltelijk of voorwaardelijk is, aanspraak maken op de toepassing van die bepaling voor zover zij deze zelf heeft aanvaard.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elke Verdragsluitende Partij kan door een verklaring, afgegeven aan de Secretaris-Generaal van de Raad van Europa, hetzij op het tijdstip van ondertekening, hetzij op het tijdstip van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, of op ieder ander tijdstip daarna, wat betreft de Staten en gebieden voor welker internationale betrekkingen zij verantwoordelijk is of ten behoeve waarvan zij bevoegd is overeenkomsten te sluiten, de term „onderdanen” omschrijven en de „gebieden” aanduiden waarvoor dit Verdrag van toepassing is.
 
 2. Elke overeenkomstig dit artikel afgelegde verklaring kan, met betrekking tot de onderdanen en gebieden in die verklaring aangeduid, worden ingetrokken op de voet van artikel 12 van dit Verdrag.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Het dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -120,13 +142,13 @@ Zij kan te allen tijde daarna de Secretaris-Generaal van de Raad van Europa erva
 
 3. Met betrekking tot iedere ondertekenende Staat die het Verdrag nadien bekrachtigt of aanvaardt, treedt het in werking een maand na de datum waarop hij zijn akte van bekrachtiging of aanvaarding heeft neder gelegd.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa bij algemene stemmen besluiten iedere Staat die geen Lid van de Raad is, tot toetreding uit te nodigen. Iedere Staat die zulk een uitnodiging heeft ontvangen, kan tot dit Verdrag toetreden door nederlegging van zijn akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
 2. Voor iedere Staat die toetreedt, treedt het Verdrag in werking een maand na de datum van nederlegging van zijn akte van toetreding.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
@@ -134,7 +156,7 @@ Zij kan te allen tijde daarna de Secretaris-Generaal van de Raad van Europa erva
 
 3. Deze opzegging wordt van kracht een jaar na de datum waarop deze kennisgeving door de Secretaris-Generaal is ontvangen.
 
-#### Artikel 13
+##### Artikel 13
 
 De Secretaris-Generaal stelt de Lid-Staten van de Raad eri de Regering van iedere Staat die tot dit Verdrag is toegetreden, in kennis van:
 

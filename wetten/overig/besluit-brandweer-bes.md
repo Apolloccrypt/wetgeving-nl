@@ -1,13 +1,39 @@
 ---
-title: "Besluit brandweer BES"
+title: "Besluit van 30 september 2010, houdende regels over het personeel en de organisatie van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit brandweer BES)"
 identifier: "BWBR0028581"
-categorie: "Overig"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028581"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028581"
+soort: "AMvB-BES"
+stam_id: "10883873"
+version_id: "23391912"
+internal_id: "C33716111"
+label_id: "10858664"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028581/2016-07-01/0"
+intitule_bron: "Stb.2010-377"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-30"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2016-238"
+original_signed_date: "2016-06-20"
+original_published_date: "2016-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2016-238"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0028581&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0028581&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit brandweer BES"
+signed_date: "2016-06-20"
+entry_into_force: "2016-07-01"
 ---
-
 # Besluit van 30 september 2010, houdende regels over het personeel en de organisatie van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Besluit brandweer BES)
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 2 juli 2010, nr. 2010-0000461929, CZW/WSG;
@@ -28,11 +54,11 @@ Treedt in werking op het tijdstip waarop de Veiligheidswet BES in werking treedt
 
 #### § 2.1. Functies
 
-#### Artikel 2
+##### Artikel 2
 
 Bij ministeriële regeling worden voor het personeel van het brandweerkorps regels gesteld over de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1a&z=2016-07-01&g=2016-07-01), en de daarbij behorende eisen over opleiden, examineren, bijscholen en oefenen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de functies, genoemd in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01), behoren functiegerichte opleidingen die worden afgesloten met een Caribisch examen, voor zover daarbij uitsluitend de aanduiding «CN» is vermeld. Voor zover bij de functies uitsluitend de aanduiding «EN» is vermeld, behoren daarbij functiegerichte opleidingen die worden afgesloten met een Europees examen, gevolgd door een op de lokale praktijk in Caribisch Nederland gerichte, beperkte bijscholing. Voor zover bij de functies de aanduiding «CN/EN» is vermeld behoren daarbij functiegerichte opleidingen die worden afgesloten met een Caribisch examen, waarvoor als alternatief gelden functiegerichte opleidingen die worden afgesloten met een Europees examen.
 
@@ -42,17 +68,17 @@ Bij ministeriële regeling worden voor het personeel van het brandweerkorps rege
 
 #### § 2.2. Aanstelling en bevordering
 
-#### Artikel 8
+##### Artikel 8
 
 Bij ministeriële regeling kunnen regels worden gesteld over de kleding en uitrusting voor het personeel van het brandweerkorps.
 
 ### Hoofdstuk 3. Organisatie brandweerkorps
 
-#### Artikel 9
+##### Artikel 9
 
 Ten behoeve van de uitvoering van de taken, genoemd in [artikel 27, tweede en derde lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=27), draagt de korpsbeheerder brandweer er zorg voor dat het brandweerkorps in elk van de openbare lichamen ten minste een basisbrandweereenheid, een eenheid vliegtuigbrandbestrijding en een ondersteuningseenheid voor hulpverlening heeft.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De basisbrandweereenheid bestaat uit:
 
@@ -74,7 +100,7 @@ Ten behoeve van de uitvoering van de taken, genoemd in [artikel 27, tweede en de
 
 3. De eenheid beschikt over een tankautospuit met uitrusting.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De eenheid vliegtuigbrandbestrijding bestaat uit:
 
@@ -88,7 +114,7 @@ Ten behoeve van de uitvoering van de taken, genoemd in [artikel 27, tweede en de
 
 3. De eenheid beschikt over een crashtender met uitrusting.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ondersteuningseenheid voor hulpverlening bestaat uit:
 
@@ -108,17 +134,17 @@ Ten behoeve van de uitvoering van de taken, genoemd in [artikel 27, tweede en de
 
 ### Hoofdstuk 3. Organisatie brandweerkorps
 
-#### Artikel 13
+##### Artikel 13
 
 Bij ministeriële regeling kunnen regels worden gegeven over de gelijkstelling van diploma’s van het personeel van de brandweer die zijn verstrekt tot de dag voorafgaand aan de inwerkingtreding van dit artikel, met het diploma dan wel deel van het diploma van de bij de desbetreffende functie behorende opleiding.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien het bij koninklijk besluit van 9 november 2009 ingediende voorstel van wet houdende bepalingen over de politie en over de brandweerzorg, de rampenbestrijding en de crisisbeheersing op Bonaire, Sint Eustatius en Saba ([Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586)) tot wet is verheven en die wet in werking treedt, treden de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2016-07-01&g=2016-07-01), en [8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.3&artikel=8&z=2016-07-01&g=2016-07-01) van dit besluit op hetzelfde tijdstip in werking.
 
 2. De andere artikelen treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit brandweer BES.
 
@@ -150,7 +176,7 @@ Dit besluit wordt aangehaald als: Besluit brandweer BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -162,7 +188,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2.1. Functies
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister kan een persoon slechts aanstellen of bevorderen tot een of meer functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1&z=2016-07-01&g=2016-07-01), indien deze
 
@@ -176,11 +202,11 @@ In dit besluit wordt verstaan onder:
 
 4. De [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=3), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=5), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=6), voor zover dit artikel 5 van overeenkomstige toepassing verklaart, van het [Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693) zijn niet van toepassing op het geneeskundig onderzoek, bedoeld in het eerste lid, onderdeel b.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd [artikel 7 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=7), wordt het personeelslid, aangesteld of bevorderd tot een functie als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), periodiek onderworpen aan een geneeskundig onderzoek ter beoordeling of hij in staat is de opgedragen werkzaamheden naar behoren te verrichten. [Artikel 4 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=4) is van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het geneeskundig onderzoek, bedoeld in de [artikelen 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-07-01&g=2016-07-01), en de beoordeling van de resultaten daarvan geschieden door een door Onze Minister aangewezen arts. Bij ministeriële regeling worden regels gegeven over het geneeskundig onderzoek.
 
@@ -190,7 +216,7 @@ Onverminderd [artikel 7 van het Rechtspositiebesluit ambtenaren BES](https://wet
 
 4. Het geneeskundig onderzoek, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), vindt eerst plaats nadat alle overige beoordelingen van de geschiktheid van desbetreffende persoon hebben plaats gevonden en Onze Minister op grond daarvan voornemens is de betrokkene aan te stellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien aan het geneeskundig onderzoek een negatieve gevolgtrekking dan wel een positieve gevolgtrekking onder bepaalde beperkingen wordt verbonden, heeft de betrokkene het recht op herkeuring. Hij maakt zijn wens daartoe met redenen omkleed kenbaar binnen een week nadat de genoemde gevolgtrekking aan hem is medegedeeld. Onze Minister treft een regeling voor herkeuring door een onafhankelijk geneeskundige.
 
@@ -202,7 +228,7 @@ Onverminderd [artikel 7 van het Rechtspositiebesluit ambtenaren BES](https://wet
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Het personeelslid dat op het tijdstip van inwerkingtreding van dit artikel is aangesteld in een functie als bedoeld in [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2016-07-01&g=2016-07-01), wordt uiterlijk een jaar na dat tijdstip voor het eerst onderworpen aan een periodiek geneeskundig onderzoek als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&hoofdstuk=2&paragraaf=2.2&artikel=5&z=2016-07-01&g=2016-07-01).
 

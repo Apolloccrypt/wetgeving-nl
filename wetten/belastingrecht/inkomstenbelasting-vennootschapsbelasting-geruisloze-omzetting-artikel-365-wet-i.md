@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting; geruisloze omzetting artikel 3.65 Wet IB 2001; standaardvoorwaarden en toelichting"
 identifier: "BWBR0051693"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-11-05
-laatste_update: 2025-11-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051693"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-11-05"
+last_updated: "2025-11-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051693"
+soort: "beleidsregel"
+stam_id: "17579663"
+version_id: "31021812"
+internal_id: "C44420231"
+label_id: "17482094"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051693/2025-11-05/0"
+intitule_bron: "Stcrt.2025-37092"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-24"
+intitule_published: "2025-11-04"
+intitule_in_force: "2025-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-37092"
+original_signed_date: "2025-10-24"
+original_published_date: "2025-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-37092"
+entry_into_force_date: "2025-11-05"
+jci_1_3: "jci1.3:c:BWBR0051693&z=2025-11-05&g=2025-11-05"
+jci_1_0: "1.0:c:BWBR0051693&g=2025-11-05"
+citeertitel_status: "redactioneel"
+signed_date: "2025-10-24"
+entry_into_force: "2025-11-05"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting; geruisloze omzetting artikel 3.65 Wet IB 2001; standaardvoorwaarden en toelichting
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

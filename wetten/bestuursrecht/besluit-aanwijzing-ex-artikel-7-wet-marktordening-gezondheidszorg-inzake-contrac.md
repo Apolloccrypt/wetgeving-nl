@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 november 2011, nr. MC/U-3092027, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
 identifier: "BWBR0030715"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-02-01
-laatste_update: 2012-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030715"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-02-01"
+last_updated: "2012-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030715"
+soort: "ministeriele-regeling"
+stam_id: "11511673"
+version_id: "18945302"
+internal_id: "C26440031"
+label_id: "11484994"
+dtd_version: "2.0"
+original_entry_into_force: "2012-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030715/2012-02-01/0"
+intitule_bron: "Stcrt.2011-21600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-21"
+intitule_published: "2011-12-01"
+intitule_in_force: "2011-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21600"
+original_signed_date: "2011-11-21"
+original_published_date: "2011-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-21600"
+entry_into_force_date: "2012-02-01"
+jci_1_3: "jci1.3:c:BWBR0030715&z=2012-02-01&g=2012-02-01"
+jci_1_0: "1.0:c:BWBR0030715&g=2012-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden"
+signed_date: "2011-11-21"
+entry_into_force: "2012-02-01"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 21 november 2011, nr. MC/U-3092027, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake contracteerruimte AWBZ 2012 en enkele andere aangelegenheden
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,13 +44,13 @@ Gezien mijn inbreng van 15 november 2011 (DLZ-U-3088910) voor het verslag van ee
 
 Besluit:
 
-#### Artikel 1. werkingssfeer en uitvoering aanwijzing
+##### Artikel 1. werkingssfeer en uitvoering aanwijzing
 
 1. Deze aanwijzing is van toepassing op zorg waarop ingevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aanspraak bestaat en heeft betrekking op het zorgjaar 2012.
 
 2. De Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
-#### Artikel 2. startpunt en algemene uitgangspunten
+##### Artikel 2. startpunt en algemene uitgangspunten
 
 1. De zorgautoriteit stelt de totale contracteerruimte voor 2012 vast via dezelfde systematiek als voor de jaren 2005 tot en met 2011 is toegepast en gebruikt daarbij als startpunt 100 procent van de totale contracteerruimte 2011 zoals de zorgautoriteit die heeft vastgesteld.
 
@@ -36,7 +62,7 @@ Besluit:
 
 5. Het feit dat 2012 een schrikkeljaar is dient te worden opgevangen binnen de groeiruimte.
 
-#### Artikel 3. verruiming contracteerruimte 2012
+##### Artikel 3. verruiming contracteerruimte 2012
 
 De zorgautoriteit voegt voor de contracteerruimte 2012 de volgende bedragen toe:
 
@@ -46,7 +72,7 @@ De zorgautoriteit voegt voor de contracteerruimte 2012 de volgende bedragen toe:
 
 - c. € 50 miljoen met het oog op een eventueel toenemend beroep op zorg in natura als gevolg van het vervallen van de mogelijkheid voor nieuwe cliënten die geen indicatie voor verblijf hebben, hun zorgbehoefte te realiseren via de subsidie persoonsgebonden budget, als bedoeld in [paragraaf 2.6 van de Regeling subsidies AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0019161&paragraaf=2.6).
 
-#### Artikel 4. volumegroei en vrij beschikbare ruimte
+##### Artikel 4. volumegroei en vrij beschikbare ruimte
 
 1. Voor volumegroei binnen de contracteerruimte 2012 is € 433 miljoen beschikbaar. Hiervan is:
 
@@ -62,7 +88,7 @@ De zorgautoriteit voegt voor de contracteerruimte 2012 de volgende bedragen toe:
 
 3. De vrij beschikbare ruimte is € 555 miljoen. Hierbinnen dient alle extra- en intramurale groei van zorg ten opzichte van 2011 te worden opgevangen.
 
-#### Artikel 5. budgetrondes
+##### Artikel 5. budgetrondes
 
 De zorgautoriteit houdt op de gebruikelijke wijze en tijdstippen budgetrondes voor de productieafspraken, met dien verstande dat:
 
@@ -70,17 +96,17 @@ De zorgautoriteit houdt op de gebruikelijke wijze en tijdstippen budgetrondes vo
 
 - b. zij het resterende deel, zijnde € 100 miljoen, betrekt bij de herverdeling die plaatsvindt bij gelegenheid van de tweede budgetronde in november van het lopende jaar.
 
-#### Artikel 6. regionale contracteerruimte
+##### Artikel 6. regionale contracteerruimte
 
 1. De zorgautoriteit stelt tijdig per zorgkantoorregio de maximale contracteerruimte 2012 vast en deelt deze mee aan het zorgkantoor in de regio. Voor de vaststelling per regio is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030715&artikel=2&z=2012-02-01&g=2012-02-01) van overeenkomstige toepassing.
 
 2. De zorgautoriteit verdeelt het bedrag, genoemd in [artikel 5, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0030715&artikel=5&z=2012-02-01&g=2012-02-01), op basis van de intramurale en extramurale indicatiegegevens van het Centrum Indicatiestelling Zorg. Zij houdt hierbij de gebruikelijke verdeelsystematiek aan, waarbij zij rekening houdt met de verhouding tussen het extramurale en het intramurale deel van de contracteerruimte.
 
-#### Artikel 7. toetsing productieafspraken
+##### Artikel 7. toetsing productieafspraken
 
 De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van de productieafspraken aan de voor die regio vastgestelde contracteerruimte. Indien de zorgautoriteit constateert dat de ingediende productieafspraken niet passen binnen de contracteerruimte van de desbetreffende regio, of de ingediende afspraken niet passen binnen de geoormerkte bedragen, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0030715&artikel=9&z=2012-02-01&g=2012-02-01), wordt deze overschrijding niet gehonoreerd.
 
-#### Artikel 8. monitoring en knelpuntenprocedure
+##### Artikel 8. monitoring en knelpuntenprocedure
 
 1. De zorgautoriteit informeert mij in mei 2012 over de ontwikkelingen in de contracteerruimte 2012 en de regionale contracteerruimtes 2012 in relatie tot de indicatieontwikkeling. Zij betrekt daarbij het Centrum Indicatiestelling Zorg.
 
@@ -90,7 +116,7 @@ De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van
 
 4. De zorgautoriteit hanteert de knelpuntenprocedure op de gebruikelijke wijze.
 
-#### Artikel 9. geoormerkte middelen buiten de contracteerruimte
+##### Artikel 9. geoormerkte middelen buiten de contracteerruimte
 
 1. Buiten de contracteerruimte zijn geoormerkte middelen beschikbaar voor:
 
@@ -106,11 +132,11 @@ De zorgautoriteit toetst per zorgkantoorregio de totale financiële gevolgen van
 
 2. De middelen bedoeld in het eerste lid, onder b, kunnen ook worden aangewend voor het zo nodig dóórlopen van al in gang gezette experimenten.
 
-#### Artikel 10. inloopfunctie
+##### Artikel 10. inloopfunctie
 
 De zorgautoriteit zet in 2012 de prestatie ‘inloopfunctie’ voort.
 
-#### Artikel 11. zelfstandige zorgverleners
+##### Artikel 11. zelfstandige zorgverleners
 
 1. De zorgautoriteit voorziet erin dat de reikwijdte van haar beleidsregels inzake prestatiebeschrijvingen en tarieven zich met ingang van 1 januari 2012 tevens uitstrekt tot personen als bedoeld in [artikel 1, eerste lid, onder i, van de AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614&artikel=1).
 

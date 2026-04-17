@@ -1,13 +1,35 @@
 ---
-title: "Besluit bijdragen waterstaatswerken"
+title: "Besluit van 23 januari 1992, houdende regels ten aanzien van bijdragen in de kosten van beheer en onderhoud van waterstaatswerken"
 identifier: "BWBR0005402"
-categorie: "Milieu"
-publicatiedatum: 1992-04-01
-laatste_update: 1992-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005402"
+country: "nl"
+rank: "amvb"
+publication_date: "1992-04-01"
+last_updated: "1992-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005402"
+soort: "AMvB"
+stam_id: "289423"
+version_id: "420552"
+internal_id: "C420551"
+label_id: "283284"
+dtd_version: "2.0"
+original_entry_into_force: "1992-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005402/1992-04-01/0"
+intitule_bron: "Stb.1992-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-23"
+intitule_status: "goed"
+original_publication: "Stb.1992-69"
+original_signed_date: "1992-01-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-04-01"
+jci_1_3: "jci1.3:c:BWBR0005402&z=1992-04-01&g=1992-04-01"
+jci_1_0: "1.0:c:BWBR0005402&g=1992-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bijdragen waterstaatswerken"
+signed_date: "1992-01-23"
+entry_into_force: "1992-04-01"
 ---
-
 # Besluit van 23 januari 1992, houdende regels ten aanzien van bijdragen in de kosten van beheer en onderhoud van waterstaatswerken
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 5 september 1991, nr. RJI 102399, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken;
@@ -24,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 14 janu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - d. nieuwe beheerder: de provincie dan wel de gemeente, waarbij bij een koninklijk besluit op grond van [artikel 1, tweede lid, van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=1) (**Stb.** 176) een waterstaatswerk in beheer of onderhoud is gebracht.
 
-#### Artikel 2. Voorwaarden om voor een bijdrage in aanmerking te komen
+##### Artikel 2. Voorwaarden om voor een bijdrage in aanmerking te komen
 
 Voor een bijdrage komt in aanmerking de nieuwe beheerder van een waterstaatswerk dat een of meer functies ten algemene nutte heeft.
 
-#### Artikel 3. Functies ten algemene nutte
+##### Artikel 3. Functies ten algemene nutte
 
 1. De bijdrage wordt verleend zolang de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005402&artikel=2&z=1992-04-01&g=1992-04-01) bedoelde functies aanwezig zijn.
 
@@ -48,7 +70,7 @@ Voor een bijdrage komt in aanmerking de nieuwe beheerder van een waterstaatswerk
 
 3. Indien de nieuwe beheerder evenwel voornemens is de functies van het waterstaatswerk zodanig te wijzigen dat deze niet meer overeenstemmen met de functies op het tijdstip waarop het waterstaatswerk bij hem in beheer of onderhoud is gebracht, blijft het tweede lid buiten toepassing. In dat geval treedt de nieuwe beheerder tijdig in overleg met Onze Minister over een evenredige aanpassing van het uitkeringsbedrag.
 
-#### Artikel 4. Hoogte, vaststelling en aanpassing van de uitkeringsbedragen
+##### Artikel 4. Hoogte, vaststelling en aanpassing van de uitkeringsbedragen
 
 1. De hoogte van de uitkeringsbedragen per rechthebbende op het tijdstip waarop het betrokken waterstaatswerk bij de nieuwe beheerder in beheer of onderhoud wordt gebracht, wordt vastgesteld bij het koninklijk besluit, bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0005402&artikel=1&z=1992-04-01&g=1992-04-01).
 
@@ -56,7 +78,7 @@ Voor een bijdrage komt in aanmerking de nieuwe beheerder van een waterstaatswerk
 
 3. Indien in de functies van het waterstaatswerk wijzigingen zijn aangebracht als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005402&artikel=3&z=1992-04-01&g=1992-04-01), wordt het uitkeringsbedrag bij koninklijk besluit naar evenredigheid aangepast.
 
-#### Artikel 5. Samenstelling van de bijdrage
+##### Artikel 5. Samenstelling van de bijdrage
 
 De bijdrage bestaat uit de volgende bestanddelen:
 
@@ -66,7 +88,7 @@ De bijdrage bestaat uit de volgende bestanddelen:
 
 - c. een voor een periode van 30 jaren vanaf het tijdstip van overdracht benodigd bedrag voor de niet-jaarlijkse onderhoudskosten. Bij voornoemde kosten wordt nog een onderscheid gemaakt naar fluctuaties van minder of meer dan vijf jaar.
 
-#### Artikel 6. Indexering
+##### Artikel 6. Indexering
 
 1. De bijdrage wordt jaarlijks door Onze Minister aangepast overeenkomstig het gestelde in het tweede en derde lid.
 
@@ -82,7 +104,7 @@ U: het indexcijfer voor de maand dat als prijsbasis heeft gediend voor de vastst
 
 4. De coëfficient a heeft voor het onderhoudskostenbestanddeel de waarde 0,7 en wordt iedere vijf jaar door Onze Minister opnieuw vastgesteld. Aan de hand van de door het Centraal Bureau voor de Statistiek gepubliceerde indexcijfers van regelingslonen voor de overheidssector wordt door Onze Minister de waarde van de coëfficient a voor het personeelskostenbestanddeel ieder jaar opnieuw vastgesteld.
 
-#### Artikel 7. Wijze van betaling van de bijdrage en het bedrag van de aanpassing
+##### Artikel 7. Wijze van betaling van de bijdrage en het bedrag van de aanpassing
 
 1. Onze Minister betaalt de bijdrage jaarlijks in vier gelijke delen.
 
@@ -90,7 +112,7 @@ U: het indexcijfer voor de maand dat als prijsbasis heeft gediend voor de vastst
 
 3. Het bedrag van de aanpassing van de bijdrage wordt betaald in het jaar dat volgt op het desbetreffende uitkeringsjaar, uiterlijk op 30 november van dat jaar.
 
-#### Artikel 8. Tijdsduur van de geldigheid van de bijdrageregeling
+##### Artikel 8. Tijdsduur van de geldigheid van de bijdrageregeling
 
 1. Onze Minister behoudt te allen tijde de bevoegdheid om het verstrekken van een jaarlijkse bijdrage, dan wel gedeelten daarvan, te beëindigen onder het doen van een uitkering ineens waarvan de hoogte wordt berekend volgens de systematiek zoals omschreven in het rapport Afkoopsommen 1979 (Tweede Kamer, 1979-1980, 15 679, nr. 6, blz. 3 tot en met 8).
 
@@ -98,11 +120,11 @@ U: het indexcijfer voor de maand dat als prijsbasis heeft gediend voor de vastst
 
 3. De verstrekking van de bijdrage wordt eveneens beëindigd met ingang van de datum waarop het beheer en onderhoud van de betrokken waterstaatswerken worden bekostigd door middel van de uitkeringen uit het Provinciefonds onderscheidenlijk het Gemeentefonds.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit kan worden aangehaald als: Besluit bijdragen waterstaatswerken.
 

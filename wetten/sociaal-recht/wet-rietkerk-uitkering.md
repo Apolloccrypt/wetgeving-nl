@@ -1,14 +1,38 @@
 ---
-title: "Wet Rietkerk-uitkering"
+title: "Wet van 18 mei 1988, houdende regelen met betrekking tot de toekenning van een uitkering en herdenkingspenning"
 identifier: "BWBR0004338"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004338"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004338"
+soort: "wet"
+stam_id: "109243"
+version_id: "150642"
+internal_id: "C150641"
+label_id: "109554"
+dtd_version: "2.0"
+original_entry_into_force: "1986-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004338/2015-01-01/0"
+intitule_bron: "Stb.1988-226"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-05-18"
+intitule_status: "goed"
+original_publication: "Stb.1988-226"
+original_signed_date: "1988-05-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "19771"
+entry_into_force_date: "1986-01-01"
+entry_into_force_dossier: "19771"
+jci_1_3: "jci1.3:c:BWBR0004338&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0004338&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet Rietkerk-uitkering"
+signed_date: "1988-05-18"
+entry_into_force: "1986-01-01"
 ---
-
-# Wet Rietkerk-uitkering
+# Wet van 18 mei 1988, houdende regelen met betrekking tot de toekenning van een uitkering en herdenkingspenning
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -60,7 +84,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### De rechthebbenden
 
-#### Artikel 2
+##### Artikel 2
 
 1. Recht op de uitkering hebben:
 
@@ -72,7 +96,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De weduwe of weduwnaar heeft, onverminderd het bepaalde in het tweede lid, slechts recht op één uitkering.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het recht op de uitkering van de rechthebbenden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2015-01-01&g=2015-01-01), vervalt met ingang van het uitkeringsjaar volgend op het jaar van overlijden van de betreffende rechthebbende.
 
@@ -84,7 +108,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### De uitkering
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitkering ten bedrage van € 907,56 's jaars wordt op aanvraag, met inachtneming van het in deze wet bepaalde, door Onze Minister toegekend aan de rechthebbende, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=2&z=2015-01-01&g=2015-01-01).
 
@@ -94,7 +118,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### De aanvraag
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag wordt schriftelijk en uiterlijk op 1 juli van enig uitkeringsjaar door of namens de rechthebbende ingediend.
 
@@ -102,7 +126,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Onze Minister beslist op de aanvraag vòòr het einde van het uitkeringsjaar waarin de aanvraag wordt gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvraag kan worden ingediend tot 1 oktober 1991.
 
@@ -114,7 +138,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### De herdenkingspenning
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de rechthebbende dan wel de erfgenamen die in de plaats treden van de rechthebbende, wordt op een daartoe strekkende aanvraag een herdenkingspenning uitgereikt.
 
@@ -136,43 +160,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Belasting- en premieheffing uitkeringsgerechtigde
 
-#### Artikel 8
+##### Artikel 8
 
 De over de uitkering verschuldigde belasting ingevolgde de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en de verschuldigde premies ingevolge de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) (**Stb.** 1985, 181), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) (**Stb.** 1967, 655) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) (**Stb.** 1980, 1) komen ten laste van het Rijk.
 
 #### Samenloop met publiekrechtelijke uitkeringen
 
-#### Artikel 9
+##### Artikel 9
 
 De uitkering blijft buiten beschouwing bij de verlening van bijstand ingevolge de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703) en andere, op het inkomen van de rechthebbende afgestemde publiekrechtelijke uitkeringen of verstrekkingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van de uitkering blijft artikel 1461 van het Burgerlijk Wetboek buiten toepassing.
 
 #### Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan regelen stellen met betrekking tot de bij de aanvraag van de uitkering of van de herdenkingspenning over te leggen bescheiden, de wijze van behandeling van die aanvragen, alsmede met betrekking tot de wijze en voorwaarden van de betaling van de uitkering.
 
 2. De regelen worden in de **Nederlandse Staatscourant** bekend gemaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van het bepaalde in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004338&artikel=5&z=2015-01-01&g=2015-01-01), kan de aanvraag voor de uitkering over het uitkeringsjaar 1986 tot uiterlijk 1 december 1986 worden ingediend.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Besluit Rietkerk-uitkering (**Stb.** 1986, 523) wordt ingetrokken met dien verstande dat de beslissingen genomen op grond van dit besluit geacht worden te zijn genomen krachtens deze wet.
 
 2. Degene die op grond van het Besluit Rietkerk-uitkering niet in aanmerking kwam voor een uitkering maar op grond van enige bepaling van deze wet wel voor de uitkering in aanmerking kan komen, kan de aanvraag over de jaren 1986, 1987 en 1988 tot uiterlijk 1 juli 1988 indienen. Een beslissing op een aanvraag ingevolge dit artikellid wordt voor 1 januari 1989 genomen.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst en werkt terug tot en met 1 januari 1986.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet kan worden aangehaald als Wet Rietkerk-uitkering.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit verwijzingsportaal bankgegevens"
+title: "Besluit van 7 juli 2020, houdende regels met betrekking tot het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Besluit verwijzingsportaal bankgegevens)"
 identifier: "BWBR0043903"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043903"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043903"
+soort: "AMvB"
+stam_id: "15571703"
+version_id: "26901922"
+internal_id: "C38222541"
+label_id: "15513314"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043903/2022-01-01/0"
+intitule_bron: "Stb.2020-264"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-07-07"
+intitule_published: "2020-07-17"
+intitule_in_force: "2020-09-09"
+intitule_status: "goed"
+original_publication: "Stb.2020-264"
+original_signed_date: "2020-07-07"
+original_published_date: "2020-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-264"
+entry_into_force_date: "2020-09-10"
+jci_1_3: "jci1.3:c:BWBR0043903&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0043903&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verwijzingsportaal bankgegevens"
+signed_date: "2020-07-07"
+entry_into_force: "2020-09-10"
 ---
-
 # Besluit van 7 juli 2020, houdende regels met betrekking tot het via een centraal elektronisch systeem geautomatiseerd ontsluiten van identificerende gegevens alsmede enkele andere gegevens door banken en andere betaaldienstverleners (Besluit verwijzingsportaal bankgegevens)
 
 Op de voordracht van Onze Minister van Financiën van 16 juni 2020, 2020-0000090763, directie Financiële Markten, gedaan mede namens Onze Minister van Justitie en Veiligheid;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **wet:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2
+##### Artikel 2
 
 Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als bedoeld in [artikel 3:267i van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i) zijn:
 
@@ -71,7 +97,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 #### § 2. Algemeen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister van Justitie en Veiligheid, de bevoegde autoriteiten en de aangesloten partijen treffen ieder de technische en organisatorische voorzieningen die nodig zijn teneinde uitvoering te geven aan de ingevolge de [artikelen 4 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0043903&paragraaf=3&artikel=4&z=2022-01-01&g=2022-01-01) op hen rustende verplichtingen.
 
@@ -85,7 +111,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 #### § 3. Het beheer van het verwijzingsportaal bankgegevens
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister van Justitie en Veiligheid draagt er zorg voor dat het verwijzingsportaal bankgegevens de in dit artikel genoemde eigenschappen bezit.
 
@@ -95,7 +121,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 4. Het verwijzingsportaal bankgegevens legt voor elke vordering of verzoek en voor elke verstrekking een kenmerk vast aan de hand waarvan kan worden herleid door welke aangesloten partij, aan welke bevoegde autoriteit en op basis van welke wettelijke grondslag gegevens zijn gevorderd, verzocht en verstrekt. De vastlegging vindt op zodanige wijze plaats dat daarin geen gegevens worden opgenomen die herleidbaar zijn tot personen op wie een vordering of een verzoek om identificerende gegevens betrekking heeft en het vastgelegde kenmerk wordt gedurende vijf jaren bewaard.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister van Justitie en Veiligheid stelt jaarlijks een verslag op waarin melding wordt gemaakt van het aantal malen waarin door tussenkomst van het verwijzingsportaal bankgegevens aan een bevoegde autoriteit gegevens zijn verstrekt.
 
@@ -115,7 +141,7 @@ Identificerende gegevens en gegevens over de uiteindelijke belanghebbende als be
 
 #### § 4. Vorderingen door bevoegde autoriteiten
 
-#### Artikel 6
+##### Artikel 6
 
 De volgende bevoegde autoriteiten gebruiken het verwijzingsportaal bankgegevens:
 
@@ -127,23 +153,23 @@ De volgende bevoegde autoriteiten gebruiken het verwijzingsportaal bankgegevens:
 
 - 4°. de inspecteur, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2), de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet normalisation "Duizendtallen signaleren" 1990 en de Belastingdienst/Toeslagen, bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=11).
 
-#### Artikel 7
+##### Artikel 7
 
 De bevoegde autoriteiten vorderen of verzoeken om verstrekking van gegevens bij aangesloten partijen via het verwijzingsportaal bankgegevens indien het een vordering of verzoek betreft als bedoeld in [artikel 3:267i, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:267i).
 
 #### § 5. Het verstrekken van gegevens door aangesloten partijen
 
-#### Artikel 8
+##### Artikel 8
 
 Aangesloten partijen dragen zorg voor een goed functionerende aansluiting op het verwijzingsportaal bankgegevens.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aangesloten partijen treffen technische en organisatorische voorzieningen om via het verwijzingsportaal bankgegevens gegevens te verstrekken over cliënten, voor zover die in hun administratie zijn opgenomen.
 
 2. Zij zorgen dat gegevens worden geleverd die niet meer dan 48 uur ouder zijn dan de actuele gegevens die zij gebruiken voor de bedrijfsvoering.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aangesloten partijen verlenen het verwijzingsportaal bankgegevens langs geautomatiseerde weg gedurende 24 uur per dag toegang tot een geautomatiseerde voorziening waarmee gegevens kunnen worden opgevraagd, tenzij sprake is van vooraf aangekondigd onderhoud of overmacht.
 
@@ -151,19 +177,19 @@ Aangesloten partijen dragen zorg voor een goed functionerende aansluiting op het
 
 #### § 6. Wijzigingen en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt dit besluit.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit verwijzingsportaal bankgegevens.
 

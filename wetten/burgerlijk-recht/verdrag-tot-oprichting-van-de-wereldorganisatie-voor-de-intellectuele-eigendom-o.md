@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom (OMPI/WIPO), zoals gewijzigd op 28 september 1979"
 identifier: "BWBV0004328"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1984-06-01
-laatste_update: 1984-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004328"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-06-01"
+last_updated: "1984-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004328"
+soort: "verdrag"
+stam_id: "10004066233"
+version_id: "10004234362"
+internal_id: "C10008335701"
+label_id: "10004050774"
+dtd_version: "2.0"
+original_entry_into_force: "1975-01-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004328/1984-06-01/0"
+intitule_bron: "Trb.1969-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1974-12-05"
+intitule_status: "goed"
+original_publication: "Trb.1969-145"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-145"
+entry_into_force_date: "1975-01-09"
+jci_1_3: "jci1.3:c:BWBV0004328&z=1984-06-01&g=1984-06-01"
+jci_1_0: "1.0:c:BWBV0004328&g=1984-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-01-09"
 ---
-
 # Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom (OMPI/WIPO), zoals gewijzigd op 28 september 1979
 
 De Verdragsluitende Partijen,
@@ -20,11 +42,11 @@ Verlangende het beheer van de Unies, ingesteld op het gebied van de bescherming 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Oprichting van de Organisatie
+##### Artikel 1. Oprichting van de Organisatie
 
 Bij dit Verdrag wordt de Wereldorganisatie voor de Intellectuele Eigendom opgericht.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan:
 
@@ -58,7 +80,7 @@ In dit Verdrag wordt verstaan:
 
 - -. de bescherming tegen oneerlijke mededinging,
 
-#### Artikel 3. Doel van de Organisatie
+##### Artikel 3. Doel van de Organisatie
 
 De Organisatie heeft ten doel:
 
@@ -66,7 +88,7 @@ De Organisatie heeft ten doel:
 
 - ii). het verzekeren van de administratieve samenwerking tussen de Unies.
 
-#### Artikel 4. Werkzaamheden
+##### Artikel 4. Werkzaamheden
 
 Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisatie, door haar bevoegde organen en onder voorbehoud van de bevoegdheid van elk der Unies, de volgende werkzaamheden:
 
@@ -86,7 +108,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 - viii). zij neemt alle andere passende maatregelen.
 
-#### Artikel 5. Lidmaatschap
+##### Artikel 5. Lidmaatschap
 
 1). Het lidmaatschap van de Organisatie staat open voor iedere Staat die lid is van een van de Unies, omschreven in artikel 2, sub vii).
 
@@ -96,7 +118,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 - ii). dat hij door de Algemene Vergadering wordt uitgenodigd partij te worden bij dit Verdrag.
 
-#### Artikel 6. Algemene Vergadering
+##### Artikel 6. Algemene Vergadering
 
 - a). Er wordt een Algemene Vergadering ingesteld, bestaande uit de Staten die partij zijn bij dit Verdrag en tevens lid zijn van ten minste één van de Unies.
 
@@ -154,7 +176,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 6). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 7. Conferentie
+##### Artikel 7. Conferentie
 
 - a). Er wordt een Conferentie ingesteld, bestaande uit de Staten die partij zijn bij dit Verdrag, ongeacht of zij al of niet lid zijn van een der Unies.
 
@@ -194,7 +216,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 5). De Conferentie stelt haar reglement van orde vast.
 
-#### Artikel 8. Coördinatiecommissie
+##### Artikel 8. Coördinatiecommissie
 
 - a). Er wordt een Coördinatiecommissie ingesteld bestaande uit de Staten die partij zijn bij dit Verdrag en tevens lid zijn van de Uitvoerende Commissie van de Unie van Parijs, de Uitvoerende Commissie van de Unie van Bern of van beide. Indien een van deze Uitvoerende Commissies evenwel meer leden telt dan één vierde van het aantal Lid-Staten van de Algemene Vergadering die haar heeft gekozen, wijst deze Commissie uit haar leden de Staten aan die lid zullen zijn van de Coördinatiecommissie en wel op zodanige wijze dat hun aantal niet het bovenbedoelde vierde deel overschrijdt, met dien verstande dat het land op welks grondgebied de Organisatie haar zetel heeft, bij de berekening van dit vierde deel niet wordt meegeteld.
 
@@ -240,7 +262,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 8). De Coördinatiecommissie stelt haar reglement van orde vast.
 
-#### Artikel 9. Internationaal Bureau
+##### Artikel 9. Internationaal Bureau
 
 1). Het Internationale Bureau treedt op als het secretariaat van de Organisatie.
 
@@ -262,13 +284,13 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 8). De functies van de Directeur-Generaal en van de personeelsleden dragen een strikt internationaal karakter. Bij de uitoefening van hun functies mogen zij geen instructies verzoeken of aanvaarden van enige Regering of autoriteit buiten de Organisatie. Zij dienen zich te onthouden van elke handeling die hun status van internationale ambtenaren zou kunnen schaden. Elke Lid-Staat verbindt zich, het uitsluitend internationale karakter van de functies van de Directeur-Generaal en van de personeelsleden te eerbiedigen en niet te pogen hen bij de uitoefening van hun functies te beïnvloeden.
 
-#### Artikel 10. Zetel
+##### Artikel 10. Zetel
 
 1). De zetel van de Organisatie is gevestigd te Genève.
 
 2). Tot verplaatsing van de zetel kan worden besloten onder de voorwaarden voorzien in artikel 6, derde lid, onder letters d) en g).
 
-#### Artikel 11. Financiën
+##### Artikel 11. Financiën
 
 1). De Organisatie heeft twee afzonderlijke begrotingen: de begroting van de gemeenschappelijke uitgaven van de Unies en de begroting van de Conferentie.
 
@@ -329,7 +351,7 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 10). Het nazien der rekeningen wordt verricht op de wijze voorzien in het financiële reglement, door een of meer Lid-Staten of door onafhankelijke controleurs, die, met hun instemming, zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 12. Rechtsbevoegdheid; voorrechten en immuniteiten
+##### Artikel 12. Rechtsbevoegdheid; voorrechten en immuniteiten
 
 1). De Organisatie geniet op het grondgebied van iedere Lid-Staat overeenkomstig de wetten van deze Staat de rechtsbevoegdheid die nodig is om haar doel te verwezenlijken en haar werkzaamheden uit te oefenen.
 
@@ -339,13 +361,13 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 4). De Directeur-Generaal kan de onderhandelingen voeren betreffende de overeenkomsten bedoeld in het tweede en derde lid en deze, na goedkeuring door de Coördinatiecommissie, sluiten en ondertekenen uit naam van de Organisatie.
 
-#### Artikel 13. Betrekkingen met andere organisaties
+##### Artikel 13. Betrekkingen met andere organisaties
 
 1). Indien zij zulks dienstig acht, knoopt de Organisatie betrekkingen omtrent het verrichten van werkzaamheden aan en werkt zij samen met andere intergouvernementele organisaties. Elke hiertoe met deze organisaties aangegane algemene overeenkomst wordt gesloten door de Directeur-Generaal, na goedkeuring door de Coördinatiecommissie.
 
 2). De Organisatie kan terzake van binnen haar bevoegdheid liggende vragen alle passende maatregelen nemen, zowel met het oog op raadpleging van niet-gouvernementele internationale organisaties en, onder voorbehoud van de toestemming van de betrokken Regeringen, van gouvernementele of niet-gouvernementele nationale organisaties, als met het oog op samenwerking met genoemde organisaties. Zodanige regelingen worden getroffen door de Directeur-Generaal, na goedkeuring door de Coördinatiecommissie.
 
-#### Artikel 14. Wijzen waarop Staten partij bij het Verdrag kunnen worden
+##### Artikel 14. Wijzen waarop Staten partij bij het Verdrag kunnen worden
 
 1). De Staten bedoeld in artikel 5 kunnen partij bij dit Verdrag en lid van de Organisatie worden door:
 
@@ -363,17 +385,17 @@ Ter verwezenlijking van het doel, omschreven in artikel 3, verricht de Organisat
 
 3). De akten van bekrachtiging of toetreding worden nedergelegd bij de Directeur-Generaal.
 
-#### Artikel 15. Inwerkingtreding van het Verdrag
+##### Artikel 15. Inwerkingtreding van het Verdrag
 
 1). Dit Verdrag treedt in werking drie maanden nadat tien Lid-Staten van de Unie van Parijs en zeven Lid-Staten van de Unie van Bern één der handelingen bedoeld in het eerste lid van artikel 14 hebben verricht met dien verstande dat elke Lid-Staat van de twee Unies in beide groepen wordt geteld. Op die datum treedt dit Verdrag tevens in werking ten aanzien van de Staten die, geen lid van een der Unies zijnde, drie maanden of langer vóór genoemde datum één der handelingen bedoeld in het eerste lid van artikel 14 hebben verricht.
 
 2). Ten aanzien van andere Staten treedt dit Verdrag in werking drie maanden na de datum waarop deze Staten één der handelingen bedoeld in het eerste lid van artikel 14 hebben verricht.
 
-#### Artikel 16. Voorbehouden
+##### Artikel 16. Voorbehouden
 
 Ten aanzien van dit Verdrag is geen voorbehoud toegestaan.
 
-#### Artikel 17. Wijzigingen
+##### Artikel 17. Wijzigingen
 
 1). Voorstellen tot wijziging van dit Verdrag kunnen worden ingediend door iedere Lid-Staat, door de Coördinatiecommissie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan het onderzoek der Conferentie worden onderworpen, medegedeeld aan de Lid-Staten.
 
@@ -381,13 +403,13 @@ Ten aanzien van dit Verdrag is geen voorbehoud toegestaan.
 
 3). Elke wijziging wordt van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden grondwettelijke procedures, door drie vierde van de Staten die op het tijdstip waarop de wijziging door de Conferentie werd aangenomen, lid waren van de Organisatie en het recht hadden hun stem uit te brengen over de volgens het bepaalde in het tweede lid voorgestelde wijziging. Elke aldus aanvaarde wijziging bindt alle Staten die lid zijn van de Organisatie op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum lid worden; wijzigingen die de financiële verplichtingen van de Lid-Staten verzwaren, binden evenwel slechts die Staten die kennis hebben gegeven deze wijziging te aanvaarden.
 
-#### Artikel 18. Opzegging
+##### Artikel 18. Opzegging
 
 1). Elke Lid-Staat kan dit Verdrag opzeggen door een aan de Directeur-Generaal te richten schriftelijke kennisgeving.
 
 2). De opzegging wordt van kracht zes maanden na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen.
 
-#### Artikel 19. Kennisgevingen
+##### Artikel 19. Kennisgevingen
 
 De Directeur-Generaal stelt de Regeringen van alle Lid-Staten in kennis van:
 
@@ -399,7 +421,7 @@ De Directeur-Generaal stelt de Regeringen van alle Lid-Staten in kennis van:
 
 - iv). de opzeggingen van dit Verdrag.
 
-#### Artikel 20. Slotbepalingen
+##### Artikel 20. Slotbepalingen
 
 - a). Dit Verdrag wordt ondertekend in één enkel exemplaar in de Engelse, de Spaanse, de Franse en de Russische taal, welke teksten gelijkelijk gezaghebbend zijn; het wordt nedergelegd bij de Regering van Zweden.
 
@@ -411,7 +433,7 @@ De Directeur-Generaal stelt de Regeringen van alle Lid-Staten in kennis van:
 
 4). De Directeur-Generaal doet dit Verdrag registreren bij het Secretariaat van de Organisatie der Verenigde Naties.
 
-#### Artikel 21. Overgangsbepalingen
+##### Artikel 21. Overgangsbepalingen
 
 1). Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in dit Verdrag naar het Internationale Bureau of naar de Directeur-Generaal geacht betrekking te hebben op de Verenigde Internationale Bureaus voor de bescherming van de industriële, literaire en artistieke eigendom (ook genoemd Verenigde Internationale Bureaus voor de bescherming van de intellectuele eigendom (BIRPI)) onderscheidenlijk op hun Directeur.
 

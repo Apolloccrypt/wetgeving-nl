@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel"
+title: "Besluit van de Minister van Justitie en Veiligheid van 29 januari 2022, kenmerk 3817562, houdende instelling van de Commissie Waarborgen Werken Onder Dekmantel (Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel)"
 identifier: "BWBR0046458"
-categorie: "Overig"
-publicatiedatum: 2022-03-24
-laatste_update: 2022-03-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046458"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-03-24"
+last_updated: "2022-03-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046458"
+soort: "ministeriele-regeling"
+stam_id: "16304623"
+version_id: "28491532"
+internal_id: "C40205571"
+label_id: "16230194"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046458/2022-03-24/0"
+intitule_bron: "Stcrt.2022-7403"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-29"
+intitule_published: "2022-03-23"
+intitule_in_force: "2022-03-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-7403"
+original_signed_date: "2022-01-29"
+original_published_date: "2022-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-7403"
+entry_into_force_date: "2022-03-24"
+jci_1_3: "jci1.3:c:BWBR0046458&z=2022-03-24&g=2022-03-24"
+jci_1_0: "1.0:c:BWBR0046458&g=2022-03-24"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel"
+signed_date: "2022-01-29"
+entry_into_force: "2022-03-24"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 29 januari 2022, kenmerk 3817562, houdende instelling van de Commissie Waarborgen Werken Onder Dekmantel (Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **commissie:** Commissie Waarborgen Werken Onder Dekmantel
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een commissie Waarborgen Werken Onder Dekmantel.
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - c. Toetsen op de voortgang van de uitvoering van de aanbevelingen van de commissie Brouwer door middel van visitaties. Daarbij dient te worden beoordeeld of de verbeteringen bij het team WOD doelmatig en doeltreffend worden uitgevoerd en of de waarborgen in sturing en leiderschap voldoende worden ingevuld.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit een voorzitter en twee andere leden.
 
@@ -48,7 +74,7 @@ In dit besluit wordt verstaan onder:
 
 6. De voorzitter en de andere leden kunnen worden geschorst en ontslagen door de minister.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 1. Voor de duur van de commissie worden tot lid van de commissie benoemd:
 
@@ -58,13 +84,13 @@ In dit besluit wordt verstaan onder:
 
 - c. dhr. Prof. Dr. E.W. Kolthoff.
 
-#### Artikel 5. Instellingsduur
+##### Artikel 5. Instellingsduur
 
 1. De commissie wordt ingesteld met ingang van de datum van inwerkingtreding van dit besluit.
 
 2. De commissie wordt vier weken nadat het eindrapport is uitgebracht opgeheven.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 5. Aan het secretariaat kunnen medewerkers worden toegevoegd.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast.
 
@@ -88,7 +114,7 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie kan zich door andere personen doen bijstaan voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 8. Inwinnen van inlichtingen
+##### Artikel 8. Inwinnen van inlichtingen
 
 1. De commissie is bevoegd zich voor het inwinnen van inlichtingen rechtstreeks te wenden tot personen en instellingen en hen te verzoeken die medewerking te verlenen die redelijkerwijs nodig is voor de taakuitvoering van de commissie.
 
@@ -100,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie zal zich over de aan haar geboden medewerking verantwoorden in haar eindrapport.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 18, trede 10, zoals opgenomen in de bijlage bij de meest recente CAO Rijk en de arbeidsduurfactor op 12/36.
 
@@ -108,7 +134,7 @@ In dit besluit wordt verstaan onder:
 
 3. De leden ontvangen een vergoeding voor reiskosten gebaseerd op de voet van de regeling, bedoeld in [artikel 2, tweede lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
-#### Artikel 10. Kosten van de commissie
+##### Artikel 10. Kosten van de commissie
 
 1. De kosten van de commissie komen, voor zover op basis van een door de minister goedgekeurde raming, voor rekening van het Ministerie van Justitie en Veiligheid. Onder kosten worden in ieder geval verstaan:
 
@@ -120,11 +146,11 @@ In dit besluit wordt verstaan onder:
 
 2. De commissie biedt zo spoedig mogelijk na haar instelling een kostenraming aan de minister aan.
 
-#### Artikel 11. Huisvesting
+##### Artikel 11. Huisvesting
 
 De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie van Justitie en Veiligheid.
 
-#### Artikel 12. Eindrapport
+##### Artikel 12. Eindrapport
 
 1. De commissie brengt uiterlijk in het laatste kwartaal 2022 haar eindrapport uit aan de minister.
 
@@ -132,17 +158,17 @@ De commissie verricht haar werkzaamheden op een locatie buiten het Ministerie va
 
 3. De minister beslist over de eventuele verlenging van de termijn, bedoeld in het eerste lid, en brengt de commissie daarvan schriftelijke op de hoogte.
 
-#### Artikel 13. Archiefbescheiden
+##### Artikel 13. Archiefbescheiden
 
 1. De commissie draagt uiterlijk zes weken na oplevering van het rapport, of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Justitie en Veiligheid.
 
 2. Het archief zoals bedoeld in het eerste lid bevat tenminste de documenten die ten grondslag hebben gelegen aan de onderzoeksbevindingen en het rapport. Over de inhoud van het archief worden nadere afspraken gemaakt in het onder [artikel 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0046458&artikel=7&z=2022-03-24&g=2022-03-24) genoemde protocol.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie Waarborgen Werken Onder Dekmantel
 

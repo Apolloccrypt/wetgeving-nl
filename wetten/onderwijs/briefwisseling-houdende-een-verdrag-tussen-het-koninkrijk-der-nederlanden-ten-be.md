@@ -1,13 +1,35 @@
 ---
 title: "Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de tiende zitting van de intergouvernementele coördinatiegroep van de Intergouvernementele Oceanografische Commissie (IOC) voor het waarschuwingssysteem voor tsunami's en andere kustbedreigingen voor de Caribische en aangrenzende regio's (ICG/CARIBE EWS-X), Philipsburg, Sint Maarten, van 19 tot 21 mei 2015"
 identifier: "BWBV0006485"
-categorie: "Onderwijs"
-publicatiedatum: 2016-04-10
-laatste_update: 2016-04-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006485"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-04-10"
+last_updated: "2016-04-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006485"
+soort: "verdrag"
+stam_id: "10005285113"
+version_id: "10005679732"
+internal_id: "C10008794851"
+label_id: "10005267934"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006485/2016-04-10/0"
+intitule_bron: "Trb.2015-64"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2015-04-22"
+intitule_in_force: "2015-04-22"
+intitule_status: "vervallen"
+original_publication: "Trb.2015-64"
+original_published_date: "2015-04-22"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2015-64"
+entry_into_force_date: "2016-04-10"
+jci_1_3: "jci1.3:c:BWBV0006485&z=2016-04-10&g=2016-04-10"
+jci_1_0: "1.0:c:BWBV0006485&g=2016-04-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-04-10"
 ---
-
 # Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Sint Maarten, en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (UNESCO) betreffende de tiende zitting van de intergouvernementele coördinatiegroep van de Intergouvernementele Oceanografische Commissie (IOC) voor het waarschuwingssysteem voor tsunami's en andere kustbedreigingen voor de Caribische en aangrenzende regio's (ICG/CARIBE EWS-X), Philipsburg, Sint Maarten, van 19 tot 21 mei 2015
 
 UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL ORGANIZATION
@@ -26,63 +48,63 @@ Whereas the ICG/CARIBE EWS is a subsidiary body established by the IOC Assembly 
 
 With the present letter, I wish to obtain acceptance of the following:
 
-#### Article I. Purpose
+##### Article I. Purpose
 
 Vervallen
 
-#### Article II. Date and Place of the Session
+##### Article II. Date and Place of the Session
 
 Vervallen
 
-#### Article III. Principles
+##### Article III. Principles
 
 Vervallen
 
-#### Article IV. Participation
+##### Article IV. Participation
 
 Vervallen
 
-#### Article V. Organization of the Meeting
+##### Article V. Organization of the Meeting
 
 Vervallen
 
-#### Article VI. Accommodation
+##### Article VI. Accommodation
 
 Vervallen
 
-#### Article VII. Medical Assistance
+##### Article VII. Medical Assistance
 
 Vervallen
 
-#### Article VIII. Transport
+##### Article VIII. Transport
 
 Vervallen
 
-#### Article IX. Security Protection
+##### Article IX. Security Protection
 
 Vervallen
 
-#### Article X. Local Personnel
+##### Article X. Local Personnel
 
 Vervallen
 
-#### Article XI. Damage and Accidents
+##### Article XI. Damage and Accidents
 
 Vervallen
 
-#### Article XII. Privileges and Immunities
+##### Article XII. Privileges and Immunities
 
 Vervallen
 
-#### Article XIII. Visas
+##### Article XIII. Visas
 
 Vervallen
 
-#### Article XIV. Settlement of Disputes
+##### Article XIV. Settlement of Disputes
 
 Vervallen
 
-#### Article XV. Final Provision
+##### Article XV. Final Provision
 
 Vervallen
 

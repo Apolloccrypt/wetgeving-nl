@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de wederkerige erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken"
 identifier: "BWBV0004295"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1969-09-21
-laatste_update: 1969-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004295"
+country: "nl"
+rank: "verdrag"
+publication_date: "1969-09-21"
+last_updated: "1969-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004295"
+soort: "verdrag"
+stam_id: "10004039953"
+version_id: "10004207582"
+internal_id: "C10008341471"
+label_id: "10004024434"
+dtd_version: "2.0"
+original_entry_into_force: "1969-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004295/1969-09-21/0"
+intitule_bron: "Trb.1967-197"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-12-15"
+intitule_in_force: "1969-08-19"
+intitule_status: "goed"
+original_publication: "Trb.1967-197"
+original_published_date: "1967-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-197"
+entry_into_force_date: "1969-09-21"
+jci_1_3: "jci1.3:c:BWBV0004295&z=1969-09-21&g=1969-09-21"
+jci_1_0: "1.0:c:BWBV0004295&g=1969-09-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1969-09-21"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland betreffende de wederkerige erkenning en tenuitvoerlegging van vonnissen in burgerlijke zaken
 
 Hare Majesteit de Koningin der Nederlanden en
@@ -36,7 +58,7 @@ Het onderhavige Verdrag is in de verhouding Nederland-Verenigd Koninkrijk vanaf 
 
 ### Algemene bepalingen
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,7 +78,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 6. „rechtsmiddel”: elke procedure die de strekking heeft een vonnis te vernietigen of buiten werking te stellen, alsook een verzoek om een nieuwe berechting van de zaak of om schorsing van de tenuitvoerlegging.
 
-#### Artikel II
+##### Artikel II
 
 1. Onverminderd het bepaalde bij het tweede en het vierde lid van dit artikel is dit Verdrag van toepassing op vonnissen in burgerlijke zaken, die na het tijdstip van inwerkingtreding van dit Verdrag zijn gewezen door de navolgende gerechten:
 
@@ -82,7 +104,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### Erkenning van vonnissen
 
-#### Artikel III
+##### Artikel III
 
 1. Voor de toepassing van dit Verdrag heeft erkenning van een vonnis tot gevolg, dat dit wordt geacht gezag van gewijsde te bezitten tussen de betrokken partijen in alle gedingen berustende op dezelfde oorzaak; in deze gedingen kan op de beslissing een beroep worden gedaan bij wijze van verweer of als grondslag voor een tegenvordering.
 
@@ -106,7 +128,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. Erkenning wordt niet geweigerd op de enkele grond dat het oorspronkelijke gerecht bij zijn keuze van het op de zaak toepasselijke rechtsstelsel regels van internationaal privaatrecht heeft toegepast die afwijken van die welke door het aangezochte gerecht worden in acht genomen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Voor de toepassing van artikel III, tweede lid, onder a, zijn, onverminderd het bepaalde in het tweede tot vierde lid van dit artikel, de gerechten van het land van het oorspronkelijke gerecht bevoegd:
 
@@ -128,7 +150,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### Tenuitvoerlegging van vonnissen
 
-#### Artikel V
+##### Artikel V
 
 1. Onverminderd het bepaalde in het tweede lid van dit artikel wordt een in het gebied van een der Hoge Verdragsluitende Partijen gewezen vonnis ingevolge hetwelk een geldsom is verschuldigd, in het gebied van de andere ten uitvoer gelegd op de wijze bepaald in de artikelen VI tot VIII van dit Verdrag,
 
@@ -142,7 +164,7 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 2. Indien de schuldenaar ten genoegen van het aangezochte gerecht aantoont, dat een rechtsmiddel is ingesteld of dat hij gerechtigd is om een rechtsmiddel aan te wenden en ook voornemens is dit te doen, dan behoeft de tenuitvoerlegging van het vonnis niet te worden toegestaan en kan het aangekochte gerecht die maatregelen treffen, die naar zijn interne wet geoorloofd zijn.
 
-#### Artikel VI
+##### Artikel VI
 
 1. Alvorens een in het gebied van het Koninkrijk der Nederlanden gewezen vonnis in het Verenigd Koninkrijk kan worden ten uitvoer gelegd, moet de schuldeiser zich op de daartoe door het aangezochte gerecht voorgeschreven wijze met een verzoek om registratie wenden:
 
@@ -164,7 +186,7 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 4. Indien een verzoek is gedaan in overeenstemming met het eerste en het tweede lid van dit artikel en het desbetreffende vonnis voldoet aan artikel V, wordt de registratie verleend.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Alvorens een in het gebied van het Verenigd Koninkrijk gewezen vonnis in het Koninkrijk der Nederlanden kan worden ten uitvoer gelegd, moet de schuldeiser overeenkomstig de bij het aangezochte gerecht voorgeschreven wijze een verzoek om verlof tot tenuitvoerlegging richten tot de rechtbank van het arrondissement waar de schuldenaar woonplaats of vermogen heeft.
 
@@ -180,7 +202,7 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 4. Indien een verzoek is gedaan in overeenstemming met het eerste en het tweede lid van dit artikel en het desbetreffende vonnis voldoet aan artikel V, wordt het verlof tot tenuitvoerlegging verleend.
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. Een vonnis heeft van de datum af waarop registratie ingevolge artikel VI of verlof tot tenuitvoerlegging ingevolge artikel VII is verleend, voor wat betreft de tenuitvoerlegging uit krachte van die registratie of dat verlof, in het land van het aangezochte gerecht dezelfde kracht als ware het een vonnis dat op die datum in dat land zelf was gewezen.
 
@@ -200,11 +222,11 @@ met dien verstande, dat de beslissing niet zal worden ten uitvoer gelegd, indien
 
 ### Slotbepalingen
 
-#### Artikel IX
+##### Artikel IX
 
 Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing van dit Verdrag worden opgelost langs de diplomatieke weg.
 
-#### Artikel X
+##### Artikel X
 
 1. De Regeringen van de Hoge Verdragsluitende Partijen kunnen op elk tijdstip door Notawisseling de werking van dit Verdrag uitbreiden tot:
 
@@ -222,7 +244,7 @@ Alle geschillen die mochten rijzen in verband met de uitlegging of toepassing va
 
 6. De opzegging van dit Verdrag ingevolge artikel XI heeft ook gevolg voor een gebied, waartoe de werking van het Verdrag is uitgebreid ingevolge het eerste lid van dit artikel, tenzij door de Hoge Verdragsluitende Partijen uitdrukkelijk anders is overeengekomen.
 
-#### Artikel XI
+##### Artikel XI
 
 Dit Verdrag zal worden bekrachtigd. De oorkonden van bekrachtiging zullen te Londen worden uitgewisseld. Het Verdrag zal drie maanden nadat de oorkonden van bekrachtiging zijn uitgewisseld in werking treden en het zal gedurende drie jaar na zijn inwerkingtreding van kracht blijven. Indien geen van de Hoge Verdragsluitende Partijen de andere tenminste zes maanden vóór het verstrijken van de vermelde termijn van drie jaar langs de diplomatieke weg heeft kennis gegeven van zijn wens het Verdrag op te zeggen, dan zal het van kracht blijven tot op de dag waarop zes maanden verstreken zijn na de datum waarop een van de Hoge Verdragsluitende Partijen van de opzegging zal hebben kennis gegeven.
 

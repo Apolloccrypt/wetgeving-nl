@@ -1,13 +1,38 @@
 ---
 title: "Verrekenprijsbesluit 2022"
 identifier: "BWBR0046839"
-categorie: "Overig"
-publicatiedatum: 2022-07-02
-laatste_update: 2022-07-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046839"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-07-02"
+last_updated: "2022-07-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046839"
+soort: "ministeriele-regeling"
+stam_id: "16402543"
+version_id: "28730582"
+internal_id: "C40617921"
+label_id: "16328104"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046839/2022-07-02/0"
+intitule_bron: "Stcrt.2022-16685"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-14"
+intitule_published: "2022-07-01"
+intitule_in_force: "2022-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16685"
+original_signed_date: "2022-06-14"
+original_published_date: "2022-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16685"
+entry_into_force_date: "2022-07-02"
+jci_1_3: "jci1.3:c:BWBR0046839&z=2022-07-02&g=2022-07-02"
+jci_1_0: "1.0:c:BWBR0046839&g=2022-07-02"
+citeertitel_status: "officieel"
+signed_date: "2022-06-14"
+entry_into_force: "2022-07-02"
 ---
-
 # Verrekenprijsbesluit 2022
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

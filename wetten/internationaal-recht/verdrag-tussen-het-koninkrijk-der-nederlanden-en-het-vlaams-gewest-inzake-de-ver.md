@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de verruiming van de vaarweg in de Westerschelde"
 identifier: "BWBV0001233"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-07-01
-laatste_update: 1996-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001233"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-07-01"
+last_updated: "1996-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001233"
+soort: "verdrag"
+stam_id: "10000918833"
+version_id: "10000957352"
+internal_id: "C10006986241"
+label_id: "10000919404"
+original_entry_into_force: "1996-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001233/1996-07-01/0"
+intitule_bron: "Trb.1995-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-06-28"
+intitule_published: "1995-02-15"
+intitule_in_force: "1996-09-13"
+intitule_status: "goed"
+original_publication: "Trb.1995-51"
+original_signed_date: "1996-06-28"
+original_published_date: "1995-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1995-51"
+entry_into_force_date: "1996-07-01"
+jci_1_3: "jci1.3:c:BWBV0001233&z=1996-07-01&g=1996-07-01"
+jci_1_0: "1.0:c:BWBV0001233&g=1996-07-01"
+citeertitel_status: "officieel"
+signed_date: "1996-06-28"
+entry_into_force: "1996-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake de verruiming van de vaarweg in de Westerschelde
 
 Het Koninkrijk der Nederlanden
@@ -32,7 +56,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -44,7 +68,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. BEPALINGEN INZAKE DE WERKEN
 
-#### Artikel 2. Omschrijving van de werken
+##### Artikel 2. Omschrijving van de werken
 
 1. De vaargeul wordt verruimd met het doel de in bijlage A opgenomen vaarmogelijkheden te verkrijgen.
 
@@ -60,7 +84,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. De in het tweede lid bedoelde werken worden nader beschreven in bijlage B (beschrijving van de werken) en bijlage C (schematische tekeningen). De bevoegde overheden stellen in onderling overleg de nodige nadere gegevens vast.
 
-#### Artikel 3. Voorbereiding, uitvoering en onderhoud van de werken
+##### Artikel 3. Voorbereiding, uitvoering en onderhoud van de werken
 
 1. Het Koninkrijk der Nederlanden draagt zorg voor de voorbereiding en de uitvoering van de in artikel 2, tweede lid onder a, b en c bedoelde werken, daaronder begrepen studie en onderzoek, het opmaken van plannen en aanbestedingsbescheiden, de aanbesteding en het toezicht.
 
@@ -72,13 +96,13 @@ In dit Verdrag wordt verstaan onder:
 
 5. Nadere regelingen met betrekking tot de in dit artikel, eerste en tweede lid, bedoelde bestekken en overeenkomsten zijn opgenomen in bijlage D.
 
-#### Artikel 4. Volgorde van de werkzaamheden
+##### Artikel 4. Volgorde van de werkzaamheden
 
 1. De in artikel 2, tweede lid onder a, bedoelde opruimingswerken en de in artikel 2, tweede lid onder b, bedoelde oeververdedigingswerken zullen zoveel als technisch mogelijk is gelijktijdig en gelijklopend worden uitgevoerd met de in artikel 2, tweede lid onder d, bedoelde verruimingswerken, met dien verstande, dat in beginsel drie jaar na het begin van de uitvoering van de verruimingswerken de uitvoering van alle oeververdedigingswerken schriftelijk moet zijn opgedragen.
 
 2. De uitvoeringsplanning van de werken is opgenomen in bijlage C, blad 3.
 
-#### Artikel 5. Kosten en betalingen
+##### Artikel 5. Kosten en betalingen
 
 1. Voor de toepassing van dit Verdrag wordt onder de kosten van de in artikel 2, eerste en tweede lid, bedoelde werken verstaan:
 
@@ -124,7 +148,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. AANVULLENDE BEPALINGEN
 
-#### Artikel 6. Technische Scheldecommissie
+##### Artikel 6. Technische Scheldecommissie
 
 1. De Technische Scheldecommissie volgt de voorbereiding, de uitvoering en het onderhoud van de in artikel 2, tweede lid, bedoelde werken en de monitoring, de studie en het onderzoek van de effecten die deze werken hebben op het watersysteem van de Westerschelde.
 
@@ -132,13 +156,13 @@ In dit Verdrag wordt verstaan onder:
 
 3. De bevoegde overheden kunnen in onderlinge overeenstemming de Technische Scheldecommissie opdragen advies uit te brengen over andere zaken die verband houden met de vaarweg in de Westerschelde.
 
-#### Artikel 7. Meetnetten en informatiesystemen
+##### Artikel 7. Meetnetten en informatiesystemen
 
 1. Partijen verbinden zich, elk voor wat haar bevoegdheden betreft, tot het instandhouden en exploiteren van aaneensluitende meetnetten en informatiesystemen voor de voorziening van hydro-meteogegevens met betrekking tot de vaarweg in en de toegangen tot de Westerschelde.
 
 2. Tussen de Nederlandse en de Vlaamse informatiesystemen wordt een koppeling aangebracht en in stand gehouden. De hydro-meteogegevens worden ter beschikking gesteld van de walradarketen langs de Westerschelde en haar mondingen.
 
-#### Artikel 8. Andere Projecten
+##### Artikel 8. Andere Projecten
 
 1. Partijen werken samen bij de studie van andere projecten verbonden met de ontwikkeling van de vaarwegfunctie van de Westerschelde, waaronder de studie van de vaarmogelijkheden vermeld in bijlage F en de studie van een tweede maritieme toegangsweg naar de Waaslandhaven. Over deze studies zal worden beraadslaagd in de Technische Scheldecommissie.
 
@@ -148,7 +172,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK IV. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 9. Beslechting van Geschillen
+##### Artikel 9. Beslechting van Geschillen
 
 1. Indien er tussen de Partijen een geschil ontstaat met betrekking tot de uitlegging of de toepassing van dit Verdrag, zullen de Partijen dit in de eerste plaats regelen door middel van onderhandeling.
 
@@ -158,21 +182,21 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 10. Status van de bijlagen
+##### Artikel 10. Status van de bijlagen
 
 De bijlagen vormen een geïntegreerd onderdeel van dit Verdrag.
 
-#### Artikel 11. Wijziging
+##### Artikel 11. Wijziging
 
 1. Door Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag, de bijlagen A, F en G daarbij inbegrepen, treden in werking op de dag waarop Partijen elkaar schriftelijk hebben meegedeeld dat aan de onderscheiden constitutionele vereisten is voldaan.
 
 2. Wijzigingen van de bijlagen B tot en met E worden schriftelijk overeengekomen tussen de bevoegde overheden en treden in werking op een door deze overheden te bepalen datum.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de maand volgend op de dag waarop Partijen elkaar schriftelijk hebben meegedeeld dat aan de onderscheiden constitutionele vereisten is voldaan.
 
-#### 1
+##### 1
 
 De volgende vaarmogelijkheden zullen onder alle gemiddelde getijomstandigheden (gemiddeld doodtij, gemiddeld tij, gemiddeld springtij) kunnen worden verkregen:
 
@@ -188,11 +212,11 @@ De volgende vaarmogelijkheden zullen onder alle gemiddelde getijomstandigheden (
 
 - f. getij-ongebonden vaart met een diepgang van 11,60 m bij een waterstand van GLLWS (gemiddeld-laag-laagwater-spring).
 
-#### 2
+##### 2
 
 Bij deze vaarmogelijkheden wordt een kielspeling volgens de IMO-definitie gehanteerd, zoals aangegeven in het Studierapport Verdieping Westerschelde, Programma 48'/43', van de Technische Scheldecommissie, juni 1984.
 
-#### 3
+##### 3
 
 Voor de bepaling van de drempeldiepten is uitgegaan van volgende brutokielspelingen:
 
@@ -200,11 +224,11 @@ Voor de bepaling van de drempeldiepten is uitgegaan van volgende brutokielspelin
 
 - b. ten oosten van Vlissingen 15% van de diepgang. Een andere kielspeling doet geen afbreuk aan de in deze bijlage genoemde vaarmogelijkheden en aan de in bijlage B genoemde interventiepeilen voor het baggeren.
 
-#### 4
+##### 4
 
 “Diepgang" is in deze bijlage de diepgang in zoet water, gemeten als de verticale afstand tussen de vlakke waterspiegel en het diepst gelegen punt van een stilliggend schip.
 
-#### 1. Opruimen van wrakken en obstakels
+##### 1. Opruimen van wrakken en obstakels
 
 a. Volledig verwijderd worden:
 
@@ -216,7 +240,7 @@ a. Volledig verwijderd worden:
 
 b. De overige wrakken en obstakels in de vaargeul en die in het redegebied en de anker- en noodankergebieden worden tot 2,5 m onder de aanlegdiepte verwijderd.
 
-#### 2. Oeververdedigingen
+##### 2. Oeververdedigingen
 
 a. De te verdedigen oevervakken zijn genummerd 1 tot en met 4. Ze zijn schematisch aangegeven in bijlage C, blad 1.
 
@@ -232,7 +256,7 @@ b. De randvoorwaarden voor het ontwerp van de oeververdedigingen zijn als volgt:
 
 - v. buiten de aan te brengen oeververdedigingen worden de nodige werken uitgevoerd om aan te sluiten aan de achterliggende hoogwaterkering en de aangrenzende verdedigde en onverdedigde oevers.
 
-#### 3. Herstelwerken in verband met het verlies aan natuurwaarden
+##### 3. Herstelwerken in verband met het verlies aan natuurwaarden
 
 a. De herstelwerken hebben tot doel ongewenste effecten op de natuurwaarden van de Westerschelde, die al dan niet rechtstreeks ontstaan als gevolg van het verruimingsbaggerwerk te voorkomen of te verminderen. Bij deze ongewenste effecten wordt gedacht aan verlies aan schor- en slikareaal, verlies aan diversiteit van milieutypen, verlies aan natuurlijke dynamiek en toename van het zwevende stofgehalte. De herstelwerken zelf horen de natuurlijke dynamische processen in de Westerschelde zo min mogelijk te belemmeren.
 
@@ -246,7 +270,7 @@ b. De herstelwerken kunnen bestaan uit:
 
 - iv. andere maatregelen om de onder a bedoelde ongewenste effecten te voorkomen of te verminderen.
 
-#### 4. Vaargeul, anker- en noodankergebieden
+##### 4. Vaargeul, anker- en noodankergebieden
 
 a. Om de in bijlage A vermelde vaarmogelijkheden te verwezenlijken, worden op de hierna genoemde drempels van de vaargeul, die schematisch zijn aangegeven in bijlage C, blad 2, de volgende interventiepeilen voor het baggeren aangehouden:
 
@@ -271,75 +295,75 @@ f. De stortplaatsen voor de baggerspecie worden bij vergunning aangewezen. Voor 
 
 g. Voor zover de werken niet in dit Verdrag zijn beschreven, geldt het bepaalde in het Studierapport Verdieping Westerschelde, Programma 48'/43', van de Technische Scheldecommissie (juni 1984), en het Rapport Verdieping Mondingsgebied Wielingen–Vlissingen, 48'/43' Programma, van de Technische Scheldecommissie (november 1987), als richtsnoer.
 
-#### 1
+##### 1
 
 De bevoegde overheden belasten elk een ambtenaar met de leiding van en het toezicht op de voorbereiding en de uitvoering van de werken. Deze ambtenaren plegen regelmatig onderling overleg over alle vraagstukken van gemeenschappelijk belang, die zich bij de voorbereiding, de uitvoering en het onderhoud voordoen. Ter verzekering van een goede voortgang van de werken ontvangen bedoelde ambtenaren de nodige machtigingen.
 
-#### 2
+##### 2
 
 De bestekken en overeenkomsten tot uitvoering van werken en leveringen van materialen behoeven de voorafgaande goedkeuring van de ambtenaren. De uitvoering van de werken en de levering van materialen worden in onderlinge overeenstemming tussen de bevoegde overheden opgedragen met inachtneming van het ter zake relevante recht van de Europese Gemeenschap, in het bijzonder de voorschriften op het terrein van overheidsaanbestedingen en de in Nederland en het Vlaams Gewest ter zake bestaande verbintenissen.
 
-#### 3
+##### 3
 
 In gevallen waarin een openbare aanbesteding niet mogelijk of niet wenselijk is, kan, in onderlinge overeenstemming tussen de bevoegde overheden en met inachtneming van het ter zake relevante recht van de Europese Gemeenschap, in het bijzonder de voorschriften op het terrein van overheidsaanbestedingen, een andere procedure worden gevolgd. Daarbij behoeft de keuze van de uit te nodigen aannemers of leveranciers de voorafgaande instemming van de bevoegde overheden, of, wanneer het werken of leveringen betreft waarvan de raming een bedrag van f 1.000.000 niet overschrijdt, van de ambtenaren.
 
-#### 4
+##### 4
 
 Tijdens de uitvoering noodzakelijk of wenselijk blijkende wijzigingen, afwijkingen of aanvullingen van de overeenkomstig punt 2 of 3 goedgekeurde stukken worden door de betrokken ambtenaar aan de ambtenaar van de andere bevoegde overheid ter goedkeuring voorgelegd.
 
-#### 5
+##### 5
 
 Indien de in punt 4 bedoelde wijzigingen, afwijkingen of aanvullingen tot gevolg zouden hebben dat de kosten worden verhoogd met meer dan 10% van de aannemingssom, is de goedkeuring van de bevoegde overheden vereist, zulks echter met dien verstande dat deze goedkeuring bij afwijkingen beneden de f 250.000 niet, en boven de f 1.000.000 steeds is vereist.
 
-#### 6
+##### 6
 
 Indien onvoorziene werken of maatregelen nodig zijn die een spoedeisend karakter hebben, kunnen deze worden uitgevoerd of getroffen zonder dat de in punt 4 of 5 bedoelde goedkeuring is verkregen. In deze gevallen stelt de betrokken ambtenaar de ambtenaar van de andere bevoegde overheid zo spoedig mogelijk daarvan in kennis.
 
-#### 1
+##### 1
 
 Het Koninkrijk der Nederlanden stelt het in artikel 5, derde lid onder b, genoemde totaalbedrag van f 54 miljoen in drie gelijke termijnen ter beschikking, telkens aan het begin van de jaren 1996, 1997 en 1998. Wanneer in enig jaar dit bedrag niet volledig kan worden besteed, wordt het overschot toegevoegd aan het bedrag van het volgende of, zonodig, het navolgend jaar. De Nederlandse bevoegde overheid declareert vervolgens bij de Vlaamse bevoegde overheid de overige van de in artikel 5, eerste lid, bedoelde kosten, voor zover deze kosten ingevolge het bepaalde in artikel 5, vierde lid, ten laste komen van het Vlaams Gewest.
 
-#### 2
+##### 2
 
 Het Vlaams Gewest koopt de kosten van voorbereiding en uitvoering van de herstelwerken, bedoeld in artikel 5, eerste lid onder c, bij het Koninkrijk der Nederlanden af voor het in artikel 5, derde lid onder c, genoemde totaalbedrag van f 44 miljoen. De Nederlandse bevoegde overheid declareert dit bedrag in drie gelijke termijnen bij de Vlaamse bevoegde overheid, telkens aan het begin van de jaren 1996, 1997 en 1998.
 
-#### 3
+##### 3
 
 Na afloop van iedere kalendermaand zendt de Nederlandse bevoegde overheid aan de Vlaamse bevoegde overheid per aangetekende post de in punt 1 bedoelde declaratie, dan wel een afrekening in verband met het in punt 1 bedoelde door het Koninkrijk der Nederlanden ter beschikking gestelde bedrag. De declaratie heeft betrekking op de rekeningen voor kosten conform de bepalingen van dit Verdrag, die in de desbetreffende kalendermaand door de Nederlandse bevoegde overheid zijn ontvangen of opgesteld. De declaratie is voorzien van de nodige bewijsstukken.
 
-#### 4
+##### 4
 
 Vergoedingen voor de ingebruikneming van door het Koninkrijk der Nederlanden voor de werken ter beschikking gestelde gronden of materialen worden, voor zover niet inbegrepen in de rekeningen van derden, gedeclareerd na afloop van de maand waarop ze ter beschikking zijn gesteld.
 
-#### 5
+##### 5
 
 De Vlaamse bevoegde overheid betaalt de declaratie binnen zes weken na ontvangst aan de Nederlandse bevoegde overheid.
 
-#### 6
+##### 6
 
 Bij overschrijding van de in punt 5 genoemde termijn is de Vlaamse bevoegde overheid voor de duur van de overschrijding gedurende de eerste zes maanden een enkelvoudige rentevergoeding verschuldigd ter hoogte van de wettelijke rente in Nederland, verhoogt met 1%. Vanaf de zevende maand van overschrijding is samengestelde rente verschuldigd.
 
-#### 7
+##### 7
 
 Indien de Vlaamse bevoegde overheid bezwaar maakt tegen één of meer van de in de declaratie voorkomende bedragen, stelt zij de Nederlandse bevoegde overheid hiervan binnen vier weken na ontvangst van de declaratie per aangetekende post in kennis. Voor het niet betwiste deel van de declaratie geldt de betalingstermijn van punt 5. Over het betwiste deel van de declaratie nemen de bevoegde overheden binnen één maand een besluit. De rentevergoeding over dit deel is als punt 6.
 
-#### 1
+##### 1
 
 Het in artikel 9 van dit Verdrag genoemde gerecht bestaat uit drie scheidsmannen, van wie elke partij er één benoemt. De twee aldus gekozen scheidsmannen bereiken overeenstemming over de derde scheidsman. Deze derde scheidsman mag geen onderdaan zijn van, niet in dienst zijn van en niet zijn gewone verblijfplaats hebben in het Koninkrijk der Nederlanden of het Koninkrijk België. Elk van de Partijen wijst een scheidsman aan binnen een termijn van dertig dagen vanaf de datum waarop één van de Partijen van de andere Partij een diplomatieke nota heeft ontvangen waarin om een scheidsrechterlijke beslissing wordt verzocht. Over de derde scheidsman wordt binnen een volgende termijn van dertig dagen overeenstemming bereikt. Indien één van de Partijen haar eigen scheidsman niet aanwijst binnen de termijn van dertig dagen of indien over de derde scheidsman niet binnen de genoemde termijn overeenstemming is bereikt, kan de President van het Internationale Gerechtshof door één van de Partijen worden verzocht een scheidsman of scheidsmannen te benoemen.
 
-#### 2
+##### 2
 
 Het gerecht regelt zijn eigen werkwijze.
 
-#### 3
+##### 3
 
 Het gerecht beslist bij meerderheid van stemmen.
 
-#### 4
+##### 4
 
 De kosten van het gerecht worden door beide Partijen, elk voor de helft, gedragen. Elke Partij draagt de kosten van zijn vertegenwoordiging in het geding.
 
-#### 5
+##### 5
 
 Het gerecht kan in elke stand van het geding, na Partijen te hebben gehoord, de conservatoire maatregelen voorschrijven die het noodzakelijk acht, of reeds voorgeschreven conservatoire maatregelen intrekken. Zodanige maatregelen lopen niet vooruit op beslissingen in het geding zelf.
 

@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024"
+title: "Besluit van de Minister van Economische Zaken van 9 november 2024, nr. DGED/DE, 53066414, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van niet-landelijke commerciële FM-vergunningen en de niet-landelijke commerciële DAB-vergunningen (Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024)"
 identifier: "BWBR0050459"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-11-26
-laatste_update: 2024-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050459"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-26"
+last_updated: "2024-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050459"
+soort: "ministeriele-regeling"
+stam_id: "17283993"
+version_id: "30442482"
+internal_id: "C43653611"
+label_id: "17188474"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050459/2024-11-26/0"
+intitule_bron: "Stcrt.2024-36945"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-09"
+intitule_published: "2024-11-25"
+intitule_in_force: "2024-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36945"
+original_signed_date: "2024-11-09"
+original_published_date: "2024-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36945"
+entry_into_force_date: "2024-11-26"
+jci_1_3: "jci1.3:c:BWBR0050459&z=2024-11-26&g=2024-11-26"
+jci_1_0: "1.0:c:BWBR0050459&g=2024-11-26"
+citeertitel_status: "officieel"
+short_title: "Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024"
+signed_date: "2024-11-09"
+entry_into_force: "2024-11-26"
 ---
-
 # Besluit van de Minister van Economische Zaken van 9 november 2024, nr. DGED/DE, 53066414, handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, inzake de keuze voor het instrument veiling voor de uitgifte van niet-landelijke commerciële FM-vergunningen en de niet-landelijke commerciële DAB-vergunningen (Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024)
 
 Gelet op [artikel 3.10, vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10), en [artikel 17 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De vergunningen voor niet-landelijke commerciële radio-omroep in de FM-band en de DAB-band (174–230 MHz), genoemd in tabellen 1 en 2, worden, met de daaraan te verbinden voorschriften en beperkingen, verleend met toepassing van een veiling als bedoeld in [artikel 3.10, eerste lid, aanhef en onderdeel f, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.10).
 
@@ -58,19 +84,19 @@ De vergunningen voor niet-landelijke commerciële radio-omroep in de FM-band en 
 | 12B | Utrecht en Gelderland | HOL2406 | 8 | 32,38 | 19,77% |
 | 7C-Z | Noord Brabant en Limburg | HOL2407 | 5 | 32,39 | 21,07% |
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvraag- en veilingprocedure vangt aan op de datum waarop de [Regeling aanvraag- en veilingprocedure vergunningen niet-landelijke commerciële radio-omroep 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0050462) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 De voorschriften en beperkingen inclusief de (technische) bijlagen behorende bij de vergunningen voor niet-landelijke commerciële radio-omroep in de FM-band en de DAB-band, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050459&artikel=1&z=2024-11-26&g=2024-11-26), worden voor zover dat reeds mogelijk is, vastgesteld in [bijlagen 1 tot en met 39](https://wetten.overheid.nl/jci1.3:c:BWBR0050459&bijlage=1&z=2024-11-26&g=2024-11-26).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit bekendmaking veiling vergunningen niet-landelijke commerciële radio-omroep 2024.
 

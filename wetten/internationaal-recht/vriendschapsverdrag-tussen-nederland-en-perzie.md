@@ -1,13 +1,37 @@
 ---
 title: "Vriendschapsverdrag tussen Nederland en Perzië"
 identifier: "BWBV0006001"
-categorie: "Internationaal recht"
-publicatiedatum: 1931-01-17
-laatste_update: 1931-01-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006001"
+country: "nl"
+rank: "verdrag"
+publication_date: "1931-01-17"
+last_updated: "1931-01-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006001"
+soort: "verdrag"
+stam_id: "10004978083"
+version_id: "10005296432"
+internal_id: "C10008153251"
+label_id: "10004961294"
+dtd_version: "2.0"
+original_entry_into_force: "1931-01-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006001/1931-01-17/0"
+intitule_bron: "Stb.1931-5"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1931-01-05"
+intitule_published: "1931-01-20"
+intitule_in_force: "1931-01-20"
+intitule_status: "goed"
+original_publication: "Stb.1931-5"
+original_signed_date: "1931-01-05"
+original_published_date: "1931-01-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1931-01-17"
+jci_1_3: "jci1.3:c:BWBV0006001&z=1931-01-17&g=1931-01-17"
+jci_1_0: "1.0:c:BWBV0006001&g=1931-01-17"
+citeertitel_status: "redactioneel"
+signed_date: "1931-01-05"
+entry_into_force: "1931-01-17"
 ---
-
 # Vriendschapsverdrag tussen Nederland en Perzië
 
 Hare Majesteit de Koningin der Nederlanden eenerzijds
@@ -28,15 +52,15 @@ Zijne Excellentie M. MOHAMAD ALI KHAN FARZINE, Minister van Buitenlandsche Zaken
 
 die na elkaar mededeeling te hebben gedaan van hun wederzijdsche volmachten, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende bepalingen zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Er zal een onschendbare vrede en oprechte en voortdurende vriendschap bestaan tusschen het Keizerrijk Perzië en het Koninkrijk der Nederlanden, evenals tusschen de onderdanen der twee Staten.
 
-#### Artikel 2
+##### Artikel 2
 
 De Hooge Verdragsluitende Partijen komen overeen om Hun diplomatieke betrekkingen voort te zetten in overeenstemming met de grondbeginselen en de practijk van het algemeene internationale recht. Zij komen overeen, dat de diplomatieke vertegenwoordigers van elk Harer op het grondgebied van de andere, onder voorwaarde van wederkeerigheid, de door de grondbeginselen en de practijk van het algemeene internationale recht bevestigde behandeling zullen genieten, een behandeling, die in geen enkel geval, minder gunstig kan zijn, dan die wordt toegekend aan de diplomatieke vertegenwoordigers van de meest begunstigde natie.
 
-#### Artikel 3
+##### Artikel 3
 
 De Hooge Verdragsluitende Partijen komen overeen om aan arbitrage te onderwerpen alle geschillen, die tusschen Haar mochten rijzen naar aanleiding van de toepassing of de uitlegging der bepalingen van alle verdragen en overeenkomsten, die tusschen Haar zijn of zullen worden gesloten, artikel 2 van dit Verdrag daaronder begrepen, en welke niet binnen redelijken tijd op vriendschappelijke wijze zouden kunnen worden opgelost langs den gewonen diplomatieken weg.
 
@@ -56,7 +80,7 @@ Ten aanzien van elk ander geschil dan die, welke betrekking hebben op de toepass
 
 De Hooge Verdragsluitende Partijen komen bovendien overeen, dat, voor het geval zij verder mochten toetreden tot de Algemeene Akte van Arbitrage van 26 September 1928 of tot het protocol nopens de verplichte aanvaarding van de bevoegdheid van het Permanente Hof van Internationale Justitie van 16 December 1920, de bepalingen van die overeenkomsten eventueel zullen worden toegepast, niettegenstaande de bepalingen van dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit verdrag zal bekrachtigd worden en de bekrachtigingsoorkonden zullen zoo spoedig mogelijk worden uitgewisseld. Het zal van kracht worden een maand na de uitwisseling der bekrachtigingsoorkonden.
 

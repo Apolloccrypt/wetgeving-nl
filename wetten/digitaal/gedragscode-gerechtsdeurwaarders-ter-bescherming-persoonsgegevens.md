@@ -1,13 +1,37 @@
 ---
 title: "Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens"
 identifier: "BWBR0016119"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2004-03-03
-laatste_update: 2004-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016119"
+country: "nl"
+rank: "pbo"
+publication_date: "2004-03-03"
+last_updated: "2004-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016119"
+soort: "pbo"
+stam_id: "6698923"
+version_id: "11534952"
+internal_id: "C15554171"
+label_id: "6687374"
+original_entry_into_force: "2004-03-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016119/2004-03-03/0"
+intitule_bron: "Stcrt.2004-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-12"
+intitule_published: "2004-02-18"
+intitule_in_force: "2004-02-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-33"
+original_signed_date: "2003-12-12"
+original_published_date: "2004-02-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-33-p19-SC63821"
+entry_into_force_date: "2004-03-03"
+jci_1_3: "jci1.3:c:BWBR0016119&z=2004-03-03&g=2004-03-03"
+jci_1_0: "1.0:c:BWBR0016119&g=2004-03-03"
+citeertitel_status: "officieel"
+signed_date: "2003-12-12"
+entry_into_force: "2004-03-03"
 ---
-
 # Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens
 
 Overwegende,
@@ -24,7 +48,7 @@ Besluit:
 
 de Gedragscode gerechtsdeurwaarders ter bescherming van persoonsgegevens als volgt vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze gedragscode wordt verstaan onder:
 
@@ -48,7 +72,7 @@ In deze gedragscode wordt verstaan onder:
 
 - j. **verzamelen van persoonsgegevens:** het verkrijgen van persoonsgegevens.
 
-#### Artikel 2. Doelomschrijving
+##### Artikel 2. Doelomschrijving
 
 De verwerking van persoonsgegevens door de gerechtsdeurwaarder geschiedt ten behoeve van:
 
@@ -56,11 +80,11 @@ De verwerking van persoonsgegevens door de gerechtsdeurwaarder geschiedt ten beh
 
 - b. de uitoefening van niet ambtelijke werkzaamheden als bedoeld in [artikel 20 Gerechtsdeurwaarderswet.](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=20)
 
-#### Artikel 3. Categorieën van wederpartijen
+##### Artikel 3. Categorieën van wederpartijen
 
 De persoonsgegevens die verwerkt worden en die onder deze Gedragscode vallen, hebben betrekking op de wederpartijen van opdrachtgevers en personen die tot die categorie hebben behoord.
 
-#### Artikel 4. Categorieën van gegevens
+##### Artikel 4. Categorieën van gegevens
 
 1. De verwerking van persoonsgegevens kan betrekking hebben op:
 
@@ -78,7 +102,7 @@ De persoonsgegevens die verwerkt worden en die onder deze Gedragscode vallen, he
 
 2. Tenzij de persoonsgegevens bedoeld in het eerste lid onder b. tot en met d. en f. van de wederpartij, diens gemachtigde of uit openbare bronnen zijn verkregen, is het de gerechtsdeurwaarder behoudens rechtvaardigingsgrond niet toegestaan deze gegevens te verwerken indien de verwerking van persoonsgegevens geschiedt ten behoeve van de uitoefening van niet ambtelijke werkzaamheden als bedoeld in [artikel 2 onder b.](https://wetten.overheid.nl/jci1.3:c:BWBR0016119&artikel=2&z=2004-03-03&g=2004-03-03) van deze code.
 
-#### Artikel 5. Herkomst en verkrijging
+##### Artikel 5. Herkomst en verkrijging
 
 1. De persoonsgegevens genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0016119&artikel=4&z=2004-03-03&g=2004-03-03) kunnen worden verkregen:
 
@@ -100,11 +124,11 @@ De persoonsgegevens die verwerkt worden en die onder deze Gedragscode vallen, he
 
 2. De gerechtsdeurwaarder draagt er zorg voor dat de persoonsgegevens die worden verwerkt, voor zover redelijkerwijs mogelijk is, op hun juistheid en volledigheid worden gecontroleerd.
 
-#### Artikel 6. Toegang tot de gegevens
+##### Artikel 6. Toegang tot de gegevens
 
 Verwerking van persoonsgegevens is, voor zover nodig voor de uitoefening van hun taak en met inachtneming van het doel waarvoor de gegevens worden verwerkt, toegestaan aan alle werknemers van de gerechtsdeurwaarder die zijn belast met de behandeling van zaken. De gerechtsdeurwaarder verplicht zijn werknemers tot geheimhouding.
 
-#### Artikel 7. Verstrekking van gegevens
+##### Artikel 7. Verstrekking van gegevens
 
 1. Tenzij met uitdrukkelijke toestemming van de wederpartij, worden diens persoonsgegevens uitsluitend aan de volgende personen of instanties verstrekt:
 
@@ -120,11 +144,11 @@ Verwerking van persoonsgegevens is, voor zover nodig voor de uitoefening van hun
 
 3. Verstrekking van gegevens vindt niet plaats voor zover dit in strijd zou komen met de geheimhoudingsplicht van de gerechtsdeurwaarder.
 
-#### Artikel 8. Beveiliging
+##### Artikel 8. Beveiliging
 
 Overeenkomstig [artikel 13 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=13) draagt de gerechtsdeurwaarder er zorg voor dat de persoonsgegevens die door hem in het kader van zijn praktijkuitoefening worden verwerkt op zodanige wijze beveiligd zijn dat verlies of onrechtmatige verwerking daarvan wordt voorkomen.
 
-#### Artikel 9. Kennisgeving
+##### Artikel 9. Kennisgeving
 
 1. De gerechtsdeurwaarder brengt iedere wederpartij van wie persoonsgegevens worden verwerkt hiervan op de hoogte, tenzij deze gegevens bij de wederpartij zelf worden verkregen.
 
@@ -150,7 +174,7 @@ Overeenkomstig [artikel 13 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&
 
 5. De gerechtsdeurwaarder verstrekt nadere informatie voor zover dat gelet op de aard van de gegevens, de omstandigheden waaronder zij worden verkregen of het gebruik dat ervan wordt gemaakt, nodig is om tegenover de wederpartij een behoorlijke en zorgvuldige verwerking te waarborgen.
 
-#### Artikel 10. Verstrekken van overzichten
+##### Artikel 10. Verstrekken van overzichten
 
 1. De gerechtsdeurwaarder verstrekt de wederpartij overeenkomstig [artikel 35 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) op diens schriftelijk verzoek en na deugdelijke vaststelling van diens identiteit, binnen vier weken nadat het verzoek is gedaan, een overzicht van de van hem verwerkte gegevens.
 
@@ -158,7 +182,7 @@ Overeenkomstig [artikel 13 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&
 
 3. De gerechtsdeurwaarder is, met inachtneming van het bij of krachtens [artikel 39, eerste lid Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=39) bepaalde, gerechtigd aan de wederpartij voor het op diens verzoek verstrekken van de gegevens met betrekking tot de verwerking, een vergoeding van kosten te vragen, welke vergoeding wordt teruggegeven in geval tot verbetering, aanvulling, verwijdering of afscherming van verwerkte persoonsgegevens is overgegaan.
 
-#### Artikel 11. Correctie en verzet
+##### Artikel 11. Correctie en verzet
 
 1. De wederpartij aan wie overeenkomstig [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0016119&artikel=10&z=2004-03-03&g=2004-03-03) een overzicht is verstrekt van de van hem verwerkte gegevens, kan de gerechtsdeurwaarder schriftelijk verzoeken om de verwerkte persoonsgegevens te verbeteren, aan te vullen of te verwijderen, of af te schermen indien deze feitelijk onjuist zijn, voor het doel of de doeleinden van de verwerking onvolledig of niet ter zake dienend zijn, dan wel anderszins in strijd met een wettelijk voorschrift in de verwerking voor komen. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -174,14 +198,14 @@ Overeenkomstig [artikel 13 Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&
 
 7. De gerechtsdeurwaarder is, met inachtneming van het bij of krachtens [artikel 40, derde lid Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40) bepaalde, gerechtigd aan de wederpartij voor het in behandeling nemen van een verzet een vergoeding van kosten te vragen, welke vergoeding wordt teruggegeven in geval het verzet gegrond wordt bevonden.
 
-#### Artikel 12. Tekst Gedragscode
+##### Artikel 12. Tekst Gedragscode
 
 Op eerste verzoek wordt aan éénieder een afschrift van deze Gedragscode ter beschikking gesteld.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze Gedragscode treedt in werking op de veertiende dag nadat deze (met toelichting) in de Staatscourant is geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze gedragscode wordt aangehaald als: Gedragscode gerechtsdeurwaarders ter bescherming persoonsgegevens.

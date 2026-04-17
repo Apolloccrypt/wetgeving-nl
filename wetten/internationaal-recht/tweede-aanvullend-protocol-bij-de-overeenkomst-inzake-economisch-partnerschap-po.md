@@ -1,13 +1,38 @@
 ---
 title: "Tweede Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie"
 identifier: "BWBV0002727"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-03-01
-laatste_update: 2007-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002727"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-03-01"
+last_updated: "2007-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002727"
+soort: "verdrag"
+stam_id: "10003067823"
+version_id: "10003070832"
+internal_id: "C10006998171"
+label_id: "10003054124"
+dtd_version: "2.0"
+original_entry_into_force: "2008-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002727/2008-03-01/0"
+intitule_bron: "Trb.2007-149"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-03-01"
+intitule_published: "2007-08-15"
+intitule_in_force: "2008-05-23"
+intitule_status: "goed"
+original_publication: "Trb.2007-149"
+original_signed_date: "2007-03-01"
+original_published_date: "2007-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-149"
+entry_into_force_date: "2008-03-01"
+jci_1_3: "jci1.3:c:BWBV0002727&z=2008-03-01&g=2008-03-01"
+jci_1_0: "1.0:c:BWBV0002727&g=2008-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-03-01"
+entry_into_force: "2008-03-01"
 ---
-
 # Tweede Aanvullend Protocol bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds, om rekening te houden met de toetreding van de Republiek Bulgarije en Roemenië tot de Europese Unie
 
 Het Koninkrijk België,
@@ -102,23 +127,23 @@ OVERWEGENDE dat artikel 5, lid 3, van dit protocol het mogelijk maakt dat de Eur
 
 ZIJN het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Republiek Bulgarije en Roemenië worden hierbij opgenomen als partijen bij de Overeenkomst inzake economisch partnerschap, politieke coördinatie en samenwerking tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en de Verenigde Mexicaanse Staten, anderzijds.
 
-#### Artikel 2
+##### Artikel 2
 
 Binnen zes maanden na de parafering van dit protocol zal de Gemeenschap de Bulgaarse en Roemeense taalversies van de Overeenkomst aan de lidstaten en Mexico doen toekomen. Onder voorbehoud van de inwerkingtreding van dit protocol worden de nieuwe taalversies authentiek onder dezelfde voorwaarden als de versies die zijn opgesteld in de huidige talen van de Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit protocol maakt integrerend deel uit van de Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit protocol is opgesteld in tweevoud, in de Bulgaarse, de Deense, de Duitse, de Engelse, de Estse, de Finse, de Franse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Nederlandse, de Poolse, de Portugese, de Roemeense, de Sloveense, de Slowaakse, de Spaanse, de Tsjechische en de Zweedse taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Dit protocol wordt door de Europese Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door Mexico volgens hun respectieve procedures ondertekend en goedgekeurd.
 

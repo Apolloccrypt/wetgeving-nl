@@ -1,13 +1,39 @@
 ---
-title: "Fondsenbesluit 2025"
+title: "Besluit van de Staatssecretaris van Financiën van 28 november 2025, nr. 2025-23416 over het fonds voor gemene rekening en een transparant fonds (Fondsenbesluit 2025)"
 identifier: "BWBR0051892"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-03
-laatste_update: 2025-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051892"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-03"
+last_updated: "2025-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051892"
+soort: "beleidsregel"
+stam_id: "17651533"
+version_id: "31142862"
+internal_id: "C44566171"
+label_id: "17551584"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051892/2025-12-03/0"
+intitule_bron: "Stcrt.2025-40593"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-28"
+intitule_published: "2025-12-02"
+intitule_in_force: "2025-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40593"
+original_signed_date: "2025-11-28"
+original_published_date: "2025-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40593"
+entry_into_force_date: "2025-12-03"
+jci_1_3: "jci1.3:c:BWBR0051892&z=2025-12-03&g=2025-12-03"
+jci_1_0: "1.0:c:BWBR0051892&g=2025-12-03"
+citeertitel_status: "officieel"
+short_title: "Fondsenbesluit 2025"
+signed_date: "2025-11-28"
+entry_into_force: "2025-12-03"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 28 november 2025, nr. 2025-23416 over het fonds voor gemene rekening en een transparant fonds (Fondsenbesluit 2025)
 
 **De Staatssecretaris van Financiën,**

@@ -1,13 +1,35 @@
 ---
-title: "Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen"
+title: "Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan worden verleend op pensioenen van in Suriname en de Nederlandse Antillen gevestigde gewezen militairen en van hun nabestaanden"
 identifier: "BWBR0002545"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-05-23
-laatste_update: 2003-05-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002545"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-05-23"
+last_updated: "2003-05-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002545"
+soort: "AMvB"
+stam_id: "717683"
+version_id: "1046112"
+internal_id: "C1046111"
+label_id: "695494"
+dtd_version: "2.0"
+original_entry_into_force: "1966-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002545/2003-05-23/0"
+intitule_bron: "Stb.1966-448"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1966-10-31"
+intitule_status: "goed"
+original_publication: "Stb.1966-448"
+original_signed_date: "1966-10-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1966-01-01"
+jci_1_3: "jci1.3:c:BWBR0002545&z=2003-05-23&g=2003-05-23"
+jci_1_0: "1.0:c:BWBR0002545&g=2003-05-23"
+citeertitel_status: "officieel"
+short_title: "Besluit militaire toeslagregeling pensioenen Suriname en Nederlandse Antillen"
+signed_date: "1966-10-31"
+entry_into_force: "1966-01-01"
 ---
-
 # Besluit van 31 oktober 1966, houdende regelen naar welke een toeslag kan worden verleend op pensioenen van in Suriname en de Nederlandse Antillen gevestigde gewezen militairen en van hun nabestaanden
 
 Op de voordracht van Onze Minister van Defensie van 6 september 1966, Directie gezamenlijke militaire personeelsdiensten en pensioenen, afd. pensioenen en wachtgelden, nr. P. 123.583/3-V;
@@ -20,15 +42,15 @@ Gezien het nader rapport van Onze Minister van Defensie van 28 oktober 1966, nr.
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder "gewezen militair": de ontslagen militair, die op de dag voorafgaande aan zijn laatste ontslag als militair de bestemming had doorlopend dienst te doen uitsluitend in Suriname of de Nederlandse Antillen.
 
-#### Artikel 2
+##### Artikel 2
 
 De gewezen militair, aan wie als zodanig een pensioen is toegekend ingevolge de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen, heeft gedurende de tijd, dat hij metterwoon is gevestigd in Suriname, de Nederlandse Antillen of Aruba, recht op een toeslag op dat pensioen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bedrag van de toeslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=2&z=2003-05-23&g=2003-05-23), is voor een gewezen militair, aan wie ontslag is verleend met ingang van een dag, liggende na 31 december 1965, gelijk aan het bedrag, waarmede
 
@@ -46,7 +68,7 @@ overschrijdt.
 
 overschrijdt.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Voor de gewezen militair, die metterwoon gevestigd is in Suriname, wordt het pensioen, bedoeld in [artikel 3, eerste lid onder a en tweede lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=3&z=2003-05-23&g=2003-05-23), vermenigvuldigd met het getal, dat in de bij dit besluit behorende tabel A is vermeld voor de laatste volle maand van het tijdvak, dat bepalend is geweest voor de vaststelling van de pensioengrondslag, waarnaar het pensioen, bedoeld in [artikel 3, eerste lid onder b en tweede lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=3&z=2003-05-23&g=2003-05-23), is berekend.
 
@@ -54,7 +76,7 @@ overschrijdt.
 
 3. Voor de toepassing van de vorige leden wordt de in die leden bedoelde laatste volle maand voor de gewezen militairen, aan wie ontslag is verleend met ingang van een dag, liggende voor 1 januari 1967, geacht te zijn de maand december 1966.
 
-#### Artikel 4
+##### Artikel 4
 
 De weduwe en wezen van een overleden militair of overleden ontslagen militair, wier pensioen is afgeleid van
 
@@ -64,25 +86,25 @@ De weduwe en wezen van een overleden militair of overleden ontslagen militair, w
 
 hebben gedurende de tijd, dat zij metterwoon zijn gevestigd in Suriname of de Nederlandse Antillen, recht op een toeslag op dat pensioen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bedrag van de toeslag, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=4&z=2003-05-23&g=2003-05-23), is gelijk aan een zodanig gedeelte van het bedrag van de toeslag, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=2&z=2003-05-23&g=2003-05-23), waarop de overledene recht zou hebben gehad, indien hij in leven was gebleven, als wordt aangegeven door een breuk, waarvan de teller is het bedrag van het toegekende weduwen- of wezenpensioen en de noemer is het bedrag van het pensioen of de pensioengrondslag, waarvan het weduwen- of wezenpensioen is afgeleid.
 
-#### Artikel 6
+##### Artikel 6
 
 De gewezen militair en de weduwen en wezen, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002545&artikel=4&z=2003-05-23&g=2003-05-23), aan wie over tijdvakken liggende voor het tijdstip van het in werking treden van dit besluit bij wege van voorschot een toeslag op de hun toegekende pensioenen is verleend, worden geacht tot die datum recht op een toeslag op hun pensioen te hebben gehad tot de bedragen van de verstrekte voorschotten.
 
-#### Artikel 7
+##### Artikel 7
 
 Behoudens met betrekking tot de aanpassing aan algemene bezoldigingswijzigingen zijn de bij of krachtens de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) vastgestelde bepalingen inzake pensioen waarop de toeslag is toegekend, van toepassing op die toeslag als vormden het pensioen en de toeslag een eenheid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De toeslagen worden toegekend door Onze minister van defensie.
 
 2. De kosten van de toeslagen komen ten laste van hoofdstuk X van de Rijksbegroting.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst en werkt terug tot 1 januari 1966.
 

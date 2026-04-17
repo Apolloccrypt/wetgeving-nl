@@ -1,14 +1,41 @@
 ---
-title: "Wet politiegegevens"
+title: "Wet van 21 juli 2007, houdende regels inzake de verwerking van politiegegevens (Wet politiegegevens)"
 identifier: "BWBR0022463"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022463"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022463"
+soort: "wet"
+stam_id: "9196663"
+version_id: "25406452"
+internal_id: "C36447041"
+label_id: "9175884"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022463/2025-07-01/0"
+intitule_bron: "Stb.2007-300"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-21"
+intitule_published: "2007-09-04"
+intitule_in_force: "2007-12-21"
+intitule_status: "goed"
+original_publication: "Stb.2018-401"
+original_signed_date: "2018-10-17"
+original_published_date: "2018-11-12"
+original_effect: "structuurwijziging"
+original_dossier: "34889"
+original_url_id: "stb-2018-401"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0022463&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0022463&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet politiegegevens"
+signed_date: "2018-10-17"
+entry_into_force: "2019-01-01"
 ---
-
-# Wet politiegegevens
+# Wet van 21 juli 2007, houdende regels inzake de verwerking van politiegegevens (Wet politiegegevens)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. (definities)
+##### Artikel 1. (definities)
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -86,7 +113,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - y. **lidstaat:** lidstaat van de Europese Unie die de richtlijn heeft geïmplementeerd.
 
-#### Artikel 2. (reikwijdte)
+##### Artikel 2. (reikwijdte)
 
 1. Deze wet is van toepassing op de verwerking van politiegegevens door een bevoegde autoriteit die in een bestand zijn opgenomen of die bestemd zijn daarin te worden opgenomen.
 
@@ -96,7 +123,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. ten behoeve van de interne bedrijfsvoering.
 
-#### Artikel 3. (noodzakelijkheid, rechtmatigheid en doelbinding)
+##### Artikel 3. (noodzakelijkheid, rechtmatigheid en doelbinding)
 
 1. Politiegegevens worden slechts verwerkt voor zover dit noodzakelijk is voor de bij of krachtens deze wet geformuleerde doeleinden.
 
@@ -108,7 +135,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij de verwerking van politiegegevens op grond van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01) worden de herkomst van deze gegevens en de wijze van verkrijging vermeld.
 
-#### Artikel 4. (juistheid en volledigheid politiegegevens)
+##### Artikel 4. (juistheid en volledigheid politiegegevens)
 
 1. De verwerkingsverantwoordelijke treft de nodige maatregelen opdat politiegegevens, gelet op de doeleinden waarvoor zij worden verwerkt, juist en nauwkeurig zijn. Hij zorgt voor het onverwijld vernietigen of rectificeren van politiegegevens als blijkt dat deze, gelet op de doeleinden waarvoor zij worden verwerkt, onjuist zijn. De bevoegde autoriteit controleert, voor zover praktisch uitvoerbaar, de kwaliteit van politiegegevens voordat de gegevens worden verstrekt. Voor zover mogelijk wordt bij de doorzending van politiegegevens de noodzakelijke informatie toegevoegd aan de hand waarvan de ontvangende bevoegde autoriteit de mate van juistheid, volledigheid en betrouwbaarheid van politiegegevens kan beoordelen, alsmede de mate waarin zij actueel zijn.
 
@@ -118,11 +145,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Indien wordt vastgesteld dat onjuiste politiegegevens zijn verstrekt, of dat de politiegegevens op onrechtmatige wijze zijn verstrekt, wordt de ontvanger daarvan onverwijld in kennis gesteld. In dat geval dienen de gegevens te worden gerectificeerd of vernietigd, of wordt de verwerking beperkt, als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 5. (bijzondere categorieën van politiegegevens)
+##### Artikel 5. (bijzondere categorieën van politiegegevens)
 
 De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvattingen, religieuze of levensbeschouwelijke overtuiging, of het lidmaatschap van een vakbond blijkt, en de verwerking van genetische gegevens, biometrische gegevens met het oog op de unieke identificatie van een natuurlijke persoon, of gegevens over gezondheid, seksuele leven en seksuele gerichtheid vindt slechts plaats wanneer dit onvermijdelijk is voor het doel van de verwerking, in aanvulling op de verwerking van andere politiegegevens betreffende de persoon en de gegevens afdoende zijn beveiligd.
 
-#### Artikel 6. (autorisaties)
+##### Artikel 6. (autorisaties)
 
 1. De verwerkingsverantwoordelijke onderhoudt een systeem van autorisaties dat voldoet aan de vereisten van zorgvuldigheid en evenredigheid.
 
@@ -138,7 +165,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 7. De verwerkingsverantwoordelijke wijst de functionaris aan, bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), [10, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), [11, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=11&z=2025-07-01&g=2025-07-01), [12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01), en [13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=13&z=2025-07-01&g=2025-07-01). Bij algemene maatregel van bestuur kunnen regels worden gesteld over de ambtenaren van politie die kunnen worden aangewezen als functionaris.
 
-#### Artikel 7. (geheimhoudingsplicht)
+##### Artikel 7. (geheimhoudingsplicht)
 
 1. De ambtenaar van politie of de persoon aan wie politiegegevens ter beschikking zijn gesteld is verplicht tot geheimhouding daarvan behoudens voor zover een bij of krachtens de wet gegeven voorschrift tot verstrekking verplicht, de bepalingen van [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&z=2025-07-01&g=2025-07-01) verstrekking toelaten of de taak, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), in bijzondere gevallen tot verstrekking noodzaakt.
 
@@ -148,7 +175,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 #### § 2. De verwerking van politiegegevens met het oog op de uitvoering van de politietaak
 
-#### Artikel 8. (uitvoering van de dagelijkse politietaak)
+##### Artikel 8. (uitvoering van de dagelijkse politietaak)
 
 1. Politiegegevens kunnen worden verwerkt met het oog op de uitvoering van de dagelijkse politietaak gedurende een periode van één jaar na de datum van de eerste verwerking.
 
@@ -162,7 +189,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 6. De politiegegevens, die zijn verwerkt op grond van het eerste, tweede en derde lid, worden vernietigd zodra zij niet langer noodzakelijk zijn voor de uitvoering van de dagelijkse politietaak en worden in ieder geval uiterlijk vijf jaar na de datum van eerste verwerking verwijderd.
 
-#### Artikel 9. (onderzoek in verband met de handhaving van de rechtsorde in een bepaald geval)
+##### Artikel 9. (onderzoek in verband met de handhaving van de rechtsorde in een bepaald geval)
 
 1. Politiegegevens kunnen gericht worden verwerkt ten behoeve van een onderzoek met het oog op de handhaving van de rechtsorde in een bepaald geval.
 
@@ -172,7 +199,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 4. De politiegegevens die zijn verwerkt op grond van het eerste lid en niet langer noodzakelijk zijn voor het doel van het onderzoek, worden verwijderd, of gedurende een periode van maximaal een half jaar verwerkt teneinde te bezien of zij aanleiding geven tot een nieuw onderzoek als bedoeld in het eerste lid of een nieuwe verwerking als bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), en na verloop van deze termijn verwijderd.
 
-#### Artikel 10. (inzicht in de betrokkenheid van personen bij bepaalde ernstige bedreigingen van de rechtsorde)
+##### Artikel 10. (inzicht in de betrokkenheid van personen bij bepaalde ernstige bedreigingen van de rechtsorde)
 
 1. Politiegegevens kunnen gericht worden verwerkt met het oog op het verkrijgen van inzicht in de betrokkenheid van personen bij:
 
@@ -218,7 +245,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 6. De politiegegevens, bedoeld in het eerste lid, worden verwijderd zodra zij niet langer noodzakelijk zijn voor het doel van de verwerking. Daartoe worden de gegevens periodiek gecontroleerd. De gegevens worden verwijderd uiterlijk vijf jaar na de datum van de laatste verwerking van gegevens die blijk geeft van de noodzaak tot het verwerken van de politiegegevens van betrokkene op grond van het doel als omschreven in het eerste lid.
 
-#### Artikel 11. (geautomatiseerd vergelijken en in combinatie zoeken)
+##### Artikel 11. (geautomatiseerd vergelijken en in combinatie zoeken)
 
 1. Voor zover dat noodzakelijk is voor een onderzoek als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), kunnen politiegegevens die voor dat onderzoek zijn verwerkt, geautomatiseerd worden vergeleken met andere politiegegevens die worden verwerkt op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01) teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen, na instemming van een daartoe bevoegde functionaris, voor dat onderzoek verder worden verwerkt.
 
@@ -236,7 +263,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 5. Voor zover dat noodzakelijk is voor een onderzoek als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), of een verwerking als omschreven in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), kunnen politiegegevens die worden verwerkt op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01) geautomatiseerd worden vergeleken met andere dan politiegegevens.
 
-#### Artikel 12. (informanten)
+##### Artikel 12. (informanten)
 
 1. Politiegegevens kunnen worden verwerkt met het oog op de controle op en het beheer van een informant alsmede de beoordeling en verantwoording van het gebruik van informantgegevens.
 
@@ -258,7 +285,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 7. Onder informant wordt in dit artikel verstaan: persoon die heimelijk aan een opsporingsambtenaar informatie verstrekt omtrent strafbare feiten of ernstige schendingen van de openbare orde, die door anderen zijn of worden gepleegd of verricht, welke verstrekking gevaar voor deze persoon of voor derden oplevert.
 
-#### Artikel 13. (ondersteunende taken)
+##### Artikel 13. (ondersteunende taken)
 
 1. Ten behoeve van de ondersteuning van de taak, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), kunnen de politiegegevens die worden verwerkt overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), verder worden verwerkt voor zover zij relevant zijn voor:
 
@@ -284,7 +311,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 - c. de gevallen waarin of de termijnen waarbinnen het verder verwerken van de betreffende gegevens wordt beëindigd.
 
-#### Artikel 14. (bewaartermijnen)
+##### Artikel 14. (bewaartermijnen)
 
 1. De op grond van de [artikelen 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), [9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01), en [artikel 10, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), verwijderde politiegegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van verwerking met het oog op de afhandeling van klachten en de verantwoording van verrichtingen en vervolgens vernietigd.
 
@@ -294,7 +321,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 4. Van de vernietiging, bedoeld in het eerste lid, wordt afgezien voor zover de waarde van de archiefbescheiden als bestanddeel van het cultureel erfgoed of voor historisch onderzoek zich daartegen verzet. De betreffende gegevens worden zo spoedig mogelijk overgebracht naar een archiefbewaarplaats. Daarbij worden met toepassing van [artikel 15 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15) beperkingen aan de openbaarheid gesteld. Onze Ministers kunnen over het in de eerste en derde volzin bepaalde beleidsregels vaststellen.
 
-#### Artikel 15. (ter beschikking stellen van politiegegevens)
+##### Artikel 15. (ter beschikking stellen van politiegegevens)
 
 1. De verwerkingsverantwoordelijke stelt politiegegevens ter beschikking aan personen die door hemzelf dan wel door een andere verwerkingsverantwoordelijke overeenkomstig [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=6&z=2025-07-01&g=2025-07-01), zijn geautoriseerd voor de verwerking van politiegegevens, voor zover zij deze behoeven voor de uitvoering van hun taak.
 
@@ -302,7 +329,7 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 #### § 3. De verstrekking van politiegegevens aan anderen dan politie en Koninklijke marechaussee
 
-#### Artikel 16. (verstrekking aan gezagsdragers)
+##### Artikel 16. (verstrekking aan gezagsdragers)
 
 1. De verwerkingsverantwoordelijke verstrekt politiegegevens aan:
 
@@ -330,17 +357,17 @@ De verwerking van politiegegevens waaruit ras, etnische afkomst, politieke opvat
 
 2. Op de verstrekkingen, bedoeld in het eerste lid, onderdeel c, is [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=15&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing.
 
-#### Artikel 17. (verstrekking aan inlichtingendiensten)
+##### Artikel 17. (verstrekking aan inlichtingendiensten)
 
 Politiegegevens kunnen worden verstrekt voor zover dit voortvloeit uit de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896).
 
-#### Artikel 18. (verstrekking aan derden structureel)
+##### Artikel 18. (verstrekking aan derden structureel)
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen personen en instanties worden aangewezen aan wie of waaraan, met het oog op een zwaarwegend algemeen belang, politiegegevens worden of kunnen worden verstrekt ter uitvoering van de bij of krachtens die algemene maatregel van bestuur aan te geven taak.
 
 2. In bijzondere gevallen kan Onze Minister van Veiligheid en Justitie toestemming of opdracht geven tot het verstrekken van daarbij door hem te omschrijven politiegegevens voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang. Van de desbetreffende beschikking wordt mededeling gedaan aan de Autoriteit persoonsgegevens.
 
-#### Artikel 19. (verstrekking aan derden incidenteel)
+##### Artikel 19. (verstrekking aan derden incidenteel)
 
 In bijzondere gevallen kan de verwerkingsverantwoordelijke, voor zover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, in overeenstemming met het bevoegd gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14), beslissen tot het verstrekken van politiegegevens aan personen of instanties voor de volgende doeleinden:
 
@@ -352,7 +379,7 @@ In bijzondere gevallen kan de verwerkingsverantwoordelijke, voor zover dit noodz
 
 - d. het uitoefenen van toezicht op het naleven van regelgeving.
 
-#### Artikel 20. (verstrekking aan derden structureel voor samenwerkingsverbanden)
+##### Artikel 20. (verstrekking aan derden structureel voor samenwerkingsverbanden)
 
 1. De verwerkingsverantwoordelijke kan, voor zover dit met het oog op een zwaarwegend algemeen belang noodzakelijk is ten behoeve van een samenwerkingsverband van de bevoegde autoriteiten met personen of instanties, in overeenstemming met het bevoegd gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14), beslissen tot het verstrekken van politiegegevens aan die personen en instanties voor de volgende doeleinden:
 
@@ -370,17 +397,17 @@ In bijzondere gevallen kan de verwerkingsverantwoordelijke, voor zover dit noodz
 
 4. Indien de politie deelneemt aan een casusoverleg als bedoeld in de [Wet gegevensverwerking persoonsgerichte aanpak radicalisering en terroristische activiteiten](https://wetten.overheid.nl/jci1.3:c:BWBR0050740), verstrekt de verwerkingsverantwoordelijke, in overeenstemming met het bevoegd gezag, bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=12) en [14 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=14), aan het casusoverleg politiegegevens, voor zover dat noodzakelijk is met het oog op het doel van het casusoverleg, tenzij naar het oordeel van de verwerkingsverantwoordelijke zwaarwegende redenen zich daartegen verzetten.
 
-#### Artikel 21. (nadere regels bij algemene maatregel van bestuur)
+##### Artikel 21. (nadere regels bij algemene maatregel van bestuur)
 
 Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de categorieën van politiegegevens die worden of kunnen worden verstrekt op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=18&z=2025-07-01&g=2025-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=19&z=2025-07-01&g=2025-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=20&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 22. (verwerking voor wetenschappelijk onderzoek en statistiek)
+##### Artikel 22. (verwerking voor wetenschappelijk onderzoek en statistiek)
 
 1. Politiegegevens kunnen worden verwerkt ten behoeve van beleidsinformatie, wetenschappelijk onderzoek of statistiek met het oog op de taak, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), onder de voorwaarde dat de resultaten daarvan geen persoonsgegevens mogen bevatten.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van politiegegevens ten behoeve van het bepaalde in het eerste lid.
 
-#### Artikel 23. (rechtstreekse verstrekking)
+##### Artikel 23. (rechtstreekse verstrekking)
 
 1. Verstrekking van politiegegevens aan de leden van het openbaar ministerie als bedoeld in [artikel 16, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=16&z=2025-07-01&g=2025-07-01), kan rechtstreeks plaatsvinden voor zover noodzakelijk met het oog op:
 
@@ -394,7 +421,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 4. De verwerkingsverantwoordelijke treft passende technische en organisatorische maatregelen teneinde te waarborgen dat rechtstreekse verstrekking uitsluitend plaatsvindt voor zover noodzakelijk op grond van het bepaalde bij of krachtens het eerste, tweede en derde lid. Bij algemene maatregel van bestuur kunnen hierover nadere regels worden gesteld.
 
-#### Artikel 24. (rechtstreekse verstrekking aan inlichtingen- en veiligheidsdiensten)
+##### Artikel 24. (rechtstreekse verstrekking aan inlichtingen- en veiligheidsdiensten)
 
 1. Voor zover dat noodzakelijk is voor de uitvoering van de taak, bedoeld in [artikel 8, tweede lid, van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=8), kunnen door de Algemene Inlichtingen- en Veiligheidsdienst verwerkte gegevens rechtstreeks geautomatiseerd worden vergeleken met bij algemene maatregel van bestuur, op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie gezamenlijk, te bepalen categorieën van politiegegevens teneinde vast te stellen of verbanden bestaan tussen de betreffende gegevens. De gerelateerde gegevens kunnen daarvoor rechtstreeks worden verstrekt aan ambtenaren werkzaam bij de Algemene Inlichtingen- en Veiligheidsdienst waarbij in bepaalde, door een lid van het College van procureurs-generaal en de Directeur-Generaal van de Algemene Inlichtingen- en Veiligheidsdienst gezamenlijk vast te stellen gevallen, op een gezamenlijk vast te stellen wijze, daarvan kennis wordt gegeven aan het lid van het openbaar ministerie als bedoeld in [artikel 66 van de Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896&artikel=66).
 
@@ -404,7 +431,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 #### § 4. Rechten van de betrokkene
 
-#### Artikel 25. (recht op inzage)
+##### Artikel 25. (recht op inzage)
 
 1. De betrokkene heeft het recht om op diens schriftelijke verzoek van de verwerkingsverantwoordelijke binnen zes weken uitsluitsel te verkrijgen over de verwerking van hem betreffende persoonsgegevens en, wanneer dat het geval is, om die persoonsgegevens in te zien en om informatie te verkrijgen over:
 
@@ -424,7 +451,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 2. De verwerkingsverantwoordelijke kan zijn beslissing voor ten hoogste vier weken verdagen, dan wel voor ten hoogste zes weken indien blijkt dat bij verschillende regionale eenheden of bij een landelijke eenheid van de politie politiegegevens over de verzoeker worden verwerkt. Van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 26. (formaliteiten)
+##### Artikel 26. (formaliteiten)
 
 1. Bij de behandeling van verzoeken als bedoeld in de [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01) en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01) draagt de verwerkingsverantwoordelijke zorg voor een deugdelijke vaststelling van de identiteit van de verzoeker. Wanneer de verwerkingsverantwoordelijke redenen heeft om te twijfelen aan de identiteit van de persoon die het verzoek doet, kan hij de nodige aanvullende informatie vragen ter bevestiging van de identiteit van de betrokkene.
 
@@ -432,7 +459,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 3. De verzoeken kunnen tevens worden gedaan door een advocaat aan wie de betrokkene een bijzondere machtiging heeft verleend met het oog op de uitoefening van zijn rechten krachtens deze wet en die het verzoek uitsluitend doet met de bedoeling de belangen van zijn cliënt te behartigen. De betrokken mededeling geschiedt aan de advocaat. De verantwoordelijke kan aan de bijzondere machtiging eisen stellen.
 
-#### Artikel 27. (uitzonderingen)
+##### Artikel 27. (uitzonderingen)
 
 1. Een verzoek als bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01), en [28, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01), wordt afgewezen voor zover dit een noodzakelijke en evenredige maatregel is:
 
@@ -452,7 +479,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 3. Een verzoek als bedoeld in de [artikelen 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01), en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01), wordt afgewezen als het verzoek de gegevens betreft, die worden verwerkt bij of krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 28. (recht op rectificatie en vernietiging van politiegegevens)
+##### Artikel 28. (recht op rectificatie en vernietiging van politiegegevens)
 
 1. De betrokkene heeft het recht op diens schriftelijke verzoek van de verwerkingsverantwoordelijke rectificatie van de hem betreffende onjuiste politiegegevens te verkrijgen en, rekening houdend met het doel van de verwerking, het recht om onvolledige politiegegevens te laten aanvullen, onder meer door middel van een aanvullende verklaring. Het verzoek bevat de aan te brengen wijzigingen.
 
@@ -468,7 +495,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 5. Indien de verwerkingsverantwoordelijke politiegegevens heeft gerectificeerd, vernietigd of afgeschermd, stelt hij de ontvangers daarvan in kennis.
 
-#### Artikel 29. (toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
+##### Artikel 29. (toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537))
 
 1. Een beslissing op een verzoek als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01) of [28](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01) geldt als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -480,17 +507,17 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de c
 
 5. In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verwerkingsverantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 8:27](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:27), [8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:28) of [8:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45) worden verplicht tot het verstrekken van inlichtingen of het overleggen van stukken met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01), kan Onze Minister van Veiligheid en Justitie beslissen dat [artikel 8:29, derde tot en met vijfde lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:29) buiten toepassing blijft. Indien aan de rechtbank stukken dienen te worden overgelegd, wordt alsdan met het ter inzage geven van de desbetreffende stukken volstaan. Van de desbetreffende stukken wordt op generlei wijze een afschrift vervaardigd. Indien Onze Minister van Veiligheid en Justitie de rechtbank mededeelt dat uitsluitend zij kennis zal mogen nemen van de inlichtingen onderscheidenlijk de stukken, kan de rechtbank slechts met toestemming van de andere partijen mede op grondslag van die inlichtingen of stukken uitspraak doen.
 
-#### Artikel 30. (mededeling van verbetering, aanvulling, verwijdering of afscherming)
+##### Artikel 30. (mededeling van verbetering, aanvulling, verwijdering of afscherming)
 
 Vervallen
 
-#### Artikel 31. (vergoeding van kosten)
+##### Artikel 31. (vergoeding van kosten)
 
 Vervallen
 
 #### § 5. Toezicht
 
-#### Artikel 32. (documentatie)
+##### Artikel 32. (documentatie)
 
 1. De verwerkingsverantwoordelijke draagt zorg voor de schriftelijke vastlegging van:
 
@@ -510,7 +537,7 @@ Vervallen
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de wijze van vastlegging.
 
-#### Artikel 33. (audits)
+##### Artikel 33. (audits)
 
 1. De verwerkingsverantwoordelijke doet de uitvoering van de bij of krachtens deze wet gegeven regels controleren door middel van het periodiek doen verrichten van privacy audits.
 
@@ -522,7 +549,7 @@ Vervallen
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld betreffende de inhoud en wijze van uitvoering van de controles, bedoeld in het eerste en derde lid.
 
-#### Artikel 34. (privacyfunctionaris)
+##### Artikel 34. (privacyfunctionaris)
 
 1. De verwerkingsverantwoordelijke benoemt een of meer privacyfunctionarissen. De privacyfunctionaris dient de verwerkingsverantwoordelijke en de personen die voor de verwerkingsverantwoordelijke werkzaam zijn van advies en ziet namens de verwerkingsverantwoordelijke toe op de verwerking van politiegegevens overeenkomstig het bij of krachtens de wet bepaalde.
 
@@ -530,13 +557,13 @@ Vervallen
 
 3. De privacyfunctionaris stelt jaarlijks een verslag op van zijn bevindingen.
 
-#### Artikel 35. (toezicht Autoriteit persoonsgegevens)
+##### Artikel 35. (toezicht Autoriteit persoonsgegevens)
 
 1. De Autoriteit persoonsgegevens, bedoeld in [artikel 6, eerste lid, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=6), ziet in het Europese deel van Nederland toe op de verwerking van politiegegevens overeenkomstig het bij en krachtens deze wet bepaalde.
 
 2. [Artikel 16 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=16) is van overeenkomstige toepassing.
 
-#### Artikel 36. (functionaris voor gegevensbescherming)
+##### Artikel 36. (functionaris voor gegevensbescherming)
 
 1. De verwerkingsverantwoordelijke benoemt een functionaris voor gegevensbescherming. Voor verschillende bevoegde autoriteiten kan, rekening houdend met hun organisatiestructuur en omvang, één functionaris voor gegevensbescherming worden aangewezen. De functionaris voor gegevensbescherming wordt door de verwerkingsverantwoordelijke tijdig en naar behoren betrokken bij alle aangelegenheden die verband houden met de bescherming van politiegegevens.
 
@@ -562,45 +589,45 @@ Vervallen
 
 #### § 6. Wijziging van andere wetten
 
-#### Artikel 37
+##### Artikel 37
 
 Wijzigt de Politiewet 1993, de Wet bevordering integriteitbeoordelingen door het openbaar bestuur en de Wet bescherming persoonsgegevens.
 
-#### Artikel 38
+##### Artikel 38
 
 Wijzigt de Uitvoeringswet Internationaal Strafhof.
 
-#### Artikel 39
+##### Artikel 39
 
 Wijzigt de Wet bescherming persoonsgegevens.
 
-#### Artikel 40
+##### Artikel 40
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel 41
+##### Artikel 41
 
 Wijzigt de Wet melding ongebruikelijke transacties.
 
-#### Artikel 42
+##### Artikel 42
 
 Wijzigt de Wet tot instelling van het Internationaal Tribunaal voor vervolging van personen aansprakelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië 1991.
 
-#### Artikel 43
+##### Artikel 43
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel 44
+##### Artikel 44
 
 Wijzigt de Wet documentatie vennootschappen.
 
-#### Artikel 45
+##### Artikel 45
 
 Wijzigt de Luchtvaartwet.
 
 #### § 5. Controle en toezicht op de gegevensverwerking
 
-#### Artikel 46. (toepassing op gegevensverwerking door bijzondere opsporingsdiensten)
+##### Artikel 46. (toepassing op gegevensverwerking door bijzondere opsporingsdiensten)
 
 1. Het bij of krachtens de Wet politiegegevens bepaalde met betrekking tot de gegevensverwerking, bedoeld in de [artikelen 10, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing op de verwerking van persoonsgegevens door een ambtenaar, werkzaam bij een bijzondere opsporingsdienst, bedoeld in [artikel 2 van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=2). Op voordracht van Onze Ministers en Onze Minister wie het mede aangaat worden bij algemene maatregel van bestuur ook andere onderdelen van het bij of krachtens deze wet bepaalde van overeenkomstige toepassing verklaard op de verwerking van persoonsgegevens door een ambtenaar, werkzaam bij een bijzondere opsporingsdienst, bedoeld in artikel 2 van de Wet op de bijzondere opsporingsdiensten, of een buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142).
 
@@ -614,33 +641,33 @@ Wijzigt de Luchtvaartwet.
 
 3. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de ambtenaren die werkzaam zijn bij een bijzondere opsporingsdienst, die tot het verwerken van politiegegevens als bedoeld in het eerste lid kunnen worden geautoriseerd, alsmede over het beheer en de organisatie van de bijzondere opsporingsdienst waar zij werkzaam zijn.
 
-#### Artikel 47. (evaluatiebepaling)
+##### Artikel 47. (evaluatiebepaling)
 
 Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, gehoord de Autoriteit persoonsgegevens, aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van deze wet in de praktijk.
 
-#### Artikel 48. (overgangsbepaling)
+##### Artikel 48. (overgangsbepaling)
 
 In wettelijke procedures en rechtsgedingen tegen een beslissing die op grond van de [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798) is genomen op een verzoek om kennisneming, verbetering, aanvulling, verwijdering of afscherming van politiegegevens, dan wel op tegen een dergelijke beslissing in te stellen of ingesteld beroep, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van [die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004798).
 
-#### Artikel 49. (intrekking [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798))
+##### Artikel 49. (intrekking [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798))
 
 De [Wet politieregisters](https://wetten.overheid.nl/jci1.3:c:BWBR0004798) wordt ingetrokken.
 
-#### Artikel 50. (aanpassing aan [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919))
+##### Artikel 50. (aanpassing aan [Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919))
 
 Wijzigt deze wet.
 
-#### Artikel 51. (inwerkingtreding)
+##### Artikel 51. (inwerkingtreding)
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 52. (citeertitel)
+##### Artikel 52. (citeertitel)
 
 Deze wet wordt aangehaald als: Wet politiegegevens.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 17a. (doorgiften aan derde landen)
+##### Artikel 17a. (doorgiften aan derde landen)
 
 1. Politiegegevens kunnen met inachtneming van het bij of krachtens deze wet bepaalde worden doorgegeven aan een verwerkingsverantwoordelijke in een derde land of aan een internationale organisatie, voor zover dit noodzakelijk is voor de doeleinden, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), en indien de Commissie van de Europese Unie heeft besloten dat het derde land of de internationale organisatie een toereikend beschermingsniveau voor de voorgenomen gegevensverwerking verzekert.
 
@@ -688,11 +715,11 @@ en de grondrechten en fundamentele vrijheden van de betrokkene niet prevaleren b
 
 #### § 5a. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 36a. (toepasselijkheid op Bonaire, Sint Eustatius en Saba)
+##### Artikel 36a. (toepasselijkheid op Bonaire, Sint Eustatius en Saba)
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba met inachtneming van het in deze paragraaf bepaalde.
 
-#### Artikel 36b
+##### Artikel 36b
 
 In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), wordt voor de toepassing van deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba uitsluitend verstaan onder:
 
@@ -714,7 +741,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 - c. **ambtenaar van politie:** de ambtenaar van politie, belast met de uitvoering van de taken, bedoeld onder a, de ambtenaar van de Koninklijke marechaussee voor zover werkzaam ter uitvoering van de politietaken, bedoeld in [artikel 5, eerste lid, van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=5), de commandant en door hem aangewezen opvarenden van de Kustwacht voor zover werkzaam ter uitvoering van de politietaken alsmede de buitengewone agenten van politie, bedoeld in [artikel 10 van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028079&artikel=10) voor zover zij werkzaam zijn ter uitvoering van de politietaken.
 
-#### Artikel 36c. (omzetting bepalingen naar toepasselijkheid Bonaire, Sint Eustatius en Saba)
+##### Artikel 36c. (omzetting bepalingen naar toepasselijkheid Bonaire, Sint Eustatius en Saba)
 
 1. Voor de toepassing van:
 
@@ -744,7 +771,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 5. De verwerkingsverantwoordelijke meldt de privacyfunctionaris, bedoeld in [artikel 34, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=34&z=2025-07-01&g=2025-07-01), aan bij de Commissie van toezicht bescherming persoonsgegevens BES.
 
-#### Artikel 36d. (verstrekking aan gezagsdragers Bonaire, Sint Eustatius en Saba)
+##### Artikel 36d. (verstrekking aan gezagsdragers Bonaire, Sint Eustatius en Saba)
 
 1. In afwijking van [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=16&z=2025-07-01&g=2025-07-01), verstrekt de verwerkingsverantwoordelijke politiegegevens aan:
 
@@ -766,7 +793,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 2. [Artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=16&z=2025-07-01&g=2025-07-01), is uitsluitend van toepassing op de verstrekking, bedoeld in het eerste lid, onder b.
 
-#### Artikel 36e. (verstrekking aan Nederlandse opsporingsinstanties en het openbaar ministerie en aan derde landen en internationale organisaties)
+##### Artikel 36e. (verstrekking aan Nederlandse opsporingsinstanties en het openbaar ministerie en aan derde landen en internationale organisaties)
 
 1. Politiegegevens kunnen worden verstrekt aan de verwerkingsverantwoordelijken, bedoeld in [artikel 1, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), voor zover dat noodzakelijk is voor een goede uitoefening van de politietaak, bedoeld in [artikel 36b, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5a&artikel=36b&z=2025-07-01&g=2025-07-01), dan wel de politietaak in het Europese deel van Nederland.
 
@@ -788,7 +815,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 8. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking of doorgifte van politiegegevens, bedoeld in het vierde tot en met het zevende lid, alsmede over de verdere verwerking en de daarbij te stellen voorwaarden aan het gebruik daarvan door ontvangstgerechtigde autoriteiten of internationale organen en over de ontvangst van politiegegevens vanuit het buitenland.
 
-#### Artikel 36f. (toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455))
+##### Artikel 36f. (toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455))
 
 1. In afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4a&artikel=29&z=2025-07-01&g=2025-07-01) geldt een beslissing op een verzoek als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01) of [28](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01) gericht aan de verwerkingsverantwoordelijke, bedoeld in [artikel 36b, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5a&artikel=36b&z=2025-07-01&g=2025-07-01), als een beschikking als bedoeld in [artikel 3 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=3).
 
@@ -796,7 +823,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 3. In procedures inzake beslissingen als bedoeld in het eerste lid waarbij de verwerkingsverantwoordelijke of onder zijn verantwoordelijkheid werkzame personen ingevolge [artikel 37 van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=37) worden verplicht tot het geven van inlichtingen met betrekking tot politiegegevens die zijn te herleiden tot een informant als bedoeld in [artikel 12, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=2&artikel=12&z=2025-07-01&g=2025-07-01), kan Onze Minister van Veiligheid en Justitie beslissen dat hieraan geen uitvoering wordt gegeven. [Artikel 29, vijfde lid, tweede en derde zin](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4a&artikel=29&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 36g. (toezicht)
+##### Artikel 36g. (toezicht)
 
 1. De Commissie van toezicht bescherming persoonsgegevens BES, bedoeld in [artikel 44 van de Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067&artikel=44), ziet toe op de verwerking van politiegegevens in Bonaire, Sint Eustatius en Saba overeenkomstig het bij en krachtens deze wet bepaalde.
 
@@ -808,7 +835,7 @@ In afwijking van [artikel 1, onder b, f en k](https://wetten.overheid.nl/jci1.3:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 4a. (gegevensbescherming door beveiliging en ontwerp)
+##### Artikel 4a. (gegevensbescherming door beveiliging en ontwerp)
 
 1. De verwerkingsverantwoordelijke en de verwerker treffen passende technische en organisatorische maatregelen om:
 
@@ -828,7 +855,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de maatregelen, bedoeld in het eerste en tweede lid.
 
-#### Artikel 4b. (gegevensbescherming door standaardinstellingen)
+##### Artikel 4b. (gegevensbescherming door standaardinstellingen)
 
 1. De verwerkingsverantwoordelijke treft passende technische en organisatorische maatregelen om te waarborgen dat standaard:
 
@@ -838,7 +865,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. De in het eerste lid, onder a, bedoelde maatregelen betreffen in ieder geval de hoeveelheid verzamelde politiegegevens, de mate waarin zij worden verwerkt, de periode van opslag en de toegankelijkheid van de politiegegevens.
 
-#### Artikel 4c. (gegevensbeschermingseffectbeoordeling)
+##### Artikel 4c. (gegevensbeschermingseffectbeoordeling)
 
 1. Wanneer een soort verwerking, in het bijzonder een verwerking waarbij nieuwe technologieën worden gebruikt, gelet op de aard, de omvang, de context of doelen ervan, waarschijnlijk een hoog risico voor de rechten en vrijheden van personen oplevert, voert de verwerkingsverantwoordelijke voorafgaande aan de verwerking een beoordeling uit van het effect van de voorgenomen verwerkingsactiviteiten op de bescherming van persoonsgegevens.
 
@@ -854,7 +881,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Indien nodig verricht de verwerkingsverantwoordelijke een toetsing om te beoordelen of de verwerking overeenkomstig de gegevensbeschermingseffectbeoordeling wordt uitgevoerd, zulks ten minste wanneer sprake is van een verandering van het risico dat de verwerkingen inhouden.
 
-#### Artikel 6a. (toegang tot politiegegevens)
+##### Artikel 6a. (toegang tot politiegegevens)
 
 1. De verwerkingsverantwoordelijke heeft toegang tot de politiegegevens die onder zijn beheer worden verwerkt ten behoeve van het toezicht op de naleving van het bij of krachtens deze wet bepaalde.
 
@@ -862,7 +889,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De verwerkingsverantwoordelijke verleent de verwerker, bedoeld in [artikel 6c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=6c&z=2025-07-01&g=2025-07-01), alsmede degenen die belast zijn met de controle en het toezicht, bedoeld in de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=33&z=2025-07-01&g=2025-07-01), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=34&z=2025-07-01&g=2025-07-01), [35](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=35&z=2025-07-01&g=2025-07-01) en [36](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=36&z=2025-07-01&g=2025-07-01), alsmede degenen die in zijn opdracht technische werkzaamheden verrichten, toegang tot de politiegegevens die onder zijn beheer worden verwerkt, voor zover zij deze behoeven voor de uitvoering van hun taak.
 
-#### Artikel 6b. (onderscheid tussen verschillende categorieën van betrokkenen)
+##### Artikel 6b. (onderscheid tussen verschillende categorieën van betrokkenen)
 
 De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk een duidelijk onderscheid tussen politiegegevens betreffende verschillende categorieën van betrokkenen, zoals:
 
@@ -874,7 +901,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 - d. personen die voor een strafbaar feit zijn veroordeeld.
 
-#### Artikel 6c. (verwerker)
+##### Artikel 6c. (verwerker)
 
 1. Indien de verwerkingsverantwoordelijke politiegegevens te zijnen behoeve laat verwerken door een verwerker maakt hij uitsluitend gebruik van een verwerker die afdoende garandeert dat de passende technische en organisatorische maatregelen en procedures zodanig worden geïmplementeerd dat bij de verwerking wordt voldaan aan het bij of krachtens deze wet bepaalde en de rechten van de betrokkene worden gewaarborgd.
 
@@ -886,7 +913,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 5. De verwerker stelt de verwerkingsverantwoordelijke zonder onnodige vertraging in kennis van een inbreuk op de beveiliging.
 
-#### Artikel 7a. (geautomatiseerde individuele besluitvorming)
+##### Artikel 7a. (geautomatiseerde individuele besluitvorming)
 
 1. Een besluit dat uitsluitend op geautomatiseerde verwerking is gebaseerd, met inbegrip van profilering, dat voor de betrokkene nadelige rechtsgevolgen heeft of hem in aanmerkelijke mate treft, is verboden, tenzij wordt voorzien in voorafgaande menselijke tussenkomst door of namens de verwerkingsverantwoordelijke en in specifieke voorlichting aan de betrokkene.
 
@@ -896,7 +923,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 #### § 2. De verwerking van politiegegevens met het oog op de uitvoering van de politietaak
 
-#### Artikel 15a. (ter beschikkingstelling binnen Europese Unie)
+##### Artikel 15a. (ter beschikkingstelling binnen Europese Unie)
 
 1. Politiegegevens worden of kunnen worden ter beschikking gesteld aan de bevoegde autoriteiten in andere lidstaten van de Europese Unie of aan organen en instanties die zijn opgericht krachtens de hoofdstukken 4 en 5 van Titel V van het verdrag betreffende de werking van de Europese Unie, die zijn belast met de taken, bedoeld in [artikel 1, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=1&z=2025-07-01&g=2025-07-01), voor zover dat voortvloeit uit een rechtsinstrument op grond van het verdrag betreffende de werking van de Europese Unie.
 
@@ -904,7 +931,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 #### § 3. De doorgifte of verstrekking van politiegegevens aan anderen dan politie en Koninklijke marechaussee
 
-#### Artikel 24a. (informatie aan de betrokkene)
+##### Artikel 24a. (informatie aan de betrokkene)
 
 1. De verwerkingsverantwoordelijke verstrekt aan de betrokkene informatie over de verwerking van politiegegevens in een beknopte en toegankelijke vorm en in duidelijke en eenvoudige taal. De informatie wordt met passende middelen, waaronder elektronische, verstrekt en in het algemeen in dezelfde vorm als de vorm van het verzoek.
 
@@ -916,7 +943,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 5. De verstrekking van informatie, bedoeld in de [artikelen 24b](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=24b&z=2025-07-01&g=2025-07-01), [25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=25&z=2025-07-01&g=2025-07-01), en [28](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=28&z=2025-07-01&g=2025-07-01), vindt plaats overeenkomstig de [artikelen 30 tot en met 34 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=30) als de gegevens in een processtuk worden verwerkt.
 
-#### Artikel 24b. (verstrekking van informatie aan de betrokkene)
+##### Artikel 24b. (verstrekking van informatie aan de betrokkene)
 
 1. De verwerkingsverantwoordelijke verstrekt in elk geval de volgende informatie aan de betrokkene:
 
@@ -946,7 +973,7 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 #### § 4a. Rechtsbescherming
 
-#### Artikel 31a. (klacht bij Autoriteit persoonsgegevens)
+##### Artikel 31a. (klacht bij Autoriteit persoonsgegevens)
 
 1. Onverminderd bestaande rechtsmiddelen heeft iedere betrokkene het recht een klacht in te dienen bij de Autoriteit persoonsgegevens indien de betrokkene van mening is dat de verwerking van hem betreffende persoonsgegevens niet in overeenstemming is met het bij of krachtens deze wet bepaalde.
 
@@ -960,11 +987,11 @@ De verwerkingsverantwoordelijke maakt in voorkomend geval en voor zover mogelijk
 
 6. In het geval van een kennelijk ongegronde of buitensporige klacht, met name vanwege de geringe tussenpozen tussen klachten, kan de Autoriteit persoonsgegevens weigeren gevolg te geven aan de klacht.
 
-#### Artikel 31b. (rechtsvordering tegen Autoriteit persoonsgegevens)
+##### Artikel 31b. (rechtsvordering tegen Autoriteit persoonsgegevens)
 
 Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerecht, bedoeld in [artikel 2 van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=2), in Nederland.
 
-#### Artikel 31c. (schadevergoeding)
+##### Artikel 31c. (schadevergoeding)
 
 1. Indien iemand schade lijdt doordat ten opzichte van hem in strijd wordt gehandeld met de bij of krachtens deze wet gegeven voorschriften zijn de volgende leden van toepassing, onverminderd de aanspraken op grond van andere wettelijke regels.
 
@@ -974,7 +1001,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 4. De verwerkingsverantwoordelijke of de verwerker kan geheel of gedeeltelijk worden ontheven van deze aansprakelijkheid, indien hij bewijst dat de schade hem niet kan worden toegerekend.
 
-#### Artikel 31d. (register)
+##### Artikel 31d. (register)
 
 1. De verwerkingsverantwoordelijke houdt een register bij dat de volgende gegevens bevat:
 
@@ -1008,13 +1035,13 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 - d. indien mogelijk, een algemene beschrijving van de technische en organisatorische maatregelen, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=1&artikel=4a&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 32a. (logging)
+##### Artikel 32a. (logging)
 
 1. De verwerkingsverantwoordelijke en de verwerker dragen zorg voor de vastlegging langs elektronische weg (logging) van ten minste de volgende verwerkingen van politiegegevens in geautomatiseerde systemen: het verzamelen, wijzigen, raadplegen, verstrekken onder meer in de vorm van doorgiften, combineren of vernietigen van politiegegevens.
 
 2. De vastgelegde gegevens, bedoeld in het eerste lid, worden uitsluitend gebruikt voor de controle van de rechtmatigheid van de gegevensverwerking, voor interne controles, ter waarborging van de integriteit en de beveiliging van de politiegegevens en voor strafrechtelijke procedures.
 
-#### Artikel 33a. (melding datalekken)
+##### Artikel 33a. (melding datalekken)
 
 1. De verwerkingsverantwoordelijke meldt een inbreuk op de beveiliging onverwijld en uiterlijk binnen 72 uur nadat hij ervan heeft kennis genomen aan de Autoriteit persoonsgegevens, tenzij het niet waarschijnlijk is dat de inbreuk een risico voor de rechten en vrijheden van personen met zich meebrengt. In het geval de melding na 72 uur wordt gedaan, gaat deze vergezeld van een motivering voor de vertraging.
 
@@ -1044,7 +1071,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 7. De mededeling aan de betrokkene kan worden uitgesteld, beperkt of achterwege gelaten op de gronden, bedoeld in [artikel 27, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=4&artikel=27&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 33b. (voorafgaand raadplegen Autoriteit persoonsgegevens)
+##### Artikel 33b. (voorafgaand raadplegen Autoriteit persoonsgegevens)
 
 1. De Autoriteit persoonsgegevens wordt door de verwerkingsverantwoordelijke of de verwerker geraadpleegd over de voorgenomen verwerking van politiegegevens die in een nieuw bestand zullen worden opgenomen, wanneer:
 
@@ -1060,7 +1087,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 5. De termijn, bedoeld in het vierde lid, kan, rekening houdend met de complexiteit van de voorgenomen verwerking, worden verlengd met een maand. In dit geval wordt de verwerkingsverantwoordelijke en, in voorkomend geval, de verwerker, binnen een maand na de ontvangst van het verzoek in kennis gesteld van de verlenging en de redenen daarvoor.
 
-#### Artikel 35a. (positie Autoriteit persoonsgegevens)
+##### Artikel 35a. (positie Autoriteit persoonsgegevens)
 
 1. De Autoriteit persoonsgegevens treedt bij de uitvoering van haar taken en de uitoefening van haar bevoegdheden volledig onafhankelijk op.
 
@@ -1070,7 +1097,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 4. De leden van de Autoriteit persoonsgegevens onthouden zich van alle handelingen die onverenigbaar zijn met hun taken en verrichten gedurende hun ambtstermijn geen al dan niet bezoldigde beroepswerkzaamheden die onverenigbaar zijn met hun taken.
 
-#### Artikel 35b. (taken Autoriteit persoonsgegevens)
+##### Artikel 35b. (taken Autoriteit persoonsgegevens)
 
 1. De Autoriteit persoonsgegevens heeft tot taak:
 
@@ -1100,7 +1127,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 2. De Autoriteit persoonsgegevens verricht haar taken kosteloos voor de betrokkene en voor de functionaris voor gegevensbescherming.
 
-#### Artikel 35c. (bevoegdheden Autoriteit persoonsgegevens)
+##### Artikel 35c. (bevoegdheden Autoriteit persoonsgegevens)
 
 1. De Autoriteit persoonsgegevens is bevoegd:
 
@@ -1142,7 +1169,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 4. De bevoegdheden, bedoeld in het eerste lid, onderdelen d en e, gelden als een besluit in de zin van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
-#### Artikel 35d. (samenwerking met toezichthoudende autoriteiten in andere lidstaten)
+##### Artikel 35d. (samenwerking met toezichthoudende autoriteiten in andere lidstaten)
 
 1. De Autoriteit persoonsgegevens verstrekt aan een autoriteit in een andere lidstaat die is belast met het toezicht, bedoeld in [artikel 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=5&artikel=35&z=2025-07-01&g=2025-07-01), relevante informatie en wederzijdse bijstand om deze richtlijn op een consequente manier ten uitvoer te leggen en toe te passen, en neemt maatregelen om doeltreffend met elkaar samen te werken.
 
@@ -1168,7 +1195,7 @@ Een vordering tegen de Autoriteit persoonsgegevens wordt ingesteld bij een gerec
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. Verstrekking van politiegegevens aan de verwerkingsverantwoordelijke als bedoeld in [artikel 16, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0022463&paragraaf=3&artikel=16&z=2025-07-01&g=2025-07-01), kan rechtstreeks plaatsvinden.
 

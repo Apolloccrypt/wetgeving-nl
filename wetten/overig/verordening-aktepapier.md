@@ -1,13 +1,36 @@
 ---
 title: "Verordening aktepapier"
 identifier: "BWBR0011433"
-categorie: "Overig"
-publicatiedatum: 2000-10-01
-laatste_update: 2000-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011433"
+country: "nl"
+rank: "pbo"
+publication_date: "2000-10-01"
+last_updated: "2000-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011433"
+soort: "pbo"
+stam_id: "6831423"
+version_id: "11711512"
+internal_id: "C15787621"
+label_id: "6819624"
+original_entry_into_force: "2000-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011433/2000-10-01/0"
+intitule_bron: "Stcrt.2000-182"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-21"
+intitule_published: "2000-09-20"
+intitule_in_force: "2000-09-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-182"
+original_signed_date: "2000-06-21"
+original_published_date: "2000-09-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-01"
+jci_1_3: "jci1.3:c:BWBR0011433&z=2000-10-01&g=2000-10-01"
+jci_1_0: "1.0:c:BWBR0011433&g=2000-10-01"
+citeertitel_status: "officieel"
+signed_date: "2000-06-21"
+entry_into_force: "2000-10-01"
 ---
-
 # Verordening aktepapier
 
 Overwegende dat het gewenst is regelen te stellen omtrent het papier waarop de akte wordt gesteld en de wijze waarop de tekst van de akte op dit papier wordt gesteld;
@@ -24,13 +47,13 @@ stelt de navolgende verordening vast:
 
 #### Materiaal
 
-#### Artikel 1
+##### Artikel 1
 
 Het papier waarop akten, afschriften, grossen en notariële verklaringen worden gesteld en al hetgeen daarop gedrukt en geschreven staat, moeten voldoen aan de in of krachtens deze verordening gestelde vereisten; dit papier wordt hierna genoemd: aktepapier. Deze vereisten gelden niet indien en voor zover de notaris verplicht is van ander, van overheidswege verstrekt papier gebruik te maken.
 
 #### Eisen en reglement
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het aktepapier dient zodanige eigenschappen te bezitten en al hetgeen daarop gedrukt en geschreven staat dient op zodanige wijze op dit aktepapier te worden gesteld dat
 
@@ -52,10 +75,10 @@ Het papier waarop akten, afschriften, grossen en notariële verklaringen worden 
 
 #### Slotbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Deze verordening wordt aangehaald als verordening aktepapier.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze verordening treedt in werking met ingang van 1 oktober 2000 of zoveel later als de termijn van tien dagen na publicatie in de Staatscourant als bedoeld in [artikel 91 lid 2 Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=91) is verstreken.

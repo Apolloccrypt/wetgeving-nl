@@ -1,14 +1,41 @@
 ---
-title: "Wet taken meteorologie en seismologie"
+title: "Wet van 23 september 2015, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Wet taken meteorologie en seismologie)"
 identifier: "BWBR0037074"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037074"
+country: "nl"
+rank: "wet"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037074"
+soort: "wet"
+stam_id: "13270733"
+version_id: "22711402"
+internal_id: "C33093511"
+label_id: "13238874"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037074/2016-01-01/0"
+intitule_bron: "Stb.2015-345"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-09-23"
+intitule_published: "2015-10-08"
+intitule_in_force: "2015-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2015-345"
+original_signed_date: "2015-09-23"
+original_published_date: "2015-10-08"
+original_effect: "nieuwe-regeling"
+original_dossier: "33802"
+original_url_id: "stb-2015-345"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037074&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037074&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet taken meteorologie en seismologie"
+signed_date: "2015-09-23"
+entry_into_force: "2016-01-01"
 ---
-
-# Wet taken meteorologie en seismologie
+# Wet van 23 september 2015, houdende regels omtrent de overheidszorg op het gebied van meteorologie en seismologie (Wet taken meteorologie en seismologie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,13 +55,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **overheidsbedrijven:** overheidsbedrijven als bedoeld in [artikel 25g van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=25g), voor zover zij een publiekrechtelijke taak uitvoeren.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze wet is mede van toepassing in de openbare lichamen.
 
 ### Hoofdstuk 2. Zorgplicht meteorologie en seismologie
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister draagt zorg voor:
 
@@ -80,7 +107,7 @@ Deze wet is mede van toepassing in de openbare lichamen.
 
 3. Bij ministeriele regeling kunnen regels gesteld worden over internationale verplichtingen op het gebied van meteorologie, seismologie en andere geofysische terreinen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister stelt ten minste elke vier jaar een programma vast waarin alle activiteiten zijn opgenomen die hij ingevolge het bij of krachtens deze wet bepaalde voornemens is uit te voeren.
 
@@ -88,13 +115,13 @@ Deze wet is mede van toepassing in de openbare lichamen.
 
 ### Hoofdstuk 2a. Bestuursorganen en openbare lichamen
 
-#### Artikel 5
+##### Artikel 5
 
 Bestuursorganen nemen de ondersteuning, bedoeld in [artikel 3, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), af bij Onze Minister indien sprake is van verwacht of werkelijk maatschappij-ontwrichtend weer of calamiteiten waarbij het weer een belangrijke rol speelt.
 
 ### Hoofdstuk 3. Wetenschappelijk onderzoek
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister geeft geen aanwijzingen met betrekking tot de methoden, volgens welke de onderzoeken, bedoeld in [artikel 3, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0037074&hoofdstuk=2&artikel=3&z=2016-01-01&g=2016-01-01), worden uitgevoerd en de resultaten die daarvan worden gerapporteerd.
 
@@ -110,7 +137,7 @@ Bestuursorganen nemen de ondersteuning, bedoeld in [artikel 3, eerste lid, onder
 
 ### Hoofdstuk 4. Kosten
 
-#### Artikel 7
+##### Artikel 7
 
 1. De volgende kosten worden ten minste integraal doorberekend aan bestuursorganen en overheidsbedrijven, voor zover deze niet tot de Staat behoren, indien zij afnemen:
 
@@ -124,35 +151,35 @@ Onze Minister maakt dit inzichtelijk in de administratie.
 
 ### Hoofdstuk 5. Wijzigings- en slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt de Wet tegemoetkoming schade bij rampen.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. Hiertoe behoort in ieder geval de mate van toegankelijkheid van de algemene weerberichten en de waarschuwingen aan het algemeen publiek in geval van gevaarlijk of maatschappij-ontwrichtend weer.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt deze wet.
 
-#### Artikel 13
+##### Artikel 13
 
 De [Wet op het Koninklijk Nederlands Meteorologisch Instituut](https://wetten.overheid.nl/jci1.3:c:BWBR0012952) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als de: Wet taken meteorologie en seismologie.
 

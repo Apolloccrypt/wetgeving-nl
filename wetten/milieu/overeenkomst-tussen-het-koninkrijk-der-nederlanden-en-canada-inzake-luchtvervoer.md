@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Canada inzake luchtvervoer tussen Nederland en Canada"
 identifier: "BWBV0003010"
-categorie: "Milieu"
-publicatiedatum: 2019-05-16
-laatste_update: 2019-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003010"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-05-16"
+last_updated: "2019-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003010"
+soort: "verdrag"
+stam_id: "10003291743"
+version_id: "10005971132"
+internal_id: "C10009559221"
+label_id: "10003277684"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003010/2019-05-16/0"
+intitule_bron: "Trb.2019-71"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2019-05-14"
+intitule_in_force: "2019-05-14"
+intitule_status: "vervallen"
+original_publication: "Trb.2019-71"
+original_published_date: "2019-05-14"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2019-71"
+entry_into_force_date: "2019-05-16"
+jci_1_3: "jci1.3:c:BWBV0003010&z=2019-05-16&g=2019-05-16"
+jci_1_0: "1.0:c:BWBV0003010&g=2019-05-16"
+citeertitel_status: "officieel"
+entry_into_force: "2019-05-16"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Canada inzake luchtvervoer tussen Nederland en Canada
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van Canada, hierna te noemen de Overeenkomstsluitende Partijen,
@@ -24,107 +46,107 @@ Geleid door de wens een nieuwe Overeenkomst inzake Luchtvervoer te sluiten die, 
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 Vervallen
 
-#### Artikel X
+##### Artikel X
 
 Vervallen
 
-#### Artikel XI
+##### Artikel XI
 
 Vervallen
 
-#### Artikel XII
+##### Artikel XII
 
 Vervallen
 
-#### Artikel XIII
+##### Artikel XIII
 
 Vervallen
 
-#### Artikel XIV
+##### Artikel XIV
 
 Vervallen
 
-#### Artikel XV
+##### Artikel XV
 
 Vervallen
 
-#### Artikel XVI
+##### Artikel XVI
 
 Vervallen
 
-#### Artikel XVII
+##### Artikel XVII
 
 Vervallen
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Vervallen
 
-#### Artikel XIX
+##### Artikel XIX
 
 Vervallen
 
-#### Artikel XX
+##### Artikel XX
 
 Vervallen
 
-#### Artikel XXI
+##### Artikel XXI
 
 Vervallen
 
-#### Artikel XXII
+##### Artikel XXII
 
 Vervallen
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Vervallen
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Vervallen
 
-#### Artikel XXV
+##### Artikel XXV
 
 Vervallen
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Vervallen
 

@@ -1,20 +1,43 @@
 ---
-title: "Regeling Activiteitenprogramma’s creatieve industrie"
+title: "Regeling activiteitenprogramma’s creatieve industrie"
 identifier: "BWBR0049941"
-categorie: "Overig"
-publicatiedatum: 2024-07-10
-laatste_update: 2024-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049941"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-10"
+last_updated: "2024-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049941"
+soort: "zbo"
+stam_id: "17161863"
+version_id: "30206492"
+internal_id: "C43273841"
+label_id: "17070274"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049941/2024-07-10/0"
+intitule_bron: "Stcrt.2024-21829"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-07-08"
+intitule_in_force: "2024-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21829"
+original_published_date: "2024-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21829"
+entry_into_force_date: "2024-07-10"
+jci_1_3: "jci1.3:c:BWBR0049941&z=2024-07-10&g=2024-07-10"
+jci_1_0: "1.0:c:BWBR0049941&g=2024-07-10"
+citeertitel_status: "officieel"
+short_title: "Regeling Activiteitenprogramma’s creatieve industrie"
+entry_into_force: "2024-07-10"
 ---
-
 # Regeling activiteitenprogramma’s creatieve industrie
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10), besluit vast te stellen de navolgende regeling, houdende regels voor het verstrekken van tweejarige subsidies aan instellingen voor de uitvoering van een activiteitenprogramma ter bevordering van de kwaliteit van de creatieve industrie.
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597), met dien verstande dat wordt verstaan onder:
 
@@ -66,7 +89,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 - –. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-#### Artikel 2. Taakopvatting van het Stimuleringsfonds Creatieve Industrie
+##### Artikel 2. Taakopvatting van het Stimuleringsfonds Creatieve Industrie
 
 1. De taak van het fonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
@@ -74,7 +97,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstelling Regeling Activiteitenprogramma’s creatieve industrie
+##### Artikel 3. Reikwijdte en doelstelling Regeling Activiteitenprogramma’s creatieve industrie
 
 1. Het fonds kan op grond van deze regeling tweejarige subsidies verstrekken aan culturele instellingen en organisaties binnen het Koninkrijk, die vanuit hun kerntaak met een activiteitenprogramma bijdragen aan de hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse creatieve industrie binnen het Koninkrijk.
 
@@ -88,7 +111,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 - d. stimuleren van experiment, onderzoek, reflectie en debat;
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het fonds ter beschikking worden gesteld.
 
@@ -96,7 +119,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 3. Het besluit zoals bedoeld in het tweede lid wordt bekendgemaakt op de website van het fonds [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
-#### Artikel 5. Landsdelen
+##### Artikel 5. Landsdelen
 
 1. Binnen deze regeling wordt onderscheid gemaakt tussen vijf landsdelen en het Caribisch deel van het Koninkrijk:
 
@@ -114,7 +137,7 @@ De in deze regeling gehanteerde begrippen hebben dezelfde betekenis als in de [R
 
 2. De landsdelen zijn leidend in de prioritering van positief beoordeelde voorstellen, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=14&z=2024-07-10&g=2024-07-10).
 
-#### Artikel 6. Drempelnormen
+##### Artikel 6. Drempelnormen
 
 Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgende drempelnormen is voldaan:
 
@@ -124,7 +147,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 - 3. het activiteitenprogramma vormt de kerntaak van de instelling.
 
-#### Artikel 7. Voorwaarden met betrekking tot financiën en andere subsidierelaties
+##### Artikel 7. Voorwaarden met betrekking tot financiën en andere subsidierelaties
 
 1. Op basis van deze regeling kan alleen subsidie worden verstrekt:
 
@@ -142,7 +165,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 - –. Regeling Digitale cultuur.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 1. Er wordt op grond van deze regeling geen subsidie verstrekt als de instelling voor zijn kerntaken in de periode 2025-2028 meerjarig subsidie ontvangt op grond van:
 
@@ -178,7 +201,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 9. Wijze van indiening
+##### Artikel 9. Wijze van indiening
 
 1. Het fonds maakt via de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) bekend binnen welke periode op grond van deze regeling een subsidieaanvraag kan worden ingediend.
 
@@ -188,7 +211,7 @@ Een subsidie op grond van deze regeling wordt alleen verstrekt als aan de volgen
 
 4. De aanvrager geeft in de aanvraag aan voor welk landsdeel, genoemd in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=5&z=2024-07-10&g=2024-07-10), subsidie wordt aangevraagd. Dit is het landsdeel waar de instelling statutair is gevestigd op het moment dat de aanvraag binnen deze regeling wordt ingediend.
 
-#### Artikel 10. Inhoud van de aanvraag
+##### Artikel 10. Inhoud van de aanvraag
 
 Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze documenten worden beschikbaar gesteld aan de externe adviescommissie:
 
@@ -216,7 +239,7 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 - 7. Een document waaruit de financiële positie van de instelling blijkt, bij voorkeur de laatst opgemaakte jaarrekening of – als er geen jaarrekening voorhanden is – een verslag over de financiële positie van de aanvrager op het moment van de aanvraag.
 
-#### Artikel 11. Indiening van de begroting bij de aanvraag
+##### Artikel 11. Indiening van de begroting bij de aanvraag
 
 1. De begroting geeft een overzicht van de geraamde baten en lasten van de aanvrager voor de uitvoering van het activiteitenprogramma voor het eerste jaar van de subsidieperiode. Bij de inrichting van de begroting houdt de instelling zich aan het model voor de activiteitenbegroting, dat is vastgesteld door het fonds en bekendgemaakt op de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
@@ -236,7 +259,7 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 12. Proces van advisering
+##### Artikel 12. Proces van advisering
 
 1. Getoetst wordt of de aanvraag compleet is en aan de in [artikel 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=2&artikel=6&z=2024-07-10&g=2024-07-10) gestelde drempelnormen en voorwaarden voldoet.
 
@@ -248,7 +271,7 @@ Een aanvraag bestaat uit de in dit artikel genoemde onderdelen. Alleen deze docu
 
 5. De adviescommissie hanteert een werkwijze en scoresystematiek overeenkomstig de Werkwijze Adviescommissies. Hierbij geldt de versie zoals gepubliceerd op de website van het fonds op het moment van indienen [https://www.stimuleringsfonds.nl/protocollen](https://www.stimuleringsfonds.nl/protocollen).
 
-#### Artikel 13. Beoordelingscriteria
+##### Artikel 13. Beoordelingscriteria
 
 De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende criteria, die in gelijke mate worden gewogen:
 
@@ -262,7 +285,7 @@ De adviescommissie hanteert bij de beoordeling van een aanvraag de volgende crit
 
 - e. **de consistentie in doel en opzet van de aanvraag:** hierbij worden alle in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=3&artikel=10&z=2024-07-10&g=2024-07-10) genoemde onderdelen in onderling verband en samenhang beoordeeld.
 
-#### Artikel 14. Prioritering & regionale spreiding
+##### Artikel 14. Prioritering & regionale spreiding
 
 De volgende procedure voor prioritering wordt gehanteerd:
 
@@ -276,7 +299,7 @@ De volgende procedure voor prioritering wordt gehanteerd:
 
 - e. als aanvragen bij de toepassing van onderdeel d op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan wordt prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, vervolgens op criterium b, c, d en e, zoals genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0049941&hoofdstuk=4&artikel=13&z=2024-07-10&g=2024-07-10).
 
-#### Artikel 15. Verlening van een subsidie
+##### Artikel 15. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen 11 weken na de sluitingsdatum schriftelijk over het besluit.
 
@@ -288,13 +311,13 @@ De volgende procedure voor prioritering wordt gehanteerd:
 
 5. Zowel positieve als negatieve adviezen van de adviescommissie worden gepubliceerd op de website van het fonds.
 
-#### Artikel 16. Wijziging subsidiebedrag
+##### Artikel 16. Wijziging subsidiebedrag
 
 1. Als de instellingssubsidie aan het fonds door de Minister van Onderwijs, Cultuur en Wetenschap wordt verhoogd, rekening houdend met de ontwikkeling van de kosten in de arbeidsvoorwaarden of de kosten van het prijspeil, kan het fonds de subsidie van de subsidieontvanger verhogen met het percentage dat bepaald is door de Minister van Onderwijs, Cultuur en Wetenschap.
 
 2. Als de subsidie wordt gewijzigd, rekening houdend met de ontwikkeling van de kosten in de arbeidsvoorwaarden of de kosten van het prijspeil, bepaalt de Minister van Onderwijs, Cultuur en Wetenschap welk percentage van de subsidie wordt aangemerkt als loongevoelig onderscheidenlijk prijsgevoelig.
 
-#### Artikel 17. Voorschotten en monitorgesprek
+##### Artikel 17. Voorschotten en monitorgesprek
 
 1. Het fonds betaalt in januari van het eerste kalenderjaar van de subsidieperiode 40% van het totaal toegekende bedrag over de periode van twee jaar als voorschot uit. In het tweede kalenderjaar van de subsidieperiode volgt een tweede voorschot van 50% van het totaal toegekende bedrag. Het resterende deel wordt na het besluit tot vaststelling van de subsidie uitbetaald.
 
@@ -316,7 +339,7 @@ De volgende procedure voor prioritering wordt gehanteerd:
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 18. Administratie
+##### Artikel 18. Administratie
 
 1. De subsidieontvanger stelt het boekjaar gelijk aan het kalenderjaar.
 
@@ -324,11 +347,11 @@ De volgende procedure voor prioritering wordt gehanteerd:
 
 3. De subsidieontvanger bewaart de administratie en de daartoe behorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 19. Vermelding Stimuleringsfonds
+##### Artikel 19. Vermelding Stimuleringsfonds
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het fonds als subsidieverstrekker. Het logo van het fonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en audiovisuele producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen wordt in verhouding tot de bijdrage het logo van het fonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 20. Melding bij het bestuur
+##### Artikel 20. Melding bij het bestuur
 
 De subsidieontvanger meldt onverwijld aan het bestuur als:
 
@@ -342,7 +365,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 21. Jaarlijkse verantwoording
+##### Artikel 21. Jaarlijkse verantwoording
 
 1. Een instelling dient vóór 1 mei van het eerste respectievelijk tweede kalenderjaar van de subsidieperiode een inhoudelijke en financiële verantwoording en een kwantitatief activiteitenoverzicht in over het activiteitenprogramma, uitgevoerd in het eerste respectievelijk tweede kalenderjaar van de subsidieperiode.
 
@@ -354,7 +377,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 5. Het kwantitatief activiteitenoverzicht geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd over de verrichtte activiteiten door de subsidieontvanger. Het kwantitatief activiteitenoverzicht sluit aan op de indeling van de begroting die voorafgaand aan de subsidieverlening is ingediend.
 
-#### Artikel 22. Aanvraag voor vaststelling van subsidie
+##### Artikel 22. Aanvraag voor vaststelling van subsidie
 
 1. Een instelling dient uiterlijk vier maanden na afloop van de subsidieperiode een aanvraag om vaststelling van de subsidie in waarin een inhoudelijke en financiële verantwoording over het activiteitenprogramma wordt gegeven.
 
@@ -366,7 +389,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 5. Het bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van de subsidie.
 
-#### Artikel 23. Financiële verantwoording
+##### Artikel 23. Financiële verantwoording
 
 1. [Titel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9), met uitzondering van de [afdelingen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=1), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=7), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=12), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=14) en [15, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&afdeling=15), of een overeenkomstige bepaling in het recht van het land waar de instelling is gevestigd, is van toepassing op de financiële verantwoording over het activiteitenprogramma en de jaarrekening van de instelling. De term ‘winst- en verliesrekening’ moet in die artikelen worden vervangen door ‘exploitatierekening’. Op deze exploitatierekening zijn de bepalingen omtrent de winst- en verliesrekening van overeenkomstige toepassing. Bepalingen omtrent winst en verlies zijn van overeenkomstige toepassing op het exploitatiesaldo.
 
@@ -376,7 +399,7 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 4. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 24. Accountantsverklaring
+##### Artikel 24. Accountantsverklaring
 
 1. Als de subsidie per kalenderjaar meer dan € 125.000 bedraagt, is de subsidieontvanger verplicht om de financiële verantwoording te voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) of een overeenkomstige bepaling in het recht van het land waar de instelling is gevestigd.
 
@@ -388,21 +411,21 @@ De subsidieontvanger meldt onverwijld aan het bestuur als:
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 25. Bezwaar
+##### Artikel 25. Bezwaar
 
 Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt genomen op grond van deze regeling door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt 6 weken. De termijn vangt aan op de dag nadat het besluit bekend is gemaakt. De procedure voor bezwaren is gepubliceerd op de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 26. Bescherming persoonsgegevens
+##### Artikel 26. Bescherming persoonsgegevens
 
 Het bestuur verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het fonds zijn medegedeeld en om persoonsgegevens als bedoeld in de [artikelen 22 tot en met 33 van de Uitvoeringswet Algemene Verordening Gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=22), tenzij de verstrekking voortvloeit uit een wettelijke verplichting dan wel kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.
 
 Uitgezonderd hiervan is het advies van de adviescommissie. Het fonds zal dit advies actief openbaar maken via de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/).
 
-#### Artikel 27. Hardheidsclausule
+##### Artikel 27. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 28. Inwerkingtreding en expiratie
+##### Artikel 28. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 1 juli 2024. Als de Staatscourant, waarin zij wordt geplaatst, op een latere datum verschijnt, treedt zij in werking op de tweede dag na verschijning van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 juli 2024.
 
@@ -410,7 +433,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Activiteitenprogramma’s creatieve industrie
 

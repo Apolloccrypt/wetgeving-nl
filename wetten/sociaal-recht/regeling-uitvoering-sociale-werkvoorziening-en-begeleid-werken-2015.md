@@ -1,13 +1,39 @@
 ---
-title: "Regeling uitvoering sociale werkvoorziening en begeleid werken 2015"
+title: "Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 18 december 2007, nr. AM/SAM/07/41474, tot vaststelling van regels betreffende de uitvoering van de Wet sociale werkvoorziening (Regeling uitvoering sociale werkvoorziening en begeleid werken 2008)"
 identifier: "BWBR0023158"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-11-24
-laatste_update: 2021-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023158"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-11-24"
+last_updated: "2021-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023158"
+soort: "ministeriele-regeling"
+stam_id: "9348953"
+version_id: "15029732"
+internal_id: "C20474851"
+label_id: "9327414"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023158/2021-11-24/0"
+intitule_bron: "Stcrt.2007-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-18"
+intitule_published: "2007-12-24"
+intitule_in_force: "2007-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-249"
+original_signed_date: "2007-12-18"
+original_published_date: "2007-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-249-p19-SC83761"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023158&z=2021-11-24&g=2021-11-24"
+jci_1_0: "1.0:c:BWBR0023158&g=2021-11-24"
+citeertitel_status: "officieel"
+short_title: "Regeling uitvoering sociale werkvoorziening en begeleid werken 2015"
+signed_date: "2007-12-18"
+entry_into_force: "2008-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, van 18 december 2007, nr. AM/SAM/07/41474, tot vaststelling van regels betreffende de uitvoering van de Wet sociale werkvoorziening (Regeling uitvoering sociale werkvoorziening en begeleid werken 2008)
 
 Gelet op de [artikelen 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=8) en [14, tweede lid, van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=14) en de [artikelen 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3), [8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=8), [16, eerste en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=16), en [18, tweede lid, onderdeel c, van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=18);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -28,7 +54,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 ### Hoofdstuk 2. Herindicatie
 
-#### Artikel 2. Inschakeling deskundigen bij het onderzoek
+##### Artikel 2. Inschakeling deskundigen bij het onderzoek
 
 1. Bij het onderzoek, bedoeld in [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=3) wordt zo nodig een arbeidsdeskundige, een arts of een psycholoog betrokken.
 
@@ -38,7 +64,7 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 - b. anderszins bij het Uitvoeringsinstituut werknemersverzekeringen gerede twijfel bestaat of de geïndiceerde al dan niet tot de doelgroep behoort.
 
-#### Artikel 3. Onverenigbare functies
+##### Artikel 3. Onverenigbare functies
 
 1. Een deskundige als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=2&artikel=2&z=2021-11-24&g=2021-11-24) kan niet tevens zijn:
 
@@ -52,39 +78,39 @@ de minister: de Minister van Sociale Zaken en Werkgelegenheid.
 
 2. Indien de gemeente waarvan de geïndiceerde ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet gedeeltelijk heeft overgedragen wordt voor de toepassing van het eerste lid voor die gemeente in de plaats gesteld de deelnemende gemeenten aan de gemeenschappelijke regeling. Indien de gemeente waarvan de geïndiceerde ingezetene is bij een gemeenschappelijke regeling als bedoeld in de [Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740) de uitvoering van de wet volledig heeft overgedragen aan het bestuur van een openbaar lichaam als bedoeld in [artikel 8 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8) wordt voor de toepassing van het eerste lid voor het college van die gemeente mede gelezen het bestuur van dat openbaar lichaam.
 
-#### Artikel 4. Beschikbaarheid
+##### Artikel 4. Beschikbaarheid
 
 Vervallen
 
 ### Hoofdstuk 3. Financiering
 
-#### Artikel 5. Garantiestelling
+##### Artikel 5. Garantiestelling
 
 Vervallen
 
-#### Artikel 6. Betaalbaarstelling
+##### Artikel 6. Betaalbaarstelling
 
 Vervallen
 
-#### Artikel 7. Opschorting van betaling
+##### Artikel 7. Opschorting van betaling
 
 Vervallen
 
-#### Artikel 8. Nadere voorwaarden Stimuleringsuitkering begeleid werken
+##### Artikel 8. Nadere voorwaarden Stimuleringsuitkering begeleid werken
 
 Vervallen
 
 ### Hoofdstuk 4. Informatievoorziening
 
-#### Artikel 9. Aanvullende informatievoorziening
+##### Artikel 9. Aanvullende informatievoorziening
 
 Het college draagt er zorg voor dat de minister desgevraagd aanvullende informatie of gegevens die verband houden met de uitvoering van de wet binnen een daartoe door hem vastgestelde termijn en op een door hem aangegeven wijze heeft ontvangen.
 
-#### Artikel 10. Verstrekken van gegevens of informatie aan derden
+##### Artikel 10. Verstrekken van gegevens of informatie aan derden
 
 Op verzoek van de minister verstrekt het college gegevens of informatie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=9&z=2021-11-24&g=2021-11-24) aan personen of instanties die in zijn opdracht informatie vragen of de gegevens bewerken.
 
-#### Artikel 11. Statistiek sociale werkvoorziening
+##### Artikel 11. Statistiek sociale werkvoorziening
 
 1. De minister ontvangt van het college en het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van de statistiek overeenkomstig het in de bijlage bij deze regeling opgenomen model, over een periode van een half jaar gegevens over de indicatie, de wachtlijst, de dienstbetrekkingen in de zin van de wet en de uitstroom uit de dienstbetrekkingen op grond van de wet en over de personen die het betreft.
 
@@ -92,7 +118,7 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 3. Als bewerker is aangewezen Panteia.
 
-#### Artikel 12. De bewerker
+##### Artikel 12. De bewerker
 
 1. De bewerker, bedoeld in [artikel 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0023158&hoofdstuk=4&artikel=11&z=2021-11-24&g=2021-11-24), verwerkt de persoonsgegevens op een door de minister te bepalen wijze.
 
@@ -100,15 +126,15 @@ Op verzoek van de minister verstrekt het college gegevens of informatie als bedo
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 13. Intrekking regeling
+##### Artikel 13. Intrekking regeling
 
 De [Regeling uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017691) wordt ingetrokken.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2008.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling uitvoering sociale werkvoorziening en begeleid werken 2015.
 
@@ -184,7 +210,7 @@ Als een gegeven (nog) niet van toepassing is, wordt het met nullen gevuld.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt met ingang van 1 januari 2008 ter inzage gelegd in de bibliotheek van het Ministerie van Sociale Zaken en Werkgelegenheid, te Den Haag.
 
-#### Artikel 12a. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551)
+##### Artikel 12a. Gegevens ten behoeve van de uitvoering van de [Wet banenafspraak en quotum arbeidsbeperkten](https://wetten.overheid.nl/jci1.3:c:BWBR0036551)
 
 1. De gegevens, bedoeld in [artikel 19 van het Besluit uitvoering sociale werkvoorziening en begeleid werken](https://wetten.overheid.nl/jci1.3:c:BWBR0017240&artikel=19), betreffen de gegevens die zijn vermeld in de bijlage bij deze regeling met betrekking tot de volgende rubrieken: Besluit/advies indicatie, Wachtlijst, Dienstbetrekking en Arbeidsovereenkomst (begeleid werken) alsmede het burgerservicenummer van de betrokken persoon.
 

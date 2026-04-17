@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten van de Europese Unie) en het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland, het Koninkrijk Zweden, betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie"
 identifier: "BWBV0006519"
-categorie: "Internationaal recht"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006519"
+country: "nl"
+rank: "verdrag"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006519"
+soort: "verdrag"
+stam_id: "10005309623"
+version_id: "10005712322"
+internal_id: "C10008840271"
+label_id: "10005296264"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006519/1995-01-01/0"
+intitule_bron: "Trb.1994-200"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1994-10-27"
+intitule_in_force: "1995-03-02"
+intitule_status: "goed"
+original_publication: "Trb.1994-200"
+original_published_date: "1994-10-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-200"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBV0006519&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBV0006519&g=1995-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1995-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (Lid-Staten van de Europese Unie) en het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland, het Koninkrijk Zweden, betreffende de toetreding van het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden tot de Europese Unie
 
 Zijne Majesteit de Koning der Belgen,
@@ -316,7 +338,7 @@ Onderminister van Buitenlandse Zaken en Gemenebestzaken
 
 Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, omtrent de volgende bepalingen overeenstemming hebben bereikt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Koninkrijk Noorwegen, de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden worden lid van de Europese Unie en worden Partij bij de Verdragen waarop de Unie is gegrondvest, zoals deze Verdragen zijn gewijzigd of aangevuld.
 
@@ -324,7 +346,7 @@ Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten, om
 
 3. De in de in lid 1 genoemde Verdragen voorkomende bepalingen betreffende de rechten en verplichtingen van de Lid-Staten, alsmede de algemene en bijzondere bevoegdheden van de Instellingen van de Unie, zijn van toepassing ten aanzien van dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag zal door de Hoge Verdragsluitende Partijen worden bekrachtigd overeenkomstig hun onderscheiden grondwettelijke bepalingen. De akten van bekrachtiging zullen uiterlijk 31 december 1994 worden neergelegd bij de Regering van de Italiaanse Republiek.
 
@@ -334,13 +356,13 @@ Indien echter niet alle in artikel 1, lid 1, genoemde Staten tijdig hun akten va
 
 3. In afwijking van lid 2 kunnen de Instellingen van de Unie voor de toetreding de maatregelen vaststellen bedoeld in de artikelen 30, 39, 42, 43, 44, 45, 46, 47, 48, 53, 57, 59, 62, 74, 75, 76, 92, 93, 94, 95, 100, 102, 105, 119, 120, 121, 122, 127, 128, 131, 142, lid 2 en lid 3, tweede alinea, 145, 148, 149, 150, 151 en 169 van de Toetredingsakte en de artikelen 11, lid 6, en 12, lid 2, van Protocol nr. 9. Deze maatregelen treden slechts in werking onder voorbehoud en op de datum van inwerkingtreding van het onderhavige Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag, opgesteld in één enkel exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de lerse, de Italiaanse, de Nederlandse, de Noorse, de Portugese, de Spaanse en de Zweedse taal, zijnde de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de lerse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Zweedse tekst gelijkelijk authentiek, zal worden neergelegd in het archief van de Regering van de Italiaanse Republiek, die een voor eensluidend gewaarmerkt afschrift daarvan toezendt aan de Regeringen der andere ondertekenende Staten.
 
 ## DEEL EERSTE. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van deze Akte:
 
@@ -360,11 +382,11 @@ In de zin van deze Akte:
 
 - -. worden met de uitdrukking „Instellingen” bedoeld de bij de oorspronkelijke Verdragen opgerichte Instellingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Onmiddellijk bij de toetreding zijn de oorspronkelijke Verdragen en de door de Instellingen vóór de toetreding genomen besluiten verbindend voor de nieuwe Lid-Staten en in deze Staten toepasselijk onder de voorwaarden voorzien in deze Verdragen en in deze Akte.
 
-#### Artikel 3
+##### Artikel 3
 
 De nieuwe Lid-Staten verbinden zich ertoe met betrekking tot die overeenkomsten of instrumenten op het gebied van Justitie en Binnenlandse zaken welke onlosmakelijk zijn verbonden met de doelstellingen van het [EU-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001507):
 
@@ -372,7 +394,7 @@ De nieuwe Lid-Staten verbinden zich ertoe met betrekking tot die overeenkomsten 
 
 - -. administratieve en andere regelingen in te voeren in de trant van de regelingen die de huidige Lid-Staten of de Raad reeds hebben aangenomen ter vergemakkelijking van de praktische samenwerking tussen de instellingen en organisaties van de Lid-Staten die actief zijn op het gebied van Justitie en Binnenlandse Zaken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij deze Akte treden de nieuwe Lid-Staten toe tot de door de Vertegenwoordigers van de Regeringen der Lid-Staten, in het kader van de Raad bijeen, genomen besluiten en gesloten overeenkomsten. Zij verbinden zich ertoe op het tijdstip van de toetreding ook toe te treden tot elke andere door de huidige Lid-Staten gesloten overeenkomst die de werking van de Unie betreft of in nauw verband staat met het optreden van deze Unie.
 
@@ -380,7 +402,7 @@ De nieuwe Lid-Staten verbinden zich ertoe met betrekking tot die overeenkomsten 
 
 3. De nieuwe Lid-Staten bevinden zich ten aanzien van de verklaringen, resoluties of andere standpuntbepalingen van de Europese Raad of de Raad, alsmede ten aanzien van die welke betrekking hebben op de Gemeenschappen of de Unie en in onderling overleg tussen de Lid-Staten zijn aanvaard, in dezelfde situatie als de huidige Lid-Staten; zij zullen derhalve de beginselen en beleidslijnen die hieruit voortvloeien eerbiedigen en de maatregelen treffen die nodig zouden kunnen blijken ter verzekering van de toepassing daarvan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De door één van de Gemeenschappen met een of meer derde Staten, met een internationale organisatie dan wel met een onderdaan van een derde Staat gesloten overeenkomsten of akkoorden, zijn verbindend voor de nieuwe Lid-Staten, en wel onder de in de oorspronkelijke Verdragen en in deze Akte neergelegde voorwaarden.
 
@@ -390,23 +412,23 @@ De nieuwe Lid-Staten verbinden zich ertoe met betrekking tot die overeenkomsten 
 
 4. De nieuwe Lid-Staten treffen de passende maatregelen om zo nodig hun positie ten aanzien van internationale organisaties en internationale overeenkomsten waarbij één van de Gemeenschappen of andere Lid-Staten eveneens partij zijn, aan te passen aan de rechten en verplichtingen die voortvloeien uit hun toetreding tot de Unie.
 
-#### Artikel 6
+##### Artikel 6
 
 [Artikel 234 van het EG-Verdrag](onbekend) en de [artikelen 105](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=105) en [106 van het Euratom-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=106) zijn voor de nieuwe Lid-Staten van toepassing op de overeenkomsten en akkoorden gesloten vóór hun toetreding.
 
-#### Artikel 7
+##### Artikel 7
 
 De bepalingen van deze Akte kunnen, tenzij anders is bepaald, uitsluitend worden geschorst, gewijzigd of ingetrokken door middel van de procedures voorzien in de oorspronkelijke Verdragen die het mogelijk maken tot een herziening van die Verdragen te komen.
 
-#### Artikel 8
+##### Artikel 8
 
 De door de Instellingen genomen besluiten waarop de in deze Akte vastgestelde overgangsmaatregelen zijn gebaseerd, behouden hun eigen rechtskarakter; met name blijven de voor deze besluiten geldende wijzigingsprocedures van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 De bepalingen van deze Akte waarvan het doel of het gevolg is dat besluiten van de Instellingen anders dan bij wijze van overgangsmaatregel worden ingetrokken of gewijzigd, verkrijgen hetzelfde rechtskarakter als de daardoor ingetrokken of gewijzigde bepalingen en zijn onderworpen aan dezelfde regels als laatstgenoemde bepalingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de Instellingen genomen besluiten gelden, bij wijze van overgang, de in deze Akte neergelegde afwijkende bepalingen.
 
@@ -416,103 +438,103 @@ Ten aanzien van de toepassing van de oorspronkelijke Verdragen en van de door de
 
 ### HOOFDSTUK 1. HET EUROPEES PARLEMENT
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Akte betreffende de verkiezing van de leden van het Europees Parlement door middel van rechtstreekse algemene verkiezingen; Brussel, 20 september 1976.
 
 ### HOOFDSTUK 2. DE RAAD
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### HOOFDSTUK 3. DE COMMISSIE
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### HOOFDSTUK 4. HET HOF VAN JUSTITIE
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957, en het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Gemeenschap voor Kolen en Staal; Brussel, 17 april 1957.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Gemeenschap voor Kolen en Staal; Brussel, 17 april 1957, het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Gemeenschap; Brussel, 17 april 1957, en het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Gemeenschap voor Atoomenergie; Brussel, 17 april 1957.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### HOOFDSTUK 5. DE REKENKAMER
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### HOOFDSTUK 6. HET ECONOMISCH EN SOCIAAL COMITÉ
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ### HOOFDSTUK 7. HET COMITÉ VAN DE REGIO'S
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957.
 
 ### HOOFDSTUK 8. HET RAADGEVEND COMITÉ EGKS
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951.
 
 ### HOOFDSTUK 9. HET WETENSCHAPPELIJK EN TECHNISCH COMITÉ
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ## TITEL II. ANDERE AANPASSINGEN
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal; Parijs, 18 april 1951, het Verdrag betreffende de werking van de Europese Unie; Rome, 25 maart 1957, en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie (EURATOM); Rome, 25 maart 1957.
 
 ## DEEL DERDE. AANPASSING VAN DE BESLUITEN VAN DE INSTELLINGEN
 
-#### Artikel 29
+##### Artikel 29
 
 Ten aanzien van de besluiten genoemd in de lijst die voorkomt in bijlage I van deze Akte vinden de aanpassingen plaats die in die bijlage worden omschreven.
 
-#### Artikel 30
+##### Artikel 30
 
 De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voorkomt in bijlage II van deze Akte genoemde besluiten, worden verricht overeenkomstig de in die bijlage vervatte richtsnoeren en volgende de procedure en op de wijze bepaald in artikel 168.
 
@@ -520,7 +542,7 @@ De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voo
 
 ## TITEL I. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 31
+##### Artikel 31
 
 1. In de loop van de eerste twee jaren volgend op de toetreding gaat elk van de nieuwe Lid-Staten over tot de verkiezing door middel van rechtstreekse algemene verkiezingen van het in artikel 11 van deze Akte vastgestelde aantal vertegenwoordigers van hun volk in het Europees Parlement, overeenkomstig het bepaalde in de [Akte van 20 september 1976 betreffende de verkiezing van de vertegenwoordigers in het Europees Parlement door middel van rechtstreekse algemene verkiezingen](https://wetten.overheid.nl/jci1.3:c:BWBV0005252).
 
@@ -564,7 +586,7 @@ De ingevolge de toetreding noodzakelijke aanpassingen van de in de lijst die voo
 
 ### HOOFDSTUK 1. VRIJ VERKEER VAN GOEDEREN
 
-#### Artikel 69
+##### Artikel 69
 
 1. Gedurende een tijdvak van vier jaar, te rekenen vanaf de datum van toetreding, is het bepaalde in bijlage VIII, overeenkomstig die bijlage en onder de daarin gestelde voorwaarden, niet van toepassing op Oostenrijk.
 
@@ -574,13 +596,13 @@ Onverminderd de resultaten van die herziening is het acquis communautaire aan he
 
 ### HOOFDSTUK 2. VRIJ VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
 
-#### Artikel 70
+##### Artikel 70
 
 Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie is gegrond, mag de Republiek Oostenrijk zijn bestaande wetgeving inzake tweede woningen gedurende vijf jaar na de toetreding handhaven.
 
 ### TITEL 3. MEDEDINGINGSBELEID
 
-#### Artikel 71
+##### Artikel 71
 
 1. Onverminderd de leden 2 en 3 van dit artikel past de Republiek Oostenrijk zijn monopolie voor bereide tabak van commerciële aard in de zin van [artikel 37, lid 1, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=37) vanaf de datum van toetreding geleidelijk aan om te waarborgen dat er uiterlijk drie jaar na de datum van toetreding geen discriminatie tussen de onderdanen van de Lid-Staten meer bestaat wat betreft de voorwaarden waaronder goederen worden geleverd en op de markt worden gebracht.
 
@@ -590,23 +612,23 @@ De hiervoor bedoelde contingenten staan open voor alle ondernemers, zonder enige
 
 3. Uiterlijk één jaar na haar toetreding roept de Republiek Oostenrijk een onafhankelijke instantie in het leven die verantwoordelijk is voor het toekennen van detailhandelsvergunningen, in overeenstemming met het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
-#### Artikel 72
+##### Artikel 72
 
 De Republiek Oostenrijk mag ten aanzien van andere Lid-Staten tot 1 januari 1996 de douanerechten en stelsels van vergunningen handhaven zoals zij die op de datum van toetreding toepaste op gedistilleerde dranken en niet-gedenatureerde ethylalcohol met een alcoholvolumegehalte van minder dan 80% vol van post 22.08 van het GS. Deze stelsels van vergunningen moeten op niet-discriminatoire wijze worden toegepast.
 
 ### TITEL 4. EXTERNE BETREKKINGEN MET INBEGRIP VAN DE DOUANE-UNIE
 
-#### Artikel 73
+##### Artikel 73
 
 De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Oostenrijk van toepassing onder de in die bijlage neergelegde voorwaarden.
 
-#### Artikel 74
+##### Artikel 74
 
 De Republiek Oostenrijk kan tot en met 31 december 1996 ten aanzien van de Republiek Hongarije, de Republiek Polen, de Slowaakse Republiek, de Tsjechische Republiek, Roemenië en Bulgarije de invoerbeperkingen handhaven die zij op het tijdstip van haar toetreding toepaste op bruinkool van GN-code 27 02 10 00.
 
 De noodzakelijke aanpassingen van de met deze landen gesloten Europa-overeenkomsten en, zonodig, de Interimovereenkomsten worden aangebracht volgens artikel 76.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Met ingang van 1 januari 1995 gaat de Republiek Oostenrijk over tot toepassing van:
 
@@ -618,7 +640,7 @@ De noodzakelijke aanpassingen van de met deze landen gesloten Europa-overeenkoms
 
 3. Indien de in lid 2 bedoelde protocollen niet op 1 januari 1995 zijn gesloten, neemt de Gemeenschap maatregelen om aan deze situatie het hoofd te bieden; deze maatregelen behelzen de noodzakelijke overgangsaanpassingen om ervoor te zorgen dat de overeenkomsten door de Gemeenschap ten uitvoer worden gelegd.
 
-#### Artikel 76
+##### Artikel 76
 
 1. Met ingang van 1 januari 1995 past de Republiek Oostenrijk de bepalingen toe van de in artikel 77 bedoelde overeenkomsten.
 
@@ -626,7 +648,7 @@ De noodzakelijke aanpassingen van de met deze landen gesloten Europa-overeenkoms
 
 3. Indien de in lid 2 bedoelde protocollen op 1 januari 1995 niet zijn gesloten, neemt de Gemeenschap de noodzakelijke maatregelen om op het tijdstip van de toetreding het hoofd te bieden aan die situatie.
 
-#### Artikel 77
+##### Artikel 77
 
 Artikel 76 is van toepassing op:
 
@@ -636,21 +658,21 @@ Artikel 76 is van toepassing op:
 
 - -. andere dergelijke overeenkomsten die nog voor de toetreding worden gesloten.
 
-#### Artikel 78
+##### Artikel 78
 
 Met ingang van 1 januari 1995 trekt de Republiek Oostenrijk zich onder andere terug uit de Overeenkomst tot oprichting van de Europese Vrijhandelsassociatie, ondertekend op 4 januari 1960.
 
 ### TITEL 5. FINANCIËLE EN BUDGETTAIRE VOORZIENINGEN
 
-#### Artikel 79
+##### Artikel 79
 
 Elke verwijzing naar het besluit van de Raad betreffende het stelsel van eigen middelen van de Gemeenschappen geldt als een verwijzing naar het Besluit van de Raad van 24 juni 1988, zoals van tijd tot tijd gewijzigd, of naar andere besluiten die dit besluit vervangen.
 
-#### Artikel 80
+##### Artikel 80
 
 De „douanerechten ingevolge het Gemeenschappelijke Douanetarief en andere douanerechten” genoemde ontvangsten, bedoeld in artikel 2, lid 1, onder b), van het Besluit van de Raad betreffende het stelsel van de eigen middelen van de Gemeenschap, of de overeenkomstige bepalingen in enig besluit dat dit vervangt, omvatten de douanerechten die worden berekend op basis van de rechten die voortvloeien uit het gemeenschappelijk douanetarief en alle daarmee samenhangende tariefconcessies die de Gemeenschap in het handelsverkeer van Oostenrijk met derde landen toepast.
 
-#### Artikel 81
+##### Artikel 81
 
 De Gemeenschap stort op de eerste werkdag van elke maand aan de Republiek Oostenrijk uit hoofde van de uitgaven van de algemene begroting van de Europese Gemeenschappen een twaalfde van de volgende bedragen:
 
@@ -662,11 +684,11 @@ De Gemeenschap stort op de eerste werkdag van elke maand aan de Republiek Oosten
 
 - -. 35 miljoen ecu in 1998.
 
-#### Artikel 82
+##### Artikel 82
 
 Het aandeel van de Republiek Oostenrijk in de financiering van de betalingen die na haar toetreding nog moeten worden gedaan voor de verplichtingen aangegaan krachtens [artikel 82 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=82), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
-#### Artikel 83
+##### Artikel 83
 
 Het aandeel van de Republiek Oostenrijk in de financiering van het financieel mechanisme bedoeld in [artikel 116 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=116), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
@@ -676,7 +698,7 @@ Het aandeel van de Republiek Oostenrijk in de financiering van het financieel me
 
 ### Afdeling 1. Normen en milieu
 
-#### Artikel 84
+##### Artikel 84
 
 1. Gedurende een tijdvak van vier jaar, te rekenen vanaf de datum van toetreding, is het bepaalde in bijlage X, overeenkomstig die bijlage en onder de daarin gestelde voorwaarden, niet van toepassing op Finland.
 
@@ -686,7 +708,7 @@ Onverminderd de resultaten van die herziening is het acquis communautaire aan he
 
 ### Afdeling 2. Diversen
 
-#### Artikel 85
+##### Artikel 85
 
 De Republiek Finland mag gedurende een periode van drie jaar vanaf de datum van toetreding zijn huidig nationaal stelsel voor de indeling van onbewerkt hout blijven toepassen, voor zover zijn nationale wetgeving en zijn desbetreffende administratieve regelingen niet in strijd zijn met de communautaire wetgeving inzake de interne markt of de handel met derde landen, inzonderheid artikel 6 van Richtlijn 68/89/EEG betreffende de aanpassing van de wetgevingen der Lid-Staten ten aanzien van de indeling van onbewerkt hout.
 
@@ -694,11 +716,11 @@ Gedurende dezelfde periode zal Richtlijn 68/89/EEG overeenkomstig de procedures 
 
 ### HOOFDSTUK 2. VRIJ VERKEER VAN PERSONEN, DIENSTEN EN KAPITAAL
 
-#### Artikel 86
+##### Artikel 86
 
 In afwijking van [artikel 73 B van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=73) mag de Republiek Finland het bepaalde in Wet nr. 1612 van 30 december 1992 betreffende de verkrijging van Finse ondernemingen door buitenlanders tot en met 31 december 1995 toepassen.
 
-#### Artikel 87
+##### Artikel 87
 
 Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie is gegrond, mag de Republiek Finland zijn bestaande wetgeving inzake tweede woningen gedurende vijf jaar na de toetreding handhaven.
 
@@ -706,7 +728,7 @@ Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie i
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 88
+##### Artikel 88
 
 1. Behoudens andersluidende bepalingen in dit hoofdstuk, zijn de voorschriften van deze akte van toepassing op de sector visserij.
 
@@ -714,31 +736,31 @@ Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie i
 
 ### Afdeling II. Toegang tot de wateren en de visbestanden
 
-#### Artikel 89
+##### Artikel 89
 
 Behoudens andersluidende bepalingen in dit hoofdstuk, blijft de in deze afdeling bedoelde toegangsregeling van toepassing gedurende een overgangsperiode waarvan het einde wordt bepaald door de datum waarop de communautaire regeling inzake het visdocument wordt toegepast, welke datum in geen geval later mag zijn dan de datum waarop de in artikel 14 van Verordening (EEG) nr. 3760/92 bedoelde periode verstrijkt.
 
 #### Onderafdeling I. Vaartuigen van Finland
 
-#### Artikel 90
+##### Artikel 90
 
 Met het oog op de integratie in de bij Verordening (EEG) nr. 3760/92 ingestelde communautaire visserij- en aquacultuurregeling, is de toegang tot de wateren die onder de soevereiniteit of jurisdictie van de Lid-Staten van de Unie in haar huidige samenstelling vallen voor vaartuigen die de vlag van Finland voeren en in een Finse haven zijn ingeschreven en/of geregistreerd, hierna „vaartuigen van Finland” te noemen, onderworpen aan de in deze onder-afdeling vastgestelde regeling.
 
-#### Artikel 91
+##### Artikel 91
 
 Vanaf de datum van toetreding tot de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen van Finland vissen in de wateren die onder de soevereiniteit of jurisdictie van de Lid-Staten van de Unie in haar huidige samenstelling vallen in ICES-sector IIId, zulks onder voorwaarden die identiek zijn aan die welke onmiddellijk vóór de inwerkingtreding van het Toetredingsverdrag van toepassing waren.
 
-#### Artikel 92
+##### Artikel 92
 
 De technische voorschriften die nodig zijn met het oog op de toepassing van artikel 91, worden vóór 1 januari 1995 vastgesteld volgens de procedure van artikel 18 van Verordening (EEG) nr. 3760/92.
 
-#### Artikel 93
+##### Artikel 93
 
 Vanaf de datum van toetreding tot de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen van Finland vissen in de wateren die onder de soevereiniteit of jurisdictie van Zweden vallen, zulks onder voorwaarden die identiek zijn aan die welke onmiddellijk vóór de inwerkingtreding van het Toetredingsverdrag van toepassing waren.
 
 De toepassingsvoorschriften van dit artikel worden vóór 1 januari 1995 vastgesteld volgens de procedure van artikel 18 van Verordening (EEG) nr. 3760/92.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Het aan Finland toe te kennen aandeel in de communautaire vangstmogelijkheden in bestanden waarvan de bevissingsgraad door een vangstbeperking is gereglementeerd, wordt als volgt vastgesteld per soort en per gebied:
 
@@ -765,7 +787,7 @@ De toepassingsvoorschriften van dit artikel worden vóór 1 januari 1995 vastges
 
 #### Onderafdeling II. Vaartuigen van de huidige Unie
 
-#### Artikel 95
+##### Artikel 95
 
 Vanaf de datum van toetreding en tot de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen die de vlag van een Lid-Staat van de huidige Unie voeren in de wateren die onder de soevereiniteit of de jurisdictie van Finland vallen, visserijactiviteiten uitoefenen onder voorwaarden die identiek zijn aan die welke onmiddellijk voor de inwerkingtreding van het Toetredingsverdrag van toepassing waren.
 
@@ -773,7 +795,7 @@ De praktische regels betreffende de toepassing van dit artikel worden vóór 1 j
 
 ### Afdeling III. Externe visbestanden
 
-#### Artikel 96
+##### Artikel 96
 
 1. Onmiddellijk bij de toetreding wordt het beheer van de visserijovereenkomsten tussen de Republiek Finland en derde landen door de Gemeenschap waargenomen.
 
@@ -783,15 +805,15 @@ De praktische regels betreffende de toepassing van dit artikel worden vóór 1 j
 
 ### HOOFDSTUK 4. EXTERNE BETREKKINGEN MET INBEGRIP VAN DE DOUANE-UNIE
 
-#### Artikel 97
+##### Artikel 97
 
 De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Finland van toepassing onder de in die bijlage neergelegde voorwaarden.
 
-#### Artikel 98
+##### Artikel 98
 
 Het basisrecht dat wordt gebruikt voor de geleidelijke aanpassing aan het gemeenschappelijk douanetarief overeenkomstig artikel 99 is voor elk produkt het recht dat door de Republiek Finland op 1 januari 1994 daadwerkelijk werd toegepast.
 
-#### Artikel 99
+##### Artikel 99
 
 De Republiek Finland mag gedurende drie jaar vanaf de toetreding voor de in bijlage XI genoemde produkten zijn douanetarief ten aanzien van derde landen handhaven.
 
@@ -803,7 +825,7 @@ Gedurende deze periode vermindert de Republiek Finland het verschil tussen zijn 
 
 De Republiek Finland past het gemeenschappelijk douanetarief vanaf 1 januari 1998 volledig toe.
 
-#### Artikel 100
+##### Artikel 100
 
 1. Met ingang van 1 januari 1995 gaat de Republiek Finland over tot toepassing van:
 
@@ -815,7 +837,7 @@ De Republiek Finland past het gemeenschappelijk douanetarief vanaf 1 januari 199
 
 3. Indien de in lid 2 bedoelde protocollen niet op 1 januari 1995 zijn gesloten, neemt de Gemeenschap maatregelen om aan deze situatie het hoofd te bieden; deze maatregelen behelzen de noodzakelijke overgangsaanpassingen om ervoor te zorgen dat de overeenkomsten door de Gemeenschap ten uitvoer worden gelegd.
 
-#### Artikel 101
+##### Artikel 101
 
 1. De Republiek Finland mag tot en met 31 december 1999 een jaarlijks tariefcontingent tegen nulrecht voor styreen (GN-code 2902 50 00) van 21.000 ton openen, mits de betrokken goederen:
 
@@ -827,7 +849,7 @@ De Republiek Finland past het gemeenschappelijk douanetarief vanaf 1 januari 199
 
 3. De Commissie en de bevoegde Finse autoriteiten nemen alle noodzakelijke maatregelen om er voor te zorgen dat het eindverbruik van het betrokken produkt, of de verwerking waardoor het de Gemeenschapsoorsprong verkrijgt, plaatsvindt op het grondgebied van Finland.
 
-#### Artikel 102
+##### Artikel 102
 
 1. Met ingang van 1 januari 1995 past de Republiek Finland de bepalingen toe van de in artikel 103 bedoelde overeenkomsten.
 
@@ -835,7 +857,7 @@ De Republiek Finland past het gemeenschappelijk douanetarief vanaf 1 januari 199
 
 3. Indien de in lid 2 bedoelde protocollen op 1 januari 1995 niet zijn gesloten, neemt de Gemeenschap de noodzakelijke maatregelen om op het tijdstip van de toetreding het hoofd te bieden aan die situatie.
 
-#### Artikel 103
+##### Artikel 103
 
 [Artikel 102](https://wetten.overheid.nl/jci1.3:c:BWBV0006519&deel=VIERDE&titeldeel=IV&hoofdstuk=4&artikel=102&z=1995-01-01&g=1995-01-01) is van toepassing op:
 
@@ -845,29 +867,29 @@ De Republiek Finland past het gemeenschappelijk douanetarief vanaf 1 januari 199
 
 - -. andere dergelijke overeenkomsten die nog voor de toetreding worden gesloten.
 
-#### Artikel 104
+##### Artikel 104
 
 Met ingang van 1 januari 1995 trekt de Republiek Finland zich onder andere terug uit de Overeenkomst tot oprichting van de Europese Vrijhandelsassociatie, ondertekend op 4 januari 1960 en uit de Vrijhandelsovereenkomsten die in 1992 met Estland, Letland en Litouwen werden ondertekend.
 
-#### Artikel 105
+##### Artikel 105
 
 Indien de tussen de Gemeenschap en Estland, Letland en Litouwen gesloten nieuwe handelsovereenkomsten op de datum van toetreding nog niet in inwerking zijn getreden, treft de Gemeenschap de maatregelen die nodig zijn om er voor te zorgen dat bij de toetreding het bestaande niveau van toegang van produkten uit die Baltische Staten tot de Finse markt in stand blijft.
 
 ### TITEL 5. Financiële en budgettaire voorzieningen
 
-#### Artikel 106
+##### Artikel 106
 
 Elke verwijzing naar het besluit van de Raad betreffende het stelsel van eigen middelen van de Gemeenschappen geldt als een verwijzing naar het Besluit van de Raad van 24 juni 1988, zoals van tijd tot tijd gewijzigd, of naar andere besluiten die dit besluit vervangen.
 
-#### Artikel 107
+##### Artikel 107
 
 De „douanerechten ingevolge het Gemeenschappelijke Douanetarief en andere douanerechten” genoemde ontvangsten, bedoeld in artikel 2, lid 1, onder b), van het Besluit van de Raad betreffende het stelsel van de eigen middelen van de Gemeenschap, of de overeenkomstige bepalingen in enig besluit dat dit vervangt, omvatten de douanerechten die worden berekend op basis van de rechten die voortvloeien uit het gemeenschappelijk douanetarief en alle daarmee samenhangende tariefconcessies die de Gemeenschap in het handelsverkeer van Finland met derde landen toepast.
 
-#### Artikel 108
+##### Artikel 108
 
 De eigen ontvangsteen afkomstig uit de BTW worden berekend en gecontroleerd alsof de Åland-eilanden onder het territoriale toepassingsgebied vielen van de Zesde Richtlijn van de Raad (77/388/EEG) van 17 mei 1977 betreffende de harmonisatie van de wetgevingen der Lid-Staten inzake omzetbelasting - Gemeenschappelijk stelsel van belasting over de toegevoegde waarde: uniforme grondslag.
 
-#### Artikel 109
+##### Artikel 109
 
 De Gemeenschap stort op de eerste werkdag van elke maand aan de Republiek Finland uit hoofde van de uitgaven van de algemene begroting van de Europese Gemeenschappen een twaalfde van de volgende bedragen:
 
@@ -879,11 +901,11 @@ De Gemeenschap stort op de eerste werkdag van elke maand aan de Republiek Finlan
 
 - -. 33 miljoen ecu in 1998.
 
-#### Artikel 110
+##### Artikel 110
 
 Het aandeel van de Republiek Finland in de financiering van de betalingen die na haar toetreding nog moeten worden gedaan voor de verplichtingen aangegaan krachtens [artikel 82 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=82), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
-#### Artikel 111
+##### Artikel 111
 
 Het aandeel van de Republiek Finland in de financiering van het financieel mechanisme bedoeld in [artikel 116 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=116), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
@@ -893,7 +915,7 @@ Het aandeel van de Republiek Finland in de financiering van het financieel mecha
 
 ### Afdeling 1. Normen en milieu
 
-#### Artikel 112
+##### Artikel 112
 
 1. Gedurende een tijdvak van vier jaar, te rekenen vanaf de datum van toetreding, is het bepaalde in bijlage XII, overeenkomstig die bijlage en onder de daarin gestelde voorwaarden, niet van toepassing op Zweden.
 
@@ -903,7 +925,7 @@ Onverminderd de resultaten van die herziening is het acquis communautaire aan he
 
 ### Afdeling 2. Diversen
 
-#### Artikel 113
+##### Artikel 113
 
 Het Koninkrijk Zweden mag gedurende een periode van drie jaar vanaf de datum van toetreding zijn huidig nationaal stelsel voor de indeling van onbewerkt hout blijven toepassen, voor zover zijn nationale wetgeving en zijn desbetreffende administratieve regelingen niet in strijd zijn met de communautaire wetgeving inzake de interne markt of de handel met derde landen, inzonderheid artikel 6 van Richtlijn 68/89/EEG betreffende de aanpassing van de wetgevingen der Lid-Staten ten aanzien van de indeling van onbewerkt hout.
 
@@ -911,7 +933,7 @@ Gedurende dezelfde periode zal Richtlijn 68/89/EEG overeenkomstig de procedures 
 
 ### HOOFDSTUK 2. VRIJ VERKEER VAN GOEDEREN, DIENSTEN EN KAPITAAL
 
-#### Artikel 114
+##### Artikel 114
 
 Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie is gegrond, mag het Koninkrijk Zweden zijn bestaande wetgeving inzake tweede woningen gedurende vijf jaar na de toetreding handhaven.
 
@@ -919,7 +941,7 @@ Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie i
 
 ### Afdeling I. Algemene bepalingen
 
-#### Artikel 115
+##### Artikel 115
 
 1. Behoudens andersluidende bepalingen in dit hoofdstuk, zijn de voorschriften van deze akte van toepassing op de sector visserij.
 
@@ -927,31 +949,31 @@ Onverminderd de verplichting op grond van de Verdragen waarop de Europese Unie i
 
 ### Afdeling II. Toegang tot de wateren en de visbestanden
 
-#### Artikel 116
+##### Artikel 116
 
 Behoudens andersluidende bepalingen in dit hoofdstuk, blijft de in deze afdeling bedoelde toegangsregeling van toepassing gedurende een overgangsperiode waarvan het einde wordt bepaald door de datum waarop de communautaire regeling inzake het visdocument wordt toegepast, welke datum in geen geval later mag zijn dan de datum waarop de in artikel 14, lid 2, van Verordening (EEG) nr. 3760/92 van 20 december 1992 tot invoering van een communautaire regeling voor de visserij en de aquacultuur bedoelde periode verstrijkt.
 
 #### Onderafdeling I. Vaartuigen van Zweden
 
-#### Artikel 117
+##### Artikel 117
 
 Met het oog op de integratie in de bij Verordening (EEG) nr. 3760/92 ingestelde communautaire visserij- en aquacultuurregeling, is de toegang tot de onder de soevereiniteit of jurisdictie van de Lid-Staten van de Unie in haar huidige samenstelling vallende wateren voor vaartuigen die de vlag van Zweden voeren en in een Zweedse haven zijn ingeschreven of geregistreerd, hierna „vaartuigen van Zweden” te noemen, onderworpen aan de in deze onderafdeling vastgestelde regeling.
 
-#### Artikel 118
+##### Artikel 118
 
 Vanaf de datum van toetreding tot en met de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen van Zweden vissen in de wateren die onder de soevereiniteit of jurisdictie van de huidige Unie vallen in de ICES-sectoren III en IV, zulks onder voorwaarden die identiek zijn aan die welke onmiddellijk vóór de inwerkingtreding van het Toetredingsverdrag van toepassing waren en zijn vervat in de betreffende bepalingen van Verordening (EG) nr. 3682/93.
 
-#### Artikel 119
+##### Artikel 119
 
 De technische voorschriften die nodig zijn met het oog op de toepassing van artikel 118, worden vóór 1 januari 1995 vastgesteld volgens de procedure van artikel 18 van Verordening (EEG) nr. 3760/92.
 
-#### Artikel 120
+##### Artikel 120
 
 Vanaf de datum van toetreding tot de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen van Zweden vissen in de wateren die onder de soevereiniteit of jurisdictie van Finland vallen, zulks onder voorwaarden die identiek zijn aan die welke onmiddellijk voor de inwerkingtreding van het Toetredingsverdrag van toepassing waren.
 
 De toepassingsvoorschriften van dit artikel worden vóór 1 januari 1995 vastgesteld volgens de procedure van artikel 18 van Verordening (EEG) nr. 3760/92.
 
-#### Artikel 121
+##### Artikel 121
 
 1. Het aan Zweden toe te kennen aandeel in de communautaire vismogelijkheden waarvan de bevissingsgraad door een vangstbeperking is gereglementeerd, wordt als volgt vastgesteld per soort en per gebied:
 
@@ -1015,7 +1037,7 @@ Voor de communautaire vangstmogelijkheden die de 50.000 ton overschrijden, bedra
 
 4. Tot de communautaire regeling inzake het visdocument van toepassing wordt, en uiterlijk tot en met 31 december 1997, mogen de visserij-inspanningen van de vaartuigen van Zweden in de wateren van de Gemeenschap wat betreft de niet gereglementeerde en niet toegewezen soorten die onder artikel 117 vallen, niet groter zijn dan het niveau dat onmiddellijk voor de inwerkingtreding van het Toetredingsverdrag wordt bereikt.
 
-#### Artikel 122
+##### Artikel 122
 
 1. Behalve andersluidende bepalingen in de onderhavige Akte blijven de voorwaarden waaronder de toegewezen hoeveelheden, als bepaald in artikel 121, mogen worden gevangen gelijk aan die welke onmiddellijk voorafgaande aan de inwerkingtreding van het Toetredingsverdrag gelden.
 
@@ -1023,7 +1045,7 @@ Voor de communautaire vangstmogelijkheden die de 50.000 ton overschrijden, bedra
 
 #### Onderafdeling II. Vaartuigen van de huidige Unie
 
-#### Artikel 123
+##### Artikel 123
 
 Vanaf de datum van toetreding en tot de datum waarop de communautaire regeling inzake het visdocument van toepassing wordt, mogen de vaartuigen van de huidige Unie visserij-activiteiten uitoefenen in de wateren die onder de soevereiniteit of de jurisdictie van Zweden vallen in de ICES-gebieden III a, b en d onder voorwaarden die identiek zijn aan die welke onmiddellijk voor de inwerkingtreding van het Toetredingsverdrag van toepassing waren en waarin wordt voorzien door de relevante bepalingen van Verordening (EG) nr. 3683/931)PB nr. 1.341 van 31-12-1993. blz. 104..
 
@@ -1031,7 +1053,7 @@ De voorschriften voor de toepassing van dit artikel worden vóór 1 januari 1995
 
 ### Afdeling III. Externe visbestanden
 
-#### Artikel 124
+##### Artikel 124
 
 1. Onmiddellijk bij de toetreding wordt het beheer van de visserijovereenkomsten tussen het Koninkrijk Zweden en derde landen door de Gemeenschap waargenomen.
 
@@ -1039,7 +1061,7 @@ De voorschriften voor de toepassing van dit artikel worden vóór 1 januari 1995
 
 3. Zo spoedig mogelijk en in ieder geval vóór het verstrijken van de in lid 1 bedoelde overeenkomsten stelt de Raad, in elk apart geval, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen de passende besluiten vast voor het voortduren van de daaruit voortvloeiende visserij-activiteiten, met inbegrip van de mogelijkheid om bepaalde van deze overeenkomsten met ten hoogste een jaar te verlengen.
 
-#### Artikel 125
+##### Artikel 125
 
 Gedurende een periode van ten hoogste drie jaar vanaf de datum van toetreding stelt de Raad jaarlijks met een gekwalificeerde meerderheid en op voorstel van de Commissie het bedrag vast van de financiële bijdrage van de Unie tot het uitzetten van jonge zalm door de bevoegde Zweedse autoriteiten.
 
@@ -1047,11 +1069,11 @@ Deze financiële compensatie zal worden beoordeeld in het licht van de evenwicht
 
 ### HOOFDSTUK 4. EXTERNE BETREKKINGEN MET INBEGRIP VAN DE DOUANE-UNIE
 
-#### Artikel 126
+##### Artikel 126
 
 De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Zweden van toepassing onder de in die bijlage neergelegde voorwaarden.
 
-#### Artikel 127
+##### Artikel 127
 
 1. Met ingang van 1 januari 1995 gaat het Koninkrijk Zweden over tot toepassing van:
 
@@ -1063,7 +1085,7 @@ De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Zweden va
 
 3. Indien de in lid 2 bedoelde protocollen niet op 1 januari 1995 zijn gesloten, neemt de Gemeenschap maatregelen om aan deze situatie het hoofd te bieden; deze maatregelen behelzen de noodzakelijke overgangsaanpassingen om ervoor te zorgen dat de overeenkomsten door de Gemeenschap ten uitvoer worden gelegd.
 
-#### Artikel 128
+##### Artikel 128
 
 1. Met ingang van 1 januari 1995 past het Koninkrijk Zweden de bepalingen toe van de in artikel 129 bedoelde overeenkomsten.
 
@@ -1071,7 +1093,7 @@ De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Zweden va
 
 3. Indien de in lid 2 bedoelde protocollen op 1 januari 1995 niet zijn gesloten, neemt de Gemeenschap de noodzakelijke maatregelen om op het tijdstip van de toetreding het hoofd te bieden aan die situatie.
 
-#### Artikel 129
+##### Artikel 129
 
 [Artikel 128](https://wetten.overheid.nl/jci1.3:c:BWBV0006519&deel=VIERDE&titeldeel=V&hoofdstuk=4&artikel=128&z=1995-01-01&g=1995-01-01) is van toepassing op:
 
@@ -1081,25 +1103,25 @@ De in bijlage VI bij deze Akte vermelde besluiten zijn ten aanzien van Zweden va
 
 - -. andere dergelijke overeenkomsten die nog voor de toetreding worden gesloten.
 
-#### Artikel 130
+##### Artikel 130
 
 Met ingang van 1 januari 1995 trekt het Koninkrijk Zweden zich onder andere terug uit de Overeenkomst tot oprichting van de Europese Vrijhandelsassociatie, ondertekend op 4 januari 1960 en uit de Vrijhandelsovereenkomsten die in 1992 met Estland, Letland en Litouwen werden ondertekend.
 
-#### Artikel 131
+##### Artikel 131
 
 Indien de tussen de Gemeenschap en Estland, Letland en Litouwen te sluiten nieuwe handelsovereenkomsten op de datum van toetreding nog niet in werking zijn getreden, treft de Gemeenschap de maatregelen die nodig zijn om er voor te zorgen dat bij de toetreding het bestaande niveau van toegang van produkten uit die Baltische Staten tot de Zweedse markt in stand blijft.
 
 ### HOOFDSTUK 5. FINANCIËLE EN BUDGETTAIRE VOORZIENINGEN
 
-#### Artikel 132
+##### Artikel 132
 
 Elke verwijzing naar het besluit van de Raad betreffende het stelsel van eigen middelen van de Gemeenschappen geldt als een verwijzing naar het Besluit van de Raad van 24 juni 1988, zoals tussentijds gewijzigd, of naar andere besluiten die dit besluit vervangen.
 
-#### Artikel 133
+##### Artikel 133
 
 De „douanerechten ingevolge het Gemeenschappelijke Douanetarief en andere douanerechten” genoemde ontvangsten, bedoeld in artikel 2, lid 1, onder b) van het Besluit van de Raad betreffende het stelsel van de eigen middelen van de Gemeenschap, of de overeenkomstige bepalingen in enig besluit dat dit vervangt, omvatten de douanerechten die worden berekend op basis van de rechten die voortvloeien uit het gemeenschappelijk douanetarief en alle daarmee samenhangende tariefconcessies die de Gemeenschap in het handelsverkeer van Zweden met derde landen toepast.
 
-#### Artikel 134
+##### Artikel 134
 
 De Gemeenschap stort op de eerste werkdag van elke maand aan het Koninkrijk Zweden uit hoofde van de uitgaven van de algemene begroting van de Europese Gemeenschappen een twaalfde van de volgende bedragen:
 
@@ -1111,17 +1133,17 @@ De Gemeenschap stort op de eerste werkdag van elke maand aan het Koninkrijk Zwed
 
 - -. 31 miljoen ecu in 1998.
 
-#### Artikel 135
+##### Artikel 135
 
 Het aandeel van het Koninkrijk Zweden in de financiering van de betalingen die na haar toetreding nog moeten worden gedaan voor de verplichtingen aangegaan krachtens [artikel 82 van de Overeenkomst betreffende de Europese Economische Ruimte](onbekend), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
-#### Artikel 136
+##### Artikel 136
 
 Het aandeel van het Koninkrijk Zweden in de financiering van het financieel mechanisme bedoeld in [artikel 116 van de Overeenkomst betreffende de Europese Economische Ruimte](https://wetten.overheid.nl/jci1.3:c:BWBV0001070&artikel=116), komt ten laste van de algemene begroting van de Europese Gemeenschappen.
 
 ## TITEL VI. LANDBOUW
 
-#### Artikel 137
+##### Artikel 137
 
 1. Deze Titel heeft betrekking op landbouwprodukten met uitzondering van de produkten die vallen onder Verordening (EEG) nr. 3759/92 houdende een gemeenschappelijke ordening der markten in de sector visserijprodukten.
 
@@ -1135,7 +1157,7 @@ Het aandeel van het Koninkrijk Zweden in de financiering van het financieel mech
 
 ### HOOFDSTUK I. BEPALINGEN BETREFFENDE NATIONALE STEUNMAATREGELEN
 
-#### Artikel 138
+##### Artikel 138
 
 1. Gedurende de overgangsperiode mogen Oostenrijk en Finland, onder voorbehoud van machtiging van de Commissie, in een passende vorm tijdelijke en degressieve nationale steun verlenen aan de producenten van landbouwgrondstoffen die onder het gemeenschappelijk landbouwbeleid vallen.
 
@@ -1173,7 +1195,7 @@ Indien deze aanpassingen noodzakelijk blijken, word het bedrag van de steun of d
 
 5. Onverminderd het bepaalde in de leden 1 tot en met 4 verleent de Commissie krachtens lid 1 in het bijzonder machtiging voor de in bijlage XIII bedoelde nationale steun, zulks binnen de grenzen en onder de voorwaarden als neergelegd in die bijlage.
 
-#### Artikel 139
+##### Artikel 139
 
 1. De Commissie machtigt Oostenrijk en Finland tot de handhaving van steunmaatregelen die geen verband houden met een bijzondere produktie en die derhalve niet in aanmerking worden genomen bij de berekening van het steunbedrag krachtens artikel 138, lid 3. Uit dien hoofde zijn met name steunmaatregelen voor bedrijven toegestaan.
 
@@ -1185,15 +1207,15 @@ Steunmaatregelen van dezelfde aard die voortvloeien uit het gemeenschappelijk la
 
 4. Investeringssteun valt niet onder lid 1.
 
-#### Artikel 140
+##### Artikel 140
 
 De Commissie machtigt Oostenrijk en Finland om de in bijlage XIV bedoelde nationale overgangssteun te verlenen binnen de grenzen en onder de voorwaarden neergelegd in die bijlage. In haar machtiging bepaalt de Commissie het aanvangsniveau van de steun, voor zover dat niet reeds voortvloeit uit de bepalingen van die bijlage, alsmede het tempo waarin de steun wordt verlaagd.
 
-#### Artikel 141
+##### Artikel 141
 
 Indien ten gevolge van de toetreding ernstige moeilijkheden blijven bestaan ook nadat het bepaalde in de artikelen 138, 139, 140 en 142 en in de andere maatregelen voortvloeiende uit de Gemeenschap bestaande voorschriften volledig zijn toegepast, kan de Commissie Finland machtiging verlenen om nationale steun aan producenten toe te kennen ten einde hun volledige integratie in het gemeenschappelijk landbouwbeleid te vergemakkelijken.
 
-#### Artikel 142
+##### Artikel 142
 
 1. De Commissie machtigt Finland en Zweden om nationale steun op lange termijn te verlenen met het oog op de handhaving van de landbouwactiviteiten in specifieke gebieden. Deze gebieden omvatten de landbouwarealen benoorden de 62 °N en bepaalde aangrenzende gebieden ten zuiden van deze breedtegraad die te kampen hebben met vergelijkbare klimatologische omstandigheden die de landbouwactiviteit bijzonder moeilijk maken.
 
@@ -1223,7 +1245,7 @@ De steun kan met name worden verleend om:
 
 - -. het milieu te beschermen en de natuurlijke omgeving in stand te houden.
 
-#### Artikel 143
+##### Artikel 143
 
 1. Van de in de artikelen 138 tot en met 142 bedoelde steun alsmede van elke andere nationale steun waarvoor in het kader van deze akte machtiging van de Commissie is vereist, wordt kennis gegeven aan deze Instelling. Steun kan niet worden verleend zolang deze machtiging niet is verleend.
 
@@ -1237,7 +1259,7 @@ Door de nieuwe Lid-Staten voor de toetreding gedane mededelingen van bestaande o
 
 Met het oog op de opstelling van dit verslag verschaffen de Lid-Staten waarvoor de machtigingen zijn bestemd, de Commissie tijdig gegevens over de gevolgen van de verleende steun, waarbij zij een beeld verstrekken van de ontwikkeling die in de landbouweconomie van de betrokken gebieden is geconstateerd.
 
-#### Artikel 144
+##### Artikel 144
 
 Wat de in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=92) en [93 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=93) bedoelde steunmaatregelen betreft:
 
@@ -1247,7 +1269,7 @@ Wat de in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&arti
 
 ### HOOFDSTUK II. ANDERE BEPALINGEN
 
-#### Artikel 145
+##### Artikel 145
 
 1. Alle openbare voorraden die op 1 januari 1995 door de nieuwe Lid-Staten worden aangehouden ingevolge hun marktondersteuningsbeleid, worden door de Gemeenschap overgenomen tegen de waarde voortvloeiend uit de toepassing van artikel 8 van Verordening (EEG) nr. 1883/78 betreffende de algemene regels voor de financiering van de interventies door het Europees Oriëntatie- en Garantiefonds voor de Landbouw, afdeling Garantie.
 
@@ -1255,23 +1277,23 @@ Wat de in de [artikelen 92](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&arti
 
 3. De in lid 1 bedoelde voorraden worden in mindering gebracht op de hoeveelheid die de normale overdrachtshoeveelheid overschrijdt.
 
-#### Artikel 147
+##### Artikel 147
 
 Indien in de landbouwsector de handel tussen een of meer nieuwe Lid-Staten en de Gemeenschap in haar huidige samenstelling of de handel tussen de nieuwe Lid-Staten onderling tot ernstige verstoringen leidt op de markt van Oostenrijk of Finland voor 1 januari 2000, neemt de Commissie op verzoek van de betrokken Lid-Staat, binnen 24 uur na de ontvangst van zo'n verzoek, een beslissing over de door haar noodzakelijk geachte vrijwaringsmaatregelen. De aldus getroffen maatregelen zijn onmiddellijk van toepassing, houden rekening met de belangen van alle betrokken partijen en leiden niet tot grenscontroles.
 
-#### Artikel 148
+##### Artikel 148
 
 1. Behoudens andersluidende bepalingen voor specifieke gevallen, stelt de Raad, op voorstel van de Commissie, met gekwalificeerde meerderheid van stemmen, de bepalingen vast die nodig zijn ter uitvoering van deze Titel.
 
 2. De Raad kan, op voorstel van de Commissie, en na raadpleging van het Europees Parlement, met eenparigheid van stemmen overgaan tot aanpassing van de in deze titel neergelegde regels die noodzakelijk kunnen blijken ingeval van wijzigingen van communautaire regelingen.
 
-#### Artikel 149
+##### Artikel 149
 
 1. Indien overgangsmaatregelen nodig zijn ter vergemakkelijking van de overgang van de in de nieuwe Lid-Staten bestaande regeling naar die welke voortvloeit uit de toepassing van de gemeenschappelijke ordening der markten overeenkomstig het bepaalde in deze titel, worden deze maatregelen vastgesteld volgens de procedure van artikel 38 van Verordening nr. 136/66/EEG of, naargelang van het geval, van de desbetreffende artikelen van de andere verordeningen houdende een gemeenschappelijke ordening der landbouwmarkten. Deze maatregelen kunnen worden genomen gedurende een tijdvak dat verstrijkt op 31 december 1997; de toepassing ervan is beperkt tot die datum.
 
 2. De Raad kan met eenparigheid van stemmen op voorstel van de Commissie, en na raadpleging van het Europees Parlement het in lid 1 bedoelde tijdvak verlengen.
 
-#### Artikel 150
+##### Artikel 150
 
 1. De overgangsmaatregelen betreffende de toepassing van de besluiten inzake het gemeenschappelijk landbouwbeleid, die niet in deze akte zijn vermeld, met inbegrip van de maatregelen op structuurgebied, die noodzakelijk zijn geworden door de toetreding, worden vóór de toetreding vastgesteld volgens de procedure van lid 3, en treden ten vroegste op de datum van toetreding in werking.
 
@@ -1283,13 +1305,13 @@ Zij kunnen onder bepaalde voorwaarden ook voorzien in een nationale steun die te
 
 ## TITEL VII. ANDERE BEPALINGEN
 
-#### Artikel 151
+##### Artikel 151
 
 1. De in de lijst in bijlage XV van deze Akte genoemde besluiten zijn ten aanzien van de nieuwe Lid-Staten van toepassing op de wijze als bepaald in die bijlage.
 
 2. Naar aanleiding van een met redenen omkleed verzoek van de nieuwe Lid-Staten kan de Raad, op voorstel van de Commissie, met eenparigheid van stemmen voor 1 januari 1995 maatregelen nemen houdende tijdelijke afwijkingen van de besluiten van de Instellingen die tussen 1 januari 1994 en de datum van ondertekening van het Toetredingsverdrag zijn vastgesteld.
 
-#### Artikel 152
+##### Artikel 152
 
 1. Tot 1 januari 1996 kan een nieuwe Lid-Staat, in geval van ernstige en mogelijk aanhoudende moeilijkheden in een sector van het economische leven, alsmede van moeilijkheden die de economische toestand van een bepaalde streek ernstig kunnen verstoren, machtiging vragen om vrijwaringsmaatregelen te nemen, waardoor de toestand wederom in evenwicht kan worden gebracht en de betrokken sector kan worden aangepast aan de economie van de gemeenschappelijke markt.
 
@@ -1301,7 +1323,7 @@ In geval van ernstige economische moeilijkheden spreekt de Commissie zich op uit
 
 3. De overeenkomstig lid 2 toegestane maatregelen kunnen afwijkingen van de regels van het [EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het EGKS-Verdrag en deze Akte inhouden, voor zover en voor zolang deze strikt noodzakelijk zijn ter bereiking van de in lid 1 bedoelde doelstellingen. Bij voorrang moeten die maatregelen worden gekozen die de werking van de gemeenschappelijke markt het minst verstoren.
 
-#### Artikel 153
+##### Artikel 153
 
 Teneinde de goede werking van de interne markt niet te verstoren mag de tenuitvoerlegging van de nationale voorschriften van de nieuwe Lid-Staten gedurende de in deze Akte bedoelde overgangsperioden niet leiden tot grenscontroles tussen de Lid-Staten.
 
@@ -1309,21 +1331,21 @@ Teneinde de goede werking van de interne markt niet te verstoren mag de tenuitvo
 
 ## TITEL I. HET IN WERKING STELLEN VAN DE INSTELLINGEN
 
-#### Artikel 154
+##### Artikel 154
 
 Het Europees Parlement komt uiterlijk een maand na de toetreding bijeen. Het brengt in zijn Reglement van Orde de wijzigingen aan die noodzakelijk zijn geworden door deze toetreding.
 
-#### Artikel 155
+##### Artikel 155
 
 De Raad brengt in zijn Reglement van Orde de aanpassingen aan welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 156
+##### Artikel 156
 
 1. Onmiddellijk bij de toetreding wordt de Commissie aangevuld door de benoeming van drie extra leden. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
 2. De Commissie brengt in haar Reglement van Orde de aanpassingen aan welke door de toetreding noodzakelijk zijn geworden.
 
-#### Artikel 157
+##### Artikel 157
 
 1. Onmiddellijk bij de toetreding worden bij het Hof van Justitie en het Gerecht van eerste aanleg drie rechters benoemd.
 
@@ -1343,35 +1365,35 @@ De Raad brengt in zijn Reglement van Orde de aanpassingen aan welke door de toet
 
 6. Voor het wijzen van vonnis in zaken die op 1 januari 1995 bij het Hof of het Gerecht aanhangig zijn en waarvoor de mondelinge procedure voor deze datum is geopend, komen het Hof en het Gerecht in voltallige zitting of de Kamers bijeen in de samenstelling van voor de toetreding en passen zij het reglement voor de procesvoering toe zoals dit op 31 december 1994 gold.
 
-#### Artikel 158
+##### Artikel 158
 
 Onmiddellijk bij de toetreding wordt de Rekenkamer aangevuld door de benoeming van drie nieuwe leden. De ambtstermijn van één van de aldus benoemde leden loopt op 20 december 1995 af. Dit lid wordt door het lot aangewezen. De ambtstermijn van de andere leden loopt op 9 februari 2000 af.
 
-#### Artikel 159
+##### Artikel 159
 
 Onmiddellijk bij de toetreding wordt het Economisch en Sociaal Comité aangevuld door de benoeming van 33 leden die de verschillende sectoren van het economische en sociale leven van de nieuwe Lid-Staten vertegenwoordigen. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 160
+##### Artikel 160
 
 Onmiddellijk bij de toetreding wordt het Comité van de Regio's aangevuld door de benoeming van 33 leden die de regionale en lokale lichamen in de nieuwe Lid-Staten vertegenwoordigen. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 161
+##### Artikel 161
 
 Onmiddellijk bij de toetreding wordt het Raadgevend Comité van de Europese Gemeenschap voor Kolen en Staal aangevuld door de benoeming van twaalf extra leden. Voor Oostenrijk, Finland en Zweden worden vier nieuwe leden benoemd. Het mandaat van de aldus benoemde leden eindigt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 162
+##### Artikel 162
 
 Onmiddellijk bij de toetreding wordt het Wetenschappelijk en Technisch Comité aangevuld door de benoeming van vijf nieuwe leden. Voor Oostenrijk en Zweden worden twee leden benoemd en voor Finland één. Het mandaat van de aldus benoemde leden eindigt op hetzelfde tijdstip als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 163
+##### Artikel 163
 
 Onmiddellijk bij de toetreding wordt het Monetair Comité aangevuld door de benoeming van twee leden voor elk van de nieuwe Lid-Staten. Hun mandaat verstrijkt terzelfder tijd als het mandaat van de leden die op het tijdstip van toetreding in functie zijn.
 
-#### Artikel 164
+##### Artikel 164
 
 De door de toetreding noodzakelijk geworden aanpassingen van de Statuten en van de Reglementen van Orde van de bij de oorspronkelijke Verdragen ingestelde Comités geschieden zo spoedig mogelijk na de toetreding.
 
-#### Artikel 165
+##### Artikel 165
 
 1. Voor wat de in bijlage XVI vermelde Comités betreft, verstrijkt het mandaat der nieuwe leden tegelijk met dat van de leden die op het tijdstip van de toetreding zitting hebben in die Comités.
 
@@ -1379,33 +1401,33 @@ De door de toetreding noodzakelijk geworden aanpassingen van de Statuten en van 
 
 ## TITEL II. TOEPASSING VAN DE BESLUITEN DER INSTELLINGEN
 
-#### Artikel 166
+##### Artikel 166
 
 Vanaf het tijdstip van toetreding wordt ervan uitgegaan dat de richtlijnen en beschikkingen in de zin van [artikel 189 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189) en van [artikel 161 van het Euratom-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161), alsmede de aanbevelingen en beschikkingen in de zin van artikel 14 van het EGKS-Verdrag, eveneens tot de nieuwe Lid-Staten zijn gericht, en dat daarvan kennis is gegeven aan deze Staten, voor zover van deze richtlijnen, aanbevelingen en beschikkingen aan alle huidige Lid-Staten kennis is gegeven. Behoudens wat betreft richtlijnen en beschikkingen die in werking treden overeenkomstig [artikel 191, leden 1 en 2, van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=191), wordt ervan uitgegaan dat van deze richtlijnen, aanbevelingen en beschikkingen onmiddellijk bij de toetreding kennis is gegeven aan de nieuwe Lid-Staten.
 
-#### Artikel 167
+##### Artikel 167
 
 De toepassing in elk der nieuwe Lid-Staten van de in de lijst die is opgenomen in bijlage XVIII van deze Akte voorkomende besluiten kan worden uitgesteld tot de in die lijst vermelde data, en onder de in die lijst gestelde voorwaarden.
 
-#### Artikel 168
+##### Artikel 168
 
 De nieuwe Lid-Staten stellen de maatregelen in werking die nodig zijn om vanaf het tijdstip van toetreding uitvoering te geven aan de richtlijnen en beschikkingen in de zin van [artikel 189 van het EG-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=189) en van [artikel 161 van het Euratom-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=161) alsmede aan de beschikkingen en aanbevelingen in de zin van artikel 14 van het EGKS-Verdrag, tenzij in de lijst die is opgenomen in bijlage XIX of in andere bepalingen van de onderhavige Akte een bepaalde termijn is vastgesteld.
 
-#### Artikel 169
+##### Artikel 169
 
 1. Indien besluiten van de Instellingen van vóór de toetreding in verband met de toetreding moeten worden aangepast, en de noodzakelijke aanpassingen niet in deze Akte of de bijlagen daarvan zijn voorzien, worden deze aanpassingen aangebracht overeenkomstig de procedure van lid 2. Deze aanpassingen treden onmiddellijk bij de toetreding in werking.
 
 2. De daartoe noodzakelijke teksten worden, op voorstel van de Commissie, door de Raad met gekwalificeerde meerderheid van stemmen, of door de Commissie vastgesteld, naar gelang de oorspronkelijke besluiten door de ene dan wel door de andere Instelling zijn aangenomen.
 
-#### Artikel 170
+##### Artikel 170
 
 De voor de toetreding aanvaarde teksten van de besluiten van de Instellingen die door de Raad of de Commissie in de Finse en de Zweedse taal zijn vastgesteld, zijn vanaf het tijdstip van toetreding op gelijke wijze authentiek als de in de huidige negen talen vastgestelde teksten. Zij worden in het Publikatieblad van de Europese Gemeenschappen bekendgemaakt, wanneer de teksten in de huidige talen aldus zijn bekendgemaakt.
 
-#### Artikel 171
+##### Artikel 171
 
 Van de op het tijdstip van toetreding bestaande overeenkomsten, besluiten en onderling samenhangende gedragingen die ingevolge de toetreding onder de werkingssfeer van artikel 65 van het EGKS-Verdrag vallen, moet aan de Commissie kennis worden gegeven binnen een termijn van drie maanden, te rekenen vanaf de toetreding. Alleen overeenkomsten en besluiten waarvan kennis is gegeven, blijven voorlopig van kracht totdat de Commissie heeft beslist. Dit artikel is evenwel niet van toepassing op overeenkomsten, besluiten en onderling samenhangende gedragingen die op de datum van toetreding reeds onder de [artikelen 1 en 2 van Protocol nr. 25 bij de EER-Overeenkomst](onbekend) vallen.
 
-#### Artikel 172
+##### Artikel 172
 
 1. Vanaf de datum van toetreding dragen de nieuwe Lid-Staten er zorg voor dat alle relevante kennisgevingen of informatie die vóór de toetreding krachtens de [EER-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0001070) aan de Toezichthoudende Autoriteit van de EVA of aan het Permanent Comité van de EVA-Staten is toegezonden, onverwijld aan de Commissie wordt doorgezonden. Voor de toepassing van de betreffende Gemeenschapsbepalingen wordt deze doorzending beschouwd als kennisgeving of informatie aan de Commissie.
 
@@ -1421,55 +1443,55 @@ Van de op het tijdstip van toetreding bestaande overeenkomsten, besluiten en ond
 
 7. Onverminderd de leden 4 en 5 blijven beschikkingen van de Toezichthoudende Autoriteit na de toetreding van toepassing tenzij de Commissie overeenkomstig de grondbeginselen van het Gemeenschapsrecht, een met redenen omkleed andersluidend besluit neemt.
 
-#### Artikel 173
+##### Artikel 173
 
 De wettelijke en bestuursrechtelijke bepalingen voor de bescherming van de gezondheid van de werknemers en van de bevolking op het grondgebied van de nieuwe Lid-Staten tegen de aan ioniserende straling verbonden gevaren worden overeenkomstig [artikel 33 van het Euratom-Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004033&artikel=33), door deze Staten aan de Commissie medegedeeld binnen een termijn van drie maanden, te rekenen vanaf de toetreding.
 
 ## TITEL III. SLOTBEPALINGEN
 
-#### Artikel 174
+##### Artikel 174
 
 De aan deze Akte gehechte bijlagen I tot en met XIX en de Protocollen nr. 1 tot en met nr. 10 maken daar een integrerend deel van uit.
 
-#### Artikel 175
+##### Artikel 175
 
 De Regering van de Franse Republiek zendt aan de Regeringen van de nieuwe Lid-Staten een voor eensluidend gewaarmerkt afschrift toe van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en van die bij haar nedergelegde verdragen waarbij dit Verdrag is gewijzigd.
 
-#### Artikel 176
+##### Artikel 176
 
 De Regering van de Italiaanse Republiek zendt aan de Regeringen van de nieuwe Lid-Staten een voor eensluidend gewaarmerkt afschrift in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Portugese, de Nederlandse en de Spaanse taal toe van het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004033) en de Verdragen tot wijziging of aanvulling daarvan, met inbegrip van de Verdragen betreffende de toetreding van het Koninkrijk Denemarken, Ierland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, van de Helleense Republiek en van het Koninkrijk Spanje en de Portugese Republiek tot de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie, en het Verdrag betreffende de Europese Unie.
 
 De teksten van deze Verdragen die zijn opgesteld in de Finse en de Zweedse taal, worden aan de onderhavige Akte gehecht. Deze teksten zijn op gelijke wijze authentiek als de teksten van de in de eerste alinea genoemde Verdragen die zijn opgesteld in de negen huidige talen.
 
-#### Artikel 177
+##### Artikel 177
 
 De Secretaris-Generaal van de Raad van de Europese Unie zal een voor eensluidend gewaarmerkt afschrift van de internationale overeenkomsten die zijn nedergelegd in het archief van het Secretariaat-Generaal, aan de Regeringen van de nieuwe Lid-Staten toezenden.
 
 ## DEEL EERSTE. Aanpassing van de statuten van de Europese Investeringsbank
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Verdrag betreffende de Europese Unie; Maastricht, 7 februari 1992.
 
 ## DEEL TWEEDE. Andere bepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De nieuwe Lid-Staten storten de volgende bedragen overeenkomende met hun aandeel in het kapitaal dat door de Lid-Staten op 1 januari 1995 is gestort:
 
@@ -1485,20 +1507,20 @@ Deze bedragen worden gestort in vijf gelijke halfjaarlijkse termijnen die telken
 
 Deze bedragen worden betaald in acht halfjaarlijkse termijnen die telkens vervallen op de data waarop deze kapitaalsverhoging moet plaatsvinden, te beginnen op 30 april 1995.
 
-#### Artikel 7
+##### Artikel 7
 
 De nieuwe Lid-Staten dragen in vijf gelijke halfjaarlijkse termijnen die vervallen op de in artikel 6, lid 1, vermelde data bij tot het reservefonds, de aanvullende reserve, de met reserves gelijk te stellen voorzieningen, alsmede het nog naar de reserves en voorzieningen over te boeken saldo van de verlies- en winstrekening, zoals deze zijn vastgesteld op 31 december van het jaar voorafgaande aan de toetreding en zoals deze voorkomen in de balans van de Bank, een en ander voor bedragen die overeenkomen met de volgende percentages van de reserves en voorzieningen:
 
 | Zweden Oostenrijk Finland | 3,51736111%, 2,63194444%, 1,51215278. |
 | --- | --- |
 
-#### Artikel 8
+##### Artikel 8
 
 De in de artikelen 6 en 7 van dit Protocol bedoelde stortingen worden door de nieuwe Lid-Staten verricht in ecu of in hun nationale valuta.
 
 Indien een nationale valuta voor de betaling wordt gebruikt, worden de bedragen berekend op de basis van de koers van de omrekening van de ecu die geldt op de laatste werkdag van de maand voorafgaande aan de betrokken stortingen. Deze berekeningswijze wordt ook gebruikt voor de aanpassing van het kapitaal als bedoeld in artikel 7 van het Protocol betreffende de statuten van de Bank.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onmiddellijk bij de toetreding vult de Raad van Gouverneurs de Raad van Bewind aan door de benoeming van drie bewindvoerders aangewezen door de respectieve nieuwe Lid-Staten, alsmede één plaatsvervanger aangewezen in onderlinge overeenstemming door de Republiek Oostenrijk, de Republiek Finland en het Koninkrijk Zweden.
 
@@ -1506,7 +1528,7 @@ Indien een nationale valuta voor de betaling wordt gebruikt, worden de bedragen 
 
 Gelet op de speciale status van de Åland-eilanden in het internationale recht, zijn de Verdragen waarop de Europese Unie is gegrond, op de Åland-eilanden van toepassing met de volgende afwijkingen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het bepaalde in het EG-Verdrag staat niet in de weg aan de toepassing van de per 1 januari 1994 op de Åland-eilanden bestaande bepalingen inzake:
 
@@ -1514,7 +1536,7 @@ Het bepaalde in het EG-Verdrag staat niet in de weg aan de toepassing van de per
 
 - -. beperkingen, op niet discriminatoire basis, van het recht van vestiging en het recht diensten te verlenen door natuurlijke personen die niet het regionale burgerschap hembygdsrätt/ kotiseutuoikeus (regional citizenship) in Åland genieten, of door rechtspersonen, zonder toestemming van de bevoegde autoriteiten van de Åland-eilanden.
 
-#### Artikel 2
+##### Artikel 2
 
 a. Het gebied van de Åland-eilanden - beschouwd als een derde grondgebied in de zin van artikel 3, lid 1, derde streepje van Richtlijn 77/388/EEG van de Raad als gewijzigd, en als een nationaal gebied dat buiten het toepassingsgebied valt van de richtlijnen inzake de harmonisatie van accijnzen als omschreven in artikel 2 van Richtlijn 92/12/EEG van de Raad - valt buiten de territoriale toepassing van de EG-bepalingen op het gebied van de harmonisatie van de wetgevingen van de Lid-Staten inzake omzetbelastingen en accijnzen en andere vormen van indirecte belastingen. Deze uitzondering heeft geen gevolgen voor de eigen middelen van de Gemeenschap.
 
@@ -1522,7 +1544,7 @@ Deze bepaling is niet van toepassing op het bepaalde in Richtlijn 69/335/EEG van
 
 b. Deze afwijking heeft ten doel een leefbare lokale economie op de eilanden in stand te houden en zal geen negatieve gevolgen hebben voor de belangen van de Unie noch haar gemeenschappelijk beleid op diverse terreinen. Indien de Commissie van oordeel is dat het bepaalde onder a) niet langer gerechtvaardigd is, met name in verband met eerlijke concurrentie of de eigen middelen, zal zij passende voorstellen aan de Raad voorleggen die een besluit zal nemen overeenkomstig de desbetreffende artikelen van het EG-Verdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 Finland draagt er zorg voor dat alle natuurlijke en rechtspersonen van de Lid-Staten op de Åland-eilanden op dezelfde wijze worden behandeld.
 
@@ -1536,11 +1558,11 @@ OVERWEGENDE dat de traditionele cultuur en middelen van bestaan van de Sami's af
 
 ZIJN HET VOLGENDE OVEREENGEKOMEN:
 
-#### Artikel 1
+##### Artikel 1
 
 Niettegenstaande de bepalingen van het EG-Verdrag, kunnen exclusieve rechten inzake rendierhouderij binnen de traditionele Sami-gebieden aan de Sami-bevolking worden toegekend.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Protocol kan worden uitgebreid om rekening te houden met eventuele toekomstige ontwikkelingen van de exclusieve Sami-rechten in verband met hun traditionele middelen van bestaan. De Raad kan, op voorstel van de Commissie en na raadpleging van het Europees Parlement en het Comité van de Regio's, met eenparigheid van stemmen de nodige wijzigingen van dit Protocol vaststellen.
 
@@ -1558,23 +1580,23 @@ overwegende dat de procedures die op deze doelstelling van toepassing zijn, moet
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Tot en met 31 december 1999 dragen de Structuurfondsen, het Financieringsinstrument voor de Oriëntatie van de Visserij (FIOV) en de Europese Investeringsbank elk op passende wijze bij tot de verwezenlijking van een nieuwe prioritaire doelstelling naast de vijf doelstellingen van artikel 1 van Verordening (EEG) nr. 2052/88 van de Raad, als gewijzigd bij Verordening (EEG) nr. 2081/93 van de Raad. Met die doelstelling wordt het volgende beoogd:
 
 bevordering van de ontwikkeling en de structurele aanpassing van regio's met een buitengewoon geringe bevolkingsdichtheid (hierna te noemen “doelstelling 6” ).
 
-#### Artikel 2
+##### Artikel 2
 
 De onder doelstelling 6 vallende regio's vertegenwoordigen of behoren in principe tot regio's van niveau II van NUTS met een bevolkingsdichtheid van ten hoogste 8 personen per km2. De bijstandsverlening van de Gemeenschap kan bovendien, op voorwaarde dat zij daadwerkelijk wordt geconcentreerd, ook worden uitgebreid tot aangrenzende en kleinere gebieden die aan hetzelfde criterium inzake bevolkingsdichtheid voldoen.
 
 Dergelijke regio's en gebieden, in dit Protocol „regio's van doelstelling 6” genoemd, staan in de lijst van bijlage 1.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de periode 1995 tot en met 1999 wordt een bedrag van 741 miljoen ecu, tegen prijzen van 1995, aan communautaire middelen passend geacht voor de vastleggingen uit hoofde van de Structuurfondsen en het FIOV ten behoeve van de in bijlage I opgesomde regio's van doelstelling 6. In bijlage 2 staat de verdeling van die middelen per jaar en per Lid-Staat. Deze middelen vormen een aanvulling op de middelen die reeds zijn vastgelegd uit hoofde van de Structuurfondsen en het FIOV krachtens Verordening (EEG) nr. 2052/88 van de Raad, als gewijzigd bij Verordening (EEG) nr. 2081/93 van de Raad.
 
-#### Artikel 4
+##### Artikel 4
 
 Onverminderd het bepaalde in de artikelen 1, 2 en 3, gelden de bepalingen van onderstaande verordeningen, en in het bijzonder de bepalingen betreffende doelstelling 1, eveneens voor doelstelling 6:
 
@@ -1582,7 +1604,7 @@ Onverminderd het bepaalde in de artikelen 1, 2 en 3, gelden de bepalingen van on
 
 - –. Verordeningen (EEG) nr. 2052/88, nr. 4253/88, nr. 4254/88, nr. 4255/88 en nr. 4256/88 van de Raad, als gewijzigd bij Verordeningen (EEG) nr. 2081/93, nr. 2082/93. nr. 2083/93, nr. 2084/93 en nr. 2085/93 van de Raad.
 
-#### Artikel 5
+##### Artikel 5
 
 Het bepaalde in dit Protocol, met inbegrip van de bepalingen betreffende eventuele steunverlening uit hoofde van de Structuurfondsen aan de in bijlage I opgenomen regio's, wordt in 1999 samen met de Kaderverordening (EEG) nr. 2052/88, als gewijzigd bij nr. 2081/93, betreffende de structuurinstrumenten en de structurele maatregelen herzien volgens de procedures van die verordening.
 
@@ -1592,21 +1614,21 @@ Overwegende dat sommige nieuwe Lid-Staten verkiezingen voor het Europees Parleme
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Elke nieuwe Lid-Staat mag overeenkomstig artikel 31, lid 3, van deze Toetredingsakte, verkiezingen voor het Europees Parlement houden tijdens de interimperiode tussen de ondertekening van de Toetredingsakte en de inwerkingtreding ervan met betrekking tot die Staat.
 
-#### Artikel 2
+##### Artikel 2
 
 De desbetreffende bepalingen van de Akte van 20 september 1976 betreffende de verkiezing van de vertegenwoordigers in het Europees Parlement door middel van rechtstreekse algemene verkiezingen, die is opgenomen als bijlage bij Besluit 76/787/EGKS, EEG, Euratom, laatstelijk gewijzigd bij de Toetredingsakte, worden geacht van toepassing te zijn op de overeenkomstig dit Protocol te houden verkiezingen.
 
 De verkiezingen worden gehouden overeenkomstig de regelingen in de bijlage bij dit Protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 De uitslag van de overeenkomstig de artikelen 1 en 2 gehouden verkiezingen treedt in werking vanaf de datum van inwerkingtreding van dit Verdrag met betrekking tot de nieuwe Lid-Staten die dergelijke verkiezingen hebben gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot de overeenkomstig dit Protocol verkozen vertegenwoordigers en vanaf de datum van toetreding van de betrokken Lid-Staten:
 
@@ -1616,7 +1638,7 @@ Met betrekking tot de overeenkomstig dit Protocol verkozen vertegenwoordigers en
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 In deze richtlijn wordt verstaan onder:
 
@@ -1640,7 +1662,7 @@ In deze richtlijn wordt verstaan onder:
 
 - -. „formele verklaring”: de verklaring van de betrokkene, op de onjuistheid waarvan in de desbetreffende nationale wet sancties zijn gesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Een ieder die op de referentiedag
 
@@ -1650,23 +1672,23 @@ Een ieder die op de referentiedag
 
 Indien de onderdanen van de kandidaat-Staat van verblijf, om verkozen te kunnen worden, hun nationaliteit sedert een bepaalde minimumperiode moeten bezitten, worden burgers van de Unie geacht aan die voorwaarde te voldoen wanneer zij de nationaliteit van een Lid-Staat sedert diezelfde periode bezitten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Niemand mag in de kandidaat-Staat zijn stem uitbrengen indien hij in een van de Lid-Staten zijn stem heeft uitgebracht in de verkiezingen van 1994.
 
 2. Niemand is verkiesbaar in de kandidaat-Staat indien hij in 1994 in een van de Lid-Staten verkiesbaar was.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de onderdanen van de kandidaat-Staat van verblijf, om kiezer of verkiesbaar te kunnen zijn, sedert een bepaalde minimumperiode in het kiesgebied van deze Staat moeten hebben verbleven, worden de communautaire kiezers en verkiesbare personen geacht aan deze voorwaarde te voldoen, indien hun verblijf in andere Lid-Staten van gelijke duur was. Deze bepaling laat de bijzondere voorwaarden in verband met de duur van het verblijf in een bepaalde kieskring of bepaald onder een lokale overheid ressorterend gebied, onverlet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een burger van de Unie die in een kandidaat-Staat verblijf houdt zonder dat hij de nationaliteit van deze Staat bezit, en die ingevolge een individuele strafrechtelijke of civielrechtelijke beslissing, hetzij overeenkomstig het recht van de kandidaat-Staat van verblijf, hetzij overeenkomstig het recht van zijn Staat van herkomst, het passief kiesrecht heeft verloren, is bij de verkiezingen voor het Europees Parlement uitgesloten van de uitoefening van dat recht in de kandidaat-Staat van verblijf.
 
 2. De kandidaatstelling van een burger van de Unie bij verkiezingen voor het Europees Parlement in de kandidaat-Staat van verblijf wordt onontvankelijk verklaard indien de burger de in artikel 9, lid 2, bedoelde verklaring niet kan overleggen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kandidaat-Staat van verblijf kan zich ervan vergewissen dat de burger van de Unie die blijk heeft gegeven van zijn wil zijn actief kiesrecht aldaar uit te oefenen, dat recht in de Lid-Staat van herkomst niet ingevolge een individuele strafrechtelijke of civielrechtelijke beslissing heeft verloren.
 
@@ -1674,7 +1696,7 @@ Indien de onderdanen van de kandidaat-Staat van verblijf, om kiezer of verkiesba
 
 3. De Lid-Staat van oorsprong kan bovendien op passende wijze en binnen een passende termijn aan de kandidaat-Staat van verblijf alle informatie verstrekken die nodig is voor de toepassing van dit artikel.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een communautair kiezer oefent het actief kiesrecht in de kandidaat-Staat van verblijf uit indien hij blijk heeft gegeven van de wil daartoe.
 
@@ -1682,7 +1704,7 @@ Indien de onderdanen van de kandidaat-Staat van verblijf, om kiezer of verkiesba
 
 ### HOOFDSTUK II. DE UITOEFENING VAN HET ACTIEF EN PASSIEF KIESRECHT
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kandidaat-Staat treft de nodige maatregelen om communautaire kiezers die blijk hebben gegeven van de wil daartoe, de mogelijkheid te bieden tijdig voor de verkiezingen op een kiezerslijst te worden ingeschreven.
 
@@ -1704,7 +1726,7 @@ Indien de onderdanen van de kandidaat-Staat van verblijf, om kiezer of verkiesba
 
 4. De communautaire kiezers die op de kiezerslijst zijn ingeschreven, blijven onder dezelfde voorwaarden als de nationale kiezers daarop ingeschreven totdat zij verzoeken daarvan te worden geschrapt, of totdat zij ambtshalve daarvan worden geschrapt omdat zij niet langer aan de voorwaarden voor uitoefening van het actief kiesrecht voldoen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een communautair verkiesbaar persoon moet bij het indienen van zijn kandidaatstelling dezelfde bewijzen overleggen als een nationaal kandidaat. Hij moet bovendien een formele verklaring overleggen waarin hij:
 
@@ -1718,23 +1740,23 @@ Indien de onderdanen van de kandidaat-Staat van verblijf, om kiezer of verkiesba
 
 3. De kandidaat-Staat van verblijf kan bovendien eisen dat een communautair verkiesbaar persoon een geldig identiteitsbewijs voorlegt; hij kan eveneens verlangen dat de verkiesbare persoon aangeeft sedert wanneer hij onderdaan van een Lid-Staat is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De kandidaat-Staat van verblijf deelt de betrokkene mee welk gevolg aan zijn verzoek om inschrijving op de kiezerslijst is gegeven of welk besluit inzake de ontvankelijkheid van zijn kandidaatstelling is genomen.
 
 2. Wordt de betrokkene inschrijving op de kiezerslijst ontzegd of wordt zijn kandidaatstelling verworpen, dan kan hij de beroepsprocedures instellen die volgens de wetgeving van de kandidaat-Staat van verblijf in hetzelfde geval voor de nationale kiezers en verkiesbare personen openstaat.
 
-#### Artikel 11
+##### Artikel 11
 
 De kandidaat-Staat van verblijf stelt de communautaire kiezers en verkiesbare personen tijdig en op passende wijze in kennis van de voorwaarden en nadere bepalingen die gelden voor de uitoefening van het actief en passief kiesrecht in die Staat.
 
-#### Artikel 12
+##### Artikel 12
 
 De huidige Lid-Staten en de kandidaat-Staten wisselen de voor de toepassing van artikel 3 vereiste gegevens uit.
 
 ### HOOFDSTUK III. AFWIJKINGEN EN OVERGANGSBEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien in een kandidaat-Staat op 1 januari 1993 het aantal burgers van de Unie die aldaar verblijf houden zonder de nationaliteit van deze Lid-Staat te bezitten en die de kiesgerechtigde leeftijd hebben bereikt, meer bedraagt dan 20% van het totale aantal personen die de kiesgerechtigde leeftijd hebben bereikt, kan de kandidaat-Staat in afwijking van de artikelen 2, 8 en 9:
 
@@ -1750,7 +1772,7 @@ De in de eerste alinea bedoelde voorwaarden inzake verblijfsduur zijn evenwel ni
 
 ## DEEL I. DEFINITIES
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Protocol zijn de volgende definities van toepassing:
 
@@ -1770,45 +1792,45 @@ In dit Protocol zijn de volgende definities van toepassing:
 
 ## DEEL II. VERVOER PER SPOOR EN GECOMBINEERD VERVOER
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Deel is van toepassing op maatregelen betreffende vervoer per spoor en gecombineerd vervoer over het grondgebied van Oostenrijk.
 
-#### Artikel 3
+##### Artikel 3
 
 De Gemeenschap en de betrokken Lid-Staten treffen, in het kader van hun onderscheiden bevoegdheden, maatregelen voor de ontwikkeling en de bevordering van het vervoer per spoor en het gecombineerd vervoer voor het vervoeren van goederen door de Alpen; zij stemmen deze maatregelen nauw op elkaar af.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij de vaststelling van de in artikel 129 C van het EG-Verdrag bedoelde richtsnoeren, draagt de Gemeenschap er zorg voor dat de in bijlage 1 vermelde hoofdroutes deel uitmaken van de Transeuropese Netwerken voor vervoer per spoor en gecombineerd vervoer en tevens worden aangemerkt als projecten van gemeenschappelijk belang.
 
-#### Artikel 5
+##### Artikel 5
 
 De Gemeenschap en de betrokken Lid-Staten leggen in het kader van hun onderscheiden bevoegdheden de in bijlage 2 vermelde maatregelen ten uitvoer.
 
-#### Artikel 6
+##### Artikel 6
 
 De Gemeenschap en de betrokken Lid-Staten stellen alles in het werk om de in bijlage 3 bedoelde aanvullende spoorwegcapaciteit te ontwikkelen en te gebruiken.
 
-#### Artikel 7
+##### Artikel 7
 
 De Gemeenschap en de betrokken Lid-Staten nemen maatregelen ter bevordering van het vervoer per spoor en gecombineerd vervoer; indien passend worden deze maatregelen, behoudens andere bepalingen van het EG-Verdrag, vastgesteld in nauwe samenwerking met spoorwegondernemingen en andere instellingen die vervoer per spoor aanbieden. Er zal voorrang worden gegeven aan de in het Gemeenschapsrecht vervatte maatregelen betreffende vervoer per spoor en gecombineerd vervoer. Bij de tenuitvoerlegging van deze maatregelen wordt bijzondere aandacht besteed aan het concurrentievermogen, de doeltreffendheid en de kostentransparantie van het vervoer per spoor en het gecombineerd vervoer. De Lid-Staten richten hun aandacht inzonderheid op maatregelen om ervoor te zorgen dat de prijzen voor gecombineerd vervoer concurrerend zijn met de prijzen van andere wijzen van vervoer. Eventuele steun in dit verband moet verenigbaar zijn met de Gemeenschapsvoorschriften.
 
-#### Artikel 8
+##### Artikel 8
 
 De Gemeenschap en de betrokken Lid-Staten treden, ingeval van een ernstige verstoring van het transitovervoer per spoor, bijvoorbeeld bij natuurrampen, zoveel mogelijk gezamenlijk op om de verkeersstroom in stand te houden. Daarbij moet voorrang worden gegeven aan gevoelige ladingen, zoals bederfelijke levensmiddelen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Commissie evalueert de tenuitvoerlegging van dit Deel volgens de procedure van artikel 16.
 
 ## DEEL III. VERVOER OVER DE WEG
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Deel is van toepassing op het vervoer van goederen over de weg binnen het grondgebied van de Gemeenschap.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Op ritten waarbij transitogoederenvervoer over de weg door Oostenrijk is betrokken, is de regeling van toepassing die is vastgesteld bij de Eerste Richtlijn van de Raad van 23 juli 1962 en Verordening (EEG) nr. 881/92 van de Raad voor ritten voor eigen rekening en voor ritten met gehuurde voertuigen of tegen betaling, behoudens het bepaalde in dit artikel.
 
@@ -1834,7 +1856,7 @@ Dit Deel is van toepassing op het vervoer van goederen over de weg binnen het gr
 
 De in de eerste alinea bedoelde maatregelen moeten ervoor zorgen dat de feitelijke situatie die voor de huidige Lid-Staten voortvloeit uit de toepassing van Verordening (EEG) nr. 3637/92 van de Raad en van de op 23 december 1992 ondertekende Administratieve Overeenkomst betreffende de datum van inwerkingtreding en de procedures voor de invoering van het ecopuntensysteem als bedoeld in de Transitoovereenkomst, gehandhaafd blijft. Daarbij zal alles in het werk worden gesteld om ervoor te zorgen dat bij de toekenning van ecopunten aan Griekenland in voldoende mate rekening wordt gehouden met de Griekse behoeften in dit verband.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor het internationale goederenvervoer op ritten tussen Lid-Staten is de regeling van Verordening (EEG) nr. 881/92 van de Raad van toepassing, behoudens het bepaalde in dit artikel. Deze bepalingen zijn van toepassing tot en met 31 december 1996.
 
@@ -1848,19 +1870,19 @@ Zo nodig kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderh
 
 5. Trekkers met een Gemeenschapsvergunning, afgegeven door de bevoegde instanties in Oostenrijk, mogen geen internationaal goederenvervoer verrichten op ritten waarbij in Oostenrijk noch geladen noch gelost wordt, behoudens op ritten met transito door Oostenrijk. Al deze ritten waarbij transitovervoer door Oostenrijk is betrokken zijn evenwel onderworpen.aan het bepaalde in artikel 11 en ook, behalve wat de ritten tussen Duitsland en Italië betreft, aan bestaande quota die zijn onderworpen aan het bepaalde in lid 2 van het onderhavige artikel.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Tot en met 31 december 1996, is Verordening (EEG) nr. 3118/93 niet van toepassing op trekkers met een Gemeenschapsvergunning, afgegeven door de bevoegde instanties in Oostenrijk, voor het verrichten van nationaal wegvervoer in andere Lid-Staten.
 
 2. Gedurende dat tijdvak is Verordening (EEG) nr. 3118/93 niet van toepassing op trekkers met een Gemeenschapsvergunning, afgegeven door de bevoegde instanties in een andere Lid-Staat voor het verrichten van nationaal wegvervoer in Oostenrijk.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Aan de grenzen van Oostenrijk en andere Lid-Staten vinden geen controles plaats. In afwijking van de Verordeningen (EEG) nr. 4060/89 en nr. 3912/92 mogen, niettegenstaande artikel 153 van de Toetredingsakte, tot en met 31 december 1996, niet-discriminatoire fysieke controles worden uitgevoerd waarbij voertuigen tot stilstand mogen worden gebracht, zulks uitsluitend ter verificatie van de krachtens artikel 11 verstrekte ecopunten en de in artikel 12 van dit protocol bedoelde vervoersvergunningen. Deze controles mogen de normale verkeersstroom niet onnodig vertragen.
 
 2. Voor zover nodig worden voor de periode na 31 december 1996 controlemethoden, met inbegrip van geautomatiseerde systemen, met het oog op de toepassing van artikel 11 vastgesteld volgens de procedure van artikel 16.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Oostenrijk mag in afwijking van artikel 7, onder f., van Richtlijn 93/89/EEG tot en met 31 december 1995 gebruiksrechten van ten hoogste 3.750 ecu per jaar, met inbegrip van de administratieve kosten, en tot en met 31 december 1996 gebruiksrechten van ten hoogste 2.500 ecu per jaar, met inbegrip van de administratieve kosten, toepassen.
 
@@ -1872,7 +1894,7 @@ Zo nodig kan de Raad, op voorstel van de Commissie, met gekwalificeerde meerderh
 
 ## DEEL IV. ALGEMENE BEPALINGEN
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Commissie wordt bijgestaan door een Comité bestaande uit vertegenwoordigers van de Lid-Staten en voorgezeten door de vertegenwoordiger van de Commissie.
 
@@ -1886,11 +1908,11 @@ Wanneer de beoogde maatregelen niet in overeenstemming zijn met het advies van h
 
 In het kader van de Europese Unie geldt het volgende:
 
-#### 1
+##### 1
 
 De specifieke Oostenrijkse termen binnen de Duitse taal die zijn opgenomen in het Oostenrijks rechtsstelsel en die in de bijlage bij dit Protocol worden genoemd hebben dezelfde status en dezelfde rechtsgevolgen als de daarmee overeenkomende, in Duitsland gebruikte termen die in die bijlage worden genoemd.
 
-#### 2
+##### 2
 
 In de Duitse taalversie van nieuwe rechtshandelingen worden de in de bijlage bij dit Protocol genoemde specifieke Oostenrijkse termen in de juiste vorm toegevoegd aan de daarmee overeenkomende, in Duitsland gebruikte termen.
 

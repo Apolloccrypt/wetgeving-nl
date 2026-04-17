@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Vreemdelingenwet 2000 (bestendiging bevoegdheid afname en verwerking biometrische gegevens van vreemdelingen)"
+title: "Wet van 25 februari 2026 tot wijziging van de Vreemdelingenwet 2000 ter bestendiging van de bevoegdheid om biometrische gegevens van vreemdelingen af te nemen en te verwerken"
 identifier: "BWBR0052365"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-02-28
-laatste_update: 2026-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052365"
+country: "nl"
+rank: "wet"
+publication_date: "2026-02-28"
+last_updated: "2026-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052365"
+soort: "wet"
+stam_id: "17781173"
+version_id: "31443022"
+internal_id: "C44912441"
+label_id: "17679044"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052365/2026-02-28/0"
+intitule_bron: "Stb.2026-47"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-25"
+intitule_published: "2026-02-27"
+intitule_in_force: "2026-02-27"
+intitule_status: "goed"
+original_publication: "Stb.2026-47"
+original_signed_date: "2026-02-25"
+original_published_date: "2026-02-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "36859"
+original_url_id: "stb-2026-47"
+entry_into_force_date: "2026-02-28"
+entry_into_force_dossier: "36859"
+jci_1_3: "jci1.3:c:BWBR0052365&z=2026-02-28&g=2026-02-28"
+jci_1_0: "1.0:c:BWBR0052365&g=2026-02-28"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Vreemdelingenwet 2000 (bestendiging bevoegdheid afname en verwerking biometrische gegevens van vreemdelingen)"
+signed_date: "2026-02-25"
+entry_into_force: "2026-02-28"
 ---
-
-# Wijzigingswet Vreemdelingenwet 2000 (bestendiging bevoegdheid afname en verwerking biometrische gegevens van vreemdelingen)
+# Wet van 25 februari 2026 tot wijziging van de Vreemdelingenwet 2000 ter bestendiging van de bevoegdheid om biometrische gegevens van vreemdelingen af te nemen en te verwerken
 
 Allen, die deze zullen of horen lezen, saluut! doen te weten:
 
@@ -16,15 +44,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de bevoegdheid om bi
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel II
+##### Artikel II
 
 Onze Minister van Asiel en Migratie zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de verwerking en vernietiging van biometrische gegevens van vreemdelingen in de vreemdelingenadministratie.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

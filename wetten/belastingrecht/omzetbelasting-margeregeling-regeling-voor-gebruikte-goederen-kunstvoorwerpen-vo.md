@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, margeregeling; regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten"
 identifier: "BWBR0035390"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035390"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035390"
+soort: "beleidsregel"
+stam_id: "12742373"
+version_id: "21569632"
+internal_id: "C30974421"
+label_id: "12714014"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035390/2025-01-01/0"
+intitule_bron: "Stcrt.2014-21054"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-17"
+intitule_published: "2014-07-25"
+intitule_in_force: "2014-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-21054"
+original_signed_date: "2014-07-17"
+original_published_date: "2014-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-21054"
+entry_into_force_date: "2014-07-26"
+jci_1_3: "jci1.3:c:BWBR0035390&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0035390&g=2025-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2014-07-17"
+entry_into_force: "2014-07-26"
 ---
-
 # Omzetbelasting, margeregeling; regeling voor gebruikte goederen, kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

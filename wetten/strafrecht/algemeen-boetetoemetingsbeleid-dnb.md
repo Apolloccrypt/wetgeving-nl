@@ -1,20 +1,45 @@
 ---
 title: "Algemeen boetetoemetingsbeleid DNB"
 identifier: "BWBR0044472"
-categorie: "Strafrecht"
-publicatiedatum: 2022-04-16
-laatste_update: 2022-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044472"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-04-16"
+last_updated: "2022-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044472"
+soort: "zbo"
+stam_id: "15745853"
+version_id: "27283382"
+internal_id: "C38544751"
+label_id: "15684214"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044472/2022-04-16/0"
+intitule_bron: "Stcrt.2020-63846"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-19"
+intitule_published: "2020-12-11"
+intitule_in_force: "2020-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-63846"
+original_signed_date: "2020-11-19"
+original_published_date: "2020-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-63846"
+entry_into_force_date: "2020-12-12"
+jci_1_3: "jci1.3:c:BWBR0044472&z=2022-04-16&g=2022-04-16"
+jci_1_0: "1.0:c:BWBR0044472&g=2022-04-16"
+citeertitel_status: "officieel"
+signed_date: "2020-11-19"
+entry_into_force: "2020-12-12"
 ---
-
 # Algemeen boetetoemetingsbeleid DNB
 
 De Nederlandsche Bank N.V. (DNB) heeft het volgende beleid vastgesteld met betrekking tot het bepalen van de hoogte van bestuurlijke boetes die worden opgelegd wegens overtredingen van voorschriften als bedoeld in [paragraaf 2 van het Besluit bestuurlijke boetes financiële sector (Bbbfs)](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=2), [artikel 51a van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling (Bupw)](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&artikel=51a) en [bijlage 2 van het Besluit uitvoering EU-verordeningen financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0032230&bijlage=2).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In het kader van dit beleid wordt verstaan onder:
 
@@ -30,7 +55,7 @@ In het kader van dit beleid wordt verstaan onder:
 
 - f. **voordeelgerelateerde boete:** boete van ten hoogste een bij wet vastgesteld aantal malen van het bedrag van het voordeel dat de overtreder door de overtreding heeft verkregen.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Voor zover voor bepaalde (soorten) overtredingen specifiek boetetoemetingsbeleid is vastgesteld, past DNB het specifieke beleid toe bij het bepalen van de hoogte van de bestuurlijke boete.1Het specifieke boetetoemetingsbeleid is gepubliceerd op de website van DNB.
 
@@ -44,7 +69,7 @@ De wetgever heeft overtredingen ingedeeld in categorie 1, 2 of 3. Aan elke categ
 
 Op basis van het stappenplan worden de volgende stappen doorlopen:
 
-#### Artikel 3. Stappenplan
+##### Artikel 3. Stappenplan
 
 3.1. In het kader van dit boeteregime hanteert DNB onderstaand stappenplan voor het vaststellen van boetes wegens overtredingen van voorschriften die zijn ingedeeld in categorie 2 en 3.
 
@@ -164,7 +189,7 @@ Indien DNB het voordeel dat met de overtreding is verkregen heeft kunnen vastste
 
 Bepaalde wet- en regelgeving schrijft voor dat de boete voor een overtreding van een voorschrift dat is ingedeeld in categorie 3 – in afwijking van het boeteregime op basis van een basisbedrag – maximaal een bij wet vastgesteld percentage van de netto-jaaromzet van de overtreder in het boekjaar voorafgaand aan de boeteoplegging bedraagt, indien de netto-jaaromzet boven een bepaald drempelbedrag uitkomt. In [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.2&artikel=4&z=2022-04-16&g=2022-04-16) is uiteengezet op welke wijze DNB de hoogte van de boete bepaalt, als dit regime van toepassing is.
 
-#### Artikel 4. Omzetgerelateerde boete
+##### Artikel 4. Omzetgerelateerde boete
 
 4.1. Indien het omzetgerelateerde boeteregime van toepassing is, berekent DNB de hoogte van de boete in beginsel conform het stappenplan als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2022-04-16&g=2022-04-16).
 
@@ -176,7 +201,7 @@ Bepaalde wet- en regelgeving schrijft voor dat de boete voor een overtreding van
 
 Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het regime op basis van een basisbedrag – maximaal een bij wet vastgesteld aantal malen van het voordeel dat met de overtreding is behaald10‘Voordeel’ betreft zowel winst die als gevolg van de overtreding is behaald als verlies dat is beperkt. Ook besparingen als gevolg van de overtreding leveren voordeel op als hier bedoeld. Voor het overige kan worden aangesloten bij de uitleg van het begrip in artikel 36e van het Wetboek van Strafrecht., bedragen. In sommige gevallen geldt als toepassingsvereiste een bij wet vastgestelde ondergrens aan het behaalde voordeel. In [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&hoofdstuk=2&paragraaf=2.3&artikel=5&z=2022-04-16&g=2022-04-16) is uiteengezet op welke wijze DNB invulling geeft aan deze bevoegdheid.
 
-#### Artikel 5. Voordeelgerelateerde boete
+##### Artikel 5. Voordeelgerelateerde boete
 
 5.1. Indien op basis van bepaalde wet- en regelgeving een voordeelgerelateerde boete kan worden opgelegd, past DNB deze in de volgende situatie toe:
 
@@ -196,7 +221,7 @@ Op basis van bepaalde wet- en regelgeving kan de boete – in afwijking van het 
 
 ### Hoofdstuk 3. Slotbepaling
 
-#### Artikel 6. Citeertitel en inwerkingtreding
+##### Artikel 6. Citeertitel en inwerkingtreding
 
 Dit beleid wordt aangehaald als: **Algemeen boetetoemetingsbeleid DNB** en treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Met de inwerkingtreding komt de **Leidraad vaststellen hoogte bestuurlijke boete** van DNB van 20 juli 2010 te vervallen.
 

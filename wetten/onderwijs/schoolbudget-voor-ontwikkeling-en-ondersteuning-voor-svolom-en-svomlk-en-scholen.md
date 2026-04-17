@@ -1,13 +1,36 @@
 ---
 title: "Schoolbudget voor ontwikkeling en ondersteuning voor svo/lom en svo/mlk en scholen voor praktijkonderwijs met declaratiebekostiging per 1 augustus 2001"
 identifier: "BWBR0012488"
-categorie: "Onderwijs"
-publicatiedatum: 2001-08-01
-laatste_update: 2001-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012488"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-08-01"
+last_updated: "2001-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012488"
+soort: "beleidsregel"
+stam_id: "6455783"
+version_id: "11129992"
+internal_id: "C15047091"
+label_id: "6444434"
+original_entry_into_force: "2001-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012488/2001-08-01/0"
+intitule_bron: "Uitleg.2001-14"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-14"
+intitule_published: "2001-05-23"
+intitule_in_force: "2001-05-23"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-14"
+original_signed_date: "2001-05-14"
+original_published_date: "2001-05-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-08-01"
+jci_1_3: "jci1.3:c:BWBR0012488&z=2001-08-01&g=2001-08-01"
+jci_1_0: "1.0:c:BWBR0012488&g=2001-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-14"
+entry_into_force: "2001-08-01"
 ---
-
 # Schoolbudget voor ontwikkeling en ondersteuning voor svo/lom en svo/mlk en scholen voor praktijkonderwijs met declaratiebekostiging per 1 augustus 2001
 
 ### 1. Inleiding

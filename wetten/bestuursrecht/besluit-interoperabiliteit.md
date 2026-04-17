@@ -1,13 +1,39 @@
 ---
-title: "Besluit interoperabiliteit"
+title: "Besluit van 7 mei 2004, houdende regels met betrekking tot interoperabiliteit van openbare elektronische communicatiediensten, toegang tot de Europese telefoonnummeringsruimte en landsgrensoverschrijdende toegang tot niet-geografische nummers (Besluit interoperabiliteit)"
 identifier: "BWBR0016700"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016700"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016700"
+soort: "AMvB"
+stam_id: "5864553"
+version_id: "19408382"
+internal_id: "C27191421"
+label_id: "5844524"
+dtd_version: "2.0"
+original_entry_into_force: "2012-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016700/2022-03-02/0"
+intitule_bron: "Stb.2004-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-07"
+intitule_published: "2004-05-18"
+intitule_in_force: "2004-05-18"
+intitule_status: "goed"
+original_publication: "Stb.2012-236"
+original_signed_date: "2012-05-30"
+original_published_date: "2012-06-04"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-236"
+entry_into_force_date: "2012-05-30"
+jci_1_3: "jci1.3:c:BWBR0016700&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0016700&g=2022-03-02"
+citeertitel_status: "officieel"
+short_title: "Besluit interoperabiliteit"
+signed_date: "2012-05-30"
+entry_into_force: "2012-05-30"
 ---
-
 # Besluit van 7 mei 2004, houdende regels met betrekking tot interoperabiliteit van openbare elektronische communicatiediensten, toegang tot de Europese telefoonnummeringsruimte en landsgrensoverschrijdende toegang tot niet-geografische nummers (Besluit interoperabiliteit)
 
 Op de voordracht van Onze Minister van Economische Zaken van 10 juli 2003, nr. WJZ 3025200;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet implementatie Europees regelgevingskader voor de elektronische communicatiesector 2002 in werking treedt. De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van de Tijdelijke referendumwet.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 - e. Universal International Freephone Numbers: een door de ITU geregistreerd uniek nummer dat wereldwijd bestemd is om gratis gebeld te worden.
 
-#### Artikel 2
+##### Artikel 2
 
 Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen in Nederland.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, behandelt oproepen van zijn eindgebruikers naar eindgebruikers die binnen de Europese Unie gebruik maken van:
 
@@ -52,7 +78,7 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 2. De Autoriteit Consument en Markt maakt jaarlijks op genoegzame wijze bekend welke haar bekende openbare telefoonnetwerken binnen de Europese Unie een serving netwerk betreffen als bedoeld in NEN-EN 301160.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, neemt alle maatregelen die ertoe bijdragen dat:
 
@@ -68,7 +94,7 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 - b. voor oproepen afkomstig uit specifieke gedeelten van het grondgebied van de Europese Unie waarvan de op te roepen abonnee heeft aangegeven dat hij deze om commerciële redenen niet wenst te ontvangen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanbieder van spraakcommunicatiediensten of een daarbij betrokken aanbieder van openbare elektronische communicatienetwerken die daarbij de toegang tot eindgebruikers controleert, waarborgt dat eindgebruikers gebruik kunnen maken van diensten met gebruikmaking van niet-geografische nummers binnen de Europese Unie.
 
@@ -76,13 +102,13 @@ op zodanige wijze dat de oproepen die eindgebruikers bereiken.
 
 3. Bij ministeriële regeling kunnen ten aanzien van de in het eerste lid bedoelde verplichting nadere regels worden gesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit interoperabiliteit.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Een aanbieder van spraakcommunicatiediensten waarmee internationale oproepen mogelijk zijn hanteert voor oproepen van zijn eindgebruikers naar en van eindgebruikers die gebruik maken van nummers die behoren tot de Europese telefoonnummeringsruimte tarieven die vergelijkbaar zijn met de tarieven voor oproepen van en naar andere lidstaten van de Europese Unie.
 

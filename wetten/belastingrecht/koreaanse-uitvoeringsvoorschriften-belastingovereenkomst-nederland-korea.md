@@ -1,20 +1,45 @@
 ---
-title: "Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea"
+title: "Regeling inzake vermindering van Koreaanse belasting op dividenden, interest en royalty's uit Koreaanse bron, genoten door inwoners van Nederland"
 identifier: "BWBR0004702"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004702"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004702"
+soort: "ministeriele-regeling"
+stam_id: "5090143"
+version_id: "9149462"
+internal_id: "C12171261"
+label_id: "5065744"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004702/1997-06-19/0"
+intitule_bron: "Stcrt.1991-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-01-25"
+intitule_published: "1991-01-25"
+intitule_in_force: "1991-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-18"
+original_signed_date: "1990-01-25"
+original_published_date: "1991-01-25"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-27"
+jci_1_3: "jci1.3:c:BWBR0004702&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004702&g=1997-06-19"
+citeertitel_status: "officieel"
+short_title: "Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea"
+signed_date: "1990-01-25"
+entry_into_force: "1991-01-27"
 ---
-
 # Regeling inzake vermindering van Koreaanse belasting op dividenden, interest en royalty's uit Koreaanse bron, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland.
+##### Artikel 1. Aanspraken van inwoners van Nederland.
 
 Aan de op 25 oktober 1978 tussen Nederland en Korea gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen ("Trb. 1979, nr. 13), en het Protocol bij die Overeenkomst, kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol:
 
@@ -32,7 +57,7 @@ De in de onderdelen a tot en met e van dit artikel vermelde verminderingen zijn 
 
 De in de onderdelen a tot en met e van dit artikel vermelde verminderingen van Koreaanse belasting zijn niet van toepassing indien de genieter van de dividenden, de interest of royalty's in Korea een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is, of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 10, vijfde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Koreaanse regeling.
+##### Artikel 2. Koreaanse regeling.
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&artikel=1&z=1997-06-19&g=1997-06-19) is van Koreaanse zijde de volgende regeling getroffen:
 
@@ -54,11 +79,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004702&a
 
 - 2. Verkrijgbaarheid van het woonplaatsformulier Neth/Kor 2 Exemplaren van het woonplaatsformulier Neth/Kor 2 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Korea bij de National Tax Administration, 108-4, Susong-Dong, Chongro-Ku, Seoul, 110-140, Korea.
 
-#### Artikel 3. Intrekking.
+##### Artikel 3. Intrekking.
 
 De beschikking van de Staatssecretaris van Financiën van 17-7-198517 juli 1985, nr. 085-1815 (Stcrt. van 17-7-198517 juli 1985, nr. 136), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding.
+##### Artikel 4. Inwerkingtreding.
 
 1. Deze regeling kan worden aangehaald als: Koreaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Korea.
 

@@ -1,30 +1,53 @@
 ---
 title: "Besluit uitvoeringsregels financiering kinderopvang"
 identifier: "BWBR0012515"
-categorie: "Overig"
-publicatiedatum: 2001-07-01
-laatste_update: 2001-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012515"
+country: "nl"
+rank: "zbo"
+publication_date: "2001-07-01"
+last_updated: "2001-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012515"
+soort: "zbo"
+stam_id: "6055083"
+version_id: "10706862"
+internal_id: "C14534011"
+label_id: "6044324"
+original_entry_into_force: "2001-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012515/2001-07-01/0"
+intitule_bron: "Stcrt.2001-106"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-23"
+intitule_published: "2001-06-06"
+intitule_in_force: "2001-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-106"
+original_signed_date: "2001-05-23"
+original_published_date: "2001-06-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-07-01"
+jci_1_3: "jci1.3:c:BWBR0012515&z=2001-07-01&g=2001-07-01"
+jci_1_0: "1.0:c:BWBR0012515&g=2001-07-01"
+citeertitel_status: "officieel"
+signed_date: "2001-05-23"
+entry_into_force: "2001-07-01"
 ---
-
 # Besluit uitvoeringsregels financiering kinderopvang
 
 Gelet op artikel 74, van de Werkloosheidswet en artikel 22a, van de Wet op de (re)integratie arbeidsgehandicapten,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Landelijk instituut sociale verzekeringen voert terzake de uitvoering van de regeling financiering kinderopvang een beleid als weergegeven in de bijlage bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit treedt in werking op 1 juli 2001.
 
 2. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 juli 2001, treedt het in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 juli 2001.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit uitvoeringsregels financiering kinderopvang.
 

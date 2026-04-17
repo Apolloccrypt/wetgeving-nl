@@ -1,13 +1,38 @@
 ---
-title: "Verenigd Koninkrijk, procedures bronbelasting interest"
+title: "Besluit van 16 januari 1992, nr. IFZ 91/1540"
 identifier: "BWBR0027799"
-categorie: "Belastingrecht"
-publicatiedatum: 1992-01-16
-laatste_update: 1992-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027799"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1992-01-16"
+last_updated: "1992-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027799"
+soort: "beleidsregel"
+stam_id: "10579543"
+version_id: "17460652"
+internal_id: "C24154961"
+label_id: "10554384"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027799/1992-01-16/0"
+intitule_bron: "Infob.1992-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-01-16"
+intitule_published: "1992-01-01"
+intitule_in_force: "1992-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1992-0"
+original_signed_date: "1992-01-16"
+original_published_date: "1992-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-16"
+jci_1_3: "jci1.3:c:BWBR0027799&z=1992-01-16&g=1992-01-16"
+jci_1_0: "1.0:c:BWBR0027799&g=1992-01-16"
+citeertitel_status: "redactioneel"
+short_title: "Verenigd Koninkrijk, procedures bronbelasting interest"
+signed_date: "1992-01-16"
+entry_into_force: "1992-01-16"
 ---
-
 # Besluit van 16 januari 1992, nr. IFZ 91/1540
 
 Onlangs heeft de Britse belastingadministratie mij ervan in kennis gesteld dat zij met ingang van 1 april 1991 met betrekking tot interest betaald op obligaties uitgegeven door de Britse overheid een speciale regeling heeft ingevoerd op grond waarvan die interest in de hierna beschreven situatie aan inwoners van Nederland (natuurlijke personen of lichamen) zonder overlegging van een formulier Neth 5/Individual c.q. Neth 5/Company mag worden uitbetaald zonder inhouding van Britse Income Tax.

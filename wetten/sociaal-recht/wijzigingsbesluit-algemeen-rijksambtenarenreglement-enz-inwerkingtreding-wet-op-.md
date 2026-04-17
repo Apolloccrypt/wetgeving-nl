@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (inwerkingtreding Wet op de jeugdzorg)"
+title: "Besluit van 5 juli 2005, houdende wijziging van enkele algemene maatregelen van bestuur in verband met de inwerkingtreding van de Wet op de jeugdzorg"
 identifier: "BWBR0018562"
-categorie: "Sociaal recht"
-publicatiedatum: 2005-09-14
-laatste_update: 2005-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018562"
+country: "nl"
+rank: "amvb"
+publication_date: "2005-09-14"
+last_updated: "2005-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018562"
+soort: "AMvB"
+stam_id: "7339793"
+version_id: "12278242"
+internal_id: "C29466131"
+label_id: "7327714"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018562/2005-09-14/0"
+intitule_bron: "Stb.2005-435"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-07-05"
+intitule_published: "2005-09-13"
+intitule_in_force: "2005-09-13"
+intitule_status: "goed"
+original_publication: "Stb.2005-435"
+original_signed_date: "2005-07-05"
+original_published_date: "2005-09-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-435"
+entry_into_force_date: "2005-09-14"
+jci_1_3: "jci1.3:c:BWBR0018562&z=2005-09-14&g=2005-09-14"
+jci_1_0: "1.0:c:BWBR0018562&g=2005-09-14"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Algemeen Rijksambtenarenreglement, enz. (inwerkingtreding Wet op de jeugdzorg)"
+signed_date: "2005-07-05"
+entry_into_force: "2005-09-14"
 ---
-
 # Besluit van 5 juli 2005, houdende wijziging van enkele algemene maatregelen van bestuur in verband met de inwerkingtreding van de Wet op de jeugdzorg
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 mei 2005, kenmerk DJB/JZ-2554656, gedaan mede namens Onze Ministers van Justitie en van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -20,63 +46,63 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Algemeen Rijksambtenarenreglement.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Ambtenarenreglement Staten-Generaal.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### Artikel IV
+##### Artikel IV
 
 De algemene maatregel van bestuur, bedoeld in [artikel 3b, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3b), voor zover deze betrekking heeft op het verstrekken van subsidie, wordt vastgesteld overeenkomstig het [Subsidiebesluit justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0009369), zoals dit luidde op 31 december 2004.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit algemene rechtspositie politie.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit beperking verkoop en gebruik tabaksprodukten.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit BIBOB.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit gebruik sofi-nummer Wbp.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit gezondheidszorgpsycholoog.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit justitiële gegevens.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit klachtencommissie vergunninghouders interlandelijke adoptie.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit politieregisters.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Reglement Dienst Buitenlandse Zaken.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2005.
 

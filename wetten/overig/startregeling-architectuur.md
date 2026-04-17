@@ -1,13 +1,35 @@
 ---
 title: "Startregeling architectuur"
 identifier: "BWBR0052224"
-categorie: "Overig"
-publicatiedatum: 2026-02-01
-laatste_update: 2026-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052224"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-01"
+last_updated: "2026-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052224"
+soort: "zbo"
+stam_id: "17744913"
+version_id: "31352032"
+internal_id: "C44806911"
+label_id: "17643464"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052224/2026-02-01/0"
+intitule_bron: "Stcrt.2026-2113"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-01-28"
+intitule_in_force: "2026-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-2113"
+original_published_date: "2026-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-2113"
+entry_into_force_date: "2026-02-01"
+jci_1_3: "jci1.3:c:BWBR0052224&z=2026-02-01&g=2026-02-01"
+jci_1_0: "1.0:c:BWBR0052224&g=2026-02-01"
+citeertitel_status: "officieel"
+entry_into_force: "2026-02-01"
 ---
-
 # Startregeling architectuur
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10),
@@ -16,7 +38,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Regeling op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0027597). Specifiek binnen deze regeling wordt verstaan onder:
 
@@ -64,7 +86,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - 22. **vakgebied architectuur:** tot het vakgebied architectuur wordt gerekend: architectuur, interieur, tuin- en landschap, stedenbouw en ruimtelijke ordening, inclusief aanverwante activiteiten gericht op experiment, onderzoek, reflectie en debat op deze terreinen;
 
-#### Artikel 2. Taakopvatting Stimuleringsfonds
+##### Artikel 2. Taakopvatting Stimuleringsfonds
 
 1. De taak van het Stimuleringsfonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
@@ -72,7 +94,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 3. Reikwijdte en doelstellingen
+##### Artikel 3. Reikwijdte en doelstellingen
 
 1. Op grond van deze regeling kan het Stimuleringsfonds kleinschalige projecten van professionele architecten, makers, beschouwers, ontwerpbureaus of culturele instellingen subsidiëren, met een subsidiebehoefte en projectbegroting van maximaal € 10.000.
 
@@ -84,7 +106,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 - b. Stimuleren van experiment, onderzoek, reflectie en debat.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het fonds ter beschikking worden gesteld.
 
@@ -92,7 +114,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 3. Het bestuur stelt een maximum vast voor het totaalaantal aanvragen dat binnen deze regeling in behandeling kan worden genomen per subsidietijdvak. Dit aantal wordt ten minste twee weken voor openstelling bekendgemaakt op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/) en in de Staatscourant.
 
-#### Artikel 5. Procedure indienen en toetsing van aanvragen
+##### Artikel 5. Procedure indienen en toetsing van aanvragen
 
 1. Het bestuur maakt jaarlijks via [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl) en door middel van publicatie in de Staatscourant bekend binnen welke subsidietijdvakken een subsidieaanvraag op grond van deze regeling kan worden ingediend.
 
@@ -112,7 +134,7 @@ De in deze regeling gebruikte begrippen hebben dezelfde betekenis als in de [Reg
 
 9. Aanvragen die onderdeel uitmaken van de rangschikking die ontstaat door toepassing van lid 5, worden voorgelegd aan een onafhankelijke adviescommissie.
 
-#### Artikel 6. Ingangseisen
+##### Artikel 6. Ingangseisen
 
 Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan de volgende ingangseisen.
 
@@ -154,7 +176,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 - 4. Een aanvrager kan na het ontvangen van een subsidie op grond van deze regeling voor een periode van twaalf maanden geen nieuwe aanvraag doen binnen deze regeling. Deze periode vangt aan op de beschikkingsdatum.
 
-#### Artikel 7. Voorwaarden
+##### Artikel 7. Voorwaarden
 
 1. Een subsidie op grond van deze regeling kan alleen worden verleend als aan de volgende voorwaarden is voldaan:
 
@@ -222,7 +244,7 @@ Aanvragen die op grond van deze regeling worden ingediend, worden getoetst aan d
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 8. Inhoud van de aanvraag
+##### Artikel 8. Inhoud van de aanvraag
 
 1. Een volledige aanvraag bevat de onderstaande documenten. Alleen deze documenten worden beschikbaar gesteld aan de adviescommissie. Vormvereisten en richtlijnen staan beschreven in de [Handleiding voorbereiding subsidieaanvraag Startregeling creatieve industrie], hierbij geldt de versie zoals gepubliceerd op de website van het Stimuleringsfonds op de datum waarop het subsidietijdvak wordt opengesteld.
 
@@ -250,7 +272,7 @@ Een aanvraag bestaat uit:
 
 ### Hoofdstuk 4. Subsidieverlening
 
-#### Artikel 9. Procedure inhoudelijke behandeling aanvragen
+##### Artikel 9. Procedure inhoudelijke behandeling aanvragen
 
 1. De adviescommissie brengt advies uit aan het bestuur over het al dan niet toekennen van de subsidie.
 
@@ -264,7 +286,7 @@ Een aanvraag bestaat uit:
 
 6. Het bestuur besluit op basis van het advies van de adviescommissie over het al dan niet toekennen van de subsidie.
 
-#### Artikel 10. Beoordeling
+##### Artikel 10. Beoordeling
 
 1. De adviescommissie hanteert bij de beoordeling van een aanvraag voor een projectsubsidie de onderstaande criteria, die in gelijke mate worden gewogen. De criteria worden toegelicht in de Handleiding voorbereiding subsidieaanvraag [Startregeling creatieve industrie](https://wetten.overheid.nl/jci1.3:c:BWBR0050543).
 
@@ -288,7 +310,7 @@ Een aanvraag bestaat uit:
 
 4. Als aanvragen op basis van de gemiddelde eindscore gelijk eindigen op de ranglijst en het subsidieplafond wordt met deze aanvragen overschreden, dan wordt tussen deze aanvragen onderling prioriteit gegeven aan het voorstel dat het hoogst wordt gewaardeerd op criterium a, zoals genoemd in het eerste lid, als deze score gelijk is wordt er gekeken naar de score op criterium b.
 
-#### Artikel 11. Verlening van een subsidie
+##### Artikel 11. Verlening van een subsidie
 
 1. Het bestuur informeert de aanvrager binnen elf weken na het sluiten van het subsidietijdvak schriftelijk over zijn besluit.
 
@@ -298,7 +320,7 @@ Een aanvraag bestaat uit:
 
 4. Aan het verlenen van een subsidie kunnen door de ontvanger geen rechten worden ontleend met betrekking tot een volgende aanvraag.
 
-#### Artikel 12. Bevoorschotting en vaststelling
+##### Artikel 12. Bevoorschotting en vaststelling
 
 1. In het geval van een toekenning wordt 100% van het aangevraagde bedrag uitbetaald en wordt de subsidie direct vastgesteld.
 
@@ -310,7 +332,7 @@ Een aanvraag bestaat uit:
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 13. Administratie
+##### Artikel 13. Administratie
 
 1. De subsidieontvanger voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -318,11 +340,11 @@ Een aanvraag bestaat uit:
 
 3. De subsidieontvanger bewaart de administratie en de bijbehorende documenten gedurende zeven jaren na het vaststellen van de subsidie.
 
-#### Artikel 14. Vermelding Stimuleringsfonds
+##### Artikel 14. Vermelding Stimuleringsfonds
 
 In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het Stimuleringsfonds Creatieve Industrie als subsidieverstrekker. Het logo van het Stimuleringsfonds wordt opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en audiovisuele producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen, dan wordt in verhouding tot de bijdrage het logo van het Stimuleringsfonds in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 15. Melding bij het Stimuleringsfonds
+##### Artikel 15. Melding bij het Stimuleringsfonds
 
 In het geval een van de onderstaande situaties zich voordoet brengt de subsidieontvanger het bestuur daarvan direct op de hoogte:
 
@@ -336,11 +358,11 @@ In het geval een van de onderstaande situaties zich voordoet brengt de subsidieo
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 16. Bezwaar
+##### Artikel 16. Bezwaar
 
 Een belanghebbende kan tegen een besluit van het bestuur van het fonds bezwaar maken door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit is bekendgemaakt. De procedure voor bezwaren is gepubliceerd op de website [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl).
 
-#### Artikel 17. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 17. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 1. Het Stimuleringsfonds verstrekt geen vertrouwelijke informatie omtrent onder meer bedrijfs- en fabricagegegevens aan derden.
 
@@ -348,11 +370,11 @@ Een belanghebbende kan tegen een besluit van het bestuur van het fonds bezwaar m
 
 3. Als Zelfstandig Bestuursorgaan (zbo) valt het Stimuleringsfonds onder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Aanvraagdossiers worden na het verstrijken van de daarvoor bepaalde termijn overgedragen aan het Nationaal Archief. Aanvraagdossiers worden in dat geval gekwalificeerd als ‘beperkt openbare’ documenten.
 
-#### Artikel 18. Hardheidsclausule
+##### Artikel 18. Hardheidsclausule
 
 Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 19. Inwerkingtreding en expiratie
+##### Artikel 19. Inwerkingtreding en expiratie
 
 1. Deze regeling treedt in werking met ingang van 1 februari 2026.
 
@@ -360,7 +382,7 @@ Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van 
 
 3. Deze regeling vervalt met ingang van 1 januari 2029 met dien verstande dat zij van toepassing blijft op de afwikkeling van de op basis van deze regeling verleende subsidies.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Startregeling architectuur.
 

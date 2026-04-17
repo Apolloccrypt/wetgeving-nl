@@ -1,20 +1,46 @@
 ---
-title: "Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten"
+title: "Beleidsregel van De Nederlandsche Bank N.V. van 6 maart 2026 houdende regels met betrekking tot de handhaving van kapitaal- en liquiditeitsvereisten"
 identifier: "BWBR0052408"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-03-10
-laatste_update: 2026-03-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052408"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-10"
+last_updated: "2026-03-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052408"
+soort: "zbo"
+stam_id: "17794753"
+version_id: "31461332"
+internal_id: "C44935941"
+label_id: "17692484"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052408/2026-03-10/0"
+intitule_bron: "Stcrt.2026-8652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-06"
+intitule_published: "2026-03-09"
+intitule_in_force: "2026-03-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8652"
+original_signed_date: "2026-03-06"
+original_published_date: "2026-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8652"
+entry_into_force_date: "2026-03-10"
+jci_1_3: "jci1.3:c:BWBR0052408&z=2026-03-10&g=2026-03-10"
+jci_1_0: "1.0:c:BWBR0052408&g=2026-03-10"
+citeertitel_status: "officieel"
+short_title: "Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten"
+signed_date: "2026-03-06"
+entry_into_force: "2026-03-10"
 ---
-
 # Beleidsregel van De Nederlandsche Bank N.V. van 6 maart 2026 houdende regels met betrekking tot de handhaving van kapitaal- en liquiditeitsvereisten
 
 De Nederlandsche Bank N.V. (DNB) heeft het volgende beleid vastgesteld met betrekking tot de handhaving van overtredingen van kapitaal- of liquiditeitsvereisten door een beleggingsonderneming, moederbeleggingsonderneming, beleggingsholding, beheerder van een beleggingsinstelling, beheerder van een icbe, betaaldienstverlener of elektronischgeldinstelling zoals gedefinieerd in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), een crowdfundingdienstverlener zoals gedefinieerd in artikel 2 van [Verordening (EU) 2020/1503](32020R1503), en een aanbieder van cryptoactivadiensten zoals gedefinieerd in artikel 3 van [Verordening (EU) 2023/1114](32023R1114) (Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten).
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit beleid wordt verstaan onder:
 
@@ -38,17 +64,17 @@ In dit beleid wordt verstaan onder:
 
 - j. **Wft:** [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Dit beleid geldt als specifiek boetetoemetingsbeleid als bedoeld in [artikel 2 van het Algemeen Boetetoemetingsbeleid DNB](https://wetten.overheid.nl/jci1.3:c:BWBR0044472&artikel=2) van 19 november 2020.
 
-#### Artikel 3. Toepassingsbereik
+##### Artikel 3. Toepassingsbereik
 
 Dit beleid is van toepassing op een instelling.
 
 ### Hoofdstuk 2. Last onder dwangsom
 
-#### Artikel 4. Last onder dwangsom
+##### Artikel 4. Last onder dwangsom
 
 1. DNB legt in beginsel een last onder dwangsom op wanneer een instelling niet voldoet aan de kapitaal- of liquiditeitsvereisten.
 
@@ -58,7 +84,7 @@ Dit beleid is van toepassing op een instelling.
 
 ### Hoofdstuk 3. Bestuurlijke boete
 
-#### Artikel 5. Boeteoplegging
+##### Artikel 5. Boeteoplegging
 
 1. DNB legt in beginsel een bestuurlijke boete op aan een instelling wanneer de maximale last onder dwangsom, zoals omschreven in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052408&hoofdstuk=2&artikel=4&z=2026-03-10&g=2026-03-10), is verbeurd en de overtreding voortduurt.
 
@@ -68,7 +94,7 @@ Dit beleid is van toepassing op een instelling.
 
 4. DNB behoudt de bevoegdheid om in overige gevallen waarin een instelling niet voldoet aan de kapitaal- of liquiditeitsvereisten een bestuurlijke boete op te leggen, indien zij dit opportuun acht.
 
-#### Artikel 6. Hoogte bestuurlijke boete bij een boeteregime op basis van een basisbedrag (stappenplan)
+##### Artikel 6. Hoogte bestuurlijke boete bij een boeteregime op basis van een basisbedrag (stappenplan)
 
 DNB hanteert het onderstaande stappenplan voor het vaststellen van bestuurlijke boetes wegens overtredingen van kapitaal- of liquiditeitsvereisten, onverminderd hetgeen is uiteengezet in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052408&hoofdstuk=3&artikel=7&z=2026-03-10&g=2026-03-10) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0052408&hoofdstuk=3&artikel=8&z=2026-03-10&g=2026-03-10).
 
@@ -140,7 +166,7 @@ DNB hanteert het onderstaande stappenplan voor het vaststellen van bestuurlijke 
 
 - b. Uitgangspunt voor de omvang van de matiging is dat DNB de boete niet verder matigt dan tot een bedrag dat de overtreder redelijkerwijs geacht moet worden te kunnen voldoen, zo nodig met het aangaan van een betalingsregeling van maximaal twee jaar. Verder matigt DNB de boete in beginsel niet (verder) tot een lager bedrag dan het bedrag van het voordeel dat de overtreder met de overtreding heeft verkregen. Ook wordt de boete niet vastgesteld op een bedrag lager dan EUR 10.000,– voor rechtspersonen en EUR 5.000,– voor natuurlijke personen. Indien een boete ter hoogte van dit bedrag gelet op de bijzondere omstandigheden van het geval nog steeds onevenredig hoog is, kan DNB overgaan tot een verdergaande matiging van de boete.
 
-#### Artikel 7. Hoogte bestuurlijke boete bij een omzetgerelateerd boeteregime
+##### Artikel 7. Hoogte bestuurlijke boete bij een omzetgerelateerd boeteregime
 
 1. Wanneer bij of krachtens wettelijk voorschrift is bepaald dat de boete maximaal een bij wet vastgesteld percentage van de netto-jaaromzet van de overtreder in het boekjaar voorafgaand aan de boeteoplegging bedraagt, berekent DNB de hoogte van de boete in beginsel overeenkomstig het stappenplan als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0052408&hoofdstuk=3&artikel=6&z=2026-03-10&g=2026-03-10).
 
@@ -148,7 +174,7 @@ DNB hanteert het onderstaande stappenplan voor het vaststellen van bestuurlijke 
 
 3. Bij toepassing van het eerste en tweede lid neemt DNB het bij wet vastgestelde maximum voor de omzetgerelateerde boete in aanmerking.
 
-#### Artikel 8. Hoogte bestuurlijke boete bij een voordeelgerelateerd boeteregime
+##### Artikel 8. Hoogte bestuurlijke boete bij een voordeelgerelateerd boeteregime
 
 1. Wanneer bij of krachtens wettelijk voorschrift is bepaald dat een voordeelgerelateerde boete kan worden opgelegd, past DNB deze in de volgende situatie toe:
 
@@ -170,11 +196,11 @@ Uitgangspunt hierbij is dat het voordeelgerelateerde boeteregime wordt toegepast
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: **Handhavingsbeleid DNB inzake kapitaal- en liquiditeitsvereisten.**
 

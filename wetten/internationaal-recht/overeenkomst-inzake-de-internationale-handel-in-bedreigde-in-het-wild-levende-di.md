@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten"
 identifier: "BWBV0003833"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-05-21
-laatste_update: 2023-05-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003833"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-05-21"
+last_updated: "2023-05-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003833"
+soort: "verdrag"
+stam_id: "10003739543"
+version_id: "10003802632"
+internal_id: "C10006983021"
+label_id: "10003725074"
+dtd_version: "2.0"
+original_entry_into_force: "1984-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003833/2023-05-21/0"
+intitule_bron: "Trb.1975-23"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-02-24"
+intitule_in_force: "1984-05-23"
+intitule_status: "goed"
+original_publication: "Trb.1975-23"
+original_published_date: "1975-02-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-23"
+entry_into_force_date: "1984-07-18"
+jci_1_3: "jci1.3:c:BWBV0003833&z=2023-05-21&g=2023-05-21"
+jci_1_0: "1.0:c:BWBV0003833&g=2023-05-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "1984-07-18"
 ---
-
 # Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantensoorten
 
 De Overeenkomstsluitende Staten,
@@ -24,7 +46,7 @@ Overtuigd van de dringende noodzaak hiertoe passende maatregelen te nemen;
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Begripsomschrijvingen
+##### Artikel I. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband duidelijk anders blijkt:
 
@@ -50,7 +72,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 - h). „partij”: een Staat ten aanzien van wie dit Verdrag in werking is getreden.
 
-#### Artikel II. Grondbeginselen
+##### Artikel II. Grondbeginselen
 
 1. [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) omvat alle met uitsterven bedreigde soorten die door de handel worden of zouden kunnen worden getroffen. De handel in specimens van deze soorten moet aan bijzonder strenge voorschriften worden onderworpen ten einde hun voortbestaan niet verder in gevaar te brengen en zij moet slechts in buitengewone gevallen worden toegestaan.
 
@@ -64,7 +86,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 4. De Partijen staan de handel in specimens van de in [Bijlagen I, II en III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten slechts toe indien deze in overeenstemming is met de bepalingen van deze Overeenkomst.
 
-#### Artikel III. Reglementering van de handel in specimens van in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
+##### Artikel III. Reglementering van de handel in specimens van in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
 
 1. Alle handel in specimens van in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten moet in overeenstemming zijn met de bepalingen van dit artikel.
 
@@ -102,7 +124,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 - c). ten genoege van een administratieve instantie van de Staat waar het specimen is aangevoerd, is aangetoond dat het specimen niet zal worden gebruikt voor overwegend commerciële doeleinden.
 
-#### Artikel IV. Reglementering van de handel in specimens van in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
+##### Artikel IV. Reglementering van de handel in specimens van in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
 
 1. Alle handel in specimens van in [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten moet in overeenstemming zijn met de bepalingen van dit artikel.
 
@@ -132,7 +154,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 7. De in het zesde lid van dit artikel bedoelde certificaten kunnen worden uitgereikt op advies van een wetenschappelijke autoriteit, nadat deze overleg heeft gepleegd met andere nationale of eventueel internationale wetenschappelijke autoriteiten over de totale aantallen specimens die mogen worden aangevoerd gedurende perioden van niet langer dan een jaar.
 
-#### Artikel V. Reglementering van de handel in specimens van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
+##### Artikel V. Reglementering van de handel in specimens van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten
 
 1. Alle handel in specimens van in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soorten moet in overeenstemming zijn met de bepalingen van dit artikel.
 
@@ -146,7 +168,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 4. In geval van wederuitvoer dient een door de administratieve instantie van de Staat van wederuitvoer uitgereikt certificaat waarin wordt verklaard dat het specimen in die Staat is verwerkt of opnieuw wordt uitgevoerd, door de Staat van invoer als bewijs te worden aanvaard dat de bepalingen van deze Overeenkomst ten aanzien van de betreffende specimens zijn nagekomen.
 
-#### Artikel VI. Vergunningen en certificaten
+##### Artikel VI. Vergunningen en certificaten
 
 1. De krachtens de bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2023-05-21&g=2023-05-21), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2023-05-21&g=2023-05-21) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2023-05-21&g=2023-05-21) uitgereikte vergunningen en certificaten moeten in overeenstemming zijn met de bepalingen van dit artikel.
 
@@ -162,7 +184,7 @@ Voor de toepassing van deze Overeenkomst betekent, tenzij uit het zinsverband du
 
 7. Indien zinvol en uitvoerbaar kan een administratieve instantie een specimen ter identificatie van een kenteken voorzien. Voor dit doel betekent „kenteken” elk onuitwisbaar merkteken, loden zegel of ander geschikt middel waarmee een specimen geïdentificeerd kan worden en dat zo is ontworpen dat namaak ervan zoveel mogelijk is bemoeilijkt.
 
-#### Artikel VII. Uitzonderingen en andere bijzondere voorzieningen betreffende de handel
+##### Artikel VII. Uitzonderingen en andere bijzondere voorzieningen betreffende de handel
 
 1. De bepalingen van de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=III&z=2023-05-21&g=2023-05-21), [IV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=IV&z=2023-05-21&g=2023-05-21) en [V](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=V&z=2023-05-21&g=2023-05-21) zijn niet van toepassing op de doorvoer of overlading van specimens op het gebied van een Partij wanneer deze specimens onder douanecontrole blijven.
 
@@ -196,7 +218,7 @@ tenzij ten genoege van een administratieve instantie is aangetoond, dat deze spe
 
 - c). ten genoege van de administratieve instantie is aangetoond dat elk levend specimen op zodanige wijze wordt vervoerd en behandeld dat risico's van verwondingen, schade aan de gezondheid of ruwe behandeling tot een minimum worden beperkt.
 
-#### Artikel VIII. Door de Partijen te nemen maatregelen
+##### Artikel VIII. Door de Partijen te nemen maatregelen
 
 1. De Partijen nemen gepaste maatregelen om de bepalingen van deze Overeenkomst uit te voeren en de handel in specimens waarbij deze worden overtreden, te verbieden.
 
@@ -234,7 +256,7 @@ Deze maatregelen omvatten:
 
 8. De in het zevende lid van dit artikel bedoelde inlichtingen staan ter beschikking van het publiek voor zover dit niet in strijd is met de wettelijke en reglementaire bepalingen van de betrokken Partij.
 
-#### Artikel IX. Administratieve instanties en wetenschappelijke autoriteiten
+##### Artikel IX. Administratieve instanties en wetenschappelijke autoriteiten
 
 1. Voor de toepassing van deze Overeenkomst benoemt elke Partij:
 
@@ -248,11 +270,11 @@ Deze maatregelen omvatten:
 
 4. De in het tweede lid van dit artikel bedoelde administratieve instantie moet, indien daarom wordt verzocht door het Secretariaat of de administratieve instantie van een andere Partij, hun de afdruk doen toekomen van de stempels, zegels of andere middelen die worden gebruikt om vergunningen of certificaten te legaliseren.
 
-#### Artikel X. Handel met Staten die geen Partij bij deze Overeenkomst zijn
+##### Artikel X. Handel met Staten die geen Partij bij deze Overeenkomst zijn
 
 In geval van uitvoer of wederuitvoer naar of van invoer uit een Staat die geen partij is bij deze Overeenkomst, kunnen de Partijen, in plaats van de door dit Verdrag vereiste vergunningen en certificaten, gelijksoortige, door de bevoegde autoriteiten van genoemde Staat uitgereikte documenten aanvaarden; deze documenten moeten in essentie overeenstemmen met de in dit Verdrag voor vergunningen en certificaten vereiste voorwaarden.
 
-#### Artikel XI. Conferentie der Partijen
+##### Artikel XI. Conferentie der Partijen
 
 1. Het Secretariaat roept niet later dan twee jaar na de inwerkingtreding van dit Verdrag een vergadering van de Conferentie der Partijen bijeen.
 
@@ -284,7 +306,7 @@ In geval van uitvoer of wederuitvoer naar of van invoer uit een Staat die geen p
 
 Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelname maar geen stemrecht.
 
-#### Artikel XII. Het Secretariaat
+##### Artikel XII. Het Secretariaat
 
 1. Bij de inwerkingtreding van dit Verdrag voorziet de algemeen directeur van het Milieuprogramma van de Verenigde Naties in een Secretariaat. Voor zover hij dit nodig acht, kan hij terzijde worden gestaan door internationale of nationale, hiertoe geschikte wel of niet van overheidswege ingestelde bevoegde en op het gebied van bescherming, behoud en beheer van wilde dier- en plantesoorten technisch gekwalificeerde instanties.
 
@@ -308,7 +330,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 - i). het vervullen van alle andere taken die de Partijen aan het Secretariaat kunnen toevertrouwen.
 
-#### Artikel XIII. Internationale maatregelen
+##### Artikel XIII. Internationale maatregelen
 
 1. Wanneer het Secretariaat, op grond van ontvangen inlichtingen, van mening is dat een in [Bijlage I of II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen soort door de handel in specimens van deze soort nadeel ondervindt of dat de bepalingen van deze Overeenkomst niet doeltreffend worden toegepast, stelt het de bevoegde administratieve instantie van de betrokken Partij of Partijen hiervan in kennis.
 
@@ -316,7 +338,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 3. De inlichtingen die door de Partij worden verschaft of voortvloeien uit een onderzoek zoals bedoeld in het tweede lid van dit artikel, worden behandeld tijdens de eerstvolgende Conferentie der Partijen, welke elke aanbeveling kan doen die haar goeddunkt.
 
-#### Artikel XIV. Gevolgen voor binnenlandse wetgeving en internationale overeenkomsten
+##### Artikel XIV. Gevolgen voor binnenlandse wetgeving en internationale overeenkomsten
 
 1. De bepalingen van deze Overeenkomst zijn op geen enkele wijze van invloed op het recht der Partijen de volgende maatregelen te nemen:
 
@@ -334,7 +356,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 6. De bepalingen van deze Overeenkomst laten onverlet de codificatie en de ontwikkeling van het zeerecht door de Conferentie der Verenigde Naties over het Zeerecht, bijeengeroepen op grond van Resolutie No. 2750 C (XXV) van de Algemene Vergadering van de Verenigde Naties, benevens de huidige of toekomstige eisen en juridische standpunten van elke Staat inzake het zeerecht en de aard en omvang van zijn rechtsmacht ten aanzien van het zeegebied langs zijn kust en de onder zijn vlag varende schepen.
 
-#### Artikel XV. Wijzigingen in [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21)
+##### Artikel XV. Wijzigingen in [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21)
 
 1. De volgende bepalingen zijn van toepassing met betrekking tot de wijziging van [Bijlagen I en II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) die worden voorgesteld tijdens de vergaderingen van de Conferentie der Partijen:
 
@@ -372,7 +394,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 3. Tijdens de periode van 90 dagen zoals bedoeld in letter c) van het eerste lid of in letter 1) van het tweede lid van dit artikel, kan elke Partij, door middel van een schriftelijke kennisgeving aan de depot-Regering, een voorbehoud maken ten aanzien van de wijziging. Zolang dit voorbehoud niet is ingetrokken, wordt deze Partij beschouwd als een Staat die geen Partij is bij deze Overeenkomst wat betreft de handel in bedoelde soorten.
 
-#### Artikel XVI. [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) en wijzigingen van deze Bijlage
+##### Artikel XVI. [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) en wijzigingen van deze Bijlage
 
 1. Elke Partij kan te allen tijde aan het Secretariaat een lijst voorleggen van soorten, waarvan hij verklaart dat hij hen, binnen de grenzen van zijn bevoegdheid, tot het onderwerp heeft gemaakt van een regeling ter verwezenlijking van de in het [derde lid van artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=II&z=2023-05-21&g=2023-05-21) voorziene doeleinden. [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) bevat de namen van de Partijen die de soort daarop hebben doen opnemen, de wetenschappelijke namen van die soorten en de delen der betreffende dieren en planten en de hieruit verkregen produkten welke uitdrukkelijk worden vermeld met betrekking tot de soort overeenkomstig het bepaalde in [letter b) van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=I&z=2023-05-21&g=2023-05-21).
 
@@ -382,7 +404,7 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 4. Elke Partij die op grond van het bepaalde in het eerste lid van dit artikel een lijst voorlegt, doet aan het Secretariaat een afschrift toekomen van alle binnenlandse wetten en bepalingen die van toepassing zijn op de bescherming van deze soorten, vergezeld van alle toelichtingen die de Partij nodig acht of welke het Secretariaat haar kan vragen. Zolang deze soorten in [Bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&bijlage=I,_II_en_III&z=2023-05-21&g=2023-05-21) opgenomen blijven, doet de Partij mededeling van elke wijziging in deze wetten en bepalingen of elke nieuwe toelichting, zodra deze zijn aangenomen.
 
-#### Artikel XVII. Wijziging van de Overeenkomst
+##### Artikel XVII. Wijziging van de Overeenkomst
 
 1. Indien ten minste een derde der Partijen hiertoe een schriftelijk verzoek indient wordt door het Secretariaat een buitengewone vergadering van de Conferentie der Partijen uitgeschreven, ten einde wijzigingen in deze Overeenkomst te behandelen en aan te nemen. Deze wijzigingen worden aangenomen met een meerderheid van twee derde der aanwezige en hun stem uitbrengende Partijen. In dit verband betekent „aanwezige en hun stem uitbrengende Partijen” de Partijen die aanwezig zijn en die een stem voor of tegen uitbrengen. Bij het berekenen van de voor het aannemen van een wijziging vereiste twee derde meerderheid, worden onthoudingen niet meegeteld.
 
@@ -390,21 +412,21 @@ Wanneer deze waarnemers eenmaal zijn toegelaten, hebben zij wel recht op deelnam
 
 3. Een wijziging wordt van kracht voor de Partijen die deze hebben goedgekeurd op de zestigste dag nadat twee derde der Partijen een akte van goedkeuring van de wijziging bij de depot-Regering hebben nedergelegd. Vervolgens wordt de wijziging voor elke andere Partij van kracht 60 dagen na de nederlegging door genoemde Partij van haar akte van goedkeuring van de wijziging.
 
-#### Artikel XVIII. Regeling van geschillen
+##### Artikel XVIII. Regeling van geschillen
 
 1. Over elk tussen twee of meer Partijen bij deze Overeenkomst gerezen geschil ten aanzien van de interpretatie of de toepassing van de bepalingen van deze Overeenkomst, wordt tussen bij het geschil betrokken Partijen onderhandeld.
 
 2. Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel kan worden geregeld, kunnen de Partijen met wederzijds goedvinden het geschil aan arbitrage onderwerpen, met name aan die van het Permanente Hof van Arbitrage te 's-Gravenhage; de Partijen die het geschil aan arbitrage hebben onderworpen, zijn door de arbitrale uitspraak gebonden.
 
-#### Artikel XIX. Ondertekening
+##### Artikel XIX. Ondertekening
 
 Deze Overeenkomst staat open voor ondertekening te Washington tot 30 april 1973 en na deze datum te Bern tot 31 december 1974.
 
-#### Artikel XX. Bekrachtiging, aanvaarding, goedkeuring
+##### Artikel XX. Bekrachtiging, aanvaarding, goedkeuring
 
 Deze Overeenkomst moet worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Zwitserse Bondsstaat die optreedt als depot-Regering.
 
-#### Artikel XXI. Toetreding
+##### Artikel XXI. Toetreding
 
 Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van toetreding worden nedergelegd bij de depot-Regering.
 
@@ -418,13 +440,13 @@ Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van 
 
 - 5. Alle verwijzingen naar „Partij” in de zin gebruikt in [artikel I, letter (h)](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=I&z=2023-05-21&g=2023-05-21) van deze Overeenkomst, naar „Staat”/,,Staten” of naar bij de Overeenkomst „Partij zijnde Staat”/„Staten” worden zo uitgelegd, dat daarmede tevens wordt verwezen naar organisaties voor regionale economische integratie die bevoegd zijn met betrekking tot het onderhandelen over en het sluiten en het toepassen van internationale overeenkomsten betreffende onder deze Overeenkomst vallende aangelegenheden.
 
-#### Artikel XXII. Inwerkingtreding
+##### Artikel XXII. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking 90 dagen na de nederlegging van de tiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de depot-Regering.
 
 2. Voor elke Staat die deze Overeenkomst bekrachtigt, aanvaardt, goedkeurt of daartoe toetreedt na de nederlegging van de tiende akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt deze Overeenkomst in werking 90 dagen na de nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel XXIII. Voorbehouden
+##### Artikel XXIII. Voorbehouden
 
 1. Ten aanzien van deze Overeenkomst kunnen geen algemene voorbehouden worden gemaakt. Overeenkomstig het bepaalde in dit artikel en in de [artikelen XV](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XV&z=2023-05-21&g=2023-05-21) en [XVI](https://wetten.overheid.nl/jci1.3:c:BWBV0003833&artikel=XVI&z=2023-05-21&g=2023-05-21) kunnen slechts bijzondere voorbehouden worden gemaakt.
 
@@ -436,11 +458,11 @@ Deze Overeenkomst staat voor onbepaalde tijd open voor toetreding. De akten van 
 
 3. Zolang een Partij haar op grond van de bepalingen van dit artikel gemaakt voorbehoud niet intrekt, wordt deze beschouwd als een Staat die geen Partij bij deze Overeenkomst is wat betreft de handel in soorten, delen van of produkten verkregen uit een dier of een plant, zoals nader aangeduid in genoemd voorbehoud.
 
-#### Artikel XXIV. Opzegging
+##### Artikel XXIV. Opzegging
 
 Elke Partij kan deze Overeenkomst opzeggen door middel van een aan de depot-Regering gerichte schriftelijke kennisgeving. De opzegging treedt in werking twaalf maanden nadat de depot-Regering deze kennisgeving heeft ontvangen.
 
-#### Artikel XXV. Depositaris
+##### Artikel XXV. Depositaris
 
 1. Het oorspronkelijke exemplaar van deze Overeenkomst, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de depot-Regering die daarvan voor eensluidend gewaarmerkte afschriften doet toekomen aan alle Staten die haar hebben ondertekend of die akten van toetreding tot deze Overeenkomst hebben nedergelegd.
 

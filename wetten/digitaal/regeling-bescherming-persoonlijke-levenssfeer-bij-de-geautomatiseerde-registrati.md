@@ -1,13 +1,37 @@
 ---
 title: "Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel"
 identifier: "BWBR0003952"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1986-05-01
-laatste_update: 1986-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003952"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1986-05-01"
+last_updated: "1986-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003952"
+soort: "ministeriele-regeling"
+stam_id: "3744943"
+version_id: "5528022"
+internal_id: "C5721111"
+label_id: "3724904"
+dtd_version: "2.0"
+original_entry_into_force: "1986-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003952/1986-05-01/0"
+intitule_bron: "Stcrt.1986-79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-04-21"
+intitule_published: "1986-04-24"
+intitule_in_force: "1986-04-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1986-79"
+original_signed_date: "1986-04-21"
+original_published_date: "1986-04-24"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-05-01"
+jci_1_3: "jci1.3:c:BWBR0003952&z=1986-05-01&g=1986-05-01"
+jci_1_0: "1.0:c:BWBR0003952&g=1986-05-01"
+citeertitel_status: "officieel"
+signed_date: "1986-04-21"
+entry_into_force: "1986-05-01"
 ---
-
 # Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel
 
 Gelet op de [aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen, waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0002958),
@@ -18,19 +42,19 @@ vast te stellen de volgende regeling met betrekking tot de geautomatiseerde regi
 
 #### Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
 #### Doelstelling registratie
 
-#### Artikel 2
+##### Artikel 2
 
 De doelstelling van de registratie is het systematisch vastleggen, opslaan, en ter beschikking stellen van gegevens ten behoeve van de uitvoering van en het toezicht op de naleving van de Wet effectenhandel.
 
 #### Geregistreerde personen en gegevens
 
-#### Artikel 3
+##### Artikel 3
 
 1. In de registratie worden gegevens opgenomen betreffende natuurlijke personen en rechtspersonen die, gelet op het bepaalde in de Wet effectenhandel, door de Minister van Financiën worden aangemerkt als aanbieder van effecten, effectenbemiddelaar dan wel beheerder van een fonds voor gemene rekening als bedoeld in voornoemde wet.
 
@@ -84,7 +108,7 @@ Ter zake van de in het eerste lid bedoelde rechtspersonen worden in de registrat
 
 #### Verwijdering van gegevens
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gegevens van de geregistreerde worden uit de registratie verwijderd:
 
@@ -98,7 +122,7 @@ Ter zake van de in het eerste lid bedoelde rechtspersonen worden in de registrat
 
 #### Functionering registratie
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het hoofd van de Afdeling Financiële Markten en Instellingen van de Directie Binnenlands Geldwezen van het Ministerie van Financiën wordt aangewezen als houder van de registratie.
 
@@ -108,7 +132,7 @@ Ter zake van de in het eerste lid bedoelde rechtspersonen worden in de registrat
 
 #### Verstrekking van gegevens
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gegevens uit de registratie kunnen uitsluitend worden verstrekt aan:
 
@@ -128,25 +152,25 @@ Ter zake van de in het eerste lid bedoelde rechtspersonen worden in de registrat
 
 #### Toegang tot de registratie
 
-#### Artikel 7
+##### Artikel 7
 
 De toegang tot de registratie is uitsluitend voorbehouden aan de houder van de registratie en de ambtenaren van de Afdeling Financiële Markten en Instellingen die belast zijn met de uitvoering van de werkzaamheden verbonden aan de registratie.
 
 #### Kennisneming van geregistreerde gegevens door de geregistreerde
 
-#### Artikel 8
+##### Artikel 8
 
 1. De houder van de registratie doet op verzoek van de geregistreerde of diens gemachtigde opgave van de op de geregistreerde betrekking hebbende gegevens die in de registratie zijn opgenomen.
 
 2. Een verzoek als bedoeld in het eerste lid moet schriftelijk bij de houder van de registratie worden ingediend onder vermelding van de persoonsgegevens van de verzoeker. Indien de verzoeker geen opgave van alle gegevens wenst, geeft hij in het verzoek aan van welke gegevens hij kennis wil nemen.
 
-#### Artikel 9
+##### Artikel 9
 
 De houder van de registratie verstrekt aan de geregistreerde op zijn verzoek een opgave waarin wordt aangegeven welke van de op hem betrekking hebbende gegevens in de registratie zijn verstrekt aan de in [artikel 6 a tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0003952&artikel=6&z=1986-05-01&g=1986-05-01) genoemde personen, gedurende een periode van zes maanden voorafgaand aan het verzoek.
 
 #### Verzoeken tot verbetering of aanvulling van gegevens
 
-#### Artikel 10
+##### Artikel 10
 
 1. De geregistreerde kan de houder van de registratie schriftelijk en gemotiveerd verzoeken verbetering of verwijdering te bewerkstelligen van zijn gegevens die naar het oordeel van de geregistreerde onjuist of ten onrechte in de registratie zijn opgenomen alsmede om aanvulling verzoeken van gegevens die naar de mening van de geregistreerde in de registratie ontbreken.
 
@@ -154,13 +178,13 @@ De houder van de registratie verstrekt aan de geregistreerde op zijn verzoek een
 
 3. Binnen een maand na verzending van de in het tweede lid bedoelde brief kan de verzoeker van deze beslissing een bezwaarschrift indienen bij de minister van Financiën.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003952&artikel=8&z=1986-05-01&g=1986-05-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0003952&artikel=9&z=1986-05-01&g=1986-05-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003952&artikel=10&z=1986-05-01&g=1986-05-01) is niet van toepassing, voor zover het belang van de opsporing en vervolging van strafbare feiten zich naar het oordeel van de houder van de registratie tegen het inwilligen van verzoeken als bedoeld in voornoemde artikelen verzet.
 
 #### Inzage in de regeling
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit ligt voor iedereen ter inzage bij:
 
@@ -170,7 +194,7 @@ Dit besluit ligt voor iedereen ter inzage bij:
 
 #### Slotbepaling
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit besluit kan worden aangehaald als: Regeling Bescherming persoonlijke levenssfeer bij de geautomatiseerde registratie van persoonsgegevens in het kader van de Wet effectenhandel.
 

@@ -1,13 +1,39 @@
 ---
-title: "Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief"
+title: "Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief"
 identifier: "BWBR0039545"
-categorie: "Overig"
-publicatiedatum: 2017-06-01
-laatste_update: 2017-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039545"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-06-01"
+last_updated: "2017-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039545"
+soort: "ministeriele-regeling"
+stam_id: "14000303"
+version_id: "24091362"
+internal_id: "C34618971"
+label_id: "13962624"
+dtd_version: "2.0"
+original_entry_into_force: "2017-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039545/2017-06-01/0"
+intitule_bron: "Stcrt.2017-25706"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-25"
+intitule_published: "2017-05-10"
+intitule_in_force: "2017-05-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-25706"
+original_signed_date: "2017-03-25"
+original_published_date: "2017-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-25706"
+entry_into_force_date: "2017-06-01"
+jci_1_3: "jci1.3:c:BWBR0039545&z=2017-06-01&g=2017-06-01"
+jci_1_0: "1.0:c:BWBR0039545&g=2017-06-01"
+citeertitel_status: "officieel"
+short_title: "Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief"
+signed_date: "2017-03-25"
+entry_into_force: "2017-06-01"
 ---
-
 # Gemeenschappelijke Regeling Regionaal Historisch Centrum Het Flevolands Archief
 
 Gedeputeerde staten van de provincie Flevoland,
@@ -42,7 +68,7 @@ dat de Gemeenschappelijke Regeling Nieuw Land Erfgoedcentrum door deze wijziging
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -62,7 +88,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Het Flevolands Archief
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een openbaar lichaam genaamd Het Flevolands Archief, dat gevestigd is in Lelystad.
 
@@ -78,13 +104,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk III. Doel en taken
 
-#### Artikel 3
+##### Artikel 3
 
 1. De regeling wordt getroffen met het doel de belangen die de deelnemers hebben bij goed beheer van de archiefbescheiden en collecties, die berusten in de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie, de archiefbewaarplaatsen van de gemeenten en de archiefbewaarplaats van het waterschap, en alle daarbij behorende aangelegenheden in gezamenlijkheid te behartigen.
 
 2. Het Flevolands Archief voert bij de behartiging van de belangen, bedoeld in het eerste lid, het archiefbeleid van de deelnemers mede uit.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden van de deelnemers overgedragen:
 
@@ -100,7 +126,7 @@ Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden
 
 - f. het verrichten van door een of meer deelnemers opgedragen andere taken die verband houden met de behartiging van de belangen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=III&artikel=3&z=2017-06-01&g=2017-06-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De deelnemers doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=III&artikel=3&z=2017-06-01&g=2017-06-01), voor Het Flevolands Archief van belang zijn.
 
@@ -108,7 +134,7 @@ Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden
 
 ### Hoofdstuk IV. Het algemeen bestuur
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het algemeen bestuur bestaat uit zeven leden, de voorzitter, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=VIII&artikel=16&z=2017-06-01&g=2017-06-01), inbegrepen.
 
@@ -138,7 +164,7 @@ Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden
 
 14. Een lid van het algemeen bestuur kan door de deelnemer die hem heeft aangewezen worden ontslagen, indien dit lid het vertrouwen van de deelnemer niet meer bezit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ieder lid van het algemeen bestuur heeft één stem.
 
@@ -160,7 +186,7 @@ Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden
 
 ### Hoofdstuk V. De taken en bevoegdheden van het algemeen bestuur
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan Het Flevolands Archief toegekende taken alle bevoegdheden toe die niet bij wet of deze regeling aan een ander orgaan binnen de gemeenschappelijke regeling zijn opgedragen.
 
@@ -188,11 +214,11 @@ Aan Het Flevolands Archief zijn de volgende werkzaamheden, taken en bevoegdheden
 
 6. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat de Minister, provinciale staten van de provincie, de raden van de gemeenten en het dagelijks bestuur van het waterschap in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
-#### Artikel 9
+##### Artikel 9
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 van de Archiefwet 1995 heeft vastgesteld voor het Nationaal Archief.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het algemeen bestuur verstrekt gevraagd en ongevraagd alle inlichtingen aan de Minister, provinciale en gedeputeerde staten van de provincie, de raden en colleges van de gemeenten en het algemeen en dagelijks bestuur van het waterschap, die voor een juiste beoordeling van het door hen gevoerde en te voeren beleid nodig is.
 
@@ -200,7 +226,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 3. De gevraagde inlichtingen worden zo spoedig mogelijk doch in ieder geval binnen 45 dagen verstrekt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een lid of plaatsvervangend lid van het algemeen bestuur dat is aangewezen door de Minister verstrekt aan de Minister met inachtneming van [artikel 16, vijfde lid van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=16) de door de Minister gevraagde inlichtingen.
 
@@ -220,7 +246,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 ### Hoofdstuk VI. Het dagelijks bestuur
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het dagelijks bestuur bestaat uit de voorzitter, bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=VIII&artikel=16&z=2017-06-01&g=2017-06-01), en twee door en uit het algemeen bestuur aan te wijzen leden.
 
@@ -234,13 +260,13 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 6. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
 2. Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het dagelijks bestuur en één of meer leden daarvan geven gevraagd en ongevraagd alle inlichtingen aan het algemeen bestuur, die voor een juiste beoordeling van het door het dagelijks bestuur gevoerde en te voeren beleid nodig is.
 
@@ -258,7 +284,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 ### Hoofdstuk VII. De taken en bevoegdheden van het dagelijks bestuur
 
-#### Artikel 15
+##### Artikel 15
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -282,13 +308,13 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk VIII. De voorzitter
 
-#### Artikel 16
+##### Artikel 16
 
 1. De voorzitter van het algemeen bestuur en zijn plaatsvervanger worden door en uit het algemeen bestuur aangewezen. Tot plaatsvervangend voorzitter kan alleen een ander lid van het dagelijks bestuur worden aangewezen.
 
 2. De voorzitter van het algemeen bestuur is tevens voorzitter van het dagelijks bestuur. De plaatsvervangend voorzitter van het algemeen bestuur is tevens plaatsvervangend voorzitter van het dagelijks bestuur.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De voorzitter belegt de vergaderingen van het algemeen bestuur en het dagelijks bestuur.
 
@@ -302,7 +328,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk IX. Tegemoetkoming en vergoeding
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen bestuur of dagelijks bestuur, voor zover zij niet de functie vervullen van lid van gedeputeerde staten van de provincie, lid van het college van burgemeester en wethouders van een van de gemeenten, lid van het dagelijks bestuur van het waterschap of als ambtenaar in dienst van een deelnemer werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Het Flevolands Archief.
 
@@ -312,7 +338,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk X. Financiële bepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Minister, de provincie, de gemeenten en het waterschap dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van het zesde lid.
 
@@ -328,7 +354,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 7. Indien aan het algemeen bestuur van Het Flevolands Archief blijkt dat een deelnemer weigert de in het eerste lid bedoelde middelen op de begroting te zetten, doet het algemeen bestuur onverwijld een verzoek aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties tot toepassing van de [artikelen 198](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=198) en [199 van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=199) dan wel een verzoek aan gedeputeerde staten tot toepassing van de [artikelen 194](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=194) en [195 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=195) of [artikel 104 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=104).
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan op.
 
@@ -336,7 +362,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. De deelnemers maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met Het Flevolands Archief over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het dagelijks bestuur zendt vóór 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan de Minister, provinciale staten van de provincie, de raden van de gemeenten en het algemeen bestuur van het waterschap.
 
@@ -350,7 +376,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. De Minister, provinciale staten van de provincie, de raden van de gemeenten, het algemeen bestuur van het waterschap kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. Het besluit tot vaststelling wordt genomen bij twee derde meerderheid van de uitgebrachte stemmen.
 
@@ -358,7 +384,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
@@ -366,11 +392,11 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 24
+##### Artikel 24
 
 De Minister, de provincie, de gemeenten en het waterschap voldoen de verschuldigde bijdrage bij wijze van voorschot in door hen nader te bepalen termijnen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het dagelijks bestuur zendt de voorlopige jaarrekening vóór 15 april van het jaar volgende op het jaar waarop de jaarrekening betrekking heeft, aan de Minister, provinciale staten van de provincie, de raden van de gemeenten en het algemeen bestuur van het waterschap. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -382,29 +408,29 @@ De Minister, de provincie, de gemeenten en het waterschap voldoen de verschuldig
 
 5. Het dagelijks bestuur stelt de in het eerste, derde en vierde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister, provinciale staten van de provincie, de raden van de gemeenten en het algemeen bestuur van het waterschap. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdragen uitgekeerd aan de deelnemers.
 
 2. De algemene reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de deelnemers van dat jaar.
 
-#### Artikel 27
+##### Artikel 27
 
 Bij de jaarrekening stelt het algemeen bestuur de definitieve bijdragen van de deelnemers vast.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van Het Flevolands Archief. Bij deze regels wordt bepaald welke ambtenaren van Het Flevolands Archief met het doen van ontvangsten en betalingen worden belast.
 
 2. Het algemeen bestuur stelt regels vast met betrekking tot de controle op de financiële administratie en het kasbeheer.
 
-#### Artikel 29
+##### Artikel 29
 
 Het algemeen bestuur kan nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting en het jaarverslag en aandachtspunten voor de accountantscontrole geven.
 
 ### Hoofdstuk XI. Het Archief
 
-#### Artikel 30
+##### Artikel 30
 
 1. Overeenkomstig door het algemeen bestuur met inachtneming van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) vast te stellen regels, die aan gedeputeerde staten van de provincie Flevoland worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van Het Flevolands Archief.
 
@@ -418,17 +444,17 @@ Het algemeen bestuur kan nadere regels stellen over het financieel en materieel 
 
 ### Hoofdstuk XII. De directeur en het overige personeel
 
-#### Artikel 31
+##### Artikel 31
 
 Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van Het Flevolands Archief.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het dagelijks bestuur stelt voor de directeur een instructie vast.
 
 2. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van Het Flevolands Archief die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=III&artikel=3&z=2017-06-01&g=2017-06-01), voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, het dagelijks bestuur of de voorzitter.
 
@@ -436,7 +462,7 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 3. Met inachtneming van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039545&hoofdstuk=VIII&artikel=17&z=2017-06-01&g=2017-06-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het dagelijks bestuur stelt de rechtspositie- en arbeidsvoorwaardenregeling vast.
 
@@ -446,13 +472,13 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 ### Hoofdstuk XIII. Toetreding, uittreding, wijziging en opheffing
 
-#### Artikel 35
+##### Artikel 35
 
 1. Toetreding tot de regeling kan geschieden bij een daartoe strekkend besluit van de deelnemers, na verkregen toestemming van provinciale staten van de provincie, de raden van de gemeenten en het algemeen bestuur van het waterschap, alsmede de toe te treden bestuursorganen of rechtspersonen.
 
 2. Het algemeen bestuur regelt de gevolgen van de toetreding.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Uittreding uit de regeling kan geschieden door toezending van een daartoe strekkend besluit van de uittredende deelnemer.
 
@@ -462,13 +488,13 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 4. Het algemeen bestuur stelt nadere regels ten aanzien van de bestuurlijke en financiële gevolgen van uittreding.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De regeling kan worden gewijzigd bij unaniem besluit van de deelnemers.
 
 2. Het algemeen bestuur, op voorstel van het dagelijks bestuur, en de deelnemers kunnen voorstellen doen tot wijziging van de regeling.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Deze regeling kan worden opgeheven bij unaniem besluit van de deelnemers.
 
@@ -484,17 +510,17 @@ Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de dir
 
 ### Hoofdstuk XIV. Slotbepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand, volgend op de bekendmaking in de Staatscourant door de Minister.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De [Gemeenschappelijke regeling Nieuw Land Erfgoedcentrum](https://wetten.overheid.nl/jci1.3:c:BWBR0039544) gepubliceerd als bijlage bij het [Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 10 februari 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039353) met kenmerk 1096101, wordt ingetrokken met ingang van de dag waarop deze regeling in werking treedt.
 
 2. De rechten en verplichtingen van het openbaar lichaam Nieuw Land Erfgoedcentrum zoals die bestonden op het moment vóór de inwerkingtreding van deze regeling gaan over op het openbaar lichaam Het Flevolands Archief.
 
-#### Artikel 41
+##### Artikel 41
 
 Deze regeling kan worden aangehaald als: Gemeenschappelijke regeling Regionaal Historisch Centrum Het Flevolands Archief.
 

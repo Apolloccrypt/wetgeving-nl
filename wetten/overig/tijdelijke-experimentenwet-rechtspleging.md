@@ -1,14 +1,41 @@
 ---
-title: "Tijdelijke Experimentenwet rechtspleging"
+title: "Wet van 24 juni 2020, houdende regels inzake invoering van een tijdelijke mogelijkheid voor experimenten in de rechtspleging (Tijdelijke Experimentenwet rechtspleging)"
 identifier: "BWBR0043790"
-categorie: "Overig"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043790"
+country: "nl"
+rank: "wet"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043790"
+soort: "wet"
+stam_id: "15541833"
+version_id: "26850092"
+internal_id: "C41703271"
+label_id: "15483794"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043790/2023-04-01/0"
+intitule_bron: "Stb.2020-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-24"
+intitule_published: "2020-07-02"
+intitule_in_force: "2023-03-09"
+intitule_status: "goed"
+original_publication: "Stb.2020-223"
+original_signed_date: "2020-06-24"
+original_published_date: "2020-07-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "35263"
+original_url_id: "stb-2020-223"
+entry_into_force_date: "2023-04-01"
+jci_1_3: "jci1.3:c:BWBR0043790&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0043790&g=2023-04-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke Experimentenwet rechtspleging"
+signed_date: "2020-06-24"
+entry_into_force: "2023-04-01"
 ---
-
-# Tijdelijke Experimentenwet rechtspleging
+# Wet van 24 juni 2020, houdende regels inzake invoering van een tijdelijke mogelijkheid voor experimenten in de rechtspleging (Tijdelijke Experimentenwet rechtspleging)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een tijdelijke regel
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij algemene maatregel van bestuur kan, met het oog op het bevorderen van eenvoudige, snelle, effectieve en de-escalerende geschilbeslechting, bij wijze van experiment gedurende een periode van ten hoogste drie jaar worden afgeweken van het bepaalde bij of krachtens:
 
@@ -62,7 +89,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 8. De voordracht voor de algemene maatregel van bestuur als bedoeld in het eerste lid, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De algemene maatregel van bestuur, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1&z=2023-04-01&g=2023-04-01), regelt:
 
@@ -80,7 +107,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gegeven voor de opzet, inhoud en evaluatie van een experiment.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister voor Rechtsbescherming zendt ten minste drie maanden voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1&z=2023-04-01&g=2023-04-01), aan de Staten-Generaal een verslag over de evaluatie van het experiment en in het bijzonder de doeltreffendheid en de effecten daarvan in de praktijk, alsmede een standpunt over het voornemen tot wetswijziging naar aanleiding van het experiment.
 
@@ -90,7 +117,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 4. Indien het voorstel van wet, bedoeld in het derde lid wordt ingetrokken of indien een van de beide Kamers der Staten-Generaal het voorstel verwerpt, dan zal de algemene maatregel van bestuur onverwijld worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken met ingang van het tijdstip van inwerkingtreding van die wet.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien voor het einde van de werkingsduur van een algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1&z=2023-04-01&g=2023-04-01), blijkt dat het experiment tot zodanige onbedoelde gevolgen leidt dat voortzetting van het experiment het belang van een goede rechtspleging in het algemeen ernstig schaadt, dan zal de algemene maatregel van bestuur met onmiddellijke ingang geheel of gedeeltelijk worden ingetrokken.
 
@@ -100,7 +127,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 4. De Minister voor Rechtsbescherming informeert de Staten-Generaal over de intrekking van een algemene maatregel van bestuur.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het oog op het bevorderen van eenvoudige, snelle, effectieve en de-escalerende geschilbeslechting, kan het bestuur van een rechtbank bij wijze van een bij algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1&z=2023-04-01&g=2023-04-01), aangewezen experiment, gedurende een periode van ten hoogste drie jaar een enkelvoudige en een meervoudige kamer vormen, die wordt bezet door één, onderscheidenlijk drie rechterlijk ambtenaren met rechtspraak belast en een persoon, niet zijnde rechterlijk ambtenaar, als toegevoegd deskundig lid. Op dezelfde wijze kan het bestuur van een gerechtshof een deskundig lid toevoegen aan een meervoudige kamer. Indien de stemmen staken, geeft de stem van de rechterlijk ambtenaar onderscheidenlijk de rechterlijk ambtenaren de doorslag. Artikel 1, vijfde tot en met achtste lid, en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=2&z=2023-04-01&g=2023-04-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=3&z=2023-04-01&g=2023-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=4&z=2023-04-01&g=2023-04-01) zijn van overeenkomstige toepassing. Bij de algemene maatregel van bestuur kunnen tevens regels worden gesteld over de benoeming en vergoeding van de kosten van deze toegevoegd deskundige leden.
 
@@ -120,7 +147,7 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 - iii. de president van het gerecht ten aanzien van dit lid de bevoegdheid, bedoeld in [artikel 44, zesde lid, van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44) uitoefent.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er is een Toetsingscommissie experimenten rechtspleging, die tot taak heeft te toetsen of voorstellen voor een algemene maatregel van bestuur als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=1&z=2023-04-01&g=2023-04-01), en [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=5&z=2023-04-01&g=2023-04-01), voldoen aan de eisen zoals opgenomen in deze wet en in de algemene maatregel als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043790&artikel=2&z=2023-04-01&g=2023-04-01), en zo nodig of het voorstel aanpassing behoeft.
 
@@ -128,15 +155,15 @@ voor zover daarvan niet bij wet wordt afgeweken.
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de samenstelling en het functioneren van de Toetsingscommissie en de wijze waarop zij toetst.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister voor Rechtsbescherming zendt binnen tien jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, en vervalt vijftien jaar na het tijdstip van inwerkingtreding.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet wordt aangehaald als: Tijdelijke Experimentenwet rechtspleging.
 

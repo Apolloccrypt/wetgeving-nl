@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij het Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel"
 identifier: "BWBV0005298"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-05-04
-laatste_update: 1998-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005298"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-05-04"
+last_updated: "1998-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005298"
+soort: "verdrag"
+stam_id: "10004552753"
+version_id: "10004778882"
+internal_id: "C10007239691"
+label_id: "10004537264"
+dtd_version: "2.0"
+original_entry_into_force: "1956-03-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005298/1998-05-04/0"
+intitule_bron: "Trb.1956-10"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1956-01-19"
+intitule_in_force: "1959-06-16"
+intitule_status: "goed"
+original_publication: "Trb.1956-10"
+original_published_date: "1956-01-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1956-10"
+entry_into_force_date: "1956-03-30"
+jci_1_3: "jci1.3:c:BWBV0005298&z=1998-05-04&g=1998-05-04"
+jci_1_0: "1.0:c:BWBV0005298&g=1998-05-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-03-30"
 ---
-
 # Aanvullend Protocol bij het Verdrag nopens de oprichting van de “Eurofima”, Europese Maatschappij tot financiering van spoorwegmaterieel
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, Spanje, de Franse Republiek, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, Zweden en de Federale Volksrepubliek Zuidslavië,
@@ -28,7 +50,7 @@ vaststellende, dat de Regering van Zwitserland bereid is met het oog op de opric
 
 zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Maatschappij zal in Zwitserland, zolang zij aldaar zal zijn gevestigd, de volgende belastingvrijstellingen genieten, onverminderd de bepalingen van [artikel 7, leden a) en b), van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005045&artikel=7):
 
@@ -46,7 +68,7 @@ De Maatschappij zal in Zwitserland, zolang zij aldaar zal zijn gevestigd, de vol
 
 - 7°. De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Protocol zal in werking treden zodra de Regering van Zwitserland het zal hebben bekrachtigd, die van deze bekrachtiging zal kennisgeven aan de andere Regeringen, die dit Protocol hebben ondertekend.
 

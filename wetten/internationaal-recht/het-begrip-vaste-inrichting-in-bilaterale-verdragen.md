@@ -1,13 +1,38 @@
 ---
-title: "Het begrip ‘vaste inrichting’ in bilaterale verdragen"
+title: "Het begrip ,,vaste inrichting’’ in de verdragen tot het vermijden van dubbele belasting Resolutie staatssecretaris van Financiën 22 januari 1979, nr. 079-24, gewijzigd bij Resolutie staatssecretaris van Financiën 26 maart 1989, nr. 088-3766"
 identifier: "BWBR0027789"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-01-22
-laatste_update: 1979-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027789"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1979-01-22"
+last_updated: "1979-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027789"
+soort: "beleidsregel"
+stam_id: "10578013"
+version_id: "17458552"
+internal_id: "C24150191"
+label_id: "10552964"
+dtd_version: "2.0"
+original_entry_into_force: "1979-01-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027789/1979-01-22/0"
+intitule_bron: "Infob.1979-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-01-22"
+intitule_published: "1979-01-01"
+intitule_in_force: "1979-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1979-0"
+original_signed_date: "1979-01-22"
+original_published_date: "1979-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1979-01-22"
+jci_1_3: "jci1.3:c:BWBR0027789&z=1979-01-22&g=1979-01-22"
+jci_1_0: "1.0:c:BWBR0027789&g=1979-01-22"
+citeertitel_status: "redactioneel"
+short_title: "Het begrip ‘vaste inrichting’ in bilaterale verdragen"
+signed_date: "1979-01-22"
+entry_into_force: "1979-01-22"
 ---
-
 # Het begrip ,,vaste inrichting’’ in de verdragen tot het vermijden van dubbele belasting Resolutie staatssecretaris van Financiën 22 januari 1979, nr. 079-24, gewijzigd bij Resolutie staatssecretaris van Financiën 26 maart 1989, nr. 088-3766
 
 ### I. Inleiding

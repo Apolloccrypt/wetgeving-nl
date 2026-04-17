@@ -1,18 +1,42 @@
 ---
 title: "Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond"
 identifier: "BWBR0012486"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2000-12-15
-laatste_update: 2000-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012486"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-12-15"
+last_updated: "2000-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012486"
+soort: "ministeriele-regeling"
+stam_id: "4328803"
+version_id: "6093162"
+internal_id: "C6296671"
+label_id: "4307454"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012486/2000-12-15/0"
+intitule_bron: "Stcrt.2001-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-14"
+intitule_published: "2001-05-28"
+intitule_in_force: "2001-05-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-100"
+original_signed_date: "2001-05-14"
+original_published_date: "2001-05-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-15"
+jci_1_3: "jci1.3:c:BWBR0012486&z=2000-12-15&g=2000-12-15"
+jci_1_0: "1.0:c:BWBR0012486&g=2000-12-15"
+citeertitel_status: "officieel"
+signed_date: "2001-05-14"
+entry_into_force: "2000-12-15"
 ---
-
 # Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -38,13 +62,13 @@ In dit reglement wordt verstaan onder:
 
 - k. **de aanvrager:** het bestuur van de vennootschap die deelneemt aan het project.
 
-#### Artikel 2. Doel en werking
+##### Artikel 2. Doel en werking
 
 1. De registratie heeft als doel het bevorderen van de integriteit in het bedrijfsleven in de regio Rotterdam-Rijnmond.
 
 2. De registratie wordt deels geautomatiseerd, deels handmatig uitgevoerd.
 
-#### Artikel 3. Hoofdlijnen van het beheer
+##### Artikel 3. Hoofdlijnen van het beheer
 
 1. De registratiebeheerder is, onder verantwoordelijkheid van de houder, belast met de zeggenschap over de registratie. Hij volgt daarbij de aanwijzingen van de houder op.
 
@@ -56,7 +80,7 @@ In dit reglement wordt verstaan onder:
 
 5. Met het invoeren, wijzigen en verwijderen van de gegevens zijn belast: de projectleider en de geautoriseerde medewerkers van het project IBRR.
 
-#### Artikel 4. Rechtstreekse toegang
+##### Artikel 4. Rechtstreekse toegang
 
 Rechtstreekse toegang tot de registratie hebben:
 
@@ -68,7 +92,7 @@ Rechtstreekse toegang tot de registratie hebben:
 
 - d. personen belast met het technisch onderhoud van het geautomatiseerd systeem waarmee de registratie wordt uitgevoerd, uitsluitend met toestemming en onder toezicht van de projectleider IBRR.
 
-#### Artikel 5. Categorieën van geregistreerde personen
+##### Artikel 5. Categorieën van geregistreerde personen
 
 In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de volgende categorieën van personen:
 
@@ -82,7 +106,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 - e. prioriteitsaandeelhouders van de participerende vennootschap.
 
-#### Artikel 6. Soorten van gegevens en de wijze van verkrijging
+##### Artikel 6. Soorten van gegevens en de wijze van verkrijging
 
 1. Omtrent de in artikel 5 genoemde personen kunnen de volgende soorten van persoonsgegevens worden opgenomen:
 
@@ -122,7 +146,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 - h. VIS (verificatie identificatiesysteem).
 
-#### Artikel 7. Verwijdering en vernietiging
+##### Artikel 7. Verwijdering en vernietiging
 
 1. De in de registratie opgenomen persoonsgegevens genoemd in [artikel 6 eerste lid onder a tot en met g](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=6&z=2000-12-15&g=2000-12-15) worden in ieder geval verwijderd en vernietigd na afloop van het project.
 
@@ -130,11 +154,11 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 3. De registratiebeheerder kan incidenteel schriftelijk gemotiveerd afwijken van hetgeen in het eerste lid van dit artikel is gesteld wanneer het voor het doel van de registratie noodzakelijk is de gegevens voor een langere dan de genoemde termijn opgeslagen te houden.
 
-#### Artikel 8. Verbanden emt andere verzamelingen
+##### Artikel 8. Verbanden emt andere verzamelingen
 
 De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in [artikel 6 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=6&z=2000-12-15&g=2000-12-15) genoemde personen en instellingen. De genoemde verbanden bestaan eruit dat uit deze verzamelingen informatie afkomstig is die ten dienste van het doel van de registratie wordt gebruikt en opgeslagen en dat informatie uit de registratie aan deze verzamelingen wordt verstrekt ten dienste van het doel van de registratie.
 
-#### Artikel 9. Verstrekking
+##### Artikel 9. Verstrekking
 
 1. Verstrekking van gegevens vindt plaats aan personen werkzaam binnen de directie voor zover zij de gegevens behoeven voor de uitvoering van hun taak en in overeenstemming met het doel van de registratie.
 
@@ -148,7 +172,7 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 3. De verstrekking aan personen of instanties die geen rechtstreekse toegang hebben tot de registratie wordt verzorgd door de in [artikel 4 onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=4&z=2000-12-15&g=2000-12-15) genoemde functionarissen, na toestemming van de in [artikel 4 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0012486&artikel=4&z=2000-12-15&g=2000-12-15) genoemde functionaris.
 
-#### Artikel 10. Protocollering
+##### Artikel 10. Protocollering
 
 1. Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verkrijger en een omschrijving van de verstrekte gegevens.
 
@@ -156,7 +180,7 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 3. Het protocol wordt tenminste één jaar bewaard.
 
-#### Artikel 11. Rechten van de geregistreerde
+##### Artikel 11. Rechten van de geregistreerde
 
 1. De geregistreerde wordt binnen vier weken na eerste opname in de registratie schriftelijk van deze op-name in kennis gesteld, tenzij geregi-streerde weet of redelijkerwijs kan weten dat een dergelijke opname heeft plaatsgevonden, dan wel indien een gewichtig belang van de houder zich tegen het doen van een schriftelijke mededeling verzet, dan wel op grond van de in het vierde lid genoemde criteria.
 
@@ -182,10 +206,10 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 7. Indien de houder niet voldoet aan het verzoek van betrokkene zoals bedoeld in het eerste lid van dit artikel, of daar niet schriftelijk aan voldoet, kan betrokkene zich wenden tot de arrondissementsrechtbank of de Registratiekamer, zoals bepaald in artikel 34 van de wet.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Dit reglement treedt in werking met ingang van 15 december 2000.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Dit reglement wordt aangehaald als: Privacyreglement Project Integriteit Bedrijfsleven Rotterdam Rijnmond.

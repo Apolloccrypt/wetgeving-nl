@@ -1,28 +1,53 @@
 ---
 title: "Crematiewet BES"
 identifier: "BWBR0028203"
-categorie: "Overig"
-publicatiedatum: 2011-10-04
-laatste_update: 2011-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028203"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-04"
+last_updated: "2011-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028203"
+soort: "wet-BES"
+stam_id: "10694473"
+version_id: "17657242"
+internal_id: "C24786061"
+label_id: "10669414"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028203/2011-10-04/0"
+intitule_bron: "Stb.2010-401"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-401"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-401"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028203&z=2011-10-04&g=2011-10-04"
+jci_1_0: "1.0:c:BWBR0028203&g=2011-10-04"
+citeertitel_status: "officieel"
+signed_date: "2010-09-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Crematiewet BES
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Lijkbezorging kan, onverminderd het daaromtrent in de [Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363) bepaalde, eveneens geschieden door crematie.
 
 2. Crematie van het lijk van een overleden persoon of doodgeboren kind geschiedt in een crematorium.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De houder van een crematorium houdt een register van alle daar verbrande lijken, met een nauwkeurige aanduiding van de bestemming, welke aan de as is gegeven en van degene op wiens aanwijzing zulks is geschied.
 
@@ -32,17 +57,17 @@ In deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire,
 
 ### Hoofdstuk II. Crematoria
 
-#### Artikel 3
+##### Artikel 3
 
 Het is verboden een crematorium, dat niet op de voet van het bepaalde bij of krachtens deze wet is gevestigd of in werking is, alszodanig in werking te brengen of te houden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een crematorium kan slechts worden gevestigd en in werking gehouden door een kerkgenootschap dan wel door een privaatrechtelijke rechtspersoon of een natuurlijk persoon.
 
 2. Onder kerkgenootschap wordt mede verstaan een onderdeel daarvan of een rechtspersoon, in het leven geroepen door een of meer kerkgenootschappen of onderdelen daarvan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het vestigen, uitbreiden of wijzigen van een crematorium behoeft vergunning van het bestuurscollege.
 
@@ -50,59 +75,59 @@ Het is verboden een crematorium, dat niet op de voet van het bepaalde bij of kra
 
 3. Bij eilandsbesluit houdende algemene maatregelen kan voor het betrokken openbaar lichaam een maximum aantal te verlenen vergunningen voor het vestigen van een crematorium worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Een besluit tot het verlenen van een vergunning voor het vestigen van een crematorium wordt niet genomen, dan nadat door het Bestuurscollege, volgens bij eilandsbesluit houdende algemene maatregelen te stellen regelen, van het verzoekschrift mededeling is gedaan in een of meer lokale nieuwsbladen of op de voor publicatie van officiële mededelingen gebruikelijke wijze en ter inzagelegging van het verzoekschrift met bijlagen ten bestuurskantore heeft plaatsgevonden en voorts aan een ieder tot het indienen van schriftelijke bezwaren bij het bestuurscollege gelegenheid is gegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij eilandsbesluit houdende algemene maatregelen worden de gevallen geregeld waarin een verleende vergunning door het bestuurscollege kan worden ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij eilandsbesluit houdende algemene maatregelen kunnen regelen worden gesteld omtrent de inrichting van crematoria en omtrent hetgeen in de crematoria en op hun erven in acht moet worden genomen.
 
 ### Hoofdstuk III. Identificatie, verlof tot crematie en termijn
 
-#### Artikel 9
+##### Artikel 9
 
 De identiteit van een lijk wordt in het crematorium waar het zal worden verbrand, vastgesteld op bij eilandsbesluit houdende algemene maatregelen te bepalen wijze.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Zijn er omstandigheden, die een gewelddadige dood doen vermoeden, dan geschiedt de verbranding niet dan met toestemming van de Officier van Justitie, zo mogelijk na voorafgegane gerechtelijke schouwing.
 
-#### Artikel 10
+##### Artikel 10
 
 Geen crematie van een lijk geschiedt zonder schriftelijk verlof van de ambtenaar van de burgerlijke stand, dat kosteloos en vrij van zegel wordt afgegeven en waarin de plaats van crematie wordt vermeld.
 
-#### Artikel 11
+##### Artikel 11
 
 Verlof tot crematie wordt niet verleend, zolang niet is overgelegd een der schriftelijke verklaringen als bedoeld in de Wet verklaringen van overlijden BES, dan wel een verklaring van geen bezwaar tegen crematie, afgegeven door de officier van justitie. Indien de officier van justitie in de gevallen als bedoeld in [artikel 1, derde lid, van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=1) meent niet tot de afgifte van een verklaring van geen bezwaar tegen crematie te kunnen overgaan, stelt deze de op grond van [artikel 4 van de Wet verklaringen van overlijden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028199&artikel=4) aangewezen geneeskundige en de regionale toetsingscommissie, bedoeld in [artikel 19c van de Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding](https://wetten.overheid.nl/jci1.3:c:BWBR0012410&artikel=19), hiervan onverwijld op de hoogte.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=11&z=2011-10-04&g=2011-10-04) overgelegde stukken worden bij de akte van overlijden gevoegd.
 
 2. Bij gebreke van een akte worden de overgelegde stukken bewaard door de ambtenaar van de burgerlijke stand van het openbaar lichaam waarin de crematie geschiedt.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voor de toepassing van dit hoofdstuk wordt als bevoegde ambtenaar van de burgerlijke stand aangemerkt die van het openbaar lichaam, waarin betreffende overledene of doodgeborene ingevolge aangifte een akte in het register van overlijden is ingeschreven.
 
 2. Bij gebreke van een akte is bevoegd de ambtenaar van de burgerlijke stand van het openbaar lichaam waarin crematie zal gescheiden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Crematie geschiedt niet eerder dan 36 uren na het overlijden of de levenloze geboorte en uiterlijk op de zesde werkdag na het overlijden of de levenloze geboorte.
 
 2. Na de door het bestuurscollege aangewezen geneeskundige te hebben gehoord kan de gezaghebber van het openbaar lichaam waar het lijk zich bevindt, voor de crematie daarvan een andere termijn stellen.
 
-#### Artikel 15
+##### Artikel 15
 
 Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binnengebracht, kan bij eilandsbesluit houdende algemene maatregelen van het bepaalde in dit hoofdstuk worden afgeweken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Overblijfselen van lijken en kisten, die bij roering van een graf of grafkelder te voorschijn mochten komen, mogen worden verbrand met schriftelijk verlof van de officier van justitie wanneer het verzoek daartoe gedaan wordt door degene die het in [artikel 4 van de Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=4) bedoelde verlof heeft aangevraagd, dan wel degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden.
 
@@ -110,13 +135,13 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 ### Hoofdstuk IV. Bestemming en bewaring van as
 
-#### Artikel 17
+##### Artikel 17
 
 1. Na de crematie wordt de as geborgen in een bus, die hermetisch gesloten wordt en waarop de naam, de voornamen en de datum van overlijden c.q. levenloze geboorte van de overledene of doodgeborene alsmede een registratienummer in onuitwisbare letters en cijfers staan vermeld.
 
 2. Binnen achttien jaren na het plaatsen van het in het eerste lid bedoelde opschrift mag dit niet van een ongeopende asbus worden verwijderd of daarop onleesbaar worden gemaakt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Een maand nadat de as in de bus is geborgen kan zij worden verstrooid.
 
@@ -128,7 +153,7 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 5. Op verzoek van degene die het in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=III&artikel=10&z=2011-10-04&g=2011-10-04) bedoelde verlof heeft aangevraagd dan wel degene, die redelijkerwijze geacht kan worden in diens plaats te zijn getreden, kan de officier van justitie in bijzondere gevallen ontheffing verlenen van de in de voorgaande leden genoemde termijnen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een asbus kan worden bijgezet:
 
@@ -140,19 +165,19 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 2. Een maand nadat de as in de bus is geborgen kan deze worden overgebracht naar de woning van de niet van tafel en bed gescheiden echtgenoot of andere levensgezel dan wel van een meerderjarige erfgenaam of anders van degene die de zorg voor de asbus op zich neemt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De bijzetting van een asbus in of op een graf of grafkelder waarop een uitsluitend recht berust, kan slechts geschieden met toestemming van de rechthebbende op het graf of de grafkelder en, voorzover het bijzetting in een graf of grafkelder betreft, tevens na daartoe bekomen verlof van de gezaghebber, de door het bestuurscollege aangewezen geneeskundige gehoord.
 
 2. Het verbod van [artikel 31, eerste alinea, van de Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=31) is niet van toepassing op de bijzetting van een asbus in een graf of grafkelder.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor elke begraafplaats wordt, hetzij door de zorg van de eigenaar van een bijzondere begraafplaats, hetzij door of vanwege de ambtenaren van de burgerlijke stand een register van alle daar bijgezette asbussen gehouden, met een nauwkeurige aanduiding van de plaats waar zij bijgezet zijn.
 
 3. Ten aanzien van het in het eerste lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2011-10-04&g=2011-10-04) van overeenkomstige toepassing.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een bewaarplaats als bedoeld in [artikel 19, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2011-10-04&g=2011-10-04) wordt niet in gebruik genomen dan met vergunning van het bestuurscollege.
 
@@ -160,7 +185,7 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 3. Ten aanzien van het in het tweede lid bedoelde register zijn de [leden 2 en 3 van artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=I&artikel=2&z=2011-10-04&g=2011-10-04) van overeenkomstige toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een asbus welke is bijgezet kan met het oog op een nieuwe bestemming worden verwijderd na daartoe bekomen verlof van de gezaghebber, de door het bestuurscollege aangewezen geneeskundige gehoord.
 
@@ -168,7 +193,7 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 3. De voorgaande leden alsmede het verbod van [artikel 31, eerste alinea, van de Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363&artikel=31) zijn niet van toepassing op de verwijdering van een asbus ingevolge rechterlijk bevel met het oog op een strafrechtelijk onderzoek.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het [tweede lid van artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2011-10-04&g=2011-10-04) geldt niet voor het ruimen van asbussen op last van de houder van de plaats van bijzetting.
 
@@ -176,17 +201,17 @@ Ten aanzien van lijken, die binnen een openbaar lichaam ter crematie worden binn
 
 3. De ruiming geschiedt door verstrooiing van de as.
 
-#### Artikel 25
+##### Artikel 25
 
 Omtrent de bestemming en bewaring van as kunnen bij eilandsbesluit houdende algemene maatregelen nadere regelen worden gesteld.
 
 ### Hoofdstuk V. Toezicht en strafbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Crematoria staan onder toezicht van het bestuurscollege van het openbaar lichaam waarin zij zijn gelegen.
 
-#### Artikel 26a
+##### Artikel 26a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door het bestuurscollege aangewezen ambtenaren en andere personen van de gezondheidsdienst van het openbaar lichaam. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -206,7 +231,7 @@ Crematoria staan onder toezicht van het bestuurscollege van het openbaar lichaam
 
 5. Een ieder is verplicht aan de in het eerste lid bedoelde personen alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.
 
-#### Artikel 27
+##### Artikel 27
 
 Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie wordt gestraft:
 
@@ -220,7 +245,7 @@ Met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie w
 
 - 5. het verstrooien van as of het verzenden, verwijderen, bewaren of vervoeren van een asbus in strijd met of anders dan met in achtneming van hetgeen is bepaald bij of krachtens de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=18&z=2011-10-04&g=2011-10-04), [19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=19&z=2011-10-04&g=2011-10-04), en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=23&z=2011-10-04&g=2011-10-04).
 
-#### Artikel 28
+##### Artikel 28
 
 Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wordt gestraft:
 
@@ -230,26 +255,26 @@ Met hechtenis van ten hoogste een maand of geldboete van de tweede categorie wor
 
 - 3. overtreding van het bepaalde krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=II&artikel=8&z=2011-10-04&g=2011-10-04) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0028203&hoofdstuk=IV&artikel=25&z=2011-10-04&g=2011-10-04), voor zover uitdrukkelijk als strafbaar feit in de zin van het onderhavige artikel aangeduid.
 
-#### Artikel 29
+##### Artikel 29
 
 De bij of krachtens deze wet strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 30
+##### Artikel 30
 
 [vervallen]
 
-#### Artikel 31
+##### Artikel 31
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde ambtenaren, belast de ambtenaren en andere personen van de gezondheidsdienst van het openbaar lichaam, door het betrokken bestuurscollege daartoe aangewezen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
 2. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de vereisten waaraan de krachtens het eerste lid aangewezen personen dienen te voldoen.
 
-#### Artikel 32
+##### Artikel 32
 
 Voor zover in deze wet niet anders is bepaald, zijn de bepalingen van de [Begrafeniswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028363) voor zoveel mogelijk van overeenkomstige toepassing.
 
 ### Hoofdstuk VII. Slotbepaling
 
-#### Artikel 38
+##### Artikel 38
 
 Deze wet wordt aangehaald als: Crematiewet BES.

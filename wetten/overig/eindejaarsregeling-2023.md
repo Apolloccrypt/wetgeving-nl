@@ -1,60 +1,86 @@
 ---
-title: "Eindejaarsregeling 2023"
+title: "Regeling van de Staatssecretaris van Financiën van 15 december 2023 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2023)"
 identifier: "BWBR0049183"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049183"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049183"
+soort: "ministeriele-regeling"
+stam_id: "16989203"
+version_id: "29874972"
+internal_id: "C42825321"
+label_id: "16899634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049183/2025-01-01/0"
+intitule_bron: "Stcrt.2023-34571"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-15"
+intitule_published: "2023-12-29"
+intitule_in_force: "2023-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34571"
+original_signed_date: "2023-12-15"
+original_published_date: "2023-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34571"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049183&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0049183&g=2025-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Eindejaarsregeling 2023"
+signed_date: "2023-12-15"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 15 december 2023 tot wijziging van onder meer enige uitvoeringsregelingen op het gebied van belastingen en toeslagen (Eindejaarsregeling 2023)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling forfaitaire winstvaststelling zeescheepvaart 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling loonbelasting- en premietabellen 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsbeschikking vennootschapsbelasting 1971.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Regeling laagbelastende staten en niet-coöperatieve rechtsgebieden voor belastingdoeleinden.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsbeschikking dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling bronbelasting 2021.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel XII
+##### Artikel XII
 
 [Artikel 5 van de Uitvoeringsregeling schenk- en erfbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0027018&artikel=5) zoals dat luidde op 31 december 2023 blijft van toepassing op een schenking als bedoeld in [artikel 33a van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33a) zoals dat luidde op 31 december 2023:
 
@@ -62,71 +88,71 @@ Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
 - b. waarvoor een beroep is gedaan op de verhoogde vrijstelling, bedoeld in [artikel 33, onderdeel 5°, onder c, of onderdeel 7°, van de Successiewet 1956](https://wetten.overheid.nl/jci1.3:c:BWBR0002226&artikel=33) zoals dat luidde op 31 december 2023.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsbeschikking omzetbelasting 1968.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Regeling elektronisch berichtenverkeer Belastingdienst.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling inleners-, keten- en opdrachtgeversaansprakelijkheid 2004.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Regeling openbaarmaking vergrijpboeten.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Regeling ex-patriates 1998 BES.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Regeling verstrekkingen en vergoedingen BES.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet toekomst pensioenen.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2024, met dien verstande dat:
 

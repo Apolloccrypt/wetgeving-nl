@@ -1,13 +1,24 @@
 ---
 title: "Verdrag van de Raad van Europa tot bescherming van het advocatenberoep"
 identifier: "BWBV0007100"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-05-13
-laatste_update: 2025-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007100"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-05-13"
+last_updated: "2025-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007100"
+soort: "verdrag"
+stam_id: "10005706313"
+version_id: "10006304972"
+internal_id: "C10010196901"
+label_id: "10005688454"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007100/2025-05-13/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007100&z=2025-05-13&g=2025-05-13"
+jci_1_0: "1.0:c:BWBV0007100&g=2025-05-13"
+citeertitel_status: "redactioneel"
 ---
-
 # Verdrag van de Raad van Europa tot bescherming van het advocatenberoep
 
 Preambule
@@ -38,13 +49,13 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. DOEL, REIKWIJDTE EN BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1. Doel van het Verdrag
+##### Artikel 1. Doel van het Verdrag
 
 1. Het doel van dit Verdrag is de versterking van de bescherming van het beroep van advocaat en het recht om dit beroep onafhankelijk en zonder discriminatie, ongepaste belemmering of inmenging uit te oefenen, of het slachtoffer te worden van aanvallen, bedreigingen, pesterijen of intimidatie.
 
 2. Bij dit Verdrag wordt een specifiek mechanisme ingesteld om een doeltreffende uitvoering van de bepalingen ervan door de partijen te waarborgen.
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Dit Verdrag is van toepassing op de beroepsactiviteiten van advocaten en hun beroepsverenigingen.
 
@@ -64,7 +75,7 @@ Zijn het volgende overeengekomen:
 
 5. De bepalingen van [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=9&z=2025-05-13&g=2025-05-13), van dit Verdrag zijn ook van toepassing op personen die in dienst zijn genomen of ingeschakeld om beroepsverenigingen bij te staan, voor zover het de uitoefening door hen van de beroepswerkzaamheden van deze verenigingen betreft.
 
-#### Artikel 3. Begripsomschrijvingen
+##### Artikel 3. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -92,7 +103,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. MATERIËLE BEPALINGEN
 
-#### Artikel 4. Beroepsverenigingen
+##### Artikel 4. Beroepsverenigingen
 
 1. De partijen waarborgen dat het nationale wet- en regelgevingskader waarborgt dat beroepsverenigingen onafhankelijke, zelfbesturende organen zijn. De verkiezing van hun uitvoerende organen geschiedt in overeenstemming met de toepasselijke regels en zonder inmenging van buitenaf.
 
@@ -114,7 +125,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 4. De partijen waarborgen dat de verplichting om lid te zijn van een beroepsvereniging advocaten niet belet andere verenigingen op te richten en daaraan deel te nemen om hun beroepsbelangen en -activiteiten te behartigen.
 
-#### Artikel 5. Recht op uitoefening van het beroep
+##### Artikel 5. Recht op uitoefening van het beroep
 
 1. De partijen waarborgen dat de toelating tot, de voortgezette inschrijving van en de herintreding tot het beroep van advocaat bij wet worden voorgeschreven en:
 
@@ -124,7 +135,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. De partijen waarborgen dat besluiten betreffende toelating, voortgezette inschrijving en herintreding tot het beroep van advocaat worden genomen door een beroepsvereniging of een ander onafhankelijk orgaan en kunnen worden aangevochten voor een onafhankelijk en onpartijdig gerecht dat bij wet is ingesteld.
 
-#### Artikel 6. Beroepsrechten van advocaten
+##### Artikel 6. Beroepsrechten van advocaten
 
 1. De partijen dragen er zorg voor dat advocaten:
 
@@ -160,13 +171,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 5. De partijen waarborgen dat advocaten geen nadelige gevolgen ondervinden als gevolg van identificatie met hun cliënten of de zaak van hun cliënten. Dit artikel wordt toegepast onverminderd de vrijheid van meningsuiting zoals beschermd door het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000) en het nationale recht.
 
-#### Artikel 7. Vrijheid van meningsuiting
+##### Artikel 7. Vrijheid van meningsuiting
 
 1. De partijen waarborgen het recht van advocaten om het publiek te informeren over aangelegenheden die verband houden met de zaken van hun cliënten, behoudens beperkingen die bij wet zijn voorgeschreven en die voortvloeien uit professionele verantwoordelijkheden, de vereisten van de rechtsbedeling en de eerbiediging van het privéleven, en die in een democratische samenleving noodzakelijk zijn.
 
 2. De partijen waarborgen het recht van advocaten, individueel en collectief, en van beroepsverenigingen om de rechtsstaat en de naleving ervan te bevorderen, deel te nemen aan openbare discussies over de inhoud, interpretatie en toepassing van bestaande en voorgestelde wettelijke bepalingen, rechterlijke beslissingen, de rechtsbedeling en toegang tot de rechter en de bevordering en bescherming van de mensenrechten, en om voorstellen voor hervormingen op dit gebied in te dienen.
 
-#### Artikel 8. Discipline
+##### Artikel 8. Discipline
 
 1. De partijen waarborgen dat de gronden voor disciplinaire maatregelen tegen advocaten uitsluitend gebaseerd zijn op bij wet voorgeschreven professionele gedragsnormen die zelf in overeenstemming zijn met de rechten en vrijheden in het [Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden](https://wetten.overheid.nl/jci1.3:c:BWBV0001000).
 
@@ -188,7 +199,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Partijen waarborgen dat alle disciplinaire sancties die aan advocaten worden opgelegd in overeenstemming zijn met de beginselen van legaliteit, non-discriminatie en evenredigheid. Een verbod op het recht op uitoefening van het beroep mag alleen worden opgelegd voor de ernstigste inbreuken op de beroepsnormen.
 
-#### Artikel 9. Beschermingsmaatregelen
+##### Artikel 9. Beschermingsmaatregelen
 
 1. De partijen waarborgen, behoudens de beperkingen die bij wet zijn voorgeschreven en in een democratische samenleving noodzakelijk zijn voor het voorkomen, onderzoeken of vervolgen van misdrijven of voor de bescherming van de rechten van anderen, dat advocaten:
 
@@ -230,7 +241,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. TOEZICHTSMECHANISME
 
-#### Artikel 10. Groep van deskundigen inzake de bescherming van het advocatenberoep
+##### Artikel 10. Groep van deskundigen inzake de bescherming van het advocatenberoep
 
 1. De Groep van deskundigen inzake de bescherming van het advocatenberoep (hierna te noemen GRAVO) houdt toezicht op de uitvoering van dit Verdrag door de partijen.
 
@@ -256,7 +267,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 7. De leden van GRAVO en andere leden van delegaties die de bezoeken aan landen omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=III&artikel=12&z=2025-05-13&g=2025-05-13) van dit Verdrag afleggen, genieten de voorrechten en immuniteiten vastgelegd in het aanhangsel bij dit Verdrag.
 
-#### Artikel 11. Comité van de Partijen
+##### Artikel 11. Comité van de Partijen
 
 1. Het Comité van de Partijen bestaat uit vertegenwoordigers van de partijen bij dit Verdrag en de partijen streven naar genderevenwicht in de samenstelling ervan.
 
@@ -264,7 +275,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Het Comité van de Partijen stelt zijn eigen reglement van orde vast.
 
-#### Artikel 12. Procedure
+##### Artikel 12. Procedure
 
 1. De evaluatieprocedure wordt verdeeld in ronden. GRAVO bepaalt de reikwijdte en de passende middelen voor de uitvoering van deze procedure, zoals vragenlijsten die als basis kunnen dienen voor de evaluatieprocedure van de uitvoering door de partijen.
 
@@ -292,7 +303,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - b. gericht op het bevorderen van de samenwerking met deze partij met het oog op de juiste uitvoering van dit Verdrag.
 
-#### Artikel 13. Spoedprocedure
+##### Artikel 13. Spoedprocedure
 
 1. Indien GRAVO betrouwbare informatie ontvangt die duidt op problemen die de onmiddellijke aandacht vergen teneinde ernstige schendingen van het Verdrag te voorkomen of de schaal of de frequentie ervan te beperken kan zij de betrokken partij verzoeken om met spoed een speciaal rapport te overleggen over de maatregelen die zijn getroffen om dergelijke schendingen te voorkomen.
 
@@ -300,17 +311,17 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Na bestudering van de uitkomsten van het onderzoek bedoeld in het tweede lid van dit artikel doet GRAVO deze, tezamen met eventuele commentaren en aanbevelingen, toekomen aan de desbetreffende partij en, indien relevant, aan het Comité van de Partijen en het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa. Het rapport en de conclusies van GRAVO worden vanaf de aanneming ervan openbaar gemaakt, tezamen met het commentaar van de desbetreffende partij.
 
-#### Artikel 14. Aanbevelingen
+##### Artikel 14. Aanbevelingen
 
 GRAVO kan indien passend aanbevelingen aannemen voor de uitvoering van dit Verdrag.
 
-#### Artikel 15. Verhouding tot andere organen
+##### Artikel 15. Verhouding tot andere organen
 
 Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa worden regelmatig op de hoogte gesteld van de uitvoering van dit Verdrag.
 
 ### HOOFDSTUK IV. VERHOUDING TOT ANDERE INTERNATIONALE INSTRUMENTEN
 
-#### Artikel 16. Verhouding tot andere internationale instrumenten
+##### Artikel 16. Verhouding tot andere internationale instrumenten
 
 1. Dit Verdrag laat de rechten en verplichtingen onverlet die voortvloeien uit andere internationale instrumenten waarbij de partijen bij dit Verdrag partij zijn of zullen worden en die bepalingen bevatten inzake door dit Verdrag geregelde aangelegenheden en die een grotere bescherming waarborgen van de rechten van advocaten voor de vrije uitoefening van hun beroep.
 
@@ -318,7 +329,7 @@ Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 17. Ondertekening en inwerkingtreding
+##### Artikel 17. Ondertekening en inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, door staten die geen lid van de Raad zijn en die hebben deelgenomen aan de opstelling hiervan en door de Europese Unie.
 
@@ -328,7 +339,7 @@ Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa
 
 4. Met betrekking tot iedere ondertekenaar die later zijn instemming door het Verdrag te worden gebonden tot uitdrukking brengt, treedt het in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 18. Toetreding tot het Verdrag
+##### Artikel 18. Toetreding tot het Verdrag
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging en verkrijging van unanieme instemming van de partijen bij dit Verdrag, elke staat die geen lid is van de Raad van Europa en die niet heeft deelgenomen aan de opstelling van het Verdrag, uitnodigen tot dit Verdrag toe te treden, door een door de meerderheid als voorzien in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) genomen besluit en door de unanieme stemming door de vertegenwoordigers van de verdragsluitende staten die recht hebben op een zetel in het Comité van Ministers.
 
@@ -336,7 +347,7 @@ Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa
 
 3. Een partij die geen lidstaat van de Raad van Europa is draagt bij aan de financiering van de activiteiten van GRAVO en het Comité van de Partijen, op een door het Comité van Ministers vastgestelde wijze.
 
-#### Artikel 19. Territoriale toepassing
+##### Artikel 19. Territoriale toepassing
 
 1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit Verdrag van toepassing is nader aanduiden.
 
@@ -344,7 +355,7 @@ Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 20. Verklaringen
+##### Artikel 20. Verklaringen
 
 1. Elke verdragsluitende partij bij het Verdrag geeft op het tijdstip van ondertekening of bij de nederlegging van haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring, de beroepstitels aan die vallen onder de reikwijdte van dit Verdrag ten behoeve van de uitvoering van [artikel 3, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=I&artikel=3&z=2025-05-13&g=2025-05-13). Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd. Deze verklaring en eventuele wijzigingen daarvan doen geen afbreuk aan het doel van dit Verdrag en de door dit Verdrag geboden bescherming.
 
@@ -358,13 +369,13 @@ Het Comité van Ministers en de Parlementaire Vergadering van de Raad van Europa
 
 Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
 
-#### Artikel 21. Voorbehouden
+##### Artikel 21. Voorbehouden
 
 1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de nederlegging van zijn of haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa verklaren dat hij of zij zich het recht voorbehoudt de bepalingen in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=II&artikel=6&z=2025-05-13&g=2025-05-13) met betrekking tot [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=I&artikel=2&z=2025-05-13&g=2025-05-13) van dit Verdrag niet toe te passen of slechts in specifieke gevallen of omstandigheden toe te passen. Ten aanzien van de bepalingen van dit Verdrag kunnen geen andere voorbehouden worden gemaakt.
 
 2. Elke partij kan een voorbehoud geheel of gedeeltelijk intrekken door middel van een verklaring gericht aan de Secretaris-Generaal van de Raad van Europa. Een dergelijke verklaring wordt van kracht met ingang van de datum van ontvangst door de Secretaris-Generaal.
 
-#### Artikel 22. Wijzigingen van het Verdrag
+##### Artikel 22. Wijzigingen van het Verdrag
 
 1. Elk voorstel tot wijziging van dit Verdrag dat door een partij wordt ingediend, wordt medegedeeld aan de Secretaris-Generaal van de Raad van Europa en door hem of haar toegezonden aan de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling, elke ondertekenende staat, elke staat die partij is, de Europese Unie en elke staat die overeenkomstig de bepalingen van het eerste lid van artikel 18, is uitgenodigd dit Verdrag te ondertekenen.
 
@@ -376,13 +387,13 @@ Deze verklaring kan nadien te allen tijde op dezelfde wijze worden gewijzigd.
 
 5. Iedere overeenkomstig het derde lid van dit artikel aangenomen wijziging treedt in werking op de eerste dag van de maand na het verstrijken van een tijdvak van een maand na de datum waarop alle partijen de Secretaris-Generaal hebben medegedeeld dat zij haar hebben aanvaard.
 
-#### Artikel 23. Opzegging
+##### Artikel 23. Opzegging
 
 1. Elke partij kan dit Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. Deze opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 24. Kennisgevingen
+##### Artikel 24. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de niet-lidstaten die hebben deelgenomen aan de opstelling van dit Verdrag alsmede elke ondertekenende staat, elke staat die partij is, de Europese Unie en elke staat die is uitgenodigd tot dit Verdrag toe te treden, overeenkomstig de bepalingen van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0007100&hoofdstuk=V&artikel=18&z=2025-05-13&g=2025-05-13), in kennis van:
 

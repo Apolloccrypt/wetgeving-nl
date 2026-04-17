@@ -1,13 +1,38 @@
 ---
 title: "Briefwisseling houdende een Protocol bij de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001664"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-08-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001664"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-08-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001664"
+soort: "verdrag"
+stam_id: "10001530123"
+version_id: "10001608532"
+internal_id: "C10006996371"
+label_id: "10001530454"
+dtd_version: "2.0"
+original_entry_into_force: "2005-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001664/2005-08-01/0"
+intitule_bron: "Trb.2005-79"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-01"
+intitule_published: "2005-03-23"
+intitule_in_force: "2005-11-18"
+intitule_status: "goed"
+original_publication: "Trb.2005-79"
+original_signed_date: "2004-05-01"
+original_published_date: "2005-03-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-79"
+entry_into_force_date: "2005-08-01"
+jci_1_3: "jci1.3:c:BWBV0001664&z=2005-08-01&g=2005-08-01"
+jci_1_0: "1.0:c:BWBV0001664&g=2005-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-05-01"
+entry_into_force: "2005-08-01"
 ---
-
 # Briefwisseling houdende een Protocol bij de Stabilisatie- en associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
 Het Koninkrijk België
@@ -92,11 +117,11 @@ Zijn het volgende overeengekomen:
 
 ### AFDELING I. VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 1
+##### Artikel 1
 
 De Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek (hierna de „nieuwe lidstaten") zijn Partij bij de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds, die op 9 april 2001 in Luxemburg door middel van een briefwisseling werd ondertekend, en hechten hun goedkeuring aan en nemen respectievelijk nota van, op dezelfde wijze als andere lidstaten van de Gemeenschap, de teksten van de overeenkomst, evenals de gemeenschappelijke verklaringen en de unilaterale verklaringen die aan de op dezelfde datum ondertekende slotakte zijn gehecht.
 
-#### Artikel 2
+##### Artikel 2
 
 Teneinde rekening te houden met recente institutionele ontwikkelingen binnen de Europese Unie komen de Partijen overeen dat na het verstrijken van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal de bestaande bepalingen in de overeenkomst die verwijzen naar de Europese Gemeenschap voor Kolen en Staal geacht worden te verwijzen naar de Europese Gemeenschap, die alle rechten en verplichtingen van de Europese Gemeenschap voor Kolen en Staal heeft overgenomen.
 
@@ -104,43 +129,43 @@ Teneinde rekening te houden met recente institutionele ontwikkelingen binnen de 
 
 ### AFDELING II. LANDBOUWPRODUCTEN
 
-#### Artikel 3. Landbouwproducten sensu stricto
+##### Artikel 3. Landbouwproducten sensu stricto
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
-#### Artikel 4. Visserijproducten
+##### Artikel 4. Visserijproducten
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
-#### Artikel 5. Verwerkte landbouwproducten
+##### Artikel 5. Verwerkte landbouwproducten
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
-#### Artikel 6. Wijnovereenkomst
+##### Artikel 6. Wijnovereenkomst
 
 De tabel in lid 1 van Bijlage I (Overeenkomst tussen de Europese Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië betreffende wederzijdse preferentiële handelsconcessies voor bepaalde wijnen, waarnaar wordt verwezen in artikel 27, lid 4 van de SAO) bij het Aanvullend Protocol tot aanpassing van de handelsaspecten van de Interimovereenkomst tussen de Europese Gemeenschap en de Voormalige Joegoslavische Republiek Macedonië om rekening te houden met de uitkomst van de onderhandelingen tussen de partijen over wederzijdse preferentiële concessies voor bepaalde wijnen en gedistilleerde dranken, de wederzijdse erkenning, bescherming en controle van wijnbenamingen en de wederzijdse erkenning, bescherming en controle van aanduidingen van gedistilleerde dranken en gearomatiseerde dranken wordt vervangen door de tabel in Bijlage VII van dit Protocol.
 
 ### AFDELING III. REGELS VAN OORSPRONG
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Stabilisatie- en Associatieovereenkomst tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en de Voormalige Joegoslavische Republiek Macedonië, anderzijds; Luxemburg, 09-04-2001
 
 ### AFDELING IV. OVERGANGSBEPALINGEN
 
-#### Artikel 10. WTO
+##### Artikel 10. WTO
 
 De Voormalige Joegoslavische Republiek Macedonië zal geen vordering, verzoek of raadpleging doen noch enige concessie krachtens Artikelen XXIV.6 en XXVIII van de GATT 1994 aanpassen of intrekken in verband met deze uitbreiding van de Gemeenschap.
 
-#### Artikel 11. Bewijs van oorsprong en administratieve samenwerking
+##### Artikel 11. Bewijs van oorsprong en administratieve samenwerking
 
 1. Bewijzen van oorsprong die op de juiste wijze zijn afgegeven door de Voormalige Joegoslavische Republiek Macedonië of een nieuwe lidstaat in het kader van preferentiële overeenkomsten of autonome regelingen die tussen hen van toepassing zijn, worden in de respectieve landen aanvaard, op voorwaarde dat:
 
@@ -162,29 +187,29 @@ Deze vergunningen worden uiterlijk een jaar na de toetredingsdatum vervangen doo
 
 3. Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven krachtens de preferentiële overeenkomsten of autonome regelingen als bedoeld in bovenstaande leden 1 en 2 worden gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong aanvaard door de bevoegde douane-autoriteiten van de Voormalige Joegoslavische Republiek Macedonië of de nieuwe lidstaten, en kunnen gedurende een periode van drie jaar vanaf de aanvaarding van het bewijs van oorsprong nog worden gedaan door die autoriteiten ter rechtvaardiging van een invoeraangifte.
 
-#### Artikel 12. Goederen in doorvoer
+##### Artikel 12. Goederen in doorvoer
 
 1. De bepalingen van de SAO kunnen worden toegepast op goederen die worden uitgevoerd uit de Voormalige Joegoslavische Republiek Macedonië naar een van de nieuwe lidstaten of van een van de nieuwe lidstaten naar de Voormalige Joegoslavische Republiek Macedonië, die voldoen aan de voorwaarden van Protocol 4 bij de SAO en die op de toetredingsdatum „en route" dan wel in tijdelijke opslag zijn in een douane-entrepot of een vrije zone in de Voormalige Joegoslavische Republiek Macedonië of in die nieuwe lidstaat.
 
 2. In die gevallen kan preferentiële behandeling worden toegekend, mits binnen vier maanden na de toetredingsdatum een door de douaneautoriteiten van het land van uitvoer achteraf afgegeven bewijs van oorsprong wordt ingediend bij de douaneautoriteiten van het land van invoer.
 
-#### Artikel 13. Contingenten in 2004
+##### Artikel 13. Contingenten in 2004
 
 Voor het jaar 2004 worden de hoeveelheden van de nieuwe tariefcontingenten en de verhoging van de omvang van de bestaande tariefcontingenten berekend naar verhouding van de basishoeveelheden rekening houdend met het gedeelte van de termijn dat voor 1 mei 2004 is verstreken.
 
 ### AFDELING V. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 14
+##### Artikel 14
 
 Dit protocol en zijn bijlagen vormen een integrerend onderdeel van de SAO.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit protocol wordt goedgekeurd door de Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door de Voormalige Joegoslavische Republiek Macedonië volgens hun eigen procedures.
 
 2. De partijen stellen elkaar in kennis van de voltooiing van de desbetreffende procedures bedoeld in voorgaand lid. De akten van goedkeuring worden neergelegd bij het Secretariaat-Generaal van de Raad van de Europese Unie.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit protocol treedt in werking op dezelfde dag als het Toetredingsverdrag, mits alle akten van goedkeuring van dit protocol voor die datum zijn neergelegd.
 
@@ -192,10 +217,10 @@ Dit protocol en zijn bijlagen vormen een integrerend onderdeel van de SAO.
 
 3. Indien niet alle akten van goedkeuring van dit protocol voor 1 mei 2004 zijn neergelegd, is dit protocol voorlopig van toepassing met ingang van 1 mei 2004.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit protocol is opgesteld in tweevoud in elk van de officiële talen van de partijen, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 18
+##### Artikel 18
 
 De tekst van de SAO, met inbegrip van de bijlagen en de protocollen die daarvan een integrerend onderdeel vormen, de slotakte en de daaraan gehechte verklaringen worden opgemaakt in de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Sloveense, de Slowaakse en de Tsjechische taal, zijnde die teksten evenzeer authentiek als de oorspronkelijke teksten. De Stabilisatie- en Associatieraad stelt deze teksten vast.

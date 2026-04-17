@@ -1,16 +1,41 @@
 ---
 title: "Werkwijze DNB inzien en kopiëren van digitale gegevens"
 identifier: "BWBR0052013"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2025-12-23
-laatste_update: 2025-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052013"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-23"
+last_updated: "2025-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052013"
+soort: "zbo"
+stam_id: "17690363"
+version_id: "31217902"
+internal_id: "C44652581"
+label_id: "17589354"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052013/2025-12-23/0"
+intitule_bron: "Stcrt.2025-43234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-03"
+intitule_published: "2025-12-22"
+intitule_in_force: "2025-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43234"
+original_signed_date: "2025-12-03"
+original_published_date: "2025-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43234"
+entry_into_force_date: "2025-12-23"
+jci_1_3: "jci1.3:c:BWBR0052013&z=2025-12-23&g=2025-12-23"
+jci_1_0: "1.0:c:BWBR0052013&g=2025-12-23"
+citeertitel_status: "redactioneel"
+signed_date: "2025-12-03"
+entry_into_force: "2025-12-23"
 ---
-
 # Werkwijze DNB inzien en kopiëren van digitale gegevens
 
-#### Artikel 1. – Definitiebepalingen
+##### Artikel 1. – Definitiebepalingen
 
 - **Awb:** de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -34,7 +59,7 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 - **Werkwijze:** de Werkwijze DNB inzien en kopiëren van digitale gegevens.
 
-#### Artikel 2. – Identificeren, veiligstellen en kopiëren van Digitale gegevens
+##### Artikel 2. – Identificeren, veiligstellen en kopiëren van Digitale gegevens
 
 1. De Onderzoeker stelt, aan de hand van het doel van het toezichtonderzoek, vast welke Digitale gegevens worden gevorderd. De IT-Specialist draagt er zorg voor dat deze Digitale gegevens worden geïdentificeerd, veiliggesteld en gekopieerd.
 
@@ -60,7 +85,7 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 8. Indien het Onderzoekssubject nalaat binnen 10 werkdagen na verzending van de in het derde lid genoemde kennisgeving, een verzoek voor Schoning te doen, zoals bedoeld in het vierde en/of zesde lid, of binnen voornoemde termijn aangeeft geen verzoek te willen doen, bevestigt de IT-Specialist dit schriftelijk aan het Onderzoekssubject. De IT-Specialist voert, indien nodig, een pro-forma Schoning van Geprivilegieerde gegevens uit, waarna het toezichtonderzoek in de Geschoonde gegevens gestart kan worden overeenkomstig het gestelde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=5&z=2025-12-23&g=2025-12-23).
 
-#### Artikel 3. – Beoordelen van de claim door de IT-Specialist
+##### Artikel 3. – Beoordelen van de claim door de IT-Specialist
 
 1. De IT-Specialist beoordeelt geclaimde Geprivilegieerde- en/of Privégegevens uit de gekopieerde Digitale gegevens aan de hand van de onderbouwing zoals bedoeld in [artikel 2, vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=2&z=2025-12-23&g=2025-12-23), of artikel 2, zevende lid, onder b, van de Werkwijze. Hierbij zal de IT-Specialist, door kennis te nemen van metadata en, waar nodig, door middel van vluchtig inzien, beoordelen of de claim aannemelijk is.
 
@@ -74,7 +99,7 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 6. Indien het Onderzoekssubject gefundeerd aangeeft dat hij niet wenst dat de IT-Specialist de als Geprivilegieerd geclaimde gegevens vluchtig inziet, dan zal niet hij, maar de Functionaris Verschoningsrecht, mede aan de hand van de onderbouwing zoals bedoeld in [artikel 2, vijfde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=2&z=2025-12-23&g=2025-12-23), van de Werkwijze, beoordelen of de claim aannemelijk is. De leden 1 tot en met 5 van dit artikel zijn in dat geval slechts van toepassing op Privégegevens.
 
-#### Artikel 4. – Beoordelen van de claim door de Functionaris Verschoningsrecht
+##### Artikel 4. – Beoordelen van de claim door de Functionaris Verschoningsrecht
 
 1. Het Onderzoekssubject kan het geprivilegieerde karakter van de claim of het gedeelte waarvan de IT-Specialist heeft geoordeeld dat deze niet aannemelijk is, laten beoordelen door de Functionaris Verschoningsrecht. Het Onderzoekssubject dient hiertoe binnen 10 werkdagen na de dagtekening van de kennisgeving zoals bedoeld onder [artikel 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=3&z=2025-12-23&g=2025-12-23), van de Werkwijze, een gemotiveerd verzoek te richten aan de Functionaris Verschoningsrecht.
 
@@ -86,7 +111,7 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 5. De correspondentie die tussen het Onderzoekssubject en de Functionaris Verschoningsrecht is gevoerd in het kader van de inhoudelijke beoordeling van de claim is enkel toegankelijk voor de Functionaris Verschoningsrecht.
 
-#### Artikel 5. – Toezichtonderzoek
+##### Artikel 5. – Toezichtonderzoek
 
 1. Het toezichtonderzoek vindt plaats in Geschoonde gegevens.
 
@@ -106,7 +131,7 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 4. De Digitale gegevens die gezien het doel van het toezichtonderzoek als relevant zijn aangemerkt, worden door de IT-Specialist overgedragen aan de Onderzoeker en opgeslagen in het onderzoeksdossier.
 
-#### Artikel 6. – Vernietiging van Digitale gegevens
+##### Artikel 6. – Vernietiging van Digitale gegevens
 
 1. De IT-Specialist vernietigt alle van het Onderzoekssubject gekopieerde Digitale gegevens met uitzondering van die digitale gegevens die in het onderzoeksdossier zijn opgenomen:
 
@@ -116,10 +141,10 @@ bron: "https://wetten.overheid.nl/BWBR0052013"
 
 2. Indien Onderzoekssubject zich overeenkomstig [artikel 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=3&z=2025-12-23&g=2025-12-23) of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052013&artikel=4&z=2025-12-23&g=2025-12-23), van de Werkwijze, gewend heeft tot de Functionaris Verschoningsrecht en de daartoe strekkende claim (al dan niet gedeeltelijk) gehonoreerd is, dan geeft deze opdracht aan de IT-Specialist om de betreffende Geprivilegieerde gegevens te vernietigen en vernietigt deze zelf de daarover gevoerde correspondentie na het geval van en overeenkomstig het eerste lid, onder a of b.
 
-#### Artikel 7. – Intrekking eerdere Werkwijze
+##### Artikel 7. – Intrekking eerdere Werkwijze
 
 De ‘Werkwijze DNB inzien en kopiëren van digitale gegevens’, gepubliceerd in de Staatscourant van 22 juni 2020 (Staatscourant 2020, nr. 32814), wordt ingetrokken.
 
-#### Artikel 8. – Inwerkingtreding
+##### Artikel 8. – Inwerkingtreding
 
 Deze Werkwijze treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.

@@ -1,13 +1,39 @@
 ---
-title: "Besluit klachtadviescommissie raad voor de kinderbescherming"
+title: "Besluit van 2 september 2020, houdende regels inzake de behandeling van klachten over de raad voor de kinderbescherming door een klachtadviescommissie (Besluit klachtadviescommissie raad voor de kinderbescherming)"
 identifier: "BWBR0044134"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044134"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044134"
+soort: "AMvB"
+stam_id: "15641483"
+version_id: "27040402"
+internal_id: "C38257111"
+label_id: "15581294"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044134/2020-10-01/0"
+intitule_bron: "Stb.2020-358"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-02"
+intitule_published: "2020-09-30"
+intitule_in_force: "2020-09-30"
+intitule_status: "goed"
+original_publication: "Stb.2020-358"
+original_signed_date: "2020-09-02"
+original_published_date: "2020-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-358"
+entry_into_force_date: "2020-10-01"
+jci_1_3: "jci1.3:c:BWBR0044134&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0044134&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit klachtadviescommissie raad voor de kinderbescherming"
+signed_date: "2020-09-02"
+entry_into_force: "2020-10-01"
 ---
-
 # Besluit van 2 september 2020, houdende regels inzake de behandeling van klachten over de raad voor de kinderbescherming door een klachtadviescommissie (Besluit klachtadviescommissie raad voor de kinderbescherming)
 
 Op de voordracht van Onze Minister voor Rechtsbescherming van 18 juni 2020, nr. 2946848, directie Wetgeving en Juridische Zaken,
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Rechtsbescherming van 27 augustu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **Klachtadviescommissie:** een commissie als bedoeld in [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
 
-#### Artikel 2
+##### Artikel 2
 
 De behandeling van en advisering over klachten vindt plaats door een klachtadviescommissie.
 
 [Afdeling 9.1.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=9.1.3) is van toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er zijn vier klachtadviescommissies waarin onafhankelijke personen zitting hebben.
 
@@ -44,7 +70,7 @@ De behandeling van en advisering over klachten vindt plaats door een klachtadvie
 
 3. In afwijking van het tweede lid worden klachten betreffende de algemeen directeur van de raad behandeld door Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 De bevoegdheidsverdeling van de klachtadviescommissies is de volgende:
 
@@ -56,7 +82,7 @@ De bevoegdheidsverdeling van de klachtadviescommissies is de volgende:
 
 - d. Zuid-Nederland, omvattende de gebieden Zeeland-West-Brabant, Oost-Brabant en Limburg.
 
-#### Artikel 5
+##### Artikel 5
 
 Van een klachtadviescommissie kan geen lid worden:
 
@@ -64,7 +90,7 @@ Van een klachtadviescommissie kan geen lid worden:
 
 - b. een persoon wiens onafhankelijkheid of onpartijdigheid om een andere reden in het geding kan zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De klachtadviescommissies bestaan maximaal uit vijf voorzitters en twaalf leden. Zij hebben allen kennis op het terrein van de jeugdzorg of de jeugdbescherming.
 
@@ -76,7 +102,7 @@ Van een klachtadviescommissie kan geen lid worden:
 
 5. Een voorzitter of een lid kan door Onze Minister worden ontslagen wegens ongeschiktheid, onbekwaamheid of andere zwaarwegende gronden. Omtrent het voornemen tot ontslag wordt de betrokkene door of namens Onze Minister gehoord.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De klachtadviescommissies houden zitting en adviseren met een voorzitter en twee leden.
 
@@ -84,19 +110,19 @@ Van een klachtadviescommissie kan geen lid worden:
 
 3. De voorzitter en de leden van de klachtadviescommissies ontvangen een vergoeding volgens het [Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279).
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit is eveneens van toepassing op bij de raad ingediende klachten die op het moment van inwerkingtreding reeds ontvangen zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit externe klachtencommissie raad voor de kinderbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0020229) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit klachtadviescommissie raad voor de kinderbescherming.
 

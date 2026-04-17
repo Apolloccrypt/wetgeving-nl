@@ -1,13 +1,37 @@
 ---
 title: "Regeling geweldsinstructie justitiële jeugdinrichtingen"
 identifier: "BWBR0012745"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-02-05
-laatste_update: 2026-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012745"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-02-05"
+last_updated: "2026-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012745"
+soort: "ministeriele-regeling"
+stam_id: "3573883"
+version_id: "5357132"
+internal_id: "C5550221"
+label_id: "3554014"
+dtd_version: "2.0"
+original_entry_into_force: "2001-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012745/2026-02-05/0"
+intitule_bron: "Stcrt.2001-156"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-14"
+intitule_published: "2001-08-15"
+intitule_in_force: "2001-08-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-156"
+original_signed_date: "2001-08-14"
+original_published_date: "2001-08-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-09-01"
+jci_1_3: "jci1.3:c:BWBR0012745&z=2026-02-05&g=2026-02-05"
+jci_1_0: "1.0:c:BWBR0012745&g=2026-02-05"
+citeertitel_status: "officieel"
+signed_date: "2001-08-14"
+entry_into_force: "2001-09-01"
 ---
-
 # Regeling geweldsinstructie justitiële jeugdinrichtingen
 
 Gelet op [artikel 40, vierde lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=40);
@@ -18,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -58,15 +82,15 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Aanwenden geweldsmiddelen en vrijheidsbeperkende middelen door personeelsleden of medewerkers
 
-#### Artikel 2
+##### Artikel 2
 
 Een personeelslid of medewerker kan ten aanzien van een jeugdige, ten behoeve van het vervoer of interne overplaatsing, een broekstok of handboeien aanleggen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05), genoemde geweldsmiddelen aan te wenden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2026-02-05&g=2026-02-05) kan de directeur personeelsleden of medewerkers toestemming verlenen voor het hanteren van een korte of lange wapenstok.
 
@@ -84,13 +108,13 @@ Het is een personeelslid of medewerker niet toegestaan de in [artikel 1, onder g
 
 - b. de door hem krachtens [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=4&z=2026-02-05&g=2026-02-05), aangewezen personeelsleden of medewerkers over voldoende vaardigheden beschikken met betrekking tot het hanteren van een korte of lange wapenstok.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De directeur stelt een voor zijn inrichting geldende dienstinstructie geweldstoepassing voor de personeelsleden of medewerkers vast.
 
 2. De directeur geeft daarin aan onder welke omstandigheden, welke personeelsleden of medewerkers bevoegd zijn, binnen en buiten de inrichting, jegens een jeugdige geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden, en van welk geweldsmiddel dan wel vrijheidsbeperkend middel daarbij gebruik mag worden gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=3&z=2026-02-05&g=2026-02-05) kunnen de in [artikel 1, onder g, sub 1](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=1&artikel=1&z=2026-02-05&g=2026-02-05) en 2 genoemde geweldsmiddelen met toestemming van de directeur of de selectiefunctionaris uitsluitend worden toegepast door personeelsleden of medewerkers:
 
@@ -102,13 +126,13 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&par
 
 #### Paragraaf 3. De eenheid
 
-#### Artikel 7
+##### Artikel 7
 
 1. De directeur of het daartoe door hem aangewezen personeelslid of medewerker kan de eenheid inzetten.
 
 2. Het personeelslid of medewerker zet de eenheid slechts in na toestemming van de directeur.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het gebruik van CS-traangas is slechts geoorloofd in opdracht van de directeur.
 
@@ -122,7 +146,7 @@ In afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&par
 
 #### Paragraaf 4. Het gebruik van een vuurwapen
 
-#### Artikel 9
+##### Artikel 9
 
 Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
@@ -132,11 +156,11 @@ Het gebruik van een semi-automatisch pistool is slechts geoorloofd:
 
 - c. ter afwending van direct gevaar voor het leven van personen of het ontstaan van zwaar lichamelijk letsel.
 
-#### Artikel 10
+##### Artikel 10
 
 Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2026-02-05&g=2026-02-05) bevoegd is tot het gebruik van een vuurwapen, mag in verband met zijn eigen veiligheid of die van anderen slechts uit voorzorg een vuurwapen ter hand nemen, indien redelijkerwijs kan worden aangenomen dat een situatie ontstaat waarin hij bevoegd is het vuurwapen te gebruiken. Zodra blijkt dat een dergelijke situatie zich niet voordoet, wordt het vuurwapen terstond opgeborgen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0012745&paragraaf=2&artikel=6&z=2026-02-05&g=2026-02-05) bevoegd is tot het gebruik van een vuurwapen geeft onmiddellijk, voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze een waarschuwing dat geschoten zal worden. De waarschuwing kan worden vervangen door een waarschuwingsschot, wanneer omstandigheden de waarschuwing niet toelaten.
 
@@ -144,7 +168,7 @@ Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.over
 
 #### Paragraaf 5. Meldplicht
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het personeelslid of de medewerker die geweld heeft gebruikt, of vrijheidsbeperkende middelen heeft aangewend, of een geweldsmiddel heeft gebruikt, meldt dit onverwijld schriftelijk aan de directeur of selectiefunctionaris. De schriftelijke melding dient duidelijkheid te verschaffen over de redenen, die tot het aanwenden van geweld hebben geleid, de daaruit voortvloeiende gevolgen en op wiens last dit aanwenden van geweld heeft plaatsgevonden.
 
@@ -162,17 +186,17 @@ Het personeelslid of de medewerker die krachtens [artikel 6](https://wetten.over
 
 #### Paragraaf 5. Meldplicht
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking op 1 september 2001.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling geweldsinstructie justitiële jeugdinrichtingen.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Het gebruik van pepperspray is slechts geoorloofd voor zover dit noodzakelijk is ter aanhouding van een jeugdige indien redelijkerwijs mag worden aangenomen dat hij ernstig geweld tegen personen zal gebruiken.
 
@@ -198,7 +222,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Het gebruik van een semi-automatisch schoudervuurwapen is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 

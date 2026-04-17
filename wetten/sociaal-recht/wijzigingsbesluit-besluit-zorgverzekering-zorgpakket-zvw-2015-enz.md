@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit zorgverzekering (zorgpakket Zvw 2015), enz."
+title: "Besluit van 15 oktober 2014, houdende wijziging van het Besluit zorgverzekering in verband met het zorgpakket Zvw 2015 en wijziging van het Besluit zorgverzekering BES in verband met het zorgpakket BES 2015"
 identifier: "BWBR0035727"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035727"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035727"
+soort: "AMvB"
+stam_id: "12829813"
+version_id: "21795582"
+internal_id: "C31281531"
+label_id: "12799414"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035727/2015-01-01/0"
+intitule_bron: "Stb.2014-417"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-15"
+intitule_published: "2014-11-06"
+intitule_in_force: "2014-11-06"
+intitule_status: "goed"
+original_publication: "Stb.2014-417"
+original_signed_date: "2014-10-15"
+original_published_date: "2014-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-417"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035727&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035727&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit zorgverzekering (zorgpakket Zvw 2015), enz."
+signed_date: "2014-10-15"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 15 oktober 2014, houdende wijziging van het Besluit zorgverzekering in verband met het zorgpakket Zvw 2015 en wijziging van het Besluit zorgverzekering BES in verband met het zorgpakket BES 2015
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2014, 643290-123616-Z;
@@ -20,27 +46,27 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit zorgverzekering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit zorgverzekering BES.
 
-#### Artikel IV
+##### Artikel IV
 
 Een instelling die op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=5) uiterlijk op 31 december 2014 is toegelaten voor persoonlijke verzorging als bedoeld in [artikel 1.2, onderdeel 17, van het Uitvoeringsbesluit WTZi](https://wetten.overheid.nl/jci1.3:c:BWBR0018983&artikel=1.2) of voor verpleging als bedoeld in artikel 1.2, onderdeel 18, van dat besluit, is met ingang van 1 januari 2015 toegelaten voor verpleging en verzorging als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.10).
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit zorgverzekering.
 
-#### Artikel IV*
+##### Artikel IV*
 
 Dit besluit treedt in werking met ingang van 1 januari 2015.
 

@@ -1,20 +1,45 @@
 ---
 title: "Besluit gedifferentieerde premie Whk 2023"
 identifier: "BWBR0047092"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047092"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047092"
+soort: "zbo"
+stam_id: "16470213"
+version_id: "28857242"
+internal_id: "C40859261"
+label_id: "16392324"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047092/2023-01-01/0"
+intitule_bron: "Stcrt.2022-22255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-12"
+intitule_published: "2022-09-01"
+intitule_in_force: "2022-09-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-22255"
+original_signed_date: "2022-07-12"
+original_published_date: "2022-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-22255"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047092&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047092&g=2023-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-07-12"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit gedifferentieerde premie Whk 2023
 
 Gelet op [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) (Wfsv) en [artikel 2.10 lid 3 van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=2.10);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de berekening van de gedifferentieerde premie op grond[artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2023 worden voor alle takken van bedrijf en beroep de navolgende algemeen geldende parameters vastgesteld:
 
@@ -23,7 +48,7 @@ Voor de berekening van de gedifferentieerde premie op grond[artikel 38 van de We
 | Grens kleine/middelgrote werkgever | € 905.000 |
 | Grens middelgrote/grote werkgever | € 3.620.000 |
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2023 worden voor de premiecomponent WGA voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -36,7 +61,7 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 | Correctiefactoren bij onvolledige periode werkgever 1 jaar bekend 2 jaar bekend 3 jaar bekend 4 jaar bekend | 5,00 2,50 1,66 1,25 |
 | Sectorale premies | Bijlage |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond van [artikel 38 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=38) over het jaar 2023 worden voor de premiecomponent ZW voor alle takken van bedrijf en beroep de volgende premies en parameters vastgesteld:
 
@@ -51,11 +76,11 @@ Voor de berekening van de gedifferentieerde premie Werkhervattingskas op grond v
 
 Voor werkgevers in sector 52 ‘Uitzendbedrijven’ geldt een afwijkende maximumpremie van 8,27%.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Besluit gedifferentieerde premie Whk 2023.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van 1 januari 2023.
 

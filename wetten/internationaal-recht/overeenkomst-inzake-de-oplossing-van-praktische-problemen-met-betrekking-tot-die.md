@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake de oplossing van praktische problemen met betrekking tot diepzeemijnbouwgebieden"
 identifier: "BWBV0002303"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-10-19
-laatste_update: 1988-10-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002303"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-10-19"
+last_updated: "1988-10-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002303"
+soort: "verdrag"
+stam_id: "10002773893"
+version_id: "10002773002"
+internal_id: "C10006980661"
+label_id: "10002761474"
+dtd_version: "2.0"
+original_entry_into_force: "1988-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002303/1988-10-19/0"
+intitule_bron: "Trb.1987-155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-09-19"
+intitule_published: "1987-10-21"
+intitule_in_force: "1988-11-04"
+intitule_status: "goed"
+original_publication: "Trb.1987-155"
+original_signed_date: "1988-09-19"
+original_published_date: "1987-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-155"
+entry_into_force_date: "1988-10-19"
+jci_1_3: "jci1.3:c:BWBV0002303&z=1988-10-19&g=1988-10-19"
+jci_1_0: "1.0:c:BWBV0002303&g=1988-10-19"
+citeertitel_status: "officieel"
+signed_date: "1988-09-19"
+entry_into_force: "1988-10-19"
 ---
-
 # Overeenkomst inzake de oplossing van praktische problemen met betrekking tot diepzeemijnbouwgebieden
 
 De Regering van het Koninkrijk der Nederlanden, de Regering van het Koninkrijk België, de Regering van Canada, de Regering van de Republiek Italië en de Regering van de Unie van Socialistische Sovjetrepublieken, hierna te noemen „de Partijen”,
@@ -20,35 +45,35 @@ en hiertoe besprekingen gevoerd hebbend tussen december 1986 en augustus 1987,
 
 zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 (1). De Partijen hebben overeenstemming bereikt omtrent de lijnen waarvan de coördinaten zijn aangegeven in de Bijlagen II, III en IV1)[Red: De Bijlagen I t/m IV zijn niet afgedrukt.] bij deze Overeenkomst, met het doel de praktische problemen op te lossen met betrekking tot de diepzeemijnbouwgebieden waarvan de coördinaten op 6 december 1986 in Moskou door de Partijen werden uitgewisseld en zijn aangegeven in Bijlage I1)[Red: De Bijlagen I t/m IV zijn niet afgedrukt.].
 
 (2). In deze Overeenkomst betekent „diepzeemijnbouwgebieden” de gebieden van de diepzeebodem bestemd voor de opsporing en ontginning van vaste minerale delfstoffen.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Partij eerbiedigt de overeengekomen oplossing van de praktische problemen, zoals aangegeven in de Bijlagen II, III en IV bij deze Overeenkomst.
 
-#### Artikel 3
+##### Artikel 3
 
 De Partijen handelen niet zelf, of tezamen met derden, op een wijze die registratie zou kunnen verhinderen van een aanvraag die is voorgelegd door een Partij aan de Voorbereidende Commissie van de Internationale Zeebodemautoriteit en van het Internationale Hof voor het Recht van de Zee, hierna te noemen „de Voorbereidende Commissie”, voor een gebied genoemd in de Bijlagen bij deze Overeenkomst, en die strookt met de eerbiediging van de gebieden gespecificeerd in de Bijlagen bij deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 (1). De Partijen handelen niet zelf, of tezamen met derden, op een wijze die zou kunnen leiden tot het scheppen van bijkomende praktische problemen met betrekking tot de diepzeemijnbouwgebieden, bedoeld in de Bijlagen bij deze Overeenkomst.
 
 (2). Dienovereenkomstig, zullen de Partijen zich niet bezighouden met of steun geven aan diepzeemijnbouw in, noch registratie nastreven of ondersteunen in de Voorbereidende Commissie voor, een diepzeemijnbouwgebied op een wijze die niet strookt met de eerbiediging van de gebieden gespecificeerd in de Bijlagen bij deze Overeenkomst.
 
-#### Artikel 5
+##### Artikel 5
 
 De Partijen nemen alle maatregelen in overeenstemming met internationaal recht en bestaande wetgeving, ten einde te verzekeren dat er geen materiële inmenging plaats vindt van elkaars werkzaamheden betrekking hebbend op de opsporing en ontginning van vaste minerale delfstoffen in de diepzeemijnbouwgebieden, bedoeld in de Bijlagen bij deze Overeenkomst.
 
-#### Artikel 6
+##### Artikel 6
 
 Zo nodig plegen de Partijen overleg omtrent vraagstukken die verband houden met de uitvoering van deze Overeenkomst.
 
-#### Artikel 7
+##### Artikel 7
 
 (1). Deze Overeenkomst treedt in werking op de datum van ondertekening en blijft van kracht totdat de Partijen anders overeenkomen. De Bijlagen bij deze Overeenkomst vormen een integrerend onderdeel ervan.
 

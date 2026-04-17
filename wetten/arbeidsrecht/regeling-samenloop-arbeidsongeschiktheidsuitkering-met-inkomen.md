@@ -1,13 +1,39 @@
 ---
-title: "Regeling samenloop arbeidsongeschiktheidsuitkering met inkomen"
+title: "Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid"
 identifier: "BWBR0006468"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006468"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006468"
+soort: "ministeriele-regeling"
+stam_id: "4974063"
+version_id: "22481952"
+internal_id: "C32263821"
+label_id: "4950994"
+dtd_version: "2.0"
+original_entry_into_force: "2015-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006468/2024-01-01/0"
+intitule_bron: "Stcrt.1994-34"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-02-15"
+intitule_published: "1994-02-17"
+intitule_in_force: "1994-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17549"
+original_signed_date: "2015-06-22"
+original_published_date: "2015-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-17549"
+entry_into_force_date: "2015-06-22"
+jci_1_3: "jci1.3:c:BWBR0006468&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0006468&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling samenloop arbeidsongeschiktheidsuitkering met inkomen"
+signed_date: "2015-06-22"
+entry_into_force: "2015-06-22"
 ---
-
 # Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid
 
 Gelezen de adviezen van de Sociale Verzekeringsraad van 4 juni 1992, nr. 922639, van 18 maart 1993, nr. 931476 en van 21 oktober 1993, nr. 935086;
@@ -16,7 +42,7 @@ Gelet op artikel 33, vijfde en zesde lid, van de Algemene Arbeidsongeschiktheids
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 - 8°. uitkeringen en inkomensvoorzieningen op grond van de [Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656) en de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657) en arbeidsongeschiktheidsuitkeringen, die daarmee naar hun strekking overeenkomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onder loon als bedoeld in de [artikelen 44, tweede lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) en [58, tweede lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) wordt verstaan het loon in de zin van [artikel 16 van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=16) voor de werknemer in de zin van die wet, met uitzondering van:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 8. Bij de vaststelling van het loon worden het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantiebijslag en de in die tijdvakken opgebouwde looncomponenten ten behoeve van een arbeidsvoorwaardenbedrag als bedoeld in [artikel 1:1 van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=1:1) in aanmerking genomen, waarbij het betaalde bedrag aan vakantiebijslag en de uitbetaalde looncomponenten ten laste van een arbeidsvoorwaardenbedrag in die tijdvakken niet in aanmerking worden genomen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het aan de persoon uit te betalen bedrag aan arbeidsongeschiktheidsuitkering, bedoeld in de [artikelen 2, derde, vierde, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2024-01-01&g=2024-01-01) en [2a, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2024-01-01&g=2024-01-01), wordt niet verder beperkt dan tot het volle bedrag van de arbeidsongeschiktheidsuitkering, verminderd met het bedrag van een in artikel 2, vierde lid, of artikel 2a, vierde lid, bedoelde uitkering dan wel het op grond van [artikel 629 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=629) ontvangen loon.
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 - c. waarin het pensioen, prepensioen of verlof, bedoeld in [artikel 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2024-01-01&g=2024-01-01) of [artikel 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2024-01-01&g=2024-01-01), aanving.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ten aanzien van de persoon:
 
@@ -124,15 +150,15 @@ In deze regeling wordt verstaan onder:
 
 5. Aan de in het eerste lid bedoelde persoon wordt geen hoger bedrag aan arbeidsonge-schiktheidsuitkering uitbetaald dan het bedrag aan arbeidsongeschiktheidsuitkering dat tot uitbetaling zou zijn gekomen als [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) of [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) op die persoon niet van toepassing zouden zijn geweest.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien [artikel 4, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2024-01-01&g=2024-01-01), van toepassing is, is [artikel 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) of [artikel 58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) voor onbeperkte duur van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 De [artikelen 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2024-01-01&g=2024-01-01), en [2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof de artikelen 2, zevende lid, en 2a, vijfde lid, buiten toepassing blijven tot het einde van die verlofperiode.
 
-#### Artikel 7
+##### Artikel 7
 
 De [artikelen 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2&z=2024-01-01&g=2024-01-01), en [2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=2a&z=2024-01-01&g=2024-01-01), zijn niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3) is aangegaan en die:
 
@@ -140,23 +166,23 @@ De [artikelen 2, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&ar
 
 - b. in de periode van 1 mei 2009 tot 1 juli 2012 de normpensioenleeftijd, bedoeld in artikel 1.1, onderdeel B, van het Pensioenreglement SW (in werking getreden op 1 januari 2006 en laatstelijk gewijzigd op 7 maart 2008) bereikt en op of na 1 juli 2012 prepensioen gaat ontvangen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze regeling, zoals die luidde op de dag voor inwerkingtreding van de regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 december 2011, nr IVV/I/2011/22179, blijft van toepassing op de persoon op wie [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) of [artikel 58 van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) van toepassing was op die dag tot het moment dat dat artikel niet meer van toepassing is.
 
 2. Ten aanzien van de persoon, bedoeld in het eerste lid, wordt tot het tijdstip, bedoeld in het eerste lid voor ‘inkomsten uit arbeid’ gelezen: inkomen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling samenloop arbeidsongeschiktheidsuitkering met inkomen.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 1993.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ten aanzien van de persoon:
 
@@ -182,25 +208,25 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Aan de in het eerste lid bedoelde persoon wordt geen hoger bedrag aan arbeidsonge-schiktheidsuitkering uitbetaald dan het bedrag aan arbeidsongeschiktheidsuitkering dat tot uitbetaling zou zijn gekomen als [artikel 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [artikel 58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) of [artikel 3:48 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) op die persoon niet van toepassing zouden zijn geweest.
 
-#### Artikel 12
+##### Artikel 12
 
 Het [tweede lid van de artikelen 44 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44), [58 van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) en [3:48 van de Wet Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:48) is niet van toepassing op de persoon, bedoeld in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=7&z=2010-01-01&g=2010-01-01), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=8&z=2010-01-01&g=2010-01-01) en [11, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=11&z=2010-01-01&g=2010-01-01), voor zolang laatstgenoemde artikelleden op die persoon van toepassing zijn.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 augustus 1993.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2010-01-01&g=2010-01-01), is niet van toepassing op uitkeringen die zijn verleend voor de datum van inwerkingtreding van de Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 6 april 2009, nr. IVV/I/09/5652 tot wijziging van de Regeling samenloop arbeidsongeschiktheidsuitkering met inkomsten uit arbeid in verband met de bepaling van inkomsten uit arbeid tijdens een verlofperiode (Stcrt. 2009, 81) als degene die recht heeft op een arbeidsongeschiktheidsuitkering met verlof is dan wel pensioen of prepensioen ontvangt, met dien verstande dat in geval van verlof [artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2010-01-01&g=2010-01-01), buiten toepassing blijft tot het einde van die verlofperiode.
 
-#### Artikel 12b
+##### Artikel 12b
 
 [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006468&artikel=4&z=2010-01-01&g=2010-01-01), is niet van toepassing op de werknemer die een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2) of [3 van de Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=3) is aangegaan en die:
 
@@ -208,7 +234,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - b. in de periode van 1 mei 2009 tot 1 juli 2012 de normpensioenleeftijd, bedoeld in artikel 1.1, onderdeel B, van het Pensioenreglement SW (in werking getreden op 1 januari 2006 en laatstelijk gewijzigd op 7 maart 2008) bereikt en op of na 1 juli 2012 prepensioen gaat ontvangen.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onder inkomen als bedoeld in de [artikelen 44, eerste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) en [58, eerste lid, van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58) wordt verstaan:
 
@@ -252,6 +278,6 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. Bij de vaststelling van het inkomen wordt het in de relevante aangiftetijdvakken opgebouwde bedrag aan vakantiebijslag en de in die tijdvakken opgebouwde looncomponenten ten behoeve van een arbeidsvoorwaardenbedrag als bedoeld in [artikel 1:1 van het Algemeen inkomensbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0029368&artikel=1:1) in aanmerking, waarbij het betaalde bedrag aan vakantiebijslag en de uitbetaalde looncomponenten ten laste van een arbeidsvoorwaardenbedrag in die tijdvakken niet in aanmerking worden genomen.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Deze regeling berust op de [artikelen 44, achtste lid, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=44) en [58, zevende lid van de Waz](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=58).

@@ -1,13 +1,39 @@
 ---
-title: "Besluit deskundigheidsgebied heilgymnast-masseur"
+title: "Besluit van 22 augustus 1997, houdende regels inzake de deskundigheid van de heilgymnast-masseur (Besluit deskundigheidsgebied heilgymnast-masseur)"
 identifier: "BWBR0008883"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-01
-laatste_update: 1997-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008883"
+country: "nl"
+rank: "amvb"
+publication_date: "1997-12-01"
+last_updated: "1997-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008883"
+soort: "AMvB"
+stam_id: "630783"
+version_id: "915592"
+internal_id: "C915591"
+label_id: "611904"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008883/1997-12-01/0"
+intitule_bron: "Stb.1997-495"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-08-22"
+intitule_published: "1997-11-04"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-495"
+original_signed_date: "1997-08-22"
+original_published_date: "1997-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-495"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0008883&z=1997-12-01&g=1997-12-01"
+jci_1_0: "1.0:c:BWBR0008883&g=1997-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit deskundigheidsgebied heilgymnast-masseur"
+signed_date: "1997-08-22"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 22 augustus 1997, houdende regels inzake de deskundigheid van de heilgymnast-masseur (Besluit deskundigheidsgebied heilgymnast-masseur)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 13 mei 1997, CSZ/BO-976968;
@@ -22,13 +48,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
 #### § 2. Deskundigheid
 
-#### Artikel 2
+##### Artikel 2
 
 1. De tot het gebied van deskundigheid van de heilgymnast-masseur te rekenen handelingen, bedoeld in artikel 108, derde lid, van de wet, omvatten het:
 
@@ -42,17 +68,17 @@ In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de indivi
 
 3. De massagetherapie, bedoeld in het eerste lid, onder **b**, omvat het methodisch toepassen van specifieke handgrepen aan het lichaam van de patiënt.
 
-#### Artikel 3
+##### Artikel 3
 
 De verwijzing geschiedt schriftelijk, is gedateerd en ondertekend door de betrokken arts en bevat ten minste de door deze, voor het door de heilgymnast-masseur onderzoeken en behandelen van de patiënt, relevant geachte diagnostische gegevens.
 
 #### § 3. Slotbepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit deskundigheidsgebied heilgymnast-masseur.
 

@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels Buitengewoon Opsporingsambtenaar"
 identifier: "BWBR0039766"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039766"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039766"
+soort: "beleidsregel"
+stam_id: "14062223"
+version_id: "28872842"
+internal_id: "C40878131"
+label_id: "14024274"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039766/2025-10-01/0"
+intitule_bron: "Stcrt.2017-36058"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-07-10"
+intitule_in_force: "2017-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-24259"
+original_signed_date: "2022-09-08"
+original_published_date: "2022-09-08"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-24259"
+entry_into_force_date: "2022-09-09"
+jci_1_3: "jci1.3:c:BWBR0039766&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0039766&g=2025-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2022-09-08"
+entry_into_force: "2022-09-09"
 ---
-
 # Beleidsregels Buitengewoon Opsporingsambtenaar
 
 ### 1. Inleiding

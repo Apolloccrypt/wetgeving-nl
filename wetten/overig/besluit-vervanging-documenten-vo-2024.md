@@ -1,13 +1,38 @@
 ---
 title: "Besluit vervanging documenten V&O 2024"
 identifier: "BWBR0049678"
-categorie: "Overig"
-publicatiedatum: 2024-05-09
-laatste_update: 2024-05-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049678"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-05-09"
+last_updated: "2024-05-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049678"
+soort: "zbo"
+stam_id: "17098513"
+version_id: "30091642"
+internal_id: "C43117651"
+label_id: "17007264"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049678/2024-05-09/0"
+intitule_bron: "Stcrt.2024-14894"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-22"
+intitule_published: "2024-05-08"
+intitule_in_force: "2024-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-14894"
+original_signed_date: "2024-04-22"
+original_published_date: "2024-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-14894"
+entry_into_force_date: "2024-05-09"
+jci_1_3: "jci1.3:c:BWBR0049678&z=2024-05-09&g=2024-05-09"
+jci_1_0: "1.0:c:BWBR0049678&g=2024-05-09"
+citeertitel_status: "officieel"
+signed_date: "2024-04-22"
+entry_into_force: "2024-05-09"
 ---
-
 # Besluit vervanging documenten V&O 2024
 
 gelet op:
@@ -24,7 +49,7 @@ Verklaring van vervreemding archieven PUR d.d. 22 december 2011
 
 besluit
 
-#### Artikel 1
+##### Artikel 1
 
 1. De digitale vervanging van archiefbescheiden heeft, met terugwerkende kracht, betrekking op:
 
@@ -42,19 +67,19 @@ Alle documenten vanaf 1 april 2021 zijn volledig conform het Handboek Vervanging
 
 - b. bescheiden die krachtens verdragen of op grond van wettelijke bepalingen in hun oorspronkelijke vorm moeten worden bewaard.
 
-#### Artikel 2
+##### Artikel 2
 
 De archiefbescheiden worden, na vervanging, opgenomen in het workflow management systeem (WMS), op de wijze omschreven in het Handboek Vervanging analoge documenten Directie Zorg en Welzijn / Verzetsdeelnemers en Oorlogsgetroffenen, SVB.
 
-#### Artikel 3
+##### Artikel 3
 
 De vervangen archiefbescheiden zullen na een periode van 6 maanden worden vernietigd.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit zal worden aangehaald als: Besluit vervanging documenten V&O 2024.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin deze wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Besluit Lucratief belang in internationale situaties"
 identifier: "BWBR0045878"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-11-24
-laatste_update: 2021-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045878"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-11-24"
+last_updated: "2021-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045878"
+soort: "beleidsregel"
+stam_id: "16147733"
+version_id: "28175192"
+internal_id: "C39723161"
+label_id: "16076914"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045878/2021-11-24/0"
+intitule_bron: "Stcrt.2021-46689"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-16"
+intitule_published: "2021-11-23"
+intitule_in_force: "2021-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-46689"
+original_signed_date: "2021-11-16"
+original_published_date: "2021-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-46689"
+entry_into_force_date: "2021-11-24"
+jci_1_3: "jci1.3:c:BWBR0045878&z=2021-11-24&g=2021-11-24"
+jci_1_0: "1.0:c:BWBR0045878&g=2021-11-24"
+citeertitel_status: "officieel"
+signed_date: "2021-11-16"
+entry_into_force: "2021-11-24"
 ---
-
 # Besluit Lucratief belang in internationale situaties
 
 **De Staatssecretaris van Financiën heeft het volgende besloten**

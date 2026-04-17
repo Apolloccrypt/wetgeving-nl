@@ -1,32 +1,58 @@
 ---
-title: "Besluit wijziging subsidie-gerelateerde regelingen en besluiten Ministerie van Infrastructuur en Milieu"
+title: "Wijziging diverse subsidie-gerelateerde regelingen en besluiten van het Ministerie van Infrastructuur en Milieu"
 identifier: "BWBR0029804"
-categorie: "Milieu"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029804"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029804"
+soort: "ministeriele-regeling"
+stam_id: "11287223"
+version_id: "18490002"
+internal_id: "C25801291"
+label_id: "11261244"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029804/2011-07-01/0"
+intitule_bron: "Stcrt.2011-5973"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-03-29"
+intitule_published: "2011-04-04"
+intitule_in_force: "2011-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-5973"
+original_signed_date: "2011-03-29"
+original_published_date: "2011-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-5973"
+entry_into_force_date: "2011-04-05"
+jci_1_3: "jci1.3:c:BWBR0029804&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0029804&g=2011-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit wijziging subsidie-gerelateerde regelingen en besluiten Ministerie van Infrastructuur en Milieu"
+signed_date: "2011-03-29"
+entry_into_force: "2011-04-05"
 ---
-
 # Wijziging diverse subsidie-gerelateerde regelingen en besluiten van het Ministerie van Infrastructuur en Milieu
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit mandaat en machtiging Agentschap NL voor uitvoering subsidieregelingen en -programma’s Verkeer en Waterstaat.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit vaststelling Subsidieprogramma Innovatieprogramma Kaderrichtlijn Water.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Tijdelijke regeling eenmalige uitkering stedelijke synergieprojecten kaderrichtlijn water.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Tijdelijke subsidieregeling Inland AIS-apparaten binnenvaart.
 
-#### Artikel V
+##### Artikel V
 
 De volgende regelingen en besluiten worden ingetrokken, met dien verstande dat bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen en besluiten in stand blijven, en deze regelingen en besluiten van toepassing blijven op subsidies die voor de inwerkingtreding van deze regeling zijn verleend of vastgesteld:
 
@@ -86,7 +112,7 @@ De volgende regelingen en besluiten worden ingetrokken, met dien verstande dat b
 
 - –. [Besluit programma MobiliteitsManagement 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020254).
 
-#### Artikel VI
+##### Artikel VI
 
 Deze regeling treedt in werking met ingang van 1 juli 2011 met uitzondering van artikel IV, dat in werking treedt met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en terugwerkt tot en met 2 december 2009.
 

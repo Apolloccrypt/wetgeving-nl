@@ -1,13 +1,38 @@
 ---
-title: "Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen"
+title: "Besluit van 16 juni 2004, houdende regeling betreffende het vervallen van de causaliteitseis voor de toekenning van een vergoeding van of tegemoetkoming in de kosten van voorzieningen en het voortzetten van een vergoeding van of tegemoetkoming in de kosten van voorzieningen na het overlijden van de gerechtigde in de wetten voor oorlogsgetroffenen (Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen)"
 identifier: "BWBR0016871"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-06-30
-laatste_update: 2004-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016871"
+country: "nl"
+rank: "amvb"
+publication_date: "2004-06-30"
+last_updated: "2004-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016871"
+soort: "AMvB"
+stam_id: "5933773"
+version_id: "10514732"
+internal_id: "C29460711"
+label_id: "5923424"
+original_entry_into_force: "2004-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016871/2004-06-30/0"
+intitule_bron: "Stb.2004-282"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-06-16"
+intitule_published: "2004-06-29"
+intitule_in_force: "2004-06-29"
+intitule_status: "goed"
+original_publication: "Stb.2004-282"
+original_signed_date: "2004-06-16"
+original_published_date: "2004-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-282"
+entry_into_force_date: "2004-06-30"
+jci_1_3: "jci1.3:c:BWBR0016871&z=2004-06-30&g=2004-06-30"
+jci_1_0: "1.0:c:BWBR0016871&g=2004-06-30"
+citeertitel_status: "officieel"
+short_title: "Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen"
+signed_date: "2004-06-16"
+entry_into_force: "2004-06-30"
 ---
-
 # Besluit van 16 juni 2004, houdende regeling betreffende het vervallen van de causaliteitseis voor de toekenning van een vergoeding van of tegemoetkoming in de kosten van voorzieningen en het voortzetten van een vergoeding van of tegemoetkoming in de kosten van voorzieningen na het overlijden van de gerechtigde in de wetten voor oorlogsgetroffenen (Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen)
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 3 mei 2004, kenmerk OHW-U-2475721;
@@ -20,7 +45,7 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het vervallen van de causaliteitseis, bedoeld in [artikel 11a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11a), [artikel 3, zevende lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3) en [artikel 15, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=15), heeft betrekking op:
 
@@ -30,7 +55,7 @@ Hebben goedgevonden en verstaan:
 
 2. De vergoeding, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het vervallen van de causaliteitseis, bedoeld in [artikel 21a, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21a) en [artikel 33a, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=33a), heeft betrekking op:
 
@@ -44,7 +69,7 @@ Hebben goedgevonden en verstaan:
 
 2. De vergoeding of de tegemoetkoming, genoemd in het eerste lid, wordt alleen toegekend indien hiertoe een medische noodzaak of medisch-sociale wenselijkheid bestaat en de gerechtigde de leeftijd van 70 jaar heeft bereikt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De voortzetting, bedoeld in [artikel 11a, derde lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=11a), [artikel 3, achtste lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=3), [artikel 15, derde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=15), [artikel 21a, derde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=21a) en [artikel 33a, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=33a), heeft betrekking op de door de overleden partner gedurende een jaar voor het overlijden ontvangen:
 
@@ -64,7 +89,7 @@ Hebben goedgevonden en verstaan:
 
 2. De in het eerste lid, onder a tot en met g, genoemde vergoeding of tegemoetkoming wordt ook voortgezet indien de toekenning daarvan met terugwerkende kracht over het jaar voorafgaand aan het overlijden van de partner heeft plaatsgevonden en er gedurende dat jaar ter zake daadwerkelijk kosten zijn gemaakt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, eerste lid, onder a tot en met d](https://wetten.overheid.nl/jci1.3:c:BWBR0016871&artikel=3&z=2004-06-30&g=2004-06-30), genoemde vergoeding of tegemoetkoming wordt gedurende 3 maanden voortgezet.
 
@@ -84,11 +109,11 @@ Hebben goedgevonden en verstaan:
 
 9. Wanneer zich een omstandigheid als bedoeld in het vijfde, zesde, zevende of achtste lid voordoet, wordt de vergoeding of de tegemoetkoming beëindigd met ingang van de eerste dag van de maand volgend op de maand waarin zich deze omstandigheid voordoet.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2001.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit vervallen causaliteit en voortzetting voorzieningen wetten voor oorlogsgetroffenen.
 

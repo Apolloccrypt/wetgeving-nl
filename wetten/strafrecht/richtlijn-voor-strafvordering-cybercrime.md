@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering cybercrime"
 identifier: "BWBR0040543"
-categorie: "Strafrecht"
-publicatiedatum: 2018-02-01
-laatste_update: 2018-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040543"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2018-02-01"
+last_updated: "2018-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040543"
+soort: "beleidsregel"
+stam_id: "14514873"
+version_id: "24843092"
+internal_id: "C35540861"
+label_id: "14473064"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040543/2018-02-01/0"
+intitule_bron: "Stcrt.2018-3271"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-01-31"
+intitule_in_force: "2018-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-3271"
+original_published_date: "2018-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-3271"
+entry_into_force_date: "2018-02-01"
+jci_1_3: "jci1.3:c:BWBR0040543&z=2018-02-01&g=2018-02-01"
+jci_1_0: "1.0:c:BWBR0040543&g=2018-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-02-01"
 ---
-
 # Richtlijn voor strafvordering cybercrime
 
 De computer en het internet zijn niet meer weg te denken uit onze samenleving. Deze nieuwe technologie heeft het dagelijks leven veranderd. Steeds meer voorwerpen zijn aangesloten op het internet (Internet of Things, IoT) en kunnen gegevens uitwisselen. Dit brengt kansen voor criminelen en daarmee veiligheidsrisico’s voor burgers, bedrijven en overheidspartijen met zich mee. Het aantal gevallen van cybercrime blijft toenemen. Computers worden niet alleen als middel ingezet, maar zijn ook doelwit van aanvallen. Dankzij de technologische mogelijkheden kunnen cybercriminelen in korte tijd vanaf elke plek ter wereld grote aantallen slachtoffers maken. Om een veilig digitaal domein te creëren en effectief tegen cybercrime te kunnen optreden, is een zichtbare, integrale en toekomstgerichte aanpak nodig.

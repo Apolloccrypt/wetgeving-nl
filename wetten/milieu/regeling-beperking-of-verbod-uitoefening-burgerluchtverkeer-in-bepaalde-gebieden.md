@@ -1,13 +1,38 @@
 ---
 title: "Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018"
 identifier: "BWBR0040730"
-categorie: "Milieu"
-publicatiedatum: 2026-01-22
-laatste_update: 2026-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040730"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-22"
+last_updated: "2026-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040730"
+soort: "ministeriele-regeling"
+stam_id: "14570063"
+version_id: "24940732"
+internal_id: "C35668801"
+label_id: "14523774"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040730/2026-01-22/0"
+intitule_bron: "Stcrt.2018-15342"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-12"
+intitule_published: "2018-03-20"
+intitule_in_force: "2018-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-15342"
+original_signed_date: "2018-03-12"
+original_published_date: "2018-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-15342"
+entry_into_force_date: "2018-03-29"
+jci_1_3: "jci1.3:c:BWBR0040730&z=2026-01-22&g=2026-01-22"
+jci_1_0: "1.0:c:BWBR0040730&g=2026-01-22"
+citeertitel_status: "officieel"
+signed_date: "2018-03-12"
+entry_into_force: "2018-03-29"
 ---
-
 # Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018
 
 Handelende in overeenstemming met de Minister van Infrastructuur en Waterstaat,
@@ -16,7 +41,7 @@ Gelet op [artikel 5.10, eerste en tweede lid, van de Wet luchtvaart](https://wet
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +79,7 @@ In deze regeling wordt verstaan onder:
 
 - **RPAS:** remotely piloted aircraft system, op afstand bestuurd luchtvaartuig (remotely piloted aircraft, RPA), onbemand, niet zijnde een modelluchtvaartuig, het daarbij horend grondstation, het vereiste besturingssysteem en andere in het type-ontwerp gespecificeerde componenten.
 
-#### Artikel 2. Militaire oefengebieden
+##### Artikel 2. Militaire oefengebieden
 
 1. Burgerluchtverkeer is verboden in het volgende gebied:
 
@@ -278,7 +303,7 @@ tot 1.500 ft AMSL.
 
 8. In de gebieden EHR 4 en EHR 4B wordt aan de gezagvoerders van militaire vliegtuigen, voor zover voor de militaire oefening noodzakelijk, vrijstelling verleend van het verbod om een VFR-vlucht uit te voeren beneden de bij of krachtens paragraaf SERA.5005, onderdeel (f), van verordening (EU) nr. 923/2012 vastgestelde minimum vlieghoogte.
 
-#### Artikel 3. Gebieden ten behoeve van de Nationale Dodenherdenking op 4 mei
+##### Artikel 3. Gebieden ten behoeve van de Nationale Dodenherdenking op 4 mei
 
 1. Ten behoeve van de Nationale Dodenherdenking op 4 mei is om redenen van openbare orde en veiligheid en ongewenste beïnvloeding van gebeurtenissen op de grond het uitoefenen van het burgerluchtverkeer jaarlijks op 4 mei verboden in de volgende gebieden gedurende de daarbij aangegeven periode:
 
@@ -296,7 +321,7 @@ tot 1.500 ft AMSL.
 
 2. Het uitoefenen van het burgerluchtverkeer in de in het eerste lid genoemde gebieden is tevens verboden wanneer herdenkingen en kransleggingen plaatsvinden gedurende andere perioden dan in het eerste lid aangegeven, indien dat per NOTAM bekend is gemaakt en alleen gedurende de periode die in de NOTAM is genoemd.
 
-#### Artikel 4. Gebieden ten behoeve van de herdenkingen op 15 augustus en 4 oktober en ten behoeve van ceremoniële langsvluchten
+##### Artikel 4. Gebieden ten behoeve van de herdenkingen op 15 augustus en 4 oktober en ten behoeve van ceremoniële langsvluchten
 
 1. Ten behoeve van de herdenking op 15 augustus is om redenen van openbare orde en veiligheid en ongewenste beïnvloeding van gebeurtenissen op de grond het uitoefenen van het burgerluchtverkeer jaarlijks op 15 augustus verboden binnen het gebied EHTSA 20 (Den Haag/Indisch monument), begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 52°55'49.00"N 004°17'33.00"E tot 3.000 ft AMSL, van 19.00 tot 23.00 uur plaatselijke tijd.
 
@@ -320,7 +345,7 @@ tot 1.500 ft AMSL.
 
 7. Het verbod, genoemd in het zesde lid, geldt slechts, indien dat per NOTAM bekend is gemaakt en gedurende de periode die in de NOTAM is genoemd.
 
-#### Artikel 5. Gebieden ter bescherming van de nationale veiligheid
+##### Artikel 5. Gebieden ter bescherming van de nationale veiligheid
 
 Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de volgende gebieden:
 
@@ -334,7 +359,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 - e. EHP 30 (Penitentiaire Inrichting Vught – onbemand) het gebied, begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°40’47.63" N005°15’46.80"E; 51°40’01.40" N005°16’28.04"E; 51°39’44.47" N005°16’54.41"E; 51°39’24.09" N005°16’22.09"E; 51°39’07.92" N005°15’59.56"E; 51°39’06.76" N005°16’03.57"E; 51°38’49.14" N005°15’19.25"E; 51°38’53.94" N005°15’01.29"E; 51°39’00.56" N005°14’46.44"E; 51°39’01.20" N005°14’43.63"E; 51°39’02.22" N005°14’33.07"E; 51°39’02.19" N005°14’30.00"E; 51°39’01.86" N005°14’26.98"E; 51°39’03.83" N005°14’22.29"E; 51°39’12.29" N005°14’08.90"E; 51°39’13.64" N005°14’07.02"E; 51°39’14.94" N005°14’06.65"E; 51°39’16.52" N005°14’06.70"E; 51°39’17.92" N005°14’07.37"E; 51°39’21.71" N005°14’10.53"E; 51°39’38.06" N005°14’19.53"E; 51°39’38.51" N005°14’16.61"E; 51°39’41.38" N005°14’07.50"E; 51°39’44.54" N005°14’00.83"E; 51°39’45.61" N005°14’00.93"E; 51°39’49.97" N005°13’57.53"E; 51°39’58.81" N005°13’59.53"E; 51°40’04.21" N005°14’01.39"E; 51°40’08.59" N005°14’04.18"E; 51°40’11.08" N005°14’06.88"E; 51°40’14.12" N005°14’06.71"E; 51°40’17.14" N005°14’10.03"E; 51°40’21.12" N005°14’12.73"E; 51°40’36.96" N005°14’23.86"E; terug naar beginpunt; tot 1500 ft ASML, dagelijks van 00.00 uur tot 24.00 uur lokale tijd.
 
-#### Artikel 6. Vluchten uitgezonderd van de verboden
+##### Artikel 6. Vluchten uitgezonderd van de verboden
 
 1. Het verbod, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2026-01-22&g=2026-01-22) (gebied EHR 3), is niet van toepassing op:
 
@@ -390,7 +415,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 7. Aan de gezagvoerders van luchtvaartuigen die ondersteuning leveren aan Defensie, kan door de autoriteiten, genoemd in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=7&z=2026-01-22&g=2026-01-22), toestemming worden gegeven gebruik te maken van de gebieden, genoemd in [artikel 2, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040730&artikel=2&z=2026-01-22&g=2026-01-22). Aan de toestemming kunnen voorschriften of beperkingen worden verbonden.
 
-#### Artikel 7. Coördinatie militaire oefeningen
+##### Artikel 7. Coördinatie militaire oefeningen
 
 1. De hierna volgende autoriteiten zijn verantwoordelijk voor de coördinatie van de militaire oefeningen in de genoemde gebieden:
 
@@ -404,7 +429,7 @@ Ter bescherming van de nationale veiligheid is burgerluchtverkeer verboden in de
 
 3. Naar de vorengenoemde gebieden kan worden verwezen met de lettercijfercombinatie die boven de beschrijving is gesteld.
 
-#### Artikel 8. Intrekking regelgeving
+##### Artikel 8. Intrekking regelgeving
 
 Ingetrokken worden:
 
@@ -414,11 +439,11 @@ Ingetrokken worden:
 
 - c. de [Regeling sluiting luchtruim nationale herdenkingen](https://wetten.overheid.nl/jci1.3:c:BWBR0036955).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 29 maart 2018.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2018.
 

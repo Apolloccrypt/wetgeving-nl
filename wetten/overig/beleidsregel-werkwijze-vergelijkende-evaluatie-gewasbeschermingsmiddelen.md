@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel werkwijze vergelijkende evaluatie gewasbeschermingsmiddelen"
+title: "Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 1 januari 2024, houdende de werkwijze voor de vergelijkende evaluatie gewasbeschermingsmiddelen"
 identifier: "BWBR0049107"
-categorie: "Overig"
-publicatiedatum: 2024-06-27
-laatste_update: 2024-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049107"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-06-27"
+last_updated: "2024-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049107"
+soort: "zbo"
+stam_id: "16973193"
+version_id: "29837952"
+internal_id: "C42769971"
+label_id: "16883664"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049107/2024-06-27/0"
+intitule_bron: "Stcrt.2023-35333"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-01-01"
+intitule_published: "2023-12-27"
+intitule_in_force: "2023-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35333"
+original_signed_date: "2024-01-01"
+original_published_date: "2023-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35333"
+entry_into_force_date: "2023-12-28"
+jci_1_3: "jci1.3:c:BWBR0049107&z=2024-06-27&g=2024-06-27"
+jci_1_0: "1.0:c:BWBR0049107&g=2024-06-27"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel werkwijze vergelijkende evaluatie gewasbeschermingsmiddelen"
+signed_date: "2024-01-01"
+entry_into_force: "2023-12-28"
 ---
-
 # Beleidsregel van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 1 januari 2024, houdende de werkwijze voor de vergelijkende evaluatie gewasbeschermingsmiddelen
 
 Het College voor de toelating van gewasbeschermingsmiddelen en biociden,
@@ -16,7 +42,7 @@ Gelet op artikel 50 van [Verordening (EG) nr. 1107/2009](32009R1107), in samenha
 
 **Besluit:**
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 - m. **Richtsnoer EPPO PP 1/213 (4):** Richtsnoer voor het analyseren van het risico op resistentie tegen gewasbeschermingsmiddelen;
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. Het Ctgb voert een vergelijkende evaluatie uit als bedoeld in artikel 50 lid 1 van [Verordening (EG) nr. 1107/2009](32009R1107) wanneer er een toelating in Nederland wordt aangevraagd van een gewasbeschermingsmiddel dat tenminste één kandidaat voor vervanging bevat. Deze beleidsregel geeft invulling aan de wijze waarop het Ctgb de vergelijkende evaluatie uitvoert.
 
@@ -62,7 +88,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 4. De vergelijkende evaluatie bestaat uit een landbouwkundige vergelijking zoals beschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049107&artikel=3&z=2024-06-27&g=2024-06-27) van deze beleidsregel en – indien van toepassing – een vergelijkende risicobeoordeling zoals beschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049107&artikel=4&z=2024-06-27&g=2024-06-27), en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0049107&artikel=5&z=2024-06-27&g=2024-06-27) van deze beleidsregel.
 
-#### Artikel 3. Werkwijze – de landbouwkundige vergelijking
+##### Artikel 3. Werkwijze – de landbouwkundige vergelijking
 
 1. Het doel van de landbouwkundige vergelijking is om overeenkomstig artikel 50 en Bijlage IV van [Verordening (EG) nr. 1107/2009](32009R1107) alle beschikbare volwaardige alternatieven voor het aangevraagde gebruik of de aangevraagde gebruiken van een middel te identificeren.
 
@@ -96,7 +122,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 9. Toegelaten gewasbeschermingsmiddelen op basis van een kandidaat voor vervanging worden niet bij voorbaat uitgesloten als volwaardig alternatief en tellen zo mee voor het aantal beschikbare werkingsmechanismen.
 
-#### Artikel 4. Werkwijze – de vergelijkende risicobeoordeling
+##### Artikel 4. Werkwijze – de vergelijkende risicobeoordeling
 
 1. Ingevolge artikel 50, eerste lid onder a en Bijlage IV, punt 2 van [Verordening (EG) nr. 1107/2009](32009R1107) wordt een vergelijkende risicobeoordeling uitgevoerd. De vergelijkende risicobeoordeling bepaalt of één van de volwaardige alternatieven aanzienlijk veiliger is.
 
@@ -122,7 +148,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 7. In [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0049107&bijlage=I&z=2024-06-27&g=2024-06-27) zijn de bovenstaande criteria uitgewerkt als de stappen die doorlopen worden tijdens de vergelijkende risicobeoordeling.
 
-#### Artikel 5. Werkwijze – risicobeperkende maatregelen
+##### Artikel 5. Werkwijze – risicobeperkende maatregelen
 
 1. Onder risicobeperkende maatregelen worden zowel de restrictiezinnen op het wettelijk gebruiksvoorschrift verstaan als de voorzorgsmaatregelen (P-zinnen) die voortkomen uit de risicobeoordeling. Uitgegaan wordt van de in Nederland geldende labels en wettelijke gebruiksvoorschriften.
 
@@ -136,7 +162,7 @@ Voor de toepassing van deze beleidsregel wordt verstaan onder:
 
 4. Indien de restrictiezinnen of voorzorgsmaatregelen op het moment van de uitvoering van de vergelijkende risicobeoordeling zijn opgenomen in algemene regelgeving worden deze buiten beschouwing gelaten.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Dit besluit wordt met toelichting in de Staatscourant geplaatst.
 

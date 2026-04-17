@@ -1,18 +1,43 @@
 ---
 title: "Circulaire bijzondere opsporingsgelden"
 identifier: "BWBR0036094"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036094"
+country: "nl"
+rank: "circulaire"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036094"
+soort: "circulaire"
+stam_id: "12930883"
+version_id: "22025112"
+internal_id: "C31582641"
+label_id: "12900064"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036094/2015-01-01/0"
+intitule_bron: "Stcrt.2014-37536"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-17"
+intitule_published: "2014-12-31"
+intitule_in_force: "2014-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-37536"
+original_signed_date: "2014-12-17"
+original_published_date: "2014-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-37536"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036094&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0036094&g=2015-01-01"
+citeertitel_status: "officieel"
+signed_date: "2014-12-17"
+entry_into_force: "2015-01-01"
 ---
-
 # Circulaire bijzondere opsporingsgelden
 
 Houdende regels van de Minister van Veiligheid en Justitie inzake het toekennen en beschikbaar stellen van gelden ten behoeve van de financiële beloning van informanten, burgerinfiltranten, burgerpseudokopers, burgerpseudodienstverleners, burgers met wie een overeenkomst ex [artikel 126v](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126v) of [126zt Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=126zt) is afgesloten en tipgevers, alsmede voor het toekennen en beschikbaar stellen van toon-, pseudokoop-, opkoop- en andere bijzondere gelden ter ondersteuning van de opsporing.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze Circulaire wordt verstaan onder:
 
@@ -82,7 +107,7 @@ In deze Circulaire wordt verstaan onder:
 
 - o. **Betrokken hoofdofficier van justitie:** De hoofdofficier van justitie onder wiens verantwoordelijkheid het desbetreffende strafrechtelijke onderzoek loopt of heeft gelopen, dan wel binnen wiens arrondissement een geval, waarop deze circulaire ziet, zich voordoet of heeft voorgedaan.
 
-#### Artikel 2. Soorten toe te kennen bijzondere opsporingsgelden
+##### Artikel 2. Soorten toe te kennen bijzondere opsporingsgelden
 
 1. Op verzoek van de betrokken hoofdofficier van justitie kan de Minister van Veiligheid en Justitie op grond van deze circulaire de volgende gelden toekennen:
 
@@ -100,7 +125,7 @@ In deze Circulaire wordt verstaan onder:
 
 3. In het belang van de opsporing van een ernstig misdrijf of de voorkoming daarvan, of indien andere zwaarwichtige redenen in het kader van de opsporing daartoe aanleiding geven, kan de Minister van Veiligheid en Justitie onder nader te stellen voorwaarden, op verzoek van de betrokken hoofdofficier van justitie, ook in andere gevallen dan genoemd in het eerste en tweede lid, bijzondere gelden toekennen.
 
-#### Artikel 3. Centrale registratie en jaaroverzicht bijzondere opsporingsgelden
+##### Artikel 3. Centrale registratie en jaaroverzicht bijzondere opsporingsgelden
 
 1. Het Team Nationale Criminele Inlichtingen (TNCI) van de Landelijke Eenheid verwerkt in een doorlopend systeem alle tipgeldzaken waarbij het in het kader van de uitvoering van deze circulaire betrokken is geweest.
 
@@ -122,7 +147,7 @@ Daarnaast worden in dit overzicht gegevens opgenomen over de uitgeloofde belonin
 
 De hoofdofficier van justitie van het Landelijk Parket zendt een exemplaar van dit jaaroverzicht ter kennisneming aan de voorzitter van het College van procureurs-generaal.
 
-#### Artikel 4. Geen toekenning of beschikbaarstelling van tipgeld
+##### Artikel 4. Geen toekenning of beschikbaarstelling van tipgeld
 
 Onverminderd de overige voorwaarden die in deze circulaire aan de toekenning of beschikbaarstelling zijn gesteld, wordt geen tipgeld toegekend of beschikbaar gesteld indien:
 
@@ -130,13 +155,13 @@ Onverminderd de overige voorwaarden die in deze circulaire aan de toekenning of 
 
 - b. drie of meer jaren zijn verstreken nadat de verstrekte inlichtingen voor tactisch gebruik bij proces-verbaal beschikbaar zijn gesteld dan wel nadat de diensten zijn verricht. Bij langlopende onderzoeken kan op deze termijn een uitzondering worden gemaakt op gemotiveerd verzoek van de betrokken hoofdofficier van justitie.
 
-#### Artikel 5. Financiële beloning van informanten door derden
+##### Artikel 5. Financiële beloning van informanten door derden
 
 1. In het geval met betrekking tot een Nederlands strafrechtelijk onderzoek een derde een financiële beloning ten behoeve van een informant in het vooruitzicht heeft gesteld of aan de desbetreffende opsporingsdienst heeft uitbetaald, wordt in beginsel door de Minister van Veiligheid en Justitie geen tipgeld meer beschikbaar gesteld.
 
 2. In het geval de door een derde ten behoeve van een informant in het vooruitzicht gestelde of betaalde financiële beloning meer dan € 275 lager ligt dan de financiële beloning die in het concrete geval door de Minister van Veiligheid en Justitie zou zijn toegekend, kan een informant, in afwijking van het bepaalde in het eerste lid, ter aanvulling tot het gebruikelijke bedrag, tipgeld worden toegekend.
 
-#### Artikel 6. Geen toekenning of beschikbaarstelling van een beloning
+##### Artikel 6. Geen toekenning of beschikbaarstelling van een beloning
 
 Onverminderd de overige voorwaarden die in deze regeling aan de toekenning of beschikbaarstelling zijn gesteld, wordt geen beloning toegekend of beschikbaar gesteld indien:
 
@@ -144,20 +169,20 @@ Onverminderd de overige voorwaarden die in deze regeling aan de toekenning of be
 
 - b. een met machtiging van de hoofdofficier van justitie van het Landelijk Parket uitgeloofde beloning niet (tijdig) bekend is gemaakt onder een breed publiek.
 
-#### Artikel 7. Verplicht volgen aanvraagprocedures
+##### Artikel 7. Verplicht volgen aanvraagprocedures
 
 Aanvragen voor de toekenning en beschikbaarstelling van de gelden, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036094&artikel=2&z=2015-01-01&g=2015-01-01) van deze circulaire, worden afgehandeld overeenkomstig de procedure zoals voor het betreffende geval in de instructie van het Openbaar Ministerie is voorgeschreven.
 
-#### Artikel 8. Verzoek tot herziening van een beslissing
+##### Artikel 8. Verzoek tot herziening van een beslissing
 
 1. Indien (voor een deel) een afwijzende beslissing is genomen op een op grond van deze circulaire gedaan verzoek, kan de betrokken hoofdofficier van justitie de Minister van Veiligheid en Justitie, door tussenkomst van de aangewezen ambtenaar van het Landelijk Parket en uiterlijk binnen zes weken na het bekend worden van de beslissing, verzoeken een nieuwe beslissing te nemen.
 
 2. Een verzoek, als bedoeld in het eerste lid, is schriftelijk en bevat de gronden waarop de bezwaren tegen de beslissing rusten.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze circulaire treedt in werking op 1 januari 2015.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze circulaire kan worden aangehaald als: Circulaire bijzondere opsporingsgelden.

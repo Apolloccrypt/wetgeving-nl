@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Coöperatieve Republiek Guyana betreffende Tropenbos, het programma van onderzoek en ontwikkeling in vochtige tropenbos-landen"
 identifier: "BWBV0002769"
-categorie: "Internationaal recht"
-publicatiedatum: 1991-11-22
-laatste_update: 1991-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002769"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-11-22"
+last_updated: "1991-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002769"
+soort: "verdrag"
+stam_id: "10003101093"
+version_id: "10003105242"
+internal_id: "C10006985191"
+label_id: "10003087324"
+dtd_version: "2.0"
+original_entry_into_force: "1991-11-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002769/1991-11-22/0"
+intitule_bron: "Trb.1990-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-12-22"
+intitule_published: "1990-01-25"
+intitule_in_force: "1992-01-31"
+intitule_status: "goed"
+original_publication: "Trb.1990-18"
+original_signed_date: "1989-12-22"
+original_published_date: "1990-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-18"
+entry_into_force_date: "1991-11-22"
+jci_1_3: "jci1.3:c:BWBV0002769&z=1991-11-22&g=1991-11-22"
+jci_1_0: "1.0:c:BWBV0002769&g=1991-11-22"
+citeertitel_status: "officieel"
+signed_date: "1989-12-22"
+entry_into_force: "1991-11-22"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Coöperatieve Republiek Guyana betreffende Tropenbos, het programma van onderzoek en ontwikkeling in vochtige tropenbos-landen
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Coöperatieve Republiek Guyana (hierna te noemen de „Overeenkomstsluitende Partijen”),
@@ -22,13 +47,13 @@ Overwegend de noodzaak en de wenselijkheid van de totstandkoming van zulk een on
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 1. De Overeenkomstsluitende Partijen stellen gezamenlijke pogingen in het werk om Tropenbos in Guyana te bevorderen en ten uitvoer te leggen.
 
 2. Tropenbos, het programma van werkzaamheden in Guyana, dat is goedgekeurd door de krachtens artikel IV ingestelde Commissie, maakt deel uit van het programma van de Regering van Guyana in het kader van het Actieplan inzake Tropische Bosbouw om haar tropisch regenwoud te behouden, tot ontwikkeling te brengen en te beheren ten bate van haar volk.
 
-#### Artikel II
+##### Artikel II
 
 De doelstellingen van Tropenbos in Guyana zijn:
 
@@ -38,7 +63,7 @@ De doelstellingen van Tropenbos in Guyana zijn:
 
 - c. het stimuleren van de deelneming van derden aan Tropenbos, het programma van werkzaamheden in Guyana, in overleg tussen de Overeenkomstsluitende Partijen.
 
-#### Artikel III
+##### Artikel III
 
 De volgende werkzaamheden zullen worden verricht:
 
@@ -58,7 +83,7 @@ De volgende werkzaamheden zullen worden verricht:
 
 - h. overige werkzaamheden zoals tussen de Overeenkomstsluitende Partijen overeengekomen.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Minister van Bosbouw in Guyana stelt een Tropenboscommissie voor Guyana in (hierna te noemen de Commissie) die uit niet meer dan vijftien (15) leden bestaat.
 
@@ -82,11 +107,11 @@ De volgende werkzaamheden zullen worden verricht:
 
 7. De Commissie stelt voor elke plaats in Guyana waar programmawerkzaamheden worden uitgevoerd een werkgroep in, bestaande uit de regionale autoriteiten en de vertegenwoordigers van de bij de werkzaamheden betrokken instellingen en organisaties.
 
-#### Artikel V
+##### Artikel V
 
 De Overeenkomstsluitende Partijen zullen alle uitgaven overeenkomen in overeenstemming met de in de onderscheiden landen gehanteerde standaardprocedures, op basis van de aanbevelingen van de Commissie, welke aanbevelingen een samenhangend plan van werkzaamheden dienen te vormen.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De Regering van Guyana stelt, ten behoeve van de uitvoering van de werkzaamheden voor het onderzoeksprogramma Tropenbos in Guyana, buitenlands personeel en hun gezinsleden vrij van alle aan tijdelijk en blijvend ingezetenen opgelegde persoonlijke belastingen en heffingen, met inbegrip van persoonsgebonden belastingen zoals de vertrek- en reisbiljetbelasting en reisbelastingen en belastingen geheven op het persoonlijk inkomen, ongeacht of zulk inkomen afkomstig is van buiten Guyana, of van toelagen aan hen betaald door de Regering van Guyana zoals bepaald in deze Overeenkomst of in enig ander aanvullend akkoord.
 
@@ -118,7 +143,7 @@ De verkoop of vervreemding van de bovengenoemde goederen is onderworpen aan de g
 
 - c. gepubliceerde en en ongerubriceerde rapporten, dossiers, statistieken en andere gegevens betreffende projecten, die het personeel van dienst kunnen zijn bij de uitvoering van zijn taken.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de Regering van het Koninkrijk der Nederlanden en de Regering van de Coöperatieve Republiek Guyana elkander schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele vereisten in hun onderscheiden landen is voldaan.
 
@@ -130,7 +155,7 @@ De verkoop of vervreemding van de bovengenoemde goederen is onderworpen aan de g
 
 5. Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst slechts van toepassing op het Koninkrijk in Europa.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Indien deze Overeenkomst verstrijkt terwijl er projecten in uitvoering zijn, zullen de bepalingen blijven gelden totdat de tenuitvoerlegging van afzonderlijke projecten, zoals bepaald in de overeengekomen administratieve akkoorden, is voltooid.
 

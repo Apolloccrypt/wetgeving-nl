@@ -1,13 +1,38 @@
 ---
 title: "Akkoord tussen de Nederlandse Minister van Volksgezondheid en Milieuhygiëne en de Belgische Minister van Sociale Voorzorg inzake de verzekering voor geneeskundige verzorging"
 identifier: "BWBV0006498"
-categorie: "Sociaal recht"
-publicatiedatum: 1994-02-24
-laatste_update: 1994-02-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006498"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-02-24"
+last_updated: "1994-02-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006498"
+soort: "verdrag"
+stam_id: "10005298003"
+version_id: "10005693712"
+internal_id: "C10008811781"
+label_id: "10005280854"
+dtd_version: "2.0"
+original_entry_into_force: "1981-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006498/1994-02-24/0"
+intitule_bron: "Trb.1981-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-01-01"
+intitule_published: "1981-05-14"
+intitule_in_force: "1981-05-14"
+intitule_status: "goed"
+original_publication: "Trb.1981-84"
+original_signed_date: "1981-01-01"
+original_published_date: "1981-05-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-84"
+entry_into_force_date: "1981-01-01"
+jci_1_3: "jci1.3:c:BWBV0006498&z=1994-02-24&g=1994-02-24"
+jci_1_0: "1.0:c:BWBV0006498&g=1994-02-24"
+citeertitel_status: "redactioneel"
+signed_date: "1981-01-01"
+entry_into_force: "1981-01-01"
 ---
-
 # Akkoord tussen de Nederlandse Minister van Volksgezondheid en Milieuhygiëne en de Belgische Minister van Sociale Voorzorg inzake de verzekering voor geneeskundige verzorging
 
 De ondergetekenden:
@@ -26,7 +51,7 @@ Zijn overeengekomen als volgt:
 
 ## TITEL I. **Algemene bepalingen**
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Akkoord wordt verstaan onder:
 
@@ -52,13 +77,13 @@ Voor de toepassing van dit Akkoord wordt verstaan onder:
 
 - i). Schepeling: de werknemer in de koopvaardij, met inbegrip van de kapitein.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van dit Akkoord zijn van toepassing op werknemers en zelfstandigen met inbegrip van grensarbeiders, schepelingen en seizoenarbeiders, op aanvragers van een pensioen of rente en op gepensioneerden en rentetrekkers op wie de wettelijke regelingen inzake het recht op verstrekkingen van Nederland of België van toepassing zijn, alsmede op hun gezinsleden en nagelaten betrekkingen.
 
 2. Dit Akkoord stelt nadere regelen tot uitvoering van de Verordening en de Toepassingsverordening.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de toepassing van de Verordening, de Toepassingsverordening en dit Akkoord worden als grensarbeider aangemerkt:
 
@@ -68,23 +93,23 @@ Voor de toepassing van de Verordening, de Toepassingsverordening en dit Akkoord 
 
 ## TITEL II. **Ziekte en moederschap**
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toekenning van het recht op verstrekkingen krachtens de Belgische wettelijke regeling dient de persoon die om aansluiting of inschrijving vraagt, zo nodig aan te tonen dat hij op enig moment in de zes maanden die aan het verwerven van de hoedanigheid van gerechtigde voorafgaan, rechthebbende was, hetzij krachtens de Ziekenfondswet, hetzij krachtens de Algemene Wet Bijzondere Ziektekosten.
 
 Voor het behoud van het recht op verstrekkingen wordt rekening gehouden met de tijdvakken waarover recht bestond, hetzij krachtens de Ziekenfondswet, hetzij krachtens de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor grensarbeiders alsmede voor hun gezinsleden wordt afgezien van toepassing van artikel 17, leden 6 en 7, van de Toepassingsverordening wanneer het gaat om verstrekkingen, die verleend worden in het woonland.
 
-#### Artikel 6
+##### Artikel 6
 
 De in Nederland wonende gezinsleden van grensarbeiders die krachtens de Belgische wettelijke regeling zijn verzekerd, alsmede de in België wonende gezinsleden van grensarbeiders die krachtens de Nederlandse wettelijke regeling zijn verzekerd, kunnen eveneens op het grondgebied van de bevoegde staat verstrekkingen genieten. Behoudens in spoedgevallen komen zij hiervoor slechts in aanmerking na voorafgaande toestemming van het orgaan van de woonplaats.
 
 De verstrekkingen worden verleend door het bevoegde orgaan volgens de in de bevoegde staat geldende wettelijke regeling.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Om in aanmerking te komen voor verstrekkingen krachtens artikel 6 is het gezinslid verplicht een verklaring over te leggen waaruit de toestemming van het orgaan van de woonplaats blijkt. Deze verklaring wordt op verzoek van de verzekerde of van het bevoegde orgaan afgegeven. De verstrekkingen worden verleend overeenkomstig de in de Toepassingsverordening gestelde regeling.
 
@@ -92,17 +117,17 @@ De verstrekkingen worden verleend door het bevoegde orgaan volgens de in de bevo
 
 ## TITEL III. **Financiële bepalingen**
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kosten van verstrekkingen, welke het bevoegde orgaan met toepassing van artikel 20 van de Verordening of artikel 6 van dit Akkoord verleent aan grensarbeiders of hun gezinsleden, worden door het orgaan van de woonplaats aan het bevoegde orgaan vergoed naar werkelijke bedragen.
 
 2. De Technische Commissie kan nadere regelen stellen ter uitvoering van het bepaalde in lid 1.
 
-#### Artikel 9
+##### Artikel 9
 
 De in België wonende of verblijvende werknemers, op wie de Nederlandse wettelijke regeling van toepassing is en die in België verstrekkingen aanvragen ten gevolge van een arbeidsongeval in de zin van de Belgische wettelijke regeling, genieten die verstrekkingen volgens de Belgische normen en tarieven welke geldig zijn inzake arbeidsongevallen. De kosten van die verstrekkingen komen ten laste van het Nederlandse bevoegde orgaan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In afwijking van het bepaalde in artikel 93 van de Toepassingsverordening worden:
 
@@ -126,19 +151,19 @@ De in België wonende of verblijvende werknemers, op wie de Nederlandse wettelij
 
 - -. de in lid 1, sub b) bedoelde gemiddelde kosten per hoofd verhoogd met een percentage wegens uitgaven ter zake van arbeidsongevallen waarvan de berekeningswijze door de Technische commissie wordt vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 In afwijking van het bepaalde in artikel 94 van de Toepassingsverordening worden de krachtens artikel 19, lid 2 van de Verordening aan de in Nederland wonende gezinsleden van in België wonende werknemers en zelfstandigen verleende verstrekkingen door het bevoegde Belgische orgaan vergoed op basis van een vast bedrag gebaseerd op 80% van de landelijk gemiddelde jaarlijkse kosten per hoofd.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van het bepaalde in artikel 95 van de Toepassingsverordening worden de krachtens de artikelen 28 en 28bis van de Verordening aan in Nederland wonende rechthebbenden op een pensioen of rente of aan hun gezinsleden verleende verstrekkingen door het bevoegde Belgische orgaan vergoed op basis van een vast bedrag, gebaseerd op 80% van de gemiddelde jaarlijkse kosten per hoofd, gesplitst in een kostencijfer voor beneden 65-jarigen en een kostencijfer voor 65-jarigen en ouder.
 
-#### Artikel 13
+##### Artikel 13
 
 De Belgische en Nederlandse organen doen afstand van de in artikel 32 van de Verordening voorziene vergoeding van de helft van de kosten van verstrekkingen, verleend aan voormalige grensarbeiders, hun gezinsleden of hun nagelaten betrekkingen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De krachtens de artikelen 10, 11 en 12 te vergoeden bedragen worden verhoogd met een percentage wegens administratiekosten.
 
@@ -146,13 +171,13 @@ De Belgische en Nederlandse organen doen afstand van de in artikel 32 van de Ver
 
 3. Het in lid 1 bedoelde percentage wordt vastgesteld door de Technische Commissie.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor de vaststelling van de schuldvorderingen ingevolge het bepaalde in de artikelen 10, 11 en 12 zijn de bepalingen inzake de inventarissen van Besluit nr. 127 van 17 oktober 1985 van de Administratieve Commissie of de desbetreffende bepalingen van het besluit dat voor één van deze besluiten in de plaats treedt, van overeenkomstige toepassing.
 
 ## TITEL IV. **Diverse bepalingen**
 
-#### Artikel 16
+##### Artikel 16
 
 Er wordt een „Technische Commissie voor de geneeskundige verzorging" ingesteld, bestaande uit tien leden. De Ministers van beide staten, die bevoegd zijn voor de toepassing van dit Akkoord, wijzen ieder vijf leden aan:
 
@@ -162,7 +187,7 @@ De leden kunnen zich door deskundigen doen vergezellen.
 
 De commissie vergadert beurtelings in het ene en het andere land onder voorzitterschap van de vertegenwoordiger van de Minister van het land waar de vergadering plaats heeft.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Technische Commissie stelt de rekeningen vast voor de vergoedingen, welke op basis van gemiddelde kosten worden afgerekend. Zij houdt daarbij rekening met de vanwege de Administratieve Commissie als bedoeld in artikel 80 van de Verordening voor het jaar waarop de afrekening betrekking heeft gepubliceerde gemiddelde kostencijfers.
 
@@ -176,13 +201,13 @@ De rekeningen worden met toepassing van artikel 102, tweede lid, van de Toepassi
 
 5. De Technische Commissie kan vaststellen welke wisselkoersen dienen te worden gehanteerd bij de voldoening van de rekeningen, de verevening en de verlening van voorschotten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De Technische Commissie kan nadere administratieve voorschriften geven met betrekking tot de aan- en afmelding van grensarbeiders, schepelingen, gepensioneerden en rentetrekkers, alsmede voor de toepassing van artikel 15.
 
 2. De Technische Commissie ziet toe op de toepassing van dit Akkoord en regelt in voorkomende gevallen bijzondere aangelegenheden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Akkoord treedt in werking op 1 januari 1981.
 

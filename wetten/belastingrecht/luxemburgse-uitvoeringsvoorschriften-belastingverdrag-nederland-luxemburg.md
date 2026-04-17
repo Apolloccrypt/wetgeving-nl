@@ -1,13 +1,38 @@
 ---
-title: "Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland-Luxemburg"
+title: "Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland – Luxemburg"
 identifier: "BWBR0004828"
-categorie: "Belastingrecht"
-publicatiedatum: 1991-01-01
-laatste_update: 1991-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004828"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1991-01-01"
+last_updated: "1991-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004828"
+soort: "ministeriele-regeling"
+stam_id: "3731493"
+version_id: "5514362"
+internal_id: "C5707451"
+label_id: "3711244"
+dtd_version: "2.0"
+original_entry_into_force: "1967-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004828/1991-01-01/0"
+intitule_bron: "Stcrt.1990-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-07-30"
+intitule_published: "1980-07-30"
+intitule_in_force: "1980-07-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-145"
+original_signed_date: "1990-07-30"
+original_published_date: "1980-07-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1967-01-01"
+jci_1_3: "jci1.3:c:BWBR0004828&z=1991-01-01&g=1991-01-01"
+jci_1_0: "1.0:c:BWBR0004828&g=1991-01-01"
+citeertitel_status: "officieel"
+short_title: "Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland-Luxemburg"
+signed_date: "1990-07-30"
+entry_into_force: "1967-01-01"
 ---
-
 # Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland – Luxemburg
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake het verkrijgen van gehele of gedeeltelijke vrijstelling of teruggaaf van Luxemburgse bronbelasting op dividenden, auteursrechten en royalty's, alsmede aandelen in de winst van een Luxemburgse onderneming, toekomende aan een geldschieter, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 8 mei 1968 tussen Nederland en Luxemburg gesloten Verdrag tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1968, 76), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag:
 
@@ -26,7 +51,7 @@ Aan het op 8 mei 1968 tussen Nederland en Luxemburg gesloten Verdrag tot het ver
 
 - c. **Aandelen in de winst van een onderneming, toekomende aan een geldschieter** De Luxemburgse bronbelasting op deze inkomsten bedraagt 15 percent van het brutobedrag daarvan. Wordt het winstaandeel betaald door een Luxemburgse vennootschap, dan bestaat geen aanspraak op vermindering van belasting (artikel 11, derde lid). Wordt het winstaandeel echter betaald door een natuurlijke persoon, dan bestaat aanspraak op algehele vrijstelling van belasting (artikel 11, eerste en derde lid).
 
-#### Artikel 2. Luxemburgse regeling
+##### Artikel 2. Luxemburgse regeling
 
 Voor het verkrijgen van de vrijstelling of teruggaaf van belasting is van Luxemburgse zijde de volgende regeling getroffen:
 
@@ -56,11 +81,11 @@ Voor het verkrijgen van de vrijstelling of teruggaaf van belasting is van Luxemb
 
 - f. **Rechtsmiddelen** Indien een verzoek om teruggaaf van ingehouden belasting niet of niet volledig wordt ingewilligd, zal het bevoegde ‘bureau d'imposition’ zijn beslissing bij beschikking aan de belanghebbende mededelen. Tegen een beslissing van een ‘bureau d'imposition’ kan door de belanghebbende binnen drie maanden een bezwaarschrift worden ingediend bij de ‘Directeur des Contributions’, 45 Boulevard Roosevelt, Luxemburg. Tegen een beslissing van de Directeur des Contributions kan de belanghebbende binnen drie maanden beroep aantekenen bij de ‘Conseil d'Etat, Comité du Contentieux’, Luxemburg.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 16 februari 1970, nr. B70/3336 (Stcrt. van 19 februari 1970, nr. 35), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Luxemburgse uitvoeringsvoorschriften belastingverdrag Nederland-Luxemburg.
 

@@ -1,18 +1,43 @@
 ---
 title: "Handelsregisterwet 2009 BES"
 identifier: "BWBR0028503"
-categorie: "Overig"
-publicatiedatum: 2022-03-02
-laatste_update: 2022-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028503"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2022-03-02"
+last_updated: "2022-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028503"
+soort: "wet-BES"
+stam_id: "10828443"
+version_id: "17807042"
+internal_id: "C24853081"
+label_id: "10803324"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028503/2022-03-02/0"
+intitule_bron: "Stb.2010-437"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-437"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-437"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028503&z=2022-03-02&g=2022-03-02"
+jci_1_0: "1.0:c:BWBR0028503&g=2022-03-02"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Handelsregisterwet 2009 BES
 
 ## Definities
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan onder:
 
@@ -32,13 +57,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ## Handelsregister
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een handelsregister, waarin ondernemingen en rechtspersonen worden ingeschreven overeenkomstig het bepaalde in deze wet.
 
 2. Het handelsregister wordt gehouden door de Kamers. De Secretaris is belast met het beheer van het handelsregister en de in verband daarmee ontvangen gelden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In het handelsregister worden de ondernemingen ingeschreven die in het openbaar lichaam zijn gevestigd, of in het openbaar lichaam een nevenvestiging hebben.
 
@@ -52,7 +77,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen activiteiten waarmee niet wordt beoogd vermogensrechtelijk voordeel te behalen, voor de toepassing van het eerste lid met een onderneming worden gelijkgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het handelsregister worden tevens ingeschreven naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen, stichtingen, stichtingen particulier fonds en verenigingen met volledige rechtsbevoegdheid.
 
@@ -60,7 +85,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ## De inschrijving in het handelsregister
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot het doen van opgave ter inschrijving in het handelsregister is verplicht degene aan wie een onderneming toebehoort of, indien het de inschrijving betreft van een aan een rechtspersoon toebehorende onderneming, ieder der bestuurders van de rechtspersoon.
 
@@ -72,7 +97,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 5. Bij of krachtens algemene maatregel van bestuur kunnen andere personen worden aangewezen die verplicht of bevoegd zijn tot het doen van daarbij aangewezen opgaven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot inschrijving van een in het openbaar lichaam gevestigde onderneming of nevenvestiging is bevoegd de Kamer van het gebied waarbinnen de onderneming haar hoofdvestiging respectievelijk hoofdnederzetting heeft.
 
@@ -80,13 +105,13 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. Tot inschrijving van een buiten het openbaar lichaam gevestigde onderneming is bevoegd de Kamer van het gebied waarbinnen de onderneming haar hoofdnederzetting heeft.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De tot opgaaf verplichte personen doen, met inachtneming van het bij of krachtens algemene maatregel van bestuur bepaalde, de opgaven die de Kamer nodig heeft om ervoor te zorgen dat de bij of krachtens die algemene maatregel van bestuur en andere wettelijke bepalingen aangewezen gegevens te allen tijde juist en volledig in het handelsregister ingeschreven zijn.
 
 2. Het eerste lid is van overeenkomstige toepassing op het deponeren van bescheiden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De opgave voor de eerste inschrijving van een onderneming wordt gedaan binnen één week na aanvang van de uitoefening van de ondernemingsactiviteiten, met vermelding van de dag van ingang daarvan.
 
@@ -94,7 +119,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 3. De verplichting tot het doen van een opgave eindigt zodra die opgave is gedaan door iemand anders die daartoe verplicht of bevoegd was of, voor zover het een wijziging betreft als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=9&z=2022-03-02&g=2022-03-02) of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=10&z=2022-03-02&g=2022-03-02), zodra de Kamer de desbetreffende wijziging heeft ingeschreven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Kamer is ambtshalve bevoegd tot het inschrijven van een wijziging van een gegeven betreffende een onderneming of rechtspersoon, indien die wijziging reeds elders in het door haarzelf gehouden register is ingeschreven.
 
@@ -104,7 +129,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 4. De Kamer doet van een inschrijving als bedoeld in het eerste en tweede lid onverwijld schriftelijk mededeling aan degene die tot het doen van opgave ter inschrijving in het handelsregister verplicht is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien uit het bevolkingsregister blijkt dat degene aan wie een onderneming toebehoort of een andere in verband met de onderneming of rechtspersoon in het register ingeschreven persoon is overleden, is de Kamer ambtshalve bevoegd dit feit in het register in te schrijven.
 
@@ -112,7 +137,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ## Openbaarheid en externe werking handelsregisterinzage, afschrift of uittreksel
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd, kunnen door een ieder per inschrijving of gedeponeerd bescheiden worden ingezien tegen betaling van een vergoeding.
 
@@ -120,7 +145,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ## Derdenbescherming
 
-#### Artikel 12
+##### Artikel 12
 
 1. Op een feit dat door inschrijving of deponering moet worden bekendgemaakt, kan tegenover derden die daarvan onkundig waren geen beroep worden gedaan zolang de inschrijving of deponering niet hebben plaatsgevonden.
 
@@ -128,11 +153,11 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 ## Persoonlijke levenssfeer
 
-#### Artikel 13
+##### Artikel 13
 
 Ter bescherming van de persoonlijke levenssfeer van de personen die in het handelsregister staan ingeschreven kunnen bij of krachtens algemene maatregel van bestuur voor daarbij aangewezen gegevens of bescheiden beperkingen worden vastgesteld ten aanzien van het bepaalde in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028503&artikel=11&z=2022-03-02&g=2022-03-02).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij de eerste inschrijving van een onderneming, rechtspersoon of nevenvestiging en vervolgens jaarlijks na het jaar van inschrijving is voor elke ingeschreven onderneming, rechtspersoon of nevenvestiging een bijdrage verschuldigd, die niet voor elke Kamer hetzelfde hoeft te zijn.
 
@@ -146,23 +171,23 @@ Ter bescherming van de persoonlijke levenssfeer van de personen die in het hande
 
 6. De Kamer geeft, in haar gebied, kennis aan belanghebbende van de bedragen verschuldigd ingevolge de voorgaande bepalingen, welke bedragen dan binnen een maand na dagtekening van de mededeling moeten zijn voldaan.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Voor het inzien van het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd, zijn aan de Kamer de bij ministeriële regeling vast te stellen bedragen verschuldigd.
 
-#### Artikel 17
+##### Artikel 17
 
 Voor het verstrekken van een afschrift van of een uittreksel uit hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, zijn aan de Kamer de bij ministeriële regeling vast te stellen bedragen verschuldigd.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien een Kamer of een persoon die belang heeft bij de inschrijving van mening is dat de inschrijving van een onderneming, rechtspersoon of nevenvestiging onjuist, onvolledig of in strijd met de openbare orde of de goede zeden is of dat een onderneming, rechtspersoon of een nevenvestiging ten onrechte niet is ingeschreven, kan de belanghebbende zich bij verzoekschrift wenden tot het gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba dat zittingsplaats heeft in het openbaar lichaam waar de Kamer is gevestigd, bij welke de inschrijving is geschied of zou moeten geschieden, met het verzoek de doorhaling, aanvulling of wijziging van het ingeschrevene of de inschrijving van de onderneming, rechtspersoon of nevenvestiging te gelasten.
 
@@ -170,17 +195,17 @@ Vervallen
 
 3. Indien bij rechterlijke uitspraak hetgeen in het handelsregister is ingeschreven geheel of gedeeltelijk onrechtmatig is verklaard, doet de Kamer op verzoek van een belanghebbende daarvan aantekening in het handelsregister.
 
-#### Artikel 19
+##### Artikel 19
 
 Degene die verplicht is tot het doen van opgaven voor de inschrijving van een onderneming, rechtspersoon of nevenvestiging in het handelsregister, met uitzondering van de notaris ten overstaan van wie de akte van oprichting van de rechtspersoon is verleden, zorgt ervoor dat op alle van de onderneming, rechtspersoon of nevenvestiging uitgaande brieven, orders, facturen en offertes is vermeld onder welk nummer de onderneming, rechtspersoon of nevenvestiging in het handelsregister is ingeschreven.
 
-#### Artikel 20
+##### Artikel 20
 
 Alles wat betreft de inrichting van en het toezicht op het handelsregister, de opgaven voor de inschrijving, de inschrijving zelf, de doorhaling, de aanvulling en de wijziging van het ingeschrevene, het ter inzage leggen en het geven van afschriften van en uittreksels uit hetgeen ingeschreven is en hetgeen verder nog ter uitvoering van deze wet nodig is, wordt, voorzover daarin niet bij deze wet is voorzien, bij of krachtens algemene maatregel van bestuur, geregeld.
 
 ## Strafbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Hij die opzettelijk een onjuiste of onvolledige opgave doet, bestemd voor inschrijving in het handelsregister, wordt gestraft met geldboete van ten hoogste USD 28.000.
 
@@ -192,24 +217,24 @@ Alles wat betreft de inrichting van en het toezicht op het handelsregister, de o
 
 5. De feiten, strafbaar gesteld in het eerste, derde en vierde lid, zijn misdrijven. Het feit strafbaar gesteld in het tweede lid, is een overtreding.
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
 ## Overgangs- en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 [vervallen]
 
-#### Artikel 25
+##### Artikel 25
 
 [vervallen]
 
-#### Artikel 26
+##### Artikel 26
 
 Deze wet wordt aangehaald als: Handelsregisterwet 2009 BES.

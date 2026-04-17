@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling algemene maatregel van bestuur ex artikel 23 Wet gemeentelijke herindeling Noordwest-Overijssel"
+title: "Besluit van 23 november 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 23 van de wet van 15 juni 1972, Stb. 449, tot gemeentelijke herindeling van Noordwest-Overijssel"
 identifier: "BWBR0002848"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-01-01
-laatste_update: 1998-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002848"
+country: "nl"
+rank: "amvb"
+publication_date: "1998-01-01"
+last_updated: "1998-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002848"
+soort: "AMvB"
+stam_id: "1163193"
+version_id: "1721752"
+internal_id: "C1721751"
+label_id: "1127644"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002848/1998-01-01/0"
+intitule_bron: "Stb.1972-671"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-23"
+intitule_status: "goed"
+original_publication: "Stb.1972-671"
+original_signed_date: "1972-11-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBR0002848&z=1998-01-01&g=1998-01-01"
+jci_1_0: "1.0:c:BWBR0002848&g=1998-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling algemene maatregel van bestuur ex artikel 23 Wet gemeentelijke herindeling Noordwest-Overijssel"
+signed_date: "1972-11-23"
+entry_into_force: "1973-01-01"
 ---
-
 # Besluit van 23 november 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 23 van de wet van 15 juni 1972, Stb. 449, tot gemeentelijke herindeling van Noordwest-Overijssel
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken a.i. van 24 juli 1972, nr. AW71/2694, Directoraat-Generaal Overheidspersoneelsbeleid, Directie Overheidspersoneelszaken, Hoofdafdeling Pensioenen en Wachtgelden;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 13 novembe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Dit besluit verstaat onder:
 
@@ -38,7 +60,7 @@ Dit besluit verstaat onder:
 
 - e. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit verstaat onder **diensttijd**: de diensttijd die aan het ontslag voorafgaat en die medetelt voor de pensioenberekening krachtens de pensioenwet of als zodanig zou medetellen, wanneer die tijd door inkoop voor pensioen geldig zou zijn verklaard, met uitzondering van de tijd:
 
@@ -58,13 +80,13 @@ Dit besluit verstaat onder:
 
 4. Indien en voor zover diensttijd die bij de berekening van het wachtgeld in aanmerking is genomen, met een overheidspensioen, anders dan ten laste van het Algemeen burgerlijk pensioenfonds, wordt vergolden, worden de duur en het bedrag van het wachtgeld, met ingang van de dag waarop dit pensioen is ingegaan, herberekend, waarbij die diensttijd buiten beschouwing wordt gelaten.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Dit besluit verstaat onder dienstbetrekking iedere publiekrechtelijke of privaatrechtelijke arbeidsverhouding waarbij in dienst van een natuurlijke persoon of een lichaam werkzaamheden tegen bezoldiging of loon worden verricht.
 
 2. Het bepaalde bij of krachtens de [artikelen 4, 5 en 6 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=4) (**Stb**. 1987, 93) is van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit verstaat onder **bezoldiging**: de bezoldiging, zoals deze laatstelijk vóór het ontslag aan de betrekking was verbonden, vermeerderd met de vakantietoelage.
 
@@ -76,7 +98,7 @@ Dit besluit verstaat onder:
 
 5. In bijzondere gevallen kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Zolang de betrokkene de leeftijd van 55 jaar nog niet heeft bereikt, is hij verplicht zich bij de Arbeidsvoorzieningsorganisatie als bedoeld in de Arbeidsvoorzieningswet (**Stb**. 1990, 402) van zijn woonplaats als werkzoekende te doen inschrijven uiterlijk op de eerste werkdag, volgende op die waarop het ontslag ingaat, dan wel het recht op wachtgeld ontstaat.
 
@@ -84,7 +106,7 @@ Dit besluit verstaat onder:
 
 3. Onze Minister kan bepalen dat de in het eerste en tweede lid omschreven verplichting niet geldt voor bepaalde belanghebbenden of groepen van belanghebbenden die de leeftijd van 55 jaar nog niet hebben bereikt.
 
-#### Artikel 4. Recht op wachtgeld
+##### Artikel 4. Recht op wachtgeld
 
 1. De betrokkene heeft ten laste van Hoofdstuk VII van de rijksbegroting recht op wachtgeld met ingang van de dag waarop het ontslag ingaat, tenzij de betrokkene:
 
@@ -108,7 +130,7 @@ Dit besluit verstaat onder:
 
 6. Onze Minister beslist over de toekenning van wachtgeld op schriftelijke aanvraag door de betrokkene. De stukken die Onze Minister nodig acht voor de behandeling van de aanvraag dienen door of vanwege de betrokkene te worden overgelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De duur van het wachtgeld is 6 maanden, met ingang van de dag waarop het ontslag ingaat.
 
@@ -180,7 +202,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 10. In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. In afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5&z=1998-01-01&g=1998-01-01), wordt, indien dit leidt tot een langere wachtgeldduur, waarin tevens voor zover van toepassing de bijzondere verlenging bedoeld in het derde lid is begrepen, de duur van het wachtgeld vastgesteld overeenkomstig de volgende leden.
 
@@ -198,7 +220,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 5. In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van het wachtgeld verlengen.
 
-#### Artikel 5b. Vervolgwachtgeld
+##### Artikel 5b. Vervolgwachtgeld
 
 1. De betrokkene, die het einde van de wachtgeldduur bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5&z=1998-01-01&g=1998-01-01), heeft bereikt, heeft in aansluiting op dat wachtgeld recht op een vervolgwachtgeld.
 
@@ -218,7 +240,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 7. Tenzij uitdrukkelijk anders is bepaald, zijn bepalingen van het wachtgeld van overeenkomstige toepassing op het vervolgwachtgeld.
 
-#### Artikel 6. Bedrag van het wachtgeld
+##### Artikel 6. Bedrag van het wachtgeld
 
 1. Het bedrag van het wachtgeld is gedurende de eerste zes maanden gelijk aan 90% van de bezoldiging, gedurende de daaropvolgende zes maanden 75% van die wedde, welk percentage voor elk leeftijdsjaar boven 25 jaar met ¼wordt vermeerderd tot een maximum van 80. Vervolgens bedraagt het wachtgeld 70% van die wedde.
 
@@ -226,13 +248,13 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 3. Het bedrag van het wachtgeld tijdens de verlenging, bedoeld in [artikel 5**a**, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5a&z=1998-01-01&g=1998-01-01), bedraagt ten hoogste 70% van de laatstelijk genoten wedde.
 
-#### Artikel 6a. Bedrag van het vervolgwachtgeld
+##### Artikel 6a. Bedrag van het vervolgwachtgeld
 
 1. Het bedrag van het vervolgwachtgeld is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.
 
 2. Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in [artikel 8, eerste lid, onder **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (**Stb**. 1968, 657), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=7&z=1998-01-01&g=1998-01-01), en [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=8&z=1998-01-01&g=1998-01-01), van genoemde wet, beide vermeerderd met de daarover berekende vakantiebijslag, bedoeld in artikel 15 van die wet.
 
-#### Artikel 7. Inkomsten uit of in verband met arbeid of bedrijf
+##### Artikel 7. Inkomsten uit of in verband met arbeid of bedrijf
 
 1. De inkomsten die de betrokkene geniet of gaat genieten uit of in verband met arbeid of bedrijf, ter hand genomen met ingang van of na de dag waarop het ontslag, ter zake waarvan het wachtgeld is toegekend, hem is aangezegd of door hem is aangevraagd, worden met het wachtgeld verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben. Deze verrekening geschiedt aldus:
 
@@ -254,7 +276,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 7. In bijzondere gevallen kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De betrokkene is verplicht van het ter hand nemen van enige arbeid of bedrijf terstond mededeling te doen aan Onze Minister onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die werkzaamheden zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke wachtgeldtermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de werkzaamheden of sinds de vorige opgave heeft genoten.
 
@@ -272,19 +294,19 @@ Ten aanzien van deze verrekening is [artikel 7](https://wetten.overheid.nl/jci1.
 
 6. De betrokkene aan wie wachtgeld is toegekend, wordt door het aanvaarden van het wachtgeld geacht er in toe te stemmen, dat allen, die daarvoor naar het oordeel van Onze Minister in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister kan bepalen, dat inkomsten, welke zijn genoten uit hoofde van overwerk, bij wijze van gratificatie, ter zake van een vrijwillige verbintenis bij de Nationale Reserve, als vrijwillige ambtenaar bij de politie, bij de Noodwachten en Noodwachtstaven dan wel bij de Monumentenwacht of bij andere door Onze Minister aan te wijzen reserve-organen, geheel of ten dele niet worden aangemerkt als inkomsten.
 
-#### Artikel 10. Geneeskundig onderzoek
+##### Artikel 10. Geneeskundig onderzoek
 
 Indien de betrokkene langer dan een jaar wegens ziekte verhinderd is geweest arbeid te verrichten, kan hij door Onze Minister worden verplicht zich geneeskundig te doen onderzoeken, dan wel zich aan een geneeskundig onderzoek volgens de bepalingen van de pensioenwet te onderwerpen.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12. Einde en verval van het recht op wachtgeld
+##### Artikel 12. Einde en verval van het recht op wachtgeld
 
 1. Het recht op wachtgeld eindigt:
 
@@ -310,7 +332,7 @@ Vervallen
 
 4. Het recht op wachtgeld vervalt wanneer de daartoe strekkende aanvraag bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=4&z=1998-01-01&g=1998-01-01), niet binnen een termijn van vijf jaren na het ontstaan van dat recht bij Onze Minister is ingekomen.
 
-#### Artikel 13. Vermindering en niet-uitbetaling van het wachtgeld
+##### Artikel 13. Vermindering en niet-uitbetaling van het wachtgeld
 
 1. Indien de betrokkene:
 
@@ -332,11 +354,11 @@ wordt het wachtgeld verminderd met het bedrag, waarmede het wachtgeld vermeerder
 
 - d. niet als werkzoekende bij de Arbeidsvoorzieningsorganisatie dan wel de buitenlandse instantie van arbeidsbemiddeling staat ingeschreven, tenzij hij aantoont dat hij redelijkerwijs niet in staat is geweest om te voldoen aan de in [artikel 3**a**, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=3a&z=1998-01-01&g=1998-01-01), gestelde verplichting.
 
-#### Artikel 14. Afkoop van het recht op wachtgeld
+##### Artikel 14. Afkoop van het recht op wachtgeld
 
 Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele worden afgekocht.
 
-#### Artikel 15. Opschorting
+##### Artikel 15. Opschorting
 
 1. Ten aanzien van de betrokkene aan wie wachtgeld is toegekend en die uit hoofde van ziekte aanspraak heeft of krijgt op doorbetaling van zijn laatstelijk genoten bezoldiging, wordt de verdere uitvoering van dit besluit opgeschort tot het einde van het tijdvak waarover die aanspraak bestaat.
 
@@ -346,7 +368,7 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 
 4. Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van [artikel 9 van de Wet Gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=9).
 
-#### Artikel 16. Samenloop van wachtgeld en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid
+##### Artikel 16. Samenloop van wachtgeld en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid
 
 1. Indien de betrokkene ter zake van een ontslag dat verleend is wegens blijvende ongeschiktheid, uit hoofde van ziekten of gebreken, aanspraak heeft op een pensioen op grond van de pensioenwet berekend naar een algemene invaliditeit van minder dan 80%, dan wel een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) berekend naar een mate van arbeidsongeschiktheid van minder dan 80%, wordt het geldende bedrag van het wachtgeld, toegekend ter zake van hetzelfde ontslag, met het hierna genoemde percentage verminderd. Deze vermindering bedraagt bij een invaliditeitsgraad van
 
@@ -361,11 +383,11 @@ Op aanvraag van de betrokkene kan het recht op wachtgeld geheel of ten dele word
 
 2. De som van het in het eerste lid bedoelde pensioen dan wel de uitkering en het verminderde wachtgeld bedraagt voorts niet meer dan het onverminderde wachtgeld dat wordt genoten indien er geen sprake is van samenloop. Ingeval van overschrijding van bedoeld onverminderd wachtgeld wordt het overschrijdende bedrag op het verminderde wachtgeld in mindering gebracht.
 
-#### Artikel 17. Tegemoetkoming verhuiskosten
+##### Artikel 17. Tegemoetkoming verhuiskosten
 
 Aan de betrokkene aan wie wachtgeld is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden, een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630).
 
-#### Artikel 18. Betaling
+##### Artikel 18. Betaling
 
 1. Het wachtgeld, over een maand berekend, wordt in maandelijkse termijnen betaald. Met toestemming van de betrokkene kan de uitbetaling in langere termijnen geschieden.
 
@@ -385,15 +407,15 @@ Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoe
 
 6. Laat de overledene geen betrekkingen, als bedoeld in het tweede en derde lid na, dan kan het aldaar bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging, indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20. Slotbepalingen
+##### Artikel 20. Slotbepalingen
 
 De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) is niet van toepassing op de termijnen gesteld in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5&z=1998-01-01&g=1998-01-01), [artikel 5**a**, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5a&z=1998-01-01&g=1998-01-01), [artikel 5**b**, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=5b&z=1998-01-01&g=1998-01-01), [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=6&z=1998-01-01&g=1998-01-01), en [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002848&artikel=18&z=1998-01-01&g=1998-01-01).
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van 1 januari 1973.
 

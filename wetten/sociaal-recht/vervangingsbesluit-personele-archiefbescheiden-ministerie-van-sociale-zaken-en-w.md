@@ -1,13 +1,39 @@
 ---
-title: "Vervangingsbesluit personele archiefbescheiden ministerie van Sociale Zaken en Werkgelegenheid"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 februari 2017, 2016-0000221412, tot Besluit digitale vervanging microfilms met archiefbescheiden bevattende personeelsgegevens SZW"
 identifier: "BWBR0039277"
-categorie: "Sociaal recht"
-publicatiedatum: 2017-03-08
-laatste_update: 2017-03-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039277"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-03-08"
+last_updated: "2017-03-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039277"
+soort: "ministeriele-regeling"
+stam_id: "13930893"
+version_id: "23953492"
+internal_id: "C34442341"
+label_id: "13894614"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039277/2017-03-08/0"
+intitule_bron: "Stcrt.2017-12139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-27"
+intitule_published: "2017-03-07"
+intitule_in_force: "2017-03-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-12139"
+original_signed_date: "2017-02-27"
+original_published_date: "2017-03-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-12139"
+entry_into_force_date: "2017-03-08"
+jci_1_3: "jci1.3:c:BWBR0039277&z=2017-03-08&g=2017-03-08"
+jci_1_0: "1.0:c:BWBR0039277&g=2017-03-08"
+citeertitel_status: "officieel"
+short_title: "Vervangingsbesluit personele archiefbescheiden ministerie van Sociale Zaken en Werkgelegenheid"
+signed_date: "2017-02-27"
+entry_into_force: "2017-03-08"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 27 februari 2017, 2016-0000221412, tot Besluit digitale vervanging microfilms met archiefbescheiden bevattende personeelsgegevens SZW
 
 gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikel 6, eerste lid van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6) en [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b),
@@ -16,23 +42,23 @@ Besluit:
 
 Ten behoeve van het ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit heeft betrekking op archiefbescheiden op microfilm die behoren tot dossiers van voormalig personeelsleden, tewerkgestelde gewetensbezwaarden militaire dienstplicht en de zuivering van overheidspersoneel na de Tweede Wereldoorlog (de zgn. bijzondere rechtspraak) van het ministerie van Sociale Zaken en Werkgelegenheid, over de periode 1937 tot en met 1997. Deze archiefbescheiden worden vervangen door digitale reproducties. Deze vervanging betreft alle archiefbescheiden op microfilm die betrekking hebben op personeelsgegevens, correspondentie en besluiten zoals beschreven in de Basis Selectiedocumenten Overheidspersoneel, Deelbeleidsterrein Arbeidsverhoudingen bij de overheid; Overheidspersoneel, Deelbeleidsterrein Arbeidsvoorwaarden Rijkspersoneel; Overheidspersoneel, Deelbeleidsterrein Formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit; Overheidspersoneel, Deelbeleidsterrein Arbeidsomstandigheden bij de overheid; Overheidspersoneel, Deelbeleidsterrein Personeelsinformatievoorziening en -administratie.
 
-#### Artikel 2
+##### Artikel 2
 
 De digitale vervanging geschiedt ten minste overeenkomstig de specificaties en instellingen zoals deze zijn opgenomen in de bijlage en op de wijze zoals beschreven in het Handboek Digitale Vervanging Microfilms Personeelsgegevens. Gedurende de termijn voor bezwaar en beroep ligt het Handboek Digitale Vervanging Microfilms Personeelsgegevens op aanvraag ter inzage bij het Ministerie van Sociale Zaken en Werkgelegenheid (bibliotheek@minszw.nl).
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt gepubliceerd.
 
-#### Artikel 4
+##### Artikel 4
 
 De digitale vervanging wordt uitgevoerd door de Afdeling Document- en Informatiemanagement van de Directie Bedrijfsvoering.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling kan worden aangehaald als Vervangingsbesluit personele archiefbescheiden ministerie van Sociale Zaken en Werkgelegenheid.
 

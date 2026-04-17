@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tot oprichting van de Europese Bank voor Wederopbouw en Ontwikkeling"
 identifier: "BWBV0002888"
-categorie: "Internationaal recht"
-publicatiedatum: 2013-09-12
-laatste_update: 2013-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002888"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-09-12"
+last_updated: "2013-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002888"
+soort: "verdrag"
+stam_id: "10003210623"
+version_id: "10003227362"
+internal_id: "C10006985261"
+label_id: "10003198944"
+dtd_version: "2.0"
+original_entry_into_force: "1991-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002888/2013-09-12/0"
+intitule_bron: "Trb.1990-143"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-03-25"
+intitule_published: "1990-10-25"
+intitule_in_force: "1991-06-10"
+intitule_status: "goed"
+original_publication: "Trb.1990-143"
+original_signed_date: "1991-03-25"
+original_published_date: "1990-10-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-143"
+entry_into_force_date: "1991-03-28"
+jci_1_3: "jci1.3:c:BWBV0002888&z=2013-09-12&g=2013-09-12"
+jci_1_0: "1.0:c:BWBV0002888&g=2013-09-12"
+citeertitel_status: "officieel"
+signed_date: "1991-03-25"
+entry_into_force: "1991-03-28"
 ---
-
 # Overeenkomst tot oprichting van de Europese Bank voor Wederopbouw en Ontwikkeling
 
 De Overeenkomstsluitende Partijen,
@@ -26,11 +51,11 @@ Zijn overeengekomen hierbij de Europese Bank voor wederopbouw en ontwikkeling (h
 
 ### HOOFDSTUK I. DOEL, TAKEN EN LIDMAATSCHAP
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel ten doel de overgang naar een open markteconomie te bevorderen en het particuliere initiatief en de ondernemingsgeest aan te moedigen in de Midden- en Oost-Europese landen die de beginselen van een democratie met een meerpartijenstelsel, pluralisme en een markteconomie aanhangen en toepassen. Het doel van de Bank kan met inachtneming van dezelfde voorwaarden ook in Mongolië worden verwezenlijkt en in landen in het zuidelijke en oostelijke gebied van de Middellandse Zee die lid zijn, zoals bepaald door de Bank na te zijn bevestigd bij stemming door ten minste twee derde van de Gouverneurs die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigen. Dienovereenkomstig heeft elke verwijzing in deze Overeenkomst en in de Bijlagen daarbij naar „Midden- en Oost-Europese landen”, „landen in Midden- en Oost-Europa”, „ontvangend land (of ontvangende landen)” of „ontvangende lidstaat (of lidstaten)” tevens betrekking op Mongolië, alsmede op elk van de landen in het zuidelijke en oostelijke gebied van de Middellandse Zee.
 
-#### Artikel 2. Taken
+##### Artikel 2. Taken
 
 1. Ten einde op de lange termijn te kunnen beantwoorden aan haar doel - het bevorderen van de overgang van de Midden- en Oosteuropese landen naar een open markteconomie en het aanmoedigen van het particuliere initiatief en de ondernemingsgeest - verleent de Bank de ontvangende landen bijstand bij de totstandbrenging van structurele en sectoriële economische hervormingen, waaronder demonopolisering, decentralisering en privatisering, om ertoe bij te dragen dat hun economieën volledig worden geïntegreerd in de internationale economie door middel van maatregelen:
 
@@ -52,7 +77,7 @@ De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel te
 
 2. In de uitvoering van de in het eerste lid van dit artikel bedoelde taken verricht de Bank haar werkzaamheden in nauwe samenwerking met al haar leden en, op een wijze die zij passend acht gelet op de bepalingen van deze Overeenkomst, met het Internationale Monetaire Fonds, de Internationale Bank voor Herstel en Ontwikkeling, de Internationale Financieringsmaatschappij, het Multilaterale Agentschap voor Investeringsgaranties en de Organisatie voor Economische Samenwerking en Ontwikkeling, en werkt zij samen met de Verenigde Naties en haar gespecialiseerde organisaties en andere daarmee verbonden organen en alle organisaties, publiek of particulier, die zich bezighouden met de economische ontwikkeling van of investeringen in Midden- en Oosteuropese landen.
 
-#### Artikel 3. Lidmaatschap
+##### Artikel 3. Lidmaatschap
 
 1. Het lidmaatschap van de Bank staat open:
 
@@ -64,7 +89,7 @@ De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel te
 
 ### HOOFDSTUK II. KAPITAAL
 
-#### Artikel 4. Maatschappelijk kapitaal
+##### Artikel 4. Maatschappelijk kapitaal
 
 1. Het oorspronkelijk maatschappelijk kapitaal bedraagt tienmiljard (10.000.000.000) ECU. Het is verdeeld in 1 miljoen (1.000.000) aandelen, elk met een pari-waarde van tienduizend (10.000) ECU, waarop uitsluitend door leden kan worden ingeschreven in overeenstemming met de bepalingen van artikel 5 van deze Overeenkomst.
 
@@ -72,7 +97,7 @@ De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel te
 
 3. Het maatschappelijk kapitaal kan worden verhoogd op zodanig tijdstip en onder zodanige voorwaarden als wenselijk worden geacht, zulks met een meerderheid van ten minste twee derde van de Gouverneurs die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigen.
 
-#### Artikel 5. Inschrijving op aandelen
+##### Artikel 5. Inschrijving op aandelen
 
 1. Elk lid schrijft in op aandelen van het kapitaal van de Bank, afhankelijk van het voldoen aan de wettelijke vereisten van het lid. Iedere inschrijving op het oorspronkelijk maatschappelijk kapitaal geschiedt in volgestorte aandelen en niet volgestorte aandelen in de verhouding 3-7. Het aantal aandelen dat aanvankelijk beschikbaar is voor inschrijving door Ondertekenaars van deze Overeenkomst die lid worden in overeenstemming met artikel 61 van deze Overeenkomst is vermeld in Bijlage A. Elk lid schrijft aanvankelijk in op ten minste 100 aandelen.
 
@@ -88,7 +113,7 @@ De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel te
 
 7. De aansprakelijkheid van de leden uit hoofde van hun aandelenbezit is beperkt tot het niet betaalde gedeelte van de prijs van uitgifte. De leden zijn niet op grond van hun lidmaatschap aansprakelijk voor verplichtingen van de Bank.
 
-#### Artikel 6. Betaling der inschrijvingen
+##### Artikel 6. Betaling der inschrijvingen
 
 1. De betaling van de volgestorte aandelen tot het bedrag waarop aanvankelijk is ingeschreven door Ondertekenaars van deze Overeenkomst die lid worden in overeenstemming met artikel 61 van deze Overeenkomst geschiedt in vijf (5) termijnen van elke twintig (20) procent van het bedrag. De eerste termijn wordt door elk lid betaald hetzij binnen zestig (60) dagen na de datum van inwerkingtreding van deze Overeenkomst, hetzij op de datum van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring in overeenstemming met artikel 61, indien laatstgenoemde datum na de datum van inwerkingtreding valt. De resterende vier termijnen vervallen achtereenvolgens telkens een jaar na de datum waarop de voorgaande termijn verviel en dienen te worden betaald, met inachtneming van de vereisten van wetgevende aard van elk lid.
 
@@ -106,7 +131,7 @@ De Bank heeft met haar bijdrage aan de economische vooruitgang en het herstel te
 
 8. Voor de toepassing van dit artikel wordt onder betaling of uitgifte in ECU mede verstaan een betaling of uitgifte in een volledig inwisselbare valuta die op de datum van voldoening of verzilvering gelijk is aan de waarde van de desbetreffende betalingsverplichting in ECU.
 
-#### Artikel 7. Gewone kapitaalmiddelen
+##### Artikel 7. Gewone kapitaalmiddelen
 
 In deze Overeenkomst wordt onder de term „gewone kapitaalmiddelen” van de Bank mede verstaan:
 
@@ -122,7 +147,7 @@ In deze Overeenkomst wordt onder de term „gewone kapitaalmiddelen” van de Ba
 
 ### HOOFDSTUK III. WERKZAAMHEDEN
 
-#### Artikel 8. Ontvangende landen en gebruik van de middelen
+##### Artikel 8. Ontvangende landen en gebruik van de middelen
 
 1. De middelen en faciliteiten van de Bank worden uitsluitend gebruikt om het doel te bereiken en de taken uit te voeren, onderscheidenlijk geregeld in de artikelen 1 en 2 van deze Overeenkomst.
 
@@ -140,11 +165,11 @@ In deze Overeenkomst wordt onder de term „gewone kapitaalmiddelen” van de Ba
 
 - iii. Aan het einde van genoemd tijdvak wordt het besluit om een zodanig land toegang te verlenen zonder de onder de letters a en b genoemde beperkingen, door de Raad van Gouverneurs genomen met een meerderheid van ten minste drie vierde van de Gouverneurs die ten minste vijfentachtig (85) procent van het totale aantal stemmen van de leden vertegenwoordigen.
 
-#### Artikel 9. Gewone en bijzondere werkzaamheden
+##### Artikel 9. Gewone en bijzondere werkzaamheden
 
 De werkzaamheden van de Bank bestaan uit gewone werkzaamheden, die worden gefinancierd uit de gewone kapitaalmiddelen van de Bank bedoeld in artikel 7 van deze Overeenkomst, en bijzondere werkzaamheden, die worden gefinancierd uit de middelen van de Bijzondere Fondsen bedoeld in artikel 19 van deze Overeenkomst. De beide soorten werkzaamheden kunnen worden gecombineerd.
 
-#### Artikel 10. Scheiding van de werkzaamheden
+##### Artikel 10. Scheiding van de werkzaamheden
 
 1. De gewone kapitaalmiddelen en de middelen van de Bijzondere Fondsen van de Bank worden te allen tijde en in alle opzichten volledig van elkaar gescheiden gehouden, gebruikt, belast, belegd of anderszins aangewend. In de financiële verslagen van de Bank worden de reserves van de Bank, haar gewone werkzaamheden en, gescheiden, haar bijzondere werkzaamheden opgenomen.
 
@@ -152,7 +177,7 @@ De werkzaamheden van de Bank bestaan uit gewone werkzaamheden, die worden gefina
 
 3. Uitgaven die rechtstreeks verband houden met de gewone werkzaamheden worden ten laste van de gewone kapitaalmiddelen van de Bank gebracht. Uitgaven die rechtstreeks verband houden met de bijzondere werkzaamheden worden ten laste van de middelen van de Bijzondere Fondsen gebracht. Alle andere uitgaven worden, met inachtneming van artikel 18, eerste lid, van deze Overeenkomst, verantwoord op door de Bank te bepalen wijze.
 
-#### Artikel 11. Werkwijzen
+##### Artikel 11. Werkwijzen
 
 1. De Bank verricht haar werkzaamheden ter bevordering van haar doel en de uitvoering van haar taken als vervat in de artikelen 1 en 2 van deze Overeenkomst op de volgende wijze(n):
 
@@ -190,7 +215,7 @@ Voor de toepassing van dit lid wordt een staatsbedrijf niet geacht concurrerend 
 
 - c. leningen aan een bemiddelende financiële instelling, bedoeld voor doorlening aan de particuliere sector, worden niet geacht te zijn verstrekt aan de staatssector.
 
-#### Artikel 12. Beperkingen ten aanzien van gewone werkzaamheden
+##### Artikel 12. Beperkingen ten aanzien van gewone werkzaamheden
 
 1. Het totale uitstaande bedrag aan leningen, beleggingen in aandelen en garanties die door de Bank zijn verstrekt, gedaan dan wel gegeven in het kader van haar gewone werkzaamheden mag nimmer worden verhoogd, indien door de verhoging het totale bedrag van haar onaangetaste geplaatste kapitaal, waarbij de reserves en de winst zijn begrepen in haar gewone kapitaalmiddelen, zou worden overschreden.
 
@@ -200,7 +225,7 @@ Voor de toepassing van dit lid wordt een staatsbedrijf niet geacht concurrerend 
 
 4. De Bank geeft geen garanties voor exportkredieten en verricht geen verzekeringsactiviteiten.
 
-#### Artikel 13. Beginselen die bij de werkzaamheden in acht dienen te worden genomen
+##### Artikel 13. Beginselen die bij de werkzaamheden in acht dienen te worden genomen
 
 De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volgende beginselen:
 
@@ -230,7 +255,7 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 - xiii. de Bank neemt de nodige maatregelen om te verzekeren dat het bedrag van een lening die is verstrekt of gegarandeerd door de Bank, of waarin door de Bank wordt deelgenomen, of van een belegging in aan delen, alleen wordt gebruikt voor de doeleinden waarvoor de lening of de belegging werd toegestaan, waarbij zij de nodige aandacht besteedt aan overwegingen van zuinigheid en doelmatigheid.
 
-#### Artikel 14. Voorwaarden voor leningen en garanties
+##### Artikel 14. Voorwaarden voor leningen en garanties
 
 1. Bij leningen die door de Bank worden verstrekt, waarin door de Bank wordt deelgenomen of die door de Bank worden gegarandeerd, worden in het desbetreffende contract de voorwaarden vastgesteld voor deze lening of garantie, met inbegrip van de voorwaarden betreffende de betaling van de hoofdsom, rente en andere vergoedingen, kosten, vervaldagen en betaaldata met betrekking tot de lening, onderscheidenlijk de garantie. Bij de vaststelling van deze voorwaarden geeft de Bank zich ten volle rekenschap van de noodzaak haar inkomsten veilig te stellen.
 
@@ -238,7 +263,7 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 3. Het leen- of garantiecontract vermeldt uitdrukkelijk de valuta of valuta's, waaronder de ECU, waarin alle betalingen aan de Bank uit hoofde van het contract worden gedaan.
 
-#### Artikel 15. Provisie en vergoedingen
+##### Artikel 15. Provisie en vergoedingen
 
 1. De Bank berekent, behalve rente, provisie op leningen die zij verstrekt of waarin zij deelneemt als onderdeel van haar gewone werkzaamheden. De voorwaarden waaronder deze provisie wordt berekend, worden bepaald door de Raad van Bewind.
 
@@ -246,13 +271,13 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 3. De Raad van Bewind kan andere kosten van de Bank vaststellen die verband houden met haar gewone werkzaamheden, alsmede provisies, vergoedingen en andere kosten die verband houden met haar bijzondere werkzaamheden.
 
-#### Artikel 16. Bijzondere reserve
+##### Artikel 16. Bijzondere reserve
 
 1. Het bedrag van de ingevolge artikel 15 van deze Overeenkomst ontvangen provisies en vergoedingen wordt op een bijzondere reserverekening geboekt, die beschikbaar wordt gehouden om verliezen van de Bank te dekken in overeenstemming met artikel 17 van deze Overeenkomst. De Bank bepaalt in welke liquide vorm de bijzondere reserve wordt gehouden.
 
 2. Indien de Raad van Bewind bepaalt dat de omvang van de bijzondere reserve voldoende is, kan het besluiten dat genoemde provisies of vergoedingen voortaan geheel of gedeeltelijk deel uitmaken van de inkomsten van de Bank.
 
-#### Artikel 17. Wijzen waarop de Bank haar verliezen dekt
+##### Artikel 17. Wijzen waarop de Bank haar verliezen dekt
 
 1. In geval van betalingsachterstanden en in gebreke blijven van debiteuren ten aanzien van leningen die door de Bank zijn verstrekt of gegarandeerd, of waarin door de Bank wordt deelgenomen, en in geval van verliezen bij emissiegaranties en beleggingen in aandelen, neemt de Bank in het kader van haar gewone werkzaamheden de maatregelen die zij passend acht. De Bank treft passende voorzieningen tegen mogelijke verliezen.
 
@@ -270,7 +295,7 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 - vi. ten slotte, een passende hoeveelheid van het niet volgestorte geplaatste kapitaal, waarvan de volstorting kan worden gevorderd in overenstemming met de bepalingen van artikel 6, vierde en vijfde lid, van deze Overeenkomst.
 
-#### Artikel 18. Bijzondere Fondsen
+##### Artikel 18. Bijzondere Fondsen
 
 - i. De Bank kan het beheer op zich nemen van Bijzondere Fondsen die zijn bedoeld om bij te dragen aan de verwezenlijking van het doel van de Bank en die binnen haar taken vallen in de ontvangende landen en mogelijk ontvangende landen. De volledige kosten van het beheer van een zodanig Bijzonder Fonds worden ten laste van het desbetreffende Bijzondere Fonds gebracht.
 
@@ -284,7 +309,7 @@ De Bank laat zich bij de verrichting van haar werkzaamheden leiden door de volge
 
 3. De Bank neemt de regels en voorschriften aan die noodzakelijk zijn voor het instellen, het beheer en het gebruik van elk Bijzonder Fonds. Die regels en voorschriften mogen niet in strijd zijn met de bepalingen van deze Overeenkomst, met uitzondering van de bepalingen die uitdrukkelijk alleen van toepassing zijn op de gewone werkzaamheden van de Bank.
 
-#### Artikel 19. Middelen van de Bijzondere Fondsen
+##### Artikel 19. Middelen van de Bijzondere Fondsen
 
 Met „middelen van Bijzondere Fondsen” worden bedoeld de middelen van elk Bijzonder Fonds en deze omvatten:
 
@@ -296,7 +321,7 @@ Met „middelen van Bijzondere Fondsen” worden bedoeld de middelen van elk Bij
 
 ### HOOFDSTUK IV. BEVOEGDHEID TOT HET AANGAAN VAN LENINGEN EN DIVERSE ANDERE BEVOEGDHEDEN
 
-#### Artikel 20. Algemene bevoegdheden
+##### Artikel 20. Algemene bevoegdheden
 
 1. Naast de elders in deze Overeenkomst omschreven bevoegdheden heeft de Bank de bevoegdheid:
 
@@ -324,7 +349,7 @@ Met „middelen van Bijzondere Fondsen” worden bedoeld de middelen van elk Bij
 
 ### HOOFDSTUK V. VALUTA'S
 
-#### Artikel 21. Bepaling en gebruik van valuta 's
+##### Artikel 21. Bepaling en gebruik van valuta 's
 
 1. Telkens wanneer het ingevolge deze Overeenkomst nodig is vast te stellen of een valuta volledig convertibel is voor de toepassing van deze Overeenkomst, wordt dit, indien noodzakelijk na overleg met het Internationale Monetaire Fonds, door de Bank bepaald, rekening houdend met de primaire noodzaak haar eigen financiële belangen veilig te stellen.
 
@@ -340,17 +365,17 @@ Met „middelen van Bijzondere Fondsen” worden bedoeld de middelen van elk Bij
 
 ### HOOFDSTUK VI. ORGANISATIE EN GOUVERNEURS
 
-#### Artikel 22. Structuur
+##### Artikel 22. Structuur
 
 De Bank heeft een Raad van Gouverneurs, een Raad van Bewind, een President, een of meer Vice-Presidenten en al het overige leidinggevende en andere personeel als noodzakelijk wordt geoordeeld.
 
-#### Artikel 23. Raad van Gouverneurs: samenstelling
+##### Artikel 23. Raad van Gouverneurs: samenstelling
 
 1. Ieder lid is vertegenwoordigd in de Raad van Gouverneurs en benoemt een Gouverneur en een plaatsvervanger. Iedere Gouverneur en iedere plaatsvervanger behartigt de belangen van het lid dat hem heeft benoemd. Een plaatsvervanger heeft geen stemrecht, behalve bij afwezigheid van zijn principaal. Op elke jaarvergadering kiest de Raad van Gouverneurs een van zijn leden tot Voorzitter; deze bekleedt zijn functie tot de verkiezing van de volgende Voorzitter.
 
 2. Gouverneurs en plaatsvervangers bekleden hun functies zonder beloning van de Bank.
 
-#### Artikel 24. Raad van Gouverneurs: bevoegdheden
+##### Artikel 24. Raad van Gouverneurs: bevoegdheden
 
 1. Alle bevoegdheden van de Bank berusten bij de Raad van Gouverneurs.
 
@@ -382,7 +407,7 @@ De Bank heeft een Raad van Gouverneurs, een Raad van Bewind, een President, een 
 
 3. De Raad van Gouverneurs behoudt de volledige bevoegdheid gezag uit te oefenen over aangelegenheden die ingevolge het bepaalde in het tweede lid van dit artikel, of elders in deze Overeenkomst, zijn overgedragen of toegewezen aan de Raad van Bewind.
 
-#### Artikel 25. Raad van Gouverneurs: procedure
+##### Artikel 25. Raad van Gouverneurs: procedure
 
 1. De Raad van Gouverneurs houdt een jaarvergadering en alle andere vergaderingen die de Raad nodig acht of die door de Raad van Bewind worden bijeengeroepen. Vergaderingen van de Raad van Gouverneurs worden door de Raad van Bewind bijeengeroepen wanneer daarom wordt verzocht door ten minste vijf (5) leden van de Bank of door leden die ten minste een vierde van het totale aantal stemmen van de leden bezitten.
 
@@ -392,7 +417,7 @@ De Bank heeft een Raad van Gouverneurs, een Raad van Bewind, een President, een 
 
 4. De Raad van Gouverneurs en, voor zover het daartoe is gemachtigd, de Raad van Bewind, kunnen de regels en voorschriften aannemen en de organen instellen die nodig of dienstig zijn voor de uitoefening van de werkzaamheden van de Bank.
 
-#### Artikel 26. Raad van Bewind: samenstelling
+##### Artikel 26. Raad van Bewind: samenstelling
 
 1. De Raad van Bewind bestaat uit drieëntwintig (23) leden die geen lid zijn van de Raad van Gouverneurs en van wie er:
 
@@ -416,7 +441,7 @@ Bewindvoerders, alsmede vertegenwoordigende leden van wie de Gouverneurs hen neb
 
 5. Bewindvoerders oefenen hun functie uit gedurende een tijdvak van drie (3) jaar en kunnen worden herkozen, met dien verstande dat de eerste Raad van Bewind moet worden gekozen door de Raad van Gouverneurs tijdens zijn oprichtingsvergadering, en zij blijven in functie tot de eerstkomende onmiddellijk daaropvolgende jaarvergadering van de Raad van Gouverneurs of, indien de Raad daartoe besluit op die jaarvergadering, tot de eerstvolgende jaarvergadering daarna. Zij blijven in functie totdat hun opvolger is gekozen en zijn functie heeft aanvaard. Indien de functie van een Bewindvoerder meer dan honderdtachtig (180) dagen voor het einde van zijn ambtsperiode openvalt, wordt in overeenstemming met het bepaalde in Bijlage B voor het resterende deel van de ambtsperiode een opvolger gekozen door de Gouverneurs die de vorige Bewindvoerder hebben gekozen. Voor deze verkiezing is een meerderheid van de door deze Gouverneurs uitgebrachte stemmen vereist. Indien de functie van een Bewindvoerder honderdtachtig (180) dagen of minder voor het einde van zijn ambtsperiode openvalt, kan op gelijke wijze voor het resterende deel van de ambtsperiode een opvolger worden gekozen door de Gouverneurs die de vorige Bewindvoerder hebben gekozen, voor welke verkiezing een meerderheid van de door deze Gouverneurs uitgebrachte stemmen is vereist. Zolang de functie onvervuld blijft, oefent de plaatsvervanger van de vorige Bewindvoerder de rechten van laatstgenoemde uit, met uitzondering van het recht een plaatsvervanger te benoemen.
 
-#### Artikel 27. Raad van Bewind: bevoegdheden
+##### Artikel 27. Raad van Bewind: bevoegdheden
 
 Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals geregeld in artikel 24 van deze Overeenkomst, is de Raad van Bewind verantwoordelijk voor de leiding van de algemene werkzaamheden van de Bank en dient het daartoe, naast de bevoegdheden die het in deze Overeenkomst uitdrukkelijk zijn toegewezen, alle bevoegdheden uit te oefenen die door de Raad van Gouverneurs aan de Raad van Bewind zijn overgedragen, en in het bijzonder:
 
@@ -428,7 +453,7 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 - iv. het goedkeuren van de begroting van de Bank.
 
-#### Artikel 28. Raad van Bewind: procedure
+##### Artikel 28. Raad van Bewind: procedure
 
 1. De Raad van Bewind oefent normaal op het hoofdkantoor van de Bank zijn functie uit en vergadert zo vaak als de werkzaamheden van de Bank dit vereisen.
 
@@ -436,7 +461,7 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 3. De Raad van Gouverneurs stelt regels vast volgens welke een lid, indien er geen Bewindvoerder van zijn nationaliteit is, iedere vergadering van de Raad van Bewind door een vertegenwoordiger kan doen bijwonen, zij het zonder stemrecht, wanneer wordt beraadslaagd over een vraagstuk waarbij dit lid ten nauwste is betrokken.
 
-#### Artikel 29. Stemrecht
+##### Artikel 29. Stemrecht
 
 1. Het aantal stemmen van een lid is gelijk aan het aantal aandelen in het aandelenkapitaal van de Bank waarop het heeft ingeschreven. Ingeval een lid verzuimt een deel van het bedrag te betalen dat het verschuldigd is in verband met zijn betalingsverplichtingen met betrekking tot volgestorte aandelen ingevolge artikel 6 van deze Overeenkomst, is dat lid, zolang het verzuim voortduurt, niet gerechtigd het percentage van zijn stemrecht uit te oefenen dat overeenkomt met het percentage dat het niet betaalde verschuldigde bedrag vormt ten opzichte van het totale bedrag van de volgestorte aandelen in het aandelenkapitaal van de Bank waarop dat lid heeft ingeschreven.
 
@@ -444,7 +469,7 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 3. Bij stemming in de Raad van Bewind is elke Bewindvoerder gerechtigd het aantal stemmen uit te brengen waarop de Gouverneurs die hem hebben gekozen recht hebben, alsmede die waarop Gouverneurs die in overeenstemming met het bepaalde in Bijlage B, afdeling D, hun stemmen aan hem hebben overgedragen, recht hebben. Een Bewindvoerder die meer dan één lid vertegenwoordigt, mag afzonderlijk de stemmen uitbrengen van de leden die hij vertegenwoordigt. Tenzij in deze Overeenkomst uitdrukkelijk anders is bepaald en met uitzondering van besluiten inzake het algemeen beleid, die worden genomen met een meerderheid van ten minste twee derde van het totale aantal stemmen van de leden die hun stem uitbrengen, worden besluiten van de Raad van Bewind genomen met een meerderheid van het aantal stemmen van de leden die hun stem uitbrengen.
 
-#### Artikel 30. De President
+##### Artikel 30. De President
 
 1. De Raad van Gouverneurs kiest met een meerderheid van het totale aantal Gouverneurs die ten minste een meerderheid van het totale aantal stemmen van de leden vertegenwoordigen, een President van de Bank. De President mag tijdens het bekleden van zijn functie geen Gouverneur, Bewindvoerder of plaatsvervanger van een van beiden zijn.
 
@@ -458,13 +483,13 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 6. De President leidt de lopende zaken van de Bank volgens de aanwijzingen van de Raad van Bewind.
 
-#### Artikel 31. Vice-President(en)
+##### Artikel 31. Vice-President(en)
 
 1. De Raad van Bewind benoemt één of meer Vice-Presidenten op aanbeveling van de President, de Raad van Bewind bepaalt de ambtstermijn van de Vice-President, diens bevoegdheden en zijn taak bij het besturen van de Bank. Bij afwezigheid of onvermogen van de President oefent de Vice-President de bevoegdheden van de President uit en vervult hij diens taak.
 
 2. De Vice-President kan deelnemen aan vergaderingen van de Raad van Bewind, doch heeft op deze vergaderingen geen stemrecht, behoudens het recht een beslissende stem uit te brengen wanneer hij optreedt in de plaats van de President.
 
-#### Artikel 32. Het internationale karakter van de Bank
+##### Artikel 32. Het internationale karakter van de Bank
 
 1. De Bank aanvaardt geen Bijzondere Fondsen of andere leningen of bijstand die op enigerlei wijze haar doel of taken zouden schaden, daarvan zouden afwijken of deze anderszins zouden veranderen.
 
@@ -472,19 +497,19 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 3. De President, Vice-Presidenten, leidinggevend en ander personeel van de Bank staan in de uitoefening van hun functie uitsluitend in dienst van de Bank en stellen hun diensten aan geen enkele andere autoriteit ter beschikking. Elk lid van de Bank eerbiedigt het internationale karakter van deze dienstbetrekking en onderneemt geen enkele poging een van hen in de uitoefening van zijn functie te beïnvloeden.
 
-#### Artikel 33. Vestiging
+##### Artikel 33. Vestiging
 
 1. Het hoofdkantoor van de Bank is gevestigd te Londen.
 
 2. De Bank kan op het grondgebied van elk lid van de Bank agentschappen en bijkantoren vestigen.
 
-#### Artikel 34. Plaatsen van bewaargeving van en verbindingen met de Bank
+##### Artikel 34. Plaatsen van bewaargeving van en verbindingen met de Bank
 
 1. Elk lid wijst zijn centrale bank, of een andere met de Bank overeen te komen instelling, aan als plaats waar de Bank haar bezit aan valuta van dat lid alsmede andere activa van de Bank kan bewaren.
 
 2. Elk lid wijst een officiële instantie aan waarmee de Bank in verbinding kan treden over aangelegenheden die voortvloeien uit deze Overeenkomst.
 
-#### Artikel 35. Publikatie van verslagen en verstrekking van informatie
+##### Artikel 35. Publikatie van verslagen en verstrekking van informatie
 
 1. De Bank publiceert een jaarverslag, bevattende een door accountants gecertificeerde balans, en doet haarleden met tussenpozen van drie (3) maanden of korter een beknopt overzicht toekomen van haar financiële positie en een opgave van winst en verlies, waaruit het resultaat van haar werkzaamheden blijkt. De financiële overzichten worden weergegeven in ECU.
 
@@ -492,7 +517,7 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 3. Onder de leden worden afschriften verspreid van alle verslagen, overzichten en publikaties openbaar gemaakt uit hoofde van dit artikel.
 
-#### Artikel 36. Toewijzing en uitkering van de netto-inkomsten
+##### Artikel 36. Toewijzing en uitkering van de netto-inkomsten
 
 1. De Raad van Gouverneurs stelt ten minste eenmaal per jaar vast welk deel van de netto-inkomsten van de Bank, na voorziening van de reserves en, indien noodzakelijk, voor het dekken van de eventuele verliezen ingevolge artikel 17, eerste lid, van deze Overeenkomst, wordt toegewezen aan het surplus of aan andere doeleinden, en welk gedeelte eventueel wordt uitgekeerd. Een besluit ter zake van de toewijzing van de netto-inkomsten van de Bank aan andere doeleinden wordt genomen met een meerderheid van ten minste twee derde van de Gouverneurs die ten minste twee derde van het totale aantal stemmen van de leden vertegenwoordigen. Er vindt geen toewijzing of uitkering plaats voordat de algemene reserve ten minste tien (10) procent van het maatschappelijk kapitaal bedraagt.
 
@@ -502,19 +527,19 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 ### HOOFDSTUK VII. OPZEGGING EN SCHORSING VAN HET LIDMAATSCHAP; TIJDELIJKE SCHORSING EN BEËINDIGING VAN DE WERKZAAMHEDEN
 
-#### Artikel 37. Recht van de leden op opzegging
+##### Artikel 37. Recht van de leden op opzegging
 
 1. Ieder lid kan te allen tijde zijn lidmaatschap van de Bank opzeggen door middel van een aan het hoofdkantoor van de Bank gerichte schriftelijke kennisgeving.
 
 2. De opzegging door een lid wordt van kracht en het lidmaatschap eindigt op de datum vermeld in zijn kennisgeving, doch in geen geval eerder dan zes (6) maanden na het tijdstip waarop die kennisgeving door de Bank is ontvangen. Zolang de opzegging niet definitief van kracht is geworden, kan het lid evenwel de Bank te allen tijde ervan in kennis stellen dat het de kennisgeving van zijn voorgenomen opzegging intrekt.
 
-#### Artikel 38. Schorsing van het lidmaatschap
+##### Artikel 38. Schorsing van het lidmaatschap
 
 1. Indien een lid zijn verplichtingen tegenover de Bank niet nakomt, kan de Bank zijn lidmaatschap schorsen bij een besluit genomen met een meerderheid van ten minste twee derde van de Gouverneurs die ten minste twee derde van het totale aantal stemmen van de leden vertegenwoordigen. Een aldus geschorst lid houdt een jaar na zijn schorsing automatisch op lid te zijn, tenzij met ten minste dezelfde meerderheid wordt besloten het lid in ere te herstellen.
 
 2. Zolang de schorsing duurt, is een lid niet bevoegd enig recht ingevolge deze Overeenkomst uit te oefenen, met uitzondering van het recht van opzegging, doch blijfthet gebonden aan al zijn verplichtingen.
 
-#### Artikel 39. Vereffening van rekeningen met voormalige leden
+##### Artikel 39. Vereffening van rekeningen met voormalige leden
 
 1. Na de datum waarop een lid ophoudt lid te zijn, blijft dit voormalige lid aansprakelijk voor zijn directe en zijn indirecte verplichtingen jegens de Bank, zolang enig deel van de leningen, beleggingen in aandelen en garanties die werden aangegaan voordat het ophield lid te zijn, nog uitstaat; doch het is niet langer aansprakelijk met betrekking tot leningen, beleggingen in aandelen en garanties die daarna door de Bank werden aangegaan en het deelt niet in de inkomsten of uitgaven van de Bank.
 
@@ -532,21 +557,21 @@ Zonder afbreuk te doen aan de bevoegdheden van de Raad van Gouverneurs zoals ger
 
 4. Indien de Bank in overeenstemming met artikel 41 van deze Overeenkomst haar werkzaamheden beëindigt binnen zes (6) maanden na de datum waarop een lid ophoudt lid te zijn, worden alle rechten van het voormalige lid vastgesteld in overeenstemming met de bepalingen van de artikelen 41 tot en met 43 van deze Overeenkomst.
 
-#### Artikel 40. Tijdelijke opschorting van de werkzaamheden
+##### Artikel 40. Tijdelijke opschorting van de werkzaamheden
 
 In geval van onvoorziene omstandigheden kan de Raad van Bewind de werkzaamheden tijdelijk opschorten ten aanzien van nieuwe leningen, bankgaranties, emissiegaranties, technische bijstand en beleggingen in aandelen, in afwachting van een gelegenheid tot verder overleg en handelen door de Raad van Gouverneurs.
 
-#### Artikel 41. Beëindiging der werkzaamheden
+##### Artikel 41. Beëindiging der werkzaamheden
 
 De Bank kan haar werkzaamheden beëindigen met een besluit genomen met een meerderheid van ten minste twee derde van de Gouverneurs die ten minste drie vierde van het totale aantal stemmen van de leden vertegenwoordigen. Bij bedoelde beëindiging van de werkzaamheden staakt de Bank terstond alle activiteiten, behalve die welke nodig zijn voor het naar behoren te gelde maken, het in stand houden en het beschermen van haar activa en het vereffenen van haar schulden.
 
-#### Artikel 42. Verplichtingen van leden en betaling van vorderingen
+##### Artikel 42. Verplichtingen van leden en betaling van vorderingen
 
 1. In geval van beëindiging van de werkzaamheden van de Bank blijft de verplichting van alle leden uit hoofde van niet volgestorte inschrijvingen op het aandelenkapitaal van de Bank bestaan totdat alle vorderingen van crediteuren, met inbegrip van alle voorwaardelijke vorderingen, zijn voldaan.
 
 2. Crediteuren die directe vorderingen hebben uit hoofde van de gewone werkzaamheden worden in de eerste plaats betaald uit de activa van de Bank, in de tweede plaats uit betalingen te verrichten aan de Bank ten aanzien van niet betaalde volgestorte aandelen en vervolgens uit betalingen te verrichten aan de Bank ten aanzien van het niet volgestorte aandelenkapitaal. Alvorens betalingen te verrichten aan crediteuren die directe vorderingen hebben, treft de Raad van Bewind de naar zijn oordeel nodige maatregelen ter verzekering van een verdeling pro rata onder de houders van directe en voorwaardelijke voorderingen.
 
-#### Artikel 43. Verdeling der activa
+##### Artikel 43. Verdeling der activa
 
 1. Er vindt geen verdeling van activa plaats onder de leden uit hoofde van hun inschrijving in het aandelenkapitaal van de Bank voordat:
 
@@ -560,11 +585,11 @@ De Bank kan haar werkzaamheden beëindigen met een besluit genomen met een meerd
 
 ### HOOFDSTUK VIII. RECHTSPOSITIE, IMMUNITEITEN, VRIJSTELLINGEN EN VOORRECHTEN
 
-#### Artikel 44. Doel van dit hoofdstuk
+##### Artikel 44. Doel van dit hoofdstuk
 
 Ten einde de Bank in staat te stellen haar doel te verwezenlijken en de haar opgelegde taken te vervullen, worden op het grondgebied van elke lidstaat de in dit hoofdstuk vermelde rechtspositie, immuniteiten, voorrechten en vrijstellingen toegekend.
 
-#### Artikel 45. Rechtspositie van de Bank
+##### Artikel 45. Rechtspositie van de Bank
 
 De Bank bezit onverkorte rechtspersoonlijkheid en heeft in het bijzonder de bevoegdheid:
 
@@ -574,31 +599,31 @@ De Bank bezit onverkorte rechtspersoonlijkheid en heeft in het bijzonder de bevo
 
 - iii. rechtsgedingen te voeren.
 
-#### Artikel 46. Rechtspositie van de Bank met betrekking tot rechtsgedingen
+##### Artikel 46. Rechtspositie van de Bank met betrekking tot rechtsgedingen
 
 Rechtsvorderingen tegen de Bank kunnen slechts worden ingesteld voor een bevoegde rechter op het grondgebied van een land waarin de Bank een kantoor heeft, een vertegenwoordiger heeft aangewezen voor het aannemen van gerechtelijke aanzeggingen, of waardepapieren heeft uitgegeven of gegarandeerd. Er mag evenwel geen vordering worden ingesteld door leden of personen die optreden voor of vorderingen hebben op leden. Eigendommen en activa van de Bank zijn vóór het uitspreken van het eindvonnis tegen de Bank vrij van inbeslagneming, beslaglegging of executie, ongeacht waar deze zich bevinden en ongeacht wie deze in bezit heeft.
 
-#### Artikel 47. Immuniteit der activa met betrekking tot inbeslagneming
+##### Artikel 47. Immuniteit der activa met betrekking tot inbeslagneming
 
 Eigendommen en activa van de Bank zijn vrij van onderzoek, vordering, inbeslagneming, onteigening of andere vormen van beslaglegging of uitsluiting op last van de uitvoerende of wetgevende macht, ongeacht waar deze zich bevinden en ongeacht wie deze in bezit heeft.
 
-#### Artikel 48. Immuniteit der archieven
+##### Artikel 48. Immuniteit der archieven
 
 De archieven van de Bank en, in het algemeen, alle documenten die zij bezit, of die bij haar berusten, zijn onschendbaar.
 
-#### Artikel 49. Vrijstelling der activa van beperkende bepalingen
+##### Artikel 49. Vrijstelling der activa van beperkende bepalingen
 
 Voor zover noodzakelijk ter verwezenlijking van het doel en ter vervulling van de taken van de Bank, en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en activa van de Bank vrijgesteld van beperkingen, regelingen, controles en moratoria van welke aard ook.
 
-#### Artikel 50. Geprivilegeerde behandeling van aanzeggingen van de Bank
+##### Artikel 50. Geprivilegeerde behandeling van aanzeggingen van de Bank
 
 Officiële aanzeggingen van de Bank worden door elk lid niet minder gunstig behandeld dan officiële aanzeggingen van enig ander lid.
 
-#### Artikel 51. Immuniteiten van het leidinggevend en ander personeel
+##### Artikel 51. Immuniteiten van het leidinggevend en ander personeel
 
 Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere personeelsleden van de Bank, alsmede deskundigen die een missie voor de Bank vervullen, genieten immuniteit voor rechtsvorderingen in verband met handelingen die zij uit hoofde van hun ambt hebben verricht, tenzij de Bank afstand doet van deze immuniteit, en genieten omschendbaarheid wat al hun officiële papieren en documenten betreft. Deze immuniteit geldt echter niet voor civielrechtelijke aansprakelijkheid in geval van schade ten gevolge van een verkeersongeval dat door een Gouverneur, Bewindvoerder, plaatsvervanger, leidinggevend of ander personeelslid of een deskundige is veroorzaakt.
 
-#### Artikel 52. Voorrechten van leidinggevend en ander personeel
+##### Artikel 52. Voorrechten van leidinggevend en ander personeel
 
 1. Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere personeelsleden en deskundigen van de Bank die een missie voor de Bank vervullen:
 
@@ -608,7 +633,7 @@ Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere per
 
 2. De echtgenoten en zij die onmiddellijk afhankelijk zijn van bedoelde Bewindvoerders, plaatsvervangend bewindvoerders, leidinggevende en andere personeelsleden en deskundigen van de Bank die woonachtig zijn in het land waarin het hoofdkantoor van de Bank is gevestigd, wordt de gelegenheid geboden een dienstbetrekking aan te gaan in dat land. De echtgenoten en zij die onmiddellijk afhankelijk zijn van de Bewindvoerders, plaatsvervangend Bewindvoerders, leidinggevende en andere personeelsleden en deskundigen van de Bank die woonachtig zijn in een land waarin een agentschap of bijkantoor van de Bank is gevestigd, zou, indien mogelijk, in overeenstemming met de nationale wetgeving van het desbetreffende land, een soortgelijke gelegenheid in dat land moeten worden geboden. De Bank onderhandelt over specifieke overeenkomsten ter uitvoering van de bepalingen van dit lid met het land waarin het hoofdkantoor van de Bank is gevestigd en, indien van toepassing, met de andere betrokken landen.
 
-#### Artikel 53. Vrijstelling van belasting
+##### Artikel 53. Vrijstelling van belasting
 
 1. In het kader van de officiële werkzaamheden van de Bank, zijn haar activa, eigendommen en inkomsten vrijgesteld van alle directe belastingen.
 
@@ -638,17 +663,17 @@ Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere per
 
 - ii. de plaats waar een kantoor van de Bank is gevestigd of waar zij haar bedrijf uitoefent, de enige rechtsgrond voor een dergelijke belasting zou zijn.
 
-#### Artikel 54. Toepassing van dit hoofdstuk
+##### Artikel 54. Toepassing van dit hoofdstuk
 
 Ieder lid neemt terstond de nodige maatregelen om aan de bepalingen van dit hoofdstuk uitvoering te geven en stelt de Bank in kennis van de concrete stappen die het heeft ondernomen.
 
-#### Artikel 55. Afstand van immuniteiten, voorrechten en vrijstellingen
+##### Artikel 55. Afstand van immuniteiten, voorrechten en vrijstellingen
 
 De in dit hoofdstuk omschreven immuniteiten, voorrechten en vrijstellingen worden verleend in het belang van de Bank. de Raad van Bewind kan, in de mate en onder de voorwaarden die het bepaalt, afstand doen van de in dit hoofdstuk omschreven immuniteiten, voorrechten en vrijstellingen in gevallen waarin een dergelijk handelen naar zijn oordeel in het belang van de Bank gewenst wordt geacht. De President heeft het recht en de plicht afstand te doen van een immuniteit, voorrecht of vrijstelling ten aanzien van een leidinggevend of ander personeelslid of een deskundige van de Bank, niet zijnde de President of een Vice-President van de Bank, ingeval de immuniteit, het voorrecht of de vrijstelling naar zijn oordeel een goede rechtspleging in de weg zou staan en daarvan afstand kan worden gedaan zonder afbreuk te doen aan de belangen van de Bank. In soortgelijke omstandigheden en onder dezelfde voorwaarden heeft de Raad van Bewind het recht en de plicht afstand te doen van een immuniteit, voorrecht of vrijstelling ten aanzien van de President en elke Vice-President.
 
 ### HOOFDSTUK IX. WIJZIGINGEN, INTERPRETATIE, ARBITRAGE
 
-#### Artikel 56. Wijzigingen
+##### Artikel 56. Wijzigingen
 
 1. Elk voorstel tot wijziging van deze Overeenkomst, ongeacht of dit afkomstig is van een lid, een Gouverneur of de Raad van Bewind, wordt ingediend bij de Voorzitter van de Raad van Gouverneurs, die het voorstel voorlegt aan de Raad. Indien een voorstel tot wijziging is goedgekeurd door de Raad, vraagt de Bank, door middel van een snel communicatiemiddel, alle leden of zij de voorgestelde wijziging aanvaarden. Wanneer ten minste drie vierde van de leden (waaronder ten minste twee in Bijlage A genoemde Midden- en Oosteuropese landen) die ten minste vier vijfde van het totale aantal stemmen van de leden vertegenwoordigen, de voorgestelde wijziging hebben aanvaard, bevestigt de Bank dit door middel van een officiële mededeling aan alle leden.
 
@@ -670,29 +695,29 @@ Wanneer aan de vereisten voor aanvaarding van een zodanig voorstel tot wijziging
 
 3. Wijzigingen worden voor alle leden drie maanden na de datum van de in het eerste en het tweede lid van dit artikel bedoelde officiële mededeling van kracht, tenzij de Raad van Gouverneurs een andere termijn vaststelt.
 
-#### Artikel 57. Interpretatie en toepassing
+##### Artikel 57. Interpretatie en toepassing
 
 1. Meningsverschillen omtrent de interpretatie of toepassing van de bepalingen van deze Overeenkomst die rijzen tussen een lid en de Bank, of tussen twee of meer leden van de Bank onderling, worden ter beslissing voorgelegd aan de Raad van Bewind. Indien een lid dat niet in de Raad is vertegenwoordigd door een Bewindvoerder van zijn nationaliteit in bijzondere mate bij het desbetreffende meningsverschil is betrokken, is het gerechtigd zich gedurende de behandeling in de Raad van Bewind te doen vertegenwoordigen. De vertegenwoordiger van dit lid heeft echter geen stem. Bedoeld recht van vertegenwoordiging wordt geregeld door de Raad van Gouverneurs.
 
 2. In elk geval waarin de Raad van Bewind ingevolge het eerste lid van dit artikel een beslissing heeft genomen, kan een lid verzoeken de zaak naar de Raad van Gouverneurs te verwijzen, wiens oordeel onherroepelijk is. In afwachting van de beslissing van de Raad van Gouverneurs kan de Bank, voor zover zij dit nodig acht, handelen op grond van de beslissing van de Raad van Bewind.
 
-#### Artikel 58. Arbitrage
+##### Artikel 58. Arbitrage
 
 Wanneer onenigheid ontstaat tussen de Bank en een lid dat heeft opgehouden lid te zijn, of tussen de Bank en een lid nadat is besloten de werkzaamheden van de Bank te beëindigen, wordt de onenigheid onderworpen aan arbitrage door een tribunaal van drie (3) scheidsrechters, een te benoemen door de Bank, een tweede door het betrokken lid of voormalige lid en de derde door de President van het Internationale Gerechtshof of een andere autoriteit die daartoe bij een door de Raad van Gouverneurs te treffen regeling is aangewezen, tenzij de partijen anders overeenkomen. Een gewone meerderheid van de stemmen der scheidsmannen is voldoende om tot een beslissing te komen die onherroepelijk en bindend is voor de partijen. De derde scheidsman is volledig bevoegd over alle vragen betreffende de procedure te beslissen indien daaromtrent tussen de partijen verschil van mening bestaat.
 
-#### Artikel 59. Stilzwijgende toestemming
+##### Artikel 59. Stilzwijgende toestemming
 
 Steeds wanneer de goedkeuring of aanvaarding door een lid is vereist alvorens een handeling door de Bank kan worden verricht, met uitzondering van die uit hoofde van artikel 56 van deze Overeenkomst, wordt de goedkeuring of aanvaarding geacht te hebben plaatsgehad, indien het lid binnen een redelijke termijn, die de Bank vaststelt indien zij het lid mededeling doet van de voorgestelde handeling, daartegen geen bezwaar maakt.
 
 ### HOOFDSTUK X. SLOTBEPALINGEN
 
-#### Artikel 60. Ondertekening en nederlegging
+##### Artikel 60. Ondertekening en nederlegging
 
 1. Deze Overeenkomst, nedergelegd bij de Regering van de Franse Republiek (hierna te noemen „de Depositaris,,) staat tot en met 31 december 1990 open voor ondertekening door de mogelijke toekomstige leden waarvan de namen zijn vermeld in Bijlage A bij deze Overeenkomst.
 
 2. De Depositaris doet alle Ondertekenaars voor eensluidend gewaarmerkte afschriften van deze Overeenkomst toekomen.
 
-#### Artikel 61. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 61. Bekrachtiging, aanvaarding of goedkeuring
 
 1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd door de Ondertekenaars. De akten van bekrachtiging, aanvaarding of goedkeuring worden, met inachtneming van het tweede lid van dit artikel, uiterlijk tot en met 31 maart 1991 nedergelegd bij de Depositaris. De Depositaris stelt de andere Ondertekenaars naar behoren op de hoogte van elke nederlegging en van de datum waarop deze heeft plaatsgevonden.
 
@@ -700,13 +725,13 @@ Steeds wanneer de goedkeuring of aanvaarding door een lid is vereist alvorens ee
 
 3. Een Ondertekenaar waarvan de in het eerste lid van dit artikel bedoelde akte is nedergelegd voor de datum waarop deze Overeenkomst in werking treedt, wordt op die datum lid van de Bank. Elke andere Ondertekenaar die voldoet aan de bepalingen van het voorgaande lid, wordt lid van de Bank op de datum waarop zijn akte van bekrachtiging, aanvaarding of goedkeuring wordt nedergelegd.
 
-#### Artikel 62. Inwerkingtreding
+##### Artikel 62. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking wanneer de akten van bekrachtiging, aanvaarding of goedkeuring zijn nedergelegd door Ondertekenaars waarvan de aanvankelijke inschrijvingen ten minste twee derde van het totale aantal inschrijvingen vermeld in Bijlage A vertegenwoordigen, waaronder ten minste twee van de in Bijlage A genoemde Midden- en Oosteuropese landen.
 
 2. Indien deze Overeenkomst niet in werking is getreden op 31 maart 1991, kan de Depositaris een conferentie beleggen van belanghebbende mogelijke toekomstige leden om de in de toekomst te ondernemen stappen vast te stellen en een nieuwe datum te bepalen waarop de akten van bekrachtiging, aanvaarding of goedkeuring moeten zijn nedergelegd.
 
-#### Artikel 63. Oprichtingsvergadering en begin der werkzaamheden
+##### Artikel 63. Oprichtingsvergadering en begin der werkzaamheden
 
 1. Zodra deze Overeenkomst in werking treedt ingevolge artikel 62 van deze Overeenkomst, benoemt ieder lid een Gouverneur. De Depositaris belegt de eerste vergadering van de Raad van Gouverneurs binnen zestig (60) dagen na de inwerkingtreding van deze Overeenkomst ingevolge artikel 62, of zo spoedig mogelijk daarna.
 
@@ -724,23 +749,23 @@ Steeds wanneer de goedkeuring of aanvaarding door een lid is vereist alvorens ee
 
 ### Afdeling A. - Verkiezing van Bewindvoerders door Gouverneurs die België, Denemarken, Frankrijk, de Bondsrepubliek Duitsland, Griekenland, Ierland, Italië, Luxemburg, Nederland, Portugal, Spanje, het Verenigd Koninkrijk, de Europese Economische Gemeenschap en de Europese Investeringsbank vertegenwoordigen (hierna te noemen Gouverneurs bedoeld in Afdeling A).
 
-#### 1
+##### 1
 
 De onderstaande bepalingen van deze afdeling zijn uitsluitend van toepassing op deze afdeling.
 
-#### 2
+##### 2
 
 Kandidaten voor de functie van Bewindvoerder worden voorgedragen door Gouverneurs bedoeld in Afdeling A, met dien verstande dat een Gouverneur slechts één persoon kan voordragen. De verkiezing van Bewindvoerders geschiedt door middel van stemming door Gouverneurs bedoeld in Afdeling A.
 
-#### 3
+##### 3
 
 Elke Gouverneur die stemgerechtigd is, brengt op een persoon alle stemmen uit waartoe het lid dat hem benoemt gerechtigd is ingevolge artikel 29, eerste en tweede lid, van deze Overeenkomst.
 
-#### 4
+##### 4
 
 De 11 personen die het hoogste aantal stemmen krijgen, met inachtneming van de tiende paragraaf van deze afdeling, worden Bewindvoerder, met dien verstande dat een persoon die minder dan 4,5 procent krijgt van het totale aantal stemmen dat in afdeling A kan worden uitgebracht (meetellende stemmen), niet geacht wordt te zijn gekozen.
 
-#### 5
+##### 5
 
 Indien bij de eerste stemming niet 11 personen worden verkozen, met inachtneming van de tiende paragraaf van deze afdeling, wordt een tweede stemming gehouden, waarbij de persoon die bij de eerste stemming het kleinste aantal stemmen kreeg niet meer voor verkiezing in aanmerking komt - tenzij er niet meer dan 11 kandidaten waren - en waarbij slechts stemmen worden uitgebracht:
 
@@ -748,45 +773,45 @@ Indien bij de eerste stemming niet 11 personen worden verkozen, met inachtneming
 
 - b. door Gouverneurs wier stemmen voor een verkozen persoon volgens de zesde en zevende paragraaf van deze afdeling worden geacht het aantal op die persoon uitgebrachte stemmen boven 5,5 procent van de meetellende stemmen te hebben gebracht.
 
-#### 6
+##### 6
 
 Bij de vaststelling of de stemmen die door een Gouverneur zijn uitgebracht worden geacht het totale aantal op een persoon uitgebrachte stemmen boven 5,5 procent van de meetellende stemmen te hebben gebracht, wordt de 5,5 procent geacht te omvatten, ten eerste, de stemmen van de Gouverneur die het grootste aantal stemmen op die persoon heeft uitgebracht en vervolgens de stemmen van de Gouverneur die daarna het grootste aantal stemmen heeft uitgebracht, enzovoort, totdat de 5,5 procent; hij is niet gerechtigd opnieuw te stemmen.
 
-#### 7
+##### 7
 
 Iedere Gouverneur van wie een gedeelte van de stemmen in aanmerking moet worden genomen om het totale aantal op een persoon uitgebrachte stemmen boven 4,5 procent te brengen, wordt geacht al zijn stemmen op die persoon te hebben uitgebracht, zelfs indien het totale aantal op die persoon uitgebrachte stemmen daardoor meer bedraagt dan 5,5 procent; hij is niet gerechtigd opnieuw te stemmen.
 
-#### 8
+##### 8
 
 Indien na de tweede stemming niet 11 personen zijn verkozen, met inachtneming van de tiende paragraaf van deze afdeling, worden verdere stemmingen gehouden in overeenstemming met de in deze afdeling neergelegde beginselen en procedures, totdat 11 personen zijn verkozen, met dien verstande dat indien in enig stadium 10 personen zijn verkozen, niettegenstaande de bepalingen van de vierde paragraaf van deze afdeling de elfde kan worden verkozen met een gewone meerderheid van de overige uitgebrachte stemmen.
 
-#### 9
+##### 9
 
 In geval van vergroting of verkleining van het aantal door Gouverneurs bedoeld in Afdeling A te verkiezen Bewindvoerders, worden de minimum en maximum percentages, genoemd in de vierde, vijfde, zesde en zevende paragraaf van deze afdeling, op passende wijze aangepast door de Raad van Gouverneurs.
 
-#### 10
+##### 10
 
 Zolang door een Ondertekenaar, of een groep Ondertekenaars, waarvan het aandeel in het totale aantal inschrijvingen in het kapitaal, bepaald in Bijlage A, meer bedraagt dan 2,4 procent niet een akte van bekrachtiging, goedkeuring of aanvaarding is nedergelegd, kan met betrekking tot die Ondertekenaar of groep Ondertekenaars geen verkiezing van een Bewindvoerder plaatsvinden. De Gouverneur of Gouverneurs door wie deze Ondertekenaar of groep Ondertekenaars wordt vertegenwoordigd, kiest, of kiezen, met betrekking tot elke Ondertekenaar of groep Ondertekenaars een Bewindvoerder onmiddellijk nadat de Ondertekenaar of groep Ondertekenaars lid is geworden. Indien deze Bewindvoerder wordt verkozen in het tijdvak waarin het eerste Raad van Bewind zijn functie bekleedt, wordt hij geacht te zijn verkozen door de Raad van Gouverneurs op de oprichtingsvergadering, in overeenstemming met artikel 26, derde lid, van deze Overeenkomst.
 
 ### Afdeling B. - Verkiezing van bewindvoerders door gouverneurs die andere landen vertegenwoordigen
 
-#### 1
+##### 1
 
 De onderstaande bepalingen van deze afdeling zijn uitsluitend van toepassing op deze afdeling.
 
-#### 2
+##### 2
 
 Kandidaten voor de functie van Bewindvoerder worden voorgedragen door Gouverneurs bedoeld in afdeling B, punt ii, met dien verstande dat een Gouverneur slechts één persoon kan voordragen. De verkiezing van Bewindvoerders geschiedt door middel van stemming door Gouverneurs bedoeld in afdeling B, punt ii.
 
-#### 3
+##### 3
 
 Elke Gouverneur die stemgerechtigd is, brengt op een persoon alle stemmen uit waartoe het lid dat hem benoemt gerechtigd is ingevolge artikel 29, eerste en tweede lid, van deze Overeenkomst.
 
-#### 4
+##### 4
 
 De 4 personen die het hoogste aantal stemmen krijgen, met inachtneming van de tiende paragraaf van deze afdeling, worden Bewindvoerder, met dien verstande dat een persoon die minder dan 20,5 procent krijgt van het totale aantal stemmen dat in afdeling B, punt ii, kan worden uitgebracht (meetellende stemmen), niet geacht wordt te zijn gekozen.
 
-#### 5
+##### 5
 
 Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming van de tiende paragraaf van deze afdeling, wordt een tweede stemming gehouden, waarbij de persoon die bij de eerste stemming het kleinste aantal stemmen kreeg niet meer voor verkiezing in aanmerking komt - tenzij er niet meer dan 4 kandidaten waren - en waarbij slechts stemmen worden uitgebracht:
 
@@ -794,45 +819,45 @@ Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming 
 
 - b. door Gouverneurs wier stemmen voor een verkozen persoon volgens de zesde en zevende paragraaf van deze afdeling worden geacht het aantal op die persoon uitgebrachte stemmen boven 21,5 procent van de meetellende stemmen te hebben gebracht.
 
-#### 6
+##### 6
 
 Bij de vaststelling of de stemmen die door een Gouverneur zijn uitgebracht worden geacht het totale aantal op een persoon uitgebrachte stemmen boven 21,5 procent van de meetellende stemmen te hebben gebracht, wordt de 21,5 procent geacht te omvatten, ten eerste, de stemmen van de Gouverneur die het grootste aantal stemmen op die persoon heeft uitgebracht en vervolgens de stemmen van de Gouverneur die daarna het grootste aantal stemmen heeft uitgebracht, enzovoort, totdat de 21,5 procent is bereikt.
 
-#### 7
+##### 7
 
 Iedere Gouverneur van wie een gedeelte van de stemmen in aanmerking moet worden genomen om het totale aantal op een persoon uitgebrachte stemmen boven 20,5 procent te brengen, wordt geacht al zijn stemmen op die persoon te hebben uitgebracht, zelfs indien het totale aantal op die persoon uitgebrachte stemmen daardoor meer bedraagt dan 21,5 procent; hij is niet gerechtigd opnieuw te stemmen.
 
-#### 8
+##### 8
 
 Indien na de tweede stemming niet 4 personen zijn verkozen, met inachtneming van de tiende paragraaf van deze afdeling, worden verdere stemmingen gehouden in overeenstemming met de in deze afdeling neergelegde beginselen en procedures, totdat 4 personen zijn verkozen, met dien verstande dat indien in enig stadium 3 personen zijn verkozen, niettegenstaande de bepalingen van de vierde paragraaf van deze afdeling de vierde kan worden verkozen met een gewone meerderheid van de overige uitgebrachte stemmen.
 
-#### 9
+##### 9
 
 In geval van vergroting of verkleining van het aantal door Gouverneurs bedoeld in afdeling B, punt ii, te verkiezen Bewindvoerders, worden de minimum en maximum percentages, genoemd in de vierde, vijfde, zesde en zevende paragraaf van deze afdeling, op passende wijze aangepast door de Raad van Gouverneurs.
 
-#### 10
+##### 10
 
 Zolang door een Ondertekenaar, of een groep Ondertekenaars, waarvan het aandeel in het totale aantal inschrijvingen in het kapitaal, bepaald in Bijlage A, meer bedraagt dan 2,8 procent niet een akte van bekrachtiging, goedkeuring of aanvaarding is nedergelegd, kan met betrekking tot die Ondertekenaar of groep Ondertekenaars geen verkiezing van een Bewindvoerder plaatsvinden. De Gouverneur of Gouverneurs door wie deze Ondertekenaar of groep Ondertekenaars wordt vertegenwoordigd, kiest, of kiezen, met betrekking tot elke Ondertekenaar of groep Ondertekenaars een Bewindvoerder onmiddellijk nadat de Ondertekenaar of groep Ondertekenaars lid is geworden. Indien deze Bewindvoerder wordt verkozen in het tijdvak waarin het eerste Raad van Bewind zijn functie bekleedt, wordt hij geacht te zijn verkozen door de Raad van Gouverneurs op de oprichtingsvergadering, in overeenstemming met artikel 26, derde lid, van deze Overeenkomst.
 
 ### Afdeling B. , punt ii, - Verkiezing van Bewindvoerders door Gouverneurs die de landen genoemd in Bijlage A als andere Europese landen vertegenwoordigen (hierna te noemen „Gouverneurs bedoeld in afdeling B, punt ii”).
 
-#### 1
+##### 1
 
 De onderstaande bepalingen van deze afdeling zijn uitsluitend van toepassing op deze afdeling.
 
-#### 2
+##### 2
 
 Kandidaten voor de functie van Bewindvoerder worden voorgedragen door Gouverneurs bedoeld in afdeling B, punt ii, met dien verstande dat een Gouverneur slechts één persoon kan voordragen. De verkiezing van Bewindvoerders geschiedt door middel van stemming door Gouverneurs bedoeld in afdeling B, punt ii.
 
-#### 3
+##### 3
 
 Elke Gouverneur die stemgerechtigd is, brengt op een persoon alle stemmen uit waartoe het lid dat hem benoemt gerechtigd is ingevolge artikel 29, eerste en tweede lid, van deze Overeenkomst.
 
-#### 4
+##### 4
 
 De 4 personen die het hoogste aantal stemmen krijgen, met inachtneming van de tiende paragraaf van deze afdeling, worden Bewindvoerder, met dien verstande dat een persoon die minder dan 20,5 procent krijgt van het totale aantal stemmen dat in afdeling B, punt ii, kan worden uitgebracht (meetellende stemmen), niet geacht wordt te zijn gekozen.
 
-#### 5
+##### 5
 
 Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming van de tiende paragraaf van deze afdeling, wordt een tweede stemming gehouden, waarbij de persoon die bij de eerste stemming het kleinste aantal stemmen kreeg niet meer voor verkiezing in aanmerking komt - tenzij er niet meer dan 4 kandidaten waren - en waarbij slechts stemmen worden uitgebracht:
 
@@ -840,45 +865,45 @@ Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming 
 
 - b. door Gouverneurs wier stemmen voor een verkozen persoon volgens de zesde en zevende paragraaf van deze afdeling worden geacht het aantal op die persoon uitgebrachte stemmen boven 21,5 procent van de meetellende stemmen te hebben gebracht.
 
-#### 6
+##### 6
 
 Bij de vaststelling of de stemmen die door een Gouverneur zijn uitgebracht worden geacht het totale aantal op een persoon uitgebrachte stemmen boven 21,5 procent van de meetellende stemmen te hebben gebracht, wordt de 21,5 procent geacht te omvatten, ten eerste, de stemmen van de Gouverneur die het grootste aantal stemmen op die persoon heeft uitgebracht en vervolgens de stemmen van de Gouverneur die daarna het grootste aantal stemmen heeft uitgebracht, enzovoort, totdat de 21,5 procent is bereikt.
 
-#### 7
+##### 7
 
 Iedere Gouverneur van wie een gedeelte van de stemmen in aanmerking moet worden genomen om het totale aantal op een persoon uitgebrachte stemmen boven 20,5 procent te brengen, wordt geacht al zijn stemmen op die persoon te hebben uitgebracht, zelfs indien het totale aantal op die persoon uitgebrachte stemmen daardoor meer bedraagt dan 21,5 procent; hij is niet gerechtigd opnieuw te stemmen.
 
-#### 8
+##### 8
 
 Indien na de tweede stemming niet 4 personen zijn verkozen, met inachtneming van de tiende paragraaf van deze afdeling, worden verdere stemmingen gehouden in overeenstemming met de in deze afdeling neergelegde beginselen en procedures, totdat 4 personen zijn verkozen, met dien verstande dat indien in enig stadium 3 personen zijn verkozen, niettegenstaande de bepalingen van de vierde paragraaf van deze afdeling de vierde kan worden verkozen met een gewone meerderheid van de overige uitgebrachte stemmen.
 
-#### 9
+##### 9
 
 In geval van vergroting of verkleining van het aantal door Gouverneurs bedoeld in afdeling B, punt ii, te verkiezen Bewindvoerders, worden de minimum en maximum percentages, genoemd in de vierde, vijfde, zesde en zevende paragraaf van deze afdeling, op passende wijze aangepast door de Raad van Gouverneurs.
 
-#### 10
+##### 10
 
 Zolang door een Ondertekenaar, of een groep Ondertekenaars, waarvan het aandeel in het totale aantal inschrijvingen in het kapitaal, bepaald in Bijlage A, meer bedraagt dan 2,8 procent niet een akte van bekrachtiging, goedkeuring of aanvaarding is nedergelegd, kan met betrekking tot die Ondertekenaar of groep Ondertekenaars geen verkiezing van een Bewindvoerder plaatsvinden. De Gouverneur of Gouverneurs door wie deze Ondertekenaar of groep Ondertekenaars wordt vertegenwoordigd, kiest, of kiezen, met betrekking tot elke Ondertekenaar of groep Ondertekenaars een Bewindvoerder onmiddellijk nadat de Ondertekenaar of groep Ondertekenaars lid is geworden. Indien deze Bewindvoerder wordt verkozen in het tijdvak waarin het eerste Raad van Bewind zijn functie bekleedt, wordt hij geacht te zijn verkozen door de Raad van Gouverneurs op de oprichtingsvergadering, in overeenstemming met artikel 26, derde lid, van deze Overeenkomst.
 
 ### Afdeling B. , punt iii, - Verkiezing van Bewindvoerders door Gouverneurs die de landen genoemd in Bijlage A als niet-Europese landen vertegenwoordigen (hierna te noemen „Gouverneurs bedoeld in afdeling B, punt iii”).
 
-#### 1
+##### 1
 
 De onderstaande bepalingen van deze afdeling zijn uitsluitend van toepassing op deze afdeling.
 
-#### 2
+##### 2
 
 Kandidaten voor de functie van Bewindvoerder worden voorgedragen door Gouverneurs bedoeld in afdeling B, punt iii, met dien verstande dat een Gouverneur slechts één persoon kan voordragen. De verkiezing van Bewindvoerders geschiedt door middel van stemming door Gouverneurs bedoeld in afdeling B, punt iii.
 
-#### 3
+##### 3
 
 Elke Gouverneur die stemgerechtigd is, brengt op een persoon alle stemmen uit waartoe het lid dat hem benoemt gerechtigd is ingevolge artikel 29, eerste en tweede lid, van deze Overeenkomst.
 
-#### 4
+##### 4
 
 De 4 personen die het hoogste aantal stemmen krijgen, met inachtneming van de tiende paragraaf van deze afdeling, worden Bewindvoerder, met dien verstande dat een persoon die minder dan 8 procent krijgt van het totale aantal stemmen dat in afdeling B, punt iii, kan worden uitgebracht (meetellende stemmen), niet geacht wordt te zijn gekozen.
 
-#### 5
+##### 5
 
 Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming van de tiende paragraaf van deze afdeling, wordt een tweede stemming gehouden, waarbij de persoon die bij de eerste stemming het kleinste aantal stemmen kreeg niet meer voor verkiezing in aanmerking komt - tenzij er niet meer dan 4 kandidaten waren - en waarbij slechts stemmen worden uitgebracht:
 
@@ -886,23 +911,23 @@ Indien bij de eerste stemming niet 4 personen worden verkozen, met inachtneming 
 
 - b. door Gouverneurs wier stemmen voor een verkozen persoon volgens de zesde en zevende paragraaf van deze afdeling worden geacht het aantal op die persoon uitgebrachte stemmen boven 9 procent van de meetellende stemmen te hebben gebracht.
 
-#### 6
+##### 6
 
 Bij de vaststelling of de stemmen die door een Gouverneur zijn uitgebracht worden geacht het totale aantal op een persoon uitgebrachte stemmen boven 9 procent van de meetellende stemmen te hebben gebracht, wordt de 9 procent geacht te omvatten, ten eerste, de stemmen van de Gouverneur die het grootste aantal stemmen op die persoon heeft uitgebracht en vervolgens de stemmen van de Gouverneur die daarna het grootste aantal stemmen heeft uitgebracht, enzovoort, totdat de 9 procent is bereikt.
 
-#### 7
+##### 7
 
 Iedere Gouverneur van wie een gedeelte van de stemmen in aanmerking moet worden genomen om het totale aantal op een persoon uitgebrachte stemmen boven 8 procent te brengen, wordt geacht al zijn stemmen op die persoon te hebben uitgebracht, zelfs indien het totale aantal op die persoon uitgebrachte stemmen daardoor meer bedraagt dan 9 procent; hij is niet gerechtigd opnieuw te stemmen.
 
-#### 8
+##### 8
 
 Indien na de tweede stemming niet 4 personen zijn verkozen, met inachtneming van de tiende paragraaf van deze afdeling, worden verdere stemmingen gehouden in overeenstemming met de in deze afdeling neergelegde beginselen en procedures, totdat 4 personen zijn verkozen, met dien verstande dat indien in enig stadium 3 personen zijn verkozen, niettegenstaande de bepalingen van de vierde paragraaf van deze afdeling de vierde kan worden verkozen met een gewone meerderheid van de overige uitgebrachte stemmen.
 
-#### 9
+##### 9
 
 In geval van vergroting of verkleining van het aantal door Gouverneurs bedoeld in afdeling B, punt iii, te verkiezen Bewindvoerders, worden de minimum en maximum percentages, genoemd in de vierde, vijfde, zesde en zevende paragraaf van deze afdeling, op passende wijze aangepast door de Raad van Gouverneurs.
 
-#### 10
+##### 10
 
 Zolang door een Ondertekenaar, of een groep Ondertekenaars, waarvan het aandeel in het totale aantal inschrijvingen in het kapitaal, bepaald in Bijlage A, meer bedraagt dan 5 procent niet een akte van bekrachtiging, goedkeuring of aanvaarding is nedergelegd, kan met betrekking tot die Ondertekenaar of groep Ondertekenaars geen verkiezing van een Bewindvoerder plaatsvinden. De Gouverneur of Gouverneurs door wie deze Ondertekenaar of groep Ondertekenaars wordt vertegenwoordigd, kiest, of kiezen, met betrekking tot elke Ondertekenaar of groep Ondertekenaars een Bewindvoerder onmiddellijk nadat de Ondertekenaar of groep Ondertekenaars lid is geworden. Indien deze Bewindvoerder wordt verkozen in het tijdvak waarin het eerste Raad van Bewind zijn functie bekleedt, wordt hij geacht te zijn verkozen door de Raad van Gouverneurs op de oprichtingsvergadering, in overeenstemming met artikel 26, derde lid, van deze Overeenkomst.
 

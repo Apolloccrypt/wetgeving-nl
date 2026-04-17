@@ -1,26 +1,51 @@
 ---
 title: "Regeling protonentherapie"
 identifier: "BWBR0037204"
-categorie: "Overig"
-publicatiedatum: 2015-11-19
-laatste_update: 2015-11-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037204"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-11-19"
+last_updated: "2015-11-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037204"
+soort: "zbo"
+stam_id: "13305693"
+version_id: "22784842"
+internal_id: "C32933161"
+label_id: "13273524"
+dtd_version: "2.0"
+original_entry_into_force: "2015-11-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037204/2015-11-19/0"
+intitule_bron: "Stcrt.2015-40723"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-10"
+intitule_published: "2015-11-18"
+intitule_in_force: "2015-11-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-40723"
+original_signed_date: "2015-11-10"
+original_published_date: "2015-11-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-40723"
+entry_into_force_date: "2015-11-19"
+jci_1_3: "jci1.3:c:BWBR0037204&z=2015-11-19&g=2015-11-19"
+jci_1_0: "1.0:c:BWBR0037204&g=2015-11-19"
+citeertitel_status: "officieel"
+signed_date: "2015-11-10"
+entry_into_force: "2015-11-19"
 ---
-
 # Regeling protonentherapie
 
 Op grond van de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=35), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), alsmede de beleidsregel ‘Prestaties en tarieven protonentherapie’, stelt de Nederlandse Zorgautoriteit (NZa) de volgende regeling vast.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die op grond van een vergunning ex [artikel 2 WBMV](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2), afgegeven door de Minister van Volksgezondheid, Welzijn en Sport (VWS), gerechtigd zijn om protonentherapie aan te bieden en te leveren.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 In deze regeling legt de NZa regels vast die zorgaanbieders als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037204&artikel=1&z=2015-11-19&g=2015-11-19) in acht moeten nemen bij het aanbieden en leveren van protonentherapie.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -28,11 +53,11 @@ In deze regeling wordt verstaan onder:
 
 - b. **Protonentherapie:** een vorm van radiotherapie, waarbij protonen uit waterstofkernen worden toegepast.1Artikel 1 Regeling protonentherapie.
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 De begrips-, registratie- en declaratiebepalingen zoals opgenomen in de [Regeling ‘Medisch specialistische zorg’](https://wetten.overheid.nl/jci1.3:c:BWBR0036896) zijn van overeenkomstige toepassing op de aanbieders van protonentherapie, tenzij in de onderhavige regeling anders is bepaald.
 
-#### Artikel 5. Registratiebepalingen
+##### Artikel 5. Registratiebepalingen
 
 1. Een DBC-zorgproduct voor protonentherapie wordt geregistreerd op het moment dat de eerste activiteit in dit kader plaatsvindt gericht op een nieuwe zorgvraag van de patiënt.
 
@@ -60,7 +85,7 @@ De begrips-, registratie- en declaratiebepalingen zoals opgenomen in de [Regelin
 
 9. De beroepsbeoefenaar die de poortfunctie uitvoert, is verantwoordelijk voor de juiste registratie van de uitkomst van de planningsvergelijking protonen- en fotonentherapie.
 
-#### Artikel 6. Declaratiebepalingen
+##### Artikel 6. Declaratiebepalingen
 
 1. Een zorgverlener mag een DBC-zorgproduct voor protonentherapie niet declareren, indien niet is voldaan aan de bepalingen van deze regeling en die van de beleidsregel ‘Prestaties en tarieven protonentherapie’.
 
@@ -130,7 +155,7 @@ Hiermee wordt bedoeld dat geen sprake is van een protonenbehandeling gecombineer
 
 - –. Controle door de zorgverzekeraar op de rechtmatigheid van nota’s die, vergezeld van een verklaring als bedoeld onder j2, ter betaling aan die zorgverzekeraar zijn aangeboden, vindt uitsluitend plaats door of onder de verantwoordelijkheid van een medisch adviseur.
 
-#### Artikel 7. Inwerkingtreding en citeertitel
+##### Artikel 7. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking op de dag na publicatie in de Staatscourant. Ingevolge [artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=20) (Wmg) zal deze regeling in de Staatscourant worden geplaatst.
 

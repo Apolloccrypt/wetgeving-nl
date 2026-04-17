@@ -1,13 +1,39 @@
 ---
-title: "Remigratiebesluit"
+title: "Besluit van 1 maart 2014 houdende voorschriften ter uitvoering van de Remigratiewet en tot wijziging van enige andere algemene maatregelen van bestuur (Remigratiebesluit)"
 identifier: "BWBR0034905"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-13
-laatste_update: 2023-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034905"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-13"
+last_updated: "2023-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034905"
+soort: "AMvB"
+stam_id: "12597563"
+version_id: "21268262"
+internal_id: "C30559401"
+label_id: "12568134"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034905/2023-01-13/0"
+intitule_bron: "Stb.2014-99"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-01"
+intitule_published: "2014-03-11"
+intitule_in_force: "2014-03-11"
+intitule_status: "goed"
+original_publication: "Stb.2014-99"
+original_signed_date: "2014-03-01"
+original_published_date: "2014-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-99"
+entry_into_force_date: "2014-03-12"
+jci_1_3: "jci1.3:c:BWBR0034905&z=2023-01-13&g=2023-01-13"
+jci_1_0: "1.0:c:BWBR0034905&g=2023-01-13"
+citeertitel_status: "officieel"
+short_title: "Remigratiebesluit"
+signed_date: "2014-03-01"
+entry_into_force: "2014-03-12"
 ---
-
 # Besluit van 1 maart 2014 houdende voorschriften ter uitvoering van de Remigratiewet en tot wijziging van enige andere algemene maatregelen van bestuur (Remigratiebesluit)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 30 augustus 2013, nr. 2013-0000117426 en van 2 november 2012, nr. KO/B/2012/16341;
@@ -32,23 +58,23 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk VI. Wijziging en intrekking besluiten
 
-#### Artikel 12. Wijziging van het [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+##### Artikel 12. Wijziging van het [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel 13. Wijziging van het [Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708)
+##### Artikel 13. Wijziging van het [Boetebesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011708)
 
 Wijzigt het Boetebesluit socialezekerheidswetten.
 
-#### Artikel 14. Wijziging van het[Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445)
+##### Artikel 14. Wijziging van het[Maatregelenbesluit socialezekerheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0022445)
 
 Wijzigt het Maatregelenbesluit socialezekerheidswetten.
 
-#### Artikel 15. Wijziging van het [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
+##### Artikel 15. Wijziging van het [Besluit kwaliteit kinderopvang en peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0031621)
 
 Wijzigt het Besluit kwaliteit kinderopvang en peuterspeelzalen.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
@@ -56,7 +82,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,7 +94,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Onder kind wordt in de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2023-01-13&g=2023-01-13), [8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=8&z=2023-01-13&g=2023-01-13), [9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=9&z=2023-01-13&g=2023-01-13), en [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2023-01-13&g=2023-01-13), mede verstaan het bij vertrek van de remigrant uit Nederland in het bestemmingsland verblijvende minderjarige eigen kind, stiefkind of pleegkind.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bruto bedrag van de remigratie-uitkering wordt bij ministeriële regeling vastgesteld.
 
@@ -88,19 +114,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. De hoogte van het bruto bedrag van de remigratie-uitkering wordt bepaald naar de toestand op de datum van vertrek uit Nederland, een en ander onverminderd de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=7&z=2023-01-13&g=2023-01-13), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=IV&artikel=10&z=2023-01-13&g=2023-01-13).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2023-01-13&g=2023-01-13), worden jaarlijks gewijzigd aan de hand van de helft van het percentage waarmee in het voorafgaande kalenderjaar de bijstandsnormen met toepassing van [artikel 38, eerste en tweede lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=38) zijn gewijzigd. De gewijzigde bedragen worden door of namens Onze Minister medegedeeld in de Staatscourant.
 
 2. De bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=2&z=2023-01-13&g=2023-01-13), kunnen door Onze Minister worden gewijzigd indien de noodzakelijke kosten van bestaan in het bestemmingsland dusdanig wijzigen dat daartoe aanleiding bestaat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De remigratie-uitkering wordt per maand uitbetaald.
 
 2. Indien de netto remigratie-uitkering minder dan € 25 bedraagt, kan de som van de remigratie-uitkeringen eenmaal per jaar worden uitbetaald.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bruto bedrag van de tegemoetkoming, bedoeld in [artikel 4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=4), wordt bij ministeriële regeling vastgesteld.
 
@@ -110,7 +136,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk III. Samenloop van de remigratie-uitkering met andere uitkeringen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op het bruto bedrag van de remigratie-uitkering wordt in mindering gebracht het bruto bedrag van de uitkeringen op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), waarop de remigrant of zijn partner over de maand waarover de remigratie-uitkering verstrekt wordt, aanspraak heeft.
 
@@ -120,7 +146,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk IV. Tijdstip waarop het recht op voorzieningen ingaat en vervalt
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het recht op de remigratievoorzieningen gaat in op de eerste dag na die van vertrek van de remigrant naar het bestemmingsland.
 
@@ -136,7 +162,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 7. Het recht op de remigratievoorzieningen van de minderjarige kinderen, bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5), gaat in op de eerste dag van de tweede maand, volgende op de maand waarin de remigrant en zijn partner niet meer in leven zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het recht op de remigratievoorzieningen, bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=4) en [11, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=11), vervalt met ingang van de eerste dag van de tweede maand, volgende op de maand van overlijden van de remigrant of zijn partner.
 
@@ -150,13 +176,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. indien deze er niet zijn: de persoon of personen die daarvoor naar het oordeel van de Sociale verzekeringsbank uit billijkheidsoverwegingen in aanmerking komt of komen, mits deze binnen zes maanden na het overlijden een daartoe strekkend verzoek bij de Sociale verzekeringsbank heeft of hebben ingediend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met ingang van de eerste dag van de tweede maand, volgende op de maand van overlijden van een kind dan wel met ingang van de eerste dag van de maand, volgende op de maand waarin een kind niet langer minderjarig is, vervalt het recht, bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5), op het evenredig deel, bedoeld in artikel 5, derde lid, van de wet.
 
 2. Na het overlijden, bedoeld in het eerste lid, worden de nog verschuldigde voorzieningen verstrekt aan de persoon of personen die daarvoor naar het oordeel van de Sociale verzekeringsbank uit billijkheidsoverwegingen in aanmerking komt onderscheidenlijk komen, mits deze binnen zes maanden na het overlijden een daartoe strekkend verzoek bij de Sociale verzekeringsbank heeft onderscheidenlijk hebben ingediend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Ingeval twee alleenstaande remigranten die ieder afzonderlijk recht hebben op de remigratievoorzieningen een gezamenlijke huishouding gaan voeren, hun partnerschap laten registreren of met elkaar huwen, worden de twee afzonderlijke rechten op de remigratievoorzieningen omgezet in een recht op de remigratievoorzieningen als waren zij een remigrant en partner.
 
@@ -166,7 +192,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk V. Terugkeerregeling
 
-#### Artikel 11
+##### Artikel 11
 
 Personen die zijn geremigreerd op grond van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424), komen in aanmerking voor de terugkeerregeling, bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8), indien zij bij hun aanvraag tot wedertoelating voldoen aan de voorwaarden, genoemd in [artikel 3.51, eerste lid, onderdeel g, van het Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825&artikel=3.51) en er op grond van het gestelde bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) geen andere beletselen zijn voor wedertoelating.
 
@@ -174,7 +200,7 @@ Personen die zijn geremigreerd op grond van de [wet](https://wetten.overheid.nl/
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 17
+##### Artikel 17
 
 1. De [artikelen 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=10), [12, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=12), [13, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=13), en [15, eerste en vierde lid, van het Uitvoeringsbesluit Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=15), en [artikel 13 van het Besluit voorzieningen Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010773&artikel=13), zoals die luidden voor het tijdstip van inwerkingtreding van dit besluit, blijven van toepassing op personen die voor dat tijdstip zijn geremigreerd en basisvoorzieningen hebben ontvangen of een aanvraag tot toekenning van die basisvoorzieningen bij de Sociale verzekeringsbank hebben ingediend. Onder basisvoorzieningen worden verstaan de voorzieningen, bedoeld in [artikel 1, eerste lid, onderdeel b, van het Uitvoeringsbesluit Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0011222&artikel=1) zoals dat luidde voor het tijdstip van inwerkingtreding van dit besluit.
 
@@ -182,11 +208,11 @@ Personen die zijn geremigreerd op grond van de [wet](https://wetten.overheid.nl/
 
 3. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=II&artikel=3&z=2023-01-13&g=2023-01-13), is niet van toepassing op personen die zijn geremigreerd vóór 1 april 2000.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet)](https://wetten.overheid.nl/jci1.3:c:BWBR0033774) (Stb. 2013, 331) in werking treedt, met uitzondering van de [artikelen 13, aanhef en onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=13&z=2023-01-13&g=2023-01-13), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&hoofdstuk=VI&artikel=15&z=2023-01-13&g=2023-01-13), die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 19
+##### Artikel 19
 
 Dit besluit wordt aangehaald als: Remigratiebesluit.
 

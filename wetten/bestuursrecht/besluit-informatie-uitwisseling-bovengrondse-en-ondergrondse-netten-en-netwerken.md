@@ -1,13 +1,39 @@
 ---
-title: "Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
+title: "Besluit van 21 maart 2018, houdende regels voor een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)"
 identifier: "BWBR0040786"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040786"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040786"
+soort: "AMvB"
+stam_id: "14584103"
+version_id: "25084472"
+internal_id: "C35872791"
+label_id: "14537784"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040786/2024-01-01/0"
+intitule_bron: "Stb.2018-92"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-21"
+intitule_published: "2018-03-30"
+intitule_in_force: "2018-03-30"
+intitule_status: "goed"
+original_publication: "Stb.2018-185"
+original_signed_date: "2018-06-06"
+original_published_date: "2018-06-21"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-185"
+entry_into_force_date: "2018-06-06"
+jci_1_3: "jci1.3:c:BWBR0040786&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0040786&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken"
+signed_date: "2018-06-06"
+entry_into_force: "2018-06-06"
 ---
-
 # Besluit van 21 maart 2018, houdende regels voor een systeem van informatie-uitwisseling betreffende bovengrondse en ondergrondse infrastructuur van netten en netwerken ter voorkoming van graafschade en ter bevordering van de aanleg van elektronische communicatienetwerken met hoge snelheid (Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken en Klimaat, gedaan mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 december 2017, nr. WJZ/17195871;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een beheerpolygoon, oriëntatiepolygoon en graafpolygoon wordt weergegeven door een tekening van een vlak aan de hand van coördinaten van het rijksdriehoekstelsel op door de Dienst verstrekt kaartmateriaal.
 
@@ -50,7 +76,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een netwerkexploitant die reeds als beheerder een beheerpolygoon voor zijn net en netwerk heeft opgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Beheerders, netwerkexploitanten, aanbieders, opdrachtgevers, grondroerders, en bestuursorganen hebben toegang tot en aansluiting op het informatiesysteem, mits zij zich daartoe tevoren hebben aangemeld bij de Dienst.
 
@@ -62,7 +88,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Bij ministeriële regeling worden nadere regels gesteld over de in het eerste lid bedoelde aanmelding, met inbegrip van de verstrekking van gegevens omtrent de aan te melden organisatie en personen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De registratiemelding, het oriëntatieverzoek en de graafmelding worden gedaan en het graafbericht wordt verzonden via het elektronisch informatiesysteem, met dien verstande dat:
 
@@ -76,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop en de vorm waarin een registratiemelding, een oriëntatieverzoek, een graafmelding, een ontvangstbevestiging als bedoeld in [artikel 10, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=10), of een graafbericht wordt gedaan, en over de hierbij te verstrekken gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De liggingsgegevens die deel uitmaken van de beheerdersinformatie hebben betrekking op elk in de oriëntatiepolygoon of graafpolygoon gelegen net of netwerk, en worden weergegeven door een tekening op een bij ministeriële regeling te bepalen schaalgrootte.
 
@@ -98,11 +124,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Bij ministeriële regeling kunnen nadere regels worden gesteld over de gebiedsinformatie die op grond van [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=13) aan degene die het oriëntatieverzoek of de graafmelding heeft gedaan wordt verstrekt en over de wijze waarop deze gebiedsinformatie wordt verstrekt.
 
-#### Artikel 6
+##### Artikel 6
 
 De maximale diepgang, bedoeld in [artikel 8, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=8), bedraagt 50 centimeter.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien als gevolg van een calamiteit onverwijld graafwerkzaamheden noodzakelijk zijn om persoonlijk letsel of grote schade te voorkomen zijn de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=2), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=8) en [15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=15) niet van toepassing.
 
@@ -120,7 +146,7 @@ De maximale diepgang, bedoeld in [artikel 8, derde lid, van de wet](https://wett
 
 8. De opdrachtgever meldt onder opgaaf van redenen uiterlijk de eerstvolgende werkdag bij Onze Minister indien hij opdracht heeft gegeven tot graafwerkzaamheden als bedoeld in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gebieden, met inbegrip van de daarin gelegen fysieke infrastructuur en civiele werken, bedoeld in [artikel 30 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=30), zijn:
 
@@ -154,35 +180,35 @@ De maximale diepgang, bedoeld in [artikel 8, derde lid, van de wet](https://wett
 
 5. Op de verstrekking van informatie door de gebiedsbeheerder zijn [artikel 13, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=13) en de krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=28) en [29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=29) gestelde regels van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 De bewaarplicht, bedoeld in [artikel 22 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=22), geldt voor een periode van vijf jaar.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Besluit externe veiligheid buisleidingen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt dit besluit.
 
-#### Artikel 12
+##### Artikel 12
 
 Het [Besluit informatie-uitwisseling ondergrondse netten](https://wetten.overheid.nl/jci1.3:c:BWBR0024041) wordt ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit besluit treedt, met uitzondering van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2024-01-01&g=2024-01-01), in werking op het tijdstip waarop de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking treedt.
 
 2. [Artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040786&artikel=11&z=2024-01-01&g=2024-01-01) treedt in werking op het tijdstip waarop zowel de [Wet informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken](https://wetten.overheid.nl/jci1.3:c:BWBR0040728) in werking is getreden als artikel I, onderdeel C, van het bij koninklijke boodschap van 23 juni 2017 ingediende voorstel van wet tot wijziging van de Wet informatie-uitwisseling ondergrondse netten (evaluatie WION en regeling bevoegde rechter) (Kamerstukken 34 745).
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit informatie-uitwisseling bovengrondse en ondergrondse netten en netwerken.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Vrijgesteld als bedoeld in [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040728&artikel=9) van de verplichting een graafmelding te doen voor graafwerkzaamheden is de categorie agrarische grondroerders die, op het tijdstip waarop de graafwerkzaamheden worden uitgevoerd, de grond waarin die werkzaamheden worden uitgevoerd in eigendom of beheer heeft.
 

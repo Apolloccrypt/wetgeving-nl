@@ -1,13 +1,39 @@
 ---
-title: "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen"
+title: "Besluit van 27 maart 2009, houdende implementatie van richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en intrekking van het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen (Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)"
 identifier: "BWBR0025680"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025680"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025680"
+soort: "AMvB"
+stam_id: "9978373"
+version_id: "16295942"
+internal_id: "C22351051"
+label_id: "9955354"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025680/2025-01-01/0"
+intitule_bron: "Stb.2009-168"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-03-27"
+intitule_published: "2009-04-14"
+intitule_in_force: "2009-04-14"
+intitule_status: "goed"
+original_publication: "Stb.2009-168"
+original_signed_date: "2009-03-27"
+original_published_date: "2009-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-168"
+entry_into_force_date: "2009-04-15"
+jci_1_3: "jci1.3:c:BWBR0025680&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0025680&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen"
+signed_date: "2009-03-27"
+entry_into_force: "2009-04-15"
 ---
-
 # Besluit van 27 maart 2009, houdende implementatie van richtlijn nr. 2006/117/Euratom van de Raad van de Europese Unie van 20 november 2006 betreffende toezicht en controle op overbrenging van radioactieve afvalstoffen en bestraalde splijtstof (PbEU L 337) en intrekking van het Besluit in-, uit- en doorvoer van radioactieve afvalstoffen (Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen)
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 25 november 2008, nr. BJZ2008105972, Directie Bestuurlijke en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -72,7 +98,7 @@ Hebben goedgevonden en verstaan:
 
 2. Voor de toepassing van dit besluit wordt als overbrengen aangemerkt alle verrichtingen voor het verplaatsen van radioactieve afvalstoffen of bestraalde splijtstoffen van de lidstaat of derde staat van herkomst naar de lidstaat of derde staat van bestemming.
 
-#### Artikel 2. Uitzonderingen op reikwijdte
+##### Artikel 2. Uitzonderingen op reikwijdte
 
 Dit besluit is niet van toepassing op de overbrenging van:
 
@@ -90,7 +116,7 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 ### Hoofdstuk 2. Algemene bepalingen vergunningplicht
 
-#### Artikel 3. Vergunning
+##### Artikel 3. Vergunning
 
 1. Het is verboden zonder vergunning van de Autoriteit:
 
@@ -106,7 +132,7 @@ Dit besluit is niet van toepassing op de overbrenging van:
 
 2. Indien ingevolge artikel 10 van de richtlijn voor het overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen naar of via Nederland een vergunning van het bevoegd gezag van een andere lidstaat is vereist, is het verboden zonder bedoelde vergunning die stoffen naar of via Nederland over te brengen.
 
-#### Artikel 4. Vergunningaanvraag
+##### Artikel 4. Vergunningaanvraag
 
 Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt ingediend door:
 
@@ -116,7 +142,7 @@ Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.
 
 - c. in het geval van [artikel 3, eerste lid, aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01): de beheerder.
 
-#### Artikel 5. Gebruik uniform document
+##### Artikel 5. Gebruik uniform document
 
 Het uniforme document wordt gebruikt:
 
@@ -130,21 +156,21 @@ Het uniforme document wordt gebruikt:
 
 - 3°. bij het nemen van een beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en op een verzoek om toestemming als bedoeld in de richtlijn.
 
-#### Artikel 6. Taal
+##### Artikel 6. Taal
 
 1. Een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), en een verzoek om toestemming en de daarbij behorende verklaringen en overige bijlagen worden ingevuld onderscheidenlijk verstrekt in een taal die voor de Autoriteit aanvaardbaar is.
 
 2. Indien naar het oordeel van het bevoegd gezag van de derde staat of lidstaat van bestemming of een lidstaat van doorvoer een authentieke vertaling van de in het eerste lid bedoelde documenten noodzakelijk is, draagt de houder zorg voor een authentieke vertaling in een voor dat bevoegd gezag aanvaardbare taal.
 
-#### Artikel 7. Beslistermijn
+##### Artikel 7. Beslistermijn
 
 De beslissing op de aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt genomen binnen zes maanden nadat de Autoriteit overeenkomstig dit besluit de datum van ontvangst op het uniforme document heeft aangetekend.
 
-#### Artikel 8. Uniform document vergezelt overbrenging
+##### Artikel 8. Uniform document vergezelt overbrenging
 
 Het ingevulde en van de vereiste bijlagen voorziene uniforme document vergezelt elke overbrenging van de betrokken radioactieve afvalstoffen en bestraalde splijtstoffen.
 
-#### Artikel 9. Vergunning voor meerdere overbrengingen
+##### Artikel 9. Vergunning voor meerdere overbrengingen
 
 Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), betrekking heeft op het meer dan één keer naar, van of via Nederland overbrengen van radioactieve afvalstoffen of bestraalde splijtstoffen, kan de vergunning worden verleend voor meerdere keren indien:
 
@@ -154,7 +180,7 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 - c. indien de overbrenging via een of meer derde staten van doorvoer plaatsvindt: de doorvoer plaatsvindt via dezelfde grenspost van binnenkomst of uitreis van de Europese Unie en via dezelfde grenspost van de derde staat of staten van doorvoer, tenzij de betrokken bevoegde gezagsorganen anders zijn overeengekomen.
 
-#### Artikel 10. Geldigheidsduur vergunning
+##### Artikel 10. Geldigheidsduur vergunning
 
 1. Een vergunning krachtens [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), wordt verleend voor een bij de vergunning te stellen termijn van ten hoogste drie jaar.
 
@@ -164,11 +190,11 @@ Indien een aanvraag om een vergunning krachtens [artikel 3, eerste lid](https://
 
 ## Titel 3.1. Overbrenging van Nederland naar de lidstaat van bestemming
 
-#### Artikel 11. Dagtekening
+##### Artikel 11. Dagtekening
 
 Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
-#### Artikel 12. Beoordeling op volledigheid
+##### Artikel 12. Beoordeling op volledigheid
 
 1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat van bestemming alsmede het bevoegd gezag van eventuele lidstaten van doorvoer:
 
@@ -180,7 +206,7 @@ Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [ar
 
 3. Indien het bevoegd gezag van een lidstaat waaraan een verzoek op grond van het eerste lid is gericht, binnen de termijn van 20 dagen, bedoeld in artikel 8, eerste lid, van de richtlijn, een verzoek indient om ontbrekende informatie te verstrekken, verstrekt de Autoriteit zo spoedig mogelijk de betreffende informatie. De Autoriteit zendt een afschrift van deze informatie aan het bevoegd gezag van de andere betrokken lidstaten.
 
-#### Artikel 13. Beslissing op vergunningaanvraag
+##### Artikel 13. Beslissing op vergunningaanvraag
 
 1. De Autoriteit beschikt afwijzend op de aanvraag om een vergunning indien:
 
@@ -198,11 +224,11 @@ Indien het uniforme document dat bij de aanvraag om een vergunning krachtens [ar
 
 4. De Autoriteit zendt de beslissing op de aanvraag onverwijld toe aan de aanvrager. De Autoriteit deelt de beslissing tevens onverwijld mede aan het bevoegd gezag van de lidstaten waaraan om toestemming is verzocht.
 
-#### Artikel 14. Bericht van ontvangst
+##### Artikel 14. Bericht van ontvangst
 
 De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontvangst van de radioactieve afvalstoffen of de bestraalde splijtstoffen, dat de Autoriteit van het bevoegd gezag van de lidstaat van bestemming heeft ontvangen.
 
-#### Artikel 15. Niet-uitgevoerde overbrenging
+##### Artikel 15. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
@@ -214,7 +240,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 3. Indien het bevoegd gezag van een betrokken andere lidstaat op grond van artikel 12, eerste lid, van de richtlijn heeft besloten dat de overbrenging niet kan worden uitgevoerd, stelt de Autoriteit de houder van dat besluit in kennis.
 
-#### Artikel 16. Terugnameplicht
+##### Artikel 16. Terugnameplicht
 
 1. Indien de Autoriteit overeenkomstig [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
@@ -226,7 +252,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 ## Titel 3.2. Overbrenging van de lidstaat van herkomst naar Nederland
 
-#### Artikel 17. Beoordeling op volledigheid; ontvangstbevestiging
+##### Artikel 17. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. De Autoriteit beoordeelt op verzoek van het bevoegd gezag van de lidstaat van herkomst of een aanvraag om een vergunning voor het naar Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
@@ -238,7 +264,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 5. De in dit artikel opgenomen termijnen voor het verzenden van een ontvangstbevestiging kunnen worden ingekort indien de Autoriteit en het bevoegd gezag van eventuele lidstaten van doorvoer zich ervan hebben vergewist dat de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen.
 
-#### Artikel 18. Beslistermijn; toestemming van rechtswege
+##### Artikel 18. Beslistermijn; toestemming van rechtswege
 
 1. De Autoriteit beslist binnen twee maanden na de datum van de ontvangstbevestiging, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), en met inachtneming van het tweede lid, omtrent toestemming met betrekking tot de aanvraag om een vergunning. Zij zendt het besluit op een zodanig tijdstip aan het bevoegd gezag van de lidstaat van herkomst dat dit besluit voor het einde van de termijn van twee maanden door dat bevoegd gezag is ontvangen.
 
@@ -246,7 +272,7 @@ De Autoriteit zendt de houder onverwijld een afschrift van het bericht van ontva
 
 3. De toestemming wordt geacht te zijn verleend indien het besluit omtrent toestemming door het bevoegd gezag van de lidstaat van herkomst nog niet is ontvangen op de laatste dag van de termijn van twee maanden, dan wel, indien het tweede lid van toepassing is, op de laatste dag van de verlengde termijn.
 
-#### Artikel 19. Weigeringsgronden
+##### Artikel 19. Weigeringsgronden
 
 Toestemming wordt geweigerd indien:
 
@@ -258,7 +284,7 @@ Toestemming wordt geweigerd indien:
 
 - d. het beheer of vervoer van de radioactieve afvalstoffen of de bestraalde splijtstoffen onnodige risico’s voor de openbare veiligheid of het milieu met zich meebrengt.
 
-#### Artikel 20. Voorwaarden
+##### Artikel 20. Voorwaarden
 
 1. Toestemming kan onder voorwaarden worden verleend.
 
@@ -272,13 +298,13 @@ Toestemming wordt geweigerd indien:
 
 3. De voorwaarden mogen niet strenger zijn dan de voorwaarden die voor soortgelijke overbrengingen binnen Nederland zijn of kunnen worden gesteld.
 
-#### Artikel 21. Bericht van ontvangst
+##### Artikel 21. Bericht van ontvangst
 
 1. Degene die de radioactieve afvalstoffen of de bestraalde splijtstoffen heeft ontvangen, zendt binnen 15 dagen na de ontvangst een bericht van ontvangst aan de Autoriteit.
 
 2. De Autoriteit stuurt onverwijld een afschrift van het bericht van ontvangst aan het bevoegd gezag van de lidstaat van herkomst en het bevoegd gezag van eventuele lidstaten en derde staten van doorvoer.
 
-#### Artikel 22. Niet-uitgevoerde overbrenging
+##### Artikel 22. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
@@ -292,7 +318,7 @@ Toestemming wordt geweigerd indien:
 
 ## Titel 3.3. Overbrenging van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming
 
-#### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 23. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
 Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een andere lidstaat, van de lidstaat van herkomst via Nederland naar de lidstaat van bestemming is [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -306,7 +332,7 @@ Op het overbrengen van uit een andere lidstaat afkomstige radioactieve afvalstof
 
 - e. in [artikel 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=22&z=2025-01-01&g=2025-01-01), in plaats van «en het bevoegd gezag van eventuele lidstaten van doorvoer» wordt gelezen: , het bevoegd gezag van eventuele andere lidstaten van doorvoer en het bevoegd gezag van de lidstaat van bestemming.
 
-#### Artikel 24. Toestemming voor terugzending
+##### Artikel 24. Toestemming voor terugzending
 
 Indien zij toestemming heeft verleend met betrekking tot een aanvraag om een vergunning, verleent de Autoriteit, in afwijking van [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.3&artikel=23&z=2025-01-01&g=2025-01-01), in de navolgende situaties toestemming met betrekking tot een aanvraag om een vergunning voor terugzending:
 
@@ -316,11 +342,11 @@ Indien zij toestemming heeft verleend met betrekking tot een aanvraag om een ver
 
 ## Titel 3.4. Overbrenging van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland
 
-#### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01)
+##### Artikel 25. Van overeenkomstige toepassing verklaring [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01)
 
 Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in Nederland, van Nederland via een of meer lidstaten of derde staten van doorvoer naar Nederland is [titel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=12&z=2025-01-01&g=2025-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=14&z=2025-01-01&g=2025-01-01), en met dien verstande dat in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) en [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=15&z=2025-01-01&g=2025-01-01), in plaats van «artikel 3, eerste lid, aanhef en onder a» wordt gelezen: [artikel 3, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 26. Beoordeling op volledigheid; ontvangstbevestiging
+##### Artikel 26. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Na de in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.1&artikel=11&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onder toezending van het uniforme document onverwijld het bevoegd gezag van de lidstaat of lidstaten van doorvoer:
 
@@ -338,7 +364,7 @@ Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bes
 
 6. De in dit artikel opgenomen termijnen voor het vaststellen van de datum van ontvangstbevestiging kunnen worden ingekort indien de Autoriteit en het bevoegd gezag van de lidstaat of lidstaten van doorvoer zich ervan hebben vergewist dat de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen.
 
-#### Artikel 27. Bericht van ontvangst
+##### Artikel 27. Bericht van ontvangst
 
 1. Degene die de radioactieve afvalstoffen of de bestraalde splijtstoffen heeft ontvangen, zendt binnen 15 dagen na de ontvangst een bericht van ontvangst aan de Autoriteit.
 
@@ -348,15 +374,15 @@ Op het overbrengen van uit Nederland afkomstige radioactieve afvalstoffen of bes
 
 ## Titel 4.1. Overbrenging van de derde staat van herkomst naar Nederland
 
-#### Artikel 28. Vergunningaanvraag; terugnameplicht
+##### Artikel 28. Vergunningaanvraag; terugnameplicht
 
 De ontvanger doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat hij een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=33&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 29. Dagtekening
+##### Artikel 29. Dagtekening
 
 Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
-#### Artikel 30. Beoordeling op volledigheid; ontvangstbevestiging
+##### Artikel 30. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
@@ -376,7 +402,7 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 7. De in dit artikel opgenomen termijnen voor het vaststellen van de datum van ontvangstbevestiging kunnen worden ingekort indien de Autoriteit en het bevoegd gezag van de lidstaat of lidstaten van doorvoer zich ervan hebben vergewist dat de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen.
 
-#### Artikel 31. Beslissing op vergunningaanvraag
+##### Artikel 31. Beslissing op vergunningaanvraag
 
 1. De Autoriteit beschikt afwijzend op de aanvraag indien:
 
@@ -400,13 +426,13 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 - b. eventuele lidstaten of derde staten van doorvoer.
 
-#### Artikel 32. Bericht van ontvangst
+##### Artikel 32. Bericht van ontvangst
 
 1. De ontvanger zendt de Autoriteit binnen 15 dagen nadat hij de radioactieve afvalstoffen of de bestraalde splijtstoffen heeft ontvangen, een bericht van ontvangst.
 
 2. De Autoriteit stuurt onverwijld een afschrift van het bericht van ontvangst aan de in [artikel 31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.1&artikel=31&z=2025-01-01&g=2025-01-01), genoemde bevoegde gezagsorganen.
 
-#### Artikel 33. Niet-uitgevoerde overbrenging
+##### Artikel 33. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
@@ -420,11 +446,11 @@ Indien het uniforme document dat bij de aanvraag om een vergunning is gebruikt, 
 
 ## Titel 4.2. Overbrenging van de derde staat van herkomst via Nederland naar de lidstaat van bestemming
 
-#### Artikel 34. Beoordeling op volledigheid
+##### Artikel 34. Beoordeling op volledigheid
 
 Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit een derde staat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in eerstgenoemde lidstaat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-#### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 35. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -444,11 +470,11 @@ Indien het bevoegd gezag van de lidstaat van bestemming verzoekt om een aanvraag
 
 ## Titel 4.3. Overbrenging van Nederland naar de derde staat van bestemming
 
-#### Artikel 36. Dagtekening
+##### Artikel 36. Dagtekening
 
 Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, eerste lid, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
-#### Artikel 37. Beoordeling op volledigheid; ontvangstbevestiging
+##### Artikel 37. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer lidstaten van doorvoer plaatsvindt.
 
@@ -468,11 +494,11 @@ Indien het document dat bij de aanvraag om een vergunning krachtens [artikel 3, 
 
 7. De in dit artikel opgenomen termijnen voor het vaststellen van de datum van ontvangstbevestiging kunnen worden ingekort indien de Autoriteit en het bevoegd gezag van de lidstaat of lidstaten van doorvoer zich ervan hebben vergewist dat de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen.
 
-#### Artikel 38. Verzoek om toestemming aan derde staat van bestemming
+##### Artikel 38. Verzoek om toestemming aan derde staat van bestemming
 
 Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=36&z=2025-01-01&g=2025-01-01) bedoelde dagtekening verzoekt de Autoriteit onverwijld het bevoegd gezag van de derde staat van bestemming onder toezending van het uniforme document toestemming te verlenen met betrekking tot de aanvraag om een vergunning.
 
-#### Artikel 39. Beslissing op vergunningaanvraag
+##### Artikel 39. Beslissing op vergunningaanvraag
 
 1. De Autoriteit beschikt afwijzend op de aanvraag om een vergunning indien:
 
@@ -502,13 +528,13 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 5. Bij de toepassing van het eerste lid, aanhef en onder b tot en met d, houdt de Autoriteit rekening met de criteria die de Commissie van de Europese Gemeenschappen daaromtrent ingevolge artikel 16, tweede lid, van de richtlijn heeft vastgesteld.
 
-#### Artikel 40. Bericht van ontvangst
+##### Artikel 40. Bericht van ontvangst
 
 1. De houder stelt de Autoriteit binnen 15 dagen nadat de radioactieve afvalstoffen of de bestraalde splijtstoffen in de derde staat van bestemming zijn aangekomen, in kennis van het feit dat die stoffen hun bestemming hebben bereikt. Daarbij wordt vermeld via welk laatste douanekantoor in de Europese Unie de overbrenging heeft plaatsgevonden.
 
 2. Het bericht van ontvangst gaat vergezeld van een verklaring of een bevestiging van de ontvanger, dat die stoffen de juiste bestemming hebben bereikt, onder vermelding van het douanekantoor van binnenkomst in de derde staat van bestemming.
 
-#### Artikel 41. Niet-uitgevoerde overbrenging
+##### Artikel 41. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
@@ -520,7 +546,7 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 3. Indien het bevoegd gezag van een betrokken andere lidstaat op grond van artikel 12, eerste lid, van de richtlijn heeft besloten dat de overbrenging niet kan worden uitgevoerd, stelt de Autoriteit de houder van dat besluit in kennis.
 
-#### Artikel 42. Terugnameplicht
+##### Artikel 42. Terugnameplicht
 
 1. Indien de Autoriteit overeenkomstig [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2025-01-01&g=2025-01-01), heeft bepaald dat een overbrenging niet kan worden uitgevoerd, of indien de Autoriteit de houder een kennisgeving als bedoeld in [artikel 41, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=41&z=2025-01-01&g=2025-01-01), heeft gezonden, bepaalt zij dat de houder de betrokken radioactieve afvalstoffen of bestraalde splijtstoffen terugneemt.
 
@@ -528,11 +554,11 @@ Na de in [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=
 
 ## Titel 4.4. Overbrenging van de lidstaat van herkomst via Nederland naar de derde staat van bestemming
 
-#### Artikel 43. Beoordeling op volledigheid
+##### Artikel 43. Beoordeling op volledigheid
 
 Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-#### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 44. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -550,15 +576,15 @@ Indien het bevoegd gezag van de lidstaat van herkomst verzoekt om een aanvraag o
 
 #### Paragraaf 4.5.1. Nederland als eerste lidstaat van doorvoer
 
-#### Artikel 45. Vergunningaanvraag; terugnameplicht
+##### Artikel 45. Vergunningaanvraag; terugnameplicht
 
 De beheerder doet zijn aanvraag om een vergunning krachtens [artikel 3, eerste lid,aanhef en onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=2&artikel=3&z=2025-01-01&g=2025-01-01), vergezeld gaan van een door hem ondertekende verklaring waaruit blijkt dat de in de derde staat van bestemming gevestigde ontvanger een door het bevoegd gezag van de derde staat van herkomst aanvaarde regeling heeft getroffen met de in die staat gevestigde houder, inhoudende dat laatstgenoemde die stoffen zal terugnemen indien de overbrenging niet kan worden uitgevoerd als bedoeld in [artikel 50](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.5&paragraaf=4.5.1&artikel=50&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 46. Dagtekening
+##### Artikel 46. Dagtekening
 
 Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig en juist is ingevuld en is voorzien van de vereiste bijlagen, tekent de Autoriteit op dat document de datum van ontvangst aan.
 
-#### Artikel 47. Beoordeling op volledigheid; ontvangstbevestiging
+##### Artikel 47. Beoordeling op volledigheid; ontvangstbevestiging
 
 1. Dit artikel is uitsluitend van toepassing indien de overbrenging via een of meer andere lidstaten van doorvoer plaatsvindt.
 
@@ -578,7 +604,7 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 7. De in dit artikel opgenomen termijnen voor het vaststellen van de datum van ontvangstbevestiging kunnen worden ingekort indien de Autoriteit en het bevoegd gezag van de andere lidstaat of lidstaten van doorvoer zich ervan hebben vergewist dat de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen.
 
-#### Artikel 48. Beslissing op vergunningaanvraag
+##### Artikel 48. Beslissing op vergunningaanvraag
 
 1. Op de beslissing op de aanvraag om een vergunning is [artikel 39, eerste, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=4&titeldeel=4.3&artikel=39&z=2025-01-01&g=2025-01-01), van overeenkomstige toepassing.
 
@@ -586,13 +612,13 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 3. De Autoriteit zendt de beslissing op de aanvraag onverwijld toe aan de aanvrager. De Autoriteit deelt de beslissing tevens onverwijld mede aan het bevoegd gezag van de derde staat van herkomst en het bevoegd gezag van eventuele lidstaten of derde staten van doorvoer.
 
-#### Artikel 49. Bericht van ontvangst
+##### Artikel 49. Bericht van ontvangst
 
 1. De beheerder stelt de Autoriteit binnen 15 dagen nadat de radioactieve afvalstoffen of de bestraalde splijtstoffen in de derde staat van bestemming zijn aangekomen, in kennis van de ontvangst. Daarbij wordt vermeld via welk laatste douanekantoor in de Europese Unie de overbrenging heeft plaatsgevonden.
 
 2. Het bericht van ontvangst gaat vergezeld van een verklaring of een bevestiging van de ontvanger, dat die stoffen de juiste bestemming hebben bereikt, onder vermelding van het douanekantoor van binnenkomst in de derde staat van bestemming.
 
-#### Artikel 50. Niet-uitgevoerde overbrenging
+##### Artikel 50. Niet-uitgevoerde overbrenging
 
 1. De Autoriteit kan bepalen dat de overbrenging niet kan worden uitgevoerd indien:
 
@@ -606,11 +632,11 @@ Indien het document dat bij de aanvraag om een vergunning is gebruikt, volledig 
 
 #### Paragraaf 4.5.2. Nederland als latere lidstaat van doorvoer
 
-#### Artikel 51. Beoordeling op volledigheid
+##### Artikel 51. Beoordeling op volledigheid
 
 Indien het bevoegd gezag van de eerste lidstaat van doorvoer verzoekt om een aanvraag om een vergunning voor het via Nederland overbrengen van uit eerstgenoemde lidstaat afkomstige radioactieve afvalstoffen of bestraalde splijtstoffen met een bestemming in een derde staat, op volledigheid te beoordelen, beoordeelt de Autoriteit of de aanvraag volledig en juist is ingevuld en is voorzien van de vereiste bijlagen. De beoordeling geschiedt binnen 20 dagen na ontvangst van het verzoek.
 
-#### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
+##### Artikel 52. Van overeenkomstige toepassing verklaring [titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01)
 
 1. [Titel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&z=2025-01-01&g=2025-01-01) is van overeenkomstige toepassing, met uitzondering van de [artikelen 17, eerste, tweede, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=17&z=2025-01-01&g=2025-01-01), [19, aanhef en onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=19&z=2025-01-01&g=2025-01-01), [20, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=20&z=2025-01-01&g=2025-01-01), en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0025680&hoofdstuk=3&titeldeel=3.2&artikel=21&z=2025-01-01&g=2025-01-01), en met dien verstande dat:
 
@@ -630,19 +656,19 @@ Indien het bevoegd gezag van de eerste lidstaat van doorvoer verzoekt om een aan
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 53. Intrekking Biudras
+##### Artikel 53. Intrekking Biudras
 
 Het [Besluit in-, uit- en doorvoer van radioactieve afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0006258) wordt ingetrokken.
 
-#### Artikel 54. Overgangsrecht vergunningen
+##### Artikel 54. Overgangsrecht vergunningen
 
 Vervallen
 
-#### Artikel 55. Citeertitel
+##### Artikel 55. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit in-, uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen.
 
-#### Artikel 56. Inwerkingtreding
+##### Artikel 56. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

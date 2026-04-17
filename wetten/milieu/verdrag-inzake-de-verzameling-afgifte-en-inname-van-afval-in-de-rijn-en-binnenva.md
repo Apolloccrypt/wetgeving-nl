@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart"
 identifier: "BWBV0001441"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001441"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001441"
+soort: "verdrag"
+stam_id: "10001194583"
+version_id: "10004134812"
+internal_id: "C10008693961"
+label_id: "10001195574"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001441/2026-01-01/0"
+intitule_bron: "Trb.1996-293"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-07-10"
+intitule_published: "1996-11-01"
+intitule_in_force: "2010-06-17"
+intitule_status: "goed"
+original_publication: "Trb.1996-293"
+original_signed_date: "2000-07-10"
+original_published_date: "1996-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-293"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBV0001441&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBV0001441&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-07-10"
+entry_into_force: "2009-11-01"
 ---
-
 # Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart
 
 De Bondsrepubliek Duitsland
@@ -36,7 +61,7 @@ zijn het volgende overeengekomen:
 
 ### ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -82,13 +107,13 @@ In dit Verdrag wordt verstaan onder:
 
 - s. „uitstoten van dampen”: elk afblazen van dampen uit een gesloten ladingtank met uitzondering van het ontspannen van de tank om de luiken te openen en om de dampconcentratie te meten alsmede bij het inschakelen van de veiligheidsventielen.
 
-#### Artikel 2. Geografisch toepassingsgebied
+##### Artikel 2. Geografisch toepassingsgebied
 
 Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen.
 
 ### BIJZONDERE BEPALINGEN
 
-#### Artikel 3. Verbod tot inbrengen, lozen en uitstoten
+##### Artikel 3. Verbod tot inbrengen, lozen en uitstoten
 
 1. Het is verboden scheepsafval en delen van de lading vanaf schepen in de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=1&z=2026-01-01&g=2026-01-01) genoemde vaarwegen te brengen of te lozen, alsook dampen op de in Bijlage 1 genoemde vaarwegen in de atmosfeer uit te stoten.
 
@@ -96,7 +121,7 @@ Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen.
 
 3. Uitzonderingen op dit verbod zijn slechts toegestaan in overeenstemming met [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2026-01-01&g=2026-01-01) en de daarbijbehorende aanhangsels, hierna te noemen de „Uitvoeringsregeling”.
 
-#### Artikel 4. Ontvangstinrichtingen
+##### Artikel 4. Ontvangstinrichtingen
 
 1. De Verdragsluitende Staten verplichten zich ertoe langs de in Bijlage 1 genoemde vaarwegen een voldoende dicht net van ontvangstinrichtingen in te richten of te laten inrichten en dit internationaal af te stemmen.
 
@@ -106,11 +131,11 @@ Dit Verdrag is van toepassing op de in Bijlage 1 genoemde vaarwegen.
 
 4. De Verdragsluitende Staten dragen er zorg voor dat de ontvangstinrichtingen hun verplichting tot inname van scheepsafval overeenkomstig de nationale regelingen nakomen.
 
-#### Artikel 5. Grondslag van de financiering
+##### Artikel 5. Grondslag van de financiering
 
 De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de inname en verwijdering van scheepsafval.
 
-#### Artikel 6. Financiering van de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval
+##### Artikel 6. Financiering van de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval
 
 1. De ﬁnanciering van de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval geschiedt door middel van een verwijderingsbijdrage, die van gemotoriseerde schepen, voor zover zij gasolie gebruiken, wordt geheven, met uitzondering van zeeschepen. De hoogte van de verwijderingsbijdrage is in alle Verdragsluitende Staten gelijk. Deze wordt vastgesteld op basis van de som van de inname- en verwijderingskosten, na aftrek van de eventuele opbrengsten van de verwerking van olie- en vethoudend scheepsbedrijfsafval en van de hoeveelheid geleverde gasolie, volgens de in Deel A van de Uitvoeringsregeling vastgelegde procedure. Het bedrag wordt aan de kostenontwikkeling aangepast. Ter bevordering van het voorkomen van afval dienen criteria uitgewerkt te worden en bij de vaststelling van de hoogte van de verwijderingsbijdrage in acht te worden genomen. De betaalde verwijderingsbijdragen zijn uitsluitend voor de ﬁnanciering van de inname en de verwijdering van olie- en vethoudend scheepsbedrijfsafval aan te wenden.
 
@@ -120,7 +145,7 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 
 4. De Verdragsluitende Staten stellen zeker dat de schippers en de bunkerinrichtingen de voor hen ingevolge Deel A van de Uitvoeringsregeling geldende verplichtingen in het bijzonder bij elke levering van gasolie nakomen.
 
-#### Artikel 7. Financiering van de inname en verwijdering van overig scheepsbedrijfsafval
+##### Artikel 7. Financiering van de inname en verwijdering van overig scheepsbedrijfsafval
 
 1. In havens, bij overslaginstallaties alsmede bij ligplaatsen en sluizen worden voor de inname en verwijdering van huisvuil geen aparte hefﬁngen geheven.
 
@@ -130,7 +155,7 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 
 4. De kosten voor de inname en verwijdering van slops kunnen de schipper afzonderlijk in rekening worden gebracht.
 
-#### Artikel 8. Financiering van het nalossen, het wassen, het ontgassen alsmede de inname en verwijdering van afval van de lading
+##### Artikel 8. Financiering van het nalossen, het wassen, het ontgassen alsmede de inname en verwijdering van afval van de lading
 
 1. De verlader of de ladingontvanger draagt de kosten voor het nalossen en het wassen van het schip alsmede voor de inname en verwijdering van afval van de lading overeenkomstig [Deel B van de Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&z=2026-01-01&g=2026-01-01).
 
@@ -144,7 +169,7 @@ De Verdragsluitende Staten voeren een uniforme ﬁnancieringswijze in voor de in
 
 van het schip, alsook voor de inname en verwijdering van het afval van de lading.
 
-#### Artikel 9. Nationaal instituut
+##### Artikel 9. Nationaal instituut
 
 1. Iedere Verdragsluitende Staat wijst een nationaal instituut aan dat verantwoordelijk is voor de organisatie van het uniforme ﬁnancieringssysteem voor de inname en verwijdering van olie- en vethoudend scheepsbedrijfsafval overeenkomstig de in Deel A van de Uitvoeringsregeling vastgelegde bepalingen.
 
@@ -152,7 +177,7 @@ van het schip, alsook voor de inname en verwijdering van het afval van de lading
 
 3. De bedrijfs- en administratiekosten van ieder nationaal instituut worden door de desbetreffende Verdragsluitende Staat gedragen.
 
-#### Artikel 10. Internationale ﬁnanciële verevening – Internationaal verevenings- en coördinatieorgaan
+##### Artikel 10. Internationale ﬁnanciële verevening – Internationaal verevenings- en coördinatieorgaan
 
 1. De internationale ﬁnanciële verevening geschiedt op grond van dit Verdrag, alsmede aan de hand van Deel A van de Uitvoeringsregeling.
 
@@ -180,11 +205,11 @@ Dit orgaan bestaat uit twee vertegenwoordigers van elk nationaal instituut, waar
 
 ### VERPLICHTINGEN EN RECHTEN VAN DE BETROKKENEN
 
-#### Artikel 11. Algemene zorgplicht
+##### Artikel 11. Algemene zorgplicht
 
 De schipper, de overige bemanning en andere personen aan boord, de verlader, de vervoerder, de ladingontvanger, de exploitanten van overslaginstallaties, alsmede de exploitanten van ontvangstinrichtingen moeten de door de omstandigheden vereiste zorgvuldigheid betrachten om verontreiniging van de vaarwegen en de atmosfeer te voorkomen, de hoeveelheid scheepsafval zo gering mogelijk te houden en vermenging van verschillende afvalsoorten zo veel mogelijk te voorkomen.
 
-#### Artikel 12. Verplichtingen en rechten van de schipper
+##### Artikel 12. Verplichtingen en rechten van de schipper
 
 1. De schipper kan het scheepsafval aan de ontvangstinrichtingen van elke Verdragsluitende Staat afgeven onder de in de Uitvoeringsregeling opgenomen voorwaarden.
 
@@ -192,13 +217,13 @@ De schipper, de overige bemanning en andere personen aan boord, de verlader, de 
 
 3. Indien de schipper niet verantwoordelijk gesteld kan worden, kunnen achtereenvolgens de vervoerder, de exploitant van het schip of de scheepseigenaar voor het nakomen van de verplichtingen in dit Verdrag verantwoordelijk worden gesteld.
 
-#### Artikel 13. Verplichtingen van de vervoerder, de verlader en de ladingontvanger alsmede van de exploitanten van overslaginstallaties en ontvangstinrichtingen
+##### Artikel 13. Verplichtingen van de vervoerder, de verlader en de ladingontvanger alsmede van de exploitanten van overslaginstallaties en ontvangstinrichtingen
 
 De vervoerder, de verlader, de ladingontvanger, alsmede de exploitanten van overslaginstallaties en ontvangstinrichtingen dienen ieder hun verplichtingen overeenkomstig de [Uitvoeringsregeling](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&z=2026-01-01&g=2026-01-01) na te komen. Zij kunnen voor de naleving van hun verplichtingen een beroep op een derde doen.
 
 ### CONFERENTIE DER VERDRAGSLUITENDE PARTIJEN
 
-#### Artikel 14. Organisatie en bevoegdheid
+##### Artikel 14. Organisatie en bevoegdheid
 
 1. De Verdragsluitende Partijen richten een Conferentie der Verdragsluitende Partijen op die met het toezicht op de uitvoering van dit Verdrag is belast.
 
@@ -224,19 +249,19 @@ Op voorstel van het internationale verevenings- en coördinatieorgaan doet de Co
 
 6. De Conferentie stelt voor het volgende jaar een begroting op, waaraan de Verdragsluitende Staten voor gelijke delen bijdragen.
 
-#### Artikel 15. Secretariaat
+##### Artikel 15. Secretariaat
 
 Ter uitvoering van dit Verdrag wordt het Secretariaat van de Conferentie der Verdragsluitende Partijen gevoerd door het Secretariaat van de Centrale Commissie voor de Rijnvaart.
 
 ### SANCTIES
 
-#### Artikel 16. Sancties
+##### Artikel 16. Sancties
 
 De Verdragsluitende Staten vervolgen de op hun grondgebied begane overtredingen van de in dit Verdrag en zijn Uitvoeringsregeling vastgelegde ge- en verboden overeenkomstig de desbetreffende nationale regelingen.
 
 ### SLOTBEPALINGEN
 
-#### Artikel 17. Ondertekening, bekrachtiging, toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, toetreding
 
 1. Dit Verdrag is voor ondertekening opengesteld van 1 juni 1996 tot en met 30 september 1996 voor de Bondsrepubliek Duitsland, het Koninkrijk België, de Franse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat.
 
@@ -244,11 +269,11 @@ De Verdragsluitende Staten vervolgen de op hun grondgebied begane overtredingen 
 
 3. Na inwerkingtreding staat dit Verdrag open voor toetreding door alle Staten waarvan de voor de binnenvaart openstaande vaarwegen met die van de Verdragsluitende Staten in verbinding staan. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederlegging van de laatste akte van bekrachtiging, aanvaarding of goedkeuring door de ondertekenende Staten. Het treedt voor elke andere Verdragsluitende Partij in werking op de eerste dag van de tweede maand volgende op de nederlegging van de akte van toetreding door die Verdragsluitende Partij.
 
-#### Artikel 19. Wijzigingen van het Verdrag en de bijlagen daarbij
+##### Artikel 19. Wijzigingen van het Verdrag en de bijlagen daarbij
 
 1. Iedere Verdragsluitende Partij kan wijzigingen van dit Verdrag en de bijlagen daarbij voorstellen. De voorstellen tot wijziging worden op de Conferentie der Verdragsluitende Partijen getoetst.
 
@@ -260,13 +285,13 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederleggi
 
 5. Wijzigingen van de bijlagen van dit Verdrag treden in werking op de overeengekomen datum, uiterlijk negen maanden na de aanneming, voor zover geen van de Verdragsluitende Partijen binnen zes maanden mededeelt dat zij niet instemt met de wijzigingen.
 
-#### Artikel 20. Opzegging
+##### Artikel 20. Opzegging
 
 1. Dit Verdrag kan na het verstrijken van vijf jaar vanaf de dag waarop het Verdrag voor de desbetreffende Verdragsluitende Partij in werking is getreden door een Verdragsluitende Partij te allen tijde worden opgezegd door een aan de depositaris gerichte mededeling.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand die volgt na het verstrijken van een jaar vanaf de datum van ontvangst van de mededeling, echter niet eerder dan na afsluiting van de jaarlijkse ﬁnanciële verevening met betrekking tot het voorafgaande boekjaar, dan wel na het verstrijken van een in de mededeling bepaalde langere termijn.
 
-#### Artikel 21. Depositaris
+##### Artikel 21. Depositaris
 
 1. De Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart is de depositaris van dit Verdrag. Deze zorgt voor een protocol van de nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding en zendt alle in artikel 17, eerste lid, genoemde Partijen alsmede alle Partijen die zijn toegetreden tot dit Verdrag, een gewaarmerkt afschrift van deze akten en van het protocol van nederlegging toe.
 
@@ -286,7 +311,7 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand na nederleggi
 
 - f). iedere opzegging van dit Verdrag en de dag waarop deze in werking treedt.
 
-#### Artikel 22. Talen
+##### Artikel 22. Talen
 
 Dit Verdrag is opgesteld in een enkel origineel exemplaar in de Nederlandse, Duitse en Franse taal, zijnde elke tekst gelijkelijk authentiek.
 
@@ -294,13 +319,13 @@ Dit Verdrag is opgesteld in een enkel origineel exemplaar in de Nederlandse, Dui
 
 ### HOOFDSTUK I. VERPLICHTINGEN VAN DE ONTVANGSTINRICHTING
 
-#### Artikel 1.01. Bevestiging van afgifte
+##### Artikel 1.01. Bevestiging van afgifte
 
 De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethoudend scheepsbedrijfsafval door een schip aan in het olieafgifteboekje, overeenkomstig het model in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2026-01-01&g=2026-01-01).
 
 ### HOOFDSTUK II. VERPLICHTINGEN VAN DE SCHIPPER
 
-#### Artikel 2.01. Verbod van inbrenging en lozing
+##### Artikel 2.01. Verbod van inbrenging en lozing
 
 1. Het is verboden olie- en vethoudend scheepsbedrijfsafval vanaf schepen in de vaarweg te brengen of te lozen.
 
@@ -308,7 +333,7 @@ De exploitanten van ontvangstinrichtingen tekenen de afgifte van olie- en vethou
 
 3. Van het in het eerste lid genoemde verbod is uitgezonderd het lozen in de vaarweg door toegelaten bilgeboten van van olie gescheiden water, indien het maximale restoliegehalte in het afgescheiden water constant en zonder voorafgaande verdunning voldoet aan de nationale voorschriften.
 
-#### Artikel 2.02. Verzameling en behandeling aan boord
+##### Artikel 2.02. Verzameling en behandeling aan boord
 
 1. Bilgewater als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&artikel=1&z=2026-01-01&g=2026-01-01), dat afkomstig is uit de daar genoemde zones aan boord van het schip, wordt uitsluitend beschouwd als bilgewater indien het oliehoudende water tijdens de scheepsbedrijfsactiviteiten of bij onderhoudswerkzaamheden aan het schip ontstaan is en, afgezien van met olie, niet met andere stoffen verontreinigd is. Bilgewater dat anderszins verontreinigd is, moet worden beschouwd als 'klein gevaarlijk afval' als bedoeld in [artikel 8.01, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=VIII&artikel=8.01&z=2026-01-01&g=2026-01-01).
 
@@ -324,7 +349,7 @@ De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkend
 
 - c). reinigingsmiddelen die olie of vet oplossen dan wel emulgerend zijn in de bilge van de machinekamer te doen geraken. Van dit verbod zijn uitgezonderd reinigingsmiddelen die de verwerking van het bilgewater door de ontvangstinrichtingen niet bemoeilijken.
 
-#### Artikel 2.03. Olie-afgifteboekje, afgifte aan ontvangstinrichtingen
+##### Artikel 2.03. Olie-afgifteboekje, afgifte aan ontvangstinrichtingen
 
 1. Elk gemotoriseerd schip moet, indien het gasolie gebruikt, een geldig olie-afgifteboekje, volgens het model opgenomen in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=I&z=2026-01-01&g=2026-01-01), aan boord hebben, dat door de bevoegde autoriteit wordt verstrekt. Dit olie-afgifteboekje moet aan boord worden bewaard. Na verkrijging van een nieuw olie-afgifteboekje moet het voorgaande olieafgifteboekje ten minste zes maanden na de laatste daarin opgenomen vermelding van afgifte aan boord worden bewaard.
 
@@ -334,7 +359,7 @@ De verzamelreservoirs moeten aan boord zó opgeslagen worden dat daaruit lekkend
 
 ### HOOFDSTUK III. ORGANISATIE EN FINANCIERING VAN DE VERWIJDERING VAN OLIE- EN VETHOUDEND SCHEEPSBEDRIJFSAFVAL
 
-#### Artikel 3.01. Begripsbepalingen
+##### Artikel 3.01. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -356,11 +381,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - f). „2D-barcode”: een unieke streepjescode, bedoeld om identificatie mogelijk te maken. Een 2D-barcode kan getoond worden op een smartphone, tablet, PC of analoog afgedrukt zijn.
 
-#### Artikel 3.02. Nationaal instituut
+##### Artikel 3.02. Nationaal instituut
 
 Het nationale instituut heft de verwijderingsbijdrage en legt aan het internationale verevenings- en coördinatieorgaan voorstellen voor ter vaststelling van het vereiste nationale net van ontvangstinrichtingen. Het instituut heeft voorts in het bijzonder de taak, op internationaal eenvormige wijze, regelmatig de hoeveelheden verwijderd olie- en vethoudend scheepsbedrijfsafval, alsmede het totaal van de geheven verwijderingsbijdragen te registreren. Het nationale instituut of de bevoegde autoriteit ziet toe op de verwijderingskosten. Het nationale instituut is vertegenwoordigd in het internationale verevenings- en coördinatieorgaan en dient met name de door dit orgaan vastgestelde voorlopige en definitieve vereveningsbedragen op het daartoe vastgestelde tijdstip aan de andere nationale instituten af te dragen.
 
-#### Artikel 3.03. Heffing van de verwijderingsbijdrage
+##### Artikel 3.03. Heffing van de verwijderingsbijdrage
 
 1. De verwijderingsbijdrage bedraagt 12,00 euro (te vermeerderen met btw) per 1000 l geleverde gasolie. De berekening van het bedrag moet worden gebaseerd op het volume van de gasolie bij 15°C.
 
@@ -406,7 +431,7 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 ### HOOFDSTUK IV. INTERNATIONALE FINANCIËLE VEREVENING
 
-#### Artikel 4.01. Internationaal verevenings- en coördinatieorgaan
+##### Artikel 4.01. Internationaal verevenings- en coördinatieorgaan
 
 1. Het internationale verevenings- en coördinatieorgaan komt eenmaal per jaar in het laatste kwartaal bijeen, om te besluiten over de financiële verevening van het voorafgaande jaar en, in voorkomend geval, de Conferentie der Verdragsluitende Partijen een voorstel te doen tot wijziging van de hoogte van de verwijderingsbijdrage dan wel tot een eventueel noodzakelijke aanpassing van het aanwezige net van ontvangstinrichtingen, met inachtneming van de behoeften van de scheepvaart en de economische doelmatigheid van de afvalverwijdering. Het kan op elk moment op voorstel van het secretariaat of indien de vertegenwoordigers van twee nationale instituten daarom verzoeken, bijeenkomen.
 
@@ -414,7 +439,7 @@ Het nationale instituut heft de verwijderingsbijdrage en legt aan het internatio
 
 3. Alle financiële transacties met betrekking tot de verwijderingsbijdrage geschieden in euro.
 
-#### Artikel 4.02. Voorlopige financiële verevening
+##### Artikel 4.02. Voorlopige financiële verevening
 
 1. De nationale instituten melden het secretariaat van het internationale verevenings- en coördinatieorgaan per kwartaal, te weten op 1 februari, 1 mei, 1 augustus en 1 november:
 
@@ -434,13 +459,13 @@ De modaliteiten van deze procedure worden door het internationale verevenings- e
 
 3. De nationale instituten die in het kader van de kwartaalverevening een betaling moeten verrichten, zijn verplicht dit bedrag binnen vier weken na ontvangst van de betalingsvordering te voldoen aan de nationale instituten die recht hebben op de betaling.
 
-#### Artikel 4.03. Jaarlijkse financiële verevening
+##### Artikel 4.03. Jaarlijkse financiële verevening
 
 1. De nationale instituten leggen hun jaarrekening met betrekking tot het voorafgaande jaar, uiterlijk op 15 oktober van het lopende jaar aan het secretariaat van het internationale verevenings- en coördinatieorgaan voor. Het internationale verevenings- en coördinatieorgaan stelt op zijn gewone vergadering de financiële verevening voor het voorafgaande jaar vast.
 
 2. De nationale instituten zijn verplicht de vereveningsbetalingen op grond van de definitieve financiële verevening voor het voorafgaande jaar overeenkomstig [artikel 4.02, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=A&hoofdstuk=IV&artikel=4.02&z=2026-01-01&g=2026-01-01), te verrichten.
 
-#### Artikel 4.04. Procedure van ﬁnanciële verevening
+##### Artikel 4.04. Procedure van ﬁnanciële verevening
 
 1. De ﬁnanciële verevening ingevolge de artikelen 4.02 en 4.03 wordt voor elk nationale instituut als volgt berekend:
 
@@ -459,7 +484,7 @@ waarbij verstaan moet worden onder
 
 ### HOOFDSTUK V. ALGEMENE BEPALINGEN
 
-#### Artikel 5.01. Begripsbepalingen
+##### Artikel 5.01. Begripsbepalingen
 
 **Gewijzigd door Besluiten CDNI 2016-I-5 en CDNI 2017-I-4**
 
@@ -497,13 +522,13 @@ In dit deel wordt verstaan onder:
 
 - o. „**ontgaste of geventileerde ladingtank**”: een ladingtank waaruit de dampen overeenkomstig de ontgassingsstandaarden van [Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&z=2026-01-01&g=2026-01-01) zijn verwijderd.
 
-#### Artikel 5.02. Verplichting van de Verdragsluitende Staten
+##### Artikel 5.02. Verplichting van de Verdragsluitende Staten
 
 **Gewijzigd door Besluit CDNI 2017-I-4**
 
 De Verdragsluitende Staten verplichten zich ertoe om infrastructurele en andere voorzieningen voor de afgifte en inname van restlading, overslagresten, ladingrestanten, waswater en dampen tot stand te brengen dan wel te laten brengen.
 
-#### Artikel 5.03. Zeeschepen
+##### Artikel 5.03. Zeeschepen
 
 **Gewijzigd door Besluit CDNI 2020-II-3**
 
@@ -515,7 +540,7 @@ Dit Deel B geldt niet voor het laden en lossen van zeeschepen
 
 ### HOOFDSTUK VI. VERPLICHTINGEN VAN DE SCHIPPER
 
-#### Artikel 6.01. Verbod tot inbrengen, lozen en uitstoten
+##### Artikel 6.01. Verbod tot inbrengen, lozen en uitstoten
 
 **Gewijzigd door Besluiten CDNI 2017-I-4 en CDNI 2018-II-5**
 
@@ -545,11 +570,11 @@ De Conferentie der Verdragsluitende Partijen toetst dit voorstel en gaat eventue
 
 5. In afwijking van het verbod van het eerste lid mogen dampen worden uitgestoten indien dit wordt vereist door een onvoorzien verblijf op de scheepswerf of door een onvoorziene reparatie ter plaatse door een scheepswerf of een andere gespecialiseerde onderneming en de dampen niet naar een ontvangstinrichting kunnen worden afgevoerd. Hierbij moeten de bepalingen van [Aanhangsel IIIa, A.4](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=A&z=2026-01-01&g=2026-01-01), en onderdeel 7.2.3.7 van het [ADN](onbekend) in acht worden genomen.
 
-#### Artikel 6.02. Overgangsbepalingen
+##### Artikel 6.02. Overgangsbepalingen
 
 Vervallen
 
-#### Artikel 6.03. Losverklaring
+##### Artikel 6.03. Losverklaring
 
 **Gewijzigd door Besluiten CDNI 2012-I-2, CDNI 2021-I-5, CDNI 2023-I-5 en CDNI 2023-II-6**
 
@@ -633,7 +658,7 @@ In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandighed
 
 ### HOOFDSTUK VII. VERPLICHTINGEN VAN DE VERVOERDER, DE VERLADER, DE LADINGONTVANGER EN DE EXPLOITANT VAN DE OVERSLAGINSTALLATIE
 
-#### Artikel 7.01. Bevestiging van de inname
+##### Artikel 7.01. Bevestiging van de inname
 
 **Gewijzigd door Besluiten CDNI 2017-I-4 en CDNI 2017-I-5**
 
@@ -643,7 +668,7 @@ In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandighed
 
 3. Voor zover het schip aan een ontvangstinrichting voor het ontgassen werd doorverwezen, bevestigt de exploitant van deze inrichting de ontgassing van het schip in de losverklaring. De exploitant dient een kopie van de door hem en de schipper ingevulde en ondertekende losverklaring gedurende ten minste zes maanden na afgifte te bewaren.
 
-#### Artikel 7.02. Beschikbaarstelling van het schip
+##### Artikel 7.02. Beschikbaarstelling van het schip
 
 **Gewijzigd door Besluiten CDNI 2015-II-3 en 2017-I-4**
 
@@ -653,7 +678,7 @@ In individuele gevallen kan de bevoegde autoriteit in vergelijkbare omstandighed
 
 3. Bij aanvang van het laden wordt het schip geacht door de vervoerder ter beschikking te zijn gesteld in de toestand welke overeenkomt met de eisen van het eerste of tweede lid.
 
-#### Artikel 7.03. Laden en lossen
+##### Artikel 7.03. Laden en lossen
 
 **Gewijzigd door Besluit 2017-I-4**
 
@@ -669,7 +694,7 @@ die ingevolge dit Deel B zijn vereist. De restlading behoort zo veel mogelijk aa
 
 3. Bij het lossen draagt de ladingontvanger er zorg voor dat het schip vrij van overslagresten blijft. Zijn echter toch overslagresten ontstaan, dan draagt de ladingontvanger zorg voor de verwijdering. Overslagresten behoren zo veel mogelijk aan de lading te worden toegevoegd.
 
-#### Artikel 7.04. 4) Zie Besluit CDNI 2016-I-4.Oplevering van het schip
+##### Artikel 7.04. 4) Zie Besluit CDNI 2016-I-4.Oplevering van het schip
 
 **Gewijzigd door Besluit CDNI 2016-I-5, CDNI 2017-I-4, CDNI 2023-I-5 en CDNI 2023-II-5**
 
@@ -703,7 +728,7 @@ Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een was
 
 4. Indien de ladingontvanger of de verlader het schip na de overeengekomen lostijd of de overeengekomen ligdagen niet overeenkomstig de bepalingen van dit artikel alsmede van [artikel 7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2026-01-01&g=2026-01-01) aflevert, kan de vervoerder het schip in de voorgeschreven toestand brengen dan wel laten brengen. De kosten hiervoor, met inbegrip van de daardoor ontstane liggelden, voor zover deze niet op een toerekenbare tekortkoming van de vervoerder terug te voeren zijn, komen ten laste van de ladingontvanger of de verlader.
 
-#### Artikel 7.05. Ladingrestanten en waswater
+##### Artikel 7.05. Ladingrestanten en waswater
 
 **Gewijzigd door Besluit 2017-I-4**
 
@@ -715,7 +740,7 @@ Voorts moeten de verantwoordelijke personen krachtens de eerste zin voor een was
 
 3. Deze ontvangstinrichting behoort zich in de nabijheid van de overslaginstallatie of langs de weg naar de volgende door het schip aan te lopen overslaginstallatie te bevinden.
 
-#### Artikel 7.06. Kosten
+##### Artikel 7.06. Kosten
 
 **Gewijzigd door Besluit 2017-I-4**
 
@@ -737,15 +762,15 @@ met inbegrip van de eventueel daardoor ontstane kosten voor wachttijden en omweg
 
 3. De kosten van afgifte van waswater uit laadruimen en ladingtanks of van de ontgassing van ladingtanks die niet met de voorgeschreven standaarden overeenstemmen, komen ten laste van de vervoerder.
 
-#### Artikel 7.07. Overeenkomst tussen de verlader en de ladingontvanger
+##### Artikel 7.07. Overeenkomst tussen de verlader en de ladingontvanger
 
 Verlader en ladingontvanger kunnen onderling ook een verdeling van hun verplichtingen overeenkomen, die afwijkt van de in deze bijlage beschreven verdeling van verplichtingen, zonder dat dit gevolgen mag hebben voor de vervoerder.
 
-#### Artikel 7.08. Overgang van rechten en verplichtingen van de verlader of de ladingontvanger op de exploitant van de overslaginstallatie
+##### Artikel 7.08. Overgang van rechten en verplichtingen van de verlader of de ladingontvanger op de exploitant van de overslaginstallatie
 
 Indien de verlader of de ladingontvanger bij het laden of het lossen van het schip gebruik maakt van een overslaginstallatie, gaan de rechten en verplichtingen van de verlader of de ladingontvanger, zoals neergelegd in de [artikelen 7.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.01&z=2026-01-01&g=2026-01-01), alsmede [7.03](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.03&z=2026-01-01&g=2026-01-01), [7.04](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.04&z=2026-01-01&g=2026-01-01) en [7.05](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.05&z=2026-01-01&g=2026-01-01), over op de exploitant van de overslaginstallatie. Met betrekking tot de kosten bedoeld in [artikel 7.06](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=B&hoofdstuk=VII&artikel=7.06&z=2026-01-01&g=2026-01-01) geldt dit slechts voor de verwijdering en inname van de overslagresten.
 
-#### Artikel 7.09. Vervoersdocumenten
+##### Artikel 7.09. Vervoersdocumenten
 
 **Gewijzigd door Besluit CDNI 2023-I-5**
 
@@ -761,7 +786,7 @@ De verlader vermeldt in de vervoersovereenkomst en vervoersdocumenten de volgend
 
 ### HOOFDSTUK VIII. ALGEMENE BEPALINGEN
 
-#### Artikel 8.01. Begripsbepalingen
+##### Artikel 8.01. Begripsbepalingen
 
 In dit deel wordt verstaan onder:
 
@@ -777,7 +802,7 @@ In dit deel wordt verstaan onder:
 
 - f). „hotelschip”: een passagiersschip met hutten voor de overnachting van passagiers.
 
-#### Artikel 8.02. Verplichtingen van de Verdragsluitende Staten
+##### Artikel 8.02. Verplichtingen van de Verdragsluitende Staten
 
 1. De Verdragsluitende Staten zijn verplicht ontvangstinrichtingen voor huisvuil ter beschikking te stellen of ter beschikking te laten stellen:
 
@@ -795,7 +820,7 @@ Bij ligplaatsen voor schepen als bedoeld in [artikel 9.01, derde lid](https://we
 
 ### HOOFDSTUK IX. VERPLICHTINGEN VAN DE SCHIPPER
 
-#### Artikel 9.01. Verbod tot inbrengen en lozen
+##### Artikel 9.01. Verbod tot inbrengen en lozen
 
 1. Het is verboden huisvuil, slops, zuiveringsslib en klein gevaarlijk afval vanaf schepen in de vaarweg te brengen of te lozen.
 
@@ -815,11 +840,11 @@ overeenkomstig de toepasselijke bepalingen van het Reglement Onderzoek schepen o
 
 6. Het in het derde lid genoemde verbod geldt niet voor zeeschepen in zeehavens aan zeetoegangswegen die moeten voldoen aan de bepalingen van het [Internationaal Verdrag ter voorkoming van verontreiniging van de zee door schepen](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) (Marpol).
 
-#### Artikel 9.02. Afwijkingen van het lozingsverbod voor huishoudelijk afvalwater
+##### Artikel 9.02. Afwijkingen van het lozingsverbod voor huishoudelijk afvalwater
 
 De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derde lid, voor welke de nakoming van het lozingsverbod voor huishoudelijk afvalwater praktisch moeilijk uitvoerbaar is of onredelijk hoge kosten met zich meebrengt, een passend regime voor uitzonderingsmogelijkheden overeenkomen en de voorwaarden vastleggen waaronder deze uitzonderingen als gelijkwaardig kunnen worden aangemerkt.
 
-#### Artikel 9.03. Verzameling en behandeling aan boord, afgifte aan ontvangstinrichtingen
+##### Artikel 9.03. Verzameling en behandeling aan boord, afgifte aan ontvangstinrichtingen
 
 1. De schipper dient zeker te stellen dat het in [artikel 9.01, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=2&deel=C&hoofdstuk=IX&artikel=9.01&z=2026-01-01&g=2026-01-01), genoemde afval gescheiden wordt verzameld en afgegeven. Huisvuil dient, indien mogelijk, gescheiden naar de categorieën papier, glas, harde (plastic) kunststoffen, verpakkingsafval (plastic, metaal en drankkartons), restafval en overig afval te worden afgegeven.
 
@@ -833,7 +858,7 @@ De Verdragsluitende Staten kunnen voor schepen als bedoeld in artikel 9.01, derd
 
 ### HOOFDSTUK X. VERPLICHTINGEN VAN DE EXPLOITANT VAN DE ONTVANGSTINRICHTING
 
-#### Artikel 10.01. Inname door de ontvangstinrichtingen
+##### Artikel 10.01. Inname door de ontvangstinrichtingen
 
 1. De exploitant van de ontvangstinrichting dient zeker te stellen dat het in artikel 9.01, eerste lid, genoemde afval gescheiden afgegeven kan worden.
 
@@ -843,7 +868,7 @@ TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdra
 
 GEDAAN te Straatsburg, op 9 september 1996.
 
-#### Artikel 3.04. Controle van de heffing van de verwijderingsbijdrage en van de kosten van inname en verwijdering
+##### Artikel 3.04. Controle van de heffing van de verwijderingsbijdrage en van de kosten van inname en verwijdering
 
 1. Bij iedere afname van gasolie dient door het bunkerbedrijf een bunkerverklaring te worden opgemaakt. Deze verklaring moet ten minste de volgende gegevens bevatten: de naam van het schip, het uniek Europese scheepsidentificatienummer of een andere vermelding ter identificatie van het schip, naam van de exploitant van het schip of van de schipper, betrokken/geleverde hoeveelheid gasolie (in liter bij 15°C, naar beneden of naar boven afgerond op de hele liter), plaats en datum, handtekeningen van de schipper en het bunkerbedrijf.
 
@@ -883,7 +908,7 @@ TEN BLIJKE waarvan de hiertoe naar behoren gemachtigde ondertekenaars dit Verdra
 
 GEDAAN te Straatsburg, op 9 september 1996.
 
-#### Artikel 5.04. Toepassing van Deel B op dampen
+##### Artikel 5.04. Toepassing van Deel B op dampen
 
 **Ingevoegt door Besluit CDNI 2017-I-4**
 
@@ -915,7 +940,7 @@ Schepen waarvoor schriftelijk aangetoond kan worden dat zij overeenkomstig de vo
 
 ### HOOFDSTUK XI. OVERGANGSBEPALINGEN EN AFWIJKINGEN
 
-#### Artikel 11.01. Overgangsbepalingen
+##### Artikel 11.01. Overgangsbepalingen
 
 Voor de toepassing van de bepalingen van deze bijlage die het gevolg zijn van de wijziging van het Verdrag om er het verbod tot het uitstoten van dampen in de atmosfeer in op te nemen gelden volgende overgangsbepalingen:
 
@@ -925,7 +950,7 @@ Voor de toepassing van de bepalingen van deze bijlage die het gevolg zijn van de
 
 - c). voor de dampen van de goederen vermeld in de [tabel III in Aanhangsel IIIa](https://wetten.overheid.nl/jci1.3:c:BWBV0001441&bijlage=IIIa&artikel=D&z=2026-01-01&g=2026-01-01) geldt het verbod na een periode van drie jaar na de in onderdeel a vermelde datum1)Mits uit een evaluatie uitgevoerd vanaf de in onderdeel a vermelde datum kan worden geconcludeerd dat dit geen problemen oplevert. In het tegengestelde geval geldt het verbod na een periode van vier jaar na de in onderdeel a vermelde datum..
 
-#### Artikel 11.02. Afwijkingen
+##### Artikel 11.02. Afwijkingen
 
 De Verdragsluitende Partijen kunnen in individuele gevallen afwijkingen van de bepalingen van deze bijlage overeenkomen mits deze als gelijkwaardig kunnen worden beschouwd. De afwijkingen moeten door de Conferentie van Verdragsluitende Partijen worden goedgekeurd en kunnen voor het vastgelegde toepassingsgebied en onder de vastgestelde voorwaarden door de bevoegde autoriteiten met onmiddellijke ingang worden toegestaan.
 

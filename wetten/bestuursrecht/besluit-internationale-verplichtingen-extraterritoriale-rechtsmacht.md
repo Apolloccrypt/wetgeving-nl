@@ -1,13 +1,39 @@
 ---
-title: "Besluit internationale verplichtingen extraterritoriale rechtsmacht"
+title: "Besluit van 28 januari 2014 tot aanwijzing van de gevallen waarin verdragen en besluiten van volkenrechtelijke organisaties tot het vestigen van rechtsmacht verplichten (Besluit internationale verplichtingen extraterritoriale rechtsmacht)"
 identifier: "BWBR0034775"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034775"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034775"
+soort: "AMvB"
+stam_id: "12571593"
+version_id: "21215622"
+internal_id: "C30573631"
+label_id: "12542124"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034775/2024-07-01/0"
+intitule_bron: "Stb.2014-47"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-01-28"
+intitule_published: "2014-02-05"
+intitule_in_force: "2014-03-14"
+intitule_status: "goed"
+original_publication: "Stb.2014-47"
+original_signed_date: "2014-01-28"
+original_published_date: "2014-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-47"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0034775&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0034775&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit internationale verplichtingen extraterritoriale rechtsmacht"
+signed_date: "2014-01-28"
+entry_into_force: "2014-07-01"
 ---
-
 # Besluit van 28 januari 2014 tot aanwijzing van de gevallen waarin verdragen en besluiten van volkenrechtelijke organisaties tot het vestigen van rechtsmacht verplichten (Besluit internationale verplichtingen extraterritoriale rechtsmacht)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie, gedaan mede namens de Staatssecretaris van Veiligheid en Justitie, van 18 december 2013, nr. 465893;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Definitiebepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Verplichtingen in het kader van de Verenigde Naties
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
@@ -84,7 +110,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 3. Verplichtingen in het kader van de Raad van Europa
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
@@ -110,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 4. Verplichtingen in het kader van de Europese Unie
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Nederlandse strafwet is toepasselijk op ieder die zich buiten Nederland schuldig maakt:
 
@@ -142,11 +168,11 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit internationale verplichtingen extraterritoriale rechtsmacht.
 

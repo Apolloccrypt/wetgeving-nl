@@ -1,14 +1,42 @@
 ---
-title: "Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen"
+title: "Wet van 24 april 1997 tot wijziging van de Wet op de arbeidsongeschiktheidsverzekering en enkele andere wetten in verband met premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen (Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen)"
 identifier: "BWBR0008655"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008655"
+country: "nl"
+rank: "wet"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008655"
+soort: "wet"
+stam_id: "2756043"
+version_id: "4214672"
+internal_id: "C4214671"
+label_id: "2703034"
+dtd_version: "2.0"
+original_entry_into_force: "1997-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008655/2006-01-01/0"
+intitule_bron: "Stb.1997-175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-24"
+intitule_published: "1997-04-29"
+intitule_in_force: "1997-04-29"
+intitule_status: "goed"
+original_publication: "Stb.1997-175"
+original_signed_date: "1997-04-24"
+original_published_date: "1997-04-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "24698"
+original_url_id: "stb-1997-175"
+entry_into_force_date: "1997-05-01"
+entry_into_force_dossier: "24698"
+jci_1_3: "jci1.3:c:BWBR0008655&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0008655&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen"
+signed_date: "1997-04-24"
+entry_into_force: "1997-05-01"
 ---
-
-# Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen
+# Wet van 24 april 1997 tot wijziging van de Wet op de arbeidsongeschiktheidsverzekering en enkele andere wetten in verband met premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen (Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,13 +46,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### HOOFDSTUK 1. WIJZIGING VAN DE WET OP DE ARBEIDSONGESCHIKTHEIDSVERZEKERING
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ### HOOFDSTUK 2. OVERGANGS- EN SLOTBEPALINGEN
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 1. Onder de uitkeringen, bedoeld in [artikel 76d, eerste lid, onderdeel a, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=76d), worden mede verstaan:
 
@@ -48,37 +76,37 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 8. Onder de toelagen en vergoedingen, bedoeld in [artikel 76d, eerste lid, onderdeel h, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=76d), worden mede verstaan de in [artikel 20, tweede lid, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=20) of artikel 28, tweede lid, van die wet bedoelde toelagen en vergoedingen.
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### ARTIKEL VII
+##### ARTIKEL VII
 
 1. Onder uitkeringen als bedoeld in [artikel 75b](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=75b) en in [artikel 76f van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=76f), zoals deze artikelen luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), worden uitsluitend verstaan, de uitkeringen die zijn ingegaan op of na de dag van inwerkingtreding van deze wet.
 
 2. Onder overgang van een onderneming als bedoeld in [artikel 78, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=78), zoals dit artikel luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van de desbetreffende bepalingen van de [Invoeringswet Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017747), wordt uitsluitend verstaan, de overgang van een onderneming die heeft plaatsgevonden op of na de dag van inwerkingtreding van deze wet.
 
-#### ARTIKEL VIIA
+##### ARTIKEL VIIA
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### ARTIKEL VIII
+##### ARTIKEL VIII
 
 Deze wet wordt aangehaald als «Wet premiedifferentiatie en marktwerking bij arbeidsongeschiktheidsverzekeringen».
 
-#### ARTIKEL IX
+##### ARTIKEL IX
 
 1. De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

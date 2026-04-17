@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1993)"
+title: "Wet van 24 december 1992, tot wijziging van een aantal belastingwetten in het kader van het belastingplan 1993"
 identifier: "BWBR0005805"
-categorie: "Belastingrecht"
-publicatiedatum: 1993-02-16
-laatste_update: 1993-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005805"
+country: "nl"
+rank: "wet"
+publication_date: "1993-02-16"
+last_updated: "1993-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005805"
+soort: "wet"
+stam_id: "534233"
+version_id: "783872"
+internal_id: "C783871"
+label_id: "518834"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005805/1993-02-16/0"
+intitule_bron: "Stb.1992-686"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-686"
+original_signed_date: "1992-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "22873"
+entry_into_force_date: "1993-01-01"
+entry_into_force_dossier: "22873"
+jci_1_3: "jci1.3:c:BWBR0005805&z=1993-02-16&g=1993-02-16"
+jci_1_0: "1.0:c:BWBR0005805&g=1993-02-16"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1993)"
+signed_date: "1992-12-24"
+entry_into_force: "1993-01-01"
 ---
-
-# Wijzigingswet Wet op de inkomstenbelasting 1964, enz. (belastingplan 1993)
+# Wet van 24 december 1992, tot wijziging van een aantal belastingwetten in het kader van het belastingplan 1993
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,53 +40,53 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in het kader van het
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 1. De omzetbelasting die op of na 1 januari 1993 wordt verschuldigd ter zake van vóór die datum verrichte prestaties waarvoor het omzetbelastingtarief verandert op grond van [artikel IV, onderdelen B.1, B.2, B.3 en B.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005805&artikel=IV&z=1993-02-16&g=1993-02-16), wordt berekend naar het tarief dat geldt op het tijdstip waarop de prestatie wordt verricht.
 
 2. Ingeval omzetbelasting vóór 1 januari 1993 wordt verschuldigd ter zake van op of na deze datum te verrichten prestaties als bedoeld in het eerste lid, wordt hetgeen meer verschuldigd zou zijn geweest indien de belasting zou zijn berekend naar het tarief dat geldt op het tijdstip waarop de prestatie wordt verricht, alsnog verschuldigd op 1 januari 1993.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Halfzware olie, gasolie en lichte stookolie, als bedoeld in [artikel 27, eerste lid, onderdeel **c**, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=27), die bij de aanvang van 1 januari 1993 aanwezig zijn in of in vervoer zijn naar een opslagplaats, zijn onderworpen aan een heffing van f 11 per hectoliter bij een temperatuur van 15 °C.
 
@@ -82,7 +106,7 @@ Bevat wijzigingen in andere regelgeving.
 
 7. De heffing blijft achterwege indien de te heffen belasting niet meer bedraagt dan f 200.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Voor een motorrijtuig als bedoeld in [artikel 5, eerste lid, onderdeel **a** of **b**, van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=5), waarvoor vóór 16 januari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 januari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.
 
@@ -96,7 +120,7 @@ Bevat wijzigingen in andere regelgeving.
 
 3. Voor een motorrijtuig waarmee gebruik van de weg wordt gemaakt op een tijdstip na 31 januari 1993 en waarvoor vóór 16 januari 1993 motorrijtuigenbelasting is betaald over een tijdvak dat geheel of gedeeltelijk valt na 15 januari 1993 en waarop het eerste lid krachtens het bepaalde in het tweede lid niet van toepassing is, moet de ingevolge deze wet meer verschuldigde belasting over de op het tijdstip van het gebruik nog niet verstreken maanden van dat tijdvak vóór dat tijdstip worden betaald.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Voor een motorrijtuig als bedoeld in [artikel 5, eerste lid, onderdeel **c** of **d**, van de Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534&artikel=5), waarvoor vóór 16 februari 1993 motorrijtuigenbelasting is betaald over een tijdvak waarvan een gedeelte valt na 15 februari 1993, is over het gehele tijdvak motorrijtuigenbelasting verschuldigd naar het tarief dat met betrekking tot dat motorrijtuig gold bij de aanvang van dat tijdvak.
 
@@ -110,29 +134,29 @@ Bevat wijzigingen in andere regelgeving.
 
 3. Voor een motorrijtuig waarmee gebruik van de weg wordt gemaakt op een tijdstip na 28 februari 1993 en waarvoor vóór 16 februari 1993 motorrijtuigenbelasting is betaald over een tijdvak dat geheel of gedeeltelijk valt na 15 februari 1993 en waarop het eerste lid krachtens het bepaalde in het tweede lid niet van toepassing is, moet de ingevolge deze wet meer verschuldigde belasting over de op het tijdstip van het gebruik nog niet verstreken maanden van dat tijdvak vóór dat tijdstip worden betaald.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XX
+##### Artikel XX
 
 Deze wet treedt in werking met ingang van 1 januari 1993,
 

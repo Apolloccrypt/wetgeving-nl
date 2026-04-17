@@ -1,13 +1,38 @@
 ---
 title: "Raamwerk Nascholingscursussen Code 95 en ADR (1 juli 2018)"
 identifier: "BWBR0041115"
-categorie: "Overig"
-publicatiedatum: 2018-07-04
-laatste_update: 2018-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041115"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-07-04"
+last_updated: "2018-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041115"
+soort: "zbo"
+stam_id: "14666873"
+version_id: "25114462"
+internal_id: "C35914311"
+label_id: "14620344"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041115/2018-07-04/0"
+intitule_bron: "Stcrt.2018-36820"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-07-01"
+intitule_published: "2018-07-04"
+intitule_in_force: "2018-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-36820"
+original_signed_date: "2018-07-01"
+original_published_date: "2018-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-36820"
+entry_into_force_date: "2018-07-04"
+jci_1_3: "jci1.3:c:BWBR0041115&z=2018-07-04&g=2018-07-04"
+jci_1_0: "1.0:c:BWBR0041115&g=2018-07-04"
+citeertitel_status: "redactioneel"
+signed_date: "2018-07-01"
+entry_into_force: "2018-07-04"
 ---
-
 # Raamwerk Nascholingscursussen Code 95 en ADR (1 juli 2018)
 
 ### Hoofdstuk 1. Het Raamwerk nascholingscursussen code 95 en ADR

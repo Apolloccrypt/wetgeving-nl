@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake luchtvervoer tussen Canada en de Europese Gemeenschap en haar lidstaten"
 identifier: "BWBV0004292"
-categorie: "Milieu"
-publicatiedatum: 2019-05-16
-laatste_update: 2019-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004292"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-05-16"
+last_updated: "2019-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004292"
+soort: "verdrag"
+stam_id: "10004039163"
+version_id: "10004206122"
+internal_id: "C10009557561"
+label_id: "10004023874"
+dtd_version: "2.0"
+original_entry_into_force: "2019-05-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004292/2019-05-16/0"
+intitule_bron: "Trb.2010-211"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-07-19"
+intitule_in_force: "2019-05-13"
+intitule_status: "goed"
+original_publication: "Trb.2010-211"
+original_published_date: "2010-07-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-211"
+entry_into_force_date: "2019-05-16"
+jci_1_3: "jci1.3:c:BWBV0004292&z=2019-05-16&g=2019-05-16"
+jci_1_0: "1.0:c:BWBV0004292&g=2019-05-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-05-16"
 ---
-
 # Overeenkomst inzake luchtvervoer tussen Canada en de Europese Gemeenschap en haar lidstaten
 
 Overeenkomst inzake luchtvervoer tussen Canada enerzijds,
@@ -104,7 +126,7 @@ Wensende een overeenkomst inzake luchtvervoer te sluiten, ter aanvulling op het 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Titels en definities
+##### Artikel 1. Titels en definities
 
 1. De in deze Overeenkomst gebruikte titels dienen enkel ter referentie.
 
@@ -124,7 +146,7 @@ Zijn als volgt overeengekomen:
 
 - g. „grondgebied”: voor Canada: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren, zoals vastgelegd in de binnenlandse wetgeving, inclusief het luchtruim boven deze gebieden; voor de lidstaten van de Europese Gemeenschap: het land (het vasteland en de eilanden), de binnenwateren en de territoriale wateren waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) van toepassing is en onder de in dat Verdrag en de daarop volgende instrumenten vastgestelde voorwaarden, inclusief het luchtruim boven deze gebieden; de toepassing van deze Overeenkomst op de luchthaven van Gibraltar doet geen afbreuk aan de respectieve rechtsopvattingen van het Koninkrijk Spanje en het Verenigd Koninkrijk betreffende het geschil inzake de soevereiniteit over het grondgebied waarop de luchthaven is gelegen, noch aan het handhaven van de opschorting van de toepassing op de luchthaven van Gibraltar van de maatregelen van de Europese Gemeenschap inzake de luchtvaart, die met ingang van 18 september 2006 tussen de lidstaten van kracht zijn, overeenkomstig de ministeriële verklaring betreffende de luchthaven van Gibraltar, die op 18 september 2006 te Cordoba is aangenomen.
 
-#### Artikel 2. Verlening van rechten
+##### Artikel 2. Verlening van rechten
 
 1. Elke partij verleent de andere partij de volgende rechten voor het verrichten van luchtvervoer door de luchtvaartmaatschappijen van de andere partij:
 
@@ -138,7 +160,7 @@ Zijn als volgt overeengekomen:
 
 2. Elke partij verleent ook de in lid 1, onder a) en b), van dit artikel gespecificeerde rechten aan de andere partij voor andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=3&z=2019-05-16&g=2019-05-16) van deze Overeenkomst (Aanwijzing, vergunning en intrekking) bedoelde luchtvaartmaatschappijen van de andere partij.
 
-#### Artikel 3. Aanwijzing, vergunning en intrekking
+##### Artikel 3. Aanwijzing, vergunning en intrekking
 
 1. De door de ene partij afgegeven licenties of andere vormen van vergunning voor het uitvoeren van luchtdiensten in het kader van deze Overeenkomst worden door de andere partij als een aanwijzing in het kader van deze Overeenkomst beschouwd. Op verzoek van de luchtvaartautoriteiten van de ene partij, controleren de luchtvaartautoriteiten van de andere partij, die de licentie of andere vorm van vergunning hebben afgegeven, de status van die licentie of vergunning.
 
@@ -156,11 +178,11 @@ Zijn als volgt overeengekomen:
 
 4. De in lid 3 van dit artikel vermelde rechten worden enkel na overleg in het Gemengd Comité uitgeoefend, tenzij onmiddellijk optreden noodzakelijk is om inbreuken op de in lid 2 vermelde wet- en regelgeving te voorkomen of tenzij om veiligheids- of beveiligingsredenen maatregelen overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=6&z=2019-05-16&g=2019-05-16) (Veiligheid van de burgerluchtvaart) en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=7&z=2019-05-16&g=2019-05-16) (Beveiliging van de burgerluchtvaart) noodzakelijk zijn.
 
-#### Artikel 4. Investeringen
+##### Artikel 4. Investeringen
 
 Elke partij staat toe dat onderdanen van Canada of van een lidstaat of lidstaten de volledige eigendom verkrijgen van een of meerdere van haar luchtvaartmaatschappijen, voor zover de voorwaarden van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&z=2019-05-16&g=2019-05-16) van deze overeenkomst worden nageleefd.
 
-#### Artikel 5. Toepassing van de wetgeving
+##### Artikel 5. Toepassing van de wetgeving
 
 Elke partij eist de naleving van:
 
@@ -168,7 +190,7 @@ Elke partij eist de naleving van:
 
 - b. haar wetten en regels met betrekking tot de toegang tot, het verblijf op of het vertrek uit haar grondgebied door passagiers, bemanningsleden en goederen, inclusief post (zoals regels met betrekking tot binnenkomst, inklaring, transit, burgerluchtvaartbeveiliging, immigratie, paspoorten, douane en quarantaine), door luchtvaartmaatschappijen en door of namens dergelijke passagiers, bemanningsleden en goederen, inclusief post, bij transit, toelating tot, verblijf op en vertrek uit het genoemde grondgebied. Bij de toepassing van deze wetten en regels moet elke partij, onder vergelijkbare omstandigheden, aan luchtvaartmaatschappijen een behandeling aanbieden die niet minder gunstig is dan die welke haar eigen of andere bij vergelijkbare internationale luchtdiensten betrokken luchtvaartmaatschappijen genieten.
 
-#### Artikel 6. Veiligheid van de burgerluchtvaart
+##### Artikel 6. Veiligheid van de burgerluchtvaart
 
 1. De partijen bevestigen nogmaals het belang van nauwe samenwerking op het gebied van veiligheid van de burgerluchtvaart. In die context zetten de partijen hun samenwerking op het gebied van luchtvaartactiviteiten verder, met name om het mogelijk te maken informatie uit te wisselen die gevolgen kan hebben voor de veiligheid van de internationale luchtvaart, deel te nemen aan elkaars toezichtsactiviteiten of gezamenlijke toezichtsactiviteiten uit te voeren op het gebied van de veiligheid van de burgerluchtvaart, en om gezamenlijke projecten en initiatieven te ontwikkelen, ook met derde landen. Deze samenwerking wordt ontwikkeld in het kader van de Overeenkomst inzake de veiligheid van de burgerluchtvaart tussen Canada en de Europese Gemeenschap gedaan te Praag op 6 mei 2009, met betrekking tot de kwesties die in die overeenkomst aan bod komen.
 
@@ -188,7 +210,7 @@ Elke partij eist de naleving van:
 
 9. Maatregelen die overeenkomstig de leden 5, 7 of 8 van dit artikel door een partij of haar verantwoordelijke luchtvaartautoriteiten zijn genomen, worden stopgezet zodra de redenen voor het nemen van die maatregelen zijn weggevallen.
 
-#### Artikel 7. Beveiliging van de burgerluchtvaart
+##### Artikel 7. Beveiliging van de burgerluchtvaart
 
 1. Overeenkomstig hun uit het internationaal recht voortvloeiende rechten en verplichtingen herbevestigen de partijen dat hun plicht jegens elkaar om de burgerluchtvaart te beveiligen tegen wederrechtelijke daden een integrerend deel vormt van deze Overeenkomst.
 
@@ -212,7 +234,7 @@ Elke partij eist de naleving van:
 
 11. Onverminderd de noodzaak om onmiddellijk maatregelen te nemen ter bescherming van de veiligheid van het vervoer, bevestigen de partijen dat, wanneer een partij overweegt beveiligingsmaatregelen te nemen, zij de mogelijke nadelige economische en operationele gevolgen voor de onder deze Overeenkomst vallende luchtdiensten dient in te schatten en, bij het bepalen welke maatregelen nodig en passend zijn, met deze factoren rekening dient te houden, voor zover de wet dit toelaat.
 
-#### Artikel 8. Douanerechten, -belastingen en -heffingen
+##### Artikel 8. Douanerechten, -belastingen en -heffingen
 
 1. Voor zover haar nationale wetten en regels dit toelaten, stelt elke partij, op basis van wederkerigheid, de luchtvaartuigen die door de luchtvaartmaatschappijen van de andere partij voor internationaal luchtvervoer worden gebruikt, hun normale uitrustingsstukken, brandstof, smeermiddelen, verbruikbare technische voorraden, gronduitrusting, reserveonderdelen (motoren inbegrepen), boordvoorraden (met inbegrip van, maar niet beperkt tot artikelen als voedingsmiddelen, dranken, tabak en andere producten die bestemd zijn voor verkoop aan of gebruik door passagiers in beperkte hoeveelheden gedurende de vlucht) en andere zaken die uitsluitend bestemd zijn voor of gebruikt worden in verband met de exploitatie of het onderhoud van voor internationaal luchtvervoer gebruikte luchtvoertuigen, vrij van alle invoerbeperkingen, onroerend goed- en vermogensbelasting, douanerechten, accijnzen en soortgelijke vergoedingen en heffingen die worden opgelegd door de partijen en niet gebaseerd zijn op de kosten van de dienstverlening.
 
@@ -232,13 +254,13 @@ Elke partij eist de naleving van:
 
 5. De bepalingen van de tussen een lidstaat en Canada gesloten verdragen inzake het vermijden van dubbele belasting op inkomsten en kapitaal worden niet gewijzigd bij de onderhavige Overeenkomst.
 
-#### Artikel 9. Statistieken
+##### Artikel 9. Statistieken
 
 1. Elke partij verstrekt de andere partij de statistieken die krachtens de nationale wetten en regels van die partij vereist zijn en, op verzoek, andere beschikbare statistische informatie die redelijkerwijze vereist kan zijn voor het evalueren van de exploitatie van de luchtdiensten.
 
 2. De partijen werken in het kader van het Gemengd Comité samen teneinde de onderlinge uitwisseling van statistische informatie, die nodig is om toezicht te kunnen houden op de ontwikkeling van de luchtdiensten, te vergemakkelijken.
 
-#### Artikel 10. Consumentenbelangen
+##### Artikel 10. Consumentenbelangen
 
 1. Elke partij erkent dat het belangrijk is de belangen van de consumenten te beschermen en mag maatregelen nemen of luchtvaartmaatschappijen op niet-discriminerende basis verplichten redelijke en proportionele maatregelen te nemen betreffende de volgende zaken, met inbegrip van, maar niet beperkt tot:
 
@@ -258,7 +280,7 @@ Elke partij eist de naleving van:
 
 2. De partijen streven ernaar elkaar, in het kader van Gemengd Comité, te raadplegen over kwesties die van belang zijn voor de consument, inclusief geplande maatregelen, teneinde hun aanpak zoveel mogelijk op elkaar af te stellen.
 
-#### Artikel 11. Beschikbaarheid van luchthavens en luchtvaartvoorzieningen en -diensten
+##### Artikel 11. Beschikbaarheid van luchthavens en luchtvaartvoorzieningen en -diensten
 
 1. Bij het opstellen van regelingen inzake het gebruik van luchthavens, luchtroutes, luchtverkeersleidings- en luchtnavigatiediensten, burgerluchtvaartbeveiliging, grondafhandeling en andere bijbehorende voorzieningen en diensten die op het grondgebied van een partij worden verstrekt, ziet deze partij erop toe dat deze voorzieningen en diensten ook op niet-discriminerende basis door de luchtvaartmaatschappijen van de andere partij kunnen worden gebruikt.
 
@@ -268,7 +290,7 @@ Elke partij eist de naleving van:
 
 4. Als een partij van oordeel is dat de andere partij dit artikel niet naleeft, mag zij de andere partij in kennis stellen van haar bevindingen en om overleg verzoeken uit hoofde van [artikel 17 (Gemengd Comité), lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16).
 
-#### Artikel 12. Heffingen op luchthavens, luchthavenvoorzieningen en -diensten
+##### Artikel 12. Heffingen op luchthavens, luchthavenvoorzieningen en -diensten
 
 1. Elke partij ziet erop toe dat gebruikersheffingen die door haar bevoegde heffingsautoriteiten of -organen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd voor het gebruik van de luchtnavigatie- en luchtverkeersleidingsdiensten, correct, redelijk, kostengerelateerd en niet-discriminerend zijn. In ieder geval mogen de voorwaarden waaronder de gebruikersheffingen aan de luchtvaartmaatschappijen van de andere partij worden opgelegd niet minder gunstig zijn dan de gunstigste voorwaarden die iedere andere luchtvaartmaatschappij kan verkrijgen.
 
@@ -282,7 +304,7 @@ Elke partij eist de naleving van:
 
 - b. die partij, na de evaluatie, nalaat alle in haar macht liggende stappen te nemen om een heffing of praktijk die niet in overeenstemming is met dit artikel te corrigeren.
 
-#### Artikel 13. Commercieel kader
+##### Artikel 13. Commercieel kader
 
 1. Elke partij geeft de luchtvaartmaatschappijen van de andere partij eerlijke en gelijke gelegenheid om de luchtdiensten waarop deze Overeenkomst betrekking heeft, aan te bieden.
 
@@ -354,7 +376,7 @@ Elke partij eist de naleving van:
 
 17. Wanneer een luchtvaartmaatschappij een vergunning of toestemming vraagt om chartervluchten en andere niet-geregelde vluchten te exploiteren, moeten de partijen deze aanvraag zo snel mogelijk behandelen.
 
-#### Artikel 14. Concurrentiekader
+##### Artikel 14. Concurrentiekader
 
 1. De partijen erkennen dat zij gezamenlijk streven naar een eerlijk en concurrerend kader voor de exploitatie van de luchtdiensten. De partijen erkennen dat de waarschijnlijkheid dat luchtvaartmaatschappijen eerlijke concurrentiepraktijken hanteren, het grootst is wanneer deze maatschappijen op volledig commerciële basis werken en niet door de overheid worden gesubsidieerd. Ze erkennen dat kwesties als de voorwaarden waaronder luchtvaartmaatschappijen worden geprivatiseerd, de afschaffing van concurrentieverstorende subsidies, gelijke en niet-discriminerende toegang tot luchthavenvoorzieningen en -diensten en tot geautomatiseerde boekingssystemen, cruciaal zijn voor de totstandbrenging van een billijk en concurrerend kader.
 
@@ -366,11 +388,11 @@ Elke partij eist de naleving van:
 
 5. Indien een partij, na overleg in het Gemengd Comité, van oordeel is dat de in [artikel 14, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=14&z=2019-05-16&g=2019-05-16), vermelde omstandigheden blijven bestaan en naar alle waarschijnlijkheid tot aanzienlijke nadelen of schade voor haar luchtvaartmaatschappij(en) zullen leiden, mag zij maatregelen treffen. Een partij mag krachtens deze alinea maatregelen treffen vanaf het ogenblik dat bij een besluit van het Gemengd Comité procedures en criteria voor het treffen van dergelijke maatregelen worden vastgesteld of één jaar na de datum waarop deze Overeenkomst voorlopig wordt toegepast door de partijen of in werking treedt, naargelang welk feit zich het eerst voordoet. Alle maatregelen uit hoofde van deze alinea moeten passend en proportioneel zijn en in toepassingsgebied en duur beperkt zijn tot wat strikt noodzakelijk is. Deze maatregelen mogen uitsluitend gericht zijn tot de entiteit die baat heeft bij de in lid 2 vermelde omstandigheden, en laat het recht van de partijen om maatregelen te nemen uit hoofde van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=21&z=2019-05-16&g=2019-05-16) (Arbitrage) onverlet.
 
-#### Artikel 15. Luchtverkeersbeheer
+##### Artikel 15. Luchtverkeersbeheer
 
 De partijen werken samen aan oplossingen voor problemen in verband met veiligheidstoezicht en beleidskwesties met betrekking tot luchtverkeersbeheer, teneinde de algemene efficiëntie te optimaliseren, de kosten te beperken, de veiligheid te verbeteren en de capaciteit van de bestaande systemen te vergroten. De partijen moedigen hun verleners van luchtnavigatiediensten aan om verder samen te werken op het gebied van interoperabiliteit, teneinde, waar mogelijk, de systemen van beide partijen te integreren, het milieueffect van de luchtvaart te beperken en informatie te delen.
 
-#### Artikel 16. Voortzetting van aanwijzingen en vergunningen
+##### Artikel 16. Voortzetting van aanwijzingen en vergunningen
 
 1. Een luchtvaartmaatschappij uit Canada of een lidstaat die houder is van een geldige aanwijzing van haar regering, krachtens een luchtvervoersovereenkomst met Canada die wordt vervangen door de onderhavige Overeenkomst, wordt beschouwd als een luchtvaartmaatschappij die is aangewezen om luchtdiensten te verlenen.
 
@@ -378,7 +400,7 @@ De partijen werken samen aan oplossingen voor problemen in verband met veilighei
 
 3. Niets in dit artikel verbiedt dat een niet in lid 1 of 2 van dit artikel bedoelde luchtvaartmaatschappij van een partij wordt aangewezen of een vergunning krijgt om luchtdiensten te verlenen.
 
-#### Artikel 17. Gemengd Comité
+##### Artikel 17. Gemengd Comité
 
 1. De partijen richten hierbij een comité op dat is samengesteld uit vertegenwoordigers van de partijen (hierna „Gemengd Comité” genoemd).
 
@@ -408,7 +430,7 @@ De partijen werken samen aan oplossingen voor problemen in verband met veilighei
 
 9. Alle besluiten van het Gemengd Comité worden met eenparigheid van stemmen genomen.
 
-#### Artikel 18. Milieu
+##### Artikel 18. Milieu
 
 1. De partijen erkennen het belang van milieubescherming bij de ontwikkeling en tenuitvoerlegging van internationaal luchtvervoersbeleid.
 
@@ -422,13 +444,13 @@ De partijen werken samen aan oplossingen voor problemen in verband met veilighei
 
 6. De partijen raadplegen elkaar over milieukwesties, inclusief niet-geplande maatregelen die waarschijnlijk een aanzienlijk effect zullen hebben op de onder deze Overeenkomst vallende internationale luchtdiensten, teneinde hun aanpak zoveel mogelijk op elkaar af te stemmen. De raadplegingen starten binnen 30 dagen na de ontvangst van een dergelijk verzoek, of na een onderling overeengekomen termijn.
 
-#### Artikel 19. Arbeidskwesties
+##### Artikel 19. Arbeidskwesties
 
 1. De partijen erkennen dat het belangrijk is rekening te houden met het effect van deze Overeenkomst op de arbeidsomstandigheden, de werkgelegenheid en de werkomstandigheden.
 
 2. Elke partij mag verzoeken om een vergadering van het bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) opgericht Gemengd Comité teneinde de in lid 1 van dit artikel vermelde arbeidskwesties te bespreken.
 
-#### Artikel 20. Internationale samenwerking
+##### Artikel 20. Internationale samenwerking
 
 De partijen mogen het bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) opgericht Gemengd Comité bijeenroepen over kwesties met betrekking tot:
 
@@ -440,7 +462,7 @@ De partijen mogen het bij [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0
 
 inclusief, voor zover mogelijk, voorstellen betreffende de opstelling van gecoördineerde standpunten op deze gebieden.
 
-#### Artikel 21. Arbitrage
+##### Artikel 21. Arbitrage
 
 1. Wanneer tussen de partijen een geschil ontstaat over de interpretatie of toepassing van deze Overeenkomst, moeten ze dit in de eerste plaats trachten op te lossen via formeel overleg in het Gemengd Comité. Dit formeel overleg moet zo snel mogelijk plaatsvinden en, onverminderd [artikel 17, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16), binnen een termijn van hoogstens 30 dagen na de datum waarop een van de partijen van de andere partij een schriftelijk verzoek heeft ontvangen waarin naar dit artikel wordt verwezen, tenzij de partijen een andere beslissing hebben genomen.
 
@@ -460,31 +482,31 @@ inclusief, voor zover mogelijk, voorstellen betreffende de opstelling van gecoö
 
 9. Met het oog op de toepassing van dit artikel handelen de Europese Gemeenschap en de lidstaten samen.
 
-#### Artikel 22. Wijzigingen
+##### Artikel 22. Wijzigingen
 
 Alle wijzigingen van deze Overeenkomst mogen door de partijen samen worden overeengekomen op basis van raadplegingen die overeenkomstig [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) (Gemengd Comité) van deze Overeenkomst zijn gehouden. De wijzigingen worden van kracht overeenkomstig het bepaalde in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=23&z=2019-05-16&g=2019-05-16) (Inwerkingtreding en voorlopige toepassing).
 
-#### Artikel 23. Inwerkingtreding en voorlopige toepassing
+##### Artikel 23. Inwerkingtreding en voorlopige toepassing
 
 1. Deze Overeenkomst treedt in werking één maand na de datum van de laatste diplomatieke nota waarin de partijen bevestigen dat alle nodige procedures voor de inwerkingtreding van deze Overeenkomst zijn voltooid. Met het oog op deze uitwisseling wijzen de Europese Gemeenschap en lidstaten het secretariaat-generaal van de Raad aan. Canada bezorgt de aan de Europese Gemeenschap en haar lidstaten gerichte diplomatieke nota('s) aan het secretariaat-generaal van de Raad van de Europese Unie, en het secretariaat-generaal van de Raad van de Europese Unie bezorgt de diplomatieke nota’s van de Europese Gemeenschap en haar lidstaten aan Canada. De diplomatieke nota of nota's van de Europese Gemeenschap en haar lidstaten bevatten mededelingen van elke lidstaat waarin wordt bevestigd dat de voor inwerkingtreding van deze Overeenkomst vereiste procedures zijn voltooid.
 
 2. Onverminderd het bepaalde in lid 1 van dit artikel stemmen de partijen ermee in deze Overeenkomst voorlopig toe te passen conform het nationale recht van de partijen, vanaf de eerste dag van de maand volgende op de datum van de laatste nota waarbij de partijen elkaar in kennis hebben gesteld van de voltooiing van de nationale procedures voor de voorlopige toepassing van deze Overeenkomst.
 
-#### Artikel 24. Beëindiging
+##### Artikel 24. Beëindiging
 
 Een partij kan te allen tijde de andere partij langs diplomatieke kanalen schriftelijk mededelen dat zij besloten heeft deze Overeenkomst te beëindigen. Deze mededeling moet tegelijk ook naar de Internationale Burgerluchtvaartorganisatie en het secretariaat van de Verenigde Naties worden gestuurd. Deze Overeenkomst eindigt één (1) jaar na de datum waarop de andere partij de kennisgeving heeft ontvangen, tenzij de kennisgeving van de beëindiging vóór het verstrijken van deze termijn in overleg wordt ingetrokken. Indien de andere partij de ontvangst van de kennisgeving niet bevestigt, wordt de kennisgeving geacht veertien (14) dagen na de ontvangst van de kennisgeving door de Internationale Burgerluchtvaartorganisatie en het secretariaat van de Verenigde Naties te zijn ontvangen.
 
-#### Artikel 25. Registratie van de Overeenkomst
+##### Artikel 25. Registratie van de Overeenkomst
 
 Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtreding ervan bij de Internationale Burgerluchtvaartorganisatie en het secretariaat van de Verenigde Naties geregistreerd, conform [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102). Zodra de registratie is bevestigd door de secretariaten van de Internationale Burgerluchtvaartorganisatie en de Verenigde Naties, wordt de andere partij van de registratie op de hoogte gesteld.
 
-#### Artikel 26. Verhouding tot andere overeenkomsten
+##### Artikel 26. Verhouding tot andere overeenkomsten
 
 1. Indien de partijen partij worden bij een multilaterale overeenkomst of overgaan tot de bekrachtiging van een besluit van de Internationale Burgerluchtvaartorganisatie of een andere internationale intergouvernementele organisatie dat betrekking heeft op onder deze Overeenkomst vallende aangelegenheden, plegen zij overleg in het Gemengd Comité om te bepalen welke invloed de bepalingen van die multilaterale overeenkomst of dat multilaterale besluit hebben op de onderhavige Overeenkomst en of deze met het oog hierop moet worden herzien.
 
 2. Gedurende de periode van voorlopige toepassing overeenkomstig [artikel 23 (Inwerkingtreding en voorlopige toepassing), lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=23&z=2019-05-16&g=2019-05-16), van deze Overeenkomst worden de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&z=2019-05-16&g=2019-05-16) van deze Overeenkomst vermelde bilaterale overeenkomsten opgeschort, uitgezonderd het bepaalde in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&z=2019-05-16&g=2019-05-16) van deze Overeenkomst. Bij inwerkingtreding overeenkomstig artikel 23, lid 1, van deze Overeenkomst, vervangt deze Overeenkomst de relevante bepalingen van de in bijlage 3 van deze overeenkomst vermelde bilaterale overeenkomsten, uitgezonderd het bepaalde in bijlage 2 van deze overeenkomst.
 
-#### Deel 1. Eigendom van en zeggenschap over de luchtvaartmaatschappijen van beide partijen
+##### Deel 1. Eigendom van en zeggenschap over de luchtvaartmaatschappijen van beide partijen
 
 1. Onverminderd [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=4&z=2019-05-16&g=2019-05-16) (Investeringen) mogen luchtvaartmaatschappijen van een partij, op basis van wederkerigheid, eigendom zijn van onderdanen van welke andere partij ook, voor zover dit is toegestaan uit hoofde van de Canadese nationale wetten en regels voor buitenlandse investeringen in luchtvaartmaatschappijen.
 
@@ -492,7 +514,7 @@ Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtredin
 
 - „in het geval van een luchtvaartmaatschappij uit Canada, berust de eigendom en de effectieve zeggenschap over de luchtvaartmaatschappij bij onderdanen van Canada, heeft de luchtvaartmaatschappij een Canadese vergunning en is het hoofdkantoor van de luchtvaartmaatschappij in Canada gevestigd; in het geval van een luchtvaartmaatschappij uit een lidstaat, berust de eigendom en de effectieve zeggenschap over de luchtvaartmaatschappij bij onderdanen van de lidstaten, IJsland, Liechtenstein, Noorwegen of Zwitserland, heeft de luchtvaartmaatschappij een communautaire vergunning en is het hoofdkantoor van de luchtvaartmaatschappij in een lidstaat gevestigd”.
 
-#### Deel 2. Geleidelijke beschikbaarheid van verkeersrechten
+##### Deel 2. Geleidelijke beschikbaarheid van verkeersrechten
 
 1. Bij het uitoefenen van de in lid 2 van dit deel vastgestelde verkeersrechten, genieten de luchtvaartmaatschappijen van de partijen de bij [bijlage 1, punt 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=1&z=2019-05-16&g=2019-05-16), toegestane operationele flexibiliteit.
 
@@ -522,7 +544,7 @@ Deze Overeenkomst en eventuele wijzigingen daarvan worden bij de inwerkingtredin
 
 - d. wanneer het krachtens de nationale wetten en regels van beide partijen is toegestaan dat onderdanen van de andere partij de volledige eigendom van en zeggenschap over hun luchtvaartmaatschappijen hebben, en wanneer beide partijen de volledige toepassing van [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=1&z=2019-05-16&g=2019-05-16) toestaan, overeenkomstig [artikel 17 (Gemengd comité), lid 5, lid 6, onder e), en lid 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=17&z=2019-05-16&g=2019-05-16) van deze Overeenkomst en overeenkomstig een bevestiging van de partijen op basis van hun respectieve procedures, zijn de bepalingen van [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&z=2019-05-16&g=2019-05-16) niet langer van toepassing en wordt bijlage 1 van kracht.
 
-#### Deel 1
+##### Deel 1
 
 Zoals bepaald in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=26&z=2019-05-16&g=2019-05-16) van deze Overeenkomst worden de volgende bilaterale overeenkomsten tussen Canada en de lidstaten opgeschort of vervangen door deze Overeenkomst:
 
@@ -562,7 +584,7 @@ Zoals bepaald in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&ar
 
 - r. Het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland: Overeenkomst voor luchtdiensten tussen de regering van Canada en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, ondertekend op 22 juni 1988.
 
-#### Deel 2
+##### Deel 2
 
 Met het oog op de toepassing van [bijlage 2, deel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=2&deel=2&z=2019-05-16&g=2019-05-16), zijn de volgende rechten beschikbaar overeenkomstig alinea 2, onder a), punt iii):
 
@@ -626,7 +648,7 @@ Wanneer communautaire luchtvaartmaatschappijen gecombineerde diensten voor passa
 |   |   |
 | Verenigd Koninkrijk | Rechten van de vijfde vrijheid zijn beschikbaar tussen punten in Canada en tussenliggende punten, en tussen punten in Canada en verder gelegen punten. Met betrekking tot goederendiensten gelden deze rechten voor het verlenen van internationale vervoersdiensten tussen punten in Canada en punten in derde landen, zonder de verplichting een punt in het Verenigd Koninkrijk te bedienen. |
 
-#### Deel 3
+##### Deel 3
 
 In afwijking van [deel 1 van deze bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&bijlage=3&deel=1&z=2019-05-16&g=2019-05-16) blijven de onder d) (het Koninkrijk Denemarken), f) (de Franse Republiek), l) (het Koninkrijk der Nederlanden), en r) (het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland) vermelde overeenkomsten van toepassing op de gebieden die niet onder de definitie van „grondgebied” in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004292&artikel=1&z=2019-05-16&g=2019-05-16) van deze Overeenkomst vallen, onder de in dat artikel neergelegde voorwaarden.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wet rechtsherstel box 3"
+title: "Wet van 21 december 2022 tot wijziging van het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over de kalenderjaren 2017 tot met 2022 door het lager vaststellen van het voordeel in gevallen waarin dat nodig is om het voordeel in overeenstemming te brengen met de uitspraak van de Hoge Raad van 24 december 2021 (Wet rechtsherstel box 3)"
 identifier: "BWBR0047699"
-categorie: "Overig"
-publicatiedatum: 2025-07-19
-laatste_update: 2025-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047699"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-19"
+last_updated: "2025-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047699"
+soort: "wet"
+stam_id: "16613913"
+version_id: "30826862"
+internal_id: "C44177141"
+label_id: "16532544"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047699/2025-07-19/0"
+intitule_bron: "Stb.2022-533"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-21"
+intitule_published: "2022-12-27"
+intitule_in_force: "2022-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2025-195"
+original_signed_date: "2025-07-14"
+original_published_date: "2025-07-18"
+original_effect: "structuurwijziging"
+original_dossier: "36706"
+original_url_id: "stb-2025-195"
+entry_into_force_date: "2025-07-14"
+entry_into_force_dossier: "36706"
+jci_1_3: "jci1.3:c:BWBR0047699&z=2025-07-19&g=2025-07-19"
+jci_1_0: "1.0:c:BWBR0047699&g=2025-07-19"
+citeertitel_status: "officieel"
+short_title: "Wet rechtsherstel box 3"
+signed_date: "2025-07-14"
+entry_into_force: "2025-07-14"
 ---
-
-# Wet rechtsherstel box 3
+# Wet van 21 december 2022 tot wijziging van het voordeel uit sparen en beleggen als bedoeld in artikel 5.2 van de Wet inkomstenbelasting 2001 over de kalenderjaren 2017 tot met 2022 door het lager vaststellen van het voordeel in gevallen waarin dat nodig is om het voordeel in overeenstemming te brengen met de uitspraak van de Hoge Raad van 24 december 2021 (Wet rechtsherstel box 3)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om naar aanleiding v
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Reikwijdte en begripsbepalingen
+##### Artikel 1. Reikwijdte en begripsbepalingen
 
 1. Voor toepassing van deze wet wordt verstaan onder:
 
@@ -48,13 +76,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - c. bij de toepassing van de [artikelen 5.35, eerste lid](onbekend), en [5.36, eerste lid, van die wet](onbekend) in plaats van [artikel 5.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt gelezen: artikel 5.2, eerste lid.
 
-#### Artikel 2. Voordeel uit sparen en beleggen
+##### Artikel 2. Voordeel uit sparen en beleggen
 
 1. Het voordeel uit sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), wordt vastgesteld op het bedrag dat volgt uit de berekening, opgenomen in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19).
 
 2. Het voordeel uit sparen en beleggen wordt gesteld op ten minste nihil.
 
-#### Artikel 3. Berekening voordeel uit sparen en beleggen
+##### Artikel 3. Berekening voordeel uit sparen en beleggen
 
 1. Het voordeel uit sparen en beleggen wordt berekend door de vermenigvuldiging van het effectieve rendementspercentage, bedoeld in het tweede lid, met de grondslag sparen en beleggen, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2).
 
@@ -79,17 +107,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - c. het derde lid uitgegaan van de waarde van de banktegoeden, de waarde van de overige bezittingen en de waarde van de schulden van de belastingplichtige en zijn partner tezamen.
 
-#### Artikel 4. Forfaitaire percentages 2022
+##### Artikel 4. Forfaitaire percentages 2022
 
 1. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19), derde lid, kolom I, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentepercentages op deposito’s van huishoudens met een opzegtermijn van maximaal drie maanden, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
 2. Na afloop van het kalenderjaar 2022 wordt binnen twee maanden het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19), derde lid, kolom III, laatste regel, vermelde percentage bij ministeriële regeling vervangen door een ander percentage. Dit percentage wordt gesteld op de door twaalf te delen som van de maandelijkse rentes over het totale uitstaande bedrag aan woninghypotheken van huishoudens, zoals gepubliceerd door De Nederlandsche Bank, uit een periode van elf maanden, beginnend op 1 januari en eindigend op 30 november van het kalenderjaar 2022, onder dubbeltelling van het percentage over de maand november.
 
-#### Artikel 5. Persoonsgebonden aftrek
+##### Artikel 5. Persoonsgebonden aftrek
 
 In afwijking van artikel [2.17, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.17), wordt voor de persoonsgebonden aftrek, die voortvloeit uit een herrekening van het verzamelinkomen door toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=2&z=2025-07-19&g=2025-07-19), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=3&z=2025-07-19&g=2025-07-19) of [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19), aangesloten bij de door de fiscale partners in de aangifte gekozen verdeling van uitgaven voor specifieke zorgkosten als bedoeld in [afdeling 6.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.5) of aftrekbare giften als bedoeld in [afdeling 6.9 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=6.9). Indien de belastingplichtige tezamen met zijn partner op een andere wijze het extra bedrag aan persoonsgebonden aftrek wil verdelen, kunnen zij hiervoor een verzoek om ambtshalve vermindering indienen bij de inspecteur waarin zij hun gezamenlijke keuze kenbaar maken.
 
-#### Artikel 6. Voorkomen van dubbele belasting
+##### Artikel 6. Voorkomen van dubbele belasting
 
 1. In afwijking van [artikel 24, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24), wordt de vermindering, bedoeld in het eerste lid van dat artikel, berekend met inachtneming van de inkomstenbelasting die over het belastbare inkomen uit sparen en beleggen na toepassing van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=2&z=2025-07-19&g=2025-07-19), maar vóór de vermindering ter voorkoming van dubbele belasting, verschuldigd zou zijn.
 
@@ -121,17 +149,17 @@ In afwijking van artikel [2.17, derde lid, van de Wet inkomstenbelasting 2001](h
 
 11. Bij de toepassing van [artikel 25b, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=25b) wordt [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0047699&artikel=6a&z=2025-07-19&g=2025-07-19) toegepast bij het bepalen van het belastbare inkomen uit sparen en beleggen.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2017.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze wet wordt aangehaald als: Wet rechtsherstel box 3.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a. Tegenbewijsregeling op basis van werkelijk rendement
+##### Artikel 6a. Tegenbewijsregeling op basis van werkelijk rendement
 
 1. Indien de belastingplichtige aannemelijk maakt dat het werkelijke rendement van bezittingen en schulden lager is dan het voordeel uit sparen en beleggen dat ingevolge deze wet in aanmerking wordt genomen, wordt het belastbare inkomen uit sparen en beleggen in afwijking van [artikel 5.1 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.1) gesteld op het werkelijke rendement van bezittingen en schulden, verminderd met de persoonsgebonden aftrek.
 

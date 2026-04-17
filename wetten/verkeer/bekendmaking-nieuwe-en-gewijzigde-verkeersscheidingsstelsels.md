@@ -1,13 +1,37 @@
 ---
 title: "Bekendmaking nieuwe en gewijzigde verkeersscheidingsstelsels"
 identifier: "BWBR0011546"
-categorie: "Verkeer"
-publicatiedatum: 2000-12-01
-laatste_update: 2000-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011546"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-12-01"
+last_updated: "2000-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011546"
+soort: "ministeriele-regeling"
+stam_id: "5058183"
+version_id: "9122442"
+internal_id: "C12129371"
+label_id: "5034154"
+dtd_version: "2.0"
+original_entry_into_force: "2000-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011546/2000-12-01/0"
+intitule_bron: "Stcrt.2000-157"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-09"
+intitule_published: "2000-08-16"
+intitule_in_force: "2000-08-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-157"
+original_signed_date: "2000-08-09"
+original_published_date: "2000-08-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-12-01"
+jci_1_3: "jci1.3:c:BWBR0011546&z=2000-12-01&g=2000-12-01"
+jci_1_0: "1.0:c:BWBR0011546&g=2000-12-01"
+citeertitel_status: "officieel"
+signed_date: "2000-08-09"
+entry_into_force: "2000-12-01"
 ---
-
 # Bekendmaking nieuwe en gewijzigde verkeersscheidingsstelsels
 
 Gelet op artikel 3, tweede lid, van het Besluit van 7 november 1989, houdende het van toepassing verklaren van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (Stb. 1989, 502),

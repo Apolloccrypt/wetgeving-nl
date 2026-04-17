@@ -1,13 +1,37 @@
 ---
 title: "Beleidsregels inkoopvergoeding apotheekhoudenden"
 identifier: "BWBR0014781"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-03-12
-laatste_update: 2003-03-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014781"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-03-12"
+last_updated: "2003-03-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014781"
+soort: "beleidsregel"
+stam_id: "4147773"
+version_id: "5901092"
+internal_id: "C6103921"
+label_id: "4127214"
+dtd_version: "2.0"
+original_entry_into_force: "2003-03-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014781/2003-03-12/0"
+intitule_bron: "Stcrt.2003-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-03-06"
+intitule_published: "2003-03-10"
+intitule_in_force: "2003-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-48"
+original_signed_date: "2003-03-06"
+original_published_date: "2003-03-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-03-12"
+jci_1_3: "jci1.3:c:BWBR0014781&z=2003-03-12&g=2003-03-12"
+jci_1_0: "1.0:c:BWBR0014781&g=2003-03-12"
+citeertitel_status: "officieel"
+signed_date: "2003-03-06"
+entry_into_force: "2003-03-12"
 ---
-
 # Beleidsregels inkoopvergoeding apotheekhoudenden
 
 Gelet op [artikel 13 van de Wet tarieven gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=13);
@@ -20,7 +44,7 @@ Na schriftelijke mededeling te hebben gedaan aan de Eerste en Tweede Kamer der S
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het College tarieven gezondheidszorg stelt voor prestaties van personen en instellingen die in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0005342&artikel=2)[aanhef en onder a, van het besluit werkingssfeer WTG 1992](onbekend) als orgaan voor gezondheidszorg zijn aangewezen, beleidsregels vast die voldoen aan de volgende uitgangspunten:
 
@@ -40,11 +64,11 @@ Het College tarieven gezondheidszorg stelt voor prestaties van personen en inste
 
 - h. Overeenkomstig de huidige beleidsregels bevatten de beleidsregels laagste prijsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 In bedoelde beleidsregels ter uitvoering van deze aanwijzing wordt bepaald dat het College tarieven gezondheidszorg bij het ontbreken van een verzoek tot goedkeuring of vaststelling van tarieven op grond van [artikel 12 WTG](https://wetten.overheid.nl/jci1.3:c:BWBR0003356&artikel=12) per 1 mei 2003 ambtshalve gewijzigde maximumtarieven vaststelt.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling toegelaten instellingen volkshuisvesting 2015"
+title: "Regeling van de Minister voor Wonen en Rijksdienst van 17 juni 2015, nr. 0000336120, houdende nieuwe nadere regels betreffende toegelaten instellingen volkshuisvesting ter uitvoering van hoofdstuk IV van de Woningwet en het Besluit toegelaten instellingen volkshuisvesting 2015 (Regeling toegelaten instellingen volkshuisvesting 2015)"
 identifier: "BWBR0036709"
-categorie: "Overig"
-publicatiedatum: 2026-04-11
-laatste_update: 2026-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036709"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-11"
+last_updated: "2026-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036709"
+soort: "ministeriele-regeling"
+stam_id: "13182703"
+version_id: "29558422"
+internal_id: "C43098451"
+label_id: "13151774"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036709/2026-04-11/0"
+intitule_bron: "Stcrt.2015-16875"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-06-17"
+intitule_published: "2015-06-19"
+intitule_in_force: "2015-06-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19338"
+original_signed_date: "2023-07-04"
+original_published_date: "2023-07-12"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-19338"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0036709&z=2026-04-11&g=2026-04-11"
+jci_1_0: "1.0:c:BWBR0036709&g=2026-04-11"
+citeertitel_status: "officieel"
+short_title: "Regeling toegelaten instellingen volkshuisvesting 2015"
+signed_date: "2023-07-04"
+entry_into_force: "2024-07-01"
 ---
-
 # Regeling van de Minister voor Wonen en Rijksdienst van 17 juni 2015, nr. 0000336120, houdende nieuwe nadere regels betreffende toegelaten instellingen volkshuisvesting ter uitvoering van hoofdstuk IV van de Woningwet en het Besluit toegelaten instellingen volkshuisvesting 2015 (Regeling toegelaten instellingen volkshuisvesting 2015)
 
 Gelet op de [artikelen 44a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), en [48, eerste lid, tweede volzin, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) en de [artikelen 1, eerste lid, begripsomschrijving van getaxeerd](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=1), [10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=10), [13, eerste lid, onderdelen b en c, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=19), [23, eerste lid, onderdeel b, en tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=23), [26, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=26), [31, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), [45, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=45), [65, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=65), [73, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=73), [79, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=79), [84, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=84), [101](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=101), [104, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=104), [105, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=105), [107, tweede lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), en [108, tweede lid, van het Besluit toegelaten instellingen volkshuisvesting 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=108);
@@ -18,7 +44,7 @@ BESLUIT:
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,21 +62,21 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Het aangaan van verbindingen
 
-#### Artikel 2
+##### Artikel 2
 
 Het percentage, bedoeld in de [artikelen 10, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=10), en [79, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=79), is 1,5.
 
-#### Artikel 3
+##### Artikel 3
 
 De ratingbureaus, bedoeld in de [artikelen 13, eerste lid, onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=13), en [107, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn Moody’s, Standard and Poor’s en Fitch.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 #### § 3. Verdere algemene bepalingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De stukken, bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=17), zijn:
 
@@ -76,7 +102,7 @@ Vervallen
 
 #### § 1. Voorschriften omtrent de geschiktheid van personen voor het lidmaatschap van het bestuur en de raad van commissarissen, en de betrouwbaarheid van die personen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De toegelaten instelling stelt de minister in staat een zienswijze over een kandidaat uit te brengen voorafgaande aan de benoeming of herbenoeming. Daartoe doet de raad van commissarissen van de toegelaten instelling een aanvraag voor een zienswijze aan hem voor een voorgenomen benoeming of herbenoeming van die kandidaat voorafgaand aan die benoeming of herbenoeming.
 
@@ -98,13 +124,13 @@ Vervallen
 
 - b. in geval van een voorgenomen herbenoeming van een kandidaat: de documenten, genoemd in onderdeel a, onder 1°, 2°, 4° en 5°.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De minister voorziet in de mogelijkheid om de aanvraag langs elektronische weg in te dienen.
 
 2. De minister bevestigt de ontvangst van de aanvraag binnen een week na die ontvangst aan de toegelaten instelling. Indien de aanvraag onvolledig is, stelt hij de toegelaten instelling daarvan bij die bevestiging in kennis.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister start het opstellen van zijn zienswijze, indien de aanvraag volledig is overeenkomstig [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=II&paragraaf=1&artikel=6&z=2026-04-11&g=2026-04-11), in voorkomend geval na ontvangst van de aanvankelijk ontbrekende bescheiden.
 
@@ -114,7 +140,7 @@ Vervallen
 
 #### § 2. Goedkeuring door de minister van besluiten van het bestuur omtrent vervreemdingen van onroerende zaken
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de toepassing van het bepaalde bij en krachtens de [artikelen 22 tot en met 26a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22):
 
@@ -134,7 +160,7 @@ Vervallen
 
 - c. in onafhankelijke tuchtrechtspraak.
 
-#### Artikel 10
+##### Artikel 10
 
 De voorwaarden, bedoeld in [artikel 22, eerste lid, onderdeel a, onder 2°, onder ii, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), maken deel uit van de ontwerpkoopovereenkomst en omvat:
 
@@ -146,7 +172,7 @@ De voorwaarden, bedoeld in [artikel 22, eerste lid, onderdeel a, onder 2°, onde
 
   - 2°. 50 is, indien de toepassing van onderdeel 1° tot een hoger percentage dan 50 zou leiden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Ten behoeve van het vaststellen van het huishoudinkomen, bedoeld in [artikel 22, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), legt de beoogde verkrijger van de woongelegenheid aan de toegelaten instelling over:
 
@@ -172,23 +198,23 @@ De voorwaarden, bedoeld in [artikel 22, eerste lid, onderdeel a, onder 2°, onde
 
 6. Aan het eerste lid, onderdeel b, wordt toepassing gegeven overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=1&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 3. De jaarrekening, het jaarverslag en het volkshuisvestingsverslag
 
-#### Artikel 13
+##### Artikel 13
 
 (gereserveerd)
 
-#### Artikel 14
+##### Artikel 14
 
 1. De waardering bedoeld in [artikel 31, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31) vindt plaats overeenkomstig de methodiek die opgenomen is in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
 2. De nadere voorschriften, bedoeld in [artikel 31, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=31), zijn opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De jaarrekening, bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=35), bevat een balans, een winst- en verliesrekening en een kasstroomoverzicht die zijn ingericht overeenkomstig het model dat is opgenomen in de op het verslagjaar betrekking hebbende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
@@ -196,11 +222,11 @@ Vervallen
 
 3. In de toelichting van de jaarrekening worden de beleidswaarde en de maatschappelijke bestemming overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-04-11&g=2026-04-11) opgenomen.
 
-#### Artikel 16
+##### Artikel 16
 
 Het overzicht, bedoeld in [artikel 36a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=36a), wordt ingericht overeenkomstig het model dat is opgenomen in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=3&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=37), en de rapportage ervan wordt uitgevoerd overeenkomstig de werkwijze respectievelijk de modellen die zijn opgenomen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=4&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
@@ -210,11 +236,11 @@ Het onderzoek, bedoeld in [artikel 37, eerste lid van de wet](https://wetten.ove
 
 #### § 1. Uitvoering van het gemeentelijke volkshuisvestingsbeleid
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het overzicht, bedoeld in [artikel 44a, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44a), wordt ingericht overeenkomstig het in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=5&z=2026-04-11&g=2026-04-11) bij deze regeling opgenomen model.
 
@@ -222,19 +248,19 @@ Vervallen
 
 #### § 1. Uitvoering van de gemeentelijke woonvisie
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 #### § 1a. Prestatieafspraken
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ### Afdeling 2. Diensten van algemeen economisch belang
 
-#### Artikel 22
+##### Artikel 22
 
 1. De toegelaten instelling of een rechtspersoon of vennootschap als bedoeld in [artikel 48, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=48) gaat slechts overeenkomsten van huur en verhuur als bedoeld in artikel 48, eerste lid, van de wet aan, nadat degene die als huurder een woongelegenheid waarop dat lid van toepassing is wenst te betrekken aan haar heeft overgelegd:
 
@@ -294,55 +320,55 @@ Vervallen
 
 #### § 2. Goedkeuring van werkzaamheden die niet behoren tot de diensten van algemeen economisch belang
 
-#### Artikel 23
+##### Artikel 23
 
 (gereserveerd)
 
 #### § 3. Het gebied van de volkshuisvesting
 
-#### Artikel 24
+##### Artikel 24
 
 Voor toepassing van het bepaalde in [artikel 65, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=65), wordt als wijk of buurt elk deel van de gemeente beschouwd, waarvan de postcode dezelfde cijfers bevat.
 
 #### § 3. Inrichting van en geldstromen tussen de daeb-tak en de niet-daeb-tak (gereserveerd)
 
-#### Artikel 25
+##### Artikel 25
 
 (gereserveerd)
 
-#### Artikel 26
+##### Artikel 26
 
 (gereserveerd)
 
-#### Artikel 27
+##### Artikel 27
 
 (gereserveerd)
 
-#### Artikel 28
+##### Artikel 28
 
 (gereserveerd)
 
 #### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
-#### Artikel 29
+##### Artikel 29
 
 Tot de inlichtingen, bedoeld in [artikel 73, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=73), behoren in elk geval zo volledig mogelijke inlichtingen over hetgeen de toegelaten instelling voornemens is op te nemen in de toelichting, bedoeld in [artikel 75, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=75).
 
-#### Artikel 30
+##### Artikel 30
 
 De balans, bedoeld in [artikel 75, eerste lid, onder e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=75) is gebaseerd op de laatstelijk vastgestelde balans over een volledig kalenderjaar.
 
-#### Artikel 31
+##### Artikel 31
 
 (gereserveerd)
 
-#### Artikel 32
+##### Artikel 32
 
 (gereserveerd)
 
 #### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
-#### Artikel 33
+##### Artikel 33
 
 (gereserveerd)
 
@@ -350,29 +376,29 @@ De balans, bedoeld in [artikel 75, eerste lid, onder e, van het besluit](https:/
 
 #### § 1. Voorschriften in geval van het niet verplicht zijn van de vermogensscheiding (gereserveerd)
 
-#### Artikel 34
+##### Artikel 34
 
 (gereserveerd)
 
-#### Artikel 35
+##### Artikel 35
 
 (gereserveerd)
 
 #### § 2. Nadere voorschriften omtrent het voorstel voor administratieve scheiding
 
-#### Artikel 36
+##### Artikel 36
 
 Tot de inlichtingen, bedoeld in [artikel 84, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=84), behoren in elk geval zo volledig mogelijke inlichtingen over hetgeen de toegelaten instelling voornemens is op te nemen in de toelichting, bedoeld in [artikel 86, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=86).
 
-#### Artikel 37
+##### Artikel 37
 
 De waardering van de activa bedoeld in [artikel 86, tweede lid, onder c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=86), is gebaseerd op de waardering uit de laatstelijk vastgestelde balans over een volledig kalenderjaar.
 
-#### Artikel 38
+##### Artikel 38
 
 (gereserveerd)
 
-#### Artikel 39
+##### Artikel 39
 
 (gereserveerd)
 
@@ -380,7 +406,7 @@ De waardering van de activa bedoeld in [artikel 86, tweede lid, onder c van het 
 
 #### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling (gereserveerd)
 
-#### Artikel 40
+##### Artikel 40
 
 Het percentage, bedoeld in:
 
@@ -390,7 +416,7 @@ Het percentage, bedoeld in:
 
 #### § 5. Overdracht van daeb-werkzaamheden binnen de toegelaten instelling (gereserveerd)
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), omvat ten aanzien van beleggingen ten minste:
 
@@ -434,11 +460,11 @@ Het percentage, bedoeld in:
 
 - e. een analyse van de financiële risico’s voor de toegelaten instelling vanwege de verbonden ondernemingen.
 
-#### Artikel 42
+##### Artikel 42
 
 (gereserveerd)
 
-#### Artikel 43
+##### Artikel 43
 
 De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=107), zijn de modellen, opgenomen in de [bijlagen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=6&z=2026-04-11&g=2026-04-11) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=7&z=2026-04-11&g=2026-04-11) bij deze regeling.
 
@@ -446,19 +472,19 @@ De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het bes
 
 #### § 2. Goedkeuring van de juridische scheiding
 
-#### Artikel 44
+##### Artikel 44
 
 1. De adviescommissie noodzakelijke werkzaamheden toegelaten instellingen zendt jaarlijks voor 1 april aan de minister een ontwerp voor de begroting voor het daaropvolgende kalenderjaar van de aan de taakvervulling door de adviescommissie verbonden uitgaven.
 
 2. De adviescommissie brengt jaarlijks voor 1 april verslag uit van zijn werkzaamheden in het voorafgaande kalenderjaar. Dit verslag bevat in ieder geval een financiële verantwoording en wordt ter goedkeuring voorgelegd aan de minister.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Een toegelaten instelling die op het tijdstip van inwerkingtreding van de in het eerste lid genoemde [beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) een derivatenportefeuille had die financiële derivaten bevat met clausules die de uitoefening van het toezicht op de toegelaten instelling kunnen belemmeren, heeft een plan van aanpak om haar derivatenportefeuille voor wat betreft die financiële derivaten binnen een redelijkerwijs haalbare termijn af te bouwen. De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in de eerste volzin, en de te hanteren termijn voor de in die volzin bedoelde afbouw.
 
 2. De ingetrokken [Beleidsregels gebruik financiële derivaten door toegelaten instellingen volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0036480) blijven op een toegelaten instelling van toepassing tot het tijdstip waarop de minister een reglement als bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a) heeft goedgekeurd.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Een toegelaten instelling die op het tijdstip van inwerkingtreding van de in het eerste lid genoemde [beleidsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0036199) belegde in strijd met die beleidsregels stelt een plan van aanpak op om dat beleggen binnen een redelijkerwijs haalbare termijn te beëindigen. De minister kan nadere eisen stellen aan het plan van aanpak, bedoeld in de eerste volzin, en de te hanteren termijn voor de in die volzin bedoelde beëindiging.
 
@@ -466,11 +492,11 @@ De modellen, bedoeld in [artikel 107, tweede lid, onderdelen b en c, van het bes
 
 #### § 2. Goedkeuring van de juridische scheiding
 
-#### Artikel 47
+##### Artikel 47
 
 Deze regeling treedt in werking met ingang van 1 juli 2015.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze regeling wordt aangehaald als: Regeling toegelaten instellingen volkshuisvesting 2015.
 
@@ -1501,7 +1527,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 44a
+##### Artikel 44a
 
 De adviescommissie noodzakelijke werkzaamheden toegelaten instellingen hanteert bij het onderzoek naar de investeringscapaciteit van toegelaten instellingen, bedoeld in [artikel 110e, eerste lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702) in ieder geval de volgende beoordelingscriteria:
 
@@ -3197,7 +3223,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 De gevallen, bedoeld in [artikel 22, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), betreffen het vestigen van een recht van opstal op een woongelegenheid of op een zaak die zich in of nabij een woongelegenheid bevindt, ten behoeve van het plaatsen van:
 
@@ -3221,7 +3247,7 @@ De gevallen, bedoeld in [artikel 22, eerste lid, onderdeel d, van het besluit](h
 
 #### § 1. Uitvoering van het gemeentelijke volkshuisvestingsbeleid
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Een verzoek waarbij een geschil als bedoeld in [artikel 44, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=44), aan de minister wordt voorgelegd, wordt door ten minste een van de bij het geschil betrokken partijen ondertekend en bevat ten minste:
 
@@ -3249,17 +3275,17 @@ De gevallen, bedoeld in [artikel 22, eerste lid, onderdeel d, van het besluit](h
 
 4. De minister zendt de stukken onverwijld door aan de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
 
-#### Artikel 19b
+##### Artikel 19b
 
 Binnen vier weken na de dagtekening, bedoeld in [artikel 19a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&hoofdstuk=III&afdeling=1&paragraaf=1a&artikel=19a&z=2026-04-11&g=2026-04-11), kunnen de betrokken partijen hun zienswijze kenbaar maken bij de commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40).
 
-#### Artikel 19c
+##### Artikel 19c
 
 1. De commissie, bedoeld in [artikel 40, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=40) kan namens de minister, de bij het geschil betrokken partijen en relevante derden verzoeken om binnen een door haar aan te geven termijn, nadere inlichtingen te geven omtrent het voorgelegde geschil.
 
 2. Indien de commissie verzoekt om nadere inlichtingen, deelt zij terstond mee aan de minister en de bij het geschil betrokken partijen binnen welke termijn de gevraagde inlichtingen moeten worden aangeleverd.
 
-#### Artikel 19d
+##### Artikel 19d
 
 De commissie betrekt in haar advies, in ieder geval:
 
@@ -3277,7 +3303,7 @@ De commissie betrekt in haar advies, in ieder geval:
 
 ### Afdeling 2. Diensten van algemeen economisch belang
 
-#### Artikel 22a
+##### Artikel 22a
 
 De groep, bedoeld in [artikel 47a, tweede lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=47a), bestaat uit:
 
@@ -3710,7 +3736,7 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. Het bedrag van investering, bedoeld in [artikel 52d, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=52d) is ten hoogste € 37.500.
 
@@ -3730,11 +3756,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Er is niet voldoende vermogen beschikbaar, als bedoeld in [artikel 52d, derde lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=52d), indien niet wordt voldaan aan de normen voor de solvabiliteit en de loan-to-value van de autoriteit, nadat zowel de vorderingen aan de activa-zijde van de balans als het vreemd vermogen aan de passiva-zijde van de balans zijn verhoogd met de te betalen huurprijs vermenigvuldigd met de looptijd van de overeenkomst in maanden, met een maximum van 120 maanden, alsmede met de resterende huurverplichtingen uit eerder aangegane zodanige overeenkomsten.
 
-#### Artikel 22c
+##### Artikel 22c
 
 Vervallen
 
-#### Artikel 22d
+##### Artikel 22d
 
 Vervallen
 
@@ -5962,11 +5988,11 @@ IN WITNESS WHEREOF the parties have executed this document on the respective dat
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 22e
+##### Artikel 22e
 
 Vervallen
 
-#### Artikel 22f
+##### Artikel 22f
 
 Vervallen
 
@@ -5982,7 +6008,7 @@ Vervallen
 
 #### § 1. Huursom
 
-#### Artikel 40a
+##### Artikel 40a
 
 Het reglement, bedoeld in [artikel 55a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=55a), omvat ten aanzien van collegiale leningen ten minste:
 
@@ -7858,7 +7884,7 @@ De accountant voert een deelwaarneming uit op het overzicht van 5.2.1a, 1b, 1c e
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. De definities ‘beheer’ en ‘onderhoud’ als opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-04-11&g=2026-04-11) zijn van overeenkomstige toepassing op:
 
@@ -8852,7 +8878,7 @@ De uitbetaling van het geleende bedrag zal geschieden door overschrijving op rek
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 12b
+##### Artikel 12b
 
 De waarde, bedoeld in de [artikelen 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=22), en [24a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0036702&artikel=24a), is ten minste de beleidswaarde overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036709&bijlage=2&z=2026-04-11&g=2026-04-11) bij deze regeling en ten hoogste de modelmatige marktwaarde voor de verkopende toegelaten instelling dan wel de getaxeerde marktwaarde in verhuurde staat.
 
@@ -8974,11 +9000,11 @@ De accountant stelt vast dat de bezoldigingsgegevens zoals verantwoord in onderd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
-#### Artikel 22c
+##### Artikel 22c
 
 Vervallen
 
@@ -9058,11 +9084,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Afdeling 3. Administratieve scheiding en vermogensscheiding
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
-#### Artikel 22c
+##### Artikel 22c
 
 Vervallen
 

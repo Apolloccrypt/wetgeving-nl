@@ -1,20 +1,46 @@
 ---
-title: "Regeling subsidiëring versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect"
+title: "Beleidsregel van de Minister voor Medische Zorg van 18 juni 2019, kenmerk 1540378-191839 CZ, houdende regels voor het subsidiëren van regionale partnerschappen voor het stimuleren van digitale informatie-uitwisseling in de geboortezorgketen in Nederland (Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect)"
 identifier: "BWBR0042339"
-categorie: "Overig"
-publicatiedatum: 2024-10-12
-laatste_update: 2024-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042339"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-12"
+last_updated: "2024-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042339"
+soort: "ministeriele-regeling"
+stam_id: "15109123"
+version_id: "30359152"
+internal_id: "C43544061"
+label_id: "15057554"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042339/2024-10-12/0"
+intitule_bron: "Stcrt.2019-35243"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-18"
+intitule_published: "2019-06-27"
+intitule_in_force: "2019-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-32946"
+original_signed_date: "2024-10-03"
+original_published_date: "2024-10-11"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-32946"
+entry_into_force_date: "2024-10-03"
+jci_1_3: "jci1.3:c:BWBR0042339&z=2024-10-12&g=2024-10-12"
+jci_1_0: "1.0:c:BWBR0042339&g=2024-10-12"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidiëring versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect"
+signed_date: "2024-10-03"
+entry_into_force: "2024-10-03"
 ---
-
 # Beleidsregel van de Minister voor Medische Zorg van 18 juni 2019, kenmerk 1540378-191839 CZ, houdende regels voor het subsidiëren van regionale partnerschappen voor het stimuleren van digitale informatie-uitwisseling in de geboortezorgketen in Nederland (Beleidsregel subsidiëring Versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -72,11 +98,11 @@ In deze regeling wordt verstaan onder:
 
 - **zorgverlener:** alle zorgprofessionals in de geboortezorgketen die in het primaire proces zorg verlenen aan zorggebruikers.
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 De minister kan subsidie verstrekken aan de penvoerder van een regionaal partnerschap voor de periode van 1 juli 2019 tot en met 31 december 2025 voor het verrichten van activiteiten ter bevordering van de digitale informatie-uitwisseling in de geboortezorgketen in Nederland.
 
-#### Artikel 3. Activiteiten penvoerder regionaal partnerschap
+##### Artikel 3. Activiteiten penvoerder regionaal partnerschap
 
 1. De activiteiten, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=2&z=2024-10-12&g=2024-10-12), bestaan uit:
 
@@ -110,7 +136,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 4. De activiteiten, bedoeld in het eerste lid, zijn aangewezen als diensten van algemeen economisch belang als bedoeld in artikel 107, eerste lid, van het Verdrag betreffende de werking van de Europese Unie.
 
-#### Artikel 4. Subsidiebedrag
+##### Artikel 4. Subsidiebedrag
 
 1. Het subsidiebedrag per bij het regionaal partnerschap aangesloten VSV of IGO bestaat uit:
 
@@ -126,7 +152,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 3. De subsidie is een subsidie als bedoeld in [artikel 1.5, onder d, van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 5. Regionaal partnerschap
+##### Artikel 5. Regionaal partnerschap
 
 1. De penvoerder van een regionaal partnerschap ziet erop toe dat een VSV of IGO uitsluitend aan zijn regionaal partnerschap deelneemt.
 
@@ -142,7 +168,7 @@ De minister kan subsidie verstrekken aan de penvoerder van een regionaal partner
 
 5. Indien een VSV of IGO dat nog niet deelneemt aan een regionaal partnerschap wenst deel te nemen aan een bestaand regionaal partnerschap, doet dat regionaal partnerschap van dat feit melding aan de minister op uiterlijk 31 maart 2023.
 
-#### Artikel 6. Subsidieverplichtingen
+##### Artikel 6. Subsidieverplichtingen
 
 Een regionaal partnerschap:
 
@@ -156,7 +182,7 @@ Een regionaal partnerschap:
 
 - e. draagt zorg voor het borgen van de samenwerking en de continuïteit in haar samenwerkingsverband, ook na afloop van de subsidieperiode.
 
-#### Artikel 7. Aanvraag tot subsidieverlening
+##### Artikel 7. Aanvraag tot subsidieverlening
 
 1. Een aanvraag tot verlening van een subsidie wordt ontvangen in de periode van:
 
@@ -184,17 +210,17 @@ Een regionaal partnerschap:
 
 - d. een ondertekende overeenkomst voor het vestigen van een dienst van algemeen economisch belang als bedoeld in [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2024-10-12&g=2024-10-12).
 
-#### Artikel 8. Tussentijdse rapportage
+##### Artikel 8. Tussentijdse rapportage
 
 1. De penvoerder van een regionaal partnerschap brengt eens per 12 maanden inhoudelijk en financieel verslag uit over de voortgang van haar activiteiten aan de minister en gaat daarbij in op de voortgang van de vier uitkomstdoelen, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&bijlage=1&z=2024-10-12&g=2024-10-12), het gebruikerspercentage van de mogelijkheid tot digitale inzage onder zorggebruikers en de wijze waarop voldaan wordt aan de subsidieverplichtingen, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=6&z=2024-10-12&g=2024-10-12).
 
 2. In het verslag, bedoeld in het eerste lid, wordt tevens ingegaan op de stand van zaken met betrekking tot de aangegane verplichtingen rondom de implementatie- en licentiekosten van hard- en software die samenhangen met de uitvoer van de activiteiten, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2024-10-12&g=2024-10-12).
 
-#### Artikel 9. Besluit tot subsidieverlening, bevoorschotting en betaling
+##### Artikel 9. Besluit tot subsidieverlening, bevoorschotting en betaling
 
 De minister verleent bij het besluit tot subsidieverlening een voorschot van 100% van het subsidiebedrag. De voorschotten worden gelijkmatig betaald over het aantal maanden waarvoor de subsidie wordt verleend.
 
-#### Artikel 10. Aanvraag tot vaststelling
+##### Artikel 10. Aanvraag tot vaststelling
 
 1. Voor de aanvraag tot vaststelling van de subsidie wordt een door de minister vastgesteld formulier gebruikt. Het ingevulde formulier wordt door de penvoerder van een regionaal partnerschap afgestemd met het programmabureau Babyconnect.
 
@@ -204,7 +230,7 @@ De minister verleent bij het besluit tot subsidieverlening een voorschot van 100
 
 - b. een document waaruit blijkt dat tenminste 70% van de aangesloten zorgorganisaties zijn opgenomen in het zorgaanbiederadresboek van MedMij of dan geldend MedMij register, zodat zorggebruikers de praktijken in hun PGO kunnen vinden en selecteren voor digitale informatie-uitwisseling.
 
-#### Artikel 11. Besluit tot vaststelling
+##### Artikel 11. Besluit tot vaststelling
 
 1. Indien de activiteiten, bedoeld in [artikel 3, eerste lid, onder b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=3&z=2024-10-12&g=2024-10-12), waarvoor subsidie is verleend geheel zijn verricht en volledig is voldaan aan de verplichtingen die zijn verbonden aan de verleende subsidie, wordt die subsidie vastgesteld op het bedrag dat bestaat uit de gerealiseerde kosten verminderd met de gerealiseerde bijdragen van derden en de begrote eigen bijdrage, of de gerealiseerde eigen bijdrage indien deze hoger is dan de begrote eigen bijdrage, tot ten hoogste het in de verleningsbeschikking genoemde bedrag.
 
@@ -222,7 +248,7 @@ De minister verleent bij het besluit tot subsidieverlening een voorschot van 100
 
 4. Bij het besluit tot vaststelling van de subsidie betaalt de minister het deel van het vastgestelde subsidiebedrag dat resteert in een keer.
 
-#### Artikel 12. Herziening subsidie in 2023
+##### Artikel 12. Herziening subsidie in 2023
 
 1. Een subsidieaanvrager die in 2022 een herziening heeft aangevraagd als bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=7&z=2024-10-12&g=2024-10-12), kan in 2023 opnieuw een aanvraag tot herziening van de subsidieverlening indienen.
 
@@ -234,7 +260,7 @@ De minister verleent bij het besluit tot subsidieverlening een voorschot van 100
 
 5. Een aanvraag tot herziening wordt ingediend in de periode van 1 augustus 2023 tot en met 30 september 2023.
 
-#### Artikel 13. Inwerkingtreding en vervaldatum
+##### Artikel 13. Inwerkingtreding en vervaldatum
 
 1. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
@@ -281,7 +307,7 @@ Een regionaal partnerschap en haar leden, moet voldoen aan:
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling subsidiëring versnellingsprogramma Informatie-uitwisseling Patiënt en Professional Babyconnect.
 
@@ -326,17 +352,17 @@ Een regionaal partnerschap en haar leden, moet voldoen aan:
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Kaderregeling
+##### Artikel 1a. Kaderregeling
 
 Op subsidies verstrekt op grond van deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van [artikel 4.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3).
 
-#### Artikel 4a. Subsidieplafond
+##### Artikel 4a. Subsidieplafond
 
 1. Het subsidieplafond voor de kosten bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0042339&artikel=4&z=2024-10-12&g=2024-10-12), bedraagt € 6.088.722.
 
 2. Indien het totaal aangevraagde bedrag het subsidieplafond overschrijdt, wordt het beschikbare bedrag evenredig verdeeld over de ontvangen aanvragen die aan de voorwaarden voldoen.
 
-#### Artikel 12a. Herziening subsidie in 2024
+##### Artikel 12a. Herziening subsidie in 2024
 
 1. De penvoerder van een regionaal partnerschap kan in 2024 een aanvraag tot herziening van de subsidieverlening indienen voor activiteiten die plaatsvinden in 2024 of 2025.
 
@@ -358,7 +384,7 @@ Op subsidies verstrekt op grond van deze regeling is de [Kaderregeling subsidies
 
 6. Een aanvraag tot herziening wordt ingediend voor 14 november 2024.
 
-#### Artikel 12b. Hardheidsclausule
+##### Artikel 12b. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 

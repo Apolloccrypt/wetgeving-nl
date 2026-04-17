@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel IZA-transformaties"
 identifier: "BWBR0051663"
-categorie: "Overig"
-publicatiedatum: 2025-10-30
-laatste_update: 2025-10-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051663"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-10-30"
+last_updated: "2025-10-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051663"
+soort: "zbo"
+stam_id: "17567923"
+version_id: "30998002"
+internal_id: "C44391681"
+label_id: "17469024"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051663/2025-10-30/0"
+intitule_bron: "Stcrt.2025-36595"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-14"
+intitule_published: "2025-10-29"
+intitule_in_force: "2025-10-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36595"
+original_signed_date: "2025-10-14"
+original_published_date: "2025-10-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36595"
+entry_into_force_date: "2025-10-30"
+jci_1_3: "jci1.3:c:BWBR0051663&z=2025-10-30&g=2025-10-30"
+jci_1_0: "1.0:c:BWBR0051663&g=2025-10-30"
+citeertitel_status: "officieel"
+signed_date: "2025-10-14"
+entry_into_force: "2025-10-30"
 ---
-
 # Beleidsregel IZA-transformaties
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -20,7 +45,7 @@ Een aanvullende brief en aanwijzing dateren van 13 augustus 2024 en hebben als k
 
 Met de aanwijzing van 3 oktober 2025 met kenmerk 4228532-1088618-PZO heeft de Minister de bovenstaande eerder gegeven aanwijzingen gewijzigd.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -62,21 +87,21 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - •. **Bovengrens:** Een bovengrens in de zin van [artikel 50, tweede lid, onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om prestatiebeschrijvingen met een bovengrens vast te stellen op het gebied van IZA-transformaties zoals bedoeld in het Integraal zorgakkoord en daarbij borgen dat er niet meer gebruik van wordt gemaakt dan tot de beschikbare middelen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) of de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz), die wordt geleverd door zorgaanbieders in het kader van een IZA-transformatie.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. De aanvraag aan de NZa om een IZA-transformatieprestatie vast te stellen wordt gedaan via een email aan het adres mailto:iza-transformaties@nza.nl.
 
 2. Ten behoeve van een aanvraag zal de NZa een format van een aanvraagformulier beschikbaar stellen.
 
-#### Artikel 5. Beschikbare middelen
+##### Artikel 5. Beschikbare middelen
 
 1. Op grond van de initiële aanwijzing en de aanwijzing van 3 oktober 2025 bedragen de beschikbare middelen voor IZA-transformaties 1,961miljard euro. Dit bedrag is per 3 oktober 2025 tevens de startwaarde van de resterend beschikbare middelen.
 
@@ -88,7 +113,7 @@ Deze beleidsregel is van toepassing op zorg als omschreven bij of krachtens de [
 
 5. Op schriftelijk aangeven kan de Minister de resterend beschikbare middelen naar boven of beneden aanpassen.
 
-#### Artikel 6. Beoordeling
+##### Artikel 6. Beoordeling
 
 1. De aanvragen worden in behandeling genomen op volgorde van indieningsmoment.
 
@@ -106,7 +131,7 @@ Deze beleidsregel is van toepassing op zorg als omschreven bij of krachtens de [
 
 - e. toekenning van het totale projectbedrag behorend bij de aanvraag leidt niet tot overschrijding van de resterende beschikbare middelen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0051663&artikel=5&z=2025-10-30&g=2025-10-30).
 
-#### Artikel 7. Beschikking
+##### Artikel 7. Beschikking
 
 1. De NZa geeft bij toekenning van de aanvraag een beschikking af aan de zorgaanbieder(s) als vermeld in het aanvraagformulier en alle zorgverzekeraars alsmede aan de aanvragende zorgkanto(o)r(en).
 
@@ -114,7 +139,7 @@ Deze beleidsregel is van toepassing op zorg als omschreven bij of krachtens de [
 
 3. De beschikking kent een looptijd tot uiterlijk 1 januari 2029.
 
-#### Artikel 8. Prestatie, tariefsoort, bovengrens
+##### Artikel 8. Prestatie, tariefsoort, bovengrens
 
 1. Bij ieder toegekend IZA-transformatieproject stelt de NZa een unieke IZA-transformatieprestatie vast die zij vastlegt in de beschikking. Als in één beschikking zowel een Zvf-deel van het projectbedrag als een Flz-deel van het projectbedrag zijn opgenomen, dan stelt de NZa voor beide delen een zelfstandige prestatie vast.
 
@@ -126,17 +151,17 @@ Deze beleidsregel is van toepassing op zorg als omschreven bij of krachtens de [
 
 5. Bij het bepalen van de bovengrens hanteert de NZa het Zvf-deel van het projectbedrag en het Flz-deel van het projectbedrag uit de aanvraag.
 
-#### Artikel 9. Voorschriften en beperkingen
+##### Artikel 9. Voorschriften en beperkingen
 
 In de beschikking zal de NZa onderstaande voorschriften en beperkingen opnemen:
 
 - 1. Een IZA-transformatieprestatie mag alleen gedeclareerd en vergoed worden indien er schriftelijke overeenstemming is tussen zorgaanbieder en zorgverzekeraar over het gebruik van die IZA-transformatieprestatie.
 
-#### Artikel 10. Intrekken oude beleidsregel
+##### Artikel 10. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel IZA-transformaties](https://wetten.overheid.nl/jci1.3:c:BWBR0050763), met kenmerk BR/REG-25148, ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 11. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel IZA-transformaties](https://wetten.overheid.nl/jci1.3:c:BWBR0050763), met kenmerk BR/REG-25148, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

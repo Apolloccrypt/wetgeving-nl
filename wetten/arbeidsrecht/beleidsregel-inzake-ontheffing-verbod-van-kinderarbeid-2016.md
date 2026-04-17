@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel inzake ontheffing verbod van kinderarbeid 2016"
+title: "Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2016, 2015-0000291304, tot vaststelling van de nieuwe beleidsregel inzake ontheffing van het verbod van kinderarbeid ten einde deze beter te laten aansluiten bij de praktijk (Beleidsregel inzake ontheffing verbod van kinderarbeid 2016)"
 identifier: "BWBR0037569"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2016-04-01
-laatste_update: 2016-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037569"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-04-01"
+last_updated: "2016-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037569"
+soort: "beleidsregel"
+stam_id: "13403653"
+version_id: "22995962"
+internal_id: "C33242221"
+label_id: "13371304"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037569/2016-04-01/0"
+intitule_bron: "Stcrt.2016-3258"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-01-18"
+intitule_published: "2016-01-25"
+intitule_in_force: "2016-01-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-3258"
+original_signed_date: "2016-01-18"
+original_published_date: "2016-01-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-3258"
+entry_into_force_date: "2016-04-01"
+jci_1_3: "jci1.3:c:BWBR0037569&z=2016-04-01&g=2016-04-01"
+jci_1_0: "1.0:c:BWBR0037569&g=2016-04-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel inzake ontheffing verbod van kinderarbeid 2016"
+signed_date: "2016-01-18"
+entry_into_force: "2016-04-01"
 ---
-
 # Beleidsregel van de Minister van Sociale Zaken en Werkgelegenheid van 18 januari 2016, 2015-0000291304, tot vaststelling van de nieuwe beleidsregel inzake ontheffing van het verbod van kinderarbeid ten einde deze beter te laten aansluiten bij de praktijk (Beleidsregel inzake ontheffing verbod van kinderarbeid 2016)
 
 Gelet op [artikel 3:3, eerste lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=3:3);
 
 Besluit:
 
-#### Artikel 1. Ontheffing verbod van kinderarbeid
+##### Artikel 1. Ontheffing verbod van kinderarbeid
 
 1. De verantwoordelijke persoon kan een kind arbeid doen verrichten ter naleving van een overeenkomst of in de commerciële sfeer, mits daarvoor een ontheffing is verleend.
 
@@ -48,7 +74,7 @@ Besluit:
 
 5. Aan een ontheffing als bedoeld in het tweede lid kunnen rekening houdend met de belangen van het kind, nadere voorschriften worden verbonden.
 
-#### Artikel 2. Kind tot en met 6 jaar
+##### Artikel 2. Kind tot en met 6 jaar
 
 Bij het verlenen van een ontheffing als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=1&z=2016-04-01&g=2016-04-01), voor een kind tot en met 6 jaar wordt in acht genomen, dat dat kind:
 
@@ -68,7 +94,7 @@ Bij het verlenen van een ontheffing als bedoeld in [artikel 1, tweede lid](https
 
 - h. zowel voor, tijdens als na de arbeid deskundig wordt begeleid.
 
-#### Artikel 3. Kind van 7 tot en met 12 jaar
+##### Artikel 3. Kind van 7 tot en met 12 jaar
 
 Bij het verlenen van een ontheffing als bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=1&z=2016-04-01&g=2016-04-01), voor een kind van 7 tot en met 12 jaar wordt in acht genomen, dat dat kind:
 
@@ -92,27 +118,27 @@ Bij het verlenen van een ontheffing als bedoeld in [artikel 1, tweede lid](https
 
 - j. in de zomervakantie in ten minste twee weken aaneengesloten geen arbeid verricht.
 
-#### Artikel 4. Afwijking eindtijd van arbeid bij een kind tot en met 6 jaar
+##### Artikel 4. Afwijking eindtijd van arbeid bij een kind tot en met 6 jaar
 
 Uitsluitend indien de noodzaak daartoe adequaat wordt aangetoond in een verklaring die met de aanvraag, bedoeld in [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=1&z=2016-04-01&g=2016-04-01), van een ontheffing als bedoeld in artikel 1, tweede lid, door de werkgever wordt ingediend, wordt, in afwijking van [artikel 2, aanhef en sub f](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=2&z=2016-04-01&g=2016-04-01), in acht genomen, dat dat kind na de arbeid een onafgebroken rusttijd heeft van ten minste 14 uren, waarin de periode tussen 23.00 uur en 08.00 uur is begrepen.
 
-#### Artikel 5. Repetities
+##### Artikel 5. Repetities
 
 1. De [artikelen 2, aanhef en onderdelen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=2&z=2016-04-01&g=2016-04-01), en [3, aanhef en onderdelen a en e](https://wetten.overheid.nl/jci1.3:c:BWBR0037569&artikel=3&z=2016-04-01&g=2016-04-01), zijn niet van toepassing op repetities.
 
 2. Het eerste lid geldt niet voor repetities die in het openbaar plaatsvinden of waarvan audio-, visuele of audio-visuele opnamen worden gemaakt die gebruikt worden voor vertoning in het openbaar.
 
-#### Artikel 6. Intrekking oude beleidsregel met overgangsrecht
+##### Artikel 6. Intrekking oude beleidsregel met overgangsrecht
 
 1. De [Beleidsregels inzake ontheffing verbod van kinderarbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0021624) worden ingetrokken.
 
 2. Ontheffingen die door de toezichthouder zijn verleend op basis van de beleidsregels, bedoeld in het eerste lid, blijven gedurende de periode waarvoor deze zijn verleend en de arbeid waarvoor deze zijn verleend van toepassing zolang aan de voorschriften van de verleende ontheffingen wordt voldaan.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 april 2016.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel inzake ontheffing verbod van kinderarbeid 2016.
 

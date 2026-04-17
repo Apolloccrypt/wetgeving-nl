@@ -1,13 +1,39 @@
 ---
-title: "Regeling diervoeders 2012"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 augustus 2010, nr. 145464, houdende voorschriften inzake diervoeders (Regeling diervoeders 2010)"
 identifier: "BWBR0028123"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028123"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028123"
+soort: "ministeriele-regeling"
+stam_id: "10660003"
+version_id: "27700162"
+internal_id: "C39079761"
+label_id: "10635584"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028123/2026-01-01/0"
+intitule_bron: "Stcrt.2010-13289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-20"
+intitule_published: "2010-08-27"
+intitule_in_force: "2010-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17794"
+original_signed_date: "2021-04-12"
+original_published_date: "2021-04-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-17794"
+entry_into_force_date: "2021-04-12"
+jci_1_3: "jci1.3:c:BWBR0028123&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028123&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling diervoeders 2012"
+signed_date: "2021-04-12"
+entry_into_force: "2021-04-12"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 augustus 2010, nr. 145464, houdende voorschriften inzake diervoeders (Regeling diervoeders 2010)
 
 Gelet op:
@@ -54,7 +80,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -92,7 +118,7 @@ Besluit:
 
 2. Deze regeling berust op de [artikelen 6.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1) en [9.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=9.1) en de [artikelen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.1), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.3) en [2.4 van het Besluit diervoeders 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.4).
 
-#### Artikel 2
+##### Artikel 2
 
 In deze regeling wordt verstaan onder:
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Ongewenste stoffen in diervoeders, verboden voedermiddelen en onder beperkingen toegestane middelen en stoffen in biologische diervoeders
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is eenieder verboden met diervoeders als bedoeld in artikel 3, onder 4, van verordening (EG) nr. 178/2002 een handeling als bedoeld in [artikel 2.18, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.18), waaronder handelingen als bedoeld in [artikel 2.17 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.17), te verrichten, indien dat diervoeder:
 
@@ -142,15 +168,15 @@ In deze regeling wordt verstaan onder:
 
 4. Indien een handeling met een diervoeder als bedoeld in het eerste lid, aanhef, is toegestaan krachtens een EU-verordening als bedoeld in [artikel 1.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=1.1) of [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01) door een besluit van een bevoegde instantie en aan dat besluit voorschriften zijn verbonden, worden deze voorschriften nageleefd door degene op wie dat besluit betrekking heeft.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Overeenkomstig [artikel 16, eerste lid, van het Landbouwkwaliteitsbesluit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022535&artikel=16) en indien naar zijn oordeel aan de orde, geeft de minister de bevestiging, bedoeld in bijlage II, deel II, punten 1.9.3.1, onderdeel c, en 1.9.4.2, onderdeel c, van verordening (EU) nr. 2018/848 dat biologische eiwithoudende diervoeders voor varkens en pluimvee niet in voldoende hoeveelheid beschikbaar zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
@@ -158,7 +184,7 @@ Vervallen
 
 #### § 1a. Algemene regels ter uitvoering van communautaire verordeningen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voorschriften van EU-verordeningen als bedoeld in artikel 6.2, eerste lid, van de wet zijn:
 
@@ -170,85 +196,85 @@ Vervallen
 
 2. Het eerste lid, aanhef en onderdelen a en b, zijn niet van toepassing ten aanzien van activiteiten, genoemd in bijlage IV bij verordening (EG) nr. 999/2001, mits is voldaan aan de in die bijlage gestelde voorwaarden.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 2. Regels ter uitvoering van [verordening (EG) nr. 183/2005](32005R0183)
 
-#### Artikel 13
+##### Artikel 13
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikelen 4, 5, eerste, tweede, derde, vijfde en zesde lid, 6, eerste en derde lid, 7, eerste lid, 9, eerste en tweede lid, 10, 11, 23, eerste lid, en 24 van de [verordening (EG) nr. 183/2005](32005R0183).
 
-#### Artikel 14
+##### Artikel 14
 
 Het is eenieder verboden met diervoeders die vallen binnen de werkingssfeer, bedoeld in artikel 2 van verordening (EG) nr. 183/2005, een diervoederbedrijf te exploiteren zonder erkenning of registratie als bedoeld in artikel 9, respectievelijk 10, van verordening (EG) nr. 183/2005.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien een inrichting een activiteit als bedoeld in artikel 10, onder 1, van verordening (EG) nr. 183/2005 verricht, is een erkenning als bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01) vereist.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien aan een bedrijf een erkenning voor een activiteit, als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=15&z=2026-01-01&g=2026-01-01) is verleend, dan is voor diezelfde activiteit geen registratie, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), meer nodig.
 
-#### Artikel 17
+##### Artikel 17
 
 Een besluit omtrent erkenning, dan wel wijziging daarvan, wordt genomen binnen zes maanden na ontvangst van de aanvraag.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 3. Regels ter uitvoering van overige Europese verordeningen
 
-#### Artikel 20
+##### Artikel 20
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikelen 11, 12, 15, eerste lid, 16, 17, eerste lid, 18 en 20 van [verordening (EG) nr. 178/2002](32002R0178).
 
-#### Artikel 21
+##### Artikel 21
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikelen 16, eerste, tweede en zesde lid, 20, eerste lid, 21, eerste en derde lid, en 25 van [verordening (EG) nr. 1829/2003](32003R1829).
 
-#### Artikel 22
+##### Artikel 22
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikel 4, eerste, tweede, vierde en zesde lid, en 5, eerste en tweede lid, van [verordening (EG) nr. 1830/2003](32003R1830).
 
-#### Artikel 23
+##### Artikel 23
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikelen 3, eerste tot en met vierde lid, en 16 van [verordening (EG) nr. 1831/2003](32003R1831).
 
-#### Artikel 24
+##### Artikel 24
 
 Voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn de artikel 4, 5, eerste en tweede lid, 6, eerste lid, 8, 9, 11, 13, 14, eerste en tweede lid, 15, 16, 17, eerste en tweede lid, 18, 19, 20, eerste lid, 22, eerste lid, 23, 24, vijfde lid, tweede volzin, en zesde lid, en 25, vierde lid, van [verordening (EG) nr. 767/2009](32009R0767).
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 #### § 4. De aanvraag tot erkenning, registratie of goedkeuring, vereist op grond van Europese verordeningen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De volgende aanvragen worden bij de minister ingediend:
 
@@ -258,7 +284,7 @@ Vervallen
 
 2. Een aanvraag wordt in behandeling genomen nadat de op grond van de Regeling NVWA-tarieven verschuldigde retributie is betaald.
 
-#### Artikel 27
+##### Artikel 27
 
 De houder van een erkenning, registratie of goedkeuring stelt de minister zo spoedig mogelijk, doch uiterlijk binnen een maand schriftelijk in kennis van wijziging van de volgende gegevens:
 
@@ -270,7 +296,7 @@ De houder van een erkenning, registratie of goedkeuring stelt de minister zo spo
 
 - d. opheffing van zijn onderneming.
 
-#### Artikel 28
+##### Artikel 28
 
 In een openbaar register, dat ter inzage ligt bij de minister, worden de volgende gegevens vastgelegd:
 
@@ -282,7 +308,7 @@ In een openbaar register, dat ter inzage ligt bij de minister, worden de volgend
 
 ### Hoofdstuk 4. Regels over de in- en uitvoer
 
-#### Artikel 29
+##### Artikel 29
 
 Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderdeel a, van verordening (EG) nr. 1831/2003, voormengsels als bedoeld in artikel 2, tweede lid, onderdeel e, van verordening (EG) nr. 1831/2003, en diervoeders als bedoeld in artikel 3, onder 4, van verordening (EG) nr. 178/2002, waaronder de substanties, bedoeld in artikel 2, tweede lid, onderdelen b, c, d, en g, van verordening (EG) nr. 1831/2003, in of buiten Nederland te brengen in strijd met het bepaalde in:
 
@@ -302,7 +328,7 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 - h. de artikelen 9, 10 en 11 van [uitvoeringsverordening (EU) 2019/1793](33693R2019).
 
-#### Artikel 30
+##### Artikel 30
 
 1. Toevoegingsmiddelen, voormengsels en diervoeders die afkomstig zijn uit een derde land, gaan vergezeld van:
 
@@ -314,89 +340,89 @@ Het is verboden toevoegingsmiddelen als bedoeld in artikel 2, tweede lid, onderd
 
 3. Het document, bedoeld in het eerste lid, onderdeel b, vergezelt de toevoegingsmiddelen, voormengsels of diervoeders waarop het betrekking heeft tot het tijdstip waarop deze producten in het vrije verkeer worden gebracht.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
 ### Hoofdstuk 5. Regels over retributies
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
@@ -404,21 +430,21 @@ Vervallen
 
 #### § 1. Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015764&artikel=7)
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
 #### § 1. Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015764&artikel=7)
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Als instellingen als bedoeld in [artikel 10.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.2) voor het onderzoek van de door met controle of toezicht belaste ambtenaren genomen monsters worden aangewezen:
 
@@ -432,7 +458,7 @@ Als instellingen als bedoeld in [artikel 10.2 van de wet](https://wetten.overhei
 
 - e. TNO-Voeding te Zeist.
 
-#### Artikel 56
+##### Artikel 56
 
 Als bemonsterings- en analysemethoden als bedoeld in artikel 34, eerste en tweede lid, van verordening (EU) nr. 2017/625 worden aangemerkt de methoden, genoemd in:
 
@@ -442,7 +468,7 @@ Als bemonsterings- en analysemethoden als bedoeld in artikel 34, eerste en tweed
 
 #### § 3. Aanwijzing schadelijke stoffen
 
-#### Artikel 57
+##### Artikel 57
 
 1. Het is een houder van een dier verboden een diervoeder te vervoederen dat:
 
@@ -460,23 +486,23 @@ Als bemonsterings- en analysemethoden als bedoeld in artikel 34, eerste en tweed
 
 #### § 3. Aanwijzing schadelijke stoffen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 1. Voor de behandeling van een aanvraag voor toestemming als bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831) is de aanvrager aan de minister een retributie verschuldigd van € 151,00 per uur dat aan de behandeling is besteed.
 
 2. Een aanvraag tot toestemming voor een onderzoek voor wetenschappelijke doeleinden als bedoeld in artikel 3, tweede lid, van verordening (EG) nr. 1831/2003 wordt in behandeling genomen nadat het ingevolge het eerste lid verschuldigde bedrag is voldaan.
 
-#### Artikel 60
+##### Artikel 60
 
 Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=6&paragraaf=4&artikel=59&z=2026-01-01&g=2026-01-01) wordt een dossier gevoegd dat is samengesteld overeenkomstig de richtsnoeren, bedoeld in artikel 3, tweede lid, van [verordening (EG) nr. 1831/2003](32003R1831).
 
 #### § 2. Aanwijzing toezichthouders en laboratoria
 
-#### Artikel 61
+##### Artikel 61
 
 1. Een aanvraag tot het doen van verrichtingen op verzoek wordt schriftelijk ingediend bij de minister, onder vermelding van:
 
@@ -494,7 +520,7 @@ Bij een aanvraag als bedoeld in [artikel 59](https://wetten.overheid.nl/jci1.3:c
 
 #### § 4. Nadere regelen over het gebruik van toevoegingsmiddelen, vervangende voederproteïnen of een product met een mogelijk ongewenste stof in een proefstadium of voor onderzoeksdoeleinden
 
-#### Artikel 62
+##### Artikel 62
 
 De inlichtingen die ingevolge artikel 20, derde lid, van verordening (EG) nr. 178/2002 worden verstrekt bevatten ten minste:
 
@@ -504,51 +530,51 @@ De inlichtingen die ingevolge artikel 20, derde lid, van verordening (EG) nr. 17
 
 - c. gegevens die kunnen worden gebruikt om de producten op te sporen.
 
-#### Artikel 63
+##### Artikel 63
 
 Inlichtingen als bedoeld in artikel 20, derde lid, van verordening (EG) nr. 178/2002 die op een andere wijze worden verstrekt dan door toezending van een schriftelijke en ondergetekende verklaring, of een elektronisch verzonden verklaring waaruit de authenticiteit van het origineel genoegzaam blijkt, worden onverwijld bevestigd door middel van een schriftelijke en ondergetekende verklaring.
 
 #### § 5. Verrichtingen op verzoek
 
-#### Artikel 64
+##### Artikel 64
 
 Een belanghebbende kan binnen zeven dagen nadat aan hem het resultaat van het onderzoek, bedoeld in [artikel 5:18, zesde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18), bekend is gemaakt, bij de minister een verzoek om heronderzoek indienen.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 65
+##### Artikel 65
 
 [Hoofdstuk 8 van de Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543&hoofdstuk=8) is van overeenkomstige toepassing op de vaststelling van tarieven door de Stichting Skal voor de onderwerpen, bedoeld in [artikel 2.5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032346&artikel=2.5).
 
 ### Hoofdstuk 8. Wijziging en intrekking van andere regelingen
 
-#### Artikel 66
+##### Artikel 66
 
 Wijzigt de Regeling zekerheidsstelling en betaling van VWA-keurlonen.
 
-#### Artikel 67
+##### Artikel 67
 
 Wijzigt het Mandaatbesluit LNV Voedsel en Waren Autoriteit.
 
-#### Artikel 68
+##### Artikel 68
 
 Wijzigt de Beleidsregels normenkader randvoorwaarden GLB.
 
-#### Artikel 69
+##### Artikel 69
 
 Wijzigt de Regeling GLB-inkomenssteun 2006.
 
-#### Artikel 70
+##### Artikel 70
 
 De Regeling diervoeders wordt ingetrokken.
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 71
+##### Artikel 71
 
 Deze regeling treedt in werking met ingang van 1 september 2010.
 
-#### Artikel 72
+##### Artikel 72
 
 Deze regeling wordt aangehaald als: Regeling diervoeders 2012.
 
@@ -592,7 +618,7 @@ Deze regeling wordt aangehaald als: Regeling diervoeders 2012.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 65a
+##### Artikel 65a
 
 De Regeling diervoeders zoals die luidde bij de inwerkingtreding van deze regeling blijft van toepassing op diervoeder, bestemd voor gezelschapsdieren, voorzover een diervoeder voor 1 september 2011 in de handel is gebracht, in overeenstemming met die regeling is geëtiketteerd en de voorraad van dat diervoeder nog niet is uitgeput.
 
@@ -610,7 +636,7 @@ De Regeling diervoeders zoals die luidde bij de inwerkingtreding van deze regeli
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 60a
+##### Artikel 60a
 
 1. De minister kan toestemming verlenen voor een proefneming met een product dat mogelijk een ongewenste stof bevat voor de vaststelling van een verhoogd gehalte, een maximumgehalte of een actiedrempel als bedoeld in artikel 4, tweede lid, eerste alinea, van richtlijn nr. 2002/32/EG.
 
@@ -626,7 +652,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 65b
+##### Artikel 65b
 
 Vervallen
 
@@ -642,11 +668,11 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 38a
+##### Artikel 38a
 
 Vervallen
 
-#### Artikel 40a
+##### Artikel 40a
 
 Vervallen
 
@@ -696,7 +722,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Dierlijke en plantaardige producten, diervoeder (grondstoffen) – Het aantonen, bepalen en bevestigen van natuurlijke toxinen; vloeistofchromatografie en massaspectrometrische detectie en UV detectie en fluorescentie**
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Onverminderd [artikel 6.3, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.3) is de minister bevoegd uitvoering te geven aan een voorschrift van een EU-verordening als bedoeld in [artikel 2.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=2.1) dat een tot de overheid behorend orgaan of een door de overheid aangesteld persoon de opdracht geeft, de keuze laat of als ontvanger van informatie aanwijst, indien die uitvoering niet bestaat uit het nemen van een besluit.
 
@@ -730,13 +756,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 **Dierlijke en plantaardige producten, diervoeder (grondstoffen) – Het aantonen, bepalen en bevestigen van natuurlijke toxinen; vloeistofchromatografie en massaspectrometrische detectie en UV detectie en fluorescentie**
 
-#### Artikel 56a
+##### Artikel 56a
 
 De Minister is bevoegd tot aanwijzing van nationale referentielaboratoria als bedoeld in artikel 100, eerste lid, eerste zin, van verordening (EU) 2017/625, ten aanzien van onderwerpen die diervoeders betreffen.
 
 #### § 1. Aanwijzing toevoegingsmiddelen en andere producten als bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015764&artikel=7)
 
-#### Artikel 57a
+##### Artikel 57a
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stcrt. 2017/65622.
 
@@ -768,7 +794,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stcrt. 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. De producent van mengvoeders voor pluimvee bemonstert voedermiddelen bij de aanvoer per productielocatie, indien de jaarproductie van die locatie:
 
@@ -788,7 +814,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 2. Een monster als bedoeld in het eerste lid weegt ten minste 60 gram.
 
-#### Artikel 28b
+##### Artikel 28b
 
 1. De producent van mengvoeders voor pluimvee bemonstert van de af te leveren partijen mengvoer van 24 ton die bestemd zijn voor:
 
@@ -810,7 +836,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 5. Een monster als bedoeld in het eerste tot en met vierde lid weegt ten minste 60 gram.
 
-#### Artikel 28c
+##### Artikel 28c
 
 1. De producent van mengvoeders die bestemd zijn voor herkauwende dieren, eenhoevigen of varkens neemt uit de productstroom per productielocatie waarvan de jaarproductie:
 
@@ -834,7 +860,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. Een monster, bedoeld in het eerste lid, weegt ten minste 60 gram.
 
-#### Artikel 28d
+##### Artikel 28d
 
 1. De producent en de leverancier van voedermiddelen die bestemd zijn voor herkauwende dieren, eenhoevigen of varkens nemen per product per toeleverancier een monster van ten minste 60 gram per kwartaal.
 
@@ -852,7 +878,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - d. de producent of de leverancier aantoont dat de zuurtegraad voldoende is om salmonella in de voedermiddelen te inactiveren.
 
-#### Artikel 28e
+##### Artikel 28e
 
 1. De producent en de leverancier, bedoeld in dit hoofdstuk, laten de monsters onderzoeken in een laboratorium.
 
@@ -872,7 +898,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De serotypering van de monsters, bedoeld in het tweede lid, vindt plaats in een laboratorium dat daarvoor op grond van [artikel 3 van de Regeling erkenning veterinaire laboratoria](https://wetten.overheid.nl/jci1.3:c:BWBR0045052&artikel=3) is erkend.
 
-#### Artikel 28f
+##### Artikel 28f
 
 1. De producent en de leverancier bewaren de uitslag van het onderzoek, bedoeld in [artikel 28e](https://wetten.overheid.nl/jci1.3:c:BWBR0028123&hoofdstuk=3a&artikel=28e&z=2026-01-01&g=2026-01-01), gedurende een periode van twee jaar.
 
@@ -914,7 +940,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a
+##### Artikel 13a
 
 Als een levering van kleine hoeveelheden aan lokale veehouderijen als bedoeld in artikel 2, tweede lid, onderdeel d, van [verordening (EG) nr. 183/2005](32005R0183) wordt aangemerkt een levering in Nederland binnen een jaarlijks totaal van vijf ton geleverde diervoeder.
 
@@ -934,7 +960,7 @@ Als een levering van kleine hoeveelheden aan lokale veehouderijen als bedoeld in
 
 #### § 6. Nadere regelen omtrent het verstrekken van inlichtingen
 
-#### Artikel 63a
+##### Artikel 63a
 
 1. Een exploitant van een diervoederbedrijf geeft bij het verlenen van een opdracht aan een laboratorium tot het verrichten van onderzoek naar een diervoeder of een grondstof voor de bereiding daarvan, de bestemming aan van het te onderzoeken product en verstrekt informatie over de samenstelling en identificatie van het onderzoeksmonster.
 

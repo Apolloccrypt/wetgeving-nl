@@ -1,18 +1,40 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de regeling van vermogensrechtelijke vraagstukken"
 identifier: "BWBV0005082"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1960-05-18
-laatste_update: 1960-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005082"
+country: "nl"
+rank: "verdrag"
+publication_date: "1960-05-18"
+last_updated: "1960-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005082"
+soort: "verdrag"
+stam_id: "10004460513"
+version_id: "10004671482"
+internal_id: "C10007158371"
+label_id: "10004445194"
+dtd_version: "2.0"
+original_entry_into_force: "1960-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005082/1960-05-18/0"
+intitule_bron: "Trb.1959-161"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-11-12"
+intitule_in_force: "1960-07-07"
+intitule_status: "goed"
+original_publication: "Trb.1959-161"
+original_published_date: "1959-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-161"
+entry_into_force_date: "1960-05-18"
+jci_1_3: "jci1.3:c:BWBV0005082&z=1960-05-18&g=1960-05-18"
+jci_1_0: "1.0:c:BWBV0005082&g=1960-05-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-05-18"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake de regeling van vermogensrechtelijke vraagstukken
 
 De Regering van het Koninkrijk der Nederlanden en de Bondsregering van de Republiek Oostenrijk zijn ter definitieve regeling van nog niet opgeloste vermogensrechtelijke vraagstukken het volgende overeengekomen:
 
-#### I
+##### I
 
 1. Ten vervolge op de teruggave van Oostenrijks vermogen in Nederland krachtens de verklaring van de Nederlandse Regering van 1951, waarvan de tekst als Bijlage I hierbij wordt gevoegd, verplicht de Regering van het Koninkrijk der Nederlanden zich, de Oostenrijkse Bondsregering voor een definitieve regeling van de tussen beide Staten bestaande vermogensrechtelijke vraagstukken een totaalbedrag van f 1 750 000 (een miljoen zevenhonderdvijftig duizend Nederlandse guldens) ter beschikking te stellen.
 
@@ -32,7 +54,7 @@ De onder 3 (**a**), (**b**), (**c**) en (**d**) vermelde aanspraken behoren niet
 
 4. De Oostenrijkse Regering erkent, dat het Oostenrijkse vermogen op het grondgebied van Nederland aan generlei confiscatoire maatregelen is onderworpen.
 
-#### II
+##### II
 
 1. De vorderingen van de Unilever N.V., Rotterdam, en van de N.V. Beleggingsmaatschappij „Industriebank”, welke gebaseerd zijn op deelname van deze ondernemingen in rechtspersonen, welke hun zetel in Duitsland hebben, worden op zodanige wijze geregeld, dat de Republiek Oostenrijk het met de omvang van deze deelname overeenkomend deel der zich in Oostenrijk bevindende en krachtens artikel 22 van het verdrag inzake het herstel van een onafhankelijk en democratisch Oostenrijk van 15 mei 1955 op de Republiek overgegane vermogensbestanddelen overdraagt aan de Unilever en de Industriebank, indien de noodzakelijke bewijzen aanwezig zijn en tegen afgifte van de in deze gevallen gebruikelijke aansprakelijkheidsverklaringen.
 
@@ -44,7 +66,7 @@ Indien zich in de toekomst soortgelijke gevallen, waarin door Nederlandse natuur
 
 Indien binnen twee jaar te rekenen van de inwerkingtreding van deze Overeenkomst af geen wettelijke voorschriften inzake de regeling van zodanige vorderingen van kracht mochten zijn geworden, behoudt de Nederlandse Regering zich het recht voor, de Oostenrijkse Regering opnieuw te benaderen.
 
-#### III
+##### III
 
 Deze Overeenkomst treedt in werking door middel van een notawisseling, zodra wederzijds aan de grondwettelijke vereisten voor de inwerkingtreding is voldaan.
 

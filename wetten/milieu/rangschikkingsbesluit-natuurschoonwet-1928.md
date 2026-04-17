@@ -1,13 +1,37 @@
 ---
-title: "Rangschikkingsbesluit Natuurschoonwet 1928"
+title: "Besluit van 23 november 1990, tot vaststelling van het Rangschikkingsbesluit Natuurschoonwet 1928"
 identifier: "BWBR0004914"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004914"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004914"
+soort: "AMvB"
+stam_id: "678473"
+version_id: "27013182"
+internal_id: "C38223311"
+label_id: "657574"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004914/2024-01-01/0"
+intitule_bron: "Stb.1990-612"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-23"
+intitule_status: "goed"
+original_publication: "Stb.2020-331"
+original_signed_date: "2020-08-31"
+original_published_date: "2020-09-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-331"
+entry_into_force_date: "2020-08-31"
+jci_1_3: "jci1.3:c:BWBR0004914&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0004914&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Rangschikkingsbesluit Natuurschoonwet 1928"
+signed_date: "2020-08-31"
+entry_into_force: "2020-08-31"
 ---
-
 # Besluit van 23 november 1990, tot vaststelling van het Rangschikkingsbesluit Natuurschoonwet 1928
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 4 mei 1990, nr. J. 905759, Directie Juridische en Bedrijfsorganisatorische Zaken, gedaan mede namens de Staatssecretaris van Financiën;
@@ -20,7 +44,7 @@ Gezien het nader rapport van de Staatssecretaris van Landbouw, Natuurbeheer en V
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - f. economische eigendom: economische eigendom als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Om als een landgoed te kunnen worden aangemerkt, dient een onroerende zaak te voldoen aan de volgende voorwaarden:
 
@@ -68,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 5. Voor de toepassing van het eerste lid, onderdeel c, worden tot de met natuurterreinen bezette oppervlakte van de onroerende zaak uitsluitend natuurterreinen gerekend die zelfstandig dan wel gezamenlijk met direct hieraan grenzende houtopstanden een aaneengesloten oppervlakte van ten minste 0,5 hectare hebben.
 
-#### Artikel 3
+##### Artikel 3
 
 1. [Artikel 2, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2024-01-01&g=2024-01-01), is niet van toepassing op een buitenplaats of een deel daarvan.
 
@@ -106,7 +130,7 @@ In dit besluit wordt verstaan onder:
 
 8. Het in het vierde lid, onderdeel a, het vijfde lid, onderdeel c, en [artikel 5, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=5&z=2024-01-01&g=2024-01-01), genoemde jaartal wordt telkens na het verstrijken van een periode van tien jaren na 1 juni 2017 met tien jaren verhoogd.
 
-#### Artikel 4
+##### Artikel 4
 
 Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2024-01-01&g=2024-01-01), wordt in ieder geval beschouwd de omstandigheid dat terreinen en opstallen op die terreinen die tot de onroerende zaak behoren, zijn ingericht of worden gebruikt:
 
@@ -126,7 +150,7 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 - h. voor intensieve dag- of verblijfsrecreatie anders dan terreinen die zijn ingericht met inachtneming van het bepaalde in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=6&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=4&z=2024-01-01&g=2024-01-01) wordt als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2024-01-01&g=2024-01-01), in ieder geval niet beschouwd de omstandigheid dat op de onroerende zaak:
 
@@ -172,7 +196,7 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 2. Onder in het eerste lid, onderdelen g, i en j, bedoelde houtopstanden worden mede begrepen houtopstanden die niet zijn gelegen op de onroerende zaak zelf maar daaraan direct grenzen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004914&artikel=2&z=2024-01-01&g=2024-01-01), wordt niet beschouwd de omstandigheid dat op de onroerende zaak een of meer kampeerterreinen zijn gelegen, mits er per oppervlakte van 25 hectare ten hoogste één kampeerterrein is gelegen.
 
@@ -188,7 +212,7 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 - e. waarop geen vaste standplaatsen zijn aangelegd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een verzoek aan Onze Ministers om een onroerende zaak aan te merken als een landgoed wordt ingediend met gebruikmaking van een daartoe bestemd formulier en bevat ten minste:
 
@@ -236,7 +260,7 @@ Als inbreuk makend op het natuurschoon, bedoeld in [artikel 2, tweede lid](https
 
 8. Onze Ministers besluiten binnen een termijn van zestien weken na ontvangst van het verzoek, bedoeld in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 De voorwaarden, bedoeld in [artikel 220d, eerste lid, onderdeel d, van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d), zijn:
 
@@ -244,7 +268,7 @@ De voorwaarden, bedoeld in [artikel 220d, eerste lid, onderdeel d, van de Gemeen
 
 - b. de oppervlakte van het landgoed is voor ten minste 20 percent met houtopstanden bezet waarbij de oppervlakte voorts voor ten minste 50 percent bestaat uit natuurterreinen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
@@ -252,13 +276,13 @@ De voorwaarden, bedoeld in [artikel 220d, eerste lid, onderdeel d, van de Gemeen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 3a
+##### Artikel 3a
 
 De hoofdgerechtigde van een onroerende zaak die de onroerende zaak heeft bezwaard met het beperkt recht van erfpacht zonder de economische eigendom over te dragen wordt aangemerkt als de eigenaar van die onroerende zaak, indien die onroerende zaak een oppervlakte heeft van minder dan vijf hectaren.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Een onroerende zaak als bedoeld in [artikel 1, eerste lid, onderdeel a, aanhef en onder 2°, van de Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1) vormt een element van het Nederlands cultureel erfgoed, indien:
 

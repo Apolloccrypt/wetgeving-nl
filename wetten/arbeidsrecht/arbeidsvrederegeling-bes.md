@@ -1,18 +1,43 @@
 ---
 title: "Arbeidsvrederegeling BES"
 identifier: "BWBR0028762"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028762"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028762"
+soort: "ministeriele-regeling-BES"
+stam_id: "10983423"
+version_id: "20647802"
+internal_id: "C29557561"
+label_id: "10958124"
+dtd_version: "2.0"
+original_entry_into_force: "2013-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028762/2026-01-01/0"
+intitule_bron: "Stcrt.2010-14392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-10"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-20213"
+original_signed_date: "2013-07-10"
+original_published_date: "2013-07-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-20213"
+entry_into_force_date: "2013-07-19"
+jci_1_3: "jci1.3:c:BWBR0028762&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028762&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-07-10"
+entry_into_force: "2013-07-19"
 ---
-
 # Arbeidsvrederegeling BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -20,23 +45,23 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Positie bemiddelaar
 
-#### Artikel 2
+##### Artikel 2
 
 De bemiddelaars en de bijzondere bemiddelaars leggen, alvorens hun ambt of taak te aanvaarden, in handen van de Rijksvertegenwoordiger of van een door hem aangewezen ambtenaar de eed of de belofte af, dat zij hun ambt of taak van bemiddelaar, getrouw, nauwgezet en eerlijk zullen vervullen.
 
-#### Artikel 3
+##### Artikel 3
 
 De bemiddelaar, die buiten staat is bemiddeling te verlenen, geeft daarvan zo spoedig mogelijk kennis aan de minister.
 
-#### Artikel 4
+##### Artikel 4
 
 De bemiddelaar vergadert met de bijzondere bemiddelaars zo dikwijls hij zulks in het belang van de dienst nodig acht en heeft dan de leiding bij deze besprekingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de bemiddelaar wordt een secretaris toegevoegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bemiddelaar:
 
@@ -46,7 +71,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 - c. dient de minister desgevraagd van advies inzake arbeidspolitieke aangelegenheden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De schadeloosstelling, bedoeld in [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=15), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 132 per uur.
 
@@ -56,7 +81,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 4. Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het gemiddelde prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De uitkering van de schadeloosstellingen geschiedt door de minister.
 
@@ -64,7 +89,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 #### § 3. Behandeling verzoek tot referendum
 
-#### Artikel 9
+##### Artikel 9
 
 1. Binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na ontvangst van een verzoek als bedoeld in [artikel 14A, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=14a) doet de bemiddelaar de betrokken werkgever en de vakvereniging van werknemers, die het verzoek heeft gedaan, schriftelijk mededeling van de ontvangst van het verzoek, alsmede van de mogelijkheid voor vakverenigingen van werknemers om binnen veertien dagen na dagtekening van de mededeling de wens tot deelname aan een onder werknemers van het betrokken bedrijf te houden referendum aan de bemiddelaar kenbaar te maken.
 
@@ -72,7 +97,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 3. De werkgever is verplicht de in het eerste lid bedoelde mededeling dan wel een afschrift daarvan onverwijld zodanig te doen ophangen op een voor de werknemer gemakkelijk toegankelijke plaats, zo mogelijk in het arbeidslokaal, dat zij duidelijk leesbaar is.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien één of meer vakverenigingen van werknemers uiterlijk binnen de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=9&z=2026-01-01&g=2026-01-01), genoemde periode van veertien dagen hun wens tot deelname aan een referendum kenbaar maken, hoort de bemiddelaar zo spoedig mogelijk de werkgever en die vakvereniging of vakverenigingen van werknemers teneinde te bepalen welke categorie of categorieën van werknemers voor deelname aan het referendum in aanmerking komen.
 
@@ -82,7 +107,7 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 4. Uiterlijk binnen zeven dagen na de in het derde lid bedoelde mededeling legt een vakvereniging van werknemers als bedoeld in het eerste lid, teneinde voor deelname aan het referendum in aanmerking te komen, aan de bemiddelaar een exemplaar van haar door de Rijksvertegenwoordiger goedgekeurde en in de Staatscourant openbaar gemaakte statuten over, alsmede stukken waaruit ten genoegen van de bemiddelaar blijkt dat de meerderheid van de desbetreffende categorie of categorieën van werknemers lid van die vakvereniging is. In de statuten dient de bevoegdheid tot het aangaan van collectieve arbeidsovereenkomsten met name te zijn vermeld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien één of meer rechtspersoonlijkheid bezittende vakverenigingen van werknemers naar zijn oordeel aan [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), hebben voldaan, deelt de bemiddelaar binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na afloop van de in artikel 10, vierde lid, genoemde periode aan de betrokken werkgever en die vakverenigingen van werknemers schriftelijk mede:
 
@@ -98,17 +123,17 @@ Aan de bemiddelaar wordt een secretaris toegevoegd.
 
 4. De werkgever is verplicht de in het eerste lid bedoelde mededeling dan wel een afschrift daarvan onverwijld zodanig te doen ophangen op een voor de werknemer gemakkelijk toegankelijke plaats, zo mogelijk in het arbeidslokaal, dat zij duidelijk leesbaar is.
 
-#### Artikel 12
+##### Artikel 12
 
 Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01), bedoelde mededeling zendt de bemiddelaar oproepingsbrieven aan de in artikel 11, eerste lid, onder c, bedoelde werknemers.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De bemiddelaar draagt er zorg voor dat vóór de aanvang van de stemming stembiljetten aanwezig zijn tot een aantal van ten minste 110 procent van het aantal van de werknemers, die bevoegd zijn aan de stemming deel te nemen.
 
 2. De bemiddelaar laat op de dag van het referendum slechts tot de stemming toe de werknemer, die bevoegd is aan de stemming deel te nemen en in het bezit is van de oproepingsbrief en een identiteitsbewijs.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De bemiddelaar overhandigt aan de tot de stemming toegelaten werknemer een van zijn handtekening voorzien stembiljet. Hij doet aantekening houden van het aantal uitgereikte stembiljetten.
 
@@ -120,7 +145,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 5. De teruggegeven stembiljetten worden door de bemiddelaar onmiddellijk onbruikbaar gemaakt door het stempelen van het woord ‘onbruikbaar’ op de beide zijden van het stembiljet.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De werknemer die na waarschuwing de bij de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=14&z=2026-01-01&g=2026-01-01) vastgestelde voorschriften niet opvolgt, wordt niet tot de stembus toegelaten en is verplicht het stembiljet, zo hem dit reeds overhandigd is, terug te geven.
 
@@ -130,7 +155,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 4. Weigert een werknemer het stembiljet terug te geven, dan doet de bemiddelaar daarvan aantekening houden.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De bemiddelaar is belast met de handhaving van de orde in het stemlokaal.
 
@@ -154,7 +179,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 7. De stemming wordt de volgende dag hervat en duurt gedurende de in het tweede lid bedoelde tijd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Zodra de voor de stemming bepaalde tijd is verstreken, wordt dit door de bemiddelaar aangekondigd en worden alleen de op het ogenblik van deze aankondiging in of aan de deur van het stemlokaal aanwezige werknemers, die voldoen aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=13&z=2026-01-01&g=2026-01-01), nog tot de stemming toegelaten. Nadat de laatste van deze werknemers heeft gestemd, wordt de sleuf van de stembus gesloten.
 
@@ -174,7 +199,7 @@ Gelijktijdig met de in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.
 
 3. De aantallen, bedoeld in het tweede lid, worden door de bemiddelaar aan de aanwezige werknemers bekend gemaakt.
 
-#### Artikel 18
+##### Artikel 18
 
 Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesloten:
 
@@ -186,7 +211,7 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 - d. de ingeleverde oproepingsbrieven.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onmiddellijk na de in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0028762&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) voorgeschreven verzegeling wordt de stembus geopend en worden de stembiljetten dooreen gemengd, geteld en hun aantal vergeleken met het getal van de werknemers, die aan de stemming hebben deelgenomen.
 
@@ -194,7 +219,7 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 3. Vervolgens stelt de bemiddelaar ten aanzien van iedere vakvereniging van werknemers het aantal op haar uitgebrachte stemmen vast.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Van onwaarde zijn andere stembiljetten dan die, welke volgens deze regeling mogen worden gebruikt.
 
@@ -214,13 +239,13 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 4. Het ten dele rood maken van het witte stipje in het stemvak vóór de naam van een vakvereniging van werknemers wordt met het rood maken ervan gelijkgesteld, indien dit kennelijk met de bedoeling van de werknemer overeenstemt; het wordt geacht niet te zijn geschied, indien zulks kennelijk niet het geval is.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De bemiddelaar beslist over de waarde van het stembiljet en doet aantekening houden van elk geldig verklaard stembiljet. Hij maakt de reden van ongeldigverklaring en van twijfel over de geldigheid alsmede de beslissing daaromtrent onmiddellijk bekend.
 
 2. Indien één van de in het lokaal aanwezige werknemers dit verlangt, moet het stembiljet worden vertoond. De werknemers kunnen bezwaren tegen de genomen beslissing inbrengen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Terstond nadat de stemmen zijn opgenomen, maakt de bemiddelaar zowel het aantal op iedere vakvereniging van werknemers uitgebrachte stemmen, als het gezamenlijke aantal uitgebrachte stemmen bekend. Door de in het lokaal aanwezige werknemers kunnen bezwaren worden ingebracht.
 
@@ -228,23 +253,23 @@ Door de bemiddelaar worden vervolgens in afzonderlijke te verzegelen pakken gesl
 
 3. Daarop worden de geldige stembiljetten, vakverenigingswijze gerangschikt, in een te verzegelen pak gesloten. Op dit pak wordt het aantal stembiljetten dat het pak inhoudt, vermeld.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De bemiddelaar deelt de werkgever en de betreffende vakverenigingen van werknemers de uitslag van het referendum zo spoedig mogelijk schriftelijk mede. Hij doet zulks eveneens gelijktijdig bekend maken in één of meer veelgelezen plaatselijke dagbladen.
 
 2. De werkgever is verplicht de in het eerste lid bedoelde mededeling dan wel een afschrift daarvan onverwijld zodanig te doen ophangen op een voor de werknemer gemakkelijk toegankelijke plaats, zo mogelijk in het arbeidslokaal, dat zij duidelijk leesbaar is.
 
-#### Artikel 24
+##### Artikel 24
 
 De bemiddelaar kan zich bij zijn in deze regeling vermelde werkzaamheden doen bijstaan door door hem aan te wijzen personen.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze regeling wordt aangehaald als Arbeidsvrederegeling BES.
 
 #### § 4. Aanwijzing bedrijven
 
-#### Artikel 24a
+##### Artikel 24a
 
 Als bedrijven, bedoeld in het eerste lid van [artikel 3b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&artikel=3b), worden aangewezen:
 

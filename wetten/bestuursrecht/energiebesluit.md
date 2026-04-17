@@ -1,13 +1,39 @@
 ---
-title: "Energiebesluit"
+title: "Besluit van 3 november 2025, houdende regels over energiemarkten en energiesystemen (Energiebesluit)"
 identifier: "BWBR0051745"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051745"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051745"
+soort: "AMvB"
+stam_id: "17593193"
+version_id: "31048782"
+internal_id: "C44457141"
+label_id: "17495274"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051745/2026-01-01/0"
+intitule_bron: "Stb.2025-347"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-03"
+intitule_published: "2025-11-12"
+intitule_in_force: "2025-11-12"
+intitule_status: "goed"
+original_publication: "Stb.2025-347"
+original_signed_date: "2025-11-03"
+original_published_date: "2025-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2025-347"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051745&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051745&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Energiebesluit"
+signed_date: "2025-11-03"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van 3 november 2025, houdende regels over energiemarkten en energiesystemen (Energiebesluit)
 
 Op de voordracht van Onze Minister van Klimaat en Groene Groei van 18 juni 2025, nr. WJZ / 99237560;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. begripsbepalingen
+##### Artikel 1.1. begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -60,13 +86,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** Energiewet.
 
-#### Artikel 1.2. gezamenlijke aansluiting
+##### Artikel 1.2. gezamenlijke aansluiting
 
 1. De minimumaansluitcapaciteit voor een gezamenlijke aansluiting als bedoeld in artikel 1.4, derde lid, van de wet bedraagt 100 kVA.
 
 2. Het aantal installaties dat gebruik maakt van een gezamenlijke aansluiting als bedoeld in artikel 1.4, derde lid, van de wet bedraagt ten hoogste vier.
 
-#### Artikel 1.3. definitie van energiearmoede ten behoeve van monitoring
+##### Artikel 1.3. definitie van energiearmoede ten behoeve van monitoring
 
 1. Onder energiearmoede wordt verstaan energiearmoede als bedoeld in artikel 2, onderdeel 52, van [richtlijn (EU) 2023/1791](32023L1791) van het Europees Parlement en de Raad van 13 september 2023 betreffende energie-efficiëntie en tot wijziging van [Verordening (EU) 2023/955](32023R0955) (herschikking).
 
@@ -76,7 +102,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 2.1. Contractuele verhouding tussen eindafnemer en leverancier of actieve afnemer en marktdeelnemer die aggregeert
 
-#### Artikel 2.1. inhoud leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.1. inhoud leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 1. Een leverancier stelt een leveringsovereenkomst of een leveringsovereenkomst inzake peer-to-peer-handel met een eindafnemer op schrift en zorgt ervoor dat de overeenkomst in ieder geval de volgende gegevens bevat:
 
@@ -104,11 +130,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Bij ministeriële regeling kunnen regels worden gesteld over de maximale hoogte van de waarborgsom die een leverancier kan vragen aan een huishoudelijk eindafnemer of een micro-onderneming bij het sluiten van een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel.
 
-#### Artikel 2.2. voordelen bij afsluiten leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.2. voordelen bij afsluiten leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 Een leverancier verstrekt een eindafnemer bij het sluiten van een leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel uitsluitend voordelen die geldelijk van aard zijn.
 
-#### Artikel 2.3. samenvatting leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.3. samenvatting leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 De samenvatting van de belangrijkste voorwaarden uit de overeenkomst, bedoeld in artikel 2.6, vierde lid, van de wet, bevat in ieder geval:
 
@@ -120,13 +146,13 @@ De samenvatting van de belangrijkste voorwaarden uit de overeenkomst, bedoeld in
 
 - d. dat overeenkomstig artikel 2.5 een eindafnemer binnen de termijn, bedoeld in artikel 2.5, derde lid, schriftelijk in kennis wordt gesteld van elke aanpassing van de tarieven voor de levering van elektriciteit en gas en van elk voornemen de aan de overeenkomst verbonden voorwaarden voor de levering van elektriciteit of gas te wijzigen.
 
-#### Artikel 2.4. betalingswijzen leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.4. betalingswijzen leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 1. Een leverancier biedt eindafnemers een keuze uit verschillende betalingswijzen en vermeldt de overeengekomen betalingswijze in de leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel met de eindafnemer.
 
 2. Een verschil in tarieven en voorwaarden tussen betalingswijzen, houdt uitsluitend verband met het verschil in kosten die die betalingswijzen voor de leverancier met zich brengen.
 
-#### Artikel 2.5. wijziging van prijzen of voorwaarden leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.5. wijziging van prijzen of voorwaarden leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 1. Een leverancier stelt eindafnemers op een transparante en begrijpelijke manier schriftelijk in kennis van elke wijziging van de prijzen voor de levering van elektriciteit of gas of de methode voor vaststelling hiervan, alsmede van de redenen, voorwaarden en de reikwijdte ervan, en geeft daarbij aan of en onder welke voorwaarden de overeenkomst kan worden opgezegd wanneer zij van een dergelijk voornemen in kennis worden gesteld.
 
@@ -134,11 +160,11 @@ De samenvatting van de belangrijkste voorwaarden uit de overeenkomst, bedoeld in
 
 3. Een leverancier informeert eindafnemers over de wijziging van de prijzen, bedoeld in het eerste lid, uiterlijk twee weken, of, indien het een huishoudelijk eindafnemer of micro-onderneming betreft, uiterlijk een maand, voordat de wijziging in werking treedt.
 
-#### Artikel 2.6. registratieplicht leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
+##### Artikel 2.6. registratieplicht leveringsovereenkomst en leveringsovereenkomst inzake peer-to-peer-handel
 
 Een leverancier vraagt ten behoeve van de registratie, bedoeld in artikel 2.6, vijfde lid, van de wet, voorafgaand aan het sluiten van de leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel aan een eindafnemer of deze een huishoudelijke eindafnemer of een micro-onderneming is.
 
-#### Artikel 2.7. nadere verplichtingen universele dienstverlening
+##### Artikel 2.7. nadere verplichtingen universele dienstverlening
 
 Een leverancier draagt er zorg voor dat bij zijn aanbod voor eindafnemers met een kleine aansluiting in ieder geval kenbaar is:
 
@@ -148,7 +174,7 @@ Een leverancier draagt er zorg voor dat bij zijn aanbod voor eindafnemers met ee
 
 - c. dat hij overeenkomstig artikel 2.5 verplicht is om eindafnemers binnen de in artikel 2.5, derde lid, bepaalde termijn schriftelijk in kennis te stellen van elke aanpassing van de tarieven voor de levering van elektriciteit en gas en van elk voornemen de aan de overeenkomst verbonden voorwaarden voor de levering van elektriciteit of gas te wijzigen.
 
-#### Artikel 2.8. inhoud en voorwaarden aggregatieovereenkomst
+##### Artikel 2.8. inhoud en voorwaarden aggregatieovereenkomst
 
 1. Een marktdeelnemer die aggregeert stelt een aggregatieovereenkomst met een actieve afnemer op schrift en zorgt ervoor dat de aggregatieovereenkomst in ieder geval de volgende gegevens bevat:
 
@@ -168,13 +194,13 @@ Een leverancier draagt er zorg voor dat bij zijn aanbod voor eindafnemers met ee
 
 2. Artikel 2.5 is van overeenkomstige toepassing op een aggregatieovereenkomst, met dien verstande dat in plaats van «een leverancier» wordt gelezen »een marktdeelnemer die aggregeert».
 
-#### Artikel 2.9. opzeggen vraagresponsovereenkomst
+##### Artikel 2.9. opzeggen vraagresponsovereenkomst
 
 Een actieve afnemer kan een vraagresponsovereenkomst beëindigen zonder inachtneming van een opzegtermijn, indien de leveringszekerheid van die actieve afnemer dat vereist.
 
 ### Afdeling 2.2. Vergunning leveranciers
 
-#### Artikel 2.10. eisen aan de vergunning
+##### Artikel 2.10. eisen aan de vergunning
 
 1. Een vergunningplichtige leverancier beschikt over de op grond van artikel 2.18, eerste lid, van de wet benodigde organisatorische, financiële en technische kwaliteiten, alsmede over voldoende deskundigheid, indien:
 
@@ -204,7 +230,7 @@ Een actieve afnemer kan een vraagresponsovereenkomst beëindigen zonder inachtne
 
 - c. het aflopen, de beëindiging of het aangaan van een overeenkomst van de vergunninghouder met een partij aan wie de balanceringsverantwoordelijkheid wordt overgedragen.
 
-#### Artikel 2.11. overdragen vergunning
+##### Artikel 2.11. overdragen vergunning
 
 1. Een aanvraag voor het verkrijgen van toestemming van de Autoriteit Consument en Markt voor de overdracht van een vergunning op grond van artikel 2.21 van de wet, wordt ingediend door de leverancier die voornemens is om de vergunning over te dragen en de leverancier die voornemens is om de vergunning over te nemen gezamenlijk.
 
@@ -220,21 +246,21 @@ Een actieve afnemer kan een vraagresponsovereenkomst beëindigen zonder inachtne
 
 ### Afdeling 2.3. Maatregelen in het kader van de leveringszekerheid
 
-#### Artikel 2.12. intrekking vergunning of faillissement
+##### Artikel 2.12. intrekking vergunning of faillissement
 
 1. De vergunninghouder dan wel, indien deze failliet is verklaard, de curator, treedt zo spoedig mogelijk na het doen van een mededeling als bedoeld in artikel 2.24 van de wet, in overleg met de Autoriteit Consument en Markt en met de transmissiesysteembeheerder, met het oog op de leveringszekerheid en de toepassing van deze afdeling.
 
 2. Een beschikking tot intrekking van een vergunning als bedoeld in artikel 2.18, derde lid, van de wet treedt ten hoogste twintig werkdagen na de dag waarop die beschikking is gegeven in werking. De vergunninghouder dan wel de curator geeft na vaststelling van de beschikking tot intrekking van een vergunning daarvan onverwijld schriftelijk bericht aan de eindafnemers met een kleine aansluiting aan wie hij elektriciteit of gas levert.
 
-#### Artikel 2.13. termijn opschorting overstapmogelijkheid
+##### Artikel 2.13. termijn opschorting overstapmogelijkheid
 
 De termijn waarbinnen een eindafnemer met een kleine aansluiting overeenkomstig artikel 2.25, eerste lid, van de wet niet bevoegd is zijn leveringsovereenkomst of leveringsovereenkomst inzake peer-to-peer-handel op te zeggen, eindigt op het moment waarop deze overeenkomst is overgedragen aan een andere vergunninghouder of op het moment waarop deze overeenkomst van rechtswege eindigt en de noodlevering aanvangt.
 
-#### Artikel 2.14. termijn overdracht overeenkomsten
+##### Artikel 2.14. termijn overdracht overeenkomsten
 
 De termijn voor het overdragen aan een andere vergunninghouder van leveringsovereenkomsten of leveringsovereenkomsten inzake peer-to-peer-handel overeenkomstig artikel 2.25, eerste lid, van de wet, alsmede voor het overdragen van de krachtens artikel 2.10, derde lid, te bepalen gegevens, eindigt op het tijdstip waarop de Autoriteit Consument en Markt een besluit neemt als bedoeld in artikel 2.25, tweede lid, van de wet, maar bedraagt ten hoogste tien werkdagen na de dag waarop de beschikking tot intrekking van de vergunning is gegeven.
 
-#### Artikel 2.15. besluit tot restverdeling eindafnemers met een kleine aansluiting
+##### Artikel 2.15. besluit tot restverdeling eindafnemers met een kleine aansluiting
 
 1. De Autoriteit Consument en Markt besluit, indien geldende leveringsovereenkomsten en leveringsovereenkomsten inzake peer-to-peer-handel niet zijn overgedragen overeenkomstig artikel 2.25, eerst lid, van de wet, uiterlijk op de elfde werkdag na de dag waarop de beschikking tot intrekking van een vergunning is gegeven of na het moment van faillissement tot verdeling van de resterende eindafnemers met een kleine aansluiting en wijst noodleveranciers aan.
 
@@ -260,7 +286,7 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 - 6°. informatie over klachtbehandeling en de wijze waarop procedures bij een instantie voor buitengerechtelijke geschilbeslechting aanhangig kunnen worden gemaakt.
 
-#### Artikel 2.16. wijze van restverdeling
+##### Artikel 2.16. wijze van restverdeling
 
 1. De Autoriteit Consument en Markt verdeelt de resterende eindafnemers met een kleine aansluiting bij het besluit, bedoeld in artikel 2.15, eerste lid, over de overige vergunninghouders naar evenredigheid van het aantal eindafnemers aan wie zij reeds leveren.
 
@@ -278,7 +304,7 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 4. Indien uitzonderlijke marktomstandigheden daartoe aanleiding geven, kan de Autoriteit Consument en Markt bij de verdeling van de eindafnemers met een kleine aansluiting in het belang van de leveringszekerheid vergunninghouders met een klein marktaandeel uitsluiten.
 
-#### Artikel 2.17. voorwaarden noodlevering
+##### Artikel 2.17. voorwaarden noodlevering
 
 1. De noodleverancier bepaalt zo spoedig mogelijk na aanvang van de noodlevering, doch uiterlijk binnen 5 werkdagen, de hoogte van de door de eindafnemer met een kleine aansluiting gedurende de termijn van zes maanden voor de levering verschuldigde vergoeding, bedoeld in artikel 25, derde lid, van de wet, en doet van de hoogte en de samenstelling van de vergoeding onverwijld mededeling aan de Autoriteit Consument en Markt. De noodleverancier kan de hoogte van de verschuldigde vergoeding tussentijds uitsluitend verlagen.
 
@@ -288,7 +314,7 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 4. Op de noodlevering is het bepaalde bij of krachtens de artikelen 2.13, 2.31, 2.42, eerste lid, en 2.43, derde lid, van de wet van overeenkomstige toepassing. Bij ministeriële regeling kunnen nadere regels worden gesteld over de voorwaarden waaronder de noodlevering plaatsvindt.
 
-#### Artikel 2.18. verplichtingen noodleverancier
+##### Artikel 2.18. verplichtingen noodleverancier
 
 1. Een noodleverancier doet zo spoedig mogelijk, doch uiterlijk binnen drie maanden na het moment dat het besluit van verdeling, bedoeld in artikel 2.25, tweede lid, van de wet in werking treedt, de aan hem toegedeelde eindafnemers met een kleine aansluiting een aanbod tot het aangaan van een leveringsovereenkomst.
 
@@ -298,13 +324,13 @@ De termijn voor het overdragen aan een andere vergunninghouder van leveringsover
 
 4. De instantie voor buitengerechtelijke geschilbeslechting waarbij de noodleverancier ingevolge artikel 2.18, eerste lid, van de wet is aangesloten, is bevoegd tot kennisneming van geschillen ter zake van de uitvoering van een noodlevering.
 
-#### Artikel 2.19. inkoopovereenkomsten vergunninghouder
+##### Artikel 2.19. inkoopovereenkomsten vergunninghouder
 
 Een inkoopovereenkomst van een vergunninghouder ten behoeve van de levering van elektriciteit of gas aan eindafnemers met een kleine aansluiting bevat geen beding tot ontbinding van rechtswege van die overeenkomst ingeval aan de vergunninghouder surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen die het de wederpartij mogelijk maken in die gevallen de verbintenis op te zeggen of de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, tot het moment dat, ingeval van intrekking van een vergunning of faillissement van de vergunninghouder, alle leveringsovereenkomsten met eindafnemers met een kleine aansluiting conform artikel 2.25, eerste lid, van de wet zijn overgedragen aan een andere vergunninghouder dan wel conform artikel 2.25, derde lid, van de wet geacht worden te zijn beëindigd.
 
 ### Afdeling 2.4. Overige bepalingen
 
-#### Artikel 2.20. vergelijkingsinstrument
+##### Artikel 2.20. vergelijkingsinstrument
 
 Een vergelijkingsinstrument als bedoeld in artikel 2.68, eerste lid, van de wet wordt op verzoek van de aanbieder van dat vergelijkingsinstrument gecertificeerd, indien het vergelijkingsinstrument voldoet aan de volgende voorwaarden:
 
@@ -342,7 +368,7 @@ Een vergelijkingsinstrument als bedoeld in artikel 2.68, eerste lid, van de wet 
 
 #### Paragraaf 3.1.1. Aanwijzen, certificeren en erkennen van systeembeheerders
 
-#### Artikel 3.1. intrekken aanwijzing systeembeheerder
+##### Artikel 3.1. intrekken aanwijzing systeembeheerder
 
 Onze Minister kan een aanwijzing als systeembeheerder als bedoeld in artikel 3.2, eerste lid, van de wet, intrekken indien:
 
@@ -350,7 +376,7 @@ Onze Minister kan een aanwijzing als systeembeheerder als bedoeld in artikel 3.2
 
 - b. de systeembeheerder niet langer voldoet aan de eisen, gesteld bij of krachtens artikel 3.3, tweede tot en met zesde lid, van de wet.
 
-#### Artikel 3.2. intrekken erkenning gesloten systeem
+##### Artikel 3.2. intrekken erkenning gesloten systeem
 
 De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedoeld in artikel 3.7 van de wet, intrekken indien:
 
@@ -364,7 +390,7 @@ De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedo
 
 #### Paragraaf 3.1.2. Bescherming vitale processen
 
-#### Artikel 3.3. aanwijzing gegevens, hulpmiddelen, materialen, werkmethoden en processen
+##### Artikel 3.3. aanwijzing gegevens, hulpmiddelen, materialen, werkmethoden en processen
 
 1. Bij ministeriële regeling kunnen de in artikel 3.18, eerste lid, onderdeel a, van de wet bedoelde gegevens, hulpmiddelen, materialen, werkmethoden of processen worden aangewezen. Dit betreft in ieder geval:
 
@@ -386,7 +412,7 @@ De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedo
 
 2. Bij de ministeriële regeling, bedoeld in het eerste lid, kan de vereiste mate van vertrouwelijkheid worden bepaald van de aangewezen gegevens, hulpmiddelen, materialen, werkmethoden en processen en gegevens die daaraan ontleend zijn.
 
-#### Artikel 3.4. maatregelen ter verzekering van geheimhouding
+##### Artikel 3.4. maatregelen ter verzekering van geheimhouding
 
 1. Een transmissiesysteembeheerder, transmissiesysteembeheerder voor elektriciteit op zee of distributiesysteembeheerder treft ten aanzien van de aangewezen gegevens, hulpmiddelen, materialen, werkmethoden of processen waarvoor de vereiste mate van vertrouwelijkheid op grond van artikel 3.3, tweede lid, is bepaald, alle passende en evenredige maatregelen die nodig zijn om geheimhouding ervan te verzekeren.
 
@@ -412,7 +438,7 @@ De Autoriteit Consument en Markt kan een erkenning als gesloten systeem als bedo
 
 #### Paragraaf 3.2.1. Vrijstellingen enkelvoudige storingsreserve transmissiesysteem elektriciteit
 
-#### Artikel 3.5. vrijstelling 220 kV of hoger in normaal bedrijf
+##### Artikel 3.5. vrijstelling 220 kV of hoger in normaal bedrijf
 
 In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spanningsniveau van 220 kV of hoger in normaal bedrijf, is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op:
 
@@ -426,7 +452,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - c. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van ten hoogste 2000 MW gedurende ten hoogste zes uur voor transport ten behoeve van op een transmissiesysteem voor elektriciteit op zee aangesloten productie.
 
-#### Artikel 3.6. vrijstelling 220 kV of hoger tijdens onderhoud
+##### Artikel 3.6. vrijstelling 220 kV of hoger tijdens onderhoud
 
 In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spanningsniveau van 220 kV of hoger tijdens onderhoud, is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing, indien de uitvalsituatie betrekking heeft op:
 
@@ -444,7 +470,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - c. een railsysteem en leidt tot een onderbreking van transport van elektriciteit van ten hoogste 2000 MW gedurende ten hoogste zes uur, voor transport ten behoeve van op een transmissiesysteem voor elektriciteit op zee aangesloten productie.
 
-#### Artikel 3.7. vrijstelling 110 tot 220 kV in normaal bedrijf
+##### Artikel 3.7. vrijstelling 110 tot 220 kV in normaal bedrijf
 
 In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spanningsniveau van 110 tot 220 kV in normaal bedrijf, is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op:
 
@@ -466,7 +492,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - 2°. 1500 MW gedurende ten hoogste zes uur voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op het railsysteem is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
 
-#### Artikel 3.8. vrijstelling 110 tot 220 kV tijdens onderhoud
+##### Artikel 3.8. vrijstelling 110 tot 220 kV tijdens onderhoud
 
 1. In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spanningsniveau van 110 tot 220 kV tijdens onderhoud, is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op:
 
@@ -502,7 +528,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - 2°. 500 MW gedurende ten hoogste een week voor transport ten behoeve van productie of invoeding van een elektriciteitsopslagfaciliteit die rechtstreeks op de gasdrukpijpkabel of een oliedrukkabel is aangesloten, dan wel op het onderliggende distributiesysteem voor elektriciteit en rechtstreeks op een hoog- of middenspanningsrail op een hoogspanningsstation is aangesloten.
 
-#### Artikel 3.9. vrijstelling tijdens werkzaamheden in bijzondere situaties
+##### Artikel 3.9. vrijstelling tijdens werkzaamheden in bijzondere situaties
 
 1. De eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, is niet van toepassing in een uitvalsituatie in een deel van een transmissiesysteem voor elektriciteit met een spanningsniveau van 110 tot 220 kV tijdens werkzaamheden ter vervanging of toevoeging van een circuit of railsysteem of ter vervanging van de secundaire installatie in het betreffende deel van het transmissiesysteem voor elektriciteit, voor de duur van deze werkzaamheden, doch ten hoogste in totaal twee weken, mits:
 
@@ -524,7 +550,7 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit met een spann
 
 - c. informeert de transmissiesysteembeheerder voor elektriciteit de Autoriteit Consument en Markt uiterlijk tien werkdagen voor aanvang van de werkzaamheden over het moment en de duur van uitvoering daarvan.
 
-#### Artikel 3.10. vrijstelling verbindingen over een mast en schakelsequenties
+##### Artikel 3.10. vrijstelling verbindingen over een mast en schakelsequenties
 
 In een uitvalsituatie in een transmissiesysteem voor elektriciteit is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op:
 
@@ -532,13 +558,13 @@ In een uitvalsituatie in een transmissiesysteem voor elektriciteit is de eis, be
 
 - b. een railsysteem gedurende een schakelsequentie.
 
-#### Artikel 3.11. vrijstelling systeemonderdelen indien ontheffing is aangevraagd
+##### Artikel 3.11. vrijstelling systeemonderdelen indien ontheffing is aangevraagd
 
 In een uitvalsituatie in een transmissiesysteem met een spanningsniveau van 110 kV of hoger, is de eis, bedoeld in artikel 3.26, eerste lid, aanhef, van de wet, niet van toepassing indien de uitvalsituatie betrekking heeft op een onderdeel van het systeem waarvoor een ontheffing is aangevraagd als bedoeld in artikel 3.26, eerste lid, onderdeel c, van de wet, tot de dag na die waarop de beslissing op de aanvraag onherroepelijk is geworden.
 
 #### Paragraaf 3.2.2. Ontheffingen enkelvoudige storingsreserve transmissiesysteem elektriciteit
 
-#### Artikel 3.12. vereisten aanvraag ontheffing storingsreserve
+##### Artikel 3.12. vereisten aanvraag ontheffing storingsreserve
 
 1. Een aanvraag voor een ontheffing als bedoeld in artikel 3.26, eerste lid, onderdeel c, van de wet, omvat:
 
@@ -562,15 +588,15 @@ In een uitvalsituatie in een transmissiesysteem met een spanningsniveau van 110 
 
 - b. dat uit het investeringsplan van de aanvrager, bedoeld in artikel 3.35, vijfde lid, van de wet, volgt dat het betreffende project niet binnen de termijn van de verleende ontheffing kon worden afgerond.
 
-#### Artikel 3.13. beslistermijn
+##### Artikel 3.13. beslistermijn
 
 De Autoriteit Consument en Markt neemt het besluit op de aanvraag tot een ontheffing zo spoedig mogelijk, doch uiterlijk zes maanden na ontvangst van de aanvraag. Deze termijn kan eenmaal met ten hoogste zes maanden worden verlengd.
 
-#### Artikel 3.14. voorwaarde ontheffing
+##### Artikel 3.14. voorwaarde ontheffing
 
 Aan de ontheffing wordt de voorwaarde verbonden dat wanneer het systeemonderdeel waarvoor ontheffing wordt verleend ingrijpend wordt gerenoveerd of gemodificeerd, het desbetreffende systeemonderdeel wordt aangepast overeenkomstig de norm in artikel 3.26, eerste lid, van de wet of, indien van toepassing, een vrijstelling in de artikelen 3.5 tot en met 3.11.
 
-#### Artikel 3.15. reikwijdte en duur ontheffing
+##### Artikel 3.15. reikwijdte en duur ontheffing
 
 1. Een ontheffing wordt verleend voor een onderdeel van het transmissiesysteem voor elektriciteit dat op 1 januari 2021 niet voldoet aan de norm, bedoeld in artikel 3.26, eerste lid, van de wet of, indien van toepassing, een vrijstelling als bedoeld in de artikelen 3.5 tot en met 3.11, voor ten hoogste de maximale omvang en duur van de onderbreking bij een uitvalsituatie met betrekking tot dat onderdeel op die datum.
 
@@ -582,7 +608,7 @@ Aan de ontheffing wordt de voorwaarde verbonden dat wanneer het systeemonderdeel
 
 - b. vijf jaren, indien het een onderdeel van het transmissiesysteem met een spanningsniveau van 110 tot 220 kV betreft.
 
-#### Artikel 3.16. weigering, intrekking en wijziging ontheffing
+##### Artikel 3.16. weigering, intrekking en wijziging ontheffing
 
 1. De Autoriteit Consument en Markt weigert een ontheffing indien de aanvraag niet voldoet aan de vereisten in artikel 3.15 reikwijdte en duur ontheffing of vrijstelling.
 
@@ -600,7 +626,7 @@ Aan de ontheffing wordt de voorwaarde verbonden dat wanneer het systeemonderdeel
 
 #### Paragraaf 3.2.3. Verplaatsen en verkabelen delen elektriciteitssysteem
 
-#### Artikel 3.17. aanwijzing bovengrondse delen van systemen
+##### Artikel 3.17. aanwijzing bovengrondse delen van systemen
 
 Een door Onze Minister op grond van artikel 3.27, eerste lid, van de wet, aangewezen bovengronds deel van een systeem, wordt op verzoek van een college van burgemeester en wethouders of van gedeputeerde staten verplaatst of vervangen, indien dat deel:
 
@@ -608,11 +634,11 @@ Een door Onze Minister op grond van artikel 3.27, eerste lid, van de wet, aangew
 
 - b. ten minste 500 meter lang is, voor zover het een deel betreft dat direct is verbonden met een transformator-, schakel-, verdeel- of onderstation, voor zover het een te vervangen deel betreft.
 
-#### Artikel 3.18. kostenefficiëntie
+##### Artikel 3.18. kostenefficiëntie
 
 De op grond van artikel 3.27, eerste lid, van de wet, aan te wijzen bovengrondse delen van systemen worden slechts aangewezen als vervanging of verplaatsing kostenefficiënt is. Bij de aanwijzing kan worden bepaald dat een deel wordt aangewezen voor verplaatsing of voor vervanging.
 
-#### Artikel 3.19. hoogte van de bijdrage
+##### Artikel 3.19. hoogte van de bijdrage
 
 1. Een indiener van een verzoek tot verplaatsing of vervanging als bedoeld in artikel 3.27, eerste lid, van de wet, of een verzoek tot het doen van onderzoek als bedoeld in artikel 3.27, derde lid, van de wet, betaalt van de kosten voor de uitvoering van het betreffende verzoek:
 
@@ -624,7 +650,7 @@ De op grond van artikel 3.27, eerste lid, van de wet, aan te wijzen bovengrondse
 
 3. Bij ministeriële regeling worden regels gesteld over de wijze van bepaling van de inwonertallen, bedoeld in het eerste lid, en de indexering van het in het tweede lid bedoelde bedrag op bij die regeling te bepalen wijze.
 
-#### Artikel 3.20. kosten en bestanddelen waarvoor de bijdrage geldt
+##### Artikel 3.20. kosten en bestanddelen waarvoor de bijdrage geldt
 
 1. Als kosten voor de uitvoering van een verzoek tot verplaatsing of vervanging als bedoeld in artikel 3.27, eerste lid, van de wet, worden aangemerkt de kosten die de transmissie- of distributiesysteembeheerder na de investeringsbeslissing van de indiener maakt.
 
@@ -632,17 +658,17 @@ De op grond van artikel 3.27, eerste lid, van de wet, aan te wijzen bovengrondse
 
 3. Bij ministeriële regeling worden regels gesteld over de bestanddelen van de uitvoeringskosten, bedoeld in het eerste en tweede lid, en de daarop in mindering te brengen kosten of opbrengsten.
 
-#### Artikel 3.21. volgorde van uitvoering
+##### Artikel 3.21. volgorde van uitvoering
 
 Indien een transmissie- of distributiesysteembeheerder onvoldoende mensen en middelen beschikbaar heeft om aan alle ontvangen verzoeken tot verplaatsing of vervanging gelijktijdig uitvoering te geven, hanteert de transmissie- of distributiesysteembeheerder de volgorde van binnenkomst van de verzoeken als uitgangspunt voor de volgorde van uitvoering.
 
-#### Artikel 3.22. procedure aanvraag ontheffing
+##### Artikel 3.22. procedure aanvraag ontheffing
 
 De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrijving waarin wordt onderbouwd dat het vervangen of verplaatsen van dat deel technisch of ruimtelijk niet haalbaar is of strijdig is met het belang van leveringszekerheid.
 
 #### Paragraaf 3.2.4. Investeringsplan
 
-#### Artikel 3.23. geldigheidsduur, herziening en tijdstip voorleggen investeringsplan
+##### Artikel 3.23. geldigheidsduur, herziening en tijdstip voorleggen investeringsplan
 
 1. Een investeringsplan als bedoeld in artikel 3.34, eerste lid, van de wet geldt voor een termijn van twee jaren of totdat er een nieuw investeringsplan is vastgesteld.
 
@@ -650,7 +676,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 3. Indien door onvoorziene omstandigheden binnen de termijn van twee jaren, bedoeld in het eerste lid, noodzakelijk is om een significante wijziging in de geplande uitbreidings- of vervangingsinvesteringen aan te brengen die ook binnen die termijn werking moet krijgen, wordt het investeringsplan tussentijds herzien. De transmissie- of distributiesysteembeheerder of transmissiesysteembeheerder voor elektriciteit op zee legt een ontwerpherziening van het investeringsplan zo spoedig mogelijk voor aan de Autoriteit Consument en Markt. Artikel 3.26, is van overeenkomstige toepassing.
 
-#### Artikel 3.24. nadere inhoud investeringsplan
+##### Artikel 3.24. nadere inhoud investeringsplan
 
 1. De beschrijving en onderbouwing van de noodzakelijke uitbreidings- en vervangingsinvesteringen, bedoeld in artikel 3.34, tweede lid, onderdeel a, van de wet, omvat:
 
@@ -676,7 +702,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 4. Bij ministeriële regeling worden nadere regels gesteld over de inhoud en inrichting van een investeringsplan en de procedure van totstandkoming van scenario’s, bedoeld in het derde lid.
 
-#### Artikel 3.25. volgorde uitvoering noodzakelijke uitbreidingsinvesteringen
+##### Artikel 3.25. volgorde uitvoering noodzakelijke uitbreidingsinvesteringen
 
 1. Een transmissie- of distributiesysteembeheerder houdt bij het bepalen van de volgorde van de uitvoering van de noodzakelijke uitbreidingsinvesteringen rekening met het maatschappelijk belang van de investeringen door een hogere prioriteit toe te kennen aan de uitvoering naar de mate waarin de investeringen een bijdrage leveren aan de transitie naar een duurzame energievoorziening, tenzij de uitvoering van overige wettelijke taken en verplichtingen of de onderlinge samenhang tussen investeringen een andere volgorde rechtvaardigt.
 
@@ -684,7 +710,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 3. Bij ministeriële regeling worden nadere regels gesteld voor de prioritering van noodzakelijke uitbreidingsinvesteringen.
 
-#### Artikel 3.26. consultatie, toetsing, aanpassing en publicatie investeringsplan
+##### Artikel 3.26. consultatie, toetsing, aanpassing en publicatie investeringsplan
 
 1. Een transmissie- of distributiesysteembeheerder of transmissiesysteembeheerder voor elektriciteit op zee consulteert een ontwerpinvesteringsplan gedurende een bij ministeriële regeling vast te leggen periode door publicatie van het ontwerpinvesteringsplan op een voor eenieder kenbare en toegankelijke wijze.
 
@@ -700,7 +726,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 #### Paragraaf 3.2.5. Aansluiten en transporteren gas en afsluiten
 
-#### Artikel 3.27. gebieden waar distributiesysteembeheerder voor gas geen kleine aansluitingen hoeft te realiseren
+##### Artikel 3.27. gebieden waar distributiesysteembeheerder voor gas geen kleine aansluitingen hoeft te realiseren
 
 1. Een distributiesysteembeheerder voor gas kan een verzoek om een kleine aansluiting in een gebied buiten de bebouwde kom als bedoeld in artikel 20a van de Wegenverkeerswet 1994 afwijzen wegens het niet onder economische voorwaarden kunnen beheren, onderhouden en ontwikkelen van een distributiesysteem voor gas in dat gebied, tenzij de equivalente uitbreiding van het distributiesysteem voor gas niet groter is dan de acceptabele uitbreiding daarvan, waarbij:
 
@@ -714,7 +740,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 - b. wanneer een of meer reduceerstations noodzakelijk zijn.
 
-#### Artikel 3.28. afwegingskader aansluiten en transport producenten gas uit hernieuwbare bronnen
+##### Artikel 3.28. afwegingskader aansluiten en transport producenten gas uit hernieuwbare bronnen
 
 1. Bij de beoordeling of maatregelen als bedoeld in artikel 3.40, vierde lid, van de wet of artikel 3.47, tweede lid, van de wet, economisch verantwoord zijn, weegt de transmissie- of distributiesysteembeheerder voor gas de verwachte kosten van maatregelen die hij of een andere distributiesysteembeheerder voor gas of de transmissiesysteembeheerder voor gas moet nemen om de producent van gas uit hernieuwbare bronnen een aanbod voor aansluiting of transport te kunnen doen, af tegen de redelijkerwijs te verwachten hoeveelheid gas uit hernieuwbare bronnen dat door dat aanbod aan de producent ingevoed kan worden op zijn systeem.
 
@@ -730,7 +756,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de toepassing van het eerste tot en met het derde lid.
 
-#### Artikel 3.29. buiten werking stellen en verwijderen aansluiting
+##### Artikel 3.29. buiten werking stellen en verwijderen aansluiting
 
 1. Een transmissie- of distributiesysteembeheerder stelt een aansluiting of een aan een aansluiting toegekend additioneel allocatiepunt buiten werking in ieder geval indien:
 
@@ -752,7 +778,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 #### Paragraaf 3.2.6. Bijzondere taken transmissiesysteembeheerder voor gas
 
-#### Artikel 3.30. pieklevering
+##### Artikel 3.30. pieklevering
 
 1. Een transmissiesysteembeheerder voor gas zorgt voor alle voorzieningen op het gebied van gasinkoop, flexibiliteitsdiensten en gastransport op het transmissiesysteem voor gas die nodig zijn om vergunninghouders in staat te stellen de pieklevering te verzorgen voor alle eindafnemers van gas met een kleine aansluiting in Nederland. Deze voorzieningen moeten volstaan om pieklevering te kunnen verzorgen op een dag met een gemiddelde effectieve etmaaltemperatuur van -17 °C.
 
@@ -774,7 +800,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 #### Paragraaf 3.3.1. Kwaliteitsborging, calamiteiten en voorvallen transmissie- en distributiesysteem
 
-#### Artikel 3.31. kwaliteitsborging
+##### Artikel 3.31. kwaliteitsborging
 
 1. Bij het waarborgen van de kwaliteit van de uitvoering van zijn wettelijke taken en verplichtingen, betrekt de transmissie- of distributiesysteembeheerder ten minste de volgende kwaliteitsaspecten: de veiligheid, de betrouwbaarheid van zijn systeem, de productkwaliteit, de kwaliteit van de dienstverlening en de kwaliteit van meetdata en het beheer daarvan.
 
@@ -784,7 +810,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de uitvoering van het eerste en tweede lid.
 
-#### Artikel 3.32. kwaliteitsplan
+##### Artikel 3.32. kwaliteitsplan
 
 1. Een transmissie- of distributiesysteembeheerder stelt een kwaliteitsplan vast.
 
@@ -808,7 +834,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de inhoud van het kwaliteitsplan.
 
-#### Artikel 3.33. procedure kwaliteitsplan
+##### Artikel 3.33. procedure kwaliteitsplan
 
 1. Een transmissie- of distributiesysteembeheerder legt tweejaarlijks een ontwerpkwaliteitsplan voor aan de Autoriteit Consument en Markt en aan Onze Minister.
 
@@ -822,7 +848,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 6. Bij ministeriële regeling kunnen nadere regels worden gesteld over de procedure, bedoeld in het eerste, tweede en vijfde lid.
 
-#### Artikel 3.34. klachten aangeslotenen met kleine aansluiting
+##### Artikel 3.34. klachten aangeslotenen met kleine aansluiting
 
 1. Een distributiesysteembeheerder of beheerder van een gesloten systeem voorziet in een transparante, eenvoudige en goedkope procedure voor de behandeling van klachten van aangeslotenen met een kleine aansluiting over het systeembeheer.
 
@@ -834,13 +860,13 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 - c. de klacht zo spoedig mogelijk, doch uiterlijk binnen acht weken na ontvangst van de klacht wordt afgehandeld.
 
-#### Artikel 3.35. maatregelen bij voorvallen
+##### Artikel 3.35. maatregelen bij voorvallen
 
 1. Een transmissie- of distributiesysteembeheerder van een transmissie- of distributiesysteem dat bestemd is of gebruikt wordt voor het transport van gas bij een druk tot en met 16 bar, neemt bij het ontwerp, de aanleg, de ingebruikstelling, de exploitatie, de wijziging, het beheer, het onderhoud en de buitengebruikstelling van een transmissie- of distributiesysteem de technische en organisatorische maatregelen die redelijkerwijs van hem gevergd kunnen worden om voorvallen te voorkomen waardoor nadelige gevolgen voor de mens of het milieu kunnen ontstaan.
 
 2. Indien zich een voorval als bedoeld in het eerste lid voordoet waardoor nadelige gevolgen voor de mens of het milieu zijn ontstaan, draagt de transmissie- of distributiesysteembeheerder zorg voor het zoveel mogelijk beperken of ongedaan maken van de nadelige gevolgen voor de mens en het milieu.
 
-#### Artikel 3.36. meldingen en registratie van onderbrekingen en voorvallen
+##### Artikel 3.36. meldingen en registratie van onderbrekingen en voorvallen
 
 1. Een transmissie- of distributiesysteembeheerder, transmissiesysteembeheerder voor elektriciteit op zee of beheerder van een gesloten systeem draagt er zorg voor dat aangeslotenen op een eenvoudige wijze onderbrekingen in het transport van elektriciteit of gas, afwijkingen van de eisen aan de kwaliteit van het transport van elektriciteit of gas, of waarnemingen van gaslucht kunnen melden en maakt aan aangeslotenen bekend op welke wijze deze meldingen kunnen worden gedaan.
 
@@ -862,7 +888,7 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 - d. de openbaarmaking van de registraties.
 
-#### Artikel 3.37. calamiteitenplan
+##### Artikel 3.37. calamiteitenplan
 
 1. Een transmissie- of distributiesysteembeheerder stelt ten minste iedere vijf jaren een calamiteitenplan vast en zendt dit en tussentijdse aanpassingen van het calamiteitenplan ter goedkeuring aan Onze Minister.
 
@@ -872,11 +898,11 @@ De aanvraag, bedoeld in artikel 3.27, vierde lid, van de wet, bevat een beschrij
 
 #### Paragraaf 3.3.2. Verplichtingen systeembeheerders bij overstappen en faillissement leverancier
 
-#### Artikel 3.38. eisen aan systeembeheerders bij wisseling van leverancier, marktdeelnemer die aggregeert, balanceringsverantwoordelijke of meetverantwoordelijke partij
+##### Artikel 3.38. eisen aan systeembeheerders bij wisseling van leverancier, marktdeelnemer die aggregeert, balanceringsverantwoordelijke of meetverantwoordelijke partij
 
 Als een aangeslotene van leverancier, marktdeelnemer die aggregeert, balanceringsverantwoordelijke, of meetverantwoordelijke partij wisselt, voert de desbetreffende systeembeheerder die wisseling door in zijn register, overeenkomstig bij ministeriële regeling te stellen regels, waarbij in ieder geval regels worden gesteld over de termijn waarbinnen de wisseling moet zijn doorgevoerd en over de bij een verzoek om wisseling te verstrekken gegevens.
 
-#### Artikel 3.39. voorzieningen transmissie- of distributiesysteembeheerder bij faillissement leverancier
+##### Artikel 3.39. voorzieningen transmissie- of distributiesysteembeheerder bij faillissement leverancier
 
 1. Indien een distributiesysteembeheerder uit de hem ter beschikking staande gegevens redenen heeft om te vermoeden dat de continuïteit van de levering door een vergunninghouder in gevaar komt, meldt hij dat zo spoedig mogelijk aan de transmissiesysteembeheerder voor elektriciteit of gas en aan de Autoriteit Consument en Markt.
 
@@ -904,13 +930,13 @@ Als een aangeslotene van leverancier, marktdeelnemer die aggregeert, balancering
 
 4. Een garantstelling als bedoeld in het tweede lid, onderdeel b, of het derde lid, onderdeel f, vindt plaats op basis van een overeenkomst tussen de transmissiesysteembeheerder voor elektriciteit of gas en de betrokken vergunninghouder dan wel de curator. De garantstellingsovereenkomst wordt aangegaan onder redelijke voorwaarden en bevat een derdenbeding als bedoeld in artikel 253, eerste lid, van Boek 6 van het Burgerlijk Wetboek dat de wederpartij van de inkoopovereenkomsten, bedoeld in artikel 2.19, bij aanvaarding van het beding het recht geeft om rechtstreekse betaling te vorderen van de transmissiesysteembeheerder voor elektriciteit of gas voor de bij hem, ten behoeve van de levering, bedoeld in het tweede lid, onderdeel b, of het derde lid, onderdeel f, indien deze onder de garantstelling moet uitkeren.
 
-#### Artikel 3.40. informatie voorkomen buitenwerkingstelling aansluiting
+##### Artikel 3.40. informatie voorkomen buitenwerkingstelling aansluiting
 
 Bij ministeriële regeling worden regels gesteld over de informatie die een transmissie- of distributiesysteembeheerder een aangeslotene verstrekt met het oog op het voorkomen van buitenwerkingstelling van diens aansluiting of een daaraan toegekend additioneel allocatiepunt op grond van artikel 3.41 van de wet in geval van het faillissement of de intrekking van een vergunning, erkenning of toelating van een marktdeelnemer, balanceringsverantwoordelijke of meetverantwoordelijke partij die op de aansluiting of het additionele allocatiepunt actief is, en de termijn waarbinnen deze informatie wordt verstrekt, in geval van intrekking van een vergunning als bedoeld in artikel 2.19, eerste lid, van de wet.
 
 #### Paragraaf 3.3.3. Financieel beheer en boekhouding systeembeheerders
 
-#### Artikel 3.41. kredietwaardigheid systeembeheerders
+##### Artikel 3.41. kredietwaardigheid systeembeheerders
 
 1. Een transmissiesysteembeheerder, transmissiesysteembeheerder voor elektriciteit op zee, of distributiesysteembeheerder toont zijn kredietwaardigheid aan door middel van een door een erkend kredietbeoordelingsbureau aan hem toegekende kredietwaardigheidsbeoordeling als «investeringswaardig».
 
@@ -934,7 +960,7 @@ Bij ministeriële regeling worden regels gesteld over de informatie die een tran
 
 - b. een toelichting met betrekking tot de in de komende vijf jaren voorziene ontwikkeling van de kredietwaardigheid met de bij ministeriële regeling nader bepaalde onderdelen.
 
-#### Artikel 3.42. afzonderlijke boekhouding
+##### Artikel 3.42. afzonderlijke boekhouding
 
 1. Een transmissie- of distributiesysteembeheerder, transmissiesysteembeheerder voor elektriciteit op zee, interconnectorsysteembeheerder, LNG-beheerder of gasopslagbeheerder voert voor zijn wettelijke taken en verplichtingen een afzonderlijke boekhouding en laat de bij ministeriële regeling aangeduide onderdelen van deze boekhouding door een onafhankelijk accountant controleren.
 
@@ -944,7 +970,7 @@ Bij ministeriële regeling worden regels gesteld over de informatie die een tran
 
 #### Paragraaf 3.3.4. Tarieven en voorwaarden transmissie- en distributiesysteembeheerders
 
-#### Artikel 3.43. algemene tariefbeginselen transmissie- en distributiesysteembeheerder
+##### Artikel 3.43. algemene tariefbeginselen transmissie- en distributiesysteembeheerder
 
 Bij de vaststelling van de door de transmissie- of distributiesysteembeheerder voor elektriciteit toe te passen tarieven, bedoeld in artikel 3.107, eerste lid, van de wet, neemt de Autoriteit Consument en Markt, onverminderd het bepaalde bij of krachtens artikel 3.107 van de wet, het volgende in acht:
 
@@ -958,21 +984,21 @@ Bij de vaststelling van de door de transmissie- of distributiesysteembeheerder v
 
 - 2°. gelden ongeacht of de energiegemeenschap, met inachtneming van artikel 2.17, tweede lid, onderdeel a, van de wet, elektriciteit levert aan zijn leden of aandeelhouders, en in overeenstemming met een door de Autoriteit Consument en Markt uitgevoerde transparante analyse van kosten en baten van gedistribueerde energiebronnen.
 
-#### Artikel 3.44. bekostiging niet-tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
+##### Artikel 3.44. bekostiging niet-tariefgereguleerde taken transmissiesysteembeheerder voor elektriciteit op zee
 
 De transmissiesysteembeheerder voor elektriciteit op zee brengt het restant van de voor een jaar vastgestelde totale toegestane vergoeding dat niet wordt gedekt door subsidie, bedoeld in artikel 3.118, vierde lid, van de wet, in rekening bij de transmissiesysteembeheerder voor elektriciteit.
 
 #### Paragraaf 3.3.5. Verplichtingen beheerders bijzondere systemen
 
-#### Artikel 3.45. procedure vaststellen indicatie tarieven en voorwaarden gasopslag
+##### Artikel 3.45. procedure vaststellen indicatie tarieven en voorwaarden gasopslag
 
 Een gasopslagbeheerder voert voorafgaand aan de bekendmaking, bedoeld in artikel. 3.100, vierde lid, van de wet, overleg met representatieve organisaties van systeemgebruikers over de tarieven en voorwaarden.
 
-#### Artikel 3.46. bekendmaking indicatie tarieven en voorwaarden gasopslag
+##### Artikel 3.46. bekendmaking indicatie tarieven en voorwaarden gasopslag
 
 De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopslagbeheerder, bedoeld in artikel. 3.100, vierde lid, van de wet, vindt jaarlijks voor 1 oktober plaats.
 
-#### Artikel 3.47. Toegang gasopslagsystemen
+##### Artikel 3.47. Toegang gasopslagsystemen
 
 1. Toegang tot een gasopslagsysteem is in ieder geval technisch of economisch noodzakelijk voor een efficiënte toegang als bedoeld in artikel 3.100, vijfde lid, van de wet, indien toegang tot dit gasopslagsysteem noodzakelijk is voor de voor leveringszekerheid benodigde flexibiliteit.
 
@@ -980,7 +1006,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 3. Bij ministeriële regeling kunnen regels worden gesteld over de noodzakelijkheid voor de voor leveringszekerheid benodigde flexibiliteit, bedoeld in het eerste lid.
 
-#### Artikel 3.48. organisatie en besluitvorming gasopslagbeheerder
+##### Artikel 3.48. organisatie en besluitvorming gasopslagbeheerder
 
 1. Indien een gasopslagsysteem voldoet aan de voorwaarden, bedoeld in artikel 3.103, eerste lid, van de wet, dan voldoet de gasopslagbeheerder tevens aan de volgende eisen:
 
@@ -996,7 +1022,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 #### Paragraaf 3.3.6. Schadevergoeding net op zee
 
-#### Artikel 3.49. recht op schadevergoeding
+##### Artikel 3.49. recht op schadevergoeding
 
 1. Een aangeslotene als bedoeld in artikel 3.86, eerste lid, onderdeel a, van de wet heeft slechts recht op vergoeding van schade als bedoeld in artikel 3.87, eerste lid, van de wet, indien de funderingen van het windpark zijn aangelegd en, indien het windpark niet gebruiksklaar is, indien de aangeslotene aannemelijk kan maken dat het windpark gebruiksklaar zou zijn geweest als daar niet vanaf was gezien om de schade te beperken.
 
@@ -1022,13 +1048,13 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 5. Het derde lid, aanhef en onderdeel b, is niet van toepassing op een aangeslotene met een vergunning als bedoeld in artikel 12 van de Wet windenergie op zee die is verleend voor 14 april 2022 en indien er na 14 april 2022 geen besluit is genomen door Onze Minister tot verlenging van de looptijd van die vergunning.
 
-#### Artikel 3.50. afstemming over planning van het onderhoud
+##### Artikel 3.50. afstemming over planning van het onderhoud
 
 1. De transmissiesysteembeheerder voor elektriciteit op zee stelt een aangeslotene als bedoeld in artikel 3.86, eerste lid, onderdeel a, van de wet ten minste twee jaar van tevoren op de hoogte van de startdatum van werkzaamheden als bedoeld in 3.49, derde lid, onderdeel b, en geeft daarbij tevens aan wat de planning van die werkzaamheden is.
 
 2. De transmissiesysteembeheerder voor elektriciteit op zee zoekt voor het bepalen van de startdatum en planning van de werkzaamheden afstemming met de aangeslotene voordat hij de aangeslotene overeenkomstig het eerste lid op de hoogte stelt van de startdatum en planning van die werkzaamheden.
 
-#### Artikel 3.51. omvang van de schade
+##### Artikel 3.51. omvang van de schade
 
 1. Voor het bepalen van de schade ten gevolge van gederfde of uitgestelde inkomsten worden ingeval van:
 
@@ -1040,7 +1066,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 3. De schade, bedoeld in het eerste en tweede lid, wordt vermeerderd met de wettelijke rente die verschuldigd is voor de tijd die verstrijkt tussen het moment waarop de schade is ontstaan en het moment waarop de schade wordt uitgekeerd.
 
-#### Artikel 3.52. berekening van de schade
+##### Artikel 3.52. berekening van de schade
 
 1. Bij gehele of gedeeltelijke te late oplevering van het transmissiesysteem voor elektriciteit op zee betreft de vergoeding van schade een vergoeding van schade door uitgestelde inkomsten en de gevolgschade, bedoeld in artikel 3.51, tweede lid.
 
@@ -1074,7 +1100,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 ### Afdeling 4.1. Erkenning meetverantwoordelijke partij
 
-#### Artikel 4.1. nadere eisen erkenning meetverantwoordelijke partij
+##### Artikel 4.1. nadere eisen erkenning meetverantwoordelijke partij
 
 1. Een meetverantwoordelijke partij voldoet aan de eisen, bedoeld in artikel 2.50, tweede lid, van de wet, indien de meetverantwoordelijke partij:
 
@@ -1094,7 +1120,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de eisen, bedoeld in het eerste lid.
 
-#### Artikel 4.2. procedure intrekken erkenning
+##### Artikel 4.2. procedure intrekken erkenning
 
 1. Indien de Autoriteit Consument en Markt voornemens is de erkenning als meetverantwoordelijke partij in te trekken wegens een andere redenen dan dat de meetverantwoordelijke partij in faillissement of surseance van betaling is verleend, geeft deze de meetverantwoordelijke partij een redelijke termijn om de geconstateerde tekortkomingen te herstellen, tenzij herstel, gelet op de aard van de tekortkoming, naar het oordeel van de Autoriteit Consument en Markt niet meer mogelijk is.
 
@@ -1112,7 +1138,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 - d. de aangeslotene er zorg voor draagt dat de meetinrichting en de eventueel daarbij behorende communicatiemiddelen niet worden verwijderd of gewijzigd, of niet meer functioneren of kunnen functioneren, zolang nog geen nieuwe meetverantwoordelijke partij actief is op de aansluiting.
 
-#### Artikel 4.3. termijn contracteren nieuwe meetverantwoordelijke partij
+##### Artikel 4.3. termijn contracteren nieuwe meetverantwoordelijke partij
 
 1. Een aangeslotene als bedoeld in artikel 2.47, tweede lid, van de wet, contracteert na ontvangst van de brief bedoeld in artikel 4.2, vierde lid, een nieuwe meetverantwoordelijke partij:
 
@@ -1128,7 +1154,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 3. Indien de erkenning wordt ingetrokken vanwege een faillissement of surseance van betaling, worden twee weken toegevoegd aan de termijn, bedoeld in het tweede lid.
 
-#### Artikel 4.4. tijdelijke voorziening meetgegevens
+##### Artikel 4.4. tijdelijke voorziening meetgegevens
 
 1. Nadat de beschikking tot intrekking van de erkenning, bedoeld in artikel 4.2, eerste lid, is gegeven blijft de meetverantwoordelijke partij verantwoordelijk voor de verplichtingen die zijn voorgeschreven bij of krachtens artikel 2.48, afdeling 4.1 en de artikelen 4.7 en 4.11 van de wet tot er een nieuwe meetverantwoordelijke partij op de aansluiting actief is.
 
@@ -1136,7 +1162,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 3. Het eerste en tweede lid zijn niet van toepassing indien een meetverantwoordelijke partij in faillissement verkeert of aan hem surseance van betaling is verleend.
 
-#### Artikel 4.5. tijdelijke voorziening meetgegevens bij faillissement of surseance van betaling
+##### Artikel 4.5. tijdelijke voorziening meetgegevens bij faillissement of surseance van betaling
 
 1. Dit artikel is van toepassing indien een meetverantwoordelijke partij in faillissement verkeert of aan hem surseance van betaling is verleend.
 
@@ -1160,7 +1186,7 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 7. De meetverantwoordelijke partij verzamelt, valideert en stelt de laatst beschikbare meetgegevens zo spoedig mogelijk vast, doch uiterlijk binnen een maand na inwerkingtreding van het contract van de nieuwe meetverantwoordelijke partij met de aangeslotene. De meetverantwoordelijke partij overhandigt op dat moment aan de aangeslotene de meetgegevens over de afname en de invoeding per dag van de voorgaande vierentwintig maanden en de cumulatieve gegevens van de drie voorafgaande jaren, of de periode sinds de aanvang van het meetcontract indien dit korter is.
 
-#### Artikel 4.6. overdragen erkenning
+##### Artikel 4.6. overdragen erkenning
 
 1. Een aanvraag voor het verkrijgen van de goedkeuring van de Autoriteit Consument en Markt voor de overdracht van een erkenning op grond van artikel 2.53 van de wet, wordt ingediend door de meetverantwoordelijke partij die voornemens is de erkenning over te dragen en de partij die die meeterkenning voornemens is te ontvangen gezamenlijk.
 
@@ -1178,15 +1204,15 @@ De bekendmaking van de indicatie van de tarieven en voorwaarden door de gasopsla
 
 ### Afdeling 4.2. Meetinrichtingen en metingen bij vraagrespons, op additionele allocatiepunten en bij onbemeten aansluitingen
 
-#### Artikel 4.7. op afstand uitleesbare meetinrichting voorwaarde voor onafhankelijke vraagrespons
+##### Artikel 4.7. op afstand uitleesbare meetinrichting voorwaarde voor onafhankelijke vraagrespons
 
 Een actieve afnemer die op zijn aansluiting of op een specifiek deel van zijn installatie een vraagresponsovereenkomst sluit met een marktdeelnemer die niet tevens zijn leverancier is, beschikt op of nabij het overdrachtspunt van zijn aansluiting over een meetinrichting waarvan de communicatiefunctionaliteit administratief is ingeschakeld.
 
-#### Artikel 4.8. geen vraagrespons bij teruglevering aan een derde
+##### Artikel 4.8. geen vraagrespons bij teruglevering aan een derde
 
 Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die niet zijn leverancier is, sluit een marktdeelnemer met deze aangeslotene geen vraagresponsovereenkomst, tenzij de teruglevering geschiedt op een technisch gescheiden allocatiepunt, dat niet elektrisch is gekoppeld met de installatie waarop de vraagresponsdienst wordt geleverd.
 
-#### Artikel 4.9. inzet submeetinrichting bij vraagrespons
+##### Artikel 4.9. inzet submeetinrichting bij vraagrespons
 
 1. Indien een aangeslotene op een transmissie-, distributie- of gesloten systeem voor elektriciteit gebruik maakt van een submeetinrichting op een deel van zijn installatie ten behoeve van de uitvoering van een vraagresponsovereenkomst, voldoet deze submeetinrichting aan de krachtens artikel 2.46, derde lid, van de wet gestelde eisen.
 
@@ -1194,19 +1220,19 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 3. De partij die de submeetinrichting installeert en beheert, is tevens verantwoordelijk voor de verzameling, validatie en vaststelling van de meetgegevens voor de betreffende submeetinrichting.
 
-#### Artikel 4.10. meetinrichting additionele allocatiepunt grote aansluiting
+##### Artikel 4.10. meetinrichting additionele allocatiepunt grote aansluiting
 
 1. Een aangeslotene met een grote aansluiting op een transmissie-, distributie- of gesloten systeem voor elektriciteit die meer dan één marktdeelnemer contracteert, beschikt op een toegekend additioneel allocatiepunt als bedoeld in artikel 3.44, derde lid, van de wet, over een meetinrichting die voldoet aan de krachtens artikel 2.46, derde lid, van de wet gestelde eisen.
 
 2. De aangeslotene draagt er zorg voor dat de communicatiefunctionaliteit van de meetinrichting wordt gebruikt.
 
-#### Artikel 4.11. meting elektriciteit uit hernieuwbare bronnen
+##### Artikel 4.11. meting elektriciteit uit hernieuwbare bronnen
 
 1. Indien een aangeslotene op een transmissie- of distributiesysteem voor elektriciteit met een installatie als bedoeld in artikel 3.63, onderdeel a, van de wet elektriciteit uit hernieuwbare bronnen produceert en de geproduceerde elektriciteit wordt gemeten met een meetinrichting op een andere plaats dan op of nabij het overdrachtspunt, voldoet die meetinrichting aan de krachtens artikel 2.46, derde lid, van de wet gestelde eisen.
 
 2. Een distributiesysteembeheerder installeert en beheert een meetinrichting als bedoeld in het eerste lid van een aangeslotene met een kleine aansluiting en verzamelt en valideert de meetgegevens ten aanzien van de productie van elektriciteit uit hernieuwbare bronnen en stelt deze vast.
 
-#### Artikel 4.12. meetinrichting additionele allocatiepunt kleine aansluiting
+##### Artikel 4.12. meetinrichting additionele allocatiepunt kleine aansluiting
 
 1. Een aangeslotene met een kleine aansluiting op een distributiesysteem of gesloten systeem voor elektriciteit beschikt op elk toegekend additioneel allocatiepunt als bedoeld in artikel 3.44, derde lid, van de wet over een meetinrichting die voldoet aan de krachtens artikel 2.46, derde lid, van de wet gestelde eisen.
 
@@ -1214,7 +1240,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 3. De systeembeheerder die de meetinrichting op het primaire allocatiepunt heeft geïnstalleerd en beheert, installeert en beheert de meetinrichting op een additioneel allocatiepunt.
 
-#### Artikel 4.13. onbemeten aansluiting
+##### Artikel 4.13. onbemeten aansluiting
 
 1. Een distributiesysteembeheerder stelt de invoeding, de onttrekking of het verbruik van elektriciteit of gas vast bij een onbemeten aansluiting als bedoeld in artikel 2.46, eerste lid, onderdeel a, van de wet.
 
@@ -1222,7 +1248,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 ### Afdeling 4.3. Erkenning submeetverantwoordelijke partij
 
-#### Artikel 4.14. erkenning en verplichtingen submeetverantwoordelijke partij
+##### Artikel 4.14. erkenning en verplichtingen submeetverantwoordelijke partij
 
 1. Het is voor een submeetverantwoordelijke partij verboden zonder erkenning als bedoeld in het vierde lid te handelen overeenkomstig artikel 4.9 ten behoeve van de afhandeling van de vraagresponsovereenkomst, bedoeld in artikel 4.9, eerste lid.
 
@@ -1246,7 +1272,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 - c. de informatie die een submeetverantwoordelijke partij na het verlenen van de erkenning al dan niet periodiek moet verstrekken.
 
-#### Artikel 4.15. nadere eisen erkenning submeetverantwoordelijke partij
+##### Artikel 4.15. nadere eisen erkenning submeetverantwoordelijke partij
 
 1. Een submeetverantwoordelijke partij voldoet aan de eisen, bedoeld in artikel 4.14, derde lid, indien de submeetverantwoordelijke partij:
 
@@ -1266,7 +1292,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over de vereisten, bedoeld in het eerste lid.
 
-#### Artikel 4.16. procedure intrekken erkenning submeetverantwoordelijke partij
+##### Artikel 4.16. procedure intrekken erkenning submeetverantwoordelijke partij
 
 1. Artikel 2.51, eerst lid, van de wet is van overeenkomstige toepassing op een erkenning als submeetverantwoordelijke partij.
 
@@ -1278,7 +1304,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 5. De submeetverantwoordelijke partij geeft na vaststelling van de beschikking tot intrekking van een erkenning daarvan onverwijld bericht aan de aangeslotene en informeert de aangeslotene over de gevolgen daarvan voor de aangeslotene.
 
-#### Artikel 4.17. overdragen erkenning submeetverantwoordelijke partij
+##### Artikel 4.17. overdragen erkenning submeetverantwoordelijke partij
 
 1. Een erkenning als submeetverantwoordelijke partij kan slechts worden overgedragen na goedkeuring van de Autoriteit Consument en Markt.
 
@@ -1286,13 +1312,13 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 ### Afdeling 4.4. Beheren en uitwisselen van gegevens
 
-#### Artikel 4.18. melden incidenten
+##### Artikel 4.18. melden incidenten
 
 1. Een melding van een inbreuk op de beveiliging van gegevens als bedoeld in de artikelen 4.4, eerste lid, of 4.22, eerste lid, van de wet wordt gedaan op een door Onze Minister aangegeven wijze.
 
 2. Onze Minister kan, na raadpleging van de betrokken partij, het publiek informeren over een gemeld incident als bedoeld in de artikelen 4.4, eerste lid, of 4.22, eerste lid, van de wet, of vorderen dat de betrokken partij dit doet, indien publieke bewustwording nodig is om een incident te voorkomen of een lopend incident te beheersen.
 
-#### Artikel 4.19. maatregelen ter identificatie, authenticatie en autorisatie
+##### Artikel 4.19. maatregelen ter identificatie, authenticatie en autorisatie
 
 1. De gegevensuitwisselingsentiteit stelt de identiteit van de partijen, bedoeld in artikel 4.20, eerste lid, van de wet vast aan de hand van:
 
@@ -1306,7 +1332,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 ### Afdeling 5.1. Uitvoering door Autoriteit Consument en Markt
 
-#### Artikel 5.1. samenwerking
+##### Artikel 5.1. samenwerking
 
 1. De Autoriteit Consument en Markt werkt in grensoverschrijdende kwesties samen met:
 
@@ -1318,7 +1344,7 @@ Indien een aangeslotene elektriciteit teruglevert aan een marktdeelnemer die nie
 
 2. De Autoriteit Consument en Markt werkt, onder meer teneinde de nationale markten op één of meer geografische gebieden als bedoeld in artikel 12, derde lid, van [verordening 715/2009](32009R0715) te integreren en samenwerking tussen een transmissiesysteembeheerder en een buitenlandse transmissiesysteembeheerder in deze gebieden aan te moedigen, samen met instellingen in andere lidstaten van de Europese Unie die op grond van nationale wettelijke regels zijn belast met de toepassing van de regels op het gebied van gas.
 
-#### Artikel 5.2. monitoring
+##### Artikel 5.2. monitoring
 
 De Autoriteit Consument en Markt:
 
@@ -1342,7 +1368,7 @@ De Autoriteit Consument en Markt:
 
 - j. volgt het congestiebeheer van transmissie- en distributiesystemen, inclusief interconnectoren.
 
-#### Artikel 5.3. publicatie
+##### Artikel 5.3. publicatie
 
 De Autoriteit Consument en Markt publiceert:
 
@@ -1356,7 +1382,7 @@ De Autoriteit Consument en Markt publiceert:
 
 - e. de geschatte kosten van de transmissie- en distributiesysteembeheerders die zij gebruikt voor het vaststellen van een inkomstenbesluit of een tarievenbesluit met inachtneming van het bepaalde in artikel 5.1, eerste lid, onderdeel c, van de Wet open overheid.
 
-#### Artikel 5.4. overige taken ACM
+##### Artikel 5.4. overige taken ACM
 
 De Autoriteit Consument en Markt:
 
@@ -1374,7 +1400,7 @@ De Autoriteit Consument en Markt:
 
 ### Afdeling 5.2. Uitvoering door Onze Minister
 
-#### Artikel 5.5. strategische reserve
+##### Artikel 5.5. strategische reserve
 
 Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transmissiesysteembeheerder voor elektriciteit opdraagt tot de inrichting van een strategische reserve als bedoeld in artikel 21, derde lid, van [verordening 2019/943](32843R2019), worden bij ministeriële regeling regels gesteld over, in ieder geval:
 
@@ -1390,7 +1416,7 @@ Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transm
 
 ### Afdeling 5.3. Overige bepalingen
 
-#### Artikel 5.6. retributies minister
+##### Artikel 5.6. retributies minister
 
 1. De bedragen die verschuldigd zijn op grond van artikel 5.27, eerste lid, van de wet, zijn vaste bedragen.
 
@@ -1404,7 +1430,7 @@ Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transm
 
 6. De bedragen die worden gefactureerd door Onze Minister, worden door Onze Minister geïnd en aan Onze Minister betaald.
 
-#### Artikel 5.7. bewaren en verstrekken van gegevens aan Onze Minister ten behoeve van toezicht op installatie meetinrichting kleine aansluiting
+##### Artikel 5.7. bewaren en verstrekken van gegevens aan Onze Minister ten behoeve van toezicht op installatie meetinrichting kleine aansluiting
 
 1. Een distributiesysteembeheerder verstrekt aan Onze Minister de bij ministeriële regeling te bepalen gegevens met betrekking tot een aangeslotene als bedoeld in artikel 3.53, derde lid, van de wet ten behoeve van het houden van toezicht op het bepaalde in artikel 2.46, eerste en derde lid, en artikel 2.47, eerste lid, van de wet.
 
@@ -1418,115 +1444,115 @@ Indien Onze Minister op grond van artikel 5.12, eerste lid, van de wet de transm
 
 ### Afdeling 6.1. Wijziging andere besluiten
 
-#### Artikel 6.1. wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel 6.1. wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 6.2. wijziging [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
+##### Artikel 6.2. wijziging [Asbestverwijderingsbesluit 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0019316)
 
 Wijzigt het Asbestverwijderingsbesluit 2005.
 
-#### Artikel 6.3. wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
+##### Artikel 6.3. wijziging [Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330)
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel 6.4. wijziging [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520)
+##### Artikel 6.4. wijziging [Besluit beveiliging netwerk- en informatiesystemen](https://wetten.overheid.nl/jci1.3:c:BWBR0041520)
 
 Wijzigt het Besluit beveiliging netwerk- en informatiesystemen.
 
-#### Artikel 6.5. wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
+##### Artikel 6.5. wijziging [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297)
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel 6.6. wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
+##### Artikel 6.6. wijziging [Besluit doorberekening kosten ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0035712)
 
 Wijzigt het Besluit doorberekening kosten ACM.
 
-#### Artikel 6.7. wijziging [Besluit energieprestatievergoeding huur](https://wetten.overheid.nl/jci1.3:c:BWBR0038456)
+##### Artikel 6.7. wijziging [Besluit energieprestatievergoeding huur](https://wetten.overheid.nl/jci1.3:c:BWBR0038456)
 
 Wijzigt het Besluit energieprestatievergoeding huur.
 
-#### Artikel 6.8. wijziging [Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922)
+##### Artikel 6.8. wijziging [Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922)
 
 Wijzigt het Besluit energie vervoer.
 
-#### Artikel 6.9. wijziging [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503)
+##### Artikel 6.9. wijziging [Besluit Energy Star-etiketteringsprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0013503)
 
 Wijzigt het Besluit Energy Star-etiketteringsprogramma.
 
-#### Artikel 6.10. wijziging [Besluit factuur, verbruiks- en indicatief kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0036646)
+##### Artikel 6.10. wijziging [Besluit factuur, verbruiks- en indicatief kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0036646)
 
 Wijzigt het Besluit factuur, verbruiks- en indicatief kostenoverzicht energie.
 
-#### Artikel 6.11. wijziging [Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060)
+##### Artikel 6.11. wijziging [Besluit gegevensverwerving CBS](https://wetten.overheid.nl/jci1.3:c:BWBR0016060)
 
 Wijzigt het Besluit gegevensverwerving CBS.
 
-#### Artikel 6.12. wijziging [Besluit gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0043850)
+##### Artikel 6.12. wijziging [Besluit gemeentelijke schuldhulpverlening](https://wetten.overheid.nl/jci1.3:c:BWBR0043850)
 
 Wijzigt het Besluit gemeentelijke schuldhulpverlening.
 
-#### Artikel 6.13. wijziging [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567)
+##### Artikel 6.13. wijziging [Besluit infrastructuur alternatieve brandstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0039567)
 
 Wijzigt het Besluit infrastructuur alternatieve brandstoffen.
 
-#### Artikel 6.14. wijziging [Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835)
+##### Artikel 6.14. wijziging [Besluit meetinstrumenten en marktdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0037835)
 
 Wijzigt het Besluit meetinstrumenten en marktdeelnemers.
 
-#### Artikel 6.15. wijziging [Besluit op afstand uitleesbare meetinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0030605)
+##### Artikel 6.15. wijziging [Besluit op afstand uitleesbare meetinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0030605)
 
 Wijzgt het Besluit op afstand uitleesbare meetinrichtingen.
 
-#### Artikel 6.16. wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
+##### Artikel 6.16. wijziging [Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086)
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel 6.17. wijziging [Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735)
+##### Artikel 6.17. wijziging [Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735)
 
 Wijzigt het Besluit stimulering duurzame energieproductie en klimaattransitie.
 
-#### Artikel 6.18. wijziging [Besluit toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0020184)
+##### Artikel 6.18. wijziging [Besluit toezicht accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0020184)
 
 Wijzigt het Besluit toezicht accountantsorganisaties.
 
-#### Artikel 6.19. wijziging [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
+##### Artikel 6.19. wijziging [Mijnbouwbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0014394)
 
 Wijzigt het Mijnbouwbesluit.
 
-#### Artikel 6.20. wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
+##### Artikel 6.20. wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel 6.21. wijziging [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178)
+##### Artikel 6.21. wijziging [Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178)
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel 6.22. wijziging [Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230)
+##### Artikel 6.22. wijziging [Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007230)
 
 Wijzigt het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
 ### Afdeling 6.2. Overgangsrecht en samenloop
 
-#### Artikel 6.23. overgangsrecht maatregelen ter identificatie, authenticatie en autorisatie
+##### Artikel 6.23. overgangsrecht maatregelen ter identificatie, authenticatie en autorisatie
 
 Wijzigt dit besluit.
 
-#### Artikel 6.24. uitrol meetinrichtingen met communicatiefunctionaliteit
+##### Artikel 6.24. uitrol meetinrichtingen met communicatiefunctionaliteit
 
 De periode, bedoeld in artikel 7.28, eerste lid, van de wet is vanaf de inwerkingtreding van dat artikel tot 1 januari 2027.
 
-#### Artikel 6.25. overgangsrecht wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
+##### Artikel 6.25. overgangsrecht wijziging [Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278)
 
 Op aanvragen die voor de inwerkingtreding van artikel 6.4 van dit besluit zijn ingediend is het recht dat gold onmiddellijk voor het tijdstip van inwerkingtreding van dat artikel van toepassing.
 
-#### Artikel 6.26. samenloopbepaling beëindiging salderingsregeling voor elektriciteit
+##### Artikel 6.26. samenloopbepaling beëindiging salderingsregeling voor elektriciteit
 
 Wijzigt dit besluit.
 
 ### Afdeling 6.3. Slotbepalingen
 
-#### Artikel 6.27. intrekken besluiten
+##### Artikel 6.27. intrekken besluiten
 
 De volgende besluiten worden ingetrokken:
 
@@ -1566,11 +1592,11 @@ De volgende besluiten worden ingetrokken:
 
 - r. het [Besluit waardevaststelling netten voor elektriciteit en voor gastransport](https://wetten.overheid.nl/jci1.3:c:BWBR0033945).
 
-#### Artikel 6.28. inwerkingtreding
+##### Artikel 6.28. inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 6.29. citeertitel
+##### Artikel 6.29. citeertitel
 
 Dit besluit wordt aangehaald als: Energiebesluit.
 

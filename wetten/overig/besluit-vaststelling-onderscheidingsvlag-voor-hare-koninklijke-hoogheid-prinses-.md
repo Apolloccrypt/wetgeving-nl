@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling onderscheidingsvlag voor Hare Koninklijke Hoogheid Prinses Catharina-Amalia en haar zusters"
+title: "Besluit van 24 november 2021, houdende vaststelling van een onderscheidingsvlag voor Hare Koninklijke Hoogheid Prinses Catharina-Amalia en haar zusters"
 identifier: "BWBR0046149"
-categorie: "Overig"
-publicatiedatum: 2022-02-01
-laatste_update: 2022-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046149"
+country: "nl"
+rank: "kb"
+publication_date: "2022-02-01"
+last_updated: "2022-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046149"
+soort: "KB"
+stam_id: "16219453"
+version_id: "28318312"
+internal_id: "C39921711"
+label_id: "16147064"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046149/2022-02-01/0"
+intitule_bron: "Stb.2021-582"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-24"
+intitule_published: "2021-12-07"
+intitule_in_force: "2021-12-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-582"
+original_signed_date: "2021-11-24"
+original_published_date: "2021-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-582"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0046149&z=2022-02-01&g=2022-02-01"
+jci_1_0: "1.0:c:BWBR0046149&g=2022-02-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling onderscheidingsvlag voor Hare Koninklijke Hoogheid Prinses Catharina-Amalia en haar zusters"
+signed_date: "2021-11-24"
+entry_into_force: "2022-02-01"
 ---
-
 # Besluit van 24 november 2021, houdende vaststelling van een onderscheidingsvlag voor Hare Koninklijke Hoogheid Prinses Catharina-Amalia en haar zusters
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Defensie en De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties d.d. 23 november 2021, nr.3756798;

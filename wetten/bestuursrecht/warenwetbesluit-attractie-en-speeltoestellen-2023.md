@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit attractie- en speeltoestellen 2023"
+title: "Besluit van 28 maart 2023, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetbesluit attractie- en speeltoestellen 2023)"
 identifier: "BWBR0048026"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048026"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048026"
+soort: "AMvB"
+stam_id: "16715613"
+version_id: "29322952"
+internal_id: "C41765651"
+label_id: "16632654"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048026/2025-01-01/0"
+intitule_bron: "Stb.2023-104"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-28"
+intitule_published: "2023-04-03"
+intitule_in_force: "2023-04-03"
+intitule_status: "goed"
+original_publication: "Stb.2023-104"
+original_signed_date: "2023-03-28"
+original_published_date: "2023-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-104"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048026&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0048026&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit attractie- en speeltoestellen 2023"
+signed_date: "2023-03-28"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van 28 maart 2023, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetbesluit attractie- en speeltoestellen 2023)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 maart 2022, kenmerk 2346444-1007078-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In dit besluit en de daarop gebaseerde bepalingen wordt verstaan onder:
 
 - –. **wet:** [Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit en de daarop berustende bepalingen zijn eveneens van toepassing op attractie- en speeltoestellen indien deze onroerend zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit is niet van toepassing op:
 
@@ -74,13 +100,13 @@ Dit besluit is niet van toepassing op:
 
 #### § 2. Verbodsbepaling
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, te gebruiken, of ten aanzien van attractie- of speeltoestellen te handelen, anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.
 
 #### § 3. Vervaardiging
 
-#### Artikel 5
+##### Artikel 5
 
 1. De fabrikant draagt er zorg voor dat attractie- en speeltoestellen zodanig zijn ontworpen en vervaardigd, zodanige eigenschappen hebben en van zodanige opschriften zijn voorzien, dat zij bij redelijkerwijs te verwachten gebruik geen gevaar opleveren voor de veiligheid of de gezondheid van de mens.
 
@@ -88,13 +114,13 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 3. De importeur draagt er zorg voor dat de fabrikant die niet in Nederland is gevestigd, het eerste en tweede lid in acht neemt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij ministeriële regeling kunnen normen worden aangewezen en nadere voorschriften worden gesteld voor attractie- en speeltoestellen.
 
 2. Attractie- en speeltoestellen die voldoen aan de normen, bedoeld in het eerste lid, worden vermoed te voldoen aan [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Attractie- en speeltoestellen zijn voorzien van de volgende, onlosmakelijk op of in het toestel aangebrachte, onuitwisbare opschriften of aanduidingen:
 
@@ -112,7 +138,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 4. Het unieke registratienummer, bedoeld in het derde lid, wordt door de aangewezen instelling geregistreerd op een bij ministeriële regeling te bepalen wijze.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De fabrikant stelt voor attractie- en speeltoestellen een technisch constructiedossier op met inachtneming van [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2025-01-01&g=2025-01-01).
 
@@ -128,7 +154,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 #### § 4. Keuring
 
-#### Artikel 9
+##### Artikel 9
 
 1. In serie geproduceerde speeltoestellen en attractietoestellen van een eenvoudig ontwerp die overeenkomstig het typekenmerkende monster zijn vervaardigd, worden voor verhandeling in Nederland gekeurd door een aangewezen instelling.
 
@@ -140,7 +166,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 5. Bij ministeriële regeling kan worden bepaald welke en op welke wijze speeltoestellen opnieuw of periodiek worden gekeurd. Indien op grond van de eerste volzin geen regels zijn gesteld ten aanzien van de keuringsfrequentie van speeltoestellen, worden speeltoestellen eenmalig gekeurd door een aangewezen instelling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aanvraag van een eerste keuring van een attractie- of speeltoestel wordt ingediend bij slechts één aangewezen instelling.
 
@@ -164,7 +190,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 7. Bij ministeriële regeling kan worden afgeweken van het bepaalde in het eerste, derde, vierde en vijfde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aangewezen instelling onderzoekt bij een keuring het attractie- of speeltoestel, onderzoekt bij de eerste keuring of het technisch constructiedossier is vervaardigd overeenkomstig [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=II&z=2025-01-01&g=2025-01-01) en beoordeelt bij de eerste keuring of het attractie- of speeltoestel is vervaardigd en ontworpen overeenkomstig het technisch constructiedossier en [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&bijlage=I&z=2025-01-01&g=2025-01-01).
 
@@ -174,7 +200,7 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 4. De aangewezen instelling onderzoekt bij een keuring of de eventuele toepassing van normen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=6&z=2025-01-01&g=2025-01-01), correct is gebeurd en voert passende onderzoeken en proeven uit om te onderzoeken of het attractie- of speeltoestel overeenstemt met de daarop betrekking hebbende veiligheids- en gezondheidsvoorschriften.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Nadat een keuring heeft plaatsgevonden wordt voor een attractie- of speeltoestel een certificaat van goedkeuring afgegeven door de aangewezen instelling, indien dat toestel naar het oordeel van de aangewezen instelling voldoet aan de in de [artikelen 5 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=5&z=2025-01-01&g=2025-01-01) en [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01), gestelde voorschriften.
 
@@ -184,17 +210,17 @@ Het is verboden attractie- of speeltoestellen te vervaardigen, te verhandelen, t
 
 4. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de inhoud, vorm en uiterste geldigheid van certificaten en merken van goedkeuring.
 
-#### Artikel 13
+##### Artikel 13
 
 De aangewezen instelling stelt bij attractie- en speeltoestellen de voor het veilig gebruik relevante conclusies van een keuring en de datum voor wanneer uiterlijk een nieuw certificaat en merk van goedkeuring afgegeven moet zijn op schrift in een keuringsrapportage en verstrekt deze aan de aanvrager.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aangewezen instelling geeft aan de Nederlandse Voedsel- en Warenautoriteit bericht van de uitslagen van keuringen en de datum waarop een tweede of volgende keuring van het bewuste attractie- of speeltoestel nodig is.
 
 2. De aangewezen instelling die het afgeven van een certificaat en merk van goedkeuring weigert, doet hiervan mededeling aan de overige aangewezen instellingen en de Nederlandse Voedsel- en Warenautoriteit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De fabrikant, importeur, verhuurder dan wel beheerder stelt de aangewezen instelling, die een attractie- of speeltoestel of het typekenmerkend monster daarvan heeft gekeurd, onverwijld in kennis van elke ingrijpende wijziging of reparatie van dat toestel.
 
@@ -208,7 +234,7 @@ De aangewezen instelling stelt bij attractie- en speeltoestellen de voor het vei
 
 #### § 5. Verkeer en gebruik
 
-#### Artikel 16
+##### Artikel 16
 
 1. Attractie- en speeltoestellen gaan vergezeld van een Nederlandstalige gebruiksaanwijzing met aanwijzingen, veiligheidsinstructies, waarschuwingen en andere relevante informatie die de verhuurder dan wel de beheerder in staat stelt dat toestel zodanig te installeren, te monteren, te doen gebruiken, te demonteren, te inspecteren en te onderhouden dat dat toestel geen gevaar oplevert voor de veiligheid of gezondheid van personen.
 
@@ -216,11 +242,11 @@ De aangewezen instelling stelt bij attractie- en speeltoestellen de voor het vei
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld over veiligheidsinstructies, waarschuwingen en andere relevante informatie op attractie- of speeltoestellen.
 
-#### Artikel 17
+##### Artikel 17
 
 De verhuurder dan wel de beheerder beschikt over een geldig, bij het attractie- of speeltoestel behorend, certificaat van goedkeuring van een aangewezen instelling.
 
-#### Artikel 18
+##### Artikel 18
 
 Alvorens een attractie- of speeltoestel te verhandelen, ziet de distributeur dan wel de importeur erop toe dat:
 
@@ -232,7 +258,7 @@ Alvorens een attractie- of speeltoestel te verhandelen, ziet de distributeur dan
 
 - d. het toestel vergezeld gaat van een Nederlandse gebruiksaanwijzing, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 19
+##### Artikel 19
 
 1. De verhuurder dan wel beheerder draagt er zorg voor dat een attractie- of speeltoestel zodanig is geïnstalleerd, gemonteerd, gedemonteerd wordt, is beproefd, geïnspecteerd, onderhouden en van opschriften is voorzien, dat bij gebruik geen gevaar voor de gezondheid of veiligheid van personen bestaat.
 
@@ -242,11 +268,11 @@ Alvorens een attractie- of speeltoestel te verhandelen, ziet de distributeur dan
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het installeren, monteren, demonteren, beproeven, inspecteren, onderhouden en van opschriften voorzien van attractie- of speeltoestellen, bedoeld in het eerste lid.
 
-#### Artikel 20
+##### Artikel 20
 
 De beheerder dan wel de verhuurder bewaart de documenten bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=13&z=2025-01-01&g=2025-01-01) die voor het attractie- of speeltoestel tijdens de eerste keuring zijn afgegeven gedurende de levensduur van het toestel. Documenten voor de daaropvolgende keuringen worden tenminste bewaard tot keuringsdocumenten van de volgende keuring afgegeven zijn.
 
-#### Artikel 21
+##### Artikel 21
 
 De verhuurder, huurder dan wel de beheerder van een attractie- of speeltoestel dat voorzien is van een merk van afkeuring, zorgt ervoor dat:
 
@@ -254,11 +280,11 @@ De verhuurder, huurder dan wel de beheerder van een attractie- of speeltoestel d
 
 - b. op of nabij daarvoor in aanmerking komende punten van het attractie- of speeltoestel een duidelijk opschrift is aangebracht waaruit blijkt dat het toestel niet voor gebruik is bestemd.
 
-#### Artikel 22
+##### Artikel 22
 
 [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=2&artikel=4&z=2025-01-01&g=2025-01-01) is niet van toepassing op het tentoonstellen en demonstreren op beurzen, exposities en bij demonstraties van attractie- en speeltoestellen die niet in overeenstemming zijn met dit besluit, mits op een zichtbaar bord is aangegeven dat de betrokken toestellen niet in overeenstemming met dit besluit zijn, en dat zij niet in het verkeer mogen worden gebracht voordat ze door de fabrikant of importeur in overeenstemming met dit besluit zijn gebracht. Bij demonstraties zijn alle passende veiligheidsmaatregelen genomen om de veiligheid en gezondheid van de mens te waarborgen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De huurder dan wel de beheerder stelt de Nederlandse Voedsel- en Warenautoriteit en, indien van toepassing, de verhuurder onverwijld in kennis van elk ernstig ongeval dat plaatsvindt met het attractie- of speeltoestel.
 
@@ -274,7 +300,7 @@ De verhuurder, huurder dan wel de beheerder van een attractie- of speeltoestel d
 
 #### § 6. Aangewezen instellingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. Als aangewezen instelling kan worden aangewezen een instelling die:
 
@@ -292,17 +318,17 @@ De verhuurder, huurder dan wel de beheerder van een attractie- of speeltoestel d
 
 2. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 25
+##### Artikel 25
 
 De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid tegen alle risico's die voortvloeien uit de uitoefening van de taken waarvoor zij is aangewezen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien een wijziging plaatsvindt in de gegevens op grond waarvan de instelling is aangewezen, doet de instelling hiervan terstond mededeling aan Onze Minister.
 
 2. Indien een instelling voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet de instelling hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling de gegevens, bedoeld in [artikel 24, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01), overgedragen aan de Nederlandse Voedsel- en Warenautoriteit dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling die voor dezelfde taken is aangewezen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=6&artikel=24&z=2025-01-01&g=2025-01-01), dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria te ondergaan.
 
@@ -312,7 +338,7 @@ De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis v
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De fabrikant of, indien van toepassing, de importeur, voorziet de aangewezen instelling desgevraagd van het technisch constructiedossier en de keuringsrapportages.
 
@@ -322,7 +348,7 @@ De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis v
 
 #### § 7. Overige bepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 1. De verhuurder dan wel de beheerder doet onverwijld na de eerste opbouw of plaatsing van een attractietoestel bij de Nederlandse Voedsel- en Warenautoriteit aangifte van het feit dat hij een attractietoestel voorhanden heeft, onder opgave van de volgende gegevens:
 
@@ -336,41 +362,41 @@ De instelling verstrekt jaarlijks aan Onze Minister een afschrift van de polis v
 
 3. Indien degene genoemd in het eerste lid, het attractietoestel, bedoeld in het eerste of tweede lid, niet langer gebruikt, doet diegene hiervan onverwijld aangifte bij de Nederlandse Voedsel- en Warenautoriteit.
 
-#### Artikel 30
+##### Artikel 30
 
 Een aangewezen instelling die voornemens is te beoordelen of een attractie- of speeltoestel in een andere lidstaat van de Europese Unie of in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een tot een douane-unie strekkend verdrag dat Nederland bindt, dan wel die partij is bij een tot een vrijhandelszone strekkend verdrag dat Nederland bindt, rechtmatig in de handel is gebracht en voldoet aan de bij of krachtens dit besluit gestelde voorschriften, neemt hierbij de in [verordening (EU) 2019/515](32415R2019) vastgestelde procedure in acht.
 
 #### § 8. Overgangs- en slotbepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Een certificaat afgegeven op grond van [artikel 19d van het Warenwetbesluit attractie- en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008223&artikel=19d) en geldend op de dag, onmiddellijk voorafgaand aan de datum van inwerkingtreding van dit besluit, blijft na dat tijdstip van kracht.
 
-#### Artikel 32
+##### Artikel 32
 
 De [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=7&z=2025-01-01&g=2025-01-01), [8, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=3&artikel=8&z=2025-01-01&g=2025-01-01), [9, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=4&artikel=9&z=2025-01-01&g=2025-01-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&paragraaf=5&artikel=16&z=2025-01-01&g=2025-01-01), zijn niet van toepassing op speeltoestellen die reeds in gebruik waren op het tijdstip van inwerkingtreding van het Warenwetbesluit attractie- en speeltoestellen.
 
-#### Artikel 33
+##### Artikel 33
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 34
+##### Artikel 34
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 35
+##### Artikel 35
 
 Wijzigt het Besluit bijzondere spoorwegen.
 
-#### Artikel 36
+##### Artikel 36
 
 Het [Warenwetbesluit attractie- en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008223) wordt ingetrokken.
 
-#### Artikel 37
+##### Artikel 37
 
 Dit besluit treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 38
+##### Artikel 38
 
 Dit besluit wordt aangehaald als: Warenwetbesluit attractie- en speeltoestellen 2023.
 

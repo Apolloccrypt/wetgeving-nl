@@ -1,13 +1,39 @@
 ---
-title: "Besluit toekomst pensioenen"
+title: "Besluit van 22 juni 2023 tot wijziging van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en enige andere besluiten in verband met de Wet toekomst pensioenen (Besluit toekomst pensioenen)"
 identifier: "BWBR0048343"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048343"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048343"
+soort: "AMvB"
+stam_id: "16788343"
+version_id: "29488912"
+internal_id: "C42165191"
+label_id: "16703314"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048343/2023-07-01/0"
+intitule_bron: "Stb.2023-217"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-22"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2023-217"
+original_signed_date: "2023-06-22"
+original_published_date: "2023-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-217"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048343&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0048343&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit toekomst pensioenen"
+signed_date: "2023-06-22"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van 22 juni 2023 tot wijziging van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en enige andere besluiten in verband met de Wet toekomst pensioenen (Besluit toekomst pensioenen)
 
 Op de voordracht van Onze Minister voor Armoedebeleid, Participatie en Pensioenen van 24 februari 2023, nr. 2023-0000103692; gedaan mede namens de Staatssecretaris van Financiën;
@@ -20,31 +46,31 @@ Gezien het nader rapport van Onze Minister voor Armoedebeleid, Participatie en P
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
+##### Artikel I. [Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892)
 
 Wijzigt het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling.
 
-#### Artikel II. [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
+##### Artikel II. [Besluit financieel toetsingskader pensioenfondsen](https://wetten.overheid.nl/jci1.3:c:BWBR0020871)
 
 Wijzigt Besluit financieel toetsingskader pensioenfondsen.
 
-#### Artikel III. [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094)
+##### Artikel III. [Vrijstellings- en boetebesluit Wet Bpf 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012094)
 
 Wijzigt het Vrijstellings- en boetebesluit Wet Bpf 2000.
 
-#### Artikel IV. [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)
+##### Artikel IV. [Uitvoeringsbesluit inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012066)
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel V. [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489)
+##### Artikel V. [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489)
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel VI. Inwerkingtreding
+##### Artikel VI. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel VII. Citeertitel
+##### Artikel VII. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit toekomst pensioenen.
 

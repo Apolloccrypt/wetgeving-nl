@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake de bescherming van zeehonden in de Waddenzee"
 identifier: "BWBV0002236"
-categorie: "Internationaal recht"
-publicatiedatum: 1991-10-01
-laatste_update: 1991-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002236"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-10-01"
+last_updated: "1991-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002236"
+soort: "verdrag"
+stam_id: "10002712993"
+version_id: "10002711802"
+internal_id: "C10006986901"
+label_id: "10002700974"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002236/1991-10-01/0"
+intitule_bron: "Trb.1990-174"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-10-16"
+intitule_published: "1990-12-20"
+intitule_in_force: "1991-09-16"
+intitule_status: "goed"
+original_publication: "Trb.1990-174"
+original_signed_date: "1990-10-16"
+original_published_date: "1990-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-174"
+entry_into_force_date: "1991-10-01"
+jci_1_3: "jci1.3:c:BWBV0002236&z=1991-10-01&g=1991-10-01"
+jci_1_0: "1.0:c:BWBV0002236&g=1991-10-01"
+citeertitel_status: "officieel"
+signed_date: "1990-10-16"
+entry_into_force: "1991-10-01"
 ---
-
 # Overeenkomst inzake de bescherming van zeehonden in de Waddenzee
 
 De Partijen,
@@ -30,11 +55,11 @@ In herinnering brengend de trilaterale Beheersovereenkomst inzake een Gemeenscha
 
 Zijn overeengekomen als volgt:
 
-#### I. Relatie tot het Verdrag
+##### I. Relatie tot het Verdrag
 
 Deze Overeenkomst zal gelden als overeenkomst volgens de definitie in [artikel IV, vierde lid, van het Verdrag inzake de bescherming van trekkende wilde diersoorten](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&artikel=IV) getekend te Bonn op 23 juni 1979.
 
-#### II. Definities
+##### II. Definities
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -50,15 +75,15 @@ Voor de toepassing van deze Overeenkomst:
 
 - f. hebben de in [artikel I, eerste lid, onderdelen a tot en met d, en onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBV0004769&artikel=I) van de in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004769) vastgelegde begrippen dezelfde betekenis in deze Overeenkomst.
 
-#### III. Doelstelling en object
+##### III. Doelstelling en object
 
 De Partijen werken nauw samen teneinde gunstige kansen voor de mate en aard van de bescherming van de zeehondenpopulatie te scheppen en te blijven waarborgen.
 
-#### IV. Plan voor behoud en beheer
+##### IV. Plan voor behoud en beheer
 
 De Partijen ontwikkelen een plan voor behoud en beheer voor de zeehondenpopulatie op basis van wetenschappelijke kennis. Dit plan zal een uitvoerige uiteenzetting bevatten van alle acties die ondernomen worden of ondernomen zullen worden om de doelstellingen van deze Overeenkomst te bereiken. De Partijen zullen geregeld van gedachten wisselen over het plan en het waar nodig wijzigen, vooral met inachtneming van de resultaten van wetenschappelijk onderzoek.
 
-#### V. Onderzoek en toezicht
+##### V. Onderzoek en toezicht
 
 1. De Partijen coördineren hun onderzoeksprogramma's en projecten en hun toezicht op de zeehondenpopulatie om te komen tot een vermeerdering van hun kennis van de biologie en leefgebieden, met inbegrip van de schadelijke gevolgen van menselijke activiteiten voor de zeehondenpopulatie, teneinde een grondslag te verschaffen voor maatregelen die de mate en aard van de bescherming van zeehonden verbeteren.
 
@@ -70,7 +95,7 @@ De Partijen ontwikkelen een plan voor behoud en beheer voor de zeehondenpopulati
 
 - c. parameters voor de zeehondenpopulatie, bijvoorbeeld ziektes, overleving, leeftijdsopbouw, verdeling naar geslacht.
 
-#### VI. Onttrekken van zeehonden
+##### VI. Onttrekken van zeehonden
 
 1. De Partijen verbieden het onttrekken van zeehonden uit het Waddenzeegebied.
 
@@ -86,7 +111,7 @@ Zeehonden die aantoonbaar lijden en geen overlevingskansen hebben mogen gedood w
 
 4. De Partijen nemen de nodige maatregelen ter voorkoming van illegale jacht en het onttrekken van zeehonden.
 
-#### VII. Leefgebied
+##### VII. Leefgebied
 
 1. De Partijen nemen passende maatregelen tot het behoud van de leefgebieden.
 
@@ -98,7 +123,7 @@ Zij houden terdege rekening met de noodzaak een netwerk van beschermde gebieden 
 
 4. De Partijen onderzoeken de mogelijkheid om aangetaste leefgebieden te herstellen en nieuwe gebieden te ontwikkelen.
 
-#### VIII. Verontreiniging
+##### VIII. Verontreiniging
 
 De Waddenzee Staten zijn vastbesloten om al het mogelijke te doen om verontreiniging van de Noordzee, uit welke bron dan ook, verder terug te dringen, zulks tot behoud en bescherming van het gebied waarop de overeenkomst van toepassing is.
 
@@ -110,47 +135,47 @@ Om dit te bereiken:
 
 - c. meten zij regelmartig de gehaltes in met name zeehondeweefsel en in organismen waar zeehonden jacht op maken, en de stoffen die uit onderzoeksresultaten naar voren zijn gekomen als belangrijke factoren voor de mate en aard van de bescherming van de zeehondenpopulatie in het gebied waarop de Overeenkomst van toepassing is.
 
-#### IX. Verantwoordelijke instanties
+##### IX. Verantwoordelijke instanties
 
 Elke Partij stelt de andere Partijen op de hoogte van de instanties die verantwoordelijk zijn voor de uitvoering van deze Overeenkomst.
 
-#### X. Publieke bewustwording
+##### X. Publieke bewustwording
 
 De Partijen nemen de benodigde maatregelen om het publiek bewust te maken van de mate en aard van de bescherming van de zeehondenpopulatie, de inhoud van doelstellingen van deze Overeenkomst, en de maatregelen die zij in navolging van deze Overeenkomst nemen, met inbegrip van het plan voor behoud en beheer ter verbetering van de mate en aard van de bescherming van zeehonden.
 
-#### XI. Wijziging van de overeenkomst
+##### XI. Wijziging van de overeenkomst
 
 Elke Partij heeft het recht wijzigingen in de Overeenkomst voor te stellen. Dergelijke voorgestelde wijzigingen worden voorgelegd aan de Depositaris die ze ter kennis van alle Partijen brengt. De Partijen stellen de Depositaris zo spoedig mogelijk na ontvangst van de kennisgeving op de hoogte van hun aanvaarding of verwerping van de wijziging. De wijziging treedt in werking 90 dagen nadat de Depositaris de kennisgevingen van aanvaarding van de betreffende wijziging van alle Partijen heeft ontvangen.
 
-#### XII. Gevolgen voor internationale overeenkomsten en andere wetgeving
+##### XII. Gevolgen voor internationale overeenkomsten en andere wetgeving
 
 1. De bepalingen van deze Overeenkomst zijn op geen enkele wijze van invloed op de rechten of plichten van de Partijen, voortvloeiend uit bestaande bilaterale of multilaterale overeenkomsten.
 
 2. De bepalingen van deze Overeenkomst zijn op geen enkele wijze van invloed op het recht van de Partijen om strengere nationale maatregelen ten aanzien van het behoud van zeehonden te nemen.
 
-#### XIII. Regeling van geschillen
+##### XIII. Regeling van geschillen
 
 1. Over elk tussen de Partijen bij deze Overeenkomst gerezen geschil ten aanzien van de uitlegging of de toepassing van de bepalingen ervan, wordt tussen de bij het geschil betrokken Partijen onderhandeld.
 
 2. Indien het geschil niet overeenkomstig de in het eerste lid van dit artikel bedoelde wijze binnen een termijn van zes maanden kan worden geregeld, wordt de procedure gevolgd die voorzien is in het [Europese Verdrag voor de vreedzame schikking van geschillen](https://wetten.overheid.nl/jci1.3:c:BWBV0005102) van 29 april 1957.
 
-#### XIV. Voorbehouden
+##### XIV. Voorbehouden
 
 Ten aanzien van de bepalingen van deze Overeenkomst kunnen geen voorbehouden worden gemaakt.
 
-#### XV. Bekrachtiging, aanvaarding, goedkeuring
+##### XV. Bekrachtiging, aanvaarding, goedkeuring
 
 Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van de Bondsrepubliek Duitsland, die optreedt als Depositaris.
 
-#### XVI. Inwerkingtreding
+##### XVI. Inwerkingtreding
 
 Deze Overeenkomst treedt in werking op de eerste dag van de derde maand na het tijdstip van nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding bij de Depositaris.
 
-#### XVII. Opzegging
+##### XVII. Opzegging
 
 Elke Partij kan deze Overeenkomst te allen tijde opzeggen na afloop van een periode van vijf jaar vanaf de datum van inwerkingtreding van deze Overeenkomst, door middel van een aan de Depositaris gerichte schriftelijke kennisgeving met ingang van het einde van een kalenderjaar. Deze Overeenkomst wordt beëindigd twaalf maanden nadat de Depositaris een dergelijke kennisgeving heeft ontvangen.
 
-#### XVIII. Depositaris
+##### XVIII. Depositaris
 
 1. Het oorspronkelijke exemplaar van deze Overeenkomst, waarvan de Deense, Nederlandse, Engelse en Duitse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Depositaris, die hiervan voor eensluidend gewaarmerkte afschriften doet toekomen aan de Staten die de Overeenkomst hebben ondertekend en aan het Secretariaat van het Verdrag.
 

@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas"
 identifier: "BWBV0001124"
-categorie: "Verkeer"
-publicatiedatum: 2003-02-01
-laatste_update: 2003-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001124"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-02-01"
+last_updated: "2003-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001124"
+soort: "verdrag"
+stam_id: "10002526763"
+version_id: "10002514902"
+internal_id: "C10006978161"
+label_id: "10002517344"
+dtd_version: "2.0"
+original_entry_into_force: "2003-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001124/2003-02-01/0"
+intitule_bron: "Trb.1993-93"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-12"
+intitule_published: "1993-11-23"
+intitule_in_force: "2003-02-06"
+intitule_status: "goed"
+original_publication: "Trb.1993-93"
+original_signed_date: "1994-04-12"
+original_published_date: "1993-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-93"
+entry_into_force_date: "2003-02-01"
+jci_1_3: "jci1.3:c:BWBV0001124&z=2003-02-01&g=2003-02-01"
+jci_1_0: "1.0:c:BWBV0001124&g=2003-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "1994-04-12"
+entry_into_force: "2003-02-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België tot regeling van het scheepvaartverkeer en van de recreatie op de gemeenschappelijke Maas
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,39 +45,39 @@ Overwegende dat het wenselijk is met betrekking tot de gemeenschappelijke Maas o
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De uitoefening van de scheepvaart op de gemeenschappelijke Maas, alsmede het bedrijven van recreatie op en aan deze rivier, wordt slechts toegestaan onder de voorwaarden als vervat in het aan deze Overeenkomst gehechte Scheepvaartreglement Gemeenschappelijke Maas (verder te noemen „Reglement").
 
-#### Artikel 2
+##### Artikel 2
 
 De ambtenaren die ingevolge de wetgeving van elk van beide landen zijn belast met de handhaving van het Reglement, zijn gemachtigd zich bij de uitoefening van hun werkzaamheden wederzijds te begeven op het grondgebied van het andere land.
 
 De bevoegde autoriteiten van de beide landen brengen elkaar schriftelijk ter kennis welke ambtenaren zijn belast met de handhaving van het Reglement.
 
-#### Artikel 3
+##### Artikel 3
 
 Een proces-verbaal, waarin een overtreding van het Reglement is vastgesteld, opgemaakt door een in artikel 2 bedoelde ambtenaar van het ene land, heeft in het andere land dezelfde bewijskracht als ware het opgemaakt door een bevoegde ambtenaar van dat andere land.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vervolging van een overtreding van het Reglement geschiedt in het land waar zij is begaan. Indien een overtreding wordt voortgezet in het andere land, wordt zij geacht te zijn begaan in het land waarin zij is aangevangen.
 
 2. Indien het niet mogelijk is met zekerheid vast te stellen in welk land de overtreding is begaan, heeft vervolging plaats in het land waar de verdachte verblijf houdt. Indien de verdachte noch in Nederland noch in België verblijf houdt, heeft vervolging plaats in het land welks ambtenaar de overtreding door middel van een proces-verbaal heeft vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Overtreding van het Reglement is strafbaar ingevolge de daarvoor geldende wetgeving in elk van beide landen.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijziging, aanvulling en vervanging van het Reglement kan worden overeengekomen in een diplomatieke notawisseling, waarin tevens de datum van inwerkingtreding wordt vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 De bepalingen van het Belgisch-Nederlands Reglement van 20 mei 1843 ter uitvoering van artikel 9 van het Verdrag van 19 april 1839 en van hoofdstuk II, afdeling IV van het Verdrag van 5 november 1842, met betrekking tot de scheepvaart op de Maas, treden met ingang van de inwerkingtreding van de onderhavige Overeenkomst buiten werking voorzover zij van toepassing zijn op de gemeenschappelijke Maas en voorzover zij in strijd zijn met de bepalingen van de onderhavige Overeenkomst.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de dag waarop de Overeenkomstsluitende Partijen elkaar wederzijds de voltooiing van hun interne grondwettelijke vereisten terzake zullen hebben medegedeeld.
 
@@ -62,7 +87,7 @@ In verband daarmede zijn in bepaalde gevallen nummers van artikelen overgeslagen
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1.00. Toepassingsgebied
+##### Artikel 1.00. Toepassingsgebied
 
 Dit reglement is van toepassing op de gemeenschappelijke Maas. Hieronder worden verstaan de tot de Maas behorende wateren:
 
@@ -70,7 +95,7 @@ Dit reglement is van toepassing op de gemeenschappelijke Maas. Hieronder worden 
 
 - b. Van de grens bij grenspaal 106 (Smeermaas-Borgharen) tot de grens bij grenspaal 126 (Kessenich-Stevensweert).
 
-#### Artikel 1.01. Betekenis van enige uitdrukkingen
+##### Artikel 1.01. Betekenis van enige uitdrukkingen
 
 In dit reglement wordt verstaan onder:
 
@@ -110,7 +135,7 @@ In dit reglement wordt verstaan onder:
 
 - l. bevoegde autoriteit: de ambtenaar of agenten bedoeld in de bijlage I.
 
-#### Artikel 1.02. De schipper
+##### Artikel 1.02. De schipper
 
 1. In dit reglement wordt onder de schipper verstaan degene die een schip of een samenstel voert.
 
@@ -118,17 +143,17 @@ In dit reglement wordt verstaan onder:
 
 3. De schipper van een schip dat deel uitmaakt van een samenstel moet de aanwijzingen van de schipper van het samenstel opvolgen. Hij moet evenwel, ook wanneer zulke aanwijzingen niet worden gegeven, alle maatregelen nemen, die voor het op juiste wijze voeren van zijn schip door de omstandigheden worden geboden.
 
-#### Artikel 1.03. Verplichtingen van de bemanning
+##### Artikel 1.03. Verplichtingen van de bemanning
 
 De leden van de bemanning van een schip moeten de aanwijzingen opvolgen die hun door de schipper binnen de grenzen van diens verantwoordelijkheid worden gegeven.
 
 Zij moeten medewerken aan de naleving van de bepalingen van dit reglement.
 
-#### Artikel 1.04/1.05. Voorzorgsmaatregelen en afwijking van het reglement
+##### Artikel 1.04/1.05. Voorzorgsmaatregelen en afwijking van het reglement
 
 De schipper moet in het belang van de veiligheid of de goede orde van de scheepvaart en naargelang de omstandigheden waarin een schip of een samenstel zich bevindt, alle maatregelen nemen die volgens de goede zeemanschap geboden zijn, zelfs indien hij daarvoor moet afwijken van de bepalingen van dit reglement of wanneer er geen uitdrukkelijke voorschriften voorzien zijn.
 
-#### Artikel 1.06. Gebruik van de vaarweg
+##### Artikel 1.06. Gebruik van de vaarweg
 
 1. Een schip of een samenstel mag niet deelnemen aan de scheepvaart indien:
 
@@ -142,17 +167,17 @@ De schipper moet in het belang van de veiligheid of de goede orde van de scheepv
 
 3. De bevoegde autoriteit kan van dit artikel ontheffing verlenen.
 
-#### Artikel 1.07. Belading
+##### Artikel 1.07. Belading
 
 1. Een schip mag niet deelnemen aan de scheepvaart indien het zodanig is beladen, dat het inzinkt tot over het vlak door de onderkant van de inzinkingsmerken.
 
 2. Een schip mag niet deelnemen aan de scheepvaart indien door de wijze van belading of door het aantal personen aan boord de stabiliteit in gevaar wordt gebracht, of het zicht vanuit de stuurhut wordt belemmerd.
 
-#### Artikel 1.08
+##### Artikel 1.08
 
 (niet overgenomen).
 
-#### Artikel 1.09. Sturen van een schip
+##### Artikel 1.09. Sturen van een schip
 
 1. Een schip mag slechts deelnemen aan de scheepvaart, indien het bestuurd wordt door een daartoe bekwaam en tenminste 16 jaar oud persoon.
 
@@ -170,7 +195,7 @@ De schipper moet in het belang van de veiligheid of de goede orde van de scheepv
 
 6. Een schip mag slechts deelnemen aan de scheepvaart, indien diegene die het sturen verricht in de gelegenheid is alle in de stuurhut binnenkomende of van daar uitgaande inlichtingen en aanwijzingen te vernemen en te geven. In het bijzonder dient hij naar alle zijden een voldoende vrij direct of indirect uitzicht te hebben en in de gelegenheid te zijn geluidsseinen te horen; indien dit niet mogelijk is, dient een uitkijk of luisterpost die hem inlicht aanwezig te zijn.
 
-#### Artikel 1.10. Scheepsbescheiden
+##### Artikel 1.10. Scheepsbescheiden
 
 1. Aan boord van een schip, bestemd of gebezigd voor het vervoer van goederen, moeten de volgende bescheiden aanwezig zijn:
 
@@ -180,13 +205,13 @@ De schipper moet in het belang van de veiligheid of de goede orde van de scheepv
 
 2. Deze bescheiden moeten telkens op verzoek van de bevoegde autoriteit worden getoond.
 
-#### Artikel 1.11. Reglement aan boord
+##### Artikel 1.11. Reglement aan boord
 
 1. Aan boord van een schip moet een bijgewerkt exemplaar van dit reglement aanwezig zijn.
 
 2. Dit artikel is niet van toepassing op een klein schip zonder bemanningsverblijf noch op een klein open schip.
 
-#### Artikel 1.12. Buiten boord uitsteken van voorwerpen; verlies van voorwerpen; Hindernissen
+##### Artikel 1.12. Buiten boord uitsteken van voorwerpen; verlies van voorwerpen; Hindernissen
 
 1. Een schip mag geen voorwerpen hebben uitsteken, tenzij daarmede geen hinder of gevaar voor de scheepvaart en geen schade aan andere schepen en aan kunstwerken kan worden veroorzaakt.
 
@@ -196,7 +221,7 @@ De schipper moet in het belang van de veiligheid of de goede orde van de scheepv
 
 4. Indien een schip een hindernis in de vaarweg aantreft, moet de schipper daarvan onverwijld kennis geven aan de dichtstbijzijnde bevoegde autoriteit en daarbij zo nauwkeurig mogelijk de plaats aangeven waar de hindernis is aangetroffen.
 
-#### Artikel 1.13. Bescherming van verkeerstekens
+##### Artikel 1.13. Bescherming van verkeerstekens
 
 1. Een schip mag geen installaties van verkeerstekens gebruiken om daaraan te meren of daaraan te verhalen. Het mag deze installaties noch de daarop aangebrachte verkeerstekens beschadigen of ze ongeschikt maken voor hun bestemming.
 
@@ -204,11 +229,11 @@ De schipper moet in het belang van de veiligheid of de goede orde van de scheepv
 
 3. De schipper is verplicht het in het ongerede of beschadigd zijn van verkeerstekens onverwijld ter kennis van de dichtstbijzijnde bevoegde autoriteit te brengen.
 
-#### Artikel 1.14. Beschadiging van kunstwerken
+##### Artikel 1.14. Beschadiging van kunstwerken
 
 Indien een schip een kunstwerk heeft beschadigd, moet de schipper onverwijld daarvan kennis geven aan de dichtstbijzijnde bevoegde autoriteit.
 
-#### Artikel 1.15. Verbod tot het te water doen geraken van voorwerpen of stoffen
+##### Artikel 1.15. Verbod tot het te water doen geraken van voorwerpen of stoffen
 
 1. Het is verboden in de vaarweg voorwerpen of stoffen te werpen, te laten vallen, te gieten of te laten afvloeien die een hindernis of een gevaar voor de scheepvaart of voor de andere gebruikers van de vaarweg zouden kunnen vormen of die het water zouden kunnen verontreinigen.
 
@@ -216,43 +241,43 @@ Indien een schip een kunstwerk heeft beschadigd, moet de schipper onverwijld daa
 
 3. Zo per ongeluk voorwerpen of stoffen vermeld onder 1 of 2 hierboven in het water geraken dan dient daarvan onmiddellijk kennis te worden gegeven in het kantoor van een der beheerders van de vaarweg of aan de dichtstbijzijnde bevoegde autoriteit. Daarbij dient zo nauwkeurig mogelijk opgegeven te worden: de aard van deze voorwerpen of stoffen en de plaats waar zij te water zijn geraakt.
 
-#### Artikel 1.16
+##### Artikel 1.16
 
 (niet overgenomen).
 
-#### Artikel 1.17. Vastgevaren of gezonken schepen; aangifte van ongevallen
+##### Artikel 1.17. Vastgevaren of gezonken schepen; aangifte van ongevallen
 
 1. Indien een schip is vastgevaren of gezonken moet de schipper zo spoedig mogelijk daarvan kennis geven aan de dichtstbijzijnde bevoegde autoriteit. De schipper of, ingeval deze een ander lid der bemanning daartoe opdracht geeft, dit bemanningslid, moet aan boord of in de nabijheid van de plaats van het ongeval blijven, zolang de bevoegde autoriteit hem niet heeft toegestaan zich te verwijderen.
 
 2. Tenzij dit klaarblijkelijk niet nodig is, moet de schipper, onverminderd de verplichting de bij de artikelen 3.27 en 3.41 bedoelde lichten en dagtekens te tonen, zo spoedig mogelijk naderende schepen laten waarschuwen op daarvoor geschikte plaatsen en op zodanige afstand van de plaats van het ongeval, dat de schippers van deze schepen tijdig de nodige maatregelen kunnen nemen.
 
-#### Artikel 1.18. Verplichting tot vrijmaking van het vaarwater
+##### Artikel 1.18. Verplichting tot vrijmaking van het vaarwater
 
 1. Indien een schip dat is vastgevaren of gezonken dan wel een door een schip verloren voorwerp het vaarwater geheel of gedeeltelijk verspert of dreigt te versperren, moet de schipper de nodige maatregelen nemen om het vaarwater zo spoedig mogelijk vrij te maken.
 
 2. Een overeenkomstige verplichting geldt voor de schipper wiens schip dreigt te zinken of onmanoeuvreerbaar wordt.
 
-#### Artikel 1.19. Aanwijzingen
+##### Artikel 1.19. Aanwijzingen
 
 1. De bevoegde autoriteit kan ter verzekering van de veiligheid of de goede orde van de scheepvaart aan de schipper een aanwijzing geven.
 
 2. De schipper is verplicht aan deze aanwijzing gevolg te geven.
 
-#### Artikel 1.20. Verlenen van medewerking aan ambtenaren
+##### Artikel 1.20. Verlenen van medewerking aan ambtenaren
 
 1. De schipper moet aan de bevoegde autoriteit de nodige medewerking verlenen, in het bijzonder het onmiddellijk aan boord komen van haar vergemakkelijken, teneinde hem in staat te stellen zich ervan te vergewissen of de bepalingen van dit reglement worden nageleefd.
 
 2. De bestuurder van een snelle motorboot is verplicht het certificaat bedoeld in art. 2.02, vierde lid, op hun eerste vordering aan de met de handhaving van dit reglement belaste ambtenaren ter inzage te verstrekken.
 
-#### Artikel 1.21
+##### Artikel 1.21
 
 (niet overgenomen).
 
-#### Artikel 1.22. Voorschriften van tijdelijke aard
+##### Artikel 1.22. Voorschriften van tijdelijke aard
 
 De schipper moet de voorschriften van tijdelijke aard naleven die in bijzondere gevallen met het oog op de veiligheid en de goede orde van de scheepvaart door de bevoegde autoriteit worden vastgesteld en die door middel van een bekendmaking zijn afgekondigd. Hierbij kan worden afgeweken van bepalingen van dit reglement.
 
-#### Artikel 1.23. Melden van en toestemming voor evenementen
+##### Artikel 1.23. Melden van en toestemming voor evenementen
 
 1. Het is verboden een sportevenement, een festiviteit of een ander evenement te doen plaats hebben zonder dit tijdig tevoren bij de bevoegde autoriteit te melden.
 
@@ -260,7 +285,7 @@ De schipper moet de voorschriften van tijdelijke aard naleven die in bijzondere 
 
 ### HOOFDSTUK 2. KENTEKENS
 
-#### Artikel 2.01. Kentekens van schepen, met uitzondering van kleine schepen
+##### Artikel 2.01. Kentekens van schepen, met uitzondering van kleine schepen
 
 1. Een schip mag niet deelnemen aan de scheepvaart, indien niet op de romp of op duurzaam bevestigde borden of platen zijn aangebracht:
 
@@ -272,7 +297,7 @@ De schipper moet de voorschriften van tijdelijke aard naleven die in bijzondere 
 
 3. Dit artikel is niet van toepassing op een klein schip.
 
-#### Artikel 2.02. Kentekens van kleine schepen
+##### Artikel 2.02. Kentekens van kleine schepen
 
 1. Een klein schip mag niet deelnemen aan de scheepvaart, indien hierop niet zijn aangebracht:
 
@@ -298,7 +323,7 @@ Aan boord van een varende snelle motorboot moet het certificaat of document van 
 
 Het voornoemde kenteken moet duidelijk leesbaar en onuitwisbaar zijn; het moet licht van kleur zijn op donkere ondergrond of donker van kleur op lichte ondergrond.
 
-#### Artikel 2.02a. Uitrusting en constructie van kleine schepen
+##### Artikel 2.02a. Uitrusting en constructie van kleine schepen
 
 1. Een varend klein schip, niet bestemd of gebezigd voor het vervoer van goederen, moet aan boord hebben:
 
@@ -330,7 +355,7 @@ Het voornoemde kenteken moet duidelijk leesbaar en onuitwisbaar zijn; het moet l
 
 ### HOOFDSTUK 3. OPTISCHE TEKENS VAN SCHEPEN
 
-#### Artikel 3.01. Toepassing
+##### Artikel 3.01. Toepassing
 
 1. 's Nachts zijn op een varend schip de artikelen 3.08, 3.09, 3.11, 3.12,3.13 en 3.18 en op een stilliggend schip de artikelen 3.20,3.27 en 3.28 van toepassing.
 
@@ -340,7 +365,7 @@ Het voornoemde kenteken moet duidelijk leesbaar en onuitwisbaar zijn; het moet l
 
 4. Wanneer het zicht dit vereist, moeten de voor 's nachts voorgeschreven lichten ook overdag worden gevoerd.
 
-#### Artikel 3.01a. Begripsbepalingen
+##### Artikel 3.01a. Begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -358,11 +383,11 @@ In dit hoofdstuk wordt verstaan onder:
 
 - -. hetzij: voor een schip dat niet is voorzien van inzinkingsmerken: de hoogte boven het bovenste doorlopende dek of bij gebreke hieraan boven het potdeksel.
 
-#### Artikel 3.02. Lichten
+##### Artikel 3.02. Lichten
 
 Voor zover niet anders wordt bepaald, moeten de lichten die een schip ingevolge dit reglement moet voeren gelijkmatig, ononderbroken licht geven.
 
-#### Artikel 3.03. Borden en vlaggen
+##### Artikel 3.03. Borden en vlaggen
 
 1. Voor zover niet anders wordt bepaald, moeten de borden en vlaggen die een schip ingevolge dit reglement moet voeren rechthoekig zijn.
 
@@ -370,7 +395,7 @@ Voor zover niet anders wordt bepaald, moeten de lichten die een schip ingevolge 
 
 3. De afmetingen moeten zodanig zijn dat een goede zichtbaarheid wordt verzekerd; aan deze voorwaarde wordt in ieder geval geacht te zijn voldaan, indien de lengte en de hoogte elk tenminste 0,60 m bedragen.
 
-#### Artikel 3.04. Cylinders, bollen, kegels en ruiten
+##### Artikel 3.04. Cylinders, bollen, kegels en ruiten
 
 1. De cylinders, bollen, kegels en ruiten die een schip ingevolge dit reglement moet voeren, mogen niet vervuild en de kleuren mogen niet verbleekt zijn. Zij kunnen worden vervangen door voorwerpen die op een afstand dezelfde vorm vertonen.
 
@@ -384,23 +409,23 @@ Voor zover niet anders wordt bepaald, moeten de lichten die een schip ingevolge 
 
 - d. voor ruiten: een lengte van de verticale middellijn van 80 cm en van de horizontale middellijn van 50 cm, zodanig dat de lengte van de horizontale middellijn niet meer is dan die van de verticale middellijn.
 
-#### Artikel 3.05. Verboden tekens
+##### Artikel 3.05. Verboden tekens
 
 1. Een schip mag geen andere tekens voeren of tonen dan die welke in dit reglement worden vermeld en mag niet deze tekens voeren of tonen onder andere omstandigheden dan die welke in dit reglement zijn voorzien.
 
 2. Een schip mag voor het wisselen van berichten met andere schepen of met de wal geen tekens gebruiken die leiden tot verwarring met de in dit reglement vermelde tekens.
 
-#### Artikel 3.06. Noodlichten
+##### Artikel 3.06. Noodlichten
 
 Indien de lichten die een schip ingevolge dit reglement moet voeren niet kunnen werken, moeten deze onverwijld door noodlichten vervangen worden. Ingeval een krachtig licht wordt voorgeschreven, mag echter het noodlicht helder, en in geval een helder licht wordt voorgeschreven, mag het noodlicht gewoon zijn. Zo spoedig mogelijk moeten wederom lichten van de voorgeschreven sterkte in gebruik gesteld worden.
 
-#### Artikel 3.07. Verboden lichten, verlichting of zoeklichten dan wel vlaggen, borden of andere voorwerpen
+##### Artikel 3.07. Verboden lichten, verlichting of zoeklichten dan wel vlaggen, borden of andere voorwerpen
 
 1. Een schip mag geen lichten, verlichting of zoeklichten dan wel vlaggen, borden of andere voorwerpen doen zichtbaar zijn, die kunnen leiden tot verwarring met de in dit reglement vermelde tekens dan wel de waarneembaarheid of de herkenning daarvan kunnen bemoeilijken.
 
 2. Een schip mag zijn lichten dan wel zijn verlichting of zijn zoeklichten niet op zodanige wijze gebruiken, dat zij door verblinding gevaar of hinder voor de scheepvaart kunnen veroorzaken.
 
-#### Artikel 3.08. Lichten van alleenvarende motorschepen
+##### Artikel 3.08. Lichten van alleenvarende motorschepen
 
 1. Een alleenvarend motorschip moet voeren:
 
@@ -414,7 +439,7 @@ Indien de lichten die een schip ingevolge dit reglement moet voeren niet kunnen 
 
 3. Dit artikel is niet van toepassing op een klein schip.
 
-#### Artikel 3.09. Lichten van slepen
+##### Artikel 3.09. Lichten van slepen
 
 1. Het motorschip aan de kop van een sleep moet voeren:
 
@@ -438,11 +463,11 @@ Indien de laatste lengte van een sleep uit kleine schepen bestaat, wordt voor de
 
 4. Dit artikel is niet van toepassing op een klein schip dat slechts kleine schepen sleept of op een klein schip dat wordt gesleept.
 
-#### Artikel 3.10
+##### Artikel 3.10
 
 (niet overgenomen).
 
-#### Artikel 3.11. Lichten van gekoppelde samenstellen
+##### Artikel 3.11. Lichten van gekoppelde samenstellen
 
 Een gekoppeld samenstel moet voeren:
 
@@ -452,7 +477,7 @@ Een gekoppeld samenstel moet voeren:
 
 - c. een heklicht op elk schip. Dit licht moet voldoen aan artikel 3.08, eerste lid onder c. Dit artikel is niet van toepassing op een klein schip dat slechts langszijde daarvan vastgemaakte kleine schepen voortbeweegt of, langszijde van een ander schip vastgemaakt, wordt voortbewogen.
 
-#### Artikel 3.12. Lichten van zeilschepen
+##### Artikel 3.12. Lichten van zeilschepen
 
 1. Een zeilschip moet voeren:
 
@@ -462,7 +487,7 @@ Een gekoppeld samenstel moet voeren:
 
 2. Dit artikel is niet van toepassing op een klein schip.
 
-#### Artikel 3.13. Lichten van kleine schepen
+##### Artikel 3.13. Lichten van kleine schepen
 
 1. Een alleenvarend klein motorschip moet voeren:
 
@@ -492,21 +517,21 @@ Een gekoppeld samenstel moet voeren:
 
 5. Een klein door spierkracht voortbewogen schip moet een wit gewoon rondom schijnend licht voeren.
 
-#### Artikelen 3.14-3.17
+##### Artikelen 3.14-3.17
 
 (niet overgenomen).
 
-#### Artikel 3.18. Bijkomende lichten van schepen die onmanoeuvreerbaar worden
+##### Artikel 3.18. Bijkomende lichten van schepen die onmanoeuvreerbaar worden
 
 1. Een schip dat onmanoeuvreerbaar wordt, moet als bijkomend licht zo nodig tonen: een rood gewoon rondom schijnend licht waarmede heen en weer wordt gezwaaid. Een klein schip mag echter een wit licht tonen.
 
 2. Het schip moet zo nodig tevens de reglementaire geluidsseinen geven.
 
-#### Artikel 3.19
+##### Artikel 3.19
 
 (niet overgenomen).
 
-#### Artikel 3.20. Lichten van stilliggende schepen
+##### Artikel 3.20. Lichten van stilliggende schepen
 
 1. Een schip dat direct of indirect aan de oever gemeerd ligt, moet voeren: een wit gewoon rondom schijnend licht aan de zijde van het vaarwater op een hoogte van tenminste 3 m.
 
@@ -524,11 +549,11 @@ Een gekoppeld samenstel moet voeren:
 
 4. Dit artikel is niet van toepassing op de schepen, bedoeld in artikel 3.27.
 
-#### Artikelen 3.21-3.26
+##### Artikelen 3.21-3.26
 
 (niet overgenomen).
 
-#### Artikel 3.27. Lichten van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen
+##### Artikel 3.27. Lichten van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen
 
 1. Een in bedrijf zijnd drijvend werktuig en een schip dat in het vaarwater werken uitvoert dan wel peilingen of metingen verricht moeten voeren:
 
@@ -546,13 +571,13 @@ Deze lichten moeten zijn aangebracht op een zodanige hoogte, dat zij van alle zi
 
 3. De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid voorgeschreven lichten.
 
-#### Artikel 3.28. Bijkomende lichten van schepen, waarvan de ankers een gevaar voor de scheepvaart kunnen vormen
+##### Artikel 3.28. Bijkomende lichten van schepen, waarvan de ankers een gevaar voor de scheepvaart kunnen vormen
 
 1. Een schip waarvan een anker zodanig is uitgezet, dat het een gevaar voor de scheepvaart kan vormen, moet als bijkomend licht voeren: een tweede wit gewoon rondom schijnend licht ongeveer 1 m loodrecht onder het in artikel 3.20 bedoelde licht.
 
 2. Een schip moet het anker bedoeld in het eerste lid aanduiden door een boei voorzien van een wit gewoon rondom schijnend licht.
 
-#### Artikel 3.29. Dagtekens van slepen
+##### Artikel 3.29. Dagtekens van slepen
 
 1. Het motorschip aan de kop van een sleep moet voeren: een gele cylinder die aan de bovenzijde en aan de benedenzijde is voorzien van twee banden, zwart en wit, de witte banden aan de uiteinden van de cylinder, en die is aangebracht in verticale stand op het voorschip op een zodanige hoogte dat hij van alle zijden zichtbaar is.
 
@@ -564,25 +589,25 @@ Indien echter de laatste lengte van een sleep is samengesteld uit meer dan twee 
 
 4. Dit artikel is niet van toepassing op een klein schip dat slechts kleine schepen sleept of op een klein schip dat wordt gesleept.
 
-#### Artikel 3.30. Dagteken van schepen die tegelijkertijd door middel van zeilen en een motor worden voortbewogen
+##### Artikel 3.30. Dagteken van schepen die tegelijkertijd door middel van zeilen en een motor worden voortbewogen
 
 Een schip dat tegelijkertijd door middel van zijn zeilen en een motor wordt voortbewogen moet voeren: een zwarte kegel met de punt naar beneden, zo hoog mogelijk, op een plaats waar hij het best kan worden gezien.
 
-#### Artikelen 3.31-3.34
+##### Artikelen 3.31-3.34
 
 (niet overgenomen).
 
-#### Artikel 3.35. Bijkomende dagtekens van schepen die onmanoeuvreerbaar worden
+##### Artikel 3.35. Bijkomende dagtekens van schepen die onmanoeuvreerbaar worden
 
 1. Een schip dat onmanoeuvreerbaar wordt moet als bijkomend dagteken zo nodig tonen: een rode vlag waarmee heen en weer wordt gezwaaid. De vlag mag worden vervangen door een bord van dezelfde kleur.
 
 2. Het schip moet zonodig tevens de reglementaire geluidsseinen geven.
 
-#### Artikelen 3.36-3.40
+##### Artikelen 3.36-3.40
 
 (niet overgenomen).
 
-#### Artikel 3.41. Dagtekens van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen
+##### Artikel 3.41. Dagtekens van in bedrijf zijnde drijvende werktuigen en van vastgevaren of gezonken schepen
 
 1. Een in bedrijf zijnd drijvend werktuig en een schip dat in het vaarwater werken uitvoert dan wel peilingen of metingen verricht moeten voeren:
 
@@ -600,21 +625,21 @@ Deze tekens moeten zijn aangebracht op een zodanige hoogte dat zij van alle zijd
 
 3. De bevoegde autoriteit kan ontheffing verlenen van de verplichting tot het voeren van de bij het eerste lid voorgeschreven tekens.
 
-#### Artikel 3.42. Bijkomend dagteken van ankers van schepen die een gevaar voor de scheepvaart kunnen vormen
+##### Artikel 3.42. Bijkomend dagteken van ankers van schepen die een gevaar voor de scheepvaart kunnen vormen
 
 Een schip waarvan één of meer ankers zodanig zijn uitgezet, dat zij een gevaar voor de scheepvaart kunnen vormen, moet dit anker of elk van deze ankers aanduiden door een gele boei.
 
-#### Artikelen 3.43-3.44
+##### Artikelen 3.43-3.44
 
 (niet overgenomen).
 
-#### Artikel 3.45. Bijkomend teken van schepen van toezichthoudende ambtenaren
+##### Artikel 3.45. Bijkomend teken van schepen van toezichthoudende ambtenaren
 
 Een schip van toezichthoudende ambtenaren mag als bijkomend teken een blauw gewoon rondom schijnend flikkerlicht tonen.
 
 Hetzelfde geldt voor een brandweerboot, die hulp biedt of daartoe op weg is.
 
-#### Artikel 3.46. Noodtekens
+##### Artikel 3.46. Noodtekens
 
 1. Een in nood verkerend schip, dat hulp wil inroepen, moet de volgende seinen, hetzij afzonderlijk hetzij een combinatie hiervan, tonen dan wel geven:
 
@@ -630,13 +655,13 @@ Hetzelfde geldt voor een brandweerboot, die hulp biedt of daartoe op weg is.
 
 2. Een schip, dat medische hulp wil inroepen, mag geven: vier korte stoten, gevolgd door één lange stoot.
 
-#### Artikelen 3.47-3.54
+##### Artikelen 3.47-3.54
 
 (niet overgenomen).
 
 ### HOOFDSTUK 4. GELUIDSSEINEN VAN SCHEPEN
 
-#### Artikel 4.01. Algemene bepalingen
+##### Artikel 4.01. Algemene bepalingen
 
 1. De te gebruiken geluidsseinen zijn de volgende:
 
@@ -664,7 +689,7 @@ De tijdruimte tussen twee opeenvolgende stoten bedraagt ongeveer 1 seconde. Een 
 
 6. Een schip mag in plaats van een reeks klokslagen een reeks slagen van metaal op metaal geven.
 
-#### Artikel 4.02. Geven van geluidsseinen
+##### Artikel 4.02. Geven van geluidsseinen
 
 1. Een schip, met uitzondering van een klein schip, moet zo nodig zijn handelingen door de volgende geluidsseinen kenbaar maken:
 
@@ -682,13 +707,13 @@ De tijdruimte tussen twee opeenvolgende stoten bedraagt ongeveer 1 seconde. Een 
 
 2. Een klein schip moet zonodig het attentiesein en het sein "Ik kan niet manoeuvreren" geven en het mag zonodig één der overige algemene geluidsseinen geven.
 
-#### Artikel 4.03. Verboden geluidsseinen
+##### Artikel 4.03. Verboden geluidsseinen
 
 Een schip mag slechts van de geluidsinstallatie dan wel van de scheepstoeter of de hoorn gebruik maken voor het geven van de geluidsseinen welke in dit reglement worden vermeld en deze geluidsseinen niet geven onder andere omstandigheden dan die welke in dit reglement zijn voorzien.
 
 ### HOOFDSTUK 5. VERKEERSTEKENS
 
-#### Artikel 5.01. Vaststelling van de verkeerstekens
+##### Artikel 5.01. Vaststelling van de verkeerstekens
 
 1. Bijlage II bepaalt welke verkeerstekens voor het verkeer op de vaarweg kunnen worden aangebracht. Deze verkeerstekens bevatten een verbod of een gebod dan wel een aanbeveling of een inlichting. Bijlage II bepaalt eveneens de betekenis van die tekens.
 
@@ -696,7 +721,7 @@ Bijlage III bepaalt welke verkeerstekens ter markering van het vaarwater of van 
 
 2. Een schip is verplicht gevolg te geven aan een verkeersteken dat een verbod of een gebod bevat en rekening te houden met een verkeersteken dat een aanbeveling of een inlichting bevat dan wel dat dient ter markering van het vaarwater of van obstakels daarin.
 
-#### Artikel 5.02. Aanbrengen of verwijderen van verkeerstekens
+##### Artikel 5.02. Aanbrengen of verwijderen van verkeerstekens
 
 1. Een verkeersteken als bedoeld in artikel 5.01 kan in het belang van de veiligheid of de goede orde van de scheepvaart dan wel in het belang van andere gebruikers van de vaarweg worden aangebracht door of vanwege de bevoegde autoriteit.
 
@@ -704,7 +729,7 @@ Bijlage III bepaalt welke verkeerstekens ter markering van het vaarwater of van 
 
 ### HOOFDSTUK 6. VAARREGELS
 
-#### Artikel 6.01. Begripsbepalingen
+##### Artikel 6.01. Begripsbepalingen
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -714,13 +739,13 @@ Bijlage III bepaalt welke verkeerstekens ter markering van het vaarwater of van 
 
 2. Indien een schip in twijfel verkeert of een situatie, zoals bedoeld in het eerste lid onder a en b bestaat, moet het aannemen dat zulks het geval is en moet het dienovereenkomstig handelen.
 
-#### Artikel 6.02. Kleine schepen - algemene bepalingen
+##### Artikel 6.02. Kleine schepen - algemene bepalingen
 
 1. In dit hoofdstuk worden onder een klein schip mede begrepen een sleep of een gekoppeld samenstel, uitsluitend uit kleine schepen bestaande.
 
 2. Wanneer een vaarregel van dit hoofdstuk niet van toepassing is tussen een klein schip en een ander schip is het klein schip verplicht aan dit andere schip de ruimte te laten die dit nodig heeft om zijn koers te volgen en om te manoeuvreren; het mag niet verlangen, dat dit te zijnen gerieve uitwijkt.
 
-#### Artikel 6.03. Algemene beginselen
+##### Artikel 6.03. Algemene beginselen
 
 1. Schepen mogen slechts elkaar voorbijvaren op tegengestelde koersen dan wel elkaar voorbijlopen, indien het vaarwater voldoende ruimte biedt voor gelijktijdige doorvaart, de plaatselijke omstandigheden en de bewegingen van andere schepen daarbij in aanmerking genomen.
 
@@ -732,7 +757,7 @@ Bijlage III bepaalt welke verkeerstekens ter markering van het vaarwater of van 
 
 Indien door welke oorzaak ook, het schip dat verplicht is zijn koers en zijn snelheid te houden zich zo dicht bij het schip dat moet uitwijken bevindt, dat aanvaring door een handeling van dat schip alléén niet kan worden vermeden, moet het de maatregelen nemen die het beste kunnen bijdragen om aanvaring te voorkomen.
 
-#### Artikel 6.03a. Koers kruisen
+##### Artikel 6.03a. Koers kruisen
 
 1. Indien de koersen van twee schepen elkaar kruisen, zó, dat gevaar voor aanvaring bestaat, moet het schip dat het andere aan stuurboordzijde van zich heeft uitwijken en, indien de omstandigheden het toelaten, vermijden vóór het andere over te lopen.
 
@@ -760,7 +785,7 @@ Deze bepaling is niet van toepassing tussen een klein schip en een ander schip.
 
 4. Dit artikel is niet van toepassing bij kruisende koersen die kunnen ontstaan ingeval van keren, ingeval van het verlaten van de ankerplaats of de ligplaats, of ingeval van het oversteken van het hoofdvaarwater.
 
-#### Artikel 6.04. Recht tegen elkaar insturen - Hoofdregel
+##### Artikel 6.04. Recht tegen elkaar insturen - Hoofdregel
 
 1. Indien twee schepen recht tegen elkaar insturen, moet elk van beide naar stuurboord uitwijken, zodat zij elkaar bakboord op bakboord voorbijvaren.
 
@@ -770,7 +795,7 @@ Deze bepaling is niet van toepassing tussen een klein schip en een ander schip.
 
 3. Indien twee zeilschepen recht tegen elkaar insturen, is artikel 6.03a, derde lid, van overeenkomstige toepassing.
 
-#### Artikel 6.05. Recht tegen elkaar insturen
+##### Artikel 6.05. Recht tegen elkaar insturen
 
 1. Indien een opvarend schip en een afvarend schip recht tegen elkaar insturen, moet het opvarende schip voor het afvarende schip een geschikte weg vrijlaten, de plaatselijke omstandigheden en de bewegingen van andere schepen daarbij in aanmerking genomen.
 
@@ -794,17 +819,17 @@ Het opvarende schip mag deze tekens niet meer tonen, nadat het voorbijvaren heef
 
 6. Dit artikel is niet van toepassing tussen een klein schip en een ander schip noch tussen kleine schepen onderling.
 
-#### Artikelen 6.06-6.08
+##### Artikelen 6.06-6.08
 
 (niet overgenomen).
 
-#### Artikel 6.09. Voorbijlopen - algemene bepalingen
+##### Artikel 6.09. Voorbijlopen - algemene bepalingen
 
 1. Een schip mag een ander schip slechts voorbijlopen, nadat het zich er van heeft vergewist, dat dit zonder gevaar kan geschieden.
 
 2. Het schip dat wordt opgelopen moet het voorbijlopen, voorzover nodig en mogelijk, vergemakkelijken. Het moet snelheid verminderen, indien dit nodig is om het voorbijlopen zonder gevaar en in zo korte tijd te doen geschieden, dat de andere scheepvaart daardoor niet wordt gehinderd. Deze bepaling geldt niet voor een schip, niet zijnde een klein schip, dat wordt opgelopen door een klein schip.
 
-#### Artikel 6.10. Voorbijlopen
+##### Artikel 6.10. Voorbijlopen
 
 1. De oploper moet aan bakboord van de opgelopene voorbijlopen. Indien daartoe ruimte is, mag echter de oploper aan stuurboord van de opgelopene voorbijlopen.
 
@@ -844,11 +869,11 @@ De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen
 
 8. Het derde tot en met het zevende lid zijn niet van toepassing tussen een klein schip en een ander schip, noch tussen kleine schepen onderling.
 
-#### Artikelen 6.11-6.12
+##### Artikelen 6.11-6.12
 
 (niet overgenomen).
 
-#### Artikel 6.13. Keren
+##### Artikel 6.13. Keren
 
 1. Een schip mag slechts keren, nadat het zich er van heeft vergewist, dat, het tweede en derde lid in aanmerking genomen, dit zonder gevaar kan geschieden en zonder dat andere schepen worden genoodzaakt hun koers of hun snelheid plotseling en in sterke mate te wijzigen.
 
@@ -862,7 +887,7 @@ De opgelopene moet dan voldoende ruimte laten aan de zijde waar het voorbijlopen
 
 4. Tussen een klein schip en een ander schip zijn de voorgaande leden niet van toepassing. Tussen kleine schepen onderling zijn van de voorgaande leden alleen het eerste en het derde lid van toepassing.
 
-#### Artikel 6.14. Gedrag bij vertrek
+##### Artikel 6.14. Gedrag bij vertrek
 
 Artikel 6.13 is eveneens van toepassing op een schip dat zijn ankerplaats of zijn ligplaats verlaat zonder te keren. In plaats van de bij het tweede lid van dat artikel vermelde seinen evenwel moet dit schip geven:
 
@@ -870,11 +895,11 @@ Artikel 6.13 is eveneens van toepassing op een schip dat zijn ankerplaats of zij
 
 - -. twee korte stoten, zo het bakboord uitgaat.
 
-#### Artikel 6.15. Verbod zich in de tussenruimte tussen de lengten van een sleep te begeven
+##### Artikel 6.15. Verbod zich in de tussenruimte tussen de lengten van een sleep te begeven
 
 Een schip mag zich niet in de tussenruimten tussen de lengten van een sleep begeven.
 
-#### Artikel 6.16. Uitvaren en invaren van havens en nevenvaarwegen en het daarbij invaren of oversteken van het hoofdvaarwater
+##### Artikel 6.16. Uitvaren en invaren van havens en nevenvaarwegen en het daarbij invaren of oversteken van het hoofdvaarwater
 
 1. Een schip mag slechts een haven of een nevenvaarwater uitvaren en het hoofd vaarwater invaren of oversteken, danwel een haven of een nevenvaarwater invaren, nadat het zich er van heeft vergewist, dat dit zonder gevaar kan geschieden en zonder dat andere schepen worden genoodzaakt hun koers of hun snelheid plotseling en in sterke mate te wijzigen.
 
@@ -898,23 +923,23 @@ Vóór het einde van het oversteken moet het schip zo nodig geven:
 
 4. Tussen een klein schip en een ander schip zijn de voorgaande leden niet van toepassing. Tussen kleine schepen onderling zijn van de voorgaande leden alleen het eerste en het derde lid van toepassing.
 
-#### Artikel 6.17. Op gelijke hoogte varen; verbod dicht langs een varend schip te varen
+##### Artikel 6.17. Op gelijke hoogte varen; verbod dicht langs een varend schip te varen
 
 1. Een schip mag slechts met een ander schip op gelijke hoogte varen, indien de beschikbare ruimte dit zonder hinder of gevaar voor de scheepvaart toelaat.
 
 2. Een schip mag niet langszijde komen van een varend schip, daaraan vastmaken of zich in het kielzog daarvan laten meevoeren zonder uitdrukkelijke toestemming van de schipper daarvan.
 
-#### Artikel 6.18. Verbod om ankers, kabels of kettingen te laten slepen
+##### Artikel 6.18. Verbod om ankers, kabels of kettingen te laten slepen
 
 1. Een schip mag niet een anker, een kabel of een ketting laten slepen.
 
 2. Dit verbod geldt niet voor een schip dat zich verplaatst op een ligplaats of dat een manoeuvre uitvoert.
 
-#### Artikel 6.19. Zich laten drijven
+##### Artikel 6.19. Zich laten drijven
 
 Een schip mag zich niet met de stroom laten meedrijven zonder dat het van een middel tot voortbeweging gebruik maakt.
 
-#### Artikel 6.20. Hinderlijke waterbeweging
+##### Artikel 6.20. Hinderlijke waterbeweging
 
 Een schip moet zijn snelheid zodanig regelen, dat hinderlijke waterbeweging waardoor schade aan een varend of een stilliggend schip of aan een werk zou kunnen worden veroorzaakt wordt vermeden. Het moet tijdig zijn snelheid verminderen, echter niet beneden de snelheid nodig voor het veilig sturen:
 
@@ -926,15 +951,15 @@ Een schip moet zijn snelheid zodanig regelen, dat hinderlijke waterbeweging waar
 
 - d. bij het voorbijvaren van een schip als bedoeld in de artikelen 3.27 en 3.41 aan de zijde waar de tekens van het eerste lid onder c van elk dezer artikelen worden getoond. Het moet voorts zover mogelijk daarvan verwijderd blijven.
 
-#### Artikel 6.21. Manoeuvreerbaarheid van samenstellen
+##### Artikel 6.21. Manoeuvreerbaarheid van samenstellen
 
 Een motorschip dat zorgt voor de voortbeweging van een samenstel moet een vermogen hebben dat voldoende is om de goede manoeuvreerbaarheid daarvan te verzekeren.
 
-#### Artikelen 6.22-6.29
+##### Artikelen 6.22-6.29
 
 (niet overgenomen).
 
-#### Artikel 6.30. Algemene bepalingen voor het varen bij slecht zicht
+##### Artikel 6.30. Algemene bepalingen voor het varen bij slecht zicht
 
 1. Een varend schip moet een snelheid aanhouden die is aangepast aan de mate van beperking van het zicht, aan de aanwezigheid en de bewegingen van andere schepen en aan de plaatselijke omstandigheden.
 
@@ -954,7 +979,7 @@ Bij een samenstel behoeft alleen het voorste schip de uitkijk te hebben. Een kle
 
 7. Een schip dat de vaart voortzet en dat is uitgerust met een marifooninstallatie die geschikt is voor gebruik van de kanalen voor schip-schipverkeer, moet uitluisteren op het daartoe aangewezen kanaal en aan andere schepen de nodige inlichtingen ter verzekering van de veiligheid van de scheepvaart geven.
 
-#### Artikel 6.31. Geluidssein van een schip dat stilligt of dat is vastgevaren
+##### Artikel 6.31. Geluidssein van een schip dat stilligt of dat is vastgevaren
 
 1. Een schip, dat in het vaarwater of in de nabijheid daarvan op een gevaarlijke plaats gestrekt langs de zijde van het vaarwater stilligt, moet het geluidssein van een naderend schip telkens beantwoorden door het geven van één reeks klokslagen.
 
@@ -966,11 +991,11 @@ Het schip moet dit sein herhalen met tussenpozen van ten hoogste één minuut.
 
 3. De verplichting, bedoeld in het eerste en in het tweede lid, geldt niet voor een schip dat in een haven stilligt, of dat stilligt op een door de bevoegde autoriteit daartoe aangewezen plaats.
 
-#### Artikel 6.32
+##### Artikel 6.32
 
 (niet overgenomen).
 
-#### Artikel 6.33. Schepen die bij slecht zicht de vaart voortzetten
+##### Artikel 6.33. Schepen die bij slecht zicht de vaart voortzetten
 
 1. Een niet op radar varend schip moet als mistsein geven één lange stoot.
 
@@ -984,7 +1009,7 @@ Het sein mag worden herhaald.
 
 3. Een niet op radar varend schip hetwelk hoort dat het voorlijker dan dwars een ander schip nadert, moet zijn snelheid verminderen tot een minimum waarbij het op koers kan worden gehouden en het moet uiterst voorzichtig manoeuvreren dan wel zo nodig stilhouden.
 
-#### Artikel 6.33a. Snelheid
+##### Artikel 6.33a. Snelheid
 
 1. Een schip mag niet varen met een grotere snelheid dan 16 km/u ten opzichte van de oever.
 
@@ -1004,7 +1029,7 @@ Het sein mag worden herhaald.
 
 4. De bevoegde autoriteit kan de vakken bedoeld in het tweede en het derde lid wijzigen. Een dergelijke wijziging verbindt niet eerder dan nadat zij door middel van een bekendmaking is afgekondigd.
 
-#### Artikel 6.33b. Varen met snelle motorboten - waterskiën
+##### Artikel 6.33b. Varen met snelle motorboten - waterskiën
 
 1. Een snelle motorboot moet zodanig varen en een waterskiër moet zich zodanig gedragen dat geen hinder of gevaar voor andere gebruikers van de vaarweg of de aanhorigheden ervan kan worden veroorzaakt.
 
@@ -1026,27 +1051,27 @@ Het sein mag worden herhaald.
 
 4. Waterskiën is uitsluitend toegestaan op de vakken vermeld in artikel 6.33a, derde lid.
 
-#### Artikel 6.33c. Plankzeilen, zwemmen en duiken
+##### Artikel 6.33c. Plankzeilen, zwemmen en duiken
 
 In de in artikel 6.33a, derde lid, aangewezen vakken is het verboden te varen met een zeilplank, dan wel te zwemmen of te duiken.
 
-#### Artikel 6.33d. Stiltezone voor sportvissers
+##### Artikel 6.33d. Stiltezone voor sportvissers
 
 Een motorschip mag niet varen op de linkerhelft van de vaarweg in het vak tussen km 5.970 en km 8.860, noch binnen 20 m uit de linkeroever in het vak tussen km 57.000 en km 59.500.
 
-#### Artikel 6.33e. Verboden activiteiten
+##### Artikel 6.33e. Verboden activiteiten
 
 Het is verboden zich boven de vaarweg door de lucht te laten voortbewegen.
 
 ### HOOFDSTUK 7. REGELS VOOR HET LIGPLAATS NEMEN
 
-#### Artikel 7.01. Algemene beginselen voor het ligplaats nemen
+##### Artikel 7.01. Algemene beginselen voor het ligplaats nemen
 
 1. Een schip moet zodanig ligplaats nemen, dat de scheepvaart niet wordt belemmerd.
 
 2. Een schip, een samenstel en een drijvend voorwerp die stilliggen moeten zodanig zijn verankerd of gemeerd, dat zij door verandering van hun positie geen gevaar of hinder voor andere schepen kunnen vormen, waarbij met name rekening moet worden gehouden met wind, stroom en verandering van de waterstand, alsmede met zuiging en golfslag.
 
-#### Artikel 7.02. Ligplaats nemen (ankeren en meren)
+##### Artikel 7.02. Ligplaats nemen (ankeren en meren)
 
 1. Een schip mag geen ligplaats nemen, met uitzondering van de volgende gevallen:
 
@@ -1060,11 +1085,11 @@ Het is verboden zich boven de vaarweg door de lucht te laten voortbewegen.
 
 3. De bevoegde autoriteit kan van dit artikel ontheffing verlenen.
 
-#### Artikelen 7.03-7.07
+##### Artikelen 7.03-7.07
 
 (niet overgenomen).
 
-#### Artikel 7.08. Toezicht
+##### Artikel 7.08. Toezicht
 
 Een stilliggend schip moet, voor zover het geen schipper heeft, zijn gesteld onder toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij de bevoegde autoriteit aan een schip van deze verplichting vrijstelling heeft verleend, dan wel zij gedoogt dat dit zonder toezicht stilligt.
 

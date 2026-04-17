@@ -1,13 +1,36 @@
 ---
 title: "Opleiding leraar Nederlands als tweede taal in het basisonderwijs"
 identifier: "BWBR0011657"
-categorie: "Onderwijs"
-publicatiedatum: 2000-10-04
-laatste_update: 2000-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011657"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-10-04"
+last_updated: "2000-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011657"
+soort: "beleidsregel"
+stam_id: "6463893"
+version_id: "11139782"
+internal_id: "C15058451"
+label_id: "6452614"
+original_entry_into_force: "2000-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011657/2000-10-04/0"
+intitule_bron: "Uitleg.2000-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-21"
+intitule_published: "2000-10-04"
+intitule_in_force: "2000-10-04"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-23"
+original_signed_date: "2000-09-21"
+original_published_date: "2000-10-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-10-04"
+jci_1_3: "jci1.3:c:BWBR0011657&z=2000-10-04&g=2000-10-04"
+jci_1_0: "1.0:c:BWBR0011657&g=2000-10-04"
+citeertitel_status: "redactioneel"
+signed_date: "2000-09-21"
+entry_into_force: "2000-10-04"
 ---
-
 # Opleiding leraar Nederlands als tweede taal in het basisonderwijs
 
 ### Inleiding

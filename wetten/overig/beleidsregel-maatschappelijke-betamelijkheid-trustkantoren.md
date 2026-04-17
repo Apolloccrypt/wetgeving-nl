@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel maatschappelijke betamelijkheid trustkantoren"
+title: "Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)"
 identifier: "BWBR0043070"
-categorie: "Overig"
-publicatiedatum: 2020-01-16
-laatste_update: 2020-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043070"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-16"
+last_updated: "2020-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043070"
+soort: "zbo"
+stam_id: "15320503"
+version_id: "26412902"
+internal_id: "C37528091"
+label_id: "15265974"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043070/2020-01-16/0"
+intitule_bron: "Stcrt.2020-2288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-01-07"
+intitule_published: "2020-01-15"
+intitule_in_force: "2020-01-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-2288"
+original_signed_date: "2020-01-07"
+original_published_date: "2020-01-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-2288"
+entry_into_force_date: "2020-01-16"
+jci_1_3: "jci1.3:c:BWBR0043070&z=2020-01-16&g=2020-01-16"
+jci_1_0: "1.0:c:BWBR0043070&g=2020-01-16"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel maatschappelijke betamelijkheid trustkantoren"
+signed_date: "2020-01-07"
+entry_into_force: "2020-01-16"
 ---
-
 # Beleidsregel van De Nederlandsche Bank N.V. over de wijze waarop zij in het toezicht de naleving beoordeelt in hoeverre trustkantoren het risico beheersen op betrokkenheid van het trustkantoor of zijn medewerkers bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad (Beleidsregel maatschappelijke betamelijkheid trustkantoren)
 
 gelet op [artikel 14, eerste, tweede en vierde lid, onderdeel a, subonderdeel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=14) en [artikel 41, derde lid, van de Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=41) en [artikel 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) juncto [artikel 1:3, vierde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:3);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Definities
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling/beleidsregel wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze regeling/beleidsregel wordt verstaan onder:
 
 - **Wtt 2018:** [Wet toezicht trustkantoren 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583).
 
-#### Artikel 2. Beleid en procedures ten aanzien van maatschappelijke betamelijkheid
+##### Artikel 2. Beleid en procedures ten aanzien van maatschappelijke betamelijkheid
 
 1. Bij het toezicht op de naleving van [artikel 14, eerste lid, van de Wtt 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0041583&artikel=14), neemt DNB in aanmerking of het in dat artikel genoemde beleid een specifiek en voldoende uitgewerkt onderdeel bevat om het risico tegen te gaan dat het trustkantoor of zijn medewerkers betrokken raken bij handelingen die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in het trustkantoor of in de financiële markten ernstig kan worden geschaad.
 
@@ -68,18 +94,18 @@ In deze regeling/beleidsregel wordt verstaan onder:
 
 6. DNB verwacht dat het trustkantoor aantoonbaar stimuleert dat op een voor haar passende wijze een actieve discussie binnen het eigen trustkantoor wordt gevoerd over hetgeen al dan niet als maatschappelijk betamelijk kan worden gezien.
 
-#### Artikel 3. Akkoorden en convenanten
+##### Artikel 3. Akkoorden en convenanten
 
 DNB verwacht dat trustkantoren een concreet plan hebben om vast te kunnen stellen op welke wijze bij het committeren aan of publiekelijk onderschrijven van nationale of internationale akkoorden, richtlijnen, convenanten of andere vormen van geformaliseerde samenwerking, het bereiken van voornoemde maatschappelijke doelen binnen het trustkantoor wordt vormgegeven. In dat plan moet opgenomen zijn hoe het trustkantoor opvolging gaat geven aan de afspraken. Daarnaast moet het trustkantoor duidelijke processen hebben ingericht die veiligstellen dat voornoemde toezeggingen doorlopend nagekomen worden.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na publicatie in de Staatscourant. Deze beleidsregel wordt inclusief de toelichting in de Staatscourant geplaatst.
 
-#### Artikel 5. Evaluatie
+##### Artikel 5. Evaluatie
 
 Deze beleidsregel wordt één jaar na publicatie in de Staatscourant geëvalueerd.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel maatschappelijke betamelijkheid trustkantoren.

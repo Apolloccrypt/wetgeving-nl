@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake sociale zekerheid"
 identifier: "BWBV0001422"
-categorie: "Sociaal recht"
-publicatiedatum: 2000-02-01
-laatste_update: 2000-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001422"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-02-01"
+last_updated: "2000-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001422"
+soort: "verdrag"
+stam_id: "10000605853"
+version_id: "10000623982"
+internal_id: "C10006990031"
+label_id: "10000606094"
+original_entry_into_force: "2000-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001422/2000-02-01/0"
+intitule_bron: "Trb.1999-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-22"
+intitule_published: "1999-01-14"
+intitule_in_force: "1999-12-31"
+intitule_status: "goed"
+original_publication: "Trb.1999-10"
+original_signed_date: "1999-11-22"
+original_published_date: "1999-01-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-10"
+entry_into_force_date: "2000-02-01"
+jci_1_3: "jci1.3:c:BWBV0001422&z=2000-02-01&g=2000-02-01"
+jci_1_0: "1.0:c:BWBV0001422&g=2000-02-01"
+citeertitel_status: "officieel"
+signed_date: "1999-11-22"
+entry_into_force: "2000-02-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk inzake sociale zekerheid
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +46,7 @@ Zijn overeengekomen het volgende Verdrag te sluiten, dat in de plaats zal treden
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit Verdrag wordt verstaan onder:
 
@@ -32,11 +56,11 @@ Zijn overeengekomen het volgende Verdrag te sluiten, dat in de plaats zal treden
 
 2. In dit Verdrag hebben andere termen de betekenis welke daaraan in de Verordening en de Toepassingsverordening of in de nationale wetgeving wordt gegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is van toepassing op de wettelijke regelingen waarop de materiële werkingssfeer van de Verordening betrekking heeft.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit Verdrag is van toepassing op personen, die vallen onder de personele werkingssfeer van de Verordening.
 
@@ -46,13 +70,13 @@ Dit Verdrag is van toepassing op de wettelijke regelingen waarop de materiële w
 
 - b. personen die gezinsleden of nagelaten betrekkingen zijn van de in letter a. genoemde personen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De onderdanen van een Verdragsluitende Staat die buiten het gebied van een Staat wonen waarvoor de Verordening van toepassing is, worden voor de toepassing van de wetgeving van de andere Verdragsluitende Staat met de onderdanen van deze Staat gelijkgesteld.
 
 2. Het eerste lid laat onverlet de wettelijke regelingen van de beide Verdragsluitende Staten betreffende de verzekering van personen die in dienst zijn bij een officiële vertegenwoordiging van een van beide Verdragsluitende Staten in een andere Staat dan die waarvoor de Verordening van toepassing is, of bij leden van een zodanige vertegenwoordiging.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Op de in artikel 3, tweede lid, genoemde personen zijn in de onderlinge betrekkingen tussen de beide Verdragsluitende Staten, de Verordening, de Toepassingsverordening en de voor de toepassing daarvan getroffen akkoorden van overeenkomstige toepassing, voorzover in dit Verdrag niet anders wordt bepaald.
 
@@ -64,7 +88,7 @@ Dit Verdrag is van toepassing op de wettelijke regelingen waarop de materiële w
 
 ## TITEL II. BIJZONDERE BEPALINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 In die gevallen waarin de Verdragsluitende Staten in plaats van de in de artikelen 93 tot en met 96 van de Toepassingsverordening geregelde vergoeding van kosten een vergoeding op basis van een vast bedrag of een afzien van vergoeding overeenkomen, kunnen de bevoegde autoriteiten van beide Verdragsluitende Staten het volgende overeenkomen:
 
@@ -72,11 +96,11 @@ In die gevallen waarin de Verdragsluitende Staten in plaats van de in de artikel
 
 - b. maatregelen ter voorkoming van buitengewone belasting, die zich voor een orgaan of voor een verbindingsorgaan zouden kunnen voordoen als gevolg van de vergoeding op basis van een vast bedrag of als gevolg van het afzien van vergoeding.
 
-#### Artikel 7
+##### Artikel 7
 
 Op de in artikel 3, tweede lid, genoemde personen is artikel 67 van de Verordening van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Op de in artikel 3, eerste en tweede lid, genoemde personen, die buiten het grondgebied van een Staat wonen waarvoor de Verordening van toepassing is, en op de in artikel 3, tweede lid, bedoelde personen die op het grondgebied van een Staat wonen, waarvoor de Verordening van toepassing is, is ten aanzien van
 
@@ -86,7 +110,7 @@ Op de in artikel 3, eerste en tweede lid, genoemde personen, die buiten het gron
 
 Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de in artikel 3, tweede lid, genoemde personen stelt het Nederlandse bevoegde orgaan het ouderdomspensioen rechtstreeks en uitsluitend vast op basis van de tijdvakken van verzekering die krachtens de wetgeving betreffende de algemene ouderdomsverzekering (AOW) zijn vervuld.
 
@@ -96,7 +120,7 @@ Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
 ## TITEL III. DIVERSE BEPALINGEN
 
-#### Artikel 10
+##### Artikel 10
 
 1. De voor tenuitvoerlegging vatbare beslissingen van gerechten alsmede de voor tenuitvoerlegging vatbare documenten en bewijzen inzake achterstallige schulden (akten) van de organen of de autoriteiten van een Verdragsluitende Staat inzake premies en overige vorderingen op het terrein van de sociale verzekering worden in de andere Verdragsluitende Staat erkend.
 
@@ -104,7 +128,7 @@ Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
 3. De voor tenuitvoerlegging vatbare beslissingen en akten welke overeenkomstig het eerste lid zijn erkend, worden in de andere Verdragsluitende Staat ten uitvoer gelegd. De procedure tot uitvoerbaarverklaring wordt beheerst door de wettelijke bepalingen welke in de Verdragsluitende Staat op het grondgebied waarvan de tenuitvoerlegging moet plaatsvinden, van kracht zijn voor de tenuitvoerlegging van overeenkomstige beslissingen en akten welke in deze Staat zijn gegeven, onderscheidenlijk opgemaakt. Het authentieke afschrift van de beslissing of de akte moet zijn voorzien van de bevestiging van haar tenuitvoerlegging (verlof tot tenuitvoerlegging).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Geschillen tussen de Verdragsluitende Staten met betrekking tot de uitlegging of toepassing van dit Verdrag worden, voor zover mogelijk, door de bevoegde autoriteiten van de Verdragsluitende Staten bijgelegd.
 
@@ -118,15 +142,15 @@ Titel III, Hoofdstuk 3, van de Verordening van overeenkomstige toepassing.
 
 ## TITEL IV. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 12
+##### Artikel 12
 
 Voor de vaststelling of de hernieuwde vaststelling van de aan dit Verdrag te ontlenen rechten zijn met de inwerkingtreding van dit Verdrag de artikelen 94 en 95 van de Verordening, alsmede de artikelen 118 en 119 van de Toepassingsverordening van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 Bij toepassing van Bijlage VI, J. Nederland, cijfer 2, letters b, d, f en g, van de Verordening treedt wat betreft de in artikel 3, eerste lid, genoemde personen de datum van inwerkingtreding van de Verordening in de onderlinge betrekkingen tussen beide Verdragsluitende Partijen in de plaats van 2 augustus 1989.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging zullen zo spoedig mogelijk te 's-Gravenhage worden uitgewisseld.
 
@@ -136,7 +160,7 @@ Bij toepassing van Bijlage VI, J. Nederland, cijfer 2, letters b, d, f en g, van
 
 4. In geval van opzegging blijven de bepalingen van het Verdrag voor verkregen rechten van kracht.
 
-#### Artikel 15
+##### Artikel 15
 
 Vanaf de datum van inwerkingtreding van dit Verdrag houden op van kracht te zijn:
 

@@ -1,18 +1,43 @@
 ---
 title: "Wet organisatie bloedvoorziening BES"
 identifier: "BWBR0028454"
-categorie: "Overig"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028454"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028454"
+soort: "wet-BES"
+stam_id: "10789483"
+version_id: "17767822"
+internal_id: "C24822741"
+label_id: "10764384"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028454/2018-08-01/0"
+intitule_bron: "Stb.2010-637"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-22"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-637"
+original_signed_date: "2010-09-22"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-637"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028454&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0028454&g=2018-08-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-22"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet organisatie bloedvoorziening BES
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Bloedvoorziening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister stelt met het oog op een doeltreffende en doelmatige bloedvoorziening na overleg met het bestuurscollege periodiek een meerjarenplan inzake de bloedvoorziening vast. Uitgangspunten daarbij zijn dat:
 
@@ -52,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Onze Minister zendt een afschrift van het plan aan de Staten. Van de vaststelling van het plan wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister wijst één rechtspersoon aan die ter uitvoering van het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01), tot taak heeft:
 
@@ -84,13 +109,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 6. Bij algemene maatregel van bestuur, kunnen regels worden gesteld met betrekking tot de overdracht van de in het eerste lid, onder b bedoelde activiteiten ingeval een aanwijzing is ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden bloed in te zamelen anders dan in opdracht van de Bloedvoorzieningsorganisatie.
 
 2. Het is verboden aan een donor andere dan door hem in redelijkheid gemaakte kosten te vergoeden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Bloedvoorzieningsorganisatie voert de werkzaamheden betreffende het inzamelen van bloed en het bereiden van tussenproducten en bloedproducten uit het ingezamelde bloed, alsmede het bewaren, verpakken, etiketteren, vervoeren en afleveren daarvan, op verantwoorde wijze uit. Onder verantwoord wordt in ieder geval verstaan: doeltreffend en doelmatig alsmede gericht op een zo hoog mogelijke kwaliteit van de tussenproducten en bloedproducten van het ingezamelde bloed en een zo groot mogelijke veiligheid van donor en gebruiker.
 
@@ -112,7 +137,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De aanwijzingen worden bekendgemaakt in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De taak, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), omvat mede de systematische bewaking, beheersing en verbetering van de bloedvoorziening.
 
@@ -128,7 +153,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig aanpassen van de wijze waarop de werkzaamheden ten behoeve van de bloedvoorziening worden verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Bloedvoorzieningsorganisatie dient jaarlijks vóór 1 december een begroting en een beleidsplan in bij Onze Minister.
 
@@ -138,13 +163,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onze Minister onthoudt zijn goedkeuring aan de begroting of het beleidsplan indien deze in strijd zijn met het bepaalde bij of krachtens deze wet, waaronder begrepen het plan, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=2&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Bloedvoorzieningsorganisatie brengt jaarlijks vóór 1 juni verslag uit aan Onze Minister over de vervulling van haar taken en de uitvoering van de werkzaamheden in het afgelopen kalenderjaar. Onze Minister kan regels stellen over de inrichting van het verslag.
 
 2. Zodra de Bloedvoorzieningsorganisatie het jaarverslag en de jaarrekening heeft vastgesteld, stelt zij deze aan Onze Minister ter beschikking.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Bloedvoorzieningsorganisatie verstrekt voor een goede uitvoering van deze wet Onze Minister de door deze gevraagde gegevens.
 
@@ -152,7 +177,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De Bloedvoorzieningsorganisatie stelt Onze Minister onverwijld in kennis van elk geval van risico’s voor het leven of de gezondheid van mensen, ontstaan of te vrezen als gevolg van gebreken in de bloedvoorziening in Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=5&z=2018-08-01&g=2018-08-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=6&z=2018-08-01&g=2018-08-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=8&z=2018-08-01&g=2018-08-01) of [9](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=9&z=2018-08-01&g=2018-08-01) niet of in onvoldoende mate of op onjuiste wijze wordt nageleefd, kan hij de Bloedvoorzieningsorganisatie een schriftelijke aanwijzing geven.
 
@@ -164,13 +189,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Indien de Bloedvoorzieningsorganisatie inzake het vierde lid in gebreke blijft, kan Onze Minister een bewindvoerder over de Bloedvoorzieningsorganisatie aanstellen.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien Onze Minister van oordeel is dat de Bloedvoorzieningsorganisatie haar taken, genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), niet op verantwoorde wijze vervult, kan hij ter zake regels vaststellen.
 
 ### Hoofdstuk 3. Aflevering
 
-#### Artikel 12
+##### Artikel 12
 
 Het is verboden bloedproducten af te leveren aan anderen dan:
 
@@ -184,7 +209,7 @@ Het is verboden bloedproducten af te leveren aan anderen dan:
 
 - 3. Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder c, indien naar zijn oordeel het belang van een in geneeskundig opzicht doelmatige voorziening in de behoefte aan bloedproducten zulks vordert dan wel een bijzondere omstandigheid daartoe aanleiding geeft. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing. Zodanige aanwijzing, alsmede wijziging of intrekking ervan, wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het is verboden tussenproducten af te leveren aan anderen dan:
 
@@ -200,13 +225,13 @@ door Onze Minister aangewezen andere natuurlijke of rechtspersonen.
 
 3. Onze Minister wijst slechts de personen aan, bedoeld in het eerste lid, onder d, indien naar zijn oordeel het belang van een doelmatige voorziening in de behoefte aan bloedproducten daardoor niet wordt geschaad, dan wel een bijzondere omstandigheid daartoe aanleiding geeft. [Artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=2&artikel=3&z=2018-08-01&g=2018-08-01), is van overeenkomstige toepassing. Zodanige aanwijzing, alsmede wijziging of intrekking ervan, wordt bekendgemaakt in de Staatscourant.
 
-#### Artikel 14
+##### Artikel 14
 
 Het is verboden de aflevering van bloedproducten en tussenproducten te laten geschieden tegen een vergoeding die meer bedraagt dan de kosten welke ten behoeve van het inzamelen van bloed, het bereiden, bewaren, verpakken, etiketteren of afleveren zijn gemaakt.
 
 ### Hoofdstuk 4. In- en uitvoer
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het is verboden bloedproducten en tussenproducten uit een ander land in te voeren zonder vergunning van Onze Minister.
 
@@ -222,7 +247,7 @@ Het is verboden de aflevering van bloedproducten en tussenproducten te laten ges
 
 - c. ten aanzien van een instelling van wetenschappelijk onderzoek, voor zover het in te voeren bloedproduct of tussenproduct bestemd is voor wetenschappelijk onderzoek.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het is verboden bloedproducten en tussenproducten uit te voeren naar een ander land zonder vergunning van Onze Minister.
 
@@ -240,17 +265,17 @@ Het is verboden de aflevering van bloedproducten en tussenproducten te laten ges
 
 ### Hoofdstuk 5. Kostenvergoeding
 
-#### Artikel 17
+##### Artikel 17
 
 Bij algemene maatregel van bestuur, kan worden bepaald dat bij het indienen van een aanvraag om een aanwijzing als bedoeld in de [artikelen 12, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=3&artikel=12&z=2018-08-01&g=2018-08-01), en [13, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=3&artikel=13&z=2018-08-01&g=2018-08-01), dan wel een vergunning als bedoeld in de [artikelen 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=4&artikel=15&z=2018-08-01&g=2018-08-01), en [16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=4&artikel=16&z=2018-08-01&g=2018-08-01), een bedrag moet worden betaald, waarvan de hoogte bij die algemene maatregel van bestuur wordt geregeld, doch ten hoogste de kosten verbonden aan de behandeling van het verzoek en de afgifte van de aanwijzing of vergunning mag bedragen. Bij ministeriële regeling met algemene werking kunnen regels worden gesteld omtrent de wijze van betaling.
 
 ### Hoofdstuk 6. Toezicht- en opsporing
 
-#### Artikel 18
+##### Artikel 18
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) bedoelde personen, belast daartoe bij algemene maatregel van bestuur aangewezen ambtenaren werkzaam bij de Inspectie gezondheidszorg en jeugd. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 185 tot en met 188](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=185) en [190 van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=190), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -260,7 +285,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ### Hoofdstuk 7. Strafbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van ten hoogste een boete van de vijfde categorie wordt gestraft degene die handelt in strijd met:
 
@@ -270,7 +295,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 2. De in het eerste lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Degene die opzettelijk de bij [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028454&hoofdstuk=8&artikel=22&z=2018-08-01&g=2018-08-01) opgelegde plicht tot geheimhouding schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste twee jaren hetzij met een geldboete van ten hoogste een boete van de vierde categorie hetzij met beide straffen. Het in dit lid strafbaar gestelde feit is een misdrijf.
 
@@ -280,32 +305,32 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 ### Hoofdstuk 8. Bijzondere bepaling
 
-#### Artikel 22
+##### Artikel 22
 
 Een ieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot bekendmaking voortvloeit.
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]
 
-#### Artikel 24
+##### Artikel 24
 
 [vervallen]
 
-#### Artikel 25
+##### Artikel 25
 
 [vervallen]
 
-#### Artikel 26
+##### Artikel 26
 
 Onze Minister zendt binnen vijf jaar na inwerkingtreding van deze wet en vervolgens telkens na vier jaar, aan de Staten een verslag over de doeltreffendheid en doelmatigheid van deze wet.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze wet treedt in werking met ingang van een bij algemene maatregel van bestuur te bepalen tijdstip.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet organisatie bloedvoorziening BES.

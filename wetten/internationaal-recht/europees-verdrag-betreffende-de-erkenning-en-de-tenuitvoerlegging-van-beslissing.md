@@ -1,13 +1,35 @@
 ---
 title: "Europees Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen"
 identifier: "BWBV0003995"
-categorie: "Internationaal recht"
-publicatiedatum: 1990-09-01
-laatste_update: 1990-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003995"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-09-01"
+last_updated: "1990-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003995"
+soort: "verdrag"
+stam_id: "10003805453"
+version_id: "10003871222"
+internal_id: "C10006980401"
+label_id: "10003790444"
+dtd_version: "2.0"
+original_entry_into_force: "1990-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003995/1990-09-01/0"
+intitule_bron: "Trb.1980-134"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-08-14"
+intitule_in_force: "1990-07-09"
+intitule_status: "goed"
+original_publication: "Trb.1980-134"
+original_published_date: "1980-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-134"
+entry_into_force_date: "1990-09-01"
+jci_1_3: "jci1.3:c:BWBV0003995&z=1990-09-01&g=1990-09-01"
+jci_1_0: "1.0:c:BWBV0003995&g=1990-09-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1990-09-01"
 ---
-
 # Europees Verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen
 
 De Lid-Staten van de Raad van Europa, die dit Verdrag hebben ondertekend,
@@ -28,7 +50,7 @@ Verlangend een juridische samenwerking tot stand te brengen tussen hun autoritei
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
@@ -46,7 +68,7 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 ## TITEL I. Centrale autoriteiten
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedere Verdragsluitende Staat wijst een centrale autoriteit aan die de in dit Verdrag bedoelde taken uitvoert.
 
@@ -54,7 +76,7 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 3. Iedere aanwijzing krachtens dit artikel moet ter kennis worden gebracht van de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De centrale autoriteiten van de Verdragsluitende Staten moeten onderling samenwerken en samenwerking tussen de bevoegde autoriteiten van hun onderscheiden landen bevorderen. Zij moeten handelen met de nodige voortvarendheid.
 
@@ -66,7 +88,7 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 - c. elkaar op de hoogte houden van de moeilijkheden die zich zouden kunnen voordoen bij de toepassing van het Verdrag en, voor zover mogelijk, trachten de belemmeringen voor de toepassing ervan weg te nemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een ieder die in een Verdragsluitende Staat een beslissing heeft verkregen betreffende het gezag over een kind en die wenst dat die beslissing in een andere Verdragsluitende Staat wordt erkend of ten uitvoer gelegd, kan een daartoe strekkend verzoek richten tot de centrale autoriteit van een Verdragsluitende Staat.
 
@@ -78,7 +100,7 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 5. De centrale autoriteit waartoe het verzoek wordt gericht, deelt de verzoeker onverwijld mede welk gevolg aan zijn verzoek is gegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De centrale autoriteit van de aangezochte Staat treft zo spoedig mogelijk alle maatregelen die zij geschikt acht of zorgt dat deze zo spoedig mogelijk worden getroffen, eventueel door het instellen van een procedure voor de bevoegde autoriteiten van die Staat, ten einde:
 
@@ -98,7 +120,7 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 4. Indien de erkenning of de tenuitvoerlegging wordt geweigerd en indien de centrale autoriteit van de aangezochte Staat meent gevolg te moeten geven aan een verzoek van de verzoeker om in die Staat een rechtsvordering ten principale aanhangig te maken, stelt deze autoriteit alles in het werk om ervoor te zorgen dat de verzoeker in die procedure wordt vertegenwoordigd onder voorwaarden die niet minder gunstig zijn dan die welke gelden voor iemand die woont in en onderdaan is van deze Staat en kan zij daartoe met name een procedure aanhangig maken voor de bevoegde autoriteiten van die Staat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoudens bijzondere regelingen tussen de betrokken centrale autoriteiten en behoudens het derde lid van dit artikel:
 
@@ -112,11 +134,11 @@ Voor de toepassing van dit Verdrag, wordt verstaan onder:
 
 ## TITEL II. Erkenning en tenuitvoerlegging van beslissingen en herstel van het gezag over kinderen
 
-#### Artikel 7
+##### Artikel 7
 
 De in een Verdragsluitende Staat gegeven beslissingen inzake het gezag worden erkend en zijn, wanneer zij uitvoerbaar zijn in de Staat waar zij zijn gegeven, vatbaar voor tenuitvoerlegging in iedere andere Verdragsluitende Staat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij ongeoorloofde overbrenging dient de centrale autoriteit van de aangezochte Staat ervoor te zorgen dat onmiddellijk maatregelen worden genomen tot teruggave van het kind;
 
@@ -128,7 +150,7 @@ De in een Verdragsluitende Staat gegeven beslissingen inzake het gezag worden er
 
 3. Indien tussen de persoon die het gezag over het kind heeft en een andere persoon een door een bevoegde autoriteit goedgekeurde regeling is tot stand gekomen, waarbij aan laatstbedoelde persoon een bezoekrecht is verleend, en indien het kind dat is meegenomen naar het buitenland na het verstrijken van de overeengekomen periode niet is teruggegeven aan de persoon die het gezag daarover heeft, wordt overgegaan tot herstel in de uitoefening van dit recht overeenkomstig het eerste lid, letter b, en het tweede lid van dit artikel. Hetzelfde geldt in geval van een beslissing van de bevoegde autoriteit, waarbij dit recht wordt toegekend aan een persoon die niet het gezag over het kind heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In andere gevallen van ongeoorloofde overbrenging dan die bedoeld in artikel 8, en indien binnen zes maanden na de overbrenging een verzoek is ingediend bij een centrale autoriteit, kunnen de erkenning en de tenuitvoerlegging slechts worden geweigerd:
 
@@ -148,7 +170,7 @@ De in een Verdragsluitende Staat gegeven beslissingen inzake het gezag worden er
 
 3. In geen enkel geval mag een onderzoek worden ingesteld naar de juistheid van de buitenlandse beslissing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In de andere gevallen dan die van de artikelen 8 en 9 kunnen de erkenning en de tenuitvoerlegging niet alleen op de gronden van artikel 9, maar bovendien op een van de volgende gronden worden geweigerd:
 
@@ -172,7 +194,7 @@ De in een Verdragsluitende Staat gegeven beslissingen inzake het gezag worden er
 
 - c. indien een andere beslissing betreffende het gezag over het kind het onderwerp vormt van een tenuitvoerleggingsprocedure of van enige andere procedure inzake de erkenning van die beslissing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Beslissingen inzake het bezoekrecht en bepalingen uit beslissingen inzake het gezag die betrekking hebben op het bezoekrecht, worden erkend en ten uitvoer gelegd onder dezelfde voorwaarden als de overige beslissingen inzake het gezag.
 
@@ -180,13 +202,13 @@ De in een Verdragsluitende Staat gegeven beslissingen inzake het gezag worden er
 
 3. Wanneer geen beslissing inzake het bezoekrecht is gegeven of wanneer de erkenning of de tenuitvoerlegging van de beslissing inzake het gezag is geweigerd, kan de centrale autoriteit van de aangezochte Staat haar bevoegde autoriteiten verzoeken een beslissing inzake het bezoekrecht te geven, indien de persoon die op dit recht aanspraak maakt, hierom verzoekt.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien op het tijdstip waarop het kind een internationale grens wordt overgebracht, geen uitvoerbare beslissing inzake het gezag over het kind gegeven in een andere Verdragsluitende Staat voorhanden is, zijn de bepalingen van dit Verdrag van toepassing op iedere latere beslissing inzake het gezag over dat kind waarbij de overbrenging ongeoorloofd wordt verklaard en die op verzoek van een belanghebbende in een Verdragsluitende Staat is gegeven.
 
 ## TITEL III. Procedure
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het verzoek om erkenning of tenuitvoerlegging in een andere Verdragsluitende Staat van een beslissing inzake het gezag dient te worden vergezeld van:
 
@@ -204,11 +226,11 @@ Indien op het tijdstip waarop het kind een internationale grens wordt overgebrac
 
 2. Bovengenoemde documenten moeten, indien nodig, zijn vergezeld van een vertaling die aan het bepaalde in artikel 6 voldoet.
 
-#### Artikel 14
+##### Artikel 14
 
 Iedere Verdragsluitende Staat past, bij erkenning en tenuitvoerlegging van een beslissing inzake het gezag een eenvoudige en snelle procedure toe en zorgt er, met het oog daarop, voor dat het verzoek tot tenuitvoerlegging kan worden ingediend door middel van een eenvoudig verzoekschrift.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Alvorens te beslissen over de toepassing van het eerste lid, letter b, van artikel 10,
 
@@ -220,29 +242,29 @@ Iedere Verdragsluitende Staat past, bij erkenning en tenuitvoerlegging van een b
 
 3. De verzoeken om een onderzoek alsmede de resultaten ervan kunnen door tussenkomst van de centrale autoriteiten worden gezonden aan de betreffende autoriteit.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor de toepassing van dit Verdrag kan geen enkele legalisatie of soortgelijke formaliteit worden geëist.
 
 ## TITEL IV. Voorbehouden
 
-#### Artikel 17
+##### Artikel 17
 
 1. Iedere Verdragsluitende Staat kan het voorbehoud maken volgens hetwelk, in de gevallen, bedoeld in de artikelen 8 en/of 9, de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag, kunnen worden geweigerd op die van de in artikel 10 bedoelde gronden, welke zijn aangegeven in het voorbehoud.
 
 2. De erkenning en de tenuitvoerlegging van beslissingen, gegeven in een Verdragsluitende Staat die het in het eerste lid van dit artikel bedoelde voorbehoud heeft gemaakt, kunnen in iedere andere Verdragsluitende Staat worden geweigerd op een van de in dat voorbehoud aangegeven aanvullende gronden.
 
-#### Artikel 18
+##### Artikel 18
 
 Iedere Verdragsluitende Staat kan het voorbehoud maken volgens hetwelk deze Staat niet is gebonden door het bepaalde in artikel 12. De bepalingen van dit Verdrag zijn niet van toepassing op de beslissingen, bedoeld in artikel 12, die zijn gegeven in een Verdragsluitende Staat die dit voorbehoud heeft gemaakt.
 
 ## TITEL V. Andere akten
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag sluit niet de mogelijkheid uit dat voor het verkrijgen van de erkenning of de tenuitvoerlegging van een beslissing een beroep wordt gedaan op een andere internationale akte tussen de Staat waar de beslissing werd gegeven en de aangezochte Staat, dan wel op een wettelijke regeling van de aangezochte Staat die niet op een internationale overeenkomst berust.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Dit Verdrag maakt geen inbreuk op de verplichtingen die een Verdragsluitende Staat, ten aanzien van een Staat die niet Partij is bij dit Verdrag, kan hebben ingevolge een internationale regeling die betrekking heeft op aangelegenheden die door dit Verdrag worden beheerst.
 
@@ -250,23 +272,23 @@ Iedere Verdragsluitende Staat kan het voorbehoud maken volgens hetwelk deze Staa
 
 ## TITEL VI. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum waarop drie Lid-Staten van de Raad van Europa hebben verklaard zich gebonden te achten door het Verdrag overeenkomstig het bepaalde in artikel 21.
 
 2. Ten aanzien van iedere Lid-Staat die later verklaart zich gebonden te achten door het Verdrag, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Na de inwerkingtreding van dit Verdrag kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad, uitnodigen toe te treden tot dit Verdrag, en wel door middel van een besluit, genomen met de meerderheid, bedoeld in [artikel 20, letter d, van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20), en met eenparigheid van stemmen van de vertegenwoordigers van de Verdragsluitende Staten die zijn gerechtigd zitting te hebben in het Comité.
 
 2. Ten aanzien van iedere toetredende Staat, treedt het Verdrag in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aanwijzen waarop dit Verdrag van toepassing is.
 
@@ -274,7 +296,7 @@ Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Eur
 
 3. Iedere krachtens beide vorige leden gedane verklaring kan, wat ieder in deze verklaring aangewezen grondgebied betreft, worden ingetrokken door een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Een Staat die een of meer territoriale eenheden bevat waarin verschillende rechtssystemen van toepassing zijn op het gebied van het gezag over kinderen en de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag, kan bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat dit Verdrag van toepassing zal zijn op al deze territoriale eenheden of op een of meer ervan.
 
@@ -282,7 +304,7 @@ Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Eur
 
 3. Iedere krachtens beide vorige leden gedane verklaring kan, wat iedere in deze verklaring aangewezen territoriale eenheid betreft, worden ingetrokken door een aan de Secretaris-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Ten aanzien van een Staat die, wat het gezag over kinderen betreft, twee of meer rechtsstelsels heeft waarvan de toepasselijkheid territoriaal is bepaald,
 
@@ -292,23 +314,23 @@ Dit Verdrag staat open voor ondertekening door de Lid-Staten van de Raad van Eur
 
 2. Het eerste lid, letter a, van dit artikel is eveneens, **mutatis mutandis,** van toepassing op de Staten die, wat het gezag over kinderen betreft, twee of meer rechtsstelsels hebben die op verschillende groepen van personen toepasselijk zijn.
 
-#### Artikel 27
+##### Artikel 27
 
 1. ledere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren gebruik te maken van een of meer voorbehouden voorzien in het derde lid van artikel 6, in artikel 17 en in artikel 18 van dit Verdrag. Geen enkel ander voorbehoud is toegestaan.
 
 2. Iedere Verdragsluitende Staat die een voorbehoud heeft gemaakt krachtens het vorige lid, kan dit voorbehoud geheel of gedeeltelijk intrekken door een kennisgeving te richten aan de Secretaris-Generaal van de Raad van Europa. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 28
+##### Artikel 28
 
 De Secretaris-Generaal van de Raad van Europa nodigt, aan het eind van het derde jaar na de datum van inwerkingtreding van dit Verdrag en, op zijn eigen initiatief op ieder ander tijdstip na bedoelde datum, de vertegenwoordigers van de door de Verdragsluitende Staten aangewezen centrale autoriteiten uit bijeen te komen ten einde de werking van het Verdrag te bestuderen en te vergemakkelijken. Iedere Lid-Staat van de Raad van Europa die geen Partij is bij het Verdrag, kan zich doen vertegenwoordigen door een waarnemer. Van de werkzaamheden van elk van deze bijeenkomsten wordt een verslag opgesteld, dat ter informatie wordt gezonden aan het Comité van Ministers van de Raad van Europa.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Iedere Partij kan, te allen tijde, dit Verdrag opzeggen door een kennisgeving te richten aan de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 30
+##### Artikel 30
 
 De Secretaris-Generaal van de Raad van Europa geeft de Lid-Staten van de Raad en alle Staten die tot het Verdrag zijn toegetreden, kennis van:
 

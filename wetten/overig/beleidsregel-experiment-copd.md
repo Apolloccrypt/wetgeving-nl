@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel experiment COPD"
 identifier: "BWBR0050598"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050598"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050598"
+soort: "zbo"
+stam_id: "17319123"
+version_id: "30512192"
+internal_id: "C43743161"
+label_id: "17223254"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050598/2025-01-01/0"
+intitule_bron: "Stcrt.2024-41602"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-19"
+intitule_published: "2024-12-18"
+intitule_in_force: "2024-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41602"
+original_signed_date: "2024-11-19"
+original_published_date: "2024-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41602"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050598&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050598&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-11-19"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel experiment COPD
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Onder verwijzing naar [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58), is in de voorliggende beleidsregel een experiment opgenomen. De daartoe vereiste aanwijzing van 10 oktober 2024 met kenmerk 3973517-1072562-PZO, bedoeld in [artikel 59, aanhef en onder f, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), is door de Staatssecretaris van VWS met brief van 10 oktober 2024, met kenmerk 3973517-1072562-PZO, aan de NZa gegeven. Deze aanwijzing is gepubliceerd in de Staatscourant onder nummer 2024, 34159.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -22,15 +47,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Kwartaal:** een periode van drie maanden welke kan ingaan op iedere willekeurige datum in het jaar.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is zorgaanbieders en zorgverzekeraars de mogelijkheid te bieden een experiment aan te gaan waarbij kan worden afgeweken van de reguliere bekostiging van de fysiotherapeutische- en oefentherapeutische zorg voor patiënten met COPD.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op COPD-zorg zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050598&artikel=1&z=2025-01-01&g=2025-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestatiebeschrijvingen experiment
+##### Artikel 4. Prestatiebeschrijvingen experiment
 
 Het experiment kent de volgende prestatiebeschrijvingen:
 
@@ -42,7 +67,7 @@ Het experiment kent de volgende prestatiebeschrijvingen:
 
 - •. Onderlinge dienstverlening
 
-#### Artikel 5. Specifieke bepalingen bij prestatiebeschrijvingen experiment
+##### Artikel 5. Specifieke bepalingen bij prestatiebeschrijvingen experiment
 
 Tijdens de intake en onderzoek bij COPD vindt een uitgebreide inventarisatie en analyse plaats van i) de hulpvraag van de patiënt, ii) de therapeutische behandelbare grootheden en iii) persoonlijke en contextuele factoren. Daarnaast wordt belangrijke informatie ten aanzien van onder andere het adembewegingsapparaat (observatie en inspectie in rust en bij inspanning), fysieke capaciteit (6 minuten wandeltest), fysieke activiteit (aantal gezette stappen per dag) en ziektelast (**Clinical COPD Questionnaire** (CCQ)) verzameld en geobjectiveerd middels klinimetrie.
 
@@ -68,7 +93,7 @@ De levering van (onderdelen van) de prestaties in het kader van COPD-zorg door e
 
 De uitvoerende zorgaanbieder heeft de mogelijkheid om (onderdelen van) de prestaties in het kader van COPD-zorg in opdracht van de opdrachtgevende zorgaanbieder via onderlinge dienstverlening in rekening te brengen aan de opdrachtgevende zorgaanbieder.
 
-#### Artikel 6. Bepalingen en voorwaarden experiment
+##### Artikel 6. Bepalingen en voorwaarden experiment
 
 Voor de prestatiebeschrijvingen geldt een vrij tarief als bedoeld in [artikel 50, eerste lid, onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
@@ -80,7 +105,7 @@ Een prestatiebeschrijving kan alleen in rekening worden gebracht als hiervoor ee
 
 Patiënten aan wie zorg wordt verleend in het kader van COPD-zorg, komen door dit experiment niet in een nadeliger positie te verkeren, dan wanneer het experiment niet zou plaatsvinden.
 
-#### Artikel 7. Start en einde van experiment
+##### Artikel 7. Start en einde van experiment
 
 1. De start van het experiment is 1 januari 2025.
 
@@ -90,11 +115,11 @@ Patiënten aan wie zorg wordt verleend in het kader van COPD-zorg, komen door di
 
 4. De NZa informeert de Staatssecretaris van Volksgezondheid, Welzijn en Sport onmiddellijk indien zij het niet langer verantwoord vindt het experiment voort te zetten.
 
-#### Artikel 8. Evaluatie van het experiment
+##### Artikel 8. Evaluatie van het experiment
 
 De NZa evalueert het experiment conform [artikel 58 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58).
 
-#### Artikel 9. Inwerkingtreding en citeertitel
+##### Artikel 9. Inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
 

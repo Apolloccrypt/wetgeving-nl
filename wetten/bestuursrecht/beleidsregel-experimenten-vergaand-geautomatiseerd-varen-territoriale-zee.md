@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee"
+title: "Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 5 juni 2019, nr. IENW/BSK-2019/122815, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op de territoriale zee (Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee)"
 identifier: "BWBR0042274"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042274"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042274"
+soort: "beleidsregel"
+stam_id: "15089833"
+version_id: "25864802"
+internal_id: "C36863751"
+label_id: "15038444"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042274/2019-07-01/0"
+intitule_bron: "Stcrt.2019-31416"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-06-05"
+intitule_published: "2019-06-06"
+intitule_in_force: "2019-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-31416"
+original_signed_date: "2019-06-05"
+original_published_date: "2019-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-31416"
+entry_into_force_date: "2019-07-01"
+jci_1_3: "jci1.3:c:BWBR0042274&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0042274&g=2019-07-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee"
+signed_date: "2019-06-05"
+entry_into_force: "2019-07-01"
 ---
-
 # Beleidsregel van de Minister van Infrastructuur en Waterstaat, van 5 juni 2019, nr. IENW/BSK-2019/122815, houdende vaststelling van regels voor experimenten in het kader van vergaand geautomatiseerd varen op de territoriale zee (Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee)
 
 Gelet op [artikel 12, eerste en tweede lid, van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen en reikwijdte
+##### Artikel 1. Begripsbepalingen en reikwijdte
 
 1. In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +60,7 @@ BESLUIT:
 
 3. Er worden geen experimenten met watervliegtuigen toegestaan.
 
-#### Artikel 2. Aanvraag
+##### Artikel 2. Aanvraag
 
 1. Een natuurlijk persoon of rechtspersoon kan een aanvraag voor een toestemming indienen bij de Directeur Kustwacht.
 
@@ -58,7 +84,7 @@ BESLUIT:
 
 - i. eventuele eerder uitgevoerde testen of experimenten en uitkomsten daarvan.
 
-#### Artikel 3. Aanvraagprocedure
+##### Artikel 3. Aanvraagprocedure
 
 1. Een aanvraag wordt ingediend met gebruikmaking van het door de Directeur Kustwacht ter beschikking gesteld aanvraagformulier.
 
@@ -84,7 +110,7 @@ BESLUIT:
 
 - j. indien van toepassing, de certificaten behorende bij het schip.
 
-#### Artikel 4. Beoordeling van de aanvraag
+##### Artikel 4. Beoordeling van de aanvraag
 
 1. In het kader van de aanvraag wordt beoordeeld of de maatregelen die worden genomen om de veiligheid te waarborgen en het vlotte verloop van de scheepvaart niet in gevaar te brengen voldoende zijn, waarbij in ieder geval in aanmerking wordt genomen:
 
@@ -96,7 +122,7 @@ BESLUIT:
 
 2. Indien nodig kan het schip in het kader van de beoordeling van de aanvraag worden geïnspecteerd.
 
-#### Artikel 5. Toestemming
+##### Artikel 5. Toestemming
 
 1. De Directeur Kustwacht verleent de toestemming indien uit de aanvraag blijkt dat:
 
@@ -132,7 +158,7 @@ BESLUIT:
 
 4. Aan de toestemming kunnen aanvullende voorschriften als bedoeld in [artikel 19 van het Scheepvaartreglement territoriale zee](https://wetten.overheid.nl/jci1.3:c:BWBR0007914&artikel=19) worden gesteld die nodig worden geacht voor de uitvoering van het experiment. Deze aanvullende voorschriften worden tevens opgenomen in de toestemming.
 
-#### Artikel 6. Beëindiging van het experiment
+##### Artikel 6. Beëindiging van het experiment
 
 1. Het experiment eindigt op de einddatum opgenomen in de toestemming, tenzij door de Directeur Kustwacht overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0042274&artikel=8&z=2019-07-01&g=2019-07-01) is ingestemd met een verlenging van het experiment.
 
@@ -140,7 +166,7 @@ BESLUIT:
 
 3. De Directeur Kustwacht kan het experiment voortijdig beëindigen en doet daarvan onverwijld melding aan de experimenteerpartij.
 
-#### Artikel 7. Evaluatie van het experiment
+##### Artikel 7. Evaluatie van het experiment
 
 1. Binnen drie maanden na beëindiging van het experiment verzoekt de Directeur Kustwacht om een evaluatierapport van het experiment.
 
@@ -158,7 +184,7 @@ BESLUIT:
 
 4. De experimenteerpartij kan op verzoek van de Directeur Kustwacht voorts aanvullende informatie aanleveren ten aanzien van het experiment en de te nemen vervolgstappen.
 
-#### Artikel 8. Verlenging van het experiment
+##### Artikel 8. Verlenging van het experiment
 
 1. Het experiment kan op verzoek van de experimenteerpartij worden verlengd.
 
@@ -166,17 +192,17 @@ BESLUIT:
 
 3. De instemming, bedoeld in het tweede lid, wordt op verzoek te allen tijde getoond.
 
-#### Artikel 9. Communicatie rondom het experiment
+##### Artikel 9. Communicatie rondom het experiment
 
 1. In het geval van communicatie gericht tot burgers over het experiment wordt vooraf de Directeur Kustwacht ingelicht.
 
 2. In het geval van voorlichting aan betrokkenen over het experiment wordt vooraf de Directeur Kustwacht ingelicht.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 juli 2019.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel experimenten vergaand geautomatiseerd varen territoriale zee.
 

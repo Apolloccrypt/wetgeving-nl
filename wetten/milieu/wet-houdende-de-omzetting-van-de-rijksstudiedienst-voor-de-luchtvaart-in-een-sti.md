@@ -1,14 +1,38 @@
 ---
-title: "Wet houdende de omzetting van de Rijksstudiedienst voor de luchtvaart in een stichting"
+title: "Wet van 31 mei 1937"
 identifier: "BWBR0001989"
-categorie: "Milieu"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001989"
+country: "nl"
+rank: "wet"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001989"
+soort: "wet"
+stam_id: "1995833"
+version_id: "2968522"
+internal_id: "C2968521"
+label_id: "1944514"
+dtd_version: "2.0"
+original_entry_into_force: "1937-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001989/2019-01-01/0"
+intitule_bron: "Stb.1937-523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1937-05-31"
+intitule_status: "goed"
+original_publication: "Stb.1937-523"
+original_signed_date: "1937-05-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "3536"
+entry_into_force_date: "1937-06-05"
+entry_into_force_dossier: "3536"
+jci_1_3: "jci1.3:c:BWBR0001989&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0001989&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet houdende de omzetting van de Rijksstudiedienst voor de luchtvaart in een stichting"
+signed_date: "1937-05-31"
+entry_into_force: "1937-06-05"
 ---
-
-# Wet houdende de omzetting van de Rijksstudiedienst voor de luchtvaart in een stichting
+# Wet van 31 mei 1937
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzoo Wij in overweging genomen hebben, dat het wenschelijk is den Rijksstudiedi
 
 Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Ministers van Waterstaat, van Defensie, van Koloniën, van Handel, Nijverheid en Scheepvaart, van Onderwijs, Kunsten en Wetenschappen en van Financiën worden gemachtigd om voor en namens het Rijk met de Vereeniging van Nederlandsche Vliegtuigfabrikanten, gevestigd te **’s-Gravenhage**, de N. V. Koninklijke Luchtvaartmaatschappij voor Nederland en Koloniën, gevestigd te **’s-Gravenhage**, de N. V. Koninklijke Nederlandsch-Indische Luchtvaartmaatschappij, gevestigd te **Amsterdam** en de Koninklijke Nederlandsche Vereeniging voor Luchtvaart, gevestigd te **’s-Gravenhage**, een Stichting, genaamd "Nationaal Luchtvaartlaboratorium", in het leven te roepen overeenkomstig de bepalingen van de bij deze wet gevoegde ontwerp-akte van oprichting.
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Ministers van Waterstaat en van Financiën worden gemachtigd om voor en namens het Rijk met het Bestuur van de Stichting een overeenkomst aan te gaan overeenkomstig het bij deze wet gevoegd model.
 
@@ -28,7 +52,7 @@ Onze Ministers van Economische Zaken en Klimaat en Financiën worden gemachtigd 
 
 Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minister van Economische Zaken en Klimaat aan de Staten-Generaal worden medegedeeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de stichting wordt jaarlijks door Onze Minister van Economische Zaken en Klimaat subsidie verleend voor het verrichten van onderzoek en ontwikkeling op het gebied van de lucht- en ruimtevaart.
 
@@ -40,11 +64,11 @@ Wijzigingen van deze overeenkomst zullen onverwijld door de zorg van Onze Minist
 
 - b. de gegevens die moeten worden verstrekt bij een aanvraag om subsidie als bedoeld in het eerste of tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 Aan de door Onze Ministers van Economische Zaken en Klimaat en Financiën aan te wijzen ambtenaren wordt, telkens wanneer zulks wordt verlangd, inzage in de boekhouding der Stichting gegeven, en worden alle daaromtrent gevraagde inlichtingen verstrekt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wet treedt in werking met ingang van den dag volgende op dien harer afkondiging.
 

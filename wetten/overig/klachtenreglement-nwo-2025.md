@@ -1,13 +1,35 @@
 ---
 title: "Klachtenreglement NWO 2025"
 identifier: "BWBR0050728"
-categorie: "Overig"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050728"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050728"
+soort: "zbo"
+stam_id: "17357953"
+version_id: "30594952"
+internal_id: "C43852351"
+label_id: "17260924"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050728/2025-02-01/0"
+intitule_bron: "Stcrt.2025-3079"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-01-31"
+intitule_in_force: "2025-01-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3079"
+original_published_date: "2025-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3079"
+entry_into_force_date: "2025-02-01"
+jci_1_3: "jci1.3:c:BWBR0050728&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0050728&g=2025-02-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-02-01"
 ---
-
 # Klachtenreglement NWO 2025
 
 gehoord de Centrale Ondernemingsraad van NWO,
@@ -18,7 +40,7 @@ besluit het volgende:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **raad van bestuur:** de raad van bestuur NWO, zoals bedoeld in [artikel 6 van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=6).
 
-#### Artikel 2. Klachtrecht
+##### Artikel 2. Klachtrecht
 
 1. Ieder natuurlijk persoon, niet zijnde een werknemer van NWO, heeft het recht om een klacht in te dienen bij NWO, over de wijze waarop NWO zich in een bepaalde aangelegenheid jegens een ander heeft gedragen. Het staat een klager vrij zich door een derde te laten bijstaan.
 
@@ -44,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. De behandeling van klachten
 
-#### Artikel 3. Behoorlijke behandeling
+##### Artikel 3. Behoorlijke behandeling
 
 NWO draagt zorg voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over zijn gedragingen.
 
-#### Artikel 4. Indienen van een schriftelijke klacht
+##### Artikel 4. Indienen van een schriftelijke klacht
 
 1. Het klaagschrift dient te worden gericht aan NWO, ter attentie van het Klachtenmeldpunt. Indiening kan per post geschieden (Postbus 93138, 2509 AC Den Haag), of per e-mail via klachtenmeldpunt@nwo.nl.
 
@@ -68,11 +90,11 @@ NWO draagt zorg voor een behoorlijke behandeling van mondelinge en schriftelijke
 
 6. Onverminderd het bepaalde in dit artikel kan een klacht mondeling worden ingediend. Deze regeling is op de behandeling van mondelinge klachten niet van toepassing. NWO draagt zorg voor een behoorlijke behandeling van mondelinge klachten.
 
-#### Artikel 5. Ontvangstbevestiging
+##### Artikel 5. Ontvangstbevestiging
 
 Het Klachtenmeldpunt bevestigt namens NWO de ontvangst van de klacht schriftelijk.
 
-#### Artikel 6. Onpartijdige klachtenbehandelaar
+##### Artikel 6. Onpartijdige klachtenbehandelaar
 
 1. De behandeling van de klacht geschiedt door een medewerker die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is geweest.
 
@@ -90,7 +112,7 @@ Het Klachtenmeldpunt bevestigt namens NWO de ontvangst van de klacht schriftelij
 
 4. De klachtenbehandelaar kan zich bij behandeling van de klacht laten bijstaan door een of meer medewerkers van NWO, die niet bij de gedraging waarop de klacht betrekking heeft, betrokken is of zijn geweest.
 
-#### Artikel 7. Niet verplicht in behandeling nemen
+##### Artikel 7. Niet verplicht in behandeling nemen
 
 1. NWO is niet verplicht de klacht te behandelen indien zij betrekking heeft op een gedraging:
 
@@ -110,11 +132,11 @@ Het Klachtenmeldpunt bevestigt namens NWO de ontvangst van de klacht schriftelij
 
 3. Van het niet in behandeling nemen van de klacht wordt de klager zo spoedig mogelijk – doch uiterlijk binnen vier weken na ontvangst van de klacht – schriftelijk in kennis gesteld. Daarbij wordt melding gemaakt of er op grond van [artikel 9:17 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:17) een mogelijkheid is om vervolgens een verzoekschrift in te dienen bij de Nationale ombudsman
 
-#### Artikel 8. Toezendingsplicht beklaagde
+##### Artikel 8. Toezendingsplicht beklaagde
 
 Aan degene op wiens gedraging de klacht betrekking heeft wordt een afschrift van de klacht alsmede van de daarbij meegezonden stukken toegezonden.
 
-#### Artikel 9. Hoorplicht
+##### Artikel 9. Hoorplicht
 
 1. NWO stelt de klager en degene op wiens gedraging de klacht betrekking heeft in de gelegenheid te worden gehoord. Klager en/of beklaagde(n) kunnen in plaats daarvan desgewenst ook hun standpunt nader kenbaar maken in een schriftelijke toelichting.
 
@@ -122,13 +144,13 @@ Aan degene op wiens gedraging de klacht betrekking heeft wordt een afschrift van
 
 3. Van het horen wordt een beknopt verslag gemaakt.
 
-#### Artikel 10. Afhandelingstermijn
+##### Artikel 10. Afhandelingstermijn
 
 1. NWO handelt de klacht af binnen zes weken na ontvangst.
 
 2. NWO kan de afhandeling voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 11. Afhandeling
+##### Artikel 11. Afhandeling
 
 1. NWO stelt de klager en beklaagde(n) schriftelijk (waaronder tevens begrepen: per e-mail) en gemotiveerd in kennis van de bevindingen van het onderzoek naar de klacht en het oordeel daarover, alsmede van de eventuele conclusies die NWO daaraan verbindt. Bij dit schrijven wordt het beknopt verslag van het horen als bedoeld in [art. 9 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050728&hoofdstuk=2&artikel=9&z=2025-02-01&g=2025-02-01) toegevoegd.
 
@@ -138,18 +160,18 @@ Aan degene op wiens gedraging de klacht betrekking heeft wordt een afschrift van
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 13. Registratie en publicatie
+##### Artikel 13. Registratie en publicatie
 
 Het Klachtenmeldpunt draagt zorg voor registratie van de bij NWO ingediende klachten. De geregistreerde schriftelijke klachten worden jaarlijks gepubliceerd.
 
-#### Artikel 14. Intrekking
+##### Artikel 14. Intrekking
 
 Het geldende Klachtenreglement 2013 wordt ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling wordt vastgesteld door de raad van bestuur en treedt in werking op 1 februari 2025
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Klachtenreglement NWO 2025.

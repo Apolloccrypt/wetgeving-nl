@@ -1,13 +1,35 @@
 ---
 title: "Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking"
 identifier: "BWBV0006323"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006323"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006323"
+soort: "verdrag"
+stam_id: "10005166103"
+version_id: "10005534982"
+internal_id: "C10009502461"
+label_id: "10005149074"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006323/2019-01-01/0"
+intitule_bron: "Trb.2014-62"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-03-17"
+intitule_in_force: "2018-12-12"
+intitule_status: "goed"
+original_publication: "Trb.2014-62"
+original_published_date: "2014-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2014-62"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBV0006323&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBV0006323&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-01"
 ---
-
 # Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking
 
 Het Koninkrijk België, vertegenwoordigd door:
@@ -58,13 +80,13 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Grensoverschrijdende en interterritoriale samenwerking
+##### Artikel 1. Grensoverschrijdende en interterritoriale samenwerking
 
 1. Overheden, instellingen en samenwerkingsverbanden als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), kunnen met elkaar grensoverschrijdend en interterritoriaal samenwerken met het oog op een gemeenschappelijke belangenbehartiging.
 
 2. De grensoverschrijdende en interterritoriale samenwerking op basis van dit Verdrag vindt plaats op het grondgebied van de Lidstaten van de Benelux Unie en op dat van de Staten die grenzen aan dit grondgebied en die op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=27&z=2019-01-01&g=2019-01-01) tot dit Verdrag toetreden.
 
-#### Artikel 2. Deelnemers
+##### Artikel 2. Deelnemers
 
 1. Aan de grensoverschrijdende en interterritoriale samenwerking op basis van dit Verdrag kunnen, binnen het kader van de bevoegdheden ingevolge hun interne recht, deelnemen:
 
@@ -80,7 +102,7 @@ Zijn het volgende overeengekomen:
 
 3. Natuurlijke personen kunnen niet deelnemen aan de grensoverschrijdende en interterritoriale samenwerking op basis van dit Verdrag.
 
-#### Artikel 3. Vormen van grensoverschrijdende en interterritoriale samenwerking
+##### Artikel 3. Vormen van grensoverschrijdende en interterritoriale samenwerking
 
 Zonder afbreuk te doen aan de mogelijkheden om op basis van het privaatrecht samen te werken, kan de grensoverschrijdende en interterritoriale samenwerking gestalte krijgen in:
 
@@ -92,7 +114,7 @@ Zonder afbreuk te doen aan de mogelijkheden om op basis van het privaatrecht sam
 
 ### HOOFDSTUK 2. BENELUX GROEPERING VOOR TERRITORIALE SAMENWERKING
 
-#### Artikel 4. Kenmerken en oprichting van de BGTS
+##### Artikel 4. Kenmerken en oprichting van de BGTS
 
 1. Een BGTS is een grensoverschrijdend openbaar lichaam met rechtspersoonlijkheid.
 
@@ -112,11 +134,11 @@ Zonder afbreuk te doen aan de mogelijkheden om op basis van het privaatrecht sam
 
 5. In alle documenten uitgaande van een BGTS wordt de naam „Benelux Groepering voor Territoriale Samenwerking” dan wel de afkorting „BGTS” vermeld.
 
-#### Artikel 5. Toekenning van bevoegdheden van regeling en bestuur
+##### Artikel 5. Toekenning van bevoegdheden van regeling en bestuur
 
 De deelnemers genoemd in [artikel 2, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), en hun samenwerkingsverbanden kunnen aan een BGTS bevoegdheden van regeling en bestuur toekennen als het interne recht van de Partijen dit toelaat.
 
-#### Artikel 6. Statuten
+##### Artikel 6. Statuten
 
 1. De statuten van een BGTS mogen niet in strijd zijn met de openbare orde van de Partijen waartoe de deelnemers behoren.
 
@@ -144,11 +166,11 @@ De deelnemers genoemd in [artikel 2, eerste lid, onderdelen a en b](https://wett
 
 3. De statuten van een BGTS zijn opgesteld in de taal of talen van het grondgebied waartoe de deelnemers van een BGTS behoren.
 
-#### Artikel 7. Verkrijging van rechtspersoonlijkheid
+##### Artikel 7. Verkrijging van rechtspersoonlijkheid
 
 De ondertekende oprichtingsakte van een BGTS wordt neergelegd en bekendgemaakt volgens de voorschriften van het interne recht van de Partij waar de maatschappelijke zetel gelegen is. De BGTS verkrijgt rechtspersoonlijkheid op de datum van deze bekendmaking.
 
-#### Artikel 8. Maatschappelijke zetel en vestigingen van een BGTS
+##### Artikel 8. Maatschappelijke zetel en vestigingen van een BGTS
 
 1. Een BGTS vestigt haar maatschappelijke zetel op het grondgebied van één van de Partijen waartoe de deelnemers behoren.
 
@@ -156,7 +178,7 @@ De ondertekende oprichtingsakte van een BGTS wordt neergelegd en bekendgemaakt v
 
 3. Elke vorm van correspondentie aan een BGTS, met inbegrip van betekeningen, ingebrekestellingen of dagvaardingen, geschiedt rechtsgeldig aan de maatschappelijke zetel of aan een vestiging van een BGTS.
 
-#### Artikel 9. Organen
+##### Artikel 9. Organen
 
 Een BGTS beschikt ten minste over de volgende organen:
 
@@ -164,7 +186,7 @@ Een BGTS beschikt ten minste over de volgende organen:
 
 - b. hetzij een raad van bestuur, waarvan de leden benoemd worden door de algemene vergadering op voordracht van de deelnemers, hetzij een directeur, benoemd door de algemene vergadering.
 
-#### Artikel 10. Personeel van een BGTS
+##### Artikel 10. Personeel van een BGTS
 
 1. Een BGTS kan arbeidsovereenkomsten van bepaalde of onbepaalde duur sluiten.
 
@@ -172,7 +194,7 @@ Een BGTS beschikt ten minste over de volgende organen:
 
 3. Een BGTS streeft, met inachtneming van de toepasselijke wetgeving, gelijkwaardigheid na van de arbeidsvoorwaarden op de verschillende arbeidslocaties.
 
-#### Artikel 11. Toepasselijk recht en bevoegd rechtscollege
+##### Artikel 11. Toepasselijk recht en bevoegd rechtscollege
 
 1. Voor zover aan een BGTS bevoegdheden van regeling en bestuur werden toegekend, worden de rechtsbetrekkingen met de aan de BGTS rechtsonderhorige natuurlijke en rechtspersonen en de daaraan verbonden rechtsgang geregeld door het recht dat van toepassing zou zijn als de deelnemende overheden zelf de toegekende bevoegdheden hadden uitgeoefend. De in het kader van deze bevoegdheden genomen beslissingen van een BGTS vermelden uitdrukkelijk de mogelijkheden tot beroep.
 
@@ -202,11 +224,11 @@ Een BGTS beschikt ten minste over de volgende organen:
 
 4. Voor zover de rechterlijke bevoegdheid niet geregeld is door het Europese of internationale recht of door het eerste lid, is het rechtscollege dat aangewezen wordt door het recht van de maatschappelijke zetel bevoegd voor de behandeling van geschillen waarbij een BGTS partij is, met uitzondering van de behandeling van geschillen over de in het derde lid vermelde gevallen, waarvoor het bevoegde rechtscollege wordt aangewezen door het recht van de vestiging.
 
-#### Artikel 12. Financiële aansprakelijkheid
+##### Artikel 12. Financiële aansprakelijkheid
 
 De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BGTS naar rato van hun in de statuten vastgelegde deelname. In dezelfde mate zijn zij aansprakelijk voor de verplichtingen die voortvloeien uit de verbintenissen die na de ontbinding gehandhaafd blijven.
 
-#### Artikel 13. Administratief en financieel toezicht
+##### Artikel 13. Administratief en financieel toezicht
 
 1. Op alle beslissingen van de deelnemers in verband met een BGTS blijven de administratieve toezichtprocedures van het interne recht van toepassing.
 
@@ -220,7 +242,7 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 6. De door de algemene vergadering goedgekeurde jaarrekening van een BGTS wordt, samen met het verslag van de in het vorige lid genoemde commissaris of commissarissen, bekendgemaakt op de wijze die in de regelgeving van de Partij waar deze BGTS haar maatschappelijke zetel heeft, voorzien is voor de jaarrekeningen van ondernemingen. Zij wordt binnen de vijf werkdagen na deze bekendmaking eveneens aan de toezichthouder en het Secretariaat-generaal van de Benelux Unie bezorgd.
 
-#### Artikel 14. Wijzigingen van de statuten
+##### Artikel 14. Wijzigingen van de statuten
 
 1. Tot een wijziging van de statuten kan enkel beslist worden door de algemene vergadering met een meerderheid van ten minste drie vierden der geldig uitgebrachte stemmen op voorwaarde dat ten minste de helft van de deelnemers uit elke van de bij de BGTS betrokken Partijen vertegenwoordigd is en dat deze meerderheid bereikt is onder de deelnemers uit elke van de bij de BGTS betrokken Partijen.
 
@@ -228,7 +250,7 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 3. Akten tot wijziging van de statuten worden neergelegd en bekendgemaakt volgens de voorschriften van het interne recht van de Partij waar de maatschappelijke zetel gelegen is.
 
-#### Artikel 15. Zetelverplaatsing
+##### Artikel 15. Zetelverplaatsing
 
 1. De maatschappelijke zetel van een BGTS kan worden verplaatst naar het grondgebied van een Partij waartoe ten minste één deelnemer aan de BGTS behoort. De zetelverplaatsing leidt noch tot ontbinding van de BGTS, noch tot vorming van een nieuwe rechtspersoon.
 
@@ -240,7 +262,7 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 5. Een BGTS die haar maatschappelijke zetel naar het grondgebied van een andere Partij heeft verplaatst, wordt met betrekking tot vóór de datum van de zetelverplaatsing als bedoeld in het derde lid opgetreden geschillen geacht haar maatschappelijke zetel te hebben in de Lidstaat waar de BGTS vóór de zetelverplaatsing haar maatschappelijke zetel had, zelfs indien een rechtsvordering tegen haar wordt ingeleid na de zetelverplaatsing.
 
-#### Artikel 16. Ontbinding van een BGTS
+##### Artikel 16. Ontbinding van een BGTS
 
 1. Een BGTS wordt ontbonden:
 
@@ -254,13 +276,13 @@ De deelnemers zijn financieel aansprakelijk bij ontoereikend vermogen van een BG
 
 3. In aanvulling op het bepaalde in [artikel 11, tweede lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=11&z=2019-01-01&g=2019-01-01), en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=2&artikel=12&z=2019-01-01&g=2019-01-01) dient de vaststelling van of de beslissing tot ontbinding van een BGTS de aanwijzing van een of meer vereffenaars en de bestemming van het maatschappelijk vermogen te vermelden.
 
-#### Artikel 17. Kennisgeving aan de Benelux Unie
+##### Artikel 17. Kennisgeving aan de Benelux Unie
 
 De deelnemers stellen de Secretaris-generaal van de Benelux Unie in kennis van de oprichtingsakte, elke statutenwijziging en de beslissing tot de ontbinding van een BGTS, met het oog op de kosteloze bekendmaking ervan in het Benelux Publicatieblad.
 
 ### HOOFDSTUK 3. OVERIGE VORMEN VAN GRENSOVERSCHRIJDENDE EN INTERTERRITORIALE SAMENWERKING
 
-#### Artikel 18. De administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking
+##### Artikel 18. De administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking
 
 1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), genoemde deelnemers kunnen een administratieve afspraak voor grensoverschrijdende of interterritoriale samenwerking maken. Deze afspraak dient schriftelijk te worden vastgelegd.
 
@@ -272,7 +294,7 @@ De deelnemers stellen de Secretaris-generaal van de Benelux Unie in kennis van d
 
 5. Het toepasselijke recht is het recht van de Partij op het grondgebied waarvan de desbetreffende verplichting uit de afspraak moet worden vervuld.
 
-#### Artikel 19. Het gemeenschappelijke orgaan voor grensoverschrijdende of interterritoriale samenwerking
+##### Artikel 19. Het gemeenschappelijke orgaan voor grensoverschrijdende of interterritoriale samenwerking
 
 1. De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=1&artikel=2&z=2019-01-01&g=2019-01-01), genoemde deelnemers kunnen een regeling treffen waarbij een gemeenschappelijk orgaan voor grensoverschrijdende of interterritoriale samenwerking wordt opgericht.
 
@@ -288,17 +310,17 @@ De deelnemers stellen de Secretaris-generaal van de Benelux Unie in kennis van d
 
 - c. de wijze van beëindiging van het gemeenschappelijk orgaan.
 
-#### Artikel 20. Kennisgeving aan de Benelux Unie
+##### Artikel 20. Kennisgeving aan de Benelux Unie
 
 De deelnemers aan een administratieve afspraak of een gemeenschappelijk orgaan stellen de Secretaris-generaal van de Benelux Unie hiervan in kennis, met het oog op de kosteloze bekendmaking ervan in het Benelux Publicatieblad. Zij kunnen een van hen daartoe machtigen.
 
 ### HOOFDSTUK 4. ONDERSTEUNING VAN GRENSOVERSCHRIJDENDE EN INTERTERRITORIALE SAMENWERKING
 
-#### Artikel 21. Verdragscommissie Grensoverschrijdende en Interterritoriale Samenwerking
+##### Artikel 21. Verdragscommissie Grensoverschrijdende en Interterritoriale Samenwerking
 
 Voor al wat verband houdt met de uitvoering en de toepassing van dit Verdrag wordt een Verdragscommissie Grensoverschrijdende en Interterritoriale Samenwerking ingesteld waarin de vertegenwoordigers uit alle Partijen zitting hebben.
 
-#### Artikel 22. Benelux Werkgroep Grensoverschrijdende en Interterritoriale Samenwerking
+##### Artikel 22. Benelux Werkgroep Grensoverschrijdende en Interterritoriale Samenwerking
 
 1. Overeenkomstig [artikel 12, onder b, van het Verdrag tot instelling van de Benelux Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0005047&artikel=12) wordt een Benelux Werkgroep Grensoverschrijdende en Interterritoriale Samenwerking opgericht, die onder meer tot taak heeft:
 
@@ -308,7 +330,7 @@ Voor al wat verband houdt met de uitvoering en de toepassing van dit Verdrag wor
 
 2. Deze Werkgroep kan vertegenwoordigers uit de buurlanden uitnodigen.
 
-#### Artikel 23. Ambtenaar grenscontacten
+##### Artikel 23. Ambtenaar grenscontacten
 
 1. In elk van de Partijen kunnen een of meerdere ambtenaren grenscontacten aangewezen worden aan wie vraagstukken kunnen worden voorgelegd, die rijzen in het kader van de grensoverschrijdende en interterritoriale samenwerking.
 
@@ -318,17 +340,17 @@ Voor al wat verband houdt met de uitvoering en de toepassing van dit Verdrag wor
 
 ### HOOFDSTUK 5. SLOTBEPALINGEN
 
-#### Artikel 24. Benelux-Gerechtshof
+##### Artikel 24. Benelux-Gerechtshof
 
 Ter uitvoering van [artikel 1, tweede lid, van het Verdrag betreffende de instelling en het statuut van een Benelux-Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0004117&artikel=1) van 31 maart 1965 worden de bepalingen van dit Verdrag als gemeenschappelijke rechtsregels aangewezen voor de toepassing van genoemd verdrag van 31 maart 1965.
 
-#### Artikel 25. Geografische toepassing
+##### Artikel 25. Geografische toepassing
 
 1. Het Koninkrijk België kan bij de ondertekening dan wel de neerlegging bedoeld in [artikel 26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), conform zijn grondwettelijke regels bepalen dat dit Verdrag niet van toepassing is op één of meer Gemeenschappen en Gewesten, onder voorbehoud van een latere mededeling dat dit Verdrag alsnog van toepassing is op deze Gemeenschap of dit Gewest.
 
 2. Wat het Koninkrijk der Nederlanden betreft, geldt dit Verdrag alleen voor het grondgebied gelegen in Europa.
 
-#### Artikel 26. Depositaris en inwerkingtreding
+##### Artikel 26. Depositaris en inwerkingtreding
 
 1. De Secretaris-generaal van de Benelux Unie is depositaris van dit Verdrag.
 
@@ -344,11 +366,11 @@ Ter uitvoering van [artikel 1, tweede lid, van het Verdrag betreffende de instel
 
 7. De depositaris stelt de Partijen op de hoogte van de datum van inwerkingtreding van dit Verdrag krachtens het bepaalde in de leden 5 en 6.
 
-#### Artikel 27. Toetreding
+##### Artikel 27. Toetreding
 
 Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland vrij om na de inwerkingtreding van dit Verdrag krachtens [artikel 26, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), voor het grondgebied van deze Staten in Europa tot dit Verdrag toe te treden door de neerlegging van een akte van toetreding bij de depositaris. Voor een toetredende Staat treedt het Verdrag in werking op de eerste dag van de tweede maand volgend op de datum van neerlegging van de akte van toetreding. De depositaris stelt de Partijen op de hoogte van de neerlegging van de akte van toetreding en van de datum van inwerkingtreding van het Verdrag voor de toetredende Staat.
 
-#### Artikel 28. Opzegging
+##### Artikel 28. Opzegging
 
 1. Elke Partij kan dit Verdrag te allen tijde overeenkomstig haar grondwettelijke bepalingen opzeggen door een daartoe strekkende kennisgeving te richten tot de depositaris, die daarvan onmiddellijk mededeling doet aan de andere Partijen.
 
@@ -356,7 +378,7 @@ Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Konin
 
 3. Ingevolge de opzegging door een Partij overeenkomstig het eerste lid, is dit Verdrag niet meer van toepassing op de betrokken Partij met ingang van de datum en onder de voorwaarden overeengekomen door de Partijen in toepassing van het tweede lid of, bij gebreke van overeenstemming, na verloop van zes maanden na de in het eerste lid bedoelde kennisgeving, tenzij alle Partijen overeenkomen deze termijn te verlengen.
 
-#### Artikel 29. Overgangsbepaling
+##### Artikel 29. Overgangsbepaling
 
 1. Dit Verdrag is van toepassing op samenwerkingsvormen, die zijn opgericht op basis van de [Benelux-Overeenkomst inzake grensoverschrijdende samenwerking tussen territoriale samenwerkingsverbanden of autoriteiten](https://wetten.overheid.nl/jci1.3:c:BWBV0002714), ondertekend te Brussel op 12 september 1986 (de Benelux-Overeenkomst).
 
@@ -366,7 +388,7 @@ Het staat de Bondsrepubliek Duitsland, de Franse Republiek en het Verenigd Konin
 
 4. Het Secretariaat-generaal van de Benelux Unie draagt zorg voor de kosteloze bekendmaking van de statuten van de in het tweede lid bedoelde Grensoverschrijdende Openbare Lichamen in het Benelux Publicatieblad.
 
-#### Artikel 30. Opheffingsbepaling
+##### Artikel 30. Opheffingsbepaling
 
 1. De [Benelux-Overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0002714) wordt voor de betrokken Partijen beëindigd met ingang van de datum waarop dit Verdrag voor hen in werking is getreden krachtens [artikel 26, vijfde of zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006323&hoofdstuk=5&artikel=26&z=2019-01-01&g=2019-01-01), met dien verstande dat de Benelux-Overeenkomst van kracht blijft in de onderlinge verhoudingen tussen enerzijds de betrokken Partijen waarvoor dit Verdrag in werking is getreden en anderzijds de betrokken Partij waarvoor het nog niet in werking is getreden, tot op het moment dat dit Verdrag ook voor de laatstgenoemde betrokken Partij in werking is getreden.
 

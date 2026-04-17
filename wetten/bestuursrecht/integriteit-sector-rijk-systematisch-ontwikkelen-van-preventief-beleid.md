@@ -1,13 +1,37 @@
 ---
 title: "Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid"
 identifier: "BWBR0007059"
-categorie: "Bestuursrecht"
-publicatiedatum: 1994-12-06
-laatste_update: 1994-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007059"
+country: "nl"
+rank: "circulaire"
+publication_date: "1994-12-06"
+last_updated: "1994-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007059"
+soort: "circulaire"
+stam_id: "6267963"
+version_id: "10951802"
+internal_id: "C14849411"
+label_id: "6256884"
+original_entry_into_force: "1994-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007059/1994-12-06/0"
+intitule_bron: "Stcrt.1995-19"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-06"
+intitule_published: "1995-01-26"
+intitule_in_force: "1995-01-26"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-19"
+original_signed_date: "1994-12-06"
+original_published_date: "1995-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-19-p0-SC1873"
+entry_into_force_date: "1994-12-06"
+jci_1_3: "jci1.3:c:BWBR0007059&z=1994-12-06&g=1994-12-06"
+jci_1_0: "1.0:c:BWBR0007059&g=1994-12-06"
+citeertitel_status: "redactioneel"
+signed_date: "1994-12-06"
+entry_into_force: "1994-12-06"
 ---
-
 # Integriteit sector Rijk; systematisch ontwikkelen van preventief beleid
 
 Circulaire aan de ministers

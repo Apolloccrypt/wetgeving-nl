@@ -1,18 +1,40 @@
 ---
 title: "Bestuursreglement Politieacademie"
 identifier: "BWBR0041682"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-12-06
-laatste_update: 2018-12-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041682"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-12-06"
+last_updated: "2018-12-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041682"
+soort: "zbo"
+stam_id: "14905083"
+version_id: "25502372"
+internal_id: "C36408851"
+label_id: "14856604"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041682/2018-12-06/0"
+intitule_bron: "Stcrt.2018-66210"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-12-05"
+intitule_in_force: "2018-12-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-66210"
+original_published_date: "2018-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-66210"
+entry_into_force_date: "2018-12-06"
+jci_1_3: "jci1.3:c:BWBR0041682&z=2018-12-06&g=2018-12-06"
+jci_1_0: "1.0:c:BWBR0041682&g=2018-12-06"
+citeertitel_status: "officieel"
+entry_into_force: "2018-12-06"
 ---
-
 # Bestuursreglement Politieacademie
 
 Dit bestuursreglement is het bestuursreglement van de Politieacademie in de zin van [artikel 98, eerste lid van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=98).
 
-#### Artikel 1. De Politieacademie
+##### Artikel 1. De Politieacademie
 
 1. Er is een Politieacademie. De Politieacademie heeft rechtspersoonlijkheid.
 
@@ -24,13 +46,13 @@ Dit bestuursreglement is het bestuursreglement van de Politieacademie in de zin 
 
 ### Taak directeur en plaatsvervangend directeur
 
-#### Artikel 2. Taakopdracht directeur
+##### Artikel 2. Taakopdracht directeur
 
 1. De directeur van de Politieacademie is belast met de leiding en het beheer van de Politieacademie. Hij vertegenwoordigt de Politieacademie in en buiten rechte.
 
 2. De directeur van de Politieacademie hanteert de maatschappelijke opdracht van de Politieacademie als uitgangspunt voor het beleid ten aanzien van de uitvoering van de taken van de Politieacademie.
 
-#### Artikel 3. Algemene verantwoordelijkheden directeur Politieacademie
+##### Artikel 3. Algemene verantwoordelijkheden directeur Politieacademie
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende verantwoordelijkheden ten aanzien van de Politieacademie:
 
@@ -48,7 +70,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 - 7. hij voert het overleg met de Ondernemingsraad van de Politieacademie.
 
-#### Artikel 4. Taakverdeling en onderlinge werkwijze directeur – plaatsvervangend directeur
+##### Artikel 4. Taakverdeling en onderlinge werkwijze directeur – plaatsvervangend directeur
 
 1. De Politieacademie heeft een directeur en een plaatsvervangend directeur. Zij worden benoemd, geschorst en ontslagen bij koninklijk besluit.
 
@@ -62,7 +84,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 6. De directie-overleggen worden aan de hand van een vooraf opgestelde agenda door de directeur geleid.
 
-#### Artikel 5. Nevenfuncties directeur en plaatsvervangend directeur
+##### Artikel 5. Nevenfuncties directeur en plaatsvervangend directeur
 
 1. De directeur en de plaatsvervangend directeur maken het voornemen tot het aanvaarden van nevenfuncties anders dan uit hoofde van hun functie schriftelijk bekend aan de Minister van Justitie en Veiligheid.
 
@@ -70,7 +92,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 3. Nevenfuncties anders dan uit hoofde van hun functie worden openbaar gemaakt. Openbaarmaking geschiedt door het ter inzage leggen van een opgave van deze nevenfuncties bij de Politieacademie en bij de Minister.
 
-#### Artikel 6. Taakuitoefening; advisering door Raad van Advies Politieacademie
+##### Artikel 6. Taakuitoefening; advisering door Raad van Advies Politieacademie
 
 1. De Politieacademie heeft een Raad van Advies.
 
@@ -82,7 +104,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 5. De directeur besteedt in het jaarverslag van de Politieacademie aandacht aan de adviezen van de Raad van Advies en aan de wijze waarop hij is omgegaan met deze adviezen.
 
-#### Artikel 7. Periodiek overleg directeur Politieacademie – Korpschef – Minister
+##### Artikel 7. Periodiek overleg directeur Politieacademie – Korpschef – Minister
 
 De directeur, de Korpschef en de Minister van Justitie en Veiligheid voeren ten minste viermaal per jaar overleg onder meer over:
 
@@ -98,7 +120,7 @@ De directeur, de Korpschef en de Minister van Justitie en Veiligheid voeren ten 
 
 - •. de daarop gebaseerde behoefte aan mensen en middelen van de Politieacademie.
 
-#### Artikel 8. Overleg Korpsleiding – Politiechefs – Directeuren Korpsstaven
+##### Artikel 8. Overleg Korpsleiding – Politiechefs – Directeuren Korpsstaven
 
 De directeur onderhoudt het contact en voert periodiek overleg met:
 
@@ -122,17 +144,17 @@ De directeur onderhoudt het contact en voert periodiek overleg met:
 
 - •. De directeur en zijn plaatsvervanger voeren de overleggen in dit verband in de regel gezamenlijk.
 
-#### Artikel 9. Politieonderwijsraad
+##### Artikel 9. Politieonderwijsraad
 
 De directeur en zijn plaatsvervanger hebben beiden als lid zitting in de Politieonderwijsraad.
 
-#### Artikel 10. Inspectie Justitie en Veiligheid
+##### Artikel 10. Inspectie Justitie en Veiligheid
 
 1. De directeur verleent de Inspectie Justitie en Veiligheid de door haar verlangde ondersteuning bij de uitoefening van haar toezicht op de kwaliteit van het Politieonderwijs en de examinering.
 
 2. De directeur onderhoudt het contact met het Hoofd van de Inspectie Justitie en Veiligheid en voert het periodiek overleg, zoals voortvloeiend uit het geldende toezichtskader van genoemde Inspectie.
 
-#### Artikel 11. Strategische samenwerkingsrelaties
+##### Artikel 11. Strategische samenwerkingsrelaties
 
 De directeur onderhoudt namens de Politieacademie de strategische samenwerkingsrelaties ten behoeve van gezamenlijke onderwijs- en kennisontwikkeling en -uitvoering, met name met:
 
@@ -148,7 +170,7 @@ De directeur is verantwoordelijk voor de relatie met alle extern belanghebbenden
 
 ### Bevoegdheden directeur
 
-#### Artikel 12. Algemene bevoegdheden directeur Politieacademie
+##### Artikel 12. Algemene bevoegdheden directeur Politieacademie
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende algemene bevoegdheden ten aanzien van de Politieacademie:
 
@@ -168,7 +190,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 De directeur geeft relevante belanghebbenden inzicht in de realisatie van het beleid van de Politieacademie en de behaalde resultaten bij de taakuitvoering door de Politieacademie.
 
-#### Artikel 13. Bevoegdheden directeur ten aanzien van het Politieonderwijs
+##### Artikel 13. Bevoegdheden directeur ten aanzien van het Politieonderwijs
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende bevoegdheden ten aanzien van het Politieonderwijs:
 
@@ -190,7 +212,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 - 9. hij zorgt voor een regelmatige beoordeling van de kwaliteit van het Politieonderwijs mede door onafhankelijke deskundigen of instellingen. Hij betrekt daarbij het Korps en de studenten.
 
-#### Artikel 14. Bevoegdheden directeur ten aanzien van de examens
+##### Artikel 14. Bevoegdheden directeur ten aanzien van de examens
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende bevoegdheden ten aanzien van de examens van het Politieonderwijs:
 
@@ -204,13 +226,13 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 - 5. hij stelt jaarlijks een Onderwijs- en Examenregeling vast, per opleiding of groep van opleidingen, en maakt die bekend.
 
-#### Artikel 15. Bevoegdheden directeur ten aanzien van kennis en onderzoek
+##### Artikel 15. Bevoegdheden directeur ten aanzien van kennis en onderzoek
 
 1. De directeur stelt jaarlijks het onderzoeksprogramma van de Politieacademie vast, op basis van de door de Minister vastgestelde Strategische Onderzoeksagenda.
 
 2. De directeur stelt de vormgeving van de systematische kwaliteitszorg van het onderzoek vast.
 
-#### Artikel 16. Bevoegdheden directeur Politieacademie en aanzien van personeel
+##### Artikel 16. Bevoegdheden directeur Politieacademie en aanzien van personeel
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende bevoegdheden ten aanzien van het personeel:
 
@@ -224,7 +246,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 - 5. hij zorgt voor de behandeling van klachten over gedragingen van medewerkers die werkzaam zijn ten behoeve van de uitvoering van taken van de Politieacademie en binnen de staf van de Politieacademie.
 
-#### Artikel 17. Bevoegdheden directeur Politieacademie ten aanzien het beheer
+##### Artikel 17. Bevoegdheden directeur Politieacademie ten aanzien het beheer
 
 De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder meer de volgende bevoegdheden ten aanzien van de ondersteunende middelen en diensten die de Korpschef aan de Politieacademie ter beschikking stelt voor de uitvoering van haar taken:
 
@@ -238,7 +260,7 @@ De directeur heeft, onverminderd het bepaalde bij of krachtens de wet, onder mee
 
 ### Organisatorische inrichting en sturing Politieacademie
 
-#### Artikel 18. Indeling Sectoren
+##### Artikel 18. Indeling Sectoren
 
 De Politieacademie is onderverdeeld in de volgende sectoren:
 
@@ -250,7 +272,7 @@ De Politieacademie is onderverdeeld in de volgende sectoren:
 
 - •. Staf.
 
-#### Artikel 19. Sectorhoofden
+##### Artikel 19. Sectorhoofden
 
 1. De sectoren BPO en VPO staat onder collegiale leiding van één of twee sectorhoofden.
 
@@ -258,7 +280,7 @@ De Politieacademie is onderverdeeld in de volgende sectoren:
 
 3. De sectoren K&O en Staf staan onder leiding van één sectorhoofd.
 
-#### Artikel 20. Algemene verantwoordelijkheden sectorhoofden
+##### Artikel 20. Algemene verantwoordelijkheden sectorhoofden
 
 De sectorhoofden hebben de volgende algemene verantwoordelijkheden:
 
@@ -276,7 +298,7 @@ De sectorhoofden hebben de volgende algemene verantwoordelijkheden:
 
 Besluiten van de sectorhoofden moeten passen binnen de Politieacademie brede kaders, zoals door de directeur vastgesteld.
 
-#### Artikel 21. Hoofd bedrijfsvoering Politieacademie
+##### Artikel 21. Hoofd bedrijfsvoering Politieacademie
 
 1. Binnen de Politieacademie is een hoofd bedrijfsvoering onder het gezag van de directeur belast met het formuleren van de behoefte aan personeel, middelen en bedrijfsvoering(sdiensten) die de Politieacademie nodig heeft voor de uitvoering van haar taken. De directeur Politieacademie stelt deze behoefte vast.
 
@@ -286,7 +308,7 @@ Besluiten van de sectorhoofden moeten passen binnen de Politieacademie brede kad
 
 4. Het hoofd bedrijfsvoering is onder het gezag van de directeur belast met het opstellen van de jaarlijkse verantwoording over de inzet van de aan de Politieacademie ter beschikking gestelde sterkte en middelen. De directeur Politieacademie stelt deze verantwoording vast.
 
-#### Artikel 22. Jaarafspraken directeur – sectorhoofden
+##### Artikel 22. Jaarafspraken directeur – sectorhoofden
 
 1. De sectorhoofden en het hoofd bedrijfsvoering zijn over hun functioneren verantwoording verschuldigd aan de directeur.
 
@@ -296,7 +318,7 @@ Besluiten van de sectorhoofden moeten passen binnen de Politieacademie brede kad
 
 4. De directeur voert over elke managementrapportage een managementgesprek met het sectorhoofd en het hoofd bedrijfsvoering.
 
-#### Artikel 23. Management team Politieacademie
+##### Artikel 23. Management team Politieacademie
 
 1. De directeur en plaatsvervangend directeur vormen samen met de sectorhoofden en het hoofd bedrijfsvoering het Managementteam van de Politieacademie.
 
@@ -306,11 +328,11 @@ Besluiten van de sectorhoofden moeten passen binnen de Politieacademie brede kad
 
 4. De sectorhoofden en het hoofd bedrijfsvoering dragen bij aan het beleid van de Politieacademie, onder andere aan de totstandkoming van het meerjarig beleidsplan en van het jaarplan en aan de totstandkoming van de behoeftestelling aan mensen en middelen.
 
-#### Artikel 24. Indeling teams
+##### Artikel 24. Indeling teams
 
 Elke sector is onderverdeeld in teams. Het door de directeur vastgestelde inrichtingsplan van de Politieacademie bevat de verdeling in teams. De teams staan onder leiding van één of meer teamchefs.
 
-#### Artikel 25. Algemene verantwoordelijkheden teamchefs
+##### Artikel 25. Algemene verantwoordelijkheden teamchefs
 
 De teamchefs hebben de volgende algemene verantwoordelijkheden:
 
@@ -332,23 +354,23 @@ De teamchefs hebben de volgende algemene verantwoordelijkheden:
 
 - •. zij dragen zorg voor de overdracht van kennis naar het politieonderwijs en de politiepraktijk.
 
-#### Artikel 26. Bevoegdheden sectorhoofden en teamchefs ten aanzien van personeel en beheer
+##### Artikel 26. Bevoegdheden sectorhoofden en teamchefs ten aanzien van personeel en beheer
 
 De sectorhoofden en teamchefs oefenen ten aanzien van personeel en financiën de beheersbevoegdheden uit, zoals hen zijn toegekend in de geldende mandaatregeling.
 
-#### Artikel 27. Bevoegdheden sectorhoofden en teamchefs onderwijs ten aanzien van het Politieonderwijs
+##### Artikel 27. Bevoegdheden sectorhoofden en teamchefs onderwijs ten aanzien van het Politieonderwijs
 
 De bevoegdheden van sectorhoofden en teamchefs oefenen ten aanzien van het Politieonderwijs en de examinering de bevoegdheden uit, zoals toegekend in de jaarlijks door de directeur vastgestelde Onderwijs- en Examenregeling.
 
-#### Artikel 28. Bevoegdheden ten aanzien van financiële middelen Politieacademie
+##### Artikel 28. Bevoegdheden ten aanzien van financiële middelen Politieacademie
 
 De directeur van de Politieacademie stelt een mandaatregeling vast voor de bevoegdheid tot besteding van de (financiële) middelen die ingevolge de [Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788) in de rechtspersoon zijn ondergebracht.
 
-#### Artikel 29. Wijziging reglement
+##### Artikel 29. Wijziging reglement
 
 Wijziging van dit reglement vindt plaats door de directeur.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 Dit reglement wordt aangehaald als: Bestuursreglement Politieacademie.
 

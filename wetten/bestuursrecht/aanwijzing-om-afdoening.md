@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing OM-Afdoening"
 identifier: "BWBR0033342"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-04-30
-laatste_update: 2017-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033342"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2017-04-30"
+last_updated: "2017-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033342"
+soort: "beleidsregel"
+stam_id: "12236163"
+version_id: "20466502"
+internal_id: "C30020161"
+label_id: "12208244"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033342/2017-04-30/0"
+intitule_bron: "Stcrt.2013-11374"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2013-04-29"
+intitule_in_force: "2013-11-27"
+intitule_status: "vervallen"
+original_publication: "Stcrt.2013-11374"
+original_published_date: "2013-04-29"
+original_effect: "intrekking-regeling"
+original_url_id: "stcrt-2013-11374"
+entry_into_force_date: "2013-11-01"
+jci_1_3: "jci1.3:c:BWBR0033342&z=2017-04-30&g=2017-04-30"
+jci_1_0: "1.0:c:BWBR0033342&g=2017-04-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-11-01"
 ---
-
 # Aanwijzing OM-Afdoening
 
 ### Samenvatting

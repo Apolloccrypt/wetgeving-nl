@@ -1,13 +1,37 @@
 ---
 title: "Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Hannover"
 identifier: "BWBV0006072"
-categorie: "Internationaal recht"
-publicatiedatum: 1981-09-16
-laatste_update: 1981-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006072"
+country: "nl"
+rank: "verdrag"
+publication_date: "1981-09-16"
+last_updated: "1981-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006072"
+soort: "verdrag"
+stam_id: "10005011943"
+version_id: "10005332792"
+internal_id: "C10008313891"
+label_id: "10004995294"
+dtd_version: "2.0"
+original_entry_into_force: "1824-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006072/1981-09-16/0"
+intitule_bron: "Stb.1846-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1846-09-29"
+intitule_published: "1846-11-12"
+intitule_in_force: "1846-11-12"
+intitule_status: "goed"
+original_publication: "Stb.1846-54"
+original_signed_date: "1846-09-29"
+original_published_date: "1846-11-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1824-09-24"
+jci_1_3: "jci1.3:c:BWBV0006072&z=1981-09-16&g=1981-09-16"
+jci_1_0: "1.0:c:BWBV0006072&g=1981-09-16"
+citeertitel_status: "redactioneel"
+signed_date: "1846-09-29"
+entry_into_force: "1824-09-24"
 ---
-
 # Grenstractaat tussen het Koninkrijk der Nederlanden en het Koninkrijk Hannover
 
 **Gesloten en geteekend te Meppen den 2den Julij 1824,**
@@ -32,53 +56,53 @@ Zijne Majesteit de Koning der Nederlanden enz., de Heeren Maximiliaan Jacob de M
 
 En Zijne Majesteit de Koning van Hanover, enz., Hoogstdeszelfs Regeringsraad, den Doctor in de regten Coenraad Ferdinand Frederik von Pestel-Bruche, Ridder van de Koninklijk Hanoversche Guelphen Orde, Hoogstdeszelfs Landraad den Docter in de Philosophie Clamor Ernst George Victor, Vrijheer von dem Bussche-Hümnefeld, en Hoogstdeszelfs Waterbouw-Inspector Otto Diederik Christiaan Frederik Reinhold; welke Commissarissen, na wederkeerige uitwisseling hunner volmagten, onder goedkeuring hunner hooge Heeren Committenten, te zamen zijn overeengekomen omtrent de navolgende punten:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de tegenwoordige regeling en bepaling der grenzen, zijn tot grondslag genomen de grensverdragen, die in dato 16 Mei 1548, 1 Augustus 1659, 18 Mei 1778, 1 April en 3 September 1779, 26 Augustus en 9 September 1801, over de grenzen tusschen de Nederlandsche provincien Overijssel en Drenthe en het Hannoversch graafschap Bentheim, en in dato 27 October en 10 November 1764, 11 en 29 October 1784, over de grenzen tusschen de Nederlandsche provincien Groningen en Drenthe en de Hanoversche kreits Meppen, alsmede die, welke in dato 24 Junij 1636, 14 Maart 1700, 28 Augustus en 2 November 1706 en 26 Januarij 1723, over de grenzen tusschen de Nederlandsche provincie Groningen en de Hannoversche provincie Oost-Vriesland, zijn gesloten. Daar intusschen in deze verdragen gedeeltelijk de grenzen op verschillende punten niet zijn opgegeven, of wel niet naauwkeurig genoeg bepaald, gedeeltelijk ook ten opzigte der grens-afwateringen, geene voldoende bepalingen bevatten, zoo zal door het tegenwoordig tractaat in deze gebreken worden voorzien, ten einde, zoo min over het een als over het ander dezer onderwerpen, in het vervolg eenig verschil plaats vinde.
 
 Overigens zullen alle in de bedoelde verdragen voorkomende bepalingen, in zoo verre dezelve door het tegenwoordig tractaat, hetzij in het algemeen, hetzij in het bijzonder, niet zijn veranderd en opgeheven, hare volle kracht behouden.
 
-#### Art. 2
+##### Art. 2
 
 De tot dus verre bestaan hebbende bijzondere regten der wederzijdsche grensbewoners op het grondgebied van een der beide Staten, hetzij dezelve gegrond zijn op de in het eerste artikel aangehaalde grensverdragen, of wel op bijzondere convenanten, eigendom of herkomst, zullen, in zoo verre dezelve door het tegenwoordig tractaat niet bijzonder zijn geregeld en vastgesteld, aan de belanghebbenden, zoo vóór als na, blijven voorbehouden.
 
-#### Art. 3
+##### Art. 3
 
 Zoodra de grenssteenen, na de ratificatie van het tegenwoordig tractaat, zullen gezet zijn, zal eene door wederzijds benoemde geometers vervaardigde topographische grens-kaart, alsmede eene topische beschrijving der grenzen, met de noodig croquis, waarop alle grens steenen, derzelver afstanden en hoeken naauwkeurig zijn gebragt, door wederzijdsche Commissarissen aan hunne respective Gouvernementen worden overgelegd; inmiddels zal bij het tegenwoordig tractaat eene naar eene kleinere schaal vervaardigde generale topographische kaart, tot opheldering, worden gevoegd.
 
-#### Art. 4
+##### Art. 4
 
 Daar, waar de grenslijn gebouwde eigendommen doorsnijdt, zal het geheel gebouw aan de Souvereiniteit van dien Staat onderworpen zijn, in welken het grootste gedeelte van hetzelve is gelegen. Desgelijks zal ook de grenslijn, waar dezelve tuinen doorsnijden mogt, die onmiddellijk aan de woonhuizen gelegen zijn, om den tuin heen getrokken worden, zoodanig, dat ook deze tot het gebied behoort, waaronder het huis gerekend wordt; en eindelijk, wanneer de grenslijn tusschen woonhuizen en de daaraan gelegen gebouwen of schuren loopt, zullen de laatsten, met opzigt tot de Souvereiniteit, tot dien Staat behooren, waarin de woonhuizen gelegen zijn.
 
 Alle gevallen echter, waarop deze bepalingen van toepassing worden gemaakt, zullen bij het stellen der grenssteenen, in de topische beschrijving bijzonder worden vermeld, alsmede op de kaart aangegeven worden, of het door de grensscheiding doorsneden woonhuis of gebouw Nederlandsch of Hanoversch is.
 
-#### Art. 5
+##### Art. 5
 
 Na de ratificatie van het tegenwoordig tractaat, zullen, noch door corporatiën, noch door bijzondere personen van een der beide Staten, geene gebouwen nader bij de grenzen mogen worden opgerigt, dan op eenen afstand van driehonderd zes en zeventig Nederlandsche ellen en zeven palmen of honderd Rijnlandsche roeden.
 
 Door deze bepaling echter zal het Hoogheidsregt der beide Gouvernementen, om overal aan de grenzen, waar dezelve zulks in het vervolg noodig mogten oordeelen, staatsgebouwen of verdedigingsinrigtingen, van welken aard ook, aan te leggen, in geenen deele beperkt worden.
 
-#### Art. 6
+##### Art. 6
 
 Daar, waar het tusschen aangrenzende gemeenten van beiden Rijken gebruikelijk is het vee **ductu naturae** of zonder hoeder te laten weiden, zal hetzelve, wanneer wederregtelijk de grenslijn mogt overtreden en deze tevens marktscheiding is, en niet verder dan honderd acht en tachtig Nederlandsche ellen en vier palmen of vijftig Rijnlandsche roeden van de grens mogt verwijderd zijn, niet mogen worden geschut, maar zal in dat geval aan de belanghebbenden slechts geoorloofd zijn, het overgeloopen vee weder over de grenzen terug te drijven, zonder hetzelve te jaren of te doen aanhitzen.
 
 Deze bepaling zal echter geen plaats hebben, met betrekking tot gecultiveerde of bevredigde gronden, noch ook in het geval, waar het vee door eenen hoeder wordt bewaakt, of waar hetzelve, volgens bestaande usantien tusschen eenige gemeenten, in het geheel niet over de grenzen mag komen, als blijvende in die gevallen het regt van schutten van het overgeloopen vee en de invordering van het in iedere gemeente gebruiklijk schutgeld, aan de belanghebbenden voorbehouden.
 
-#### Art. 7
+##### Art. 7
 
 Aan de grensbewoners, wier eigendom gedeeltelijk aan deze, gedeeltelijk aan gene zijde der grenzen gelegen is, zal eene geheel vrije gemeenschap met zoodanige grondstukken, in zoo verre die tot bedrijf van hunnen akkerbouw noodig is, zijn voorbehouden; dienvolgens kunnen de bezitters van zulke gronden, mest, stroo, strooisel en andere bemestingen voor het bebouwen hunner landerijen, als mede alle soorten van veld-, tuin- en boomvruchten, uit- en invoeren, zonder ergens aan eenige regten, hetzij inkomende of uitgaande, transito of andere dergelijke belastingen, onderworpen te kunnen worden.
 
 Zij zullen alleen door certificaten hunner plaatselijke autoriteiten behooren aan te wijzen, dat zij aan gene zijde der grenzen een eigendom bezitten en bebouwen, doch kunnen zich niettemin aan het onderzoek en visitatie der commiesen of andere tot wering des sluikshandels wettig aangestelde ambtenaren, niet onttrekken. Deze zijn daarentegen alleen bevoegd, respectivelijk op derzelver gebied visitatien te doen.
 
-#### Art. 8
+##### Art. 8
 
 Voor zoo verre, door de bepalingen van het tegenwoordig tractaat, eenige gebouwen of andere gronden mogten overgaan onder eene andere Souvereiniteit, als waartoe dezelve tot beden hebbeen behoord, zullen de Rijks belastingen, die thans van zoodanige percelen worden geheven, voor het jaar 1825 blijven voortduren ten behoeve van het Rijk, hetwelk dezelve thans geniet; edoch van af den eersten Januarij duizend acht honderd zes en twintig alleen door dat Gouvernement worden belast, tot wiens Souvereiniteit deze percelen alsdan zullen behooren.
 
-#### Art. 9
+##### Art. 9
 
 Daar, waar de grenslijn gronden doorsnijdt, die, of aan Nederlandsche hofhoorige erven of aan Hanoversche lijfeigene boeren behooren, zal opzigtelijk huune tegenwoordige betrekkingen tot derzelver goedsheeren, geene verandering worden te weeg gebragt.
 
-#### Art. 10
+##### Art. 10
 
 De Nederlandsch-Hanoversche grenzen vangen aan, te rekenen van de provincie Overijssel en het graafschap Bentheim, in den omtrek van het zoogenaamde Welperveen of Vleer, ter plaatse waar zich het Nederlandsch, Hanoversch en Pruisisch grondgebied, bij het punt Drieland genaamd, vereenigt en waar thans een met het jaartal 1659 gemerkte grenssteen staat.
 
@@ -98,41 +122,41 @@ Door deze bepaling zal alsdan, na aftrek der breedte van den halven weg, van den
 
 Het vorengenoemde alignement of middellijn van den weg zal worden aangewezen door den op vier en negentig Nederlandsche ellen twee palmen of vijf en twintig Rijnlandsche roeden noordwaarts van den slagboom voor Kalters of Rademakers kamp ingeslagen piquetpaal en het op zeven Nederlandsche ellen vijf palmen, of twee roeden Rijnlandsch westelijk van den zuidelijken hoek der kamp van den Hanoverschen bouwman Schutte of Schutman aangenomen punt, en valt vervolgens in den reeds bestaanden weg voor Schutmanskamp, zullende deze laatste weg insgelijks van daar af tot aan den steen n°. 11 in den wal van de aan den Hanoverschen landbouwer Rammelkamp toebehoorende Twenter kamp aan de Rammelbeek, in regte lijn gelegd worden, zoodanig, dat deszelfs middellijn tot daartoe de grens uitmaakt.
 
-#### Art. 11
+##### Art. 11
 
 Het gebruik van den hiervoren genoemden gemeenschappelijken Rammelhaarweg zal voor de ingezetenen der beide Staten, zoo wel in commercieel als in andere opzigten, vrij en ongehinderd zijn en blijven.
 
-#### Art. 12
+##### Art. 12
 
 Van den in art. 10 laatstgenoemden steen aan de Rammelbeek, loopt de grensscheiding, ingevolge het in d°. 1 April en 3 September 1779, tusschen de Provincie Overijssel en het Graafschap Bentheim gesloten vergelijk-reçes, op de langs de gemeenschappelijke Rammelbeek voorhanden steenen n°. 10, 9, 8, 7, 6, 5, 4, 3, 2 en 1, staande deze laatste steen aan het einde der Rammelbeek aan den oostelijken hoek van Strootmans kamp.
 
 Hierbij moet echter bemerkt worden, dat van den steen n°. 7 af aan tot aan Wolfskamp, de grenslijn niet langs de sedert het bovengemeld convenant regt doorgegraven Rammelbeek loopt, maar den ouden nog zigtbaren loop der Rammelbeek oostelijk in Rammelkamps hooiberg volgt, waarin zij drie wendingen maakt, die te zamen eenen kleine vierhoek vormen en dan in Rammelkamps hooiberg zich weder aan het punt aansluit, waar de nieuw doorgegraven Rammelbeek, tusschen Wolfskamp en Rammelkamps hooiberg, in de oude aangehouden en verder tot grens strekkende beek weder invalt.
 
-#### Art. 13
+##### Art. 13
 
 De in het aangehaalde vergelijk-reçes van het jaar 1779 bepaalde jaarlijksche bezigtiging der op voorschreven wijze de landgrens formerende Rammelbeek, zal voortaan, op den eersten Maandag in September van ieder jaar, door de wederzijdsche plaatselijke autoriteiten, die zulks aangaat, worden verrigt en voor de opruiming der beek door de wederzijdsche geconcerneerde gemeenten, door hen worden gezorgd; zullende dezelve ook in hunne tegenwoordigheid moeten geschieden.
 
-#### Art. 14
+##### Art. 14
 
 Van den steen aan den oostelijken hoek van Strootmanskamp, loopt de grens verder in regte lijn op eenen keisteen, in de nabijheid van den zoogenaamden Voelendijk of weg van Ootmarssum naar Noordhoorn gelegen; vervolgens dwars over dezen dijk of weg, in regte lijn, op eenen keisteen, oostelijk van het daarbij gelegen zoogenaamd Bergsvinne, welke, volgens opgave, tevens de scheidsteen is tusschen Breckelenkamp, Frensdorf en Lattrup. Van hier door het heideveld regt op eenen kruiskuil in de zoogenaamde Wateringspool, weleer Wateringsblanke en ook Tibbenpool genaamd, alwaar een paal staat; alsdan in regte lijn door het heideveld op eenen oord in het Veen, de Plessche of Vledder genaamd en verder door eenen ouden Kruiskuil, noordelijk van den weg van Frenswege, regt op den zoogenaamden Scheidebult, waarop een zandsteen, zonder jaartal of merkteeken, staat. Deze steen is, volgens opgave, tevens Marktescheiding tusschen de westelijk gelegen Nederlandsche boerschap Breckelenkamp en de Hanoversche boerschappen Frensdorf en Grasdorf, zoo mede de opgegeven scheiding tusschen het Boven- en Neder-Graafschap Bentheim.
 
 Van dezen steen verder in regte lijn door het heideveld op eenen heuvel, westelijk van eenen waterpoel, Pispot genaamd, gelegen. Van hier in dezelfde rigting op eenen noordelijk gelegen kruiskuil, waarbij thans een wachholder struik staat; verder regt op een ander punt aan de oostzijde des wegs, welke langs het Groenland, de Breckelenkamper Schiphorst genaamd, loopt: als dan in regte lijn op een punt in de rigting op de zoogenaamde kalverlage, hetwelk aan de Grasdorper Schiphorst en Zuidoostwaarts van den hoek van Kalverlagenkamp, het nieuwe Land genaamd, ligt, van waar de grens, in regte lijn door het heideveld, naar het westen draaijende digt aan en noordwestelijk langs den zoogenaamden Rondenbult loopt, in de rigting op de schuur van den Bentheimschen boer Bucht, tot aan het klein Breckelenkamper eikenboschje, aan de oostzijde der heg of wal van Bucht: alsdan, langs deze heg of wal, die op Hanoversch grondgebied ligt, tot aan bovengemelde schuur van Bucht.
 
-#### Art. 15
+##### Art. 15
 
 De hiervoren omschreven territoriale linie, van af de Scheidebult tot aan de schuur van Bucht, is tevens, na verhoor van wederzijdsche geînteresseerden, voor altijd aangenomen en vastgesteld, als marktescheiding tusschen de Nederlandsche boerschap Breckelenkamp en de Hanoversche boerschap Grasdorf, zoo als dezelve bij deze daarvoor wordt aangenomen en vastgesteld.
 
-#### Art. 16
+##### Art. 16
 
 Vermits de op de grenzen wonende Hanoversche bouwman Bucht, met zijn vee en hetgene tot bedrijf van den akkerbouw benoodigd is, niet op zijne op Hanoversch territoir gelegen landerijen kan komen, zonder het Nederlandsch grondgebied te passeren, waartoe hij te voren steeds is geregtigd geweest, zoo zal hem van zijne schuur tot aan den oostelijk van de in art. 14 gemelde Breckelenkamper eikenkamp gelegen slagboom in deszelfs heggen, langs welke de grenslijn zuidoostelijk heen loopt, een weg van zes Nederl. ellen twee palmen of twintig rijnlandsche voeten breedte over de territoriale linie en ter lengte van circa honderd acht en tachtig à twee honderd zes en twintig ellen Nederlandsch of vijftig á zestig rijnl. roeden, voor altijd verblijven.
 
-#### Art. 17
+##### Art. 17
 
 Van Buchtsschuur gaat de grenslijn op een piketpaal, zuid-oostelijk bij het op Hanoversch grondgebied staande bakhuis van den Nederlandschen bouwman Rotman; van daar op het Weekkebrook over een stuk gronds, de Horst genaamd, circa vijf ellen zes palmen Nederlandsch of een en een halve rijnlandsche roeden ten noordwesten van de buitensloot; verder op een paal, circa vijf en veertig Nederlandsche ellen twee palmen of twaalf rijnlandsche roeden, zuid-oostelijk van den boer Waaner, onder Lage wonende, in het veld; alsdan op eene kleine brug of bolle, oostelijk van den Hanoverschen boer Brookhaus; van daar op een punt in het zoogenaamd Kupersveld, verder op eenen naauwen rijweg, genaamd de ruwe steeg en wel daar, waar dezelve zich kromt, dicht bij het hek van Kupersveld; en eindelijk in regte lijn over de oude huisplaats of tuin van den boer Seize en over een slagboom of hek bij Maatmans huurhuis, op den schoorsteen van het woonhuis des Hanoverschen landmans Maatman.
 
 Van hier in regte lijn op het zoogenaamd Spiek- of Dinkelvonder; verder regt over de landen van den bouwman Drost van Hesinge en Voelman, over den hof van den Nederlandschen bouwman Rupen, tot aan den slagboom aldaar. Verder in regte lijn, tusschen de Haller en Hesinger Velden heen, door de kamp van den bouwman Warsman te Halle, het Warsings-eiland genaamd; voorts door de Hesinger gemeente velden op een steen zonder jaartal of teeken, die in den wal eener weide staat, de Paardenmate genaamd, aan den weg van Ootmarssum naar Ulsen; van dezen steen in regte lijn door de landen van Holthuis en het Hallerveld, alsmede door de landen van den bouwman Schadebusch bij zijn huis, over de oude huisplaats op den vijver of waterpoel van denzelven; vervolgens in dezelfde rigting door het Hesingerveld, op den zoogenaamden visvijver van den Scholte te Nielingen. Van hier verder in westelijke rigting, door de landen van gezegde Scholte en het Paardeveld, regt op den steen op den zoogenaamden Paalbult of Paalberg, en dan noordwaarts en westelijk van het huis van den boer Paus Westerhof, regtuit over een heuvel, de Galgenbult of Galgenberg genaamd, op den steen aan de zoogenaamde Brandbult staande, in de nabijheid van de zoogenaamde Manderströhe, ook Manderskamp genaamd; verder in westelijke rigting door het heideveld en noordelijk langs Veldkuperskamp op een keisteen aan Veddeler Ströhe of Kamp, noordelijk van de Manderströhe of Kamp liggende; van hier in regte en wel westelijke richting door het heideveld, hetwelk ten zuiden der grenzen het Wagenbosch heet, op eenen steen, zonder merkteeken, in het veld aan den weg naar Almelo, niet verre van Gootjan; verder in regte lijn door het heideveld, de Mandelkante en het Manderveld genaamd, alsmede dwars over de wegen van Almelo naar Getelo, van Mander op Getelo en over den dwars Venneweg, op eenen steen in de Topheide, ook steen in de Geteler Ruwe genaamd en van hier in regte lijn op eenen steen aan de Manderhondegraft. De naaste steen, waarop de grenslijn regtaan loopt, bevindt zich aan de Dwarsbekke of Kattenonland, ook Kommerkamp genaamd en van hier gaat dezelve op eenen steen, bij de zoogenaamde Geteler Suze of Oudweitzenland, tusschen beide ook al Kommerkamp genoemd. Van hier op eenen steen in Heidenhoek aan Scholtenkamp of ten zuiden van Schuurmans- of Heringskamp achter Brinksmate staande; voorts in regte lijn, noordwestelijk aan de Eldersgracht langs, op het punt waar deze gracht de Gotterbeek doorsnijdt en van daar regt op den steen aan den zoogenaamden Muntjesberg.
 
-#### Art. 18
+##### Art. 18
 
 Ingevolge het reeds vermelde Grens-Reces van 1 April en 3 September 1779, gaat de grenslijn, van af den steen op de Muntjesberg, in regte lijn naar den volgenden steen, welke naast den zuidelijken hoek van de oude mate van Albert Mensen gezet is; van daar regt op den steen aan den westelijken hoek van gezegde mate; verder op den vierden grenssteen, welke ongeveer in het midden der grenslijn naar het punt op den Strijperdijk staat; alsdan in regte lijn naar den vijfden steen op den voornoemden dijk of weg van Sipculo naar de Strijpe, en wel in noordwestelijke rigting; van dezen steen wendt zich de grens meer noordelijk door het Itterbeeker en Balderhaarsche Veen en loopt op den zesden steen, welke aan den noordwestelijken hoek van de op Hanoversch grondgebied gelegen weide van Harmen Balderhaar staat.
 
@@ -140,45 +164,45 @@ Van laatstgenoemd punt gaat de grens in regte lijn op den ouden grenssteen, die 
 
 Van gezegde wel gaat de grens verder langs de daaruit vloeijende sloot, de Welbeek of Springe genaamd, tusschen de landen der bouwlieden Wellewerth, Snieders, Junghans en Balderhaar, tot aan het punt, waar deze beek, in noordoostelijke rigting in de Radewijker beek valt, van waar af aan de laatstgemelde beek, in oostelijke rigting, tot aan de sloot, welke de maten van den Nederlandschen bouwman Tackman en van den Hanoverschen bouwman Schultman scheidt, gemeenschappelijk is en de grens uitmaakt. Van daar verder in noordelijke en regte rigting, langs de gemeenschappelijke sloot, op den steen in Schultmanskamp, die met het Bourgondische kruis gemerkt is.
 
-#### Art. 19
+##### Art. 19
 
 Vorengenoemde Radewyker beek zal, voor zoo verre dezelve gemeenschappelijk is en tot grens verstrekt, door de ingezetenen van de Nederlandsche boerschap Radewyk en de Hanoversche ingezetenen van Itterbeke, Wiele en Balderhaar voortaan, even zoo als tot dusverre heeft plaats gehad, jaarlijks ter bekwamer tijd geruimd, door de wederzijdsche plaatselijke autoriteiten geschouwd en steeds in schouwvrijen afwaterings-staat gemeenschappelijk onderhouden worden.
 
-#### Art. 20
+##### Art. 20
 
 Van den steen van Schultmanskamp gaat de grenslijn in regte en noordwestelijke rigting, op den zoogenaamden Melenberg, alwaar een tot den grond toe afgebroken zandsteen staat, die ook de Hooge steen wordt genoemd.
 
-#### Art. 21
+##### Art. 21
 
 Daar de in het grensverdrag van den jare 1548 bereids vastgestelde deeling van het op Hanoversch grondgebied gelegen Veen tusschen den Melenberg en den steen bij Schultman naar Laarwold heen, voor de eene helft ten behoeve der Nederlandsche ingezetenen van Holtheme en de Velde, en de andere helft ten behoeve van de Hanoversche ingezetenen van Laarwold, tot dusverre nimmer is voltrokken geworden, zoo is men thans daaromtrent overeengekomen dat de gezegde Nederlandsche ingezetenen van Holtheme en de Velde, eens vooral, voor hun aandeel van het bedoelde Veen zullen bekomen eene met steenen af te zetten oppervlakte van acht honderd zes en vijftig duizend acht honderd zes en zestig vierkante ellen en vier dito palmen Nederlandsch of zestig duizend drie honderd vier en tachtig vierkante Rijnlandsche roeden, paralel met de grenslijn, welke oppervlakte van den hoogen steen of Melenberg af aan, tot aan de negen honderd een en veertig Nederlandsche ellen acht palmen of twee honderd vijftig Rijnlandsche roeden van den steen, bij Schultman, in noord-westelijke rigting, bij de Radewijker Zandplaats gelegen hut, eene lengte van drie duizend drie honderd vijf en veertig Nederlandsche ellen vier palmen of acht honderd acht en tachtig Rijnlandsche roeden, en oostelijk van de territoriale linie, eene overal gelijke breedte van twee honderd zes en vijftig Nederlandsche ellen twee palmen of acht en zestig Rijnlandsche roeden zal hebben.
 
-#### Art. 22
+##### Art. 22
 
 Van den in art. 20 laatstgemelden steen, loopt de grens verder regt op den zoogenaamden lagen steen, zijnde een keisteen zonder merkteeken en voor de zoogenaamde ruwe Slinge gelegen. Voorts over de plaats, waar de oude Poffershutte heeft gestaan, langs de sloot van de Landweer, tot aan de Sallandsche- of Torensteeg, zoodanig, dat de landweer op Nederlandsch grondgebied is, en de oostelijk langs dezelze loopende sloot de grens uitmaakt.
 
-#### Art. 23
+##### Art. 23
 
 De oude waterleiding, die op Hanoversch grondgebied, bij de zoogenaamde Poffershutte uit de Rouwerijte, langs het land van kleine Eikenhorst en vervolgens langs de weide van groote Eikenhorst loopt, alsmede de hoofdwaterleiding welke het water uit de geheele streek aldaar, bij het erf Groot-Eikenhorst, van de Heesterkant op Hanoversch grondgebied, in de Vecht voert, zal door de Hanoversche ingezetenen, die zulks aangaat, jaarlijks opgeruimd en in schouwvrijen staat onderhouden worden. Daarentegen echter zal van de Nederlandsche zijde, aan den afloop van het water bij de Ruweslinge of Landweer naar de Nederlanden heen, geene hindernis worden toegebragt, en diensvolgens de aldaar voor eenige jaren aangelegde en nog aanwezige dam, dadelijk nadat de grenssteenen zullen gezet zijn, geslecht en geheel vlak gemaakt worden.
 
-#### Art. 24
+##### Art. 24
 
 Van de Sallandsche of Torensteeg gaat de grensscheiding langs de heg en de sloot, westelijk voorbij het huis van Hendriks heen, naar een punt aan den linker-oever der Vecht, aan den noordoostelijken hoek der kamp van den bouwman Eikenhorst, waar voorheen tegen over het huis der Erven van Voss een grenspaal heeft gestaan. Van hier, dwars over de Vecht, op eenen afgehouwenen steen, welke aan de Laarsche Mate, de lage Holhorst genaamd, staat. Van dezen steen verder, langs den westelijken wal van den Hanoverschen rijweg, welke van het Laar naar de Laarsche brug leidt, tot westelijk voor het huis van den bouwman Albert Remeler of Remeling; alsdan over deszelfs land en dat van J. Ems, tot een punt aan de sloot, tusschen Kohlers en laastgenoemd bouwland van Ems, alwaar de grenslijn in de sloot valt, die langs de landen van Mulder, Paus, Klokhorst, Ampsing en Levegrave loopt en de grens uitmaakt, tot aan den steen n°. 16, waar de provinciën Overijssel en Drenthe en het graafschap Bentheim aan elkander stooten.
 
-#### Art. 25
+##### Art. 25
 
 De zoogenaamde kleine Vecht bij Coevorden, op Nederlandsch grondgebied, zal, ter bevordering van den afloop van het water der in dezelve uitwaterende beken, aan zijde der Nederlanden, jaarlijks behoorlijk opgeruimd worden.
 
-#### Art. 26
+##### Art. 26
 
 Van het in Art. 24 laatstgemeld punt gaat de grenslijn, ingevolge de bepalingen van het grensverdrag van 26 Augustus en 9 September 1801, tusschen het toenmalig landschap Drenthe en het graafschap Bentheim gesloten, op den steen met n°. 15 gemerkt, alwaar de Swiersmate, de Vier Dagwerken van Dalhof en de Buckhorst aan elkander stooten; verder op de steenen n°. 14 en 13, welke aan de beide hoeken der aan den Coevordschen Marsch gelegen zoogenaamde wilde toeslag of Brugmansmate staan; dan op den steen n°. 12, bij het zoogenaamd Hesselgat, aan den zuidwestelijken hoek van den Coevordschen Marsch; van hier langs de om denzelven zich bevindende sloot door het broek en de weilanden, de Heege genaamd, op den steen n°. 11, welke aan den noordelijken hoek van het Herskampje staat; voorts in regte lijn op den steen n°. 10 in de Hege of Zevenslage staande, en verder op den aan den uitersten westelijken hoek van Schipper Borgbrinks kamp staande steen n°. 9, blijvende deze kamp geheel Hanoversch; van het laatstgemeld punt op den steen n°. 8, die aan den zuidelijken hoek van gezegde Schipper Borbrinks kamp staat, dan op den steen n°. 7 in de zoogenaamde Vrouwenmate; verder op den steen n°. 6, welke op den weg van Coevorden, tegen over den uitersten hoek der gezegde zoogenaamde Vrouwenmate staat; van hier op den steen n°. 5, op genoemden weg, tegen over de Wesselinksche gracht; verder op den steen n°. 4, aan het punt waar de water- en galgematen te zamen loopen: van daar op den steen n°. 3 , die zich aan den hoek van Wesselinks hooge mate bevindt; alsdan op den steen n°. 2, op den hoek der Stalveskamp, aan den bouwman Iken toebehoorende, en eindelijk langs de westelijk gelegen bevreding van de grondstukken der Bentheimsche bouwlieden Iken en Bus, tot op den steen n°. 1, bij het zoogenaamde Schoonebeker-diep, aan de sloot der mate van den Kooter Buss, van waar de Aa, ook Schoonebeker-diep genaamd, volgens haren tegenwoordigen krommen loop, tot aan de zoogenaamde Twist, de landsgrens uitmaakt.
 
 Bij het begin der Twist, en wel bij de aan elkander stootende hoeken der gronden van G. Steffen, G. Slaats en J. Niers, deelt zich de Aa in de zuider- en noorderstrangen of beken, waarvan de zuiderstrang de gemeenschappelijke grens uitmaakt, tot aan den steen, welke, ten gevolge der overeengekomen en hierna omschreven deeling van het compascuum in de Twist, op den linker oever van de zuider-Aastrang, tegen over het zuideinde der deelingslijn zal worden geplaatst. Deze steen zal alsdan het laatste grenspunt tusschen de provincie Drenthe en het graafschap Bentheim, en de aanvang der grenzen tusschen de evengenoemde provincie Drenthe en de kreits Meppen zijn.
 
-#### Art. 27
+##### Art. 27
 
 Het vorengenoemde Schoonebeker-diep of de Aa, van den steen no. 1, achter Esschenbrug af aan tot den laatst beschreven bij de Twist, zal jaarlijks tweemalen, en wel in de maanden Mei en Augustus, door de daartoe van oudsher van wederzijde verpligt geweest zijnde ingezetenen, opgeruimd en in schouwvrijen staat onderhouden worden; zullende dezelve mede jaarlijks door de wederzijdsche plaatselijke autoriteiten behooren te worden geschouwd, die niet zullen gedoogen, dat aan eene goede en vrije afwatering eenige belemmering worde toegebragt.
 
-#### Art. 28
+##### Art. 28
 
 Het compascuum in de Twist, in het grensvergelijk tusschen de Nederlanden en het voormalig Munsterland des jaars 1764 en 1784 nader omschreven, zal worden gedeeld en zal de deelingslijn van het compascuum tevens aldaar de territoriale grensscheiding uitmaken.
 
@@ -202,31 +226,31 @@ Waartegen:
 
 - 8°. Nadat het compascuum zal gedeeld zijn, zal het aan de wederzijdsche onderdanen niet geoorloofd zijn, derzelver vee op elkanders aandeel te weiden of daarover te drijven.
 
-#### Art. 29
+##### Art. 29
 
 Daar, zoo als reeds is gezegd, de deelingssloot van het compascuum tevens de territoriale grensscheiding zal uitmaken, zal de in de convenanten van 1764 en 1784 opgegeven grenssteen n°. 1 van zijne tegenwoordige plaats, naar dat punt aan de linkeroever van de zuiderstrang der Aa worden verplaatst, waar de in het vorig artikel onder 3°. en 4°. omschreven deelingslijn dezen oever doorsnijdt. De tot dusverre ten zuiden van Hekmans-boe gestaan hebbende grenssteen n°. 2, wordt aan den zuidwestelijken hoek van meergemelde, oostwaarts de gronden van Hekman gevonden wordende sloot op Nederlandsch grondgebied gesteld. Van af dit punt gaat de grensscheiding in noordelijke rigting langs het midden dezer sloot, zoo als dezelve thans bestaat; op den noordoostelijken hoek dier sloot zal, nadat daaraan de bij artikel 28 bepaalde breedte zal zijn gegeven, vervolgens een nieuwe grenssteen, tegenover de middellijn van den sloot, zoo als die thans ten noorden van Hekmans-boe aanwezig is, op Hanoversch grondgebied worden geplaatst. Van af dezen steen volgt de grens westwaarts de zoo even genoemde middellijn, tot daar, waar deze de oude territoriale linie weder aantreft en waar insgelijks een grenssteen zal worden gesteld.
 
-#### Art. 30
+##### Art. 30
 
 Van den hierna op den linkeroever van de zuiderstrang der Aa te plaatsen eersten grenssteen, tusschen de provincie Drenthe en de kreits Meppen, tot aan het vroeger opgegeven punt ten noorden van Hekmans-boe, op de oude territoriale linie, maakt de middellijn der te graven gemeenschappelijke sloot de territoriale grensscheiding uit.
 
-#### Art. 31
+##### Art. 31
 
 Van het laatstgemeld punt noordelijk van Hekmans-boe gaat de grens in regte lijn verder in dezelfde rigting en over dezelfde punten, die in de convenanten van 1764 en 1781 beschreven zijn. Alzoo staat de naaste steen na Hekmans-boe, westelijk niet verre van Deckershuis en het Hebelermeer op de plaats, waar de grenslijn het zoogenaamde kanaal van Martels, tusschen het Hebeler en het Zwarte meer, doorsnijdt, zoodanig dat een derde van deze sloot naar het Hebeler- en twee derde naar de zijde van het Zwarte meer worden afgesneden. Deze steen is met n°. 3 gemerkt. De volgende steen n°. 4, waarop de grenslijn, in regte en noordelijke strekking, voortgaat, staat aan den Zwartenberg naast het huis van Tholen.
 
-#### Art. 32
+##### Art. 32
 
 Opzigtelijk het compascuum ten westen der territoriale linie op Nederlandsen gebied, in den omtrek van het Zwarte en Hebelermeer gelegen, waarin de Hanoversche gemeente Wesuwe en Versen, volgens art. 5 van het convenant van den 11 October 1784, geregtigd zijn met hunne koeijen en schapen tot aan het Zwarte meer te weiden, alsmede met betrekking tot het compascuum in den omtrek van den grenssteen, tusschen het Zwarte en Hebelermeer, tot aan den steen bij den Zwartenberg, in hetwelk de Hanoversche gemeenten Oude Haren, Over- en Neder-Langen, volgens art. 7 van het bovengenoemd convenant des jaars 1784, het meeweideregt voor hun vee, zoo als hetzelve aldaar is gestipuleerd, tot aan de Aa is verbleven, worden aan de genoemde Hanoversche gemeenten, de in dit convenant gestipuleerde voorregten verder voorbehouden, in zoo verre namelijk het laatstvermelde compascuum niet reeds gedeeltelijk door het in dato 24 September 1817 gesloten vergelijk, tusschen de Nederlandsche geïnteresseerden van Emmen en Westenesch ter eenre, en de Hanoversche belanghebbenden van Oude Haren, Over- en Nederlangen ter andere zijde, verdeeld is geworden.
 
-#### Art. 33
+##### Art. 33
 
 Van den bij art. 31 vermelden steen aan den Zwartenberg, gaat de grens verder in regte lijn langs de westzijde der tuinen van de Linteloosche colonisten en op eenen kleinen afstand achter derzelver huizen, op den vooruitspringenden oostelijken hoek van Monnekenmoer, waar de vijfde grenssteen staat; van daar in regte rigting op den toren van Ter Apel aan, naar den zesden grenssteen bij het Barenfleer; dan tot aan den met n°. 7 gemerkten steen bij den Graaf Ernst of zoogenaamden Zwolschen dijk in de Hanentang; verder in regte rigting naar den steen n°. 8, op den Hassenberg, aan de scheiding tusschen Dersum en Walchum; vervolgens op den met n°. 9 gemerkten steen, welke omtrent drie honderd zesënzeventig Nederl. Ellen en zeven palmen of honderd Rijnl. roeden, ten zuiden van Abeltjes-kamp, tot Bourtange behoorende, verwijderd is; van hier in regte lijn, oostelijk voor Abeltjes huis heen, door de oostelijke punt van Abeltjes kamp, op den steen n°. 10, aan den weg van Bourtange naar Rhede; alsdan op den steen n°. 11, aan, het noordeinde van het retranchement, van waar westelijk de scheiding van het nieuw Rheder privaat eigendom afloopt; voorts in legte lijn op den steen n°. 12, welke aan de zuidzijde van het Lieske-meer staat; van hier in regte en bijna noordelijke rigting, op den gezonken steen n°. 13 aan den Lethervleugeldijk of Heerenveendijk, bj de voormalige Oostvriesch-Munstersche grenzen en alwaar die tusschen de Nederlandsche provincie Groningen, en de Hanoversche kreits Meppen een einde nemen.
 
-#### Art. 34
+##### Art. 34
 
 De tegenwoordige afwatering der gecultiveerde en ongeculviteerde gronden van de Hanoversche colonie Ruitenbroek naar de Aa op Nederlandsch grondgebied, werwaarts het water zijnen natuurlijken loop heeft, zal zoo lang blijven bestaan, tot dat het Nederlandsch gouvernement zal goedvinden, de zoogenaamde Leidijken in dien omtrek en verder op, weder te doen herstellen, in welk geval echter dadelijk de thans geheel vervallen pomp in de leidijk, bij het voormalig wachthuis, boven het zoogenaamd Ossenschot, op Nederlansch grondgebied gelegen, van negen palmen vier duim Nederl. of drie voeten Rijnl. vierkant, van de zijde der Nederlanden zoodanig zal hersteld worden, dat de bodem van de pomp ten minste negen palmen, vier duim Nederl. of drie voeten Rijnl. onder het maaiveld te liggen komt en het van Ruitenbroek afkomende water door dezelve, door middel van de oude ter behoorlijke diepte op te ruimen sloot, naar de Aa vrij kan worden afgevoerd. Overigens zal dan van Hanoversche zijde niet meer water derwaarts mogen worden afgeleid, dan door middel eener pomp van negen palmen vier duimen Nederlandsch of drie voeten Rijnl. vierkant, kan worden geloosd. Desgelijks zullen de leidijken, zoodra dezelve en de gezegde pomp weder hersteld zullen zijn, niet meer mogen worden doorgestoken, waarvoor de wederzijdsche plaatselijke autoriteiten, zoo veel mogelijk, zorg zullen moeten dragen.
 
-#### Art. 35
+##### Art. 35
 
 De in den omtrek van Bourtange in de kade, tusschen de redout Bakoven en Abeltjeshuis, thans aanwezige sluis van vier ellen Nederl. of twaalf voeten acht duim rijnlandsch breedte, zal van de zijde der Nederlanden, dadelijk na de ratificatie van het tegenwoordig grenstractaat weggenomen, de opening van de sluis behoorlijk gestopt en toegedamd worden. Desgelijks zullen alle verdere openingen in de voorsz. kade gedempt en de geheele kade in goeden staat gebragt, onderhouden en niet weder doorgestoken worden, waarvoor door de Nederlandsche autoriteiten, zooveel mogelijk, zorg zal worden gedragen.
 
@@ -234,7 +258,7 @@ In plaats van gemelde sluis echter, zal als eenige Nederlandsche afwatering door
 
 Deze afwatering der Nederlanden, naar en over het Hanoversche territoir, zal wel vrij en ongehinderd zijn, echter zal in geen geval aldaar meer water naar de Hanoversche zijde mogen worden afgeleid, dan door middel van voormelde pomp van negen palmen vier duim Nederlandsch of drie voeten Rijnlandsch vierkant kan worden geloosd.
 
-#### Art. 36
+##### Art. 36
 
 Van den steen no. 13 aan de Lethervleugeldijk of Heerenveendijk, waar voorheen de grenzen tusschen Oostvriesland en Munster aanvingen, wendt zich de grens noordwestelijk langs de gemeenschappelijke Moorsloot, hebbende ten noordoosten de moerassen en de huizen van de weduwe Meidel, H. Albers en Gerrit Priet, op Hanoversch grondgebied en ten zuidwesten de Letherlanden op Nederlandsch gebied, welke Moorsloot, tegen over de landen van Bellinga en Tiebes, de van Lethe komende Moorsloot opneemt en dan verder, als gemeenschappelijke grenssloot in noordelijke rigting, tusschen de Nederlandsche gronden de Ham, de Hamdijk en Boneschans en de Hanoversche privaatgronden van het Wijmeerster Zijlacht, tot aan de om de buitenwerken van de Nieuwe of Langakkerschans gaande grenssloot, ten oosten dier vesting, de grens nitmaakt. Van daar gaat de grenslijn langs deze grenssloot, welke op Hanoversch gebied eene keerkade of kaaijing heeft. Alsdan wendt zich de grens aan de oostzijde van de nieuwe schans, zuidoostwaarts langs den noordelijken oever van het door Bunder-Nieuwland voerende kanaal of Griffe naar den ouden dijk, ook Heerenweg of Bunderdijk genaamd, en zuidelijk langs dezen dijk tot aan den Heerenpaal, boven het huis van Thomas Goman; van daar gaat de grens verder tusschen de Linteloo-polder, of de plaats van Waalkens en de Charlotten-polder, in noordwestelijke rigting, langs het midden der gemeenschappelijke Heerensloot, tot in de Aa.
 
@@ -242,11 +266,11 @@ Van het punt af aan, waar de zoogenaamde Heerensloot tusschen de Nieuwe Schans e
 
 Van daar, waar de om gemeld stuk gronds loopende sloot, beneden de Staten-Zijl, weder op de Aa stoot, maakt de Dalweg van dezen gemeenschappelijken stroom tot aan het terminus a quo in den Dollart, verder de landgrens uit.
 
-#### Art. 37
+##### Art. 37
 
 Het blijft aan beide partijen voorbehouden om, tot verzekering der oevers van den gemeenschappelijken Aa-stroom, de noodige voorzieningen aan zijne zijde te treffen, welke echter, noch aan de gemeenschappelijke scheepvaart op de Aa, noch aan de afwatering door dezelve, mogen hinderlijk zijn.
 
-#### Art. 38
+##### Art. 38
 
 Ten einde de tot hiertoe bestaande geschillen, opzigtelijk de door de Wijmeerster Zijlacht, sedert het jaar 1819, ter verbetering van hare hoogstgebrekkige afwatering, noodwendig gobouwde schepmolens, welker uitwerking echter bevonden was voor het Nederlandsch gebied schadelijk te kunnen worden, zoodanig te regelen, dat het dubbeld oogmerk, zoo wel om aan de gemelde Wijmeerster Zijlacht voor altijd eene volkomen vrije ombelemmerde afwatering te verschaffen, als om tevens het Nederlandsch grondgebied voortaan voor alle nadeelige gevolgen daarvan te behoeden, worde bereikt, is men omtrent het navolgende overeengekomen, en is hetzelve vastgesteld geworden, namelijk:
 
@@ -272,75 +296,75 @@ Ten einde de tot hiertoe bestaande geschillen, opzigtelijk de door de Wijmeerste
 
 - 11°. Na de voltooijing der genoemde werken, zullen twee wederzijdsche commissarissen zich de nieuwe werken op het Nederlandsch en Hanoversch grondgebied, door de respective provinciale autoriteiten, in loco doen aanwijzen, ten einde zich van de vervulling der in deze aangenomen verpligtingen, officieel te overtuigen, en de respective Gouvernementen daarvan verslag te kunnen geven.
 
-#### Art. 39
+##### Art. 39
 
 De in het convenant van 3 November 1706 voor Oost-Vriesland gestipuleerde vrije scheepvaart en afwatering door de Statenzijl in de Aa, blijft aan de Hanoversch-Oostvriesche onderdanen vóór en na toegekend, en zullen dezelve even gelijk de Nederlandsche schippers, in dat opzigt behandeld worden.
 
-#### Art. 40
+##### Art. 40
 
 Desgelijks is de vrije scheepvaart op de Aa en de vrije afwatering in dezelve, als een gemeenschappelijke grensstroom, weder gestipuleerd, en in het bijzonder bepaald dat het den Hanoversch-Oostvrieschen onderdanen ook voor het vervolg zal geoorloofd zijn, een vrij afwaterings- en bevaarbaar kanaal aan te leggen, door zoodanig Nederlandsch grondgebied, hetwelk voortaan ten westen der grenslinie in den Dollard tot aan de Aa-stroomen zoude kunnen aanwassen.
 
-#### Art. 41
+##### Art. 41
 
 De nieuw bepaalde grenslijn in den Dollard, begint bij het punt, hetwelk op eenen afstand van twee duizend zes honderd vier en zeventig Nederlandsche ellen zes palmen of zeven honderd tien Rijnlandsche roeden, van den aan den voet en noordelijk van den dijk, bij de Statenzijl, thans nog voorhanden paal, naar den Dollard heen, aan den westelijken of linkeroever van den Aa-stroom, te vallen komt, en op de bij dit tractaat behoorende nieuw opgemeten grenskaart, met de letter F is aangewezen. Van hier af, loopt de grenslijn door den Dollard tot aan de Eems, in eenen hoek van acht graden negen en een halve minuten westelijk van de ware noordlijn, welke de middellijn is tusschen het noorden en noorden ten oosten naar het kompas getrokken, overeenkomstig het convenant van den jare duizend zeven honderd drie en twintig, voor welk jaar de westelijke afwijking van het ware noorden tot dertien graden zeven en veertig minuten gemeenschappelijk is aangenomen.
 
 De hier in den Dollard bepaalde grenslijn zal voor altijd blijven, ofschoon ook de rivier de Aa haren tegenwoordigen loop mogt veranderen.
 
-#### Art. 42
+##### Art. 42
 
 Vervallen
 
-#### Art. 43
+##### Art. 43
 
 Vervallen
 
-#### Art. 44
+##### Art. 44
 
 Ofschoon wederzijdsche commissarissen zich zoo veel mogelijk hebben beijverd, bij de regeling der grenzen, de voorkomende zwarigheden uit den weg te ruimen, zoude het echter kunnen gebeuren, dat, bij het stellen der grenssteenen, zich nog eenige zoodanigen opdeden, weshalve bepaald is geworden, dat de leden der beide commissien gemagtigd blijven, alle zoodanige verschillen finaal te beslissen.
 
-#### Art. 45
+##### Art. 45
 
 Het tegenwoordig tractaat, hetwelk in de Nederlandsche en Hoogduitsche talen is vervaardigd, zal aan de beide Gouvernementen ter goedkeuring worden voorgedragen, en zullen de ratificatien binnen twee maanden na de onderteekening van hetzelve, of zoo veel vroeger als doenlijk zijn zal, worden uitgewisseld.
 
 Naardien het wenschelijk voorgekomen is, in het belang der grensbewoners, dat nog eenige nadere wijzigingen gebragt worden in de bepalingen van art. 5 van het grenstractaat, den 2den Julij 1824, tusschen de Koningrijken van Nederland en Hanover gesloten, als ook in de nadere schikking deswege in 1836 getroffen, zoo zijn de wederzijdsche Regeringen overeengekomen het volgende te verklaren:
 
-#### 1°
+##### 1°
 
 Het in art. 5 van het voorschreven grenstractaat vervat verbod, om in de toekomst nader bij de grenslijn, dan op een afstand van 376 Nederlandsche ellen en 7 palmen of 100 Rijnlandsche roeden, particuliere gebouwen op te rigten, wordt in het algemeen in stand gehouden, en vindt meer bepaald dààr deszelfs geheele strenge toepassing, waar zich op een afstand van 100 Rijnlandsche roeden van de grenzen nog geene neêrzettintingen bevonden;
 
-#### 2°
+##### 2°
 
 Hetzelfde geldt ten aanzien van de oprigting tegen het verbod, van nieuwe woonhuizen (huizen met eenen haard), ook dààr, waar bereids neêrzettingen aangetroffen worden;
 
-#### 3°
+##### 3°
 
 De gebouwen door brand of op eenige andere wijze vernield, mogen op de oude plaats weder hersteld worden;
 
-#### 4°
+##### 4°
 
 Den eigenaren blijft het daarbij vergund de bouwplaats te verleggen, mits dat het nieuwe gebouw opgerigt worde op een afstand verder van de grenzen verwijderd dan het oude gebouw was;
 
-#### 5°
+##### 5°
 
 Het wederoprigten of verplaatsen van het gebouw geschiedt eerst na voorafgaande aangifte bij de bevoegde autoriteiten, en nadat derzelver toestemming is verkregen, welke toestemming overal niet zal geweigerd worden, waar het herstellen van gebouwen op de oude plaats geldt, en voor het verplaatsen van het gebouw, niet zonder bijzondere gronden zal ontzegd worden;
 
-#### 6°
+##### 6°
 
 Indien, bij uitzondering van het boven bepaalde onder n°. 1 — 2, nieuwe woonhuizen in nog andere gevallen, dan die vermeld onder no. 3, op Koninklijk Hanoversch of Koninklijk Nederlandsch grondgebied nader bij de grenslijn, dan op eenen afstand van 100 roeden zullen opgerigt worden, zoo is eene uitdrukkelijke vergunning beider Regeringen noodig, over het verleenen van dewelke de wederzijdsche provinciale autoriteiten met elkander in overleg zullen treden, en welke, indien het toestaan van eene uitzondering wederzijds aannemelijk bevonden wordt, aan den persoon die het gebouw wenscht op te rigten wordt medegedeeld door de provinciale autoriteiten van den Staat, waarin de bouwplaats gelegen is;
 
-#### 7°
+##### 7°
 
 Het blijft den eigenaren vergund hunne woonhuizen of gebouwen voor derzelver bedrijf en nevengebouwen te vergrooten aan de van de grenzen afgelegene zijde, edoch zonder het aanleggen van eenen nieuwen haard;
 
-#### 8°
+##### 8°
 
 Aan de zoodanige kolonisten die binnen de 100 roeden van de grenzen geene landerijen bezitten, wordt de oprigting vergund van nieuwe gebouwen zonder haard. De wederzijdsche gouvernementen leggen hunnen onderdanen de verpligting op, sub poenâ van correctionele straf (ordenungstrafe), om te voren hunne hierover gestelde autoriteiten kennis te doen dragen van alle uitbreiding of oprigting van nieuwe gebouwen, als vermeld zijn onder no. 7 en 8: de autoriteiten zullen moeten zorg dragen dat de vermelde gebouwen niet in strijd zijn met de bepalingen des tractaats;
 
-#### 9°
+##### 9°
 
 Om de bij uitzondering te verleenen toestemming te verkrijgen tot het aanleggen van een' nieuwen haard, in de gevallen vermeld sub n°. 7 en 8 , zal moeten gehandeld worden als is bepaald bij n°. 6;
 
-#### 10°
+##### 10°
 
 De tegenwoordig reeds bestaande gebouwen op het wederzijdsch staatsgebied, binnen eenen afstand van 100 roeden van de grenzen, met inbegrip der zulke die tegen de letter van art. 5 van het grenstractaat opgerigt zijn, als ook die gebouwen, waarvan de eindelijke opbouw op Hanoversch grondgebied, op grond van het verbod in het grenstractaat vervat, tot nu toe gestuit of in twijfel getrokken is, mogen behouden of ten einde gebragt worden.
 

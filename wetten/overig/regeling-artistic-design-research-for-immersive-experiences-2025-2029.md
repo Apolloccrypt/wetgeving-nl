@@ -1,13 +1,35 @@
 ---
 title: "Regeling Artistic & Design Research for Immersive Experiences 2025-2029"
 identifier: "BWBR0050932"
-categorie: "Overig"
-publicatiedatum: 2026-03-26
-laatste_update: 2026-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050932"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-26"
+last_updated: "2026-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050932"
+soort: "zbo"
+stam_id: "17402413"
+version_id: "30683802"
+internal_id: "C43987651"
+label_id: "17305894"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050932/2026-03-26/0"
+intitule_bron: "Stcrt.2025-12257"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-04-09"
+intitule_in_force: "2025-04-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12257"
+original_published_date: "2025-04-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-12257"
+entry_into_force_date: "2025-04-09"
+jci_1_3: "jci1.3:c:BWBR0050932&z=2026-03-26&g=2026-03-26"
+jci_1_0: "1.0:c:BWBR0050932&g=2026-03-26"
+citeertitel_status: "officieel"
+entry_into_force: "2025-04-09"
 ---
-
 # Regeling Artistic & Design Research for Immersive Experiences 2025-2029
 
 gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10)
@@ -16,7 +38,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Begrippen
+##### Artikel 1. Begrippen
 
 - 1). **aanvraagronde 2A:** op grond van deze regeling kan in aanvraagronde 2A van Artistic & Design Research for Immersive Experiences (ADRIE) door een consortium subsidie worden aangevraagd voor het opstellen van een tweejarig activiteitenprogramma.
 
@@ -84,13 +106,13 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 ### Hoofdstuk 2. Algemene bepalingen
 
-#### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
+##### Artikel 2. Taakopvatting Stimuleringsfonds Creatieve Industrie
 
 1). De taak van het Stimuleringsfonds is om, vanuit het culturele perspectief, de rijke ontwerptraditie die Nederland heeft te continueren en te vernieuwen door het proces van experimenteren, onderzoeken en maken te stimuleren en goed opdrachtgeverschap te bevorderen.
 
 2). Het bestuur verstrekt, in overeenstemming met zijn statuten en volgens bepalingen vastgesteld in de wet en subsidieregelingen, subsidies aan natuurlijke personen en rechtspersonen die bijdragen aan het bevorderen van hoogwaardige kwaliteit, ontwikkeling en professionalisering van de hedendaagse creatieve industrie binnen het Koninkrijk.
 
-#### Artikel 3. Reikwijdte en doelstelling Regeling ADRIE
+##### Artikel 3. Reikwijdte en doelstelling Regeling ADRIE
 
 1). Deze regeling is van toepassing op het aanvragen, beoordelen en vaststellen van een subsidie voor een project dat is ingediend binnen de regeling ADRIE. De regeling geeft inzicht in de algemene voorwaarden, weigeringsgronden, wijze van publicatie, wijze van indiening, beoordeling, toekenning en subsidieverplichtingen.
 
@@ -108,7 +130,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 3). Het bestuur kan nadere regels stellen ter uitvoering van deze regeling over specifieke doelstellingen, voorwaarden en weigeringsgronden. Deze worden expliciet vermeld in de bekendmaking van de beschikbaarheid van de subsidie voor de aanvraagrondes, zoals gepubliceerd op [www.stimuleringsfonds.nl](http://www.stimuleringsfonds.nl/). Deze regels zijn in dat geval aanvullend op deze regeling.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1). Een subsidie wordt altijd verleend onder de voorwaarde dat door het Ministerie van Onderwijs, Cultuur en Wetenschap voldoende gelden aan het Stimuleringsfonds ter beschikking worden gesteld.
 
@@ -116,13 +138,13 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 3). Het subsidieplafond wordt per subsidietijdvak bekendgemaakt op [www.stimuleringsfonds.nl](https://www.stimuleringsfonds.nl/).
 
-#### Artikel 5. Subsidie
+##### Artikel 5. Subsidie
 
 1). Op grond van deze regeling kan in aanvraagronde 2A door een consortium subsidie worden aangevraagd voor het opstellen van een tweejarig activiteitenprogramma.
 
 2). Op grond van deze regeling kan in aanvraagronde 2B door een consortium subsidie worden aangevraagd voor de uitvoering van een tweejarig activiteitenprogramma door een consortium. Deze aanvraagronde staat uitsluitend open voor aanvragen namens een consortium door een hoofdaanvrager waarvan een aanvraag is toegekend in aanvraagronde 1B.
 
-#### Artikel 6. Indienen aanvraag
+##### Artikel 6. Indienen aanvraag
 
 1). Een subsidieaanvraag op grond van deze regeling dient te worden ingediend binnen het subsidietijdvak behorende bij de betreffende aanvraagronde.
 
@@ -158,7 +180,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 13). Eventueel nieuw te publiceren ADRIE-aanvraagrondes worden, met verwijzing naar deze regeling, separaat gepubliceerd in de Staatscourant.
 
-#### Artikel 7. Ingangseisen
+##### Artikel 7. Ingangseisen
 
 1). Alleen aanvragen die voldoen aan de volgende eisen kunnen in aanvraagronde 2A in behandeling worden genomen:
 
@@ -206,7 +228,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - iii). [Governance Code Cultuur](https://bij.cultuur-ondernemen.nl/governance-code-cultuur/principe/introductie).
 
-#### Artikel 8. Voorwaarden, subsidiabele kosten en staatssteun
+##### Artikel 8. Voorwaarden, subsidiabele kosten en staatssteun
 
 1). Er wordt geen subsidie verleend aan of voor:
 
@@ -248,7 +270,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 ### Hoofdstuk 3. Subsidieaanvraag
 
-#### Artikel 9. Consortium, hoofdaanvrager, mede-aanvragers en partners
+##### Artikel 9. Consortium, hoofdaanvrager, mede-aanvragers en partners
 
 1). De aanvraag wordt namens het consortium ingediend door, verleend aan en verantwoord door de hoofdaanvrager, zoals beschreven onder [artikel 1 lid 18](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=1&artikel=1&z=2026-03-26&g=2026-03-26). Op de hoofdaanvrager rusten alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende activiteiten;
 
@@ -276,7 +298,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 6). Activiteiten van hogescholen en universiteiten die plaatsvinden in het kader van een studie, opleiding, postdoc of PhD kunnen onderdeel zijn van een activiteitenprogramma, mits het genereren van praktijkgerichte, fundamentele c.q. toegepaste kennis en de onderzoeksmethodiek aansluit op de doelstellingen van het consortium als omschreven in de aanvraag zoals vermeld in [artikel 10 lid 2 en lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=10&z=2026-03-26&g=2026-03-26).
 
-#### Artikel 10. Inhoud van de aanvraag
+##### Artikel 10. Inhoud van de aanvraag
 
 1). Bij de aanvraag dient gebruik te worden gemaakt van de op [www.stimuleringsfonds.nl](https://www.stimuleringsfonds.nl/) beschikbaar gestelde formulieren en modellen op de subsidiepagina van ADRIE op de datum waarop het subsidietijdvak wordt opengesteld.
 
@@ -346,7 +368,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - g). indien er nieuwe mede-aanvragers worden betrokken uit kerngroep a zoals genoemd in [artikel 9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=9&z=2026-03-26&g=2026-03-26) (makers en ontwerpers en producenten) die nog niet zijn opgenomen in de aanvraag in aanvraagronde 2A, dient er voor deze partijen ontbrekende informatie te worden aangeleverd (cv’s uitvoerenden volgens lid 2d van dit artikel, portfolio’s volgens lid 2e). Er kunnen geen nieuwe mede-aanvragers worden betrokken binnen kerngroepen b (organisaties in het culturele- en mediadomein) en c (onderzoekers) als genoemd in artikel 9 lid 2 die nog niet zijn opgenomen in de aanvraag in aanvraagronde 2A.
 
-#### Artikel 11. Begroting
+##### Artikel 11. Begroting
 
 1). Voorwaarden waaraan de begroting en het dekkingsplan van een aanvraag voor het opstellen van het activiteitenprogramma (aanvraagronde 2A) dient te voldoen zijn:
 
@@ -374,7 +396,7 @@ besluit vast te stellen de navolgende regeling, houdende regels voor het verstre
 
 - e). deelnemers dienen in de begroting uren te reserveren (uitgaande van een werkdag per kwartaal per deelnemer) voor participatie aan activiteiten ten behoeve van kennisontwikkeling en kennisdeling als genoemd in [artikel 12 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=3&artikel=12&z=2026-03-26&g=2026-03-26).
 
-#### Artikel 12. Kennisontwikkeling, kennisdeling en intellectueel eigendom
+##### Artikel 12. Kennisontwikkeling, kennisdeling en intellectueel eigendom
 
 De deelnemers aan het consortium:
 
@@ -386,7 +408,7 @@ De deelnemers aan het consortium:
 
 ### Hoofdstuk 4. Behandeling, beoordeling en subsidieverlening
 
-#### Artikel 13. Beoordeling en prioritering
+##### Artikel 13. Beoordeling en prioritering
 
 1). Aanvragen die volledig zijn en voldoen aan de ingangseisen en voorwaarden, worden ter advisering voorgelegd aan een adviescommissie.
 
@@ -426,7 +448,7 @@ De deelnemers aan het consortium:
 
 - iii). Prioriteringscriterium 3: [artikel 14, lid 2 d](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=14&z=2026-03-26&g=2026-03-26).
 
-#### Artikel 14. Beoordelingscriteria
+##### Artikel 14. Beoordelingscriteria
 
 1). De adviescommissie hanteert bij de beoordeling van een subsidieaanvraag voor het opstellen van een activiteitenprogramma (aanvraagronde 2A) de volgende criteria, die in gelijke mate worden gewogen, tot aan de behoefte aan prioritering zoals vermeld in [artikel 13, lid 9](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=4&artikel=13&z=2026-03-26&g=2026-03-26):
 
@@ -454,7 +476,7 @@ De deelnemers aan het consortium:
 
 3). Een nadere toelichting op de beoordelingscriteria voor de subsidieaanvraag voor het opstellen van een tweejarig activiteitenprogramma (aanvraagronde 2A) en voor de subsidieaanvraag voor het uitvoeren van een tweejarig activiteitenprogramma (aanvraagronde 2B) wordt beschikbaar gesteld op [www.stimuleringsfonds.nl](https://www.stimuleringsfonds.nl/).
 
-#### Artikel 15. Verlening van een subsidie
+##### Artikel 15. Verlening van een subsidie
 
 1). Het bestuur informeert de hoofdaanvrager binnen 14 weken na de sluitingsdatum voor aanvraagrondes 2A en 2B (genoemd in het onder het in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2026-03-26&g=2026-03-26) gepubliceerde subsidietijdvak) over het besluit.
 
@@ -464,7 +486,7 @@ De deelnemers aan het consortium:
 
 4). Het bestuur kan besluiten zowel de positieve als de negatieve adviezen van de commissie te publiceren op de website van het Stimuleringsfonds.
 
-#### Artikel 16. Voorschotten
+##### Artikel 16. Voorschotten
 
 1). Het Stimuleringsfonds betaalt in het geval van een verlening van de subsidie bij wijze van voorschot de volgende percentages van het toegekende bedrag uit:
 
@@ -474,7 +496,7 @@ De deelnemers aan het consortium:
 
 ### Hoofdstuk 5. Verplichtingen van de subsidieontvanger
 
-#### Artikel 17. Administratie
+##### Artikel 17. Administratie
 
 1). De hoofdaanvrager voert een zodanig ingerichte administratie dat daaruit te allen tijde de voor de vaststelling van de subsidie van belang zijnde rechten en verplichtingen evenals de baten en lasten kunnen worden nagegaan.
 
@@ -482,11 +504,11 @@ De deelnemers aan het consortium:
 
 3). De hoofdaanvrager bewaart de administratie en de bijbehorende documenten gedurende 7 jaren na het vaststellen van de subsidie.
 
-#### Artikel 18. Vermelding subsidieverstrekker
+##### Artikel 18. Vermelding subsidieverstrekker
 
 1). In alle publieke uitingen over de gesubsidieerde activiteiten vermeldt de subsidieontvanger het Stimuleringsfonds Creatieve Industrie, het Ministerie van OCW, het Nationaal Groeifonds en CIIIC als subsidieverstrekker. De logo’s worden opgenomen in publicaties en verslagen die betrekking hebben op de gesubsidieerde activiteiten, net als op uitnodigingen, aankondigingen, websites en producties die hierop betrekking hebben. Als een subsidieontvanger logo’s opneemt van andere partijen, worden de logo’s in verhouding tot de bijdrage in een vergelijkbare grootte en opmaak weergegeven.
 
-#### Artikel 19. Melding bij het Stimuleringsfonds
+##### Artikel 19. Melding bij het Stimuleringsfonds
 
 1). Als één of meerdere van de onderstaande situaties zich voordoen, brengt de subsidieontvanger het bestuur daarvan direct op de hoogte:
 
@@ -500,7 +522,7 @@ De deelnemers aan het consortium:
 
 ### Hoofdstuk 6. Subsidievaststelling
 
-#### Artikel 20. Verantwoording
+##### Artikel 20. Verantwoording
 
 1). Voor de verantwoording dient gebruik te worden gemaakt van de in de door het Fonds beschikbaar gestelde formulieren en modellen.
 
@@ -524,7 +546,7 @@ De deelnemers aan het consortium:
 
 - iii). indien van toepassing: wat het bedrag van de gerealiseerde eigen bijdrage is.
 
-#### Artikel 21. Vaststelling
+##### Artikel 21. Vaststelling
 
 1). Uiterlijk 16 weken na afloop van het opstellen van een activiteitenprogramma op basis van een toekenning van subsidie in aanvraagronde 2A (hierbij geldt de sluitingsdatum voor aanvraagronde 2B genoemd in het onder het in [artikel 6 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050932&hoofdstuk=2&artikel=6&z=2026-03-26&g=2026-03-26) gepubliceerde subsidietijdvak) wordt door de hoofdaanvrager een aanvraag tot vaststelling ingediend via de aanvraagomgeving van het Stimuleringsfonds.
 
@@ -536,11 +558,11 @@ De deelnemers aan het consortium:
 
 5). Het bestuur kan de ontvanger nadere aanwijzingen geven over de controle op de naleving van de voorwaarden die zijn verbonden aan de verlening van de subsidie.
 
-#### Artikel 22. Bezwaar
+##### Artikel 22. Bezwaar
 
 1). Een belanghebbende kan bezwaar maken tegen een besluit van het bestuur dat wordt genomen op grond van deze regeling door een bezwaarschrift in te dienen bij het bestuur. De termijn voor het indienen van een bezwaarschrift bedraagt zes weken. De termijn vangt aan op de dag nadat het besluit is bekendgemaakt. De procedure voor bezwaren is gepubliceerd op [www.stimuleringsfonds.nl](https://www.stimuleringsfonds.nl/).
 
-#### Artikel 23. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
+##### Artikel 23. Bescherming persoonsgegevens en [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376)
 
 1). Het Stimuleringsfonds verstrekt geen vertrouwelijke informatie omtrent onder meer bedrijfs- en fabricagegegevens aan derden.
 
@@ -548,11 +570,11 @@ De deelnemers aan het consortium:
 
 3). Als Zelfstandig Bestuursorgaan (zbo) valt het Stimuleringsfonds onder de [Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376). Aanvraagdossiers worden na het verstrijken van de daarvoor bepaalde termijn overgedragen aan het Nationaal Archief. Aanvraagdossiers worden in dat geval gekwalificeerd als ‘beperkt openbare’ documenten.
 
-#### Artikel 24. Hardheidsclausule
+##### Artikel 24. Hardheidsclausule
 
 1). Het bestuur kan in uitzonderlijke gevallen ten gunste van de belanghebbende van bepalingen in deze regeling afwijken, als toepassing daarvan leidt tot onbillijkheid van overwegende aard.
 
-#### Artikel 25. Inwerkingtreding en expiratie
+##### Artikel 25. Inwerkingtreding en expiratie
 
 1). Deze regeling treedt in werking met ingang van 01 april 2025, of met terugwerkende kracht vanaf 01 april 2025 als de Staatscourant, waarin deze regeling wordt geplaatst, op een latere datum verschijnt.
 
@@ -560,7 +582,7 @@ De deelnemers aan het consortium:
 
 3). Het [Subsidiereglement Stimuleringsfonds Creatieve Industrie 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040298) is niet van toepassing op deze regeling.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Artistic & Design Research for Immersive Experiences 2025-2029.
 

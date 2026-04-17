@@ -1,34 +1,60 @@
 ---
-title: "Regeling wetenschapsaccountantsprotocol OCW 2024"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 3 november 2024, nr. 48150937, houdende vaststelling van het wetenschapsaccountantsprotocol voor de Nederlandse organisatie voor wetenschappelijk onderzoek, de Koninklijke Nederlandse Akademie van Wetenschappen, de Koninklijke Bibliotheek en het Biomedical Primate Research Centre (Regeling wetenschapsaccountantsprotocol OCW 2024)"
 identifier: "BWBR0050407"
-categorie: "Overig"
-publicatiedatum: 2024-11-14
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050407"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-14"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050407"
+soort: "ministeriele-regeling"
+stam_id: "17268693"
+version_id: "30414772"
+internal_id: "C43618011"
+label_id: "17174034"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050407/2024-11-14/0"
+intitule_bron: "Stcrt.2024-36897"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-03"
+intitule_published: "2024-11-13"
+intitule_in_force: "2024-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36897"
+original_signed_date: "2024-11-03"
+original_published_date: "2024-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36897"
+entry_into_force_date: "2024-11-14"
+jci_1_3: "jci1.3:c:BWBR0050407&z=2024-11-14&g=2024-11-14"
+jci_1_0: "1.0:c:BWBR0050407&g=2024-11-14"
+citeertitel_status: "officieel"
+short_title: "Regeling wetenschapsaccountantsprotocol OCW 2024"
+signed_date: "2024-11-03"
+entry_into_force: "2024-11-14"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 3 november 2024, nr. 48150937, houdende vaststelling van het wetenschapsaccountantsprotocol voor de Nederlandse organisatie voor wetenschappelijk onderzoek, de Koninklijke Nederlandse Akademie van Wetenschappen, de Koninklijke Bibliotheek en het Biomedical Primate Research Centre (Regeling wetenschapsaccountantsprotocol OCW 2024)
 
 Gelet op [artikel 27, tweede lid, van de Wet op de Nederlandse organisatie voor wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0004191&artikel=27), [artikel 4, tweede lid, onderdeel e, van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [artikel 4.4, derde lid, van het Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152&artikel=4.4);
 
 Besluit:
 
-#### Artikel 1. Vaststelling wetenschapsaccountantsprotocol OCW
+##### Artikel 1. Vaststelling wetenschapsaccountantsprotocol OCW
 
 Het protocol voor de controle van en onderzoek naar de jaarverslaggeving van de Nederlandse organisatie voor wetenschappelijk onderzoek, de Koninklijke Nederlandse Akademie van Wetenschappen, de Koninklijke Bibliotheek en het Biomedical Primate Research Centre door de accountant over het jaar 2024 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking Besluit accountantsprotocol OWB instellingen NWO – KNAW – KB – BPRC
+##### Artikel 2. Intrekking Besluit accountantsprotocol OWB instellingen NWO – KNAW – KB – BPRC
 
 Het Besluit accountantsprotocol OWB instellingen NWO – KNAW – KB – BPRC 2022, van 30 november 2022, met de kenmerken 1322935 (NWO), 1322937 (KNAW), 1322938 (KB) en 1322939 (BPRC) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding en vervaldatum
+##### Artikel 3. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2024.
 
 2. Deze regeling vervalt met ingang van 1 januari 2031.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling wetenschapsaccountantsprotocol OCW 2024.
 

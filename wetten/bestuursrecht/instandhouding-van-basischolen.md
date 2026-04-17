@@ -1,13 +1,36 @@
 ---
 title: "Instandhouding van basischolen"
 identifier: "BWBR0011445"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-07-26
-laatste_update: 2000-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011445"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2000-07-26"
+last_updated: "2000-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011445"
+soort: "beleidsregel"
+stam_id: "6488253"
+version_id: "11167972"
+internal_id: "C15092331"
+label_id: "6476844"
+original_entry_into_force: "2000-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011445/2000-07-26/0"
+intitule_bron: "Uitleg.2000-18b"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-26"
+intitule_published: "2000-07-26"
+intitule_in_force: "2000-07-26"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-18b"
+original_signed_date: "2000-06-26"
+original_published_date: "2000-07-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-07-26"
+jci_1_3: "jci1.3:c:BWBR0011445&z=2000-07-26&g=2000-07-26"
+jci_1_0: "1.0:c:BWBR0011445&g=2000-07-26"
+citeertitel_status: "redactioneel"
+signed_date: "2000-06-26"
+entry_into_force: "2000-07-26"
 ---
-
 # Instandhouding van basischolen
 
 De afgelopen tijd hebben er enkele wijzingen plaatsgevonden in de uitvoering van het Instandhoudingsbeleid basisonderwijs. Door middel van deze publicatie wil ik u hierover nadere informatie verstrekken. Bovendien wordt hieronder het beleid op een aantal punten verduidelijkt.

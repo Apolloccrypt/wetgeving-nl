@@ -1,13 +1,36 @@
 ---
 title: "Uitvoeringsregeling Invorderingswet 1990"
 identifier: "BWBR0004766"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004766"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004766"
+soort: "ministeriele-regeling"
+stam_id: "2817533"
+version_id: "29139072"
+internal_id: "C41408791"
+label_id: "2767174"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004766/2026-01-01/0"
+intitule_bron: "Stcrt.1990-103"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-33377"
+original_signed_date: "2022-12-02"
+original_published_date: "2022-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-33377"
+entry_into_force_date: "2022-12-02"
+jci_1_3: "jci1.3:c:BWBR0004766&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0004766&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2022-12-02"
+entry_into_force: "2022-12-02"
 ---
-
 # Uitvoeringsregeling Invorderingswet 1990
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=5), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=31), [35, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=35), [43](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=43), [53, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=53), en [62, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=62) (Stb. 221), alsmede [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) j° [artikel 300 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=300) (Stb. 1931, 89), artikel 29 van de Bevoegdhedenwet waterschappen (Stb. 1978, 285), [artikel 13, veertiende lid, onderdeel a, van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=13) (Stb. 1986, 598), artikel 61s, derde lid, onderdeel a, van de Wet algemene bepalingen milieuhygiëne (Stb. 1988, 133) en [artikel 23, vierde lid, onderdeel a, van het Uitvoeringsbesluit verontreiniging rijkswateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002729&artikel=23) (Stb. 1985, 377),
@@ -16,17 +39,17 @@ Besluit:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze regeling geeft uitvoering aan de artikelen [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=18), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19), [22bis](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), [25a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25a), [25b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25b), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=31), [42c](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42c), [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44a), [44b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b), [53](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=53), [70b](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), [70ba](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70ba) en [70ca van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70ca) alsmede aan [artikel 232e van de Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645&artikel=232e), [artikel 255 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=255), [artikel 144 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=144) en [artikel 8a.40 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.40) in samenhang met [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26).
 
 2. Deze regeling verstaat onder wet: de [Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake een in deze regeling als voor bezwaar vatbaar aangeduide beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&hoofdstuk=V) van overeenkomstige toepassing, met dien verstande dat voor ‘inspecteur’ wordt gelezen ‘ontvanger’.
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Verzoeken tot uitstel van betaling, tot kwijtschelding of tot ontslag van betalingsverplichting ingevolge deze regeling worden afgewezen door de ontvanger indien de voor de beoordeling van het daartoe strekkende verzoek benodigde gegevens niet, onjuist of onvolledig dan wel niet op de door de ontvanger aangegeven wijze zijn verstrekt.
 
@@ -34,7 +57,7 @@ Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake een in deze re
 
 3. Indien bij vermindering van een belastingaanslag het bedrag waarvoor op de voet van het [eerste lid van de artikelen 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IC&afdeling=1&artikel=6b&z=2026-01-01&g=2026-01-01), [1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=2&artikel=1e&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=4&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=4&artikel=3&z=2026-01-01&g=2026-01-01), [3a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=4&artikel=3a&z=2026-01-01&g=2026-01-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=5&artikel=4a&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=6&artikel=5&z=2026-01-01&g=2026-01-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=7&artikel=5a&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IC&afdeling=1&artikel=6a&z=2026-01-01&g=2026-01-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IC&afdeling=1&artikel=6b&z=2026-01-01&g=2026-01-01), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IC&afdeling=2&artikel=6c&z=2026-01-01&g=2026-01-01), [6d](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=ID&artikel=6d&z=2026-01-01&g=2026-01-01), [6da](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=ID&artikel=6da&z=2026-01-01&g=2026-01-01) en [40g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=V&artikel=40g&z=2026-01-01&g=2026-01-01) uitstel van betaling is verleend, wijziging ondergaat, beëindigt de ontvanger, met inachtneming van het bepaalde in de genoemde artikelen, het uitstel dienovereenkomstig.
 
-#### Artikel 1c
+##### Artikel 1c
 
 De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschuldige genomen beschikking aan deze bekend door uitreiking of toezending van een gedagtekende kennisgeving terzake.
 
@@ -42,7 +65,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 1d
+##### Artikel 1d
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vierde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -52,7 +75,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ### Afdeling 1. Algemene bepalingen
 
-#### Artikel 1e
+##### Artikel 1e
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits voldoende zekerheid is gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden.
 
@@ -70,7 +93,7 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 5. De ontvanger beëindigt het uitstel voorzover zich met betrekking tot aanspraken uit een overeenkomst van levensverzekering of een pensioenregeling als bedoeld in [artikel 1.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7) waarop de verschuldigde belasting, bedoeld in [artikel 25, vijfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) betrekking heeft, een omstandigheid voordoet als bedoeld in [artikel 25, vijfde lid, vierde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25). De eerste zin is van overeenkomstige toepassing op aanspraken bedoeld in het tweede lid, onderdeel c.
 
-#### Artikel 1f
+##### Artikel 1f
 
 1. Indien de ontvanger het op de voet van [artikel 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&afdeling=2&artikel=1e&z=2026-01-01&g=2026-01-01) verleende uitstel van betaling beëindigt omdat zich een in [artikel 26, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als in genoemd derde lid bedoeld.
 
@@ -80,13 +103,13 @@ De ontvanger maakt een ingevolge deze regeling ten aanzien van een belastingschu
 
 ### Afdeling 3. Uitstel van betaling van inkomstenbelasting inzake kapitaalverzekering eigen woning
 
-#### Artikel 1g
+##### Artikel 1g
 
 Vervallen
 
 ### Afdeling 4. Uitstel van betaling, gespreide betaling en kwijtschelding van inkomstenbelasting inzake winst uit aanmerkelijk belang
 
-#### Artikel 2
+##### Artikel 2
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, achtste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits voldoende zekerheid is gesteld. Het schriftelijk verzoek en de zekerheidstelling blijven achterwege:
 
@@ -132,7 +155,7 @@ Vervallen
 
 14. Voor de toepassing van dit artikel worden onder aandelen of winstbewijzen die aan het uitstel ten grondslag liggen mede verstaan: aandelen of winstbewijzen waarop rechten zijn overgegaan die besloten lagen in de aandelen of winstbewijzen die aan het uitstel ten grondslag liggen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) en tot een omvang als bij [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) alsmede krachtens dat artikel in de navolgende leden is bepaald, mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -154,7 +177,7 @@ Vervallen
 
 7. Voor de toepassing van [artikel 25, negende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) worden van de staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte aangewezen: IJsland, Noorwegen en Liechtenstein.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek kwijtschelding van de door hem verschuldigde inkomstenbelasting in de gevallen als bedoeld in [artikel 26, tweede, vierde of vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) en tot een omvang als in die leden bedoeld, met dien verstande dat het bedrag van de kwijtschelding in totaal niet meer kan bedragen dan het bedrag van de belasting waarvoor ter zake van het aandeel of winstbewijs uitstel van betaling is verleend.
 
@@ -162,7 +185,7 @@ Vervallen
 
 ### Afdeling 3. Uitvoering overheidsvordering
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in [artikel 25, veertiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -174,7 +197,7 @@ Vervallen
 
 ### Afdeling 1. Uitstel van betaling van inkomstenbelasting ter zake van stakingswinst die bestemd is voor herinvestering in een andere onderneming
 
-#### Artikel 5
+##### Artikel 5
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen inkomstenbelasting als bedoeld in [artikel 25, zestiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -184,7 +207,7 @@ Vervallen
 
 ### Afdeling 1. Uitstel van betaling van inkomstenbelasting ter zake van stakingswinst die bestemd is voor herinvestering in een andere onderneming
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De ontvanger verleent de erfgenamen van de belastingschuldige op hun schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 25, zeventiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -192,11 +215,11 @@ Vervallen
 
 ### Hoofdstuk IB. Uitstel van betaling, gespreide betaling en kwijtschelding van inkomstenbelasting
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de schenk- of erfbelasting, bedoeld in [artikel 25, twaalfde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -204,7 +227,7 @@ Vervallen
 
 3. Ingeval zich een omstandigheid voordoet als bedoeld in [artikel 25, twaalfde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen voorzover daarin is begrepen schenk- of erfbelasting als bedoeld in [artikel 25, dertiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -216,13 +239,13 @@ Vervallen
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek bij voor administratief beroep vatbare beschikking kwijtschelding van de door hem verschuldigde rijksbelastingen in andere gevallen dan die, bedoeld in de [hoofdstukken IB](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IB&z=2026-01-01&g=2026-01-01) en [IC](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IC&z=2026-01-01&g=2026-01-01), op de voet van deze afdeling en de [afdelingen 2 tot en met 5 van dit hoofdstuk](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&z=2026-01-01&g=2026-01-01).
 
 2. Voor de toepassing van dit hoofdstuk worden de belastingrente, de revisierente en de bestuurlijke boeten die de belastingschuldige heeft belopen in verband met de in dit hoofdstuk bedoelde belastingen, gelijkgesteld met de belastingen waarmee zij samenhangen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Geen kwijtschelding wordt verleend:
 
@@ -244,7 +267,7 @@ Vervallen
 
 2. Geen kwijtschelding wordt verleend voor belastingaanslagen belasting van personenauto’s en motorrijwielen, voor belastingaanslagen welke zijn opgelegd wegens verschuldigde rente ingevolge de Ruilverkavelingswet 1954, alsmede voor belastingaanslagen welke zijn opgelegd wegens verschuldigde kosten ingevolge de [Wet inrichting landelijk gebied](https://wetten.overheid.nl/jci1.3:c:BWBR0020748).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Gedurende de behandeling van het verzoek om kwijtschelding worden voor de belastingaanslag ten aanzien waarvan kwijtschelding is verzocht geen conservatoire maatregelen genomen of voortgezet. Eveneens wordt gedurende die tijd voor die belastingaanslag de dwanginvordering niet aangevangen of voortgezet.
 
@@ -252,11 +275,11 @@ Vervallen
 
 ### Afdeling 4. Uitstel van betaling, gespreide betaling en kwijtschelding van inkomstenbelasting inzake winst uit aanmerkelijk belang
 
-#### Artikel 10
+##### Artikel 10
 
 Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die geen bedrijf of niet zelfstandig een beroep uitoefenen, van loonbelasting verschuldigd door werknemers alsmede van motorrijtuigenbelasting, belasting zware motorrijtuigen, erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door natuurlijke personen.
 
-#### Artikel 11
+##### Artikel 11
 
 Kwijtschelding wordt verleend voor:
 
@@ -268,7 +291,7 @@ Kwijtschelding wordt verleend voor:
 
 - 2°. ten minste 80 percent van de betalingscapaciteit is aangewend; een en ander onverminderd het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2026-01-01&g=2026-01-01) en [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=18&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onder vermogen als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2026-01-01&g=2026-01-01) wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in [artikel 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.
 
@@ -296,13 +319,13 @@ Kwijtschelding wordt verleend voor:
 
 5. Een bezitting van de belastingschuldige en zijn echtgenoot, bedoeld in [artikel 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), wordt buiten beschouwing gelaten indien het onredelijk bezwarend is deze terstond liquide te maken, mits een bedrag gelijk aan de waarde in het economische verkeer van de betreffende bezitting, verminderd met de op die bezitting betrekking hebbende schulden van de belastingschuldige en zijn echtgenoot die hoger bevoorrecht zijn dan de rijksbelastingen, is of wordt voldaan binnen een door de ontvanger gestelde termijn en volgens de door de ontvanger gestelde voorwaarden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onder betalingscapaciteit, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=11&z=2026-01-01&g=2026-01-01), wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.
 
 2. Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in [artikel 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onder het netto-besteedbare inkomen, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2026-01-01&g=2026-01-01), wordt verstaan het met de in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), vermelde uitgaven verminderde gezamenlijke bedrag van:
 
@@ -334,7 +357,7 @@ Kwijtschelding wordt verleend voor:
 
 2. Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in [artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13), daaronder begrepen de aanspraak op een zodanige teruggaaf.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Als uitgaven als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2026-01-01&g=2026-01-01), worden in aanmerking genomen:
 
@@ -360,7 +383,7 @@ Kwijtschelding wordt verleend voor:
 
 4. Indien de belastingschuldige zijn woning deelt met een of meer personen op wie de norm, bedoeld in [artikel 22a van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=22a), van toepassing is, worden de nettowoonlasten, bedoeld in het eerste lid, onderdeel b, geacht gelijkelijk over ieder van deze personen te zijn verdeeld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2026-01-01&g=2026-01-01), bedragen voor een belastingschuldige die wordt aangemerkt als:
 
@@ -386,11 +409,11 @@ Kwijtschelding wordt verleend voor:
 
 4. De kosten van bestaan, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=13&z=2026-01-01&g=2026-01-01), worden voor de belastingschuldige die buiten Nederland woont aangepast met het percentage dat in [artikel 1 van de Regeling woonlandbeginsel in de sociale zekerheid 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031508&artikel=1) en de bijlage bij die regeling is opgenomen voor het woonland van de belastingschuldige.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Geen kwijtschelding wordt verleend ten belope van het bedrag van de te betalen belasting waarop het verzoek betrekking heeft waarvan aannemelijk is dat dit bedrag kan worden voldaan omdat:
 
@@ -400,11 +423,11 @@ Geen kwijtschelding wordt verleend ten belope van het bedrag van de te betalen b
 
 - c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopige teruggaaf, bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=14&z=2026-01-01&g=2026-01-01), kan worden verwacht.
 
-#### Artikel 19
+##### Artikel 19
 
 Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 3 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=3), wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Indien ten aanzien van de belastingschuldige de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard en deze overeenkomstig [artikel 329 van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=329) een akkoord aanbiedt, verleent de ontvanger, de [artikelen 8, eerste lid, onderdelen a, b, e, f, g en h, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=8&z=2026-01-01&g=2026-01-01), en [10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01) buiten toepassing latend, zijn medewerking aan de totstandkoming van dat akkoord, mits:
 
@@ -418,15 +441,15 @@ Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in [artikel 
 
 ### Afdeling 6. Gespreide betaling van inkomstenbelasting inzake staking en overbrenging van de ondernemingswoning naar het privé vermogen
 
-#### Artikel 20
+##### Artikel 20
 
 Deze afdeling heeft betrekking op kwijtschelding van inkomstenbelasting verschuldigd door natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, van vennootschapsbelasting, van loonbelasting verschuldigd door werkgevers, van omzetbelasting, dividendbelasting, kansspelbelasting, motorrijtuigenbelasting, belasting zware motorrijtuigen, accijnzen, verbruiksbelastingen van alcoholvrije dranken, van de in [artikel 1 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=1) genoemde belastingen en van erfbelasting, schenkbelasting, recht van overgang en belastingen van rechtsverkeer verschuldigd door rechtspersonen.
 
-#### Artikel 21
+##### Artikel 21
 
 Kwijtschelding wordt uitsluitend verleend indien dit geschiedt in het kader van een akkoord met alle schuldeisers en er geen redelijke mogelijkheid aanwezig is om een derde aansprakelijk te stellen.
 
-#### Artikel 22
+##### Artikel 22
 
 Medewerking van de ontvanger aan een akkoord geschiedt slechts indien:
 
@@ -444,23 +467,23 @@ Medewerking van de ontvanger aan een akkoord geschiedt slechts indien:
 
 - d. bij voortzetting van het bedrijf of zelfstandig beroep van de belastingschuldige na de totstandkoming van het akkoord reële vooruitzichten aanwezig zijn voor de voortzetting van de onderneming.
 
-#### Artikel 22a
+##### Artikel 22a
 
 [Artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=19a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing met dien verstande dat in plaats van ,,de [artikelen 10 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=10&z=2026-01-01&g=2026-01-01)” wordt gelezen: de [artikelen 20 tot en met 22](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2026-01-01&g=2026-01-01).
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 23
+##### Artikel 23
 
 Indien een natuurlijk persoon zijn bedrijf of zelfstandige beroepsuitoefening heeft gestaakt en aannemelijk is dat die belastingschuldige in de toekomst geen bedrijf of niet zelfstandig een beroep meer zal uitoefenen, wordt kwijtschelding van de belastingen, bedoeld in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=3&artikel=20&z=2026-01-01&g=2026-01-01), verleend overeenkomstig het bepaalde in afdeling 2.
 
 ### Afdeling 1. Uitstel van betaling van schenk- of erfbelasting bij bedrijfsopvolging
 
-#### Artikel 24
+##### Artikel 24
 
 Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=1&artikel=7&z=2026-01-01&g=2026-01-01), kan hij binnen tien dagen na dagtekening van de kennisgeving waarmee de beschikking is bekendgemaakt, een beroepschrift richten tot de directeur onder vermelding van de gronden van het beroep. Het beroepschrift wordt ingediend bij de ontvanger.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De directeur beslist op het beroep bij uitspraak.
 
@@ -470,7 +493,7 @@ Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld
 
 ### Afdeling 2. Kwijtschelding van rijksbelastingen in de privé-sfeer
 
-#### Artikel 26
+##### Artikel 26
 
 1. De ontvanger verleent op schriftelijk verzoek van de aansprakelijk gestelde ontslag van de verplichting tot betaling van rijksbelastingen op de voet van deze afdeling.
 
@@ -480,7 +503,7 @@ Indien de belastingschuldige zich niet kan verenigen met de beschikking, bedoeld
 
 ### Afdeling 1. Algemeen
 
-#### Artikel 27
+##### Artikel 27
 
 Deze afdeling heeft betrekking op:
 
@@ -496,7 +519,7 @@ Deze afdeling heeft betrekking op:
 
 alsmede op de daarmee samenhangende bestuurlijke boeten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Met betrekking tot een verzoek om kwijtschelding van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2026-01-01&g=2026-01-01) genoemde belastingen en heffingen verschuldigd door:
 
@@ -518,33 +541,33 @@ alsmede op de daarmee samenhangende bestuurlijke boeten.
 
 3. Indien door de provinciale staten, de gemeenteraad of het algemeen bestuur van het waterschap daartoe is besloten, worden met betrekking tot een verzoek om kwijtschelding van de in [artikel 27, onderdeel a, onderdeel b, onderscheidenlijk onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2026-01-01&g=2026-01-01), bedoelde belastingen en heffingen in afwijking van het eerste lid, onderdelen a en b, als uitgaven als bedoeld in [artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=2&artikel=15&z=2026-01-01&g=2026-01-01), mede in aanmerking genomen de overeenkomstig [artikel 1.7, eerste en tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&artikel=1.7) bepaalde kosten van kinderopvang verminderd met de kinderopvangtoeslag of met de tegemoetkoming van de gemeente of het Uitvoeringsinstituut werknemersverzekeringen in de te betalen kosten van kinderopvang, bedoeld in [hoofdstuk 1, afdeling 2, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0017017&afdeling=2).
 
-#### Artikel 28a
+##### Artikel 28a
 
 Met betrekking tot een verzoek om ontslag van de verplichting tot betaling van de in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=II&afdeling=7&artikel=27&z=2026-01-01&g=2026-01-01) genoemde belastingen en heffingen zijn afdeling 6 en artikel 28, tweede lid, van overeenkomstige toepassing.
 
 ### Hoofdstuk IE. Uitstel van betaling van rijksbelastingen en toeslagen in de privésfeer
 
-#### Artikel 28b
+##### Artikel 28b
 
 Vervallen
 
-#### Artikel 28c
+##### Artikel 28c
 
 Vervallen
 
-#### Artikel 28d
+##### Artikel 28d
 
 Vervallen
 
-#### Artikel 28e
+##### Artikel 28e
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 De in rekening te brengen invorderingsrente wordt berekend over iedere betaling afzonderlijk.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor de berekening van de in rekening te brengen invorderingsrente over een betaald bedrag wordt gebruik gemaakt van de volgende formule:
 
@@ -560,7 +583,7 @@ betaling - hoofdsom = invorderingsrente.
 
 4. Het bedrag van de betaling wordt naar beneden afgerond op gehele euro’s.
 
-#### Artikel 31
+##### Artikel 31
 
 Bij de bepaling van het aantal dagen waarover invorderingsrente wordt berekend, wordt:
 
@@ -568,49 +591,49 @@ Bij de bepaling van het aantal dagen waarover invorderingsrente wordt berekend, 
 
 - b. een volle maand gesteld op 30 dagen en een jaar op 360 dagen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Het bedrag van de in rekening te brengen invorderingsrente wordt naar beneden afgerond op gehele euro’s.
 
 2. Het bedrag van de te vergoeden invorderingsrente wordt naar boven afgerond op gehele euro’s.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Bij de enige of laatste betaling wordt een bedrag aan invorderingsrente van € 49 of minder niet in rekening gebracht.
 
 2. Het bedrag, genoemd in het eerste lid, wordt elke vijf jaar bij het begin van het kalenderjaar, voor het eerst per 1 januari 2026, aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2).
 
-#### Artikel 34
+##### Artikel 34
 
 Bij uitstel van betaling voor een periode van drie jaren of langer kan de ontvanger bedingen dat de in rekening te brengen invorderingsrente in afwijking van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=29&z=2026-01-01&g=2026-01-01) jaarlijks wordt betaald.
 
 ### Hoofdstuk IV. Aansprakelijkheid
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 40a
+##### Artikel 40a
 
 Als goederen als bedoeld in [artikel 42c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=42c) worden de volgende goederen aangewezen, de toebehoren en onderdelen van die goederen daaronder begrepen:
 
@@ -622,7 +645,7 @@ Als goederen als bedoeld in [artikel 42c van de wet](https://wetten.overheid.nl/
 
 ### Hoofdstuk III. Betalingskorting en invorderingsrente
 
-#### Artikel 41
+##### Artikel 41
 
 1. Deze regeling treedt in werking met ingang van 1 juni 1990.
 
@@ -632,7 +655,7 @@ Als goederen als bedoeld in [artikel 42c van de wet](https://wetten.overheid.nl/
 
 Vervallen
 
-#### Artikel 40b
+##### Artikel 40b
 
 1. Ingeval een lijfrenteverplichting in een situatie als bedoeld in [artikel 3.133, tweede lid, onderdeel h, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.133) overgaat of, beoordeeld aan het einde van het kalenderjaar, is overgegaan op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van [artikel 44a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44a) aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in dat artikel bedoelde inkomstenbelasting en revisierente.
 
@@ -640,7 +663,7 @@ Vervallen
 
 3. Het tweede lid is van overeenkomstige toepassing indien de verzekeringnemer of de gerechtigde voldoende zekerheid heeft gesteld.
 
-#### Artikel 40c
+##### Artikel 40c
 
 1. Ingeval een verplichting ingevolge een pensioenregeling in een situatie als bedoeld in [artikel 19b, zesde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19b) overgaat op een niet in Nederland gevestigd pensioenfonds of lichaam dat het verzekeringsbedrijf uitoefent, kan de ontvanger onder door hem te stellen voorwaarden aan de verzekeraar die op grond van [artikel 44b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b) aansprakelijk is een schriftelijke verklaring doen toekomen inhoudende een onherroepelijke mededeling dat de aansprakelijkheid niet langer geldt voor de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=44b) bedoelde loon- en inkomstenbelasting alsmede revisierente.
 
@@ -656,7 +679,7 @@ Vervallen
 
 ### Afdeling 2. Uitstel van betaling en kwijtschelding van inkomstenbelasting inzake pensioen- en lijfrenteaanspraken
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting in de gevallen bedoeld in [artikel 25, achttiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden en een afschrift is overgelegd van de overeenkomst waarbij de onderneming of een gedeelte van de onderneming is overgedragen aan de natuurlijk persoon die de overdrachtsprijs geheel of gedeeltelijk schuldig is gebleven. Uit deze overeenkomst moet blijken welk deel van de overdrachtsprijs schuldig is gebleven, wat de duur van de overeengekomen aflossingsperiode is en in welke termijnen de overdrachtsprijs wordt voldaan.
 
@@ -688,7 +711,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 40d
+##### Artikel 40d
 
 Vervallen
 
@@ -696,7 +719,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 1ca
+##### Artikel 1ca
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -716,21 +739,21 @@ In dit hoofdstuk wordt verstaan onder:
 
 - h. **bestedingsruimte:** saldo op een rekening vermeerderd met het maximale debetsaldo op die rekening dat is toegestaan op grond van een overeenkomst inzake krediet die tussen de betaaldienstverlener en de belastingschuldige is gesloten.
 
-#### Artikel 1cb
+##### Artikel 1cb
 
 Onze Minister sluit een overeenkomst inzake de overheidsvordering met de bank waar de rekening wordt gehouden waarop de bedragen ingevorderd op grond van [artikel 19, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19) worden overgemaakt. De overeenkomst bevat in ieder geval de bepalingen die zijn opgenomen in de bijlage bij deze regeling.
 
 ### Afdeling 1a. Betalingsvordering
 
-#### Artikel 1cc
+##### Artikel 1cc
 
 De overheidsvordering wordt gedaan op een betaalrekening die op naam of mede op naam staat van de belastingschuldige.
 
-#### Artikel 1cd
+##### Artikel 1cd
 
 De beschikking, bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19), wordt elektronisch bekend gemaakt aan de betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt. De overheidsvordering wordt uitsluitend uitgevoerd volgens de Europese systematiek van automatische afschrijving.
 
-#### Artikel 1ce
+##### Artikel 1ce
 
 1. De overheidsvordering bedraagt ten hoogste € 500 en wordt gedaan bij een belastingaanslag met een openstaand bedrag van ten hoogste € 1.500, voor ten hoogste tweemaal in een kalendermaand per belastingaanslag.
 
@@ -740,7 +763,7 @@ De beschikking, bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.o
 
 4. De overheidsvordering of, indien deze is gesplitst, de deelvordering wordt uitgevoerd indien de bestedingsruimte op de betaalrekening op de uitvoeringsdatum toereikend is.
 
-#### Artikel 1cf
+##### Artikel 1cf
 
 1. De betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt, is bevoegd tot terugboeking van het bedrag van de overheidsvordering of, indien deze is gesplitst, de deelvordering, indien blijkt dat de bestedingsruimte op de betaalrekening van de belastingschuldige op de uitvoeringsdatum ontoereikend is. Deze bevoegdheid vervalt na vijf werkdagen volgend op de uitvoeringsdatum.
 
@@ -748,11 +771,11 @@ De beschikking, bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.o
 
 ### Afdeling 2. Overeenkomst overheidsvordering
 
-#### Artikel 1cg
+##### Artikel 1cg
 
 De betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt, vermeldt op het papieren of elektronische afschrift van de af- of terugboeking op de betaalrekening van de belastingschuldige, de door de ontvanger bij het doen van de overheidsvordering geleverde gegevens.
 
-#### Artikel 1ch
+##### Artikel 1ch
 
 De ontvanger informeert de belastingschuldige schriftelijk over de op zijn betaalrekening uitgevoerde overheidsvordering of, indien deze is gesplitst, deelvordering binnen zeven dagen nadat de termijn, genoemd in [artikel 1cf, eerste lid, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=3&artikel=1cf&z=2026-01-01&g=2026-01-01), is verstreken.
 
@@ -822,7 +845,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling van de door hem verschuldigde inkomstenbelasting in gevallen als bedoeld in [artikel 25, elfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) en tot een omvang als bij dat artikel alsmede krachtens dat artikel in de navolgende leden is bepaald.
 
@@ -904,7 +927,7 @@ De bank,
 
 ### Afdeling 8. Uitstel van betaling van inkomstenbelasting inzake winst behaald door overdracht onderneming aan een natuurlijke persoon die overdrachtsprijs schuldig is gebleven
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de erfbelasting, bedoeld in [artikel 25, twintigste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits wordt ingestemd met door de ontvanger nader te stellen voorwaarden.
 
@@ -958,7 +981,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. De ontvanger verleent de belastingschuldige die een schriftelijk verzoek doet als bedoeld in [artikel 25a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25a) uitstel van betaling voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting als bedoeld in artikel 25a, eerste lid, van de wet. Het uitstel wordt verleend onder de voorwaarde dat bij het verzoek om uitstel van betaling aan de hand van schriftelijke bescheiden het bedrag aannemelijk wordt gemaakt van de voordelen, bedoeld in artikel 25a, eerste lid, van de wet.
 
@@ -1010,7 +1033,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 1cbis
+##### Artikel 1cbis
 
 Het bedrag, bedoeld in [artikel 18, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=18), wordt gesteld op € 2.000.
 
@@ -1020,7 +1043,7 @@ Het bedrag, bedoeld in [artikel 18, vijfde lid, van de wet](https://wetten.overh
 
 ### Hoofdstuk IAa. Mededelingsplicht bodemzaken
 
-#### Artikel 1h
+##### Artikel 1h
 
 Vervallen
 
@@ -1122,11 +1145,11 @@ voor deze:
 
 De bank,
 
-#### Artikel 1ci
+##### Artikel 1ci
 
 De mededeling, bedoeld in [artikel 22bis, tweede en derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), geschiedt door het invullen van het daartoe langs elektronische weg ter beschikking gestelde modelformulier en het per post aan de ontvanger toezenden van het ingevulde modelformulier.
 
-#### Artikel 1cj
+##### Artikel 1cj
 
 De drempel, bedoeld in [artikel 22bis, negentiende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=22bis), bedraagt € 10 000.
 
@@ -1228,7 +1251,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 40g
+##### Artikel 40g
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de inkomstenbelasting, bedoeld in [artikel 70b, eerste lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), mits voldoende zekerheid wordt gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden. Het schriftelijke verzoek en de zekerheidstelling blijven achterwege in geval van emigratie van de belastingschuldige naar een andere lidstaat van de Europese Unie, Noorwegen, IJsland of Liechtenstein.
 
@@ -1236,7 +1259,7 @@ De bank,
 
 3. Ingeval zich een omstandigheid als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b) voordoet, stelt de belastingschuldige de ontvanger daarvan onverwijld schriftelijk in kennis.
 
-#### Artikel 40h
+##### Artikel 40h
 
 1. Indien de ontvanger het op de voet van [artikel 40g](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=V&artikel=40g&z=2026-01-01&g=2026-01-01) verleende uitstel van betaling beëindigt omdat zich een omstandigheid als bedoeld in [artikel 70b, eerste lid, derde volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b) bedoelde omstandigheid voordoet, verleent hij op schriftelijk verzoek van de belastingschuldige kwijtschelding van inkomstenbelasting tot een omvang als bedoeld in [artikel 70ba van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70ba).
 
@@ -1276,7 +1299,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 40ca
+##### Artikel 40ca
 
 1. Als gevallen als bedoeld in [artikel 7a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=7a) worden aangewezen uitbetalingen van inkomstenbelasting door de ontvanger op een bankrekening:
 
@@ -1300,11 +1323,11 @@ De bank,
 
 ### Hoofdstuk IV. Aansprakelijkheid
 
-#### Artikel 40e
+##### Artikel 40e
 
 Vervallen
 
-#### Artikel 40f
+##### Artikel 40f
 
 Vervallen
 
@@ -1342,7 +1365,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 34a
+##### Artikel 34a
 
 De [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=30&z=2026-01-01&g=2026-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=31&z=2026-01-01&g=2026-01-01) en [32](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=III&artikel=32&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing met betrekking tot de kredietrente en de vertragingsrente.
 
@@ -1430,7 +1453,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 40i
+##### Artikel 40i
 
 De ontvanger kan een op grond van [artikel 70ca van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70ca) gegeven kwijtscheldingsbeschikking intrekken indien de gegevens die op grond van [artikel 12c van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=12c) zoals dat artikel luidde op 31 december 2019 aan de Belastingdienst zijn verstrekt, onjuist of onvolledig blijken te zijn.
 
@@ -1468,7 +1491,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 6da
+##### Artikel 6da
 
 1. De ontvanger verleent de belastingschuldige die een schriftelijk verzoek doet als bedoeld in [artikel 25b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25b) een gespreide betalingsregeling voor belastingaanslagen voor zover daarin is begrepen vennootschapsbelasting als bedoeld in artikel 25b, eerste lid, van de wet. De betalingsregeling wordt verleend onder de voorwaarde dat bij het verzoek om de betalingsregeling aan de hand van schriftelijke bescheiden het bedrag aannemelijk wordt gemaakt van de voordelen, bedoeld in artikel 25b, eerste lid, van de wet.
 
@@ -1522,7 +1545,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 1cbis.1
+##### Artikel 1cbis.1
 
 1. De betaaldienstverlener op wie de belastingschuldige een vordering heeft uit hoofde van een tegoed op een betaal- of spaarrekening is gehouden aan een met inachtneming van de [artikelen 1cbis.2 tot en met 1cbis.4](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=1a&artikel=1cbis.2&z=2026-01-01&g=2026-01-01) gedane betalingsvordering te voldoen door betaling van de belastingaanslagen uit dat tegoed, indien op het tijdstip van de bekendmaking van de beschikking, bedoeld in [artikel 1cbis.3](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=1a&artikel=1cbis.3&z=2026-01-01&g=2026-01-01):
 
@@ -1532,7 +1555,7 @@ De bank,
 
 2. [Artikel 477, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=477) is van overeenkomstige toepassing.
 
-#### Artikel 1cbis.2
+##### Artikel 1cbis.2
 
 1. Een betalingsvordering vanwege belastingaanslagen van een belastingschuldige, zijnde een natuurlijk persoon, strekt zich niet uit tot:
 
@@ -1546,7 +1569,7 @@ De bank,
 
 2. De betalingsvordering vanwege belastingaanslagen van een belastingschuldige, zijnde een natuurlijk persoon, die op grond van de basisregistratie personen geen adres in Nederland heeft en geen vaste woon- of verblijfplaats buiten Nederland heeft, strekt zich niet uit tot de helft van het bedrag, genoemd in het eerste lid, onderdeel c. Indien de belastingschuldige, bedoeld in de eerste zin, buiten Nederland een vaste woon- of verblijfplaats heeft, vindt het eerste lid geen toepassing. Op verzoek van de belastingschuldige, bedoeld in de eerste en tweede zin, kan de ontvanger het eerste lid overeenkomstig toepassen op basis van de door de belastingschuldige bij het verzoek over zijn leefsituatie verstrekte gegevens.
 
-#### Artikel 1cbis.3
+##### Artikel 1cbis.3
 
 1. De beschikking, bedoeld in [artikel 19, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=19), vermeldt welke van de bedragen, genoemd in [artikel 1cbis.2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=1a&artikel=1cbis.2&z=2026-01-01&g=2026-01-01), ten aanzien van de belastingschuldige van toepassing is en wordt verzonden aan de betaaldienstverlener waar de belastingschuldige volgens de administratie van de Belastingdienst een betaal- of spaarrekening aanhoudt.
 
@@ -1554,7 +1577,7 @@ De bank,
 
 3. Binnen 8 dagen na de verzending van de beschikking aan de betaaldienstverlener informeert de ontvanger de belastingschuldige schriftelijk over het feit dat een betalingsvordering is gedaan en over het ten aanzien van hem van toepassing zijnde bedrag, bedoeld in [artikel 1cbis.2](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=1a&artikel=1cbis.2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1cbis.4
+##### Artikel 1cbis.4
 
 1. Zodra 14 dagen zijn verstreken na de bekendmaking van de beschikking, bedoeld in [artikel 1cbis.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004766&hoofdstuk=IA&afdeling=1a&artikel=1cbis.3&z=2026-01-01&g=2026-01-01), doet de betaaldienstverlener opgave aan de ontvanger door het afleggen van een verklaring in een door de ontvanger bij de beschikking verstrekt verklaringsformulier, dan wel in een formulier van gelijke strekking van de betaaldienstverlener. [Artikel 476a, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a) is van overeenkomstige toepassing.
 
@@ -1624,7 +1647,7 @@ De bank,
 
 ### Afdeling 7. Kwijtschelding van enige andere belastingen en heffingen
 
-#### Artikel 28abis
+##### Artikel 28abis
 
 Vervallen
 
@@ -1664,7 +1687,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 6g
+##### Artikel 6g
 
 1. De ontvanger verleent de belastingschuldige op diens schriftelijk verzoek uitstel van betaling voor belastingaanslagen betreffende de erfbelasting in gevallen als bedoeld in [artikel 25, eenentwintigste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25), mits voldoende zekerheid is gesteld en wordt ingestemd met de door de ontvanger nader te stellen voorwaarden.
 
@@ -1718,7 +1741,7 @@ voor deze:
 
 De bank,
 
-#### Artikel 6e
+##### Artikel 6e
 
 Voor de toepassing van dit hoofdstuk wordt onder belastingschuld verstaan het gezamenlijke bedrag van:
 
@@ -1726,7 +1749,7 @@ Voor de toepassing van dit hoofdstuk wordt onder belastingschuld verstaan het ge
 
 - b. terugvorderingen in de zin van de [Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472) verschuldigd door natuurlijke personen.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. Op verzoek van de belastingschuldige stelt de ontvanger hem in de gelegenheid om zijn belastingschuld te betalen in maximaal 12 maandelijkse gelijke termijnen van minimaal € 50.
 

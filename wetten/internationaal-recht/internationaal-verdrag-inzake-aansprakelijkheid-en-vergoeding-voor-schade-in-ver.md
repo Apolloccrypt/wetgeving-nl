@@ -1,13 +1,24 @@
 ---
 title: "Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996"
 identifier: "BWBV0004849"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-05-03
-laatste_update: 1996-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004849"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-05-03"
+last_updated: "1996-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004849"
+soort: "verdrag"
+stam_id: "10004349253"
+version_id: "10004551062"
+internal_id: "C10006989241"
+label_id: "10004335184"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004849/1996-05-03/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0004849&z=1996-05-03&g=1996-05-03"
+jci_1_0: "1.0:c:BWBV0004849&g=1996-05-03"
+citeertitel_status: "redactioneel"
 ---
-
 # Internationaal Verdrag inzake aansprakelijkheid en vergoeding voor schade in verband met het vervoer over zee van gevaarlijke en schadelijke stoffen, 1996
 
 De Staten die Partij zijn bij dit Verdrag
@@ -24,7 +35,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag:
 
@@ -92,11 +103,11 @@ Voor de toepassing van dit Verdrag:
 
 - 17. wordt onder „secretaris-generaal” verstaan de secretaris-generaal van de organisatie.
 
-#### Article 2. Bijlagen
+##### Article 2. Bijlagen
 
 De bijlagen bij dit Verdrag vormen een integrerend onderdeel van dit Verdrag.
 
-#### Article 3. Toepassingsgebied
+##### Article 3. Toepassingsgebied
 
 Dit Verdrag is uitsluitend van toepassing:
 
@@ -108,7 +119,7 @@ Dit Verdrag is uitsluitend van toepassing:
 
 - d. op preventieve maatregelen, waar ook genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Verdrag is van toepassing op vorderingen, anders dan vorderingen uit hoofde van een overeenkomst tot het vervoer van goederen en passagiers, wegens schade voortvloeiende uit het vervoer van gevaarlijke en schadelijke stoffen over zee.
 
@@ -126,7 +137,7 @@ Dit Verdrag is uitsluitend van toepassing:
 
 6. Met betrekking tot schepen die toebehoren aan een Staat die Partij is en die worden gebruikt voor handelsdoeleinden, kan elke Staat voor de in artikel 38 bedoelde gerechtelijke instanties worden gedaagd en ziet elke Staat af van verdediging op grond van zijn status als soevereine Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een Staat kan op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van, respectievelijk toetreding tot dit Verdrag, of op enig tijdstip daarna verklaren dat dit Verdrag niet van toepassing is op schepen:
 
@@ -154,13 +165,13 @@ Dit Verdrag is uitsluitend van toepassing:
 
 - b. de schade de maatregelen omvat die zijn genomen ter voorkoming of beperking van deze schade.
 
-#### Artikel 6. Verplichtingen van Staten die Partij zijn
+##### Artikel 6. Verplichtingen van Staten die Partij zijn
 
 Elke Staat die Partij is, draagt er zorg voor dat iedere verplichting ingevolge dit Verdrag wordt nagekomen en neemt de nodige maatregelen krachtens zijn wetgeving, met inbegrip van het opleggen van de door hem noodzakelijk geachte sancties, teneinde de daadwerkelijke nakoming van een verplichting te verwezenlijken.
 
 ### HOOFDSTUK II. AANSPRAKELIJKHEID
 
-#### Artikel 7. Aansprakelijkheid van de eigenaar
+##### Artikel 7. Aansprakelijkheid van de eigenaar
 
 1. De eigenaar op het tijdstip van een voorval is, behoudens het bepaalde in het tweede en derde lid van dit artikel, aansprakelijk voor schade veroorzaakt door gevaarlijke en schadelijke stoffen in verband met het vervoer daarvan over zee aan boord van het schip, met dien verstande dat indien het voorval bestaat uit een opeenvolging van feiten met dezelfde oorsprong, de eigenaar op het tijdstip van het eerste feit aansprakelijk is.
 
@@ -200,7 +211,7 @@ tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, begaan h
 
 6. Geen enkele bepaling van dit Verdrag doet afbreuk aan enig verhaalsrecht van de eigenaar tegenover derden, met inbegrip van, doch niet beperkt tot, de verzender of de ontvanger van de stof die de schade heeft veroorzaakt, of de in het vijfde lid bedoelde personen.
 
-#### Artikel 8. Voorvallen waarbij twee of meer schepen zijn betrokken
+##### Artikel 8. Voorvallen waarbij twee of meer schepen zijn betrokken
 
 1. Wanneer de schade het gevolg is van een voorval waarbij twee of meer schepen zijn betrokken die beide gevaarlijke en schadelijke stoffen vervoeren, is elke eigenaar, tenzij deze ingevolge artikel 7 van zijn aansprakelijkheid is ontheven, aansprakelijk voor de schade. De eigenaren zijn hoofdelijk aansprakelijk voor alle schade die redelijkerwijs niet te scheiden is.
 
@@ -208,7 +219,7 @@ tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, begaan h
 
 3. Geen enkele bepaling van dit artikel doet afbreuk aan enig verhaalsrecht van een eigenaar tegenover een andere eigenaar.
 
-#### Article 9. Beperking van de aansprakelijkheid
+##### Article 9. Beperking van de aansprakelijkheid
 
 1. De eigenaar van een schip is gerechtigd de aansprakelijkheid krachtens dit Verdrag te beperken tot een totaalbedrag per voorval dat als volgt wordt berekend:
 
@@ -246,7 +257,7 @@ tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, begaan h
 
 11. De verzekeraar of andere persoon die financiële zekerheid stelt, heeft het recht tot het vormen van een fonds in overeenstemming met dit artikel op dezelfde voorwaarden en met dezelfde rechtsgevolgen als ware het door de eigenaar gevormd. Een zodanig fonds kan zelfs worden gevormd indien, ingevolge het bepaalde in het tweede lid, de eigenaar niet gerechtigd is zijn aansprakelijkheid te beperken, maar de vorming daarvan laat dan de rechten van de schuldeisers tegenover de eigenaar onverlet.
 
-#### Article 10
+##### Article 10
 
 1. Indien na een voorval de eigenaar overeenkomstig artikel 9 een fonds heeft gevormd en gerechtigd is zijn aansprakelijkheid te beperken:
 
@@ -256,11 +267,11 @@ tenzij de schade het gevolg is van hun persoonlijk handelen of nalaten, begaan h
 
 2. Het voorgaande is evenwel alleen van toepassing indien de schuldeiser toegang heeft tot de rechterlijke autoriteit die het fonds beheert en het fonds daadwerkelijk beschikbaar is tot voldoening van zijn vordering.
 
-#### Artikel 11. Overlijden en letsel
+##### Artikel 11. Overlijden en letsel
 
 Vorderingen wegens overlijden of persoonlijk letsel hebben voorrang boven andere vorderingen, behoudens voor zover het totaal van de vorderingen meer bedraagt dan tweederde van het totaalbedrag dat ingevolge artikel 9, eerste lid, is vastgesteld.
 
-#### Article 12. Verplichte verzekering van de eigenaar
+##### Article 12. Verplichte verzekering van de eigenaar
 
 1. De eigenaar van een schip dat geregistreerd is in een Staat die Partij is en dat daadwerkelijk gevaarlijke en schadelijke stoffen vervoert, is gehouden een verzekering of andere financiële zekerheid, zoals een bankgarantie of een door een soortgelijke financiële instantie afgegeven garantie, in stand te houden tot dekking van zijn aansprakelijkheid voor schade ingevolge dit Verdrag, tot een bedrag gelijk aan het maximum van zijn aansprakelijkheid ingevolge het eerste lid van artikel 9.
 
@@ -300,7 +311,7 @@ Vorderingen wegens overlijden of persoonlijk letsel hebben voorrang boven andere
 
 ### HOOFDSTUK III. VERGOEDING DOOR HET INTERNATIONAAL FONDS VOOR GEVAARLIJKE EN SCHADELIJKE STOFFEN (HNS-FONDS)
 
-#### Artikel 13. Oprichting van het HNS-Fonds
+##### Artikel 13. Oprichting van het HNS-Fonds
 
 1. Hierbij wordt opgericht het Internationaal Fonds voor gevaarlijke en schadelijke stoffen (HNS- Fonds), dat ten doel heeft:
 
@@ -310,7 +321,7 @@ Vorderingen wegens overlijden of persoonlijk letsel hebben voorrang boven andere
 
 2. Het HNS-Fonds wordt in elke Staat die Partij is erkend als een rechtspersoon, die ingevolge de wetgeving van die Staat bevoegd is rechten en verplichtingen te aanvaarden en partij te zijn bij gedingen voor de gerechten van die Staat. Elke Staat die Partij is erkent de directeur als wettelijk vertegenwoordiger van het HNS-Fonds.
 
-#### Artikel 14. Vergoeding
+##### Artikel 14. Vergoeding
 
 1. Ter vervulling van zijn in artikel 13, eerste lid, onder a, genoemde taak, betaalt het HNS-Fonds schadevergoeding aan iedere persoon die schade heeft geleden en niet in staat is geweest een volledige en passende vergoeding van die schade te verkrijgen op grond van de bepalingen van hoofdstuk II:
 
@@ -342,7 +353,7 @@ Vorderingen wegens overlijden of persoonlijk letsel hebben voorrang boven andere
 
 7. De Algemene Vergadering van het HNS-Fonds kan besluiten dat, in uitzonderlijke gevallen, een vergoeding ingevolge dit Verdrag kan worden betaald zelfs als de eigenaar geen fonds heeft gevormd overeenkomstig hoofdstuk II. In dergelijke gevallen is het bepaalde in het vijfde lid, onder d, van overeenkomstige toepassing.
 
-#### Artikel 15. Bijbehorende taken van het HNS-Fonds
+##### Artikel 15. Bijbehorende taken van het HNS-Fonds
 
 Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen heeft het HNS-Fonds de volgende taken:
 
@@ -366,7 +377,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 - d. kredietfaciliteiten verschaffen, op in het huishoudelijk reglement nader te bepalen voorwaarden, voor het nemen van maatregelen ter voorkoming van schade ten gevolge van een voorval, met betrekking tot welk op grond van dit Verdrag een beroep kan worden gedaan op het HNS-Fonds tot betaling van schadevergoeding.
 
-#### Article 16. Algemene bepalingen betreffende bijdragen
+##### Article 16. Algemene bepalingen betreffende bijdragen
 
 1. Het HNS-Fonds heeft een algemene rekening die is onderverdeeld in sectoren.
 
@@ -386,7 +397,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 6. Onder „geassocieerde persoon” wordt verstaan elk filiaal of elke eenheid onder hetzelfde gemeenschappelijk beheer. De vraag of een persoon onder deze begripsomschrijving valt, wordt beoordeeld naar de nationale wet van de betrokken Staat.
 
-#### Article 17. Algemene bepalingen betreffende jaarlijkse bijdragen
+##### Article 17. Algemene bepalingen betreffende jaarlijkse bijdragen
 
 1. De jaarlijkse bijdragen aan de algemene rekening en aan elke aparte rekening worden alleen geheven voorzover dat nodig is ter verrichting van betalingen ten laste van de desbetreffende rekening.
 
@@ -398,7 +409,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 5. De Algemene Vergadering neemt ook beslissingen omtrent de omslag over de desbetreffende rekeningen en sectoren van bedragen betaald als vergoeding voor schade veroorzaakt door twee of meer stoffen die onder verschillende rekeningen of sectoren vallen, op basis van een schatting van de mate waarin elk van de betrokken stoffen heeft bijgedragen aan de schade.
 
-#### Article 18. Jaarlijkse bijdragen ten gunste van de algemene rekening
+##### Article 18. Jaarlijkse bijdragen ten gunste van de algemene rekening
 
 1. Onverminderd het bepaalde in artikel 16, vijfde lid, worden ten aanzien van iedere Staat die Partij is betalingen ten behoeve van de algemene rekening gedaan door iedere persoon die in die Staat in het voorgaande kalenderjaar of een ander door de Algemene Vergadering vast te stellen jaar een totale hoeveelheid van meer dan 20.000 ton bijdragende lading, anders dan de in artikel 19, eerste lid, bedoelde stoffen, heeft ontvangen die in de volgende sectoren vallen:
 
@@ -410,7 +421,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 2. Jaarlijkse bijdragen aan de algemene rekening worden eveneens betaald door personen die ingevolge artikel 19, eerste lid, bijdrageplichtig zouden zijn geweest aan een aparte rekening indien de werking daarvan niet zou zijn uitgesteld of geschorst in overeenstemming met artikel 19. Elke aparte rekening waarvan de werking is uitgesteld of geschorst ingevolge artikel 19, vormt een aparte sector binnen de algemene rekening.
 
-#### Article 19. Jaarlijkse bijdragen ten gunste van aparte rekeningen
+##### Article 19. Jaarlijkse bijdragen ten gunste van aparte rekeningen
 
 1. Onverminderd het bepaalde in artikel 16, vijfde lid, worden ten aanzien van elke Staat die Partij is jaarlijkse bijdragen betaald ten gunste van aparte rekeningen:
 
@@ -444,7 +455,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 6. Iedere persoon die bijdrageplichtig zou zijn ten gunste van een aparte rekening waarvan de werking is uitgesteld krachtens het derde lid of is geschorst krachtens het vierde lid, betaalt ten behoeve van de algemene rekening de bijdragen die door hem verschuldigd zijn ingevolge die aparte rekening. Voor de berekening van toekomstige bijdragen vormt de uitgestelde of geschorste aparte rekening een nieuwe sector in de algemene rekening en is hierop het in bijlage II bedoelde HNS-puntensysteem van toepassing.
 
-#### Artikel 20. Aanvangsbijdragen
+##### Artikel 20. Aanvangsbijdragen
 
 1. Ten aanzien van elke Staat die Partij is, worden aanvangsbijdragen betaald, die voor elke persoon die bijdrageplichtig is overeenkomstig artikel 16, vijfde lid, de artikelen 18, 19 en 21, vijfde lid, worden berekend op basis van een vast bedrag, dat gelijk is voor de algemene rekening en elke aparte rekening, voor elke eenheid bijdragende lading die door hem in die Staat is ontvangen of, in het geval van een LNG-rekening, is gelost gedurende het kalenderjaar voorafgaand aan dat, waarin dit Verdrag voor die Staat in werking treedt.
 
@@ -452,7 +463,7 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 3. De aanvangsbijdragen worden betaald binnen drie maanden na de datum waarop het HNS-Fonds ten aanzien van elke Staat die Partij is facturen verstuurt aan de personen die ingevolge het eerste lid bijdrageplichtig zijn.
 
-#### Artikel 21. Verslagen
+##### Artikel 21. Verslagen
 
 1. Elke Staat die Partij is draagt er zorg voor, dat een persoon die ingevolge artikel 18, artikel 19, of ingevolge het vijfde lid van dit artikel verplicht is aan het Fonds bij te dragen, vermeld staat op een lijst die door de directeur in overeenstemming met de bepalingen van dit artikel wordt aangelegd en bijgehouden.
 
@@ -468,13 +479,13 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 - b. het HNS-Fonds de opdracht te geven het totale bedrag voor elke rekening te heffen door individuele ontvangers of, in geval van LNG, degene die op de lading aanspraak kan maken en deze binnen het rechtsgebied van de Staat die Partij is lost, een factuur te zenden ten belope van het bedrag dat elk van hen verschuldigd is. Deze personen worden bepaald overeenkomstig het nationale recht van de betrokken Staat.
 
-#### Artikel 22. Niet-bepaling van bijdragen
+##### Artikel 22. Niet-bepaling van bijdragen
 
 1. Het bedrag van achterstallige, op grond van artikel 18, 19, 20 of artikel 21, vijfde lid, verschuldigde bedragen draagt rente tegen een percentage dat in overeenstemming met het huishoudelijk reglement van het HNS-Fonds wordt bepaald, met dien verstande dat verschillende percentages kunnen worden bepaald voor verschillende omstandigheden.
 
 2. Indien een persoon die op grond van artikel 18, 19, 20 of artikel 21, vijfde lid, bijdrageplichtig is, zijn verplichtingen ten aanzien van een zodanige bijdrage of een deel daarvan niet nakomt en achterstallig is, neemt de directeur namens het HNS-fonds alle nodige maatregelen, met inbegrip van gerechtelijke stappen, tegen een zodanige persoon teneinde het verschuldigde bedrag te innen. Indien echter de in gebreke blijvende bijdrageplichtige kennelijk insolvent is of anderszins de omstandigheden zulks rechtvaardigen, kan de Algemene Vergadering op aanbeveling van de directeur besluiten af te zien van het nemen of vervolgen van maatregelen tegen de bijdrageplichtige.
 
-#### Artikel 23. Optionele bijdrageplicht van de Staten die Partij zijn
+##### Artikel 23. Optionele bijdrageplicht van de Staten die Partij zijn
 
 1. Onverminderd het bepaalde in artikel 21, vijfde lid, kan elke Staat die Partij is op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding of op elk tijdstip daarna verklaren dat hij verplichtingen overneemt die op grond van dit Verdrag rusten op personen die ingevolge artikel 18, 19, 20 of artikel 21, vijfde lid, gehouden zijn aan het fonds bij te dragen voor gevaarlijke en schadelijke stoffen die op het grondgebied van die Staat zijn ontvangen of gelost. Deze verklaring wordt schriftelijk gedaan en vermeldt welke verplichtingen worden overgenomen.
 
@@ -486,15 +497,15 @@ Teneinde zijn in artikel 13, eerste lid, onder a, bedoelde functies te vervullen
 
 5. Elke Staat die door een verklaring als bedoeld in dit artikel is gebonden, doet, wanneer tegen hem voor de bevoegde rechter ten aanzien van enige verplichting als in de verklaring omschreven een geding wordt aangespannen, afstand van elk mogelijk beroep op immuniteit.
 
-#### Artikel 24. Organisatie en administratie
+##### Artikel 24. Organisatie en administratie
 
 Het HNS-fonds heeft een algemene vergadering en een secretariaat dat onder leiding staat van de directeur.
 
-#### Artikel 25. De Algemene Vergadering
+##### Artikel 25. De Algemene Vergadering
 
 De algemene vergadering wordt gevormd door alle Staten die Partij zijn bij dit Verdrag.
 
-#### Artikel 26
+##### Artikel 26
 
 De algemene vergadering heeft de volgende taken:
 
@@ -526,23 +537,23 @@ De algemene vergadering heeft de volgende taken:
 
 - n. het vervullen van andere taken die haar worden toegewezen ingevolge dit Verdrag of die anderszins noodzakelijk zijn voor de goede werking van het HNS-Fonds.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Gewone zittingen van de Algemene Vergadering worden eenmaal per kalenderjaar gehouden en bijeengeroepen door de directeur.
 
 2. Buitengewone zittingen van de Algemene Vergadering worden bijeengeroepen door de directeur op verzoek van ten minste een derde van de leden van de Algemene Vergadering; zij kunnen ook worden bijeengeroepen op eigen initiatief door de directeur, na overleg met de voorzitter van de Algemene Vergadering. De directeur doet de leden ten minste dertig dagen tevoren mededeling van zodanige zittingen.
 
-#### Artikel 28
+##### Artikel 28
 
 Een meerderheid van de leden van de Algemene Vergadering vormt het voor haar bijeenkomsten vereiste quorum.
 
-#### Artikel 29. Secretariaat
+##### Artikel 29. Secretariaat
 
 1. Het secretariaat wordt gevormd door de directeur en zoveel stafleden als voor het bestuur van het HNS-Fonds nodig zijn.
 
 2. De directeur is de wettelijke vertegenwoordiger van het HNS-Fonds.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De directeur is de hoogste bestuurlijke ambtenaar van het HNS-Fonds. Met inachtneming van door de Algemene Vergadering gegeven instructies vervult de directeur de taken die hem door dit Verdrag, het huishoudelijk reglement van het HNS-Fonds en de Algemene Vergadering zijn opgedragen.
 
@@ -564,17 +575,17 @@ Een meerderheid van de leden van de Algemene Vergadering vormt het voor haar bij
 
 - h. de documenten en gegevens voor te bereiden, te verzamelen en rond te zenden welke nodig zijn voor de werkzaamheden van de Algemene Vergadering en ondergeschikte organen.
 
-#### Artikel 31
+##### Artikel 31
 
 Bij het vervullen van hun taken vragen noch ontvangen de directeur en het personeel, alsmede de door de directeur benoemde deskundigen, instructies van enige regering of enige autoriteit buiten het HNS-Fonds. Zij onthouden zich van elk optreden dat op hun positie als internationale ambtenaren een nadelige invloed zou kunnen hebben. Elke Verdragsluitende Staat van zijn kant verbindt zich het uitsluitend internationale karakter van de verantwoordelijkenheden van de directeur, het personeel en de door de directeur benoemde deskundigen te eerbiedigen en zich te onthouden van elke poging invloed op hen uit te oefenen bij de uitoefening van hun taken.
 
-#### Artikel 32. Financiën
+##### Artikel 32. Financiën
 
 1. Elke Staat die Partij is draagt de kosten van het salaris, de reiskosten en andere kosten van zijn delegatie naar de Algemene Vergadering en van zijn vertegenwoordigers in ondergeschikte organen.
 
 2. Alle andere uitgaven die voortvloeien uit de werking van het HNS-Fonds worden door het Fonds gedragen.
 
-#### Artikel 33. Stemming
+##### Artikel 33. Stemming
 
 Bij de stemmingen in de Algemene Vergadering worden de volgende regels in acht genomen:
 
@@ -586,7 +597,7 @@ Bij de stemmingen in de Algemene Vergadering worden de volgende regels in acht g
 
 - d. voor de toepassing van dit artikel wordt verstaan onder „aanwezige leden”: „leden die aanwezig zijn op de vergadering op het ogenblik van de stemming” en onder „leden die aanwezig zijn en hun stem uitbrengen: „leden die aanwezig zijn en die in bevestigende of ontkennende zin een stem uitbrengen”. Leden die zich onthouden van stemming worden geacht niet te hebben gestemd.
 
-#### Artikel 34
+##### Artikel 34
 
 De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid van twee derden van de stemmen:
 
@@ -600,7 +611,7 @@ De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid va
 
 - e. een beslissing ingevolge artikel 51, eerste lid, dat dit Verdrag van kracht zal blijven.
 
-#### Artikel 35. Vrijstelling van belasting en voorschriften betreffende de deviezencontrole
+##### Artikel 35. Vrijstelling van belasting en voorschriften betreffende de deviezencontrole
 
 1. Het Fonds, zijn activa, inkomsten, met inbegrip van de bijdragen, en andere bezittingen die noodzakelijk zijn voor de uitoefening van zijn in artikel 13, eerste lid, bedoelde taken, genieten in alle Staten die Partij zijn vrijstelling van alle directe belastingen.
 
@@ -614,13 +625,13 @@ De volgende beslissingen van de Algemene Vergadering vereisen een meerderheid va
 
 6. Ongeacht hun bestaande of toekomstige regelingen terzake van deviezencontrole of toezicht op overmaking van kapitaal, verlenen de Staten die Partij zijn zonder enige beperking toestemming tot de overmaking en betaling van elke bijdrage aan het HNS-Fonds en elke door het HNS-Fonds betaalde vergoeding.
 
-#### Artikel 36. Vertrouwelijkheid van gegevens
+##### Artikel 36. Vertrouwelijkheid van gegevens
 
 Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichtigen worden verstrekt, worden niet verspreid buiten het HNS-Fonds, tenzij dit absoluut noodzakelijk is om het HNS-Fonds in staat te stellen zijn werkzaamheden te verrichten, met inbegrip van het optreden als eiser of verweerder in rechte.
 
 ### HOOFDSTUK IV. VORDERINGEN TOT SCHADEVERGOEDING EN RECHTSVORDERINGEN
 
-#### Artikel 37. Beperking van het instellen van vorderingen
+##### Artikel 37. Beperking van het instellen van vorderingen
 
 1. Het recht op schadevergoeding krachtens hoofdstuk II vervalt wanneer geen rechtsvordering is ingesteld binnen drie jaar na de datum waarop de persoon die de schade lijdt op de hoogte was of redelijkerwijs op de hoogte had kunnen zijn van de schade en de identiteit van de eigenaar.
 
@@ -630,7 +641,7 @@ Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichti
 
 4. Wanneer het voorval wordt gevormd door een opeenvolging van feiten, begint de in het derde lid bedoelde termijn van tien jaar te lopen vanaf de datum van het laatste van die feiten.
 
-#### Artikel 38. Rechtsbevoegdheid met betrekking tot vorderingen tegen de eigenaar
+##### Artikel 38. Rechtsbevoegdheid met betrekking tot vorderingen tegen de eigenaar
 
 1. Wanneer door een voorval schade is veroorzaakt op het grondgebied, de territoriale zee daaronder begrepen, of in een in artikel 3, letter b, bedoeld gebied van een of meer Staten die Partij zijn, of wanneer preventieve maatregelen zijn genomen ter voorkoming of beperking van schade op een dergelijk grondgebied, de territoriale zee daaronder begrepen, of in een dergelijk gebied, kunnen vorderingen tot vergoeding tegen de eigenaar of de [andere] persoon die financiële zekerheid stelt voor de aansprakelijkheid van de eigenaar slechts worden ingesteld bij de rechter van de desbetreffende Staten die Partij zijn.
 
@@ -648,7 +659,7 @@ Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichti
 
 5. Nadat een fonds als bedoeld in artikel 9 is gevormd door de eigenaar of door de verzekeraar of andere persoon die ingevolge artikel 12 financiële zekerheid stelt, is de rechter van de Staat waar het fonds is gevormd bij uitsluiting bevoegd te beslissen in alle aangelegenheden betreffende de verdeling van het fonds.
 
-#### Article 39. Rechtsbevoegdheid met betrekking tot vorderingen tegen het HNS-Fonds of ingesteld door het HNS-Fonds
+##### Article 39. Rechtsbevoegdheid met betrekking tot vorderingen tegen het HNS-Fonds of ingesteld door het HNS-Fonds
 
 1. Onverminderd hetgeen hierna in dit artikel is bepaald, kan een vordering tot betaling van schadevergoeding ingevolge artikel 14 slechts tegen het HNS-Fonds worden ingesteld bij de rechter die op grond van artikel 38 bevoegd is ten aanzien van vorderingen op de eigenaar die voor schade, veroorzaakt door het desbetreffende voorval, aansprakelijk is, of bij een rechter in een Staat die Partij is en die bevoegd zou zijn geweest indien de eigenaar aansprakelijk zou zijn geweest.
 
@@ -664,7 +675,7 @@ Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichti
 
 7. Onverminderd het in het vijfde lid bepaalde moet, indien op grond van dit Verdrag een vordering tot vergoeding van schade tegen een eigenaar of zijn garant is ingesteld bij een bevoegde rechter in een Staat die Partij is, elke partij in het geding op grond van de nationale wetgeving van deze Staat het recht hebben, het HNS-Fonds van het geding in kennis te stellen. Indien zulk een kennisgeving op de wijze als voorgeschreven door de wet van de Staat van het betrokken gerecht is gedaan op een zodanig tijdstip en op zodanige wijze dat het HNS-Fonds daadwerkelijk de mogelijkheid heeft gehad zich als partij te voegen in het geding, wordt een uitspraak van de rechter in dat geding, nadat deze onherroepelijk en voor tenuitvoerlegging vatbaar is geworden in de Staat waar hij is gegeven, bindend voor het HNS-Fonds in die zin dat het Fonds de gronden en de beslissing van het vonnis niet kan bestrijden, zelfs indien het zich niet als partij heeft gevoegd in het geding.
 
-#### Artikel 40. Erkenning en tenuitvoerlegging
+##### Artikel 40. Erkenning en tenuitvoerlegging
 
 1. Beslissingen van een uit hoofde van artikel 38 bevoegde rechter die voor tenuitvoerlegging vatbaar zijn in de Staat waarin zij zijn gegeven en waartegen geen gewoon rechtsmiddel meer openstaat, worden erkend in elke andere Staat die Partij is, tenzij:
 
@@ -676,7 +687,7 @@ Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichti
 
 3. Onverminderd beslissingen betreffende de verdeling, bedoeld in artikel 14, zesde lid, worden uitspraken die tegen het HNS-Fonds zijn gedaan door een uit hoofde van artikel 39, eerste en derde lid, bevoegde rechter, wanneer zij voor tenuitvoerlegging vatbaar zijn in de Staat waar zij zijn gedaan en daartegen in die Staat geen gewoon rechtsmiddel meer openstaat, erkend en zijn zij vatbaar voor tenuitvoerlegging in elke Staat die Partij is.
 
-#### Artikel 41. Subrogatie en verhaal
+##### Artikel 41. Subrogatie en verhaal
 
 1. Het HNS-Fonds treedt voor elk bedrag aan vergoeding van schade dat het op grond van artikel 14, eerste lid, van dit Verdrag heeft betaald, bij wege van subrogatie in de rechten die de persoon wiens schade is vergoed, zou hebben kunnen doen gelden ten aanzien van de eigenaar of zijn garant.
 
@@ -684,23 +695,23 @@ Gegevens die voor de toepassing van dit Verdrag over individuele bijdrageplichti
 
 3. Onverminderd enig ander recht van subrogatie of verhaal op het HNS-Fonds, treedt een Staat die Partij is, of een orgaan van zulk een Staat, en die vergoeding heeft betaald voor schade overeenkomstig de bepalingen van de wet van die Staat, bij wege van subrogatie in de rechten die de persoon wiens schade aldus is vergoed, op grond van dit Verdrag zou hebben gehad.
 
-#### Artikel 42. Vervangingsclausule
+##### Artikel 42. Vervangingsclausule
 
 Dit Verdrag vervangt de verdragen die, op de datum dat dit Verdrag voor ondertekening wordt geopend, van kracht zijn of voor ondertekening, bekrachtiging of toetreding zijn geopend, doch uitsluitend voorzover dergelijke verdragen in strijd zouden zijn met dit Verdrag; dit artikel doet evenwel geen afbreuk aan de verplichtingen ingevolge dergelijke verdragen van Staten die Partij zijn jegens Staten die geen partij zijn bij dit Verdrag.
 
 ### HOOFDSTUK V. OVERGANGSBEPALINGEN
 
-#### Artikel 43. Gegevens betreffende bijdragende lading
+##### Artikel 43. Gegevens betreffende bijdragende lading
 
 Bij de nederlegging van de in artikel 45, derde lid, bedoelde akte, en jaarlijks daarna totdat dit Verdrag voor een Staat in werking treedt, legt deze Staat aan de secretaris-generaal gegevens over betreffende de relevante hoeveelheden van in die Staat ontvangen bijdragende lading of, in het geval van LNG, geloste bijdragende lading gedurende het voorafgaande kalenderjaar, met betrekking tot de algemene rekening en elke aparte rekening.
 
-#### Artikel 44. Eerste gewone zitting van de Algemene vergadering
+##### Artikel 44. Eerste gewone zitting van de Algemene vergadering
 
 De secretaris-generaal roept de eerste gewone zitting van de Algemene vergadering bijeen. Deze zitting vindt plaats zo spoedig mogelijk na de inwerkingtreding van dit Verdrag en in elk geval niet later dan dertig dagen na die inwerkingtreding.
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 45. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 45. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 1 oktober 1996 tot en met 30 september 1997 op de zetel van de organisatie open voor ondertekening en blijft daarna openstaan voor toetreding.
 
@@ -714,7 +725,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door nederlegging van een daartoe strekkende akte bij de secretaris-generaal.
 
-#### Artikel 46. Inwerkingtreding
+##### Artikel 46. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking achttien maanden na de datum waarop aan de volgende vereisten is voldaan:
 
@@ -724,7 +735,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 2. Ten aanzien van elke Staat die tot uitdrukking heeft gebracht ermee in te stemmen door dit Verdrag te worden gebonden nadat aan de voorwaarden voor de inwerkingtreding is voldaan, wordt deze instemming van kracht drie maanden na de datum waarop deze instemming tot uitdrukking is gebracht, of op de datum waarop dit Verdrag overeenkomstig het eerste lid in werking treedt, naargelang welke datum later valt.
 
-#### Artikel 47. Herziening en wijziging
+##### Artikel 47. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van dit Verdrag bijeenroepen.
 
@@ -732,7 +743,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 3. Elke instemming door dit Verdrag te worden gebonden die na de datum van het van kracht worden van een wijziging van dit Verdrag tot uitdrukking wordt gebracht, wordt geacht van toepassing te zijn op het Verdrag zoals gewijzigd.
 
-#### Artikel 48. Wijziging van de limieten
+##### Artikel 48. Wijziging van de limieten
 
 1. Onverminderd de bepalingen van artikel 47, is de bijzondere procedure van dit artikel uitsluitend van toepassing op de wijziging van de in artikel 9, eerste lid, en artikel 14, vijfde lid, bedoelde limieten.
 
@@ -760,7 +771,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 11. Wanneer een wijziging is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak een Verdragsluitende Staat wordt, door de wijziging gebonden indien deze van kracht wordt. Een Staat die na dat tijdvak een Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het achtste lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Verdrag voor die Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 49. Opzegging
+##### Artikel 49. Opzegging
 
 1. Een Staat die Partij is kan dit Verdrag, na de datum waarop het voor die Staat die Partij is in werking is getreden, te allen tijde opzeggen.
 
@@ -770,7 +781,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 4. Niettegenstaande een opzegging ingevolge dit artikel door een Staat die Partij is, blijven de bepalingen van dit Verdrag die verband houden met de verplichtingen om op grond van de artikelen 18, 19, of artikel 21, vijfde lid, bij te dragen van toepassing ten aanzien van door de Algemene Vergadering besloten betalingen van vergoedingen voor een voorval dat zich heeft voorgedaan voordat de opzegging van kracht wordt.
 
-#### Artikel 50. Buitengewone zittingen van de Algemene vergadering
+##### Artikel 50. Buitengewone zittingen van de Algemene vergadering
 
 1. Iedere Staat die Partij is kan binnen negentig dagen na de nederlegging van een akte van opzegging die naar zijn mening een belangrijke stijging van de bijdragen voor de overblijvende Staten die Partij zijn ten gevolge zal hebben, de directeur verzoeken een buitengewone zitting van de Algemene Vergadering bijeen te roepen. De directeur dient de Algemene Vergadering uiterlijk zestig dagen na ontvangst van het verzoek bijeen te roepen.
 
@@ -778,7 +789,7 @@ De secretaris-generaal roept de eerste gewone zitting van de Algemene vergaderin
 
 3. Indien de Algemene Vergadering, in een buitengewone zitting bijeengeroepen overeenkomstig het eerste of tweede lid, besluit dat de opzegging zal leiden tot een belangrijke stijging van de bijdragen voor de overblijvende Staten die Partij zijn, kan ieder van deze Staten, uiterlijk honderdtwintig dagen voor de datum waarop de opzegging van kracht wordt, dit Verdrag opzeggen met ingang van dezelfde datum.
 
-#### Artikel 51. Beëindiging
+##### Artikel 51. Beëindiging
 
 1. Dit Verdrag houdt op van kracht te zijn:
 
@@ -790,7 +801,7 @@ Onverminderd het bepaalde in letter b, kan de Algemene Vergadering, indien de to
 
 2. De Staten die door dit Verdrag zijn gebonden op de dag voorafgaand aan die waarop dit Verdrag ophoudt van kracht te zijn, dienen het HNS-Fonds in staat te stellen zijn functies als beschreven in artikel 52 uit te oefenen en blijven slechts voor dit doel door dit Verdrag gebonden.
 
-#### Artikel 52. Vereffening van het HNS-Fonds
+##### Artikel 52. Vereffening van het HNS-Fonds
 
 1. Indien dit Verdrag ophoudt van kracht te zijn, is het HNS-Fonds niettemin:
 
@@ -802,7 +813,7 @@ Onverminderd het bepaalde in letter b, kan de Algemene Vergadering, indien de to
 
 3. Voor de toepassing van dit artikel blijft het HNS-Fonds een rechtspersoon.
 
-#### Artikel 53. Depositaris
+##### Artikel 53. Depositaris
 
 1. Dit Verdrag en alle ingevolge artikel 48 aangenomen wijzigingen worden nedergelegd bij de secretaris-generaal.
 
@@ -828,7 +839,7 @@ Onverminderd het bepaalde in letter b, kan de Algemene Vergadering, indien de to
 
 3. Zodra dit Verdrag in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift daarvan door de depositaris toegezonden aan de secretaris-generaal van de Verenigde Naties ter registratie en publicatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 54. Talen
+##### Artikel 54. Talen
 
 Dit Verdrag is opgesteld in een enkel oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

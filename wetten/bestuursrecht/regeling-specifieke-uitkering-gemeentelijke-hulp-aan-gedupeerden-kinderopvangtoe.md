@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021"
+title: "Regeling van de Minister van Financiën van 11 november 2021 (nr. 2021-024089) houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor verlening van hulp aan gedupeerde rechthebbenden op kinderopvangtoeslag (Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021)"
 identifier: "BWBR0045864"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-15
-laatste_update: 2026-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045864"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-15"
+last_updated: "2026-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045864"
+soort: "ministeriele-regeling"
+stam_id: "16145573"
+version_id: "29013882"
+internal_id: "C41071531"
+label_id: "16074814"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045864/2026-01-15/0"
+intitule_bron: "Stcrt.2021-46972"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-11"
+intitule_published: "2021-11-22"
+intitule_in_force: "2021-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28784"
+original_signed_date: "2022-10-19"
+original_published_date: "2022-11-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-28784"
+entry_into_force_date: "2022-10-19"
+jci_1_3: "jci1.3:c:BWBR0045864&z=2026-01-15&g=2026-01-15"
+jci_1_0: "1.0:c:BWBR0045864&g=2026-01-15"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021"
+signed_date: "2022-10-19"
+entry_into_force: "2022-10-19"
 ---
-
 # Regeling van de Minister van Financiën van 11 november 2021 (nr. 2021-024089) houdende regels voor de verstrekking van een specifieke uitkering aan gemeenten voor verlening van hulp aan gedupeerde rechthebbenden op kinderopvangtoeslag (Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en [artikel 4:23, derde lid, aanhef en onder a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ In deze regeling wordt verstaan onder:
 
 - −. **Woonplaats:** woonplaats als bedoeld in [artikel 40 van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=40).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister verstrekt aan het college een specifieke uitkering met het oog op ondersteuning van potentieel gedupeerden en de personen, genoemd in [artikel 2.21 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21).
 
 2. Het totale uitkeringsplafond voor deze regeling bedraagt € 662 miljoen inclusief btw.
 
-#### Artikel 3. Bekostigde activiteiten
+##### Artikel 3. Bekostigde activiteiten
 
 1. De Minister verstrekt de specifieke uitkering aan het college uitsluitend ter bekostiging van de uitvoering van één of meer van de volgende activiteiten gericht op ondersteuning van potentieel gedupeerden en personen, genoemd in [artikel 2.21 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21):
 
@@ -74,13 +100,13 @@ In deze regeling wordt verstaan onder:
 
 7. Voor nieuwe kosten voor ondersteuning aan personen die niet worden erkend als gedupeerden als bedoeld in [artikel 2.21, eerste lid, Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21), kan het college tot 30 dagen nadat aan hem is meegedeeld dat de betreffende personen niet worden erkend als gedupeerden, een beroep doen op deze regeling.
 
-#### Artikel 4. Uitkering en besteding van de uitkering
+##### Artikel 4. Uitkering en besteding van de uitkering
 
 1. De specifieke uitkering wordt, behoudens een eenmalig voorschot als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=5&z=2026-01-15&g=2026-01-15), voor de eerste maal in het verantwoordingsjaar 2021 en voorts gedurende de looptijd van deze regeling in ieder kalenderjaar op basis van de gemeentelijke verantwoordingsgegevens, aan gemeenten verstrekt.
 
 2. Het college waaraan de uitkering ten behoeve van de brede ondersteuning is gedaan, kan hiervoor tot 1 januari 2027 nieuwe verplichtingen aangaan.
 
-#### Artikel 5. Voorschot
+##### Artikel 5. Voorschot
 
 1. De Minister verstrekt en betaalt in 2021 aan gemeenten een voorschot van in totaal € 12 miljoen inclusief btw overeenkomstig de bij deze regeling behorende bijlage. Op het in 2020 verstrekte en betaalde voorschot van € 11 miljoen is het overgangsrecht van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=9&z=2026-01-15&g=2026-01-15) van toepassing.
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 3. Het college kan een aanvraag voor een aanvullend voorschot indienen bij de Minister.
 
-#### Artikel 6. Verantwoording
+##### Artikel 6. Verantwoording
 
 1. Het college legt aan de Minister verantwoording af over de besteding van de specifieke uitkering op de wijze zoals is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a). Het college kan deze verantwoording tot 1 januari 2030 bij de Minister doen.
 
@@ -128,7 +154,7 @@ vanaf 1.000 (potentieel) gedupeerden: € 264.736,–.
 
 11. De Belastingdienst/Toeslagen verstrekt het college op jaarlijkse basis gegevens van potentieel gedupeerden, niet-gedupeerden en van de personen, genoemd in [artikel 2.21 Wht](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.21), zodat het college in staat is om de financiële verantwoording, bedoeld in dit artikel, te verrichten.
 
-#### Artikel 7. Vaststelling en terugvordering
+##### Artikel 7. Vaststelling en terugvordering
 
 1. De Minister stelt de uitkering, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045864&artikel=4&z=2026-01-15&g=2026-01-15), vast binnen een jaar na ontvangst van de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -140,25 +166,25 @@ vanaf 1.000 (potentieel) gedupeerden: € 264.736,–.
 
 5. Bij de toepassing van dit artikel wordt uitgegaan van de gegevens waarvan de Minister kennis heeft op 30 september van het jaar, volgend op het verantwoordingsjaar, met dien verstande dat gegevens die de gemeente op verzoek van de Minister op een latere datum verstrekt mede in aanmerking worden genomen.
 
-#### Artikel 8. Monitoring en evaluatie
+##### Artikel 8. Monitoring en evaluatie
 
 De Minister kan gemeenten verzoeken medewerking te verlenen aan monitoring en evaluatie van de regeling.
 
-#### Artikel 9. Overgangsrecht
+##### Artikel 9. Overgangsrecht
 
 1. De besteding, de verantwoording, de vaststelling en de terugvordering van aan gemeenten ingevolge de [Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0044385) ( **Stcrt.**2020, nr. 62609) verstrekte uitkeringen geschiedt vanaf het tijdstip van inwerkingtreding van deze regeling overeenkomstig het bij deze regeling bepaalde.
 
 2. Deze regeling laat de in het jaar 2020 ingevolge de [Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0044385) ( **Stcrt.**2020, nr. 62609 gedane bestedingen en opgestelde verantwoording daarover, onverlet.
 
-#### Artikel 10. Wijziging van de [Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0044385)
+##### Artikel 10. Wijziging van de [Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek](https://wetten.overheid.nl/jci1.3:c:BWBR0044385)
 
 Wijzigt de Regeling specifieke uitkering gemeentelijke hulp gedupeerden toeslagenproblematiek.
 
-#### Artikel 11. Inwerkingtreding en terugwerkende kracht
+##### Artikel 11. Inwerkingtreding en terugwerkende kracht
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2021.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke hulp aan gedupeerden kinderopvangtoeslagproblematiek 2021.
 
@@ -523,7 +549,7 @@ Deze regeling wordt aangehaald als: Regeling specifieke uitkering gemeentelijke 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 

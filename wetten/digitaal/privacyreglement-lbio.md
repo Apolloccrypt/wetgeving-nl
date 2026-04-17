@@ -1,13 +1,38 @@
 ---
-title: "Privacyreglement LBIO"
+title: "Privacyreglement geautomatiseerde administratie invordering onderhoudsgelden LBIO"
 identifier: "BWBR0008421"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008421"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008421"
+soort: "ministeriele-regeling"
+stam_id: "4301683"
+version_id: "6064542"
+internal_id: "C6268151"
+label_id: "4280374"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008421/2006-01-01/0"
+intitule_bron: "Stcrt.1996-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-13"
+intitule_published: "1996-12-20"
+intitule_in_force: "1996-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-247"
+original_signed_date: "1996-12-13"
+original_published_date: "1996-12-20"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008421&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0008421&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Privacyreglement LBIO"
+signed_date: "1996-12-13"
+entry_into_force: "1997-01-01"
 ---
-
 # Privacyreglement geautomatiseerde administratie invordering onderhoudsgelden LBIO
 
 Overwegende dat, ingevolge de artikelen 17, 19, 20 en 22 van de Wet persoonsregistraties (Stb. 1988, nr. 665) een reglement dient te worden vastgesteld voor de geautomatiseerde administratie ten behoeve van de invordering van onderhoudsgelden van het Landelijk Bureau Inning Onderhoudsbijdragen.
@@ -16,7 +41,7 @@ Besluit in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit reglement wordt verstaan onder:
 
 - f. bewerker: degene die het geheel of een gedeelte van de apparatuur onder zich heeft, waarmee een persoonsregistratie, waarvan hij niet de houder is, wordt gevoerd.
 
-#### Artikel 2. Taken van het LBIO
+##### Artikel 2. Taken van het LBIO
 
 - a. inning kinderalimentatie ex art 1:408 BW;
 
@@ -42,7 +67,7 @@ In dit reglement wordt verstaan onder:
 
 - d. overige krachtens de [Wet LBIO](https://wetten.overheid.nl/jci1.3:c:BWBR0007292), opgedragen taken.
 
-#### Artikel 3. Doel van de registratie
+##### Artikel 3. Doel van de registratie
 
 De registratie heeft ten doel gegevens vast te leggen van de zaken die in het kader van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01) worden behandeld en van personen en instellingen die daarbij zijn betrokken, ten behoeve van:
 
@@ -60,7 +85,7 @@ De registratie heeft ten doel gegevens vast te leggen van de zaken die in het ka
 
 - g. het bijdragen aan statistisch en/of wetenschappelijk onderzoek.
 
-#### Artikel 4. Verantwoordelijkheden
+##### Artikel 4. Verantwoordelijkheden
 
 1. De houder is verantwoordelijk voor het beheer en het goed functioneren van de registratie en treft daartoe de nodige voorzieningen op het gebied van organisatie en beveiliging.
 
@@ -70,13 +95,13 @@ De registratie heeft ten doel gegevens vast te leggen van de zaken die in het ka
 
 4. Voor het geheel of gedeelte van de apparatuur en programmatuur die de bewerker onder zich heeft, heeft deze een gelijke verantwoordelijkheid als die welke krachtens het eerste lid op de houder rust.
 
-#### Artikel 5. Invoer en verwerking van gegevens
+##### Artikel 5. Invoer en verwerking van gegevens
 
 De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van verbetering, aanvulling of verwijdering ervan, geschiedt door gebruikers dan wel door bewerkers.
 
 #### Paragraaf 2. Registratie en herkomst van gegevens
 
-#### Artikel 6. Personen en instellingen omtrent wie gegevens zijn opgenomen
+##### Artikel 6. Personen en instellingen omtrent wie gegevens zijn opgenomen
 
 In de registratie worden uitsluitend gegevens opgenomen over:
 
@@ -94,7 +119,7 @@ In de registratie worden uitsluitend gegevens opgenomen over:
 
 - g. instellingen in het buitenland belast met de uitvoering van de taak genoemd in [artikel 2 onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=1&artikel=2&z=2006-01-01&g=2006-01-01).
 
-#### Artikel 7. Opgenomen gegevens
+##### Artikel 7. Opgenomen gegevens
 
 1. Met betrekking tot de in [artikel 6 onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=2&artikel=6&z=2006-01-01&g=2006-01-01) genoemde personen worden in de registratie ten hoogste opgenomen:
 
@@ -136,7 +161,7 @@ In de registratie worden uitsluitend gegevens opgenomen over:
 
 naam, voorvoegsels, voorletters, contactpersoon, adres, postcode, landcode, telefoon, doorkiesnummer, telefax, gironummer, naam van de bank/banknummer.
 
-#### Artikel 8. Herkomst van de gegevens
+##### Artikel 8. Herkomst van de gegevens
 
 De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 
@@ -186,7 +211,7 @@ De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 
 #### Paragraaf 3. Verwijdering van gegevens
 
-#### Artikel 9. Verwijdering en vernietiging van opgenomen gegevens
+##### Artikel 9. Verwijdering en vernietiging van opgenomen gegevens
 
 1. Verwijdering van opgenomen gegevens vindt plaats na het verstrijken van de bewaartermijn die geldt voor zodanige bescheiden dan wel indien geen termijn is vastgelegd, uiterlijk zes jaren na beëindiging van de bemoeienis.
 
@@ -194,7 +219,7 @@ De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 
 #### Paragraaf 4. Toegang tot en verstrekking van gegevens uit de registratie
 
-#### Artikel 10. Rechtstreekse toegang tot de registratie
+##### Artikel 10. Rechtstreekse toegang tot de registratie
 
 Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daarin opgenomen persoonsgegevens is, voor zover nodig voor de uitoefening van hun taak en met inachtneming van het doel waarvoor de gegevens zijn verzameld, voorbehouden aan:
 
@@ -206,7 +231,7 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 - d. de door de bewerker daartoe aangewezen personen, voorzover een goede werking van de registratie hun toegang vereist.
 
-#### Artikel 11. Personen en instellingen aan wie gegevens worden verstrekt
+##### Artikel 11. Personen en instellingen aan wie gegevens worden verstrekt
 
 1. Uit de registratie worden, voorzover zulks voortvloeit uit het doel van de registratie of wordt vereist ingevolge een wettelijke voorschrift, dan wel geschiedt met toestemming van de geregistreerde, uitsluitend gegevens verstrekt aan:
 
@@ -228,7 +253,7 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 #### Paragraaf 5. Kennisneming en correctie van opgenomen gegevens
 
-#### Artikel 12. Recht op kennisneming door geregistreerde van opgenomen persoonsgegevens
+##### Artikel 12. Recht op kennisneming door geregistreerde van opgenomen persoonsgegevens
 
 1. De geregistreerde of ‐ indien deze de leeftijd van zestien jaar nog niet heeft bereikt dan wel onder curatele is gesteld ‐ diens wettelijke vertegenwoordiger, kan de houder verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende persoonsgegevens zijn opgenomen.
 
@@ -244,7 +269,7 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 7. Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.
 
-#### Artikel 13. Correctierecht van geregistreerde
+##### Artikel 13. Correctierecht van geregistreerde
 
 1. Degene aan wie overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=4&artikel=11&z=2006-01-01&g=2006-01-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien de gegevens feitelijk onjuist zijn, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.
 
@@ -254,7 +279,7 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 4. De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 14. Kennisneming van verstrekking van gegevens
+##### Artikel 14. Kennisneming van verstrekking van gegevens
 
 1. De geregistreerde of ‐ indien deze de leeftijd van zestien jaar nog niet heeft bereikt dan wel onder curatele is gesteld diens wettelijke vertegenwoordiger kan de houder tevens verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.
 
@@ -262,17 +287,17 @@ Rechtstreeks toegang tot de registratie en zelfstandige raadpleging van de daari
 
 3. De houder beantwoordt het verzoek schriftelijk binnen een maand na ontvangst. [Artikel 12, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008421&paragraaf=5&artikel=12&z=2006-01-01&g=2006-01-01) is van overeenkomstige toepassing.
 
-#### Artikel 15. Kosten
+##### Artikel 15. Kosten
 
 Met inachtneming van het bepaalde in het Besluit van 5 juli 1989, Stb. 281, wordt voor het verschaffen van informatie op grond van de artikelen 29 en 32 van de Wet persoonsregistraties, een tarief van ten hoogste € 4,50 in rekening gebracht.
 
-#### Artikel 16. Klachtregeling
+##### Artikel 16. Klachtregeling
 
 Klachten over de uitvoering van dit reglement kunnen door geregistreerden worden ingediend bij de directie van het LBIO. Op de behandeling is de regeling interne klachtbehandeling van toepassing.
 
 #### Paragraaf 6. Slotbepalingen
 
-#### Artikel 17. Bekendmaking en terinzagelegging
+##### Artikel 17. Bekendmaking en terinzagelegging
 
 1. Dit reglement wordt bekendgemaakt in de Staatscourant.
 
@@ -284,7 +309,7 @@ Klachten over de uitvoering van dit reglement kunnen door geregistreerden worden
 
 - de Directie Voorlichting van het Ministerie van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit reglement treedt in werking met ingang van 1 januari 1997.
 

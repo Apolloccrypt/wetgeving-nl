@@ -1,13 +1,39 @@
 ---
-title: "Reglement justitiële jeugdinrichtingen"
+title: "Besluit van 5 juli 2001, houdende vaststelling van het Reglement justitiële jeugdinrichtingen en daarmee verband houdende wijziging van enkele besluiten (Reglement justitiële jeugdinrichtingen)"
 identifier: "BWBR0012647"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012647"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012647"
+soort: "AMvB"
+stam_id: "1586713"
+version_id: "27205342"
+internal_id: "C38437711"
+label_id: "1542424"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012647/2022-01-01/0"
+intitule_bron: "Stb.2001-350"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-05"
+intitule_published: "2001-07-26"
+intitule_in_force: "2001-08-16"
+intitule_status: "goed"
+original_publication: "Stb.2020-457"
+original_signed_date: "2020-10-30"
+original_published_date: "2020-11-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-457"
+entry_into_force_date: "2020-10-30"
+jci_1_3: "jci1.3:c:BWBR0012647&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0012647&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Reglement justitiële jeugdinrichtingen"
+signed_date: "2020-10-30"
+entry_into_force: "2020-10-30"
 ---
-
 # Besluit van 5 juli 2001, houdende vaststelling van het Reglement justitiële jeugdinrichtingen en daarmee verband houdende wijziging van enkele besluiten (Reglement justitiële jeugdinrichtingen)
 
 Op de voordracht van Onze Minister van Justitie van 26 februari 2001, 5082413/01/6, gedaan in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport, Onze Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Scholings- en trainingsprogramma
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een scholings- en trainingsprogramma omvat minimaal 26 uur per week aan activiteiten waaraan door de deelnemer aan dat scholings- en trainingsprogramma wordt deelgenomen.
 
@@ -64,7 +90,7 @@ Hebben goedgevonden en verstaan:
 
 4. Onze Minister kan nadere regels stellen over de procedure voor de erkenning van een scholings- en trainingsprogramma en over de kwaliteitseisen waaraan een scholings- en trainingsprogramma moet voldoen.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor deelname aan een scholings- en trainingsprogramma komen niet in aanmerking:
 
@@ -78,7 +104,7 @@ Voor deelname aan een scholings- en trainingsprogramma komen niet in aanmerking:
 
 - e. de jeugdigen, bedoeld in [artikel 8, eerste lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=8).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf in de inrichting plaatsvindt, neemt deel aan een scholings- en trainingsprogramma, indien:
 
@@ -88,7 +114,7 @@ Voor deelname aan een scholings- en trainingsprogramma komen niet in aanmerking:
 
 2. Het scholings- en trainingsprogramma, bedoeld in het eerste lid, heeft een maximale duur van drie maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een tot de maatregel van plaatsing in een inrichting voor jeugdigen veroordeelde jeugdige kan in aanmerking komen voor deelname aan een scholings- en trainingsprogramma.
 
@@ -102,15 +128,15 @@ Voor deelname aan een scholings- en trainingsprogramma komen niet in aanmerking:
 
 3. In bijzondere gevallen kan voor een langere duur worden deelgenomen aan een scholings- en trainingsprogramma.
 
-#### Artikel 6
+##### Artikel 6
 
 Jeugdigen die op grond van [artikel 6.2.2 van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=6.2.2) in een inrichting verblijven komen niet in aanmerking voor deelname aan een scholings- en trainingsprogramma, tenzij de deelname aan dit programma reeds een aanvang had genomen voor het tijdstip waarop de in artikel 6.2.2, tweede lid, van de Jeugdwet bedoelde machtiging werd verleend.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. De directeur vraagt een machtiging tot deelname aan een scholings- en trainingsprogramma als bedoeld in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3) schriftelijk aan bij Onze Minister. De directeur doet in zijn aanvraag verslag van de aspecten, bedoeld in [artikel 9, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=9&z=2022-01-01&g=2022-01-01), en vermeldt de voorwaarden bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2022-01-01&g=2022-01-01). De aanvraag vermeldt voorts de duur van de deelname aan het scholings- en trainingsprogramma.
 
@@ -138,7 +164,7 @@ Vervallen
 
 8. Onze Minister kan nadere regels stellen over de deelname aan een scholings- en trainingsprogramma, de procedure voor het aanvragen en het verlenen van een machtiging tot deelname en de intrekking daarvan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij zijn beslissing om een jeugdige in de gelegenheid te stellen deel te nemen aan een scholings- en trainingsprogramma betrekt de directeur in ieder geval de volgende aspecten:
 
@@ -164,17 +190,17 @@ Vervallen
 
 5. Bij aanvang van het scholings- en trainingsprogramma ontvangt de jeugdige van de directeur een schriftelijke verklaring waarin de activiteiten van het scholings- en trainingsprogramma en de daaraan verbonden voorwaarden zijn vermeld, benevens de gronden waarop de deelname aan het scholings- en trainingsprogramma kan worden beëindigd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De algemene verantwoordelijkheid voor de tenuitvoerlegging van een scholings- en trainingsprogramma ligt bij de directeur van de inrichting waarin de deelnemer aan het scholings- en trainingsprogramma is ingeschreven.
 
 2. De jeugdreclassering dan wel de reclassering die verantwoordelijk is voor de feitelijke uitvoering van het programma, is belast met de begeleiding van de jeugdige en houdt toezicht op het dagelijkse verloop van het scholings- en trainingsprogramma. Zij beoordeelt in eerste instantie of de activiteiten naar behoren worden verricht en de voorwaarden naar behoren worden nageleefd en kan in dat kader opdrachten geven aan de deelnemer. Zij kan in de wijze of het tijdstip waarop de activiteiten binnen het scholings- en trainingsprogramma worden uitgevoerd, wijzigingen aanbrengen. Van deze wijzigingen stelt zij de directeur onverwijld schriftelijk op de hoogte. Periodiek rapporteert zij aan de directeur over de deelname van de jeugdige aan het scholings- en trainingsprogramma.
 
-#### Artikel 11
+##### Artikel 11
 
 De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en trainingsprogramma komen niet ten laste van Onze Minister, tenzij het gaat om de kosten van een pleegkind in het kader van een uithuisplaatsing en de Regeling vergoeding pleeggezinnen van toepassing is.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Aan de deelname door een jeugdige aan een scholings- en trainingsprogramma worden, onverminderd eventuele nader door de directeur te stellen bijzondere voorwaarden, de volgende algemene voorwaarden verbonden:
 
@@ -200,7 +226,7 @@ De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en train
 
 5. Van het stellen van bijzondere voorwaarden, de overtreding van de voorwaarden en een beslissing als bedoeld in het derde lid, doet de directeur mededeling aan Onze Minister, de jeugdreclassering dan wel de reclassering die de jeugdige begeleidt, het openbaar ministerie en de raad voor de kinderbescherming.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De deelnemer aan een scholings- en trainingsprogramma kan bij de beklagcommissie bij de inrichting waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=2&artikel=12&z=2022-01-01&g=2022-01-01).
 
@@ -208,7 +234,7 @@ De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en train
 
 ### Hoofdstuk 3. Commissie van toezicht en beklagcommissie
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij elke inrichting of afdeling is een commissie van toezicht, waarvan de leden worden benoemd voor de tijd van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
 
@@ -226,7 +252,7 @@ De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en train
 
 4. Indien de commissie toezicht houdt op een afdeling waar geneeskundige behandeling als bedoeld in de [artikelen 51a tot en met 51e van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51a) wordt verricht, maakt ook een psychiater van de commissie deel uit.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De leden van de commissie van toezicht worden door Onze Minister benoemd en ontslagen. Onze Minister wijst uit de leden een voorzitter aan.
 
@@ -236,7 +262,7 @@ De noodzakelijke kosten van bestaan tijdens deelname aan een scholings- en train
 
 4. Onze Minister beslist binnen drie maanden op een verzoek tot benoeming als bedoeld in het eerste, tweede of derde lid.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in aanmerking:
 
@@ -252,7 +278,7 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 - f. personen werkzaam bij de Raad of de Inspectie gezondheidszorg en jeugd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een lid van de commissie van toezicht wordt door Onze Minister tussentijds ontslagen:
 
@@ -268,7 +294,7 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 3. Hangende de procedure voor ontslag kan Onze Minister het lid in de uitoefening van zijn functie schorsen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De leden van de commissie van toezicht hebben ten behoeve van de uitoefening van hun taak te allen tijde toegang tot alle plaatsen in de inrichting en tot alle plaatsen waar een scholings- en trainingsprogramma ten uitvoer wordt gelegd.
 
@@ -276,7 +302,7 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 3. De directeur brengt alle voor de uitoefening van de taak der commissie belangrijke feiten en omstandigheden ter kennis van de commissie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De commissie van toezicht vergadert, in beginsel, eenmaal in de maand.
 
@@ -288,25 +314,25 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 5. In iedere vergadering van de commissie van toezicht wordt mededeling gedaan van de grieven terzake waarvan werd bemiddeld, de door de beklagcommissie behandelde klaagschriften en de bijzondere opmerkingen waartoe zij aanleiding geven.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De maandcommissaris, bedoeld in [artikel 7, vierde lid, tweede volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=7), houdt ten minste tweemaal per maand in de inrichting of afdeling spreekuur. Dit spreekuur wordt tijdig bekendgemaakt en kan worden bezocht door elke jeugdige of deelnemer aan een scholings- en trainingsprogramma die de wens daartoe te kennen geeft.
 
 2. De maandcommissaris doet van zijn werkzaamheden verslag aan de commissie van toezicht en informeert tevens de directeur hierover.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De beklagcommissie of, indien [artikel 67, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=67) wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.
 
 2. Indien de beklagcommissie zitting houdt treedt bij voorkeur als voorzitter op een met rechtspraak belast lid van de rechterlijke macht.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De commissie van toezicht brengt jaarlijks vóór 1 mei aan Onze Minister en aan de Raad en, voor zover het een particuliere inrichting betreft, tevens aan het bestuur, verslag uit over haar werkzaamheden in het voorgaande jaar. Een afschrift van het jaarverslag wordt aan de Inspectie gezondheidszorg en jeugd gezonden.
 
 2. Zij schenkt in haar verslag in het bijzonder aandacht zowel aan de door haar ingevolge [artikel 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=64) verrichte bemiddelingen en de uitkomsten daarvan als aan de werkzaamheden van de beklagcommissie, onder meer door een overzicht van de klaagschriften en de daarop genomen beslissingen. Onze Minister kan een model vaststellen omtrent de inrichting van het verslag.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De kosten van de commissie van toezicht worden door de Staat gedragen.
 
@@ -316,13 +342,13 @@ Voor benoeming als lid, secretaris of plaatsvervangend secretaris komen niet in 
 
 ### Hoofdstuk 4. Opvang en behandeling
 
-#### Artikel 24
+##### Artikel 24
 
 De inrichtingen dragen zorg voor een veilige omgeving voor en een menswaardige bejegening van de jeugdigen. Zij dragen bij aan een beter sociaal functioneren van de jeugdige, door middel van een verplicht gesteld pedagogisch dagprogramma en individueel behandelprogramma. Voorts dragen zij bij aan een goede voortgang van de rechtsgang. Het doel van het verblijf in de inrichting is de kans op ontsporing van de jeugdige na diens terugkeer in de maatschappij te verminderen.
 
 ### Hoofdstuk 5. Verblijfsplan en behandelplan
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het perspectiefplan wordt opgesteld onder de verantwoordelijkheid van de directeur.
 
@@ -338,7 +364,7 @@ De inrichtingen dragen zorg voor een veilige omgeving voor en een menswaardige b
 
 - b. zwaarwegende belangen van de jeugdige zich daartegen verzetten.
 
-#### Artikel 26
+##### Artikel 26
 
 1. In het perspectiefplan wordt ten minste opgenomen:
 
@@ -368,11 +394,11 @@ De inrichtingen dragen zorg voor een veilige omgeving voor en een menswaardige b
 
 3. Het verlofplan, het scholings- en trainingsprogramma en de voorbereiding op de nazorg maken, voor zover van toepassing, onderdeel uit van het perspectiefplan.
 
-#### Artikel 27
+##### Artikel 27
 
 De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectberaad, bedoeld in [artikel 2:7 van het Besluit tenuitvoerlegging strafrechtelijke beslissingen](onbekend).
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het perspectiefplan bestrijkt een periode van vier maanden, of zoveel korter als het strafrestant of het verblijf in de inrichting is, of zoveel korter als het strafrestant of het verblijf in de inrichting is.
 
@@ -394,19 +420,19 @@ De directeur stelt het perspectiefplan tijdig ter beschikking aan het trajectber
 
 - f. de noodzaak van verlenging van het verblijf in de inrichting.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Naar aanleiding van een evaluatie of tussentijds kan het perspectiefplan gewijzigd worden. Daarbij wordt ten minste het meest recente evaluatieverslag betrokken.
 
 2. Een wijziging in het perspectiefplan wordt zo veel mogelijk in overleg met de jeugdige vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
-#### Artikel 30
+##### Artikel 30
 
 Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter afsluiting van het perspectiefplan met de jeugdige nagegaan in hoeverre de doelstellingen van het plan zijn gerealiseerd. Hiervan wordt een verslag gemaakt.
 
 ### Hoofdstuk 6. Verlof
 
-#### Artikel 31
+##### Artikel 31
 
 1. Bij de beoordeling van een te verlenen verlof wordt het belang van de jeugdige afgewogen tegen de risico's voor de continuïteit van de tenuitvoerlegging en voor de maatschappelijke orde en veiligheid. Het verlof kan slechts worden verleend indien de eventuele risico's aanvaardbaar worden geacht.
 
@@ -444,7 +470,7 @@ Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter 
 
 5. De directeur vraagt het openbaar ministerie om advies, indien het openbaar ministerie een executie-indicator heeft gegeven.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Aan de jeugdige kan incidenteel verlof worden verleend in verband met onverwachte gebeurtenissen of omstandigheden in de persoonlijke levenssfeer van de jeugdige waarbij zijn aanwezigheid noodzakelijk is.
 
@@ -464,7 +490,7 @@ Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter 
 
 5. De directeur bepaalt de duur van het incidenteel verlof. Deze duur is niet langer dan drie etmalen. Op grond van dezelfde gebeurtenis kan de directeur meermalen incidenteel verlof toekennen.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Aan de jeugdige die op strafrechtelijke titel in een inrichting is geplaatst kan planmatig verlof worden verleend. Planmatig verlof wordt verleend in het kader van een verlofplan, dat onderdeel is van het perspectiefplan en dat ten doel heeft de resocialisatie van de jeugdige.
 
@@ -490,7 +516,7 @@ Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter 
 
 5. Een jeugdige ten aanzien van wie vaststaat dat hij, na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel, Nederland zal dienen te verlaten dan wel zal worden uitgezet of uitgeleverd, komt niet in aanmerking voor planmatig verlof.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het incidenteel verlof wordt door de jeugdige schriftelijk aangevraagd bij de directeur.
 
@@ -500,13 +526,13 @@ Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter 
 
 4. Indien het verzoek een jeugdige betreft die na de tenuitvoerlegging van de vrijheidsstraf of vrijheidsbenemende maatregel Nederland zal dienen te verlaten, of uitgezet of uitgeleverd zal worden, vraagt de directeur de Immigratie- en Naturalisatiedienst van het Ministerie van Veiligheid en Justitie om advies.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien de jeugdige wegens ziekte niet in staat is tijdig van het verlof naar de inrichting terug te keren, meldt hij dit onverwijld aan de inrichting. Desgevraagd toont de jeugdige aan dat hij om medische redenen niet in staat is tijdig terug te keren.
 
 2. De directeur neemt, na overleg met de inrichtingsarts, en, voor zover mogelijk, gehoord de jeugdige, maatregelen met het oog op een zo spoedig mogelijke voortzetting van de vrijheidsontneming.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien zich tijdens het verlof een incident voordoet, kan de directeur, afhankelijk van de aard van het incident en het verlof, maatregelen nemen. Van een incident is in ieder geval sprake wanneer de jeugdige:
 
@@ -520,57 +546,57 @@ Kort voor het einde van het verblijf van de jeugdige in de inrichting wordt ter 
 
 2. Onverminderd de verplichting van de directeur om het incident elders te signaleren, worden gegevens over incidenten tijdens het verlof opgenomen in het dossier.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Aan een jeugdige die zonder begeleiding met verlof gaat, wordt door de inrichting een verlofpas van een door Onze Minister vastgesteld model verstrekt, waarop eventuele bijzondere voorwaarden worden vermeld.
 
 2. De jeugdige draagt de verlofpas tijdens het verlof steeds bij zich.
 
-#### Artikel 38
+##### Artikel 38
 
 De directeur kan de jeugdige een bijdrage in de reis- en verblijfkosten verstrekken.
 
-#### Artikel 39
+##### Artikel 39
 
 Op grond van gewijzigde omstandigheden kan de directeur een reeds verleend verlof of het daarvan nog resterende gedeelte intrekken, naar een andere tijdstip verplaatsen of er nadere voorwaarden aan verbinden.
 
-#### Artikel 40
+##### Artikel 40
 
 Onze Minister kan nadere regels stellen over het aanvragen en het verlenen van verlof.
 
 ### Hoofdstuk 7. Proefverlof
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
 ### Hoofdstuk 8. Gedwongen geneeskundige handelingen
 
-#### Artikel 48
+##### Artikel 48
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -588,7 +614,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - g. **voorzetting van a-dwangbehandeling:** de voortzetting van a-dwangbehandeling bedoeld in [artikel 51e, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51e).
 
-#### Artikel 49
+##### Artikel 49
 
 1. In geval van een a- of b-dwangbehandeling wordt in het geneeskundig behandelingsplan eveneens opgenomen:
 
@@ -600,7 +626,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in [artikel 51e, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51e), bij het in het tweede lid bedoelde overleg betrokken.
 
-#### Artikel 50
+##### Artikel 50
 
 1. Indien de toepassing van de behandeling, bedoeld in [artikel 49a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2022-01-01&g=2022-01-01), de duur van twee weken te boven gaat wordt door de directeur een commissie samengesteld bestaande uit ten minste een afdelingshoofd, een psychiater, een arts en een psycholoog.
 
@@ -608,59 +634,59 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Hoofdstuk 8. (Onvrijwillige) geneeskundige behandeling
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij het Ministerie van Justitie en Veiligheid zijn een hoofd boeddhistische geestelijke verzorging, een hoofd hindoeïstische geestelijke verzorging, een hoofd islamitische geestelijke verzorging, een hoofdrabbijn, een hoofdpredikant, een hoofdaalmoezenier en een hoofd humanistische geestelijke verzorging aangesteld. Zij treden op als vertegenwoordiging van de zendende instanties en dienen Onze Minister gevraagd en ongevraagd van advies omtrent de geestelijke verzorging in de inrichtingen.
 
 2. De hoofden zijn in ieder geval belast met het doen van voordrachten voor aanstelling van geestelijke verzorgers bij de rijksinrichtingen behorende tot hun gezindte of levensovertuiging.
 
-#### Artikel 52
+##### Artikel 52
 
 Aan een inrichting zijn geestelijk verzorgers van verschillende godsdiensten of levensovertuigingen verbonden, doch in elk geval geestelijk verzorgers van boeddhistische, hindoeïstische, islamitische, joodse, protestantse en rooms-katholieke gezindte en geestelijk verzorgers van het humanistisch verbond.
 
-#### Artikel 53
+##### Artikel 53
 
 1. De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een rijksinrichting geschiedt door of vanwege Onze Minister op voordracht van de betrokken hoofdgeestelijke, genoemd in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=51&z=2022-01-01&g=2022-01-01).
 
 2. De aanstelling van een geestelijk verzorger van boeddhistische, hindoeïstische, islamitische, joodse, protestantse of rooms-katholieke gezindte of een geestelijk verzorger behorend tot het humanistisch verbond bij een justitiële particuliere inrichting geschiedt door of vanwege het bestuur van de inrichting gehoord de betrokken hoofdgeestelijke, genoemd in [artikel 51, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=51&z=2022-01-01&g=2022-01-01).
 
-#### Artikel 54
+##### Artikel 54
 
 Een andere geestelijk verzorger dan de in [artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=9&artikel=52&z=2022-01-01&g=2022-01-01) genoemde kan door de directeur toegang worden verleend tot de inrichting. De directeur neemt deze beslissing niet dan na overleg met Onze Minister.
 
 ### Hoofdstuk 10. Beroep tegen medisch handelen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ### Hoofdstuk 8a. Toezicht op telefoongesprekken
 
-#### Artikel 62
+##### Artikel 62
 
 1. Op het onderwijs in particuliere inrichtingen is het bepaalde bij of krachtens de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) van toepassing.
 
@@ -682,7 +708,7 @@ Vervallen
 
 - g. creatieve vorming.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Elke inrichting beschrijft welk onderwijs door of vanwege de inrichting wordt aangeboden, met alle bijzonderheden, zoals leerinhouden, modules, toetsen, certificaten en methodes.
 
@@ -690,7 +716,7 @@ Vervallen
 
 3. Het onderwijs maakt deel uit van het perspectiefplan. Het perspectiefplan is richtinggevend voor het onderwijs.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Ten behoeve van het onderwijs wordt door de leraar van een rijksinrichting een intake verzorgd, die de basis vormt voor het onderwijs dat de jeugdige zal gaan volgen. De intake omvat de nulmeting van de onderwijssituatie.
 
@@ -706,7 +732,7 @@ Vervallen
 
 - e. eventuele anderen informatiebronnen.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Voor de jeugdige in een rijksinrichting wordt een onderwijstrajectkaart opgesteld waarin de onderwijskundige doelstellingen en resultaten of tussenresultaten zijn vastgelegd.
 
@@ -726,7 +752,7 @@ Vervallen
 
 ### Hoofdstuk 12. Dossiers van jeugdigen
 
-#### Artikel 66
+##### Artikel 66
 
 Het dossier van de jeugdige wordt op zorgvuldige wijze, volgens een vaste indeling, opgebouwd. In ieder geval worden hierin onderscheiden:
 
@@ -738,7 +764,7 @@ Het dossier van de jeugdige wordt op zorgvuldige wijze, volgens een vaste indeli
 
 - d. gegevens omtrent het verblijf.
 
-#### Artikel 67
+##### Artikel 67
 
 Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=63) genoemde gegevens worden in het dossier opgenomen de jeugdige betreffende:
 
@@ -760,7 +786,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 - i. gegevens omtrent de gezondheid van de jeugdige en te zijnen aanzien uitgevoerde verrichtingen, een en ander voor zover de opname van deze gegevens voor een goede opvang of behandeling van hem noodzakelijk is.
 
-#### Artikel 68
+##### Artikel 68
 
 1. De jeugdige heeft, behoudens de overeenkomstig het tweede en derde lid te stellen beperkingen, recht op inzage van de in zijn dossier vastgelegde gegevens.
 
@@ -778,7 +804,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 6. Met toepassing van [artikel 464 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=464) is [artikel 456 van dit boek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=456) niet van overeenkomstige toepassing op de dossiers, bedoeld in dit hoofdstuk.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De ouders of voogd, stiefouder of pleegouders hebben recht op inzage in het dossier van de jeugdige, tenzij belangen van de jeugdige zich daartegen verzetten of inzage achterwege dient te blijven ter bescherming van de persoonlijke levenssfeer van anderen. Ten aanzien van jeugdigen van 18 jaar en ouder is instemming van de jeugdige vereist.
 
@@ -794,7 +820,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 - d. de behandeling van andere beslissingen, de jeugdige betreffende.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Gedurende het verblijf van een jeugdige in een inrichting wordt zijn dossier in een afsluitbare ruimte in de inrichting bewaard.
 
@@ -804,7 +830,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 4. Bij invrijheidstelling, ontvluchting of overlijden van de jeugdige zendt de directeur het dossier aan Onze Minister.
 
-#### Artikel 71
+##### Artikel 71
 
 1. Het dossier wordt gedurende een termijn van tien jaren bewaard, te rekenen vanaf het tijdstip dat de vrijheidsstraf of vrijheidsbenemende maatregel eindigt.
 
@@ -814,7 +840,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk 11. Onderwijs en pedagogische activiteiten
 
-#### Artikel 72
+##### Artikel 72
 
 1. Een aanvraag tot aanwijzing als particuliere inrichting kan slechts worden gedaan door een rechtspersoon die een voorziening van jeugdhulpverlening als bedoeld in artikel [3b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=3b) beheert.
 
@@ -834,7 +860,7 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 4. Onze Minister beslist binnen zes maanden na ontvangst van een aanvraag als bedoeld in het eerste lid.
 
-#### Artikel 73
+##### Artikel 73
 
 1. De aanwijzing als particuliere inrichting wordt door Onze Minister ingetrokken:
 
@@ -844,13 +870,13 @@ Naast de in [artikel 63, eerste lid, van de wet](https://wetten.overheid.nl/jci1
 
 2. De aanwijzing als particuliere inrichting kan door Onze Minister worden ingetrokken, indien de rechtspersoon heeft gehandeld in strijd met de toepasselijke regelgeving of hetgeen overeenkomstig [artikel 72, tweede lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=13&artikel=72&z=2022-01-01&g=2022-01-01), is verklaard.
 
-#### Artikel 74
+##### Artikel 74
 
 De particuliere inrichting beschikt over een calamiteitenplan, waarin is geregeld welke acties dienen te worden ondernomen, en door wie, in het geval van een calamiteit.
 
 ### Hoofdstuk 14. Opperbeheer rijksinrichtingen
 
-#### Artikel 75
+##### Artikel 75
 
 1. De directeur van een rijksinrichting brengt jaarlijks vóór 1 oktober aan Onze Minister een jaarplan voor het volgende jaar uit. Het jaarplan omvat in ieder geval een begroting van de kosten en opbrengsten voor dat jaar.
 
@@ -858,21 +884,21 @@ De particuliere inrichting beschikt over een calamiteitenplan, waarin is geregel
 
 3. Onze Minister kan regels stellen aan de vorm en de inhoud van de in het eerste en tweede lid genoemde stukken.
 
-#### Artikel 76
+##### Artikel 76
 
 De rijksinrichting beschikt over een calamiteitenplan, waarin is geregeld welke acties dienen te worden ondernomen, en door wie, in het geval van een calamiteit.
 
 ### Hoofdstuk 14. Opperbeheer rijksinrichtingen
 
-#### Artikel 77
+##### Artikel 77
 
 De inrichting biedt passende behandeling aan. Onder passende behandeling wordt verstaan zorg van goed niveau, die in ieder geval doeltreffend, doelmatig en gericht op de jeugdige wordt verleend en die afgestemd is op de reële behoefte van de jeugdige.
 
-#### Artikel 78
+##### Artikel 78
 
 De inrichting organiseert het verblijf op zodanige wijze, voorziet de instelling zowel kwalitatief als kwantitatief zodanig van personeel en materieel en draagt zorg voor een zodanige verantwoordelijkheidsverdeling, dat een en ander leidt of redelijkerwijs moet leiden tot een verantwoord verblijf.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Het uitvoeren van [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2022-01-01&g=2022-01-01) omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van het verblijf.
 
@@ -884,7 +910,7 @@ De inrichting organiseert het verblijf op zodanige wijze, voorziet de instelling
 
 - c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veranderen van de wijze waarop [artikel 78](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=78&z=2022-01-01&g=2022-01-01) wordt uitgevoerd.
 
-#### Artikel 80
+##### Artikel 80
 
 1. Indien Onze Minister van oordeel is dat de [artikelen 77 tot en met 79](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=15&artikel=77&z=2022-01-01&g=2022-01-01) niet of in onvoldoende mate of op onjuiste wijze worden nageleefd, kan hij de directeur een schriftelijke aanwijzing geven.
 
@@ -894,7 +920,7 @@ De inrichting organiseert het verblijf op zodanige wijze, voorziet de instelling
 
 ### Hoofdstuk 13. Aanwijzing van particuliere inrichtingen
 
-#### Artikel 81
+##### Artikel 81
 
 1. De beloning van de tolk of vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in [artikel 66, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=66), [70, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=70), en [72, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=72) geschieden volgens het bepaalde bij of krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406).
 
@@ -902,53 +928,53 @@ De inrichting organiseert het verblijf op zodanige wijze, voorziet de instelling
 
 ### Hoofdstuk 16. Vergoedingen beklag- en beroepsprocedures
 
-#### Artikel 82
+##### Artikel 82
 
 Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de directeur voor voorwerpen die een jeugdige ingevolge [artikel 50, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=50) onder zich heeft, beperkt tot vijfhonderd euro per voorwerp, inclusief eventuele gevolgschade.
 
 ### Hoofdstuk 14. Opperbeheer rijksinrichtingen
 
-#### Artikel 83
+##### Artikel 83
 
 Wijzigt het Besluit tenuitvoerlegging jeugdstrafrecht 1994.
 
-#### Artikel 84
+##### Artikel 84
 
 Wijzigt het Subsidiebesluit justitiële jeugdinrichtingen.
 
-#### Artikel 85
+##### Artikel 85
 
 Wijzigt de Gratieregeling 1976.
 
-#### Artikel 86
+##### Artikel 86
 
 Wijzigt het Besluit extramurale vrijheidsbeneming en sociale zekerheid.
 
 ### Hoofdstuk 19. Slotbepalingen
 
-#### Artikel 87
+##### Artikel 87
 
 Een ieder die betrokken is bij de uitvoering van [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) en dit reglement en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift terzake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit reglement de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 88
+##### Artikel 88
 
 Wijzigt deze wet.
 
-#### Artikel 89
+##### Artikel 89
 
 Het Besluit regels inrichtingen voor justitiële kinderbescherming wordt ingetrokken.
 
-#### Artikel 90
+##### Artikel 90
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 91
+##### Artikel 91
 
 Dit besluit wordt aangehaald als: Reglement justitiële jeugdinrichtingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 50a
+##### Artikel 50a
 
 1. Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 44, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=44) worden opgenomen, worden bewaard voor een periode van ten hoogste vier maanden.
 
@@ -988,7 +1014,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Onze Minister kan de machtiging intrekken:
 
@@ -1038,7 +1064,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.
 
@@ -1048,7 +1074,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Eens per twee weken, of vaker indien het belang van de jeugdige dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. Indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, worden zijn ouders of voogd, stiefouder of pleegouders op de hoogte gesteld van de uitkomsten van het overleg.
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. In het geneeskundig behandelingsplan worden ten minste opgenomen:
 
@@ -1062,7 +1088,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Een wijziging van het geneeskundig behandelingsplan wordt, in overleg met de persoon, bedoeld in [artikel 51c, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51c) vastgesteld. De wijziging wordt hem voor het ingaan daarvan medegedeeld.
 
-#### Artikel 49a
+##### Artikel 49a
 
 1. Voordat de directeur beslist dat een door de arts noodzakelijk geachte b-dwangbehandeling of gedwongen geneeskundige handeling zal worden toegepast, pleegt de directeur overleg met die arts en met het hoofd van de afdeling waar de jeugdige verblijft. Indien de behandeling door een andere arts wordt verricht, wordt tevens met hem overlegd.
 
@@ -1070,13 +1096,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. In het in het eerste en tweede lid bedoelde overleg wordt nagegaan of het gevaar niet op een andere wijze kan worden afgewend.
 
-#### Artikel 49b
+##### Artikel 49b
 
 1. Zo spoedig mogelijk na de aanvang van de gedwongen geneeskundige handeling wordt door of onder verantwoordelijkheid van een arts een plan opgesteld gericht op een zodanige verbetering van de toestand van de jeugdige dat de toepassing van de gedwongen geneeskundige handeling kan worden beëindigd. Dit plan wordt opgenomen in geneeskundig behandelingsplan.
 
 2. Bij de keuze voor een bepaalde geneeskundige handeling wordt steeds gekozen voor de voor de jeugdige minst ingrijpende handeling.
 
-#### Artikel 49c
+##### Artikel 49c
 
 1. Voordat de directeur de beslissing tot voortzetting van a-dwangbehandeling neemt, pleegt hij overleg met de voor de behandeling verantwoordelijke psychiater en met het hoofd van de afdeling waar de jeugdige verblijft.
 
@@ -1084,11 +1110,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De uitkomsten van het multidisciplinaire overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2022-01-01&g=2022-01-01), worden bij de beslissing meegenomen.
 
-#### Artikel 49d
+##### Artikel 49d
 
 De jeugdige wordt gedurende de periode dat de a- of b-dwangbehandeling of de gedwongen geneeskundige handeling wordt verricht, zo vaak als nodig is bezocht door een arts of in diens opdracht een verpleegkundige. Het verslag van diens bevindingen wordt opgenomen in het medische dossier.
 
-#### Artikel 49e
+##### Artikel 49e
 
 1. De directeur stelt de voorzitter van de commissie van toezicht, de raadsman van de jeugdige en indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, zijn ouders of voogd, stiefouder of pleegouders in kennis van het voornemen tot een beslissing tot a-dwangbehandeling uiterlijk drie dagen voor het nemen van die beslissing. Zij worden in de gelegenheid gesteld bezwaren tegen de beslissing kenbaar te maken.
 
@@ -1116,11 +1142,11 @@ De jeugdige wordt gedurende de periode dat de a- of b-dwangbehandeling of de ged
 
 8. Onze Minister kan voor de meldingen een model vaststellen.
 
-#### Artikel 49f
+##### Artikel 49f
 
 De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwangbehandeling, b-dwangbehandeling, gedwongen geneeskundige handeling en voortzetting van a-dwangbehandeling en de resultaten van het overleg, bedoeld in [artikel 48a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=48a&z=2022-01-01&g=2022-01-01), [artikel 49a](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49a&z=2022-01-01&g=2022-01-01) en [artikel 49c](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=8&artikel=49c&z=2022-01-01&g=2022-01-01), alsmede de adviezen die daarbij zijn gegeven en de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.
 
-#### Artikel 49g
+##### Artikel 49g
 
 1. De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling, doch in ieder geval na afloop van de termijn, bedoeld in [artikel 51e, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=51e), een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.
 
@@ -1142,7 +1168,7 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. De leden van de commissie van toezicht voor het vervoer, genoemd in [artikel 19b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=19b), worden benoemd voor een periode van vijf jaren. Zij kunnen tweemaal voor herbenoeming in aanmerking komen.
 
@@ -1150,7 +1176,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0012647&hoofdstuk=3&artikel=16&z=2022-01-01&g=2022-01-01) is van overeenkomstige toepassing, met dien verstande dat voor benoeming als lid eveneens niet in aanmerking komen ambtenaren of andere personen, werkzaam onder de verantwoordelijkheid van Onze Minister op het terrein van de tenuitvoerlegging van vrijheidsbenemende straffen en maatregelen, niet zijnde ambtenaren bij het openbaar ministerie.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. De leden van de commissie van toezicht voor het vervoer hebben te allen tijde toegang tot de plaatsen waar en de vervoersmiddelen waarmee handelingen betreffende het vervoer worden uitgeoefend.
 

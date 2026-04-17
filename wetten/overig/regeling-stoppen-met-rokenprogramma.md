@@ -1,18 +1,40 @@
 ---
 title: "Regeling Stoppen-met-rokenprogramma"
 identifier: "BWBR0041248"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041248"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041248"
+soort: "zbo"
+stam_id: "14696603"
+version_id: "25181042"
+internal_id: "C36009321"
+label_id: "14648784"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041248/2026-01-01/0"
+intitule_bron: "Stcrt.2018-45703"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-08-14"
+intitule_in_force: "2018-08-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-45703"
+original_published_date: "2018-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-45703"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041248&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0041248&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2019-01-01"
 ---
-
 # Regeling Stoppen-met-rokenprogramma
 
 Gelet op de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37) en [38 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van Stoppen-met-rokenprogramma.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1.1. **Stoppen-met-rokenprogramma** Zorg zoals huisartsen, medisch specialisten, verloskundigen en klinisch psychologen die bieden en farmacotherapeutische interventies ter ondersteuning van gedragsverandering met als doel te stoppen met roken. De programmatische aanpak bij stoppen met roken bestaat altijd uit begeleiding gericht op gedragsverandering en wordt indien nodig aangevuld met farmacologische ondersteuning. De zorgmodule Stoppen met Roken en de richtlijn Behandeling van tabaksverslaving en stoppen met roken ondersteuning worden hierbij als uitgangspunt gehanteerd.
 
@@ -32,7 +54,7 @@ Gelet op de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artik
 
 - 1.9. **Ketenzorg** Prestaties die worden vastgesteld op grond van de Beleidsregel Huisartsenzorg en multidisciplinaire zorg.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel het stellen van de navolgende voorschriften met betrekking tot het stoppen-met-rokenprogramma:
 
@@ -40,11 +62,11 @@ Deze regeling heeft tot doel het stellen van de navolgende voorschriften met bet
 
 - •. Transparantievoorschriften die moeten bewerkstelligen dat consumenten tijdig en zorgvuldig geïnformeerd worden over de eigenschappen van de betreffende prestatie met het oog op doeltreffendheid, juistheid, inzichtelijkheid en vergelijkbaarheid van de informatie. Met deze informatie kunnen cliënten een weloverwogen keuze kunnen maken voor het aangaan van een overeenkomst om te stoppen met roken.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders voor zover deze de prestatie stoppen-met-rokenprogramma leveren als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 4. Declaratievoorschriften
+##### Artikel 4. Declaratievoorschriften
 
 4.1. **Vrij tarief**
 
@@ -90,7 +112,7 @@ Het is mogelijk af te wijken van integrale inkoop, levering en declaratie voor z
 
 Het stoppen-met-rokenprogramma kan niet worden gedeclareerd indien tegelijkertijd aan dezelfde patiënt medisch specialistische zorg wordt geleverd die tot doel heeft de cliënt te begeleiden met het stoppen met roken.
 
-#### Artikel 5. Transparantievoorschrift
+##### Artikel 5. Transparantievoorschrift
 
 5.1. **Hoofdcontractant**
 
@@ -100,11 +122,11 @@ De hoofdcontractant is verantwoordelijk voor een goede voorlichting van de clië
 
 De verzekeraar informeert de verzekerde hoe omgegaan wordt met het eigen risico en wat er onder de vergoeding valt.
 
-#### Artikel 6. Intrekking
+##### Artikel 6. Intrekking
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling Stoppen-met-rokenprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0032738), met kenmerk NR/CU-713, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorgaande regeling, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorgaande regeling, inwerkingtreding en citeertitel
 
 De [Regeling Stoppen-met-rokenprogramma](https://wetten.overheid.nl/jci1.3:c:BWBR0032738), met kenmerk NR/CU-713, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

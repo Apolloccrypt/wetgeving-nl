@@ -1,18 +1,40 @@
 ---
 title: "Beleidsregel goedkeuring besluiten tot sluiten overeenkomst van opdracht ex Boek 7 Burgerlijk Wetboek BES"
 identifier: "BWBR0038611"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-10-12
-laatste_update: 2016-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038611"
+country: "nl"
+rank: "beleidsregel_bes"
+publication_date: "2016-10-12"
+last_updated: "2016-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038611"
+soort: "beleidsregel-BES"
+stam_id: "13767503"
+version_id: "23605492"
+internal_id: "C33976791"
+label_id: "13733964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038611/2016-10-12/0"
+intitule_bron: "Stcrt.2016-53455"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-10-12"
+intitule_in_force: "2016-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-53455"
+original_published_date: "2016-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-53455"
+entry_into_force_date: "2016-10-12"
+jci_1_3: "jci1.3:c:BWBR0038611&z=2016-10-12&g=2016-10-12"
+jci_1_0: "1.0:c:BWBR0038611&g=2016-10-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-10-12"
 ---
-
 # Beleidsregel goedkeuring besluiten tot sluiten overeenkomst van opdracht ex Boek 7 Burgerlijk Wetboek BES
 
 ### Wettelijke bepalingen
 
-#### Artikel 168
+##### Artikel 168
 
 1. **Het bestuurscollege is in ieder geval bevoegd:**
 
@@ -30,7 +52,7 @@ bron: "https://wetten.overheid.nl/BWBR0038611"
 
 4. **Het tweede en derde lid zijn van overeenkomstige toepassing op besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.**
 
-#### Artikel 204
+##### Artikel 204
 
 1. **De Rijksvertegenwoordiger is in ieder geval belast met:**
 
@@ -40,7 +62,7 @@ bron: "https://wetten.overheid.nl/BWBR0038611"
 
 - c. **het goedkeuren van besluiten tot het sluiten van een overeenkomst van opdracht als bedoeld in Boek 7 van het Burgerlijk Wetboek BES, op grond waarvan de opdrachtnemer ten behoeve van het openbaar lichaam voor meer dan een maand en gedurende ten minste 16 uur gemiddeld per week werkzaamheden verricht of laat verrichten door derden.**
 
-#### Artikel 400
+##### Artikel 400
 
 1. **De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt anders dan op grond van een arbeidsovereenkomst werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.**
 

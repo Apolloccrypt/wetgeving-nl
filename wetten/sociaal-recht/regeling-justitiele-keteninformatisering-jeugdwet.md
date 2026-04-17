@@ -1,20 +1,46 @@
 ---
-title: "Regeling justitiële keteninformatisering Jeugdwet"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 december 2014, nr. 590600, houdende regels omtrent de verzending en ontvangst van berichten inzake jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering (Regeling justitiële keteninformatisering Jeugdwet)"
 identifier: "BWBR0035936"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-01-30
-laatste_update: 2021-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035936"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-01-30"
+last_updated: "2021-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035936"
+soort: "ministeriele-regeling"
+stam_id: "12887793"
+version_id: "21913642"
+internal_id: "C31442301"
+label_id: "12857304"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035936/2021-01-30/0"
+intitule_bron: "Stcrt.2014-36270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-08"
+intitule_published: "2014-12-17"
+intitule_in_force: "2014-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36270"
+original_signed_date: "2014-12-08"
+original_published_date: "2014-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36270"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035936&z=2021-01-30&g=2021-01-30"
+jci_1_0: "1.0:c:BWBR0035936&g=2021-01-30"
+citeertitel_status: "officieel"
+short_title: "Regeling justitiële keteninformatisering Jeugdwet"
+signed_date: "2014-12-08"
+entry_into_force: "2015-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie en de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 december 2014, nr. 590600, houdende regels omtrent de verzending en ontvangst van berichten inzake jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering (Regeling justitiële keteninformatisering Jeugdwet)
 
 Gelet op de [artikelen 7.3.11, vijfde lid, van de Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925&artikel=7.3.11) en [5.33, vierde lid, van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=5.3.3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **verkeersgegevens:** gegevens over de aard en status van berichten die via CORV zijn verzonden en ontvangen, inclusief gegevens over foutmeldingen.
 
-#### Artikel 2. CORV
+##### Artikel 2. CORV
 
 1. Er is een collectieve opdracht routeervoorziening waarmee justitiële ketenpartners op veilige en zorgvuldige wijze berichten verzenden en ontvangen zonder dat deze berichten bij verzending of voor ontvangst inhoudelijk worden bewerkt.
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister is de verwerkingsverantwoordelijke in de zin van artikel 4 van de Verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van [Richtlijn 95/46/EG](31995L0046) (algemene verordening gegevensbescherming) (PbEU 2016, L 119), met betrekking tot het verwerken van persoonsgegevens in CORV.
 
-#### Artikel 3. Gebruik CORV
+##### Artikel 3. Gebruik CORV
 
 1. Behoudens gevallen van onverwijlde spoed verzenden de justitiële ketenpartners uitsluitend via CORV de berichten vermeld in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2021-01-30&g=2021-01-30) bij deze regeling overeenkomstig de daarbij vermelde aanwijzingen.
 
@@ -60,13 +86,13 @@ voor zover voornoemde artikelen betrekking hebben op de taken en werkzaamheden v
 
 4. De Minister kan [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=1&z=2021-01-30&g=2021-01-30) van deze regeling wijzigen of vervangen.
 
-#### Artikel 4. Routering en vernietiging CORV-berichten
+##### Artikel 4. Routering en vernietiging CORV-berichten
 
 1. De Minister vernietigt een bericht dat met CORV is verzonden, uiterlijk binnen 72 uur vanaf het tijdstip dat in CORV een bevestiging is ontvangen dat het verzonden bericht juist is gerouteerd.
 
 2. De Minister bewaart verkeersgegevens maximaal twaalf maanden na het ontstaan van deze gegevens.
 
-#### Artikel 5. Aanmelding voor aansluiting op CORV
+##### Artikel 5. Aanmelding voor aansluiting op CORV
 
 1. Een Veilig Thuis-organisatie wendt zich voor aansluiting op CORV tot de Minister met gebruikmaking van het formulier in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2021-01-30&g=2021-01-30) van deze regeling. Daarbij verklaart de Veilig Thuis-organisatie dat zij voldoet aan de aansluitingsvoorwaarden voor CORV.
 
@@ -78,11 +104,11 @@ voor zover voornoemde artikelen betrekking hebben op de taken en werkzaamheden v
 
 5. De Minister kan [Bijlagen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&bijlage=2&z=2021-01-30&g=2021-01-30) van deze regeling wijzigen of vervangen.
 
-#### Artikel 6. Aansluiting op CORV
+##### Artikel 6. Aansluiting op CORV
 
 Aansluiting op CORV vindt uitsluitend plaats indien de infrastructuur voor gegevensuitwisseling van de justitiële ketenpartner aansluiting op CORV mogelijk maakt en deze aansluiting voldoende verantwoord is.
 
-#### Artikel 7. Nadere eisen aan aansluiting op CORV
+##### Artikel 7. Nadere eisen aan aansluiting op CORV
 
 Bij aansluiting van een justitiële ketenpartner op CORV stelt de Minister in ieder geval nadere eisen omtrent:
 
@@ -92,15 +118,15 @@ Bij aansluiting van een justitiële ketenpartner op CORV stelt de Minister in ie
 
 - c. het vervallen van de aansluiting.
 
-#### Artikel 8. Wijzigingen van de regeling
+##### Artikel 8. Wijzigingen van de regeling
 
 Onverminderd [artikel 3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=3&z=2021-01-30&g=2021-01-30), en [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035936&artikel=5&z=2021-01-30&g=2021-01-30), kan de Minister deze regeling wijzigen, voor zover hij dit afstemt met de Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling justitiële keteninformatisering Jeugdwet.
 

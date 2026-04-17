@@ -1,13 +1,39 @@
 ---
-title: "Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 5 juli 2025, nr. 2025-0000394063, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten in de Metropoolregio Eindhoven ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven)"
 identifier: "BWBR0051209"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-10
-laatste_update: 2025-07-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051209"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-10"
+last_updated: "2025-07-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051209"
+soort: "ministeriele-regeling"
+stam_id: "17466013"
+version_id: "30804692"
+internal_id: "C44150051"
+label_id: "17368424"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051209/2025-07-10/0"
+intitule_bron: "Stcrt.2025-22720"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-05"
+intitule_published: "2025-07-09"
+intitule_in_force: "2025-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-22720"
+original_signed_date: "2025-07-05"
+original_published_date: "2025-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-22720"
+entry_into_force_date: "2025-07-10"
+jci_1_3: "jci1.3:c:BWBR0051209&z=2025-07-10&g=2025-07-10"
+jci_1_0: "1.0:c:BWBR0051209&g=2025-07-10"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven"
+signed_date: "2025-07-05"
+entry_into_force: "2025-07-10"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 5 juli 2025, nr. 2025-0000394063, houdende regels met betrekking tot verstrekking van een specifieke uitkering aan gemeenten in de Metropoolregio Eindhoven ten behoeve van het versnellen van de bouw van betaalbare woningen in een kwalitatief goede leefomgeving (Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven)
 
 Gelet op de [artikelen 2, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [3 van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3) (Stb. 2022, 452);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -48,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 - **Woondeal:** Regionale Woondeal Zuidoost-Brabant, zoals getekend op 9 maart 2023.
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel om door middel van een specifieke uitkering aan MRE-gemeenten bij te dragen aan:
 
@@ -58,7 +84,7 @@ Deze regeling heeft tot doel om door middel van een specifieke uitkering aan MRE
 
 ### Hoofdstuk 2. Verstrekken van de specifieke uitkering
 
-#### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
+##### Artikel 3. Activiteiten waarvoor een specifieke uitkering kan worden verstrekt
 
 1. De minister kan op aanvraag van een college van een MRE-gemeente een specifieke uitkering verstrekken aan die gemeente voor bijdragen in projecten die:
 
@@ -76,7 +102,7 @@ Deze regeling heeft tot doel om door middel van een specifieke uitkering aan MRE
 
 - b. het uitvoeren van activiteiten die op aantoonbare wijze bijdragen aan en noodzakelijk zijn voor de realisatie van woningen als bedoeld onder a en toerekenbaar zijn aan het project.
 
-#### Artikel 4. Uitkeringsplafond
+##### Artikel 4. Uitkeringsplafond
 
 1. In totaal is ten hoogste € 122.500.000 beschikbaar voor specifieke uitkeringen.
 
@@ -84,11 +110,11 @@ Deze regeling heeft tot doel om door middel van een specifieke uitkering aan MRE
 
 3. De minister stelt het bedrag vast dat ten behoeve van de aanvragen in een aanvraagtijdvak, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=6&z=2025-07-10&g=2025-07-10), ten hoogste aan specifieke uitkeringen kan worden verstrekt, en maakt dit bekend in de Staatscourant.
 
-#### Artikel 5. Hoogte van de uitkering
+##### Artikel 5. Hoogte van de uitkering
 
 De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aantoonbare financiële tekort van een MRE-gemeente op de voor het project noodzakelijke publieke investeringen van de activiteiten, bedoeld in [artikel 3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=3&z=2025-07-10&g=2025-07-10), verminderd met de publieke opbrengsten verbonden aan het project en de financiële bijdrage, bedoeld in artikel 3, eerste lid, onder d.
 
-#### Artikel 6. Aanvraag
+##### Artikel 6. Aanvraag
 
 1. In 2025 kan een aanvraag voor een specifieke uitkering worden ingediend van 15 september om 9:00 tot 8 oktober om 17:00.
 
@@ -118,7 +144,7 @@ De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aanto
 
 4. Een aanvraag wordt ingediend via een formulier dat beschikbaar wordt gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 7. Rangschikking van aanvragen
+##### Artikel 7. Rangschikking van aanvragen
 
 1. Na het sluiten van de aanvraagperiode, bedoeld in [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=6&z=2025-07-10&g=2025-07-10), beoordeelt de minister alle ingediende aanvragen en stelt een rangschikking op van de aanvragen die voldoen aan de vereisten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=3&z=2025-07-10&g=2025-07-10) en 6, derde en vierde lid.
 
@@ -138,7 +164,7 @@ De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aanto
 
 6. Indien een aanvraag niet volledig kan worden toegekend in verband met de overschrijding van het krachtens [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=4&z=2025-07-10&g=2025-07-10), vastgestelde bedrag, kan de minister besluiten om de aanvraag toch toe te wijzen en het restant van de specifieke uitkering ten laste te brengen van het uitkeringsplafond van het eerstvolgende aanvraagtijdvak. De minister kan, in afwijking van [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=8&z=2025-07-10&g=2025-07-10), voor een geval als bedoeld in de eerste volzin besluiten om de specifieke uitkering in twee keer uit te betalen.
 
-#### Artikel 8. Uitkeringsbeschikking
+##### Artikel 8. Uitkeringsbeschikking
 
 1. De minister beslist binnen dertien weken na het sluiten van het aanvraagtijdvak over de toekenning van een specifieke uitkering voor een aanvraag.
 
@@ -162,7 +188,7 @@ De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aanto
 
 5. Aan een specifieke uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
-#### Artikel 9. Afwijzingsgronden
+##### Artikel 9. Afwijzingsgronden
 
 1. De minister wijst een aanvraag voor een specifieke uitkering af, indien:
 
@@ -178,7 +204,7 @@ De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aanto
 
 - c. de toekenning van de aanvraag er toe zou leiden dat de spreiding van de beschikbare middelen over de verschillende MRE-gemeenten onevenwichtig is.
 
-#### Artikel 10. Verplichtingen voor de ontvanger van de uitkering
+##### Artikel 10. Verplichtingen voor de ontvanger van de uitkering
 
 1. Binnen een project waarvoor een specifieke uitkering is toegekend:
 
@@ -196,23 +222,23 @@ De specifieke uitkering bedraagt ten minste € 125.000 en ten hoogste het aanto
 
 4. Het college van een MRE-gemeente die een specifieke uitkering op basis van deze regeling heeft ontvangen, verleent op verzoek van de minister medewerking en verstrekt informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van de toegekende specifieke uitkering.
 
-#### Artikel 11. Terugvordering
+##### Artikel 11. Terugvordering
 
 1. Als uit de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de specifieke uitkering niet volledig is besteed aan de activiteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de specifieke uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd.
 
 2. De minister doet binnen een jaar na de ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 12. Toetsingscommissie Woningbouwimpuls
+##### Artikel 12. Toetsingscommissie Woningbouwimpuls
 
 De Toetsingscommissie Woningbouwimpuls, genoemd in [artikel 7, eerste lid, van het Besluit Woningbouwimpuls 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043540&artikel=7), is belast met het adviseren van de minister over de toepassing van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051209&hoofdstuk=2&artikel=7&z=2025-07-10&g=2025-07-10).
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering woningbouwversnelling Metropoolregio Eindhoven.
 

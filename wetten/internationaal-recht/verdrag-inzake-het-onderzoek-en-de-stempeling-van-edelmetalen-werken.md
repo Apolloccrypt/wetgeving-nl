@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het onderzoek en de stempeling van edelmetalen werken"
 identifier: "BWBV0004101"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-01-01
-laatste_update: 2004-08-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004101"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-01-01"
+last_updated: "2004-08-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004101"
+soort: "verdrag"
+stam_id: "10003918213"
+version_id: "10004043762"
+internal_id: "C10008344681"
+label_id: "10003903204"
+dtd_version: "2.0"
+original_entry_into_force: "1999-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004101/2019-01-01/0"
+intitule_bron: "Trb.2004-192"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-08-18"
+intitule_in_force: "2004-08-18"
+intitule_status: "goed"
+original_publication: "Trb.2004-192"
+original_published_date: "2004-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-192"
+entry_into_force_date: "1999-07-16"
+jci_1_3: "jci1.3:c:BWBV0004101&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBV0004101&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1999-07-16"
 ---
-
 # Verdrag inzake het onderzoek en de stempeling van edelmetalen werken
 
 Preambule
@@ -28,17 +50,17 @@ De Engelse tekst van het Verdrag is oorspronkelijk gepubliceerd in Trb. 1991/16.
 
 ### I. WERKINGSSFEER EN WERKING
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voorwerpen die door een bevoegde waarborginstelling zijn onderzocht en afgeslagen in overeenstemming met de bepalingen van dit Verdrag worden in een invoerende Verdragsluitende Staat niet opnieuw voorgelegd voor verplicht onderzoek of verplichte afslag. Dit belet een invoerende Verdragsluitende Staat niet controleproeven te nemen in overeenstemming met artikel 6.
 
 2. Geen enkele bepaling van dit Verdrag vereist van een Verdragsluitende Staat dat deze de invoer of verkoop toestaat van voorwerpen van edelmetaal die niet in zijn nationale wetgeving staan omschreven of niet voldoen aan nationale wettelijke gehalten.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag wordt onder „voorwerpen van edelmetaal” verstaan voorwerpen van platina, goud, palladium, zilver of legeringen daarvan, zoals omschreven in Bijlage I.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Teneinde in aanmerking te komen voor de toepassing van de bepalingen van artikel 1 moeten voorwerpen van edelmetaal:
 
@@ -52,13 +74,13 @@ Voor de toepassing van dit Verdrag wordt onder „voorwerpen van edelmetaal” v
 
 2. Voorwerpen van edelmetaal waarvan een merk is veranderd of uitgewist nadat zij zijn afgeslagen zoals voorgeschreven in Bijlage II, vallen niet onder de toepassing van artikel 1.
 
-#### Artikel 4
+##### Artikel 4
 
 De Verdragsluitende Staten zijn niet verplicht de bepalingen van artikel 1, eerste lid, toe te passen op voorwerpen van edelmetaal die, nadat zij zijn voorgelegd aan een bevoegde waarborginstelling en zijn onderzocht en afgeslagen zoals voorgeschreven in artikel 3, zijn veranderd door toevoeging of op enigerlei andere wijze.
 
 ### II. ONDERZOEK EN SANCTIES
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke Verdragsluitende Staat wijst een of meer bevoegde waarborginstellingen aan voor het onderzoeken en afslaan van voorwerpen van edelmetaal zoals voorzien in Bijlage II.
 
@@ -74,21 +96,21 @@ De Verdragsluitende Staten zijn niet verplicht de bepalingen van artikel 1, eers
 
 3. Elke Verdragsluitende Staat stelt de depositaris in kennis van de aanstelling van zulke waarborginstellingen en van hun merken en van de intrekking van machtigingen verleend aan eerder aangestelde waarborginstellingen. De depositaris stelt alle andere Verdragsluitende Staten daarvan onverwijld in kennis.
 
-#### Artikel 6
+##### Artikel 6
 
 De bepalingen van dit Verdrag beletten een Verdragsluitende Staat niet controleproeven te nemen op voorwerpen van edelmetaal die zijn voorzien van de in dit Verdrag bepaalde merken. Deze proeven worden niet op zodanige wijze uitgevoerd, dat daardoor de invoer of verkoop van voorwerpen van edelmetaal die in overeenstemming met de bepalingen van dit Verdrag zijn afgeslagen, onnodig wordt belemmerd.
 
-#### Artikel 7
+##### Artikel 7
 
 De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II beschreven Gemeenschappelijk Keurmerk als nationaal waarborgmerk van elke Verdragsluitende Staat te registreren bij de Wereldorganisatie voor de Intellectuele Eigendom (OMPI/WIPO) in overeenstemming met het [Verdrag van Parijs tot bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120). De depositaris doet zulks ook in het geval van een Verdragsluitende Staat met betrekking waartoe dit Verdrag op een latere datum in werking treedt of in het geval van een toetredende Staat.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke Verdragsluitende Staat bezit en handhaaft wetten waarbij het wordt verboden, op straffe van sancties, het Gemeenschappelijk Kenmerk bedoeld in dit Verdrag of de merken van de bevoegde waarborginstellingen die ter kennis zijn gebracht in overeenstemming met artikel 5, derde lid, te vervalsen, ongeoorloofd te veranderen of verkeerd te gebruiken, en, ongeoorloofd, het voorwerp te veranderen of het gehaltemerk of het merk van de instelling te veranderen of uit te wissen nadat het Gemeenschappelijk Keurmerk is aangebracht.
 
 2. Elke Verdragsluitende Staat verbindt zich ertoe krachtens deze wetten gerechtelijke stappen te ondernemen wanneer er voldoende bewijs van vervalsing of verkeerd gebruik van het Gemeenschappelijk Keurmerk of de merken van de bevoegde waarborginstellingen dan wel van ongeoorloofde verandering van het voorwerp of verandering of uitwissing van het gehaltemerk of het waarborgmerk nadat het Gemeenschappelijk Keurmerk is aangebracht, is ontdekt of onder zijn aandacht gebracht door een andere Verdragsluitende Staat of, wanneer meer van toepassing, andere passende stappen te ondernemen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een invoerende Verdragsluitende Staat of een van zijn bevoegde waarborginstellingen redenen heeft om aan te nemen dat een waarborginstelling van een uitvoerende Verdragsluitende Staat het Gemeenschappelijk Keurmerk heeft aangebracht zonder te hebben voldaan aan de desbetreffende bepalingen van dit Verdrag, wordt de waarborginstelling die de voorwerpen zou hebben afgeslagen onmiddellijk geraadpleegd en verleent deze waarborginstelling onverwijld alle in redelijkheid te verlangen bijstand voor het onderzoek van de aangelegenheid. Indien geen bevredigende regeling wordt bereikt, kan elk der partijen de aangelegenheid voorleggen aan de Permanente Commissie door middel van kennisgeving aan haar Voorzitter. In dat geval belegt de Voorzitter een bijeenkomst van de Permanente Commissie.
 
@@ -100,7 +122,7 @@ De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II be
 
 ### III. PERMANENTE COMMISSIE EN WIJZIGINGEN
 
-#### Artikel 10
+##### Artikel 10
 
 1. Hierbij wordt een Permanente Commissie ingesteld, waarin elke Verdragsluitende Staat is vertegenwoordigd. Elke Verdragsluitende Staat heeft één stem.
 
@@ -128,7 +150,7 @@ De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II be
 
 5. De Permanente Commissie kan aanbevelingen doen inzake iedere kwestie verband houdend met de toepassing van dit Verdrag of voorstellen doen tot wijziging van dit Verdrag. Deze aanbevelingen of voorstellen worden toegezonden aan de depositaris, die alle Verdragsluitende Staten daarvan in kennis stelt.
 
-#### Artikel 11. Wijziging van het Verdrag
+##### Artikel 11. Wijziging van het Verdrag
 
 1. Wanneer van de Permanente Commissie een voorstel tot wijziging van de artikelen van het Verdrag wordt ontvangen, of wanneer van een Verdragsluitende Staat een voorstel tot wijziging van het Verdrag wordt ontvangen, legt de depositaris deze voorstellen ter aanvaarding voor aan alle Verdragsluitende Staten.
 
@@ -144,7 +166,7 @@ De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II be
 
 #### Toetreding
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een Staat die lid is van de Verenigde Naties of van een van de gespecialiseerde organisaties of van de Internationale Organisatie voor Atoomenergie dan wel Partij is bij het [Statuut van het Internationaal Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509) en die beschikt over regelingen voor het onderzoeken en afslaan van voorwerpen van edelmetaal vereist om te voldoen aan de voorwaarden van het Verdrag en de Bijlagen daarbij kan, op uitnodiging van de Verdragsluitende Staten die wordt overgebracht door de depositaris, tot dit Verdrag toetreden.
 
@@ -154,7 +176,7 @@ De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II be
 
 4. De uitgenodigde Staat kan tot dit Verdrag toetreden door nederlegging van een akte van toetreding bij de depositaris, die alle andere Verdragsluitende Staten daarvan in kennis stelt. De toetreding wordt van kracht drie maanden na de nederlegging van deze akte.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Regering van een ondertekenende of toetredende Staat kan bij de nederlegging van haar akte van bekrachtiging of toetreding of op elk tijdstip daarna, schriftelijk tegenover de depositaris verklaren dat dit Verdrag van toepassing is op alle of een deel van de gebieden, aangegeven in de verklaring, voor de buitenlandse betrekkingen waarvan zij verantwoordelijk is. De depositaris stelt de Regeringen van alle andere Verdragsluitende Staten in kennis van een zodanige verklaring.
 
@@ -164,13 +186,13 @@ De Verdragsluitende Staten machtigen hierbij de depositaris het in Bijlage II be
 
 #### Terugtrekking
 
-#### Artikel 14
+##### Artikel 14
 
 Een Verdragsluitende Staat kan zich uit dit Verdrag terugtrekken mits hij twaalf maanden tevoren schriftelijk kennisgeving daarvan doet aan de depositaris, die alle Verdragsluitende Staten daarvan in kennis stelt, of op andere voorwaarden zoals overeengekomen door de Verdragsluitende Staten. Elke Verdragsluitende Staat verbindt zich ertoe, in geval van terugtrekking uit het Verdrag, na terugtrekking op te houden het Gemeenschappelijk Keurmerk voor enig doel te gebruiken of aan te brengen.
 
 #### Bekrachtiging
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag dient door de ondertekenende Staten te worden bekrachtigd. De akten van bekrachtiging dienen te worden nedergelegd bij de depositaris, die alle andere ondertekenende Staten daarvan in kennis stelt.
 

@@ -1,38 +1,64 @@
 ---
-title: "Regeling preïmplantatie genetische diagnostiek"
+title: "Regeling van de staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 februari 2009, nr. CZ-TSZ-2912089, houdende houdende regels ten aanzien van preïmplantatie genetische diagnostiek (PGD) (Regeling preïmplantatie genetische diagnostiek)"
 identifier: "BWBR0025355"
-categorie: "Overig"
-publicatiedatum: 2013-04-06
-laatste_update: 2013-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025355"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-06"
+last_updated: "2013-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025355"
+soort: "ministeriele-regeling"
+stam_id: "9913033"
+version_id: "16163712"
+internal_id: "C22177721"
+label_id: "9889474"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025355/2013-04-06/0"
+intitule_bron: "Stcrt.2009-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-02-16"
+intitule_published: "2009-03-03"
+intitule_in_force: "2009-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-42"
+original_signed_date: "2009-02-16"
+original_published_date: "2009-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-3177"
+entry_into_force_date: "2009-03-05"
+jci_1_3: "jci1.3:c:BWBR0025355&z=2013-04-06&g=2013-04-06"
+jci_1_0: "1.0:c:BWBR0025355&g=2013-04-06"
+citeertitel_status: "officieel"
+short_title: "Regeling preïmplantatie genetische diagnostiek"
+signed_date: "2009-02-16"
+entry_into_force: "2009-03-05"
 ---
-
 # Regeling van de staatssecretaris van Volksgezondheid, Welzijn en Sport van 16 februari 2009, nr. CZ-TSZ-2912089, houdende houdende regels ten aanzien van preïmplantatie genetische diagnostiek (PGD) (Regeling preïmplantatie genetische diagnostiek)
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5) en [6, tweede lid, van de Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is voor het uitvoeren van preïmplantatie genetische diagnostiek als bedoeld in [artikel 1, onder h, vijfde streepje, van het Besluit aanwijzing bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0022191&artikel=1) behoefte aan één centrum.
 
 2. In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=1&z=2013-04-06&g=2013-04-06) is neergelegd hoe in de behoefte kan worden voorzien.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitvoeren of gaan uitvoeren van preïmplantatie genetische diagnostiek gelden de voorschriften, opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0025355&bijlage=2&z=2013-04-06&g=2013-04-06).
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Planningsbesluit klinisch genetisch onderzoek en erfelijkheidsadvisering.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling preïmplantatie genetische diagnostiek.
 

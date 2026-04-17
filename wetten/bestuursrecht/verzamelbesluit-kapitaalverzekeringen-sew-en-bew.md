@@ -1,13 +1,39 @@
 ---
-title: "Verzamelbesluit kapitaalverzekeringen, SEW en BEW"
+title: "Inkomstenbelasting. Kapitaalverzekering eigen woning, spaarrekening eigen woning, beleggingsrecht eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3 (Verzamelbesluit kapitaalverzekeringen, SEW en BEW)"
 identifier: "BWBR0050034"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-19
-laatste_update: 2024-07-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050034"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-07-19"
+last_updated: "2024-07-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050034"
+soort: "beleidsregel"
+stam_id: "17182773"
+version_id: "30248742"
+internal_id: "C43326241"
+label_id: "17091454"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050034/2024-07-19/0"
+intitule_bron: "Stcrt.2024-22825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-05"
+intitule_published: "2024-07-18"
+intitule_in_force: "2024-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22825"
+original_signed_date: "2024-07-05"
+original_published_date: "2024-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22825"
+entry_into_force_date: "2024-07-19"
+jci_1_3: "jci1.3:c:BWBR0050034&z=2024-07-19&g=2024-07-19"
+jci_1_0: "1.0:c:BWBR0050034&g=2024-07-19"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit kapitaalverzekeringen, SEW en BEW"
+signed_date: "2024-07-05"
+entry_into_force: "2024-07-19"
 ---
-
 # Inkomstenbelasting. Kapitaalverzekering eigen woning, spaarrekening eigen woning, beleggingsrecht eigen woning en vóór 2001 bestaande kapitaalverzekeringen in box 3 (Verzamelbesluit kapitaalverzekeringen, SEW en BEW)
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

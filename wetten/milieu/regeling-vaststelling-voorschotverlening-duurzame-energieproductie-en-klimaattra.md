@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026"
+title: "Regeling van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444701, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2026 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026) [KetenID 28330]"
 identifier: "BWBR0051685"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051685"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051685"
+soort: "ministeriele-regeling"
+stam_id: "17577193"
+version_id: "31015282"
+internal_id: "C44800981"
+label_id: "17478394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051685/2026-01-01/0"
+intitule_bron: "Stcrt.2025-36633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-25"
+intitule_published: "2025-10-31"
+intitule_in_force: "2025-10-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-36633"
+original_signed_date: "2025-10-25"
+original_published_date: "2025-10-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-36633"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051685&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051685&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026"
+signed_date: "2025-10-25"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Klimaat en Groene Groei van 25 oktober 2025, nr. WJZ/101444701, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie en klimaattransitie 2026 (Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026) [KetenID 28330]
 
 Gelet op [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), [54, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54), [55i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55i), en [68, derde lid, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=68);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de regelingen tot en met voorjaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -390,7 +416,7 @@ Voor de regelingen tot en met voorjaar 2020 worden voor een productie-installati
 | [Artikel 14, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=14) | Fotovoltaïsche zonnepanelen, ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (netlevering) | 0,044 |
 | [Artikel 14, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=14) | Fotovoltaïsche zonnepanelen, ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (niet-netlevering) | 0,082 |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -650,7 +676,7 @@ Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als b
 | [Artikel 21, eerste lid, onderdeel d, subonderdeel 2⁰](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=21) | Zon-PV ≥ 20 MWp, zonvolgend op land natuurinclusief | 0,0726 | 0,0020 |
 | [Artikel 21, eerste lid, onderdeel d, subonderdeel 3⁰](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=21) | Zon-PV ≥ 1 MWp, zonvolgend op water | 0,0726 | 0,0020 |
 
-#### Artikel 4
+##### Artikel 4
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het tenderbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -682,7 +708,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de regelingen tot en met 2022 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -883,7 +909,7 @@ Voor de regelingen tot en met 2022 worden voor een productie-installatie als bed
 | [Artikel 33, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0046631&artikel=33) | Biomassavergassing (inclusief B-hout) | 0,0351 |
 | [Artikel 33, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046631&artikel=33) | Biomassavergassing (exclusief B-hout) | 0,0351 |
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de regelingen vanaf 2023 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -938,7 +964,7 @@ Voor de regelingen vanaf 2023 worden voor een productie-installatie als bedoeld 
 | [Artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=29) | RWZI bestaande slibgisting, gas | 0,0351 | 0,0155 |
 | [Artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=31) | Biomassavergassing | 0,0351 | 0,0155 |
 
-#### Artikel 7
+##### Artikel 7
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -955,7 +981,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 8
+##### Artikel 8
 
 Voor regelingen tot en met voorjaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -1293,7 +1319,7 @@ Voor regelingen tot en met voorjaar 2020 worden voor een productie-installatie a
 | [Artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=42) | Stoomketel op houtpellets, warmte en gecombineerde opwekking | 0,035 |
 | [Artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=44) | Direct inzet (brander) van houtpellets voor industriële toepassingen voor warmte en gecombineerde opwekking | 0,062 |
 
-#### Artikel 9
+##### Artikel 9
 
 Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -1556,7 +1582,7 @@ Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als b
 | [Artikel 53, onderdeel c, subonderdeel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=53) | Diepe geothermie ≥ 12 MWth, geen basislast, verwarming gebouwde omgeving | 0,0273 | 0,0016 |
 | [Artikel 53, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=53) | Diepe geothermie, basislast, aanvullende put | 0,0273 | 0,0016 |
 
-#### Artikel 10
+##### Artikel 10
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het tenderbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -1573,7 +1599,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 5. Correctiebedragen andere technieken ter vermindering van broeikasgas
 
-#### Artikel 11
+##### Artikel 11
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -1598,7 +1624,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 | [Artikel 64, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044108&artikel=64) | Restwarmtebenutting (met warmtepomp) | 0,035 | 0,005 |
 | [Artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0044108&artikel=66) | Waterstof uit elektrolyse | 0,051 | 0,016 |
 
-#### Artikel 12
+##### Artikel 12
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -1790,7 +1816,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 | [Artikel 77, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=77) | Geavanceerde hernieuwbare transportbrandstoffen, bioLNG uit allesvergisting | 0,0422 | 0,0000 | 0,0833 |
 | [Artikel 77, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0051266&artikel=77) | Geavanceerde hernieuwbare transportbrandstoffen, diesel- en benzinevervangers uit vaste lignocellulosehoudende biomassa | 0,0861 | 0,0000 | 0,0833 |
 
-#### Artikel 13
+##### Artikel 13
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2026 vastgesteld:
 
@@ -2077,11 +2103,11 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 6. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling vaststelling voorschotverlening duurzame energieproductie en klimaattransitie 2026.
 

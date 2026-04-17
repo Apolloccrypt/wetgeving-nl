@@ -1,13 +1,39 @@
 ---
-title: "Tegemoetkomingsregeling oogstschade 2002"
+title: "Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)"
 identifier: "BWBR0019496"
-categorie: "Overig"
-publicatiedatum: 2006-11-09
-laatste_update: 2006-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019496"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-11-09"
+last_updated: "2006-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019496"
+soort: "ministeriele-regeling"
+stam_id: "7928273"
+version_id: "12799832"
+internal_id: "C17272951"
+label_id: "7916024"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019496/2006-11-09/0"
+intitule_bron: "Stcrt.2006-23"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-30"
+intitule_published: "2006-02-01"
+intitule_in_force: "2006-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-23"
+original_signed_date: "2006-01-30"
+original_published_date: "2006-02-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-23-p23-SC73663"
+entry_into_force_date: "2006-02-03"
+jci_1_3: "jci1.3:c:BWBR0019496&z=2006-11-09&g=2006-11-09"
+jci_1_0: "1.0:c:BWBR0019496&g=2006-11-09"
+citeertitel_status: "officieel"
+short_title: "Tegemoetkomingsregeling oogstschade 2002"
+signed_date: "2006-01-30"
+entry_into_force: "2006-02-03"
 ---
-
 # Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 30 januari 2006, nr. TRCJZ/2006/323, Directie Juridische Zaken, houdende vaststelling van de tegemoetkoming voor de oogstschade 2002 (Tegemoetkomingsregeling oogstschade 2002)
 
 Gelet op artikel 87, derde lid, onderdeel c, van het Verdrag tot oprichting van de Europese Gemeenschap (Trb. 1957, 74 en 91);
@@ -22,7 +48,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - i. Dienst Regelingen: Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op natuurlijke personen of rechtspersonen die:
 
@@ -52,13 +78,13 @@ Deze regeling is van toepassing op natuurlijke personen of rechtspersonen die:
 
 - b. in de schadetermijn schade hebben geleden.
 
-#### Artikel 3
+##### Artikel 3
 
 Op aanvraag kan de minister een tegemoetkoming voor de in de schadeperiode veroorzaakte schade aan gewassen verstrekken.
 
 #### § 2. Omvang tegemoetkoming in de schade aan gewassen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De ingevolge [artikel 2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=2&z=2006-11-09&g=2006-11-09), in aanmerking te nemen schade wordt vastgesteld volgens de formule:
 
@@ -82,7 +108,7 @@ D / (A × B) ≥ 0,3.
 
 4. Indien de aanvrager geen gebruik heeft gemaakt van de landbouwregeling, bedoeld in [artikel 27 van de Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=27) wordt het in aanmerking te nemen schadebedrag, berekend op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=2&artikel=4&z=2006-11-09&g=2006-11-09), met 6/106e deel verminderd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het subsidieplafond voor deze regeling bedraagt € 3.800.000,–.
 
@@ -90,7 +116,7 @@ D / (A × B) ≥ 0,3.
 
 #### § 3. Voorwaarden tegemoetkoming
 
-#### Artikel 6
+##### Artikel 6
 
 De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=1&artikel=3&z=2006-11-09&g=2006-11-09), wordt verstrekt indien wordt voldaan aan de volgende voorwaarden:
 
@@ -104,7 +130,7 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 #### § 4. Aanvraag
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanvraag voor een tegemoetkoming in de schade geschiedt door middel van het formulier dat daartoe op het internet [www.lnvloket.nl] wordt geplaatst. Een aanvraagformulier is tevens telefonisch opvraagbaar bij de Dienst Regelingen op telefoonnummer: 0800-2233322.
 
@@ -112,7 +138,7 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 3. De aanvraagperiode loopt van 27 februari 2006 tot en met 20 april 2006. Indien het aanvraagformulier na deze datum wordt ontvangen, wordt de aanvraag niet in behandeling genomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanvraag voor een tegemoetkoming in de schade aan gewassen gaat vergezeld van de volgende documenten:
 
@@ -164,23 +190,23 @@ De tegemoetkoming in de schade, bedoeld in [artikel 3](https://wetten.overheid.n
 
 - b. objectieve schriftelijke gegevens ter onderbouwing van de schadebeschrijving, bedoeld in het eerste lid, onderdeel a, onder vi en vii, en het tweede lid, onderdeel b, onder vi en vii.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister beslist binnen tweeëntwintig weken na sluiting van de aanvraagperiode, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019496&paragraaf=4&artikel=7&z=2006-11-09&g=2006-11-09).
 
 2. Indien de minister niet binnen tweeëntwintig weken een besluit op de aanvraag kan nemen, stelt de minister de aanvrager daarvan in kennis en noemt daarbij een termijn waarbinnen het besluit op de aanvraag wordt genomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De [afdelingen 4.2.5 tot en met en 4.2.7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) zijn van toepassing op de verstrekking van een tegemoetkoming op basis van deze regeling.
 
 2. Bij de terugvordering worden onverschuldigd betaalde bedragen ter zake van tegemoetkoming vermeerderd met de wettelijke rente over de periode vanaf de eerste betaling tot aan het moment van algehele voldoening.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Tegemoetkomingsregeling oogstschade 2002.
 

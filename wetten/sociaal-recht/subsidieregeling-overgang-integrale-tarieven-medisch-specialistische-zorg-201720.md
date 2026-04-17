@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2017–2019"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 december 2015, kenmerk 874466-144542-WJZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016)"
 identifier: "BWBR0037303"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037303"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037303"
+soort: "ministeriele-regeling"
+stam_id: "13332393"
+version_id: "23838612"
+internal_id: "C34287471"
+label_id: "13300284"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037303/2023-04-01/0"
+intitule_bron: "Stcrt.2015-44560"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-02"
+intitule_published: "2015-12-10"
+intitule_in_force: "2015-12-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-2564"
+original_signed_date: "2017-01-11"
+original_published_date: "2017-01-18"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-2564"
+entry_into_force_date: "2017-01-11"
+jci_1_3: "jci1.3:c:BWBR0037303&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0037303&g=2023-04-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2017–2019"
+signed_date: "2017-01-11"
+entry_into_force: "2017-01-11"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 december 2015, kenmerk 874466-144542-WJZ, houdende regels voor een subsidie voor het faciliteren van medisch specialisten bij de overgang naar integrale tarieven voor medisch specialistische zorg en kaakchirurgie (Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2016)
 
 Gelet op [artikel 3 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - 2°. natuurlijke personen of rechtspersonen, die gezamenlijk een instelling vormen.
 
-#### Artikel 2. Medisch specialist en ambtenaar
+##### Artikel 2. Medisch specialist en ambtenaar
 
 1. Een medisch specialist voor de toepassing van deze regeling is een arts die:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 2. Een aanstelling als ambtenaar in de zin van de [Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947) wordt voor deze regeling gelijkgesteld met een arbeidsovereenkomst.
 
-#### Artikel 3. Voorwaarden aanspraak op subsidie
+##### Artikel 3. Voorwaarden aanspraak op subsidie
 
 1. De minister verstrekt op aanvraag subsidie aan een natuurlijk persoon die:
 
@@ -72,11 +98,11 @@ In deze regeling wordt verstaan onder:
 
 2. De minister verstrekt per medisch specialist slechts één subsidie op grond van deze regeling.
 
-#### Artikel 4. Subsidiabele activiteiten
+##### Artikel 4. Subsidiabele activiteiten
 
 De minister verstrekt de subsidie met het oog op de beëindiging in de desbetreffende overstapperiode van de hoedanigheid als vrijgevestigd medisch specialist en het met ingang van het tijdstip van die beëindiging, als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam zijn.
 
-#### Artikel 5. Subsidiebedrag
+##### Artikel 5. Subsidiebedrag
 
 1. Het bedrag van de subsidie is € 100 000.
 
@@ -92,7 +118,7 @@ De minister verstrekt de subsidie met het oog op de beëindiging in de desbetref
 
 - b. de verplichtingen die de minister krachtens [artikel 4:37 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), aan de subsidie-ontvanger heeft opgelegd.
 
-#### Artikel 6. Aanvraag tot verlening van subsidie
+##### Artikel 6. Aanvraag tot verlening van subsidie
 
 1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist een aanvraag in voor de verlening van de subsidie, voor 1 maart in het desbetreffende overstapjaar.
 
@@ -116,19 +142,19 @@ De minister verstrekt de subsidie met het oog op de beëindiging in de desbetref
 
 6. De minister maakt in de gevallen waarin hij met betrekking tot de aanvraag een besluit als bedoeld in [artikel 4:5, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5), kan nemen, van die bevoegdheid gebruik.
 
-#### Artikel 7. Besluit over subsidieverlening
+##### Artikel 7. Besluit over subsidieverlening
 
 1. De minister besluit uiterlijk op 30 september van het desbetreffende overstapjaar over de subsidieverlening.
 
 2. Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), weigert de minister de subsidieverlening indien hij de aanvraag na 28 februari van het desbetreffende overstapjaar heeft ontvangen.
 
-#### Artikel 8. Voorschot
+##### Artikel 8. Voorschot
 
 1. De minister verleent in het overstapjaar aan de subsidie-ontvanger een voorschot van € 80.000.
 
 2. De betaling van het voorschot geschiedt aan de zorgaanbieder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=6&z=2023-04-01&g=2023-04-01).
 
-#### Artikel 9. Aanvullende doelverplichtingen
+##### Artikel 9. Aanvullende doelverplichtingen
 
 1. De subsidie-ontvanger is vanaf het tijdstip, bedoeld in [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=3&z=2023-04-01&g=2023-04-01), tot en met 31 mei van het vierde jaar na het desbetreffende overstapjaar als medisch specialist uitsluitend op basis van één of meer arbeidsovereenkomsten met één of meer zorgaanbieders werkzaam.
 
@@ -136,7 +162,7 @@ De minister verstrekt de subsidie met het oog op de beëindiging in de desbetref
 
 3. De subsidie-ontvanger die in de periode, bedoeld in het eerste lid, niet langer voldoet aan het eerste of tweede lid, meldt dat feit onverwijld aan de minister.
 
-#### Artikel 10. Aanvraag subsidievaststelling
+##### Artikel 10. Aanvraag subsidievaststelling
 
 1. De zorgaanbieder respectievelijk een zorgaanbieder waarmee de medisch specialist een arbeidsovereenkomst heeft gesloten, dient namens de medisch specialist, een aanvraag tot vaststelling van de subsidie in:
 
@@ -170,7 +196,7 @@ De minister verstrekt de subsidie met het oog op de beëindiging in de desbetref
 
 - b. vanaf 5 januari 2026 tot en met 31 januari 2026 voor het overstapjaar 2019.
 
-#### Artikel 11. Besluit tot vaststelling van subsidie
+##### Artikel 11. Besluit tot vaststelling van subsidie
 
 1. Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2023-04-01&g=2023-04-01) neemt de minister een besluit op de aanvraag.
 
@@ -178,11 +204,11 @@ De minister verstrekt de subsidie met het oog op de beëindiging in de desbetref
 
 3. De minister verstrekt het deel van het vastgestelde subsidiebedrag dat na verrekening van het betaalde voorschot resteert, in één keer aan de zorgaanbieder, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037303&artikel=10&z=2023-04-01&g=2023-04-01), respectievelijk de subsidie-ontvanger, bedoeld in het vierde lid van dat artikel.
 
-#### Artikel 12. Wijziging Subsidieregeling overgang integrale tarieven medisch specialistische zorg
+##### Artikel 12. Wijziging Subsidieregeling overgang integrale tarieven medisch specialistische zorg
 
 Wijzigt de Subsidieregeling overgang integrale tarieven medisch specialistische zorg.
 
-#### Artikel 13. Inwerkingtreding, vervaldatum en overgangsrecht
+##### Artikel 13. Inwerkingtreding, vervaldatum en overgangsrecht
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2016. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2015, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2016.
 
@@ -190,19 +216,19 @@ Wijzigt de Subsidieregeling overgang integrale tarieven medisch specialistische 
 
 3. Deze regeling blijft van toepassing op een subsidie die de minister krachtens deze regeling heeft verstrekt.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling overgang integrale tarieven medisch-specialistische zorg 2017–2019.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Subsidieplafond
+##### Artikel 5a. Subsidieplafond
 
 1. Het subsidieplafond bedraagt voor 2017 tot en met 2019 in totaal € 10.000.000.
 

@@ -1,13 +1,35 @@
 ---
 title: "Maritiem arbeidsverdrag, 2006"
 identifier: "BWBV0006220"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-12-23
-laatste_update: 2024-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006220"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-12-23"
+last_updated: "2024-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006220"
+soort: "verdrag"
+stam_id: "10005103433"
+version_id: "10005450402"
+internal_id: "C10008499831"
+label_id: "10005087774"
+dtd_version: "2.0"
+original_entry_into_force: "2013-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006220/2024-12-23/0"
+intitule_bron: "Trb.2007-93"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-05-09"
+intitule_in_force: "2013-08-02"
+intitule_status: "goed"
+original_publication: "Trb.2007-93"
+original_published_date: "2007-05-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-93"
+entry_into_force_date: "2013-08-20"
+jci_1_3: "jci1.3:c:BWBV0006220&z=2024-12-23&g=2024-12-23"
+jci_1_0: "1.0:c:BWBV0006220&g=2024-12-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-08-20"
 ---
-
 # Maritiem arbeidsverdrag, 2006
 
 **Preambule**
@@ -60,7 +82,7 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 #### Algemene verplichtingen
 
-#### Artikel I
+##### Artikel I
 
 1. Elk Lid dat dit Verdrag bekrachtigt, verplicht zich ertoe de bepalingen ervan volledig op de in [artikel VI](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VI&z=2024-12-23&g=2024-12-23) vervatte wijze ten uitvoer te leggen om het recht op volwaardig werk voor alle zeevarenden te waarborgen.
 
@@ -68,7 +90,7 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 #### Begripsomschrijvingen en reikwijdte
 
-#### Artikel II
+##### Artikel II
 
 1. Voor de toepassing van dit Verdrag wordt, tenzij in specifieke bepalingen anders wordt bepaald, verstaan onder:
 
@@ -108,7 +130,7 @@ Neemt heden, de drieëntwintigste februari van het jaar tweeduizendenzes, het vo
 
 #### Fundamentele rechten en beginselen
 
-#### Artikel III
+##### Artikel III
 
 Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in de context van dit Verdrag, de volgende fundamentele rechten eerbiedigen:
 
@@ -122,7 +144,7 @@ Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in 
 
 #### Arbeids- en sociale rechten van zeevarenden
 
-#### Artikel IV
+##### Artikel IV
 
 1. Elke zeevarende heeft recht op een veilige werkplek die aan de veiligheidsnormen voldoet.
 
@@ -136,7 +158,7 @@ Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in 
 
 #### Verantwoordelijkheden op het gebied van uitvoering en handhaving
 
-#### Artikel V
+##### Artikel V
 
 1. Elk Lid implementeert en handhaaft wet- en regelgeving of andere maatregelen die het heeft aangenomen ter nakoming van de verplichtingen ingevolge dit Verdrag ten aanzien van schepen en zeevarenden die onder zijn rechtsbevoegdheid vallen.
 
@@ -154,7 +176,7 @@ Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in 
 
 #### Voorschriften en Delen A en B van de Code
 
-#### Artikel VI
+##### Artikel VI
 
 1. De voorschriften en de bepalingen van Deel A van de Code zijn dwingend. De bepalingen van Deel B van de Code zijn niet dwingend.
 
@@ -170,13 +192,13 @@ Elk Lid vergewist zich ervan dat de bepalingen van zijn wet- en regelgeving, in 
 
 #### Overleg met organisaties van reders en zeevarenden
 
-#### Artikel VII
+##### Artikel VII
 
 Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van dit Verdrag waarvoor het Verdrag overleg verlangt met organisaties van reders en zeevarenden mag, in de gevallen waarin binnen een Lid geen representatieve organisaties van reders of van zeevarenden bestaan, door dat Lid uitsluitend een besluit worden genomen door middel van overleg met het in [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIII&z=2024-12-23&g=2024-12-23) bedoelde Comité.
 
 #### Inwerkingtreding
 
-#### Artikel VIII
+##### Artikel VIII
 
 1. De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
 
@@ -188,7 +210,7 @@ Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van
 
 #### Opzegging
 
-#### Artikel IX
+##### Artikel IX
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte akte ten behoeve van registratie. Deze opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
@@ -196,7 +218,7 @@ Ten aanzien van afwijkingen, uitzonderingen of andere flexibele toepassingen van
 
 #### Gevolgen van de inwerkingtreding
 
-#### Artikel X
+##### Artikel X
 
 Dit Verdrag herziet de volgende Verdragen:
 
@@ -276,19 +298,19 @@ Verdrag betreffende werving van en arbeidsbemiddeling voor zeevarenden, 1996 (Nr
 
 #### Taken van Depositaris
 
-#### Artikel XI
+##### Artikel XI
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen, aanvaardingen en opzeggingen ingevolge dit Verdrag.
 
 2. Wanneer de in het [artikel VIII, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2024-12-23&g=2024-12-23), bedoelde voorwaarden zijn vervuld, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
 
-#### Artikel XII
+##### Artikel XII
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ten behoeve van registratie in overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van alle bijzonderheden omtrent alle bekrachtigingen, aanvaardingen en opzeggingen die ingevolge dit Verdrag worden geregistreerd.
 
 #### Bijzonder Tripartiet Comité
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. De Raad van Beheer van het Internationaal Arbeidsbureau zorgt voor permanente toetsing van de werking van dit Verdrag door middel van een door hem ingesteld comité met bijzondere bevoegdheden op het gebied van maritieme arbeidsnormen.
 
@@ -300,7 +322,7 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 #### Wijziging van dit Verdrag
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Wijzigingen van de bepalingen van dit Verdrag kunnen door de Algemene Conferentie van de Internationale Arbeidsorganisatie worden aangenomen in het kader van [artikel 19 van het Statuut van de Internationale Arbeidsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001986&artikel=19) en het reglement van orde van de Organisatie voor het aannemen van verdragen. Wijzigingen van de Code kunnen ook worden aangenomen volgens de procedures van [artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XV&z=2024-12-23&g=2024-12-23).
 
@@ -322,7 +344,7 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 #### Wijzigingen van de Code
 
-#### Artikel XV
+##### Artikel XV
 
 1. De Code kan worden gewijzigd door hetzij de procedure vervat in [artikel XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=XIV&z=2024-12-23&g=2024-12-23) of, tenzij uitdrukkelijk anders is voorzien, in overeenstemming met de in dit artikel vervatte procedure.
 
@@ -370,13 +392,13 @@ De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretari
 
 #### Gezaghebbende talen
 
-#### Artikel XVI
+##### Artikel XVI
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 
 ## TITEL 1. MINIMUMVEREISTEN VOOR ZEEVARENDEN OM OP EEN SCHIP TE MOGEN WERKEN
 
-#### Voorschrift 1.1. – Minimumleeftijd
+##### Voorschrift 1.1. – Minimumleeftijd
 
 Doel: Verzekeren dat er geen personen onder de minimumleeftijd op een schip werkzaam zijn
 
@@ -400,7 +422,7 @@ Doel: Verzekeren dat er geen personen onder de minimumleeftijd op een schip werk
 
 - 1. Bij de regulering van de werk- en leefomstandigheden zouden de Leden bijzondere aandacht moeten schenken aan de behoeften van jongeren onder de 18 jaar.
 
-#### Voorschrift 1.2. – Geneeskundige verklaring
+##### Voorschrift 1.2. – Geneeskundige verklaring
 
 Doel: Verzekeren dat alle zeevarenden medisch gezien in staat zijn hun taken op zee te vervullen
 
@@ -442,7 +464,7 @@ Doel: Verzekeren dat alle zeevarenden medisch gezien in staat zijn hun taken op 
 
 - 1. De bevoegde autoriteit, geneeskundigen en medisch specialisten, onderzoekers, reders, vertegenwoordigers van zeevarenden en alle andere personen die betrokken zijn bij de uitvoering van onderzoeken naar de geneeskundige geschiktheid van kandidaat-zeevarenden en van actieve zeevarenden zouden rekening moeten houden met de **Guidelines for Conducting Pre-sea and Periodic Medical Fitness Examinations for Seafarers** van de Internationale Arbeidsorganisatie/Wereldgezondheidsorganisatie, alsmede aan alle latere versies hiervan, en aan alle andere van toepassing zijnde internationale richtlijnen die worden gepubliceerd door de Internationale Arbeidsorganisatie, de Internationale Maritieme Organisatie of de Wereldgezondheidsorganisatie.
 
-#### Voorschrift 1.3. – Opleiding en kwalificaties
+##### Voorschrift 1.3. – Opleiding en kwalificaties
 
 Doel: Verzekeren dat zeevarenden opgeleid of gekwalificeerd zijn om hun taken aan boord te verrichten
 
@@ -454,7 +476,7 @@ Doel: Verzekeren dat zeevarenden opgeleid of gekwalificeerd zijn om hun taken aa
 
 - 4. Elk Lid dat, op het tijdstip van zijn bekrachtiging van dit Verdrag, gebonden was door het [Verdrag inzake bewijzen van bekwaamheid als volmatroos](https://wetten.overheid.nl/jci1.3:c:BWBV0005436), 1946 (Nr. 74), blijft de verplichtingen ingevolge dat Verdrag vervullen tenzij en tot het moment waarop bindende bepalingen die op de in dat Verdrag behandelde onderwerpen betrekking hebben, zijn aangenomen door de Internationale Maritieme Organisatie en van kracht zijn geworden, of na afloop van vijf jaar na de inwerkingtreding van dit Verdrag in overeenstemming met het [derde lid van artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=VIII&z=2024-12-23&g=2024-12-23), naargelang van welke datum eerder valt.
 
-#### Voorschrift 1.4. – Werving en arbeidsbemiddeling
+##### Voorschrift 1.4. – Werving en arbeidsbemiddeling
 
 Doel: Verzekeren dat zeevarenden toegang hebben tot een doeltreffend en goed gereguleerd wervings- en arbeidsbemiddelingssysteem voor zeevarenden
 
@@ -578,7 +600,7 @@ Doel: Verzekeren dat zeevarenden toegang hebben tot een doeltreffend en goed ger
 
 ## TITEL 2. ARBEIDSVOORWAARDEN
 
-#### Voorschrift 2.1. – Arbeidsovereenkomsten voor zeevarenden
+##### Voorschrift 2.1. – Arbeidsovereenkomsten voor zeevarenden
 
 Doel: Verzekeren dat zeevarenden een rechtvaardige arbeidsovereenkomst hebben
 
@@ -644,7 +666,7 @@ Doel: Verzekeren dat zeevarenden een rechtvaardige arbeidsovereenkomst hebben
 
 - 1. Bij de vaststelling van de bijzonderheden die in de in het eerste lid, onderdeel e, van norm A2.1 bedoelde staat van dienst moeten worden vastgelegd, zou elk Lid zich ervan moeten verzekeren dat dit document voldoende informatie bevat, met een vertaling in het Engels, om het verkrijgen van een latere betrekking te vergemakkelijken of te voldoen aan de vereisten van dienst op zee voor een hogere rang of promotie. Een monsterboekje van zeevarenden kan tegemoetkomen aan de vereisten van het eerste lid, onderdeel e, van die norm.
 
-#### Voorschrift 2.2. – Lonen
+##### Voorschrift 2.2. – Lonen
 
 Doel: Verzekeren dat zeevarenden voor hun diensten worden betaald
 
@@ -750,7 +772,7 @@ Doel: Verzekeren dat zeevarenden voor hun diensten worden betaald
 
 - 2. Niets in deze leidraad wordt geacht afbreuk te doen aan regelingen tussen reders of hun organisaties en de organisaties van zeevarenden met betrekking tot de regulering van standaard minimumarbeidsvoorwaarden, mits deze voorwaarden door de bevoegde autoriteit zijn erkend.
 
-#### Voorschrift 2.3. – Arbeidstijden en rusttijden
+##### Voorschrift 2.3. – Arbeidstijden en rusttijden
 
 Doel: Verzekeren dat zeevarenden gereguleerde arbeidstijden en rusttijden hebben
 
@@ -824,7 +846,7 @@ Doel: Verzekeren dat zeevarenden gereguleerde arbeidstijden en rusttijden hebben
 
 - 4. Het eerste lid van deze leidraad ontslaat jonge zeevarenden niet van de algemene verplichting voor alle zeevarenden tijdens een noodsituatie werkzaamheden te verrichten, als bedoeld in het veertiende lid van norm A2.3.
 
-#### Voorschrift 2.4. – Recht op verlof
+##### Voorschrift 2.4. – Recht op verlof
 
 Doel: Verzekeren dat zeevarenden passend verlof krijgen
 
@@ -868,7 +890,7 @@ Doel: Verzekeren dat zeevarenden passend verlof krijgen
 
 - 1. Bijzondere maatregelen zouden moeten worden overwogen ten aanzien van de jonge zeevarenden onder de leeftijd van 18 jaar die zes maanden of een korter tijdvak ingevolge een collectieve arbeidsovereenkomst of arbeidsovereenkomst voor zeevarenden zonder verlof dienst hebben gedaan op een schip dat buitenlandse reizen maakt en dat in die periode niet is teruggekeerd naar hun land van domicilie, en dat daar de volgende drie maanden van de reis ook niet naar terugkeert. Dergelijke maatregelen zouden kunnen bestaan uit hun – voor hen kosteloze – repatriëring naar de oorspronkelijke plaats van monstering in hun land van domicilie voor het opnemen van verlof dat gedurende de reis is opgebouwd.
 
-#### Voorschrift 2.5. – Repatriëring
+##### Voorschrift 2.5. – Repatriëring
 
 Doel: Verzekeren dat zeevarenden naar huis kunnen terugkeren
 
@@ -1024,7 +1046,7 @@ Doel: Verzekeren dat zeevarenden naar huis kunnen terugkeren
 
 - 1. Indien bij de toepassing van het achtste lid van norm A2.5.2 meer tijd nodig is voor het controleren van de geldigheid van bepaalde onderdelen van het verzoek van de zeevarende of de door hem aangewezen vertegenwoordiger, mag dit geen belemmering vormen voor onmiddellijke ontvangst door de zeevarende van het deel van de gevraagde bijstand dat als gerechtvaardigd wordt beschouwd.
 
-#### Voorschrift 2.6. – Vergoeding voor zeevarenden in geval van verlies of zinken van het schip
+##### Voorschrift 2.6. – Vergoeding voor zeevarenden in geval van verlies of zinken van het schip
 
 Doel: Verzekeren dat zeevarenden worden vergoed wanneer een schip verloren is gegaan of is gezonken
 
@@ -1038,7 +1060,7 @@ Doel: Verzekeren dat zeevarenden worden vergoed wanneer een schip verloren is ge
 
 - 2. Elk Lid zou ervoor moeten zorgdragen dat zeevarenden dezelfde rechtsmiddelen voor de aanspraak op deze schadeloosstellingen hebben als zij hebben voor de aanspraak op achterstallig loon die gedurende het dienstverband is verdiend.
 
-#### Voorschrift 2.7. – Bemanningssterkte
+##### Voorschrift 2.7. – Bemanningssterkte
 
 Doel: Verzekeren dat zeevarenden werken aan boord van schepen met voldoende personeel voor de veilige, efficiënte en betrouwbare exploitatie van het schip
 
@@ -1054,7 +1076,7 @@ Doel: Verzekeren dat zeevarenden werken aan boord van schepen met voldoende pers
 
 - 2. Vertegenwoordigers van organisaties van reders en zeevarenden zouden, al dan niet tezamen met andere personen of autoriteiten, deel moeten nemen aan het functioneren van deze systemen.
 
-#### Voorschrift 2.8. – Loopbaan- en competentie-ontwikkeling en werkgelegenheidsperspectieven voor zeevarenden
+##### Voorschrift 2.8. – Loopbaan- en competentie-ontwikkeling en werkgelegenheidsperspectieven voor zeevarenden
 
 Doel: Het bevorderen van loopbaan- en competentie-ontwikkeling en van werkgelegenheidsperspectieven voor zeevarenden
 
@@ -1086,7 +1108,7 @@ Doel: Het bevorderen van loopbaan- en competentie-ontwikkeling en van werkgelege
 
 ## TITEL 3. HUISVESTING, RECREATIEVOORZIENINGEN, VOEDING EN CATERING
 
-#### Voorschrift 3.1. – Huisvesting en recreatievoorzieningen
+##### Voorschrift 3.1. – Huisvesting en recreatievoorzieningen
 
 Doel: Verzekeren dat zeevarenden behoorlijke huisvesting en recreatievoorzieningen aan boord hebben
 
@@ -1438,7 +1460,7 @@ Doel: Verzekeren dat zeevarenden behoorlijke huisvesting en recreatievoorziening
 
 - 5. De voorzieningen voor huisvesting, recreatie of catering zouden niet aan extreme trillingen mogen blootstaan.
 
-#### Voorschrift 3.2. – Voeding en catering
+##### Voorschrift 3.2. – Voeding en catering
 
 Doel: Verzekeren dat zeevarenden toegang hebben tot voeding en drinkwater van goede kwaliteit en verstrekt onder gereguleerde hygiënische omstandigheden
 
@@ -1496,7 +1518,7 @@ Doel: Verzekeren dat zeevarenden toegang hebben tot voeding en drinkwater van go
 
 ## TITEL 4. BESCHERMING VAN DE GEZONDHEID, MEDISCHE ZORG, WELZIJN EN SOCIALEZEKERHEIDSBESCHERMING
 
-#### Voorschrift 4.1. – Medische zorg aan boord van het schip en aan wal
+##### Voorschrift 4.1. – Medische zorg aan boord van het schip en aan wal
 
 Doel: Het beschermen van de gezondheid van zeevarenden en het garanderen van onmiddellijke toegang tot medische zorg aan boord van het schip en aan wal
 
@@ -1618,7 +1640,7 @@ Doel: Het beschermen van de gezondheid van zeevarenden en het garanderen van onm
 
 - 1. Elk Lid zou maatregelen moeten nemen ter waarborging van behoorlijke en voldoende medische zorg voor de gezinsleden van zevarenden die van hen afhankelijk zijn die op zijn grondgebied woonachtig zijn, hangende de ontwikkeling van een medische dienst voor werknemers en hun gezinsleden indien dergelijke diensten niet bestaan, en moet het Internationaal Arbeidsbureau op de hoogte brengen van de voor dit doel getroffen maatregelen.
 
-#### Voorschrift 4.2. – Aansprakelijkheid van de reder
+##### Voorschrift 4.2. – Aansprakelijkheid van de reder
 
 Doel:Verzekeren dat zeevarenden worden beschermd tegen de financiële gevolgen van ziekte, ongeval of overlijden die voortvloeien uit hun werkzaamheden
 
@@ -1696,7 +1718,7 @@ Doel:Verzekeren dat zeevarenden worden beschermd tegen de financiële gevolgen v
 
 - 1. In de nationale wet- of regelgeving moet worden bepaald dat de partijen bij de uitbetaling op grond van een contractuele vordering gebruik kunnen maken van het in Aanhangsel B4-I omschreven model van het ontvangst- en vrijgaveformulier.
 
-#### Voorschrift 4.3. – Bescherming van de gezondheid en veiligheid en ongevallenpreventie
+##### Voorschrift 4.3. – Bescherming van de gezondheid en veiligheid en ongevallenpreventie
 
 Doel: Verzekeren dat de werkomgeving van zeevarenden bevorderlijk is voor de arbeidsomstandigheden
 
@@ -1934,7 +1956,7 @@ Doel: Verzekeren dat de werkomgeving van zeevarenden bevorderlijk is voor de arb
 
 - f. gezamenlijke voorzieningen voor, of wederzijdse bijstand bij, de opleiding van zeevarenden op het gebied van bescherming van arbeidsomstandigheden, ongevallenpreventie en veilig werken.
 
-#### Voorschrift 4.4. – Toegang tot welzijnsvoorzieningen aan wal
+##### Voorschrift 4.4. – Toegang tot welzijnsvoorzieningen aan wal
 
 Doel: Verzekeren dat zeevarenden die aan boord van een schip werkzaam zijn toegang hebben tot voorzieningen en diensten aan wal ten behoeve van hun gezondheid en welzijn
 
@@ -2044,7 +2066,7 @@ Doel: Verzekeren dat zeevarenden die aan boord van een schip werkzaam zijn toega
 
 - 5. Degenen die hiervoor in de haven en aan boord verantwoordelijk zijn, zouden al het mogelijke in het werk moeten stellen om walverlof voor zeevarenden zo spoedig mogelijk na aankomst van het schip in de haven aan wal willen gaan, te vergemakkelijken.
 
-#### Voorschrift 4.5. – Sociale zekerheid
+##### Voorschrift 4.5. – Sociale zekerheid
 
 Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te verschaffen tot socialezekerheidsbescherming
 
@@ -2092,11 +2114,11 @@ Doel: Verzekeren dat maatregelen worden getroffen om zeevarenden toegang te vers
 
 ## TITEL 5. NALEVING EN HANDHAVING
 
-#### Voorschrift 5.1. – Verantwoordelijkheden van de vlaggenstaat
+##### Voorschrift 5.1. – Verantwoordelijkheden van de vlaggenstaat
 
 Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag implementeert ten aanzien van schepen die zijn vlag voeren
 
-#### Voorschrift 5.1.1. – Algemene beginselen
+##### Voorschrift 5.1.1. – Algemene beginselen
 
 1. Elk Lid is verantwoordelijk voor de nakoming van zijn verplichtingen ingevolge dit Verdrag op schepen die zijn vlag voeren.
 
@@ -2120,7 +2142,7 @@ Leidraad B5.1.1 – Algemene beginselen
 
 - 2. Teneinde de samenwerking tussen inspecteurs en reders, zeevarenden en hun organisaties beter te waarborgen en de werk- en leefomstandigheden van zeevarenden in stand te houden of te verbeteren, zou de bevoegde autoriteit regelmatig overleg moeten plegen met de vertegenwoordigers van deze organisaties zoveel als nodig is om genoemde doelen te verwezenlijken. De wijze waarop dit overleg plaatsvindt, zou moeten worden vastgesteld door de bevoegde autoriteit, na overleg met de organisaties van reders en zeevarenden.
 
-#### Voorschrift 5.1.2. – Bevoegdverklaring van erkende organisaties
+##### Voorschrift 5.1.2. – Bevoegdverklaring van erkende organisaties
 
 1. De in het [derde lid van voorschrift 5.1.1](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&titeldeel=5&artikel=5.1.1&z=2024-12-23&g=2024-12-23) bedoelde publieke instanties of andere organisaties („erkende organisaties”) moeten door de bevoegde autoriteit zijn erkend als te hebben voldaan aan de in de Code vervatte vereisten met betrekking tot competentie en onafhankelijkheid. De inspectie- of certificeringstaken waarvoor de erkende organisaties bevoegd mogen worden verklaard, moeten vallen binnen de activiteiten waarvan uitdrukkelijk in de Code wordt vermeld dat deze door de bevoegde autoriteit of een erkende organisatie worden vervuld.
 
@@ -2186,7 +2208,7 @@ Leidraad B5.1.2 – Bevoegdverklaring van erkende organisaties
 
 - 6. Bij het instellen van de in het derde lid, onderdeel b, van norm A5.1.2 bedoelde toezichtprocedures zou elk Lid rekening moeten houden met de **Richtlijnen voor de bevoegdverklaring van organisaties die namens de Administratie optreden**, aangenomen in het kader van de Internationale Maritieme Organisatie.
 
-#### Voorschrift 5.1.3. – Certificaat maritieme arbeid en Verklaring naleving maritieme arbeid
+##### Voorschrift 5.1.3. – Certificaat maritieme arbeid en Verklaring naleving maritieme arbeid
 
 1. Dit voorschrift is van toepassing op schepen:
 
@@ -2296,7 +2318,7 @@ Leidraad B5.1.3 – Certificaat maritieme arbeid en verklaring naleving maritiem
 
 - 6. Wanneer een schip van vlag wisselt, als bedoeld in het veertiende lid, onderdeel c, van norm A5.1.3, en beide betrokken Staten dit Verdrag hebben bekrachtigd, zou het Lid waarvan het schip voorheen de vlag voerde, zo spoedig mogelijk aan de bevoegde autoriteit van het andere Lid afschriften van het certificaat maritieme arbeid en de verklaring naleving maritieme arbeid die vóór de verandering van vlag aan boord van het schip aanwezig waren en, indien van toepassing, afschriften van de relevante inspectierapporten moeten toezenden aan de bevoegde autoriteit van het andere Lid, indien de bevoegde autoriteit daarom binnen drie maanden nadat de verandering van vlag heeft plaatsgevonden, verzoekt.
 
-#### Voorschrift 5.1.4. – Inspectie en handhaving
+##### Voorschrift 5.1.4. – Inspectie en handhaving
 
 1. Elk Lid moet, door middel van een doeltreffend en gecoördineerd systeem van regelmatige inspecties, monitoring en andere controlemaatregelen verifiëren of schepen die zijn vlag voeren de vereisten van dit Verdrag als geïmplementeerd in de nationale wet- en regelgeving, naleven.
 
@@ -2412,7 +2434,7 @@ Leidraad B5.1.4 – Inspectie en handhaving
 
 - f. statistieken van gerapporteerde arbeidsongevallen en beroepsziekten bij zeevarenden.
 
-#### Voorschrift 5.1.5. – Klachtenprocedures aan boord
+##### Voorschrift 5.1.5. – Klachtenprocedures aan boord
 
 1. Elk Lid verlangt dat aan boord van schepen die zijn vlag voeren procedures gelden voor de eerlijke, doeltreffende en snelle behandeling van klachten van zeevarenden ter zake van inbreuken op de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden).
 
@@ -2454,7 +2476,7 @@ Leidraad B5.1.5 – Klachtenprocedures aan boord
 
 - g. in alle gevallen zouden zeevarenden het recht moeten hebben hun klachten rechtstreeks bij de kapitein, de reder en de bevoegde autoriteiten in te dienen.
 
-#### Voorschrift 5.1.6. – Scheepvaartongevallen
+##### Voorschrift 5.1.6. – Scheepvaartongevallen
 
 1. Elk Lid stelt een officieel onderzoek in naar elk ernstig scheepvaartongeval dat letsel of overlijden tot gevolg heeft, waarbij een schip dat zijn vlag voert betrokken is. Het eindrapport van een onderzoek wordt als regel openbaar gemaakt.
 
@@ -2464,11 +2486,11 @@ Leidraad B5.1.5 – Klachtenprocedures aan boord
 
 (Geen bepalingen)
 
-#### Voorschrift 5.2. – Verantwoordelijkheden van de havenstaat
+##### Voorschrift 5.2. – Verantwoordelijkheden van de havenstaat
 
 Doel: Elk Lid in staat stellen zijn verantwoordelijkheden ingevolge dit Verdrag met betrekking tot internationale samenwerking bij de uitvoering en handhaving van de verdragsnormen op buitenlandse schepen na te komen
 
-#### Voorschrift 5.2.1. – Inspecties in de haven
+##### Voorschrift 5.2.1. – Inspecties in de haven
 
 1. Elk buitenlands schip dat in de normale gang van zaken of ten behoeve van de exploitatie de haven van een Lid aandoet, kan worden geïnspecteerd in overeenstemming met [artikel V, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006220&artikel=V&z=2024-12-23&g=2024-12-23), ten behoeve van toetsing van de naleving van de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden) met betrekking tot de werk- en leefomstandigheden van zeevarenden aan boord van het schip.
 
@@ -2522,7 +2544,7 @@ Leidraad B5.2.1 – Inspecties in de haven
 
 - 3. Leden zouden zo veel als mogelijk met elkaar moeten samenwerken bij het aannemen van internationaal overeengekomen leidraden inzake inspectiebeleid, in het bijzonder met betrekking tot de omstandigheden die het aanhouden van een schip rechtvaardigen.
 
-#### Voorschrift 5.2.2. – Klachtenafhandelingsprocedures aan wal voor zeevarenden
+##### Voorschrift 5.2.2. – Klachtenafhandelingsprocedures aan wal voor zeevarenden
 
 1. Elk Lid garandeert dat zeevarenden aan boord van schepen die een haven aandoen binnen het grondgebied van dat Lid die aanvoeren dat de vereisten van dit Verdrag (met inbegrip van de rechten van zeevarenden) geschonden worden, het recht hebben een dergelijke klacht te melden met het oogmerk een snelle en praktische oplossing ervan te bevorderen.
 
@@ -2554,7 +2576,7 @@ Leidraad B5.2.2 – Klachtenafhandelingsprocedures aan wal voor zeevarenden
 
 - 5. In het geval dat de vlaggenstaat, in antwoord op de kennisgeving door de havenstaat in overeenstemming met het vijfde lid van norm A5.2.2, aangeeft dat zij de zaak ter hand neemt, en zij hiertoe over doeltreffende procedures beschikt en een aanvaardbaar actieplan heeft ingediend, kan de bevoegde functionaris afzien van verdere bemoeienis met de klacht.
 
-#### Voorschrift 5.3. – Verantwoordelijkheden betreffende arbeidsaanbod
+##### Voorschrift 5.3. – Verantwoordelijkheden betreffende arbeidsaanbod
 
 Doel: Verzekeren dat elk Lid zijn verantwoordelijkheden ingevolge dit Verdrag met betrekking tot de werving, plaatsing en sociale bescherming van zijn zeevarenden nakomt
 

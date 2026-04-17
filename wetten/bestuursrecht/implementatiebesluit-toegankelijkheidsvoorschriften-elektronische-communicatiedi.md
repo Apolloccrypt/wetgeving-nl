@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten"
+title: "Besluit van 12 september 2024, houdende regels over toegankelijkheid van elektronische communicatiediensten in verband met de implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten)"
 identifier: "BWBR0050223"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050223"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050223"
+soort: "AMvB"
+stam_id: "17221893"
+version_id: "30333942"
+internal_id: "C43509881"
+label_id: "17127614"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050223/2025-06-28/0"
+intitule_bron: "Stb.2024-262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-12"
+intitule_published: "2024-09-23"
+intitule_in_force: "2024-09-23"
+intitule_status: "goed"
+original_publication: "Stb.2024-262"
+original_signed_date: "2024-09-12"
+original_published_date: "2024-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-262"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0050223&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0050223&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten"
+signed_date: "2024-09-12"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit van 12 september 2024, houdende regels over toegankelijkheid van elektronische communicatiediensten in verband met de implementatie van Richtlijn (EU) 2019/882 van de Europese Commissie en de Raad van 17 april 2019 inzake toegankelijkheidsvoorschriften voor producten en diensten (PbEU 2019, L 151) (Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten)
 
 Op de voordracht van Onze Minister van Economische Zaken en Klimaat van 18 september 2023, nr. WJZ / 33497209;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 10 septembe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (Definities)
+##### Artikel 1. (Definities)
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** [Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950).
 
-#### Artikel 2. (Uitzondering in verband met fundamentele wijziging of onevenredige last)
+##### Artikel 2. (Uitzondering in verband met fundamentele wijziging of onevenredige last)
 
 1. Iedere dienstverlener die een beroep doet op de uitzondering, bedoeld in [artikel 7a.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7a.2), voert een beoordeling uit om te kunnen bepalen of het naleven van de toegankelijkheidsvoorschriften, bedoeld in bijlage I, afdelingen III en IV, onderdeel a, van [richtlijn (EU) 2019/882](32019L0882), tot een fundamentele wijziging leidt of, overeenkomstig de desbetreffende criteria in bijlage VI van die richtlijn, een onevenredige last oplevert.
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Iedere dienstverlener die een beroep doet op [artikel 7a.2, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=7a.2), verstrekt daarover informatie aan de Autoriteit Consument en Markt.
 
-#### Artikel 3. (Vermoeden van EU-conformiteit)
+##### Artikel 3. (Vermoeden van EU-conformiteit)
 
 1. Het verlenen van elektronische communicatiediensten wordt vermoed te voldoen aan de eisen, bedoeld in bijlage I, afdelingen III en IV, onderdeel a, van [richtlijn (EU) 2019/882](32019L0882), indien is voldaan aan de met betrekking tot die richtlijn vastgestelde geharmoniseerde normen of delen daarvan, die betrekking hebben op de desbetreffende eisen.
 
@@ -58,11 +84,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het verlenen van elektronische communicatiediensten die voldoen aan de geharmoniseerde normen of technische specificaties of delen van die normen of specificaties, bedoeld in het tweede lid, onderdeel a of b, wordt vermoed in overeenstemming te zijn met het derde lid, voor zover deze normen of technische specificaties of delen daarvan voldoen aan de toegankelijkheidsvoorschriften van [richtlijn (EU) 2019/882](32019L0882).
 
-#### Artikel 4. (Citeertitel)
+##### Artikel 4. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Implementatiebesluit toegankelijkheidsvoorschriften elektronische communicatiediensten.
 
-#### Artikel 5. (Inwerkingtreding)
+##### Artikel 5. (Inwerkingtreding)
 
 Dit besluit treedt in werking op 28 juni 2025.
 

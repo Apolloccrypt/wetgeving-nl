@@ -1,32 +1,58 @@
 ---
-title: "Wijzigingsbesluit Besluit houders van dieren, enz. (opheffing product- en bedrijfschappen en overname welzijnsregels ouderdieren vleeskuikens, vleeskalkoenen, konijnen en nertsen)"
+title: "Besluit van 8 december 2014, houdende wijziging van het Besluit houders van dieren in verband met de opheffing van de product- en bedrijfschappen en de overname van de welzijnsregels voor ouderdieren van vleeskuikens, vleeskalkoenen, konijnen en nertsen"
 identifier: "BWBR0035944"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035944"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035944"
+soort: "AMvB"
+stam_id: "12889233"
+version_id: "21924822"
+internal_id: "C31454291"
+label_id: "12858624"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035944/2015-01-01/0"
+intitule_bron: "Stb.2014-508"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-08"
+intitule_published: "2014-12-17"
+intitule_in_force: "2014-12-17"
+intitule_status: "goed"
+original_publication: "Stb.2014-508"
+original_signed_date: "2014-12-08"
+original_published_date: "2014-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-508"
+entry_into_force_date: "2014-12-18"
+jci_1_3: "jci1.3:c:BWBR0035944&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035944&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit houders van dieren, enz. (opheffing product- en bedrijfschappen en overname welzijnsregels ouderdieren vleeskuikens, vleeskalkoenen, konijnen en nertsen)"
+signed_date: "2014-12-08"
+entry_into_force: "2014-12-18"
 ---
-
 # Besluit van 8 december 2014, houdende wijziging van het Besluit houders van dieren in verband met de opheffing van de product- en bedrijfschappen en de overname van de welzijnsregels voor ouderdieren van vleeskuikens, vleeskalkoenen, konijnen en nertsen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit houders van dieren.
 
-#### Artikel II
+##### Artikel II
 
 Archiefbescheiden van het Productschap Pluimvee en Eieren betreffende zaken die op grond van dit besluit worden behartigd door Onze Minister, worden overgedragen aan Onze Minister, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel III
+##### Artikel III
 
 Het [Legkippenbesluit 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0015138) wordt ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Het [Besluit voortplantingstechnieken bij dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0007863) wordt ingetrokken.
 
-#### Artikel V
+##### Artikel V
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verantwoordingen Zvw met accountantsproduct vanaf oplevering 2019 (Accountantsprotocol)"
 identifier: "BWBR0040990"
-categorie: "Overig"
-publicatiedatum: 2018-06-07
-laatste_update: 2018-06-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040990"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-06-07"
+last_updated: "2018-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040990"
+soort: "zbo"
+stam_id: "14628083"
+version_id: "25049782"
+internal_id: "C35819061"
+label_id: "14581094"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040990/2018-06-07/0"
+intitule_bron: "Stcrt.2018-29904"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-06"
+intitule_in_force: "2018-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-29904"
+original_published_date: "2018-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-29904"
+entry_into_force_date: "2018-06-07"
+jci_1_3: "jci1.3:c:BWBR0040990&z=2018-06-07&g=2018-06-07"
+jci_1_0: "1.0:c:BWBR0040990&g=2018-06-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-06-07"
 ---
-
 # Verantwoordingen Zvw met accountantsproduct vanaf oplevering 2019 (Accountantsprotocol)
 
 ### Vooraf

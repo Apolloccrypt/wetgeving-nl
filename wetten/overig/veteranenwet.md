@@ -1,14 +1,41 @@
 ---
-title: "Veteranenwet"
+title: "Wet van 11 februari 2012 tot vaststelling van regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenwet)"
 identifier: "BWBR0031401"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031401"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031401"
+soort: "wet"
+stam_id: "11697343"
+version_id: "19311462"
+internal_id: "C30841331"
+label_id: "11670074"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031401/2020-01-01/0"
+intitule_bron: "Stb.2012-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-02-11"
+intitule_published: "2012-03-30"
+intitule_in_force: "2014-06-25"
+intitule_status: "goed"
+original_publication: "Stb.2012-133"
+original_signed_date: "2012-02-11"
+original_published_date: "2012-03-30"
+original_effect: "nieuwe-regeling"
+original_dossier: "32414"
+original_url_id: "stb-2012-133"
+entry_into_force_date: "2014-06-28"
+jci_1_3: "jci1.3:c:BWBR0031401&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0031401&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Veteranenwet"
+signed_date: "2012-02-11"
+entry_into_force: "2014-06-28"
 ---
-
-# Veteranenwet
+# Wet van 11 februari 2012 tot vaststelling van regels omtrent de bijzondere zorgplicht voor veteranen (Veteranenwet)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +47,7 @@ dat de bijzondere zorg die veteranen en hun relaties in verband met de inzet als
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goed gevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -38,7 +65,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. **persoonsgegevens, verwerking, verwerkingsverantwoordelijke:** hetgeen daaronder wordt verstaan in artikel 4, onderdelen 1, 2 en 7, van de Algemene verordening gegevensbescherming.
 
-#### Artikel 2. Erkenning en waardering voor veteranen
+##### Artikel 2. Erkenning en waardering voor veteranen
 
 1. Onze Minister voert een beleid dat is gericht op het bevorderen van erkenning van de verdiensten van veteranen, van erkenning van de mogelijke gevolgen van de inzet voor hun gezondheid en van waardering die veteranen op grond van hun verdiensten toekomt.
 
@@ -50,7 +77,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het faciliteren van de deelname van veteranen en hun relaties aan bijeenkomsten en reünies.
 
-#### Artikel 3. Zorgplicht voor en tijdens inzet
+##### Artikel 3. Zorgplicht voor en tijdens inzet
 
 1. Onze Minister heeft een zorgplicht voor militairen die worden ingezet. Deze zorgplicht houdt in dat militairen en hun relaties goed worden voorbereid op de inzet en goed worden begeleid tijdens de inzet.
 
@@ -68,7 +95,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - f. het informeren van militairen en hun relaties over de zorg die voor hen beschikbaar is.
 
-#### Artikel 4. Zorgplicht na inzet
+##### Artikel 4. Zorgplicht na inzet
 
 1. Onze Minister heeft een zorgplicht voor veteranen die zijn ingezet. Deze zorgplicht houdt in dat veteranen en hun relaties goed worden begeleid na afloop van de inzet.
 
@@ -82,7 +109,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. het faciliteren van de deelname van veteranen en hun relaties aan bijeenkomsten in het kader van nazorg.
 
-#### Artikel 5. Bijzondere zorgplicht voor veteranen
+##### Artikel 5. Bijzondere zorgplicht voor veteranen
 
 1. Onze Minister heeft een bijzondere zorgplicht voor veteranen die als gevolg van de inzet zorg nodig hebben. Deze zorgplicht houdt in dat veteranen en hun relaties worden bijgestaan bij hun revalidatie en re-integratie en bij het verkrijgen van materiële zorg, maatschappelijke ondersteuning of geestelijke gezondheidszorg.
 
@@ -94,11 +121,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. het begeleiden van veteranen en hun relaties bij het verkrijgen van maatschappelijke ondersteuning of geestelijke gezondheidszorg.
 
-#### Artikel 6. Afbakening zorg
+##### Artikel 6. Afbakening zorg
 
 De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=3&z=2020-01-01&g=2020-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=4&z=2020-01-01&g=2020-01-01)en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2020-01-01&g=2020-01-01), laten de materiële zorg op grond van wettelijke voorschriften in verband met werkloosheid, ziekte, arbeidsongeschiktheid, invaliditeit en overlijden, op grond van de [Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952) of de [Kaderwet militaire pensioenen](https://wetten.overheid.nl/jci1.3:c:BWBR0011955) en de zorg op het gebied van maatschappelijke ondersteuning en geestelijke gezondheidszorg onverlet en liggen in het verlengde daarvan.
 
-#### Artikel 7. Inkomensvoorziening in verband met zorg
+##### Artikel 7. Inkomensvoorziening in verband met zorg
 
 1. Onze Minister treft voor de veteraan een passende inkomensvoorziening voor de duur die nodig is in verband met de revalidatie, re-integratie en de begeleiding van de veteraan als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2020-01-01&g=2020-01-01).
 
@@ -110,7 +137,7 @@ De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c
 
 - c. de verrekening van andere inkomsten met de inkomensvoorziening.
 
-#### Artikel 8. Samenwerking veteranenzorg (veteranenloket en zorgcoördinatie)
+##### Artikel 8. Samenwerking veteranenzorg (veteranenloket en zorgcoördinatie)
 
 1. Onze Minister bevordert vanwege de bijzondere zorgplicht, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=5&z=2020-01-01&g=2020-01-01), de samenwerking tussen de bij de revalidatie en re-integratie en de materiële zorg betrokken uitvoeringsinstanties en de bij de maatschappelijke ondersteuning en geestelijke gezondheidszorg betrokken zorginstellingen.
 
@@ -124,37 +151,37 @@ De zorgplichten, bedoeld in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c
 
 - d. het toewijzen van zorgcoördinatoren ten behoeve van de persoonlijke begeleiding van de veteraan en zijn relaties bij de revalidatie en re-integratie, materiële zorg, maatschappelijke ondersteuning en geestelijke gezondheidszorg.
 
-#### Artikel 9. Veteranenregistratiesysteem
+##### Artikel 9. Veteranenregistratiesysteem
 
 1. Ten behoeve van de identificatie van veteranen en van de mogelijkheid tot het informeren van veteranen over de toepassing van de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=2&z=2020-01-01&g=2020-01-01) en ten behoeve van wetenschappelijk onderzoek worden, persoonsgegevens van veteranen verwerkt in het veteranenregistratiesysteem. Onze Minister is verwerkingsverantwoordelijke voor deze verwerking.
 
 2. Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de inrichting en het beheer van het veteranenregistratiesysteem en de mogelijkheid van verstrekking van persoonsgegevens aan derden die activiteiten verrichten in het kader van erkenning en waardering voor veteranen.
 
-#### Artikel 10. Wetenschappelijk onderzoek
+##### Artikel 10. Wetenschappelijk onderzoek
 
 Onze Minister bevordert wetenschappelijk onderzoek naar aandoeningen die gerelateerd kunnen zijn aan de uitoefening van de dienst onder omstandigheden en bij een missie als bedoeld in [artikel 1, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0031401&artikel=1&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 11. Wijziging [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
+##### Artikel 11. Wijziging [Wet Nationale Ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0003372)
 
 Wijzigt de Wet Nationale ombudsman.
 
-#### Artikel 12. Wijziging van de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
+##### Artikel 12. Wijziging van de [Militaire ambtenarenwet 1931](https://wetten.overheid.nl/jci1.3:c:BWBR0001952)
 
 Wijzigt de Militaire Ambtenarenwet 1931.
 
-#### Artikel 13. Voorhang
+##### Artikel 13. Voorhang
 
 De voordracht voor een krachtens deze wet vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 14. Verantwoording
+##### Artikel 14. Verantwoording
 
 Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Deze wet wordt aangehaald als: Veteranenwet.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

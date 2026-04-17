@@ -1,30 +1,56 @@
 ---
-title: "Besluit nadere vaststelling onderzoekstaak directie Internationaal Onderzoek en Beleidsevaluatie"
+title: "Besluit van de Minister van Buitenlandse Zaken van 27 mei 2019, nr. MinBuZa.2019.3926-31, houdende nadere vaststelling van de onderzoekstaak van de directie Internationaal Onderzoek en Beleidsevaluatie"
 identifier: "BWBR0042267"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-06-06
-laatste_update: 2019-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042267"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-06-06"
+last_updated: "2019-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042267"
+soort: "ministeriele-regeling"
+stam_id: "15088453"
+version_id: "25862522"
+internal_id: "C36860961"
+label_id: "15036994"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042267/2019-06-06/0"
+intitule_bron: "Stcrt.2019-30885"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-27"
+intitule_published: "2019-06-05"
+intitule_in_force: "2019-06-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-30885"
+original_signed_date: "2019-05-27"
+original_published_date: "2019-06-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-30885"
+entry_into_force_date: "2019-06-06"
+jci_1_3: "jci1.3:c:BWBR0042267&z=2019-06-06&g=2019-06-06"
+jci_1_0: "1.0:c:BWBR0042267&g=2019-06-06"
+citeertitel_status: "redactioneel"
+short_title: "Besluit nadere vaststelling onderzoekstaak directie Internationaal Onderzoek en Beleidsevaluatie"
+signed_date: "2019-05-27"
+entry_into_force: "2019-06-06"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 27 mei 2019, nr. MinBuZa.2019.3926-31, houdende nadere vaststelling van de onderzoekstaak van de directie Internationaal Onderzoek en Beleidsevaluatie
 
 Besluit:
 
-#### Artikel 1. Taakomschrijving
+##### Artikel 1. Taakomschrijving
 
 De directie Internationaal Onderzoek en Beleidsevaluatie heeft tot taak een bijdrage te leveren aan kennis over de uitvoering en effecten van het Nederlands buitenlands beleid. De directie Internationaal Onderzoek en Beleidsevaluatie voorziet daartoe in onafhankelijke evaluatie van beleid en uitvoering ten aanzien van alle beleidsterreinen binnen het raam van de Homogene Groep Internationale Samenwerking (HGIS). Voorts adviseert de directie over de programmering en uitvoering van evaluaties die onder verantwoordelijkheid van beleidsdirecties en posten worden uitgevoerd.
 
-#### Artikel 2. Werkwijze taak
+##### Artikel 2. Werkwijze taak
 
 De directie Internationaal Onderzoek en Beleidsevaluatie voert haar werkzaamheden uit met inachtneming van het als bijlage bij dit besluit gevoegde protocol.
 
-#### Artikel 3. Intrekken beschikking
+##### Artikel 3. Intrekken beschikking
 
 Het besluit van de Minister van Buitenlandse Zaken van 1 juli 1977, nr. PLVS/AOR-161082, wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

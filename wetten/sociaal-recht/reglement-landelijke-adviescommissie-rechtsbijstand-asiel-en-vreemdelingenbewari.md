@@ -1,13 +1,38 @@
 ---
 title: "Reglement Landelijke Adviescommissie Rechtsbijstand Asiel en vreemdelingenbewaring"
 identifier: "BWBR0030201"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030201"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030201"
+soort: "zbo"
+stam_id: "11378523"
+version_id: "18673542"
+internal_id: "C26055281"
+label_id: "11352074"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030201/2011-07-01/0"
+intitule_bron: "Stcrt.2011-10652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-24"
+intitule_published: "2011-07-01"
+intitule_in_force: "2011-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-10652"
+original_signed_date: "2011-05-24"
+original_published_date: "2011-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-10652"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030201&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0030201&g=2011-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2011-05-24"
+entry_into_force: "2011-07-01"
 ---
-
 # Reglement Landelijke Adviescommissie Rechtsbijstand Asiel en vreemdelingenbewaring
 
 In aanmerking nemend [artikel 8 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=8);

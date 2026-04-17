@@ -1,28 +1,52 @@
 ---
 title: "Besluit vaststelling lastenplafonds wachtgeldfonds 2003"
 identifier: "BWBR0014302"
-categorie: "Overig"
-publicatiedatum: 2003-01-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014302"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-01-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014302"
+soort: "zbo"
+stam_id: "6588493"
+version_id: "11428122"
+internal_id: "C15397771"
+label_id: "6576844"
+original_entry_into_force: "2003-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014302/2003-01-01/0"
+intitule_bron: "Stcrt.2002-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-19"
+intitule_published: "2002-11-26"
+intitule_in_force: "2002-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-228"
+original_signed_date: "2002-11-19"
+original_published_date: "2002-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-228-p19-SC37217"
+entry_into_force_date: "2003-01-01"
+jci_1_3: "jci1.3:c:BWBR0014302&z=2003-01-01&g=2003-01-01"
+jci_1_0: "1.0:c:BWBR0014302&g=2003-01-01"
+citeertitel_status: "officieel"
+signed_date: "2002-11-19"
+entry_into_force: "2003-01-01"
 ---
-
 # Besluit vaststelling lastenplafonds wachtgeldfonds 2003
 
 Gelet op [artikel 94 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=94);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De maxima die in een boekjaar ten laste van de wachtgeldfondsen komen, bedoeld in [artikel 94 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=94), worden voor het jaar 2003 vastgesteld op de percentages, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0014302&bijlage=1&z=2003-01-01&g=2003-01-01) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2003.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit vaststelling lastenplafonds wachtgeldfondsen 2003.
 

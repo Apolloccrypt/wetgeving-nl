@@ -1,13 +1,39 @@
 ---
-title: "Besluit verhoging grensbedragen ex artikelen 396 lid 1 en 397 lid 1 Boek 2 BW (uitvoering richtlijn 2006/46/EG)"
+title: "Besluit van 11 oktober 2006 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek ter uitvoering van richtlijn 2006/46/EG van het Europees Parlement en de Raad van 14 juni 2006 (PbEU L 224)"
 identifier: "BWBR0020406"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-01
-laatste_update: 2015-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020406"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-11-01"
+last_updated: "2015-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020406"
+soort: "AMvB"
+stam_id: "8671013"
+version_id: "13691182"
+internal_id: "C18495591"
+label_id: "8651194"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020406/2015-11-01/0"
+intitule_bron: "Stb.2006-474"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-11"
+intitule_published: "2006-10-24"
+intitule_in_force: "2006-10-24"
+intitule_status: "goed"
+original_publication: "Stb.2006-474"
+original_signed_date: "2006-10-11"
+original_published_date: "2006-10-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2006-474"
+entry_into_force_date: "2006-10-25"
+jci_1_3: "jci1.3:c:BWBR0020406&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0020406&g=2015-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit verhoging grensbedragen ex artikelen 396 lid 1 en 397 lid 1 Boek 2 BW (uitvoering richtlijn 2006/46/EG)"
+signed_date: "2006-10-11"
+entry_into_force: "2006-10-25"
 ---
-
 # Besluit van 11 oktober 2006 tot verhoging van de grensbedragen, genoemd in de artikelen 396 lid 1 en 397 lid 1 van boek 2 van het Burgerlijk Wetboek ter uitvoering van richtlijn 2006/46/EG van het Europees Parlement en de Raad van 14 juni 2006 (PbEU L 224)
 
 Op de voordracht van Onze Minister van Justitie van 22 augustus 2006, 5434909/06/6 Directie Wetgeving;
@@ -22,19 +48,19 @@ Gezien het nader rapport van Onze Minister van Justitie van 4 oktober 2006, nr. 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit is van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2007. De bepalingen van dit besluit kunnen worden toegepast op de jaarrekening en het bestuursverslag die worden opgesteld over het boekjaar dat is aangevangen op of na 1 januari 2006.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

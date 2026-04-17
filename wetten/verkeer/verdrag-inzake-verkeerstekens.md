@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake verkeerstekens"
 identifier: "BWBV0004310"
-categorie: "Verkeer"
-publicatiedatum: 2008-11-08
-laatste_update: 1968-11-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004310"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-11-08"
+last_updated: "1968-11-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004310"
+soort: "verdrag"
+stam_id: "10004048443"
+version_id: "10004218182"
+internal_id: "C10008341551"
+label_id: "10004034534"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004310/2008-11-08/0"
+intitule_bron: "Trb.1974-36"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1974-03-15"
+intitule_in_force: "2008-04-18"
+intitule_status: "goed"
+original_publication: "Trb.1974-36"
+original_published_date: "1974-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-36"
+entry_into_force_date: "2008-11-08"
+jci_1_3: "jci1.3:c:BWBV0004310&z=2008-11-08&g=2008-11-08"
+jci_1_0: "1.0:c:BWBV0004310&g=2008-11-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "2008-11-08"
 ---
-
 # Verdrag inzake verkeerstekens
 
 De Verdragsluitende Partijen,
@@ -18,7 +40,7 @@ Zijn de navolgende bepalingen overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daaraan in dit artikel toegekende betekenis:
 
@@ -78,7 +100,7 @@ Voor de toepassing van dit Verdrag hebben de onderstaande uitdrukkingen de daara
 
 - (u). Onder de eis dat de bestuurder andere voertuigen „voorrang” moet verlenen wordt verstaan dat hij niet mag doorrijden of een manoeuvre mag voortzetten, indien zulks de kans met zich zou brengen, dat bestuurders van andere voertuigen gedwongen worden de richting of de snelheid van hun voertuig plotseling te wijzigen.
 
-#### Artikel 2. Bijlagen bij het Verdrag
+##### Artikel 2. Bijlagen bij het Verdrag
 
 De Bijlagen bij dit Verdrag, te weten:
 
@@ -106,7 +128,7 @@ Bijlage 3: Weergave in kleuren van tekens, symbolen en onderborden zoals bedoeld
 
 zijn integrerende onderdelen van dit Verdrag.
 
-#### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
+##### Artikel 3. Verplichtingen van de Verdragsluitende Partijen
 
 - (a). De Partijen bij dit Verdrag aanvaarden het in dit Verdrag beschreven stelsel van verkeerstekens en -symbolen, alsmede van op het wegdek aangebrachte verkeerstekens, en verbinden zich dit zo spoedig mogelijk over te nemen. Hiertoe
 
@@ -122,7 +144,7 @@ zijn integrerende onderdelen van dit Verdrag.
 
 4. Niets in dit Verdrag mag zo worden uitgelegd dat dit van de Verdragsluitende Partijen zou eisen dat zij alle typen verkeerstekens en tekens op het wegdek die in dit Verdrag zijn voorgeschreven zouden moeten overnemen. De Verdragsluitende Partijen dienen integendeel het aantal typen verkeerstekens of tekens op het wegdek dat zij aannemen, tot het hoogst noodzakelijke te beperken.
 
-#### Artikel 4
+##### Artikel 4
 
 De Verdragsluitende Partijen verplichten zich ervoor te zorgen dat het verboden is:
 
@@ -132,7 +154,7 @@ De Verdragsluitende Partijen verplichten zich ervoor te zorgen dat het verboden 
 
 ### HOOFDSTUK II. VERKEERSTEKENS
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het in dit Verdrag voorgeschreven stelsel onderscheidt de volgende categorieën verkeerstekens:
 
@@ -176,7 +198,7 @@ De Verdragsluitende Partijen verplichten zich ervoor te zorgen dat het verboden 
 
 - (c). zijn de bepalingen van artikel 3, derde lid, van dit Verdrag van toepassing op alle tekens en symbolen van de typen die niet zijn gekozen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tekens dienen zodanig te worden geplaatst dat de bestuurders voor wie ze zijn bedoeld ze gemakkelijk en tijdig kunnen herkennen. Zij dienen als regel te worden geplaatst aan die zijde van de weg die overeenkomt met de rijrichting; ze kunnen echter boven de rijbaan worden geplaatst of herhaald. Elk teken dat is geplaatst aan de zijde van de weg die overeenkomt met de rijrichting, dient boven, of aan de andere zijde van de rijbaan te worden herhaald, indien de plaatselijke omstandigheden van dien aard zijn, dat de tekens niet zouden kunnen worden gezien door de bestuurders voor wie ze zijn bedoeld.
 
@@ -200,7 +222,7 @@ In dit geval wordt een van de drie volgende bebakeningsmogelijkheden toegepast:
 
 - (c). dat de afmetingen van gevaarstekens en van tekens die een bepaald voorschrift inhouden (behoudens tekens die een bijzonder voorschrift inhouden) op het grondgebied van elke Verdragsluitende Partij genormaliseerd zijn. Over het algemeen dienen er vier formaten te zijn voor elk type teken: klein, normaal, groot en zeer groot. Kleine tekens dienen te worden gebruikt overal waar de omstandigheden het gebruik van de normale tekens onmogelijk maken, of waar het verkeer alleen langzaam kan rijden; ze mogen ook worden gebruikt om een voorafgaand teken te herhalen. Grote tekens dienen op zeer brede wegen waarop met hoge snelheden wordt gereden te worden gebruikt. Zeer grote tekens dienen te worden gebruikt op wegen waarop met zeer hoge snelheden wordt gereden, zoals autosnelwegen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het verdient aanbeveling dat de nationale wetgeving bepaalt dat, teneinde ze 's nachts beter zichtbaar en leesbaar te maken, verkeerstekens langs de weg, met name gevaarstekens, tekens die een bepaald voorschrift inhouden en richtingstekens verlicht zijn dan wel retroreflecterend zijn, mits dit er niet toe leidt dat weggebruikers erdoor worden verblind.
 
@@ -212,7 +234,7 @@ In dit geval wordt een van de drie volgende bebakeningsmogelijkheden toegepast:
 
 5. Niets in dit Verdrag verbiedt het gebruik van tekens die bedoeld zijn om informatie, waarschuwingen of voorschriften te geven, en die uitsluitend van toepassing zijn op bepaalde tijden of op bepaalde dagen, en die alleen zichtbaar zijn wanneer hetgeen zij kenbaar maken ter zake dienend is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ten einde het begrijpen van tekens internationaal te vergemakkelijken, is het stelsel van verkeerstekens dat in dit Verdrag is voorgeschreven, gebaseerd op het gebruik van vormen en kleuren die kenmerkend zijn voor elke categorie tekens en, waar mogelijk, op het gebruik van beeldsymbolen in plaats van teksten. In die gevallen waarin de Verdragsluitende Partijen het noodzakelijk achten de voorgeschreven symbolen te wijzigen, mogen deze wijzigingen hun essentiële kenmerken niet veranderen.
 
@@ -228,7 +250,7 @@ In dit geval wordt een van de drie volgende bebakeningsmogelijkheden toegepast:
 
 ## GEVAARSTEKENS
 
-#### Artikel 9
+##### Artikel 9
 
 1. In Bijlage 1 bij dit Verdrag zijn in Deel A, Titel I, de modellen weergegeven voor gevaarstekens en in Deel A, Titel II, de symbolen die op deze borden dienen te worden aangebracht; Deel A, Titel II, geeft tevens enige aanwijzingen voor het gebruik. Overeenkomstig Artikel 46, tweede lid, van dit Verdrag, dient elke Staat de Secretaris-Generaal ervan in kennis te stellen of hij voor gevaarstekens Aa of Ab als model heeft gekozen.
 
@@ -246,7 +268,7 @@ Een rechthoekig bord met de langste zijde verticaal en voorzien van drie schuine
 
 ## Tekens die een bepaald voorschrift inhouden
 
-#### Artikel 10. Voorrangstekens
+##### Artikel 10. Voorrangstekens
 
 1. De tekens om weggebruikers van de bijzondere voorrangsregels bij kruisingen in kennis te stellen zijn tekens B,1, B,2, B,3 en B,4. De tekens om aan weggebruikers een voorrangsregeling op smalle weggedeelten kenbaar te maken zijn de tekens B,5 en B,6. Deze tekens zijn beschreven in Bijlage 1, Deel B, bij dit Verdrag.
 
@@ -266,15 +288,15 @@ Voor het geven van een vóórwaarschuwingsteken voor teken B,2, wordt teken B,1 
 
 8. Indien op een weg voor een kruising wordt gewaarschuwd door middel van een gevaarsteken dat een van de symbolen A,19 bevat, of indien de weg bij die kruising een voorrangsweg is en als zodanig is aangeduid door tekens B,3 zoals bedoeld in het zevende lid van dit artikel, dient op alle andere wegen bij die kruising een teken B,1 of B,2 te worden geplaatst; het plaatsen van tekens B,1 of B,2 is echter niet verplicht op wegen zoals paden of niet-verharde wegen, waar bestuurders bij kruisingen ook voorrang dienen te verlenen wanneer een dergelijk teken ontbreekt. Een teken B,2 dient uitsluitend te worden geplaatst indien het bevoegde gezag het raadzaam acht van bestuurders te eisen dat zij stoppen, met name uit hoofde van slecht zicht voor bestuurders op de weggedeelten aan beide zijden van de kruising die zij naderen.
 
-#### Artikel 11. Verbodstekens of beperkende tekens
+##### Artikel 11. Verbodstekens of beperkende tekens
 
 Deel C van Bijlage 1 bij dit Verdrag beschrijft de verbodstekens en beperkende tekens en geeft hun betekenis weer. Het beschrijft tevens de tekens die het einde van deze verboden en beperkingen, of van een van deze, aanduiden.
 
-#### Artikel 12. Gebodstekens
+##### Artikel 12. Gebodstekens
 
 Deel D van Bijlage 1 bij dit Verdrag beschrijft de gebodstekens en geeft hun betekenis weer.
 
-#### Artikel 13. Bepalingen die op alle tekens beschreven in Bijlage 1, Delen C en D, bij dit Verdrag van toepassing zijn
+##### Artikel 13. Bepalingen die op alle tekens beschreven in Bijlage 1, Delen C en D, bij dit Verdrag van toepassing zijn
 
 1. Verbods- en gebodstekens en beperkende tekens dienen te worden geplaatst in de onmiddellijke nabijheid van het punt waar het gebod, de beperking of het verbod begint en kunnen worden herhaald indien het bevoegde gezag zulks noodzakelijk acht. Indien het bevoegde gezag het raadzaam acht, uit hoofde van zichtbaarheid of om weggebruikers van te voren te waarschuwen, kunnen deze tekens evenwel op een passende afstand worden geplaatst vóór het punt waar het gebod, de beperking of het verbod van toepassing is. Onder de tekens die vóór het punt zijn geplaatst waar het gebod, de beperking of het verbod van toepassing is, wordt een onderbord H,1 geplaatst, weergegeven in Bijlage 1, Deel H.
 
@@ -286,7 +308,7 @@ Deel D van Bijlage 1 bij dit Verdrag beschrijft de gebodstekens en geeft hun bet
 
 5. Het einde van de in het vierde lid hierboven genoemde zones, wordt aangegeven op de wijze omschreven in Bijlage 1, Deel E, Titel II, paragraaf 8, onder (b), bij dit Verdrag.
 
-#### Artikel 13bis. Tekens die een bijzonder voorschrift inhouden
+##### Artikel 13bis. Tekens die een bijzonder voorschrift inhouden
 
 1. In deel E van Bijlage 1 bij dit Verdrag worden de tekens beschreven die een bijzonder voorschrift inhouden en wordt hun betekenis verklaard.
 
@@ -300,7 +322,7 @@ Deel D van Bijlage 1 bij dit Verdrag beschrijft de gebodstekens en geeft hun bet
 
 ## Informatieve tekens
 
-#### Artikel 14
+##### Artikel 14
 
 1. In de delen F en G van Bijlage 1 bij dit Verdrag worden de tekens beschreven die nuttige informatie kenbaar maken aan weggebruikers, of worden voorbeelden gegeven van deze tekens; in deze Delen worden tevens enkele aanwijzingen voor het gebruik gegeven.
 
@@ -310,33 +332,33 @@ Deel D van Bijlage 1 bij dit Verdrag beschrijft de gebodstekens en geeft hun bet
 
 4. Een teken mag geen opschriften bevatten in meer dan twee talen.
 
-#### Artikel 15. Vooraanduidingstekens
+##### Artikel 15. Vooraanduidingstekens
 
 Vooraanduidingstekens dienen op zodanige afstand vóór de kruising te worden geplaatst dat hun doeltreffendheid overdag en 's nachts zo groot mogelijk is, met inachtneming van de toestand van de weg en de verkeersomstandigheden, met name van de gebruikelijke snelheid van de voertuigen en van de afstand waarop het teken zichtbaar is; deze afstand hoeft niet groter te zijn dan 50 m binnen de bebouwde kom, maar mag niet minder zijn dan 500 m op autosnelwegen en op andere wegen met snelverkeer. De tekens kunnen worden herhaald. Een onderbord kan de afstand aangeven tussen het teken en de kruising; deze afstand kan ook op het onderste deel van het teken zelf worden aangegeven.
 
-#### Artikel 16. Richtingtekens
+##### Artikel 16. Richtingtekens
 
 1. Eén richtingteken mag de namen van verschillende plaatsen vermelden; de namen dienen dan op het bord onder elkaar te staan. De letters die voor één plaatsnaam zijn gebruikt mogen alleen groter zijn dan die voor de andere, indien de betrokken stad de grootste is.
 
 2. Wanneer afstanden zijn aangegeven, dienen de desbetreffende cijfers op één lijn te zijn geplaatst met de plaatsnaam. Op pijlvormige richtingborden dienen deze cijfers tussen de plaatsnaam en de punt van de pijl te worden geplaatst; op rechthoekige borden dienen zij achter de plaatsnaam te worden geplaatst.
 
-#### Artikel 17. Tekens ter identificatie van een weg
+##### Artikel 17. Tekens ter identificatie van een weg
 
 De tekens die worden gebruikt om wegen te identificeren, hetzij door het aangeven van hun nummer, samengesteld uit cijfers, uit letters of uit een combinatie van cijfers en letters, hetzij door het aangeven van hun naam, dienen te bestaan uit dat nummer of die naam gevat in een rechthoek of een schild. Verdragsluitende Partijen die een wegenclassificatiestelsel hebben, kunnen de rechthoek echter vervangen door het symbool van hun wegenclassificatie.
 
-#### Artikel 18. Tekens ter identificatie van een plaats of plek
+##### Artikel 18. Tekens ter identificatie van een plaats of plek
 
 De tekens die worden gebruikt ter identificatie van een plaats of plek kunnen worden gebruikt om de grens tussen twee landen, of de grens tussen twee bestuurlijke onderdelen van hetzelfde land, of de naam van een rivier, een bergpas, een mooi plekje, enz. aan te duiden. Deze tekens dienen op opvallende wijze te verschillen van de in artikel 13bis, tweede lid, bij dit Verdrag, genoemde tekens.
 
-#### Artikel 19. Bevestigingstekens
+##### Artikel 19. Bevestigingstekens
 
 Bevestigingstekens kunnen worden gebruikt om de richting van een weg te bevestigen, indien het bevoegde gezag zulks noodzakelijk acht, bijvoorbeeld waar de weg een grote bebouwde kom verlaat. Deze tekens dienen de namen van één of meer plaatsen te vermelden, zoals bepaald in artikel 16, eerste lid, van dit Verdrag. Wanneer de afstanden worden aangegeven, dienen de desbetreffende cijfers achter de plaatsnaam te worden geplaatst.
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21. Bepalingen die algemeen op informatieve tekens van toepassing zijn
+##### Artikel 21. Bepalingen die algemeen op informatieve tekens van toepassing zijn
 
 1. De informatieve tekens zoals bedoeld in de artikelen 15 tot en met 19 van dit Verdrag, dienen te worden geplaatst waar het bevoegde gezag zulks raadzaam acht. Andere informatieve tekens dienen uitsluitend te worden geplaatst waar het bevoegde gezag zulks van wezenlijk belang acht, zulks met inachtneming van de bepalingen van artikel 6, eerste lid; met name de tekens F,2 tot en met F,7 dienen uitsluitend te worden geplaatst op wegen waarop voorzieningen voor reparaties in noodgevallen, benzineverkoop, onderdak en het verkrijgen van verfrissingen en maaltijden zeldzaam zijn.
 
@@ -344,13 +366,13 @@ Vervallen
 
 #### Tekens betreffende stilstaan en parkeren
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### HOOFDSTUK III. VERKEERSLICHTEN
 
-#### Artikel 23. Lichten voor het verkeer met voertuigen
+##### Artikel 23. Lichten voor het verkeer met voertuigen
 
 1. Onder voorbehoud van de bepalingen in het twaalfde lid van dit artikel, zijn de enige lichten die mogen worden gebruikt als lichten om het verkeer met voertuigen te regelen, met uitzondering van die welke uitsluitend zijn bestemd voor voertuigen ten dienste van het openbaar vervoer, de volgende met de hieronder aangegeven betekenis:
 
@@ -406,7 +428,7 @@ Vervallen
 
 13. In die gevallen waarin verkeerslichten uitsluitend betrekking hebben op fietsers, kan deze beperking indien zulks nodig is om verwarring te voorkomen, worden aangeduid door het silhouet van een fiets in het licht zelf aan te brengen of door een licht van klein formaat te gebruiken, aangevuld met een rechthoekig bord waarop een fiets is afgebeeld.
 
-#### Artikel 24. Voetgangerslichten
+##### Artikel 24. Voetgangerslichten
 
 1. De enige lichten die kunnen worden gebruikt als voetgangerslichten zijn de volgende, met de hieronder aangegeven betekenis;
 
@@ -432,11 +454,11 @@ Het rode licht dient bij voorkeur de vorm te hebben van een stilstaande voetgang
 
 ### HOOFDSTUK IV. OP HET WEGDEK AANGEBRACHTE TEKENS
 
-#### Artikel 25
+##### Artikel 25
 
 Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bevoegde gezag zulks noodzakelijk acht, om het verkeer te regelen of om weggebruikers te waarschuwen of te geleiden. Zij kunnen zowel alleen worden gebruikt als te zamen met andere verkeerstekens om de betekenis daarvan extra nadruk te verlenen of te verduidelijken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een teken in de lengterichting dat bestaat uit een doorgetrokken streep op het wegdek van de rijbaan betekent dat het voertuigen is verboden zich geheel of gedeeltelijk over deze streep te begeven en, indien deze streep twee rijrichtingen scheidt, dat het voertuigen verboden is aan de zijde van de streep te rijden die voor de bestuurder ligt tegenover de kant van de rijbaan overeenkomstig zijn rijrichting. Een teken in de lengterichting dat uit twee doorgetrokken strepen bestaat heeft dezelfde betekenis.
 
@@ -454,7 +476,7 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 4. Voor de toepassing van dit artikel worden niet als strepen in de lengterichting beschouwd: strepen die worden gebruikt om de zijkanten van de rijbaan aan te geven ten einde deze beter zichtbaar te maken, strepen die een geheel vormen met strepen die dwars op het wegdek zijn aangebracht om er parkeerplaatsen op de rijbaan mee aan te duiden, of strepen die worden gebruikt om een verbod of beperking voor parkeren of stilstaan aan te duiden.
 
-#### Artikel 26bis
+##### Artikel 26bis
 
 1. Het markeren van rijstroken die zijn voorbehouden aan bepaalde categorieën voertuigen, met inbegrip van fietsstroken, dient te geschieden door middel van strepen die zich duidelijk onderscheiden van andere doorgetrokken of onderbroken strepen op de rijbaan, met name door een grotere breedte van de streep en een kortere lengte van de onderbrekingen in de streep.
 
@@ -462,7 +484,7 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 3. De nationale wetgeving bepaalt onder welke omstandigheden andere voertuigen van de in het eerste lid genoemde rijstrook gebruik mogen maken of deze mogen overschrijden.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een teken dat dwars op het wegdek is aangebracht en dat bestaat uit een doorgetrokken streep die dwars over één of meer rijstroken loopt, geeft de lijn aan waarachter bestuurders moeten stilstaan wanneer zij door teken B,2 STOP, zoals bedoeld in artikel 10, derde lid, van dit Verdrag, verplicht worden te stoppen. Een dergelijk teken kan ook worden gebruikt om de lijn aan te geven waarachter bestuurders moeten stilstaan wanneer zij verplicht worden te stoppen door een verkeerslicht, of door een teken dat wordt gegeven door een bevoegde ambtenaar die hét verkeer regelt, of vóór een overweg. Het woord STOP mag ook op het wegdek van de rijbaan worden aangebracht als vóóraanduiding van de bij teken B,2 behorende tekens.
 
@@ -474,7 +496,7 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 5. Om oversteekplaatsen voor fietsers aan te duiden, dienen ofwel dwars op het wegdek aangebrachte tekens te worden gebruikt, ofwel andere tekens, die niet kunnen worden verward met die van voetgangersoversteekplaatsen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Andere tekens op het wegdek van de rijbaan aangebracht, zoals pijlen, strepen die parallel of schuin lopen of opschriften, kunnen worden gebruikt om aanduidingen die door verkeerstekens op borden zijn gegeven te herhalen, of om weggebruikers inlichtingen te geven die niet op doeltreffende wijze door middel van verkeerstekens of borden kunnen worden overgebracht. Dergelijke tekens dienen met name te worden gebruikt om de begrenzing van parkeerzones of -stroken aan te geven, om bus- of trolleybushalteplaatsen aan te duiden op plaatsen waar parkeren is verboden, en voor het voorsorteren vóór kruisingen. Indien echter een pijl is aangebracht op het wegdek van een rijbaan, waar deze door middel van strepen in de lengterichting is verdeeld in rijstroken, dienen bestuurders de richting of één van de richtingen te volgen die is (zijn) aangegeven op de rijstrook waarop ze zich bevinden.
 
@@ -482,7 +504,7 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 3. Een zigzagstreep aan de zijde van de rijbaan betekent dat parkeren aan die zijde van de rijbaan over de gehele lengte van die streep verboden is. Een dergelijke lijn, eventueel in combinatie met het woord ,BUS’ of met de letter ,A’, kan worden gebruikt om een bushalte of trolleybushalte aan te duiden.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De op het wegdek aangebrachte tekens, genoemd in artikelen 26 tot en met 28 van dit Verdrag, kunnen op het wegdek van de rijbaan worden geschilderd of er op andere wijze op worden aangebracht, mits deze even doeltreffend is.
 
@@ -492,7 +514,7 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 4. Tekens op het wegdek die zijn bedoeld voor rijdende voertuigen moeten door bestuurders tijdig gemakkelijk kunnen worden herkend. Ze moeten overdag en 's nachts zichtbaar zijn. Het verdient aanbeveling dat deze tekens, in het bijzonder in gebieden met onvoldoende verlichting, retroreflecterend zijn.
 
-#### Artikel 29bis
+##### Artikel 29bis
 
 1. Wanneer vast aangebrachte tekens op het wegdek voor een bepaald tijdvak moeten worden gewijzigd, in het bijzonder vanwege wegwerkzaamheden of omleidingen, moeten tijdelijke tekens worden aangebracht in kleuren die afwijken van de kleuren die voor vast aangebrachte tekens worden gebruikt.
 
@@ -500,13 +522,13 @@ Op het wegdek van de rijbaan aangebrachte tekens worden gebruikt, indien het bev
 
 3. Tijdelijk aangebrachte tekens moeten bij voorkeur retroreflecterend zijn en mogen worden voorzien van bakens, kattenogen of reflectoren om de verkeersgeleiding te verbeteren.
 
-#### Artikel 30
+##### Artikel 30
 
 Bijlage 2 bij dit Verdrag bevat een aantal aanbevelingen met betrekking tot de indeling en de ontwerpen voor tekens die op het wegdek worden aangebracht.
 
 ### HOOFDSTUK V. VERSCHILLENDE BEPALINGEN
 
-#### Artikel 31. Tekens voor werken in uitvoering
+##### Artikel 31. Tekens voor werken in uitvoering
 
 1. De begrenzingen van werken in uitvoering op de rijbaan dienen duidelijk te worden aangegeven.
 
@@ -516,13 +538,13 @@ Bijlage 2 bij dit Verdrag bevat een aantal aanbevelingen met betrekking tot de i
 
 - (b). mogen lichten en reflectoren die de begrenzingen aanduiden van werken die een scheiding van de twee verkeersrichtingen vormen, wit of lichtgeel zijn.
 
-#### Artikel 32. Bebakening van reflecterende aard of door middel van lichten
+##### Artikel 32. Bebakening van reflecterende aard of door middel van lichten
 
 Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur of hetzelfde stelsel van kleuren te gebruiken voor de lichten of het reflecterende materiaal die worden gebruikt om de zijkant van de rijbaan aan te duiden.
 
 ## OVERWEGEN
 
-#### Artikel 33
+##### Artikel 33
 
 - (a). Wanneer bij een overweg een signaalsysteem is geïnstalleerd om te waarschuwen voor naderende treinen of om te waarschuwen dat de bomen of halve bomen op het punt staan te worden gesloten, dan dient dit te bestaan uit een rood knipperlicht of uit twee rode lichten die beurtelings knipperen, zoals bepaald in artikel 23, eerste lid, onder **(b)**, van dit Verdrag. Evenwel:
 
@@ -536,13 +558,13 @@ Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur o
 
 3. Overeenkomstig artikel 10, vierde lid, van dit Verdrag, kan teken B, 2 STOP bij een overweg worden geplaatst die niet is uitgerust met hele of halve bomen of met lichtsignalen die voor naderende treinen waarschuwen; bij overwegen waar dit teken is geplaatst, dienen bestuurders te stoppen bij de stopstreep of indien er geen stopstreep is, ter hoogte van het teken, en niet door te rijden dan nadat zij zich ervan hebben overtuigd dat er geen trein in aantocht is.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Bij overwegen die zijn uitgerust met bomen, of met halve bomen die schuin tegenover elkaar aan elke zijde van de spoorlijn zijn geplaatst, betekent de aanwezigheid van dergelijke bomen of halve bomen dwars over de weg dat weggebruikers niet verder mogen rijden dan tot de dichtstbijzijnde boom of halve boom; de beweging van de bomen en de halve bomen, naar een positie dwars over de weg, heeft dezelfde betekenis.
 
 2. Het branden van het rode licht of de rode lichten zoals vermeld in artikel 33, eerste lid, onder **(a),** van dit Verdrag, of het in werking zijn van het geluidssignaal, zoals vermeld in genoemd eerste lid, betekenen eveneens dat weggebruikers niet verder mogen rijden dan tot de stopstreep, of, indien er geen stopstreep is, niet verder dan tot het licht of het apparaat waarin het geluidssignaal is gemonteerd. Wanneer het amber licht van het driekleurenstelsel, vermeld in artikel 33, eerste lid, onder **(a)** (i), brandt, betekent dit dat weggebruikers niet verder mogen rijden dan tot de stopstreep, of, indien er geen stopstreep is, niet verder dan tot dat licht, tenzij het betrokken voertuig het amber licht zo dicht is genaderd wanneer dat licht gaat branden, dat het voertuig niet meer op veilige wijze vóór het teken tot stilstand kan worden gebracht.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De bomen en halve bomen van overwegen dienen duidelijk te zijn aangegeven met afwisselend witte en rode, of rode en gele, of zwarte en witte, of zwarte en gele strepen. Zij kunnen echter ook helemaal wit of helemaal geel zijn mits in het midden een grote, rode schijf is aangebracht.
 
@@ -552,7 +574,7 @@ Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur o
 
 - (b). een kruising van een spoorbaan en een onverharde weg met zeer weinig verkeer, of een voetpad.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Wegens het bijzondere gevaar dat overwegen opleveren, verplichten de Verdragsluitende Partijen zich ertoe:
 
@@ -576,7 +598,7 @@ Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur o
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 37
+##### Artikel 37
 
 1. Dit Verdrag is tot 31 december 1969 in het Hoofdkwartier der Verenigde Naties te New York opengesteld voor ondertekening door alle Lid-Staten van de Verenigde Naties, van een van de gespecialiseerde organisaties of van de Internationale Organisatie voor Atoomenergie of door de Staten die Partij zijn bij het Statuut van het Internationale Gerechtshof, alsmede door elke andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd Partij te worden bij dit Verdrag.
 
@@ -584,7 +606,7 @@ Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur o
 
 3. Dit Verdrag blijft opengesteld voor toetreding door alle Staten bedoeld in het eerste lid van dit artikel. De akten van toetreding worden nedergelegd bij de Secretaris-Generaal.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Elke Staat kan bij de ondertekening of bekrachtiging van dit Verdrag, of bij toetreding tot het Verdrag, alsook te allen tijde daarna, door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat het Verdrag van toepassing wordt voor een of meer der gebieden voor welker buitenlandse betrekkingen hij verantwoordelijk is. Het Verdrag wordt van toepassing voor het gebied of de gebieden genoemd in de kennisgeving dertig dagen na ontvangst van de kennisgeving door de Secretaris-Generaal dan wel op de datum waarop het Verdrag in werking treedt in de Staat die de kennisgeving heeft afgelegd, welke van beide data later valt.
 
@@ -592,17 +614,17 @@ Elke Verdragsluitende Partij dient voor haar gehele grondgebied dezelfde kleur o
 
 3. Elke Staat die een verklaring heeft afgelegd als bedoeld in het eerste lid van dit artikel kan op elk later tijdstip door middel van een aan de Secretaris-Generaal gerichte kennisgeving verklaren dat het Verdrag niet langer van toepassing zal zijn voor het in de kennisgeving genoemde gebied en het Verdrag zal dan niet langer van toepassing zijn voor dit gebied met ingang van een jaar te rekenen van de datum waarop de Secretaris-Generaal de kennisgeving heeft ontvangen.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum van nederlegging van de vijftiende akte van bekrachtiging of toetreding.
 
 2. Voor elke Staat die dit Verdrag bekrachtigt of ertoe toetreedt nadat de vijftiende akte van bekrachtiging of van toetreding is nedergelegd, treedt het Verdrag in werking twaalf maanden na de datum waarop deze Staat zijn akte van bekrachtiging of van toetreding heeft nedergelegd.
 
-#### Artikel 40
+##### Artikel 40
 
 Bij zijn inwerkingtreding beëindigt en vervangt dit Verdrag tussen de Verdragsluitende Partijen het Verdrag tot het brengen van eenheid in de verkeerstekens, opengesteld voor ondertekening te Genève op 30 maart 1931, of het Protocol nopens de verkeerstekens, opengesteld voor ondertekening te Genève op 19 september 1949.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Wanneer dit Verdrag een jaar van kracht is geweest, kan elke Verdragsluitende Partij een of meer wijzigingen in dit Verdrag voorstellen. De tekst van de wijzigingsvoorstellen, vergezeld van een memorie van toelichting, wordt toegezonden aan de Secretaris-Generaal, die deze ter kennis van alle Verdragsluitende Partijen brengt. De Verdragsluitende Partijen hebben de gelegenheid hem, binnen een tijdvak van twaalf maanden te rekenen van de datum van kennisgeving, mede te delen of zij**: (a)** de wijziging aanvaarden; of **(b)** de wijziging verwerpen; of **(c)** wensen dat een conferentie wordt bijeengeroepen ter bestudering van de wijziging. De Secretaris-Generaal doet de tekst van de voorgestelde wijziging tevens toekomen aan alle andere Staten, als bedoeld in artikel 37, eerste lid, van dit Verdrag.
 
@@ -620,23 +642,23 @@ Bij zijn inwerkingtreding beëindigt en vervangt dit Verdrag tussen de Verdragsl
 
 6. Indien de wijziging niet wordt geacht te zijn aanvaard overeenkomstig het tweede lid van dit artikel, en indien aan de in het derde lid van dit artikel voorgeschreven voorwaarden met betrekking tot het bijeenroepen van een conferentie niet is voldaan, wordt de voorgestelde wijziging geacht te zijn verworpen.
 
-#### Artikel 42
+##### Artikel 42
 
 Elke Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een tot de Secretaris-Generaal gerichte schriftelijke kennisgeving. De opzegging wordt van kracht een jaar na de datum van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit Verdrag houdt op van kracht te zijn indien het aantal Verdragsluitende Partijen gedurende een tijdvak van twaalf achtereenvolgende maanden minder is dan vijf.
 
-#### Artikel 44
+##### Artikel 44
 
 Een geschil tussen twee of meer Verdragsluitende Partijen met betrekking tot de uitlegging of toepassing van dit Verdrag, welk geschil de Partijen niet door onderhandelingen, of door andere middelen tot regeling van een geschil kunnen oplossen, kan, op verzoek van een van de betrokken Verdragsluitende Partijen, bij het Internationale Gerechtshof ter beslissing aanhangig worden gemaakt.
 
-#### Artikel 45
+##### Artikel 45
 
 Niets in dit Verdrag mag zo worden uitgelegd dat een Verdragsluitende Partij daardoor zou worden belet de maatregelen te nemen die deze Partij noodzakelijk acht voor haar binnenlandse of buitenlandse veiligheid en die verenigbaar zijn met het Handvest van de Verenigde Naties, en beperkt blijven tot de vereisten der gegeven omstandigheden.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Elke Staat kan bij de ondertekening van dit Verdrag, of bij de nederlegging van zijn akte van bekrachtiging of van toetreding, verklaren dat hij zich niet gebonden acht door artikel 44 van dit Verdrag. Andere Verdragsluitende Partijen zijn niet gebonden door artikel 44 met betrekking tot een Verdragsluitende Partij die een dergelijke verklaring heeft afgelegd.
 
@@ -660,7 +682,7 @@ Niets in dit Verdrag mag zo worden uitgelegd dat een Verdragsluitende Partij daa
 
 - (b). wijzigt deze bepalingen in dezelfde mate voor de andere Verdragsluitende Partijen ten aanzien van hun betrekkingen met de Verdragsluitende Partij die het voorbehoud heeft gemaakt.
 
-#### Artikel 47
+##### Artikel 47
 
 Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 41 en 46 van dit Verdrag, stelt de Secretaris-Generaal alle Staten, bedoeld in artikel 37, eerste lid, in kennis van:
 
@@ -676,7 +698,7 @@ Behalve de verklaringen, mededelingen en kennisgevingen bedoeld in de artikelen 
 
 - f). De beëindiging van dit Verdrag ingevolge artikel 43.
 
-#### Artikel 48
+##### Artikel 48
 
 De oorspronkelijke tekst van dit Verdrag, gedaan in één enkel exemplaar in de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle vijf teksten gelijkelijk authentiek, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten bedoeld in artikel 37, eerste lid, van dit Verdrag.
 
@@ -684,21 +706,21 @@ De oorspronkelijke tekst van dit Verdrag, gedaan in één enkel exemplaar in de 
 
 #### I. Modellen
 
-#### 1
+##### 1
 
 De tekens ,A’, gevaarstekens, dienen te zijn zoals model Aa of als model Ab, die beide hier zijn beschreven en zijn afgebeeld in Bijlage 3, behalve de tekens A,28 en A,29 die respectievelijk in paragraaf 28 en 29 hieronder zijn beschreven. Model Aa is een gelijkzijdige driehoek met één zijde horizontaal en met de daartegenover liggende hoek er boven; het vlak is wit of geel en de rand rood. Model Ab is een vierkant met één diagonaal verticaal; het vlak is geel en de rand, die slechts de omtrek aangeeft, is zwart. Tenzij hun omschrijving anderszins voorschrijft, dienen de symbolen die op deze tekens zijn aangebracht zwart of donkerblauw te zijn.
 
-#### 2
+##### 2
 
 De zijde van het teken model Aa van het normale formaat dient ongeveer 90 cm lang te zijn; die van het kleine model Aa dient ten minste 60 cm lang te zijn. De zijde van het teken Ab van het normale formaat dient ongeveer 60 cm lang te zijn; die van het kleine model Ab dient ten minste 40 cm lang te zijn.
 
-#### 3
+##### 3
 
 Wat betreft de keuze tussen modellen Aa en Ab, zie artikel 5, tweede lid, en artikel 9, eerste lid, bij dit Verdrag.
 
 #### II. Symbolen voor gevaarstekens en aanwijzingen voor het gebruik van dergelijke tekens
 
-#### 1. Gevaarlijke bocht of bochten
+##### 1. Gevaarlijke bocht of bochten
 
 Een waarschuwing voor een gevaarlijke bocht of een opeenvolging van gevaarlijke bochten dient door een van de volgende symbolen te worden aangegeven, naar gelang welk teken van toepassing is:
 
@@ -710,33 +732,33 @@ Een waarschuwing voor een gevaarlijke bocht of een opeenvolging van gevaarlijke 
 
 - d. A,1d: dubbele bocht, of een opeenvolging van meer dan twee bochten, waarvan de eerste naar rechts is.
 
-#### 2. Gevaarlijke nederwaartse helling
+##### 2. Gevaarlijke nederwaartse helling
 
 a. Ten einde te waarschuwen voor een steile nederwaartse helling dient symbool A,2a te worden gebruikt met teken model Aa, of symbool A,2b met teken model Ab.
 
 b. Het linkerdeel van symbool A,2a dient in de linkerhoek van het bord te staan en de onderkant dient de hele breedte van het bord te beslaan. Het cijfer op symbolen A,2a en A,2b geeft de hellingshoek aan in percenten uitgedrukt; dit kan worden vervangen door de verhouding (1:10). De Verdragsluitende Partijen mogen echter, met inachtneming voor zover mogelijk van de bepalingen van artikel 5, tweede lid, onder b, bij dit Verdrag, in plaats van symbool A,2a of A,2b, symbool A, 2c gebruiken indien zij teken model Aa hebben aangenomen, en symbool A,2d indien zij teken model Ab hebben aangenomen.
 
-#### 3. Steile opwaartse helling
+##### 3. Steile opwaartse helling
 
 a. Ten einde te waarschuwen voor een steile opwaartse helling dient symbool A,3a te worden gebruikt, met teken model Aa, of symbool A,3b, met teken model Ab.
 
 b. Het rechterdeel van symbool A,3a dient in de rechterhoek van het bord te staan en de onderkant dient de hele breedte van het bord te beslaan. Het cijfer op de symbolen A,3a en A,3b geeft de hellingshoek aan in percenten uitgedrukt; dit kan worden vervangen door de verhouding (1:10). De Verdragsluitende Partijen die symbool A,2c hebben gekozen als symbool voor een gevaarlijke nederwaartse helling, mogen echter symbool A,3c gebruiken in plaats van A,3a, en Verdragsluitende Partijen die symbool A,2d hebben gekozen, mogen symbool A,3d gebruiken in plaats van A,3b.
 
-#### 4. Versmalling van de rijbaan
+##### 4. Versmalling van de rijbaan
 
 De waarschuwing dat de rijbaan verderop smaller wordt, dient te worden gegeven door symbool A,4a of door een symbool dat de begrenzing van de weg duidelijker weergeeft, zoals A,4b.
 
-#### 5. Beweegbare brug
+##### 5. Beweegbare brug
 
 a. De waarschuwing voor een beweegbare brug dient te worden gegeven door symbool A,5.
 
 b. Een rechthoekig bord van model A,29a, beschreven in paragraaf 29 hieronder, kan worden geplaatst onder het gevaarsteken met symbool A,5, mits de borden van model A,29b en A,29c, in die paragraaf beschreven, zijn opgesteld op ongeveer eenderde en tweederde van de afstand tussen het teken met symbool A,5 en de beweegbare brug.
 
-#### 6. Weg die uitkomt op een kade of rivieroever
+##### 6. Weg die uitkomt op een kade of rivieroever
 
 De waarschuwing dat de weg even verder uitkomt op een kade of rivieroever dient te worden gegeven door symbool A,6.
 
-#### 7. Ongelijk wegdek
+##### 7. Ongelijk wegdek
 
 a. De waarschuwing voor uithollingen of kuilen, hoge bruggetjes of richels of voor weggedeelten waar de rijbaan zich in slechte toestand bevindt, dient te worden gegeven door symbool A,7a.
 
@@ -744,21 +766,21 @@ b. Een waarschuwing voor een hoog bruggetje of een richel kan worden gegeven doo
 
 c. Een waarschuwing voor een uitholling of kuil kan worden gegeven door symbool A,7c in plaats van door symbool A,7a.
 
-#### 8. Gevaarlijke berm
+##### 8. Gevaarlijke berm
 
 a. De waarschuwing voor een weggedeelte waar de berm uitzonderlijk gevaarlijk is, dient te worden gegeven door symbool A,8.
 
 b. Het symbool mag in spiegelbeeld worden aangebracht.
 
-#### 9. Slipgevaar
+##### 9. Slipgevaar
 
 De waarschuwing dat het komende weggedeelte uitzonderlijk glad kan zijn, dient te worden aangegeven door symbool A,9.
 
-#### 10. Opspattend steenslag
+##### 10. Opspattend steenslag
 
 De waarschuwing voor een weggedeelte met opspattend steenslag dient te worden gegeven door symbool A,10a, samen met het teken model Aa, of door symbool A,10b met teken model Ab.
 
-#### 11. Steenval
+##### 11. Steenval
 
 a. De waarschuwing voor een weggedeelte waar het gevaar bestaat van steenval en als gevolg daarvan de aanwezigheid van stenen op de rijbaan dient te worden aangegeven door symbool A,11a, samen met teken model Aa, of door symbool A,11b, samen met teken model Ab.
 
@@ -766,47 +788,47 @@ b. Het rechterdeel van het symbool dient in beide gevallen in de rechterhoek van
 
 c. Het symbool mag in spiegelbeeld worden aangebracht.
 
-#### 12. Voetgangersoversteekplaats
+##### 12. Voetgangersoversteekplaats
 
 a. De waarschuwing voor een voetgangersoversteekplaats, die is aangegeven door tekens op het wegdek dan wel door tekens E,12, dient te worden gegeven door symbool A,12, waarvan twee modellen bestaan: A,12a en A,12b.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 13. Kinderen
+##### 13. Kinderen
 
 a. De waarschuwing voor een weggedeelte dat veel door kinderen wordt gebruikt, zoals bij de uitgang van een school of speelplaats, dient te worden gegeven door symbool A,13.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 14. Oversteekplaats fietsers
+##### 14. Oversteekplaats fietsers
 
 a. De waarschuwing dat men een plaats nadert waar fietsers zich dikwijls op de weg begeven of deze oversteken, dient te worden aangegeven door symbool A,14.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 15. Overstekend vee of wild
+##### 15. Overstekend vee of wild
 
 a. De waarschuwing voor een weggedeelte waar dieren plegen over te steken, dient te worden aangegeven door een symbool met het silhouet van het dier, vee of wild, dat men daar het veelvuldigst op de weg aantreft, zoals symbool A,15a voor vee en symbool A,15b voor wild.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 16. Werk in uitvoering
+##### 16. Werk in uitvoering
 
 De waarschuwing dat op het komende weggedeelte werk in uitvoering is, dient te worden gegeven door symbool A,16.
 
-#### 17. Verkeerslichten
+##### 17. Verkeerslichten
 
 a. Indien het onontbeerlijk wordt geacht het verkeer te waarschuwen dat het een weggedeelte nadert waarop het verkeer door verkeerslichten van het driekleurenstelsel wordt geregeld – omdat weggebruikers een dergelijk weggedeelte niet verwachten – dient symbool A,17 te worden gebruikt. Er zijn drie modellen van symbool A,17, A,17a, A,17b en A,17c, die overeenkomen met de rangschikking van de lichten van het driekleurenstelsel zoals beschreven in artikel 23, vierde tot en met zesde lid, bij dit Verdrag.
 
 b. Dit symbool is in dezelfde drie kleuren als die van de lichten waarvoor het waarschuwt.
 
-#### 18. Kruisingen waar de voorrang is zoals voorgeschreven bij de algemene voorrangsregel
+##### 18. Kruisingen waar de voorrang is zoals voorgeschreven bij de algemene voorrangsregel
 
 a. De waarschuwing voor een kruising waar de voorrang is zoals voorgeschreven bij de algemene voorrangsregel die in het land van kracht is, dient te worden gegeven door teken Aa met symbool A,18a, of door teken Ab met symbool A,18b.
 
 b. Symbolen A,18a en A,18b mogen worden vervangen door symbolen die de aard van de kruising duidelijker aangeven, zoals A,18c, A,18d, A,18e, A,18f en A,18g.
 
-#### 19. Voorrangskruisingen
+##### 19. Voorrangskruisingen
 
 a. De waarschuwing voor een voorrangskruising dient te worden gegeven door symbool A,19a.
 
@@ -814,7 +836,7 @@ b. Symbool A,19a mag worden vervangen door symbolen die de aard van de kruising 
 
 c. Deze symbolen mogen alleen op een weg worden geplaatst indien tekens B,1 of B,2 zijn geplaatst op de weg of wegen waarmee deze weg de kruising vormt en waarvoor de waarschuwing is bedoeld, of indien deze wegen zodanig van aard zijn (bijvoorbeeld paden of onverharde wegen) dat, ingevolge de nationale wetgeving, bestuurders die zich daarop bevinden bij de kruising voorrang moeten verlenen, ook indien dergelijke tekens niet zijn geplaatst. Het gebruik van deze symbolen op wegen waarop teken B,3 is aangebracht, dient tot uitzonderlijke gevallen te worden beperkt.
 
-#### 20. Kruisingen waarop aan de bestuurders op de kruisende weg voorrang moet worden verleend
+##### 20. Kruisingen waarop aan de bestuurders op de kruisende weg voorrang moet worden verleend
 
 a. Indien het teken B,1 VOORRANG VERLENEN bij de kruising is geplaatst, dient symbool A,20 te worden gebruikt.
 
@@ -822,41 +844,41 @@ b. Indien het STOP-teken B,2 bij de kruising is geplaatst, dient symbool A,21a o
 
 c. In plaats van teken Aa met deze symbolen kan echter ook teken B,1 of B,2 worden gebruikt, overeenkomstig artikel 10, zesde paragraaf, bij dit Verdrag.
 
-#### 21. Verkeersplein
+##### 21. Verkeersplein
 
 De waarschuwing voor een verkeersplein dient te worden gegeven door symbool A,22.
 
-#### 22. Kruising waarop het verkeer wordt geregeld door verkeerslichten
+##### 22. Kruising waarop het verkeer wordt geregeld door verkeerslichten
 
 Indien het verkeer bij een kruising wordt geregeld door verkeerslichten, mag het teken Aa of Ab, met symbool A,17, zoals beschreven in paragraaf 17 hierboven, worden geplaatst ter aanvulling of vervanging van de tekens beschreven in de paragrafen 18 tot en met 21 hierboven.
 
-#### 23. Tweerichtingverkeer
+##### 23. Tweerichtingverkeer
 
 a. De waarschuwing dat op een weggedeelte het verkeer zich tijdelijk of permanent in beide richtingen voortbeweegt op dezelfde rijbaan, terwijl op het daarvóór gelegen weggedeelte het verkeer zich in slechts één richting voortbewoog dan wel de weg bestond uit verscheidene rijbanen, elk bestemd voor het verkeer in één richting, dient te worden gegeven door symbool A,23.
 
 b. Het teken met dit symbool dient te worden herhaald bij het begin van dit weggedeelte en tevens langs dit weggedeelte zo dikwijls als nodig wordt geacht.
 
-#### 24. Files
+##### 24. Files
 
 a. De waarschuwing dat op het komende weggedeelte mogelijk een file staat, dient te worden gegeven door symbool A,24.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 25. Bewaakte spoorwegovergangen
+##### 25. Bewaakte spoorwegovergangen
 
 De waarschuwing voor overwegen met bomen of halve bomen die schuin tegenover elkaar aan elke zijde van de spoorlijn zijn geplaatst, dient te worden gegeven door symbool A,25.
 
-#### 26. Andere overwegen
+##### 26. Andere overwegen
 
 Andere overwegen dienen, afhankelijk van het geval, te worden aangegeven door symbool A,26a, A,26b of A,27.
 
-#### 27. Kruising met een tramlijn
+##### 27. Kruising met een tramlijn
 
 De waarschuwing voor een kruising met een tramlijn mag, mits een dergelijke kruising geen overweg is als bedoeld in artikel 1 bij dit Verdrag, worden gegeven door symbool A,27.
 
 Noot – Indien het noodzakelijk wordt geacht te waarschuwen voor een kruising van een weg en een spoorbaan waarover het spoorwegverkeer zich zeer langzaam voortbeweegt, en waar het wegverkeer wordt geregeld door een spoorwegemployé die de railvoertuigen begeleidt en met de hand de noodzakelijke tekens geeft, dient teken A,32 te worden gebruikt, zoals beschreven in paragraaf 32 hieronder.
 
-#### 28. Tekens die nabij overwegen dienen te worden geplaatst
+##### 28. Tekens die nabij overwegen dienen te worden geplaatst
 
 a. Er zijn drie modellen van teken A,28 zoals bedoeld in artikel 35, tweede paragraaf, bij dit Verdrag: A,28a, A,28b en A,28c.
 
@@ -864,25 +886,25 @@ b. Modellen A,28a en A,28b dienen een wit of geel vlak te hebben met een rode of
 
 c. De normale lengte van de balken van het kruis dient ten minste 1,20 m te zijn. Indien er niet voldoende ruimte is, mag het teken ook worden geplaatst met de punten van de balken naar boven en naar beneden.
 
-#### 29. Aanvullende tekens bij toegangswegen tot overwegen of beweegbare bruggen
+##### 29. Aanvullende tekens bij toegangswegen tot overwegen of beweegbare bruggen
 
 a. De borden genoemd in artikel 9, vijfde paragraaf, bij dit Verdrag zijn de tekens A,29a, A,29b en A,29c. De banen dienen schuin naar beneden te lopen in de richting van de rijbaan.
 
 b. Het gevaarsteken voor overwegen of beweegbare bruggen mag boven de tekens A,29b en A,29c worden geplaatst op dezelfde wijze als het boven het teken A,29a dient te worden geplaatst.
 
-#### 30. Vliegveld
+##### 30. Vliegveld
 
 a. De waarschuwing voor laag vliegende vliegtuigen boven een weg, die bezig zijn te landen op, of op te stijgen van een vliegveld, dient te worden gegeven door symbool A,30.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 31. Zijwind
+##### 31. Zijwind
 
 a. De waarschuwing dat op een bepaald weggedeelte dikwijls sterke zijwind voorkomt, dient te worden aangegeven door symbool A,31.
 
 b. Dit symbool mag in spiegelbeeld worden aangebracht.
 
-#### 32. Andere gevaren
+##### 32. Andere gevaren
 
 a. De waarschuwing voor een weggedeelte met gevaren van andere aard dan die welke zijn genoemd in de paragrafen 1 tot en met 31 of in Deel B van deze Bijlage, kan worden gegeven door symbool A,32.
 
@@ -892,13 +914,13 @@ c. Symbool A,32 kan met name worden gebruikt om te waarschuwen voor kruisingen m
 
 ## DEEL B. Voorrangstekens
 
-#### 1. Het teken VOORRANG VERLENEN
+##### 1. Het teken VOORRANG VERLENEN
 
 a. Het teken VOORRANG VERLENEN dient het teken B,1 te zijn. Dit dient te bestaan uit een gelijkzijdige driehoek, waarvan één zijde horizontaal en met de daartegenover liggende hoek er onder. Het vlak dient wit of geel te zijn en de rand rood. Op dit teken mag geen symbool worden aangebracht.
 
 b. De zijde van dit teken van het normale formaat dient ongeveer 90 cm lang te zijn; de zijde van het teken van het kleine formaat dient ten minste 60 cm lang te zijn.
 
-#### 2. Het STOP-teken
+##### 2. Het STOP-teken
 
 a. Het STOP-teken dient teken B,2 te zijn, waarvan twee modellen bestaan:
 
@@ -910,23 +932,23 @@ b. De hoogte van het normale formaat van teken B,2a en de diameter van het norma
 
 c. Wat betreft de keuze tussen modellen B,2a en B,2b, zie artikel 5, tweede paragraaf, en artikel 10, derde paragraaf, van dit Verdrag.
 
-#### 3. Het teken VOORRANGSWEG
+##### 3. Het teken VOORRANGSWEG
 
 a. Het teken VOORRANGSWEG dient teken B,3 te zijn. Het dient te bestaan uit een vierkant waarvan één diagonaal verticaal staat. De buitenste rand van het teken dient zwart te zijn; het teken dient in het midden een geel of oranje vierkant te tonen met een zwarte omlijsting. De ruimte tussen de beide vierkanten dient wit te zijn.
 
 b. De zijde van dit teken van het normale formaat dient ongeveer 50 cm te zijn; de zijde van het teken van het kleine formaat dient ten minste 35 cm te zijn.
 
-#### 4. Het teken EINDE VOORRANGSWEG
+##### 4. Het teken EINDE VOORRANGSWEG
 
 Het teken EINDE VOORRANGSWEG dient teken B,4 te zijn. Dit dient te bestaan uit teken B,3, als hierboven beschreven, waarop in het midden een zwarte of grijze band is aangebracht, die loodrecht staat op de zijden linksonder en rechtsboven van het vierkant, dan wel parallel lopende zwarte of grijze lijnen die een zodanige band vormen.
 
-#### 5. Teken dat aanduidt dat tegemoetkomend verkeer voorrang heeft
+##### 5. Teken dat aanduidt dat tegemoetkomend verkeer voorrang heeft
 
 a. Indien op een smal weggedeelte, waar voorbijgaan moeilijk of onmogelijk is, het verkeer wordt geregeld, en indien, omdat bestuurders dat hele weggedeelte 's nachts en overdag duidelijk kunnen zien, de regeling van het verkeer bestaat uit voorrang verlenen aan verkeer in één richting, en niet door het plaatsen van verkeerslichten, dient het teken B,5 VOORRANG VOOR TEGEMOETKOMEND VERKEER te worden geplaatst met de voorzijde naar het verkeer dat geen voorrang heeft. Dit teken geeft aan dat het verboden is zich op het smalle weggedeelte te begeven zolang het niet mogelijk is tot het eind van dit weggedeelte te rijden zonder tegemoetkomende voertuigen tot stoppen te dwingen.
 
 b. Dit teken dient rond te zijn, met een wit of geel vlak en een rode rand; de pijl die aangeeft welke rijrichting voorrang heeft, dient zwart te zijn en de pijl die de andere rijrichting aangeeft, rood.
 
-#### 6. Teken dat aanduidt dat men voorrang heeft op tegemoetkomend verkeer
+##### 6. Teken dat aanduidt dat men voorrang heeft op tegemoetkomend verkeer
 
 a. Om bestuurders kenbaar te maken dat zij op een smal weggedeelte voorrang hebben op tegemoetkomende voertuigen, dient teken B,6 te worden gebruikt.
 
@@ -938,17 +960,17 @@ c. Indien teken B,6 wordt gebruikt, dient teken B,5 op de weg te worden geplaats
 
 #### I. Algemene kenmerken en symbolen
 
-#### 1
+##### 1
 
 Verbodstekens en beperkende tekens dienen rond te zijn; hun diameter dient ten minste 60 cm te zijn buiten de bebouwde kom en ten minste 40 cm binnen de bebouwde kom.
 
-#### 2
+##### 2
 
 Tenzij bij de beschrijving van de tekens anders is aangegeven, dienen verbodstekens en beperkende tekens een wit of geel vlak te hebben of, bij tekens die een verbod of beperking inhouden voor stilstaan of parkeren, een blauw vlak met een brede rode rand; de symbolen en eventueel nodige opschriften dienen zwart of donkerblauw te zijn en indien er schuine banen op voorkomen, dienen deze rood te zijn en te lopen van links boven naar rechts beneden.
 
 #### II. Beschrijvingen
 
-#### 1. Algeheel en beperkt inrijverbod
+##### 1. Algeheel en beperkt inrijverbod
 
 a. De aanduiding dat het voor alle voertuigen verboden is een weg in te rijden, dient te worden gegeven door het teken C,1 VERBODEN IN TE RIJDEN, waarvan twee modellen zijn: C,1a en C,1b.
 
@@ -1010,17 +1032,17 @@ C,9 VERBODEN VOOR VOERTUIGEN OF SAMENSTELLEN VAN VOERTUIGEN DIE EEN LENGTE VAN .
 
 f. De aanduiding dat voertuigen niet dichter achter elkaar mogen rijden dan de op het teken aangeduide afstand, wordt gegeven door het teken C,10 HET IS VERBODEN MET VOERTUIGEN MINDER DAN .. METER AFSTAND TE HOUDEN.
 
-#### 2. Verbod om af te slaan
+##### 2. Verbod om af te slaan
 
 De aanduiding dat het verboden is links of rechts af te slaan, al naar gelang de richting van de pijl, dient te worden gegeven door teken C,11a LINKSAF VERBODEN, of door teken C,11b RECHTSAF VERBODEN.
 
-#### 3. Verbod om te keren
+##### 3. Verbod om te keren
 
 a. De aanduiding dat het verboden is te keren, dient te worden gegeven door teken C,12 KEREN VERBODEN.
 
 b. Indien van toepassing mag het symbool in spiegelbeeld worden aangebracht.
 
-#### 4. Inhaalverbod
+##### 4. Inhaalverbod
 
 a. De aanduiding dat, als aanvulling op de algemene regels die met betrekking tot inhalen van kracht zijn, het inhalen door gemotoriseerde voertuigen, met uitzondering van tweewielige bromfietsen en tweewielige motorfietsen zonder zijspanwagen, op een bepaalde weg is verboden, dient te worden gegeven door teken C,13a INHALEN VERBODEN.
 
@@ -1032,23 +1054,23 @@ Er zijn twee modellen van dit teken: C,13ba en C,13bb.
 
 Een opschrift op een onderbord dat onder het teken wordt geplaatst, overeenkomstig artikel 8, vierde paragraaf, van dit Verdrag, kan de toegestane maximum massa waarboven het verbod geldt, wijzigen.
 
-#### 5. Snelheidsbeperking
+##### 5. Snelheidsbeperking
 
 a. De aanduiding van een snelheidsbeperking dient te worden gegeven door teken C,14 MAXIMUM SNELHEID BEPERKT TOT HET AANGEGEVEN CIJFER. Het cijfer op het teken dient de maximumsnelheid aan te geven in de meeteenheid van het stelsel dat in het betrokken land gewoonlijk wordt gebruikt om er de snelheid van voertuigen in uit te drukken. Achter of onder het cijfer dat de snelheid aangeeft kan bijvoorbeeld ,km’ (kilometer) of ,m’ (mijl) worden toegevoegd.
 
 b. Teneinde een snelheidsbeperking aan te geven voor voertuigen die een toegestane maximum massa te boven gaan, dient het cijfer dat hierop betrekking heeft op een onderbord te worden aangegeven, welk bord onder het teken dient te worden geplaatst, overeenkomstig artikel 8, vierde lid, van dit Verdrag.
 
-#### 6. Verbod om inrichtingen voor geluidssignalen te gebruiken
+##### 6. Verbod om inrichtingen voor geluidssignalen te gebruiken
 
 De aanduiding dat het is verboden inrichtingen voor geluidssignalen te gebruiken, behalve om een ongeval te vermijden, dient te worden gegeven door het teken C,15 VERBODEN INRICHTINGEN VOOR GELUIDSSIGNALEN TE GEBRUIKEN. Indien dit teken niet is geplaatst bij het begin van een bebouwde kom, of kort na een teken dat de bebouwde kom aangeeft, dient het vergezeld te gaan van een onderbord H,2, beschreven in Deel H van deze Bijlage, waarop de afstand is aangegeven waarover het verbod geldt. Het verdient aanbeveling dit teken niet bij het begin van een bebouwde kom te plaatsen indien dit verbod voor alle bebouwde kommen geldt, en ervoor te zorgen dat het teken dat het begin van de bebouwde kom aangeeft, weggebruikers ervan in kennis stelt dat de verkeersregels die in dat land voor de bebouwde kom gelden, van dit punt af van toepassing zijn.
 
-#### 7. Verbod om zonder stoppen door te rijden
+##### 7. Verbod om zonder stoppen door te rijden
 
 a. Bij het naderen van een douanekantoor waar stoppen verplicht is, wordt hiervan kennis gegeven door teken C,16 VERBODEN OM ZONDER STOPPEN DOOR TE RIJDEN. Onverminderd artikel 8 bij dit Verdrag, dient het symbool van dit teken het woord DOUANE te bevatten, bij voorkeur in twee talen; de Verdragsluitende Partijen die het teken C,16 gebruiken, dienen te trachten tot een regionale overeenkomst te komen zodat het woord DOUANE op alle door hen geplaatste tekens in dezelfde taal voorkomt.
 
 b. Dit teken mag ook worden gebruikt om bestuurders ervan in kennis te stellen dat stoppen om andere redenen verplicht is; in dit geval dient het woord DOUANE te worden vervangen door een ander kort opschrift dat de reden voor het verplichte stoppen aangeeft.
 
-#### 8. Einde van verboden of beperkingen
+##### 8. Einde van verboden of beperkingen
 
 a. Het punt waar alle verboden ophouden die door verbodstekens zijn aangeduid ten aanzien van rijdende voertuigen, dient te worden aangegeven door teken C,17a EINDE VAN ALLE PLAATSELIJKE VERBODEN VOOR RIJDENDE VOERTUIGEN. Dit teken dient rond te zijn met een wit of geel vlak; het mag geen rand hebben ofwel alleen een smalle zwarte lijst en dient een schuine band te tonen, van rechts boven naar links onder, die zwart of grijs mag zijn of die kan bestaan uit zwarte of grijze evenwijdig lopende strepen.
 
@@ -1056,7 +1078,7 @@ b. Het punt waar een bepaald verbod of een bepaalde beperking voor rijdende voer
 
 c. Onverminderd de bepalingen van artikel 6, eerste lid, van dit Verdrag, kunnen de tekens bedoeld in deze paragraaf (8) worden aangebracht aan de achterkant van de tekens die het verbod of de beperking aanduiden en die zijn bedoeld voor het verkeer in tegengestelde richting.
 
-#### 9. Verbod of beperking om stil te staan of te parkeren
+##### 9. Verbod of beperking om stil te staan of te parkeren
 
 - (i). Plaatsen waar parkeren is verboden, dienen te worden aangeduid door teken C,18 PARKEERVERBOD; plaatsen waar stilstaan en parkeren is verboden, dienen te worden aangeduid door teken C,19 STILSTAAN EN PARKEREN VERBODEN.
 
@@ -1094,57 +1116,57 @@ c. Onverminderd de bepalingen van artikel 6, eerste lid, van dit Verdrag, kunnen
 
 #### I. Algemene kenmerken en symbolen
 
-#### 1
+##### 1
 
 Gebodstekens dienen rond te zijn, behoudens tekens D,10 zoals beschreven in Titel II, paragraaf 10, van dit Deel, die rechthoekig dienen te zijn; hun diameter dient ten minste 60 cm te zijn buiten de bebouwde kom en ten minste 40 cm binnen de bebouwde kom. Tekens met een diameter van ten minste 30 cm mogen echter wel worden gebruikt samen met verkeerslichten of op verkeerszuilen op verkeerseilanden.
 
-#### 2
+##### 2
 
 Tenzij anders bepaald, dienen deze tekens blauw te zijn met witte symbolen of met symbolen in een lichte kleur, ofwel dienen de tekens wit te zijn met een rode rand en de symbolen zwart.
 
 #### II. Beschrijvingen
 
-#### 1. Verplichte rijrichting
+##### 1. Verplichte rijrichting
 
 De richting die voertuigen verplicht zijn te volgen, of de enige richting(en) die zij mogen volgen, dienen te worden aangegeven door model D,1a van teken D,1 VERPLICHTE RIJRICHTING, waarop de pijl of pijlen dienen te staan die in de desbetreffende richting of richtingen wijzen. Onverminderd de bepalingen van Titel I van dit Deel, kan in plaats van teken D,1a echter ook D,1b worden gebruikt. Teken D,1b dient zwart te zijn met een witte rand en een wit symbool.
 
-#### 2. Aan deze zijde passeren
+##### 2. Aan deze zijde passeren
 
 Teken D,2 AAN DEZE ZIJDE PASSEREN, dat, onverminderd de bepalingen van artikel 6, eerste lid, van dit Verdrag, op een verkeerseiland of vóór een belemmering op de rijbaan is geplaatst, betekent dat voertuigen het verkeerseiland of de belemmering moeten passeren aan de zijde die door de pijl is aangegeven.
 
-#### 3. Verplichte rijrichting op verkeersplein
+##### 3. Verplichte rijrichting op verkeersplein
 
 Teken D,3 VERPLICHTE RIJRICHTING OP VERKEERSPLEIN stelt bestuurders ervan in kennis dat zij op het verkeersplein de richting moeten aanhouden die door de pijlen wordt aangegeven. Indien het verkeersplein wordt aangeduid door teken D,3 tezamen met teken B,1 of B,2, dan heeft de bestuurder op het verkeersplein voorrang.
 
-#### 4. Verplicht fietspad
+##### 4. Verplicht fietspad
 
 Teken D,4 VERPLICHT FIETSPAD stelt fietsers ervan in kennis dat het fietspad aan het begin waarvan het teken is geplaatst voor hen bestemd is, en stelt bestuurders van andere voertuigen ervan in kennis dat zij geen gebruik mogen maken van het fietspad. Fietsers moeten het verplichte fietspad gebruiken wanneer dit langs een rijbaan, voetpad of ruiterpad ligt en in dezelfde richting voert. Van bestuurders van bromfietsen kan, op dezelfde voorwaarden, echter ook worden verlangd dat zij het fietspad gebruiken indien de nationale wetgeving daarin voorziet of indien deze eis kenbaar is gemaakt door een onderbord met een opschrift of met het symbool van teken C,3d.
 
-#### 5. Verplicht voetpad
+##### 5. Verplicht voetpad
 
 Teken D,5 VERPLICHT VOETPAD stelt voetgangers ervan in kennis dat het pad aan het begin waarvan het teken is geplaatst voor hen bestemd is, en stelt andere weggebruikers ervan in kennis dat zij geen gebruik mogen maken van het voetpad. Voetgangers moeten het verplichte voetpad gebruiken wanneer dit langs een rijbaan, fietspad of ruiterpad ligt en in dezelfde richting voert.
 
-#### 6. Verplicht ruiterpad
+##### 6. Verplicht ruiterpad
 
 Teken D,6 VERPLICHT RUITERPAD stelt ruiters ervan in kennis dat het pad aan het begin waarvan het teken is geplaatst voor hen bestemd is, en stelt andere weggebruikers ervan in kennis dat zij geen gebruik mogen maken van het ruiterpad. Ruiters moeten het verplichte ruiterpad gebruiken wanneer dit langs een rijbaan, fietspad of voetpad ligt en in dezelfde richting voert.
 
-#### 7. Verplichte minimumsnelheid
+##### 7. Verplichte minimumsnelheid
 
 Teken D,7 VERPLICHTE MINIMUMSNELHEID betekent dat voertuigen gebruik makend van de weg aan het begin waarvan het teken is geplaatst niet langzamer mogen rijden dan de snelheid die op het teken is aangegeven; het cijfer op het teken dient de minimumsnelheid uit te drukken in de meeteenheid van het stelsel dat in het betrokken land gewoonlijk wordt gebruikt om er de snelheid van voertuigen in uit te drukken. Achter het cijfer dat de snelheid aangeeft kan bijvoorbeeld ,km’ (kilometer) of ,m’ (mijl) worden toegevoegd.
 
-#### 8. Einde van verplichte minimumsnelheid
+##### 8. Einde van verplichte minimumsnelheid
 
 Teken D,8 EINDE VERPLICHTE MINIMUMSNELHEID betekent dat de verplichte minimumsnelheid die is voorgeschreven door teken D,7 niet langer van kracht is. Teken D,8 dient gelijk te zijn aan teken D,7, behalve dat er een schuine rode band over dient te lopen, van rechts boven naar links onder.
 
-#### 9. Sneeuwkettingen verplicht
+##### 9. Sneeuwkettingen verplicht
 
 Teken D,9 SNEEUWKETTINGEN VERPLICHT betekent dat op voertuigen aan het begin van de weg waar dit teken is geplaatst sneeuwkettingen dienen te worden aangebracht op ten minste twee van de aangedreven wielen.
 
-#### 10. Verplichte rijrichting voor voertuigen die gevaarlijke stoffen vervoeren
+##### 10. Verplichte rijrichting voor voertuigen die gevaarlijke stoffen vervoeren
 
 Tekens D,10a, D,10b en D,10c worden gebruikt om aan te geven welke richting voertuigen moeten volgen die gevaarlijke stoffen vervoeren.
 
-#### 11. Opmerking betreffende de combinatie van tekens D,4, D,5 en D,6
+##### 11. Opmerking betreffende de combinatie van tekens D,4, D,5 en D,6
 
 a. Om aan te geven dat een pad bestemd is voor het gebruik door twee categorieën weggebruikers en verboden is voor overige weggebruikers, dient een gebodsteken te worden gebruikt waarop de twee symbolen zijn aangebracht voor de weggebruikers die het pad, aan het begin waarvan het teken is geplaatst, mogen gebruiken.
 
@@ -1160,7 +1182,7 @@ Tekens D,11a en D,11b zijn voorbeelden van de combinatie van tekens D,4 en D,5.
 
 #### II. Beschrijving
 
-#### 1. Tekens die een bepaald voorschrift of gevaar inhouden en op een of meer rijstroken van toepassing zijn
+##### 1. Tekens die een bepaald voorschrift of gevaar inhouden en op een of meer rijstroken van toepassing zijn
 
 Tekens zoals hieronder genoemd geven aan dat een bepaald voorschrift of een waarschuwing voor gevaar slechts geldt voor een of meer rijstroken, aangegeven door een lengtemarkering, op een rijbaan bestaande uit meerdere rijstroken voor verkeer in dezelfde richting. Deze tekens kunnen ook aangeven dat rijstroken worden gebruikt door verkeer in tegengestelde richting. Het teken dat betrekking heeft op het voorschrift of de waarschuwing voor gevaar moet op elk van de gebruikte pijlen worden aangebracht:
 
@@ -1170,11 +1192,11 @@ Tekens zoals hieronder genoemd geven aan dat een bepaald voorschrift of een waar
 
 - (iii). E,1c SNELHEIDSBEPERKINGEN VOOR VERSCHILLENDE RIJSTROKEN. De randen van de cirkels moeten rood zijn en de cijfers zwart.
 
-#### 2. Tekens die een strook voor openbaarvervoerbussen aangeven
+##### 2. Tekens die een strook voor openbaarvervoerbussen aangeven
 
 Tekens zoals E,2a en E,2b zijn voorbeelden van tekens die de positie van de rijstrook aangeven die is voorbehouden aan bussen, overeenkomstig artikel 26**bis**, tweede paragraaf.
 
-#### 3. Teken EENRICHTINGSWEG
+##### 3. Teken EENRICHTINGSWEG
 
 a. Er kunnen twee verschillende tekens EENRICHTINGSWEG worden geplaatst wanneer het noodzakelijk wordt geacht aan te geven dat op een weg of rijbaan het verkeer zich in één richting begeeft:
 
@@ -1184,11 +1206,11 @@ a. Er kunnen twee verschillende tekens EENRICHTINGSWEG worden geplaatst wanneer 
 
 b. Tekens E,3a en E,3b kunnen worden geplaatst ongeacht of bij het begin van de weg in kwestie verbods- of gebodstekens zijn geplaatst.
 
-#### 4. Voorsorteringsteken
+##### 4. Voorsorteringsteken
 
 Voorbeeld van een voorsorteringsteken bij een kruising op wegen met verschillende rijstroken: E,4.
 
-#### 5. Tekens die het begin of het einde van een autosnelweg aangeven
+##### 5. Tekens die het begin of het einde van een autosnelweg aangeven
 
 a. Teken E,5a AUTOSNELWEG dient te worden geplaatst op het punt waar de bijzondere regels die op een autosnelweg in acht dienen te worden genomen, van toepassing worden.
 
@@ -1198,7 +1220,7 @@ c. Teken E,5b kan ook worden gebruikt en herhaald om te waarschuwen voor het ein
 
 d. Deze tekens dienen een blauw of groen vlak te hebben.
 
-#### 6. Tekens die het begin of het einde van een weg aangeven waarop dezelfde verkeersregels van toepassing zijn als op een autosnelweg
+##### 6. Tekens die het begin of het einde van een weg aangeven waarop dezelfde verkeersregels van toepassing zijn als op een autosnelweg
 
 a. Teken E,6a AUTOWEG dient te worden geplaatst op het punt waar bijzondere verkeersregels van toepassing worden op wegen die geen autosnelwegen zijn, maar die uitsluitend zijn bestemd voor verkeer met motorvoertuigen en waarop aanliggende percelen geen uitweg hebben. Een onderbord kan onder teken E,6a worden geplaatst om aan te geven dat, als uitzondering, de toegang tot aanliggende percelen voor motorvoertuigen is toegestaan.
 
@@ -1206,7 +1228,7 @@ b. Teken E,6b EINDE AUTOWEG kan ook worden gebruikt en herhaald om te waarschuwe
 
 c. Deze tekens dienen een blauw of groen vlak te hebben.
 
-#### 7. Tekens die het begin of het einde van een bebouwde kom aangeven
+##### 7. Tekens die het begin of het einde van een bebouwde kom aangeven
 
 a. Op het teken waarmee het begin van een bebouwde kom wordt aangegeven, dient de naam van de bebouwde kom of het symbool met het silhouet van een bebouwde kom te worden aangebracht, of beide. Tekens E,7a, E,7b, E,7c en E,7d zijn voorbeelden van tekens waarmee het begin van een bebouwde kom wordt aangegeven.
 
@@ -1216,7 +1238,7 @@ Onverminderd de bepalingen van artikel 6, eerste lid, van dit Verdrag, kunnen de
 
 c. De in deze paragraaf behandelde tekens dienen te worden gebruikt in overeenstemming met de bepalingen van artikel 13**bis**, tweede lid, van dit Verdrag.
 
-#### 8. Tekens die zonale geldigheid hebben
+##### 8. Tekens die zonale geldigheid hebben
 
 a. Begin van een zone
 
@@ -1230,7 +1252,7 @@ b. Einde van een zone
 
 - (ii). Tekens E,10a, E,10b, E,10c en E,10d zijn voorbeelden van tekens die het einde aangeven van een zone waarin een teken op alle wegen van toepassing is (zonale geldigheid): E,10a - Einde zone waarin parkeren verboden is; E,10b - Einde zone waarin parkeren op bepaalde tijden verboden is; E,10c - Einde parkeerzone; E,10d - Einde zone maximumsnelheid.
 
-#### 9. Tekens die het begin of het einde aangeven van een tunnel waarin bijzondere regels van toepassing zijn
+##### 9. Tekens die het begin of het einde aangeven van een tunnel waarin bijzondere regels van toepassing zijn
 
 a. Teken E,11a TUNNEL duidt een wegtracé aan dat door een tunnel gaat en waarop bijzondere verkeersregels van toepassing zijn. Het teken wordt geplaatst op het punt van waar deze regels van toepassing zijn.
 
@@ -1238,19 +1260,19 @@ b. Teneinde weggebruikers van tevoren te waarschuwen, kan teken E,11a aanvullend
 
 c. Teken E,11b EINDE TUNNEL kan worden geplaatst op het punt van waar de bijzondere regels niet langer van toepassing zijn.
 
-#### 10. Teken VOETGANGERSOVERSTEEKPLAATS
+##### 10. Teken VOETGANGERSOVERSTEEKPLAATS
 
 a. Teken E,12a VOETGANGERSOVERSTEEKPLAATS wordt gebruikt om voetgangers en bestuurders de plaats aan te duiden van een voetgangersoversteekplaats. Het bord dient een blauw of zwart vlak te hebben, met een witte of gele driehoek en een zwart of donkerblauw symbool; het symbool dat hiervoor wordt gebruikt dient symbool A,12 te zijn.
 
 b. Teken E,12b, een ongelijkzijdige vijfhoek met een blauw vlak en een wit symbool, of teken E,12c, met een donker vlak en een wit symbool, mag echter ook worden gebruikt.
 
-#### 11. ZIEKENHUIS-teken
+##### 11. ZIEKENHUIS-teken
 
 a. Dit teken dient te worden gebruikt om bestuurders van voertuigen ervan in kennis te stellen dat zij de nodige voorzorgen dienen te nemen die vereist zijn in de nabijheid van ziekenhuizen, en vooral, dat zij geen onnodig lawaai maken. Van dit teken bestaan twee modellen: E,13a en E,13b.
 
 b. Het rode kruis op teken E,13b kan worden vervangen door een van de symbolen zoals bedoeld in Deel F, Titel II, eerste paragraaf.
 
-#### 12. Het teken PARKEERGELEGENHEID
+##### 12. Het teken PARKEERGELEGENHEID
 
 a. Teken E,14a PARKEERGELEGENHEID, dat zo kan worden geplaatst dat het bord parallel loopt met de as van de weg, dient de plaatsen aan te geven waar parkeren van voertuigen is toegestaan. Dit bord dient vierkant te zijn. Het dient de letter of het beeld te tonen dat in de betrokken Staat PARKEREN betekent. De ondergrond van dit teken dient blauw te zijn.
 
@@ -1258,11 +1280,11 @@ b. De richting waarin de parkeergelegenheid ligt of de categorieën voertuigen w
 
 Tekens E,14b en E,14c zijn voorbeelden van tekens die kunnen worden gebruikt om een parkeergelegenheid aan te geven die meer in het bijzonder bedoeld is voor voertuigen waarvan de bestuurders van een openbaar vervoermiddel gebruik wensen te maken.
 
-#### 13. Tekens die een bus- of tramhalte aangeven
+##### 13. Tekens die een bus- of tramhalte aangeven
 
 E,15 BUSHALTE en E,16 TRAMHALTE.
 
-#### 14. Tekens die een stopplaats in geval van nood of gevaar aangeven
+##### 14. Tekens die een stopplaats in geval van nood of gevaar aangeven
 
 Teken E,17 NOODSTOPPLAATS geeft een plaats aan die uitsluitend door bestuurders mag worden gebruikt om te stoppen of te parkeren in geval van nood of gevaar. Indien deze stopplaats is voorzien van een noodtelefoon en/of brandblusapparaat, is het teken voorzien van symbolen F,14 en/of F,15 in het onderste gedeelte ervan of op een rechthoekig bord onder het teken. Dit teken heeft twee modellen: E,17a en E,17b.
 
@@ -1270,21 +1292,21 @@ Teken E,17 NOODSTOPPLAATS geeft een plaats aan die uitsluitend door bestuurders 
 
 #### I. Algemene kenmerken en symbolen
 
-#### 1
+##### 1
 
 ,F’-tekens hebben een blauw of groen vlak; hierop dient een witte of gele rechthoek te zijn aangebracht waarop het symbool dient te worden afgebeeld.
 
-#### 2
+##### 2
 
 Op de blauwe of groene band aan de onderzijde van het teken kan de afstand tot de aangeduide voorziening, of tot het begin van de weg die daarheen leidt, in wit worden aangegeven; op het teken dat symbool F,5 toont, kan het woord HOTEL of MOTEL op dezelfde wijze worden aangegeven. Deze tekens kunnen ook worden geplaatst bij het begin van de weg die naar de voorziening leidt; ze kunnen dan een witte richtingspijl tonen op het blauwe of groene onderste deel van het bord. Het symbool dient zwart of donkerblauw te zijn, behalve symbolen F,1a, F,1b, F,1c en F,15, die rood dienen te zijn. Symbool F,14 mag rood zijn.
 
 #### II. Beschrijvingen
 
-#### 1. Symbool EERSTEHULPPOST
+##### 1. Symbool EERSTEHULPPOST
 
 De symbolen die in de betrokken Staten de eerstehulpposten aanduiden, dienen hiervoor gebruikt te worden. De symbolen dienen rood te zijn. Voorbeelden hiervan zijn F,1a, F,1b en F,1c.
 
-#### 2. Diverse symbolen
+##### 2. Diverse symbolen
 
 F,2 REPARATIEPOST
 
@@ -1318,33 +1340,33 @@ F,15 BRANDBLUSAPPARAAT
 
 #### 1. Algemene kenmerken en symbolen
 
-#### 1
+##### 1
 
 Informatieve tekens zijn gewoonlijk rechthoekig; richtingstekens kunnen echter de vorm hebben van een langwerpige rechthoek, waarvan de lange zijde horizontaal is en in een pijlpunt uitloopt.
 
-#### 2
+##### 2
 
 Op informatieve tekens dienen de symbolen of opschriften in wit of in een lichte kleur te worden aangebracht op een donker vlak, dan wel in een donkere kleur op een wit of lichtgekleurd vlak; rood mag slechts bij uitzondering worden gebruikt en mag nooit domineren.
 
-#### 3
+##### 3
 
 Op vooraanduidingstekens of richtingstekens die betrekking hebben op autosnelwegen of wegen die als autosnelwegen worden beschouwd, dienen de symbolen of opschriften in wit te worden aangebracht op een blauw of groen vlak. Op dergelijke tekens kunnen de symbolen die worden gebruikt op de tekens E,5a en E,6a op verkleinde schaal worden weergegeven.
 
-#### 4
+##### 4
 
 Tekens die tijdelijke omstandigheden zoals wegwerkzaamheden of omleidingen aanduiden, mogen een oranje of geel vlak hebben met zwarte symbolen en opschriften.
 
-#### 5
+##### 5
 
 Aanbevolen wordt om op de tekens G,1, G,4, G,5, G,6 en G,10 de naam van de aangegeven plaats weer te geven in de taal van het land of het landsdeel waarin genoemde plaats zich bevindt.
 
 #### II. Vooraanduidingstekens
 
-#### 1. Voor algemeen gebruik
+##### 1. Voor algemeen gebruik
 
 Voorbeelden van vooraanduidingstekens: G,1a, G,1b en G,1c.
 
-#### 2. Bijzondere gevallen
+##### 2. Bijzondere gevallen
 
 a. Voorbeelden van vooraanduidingstekens voor DOODLOPENDE WEG: G,2a en G,2b.
 
@@ -1354,23 +1376,23 @@ NOOT: Op vooraanduidingstekens G,1 mogen de symbolen worden aangebracht die word
 
 #### III. Richtingstekens
 
-#### 1
+##### 1
 
 Voorbeelden van tekens die de richting naar een plaats aangeven: G,4a, G,4b, G,4c en G,5.
 
-#### 2
+##### 2
 
 Voorbeelden van tekens die de richting naar een vliegveld aangeven: G,6a, G,6b en G,6c.
 
-#### 3
+##### 3
 
 Teken G,7 geeft de richting aan naar een kampeerterrein.
 
-#### 4
+##### 4
 
 Teken G,8 geeft de richting aan naar een jeugdherberg.
 
-#### 5
+##### 5
 
 Voorbeelden van tekens die de richting naar een parkeergelegenheid aangeven die meer in het bijzonder bedoeld is voor voertuigen waarvan de bestuurders van een openbaar vervoermiddel gebruik wensen te maken: G,9a en G,9b. Het type openbaar vervoer kan door middel van een opschrift of symbool op het teken worden aangegeven.
 
@@ -1380,25 +1402,25 @@ NOOT: Op richtingstekens G,4, G,5 en G,6 mogen de symbolen worden aangebracht di
 
 #### V. Aanduidingsteken
 
-#### 1. Tekens die het aantal rijstroken en de richting hiervan aanduiden
+##### 1. Tekens die het aantal rijstroken en de richting hiervan aanduiden
 
 Tekens als G,11a, G,11b en G,11c dienen te worden gebruikt om bestuurders in kennis te stellen van het aantal rijstroken en de richting hiervan. De tekens moeten hetzelfde aantal pijlen bevatten als het aantal rijstroken dat is bestemd voor verkeer in dezelfde richting; de tekens kunnen ook rijstroken aanduiden die zijn bestemd voor verkeer in de tegengestelde richting.
 
-#### 2. Tekens die aanduiden dat een rijstrook is gesloten
+##### 2. Tekens die aanduiden dat een rijstrook is gesloten
 
 Tekens als G,12a en G,12b wijzen bestuurders erop dat een rijstrook is gesloten.
 
-#### 3. Teken DOODLOPENDE WEG
+##### 3. Teken DOODLOPENDE WEG
 
 Teken G,13 DOODLOPENDE WEG, geplaatst aan het begin van een weg, geeft aan dat de weg doodloopt.
 
-#### 4. Teken ALGEMENE SNELHEIDSBEPERKINGEN
+##### 4. Teken ALGEMENE SNELHEIDSBEPERKINGEN
 
 Teken G,14 ALGEMENE SNELHEIDSBEPERKINGEN dient te worden gebruikt, in het bijzonder bij de landsgrenzen, om de geldende maximumsnelheid in een land of een bestuurlijk onderdeel daarvan aan te duiden. De naam of het onderscheidingsteken van het land, eventueel voorzien van het nationale embleem, dient bovenaan het teken te worden geplaatst. Op het teken dienen de algemene snelheidsbeperkingen die in een land van kracht zijn in de volgende volgorde te worden aangebracht: (1) binnen de bebouwde kom; (2) buiten de bebouwde kom; (3) op autosnelwegen. Indien van toepassing kan het symbool van teken E,6a AUTOWEG worden gebruikt om de algemene snelheidsbeperking aan te geven op wegen voor motorvoertuigen.
 
 De rand van het teken en het bovenste deel daarvan zijn blauw; de landnaam en het vlak van de drie vierkanten zijn wit. De symbolen in het bovenste en middelste vierkant zijn zwart en door het symbool in het middelste vierkant loopt een schuine rode streep.
 
-#### 5. Teken voor WEG GEOPEND OF GESLOTEN
+##### 5. Teken voor WEG GEOPEND OF GESLOTEN
 
 a. Teken G,15 WEG GEOPEND OF GESLOTEN dient te worden gebruikt om aan te duiden of een bergweg, en speciaal een weggedeelte dat over een pas loopt, voor het verkeer is geopend of gesloten; het teken dient te worden geplaatst bij het begin van de weg of wegen die naar het betrokken weggedeelte leidt (leiden).
 
@@ -1414,31 +1436,31 @@ Indien het weggedeelte geopend is, dient paneel 3 leeg te blijven en paneel 2 di
 
 Indien het weggedeelte geopend is, dient op paneel 3 de naam van de plaats te staan tot waar de weg geopend is en paneel 2 dient, naar gelang de toestand van de weg, het opschrift GEOPEND TOT dan wel symbool G,16 of teken D,9 te tonen.
 
-#### 6. Teken ADVIESNELHEID
+##### 6. Teken ADVIESNELHEID
 
 Teken G,17 ADVIESSNELHEID dient te worden gebruikt om de geadviseerde snelheid aan te duiden indien de omstandigheden dit toestaan en de bestuurder niet wordt geacht een voor zijn voertuig geldende lagere maximum snelheid aan te houden. Het cijfer of de reeks cijfers op het teken dienen de snelheid aan te geven in de meeteenheid van het stelsel dat in het betrokken land gewoonlijk wordt gebruikt om de snelheid van voertuigen in uit te drukken. De meeteenheid mag op het teken worden aangegeven.
 
-#### 7. Teken dat een aanbevolen route aanduidt voor zware voertuigen
+##### 7. Teken dat een aanbevolen route aanduidt voor zware voertuigen
 
 G,18 AANBEVOLEN ROUTE VOOR ZWARE VOERTUIGEN
 
-#### 8. Teken dat een noodspoor aanduidt
+##### 8. Teken dat een noodspoor aanduidt
 
 Teken G,19 NOODSPOOR dient te worden gebruikt om een noodspoor aan te geven op een steile helling. Dit teken, voorzien van een bord dat de afstand tot het noodspoor aanduidt, dient te worden geplaatst in combinatie met teken A,2 bovenaan de helling, daar waar de gevarenzone begint en bij de ingang van het noodspoor. Al naar gelang van de lengte van de helling dient het teken waar nodig te worden herhaald, en ook hier te worden voorzien van een bord dat de afstand aanduidt.
 
 Het symbool kan variëren overeenkomstig de ligging van het noodspoor in verhouding tot de desbetreffende weg.
 
-#### 9. Tekens die een voetgangersbrug of voetgangerstunnel aanduiden
+##### 9. Tekens die een voetgangersbrug of voetgangerstunnel aanduiden
 
 a. Teken G,20 wordt gebruikt om een voetgangersbrug of voetgangerstunnel aan te duiden.
 
 b. Teken G,21 wordt gebruikt om een brug of tunnel zonder treden aan te duiden. Het teken voor gehandicapten mag op dit teken tevens worden gebruikt.
 
-#### 10. Tekens die een afrit van een autosnelweg aangeven (voorwegwijzers)
+##### 10. Tekens die een afrit van een autosnelweg aangeven (voorwegwijzers)
 
 Tekens G,22a, G,22b en G,22c zijn voorbeelden van vooraanduidingstekens (voorwegwijzers) om een afrit van een autosnelweg aan te geven. Op deze tekens dient een aanduiding van de afstand tot aan de afrit te staan, overeenkomstig de nationale wetgeving; tekens met respectievelijk een en twee schuine banen worden geplaatst op eenderde en tweederde van de afstand tussen het teken met drie schuine banen en de afrit van de autosnelweg.
 
-#### 11. Tekens die nooduitgangen aanduiden
+##### 11. Tekens die nooduitgangen aanduiden
 
 a. Tekens G,23a en G,23b duiden de plaats van nooduitgangen aan.
 
@@ -1448,11 +1470,11 @@ c. Tekens G,23 en G,24 hebben een groene achtergrond en de symbolen, pijlen en a
 
 ## DEEL H. Onderborden
 
-#### 1
+##### 1
 
 Deze borden hebben hetzij een wit of geel vlak met een zwarte, donkerblauwe of rode rand, waarbij de afstand of lengte of het symbool in zwart of donkerblauw worden aangebracht, hetzij een zwart of donkerblauw vlak met een witte, gele of rode rand, waarbij de afstand of lengte of het symbool in wit of geel worden aangebracht.
 
-#### 2
+##### 2
 
 a. De onderborden H,1 duiden de afstand aan tussen het teken en het begin van het gevaarlijke weggedeelte of van de zone waarop het voorschrift van toepassing is.
 
@@ -1460,25 +1482,25 @@ b. De onderborden H,2 duiden de lengte aan van het gevaarlijke weggedeelte of va
 
 c. De onderborden worden geplaatst onder de tekens. Bij gevaarstekens van model Ab mag de op de onderborden te verstrekken informatie evenwel worden aangebracht op het onderste gedeelte van het teken.
 
-#### 3
+##### 3
 
 De onderborden H,3 en H,4, betreffende parkeerverboden of -beperkingen zijn de modellen H,3a, H,3b en H,4c, respectievelijk H,4a, H,4b en H,4c. (Zie DEEL C, paragraaf 9, onder c, van deze Bijlage).
 
-#### 4
+##### 4
 
 De toepassing van tekens die een bepaald voorschrift inhouden kan worden beperkt tot een specifieke categorie weggebruikers door middel van plaatsing van het symbool van de desbetreffende categorie. Bijvoorbeeld H,5a en H,5b.
 
 Ingeval het teken dat een bepaald voorschrift inhoudt op een bepaalde categorie weggebruikers niet van toepassing is, wordt zulks aangegeven door middel van het symbool van de bedoelde categorie en het woord ,uitgezonderd’, in de taal van het desbetreffende land. Bijvoorbeeld: H6. Indien nodig mag het symbool worden vervangen door een opschrift in de landstaal.
 
-#### 5
+##### 5
 
 Om aan te duiden dat parkeerplaatsen zijn voorbehouden aan gehandicapten, wordt bord H,7 gebruikt in combinatie met tekens C,18 of E,14.
 
-#### 6
+##### 6
 
 Het onderbord H,8 toont een diagram van de kruising waarop brede stroken voorrangswegen aanduiden en smalle stroken de wegen waarlangs tekens B,1 of B,2 zijn geplaatst.
 
-#### 7
+##### 7
 
 Om aan te duiden dat het komende weggedeelte glad is vanwege ijzel of sneeuw, wordt onderbord H,9 gebruikt.
 

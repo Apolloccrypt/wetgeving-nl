@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026"
 identifier: "BWBR0052452"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-25
-laatste_update: 2026-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052452"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-25"
+last_updated: "2026-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052452"
+soort: "zbo"
+stam_id: "17819233"
+version_id: "31496222"
+internal_id: "C44977561"
+label_id: "17716544"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052452/2026-03-25/0"
+intitule_bron: "Stcrt.2026-11241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-10"
+intitule_published: "2026-03-24"
+intitule_in_force: "2026-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-11241"
+original_signed_date: "2026-03-10"
+original_published_date: "2026-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-11241"
+entry_into_force_date: "2026-03-25"
+jci_1_3: "jci1.3:c:BWBR0052452&z=2026-03-25&g=2026-03-25"
+jci_1_0: "1.0:c:BWBR0052452&g=2026-03-25"
+citeertitel_status: "officieel"
+signed_date: "2026-03-10"
+entry_into_force: "2026-03-25"
 ---
-
 # Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026
 
 **Grondslag**
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -112,7 +137,7 @@ In dit stuk wordt verstaan onder:
 
 - **Zorg- en Veiligheidshuis:** een Zorg- en Veiligheidshuis verbindt en ondersteunt professionals uit het veiligheids-, zorg- en gemeentelijk domein in het kader Ketenveldnorm levensloopfunctie en beveiliging intensieve zorg. Samen werken Zorg- en Veiligheidshuizen aan een oplossing als een persoon problemen heeft op meer dan één van deze gebieden en een veiligheidsrisico is voor zichzelf of zijn omgeving. Het Zorg- en Veiligheidshuis regisseert de aanpak van deze complexe casuïstiek om escalatie te voorkomen. De aanmelding voor de levensloopaanpak van een Wlz-cliënt is georganiseerd in afstemming met de Zorg- en Veiligheidshuizen. Gezamenlijk komen betrokken partijen tot het besluit een cliënt wel of niet te includeren. In het proces van de coördinatiekosten levensloopfunctie wordt door de Zorg- en Veiligheidshuizen de datum inclusie vastgelegd. Daar vindt ook de controle op de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) indicatie plaats. De levensloopaanbieder die de coördinatie gaat leveren, krijgt een bevestiging van de datum inclusie plus het bestaan van de Wlz indicatie als deze voor betreffende cliënt is afgegeven. Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van:
 
@@ -132,11 +157,11 @@ Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebrui
 
 - –. overbruggingsregeling bij doorstroom sglvg en lvg1In artikel 10 staat overbruggingszorg bij instroom naar sglvg en lvg beschreven..
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Prijspeil
+##### Artikel 4. Prijspeil
 
 De loon- en materiële kosten van de beleidsregelwaarden bevatten de definitieve percentages 2025 en de voorschotpercentages 2026.
 
@@ -144,7 +169,7 @@ Indien binnen de beleidsregelwaarde een nhc is opgenomen (zie [bijlage 2](https:
 
 Indien binnen de beleidsregelwaarde een nic is opgenomen (zie [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&bijlage=2&z=2026-03-25&g=2026-03-25)), dan bevat de nic de index voor materiële kosten.
 
-#### Artikel 5. Beleidsregelwaarden voor tariefvaststelling
+##### Artikel 5. Beleidsregelwaarden voor tariefvaststelling
 
 De NZa stelt de tarieven in een tariefbeschikking vast op de bedragen zoals vermeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=13&z=2026-03-25&g=2026-03-25), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=14&z=2026-03-25&g=2026-03-25) en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=15&z=2026-03-25&g=2026-03-25) (beleidsregelwaarden).
 
@@ -226,7 +251,7 @@ De vervoersprestaties voor cliënten ggz wonen sluiten aan bij de vervoerspresta
 
 - c. Er is een prestatiebeschrijving logeren voor vv, vg, zg, lg, lvg en ggz wonen, en een prestatiebeschrijving logeren voor cliënten met een zeer ernstige verstandelijke en meervoudige beperking (zevmb). De prestatiebeschrijvingen zijn opgenomen in [artikel 6, vierde lid, onder 7 en h](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=6&z=2026-03-25&g=2026-03-25) van deze beleidsregel.
 
-#### Artikel 6. Prestatiebeschrijvingen basisprestaties
+##### Artikel 6. Prestatiebeschrijvingen basisprestaties
 
 De NZa stelt de prestatiebeschrijvingen van de zzp’s vast op de zorgprofielen zoals vastgesteld in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=A) en [F van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&bijlage=F). Onderstaande tabel geeft een overzicht van zorgprofielen en ’op basis daarvan vast te stellen zzp-prestaties.
 
@@ -454,7 +479,7 @@ Hoe het declareren van vervoer in zijn werk gaat in geval van deeltijdverblijf s
 | **Doel** Het doel van de ZZP 7vg-plus inclusief behandeling inclusief dagbesteding is het bekostigen van de zorg aan de zwaarste groep cliënten met een Wlz-indicatie vg7 (zorgprofiel VG (Besloten) wonen met zeer intensieve begeleiding, verzorging en gedragsregulering). **Grondslag** Deze prestatie is voor cliënten met een verstandelijke beperking met een Wlz-indicatie vg7 die zorg met verblijf inclusief behandeling en dagbesteding ontvangen. **Doelgroep** De prestatie heeft betrekking op de doelgroep cliënten bij wie sprake is van specifieke cliënt- en zorginhoudelijke kenmerken die zorgen voor een (veel) hogere zorgintensiteit dan in de reguliere vg7-prestatie (ZZP 7vg inclusief behandeling inclusief dagbesteding) en voor wie vanwege de hoge zorgintensiteit de reguliere vg7-prestatie niet toereikend is. De doelgroep onderscheidt zich op enkele punten van de doelgroep met de prestatie vg7. Aan alle punten moet zijn voldaan. Het gaat om: • De cliënten verblijven in een Wlz-instelling waar zij ook behandeling ontvangen. • De cliënten laten zeer ernstig probleemgedrag zien of kunnen dat laten zien bij het ontbreken van de juiste zorg. Dit probleemgedrag komt zeer ernstig en frequent of langdurig tot uiting of kan dat komen. Ondanks de inzet van behandeling verandert het gedrag niet of nauwelijks of verslechtert de situatie. Dit probleemgedrag levert in combinatie met hiermee sterk verweven psychische problemen gevaar op voor de cliënten of hun omgeving. • Daarnaast hebben cliënten een combinatie van een of meer van de volgende problemen: ernstig trauma, zintuiglijke-, fysieke (motorische) beperkingen, verslavings- of somatisch problemen. Kenmerkend is dat de bijkomende problematiek sterk verweven is met elkaar waardoor deze problematiek complex is en gevaar kan opleveren voor de cliënten en hun omgeving en nadelig is voor de kwaliteit van leven. • De cliënten hebben een disharmonisch profiel, waarbij de sociale en emotionele ontwikkeling sterk uit elkaar lopen. De cliënten hebben door een disharmonisch profiel een zeer beperkt perspectief op het ontwikkelen of vergroten van praktische en sociaal emotionele vaardigheden. Zelfs met zeer intensieve zorg/begeleiding en extra oefening lukt het niet of nauwelijks om te werken aan praktische en emotionele vaardigheden. Een indicatie voor het sociaal emotionele ontwikkelingsniveau bedraagt voor een cliënt met ernstig verstandelijke beperking maximaal 18 maanden en voor een cliënt met een licht of matig verstandelijke beperking maximaal 36 maanden. • De cliënten hebben een grote gevoeligheid voor een passende zorgomgeving. Het betreft hier niet alleen de fysieke omgeving (zoals het verblijfsgebouw) maar ook wijze waarop de zorg wordt verleend (begeleiding, begeleidingsstijl, continuïteit). Cliënten ervaren voortdurende stress en dit kan, zeker als de omgeving en begeleiding hier niet op zijn ingericht, meerdere keren per dag tot probleemgedrag leiden. |
 | Cliënten hebben behoefte aan continue directe nabijheid van begeleiders die één begeleidingsstijl volgen. Dit om de voor cliënten noodzakelijke basisveiligheid te behouden of te vergroten en om risicovol gedrag te voorkomen of te beperken. Met een passende plek en een op de individuele cliënt afgestemde begeleiding kan de in het vorige punt genoemde problematiek verminderen, maar zonder zal er altijd sprake zijn van extreme gedragsproblematiek en bijkomende psychische problemen. • Cliënten hebben altijd professionele begeleiding nodig om deel te kunnen nemen aan dagelijkse activiteiten op bijvoorbeeld het gebied van zelfzorg, huishouden, dagbesteding, werk of vrije tijd. Deze activiteiten kunnen zowel binnen een instelling plaatsvinden als daarbuiten. Zo heeft een cliënt bij het bewegen in de maatschappij altijd de directe nabijheid van de begeleider nodig. Waar deze activiteiten ook plaatsvinden, er zal gedurende de hele dag intensieve begeleiding nodig zijn. Komen tot en vasthouden van een betekenisvolle daginvulling voor een cliënt lukt moeilijk en alleen als begeleiders direct nabij zijn. Overgangen gedurende de dag (bijvoorbeeld van dagbesteding naar wonen en omgekeerd, naar andere mensen) kunnen onrust geven. Verstoringen in de voorspelbaarheid van de dag hebben vaak grote impact op de cliënten. Prestatie en voorwaarden De prestatie ZZP 7vg-plus inclusief behandeling inclusief dagbesteding omvat de integrale zorg aan de cliënt die behoort tot de hiervoor beschreven doelgroep: verpleging, verzorging, begeleiding, dagbesteding en behandeling. Voor toepassing van deze prestatie moet aan alle onderstaande voorwaarden zijn voldaan. 1. De cliënt heeft minimaal een half jaar de Wlz-indicatie vg7. 2. Het probleemgedrag en de bijkomende problemen vragen voortdurende aandacht en continue alertheid van begeleiders en het hierna beschreven interdisciplinaire behandelteam. De zorg en begeleiding van de cliënt is **primair** gericht op het behouden en vergroten van de basisveiligheid van de cliënt, het vergroten van het vertrouwen van de cliënt in anderen en het voorkomen en/of beperken van risicovol gedrag. 3. Dat de zorg en begeleiding van de cliënt primair gericht is op het behouden en vergroten van de basisveiligheid van de cliënt, het vergroten van het vertrouwen van de cliënt in anderen en het voorkomen en/of beperken van risicovol gedrag is, is vastgelegd in het zorgplan. Daarnaast staat in het zorgplan ook beschreven welke stappen zijn gezet en welke vervolgstappen worden gezet in de permanente zoektocht naar het vinden van aansluiting bij de behoeften van de cliënt, het behouden en vergroten van de basisveiligheid en het continu inschatten (de risico’s) van gedrag. Deze stappen worden periodiek geëvalueerd via methodisch werken. 4. Zorgverleners zijn continu direct nabij de cliënt. Zorgverleners volgen één begeleidingsstijl. Deze zorginzet houdt verband met de hiervoor beschreven kenmerken van de doelgroep. Dit betekent onder meer dat zorgverleners in contact blijven met de cliënt en continu alert zijn om het stressniveau van de cliënt te verlagen. Daarnaast is continue directe nabijheid, structuur en alertheid van begeleiding essentieel om het gedrag van de cliënt te kunnen monitoren en zo nodig preventief te kunnen acteren. 5. Begeleiders bieden zeer veel zorg en ondersteuning. De begeleidingsintensiteit is (mede door de behoefte aan nabijheid) over het algemeen hoger dan bij een reguliere vg7-cliënt. Het uitgangspunt voor vg7-plus is**minimaal** twee begeleiders op zes cliënten gedurende de dag. Bij het begeleiden van de cliënt kan de begeleider hooguit een kortdurende niet-cliëntgebonden taak uitvoeren in nabijheid van de cliënt. Voor de langer durende niet-cliëntgebonden taken worden aparte kantoordiensten in het rooster gepland. 6. Bij de cliënt is een multidisciplinair team betrokken. De intensiteit van de inzet van dit team is hoger dan bij vg7-regulier cliënten. Dit multidisciplinair team bestaat uit meerdere behandelaren zoals een orthopedagoog (generalist) of (GZ)psycholoog, arts VG, paramedicus of therapeuten. In ieder geval overlegt het multidisciplinaire team periodiek en regelmatig tussendoor over de begeleiding van de cliënt. 7. De multidisciplinaire behandeling en begeleiding zijn er vooral op gericht om continue met elkaar te blijven afstemmen hoe het leven van de cliënt menswaardig en betekeningsvol blijft, waarbij dit een blijvende zoektocht is. In deze zoektocht heeft ook externe consultatie plaats gevonden. Daarbij is continue aandacht voor het inschatten, voorkomen en beperken van risicovol gedrag. Er vindt voortdurende interdisciplinaire afstemming plaats. Zo wordt elke structurele aanpassing in de behandeling, de begeleiding of het dagelijkse programma van de cliënt eerst in het multidisciplinair team besproken. 8. De cliënt woont altijd in een beschermde woonlocatie (of op een terrein) van een zorgaanbieder die verantwoordelijk is voor de integrale zorg aan de cliënt (verpleging, verzorging, begeleiding, dagbesteding en behandeling). De zorg noodzakelijk voor verblijf, dagbesteding en Wlz-behandeling wordt door de verblijfsaanbieder zelf geleverd. 9. De woonzorg aan de cliënt wordt alleen geboden in combinatie met zorg aan andere cliënten met een indicatie voor een vg7-zorgprofiel. In de (groeps)woning van de cliënt wonen uitsluitend cliënten met een indicatie voor zorgprofiel vg7. 10. De dagbesteding wordt geboden vanuit het integrale zorgplan dat is opgesteld door de verantwoordelijke woonlocatie. De cliënt wordt benaderd vanuit één begeleidingsstijl waarbij er intensieve afstemming en samenwerking is tussen de begeleiding vanuit het wonen en vanuit de dagbesteding. De overgang tussen wonen en dagbesteding wordt gezamenlijk vorm gegeven om deze overgang zo soepel mogelijk te laten verlopen. Bijvoorbeeld doordat woonbegeleiders mee gaan naar de dagbesteding of dagbestedingsbegeleiders activiteiten aanbieden op de woongroep. Dit zorgt voor een grote overlap tussen de begeleiding die de dagbesteding levert en de begeleiding vanuit de woongroep, met als doel de overgangen voor de cliënt zo soepel mogelijk te laten verlopen. De essentie is dat een beperkt aantal begeleiders (wonen en dagbesteding) betrokken zijn bij een cliënt. Behandelaren zijn ook actief bij de dagbesteding betrokken. De integrale organisatie van wonen en dagbesteding betekent niet dat de dagbesteding ook altijd op de woonlocatie plaats vindt. 11. Voor de zorgverleners is structureel een steunstructuur ingericht. Daarmee wordt zowel preventief als na incidenten opvang geboden. |
 
-#### Artikel 7. Prestatiebeschrijvingen toeslagen
+##### Artikel 7. Prestatiebeschrijvingen toeslagen
 
 De NZa stelt de volgende prestatiebeschrijvingen voor toeslagen vast die aanvullend op een basisprestatie kunnen worden geleverd. Deze toeslagen zijn alleen van toepassing indien is voldaan aan de voorwaarden die voor alle toeslagen gelden en aan de specifieke voorwaarden per afzonderlijke toeslag zoals genoemd in dit hoofdstuk.
 
@@ -570,7 +595,7 @@ Om voor extra bekostiging bovenop de zzp in aanmerking te komen gelden de volgen
 | **Grondslag en doelgroep:** Zzp vg, lg en zg met dagbesteding en behandeling. |
 | **Voorwaarde:** – De zorgaanbieder verleent zorg in een (multifunctioneel) kinderdagcentrum aan kinderen met een (ernstige) handicap en/of kinderen met een meervoudige handicap inclusief eventuele gedragsproblematiek. – De toeslag kan alleen worden toegekend ter zake van een cliënt (kind), die verblijft bij een zorgaanbieder. Deze cliënt ontvangt dagbesteding/behandeling bij een kinderdagcentrum van dezelfde zorgaanbieder. |
 
-#### Artikel 8. Overbruggingszorg sglvg en lvg
+##### Artikel 8. Overbruggingszorg sglvg en lvg
 
 (O513, O523, O533, O543, O553 en O573)
 
@@ -581,7 +606,7 @@ Om voor extra bekostiging bovenop de zzp in aanmerking te komen gelden de volgen
 | **Grondslag en doelgroep:** Cliënten met een indicatie voor vv 4 tot en met 9b, vg 3 tot en met 8, lg 2 en 4 tot en met 7, zg aud 2 tot en met 4, zg vis 2 tot en met 5, of ggz-wonen 1 tot en met 5, die vóór herindicatie beschikten over een indicatie voor lvg 1 tot en met 5, sglvg 1. Cliënten met een indicatie voor lvg 1 tot en met 5, die vóór herindicatie beschikten over een indicatie voor sglvg 1. |
 | **Voorwaarden:** – De overbruggingszorg kan alleen worden toegekend aan cliënten die een sglvg- of lvg-indicatie hebben gehad en vervolgens zijn geherindiceerd naar een andere Wlz-indicatie. Overbruggingszorg kan alleen worden gedeclareerd indien er na de herindicatie nog geen passende plaats beschikbaar is voor de betreffende cliënt. – De overbruggingszorg geldt vanaf de dag dat de sglvg- of lvg-indicatie afloopt tot aan de dag dat de cliënt verhuist naar een passende Wlz-instelling. – |
 
-#### Artikel 9. Aan- en afwezigheid
+##### Artikel 9. Aan- en afwezigheid
 
 Voor de bekostiging van de prestaties zzp, verblijfscomponent-niet geïndiceerde partner, crisiszorg vv en lvg, crisiszorg ghz, logeren, logeren zevmb, kib en alle toeslagen als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=7&z=2026-03-25&g=2026-03-25), vallende onder deze beleidsregel geldt als voorwaarde dat de cliënt aanwezig is in de instelling.
 
@@ -677,11 +702,11 @@ Voor cliënten die in deeltijd verblijven, komen de volgende dagen in aanmerking
 
 - –. afzonderlijk afgesproken behandeling.
 
-#### Artikel 10. Overbruggingsperiode instroom sglvg en lvg
+##### Artikel 10. Overbruggingsperiode instroom sglvg en lvg
 
 Indien een cliënt geïndiceerd wordt voor een sglvg- of lvg-indicatie, maar er nog geen plaats is in een instelling die de bij dat profiel benodigde zorg kan leveren, kan volgens [artikel 2.5, tweede lid, van de Regeling langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0036014&artikel=2.5) (Rlz), tijdelijk zorg geleverd worden middels een vpt, mpt, of via een intramurale zorgaanbieder. Deze vorm van overbruggingszorg geldt gedurende een periode van maximaal dertien weken. Op grond van [artikel 3.3.6, derde lid, van de Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.3.6), kan die termijn van dertien weken worden verlengd indien er zicht op is dat binnen afzienbare tijd na het aflopen van die termijn zorg geboden kan worden in een instelling voor sglvg- of lvg-cliënten.
 
-#### Artikel 11. Palliatief terminale zorg
+##### Artikel 11. Palliatief terminale zorg
 
 1. Aanvullende voorwaarden voor prestatie zzp en vpt vv-10 (palliatief terminale zorg)
 
@@ -709,7 +734,7 @@ Het CIZ indiceert met ingang van 1-1-2018 niet meer voor bovengenoemd zorgprofie
 
 Wlz-cliënten met een zorgprofiel gehandicaptenzorg (ghz) of geestelijke gezondheidszorg (ggz) die terminale zorg behoeven, hebben toegang tot de prestatie vpt of zzp vv-10 wanneer de dominante grondslag een somatische en/of psychogeriatrische ziekte/aandoening wordt en wanneer zij voldoen aan de gestelde voorwaarden in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=11&z=2026-03-25&g=2026-03-25).
 
-#### Artikel 12. Deeltijdverblijf (dtv)
+##### Artikel 12. Deeltijdverblijf (dtv)
 
 Het doel van dtv is dat cliënten, middels een gemiddeld vast patroon, van verblijfplaats kunnen wisselen: ze wonen deels thuis en deels in een instelling. Hierdoor kunnen cliënten wennen aan het verblijf in een instelling en/of worden mantelzorgers ontzien.
 
@@ -745,7 +770,7 @@ Het bekostigen van dagbesteding en vervoer in geval van dtv gaat via de volgende
 
 3 Het betreft hier de dagbestedings- en vervoersprestaties vv uit de Beleidsregel prestatiebeschrijvingen en tarieven modulaire zorg.
 
-#### Artikel 13. Zzp-beleidsregelwaarden
+##### Artikel 13. Zzp-beleidsregelwaarden
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
 
@@ -1081,7 +1106,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=20
 | Overbruggingszorg 5lvg incl.bh incl. db | O553 | € 530,56 |
 | Overbruggingszorg 1sglvg incl.bh incl. db | O573 | € 665,47 |
 
-#### Artikel 14. Dtv-beleidsregelwaarden
+##### Artikel 14. Dtv-beleidsregelwaarden
 
 | dtv | excl. Behandeling incl. dagbesteding | excl. Behandeling incl. dagbesteding |
 | --- | --- | --- |
@@ -1145,7 +1170,7 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=20
 | zg-vis-4 | D840 | € 325,06 |
 | zg-vis-5 | D850 | € 414,35 |
 
-#### Artikel 15. Vpt-beleidsregelwaarden
+##### Artikel 15. Vpt-beleidsregelwaarden
 
 De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=2026-03-25&g=2026-03-25) beschreven beleidsregelwaarden voor tariefvaststelling zijn:
 
@@ -1388,19 +1413,19 @@ De in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052452&artikel=5&z=20
 | Verschijnen ter zitting in het kader van de [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) | V1012 | € 35,38 |
 | Reistoeslag zorgverlener bij verschijnen ter zitting in het kader van de [Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0040632), per 10 minuten | V1013 | € 11,79 |
 
-#### Artikel 16. Beleidsregelwaarden overige basisprestaties
+##### Artikel 16. Beleidsregelwaarden overige basisprestaties
 
 | Prestatie | Prestatiecode | Totaalwaarde per dag |
 | --- | --- | --- |
 | Coördinatiekosten levensloopaanpak per geïncludeerde | H540 | € 23,76 |
 
-#### Artikel 17. Intrekken oude beleidsregel
+##### Artikel 17. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050109), met kenmerk BR/REG-25131a, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2026](https://wetten.overheid.nl/jci1.3:c:BWBR0051621), met kenmerk BR/REG-26125a, ingetrokken.
 
-#### Artikel 18. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 18. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel prestatiebeschrijvingen en tarieven zorgzwaartepakketten en volledig pakket thuis 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050109), met kenmerk BR/REG-25131a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

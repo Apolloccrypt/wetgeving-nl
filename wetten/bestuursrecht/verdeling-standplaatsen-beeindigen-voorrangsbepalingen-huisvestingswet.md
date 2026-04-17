@@ -1,13 +1,37 @@
 ---
 title: "Verdeling standplaatsen; beëindigen voorrangsbepalingen Huisvestingswet"
 identifier: "BWBR0014544"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-01-10
-laatste_update: 2003-01-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014544"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-01-10"
+last_updated: "2003-01-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014544"
+soort: "circulaire"
+stam_id: "6387313"
+version_id: "11047432"
+internal_id: "C14949341"
+label_id: "6376164"
+original_entry_into_force: "2003-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014544/2003-01-10/0"
+intitule_bron: "Stcrt.2003-7"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-24"
+intitule_published: "2003-01-10"
+intitule_in_force: "2003-01-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-7"
+original_signed_date: "2002-12-24"
+original_published_date: "2003-01-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-007-p14-SC38080"
+entry_into_force_date: "2003-01-10"
+jci_1_3: "jci1.3:c:BWBR0014544&z=2003-01-10&g=2003-01-10"
+jci_1_0: "1.0:c:BWBR0014544&g=2003-01-10"
+citeertitel_status: "redactioneel"
+signed_date: "2002-12-24"
+entry_into_force: "2003-01-10"
 ---
-
 # Verdeling standplaatsen; beëindigen voorrangsbepalingen Huisvestingswet
 
 Geacht college/bestuur,

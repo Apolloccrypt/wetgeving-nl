@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Commissie sociaal minimum Caribisch Nederland"
+title: "Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 februari 2023, nr. 2023-0000070265, tot instelling van de Commissie sociaal minimum Caribisch Nederland (Instellingsbesluit Commissie sociaal minimum Caribisch Nederland)"
 identifier: "BWBR0047917"
-categorie: "Overig"
-publicatiedatum: 2023-02-28
-laatste_update: 2023-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047917"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-02-28"
+last_updated: "2023-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047917"
+soort: "ministeriele-regeling"
+stam_id: "16684083"
+version_id: "29266292"
+internal_id: "C41686051"
+label_id: "16601714"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047917/2023-02-28/0"
+intitule_bron: "Stcrt.2023-6204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-17"
+intitule_published: "2023-02-27"
+intitule_in_force: "2023-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-6204"
+original_signed_date: "2023-02-17"
+original_published_date: "2023-02-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-6204"
+entry_into_force_date: "2023-02-28"
+jci_1_3: "jci1.3:c:BWBR0047917&z=2023-02-28&g=2023-02-28"
+jci_1_0: "1.0:c:BWBR0047917&g=2023-02-28"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie sociaal minimum Caribisch Nederland"
+signed_date: "2023-02-17"
+entry_into_force: "2023-02-28"
 ---
-
 # Besluit van de Minister voor Armoedebeleid, Participatie en Pensioenen van 17 februari 2023, nr. 2023-0000070265, tot instelling van de Commissie sociaal minimum Caribisch Nederland (Instellingsbesluit Commissie sociaal minimum Caribisch Nederland)
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
@@ -16,7 +42,7 @@ Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en Commi
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **de Commissie:** de Commissie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047917&artikel=2&z=2023-02-28&g=2023-02-28).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie sociaal minimum Caribisch Nederland.
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 4. De Commissie rapporteert over haar bevindingen.
 
-#### Artikel 3. Instellingsduur
+##### Artikel 3. Instellingsduur
 
 1. De Commissie wordt ingesteld met ingang van 1 maart 2023 en brengt haar eindrapport voor 1 oktober 2023 uit aan de Minister.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 5. Nadat de Commissie is opgeheven kan de voorzitter nog worden verzocht om namens de Commissie een toelichting te geven op het eindrapport.
 
-#### Artikel 4. Samenstelling en benoeming
+##### Artikel 4. Samenstelling en benoeming
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste zeven andere leden.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 5. De voorzitter en overige leden kunnen op eigen verzoek of wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden worden geschorst en ontslagen door de Minister.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. De Commissie wordt ondersteund door een secretariaat.
 
@@ -70,11 +96,11 @@ In dit besluit wordt verstaan onder:
 
 3. In het secretariaat wordt voorzien door de Minister.
 
-#### Artikel 6. Vergoeding
+##### Artikel 6. Vergoeding
 
 De leden van de Commissie ontvangen een vergoeding overeenkomstig de [Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775).
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De Commissie stelt haar eigen werkwijze vast.
 
@@ -82,7 +108,7 @@ De leden van de Commissie ontvangen een vergoeding overeenkomstig de [Wet vergoe
 
 3. De Commissie verantwoordt haar werkwijze in het eindrapport.
 
-#### Artikel 8. Kosten van de onderzoekscommissie
+##### Artikel 8. Kosten van de onderzoekscommissie
 
 1. De kosten van de Commissie worden, voor zover goedgekeurd, gefinancierd door de Minister.
 
@@ -94,15 +120,15 @@ De leden van de Commissie ontvangen een vergoeding overeenkomstig de [Wet vergoe
 
 - c. de kosten voor oplevering van het rapport.
 
-#### Artikel 9. Archivering
+##### Artikel 9. Archivering
 
 De archiefbescheiden van de Commissie worden na haar opheffing overgebracht naar het archief van het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sociaal minimum Caribisch Nederland.
 

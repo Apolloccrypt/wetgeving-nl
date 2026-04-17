@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020 nr. WJZ/20062897, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 700, 1400 en 2100 MHz-band ten behoeve van mobiele communicatietoepassingen en wijziging van de Regeling vergoedingen Agentschap Telecom 2020 (Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz)"
 identifier: "BWBR0043242"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-03-07
-laatste_update: 2020-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043242"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-03-07"
+last_updated: "2020-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043242"
+soort: "ministeriele-regeling"
+stam_id: "15355773"
+version_id: "26545932"
+internal_id: "C37674251"
+label_id: "15301014"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043242/2020-03-07/0"
+intitule_bron: "Stcrt.2020-13725"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-06"
+intitule_published: "2020-03-06"
+intitule_in_force: "2020-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-13725"
+original_signed_date: "2020-03-06"
+original_published_date: "2020-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-13725"
+entry_into_force_date: "2020-03-07"
+jci_1_3: "jci1.3:c:BWBR0043242&z=2020-03-07&g=2020-03-07"
+jci_1_0: "1.0:c:BWBR0043242&g=2020-03-07"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz"
+signed_date: "2020-03-06"
+entry_into_force: "2020-03-07"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 6 maart 2020 nr. WJZ/20062897, tot vaststelling van de aanvraag- en veilingprocedure voor vergunningen voor frequentieruimte in de 700, 1400 en 2100 MHz-band ten behoeve van mobiele communicatietoepassingen en wijziging van de Regeling vergoedingen Agentschap Telecom 2020 (Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz)
 
 Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=9) en [10 van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=10);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Beschikbare vergunningen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ingevolge het [bekendmakingsbesluit](onbekend) zijn beschikbaar om door middel van een veiling te worden verdeeld:
 
@@ -80,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Vergunningaanvraag en zekerheidstelling (inschrijvingsfase)
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die voor een vergunning als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=2&artikel=2&z=2020-03-07&g=2020-03-07), in aanmerking wil komen, dient een aanvraag in.
 
@@ -92,7 +118,7 @@ In deze regeling wordt verstaan onder:
 
 3. De persoonlijke overhandiging, bedoeld in het tweede lid, onderdeel b, vindt in de genoemde periode plaats op werkdagen tussen 8:30 uur en 18:00 uur. Bij persoonlijke overhandiging van de aanvraag wordt een bewijs van ontvangst afgegeven dat is voorzien van datum en tijdstip van ontvangst en ondertekening.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aanvrager dient ten hoogste één aanvraag in.
 
@@ -108,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 7. De gegevens en bescheiden, bedoeld in het zesde lid, mogen in afwijking van het vijfde lid, in een van de officiële talen van de Europese Unie of de Europese Economische Ruimte worden gesteld. In dat geval worden die gegevens en bescheiden vergezeld van een Nederlandse vertaling van die gegevens en bescheiden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvrager informeert de minister onmiddellijk over een wijziging met betrekking tot de gegevens en bescheiden, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&bijlage=I&z=2020-03-07&g=2020-03-07). Hij informeert de minister op de wijze beschreven in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=3&z=2020-03-07&g=2020-03-07).
 
@@ -126,7 +152,7 @@ In deze regeling wordt verstaan onder:
 
 - b. de aanvrager op grond van [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=11&z=2020-03-07&g=2020-03-07), is uitgesloten van deelname aan de veiling.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvrager verstrekt als zekerheid voor de betaling van zijn bod een waarborgsom of een bankgarantie ter grootte van € 35.279.000,–.
 
@@ -146,7 +172,7 @@ In deze regeling wordt verstaan onder:
 
 4. Uiterlijk binnen twee weken nadat de minister overeenkomstig [artikel 5, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=5&z=2020-03-07&g=2020-03-07), heeft besloten de aanvraag niet te behandelen, de aanvraag heeft afgewezen op grond van artikel 5, zesde lid, of [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=7&z=2020-03-07&g=2020-03-07), de aanvraag heeft geweigerd op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18), of een aanvrager of deelnemer heeft uitgesloten van deelname of verdere deelname op grond van [artikel 11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=11&z=2020-03-07&g=2020-03-07), of [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=13&z=2020-03-07&g=2020-03-07), stort de minister de waarborgsom terug aan de betreffende aanvrager of stuurt de minister een schriftelijke verklaring dat de bankgarantie vervalt aan de bank van die aanvrager die ter zekerstelling een bankgarantie heeft overgelegd. De minister stuurt een kopie van deze verklaring aan de aanvrager. [Artikel 29, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=8&artikel=29&z=2020-03-07&g=2020-03-07), is van overeenkomstige toepassing. De minister vergoedt aan de aanvrager rente over het gestorte bedrag over de periode vanaf de dag na de dag dat de minister heeft besloten de aanvraag niet te behandelen, de aanvraag heeft afgewezen of geweigerd, of de aanvrager of deelnemer heeft uitgesloten van deelname of verdere deelname tot en met de dag voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort. Deze rente wordt op dezelfde dag teruggestort als de dag waarop hij de waarborgsom terugstort.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De aanvrager is een privaatrechtelijke rechtspersoon naar Nederlands recht of het equivalent daarvan naar het recht van een van de overige lidstaten van de Europese Unie of een van de overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, en heeft zijn statutaire zetel, zijn hoofdbestuur of zijn hoofdvestiging binnen de Europese Economische Ruimte.
 
@@ -164,7 +190,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Toelating tot de veiling
 
-#### Artikel 8
+##### Artikel 8
 
 1. De minister deelt de aanvrager wiens aanvraag niet buiten behandeling is gesteld, afgewezen, of op grond van [artikel 3.18 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.18) is geweigerd, schriftelijk mee:
 
@@ -178,7 +204,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 5. Algemene bepalingen omtrent de veiling
 
-#### Artikel 9
+##### Artikel 9
 
 1. De veiling vindt plaats via internet, met behulp van een elektronisch veilingsysteem.
 
@@ -190,7 +216,7 @@ In deze regeling wordt verstaan onder:
 
 5. De minister leidt de veiling en draagt zorg voor een goed verloop van de veiling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De minister deelt een deelnemer uiterlijk drie weken voor aanvang van de veiling schriftelijk mee:
 
@@ -208,7 +234,7 @@ In deze regeling wordt verstaan onder:
 
 - b. het internetadres waarop de deelnemer inlogt teneinde aan de veiling deel te nemen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aanvrager of deelnemer, inbegrepen diegene die een aanvrager of deelnemer ten behoeve van de veiling bijstaat of een met de aanvrager of deelnemer verbonden rechtspersoon, onthoudt zich voorafgaand aan en gedurende de veilingprocedure van afspraken of onderling afgestemde feitelijke gedragingen die afbreuk doen of kunnen doen aan een goed verloop van de veiling, de mededinging in het kader van de veilingprocedure daaronder begrepen.
 
@@ -224,7 +250,7 @@ In deze regeling wordt verstaan onder:
 
 7. Indien niet eerder dan na afloop van de veiling blijkt dat een deelnemer naar het oordeel van de minister in strijd heeft gehandeld met het eerste, tweede, of derde lid kan de minister de winnende biedingen van die deelnemer ongeldig verklaren.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De minister bepaalt wanneer de biedronden van de veiling plaatsvinden en de duur van die biedronden.
 
@@ -234,7 +260,7 @@ In deze regeling wordt verstaan onder:
 
 4. Een deelnemer is onvoorwaardelijk en onherroepelijk aan zijn bieding gebonden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De minister kan de veiling opschorten indien zich naar zijn oordeel bijzondere omstandigheden voordoen buiten de beïnvloedingssfeer van de minister of de deelnemers of indien technische problemen optreden waardoor de veiling tijdelijk geen doorgang kan vinden. Een bijzondere omstandigheid of technisch probleem wordt door een deelnemer onverwijld maar uiterlijk binnen 10 minuten na afloop van een biedronde per telefoon gemeld aan de minister.
 
@@ -244,7 +270,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan een aanvrager of deelnemer die niet langer voldoet aan de eisen die in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=4&z=2020-03-07&g=2020-03-07), en [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=3&artikel=7&z=2020-03-07&g=2020-03-07) zijn gesteld aan een aanvrager, uitsluiten van deelname of van verdere deelname aan de veiling. [Artikel 11, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=11&z=2020-03-07&g=2020-03-07), is van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een ongeldige bieding wordt niet in aanmerking genomen bij:
 
@@ -266,7 +292,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 6. De primaire fase
 
-#### Artikel 15
+##### Artikel 15
 
 1. De primaire fase bestaat uit één of meer biedronden.
 
@@ -274,7 +300,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een bod wordt uitgedrukt in het aantal biedingen van de deelnemer op vergunningen K, L, respectievelijk M, voor de voor die biedronde vastgestelde rondeprijzen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het activiteitsniveau van een deelnemer bedraagt:
 
@@ -302,7 +328,7 @@ In deze regeling wordt verstaan onder:
 
 9. De minister kan besluiten een ingezette pasmogelijkheid niet in mindering te brengen op het aantal beschikbare pasmogelijkheden van de deelnemer wanneer deze is ingezet in een biedronde waarin of waarna de veiling op grond van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=5&artikel=13&z=2020-03-07&g=2020-03-07), werd opgeschort, maar waarbij de biedronde niet opnieuw wordt gehouden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rondeprijzen in de eerste primaire biedronde bedragen:
 
@@ -316,7 +342,7 @@ In deze regeling wordt verstaan onder:
 
 3. De rondeprijs voor een vergunning wordt verhoogd met een door de minister vast te stellen bedrag indien voor alle vergunningen in die categorie een voorlopig winnende bieding is uitgebracht voor de in de voorgaande biedronde voor die categorie geldende rondeprijs.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na elke biedronde stelt de minister per vergunningcategorie de voorlopig winnende biedingen vast overeenkomstig het bepaalde in het tweede tot en met vijfde lid, waarbij de daar genoemde lotingen worden voltrokken met gebruikmaking van de veilingsoftware.
 
@@ -328,7 +354,7 @@ In deze regeling wordt verstaan onder:
 
 5. De eerst geplaatste x biedingen in een biedingenrij worden aangemerkt als voorlopig winnende bieding, waarbij x gelijk is aan het aantal beschikbare vergunningen in de betreffende categorie.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De minister deelt elke deelnemer zo spoedig mogelijk na het einde van een biedronde mee:
 
@@ -360,7 +386,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de voor de deelnemer vastgestelde basisprijzen en het totaal daarvan.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De laatste primaire biedronde is de eerste biedronde waarin geen pasmogelijkheid is ingezet en in alle categorieën het aantal biedingen in de biedingenrij bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=18&z=2020-03-07&g=2020-03-07), kleiner of gelijk is aan het aantal beschikbare vergunningen in de betreffende categorie.
 
@@ -370,7 +396,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 7. De toewijzingsbiedronde
 
-#### Artikel 21
+##### Artikel 21
 
 1. De toewijzingsbiedronde bestaat uit een enkele biedronde waarin geboden kan worden op combinaties van de vergunningen K, L en M tezamen, en waarin wordt bepaald voor welke frequentieruimte een deelnemer een vergunning verkrijgt.
 
@@ -386,7 +412,7 @@ In deze regeling wordt verstaan onder:
 
 5. De aanvang van de toewijzingsbiedronde is niet eerder dan drie werkdagen na de mededeling bedoeld in het derde lid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De toewijzingsbiedronde vindt niet plaats indien er bij toepassing van [artikel 23, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=23&z=2020-03-07&g=2020-03-07), voor geen van de deelnemers meer dan één alternatieve combinatie van frequentieruimte is.
 
@@ -394,7 +420,7 @@ In deze regeling wordt verstaan onder:
 
 3. In afwijking van [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=25&z=2020-03-07&g=2020-03-07) bedraagt de extra prijs indien er geen toewijzingsbiedronde plaatsvindt, nul euro.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De minister stelt op basis van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), en met inachtneming van het tweede lid, voor iedere deelnemer een lijst samen met de alternatieve combinaties van frequentieruimte waarop hij, gezien de aantallen vergunningen K, L en M die hij heeft gewonnen, in de toewijzingsbiedronde kan bieden.
 
@@ -410,7 +436,7 @@ In deze regeling wordt verstaan onder:
 
 5. Indien voor een alternatieve combinatie van frequentieruimte als bedoeld in het eerste lid geen bieding wordt ontvangen, wordt voor die alternatieve combinatie uitgegaan van een biedbedrag van nul euro.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De minister stelt overeenkomstig het tweede en derde lid de finale combinatie van winnende biedingen vast.
 
@@ -424,7 +450,7 @@ In deze regeling wordt verstaan onder:
 
 3. Indien meerdere combinaties van winnende biedingen voldoen aan het tweede lid, wordt door middel van loting tussen al deze combinaties van winnende biedingen vastgesteld wat de finale combinatie van winnende biedingen is.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Nadat de finale combinatie van winnende biedingen is vastgesteld, bepaalt de minister de extra prijzen overeenkomstig het tweede lid.
 
@@ -438,7 +464,7 @@ en voldoet aan de voorwaarden, beschreven in [bijlage III](https://wetten.overhe
 
 3. De totaalprijs die een winnende deelnemer verschuldigd is voor de door hem gewonnen vergunningen, bestaat uit de op grond van [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), vastgestelde basisprijs voor die vergunningen en de extra prijs voor die vergunningen.
 
-#### Artikel 26
+##### Artikel 26
 
 De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra prijzen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=25&z=2020-03-07&g=2020-03-07), en het bepalen van de totaalprijzen, bedoeld in artikel 25, derde lid, mee:
 
@@ -450,19 +476,19 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 #### § 8. Vergunningverlening na de veiling
 
-#### Artikel 27
+##### Artikel 27
 
 1. Na beëindiging van de veiling, verleent de minister een winnende deelnemer een vergunning voor de door hem gewonnen vergunningen.
 
 2. De minister wijst de aanvraag van een deelnemer die ingevolge [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), geen winnende bieding heeft uitgebracht af.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De minister maakt uiterlijk de eerste werkdag na de veiling de informatie, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=26&z=2020-03-07&g=2020-03-07), openbaar.
 
 2. De minister maakt binnen een week na de veiling een overzicht van de biedingen van alle deelnemers in de primaire biedronden en in de toewijzingsbiedronde openbaar, waarbij de identiteit van een deelnemer die ingevolge [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=6&artikel=20&z=2020-03-07&g=2020-03-07), geen winnende bieding heeft uitgebracht niet openbaar wordt gemaakt.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Uiterlijk twee weken nadat de mededeling, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0043242&paragraaf=7&artikel=26&z=2020-03-07&g=2020-03-07), is gedaan:
 
@@ -492,15 +518,15 @@ De minister deelt de deelnemers zo spoedig mogelijk na het bepalen van de extra 
 
 #### § 9. Slotbepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt de Regeling vergoedingen Agentschap Telecom 2020.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze regeling wordt aangehaald als: Regeling aanvraag- en veilingprocedure vergunningen 700, 1400 en 2100 MHz.
 

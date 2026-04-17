@@ -1,13 +1,39 @@
 ---
-title: "Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter"
+title: "Besluit van 14 december 2005, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter"
 identifier: "BWBR0019262"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019262"
+country: "nl"
+rank: "kb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019262"
+soort: "KB"
+stam_id: "7706443"
+version_id: "15341022"
+internal_id: "C20904521"
+label_id: "7694164"
+dtd_version: "2.0"
+original_entry_into_force: "2008-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019262/2024-01-01/0"
+intitule_bron: "Stb.2005-662"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-14"
+intitule_published: "2005-12-20"
+intitule_in_force: "2005-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2008-160"
+original_signed_date: "2008-04-29"
+original_published_date: "2008-05-15"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2008-160"
+entry_into_force_date: "2008-04-29"
+jci_1_3: "jci1.3:c:BWBR0019262&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0019262&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit tijdelijke herindeling ministeriële taken in geval van een terroristische dreiging met een urgent karakter"
+signed_date: "2008-04-29"
+entry_into_force: "2008-04-29"
 ---
-
 # Besluit van 14 december 2005, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken d.d. 7 december 2005, nr. 05M480139;
@@ -16,11 +42,11 @@ Gelet op [artikel 44, eerste lid, van de Grondwet](https://wetten.overheid.nl/jc
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefening van de daaruit voortvloeiende bevoegdheden die ingevolge de in de bijlage bij dit besluit genoemde bepalingen toekomen aan een andere minister, voorzover de onverwijlde uitoefening daarvan noodzakelijk is om maatregelen te nemen ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=83) of om op voorhand de gevolgen daarvan te beperken en indien overleg of overeenstemming over die maatregelen tussen Onze Minister van Veiligheid en Justitie en die andere minister niet mogelijk is binnen de beschikbare tijd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister van Veiligheid en Justitie stelt Onze Minister-President en Onze Minister wie het aangaat onverwijld in kennis van zijn voornemen [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) toe te passen.
 
@@ -28,11 +54,11 @@ Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefenin
 
 3. Zodra de omstandigheden dit toelaten, beëindigt Onze Minister van Veiligheid en Justitie de toepassing van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) en stelt hij Onze Minister-President en Onze Minister wie het aangaat daarvan onverwijld in kennis.
 
-#### Artikel 3
+##### Artikel 3
 
 In voorkomende gevallen oefent Onze Minister van Veiligheid en Justitie bevoegdheden op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0019262&artikel=1&z=2024-01-01&g=2024-01-01) uit in overeenstemming met de beslissingen van de ministerraad of de ministeriële commissie Crisisbeheersing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
@@ -72,7 +98,7 @@ In voorkomende gevallen oefent Onze Minister van Veiligheid en Justitie bevoegdh
 
 Onze Minister-President, Minister van Algemene Zaken, Onze Minister van Justitie en Onze Ministers wie het aangaat, zijn belast met de uitvoering van dit besluit, dat in het Staatsblad zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Hoge Colleges van Staat, de ministerraad, de Gevolmachtigde Ministers van de Nederlandse Antillen en van Aruba en de ministeries.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Wijzigt dit besluit.
 

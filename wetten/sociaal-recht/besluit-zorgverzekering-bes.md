@@ -1,13 +1,39 @@
 ---
-title: "Besluit zorgverzekering BES"
+title: "Besluit van 22 december 2010, houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Besluit zorgverzekering BES)"
 identifier: "BWBR0029404"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029404"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029404"
+soort: "AMvB-BES"
+stam_id: "11198833"
+version_id: "18332802"
+internal_id: "C25532641"
+label_id: "11173304"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029404/2025-01-01/0"
+intitule_bron: "Stb.2011-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-22"
+intitule_published: "2011-01-11"
+intitule_in_force: "2011-01-11"
+intitule_status: "goed"
+original_publication: "Stb.2011-3"
+original_signed_date: "2010-10-22"
+original_published_date: "2011-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-3"
+entry_into_force_date: "2011-01-12"
+jci_1_3: "jci1.3:c:BWBR0029404&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0029404&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit zorgverzekering BES"
+signed_date: "2010-10-22"
+entry_into_force: "2011-01-12"
 ---
-
 # Besluit van 22 december 2010, houdende regels voor een zorgverzekering voor de bevolking van Bonaire, Sint Eustatius en Saba (Besluit zorgverzekering BES)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 november 2010, kenmerk Z/VV-3020244;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -66,11 +92,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - r. **Nederlandse sociale verzekeringsuitkering:** uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), [hoofdstuk 3, afdeling 2, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&afdeling=2), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) en de [Wet werk en arbeidsondersteuning jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657).
 
-#### Artikel 2
+##### Artikel 2
 
 Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebied van de BES-eilanden woont.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.
 
@@ -80,7 +106,7 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 ### Hoofdstuk 2. Kring van verzekerden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd hetgeen is bepaald in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=9&artikel=29&z=2025-01-01&g=2025-01-01), is verzekerd overeenkomstig de bepalingen van dit besluit degene, die:
 
@@ -138,7 +164,7 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 8. In afwijking van het eerste lid, onderdeel c, en voor zover al niet begrepen in de categorie van personen bedoeld in het tweede lid, onderdeel e, is niet verzekerd de persoon die buiten het grondgebied van de BES-eilanden woont, niet aan de loonbelasting BES is onderworpen en die tijdelijk op het grondgebied van de BES-eilanden werkzaam is, indien bij de aanvang van zijn werkzaamheden kan worden aangenomen, dat deze niet langer dan drie maanden, gerekend vanaf de aanvang van die werkzaamheden, op het grondgebied van de BES zullen worden verricht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De rechten en plichten ingevolge dit besluit zijn van rechtswege opgeschort gedurende de periode waarover Onze Minister van Justitie in het kader van de uitvoering van een rechterlijke uitspraak verantwoordelijk is voor de verstrekking van geneeskundige zorg aan een verzekerde.
 
@@ -148,7 +174,7 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 #### § 3.1. Curatieve zorg en langdurige zorg
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verzekerden hebben ter voorziening in de geneeskundige verzorging aanspraak op:
 
@@ -188,13 +214,13 @@ Ingezetene in de zin van dit besluit is degene, die rechtmatig op het grondgebie
 
 7. De aanspraken op zorg of op vervoer op de onderscheiden eilanden kunnen in beginsel slechts geldend worden gemaakt voor zover de zorg in redelijkheid ook geboden kan worden.
 
-#### Artikel 7
+##### Artikel 7
 
 Onze Minister beslist, na advies van het Zorgverzekeringskantoor BES, of de wijzigingen van de aard, inhoud en omvang van de prestaties die ingevolge een daartoe strekkend advies van het Zorginstituut worden aangebracht in het wettelijk aansprakenpakket, bedoeld in [artikel 3.1.1 van de Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917&artikel=3.1.1) en [artikel 11 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=11), worden doorgevoerd in de aanspraken bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01) van dit besluit.
 
 #### § 3.2. Contracten met zorgaanbieders
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister sluit met op het grondgebied van de BES-eilanden gevestigde en naar het oordeel van Onze Minister daarvoor in aanmerking komende zorgaanbieders, overeenkomsten ter verwezenlijking van de aanspraken van verzekerden, neergelegd in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01), in zodanige omvang dat Onze Minister in staat is zijn verplichtingen jegens de verzekerden naar behoren na te komen.
 
@@ -222,13 +248,13 @@ Onze Minister beslist, na advies van het Zorgverzekeringskantoor BES, of de wijz
 
 7. Bij ministeriële regeling kan tevens worden bepaald onder welke voorwaarden en tot welk bedrag aanspraak op vergoeding bestaat en kunnen nadere regels voor de aanspraak op een vergoeding worden gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke bepaling in de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.2&artikel=8&z=2025-01-01&g=2025-01-01), bedoelde overeenkomsten, die in strijd is met dit besluit of de daarop berustende bepalingen is nietig.
 
 #### § 3.3. Het geldend maken van de aanspraken
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister verifieert de verzekeringsgerechtigdheid van een persoon die aanspraak maakt op verstrekkingen door raadpleging van de basisadministratie BES.
 
@@ -252,7 +278,7 @@ Elke bepaling in de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3
 
 ### Hoofdstuk 4. De op te brengen middelen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De verzekerde is een inkomensafhankelijke premie verschuldigd.
 
@@ -262,7 +288,7 @@ Elke bepaling in de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3
 
 4. Het percentage van de premie, bedoeld in het eerste lid, wordt met ingang van elk kalenderjaar voor de periode van één jaar vastgesteld door Onze Minister in overeenstemming met Onze Minister van Financiën.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ter zake van de kosten verbonden aan de geneeskundige verzorging, bedoeld in [artikel 6, eerste lid, onderdelen a tot en met j](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01), van dit besluit is de werkgever een premie verschuldigd.
 
@@ -272,17 +298,17 @@ Elke bepaling in de in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3
 
 4. De premie wordt door de inspecteur geheven door middel van afdracht op aangifte.
 
-#### Artikel 13
+##### Artikel 13
 
 De premies, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=4&artikel=11&z=2025-01-01&g=2025-01-01), en in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=4&artikel=12&z=2025-01-01&g=2025-01-01), komen ten gunste van het Rijk.
 
-#### Artikel 14
+##### Artikel 14
 
 De kosten van de op grond van dit besluit door Onze Minister te verlenen verstrekkingen en vergoedingen, alsmede de aan de uitvoering van dit besluit verbonden kosten, komen ten laste van het Rijk.
 
 ### Hoofdstuk 5. Uitvoeringstaken
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister maakt bij de uitvoering van dit besluit gebruik van de diensten van het Zorgverzekeringskantoor BES.
 
@@ -290,7 +316,7 @@ De kosten van de op grond van dit besluit door Onze Minister te verlenen verstre
 
 3. Onze Minister wordt in en buiten rechte, voor aangelegenheden de uitvoering van het besluit betreffende, vertegenwoordigd door het hoofd Zorgverzekeringskantoor BES.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister:
 
@@ -312,19 +338,19 @@ De kosten van de op grond van dit besluit door Onze Minister te verlenen verstre
 
 3. Onze Minister stelt jaarlijks een financieel verslag op en zendt dat aan beide kamers der Staten-Generaal.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister kan, per eiland, de aan de zorgaanbieders te vergoeden bedragen vaststellen. Deze vergoedingsbedragen hoeven niet aan elkaar gelijk te zijn.
 
 2. Onze Minister oordeelt periodiek, maar in elk geval elke drie jaar, of de in het eerste lid bedoelde bedragen aanpassing behoeven.
 
-#### Artikel 18
+##### Artikel 18
 
 Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van de zorg en de zorgverlening in het kader van dit besluit.
 
 ### Hoofdstuk 6. Gegevensuitwisseling
 
-#### Artikel 19
+##### Artikel 19
 
 1. Onze Minister gebruikt het identificatienummer van de verzekerde met het doel te waarborgen dat de in het kader van de verzekering van zorg te verwerken persoonsgegevens op die verzekerde betrekking hebben.
 
@@ -336,7 +362,7 @@ Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van d
 
 - b. de bij de gegevensuitwisseling, bedoeld in het eerste en tweede lid, te verwerken feiten of gegevens met betrekking tot verzekerden van wie het vaststellen van het identificatienummer onmogelijk blijkt of een onevenredige inspanning kost. Daarbij kan worden bepaald aan welke beveiligingseisen de verwerking van die feiten of gegevens voldoet.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De zorgaanbieder raadpleegt de verzekerdenadministratie van het Zorgverzekeringskantoor BES met het uitsluitende doel te verifiëren of sprake is van een verzekerde in de zin van dit besluit.
 
@@ -356,7 +382,7 @@ Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van d
 
 - d. aan welke beveiligingseisen gegevensverwerking voldoet.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een ieder verstrekt op verzoek aan Onze Minister, het Zorgverzekeringskantoor BES, de rijksbelastingdienst, of aan een daartoe door of vanwege een van deze personen en instanties aangewezen persoon, kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067), die noodzakelijk zijn voor de uitvoering van dit besluit.
 
@@ -366,7 +392,7 @@ Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van d
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede en derde lid.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=6&artikel=21&z=2025-01-01&g=2025-01-01), bedoelde instanties zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de [Wet bescherming persoonsgegevens BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028067), te verstrekken die noodzakelijk zijn voor de uitvoering van dit besluit.
 
@@ -376,7 +402,7 @@ Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van d
 
 ### Hoofdstuk 7. Bezwaar en beroep
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister geeft aan de belanghebbende die bezwaar heeft tegen een beslissing betreffende het verlenen van zorg en het vaststellen van een bijdrage als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01), op diens verzoek schriftelijk kennis van de beslissing.
 
@@ -384,27 +410,27 @@ Onze Minister kan nadere regels stellen met betrekking tot de ontwikkeling van d
 
 3. Een kennisgeving als bedoeld in het eerste lid vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede de rechtsmiddelen die tegen de beslissing openstaan.
 
-#### Artikel 24
+##### Artikel 24
 
 Tegen een besluit van Onze Minister als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=7&artikel=23&z=2025-01-01&g=2025-01-01), staat voor belanghebbende binnen zes weken na de dag waarop deze is gegeven, beroep open bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba en hoger beroep bij het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba.
 
 ### Hoofdstuk 8. De invloed van de verzekering op het burgerlijk recht
 
-#### Artikel 25
+##### Artikel 25
 
 Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlijk recht aanspraak kan maken ter zake van een feit, dat aanleiding geeft tot het verlenen van zorg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=3&paragraaf=3.1&artikel=6&z=2025-01-01&g=2025-01-01) van dit besluit, houdt de rechter rekening met de aanspraken, die de verzekerde krachtens dit besluit heeft.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Onze Minister heeft voor de krachtens dit besluit gemaakte kosten verhaal op degene, die in verband met het in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=8&artikel=25&z=2025-01-01&g=2025-01-01) bedoelde feit jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens dit besluit naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de verzekerde naar burgerlijk recht is gehouden.
 
 2. Voor zover de geldswaarde van de in het eerste lid bedoelde verleende zorg niet kan worden vastgesteld, wordt deze bepaald op een geschat bedrag. Bij ministeriële regeling kunnen hieromtrent nadere regels worden gesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 Indien de verzekerde in dienstbetrekking werkzaam is, geldt [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=8&artikel=26&z=2025-01-01&g=2025-01-01), ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte persoon, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien het feit als genoemd in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0029404&hoofdstuk=8&artikel=25&z=2025-01-01&g=2025-01-01) is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk persoon.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Onze Minister kan van hem, die, zonder daartoe gerechtigd te zijn, opzettelijk aanspraken als verzekerde bij hem doet gelden onderscheidenlijk deed gelden, alsmede van hem, die daaraan opzettelijk zijn medewerking verleent onderscheidenlijk heeft verleend, geheel of gedeeltelijk het bedrag vorderen van de verstrekkingen die hem te veel of ten onrechte zijn verleend. Voor zover de geldswaarde van de in de eerste volzin bedoelde zorg niet vaststaat, kan deze worden vastgesteld op een geschat bedrag.
 
@@ -412,23 +438,23 @@ Indien de verzekerde in dienstbetrekking werkzaam is, geldt [artikel 26](https:/
 
 ### Hoofdstuk 9. Overgangs- en slotbepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 Indien een verzekerde op de datum van inwerkingtreding van dit besluit of op de datum waarop dit besluit op hem van toepassing wordt is gebonden aan een overeenkomst met betrekking tot de verzekering van geneeskundige zorg of de kosten daarvan en binnen vier maanden na dit tijdstip ten genoegen van Onze Minister aantoont dat hij deze overeenkomst niet met ingang van dat tijdstip rechtsgeldig kan beëindigen, is dit besluit op hem van toepassing vanaf de eerste datum met ingang waarvan de overeenkomst had kunnen worden beëindigd doch ten laatste twee jaar na inwerkingtreding van dit besluit, respectievelijk de datum waarop dit besluit op hem van toepassing wordt. Het Zorgverzekeringskantoor BES geeft op verzoek van betrokkene een verklaring af dat en tot en met welke datum de betrokkene niet verzekerd is ingevolge dit besluit.
 
-#### Artikel 30
+##### Artikel 30
 
 Voor zover dit besluit niet anders bepaalt wordt hetgeen tot zijn uitvoering nodig is bij ministeriële regeling geregeld.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Dit besluit treedt in werking met ingang van 1 januari 2011. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2010, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2011.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Besluit zorgverzekering BES.
 

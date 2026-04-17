@@ -1,20 +1,46 @@
 ---
-title: "Regeling gebruik van frequentieruimte met meldingsplicht 2015"
+title: "Regeling van de Minister van Economische Zaken van 26 februari 2015, nr. WJZ/15030714, houdende regels inzake het gebruik van frequentieruimte zonder vergunning met meldingsplicht en wijziging van de Examenregeling frequentiegebruik 2008 (Regeling gebruik van frequentieruimte met meldingsplicht 2015)"
 identifier: "BWBR0036375"
-categorie: "Overig"
-publicatiedatum: 2024-06-20
-laatste_update: 2024-06-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036375"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-20"
+last_updated: "2024-06-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036375"
+soort: "ministeriele-regeling"
+stam_id: "13002303"
+version_id: "25889012"
+internal_id: "C36894711"
+label_id: "12971174"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036375/2024-06-20/0"
+intitule_bron: "Stcrt.2015-3772"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-26"
+intitule_published: "2015-03-04"
+intitule_in_force: "2015-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-34526"
+original_signed_date: "2019-06-19"
+original_published_date: "2019-06-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-34526"
+entry_into_force_date: "2019-06-19"
+jci_1_3: "jci1.3:c:BWBR0036375&z=2024-06-20&g=2024-06-20"
+jci_1_0: "1.0:c:BWBR0036375&g=2024-06-20"
+citeertitel_status: "officieel"
+short_title: "Regeling gebruik van frequentieruimte met meldingsplicht 2015"
+signed_date: "2019-06-19"
+entry_into_force: "2019-06-19"
 ---
-
 # Regeling van de Minister van Economische Zaken van 26 februari 2015, nr. WJZ/15030714, houdende regels inzake het gebruik van frequentieruimte zonder vergunning met meldingsplicht en wijziging van de Examenregeling frequentiegebruik 2008 (Regeling gebruik van frequentieruimte met meldingsplicht 2015)
 
 Gelet op [artikel 3.9 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.9), alsmede de [artikelen 3 tot en met 5, van het Frequentiebesluit 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -60,11 +86,11 @@ In deze regeling wordt verstaan onder:
 
 - v. **SAR (Search and Rescue) communicatie:** radiocommunicatie ten behoeve van opsporings- en reddingoperaties.
 
-#### Artikel 2
+##### Artikel 2
 
 De [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=3&z=2024-06-20&g=2024-06-20) zijn van toepassing op gebruik van frequentieruimte zonder vergunning als bedoeld in de [artikelen 3 tot en met 5 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=3), met uitzondering van maritiem mobiele communicatie vanaf het land.
 
-#### Artikel 3
+##### Artikel 3
 
 Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge het frequentieplan de bestemming ‘amateur´ of ‘amateursatelliet´ heeft, indien het betreft:
 
@@ -74,7 +100,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 - c. een stichting die zich blijkens de statutaire doelstelling richt op het doen van onderzoekingen met radioapparaten en die de belangen van radiozendamateurs behartigt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Degene die een radioapparaat bedient ten behoeve van maritiem mobiele communicatie beschikt over een certificaat van bediening als bedoeld in [artikel 12 van de Examenregeling frequentiegebruik 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024285&artikel=12), dat geldig is voor het desbetreffende frequentiegebruik overeenkomstig het bepaalde in bijlage 2, en heeft een leeftijd van ten minste zestien jaren.
 
@@ -82,7 +108,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 3. In afwijking van het eerste en het tweede lid kan een persoon die niet voldoet aan de desbetreffende voorwaarde een radioapparaat bedienen indien de bediening plaatsvindt in directe aanwezigheid en onder verantwoordelijkheid van een persoon die wel aan deze voorwaarde voldoet.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De melding, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032895&artikel=5), wordt gedaan bij de Minister, met gebruikmaking van een door hem ter beschikking gesteld middel.
 
@@ -100,7 +126,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 5. Indien als gevolg van gewijzigde omstandigheden de gegevens die bij de melding zijn verstrekt niet langer overeenkomen met de feitelijke situatie, doet degene die de melding heeft gedaan bij de Minister een nieuwe melding van de actuele gegevens. Het derde en vierde lid zijn van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister registreert het voorgenomen frequentiegebruik overeenkomstig de melding tenzij niet wordt voldaan aan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2024-06-20&g=2024-06-20) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-06-20&g=2024-06-20), en bericht hierover degene die de melding heeft gedaan, onder verstrekking van een bewijs van registratie aan degene wiens melding is geregistreerd. Een registratie kan door de Minister worden geweigerd voor zover een eerdere registratie is doorgehaald wegens overtreding van bij of krachtens de wet gestelde regels.
 
@@ -122,7 +148,7 @@ Een rechtspersoon kan slechts gebruik maken van frequentieruimte die ingevolge h
 
 5. De Minister haalt de registratie door op verzoek van de betrokkene of indien is vastgesteld dat de betrokkene niet langer gebruik maakt van de frequentieruimte. De Minister kan de registratie doorhalen indien niet wordt voldaan aan de [artikelen 2 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=2&z=2024-06-20&g=2024-06-20), of indien de betrokkene de verschuldigde vergoeding voor de registratie niet heeft voldaan. De Minister bericht de betrokkene over de doorhaling.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorschriften ten aanzien van de beschikbare frequentieruimte, de toepassingen, het zendvermogen en de bekwaamheid die:
 
@@ -130,7 +156,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - b. ten aanzien van frequentieruimte met de bestemming ‘maritiem mobiele communicatie´ zijn opgenomen in bijlage 2.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij gebruik van frequentieruimte als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=7&z=2024-06-20&g=2024-06-20) wordt voorts voldaan aan de volgende voorschriften:
 
@@ -142,7 +168,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - d. er worden geen valse of bedrieglijke alarmeringen, noodseinen, noodoproepen of noodberichten uitgezonden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij gebruik van frequentieruimte met de bestemming ‘maritiem mobiele communicatie’ aan boord van een schip is het radioapparaat dat aan boord van het schip gebruikt wordt, geregistreerd voor gebruik aan boord van dat schip en wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2024-06-20&g=2024-06-20), voldaan aan de volgende voorschriften:
 
@@ -166,7 +192,7 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 - j. een portofoon in de VHF-band wordt alleen gebruikt in combinatie met een marifoon, met dien verstande dat de pleziervaart in het werkingsgebied van de Regionale Regeling kan volstaan met het gebruik van alleen een portofoon.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij gebruik van frequentieruimte met de bestemming ‘amateur´ of ‘amateursatelliet´ wordt, onverlet [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=8&z=2024-06-20&g=2024-06-20), voldaan aan de volgende voorschriften:
 
@@ -204,15 +230,15 @@ Bij het gebruik van frequentieruimte wordt voldaan aan de beperkingen en voorsch
 
 4. Voor een vereniging of stichting van radiozendamateurs geldt dat de geregistreerde een radiozendamateur die voldoet aan het in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=4&z=2024-06-20&g=2024-06-20), bedoelde vereiste, aanwijst die namens de geregistreerde vereniging of stichting het radiostation beheert.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt de Examenregeling frequentiegebruik 2008.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling gebruik van frequentieruimte met meldingsplicht 2015.
 
@@ -360,7 +386,7 @@ Bij het spellen van de roepletters dient gebruik te worden gemaakt van het volge
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 Tot en met 30 juni 2020 worden registraties van frequentiegebruik ten behoeve van maritiem mobiele communicatie niet doorgehaald op grond van [artikel 6, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036375&artikel=6&z=2024-06-20&g=2024-06-20), indien de registratie heeft plaatsgevonden vóór 1 juli 2019.
 

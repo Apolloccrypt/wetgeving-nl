@@ -1,13 +1,24 @@
 ---
 title: "Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs"
 identifier: "BWBV0006925"
-categorie: "Onderwijs"
-publicatiedatum: 2019-11-25
-laatste_update: 2019-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006925"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-11-25"
+last_updated: "2019-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006925"
+soort: "verdrag"
+stam_id: "10005593413"
+version_id: "10006129912"
+internal_id: "C10009847801"
+label_id: "10005575704"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006925/2019-11-25/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0006925&z=2019-11-25&g=2019-11-25"
+jci_1_0: "1.0:c:BWBV0006925&g=2019-11-25"
+citeertitel_status: "redactioneel"
 ---
-
 # Mondiale Overeenkomst inzake de erkenning van kwalificaties in het hoger onderwijs
 
 PREAMBULE
@@ -44,7 +55,7 @@ Neemt deze Overeenkomst aan op 25 november 2019.
 
 ### HOOFDSTUK I. BEGRIPSBEPALINGEN
 
-#### Artikel I
+##### Artikel I
 
 Voor de toepassing van deze Overeenkomst zijn de volgende begripsbepalingen van toepassing:
 
@@ -132,7 +143,7 @@ Voor de toepassing van deze Overeenkomst zijn de volgende begripsbepalingen van 
 
 ### HOOFDSTUK II. DOELSTELLINGEN VAN DE OVEREENKOMST
 
-#### Artikel II
+##### Artikel II
 
 Deze Overeenkomst, die voortbouwt op de coördinatie, herzieningen en resultaten van de regionale overeenkomsten inzake erkenning en deze versterkt, heeft de volgende doelstellingen:
 
@@ -158,7 +169,7 @@ Deze Overeenkomst, die voortbouwt op de coördinatie, herzieningen en resultaten
 
 ### HOOFDSTUK III. BASISBEGINSELEN VOOR HET ERKENNEN VAN KWALIFICATIES IN HET HOGER ONDERWIJS
 
-#### Artikel III
+##### Artikel III
 
 Voor de erkenning van kwalificaties in het hoger onderwijs worden in deze Overeenkomst de volgende beginselen vastgelegd:
 
@@ -180,7 +191,7 @@ Voor de erkenning van kwalificaties in het hoger onderwijs worden in deze Overee
 
 ### HOOFDSTUK IV. VERPLICHTINGEN VAN DE STATEN DIE PARTIJ ZIJN BIJ DE OVEREENKOMST
 
-#### Artikel IV. Erkenning van kwalificaties die toegang tot het hoger onderwijs geven
+##### Artikel IV. Erkenning van kwalificaties die toegang tot het hoger onderwijs geven
 
 1. Elke staat die partij is erkent, ten behoeve van toegang tot zijn hoger onderwijsstelsel, de kwalificaties en gedocumenteerde of gecertificeerde eerder verworven competenties die in andere staten die partij zijn, zijn behaald en die voldoen aan de algemene eisen voor toegang tot het hoger onderwijs in die staten die partij zijn, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de algemene eisen voor toegang in de staat die partij is waarin de kwalificatie is behaald en die in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan de houder van een kwalificatie die is afgegeven in een andere staat die partij is, een beoordeling van die kwalificatie te verkrijgen.
 
@@ -188,7 +199,7 @@ Voor de erkenning van kwalificaties in het hoger onderwijs worden in deze Overee
 
 3. Wanneer een kwalificatie slechts toegang geeft tot specifieke typen instellingen of programma’s in het hoger onderwijs in de staat die partij is waarin de kwalificatie is behaald, geeft elke staat die partij is de houders van dergelijke kwalificaties toegang tot soortgelijke specifieke instellingen of programma’s in zijn hoger onderwijsstelsel, indien die er zijn, tenzij er aanzienlijke verschillen worden aangetoond.
 
-#### Artikel V. Erkenning van kwalificaties in het hoger onderwijs
+##### Artikel V. Erkenning van kwalificaties in het hoger onderwijs
 
 1. Elke staat die partij is erkent een kwalificatie in het hoger onderwijs die in een andere staat die partij is, is toegekend, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de kwalificatie waarvan de erkenning wordt nagestreefd en de corresponderende kwalificatie in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan de houder van een kwalificatie die is afgegeven in een andere staat die partij is, een beoordeling van die kwalificatie te verkrijgen, op verzoek van de houder.
 
@@ -208,7 +219,7 @@ Daarnaast kan de beoordeling en erkenning gekwalificeerde aanvragers in staat st
 
 6. Elke staat die partij is kan de erkenning van kwalificaties in het hoger onderwijs die behaald zijn door grensoverschrijdend onderwijs of bij buitenlandse onderwijsinstellingen die in zijn rechtsgebied werkzaam zijn afhankelijk maken van specifieke eisen binnen de wet- of regelgeving van de staat die partij is, of een samenstellend deel daarvan, of van specifieke overeenkomsten die gesloten zijn met de staat van oorsprong van deze instellingen die partij is.
 
-#### Artikel VI. Erkenning van deelstudies en van eerder verworven competenties
+##### Artikel VI. Erkenning van deelstudies en van eerder verworven competenties
 
 1. Elke staat die partij is kan, met het oog op de afronding van een programma voor hoger onderwijs of de voortzetting van een studie in het hoger onderwijs, naargelang van toepassing, en rekening houdend met de wetgeving van de staten die partij zijn betreffende toegang, gedocumenteerde of gecertificeerde deelstudies of gedocumenteerde of gecertificeerde eerder in een andere staat die partij is verworven competenties erkennen, tenzij er aanzienlijke verschillen kunnen worden aangetoond tussen de deelstudies of eerder verworven competenties en het deel van het hoger onderwijsprogramma dat deze zou vervangen in de staat die partij is waarin naar erkenning wordt gestreefd. Als alternatief kan een staat die partij is volstaan met het bieden van de mogelijkheid aan een natuurlijke persoon die gedocumenteerde of gecertificeerde deelstudies heeft gevolgd in of gedocumenteerde of gecertificeerde eerder verworven competenties bezit uit een andere staat die partij is, een beoordeling te verkrijgen van deze deelstudies of eerder verworven competenties, op verzoek van de desbetreffende natuurlijke persoon.
 
@@ -216,11 +227,11 @@ Daarnaast kan de beoordeling en erkenning gekwalificeerde aanvragers in staat st
 
 3. Gedocumenteerde of gecertificeerde gedeeltelijke voltooiing van een programma in het hoger onderwijs via grensoverschrijdend onderwijs met internationale gezamenlijke graden of via elk ander gezamenlijk programma dat in meer dan een land wordt gevolgd, waarvan ten minste één staat die partij is bij deze Overeenkomst, wordt beoordeeld volgens de regels en voorschriften van de staat die partij is, of een samenstellend deel daarvan, gebruikmakend van dezelfde criteria als die worden toegepast op deelstudies die worden gevolgd in een enkel land.
 
-#### Artikel VII. Erkenning van deelstudies en kwalificaties in bezit van vluchtelingen en ontheemden
+##### Artikel VII. Erkenning van deelstudies en kwalificaties in bezit van vluchtelingen en ontheemden
 
 Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen zijn onderwijsstelsel en conform zijn grondwettelijke, wettelijke en regelgevende bepalingen, om redelijke procedures te ontwikkelen voor de eerlijke en efficiënte beoordeling of vluchtelingen en ontheemden voldoen aan de relevante eisen voor toegang tot het hoger onderwijs, tot verdere programma’s in het hoger onderwijs of tot het vinden van een baan, met inbegrip van gevallen waarin deelstudies, eerder verworven competenties of kwalificaties verworven in een ander land niet kunnen worden onderbouwd met documentatie.
 
-#### Artikel VIII. Informatie ten behoeve van beoordeling en erkenning
+##### Artikel VIII. Informatie ten behoeve van beoordeling en erkenning
 
 1. Elke staat die partij is zet transparante systemen op voor de volledige beschrijving van de kwalificaties en leerresultaten die op zijn grondgebied zijn behaald.
 
@@ -240,7 +251,7 @@ Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen 
 
 - d. Waarborgt het verstrekken, binnen een redelijke termijn, van adequate informatie over elke instelling die tot zijn hoger onderwijsstelsel behoort en over elk programma dat door dergelijke instellingen wordt uitgevoerd, teneinde het de bevoegde autoriteiten van de andere staten die partij zijn mogelijk te maken vast te stellen of de kwaliteit van de kwalificaties die zijn afgegeven door deze instellingen de erkenning rechtvaardigen in de staat die partij is waarin naar erkenning wordt gestreefd.
 
-#### Artikel IX. Beoordeling van een aanvraag
+##### Artikel IX. Beoordeling van een aanvraag
 
 1. In eerste instantie ligt de verantwoordelijkheid voor het verstrekken van adequate informatie bij de aanvrager, die deze informatie in goed vertrouwen verstrekt.
 
@@ -248,7 +259,7 @@ Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen 
 
 3. Elke staat die partij is waarborgt dat het lichaam dat de beoordeling uitvoert ten behoeve van erkenning met redenen omkleedt waarom een aanvraag niet aan de eisen voldoet of aantoont dat er aanzienlijke verschillen bestaan.
 
-#### Artikel X. Informatie over de bevoegde erkenningsautoriteiten
+##### Artikel X. Informatie over de bevoegde erkenningsautoriteiten
 
 1. Elke staat die partij is stelt de depositaris van deze Overeenkomst door middel van een officiële kennisgeving op de hoogte van de bevoegde autoriteiten die besluiten nemen over erkenningskwesties in zijn rechtsgebied.
 
@@ -260,7 +271,7 @@ Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen 
 
 5. De bepalingen van het tweede, derde en vierde lid van dit artikel zijn van overeenkomstige toepassing op de verplichtingen van de staten die partij zijn bij deze Overeenkomst.
 
-#### Artikel XI. Aanvullende eisen voor toelating tot programma’s in het hoger onderwijs
+##### Artikel XI. Aanvullende eisen voor toelating tot programma’s in het hoger onderwijs
 
 1. Wanneer toelating tot bepaalde programma’s in het hoger onderwijs afhangt van het voldoen aan specifieke eisen in aanvulling op algemene eisen voor toegang, kunnen de bevoegde autoriteiten van de betreffende staat die partij is dezelfde specifieke eisen opleggen aan houders van kwalificaties die in andere staten die partij zijn behaald zijn of beoordelen of aanvragers met kwalificaties die in andere staten die partij behaald zijn aan gelijkwaardige eisen voldoen.
 
@@ -276,7 +287,7 @@ Elke staat die partij is neemt de noodzakelijke en haalbare maatregelen, binnen 
 
 ### HOOFDSTUK V. UITVOERINGSSTRUCTUREN EN SAMENWERKING
 
-#### Artikel XII. Uitvoeringsstructuren
+##### Artikel XII. Uitvoeringsstructuren
 
 De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door middel van of in samenwerking met:
 
@@ -290,7 +301,7 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 - 5. Comités van de regionale erkenningsovereenkomsten.
 
-#### Artikel XIII. Nationale uitvoeringsstructuren
+##### Artikel XIII. Nationale uitvoeringsstructuren
 
 1. Om de erkenning van kwalificaties in het hoger onderwijs te vergemakkelijken, verplichten de staten die partij zijn zich ertoe deze Overeenkomst uit te voeren door middel van relevante organisaties, met inbegrip van nationale informatiecentra of soortgelijke entiteiten.
 
@@ -298,7 +309,7 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 3. Nationale uitvoeringsstructuren dienen netwerken op te zetten en daaraan actief deel te nemen.
 
-#### Artikel XIV. Netwerken van nationale uitvoeringsstructuren
+##### Artikel XIV. Netwerken van nationale uitvoeringsstructuren
 
 1. Onder auspiciën van de Intergouvernementele Conferentie van de staten die partij zijn, bestaan de netwerken uit de nationale uitvoeringsstructuren van de staten die partij zijn en ondersteunen en helpen ze bij de praktische uitvoering van deze Overeenkomst.
 
@@ -308,7 +319,7 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 4. Staten die partij zijn kunnen deelnemen aan bestaande regionale netwerken die zijn opgericht via regionale erkenningsovereenkomsten of nieuwe netwerken opzetten. Deelname aan bestaande regionale netwerken is afhankelijk van de instemming van de relevante comités van de regionale erkenningsovereenkomsten.
 
-#### Artikel XV. De Intergouvernementele Conferentie van de staten die partij zijn
+##### Artikel XV. De Intergouvernementele Conferentie van de staten die partij zijn
 
 1. Er wordt een Intergouvernementele Conferentie van de staten die partij zijn opgericht, hier na „de Conferentie” genoemd.
 
@@ -338,13 +349,13 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel XVI. Bekrachtiging, aanvaarding of goedkeuring door lidstaten
+##### Artikel XVI. Bekrachtiging, aanvaarding of goedkeuring door lidstaten
 
 1. Deze Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd door lidstaten van UNESCO en Vaticaanstad in overeenstemming met hun onderscheiden grondwettelijke en wettelijke procedures.
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Directeur-Generaal van UNESCO.
 
-#### Artikel XVII. Toetreding
+##### Artikel XVII. Toetreding
 
 1. Deze Overeenkomst staat open voor toetreding door alle staten die geen lid zijn van UNESCO maar die lid zijn van de Verenigde Naties en door de Algemene Conferentie van UNESCO worden uitgenodigd ertoe toe te treden.
 
@@ -352,13 +363,13 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 3. De akte van toetreding dient te worden nedergelegd bij de Directeur-Generaal van UNESCO.
 
-#### Artikel XVIII. Inwerkingtreding
+##### Artikel XVIII. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking drie maanden na de datum van de nederlegging van de twintigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, evenwel uitsluitend ten aanzien van die staten die partij zijn die hun onderscheiden akten van bekrachtiging, aanvaarding, goedkeuring of toetreding op of voor die datum hebben nedergelegd.
 
 2. Voor elk van de andere staten die partij zijn treedt deze Overeenkomst in werking drie maanden na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel XIX. Verhouding van de staten die partij zijn tot deze Overeenkomst en de partijen bij de regionale overeenkomsten inzake erkenning en andere verdragen
+##### Artikel XIX. Verhouding van de staten die partij zijn tot deze Overeenkomst en de partijen bij de regionale overeenkomsten inzake erkenning en andere verdragen
 
 1. De bekrachtiging, aanvaarding of goedkeuring van of toetreding tot een van de regionale overeenkomsten inzake erkenning is geen noodzakelijke voorwaarde voor de bekrachtiging, aanvaarding of goedkeuring van of toetreding tot deze Overeenkomst.
 
@@ -372,7 +383,7 @@ De staten die partij zijn komen overeen deze Overeenkomst uit te voeren door mid
 
 4. Om een coherente interactie tussen deze Overeenkomst, de regionale overeenkomsten inzake erkenning, eventuele andere relevante bilaterale of multilaterale verdragen en eventuele andere bestaande of toekomstige verdragen of overeenkomsten waar een staat die partij is bij deze Overeenkomst mogelijkerwijs partij is of wordt, te waarborgen wordt niets in deze Overeenkomst geacht afbreuk te doen aan bepalingen van een gunstigere strekking inzake erkenning, met name bepalingen over nationale informatiecentra, netwerken en aanzienlijke verschillen.
 
-#### Artikel XX. Federale of niet-unitaire constitutionele stelsels
+##### Artikel XX. Federale of niet-unitaire constitutionele stelsels
 
 Erkennend dat internationale overeenkomsten in gelijke mate bindend zijn voor staten die partij zijn, ongeacht hun constitutionele stelsel, zijn de volgende bepalingen van toepassing op staten die partij zijn met een federaal of niet-unitair constitutioneel stelsel:
 
@@ -380,7 +391,7 @@ Erkennend dat internationale overeenkomsten in gelijke mate bindend zijn voor st
 
 - b. Ten aanzien van de bepalingen van dit Verdrag, waarvan de implementatie onder de rechtsmacht valt van de samenstellende delen van een staat die partij is, zoals provincies, staten, districten of kantons die door het constitutionele stelsel van de federatie niet verplicht zijn wetgevende maatregelen te treffen, stelt de federale regering de bevoegde autoriteiten van de samenstellende delen van een staat die partij is in kennis van genoemde bepalingen, tezamen met haar aanbeveling deze aan te nemen.
 
-#### Artikel XXI. Opzegging
+##### Artikel XXI. Opzegging
 
 1. Elke staat die partij is bij deze Overeenkomst kan deze te allen tijde opzeggen.
 
@@ -394,7 +405,7 @@ Erkennend dat internationale overeenkomsten in gelijke mate bindend zijn voor st
 
 - b. Beoordelingen inzake erkenningen die nog lopen ingevolge deze Overeenkomst.
 
-#### Artikel XXII. Taken van depositaris
+##### Artikel XXII. Taken van depositaris
 
 De Directeur-Generaal van UNESCO stelt, als de depositaris van deze Overeenkomst, de lidstaten van de Organisatie, de in [artikel XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XVII&z=2019-11-25&g=2019-11-25) bedoelde staten die geen lid zijn van de Organisatie en de Verenigde Naties in kennis van:
 
@@ -404,7 +415,7 @@ De Directeur-Generaal van UNESCO stelt, als de depositaris van deze Overeenkomst
 
 - c. De wijzigingen van de Overeenkomst aangenomen in overeenstemming met [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006925&hoofdstuk=VI&artikel=XXIII&z=2019-11-25&g=2019-11-25) en de datum waarop de wijzigingen in werking treden zoals voorgesteld in overeenstemming met artikel XXIII.
 
-#### Artikel XXIII. Wijzigingen
+##### Artikel XXIII. Wijzigingen
 
 1. Een staat die partij is bij deze Overeenkomst kan door middel van een schriftelijke mededeling gericht aan de Directeur-Generaal van UNESCO voorstellen doen tot wijziging van deze Overeenkomst. De Directeur-Generaal verzendt deze mededeling aan alle staten die partij zijn. Indien, binnen zes maanden na de datum van verzending van de mededeling, ten minste de helft van de staten die partij zijn bij de Overeenkomst instemt met het verzoek, legt de Directeur-Generaal een dergelijk voorstel voor aan de volgende zitting van de Intergouvernementele Conferentie van de staten die partij zijn voor bespreking en eventuele aanneming ervan.
 
@@ -420,10 +431,10 @@ De Directeur-Generaal van UNESCO stelt, als de depositaris van deze Overeenkomst
 
 - b. partij te zijn bij de ongewijzigde Overeenkomst ten aanzien van elke staat die partij is die niet gebonden is door de wijziging.
 
-#### Artikel XXIV. Registratie bij de Verenigde Naties
+##### Artikel XXIV. Registratie bij de Verenigde Naties
 
 In overeenstemming met [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) wordt deze Overeenkomst geregistreerd bij het Secretariaat van de Verenigde Naties op verzoek van de Directeur-Generaal van UNESCO.
 
-#### Artikel XXV. Authentieke teksten
+##### Artikel XXV. Authentieke teksten
 
 Deze Overeenkomst is opgesteld in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, waarbij alle zes teksten gelijkelijk authentiek zijn.

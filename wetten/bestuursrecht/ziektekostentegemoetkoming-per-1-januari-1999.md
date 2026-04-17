@@ -1,13 +1,37 @@
 ---
 title: "Ziektekostentegemoetkoming per 1 januari 1999"
 identifier: "BWBR0010337"
-categorie: "Bestuursrecht"
-publicatiedatum: 1999-01-01
-laatste_update: 1999-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010337"
+country: "nl"
+rank: "circulaire"
+publication_date: "1999-01-01"
+last_updated: "1999-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010337"
+soort: "circulaire"
+stam_id: "6371953"
+version_id: "11035232"
+internal_id: "C14933631"
+label_id: "6360814"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010337/1999-01-01/0"
+intitule_bron: "Stcrt.1999-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-03-12"
+intitule_published: "1999-04-08"
+intitule_in_force: "1999-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-67"
+original_signed_date: "1999-03-12"
+original_published_date: "1999-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-67-p17-SC18401"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBR0010337&z=1999-01-01&g=1999-01-01"
+jci_1_0: "1.0:c:BWBR0010337&g=1999-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1999-03-12"
+entry_into_force: "1999-01-01"
 ---
-
 # Ziektekostentegemoetkoming per 1 januari 1999
 
 Circulaire aan de ministers

@@ -1,28 +1,54 @@
 ---
-title: "Beleidsregel Instructie organieke matching"
+title: "Beleidsregel van de Minister van Veiligheid en Justitie d.d. 10 mei 2012, nr. 2012-0000041275, DGPolitie/Programma Personeel en Materieel, houdende de te volgen stappen bij de organieke matching bij de politie (beleidsregel Instructie organieke matching)"
 identifier: "BWBR0031608"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-05-17
-laatste_update: 2013-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031608"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-05-17"
+last_updated: "2013-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031608"
+soort: "beleidsregel"
+stam_id: "11743653"
+version_id: "19407292"
+internal_id: "C27188881"
+label_id: "11716074"
+dtd_version: "2.0"
+original_entry_into_force: "2012-06-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031608/2013-05-17/0"
+intitule_bron: "Stcrt.2012-10411"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-10"
+intitule_published: "2012-06-01"
+intitule_in_force: "2012-06-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10411"
+original_signed_date: "2012-05-10"
+original_published_date: "2012-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10411"
+entry_into_force_date: "2012-06-02"
+jci_1_3: "jci1.3:c:BWBR0031608&z=2013-05-17&g=2013-05-17"
+jci_1_0: "1.0:c:BWBR0031608&g=2013-05-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Instructie organieke matching"
+signed_date: "2012-05-10"
+entry_into_force: "2012-06-02"
 ---
-
 # Beleidsregel van de Minister van Veiligheid en Justitie d.d. 10 mei 2012, nr. 2012-0000041275, DGPolitie/Programma Personeel en Materieel, houdende de te volgen stappen bij de organieke matching bij de politie (beleidsregel Instructie organieke matching)
 
 Gelet op [artikel 6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het proces van organieke matching dat voorafgaat aan de overgang naar een LFNP functie geschiedt op de wijze die is beschreven in de Instructie organieke matching die als [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0031608&bijlage=1&z=2013-05-17&g=2013-05-17) met de daarbij behorende 5 bijlagen bij deze beleidsregel is gevoegd.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst en werkt terug tot en met 31 januari 2012.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel wordt aangehaald als: beleidsregel Instructie organieke matching.
 

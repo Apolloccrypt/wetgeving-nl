@@ -1,28 +1,54 @@
 ---
-title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019"
+title: "Besluit van 5 september 2022, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2019 (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019)"
 identifier: "BWBR0047215"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047215"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047215"
+soort: "AMvB"
+stam_id: "16501383"
+version_id: "28918692"
+internal_id: "C40943171"
+label_id: "16422964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047215/2022-10-01/0"
+intitule_bron: "Stb.2022-372"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-05"
+intitule_published: "2022-09-30"
+intitule_in_force: "2022-09-30"
+intitule_status: "goed"
+original_publication: "Stb.2022-372"
+original_signed_date: "2022-09-05"
+original_published_date: "2022-09-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-372"
+entry_into_force_date: "2022-10-01"
+jci_1_3: "jci1.3:c:BWBR0047215&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0047215&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019"
+signed_date: "2022-09-05"
+entry_into_force: "2022-10-01"
 ---
-
 # Besluit van 5 september 2022, houdende vaststelling van de decentralisatie- en integratie-uitkeringen aan de gemeenten en provincies voor het uitkeringsjaar 2019 (Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019)
 
 #### § 1. Decentralisatie-uitkeringen aan gemeenten en provincies
 
-#### Artikel 1
+##### Artikel 1
 
 In het jaar 2019 ontvangen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047215&bijlage=1&z=2022-10-01&g=2022-10-01) genoemde gemeenten de in die bijlage genoemde decentralisatie-uitkeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 In het jaar 2019 ontvangen de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047215&bijlage=2&z=2022-10-01&g=2022-10-01) genoemde provincies de in die bijlage genoemde decentralisatie-uitkeringen.
 
 #### § 2. Integratie-uitkeringen aan gemeenten
 
-#### Artikel 3
+##### Artikel 3
 
 In het jaar 2019 ontvangen de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047215&bijlage=3&z=2022-10-01&g=2022-10-01) genoemde gemeenten de in die bijlage genoemde integratie-uitkeringen.
 
@@ -56,13 +82,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Slotbepalingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
 2. De [artikelen 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0047215&paragraaf=1&artikel=1&z=2022-10-01&g=2022-10-01) werken terug tot en met 1 januari 2019.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit vaststelling decentralisatie- en integratie-uitkeringen 2019.
 

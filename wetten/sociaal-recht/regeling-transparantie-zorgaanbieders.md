@@ -1,18 +1,43 @@
 ---
 title: "Regeling transparantie zorgaanbieders"
 identifier: "BWBR0049988"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-09-01
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049988"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-09-01"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049988"
+soort: "zbo"
+stam_id: "17172023"
+version_id: "30228822"
+internal_id: "C43301051"
+label_id: "17079984"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049988/2024-09-01/0"
+intitule_bron: "Stcrt.2024-21591"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-11"
+intitule_published: "2024-07-15"
+intitule_in_force: "2024-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21591"
+original_signed_date: "2024-06-11"
+original_published_date: "2024-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21591"
+entry_into_force_date: "2024-09-01"
+jci_1_3: "jci1.3:c:BWBR0049988&z=2024-09-01&g=2024-09-01"
+jci_1_0: "1.0:c:BWBR0049988&g=2024-09-01"
+citeertitel_status: "officieel"
+signed_date: "2024-06-11"
+entry_into_force: "2024-09-01"
 ---
-
 # Regeling transparantie zorgaanbieders
 
 Ingevolge [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=38) en [39 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=39) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) regels vast met betrekking tot de informatieverplichting van zorgaanbieders.
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze regeling wordt verstaan onder:
 
@@ -26,15 +51,15 @@ In deze regeling wordt verstaan onder:
 
 - e. **informeren:** het mondeling, digitaal, schriftelijk of op enige andere wijze verstrekken van informatie.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze regeling is duidelijk te maken welke informatie een zorgaanbieder moet verstrekken, en op welk moment, om de consument in staat te stellen een weloverwogen keuze te maken om zorg of diensten van een zorgaanbieder te vergelijken en te ontvangen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0049988&artikel=1&z=2024-09-01&g=2024-09-01) van deze regeling.
 
-#### Artikel 4. Informatieverstrekking
+##### Artikel 4. Informatieverstrekking
 
 1. De zorgaanbieder informeert de consument objectief en zakelijk over datgene dat voor de consument van belang is om een weloverwogen keuze te maken om zorg te vergelijken en te ontvangen, zonder daarmee die keuze te sturen.
 
@@ -54,7 +79,7 @@ Deze regeling is van toepassing op zorgaanbieders in de zin van [artikel 1](http
 
 9. Bij het openbaren van kwaliteitsinformatie die betrekking heeft op zorg, maakt de zorgaanbieder voor de consument inzichtelijk op welke wijze deze informatie tot stand is gekomen.
 
-#### Artikel 5. Tijdigheid en vergelijkbaarheid
+##### Artikel 5. Tijdigheid en vergelijkbaarheid
 
 1. De in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049988&artikel=4&z=2024-09-01&g=2024-09-01) bedoelde informatie moet tijdig aan de consument worden verstrekt.
 
@@ -64,19 +89,19 @@ Deze regeling is van toepassing op zorgaanbieders in de zin van [artikel 1](http
 
 4. Zorgaanbieders maken informatie over de eigenschappen van aangeboden prestaties en diensten op een zodanige manier openbaar, dat deze voor consumenten gemakkelijk vergelijkbaar zijn.
 
-#### Artikel 6. Verbod op misleiding
+##### Artikel 6. Verbod op misleiding
 
 Het is een zorgaanbieder verboden de consument op enige wijze te misleiden, waardoor de consument mogelijk niet in staat is tot een weloverwogen keuze te komen of een keuze maakt die hij, als hij zou beschikken over de juiste informatie, mogelijk niet zou hebben gemaakt.
 
-#### Artikel 7. Intrekken oude regeling
+##### Artikel 7. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling transparantie zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0048322), met kenmerk TH/NR-028, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande regeling
+##### Artikel 8. Toepasselijkheid voorafgaande regeling
 
 De [Regeling transparantie zorgaanbieders](https://wetten.overheid.nl/jci1.3:c:BWBR0048322), met kenmerk TH/NR-028, blijft van toepassing op besluiten en aangelegenheden die betrekking hebben op de periode waarvoor die regeling gold.
 
-#### Artikel 9. Inwerkingtreding en citeertitel
+##### Artikel 9. Inwerkingtreding en citeertitel
 
 Deze regeling treedt in werking met ingang van 1 september 2024. Ingevolge [artikel 5, aanhef en onder d, van de Bekendmakingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004287&artikel=5), wordt de regeling in de Staatscourant geplaatst. De regeling ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl/).
 

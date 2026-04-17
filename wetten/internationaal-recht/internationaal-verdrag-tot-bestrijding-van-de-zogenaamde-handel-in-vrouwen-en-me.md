@@ -1,42 +1,66 @@
 ---
 title: "Internationaal Verdrag tot bestrijding van de zogenaamde handel in vrouwen en meisjes, zoals gewijzigd door het Protocol van 4 mei 1949"
 identifier: "BWBV0005727"
-categorie: "Internationaal recht"
-publicatiedatum: 1951-08-14
-laatste_update: 1951-08-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005727"
+country: "nl"
+rank: "verdrag"
+publication_date: "1951-08-14"
+last_updated: "1951-08-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005727"
+soort: "verdrag"
+stam_id: "10004850063"
+version_id: "10005155052"
+internal_id: "C10007945531"
+label_id: "10004834054"
+dtd_version: "2.0"
+original_entry_into_force: "1951-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005727/1951-08-14/0"
+intitule_bron: "Stb.1912-355"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1912-11-27"
+intitule_published: "1912-12-10"
+intitule_in_force: "1961-10-02"
+intitule_status: "goed"
+original_publication: "Stb.1912-355"
+original_signed_date: "1912-11-27"
+original_published_date: "1912-12-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1951-08-14"
+jci_1_3: "jci1.3:c:BWBV0005727&z=1951-08-14&g=1951-08-14"
+jci_1_0: "1.0:c:BWBV0005727&g=1951-08-14"
+citeertitel_status: "redactioneel"
+signed_date: "1912-11-27"
+entry_into_force: "1951-08-14"
 ---
-
 # Internationaal Verdrag tot bestrijding van de zogenaamde handel in vrouwen en meisjes, zoals gewijzigd door het Protocol van 4 mei 1949
 
 De Souvereinen, Staatshoofden en Regeeringen der hierna vermelde Mogendheden, gelijkelijk bezield met den wensch om de bestrijding van den zoogenaamden handel in vrouwen en meisjes zoo afdoende mogelijk te doen zijn, hebben besloten, tot dat doel een verdrag te sluiten en hebben, nadat een ontwerp was vastgesteld op eene eerste Conferentie, bijeengekomen te **Parijs** van den 15den tot den 25sten Juli 1902, hunne gevolmachtigden aangewezen, die, op eene tweede Conferentie, gehouden te **Parijs** van den 18den April tot den 4den Mei 1910, zijn overeengekomen nopens de volgende bepalingen:
 
 Het oorspronkelijke Verdrag is tot stand gekomen op 4 mei 1910 (Stb. 1912/355) en is voor het Koninkrijk der Nederlanden in werking getreden op 8 februari 1913 (Trb. 1961/101).
 
-#### Art. 1
+##### Art. 1
 
 Gestraft wordt ieder die, ter voldoening van eens anders lusten, eene minderjarige vrouw of meisje, zelfs met haar goedvinden, met het oog op het plegen van ontucht heeft aangeworven, medegenomen of ontvoerd, zelfs dan wanneer de verschillende handelingen, die de bestanddeelen van het strafbare feit uitmaken, in verschillende landen gepleegd zijn.
 
-#### Art. 2
+##### Art. 2
 
 Mede wordt gestraft ieder die, ter voldoening van eens anders lusten, eene meerderjarige vrouw of meisje door bedrog of met behulp van geweld, bedreiging, misbruik van gezag of eenig ander dwangmiddel, met het oog op het plegen van ontucht heeft aangeworven, medegenomen of ontvoerd, zelfs dan wanneer de verschillende handelingen, die de bestanddeelen van het strafbare feit uitmaken, in verschillende landen gepleegd zijn.
 
-#### Art. 3
+##### Art. 3
 
 De verdragsluitende partijen, wier wetgeving op dit oogenblik nog niet voldoende is tot het strafbaar stellen der in de beide voorgaande artikelen omschreven feiten, verbinden zich die maatregelen te nemen of aan hare wetgevende lichamen voor te stellen, welke vereischt worden, opdat bedoelde feiten in verhouding tot den ernst daarvan strafbaar worden gesteld.
 
-#### Art. 4
+##### Art. 4
 
 De Verdragsluitende Partijen doen, door tussenkomst van de Secretaris-Generaal van de Verenigde Naties, elkander mededeling van de wetten, welke in haar land reeds zijn afgekondigd of in de toekomst zullen worden afgekondigd met betrekking tot het onderwerp van dit Verdrag.
 
-#### Art. 5
+##### Art. 5
 
 De strafbare feiten, omschreven bij de artikelen 1 en 2, worden van den dag af waarop dit verdrag in werking treedt, gerekend van rechtswege te zijn opgenomen onder de strafbare feiten, die volgens de reeds tusschen de verdragsluitende partijen bestaande verdragen tot uitlevering aanleiding kunnen geven.
 
 Voor het geval dat de vorenstaande bepaling niet zonder wijziging van de bestaande wetgeving gevolg kan hebben, verbinden de verdragsluitende partijen zich de ter zake noodige maatregelen te nemen of aan hare wetgevende lichamen voor te stellen.
 
-#### Art. 6
+##### Art. 6
 
 De overzending van rogatoire commissies, betrekking hebbende op de in dit verdrag aangeduide strafbare feiten, heeft plaats:
 
@@ -54,13 +78,13 @@ Tenzij het tegendeel is overeengekomen, wordt de rogatoire commissie gesteld, he
 
 De uitvoering van rogatoire commissies kan geen aanleiding geven tot terugbetaling van heffingen of kosten van welken aard ook.
 
-#### Art. 7
+##### Art. 7
 
 De verdragsluitende partijen verbinden zich, waar het geldt strafbare feiten, als bedoeld bij dit verdrag, en waarvan de bestanddeelen gepleegd zijn in verschillende landen, elkander mededeeling te doen van de strafbladen.
 
 Deze stukken worden rechtstreeks door de autoriteiten, aangewezen overeenkomstig art. 1 van de te Parijs op 18 Mei 1904 gesloten Regeling, aan de gelijksoortige autoriteiten der andere verdragsluitende Staten verzonden.
 
-#### Art. 8
+##### Art. 8
 
 Staten, die niet ondertekend hebben, kunnen toetreden tot dit Verdrag. Zij geven tot dat doel van hun voornemen kennis door middel van een akte, welke wordt nedergelegd in het archief van de Verenigde Naties. De Secretaris-Generaal van de Verenigde Naties zendt een gewaarmerkt afschrift van die akte aan elk van de Verdragsluitende Staten en aan alle Leden van de Verenigde Naties en deelt dezen te zelfder tijd de datum der nederlegging mede. In bedoelde ake van kennisgeving wordt tevens mededeling gedaan van de in de toetredende Staat met betrekking tot het onderwerp van dit Verdrag uitgevaardigde wetten.
 
@@ -70,7 +94,7 @@ De toetreding tot het verdrag brengt van rechtswege en zonder uitdrukkelijke ken
 
 Evenwel wordt door de vorenstaande bepaling niet afgeweken van artikel 7 van bovenbedoelde Regeling van 18 Mei 1904, welk artikel van toepassing blijft op het geval dat een Staat er de voorkeur aan geeft alleen tot die Regeling toe te treden.
 
-#### Art. 9
+##### Art. 9
 
 Dit verdrag, aangevuld door een slotprotokol dat er een onafscheidelijk bestanddeel van uitmaakt, zal worden bekrachtigd en de akten van bekrachtiging zullen worden nedergelegd te Parijs, zoodra zes der verdragsluitende Staten daartoe gereed zijn.
 
@@ -78,7 +102,7 @@ Van iedere nederlegging van akten van bekrachtiging wordt een proces-verbaal opg
 
 Dit verdrag treedt in werking zes maanden nà den datum van de nederlegging der akten van bekrachtiging.
 
-#### Art. 10
+##### Art. 10
 
 Ingeval één der verdragsluitende Staten dit verdrag mocht opzeggen, heeft de opzegging alleen gevolg ten aanzien van dien Staat.
 
@@ -88,7 +112,7 @@ Twaalf maanden na dezen datum houdt het verdrag op van kracht te zijn in het geh
 
 De opzegging van het verdrag brengt niet van rechtswege gelijktijdige opzegging van de Regeling van 18 Mei 1904 mede, tenzij hiervan uitdrukkelijk melding wordt gemaakt in de akte van kennisgeving, zoo niet, dan moet de verdragsluitende Staat, om bedoelde Regeling op te zeggen, handelen overeenkomstig artikel 8 daarvan.
 
-#### Art. 11
+##### Art. 11
 
 Indien een van de Verdragsluitende Staten wenst, dat dit Verdrag in werking zal treden in een of meer van zijn koloniën, bezittingen of consulaire rechterlijke ressorten, geeft hij met dat doel van zijn voornemen kennis door een akte, die wordt nedergelegd in het archief van de Verenigde Naties. De Secretaris-Generaal van de Verenigde Naties doet van die akte een gewaarmerkt afschrift aan elk van de Verdragsluitende Staten en aan alle Leden van de Verenigde Naties toekomen en deelt deze te zelfder tijd de datum der nederlegging mede.
 
@@ -104,7 +128,7 @@ De toetreding tot het verdrag door een verdragsluitenden Staat voor een of meer 
 
 Niettemin geschieden van af den datum der inwerkingtreding van dit verdrag de toetredingen of opzeggingen welke die Regeling gelden en de koloniën, bezittingen of consulaire rechterlijke ressorten der verdragsluitende Staten betreffen, overeenkomstig de bepalingen van dit artikel.
 
-#### Art. 12
+##### Art. 12
 
 Dit verdrag, hetwelk den datum van 4 Mei 1910 draagt, kan geteekend worden te Parijs tot 31 Juli d. a. v., door de gevolmachtigden der Mogendheden, welke vertegenwoordigd waren op de tweede Conferentie tot bestrijding van den zoogenaamden handel in vrouwen en meisjes.
 

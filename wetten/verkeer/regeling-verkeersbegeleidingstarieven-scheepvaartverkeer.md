@@ -1,42 +1,66 @@
 ---
 title: "Regeling verkeersbegeleidingstarieven scheepvaartverkeer"
 identifier: "BWBR0007556"
-categorie: "Verkeer"
-publicatiedatum: 2011-12-21
-laatste_update: 2011-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007556"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-12-21"
+last_updated: "2011-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007556"
+soort: "ministeriele-regeling"
+stam_id: "5109663"
+version_id: "9173592"
+internal_id: "C12202101"
+label_id: "5085044"
+dtd_version: "2.0"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007556/2011-12-21/0"
+intitule_bron: "Stcrt.1995-188"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-09-14"
+intitule_published: "1995-09-29"
+intitule_in_force: "1995-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-188"
+original_signed_date: "1995-09-14"
+original_published_date: "1995-09-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007556&z=2011-12-21&g=2011-12-21"
+jci_1_0: "1.0:c:BWBR0007556&g=2011-12-21"
+citeertitel_status: "officieel"
+signed_date: "1995-09-14"
+entry_into_force: "1995-10-01"
 ---
-
 # Regeling verkeersbegeleidingstarieven scheepvaartverkeer
 
 Gelet op de [artikelen 15c, eer ste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15c), en [15d, derde lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=15d);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het verkeersbegeleidingstarief is vastgesteld zoals opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&bijlage=behorend_bij_artikel_1&z=2011-12-21&g=2011-12-21) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 De betaling van het verschuldigde tarief geschiedt binnen twee weken na dagtekening van het schriftelijke verzoek tot betaling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De inspecteur, bedoeld in [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4), is belast met het uitbrengen van de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007556&artikel=2&z=2011-12-21&g=2011-12-21) bedoelde schriftelijke betalingsverzoeken en het vaststellen van de hoogte van de zekerheid, bedoeld in [artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&artikel=8).
 
 2. De ontvanger, bedoeld in [artikel 1:4 van de Algemene douaneregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0024291&artikel=1:4), is belast met het in ontvangst nemen van de zekerheid, bedoeld in [artikel 8 van het Besluit verkeersbegeleidingstarieven scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0007006&artikel=8) alsmede de verdere inning van het tarief.
 
-#### Artikel 4
+##### Artikel 4
 
 De ontvanger en de inspecteur zijn bevoegd ten behoeve van de inning van het tarief van de kapitein inzage te verlangen in de meetbrief van het desbetreffende zeeschip.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 oktober 1995.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: [Regeling verkeersbegeleidingstarieven scheepvaartverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0007556).
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bekostiging WPO 2022"
+title: "Besluit van 9 december 2021, houdende voorschriften inzake de bekostiging van basisscholen en speciale scholen voor basisonderwijs (Besluit bekostiging WPO 2022)"
 identifier: "BWBR0046159"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-31
-laatste_update: 2025-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046159"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-31"
+last_updated: "2025-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046159"
+soort: "AMvB"
+stam_id: "16222413"
+version_id: "28324902"
+internal_id: "C39930771"
+label_id: "16150494"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046159/2025-12-31/0"
+intitule_bron: "Stb.2022-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-09"
+intitule_published: "2022-01-04"
+intitule_in_force: "2022-01-04"
+intitule_status: "goed"
+original_publication: "Stb.2022-4"
+original_signed_date: "2021-12-09"
+original_published_date: "2022-01-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-4"
+entry_into_force_date: "2022-02-01"
+jci_1_3: "jci1.3:c:BWBR0046159&z=2025-12-31&g=2025-12-31"
+jci_1_0: "1.0:c:BWBR0046159&g=2025-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit bekostiging WPO 2022"
+signed_date: "2021-12-09"
+entry_into_force: "2022-02-01"
 ---
-
 # Besluit van 9 december 2021, houdende voorschriften inzake de bekostiging van basisscholen en speciale scholen voor basisonderwijs (Besluit bekostiging WPO 2022)
 
 Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media van 30 september 2021, nr. WJZ/29123337 (12545), directie Wetgeving en Juridische Zaken;
@@ -36,51 +62,51 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 31. Intrekking [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)
+##### Artikel 31. Intrekking [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862)
 
 Het [Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862) wordt ingetrokken.
 
-#### Artikel 32. Wijziging [Aanpassingsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045794)
+##### Artikel 32. Wijziging [Aanpassingsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045794)
 
 Wijzigt het Aanpassingsbesluit WVO 2020.
 
-#### Artikel 33. Wijziging [Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100)
+##### Artikel 33. Wijziging [Besluit bekostiging WVO 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045100)
 
 Wijzigt het Besluit bekostiging WVO 2021.
 
-#### Artikel 34. Wijziging [Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065)
+##### Artikel 34. Wijziging [Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065)
 
 Wijzigt het Besluit informatievoorziening WPO/WEC.
 
-#### Artikel 35. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
+##### Artikel 35. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
 
 Wijzigt het Besluit register onderwijsdeelnemers.
 
-#### Artikel 36. Wijziging [Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370)
+##### Artikel 36. Wijziging [Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0041370)
 
 Wijzigt het Besluit specifieke uitkeringen gemeentelijk onderwijsachterstandenbeleid.
 
-#### Artikel 37. Wijziging [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
+##### Artikel 37. Wijziging [Besluit trekkende bevolking WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003833)
 
 Wijzigt het Besluit trekkende bevolking WPO.
 
-#### Artikel 38. Wijziging [Besluit Vervangingsfonds en Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0030106)
+##### Artikel 38. Wijziging [Besluit Vervangingsfonds en Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0030106)
 
 Wijzigt het Besluit Vervangingsfonds en Participatiefonds.
 
-#### Artikel 39. Wijziging [Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390)
+##### Artikel 39. Wijziging [Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390)
 
 Wijzigt het Besluit zij-instroom leraren primair en voortgezet onderwijs.
 
-#### Artikel 40. Wijziging [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
+##### Artikel 40. Wijziging [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
 
 Wijzigt het Uitvoeringsbesluit WVO 2020.
 
-#### Artikel 41. Citeertitel
+##### Artikel 41. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit bekostiging WPO 2022.
 
-#### Artikel 42. Inwerkingtreding
+##### Artikel 42. Inwerkingtreding
 
 1. Dit besluit treedt, met uitzondering van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=8&artikel=35&z=2025-12-31&g=2025-12-31), in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -88,7 +114,7 @@ Dit besluit wordt aangehaald als: Besluit bekostiging WPO 2022.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -158,13 +184,13 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 1. Gegevensverstrekking
 
-#### Artikel 2. Gegevensverstrekking aanvang bekostiging
+##### Artikel 2. Gegevensverstrekking aanvang bekostiging
 
 1. Het bevoegd gezag van een school die door Onze Minister voor bekostiging in aanmerking is gebracht, zendt Onze Minister uiterlijk 12 weken voor de datum van ingang van de bekostiging de benodigde gegevens voor de vaststelling van de bekostiging.
 
 2. Bij ministeriële regeling worden de gegevens, bedoeld in het eerste lid vastgesteld en kunnen hierover voorschriften worden gesteld.
 
-#### Artikel 3. Gegevens bij mededeling uitzonderingssituatie
+##### Artikel 3. Gegevens bij mededeling uitzonderingssituatie
 
 1. Bij de mededeling van het bevoegd gezag dat sprake is van een uitzonderingssituatie als bedoeld in [artikel 139, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=139) worden de volgende gegevens overgelegd:
 
@@ -234,7 +260,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Erkenning en aanvang bekostiging nieuwe school
 
-#### Artikel 4. Erkenning organisatie borgstelling
+##### Artikel 4. Erkenning organisatie borgstelling
 
 1. Het bevoegd gezag van een bijzondere school is aangesloten bij een organisatie van bevoegde gezagen, die zich borg stelt voor terugbetaling van teveel ontvangen bedragen aan Onze Minister.
 
@@ -254,13 +280,13 @@ In dit besluit wordt verstaan onder:
 
 5. Onze Minister beslist binnen acht weken na ontvangst van het verzoek tot erkenning.
 
-#### Artikel 5. Aanvang eenmalige startbekostiging nieuwe school
+##### Artikel 5. Aanvang eenmalige startbekostiging nieuwe school
 
 1. Onze Minister kan op verzoek van het bevoegd gezag van een nieuwe school eenmalig een deel van de bekostiging, bedoeld in [artikel 116 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), toekennen vanaf 1 juni voorafgaand aan het schooljaar waarin de bekostiging een aanvang neemt.
 
 2. Bij ministeriële regeling kunnen voorschriften worden gesteld over de wijze waarop de bekostiging wordt vastgesteld en verstrekt.
 
-#### Artikel 6. Vaststelling voorschotten en verrekening van voorschotten
+##### Artikel 6. Vaststelling voorschotten en verrekening van voorschotten
 
 1. Onze Minister kan op verzoek van het bevoegd gezag van een nieuwe school een voorschot verstrekken in afwachting van de vaststelling van de bekostiging voor de periode, bedoeld in [artikel 118, tweede lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=118).
 
@@ -288,7 +314,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Leerlingentelling en leerlingenadministratie
 
-#### Artikel 7. Leerlingentelling
+##### Artikel 7. Leerlingentelling
 
 1. Voor de toepassing van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en dit besluit worden de leerlingen meegeteld die:
 
@@ -302,7 +328,7 @@ In dit besluit wordt verstaan onder:
 
 4. Een leerling kan op de teldatum, respectievelijk op elke eerste dag van de maand, bedoeld in het tweede lid, slechts op één school voor de bekostiging meetellen.
 
-#### Artikel 8. Overzicht aantal leerlingen
+##### Artikel 8. Overzicht aantal leerlingen
 
 1. Onze Minister stelt jaarlijks een overzicht vast van de hem ter beschikking staande gegevens over het aantal leerlingen op de teldatum dat bij de vaststelling van de bekostiging, bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=4&paragraaf=1&artikel=13&z=2025-12-31&g=2025-12-31), in aanmerking wordt genomen.
 
@@ -314,7 +340,7 @@ In dit besluit wordt verstaan onder:
 
 5. Indien de school bestaat uit een hoofdvestiging en een of meer nevenvestigingen, wordt het overzicht tevens onderverdeeld in de leerlingen van de hoofdvestiging en de leerlingen van elk van de nevenvestigingen.
 
-#### Artikel 9. Inschrijving
+##### Artikel 9. Inschrijving
 
 1. De directeur van een school schrijft een leerling slechts in na een beslissing van het bevoegd gezag tot toelating van de leerling, of indien de leerling tijdelijk op de school wordt geplaatst op grond van [artikel 40, zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=40).
 
@@ -322,13 +348,13 @@ In dit besluit wordt verstaan onder:
 
 3. In afwijking van het tweede lid, schrijft de directeur de leerling die de school voor het eerst bezoekt op de eerste schooldag van het schooljaar, in met ingang van 1 augustus van dat schooljaar, tenzij de leerling op 1 augustus de leeftijd van vier jaar nog niet heeft bereikt.
 
-#### Artikel 10. Uitschrijving
+##### Artikel 10. Uitschrijving
 
 1. De directeur van de school waar een leerling staat ingeschreven, schrijft de leerling, indien deze de school verlaat, uit met ingang van de dag waarop de leerling de school voor het laatst heeft bezocht. De directeur schrijft de leerling die wordt uitgeschreven na de school op de laatste schooldag van het schooljaar te hebben bezocht, uit met ingang van 31 juli van dat schooljaar.
 
 2. Indien de directeur van een school op wiens school de leerling stond ingeschreven binnen vier weken na de dag waarop de leerling de school voor het laatst heeft bezocht uit het register onderwijsdeelnemers, bedoeld in de [Wet register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042012), een melding ontvangt van de inschrijving van de leerling op een andere school of een school of instelling voor ander onderwijs, wijzigt de directeur de datum van uitschrijving, bedoeld in het eerste lid, alsnog in de datum van de dag voorafgaande aan de inschrijving op die andere school of die school of instelling voor ander onderwijs.
 
-#### Artikel 11. Inhoud leerlingenadministratie
+##### Artikel 11. Inhoud leerlingenadministratie
 
 1. De directeur van een school draagt er zorg voor dat een overzichtelijke leerlingenadministratie beschikbaar is van:
 
@@ -344,7 +370,7 @@ In dit besluit wordt verstaan onder:
 
 4. Bij ministeriële regeling kunnen nadere regels worden gesteld over de wijze waarop de leerlingenadministratie wordt ingericht.
 
-#### Artikel 12. Bewaren gegevens
+##### Artikel 12. Bewaren gegevens
 
 1. De gegevens, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&hoofdstuk=3&artikel=11&z=2025-12-31&g=2025-12-31), worden in ieder geval gedurende vijf jaar nadat de desbetreffende leerling van de school is uitgeschreven in de leerlingenadministratie bewaard.
 
@@ -354,7 +380,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 1. Vaststelling bekostiging
 
-#### Artikel 13. Vaststelling bekostiging en gewijzigde vaststelling
+##### Artikel 13. Vaststelling bekostiging en gewijzigde vaststelling
 
 1. Onze Minister stelt jaarlijks uiterlijk op 1 januari de bekostiging, bedoeld in de [artikelen 116, tweede lid en vierde lid, onderdelen a, b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116), en [121 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=120), vast voor zover deze mede gebaseerd is op het aantal leerlingen op de teldatum.
 
@@ -368,7 +394,7 @@ In dit besluit wordt verstaan onder:
 
 #### Paragraaf 2. Extra bekostiging
 
-#### Artikel 14. Extra bekostiging (zeer) kleine basisscholen
+##### Artikel 14. Extra bekostiging (zeer) kleine basisscholen
 
 1. Een basisschool die op de teldatum minder dan 150 leerlingen heeft, ontvangt extra bekostiging.
 
@@ -378,13 +404,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het basisbedrag, bedoeld in het derde lid, wordt bij ministeriële regeling vastgesteld en is gebaseerd op een minimale schoolgrootte van 23 leerlingen.
 
-#### Artikel 15. Extra bekostiging internationaal georiënteerd basisonderwijs
+##### Artikel 15. Extra bekostiging internationaal georiënteerd basisonderwijs
 
 1. Aan een basisschool met een afdeling voor internationaal georiënteerd basisonderwijs als bedoeld in [artikel 85a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=85a) wordt extra bekostiging toegekend indien op de teldatum ten minste elf leerlingen onderwijs volgen bij deze afdeling.
 
 2. De extra bekostiging, bedoeld in het eerste lid, bestaat uit een bedrag per afdeling en een bedrag per leerling die onderwijs volgt bij deze afdeling. Deze bedragen worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 16. Extra bekostiging groei
+##### Artikel 16. Extra bekostiging groei
 
 1. Aan het bevoegd gezag van een of meer basisscholen wordt maandelijks extra bekostiging voor de groei van het aantal leerlingen toegekend indien de uitkomst van de formule X – Y groter dan of gelijk is aan Z.
 
@@ -408,7 +434,7 @@ Z = 4% van het aantal leerlingen, bedoeld bij factor Y.
 
 8. De extra bekostiging, bedoeld in het eerste lid, wordt berekend door het verschil tussen factor X en factor Y te vermenigvuldigen met een bedrag per leerling dat bij ministeriële regeling wordt vastgesteld.
 
-#### Artikel 17. Extra bekostiging een of meer nevenvestigingen
+##### Artikel 17. Extra bekostiging een of meer nevenvestigingen
 
 1. Indien een basisschool bestaat uit een hoofdvestiging en een of meer nevenvestigingen, wordt de bekostiging vermeerderd met:
 
@@ -424,7 +450,7 @@ Z = 4% van het aantal leerlingen, bedoeld bij factor Y.
 
 3. De bedragen per nevenvestiging, bedoeld in het eerste lid, onderdeel a, en het tweede lid, worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 18. Extra bekostiging onderwijsachterstandenbestrijding
+##### Artikel 18. Extra bekostiging onderwijsachterstandenbestrijding
 
 1. Aan een basisschool wordt extra bekostiging toegekend voor de bestrijding van onderwijsachterstanden die bestaat uit een bedrag per eenheid achterstandsscore.
 
@@ -462,13 +488,13 @@ G = landelijk gemiddelde onderwijsscore van alle leerlingen van alle basisschole
 
 11. De bedragen, bedoeld in het eerste en het tiende lid, worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 19. Extra bekostiging Nederlands onderwijs anderstaligen
+##### Artikel 19. Extra bekostiging Nederlands onderwijs anderstaligen
 
 1. Voor een basisschool waar op de teldatum leerlingen met een niet-Nederlandse culturele achtergrond, met uitzondering van leerlingen van wie ten minste een van de ouders of voogden afkomstig is uit Suriname of een van de Caribische delen van het Koninkrijk, staan ingeschreven, wordt extra bekostiging toegekend voor het Nederlands onderwijs aan anderstaligen.
 
 2. De extra bekostiging bestaat uit een bedrag per school en een bedrag per leerling. De bedragen worden bij ministeriële regeling vastgesteld.
 
-#### Artikel 20. Periode bepalen meer dan gemiddelde toename door samenwerkingsverband
+##### Artikel 20. Periode bepalen meer dan gemiddelde toename door samenwerkingsverband
 
 1. Het samenwerkingsverband neemt in het ondersteuningsplan een datum op wanneer wordt vastgesteld of sprake is van een meer dan gemiddelde toename van het aantal ingeschreven leerlingen, bedoeld in [artikel 18a, achtste lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=18a). Deze vaststelling vindt in ieder geval plaats in de periode tussen 1 februari en 1 juni.
 
@@ -480,7 +506,7 @@ G = landelijk gemiddelde onderwijsscore van alle leerlingen van alle basisschole
 
 ### Hoofdstuk 5. Samenvoeging, opheffing scholen en beëindiging bekostiging
 
-#### Artikel 21. Samenvoeging
+##### Artikel 21. Samenvoeging
 
 Er is sprake van een samenvoeging als bedoeld in [artikel 117, eerste of tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=117) indien:
 
@@ -490,7 +516,7 @@ Er is sprake van een samenvoeging als bedoeld in [artikel 117, eerste of tweede 
 
 - c. minimaal 25% van de leerlingen die op 1 februari direct voorafgaande aan de fusie als bekostigde leerling stonden ingeschreven op een bij de fusie opgeheven school en op 1 augustus direct volgend op de opheffing als bekostigde leerling ingeschreven staan op respectievelijk een basisschool ingeval het een opheffing van één of meer basisscholen betreft of een speciale school voor basisonderwijs ingeval het een opheffing van één of meer speciale scholen voor basisonderwijs betreft, zijn doorgestroomd naar de fusieschool en daar op de fusiedatum als bekostigde leerling staan ingeschreven.
 
-#### Artikel 22. Vermindering bekostiging bij verzelfstandiging van een vestiging
+##### Artikel 22. Vermindering bekostiging bij verzelfstandiging van een vestiging
 
 1. Voor de toepassing van [artikel 116, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=116) wordt een bedrag per leerling in mindering gebracht op de bekostiging van het overblijvende deel van de basisschool, als bedoeld in [artikel 84a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=84a), met dien verstande dat wordt gerekend met het aantal leerlingen dat op de teldata voorafgaand aan de verzelfstandiging als daadwerkelijk schoolgaand stond ingeschreven op het deel van de school dat verzelfstandigd is.
 
@@ -498,11 +524,11 @@ Er is sprake van een samenvoeging als bedoeld in [artikel 117, eerste of tweede 
 
 3. Bij ministeriële regeling wordt jaarlijks het bedrag, bedoeld in het eerste lid, vastgesteld.
 
-#### Artikel 23. Opheffen school
+##### Artikel 23. Opheffen school
 
 Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de school of een nevenvestiging kennis daarvan aan Onze Minister, gedeputeerde staten, de Inspectie van het onderwijs en, indien het een bijzondere school of een nevenvestiging daarvan betreft, eveneens aan het college van burgemeester en wethouders van de gemeente waarin de school onderscheidenlijk de nevenvestiging is gelegen.
 
-#### Artikel 24. Berekening exploitatieoverschot bij opheffing of beëindiging van de bekostiging van de laatste school van een bevoegd gezag
+##### Artikel 24. Berekening exploitatieoverschot bij opheffing of beëindiging van de bekostiging van de laatste school van een bevoegd gezag
 
 1. Voor de toepassing van [artikel 152 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=152), wordt onder exploitatieoverschot verstaan:
 
@@ -516,7 +542,7 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 3. Indien het exploitatieoverschot van een niet door een gemeente in stand gehouden school mede is opgebouwd uit uitkeringen als bedoeld in het eerste lid, onderdeel c, en geen onderscheid kan worden gemaakt met de baten respectievelijk de lasten, bedoeld in het eerste lid, onderdelen a en b, geldt als maatstaf voor de verdeling van eerstbedoeld deel van het exploitatieoverschot tussen Rijk en de desbetreffende gemeente de verhouding tussen het ontvangen bedrag aan bekostiging van het Rijk en het ontvangen bedrag aan uitkeringen, bedoeld in het eerste lid, onderdeel c, van de gemeente in een periode van vijf jaren voorafgaand aan het jaar van de beëindiging van de bekostiging. De verdeling behoeft de goedkeuring van Onze Minister.
 
-#### Artikel 25. Inhoudingsbedrag voortijdige beëindiging samenwerkingsovereenkomst
+##### Artikel 25. Inhoudingsbedrag voortijdige beëindiging samenwerkingsovereenkomst
 
 1. In geval van voortijdige beëindiging van een samenwerkingsovereenkomst wordt voor elk kalenderjaar, of gedeelte daarvan, dat een bijzondere school dan wel een openbare school op grond van de samenwerkingsovereenkomst, bedoeld in [artikel 143, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=143), in stand werd gehouden, door het Rijk een bedrag ingehouden op de bekostiging van de school.
 
@@ -528,7 +554,7 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 ### Hoofdstuk 6. Bekostigingscorrecties
 
-#### Artikel 26. Onderzoek en correcties
+##### Artikel 26. Onderzoek en correcties
 
 1. Onverminderd de bevoegdheid van de Inspectie van het onderwijs op grond van de [Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800) kan Onze Minister een onderzoek instellen of doen instellen naar de jaarverslaggeving, naar de gegevens die noodzakelijk zijn voor de vaststelling van de bekostiging, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de school.
 
@@ -542,13 +568,13 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 ### Hoofdstuk 7. Subsidiëring godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs op openbare scholen
 
-#### Artikel 27. Subsidieverstrekking
+##### Artikel 27. Subsidieverstrekking
 
 1. Onze Minister verstrekt per boekjaar subsidie aan de rechtspersoon, bedoeld in [artikel 192, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=192), voor het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs.
 
 2. Bij ministeriële regeling worden regels gesteld over de verstrekking.
 
-#### Artikel 28. Subsidiebedrag
+##### Artikel 28. Subsidiebedrag
 
 1. Het subsidiebedrag dat wordt verstrekt aan de rechtspersoon, bedoeld in [artikel 192, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=192), bestaat uit een bedrag dat is bestemd voor personeelskosten voor de leraren die het godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs verzorgen, en een bedrag dat is bestemd voor overige kosten.
 
@@ -564,7 +590,7 @@ Het bevoegd gezag geeft binnen twee weken na een besluit tot opheffing van de sc
 
 7. Het bedrag dat ten hoogste wordt verstrekt aan de rechtspersoon, bedoeld in [artikel 192, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=192), is het bedrag dat op de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap beschikbaar is voor het geven van godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs.
 
-#### Artikel 29. Hoogte subsidiebedrag
+##### Artikel 29. Hoogte subsidiebedrag
 
 Voor het bepalen van de hoogte van het subsidiebedrag kunnen bij ministeriële regeling regels worden gesteld over:
 
@@ -572,7 +598,7 @@ Voor het bepalen van de hoogte van het subsidiebedrag kunnen bij ministeriële r
 
 - b. het maximale aantal schooljaren per school waarin godsdienstonderwijs of levensbeschouwelijk vormingsonderwijs wordt gegeven.
 
-#### Artikel 30. Weigeringsgronden subsidie
+##### Artikel 30. Weigeringsgronden subsidie
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), kan de subsidie in ieder geval worden geweigerd indien:
 

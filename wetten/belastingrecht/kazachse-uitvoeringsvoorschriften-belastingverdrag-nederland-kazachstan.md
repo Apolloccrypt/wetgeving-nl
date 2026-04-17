@@ -1,20 +1,45 @@
 ---
-title: "Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan"
+title: "Regeling inzake vermindering en vrijstelling van Kazachse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland"
 identifier: "BWBR0009835"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-02-19
-laatste_update: 1999-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009835"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-02-19"
+last_updated: "1999-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009835"
+soort: "ministeriele-regeling"
+stam_id: "4260573"
+version_id: "6023972"
+internal_id: "C6227361"
+label_id: "4239114"
+dtd_version: "2.0"
+original_entry_into_force: "1998-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009835/1999-02-19/0"
+intitule_bron: "Stcrt.1998-153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-08-07"
+intitule_published: "1998-08-14"
+intitule_in_force: "1998-08-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-153"
+original_signed_date: "1998-08-07"
+original_published_date: "1998-08-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-08-16"
+jci_1_3: "jci1.3:c:BWBR0009835&z=1999-02-19&g=1999-02-19"
+jci_1_0: "1.0:c:BWBR0009835&g=1999-02-19"
+citeertitel_status: "officieel"
+short_title: "Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan"
+signed_date: "1998-08-07"
+entry_into_force: "1998-08-16"
 ---
-
 # Regeling inzake vermindering en vrijstelling van Kazachse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen:
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 24 april 1996 tussen Nederland en Kazachstan gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen en het Protocol bij dat Verdrag (Trb. 1996, 150), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -36,7 +61,7 @@ Aan het op 24 april 1996 tussen Nederland en Kazachstan gesloten Verdrag tot het
 
 - i. vermindering tot 10 percent van de Kazachse belasting op vergoedingen van welke aard ook voor het gebruik van, of het recht van gebruik van nijverheids-, handels of wetenschappelijke uitrusting, afkomstig uit Kazachstan en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, vierde lid, onderdeel b). Niettegenstaande de bepalingen van artikel 12, tweede lid, mag de uiteindelijk gerechtigde tot de royalty’s met betrekking tot leasing, zoals bedoeld in artikel 12, vierde lid, onderdeel b, er voor kiezen belast te worden in Kazachstan waaruit de royalty’s afkomstig zijn alsof het recht of de zaak uit hoofde waarvan die royalty’s worden betaald tot het bedrijfsvermogen van een vaste inrichting of tot het beroepsvermogen van een vaste middelpunt behoort. In dat geval zijn, naar gelang het geval, de bepalingen van artikel 7 of artikel 14 van het Verdrag van toepassing op het inkomen en de aftrekposten (inclusief afschrijving) die toegerekend kunnen worden aan dat recht of die zaak (artikel 12, vijfde lid). Het is wel te verstaan dat indien de uiteindelijk gerechtigde tot royalty’s met betrekking tot leasing zoals bedoeld in artikel 12, vierde lid, onderdeel b, de keuze maakt zoals bedoeld in artikel 12, vijfde lid, verschuldigde interest die toerekenbaar is aan het recht of de zaak waarvoor de royalty was ontvangen en die aftrekbaar is bij het vaststellen van de netto-grondslag zoals bedoeld in artikel 12, vijfde lid, geacht wordt afkomstig te zijn uit Kazachstan waar de betaling wegens de leasing opkomt. Iedere zodanige rentebetaling, indien deze is gedaan aan een inwoner van Nederland, is onderworpen aan de bepalingen van artikel 11 van het Verdrag. Een keuze, gemaakt krachtens artikel 12, vijfde lid, moet worden kenbaar gemaakt aan de bevoegde autoriteit van Kazachstan waaruit de betaling wegens de leasing geacht wordt afkomstig te zijn (onderdeel XII van het protocol). De in de onderdelen a, b, g, h en i van dit artikel vermelde verminderingen worden berekend over het bruto bedrag van de dividenden, interest en royalty’s. De in onderdelen a, b, g, h en i van dit artikel vermelde verminderingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty’s in Kazachstan een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Kazachstan zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zesde lid, respectievelijk artikel 11, vijfde lid, en artikel 12, zesde lid).
 
-#### Artikel 2
+##### Artikel 2
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009835&artikel=1&z=1999-02-19&g=1999-02-19) is van Kazachse zijde de volgende regeling getroffen:
 
@@ -84,7 +109,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009835&a
 
 - 5. Verkrijgbaarheid van de Kazachse formulieren Exemplaren van de Kazachse formulieren ’Claim for relief from, or reduction the rate of, Kazakstan income tax, due to foreign companies carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 1)’ en ’Claim for a refund of Kazakstan withholding tax on the income received by a foreign company carrying on business without permanent establishment in the Republic of Kazakstan (Form N° 2)’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Kazachstan bij het Ministerie van Financiën, 60 Republic Avenue, Astana, 473000 Republic of Kazakhstan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Deze regeling kan worden aangehaald als: Kazachse uitvoeringsvoorschriften belastingverdrag Nederland-Kazachstan.
 

@@ -1,16 +1,38 @@
 ---
 title: "Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002"
 identifier: "BWBV0005349"
-categorie: "Internationaal recht"
-publicatiedatum: 2014-04-23
-laatste_update: 2014-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005349"
+country: "nl"
+rank: "verdrag"
+publication_date: "2014-04-23"
+last_updated: "2014-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005349"
+soort: "verdrag"
+stam_id: "10004580113"
+version_id: "10004811462"
+internal_id: "C10008325991"
+label_id: "10004565284"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005349/2014-04-23/0"
+intitule_bron: "Trb.2011-110"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-06-24"
+intitule_in_force: "2013-05-30"
+intitule_status: "goed"
+original_publication: "Trb.2011-110"
+original_published_date: "2011-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-110"
+entry_into_force_date: "2014-04-23"
+jci_1_3: "jci1.3:c:BWBV0005349&z=2014-04-23&g=2014-04-23"
+jci_1_0: "1.0:c:BWBV0005349&g=2014-04-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-04-23"
 ---
-
 # Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 2002
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit Verdrag hebben de volgende begripsomschrijvingen de betekenis die hieraan bij dezen wordt toegekend:
 
@@ -56,11 +78,11 @@ In dit Verdrag hebben de volgende begripsomschrijvingen de betekenis die hieraan
 
 - 11. „Secretaris-Generaal” betekent de Secretaris-Generaal van de Organisatie.
 
-#### Artikel 1bis. Bijlage
+##### Artikel 1bis. Bijlage
 
 De aan dit Verdrag gehechte Bijlage maakt een integrerend onderdeel uit van het Verdrag.
 
-#### Artikel 2. Toepassing
+##### Artikel 2. Toepassing
 
 1. Dit Verdrag is van toepassing op elk internationaal vervoer indien:
 
@@ -72,7 +94,7 @@ De aan dit Verdrag gehechte Bijlage maakt een integrerend onderdeel uit van het 
 
 2. Niettegenstaande de bepalingen van het eerste lid van dit artikel is dit Verdrag niet van toepassing als het vervoer onderworpen is aan een aansprakelijkheidsregeling waarin is voorzien door bepalingen van een ander verdrag betreffende het vervoer van reizigers of bagage met een ander vervoermiddel en voor zover die bepalingen op het zeevervoer dwingend van toepassing zijn.
 
-#### Artikel 3. Aansprakelijkheid van de vervoerder
+##### Artikel 3. Aansprakelijkheid van de vervoerder
 
 1. Bij schade geleden als gevolg van het overlijden of persoonlijk letsel van een passagier veroorzaakt door een scheepvaartincident, is de vervoerder in zoverre aansprakelijk dat een dergelijk verlies met betrekking tot die passagier voor elk afzonderlijk geval niet meer dan 250.000 rekeneenheden bedraagt, tenzij de vervoerder bewijst dat het incident:
 
@@ -104,7 +126,7 @@ Indien en voor zover de schade bovengenoemde grens te boven gaat, is de vervoerd
 
 8. Enig vermoeden van schuld of nalatigheid van een partij of de toewijzing van de bewijslast aan een partij heeft niet tot gevolg dat bewijzen ten gunste van die partij niet in overweging worden genomen.
 
-#### Artikel 4. Feitelijke vervoerder
+##### Artikel 4. Feitelijke vervoerder
 
 1. Indien het vervoer geheel of gedeeltelijk aan een feitelijke vervoerder wordt toevertrouwd, blijft de vervoerder niettemin aansprakelijk voor het volledige vervoer overeenkomstig de bepalingen van dit Verdrag. Daarnaast is de feitelijke vervoerder onderworpen aan de bepalingen van dit Verdrag en kan hij zich erop beroepen voor het gedeelte van het vervoer dat door hem is verricht.
 
@@ -116,7 +138,7 @@ Indien en voor zover de schade bovengenoemde grens te boven gaat, is de vervoerd
 
 5. Geen enkele bepaling van dit artikel doet afbreuk aan enig recht van verhaal tussen de vervoerder en de feitelijke vervoerder.
 
-#### Artikel 4bis. Verplichte verzekering
+##### Artikel 4bis. Verplichte verzekering
 
 1. Wanneer passagiers worden vervoerd aan boord van een in een staat die partij is geregistreerd schip dat vergunning heeft voor het vervoeren van meer dan twaalf passagiers, en dit Verdrag van toepassing is, dient een vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht, te zorgen voor een verzekering of een andere financiële zekerheid, zoals een borgstelling van een bank of soortgelijke financiële instelling, ter dekking van de uit dit Verdrag voortvloeiende aansprakelijkheid bij overlijden of persoonlijk letsel van passagiers. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid bedraagt niet minder dan 250.000 rekeneenheden per passagier per afzonderlijk geval.
 
@@ -170,21 +192,21 @@ Indien en voor zover de schade bovengenoemde grens te boven gaat, is de vervoerd
 
 15. Is met betrekking tot een schip dat in eigendom toebehoort aan een staat die partij is geen verzekering afgesloten of andere financiële zekerheid gesteld, dan zijn de desbetreffende bepalingen van dit artikel op dat schip niet van toepassing, maar dient het schip wel te zijn voorzien van een certificaat, afgegeven door de bevoegde autoriteiten van de staat waar het is geregistreerd, houdende verklaring dat het schip eigendom is van die staat en dat de aansprakelijkheid voor het schip gedekt is binnen de overeenkomstig het eerste lid voorgeschreven grenzen. Een dergelijk certificaat wordt zoveel mogelijk opgesteld volgens het in het tweede lid voorgeschreven model.
 
-#### Artikel 5. Waardevolle voorwerpen
+##### Artikel 5. Waardevolle voorwerpen
 
 De vervoerder is niet aansprakelijk voor verlies of beschadiging van geld, verhandelbare effecten, goud, zilverwerk, juwelen, bijouterieën, kunstvoorwerpen of andere waardevolle voorwerpen, tenzij dergelijke waardevolle voorwerpen volgens afspraak bij de vervoerder in veilige bewaring zijn gegeven in welk geval de aansprakelijkheid van de vervoerder beperkt is tot het bedrag voorzien in [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23), tenzij een hogere aansprakelijkheidsgrens wordt overeengekomen in overeenstemming met [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2014-04-23&g=2014-04-23).
 
-#### Artikel 6. Medeschuld
+##### Artikel 6. Medeschuld
 
 Indien de vervoerder bewijst dat het overlijden of persoonlijk letsel van een passagier of het verlies of de beschadiging van zijn bagage te wijten of mede te wijten is aan de schuld of nalatigheid van de passagier, kan de rechter bij wie de zaak aanhangig is gemaakt, overeenkomstig de bepalingen van zijn nationale wet de vervoerder geheel of gedeeltelijk van zijn aansprakelijkheid ontheffen.
 
-#### Artikel 7. Aansprakelijkheidsgrens bij overlijden en persoonlijk letsel
+##### Artikel 7. Aansprakelijkheidsgrens bij overlijden en persoonlijk letsel
 
 1. De aansprakelijkheid van de vervoerder voor het overlijden of het persoonlijk letsel van een passagier ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23) is in geen geval hoger dan een bedrag van 400.000 rekeneenheden per passagier, per afzonderlijk geval. Indien de schadevergoeding volgens het recht van de rechter bij wie de zaak aanhangig is gemaakt wordt verleend in de vorm van periodieke betalingen, mag de kapitaalwaarde van deze betalingen deze limiet niet overschrijden.
 
 2. Een staat die partij is kan de in het eerste lid voorgeschreven aansprakelijkheidsgrens regelen bij specifieke bepalingen van nationaal recht, mits de nationale aansprakelijkheidsgrens, voor zover aanwezig, niet lager is dan die welke in het eerste lid wordt voorgeschreven. Een staat die partij is die gebruik maakt van de in dit lid voorziene mogelijkheid, stelt de Secretaris-Generaal in kennis van de vastgestelde aansprakelijkheidsgrens, dan wel van het feit dat deze ontbreekt.
 
-#### Artikel 8. Aansprakelijkheidsgrens bij verlies of beschadiging van bagage en voertuigen
+##### Artikel 8. Aansprakelijkheidsgrens bij verlies of beschadiging van bagage en voertuigen
 
 1. De aansprakelijkheid van de vervoerder bij verlies of beschadiging van hutbagage bedraagt ten hoogste 2.250 rekeneenheden per passagier, per vervoer.
 
@@ -194,7 +216,7 @@ Indien de vervoerder bewijst dat het overlijden of persoonlijk letsel van een pa
 
 4. De vervoerder en de passagier kunnen overeenkomen dat de aansprakelijkheid van de vervoerder met ten hoogste 330 rekeneenheden kan worden verminderd in het geval van schade aan een voertuig en met ten hoogste 149 rekeneenheden per passagier in het geval van verlies of beschadiging van andere bagage, waarbij dit bedrag van het geleden verlies of de geleden schade wordt afgetrokken.
 
-#### Artikel 9. Rekeneenheid en omrekening
+##### Artikel 9. Rekeneenheid en omrekening
 
 1. De rekeneenheid bedoeld in dit Verdrag is het Bijzondere Trekkingsrecht zoals dit is omschreven door het Internationale Monetaire Fonds. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) genoemde bedragen worden omgerekend in de nationale munteenheid van de staat van de rechter bij wie de zaak aanhangig is gemaakt, overeenkomstig de waarde van de desbetreffende munteenheid ten opzichte van het Bijzondere Trekkingsrecht op de datum van de uitspraak of op de door de partijen overeengekomen datum. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die lid is van het Internationale Monetaire Fonds, wordt berekend overeenkomstig de waarderingsmethode die door het Internationale Monetaire Fonds op de desbetreffende datum wordt toegepast voor zijn eigen verrichtingen en transacties. De waarde van de nationale munteenheid, uitgedrukt in Bijzondere Trekkingsrechten, van een staat die partij is die geen lid is van het Internationale Monetaire Fonds, wordt berekend op een door die staat die partij is vastgestelde wijze.
 
@@ -202,17 +224,17 @@ Indien de vervoerder bewijst dat het overlijden of persoonlijk letsel van een pa
 
 3. De in de laatste zin van het eerste lid genoemde berekening en de in het tweede lid genoemde omrekening geschieden op zodanige wijze dat in de nationale munteenheden van de staten die partij zijn zo veel mogelijk dezelfde reële waarde voor de bedragen in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23), en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) wordt uitgedrukt als zou volgen uit de toepassing van de eerste drie zinnen van het eerste lid. De staten doen de Secretaris-Generaal mededeling van de wijze van berekening overeenkomstig het eerste lid, of van het resultaat van de omrekening in het tweede lid, naargelang van het geval, wanneer zij een akte van bekrachtiging, aanvaarding, goedkeuring van, of van toetreding tot dit Verdrag nederleggen, en telkens wanneer zich in deze berekening of omrekening een wijziging voordoet.
 
-#### Artikel 10. Aanvullende bepalingen inzake aansprakelijkheidsgrenzen
+##### Artikel 10. Aanvullende bepalingen inzake aansprakelijkheidsgrenzen
 
 1. De vervoerder en de passagier kunnen uitdrukkelijk en schriftelijk hogere aansprakelijkheidsgrenzen overeenkomen dan de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde.
 
 2. Rente en proceskosten zijn niet begrepen in de bij de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen.
 
-#### Artikel 11. Verweermiddelen en grenzen waarop hulppersonen van de vervoerder zich kunnen beroepen
+##### Artikel 11. Verweermiddelen en grenzen waarop hulppersonen van de vervoerder zich kunnen beroepen
 
 Indien een rechtsvordering tegen een hulppersoon van de vervoerder of van de feitelijke vervoerder wordt ingesteld wegens in dit Verdrag bedoelde schade, kan die hulppersoon, indien hij bewijst dat hij in de uitoefening van zijn werkzaamheden heeft gehandeld, zich beroepen op de verweermiddelen en aansprakelijkheidsgrenzen waarop de vervoerder of de feitelijke vervoerder zich krachtens dit Verdrag kunnen beroepen.
 
-#### Artikel 12. Samentelling van vorderingen
+##### Artikel 12. Samentelling van vorderingen
 
 1. Wanneer de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) vastgestelde aansprakelijkheidsgrenzen van toepassing zijn, zijn zij van toepassing op de totale som van de schadevergoeding die kan worden verkregen in het kader van alle vorderingen die worden ingesteld in geval van dood of persoonlijk letsel van een passagier of verlies of beschadiging van zijn bagage.
 
@@ -220,17 +242,17 @@ Indien een rechtsvordering tegen een hulppersoon van de vervoerder of van de fei
 
 3. In elk geval waarin een hulppersoon van de vervoerder of van de feitelijke vervoerder zich krachtens [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=11&z=2014-04-23&g=2014-04-23) van dit Verdrag kan beroepen op de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen, mag de totale som van de schadevergoeding die kan worden verkregen van de vervoerder of, in voorkomende gevallen, van de feitelijke vervoerder en van deze hulppersoon, die grenzen niet overschrijden.
 
-#### Artikel 13. Verlies van het recht tot beperking van aansprakelijkheid
+##### Artikel 13. Verlies van het recht tot beperking van aansprakelijkheid
 
 1. Het voordeel van de in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) en in het [eerste lid van artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=10&z=2014-04-23&g=2014-04-23) bepaalde aansprakelijkheidsgrenzen vervalt voor de vervoerder indien is bewezen dat de schade voortvloeit uit een handelen of nalaten van de vervoerder, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en in de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
 2. Het voordeel van de aansprakelijkheidsgrenzen vervalt voor de hulppersoon van de vervoerder of feitelijke vervoerder indien is bewezen dat de schade voortvloeit uit een handelen of nalaten van deze hulppersoon, hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en in de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien.
 
-#### Artikel 14. Grondslag voor vorderingen
+##### Artikel 14. Grondslag voor vorderingen
 
 In geval van overlijden of persoonlijk letsel van een passagier of van verlies of beschadiging van bagage kan tegen de vervoerder of de feitelijke vervoerder geen vordering tot schadevergoeding worden ingesteld anders dan op grond van dit Verdrag.
 
-#### Artikel 15. Kennisgeving van verlies of beschadiging van bagage
+##### Artikel 15. Kennisgeving van verlies of beschadiging van bagage
 
 1. De passagier dient de vervoerder of zijn vertegenwoordiger schriftelijk in kennis te stellen:
 
@@ -246,7 +268,7 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 3. Een schriftelijke kennisgeving hoeft niet te worden gedaan indien de staat van de bagage bij het in ontvangst nemen ervan gezamenlijk is vastgesteld of onderzocht.
 
-#### Artikel 16. Verjaringstermijn voor vorderingen tot schadevergoeding
+##### Artikel 16. Verjaringstermijn voor vorderingen tot schadevergoeding
 
 1. Elke vordering tot vergoeding van de schade voortvloeiende uit het overlijden of persoonlijk letsel van een passagier, of uit verlies of beschadiging van de bagage, verjaart na een termijn van twee jaar.
 
@@ -266,7 +288,7 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 4. Niettegenstaande de bepalingen van het eerste, tweede en derde lid van dit artikel kan de verjaringstermijn worden verlengd door middel van een verklaring van de vervoerder of een overeenkomst die tussen de partijen wordt gesloten nadat de grond voor de vordering is ontstaan. De verklaring of de overeenkomst dient op schrift te staan.
 
-#### Artikel 17. Bevoegde rechter
+##### Artikel 17. Bevoegde rechter
 
 1. Een vordering ingesteld overeenkomstig de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4&z=2014-04-23&g=2014-04-23) van dit Verdrag wordt naar keuze van de eiser aanhangig gemaakt bij een van de hieronder genoemde rechters, op voorwaarde dat deze zitting houdt in een staat die partij is bij dit Verdrag, en overeenkomstig het nationaal recht van elke staat die partij is ten aanzien van de aanwijzing van een bevoegde rechter binnen die staten waar een keuze uit meerdere rechters mogelijk is:
 
@@ -282,7 +304,7 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 3. Na het plaatsvinden van het incident dat de schade heeft veroorzaakt, kunnen de partijen overeenkomen of de eis tot schadevergoeding aan een rechter of voor arbitrage moet worden voorgelegd.
 
-#### Artikel 17bis. Erkenning en tenuitvoerlegging
+##### Artikel 17bis. Erkenning en tenuitvoerlegging
 
 1. Uitspraken van een uit hoofde van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2014-04-23&g=2014-04-23) bevoegde rechter die voor tenuitvoerlegging vatbaar zijn in de staat waarin zij zijn gewezen en waartegen geen gewoon rechtsmiddel meer openstaat, worden erkend in elke andere staat die partij is, tenzij
 
@@ -294,15 +316,15 @@ In geval van overlijden of persoonlijk letsel van een passagier of van verlies o
 
 3. Een staat die partij is bij dit Protocol kan andere regels toepassen voor de erkenning en tenuitvoerlegging van uitspraken, mits deze ertoe strekken te waarborgen dat uitspraken in ten minste dezelfde mate als ingevolge het eerste en tweede lid worden erkend of ten uitvoer worden gelegd.
 
-#### Artikel 18. Ongeldigheid van contractuele bedingen
+##### Artikel 18. Ongeldigheid van contractuele bedingen
 
 Elk contractueel beding dat is overeengekomen vóór het plaatsvinden van het incident dat het overlijden of persoonlijk letsel van een passagier of het verlies of de beschadiging van zijn bagage heeft veroorzaakt en dat een uit hoofde van dit Verdrag aansprakelijke persoon jegens de passagier van zijn aansprakelijkheid ontheft of voorziet in een lagere aansprakelijkheidsgrens dan is bepaald in dit Verdrag, met uitzondering van het bepaalde in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23), of de bewijslast die op de vervoerder of feitelijke vervoerder rust, omkeert, dan wel tot gevolg heeft dat de in [artikel 17, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=17&z=2014-04-23&g=2014-04-23), omschreven keuze wordt beperkt, is nietig, maar de nietigheid van dit beding heeft niet de nietigheid tot gevolg van de vervoersovereenkomst, die onderworpen blijft aan de bepalingen van dit Verdrag.
 
-#### Artikel 19. Andere verdragen inzake de beperking van aansprakelijkheid
+##### Artikel 19. Andere verdragen inzake de beperking van aansprakelijkheid
 
 Dit Verdrag laat onverlet de rechten en verplichtingen van de vervoerder, de feitelijke vervoerder en hun hulppersonen zoals voorzien in verdragen betreffende de beperking van de aansprakelijkheid van eigenaren van zeeschepen.
 
-#### Artikel 20. Kernschade
+##### Artikel 20. Kernschade
 
 Er ontstaat ingevolge dit Verdrag geen aansprakelijkheid voor schade voorvloeiend uit een nucleair ongeval:
 
@@ -310,23 +332,23 @@ Er ontstaat ingevolge dit Verdrag geen aansprakelijkheid voor schade voorvloeien
 
 - b. indien de exploitant van een kerninstallatie aansprakelijk is voor dergelijke schade krachtens nationale wetgeving inzake de aansprakelijkheid voor dergelijke schade, op voorwaarde dat die wetgeving ten opzichte van de personen die schade kunnen ondervinden, in elk opzicht even gunstig is als het Verdrag van Parijs of van Wenen of een van kracht zijnde wijziging hiervan of enig van kracht zijnd protocol hierbij.
 
-#### Artikel 21. Commercieel vervoer door overheidsdiensten
+##### Artikel 21. Commercieel vervoer door overheidsdiensten
 
 Dit Verdrag is van toepassing op commercieel vervoer verricht door staten of door overheidsdiensten uit hoofde van vervoersovereenkomsten in de zin van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=1&z=2014-04-23&g=2014-04-23).
 
-#### Artikel 22. Verklaring van niet-toepassing
+##### Artikel 22. Verklaring van niet-toepassing
 
 1. Elke partij kan ten tijde van de ondertekening, bekrachtiging, aanvaarding of goedkeuring van of toetreding tot dit Verdrag schriftelijk verklaren dat zij de bepalingen van dit Verdrag niet ten uitvoer zal leggen wanneer de passagier en de vervoerder onderdanen zijn van die partij.
 
 2. Een uit hoofde van het eerste lid van dit artikel afgelegde verklaring kan te allen tijde door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal worden ingetrokken.
 
-#### Artikel 22bis. Slotbepalingen van het Verdrag
+##### Artikel 22bis. Slotbepalingen van het Verdrag
 
 De slotbepalingen van dit Verdrag zijn de artikelen 17 tot en met 25 van het Protocol van 2002 bij het Verdrag van Athene inzake het vervoer van passagiers en hun bagage over zee, 1974. Verwijzingen in dit Verdrag naar staten die partij zijn verwijzen naar staten die partij zijn bij dat protocol.
 
 ### SLOTBEPALINGEN
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat van 1 mei 2003 tot en met 30 april 2004 open voor ondertekening op het hoofdkwartier van de Organisatie en blijft daarna open voor toetreding.
 
@@ -352,7 +374,7 @@ De slotbepalingen van dit Verdrag zijn de artikelen 17 tot en met 25 van het Pro
 
 met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt in overeenstemming met artikel 20.
 
-#### Artikel 18. Staten met meer dan een rechtsstelsel
+##### Artikel 18. Staten met meer dan een rechtsstelsel
 
 1. Indien een staat twee of meer territoriale eenheden heeft waarin verschillende rechtsstelsels van toepassing zijn betreffende in dit Protocol geregelde aangelegenheden, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Protocol op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring in te dienen.
 
@@ -366,7 +388,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 - c. verwijzingen naar rechters, en naar uitspraken die in de Staten die Partij zijn dienen te worden erkend, worden uitgelegd als verwijzingen naar respectievelijk rechters van, en uitspraken die dienen te worden erkend in, de territoriale eenheid in kwestie.
 
-#### Artikel 19. Organisaties voor regionale economische integratie
+##### Artikel 19. Organisaties voor regionale economische integratie
 
 1. Een organisatie voor regionale economische integratie samengesteld uit soevereine Staten die bevoegdheden inzake bepaalde aangelegenheden die door dit Protocol worden geregeld aan die organisatie hebben overgedragen, kan dit Protocol ondertekenen, bekrachtigen, aanvaarden, goedkeuren of ertoe toetreden. Een organisatie voor regionale economische integratie die partij is bij dit Protocol heeft de rechten en verplichtingen van een staat die partij is, voor zover deze organisatie bevoegd is ten aanzien van aangelegenheden die door dit Protocol worden geregeld.
 
@@ -378,13 +400,13 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 5. Staten die partij zijn en die lidstaat zijn van een organisatie voor regionale economische integratie die zelf partij is bij dit Protocol, worden geacht bevoegd te zijn ten aanzien van alle bij dit Protocol geregelde aangelegenheden ten aanzien waarvan de overdracht van bevoegdheden aan de organisatie niet uitdrukkelijk overeenkomstig het vierde lid zijn aangeduid of medegedeeld.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop tien staten het hebben ondertekend zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd bij de Secretaris-Generaal.
 
 2. Voor iedere Staat die dit Protocol bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt nadat is voldaan aan de voorwaarden voor inwerkingtreding in het eerste lid, treedt dit Protocol in werking drie maanden na de datum van nederlegging door deze Staat van de desbetreffende akte, evenwel niet eerder dan de datum waarop dit Protocol in werking is getreden in overeenstemming met het eerste lid.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Dit Protocol kan te allen tijde worden opgezegd door een staat die partij is na de datum waarop het voor die staat in werking is getreden.
 
@@ -394,13 +416,13 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 4. Tussen de staten die partij zijn bij dit Protocol, wordt de opzegging door een van hen van het Verdrag in overeenstemming met [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=25&z=2014-04-23&g=2014-04-23) daarvan, onder geen beding uitgelegd als een opzegging van het Verdrag zoals herzien bij dit Protocol.
 
-#### Artikel 22. Herziening en wijziging
+##### Artikel 22. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van dit Protocol bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Partijen bij dit Protocol bijeen ter herziening of wijziging ervan, op verzoek van ten minste een derde van de Staten die Partij zijn.
 
-#### Artikel 23. Wijziging van de aansprakelijkheidsgrenzen
+##### Artikel 23. Wijziging van de aansprakelijkheidsgrenzen
 
 1. Onverminderd het bepaalde in artikel 22 is de bijzondere procedure van dit artikel uitsluitend van toepassing ten behoeve van het wijzigen van de aansprakelijkheidsgrenzen, zoals deze zijn vastgesteld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=3&z=2014-04-23&g=2014-04-23), [artikel 4**bis**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=4bis&z=2014-04-23&g=2014-04-23), [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=7&z=2014-04-23&g=2014-04-23) en [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=8&z=2014-04-23&g=2014-04-23) van het Verdrag zoals herzien bij dit Protocol.
 
@@ -428,7 +450,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 11. Wanneer een wijziging is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een staat die gedurende dat tijdvak partij wordt, door de wijziging gebonden indien deze in werking treedt. Een staat die na dat tijdvak Partij wordt, is gebonden door een wijziging die overeenkomstig het achtste lid is aanvaard. In de gevallen bedoeld in dit lid wordt een staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor die staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 24. Depositaris
+##### Artikel 24. Depositaris
 
 1. Dit Protocol en alle ingevolge [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005349&artikel=23&z=2014-04-23&g=2014-04-23) aangenomen wijzigingen worden nedergelegd bij de Secretaris-Generaal.
 
@@ -456,7 +478,7 @@ met ingang van het tijdstip waarop dit Protocol voor die staat in werking treedt
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 25. Talen
+##### Artikel 25. Talen
 
 Dit Protocol is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

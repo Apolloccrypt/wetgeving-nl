@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake economische en technologische samenwerking"
 identifier: "BWBV0002751"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-11-01
-laatste_update: 1993-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002751"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-11-01"
+last_updated: "1993-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002751"
+soort: "verdrag"
+stam_id: "10003084663"
+version_id: "10003088412"
+internal_id: "C10006987041"
+label_id: "10003070984"
+dtd_version: "2.0"
+original_entry_into_force: "1993-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002751/1993-11-01/0"
+intitule_bron: "Trb.1991-1"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-08"
+intitule_published: "1991-01-07"
+intitule_in_force: "1993-09-30"
+intitule_status: "goed"
+original_publication: "Trb.1991-1"
+original_signed_date: "1991-11-08"
+original_published_date: "1991-01-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-1"
+entry_into_force_date: "1993-11-01"
+jci_1_3: "jci1.3:c:BWBV0002751&z=1993-11-01&g=1993-11-01"
+jci_1_0: "1.0:c:BWBV0002751&g=1993-11-01"
+citeertitel_status: "officieel"
+signed_date: "1991-11-08"
+entry_into_force: "1993-11-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Chili inzake economische en technologische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Geleid door de wens de vriendschappelijke betrekkingen tussen hun beide volken v
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Overeenkomstsluitende Partijen doen al het mogelijke, binnen het kader van hun wetten en voorschriften en rekening houdend met hun internationale verplichtingen, om de economische en technologische samenwerking tussen beide landen te ontwikkelen en te versterken op basis van wederzijds voordeel.
 
@@ -32,13 +57,13 @@ Zijn als volgt overeengekomen:
 
 - b. onderdanen van de ene Staat en de andere Staat of de samenstellende delen of instanties daarvan.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen zijn van mening dat de samenwerking onder meer betrekking kan hebben op industrie, bosbouw en papierindustrie, mijnbouw, energie, landontginning en waterhuishouding, landbouw, industrie voor de verwerking van agrarische produkten, visserij, regionale ontwikkeling en plattelandsontwikkeling, diensten en voorzieningen voor de gezondheidszorg, huisvesting, bescherming van het milieu en rationeel gebruik van natuurlijke rijkdommen, infrastructuur, vervoersinfrastructuur, verbindingen, distributie en afzet van goederen, constructiewerkzaamheden en andere diensten.
 
 Zij stellen elkaar op de hoogte van de specifieke sectoren waarin zij samenwerking wenselijk achten.
 
-#### Artikel 3
+##### Artikel 3
 
 De in artikel 1 bedoelde technologische samenwerking omvat de toegepaste wetenschappen en kan, met inachtneming van de wetten en voorschriften van elk der Overeenkomstsluitende Partijen, ten uitvoer worden gelegd door middel van projecten en ondernemingen waarin de economische samenwerking tussen hun onderscheiden onderdanen een aanvang neemt of wordt uitgebreid. Deze samenwerking kan ondermeer omvatten:
 
@@ -54,11 +79,11 @@ De in artikel 1 bedoelde technologische samenwerking omvat de toegepaste wetensc
 
 - f. het organiseren van symposia en bijeenkomsten over onderwerpen van wederzijds belang.
 
-#### Artikel 4
+##### Artikel 4
 
 Elke Overeenkomstsluitende Partij verbindt zich ertoe ten aanzien van de andere Overeenkomstsluitende Partij, in de mate waarin de wetgeving van de eerstgenoemde Partij zulks toestaat, het houden van economische en commerciële tentoonstellingen en manifestaties op haar grondgebied door de andere Overeenkomstsluitende Partij of door haar onderdanen te vergemakkelijken.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen komen overeen een Gemengde Commissie voor economische en technologische samenwerking in te stellen.
 
@@ -76,11 +101,11 @@ De Commissie kan gespecialiseerde werkgroepen instellen ter behandeling van de s
 
 De Commissie komt bijeen op verzoek van een der Overeenkomstsluitende Partijen.
 
-#### Artikel 6
+##### Artikel 6
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het deel van het Koninkrijk in Europa, de Nederlandse Antillen en Aruba.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de in hun onderscheiden landen daarvoor constitutioneel vereiste procedures is voldaan en blijft van kracht voor een tijdvak van vijftien jaar.
 

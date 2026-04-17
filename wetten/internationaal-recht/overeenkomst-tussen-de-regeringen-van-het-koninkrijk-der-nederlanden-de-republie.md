@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, de Republiek Indonesië en de Verenigde Staten van Amerika"
 identifier: "BWBV0005065"
-categorie: "Internationaal recht"
-publicatiedatum: 1952-02-11
-laatste_update: 1952-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005065"
+country: "nl"
+rank: "verdrag"
+publication_date: "1952-02-11"
+last_updated: "1952-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005065"
+soort: "verdrag"
+stam_id: "10004456033"
+version_id: "10004664002"
+internal_id: "C10006893991"
+label_id: "10004440804"
+dtd_version: "2.0"
+original_entry_into_force: "1952-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005065/1952-02-11/0"
+intitule_bron: "Trb.1952-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-04-04"
+intitule_in_force: "1952-04-04"
+intitule_status: "goed"
+original_publication: "Trb.1952-49"
+original_published_date: "1952-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-49"
+entry_into_force_date: "1952-02-11"
+jci_1_3: "jci1.3:c:BWBV0005065&z=1952-02-11&g=1952-02-11"
+jci_1_0: "1.0:c:BWBV0005065&g=1952-02-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "1952-02-11"
 ---
-
 # Overeenkomst tussen de Regeringen van het Koninkrijk der Nederlanden, de Republiek Indonesië en de Verenigde Staten van Amerika
 
 The Governments of the Kingdom of the Netherlands, the Republic of Indonesia, and the United States of America:
@@ -26,7 +48,7 @@ Recognizing further the desire of the Government of the United States of America
 
 Have agreed as follows:
 
-#### Article I
+##### Article I
 
 1. The Government of the Kingdom of the Netherlands is hereby relieved of all further obligation and responsibility in connection with the aforementioned economic assistance furnished to the Government of the Kingdom of the Netherlands for the benefit of the area now constituting the Republic of Indonesia, such obligation and responsibility having been incurred by the signing of the Economic Cooperation Agreement on July 2, 1948, and amendments thereto, the exchange of notes concluded April 26, 1949, as amended, the conclusion of the loan agreements with the Export-Import Bank of Washington dated October 28, 1948 and December 22, 1949, and the execution and delivery of promissory notes under such loan agreements.
 
@@ -34,21 +56,21 @@ Have agreed as follows:
 
 3. This Agreement supersedes the exchange of notes between the Government of the United States of America and the Government of the Republic of the United States of Indonesia dated March 24, 1950.
 
-#### Article II
+##### Article II
 
 1. The Government of the Kingdom of the Netherlands hereby transfers, and the Government of the United States of America hereby agrees to such transfer, all its rights with respect to the aforementioned economic assistance, and under the aforementioned Agreements and Promissory Notes, to the Government of the Republic of Indonesia.
 
 2. It is understood that with respect to assistance furnished for the benefit of the area now constituting the Republic of Indonesia, „guilders” within the meaning of Article IV of the Economic Cooperation Agreement between the Governments of the Kingdom of the Netherlands and of the United States of America includes Indonesian guilders or rupiahs. The Government of the Kingdom of the Netherlands hereby assigns and transfers to the Government of the Republic of Indonesia any and all interest it may have in amounts of local currency deposited, or which the Government of the Republic of Indonesia hereafter may be required to deposit, with respect to such assistance pursuant to the said Article IV, the amount of which is set forth in the Annex hereto.
 
-#### Article III
+##### Article III
 
 In implementation of this Agreement, on the date of its entry into force, (a) the Export-Import Bank of Washington shall surrender to the Government of the Kingdom of the Netherlands its promissory note evidencing the obligation of the Government of the Kingdom of the Netherlands under the loan agreements specified in Article I hereof, and (b) the Government of the Republic of Indonesia shall execute and deliver to the Export-Import Bank of Washington its promissory note in the amount of $ 17,200,000 which note shall include the same terms and conditions as the note surrendered to the Government of the Kingdom of the Netherlands.
 
-#### Article IV
+##### Article IV
 
 It at any time or from time to time the Government of the United States of America and the Government of the Republic of Indonesia shall determine that it would be in their common interest because of adverse economic conditions or for any other reason to postpone, or provide for the postponement of, any installments of interest or principal, or to alter or provide for the alteration of any provisions of the aforesaid note of the Republic of Indonesia relating to payment of interest and principal, or to modify the aforesaid promissory note in any other respect, they may by mutual agreement in writing provide for any such postponement or alteration or other modification.
 
-#### Article V
+##### Article V
 
 This Agreement will enter into effect upon notification from the Government of the Republic of Indonesia to the Governments of the Kingdom of the Netherlands and of the United States of America that all necessary legal requirements in connection with the conclusion of this Agreement by the Government of the Republic of Indonesia have been fulfilled.
 

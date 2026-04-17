@@ -1,13 +1,39 @@
 ---
-title: "Besluit prudentieel toezicht financiële groepen Wft"
+title: "Besluit van 12 oktober 2006, houdende regels met betrekking tot aanvullend prudentieel toezicht op banken, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Besluit prudentieel toezicht financiële groepen Wft)"
 identifier: "BWBR0020415"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-02-10
-laatste_update: 2021-02-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020415"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-02-10"
+last_updated: "2021-02-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020415"
+soort: "AMvB"
+stam_id: "8686993"
+version_id: "22622782"
+internal_id: "C32434761"
+label_id: "8667574"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020415/2021-02-10/0"
+intitule_bron: "Stb.2011-673"
+intitule_effect: "wijziging"
+intitule_signed: "2011-12-22"
+intitule_published: "2011-12-29"
+intitule_in_force: "2011-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2015-308"
+original_signed_date: "2015-07-10"
+original_published_date: "2015-07-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-308"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0020415&z=2021-02-10&g=2021-02-10"
+jci_1_0: "1.0:c:BWBR0020415&g=2021-02-10"
+citeertitel_status: "officieel"
+short_title: "Besluit prudentieel toezicht financiële groepen Wft"
+signed_date: "2015-07-10"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van 12 oktober 2006, houdende regels met betrekking tot aanvullend prudentieel toezicht op banken, levensverzekeraars, schadeverzekeraars en beleggingsondernemingen die tot een financiële groep behoren (Besluit prudentieel toezicht financiële groepen Wft)
 
 Op de voordracht van Onze Minister van Financiën van 27 juni 2006, nr. FM 2006-01503 M;
@@ -22,11 +48,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368).
 
-#### Artikel 2
+##### Artikel 2
 
 De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit beschreven methoden consistent toe.
 
@@ -34,11 +60,11 @@ De in dit besluit bedoelde financiële ondernemingen passen de in dit besluit be
 
 #### Bepalingen ter uitvoering van de [artikelen 3:270, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:270), [3:280, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280), en [3:280b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280b)
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een beleggingsonderneming of bank als bedoeld in [artikel 3:280, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280) dient de in het derde lid van dat artikel bedoelde rapportage eenmaal per jaar bij de Nederlandsche Bank of de Europese Centrale Bank in, tenzij de Nederlandsche Bank of de Europese Centrale Bank, indien de solvabiliteit door ontwikkelingen bij de beleggingsonderneming of bank in het gedrang is of zou kunnen komen, besluit dat er gerapporteerd wordt met een hogere frequentie.
 
@@ -60,11 +86,11 @@ Vervallen
 
 - f. de termijn waarbinnen de rapportage wordt verstrekt; met dien verstande dat deze niet korter is dan noodzakelijk voor de uitoefening van het toezicht op de naleving van [hoofdstuk 6 van het Deel Prudentieel toezicht financiële ondernemingen van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&hoofdstuk=3.6).
 
-#### Artikel 4a
+##### Artikel 4a
 
 Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederland die onder het toepassingsgebied van de richtlijn solvabiliteit II vallen.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. Een deelnemende verzekeraar als bedoeld in [artikel 3:288a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288a) of een verzekeringsholding of gemengde financiële holding als bedoeld in artikel 3:288a, tweede lid, van de wet voert de berekening, waaruit moet blijken dat de solvabiliteit van de verzekeringsrichtlijngroep waarvan de verzekeraar of holding deel uitmaakt voldoet aan artikel 3:288a, eerste onderscheidenlijk tweede lid, ten minste eenmaal per jaar uit. De verzekeraar of holding voert de berekening onverwijld opnieuw uit indien het risicoprofiel van de groep duidelijk afwijkt van de aannames die ten grondslag lagen aan de laatste berekening, of indien de groepstoezichthouder daarom verzoekt vanwege aanwijzingen dat het risicoprofiel sinds die laatste berekening duidelijk is veranderd. De verzekeraar of holding meldt de uitkomst van de herberekening aan de groepstoezichthouder.
 
@@ -78,7 +104,7 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 6. Op de in het eerste lid bedoelde berekening zijn de overgangsmaatregelen, bedoeld in artikel 308 ter, zestiende lid en zeventiende lid, eerste en tweede alinea, van de richtlijn solvabiliteit II, van toepassing dan wel van overeenkomstige toepassing.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Indien het solvabiliteitskapitaalvereiste van een Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar, die onderdeel is van een verzekeringsrichtlijngroep, wordt berekend op basis van een overeenkomstig artikel 231 van de richtlijn solvabiliteit II op groepsniveau goedgekeurd intern model en de Nederlandsche Bank van oordeel is dat de omstandigheden, bedoeld in artikel 231, zevende lid, van die richtlijn zich voordoen, kan zij in de in artikel 37 van de richtlijn solvabiliteit II bedoelde gevallen een kapitaalopslag toepassen.
 
@@ -92,7 +118,7 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 #### § 1. Rapportage van intragroepsovereenkomsten en -posities, keuze van de berekeningsmethode en algemene beginselen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verzekeraar als bedoeld in de aanhef van [artikel 3:281a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281a) dient de in het tweede lid van dat artikel bedoelde rapportage eenmaal per jaar in. De Nederlandsche Bank kan, indien de solvabiliteit door ontwikkelingen bij een verzekeraar in het gedrang is of zou kunnen komen, besluiten dat de verzekeraar rapporteert met een hogere frequentie.
 
@@ -100,7 +126,7 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 3. De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verzekeraar als bedoeld in [artikel 3:281b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:281b) berekent de aangepaste solvabiliteit overeenkomstig de in deze afdeling gestelde regels.
 
@@ -108,7 +134,7 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 3. De Nederlandsche Bank stelt regels met betrekking tot de rapportage, bedoeld in het tweede lid. [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2&artikel=4&z=2021-02-10&g=2021-02-10), is van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2021-02-10&g=2021-02-10) past voor de berekening van de aangepaste solvabiliteit een van de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&bijlage=A&z=2021-02-10&g=2021-02-10) bij dit besluit opgenomen berekeningsmethoden toe. Hij betrekt bij die berekening iedere rechtstreeks of middellijk met hem verbonden verzekeraar.
 
@@ -120,7 +146,7 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 3. De Nederlandsche Bank neemt slechts een besluit als bedoeld in het tweede lid, indien de vermogensbestanddelen die in aanmerking komen voor de berekening van het eigen vermogen van de bij de berekening betrokken verzekeraars adequaat over de in dat lid bedoelde ondernemingen verdeeld zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een verzekeraar als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=3&afdeling=3.2&artikel=6&z=2021-02-10&g=2021-02-10) gebruikt de vermogensbestanddelen die in aanmerking worden genomen bij de berekening van het eigen vermogen niet meerdere malen voor de verschillende verzekeraars die bij de berekening betrokken zijn.
 
@@ -128,65 +154,65 @@ Dit hoofdstuk is uitsluitend van toepassing op verzekeraars met zetel in Nederla
 
 3. De verzekeraar betrekt bij de berekening van de aangepaste solvabiliteit geen vermogensbestanddelen die afkomstig zijn van de wederzijdse financiering tussen hem en andere rechtstreeks of middellijk met hem verbonden ondernemingen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening van de aangepaste solvabiliteit.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
 #### § 2. Toepassing van de berekeningsmethoden
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 3. Berekeningsmethoden
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Afdeling 3.2. Aanvullend toezicht op herverzekeraars, levensverzekeraars en schadeverzekeraars die dochteronderneming zijn van een verzekeringsholding, een niet-Europese herverzekeraar, levensverzekeraar of schadeverzekeraar
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
@@ -196,7 +222,7 @@ Vervallen
 
 ### Afdeling 4.1. Aanvullende kapitaaltoereikendheid
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) berekent de aanvullende kapitaaltoereikendheid van het financieel conglomeraat in overeenstemming met de ingevolge dit hoofdstuk voorgeschreven regels.
 
@@ -206,7 +232,7 @@ Vervallen
 
 4. Onverminderd het tweede lid kan de Nederlandsche Bank, indien zij coördinator is, na overleg met de andere relevante toezichthoudende instanties en het financieel conglomeraat, besluiten welke van die methoden de onderneming voor de berekening toepast.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Een onderneming als bedoeld in [artikel 3:296, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) verstrekt de in het [vierde lid van dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:296) bedoelde berekening eenmaal per jaar. De Nederlandsche Bank kan, indien ontwikkelingen in de aanvullende kapitaaltoereikendheid daar aanleiding toe geven, besluiten dat die onderneming de berekening met een hogere frequentie verstrekt.
 
@@ -214,7 +240,7 @@ Vervallen
 
 3. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over de aanvullende kapitaaltoereikendheid en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ongeacht welke van de in [artikel 23, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2021-02-10&g=2021-02-10), bedoelde methoden wordt toegepast, betrekt de onderneming, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.1&artikel=23&z=2021-02-10&g=2021-02-10), het totale solvabiliteitstekort van een dochteronderneming bij de berekening, indien het groepslid een dochteronderneming is en zij een solvabiliteitstekort of, indien het groepslid een niet-gereglementeerde entiteit uit de financiële marktsector is, een theoretisch solvabiliteitstekort heeft.
 
@@ -236,7 +262,7 @@ Vervallen
 
 ### Afdeling 4.2. Risicoconcentratie, intragroepsovereenkomsten en -posities en risicobeheer- en internecontroleprocedures
 
-#### Artikel 26
+##### Artikel 26
 
 1. Een onderneming als bedoeld in [artikel 3:297, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297) verstrekt de in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:297) bedoelde rapportage met betrekking tot de significante risicoconcentraties eenmaal per jaar. De Nederlandsche Bank kan, indien de omstandigheden van een bepaalde onderneming daar aanleiding toe geven, besluiten dat die onderneming rapporteert met een hogere frequentie.
 
@@ -248,7 +274,7 @@ Vervallen
 
 5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over risicoconcentraties en die is opgesteld met gebruikmaking van de procedures, bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
 
-#### Artikel 27
+##### Artikel 27
 
 1. Een onderneming als bedoeld in [artikel 3:298, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:298) verstrekt de in dat artikel bedoelde rapportage over significante intragroepsovereenkomsten en -posities eenmaal per jaar. De Nederlandsche Bank kan, indien de omstandigheden van een bepaalde onderneming daar aanleiding toe geven, besluiten dat die onderneming rapporteert met een hogere frequentie.
 
@@ -260,17 +286,17 @@ Vervallen
 
 5. De in het eerste lid bedoelde onderneming verstrekt bovendien eenmaal per jaar op een na overleg met de Nederlandsche Bank door de onderneming te bepalen tijdstip de informatie die aan het groepsbestuur van het financiële conglomeraat wordt verstrekt over intragroepsovereenkomsten en -posities en die is opgesteld met gebruikmaking van de procedures bedoeld in [artikel 28, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=4&afdeling=4.2&artikel=28&z=2021-02-10&g=2021-02-10).
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit prudentieel toezicht financiële groepen Wft.
 
@@ -334,7 +360,7 @@ De kapitaaltoereikendheid wordt berekend als het verschil tussen:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Een onderneming als bedoeld in [artikel 3:269a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:269a), beschikt over:
 
@@ -414,13 +440,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Afdeling 2a.2. Financiële positie
 
-#### Artikel 4d
+##### Artikel 4d
 
 De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden die aanleiding geven tot het opleggen van een kapitaalopslag op het geconsolideerde solvabiliteitskapitaalvereiste als bedoeld in [artikel 3:288b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:288b), aan de hand van artikel 232 van de richtlijn solvabiliteit II, met inachtneming van titel I, hoofdstuk X, afdeling 1, van de verordening solvabiliteit II, en bepaalt de hoogte van de op te leggen kapitaalopslag aan de hand van artikel 37, tweede lid, van de richtlijn, met inachtneming van titel I, hoofdstuk X, afdeling 2, van de verordening.
 
 ### Afdeling 2a.4. Groepen met gecentraliseerd risicobeheer
 
-#### Artikel 4e
+##### Artikel 4e
 
 1. De artikelen 238 en 239 van de richtlijn solvabiliteit II inzake de berekening van het solvabiliteitskapitaalvereiste onderscheidenlijk de niet-naleving van dat vereiste zijn van toepassing op elke Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar die de dochteronderneming is van een andere verzekeraar indien is voldaan aan de voorwaarden, bedoeld in artikel 236, onderdelen a tot en met d, van genoemde richtlijn en de moederonderneming een aanvraag tot toepassing van de artikelen 238 en 239 van de richtlijn heeft gedaan en deze aanvraag is ingewilligd overeenkomstig de procedure van artikel 237 van die richtlijn.
 
@@ -430,7 +456,7 @@ De Nederlandsche Bank beoordeelt of sprake is van uitzonderlijke omstandigheden 
 
 ### Afdeling 2a.5. Rapportages
 
-#### Artikel 4f
+##### Artikel 4f
 
 1. Een verzekeraar of holding als bedoeld in [artikel 4b](https://wetten.overheid.nl/jci1.3:c:BWBR0020415&hoofdstuk=2a&afdeling=2a.2&artikel=4b&z=2021-02-10&g=2021-02-10) die deel uitmaakt van een verzekeringsrichtlijngroep waarvoor de Nederlandsche Bank als groepstoezichthouder is aangewezen, dient bij de Nederlandsche Bank binnen de ingevolge artikel 373, onderscheidenlijk artikel 375, tweede lid, van de verordening solvabiliteit II voorgeschreven termijnen toezichtrapportages in met de volgende informatie:
 
@@ -492,7 +518,7 @@ Bij de berekening van de kapitaaltoereikendheidsvereisten voor een financieel co
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4ca
+##### Artikel 4ca
 
 1. Indien het solvabiliteitskapitaalvereiste van een Nederlandse herverzekeraar, levensverzekeraar of schadeverzekeraar, die dochteronderneming is van een Nederlandse of Europese herverzekeraar, levensverzekeraar of schadeverzekeraar, wordt berekend op basis van een overeenkomstig artikel 231 van de richtlijn solvabiliteit II op groepsniveau goedgekeurd intern model, en de Nederlandsche Bank van oordeel is dat de omstandigheden, bedoeld artikel 238, tweede lid, van die richtlijn zich voordoen, kan zij in de in artikel 37 van de richtlijn bedoelde gevallen een kapitaalopslag toepassen.
 
@@ -538,7 +564,7 @@ Methode waarbij de kapitaaltoereikendheid van de gereglementeerde entiteiten in 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4.01
+##### Artikel 4.01
 
 1. De gegevens, bedoeld in [artikel 3:280b, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280b) zijn:
 
@@ -600,7 +626,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 9. De Nederlandsche Bank kan in aanvulling op de gegevens, bedoeld in het eerste lid, andere gegevens van de holding, bedoeld in [artikel 3:280a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280a), verlangen indien die gegevens nodig zijn voor de beoordeling van de aanvraag om goedkeuring, bedoeld in [artikel 3:280b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280b).
 
-#### Artikel 4.02
+##### Artikel 4.02
 
 1. De gegevens, bedoeld in [artikel 3:280c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:280c) zijn:
 

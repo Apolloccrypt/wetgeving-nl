@@ -1,14 +1,42 @@
 ---
-title: "Wet bescherming klokkenluiders"
+title: "Wet van 14 april 2016, houdende de oprichting van een Huis voor klokkenluiders (Wet Huis voor klokkenluiders)"
 identifier: "BWBR0037852"
-categorie: "Overig"
-publicatiedatum: 2023-02-18
-laatste_update: 2023-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037852"
+country: "nl"
+rank: "wet"
+publication_date: "2023-02-18"
+last_updated: "2023-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037852"
+soort: "wet"
+stam_id: "13478553"
+version_id: "29231712"
+internal_id: "C41529811"
+label_id: "13445814"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037852/2023-02-18/0"
+intitule_bron: "Stb.2016-147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-14"
+intitule_published: "2016-04-22"
+intitule_in_force: "2016-05-27"
+intitule_status: "goed"
+original_publication: "Stb.2023-29"
+original_signed_date: "2023-01-25"
+original_published_date: "2023-02-03"
+original_effect: "structuurwijziging"
+original_dossier: "35851"
+original_url_id: "stb-2023-29"
+entry_into_force_date: "2023-01-25"
+entry_into_force_dossier: "35851"
+jci_1_3: "jci1.3:c:BWBR0037852&z=2023-02-18&g=2023-02-18"
+jci_1_0: "1.0:c:BWBR0037852&g=2023-02-18"
+citeertitel_status: "officieel"
+short_title: "Wet bescherming klokkenluiders"
+signed_date: "2023-01-25"
+entry_into_force: "2023-01-25"
 ---
-
-# Wet bescherming klokkenluiders
+# Wet van 14 april 2016, houdende de oprichting van een Huis voor klokkenluiders (Wet Huis voor klokkenluiders)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -86,7 +114,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1a. Geheimhouding en gegevensbescherming
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgever bij wie in de regel ten minste vijftig werknemers werkzaam zijn, stelt voor hen een procedure vast voor het melden van een vermoeden van een misstand binnen zijn organisatie.
 
@@ -142,7 +170,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Instelling en taak
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een Huis voor klokkenluiders.
 
@@ -152,7 +180,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. [Artikel 23 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=23) vindt slechts toepassing ten aanzien van het door het Huis gevoerde financiële beheer en de administratieve organisatie.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Het Huis kent een afdeling advies en een afdeling onderzoek.
 
@@ -184,7 +212,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Onverminderd het tweede en derde lid, heeft het Huis tot taak kennis te bevorderen met het oog op een organisatiecultuur waarin meldingen van vermoedens van misstanden in een werkgerelateerde context op een zorgvuldige en doelmatige wijze worden behandeld.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Het bestuur van het Huis bestaat uit een voorzitter en ten hoogste vier leden.
 
@@ -194,7 +222,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De voorzitter is verantwoordelijk voor het goed functioneren van het Huis.
 
-#### Artikel 3c
+##### Artikel 3c
 
 1. De leden en de voorzitter van het Huis worden bij koninklijk besluit benoemd. Zij worden op eigen aanvraag door Onze Minister ontslagen. Zij kunnen voorts bij koninklijk besluit worden geschorst en ontslagen wegens ongeschiktheid of onbekwaamheid dan wel wegens andere zwaarwegende in de persoon van de betrokkene gelegen redenen. De voordracht voor schorsing of ontslag wordt niet gedaan dan nadat het Huis daarover is gehoord.
 
@@ -204,7 +232,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. De voorzitter en de leden vervullen geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn functie of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
 
-#### Artikel 3d
+##### Artikel 3d
 
 1. Het bestuur van het Huis wordt ondersteund door een bureau.
 
@@ -216,13 +244,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Een medewerker die als adviseur betrokken is geweest bij de advisering inzake een vermoeden van een misstand neemt geen deel aan een onderzoek dezelfde misstand betreffende.
 
-#### Artikel 3e
+##### Artikel 3e
 
 De medewerkers van het bureau zijn geen lid van het Huis.
 
 #### § 1. Bevoegde autoriteiten
 
-#### Artikel 3f
+##### Artikel 3f
 
 1. De leden van het Huis hebben zitting zonder last.
 
@@ -236,7 +264,7 @@ De medewerkers van het bureau zijn geen lid van het Huis.
 
 - d. anderszins de schijn van belangenverstrengeling kan ontstaan.
 
-#### Artikel 3g
+##### Artikel 3g
 
 1. Een medewerker van het bureau meldt onverwijld aan de voorzitter van het Huis dat het advies of onderzoek, bedoeld in [artikel 3a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-02-18&g=2023-02-18),
 
@@ -250,21 +278,21 @@ De medewerkers van het bureau zijn geen lid van het Huis.
 
 2. De voorzitter beslist of de medewerker zich om deze reden van deelneming aan het advies of onderzoek onthoudt.
 
-#### Artikel 3h
+##### Artikel 3h
 
 Het Huis stelt een bestuursreglement, een advies- en een onderzoeksprotocol vast en maakt deze openbaar.
 
-#### Artikel 3i
+##### Artikel 3i
 
 [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=1a&artikel=1a&z=2023-02-18&g=2023-02-18) is van overeenkomstige toepassing op eenieder die betrokken is bij de uitvoering van de overige taken van het Huis.
 
-#### Artikel 3j
+##### Artikel 3j
 
 Vervallen
 
 #### § 3. Advies
 
-#### Artikel 3k
+##### Artikel 3k
 
 1. Een natuurlijke persoon die in de context van zijn werkgerelateerde activiteiten een melding heeft gedaan of voornemens is een melding te doen, degene die deze persoon bijstaat en een betrokken derde kunnen de afdeling advies verzoeken om informatie en advies inzake het vermoeden van een misstand. De adviesaanvraag is vormvrij.
 
@@ -276,7 +304,7 @@ Vervallen
 
 #### § 4. Het onderzoeken van een vermoeden van een misstand door de afdeling onderzoek
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een melder kan bij de afdeling onderzoek:
 
@@ -290,7 +318,7 @@ Vervallen
 
 - b. een ieder die betrokken is of is geweest bij de uitvoering van de [Wet op de inlichtingen- en veiligheidsdiensten 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) en de [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277), voor zover het de uitvoering van deze wetten betreft.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verzoek als bedoeld in [artikel 4, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=4&z=2023-02-18&g=2023-02-18), wordt overeenkomstig [artikel 2d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2d&z=2023-02-18&g=2023-02-18), door de verzoeker of diens gemachtigde ingediend en wordt ondertekend ingeval het verzoek op schrift is gesteld. Het verzoek bevat ten minste:
 
@@ -304,7 +332,7 @@ Vervallen
 
 2. [Artikel 9:28, tweede en derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:28) is van overeenkomstige toepassing op het verzoek.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onverminderd [artikel 2e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2e&z=2023-02-18&g=2023-02-18), stelt de afdeling onderzoek binnen zes weken na de dagtekening van het verzoek een onderzoek in, tenzij de afdeling onderzoek oordeelt dat:
 
@@ -330,13 +358,13 @@ Vervallen
 
 - b. een nieuw feit of een nieuwe omstandigheid bekend wordt, op grond waarvan de afdeling onderzoek tot het oordeel komt dat het verzoek kennelijk ongegrond is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de afdeling onderzoek geen onderzoek instelt of dit niet voortzet, deelt de afdeling dit onder vermelding van de redenen zo spoedig mogelijk schriftelijk aan de verzoeker mede.
 
 2. In het geval dat de afdeling onderzoek een onderzoek niet voortzet, doet hij de in het eerste lid bedoelde mededeling tevens aan de werkgever.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De afdeling onderzoek streeft ernaar het onderzoek binnen een jaar na afronding van het oordeel, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=6&z=2023-02-18&g=2023-02-18), af te ronden.
 
@@ -346,7 +374,7 @@ Vervallen
 
 #### § 4a. Onderzoek in de publieke sector
 
-#### Artikel 9
+##### Artikel 9
 
 Deze paragraaf is van toepassing op onderzoek door de afdeling onderzoek indien de werkgever onderdeel uitmaakt van de publieke sector. De publieke sector wordt gevormd door:
 
@@ -368,7 +396,7 @@ Deze paragraaf is van toepassing op onderzoek door de afdeling onderzoek indien 
 
 - i. andere dan krachtens publiekrecht ingestelde rechtspersonen, waarvan een orgaan is bekleed met openbaar gezag, waarbij de uitoefening van dat gezag de kernactiviteit van de rechtspersoon vormt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De [artikelen 9:30 tot en met 9:34 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:30) zijn van overeenkomstige toepassing op het onderzoek door de afdeling onderzoek, met dien verstande dat voor «bestuursorgaan» telkens gelezen wordt «werkgever» en voor «de ombudsman» telkens wordt gelezen: de afdeling onderzoek. Indien de werkgever vertegenwoordigd wordt door een meerhoofdig orgaan, wordt onder «college» verstaan: dat meerhoofdige orgaan.
 
@@ -380,15 +408,15 @@ Deze paragraaf is van toepassing op onderzoek door de afdeling onderzoek indien 
 
 #### § 4b. Onderzoek in de private sector
 
-#### Artikel 11
+##### Artikel 11
 
 Deze afdeling is van toepassing op onderzoek door de afdeling onderzoek indien [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4a&artikel=9&z=2023-02-18&g=2023-02-18) niet van toepassing is.
 
-#### Artikel 12
+##### Artikel 12
 
 De afdeling onderzoek maakt van zijn bevoegdheden slechts gebruik voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De afdeling onderzoek is bevoegd inlichtingen te vragen en inzage te vorderen van zakelijke gegevens en bescheiden.
 
@@ -406,13 +434,13 @@ De afdeling onderzoek maakt van zijn bevoegdheden slechts gebruik voor zover dat
 
 8. Indien de afdeling onderzoek heeft beslist dat de weigering gerechtvaardigd is, vervalt de verplichting.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De afdeling onderzoek stelt de werkgever en de verzoeker in de gelegenheid hun standpunt toe te lichten ten aanzien van het vermoeden van een misstand.
 
 2. De afdeling onderzoek beslist of de toelichting schriftelijk of mondeling en al dan niet in elkaars aanwezigheid wordt gegeven.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De afdeling onderzoek kan in het belang van het onderzoek deskundigen werkzaamheden opdragen en personen oproepen om als deskundige gehoord te worden of als tolk op te treden.
 
@@ -420,13 +448,13 @@ De afdeling onderzoek maakt van zijn bevoegdheden slechts gebruik voor zover dat
 
 3. Getuigen zullen niet worden gehoord en tolken zullen niet tot de uitoefening van hun taak worden toegelaten dan na het afleggen van de eed of de belofte. Getuigen leggen in dat geval de eed of de belofte af dat zij de gehele waarheid en niets dan de waarheid zullen zeggen en tolken dat zij hun plichten als tolk met nauwgezetheid zullen vervullen.
 
-#### Artikel 16
+##### Artikel 16
 
 Aan de door de afdeling onderzoek opgeroepen verzoekers, getuigen, deskundigen en tolken wordt een vergoeding toegekend die ten laste van het Rijk komt. Het bij en krachtens de [Wet tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002406) bepaalde is van overeenkomstige toepassing.
 
 #### § 5. Rapport
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer een onderzoek is afgesloten, stelt de afdeling onderzoek een rapport op, waarin hij zijn bevindingen en zijn oordeel weergeeft. Hij neemt daarbij [artikel 5.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=5.1) in acht.
 
@@ -452,7 +480,7 @@ Aan de door de afdeling onderzoek opgeroepen verzoekers, getuigen, deskundigen e
 
 #### § 3. Advies
 
-#### Artikel 17a
+##### Artikel 17a
 
 1. Ter bevordering van de coördinatie en het overleg maken het Huis en het College van procureurs-generaal binnen een half jaar na de inwerkingtreding van de wet, afspraken over de samenwerking en informatie-uitwisseling. Het betreft in ieder geval afspraken over de gevallen waarin zowel de afdeling onderzoek een onderzoek instelt naar een vermoeden van een misstand als het openbaar ministerie een opsporingsonderzoek instelt naar een strafbaar feit ten aanzien van hetzelfde voorval. De afspraken behoeven de goedkeuring van Onze Minister van Veiligheid en Justitie.
 
@@ -460,7 +488,7 @@ Aan de door de afdeling onderzoek opgeroepen verzoekers, getuigen, deskundigen e
 
 3. Indien in een concreet geval zowel de afdeling onderzoek een onderzoek instelt naar een vermoeden van een misstand als het openbaar ministerie opsporingsonderzoek instelt naar een strafbaar feit, plegen de afdeling onderzoek en het openbaar ministerie, met inachtneming van het samenwerkingsprotocol, overleg over de inrichting van beide onderzoeken.
 
-#### Artikel 17b
+##### Artikel 17b
 
 1. Ter bevordering van coördinatie en overleg kan het Huis samenwerkingsprotocollen afsluiten met bevoegde autoriteiten en andere bestuursorganen of diensten die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens enig wettelijk voorschrift. [Artikel 17a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=6&artikel=17a&z=2023-02-18&g=2023-02-18), is van overeenkomstige toepassing.
 
@@ -468,81 +496,81 @@ Aan de door de afdeling onderzoek opgeroepen verzoekers, getuigen, deskundigen e
 
 #### § 7. Vervolg op aanbevelingen
 
-#### Artikel 17c
+##### Artikel 17c
 
 Het Huis zendt jaarlijks aan beide kamers der Staten-Generaal een overzicht van de aanbevelingen van het Huis en van de wijze waarop aan de aanbevelingen vervolg is gegeven.
 
-#### Artikel 17d
+##### Artikel 17d
 
 De afdeling onderzoek is bevoegd een onderzoek in te stellen naar de stand van zaken met betrekking tot de uitvoering van aanbevelingen die in eerder onderzoek zijn gedaan.
 
 ### Hoofdstuk 3. Wijziging van andere wetten
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Wijzigt de Ambtenarenwet.
 
-#### Artikel 18b
+##### Artikel 18b
 
 Wijzigt de Politiewet 2012.
 
-#### Artikel 18c
+##### Artikel 18c
 
 Wijzigt de Militaire ambtenarenwet 1931.
 
-#### Artikel 18d
+##### Artikel 18d
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel 18e
+##### Artikel 18e
 
 Vervallen
 
-#### Artikel 18f
+##### Artikel 18f
 
 Vervallen
 
-#### Artikel 18g
+##### Artikel 18g
 
 Wijzigt de Wet open overheid (kst. 33328).
 
-#### Artikel 18h
+##### Artikel 18h
 
 Wijzigt deze wet.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Onze Minister zendt binnen drie jaar na het tijdstip van inwerkingtreding van de Wet tot wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van [Richtlijn (EU) 2019/1937](32019L1937) van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen, en vervolgens elke drie jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 2. Het Huis en bevoegde autoriteiten en werkgevers als bedoeld in deze wet verlenen medewerking aan het verslag, bedoeld in het eerste lid, en verschaffen Onze Minister de daartoe benodigde informatie.
 
-#### Artikel 21
+##### Artikel 21
 
 De afdeling onderzoek is niet verplicht een onderzoek in te stellen indien de verzoeker meer dan een jaar voor het tijdstip van inwerkingtreding van deze wet een melding van een vermoeden van een misstand heeft gedaan bij de werkgever of de daartoe bevoegde instantie.
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de inrichting van het Huis.
 
 2. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overlegd.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet bescherming klokkenluiders.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Een ieder die betrokken is bij een melding of het onderzoek naar een vermoeden van een misstand en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij de uitvoering van deze wet de noodzaak tot mededeling voortvloeit.
 
@@ -560,11 +588,11 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 6. Een bevoegde autoriteit die informatie over bedrijfsgeheimen ontvangt, gebruikt of maakt die informatie alleen bekend voor zover dat noodzakelijk is voor een gedegen opvolging van de melding.
 
-#### Artikel 1b
+##### Artikel 1b
 
 [Artikel 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=1a&artikel=1a&z=2023-02-18&g=2023-02-18) en [paragraaf 2 van hoofdstuk 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&z=2023-02-18&g=2023-02-18) zijn niet van toepassing voor zover voor de in deel II van de bijlage bij de richtlijn vermelde sectorspecifieke handelingen specifieke regels voor een melding van een schending van het Unierecht gelden.
 
-#### Artikel 1c
+##### Artikel 1c
 
 1. Gelet op artikel 9, tweede lid, onderdeel g, van de Algemene verordening gegevensbescherming, is het verbod om bijzondere categorieën van persoonsgegevens als bedoeld in [paragraaf 3.1 van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1) te verwerken niet van toepassing indien de verwerking geschiedt door het Huis en de verwerking noodzakelijk is voor de uitvoering van de taken, bedoeld in [artikel 3a, tweede lid, onderdelen a tot en met c, en derde lid, onderdelen a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=1&artikel=3a&z=2023-02-18&g=2023-02-18), en [artikel 17b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=6&artikel=17b&z=2023-02-18&g=2023-02-18), onder voorwaarde dat bij die uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.
 
@@ -572,7 +600,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 2. Interne procedure
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Een werkgever als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2023-02-18&g=2023-02-18) registreert een melding bij de ontvangst ervan in een daarvoor ingericht register.
 
@@ -580,7 +608,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan het register, bedoeld in het eerste lid, en de gegevens die daarin worden opgenomen.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Indien voor een melding een telefoonlijn of een ander spraakberichtsysteem wordt gebruikt of een melder een melding doet in een gesprek op een afgesproken locatie, registreert de werkgever de melding door:
 
@@ -592,13 +620,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De melder krijgt de gelegenheid om de schriftelijke weergave van een gesprek, bedoeld in het eerste lid, onderdeel b, te controleren, te corrigeren en voor akkoord te tekenen.
 
-#### Artikel 2ba
+##### Artikel 2ba
 
 De [artikelen 2 tot en met 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2023-02-18&g=2023-02-18) zijn van overeenkomstige toepassing op het melden van een vermoeden van een misstand binnen het Huis.
 
 ### Hoofdstuk 1a. Externe meldkanalen
 
-#### Artikel 2c
+##### Artikel 2c
 
 Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor zover bevoegd op de in artikel 2 van de richtlijn genoemde gebieden, zijn:
 
@@ -622,7 +650,7 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 #### § 2. Eisen aan meldkanalen
 
-#### Artikel 2d
+##### Artikel 2d
 
 1. Een bevoegde autoriteit richt voor het ontvangen en in behandeling nemen van een melding een meldkanaal in. Het meldkanaal biedt de mogelijkheid om, met het oog op de behandeling van een melding, informatie duurzaam op te slaan overeenkomstig de eisen gesteld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2a&z=2023-02-18&g=2023-02-18) en [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2b&z=2023-02-18&g=2023-02-18), met dien verstande dat voor «werkgever» wordt gelezen «bevoegde autoriteit», en in het register de meldingen van een schending van het Unierecht duidelijk onderscheiden worden.
 
@@ -634,7 +662,7 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 - c. op zijn verzoek binnen een redelijke termijn door middel van een gesprek op een locatie.
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. Een bevoegde autoriteit draagt er zorg voor dat na een melding zorgvuldig wordt beoordeeld of opvolging wordt gegeven aan de melding.
 
@@ -652,7 +680,7 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 5. Ingeval een andere bevoegde autoriteit of instantie, dan wel een orgaan of instantie van de Europese Unie bevoegd is tot verder onderzoek geeft een bevoegde autoriteit de voor dat onderzoek noodzakelijke informatie naar aanleiding van de melding binnen een redelijke termijn door aan die autoriteit of instantie.
 
-#### Artikel 2f
+##### Artikel 2f
 
 1. Een bevoegde autoriteit kan oordelen dat geen opvolging wordt gegeven aan een melding indien:
 
@@ -664,7 +692,7 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 3. Een bevoegde autoriteit kan bij grote aantallen meldingen voorrang geven aan de behandeling van meldingen van ernstige misstanden, dan wel van inbreuken op essentiële bepalingen die binnen het toepassingsgebied van de richtlijn vallen. De melder wordt hiervan in kennis gesteld binnen de termijn, bedoeld in [artikel 2e, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2e&z=2023-02-18&g=2023-02-18).
 
-#### Artikel 2g
+##### Artikel 2g
 
 1. Een bevoegde autoriteit wijst personeelsleden aan die verantwoordelijk zijn voor:
 
@@ -682,7 +710,7 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over de eisen waaraan een opleiding als bedoeld in het tweede lid moet voldoen.
 
-#### Artikel 2h
+##### Artikel 2h
 
 1. Een bevoegde autoriteit zorgt ervoor dat de volgende informatie beschikbaar is:
 
@@ -710,17 +738,17 @@ Autoriteiten die zorgdragen voor de ontvangst en opvolging van een melding, voor
 
 2. De informatie, bedoeld in het eerste lid, wordt in ieder geval beschikbaar gesteld op een afzonderlijke pagina van de website van de bevoegde autoriteit.
 
-#### Artikel 2i
+##### Artikel 2i
 
 Een bevoegde autoriteit evalueert elke drie jaar de procedures voor de ontvangst van en de onderzoeken naar de meldingen.
 
-#### Artikel 2j
+##### Artikel 2j
 
 Deze paragraaf is van overeenkomstige toepassing op een bestuursorgaan, een dienst of andere bevoegde instantie, niet zijnde een bevoegde autoriteit, die op grond van een bij of krachtens de wet of in mandaat toegekende taak of bevoegdheid een melding van een schending van het Unierecht ontvangt.
 
 ### Hoofdstuk 1b. Informatieverplichting instanties die onderzoek doen naar een vermoeden van een misstand
 
-#### Artikel 2k
+##### Artikel 2k
 
 1. Een bestuursorgaan, dienst of instantie, die op grond van een bij of krachtens de wet toegekende taak of bevoegdheid onderzoek doet naar een vermoeden van een misstand, zorgt dat een melder binnen een door het bestuursorgaan, de dienst of instantie bekend gemaakte redelijke termijn wordt geïnformeerd over de beoordeling en voor zover van toepassing de opvolging van zijn melding, tenzij die informatie het onderzoek of een daarmee samenhangende gerechtelijke procedure in gevaar zou kunnen brengen of in strijd is met een wettelijke geheimhoudingsplicht.
 
@@ -734,7 +762,7 @@ Deze paragraaf is van overeenkomstige toepassing op een bestuursorgaan, een dien
 
 #### § 4. Het onderzoeken van een vermoeden van een misstand door de afdeling onderzoek
 
-#### Artikel 4a
+##### Artikel 4a
 
 De [artikelen 5 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=5&z=2023-02-18&g=2023-02-18) zijn van overeenkomstige toepassing op een verzoek als bedoeld in [artikel 4, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=4&z=2023-02-18&g=2023-02-18), met dien verstande dat in die artikelen voor «het vermoeden van een misstand» dan wel «de misstand» telkens wordt gelezen «de gedraging van de werkgever», en de [artikelen 2d](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2d&z=2023-02-18&g=2023-02-18), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2e&z=2023-02-18&g=2023-02-18) en [artikel 5, eerste lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=4&artikel=5&z=2023-02-18&g=2023-02-18), voor zover het de indiening van het verzoek door een vertrouwenspersoon of een advocaat betreft, niet van toepassing zijn.
 
@@ -750,7 +778,7 @@ De [artikelen 5 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&h
 
 ### Hoofdstuk 2a. Beschermingsmaatregelen tegen benadeling
 
-#### Artikel 17da
+##### Artikel 17da
 
 1. In dit hoofdstuk wordt in ieder geval onder benadeling verstaan:
 
@@ -780,11 +808,11 @@ De [artikelen 5 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&h
 
 2. Onder benadeling wordt tevens verstaan een dreiging met en een poging tot benadeling.
 
-#### Artikel 17e
+##### Artikel 17e
 
 Een melder mag tijdens en na de behandeling van een melding van een vermoeden van een misstand niet worden benadeeld, onder de voorwaarde dat bij de melding aan de werkgever, een bevoegde autoriteit of een bestuursorgaan, dienst of andere bevoegde instantie als bedoeld in [artikel 2j](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2j&z=2023-02-18&g=2023-02-18), de melder redelijke gronden heeft om aan te nemen dat de gemelde informatie over het vermoeden van een misstand op het moment van de melding juist is.
 
-#### Artikel 17ea
+##### Artikel 17ea
 
 1. Een melder mag tijdens en na openbaarmaking van een vermoeden van een misstand niet worden benadeeld, onder de voorwaarde dat:
 
@@ -806,15 +834,15 @@ Een melder mag tijdens en na de behandeling van een melding van een vermoeden va
 
 - c. het niet waarschijnlijk is dat de misstand doeltreffend wordt verholpen.
 
-#### Artikel 17eb
+##### Artikel 17eb
 
 Bij benadeling van een melder tijdens en na de behandeling van een melding bij de werkgever, een bevoegde autoriteit of een bestuursorgaan, dienst of andere bevoegde instantie als bedoeld in [artikel 2j](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2j&z=2023-02-18&g=2023-02-18), dan wel na openbaarmaking van een vermoeden van een misstand, wordt vermoed dat de benadeling het gevolg is van de melding dan wel de openbaarmaking.
 
-#### Artikel 17ec
+##### Artikel 17ec
 
 De [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17e&z=2023-02-18&g=2023-02-18), [17ea](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17ea&z=2023-02-18&g=2023-02-18) en [17eb](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17eb&z=2023-02-18&g=2023-02-18) zijn van overeenkomstige toepassing op degene die een melder bijstaat, een betrokken derde en een functionaris, bedoeld in [artikel 2, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2023-02-18&g=2023-02-18).
 
-#### Artikel 17f
+##### Artikel 17f
 
 1. Onverminderd het bij of krachtens de wet bepaalde met betrekking tot de bescherming van de nationale veiligheid, het beroepsgeheim van advocaten, het medisch beroepsgeheim, de geheimhouding van rechterlijke beraadslagingen en het strafprocesrecht, is een melder ingeval van een melding of openbaarmaking van een vermoeden van een misstand niet aansprakelijk voor een inbreuk op enige beperking van de openbaarmaking van informatie, indien:
 
@@ -830,11 +858,11 @@ De [artikelen 17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&
 
 5. Het eerste tot en met vierde lid is van overeenkomstige toepassing op degene die een melder bijstaat en een betrokken derde.
 
-#### Artikel 17g
+##### Artikel 17g
 
 Een bevoegde autoriteit en een bestuursorgaan, dienst of een bevoegde instantie als bedoeld in [artikel 2j](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2j&z=2023-02-18&g=2023-02-18) verstrekt aan een melder de bewijsstukken en documenten om in een procedure waarbij rechtsbescherming wordt gezocht te kunnen aantonen dat een melding van een vermoeden van een misstand is gedaan.
 
-#### Artikel 17h
+##### Artikel 17h
 
 1. Elk beding is nietig voor zover dat het recht beperkt of ontneemt om met inachtneming van het bepaalde in deze wet een vermoeden van een misstand te melden of openbaar te maken.
 
@@ -844,7 +872,7 @@ Een bevoegde autoriteit en een bestuursorgaan, dienst of een bevoegde instantie 
 
 - b. op bedingen die overeengekomen zijn voorafgaand aan het tijdstip van inwerkingtreding van dit artikel.
 
-#### Artikel 17i
+##### Artikel 17i
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -852,7 +880,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 21b
+##### Artikel 21b
 
 1. De [artikelen 1a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=1a&artikel=1a&z=2023-02-18&g=2023-02-18), [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2a&z=2023-02-18&g=2023-02-18), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2b&z=2023-02-18&g=2023-02-18), [2d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2d&z=2023-02-18&g=2023-02-18), [2e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2e&z=2023-02-18&g=2023-02-18), [2f](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2f&z=2023-02-18&g=2023-02-18), [2j](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1a&paragraaf=2&artikel=2j&z=2023-02-18&g=2023-02-18), [2k](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1b&artikel=2k&z=2023-02-18&g=2023-02-18), 5a, [17b](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2&paragraaf=6&artikel=17b&z=2023-02-18&g=2023-02-18), [17e](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17e&z=2023-02-18&g=2023-02-18), [17ea](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17ea&z=2023-02-18&g=2023-02-18), [17eb](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17eb&z=2023-02-18&g=2023-02-18), [17ec](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17ec&z=2023-02-18&g=2023-02-18), [17f](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17f&z=2023-02-18&g=2023-02-18) en [17g](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=2a&artikel=17g&z=2023-02-18&g=2023-02-18) zijn niet van toepassing op:
 
@@ -866,7 +894,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 - b. een melding, niet zijnde een melding als bedoeld in onderdeel a, die is gedaan voor de inwerkingtreding van de wet van 25 januari 2023 tot wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van [Richtlijn (EU) 2019/1937](32019L1937) van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen.
 
-#### Artikel 21c
+##### Artikel 21c
 
 1. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037852&hoofdstuk=1&paragraaf=2&artikel=2&z=2023-02-18&g=2023-02-18) zoals dat luidde op de dag voor inwerkingtreding van de wet van 25 januari 2023 tot wijziging van de Wet Huis voor klokkenluiders en enige andere wetten ter implementatie van [Richtlijn (EU) 2019/1937](32019L1937) van het Europees Parlement en de Raad van 23 oktober 2019 (PbEU 2019, L 305) en enige andere wijzigingen, blijft tot 17 december 2023 van toepassing op werkgevers in de private sector met 50 tot 249 werknemers.
 

@@ -1,13 +1,39 @@
 ---
-title: "Gebiedsindelingscode gas"
+title: "Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202167, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12b van de Gaswet (Gebiedsindelingscode gas)"
 identifier: "BWBR0037927"
-categorie: "Overig"
-publicatiedatum: 2023-12-13
-laatste_update: 2023-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037927"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-13"
+last_updated: "2023-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037927"
+soort: "zbo"
+stam_id: "13502873"
+version_id: "25709492"
+internal_id: "C36673881"
+label_id: "13470004"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037927/2023-12-13/0"
+intitule_bron: "Stcrt.2016-21523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-21"
+intitule_published: "2016-05-11"
+intitule_in_force: "2016-05-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-10007"
+original_signed_date: "2019-02-12"
+original_published_date: "2019-02-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-10007"
+entry_into_force_date: "2019-02-23"
+jci_1_3: "jci1.3:c:BWBR0037927&z=2023-12-13&g=2023-12-13"
+jci_1_0: "1.0:c:BWBR0037927&g=2023-12-13"
+citeertitel_status: "officieel"
+short_title: "Gebiedsindelingscode gas"
+signed_date: "2019-02-12"
+entry_into_force: "2019-02-23"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 21 april 2016, kenmerk ACM/DE/2016/202167, houdende de vaststelling van de voorwaarden als bedoeld in artikel 12b van de Gaswet (Gebiedsindelingscode gas)
 
 Gelet op artikel [12f, eerste lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12f);
@@ -18,19 +44,19 @@ Besluit:
 
 #### 1.1. Werkingssfeer en definities
 
-#### 1.1.1
+##### 1.1.1
 
 Deze code bevat de gebiedsindeling van de netbeheerders, zoals bedoeld in [artikel 12b, eerste lid, onderdeel f, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b).
 
-#### 1.1.2
+##### 1.1.2
 
 Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 31 december van voorgaand jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
 
-#### 1.1.3
+##### 1.1.3
 
 [Vervallen]
 
-#### 1.1.4
+##### 1.1.4
 
 De in deze code gebruikte begrippen die ook in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) worden gebruikt, hebben de betekenis die daaraan in de Gaswet is toegekend. Van de overige in deze code gebruikte begrippen is de betekenis vastgelegd in de [Begrippencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037923).
 
@@ -38,13 +64,13 @@ De in deze code gebruikte begrippen die ook in de [Gaswet](https://wetten.overhe
 
 #### 2.1. De netbeheerder van het landelijk gastransportnet
 
-#### 2.1.1
+##### 2.1.1
 
 Het landelijk gastransportnet wordt beheerd door: Gasunie Transport Services B.V. (GTS), gevestigd te Groningen.
 
 #### 2.2. De gebiedsaanduiding van het landelijk gastransportnet
 
-#### 2.2.1
+##### 2.2.1
 
 Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=2&paragraaf=2.1&artikel=2.1.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitpunten zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
 
@@ -52,7 +78,7 @@ Het gebied van de in [2.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoo
 
 #### 3.1. De netbeheerders van de regionale gastransportnetten
 
-#### 3.1.1
+##### 3.1.1
 
 De regionale gastransportnetten worden beheerd door de volgende netbeheerders:
 
@@ -72,7 +98,7 @@ De regionale gastransportnetten worden beheerd door de volgende netbeheerders:
 
 #### 3.2. De gebiedsaanduidingen van de regionale gastransportnetten
 
-#### 3.2.1
+##### 3.2.1
 
 De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=3&paragraaf=3.1&artikel=3.1.1&z=2017-11-16&g=2017-11-16) genoemde netbeheerders kunnen worden aangeduid met in de onderstaande tabel genoemde grenzen:
 
@@ -88,11 +114,11 @@ De gebieden van de in [3.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&ho
 
 ### 4. Het recht op aansluiting op een regionaal gastransportnet
 
-#### 4.1
+##### 4.1
 
 Binnen de gebieden, zoals genoemd in 3.2.1, heeft een potentiële aangeslotene recht op een aansluiting, zoals bedoeld in [artikel 10, zesde lid, onderdeel a, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10) of een aansluitpunt, zoals bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
 
-#### 4.2
+##### 4.2
 
 In afwijking van 4.1 heeft een kleinverbruiker geen recht op een aansluiting indien de aan te sluiten gasinstallatie(s) zich bevind(t)(en) in een gebied:
 
@@ -106,15 +132,15 @@ In afwijking van 4.1 heeft een kleinverbruiker geen recht op een aansluiting ind
 
 - b. buiten de bebouwde kom, indien de equivalente netlengte van het nieuw aan te leggen gastransportnet groter is dan de acceptabele netlengte daarvan, waarbij onder ‘bebouwde kom’ wordt verstaan de door de gemeenteraad vastgestelde bebouwde kom op basis van de [Wegenverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0006622).
 
-#### 4.3
+##### 4.3
 
 De acceptabele netlengte van het nieuw aan te leggen net, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-11-16&g=2017-11-16), wordt bepaald door voor alle potentiële aansluitingen de rekencapaciteit zoals bedoeld in [2.3.6.1 van de Tarievencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037948&artikel=2.3.6.1) op te tellen en te vermenigvuldigen met 15. Daarbij wordt het gebied ter bepaling van ‘alle potentiële aangeslotenen’ door de netbeheerder zo gekozen dat dit leidt tot de voor de aangeslotene meest gunstige uitkomst.
 
-#### 4.4
+##### 4.4
 
 De equivalente netlengte, zoals bedoeld in [4.2, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.2&z=2017-11-16&g=2017-11-16), wordt bepaald door de kortst mogelijke route van het bestaande net tot de nieuw te realiseren aansluitingen, gemeten langs bestaande of geplande wegen, exclusief de lengte van de aansluitleidingen, gecorrigeerd voor de aard van het te doorkruisen terrein en zo nodig voor (een) benodigd(e) reduceerstation(s).
 
-#### 4.5
+##### 4.5
 
 De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&hoofdstuk=4&artikel=4.4&z=2017-11-16&g=2017-11-16), vindt voor dat deel van de leidinglengte waarop het van toepassing is, plaats met behulp van onderstaande correctiefactoren:
 
@@ -128,7 +154,7 @@ De correctie voor de aard van het terrein, zoals bedoeld in [4.4](https://wetten
 
 - e. 10 maal het deel van de leidinglengte dat kruising van spoor- of snelweg betreft.
 
-#### 4.6
+##### 4.6
 
 De correctie voor een eventueel benodigd reduceerstation vindt als volgt plaats:
 
@@ -138,15 +164,15 @@ De correctie voor een eventueel benodigd reduceerstation vindt als volgt plaats:
 
 ### 5. Slotbepalingen
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 De Gebiedsindeling Gas, zoals vastgesteld bij besluit van 22 januari 2013 en nadien enkele malen gewijzigd, wordt ingetrokken.
 
-#### 5.2
+##### 5.2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het is geplaatst.
 
-#### 5.3
+##### 5.3
 
 Dit besluit wordt aangehaald als: Gebiedsindelingscode gas.
 
@@ -37528,23 +37554,23 @@ Amerongen
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1. Werkingssfeer en definities
+##### Artikel 1. Werkingssfeer en definities
 
 1. Deze code bevat de gebiedsindeling van de netbeheerders, bedoeld in [artikel 12b, eerste lid, onderdeel f, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=12b).
 
 2. De in deze code gebruikte begrippen die ook in de [Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440) worden gebruikt, hebben de betekenis die daaraan in de Gaswet is toegekend. Van de overige in deze code gebruikte begrippen is de betekenis vastgelegd in de [Begrippencode gas](https://wetten.overheid.nl/jci1.3:c:BWBR0037923).
 
-#### Artikel 2. Wijziging van de Gebiedsindelingscode gas
+##### Artikel 2. Wijziging van de Gebiedsindelingscode gas
 
 Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, uitgaande van de situatie op 1 januari van het desbetreffende jaar, een voorstel tot actualisering van de gebiedsindeling in bij de Autoriteit Consument en Markt.
 
-#### Artikel 3. Het landelijk gastransportnet
+##### Artikel 3. Het landelijk gastransportnet
 
 1. Gasunie Transport Services B.V. beheert het landelijk gastransportnet in Nederland.
 
 2. Het gebied van de in het eerste lid genoemde netbeheerder omvat heel Nederland, doch uitsluitend voor aansluitingen bedoeld in [artikel 10, zesde lid, onderdeel b, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10).
 
-#### Artikel 4. Het regionale gastransportnet
+##### Artikel 4. Het regionale gastransportnet
 
 1. Coteq Netbeheer B.V. beheert het regionale gastransportnet in:
 
@@ -37640,7 +37666,7 @@ Uiterlijk op 1 juli van elk oneven jaar dienen de gezamenlijke netbeheerders, ui
 
 - f. de Zuid-Hollandse gemeente Vlaardingen, uitsluitend in de straat Trekkade.
 
-#### Artikel 5. Het recht op aansluiting op een regionaal gastransportnet
+##### Artikel 5. Het recht op aansluiting op een regionaal gastransportnet
 
 1. Binnen de gebieden genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0037927&artikel=4&z=2023-12-13&g=2023-12-13) heeft een potentiële aangeslotene recht op een aansluiting, als bedoeld in [artikel 10, zesde lid van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=10), op het regionale gastransportnet.
 

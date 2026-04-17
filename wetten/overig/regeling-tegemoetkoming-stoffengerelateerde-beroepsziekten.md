@@ -1,13 +1,39 @@
 ---
-title: "Regeling tegemoetkoming stoffengerelateerde beroepsziekten"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, nr. 2022-0000185147, tot verlening van een tegemoetkoming aan werkenden en voormalig werkenden die lijden aan een beroepsziekte als gevolg van blootstelling aan gevaarlijke stoffen bij het verrichten van arbeid (Regeling tegemoetkoming stoffengerelateerde beroepsziekten)"
 identifier: "BWBR0047535"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047535"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047535"
+soort: "ministeriele-regeling"
+stam_id: "16578413"
+version_id: "29068702"
+internal_id: "C41320411"
+label_id: "16498304"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047535/2026-01-01/0"
+intitule_bron: "Stcrt.2022-31978"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-11-25"
+intitule_published: "2022-11-29"
+intitule_in_force: "2022-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31978"
+original_signed_date: "2022-11-25"
+original_published_date: "2022-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31978"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047535&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0047535&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tegemoetkoming stoffengerelateerde beroepsziekten"
+signed_date: "2022-11-25"
+entry_into_force: "2023-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 25 november 2022, nr. 2022-0000185147, tot verlening van een tegemoetkoming aan werkenden en voormalig werkenden die lijden aan een beroepsziekte als gevolg van blootstelling aan gevaarlijke stoffen bij het verrichten van arbeid (Regeling tegemoetkoming stoffengerelateerde beroepsziekten)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9), en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -66,17 +92,17 @@ BESLUIT:
 
 3. In deze regeling wordt niet als echtgenoot aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie de echtgenoot gehuwd is.
 
-#### Artikel 2. Arbeid aan, op of in een schip of luchtvaartuig
+##### Artikel 2. Arbeid aan, op of in een schip of luchtvaartuig
 
 Arbeid die wordt verricht aan, op of in schepen of luchtvaartuigen die op het moment van de arbeid hun thuishaven hadden in Nederland, wordt ook aangemerkt als in Nederland verrichte arbeid.
 
-#### Artikel 3. Verhouding tot aansprakelijkheid
+##### Artikel 3. Verhouding tot aansprakelijkheid
 
 Een tegemoetkoming uit hoofde van deze regeling houdt geen erkenning van aansprakelijkheid door de Staat der Nederlanden in.
 
 ### Hoofdstuk 2. Het recht op en de hoogte van de tegemoetkoming
 
-#### Artikel 4. Recht op een tegemoetkoming
+##### Artikel 4. Recht op een tegemoetkoming
 
 1. De werkende heeft eenmalig recht op een tegemoetkoming, indien:
 
@@ -106,11 +132,11 @@ Een tegemoetkoming uit hoofde van deze regeling houdt geen erkenning van aanspra
 
 - d. het Reglement eenmalige uitkering silicosevergoeding oud-mijnwerkers. De werkende heeft evenmin recht op een tegemoetkoming indien een aanvraag voor een tegemoetkoming op grond van een van de genoemde regelingen is ingediend en op die aanvraag niet onherroepelijk is beslist.
 
-#### Artikel 5. Recht op tegemoetkoming nabestaanden
+##### Artikel 5. Recht op tegemoetkoming nabestaanden
 
 De nabestaanden hebben, onder dezelfde voorwaarden, in plaats van de werkende recht op een tegemoetkoming indien de werkende is overleden nadat de aanvraag is ingediend door de werkende, doch voordat op de aanvraag is beslist, en de werkende recht op een tegemoetkoming zou hebben gehad.
 
-#### Artikel 6. Hoogte tegemoetkoming. Algemeen
+##### Artikel 6. Hoogte tegemoetkoming. Algemeen
 
 1. De eenmalige tegemoetkoming bedraagt € 27.030.
 
@@ -118,13 +144,13 @@ De nabestaanden hebben, onder dezelfde voorwaarden, in plaats van de werkende re
 
 3. Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betalingen nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in mindering zijn gebracht.
 
-#### Artikel 7. Hoogte tegemoetkoming. Arbeid voor de werkgever of opdrachtgever verricht buiten Nederland
+##### Artikel 7. Hoogte tegemoetkoming. Arbeid voor de werkgever of opdrachtgever verricht buiten Nederland
 
 Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arbeid buiten Nederland een betaling heeft ontvangen van deze werkgever of opdrachtgever in verband met dezelfde ernstige aandoening, wordt bij de vaststelling van het recht op een tegemoetkoming op overeenkomstige wijze gehandeld als bij de toepassing van [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01).
 
 ### Hoofdstuk 3. Het geldend maken van het recht op tegemoetkoming
 
-#### Artikel 8. Aanvraag tegemoetkoming
+##### Artikel 8. Aanvraag tegemoetkoming
 
 1. De aanvraag voor de tegemoetkoming wordt door de werkende bij de SVB ingediend door middel van een door de SVB beschikbaar gesteld aanvraagformulier, dat door de werkende wordt ondertekend.
 
@@ -140,13 +166,13 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 7. Indien de SVB vaststelt dat de werkende één of meer van de gegevens, noodzakelijk voor het vaststellen van het recht op de tegemoetkoming, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), niet heeft verstrekt, stelt de SVB de werkende in de gelegenheid het ontbrekende gegeven of de ontbrekende gegevens alsnog binnen acht weken te verstrekken. Wordt het gegeven of worden de gegevens niet binnen die acht weken verstrekt, dan wordt de aanvraag buiten behandeling gelaten.
 
-#### Artikel 9. Overlijden na aanvraag tegemoetkoming
+##### Artikel 9. Overlijden na aanvraag tegemoetkoming
 
 1. De behandeling van de aanvraag wordt in de situatie dat de werkende is overleden nadat de aanvraag is ingediend door de werkende, doch voordat op de aanvraag is beslist, ten behoeve van de nabestaanden voortgezet, tenzij deze schriftelijk aan de SVB te kennen geven daarop geen prijs te stellen.
 
 2. Indien er meer dan één nabestaande is, dragen de nabestaanden er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van deze regeling, het in ontvangst nemen van de tegemoetkoming daarbij inbegrepen.
 
-#### Artikel 10. Informatieverplichtingen aanvraag tegemoetkoming
+##### Artikel 10. Informatieverplichtingen aanvraag tegemoetkoming
 
 1. De werkende verstrekt de SVB, het ISBG en de door het ISBG aangewezen personen of instellingen bij de indiening van de aanvraag voor een tegemoetkoming in ieder geval de bewijsstukken die noodzakelijk zijn om te beoordelen of de werkende een ernstige aandoening heeft die als beroepsziekte te kwalificeren kan zijn, waaronder in ieder geval een door een bevoegde arts vastgestelde diagnose van de ernstige aandoening.
 
@@ -164,13 +190,13 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 ### Hoofdstuk 4. Betaling en terugvordering
 
-#### Artikel 11. Uitbetaling
+##### Artikel 11. Uitbetaling
 
 1. De SVB betaalt een tegemoetkoming zo spoedig mogelijk uit aan de werkende.
 
 2. Indien [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=3&artikel=9&z=2026-01-01&g=2026-01-01), van toepassing is, betaalt de SVB de tegemoetkoming zo spoedig mogelijk na ontvangst van een volmacht uit aan de nabestaande.
 
-#### Artikel 12. Herziening, intrekking en terugvordering
+##### Artikel 12. Herziening, intrekking en terugvordering
 
 1. De SVB herziet een besluit tot toekenning van een tegemoetkoming of trekt dat in, indien degene aan wie de tegemoetkoming is toegekend of de nabestaande hiervan:
 
@@ -182,17 +208,17 @@ Indien de werkende ook vanwege voor een werkgever of opdrachtgever verrichte arb
 
 3. Indien daarvoor dringende redenen aanwezig zijn, kan de SVB besluiten geheel of gedeeltelijk van herziening, intrekking of terugvordering af te zien.
 
-#### Artikel 13. Indexering van bedragen
+##### Artikel 13. Indexering van bedragen
 
 Het bedrag, genoemd in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=6&z=2026-01-01&g=2026-01-01), wordt jaarlijks herzien op 1 januari. Het bedrag wordt herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
 
 ### Hoofdstuk 5. Uitvoering en financiering
 
-#### Artikel 14. Uitvoeringsorgaan
+##### Artikel 14. Uitvoeringsorgaan
 
 Deze regeling wordt uitgevoerd door de SVB.
 
-#### Artikel 15. Rol ISBG, Bureau Lexces en Deskundigenpanel bij advisering
+##### Artikel 15. Rol ISBG, Bureau Lexces en Deskundigenpanel bij advisering
 
 1. Het ISBG adviseert de SVB over het voldoen van de aanvraag aan de voorwaarden voor het recht op een tegemoetkoming, waaronder inbegrepen het niet nakomen van de verplichtingen op grond van deze regeling en de toepasselijkheid van eventuele beperkingen met betrekking tot het recht op een tegemoetkoming.
 
@@ -202,7 +228,7 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 4. Indien het ISBG zich bij de advisering laat ondersteunen door derden, waarborgt het ISBG in een met de derde te sluiten overeenkomst de voortgang, de kwaliteit en het vertrouwelijke karakter van de ondersteunende werkzaamheden. Het ISBG behoudt de volledige verantwoordelijkheid voor de ondersteunende werkzaamheden die worden verricht door de derde.
 
-#### Artikel 16. Samenwerkingsovereenkomst tussen de SVB en het ISBG en overeenkomst tussen het ISBG en het Bureau Lexces in samenspraak met de SVB
+##### Artikel 16. Samenwerkingsovereenkomst tussen de SVB en het ISBG en overeenkomst tussen het ISBG en het Bureau Lexces in samenspraak met de SVB
 
 1. De SVB en het ISBG stellen een samenwerkingsovereenkomst op betreffende de samenwerking en werkwijze in het kader van de uitvoering van deze regeling, waarin ten minste wordt vastgelegd:
 
@@ -234,13 +260,13 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 - d. hoe uit de overeenkomst voortvloeiende geschillen worden beslecht.
 
-#### Artikel 17. Raming baten en lasten
+##### Artikel 17. Raming baten en lasten
 
 1. Voor de datum, bedoeld in de eerste volzin van [artikel 5.3, eerste lid, van de Regeling SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&artikel=5.3) verstrekt de SVB aan de minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot deze regeling, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.
 
 2. In de opgave van de uitkeringslasten, bedoeld in het eerste lid, wordt rekening gehouden met de posten genoemd in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=19&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 18. Betaling periodiek voorschot aan de SVB
+##### Artikel 18. Betaling periodiek voorschot aan de SVB
 
 1. De uitkeringslasten en uitvoeringskosten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de minister.
 
@@ -252,7 +278,7 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 3. De minister kan, na overleg met de SVB, van de in het tweede lid bedoelde voorschotten afwijken.
 
-#### Artikel 19. Afrekening
+##### Artikel 19. Afrekening
 
 1. In de jaarrekening, bedoeld in [artikel 49 van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen periodieke voorschotten, bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=5&artikel=18&z=2026-01-01&g=2026-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.
 
@@ -266,33 +292,33 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 ### Hoofdstuk 6. Wijziging van diverse regelingen
 
-#### Artikel 20. Wijziging [Regeling Participatiewet, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015738)
+##### Artikel 20. Wijziging [Regeling Participatiewet, IOAW en IOAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0015738)
 
 Wijzigt de Regeling Participatiewet, IOAW en IOAZ.
 
-#### Artikel 21. Wijziging [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006)
+##### Artikel 21. Wijziging [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006)
 
 Wijzigt de Regeling tegemoetkoming asbestslachtoffers 2014.
 
-#### Artikel 22. Wijziging [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
+##### Artikel 22. Wijziging [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
 
 Wijzigt de Regeling tegemoetkoming werknemers met CSE.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 23. Overgangsbepaling [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
+##### Artikel 23. Overgangsbepaling [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193)
 
 [Artikel 4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047535&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), is niet van toepassing op een werkende wiens verzoek om toekenning van een tegemoetkoming op grond van de [Regeling tegemoetkoming werknemers met CSE](https://wetten.overheid.nl/jci1.3:c:BWBR0043193) is afgewezen uitsluitend wegens het niet voldoen aan de verplichting, genoemd in [artikel 3, eerste lid, onderdeel e, van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0043193&artikel=3).
 
-#### Artikel 24. Evaluatie
+##### Artikel 24. Evaluatie
 
 De minister zendt binnen vijf jaar na de inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2023.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming stoffengerelateerde beroepsziekten.
 

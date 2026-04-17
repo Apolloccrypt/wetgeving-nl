@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen"
 identifier: "BWBV0005409"
-categorie: "Milieu"
-publicatiedatum: 1959-11-30
-laatste_update: 1959-11-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005409"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-11-30"
+last_updated: "1959-11-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005409"
+soort: "verdrag"
+stam_id: "10004619513"
+version_id: "10004873872"
+internal_id: "C10007327481"
+label_id: "10004604074"
+dtd_version: "2.0"
+original_entry_into_force: "1959-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005409/1959-11-30/0"
+intitule_bron: "Trb.1952-86"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1952-06-30"
+intitule_in_force: "1959-10-19"
+intitule_status: "goed"
+original_publication: "Trb.1952-86"
+original_published_date: "1952-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1952-86"
+entry_into_force_date: "1959-11-30"
+jci_1_3: "jci1.3:c:BWBV0005409&z=1959-11-30&g=1959-11-30"
+jci_1_0: "1.0:c:BWBV0005409&g=1959-11-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-11-30"
 ---
-
 # Verdrag betreffende de internationale erkenning van rechten op luchtvaartuigen
 
 OVERWEGENDE, dat de Internationale Burgerluchtvaartconferentie, gehouden te Chicago in november en december 1944, heeft aanbevolen, dat op korte termijn een Verdrag betreffende de eigendomsoverdracht van luchtvaartuigen zal worden aangenomen;
@@ -16,7 +38,7 @@ OVERWEGENDE, dat het in het belang van de toekomstige uitbreiding van de interna
 
 ZIJN DE ONDERGETEKENDEN, behoorlijk gemachtigd, in naam van hun onderscheiden Regeringen OVEREENGEKOMEN ALS VOLGT:
 
-#### Artikel I
+##### Artikel I
 
 (1). De Verdragsluitende Staten verbinden zich te erkennen:
 
@@ -36,7 +58,7 @@ De regelmatigheid van de opeenvolgende inschrijvingen in verschillende Verdragsl
 
 (2). Geen bepaling van dit Verdrag belet de Verdragsluitende Staten op grond van hun nationale wet de geldigheid te erkennen van andere rechten op luchtvaartuigen. De Verdragsluitende Staten zullen echter geen recht, hetwelk voorrang heeft boven de rechten, vermeld in lid 1 van dit artikel, toelaten of erkennen.
 
-#### Artikel II
+##### Artikel II
 
 (1). Alle inschrijvingen betreffende een bepaald luchtvaartuig geschieden in hetzelfde register.
 
@@ -44,7 +66,7 @@ De regelmatigheid van de opeenvolgende inschrijvingen in verschillende Verdragsl
 
 (3). Elke Verdragsluitende Staat kan de inschrijving van een recht op een luchtvaartuig weigeren, wanneer dat recht volgens zijn nationale wet niet geldig zou kunnen worden gevestigd.
 
-#### Artikel III
+##### Artikel III
 
 (1). Het adres van de dienst, belast met het houden van het register, wordt aangetekend op het bewijs van inschrijving in het nationaliteitsregister van elk luchtvaartuig.
 
@@ -54,7 +76,7 @@ De regelmatigheid van de opeenvolgende inschrijvingen in verschillende Verdragsl
 
 (4). Redelijke rechten kunnen worden geheven voor alle verrichtingen van de dienst, belast met het houden van het register.
 
-#### Artikel IV
+##### Artikel IV
 
 (1). De Verdragsluitende Staten erkennen, dat de vorderingen inzake:
 
@@ -76,15 +98,15 @@ voorrang hebben boven alle andere rechten en vorderingen op het luchtvaartuig, m
 
 (5). De bepalingen van dit artikel zijn van toepassing niettegenstaande het bepaalde in artikel I, lid 2.
 
-#### Artikel V
+##### Artikel V
 
 De voorrang, verbonden aan de rechten, vermeld in artikel I, lid 1, onder **d**, strekt zich uit tot alle bedragen, tot zekerheid waarvan die rechten strekken. Evenwel zal rente slechts bevoorrecht zijn, voor zover deze vervallen is gedurende de drie jaren voorafgaande aan het begin van de uitwinning en gedurende de loop hiervan.
 
-#### Artikel VI
+##### Artikel VI
 
 In geval van beslag op of executoriale verkoop van een luchtvaartuig of van een recht op een luchtvaartuig zijn de Verdragsluitende Staten niet verplicht ten nadele van hetzij de beslagleggende of executerende schuldeiser, hetzij van de verkrijger, de vestiging of overdracht van een der in artikel I, lid 1, vermelde rechten te erkennen, indien deze vestiging of overdracht tot stand is gebracht door degene, tegen wie de verkoop- of executiemaatregelen zijn gericht en deze hiervan kennis droeg.
 
-#### Artikel VII
+##### Artikel VII
 
 (1). De rechtsgang voorgeschreven voor executoriale verkoop van een luchtvaartuig wordt bepaald door de wet van de Verdragsluitende Staat, waar de verkoop plaats vindt.
 
@@ -110,15 +132,15 @@ Indien in de wet van de Verdragsluitende Staat, waar de executoriale verkoop pla
 
 (6). De volgens de wet van de Verdragsluitende Staat waar de verkoop plaats heeft, wettig in rekening te brengen kosten, die in het gezamenlijk belang der schuldeisers in de loop van de executieprocedure met het oog op de verkoop gemaakt zijn, zullen uit de koopprijs worden betaald vóór alle andere vorderingen, daaronder begrepen degenen, die bevoorrecht zijn ingevolge artikel IV.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De executoriale verkoop van een luchtvaartuig, overeenkomstig de bepalingen van artikel VII, doet de eigendom van het luchtvaartuig overgaan, vrij van alle niet door de verkrijger te zijnen laste genomen rechten.
 
-#### Artikel IX
+##### Artikel IX
 
 Behoudens in het geval van executoriale verkoop overeenkomstig de bepalingen van artikel VII, kan geen overdracht van inschrijving van een luchtvaartuig in het openbaar register of het nationaliteitsregister plaats vinden van het register van een Verdragsluitende Staat naar dat van een andere Verdragsluitende Staat, zonder dat ingeschreven rechten van te voren zijn doorgehaald, of de rechthebbenden in de overdracht hebben toegestemd.
 
-#### Artikel X
+##### Artikel X
 
 (1). Indien overeenkomstig de wet van de Verdragsluitende Staat, in welks nationaliteitsregister een luchtvaartuig is ingeschreven, een der rechten op luchtvaartuigen, vermeld in artikel I, volgens de geldende voorschriften geregistreerd en gevestigd tot zekerheid voor een schuld, zich uitstrekt tot reservedelen, opgeslagen in een of meer nader aangeduide plaatsen, wordt deze uitbreiding door alle Verdragsluitende Staten erkend, voor zover deze reservedelen op voornoemde plaatsen bewaard blijven, mits een geëigende, ter plaatse door middel van aanplakking te verwezenlijken, bekendmaking derden op voldoende wijze van aard en omvang van het recht kennis geeft, waarmede deze reservedelen bezwaard zijn, en het register waar het is ingeschreven zomede naam en adres van de rechthebbende aangeeft.
 
@@ -128,7 +150,7 @@ Behoudens in het geval van executoriale verkoop overeenkomstig de bepalingen van
 
 (4). Voor de toepassing van dit artikel worden onder de uitdrukking reservedelen verstaan onderdelen van luchtvaartuigen, motoren, luchtschroeven, radiotoestellen, instrumenten, uitrusting, inrichting, onderdelen hiervan en meer in het algemeen alle andere voorwerpen van welke aard ook, die worden bewaard om onderdelen van het luchtvaartuig te vervangen.
 
-#### Artikel XI
+##### Artikel XI
 
 (1). De bepalingen van dit Verdrag zijn in elke Verdragsluitende Staat slechts toepasselijk op luchtvaartuigen ingeschreven in het nationaliteitsregister van een andere Verdragsluitende Staat.
 
@@ -138,41 +160,41 @@ Behoudens in het geval van executoriale verkoop overeenkomstig de bepalingen van
 
 - (b). de bepalingen van artikel IV, tenzij de handelingen van berging of behoud zijn geëindigd in hun eigen gebied.
 
-#### Artikel XII
+##### Artikel XII
 
 De bepalingen van dit Verdrag doen in geen enkel opzicht afbreuk aan het recht van de Verdragsluitende Staten om ten aanzien van een luchtvaartuig maatregelen te nemen ter naleving van de nationale wetten, welke betrekking hebben op immigratie, douane of luchtvaart.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Dit verdrag is niet toepasselijk op luchtvaartuigen, gebezigd voor militaire, douane- of politiediensten.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Voor de toepassing van dit Verdrag kunnen de bevoegde rechterlijke en administratieve autoriteiten der Verdragsluitende Staten, tenzij hun nationale wet het tegendeel bepaalt, zich rechtstreeks met elkander in verbinding stellen.
 
-#### Artikel XV
+##### Artikel XV
 
 De Verdragsluitende Staten verbinden zich de noodzakelijke maatregelen te nemen om de uitvoering van de bepalingen van dit Verdrag te verzekeren en die onverwijld ter kennis te brengen van de Secretaris-Generaal van de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel XVI
+##### Artikel XVI
 
 In de zin van dit Verdrag wordt onder het woord „luchtvaartuig” begrepen het casco, de motoren, luchtschroeven, radiotoestellen en alle andere voorwerpen bestemd voor gebruik in of aan het luchtvaartuig, onverschillig of zij daarin of daaraan zijn aangebracht dan wel tijdelijk er van zijn gescheiden.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Indien een afzonderlijk nationaliteitsregister wordt gehouden in een gebied, voor welks buitenlandse betrekkingen een Verdragsluitende Staat verantwoordelijk is, wordt elke verwijzing in dit Verdrag naar de wet van de Verdragsluitende Staat beschouwd als een verwijzing naar de wet van dat gebied.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Dit Verdrag staat open ter ondertekening, totdat het in werking treedt overeenkomstig de bepalingen van artikel XX.
 
-#### Artikel XIX
+##### Artikel XIX
 
 (1). Dit Verdrag zal aan bekrachtiging door de Staten, die het ondertekend hebben, onderworpen zijn.
 
 (2). De akten van bekrachtiging zullen worden nedergelegd in de archieven van de Internationale Burgerluchtvaartorganisatie, die van de datum van de nederlegging kennis zal geven aan elke Staat, die heeft ondertekend of is toegetreden.
 
-#### Artikel XX
+##### Artikel XX
 
 (1). Zodra twee der Staten, die ondertekend hebben, hun akte van bekrachtiging van het Verdrag hebben nedergelegd, zal dit tussen hen in werking treden op de negentigste dag na de nederlegging van de tweede akte van bekrachtiging. Het treedt in werking voor elke Staat, die na deze datum zijn akte van bekrachtiging nederlegt, op de negentigste dag na de nederlegging van die akte.
 
@@ -180,7 +202,7 @@ Dit Verdrag staat open ter ondertekening, totdat het in werking treedt overeenko
 
 (3). Dit Verdrag zal, zodra het in werking treedt, worden geregistreerd bij de Verenigde Naties door toedoen van de Secretaris-Generaal van de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel XXI
+##### Artikel XXI
 
 (1). Dit Verdrag zal, nadat het in werking is getreden, voor Staten, die niet ondertekend hebben, ter toetreding openstaan.
 
@@ -188,13 +210,13 @@ Dit Verdrag staat open ter ondertekening, totdat het in werking treedt overeenko
 
 (3). De toetreding wordt van kracht op de negentigste dag na de nederlegging van de akte van toetreding in de archieven van de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel XXII
+##### Artikel XXII
 
 (1). Elke Verdragsluitende Staat kan dit Verdrag opzeggen door mededeling daarvan te doen aan de Internationale Burgerluchtvaartorganisatie, welke elke Staat, die heeft ondertekend of is toegetreden, mededeling zal doen van de datum van ontvangst van deze kennisgeving.
 
 (2). De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving der opzegging door de Internationale Burgerluchtvaartorganisatie.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 (1). Iedere Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging of van toetreding verklaren, dat zijn aanvaarding van dit Verdrag niet van toepassing is op een of meer gebieden, voor welker buitenlandse betrekkingen hij verantwoordelijk is.
 

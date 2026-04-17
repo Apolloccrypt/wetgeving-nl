@@ -1,13 +1,37 @@
 ---
-title: "Register ’Niet bekostigde educatie’ van instellingen met diploma-erkenning (artikel 1.4a.1 WEB) 2003"
+title: "Register ’Niet bekostigde educatie’ van instellingen met diploma-erkenning (artikel 1.4a.1 WEB)"
 identifier: "BWBR0015401"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-09-10
-laatste_update: 2003-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015401"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-09-10"
+last_updated: "2003-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015401"
+soort: "beleidsregel"
+stam_id: "6471843"
+version_id: "11149292"
+internal_id: "C15068961"
+label_id: "6460384"
+original_entry_into_force: "2003-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015401/2003-09-10/0"
+intitule_bron: "Uitleg.2003-19"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-22"
+intitule_published: "2003-09-10"
+intitule_in_force: "2003-09-10"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-19"
+original_signed_date: "2003-07-22"
+original_published_date: "2003-09-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-10"
+jci_1_3: "jci1.3:c:BWBR0015401&z=2003-09-10&g=2003-09-10"
+jci_1_0: "1.0:c:BWBR0015401&g=2003-09-10"
+citeertitel_status: "redactioneel"
+short_title: "Register ’Niet bekostigde educatie’ van instellingen met diploma-erkenning (artikel 1.4a.1 WEB) 2003"
+signed_date: "2003-07-22"
+entry_into_force: "2003-09-10"
 ---
-
 # Register ’Niet bekostigde educatie’ van instellingen met diploma-erkenning (artikel 1.4a.1 WEB)
 
 Op grond van [artikel 6a.1.1.WEB](onbekend) wordt jaarlijks vóór de aanvang van het nieuwe studiejaar door middel van een publicatie in Uitleg Gele katern bekendgemaakt aan welke instellingen, die opleidingen educatie verzorgen, het recht is verleend om voor die opleidingen diploma’s en certificaten uit te reiken als bedoeld in [artikel 7.4.6. van de Wet Educatie en beroepsonderwijs](onbekend) (Web) en voor welke door deze instellingen verzorgde opleidingen die diploma-erkenning geldt. Hiervoor worden gegevens van de instellingen opgenomen in het register ”Niet-bekostigde educatie”. Voor deze jaarlijkse publicatie is de situatie bepalend op 1 juni(peildatum) voorafgaand aan de bekendmaking.

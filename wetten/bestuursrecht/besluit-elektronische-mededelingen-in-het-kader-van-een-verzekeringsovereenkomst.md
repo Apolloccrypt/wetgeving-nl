@@ -1,13 +1,39 @@
 ---
-title: "Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst"
+title: "Besluit van 25 januari 2011, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst (Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst)"
 identifier: "BWBR0029531"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029531"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029531"
+soort: "AMvB"
+stam_id: "11223453"
+version_id: "18376322"
+internal_id: "C25649641"
+label_id: "11197774"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029531/2011-07-01/0"
+intitule_bron: "Stb.2011-20"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-01-25"
+intitule_published: "2011-02-03"
+intitule_in_force: "2011-02-17"
+intitule_status: "goed"
+original_publication: "Stb.2011-20"
+original_signed_date: "2011-01-25"
+original_published_date: "2011-02-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-20"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0029531&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0029531&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst"
+signed_date: "2011-01-25"
+entry_into_force: "2011-07-01"
 ---
-
 # Besluit van 25 januari 2011, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst (Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 4 november 2010, nr. 5671226/10/6;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 19 jan
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De verzekeraar kan mededelingen als bedoeld in [artikel 933 lid 1 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=933) verzenden langs elektronische weg mits de mededelingen kunnen worden opgeslagen op een duurzame drager.
 
@@ -32,7 +58,7 @@ Hebben goedgevonden en verstaan:
 
 5. Van het bepaalde in dit artikel kan niet ten nadele van de geadresseerde worden afgeweken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verzekeringnemer en de tot uitkering gerechtigde kunnen mededelingen als bedoeld in [artikel 933 lid 2, tweede zin, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=933) verzenden langs elektronische weg mits de mededelingen kunnen worden opgeslagen op een duurzame drager.
 
@@ -44,19 +70,19 @@ Hebben goedgevonden en verstaan:
 
 5. Van het bepaalde in dit artikel kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken.
 
-#### Artikel 3
+##### Artikel 3
 
 [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0029531&artikel=2&z=2011-07-01&g=2011-07-01) is van overeenkomstige toepassing op een opzegging langs elektronische weg als bedoeld in [artikel 940 lid 6 van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=940).
 
-#### Artikel 4
+##### Artikel 4
 
 Het [Besluit van 8 februari 2008, houdende regels inzake de verzending van mededelingen langs elektronische weg in het kader van een verzekeringsovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0023500) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit elektronische mededelingen in het kader van een verzekeringsovereenkomst.
 

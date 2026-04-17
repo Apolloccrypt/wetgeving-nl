@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst betreffende de van Duitsland te ontvangen herstelbetalingen, de instelling van een Intergeallieerde Organisatie voor Herstelbetalingen en de teruggave van monetair goud"
 identifier: "BWBV0005679"
-categorie: "Internationaal recht"
-publicatiedatum: 1946-01-24
-laatste_update: 1946-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005679"
+country: "nl"
+rank: "verdrag"
+publication_date: "1946-01-24"
+last_updated: "1946-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005679"
+soort: "verdrag"
+stam_id: "10004811463"
+version_id: "10005115572"
+internal_id: "C10007772791"
+label_id: "10004795804"
+dtd_version: "2.0"
+original_entry_into_force: "1946-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005679/1946-01-24/0"
+intitule_bron: "Stb.1949-J 189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-05-02"
+intitule_published: "1949-05-27"
+intitule_in_force: "1949-05-27"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 189"
+original_signed_date: "1949-05-02"
+original_published_date: "1949-05-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1946-01-24"
+jci_1_3: "jci1.3:c:BWBV0005679&z=1946-01-24&g=1946-01-24"
+jci_1_0: "1.0:c:BWBV0005679&g=1946-01-24"
+citeertitel_status: "redactioneel"
+signed_date: "1949-05-02"
+entry_into_force: "1946-01-24"
 ---
-
 # Overeenkomst betreffende de van Duitsland te ontvangen herstelbetalingen, de instelling van een Intergeallieerde Organisatie voor Herstelbetalingen en de teruggave van monetair goud
 
 De Regeringen van Albanië, de Verenigde Staten van Amerika, Australië, België, Canada, Denemarken, Egypte, Frankrijk, het Verenigd Koninkrijk Groot Brittannië en Noord-Ierland, Griekenland, India, Luxemburg, Noorwegen, Nieuw-Zeeland, Nederland, Tsjecho-Elowakije, de Zuid-Afrikaanse Unie en Joego-Slavië, ten einde een billijke verdeling te verkrijgen van het totaal der goederen, die overeenkomstig de bepalingen van deze overeenkomst en de voorzieningen, welke zijn getroffen te Potsdam, op 1 Augustus 1945, tussen de Regeringen van de Verenigde Staten van Amerika, het Verenigd Koninkrijk Groot Brittannië en Noord-lerland en de Unie der Socialistische Sowjet Republieken, worden of zullen worden verklaard beschikbaar te zijn als van Duitsland te ontvangen herstelbetalingen (verder genoemd „Duitse Herstelbetalingen”), met de bedoeling een Intergeallieerde Organisatie voor Herstelbetalingen in te stellen en een billijke procedure vast te stellen voor de teruggave van monetair goud,
@@ -16,7 +40,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL I. Duitse herstelbetalingen
 
-#### Artikel 1. Aandelen in de herstelbetalingen
+##### Artikel 1. Aandelen in de herstelbetalingen
 
 A. De Duitse herstelbetalingen (met uitzondering van de fondsen, die moeten worden toegewezen volgens de bepalingen van artikel 8 van Deel I van deze overeenkomst) worden op de volgende wijze in categorieën verdeeld:
 
@@ -70,7 +94,7 @@ G. De volgende afwijkingen van de bepalingen van bovenstaande paragrafen D en E 
 
 H. Indien een ondertekenende Regering geheel of gedeeltelijk afziet van haar aandeel in de Duitse herstelbetalingen, zoals vermeld in bovenstaande „Tabel van Percentages”, of zich uit de Intergeallieerde Organisatie voor Herstelbetalingen terugtrekt op een tijdstip, waarop aan het geheel of een gedeelte van haar rechten op de Duitse herstelbetalingen nog niet is voldaan, zal het aandeel of gedeeltelijk aandeel waarvan zij afziet, of dat haar nog verschuldigd is op het ogenblik waarop zij zich terugtrekt, onder de andere ondertekenende Regeringen worden verdeeld naar rato van derzelver percentages.
 
-#### Artikel 2. Regeling der schuldvorderingen op Duitsland
+##### Artikel 2. Regeling der schuldvorderingen op Duitsland
 
 A. De ondertekenende Regeringen komen onderling overeen, dat haar onderscheidene aandelen in de herstelbetalingen, zoals die door deze overeenkomst zijn vastgesteld, door ieder van haar beschouwd moeten worden als dekkende alle vorderingen van publiek en privaat karakter van haar en haar onderdanen op de Duitsche Regering en de Duitse Regeringsinstanties, voortgesproten uit de oorlog, voor zover niet uitdrukkelijk anders geregeld, met inbegrip van de kosten der Duitse bezetting, de tijdens de bezetting verkregen bedragen op rekening van de clearing en de schuldvorderingen op de Reichskreditkassen.
 
@@ -92,11 +116,11 @@ C. Niettegenstaande de bepalingen van bovenstaande paragraaf A, moet deze overee
 
 D. Niettegenstaande de bepalingen van paragraaf A van dit artikel, komen de ondertekenende Regeringen overeen, voor zoveel haar aangaat, dat de Tsjecho-Slowaakse Regering bevoegd zal zijn om te trekken op de Girorekening van de Nationale Bank van Tsjecho-Slowakije bij de Reichsbank, voor het geval tot een zodanige maatregel zou worden besloten door de Tsjecho-Slowaakse Regering en deze wordt goedgekeurd door de Bestuursraad in Duitsland in verband met de wegvoering uit Tsjecho-Slowakije naar Duitsland van vroegere Tsjecho-Slowaakse onderdanen.
 
-#### Artikel 3. Afstand van vorderingen inzake goederen, toegewezen bij wijze van herstelbetaling
+##### Artikel 3. Afstand van vorderingen inzake goederen, toegewezen bij wijze van herstelbetaling
 
 Ieder der ondertekenende Regeringen verbindt zich niet op te komen voor, noch voor internationale rechtbanken te brengen, noch door diplomatieke actie te ondersteunen, vorderingen, die in haar naam of uit naam van personen, die recht hebben op haar bescherming, worden ingediend tegen enige andere ondertekenende Regering of tegen haar onderdanen, met betrekking tot goederen door die Regering ontvangen als herstelbetaling, onder goedkeuring van de Bestuursraad in Duitsland.
 
-#### Artikel 4. Algemene beginselen voor de verdeling van industriële outillage en van andere kapitaalgoederen
+##### Artikel 4. Algemene beginselen voor de verdeling van industriële outillage en van andere kapitaalgoederen
 
 A. Geen ondertekenende Regering mag toewijzing vragen, bij wijze van herstelbetaling, van industriële outillage of andere kapitaalgoederen, die uit Duitsland zijn weggevoerd, tenzij voor gebruik op eigen grondgebied of door eigen onderdanen buiten haar grondgebied.
 
@@ -118,7 +142,7 @@ C. Voor toewijzing van voor herstelbetaling beschikbaar verklaarde goederen, and
 
 - III. Bij de toewijzigingen zal een redelijk evenwicht moeten worden bewaard tussen de verschillende rechthebbenden wat betreft het reeds voldane gedeelte van hun onderscheidene aandelen, onder voorbehoud van die tijdelijke uitzonderingen, die kunnen worden gerechtvaardigd door de overwegingen van bovenstaande paragraaf II (a).
 
-#### Artikel 5. Algemene beginselen voor de toewijzing van koopvaardijschepen en binnenschepen
+##### Artikel 5. Algemene beginselen voor de toewijzing van koopvaardijschepen en binnenschepen
 
 - I. De Duitse koopvaardijschepen, die beschikbaar zijn voor verdeling bij wijze van herstelbetaling onder de ondertekenende Regeringen, zullen tussen deze worden verdeeld in verhouding tot de globale verliezen aan koopvaardijschepen, die de ondertekenende Regeringen en haar onderdanen door oorlogshandelingen hebben geleden, berekend op basis van de bruto tonnenmaat. Erkend wordt, dat de overdracht van koopvaardijschepen door de Regeringen der Verenigde Staten van Amerika en van het Verenigd Koninkrijk aan andere Regeringen plaats heeft, onder voorbehoud van een definitieve goedkeuring door de wetgevende organen dezer beide landen, indien een zodanige goedkeuring vereist mocht zijn.
 
@@ -130,7 +154,7 @@ B. Erkennende, dat sommige landen in het bijzonder behoefte hebben aan binnensch
 
 De binnenschepen zullen worden getaxeerd op de basis, aangenomen voor de koopvaardijvloot of op een daarmee overeenkomende billijke basis.
 
-#### Artikel 6. Buiten Duitsland gelegen Duitse bezittingen
+##### Artikel 6. Buiten Duitsland gelegen Duitse bezittingen
 
 A. Iedere ondertekenende Regering zal, volgens zelf te bepalen methode, de vijandelijke Duitse bezittingen, die zich op het onder haar jurisdictie staand grondgebied bevinden, onder zich houden, of er over beschikken op een zodanige wijze, dat zij niet opnieuw Duits eigendom kunnen worden of weer onder Duitse zeggenschap kunnen komen, en zal deze bezittingen met haar aandeel in de herstelbetalingen verrekenen (na aftrek van achterstallige belastingen, bevoorrechte schulden en kosten van beheer en vrij van alle andere zakelijke lasten, die op bepaalde goederen drukken, en vrij van alle wettelijke contractuele vorderingen op vroegere Duitse eigenaars dier bezittingen).
 
@@ -146,13 +170,13 @@ Elke ondertekenende Regering moet, indien zij daartoe niet reeds is overgegaan, 
 
 F. De Assemblée van de Intergeallieerde Organisatie voor Herstelbetalingen zal een commissie van deskundigen op het gebied van beheer van vijandelijk vermogen benoemen, teneinde de practische moeilijkheden op te lossen, die zich kunnen voordoen met betrekking tot het recht en de interpretatie daarvan. De commissie zal er met name op moeten toezien, dat alles vermeden wordt wat tot resultaat kan hebben het voortduren van fictieve of andere transacties, bestemd hetzij om vijandelijke belangen te bevoordelen, hetzij om onrechtmatig de hoeveelheid der bezittingen te verkleinen, die onder de herstelbetalingen zouden kunnen vallen.
 
-#### Artikel 7. Buitgemaakte voorraden
+##### Artikel 7. Buitgemaakte voorraden
 
 De waarde der voorraden en ander voor civiel gebruik geschikte materialen, welke buiten Duitsland op de Duitse Weermacht zijn buitgemaakt en ter beschikking zijn gesteld van de ondertekenende Regeringen, zal worden verrekend met haar aandelen in de herstelbetalingen, voor zover deze voorraden en materialen niet zijn of zullen worden hetzij betaald, hetzij geleverd krachtens regelingen, welke enige verrekening uitsluiten.
 
 Erkend wordt, dat terbeschikkingstelling van zodanige voorraden en materialen door de Regeringen der Verenigde Staten van Amerika en van het Verenigd Koninkrijk aan andere Regeringen onderworpen is aan de definitieve goedkeuring door de wetgevende organen dier beide landen, als deze vereist is.
 
-#### Artikel 8. Toekenning van een deel der herstelbetalingen aan slachtoffers der Duitse actie, die niet naar hun vaderland kunnen terugkeren
+##### Artikel 8. Toekenning van een deel der herstelbetalingen aan slachtoffers der Duitse actie, die niet naar hun vaderland kunnen terugkeren
 
 Aangezien een groot aantal personen zwaar door de gedragingen van de Nazi's heeft geleden, en thans dringend behoefte heeft aan hulp bij hun herstel en geen hulp kan vragen aan enige Regering, die herstelbetalingen ontvangt van Duitsland, zullen de Regeringen van de Verenigde Staten van Amerika, Frankrijk, het Verenigd Koninkrijk, Tsjecho-Slowakije en Joego-Slavië, na raadpleging van de Intergouvernementale Vluchtelingen Commissie, zo spoedig mogelijk in onderling overleg een plan opmaken op grond van de volgende algemene beginselen:
 
@@ -182,17 +206,17 @@ Aangezien een groot aantal personen zwaar door de gedragingen van de Nazi's heef
 
 ## DEEL II. Intergeallieerde Organisatie voor Herstelbetalingen
 
-#### Artikel 1. Instelling van de Organisatie
+##### Artikel 1. Instelling van de Organisatie
 
 De Regeringen, welke de onderhavige overeenkomst hebben getekend, stellen een Intergeallieerde Organisatie voor Herstelbetalingen in (hierna genoemd „Organisatie”). Ieder van hen benoemt een gedelegeerde bij de Organisatie, en kan insgelijks een plaatsvervangend gedelegeerde benoemen, die, bij afwezigheid van de gedelegeerde, diens functies en diens bevoegdheden uitoefent.
 
-#### Artikel 2. Taak van de Organisatie
+##### Artikel 2. Taak van de Organisatie
 
 A. De Organisatie verdeelt de Duitse herstelbetalingen onder de ondertekenende Regeringen, volgens de bepalingen van deze overeenkomst en van alle andere overeenkomsten, die van kracht zijn of zullen zijn tussen de ondertekenende Regeringen. Te dien einde is de Organisatie het orgaan, door welks tussenkomst de ondertekenende Regeringen inlichtingen ontvangen over de goederen, die voor herstelbetaling beschikbaar zijn en hieromtrent hun wensen kenbaar maken.
 
 B. De Organisatie behandelt alle kwesties met betrekking tot de restitutie aan een ondertekenende Regering van eigendommen, welke welke zich bevinden in een der Westelijke zones van Duitsland, haar toegewezen door de Opperbevelhebber van die zône (handelend namens zijn Regering), in overeenstemming met de vragende Regering(en), zonder evenwel te prejudiciëren ten aanzien van de regering van zodanige kwesties tussen de betrokken ondertekenende Regeringen, hetzij door overeenkomst, hetzij door arbitrage.
 
-#### Artikel 3. Organen van de Organisatie
+##### Artikel 3. Organen van de Organisatie
 
 A. De organen van de Organisatie zijn de Assemblée en het Secretariaat.
 
@@ -200,7 +224,7 @@ B. De Assemblée is samengesteld uit de gedelegeerden en wordt voorgezeten door 
 
 C. Het Secretariaat staat onder leiding van een Secretaris-Generaal, bijgestaan door twee Adjunct-Secretarissen-Generaal. De Secretaris-Generaal en de beide Adjunct-Secretarissen-Generaal worden benoemd door de Regeringen van de Verenigde Staten van Amerika, van Frankrijk en van het Verenigd Koninkrijk. Het Secretariaat heeft een internationaal karakter. Het handelt namens de Organisatie en niet namens de afzonderlijke ondertekenende Regeringen.
 
-#### Artikel 4. Taak van het Secretariaat.
+##### Artikel 4. Taak van het Secretariaat.
 
 Het Secretariaat beeft tot taak:
 
@@ -212,25 +236,25 @@ Het Secretariaat beeft tot taak:
 
 - D. Het vervullen van andere noodzakelijke administratieve werkzaamheden.
 
-#### Artikel 5. Taak van de Assemblée
+##### Artikel 5. Taak van de Assemblée
 
 Onder voorbehoud der bepalingen van artikel 4 en 7 van Deel II van deze overeenkomst wijst de Assemblée de Duitse herstelbetalingen aan de ondertekenende Regeringen toe, overeenkomstig de bepalingen van deze overeenkomst en van alle andere overeenkomsten, die tussen bedoelde ondertekenende Regeringen van kracht zijn of zullen zijn. Zij keurt insgelijks de begroting van de Organisatie goed en vervult alle andere functies, die verenigbaar zijn met de bepalingen van deze overeenkomst.
 
-#### Artikel 6. Beroep tegen besluiten der Assemblée
+##### Artikel 6. Beroep tegen besluiten der Assemblée
 
 Tenzij anders bepaald bij deze overeenkomst, beschikt iedere gedelegeerde over één stem. De besluiten van de Assemblée worden genomen bij meerderheid der uitgebrachte stemmen.
 
-#### Artikel 7. Beroep tegen de besluiten der Assemblée
+##### Artikel 7. Beroep tegen de besluiten der Assemblée
 
 A. Als de Assemblée niet voldaan heeft aan het verzoek van een gedelegeerde, om een goed aan zijn Regering toe te wijzen, onderwerpt de Assemblée de kwestie aan arbitrage, indien de gedelegeerde, binnen de door de Assemblée vastgestelde termijn, hierom verzoekt. Hangende arbitrage wordt het betrokken besluit van de Assemblée geschorst.
 
 B. De gedelegeerden der Regeringen, die een goed vragen, waarvan de toewijzing krachtens de bovengenoemde paragraaf A aan arbitrage is onderworpen, wijzen een scheidsman aan, gekozen uit de andere gedelegeerden. Indien geen overeenstemming kan worden bereikt over de keuze van een scheidsman, neemt de gedelegeerde van de Verenigde Staten van Amerika de functie van scheidsman waar, of benoemt hij een scheidsman uit de gedelegeerden, wier Regeringen het bedoelde goed niet vragen. Indien de Regering der Verenigde Staten van Amerika een der Regeringen is, die het bedoelde goed vragen, wijst de President van de Organisatie als scheidsman een gedelegeerde aan, wiens Regering het goed niet vraagt.
 
-#### Artikel 8. Bevoegdheden van de scheidsman
+##### Artikel 8. Bevoegdheden van de scheidsman
 
 Als de kwestie van de toewijzing van een goed arbitrage wordt onderworpen overeenkomstig artikel 7 van Deel II van deze overeenkomst, heeft de scheidsman in laatste instantie de bevoegdheid het bedoelde goed aan een der vragende Regeringen toe te wijzen. De scheidsman kan, te zijner beslissing, de toewijzing van het bedoelde goed weer naar het Secretariaat terugwijzen voor een aanvullend onderzoek. Hij kan ook, te zijner beslissing, het Secretariaat verzoeken de toewijzing van het goed in kwestie opnieuw aan de Assemblée voor te leggen.
 
-#### Artikel 9. Uitgaven
+##### Artikel 9. Uitgaven
 
 A. De salarissen en de kosten van de gedelegeerden en hun personeel worden door hun Regeringen betaald.
 
@@ -240,33 +264,33 @@ C. Iedere ondertekenende Regering betaalt haar aandeel in de begroting der Organ
 
 D. Alle bedragen, welke door de ondertekenende Regeringen zijn verschuldigd, worden betaald in Belgische francs of in een of meerdere andere valuta's, welke de Organisatie mocht bepalen.
 
-#### Artikel 10. Stemming over de begroting
+##### Artikel 10. Stemming over de begroting
 
 Bij het onderzoek van de begroting van de Organisatie voor iedere begrotingsperiode, heeft iedere gedelegeerde in de Assemblée een aantal stemmen, dat evenredig is met het aandeel, dat door zijn Regering is verschuldigd voor de betreffende begrotingsperiode.
 
-#### Artikel 11. Officiële talen
+##### Artikel 11. Officiële talen
 
 De officiële talen van de Organisatie zijn Engels en Frans.
 
-#### Artikel 12. Bureaux van de Organisatie
+##### Artikel 12. Bureaux van de Organisatie
 
 De zetel van de Organisatie is gevestigd te Brussel. De Organisatie zal bijkantoren vestigen in iedere andere plaats, welke de Assemblée mocht aanwijzen, nadat de nodige overeenstemming is verkregen.
 
-#### Artikel 13. Terugtrekking
+##### Artikel 13. Terugtrekking
 
 Iedere ondertekenende Regering, met uitzondering van de Regelingen, welke verantwoordelijk zijn voor het bestuur over een gedeelte van het Duitse grondgebied, kan zich uit de Organisatie terugtrekken na schriftelijke kennisgeving aan het Secretariaat.
 
-#### Artikel 14. Wijzigingen en ontbinding
+##### Artikel 14. Wijzigingen en ontbinding
 
 Deel II van deze overeenkomst kan worden gewijzigd, of de Organisatie worden ontbonden, door een besluit van de Assemblée, genomen met meerderheid van de uitgebrachte stemmen, mits de gedelegeerden, die deze meerderheid vormen, Regeringen vertegenwoordigen, waarvan het gezamenlijke percentage in categorie A minstens 80 bedraagt.
 
-#### Artikel 15. Juridische bevoegdheid. Onschendbaarheid en voorrechten
+##### Artikel 15. Juridische bevoegdheid. Onschendbaarheid en voorrechten
 
 De Organisatie heeft op het grondgebied van iedere ondertekenende Regering de juridische bevoegdheid, benevens de voorrechten, de onschendbaarheid en de faciliteiten, die zij nodig heeft om haar taak uit te oefenen en haar doel te bereiken. De vertegenwoordigers der ondertekenende Regeringen en de beambten van de Organisatie genieten insgelijks de voorrechten en de onschendbaarheid, die zij nodig hebben om hun taak in verband met de Organisatie in volle onafhankelijkheid te kunnen uitoefenen.
 
 ## DEEL III. Restitutie van monetair goud
 
-#### Artikel Enig
+##### Artikel Enig
 
 A. Al het monetaire goud, dat in Duitsland door de geallieerde strijdkrachten wordt gevonden en het goud bedoeld in onderstaande paragraaf G (met inbegrip van gouden munten, voorzover die geen numismatische of historische waarde hebben, welke laatste onmiddellijk zullen worden teruggegeven, als ze kunnen worden geïdentificeerd), zal worden samengebracht ter verdeling, bij wijze van restitutie, onder de hierbij toegelaten landen, in verhouding tot het verlies aan goud, door elk hunner geleden ten gevolge van roof door of onrechtmatig wegvoeren naar Duitsland.
 
@@ -284,7 +308,7 @@ G. Al het monetaire goud, dat in een derde land, waarheen het vanuit Duitsland w
 
 ## DEEL IV. lnwerkingtreding en ondertekening
 
-#### Artikel 1. Inwerkingtreding
+##### Artikel 1. Inwerkingtreding
 
 Deze overeenkomst zal kunnen worden getekend door iedere Regering, die vertegenwoordigd was op de Conferentie voor Herstelbetalingen te Parijs.
 
@@ -292,7 +316,7 @@ Zodra zij zal zijn getekend door Regeringen die gezamenlijk recht hebben op ten 
 
 De overeenkomst zal vervolgens van kracht zijn tussen deze Regeringen en iedere Regering, die haar later zal tekenen.
 
-#### Artikel 2. Ondertekening
+##### Artikel 2. Ondertekening
 
 De ondertekening door iedere contracterende Regering zal geacht worden in te houden, dat deze overeenkomst tevens verbindend is voor haar koloniën, haar overzese gebieden en gebieden onder haar protectie of suzereiniteit staande of waarover zij thans een mandaat uitoefent.
 

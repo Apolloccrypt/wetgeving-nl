@@ -1,13 +1,38 @@
 ---
 title: "Besluit inwilliging AVV-verzoek onderzoeks- en innovatieagenda AVINED"
 identifier: "BWBR0050831"
-categorie: "Overig"
-publicatiedatum: 2021-04-02
-laatste_update: 2021-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050831"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-04-02"
+last_updated: "2021-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050831"
+soort: "ministeriele-regeling"
+stam_id: "17381083"
+version_id: "30640142"
+internal_id: "C43921931"
+label_id: "17284124"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050831/2021-04-02/0"
+intitule_bron: "Stcrt.2021-17075"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-25"
+intitule_published: "2021-04-01"
+intitule_in_force: "2021-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17075"
+original_signed_date: "2021-03-25"
+original_published_date: "2021-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-17075"
+entry_into_force_date: "2021-04-02"
+jci_1_3: "jci1.3:c:BWBR0050831&z=2021-04-02&g=2021-04-02"
+jci_1_0: "1.0:c:BWBR0050831&g=2021-04-02"
+citeertitel_status: "redactioneel"
+signed_date: "2021-03-25"
+entry_into_force: "2021-04-02"
 ---
-
 # Besluit inwilliging AVV-verzoek onderzoeks- en innovatieagenda AVINED
 
 Gelet op de artikelen 164 en 165 van [Verordening (EU) nr. 1308/2013](32013R1308) van het Europees parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de [Verordeningen (EG) nr. 922/72](31972R0922), [(EEG) nr. 234/79](31979R0234), [(EG) nr. 1037/2001](32001R1037) en [(EG) nr. 1234/2007](32007R1234) van de Raad (PbEU 2013, L 347) en [paragraaf 5 van de Regeling producenten- en brancheorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0035634&paragraaf=5);
@@ -16,7 +41,7 @@ Gelet op de inhoud van de aanvraag van AVINED wordt het verzoek ingewilligd onde
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,15 +57,15 @@ In dit besluit wordt verstaan onder:
 
 - f. **niet bij AVINED aangesloten marktdeelnemers:** Ondernemers als bedoeld in [§ 1, onderdeel g, van de Registratieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050831&bijlage=B&z=2021-04-02&g=2021-04-02) en in [§ 1, onderdeel f van de Bijdrageregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050831&bijlage=C&z=2021-04-02&g=2021-04-02).
 
-#### Artikel 2
+##### Artikel 2
 
 De Onderzoeks- en innovatieagenda is overeenkomstig artikel 164, eerste lid, van [Verordening 1308/2013](32013R1308) verbindend voor niet bij AVINED aangesloten marktdeelnemers met ingang van de inwerkingtreding van dit besluit tot en met 31 december 2027.
 
-#### Artikel 3
+##### Artikel 3
 
 Overeenkomstig artikel 165 van [Verordening 1308/2013](32013R1308) zijn de [Registratieregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050831&bijlage=B&z=2021-04-02&g=2021-04-02) en de [Bijdrageregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0050831&bijlage=C&z=2021-04-02&g=2021-04-02) van toepassing op niet bij AVINED aangesloten marktdeelnemers met ingang van de inwerkingtreding van dit besluit tot en met 31 december 2027.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte in de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen"
 identifier: "BWBV0005692"
-categorie: "Internationaal recht"
-publicatiedatum: 1951-01-24
-laatste_update: 1951-01-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005692"
+country: "nl"
+rank: "verdrag"
+publication_date: "1951-01-24"
+last_updated: "1951-01-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005692"
+soort: "verdrag"
+stam_id: "10004814633"
+version_id: "10005119682"
+internal_id: "C10007788181"
+label_id: "10004799474"
+dtd_version: "2.0"
+original_entry_into_force: "1951-01-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005692/1951-01-24/0"
+intitule_bron: "Stb.1949-J 189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-05-02"
+intitule_published: "1949-05-27"
+intitule_in_force: "1951-11-22"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 189"
+original_signed_date: "1949-05-02"
+original_published_date: "1949-05-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1951-01-24"
+jci_1_3: "jci1.3:c:BWBV0005692&z=1951-01-24&g=1951-01-24"
+jci_1_0: "1.0:c:BWBV0005692&g=1951-01-24"
+citeertitel_status: "redactioneel"
+signed_date: "1949-05-02"
+entry_into_force: "1951-01-24"
 ---
-
 # Overeenkomst betreffende onderling strijdige aanspraken op buiten Duitsland gelegen Duitse bezittingen
 
 De Regeringen, die Partij zijn in de onderhavige Overeenkomst,
@@ -16,39 +40,39 @@ Overwegingen, dat het wenselijk is onderling strijdige aanspraken op vijandelijk
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij de behandeling van vijandelijke Duitse bezittingen zullen de Partijen in de onderhavige Overeenkomst (hierna en in het daarbij behorende Aanhangsel „Partijen” te noemen) zich in hun betrekkingen tot elkaar zoveel mogelijk te laten leiden door de bepalingen, neergelegd in de onderhavige Overeenkomst en in het daarbij behorende Aanhangsel (hierna en in het daarbij behorende Aanhangsel tezamen de „Overeenkomst” te noemen) en zij zullen bij de toepassing van de Overeenkomst zo handelen als noodzakelijk en passend zal zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomst zal geen voorafgaande overeenkomsten, afgesloten tussen twee of meer Partijen of tussen een Partij en een andere Regering, niet-partij, buiten werking stellen, met dien verstande dat een zodanige voorafgaande Overeenkomst, waarbij een of meer der Partijen betrokken is, geen afbreuk doet aan de uit de Overeenkomst voortvloeiende rechten van een niet bij de voorafgaande overeenkomst betrokken Partij of aan die van haar onderdanen.
 
 Indien een voorafgaande overeenkomst tussen een Partij en een andere Regering door een niet bij de voorafgaande overeenkomst betrokken Partij wordt geacht afbreuk te doen aan haar uit de Overeenkomst voortvloeiende rechten of aan die van haar onderdanen, zal de Partij die ook bij de voorafgaande overeenkomst is betrokken de andere Regering benaderen om, indien mogelijk, de betreffende bepalingen in de voorafgaande overeenkomst zodanig te doen veranderen dat deze in overeenstemming met de Overeenkomst wordt gebracht.
 
-#### Artikel 3
+##### Artikel 3
 
 Geen bepaling van de Overeenkomst zal enige Partij of Partijen beletten in de toekomst enige afzonderlijke overeenkomst te sluiten met dien verstande, dat een zodanige later gesloten overeenkomst geen afbreuk doet aan de uit de Overeenkomst voortvloeiende rechten van een andere Partij, niet-partij bij de later gesloten overeenkomst, of aan die van haar onderdanen.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien tussen twee of meer Partijen een geschil rijst betreffende de uitleg, de uitvoering of de toepassing van de Overeenkomst, zullen deze partijen een zodanig geschil met alle mogelijke middelen door onderlinge onderhandelingen pogen op te lossen, hetgeen kan omvatten de inschakeling van een wederzijds aanvaardbare scheidsman met zodanige macht als kan worden overeengekomen tussen de Partijen bij het geschil. Indien het geschil niet binnen een redelijke tijd door zodanige onderhandelingen is opgelost, kan aan het geschil een einde worden gemaakt op de wijze als is bepaald in deel VI van het Aanhangsel.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomst zal, ten opzichte van de Regeringen, die haar hebben getekend vóór zij in werking treedt, van kracht worden, zodra zij te eniger tijd voor 1 September 1948 is ondertekend namens Regeringen, die op grond van deel I, artikel 18 van de Parijse Overeenkomst inzake Herstelbetalingen van 24 Januari 1946 tezamen gerechtigd zijn tot niet minder dan 35 % van de gezamenlijke aandelen in categorie A der Duitse herstelbetalingen.
 
 De gelegenheid tot ondertekening van de Overeenkomst door andere Regeringen, leden van de Intergeallieerde Organisatie voor Herstelbetalingen, blijft bestaan gedurende een periode van zes maanden vanaf de datum waarop zij in werking treedt en zij zal ten opzichte van deze Regeringen terstond na ondertekening van kracht worden.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien enige Regering, die geen lid van de Intergeallieerde Organisatie voor Herstelbetalingen is, binnen negen maanden na de datum waarop de Overeenkomst van kracht wordt, schriftelijk aan de Belgische Regering te kennen geeft dat zij als Partij tot de Overeenkomst of tot een gelijksoortige overeenkomst wenst toe te treden, zullen de Partijen in overleg met elkaar en met deze Regering haar toetreding tot een zodanige overeenkomst overwegen, met dien verstande, dat de inhoud van dit artikel niet zal worden geacht enig recht van enige Partij, hierboven neergelegd in artikel 3, te beperken.
 
-#### Artikel 7
+##### Artikel 7
 
 Iedere Regering, waarvoor de mogelijkheid tot ondertekening van de Overeenkomst openstaat, kan in plaats hiervan aan de Belgische Regering schriftelijk mededeling van toetreding doen en een Regering, die een dergelijke mededeling van toetreding doet zal geacht worden de Overeenkomst ondertekend te hebben op de datum van ontvangst van de mededeling door de Belgische Regering.
 
-#### Artikel 8
+##### Artikel 8
 
 Iedere ondertekenende Regering kan bij de ondertekening of later, door middel van een schriftelijke kennisgeving aan de Belgische Regering mededelen, dat zij wenst dat de Overeenkomst betrekking zal hebben op alle of enige van haar overzeese gebiedsdelen of koloniën onder haar suzereiniteit of protectie, of gebieden waarover zij mandaat of beheer uitoefent, en de Overeenkomst zal betrekking hebben op de koloniën en gebieden, in de kennisgeving genoemd, vanaf de datum van ontvangst door de Belgische Regering, of vanaf de datum waarop de Overeenkomst ten opzichte van de Regering, die de kennisgeving doet, in werking treedt, met dien verstande dat de laatste van dezen geldt.
 
@@ -56,7 +80,7 @@ Ten bewijze waarvan de ondergetekenden, daartoe naar behoren door hun onderschei
 
 ## DEEL I. Vermogensbestanddelen van vijandelijke Duitsers
 
-#### Artikel 1
+##### Artikel 1
 
 A. Voor de toepassing van dit artikel omvat de term „effecten”: obligaties, aandelen en in het algemeen alle soortgelijke waarden, welke in het land van uitgifte met het woord „effecten” worden aangeduid.
 
@@ -68,7 +92,7 @@ D. De Partij, die op grond van dit artikel verplicht is een stuk af te geven, za
 
 E. De Partij, die op grond van dit artikel verplicht is een stuk af te geven, zal niet gehouden zijn tot afgifte van de opbrengst van liquidatie door verkoop, aflossing of anderszins, welke op 31 December 1946 aanwezig was in de vorm van contanten of van effecten uitgegeven door die Partij of door een publiek- of privaatrechtelijk lichaam of persoon binnen haar grondgebied, ook indien na deze datum deze contanten werden herbelegd of deze effecten werden verkocht of verhandeld. Indien de opbrengst op 31 December 1946 was belichaamd in effecten, uitgegeven door een andere Partij of door een publiek- of privaatrechtelijk lichaam of persoon binnen haar grondgebied gevestigd, dienen deze effecten (of de opbrengst van hun liquidatie na genoemde datum) aan de laatstgenoemde Partij te worden afgegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 A. Voor de toepassing van dit artikel omvat de term „betaalmiddelen”: bankpapier, munten en andere soortgelijke ruilmiddelen behalve degenen, welke numismatische of historische waarde hebben.
 
@@ -78,15 +102,15 @@ C. Indien betaalmiddelen zijn verkocht vóór 1 Januari 1947 zal geen afgifte wo
 
 D. De inhoud van dit artikel zal niet prejudiciëren ten aanzien van rechten of verplichtingen van Partijen op grond van deel III van de Parijse Overeenkomst inzake Herstelbetalingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien een geldswaardig papier (wissel, promesse, chèque of quitantie aan toonder), dat niet valt onder artikel 4 van dit Aanhangsel en dat aan een vijandelijke Duitser toebehoort, zich binnen het grondgebied van een der Partijen bevindt, terwijl de hoofddebiteur binnen het grondgebied van een andere Partij gevestigd is, dient het geldswaardige papier aan de laatstgenoemde Partij te worden afgegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een connossement, ceel of ander soortgelijk al of niet verhandelbaar goederendocument, dat aan een vijandelijke Duitser in eigendom toebehoort, zich binnen het grondgebied van een der Partijen bevindt, terwijl de goederen, waarop het betrkking heeft, zich binnen het grondgebied van een andere Partij bevinden, dient het document aan de laatstgenoemde Partij te worden afgegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 A. Op een rekening in vreemde valuta („primaire rekening”) ten gunste van een vijandelijke Duitser aangehouden door een bankinstelling gevestigd binnen het grondgebied van een Partij („primair land”) en geheel of ten dele gedekt door een rekening („garantierekening”) bij een bankinstelling binnen het grondgebied van een andere Partij („secundair land”) zullen de volgende bepalingen toepasselijk zijn:
 
@@ -96,13 +120,13 @@ A. Op een rekening in vreemde valuta („primaire rekening”) ten gunste van ee
 
 B. Voor de toepassing van dit artikel omvat de term „rekeningen” zowel rekeningen of onderrekeningen op naam, of op nummer of op andere wijze bepaaldelijk aangeduid, als rubriekrekeningen en -onderrekeningen.
 
-#### Artikel 6
+##### Artikel 6
 
 A. Indien een onder dit deel vallend vermogensbestanddeel gedeeltelijk aan een vijandelijk Duitser en gedeeltelijk aan een niet-vijand in eigendom toebehoort, zullen de betrokken partijen bij onderlinge overeenkomst vaststellen, hoe de belangen der betrokkenen zullen worden gesplitst en hoe de vijandelijke belangen zullen worden vrijgegeven. Het vijandelijke Duitse aandeel dient dan te worden vrijgegeven aan die Partij, die gerechtigd zou zijn geweest het goed te ontvangen, indien het volledig vijandelijk Duits eigendom was geweest.
 
 ## DEEL II. Nalatenschappen, trusts en andere soorten van fiduciaire overeenkomsten, waarbij een vijandelijk Duits belang is betrokken
 
-#### Artikel 7
+##### Artikel 7
 
 A. Indien een niet-vijand, die ten tijde van zijn overlijden zijn woonplaats had binnen het grondgebied van een Partij, een boedel nalaat, waarin binnen de jurisdictie van een andere Partij vallende vermogensbestanddelen voorkomen en waarin een vijandelijke Duitser een belang heeft als erfgenaam, legataris of crediteur, zullen deze vermogensbestanddelen — behoudens hetgeen bepaald is in paragraaf B van dit artikel — worden vrijgemaakt van beheer door de beheersinstanties van de laatstgenoemde Partij om een normale afwikkeling van de nalatenschap binnen het grondgebied van de eerstgenoemde Partij te vergemakkelijken. Op de op deze wijze vrijgemaakte vermogensbestanddelen blijven de erfrechtbepalingen van de vrijgevende Partij inzake het beheer en de verdeling toepasselijk. Indien ingevolge deze bepalingen de nalatenschap rechtstreeks tussen de gerechtigden wordt verdeeld, dient de vrijmakende Partij zodanige maatregelen te nemen als passend zijn om het erfdeel van iedere vijandelijke Duitser aan de andere Partij ter beschikking te stellen.
 
@@ -112,21 +136,21 @@ C. De bepalingen van dit artikel zijn niet van toepassing op enig deel van een n
 
 D. Voor de toepassing van dit artikel wordt de woonplaats van een erflater bepaald in overeenstemming met de wet van de Partij binnen wier jurisdictie het goed zich bevindt.
 
-#### Artikel 8
+##### Artikel 8
 
 Vermogensbestanddelen, vallende binnen de jurisdictie van een der Partijen gehouden krachtens een bonafide trust of een andere bonafide fiduciaire overeenkomst, waarbij belangen van een vijandelijke Duitser als begunstigde of anderszins betrokken zijn en welke trust of overeenkomst is aangegaan volgens de wetten van een andere Partij, moeten worden vrijgemaakt van het beheer door de beheersinstanties van de eerstgenoemde Partij; deze mag echter de belangen van vijandelijke Duitsers bij binnen haar grondgebied gelegen onroerend goed behouden. Het vrijgeven zal, op grond van dit deel van het Aanhangsel, niet verplicht zijn in de gevallen waarin de trust of andere fiduciaire overeenkomst werd aangegaan door een Duits ingezetene, of een vijandelijke Duitser, of iemand die later een vijandelijke Duitser is geworden.
 
-#### Artikel 9
+##### Artikel 9
 
 De Partij, die op grond van de bepalingen van dit deel van dit Aanhangsel gerechtigd is vermogensbestanddelen te ontvangen, is verplicht de rechten van niet-vijanden in de nalatenschap, trust of andere fiduciaire overeenkomst te erkennen.
 
-#### Artikel 10
+##### Artikel 10
 
 De in deel I van dit Aanhangsel neergelegde beginselen zijn niet van toepassing op vermogensbestanddelen, afgegeven op grond van de bepalingen van dit deel of overgedragen aan de beheersinstanties van een der Partijen uit een — onder de in dit deel neergelegde regels vallende — nalatenschap, bonafide trust of andere bonafide fiduciaire overeenkomst.
 
 ## DEEL III. Vermogensbestanddelen toebehorende aan ondernemingen, opgericht volgens de wetten van een der Partijen.
 
-#### Artikel 11
+##### Artikel 11
 
 A. Dit deel heeft betreking op vermogensbestanddelen, vallend onder de jurisdictie van een der Partijen en in eigendom toebehorend aan een onderneming, opgericht volgens de wetten van een andere Partij en waarin op de peildatum een direct of indirect vijandelijk Duits belang bestond. De Partij, binnen wier jurisdictie het vermogensbestanddeel zich bevindt, zal het „secundaire land” worden genoemd met betrekking tot dit vermogensbestanddeel. De onderneming aan wie het vermogensbestanddeel in eigendom toebehoort zal „primaire vennootschap” worden genoemd met betrekking tot dit vermogensbestanddeel. De Partij, volgens wier wetten de onderneming is georganiseerd zal „primair land” worden genoemd met betrekking tot dat vermogensbestanddeel. De termen „onderneming” en „vennootschap” zullen omvatten iedere al dan niet rechtspersoonlijkheid bezittende firma of groep van personen. Vermogensbestanddelen van een in de vorm van een trust opgerichte onderneming en vermogensbestanddelen van een financiële- of bankinstelling, behalve de in vreemde valuta luidende garantierekeningen, waarop artikel 5 van dit Aanhangsel betrekking heeft, zullen onder de bepalingen van dit deel vallen. Deze uitzondering met betrekking tot garantierekeningen mag echter niet zodanig worden uitgelegd, dat zij meebrengt, dat een garantierekening al dan niet aan die instelling in eigendom toebehoort.
 
@@ -138,11 +162,11 @@ B. Een onderneming zal als door Duisers beheerst worden beschouwd, indien vijand
 
 of indien vijandelijke Duitsers op de peildatum direct of indirect het beleid, de bedrijfsvoering, het stemrecht of de gang van zaken van de onderneming beheersten. De vermogensbestanddelen, welke zich binnen het grondgebied van het secundaire land bevinden zullen als door Duitsers beheerst worden beschouwd indien vijandelijke Duitsers op de peildatum direct of indirect het beleid, de bedrijfsvoering, het gebruik of de gang van zaken met betrekking tot deze vermogensbestanddelen beheersten.
 
-#### Artikel 12
+##### Artikel 12
 
 Behoudens de uitzonderingen, welke in de onderhavige Overeenkomst zijn voorzien, moeten alle vermogensbestanddelen, welke zich binnen het secundaire land bevinden en aan een primaire vennootschap worden vrijgegeven en het secundaire land zal het recht hebben van het primaire land als vergoeding een bedrag te ontvangen, dat het deel van de waarde van de zich in het secundaire land bevindende vermogensbestanddelen vertegenwoordigt, dat overeenkomt met het percentage van de directe of indirecte vijandelijke Duitse belangen in de primaire vennootschap op de peildatum. In ieder afzonderlijk geval zal de afgifte plaatsvinden, zodra de betrokken landen overeenstemming hebben bereikt betreffende de vraag, of de zich binnen het secundaire land bevindende vermogensbestanddelen dan wel de primaire vennootschap zelf als door Duitsers beheerst dienen te worden beschouwd, als ook ten aanzien van de begrenzing en de methode van berekening van het percentage van het direct of indirect vijandelijk Duits belang in de primaire vennootschap op de peildatum. Indien de binnen een secundair land gelegen vermogensbestanddelen en de primaire vennootschap zelf niet door Duitsers worden beheerst, zullen de vermogensbestanddelen onmiddellijk zonder vergoeding worden vrijgegeven.
 
-#### Artikel 13
+##### Artikel 13
 
 A. De vrijgave van vermogensbestanddelen, die onder jurisdictie van een secundair land vallen, zal in natura plaats vinden, tenzij:
 
@@ -154,41 +178,41 @@ A. De vrijgave van vermogensbestanddelen, die onder jurisdictie van een secundai
 
 B. Indien geen vrijgave in natura plaatsvindt, moet in plaats daarvan door het secundaire land vrijgave plaatsvinden van de opbrengst van de verkoop of van de liquidatie der vermogensbestanddelen, welke anders in natura zouden zijn vrijgegeven. Indien zodanige vermogensbestanddelen niet zijn verkocht of op andere wijze geliquideerd binnen een jaar na een in subparagraaf II) van paragraaf A van dit artikel bedoelde overeenkomst of overeenstemming of na de onder subparagraaf III) bedoelde kennisgeving, moet, behoudens een onderling overeengekomen verlenging van deze termijn, de waarde van de behouden vermogensbestanddelen, vastgesteld volgens algemeen aanvaarde beginselen van waardebepaling, worden vrijgegeven.
 
-#### Artikel 14
+##### Artikel 14
 
 De vergoeding moet door het primaire land aan het secundaire land binnen twee jaar na de voor de vrijgave der vermogensbestanddelen vastgestelde datum worden betaald in de geldsoort van het secundaire land. Echter kan de betaling worden uitgesteld in verband met deviezenrestricties, welke van kracht zijn in het primaire land en in het algemeen van toepassing zijn op kapitaalovermakingen, mits dergelijke restricties in overeenstemming zijn met de bepalingen van de Overeenkomst inzake het Internationaal Monetair Fonds en mits in ieder geval volledige betaling binnen zeven jaar na de voor de vrijgave der vermogensbestanddelen vastgestelde datum zal plaats vinden. Het primaire land zal aan het secundaire land een interest van 2 % betalen over het saldo van de vergoeding, dat onbetaald blijft na de termijn van twee jaar.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien administratieve moeilijkheden in het secundaire land het vereisen of in andere speciale omstandigheden, kunnen de betrokken primaire en secundaire landen overeenkomen, dat het secundaire land het gedeelte van de waarde van de in het secundaire land gelegen vermogensbestanddelen, waarop het recht heeft, op grond van artikel 12 van dit Aanhangsel zal behouden. In een zodanig geval zal het secundaire land de vermogensbestanddelen, welke het deel, waartoe het gerechtigd is, overtreffen, vrijgeven en kan dit deel uitsluitend aan de niet-vijandelijke belangen in de primaire vennootschap ten goede komen.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien de primaire vennootschap een schijnvennootschap is of indien zij een holding-maatschappij is, waarvan het geplaatste kapitaal zich in handen van een klein aantal aandeelhouders bevindt of niet regelmatig op een erkende beurs wordt verhandeld, zal het secundaire land — niettegenstaande de bepalingen van artikel 12 van dit Aanhangsel — dat deel van de vermogensbestanddelen in het secundaire land mogen behouden, dat overeenkomt met het percentage van het direct of indirect vijandelijk Duits belang in de schijnvennootschap of holding-maatschappij op de peildatum. In een zodanig geval zal het secundaire land de vermogensbestanddelen, welke het deel waartoe het gerechtigd is overtreffen, vrijgeven en kan dit deel uitsluitend aan de niet-vijandelijke belangen in de primaire vennootschap ten goede komen.
 
-#### Artikel 17
+##### Artikel 17
 
 Het is de bedoeling, dat dat deel van de waarde van de vermogensbestanddelen, welke zijn gelegen in het secundaire land, dat overeenkomt met het percentage van het direct of indirect niet-vijandelijk belang in de primaire vennootschap, aan deze niet-vijandelijke belangen ten goede zal komen. In onderlinge regelingen inzake vrijgave en vergoeding, door twee of meer Partijen op grond van dit deel tot stand te brengen, dienen deze Partijen redelijke voorzieningen te treffen ter voorkoming van schade aan belangen in de primaire vennootschap van niet-vijanden, die onderdaan van een derde Partij zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij de toepassing van de bepalingen van het onderhavige deel zal, wanneer het een keten van vennootschappen betreft, vrijgave van vermogensbestanddelen en betaling van vergoeding plaats vinden tussen secundaire landen en met hen corresponderende primaire vennootschappen en landen. Anderzijds zullen, bij de berekening van de percentages van de directe of indirecte vijandelijke Duitse belangen in elk der opeenvolgende primaire vennootschappen, deze belangen in iedere schakel van de keten van vennootschappen worden nagegaan.
 
-#### Artikel 19
+##### Artikel 19
 
 Met betrekking tot de in de artikelen 1 tot en met 4 van dit Aanhangsel bedoelde categorieën van vermogensbestanddelen, welke in eigendom toebehoren aan onder deel III van dit Aanhangsel vallende vennootschappen, zal dat land voor de toepassing van deel III als secundair land worden beschouwd, dat op grond van genoemde artikelen gerechtigd zou zijn de vrijgave van de bedoelde vermogensbestanddelen te verkrijgen. Wat betreft in vreemde geldsoorten luidende rekeningen, als bedoeld in artikel 5 van dit Aanhangsel, welke zijn geopend ten gunste van een door de bepalingen van deel III beheerste onderneming, zullen het land waar de primaire rekening uitstaat en het land waar de garantierekening uitstaat volgens de bepalingen van deel III elk als secundair land worden beschouwd, ieder voor 50 % van het bedrag van de garantierekening in de vreemde geldsoort.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor de toepassing der bepalingen van dit deel zal een volgens de Duitse wet ingerichte onderneming als volledig vijandelijk Duits worden beschouwd, doch vermogensbestanddelen, welke op grond van dit deel als vergoeding worden ontvangen of door een land worden behouden, blijven beschikbaar voor de bescherming van niet-vijandelijke belangen in een zodanige onderneming, in overeenstemming met de bepalingen van deel IV van dit Aanhangsel.
 
 ## DEEL IV. Vermogensbestanddelen toebehorende aan volgens de Duitse wet opgerichte ondernemingen
 
-#### Artikel 21
+##### Artikel 21
 
 Dit deel is toepasselijk op vermogensbestanddelen binnen de jurisdictie van een Partij, welke toebehoren aan een volgens de Duitse wet opgerichte onderneming, waarin niet-vijandelijke onderdanen van Partijen een direct of indirect belang hebben en dit op 1 September 1939 hadden. De in dit deel bedoelde niet-vijandelijke onderdanen van Partijen dienen deze hoedanigheid echter op 1 September 1939 bezeten te hebben.
 
-#### Artikel 22
+##### Artikel 22
 
 Met het oog op de bescherming der belangen van de in artikel 21 van dit Aanhangsel bedoelde niet-vijandelijke onderdanen in de onderneming, zal van de vermogensbestanddelen, waarop dit deel betrekking heeft, met inachtneming van de artikelen 23 en 24 van dit Aanhangsel en overeenkomstig tussen de betrokken Partijen te treffen regelingen, een deel worden vrijgegeven, dat overeenkomt met de omvang van die belangen, indien niet-vijandelijke onderdanen van Partijen direct of indirect:
 
@@ -196,11 +220,11 @@ Met het oog op de bescherming der belangen van de in artikel 21 van dit Aanhangs
 
 - II). de onderneming beheersen en op 1 September 1939 beheersten.
 
-#### Artikel 23
+##### Artikel 23
 
 Geen Partij zal op grond van dit deel verplicht zijn tot vrijgave van vermogensbestanddelen, ten aanzien waarvan geen claim, ingediend door een andere Partij, door de eerste Partij is ontvangen binnen een jaar na het van kracht worden van de Overeenkomst tussen de betrokken Partijen. Alvorens een op grond van dit deel in te dienen claim te ondersteunen, dient een Partij door haar onderdaan-eiser te doen bewijzen, dat artikel 22 van dit Aanhangsel van toepassing is. Indien een claim is ingediend bij de Partij binnen wier jurisdictie de vermogensbestanddelen zijn gelegen en artikel 22 van dit Aanhangsel van toepassing is, zal die Partij alle andere Partijen hiervan in kennis stellen en de claims van alle niet-vijandelijke onderdanen van deze Partijen, die voldoen aan artikel 21 van dit Aanhangsel, in aanmerking nemen.
 
-#### Artikel 24
+##### Artikel 24
 
 A. De vrijgave van vermogensbestanddelen op grond van dit deel zal in natura plaats vinden, tenzij:
 
@@ -212,13 +236,13 @@ A. De vrijgave van vermogensbestanddelen op grond van dit deel zal in natura pla
 
 B. Indien geen vrijgave plaats vindt, moet in de plaats daarvan vrijgave plaats vinden van de opbrengst van de verkoop of van de liquidatie der vermogensbestanddelen, welke anders in natura zouden zijn vrijgegeven. Indien deze vermogensbestanddelen niet zijn verkocht of geliquideerd binnen een jaar na een in subparagraaf II) van paragraaf A van dit artikel bedoelde overeenkomst of de in subparagraaf III) van dezelfde paragraaf bedoelde kennisgeving, moet — behoudens een onderling overeengekomen verlenging van deze termijn — vrijgave plaats vinden van de waarde van deze vermogensbestanddelen, vastgesteld volgens algemeen erkende beginselen van waardebepaling.
 
-#### Artikel 25
+##### Artikel 25
 
 De vermogensbestanddelen, welke worden bedoeld in de artikelen 1 tot en met 4 van dit Aanhangsel en welke toebehoren aan een onderneming, welke door deel IV van dit Aanhangsel wordt beheerst, zullen worden beschouwd als te zijn onder de jurisdictie van de Partij, die op grond van de genoemde artikelen gerechtigd zou zijn de vermogensbestanddelen te ontvangen. Wat betreft in vreemde geldsoorten luidende rekeningen als bedoeld in artikel 5 van dit Aanhangsel, welke zijn geopend ten gunste van een door de bepalingen van deel IV beheerste onderneming, zullen het land, waar de primaire rekening uitstaat, en het land, waar de garantierekening uitstaat, worden beschouwd jurisdictie te hebben over de vermogensbestanddelen ieder voor 50 % van de garantierekening in de vreemde geldsoort.
 
 ## DEEL V. Interpretatie en toepassing
 
-#### Artikel 26
+##### Artikel 26
 
 A. Geen der Partijen zal verplicht zijn tot vrijgave van een vijandelijk belang in bepaalde vermogensbestanddelen aan een andere Partij of aan een onderneming, opgericht volgens de wetten van die andere Partij, behalve voor zover dit belang door de verkrijgende Partij direct of indirect als vijandelijk Duits zou worden beschouwd.
 
@@ -256,7 +280,7 @@ I. De vrijgave van vermogensbestanddelen op grond van de bepalingen van deze Ove
 
 J. Partijen behouden het recht om de aanvaarding van op grond van de bepalingen van deze Overeenkomst vrijgegeven vermogensbestanddelen te weigeren. In dit geval zijn zij niet verplicht tot betaling van de lasten en kosten, genoemd in de paragrafen F en G en subparagraaf III) van paragraaf H van dit artikel.
 
-#### Artikel 27
+##### Artikel 27
 
 A. Geen der bepalingen van deze Overeenkomst zal een Partij verplichten tot erkenning van:
 
@@ -266,31 +290,31 @@ A. Geen der bepalingen van deze Overeenkomst zal een Partij verplichten tot erke
 
 B. Bij de beslissing of een vermogensbestanddeel toebehoort aan — of wordt beheerst door — een vijandelijke Duitser, zal geen rekening worden gehouden met een overdracht aan of transacties met een vijandelijke Duitser, welke volgens de bepalingen van de Inter-Geallieerde Verklaring inzake Berovingsdaden van 5 Januari 1943 het karakter hebben van plundering of gedwongen eigendomsoverdracht.
 
-#### Artikel 28
+##### Artikel 28
 
 Vermogensbestanddelen, voor rekening van een vijandelijke Duitser gehouden door een natuurlijk persoon of een al dan niet rechtspersoonlijkheid bezittend zedelijk lichaam als stroman, lasthebber, vertegenwoordiger, trustee of in een andere hoedanigheid, zullen worden beschouwd als rechtstreeks toebehorend aan deze vijandelijke Duitser. De vraag van erkenning van enig belang, dat de houder van deze vermogensbestanddelen ter zake van deze bestanddelen kan doen gelden, wordt door het vorengaande niet geprejudicieerd, doch zal in ieder afzonderlijk geval door middel van onderhandelingen tussen de betrokken Partijen worden opgelost.
 
-#### Artikel 29
+##### Artikel 29
 
 Het onder beheer stellen door een der Partijen van vijandelijke Duitse belangen in vermogensbestanddelen, die zich op haar grondgebied bevinden, wordt niet geacht een einde gemaakt te hebben aan de vijandelijke Duitse belangen in vermogensbestanddelen, die zich binnen het grondgebied van een andere Partij bevinden.
 
-#### Artikel 30
+##### Artikel 30
 
 Een filiaal of ander soortgelijk lichaam, gevestigd binnen het grondgebied van een der Partijen, van een onderneming, opgericht volgens de wet van een ander land, zal worden beschouwd als een afzonderlijke eenheid, gevestigd binnen het grondgebied van genoemde Partij. Een vennootschap, die zijn hoofdzetel binnen het grondgebied van een der Partijen heeft, zal worden beschouwd als een aldaar gevestigde onderneming, ongeacht de verblijf- of woonplaats der vennoten.
 
-#### Artikel 31
+##### Artikel 31
 
 Indien bij de toepassing der bepalingen van de Overeenkomst bijzondere moeilijkheden rijzen inzake een uit verscheidene delen bestaande organisatie met onder- of dochterorganisaties met vermogensbestanddelen binnen het grondgebied van verscheidene partijen, kan een commissie worden gevormd, bestaande uit afgevaardigden van de Partijen in kwestie, teneinde de gerezen moeilijkheden te bestuderen en advies inzake hun oplossing uit te brengen.
 
-#### Artikel 32
+##### Artikel 32
 
 Teneinde de uitvoering van de bepalingen der Overeenkomst te bevorderen, zullen Partijen inlichtingen uitwisselen en op andere wijze samenwerken; met dien verstande, dat inlichtingen, welke op grond hiervan worden verstrekt, door de Partij, die ze ontvangt, als vertrouwelijk moeten worden beschouwd en uitsluitend mogen worden gebruikt voor de toepassing van de bepalingen van deze Overeenkomst en van de Overeenkomst van Parijs inzake Herstelbetalingen van 24 Januari 1946.
 
-#### Artikel 33
+##### Artikel 33
 
 Geen der bepalingen van deze Overeenkomst geeft aan een natuurlijke rechtspersoon of aan een al dan niet rechtspersoonlijkheid bezittend zedelijk lichaam het recht voor enig burgerlijk of administratiefrechtelijk gerecht een geding te voeren tegen zijn eigen Regering of enige andere Partij.
 
-#### Artikel 34
+##### Artikel 34
 
 Voor de toepassing van dit Aanhangsel:
 
@@ -302,7 +326,7 @@ Voor de toepassing van dit Aanhangsel:
 
 ## DEEL VI. Arbitrage
 
-#### Artikel 35
+##### Artikel 35
 
 Teneinde de uitvoering der bepalingen van artikel 4 van de Overeenkomst, waaraan dit Aanhangsel is toegevoegd, te verzekeren, zal een uit zeven leden bestaand College van Scheidslieden op de volgende wijze worden gevormd:
 
@@ -318,25 +342,25 @@ Teneinde de uitvoering der bepalingen van artikel 4 van de Overeenkomst, waaraan
 
 - VI). Indien de Voorzitter of een ander lid van het college overlijdt of aftreedt, zal de vacature worden vervuld door stemming door de landen, die alsdan Partijen zijn. Iedere Partij heeft het recht één candidaat voor te dragen en de verkiezing dient te geschieden met een meerderheid van ten minste twee derden der uitgebrachte stemmen.
 
-#### Artikel 36
+##### Artikel 36
 
 Onmiddellijk na zijn verkiezing zal het College de door hem noodzakelijk geachte grondregels voor zijn interne organisatie en zijn werkzaamheden opstellen. De leden van het College zullen, uit hoofde van hun lidmaatschap, van de in artikel 35 van subparagraaf II) bedoelde Partijen een honorarium ontvangen tot een bedrag, vastgesteld door de Secretaris-Generaal van de Intergeallieerde Organisatie voor Herstelbetalingen.
 
-#### Artikel 37
+##### Artikel 37
 
 A. Indien een geschil niet binnen een redelijke tijd is opgelost door middel van onderhandelingen als bedoeld in artikel 4 van de Overeenkomst, waaraan dit Aanhangsel is toegevoegd, kan een der Partijen de Voorzitter van het College van Scheidslieden, bedoeld in artikel 35 van dit Aanhangsel, verzoeken een onpartijdig Scheidsman uit het College aan te wijzen, die de Partijen zal horen en kan verzoeken het geleverd bewijs aan te vullen. De Scheidsman zal de oplossing aangeven, die volgens zijn mening het meest strookt met de geest van de Overeenkomst en deze oplossing zal voor de betrokken Partijen bindend en onherroepelijk zijn.
 
 B. De Voorzitter zal op verzoek van ieder der bij het geschil betrekken Partijen beslissen of een redelijke tijd is verlopen, alvorens de aangelegenheid aan arbitrage wordt onderworpen, krachtens paragraaf A van dit artikel, met dien verstande, dat een periode van minder dan een jaar na het begin van de onderhandelingen tussen de bij het geschil betrokken Partijen voor de toepassing van deze paragraaf niet als een redelijke tijd zal worden aangemerkt.
 
-#### Artikel 38
+##### Artikel 38
 
 De vraag, of volgens de mening van het secundaire land zijn nationale veiligheid het behouden van vermogensbestanddelen, als bedoeld in paragraaf A, III) van artikel 13 en paragraaf A van artikel 24 van dit Aanhangsel, vereist, kan niet aan arbitrage worden onderworpen.
 
-#### Artikel 39
+##### Artikel 39
 
 De Scheidsman heeft niet de bevoegdheid verandering te brengen in de op grond van artikel 14 van dit Aanhangsel bestaande verplichting tot volledige betaling in de geldsoort van het secundaire land binnen zeven jaar na de vrijgave der vermogensbestanddelen.
 
-#### Artikel 40
+##### Artikel 40
 
 De bij het geschil betrokken Partijen zullen aan de Scheidsman het honorarium en de gemaakte kosten, zoals door hem in rekening gebracht, betalen. De bij het geschil betrokken Partijen kunnen aan de Voorziter van het College herziening vragen van het honorarium en de gemaakte kosten, zoals door de Scheidsman in rekening gebracht, of van de wijze van verdeling dezer bedragen over de bij het conflict betrokken Partijen. De door de Voorzitter terzake te nemen beslissing is onherroepelijk.
 

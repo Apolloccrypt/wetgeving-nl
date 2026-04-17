@@ -1,14 +1,40 @@
 ---
-title: "Wet beschikbaarheid goederen"
+title: "Wet van 10 juli 1952, ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden"
 identifier: "BWBR0002098"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002098"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002098"
+soort: "wet"
+stam_id: "435543"
+version_id: "11332132"
+internal_id: "C15268711"
+label_id: "423664"
+dtd_version: "2.0"
+original_entry_into_force: "2004-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002098/2021-07-01/0"
+intitule_bron: "Stb.1952-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1952-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2004-686"
+original_signed_date: "2004-12-02"
+original_published_date: "2004-12-28"
+original_effect: "structuurwijziging"
+original_dossier: "29514"
+original_url_id: "stb-2004-686"
+entry_into_force_date: "2004-12-02"
+entry_into_force_dossier: "29514"
+jci_1_3: "jci1.3:c:BWBR0002098&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0002098&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet beschikbaarheid goederen"
+signed_date: "2004-12-02"
+entry_into_force: "2004-12-02"
 ---
-
-# Wet beschikbaarheid goederen
+# Wet van 10 juli 1952, ter verzekering van het beschikbaar blijven van goederen voor het geval van oorlog, oorlogsgevaar, daaraan verwante of daarmede verband houdende buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +42,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is, maatregelen te kunn
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet verstaat onder:
 
@@ -26,7 +52,7 @@ Deze wet verstaat onder:
 
 - c. bevel: een last, gegeven krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is ter verzekering van het beschikbaar blijven van goederen ter voorbereiding op noodsituaties, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten:
 
@@ -48,7 +74,7 @@ Deze wet verstaat onder:
 
 6. Voor zover het registergoederen betreft, doet Onze Minister die het bevel heeft gegeven, de beschikking waarbij het bevel wordt gegeven, zo spoedig mogelijk inschrijven in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&afdeling=2). Indien [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), toepassing heeft gevonden en het bevel namens een Onzer Ministers is gegeven, doet de gemachtigde persoon de beschikking zo spoedig mogelijk tezamen met de machtiging inschrijven. Het bepaalde in de tweede zin is van overeenkomstige toepassing in gevallen als bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=4&z=2021-07-01&g=2021-07-01), met dien verstande dat de ter inschrijving aangeboden beschikking vermeldt de dagtekening van de beschikking waarbij de betrokken persoon als gemachtigde is aangewezen alsmede de datum en het nummer van de **Nederlandse Staatscourant** waarin die beschikking is bekend gemaakt dan wel het tijdstip waarop door middel van de radio-omroep de machtiging van de betrokken persoon is bekend gemaakt. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Ieder van Onze Ministers is, indien dit naar zijn oordeel noodzakelijk is in het belang van de voorbereiding of de nakoming van bevelen als in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01), bedoeld, bevoegd aan de rechthebbende bij algemeen of bijzonder bevel te gelasten om een goed tot het ondergaan van een onderzoek naar zijn toestand of geschiktheid tijdelijk ter beschikking te stellen van degene die het bevel geeft.
 
@@ -56,23 +82,23 @@ Deze wet verstaat onder:
 
 3. Van ieder krachtens het eerste lid gegeven bevel wordt een afschrift gezonden aan Onze Minister van Economische Zaken en Klimaat.
 
-#### Artikel 2b
+##### Artikel 2b
 
 Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militaire taak gegeven bevel heeft voorrang boven een door een van Onze andere Ministers gegeven bevel, ook al was dit laatste eerder gegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bekendmaking van een algemeen bevel of van de wijziging of intrekking daarvan geschiedt door plaatsing in de **Staatscourant**.
 
 2. Indien de bekendmaking van een bijzonder bevel niet kan geschieden op de wijze als voorzien in [artikel 3:41, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:41), geschiedt zij door toezending of uitreiking aan de burgemeester van de gemeente waar het goed zich bevindt; deze doet het stuk op een plaats binnen de gemeente in bewaring houden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Ieder, die op de voet van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01), of [artikel 2**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2a&z=2021-07-01&g=2021-07-01), is aangewezen om namens Onze Minister een bevel of bevelen te geven, moet voorzien zijn van een algemene of bijzondere schriftelijke machtiging, waaruit blijkt gedurende welke termijn de lasthebber daartoe bevoegd is.
 
 2. De eis, in het vorige lid gesteld, geldt niet in spoedeisende gevallen, mits het besluit, waarbij personen zijn aangewezen, die bevoegd zijn namens een Onzer Ministers te gelasten, in de **Nederlandse Staatscourant** of door middel van de radio-omroep bekend gemaakt is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien ingevolge een bevel de rechthebbenden schade lijden, worden zij ten laste van het Rijk schadeloos gesteld overeenkomstig door Ons bij algemene maatregel van bestuur te stellen regelen.
 
@@ -90,7 +116,7 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 - e. degene, die het bedrag der schadeloosstelling zal uitbetalen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan een rechthebbende, met wie ten aanzien van de schadeloosstelling, geen overeenstemming wordt bereikt, wordt een door of namens Onze Minister, die het bevel heeft gegeven of doen geven, gedagtekend en ondertekend bewijs verstrekt, hetwelk de bedragen vermeldt, die als schadeloosstelling zijn aangeboden, onderscheidenlijk verlangd.
 
@@ -102,7 +128,7 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 5. De overeenkomstig het tweede lid vastgestelde schadeloosstelling wordt terstond betaalbaar gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=2&z=2021-07-01&g=2021-07-01) of 2**a** zijn belast de bij besluit van Onze Ministers wie het aangaat aangewezen personen.
 
@@ -114,13 +140,13 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 5. Een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) kan worden gegeven door Onze Minister, die een bevel heeft gegeven of doen geven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister, die een bevel heeft gegeven of doen geven, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 2. Het personeel van degene tot wie het bevel gericht is, is verplicht de diensten te verrichten die ter uitvoering van het bevel worden gevorderd door degene die met de uitvoering van de in het eerste lid genoemde bestuursdwang belast is.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met gevangenisstraf van ten hoogste twee jaar of geldboete van de vijfde categorie wordt gestraft hij die opzettelijk:
 
@@ -154,11 +180,11 @@ Een door Onze Minister van Defensie ten behoeve van de uitvoering van de militai
 
 4. De in het eerste en het tweede lid strafbaar gestelde feiten zijn misdrijven; de in het derde lid strafbaar gestelde feiten zijn overtredingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met de opsporing van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2021-07-01&g=2021-07-01) strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141), belast de daartoe door of vanwege een van Onze Ministers aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179) en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -168,21 +194,21 @@ Vervallen
 
 4. De in het eerste lid bedoelde ambtenaren zijn bevoegd bij het opsporen van de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002098&artikel=9&z=2021-07-01&g=2021-07-01) strafbaar gestelde feiten, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 De maatregelen, krachtens deze wet genomen, blijven zonder gevolg, voorzover zij onverenigbaar zijn met maatregelen, krachtens enige andere wet genomen ten behoeve van de uitvoering van de militaire taak.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet beschikbaarheid goederen.
 

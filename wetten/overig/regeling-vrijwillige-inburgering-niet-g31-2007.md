@@ -1,13 +1,39 @@
 ---
-title: "Regeling vrijwillige inburgering niet-G31 2007"
+title: "Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. DDS 5456934, houdende regels tot bevordering van vrijwillige inburgering in de niet-G31 gemeenten"
 identifier: "BWBR0020646"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020646"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020646"
+soort: "ministeriele-regeling"
+stam_id: "8766813"
+version_id: "13880632"
+internal_id: "C18815911"
+label_id: "8746744"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020646/2013-01-01/0"
+intitule_bron: "Stcrt.2006-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-06"
+intitule_published: "2006-12-14"
+intitule_in_force: "2006-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-244"
+original_signed_date: "2006-12-06"
+original_published_date: "2006-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-244-p18-SC78163"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0020646&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0020646&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijwillige inburgering niet-G31 2007"
+signed_date: "2006-12-06"
+entry_into_force: "2007-01-01"
 ---
-
 # Regeling van de Minister voor Vreemdelingenzaken en Integratie van 6 december 2006, nr. DDS 5456934, houdende regels tot bevordering van vrijwillige inburgering in de niet-G31 gemeenten
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) en de [artikelen 48r](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48r) en [48s van de Wet Justitie-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008121&artikel=48s);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsomschrijvingen en strekking van de regeling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 - u. taalkennisvoorziening: voorziening die is gericht op de verwerving van de kennis van de Nederlandse taal die noodzakelijk is voor het kunnen afronden van een beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen a en b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.2.2).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister kan aan een gemeente of een samenwerkingsverband, onder de in deze regeling genoemde voorwaarden, een financiële bijdrage verlenen teneinde de gemeente of het samenwerkingsverband in staat te stellen inburgeraars deel te laten nemen aan:
 
@@ -86,7 +112,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Financiële bijdrage, inburgeringsvoorziening en persoonlijk inburgeringsbudget
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten behoeve van het jaar 2007 stelt de Minister ambtshalve een voorschot op de financiële bijdrage vast welke vóór 26 februari 2007 bekend wordt gemaakt.
 
@@ -98,7 +124,7 @@ In deze regeling wordt verstaan onder:
 
 5. Voorschotten worden uiterlijk binnen zes maanden na de vaststelling ervan betaald.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het college of het bestuur kan aan een inburgeraar een inburgeringsvoorziening of een gecombineerde inburgeringsvoorziening aanbieden die op de persoonlijke situatie van de inburgeraar is afgestemd. Indien de inburgeraar daarom verzoekt, kan de inburgeringsvoorziening of de inburgeringscomponent van de gecombineerde inburgeringsvoorziening worden aangeboden in de vorm van een persoonlijk inburgeringsbudget.
 
@@ -110,7 +136,7 @@ In deze regeling wordt verstaan onder:
 
 5. De inburgeraar is de in [artikel 23, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=23) bedoelde eigen bijdrage verschuldigd, tenzij hij op last van het college of bestuur, dan wel een andere instantie, genoemd in [artikel 21, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=21), een gecombineerde inburgeringsvoorziening dient te volgen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tegelijkertijd met het doen van het aanbod, bedoeld in [artikel 4a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020646&hoofdstuk=2&artikel=4a&z=2013-01-01&g=2013-01-01), informeert het college of het bestuur de inburgeraar omtrent de hoofdlijnen van de met hem te sluiten overeenkomst terzake van de vaststelling van zijn inburgeringsvoorziening, gecombineerde inburgeringsvoorziening dan wel taalkennisvoorziening.
 
@@ -128,13 +154,13 @@ In deze regeling wordt verstaan onder:
 
 4. De overeenkomst wordt door partijen niet later ondertekend dan 31 december 2009.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de inburgeraar het inburgeringsexamen heeft behaald, ontvangt hij het inburgeringsdiploma.
 
 2. Het inburgeringsdiploma wordt uitgereikt door de Minister.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het college of het bestuur, de exameninstellingen en de Minister verstrekken aan de beheerder van het Informatiesysteem Inburgering uit eigen beweging of op verzoek kosteloos alle gegevens die noodzakelijk zijn voor de uitvoering van de onderhavige regeling.
 
@@ -148,7 +174,7 @@ In deze regeling wordt verstaan onder:
 
 4. De termijn, bedoeld in het derde lid, onderdeel a, vangt aan op de dag waarop de gegevens in het Informatiesysteem Inburgering zijn opgenomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De inburgeraar die op 1 januari 2007 deelneemt aan een opleiding educatie als bedoeld in [artikel 7.3.1, eerste lid, onderdeel d, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1), blijft toegelaten tot deze opleiding.
 
@@ -156,7 +182,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 3. Verstrekking prestatiegegevens, vaststelling financiële bijdrage
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het college of het bestuur verstrekt de volgende prestatiegegevens:
 
@@ -186,11 +212,11 @@ In deze regeling wordt verstaan onder:
 
 5. Het college of het bestuur vergewist zich ervan dat de gegevens, bedoeld in het eerste lid, zijn opgenomen in het Informatiesysteem Inburgering.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Minister stelt de financiële bijdrage vast aan de hand van de formule A – Q = [ ( B × C ) + ( D × E ) + ( F × G ) + ( H × I ) + ( J × K ) + ( L × M ) + ( N × O ) + ( R × S ) + ( T × U )] × P waarin wordt voorgesteld:
 
@@ -244,17 +270,17 @@ Vervallen
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van 1 januari 2007.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling vrijwillige inburgering niet-G31 2007.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Indien een inburgeraar in aanmerking wordt gebracht voor een inburgeringsvoorziening, een gecombineerde inburgeringsvoorziening dan wel een taalkennisvoorziening doet het college of het bestuur de inburgeraar terzake een aanbod.
 

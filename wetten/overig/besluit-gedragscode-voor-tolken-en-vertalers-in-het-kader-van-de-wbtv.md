@@ -1,13 +1,38 @@
 ---
 title: "Besluit gedragscode voor tolken en vertalers in het kader van de Wbtv"
 identifier: "BWBR0049280"
-categorie: "Overig"
-publicatiedatum: 2024-02-01
-laatste_update: 2024-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049280"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-02-01"
+last_updated: "2024-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049280"
+soort: "zbo"
+stam_id: "17011893"
+version_id: "29923082"
+internal_id: "C42889881"
+label_id: "16921784"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049280/2024-02-01/0"
+intitule_bron: "Stcrt.2024-176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-20"
+intitule_published: "2024-01-03"
+intitule_in_force: "2024-01-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-176"
+original_signed_date: "2023-12-20"
+original_published_date: "2024-01-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-176"
+entry_into_force_date: "2024-02-01"
+jci_1_3: "jci1.3:c:BWBR0049280&z=2024-02-01&g=2024-02-01"
+jci_1_0: "1.0:c:BWBR0049280&g=2024-02-01"
+citeertitel_status: "officieel"
+signed_date: "2023-12-20"
+entry_into_force: "2024-02-01"
 ---
-
 # Besluit gedragscode voor tolken en vertalers in het kader van de Wbtv
 
 Gelet op:
@@ -26,7 +51,7 @@ Besluit:
 
 Stelt de hiernavolgende gedragscodes voor tolken en vertalers in het kader van de [Wet beëdigde tolken en vertalers](https://wetten.overheid.nl/jci1.3:c:BWBR0022704) vast:
 
-#### Artikel I
+##### Artikel I
 
 - a. **tolk:** de in het Rbtv ingeschreven en beëdigde tolk in de zin van [artikel 1 van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=1) dan wel de op de Uitwijklijst geplaatste tolk;
 
@@ -38,19 +63,19 @@ Stelt de hiernavolgende gedragscodes voor tolken en vertalers in het kader van d
 
 - e. **De Uitwijklijst:** de lijst in de zin van [artikel 2, derde lid van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0022704&artikel=2).
 
-#### Artikel II
+##### Artikel II
 
 Het [besluit Gedragscode voor tolken en vertalers in het kader van de Wbtv](https://wetten.overheid.nl/jci1.3:c:BWBR0026509) (Stcrt. 2009, nr. 15358) wordt hierbij ingetrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit besluit met de daarbij behorende bijlagen wordt aangehaald als Besluit gedragscode voor tolken en vertalers in het kader van de Wbtv en wordt bekendgemaakt door publicatie in de Staatscourant.
 
-#### Artikel V
+##### Artikel V
 
 Dit besluit met de daarbij behorende bijlagen treedt in werking op 1 februari 2024.
 
-#### Artikel VI
+##### Artikel VI
 
 Evaluatie van de gedragscode vindt plaats binnen 10 jaar na inwerkingtreding van dit besluit.
 

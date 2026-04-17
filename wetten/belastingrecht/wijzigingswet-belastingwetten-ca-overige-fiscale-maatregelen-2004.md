@@ -1,96 +1,123 @@
 ---
-title: "Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004)"
+title: "Wet van 18 december 2003 tot wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2004)"
 identifier: "BWBR0016207"
-categorie: "Belastingrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016207"
+country: "nl"
+rank: "wet"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016207"
+soort: "wet"
+stam_id: "5567503"
+version_id: "10001782"
+internal_id: "C13517631"
+label_id: "5539094"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016207/2004-01-01/0"
+intitule_bron: "Stb.2003-527"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-18"
+intitule_published: "2003-12-29"
+intitule_in_force: "2003-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2003-527"
+original_signed_date: "2003-12-18"
+original_published_date: "2003-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "29035"
+original_url_id: "stb-2003-527"
+entry_into_force_date: "2004-01-01"
+entry_into_force_dossier: "29035"
+jci_1_3: "jci1.3:c:BWBR0016207&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0016207&g=2004-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004)"
+signed_date: "2003-12-18"
+entry_into_force: "2004-01-01"
 ---
+# Wet van 18 december 2003 tot wijziging van enkele belastingwetten c.a. (Overige fiscale maatregelen 2004)
 
-# Wijzigingswet belastingwetten c.a. (Overige fiscale maatregelen 2004)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt Invoeringswet Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Coördinatiewet Sociale Verzekering.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Kostenwet invordering rijksbelastingen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Goedkeuringswet Verdrag tussen Nederland en België tot het vermijden van dubbele belastingen en voorkomen van het ontgaan van belasting inzake belastingen naar inkomen en vermogen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wijzigingswet Wet inkomstenbelasting 2001, enz. (Belastingplan 2003 Deel I).
 
-#### Artikel XX
+##### Artikel XX
 
 Met betrekking tot voor bezwaar vatbare beschikkingen als bedoeld in [artikel 28r, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28r), en betalingen als bedoeld in [artikel 28s, eerste lid, van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=28s), zoals opgenomen in [artikel IX, onderdelen A en B, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0016207&artikel=IX&z=2004-01-01&g=2004-01-01), gegeven respectievelijk verricht vóór de datum van inwerkingtreding van deze wet, eindigt de termijn voor het indienen van een bezwaarschrift, in afwijking van [artikel 22j van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=22j) en [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) zes weken na de datum van inwerkingtreding van deze wet.
 
-#### Artikel XXA
+##### Artikel XXA
 
 1. Voor het kalenderjaar 2004 blijven voor de willekeurige afschrijving op films en filminvesteringsaftrek de [artikelen 3.33, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.33), [3.36](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.36), [3.37](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.37), [3.40](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.40), [3.42b, eerste tot en met het zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b), [3.44](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.44), [3.47a](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.47a), [3.52](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) en [10.10 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), en de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8) en [18 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=18), alsmede de daarop berustende bepalingen, zoals die artikelen en bepalingen luidden op 31 december 2003, van toepassing met betrekking tot voortbrengingskosten gemaakt voor 1 januari 2005.
 
@@ -100,11 +127,11 @@ Met betrekking tot voor bezwaar vatbare beschikkingen als bedoeld in [artikel 28
 
 4. Indien een verzoek om een verklaring als bedoeld in [artikel 3.42b, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) is ingediend na 31 december 2003 doch voor 1 januari 2005, kan- in afwijking in zoverre van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42b) – Onze Minister van Economische Zaken de verklaring afgeven indien deze nog past binnen het hiervoor in de rijksbegroting 2003 opgenomen bedrag.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Indien het bij koninklijke boodschap van 23 mei 2003 ingediende voorstel van wet tot wijziging van de Kostenwet invordering rijksbelastingen (28 917) tot wet wordt verheven, en in werking treedt, wordt bij de toepassing van [artikel 8, eerste lid, van de Kostenwet invordering rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002645&artikel=8) de correctiefactor bij het begin van het jaar 2005 verlaagd met 0,023 en bij het begin van de jaren 2006, 2007 en 2008 met 0,014.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16) treedt deze wet in werking met ingang van 1 januari 2004, met dien verstande dat:
 

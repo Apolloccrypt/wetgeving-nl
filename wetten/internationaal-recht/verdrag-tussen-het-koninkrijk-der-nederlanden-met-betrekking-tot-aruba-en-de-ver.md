@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden met betrekking tot Aruba en de Verenigde Staten van Amerika inzake douanevoorinspectie"
 identifier: "BWBV0001956"
-categorie: "Internationaal recht"
-publicatiedatum: 2009-01-07
-laatste_update: 2008-05-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001956"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-01-07"
+last_updated: "2008-05-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001956"
+soort: "verdrag"
+stam_id: "10002583133"
+version_id: "10002573762"
+internal_id: "C10006986791"
+label_id: "10002572414"
+dtd_version: "2.0"
+original_entry_into_force: "1996-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001956/2009-01-07/0"
+intitule_bron: "Trb.1994-276"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-01-01"
+intitule_published: "1994-12-28"
+intitule_in_force: "1996-04-17"
+intitule_status: "goed"
+original_publication: "Trb.1994-276"
+original_signed_date: "1995-01-01"
+original_published_date: "1994-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-276"
+entry_into_force_date: "1996-03-04"
+jci_1_3: "jci1.3:c:BWBV0001956&z=2009-01-07&g=2009-01-07"
+jci_1_0: "1.0:c:BWBV0001956&g=2009-01-07"
+citeertitel_status: "redactioneel"
+signed_date: "1995-01-01"
+entry_into_force: "1996-03-04"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden met betrekking tot Aruba en de Verenigde Staten van Amerika inzake douanevoorinspectie
 
 The Government of the Kingdom of the Netherlands, in respect of Aruba, and the Government of the United States of America (hereinafter referred to as the Parties);
@@ -18,7 +43,7 @@ Considering that the laws of the two countries governing merchandise or articles
 
 Agree as follows:
 
-#### Article I
+##### Article I
 
 For the purposes of the Agreement:
 
@@ -34,17 +59,17 @@ For the purposes of the Agreement:
 
 - f). "Private Aircraft" means an aircraft engaged in a personal or business flight to the territory of the United States which is not carrying passengers and/or cargo for commercial purposes.
 
-#### Article II
+##### Article II
 
 a). Flights eligible for preclearance shall consist of any commercial flight (scheduled or charter, including ferry flights) of any size aircraft and any flight by private aircraft that is destined nonstop to the territory of the United States of America, so long as preclearance service has been requested and approved by U.S. inspection agencies for that flight. State aircraft will be considered by the U.S. inspection agencies on a case by case basis.
 
 b). Cargo shall not be eligible for preclearance under this Agreement.
 
-#### Article III
+##### Article III
 
 In accordance with United States Immigration, customs and public health laws and regulations, U.S. inspection agencies may refuse passage onwards to the United States to any passenger or aircraft crew member on a flight subject to preclearance who refuses to comply with applicable laws and procedures. Except in circumstances arising under Article IV (g) of this agreement, no citizen of the United States or alien lawfully resident in the U.S. may be refused onwards to the United States.
 
-#### Article IV
+##### Article IV
 
 The Government of Aruba shall:
 
@@ -72,7 +97,7 @@ The Government of Aruba shall:
 
 - i). Upon request of a United States inspection agency, provide appropriate medical assistance and, where necessary, access to medical isolation facilities for persons subject to preclearance who are suspected of having an infectious disease proscribed under United States public health laws and regulations.
 
-#### Article V
+##### Article V
 
 The Government of the United States of America shall:
 
@@ -92,17 +117,17 @@ The Government of the United States of America shall:
 
 - d). Have the United States inspection agencies advise the appropriate Aruban authorities of the refusal and supply all data appropriate and relevant to that decision when a person is refused passage onward to the United States in accordance with Article III or when a search or seizure is made under Article IV.
 
-#### Article VI
+##### Article VI
 
 a). United States citizen employees of the Government of the United States of America, assigned to preclearance duties in Aruba under this Agreement, shall not be amenable to the jurisdiction of the judicial or administrative authorities in Aruba in respect of any acts performed by them in the exercise of their duties under this Agreement. Such employees and members of their families forming part of their households, except those who are permanent residents of Aruba, shall also be accorded such further privileges and immunities as are accorded to consular officers and members of their families under the Vienna Convention on Consular Relations.
 
 b). The Government of Aruba or the competent authority of Aruba shall take all appropriate steps to protect the facilities used by the Preclearance Officers for the purposes of carrying out preclearance against intrusion or damage and to protect the official archives and documents maintained at such facilities. Such official archives and documents shall enjoy the same inviolability as consular archives and documents under the Vienna Convention on Consular Relations.
 
-#### Article VII
+##### Article VII
 
 The United States may extend the application of any of its customs, immigration, agriculture and public health laws and regulations to aircraft, passengers, aircraft crew, baggage, cargo and aircraft stores in Aruba which are subject to preclearance, for the purpose of establishing and enforcing penalties for violations of these laws and regulations upon arrival in the United States.
 
-#### Article VIII
+##### Article VIII
 
 The Parties agree that any air carrier or aircraft commander should have the option to use either preclearance or post-clearance subject to the following conditions:
 
@@ -122,7 +147,7 @@ The Parties agree that any air carrier or aircraft commander should have the opt
 
 - (ii). Aircraft commanders shall be required to comply with laws governing landing, entry and clearance in the United States. The Government of Aruba will endeavor to ensure that all aircraft commanders seeking preclearance provide advance notice of their departure from Aruba to the United States in accordance with procedures to be agreed upon between the implementing authorities in order to schedule preclearance services.
 
-#### Article IX
+##### Article IX
 
 The cost of preclearance shall be borne as follows:
 
@@ -134,19 +159,19 @@ The cost of preclearance shall be borne as follows:
 
 - d). Any charges related to preclearance levied upon participating air carriers and aircraft commanders shall be assessed in a fair and reasonable manner.
 
-#### Article X
+##### Article X
 
 Either Government may at any time request consultations concerning the interpretation, application or amendment of this Agreement, including the facilities annex and attachments. Such consultations shall begin within 60 days from the date the other Government receives the request.
 
-#### Article XI
+##### Article XI
 
 As far as the Kingdom of the Netherlands is concerned, this Agreement shall be applicable only to Aruba.
 
-#### Article XII
+##### Article XII
 
 The provisions of the Agreement shall be implemented in accordance with applicable laws of the United States and Aruba.
 
-#### Article XIII
+##### Article XIII
 
 The terms of this Agreement shall be applied provisionally as from the thirtieth day after signature and shall enter into force on the date to be determined in an exchange of diplomatic notes, indicating that all necessary internal procedures for entry into force of the Agreement have been completed by both Parties. The Agreement shall continue in force unless it is terminated by either Party giving twelve months written notice thereof to the other Party. Such notice may, however, be withdrawn before the end of the twelve month period by agreement between the two Parties.
 
@@ -164,7 +189,7 @@ DONE at Washington, in duplicate, on this 2nd day of December, 1994.
 
 (sd.) JAMES R. TARRANT
 
-#### Article I bis
+##### Article I bis
 
 For the purpose of this Agreement, the implementing authorities shall be:
 

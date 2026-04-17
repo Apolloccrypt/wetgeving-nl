@@ -1,16 +1,38 @@
 ---
 title: "Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Lissabon op 31 oktober 1958 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Stockholm op 28 september 1979"
 identifier: "BWBV0004120"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1984-06-03
-laatste_update: 1984-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004120"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-06-03"
+last_updated: "1984-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004120"
+soort: "verdrag"
+stam_id: "10003934933"
+version_id: "10004068232"
+internal_id: "C10008344741"
+label_id: "10003919924"
+dtd_version: "2.0"
+original_entry_into_force: "1975-01-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004120/1984-06-03/0"
+intitule_bron: "Trb.1969-144"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1974-12-05"
+intitule_status: "goed"
+original_publication: "Trb.1969-144"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-144"
+entry_into_force_date: "1975-01-10"
+jci_1_3: "jci1.3:c:BWBV0004120&z=1984-06-03&g=1984-06-03"
+jci_1_0: "1.0:c:BWBV0004120&g=1984-06-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-01-10"
 ---
-
 # Verdrag van Parijs tot bescherming van de industriële eigendom van 20 maart 1883, zoals herzien te Brussel op 14 december 1900, te Washington op 2 juni 1911, te 's-Gravenhage op 6 november 1925, te Londen op 2 juni 1934, te Lissabon op 31 oktober 1958 en te Stockholm op 14 juli 1967 en zoals gewijzigd te Stockholm op 28 september 1979
 
-#### Artikel 1
+##### Artikel 1
 
 1). De landen, voor welke dit Verdrag geldt, vormen een Unie tot bescherming van de industriële eigendom.
 
@@ -20,7 +42,7 @@ bron: "https://wetten.overheid.nl/BWBV0004120"
 
 4). Onder de octrooien van uitvinding zijn begrepen de verschillende soorten van octrooien van nijverheid, welke door de wetgevingen van de landen der Unie erkend zijn, zoals octrooien van invoer, verbeteringsoctrooien, aanvullingsoctrooien en -certificaten, enz.
 
-#### Artikel 2
+##### Artikel 2
 
 1). De onderdanen van elk van de landen der Unie zullen in alle andere landen der Unie, wat betreft de bescherming van de industriële eigendom, de voordelen genieten, welke de onderscheidene wetten op dit ogenblik aan de nationalen toekennen, dit alles onverminderd de rechten, welke door dit Verdrag in het bijzonder worden toegekend. Dientengevolge zullen zij dezelfde bescherming hebben als dezen en hetzelfde wettelijk verhaal tegen elke inbreuk op hun rechten, mits zij de voorwaarden en formaliteiten nakomen, aan de nationalen opgelegd.
 
@@ -28,11 +50,11 @@ bron: "https://wetten.overheid.nl/BWBV0004120"
 
 3). De bepalingen der wetgeving van elk van de landen der Unie met betrekking tot de rechterlijke of administratieve procesgang en de bevoegdheid, benevens tot de keuze van domicilie of het stellen van een gemachtigde, indien de wetten op de industriële eigendom zulks zouden vorderen, worden uitdrukkelijk voorbehouden.
 
-#### Artikel 3
+##### Artikel 3
 
 Met de onderdanen van de landen der Unie worden gelijkgesteld de onderdanen van de landen, welke niet deel uitmaken der Unie, die op het grondgebied van een der landen van de Unie woonplaats hebben of aldaar daadwerkelijke en wezenlijke inrichtingen van nijverheid of handel bezitten.
 
-#### Artikel 4
+##### Artikel 4
 
 - 1). Hij, die op regelmatige wijze een aanvrage om octrooi van uitvinding, een gebruiksmodel, een tekening of model van nijverheid of een fabrieks- of handelsmerk in een van de landen der Unie heeft gedeponeerd, of zijn rechtverkrijgende, zal voor het verrichten van het depot in de andere landen gedurende de hierna te bepalen termijnen een recht van voorrang genieten.
 
@@ -78,7 +100,7 @@ H. De voorrang kan niet worden geweigerd wegens het ontbreken, onder de aansprak
 
 - 2). In een land waar de aanvragers het recht hebben naar eigen keuze een octrooi dan wel een uitvinderscertificaat aan te vragen, geniet de aanvrager van een uitvinderscertificaat, volgens de bepalingen in dit artikel die van toepassing zijn op aanvragen om octrooi, het recht van voorrang gegrond op het depot van een aanvrage om een octrooi van uitvinding, een gebruiksmodel of een uitvinderscertificaat.
 
-#### Artikel 4bis
+##### Artikel 4bis
 
 1). De octrooien, aangevraagd in de verschillende landen der Unie door onderdanen der Unie-landen, zullen onafhankelijk zijn van de octrooien, verkregen voor dezelfde uitvinding in de andere landen, onverschillig of deze al dan niet tot de Unie zijn toegetreden.
 
@@ -90,15 +112,15 @@ H. De voorrang kan niet worden geweigerd wegens het ontbreken, onder de aansprak
 
 5). De octrooien, verkregen met het genot van het recht van voorrang, zullen in de verschillende landen der Unie een duur genieten gelijk aan die, welke zij zouden genieten, indien zij waren aangevraagd of verleend zonder het genot van het recht van voorrang.
 
-#### Artikel 4ter
+##### Artikel 4ter
 
 De uitvinder heeft het recht als zodanig in het octrooi te worden vermeld.
 
-#### Artikel 4quater
+##### Artikel 4quater
 
 De verlening van een octrooi zal niet kunnen worden geweigerd en een octrooi zal niet kunnen worden nietig verklaard op grond van het feit, dat de verkoop van het geoctrooieerde voortbrengsel of van het voortbrengsel dat is verkregen door toepassing van een geoctrooieerde werkwijze, uit hoofde van de nationale wetgeving onderworpen is aan belemmeringen of beperkingen.
 
-#### Artikel 5
+##### Artikel 5
 
 - 1). De invoer, door de octrooihouder, in het land, waar het octrooi werd verleend, van voorwerpen, vervaardigd in een of ander land der Unie, zal het octrooi niet doen vervallen.
 
@@ -120,13 +142,13 @@ B. De bescherming der tekeningen en modellen van nijverheid kan niet worden getr
 
 D. Generlei teken of vermelding van het octrooi, van het gebruiksmodel, van de inschrijving van het fabrieks- of handelsmerk of van het depot van de tekening of het model van nijverheid zal, voor de erkenning van het recht, op de waar worden geëist.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 1). Een termijn van uitstel, die tenminste zes maanden zal moeten zijn, zal worden toegestaan voor de voldoening van de taksen, bepaald voor het behoud van de rechten van industriële eigendom, met betaling van een verhoogde taks, indien de nationale wetgeving deze oplegt.
 
 2). De landen der Unie hebben de bevoegdheid het herstel te regelen van octrooien van uitvinding, die wegens niet-betaling der taksen vervallen zijn.
 
-#### Artikel 5ter
+##### Artikel 5ter
 
 In elk van de landen der Unie zal niet als inbreuk op de rechten van de octrooihouder worden aangemerkt:
 
@@ -134,15 +156,15 @@ In elk van de landen der Unie zal niet als inbreuk op de rechten van de octrooih
 
 - 2). het gebruik van datgene, wat het voorwerp van het octrooi uitmaakt in de constructie of werking van voor de voortbeweging in de lucht of te land dienende machines van de andere landen der Unie, of van het toebehoren der machines, wanneer deze tijdelijk of bij toeval dat land binnenkomen.
 
-#### Artikel 5quater
+##### Artikel 5quater
 
 Indien een voortbrengsel wordt ingevoerd in een land der Unie, waar een octrooi bestaat, dat de werkwijze om dit voortbrengsel te vervaardigen beschermt, zal de octrooihouder ten opzichte van het ingevoerde voortbrengsel alle rechten kunnen uitoefenen, welke de wetgeving van het land van invoer hem, op grond van het octrooi voor de werkwijze, ten opzichte van in het betrokken land vervaardigde voortbrengselen toekent.
 
-#### Artikel 5quinquies
+##### Artikel 5quinquies
 
 Tekeningen en modellen van nijverheid zullen in alle landen der Unie beschermd worden.
 
-#### Artikel 6
+##### Artikel 6
 
 1). De voorwaarden voor het depot en de inschrijving van fabrieks- of handelsmerken zullen in elk van de landen der Unie door zijn nationale wetgeving worden vastgesteld.
 
@@ -150,7 +172,7 @@ Tekeningen en modellen van nijverheid zullen in alle landen der Unie beschermd w
 
 3). Een merk, dat op regelmatige wijze is ingeschreven in een land der Unie, wordt beschouwd als onafhankelijk van de merken, die in de andere landen der Unie, waaronder het land van oorsprong begrepen, zijn ingeschreven.
 
-#### Artikel 6bis
+##### Artikel 6bis
 
 1). De landen der Unie verbinden zich om, hetzij ambtshalve, indien de wetgeving van het land dit toelaat, hetzij op verzoek van de belanghebbende, de inschrijving te weigeren of nietig te verklaren en het gebruik te verbieden van een fabrieks- of handelsmerk, dat de reproduktie, nabootsing of vertaling vormt, welke verwarring kunnen wekken, van een merk, dat naar het oordeel van de bevoegde autoriteiten van het land van inschrijving of van gebruik aldaar algemeen bekend is als zijnde reeds het merk van iemand, gerechtigd tot het genieten van de voordelen van dit Verdrag, en gebruikt voor gelijke of soortgelijke waren. Hetzelfde zal gelden, wanneer het kenmerkend gedeelte van het merk de reproduktie vormt van een dergelijk algemeen bekend merk of een nabootsing, welke verwarring daarmede kan verwekken.
 
@@ -158,7 +180,7 @@ Tekeningen en modellen van nijverheid zullen in alle landen der Unie beschermd w
 
 3). Er zal geen termijn worden vastgesteld om de doorhaling of het verbod van gebruik te vorderen van die merken, welke te kwader trouw zijn ingeschreven of worden gebruikt.
 
-#### Artikel 6ter
+##### Artikel 6ter
 
 - a. De landen der Unie komen overeen om te weigeren of nietig te verklaren de inschrijving, en door daartoe passende maatregelen te verbieden het gebruik, zonder goedkeuring der bevoegde machten, hetzij als fabrieks- of handelsmerken, hetzij als bestanddeel van die merken, van wapens, vlaggen en andere staatsemblemen van de landen der Unie, van officiële door die landen aangenomen controle- en waarborgtekens en -stempels, zomede iedere nabootsing, bezien uit heraldisch oogpunt.
 
@@ -186,13 +208,13 @@ Tekeningen en modellen van nijverheid zullen in alle landen der Unie beschermd w
 
 10). De voorafgaande bepalingen verhinderen niet het gebruik maken, door de landen, van de bevoegdheid om door toepassing van artikel 6**quinquies,** letter B, onder 3°, de merken, welke zonder verkregen toestemming wapens, vlaggen en andere staatsemblemen of officiële tekens en stempels, aangenomen door een land der Unie, bevatten, alsmede de in het eerste lid genoemde onderscheidingstekens van de internationale intergouvernementele organisaties, te weigeren of nietig te verklaren.
 
-#### Artikel 6quater
+##### Artikel 6quater
 
 1). Wanneer, volgens de wetgeving van een land der Unie, de overdracht van een merk slechts geldig is, indien zij plaatsheeft tegelijk met de overdracht van de onderneming of handelszaak, waaraan het merk toebehoort, zal het, om deze geldigheid te doen erkennen, voldoende zijn, dat het gedeelte van de onderneming of handelszaak, hetwelk in dat land gelegen is, aan de verkrijger is overgedragen, met het uitsluitend recht om de waren, die het overgedragen merk dragen, daar te lande te vervaardigen of te verkopen.
 
 2). Deze bepaling legt aan de landen der Unie niet de verplichting op om de overdracht van die merken als geldig te beschouwen, waarvan het gebruik door de verkrijger inderdaad bij het publiek verwarring zou kunnen wekken, met name voor wat betreft de herkomst, de aard of de kenmerkende eigenschappen der waren waarvoor het merk wordt gebruikt.
 
-#### Artikel 6quinquies
+##### Artikel 6quinquies
 
 - 1). Elk fabrieks- of handelsmerk, dat op regelmatige wijze in het land van oorsprong is ingeschreven, zal in de andere landen der Unie tot het depot toegelaten en als zodanig beschermd worden, onder de in dit artikel aangegeven voorbehouden. Deze landen zullen, alvorens tot de definitieve inschrijving over te gaan, de overlegging kunnen eisen van een verklaring van inschrijving in het land van oorsprong, afgegeven door de bevoegde autoriteit. Voor deze verklaring zal geen legalisatie worden gevorderd.
 
@@ -216,11 +238,11 @@ E. Evenwel zal in geen geval de vernieuwing van de inschrijving van een merk in 
 
 F. Het genot van het recht van voorrang blijft behouden voor het depot van merken, verricht binnen de termijn van artikel 4, zelfs wanneer de inschrijving in het land van oorsprong eerst na het verstrijken van die termijn tot stand komt.
 
-#### Artikel 6sexies
+##### Artikel 6sexies
 
 De landen van de Unie verbinden zich ertoe dienstmerken te beschermen. Zij zijn niet gehouden de inschrijving van deze merken te regelen.
 
-#### Artikel 6septies
+##### Artikel 6septies
 
 1). Indien de agent of de vertegenwoordiger van de houder van een merk in een der landen van de Unie, zonder de toestemming van deze houder de inschrijving van dat merk op eigen naam in één of meer van die landen vraagt, zal de houder het recht hebben om zich te verzetten tegen de gevraagde inschrijving, of om de doorhaling te vorderen, ofwel, indien de wet van het land dit toestaat, om de overdracht van de inschrijving te zijnen behoeve te vorderen, tenzij de agent of vertegenwoordiger zijn handelingen rechtvaardigt.
 
@@ -228,11 +250,11 @@ De landen van de Unie verbinden zich ertoe dienstmerken te beschermen. Zij zijn 
 
 3). De nationale wetgevingen hebben de bevoegdheid te voorzien in een redelijke termijn, waarbinnen de merkhouder zijn in dit artikel voorziene rechten zal moeten uitoefenen.
 
-#### Artikel 7
+##### Artikel 7
 
 De aard van de waar, waarop het fabrieks- of handelsmerk moet worden aangebracht, kan in geen geval een beletsel vormen voor de inschrijving van het merk.
 
-#### Artikel 7bis
+##### Artikel 7bis
 
 1). De landen der Unie verbinden zich tot het depot toe te laten en te beschermen de collectieve merken, die aan gemeenschappen toebehoren, welker bestaan niet strijdig is met de wet van het land van oorsprong, zelfs al bezitten die gemeenschappen niet een inrichting van nijverheid of handel.
 
@@ -240,11 +262,11 @@ De aard van de waar, waarop het fabrieks- of handelsmerk moet worden aangebracht
 
 3). Intussen zal de bescherming van deze merken niet kunnen worden geweigerd aan een gemeenschap, welker bestaan niet strijdig is met de wet van het land van oorsprong, op grond van het feit, dat zij niet gevestigd is in het land, waar de bescherming wordt gevraagd, of dat zij niet is opgericht overeenkomstig de wetgeving van dit land.
 
-#### Artikel 8
+##### Artikel 8
 
 De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of inschrijving, beschermd worden, onverschillig of hij al dan niet deel uitmaakt van een fabrieks- of handelsmerk.
 
-#### Artikel 9
+##### Artikel 9
 
 1). Elke waar, die onrechtmatig van een fabrieks- of handelsmerk of van een handelsnaam voorzien is, zal in beslag genomen worden bij de invoer in die landen der Unie, waar dat merk of die handelsnaam recht heeft op wettelijke bescherming.
 
@@ -258,13 +280,13 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 6). Indien de wetgeving van een land noch de inbeslagneming bij de invoer, noch een verbod van invoer, noch de inbeslagneming in het land zelf toelaat, zullen deze maatregelen, in afwachting dat die wetgeving dienovereenkomstig mocht worden gewijzigd, worden vervangen door de rechtsvorderingen en middelen, welke de wet van dat land in een dergelijk geval aan de onderdanen verzekert.
 
-#### Artikel 10
+##### Artikel 10
 
 1). De bepalingen van het voorgaande artikel zullen van toepassing zijn in geval van direct of indirect gebruik van een valse aanduiding betreffende de herkomst van het produkt of de identiteit van de producent, de fabrikant of de handelaar.
 
 2). In elk geval zal als belanghebbende partij, onverschillig of deze is een natuurlijke of rechtspersoon, worden erkend iedere producent, fabrikant of handelaar, die zich met de voortbrenging of vervaardiging van die waar of de handel daarin bezighoudt en gevestigd is, hetzij in de plaats, welke valselijk als plaats van herkomst is opgegeven, hetzij in de landstreek, waarin die plaats is gelegen, hetzij in het valselijk opgegeven land, hetzij in het land, waar de valse aanduiding van herkomst is gebruikt.
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 1). De landen der Unie zijn gehouden aan hen, die tot de Unie behoren, een daadwerkelijke bescherming te verlenen tegen de oneerlijke mededinging.
 
@@ -278,13 +300,13 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 - (3). aanduidingen of beweringen, waarvan het gebruik zich bij het handel drijven leent tot het verwekken van verwarring bij het publiek omtrent de aard, de wijze van vervaardiging, de kenmerken, de bruikbaarheid of de hoeveelheid van de waren.
 
-#### Artikel 10ter
+##### Artikel 10ter
 
 1). De landen der Unie verbinden zich om aan de onderdanen van de andere Unie-landen wettelijk verhaal te verzekeren, geschikt om alle handelingen, bedoeld in de artikelen 9, 10 en 10**bis,** met kracht tegen te gaan.
 
 2). Zij verbinden zich bovendien, maatregelen te treffen om aan syndicaten en verenigingen, welke de belanghebbende fabrikanten, producenten of kooplieden vertegenwoordigen en welker bestaan niet strijdig is met de wetten van hun land, toe te staan in rechte of bij administratieve autoriteiten op te treden ter bestrijding van de handelingen, bedoeld in de artikelen 9, 10 en 10**bis,** voor zover de wet van het land, waarin de bescherming wordt gevraagd, zulks toestaat aan de syndicaten en verenigingen van dat land.
 
-#### Artikel 11
+##### Artikel 11
 
 1). De landen der Unie zullen, overeenkomstig hun nationale wetgeving, een tijdelijke bescherming verlenen aan de voor octrooi vatbare uitvindingen, de gebruiksmodellen, de tekeningen of modellen van nijverheid, alsmede aan de fabrieks- of handelsmerken, voor de waren, welke op de officiële of officieel erkende internationale tentoonstellingen, in een dier landen gehouden, zullen worden tentoongesteld.
 
@@ -292,7 +314,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 3). Elk land zal als bewijs van de identiteit van het tentoongestelde voorwerp en van de datum, waarop het ter tentoonstelling is aangebracht, de bewijsstukken kunnen eisen, welke het nodig zal achten.
 
-#### Artikel 12
+##### Artikel 12
 
 1). Elk van de landen der Unie verbindt zich tot het inrichten van een bijzondere dienst van de industriële eigendom en van een centrale bewaarplaats, ten einde openbare mededeling te doen van de octrooien van uitvinding, de gebruiksmodellen, de tekeningen of modellen van nijverheid en de fabrieks- of handelsmerken.
 
@@ -302,7 +324,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 - b). de reprodukties der ingeschreven merken.
 
-#### Artikel 13
+##### Artikel 13
 
 - (a). De Unie kent een Algemene Vergadering, samengesteld uit de landen van de Unie gebonden door de artikelen 13 tot en met 17.
 
@@ -366,7 +388,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 8). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 14
+##### Artikel 14
 
 1). De Algemene Vergadering heeft een Uitvoerende Commissie.
 
@@ -420,7 +442,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 10). De Uitvoerende Commissie stelt haar reglement van orde vast.
 
-#### Artikel 15
+##### Artikel 15
 
 - a). De administratieve taken die aan de Unie ten deel vallen worden verricht door het Internationale Bureau, dat een voortzetting is van het Bureau van de Unie verenigd met het Bureau van de Unie ingesteld bij de internationale [Conventie voor de bescherming van literaire werken en kunstwerken](https://wetten.overheid.nl/jci1.3:c:BWBV0003977).
 
@@ -446,7 +468,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 16
+##### Artikel 16
 
 - a). De Unie heeft een begroting.
 
@@ -497,7 +519,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door één of meer Unielanden of door onafhankelijke controleurs, die, met hun instemming, zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 17
+##### Artikel 17
 
 1). Voorstellen tot wijziging van de artikelen 13, 14, 15, 16 en van dit artikel kunnen worden ingediend door ieder land dat lid is van de Algemene Vergadering, door de Uitvoerende Commissie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan het onderzoek der Algemene Vergadering worden ontworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
 
@@ -505,7 +527,7 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 3). De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden constitutionele procedures, door drie/vierde van de landen, die lid waren van de Algemene Vergadering op het tijdstip waarop de wijziging werd aangenomen. Een aldus aanvaarde wijziging van de genoemde artikelen bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum lid worden; wijzigingen die de financiële verplichtingen van de landen verzwaren, binden evenwel slechts die landen, die te kennen hebben gegeven deze wijzigingen te aanvaarden.
 
-#### Artikel 18
+##### Artikel 18
 
 1). Dit Verdrag wordt onderworpen aan herzieningen ten einde daarin de verbeteringen aan te brengen die kunnen strekken tot vervolmaking van het stelsel der Unie.
 
@@ -513,11 +535,11 @@ De handelsnaam zal in alle landen der Unie, zonder verplichting van depot of ins
 
 3). Wijzigingen in de artikelen 13 tot en met 17 vinden plaats ingevolge het bepaalde in artikel 17.
 
-#### Artikel 19
+##### Artikel 19
 
 Het is wel verstaan, dat de landen der Unie zich het recht voorbehouden afzonderlijk onderling bijzondere overeenkomsten te treffen tot bescherming van de industriële eigendom, voor zover deze overeenkomsten niet in strijd zijn met de bepalingen van dit Verdrag.
 
-#### Artikel 20
+##### Artikel 20
 
 - a). Elk Unie-land dat deze akte heeft ondertekend kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden. De akten van bekrachtiging en toetreding worden nedergelegd bij de Directeur-Generaal.
 
@@ -537,7 +559,7 @@ Het is wel verstaan, dat de landen der Unie zich het recht voorbehouden afzonder
 
 3). Voor elk Unie-land, dat een akte van bekrachtiging of toetreding nederlegt, treden de artikelen 18 tot en met 30 in werking op de eerste datum waarop een van de beide groepen artikelen bedoeld in het eerste lid onder letter b), voor dit land in werking treedt overeenkomstig het bepaalde in het tweede lid onder letter a), b) of c).
 
-#### Artikel 21
+##### Artikel 21
 
 1). Landen die geen lid zijn van de Unie kunnen tot deze akte toetreden en worden daardoor lid van de Unie. De akten van toetreding worden nedergelegd bij de Directeur-Generaal.
 
@@ -551,15 +573,15 @@ Het is wel verstaan, dat de landen der Unie zich het recht voorbehouden afzonder
 
 3). Voor elk land dat geen lid is van de Unie en dat zijn akte van toetreding heeft nedergelegd na de inwerkingtreding van de Akte in haar geheel of tenminste een maand voor deze datum, treedt deze Akte in werking drie maanden na de datum waarop van de toetreding van dat land door de Directeur-Generaal kennis is gegeven, tenzij in de akte van toetreding een latere datum is vermeld. In dat laatste geval treedt deze Akte voor dit land in werking op de aldus aangegeven datum.
 
-#### Artikel 22
+##### Artikel 22
 
 Onverminderd de mogelijke uitzonderingen bedoeld in de artikelen 20, eerste lid, letter b) en 28, tweede lid, houdt bekrachtiging of toetreding van rechtswege in toetreding tot alle bepalingen en toelating tot alle voordelen in deze Akte vastgelegd.
 
-#### Artikel 23
+##### Artikel 23
 
 Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden tot vroegere Akten van dit Verdrag.
 
-#### Artikel 24
+##### Artikel 24
 
 1). Elk land kan in zijn akte van bekrachtiging of toetreding verklaren of op ieder later tijdstip, de Directeur-Generaal schriftelijk mededelen dat dit Verdrag van toepassing is op alle of een gedeelte van de gebieden, aangegeven in de verklaring of kennisgeving, voor de buitenlandse betrekkingen waarvan dat land verantwoordelijk is.
 
@@ -569,13 +591,13 @@ Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden 
 
 - b). Mededelingen krachtens het tweede lid treden in werking twaalf maanden na ontvangst daarvan door de Directeur-Generaal.
 
-#### Artikel 25
+##### Artikel 25
 
 1). Ieder land, partij bij dit Verdrag, verbindt zich overeenkomstig zijn grondwet de nodige maatregelen te treffen om de toepassing van dit Verdrag te verzekeren.
 
 2). Het is wel verstaan, dat op het ogenblik waarop een land zijn akte van bekrachtiging of toetreding nederlegt, het overeenkomstig zijn binnenlandse wetgeving in staat is aan de bepalingen van dit Verdrag uitvoering te geven.
 
-#### Artikel 26
+##### Artikel 26
 
 1). Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
@@ -585,7 +607,7 @@ Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden 
 
 4). De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren te rekenen van de datum waarop dat land lid is geworden van de Unie.
 
-#### Artikel 27
+##### Artikel 27
 
 1). Deze Akte vervangt in de betrekkingen tussen de landen, voor welke zij van toepassing is en voor zover zij van toepassing is, het Verdrag van Parijs van 20 maart 1883 en de daarop gevolgd zijnde Akten van herziening.
 
@@ -597,7 +619,7 @@ Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden 
 
 3). Landen die geen lid zijn van de Unie, die partij worden bij deze Akte, passen deze toe ten aanzien van elk Unie-land dat geen partij is bij deze Akte of dat, wel partij zijnde, de verklaring bedoeld in artikel 20, eerste lid, onder letter b) sub i), heeft afgelegd. Deze landen stemmen ermede in dat het genoemde Unieland in zijn betrekkingen met hen de bepalingen toepast van de meest recente Akte waarbij dat Unie-land partij is.
 
-#### Artikel 28
+##### Artikel 28
 
 1). Elk geschil tussen twee of meer Unie-landen betreffende de uitlegging of de toepassing van dit Verdrag dat niet door onderhandelingen kan worden beslecht, kan door een der betrokken landen worden voorgelegd aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), tenzij de betrokken landen een andere wijze ter beslechting van het geschil overeenkomen. Het Internationale Bureau dient door het eisende land in kennis te worden gesteld van het aan het Hof voorgelegde geschil; het Bureau stelt de andere landen hiervan in kennis.
 
@@ -605,7 +627,7 @@ Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden 
 
 3). Elk land dat een verklaring overeenkomstig het bepaalde in het tweede lid aflegt, kan deze te allen tijde intrekken door een aan de Directeur-Generaal gerichte kennisgeving.
 
-#### Artikel 29
+##### Artikel 29
 
 - a). Deze Akte wordt ondertekend in één enkel exemplaar in de Franse taal en nedergelegd bij de Regering van Zweden.
 
@@ -621,7 +643,7 @@ Na de inwerkingtreding van deze Akte in haar geheel kan een land niet toetreden 
 
 5). De Directeur-Generaal brenigt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding en de verklaringen vervat in deze akten, dan wel afgelegd ingevolge artikel 20, eerste lid, onder letter c), de inwerkingtreding van alle bepalingen van deze Akte, de kennisgevingen van opzegging en de mededelingen gedaan ingevolge artikel 24 ter kennis van de Regeringen van alle landen van de Unie.
 
-#### Artikel 30
+##### Artikel 30
 
 1). Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Akte naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op het Bureau van de Unie onderscheidenlijk op zijn Directeur.
 

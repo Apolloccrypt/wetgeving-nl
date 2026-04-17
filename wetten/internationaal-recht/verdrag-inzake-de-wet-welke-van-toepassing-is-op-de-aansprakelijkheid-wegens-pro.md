@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de wet welke van toepassing is op de aansprakelijkheid wegens produkten"
 identifier: "BWBV0001996"
-categorie: "Internationaal recht"
-publicatiedatum: 1979-09-01
-laatste_update: 1979-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001996"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-09-01"
+last_updated: "1979-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001996"
+soort: "verdrag"
+stam_id: "10002598023"
+version_id: "10002594932"
+internal_id: "C10006982111"
+label_id: "10002587374"
+dtd_version: "2.0"
+original_entry_into_force: "1979-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001996/1979-09-01/0"
+intitule_bron: "Trb.1974-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-06-27"
+intitule_published: "1974-06-06"
+intitule_in_force: "1979-07-24"
+intitule_status: "goed"
+original_publication: "Trb.1974-84"
+original_signed_date: "1979-06-27"
+original_published_date: "1974-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-84"
+entry_into_force_date: "1979-09-01"
+jci_1_3: "jci1.3:c:BWBV0001996&z=1979-09-01&g=1979-09-01"
+jci_1_0: "1.0:c:BWBV0001996&g=1979-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "1979-06-27"
+entry_into_force: "1979-09-01"
 ---
-
 # Verdrag inzake de wet welke van toepassing is op de aansprakelijkheid wegens produkten
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -16,7 +41,7 @@ Geleid door de wens gemeenschappelijke bepalingen vast te stellen betreffende de
 
 Hebben besloten te dien einde een Verdrag te sluiten en zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Verdrag bepaalt welke wet van toepassing is op de aansprakelijkheid van de in artikel 3 bedoelde fabrikanten en andere personen voor schade veroorzaakt door een produkt, daaronder begrepen de schade die voortvloeit uit een onjuiste beschrijving van het produkt of het ontbreken van voldoende aanwijzingen betreffende zijn hoedanigheden, zijn kenmerkende eigenschappen of zijn gebruikswijze.
 
@@ -24,7 +49,7 @@ Wanneer de eigendom of het recht op gebruik van het produkt door de persoon wien
 
 Dit Verdrag is van toepassing, welke ook de rechter of de autoriteit is die kennis dient te nemen van het geschil.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Verdrag:
 
@@ -34,7 +59,7 @@ Voor de toepassing van dit Verdrag:
 
 - c. heeft de term „persoon" zowel betrekking op een rechtspersoon als op een natuurlijk persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit Verdrag is van toepassing op de aansprakelijkheid van de volgende personen:
 
@@ -48,7 +73,7 @@ Dit Verdrag is van toepassing op de aansprakelijkheid van de volgende personen:
 
 Dit Verdrag is eveneens van toepassing op de aansprakelijkheid van vertegenwoordigers of ondergeschikten van een der bovengenoemde personen.
 
-#### Artikel 4
+##### Artikel 4
 
 De toepasselijke wet is de interne wet van de Staat op wiens grondgebied het schade berokkenende feit zich heeft voorgedaan, indien die Staat tevens is:
 
@@ -58,7 +83,7 @@ De toepasselijke wet is de interne wet van de Staat op wiens grondgebied het sch
 
 - c. de Staat op wiens grondgebied hot produkt is verkregen door de persoon die rechtstreeks schade lijdt.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd het bepaalde in artikel 4 is de toepasselijke wet de interne wet van de Staat van de gewone verblijfplaats van de persoon die rechtstreeks schade lijdt, indien die Staat tevens is:
 
@@ -66,15 +91,15 @@ Onverminderd het bepaalde in artikel 4 is de toepasselijke wet de interne wet va
 
 - b. de Staat op wiens grondgebied het produkt is verkregen door de persoon die rechtstreeks schade lijdt.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien geen van de in de artikelen 4 en 5 genoemde wetten van toepassing is, is de toepasselijke wet de interne wet van de Staat van de voornaamste vestiging van de persoon wiens aansprakelijkheid in het geding is, tenzij de eiser zijn eis grondt op de interne wet van de Staat op wiens grondgebied het schade berokkenende feit zich heeft voorgedaan.
 
-#### Artikel 7
+##### Artikel 7
 
 Noch de wet van de Staat op wiens grondgebied het schade berokkenende feit zich heeft voorgedaan, noch de wet van de Staat van de gewone verblijfplaats van de persoon die rechtstreeks schade lijdt zijn ingevolge de artikelen 4, 5 en 6 van toepassing, indien de persoon wiens aansprakelijkheid in het geding is aantoont, dat hij redelijkerwijs niet kon hebben voorzien dat het produkt of zijn eigen produkten van hetzelfde type in de betrokken Staat in de handel zouden worden gebracht.
 
-#### Artikel 8
+##### Artikel 8
 
 De toe te passen wet bepaalt met name:
 
@@ -96,37 +121,37 @@ De toe te passen wet bepaalt met name:
 
 - 9. de verjaringen en vervallen verklaringen, gegrond op het verstrijken van een termijn; hieronder begrepen de aanvang, de onderbreking en de schorsing van de termijnen.
 
-#### Artikel 9
+##### Artikel 9
 
 De toepassing van de artikelen 4, 5 en 6 staat er niet aan in de weg, dat rekening wordt gehouden met die veiligheidsvoorschriften die van kracht zijn in de Staat op wiens grondgebied het produkt in de markt was gebracht.
 
-#### Artikel 10
+##### Artikel 10
 
 De toepassing van een der door dit Verdrag toepasselijk verklaarde wetten mag slechts dan worden geweigerd, indien die toepassing klaarblijkelijk in strijd zou zijn met de openbare orde.
 
-#### Artikel 11
+##### Artikel 11
 
 De toepassing van de voorgaande artikelen van dit Verdrag is niet afhankelijk van enig vereiste van wederkerigheid. Het Verdrag vindt toepassing zelfs indien de toepasselijke wet niet de wet is van een Verdragsluitende Partij.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien een Staat verscheidene gebiedsdelen omvat, die elk hun eigen rechtsregels hebben ten aanzien van de aansprakelijkheid wegens produkten, wordt voor de bepaling van de volgens het Verdrag toepasselijke wet elk gebiedsdeel als een Staat beschouwd.
 
-#### Artikel 13
+##### Artikel 13
 
 Een Staat waarbinnen verscheidene gebiedsdelen hun eigen rechtsregels hebben ten aanzien van die aansprakelijkheid wegens produkten is niet gehouden tot toepassing van dit Verdrag, wanneer een Staat met een eenvormig rechtsstelsel niet gehouden is de wet van een andere Staat toe te passen krachtens die artikelen 4 en 5 van dit Verdrag.
 
-#### Artikel 14
+##### Artikel 14
 
 Een Verdragsluitende Staat die twee of meer gebiedsdelen omvat die elk hun eigen rechtsregels hebben ten aanzien van de aansprakelijkheid wagens produkten kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag zich zal uitstrekken tot al die gebiedsdelen of slechts tot een of meer daarvan en hij kan te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
 Deze verklaringen woerden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van Nederland en geven uitdrukkelijk aan op welke gebiedsdelen het Verdrag van toepassing is.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit Verdrag laat onverlet de verdragen betreffende bijzondere onderwerpen, waarbij de Verdragsluitende Partijen partij zijn of worden en die bepalingen bevatten inzake de aansprakelijkheid wegens produkten.
 
-#### Artikel 16
+##### Artikel 16
 
 Elke Verdragsluitende Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding zich het recht voorbehouden:
 
@@ -140,25 +165,25 @@ Elke Verdragsluitende Staat kan eveneens, bij het kennisgeven van een uitbreidin
 
 Elke Verdragsluitende Staat kan een door hem gemaakt voorbehoud te allen tijde intrekken; de werking van het voorbehoud houdt op met ingang van de eerste dag van de derde kalendermaand volgend op de kennisgeving van intrekking.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag staat open voor ondertekening door de Staten die lid waren van de Haagse Conferentie voor internationaal privaatrecht ten tijde van haar twaalfde zitting.
 
 Het dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 18
+##### Artikel 18
 
 Elke Staat die eerst na de twaalfde zitting lid van de Conferentie is geworden, of die lid is van de Organisatie der Verenigde Naties of van een van de gespecialiseerde organisaties daarvan, of die partij is bij het [Statuut van het Internationale Gerechtshof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509), kan tot dit Verdrag toetreden na de inwerkingtreding ervan overeenkomstig artikel 20.
 
 De akte van toetreding dient te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 19
+##### Artikel 19
 
 Elke Staat kan, op het tijdstip van ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding verklaren dat dit Verdrag zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot een of meer van deze gebieden. Deze verklaring geldt vanaf het tijdstip van de inwerkingtreding van het Verdrag voor genoemde Staat.
 
 Daarna dient elke zodanige uitbreiding ter kennis te worden gebracht van het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 20
+##### Artikel 20
 
 Dit Verdrag treedt in werking op de eerste dag van de derde kalendermaand na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring bedoeld in de tweede alinea van artikel 17.
 
@@ -170,7 +195,7 @@ Daarna treedt het Verdrag in werking:
 
 - -. voor de gebiedsdelen waartoe het Verdrag zich uitstrekt overeenkomstig artikel 19, op de eerste dag van de derde kalendermaand na de in dit artikel bedoelde kennisgeving.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Verdrag heeft een looptijd van vijf jaar vanaf de datum van zijn inwerkingtreding overeenkomstig de eerste alinea van artikel 20, zelfs voor de Staten die het daarna hebben bekrachtigd, aanvaard of goedgekeurd, of daartoe zijn toegetreden.
 
@@ -180,7 +205,7 @@ De opzegging wordt, ten minste zes maanden voor het verstrijken van het tijdvak 
 
 De opzegging geldt slechts ten aanzien van de Staat die haar heeft gedaan. Voor de andere Verdragsluitende Staten blijft het Verdrag van kracht.
 
-#### Artikel 22
+##### Artikel 22
 
 Het Ministerie van Buitenlandse Zaken van Nederland stelt de Lid-Staten van de Conferentie, alsmede de Staten die overeenkomstig het bepaalde in artikel 18 zijn toegetreden, in kennis van:
 

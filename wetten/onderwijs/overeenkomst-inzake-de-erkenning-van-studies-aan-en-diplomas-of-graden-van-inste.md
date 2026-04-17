@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de erkenning van studies aan, en diploma's of graden van instellingen van hoger onderwijs in de Staten, behorende tot de Europese Regio"
 identifier: "BWBV0003973"
-categorie: "Onderwijs"
-publicatiedatum: 1982-07-15
-laatste_update: 1982-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003973"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-07-15"
+last_updated: "1982-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003973"
+soort: "verdrag"
+stam_id: "10003792063"
+version_id: "10003857812"
+internal_id: "C10006981791"
+label_id: "10003777284"
+dtd_version: "2.0"
+original_entry_into_force: "1982-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003973/1982-07-15/0"
+intitule_bron: "Trb.1981-252"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1981-12-14"
+intitule_in_force: "1982-07-19"
+intitule_status: "goed"
+original_publication: "Trb.1981-252"
+original_published_date: "1981-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-252"
+entry_into_force_date: "1982-07-15"
+jci_1_3: "jci1.3:c:BWBV0003973&z=1982-07-15&g=1982-07-15"
+jci_1_0: "1.0:c:BWBV0003973&g=1982-07-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1982-07-15"
 ---
-
 # Overeenkomst inzake de erkenning van studies aan, en diploma's of graden van instellingen van hoger onderwijs in de Staten, behorende tot de Europese Regio
 
 Preambule
@@ -46,7 +68,7 @@ Zijn overeengekomen als volgt:
 
 ## I. BEGRIPSBEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „erkenning” van een buitenlands getuigschrift of diploma of een buitenlandse graad verstaan de aanvaarding daarvan als geldig bewijsstuk door de bevoegde autoriteiten van een Overeenkomstsluitende Staat en het toekennen aan de bezitter daarvan van rechten als die welke personen genieten die een getuigschrift, diploma of graad uit eigen land bezitten, waarmee het buitenlandse getuigschrift of diploma of de buitenlandse graad vergelijkbaar wordt geacht.
 
@@ -62,7 +84,7 @@ Erkenning wordt verder als volgt omschreven:
 
 ## II. DOELSTELLINGEN
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Overeenkomstsluitende Staten zijn voornemens door hun gezamenlijk optreden bij te dragen tot zowel de bevordering van de actieve samenwerking van alle landen in de Europese Regio ten behoeve van vrede en internationaal begrip, als tot de ontwikkeling van een doeltreffender samenwerking met andere Lid-Staten van de Unesco met betrekking tot een beter gebruik van hun potentieel op het gebied van onderwijs, technologie en wetenschap.
 
@@ -90,13 +112,13 @@ Erkenning wordt verder als volgt omschreven:
 
 ## III. VERPLICHTINGEN INZAKE ONMIDDELLIJKE UITVOERING
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Overeenkomstsluitende Staten nemen, behalve alle verplichtingen van hun Regeringen, tevens de verplichting op zich, alle passende maatregelen te treffen om de betrokken bevoegde autoriteiten aan te moedigen getuigschriften en andere diploma's die ter afsluiting van een studie op secundair niveau zijn behaald in de andere Overeenkomstsluitende Staten en waarvan het bezit recht geeft op toelating tot hoger onderwijs, te erkennen overeenkomstig het bepaalde in artikel 1, eerste lid, ten einde de bezitters van zodanige getuigschriften of diploma's in staat te stellen een studie aan te vangen aan een instelling voor hoger onderwijs op het grondgebied van een van de Overeenkomstsluitende Staten.
 
 2. Onverminderd het bepaalde in artikel 1, eerste lid (a), kan de toelating tot een bepaalde instelling voor hoger onderwijs echter tevens afhankelijk worden gesteld van de plaatsingsmogelijkheden en van de eisen ten aanzien van de talenkennis waaraan moet worden voldaan om met vrucht het onderwijs in kwestie te kunnen volgen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Overeenkomstsluitende Staten nemen, behalve alle verplichtingen van hun Regeringen, tevens de verplichting op zich alle passende maatregelen te treffen om de betrokken bevoegde autoriteiten aan te moedigen:
 
@@ -106,15 +128,15 @@ Erkenning wordt verder als volgt omschreven:
 
 2. Het bepaalde in artikel 3, tweede lid hierboven, is van toepassing op de in dit artikel bedoelde gevallen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Staten nemen, behalve alle verplichtingen van hun Regeringen, tevens de verplichting op zich, alle passende maatregelen te treffen om de betrokken bevoegde autoriteiten aan te moedigen de getuigschriften, diploma's of graden die door de bevoegde autoriteiten van de andere Overeenkomstsluitende Staten zijn verleend, te erkennen ten behoeve van de uitoefening van een beroep, zoals bedoeld in artikel 1, eerste lid (b).
 
-#### Artikel 6
+##### Artikel 6
 
 In gevallen waarin de toelating tot onderwijsinstellingen op het grondgebied van een Overeenkomstsluitende Staat niet valt onder het gezag van die Staat, dient deze Staat de tekst van de Overeenkomst toe te zenden aan de betrokken instellingen en alles in het werk te stellen om deze instellingen de in Hoofdstuk II en III van de Overeenkomst vervatte beginselen te doen aanvaarden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Overwegend dat erkenning betrekking heeft op gevolgde studies en behaalde getuigschriften, diploma's of graden aan instellingen die zijn goedgekeurd door de betrokken bevoegde autoriteiten in de Overeenkomstsluitende Staat waarin de getuigschriften, diploma's of graden werden behaald, kan een ieder die een zodanige studie heeft gevolgd of een zodanig getuigschrift of diploma of een zodanige graad heeft behaald, ongeacht de nationaliteit of de politieke of wettelijke status van betrokkene, in aanmerking komen voor de in de artikelen 3, 4 en 5 bedoelde voordelen.
 
@@ -122,7 +144,7 @@ In gevallen waarin de toelating tot onderwijsinstellingen op het grondgebied van
 
 ## IV. PROCEDURE VOOR DE UITVOERING
 
-#### Artikel 8
+##### Artikel 8
 
 De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezenlijking van de in artikel 2 omschreven doeleinden en stellen alle pogingen in het werk om de nakoming van de verplichtingen te verzekeren die in de artikelen 3, 4, 5 en 6 worden omschreven, en wel door middel van
 
@@ -132,7 +154,7 @@ De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezen
 
 - (c). bilaterale of subregionale organen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Overeenkomstsluitende Staten beseffen dat voor de verwezenlijking van de doeleinden en de nakoming van de in deze Overeenkomst omschreven verplichtingen nauwe samenwerking en coördinatie op nationaal niveau nodig is met betrekking tot de inspanningen van een groot aantal verschillende nationale instanties, zowel overheidsinstanties als andere lichamen, in het bijzonder universiteiten, organen, belast met de beoordeling van buitenlandse getuigschriften, diploma's en graden, en andere onderwijsinstellingen. Derhalve komen zij overeen, de bestudering van de vraagstukken die verband houden met de toepassing van deze Overeenkomst, op te dragen aan passende nationale lichamen waarbij alle desbetreffende sectoren zijn betrokken en die bevoegd zijn voorstellen voor passende oplossingen in te dienen. De Overeenkomstsluitende Staten zullen voorts alle passende maatregelen treffen die nodig zijn om het doeltreffend functioneren van deze nationale organen te bespoedigen.
 
@@ -140,7 +162,7 @@ De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezen
 
 3. Ieder nationaal orgaan dient de beschikking te hebben over de noodzakelijke middelen die het in staat stellen om alle gegevens die voor dit orgaan van nut zijn bij zijn activiteiten met betrekking tot studies aan, en diploma's of graden van instellingen van hoger onderwijs, te verzamelen, te verwerken en te registreren, of de gegevens die het in dit verband op korte termijn nodig heeft, uit een afzonderlijk nationaal documentatiecentrum te verkrijgen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Hierbij wordt een regionale commissie ingesteld, bestaande uit vertegenwoordigers van de Regeringen der Overeenkomstsluitende Staten. Het Secretariaat hiervan wordt opgedragen aan de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
@@ -150,7 +172,7 @@ De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezen
 
 4. De Regionale Commissie doet, waar zulks dienstig is, aan de Overeenkomstsluitende Staten aanbevelingen van algemene of bijzondere aard met betrekking tot de toepassing van deze Overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Regionale Commissie kiest een Voorzitter voor elke zitting en stelt haar eigen huishoudelijk reglement vast. Zij komt ten minste eenmaal in de twee jaar in een gewone zitting bijeen. De Commissie komt voor de eerste maal bijeen drie maanden nadat de zesde akte van bekrachtiging of toetreding is nedergelegd.
 
@@ -158,7 +180,7 @@ De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezen
 
 ## V. DOCUMENTATIE
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Overeenkomstsluitende Staten wisselen informatie en documentatie uit met betrekking tot studies aan, en getuigschriften, diploma's of graden van instellingen van hoger onderwijs.
 
@@ -166,23 +188,23 @@ De Overeenkomstsluitende Staten verbinden zich ertoe te streven naar de verwezen
 
 ## VI. SAMENWERKING MET INTERNATIONALE ORGANISATIES
 
-#### Artikel 13
+##### Artikel 13
 
 De Regionale Commissie treft alle passende maatregelen om de bevoegde internationale gouvernementele en niet-gouvernementele organisaties bij haar eigen inspanningen te betrekken, ten einde te verzekeren dat deze Overeenkomst zo volledig mogelijke toepassing vindt. Dit geldt in het bijzonder voor de intergouvernementele instellingen en organen die verantwoordelijk zijn voor de toepassing van subregionale overeenkomsten of akkoorden betreffende de erkenning van diploma's en graden in de Staten die tot de Europese Regio behoren.
 
 ## VII. INSTELLINGEN VOOR HOGER ONDERWIJS DIE VALLEN ONDER HET GEZAG VAN EEN OVEREENKOMSTSLUITENDE STAAT, DOCH ZICH BUITEN DIENS GRONDGEBIED BEVINDEN
 
-#### Artikel 14
+##### Artikel 14
 
 Het bepaalde in deze Overeenkomst is van toepassing op gevolgde studies en behaalde getuigschriften, diploma's en graden aan enige instelling voor hoger onderwijs vallend onder het gezag van een Overeenkomstsluitende Staat, zelfs wanneer deze instelling zich buiten diens grondgebied bevindt, mits echter de bevoegde autoriteiten van de Overeenkomstsluitende Staat waar de instelling zich bevindt, hiertegen geen bezwaar maken.
 
 ## VIII. BEKRACHTIGING, TOETREDING EN INWERKINGTREDING
 
-#### Artikel 15
+##### Artikel 15
 
 Deze Overeenkomst staat open ter ondertekening en bekrachtiging door de Staten van de Europese Regio die zijn uitgenodigd de diplomatieke conferentie, belast met de goedkeuring van deze Overeenkomst, bij te wonen, alsmede door de Heilige Stoel.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Andere Staten die lid zijn van de Verenigde Naties, van een van de Gespecialiseerde Organisaties van de Verenigde Naties, van de Internationale Organisatie voor Atoomenergie, of Staten die Partij zijn bij het Statuut van het Internationale Gerechtshof, kan toestemming worden verleend tot deze Overeenkomst toe te treden.
 
@@ -192,15 +214,15 @@ Deze Overeenkomst staat open ter ondertekening en bekrachtiging door de Staten v
 
 4. Deze procedure is eerst van toepassing wanneer de Overeenkomst door ten minste 20 van de in artikel 15 bedoelde Staten is bekrachtigd.
 
-#### Artikel 17
+##### Artikel 17
 
 Bekrachtiging van of toetreding tot deze Overeenkomst geschiedt door middel van nederlegging van een akte van bekrachtiging of toetreding bij de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze Overeenkomst treedt in werking één maand na de nederlegging van de vijfde akte van bekrachtiging, doch uitsluitend met betrekking tot de Staten die hun akten van bekrachtiging hebben nedergelegd. Deze Overeenkomst treedt ten aanzien van iedere andere Staat in werking één maand nadat die Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De Overeenkomstsluitende Staten hebben het recht deze Overeenkomst op te zeggen.
 
@@ -208,11 +230,11 @@ Deze Overeenkomst treedt in werking één maand na de nederlegging van de vijfde
 
 3. De opzegging wordt van kracht twaalf maanden na de datum van ontvangst van een zodanige kennisgeving van opzegging. Personen die gebruik hebben gemaakt van de in deze Overeenkomst geboden voordelen en die eventueel nog een studie volgen op het grondgebied van de Staat die de Overeenkomst opzegt, kunnen echter de door hen aangevangen studie voltooien.
 
-#### Artikel 20
+##### Artikel 20
 
 De Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur stelt de Overeenkomstsluitende Staten en de andere in de artikelen 15 en 16 aangeduide Staten, alsmede de Verenigde Naties, in kennis van iedere nederlegging van de akten van bekrachtiging of toetreding, bedoeld in artikel 17, en van de opzeggingen als bepaald in artikel 19 van deze Overeenkomst.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze Overeenkomst wordt overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102) bij het Secretariaat van de Verenigde Naties geregistreerd op verzoek van de Directeur-Generaal van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.
 

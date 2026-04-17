@@ -1,20 +1,44 @@
 ---
 title: "Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto"
 identifier: "BWBR0006826"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1994-07-23
-laatste_update: 1994-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006826"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-07-23"
+last_updated: "1994-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006826"
+soort: "ministeriele-regeling"
+stam_id: "4736373"
+version_id: "6553142"
+internal_id: "C7004111"
+label_id: "4714514"
+dtd_version: "2.0"
+original_entry_into_force: "1994-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006826/1994-07-23/0"
+intitule_bron: "Stcrt.1994-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-07-15"
+intitule_published: "1994-07-21"
+intitule_in_force: "1994-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1994-137"
+original_signed_date: "1994-07-15"
+original_published_date: "1994-07-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-07-23"
+jci_1_3: "jci1.3:c:BWBR0006826&z=1994-07-23&g=1994-07-23"
+jci_1_0: "1.0:c:BWBR0006826&g=1994-07-23"
+citeertitel_status: "officieel"
+signed_date: "1994-07-15"
+entry_into_force: "1994-07-23"
 ---
-
 # Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto
 
 Gelet op artikel VII, vierde en vijfde lid, van de Wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (Stb. 673);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 1. Een wagenpark als bedoeld in artikel VII, vierde lid, van de Wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto (Stb. 1993, 673), wordt aangemerkt als omvangrijk indien daarvan op 1 januari 1994 ten minste 100 motorrijtuigen deel uitmaken:
 
@@ -30,7 +54,7 @@ Besluit:
 
 4. De inspecteur neemt de beslissing op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel II
+##### Artikel II
 
 1. In het verzoek, bedoeld in artikel VII, vijfde lid, van de Wet van 16 december 1993 tot wijziging van de Wet op de belasting van personenauto's en motorrijwielen 1992 in verband met verruiming van het begrip personenauto, worden de volgende gegevens vermeld: het kenteken van het motorrijtuig waarvoor de invalidenparkeerkaart is verstrekt, het nummer van de kaart, de datum waarop de geldigheid van de kaart verstrijkt, de datum van het kentekenbewijs deel II, de naam waarop het kentekenbewijs deel II is gesteld en een omschrijving van het model, het type en de inrichting van het motorrijtuig.
 
@@ -38,10 +62,10 @@ Besluit:
 
 3. De inspecteur neemt de beslissing op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel III
+##### Artikel III
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel IV
+##### Artikel IV
 
 Deze regeling kan worden aangehaald als Uitvoeringsregeling motorrijtuigenbelasting in verband met verruiming van het begrip personenauto.

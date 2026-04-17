@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007"
+title: "Besluit van de Minister van Justitie en Veiligheid van 20 november 2025, kenmerk 6232147, houdende beperking van de openbaarheid van het archief van de van het Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007"
 identifier: "BWBR0052383"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-04
-laatste_update: 2026-03-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052383"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-04"
+last_updated: "2026-03-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052383"
+soort: "ministeriele-regeling"
+stam_id: "17791903"
+version_id: "31456782"
+internal_id: "C44928021"
+label_id: "17689664"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052383/2026-03-04/0"
+intitule_bron: "Stcrt.2026-8244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-20"
+intitule_published: "2026-03-03"
+intitule_in_force: "2026-03-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-8244"
+original_signed_date: "2025-11-20"
+original_published_date: "2026-03-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-8244"
+entry_into_force_date: "2026-03-04"
+jci_1_3: "jci1.3:c:BWBR0052383&z=2026-03-04&g=2026-03-04"
+jci_1_0: "1.0:c:BWBR0052383&g=2026-03-04"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007"
+signed_date: "2025-11-20"
+entry_into_force: "2026-03-04"
 ---
-
 # Besluit van de Minister van Justitie en Veiligheid van 20 november 2025, kenmerk 6232147, houdende beperking van de openbaarheid van het archief van de van het Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van de Algemene Rijksarchivaris van 11 november 2025, met proza-zaaknummer 1168257.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van het archief van de van het Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot het jaar genoemd in de tweede kolom.
 
@@ -563,14 +589,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 2404 | 2081 | 2420 | 2082 | 2436 | 2079 |   |   |
 | 2405 | 2091 | 2421 | 2082 | 2437 | 2076 |   |   |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052383&artikel=1&z=2026-03-04&g=2026-03-04) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0052383&artikel=1&z=2026-03-04&g=2026-03-04), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de Verklaring van Overbrenging Archief van het Directoraat-Generaal Preventie, Jeugd en Sancties 1951–2007

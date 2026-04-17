@@ -1,13 +1,35 @@
 ---
 title: "Circulaire handelwijze bij vermoedens van huwelijksdwang en achterlating, kinderontvoering, uitbuiting, onttrekking van kinderen aan overheidstoezicht en aangifte van geboorte en medischeverklaring (art. 2.43 en 2.49 Wet BRP)"
 identifier: "BWBR0047347"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2022-10-21
-laatste_update: 2022-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047347"
+country: "nl"
+rank: "circulaire"
+publication_date: "2022-10-21"
+last_updated: "2022-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047347"
+soort: "circulaire"
+stam_id: "16529253"
+version_id: "28972362"
+internal_id: "C41017811"
+label_id: "16450474"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047347/2022-10-21/0"
+intitule_bron: "Stcrt.2022-28020"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-10-21"
+intitule_in_force: "2022-10-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-28020"
+original_published_date: "2022-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-28020"
+entry_into_force_date: "2022-10-21"
+jci_1_3: "jci1.3:c:BWBR0047347&z=2022-10-21&g=2022-10-21"
+jci_1_0: "1.0:c:BWBR0047347&g=2022-10-21"
+citeertitel_status: "redactioneel"
+entry_into_force: "2022-10-21"
 ---
-
 # Circulaire handelwijze bij vermoedens van huwelijksdwang en achterlating, kinderontvoering, uitbuiting, onttrekking van kinderen aan overheidstoezicht en aangifte van geboorte en medischeverklaring (art. 2.43 en 2.49 Wet BRP)
 
 ### 1. Inleiding

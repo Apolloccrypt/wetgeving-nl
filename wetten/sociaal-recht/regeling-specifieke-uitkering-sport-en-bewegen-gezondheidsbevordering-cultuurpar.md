@@ -1,13 +1,39 @@
 ---
-title: "Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026"
+title: "Regeling van de Minister voor Langdurige Zorg en Sport van 6 februari 2023, kenmerk 3507504-1043050-PG, houdende een specifieke uitkering voor sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026 (Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026)"
 identifier: "BWBR0047862"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-29
-laatste_update: 2025-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047862"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-29"
+last_updated: "2025-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047862"
+soort: "ministeriele-regeling"
+stam_id: "16669163"
+version_id: "29237902"
+internal_id: "C41536281"
+label_id: "16587304"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047862/2025-10-29/0"
+intitule_bron: "Stcrt.2023-4245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-06"
+intitule_published: "2023-02-08"
+intitule_in_force: "2023-02-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-4245"
+original_signed_date: "2023-02-06"
+original_published_date: "2023-02-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-4245"
+entry_into_force_date: "2023-02-09"
+jci_1_3: "jci1.3:c:BWBR0047862&z=2025-10-29&g=2025-10-29"
+jci_1_0: "1.0:c:BWBR0047862&g=2025-10-29"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026"
+signed_date: "2023-02-06"
+entry_into_force: "2023-02-09"
 ---
-
 # Regeling van de Minister voor Langdurige Zorg en Sport van 6 februari 2023, kenmerk 3507504-1043050-PG, houdende een specifieke uitkering voor sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026 (Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026)
 
 ### Hoofdstuk 1. Algemene bepalingen
@@ -2824,7 +2850,7 @@ Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artike
 
 Besluit:
 
-#### Artikel 1.1. Algemene begripsbepalingen
+##### Artikel 1.1. Algemene begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -2874,13 +2900,13 @@ In deze regeling wordt verstaan onder:
 
 - **VSG:** Vereniging Sport en Gemeenten.
 
-#### Artikel 1.2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 1.2. Toepasselijkheid [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) en [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling zijn de [artikelen 4:35](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), [4:37 tot en met 4:38](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37), [4:48 tot en met 4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:56](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:56) en [4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) van overeenkomstige toepassing.
 
 2. Op deze regeling is de [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) niet van toepassing.
 
-#### Artikel 1.3. Hoofdthema’s en onderdelen
+##### Artikel 1.3. Hoofdthema’s en onderdelen
 
 1. De minister kan voor de jaren 2023, 2024, 2025 en 2026 aan een gemeente een uitkering verstrekken voor activiteiten in het kader van de ambities en doelen zoals gesteld in het GALA en het Hoofdlijnen Sportakkoord II.
 
@@ -2894,13 +2920,13 @@ In deze regeling wordt verstaan onder:
 
 3. Aan de hoofdthema’s als bedoeld in het tweede lid, onder a tot en met c, zijn de in de [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29) genoemde onderdelen gekoppeld.
 
-#### Artikel 2.1. Nadere begripsbepalingen
+##### Artikel 2.1. Nadere begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
 - **lokaal sportakkoord:** een akkoord waarin op basis van het Hoofdlijnen Sportakkoord II door gemeente, sportaanbieders en maatschappelijke organisaties op het terrein van welzijn, gezondheidszorg en onderwijs afspraken zijn gemaakt over het beleid rondom sport en sportief bewegen;
 
-#### Artikel 2.2. Onderdelen Sport, bewegen en cultuur
+##### Artikel 2.2. Onderdelen Sport, bewegen en cultuur
 
 Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [artikel 1.3, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
@@ -2908,13 +2934,13 @@ Tot de in het kader van hoofdthema Sport, bewegen en cultuur als bedoeld in [art
 
 - b. Onderdeel Brede Regeling Combinatiefuncties.
 
-#### Artikel 2.3. Specifieke verplichtingen voor het verstrekken van een uitkering Sport, bewegen en Cultuur
+##### Artikel 2.3. Specifieke verplichtingen voor het verstrekken van een uitkering Sport, bewegen en Cultuur
 
 1. De ontvanger van een uitkering voor het onderdeel Lokaal Sportakkoord, bedoeld in [artikel 2.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), voert ten minste een lokaal sportakkoord uit.
 
 2. De ontvanger van een uitkering voor het onderdeel Brede Regeling Combinatiefuncties, bedoeld in [artikel 2.2, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), coördineert dat natuurlijke personen worden aangesteld die zich beroepsmatig bezighouden met sport, bewegen en cultuurparticipatie, zoals bedoeld in het addendum Bestuurlijke afspraken Brede Regeling Combinatiefuncties 2023–2026, behorende bij het Hoofdlijnen Sportakkoord II.
 
-#### Artikel 3.1. Nadere begripsbepalingen
+##### Artikel 3.1. Nadere begripsbepalingen
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -2958,7 +2984,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **zorgverzekering:** de verzekering bedoeld in [artikel 1, onder d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 3.2. Onderdelen Gezondheid & Sociale Basis
+##### Artikel 3.2. Onderdelen Gezondheid & Sociale Basis
 
 Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [artikel 1.3, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
@@ -2984,7 +3010,7 @@ Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [ar
 
 - k. Onderdeel Welzijn op recept.
 
-#### Artikel 3.3. Specifieke verplichtingen voor het verstrekken van een uitkering Gezondheid & Sociale Basis
+##### Artikel 3.3. Specifieke verplichtingen voor het verstrekken van een uitkering Gezondheid & Sociale Basis
 
 1. De ontvanger van een uitkering voor het onderdeel Terugdringen Gezondheidsachterstanden, bedoeld in [artikel 3.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), richt zich bij de activiteiten in het kader van de ontvangen uitkering ten minste op wijken en dorpen, gelegen binnen de gemeentegrenzen, waar bovengemiddeld veel personen met een gezondheidsachterstand woonachtig zijn.
 
@@ -3008,13 +3034,13 @@ Tot de in het kader van hoofdthema Gezondheid & Sociale Basis als bedoeld in [ar
 
 ### Hoofdstuk 4. Hoofdthema ondersteunende onderdelen
 
-#### Artikel 4.1. Nadere begripsbepalingen
+##### Artikel 4.1. Nadere begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
 - **zorgverzekeraar:** verzekeraar als bedoeld in [artikel 1, onder b, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
-#### Artikel 4.2. Ondersteunende onderdelen
+##### Artikel 4.2. Ondersteunende onderdelen
 
 Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [artikel 1.3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=1&artikel=1.3&z=2025-10-29&g=2025-10-29), uit te voeren onderdelen behoren:
 
@@ -3022,7 +3048,7 @@ Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [art
 
 - b. Onderdeel Coördinatiekosten regionale aanpak preventie.
 
-#### Artikel 4.3. Specifieke verplichtingen voor het verstrekken van een uitkering Ondersteunende onderdelen
+##### Artikel 4.3. Specifieke verplichtingen voor het verstrekken van een uitkering Ondersteunende onderdelen
 
 1. De ontvanger van een uitkering voor het onderdeel Versterking kennis- en adviesfunctie GGD, bedoeld in [artikel 4.2, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), investeert in de GGD voor het opbouwen en uitbreiden van de voor deze uitkering relevante kennis ten behoeve van advisering aan ten minste het college van burgemeester en wethouders.
 
@@ -3030,15 +3056,15 @@ Tot de in het kader van hoofdthema Ondersteunende onderdelen als bedoeld in [art
 
 ### Hoofdstuk 5. Uitkeringsplafond, hoogte van de uitkering en wijze van verdeling
 
-#### Artikel 5.1. Uitkeringsplafonds onderdelen
+##### Artikel 5.1. Uitkeringsplafonds onderdelen
 
 Voor de onderdelen bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), gelden jaarlijks de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=III&z=2025-10-29&g=2025-10-29) vermelde, cumulatieve uitkeringsplafonds.
 
-#### Artikel 5.2. Hoogte van de uitkering
+##### Artikel 5.2. Hoogte van de uitkering
 
 De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), aan een gemeente toekennen ter hoogte van de bedragen zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2025-10-29&g=2025-10-29).
 
-#### Artikel 5.3. Wijze van verdeling
+##### Artikel 5.3. Wijze van verdeling
 
 1. Indien een uitkeringsplafond als bedoeld in [artikel 5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=5&artikel=5.1&z=2025-10-29&g=2025-10-29) niet volledig wordt benut, kan de minister in overleg met de Minister van Financiën bepalen dat het resterende bedrag voor het betreffende onderdeel geheel of ten dele evenredig wordt uitgekeerd aan de aanvragers waaraan een uitkering voor het betreffende onderdeel is verleend.
 
@@ -3050,7 +3076,7 @@ De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.
 
 ### Hoofdstuk 6. Aanvraag tot verlening van een uitkering
 
-#### Artikel 6.1. Aanvraagtermijn
+##### Artikel 6.1. Aanvraagtermijn
 
 1. Een aanvraag tot een uitkering per onderdeel als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), kan worden ingediend in de periode van:
 
@@ -3060,11 +3086,11 @@ De minister kan jaarlijks een uitkering per onderdeel als bedoeld in [artikel 2.
 
 2. Een aanvraag ingediend tijdens de in het eerste lid, onder b, bedoelde termijn heeft betrekking op alle resterende jaren waarin voor het desbetreffende onderdeel middelen ter beschikking zijn gesteld, zoals vermeld in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&bijlage=IV&z=2025-10-29&g=2025-10-29).
 
-#### Artikel 6.2. De aanvraag
+##### Artikel 6.2. De aanvraag
 
 Voor de aanvraag tot verlening van een uitkering wordt een door de minister vastgesteld aanvraagformulier gebruikt.
 
-#### Artikel 6.3. Plan van aanpak
+##### Artikel 6.3. Plan van aanpak
 
 1. Bij de aanvraag van een uitkering voor 2024 en de jaren daarna wordt een plan van aanpak ingediend waarin wordt beschreven:
 
@@ -3098,7 +3124,7 @@ Voor de aanvraag tot verlening van een uitkering wordt een door de minister vast
 
 ### Hoofdstuk 7. Algemene verplichtingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
@@ -3114,7 +3140,7 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 ### Hoofdstuk 8. Verlening en bevoorschotting
 
-#### Artikel 8.1. Verlening
+##### Artikel 8.1. Verlening
 
 1. De minister neemt een besluit over de verlening van de uitkering:
 
@@ -3124,7 +3150,7 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 2. Het besluit tot verlening vermeldt in elk geval voor welke onderdelen als bedoeld in [artikel 2.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=2&artikel=2.2&z=2025-10-29&g=2025-10-29), [artikel 3.2, onder a tot en met k](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=3&artikel=3.2&z=2025-10-29&g=2025-10-29), en [artikel 4.2, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0047862&hoofdstuk=4&artikel=4.2&z=2025-10-29&g=2025-10-29), de uitkering wordt verleend, het bedrag van de uitkering, de wijze van verantwoording, de periode waarvoor de uitkering wordt verleend en de wijze waarop het verrichten van de activiteiten kan worden aangetoond.
 
-#### Artikel 8.2. Bevoorschotting
+##### Artikel 8.2. Bevoorschotting
 
 1. De minister verleent ambtshalve voorschotten voor 100% van het aangevraagde bedrag.
 
@@ -3132,13 +3158,13 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 ### Hoofdstuk 9. Verantwoording en vaststelling
 
-#### Artikel 9.1. Verantwoording
+##### Artikel 9.1. Verantwoording
 
 1. Een ontvanger van een uitkering verstrekt jaarlijks uiterlijk op 15 juli van het jaar volgend op de verlening van de uitkering de verantwoordingsinformatie overeenkomstig het bepaalde in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
 2. Daar waar sprake is van overdracht van middelen van een medeoverheid naar een andere medeoverheid is SiSa tussen medeoverheden van toepassing, conform [artikel 17a, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 9.2. Vaststelling
+##### Artikel 9.2. Vaststelling
 
 1. De minister besluit uiterlijk 37 weken na 16 juli 2027 over de vaststelling van de uitkering.
 
@@ -3148,15 +3174,15 @@ De aanvrager aan wie een uitkering is toegekend draagt er zorg voor dat:
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 10.1. Hardheidsclausule
+##### Artikel 10.1. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover van toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 10.2. Inwerkingtreding
+##### Artikel 10.2. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 16 juli 2027, met dien verstande dat zij van toepassing blijft op uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 10.3. Citeertitel
+##### Artikel 10.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering sport en bewegen, gezondheidsbevordering, cultuurparticipatie en de sociale basis 2023–2026.
 

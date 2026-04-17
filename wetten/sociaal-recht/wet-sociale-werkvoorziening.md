@@ -1,14 +1,41 @@
 ---
-title: "Wet sociale werkvoorziening"
+title: "Wet van 11 september 1997, houdende nieuwe regeling inzake de sociale werkvoorziening (Wet sociale werkvoorziening)"
 identifier: "BWBR0008903"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008903"
+country: "nl"
+rank: "wet"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008903"
+soort: "wet"
+stam_id: "2764223"
+version_id: "4234802"
+internal_id: "C4234801"
+label_id: "2711544"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008903/2015-07-01/0"
+intitule_bron: "Stb.1997-465"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-09-11"
+intitule_published: "1997-10-16"
+intitule_in_force: "1997-10-16"
+intitule_status: "goed"
+original_publication: "Stb.1997-465"
+original_signed_date: "1997-09-11"
+original_published_date: "1997-10-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "24787"
+original_url_id: "stb-1997-465"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0008903&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0008903&g=2015-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet sociale werkvoorziening"
+signed_date: "1997-09-11"
+entry_into_force: "1998-01-01"
 ---
-
-# Wet sociale werkvoorziening
+# Wet van 11 september 1997, houdende nieuwe regeling inzake de sociale werkvoorziening (Wet sociale werkvoorziening)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -48,7 +75,7 @@ werknemer: de geïndiceerde die een dienstbetrekking heeft als bedoeld in [artik
 
 ### Hoofdstuk 2. De gemeentelijke sociale werkvoorziening
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het college kan aan een ingezetene die geïndiceerd is een dienstbetrekking aanbieden voor het verrichten van arbeid onder aangepaste omstandigheden.
 
@@ -62,21 +89,21 @@ werknemer: de geïndiceerde die een dienstbetrekking heeft als bedoeld in [artik
 
 - c. zij worden voorzien van de voor een adequate deelname aan het overleg benodigde informatie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De arbeid, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), is gericht op het behouden dan wel het bevorderen van de arbeidsbekwaamheid van de werknemer mede met het oog op het kunnen gaan verrichten van arbeid onder normale omstandigheden.
 
 2. Bij de aanpassing van de omstandigheden, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), wordt rekening gehouden met het advies ter zake dat in de indicatiebeschikking of herindicatiebeschikking is opgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 Het college bevordert de inschakeling in het arbeidsproces van de werknemers van wie bij herindicatiebeschikking is vastgesteld dat zij in staat zijn om arbeid te verrichten onder normale omstandigheden. Het college werkt hierbij samen met het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor ten gevolge van zijn arbeid geleverde goederen of diensten een vergoeding, die de concurrentieverhoudingen niet onverantwoord mag beïnvloeden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De werknemer is verplicht mee te werken aan het behoud dan wel het bevorderen van zijn arbeidsbekwaamheid en aan het verkrijgen van arbeid onder normale omstandigheden, voor zover hij daartoe in staat wordt geacht.
 
@@ -90,7 +117,7 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 ### Hoofdstuk 3. Subsidieverstrekking door de gemeente
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een werkgever met een ingezetene die geïndiceerd is een dienstbetrekking voor het verrichten van arbeid onder aangepaste omstandigheden aangaat, en de inpassing in de arbeid van betrokkene, met inbegrip van begeleiding op zijn werkplek, adequaat wordt verzorgd kan het college:
 
@@ -116,21 +143,21 @@ Het college bedingt voor de door zijn werknemer verrichte arbeid dan wel voor te
 
 ### Hoofdstuk 4. Financiering
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### Hoofdstuk 5. De indicatie en het aanbod
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verricht op aanvraag van het college periodiek herindicatie van geïndiceerden overeenkomstig de krachtens [artikel 6, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=6&z=2015-07-01&g=2015-07-01), gestelde regels en stelt daarbij bij beschikking van geïndiceerden vast:
 
@@ -152,7 +179,7 @@ Vervallen
 
 6. De voordracht voor een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het college kan de indicatiebeschikking of herindicatiebeschikking van een betrokkene intrekken indien:
 
@@ -176,17 +203,17 @@ Vervallen
 
 ### Hoofdstuk 6. Toezicht en informatie
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het college en het Uitvoeringsinstituut werknemersverzekeringen verstrekken desgevraagd aan Onze Minister kosteloos alle inlichtingen, die hij nodig heeft voor de informatievoorziening en de beleidsvorming met betrekking tot deze wet.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld voor de inhoud, de wijze van verstrekken en het tijdstip van het verstrekken van de inlichtingen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Andere colleges, de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), aangewezen rechtspersonen en het Uitvoeringsinstituut werknemersverzekeringen zijn bevoegd uit eigen beweging en verplicht op verzoek, kosteloos, aan het college en de krachtens [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=2&artikel=2&z=2015-07-01&g=2015-07-01), aangewezen rechtspersoon alle gegevens en inlichtingen te verstrekken, die noodzakelijk zijn voor de uitvoering van deze wet.
 
@@ -200,19 +227,19 @@ Vervallen
 
 ### Hoofdstuk 7. Overgangsbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Met ingang van de datum van inwerkingtreding van deze wet worden de dienstbetrekkingen, die op de dag voorafgaande aan die datum bestaan krachtens de Wet Sociale Werkvoorziening zoals deze luidde tot die datum en die na die datum voortbestaan, aangemerkt als dienstbetrekking in de zin van deze wet.
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. [Artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&hoofdstuk=5&artikel=11&z=2015-07-01&g=2015-07-01), is van overeenkomstige toepassing op de persoon die op 31 december 1997 een dienstbetrekking heeft krachtens de Wet Sociale Werkvoorziening zoals deze luidde op die datum, indien hij tijdens die dienstbetrekking om een herindicatie verzoekt.
 
@@ -222,133 +249,133 @@ Vervallen
 
 4. Op een bezwaar- of beroepschrift dat is gericht tegen een door het Uitvoeringsinstituut werknemersverzekeringen genomen besluit op een aanvraag als bedoeld in het derde lid en waarop op de dag voor inwerkingtreding van [artikel II, onderdeel A, van de Invoeringswet Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0035333&artikel=II) nog niet onherroepelijk is beslist, wordt beslist met toepassing van de Wet sociale werkvoorziening en [artikel 30d van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=30d) en de daarop berustende bepalingen, zoals die luidden op de dag voor inwerkingtreding van artikel II, onderdeel A, van de Invoeringswet Participatiewet.
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk 8
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 46
+##### Artikel 46
 
 Onze Minister zendt na drie jaar na inwerkingtreding van deze wet en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag van de doeltreffendheid en doelmatigheid van deze wet.
 
-#### Artikel 47
+##### Artikel 47
 
 De Wet Sociale Werkvoorziening wordt ingetrokken.
 
-#### Artikel 48
+##### Artikel 48
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 49
+##### Artikel 49
 
 Deze wet wordt aangehaald als: Wet sociale werkvoorziening.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van het college aangewezen ambtenaren.
 
@@ -360,7 +387,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 

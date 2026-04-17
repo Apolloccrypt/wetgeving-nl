@@ -1,13 +1,35 @@
 ---
 title: "Verordening op de Praktijkuitoefening (onderdeel Resultaatgerelateerde Beloning)"
 identifier: "BWBR0013311"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013311"
+country: "nl"
+rank: "pbo"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013311"
+soort: "pbo"
+stam_id: "6642253"
+version_id: "22047182"
+internal_id: "C31631791"
+label_id: "6630594"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013311/2019-01-01/0"
+intitule_bron: "Stcrt.2014-36091"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "vervallen"
+original_publication: "Stcrt.2014-36091"
+original_published_date: "2014-12-19"
+original_effect: "intrekking-regeling"
+original_url_id: "stcrt-2014-36091"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0013311&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0013311&g=2019-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2015-01-01"
 ---
-
 # Verordening op de Praktijkuitoefening (onderdeel Resultaatgerelateerde Beloning)
 
 Overwegende,
@@ -24,15 +46,15 @@ Gelet op het advies van de Overlegcommissie Gedragsregels;
 
 Stelt de navolgende verordening vast:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
@@ -40,11 +62,11 @@ Vervallen
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 

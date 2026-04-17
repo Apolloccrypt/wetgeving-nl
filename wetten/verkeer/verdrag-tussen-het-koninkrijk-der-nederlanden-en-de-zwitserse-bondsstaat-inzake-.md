@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake samenwerking met betrekking tot verkeersovertredingen"
 identifier: "BWBV0006976"
-categorie: "Verkeer"
-publicatiedatum: 2023-05-01
-laatste_update: 2023-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006976"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-05-01"
+last_updated: "2023-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006976"
+soort: "verdrag"
+stam_id: "10005620713"
+version_id: "10006175872"
+internal_id: "C10009987901"
+label_id: "10005602904"
+dtd_version: "2.0"
+original_entry_into_force: "2023-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006976/2023-05-01/0"
+intitule_bron: "Trb.2022-100"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-10-28"
+intitule_in_force: "2023-06-01"
+intitule_status: "goed"
+original_publication: "Trb.2022-100"
+original_published_date: "2022-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2022-100"
+entry_into_force_date: "2023-05-01"
+jci_1_3: "jci1.3:c:BWBV0006976&z=2023-05-01&g=2023-05-01"
+jci_1_0: "1.0:c:BWBV0006976&g=2023-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Zwitserse Bondsstaat inzake samenwerking met betrekking tot verkeersovertredingen
 
 Het Koninkrijk der Nederlanden
@@ -30,11 +52,11 @@ Geleid door de wens dat de uitvoering en toepassing van dit Verdrag in overeenst
 
 Hebben het volgende afgesproken:
 
-#### Artikel 1. Doel en reikwijdte
+##### Artikel 1. Doel en reikwijdte
 
 Het doel van dit Verdrag is een hoog niveau van bescherming van alle weggebruikers te waarborgen door ervoor te zorgen dat verkeersovertredingen die op het soevereine grondgebied van elk van beide partijen worden begaan met voertuigen die op het soevereine grondgebied van de andere partij zijn ingeschreven, wederzijds worden vervolgd en door elkaar bijstand te verlenen bij de handhaving van bekeuringen betreffende deze overtredingen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -52,7 +74,7 @@ Het doel van dit Verdrag is een hoog niveau van bescherming van alle weggebruike
 
 - –. voor het Koninkrijk der Nederlanden, voor het Europese deel van Nederland: de in het eerste lid van artikel 2 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften bedoelde gedragingen.
 
-#### Artikel 3. Bevoegde autoriteiten
+##### Artikel 3. Bevoegde autoriteiten
 
 De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen van hun respectieve bevoegdheden zijn:
 
@@ -76,7 +98,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 - –. de minister van Justitie en Veiligheid, vertegenwoordigd door het Centraal Justitieel Incassobureau, ook exclusief aangewezen als de bevoegde autoriteit voor verzoeken overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01).
 
-#### Artikel 4. Overdracht van gegevens over voertuigen en hun houders
+##### Artikel 4. Overdracht van gegevens over voertuigen en hun houders
 
 1. Gegevens over voertuigen en hun houders, zoals vermeld in [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), die in de nationale voertuigregisters zijn opgenomen, mogen op verzoek van een partij worden overgedragen, voor zover dit nodig is voor de vervolging van verkeersovertredingen.
 
@@ -86,7 +108,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 4. De nationale contactpunten moeten de in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), vermelde informatie bij de hand hebben om verzoeken te kunnen verwerken.
 
-#### Artikel 5. Geven van bekeuringen
+##### Artikel 5. Geven van bekeuringen
 
 1. Bekeuringen kunnen rechtstreeks aan de betrokkene worden gegeven overeenkomstig de toepasselijke nationale wet- en regelgeving.
 
@@ -100,7 +122,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 - d. instructies over rechtsmiddelen en termijnen voor het aantekenen van beroep tegen de bekeuring.
 
-#### Artikel 6. Uitvoering van bekeuringen
+##### Artikel 6. Uitvoering van bekeuringen
 
 1. De partijen kunnen om de handhaving van de bekeuringen verzoeken. Aan de volgende criteria moet worden voldaan:
 
@@ -116,7 +138,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 3. De verzoekende partij handhaaft de bekeuring niet of blijft deze niet handhaven totdat de aangezochte partij het verzoek heeft afgewezen of heeft meegedeeld dat de handhaving niet is geslaagd.
 
-#### Artikel 7. Weigeringsgronden, reikwijdte en beëindiging van de uitvoering
+##### Artikel 7. Weigeringsgronden, reikwijdte en beëindiging van de uitvoering
 
 1. Een verzoek overeenkomstig het eerste lid van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=6&z=2023-05-01&g=2023-05-01) wordt geweigerd in geval van:
 
@@ -148,7 +170,7 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 5. Delen van de bekeuring die reeds zijn betaald, kunnen niet meer worden geïnd.
 
-#### Artikel 8. Onmiddellijke uitvoering en omrekening
+##### Artikel 8. Onmiddellijke uitvoering en omrekening
 
 1. Bekeuringen worden rechtstreeks uitgevoerd door de bevoegde autoriteiten van de aangezochte partij en het bedrag van de bekeuring wordt omgerekend in haar munteenheid. De omrekening geschiedt op basis van de officiële wisselkoers ten tijde van de uitgifte van de bekeuring.
 
@@ -158,39 +180,39 @@ De bevoegde autoriteiten voor de uitvoering van dit Verdrag binnen de grenzen va
 
 4. Zodra de uitvoering van de bekeuring is voltooid, stelt de aangezochte partij de verzoekende partij daarvan onverwijld in kennis.
 
-#### Artikel 9. Opbrengst van de uitvoering en kosten
+##### Artikel 9. Opbrengst van de uitvoering en kosten
 
 De kosten van maatregelen uit hoofde van dit Verdrag komen niet ten laste van de verzoekende partij; de opbrengsten van de uitvoering en de in een beslissing bepaalde kosten komen ten goede aan de aangezochte partij.
 
-#### Artikel 10. Regeling inzake de uitvoering
+##### Artikel 10. Regeling inzake de uitvoering
 
 De bevoegde autoriteiten van de partijen zijn gemachtigd de samenwerking in het kader van dit Verdrag op administratief en technisch niveau te regelen in een bilaterale regeling. In de bilaterale regeling kan worden bepaald dat de gegevensvelden in de [bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01), [B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) en [C](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=C&z=2023-05-01&g=2023-05-01) worden gewijzigd indien dit noodzakelijk is voor een goede uitvoering van dit Verdrag.
 
-#### Artikel 11. Verenigbaarheidsbepaling
+##### Artikel 11. Verenigbaarheidsbepaling
 
 Dit Verdrag wordt uitgevoerd met inachtneming van de Nederlandse en de Zwitserse wet- en regelgeving, hun verplichtingen krachtens internationaal recht en de verplichtingen waaraan het Europese deel van Nederland als lid van de Europese Unie is onderworpen.
 
-#### Artikel 12. Geen financiële gevolgen
+##### Artikel 12. Geen financiële gevolgen
 
 1. De in dit Verdrag vastgestelde activiteiten worden door elk van de partijen binnen de grenzen van hun financiële middelen uitgevoerd, zonder dat daardoor een extra last op de gewone begrotingen van Nederland en Zwitserland wordt gelegd.
 
 2. De betrokken bevoegde autoriteiten leggen dit Verdrag ten uitvoer met de personele, instrumentele en financiële middelen waarover zij krachtens de toepasselijke wet- en regelgeving beschikken.
 
-#### Artikel 13. Geschillenbeslechting
+##### Artikel 13. Geschillenbeslechting
 
 1. De partijen trachten geschillen of andere problemen in verband met de interpretatie of de toepassing van dit Verdrag in onderling overleg op te lossen.
 
 2. Geschillen of problemen waarvoor geen oplossing wordt gevonden, worden langs diplomatieke weg geregeld.
 
-#### Artikel 14. Territoriale toepassing
+##### Artikel 14. Territoriale toepassing
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag uitsluitend van toepassing op het Europese deel van Nederland.
 
-#### Artikel 15. Voorlopige toepassing
+##### Artikel 15. Voorlopige toepassing
 
 De partijen zullen [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=4&z=2023-05-01&g=2023-05-01) in combinatie met [Annex A](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=A&z=2023-05-01&g=2023-05-01) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&artikel=3&z=2023-05-01&g=2023-05-01) in combinatie met [Annex B](https://wetten.overheid.nl/jci1.3:c:BWBV0006976&bijlage=B&z=2023-05-01&g=2023-05-01) voorlopig toepassen voor de overdracht van gegevens over voertuigen en hun houders vanaf de datum van ondertekening van dit Verdrag.
 
-#### Artikel 16. Inwerkingtreding en beëindiging
+##### Artikel 16. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgende op de datum van ontvangst van de laatste kennisgeving waarbij de partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat aan de interne vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 

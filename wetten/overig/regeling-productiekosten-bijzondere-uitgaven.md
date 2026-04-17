@@ -1,13 +1,35 @@
 ---
 title: "Regeling productiekosten bijzondere uitgaven"
 identifier: "BWBR0047158"
-categorie: "Overig"
-publicatiedatum: 2022-10-04
-laatste_update: 2022-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047158"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-10-04"
+last_updated: "2022-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047158"
+soort: "zbo"
+stam_id: "16484743"
+version_id: "28888382"
+internal_id: "C40894531"
+label_id: "16406594"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047158/2022-10-04/0"
+intitule_bron: "Stcrt.2022-24447"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-09-16"
+intitule_in_force: "2022-09-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-24447"
+original_published_date: "2022-09-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-24447"
+entry_into_force_date: "2022-10-04"
+jci_1_3: "jci1.3:c:BWBR0047158&z=2022-10-04&g=2022-10-04"
+jci_1_0: "1.0:c:BWBR0047158&g=2022-10-04"
+citeertitel_status: "officieel"
+entry_into_force: "2022-10-04"
 ---
-
 # Regeling productiekosten bijzondere uitgaven
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen reglement Nederlands Letterenfonds](https://wetten.overhe
 
 besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -38,15 +60,15 @@ In deze regeling wordt verstaan onder:
 
 - **subsidie:** subsidie in de productiekosten van een uitgave.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Deze regeling is van toepassing op subsidie die het bestuur verstrekt aan uitgevers voor de productiekosten van een uitgave die zich onderscheidt van het reguliere aanbod, en van belang is voor de verbreding van de kwaliteit en diversiteit van het literaire aanbod in Nederland.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 De aanvrager is een uitgeverij.
 
-#### Artikel 4. Algemene vereisten en weigeringsgronden
+##### Artikel 4. Algemene vereisten en weigeringsgronden
 
 1. Subsidie kan slechts worden verstrekt voor een uitgave die zich onderscheidt van het reguliere aanbod:
 
@@ -64,7 +86,7 @@ De aanvrager is een uitgeverij.
 
 6. Een aanvraag die niet voldoet aan het bepaalde in deze regeling wordt afgewezen.
 
-#### Artikel 5. Aanvraag
+##### Artikel 5. Aanvraag
 
 1. Een aanvraag wordt uitsluitend ingediend met behulp van het aanvraag- en calculatieformulier op de website van het Letterenfonds.
 
@@ -74,11 +96,11 @@ De aanvrager is een uitgeverij.
 
 4. Een aanvraag dient vergezeld te gaan van een gecorrigeerd manuscript en, indien van toepassing, het beeld of een drukproef.
 
-#### Artikel 6. Adviseurs
+##### Artikel 6. Adviseurs
 
 Het bestuur kan zich over de beoordeling van de aanvraag laten adviseren door leden van de raad van advies of door externe adviseurs zoals bedoeld in het Huishoudelijk reglement van het Letterenfonds.
 
-#### Artikel 7. Inhoudelijke beoordelingscriteria
+##### Artikel 7. Inhoudelijke beoordelingscriteria
 
 De aanvraag wordt beoordeeld op de volgende criteria:
 
@@ -106,7 +128,7 @@ De aanvraag wordt beoordeeld op de volgende criteria:
 
 de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te verwachten publieksbereik.
 
-#### Artikel 8. Hoogte van de subsidie
+##### Artikel 8. Hoogte van de subsidie
 
 1. De subsidie bedraagt maximaal € 20.000 per uitgave.
 
@@ -114,7 +136,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 3. Indien promotie van de uitgave noodzakelijk wordt geacht voor het bereiken van nieuwe doelgroepen, kan ook nog een bijdrage in de promotiekosten worden verleend.
 
-#### Artikel 9. Aanvraagperiode, verdelingssysteem en subsidieplafond
+##### Artikel 9. Aanvraagperiode, verdelingssysteem en subsidieplafond
 
 1. De aanvraagperiode loopt vanaf 4 oktober 2022.
 
@@ -126,7 +148,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 5. Het bestuur stelt jaarlijks een subsidieplafond in dat wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 10. Termijnen subsidieverlening en -vaststelling
+##### Artikel 10. Termijnen subsidieverlening en -vaststelling
 
 1. Het bestuur beslist binnen 13 weken na ontvangst van de volledige aanvraag.
 
@@ -138,7 +160,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 5. Bij de vaststelling wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 11. Verplichtingen subsidieontvanger
+##### Artikel 11. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger sluit met de bij de uitgave betrokken auteur(s) en de vertaler(s) een uitgave-overeenkomst af betreffende de exploitatierechten op een uitgave met minimaal de bepalingen over het royalty-percentage en de licentie, zoals geregeld in het Modelcontract van de Literaire Uitgeversgroep en Auteursbond voor de uitgave van een vertaling van een literair werk of vertaling.
 
@@ -164,7 +186,7 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 10. Het bestuur kan besluiten overige verplichtingen op te leggen. Die worden vermeld in het besluit tot subsidieverlening.
 
-#### Artikel 12. Intrekkings- en wijzigingsgronden subsidieverlening
+##### Artikel 12. Intrekkings- en wijzigingsgronden subsidieverlening
 
 1. Het bestuur kan de subsidieverlening intrekken of wijzigen als:
 
@@ -176,19 +198,19 @@ de omvang van de kosten van de te subsidiëren uitgave in relatie tot het te ver
 
 2. De intrekking of wijziging van de subsidieverlening werkt terug tot en met het tijdstip waarop de subsidie is verleend, tenzij bij de intrekking of wijziging anders is bepaald.
 
-#### Artikel 13. Hardheidsclausule
+##### Artikel 13. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 14. Begrotingsvoorbehoud
+##### Artikel 14. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt onmiddellijk in werking met ingang van 4 oktober 2022.
 
-#### Artikel 16. Overgangsbepalingen
+##### Artikel 16. Overgangsbepalingen
 
 1. Deze regeling is door het bestuur van het Letterenfonds vastgesteld op 18 augustus 2002.
 
@@ -198,7 +220,7 @@ Deze regeling treedt onmiddellijk in werking met ingang van 4 oktober 2022.
 
 4. Voor zover op 4 oktober 2022 nog geen vaststelling heeft plaatsgevonden van verleende subsidies in het kader van de Regeling Geïllustreerde kinder- en jeugdliteratuur en de Regeling Literaire uitgaven, zullen deze vaststellingen plaatsvinden binnen vier weken na ontvangst van de nacalculatie.
 
-#### Artikel 17. Slotbepalingen
+##### Artikel 17. Slotbepalingen
 
 1. In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 

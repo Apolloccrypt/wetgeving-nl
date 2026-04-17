@@ -1,13 +1,35 @@
 ---
 title: "Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en het Wereldvoedselprogramma der Verenigde Naties/FAO betreffende hulp van het Wereldvoedselprogramma aan de Nederlandse Antillen"
 identifier: "BWBV0003521"
-categorie: "Internationaal recht"
-publicatiedatum: 1972-02-01
-laatste_update: 1972-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003521"
+country: "nl"
+rank: "verdrag"
+publication_date: "1972-02-01"
+last_updated: "1972-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003521"
+soort: "verdrag"
+stam_id: "10003571813"
+version_id: "10003628602"
+internal_id: "C10006983681"
+label_id: "10003557324"
+dtd_version: "2.0"
+original_entry_into_force: "1972-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003521/1972-02-01/0"
+intitule_bron: "Trb.1971-184"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1971-09-29"
+intitule_in_force: "1972-02-14"
+intitule_status: "goed"
+original_publication: "Trb.1971-184"
+original_published_date: "1971-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1971-184"
+entry_into_force_date: "1972-02-01"
+jci_1_3: "jci1.3:c:BWBV0003521&z=1972-02-01&g=1972-02-01"
+jci_1_0: "1.0:c:BWBV0003521&g=1972-02-01"
+citeertitel_status: "officieel"
+entry_into_force: "1972-02-01"
 ---
-
 # Raamovereenkomst tussen de Regering van het Koninkrijk der Nederlanden en het Wereldvoedselprogramma der Verenigde Naties/FAO betreffende hulp van het Wereldvoedselprogramma aan de Nederlandse Antillen
 
 Overwegende dat de Regering van de Nederlandse Antillen (hierna te noemen „de Regering”) zich wenst te verzekeren van de hulp van het Wereldvoedselprogramma van de Verenigde Naties/FAO (hierna te noemen „het Wereldvoedselprogramma”) en
@@ -16,7 +38,7 @@ Overwegende dat het Wereldvoedselprogramma bereid is op uitdrukkelijk verzoek va
 
 Zijn de Regering van het Koninkrijk der Nederlanden (hierna te noemen „de Regering van het Koninkrijk”), handelend ten behoeve van de Regering van de Nederlandse Antillen, en het Wereldvoedselprogramma deze Overeenkomst aangegaan, waarin de voorwaarden zijn vervat waarop zodanige hulp door het Wereldvoedselprogramma overeenkomstig zijn Algemeen Reglement kan worden verleend en door de Regering kan worden aangewend:
 
-#### Artikel I. Aanvragen voor en overeenkomsten inzake hulpverlening
+##### Artikel I. Aanvragen voor en overeenkomsten inzake hulpverlening
 
 1. De Regering kan het Wereldvoedselprogramma om hulp in de vorm van voedsel verzoeken zowel ter ondersteuning van economische en sociale ontwikkelingsprojecten als ter leniging van voedselgebrek ontstaan ten gevolge van natuurrampen of andere noodtoestanden.
 
@@ -28,7 +50,7 @@ Zijn de Regering van het Koninkrijk der Nederlanden (hierna te noemen „de Rege
 
 5. In elk Uitvoeringsplan worden de voorwaarden vermeld waarop een project moet worden uitgevoerd, alsmede de verantwoordelijkheid onderscheidenlijk van de Regering en het Wereldvoedselprogramma met betrekking tot de uitvoering van het project. De bepalingen van deze Raamovereenkomst zijn van toepassing op elk Uitvoeringsplan dat ingevolge deze Overeenkomst wordt opgesteld.
 
-#### Artikel II. Uitvoering van ontwikkelingsprojecten en hulpverlening in noodsituaties
+##### Artikel II. Uitvoering van ontwikkelingsprojecten en hulpverlening in noodsituaties
 
 1. De voornaamste verantwoordelijkheid voor de uitvoering van ontwikkelingsprojecten en de hulpverlening in noodsituaties berust bij de Regering, die voorziet in personeel, gebouwen, voorraden, uitrusting, diensten en vervoer en die alle kosten voor haar rekening neemt die zijn verbonden aan de uitvoering van een ontwikkelingsproject of aan hulpverlening in noodsituaties.
 
@@ -44,7 +66,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 6. Het Wereldvoedselprogramma kan zijn hulp opschorten of intrekken, indien de Regering haar verplichtingen, aangegaan ingevolge deze Overeenkomst of een krachtens deze gesloten andere overeenkomst, niet nakomt.
 
-#### Artikel III. Gegevens betreffende projecten en hulpverlening in noodsituaties
+##### Artikel III. Gegevens betreffende projecten en hulpverlening in noodsituaties
 
 1. De Regering verstrekt het Wereldvoedselprogramma alle ter zake dienende documenten, afrekeningen, aantekeningen, verklaringen, rapporten en andere gegevens die door het Wereldvoedselprogramma worden gevraagd betreffende de uitvoering van elk ontwikkelingsproject of van hulpverlening in noodsituaties, of de voortzetting en de doelmatigheid ervan, of betreffende de nakoming door de Regering van haar verplichtingen ingevolge deze Overeenkomst of een krachtens deze gesloten andere overeenkomst.
 
@@ -54,11 +76,11 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 4. Zoals in het desbetreffende Uitvoeringsplan wordt bepaald, verleent de Regering haar medewerking bij de beoordeling van een project dat door het Wereldvoedselprogramma ter hand wordt genomen, door het bijhouden van daarvoor noodzakelijke aantekeningen en het ter beschikking stellen daarvan aan het Programma. De definitieve beoordeling wordt, voor commentaar, voorgelegd aan de Regering, en vervolgens, te zamen met het commentaar van de Regering, aan de Intergouvernementele Commissie van VN/FAO.
 
-#### Artikel IV. Hulpverlening uit andere bronnen
+##### Artikel IV. Hulpverlening uit andere bronnen
 
 Indien, voor de uitvoering van een project, door de Regering hulp wondt verkregen uit andere bronnen dan het Wereldvoedselprogramma, treden de Regering en het Wereldvoedselprogramma met elkaar in overleg, ten einde de hulp die door het Programma en door andere bronnen wordt verleend, doeltreffend te kunnen coördineren.
 
-#### Artikel V. Faciliteiten, voorrechten en immuniteiten
+##### Artikel V. Faciliteiten, voorrechten en immuniteiten
 
 1. De Regering van het Koninkrijk en de Regering van de Nederlandse Antillen verlenen functionarissen en adviseurs van het Wereldvoedselprogramma en andere personen die diensten verlenen ten behoeve van het Programma dezelfde faciliteiten als worden verleend aan functionarissen en adviseurs van de Verenigde Naties en de Gespecialiseerde Organisaties.
 
@@ -66,11 +88,11 @@ Indien, voor de uitvoering van een project, door de Regering hulp wondt verkrege
 
 3. De Regering is aansprakelijk voor alle vorderingen die door derden kunnen worden ingesteld tegen het Wereldvoedselprogramma of tegen zijn functionarissen of adviseurs of andere personen die diensten verlenen ten behoeve van het Wereldvoedselprogramma krachtens deze Overeenkomst en vrijwaart het Wereldvoedselprogramma en de genoemde personen in gevallen van uit de krachtens deze Overeenkomst ondernomen werkzaamheden voortvloeiende vorderingen of verplichtingen, tenzij de Regering en het Wereldvoedselprogramma het erover eens zijn dat deze vorderingen of verplichtingen het gevolg zijn grove nalatigheid of opzettelijk onjuist handelen van deze personen.
 
-#### Artikel VI. Regeling van geschillen
+##### Artikel VI. Regeling van geschillen
 
 Ieder geschil tussen de Regering van het Koninkrijk en het Wereldvoedselprogramma dat voortvloeit uit of in verband staat met deze Overeenkomst of een Uitvoeringsplan en dat niet kan worden geregeld door middel van onderhandelingen of op andere overeengekomen wijze, wordt op verzoek van een der Partijen bij het geschil aan arbitrage onderworpen. De arbitrage zal worden gehouden in Rome, Italië. Iedere Partij benoemt en instrueert één scheidsman en deelt de andere Partij de naam van haar scheidsman mede. Indien de scheidsmannen het niet eens worden over een uitspraak, benoemen zij onverwijld een scheidsrechter. Ingeval binnen dertig dagen na het verzoek om een scheidsrechterlijke uitspraak een der Partijen nog geen scheidsman heeft benoemd, of de benoemde scheidsmannen het niet eens kunnen worden over de uitspraak of over de benoeming van een scheidsrechter, kan elk der Partijen de President van het Internationaal Gerechtshof verzoeken een scheidsman, onderscheidenlijk een scheidsrechter te benoemen. De kosten van de arbitrage worden gedragen door de Partijen zoals is vastgesteld in de scheidsrechterlijke uitspraak. De scheidsrechterlijke uitspraak wordt door de Partijen bij het geschil aanvaard als de definitieve uitspraak in het geschil.
 
-#### Artikel VII. Algemene bepalingen
+##### Artikel VII. Algemene bepalingen
 
 - (a). Nadat de in het Koninkrijk der Nederlanden grondwettelijk vereiste goedkeuring is verkregen, treedt deze Overeenkomst in werking op de datum waarop het Wereldvoedselprogramma van de Regering van het Koninkrijk een desbetreffende kennisgeving ontvangt.
 

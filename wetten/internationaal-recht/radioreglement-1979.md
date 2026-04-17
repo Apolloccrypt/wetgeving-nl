@@ -1,13 +1,35 @@
 ---
 title: "Radioreglement 1979"
 identifier: "BWBV0006764"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-01-29
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006764"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-01-29"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006764"
+soort: "verdrag"
+stam_id: "10005455013"
+version_id: "10005918152"
+internal_id: "C10009441631"
+label_id: "10005438304"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006764/2025-01-29/0"
+intitule_bron: "Trb.2018-169"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-09-19"
+intitule_in_force: "2018-09-19"
+intitule_status: "goed"
+original_publication: "Trb.2018-169"
+original_published_date: "2018-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-169"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBV0006764&z=2025-01-29&g=2025-01-29"
+jci_1_0: "1.0:c:BWBV0006764&g=2025-01-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-01-01"
 ---
-
 # Radioreglement 1979
 
 Preamble
@@ -36,7 +58,7 @@ Preamble
 
 ### CHAPTER I. TERMINOLOGY AND TECHNICAL CHARACTERISTICS
 
-#### Article 1. Terms and definitions
+##### Article 1. Terms and definitions
 
 **1.1** For the purposes of these Regulations, the following terms shall have the meanings defined below. These terms and definitions do not, however, necessarily apply for other purposes. Definitions identical to those contained in the Annex to the Constitution or the Annex to the Convention of the International Telecommunication Union (Geneva, 1992) are marked “(CS)” or “(CV)” respectively.
 
@@ -524,7 +546,7 @@ There may be more than one unconnected effective boresight area to which a singl
 
 **1.191** **steerable satellite beam:** A **satellite** antenna beam that can be re-pointed.
 
-#### Article 2. Nomenclature
+##### Article 2. Nomenclature
 
 **2.1** The radio spectrum shall be subdivided into nine frequency bands, which shall be designated by progressive whole numbers in accordance with the following table. As the unit of frequency is the hertz (Hz), frequencies shall be expressed:
 
@@ -564,7 +586,7 @@ NOTE 2: Prefix: k = kilo (103), M = mega (106), G = giga (109).
 
 **2.7** Emissions shall be designated according to their necessary bandwidth and their classification in accordance with the method described in Appendix **1**.
 
-#### Article 3. Technical characteristics of stations
+##### Article 3. Technical characteristics of stations
 
 **3.1** The choice and performance of equipment to be used in a station and any emissions therefrom shall satisfy the provisions of these Regulations.
 
@@ -598,7 +620,7 @@ NOTE 2: Prefix: k = kilo (103), M = mega (106), G = giga (109).
 
 ### CHAPTER II. FREQUENCIES
 
-#### Article 4. Assignment and use of frequencies
+##### Article 4. Assignment and use of frequencies
 
 **4.1** Member States shall endeavour to limit the number of frequencies and the spectrum used to the minimum essential to provide in a satisfactory manner the necessary services. To that end they shall endeavour to apply the latest technical advances as soon as possible (CS 195).
 
@@ -650,7 +672,7 @@ NOTE 2: Prefix: k = kilo (103), M = mega (106), G = giga (109).
 
 **4.24** Space research systems intended to operate in deep space may also use the space research service (deep space) allocations, with the same status as those allocations, when the spacecraft is near the Earth, such as during launch, early orbit, flying by the Earth and returning to the Earth. (WRC-15)
 
-#### Article 5. Frequency allocations
+##### Article 5. Frequency allocations
 
 **5.1** In all documents of the Union where the terms **allocation**, **allotment** and **assignment** are to be used, they shall have the meaning given them in Nos. **1.16** to **1.18**, the terms used in the six working languages being as follows:
 
@@ -2746,7 +2768,7 @@ The use of the range 275-1 000 GHz by the passive services does not preclude use
 
 All frequencies in the range 1 000-3 000 GHz may be used by both active and passive services. (WRC-12)
 
-#### Article 6. Special agreements
+##### Article 6. Special agreements
 
 **6.1** § 1 Two or more Member States may, under the provisions for special arrangements in the Constitution, conclude special agreements regarding the sub-allocation of bands of frequencies to the appropriate services of the participating countries.
 
@@ -2764,7 +2786,7 @@ All frequencies in the range 1 000-3 000 GHz may be used by both active and pass
 
 ### CHAPTER III. COORDINATION, NOTIFICATION AND RECORDING OF FREQUENCY ASSIGNMENTS AND PLAN MODIFICATIONS
 
-#### Article 7. Application of the procedures
+##### Article 7. Application of the procedures
 
 **7.1** The procedures of this Chapter shall be applied by administrations, the Radio Regulations Board (the Board) and the Radiocommunication Bureau (the Bureau) for the purposes of:
 
@@ -2794,7 +2816,7 @@ All frequencies in the range 1 000-3 000 GHz may be used by both active and pass
 
 **7.8** In a case of harmful interference involving the application of the provisions of Article **15**, Section VI, except when there is an obligation to eliminate harmful interference under the provisions of this Chapter, administrations are urged to exercise the utmost goodwill and mutual cooperation taking into account all the relevant technical and operational factors of the case.
 
-#### Article 8. Status of frequency assignments recorded in the Master International Frequency Register
+##### Article 8. Status of frequency assignments recorded in the Master International Frequency Register
 
 **8.1** The international rights and obligations of administrations in respect of their own and other administrations’ frequency assignments35)**8.1.1** The expression “frequency assignment”, wherever it appears in this Chapter, shall be understood to refer either to a new frequency assignment or to a change in an assignment already recorded in the Master Register. Additionally, wherever the expression relates to a geostationary or non-geostationary space station, it shall be associated with § A.4 of Annex 2 to Appendix **4**, as relevant, and wherever the expression relates to an earth station associated with a geostationary or non-geostationary space station, it shall be associated with § A.4.c of Annex 2 to Appendix **4**, as relevant. (WRC-12) shall be derived from the recording of those assignments in the Master International Frequency Register (the Master Register) or from their conformity, where appropriate, with a plan. Such rights shall be conditioned by the provisions of these Regulations and those of any relevant frequency allotment or assignment plan.
 
@@ -2806,7 +2828,7 @@ All frequencies in the range 1 000-3 000 GHz may be used by both active and pass
 
 **8.5** If harmful interference to the reception of any station whose assignment is in accordance with No. **11.31** is actually caused by the use of a frequency assignment which is not in conformity with No. **11.31**, the station using the latter frequency assignment must, upon receipt of advice thereof, immediately eliminate this harmful interference.
 
-#### Article 9. Procedure for effecting coordination with or obtaining agreement of other administrations
+##### Article 9. Procedure for effecting coordination with or obtaining agreement of other administrations
 
 37) **A.9.1** For the application of the provisions of this Article with respect to stations in a space radiocommunication service using frequency bands covered by the fixed-satellite service allotment Plan, see also Appendix **30B**. , 38)**A.9.2** These procedures may be applicable to stations on board satellite launching vehicles., 39)**A.9.3** See Appendices **30** and **30A**, as appropriate, for the coordination of:a) proposed modifications to the Appendix **30** Plans for the broadcasting-satellite service in the frequency bands 11.7-12.2 GHz (in Region 3), 11.7-12.5 GHz (in Region 1) and 12.2-12.7 GHz (in Region 2), or new or modified assignments proposed for inclusion in the Regions 1 and 3 List of additional uses, with respect to frequency assignments in the same service or in other services to which these bands are allocated;b) frequency assignments in other services to which the frequency bands referred to in § **a)** above are allocated in the same Region or in another Region, with respect to assignments in the broadcasting-satellite service in the frequency bands 11.7-12.2 GHz (in Region 3), 11.7-12.5 GHz (in Region 1) and 12.2-12.7 GHz (in Region 2);c) proposed modifications to the Appendix **30A** Plans for feeder links to the broadcasting-satellite service in the frequency bands 17.3-17.8 GHz (in Region 2) and 14.5-14.8 GHz and 17.3-18.1 GHz (in Regions 1 and 3), or new or modified assignments proposed for inclusion in the Regions 1 and 3 Lists of additional uses, with respect to frequency assignments in the same service or in other services to which these bands are allocated;d) frequency assignments in other services to which the frequency bands referred to in § **c)** above are allocated in the same Region or in another Region, with respect to assignments in the fixed-satellite service (Earth-to- space) in the frequency bands 17.3-17.8 GHz (in Region 2) and 14.5-14.8 GHz and 17.3-18.1 GHz (in Regions 1 and 3).For the broadcasting-satellite service and for feeder links for the broadcasting-satellite service in the fixed-satellite service in Region 2, Resolution **42 (Rev.Orb-88)*** is also applicable. (WRC-2000)* **Note by the Secretariat:** This Resolution was revised by WRC-03, WRC-12, WRC-15 and WRC-19., 40)**A.9.4** Resolution **49 (Rev.WRC-23)**, Resolution **552 (Rev.WRC-23)** or Resolution **32 (Rev.WRC-23)**, as appropriate, shall also be applied with respect to those satellite networks and satellite systems that are subject to it. (WRC-23), 41)**A.9.5** See also Resolution **51 (Rev.WRC-2000)****. (WRC-2000)** **Note by the Secretariat:** This Resolution was abrogated by WRC-15., 42)**A.9.6** The provisions of Appendices **30**, **30A** and **30B** do not apply to non-geostationary service-satellite systems in the fixed-satellite. (WRC-2000), 43)**A.9.6A** For the purpose of this Article, a geostationary satellite is a geosynchronous satellite with an orbit the inclination of which is less than or equal to 15°. (WRC-03)**A.9.7** (SUP – WRC-19), 44)**A.9.8** In respect of submission for Regions 1 and 3 satellite networks in the broadcasting-satellite service in the frequency band 21.4-22 GHz meeting special requirements, Resolution **553 (WRC-12)****** applies. (WRC-12)**** **Note by the Secretariat:** This Resolution was revised by WRC-15.**(WRC-19)**
 
@@ -2978,11 +3000,11 @@ All frequencies in the range 1 000-3 000 GHz may be used by both active and pass
 
 **9.65** If, at the date of receipt of a notice under No. **9.64** above, the Bureau has been informed of a continuing disagreement, the Bureau shall examine the notice under Nos. **11.32A** or **11.33**67)**9.65.1** A notice of a frequency assignment for which coordination was requested under No. **9.21** and in respect of which there is continuing disagreement shall not be examined under Nos. **11.32A** or **11.33**; it shall, however, be examined under No. **11.31**. and shall act in accordance with No. **11.38**.
 
-#### Article 10
+##### Article 10
 
 (Number not used)
 
-#### Article 11. Notification and recording of frequency assignments
+##### Article 11. Notification and recording of frequency assignments
 
 68) **A.11.1** See also Appendices **30** and **30A** as appropriate, for the notification and recording of:
 
@@ -3158,7 +3180,7 @@ See also Appendix **30B** for the notification and recording of assignments in t
 
 **11.51** For frequency assignments to some non-geostationary-satellite systems in specific frequency bands and services, Resolution**35 (Rev.WRC-23)**and Resolution **8 (WRC-23)** shall apply. (WRC-23)
 
-#### Article 12. Seasonal planning of the HF bands allocated to the broadcasting service between 5 900 kHz and 26 100 kHz
+##### Article 12. Seasonal planning of the HF bands allocated to the broadcasting service between 5 900 kHz and 26 100 kHz
 
 **12.1** The use of the frequency bands allocated to high frequency broadcasting (HFBC) between 5 900 kHz and 26 100 kHz shall be based on the principles given below and shall be in conformity with seasonal planning based on a coordination procedure between administrations (referred in this Article as the Procedure) described in **12.2** to **12.45**. An administration may authorize a broadcasting organization (referred to in this Article as a broadcaster), among others, to act on its behalf in this coordination.
 
@@ -3250,7 +3272,7 @@ See also Appendix **30B** for the notification and recording of assignments in t
 
 **12.45** In a case of harmful interference involving the application of the provisions of Article **15**, administrations are urged to exercise the utmost goodwill and mutual cooperation, taking into account all the relevant technical and operational factors of the case.
 
-#### Article 13. Instructions to the Bureau
+##### Article 13. Instructions to the Bureau
 
 **13.0.1** The Board shall develop a new Rule of Procedure only when there is a clear need with proper justification for such a Rule. For all such Rules, the Board shall submit to the coming world radiocommunication conference the necessary modifications to the Radio Regulations, to alleviate such difficulties or inconsistencies and include its suggestions in the Report of the Director to the next world radiocommunication conference. (WRC-03)
 
@@ -3312,7 +3334,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 **13.19** A copy of all documents considered at the Board’s meetings, including the minutes, shall be available for public inspection by administrations in the offices of the Bureau, and shall be made available in electronic form as soon as possible. (WRC-2000)
 
-#### Article 14. Procedure for the review of a finding or other decision of the Bureau
+##### Article 14. Procedure for the review of a finding or other decision of the Bureau
 
 **14.1** Any administration may request a review of a finding, a review of the results of a special study under these Regulations or under a regional agreement and plan, or a review of any other decision of the Bureau. The review of a finding may also be undertaken on the initiative of the Bureau itself when it considers this is justified.
 
@@ -3332,7 +3354,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 ### CHAPTER IV. INTERFERENCES
 
-#### Article 15. Interferences
+##### Article 15. Interferences
 
 **15.1** § 1 All stations are forbidden to carry out unnecessary transmissions, or the transmission of superfluous signals, or the transmission of false or misleading signals, or the transmission of signals without identification (except as provided for in Article **19**).
 
@@ -3428,7 +3450,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 **15.46** 4) The Bureau shall thereafter forward its conclusions and recommendations to the administration reporting the case of harmful interference. These shall also be forwarded to the administration believed to be responsible for the source of harmful interference, together with a request for prompt action.
 
-#### Article 16. International monitoring
+##### Article 16. International monitoring
 
 **16.1** To assist to the extent practicable in the implementation of these Regulations, in particular to help ensure efficient and economical use of the radio-frequency spectrum and to help in the prompt elimination of harmful interference, administrations agree to continue the development of monitoring facilities and, to the extent practicable, to cooperate in the continued development of the international monitoring system, taking into account the relevant ITU-R Recommendations.121)**16.1.1** Information on this subject is also provided in the ITU-R Handbook on Spectrum Monitoring.
 
@@ -3448,7 +3470,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 ### CHAPTER V. ADMINISTRATIVE PROVISIONS
 
-#### Article 17. Secrecy
+##### Article 17. Secrecy
 
 **17.1** In the application of the appropriate provisions of the Constitution and the Convention, administrations bind themselves to take the necessary measures to prohibit and prevent:
 
@@ -3456,7 +3478,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 **17.3** **b)** the divulgence of the contents, simple disclosure of the existence, publication or any use whatever, without authorization of information of any nature whatever obtained by the interception of the radiocommunications mentioned in No. **17.2**.
 
-#### Article 18. Licences
+##### Article 18. Licences
 
 **18.1** § 1 1) No transmitting station may be established or operated by a private person or by any enterprise without a licence issued in an appropriate form and in conformity with the provisions of these Regulations by or on behalf of the government of the country to which the station in question is subject (however, see Nos. **18.2**, **18.8** and **18.11**).
 
@@ -3480,7 +3502,7 @@ Section II − Maintenance of the Master Register and of World Plans by the Bure
 
 **18.11** § 6 In the case of hire, lease or interchange of aircraft, the administration having authority over the aircraft operator receiving an aircraft under such an arrangement may, by agreement with the administration of the country in which the aircraft is registered, issue a licence in conformity with that specified in No. **18.6** as a temporary substitute for the original licence.
 
-#### Article 19. Identification of stations
+##### Article 19. Identification of stations
 
 **19.1** § 1 All transmissions shall be capable of being identified either by identification signals or by other means122)**19.1.1** In the present state of the technique, it is recognized nevertheless that the transmission of identifying signals for certain radio systems (e.g. radiodetermination, radio relay systems and space systems) is not always possible.**19.35.1** (SUP – WRC-03).
 
@@ -3835,7 +3857,7 @@ followed by the last two letters of the complete call sign (see No. **19.58**) o
 
 **19.131** § 48 The distinguishing signals allotted to ships for visual and aural signalling shall, in general, agree with the call signs of ship stations.
 
-#### Article 20. Service publications and online information systems (WRC-07)
+##### Article 20. Service publications and online information systems (WRC-07)
 
 **20.1** § 1 The following publications shall be issued by the Secretary-General. As circumstances warrant and in response to individual requests by administrations, the published information shall also be available in various formats and by appropriate means. (WRC-07)
 
@@ -3881,7 +3903,7 @@ the ITU Maritime mobile Access and Retrieval System (MARS). (WRC-07)
 
 ### CHAPTER VI. PROVISIONS FOR SERVICES AND STATIONS
 
-#### Article 21. Terrestrial and space services sharing frequency bands above 1 GHz
+##### Article 21. Terrestrial and space services sharing frequency bands above 1 GHz
 
 **21.1** § 1 Sites and frequencies for terrestrial stations and earth stations, operating in frequency bands shared with equal rights between terrestrial radiocommunication and space radiocommunication services, shall be selected having regard to the relevant ITU-R Recommendations with respect to geographical separation between earth stations and terrestrial stations.
 
@@ -4138,7 +4160,7 @@ in any 1 MHz band, where δ is the angle of arrival above the horizontal plane. 
 
 **21.18** § 7 Administrations operating or planning to operate radionavigation-satellite service systems or networks in the 1 164-1 215 MHz frequency band, for which complete coordination or notification information, as appropriate, was received by the Bureau after 2 June 2000, shall, in accordance with **resolves** 2 of Resolution **609 (WRC-03)**132)**Note by the Secretariat:** This Resolution was revised by WRC-07., take all necessary steps to ensure that the actual aggregate interference into aeronautical radionavigation service systems caused by such radionavigation-satellite service systems or networks operating co-frequency in these frequency bands does not exceed the equivalent power flux-density level shown in **resolves** 1 of Resolution **609 (WRC-03)**133)**Note by the Secretariat:** This Resolution was revised by WRC-07.. (WRC-03)
 
-#### Article 22. Space services134)**A.22.1** In applying the provisions of this Article, the level of accepted interference (see No. **1.168**) shall be fixed by agreement between the administrations concerned, using the relevant ITU-R Recommendations as a guide.
+##### Article 22. Space services134)**A.22.1** In applying the provisions of this Article, the level of accepted interference (see No. **1.168**) shall be fixed by agreement between the administrations concerned, using the relevant ITU-R Recommendations as a guide.
 
 **22.1** § 1 Space stations shall be fitted with devices to ensure immediate cessation of their radio emissions by telecommand, whenever such cessation is required under the provisions of these Regulations.
 
@@ -4486,7 +4508,7 @@ but
 
 **22.40** Under assumed free-space propagation conditions, the power flux-density emitted by an earth station of a geostationary-satellite network not for feeder links for the broadcasting- satellite service in the frequency bands 14.5-14.75 GHz in countries listed in Resolution **163 (WRC-15)** and 14.50-14.8 GHz in countries listed in Resolution **164 (WRC-15)** shall not exceed the value of −76 dB(W/(m2 • 27 MHz)) at any point in the geostationary-satellite orbit. (WRC-15)
 
-#### Article 23. Broadcasting services
+##### Article 23. Broadcasting services
 
 **23.1** **A − General**
 
@@ -4527,7 +4549,7 @@ but
 
 **23.13C** If, after the four-month period mentioned above, an administration objects to remaining in the service area, the Bureau shall delete the territory of the objecting administration from the service area of the broadcasting-satellite service (except sound broadcasting) network concerned without adversely affecting the rest of the service area and inform the responsible administration. (WRC-2000)
 
-#### Article 24. Fixed service
+##### Article 24. Fixed service
 
 **24.1** Administrations are urged to discontinue, in the fixed service, the use of double-sideband radiotelephone (class A3E) transmissions.
 
@@ -4541,7 +4563,7 @@ but
 
 **24.6** (SUP – WRC-03)
 
-#### Article 25. Amateur services
+##### Article 25. Amateur services
 
 **25.1** § 1 Radiocommunication between amateur stations of different countries shall be permitted unless the administration of one of the countries concerned has notified that it objects to such radiocommunications. (WRC-03)
 
@@ -4571,7 +4593,7 @@ but
 
 **25.11** § 7 Administrations authorizing space stations in the amateur-satellite service shall ensure that sufficient earth command stations are established before launch to ensure that any harmful interference caused by emissions from a station in the amateur-satellite service can be terminated immediately (see No. **22.1**). (WRC-03)
 
-#### Article 26. Standard frequency and time signal service
+##### Article 26. Standard frequency and time signal service
 
 **26.1** § 1 1) To facilitate more efficient use of the radio frequency spectrum and to assist other technical and scientific activities, administrations providing or intending to provide a standard frequency and time signal service shall coordinate, in accordance with the provisions in this Article, the establishment and operation of such a service on a worldwide basis. Attention should be given to the extension of this service to those areas of the world not adequately served.
 
@@ -4585,7 +4607,7 @@ but
 
 **26.6** § 4 In selecting the technical characteristics of standard frequency and time signal transmissions, administrations shall be guided by the relevant ITU-R Recommendations.
 
-#### Article 27. Experimental stations
+##### Article 27. Experimental stations
 
 **27.1** § 1 1) An experimental station may enter into communication with an experimental station of another country only after it has been authorized to do so by its administration. Each administration shall notify other administrations concerned when such authorizations are issued.
 
@@ -4601,7 +4623,7 @@ but
 
 **27.7** § 5 Where there is no risk of an experimental station causing harmful interference to a service of another country, the administration concerned may, if considered desirable, adopt different provisions from those contained in this Article.
 
-#### Article 28. Radiodetermination services
+##### Article 28. Radiodetermination services
 
 **28.1** § 1 Administrations which have established a radiodetermination service shall take the necessary steps to ensure the effectiveness and regularity of that service; however they accept no responsibility for the consequences that might arise from the use of inaccurate information furnished, defective working, or failure of their stations.
 
@@ -4651,7 +4673,7 @@ but
 
 **28.24** § 13 Special rules applicable to aeronautical radio beacons operating in the bands between 160 kHz and 535 kHz and to the maritime radio beacons operating in the bands between 283.5 kHz and 335 kHz are given in Appendix **12**.
 
-#### Article 29. Radio astronomy service
+##### Article 29. Radio astronomy service
 
 **29.1** § 1 Administrations shall cooperate in protecting the radio astronomy service from interference, bearing in mind:
 
@@ -4681,13 +4703,13 @@ but
 
 29.15
 
-#### Article 29A. Radio services related to Earth observation
+##### Article 29A. Radio services related to Earth observation
 
 **29A.1** § 1 Radio services related to Earth observations include the Earth exploration-satellite service (EESS), meteorological-satellite service (MetSat), meteorological aids service (MetAids) and specific applications of the radiolocation service (e.g. meteorological or oceanographic radars, wind profiler radars). In this respect, see Resolution **673 (Rev.WRC-12)**. (WRC-12)
 
 ### CHAPTER VII. DISTRESS AND SAFETY COMMUNICATIONS149)**C.VII** For the purposes of this Chapter, distress and safety communications include distress, urgency and safety calls and messages.
 
-#### Article 30. General provisions
+##### Article 30. General provisions
 
 **30.1** § 1 This Chapter contains the provisions for the operational use of the global maritime distress and safety system (GMDSS), whose functional requirements, system elements and equipment carriage requirements are set forth in the International Convention for the Safety of Life at Sea (SOLAS), 1974, as amended. This Chapter also contains provisions for initiating distress, urgency and safety communications by means of radiotelephony on the frequency 156.8 MHz (VHF channel 16). (WRC-07)
 
@@ -4717,7 +4739,7 @@ but
 
 **30.13** § 13 The procedure specified in this Chapter is obligatory for stations of the land mobile service when using frequencies provided in these Regulations for distress and safety communications.
 
-#### Article 31. Frequencies for the global maritime distress and safety system (GMDSS)
+##### Article 31. Frequencies for the global maritime distress and safety system (GMDSS)
 
 **31.1** § 1 The frequencies to be used for the transmission of distress and safety information under the GMDSS are contained in Appendix **15**. In addition to the frequencies listed in Appendix **15**, ship stations and coast stations should use other appropriate frequencies for the transmission of safety messages and general radiocommunications to and from shore-based radio systems or networks. (WRC-07)
 
@@ -4759,7 +4781,7 @@ but
 
 **31.20** § 9 Ship earth stations complying with the provisions of this Chapter shall, while at sea, maintain watch except when communicating on a working channel.
 
-#### Article 32. Operational procedures for distress communications in the global maritime distress and safety system (GMDSS) (WRC-07)
+##### Article 32. Operational procedures for distress communications in the global maritime distress and safety system (GMDSS) (WRC-07)
 
 **32.1** § 1 Distress communications rely on the use of terrestrial MF, HF and VHF radiocommunications and communications using satellite techniques. Distress communications shall have absolute priority over all other transmissions. The following terms apply:
 
@@ -5061,7 +5083,7 @@ Monitor the same band on which the inadvertent distress transmission was sent an
 
 **32.64** (SUP – WRC-07)
 
-#### Article 33. Operational procedures for urgency and safety communications in the global maritime distress and safety system (GMDSS)
+##### Article 33. Operational procedures for urgency and safety communications in the global maritime distress and safety system (GMDSS)
 
 **33.1** § 1 1) Urgency and safety communications include: (WRC-07)
 
@@ -5329,7 +5351,7 @@ In radiotelephony, on the selected working frequency, the safety call and messag
 
 **33.55** (SUP – WRC-07)
 
-#### Article 34. Satellite emergency position-indicating radiobeacon signals **(WRC-23)**
+##### Article 34. Satellite emergency position-indicating radiobeacon signals **(WRC-23)**
 
 **34.1** § 1 The emergency position-indicating radiobeacon signal in the frequency band 406-406.1 MHz shall be in accordance with Recommendation ITU-R M.633-5. (WRC-23)
 
@@ -5337,11 +5359,11 @@ In radiotelephony, on the selected working frequency, the safety call and messag
 
 ### CHAPTER VIII. AERONAUTICAL SERVICES
 
-#### Article 35. Introduction
+##### Article 35. Introduction
 
 **35.1** § 1 With the exception of Articles 36, 37, 39, 42, 43 and No. 44.2, the other provisions of this Chapter may be governed by special arrangements concluded pursuant to Article 42 of the Constitution of the International Telecommunication Union (Geneva, 1992), or by intergovernmental agreements167)**35.1.1** For example, the International Civil Aviation Organization (ICAO) has agreed upon standards and recommended practices adapted to the needs of aircraft operation which have been proven in practice and are well established in current use. provided their implementation does not cause harmful interference to the radio services of other countries.
 
-#### Article 36. Authority of the person responsible for the station
+##### Article 36. Authority of the person responsible for the station
 
 **36.1** § 1 The service of a mobile station is placed under the supreme authority of the person responsible for the aircraft or other vehicle carrying the mobile station.
 
@@ -5351,7 +5373,7 @@ In radiotelephony, on the selected working frequency, the safety call and messag
 
 **36.4** § 4 The provisions of Nos. **36.1**, **36.2** and **36.3** shall also apply to personnel of aircraft earth stations.
 
-#### Article 37. Operator’s certificates
+##### Article 37. Operator’s certificates
 
 **37.1** § 1 1) The service of every aircraft station and every aircraft earth station shall be controlled by an operator holding a certificate issued or recognized by the government to which the station is subject. Provided the station is so controlled, other persons besides the holder of the certificate may use the radiotelephone equipment.
 
@@ -5417,11 +5439,11 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **37.31** § 10 A radiotelephone operator’s certificate shall show whether it is a general certificate or a restricted certificate and, in the latter case, if it has been issued in conformity with the provisions of No. **37.30**.
 
-#### Article 38. Personnel
+##### Article 38. Personnel
 
 **38.1** Administrations shall ensure that the staff on duty in aeronautical stations and in aeronautical earth stations shall be adequately qualified to operate the stations efficiently.
 
-#### Article 39. Inspection of stations
+##### Article 39. Inspection of stations
 
 **39.1** § 1 1) The inspectors of governments or appropriate administrations of countries who visit an aircraft station or aircraft earth station may require the production of the licence for examination. The operator of the station, or the person responsible for the station, shall facilitate this examination. The licence shall be kept in such a way that it can be produced upon request.
 
@@ -5439,7 +5461,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **39.8** § 4 The frequencies of emissions of aircraft stations shall be checked by the inspection service to which these stations are subject.
 
-#### Article 40. Working hours of stations
+##### Article 40. Working hours of stations
 
 **40.1** § 1 Every station of the aeronautical mobile service and the aeronautical mobile- satellite service shall have an accurate clock correctly regulated to Coordinated Universal Time (UTC).
 
@@ -5447,11 +5469,11 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **40.3** § 3 Aircraft stations and aircraft earth stations in flight shall maintain service to meet the essential communications needs of the aircraft with respect to safety and regularity of flight and shall maintain watch as required by the competent authority and shall not cease watch, except for reasons of safety, without informing the aeronautical station or aeronautical earth station concerned.
 
-#### Article 41. Communications with stations in the maritime services
+##### Article 41. Communications with stations in the maritime services
 
 **41.1** Stations on board aircraft may communicate, for purposes of distress, and for public correspondence169)**41.1.1** Stations on board aircraft may communicate, for public correspondence purposes as long as watch is maintained on the frequencies provided for safety and regularity of flight., with stations of the maritime mobile or maritime mobile-satellite services. For these purposes, they shall conform to the relevant provisions of Chapter **VII** and Chapter **IX**, Articles **51** (Section III), **53**, **54**, **55**, **57** and **58** (see also Nos. **4.19**, **4.20** and **43.4**). (WRC-07)
 
-#### Article 42. Conditions to be observed by stations
+##### Article 42. Conditions to be observed by stations
 
 **42.1** § 1 The energy radiated by receiving apparatus shall be reduced to the lowest practical value and shall not cause harmful interference to other stations.
 
@@ -5461,7 +5483,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **42.4** § 4 The operation of a broadcasting service (see No. **1.38**) by an aircraft station at sea and over the sea is prohibited (see also No. **23.2**).
 
-#### Article 43. Special rules relating to the use of frequencies
+##### Article 43. Special rules relating to the use of frequencies
 
 **43.1** § 1 Frequencies in any band allocated to the aeronautical mobile (R) service and the aeronautical mobile-satellite (R) service are reserved for communications relating to safety and regularity of flight between any aircraft and those aeronautical stations and aeronautical earth stations primarily concerned with flight along national or international civil air routes.
 
@@ -5475,7 +5497,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **43.6** § 6 Governments may, by agreement, decide the frequencies to be used for call and reply in the aeronautical mobile service and the aeronautical mobile-satellite service.
 
-#### Article 44. Order of priority of communications
+##### Article 44. Order of priority of communications
 
 **44.1** § 1 The order of priority for communications170)**44.1.1** The term **communications** as used in this Article includes radiotelegrams, radiotelephone calls and radiotelex calls. in the aeronautical mobile service and the aeronautical mobile-satellite service shall be as follows, except where impracticable in a fully automated system in which, nevertheless, Category 1 shall receive priority:
 
@@ -5501,7 +5523,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **44.2** § 2 Categories 1 and 2 shall receive priority over all other communications irrespective of any agreement under the provisions of No. **35.1**.
 
-#### Article 45. General communication procedure
+##### Article 45. General communication procedure
 
 **45.1** § 1 As a general rule, it rests with the aircraft station to establish communication with the aeronautical station. For this purpose, the aircraft station may call the aeronautical station only when it comes within the designated operational coverage171)**45.1.1** Designated operational coverage is that volume of airspace needed operationally in order to provide a particular service and within which the facility is afforded frequency protection. area of the latter.
 
@@ -5519,7 +5541,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 ### CHAPTER IX. MARITIME SERVICES
 
-#### Article 46. Authority of the master
+##### Article 46. Authority of the master
 
 **46.1** § 1 The service of a ship station is placed under the supreme authority of the master or of the person responsible for the ship or other vessel carrying the station.
 
@@ -5529,7 +5551,7 @@ who have given proof of the knowledge and professional qualifications enumerated
 
 **46.4** § 4 The provisions of Nos. **46.1**, **46.2** and **46.3** shall also apply to personnel of ship earth stations.
 
-#### Article 47. Operator’s certificates
+##### Article 47. Operator’s certificates
 
 **47.1** (SUP – WRC-03)
 
@@ -5642,7 +5664,7 @@ NOTE 1 − A restricted operator’s certificate covers only the operation of GM
 
 NOTE 2 − (SUP - WRC-12)
 
-#### Article 48. Personnel
+##### Article 48. Personnel
 
 **48.1** § 1 Administrations shall ensure that the staff on duty in coast stations and in coast earth stations are adequately qualified to operate the stations efficiently.
 
@@ -5658,7 +5680,7 @@ NOTE 2 − (SUP - WRC-12)
 
 **48.7** § 5 The personnel of ship stations and ship earth stations for which a radio installation is not compulsory either under international agreements or national regulations and which use the frequencies and techniques prescribed in Chapter **VII** shall be adequately qualified and certificated in accordance with the administration’s requirements. Guidance concerning appropriate qualifications and certification is provided in Resolution **343 (Rev.WRC-12)**. That Resolution describes two appropriate certificates for use by personnel of ship stations and ship earth stations for which a radio installation is not compulsory. (WRC-23)
 
-#### Article 49. Inspection of stations
+##### Article 49. Inspection of stations
 
 **49.1** § 1 1) The governments or appropriate administrations of countries which a ship station or ship earth station visits may require the production of the licence for examination. The operator of the station, or the person responsible for the station, shall facilitate this examination. The licence shall be kept in such a way that it can be produced upon request. As far as possible, the licence, or a copy certified by the authority which has issued it, should be permanently exhibited in the station.
 
@@ -5676,7 +5698,7 @@ NOTE 2 − (SUP - WRC-12)
 
 **49.8** § 4 The frequencies of emissions of ship stations shall be checked by the inspection service to which these stations are subject.
 
-#### Article 50. Working hours of stations
+##### Article 50. Working hours of stations
 
 **50.1** § 1 In order to permit the application of the following rules on the subject of hours of watch, every station of the maritime mobile service and the maritime mobile-satellite service shall have an accurate clock correctly regulated to Coordinated Universal Time (UTC).
 
@@ -5696,7 +5718,7 @@ NOTE 2 − (SUP - WRC-12)
 
 **50.9** (SUP – WRC-07)
 
-#### Article 51. Conditions to be observed in the maritime services
+##### Article 51. Conditions to be observed in the maritime services
 
 **51.1** **A − General**
 
@@ -5846,7 +5868,7 @@ All ship stations equipped with narrow-band direct-printing telegraphy apparatus
 
 **51.80** 3) The frequency 156.8 MHz may be used by stations on board aircraft for safety purposes only (see Appendix **15**). (WRC-07)
 
-#### Article 52. Special rules relating to the use of frequencies
+##### Article 52. Special rules relating to the use of frequencies
 
 **52.1** **A − Single-sideband radiotelegraph transmissions**
 
@@ -6373,7 +6395,7 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 **52.266** Ship stations employing the class of emissions in accordance with No. **52.264** in the frequency bands between 4 000 kHz and 27 500 kHz shall not exceed a peak envelope power of 1.5 kW. (WRC-12)
 
-#### Article 53. Order of priority of communications
+##### Article 53. Order of priority of communications
 
 **53.1** § 1 All stations in the maritime mobile service and the maritime mobile-satellite service shall be capable of offering four levels of priority in the following order:
 
@@ -6387,17 +6409,17 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 **53.2** § 2 In a fully automated system, where it is impracticable to offer all four levels of priority, category 1 shall receive priority until such time as intergovernmental agreements175)**53.2.1** Requirements and performance standards for radio systems and equipment for maritime distress and safety radiocommunications are developed and adopted by the International Maritime Organization (IMO). remove exemptions granted for such systems from offering the complete order of priority.
 
-#### Article 54. Selective calling
+##### Article 54. Selective calling
 
 **54.1** § 1 1) Selective calling is designed for automatic station calling and distress alerting or the transmission of information for the organization of traffic.
 
 **54.2** 2) Selective calling is carried out using a digital selective-calling system which shall be in accordance with Recommendation ITU-R M.541-11, and may be in accordance with the most recent version of Recommendation ITU-R M.493. (WRC-23)
 
-#### Article 55. Morse radiotelegraphy
+##### Article 55. Morse radiotelegraphy
 
 **55.1** The recommended procedure for conducting Morse radiotelegraph communications is detailed in the most recent version of Recommendation ITU-R M.1170. (WRC-07)
 
-#### Article 56. Narrow-band direct-printing telegraphy
+##### Article 56. Narrow-band direct-printing telegraphy
 
 **56.1** § 1 Stations using narrow-band direct-printing telegraphy shall comply with the provisions of Articles **51** and **52**.
 
@@ -6413,7 +6435,7 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 **56.7** § 6 Where transmission over the telecommunication channels open to public correspondence (excluding the telecommunication channels of the mobile service and of the mobile- satellite service and its feeder links) is involved, the provisions of the International Telecommunication Regulations and the relevant ITU-T Recommendations should be taken into account.
 
-#### Article 57. Radiotelephony
+##### Article 57. Radiotelephony
 
 **57.1** § 1 The procedure detailed in Recommendation ITU-R M.1171-1 shall be applicable to radiotelephone stations, except in cases of distress, urgency or safety. (WRC-23)
 
@@ -6435,13 +6457,13 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 **57.10** § 6 When it is necessary for a station to make test signals, either for the adjustment of a transmitter before making a call or for the adjustment of a receiver, such signals shall be kept to a minimum but in any event, shall not exceed ten seconds, and shall include the call sign or other identification of the station emitting the test signals. This call sign or other identification shall be spoken slowly and distinctly.
 
-#### Article 58. Charging and accounting for maritime radiocommunications
+##### Article 58. Charging and accounting for maritime radiocommunications
 
 **58.1** The provisions of the International Telecommunications Regulations, taking into account ITU-T Recommendations, shall apply.
 
 ### CHAPTER X. PROVISIONS FOR ENTRY INTO FORCE OF THE RADIO REGULATIONS (WRC-12)
 
-#### Article 59. Entry into force and provisional application of the Radio Regulations (WRC-12)
+##### Article 59. Entry into force and provisional application of the Radio Regulations (WRC-12)
 
 **59.1** These Regulations, which complement the provisions of the Constitution and Convention of the International Telecommunication Union, and as revised and contained in the Final Acts of WRC-95, WRC-97, WRC-2000, WRC-03, WRC-07, WRC-12, WRC-15, WRC-19 and WRC-23, shall be applied, pursuant to Article 54 of the Constitution, on the following basis. (WRC-23)
 
@@ -6501,7 +6523,7 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 **99 (Rev.WRC-23)** (WRC-23)
 
-#### Article 29B. Radio service related to space weather observations
+##### Article 29B. Radio service related to space weather observations
 
 **29B.1** § 1 Space weather sensors may operate under the meteorological aids service in the subset MetAids (space weather) allocations. (WRC-23)
 
@@ -6513,7 +6535,7 @@ The conditions of use of these frequencies are specified in No. **52.11**.
 
 ### CHAPTER IX. MARITIME SERVICES
 
-#### Article 54A. Automatic connection system
+##### Article 54A. Automatic connection system
 
 **54A.1** § 1 1) An automatic connection system (ACS) using digital selective calling in MF and HF bands is designed to ensure reliable access to required radio links for mariners. (WRC-23)
 

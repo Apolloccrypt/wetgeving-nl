@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing Saba Bank als natuurpark"
+title: "Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 15 december 2010, nr. 169929, houdende aanwijzing van de Saba Bank als natuurpark"
 identifier: "BWBR0029161"
-categorie: "Milieu"
-publicatiedatum: 2013-06-01
-laatste_update: 2013-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029161"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2013-06-01"
+last_updated: "2013-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029161"
+soort: "ministeriele-regeling-BES"
+stam_id: "11123913"
+version_id: "20536412"
+internal_id: "C28878451"
+label_id: "11098244"
+dtd_version: "2.0"
+original_entry_into_force: "2013-05-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029161/2013-06-01/0"
+intitule_bron: "Stcrt.2010-20424"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-15"
+intitule_published: "2010-12-21"
+intitule_in_force: "2010-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-14291"
+original_signed_date: "2013-05-29"
+original_published_date: "2013-05-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2013-14291"
+entry_into_force_date: "2013-05-29"
+jci_1_3: "jci1.3:c:BWBR0029161&z=2013-06-01&g=2013-06-01"
+jci_1_0: "1.0:c:BWBR0029161&g=2013-06-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing Saba Bank als natuurpark"
+signed_date: "2013-05-29"
+entry_into_force: "2013-05-29"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 15 december 2010, nr. 169929, houdende aanwijzing van de Saba Bank als natuurpark
 
 In overeenstemming met de Minister van Infrastructuur en Milieu;
@@ -16,7 +42,7 @@ Gelet op [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=2a
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,13 +50,13 @@ In deze regeling wordt verstaan onder:
 
 - b. **minister:** Minister van Economisch Zaken, Landbouw en Innovatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Saba Bank wordt aangewezen als natuurpark als bedoeld in [artikel 2a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028434&artikel=2a).
 
 2. Het natuurpark, bedoeld in het eerste lid, omvat het gebied, zoals aangegeven op de kaart opgenomen in de bijlage bij deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden voor anker te gaan in het natuurpark, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=2&z=2013-06-01&g=2013-06-01).
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het verbod in het eerste lid is niet van toepassing ingeval van overmacht of hulpverlening.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De minister kan ontheffing verlenen van de verboden, bedoeld in [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=2a&z=2013-06-01&g=2013-06-01) en [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=3&z=2013-06-01&g=2013-06-01).
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan een afgegeven ontheffing verlengen, wijzigen, intrekken of aanvullen met voorschriften en beperkingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling kan worden aangehaald als: de Regeling aanwijzing Saba Bank als natuurpark.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag van de uitgifte van de Staatscourant, waarin zij wordt geplaatst.
 
@@ -87,7 +113,7 @@ De omhullende lijn heeft de volgende coördinaten in graden, minuten en seconden
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Het is verboden zich met een schip van 300 GT of meer te begeven binnen het natuurpark, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029161&artikel=2&z=2013-06-01&g=2013-06-01).
 

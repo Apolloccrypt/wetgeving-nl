@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling LFNP"
+title: "Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)"
 identifier: "BWBR0033460"
-categorie: "Overig"
-publicatiedatum: 2025-10-21
-laatste_update: 2025-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033460"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-21"
+last_updated: "2025-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033460"
+soort: "ministeriele-regeling"
+stam_id: "12271303"
+version_id: "30551032"
+internal_id: "C43794211"
+label_id: "12242684"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033460/2025-10-21/0"
+intitule_bron: "Stcrt.2013-13079"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-07"
+intitule_published: "2013-05-30"
+intitule_in_force: "2013-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1715"
+original_signed_date: "2024-12-18"
+original_published_date: "2025-01-07"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-1715"
+entry_into_force_date: "2024-12-18"
+jci_1_3: "jci1.3:c:BWBR0033460&z=2025-10-21&g=2025-10-21"
+jci_1_0: "1.0:c:BWBR0033460&g=2025-10-21"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling LFNP"
+signed_date: "2024-12-18"
+entry_into_force: "2024-12-18"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 7 mei 2013, nr. 382047, directoraat-generaal Politie, programma Arbeidsvoorwaarden in verband met de vaststelling van het Landelijk Functiegebouw Nederlandse Politie (Regeling vaststelling LFNP)
 
 Gelet op [artikel 6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - g. **de Minister:** de Minister van Justitie en Veiligheid.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de regeling behorende bijlagen. De Minister geeft ten behoeve hiervan de korpschef een aanwijzing als bedoeld in [artikel 31 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=31) met het oog op het verplichte gebruik van het door hem aangewezen systeem om functies te beschrijven respectievelijk te waarderen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanduiding van de functies, onderverdeeld naar de domeinen leiding, uitvoering en ondersteuning en naar vakgebieden, met de daaraan gekoppelde barema’s zijn opgenomen in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2025-10-21&g=2025-10-21).
 
@@ -48,17 +74,17 @@ Het bevoegd gezag kan de Minister een voorstel doen tot wijziging van de bij de 
 
 5. De aan de functiebeschrijvingen te koppelen werktitels zijn opgenomen in de bij deze regeling behorende [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=5&z=2025-10-21&g=2025-10-21).
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het kader van het vaststellen van passende arbeid als bedoeld in [artikel 49b, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=49b), stelt het bevoegd gezag zo nodig een functie samen uit een of meerdere functies opgenomen in de bij deze regeling behorende [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2025-10-21&g=2025-10-21). Bij het samenstellen van deze functie wordt rekening gehouden met de resterende verdiencapaciteit van de desbetreffende ambtenaar.
 
 2. Aan deze samengestelde functie wordt door het bevoegd gezag met inachtneming van [artikel 2, tweede volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&artikel=2&z=2025-10-21&g=2025-10-21), een salaris gekoppeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vaststelling LFNP.
 
@@ -6479,7 +6505,7 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak die enkel een krachtens [artikel 2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft gevolgd, kan enkel worden geplaatst in een functie in het vakgebied Intelligence, Forensische Opsporing, met uitzondering van het werkterrein Speurhondengeleiding, Tactische Opsporing, met uitzondering van de functies van Senior Tactische Opsporing en Operationeel Expert Tactische Opsporing, of Operationeel Specialismen, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=1&z=2025-10-21&g=2025-10-21).
 
@@ -6487,7 +6513,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 3. De ambtenaar in opleiding, bedoeld in [artikel 1, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), die na het voltooien van een krachtens [artikel 2c, tweede lid, van dat Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding wordt geplaatst in een functie als bedoeld in het eerste lid, is niet bewapend.
 
-#### Artikel 3b
+##### Artikel 3b
 
 De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033460&bijlage=3&z=2025-10-21&g=2025-10-21) opgenomen functiebeschrijvingen van de functies in de vakgebieden Operationeel Specialismen en Tactische Opsporing zijn voorbehouden aan de ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak en die een krachtens [artikel 2c, eerste lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c) aangewezen politieopleiding heeft voltooid:
 
@@ -6495,7 +6521,7 @@ De volgende activiteiten uit de in [bijlage 3](https://wetten.overheid.nl/jci1.3
 
 - b. het voeren van functioneringsgesprekken in verband met organisatorische coördinatie.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Deze regeling berust op de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=1), voor zover het de definitie van LFNP betreft, en [2c, tweede lid, van het Besluit algemene rechtspositie politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006516&artikel=2c), [artikel 20a van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=20a) en de [artikelen 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=1), voor zover het de definitie van LFNP betreft, en [6, tweede lid, van het Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517&artikel=6).
 
@@ -8089,7 +8115,7 @@ Werkterreinen, Aandachtsgebieden en Specifieke functionaliteiten LFNP
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Het bevoegd gezag kan tijdelijk aanvullende werkzaamheden opdragen aan de ambtenaar die geplaatst is in de Eenheid landelijke expertise en operaties of de Eenheid landelijke opsporing en interventies. Deze werkzaamheden kunnen bestaan uit:
 

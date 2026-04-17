@@ -1,13 +1,35 @@
 ---
-title: "Premiespaarregeling Binnenlandse Veiligheidsdienst 1968"
+title: "Besluit van 29 juni 1970, houdende nadere bepalingen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst"
 identifier: "BWBR0002717"
-categorie: "Bestuursrecht"
-publicatiedatum: 1968-07-01
-laatste_update: 1968-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002717"
+country: "nl"
+rank: "amvb"
+publication_date: "1968-07-01"
+last_updated: "1968-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002717"
+soort: "AMvB"
+stam_id: "676483"
+version_id: "984762"
+internal_id: "C984761"
+label_id: "655974"
+dtd_version: "2.0"
+original_entry_into_force: "1968-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002717/1968-07-01/0"
+intitule_bron: "Stb.1970-356"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-06-29"
+intitule_status: "goed"
+original_publication: "Stb.1970-356"
+original_signed_date: "1970-06-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1968-07-01"
+jci_1_3: "jci1.3:c:BWBR0002717&z=1968-07-01&g=1968-07-01"
+jci_1_0: "1.0:c:BWBR0002717&g=1968-07-01"
+citeertitel_status: "officieel"
+short_title: "Premiespaarregeling Binnenlandse Veiligheidsdienst 1968"
+signed_date: "1970-06-29"
+entry_into_force: "1968-07-01"
 ---
-
 # Besluit van 29 juni 1970, houdende nadere bepalingen voor de toepassing van de Premiespaarregeling Rijksambtenaren 1968 ten aanzien van belanghebbenden, die werkzaam zijn gesteld bij de Binnenlandse Veiligheidsdienst
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 27 mei 1970, nr. U 1411 Kabinet Afdeling Personeelszaken/Kabinet;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister voornoemd van 23 juni 1970, nr. 1617,
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - g. "afzonderlijke rekening": de rekening als bedoeld in artikel 4, tweede lid van de spaarregeling 1968, zoals dat ingevolge het bepaalde in [artikel II onder A](https://wetten.overheid.nl/jci1.3:c:BWBR0002717&artikel=II&z=1968-07-01&g=1968-07-01) van dit besluit wordt gelezen.
 
-#### Artikel II
+##### Artikel II
 
 Voor de toepassing van de spaarregeling 1968 ten aanzien van belanghebbende wordt:
 
@@ -54,41 +76,41 @@ Voor de toepassing van de spaarregeling 1968 ten aanzien van belanghebbende word
 
 - C. het bepaalde in artikel 15 buiten toepassing gelaten.
 
-#### Artikel III
+##### Artikel III
 
 De dienstspaarrekening wordt geopend bij een instelling, waarvan het bestuur zich bereid heeft verklaard te voldoen aan de door Onze Minister te stellen voorwaarden voor deelneming aan de uitvoering van de spaarregeling 1968.
 
-#### Artikel IV
+##### Artikel IV
 
 Op de afzonderlijke rekening wordt rente bijgeschreven op dezelfde rentevoet als vastgesteld voor de dienstspaarrekening.
 
 Deze rente wordt niet in aanmerking genomen voor de vaststelling van de premiegrondslag, bedoeld in artikel 11 van de spaarregeling 1968.
 
-#### Artikel V
+##### Artikel V
 
 Degene, die aan de spaarregeling 1968 deelneemt op de in artikel 4 van die regeling aangegeven wijze en bij de dienst wordt tewerkgesteld, kan het saldo van zijn bijzondere spaarrekening door tussenkomst van de dienst storten op de dienstspaarrekening. Dit saldo wordt alsdan geboekt op een afzonderlijke rekening en komt voor premietoekenning in aanmerking, als ware dit besluit gedurende de periode waarin het saldo is gespaard van toepassing geweest.
 
-#### Artikel VI
+##### Artikel VI
 
 Ingeval van ontslag met behoud van het recht tot voortzetting van de deelneming aan de spaarregeling 1968 wordt op verzoek van de gewezen belanghebbende van dienstwege een bijzondere spaarrekening te zijnen name geopend bij de instelling, waarbij de dienstspaarrekening is geopend. Het op de afzonderlijke rekening geboekte spaarsaldo wordt op deze bijzondere spaarrekening bijgeschreven en komt voor premietoekenning in aanmerking, als ware de spaarregeling 1968 gedurende de periode waarin het saldo is gespaard, ongewijzigd van toepassing geweest.
 
-#### Artikel VII
+##### Artikel VII
 
 De door Onze Minister op grond van het bepaalde in de spaarregeling 1968 vastgestelde nadere voorschriften zijn ten aanzien van belanghebbenden slechts van toepassing voor zover krachtens het volgende artikel niet anders is bepaald.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Nadere voorschriften ter uitvoering van dit besluit worden vastgesteld door Onze Minister.
 
-#### Artikel IX
+##### Artikel IX
 
 De Premiespaarregeling Binnenlandse Veiligheidsdienst wordt ingetrokken.
 
-#### Artikel X
+##### Artikel X
 
 Dit besluit kan worden aangehaald als "Premiespaarregeling Binnenlandse Veiligheidsdienst 1968".
 
-#### Artikel XI
+##### Artikel XI
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad**, waarin het wordt geplaatst, en werkt terug tot 1 juli 1968.
 

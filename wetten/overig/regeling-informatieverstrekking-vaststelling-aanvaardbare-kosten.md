@@ -1,26 +1,51 @@
 ---
 title: "Regeling Informatieverstrekking vaststelling aanvaardbare kosten"
 identifier: "BWBR0034142"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034142"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034142"
+soort: "zbo"
+stam_id: "12421623"
+version_id: "20849012"
+internal_id: "C31272211"
+label_id: "12392564"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034142/2014-01-01/0"
+intitule_bron: "Stcrt.2013-30618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-10-23"
+intitule_published: "2013-11-04"
+intitule_in_force: "2013-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-30618"
+original_signed_date: "2013-10-23"
+original_published_date: "2013-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-30618"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034142&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034142&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "2013-10-23"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling Informatieverstrekking vaststelling aanvaardbare kosten
 
 Ingevolge [artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62) en [68 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) (Wmg), is de Nederlandse Zorgautoriteit (NZa) bevoegd tot het stellen van regels op het gebied van informatieverstrekking voor de vaststelling van de aanvaardbare kosten.
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze regeling is van toepassing op regionale ambulancevoorzieningen (categorienummer: 240).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel het stellen van regels over de informatie die regionale ambulancevoorzieningen moeten aanleveren ten behoeve van de vaststelling van de aanvaardbare kosten. Deze regels hebben betrekking op de inhoud van de informatie zelf, de wijze waarop deze moet worden aangeleverd en de termijnen waarbinnen dat dient te geschieden.
 
-#### Artikel 3. Begripsbepalingen
+##### Artikel 3. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In deze regeling wordt verstaan onder:
 
 - **gebudgetteerde instelling:** zorgaanbieder die rechtspersoonlijkheid bezit en op wie de budgetsystematiek van toepassing is.
 
-#### Artikel 4. Te verstrekken informatie Regionale Ambulancevoorzieningen
+##### Artikel 4. Te verstrekken informatie Regionale Ambulancevoorzieningen
 
 1. Regionale ambulancevoorzieningen zijn op grond van de beleidsregel ‘Regionale ambulancevoorziening 2014’ voor het budgetjaar 2014 verplicht om de marktaandelen per verzekeraar aan te leveren. Deze marktaandelen per verzekeraar zijn gebaseerd op gegevens van het jaar (t-2) en/of (t-1) en hebben betrekking op declaratiegegevens van 12 aaneengesloten maanden. Deze aanlevering maakt onderdeel uit van de aanvraag van het voorlopige budget.
 
@@ -62,15 +87,15 @@ het volledig ingevulde digitale formulier met de volgende bijlagen:
 
 Eventuele extra vermeldingen op het ondertekende formulier zijn niet geldig en worden niet meegenomen in de besluitvorming.
 
-#### Artikel 5. Accountantsverklaring
+##### Artikel 5. Accountantsverklaring
 
 De zorgaanbieders bedoeld in artikel 4 zijn verplicht er zorg voor te dragen dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](onbekend) de juistheid van de te verstrekken gegevens en inlichtingen bedoeld in artikel 4, vierde en vijfde lid, bevestigt overeenkomstig de wijze als beschreven in het door de NZa vastgestelde Controleprotocol.
 
-#### Artikel 6. Wijze van verstrekking
+##### Artikel 6. Wijze van verstrekking
 
 De in artikel 4 genoemde formulieren zijn beschikbaar gesteld op de website van de NZa (www.nza.nl). Zorgaanbieders dienen de in deze artikelen bedoelde informatie vervolgens in te dienen via de NZa portal, dan wel te verzenden naar formulierencure@nza.nl.
 
-#### Artikel 7. Gebrekkige aanlevering
+##### Artikel 7. Gebrekkige aanlevering
 
 1. Van een gebrekkige aanlevering is sprake indien de in artikel 4 bedoelde informatie onjuist, onvolledig, niet, of niet tijdig wordt aangeleverd.
 
@@ -78,15 +103,15 @@ De in artikel 4 genoemde formulieren zijn beschikbaar gesteld op de website van 
 
 3. Van een niet, of niet tijdige, aanlevering is sprake, indien na het verstrijken van de geldende indieningstermijnen geen, of alsnog een aanlevering van de in artikel 4 genoemde informatie is ontvangen. Bij de beoordeling of sprake is van een niet tijdige aanlevering, is niet relevant of de informatie onjuist, onvolledig, of compleet is. Indien de in artikel 4 bedoelde informatie niet, of niet tijdig is ontvangen, maakt de NZa in beginsel gebruik van de haar toekomende handhavende bevoegdheden genoemd in [hoofdstuk 6 van de Wmg](onbekend). Voor deze gevallen wordt een separaat en nader in te vullen handhavingstraject vastgesteld. Daarbij wordt ook bepaald in welk geval welk handhavingsinstrument (aanwijzing, boete, last onder dwangsom, etc.) wordt ingezet.
 
-#### Artikel 8. Intrekking oude regeling
+##### Artikel 8. Intrekking oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [regeling ‘Informatieverstrekking vaststelling aanvaardbare kosten](onbekend)’, kenmerk NR/CU-212, ingetrokken.
 
-#### Artikel 9. Overgangsbepaling
+##### Artikel 9. Overgangsbepaling
 
 De [regeling 'Informatieverstrekking vaststelling aanvaardbare kosten](onbekend)', met kenmerk NR/CU-212, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 
-#### Artikel 10. Inwerkingtreding en citeerregel
+##### Artikel 10. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van 1 januari 2014.
 

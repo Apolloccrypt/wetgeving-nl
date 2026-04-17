@@ -1,13 +1,37 @@
 ---
 title: "Handleiding Rijkswet op het Nederlanderschap 2003"
 identifier: "BWBW33099"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-02-01
-laatste_update: 2026-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBW33099"
+country: "nl"
+rank: "circulaire"
+publication_date: "2026-02-01"
+last_updated: "2026-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBW33099"
+soort: "circulaire"
+stam_id: "8580473"
+version_id: "31118232"
+internal_id: "C44540601"
+label_id: "8569554"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBW33099/2026-02-01/0"
+intitule_bron: "Supplement-Stcrt.2003-44"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2003-03-04"
+intitule_in_force: "2003-03-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-35597"
+original_signed_date: "2025-10-24"
+original_published_date: "2025-10-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-35597"
+entry_into_force_date: "2026-02-01"
+jci_1_3: "jci1.3:c:BWBW33099&z=2026-02-01&g=2026-02-01"
+jci_1_0: "1.0:c:BWBW33099&g=2026-02-01"
+citeertitel_status: "officieel"
+signed_date: "2025-10-24"
+entry_into_force: "2026-02-01"
 ---
-
 # Handleiding Rijkswet op het Nederlanderschap 2003
 
 ### Algemeen

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel bevoegdheden en begrippen Wibv"
+title: "Beleidsregel van de Minister voor Medische Zorg van 9 november 2018, kenmerk 1443084-183704-GMT, in verband met de invulling van een aantal bevoegdheden en begrippen uit de Wet inzake bloedvoorziening (Beleidsregel bevoegdheden en begrippen Wibv)"
 identifier: "BWBR0041558"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041558"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041558"
+soort: "beleidsregel"
+stam_id: "14860363"
+version_id: "25422632"
+internal_id: "C36298341"
+label_id: "14811884"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041558/2019-01-01/0"
+intitule_bron: "Stcrt.2018-64643"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-11-09"
+intitule_published: "2018-11-19"
+intitule_in_force: "2018-11-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-64643"
+original_signed_date: "2018-11-09"
+original_published_date: "2018-11-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-64643"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041558&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041558&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bevoegdheden en begrippen Wibv"
+signed_date: "2018-11-09"
+entry_into_force: "2019-01-01"
 ---
-
 # Beleidsregel van de Minister voor Medische Zorg van 9 november 2018, kenmerk 1443084-183704-GMT, in verband met de invulling van een aantal bevoegdheden en begrippen uit de Wet inzake bloedvoorziening (Beleidsregel bevoegdheden en begrippen Wibv)
 
 Gelet op de [artikelen 3a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3a), en [3c van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=3c);

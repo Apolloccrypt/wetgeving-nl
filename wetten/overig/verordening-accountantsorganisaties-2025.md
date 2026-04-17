@@ -1,13 +1,35 @@
 ---
 title: "Verordening accountantsorganisaties 2025"
 identifier: "BWBR0050613"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050613"
+country: "nl"
+rank: "pbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050613"
+soort: "pbo"
+stam_id: "17321723"
+version_id: "30520822"
+internal_id: "C43754171"
+label_id: "17226034"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050613/2025-01-01/0"
+intitule_bron: "Stcrt.2024-41349"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-12-17"
+intitule_in_force: "2024-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-41349"
+original_published_date: "2024-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-41349"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050613&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050613&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2025-01-01"
 ---
-
 # Verordening accountantsorganisaties 2025
 
 Gelet op [artikel 19, eerste lid en tweede lid, onderdeel b, van de Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573&artikel=19);
@@ -22,7 +44,7 @@ Stelt de volgende verordening vast:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In deze verordening en daarop berustende bepalingen wordt, voor zover niet anders is bepaald, verstaan onder:
 
@@ -38,7 +60,7 @@ In deze verordening en daarop berustende bepalingen wordt, voor zover niet ander
 
 ### Hoofdstuk 2. Kwaliteitsmanagementsysteem
 
-#### Artikel 2
+##### Artikel 2
 
 1. De accountantsorganisatie beschikt over een kwaliteitsmanagementsysteem dat is afgestemd op de aard en omstandigheden van de accountantsorganisatie en van haar opdrachten.
 
@@ -60,7 +82,7 @@ In deze verordening en daarop berustende bepalingen wordt, voor zover niet ander
 
 - h. het monitoring- en herstelproces.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De accountantsorganisatie zorgt ervoor dat zij ter zake van het risico van beroepsaansprakelijkheid van haarzelf en van de bij haar werkzame of aan haar verbonden medewerkers en andere personen in redelijke mate is verzekerd.
 
@@ -98,13 +120,13 @@ In deze verordening en daarop berustende bepalingen wordt, voor zover niet ander
 
 4. Het bestuur is bevoegd op een schriftelijk en gemotiveerd verzoek van de accountantsorganisatie ontheffing te verlenen van het bepaalde in het eerste lid op grond van het feit dat de personen die het dagelijks beleid van de accountantsorganisatie bepalen erkende gemoedsbezwaren hebben tegen elke vorm van verzekering. Het bestuur kan aan deze ontheffing voorwaarden verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De accountantsorganisatie regelt op adequate wijze de waarneming van de uitvoering van een wettelijke controle in geval van ontstentenis, belet of langdurige arbeidsongeschiktheid van een bij haar werkzame of aan haar verbonden externe accountant.
 
 2. Waarneming kan uitsluitend geschieden door een andere externe accountant die werkzaam is bij of verbonden is aan dezelfde accountantsorganisatie.
 
-#### Artikel 5
+##### Artikel 5
 
 De accountantsorganisatie treft zodanige voorzieningen dat in geval van het overlijden van een bij haar werkzame of aan haar verbonden externe accountant een juiste afwikkeling van de beroepsuitoefening is gewaarborgd.
 
@@ -112,7 +134,7 @@ De accountantsorganisatie treft zodanige voorzieningen dat in geval van het over
 
 #### Paragraaf 3.1. Algemene bepalingen onafhankelijkheid
 
-#### Artikel 6
+##### Artikel 6
 
 Dit hoofdstuk is niet van toepassing op betrekkingen tussen een in het buitenland gevestigd onderdeel van het netwerk of een daaraan verbonden persoon en:
 
@@ -122,7 +144,7 @@ Dit hoofdstuk is niet van toepassing op betrekkingen tussen een in het buitenlan
 
 als de externe accountant vaststelt dat identificatie en beoordeling van een bedreiging als gevolg van die betrekkingen en het nemen van een maatregel plaatsvindt aan de hand van regels die ten minste gelijkwaardig zijn aan de Code of Ethics van the International Ethics Standards Board for Accountants.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De accountantsorganisatie die op grond van een zwaarwegend maatschappelijk belang een wettelijke controle continueert in een situatie waarin zij door een uitzonderlijke omstandigheid niet langer voldoet aan bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468) of de [Wet op het accountantsberoep](https://wetten.overheid.nl/jci1.3:c:BWBR0032573) gestelde regels aan onafhankelijkheid, wordt geacht de onafhankelijke uitvoering van de wettelijke controle te waarborgen als:
 
@@ -136,7 +158,7 @@ als de externe accountant vaststelt dat identificatie en beoordeling van een bed
 
 #### Paragraaf 3.2. Aanvullende bepalingen onafhankelijkheid
 
-#### Artikel 8
+##### Artikel 8
 
 De accountantsorganisatie die heeft besloten een lopende wettelijke controle tussentijds te beëindigen vanwege een juridische procedure als bedoeld in [artikel 45, tweede lid, van de ViO](https://wetten.overheid.nl/jci1.3:c:BWBR0034652&artikel=45):
 
@@ -144,34 +166,34 @@ De accountantsorganisatie die heeft besloten een lopende wettelijke controle tus
 
 - b. bepaalt of zij gedurende het overleg werkzaamheden uitvoert met betrekking tot die wettelijke controle, waarbij ze [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050613&hoofdstuk=3&paragraaf=3.1&artikel=7&z=2025-01-01&g=2025-01-01) in acht neemt.
 
-#### Artikel 9
+##### Artikel 9
 
 De accountantsorganisatie waarborgt dat een externe accountant die bij een wettelijke controle gebruik maakt van de werkzaamheden van interne auditors van de controlecliënt als bedoeld in [artikel 1, eerste lid, onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=1) dit doet op de manier zoals genoemd in [Standaard 610, paragraaf 1, sub a, NV COS](onbekend).
 
 ### Hoofdstuk 4. Wijzigingen en intrekking van regelingen
 
-#### Artikel 10
+##### Artikel 10
 
 De [Verordening accountantsorganisaties](https://wetten.overheid.nl/jci1.3:c:BWBR0035459), vastgesteld door de ledenvergadering van de Nederlandse beroepsorganisatie van accountants wordt ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 In [artikel 24 van de Verordening gedrags- en beroepsregels](https://wetten.overheid.nl/jci1.3:c:BWBR0034635&artikel=24) wordt na de eerste zin een zin ingevoegd, luidende: Nadere voorschriften ten aanzien van het beginsel van vakbekwaamheid en zorgvuldigheid kunnen in het bijzonder betrekking hebben op naleving van door het bestuur aan te wijzen kwaliteitsmanagementstandaarden.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Het bestuur kan nadere voorschriften vaststellen aangaande de onafhankelijkheid, het kwaliteitsmanagementsysteem en de integere bedrijfsvoering van een accountantsorganisatie. Deze voorschriften kunnen in het bijzonder betrekking hebben op naleving van door het bestuur aan te wijzen kwaliteitsmanagementstandaarden.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze verordening treedt in werking op 1 januari 2025. In het geval de Staatscourant waarin deze verordening wordt gepubliceerd verschijnt na 31 december 2024, dan treedt de verordening in werking op de dag na publicatie in de Staatscourant en werkt terug tot 1 januari 2025.
 
-#### Artikel 14
+##### Artikel 14
 
 De [VAO](https://wetten.overheid.nl/jci1.3:c:BWBR0035459) zoals deze luidde tot de inwerkingtreding van deze verordening blijft tot 1 januari 2026 van toepassing op accountantsorganisaties met een vergunning die niet mede strekt tot het verrichten van wettelijke controles bij organisaties van openbaar belang.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze verordening wordt aangehaald als: Verordening accountantsorganisaties 2025, bij afkorting VAO 2025.

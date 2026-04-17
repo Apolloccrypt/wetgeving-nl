@@ -1,13 +1,37 @@
 ---
 title: "Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999"
 identifier: "BWBR0008678"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1997-05-30
-laatste_update: 1997-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008678"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-05-30"
+last_updated: "1997-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008678"
+soort: "circulaire"
+stam_id: "6335113"
+version_id: "10989472"
+internal_id: "C14881521"
+label_id: "6324594"
+original_entry_into_force: "1997-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008678/1997-05-30/0"
+intitule_bron: "Stcrt.1997-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-12"
+intitule_published: "1997-05-30"
+intitule_in_force: "1997-05-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-100"
+original_signed_date: "1997-05-12"
+original_published_date: "1997-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-100-p8-SC9427"
+entry_into_force_date: "1997-05-30"
+jci_1_3: "jci1.3:c:BWBR0008678&z=1997-05-30&g=1997-05-30"
+jci_1_0: "1.0:c:BWBR0008678&g=1997-05-30"
+citeertitel_status: "redactioneel"
+signed_date: "1997-05-12"
+entry_into_force: "1997-05-30"
 ---
-
 # Arbeidsvoorwaarden en andere personeelsaangelegenheden in de sector Rijk 1997-1999
 
 «Circulaire aan de ministers»

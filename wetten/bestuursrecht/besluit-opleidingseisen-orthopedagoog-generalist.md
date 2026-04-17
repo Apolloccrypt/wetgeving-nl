@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen orthopedagoog-generalist"
+title: "Besluit van 1 oktober 2019, houdende regels inzake de opleiding tot orthopedagoog-generalist"
 identifier: "BWBR0042645"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-12-01
-laatste_update: 2022-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042645"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-12-01"
+last_updated: "2022-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042645"
+soort: "AMvB"
+stam_id: "15206533"
+version_id: "26064642"
+internal_id: "C37357131"
+label_id: "15153794"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042645/2022-12-01/0"
+intitule_bron: "Stb.2019-318"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-10-01"
+intitule_published: "2019-10-17"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stb.2019-318"
+original_signed_date: "2019-10-01"
+original_published_date: "2019-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2019-318"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0042645&z=2022-12-01&g=2022-12-01"
+jci_1_0: "1.0:c:BWBR0042645&g=2022-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen orthopedagoog-generalist"
+signed_date: "2019-10-01"
+entry_into_force: "2020-01-01"
 ---
-
 # Besluit van 1 oktober 2019, houdende regels inzake de opleiding tot orthopedagoog-generalist
 
 Op de voordracht van Onze Minister voor Medische Zorg van 15 juli 2019, kenmerk 1543320-192213-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In dit besluit wordt verstaan onder:
 
 - b. **wet:** [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van orthopedagogen-generalist te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot orthopedagoog-generalist heeft afgelegd, uitgereikt door een krachtens [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=3&artikel=7&z=2022-12-01&g=2022-12-01) aangewezen opleidingsinstelling.
 
 #### § 2. Opleiding
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot orthopedagoog-generalist bestaat uit ten minste 3.600 uren, die als volgt zijn verdeeld:
 
@@ -52,7 +78,7 @@ Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:B
 
 3. De werkervaring, bedoeld in het eerste lid, onderdeel b, is gespreid over ten minste twee jaren en wordt in elk geval opgedaan met de ontwikkeling, uitvoering en evaluatie van orthopedagogische behandelings- en begeleidingsmethoden in opvoedings- en ontwikkelsituaties en in afhankelijkheidsrelaties.
 
-#### Artikel 4
+##### Artikel 4
 
 De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 33f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=33f), te weten:
 
@@ -70,7 +96,7 @@ De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene comp
 
 - g. maatschappelijk handelen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De competentie orthopedagogische deskundigheid omvat de bekwaamheid om:
 
@@ -142,7 +168,7 @@ De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene comp
 
 - c. een bijdrage te leveren aan het maatschappelijk debat en beleid rondom de orthopedagogische zorgverlening.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tot de opleiding tot orthopedagoog-generalist wordt slechts toegelaten diegene die in het bezit is van een getuigschrift waaruit blijkt dat hij een doctoraalexamen of een masteropleiding pedagogische wetenschappen, psychologie of gezondheidswetenschappen aan een instelling voor wetenschappelijk onderwijs met goed gevolg heeft afgerond.
 
@@ -156,7 +182,7 @@ De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene comp
 
 #### § 3. Opleidingsinstellingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister kan, op hun daartoe strekkende verzoek, opleidingsinstellingen aanwijzen die een opleiding tot orthopedagoog-generalist verzorgen die naar zijn oordeel voldoet aan de [artikelen 3 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=2&artikel=3&z=2022-12-01&g=2022-12-01).
 
@@ -176,11 +202,11 @@ De opleiding tot orthopedagoog-generalist is erop gericht dat de betrokkene comp
 
 6. Van een aanwijzing of een intrekking van een aanwijzing wordt kennisgegeven in de Staatscourant.
 
-#### Artikel 8
+##### Artikel 8
 
 De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.2), [7.3, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3), [7.6, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.6), [7.10, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.10), [7.11, eerste lid, tweede lid, onderdelen a en b, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.11), [7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12), [7.12a](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12a), [7.12b, eerste lid, onderdelen a, b, d en e, en tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12b), [7.12c](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.12c), [7.13, eerste lid, en tweede lid, onderdelen a tot en met d, j tot en met u en x](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.13), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.14), [7.15, eerste lid, onderdelen a tot en met e, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.15), [7.42a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.42a), [7.57h](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.57h), [7.59 tot en met 7.60](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.59), [7.61, eerste lid, onderdelen c en e, en tweede tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.61), [7.62](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.62) en [7.63 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.63).
 
-#### Artikel 9
+##### Artikel 9
 
 1. De opleidingsinstelling wijst een hoofdopleider aan die verantwoordelijk is voor de opleiding van een persoon die tot de opleiding is toegelaten.
 
@@ -194,7 +220,7 @@ De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7
 
 #### § 4. Overgangsrecht
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met het bezit van een getuigschrift als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042645&paragraaf=1&artikel=2&z=2022-12-01&g=2022-12-01) wordt gelijkgesteld het gezamenlijk bezit van:
 
@@ -210,27 +236,27 @@ De opleidingsinstelling organiseert het onderwijs overeenkomstig de [artikelen 7
 
 #### § 5. Overige bepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Besluit periodieke registratie Wet BIG.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Tuchtrechtbesluit BIG.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen orthopedagoog-generalist.
 

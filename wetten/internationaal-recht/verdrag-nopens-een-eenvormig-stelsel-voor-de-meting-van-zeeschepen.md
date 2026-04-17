@@ -1,13 +1,37 @@
 ---
 title: "Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen"
 identifier: "BWBV0005524"
-categorie: "Internationaal recht"
-publicatiedatum: 1964-02-01
-laatste_update: 1964-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005524"
+country: "nl"
+rank: "verdrag"
+publication_date: "1964-02-01"
+last_updated: "1964-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005524"
+soort: "verdrag"
+stam_id: "10004686283"
+version_id: "10004950612"
+internal_id: "C10007607051"
+label_id: "10004672244"
+dtd_version: "2.0"
+original_entry_into_force: "1954-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005524/1964-02-01/0"
+intitule_bron: "Stb.1949-J 370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1949-08-06"
+intitule_published: "1949-09-09"
+intitule_in_force: "1955-05-09"
+intitule_status: "goed"
+original_publication: "Stb.1949-J 370"
+original_signed_date: "1949-08-06"
+original_published_date: "1949-09-09"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1954-12-30"
+jci_1_3: "jci1.3:c:BWBV0005524&z=1964-02-01&g=1964-02-01"
+jci_1_0: "1.0:c:BWBV0005524&g=1964-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "1949-08-06"
+entry_into_force: "1954-12-30"
 ---
-
 # Verdrag nopens een eenvormig stelsel voor de meting van zeeschepen
 
 De Regeringen van België, Denemarken, Finland, Frankrijk, IJsland, Nederland, Noorwegen en Zweden;
@@ -66,23 +90,23 @@ G. J. Ambjörn, Hoogleraar aan de Technische Hogeschool te Chalmers,
 
 die, na hun volmachten te hebben overgelegd, welke in goede orde zijn bevonden, tot overeenstemming zijn gekomen ten aanzien van de volgende bepalingen:
 
-#### Artikel 1
+##### Artikel 1
 
 Bij het meten van zeeschepen, met het doel hun inhoud vast te stellen en bij het merken van zeeschepen in verband met zodanige meting, verbinden de verdragsluitende Regeringen zich de voorschriften in acht te nemen, bekend onder de naam „Internationale Voorschriften voor de Meting van Zeeschepen”, vastgesteld vanwege de Volkenbond en gedateerd 30 Juni 1939, hierbij als Bijlage toegevoegd, en welke derhalve thans door alle verdragsluitende Regeringen bij dit Verdrag als de voorschriften voor het meten en merken van zeeschepen worden beschouwd.
 
 Het Verdrag en de Bijlage kunnen worden gewijzigd overeenkomstig Artikel 12.
 
-#### Artikel 2
+##### Artikel 2
 
 Het meten en merken van zeeschepen geschiedt vanwege de bevoegde autoriteit door ambtenaren, die aan de noodzakelijke eisen van bekwaamheid voldoen. De betrokken Regering kan evenwel het meten en merken toevertrouwen aan een instelling, voor dit doel door de Regering officiëel erkend. In beide gevallen staat de betrokken Regering er ten volle voor in, dat het meten en merken volledig en doelmatig wordt verricht.
 
-#### Artikel 3
+##### Artikel 3
 
 Een certificaat, genoemd „Internationale Meetbrief, overeenkomstig het Verdrag, gesloten te Oslo op 10 Juni 1947” (hierna te noemen Internationale Meetbrief), wordt afgegeven voor elk schip, dat gemeten en gemerkt is overeenkomstig dit Verdrag. Zulk een certificaat mag voor geen ander schip worden afgegeven.
 
 Een Internationale Meetbrief wordt afgegeven door de bevoegde autoriteit of door een instelling, officiëel erkend overeenkomstig artikel 2. In beide gevallen aanvaardt de betrokken Regering de volle aansprakelijkheid voor het certificaat.
 
-#### Artikel 4
+##### Artikel 4
 
 De Regering van een land, waar dit Verdrag van toepassing is, kan op verzoek van of namens de Regering van elk ander land, waar dit Verdrag van toepassing is, elk zeeschip, dat thuis behoort in laatstgenoemd land, doen meten en merken op kosten van de eigenaar van het schip, overeenkomstig de bepalingen van dit Verdrag en een Internationale Meetbrief voor zulk een schip op haar eigen verantwoordelijkheid afgeven. Op dezelfde wijze kan het meten en merken geschieden van een schip, dat in aanbouw is voor rekening van een eigenaar in een ander land, waar dit Verdrag van toepassing is.
 
@@ -92,13 +116,13 @@ De Regering, die een zodanige meetbrief heeft afgegeven, doet aan de Regering va
 
 Wanneer een schip wordt overgedragen van een land, waar dit Verdrag van toepassing is, naar enig ander land, waar dit Verdrag van toepassing is, doet de Regering van het eerstbedoelde land op verzoek van de Regering van het laatstbedoelde land aan deze Regering onverwijld een gewaarmerkt afschrift toekomen van de Meetbrief, geldig voor het schip en van de Metingstaten, waarop die meetbrief is gegrond.
 
-#### Artikel 5
+##### Artikel 5
 
 De Internationale Meetbrief wordt opgemaakt in de officiële taal van het land, waardoor hij wordt afgegeven. Indien dit niet de Engelse taal is, wordt de tekst vertaald in het Engels, geheel of gedeeltelijk al naar gelang zulks nodig voorkomt.
 
 Het formulier van de Meetbrief is overeenkomstig het betreffende model, aangegeven in de aanhangsels 1 en 2 van de Bijlage.
 
-#### Artikel 6
+##### Artikel 6
 
 Een Internationale Meetbrief blijft van kracht zolang het schip, waarvoor hij is afgegeven, niet zodanig is veranderd, dat het niet overeenstemt met de bijzonderheden betreffende de inhoud of de omschrijving, vervat in de Meetbrief.
 
@@ -106,11 +130,11 @@ Indien zulk een verandering is aangebracht, wordt, nadat het schip in voldoende 
 
 Indien een schip, voorzien van een Internationale Meetbrief, is overgedragen van een land, waar dit Verdrag van toepassing is, naar een ander land, waar dit Verdrag van toepassing is, wordt het schip, nadat het in voldoende mate is hermeten, zo spoedig mogelijk voorzien van een nieuwe Internationale Meetbrief, afgegeven door of namens het land, waarnaar het schip is overgedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan Internationale Meetbrieven, afgegeven op gezag van een verdragsluitende Regering, wordt door de andere verdragsluitende Regeringen dezelfde waarde toegekend als aan de Internationale Meetbrieven, door haar afgegeven voor schepen, thuisbehorende in haar onderscheidenlijke landen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een schip, voorzien van een Internationale Meetbrief, is, wanneer het zich bevindt in een haven van een land, waar het niet thuisbehoort, maar waar dit Verdrag van toepassing is, onderworpen aan contrôle met betrekking tot de meting van zeeschepen. Een dergelijke contrôle zal uitsluitend ten doel hebben zekerheid te verkrijgen:
 
@@ -126,17 +150,17 @@ Aan Internationale Meetbrieven, afgegeven op gezag van een verdragsluitende Rege
 
 Zodra verbetering is aangebracht, wordt de Regering van het land, waar de waarnemingen werden gedaan, hiervan in kennis gesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 Op de rechten uit dit Verdrag kan geen aanspraak worden gemaakt ten behoeve van enig schip, dat niet in het bezit is van een Internationale Meetbrief.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een schip, thuisbehorend in een land, waar dit Verdrag van toepassing is, is gemeten overeenkomstig de beginselen, omschreven in de Bijlage bij dit Verdrag (algemeen bekend als het Engelse systeem), voordat het Verdrag van kracht is geworden in het betreffende land, geeft de meetbrief, aangevende de inhoud, gebaseerd op een dergelijke meting en afgegeven in het land, waar het schip thuisbehoort, aanspraak op dezelfde rechten als een Internationale Meetbrief.
 
 Indien een schip, na de afgifte van een dergelijke meetbrief, verandering heeft ondergaan, als bedoeld in artikel 6 van dit Verdrag, wordt het schip voorzien van een Internationale Meetbrief, nadat het is hermeten in de mate als nodig wordt geacht.
 
-#### Artikel 11
+##### Artikel 11
 
 De verdragsluitende Regeringen verplichten zich elkaar mededeling te doen van:
 
@@ -146,7 +170,7 @@ De verdragsluitende Regeringen verplichten zich elkaar mededeling te doen van:
 
 De Regering van Noorwegen wordt uitgenodigd haar bemiddeling te verlenen voor het verzamelen van deze gegevens en voor mededeling daarvan aan de andere verdragsluitende Regeringen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Wijzigingen van dit Verdrag, welke nuttig of noodzakelijk worden geacht, alsmede van de hierbij gevoegde voorschriften, kunnen te allen tijde worden voorgesteld door iedere verdragsluitende Regering aan de Regering van Noorwegen; deze voorstellen worden door laatstgenoemde aan alle andere verdragsluitende Regeringen medegedeeld en, indien een zodanige wijziging wordt aangenomen door alle verdragsluitende Regeringen (inbegrepen de Regeringen, die oorkonden van bekrachtiging of toetreding hebben nedergelegd, zonder dat het Verdrag te haren opzichte in werking is getreden), wordt dit Verdrag en/of worden de voorschriften dienovereenkomstig gewijzigd.
 
@@ -154,7 +178,7 @@ De Regering van Noorwegen wordt uitgenodigd haar bemiddeling te verlenen voor he
 
 Een Conferentie met dit oogmerk wordt bijeengeroepen door de Regering van Noorwegen, telkens wanneer vijf of een/derde — welk aantal het kleinste is — van de verdragsluitende Regeringen haar verlangen daartoe kenbaar maken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een verdragsluitende Regering kan ten tijde van de ondertekening, bekrachtiging, toetreding of daarna bij schriftelijke kennisgeving van de Regering van Noorwegen haar verlangen kenbaar maken, dat dit Verdrag toepasselijk zal zijn op alle of enkele van haar overzeese gebiedsdelen, koloniën, protectoraten of gebiedsdelen onder suzereiniteit of mandaat; het Verdrag zal toepasselijk zijn op alle gebiedsdelen, genoemd in een zodanige kennisgeving, twee maanden na de datum van de ontvangst daarvan, doch zonder zulk een kennisgeving is dit Verdrag op geen enkel zodanig gebiedsdeel van toepassing.
 
@@ -162,13 +186,13 @@ Een Conferentie met dit oogmerk wordt bijeengeroepen door de Regering van Noorwe
 
 3. De Regering van Noorwegen stelt alle andere verdragsluitende Regeringen in kennis van de toepasselijkheid van dit Verdrag op enig overzees gebied, kolonie, protectoraat of gebied onder suzereiniteit of mandaat, krachtens de bepalingen van lid 1 van dit artikel en van de beëindiging van elke toepasselijkheid krachtens lid 2, onder vermelding bij elk geval van de datum, te rekenen waarvan dit Verdrag toepasselijk is geworden of zal ophouden toepasselijk te zijn.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit Verdrag, waarvan de Engelse en Franse teksten beide authentiek zijn, wordt bekrachtigd.
 
 De bekrachtigingsoorkonden worden nedergelegd in de archieven van de Regering van Noorwegen, die alle andere Regeringen, die dit Verdrag hebben ondertekend of daartoe zijn toegetreden, in kennis stelt van alle bekrachtigingen en van de datum van de nederlegging der oorkonden.
 
-#### Artikel 15
+##### Artikel 15
 
 Een Regering (uitgezonderd de Regering van een gebied, waarop Artikel 13 van toepasing is), namens welke dit Verdrag niet is getekend, zal tot dit Verdrag mogen toetreden te allen tijde, nadat het Verdrag in werking is getreden.
 
@@ -176,11 +200,11 @@ Toetredingen geschieden door middel van schriftelijke kennisgeving aan de Regeri
 
 De Regering van Noorwegen stelt alle Regeringen, die dit Verdrag hebben ondertekend en alle Regeringen, die tot dit Verdrag zijn toegetreden, in kennis van alle toetredingen en van de datum van ontvangst der kennisgeving.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Verdrag treedt in werking op 1 Juni 1948 tussen de Regeringen, die hun bekrachtigingsoorkonden op die datum hebben nedergelegd, mits tenminste vijf bekrachtigingsoorkonden zijn nedergelegd bij de Regering van Noorwegen. Mochten er op die datum geen vijf bekrachtigingsoorkonden zijn nedergelegd, dan treedt dit Verdrag in werking drie maanden na de datum, waarop de vijfde bekrachtigingsoorkonde is nedergelegd. Bekrachtigingen na de datum, waarop dit Verdrag in werking is getreden, worden van kracht drie maanden na naderlegging der oorkonde.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit Verdrag kan worden opgezegd door elke verdragsluitende Regering op elk tijdstip na het verloop van vijf jaar na de datum, waarop het Verdrag in werking treedt ten aanzien van die Regering. Opzegging geschiedt door schriftelijke kennisgeving aan de Regering van Noorwegen, die alle andere verdragsluitende Regeringen in kennis stelt van alle opzeggingen en van de datum van de ontvangst ervan.
 
@@ -192,7 +216,7 @@ Een opzegging wordt van kracht twaalf maanden na de datum, waarop kennisgeving d
 
 #### **Aanvraag door de eigenaar**
 
-#### Artikel 1
+##### Artikel 1
 
 Indien een schip moet worden gemeten of hermeten moet de eigenaar een aanvraag hiertoe inzenden bij de daartoe bevoegde scheepsmetingsautoriteit.
 
@@ -202,7 +226,7 @@ Indien voor bepaalde ruimten aanspraak wordt gemaakt op vrijstelling van meting 
 
 #### **Meting volgens Regel I of Regel II**
 
-#### Artikel 2
+##### Artikel 2
 
 De meting en de hermeting geschieden overeenkomstig Regel I (Inwendige Meting) of Regel II (Uitwendige Meting), waarvan de bijzonderheden zijn gegeven in de Hoofdstukken II tot en met VI van deze Voorschriften.
 
@@ -212,7 +236,7 @@ Het schip moet echter zo spoedig mogelijk overeenkomstig Regel I worden hermeten
 
 #### **Metingstaten**
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het meten zullen de genomen afmetingen, zowel als andere aantekeningen, welke dienen voor het vaststellen van de bruto- en de netto inhoud, als omschreven in Hoofdstuk II, artikel 7, en nader aangegeven in de Hoofdstukken III tot en met VI, worden ingeschreven in de door elke nationale autoriteit te gebruiken metingstaten. Wanneer de meting voltooid is, moeten de metingsmaten behoorlijk ondertekend ter contrôle en goedkeuring opgezonden worden aan een nationale centrale scheepmetingsautoriteit.
 
@@ -220,7 +244,7 @@ Deze nationale centrale scheepsmetingsautoriteit moet bij het uitoefenen van de 
 
 #### **Meetbrieven**
 
-#### Artikel 4
+##### Artikel 4
 
 Nadat de meting gecontroleerd en voorzover nodig vervolledigd is, zal de nationale centrale scheepsmetingsautoriteit de meetbrieven doen afgeven, al naar het geval is, volgens Regel I of Regel II.
 
@@ -228,7 +252,7 @@ De meetbrieven moeten geheel overeenkomen met de modellen aangegeven in de Aanha
 
 #### **Het merken**
 
-#### Artikel 5
+##### Artikel 5
 
 De ruimten, genoemd in de artikelen 61 tot en met 63 en 66 tot en met 71, moeten, indien zij ingevolge artikel 7 afgetrokken zijn van de bruto inhoud, behoorlijk gemerkt zijn, waarbij in ieder geval hun juiste bestemming vastgesteld wordt.
 
@@ -238,7 +262,7 @@ De netto inhoud, als omschreven in artikel 7, moet in onuitwisbare merken worden
 
 #### **Eenheden van meting; graad van nauwkeurigheid; omschrijving van lengte en breedte**
 
-#### Artikel 6
+##### Artikel 6
 
 Bij het vaststellen van de inhoud van een schip wordt de kubieke inhoud van alle ruimten berekend in kubieke meters of in kubieke Engelse voeten. Indien kubieke Engelse voeten worden gebruikt, worden deze omgerekend in registertonnen van 100 kubieke voeten, overeenkomend met 1/0.353 kubieke meter. Indien Engelse voeten worden gebruikt, moeten deze in decimalen worden verdeeld.
 
@@ -258,7 +282,7 @@ In langsrichting genomen afmetingen worden lengten genoemd en in dwarsrichting g
 
 #### **Bruto inhoud en netto inhoud**
 
-#### Artikel 7
+##### Artikel 7
 
 De inhoud wordt onderscheiden in bruto inhoud en netto inhoud.
 
@@ -282,13 +306,13 @@ De netto inhoud wordt verkregen door de bruto inhoud te verminderen met de aftre
 
 ### HOOFDSTUK III. **Meting en berekening van de bruto inhoud volgens Regel I**
 
-#### Artikel 8
+##### Artikel 8
 
 De kubieke inhoud van elk der onderdelen, waaruit de bruto inhoud als genoemd in aritkel 7 is samengesteld, wordt vastgesteld door afzonderlijke meting en berekening in overeenstemming met de hierna genoemde bepalingen.
 
 #### **Meetdek en bovendek**
 
-#### Artikel 9
+##### Artikel 9
 
 Bij meting van overdekte schepen, moet eerst het meetdek vastgesteld worden.
 
@@ -298,7 +322,7 @@ Het **bovendek** is het bovenste doorlopende dek voorzien van permanente middele
 
 #### **Doorlopende dekken**
 
-#### Artikel 10
+##### Artikel 10
 
 De tekst van de vertaling is niet beschikbaar.
 
@@ -306,13 +330,13 @@ Luikhoofden, schijnlichten, trapopeningen, schachten, enz. worden niet beschouwd
 
 Een dek onder het bovendek wordt nog als doorlopend beschouwd, indien het over een deel van zijn lengte op een enigszins hoger of lager vlak ligt (zie figuur 3).
 
-#### Artikel 11
+##### Artikel 11
 
 Bij meting van de ruimte onder het meetdek wordt de vast te stellen kubieke inhoud begrensd door de onderkant van het meetdek, de bovenkant van de vrangen of van de dubbele bodem en de binnenkant van de spanten, c.q. de wegering, ongeacht balken, stutten, stringers, zaathouten of andere naar binnen uitstekende delen.
 
 #### **Wegering (dichte of open)**
 
-#### Artikel 12
+##### Artikel 12
 
 Tenzij in deze voorschriften anders is bepaald, moeten de maten genomen worden tot de binnenkant van de spanten en tot de bovenkant van de vrangen of van de dubbele bodem, waarbij deze maten verminderd moeten worden met de gemiddelde dikte van de dichte wegering, voorzover deze aanwezig is en onmiddellijk tegen de spanten, de vrangen of de dubbele bodem is aangebracht. Indien een open wegering van balken of latten tegen de binnenkant der spanten is aangebracht en de buikdenning op de vrangen of op de dubbele bodem op liggers is aangebracht en niet onmiddellijk op de bovenkant van de vrangen of van de dubbele bodem, zijn de volgende voorschriften van toepassing.
 
@@ -320,11 +344,11 @@ Indien de buikdenning op liggers en niet onmiddellijk op de vrangen of op de dub
 
 Wanneer de ruimen geïsoleerd zijn (b.v. in koelruimen) en de bekleding is aangebracht binnen de binnenkant der spanten, of boven de bovenkant der vrangen of van de dubbele bodem, mag bij het meten van breedten en hoogten der dwarsdoorsneden een maximum aftrek van 0,08 meter of 0,25 voet genomen worden. Indien echter de dikte der bekleding minder is dan 0,076 meter of 0,25 voet wordt slechts de werkelijke dikte als aftrek toegestaan.
 
-#### Artikel 13
+##### Artikel 13
 
 In het algemeen behoren de metingstaten of de tekeningen aan te geven; de spantdiepten, de dikten van de wegering en van de buikdenning, indien nodig de dikte van de liggers onder de buikdenning en voorts of de afmetingen zijn genomen tot de spanten, tot de bovenkant van de dubbele bodem of van de vrangen, ter plaatse waar geen wegering is aangebracht. Bovendien behoort de nationale centrale scheepsmetingsautoriteit volledig te worden ingelicht wat betreft de hoogte der vrangen of de hoogte van de dubbele bodem in het langsscheepse middenvlak ter plaatse van de middelste dwarsdoorsnede of, indien de ruimte beneden het meetdek in delen gemeten is, ter plaatse van de middelste doorsnede in elk deel.
 
-#### Artikel 14
+##### Artikel 14
 
 De kubieke inhoud van de ruimte onder het meetdek wordt verkregen uit de lengte der ruimte — „meetlengte” — in verband met de oppervlakken van een aantal dwarsdoorsneden op onderling gelijke afstanden, wier aantal volgens artikel 21 van de lengte afhankelijk is.
 
@@ -332,13 +356,13 @@ Het oppervlak van elke doorsnede wordt verkregen uit hare hoogte en een aantal b
 
 #### **Meetlengte**
 
-#### Artikel 15
+##### Artikel 15
 
 De meetlengte is de afstand tussen twee punten, waarvan het voorste het punt is, waar de onderkant van het meetdek bij de voorsteven het binnenvlak van de wegering of van de spanten snijdt en het achterste het punt is, waar de onderkant van het meetdek het binnenvlak van de wegering of van de spanten in het langsscheepse middenvlak bij het dek snijdt.1)Indien het meetdek aan de eindpunten van de meetlengte dekrondte heeft bij een schip met een vierkante boeg- of hekvorm of in een rechte lijn van de zijden naar het langsscheepse middenvlak oploopt, moeten deze punten onderscheidenlijk op een derde van de dekrondte of op de helft van de dekschuinte beneden de onderkant van het meetdek in het langsscheepse middenvlak worden genomen.
 
 #### **Bepaling van de eindpunten van de meetlengte**
 
-#### Artikel 16
+##### Artikel 16
 
 Bij het bepalen van de eindpunten van de meetlengte overeenkomstig het beginsel neergelegd in artikel 15, behoort men de volgende werkwijze te volgen:
 
@@ -350,13 +374,13 @@ Bij het bepalen van de eindpunten van de meetlengte overeenkomstig het beginsel 
 
 #### **Dekrondte**
 
-#### Artikel 17
+##### Artikel 17
 
 De dekrondte verkrijgt men door dwarsscheeps van boord tot boord op de verlangde punten in de meetlengte een lijn te spannen, zodat de lijn aan beide zijden van het schip op dezelfde hoogte boven het dek is. De afstand van de lijn tot het dek in de zijden, verminderd met de afstand van de lijn tot het dek in het langsscheepse middenvlak is de gezochte dekrondte (zie figuur 9).
 
 #### **Onderbreking van het meetdek**
 
-#### Artikel 18
+##### Artikel 18
 
 Indien het meetdek over een deel van zijn lengte (zie figuur 10) in de zin van artikel 10, 3de lid, wordt onderbroken, moet de meetlengte worden gemeten langs een denkbeeldige lijn in het verlengde van het werkelijke dek.
 
@@ -364,7 +388,7 @@ In het geval als aangegeven in figuur 10 kan het aanbeveling verdienen de eindpu
 
 #### **Meting van de meetlengte**
 
-#### Artikel 19
+##### Artikel 19
 
 Wanneer het, zoals meestal het geval is, onmogelijk is de meetlengte rechtstreeks tussen de eindpunten te meten, nadat deze punten bepaald en op het meetdek aangetekend zijn, dienen de voorste en achterste delen van de lengte van de eindpunten af tot een schot, luikhoofd, enz., zoals het beste uitkomt, gemeten te worden.
 
@@ -372,7 +396,7 @@ Bij schepen met een normale zeeg wordt het overblijvende deel van de lengte geme
 
 #### **Bepaling van de middelste dwarsdoorsnede**
 
-#### Artikel 20
+##### Artikel 20
 
 Nadat de meetlengte is vastgesteld, moet de plaats van de middelste dwarsdoorsnede bepaald worden. Dit geschiedt door de halve meetlengte van het achterste punt der lengte af naar voren of van het voorste punt af naar achteren uit te zetten, op dezelfde manier als in artikel 19 is aangegeven. Het midden van de lengte wordt op de lijn en op het dek aangetekend en de afstand van dit midden tot een schot, luikhoofd, enz. bepaald. Men controleert een en ander nu door op dezelfde manier van het middenpunt af de tweede helft der lengte te meten. Indien het eind van de halve lengte samenvalt met het eindpunt van de meetlengte, is de lengte zuiver gemeten en de plaats van de middelste dwarsdoorsnede goed aangetekend. Indien de twee punten niet samenvallen, moet de meetlengte hermeten worden.
 
@@ -380,7 +404,7 @@ Een andere methode is de plaatsen van de verschillende dwarsdoorsneden, als aang
 
 #### **Dwarsdoorsneden**
 
-#### Artikel 21
+##### Artikel 21
 
 De meetlengte moet verdeeld worden in een aantal gelijke delen, als aangegeven in de volgende tabel:
 
@@ -396,7 +420,7 @@ De afstand tussen de doorsneden wordt verkregen door de meetlengte te delen door
 
 Nu worden vertikale doorsneden gemaakt op de deelpunten en op de eindpunten van de meetlengte, welke doorsneden rechthoekig op het langsscheepse middenvlak van het schip liggen. Zij worden genummerd 1, 2, 3, enz., waarbij no. 1 de doorsnede op het voorste en het hoogste nummer de doorsnede op het achterste punt van de meetlengte is.
 
-#### Artikel 22
+##### Artikel 22
 
 De plaats van de middelste dwarsdoorsnede, als aangetekend op het meetdek, moet nu loodrecht op de kiellijn van het schip naar het ruim (machinekamer, bunkers en dergelijke) overgebracht worden, door gebruik te maken van de afstand tot een schot, een luikhoofd, en dergelijke, gemeten als aangegeven in artikel 20.
 
@@ -406,17 +430,17 @@ Indien het niet mogelijk is een dwarsdoorsnede nauwkeurig op haar plaats te mete
 
 In schepen met werktuiglijke voortstuwing dient de afstand van het machinekamerschot tot de juiste plaats van de dichtst bij zijnde doorsnede vastgesteld te worden, zowel wat het voorste als wat het achterste schot betreft. De afstanden moeten op de metingstaten worden vermeld.
 
-#### Artikel 23
+##### Artikel 23
 
 Vóór de aanvang van de meting van de dwarsdoorsneden is het nodig op de plaatsen, waar deze doorsneden gemeten moeten worden, te onderzoeken of het vlak, tot waar de meetholten worden bepaald, hetzij de top van de normale vrangen, van de langsspanten, van de dubbele bodem of van de buikdenning in een houten schip dwarsscheeps horizontaal is, dan wel van het langsscheepse middenvlak naar de zijden op- of afloopt. 1)Te dien einde spant men een lijn dwars over de bodem op gelijke hoogte in de zijden. Het verschil tussen de hoogte van de lijn boven de bodem in het langsscheepse middenvlak en haar hoogte boven de bodem in de zijden is de tilling of het afschot van de bodem.
 
-#### Artikel 24
+##### Artikel 24
 
 Ten einde de meetholten te bepalen, moet de dekrondte voor elke dwarsdoorsnede worden vastgesteld volgens hetgeen in artikel 17 is voorgeschreven en zoals in figuur 9 is aangeduid.
 
 #### **Omschrijving van de meetholte**
 
-#### Artikel 25
+##### Artikel 25
 
 De meetholte van een dwarsdoorsnede is de afstand van de onderkant van het meetdek tot de bovenkant van de hoofdvrangen of van de dubbele bodem, als bepaald in artikel 26, verminderd met de dikte van de buikdenning, indien deze is aangebracht en met een derde van de dekrondte. Zo nodig wordt deze hoogte, ingeval de bovenzijde van de dubbele bodem niet horizontaal is, nog gewijzigd als is aangegeven in artikel 28. 2)Wanneer de dekbalken van het meetdek in een rechte lijn van de zijden naar het langscheepse middenvlak oplopen, zal de correctie voor de tilling van het dek, de helft zijn in plaats van een derde van deze tilling. Deze tilling wordt op de zelfde wijze vastgesteld en in rekening gebracht als in de artikelen 24, 25, 30 en 43 voor de dekrondte is aangegeven.
 
@@ -424,7 +448,7 @@ Wanneer een dwarsdoorsnede op een plaats valt, waar het dek onderbroken is, is d
 
 #### **Hoofdvrangen en bovenkant dubbele bodem**
 
-#### Artikel 26
+##### Artikel 26
 
 Bij het vaststellen, wat hoofdvrangen van het schip zijn of wat de bovenkant van de dubbele bodem is, als bedoeld in artikel 25, moeten de hieronder gegeven aanwijzingen gevolgd worden:
 
@@ -456,7 +480,7 @@ Bij het vaststellen, wat hoofdvrangen van het schip zijn of wat de bovenkant van
 
 #### **Meting van meetholten**
 
-#### Artikel 27
+##### Artikel 27
 
 De meetholten worden gemeten door middel van latten op of nabij het langsscheeps middenvlak in de dwarsdoorsnede geplaatst op de plaatsen, als in artikel 22 is bepaald. De holten worden gemeten tot de bovenkant van de vrangen of van de dubbele bodem en verminderd met de dikte der buikdenning, indien deze is aangebracht (zie figuur 26).
 
@@ -466,7 +490,7 @@ De uitstekende delen van zijzaathouten of andere uitstekende constructiedelen wo
 
 #### **Correcties op de gemeten holten**
 
-#### Artikel 28
+##### Artikel 28
 
 1. Voor schepen met een dubbele bodem, waarbij de lijn van de bovenkant van de dubbele bodem ter plaatse van een dwarsdoorsnede van het langsscheepse middenvlak naar de zijden afloopt, wordt de in het langsscheepse middenvlak gemeten holte vermeerderd met de helft van het afschot, indien de lijn recht is en met een derde, indien zij een bolle kromme vormt (zie figuur 29).
 
@@ -476,7 +500,7 @@ De uitstekende delen van zijzaathouten of andere uitstekende constructiedelen wo
 
 #### **Ruimten welke bij de onderdeksinhoud worden gevoegd of daarvan worden afgetrokken**
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien zich in de dubbele bodem of in het bovenvlak van gewone vrangen een of meer verzonken of verhoogde gedeelten bevinden, welke zich niet van boord tot boord uitstrekken, worden deze inzinkingen of verhogingen afzonderlijk gemeten en wordt haar inhoud onderscheidenlijk gevoegd bij- of afgetrokken van de onderdeksinhoud, mits in het laatste geval de verhoging één geheel met de bodemconstructie van het schip vormt. De holte van de dwarsdoorsnede wordt gemeten tot de doorgestrookte bovenkant van de dubbele bodem of van de vrangen (zie de figuren 31 en 32).
 
@@ -486,7 +510,7 @@ De uitstekende delen van zijzaathouten of andere uitstekende constructiedelen wo
 
 4. Indien bij schepen met een kruiserhek het deel achter het eindpunt van de meetlengte van belang is, wordt de inhoud van deze ruimte bepaald en bij de onderdeksinhoud gevoegd (zie figuur 34).
 
-#### Artikel 30
+##### Artikel 30
 
 Indien een dwarsdoorsnede ter plaatse van een dekopening (b.v. luikhoofd, machineschacht, enz.) valt:
 
@@ -496,7 +520,7 @@ Indien een dwarsdoorsnede ter plaatse van een dekopening (b.v. luikhoofd, machin
 
 Nadat bovenbedoelde holte gemeten is, wordt de meetholte van de dwarsdoorsnede bepaald door toepassing van de in artikel 25 genoemde voorschriften.
 
-#### Artikel 31
+##### Artikel 31
 
 Indien het meetdek onderbroken wordt, en het dek naar een hoger of lager vlak verspringt, moeten de holten van de dwarsdoorsneden ter plaatse van het verhoogde of verzonken dek tot de onderzijde van dit dek worden gemeten. De aldus verkregen holten behoren daarna met de hoogte van de sprong te worden verminderd of vermeerderd (zie figuur 36).
 
@@ -504,7 +528,7 @@ Indien zich onder het meetdek een inspringend deel bevindt, dat naar buitenboord
 
 #### **Aantal breedten**
 
-#### Artikel 32
+##### Artikel 32
 
 De meetholte van elke dwarsdoorsnede wordt verdeeld in:
 
@@ -512,13 +536,13 @@ De meetholte van elke dwarsdoorsnede wordt verdeeld in:
 
 - b. zes gelijke delen, indien de meetholte in het midden van de meetlengte groter is dan 4,88 meter of 16 voet.
 
-#### Artikel 33
+##### Artikel 33
 
 Wanneer de meetholte is vastgesteld, wordt de afstand tussen de breedten bepaald door deling van de holte door de in artikel 32 aangegeven deler. De deelpunten worden nu op één der meetstokken uitgezet, bij het laagste punt beginnende, door van dit punt af de afstanden uit te zetten. Bij het aftekenen van het laagste deelpunt moet men zorgen, dat dit punt op de juiste hoogte boven het laagste punt van de meetholte is gelegen. 1)Bij een schip met een dubbele bodem, waarvan de bovenkant dwarsscheeps horizontaal is en de buikdenning op liggers is aangebracht, moet de meetstok op de buikdenning worden geplaatst. Het onderste deelpunt wordt nu gevonden door de afstand der deelpunten, verminderd met de hoogte der liggers, uit te zetten.
 
 #### **Meting van breedten**
 
-#### Artikel 34
+##### Artikel 34
 
 De breedten van elke dwarsdoorsnede worden van boven naar beneden genummerd, waarbij de bovenste breedte (ter hoogte van het bovenste eindpunt van de meetholte) no. 1 wordt en de onderste breedte no. 5 of no. 7 naar gelang van de grootte der meetholte.
 
@@ -534,25 +558,25 @@ Bij meting van de bovenste en onderste breedten, moet rekening worden gehouden m
 
 #### **Spanten van verschillende diepte**
 
-#### Artikel 35
+##### Artikel 35
 
 Bij schepen met spanten van verschillende diepte (zie figuren 39 en 40) worden de breedten genomen tot de lichte spanten, indien de zware spanten verder dan twee spantafstanden van elkaar geplaatst zijn. Waar een wegering aanwezig is, wordt haar dikte afgetrokken van de aldus verkregen breedte, dan wel worden de breedten gemeten van weger tot weger, als aangegeven in artikel 34.
 
 Bovenvermelde voorschriften zijn niet van toepassing op schepen met langsspanten welker diepte van beneden naar boven onder het meetdek afneemt (zie figuur 41). In zulke gevallen moeten de voorschriften van het vierde lid van artikel 34 worden toegepast. Indien echter een wegering aanwezig is, wordt haar dikte afgetrokken.
 
-#### Artikel 36
+##### Artikel 36
 
 Op schepen met gegolfde zijden, worden de breedten gemeten tot een aangenomen spantlijn (zie figuur 42), teneinde het juiste oppervlak van de dwarsdoorsneden met inbegrip van de golvingen te verkrijgen. Indien een wegering is aangebracht, wordt haar dikte van de aldus verkregen breedten afgetrokken.
 
 #### **Bovenste breedte**
 
-#### Artikel 37
+##### Artikel 37
 
 De bovenste breedte, gelegen ter hoogte van het bovenste eindpunt van de meetholte, moet onmiddellijk onder het meetdek gemeten worden. Indien deze breedte moeilijk onder dek gemeten kan worden, mag deze afmeting ook boven het dek genomen worden, maar in dat geval moet nagegaan worden of de spantdiepte onder en boven het dek gelijk is en de zijden van het schip ter hoogte van het dek vertikaal zijn. Wanneer de spantdiepte boven het dek verschilt van die onder het dek, moet de gemeten breedte worden gecorrigeerd als aangegeven in figuur 43. Indien het boord naar binnen of naar buiten uitwijkt, moet de gemeten breedte gecorrigeerd worden, als figuur 44 aangeeft.
 
 #### **Onderste breedte**
 
-#### Artikel 38
+##### Artikel 38
 
 De onderste breedte ter hoogte van het laagste eindpunt van de meetholte moet op de bovenkant van de vrangen of van de buikdenning, indien deze is aangebracht, c.q. van de dubbele bodem gemeten worden, in overeenstemming met de volgende voorschriften:
 
@@ -562,7 +586,7 @@ De onderste breedte ter hoogte van het laagste eindpunt van de meetholte moet op
 
 #### **Oppervlak der dwarsdoorsneden**
 
-#### Artikel 39
+##### Artikel 39
 
 De oppervlakten der dwarsdoorsneden worden berekend door toepassing van de regel van Simpson. Derhalve wordt het oppervlak van een dwarsdoorsnede als volgt verkregen:
 
@@ -584,13 +608,13 @@ De oppervlakten der dwarsdoorsneden worden berekend door toepassing van de regel
 
 De som van de aldus verkregen producten wordt vermenigvuldigd met een derde van de afstand tussen de breedten. Dit laatste product is het oppervlak van de doorsnede.
 
-#### Artikel 40
+##### Artikel 40
 
 Indien het niet mogelijk is een doorsnede op haar juiste plaats te meten, zoals in artikel 22 is bepaald, kan het oppervlak van de juiste doorsnede worden bepaald door gebruik te maken van de contrôlekrommen, zoals in artikel 44 is aangegeven.
 
 #### **Kubieke inhoud van de ruimte onder het meetdek**
 
-#### Artikel 41
+##### Artikel 41
 
 Nadat het oppervlak van elke dwarsdoorsnede op haar juiste plaats is bepaald, wordt de kubieke inhoud van de ruimte onder het meetdek als volgt verkregen:
 
@@ -606,7 +630,7 @@ Nadat de kubieke inhoud van de ruimte onder het meetdek is berekend, moeten de k
 
 #### **Onderbreking in de dubbele bodem**
 
-#### Artikel 42
+##### Artikel 42
 
 Indien de bovenkant van de dubbele bodem op een of meer plaatsen verspringt, wordt de ruimte onder het meetdek in delen gemeten. Elk deel wordt gemeten, alsof het een afzonderlijk schip ware, met een meetlengte gelijk aan de lengte van het deel. Derhalve moet de lengte van elk deel worden verdeeld, als vastgesteld in artikel 21, behoudens dat, indien de lengte niet meer dan 9.14 meter of 30 voet bedraagt, zij slechts in twee delen verdeeld wordt.
 
@@ -626,7 +650,7 @@ Het oppervlak van elke dwarsdoorsnede en de kubieke inhoud van elk deel van de r
 
 Behoudens het bepaalde onder c in het tweede lid is de in dit artikel voorgeschreven werkwijze niet van toepassing, waar een verandering in de hoogte der vrangen voorkomt in een schip met een enkele bodem of met een gedeeltelijke dubbele bodem (zie figuur 60).
 
-#### Artikel 43
+##### Artikel 43
 
 In schepen met een dek onder het meetdek moeten de dwarsdoorsneden gedeeltelijk boven en gedeeltelijk onder het lager gelegen dek gemeten worden. Dit wordt op de volgende wijze uitgevoerd.
 
@@ -636,7 +660,7 @@ De plaatsen van de dwarsdoorsneden worden vervolgens onder het lagere dek aanget
 
 #### **Contrôle krommen**
 
-#### Artikel 44
+##### Artikel 44
 
 De aan boord genomen afmetingen moeten door middel van contrôle krommen worden gecontroleerd, welke bij voorbeeld kunnen worden gemaakt zoals hieronder is aangegeven (zie figuur 61).
 
@@ -654,7 +678,7 @@ De aan boord genomen afmetingen moeten door middel van contrôle krommen worden 
 
 #### **Kubieke inhoud van dubbele bodemtanks**
 
-#### Artikel 45
+##### Artikel 45
 
 De kubieke inhoud van elke dubbele bodemtank, welke bekend moet zijn bij het vaststellen van de grootste toegelaten aftrek voor waterballast ruimte (zie artikel 71), wordt verkregen óf van het laadplan, verschaft voor gebruik aan boord 1)Indien de getallen op het laadplan in gewichtstonnen gegeven zijn (Engelse of metrische), dient de juiste herleidingsfactor gebruikt te worden om registertonnen te verkrijgen. Indien de inhouden van het laadplan zijn overgenomen en er enige twijfel ontstaat omtrent de nauwkeurigheid van deze inhouden, moeten de tanks op de voorgeschreven wijze worden gemeten., óf zoals hieronder is aangeduid.
 
@@ -674,17 +698,17 @@ De kubieke inhoud van elke ruimte in een dubbele bodem, welke niet is ingericht 
 
 #### **Tussendeksruimten**
 
-#### Artikel 46
+##### Artikel 46
 
 De ruimten tussen het meetdek en het bovendek gelegen, welke hierna aangeduid worden als tussendeksruimten moeten gemeten en in de bruto inhoud worden begrepen. Elke tussendeksruimte wordt gemeten tussen twee opeenvolgende dekken.
 
-#### Artikel 47
+##### Artikel 47
 
 De bepalingen van de artikelen 11, 12 en 13 zijn met de nodige veranderingen ook van toepassing op de meting van tussendeksruimten.
 
 #### **Methoden voor meting van tussendeksruimten**
 
-#### Artikel 48
+##### Artikel 48
 
 De meting van een tussendeksruimte moet overeenkomstig één der hierna genoemde methoden worden uitgevoerd.
 
@@ -714,7 +738,7 @@ Methode 3 (Bijzondere gevallen).
 
 #### **Kubieke inhoud van een tussendeksruimte**
 
-#### Artikel 49
+##### Artikel 49
 
 De kubieke inhoud van een tussendeksruimte wordt als volgt vastgesteld:
 
@@ -726,11 +750,11 @@ De kubieke inhoud van een tussendeksruimte wordt als volgt vastgesteld:
 
 #### **Bovenbouw**
 
-#### Artikel 50
+##### Artikel 50
 
 De bouwsels van blijvende aard, op of boven het bovendek gelegen, welke hierna bovenbouw zijn genoemd, moeten worden gemeten en, onverminderd de bepalingen van artikel 51 en behoudens de uitzonderingen vermeld in de artikelen 57 en 58, worden begrepen in de bruto-inhoud.
 
-#### Artikel 51
+##### Artikel 51
 
 Behoudens de uitzonderingen voorzien in artikel 57, moet elke gesloten bovenbouw (b.v. bak, kampanje, brug, dekhuizen, enz.) geschikt voor het vervoer van lading of voorraden, dan wel voor logies of gerief van passagiers of bemanning, in de bruto-inhoud worden begrepen.
 
@@ -738,13 +762,13 @@ Ruimten welke, krachtens artikel 58, als open moeten worden aangemerkt, moeten, 
 
 Indien de begrenzingen (bedekking, schotten, enz.) van een bovenbouw op een zodanige wijze 1)Bij voorbeeld door klemmen of vastkeggen. zijn geconstrueerd, dat twijfel zou kunnen ontstaan of zulk een bovenbouw behoort te worden aangemerkt als van blijvenden aard te zijn, zal een schets van de bovenbouw met nauwkeurige beschrijving van de constructie bij de metingsstaten worden gevoegd.
 
-#### Artikel 52
+##### Artikel 52
 
 De bepalingen van de artikelen 11, 12 en 13 zijn met de nodige veranderingen ook van toepassing op de meting van de bovenbouw.
 
 #### **Meting van de bovenbouw**
 
-#### Artikel 53
+##### Artikel 53
 
 De meting van de bovenbouw moet op de volgende wijze laag voor laag uitgevoerd worden:
 
@@ -766,7 +790,7 @@ De meting van de bovenbouw moet op de volgende wijze laag voor laag uitgevoerd w
 
 #### **Kubieke inhoud van de bovenbouw**
 
-#### Artikel 54
+##### Artikel 54
 
 De kubieke inhoud van de bovenbouw wordt als volgt bepaald:
 
@@ -776,13 +800,13 @@ De kubieke inhoud van de bovenbouw wordt als volgt bepaald:
 
 #### **Luikhoofden**
 
-#### Artikel 55
+##### Artikel 55
 
 De kubieke inhoud van een luikhoofd wordt verkregen door vermenigvuldiging van de inwendige lengte met de gemiddelde inwendige breedte en het product met de gemiddelde hoogte (d.w.z. het rekenkundig gemiddelde van de hoogten, gemeten van de onderkant van het dek tot de onderkant van de luiken).
 
 Indien de gezamenlijke inhoud van de luiken groter is dan ½ % van het deel van de bruto inhoud bestaande uit de onderdeksinhoud, de tussendeksruimten, de niet vrijgestelde bovenbouw en de in de meting begrepen licht- en luchtschachten van de machinekamer, moet de overmaat bij de bruto-inhoud gevoegd worden.
 
-#### Artikel 56
+##### Artikel 56
 
 De gezamenlijke inhoud van de luikhoofden bestaat uit de som van de kubieke inhouden van alle luikhoofden, die toegang geven tot ruimten, welke in de bruto-inhoud begrepen zijn. Derhalve zal een luikhoofd, dat toegang geeft tot een vrijgestelde ruimte, als aangegeven in de artikelen 57 en 58, niet in deze gezamenlijke inhoud worden begrepen. Echter zal de kubieke inhoud van een luikhoofd, dat binnen een open ruimte is gelegen, maar toegang geeft tot een in de bruto-inhoud begrepen ruimte, wel deel uitmaken van genoemde gezamenlijke inhoud.
 
@@ -792,7 +816,7 @@ Het deel van een ingesloten schacht (b.v. een kolenstortkoker), binnen de begren
 
 #### **Gesloten ruimten, welke niet in de bruto inhoud begrepen worden**
 
-#### Artikel 57
+##### Artikel 57
 
 De volgende op- en boven het bovendek gelegen ruimten, moeten niet in de bruto-inhoud begrepen worden, mits zij uitsluitend bestemd en ingericht zijn en geheel gebruikt worden voor de hieronder aangegeven doeleinden.
 
@@ -826,7 +850,7 @@ Indien de vrijstelling beperkt is, moeten de beperkte afmetingen, zowel als de a
 
 #### **Open ruimten welke niet in de bruto inhoud worden begrepen**
 
-#### Artikel 58
+##### Artikel 58
 
 Behoudens de in artikel 51 genoemde voorwaarden zullen als een uitzondering op de in artikel 50 gegeven algemene regel de ruimte tussen het bovendek en het shelterdek gelegen — gewoonlijk shelterdekruimte genoemd — en andere delen van de bovenbouw van meting in de bruto-inhoud worden vrijgesteld, indien zij krachtens de volgende bepalingen worden geacht open te zijn.
 
@@ -878,7 +902,7 @@ Behoudens de in artikel 51 genoemde voorwaarden zullen als een uitzondering op d
 
 - 3. Bij het bepalen van de afmetingen van tonnage-openingen, moet het gedeelte van de opening, dat door staven, stutten, potten of dergelijke onderdelen is bedekt, worden aangemerkt als een verkleining van het zuivere oppervlak van zulke openingen. In het geval van zij-openingen mogen echter de huidflenzen der spanten in het vrije oppervlak van de opening worden meegerekend (zie de figuren 85 en 86).
 
-#### Artikel 59
+##### Artikel 59
 
 Open bovenbouw en open shelterdekruimten, als omschreven in artikel 58, moeten steeds worden gemeten en in de metingstaten worden ingeschreven. Een nauwkeurige aantekening omtrent de afmetingen van de openingen moet hierbij worden gevoegd. De meting zal worden uitgevoerd overeenkomstig de voorschriften van artikel 481)In het algemeen zal een shelterdekruimte niet van de voorsteven tot het hek open zijn. In de meeste gevallen is in het voorschip en in het achterschip een gesloten schot aangebracht (zie figuur 83): derhalve zullen de voorschriften van artikel 48 alleen in zeer bijzondere gevallen van toepassing zijn. , c.q. artikel 53.
 
@@ -918,7 +942,7 @@ H = 2.44 m.( 8 vt.); L = 109.73 m. (360 vt.);
 
 #### **Beschutting voor dekpassagiers**
 
-#### Artikel 60
+##### Artikel 60
 
 Een gesloten bovenbouw mag, op schepen, die korte reizen maken — ongeacht de voorschriften van het eerste lid van artikel 51 — na machtiging van de betrokken nationale centrale scheepsmetingsautoriteit, van meting in de bruto-inhoud worden vrijgesteld, indien deze uitsluitend zonder extra heffing wordt gebruikt voor beschutting van dekpassagiers.
 
@@ -928,23 +952,23 @@ De meting en berekening moeten worden uitgevoerd als aangegeven is in de artikel
 
 #### **Ruimten voor de kapitein**
 
-#### Artikel 61
+##### Artikel 61
 
 De tekst van de vertaling is niet beschikbaar.
 
 #### **Ruimten voor de bemanning**
 
-#### Artikel 62
+##### Artikel 62
 
 De tekst van de vertaling is niet beschikbaar.
 
 #### **Gangen en andere ruimten gebruikt door de kapitein en de bemanning**
 
-#### Artikel 63
+##### Artikel 63
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 64
+##### Artikel 64
 
 Reservehutten mogen niet afgetrokken worden. De aanwezigheid echter van twee reservehutten voor het gebruik b.v., van loodsen of boventallige officieren zal niet geacht worden het schip te veranderen in een passagiersschip, mits genoemde reservehutten met niet meer dan in totaal vier bedden, sofabedden inbegrepen, zijn uitgerust.
 
@@ -952,7 +976,7 @@ In passagiersschepen zonder eetsalon, rooksalon, aanrechtkamer, kombuis, bakkeri
 
 Volgens dit artikel wordt onder de uitdrukking „passagiersschip” elk schip verstaan, dat betalende passagiers vervoert en elk schip (zelfs indien het zonder passagiers vaart), dat meer dan twee reservehutten heeft, welke zijn ingericht als bovenomschreven.
 
-#### Artikel 65
+##### Artikel 65
 
 De ruimten, genoemd in de artikelen 66 tot en met 71, zullen volgens de letter van deze voorschriften geacht worden te zijn „ruimten voor de besturing en de bediening van het schip”, als omschreven in artikel 7 onder no. 2, en zullen, rekening houdende met de voorwaarden in deze artikelen neergelegd en mits zij nog niet van de meting zijn vrijgesteld krachtens de voorschriften van artikel 57, van de bruto inhoud worden afgetrokken.
 
@@ -972,7 +996,7 @@ De ruimten voor besturing en bediening van het schip zijn de volgende:
 
 #### **Ruimten voor besturing (behalve hulpketels en hoofdpompen)**
 
-#### Artikel 66
+##### Artikel 66
 
 Ruimten, die uitsluitend worden gebruikt voor de besturing van het schip en welke nog niet vrijgesteld zijn volgens artikel 57, moeten van de bruto inhoud worden afgetrokken tot een grootte als redelijk geacht wordt.
 
@@ -984,7 +1008,7 @@ In gevallen waarbij de helmstok, het stuurgerei, de kaapstand, het ankergerei of
 
 #### **Hulpketels en hoofdpompen**
 
-#### Artikel 67
+##### Artikel 67
 
 Onverminderd de voorschriften van artikel 79 betreffende de behandeling van hulpketelruimten, welke beschouwd mogen worden als een deel van de ruimte voor de werktuigelijke voortstuwing, zal de door de hulpketels werkelijk ingenomen ruimte, indien zij met de hoofdpompen van het schip zijn verbonden, worden afgetrokken, zelfs indien de hulpketels tegelijkertijd gebruikt worden voor bediening van de laad- en loslieren of voor gelijksoortige doeleinden.
 
@@ -998,7 +1022,7 @@ Indien een hulpketel, een lenspomp of een waterballastpomp, welke aan bovenstaan
 
 #### **Pompinstallaties in schepen, welke vloeibare lading in de ruimen vervoeren**
 
-#### Artikel 68
+##### Artikel 68
 
 In schepen, welke vloeibare lading in de ruimen vervoeren, zal aftrek gegeven worden voor ruimten, welke ingenomen zijn door- en bepaald nodig zijn voor toegang en bediening van pompen, welke dienen als ladingpompen, of, krachtens de bepalingen van artikel 78 onder A 6, n, trimpompen voor vloeibare brandstof en buiten de ruimte voor werktuiglijke voortstuwing geplaatst, mits al zulke pompen tevens geschikt zijn om het schip te lenzen.
 
@@ -1019,7 +1043,7 @@ De totaal verleende aftrek voor pompkamers mag niet meer bedragen dan in de navo
 
 #### **Bootsmansgoed**
 
-#### Artikel 69
+##### Artikel 69
 
 Behoudens de hieronder bepaalde beperkingen moet elke ruimte, welke uitsluitend voor de berging van bootsmansgoed is ingericht en wordt gebruikt, van de bruto inhoud worden afgetrokken.
 
@@ -1045,7 +1069,7 @@ In vissersschepen en jagersschepen (b.v. walvisvangers en robbenjagers) met een 
 
 #### **Zeilkooien**
 
-#### Artikel 70
+##### Artikel 70
 
 In schepen, welke door zeilen worden voortbewogen, wordt de ruimte, die uitsluitend voor de berging van zeilen is ingericht en wordt gebruikt, afgetrokken van de bruto inhoud overeenkomstig de volgende bepalingen:
 
@@ -1055,11 +1079,11 @@ In schepen, welke door zeilen worden voortbewogen, wordt de ruimte, die uitsluit
 
 #### **Waterballastruimten**
 
-#### Artikel 71
+##### Artikel 71
 
 De tekst van de vertaling is niet beschikbaar.
 
-#### Artikel 72
+##### Artikel 72
 
 Geen aftrek zal worden verleend voor een in de artikelen 61 tot en met 71 behandelde ruimte, tenzij zij eerst in de bruto inhoud is begrepen (zie de figuren 96 en 97, aangevende de methode van meting der breedten en holten van een voorpiektank).
 
@@ -1091,7 +1115,7 @@ Geen aftrek zal worden verleend voor een in de artikelen 61 tot en met 71 behand
 
 1) Voor tussenliggende waarden van de bruto inhoud worden de percentages door interpolatie verkregen. 2) Of minder. 3) Of meer.
 
-#### Artikel 73
+##### Artikel 73
 
 De meting en de berekening van de kubieke inhoud der in artikel 61 tot en met 63 en 66 tot en met 70 behandelde ruimten moet worden uitgevoerd als in de artikelen 53 en 54 is aangegeven. Bijgevolg worden de hoogten tot de onderzijde van het daarover gaande dek gemeten, door de plafond beschieting heen, indien deze is aangebracht. De horizontale afmetingen van deze ruimten moeten genomen worden tussen de schotten en de beschietingen, voorzover deze aanwezig zijn, tot de binnenkant der spanten, of tot de binnenkant van de op normale afstand uit elkaar geplaatste schotstijlen tot waar de afmetingen bij de meting van de bruto inhoud zijn genomen. Elke ruimte moet afzonderlijk worden gemeten en op de metingstaat moet het doel worden aangegeven, waartoe de ruimte is bestemd. Indien slechts gedeelten van een ruimte zijn afgetrokken, moeten de afmetingen van de gehele ruimte en tevens die van het afgetrokken gedeelte op de metingstaten worden vermeld (zie figuur 98).
 
@@ -1109,7 +1133,7 @@ De kubieke inhoud van elke waterballastruimte wordt verkregen door toepassing va
 
 #### **Aftrek voor de ruimte voor werktuiglijke voortstuwing**
 
-#### Artikel 74
+##### Artikel 74
 
 Bij schepen met werktuiglijke voortstuwing, waarvoor ruimte vereist wordt, zal een aftrek worden verleend voor werktuiglijke voortstuwing volgens de bepalingen van artikel 75 en de aldus toegestane ruimte zal van de bruto inhoud van het schip worden afgetrokken.
 
@@ -1121,7 +1145,7 @@ Alle ruimten voor werktuiglijke voortstuwing zullen worden gemeten en hun kubiek
 
 #### **Vaststelling van de aftrek voor werktuiglijke voortstuwing**
 
-#### Artikel 75
+##### Artikel 75
 
 De aftrek voor werktuiglijke voortstuwing moet als volgt worden vastgesteld:
 
@@ -1145,7 +1169,7 @@ De aftrek voor werktuiglijke voortstuwing moet als volgt worden vastgesteld:
 
 #### **Onderdelen der ruimte voor werktuiglijke voortstuwing**
 
-#### Artikel 76
+##### Artikel 76
 
 De ruimte voor werktuiglijke voortstuwing omvat de volgende onderdelen:
 
@@ -1169,7 +1193,7 @@ Het brengen van de onder onderdeel **d** genoemde ruimten in de ruimte voor werk
 
 #### **Ruimten voor het toetreden van licht en lucht**
 
-#### Artikel 77
+##### Artikel 77
 
 Ruimten of delen van ruimten genoemd onder onderdeel **d** van artikel 76 en bestemd voor het toetreden van licht en lucht, worden op aanvraag van de eigenaar gevoegd bij de bruto inhoud van het schip en bij de ruimte voor werktuiglijke voortstuwing, waarop de aftrek voor werktuiglijke voortstuwing wordt gegrond, mits zij:
 
@@ -1183,7 +1207,7 @@ Op de metingstaten dient vermeld te worden of de bedoelde ruimten aan bovengenoe
 
 #### **Bijzonderheden omtrent de ruimten, welke mogen worden beschouwd als werktuiglijke voortstuwingsruimten**
 
-#### Artikel 78
+##### Artikel 78
 
 - A. De volgende ruimten worden beschouwd als ruimten voor de werktuiglijke voortstuwing:
 
@@ -1253,7 +1277,7 @@ Op de metingstaten dient vermeld te worden of de bedoelde ruimten aan bovengenoe
 
 #### **Hulpketelruimte**
 
-#### Artikel 79
+##### Artikel 79
 
 Hulpketels, welke — naar het oordeel van de betrokken nationale centrale scheepsmetingsautoriteit — nodig zijn voor- en gebruikt worden in verband met de hoofdvoortstuwingsinrichting of een daarbij behorende hulpmachineinstallatie, worden beschouwd deel van de werktuiglijke voortstuwingsinrichting te vormen.
 
@@ -1261,7 +1285,7 @@ Indien zij zich onder het bovendek bevinden binnen of buiten de begrenzingen van
 
 #### **Meting der ruimten voor werktuiglijke voorstuwing**
 
-#### Artikel 80
+##### Artikel 80
 
 De meting van ruimten voor de werktuiglijke voortstuwing moet als volgt worden uitgevoerd:
 
@@ -1279,7 +1303,7 @@ De meting van ruimten voor de werktuiglijke voortstuwing moet als volgt worden u
 
 #### **Beperkingen der ruimten voor de werktuiglijke voortstuwing**
 
-#### Artikel 81
+##### Artikel 81
 
 - a. **Lengte der ruimten onder de bovenkant van de hoofdruimte.**
 
@@ -1325,7 +1349,7 @@ De meting van ruimten voor de werktuiglijke voortstuwing moet als volgt worden u
 
 #### **Berekening van de kubieke inhoud van de ruimten voor de voortstuwing**
 
-#### Artikel 82
+##### Artikel 82
 
 Indien de ruimten voor de werktuiglijke voortstuwing zijn gemeten, als in artikel 80 is aangegeven en de beperkingen, als bedoeld in artikel 81 zo nodig zijn toegepast, wordt de kubieke inhoud van de ruimten voor de voortstuwing als volgt verkregen:
 
@@ -1333,7 +1357,7 @@ De kubieke inhoud van elke ruimte (of c.q. deel van een ruimte) wordt afzonderli
 
 Indien meer dan één breedte is gemeten, moet het rekenkundig gemiddelde der breedten bij de berekening worden gebruikt; dezelfde bepaling is van toepassing op de hoogten.
 
-#### Artikel 83
+##### Artikel 83
 
 De twee voorbeelden, betrekking hebbende op twee schroefschepen, geven meer gedetailleerde aanwijzingen, wat de toepassing van de bepalingen nopens de aftrek voor voortstuwingsruimten betreft.
 
@@ -1395,7 +1419,7 @@ Het schema der berekening (blz. 66) geeft aan hoe het deel der licht- en luchtsc
 
 #### **Meting van de ruimte onder het bovenste dek**
 
-#### Artikel 84
+##### Artikel 84
 
 Indien overeenkomstig het tweede lid van artikel 2 Regel II wordt toegepast moet de meting van de ruimte onder het bovenste dek 1)Bij toepassing van Regel II op open shelterdekschepen wordt het shelterdek als het bovenste dek aangemerkt. worden uitgevoerd door op de volgende wijze de lengte, de grootste breedte buitenwerks en de omvang te bepalen:
 
@@ -1407,23 +1431,23 @@ Indien overeenkomstig het tweede lid van artikel 2 Regel II wordt toegepast moet
 
 #### **Berekening van de kubieke inhoud van de ruimte onder het bovenste dek**
 
-#### Artikel 85
+##### Artikel 85
 
 De kubieke inhoud der ruimte onder het bovenste dek wordt berekend door de halve omvang en de halve grootste breedte buitenwerks bij elkaar op te tellen. Het kwadraat der aldus verkregen som wordt met de lengte vermenigvuldigd. Dit product wordt daarna vermenigvuldigd bij toepassing van de meting in meters met de factoren 0.17, in het geval van houten of composietschepen, en 0.18 in het geval van stalen schepen, en bij toepassing van de meting in voeten met de factoren 0.0017 en 0.0018. Het aldus verkregen product wordt geacht de kubieke inhoud te zijn van de ruimte onder het bovenste dek in kubieke meters of registertonnen.
 
-#### Artikel 86
+##### Artikel 86
 
 Bij toepassing van Regel II zal geen meting van dubbele bodemtanks plaats hebben.
 
 #### **Bovenbouw, enz.**
 
-#### Artikel 87
+##### Artikel 87
 
 Behoudens de bepalingen van artikel 88 zullen ruimten op- of boven het bovenste dek (bak, verhoogd dek, dekhuizen, luikhoofden enz.) overeenkomstig de desbetreffende bepalingen van hoofdstuk III worden behandeld.
 
 #### **Meting en berekening van de kubieke inhoud van de bovenbouw**
 
-#### Artikel 88
+##### Artikel 88
 
 De meting van alle afzonderlijke delen van de bovenbouw en van luikhoofden op- of boven het bovenste dek zal geschieden door bepaling van hun gemiddelde breedte, gemiddelde lengte en gemiddelde hoogte, indien dit uitvoerbaar is, volgens de bepalingen vervat in hoofdstuk III. In geen geval zal echter meer dan één breedte gebruikt worden. Indien binnenwerkse meting onuitvoerbaar is, moeten de maten buitenwerks genomen worden.
 
@@ -1431,7 +1455,7 @@ De kubieke inhoud van deze ruimten wordt verkregen door vermenigvuldiging van de
 
 #### **Meting en berekening van de ruimten, welke voor aftrek in aanmerking komen**
 
-#### Artikel 89
+##### Artikel 89
 
 De inhoud van de ruimten, welke voor aftrek in aanmerking komen, genoemd in artikel 7, moeten volgens het bepaalde in artikel 88 worden vastgesteld. Alle aftrekposten zijn onderhevig aan de in hoofdstuk IV opgelegde begrenzingen en beperkingen en indien het onmogelijk is deze begrenzingen en beperkingen voor enige ruimte te berekenen (b.v. in het geval van waterballastruimten) mag geen aftrek voor bedoelde ruimte worden toegestaan.
 
@@ -1439,7 +1463,7 @@ De inhoud van de ruimten, welke voor aftrek in aanmerking komen, genoemd in arti
 
 #### **Signalements-afmetingen bij toepassing van Regel I**
 
-#### Artikel 90
+##### Artikel 90
 
 1. **De signalements-lengte** 1) Indien de meetlengte bepaald is, kan de signalementslengte gemakkelijk gevonden worden door de meetlengte te vermeerderen, c.q. te verminderen met de lengte der horizontale afstanden in het langsscheepse middenvlak, gemeten tussen de eindpunten van de meetlengte en de bovenvermelde punten (zie figuur 117). is de lengte van de voorzijde van het bovenste uiteinde van de voorsteven (zie figuur 121) tot de achterzijde van het bovenste uiteinde van de achtersteven.
 
@@ -1455,13 +1479,13 @@ Indien de signalements-holte ter plaatse van een verlaging of een verhoging van 
 
 #### **Signalements-afmetingen bij toepassing van Regel II**
 
-#### Artikel 91
+##### Artikel 91
 
 De signalements-afmetingen voor schepen volgens Regel II gemeten zijn: de lengte, de breedte en de omvang, bepaald volgens artikel 84.
 
 #### **Lengte over alles**
 
-#### Artikel 92
+##### Artikel 92
 
 De „lengte over alles” moet tevens worden vastgesteld. Zij moet van de voorkant van het voorste tot de achterkant van het achterste vaste deel van de scheepsromp worden gemeten (zie figuur 124).
 

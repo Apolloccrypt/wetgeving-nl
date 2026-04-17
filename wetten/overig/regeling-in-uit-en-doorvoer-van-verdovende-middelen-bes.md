@@ -1,18 +1,43 @@
 ---
 title: "Regeling in-, uit- en doorvoer van verdovende middelen BES"
 identifier: "BWBR0028698"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028698"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028698"
+soort: "ministeriele-regeling-BES"
+stam_id: "10936223"
+version_id: "17921792"
+internal_id: "C24845071"
+label_id: "10910854"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028698/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14822"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-28"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14822"
+original_signed_date: "2010-09-28"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14822"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028698&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028698&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-28"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling in-, uit- en doorvoer van verdovende middelen BES
 
 Treedt in werking om 00.00 uur in Bonaire, Sint Eustatius en Saba en om 06.00 uur in het Europese deel van het Koninkrijk.
 
-#### Artikel 1
+##### Artikel 1
 
 Deze regeling verstaat onder:
 
@@ -28,19 +53,19 @@ Deze regeling verstaat onder:
 
 - f. **uitvoer:** elke uitvoer, al dan niet uit het vrije verkeer, voor zover geen doorvoer op de voet van [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 2
+##### Artikel 2
 
 Het verlof voor invoer en voor uitvoer van verdovende middelen, als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028519&artikel=6), kan schriftelijk worden aangevraagd door een naamloze vennootschap, een coöperatieve of andere rechtspersoonlijkheid bezittende vereniging of een stichting, onder vermelding van haar naam en de plaats, waar het bedrijf wordt uitgeoefend.
 
 Anderen dan verlofhouders mogen niet in- of uitvoeren.
 
-#### Artikel 3
+##### Artikel 3
 
 Invoer en uitvoer van verdovende middelen is uitsluitend geoorloofd aan of ten behoeve van hem, die hiertoe het in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=2&z=2010-10-10&g=2010-10-10) van deze regeling bedoelde verlofheeft verkregen en wie tevens door of namens Onze Minister een certificaat, betrekking hebbende op die invoer of uitvoer, is verstrekt.
 
 Dit certificaat wordt alleen verstrekt voor geneeskundige of wetenschappelijke doeleinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij invoer van verdovende middelen, uitgevoerd uit een land, dat het stelsel van in- en uitvoercertificaten op de in te voeren middelen toepast overeenkomstig de bepalingen van het verdrag, moeten deze vergezeld zijn van een exemplaar van de vergunning tot uitvoer uit dat land of van een in artikel 31, twaalfde lid van het verdrag bedoeld certificaat tot wijziging van bestemming.
 
@@ -48,37 +73,37 @@ Elke ingevoerde zending moet ten invoer in het vrije verkeer of tot opslag in en
 
 Ingevoerde zendingen van verdovende middelen, welke niet voldoen aan het gestelde in het eerste lid van dit artikel, worden door de met de visitatie belaste ambtenaren vastgehouden.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij uitvoer van verdovende middelen – uitslag uit entrepot met bestemming ten uitvoer hieronder begrepen – moeten deze vergezeld zijn van een geldig uitvoercertificaat in tweevoud. Beide exemplaren moeten door of vanwege belanghebbende voorzien zijn van een nauwkeurige vermelding van aantal, aard en merken der colli's, waarin de verdovende middelen verpakt zijn. Bij het verlaten van het Nederlands grondgebied moet een exemplaar, dat de zending blijft vergezellen, door de met de uitklaring belaste ambtenaren zijn afgetekend en het andere aan hen ter intrekking zijn overgegeven. Voor uitvoer bestemde zendingen van verdovende middelen, welke niet vergezeld zijn van twee exemplaren van een geldig uitvoercertificaat, worden door de met de uitklaring belaste ambtenaren vastgehouden.
 
-#### Artikel 6
+##### Artikel 6
 
 Op het vervoeren van verdovende middelen tussen het Europese deel van Nederland en de openbare lichamen Bonaire, Sint Eustatius en Saba zijn de bepalingen inzake in- en uitvoer van deze regeling van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Invoer van verdovende wordt beperkt tot die middelen, welker vervaardiging in de Nederlandse Antillen niet of niet voldoende in de behoefte voorziet, en tot een hoeveelheid, welke door de Inspecteur voor Geneesmiddelen in verband met het verbruik is vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien dit niet reeds uit de aangiften duidelijk blijkt, moet bij invoer en bij uitvoer van verdovende middelen in mindere hoeveelheid dan in de bijzondere certificaten is vermeld, van de aanwezige hoeveelheid van ieder soort steeds nauwkeurige mededeling worden gedaan aan de met de aftekening of intrekking belaste ambtenaren.
 
 Andere verschillen met de certificaten en het brengen van wijziging in de hoeveelheid onderweg zijn niet toegelaten. In elke aangifte ten in- of uitvoer, waarbij aan de met de inklaring, visitatie of uitklaring belaste ambtenaren niet tegelijkertijd een certificaat of vergunning voor de aanwezige verdovende middelen wordt overgelegd, moeten deze met name zijn genoemd.
 
-#### Artikel 9
+##### Artikel 9
 
 Uitvoer van zendingen gericht aan een postbusadres of aan een bank ter rekening van een andere persoon dan die genoemd in het uitvoercertificaat is niet toegestaan.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen.
 
-#### Artikel 12
+##### Artikel 12
 
 Verlof tot doorvoer van verdovende middelen, met uitzondering van bereid opium en van bereidingen van bereid opium, al dan niet gepaard gaande met overlading of met tijdelijke opslag in entrepot of elders, wordt geacht door Onze Minister te zijn verleend voor elke zending, ten aanzien waarvan is of wordt voldaan aan de volgende voorwaarde
 
@@ -88,7 +113,7 @@ Verlof tot doorvoer van verdovende middelen, met uitzondering van bereid opium e
 
 - c. Zij moet, indien wijziging wordt gebracht in de bestemming der zending, zoals deze is aangegeven in de uitvoervergunning (of op het certificaat tot wijziging van bestemming), begeleid worden door een in de Nederlandse Antillen af te geven bijzonder certificaat tot wijziging der bestemming, ter vervanging van de uitvoervergunning (of van het tevoren afgegeven certificaat tot wijziging van bestemming). Dit bijzondere certificaat wordt slechts verleend onder intrekking van het exemplaar van de uitvoerdergunning (of het certificaat van wijziging van bestemming), dat de zending vergezelt, en met overeenkomstige toepassing der bepalingen betreffende het verstrekken van uitvoercertificaten van [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=11&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=16&z=2010-10-10&g=2010-10-10) dezer regeling.
 
-#### Artikel 13
+##### Artikel 13
 
 De bestemming van verdovende middelen, waarvoor een certificaat is verstrekt voor invoer in het vrije verkeer of tot opslag in entrepot kan worden gewijzigd in:
 
@@ -98,15 +123,15 @@ De bestemming van verdovende middelen, waarvoor een certificaat is verstrekt voo
 
 Het bijzondere certificaat tot wijziging der bestemming, dat daarvoor vereist wordt, wordt slechts verleend onder intrekking van het exemplaar van de uitvoervergunning (of het certificaat tot wijziging van bestemming), dat de zending vergezelt, en van het exemplaar van het invoercertificaat, bestemd voor overlegging bij de aangifte ten invoer of tot opslag entrepot, en met overeenkomstige toepassing der bepalingen betreffende het verstrekken van uitvoercertificaten van de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=11&z=2010-10-10&g=2010-10-10), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=15&z=2010-10-10&g=2010-10-10) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=16&z=2010-10-10&g=2010-10-10) dezer regeling.
 
-#### Artikel 14
+##### Artikel 14
 
 Verdovende middelen mogen tijdens de in-, uit- of doorvoer of tijdens de opslag in entrepot niet onderworpen worden aan enigerlei bewerking, die verandering zou kunnen brengen in de aard van de desbetreffende middelen. De verpakking mag niet worden gewijzigd zonder vergunning van de Inspecteur voor Geneesmiddelen.
 
-#### Artikel 15
+##### Artikel 15
 
 De Inspecteur voor Geneesmiddelen is gemachtigd namens Onze Minister certificaten van invoer of uitvoer, in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=3&z=2010-10-10&g=2010-10-10) bedoeld, en certificaten tot wijziging van bestemming, in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=12&z=2010-10-10&g=2010-10-10) of [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=13&z=2010-10-10&g=2010-10-10) bedoeld te verstrekken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aanvragen voor invoer- of uitvoercertificaten moeten worden gericht tot de Inspecteur voor Geneesmiddelen.
 
@@ -148,7 +173,7 @@ Bij uitvoer naar landen, welke het stelsel van invoer- en uitvoercertificaten op
 
 4. Uitvoercertificaten voor andere landen dan in het derde en vierde lid van dit artikel zijn bedoeld, worden slechts verleend, indien ten genoegen van de inspecteur voornoemd, blijkt, dat de geadresseerde bevoegd is de uit te voeren verdovende middelen te ontvangen, of dat geen redelijke twijfel bestaat omtrent de bestemming der verdovende middelen voor geoorloofde doeleinden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Degene, aan wie een certificaat voor invoer of uitvoer, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=3&z=2010-10-10&g=2010-10-10), is verstrekt, is verplicht:
 
@@ -164,6 +189,6 @@ Bij uitvoer naar landen, welke het stelsel van invoer- en uitvoercertificaten op
 
 3. In afwijking van het bepaalde in het eerste lid onder a houdt de apotheker, aan wie een certificaat voor invoer, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028698&artikel=3&z=2010-10-10&g=2010-10-10), is verstrekt, van iedere invoer aantekening in een register vermeldende de datum van invoer, de naam, de hoeveelheid, de leverancier en het land van herkomst van elk ingevoerd verdovend middel.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling in-, uit- en doorvoer van verdovende middelen BES.

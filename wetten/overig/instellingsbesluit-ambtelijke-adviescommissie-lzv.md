@@ -1,28 +1,52 @@
 ---
-title: "Instellingsbesluit Ambtelijke adviescommissie LZV"
+title: "Instelling Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties (Instellingsbesluit Ambtelijke adviescommissie LZV)"
 identifier: "BWBR0016098"
-categorie: "Overig"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016098"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016098"
+soort: "ministeriele-regeling"
+stam_id: "5544353"
+version_id: "9948092"
+internal_id: "C13430291"
+label_id: "5516384"
+original_entry_into_force: "2004-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016098/2015-10-01/0"
+intitule_bron: "Stcrt.2003-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-12-12"
+intitule_published: "2003-12-18"
+intitule_in_force: "2003-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-245"
+original_signed_date: "2003-12-12"
+original_published_date: "2003-12-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-02-01"
+jci_1_3: "jci1.3:c:BWBR0016098&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBR0016098&g=2015-10-01"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Ambtelijke adviescommissie LZV"
+signed_date: "2003-12-12"
+entry_into_force: "2004-02-01"
 ---
-
 # Instelling Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties (Instellingsbesluit Ambtelijke adviescommissie LZV)
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016098&artikel=2&z=2015-10-01&g=2015-10-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ingesteld wordt een Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties.
 
 2. De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) toegestaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit drie leden:
 
@@ -34,17 +58,17 @@ In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in [artikel
 
 2. Het secretariaat van de commissie berust bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie adviseert de Dienst Wegverkeer positief met betrekking tot het verlenen van een ontheffing, indien de aanvrager aantoont te voldoen aan de toetsingscriteria voor deelname aan de proef, zoals opgenomen in de bijlage.
 
 2. De commissie trekt haar positieve advies in, indien blijkt dat de aanvrager niet of niet langer voldoet na toetsing aan de in de bijlage opgenomen toetsingscriteria.
 
-#### Artikel 5
+##### Artikel 5
 
 De commissie doet van haar adviezen of de intrekking daarvan onverwijld mededeling aan de Dienst Wegverkeer en de deelnemer aan de proef.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ambtelijke adviescommissie LZV.
 

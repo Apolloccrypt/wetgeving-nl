@@ -1,30 +1,54 @@
 ---
 title: "Regeling voorzieningen sleepvliegen"
 identifier: "BWBR0012875"
-categorie: "Overig"
-publicatiedatum: 2013-10-01
-laatste_update: 2013-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012875"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-10-01"
+last_updated: "2013-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012875"
+soort: "ministeriele-regeling"
+stam_id: "4571763"
+version_id: "6387912"
+internal_id: "C6634811"
+label_id: "4550124"
+dtd_version: "2.0"
+original_entry_into_force: "2001-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012875/2013-10-01/0"
+intitule_bron: "Stcrt.2001-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-08"
+intitule_published: "2001-10-12"
+intitule_in_force: "2001-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-198"
+original_signed_date: "2001-10-08"
+original_published_date: "2001-10-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-10-15"
+jci_1_3: "jci1.3:c:BWBR0012875&z=2013-10-01&g=2013-10-01"
+jci_1_0: "1.0:c:BWBR0012875&g=2013-10-01"
+citeertitel_status: "officieel"
+signed_date: "2001-10-08"
+entry_into_force: "2001-10-15"
 ---
-
 # Regeling voorzieningen sleepvliegen
 
 Gelet op [artikel 45 van het Besluit luchtwaardigheid](https://wetten.overheid.nl/jci1.3:c:BWBR0012651&artikel=45);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2. Kunstvluchten en vervoer van personen en goederen
+##### Artikel 2. Kunstvluchten en vervoer van personen en goederen
 
 1. Tijdens vluchten, waarbij een sleep wordt gesleept, mogen geen kunstvluchten worden uitgevoerd en mogen geen andere personen of goederen worden vervoerd, dan voor het uitvoeren van de vlucht noodzakelijk is.
 
 2. In afwijking van hetgeen in het vorige lid en in het vlieghandboek van het sleepvliegtuig is bepaald, mag tijdens vluchten waarbij een éénpersoons zweefvliegtuig wordt gesleept, een persoon die houder is van een vliegbewijs worden vervoerd, aan wie onderricht in het sleepvliegen wordt gegeven, mits de gezagvoerder van het sleepvliegtuig als examinator voor de bevoegdverklaring 'sleepvliegen' in een vliegbewijs is benoemd. Indien het slepen geschiedt met een sleepvliegtuig waarmede tweepersoons zweefvliegtuigen bij een beperkte startmassa mogen worden gesleept, is de beperking van maximaal toegelaten startmassa bij het slepen van éénpersoons zweefvliegtuigen niet van toepassing.
 
-#### Artikel 3. Sleepnetten en doelen voor schietoefeningen
+##### Artikel 3. Sleepnetten en doelen voor schietoefeningen
 
 1. Het sleepnet moet van een door de minister toegelaten type zijn.
 
@@ -34,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 4. Het sleepnet of het doel voor schietoefeningen mag tijdens het slepen niet zodanig kunnen bewegen dat dit de besturing of de constructie van het sleepvliegtuig of de sleep ontoelaatbaar aantast.
 
-#### Artikel 4. Sleepkabels
+##### Artikel 4. Sleepkabels
 
 1. De sleepkabel voor het slepen van een zweefvliegtuig moet omvatten:
 
@@ -66,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 5. Alle verbindingselementen moeten zodanig zijn geconstrueerd, dat zij tijdens het slepen niet kunnen losraken.
 
-#### Artikel 5. Breukstukken
+##### Artikel 5. Breukstukken
 
 1. Het breukstuk en de houder waarin het moet zijn opgenomen, moeten deugdelijk en van een door de minister toegelaten type zijn. De deugdelijkheid van de breukstukken kan worden aangetoond door 5 exemplaren van de betrokken productieserie als volgt te beproeven:
 
@@ -76,15 +100,15 @@ In deze regeling wordt verstaan onder:
 
 2. Het breukstuk, waarvan de nominale sterkte in de sleepbijlage van het vlieghandboek is vermeld, moet met een of meer kleuren en een ingeslagen merk duidelijk zijn gemerkt.
 
-#### Artikel 6. Gebruik van buitenlandse vliegtuigen
+##### Artikel 6. Gebruik van buitenlandse vliegtuigen
 
 De gezagvoerder van een buitenlands geregistreerd sleepvliegtuig is verplicht een verklaring van de minister mee te voeren waaruit blijkt dat het slepen met bedoeld vliegtuig is toegestaan. Aan deze toestemming kunnen voorwaarden worden verbonden.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 15 oktober 2001.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorzieningen sleepvliegen.
 

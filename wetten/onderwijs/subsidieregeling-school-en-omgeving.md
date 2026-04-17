@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling School en omgeving"
+title: "Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 juli 2022, nr. 33295719, houdende regels voor de subsidiëring van een rijke schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs (Subsidieregeling School en omgeving)"
 identifier: "BWBR0046936"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046936"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046936"
+soort: "ministeriele-regeling"
+stam_id: "16425653"
+version_id: "28769752"
+internal_id: "C40727621"
+label_id: "16349814"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046936/2022-08-01/0"
+intitule_bron: "Stcrt.2022-19058"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-06"
+intitule_published: "2022-07-18"
+intitule_in_force: "2022-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-19058"
+original_signed_date: "2022-07-06"
+original_published_date: "2022-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-19058"
+entry_into_force_date: "2022-07-19"
+jci_1_3: "jci1.3:c:BWBR0046936&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0046936&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling School en omgeving"
+signed_date: "2022-07-06"
+entry_into_force: "2022-07-19"
 ---
-
 # Regeling van de Minister voor Primair en Voortgezet Onderwijs van 6 juli 2022, nr. 33295719, houdende regels voor de subsidiëring van een rijke schooldag voor leerlingen in het primair onderwijs, voortgezet onderwijs, speciaal onderwijs en voortgezet speciaal onderwijs (Subsidieregeling School en omgeving)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5 van de Wet overige OCW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,11 +82,11 @@ In deze regeling wordt verstaan onder:
 
 - **vso:** voortgezet speciaal onderwijs.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
-#### Artikel 3. Doel en doelgroep
+##### Artikel 3. Doel en doelgroep
 
 1. De minister kan voor het schooljaar 2022–2023 subsidie verstrekken aan:
 
@@ -90,7 +116,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. de samenwerking tussen de school of de schoolvestiging en lokale partijen met het oog op het onder a genoemde doel te bevorderen, waarbij het college van burgemeester en wethouders van de gemeente waarin de school of schoolvestiging, is gevestigd, onderscheidenlijk het eilandsbestuur van het openbaar lichaam Bonaire, Sint Eustatius of Saba, een ondersteunende rol heeft.
 
-#### Artikel 4. Subsidieplafond, maximale hoogte subsidie
+##### Artikel 4. Subsidieplafond, maximale hoogte subsidie
 
 1. Voor subsidieverstrekking op grond van deze regeling is voor het schooljaar 2022–2023 in totaal een bedrag beschikbaar van € 33.970.000,–.
 
@@ -116,7 +142,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 9. Indien minder aanvragen voor starters worden toegekend dan budget beschikbaar is, wordt het resterende bedrag herverdeeld in gelijke delen over de aanvragers van de voorlopers.
 
-#### Artikel 5. Aanvrager
+##### Artikel 5. Aanvrager
 
 1. De subsidieaanvraag wordt ingediend door een bevoegd gezag van de school of schoolvestiging die behoort tot de doelgroep als bedoeld in [artikel drie, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=3&z=2022-08-01&g=2022-08-01).
 
@@ -130,13 +156,13 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 6. Scholen of schoolvestigingen kunnen aan maximaal één aanvraag deelnemen.
 
-#### Artikel 6. Aanvraag subsidie
+##### Artikel 6. Aanvraag subsidie
 
 1. Een subsidieaanvraag kan worden ingediend van 22 augustus 2022 tot en met 30 september 2022. Aanvragen die worden ingediend na 30 september 2022 worden afgewezen.
 
 2. Subsidieaanvragen kunnen worden ingediend met het digitale aanvraagformulier dat te vinden is op de website [www.dus-i.nl](onbekend).
 
-#### Artikel 7. Aanvullende eisen aanvraag voorlopers
+##### Artikel 7. Aanvullende eisen aanvraag voorlopers
 
 1. In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-08-01&g=2022-08-01) gaat een aanvraag voor subsidie aan voorlopers vergezeld van:
 
@@ -174,7 +200,7 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - ii. het deelnemen aan het inhoudelijke programma van het voorloperstraject en activiteiten te organiseren met als doel kennis te delen met de lokale coalitie, in de regio en met de Gelijke Kansen Alliantie van het Ministerie van OCW.
 
-#### Artikel 8. Aanvullende eisen aanvraag doorgroeiers
+##### Artikel 8. Aanvullende eisen aanvraag doorgroeiers
 
 1. Een lokale coalitie komt uitsluitend in aanmerking als doorgroeier indien:
 
@@ -192,17 +218,17 @@ Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.
 
 - b. een activiteitenplan, ten aanzien waarvan [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=7&z=2022-08-01&g=2022-08-01), van overeenkomstige toepassing is.
 
-#### Artikel 9. Aanvullende eisen aanvraag starters
+##### Artikel 9. Aanvullende eisen aanvraag starters
 
 In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=6&z=2022-08-01&g=2022-08-01) bevat een aanvraag voor subsidie aan starters een verklaring dat de aanvrager starter is en een intentieverklaring van minimaal de schoolvestiging en minimaal één gemeente om tot een convenant te komen.
 
-#### Artikel 10. Loting
+##### Artikel 10. Loting
 
 1. De ingediende aanvragen voor subsidie aan doorgroeiers worden door middel van loting gerangschikt.
 
 2. De ingediende aanvragen voor subsidie aan starters worden door middel van loting gerangschikt.
 
-#### Artikel 11. Vaststelling, betaling en besteding subsidie
+##### Artikel 11. Vaststelling, betaling en besteding subsidie
 
 1. De subsidie wordt uiterlijk op 31 december 2022 direct vastgesteld.
 
@@ -212,7 +238,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 4. DUS-I beslist uiterlijk dertien weken na het aflopen van de aanvraagtermijn op de aanvraag.
 
-#### Artikel 12. Subsidieverplichtingen algemeen
+##### Artikel 12. Subsidieverplichtingen algemeen
 
 1. De subsidieontvanger:
 
@@ -224,7 +250,7 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 3. De penvoerder brengt de bevoegde gezagsorganen van de betrokken scholen en andere organisaties uit de lokale coalitie op de hoogte van de verplichtingen in deze regeling beschreven.
 
-#### Artikel 13. Aanvullende subsidieverplichtingen voorlopers
+##### Artikel 13. Aanvullende subsidieverplichtingen voorlopers
 
 1. De activiteiten van voorlopers worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2023.
 
@@ -238,11 +264,11 @@ In aanvulling op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&art
 
 - d. spant zich ervoor in alle leerlingen op de scholen uit de lokale coalitie te laten deelnemen aan de aangeboden activiteiten.
 
-#### Artikel 14. Aanvullende subsidieverplichtingen doorgroeiers
+##### Artikel 14. Aanvullende subsidieverplichtingen doorgroeiers
 
 De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=13&z=2022-08-01&g=2022-08-01) gelden tevens voor doorgroeiers.
 
-#### Artikel 15. Aanvullende subsidieverplichtingen starters
+##### Artikel 15. Aanvullende subsidieverplichtingen starters
 
 1. De activiteiten van starters worden uitgevoerd in de periode van 1 augustus 2022 tot en met 31 juli 2025.
 
@@ -252,7 +278,7 @@ De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid
 
 - b. op een publiek toegankelijke plaats het convenant en activiteitenplan te publiceren.
 
-#### Artikel 16. Verantwoording
+##### Artikel 16. Verantwoording
 
 1. De verantwoording van de subsidie geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132), onderscheidenlijk de [Regeling jaarverslaggeving onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0031801), met [model G, onderdeel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0031801&bijlage=1), zoals bedoeld in richtlijn 660 van de Raad voor de Jaarverslaggeving.
 
@@ -260,17 +286,17 @@ De subsidieverplichtingen als beschreven in [artikel 13](https://wetten.overheid
 
 3. De aanvrager toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 17. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) in [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
+##### Artikel 17. Wijziging [Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399) in [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212)
 
 Wijzigt deze regeling.
 
-#### Artikel 18. Inwerkingtreding en geldigheidsduur
+##### Artikel 18. Inwerkingtreding en geldigheidsduur
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, met uitzondering van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0046936&artikel=17&z=2022-08-01&g=2022-08-01), dat in werking treedt met ingang van 1 augustus 2022.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling School en omgeving.
 

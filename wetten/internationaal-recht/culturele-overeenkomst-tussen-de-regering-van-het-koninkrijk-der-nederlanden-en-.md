@@ -1,26 +1,48 @@
 ---
 title: "Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek"
 identifier: "BWBV0004984"
-categorie: "Internationaal recht"
-publicatiedatum: 1973-05-11
-laatste_update: 1973-05-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004984"
+country: "nl"
+rank: "verdrag"
+publication_date: "1973-05-11"
+last_updated: "1973-05-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004984"
+soort: "verdrag"
+stam_id: "10004421683"
+version_id: "10004626952"
+internal_id: "C10008343381"
+label_id: "10004406694"
+dtd_version: "2.0"
+original_entry_into_force: "1973-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004984/1973-05-11/0"
+intitule_bron: "Trb.1972-113"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-10-17"
+intitule_in_force: "1973-06-20"
+intitule_status: "goed"
+original_publication: "Trb.1972-113"
+original_published_date: "1972-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-113"
+entry_into_force_date: "1973-05-11"
+jci_1_3: "jci1.3:c:BWBV0004984&z=1973-05-11&g=1973-05-11"
+jci_1_0: "1.0:c:BWBV0004984&g=1973-05-11"
+citeertitel_status: "redactioneel"
+entry_into_force: "1973-05-11"
 ---
-
 # Culturele Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Tsjechoslowaakse Socialistische Republiek, de wens koesterende de onderlinge samenwerking op het gebied van onderwijs, wetenschap en cultuur te bevorderen, en de overtuiging koesterende dat deze samenwerking zal bijdragen tot een beter begrip tussen de beide volkeren, hebben besloten een culturele overeenkomst te sluiten, en zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 De Overeenkomstsluitende Partijen bevorderen de samenwerking op het gebied van onderwijs, wetenschap en cultuur, met inbegrip van de schone kunsten, het maatschappelijk werk, de massamedia, de sportbeoefening en het vreemdelingenverkeer.
 
-#### Artikel II
+##### Artikel II
 
 De Overeenkomstsluitende Partijen bevorderen de uitwisseling van bezoeken en andere contacten tussen vooraanstaande persoonlijkheden uit het culturele leven, zoals schrijvers, componisten, architecten, beeldende kunstenaars, kunstcritici, journalisten, deskundigen op het gebied van musea, kunstgalerijen en bibliotheken, alsmede deskundigen op het gebied van het maatschappelijk werk, de massamedia, culturele en opvoedkundige arbeid, de jeugdvorming en de sportbeoefening.
 
-#### Artikel III
+##### Artikel III
 
 De Overeenkomstsluitende Partijen bevorderen
 
@@ -28,11 +50,11 @@ De Overeenkomstsluitende Partijen bevorderen
 
 - (b). de organisatie van concerten, toneelvoorstellingen en uitvoeringen van kunstenaars, alsmede de introductie van toneelstukken uit het andere land.
 
-#### Artikel IV
+##### Artikel IV
 
 De Overeenkomstsluitende Partijen bevorderen de vertaling en publikatie van literaire en wetenschappelijke werken uit het andere land. Zij bevorderen de uitwisseling van boeken, tijdschriften en andere geschriften van culturele, wetenschappelijke en technologische aard, alsmede van grammofoonplaten en soortgelijke middelen tussen bibliotheken en andere instellingen in de beide landen.
 
-#### Artikel V
+##### Artikel V
 
 De Overeenkomstsluitende Partijen bevorderen
 
@@ -40,11 +62,11 @@ De Overeenkomstsluitende Partijen bevorderen
 
 - (b). het vertonen en introduceren van wetenschappelijke, opvoedkundige en culturele films.
 
-#### Artikel VI
+##### Artikel VI
 
 De Overeenkomstsluitende Partijen bevorderen de deelneming door deskundigen op het gebied van de cultuur, de schone kunsten, de wetenschap, het onderwijs en het maatschappelijk werk aan congressen, conferenties, studiedagen en andere bijzondere bijeenkomsten die worden gehouden op het grondgebied van het andere land.
 
-#### Artikel VII
+##### Artikel VII
 
 De Overeenkomstsluitende Partijen bevorderen
 
@@ -54,31 +76,31 @@ De Overeenkomstsluitende Partijen bevorderen
 
 - (c). de samenwerking tussen instellingen en deskundigen op het gebied van het basis- en het algemeen voortgezet onderwijs, alsmede het beroepsonderwijs.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De Overeenkomstsluitende Partijen verlenen onderdanen van het andere land studiebeurzen voor studie aan hun instellingen van wetenschapsbeoefening, onderwijs, cultuur en maatschappelijk werk, voor studiebezoeken, met inbegrip van deelneming aan zomercursussen.
 
-#### Artikel IX
+##### Artikel IX
 
 De Overeenkomstsluitende Partijen stellen in onderling overleg de waarde vast die moet worden toegekend aan diploma's en academische titels, verleend door instellingen in het andere land.
 
-#### Artikel X
+##### Artikel X
 
 De Overeenkomstsluitende Partijen vergemakkelijken de toegang tot bibliotheken, archieven, musea, kunstgalerijen en culturele en wetenschappelijke instellingen voor deskundigen op het gebied van de cultuur, de schone kunsten, de wetenschap, het onderwijs en het maatschappelijk werk.
 
-#### Artikel XI
+##### Artikel XI
 
 De Overeenkomstsluitende Partijen bevorderen de samenwerking tussen sportorganisaties en sportfederaties.
 
-#### Artikel XII
+##### Artikel XII
 
 De Overeenkomstsluitende Partijen bevorderen voorts het vreemdelingenverkeer, zowel door het vergemakkelijken van contact, als met andere middelen die zouden kunnen bijdragen tot een beter begrip van het leven, het werk en de cultuur van de beide landen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 De Overeenkomstsluitende Partijen komen overeen dat alle uitwisselingen en andere vormen van samenwerking ingevolge deze Overeenkomst zullen plaatsvinden op de voet van wederkerigheid en overeenkomstig de in de onderscheiden landen van kracht zijnde wetten en voorschriften.
 
-#### Artikel XIV
+##### Artikel XIV
 
 (a). De Overeenkomstsluitende Partijen stellen ten behoeve van de uitvoering van deze Overeenkomst een Gemengde Commissie in, bestaande uit ten hoogste twaalf leden; elke Overeenkomstsluitende Partij benoemt eenzelfde aantal leden.
 
@@ -86,19 +108,19 @@ De Overeenkomstsluitende Partijen komen overeen dat alle uitwisselingen en ander
 
 (c). De Gemengde Commissie komt in beginsel eenmaal in de twee jaar bijeen, afwisselend in Nederland en in Tsjechoslowakije. De diplomatieke vertegenwoordigers van iedere Overeenkomstsluitende Partij, alsmede een beperkt aantal deskundigen, kunnen de bijeenkomsten van de Gemengde Commissie bijwonen. De bijeenkomsten worden voorgezeten door een Commissielid van het land waar zij worden gehouden.
 
-#### Artikel XV
+##### Artikel XV
 
 Wat het Koninkrijk der Nederlanden betreft, geldt deze Overeenkomst voor het Rijk in Europa.
 
-#### Artikel XVI
+##### Artikel XVI
 
 De onderhavige Overeenkomst treedt in werking op de dag waarop beide Overeenkomstsluitende Partijen elkaar hebben medegedeeld dat aan de grondwettelijke vereisten in hun landen is voldaan.
 
-#### Artikel XVII
+##### Artikel XVII
 
 De onderhavige Overeenkomst vervangt de Overeenkomst betreffende de ontwikkeling en versterking van de intellectuele en artistieke betrekkingen tussen het Koninkrijk der Nederlanden en de Tsjechoslowaakse Republiek, gesloten bij op 20 mei en 25 mei 1937 gewisselde nota's.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 De onderhavige Overeenkomst blijft van kracht voor een tijdvak van vijf jaar. Indien zij niet zes maanden voor de datum van beëindiging door een der Overeenkomstsluitende Partijen is opgezegd, blijft zij verder voor onbepaalde tijd van kracht; voor de schriftelijke opzegging aan de andere Overeenkomstsluitende Partij geldt een termijn van zes maanden.
 

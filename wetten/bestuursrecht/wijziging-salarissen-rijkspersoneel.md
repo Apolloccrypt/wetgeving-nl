@@ -1,13 +1,37 @@
 ---
 title: "Wijziging salarissen rijkspersoneel"
 identifier: "BWBR0008971"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-11-17
-laatste_update: 1997-11-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008971"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-11-17"
+last_updated: "1997-11-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008971"
+soort: "circulaire"
+stam_id: "6340553"
+version_id: "10995182"
+internal_id: "C14887961"
+label_id: "6329834"
+original_entry_into_force: "1997-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008971/1997-11-17/0"
+intitule_bron: "Stcrt.1997-221"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-10-23"
+intitule_published: "1997-11-17"
+intitule_in_force: "1997-11-17"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-221"
+original_signed_date: "1997-10-23"
+original_published_date: "1997-11-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-221-p8-SC11280"
+entry_into_force_date: "1997-11-17"
+jci_1_3: "jci1.3:c:BWBR0008971&z=1997-11-17&g=1997-11-17"
+jci_1_0: "1.0:c:BWBR0008971&g=1997-11-17"
+citeertitel_status: "redactioneel"
+signed_date: "1997-10-23"
+entry_into_force: "1997-11-17"
 ---
-
 # Wijziging salarissen rijkspersoneel
 
 Circulaire aan de ministers

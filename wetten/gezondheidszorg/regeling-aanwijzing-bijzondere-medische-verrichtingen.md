@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing bijzondere medische verrichtingen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 juli 2014, kenmerk 629167-122949-WJZ, houdende aanwijzing van bijzondere medische verrichtingen voor de uitvoering waarvan een vergunning is vereist (Regeling aanwijzing bijzondere medische verrichtingen)"
 identifier: "BWBR0035311"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035311"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035311"
+soort: "ministeriele-regeling"
+stam_id: "12723503"
+version_id: "21531892"
+internal_id: "C30952651"
+label_id: "12693394"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035311/2025-07-01/0"
+intitule_bron: "Stcrt.2014-19482"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-03"
+intitule_published: "2014-07-11"
+intitule_in_force: "2014-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-19482"
+original_signed_date: "2014-07-03"
+original_published_date: "2014-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-19482"
+entry_into_force_date: "2014-08-01"
+jci_1_3: "jci1.3:c:BWBR0035311&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0035311&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing bijzondere medische verrichtingen"
+signed_date: "2014-07-03"
+entry_into_force: "2014-08-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 3 juli 2014, kenmerk 629167-122949-WJZ, houdende aanwijzing van bijzondere medische verrichtingen voor de uitvoering waarvan een vergunning is vereist (Regeling aanwijzing bijzondere medische verrichtingen)
 
 Gelet op de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=2), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=5), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008974&artikel=6), van de Wet op bijzondere medische verrichtingen;
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op bijzondere medische verrichtingen (invoering startmeldingsplicht voor beperkte duur voor het uitvoeren van verrichtingen waarvoor niet langer een vergunning op grond van deze wet is vereist) (Stb. 2014, 165), in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het is verboden zonder vergunning van de Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren:
 
@@ -70,19 +96,19 @@ Treedt in werking op het tijdstip waarop de Wijzigingswet Wet op bijzondere medi
 
 - c. goedkeuring van een bevoegde instantie als bedoeld in [artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=2) met mensen is verkregen voor een onderzoeksprotocol als bedoeld in artikel 2, eerste lid, van die wet, waarvan het gebruik van die cellen deel uitmaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 Vergunningen die zijn verleend ingevolge de [Wet op bijzondere medische verrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0008974) en daarmee gelijkgestelde vergunningen of toestemmingen, die op het moment van inwerkingtreding van deze regeling geldig zijn voor het uitvoeren van verrichtingen als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035311&artikel=1&z=2025-07-01&g=2025-07-01), worden gelijkgesteld met vergunningen, verleend ingevolge deze regeling.
 
-#### Artikel 3
+##### Artikel 3
 
 Het [Planningsbesluit radiotherapie 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0026610) wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking op het tijdstip waarop de wet van 16 april 2014 tot wijziging van de Wet op bijzondere medische verrichtingen in verband met de invoering van een startmeldingsplicht voor beperkte duur voor het uitvoeren van verrichtingen waarvoor niet langer een vergunning op grond van deze wet is vereist (Stb. 2014, 165), in werking treedt.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing bijzondere medische verrichtingen.
 

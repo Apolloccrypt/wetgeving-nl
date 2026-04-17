@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden"
 identifier: "BWBV0001813"
-categorie: "Strafrecht"
-publicatiedatum: 2006-09-01
-laatste_update: 2005-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001813"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-09-01"
+last_updated: "2005-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001813"
+soort: "verdrag"
+stam_id: "10002526173"
+version_id: "10002513632"
+internal_id: "C10006995531"
+label_id: "10002516074"
+dtd_version: "2.0"
+original_entry_into_force: "2006-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001813/2006-09-01/0"
+intitule_bron: "Trb.2005-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-07-13"
+intitule_published: "2005-04-18"
+intitule_in_force: "2006-08-11"
+intitule_status: "goed"
+original_publication: "Trb.2005-86"
+original_signed_date: "2006-07-13"
+original_published_date: "2005-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-86"
+entry_into_force_date: "2006-09-01"
+jci_1_3: "jci1.3:c:BWBV0001813&z=2006-09-01&g=2006-09-01"
+jci_1_0: "1.0:c:BWBV0001813&g=2006-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-07-13"
+entry_into_force: "2006-09-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake de grensoverschrijdende politiële samenwerking en de samenwerking in strafrechtelijke aangelegenheden
 
 Het Koninkrijk der Nederlanden
@@ -52,17 +77,17 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. VERHOUDING TOT ANDERE REGELINGEN, DOEL VAN HET VERDRAG, AUTORITEITEN
 
-#### Artikel 1. Verhouding tot andere verdragen en nationale regelingen
+##### Artikel 1. Verhouding tot andere verdragen en nationale regelingen
 
 1. Tenzij in dit Verdrag uitdrukkelijk anders is bepaald, geschiedt de samenwerking binnen de grenzen van het onderscheidenlijke nationale recht van de Verdragsluitende Staten alsmede van de internationale verplichtingen van de Verdragsluitende Staten. Hierbij zijn de optredende ambtenaren gebonden aan het recht van de onderscheidenlijke Verdragsluitende Staat op het grondgebied waarvan zij optreden.
 
 2. Dit Verdrag laat onverlet de binnenlandse informatieverplichtingen jegens de desbetreffende nationale centrale politie-instantie alsmede de procedure betreffende de internationale samenwerking op het gebied van de criminaliteitsbestrijding door nationale centrale politie-instanties, in het bijzonder in het kader van de Internationale Criminele Politieorganisatie (ICPO/Interpol).
 
-#### Artikel 2. Doel van het Verdrag
+##### Artikel 2. Doel van het Verdrag
 
 De Verdragsluitende Staten bevorderen de samenwerking op het gebied van de handhaving van de openbare orde en veiligheid alsmede op het gebied van de voorkoming en opsporing van strafbare feiten met inbegrip van de tenuitvoerlegging van strafvonnissen.
 
-#### Artikel 3. Autoriteiten, grensstreken
+##### Artikel 3. Autoriteiten, grensstreken
 
 1. Autoriteiten in de zin van dit Verdrag zijn:
 
@@ -104,7 +129,7 @@ Als grensstreek wordt daarnaast aangemerkt een trein op het traject van de grens
 
 ## TITEL II. ALGEMENE VORMEN VAN SAMENWERKING
 
-#### Artikel 4. Algemene maatregelen tot samenwerking
+##### Artikel 4. Algemene maatregelen tot samenwerking
 
 De autoriteiten van de Verdragsluitende Staten nemen in het kader van hun onderscheidenlijke bevoegdheden alle maatregelen die noodzakelijk zijn ter intensivering van hun samenwerking. Zij dragen in het bijzonder zorg voor:
 
@@ -142,11 +167,11 @@ De autoriteiten van de Verdragsluitende Staten nemen in het kader van hun onders
 
 - h. vertegenwoordigers van de andere Verdragsluitende Staat als waarnemers uit te nodigen voor deelname aan bijzondere operaties.
 
-#### Artikel 5. Samenwerking op het gebied van opleiding en bijscholing
+##### Artikel 5. Samenwerking op het gebied van opleiding en bijscholing
 
 Ter versterking van de samenwerking op het gebied van opleiding en bijscholing stellen de bevoegde instanties van de Verdragsluitende Staten leerplannen ten behoeve van opleiding en bijscholing aan elkaar ter beschikking, bieden zij aan ambtenaren van de andere Verdragsluitende Staat de mogelijkheid tot deelname aan opleidings- en bijscholingsmaatregelen en ontwikkelen zij gemeenschappelijke opleidings- en bijscholingsprogramma's. Hierbij wordt gewaarborgd dat ook specifiek voor de grensstreek geldende problemen uitgebreid aan de orde komen. De bevoegde instanties kunnen gemeenschappelijke opleidings- en bijscholingsmaatregelen met inbegrip van seminars en oefeningen organiseren. Het wederzijds informeren over de in dit opzicht relevante rechtsregels krijgt hierbij bijzondere aandacht.
 
-#### Artikel 6. Gezag over ambtenaren belast met de uitvoering van politietaken
+##### Artikel 6. Gezag over ambtenaren belast met de uitvoering van politietaken
 
 1. Bij een dringende noodzaak tot handhaving van de openbare orde en veiligheid of ter voorkoming en opsporing van strafbare feiten, kunnen ambtenaren belast met de uitvoering van politietaken van de ene Verdragsluitende Staat bij wijze van uitzondering onder het gezag van de bevoegde autoriteiten van de andere Verdragsluitende Staat worden geplaatst met het oog op de uitvoering van politietaken met inbegrip van de uitoefening van soevereine bevoegdheden.
 
@@ -156,7 +181,7 @@ Ter versterking van de samenwerking op het gebied van opleiding en bijscholing s
 
 4. De overeenkomstig het eerste lid onder gezag geplaatste ambtenaren mogen slechts onder bevel van ambtenaren van de andere Verdragsluitende Staat en doorgaans slechts in hun aanwezigheid optreden. Hierbij zijn zij aan het recht van de andere Verdragsluitende Staat gebonden. Het optreden van de onder gezag geplaatste ambtenaren valt onder de verantwoordelijkheid van de Verdragsluitende Staat onder het gezag waarvan zij zijn geplaatst.
 
-#### Artikel 7. Samenwerking op verzoek
+##### Artikel 7. Samenwerking op verzoek
 
 1. De autoriteiten van de Verdragsluitende Staten verlenen elkaar met inachtneming van het nationale recht en hun onderscheidenlijke bevoegdheden op verzoek bijstand.
 
@@ -202,7 +227,7 @@ Artikel 39, derde lid, derde volzin, van de SUO is niet van toepassing. De natio
 
 ## TITEL III. BIJZONDERE VORMEN VAN SAMENWERKING IN STRAFRECHTELIJKE AANGELEGENHEDEN
 
-#### Artikel 8. Verzoeken om veiligstelling van bewijsmateriaal in spoedeisende gevallen
+##### Artikel 8. Verzoeken om veiligstelling van bewijsmateriaal in spoedeisende gevallen
 
 1. In spoedeisende gevallen kunnen met inachtneming van het nationale recht verzoeken tot het veiligstellen van sporen en van bewijsmateriaal, inclusief het verrichten van onderzoek aan en in het lichaam, evenals tot doorzoeking en inbeslagneming worden ingediend door het Openbaar Ministerie en door de uitvoerende ambtenaren die in dergelijke gevallen naar nationaal recht bevoegd zijn tot het geven van onderzoeksbevelen. De verzoeken dienen rechtstreeks te worden gericht aan de bevoegde justitiële autoriteiten of politieautoriteiten. Voorzover verzoeken in dit kader mondeling zijn gedaan, worden deze zo spoedig mogelijk schriftelijk bevestigd.
 
@@ -214,7 +239,7 @@ Artikel 39, derde lid, derde volzin, van de SUO is niet van toepassing. De natio
 
 5. Voor de toezending van de resultaten van de uitgevoerde maatregelen aan de verzoekende Verdragsluitende Staat is een verzoek om rechtshulp vereist dat afkomstig is van de bevoegde justitiële autoriteit. Wanneer de toezending van de resultaten van de uitgevoerde maatregelen met spoed dient te geschieden, kan de aangezochte autoriteit de resultaten rechtstreeks aan de verzoekende autoriteit toezenden, voorzover zulks volgens het nationale recht toelaatbaar is. Indien de aangezochte autoriteit geen justitiële autoriteit is, is voor de overdracht van de resultaten de voorafgaande toestemming van de naar nationaal recht bevoegde justitiële autoriteiten vereist.
 
-#### Artikel 9. Verzoeken om onderzoek aan en in het lichaam
+##### Artikel 9. Verzoeken om onderzoek aan en in het lichaam
 
 1. In overeenstemming met hun nationale recht verlenen de Verdragsluitende Staten elkaar op verzoek wederzijdse rechtshulp door het verrichten van onderzoek aan en in het lichaam van de verdachte.
 
@@ -226,7 +251,7 @@ Artikel 39, derde lid, derde volzin, van de SUO is niet van toepassing. De natio
 
 - 3. de verzoekende Verdragsluitende Staat in het verzoek aangeeft of het verkregen materiaal in de verzoekende Verdragsluitende Staat aan moleculair-genetisch onderzoek onderworpen zal moeten worden.
 
-#### Artikel 10. Doorzending en vergelijking van DNA-profielen evenals van ander voor de identificatie geschikt materiaal
+##### Artikel 10. Doorzending en vergelijking van DNA-profielen evenals van ander voor de identificatie geschikt materiaal
 
 1. In het kader van een opsporingsonderzoek of strafrechtelijke procedure verlenen de bevoegde instanties van de Verdragsluitende Staten elkaar in overeenstemming met hun onderscheidenlijke nationale recht wederzijdse rechtshulp door DNA-profielen te vergelijken. De resultaten van de vergelijking worden zo spoedig mogelijk medegedeeld aan de bevoegde instanties van de verzoekende Verdragsluitende Staat. De mededeling geschiedt op een tussen de beide Verdragsluitende Staten nog vast te leggen wijze, die voldoet aan internationale normen. Wanneer verdergaande typering van het biologisch materiaal noodzakelijk geacht wordt om de biostatische bewijskracht te verhogen, zal de aangezochte Verdragsluitende Staat – voorzover mogelijk en proportioneel – bewerkstelligen dat deze verdergaande typering van het biologisch materiaal wordt uitgevoerd. De hiermee gemoeide kosten worden aan de aangezochte Verdragsluitende Staat vergoed.
 
@@ -242,7 +267,7 @@ De hiermee gemoeide kosten worden aan de aangezochte Verdragsluitende Staat verg
 
 3. Verzoeken kunnen ook door de bevoegde politieautoriteiten van beide Verdragsluitende Staten worden doorgezonden en langs dezelfde weg worden beantwoord.
 
-#### Artikel 11. Grensoverschrijdende observatie
+##### Artikel 11. Grensoverschrijdende observatie
 
 Voor grensoverschrijdende observaties geldt artikel 40 van de SUO met de volgende aanvullingen:
 
@@ -294,7 +319,7 @@ Voor grensoverschrijdende observaties geldt artikel 40 van de SUO met de volgend
 
 - 12. Het binnentreden van woningen en het betreden van niet voor het publiek toegankelijke terreinen is niet toegestaan. Publiek toegankelijke werk-, bedrijfs- en kantoorruimtes mogen tijdens de werk-, bedrijfs- en kantoortijden worden betreden.
 
-#### Artikel 12. Achtervolging
+##### Artikel 12. Achtervolging
 
 1. Voor grensoverschrijdende achtervolging geldt artikel 41 van de SUO met de volgende aanvullingen:
 
@@ -324,7 +349,7 @@ telkens voor zover het onder de territoriale bevoegdheid van de voornoemde autor
 
 Wijzigingen van deze bevoegdheden worden schriftelijk medegedeeld aan de andere Verdragsluitende Staat.
 
-#### Artikel 13. Gecontroleerde levering
+##### Artikel 13. Gecontroleerde levering
 
 1. Op verzoek kan de aangezochte Verdragsluitende Staat toestemming verlenen voor de gecontroleerde invoer naar haar grondgebied, de gecontroleerde doorvoer of de gecontroleerde uitvoer in het bijzonder bij illegale handel in verdovende middelen, wapens, springstoffen, vals geld, gestolen goederen en geheelde goederen evenals bij het witwassen van geld wanneer de verzoekende Verdragsluitende Staat verklaart dat de opsporing van de verdachten achter de schermen en andere betrokkenen bij het strafbare feit of aan het licht brengen van distributiekanalen zonder deze maatregel geen kans van slagen zou hebben of aanzienlijk bemoeilijkt zou worden. De Verdragsluitende Staten zeggen elkaar toe de levering na het beëindigen van de gecontroleerde aflevering in beslag te nemen, tegen de koeriers, achter de schermen en de afnemers onderzoek in te stellen en te streven naar de veroordeling van de daders en tenuitvoerlegging van de opgelegde straf.
 
@@ -346,7 +371,7 @@ Wijzigingen van deze bevoegdheden worden schriftelijk medegedeeld aan de andere 
 
 - –. voor de Bondsrepubliek Duitsland aan het Openbaar Ministerie in wiens rechtsgebied het vervoer begint.
 
-#### Artikel 14. Infiltratie ten behoeve van strafrechtelijke opsporing
+##### Artikel 14. Infiltratie ten behoeve van strafrechtelijke opsporing
 
 1. Op verzoek kan de aangezochte Verdragsluitende Staat toestemming verlenen voor de uitvoering van infiltratie op haar grondgebied door ambtenaren van de verzoekende Verdragsluitende Staat die volgens de wet- en regelgeving van de verzoekende Verdragsluitende Staat de status van infiltrant hebben, wanneer de verzoekende Verdragsluitende Staat aannemelijk maakt dat zonder deze maatregel de opheldering van de zaak geen kans van slagen zou hebben of aanzienlijk bemoeilijkt zou worden. De inwilliging van een verzoek waarmee toestemming wordt verleend voor infiltratie, geldt voor het gehele grondgebied van de aangezochte Verdragsluitende Staat.
 
@@ -370,13 +395,13 @@ Wijzigingen van deze bevoegdheden worden schriftelijk medegedeeld aan de andere 
 
 11. De Verdragsluitende Staten kunnen elkaar infiltranten ter beschikking stellen die in opdracht en onder het gezag van de bevoegde autoriteit van de andere Verdragsluitende Staat zullen optreden.
 
-#### Artikel 15. Informatieverstrekking bij strafrechtelijke opsporing zonder verzoek
+##### Artikel 15. Informatieverstrekking bij strafrechtelijke opsporing zonder verzoek
 
 De autoriteiten van de Verdragsluitende Staten kunnen elkaar in uitzonderlijke gevallen met inachtneming van het nationale recht zonder verzoek informatie met inbegrip van persoonsgegevens doen toekomen indien er aanwijzingen zijn dat de ontvanger deze informatie voor de opsporing van strafbare feiten nodig heeft. De ontvanger is verplicht het belang van de medegedeelde gegevens te toetsen en niet-noodzakelijke gegevens te verwijderen, te vernietigen of terug te zenden naar de instantie die deze gegevens heeft verstrekt en, indien gebleken is dat de informatie onjuist is, dit te melden aan de instantie die de informatie heeft verstrekt.
 
 ## TITEL IV. OVERIGE VORMEN VAN GRENSOVERSCHRIJDENDE SAMENWERKING
 
-#### Artikel 16. Observatie ter voorkoming van een strafbaar feit dat aanleiding kan geven tot uitlevering
+##### Artikel 16. Observatie ter voorkoming van een strafbaar feit dat aanleiding kan geven tot uitlevering
 
 1. Met inachtneming van het respectievelijk geldende nationale recht van de Verdragsluitende Staten is grensoverschrijdende observatie ter voorkoming van een strafbaar feit dat aanleiding kan geven tot uitlevering bij wijze van uitzondering toegestaan:
 
@@ -404,7 +429,7 @@ De observatie is slechts toegestaan indien een verzoek niet binnen het kader van
 
 Artikel 7, derde lid, eerste, derde en vierde volzin, zijn van overeenkomstige toepassing.
 
-#### Artikel 17. Achtervolging bij bijzondere politiecontroles
+##### Artikel 17. Achtervolging bij bijzondere politiecontroles
 
 1. Binnen het kader van het respectievelijk geldende nationale recht van de Verdragsluitende Staten is de grensoverschrijdende achtervolging toegestaan van personen die zich onttrekken aan een grenscontrole als bedoeld in artikel 2, tweede lid, van de SUO.
 
@@ -426,21 +451,21 @@ Artikel 7, derde lid, eerste, derde en vierde volzin, zijn van overeenkomstige t
 
 - –. artikel 12, tweede lid.
 
-#### Artikel 18. Infiltratie ter voorkoming van ernstige strafbare feiten die aanleiding kunnen geven tot uitlevering
+##### Artikel 18. Infiltratie ter voorkoming van ernstige strafbare feiten die aanleiding kunnen geven tot uitlevering
 
 1. Voorzover het onderscheidenlijke nationale recht dat toelaat kan infiltratie ter voorkoming van ernstige strafbare feiten die aanleiding kunnen geven tot uitlevering die opzettelijk gepleegd zijn en niet uitsluitend op verzoek kunnen worden vervolgd, worden voortgezet op het grondgebied van de andere Verdragsluitende Staat wanneer deze voor de grensoverschrijdende infiltratie toestemming heeft verleend op basis van een vooraf ingediend verzoek.
 
 2. Artikel 14, eerste tot en met zesde lid, achtste, tiende en elfde lid, en artikel 16, derde lid, zijn overeenkomstig van toepassing, met dien verstande dat de nationale centrale politie-instantie tegelijkertijd dient te worden geïnformeerd.
 
-#### Artikel 19. Vormen van gezamenlijk optreden ter handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten
+##### Artikel 19. Vormen van gezamenlijk optreden ter handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten
 
 Ter intensivering van de samenwerking kunnen de bevoegde autoriteiten van de Verdragsluitende Staten gezamenlijke patrouilles, gemeenschappelijk bemande controle-, evaluatie- en observatieteams of andere samenwerkingsvormen instellen ter handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten, waarbij ambtenaren van de zendstaat in het kader van een optreden in de gaststaat hun medewerking verlenen. Soevereine bevoegdheden mogen hierbij uitsluitend onder leiding en doorgaans in aanwezigheid van ambtenaren van de gaststaat worden uitgeoefend. Artikel 6, vierde lid, tweede en derde volzin, is van overeenkomstige toepassing.
 
-#### Artikel 20. Uitwisseling van informatie voor de handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten
+##### Artikel 20. Uitwisseling van informatie voor de handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten
 
 Met inachtneming van het onderscheidenlijke nationale recht kunnen de bevoegde autoriteiten van de Verdragsluitende Staten elkaar in afzonderlijke gevallen ook zonder verzoek informatie inclusief persoonsgegevens verstrekken, voorzover er aanwijzingen zijn dat het voor de ontvanger nodig is deze informatie te kennen voor de handhaving van de openbare orde en veiligheid of ter voorkoming van strafbare feiten. Artikel 15, tweede volzin, is van overeenkomstige toepassing.
 
-#### Artikel 21. Voorlopige grensoverschrijdende maatregelen ter afwending van een aanwezig gevaar voor gezondheid of leven
+##### Artikel 21. Voorlopige grensoverschrijdende maatregelen ter afwending van een aanwezig gevaar voor gezondheid of leven
 
 1. Ambtenaren belast met de uitvoering van politietaken van een Verdragsluitende Staat (hierna te noemen: „optredende ambtenaren") mogen in geval van een spoedeisende situatie zonder voorafgaande toestemming van de andere Verdragsluitende Staat de gemeenschappelijke grens overschrijden teneinde in het nabij de grens gelegen gebied op het grondgebied van de andere Verdragsluitende Staat met inachtneming van het nationale recht van de gaststaat voorlopige maatregelen te nemen die noodzakelijk zijn om een aanwezig gevaar voor gezondheid of leven af te wenden. Tot deze voorlopige maatregelen kan tevens de aanhouding van een persoon behoren.
 
@@ -452,7 +477,7 @@ Met inachtneming van het onderscheidenlijke nationale recht kunnen de bevoegde a
 
 5. De maatregelen van de optredende ambtenaren vallen onder de verantwoordelijkheid van de gaststaat.
 
-#### Artikel 22. Bijstandsverlening bij grootschalige evenementen, rampen en zware ongevallen
+##### Artikel 22. Bijstandsverlening bij grootschalige evenementen, rampen en zware ongevallen
 
 De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inachtneming van het desbetreffende nationale recht over en weer bijstand bij grootschalige evenementen en soortgelijke grote gebeurtenissen, rampen alsmede zware ongevallen door:
 
@@ -462,7 +487,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 - 3. op verzoek van de Verdragsluitende Staat op het grondgebied waarvan zich de situatie voordoet, voor zover mogelijk door detachering van ambtenaren, specialisten en adviseurs alsmede door het beschikbaar stellen van uitrusting, bijstand te verlenen. Voor het overige laat dit Verdrag onverlet de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen.
 
-#### Artikel 23. Inrichting van tijdelijke controleposten
+##### Artikel 23. Inrichting van tijdelijke controleposten
 
 1. Op het grondgebied van de andere Verdragsluitende Staat kan een tijdelijke controlelocatie worden ingericht voor zover:
 
@@ -484,7 +509,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 ## TITEL V. ALGEMENE BEPALINGEN BETREFFENDE DE SAMENWERKING
 
-#### Artikel 24. Gemeenschappelijk bemande centra
+##### Artikel 24. Gemeenschappelijk bemande centra
 
 1. De Verdragsluitende Staten kunnen gemeenschappelijk bemande centra voor de uitwisseling van informatie en de ondersteuning van hun autoriteiten instellen.
 
@@ -498,7 +523,7 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 6. Autoriteiten van een Verdragsluitende Staat kunnen participeren in gemeenschappelijk bemande centra die de andere Verdragsluitende Staat met een gemeenschappelijk buurland onderhoudt, indien en voor zover de andere Verdragsluitende Staat en het buurland toestemming voor een dergelijke participatie verlenen. De bijzonderheden van de samenwerking en de verdeling van de kosten worden tussen alle betrokken staten geregeld.
 
-#### Artikel 25. Inzet van luchtvaartuigen en vaartuigen
+##### Artikel 25. Inzet van luchtvaartuigen en vaartuigen
 
 1. Bij grensoverschrijdende optreden op grond van dit Verdrag mogen ook luchtvaartuigen en vaartuigen worden ingezet.
 
@@ -510,19 +535,19 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 5. Bij de inzet van vaartuigen zijn de ambtenaren in dezelfde mate ontheven van de verkeersregelingen voor de binnenscheepvaart en zeevaart als de ambtenaren van de politie van de Verdragsluitende Staat op het grondgebied waarvan zij optreden. Voor de gebruikte vaartuigen mag de aanduiding worden gebruikt voor voertuigen van betreffende controleautoriteiten. De ambtenaren zijn ook bevoegd instructies te geven – met uitzondering van nautische instructies – voorzover dit dringend noodzakelijk is voor de vervulling van de taken die in het eerste lid worden genoemd en de veiligheid van de scheepvaart en van personen hierdoor niet in het geding komt.
 
-#### Artikel 26. Bescherming van persoonsgegevens
+##### Artikel 26. Bescherming van persoonsgegevens
 
 1. De bescherming van persoonsgegevens wordt overeenkomstig de artikelen 126 tot en met 130 van de SUO en, voorzover daarin geen regelingen zijn getroffen, overeenkomstig de Overeenkomst betreffende de wederzijdse rechtshulp in strafzaken tussen de lidstaten van de Europese Unie in het toepassingsgebied van bedoelde overeenkomst gewaarborgd. Een en ander geldt tevens voor persoonsgegevens die in het kader van grensoverschrijdend optreden op het grondgebied van de andere Verdragsluitende Staat zijn verzameld. Hierbij dienen de door de aangezochte Verdragsluitende Staat aan de grensoverschrijdende maatregel gestelde bijzondere voorwaarden in acht genomen te worden.
 
 2. Aan ambtenaren die op het grondgebied van de andere Verdragsluitende Staat optreden, mag slechts onder leiding van een ambtenaar van de gaststaat toegang tot officiële persoonsgegevensbestanden van de gaststaat worden verleend.
 
-#### Artikel 27. Overpad
+##### Artikel 27. Overpad
 
 1. Voor zover zulks gelet op de verkeerssituatie noodzakelijk is, mogen de ambtenaren van een Verdragsluitende Staat voor de in artikel 2 van dit Verdrag geregelde doeleinden het grondgebied van de andere Verdragsluitende Staat betreden teneinde het eigen grondgebied via een zo kort mogelijke weg weer te bereiken. Voor zover zulks met inachtneming van het nationale recht noodzakelijk is, mag hierbij van voorrangsrechten en speciale voorrechten gebruik worden gemaakt. In de gevallen als genoemd in de tweede volzin dienen de bevoegde autoriteiten van de Verdragsluitende Staat op het grondgebied waarvan van de voorrangsrechten en speciale voorrechten gebruik wordt gemaakt, onverwijld geïnformeerd te worden.
 
 2. Ambtenaren van een Verdragsluitende Staat mogen ten behoeve van maatregelen die zij naar nationaal recht op de op het eigen grondgebied gelegen trajecten van grensoverschrijdende personentreinen of passagiersschepen uitvoeren, reeds op het grondgebied van de andere Verdragsluitende Staat aan boord gaan of na beëindiging van de maatregelen ter plaatse van boord gaan. Indien een op het eigen grondgebied met inachtneming van het nationale recht begonnen controlemaatregel, in het bijzonder de controle van een persoon of een goed, niet in het grensstreek als bedoeld in artikel 3, tweede lid, tweede volzin kan worden voltooid en indien te verwachten is dat anders het doel van de maatregel niet kan worden bereikt, mag deze op het grondgebied van de andere Verdragsluitende Staat zo lang worden voortgezet als volstrekt noodzakelijk is om de maatregel te voltooien. Voor zover overige maatregelen noodzakelijk zijn, blijven de hiervoor geldende regelingen onverlet.
 
-#### Artikel 28. Burgerrechtelijke aansprakelijkheid
+##### Artikel 28. Burgerrechtelijke aansprakelijkheid
 
 1. Indien een ambtenaar in het kader van een maatregel bedoeld in de artikelen 13 en 14 van dit Verdrag of een gemeenschappelijk opsporingsteam, bedoeld in het kaderbesluit van de Raad van de Europese Unie van 13 juni 2002 inzake de gemeenschappelijke opsporingsteams, grensoverschrijdend optreedt en daarbij schade toebrengt is de zendstaat, met inachtneming van het nationale recht van de gaststaat, aansprakelijk voor de door haar ambtenaar toegebrachte schade.
 
@@ -536,11 +561,11 @@ De bevoegde autoriteiten van de Verdragsluitende Staten verlenen elkaar met inac
 
 ## TITEL VI. REGELINGEN BETREFFENDE DE GRENSOVERSCHRIJDEND OPTREDENDE AMBTENAREN
 
-#### Artikel 29. Aanhouden
+##### Artikel 29. Aanhouden
 
 Indien een persoon op wie een maatregel als bedoeld in de artikelen 11, 13, 16 en 17 betrekking heeft, op heterdaad wordt betrapt bij het plegen van een strafbaar feit tegen de gezondheid of het leven, dat naar het recht van de Verdragsluitende Staat op het grondgebied waarvan de maatregel wordt uitgevoerd aanleiding kan geven tot uitlevering, mogen de ambtenaren die de maatregel uitvoeren en onder leiding van de aangezochte Verdragsluitende Staat optreden, die persoon aanhouden. De aangehouden persoon mag met het oog op zijn voorgeleiding aan de bevoegde autoriteit van de aangezochte Verdragsluitende Staat slechts aan een veiligheidsfouillering worden onderworpen. Tijdens de overbrenging mogen hem handboeien worden omgelegd. De door de verdachte meegevoerde voorwerpen mogen voorlopig in beslag worden genomen totdat ambtenaren van de bevoegde autoriteit van de aangezochte Verdragsluitende Staat arriveren. Als strafbaar feit als bedoeld in de eerste volzin geldt tevens deelneming aan een strafbaar feit.
 
-#### Artikel 30. Bevoegdheden en rechtspositie van grensoverschrijdende ambtenaren
+##### Artikel 30. Bevoegdheden en rechtspositie van grensoverschrijdende ambtenaren
 
 1. Ambtenaren van een Verdragsluitende Staat die zich in het kader van de samenwerking uit hoofde van dit Verdrag op het grondgebied van de andere Verdragsluitende Staat ophouden, beschikken ter plaatse niet over soevereine bevoegdheden, tenzij in dit Verdrag iets anders is bepaald. Zij zijn in het kader van alle maatregelen aan het nationale recht van de andere Verdragsluitende Staat gebonden. De bijzondere bepalingen in artikel 23 blijven onverlet.
 
@@ -548,13 +573,13 @@ Indien een persoon op wie een maatregel als bedoeld in de artikelen 11, 13, 16 e
 
 3. Indien ambtenaren van een Verdragsluitende Staat in het kader van maatregelen uit hoofde van dit Verdrag op het grondgebied van de andere Verdragsluitende Staat motorvoertuigen, vaartuigen of luchtvaartuigen inzetten, zijn zij hierbij aan dezelfde verkeersvoorschriften onderworpen als de ambtenaren van de andere Verdragsluitende Staat. Onverminderd de bepaling in artikel 27, eerste lid, tweede zin geldt zulks in het bijzonder ten aanzien van de gebruikmaking van voorrangsrechten en speciale voorrechten. De Verdragsluitende Staten informeren elkaar over de onderscheidenlijk geldende voorschriften.
 
-#### Artikel 31. Het dragen van uniformen en het meevoeren van bewapening en uitrusting
+##### Artikel 31. Het dragen van uniformen en het meevoeren van bewapening en uitrusting
 
 1. Ambtenaren van een Verdragsluitende Staat die zich in het kader van de samenwerking uit hoofde van dit Verdrag op het grondgebied van de andere Verdragsluitende Staat ophouden, kunnen ter plaatse hun nationale dienstkleding dragen. Hierbij mogen zij doorgaans de naar het onderscheidenlijke nationale recht van hun eigen staat toegestane bewapening en uitrusting met inbegrip van munitie, traangasapparatuur, spuitbussen met prikkelende stoffen, wapenstokken en diensthonden meevoeren.
 
 2. De bevoegde autoriteiten informeren elkaar over de onderscheidenlijk toegestane dienstwapens en uitrusting.
 
-#### Artikel 32. Gebruik van dienstwapens en overige middelen
+##### Artikel 32. Gebruik van dienstwapens en overige middelen
 
 1. De eigen dienstwapens en de eigen uitrusting mogen bij grensoverschrijdend optreden uit hoofde van dit Verdrag op het grondgebied van de andere Verdragsluitende Staat met inachtneming van het recht van de gaststaat worden gebruikt; artikel 29 blijft in zoverre onverlet.
 
@@ -566,35 +591,35 @@ Indien een persoon op wie een maatregel als bedoeld in de artikelen 11, 13, 16 e
 
 5. De Verdragsluitende Staten kunnen in een afzonderlijke afspraak een wijziging van bijlage II overeenkomen.
 
-#### Artikel 33. Strafrechtelijke aansprakelijkheid
+##### Artikel 33. Strafrechtelijke aansprakelijkheid
 
 De grensoverschrijdende ambtenaren die uit hoofde van dit Verdrag optreden, zijn voor wat betreft strafbare feiten die tegen hen of door hen worden begaan, gelijkgesteld met de ambtenaren van de andere Verdragsluitende Staat, tenzij in een ander Verdrag dat voor de Verdragsluitende Staten geldt, anders is overeengekomen.
 
-#### Artikel 34. Hulpverleningsclausule, arbeidsrecht
+##### Artikel 34. Hulpverleningsclausule, arbeidsrecht
 
 1. De Verdragsluitende Staten zijn jegens de grensoverschrijdende ambtenaren van de andere Verdragsluitende Staat tijdens de uitoefening van hun dienst tot dezelfde bescherming en bijstand verplicht als jegens de eigen ambtenaren.
 
 2. De ambtenaren van de andere Verdragsluitende Staat blijven arbeidsrechtelijk, in het bijzonder tuchtrechtelijk, alsmede aansprakelijkheidsrechtelijk onderworpen aan de in hun staat geldende voorschriften.
 
-#### Artikel 35. Uitzonderingsclausule
+##### Artikel 35. Uitzonderingsclausule
 
 Indien een Verdragsluitende Staat van mening is dat inwilliging van een verzoek of het uitvoeren of toelaten van een maatregel uit hoofde van dit Verdrag ertoe kan leiden dat de eigen soevereine rechten worden aangetast, de eigen veiligheid of andere wezenlijke belangen gevaar lopen of inbreuk op het nationale recht wordt gemaakt, kan deze de samenwerking met inachtneming van overige internationale samenwerkingsverplichtingen geheel of gedeeltelijk weigeren of hieraan bepaalde voorwaarden stellen.
 
 ## TITEL VII. UITVOERINGS- EN SLOTBEPALINGEN
 
-#### Artikel 36. Afspraken betreffende de uitvoering
+##### Artikel 36. Afspraken betreffende de uitvoering
 
 De bevoegde instanties van de Verdragsluitende Staten kunnen op grond en in het kader van dit Verdrag afspraken maken die de beheersmatige uitvoering ten doel hebben.
 
-#### Artikel 37. Controle
+##### Artikel 37. Controle
 
 Op verzoek van een Verdragsluitende Staat controleert een gemeenschappelijke werkgroep bestaande uit vertegenwoordigers van de Verdragsluitende Staten de uitvoering van dit Verdrag en bepaalt deze of er behoefte aan aanvullingen of actualiseringen bestaat.
 
-#### Artikel 38. Kosten
+##### Artikel 38. Kosten
 
 Iedere Verdragsluitende Staat draagt de kosten ontstaan op grond van de toepassing van dit Verdrag, tenzij de bevoegde autoriteiten in afzonderlijke gevallen anders overeenkomen. Artikel 9 van de op 7 juni 1988 te Bonn tot stand gekomen Overeenkomst tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake wederzijdse bijstandsverlening bij het bestrijden van rampen, zware ongevallen daaronder begrepen, blijft onverlet.
 
-#### Artikel 39. Medegelding voor de douaneadministratie
+##### Artikel 39. Medegelding voor de douaneadministratie
 
 1. Voor zover autoriteiten van de in artikel 4, onder 7, van de Napels II-overeenkomst bedoelde douaneadministraties van de Verdragsluitende Staten zijn belast met de uitoefening van:
 
@@ -666,7 +691,7 @@ behoudens voor zover bijlage I bij dit Verdrag met betrekking tot het Koninkrijk
 
 4. Voor zover ambtenaren van de douaneadministraties van de Verdragsluitende Staten maatregelen ter uitvoering van het communautair douanewetboek ([Verordening (EEG) Nr. 2913/92](31992R2913)) toepassen, zijn artikel 27, eerste lid en artikel 28, vijfde lid van overeenkomstige toepassing.
 
-#### Artikel 40. Inwerkingtreding, opzegging
+##### Artikel 40. Inwerkingtreding, opzegging
 
 1. Dit Verdrag dient te worden bekrachtigd. De akten van bekrachtiging worden zo spoedig mogelijk uitgewisseld. Het Verdrag treedt op de eerste dag van de tweede maand na uitwisseling van de akten van bekrachtiging in werking. Met de inwerkingtreding van het Verdrag treedt de overeenkomst van 17 april 1996 tussen de minister van Binnenlandse Zaken alsmede de minister van Justitie van Nederland en het Ministerie van Binnenlandse Zaken van de Bondsrepubliek Duitsland inzake de politiële samenwerking in het grensgebied tussen Nederland en de Bondsrepubliek Duitsland buiten werking.
 

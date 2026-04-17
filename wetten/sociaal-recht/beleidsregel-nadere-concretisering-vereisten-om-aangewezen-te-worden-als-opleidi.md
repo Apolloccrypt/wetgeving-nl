@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel nadere concretisering vereisten om aangewezen te worden als opleidingsinstelling als bedoeld in het Besluit gezondheidszorgpsycholoog"
+title: "Beleidsregel Minister van Volksgezondheid, Welzijn en Sport van 4 december 2025, kenmerk 4292751-1091287-MEVA, omtrent de nadere concretisering van de vereisten die gelden om aangewezen te worden als opleidingsinstelling als bedoeld in het Besluit gezondheidszorgpsycholoog"
 identifier: "BWBR0051950"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-13
-laatste_update: 2025-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051950"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-12-13"
+last_updated: "2025-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051950"
+soort: "beleidsregel"
+stam_id: "17675813"
+version_id: "31181852"
+internal_id: "C44610371"
+label_id: "17575044"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051950/2025-12-13/0"
+intitule_bron: "Stcrt.2025-42681"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-04"
+intitule_published: "2025-12-12"
+intitule_in_force: "2025-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-42681"
+original_signed_date: "2025-12-04"
+original_published_date: "2025-12-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-42681"
+entry_into_force_date: "2025-12-13"
+jci_1_3: "jci1.3:c:BWBR0051950&z=2025-12-13&g=2025-12-13"
+jci_1_0: "1.0:c:BWBR0051950&g=2025-12-13"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel nadere concretisering vereisten om aangewezen te worden als opleidingsinstelling als bedoeld in het Besluit gezondheidszorgpsycholoog"
+signed_date: "2025-12-04"
+entry_into_force: "2025-12-13"
 ---
-
 # Beleidsregel Minister van Volksgezondheid, Welzijn en Sport van 4 december 2025, kenmerk 4292751-1091287-MEVA, omtrent de nadere concretisering van de vereisten die gelden om aangewezen te worden als opleidingsinstelling als bedoeld in het Besluit gezondheidszorgpsycholoog
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artike
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - d. **POI:** praktijkopleidingsinstelling.
 
-#### Artikel 2. Supervisiesessies
+##### Artikel 2. Supervisiesessies
 
 1. De supervisiesessies, bedoeld in [artikel 4, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=4), worden gegeven door een externe supervisor en vindt buiten de directe werkstroom plaats.
 
@@ -42,7 +68,7 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Supervisie staat los van werkplekbegeleiding en praktijkbegeleiding, als bedoeld in [artikel 7, onderdeel d, onder 2°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7).
 
-#### Artikel 3. Evenwichtige verhouding opleiding en werkervaring
+##### Artikel 3. Evenwichtige verhouding opleiding en werkervaring
 
 1. Het bepaalde, in [artikel 7, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7), houdt in dat de opleiding tot gezondheidszorgpsycholoog een geïntegreerde leerervaring biedt, waarin theoretisch en praktisch onderwijs en werkervaring samenhangen en elkaar versterken.
 
@@ -54,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - c. de gezamenlijke studie- en werkbelasting zodanig is ingericht dat voldoende ruimte blijft voor reflectie, verwerking van leerstof en uitvoering van praktijkopdrachten, zonder dat sprake is van overbelasting.
 
-#### Artikel 4. Zorg voor kwaliteit van de opleiding
+##### Artikel 4. Zorg voor kwaliteit van de opleiding
 
 1. Het bepaalde in [artikel 7, onderdeel c, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7), houdt in dat de zorg voor de kwaliteit van de opleiding leidt tot cursorisch onderwijs, praktijkonderwijs en werkervaring van voldoende kwaliteit.
 
@@ -76,7 +102,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. Onder onafhankelijke deskundigen wordt verstaan dat deze deskundigen geen directe betrokkenheid hebben bij de te beoordelen opleiding en beschikken over aantoonbare relevante vakinhoudelijke kennis, ervaring en scholing.
 
-#### Artikel 5. Bewaken inhoudelijke en didactische deskundigheid docenten
+##### Artikel 5. Bewaken inhoudelijke en didactische deskundigheid docenten
 
 1. Het bepaalde in [artikel 7, onderdeel d, onder 1°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7), houdt in dat docenten beschikken over actuele relevante (vakinhoudelijke) kennis.
 
@@ -90,7 +116,7 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Het bevorderen van inhoudelijke en didactische deskundigheid van het docententeam kan geschieden door het volgen van bij- en nascholing.
 
-#### Artikel 6. Zorg voor begeleiding praktisch onderwijs en werkervaring
+##### Artikel 6. Zorg voor begeleiding praktisch onderwijs en werkervaring
 
 1. Met het zorg dragen voor voldoende deskundige begeleiding bij het praktisch onderwijs en het opdoen van de vereiste werkervaring, bedoeld in [artikel 7, onderdeel d, onder 2°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7) wordt bedoeld dat de OI zorgt voor de begeleiding. Dit gebeurt door erop toe te zien dat de POI werkbegeleiders, praktijkbegeleiders en supervisoren inzet die voldoen aan de eisen op het gebied van deskundige begeleiding en aan de vereiste werkervaring gestelde kwaliteitscriteria. Daarbij borgt de OI ook continu voldoende beschikbaarheid en geschiktheid van de begeleiding. De OI zorgt voor een structurele en adequate beschikbaarheid van begeleiders, waarbij rekening wordt gehouden met een toereikende inzet die aansluit bij de leerbehoeften en opleidingsfase van alle opleidelingen. Begeleiders beschikken over voldoende tijd en capaciteit om de begeleiding kwalitatief verantwoord uit te voeren, met een evenwichtige spreiding van het aantal opleidelingen per begeleider.
 
@@ -102,13 +128,13 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Werkplekbegeleiding en praktijkbegeleiding staan los van supervisie als bedoeld in [artikel 4, eerste lid, onderdeel b, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=4).
 
-#### Artikel 7. Zorg voor een deugdelijke beoordeling, toetsing en examinering
+##### Artikel 7. Zorg voor een deugdelijke beoordeling, toetsing en examinering
 
 1. De zorg voor een deugdelijke wijze van beoordeling, toetsing en examinering als bedoeld in [artikel 7, onderdeel d, onder 3°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7) houdt in dat beoordeling, toetsing en examinering transparant, objectief, betrouwbaar, valide en onafhankelijk zijn. De eisen zijn helder voor de opleidelingen.
 
 2. De kwaliteit van de examinering wordt voldoende gewaarborgd en de beoordeling, toetsing en examinering van de studenten zijn deugdelijk. De toetsen ondersteunen het eigen leerproces van de opleideling.
 
-#### Artikel 8. Zorg voor een veilig leer- en werkklimaat
+##### Artikel 8. Zorg voor een veilig leer- en werkklimaat
 
 1. Een veilig leerklimaat, bedoeld in [artikel 7, onderdeel d, onder 4°, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=7), houdt in dat de leeromgeving van het cursorisch onderwijs, de leeromgeving van het praktijkonderwijs en de werkervaringsomgeving de opleideling voldoende in staat stelt om zich te ontwikkelen, kennis en vaardigheden te verwerven, kritisch te reflecteren te leren, vragen te stellen, fouten te maken en zich professioneel te ontwikkelen.
 
@@ -116,7 +142,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. De rollen van begeleiders, waaronder ook supervisoren, beoordelaars en de werkgever zijn functioneel gescheiden en er bestaat een duidelijke scheiding tussen OI en werkgever.
 
-#### Artikel 9. Aanwijzen hoofdopleider
+##### Artikel 9. Aanwijzen hoofdopleider
 
 1. De verantwoordelijk voor de opleiding van een persoon die tot de opleiding is toegelaten, als bedoeld in [artikel 10, eerste lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0009467&artikel=10) omvat het gebruik van IOP’s. De hoofdopleider is verantwoordelijk voor het toezien op de kwaliteit en de uitvoering van de persoonlijke leerdoelen zoals vastgelegd in de IOP’s, en draagt zorg voor een effectieve begeleiding van de persoon die tot de opleiding is toegelaten.
 
@@ -126,7 +152,7 @@ In deze beleidsregel wordt verstaan onder:
 
 4. In het kader van didactische expertise wordt van de hoofdopleider verwacht dat deze aantoonbaar bekwaam is in het ontwerpen, verzorgen, begeleiden en evalueren van onderwijs op universitair post-master niveau en draagt bij aan de doorlopende kwaliteitszorg van het curriculum.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

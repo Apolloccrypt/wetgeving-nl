@@ -1,13 +1,38 @@
 ---
 title: "Notawisselingen tussen de regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de regering van de Verenigde Staten van Amerika, anderzijds, houdende een verdrag inzake de toepassing van non-proliferatie-waarborgen op aan Taiwan geleverd licht verrijkt uranium"
 identifier: "BWBV0001430"
-categorie: "Internationaal recht"
-publicatiedatum: 2000-05-01
-laatste_update: 2000-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001430"
+country: "nl"
+rank: "verdrag"
+publication_date: "2000-05-01"
+last_updated: "2000-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001430"
+soort: "verdrag"
+stam_id: "10001424413"
+version_id: "10001503352"
+internal_id: "C10006992201"
+label_id: "10001425374"
+dtd_version: "2.0"
+original_entry_into_force: "2000-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001430/2000-05-01/0"
+intitule_bron: "Trb.1999-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-03-31"
+intitule_published: "1999-09-29"
+intitule_in_force: "2000-05-19"
+intitule_status: "goed"
+original_publication: "Trb.1999-170"
+original_signed_date: "2000-03-31"
+original_published_date: "1999-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-170"
+entry_into_force_date: "2000-05-01"
+jci_1_3: "jci1.3:c:BWBV0001430&z=2000-05-01&g=2000-05-01"
+jci_1_0: "1.0:c:BWBV0001430&g=2000-05-01"
+citeertitel_status: "redactioneel"
+signed_date: "2000-03-31"
+entry_into_force: "2000-05-01"
 ---
-
 # Notawisselingen tussen de regeringen van het Koninkrijk der Nederlanden, de Bondsrepubliek Duitsland en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, enerzijds, en de regering van de Verenigde Staten van Amerika, anderzijds, houdende een verdrag inzake de toepassing van non-proliferatie-waarborgen op aan Taiwan geleverd licht verrijkt uranium
 
 Erkennend dat de Regeringen van de Bondsrepubliek Duitsland, het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland (hierna te noemen de Troika) en de Regering van de Verenigde Staten van Amerika (hierna te noemen de Verenigde Staten) de gemeenschappelijke wens koesteren ervoor te zorgen dat laagverrijkt uraan dat naar Taiwan wordt overgebracht voor gebruik in vreedzame kernenergie-activiteiten en eventueel bijzonder nucleair materiaal dat daaruit wordt vervaardigd niet wordt gebruikt voor het vervaardigen of anderszins verwerven van kernwapens of andere nucleaire explosiemiddelen;
@@ -20,57 +45,57 @@ Erkennend dat ingevolge artikel 8, eerste lid, onder C, alinea i, van de VS-Eura
 
 Opdat de Troika laagverrijkt uraan aan Taiwan beschikbaar kan stellen voor gebruik in programma's voor lichtwater-kernreactoren in Taiwan, zijn de volgende bepalingen van kracht:
 
-#### 1
+##### 1
 
 Voorafgaand aan de overdracht van laagverrijkt uraan van de Troika-landen naar de Verenigde Staten voor heroverdracht naar Taiwan, werkt de Troika met Euratom samen teneinde aan de Verenigde Staten mede te delen dat dat laagverrijkt uraan is bedoeld voor verwerking tot brandstof en heroverdracht naar Taiwan voor gebruik in lichtwater-kernreactoren.
 
 Laagverrijkt uraan dat onderwerp is van deze mededeling en dat van het grondgebied van de Verenigde Staten naar Taiwan is herovergedragen wordt in dit Verdrag „Troika-uraan" genoemd.
 
-#### 2
+##### 2
 
 „Troika-uraan" bestaat uit laagverrijkt uraan als gedefinieerd in artikel 21, zevende lid, van de VS-Euratom-overeenkomst.
 
-#### 3
+##### 3
 
 Op het moment van overdracht van laagverrijkt uraan van de Troika-landen naar het grondgebied van de Verenigde Staten voor heroverdracht naar Taiwan, werkt de Troika met Euratom samen teneinde overeenkomstig paragraaf 4 van het proces-verbaal van overeenkomst bij de VS-Euratom-overeenkomst goedkeuring te verkrijgen voor de heroverdracht van het laagverrijkt uraan van het grondgebied van de Verenigde Staten naar Taiwan.
 
-#### 4
+##### 4
 
 De Verenigde Staten zorgen ervoor dat „Troika-uraan" en bijzonder nucleair materiaal dat daaruit wordt vervaardigd, wanneer het in Taiwan is, is onderworpen aan alle bepalingen van de „Agreement for Cooperation Between the United States of America and the Republic of China Concerning Civil Uses of Atomic Energy", ondertekend op 4 april 1972, als gewijzigd en verlengd (hierna te noemen het Verdrag van 1972), zolang het Verdrag van 1972 van kracht is of, ingeval het Verdrag van 1972 wordt vervangen, aan de bepalingen van enig opvolgend verdrag, zolang dat opvolgende verdrag van kracht is. De Verenigde Staten zullen onder andere met de Troika overleggen over de wijziging, vervanging, opschorting of beëindiging van het Verdrag van 1972 of enig opvolgend verdrag.
 
-#### 5
+##### 5
 
 Met uitzondering van het bepaalde in paragraaf 9 zorgen de Verenigde Staten ervoor dat „Troika-uraan" en bijzonder nucleair materiaal dat daaruit wordt vervaardigd, wanneer het in Taiwan is, is onderworpen aan de „Safeguards Transfer Agreement" ondertekend op 6 december 1971, krachtens welke overeenkomst de Internationale Organisatie voor Atoomenergie veiligheidscontroles toepast in Taiwan (weergegeven in het IAEA-document INFCIRC/158 van 8 maart 1972 en hierna te noemen de Veiligheidscontrole-overeenkomst), zolang de veiligheidscontro- le-overeenkomst van kracht is, en wanneer de Veiligheidscontroleovereenkomst wordt vervangen, aan de bepalingen van een opvolgende overeenkomst, zolang die opvolgende overeenkomst van kracht is. De Verenigde Staten treden onder andere met de Troika in overleg over de wijziging, vervanging, opschorting of beëindiging van de Veiligheidscontroleovereenkomst of enige opvolgende overeenkomst.
 
-#### 6
+##### 6
 
 Voor elke overdracht van Troika-uraan van het grondgebied van de Verenigde Staten naar Taiwan waarvan mededeling is gedaan ingevolge paragraaf 1, wordt dat uraan door de Verenigde Staten, via daartoe geëigende kanalen, ten behoeve van Taiwan aangemerkt als „Troika-uraan".
 
-#### 7
+##### 7
 
 De Verenigde Staten verlenen alleen toestemming voor de heroverdracht vanuit Taiwan van „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd, naar Euratom-landen of derden die door Euratom, in overeenstemming met artikel 8, eerste lid, onder C van de VS-Euratom-overeenkomst en paragraaf 4 van het proces-verbaal van overeenkomst bij de VS-Euratom-overeenkomst, zijn aangemerkt als aanvaardbaar krachtens de VS-Euratom-overeenkomst. Deze verplichting is slechts van toepassing wanneer aan de Verenigde Staten bekend is gemaakt dat er sprake is van „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd.
 
-#### 8
+##### 8
 
 Ingeval de Verenigde Staten om toestemming worden gevraagd voor de terugwinning of verrijking tot twintig procent of meer in de isotoop U-235 van „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd in Taiwan, treden de Verenigde Staten in overleg met de Troika onder andere met het doel tot overeenstemming te komen vóór het uitoefenen van enigerlei rechten die de Verenigde Staten hebben om verrijking of terugwinning goed te keuren. Deze verplichting is slechts van toepassing wanneer aan de Verenigde Staten bekend is gemaakt dat er sprake is van „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd.
 
-#### 9
+##### 9
 
 Indien de Internationale Organisatie voor Atoomenergie om enige reden of op enig moment de veiligheidscontroles uit hoofde van de Veiligheidscontrole-overeenkomst of (in geval van vervanging van die overeenkomst) uit hoofde van de bepalingen van een opvolgende overeenkomst niet uitvoert, treden de Verenigde Staten in overleg met de Troika onder andere om tot overeenstemming te komen over de toepassing van noodveiligheidscontroles op „Troika-uraan" en bijzonder nucleair materiaal dat daaruit wordt vervaardigd. Noodveiligheidscontroles kunnen onder meer inhouden het door de Verenigde Staten inroepen van krachtens het Verdrag van 1972 bestaande rechten met het oogmerk ervoor te zorgen dat de in het Verdrag van 1972 genoemde veiligheidscontroles worden uitgevoerd op „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd.
 
-#### 10
+##### 10
 
 Indien de Verenigde Staten, na overleg met de Troika, hun rechten uit hoofde van het Verdrag van 1972 uitoefenen om de terugzending vanuit Taiwan te verlangen van aan dat Verdrag onderworpen materiaal, wordt „Troika-uraan", of bijzonder nucleair materiaal dat daaruit wordt vervaardigd, dat naar de Verenigde Staten wordt teruggezonden onderworpen aan de VS-Euratom-overeenkomst.
 
-#### 11
+##### 11
 
 Ingeval de Verenigde Staten van mening zijn dat het noodzakelijk is hun rechten om noodveiligheidscontroles uit te voeren overeenkomstig paragraaf 9, of hun rechten om terugzending te verlangen overeenkomstig paragraaf 10, uit te oefenen, zorgt de Troika ervoor dat alle noodzakelijk stappen worden genomen om van Urenco te eisen dat zij de kosten van het uitoefenen van deze rechten met betrekking tot „Troika-uraan" of bijzonder nucleair materiaal dat daaruit wordt vervaardigd met de Verenigde Staten deelt, naar evenredigheid op basis van de relatieve waarde van de bestanddelen voor verrijking en vervaardiging van de geleverde nucleaire brandstof.
 
-#### 12
+##### 12
 
 De Verenigde Staten houden een lijst bij van „Troika-uraan" in Taiwan en, op basis van via geëigende kanalen uit Taiwan ontvangen informatie, van bijzonder nucleair materiaal in Taiwan dat daaruit is vervaardigd. De Verenigde Staten verstrekken deze lijst jaarlijks aan de Troika.
 
-#### 13
+##### 13
 
 De Verenigde Staten treden, voor zover volgens de wetgeving van de Verenigde Staten toegestaan, onder andere met de Troika in overleg indien zij reden hebben aan te nemen:
 
@@ -80,21 +105,21 @@ De Verenigde Staten treden, voor zover volgens de wetgeving van de Verenigde Sta
 
 In geval van i. of ii. trachten de Verenigde Staten en de Troika tot overeenstemming te komen over maatregelen die de Verenigde Staten en/of de Troika zullen nemen om het probleem op te lossen.
 
-#### 14
+##### 14
 
 De Troika en de Verenigde Staten treden op verzoek van een van de Partijen op ongeacht welk moment in overleg om de doeltreffende uitvoering van dit Verdrag te waarborgen. Dergelijk overleg kan plaatsvinden in de vorm van een uitwisseling van correspondentie.
 
-#### 15
+##### 15
 
 De Troika en de Verenigde Staten trachten enig geschil inzake de uitlegging of toepassing van dit Verdrag te regelen door middel van onderhandelingen, onderzoek, bemiddeling, conciliatie, arbitrage, gerechtelijke beslechting of andere door partijen overeen te komen vreedzame middelen.
 
-#### 16
+##### 16
 
 De Verenigde Staten bevestigen dat „Troika-uraan" en bijzondere splijtstoffen die daaruit worden vervaardigd, overeenkomstig een brief met toezeggingen van de „Ambassade van de Republiek China" aan het Ministerie van Energie van de Verenigde Staten van 26 oktober 1978, zijn onderworpen aan de maatregelen van fysieke bescherming overeenkomstig de criteria die zijn genoemd in Bijlage C van de „Guidelines for Nuclear Transfers" als bekendgemaakt door de Internationale Organisatie voor Atoomenergie in het Aanhangsel bij INFCIRC/254/Herz.3/Deel 1.
 
 De Troika en de Verenigde Staten treden op verzoek van een van beide in overleg over aangelegenheden betreffende fysieke bescherming, met inbegrip van de toepassing voor de in de vorige paragraaf genoemde doeleinden van de aanbevelingen die van tijd tot tijd kunnen worden gedaan door internationale deskundigengroepen.
 
-#### 17
+##### 17
 
 Niettegenstaande de opschorting of beëindiging van dit Verdrag blijven de paragrafen 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 en 16 van kracht:
 
@@ -112,57 +137,57 @@ in Anerkenntnis der Tatsache, daß nach Artikel 8 Absatz 1 Buchstabe (C) Ziffer 
 
 gilt für die Zurverfügungstellung von schwach angereichertem Uran durch die Troika an Taiwan zur Verwendung im Rahmen der Leichtwasser-Kernreaktorprogramme in Taiwan folgendes:
 
-#### 1
+##### 1
 
 Vor der Lieferung schwach angereicherten Urans aus den Troika-Ländern an die Vereinigten Staaten für die Weitergabe an Taiwan arbeitet die Troika mit EURATOM zusammen, um den Vereinigten Staaten mitzuteilen, daß dieses schwach angereicherte Uran zur Herstellung von Brennelementen und zur Weitergabe an Taiwan für die Verwendung in Leichtwasser-Kernreaktoren in Taiwan dient.
 
 Schwach angereichertes Uran, das Gegenstand einer solchen Mitteilung war und vom Hoheitsgebiet der Vereinigten Staaten an Taiwan weitergegeben worden ist, wird in dieser Vereinbarung als »Troika-Uran« bezeichnet.
 
-#### 2
+##### 2
 
 »Troika-Uran« besteht aus schwach angereichertem Uran im Sinne des Artikels 21 Absatz 7 des US-EURATOM-Abkommens.
 
-#### 3
+##### 3
 
 Zum Zeitpunkt der Lieferung des für die Weitergabe an Taiwan bestimmten schwach angereicherten Urans aus den Troika-Ländern in das Hoheitsgebiet der Vereinigten Staaten arbeitet die Troika mit EURATOM in Übereinstimmung mit Absatz 4 der Vereinbarten Niederschrift zum US-EURATOM-Abkommen zusammen, um die Genehmigung zur Wietergabe des schwach angereicherten Urans vom Hoheitsgebiet der Vereinigten Staaten an Taiwan zu erhalten.
 
-#### 4
+##### 4
 
 Die Vereinigten Staaten stellen sicher, daß das Abkommen zwischen den Vereinigten Staaten von Amerika und der Republik China über Zusammenarbeit bei der zivilen Nutzung der Kernenergie vom 4. April 1972 in der geänderten und erweiterten Fassung (im folgenden als Abkommen von 1972 bezeichnet), solange das Abkommen von 1972 in Kraft ist, oder, falls das Abkommen von 1972 durch ein anderes abgelöst wird, das betreffende Nachfolgeabkommen, solange dieses in Kraft ist, auf das »Troika-Uran« und das daraus erzeugte besondere Kernmaterial, solange sie sich in Taiwan befinden, Anwendung findet. Die Vereinigten Staaten konsultieren unter anderem die Troika hinsichtlich der Änderung, Ablösung, Suspendierung oder Beendigung des Abkommens von 1972 oder eines Nachfolgeabkommens.
 
-#### 5
+##### 5
 
 Sofern in Absatz 9 nichts anderes vorgesehen ist, stellen die Vereinigten Staaten sicher, daß das Safeguards Transfer Agreement vom 6. Dezember 1971, aufgrund dessen die International Atomenergie-Organisation Sicherungsmaßnahmen in Taiwan anwendet (die Übereinkunft liegt vor als IAEO-Dokument INFCIRC 158 vom 8. März 1972 und wird im folgenden als Sicherungsübereinkunft bezeichnet), solange die Sicherungsübereinkunft in Kraft ist, oder, falls die Sicherungsübereinkunft abgelöst wird, ein Nachfolgeabkommen, solange dieses in Kraft ist, auf das »Troika-Uran« und das daraus erzeugte besondere Kernmaterial, solange sie sich in Taiwan befinden, Anwendung findet. Die Vereinigten Staaten konsultieren unter anderem die Troika hinsichtlich der Änderung, Ablösung, Suspendierung oder Beendigung der Sicherungsübereinkunft oder einer Folgeübereinkunft.
 
-#### 6
+##### 6
 
 Bei jeder nach Nummer 1 mitgeteilten Weitergabe von »Troika-Uran« vom Hoheitsgebiet der Vereinigten Staaten an Taiwan teilen die Vereinigten Staaten Taiwan auf geeignetem Wege mit, daß es sich bei diesem Uran um »Troika-Uran« handelt.
 
-#### 7
+##### 7
 
 Die Vereinigten Staaten genehmigen den Retransfer von »Troika-Uran« oder daraus erzeugtem besonderen Kernmaterial von Taiwan nur an EURATOM oder an Dritte, die von EURATOM nach Artikel 8 Absatz 1 Buchstabe (C) des US-EURATOM-Abkommens und Absatz 4 der Vereinbarten Niederschrift zum US-EURATOM-Abkommen als akzeptabel im Rahmen des US-EURATOM-Abkommens angegeben sind. Diese Verpflichtung gilt nur, wenn die Vereinigten Staaten davon Kenntnis gesetzt worden sind, daß es sich um »Troika-Uran« oder daraus erzeugtes besonderes Kernmaterial handelt.
 
-#### 8
+##### 8
 
 Werden die Vereinigten Staaten um Zustimmung zur Wiederaufarbeitung des »Troika-Urans« oder des daraus erzeugten besonderen Kernmaterials oder zu dessen Anreicherung auf zwanzig Prozent oder mehr mit dem Isotop U-235 in Taiwan ersucht, so konsultieren die Vereinigten Staaten unter anderem die Troika, um Einvernehmen zu erzielen, bevor sie ihr Recht, die Anreicherung oder Wiederaufarbeitung zu genehmigen, wahrnehmen. Diese Verpflichtung gilt nur, wenn die Vereinigten Staaten davon in Kenntnis gesetzt worden sind, daß es sich um »Troika-Uran« oder daraus erzeugtes besonderes Kernmaterial handelt.
 
-#### 9
+##### 9
 
 Wendet die Internationale Atomenergie-Organisation aus irgendeinem Grund oder zu irgendeinem Zeitpunkt keine Sicherungsmaßnahmen nach der Sicherungsübereinkunft oder (sofern diese Übereinkunft abgelöst worden ist) nach einer Folgeübereinkunft an, so konsultieren die Vereinigten Staaten unter anderem die Troika, um Einvernehmen über die Anwendung von Rückgriffsicherungsmaßnahmen (fallback safeguards) auf das »Troika-Uran« und das daraus erzeugte besondere Kernmaterial zu erzielen. Zu diesen Rückgriffsicherungsmaßnahmen kann es gehören, daß die Vereinigten Staaten sich auf das ihnen aufgrund des Abkommens von 1972 zustehende Recht berufen, um sicherzustellen, daß die in dem Abkommen von 1972 vorgesehen Sicherungsmaßnahmen auf das »Troika-Uran« oder das daraus erzeugte besondere Kernmaterial angewandt werden.
 
-#### 10
+##### 10
 
 Nehmen die Vereinigten Staaten nach Konsultationen mit der Troika ihr Recht aufgrund des Abkommens von 1972 wahr, die Rückgabe von Material, das diesem Abkommen unterliegt, von Taiwan zu verlangen, so unterliegt das »Troika-Uran« oder das daraus erzeugte besondere Kernmaterial, das an die Vereinigten Staaten zurückgegeben wird, dem US-EURATOM-Abkommen.
 
-#### 11
+##### 11
 
 Erachten es die Vereinigten Staaten für notwendig, ihr Recht auf Anwendung von Rückgriffsicherungsmaßnahmen nach Nummer 9 oder ihr Recht auf Rückgabe nach Nummer 10 auszuüben, so stellt die Troika sicher, daß alle erforderlichen Schritte unternommen werden, um von URENCO zu verlangen, daß sich URENCO die Kosten der Ausübung dieser Rechte, soweit sie sich auf das »Troika-Uran« oder das daraus erzeugte besondere Kernmaterial beziehen, anteilig entsprechend dem relativen Wert der Anreicherungs- und Herstellungsanteile des gelieferten Kernbrennstoffs mit den Vereinigten Staaten teilt.
 
-#### 12
+##### 12
 
 Die Vereinigten Staaten führen ein Inventarverzeichnis, in dem das in Taiwan befindliche »Troika-Uran« sowie – auf der Grundlage von Informationen, die auf geeignetem Wege aus Taiwan übermittelt werden – das daraus erzeugte besondere Kernmaterial in Taiwan aufgeführt sind. Dieses Inventarverzeichnis stellen die Vereinigten Staaten der Troika jährlich zur Verfügung.
 
-#### 13
+##### 13
 
 Soweit nach amerikansichem Recht zulässig, konsultieren die Vereinigten Staaten unter anderem die Troika, wenn sie Grund zu der Annahme haben,
 
@@ -172,21 +197,21 @@ Soweit nach amerikansichem Recht zulässig, konsultieren die Vereinigten Staaten
 
 Trifft Ziffer i) oder Ziffer ii) zu, so bemühen sich die Vereinigten Staaten und die Troika darum, Einvernehmen über Maßnahmen zu erzielen, welche die Vereinigten Staaten und/oder die Troika zur Bereinigung des Problems ergreifen.
 
-#### 14
+##### 14
 
 Auf Ersuchen einer der Vertragsparteien konsultieren die Troika und die Vereinigten Staaten einander jederzeit, um die wirkzame Durchfürung dieser Vereinbarung zu gewährleisten. Derartige Konsultationen können in Form eines Schriftwechsels erfolgen.
 
-#### 15
+##### 15
 
 Die Troika und die Vereinigten Staaten bemühen sich, Streitigkeiten über die Auslegung oder Anwendung dieser Vereinbarung auf dem Verhandlungsweg, durch Untersuchung, Vermittlung, Schlichtung, durch ein Schiedsverfahren, eine gerichtliche Erledigung oder auf andere von ihnen zu vereinbarende gütliche Weise beizulegen.
 
-#### 16
+##### 16
 
 Die Vereinigten Staaten bestätigen, daß nach dem Zusicherungsschreiben der »Botschaft der Republik China« vom 26. Oktober 1978 an das Energieministerium der Vereinigten Staaten »Troika-Uran« und daraus erzeugtes besonderes spaltbares Material Maßnahmen des physischen Schutzes entsprechend den Kriterien der Anlage C der Guidelines for Nuclear Transfers unterliegen, die von der Internationalen Atomenergie-Organisation im Anhang zum Dokument INFCIRC 254/Rev.3/Teil 1 bekanntgemacht wurden.
 
 Die Troika und die Vereinigten Staaten konsultieren einander auf gegenseitiges Ersuchen bezüglich Fragen des physischen Schutzes einschließlich der Anwendung der von internationalen Sachverständigengruppen gegebenenfalls von Zeit zu Zeit ausgesprochenen Empfehlungen im Sinne des vorstehenden Absatzes.
 
-#### 17
+##### 17
 
 Ungeachtet der Suspendierung oder Beendigung dieser Vereinbarung bleiben die Nummern 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 und 16 in Kraft,
 
@@ -204,57 +229,57 @@ Recognising that under Article 8.1. (C) (i) of the US-EURATOM Agreement retransf
 
 In order for the Troika to make low enriched uranium available to Taiwan for use in light water nuclear reactor programmes in Taiwan:
 
-#### 1
+##### 1
 
 Prior to the transfer of low enriched uranium from the Troika countries to the United States for retransfer to Taiwan, the Troika shall collaborate with EURATOM in order to notify the United States that such low enriched uranium is intended for fabrication into fuel and retransfer to Taiwan for use in light water nuclear reactors in Taiwan.
 
 Low enriched uranium that has been the subject of this notification and has been retransferred from the territory of the United States to Taiwan is referred to in this Agreement as “Troika uranium".
 
-#### 2
+##### 2
 
 “Troika uranium" will consist of low enriched uranium as defined in Article 21.7 of the US-EURATOM Agreement.
 
-#### 3
+##### 3
 
 At the time of transfer of low enriched uranium from the Troika countries to the territory of the United States for retransfer to Taiwan, the Troika shall collaborate with EURATOM in accordance with paragraph 4 of the Agreed Minute to the US-EURATOM Agreement, in order to obtain approval for the retransfer of the low enriched uranium from the territory of the United States to Taiwan.
 
-#### 4
+##### 4
 
 The United States shall ensure that “Troika uranium" and special nuclear material produced therefrom are, while in Taiwan, subject to all provisions of the Agreement for Cooperation Between the United States of America and the Republic of China Concerning Civil Uses of Atomic Energy, signed April 4, 1972, as amended and extended (hereinafter referred to as the 1972 Agreement), while the 1972 Agreement is in shall consult with inter alia the Troika about the amendment, replacement, suspension or termination of the 1972 Agreement or of any succeeding agreement.
 
-#### 5
+##### 5
 
 Except as provided in paragraph 9, the United States shall ensure that “Troika uranium" and special nuclear material produced therefrom are, while in Taiwan, subject to the Safeguards Transfer Agreement, signed December 6, 1971, under which the International Atomic Energy Agency applies safeguards in Taiwan (reproduced in International Atomic Energy Agency document INFCIRC/158 of March 8, 1972 and hereinafter referred to as the Safeguards Agreement), while the Safeguards Agreement is in force or, in the event that the Safeguards Agreement is replaced, to the provisions of any succeeding agreement while such succeeding agreement is in force. The United States shall consult with inter alia the Troika about the amendment, replacement, suspension or termination of the Safeguards Agreement or of any succeeding agreement.
 
-#### 6
+##### 6
 
 For each transfer of “Troika uranium" notified pursuant to paragraph 1, from the territory of the United States to Taiwan, the United States shall, through appropriate channels, identify such uranium to Taiwan as “Troika uranium".
 
-#### 7
+##### 7
 
 The United States shall approve the retransfer from Taiwan of “Troika uranium" or special nuclear material produced therefrom only to EURATOM or to any third party that has been identified by EURATOM in accordance with Article 8.1(C) of the US-EURATOM Agreement and paragraph 4 of the Agreed Minute to the US-EURATOM Agreement as acceptable under the US-EURATOM Agreement. This commitment applies only when the United States has been advised that “Troika uranium" or special nuclear material produced therefrom is involved.
 
-#### 8
+##### 8
 
 In the event that the consent of the United States is sought for the reprocessing, or enrichment to twenty percent or greater in the isotope U-235 of “Troika uranium" or special nuclear material produced therefrom, in Taiwan, the United States shall consult the Troika inter alia with a view to reaching agreement prior to exercising any rights it has to approve enrichment or reprocessing. This commitment applies only when the United States has been advised that “Troika uranium" or special nuclear material produced therefrom is involved.
 
-#### 9
+##### 9
 
 If for any reason or at any time, the international Atomic Energy Agency is not applying safeguards pursuant to the Safeguards Agreement, or (in the event that such Agreement is replaced) pursuant to the provisions of any succeeding agreement, the United States shall consult the Troika inter alia to reach agreement on the application of fallback safeguards to “Troika uranium" and special nuclear material produced therefrom. Fallback safeguards may include the invocation by the United States of its existing rights under the 1972 Agreement with a view to ensuring that the safeguards provided for in the 1972 Agreement are applied to “Troika uranium" or special nuclear material produced therefrom.
 
-#### 10
+##### 10
 
 If the United States, after consultation with the Troika, exercises its rights under the 1972 Agreement to require the return from Taiwan of material subject to that Agreement, “Troika uranium" or special nuclear material produced therefrom that is returned to the United States shall become subject to the US-EURATOM Agreement.
 
-#### 11
+##### 11
 
 In the event that the United States finds it necessary to exercise its rights to apply fallback safeguards, in accordance with paragraph 9, or to exercise its right of return, in accordance with paragraph 10, the Troika shall ensure that all necessary steps are taken to require URENCO to share with the United States the cost of implementing these rights as they apply to “Troika uranium" or special nuclear material produced therefrom on a proportionate basis based on the relative value of the enrichment and fabrication components of the nuclear fuel supplied.
 
-#### 12
+##### 12
 
 The United States shall maintain an inventory of “Troika uranium" in Taiwan, and based on information received through appropriate channels from Taiwan, of special nuclear material in Taiwan produced therefrom. The United States shall provide this inventory to the Troika annually.
 
-#### 13
+##### 13
 
 The United States shall, to the extent permitted by United States law, consult the Troika inter alia if it has reason to believe:
 
@@ -264,21 +289,21 @@ The United States shall, to the extent permitted by United States law, consult t
 
 In the case of (i) or (ii), the United States and the Troika shall seek to reach an agreement on measures that the United States and/or the Troika will take to rectify the problem.
 
-#### 14
+##### 14
 
 The Troika and the United States shall consult at any time at the request of any Party to ensure the effective implementation of this Agreement. Such consultations may take the form of an exchange of correspondence.
 
-#### 15
+##### 15
 
 The Troika and the United States shall seek to resolve any dispute concerning the interpretation or application of this Agreement by negotiation, inquiry, mediation, conciliation, arbitration, judicial settlement, or other peaceful means as they may mutually agree.
 
-#### 16
+##### 16
 
 The United States confirms that in accordance with an October 26, 1978 letter of assurance from the “Embassy of the Republic of China" to the United States Department of Energy, “Troika uranium" and special fissionable material produced therefrom shall be subject to measures of physical protection in accordance with the criteria set out in Annex C of the Guidelines for Nuclear Transfers as promulgated by the International Atomic Energy Agency in the Appendix to INFCIRC/254/Rev. 3, Part 1.
 
 The Troika and the United States shall consult at the request of either concerning matters relating to physical protection, including the application, for the purposes of the preceding paragraph, of the recommendations that may be made from time to time by international expert groups.
 
-#### 17
+##### 17
 
 Notwithstanding the suspension or termination of this Agreement, paragraphs 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16 shall remain in force:
 
@@ -296,57 +321,57 @@ Recognizing that under Article 8.1. (C) (i) of the U.S.-EURATOM Agreement retran
 
 In order for the Troika to make low enriched uranium available to Taiwan for use in light water nuclear reactor programs on Taiwan:
 
-#### 1
+##### 1
 
 Prior to the transfer of low enriched uranium from the Troika countries to the United States for retransfer to Taiwan, the Troika shall collaborate with EURATOM in order to notify the United States that such low enriched uranium is intended for fabrication into fuel and retransfer to Taiwan for use in light water nuclear reactors on Taiwan.
 
 Low enriched uranium that has been the subject of this notification and has been retransferred from the territory of the United States to Taiwan is referred to in this Agreement as “Troika uranium."
 
-#### 2
+##### 2
 
 “Troika uranium" will consist of low enriched uranium as defined in Article 21.7 of the U.S.-EURATOM Agreement.
 
-#### 3
+##### 3
 
 At the time of transfer of low enriched uranium from the Troika countries to the territory of the United States for retransfer to Taiwan, the Troika shall collaborate with EURATOM in accordance with paragraph 4 of the Agreed Minute to the U.S.-EURATOM Agreement in order to obtain the approval for the retransfer of the low enriched uranium from the territory of the United States to Taiwan.
 
-#### 4
+##### 4
 
 The United States shall ensure that “Troika uranium" and special nuclear material produced therefrom are, while on Taiwan, subject to all provisions of the Agreement for Cooperation Between the United States of America and the Republic of China Concerning Civil Uses of Atomic Energy, signed April 4, 1972, as amended and extended (hereinafter referred to as the 1972 Agreement), while the 1972 Agreement is in force or, in the event that the 1972 Agreement is replaced, to the provisions of any succeeding agreement while such succeeding agreement is in force. The United States shall consult with inter alia the Troika about the amendment, replacement, suspension or termination of the 1972 Agreement or of any succeeding agreement.
 
-#### 5
+##### 5
 
 Except as provided in paragraph 9, the United States shall ensure that “Troika uranium" and special nuclear material produced therefrom are, while on Taiwan, subject to the Safeguards Transfer Agreement, signed December 6, 1971, under which the International Atomic Energy Agency applies safeguards on Taiwan (reproduced in International Atomic Energy Agency document INFCIRC/158 of March 8, 1972 and hereinafter referred to as the Safeguards Agreement), while the Safeguards Agreement is in force or, in the event that the Safeguards Agreement is replaced, to the provisions of any succeeding agreement while such succeeding agreement is in force. The United States shall consult with inter alia the Troika about the amendment, replacement, suspension or termination of the Safeguards Agreement or of any succeeding agreement.
 
-#### 6
+##### 6
 
 For each transfer of “Troika uranium" notified pursuant to paragraph 1, from the territory of the United States to Taiwan, the United States shall, through appropriate channels, identify such uranium to Taiwan as “Troika uranium."
 
-#### 7
+##### 7
 
 The United States shall approve the retransfer from Taiwan of “Troika uranium" or special nuclear material produced therefrom only to EURATOM or to any third party that has been identified by EURATOM in accordance with Article 8. 1 (C) of the U.S.-EURATOM Agreement and paragraph 4 of the Agreed Minute to the U.S.-EURATOM Agreement as acceptable under the U.S.-EURATOM Agreement. This commitment applies only when the United States has been advised that “Troika uranium" or special nuclear material produced therefrom is involved.
 
-#### 8
+##### 8
 
 In the event that the consent of the United States is sought for the reprocessing or enrichment to twenty percent or greater in the isotope U-235 of “Troika uranium" or special nuclear material produced therefrom, on Taiwan, the United States shall consult the Troika inter alia with a view to reaching agreement prior to exercising any rights it has to approve enrichment or reprocessing. This commitment applies only when the United States has been advised that “Troika uranium" or special nuclear material produced therefrom is involved.
 
-#### 9
+##### 9
 
 If, for any reason or at any time, the International Atomic Energy Agency is not applying safeguards pursuant to the Safeguards Agreement, or (in the event that such Agreement is replaced) pursuant to the provisions of any succeeding agreement, the United States shall consult the Troika inter alia to reach agreement on the application of fallback safeguards to “Troika uranium" and special nuclear material produced therefrom. Fallback safeguards may include the invocation by the United States of its existing rights under the 1972 Agreement with a view to ensuring that the safeguards provided for in the 1972 Agreement are applied to “Troika uranium" or special nuclear material produced therefrom.
 
-#### 10
+##### 10
 
 If the United States, after consultation with the Troika, exercises its rights under the 1972 Agreement to require the return from Taiwan of material subject to that Agreement, “Troika uranium" or special nuclear material produced therefrom that is returned to the United States shall become subject to the U.S.-EURATOM Agreement.
 
-#### 11
+##### 11
 
 In the event that the United States finds it necessary to exercise its rights to apply fallback safeguards, in accordance with paragraph 9, or to exercise its right of return, in accordance with paragraph 10, the Troika shall ensure that all necessary steps are taken to require URENCO to share with the United States the cost of implementing these rights as they apply to “Troika uranium" or special nuclear material produced therefrom on a proportionate basis based on the relative value of the enrichment and fabrication components of the nuclear fuel supplied.
 
-#### 12
+##### 12
 
 The United States shall maintain an inventory of “Troika uranium" on Taiwan, and, based on information received through appropriate channels from Taiwan, of special nuclear material on Taiwan produced therefrom. The United States shall provide this inventory to the Troika annually.
 
-#### 13
+##### 13
 
 The United States shall, to the extent permitted by United States law, consult the Troika inter alia if it has reason to believe:
 
@@ -356,19 +381,19 @@ The United States shall, to the extent permitted by United States law, consult t
 
 In the case of (i) or (ii), the United States and the Troika shall seek to reach an agreement on measures that the United States and/or the Troika will take to rectify the problem.
 
-#### 14
+##### 14
 
 The Troika and the United States shall consult at any time at the request of any Party to ensure the effective implementation of this Agreement. Such consultations may take the form of an exchange of correspondence.
 
-#### 15
+##### 15
 
 The Troika and the United States shall seek to resolve any dispute concerning the interpretation or application of this Agreement by negotiation, inquiry, mediation, conciliation, arbitration, judicial settlement, or other peaceful means as they may mutually agree.
 
-#### 16
+##### 16
 
 The United States confirms that in accordance with an October 26, 1978 letter of assurance from the “Embassy of the Republic of China" to the United States Department of Energy, “Troika uranium" and special fissionable material produced therefrom shall be subject to measures of physical protection in accordance with the criteria set out in Annex C of the Guidelines for Nuclear Transfers as promulgated by the International Atomic Energy Agency in the Appendix to INFCIRC/254/Rev. 3/Part 1. The Troika and the United States shall consult at the request of either concerning matters relating to physical protection, including the application, for the purposes of the preceding paragraph, of the recommendations that may be made from time to time by international expert groups.
 
-#### 17
+##### 17
 
 Notwithstanding the suspension or termination of this agreement, paragraphs 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, and 16 shall remain in force:
 

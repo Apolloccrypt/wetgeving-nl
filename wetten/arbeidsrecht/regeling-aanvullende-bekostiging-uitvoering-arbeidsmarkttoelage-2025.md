@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 januari 2025, nr. 50067438, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2025 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025)"
 identifier: "BWBR0050760"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-09-03
-laatste_update: 2025-09-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050760"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-03"
+last_updated: "2025-09-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050760"
+soort: "ministeriele-regeling"
+stam_id: "17364003"
+version_id: "30608462"
+internal_id: "C43870931"
+label_id: "17266974"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050760/2025-09-03/0"
+intitule_bron: "Stcrt.2025-4735"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-29"
+intitule_published: "2025-02-07"
+intitule_in_force: "2025-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-4735"
+original_signed_date: "2025-01-29"
+original_published_date: "2025-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-4735"
+entry_into_force_date: "2025-02-08"
+jci_1_3: "jci1.3:c:BWBR0050760&z=2025-09-03&g=2025-09-03"
+jci_1_0: "1.0:c:BWBR0050760&g=2025-09-03"
+citeertitel_status: "officieel"
+short_title: "Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025"
+signed_date: "2025-01-29"
+entry_into_force: "2025-02-08"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 januari 2025, nr. 50067438, tot het verstrekken van aanvullende bekostiging voor het primair en voortgezet onderwijs voor de uitvoering van een arbeidsmarkttoelage voor 2025 (Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025)
 
 Gelet op [artikel 119, tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=119), [artikel 117, tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=117) en [artikel 5.9, eerste lid, van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=5.9);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Doel van de aanvullende bekostiging
+##### Artikel 2. Doel van de aanvullende bekostiging
 
 1. De minister verstrekt aanvullende bekostiging met als doel het versterken van de arbeidsmarktpositie van:
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 2. De aanvullende bekostiging is bedoeld voor het toekennen van een arbeidsmarkttoelage aan al het personeel dat werkzaam is op de vestiging of vestigingen, bedoeld in het eerste lid, onverminderd de mogelijkheid dat de aanvullende bekostiging ook kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.
 
-#### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
+##### Artikel 3. Aanvullende bekostiging scholen voor primair onderwijs
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2025 aan:
 
@@ -94,7 +120,7 @@ In deze regeling wordt verstaan onder:
 
 7. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2025 gewijzigd vast op basis van het aantal leerlingen dat op het moment van de berekening staat ingeschreven op de vestiging op 1 februari 2024 en de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar.
 
-#### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
+##### Artikel 4. Aanvullende bekostiging scholen voor voortgezet onderwijs
 
 1. De minister verstrekt aanvullende bekostiging voor het kalenderjaar 2025 aan het bevoegd gezag van een school:
 
@@ -116,21 +142,21 @@ In deze regeling wordt verstaan onder:
 
 7. De minister stelt de aanvullende bekostiging uiterlijk in de maand december van 2025 gewijzigd vast op basis van het door de accountant gevalideerde aantal bekostigde leerlingen op 1 oktober 2024 en de kabinetsbijdrage voor loon- en prijsbijstelling voor dat jaar.
 
-#### Artikel 5. Besteding en verantwoording
+##### Artikel 5. Besteding en verantwoording
 
 De verantwoording van de besteding van deze aanvullende bekostiging geschiedt in de jaarverslaggeving overeenkomstig de [Regeling jaarverslaggeving onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0023132).
 
-#### Artikel 6. Monitoring en evaluatie
+##### Artikel 6. Monitoring en evaluatie
 
 Ten behoeve van de monitoring van de implementatie en effecten van deze regeling op landelijk niveau verstrekt het bevoegd gezag desgevraagd een samenhangend overzicht van de gepleegde inspanningen en uitkomsten, waaronder financieel inzicht in de besteding, ter verwezenlijking van het doel, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050760&artikel=2&z=2025-09-03&g=2025-09-03).
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 31 december 2024, treedt zij in werking met ingang van de dag na de datum van publicatie van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2025.
 
 2. Deze regeling vervalt met ingang van 1 januari 2029.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanvullende bekostiging uitvoering arbeidsmarkttoelage 2025.
 

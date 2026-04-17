@@ -1,13 +1,38 @@
 ---
-title: "Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland"
+title: "Estse voorschriften tot uitvoering van het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting"
 identifier: "BWBR0010013"
-categorie: "Belastingrecht"
-publicatiedatum: 1998-11-29
-laatste_update: 1998-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010013"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-11-29"
+last_updated: "1998-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010013"
+soort: "ministeriele-regeling"
+stam_id: "4274993"
+version_id: "6038592"
+internal_id: "C6241991"
+label_id: "4253564"
+dtd_version: "2.0"
+original_entry_into_force: "1998-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010013/1998-11-29/0"
+intitule_bron: "Stcrt.1998-228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-11-19"
+intitule_published: "1998-11-27"
+intitule_in_force: "1998-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-228"
+original_signed_date: "1998-11-19"
+original_published_date: "1998-11-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-11-29"
+jci_1_3: "jci1.3:c:BWBR0010013&z=1998-11-29&g=1998-11-29"
+jci_1_0: "1.0:c:BWBR0010013&g=1998-11-29"
+citeertitel_status: "officieel"
+short_title: "Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland"
+signed_date: "1998-11-19"
+entry_into_force: "1998-11-29"
 ---
-
 # Estse voorschriften tot uitvoering van het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Estse belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen, en het Protocol bij dat Verdrag (Trb. 1997, 98 en 262), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van het Verdrag en onderdelen van het Protocol:
 
@@ -36,7 +61,7 @@ Aan het op 14 maart 1997 tussen Nederland en Estland gesloten Verdrag tot het ve
 
 - h. vermindering tot 10 percent van de Estse belasting op de niet onder onderdeel g vallende royalty’s, afkomstig uit Estland en betaald aan een inwoner van Nederland die de uiteindelijk gerechtigde daarvan is (artikel 12, tweede lid, onderdeel b). Vergoedingen van welke aard ook voor het gebruik van, of voor het recht van gebruik van, een auteursrecht op een werk op het gebied van letterkunde, kunst of wetenschap, waaronder begrepen bioscoopfilms en films of geluidsbanden voor radio- of televisieuitzendingen, een octrooi, een fabrieks- of handelsmerk, een tekening of model, een plan, een geheim recept of een geheime werkwijze, dan wel voor het gebruik van, of voor het recht van gebruik van, nijverheids-, handels- of wetenschappelijke uitrusting, of voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap worden als royalty’s in de zin van artikel 12 aangemerkt (artikel 12, vierde lid). Vergoedingen voor technische diensten, daaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor contracten inzake bouw- of constructiewerkzaamheden met inbegrip van de daartoe behorende blauwdrukken, dan wel voor diensten van raadgevende of toezichthoudende aard worden niet beschouwd als betalingen ontvangen als een vergoeding voor inlichtingen omtrent ervaringen op het gebied van nijverheid, handel of wetenschap, behalve voor zover de bedragen van die vergoedingen zijn gebaseerd op produktie, verkoop, verrichtingen, voordelen of een andere soortgelijke grondslag die verband houdt met het gebruik van deze inlichtingen (onderdeel X, eerste lid, van het Protocol). Betalingen voor het gebruik van boortorens of uitrusting voor soortgelijke doeleinden, gebruikt voor de exploratie of de winning van koolwaterstoffen, worden niet als royalty’s in de zin van artikel 12 aangemerkt (onderdeel X, tweede lid, van het Protocol). Indien Estland in enig verdrag ter voorkoming van dubbele belasting gesloten tussen Estland en een derde Staat, die op de datum van ondertekening van het Nederlands-Estse belastingverdrag lid is van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO), na die datum erin toestemt enig soort recht of eigendom van de definitie neergelegd in artikel 12, vierde lid, uit te sluiten of royalty’s afkomstig uit Estland van Estse belasting op royalty’s vrij te stellen of de tarieven van de belasting zoals bepaald in artikel 12, tweede lid, te beperken, is deze definitie of vrijstelling of dit lagere tarief automatisch van toepassing alsof het in genoemd vierde lid, onderscheidenlijk tweede lid was vermeld (onderdeel X, derde lid, van het Protocol). De in de onderdelen a, b, f, g en h van dit artikel vermelde verminderingen worden berekend over het bruto bedrag van de dividenden, interest en royalty’s. De in onderdelen a, b, f, g en h van dit artikel vermelde verminderingen zijn niet van toepassing indien de uiteindelijk gerechtigde tot de dividenden, interest of royalty’s in Estland een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in Estland zelfstandige arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty’s worden betaald, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, zesde lid, respectievelijk artikel 11, zesde lid, en artikel 12, vijfde lid).
 
-#### Artikel 2. Estse regeling
+##### Artikel 2. Estse regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010013&artikel=1&z=1998-11-29&g=1998-11-29) is van Estse zijde de volgende regeling getroffen:
 
@@ -50,7 +75,7 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0010013&a
 
 - 5. Verkrijgbaarheid van het Estse formulier Exemplaren van het Estse formulier ’Application concerning relief from Estonian tax withheld at source (Vorm TM2)’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Estland bij alle belastingkantoren en bij het Ministry of Finance of the Republic of Estonia, Suur-Ameerika 1, EE-0100 Tallinn, Estonia.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Estse uitvoeringsvoorschriften belastingverdrag Nederland-Estland.
 

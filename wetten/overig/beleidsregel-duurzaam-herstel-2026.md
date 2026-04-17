@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel duurzaam herstel 2026"
+title: "Besluit van het Instituut Mijnbouwschade Groningen van 20 november 2025 houdende de vaststelling van een beleidsregel met betrekking tot het toekennen van een tegemoetkoming in de vorm van een subsidie in natura voor een maatregel die nodig is om te bewerkstelligen dat de schade waarvoor door het Instituut Mijnbouwschade Groningen in het kader van zijn wettelijke taakuitoefening op grond van het Burgerlijk Wetboek een vergoeding wordt toegekend, duurzaam kan worden hersteld (Beleidsregel Duurzaam herstel 2026)"
 identifier: "BWBR0052030"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052030"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052030"
+soort: "zbo"
+stam_id: "17695423"
+version_id: "31227252"
+internal_id: "C44663961"
+label_id: "17594394"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052030/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40634"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-20"
+intitule_published: "2025-12-17"
+intitule_in_force: "2025-12-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40634"
+original_signed_date: "2025-11-20"
+original_published_date: "2025-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40634"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052030&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052030&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel duurzaam herstel 2026"
+signed_date: "2025-11-20"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van het Instituut Mijnbouwschade Groningen van 20 november 2025 houdende de vaststelling van een beleidsregel met betrekking tot het toekennen van een tegemoetkoming in de vorm van een subsidie in natura voor een maatregel die nodig is om te bewerkstelligen dat de schade waarvoor door het Instituut Mijnbouwschade Groningen in het kader van zijn wettelijke taakuitoefening op grond van het Burgerlijk Wetboek een vergoeding wordt toegekend, duurzaam kan worden hersteld (Beleidsregel Duurzaam herstel 2026)
 
 Gelet op [artikel 2, tiende lid, van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **WOZ-waarde:** waarde, bedoeld in [artikel 18, eerste lid, van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=18), zoals deze voor het constructief onderzoek als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052030&artikel=3&z=2026-01-01&g=2026-01-01) is vastgesteld.
 
-#### Artikel 2. Ingangsvoorwaarden tegemoetkoming Duurzaam herstel
+##### Artikel 2. Ingangsvoorwaarden tegemoetkoming Duurzaam herstel
 
 1. Het Instituut kan bij de behandeling van aanvragen om vergoeding van fysieke schade aan een gebouw aan aanvrager naast de vergoeding van schade als bedoeld in [artikel 2, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=2) bij separaat besluit een tegemoetkoming toekennen indien:
 
@@ -86,7 +112,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. Indien dat voor het herstel van het gebrek aan de constructie van de woning noodzakelijk is, kan de aanvraag mede betrekking hebben op een gebouw of deel van een gebouw van dezelfde eigenaar dat constructief met de woning verbonden is, maar geen woning betreft.
 
-#### Artikel 3. De procedure
+##### Artikel 3. De procedure
 
 1. Het Instituut deelt aan de aanvrager mee binnen welke termijn de aanvrager een besluit op de aanvraag voor een tegemoetkoming kan verwachten.
 
@@ -114,7 +140,7 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Indien het Instituut op basis van de schouw of het constructief onderzoek voornemens is geen tegemoetkoming toe te kennen, stelt het Instituut de eigenaar van het gebouw voorafgaand aan het nemen van een besluit in de gelegenheid binnen een door het Instituut te bepalen termijn een zienswijze te geven op dat voornemen.
 
-#### Artikel 4. Aard en omvang tegemoetkoming Duurzaam herstel
+##### Artikel 4. Aard en omvang tegemoetkoming Duurzaam herstel
 
 1. De tegemoetkoming wordt in de vorm van te treffen maatregelen in natura toegekend. Indien de maatregelen noodzakelijkerwijs mede herstel van schade omvatten waarvoor eerder al een vergoeding is toegekend, wordt de eerder voor die schade toegekende vergoeding niet in mindering gebracht op de tegemoetkoming.
 
@@ -132,17 +158,17 @@ In deze beleidsregel wordt verstaan onder:
 
 6. Indien de WOZ-beschikking bepaalt dat er sprake is van een object dat bestaat uit een woongedeelte en een niet-woongedeelte, kan het Instituut, in afwijking van het derde lid, bepalen dat voor de maximale tegemoetkoming wordt uitgegaan van de waarde van de woning op basis van de WOZ-waarde van het woongedeelte en, indien redelijk, de WOZ-waarde van de niet-woning of een deel daarvan.
 
-#### Artikel 5. Intrekking Beleidsregel duurzaam herstel en overgangsrecht
+##### Artikel 5. Intrekking Beleidsregel duurzaam herstel en overgangsrecht
 
 1. De [Beleidsregel duurzaam herstel wordt ingetrokken](https://wetten.overheid.nl/jci1.3:c:BWBR0048321), met dien verstande dat die beleidsregel van toepassing blijft op aanvragen voor een tegemoetkoming ingediend voor inwerkingtreding van deze beleidsregel, met uitzondering van [artikel 5 van die beleidsregel](https://wetten.overheid.nl/jci1.3:c:BWBR0048321&artikel=5). [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0052030&artikel=4&z=2026-01-01&g=2026-01-01) van deze beleidsregel is van toepassing op voornoemde aanvragen.
 
 2. Indien het niet toekennen van Duurzaam herstel aan een woning met een postcode opgenomen in een bijlage van de Beleidsregel duurzaam herstel naar het oordeel van het Instituut leidt tot onaanvaardbare verschillen bij de toekenning van tegemoetkomingen voor Duurzaam herstel, kan het Instituut afwijken van [artikel 2, eerste lid, sub b](https://wetten.overheid.nl/jci1.3:c:BWBR0052030&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel duurzaam herstel 2026.
 

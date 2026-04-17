@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit bestrijding schadelijke organismen, enz. (opheffing bedrijfslichamen en overname taken)"
+title: "Besluit van 17 december 2014, houdende wijziging van diverse besluiten in verband met de opheffing van de bedrijfslichamen en de overname van taken"
 identifier: "BWBR0036067"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036067"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036067"
+soort: "AMvB"
+stam_id: "12923403"
+version_id: "22001492"
+internal_id: "C31552661"
+label_id: "12892664"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036067/2015-01-01/0"
+intitule_bron: "Stb.2014-573"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-17"
+intitule_published: "2014-12-24"
+intitule_in_force: "2014-12-24"
+intitule_status: "goed"
+original_publication: "Stb.2014-573"
+original_signed_date: "2014-12-17"
+original_published_date: "2014-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-573"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036067&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0036067&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit bestrijding schadelijke organismen, enz. (opheffing bedrijfslichamen en overname taken)"
+signed_date: "2014-12-17"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 17 december 2014, houdende wijziging van diverse besluiten in verband met de opheffing van de bedrijfslichamen en de overname van taken
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 september 2014, nr. WJZ / 14144878;
@@ -20,67 +46,67 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 15 december
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit bestrijding schadelijke organismen.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit diergeneeskundigen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit diergeneesmiddelen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit dierlijke producten.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit houders van dieren.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Aanvaarding functie door leden SER, enz.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit samenstelling en werkwijze commissie beheer landbouwgronden.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit verdachte dieren.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit verhandeling teeltmateriaal.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Reglement zee- en kustvisserij 1977.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Tijdelijk besluit postbezorgers 2011.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Tuchtrechtbesluit Landbouwkwaliteitswet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Uitvoeringsbesluit Meststoffenwet.
 
-#### Artikel XV
+##### Artikel XV
 
 Archiefbescheiden van de bedrijfslichamen betreffende zaken die op grond van dit besluit worden behartigd door Onze Minister van Economische Zaken, worden overgedragen aan Onze Minister van Economische Zaken, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

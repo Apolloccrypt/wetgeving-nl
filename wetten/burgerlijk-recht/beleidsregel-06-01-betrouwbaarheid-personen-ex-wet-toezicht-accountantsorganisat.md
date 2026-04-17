@@ -1,26 +1,52 @@
 ---
-title: "Beleidsregel 06-01 betrouwbaarheid personen ex Wet toezicht accountantsorganisaties en Besluit toezicht accountantsorganisaties"
+title: "Beleidsregel van de Stichting Autoriteit Financiële Markten (hieronder te noemen: ‘de toezichthouder’) van 19 september 2006, voor het beoordelen van de betrouwbaarheid van personen ingevolge de Wet toezicht accountantsorganisaties (Wta) en het Besluit toezicht accountantsorganisaties (Bta), hieronder gezamenlijk dan wel ieder afzonderlijk te noemen: ‘de toezichtwet’"
 identifier: "BWBR0020318"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2006-10-01
-laatste_update: 2006-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020318"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-10-01"
+last_updated: "2006-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020318"
+soort: "zbo"
+stam_id: "8631683"
+version_id: "13605712"
+internal_id: "C18290341"
+label_id: "8611944"
+dtd_version: "2.0"
+original_entry_into_force: "2006-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020318/2006-10-01/0"
+intitule_bron: "Stcrt.2006-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-19"
+intitule_published: "2006-09-29"
+intitule_in_force: "2006-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-190"
+original_signed_date: "2006-09-19"
+original_published_date: "2006-09-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-190-p30-SC76971"
+entry_into_force_date: "2006-10-01"
+jci_1_3: "jci1.3:c:BWBR0020318&z=2006-10-01&g=2006-10-01"
+jci_1_0: "1.0:c:BWBR0020318&g=2006-10-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel 06-01 betrouwbaarheid personen ex Wet toezicht accountantsorganisaties en Besluit toezicht accountantsorganisaties"
+signed_date: "2006-09-19"
+entry_into_force: "2006-10-01"
 ---
-
 # Beleidsregel van de Stichting Autoriteit Financiële Markten (hieronder te noemen: ‘de toezichthouder’) van 19 september 2006, voor het beoordelen van de betrouwbaarheid van personen ingevolge de Wet toezicht accountantsorganisaties (Wta) en het Besluit toezicht accountantsorganisaties (Bta), hieronder gezamenlijk dan wel ieder afzonderlijk te noemen: ‘de toezichtwet’
 
 Gelet op onder meer de [artikelen 15 Wta](https://wetten.overheid.nl/jci1.3:c:BWBR0019468&artikel=15) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&artikel=6), [7 Bta](https://wetten.overheid.nl/jci1.3:c:BWBR0020184&artikel=7);
 
 Besluit als volgt:
 
-#### Artikel 1. Omtrent de uitleg van wettelijke voorschriften
+##### Artikel 1. Omtrent de uitleg van wettelijke voorschriften
 
 1. Onder betrouwbaarheid wordt voor de toepassing van de toezichtwet verstaan het zich onthouden van één of meer gedragingen die naar het oordeel van de toezichthouder in de weg staan aan het vervullen van de functie van (mede)beleidsbepaler.
 
 2. Tot de in het eerste lid bedoelde gedragingen behoren in ieder geval gedragingen die blijk geven van het niet hebben van eigenschappen als waarheidslievendheid, verantwoordelijkheidszin, wetsgetrouwheid, openheid, oprechtheid, prudentie, punctualiteit, onkreukbaarheid, discretie en rechtschapenheid.
 
-#### Artikel 2. Omtrent de vaststelling van de feiten
+##### Artikel 2. Omtrent de vaststelling van de feiten
 
 1. De beoordeling van de betrouwbaarheid geschiedt door op basis van voornemens, handelingen en antecedenten (hierna gezamenlijk te noemen: antecedenten) te toetsen of betrokkene blijk geeft of heeft gegeven van zodanige gedragingen dat daardoor naar het oordeel van de toezichthouder diens betrouwbaarheid niet (meer) buiten twijfel staat.
 
@@ -62,7 +88,7 @@ Besluit als volgt:
 
 - –. referenties.
 
-#### Artikel 3. Omtrent de afweging van belangen
+##### Artikel 3. Omtrent de afweging van belangen
 
 1. De toezichthouder concludeert dat de betrouwbaarheid niet (meer) buiten twijfel staat indien naar zijn oordeel uit de antecedenten van betrokkene blijkt dat deze één of meer van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020318&artikel=1&z=2006-10-01&g=2006-10-01) bedoelde gedragingen heeft vertoond.
 
@@ -78,11 +104,11 @@ Besluit als volgt:
 
 4. Indien een antecedent kan worden gekwalificeerd als een antecedent in de zin van zowel [bijlage A1](https://wetten.overheid.nl/jci1.3:c:BWBR0020318&bijlage=A1&z=2006-10-01&g=2006-10-01) als [bijlage A2](https://wetten.overheid.nl/jci1.3:c:BWBR0020318&bijlage=A2&z=2006-10-01&g=2006-10-01), dan geldt het bepaalde van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020318&artikel=3&z=2006-10-01&g=2006-10-01), hiervoor.
 
-#### Artikel 4. Toezichtmaatregelen
+##### Artikel 4. Toezichtmaatregelen
 
 In het geval dat de toezichthouder heeft geconcludeerd dat de betrouwbaarheid niet (meer) buiten twijfel staat en uit de toezichtwet zelf geen directe consequenties voortvloeien, kan de toezichthouder gebruik maken van de hem ingevolge de toezichtwet toekomende bevoegdheden (bijvoorbeeld het geven van een aanwijzing, het niet verlenen c.q. intrekken van een vergunning).
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 De bekendmaking van deze beleidsregel geschiedt door publicatie in de Staatscourant. De beleidsregel treedt in werking op 1 oktober 2006.
 

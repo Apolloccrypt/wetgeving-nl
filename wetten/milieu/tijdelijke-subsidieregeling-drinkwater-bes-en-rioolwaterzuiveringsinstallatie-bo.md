@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat van 5 maart 2018, nr. IENW/BSK-2018/43439, houdende regels inzake het verstrekken van subsidie voor het transport van drinkwater of ander water op Bonaire, Sint Eustatius en Saba en voor de exploitatie van de RWZI op Bonaire over de kalenderjaren 2018 tot en met 2022 (Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2018–2022)"
 identifier: "BWBR0040698"
-categorie: "Milieu"
-publicatiedatum: 2025-12-11
-laatste_update: 2025-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040698"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2025-12-11"
+last_updated: "2025-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040698"
+soort: "ministeriele-regeling-BES"
+stam_id: "14564773"
+version_id: "29753522"
+internal_id: "C42643081"
+label_id: "14518704"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040698/2025-12-11/0"
+intitule_bron: "Stcrt.2018-11459"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-03-05"
+intitule_published: "2018-03-06"
+intitule_in_force: "2018-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31869"
+original_signed_date: "2023-11-17"
+original_published_date: "2023-11-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-31869"
+entry_into_force_date: "2023-11-17"
+jci_1_3: "jci1.3:c:BWBR0040698&z=2025-12-11&g=2025-12-11"
+jci_1_0: "1.0:c:BWBR0040698&g=2025-12-11"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026"
+signed_date: "2023-11-17"
+entry_into_force: "2023-11-17"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat van 5 maart 2018, nr. IENW/BSK-2018/43439, houdende regels inzake het verstrekken van subsidie voor het transport van drinkwater of ander water op Bonaire, Sint Eustatius en Saba en voor de exploitatie van de RWZI op Bonaire over de kalenderjaren 2018 tot en met 2022 (Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2018–2022)
 
 Gelet op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) in samenhang met [artikel 3, eerste lid, aanhef en onderdelen a, b en g](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), en [artikel 5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en de [artikelen 2, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=2), en [4 van het Kaderbesluit subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0036381&artikel=4);
 
 BESLUIT:
 
-#### Artikel 1. (begripsomschrijvingen)
+##### Artikel 1. (begripsomschrijvingen)
 
 In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 - **subsidieontvanger:** eilandsbestuur van Saba, Sint Eustatius Utility Company N.V. (STUCO) of Water- en Energiebedrijf Bonaire N.V.
 
-#### Artikel 2. (subsidieverlening)
+##### Artikel 2. (subsidieverlening)
 
 1. Aan de subsidieontvanger kan op aanvraag over een of meer van de kalenderjaren 2022 tot en met 2026 subsidie worden verleend met als doel het geheel of gedeeltelijk dekken:
 
@@ -40,7 +66,7 @@ In deze regeling en daarop gebaseerde besluiten wordt verstaan onder:
 
 3. De subsidie, bedoeld in het eerste of tweede lid, wordt verleend onder de voorwaarde dat daarvoor voldoende middelen beschikbaar zijn op de begroting van het Ministerie van Infrastructuur en Waterstaat.
 
-#### Artikel 3. (subsidiebedragen)
+##### Artikel 3. (subsidiebedragen)
 
 De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11), bedraagt ten hoogste het bedrag in EUR volgens de onderstaande tabel, inclusief eventueel verschuldigde BTW:
 
@@ -82,7 +108,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 |   |   |   |   |   |   |
 | **TOTALEN 1,2,3** | **10.782** | **11.947** | **9.334,999** | **9.886,814** | **8.794,139** |
 
-#### Artikel 4. (aanvraag)
+##### Artikel 4. (aanvraag)
 
 1. De aanvraag om subsidie kan op een of meer van de genoemde kalenderjaren betrekking hebben. Voor zover betrekking hebbend op een lopend kalenderjaar wordt deze zo spoedig mogelijk doch uiterlijk voor 1 september van dat jaar ingediend. Deze termijn kan door de minister worden verlengd tot een daarbij te bepalen datum.
 
@@ -96,7 +122,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 - d. de gegevens van de aanvrager, waaronder het bankrekeningnummer en een bewijs dat deze op naam van de aanvrager staat.
 
-#### Artikel 5. (verplichtingen subsidieontvanger)
+##### Artikel 5. (verplichtingen subsidieontvanger)
 
 1. De voor enig kalenderjaar te subsidiëren activiteiten moeten uiterlijk 31 december van dat jaar zijn verricht, met dien verstande dat in geval van een subsidie, verleend over een tijdvak van meerdere kalenderjaren, de activiteiten uiterlijk 31 december van het laatste kalenderjaar moeten zijn verricht.
 
@@ -110,7 +136,7 @@ De subsidie, bedoeld in [artikel 2, eerste en tweede lid](https://wetten.overhei
 
 6. De subsidieontvanger verleent op verzoek van de minister alle medewerking aan een door de minister ingesteld evaluatieonderzoek, bedoeld om te beoordelen in welke mate de subsidieontvanger bij het uitoefenen van de gesubsidieerde activiteiten een bijdrage heeft geleverd aan het doel van de subsidie, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=2&z=2025-12-11&g=2025-12-11).
 
-#### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
+##### Artikel 6. (intrekken of wijzigen van de subsidieverstrekking)
 
 De minister kan een beschikking tot subsidieverlening of subsidievaststelling intrekken of wijzigen indien:
 
@@ -122,7 +148,7 @@ De minister kan een beschikking tot subsidieverlening of subsidievaststelling in
 
 - d. de subsidieverlening of subsidievaststelling anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
 
-#### Artikel 7. (subsidievaststelling)
+##### Artikel 7. (subsidievaststelling)
 
 1. De subsidieontvanger dient uiterlijk 1 september na het laatste kalenderjaar van het tijdvak waarvoor subsidie is aangevraagd, bij de minister een aanvraag tot subsidievaststelling in.
 
@@ -146,31 +172,31 @@ De minister kan een beschikking tot subsidieverlening of subsidievaststelling in
 
 - d. de subsidieverlening anderszins onjuist was en de subsidieontvanger dit wist of behoorde te weten.
 
-#### Artikel 8. (betaling)
+##### Artikel 8. (betaling)
 
 Het subsidiebedrag wordt binnen zes weken na de bekendmaking van de subsidievaststelling betaald, onder verrekening van de betaalde voorschotten.
 
-#### Artikel 9. (voorschotten)
+##### Artikel 9. (voorschotten)
 
 Aan de subsidieontvanger kunnen voorschotten worden verleend van ten hoogste 100 procent van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=3&z=2025-12-11&g=2025-12-11) genoemde subsidiebedragen.
 
-#### Artikel 10. (onverschuldigde betaling)
+##### Artikel 10. (onverschuldigde betaling)
 
 Indien na de intrekking, wijziging of vaststelling van de subsidie als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=6&z=2025-12-11&g=2025-12-11) of [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=7&z=2025-12-11&g=2025-12-11) sprake is van onverschuldigd betaalde subsidiebedragen kunnen deze door de minister worden teruggevorderd.
 
-#### Artikel 11. (inwerkingtreding)
+##### Artikel 11. (inwerkingtreding)
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
 2. Deze regeling vervalt met ingang van 1 januari 2028, met dien verstande dat zij van toepassing blijft op de krachtens deze regeling verstrekte subsidies.
 
-#### Artikel 12. (citeertitel)
+##### Artikel 12. (citeertitel)
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling drinkwater BES en rioolwaterzuiveringsinstallatie Bonaire 2022 tot en met 2026.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. (afwijking)
+##### Artikel 5a. (afwijking)
 
 1. In afwijking van [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040698&artikel=5&z=2025-12-11&g=2025-12-11), kan de minister in het belang van de doelmatigheid of continuïteit van de openbare drinkwatervoorziening of de RWZI en op verzoek van de subsidieontvanger toestemming verlenen:
 

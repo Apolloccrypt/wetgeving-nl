@@ -1,14 +1,42 @@
 ---
-title: "Wet normering topinkomens"
+title: "Wet van 15 november 2012, houdende regels inzake de normering van bezoldigingen van topfunctionarissen in de publieke en semipublieke sector (Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector)"
 identifier: "BWBR0032249"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032249"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032249"
+soort: "wet"
+stam_id: "11914243"
+version_id: "19799092"
+internal_id: "C27806151"
+label_id: "11886744"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032249/2026-01-01/0"
+intitule_bron: "Stb.2012-583"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-15"
+intitule_published: "2012-11-23"
+intitule_in_force: "2012-11-23"
+intitule_status: "goed"
+original_publication: "Stb.2012-583"
+original_signed_date: "2012-11-15"
+original_published_date: "2012-11-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "32600"
+original_url_id: "stb-2012-583"
+entry_into_force_date: "2012-11-24"
+entry_into_force_dossier: "32600"
+jci_1_3: "jci1.3:c:BWBR0032249&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032249&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet normering topinkomens"
+signed_date: "2012-11-15"
+entry_into_force: "2012-11-24"
 ---
-
-# Wet normering topinkomens
+# Wet van 15 november 2012, houdende regels inzake de normering van bezoldigingen van topfunctionarissen in de publieke en semipublieke sector (Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Bezoldigingsmaximum
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Partijen komen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01).
 
@@ -34,7 +62,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 6. Het tweede tot en met vijfde lid zijn van overeenkomstige toepassing indien voor partijen op grond van [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.4&z=2026-01-01&g=2026-01-01), [2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.5&z=2026-01-01&g=2026-01-01), [2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01) of [2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.7&z=2026-01-01&g=2026-01-01) een van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01) afwijkend bedrag is vastgesteld.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. In afwijking van [artikel 2.1, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.1&z=2026-01-01&g=2026-01-01) komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in [artikel 1.2, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.2&z=2026-01-01&g=2026-01-01) en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01) geen bezoldiging overeen die per kalenderjaar meer bedraagt dan tien, onderscheidenlijk vijftien procent van de voor de rechtspersoon of instelling op grond van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), [artikel 2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.5&z=2026-01-01&g=2026-01-01), [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01) of [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.7&z=2026-01-01&g=2026-01-01) geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.
 
@@ -42,7 +70,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien de functie van lid, onderscheidenlijk voorzitter van de hoogste toezichthoudende organen wordt vervuld anders dan op grond van een dienstbetrekking.
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. De bezoldiging van een topfunctionaris bedraagt per kalenderjaar ten hoogste € 262.000.
 
@@ -52,7 +80,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. De ministeriële regeling, bedoeld in het tweede lid, wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. Onze Minister wie het aangaat en Onze Minister kunnen in overeenstemming met het gevoelen van de ministerraad gezamenlijk besluiten dat partijen een bij dat besluit vast te stellen bezoldiging mogen overeenkomen die hoger is dan de maximale bezoldiging, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01).
 
@@ -62,11 +90,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk bij ministeriële regeling, in overeenstemming met het gevoelen van de ministerraad, voor een of meer functies van topfunctionarissen bij een rechtspersoon of instelling een maximum vaststellen dat hoger is dan de maximale bezoldiging, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), indien de bijzondere arbeidsmarktomstandigheden een hoger bedrag rechtvaardigen, doch niet hoger dan 130 procent van de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 1. Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister, bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in [artikel 1.2, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.2&z=2026-01-01&g=2026-01-01), [artikel 1.3, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01), en de bijlagen bij artikel 1.3, eerste lid, onderdelen d en e, een lager bedrag vaststellen dan het bezoldigingsmaximum, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01). Onze Minister wie het aangaat stelt dat bedrag jaarlijks vast uiterlijk in de maand november voorafgaand aan het jaar waarop dat bedrag betrekking heeft.
 
@@ -74,7 +102,7 @@ Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk bij ministeri�
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 2.7
+##### Artikel 2.7
 
 1. Bij regeling van Onze Minister wie het aangaat, in overeenstemming met Onze Minister, kunnen de verschillende rechtspersonen of organisaties binnen een bij [artikel 1.3, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01), aangewezen categorie worden ingedeeld in klassen op grond van criteria die betrekking hebben op onder meer de omvang van de rechtspersonen of instellingen.
 
@@ -86,11 +114,11 @@ Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk bij ministeri�
 
 5. Van een besluit als bedoeld in het derde en vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 2.8
+##### Artikel 2.8
 
 Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01), voor de toepassing van [artikel 2.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.1&z=2026-01-01&g=2026-01-01), een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in [artikel 1.1, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.1&z=2026-01-01&g=2026-01-01). Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. Het getal is niet hoger dan de in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.2&z=2026-01-01&g=2026-01-01) genoemde percentages, tenzij de rechtspersoon of instelling krachtens artikel 2.2 is uitgezonderd.
 
-#### Artikel 2.9
+##### Artikel 2.9
 
 1. De betrokken rechtspersonen of instellingen, bedoeld in [artikel 1.2, onderdelen e tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.2&z=2026-01-01&g=2026-01-01), [artikel 1.3, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01), en de bijlagen bij artikel 1.3, eerste lid, onderdelen d en e, of een samenwerkingsverband van deze rechtspersonen of instellingen, kunnen uiterlijk in de maand september voorafgaand aan het jaar waarop het bedrag betrekking heeft, aan Onze Minister wie het aangaat een voorstel doen voor het bedrag, bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01), of de bedragen, bedoeld in [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.7&z=2026-01-01&g=2026-01-01).
 
@@ -104,7 +132,7 @@ Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen
 
 - d. maatschappelijke opvattingen over de hoogte.
 
-#### Artikel 2.10
+##### Artikel 2.10
 
 1. Partijen komen geen uitkeringen overeen wegens beëindiging van het dienstverband, die gezamenlijk meer bedragen dan de som van de beloning en de voorzieningen ten behoeve van beloningen betaalbaar op termijn over de twaalf maanden voorafgaand aan de beëindiging van het dienstverband, tot ten hoogste € 75 000. In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband bedragen de uitkeringen ten hoogste € 75 000, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.
 
@@ -116,7 +144,7 @@ Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen
 
 5. In afwijking van het eerste lid komen partijen met betrekking tot leden, onderscheidenlijk voorzitters, van de hoogst toezichthoudende organen van een rechtspersoon of instelling als bedoeld in [artikel 1.2, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.2&z=2026-01-01&g=2026-01-01), en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01) geen uitkeringen wegens beëindiging van een dienstverband overeen die meer bedragen dan tien, onderscheidenlijk vijftien procent van de op grond van het eerste lid geldende maximale uitkeringen.
 
-#### Artikel 2.11
+##### Artikel 2.11
 
 Vervallen
 
@@ -148,7 +176,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -230,7 +258,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - 6°. ten aanzien van de rechtspersonen, bedoeld in [artikel 1.3, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01): Onze minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&z=2026-01-01&g=2026-01-01) zijn van toepassing op:
 
@@ -252,7 +280,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2. In afwijking van het eerste lid zijn de [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&z=2026-01-01&g=2026-01-01) niet van toepassing op de voorzitter van de Eerste Kamer der Staten-Generaal, en ambtsdragers als bedoeld in [artikel 2, tweede lid, van de Algemene pensioen- en uitkeringswet politieke ambtsdragers](https://wetten.overheid.nl/jci1.3:c:BWBR0002691&artikel=2) en als bedoeld in [artikel 1 van de Wet rechtspositie Raad van State, Algemene Rekenkamer en Nationale ombudsman](https://wetten.overheid.nl/jci1.3:c:BWBR0024788&artikel=1).
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 1. De [paragrafen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&z=2026-01-01&g=2026-01-01) zijn van toepassing op:
 
@@ -284,7 +312,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. wegens wijziging van in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=2&z=2026-01-01&g=2026-01-01) gebruikte aanduidingen of in geval van redactionele verbeteringen.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 1. De [paragrafen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&z=2026-01-01&g=2026-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&z=2026-01-01&g=2026-01-01) zijn van toepassing op de in de in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3&z=2026-01-01&g=2026-01-01) bij deze wet opgenomen rechtspersonen of instellingen.
 
@@ -298,7 +326,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. wegens wijziging van in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=3&z=2026-01-01&g=2026-01-01) gebruikte aanduidingen of in geval van redactionele verbeteringen.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. [Paragraaf 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&z=2026-01-01&g=2026-01-01) is van toepassing op de in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=4&z=2026-01-01&g=2026-01-01) bij deze wet opgenomen rechtspersonen of instellingen.
 
@@ -310,7 +338,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - c. wegens wijziging van in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&bijlage=4&z=2026-01-01&g=2026-01-01) gebruikte aanduidingen of in geval van redactionele verbeteringen.
 
-#### Artikel 1.6
+##### Artikel 1.6
 
 1. Voor zover partijen een hogere bezoldiging overeenkomen dan bij of krachtens deze wet is toegestaan, bedraagt de bezoldiging van rechtswege het bedrag dat ten hoogste is toegestaan. Betalingen die dat bedrag overschrijden, zijn onverschuldigd betaald.
 
@@ -320,15 +348,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Ieder beding tussen partijen houdende kwijtschelding van een onverschuldigde betaling of een schenking die met de onverschuldigde betaling wordt verrekend, is nietig.
 
-#### Artikel 1.7
+##### Artikel 1.7
 
 Voor zover zulks niet reeds uit een ander wettelijk voorschrift voortvloeit, worden de bij of krachtens deze wet in het financieel verslaggevingsdocument op te nemen gegevens onderworpen aan het oordeel van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), tenzij bij regeling van Onze Minister anders is bepaald.
 
-#### Artikel 1.8
+##### Artikel 1.8
 
 Ten aanzien van personen over wie Onze Minister zulks besluit, wordt tot de bezoldiging in de zin van deze wet niet gerekend de loonbestanddelen die betrekking hebben op getroffen veiligheidsmaatregelen.
 
-#### Artikel 1.9
+##### Artikel 1.9
 
 Onze Minister kan bij ministeriële regeling nadere regels stellen over:
 
@@ -344,7 +372,7 @@ Onze Minister kan bij ministeriële regeling nadere regels stellen over:
 
 #### § 3. Sectorale bezoldigingsnorm
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. Partijen komen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor de toepasselijke in de bijlage bij [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), aangewezen categorie voor dat jaar vastgesteld bedrag.
 
@@ -360,7 +388,7 @@ Onze Minister kan bij ministeriële regeling nadere regels stellen over:
 
 7. Het tweede tot en met zesde lid zijn van overeenkomstige toepassing indien voor partijen op grond van [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.4&z=2026-01-01&g=2026-01-01) een van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01) afwijkend bedrag is vastgesteld.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. In afwijking van [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01), komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01) geen bezoldiging overeen die per kalenderjaar meer bedraagt dan tien, onderscheidenlijk vijftien procent van de voor de rechtspersoon of instelling op grond van [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01) of [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.4&z=2026-01-01&g=2026-01-01) geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.
 
@@ -368,11 +396,11 @@ Onze Minister kan bij ministeriële regeling nadere regels stellen over:
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing indien de functie van lid, onderscheidenlijk voorzitter van de hoogste toezichthoudende organen wordt vervuld anders dan op grond van een dienstbetrekking.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Onze Minister wie het aangaat stelt, in overeenstemming met Onze Minister, een bedrag als bedoeld in [artikel 3.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01), jaarlijks vast uiterlijk in de maand november voorafgaand aan het jaar waarop het bedrag betrekking heeft.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. Bij regeling van Onze Minister wie het aangaat, in overeenstemming met Onze Minister, kunnen de verschillende rechtspersonen of organisaties binnen een in de bijlage bij [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), aangewezen categorie worden ingedeeld in klassen op grond van criteria die betrekking hebben op onder meer de omvang van de rechtspersonen of instellingen.
 
@@ -384,11 +412,11 @@ Onze Minister wie het aangaat stelt, in overeenstemming met Onze Minister, een b
 
 5. Van een besluit als bedoeld in het derde en vierde lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen en instellingen als bedoeld in [artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.4&z=2026-01-01&g=2026-01-01), voor de toepassing van [artikel 3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01), een getal vaststellen dat geldt als de omvang van het dienstverband van de leden van toezichthoudende organen als bedoeld in [artikel 1.1, onderdeel b, onder 4° en 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.1&z=2026-01-01&g=2026-01-01). Het getal kan voor voorzitters van toezichthoudende organen hoger worden vastgesteld. Het getal is niet hoger dan de in [artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.2&z=2026-01-01&g=2026-01-01) genoemde percentages, tenzij de rechtspersoon of instelling krachtens artikel 3.2 is uitgezonderd.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. De betrokken rechtspersonen of instellingen, bedoeld in de bijlage bij [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), of een samenwerkingsverband van deze rechtspersonen of instellingen, kunnen uiterlijk in de maand september voorafgaand aan het jaar waarop het bedrag betrekking heeft, aan Onze Minister wie het aangaat een voorstel doen voor het bedrag, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.3&z=2026-01-01&g=2026-01-01) of de bedragen, bedoeld in [artikel 3.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.4&z=2026-01-01&g=2026-01-01).
 
@@ -402,7 +430,7 @@ Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen
 
 - d. maatschappelijke opvattingen over de hoogte.
 
-#### Artikel 3.7
+##### Artikel 3.7
 
 1. Partijen komen geen uitkeringen overeen wegens beëindiging van het dienstverband, die gezamenlijk meer bedragen dan de som van de beloning en de voorzieningen ten behoeve van beloningen betaalbaar op termijn over de twaalf maanden voorafgaand aan de beëindiging van het dienstverband, tot ten hoogste € 75 000. In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband bedragen de uitkeringen ten hoogste € 75 000, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.
 
@@ -414,13 +442,13 @@ Onze Minister wie het aangaat kan bij ministeriële regeling voor rechtspersonen
 
 5. In afwijking van het eerste lid komen partijen met betrekking tot leden, onderscheidenlijk voorzitters, van de hoogst toezichthoudende organen van een rechtspersoon of instelling als bedoeld in [artikel 1.2, onderdelen f, g en h](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.2&z=2026-01-01&g=2026-01-01), en [artikel 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.3&z=2026-01-01&g=2026-01-01) geen uitkeringen wegens beëindiging van een dienstverband overeen die meer bedragen dan tien, onderscheidenlijk vijftien procent van de op grond van het eerste lid geldende maximale uitkeringen.
 
-#### Artikel 3.8
+##### Artikel 3.8
 
 Vervallen
 
 #### § 4. Openbaarmaking
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. In het financieel verslaggevingsdocument worden van iedere topfunctionaris de bij regeling van Onze Minister vast te stellen gegevens inzake bezoldiging of uitkering wegens beëindiging van het dienstverband vermeld. De gegevens over een topfunctionaris bevatten in ieder geval diens naam.
 
@@ -432,19 +460,19 @@ Vervallen
 
 5. Bij ministeriële regeling van Onze Minister wie het aangaat kan worden bepaald dat de verantwoordelijke tevens langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar de gegevens bedoeld in het eerste en tweede lid aan Onze Minister wie het aangaat verstrekt.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 Rechtspersonen en instellingen die de op grond van [artikel 4.1, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&artikel=4.1&z=2026-01-01&g=2026-01-01), vastgestelde gegevens inzake bezoldiging of uitkering wegens beëindiging van het dienstverband in het financieel verslaggevingsdocument opnemen, kunnen afzien van het opnemen in dat document van de verantwoording van bezoldigingsinformatie op grond van de [artikel 383, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383), en [artikel 383c van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=383c) voor zover op hen van toepassing. Bij regeling van Onze Minister kunnen nadere regels worden gesteld.
 
 #### § 4. Openbaarmaking
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 1. Met het toezicht op de naleving van deze wet zijn belast de bij besluit van Onze Minister wie het aangaat aangewezen personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 1. De accountant, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), meldt een onverschuldigde betaling aan Onze Minister indien een vordering uit onverschuldigde betaling op een topfunctionaris, en in de gevallen waarin een topfunctionaris de opgedragen taken vervult anders dan op grond van een dienstbetrekking, op de natuurlijke persoon of rechtspersoon die de topfunctionaris ter beschikking stelt:
 
@@ -454,11 +482,11 @@ Rechtspersonen en instellingen die de op grond van [artikel 4.1, eerste en tweed
 
 2. Indien het financieel verslaggevingsdocument bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&artikel=4.1&z=2026-01-01&g=2026-01-01), niet de juiste voorgeschreven gegevens bevat, meldt de accountant de ontbrekende gegevens aan Onze Minister.
 
-#### Artikel 5.3
+##### Artikel 5.3
 
 De Belastingdienst, het Uitvoeringsinstituut Werknemersverzekeringen, pensioenfondsen, alsmede verzekeraars aan wie betalingen zijn verricht ten behoeve van een beloning betaalbaar op termijn of een uitkering wegens beëindiging van het dienstverband, zijn verplicht desgevraagd aan Onze Minister wie het aangaat kosteloos opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet.
 
-#### Artikel 5.4
+##### Artikel 5.4
 
 1. Onze Minister wie het aangaat is ter handhaving van deze wet bevoegd om partijen een last onder dwangsom op te leggen.
 
@@ -466,7 +494,7 @@ De Belastingdienst, het Uitvoeringsinstituut Werknemersverzekeringen, pensioenfo
 
 3. Onze Minister wie het aangaat kan verbeurde dwangsommen verrekenen met bestaande vorderingen van de rechtspersoon die de dwangsom heeft verbeurd op Onze Minister wie het aangaat.
 
-#### Artikel 5.5
+##### Artikel 5.5
 
 1. Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.
 
@@ -476,7 +504,7 @@ De Belastingdienst, het Uitvoeringsinstituut Werknemersverzekeringen, pensioenfo
 
 4. Onze Minister wie het aangaat eist geen onverschuldigde betaling op als de vordering uit onverschuldigde betaling is verjaard. De last, bedoeld in [artikel 5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=5&artikel=5.4&z=2026-01-01&g=2026-01-01), stuit de verjaring. Onze Minister wie het aangaat kan de verjaring van de vordering uit onverschuldigde betaling stuiten door hiervan mededeling te doen aan partijen.
 
-#### Artikel 5.6
+##### Artikel 5.6
 
 1. Onze Minister wie het aangaat is bevoegd tot openbaar maken van de gegevens voor zover deze op grond van [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=4&artikel=4.1&z=2026-01-01&g=2026-01-01) hadden moeten worden opgenomen in het financieel verslaggevingsdocument. Openbaarmaking geschiedt zoveel mogelijk op de voor het financieel verslaggevingsdocument voorgeschreven wijze, alsmede door publicatie in de Staatscourant.
 
@@ -486,27 +514,27 @@ De Belastingdienst, het Uitvoeringsinstituut Werknemersverzekeringen, pensioenfo
 
 #### § 6. Het adviescollege normeringbeleid bezoldigingen topfunctionarissen
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 Vervallen
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 Vervallen
 
 #### § 6. Het adviescollege normeringbeleid bezoldigingen topfunctionarissen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 1. Onze Minister zendt jaarlijks voor 31 december aan de Staten-Generaal een overzicht van de geconstateerde overtredingen en de getroffen handhavingsmaatregelen.
 
 2. Ten behoeve van het overzicht, bedoeld in het eerste lid, verstrekken Onze Ministers wie het aangaan aan Onze Minister alle gegevens van de geconstateerde overtredingen en de getroffen handhavingsmaatregelen.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Onze Minister zendt in 2020, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 1. In afwijking van [artikel 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.1&z=2026-01-01&g=2026-01-01) onderscheidenlijk [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01), is een voorafgaand aan de inwerkingtreding van deze wet tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), zoals dit artikel luidde op de dag voorafgaande aan de inwerkingtreding van de [Wet verlaging bezoldigingsmaximum WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036047), onderscheidenlijk het bedrag, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.3&z=2026-01-01&g=2026-01-01), toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet tussen partijen zijn overeengekomen. De [artikelen 5.4 tot en met 5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=5&artikel=5.4&z=2026-01-01&g=2026-01-01) zijn van toepassing.
 
@@ -528,33 +556,33 @@ Onze Minister zendt in 2020, en vervolgens telkens na vijf jaar, aan de Staten-G
 
 10. Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013, tenzij de wijziging betrekking heeft op een bezoldiging die niet hoger is dan de maximale bezoldiging, bedoeld in [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), onderscheidenlijk het bedrag, bedoeld in [artikel 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.3&z=2026-01-01&g=2026-01-01), dan wel het krachtens [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01) van toepassing zijnde bedrag, zoals deze golden met ingang van 1 januari 2013.
 
-#### Artikel 7.4
+##### Artikel 7.4
 
 1. Indien op enig moment de bezoldiging van een minister ten minste € 500 hoger is dan het bedrag genoemd in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), kan dat bedrag bij regeling van Onze Minister worden gewijzigd in het bedrag van de bezoldiging van een minister, en wordt naar boven afgerond op een duizendvoud in euro’s.
 
 2. De ministeriële regeling, bedoeld in het eerste lid, treedt in werking met ingang van 1 januari van het jaar volgend op het jaar waarin de verhoging van de bezoldiging van een minister in werking is getreden. Indien de verhoging van de bezoldiging van een minister in enig jaar van kracht is geworden voor 1 december, wordt terugwerkende kracht verleend aan deze ministeriële regeling tot 1 januari van het desbetreffende jaar.
 
-#### Artikel 7.5
+##### Artikel 7.5
 
 Een verzoek tot het nemen van een besluit als bedoeld in de [artikelen 2.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.4&z=2026-01-01&g=2026-01-01), [2.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01), [2.7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.7&z=2026-01-01&g=2026-01-01), en [3.4, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.4&z=2026-01-01&g=2026-01-01), wordt genomen binnen zestien weken na ontvangst van het verzoek.
 
-#### Artikel 7.6
+##### Artikel 7.6
 
 Vervallen
 
-#### Artikel 7.7
+##### Artikel 7.7
 
 Vervallen
 
-#### Artikel 7.8
+##### Artikel 7.8
 
 Vervallen
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), dat in werking treedt met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Bij dat besluit kunnen de in artikel 2.3, eerste lid, genoemde bedragen overeenkomstig artikel 2.3, derde lid, worden gewijzigd.
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 Deze wet wordt aangehaald als: Wet normering topinkomens.
 
@@ -1028,7 +1056,7 @@ Deze wet wordt aangehaald als: Wet normering topinkomens.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.5a
+##### Artikel 1.5a
 
 Dit onderdeel is nog niet inwerking getreden
 
@@ -1058,7 +1086,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.10
+##### Artikel 1.10
 
 Onze Minister kan, in overeenstemming met Onze Minister wie het aangaat, beleidsregels vaststellen met betrekking tot de uitoefening van een op grond van deze wet of de daarop berustende bepalingen aan Onze Minister wie het aangaat toekomende bevoegdheid.
 
@@ -1080,7 +1108,7 @@ De zorgverzekeraars die zich overeenkomstig [artikel 25 van de Zorgverzekeringsw
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7.3a
+##### Artikel 7.3a
 
 1. Indien op grond van [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=7&artikel=7.3&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde op de dag voorafgaande aan de inwerkingtreding van de [Wet verlaging bezoldigingsmaximum WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036047) een hogere bezoldiging was toegestaan dan de maximale bezoldiging van [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01) dan wel het op grond van een ministeriële regeling als bedoeld in [artikel 2.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.6&z=2026-01-01&g=2026-01-01), [artikel 2.7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.7&z=2026-01-01&g=2026-01-01) of [artikel 2.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.8&z=2026-01-01&g=2026-01-01), geldend bedrag, en dat bedrag gelijktijdig met de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT of overeenkomstig [artikel 7.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=7&artikel=7.4&z=2026-01-01&g=2026-01-01), wordt verlaagd, wordt in artikel 7.3, achtste lid, voor «het voor de rechtspersoon of instelling geldende maximum» of «het geldende maximum» telkens gelezen: het op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT voor de rechtspersoon of instelling geldende maximum.
 
@@ -1088,7 +1116,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Dit artikel is niet van toepassing ten aanzien van de in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.2&z=2026-01-01&g=2026-01-01) bedoelde leden, onderscheidenlijk voorzitters van de hoogste toezichthoudende organen.
 
-#### Artikel 7.4a
+##### Artikel 7.4a
 
 1. Zolang de algemene maatregel van bestuur, bedoeld in de [artikelen 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.1&z=2026-01-01&g=2026-01-01), en [3.1, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&artikel=3.1&z=2026-01-01&g=2026-01-01), nog niet in werking is getreden, blijven deze wet en de daarop rustende bepalingen, zoals deze luidden op de dag voor de inwerkingtreding van de [Wet verlaging bezoldigingsmaximum WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0036047), van toepassing ten aanzien van topfunctionarissen die hun functie vervullen anders dan op grond van een dienstbetrekking.
 
@@ -1254,7 +1282,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1.6a
+##### Artikel 1.6a
 
 1. Indien een topfunctionaris met verschillende rechtspersonen of instellingen waarop [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&z=2026-01-01&g=2026-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=3&z=2026-01-01&g=2026-01-01) van toepassing is een dienstbetrekking aangaat als topfunctionaris, niet zijnde als lid, onderscheidenlijk voorzitter van de hoogste toezichthoudende organen van die rechtspersonen of instellingen, bedraagt de som van de bezoldigingen niet meer dan de maximale bezoldiging, bedoeld in [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=2&artikel=2.3&z=2026-01-01&g=2026-01-01), dan wel een voor een van de dienstbetrekkingen van toepassing zijnd hogere bezoldigingsmaximum.
 
@@ -1268,7 +1296,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### § 7. Overgangs- en slotbepalingen
 
-#### Artikel 7.3b
+##### Artikel 7.3b
 
 1. [Artikel 1.1, onderdeel b, onder 6°](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&paragraaf=1&artikel=1.1&z=2026-01-01&g=2026-01-01), is niet van toepassing op de functionaris met een dienstverband als topfunctionaris dat is aangegaan voor inwerkingtreding van de [Evaluatiewet WNT](https://wetten.overheid.nl/jci1.3:c:BWBR0039454).
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling vrijstelling verplichtingen sociale zekerheidswetten"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/05/99376, houdende regels met betrekking tot de vrijstelling van verplichtingen genoemd in de Werkloosheidswet en de Wet werk en inkomen naar arbeid (Regeling vrijstelling verplichtingen WW en Wet WIA)"
 identifier: "BWBR0019305"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-09-01
-laatste_update: 2020-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019305"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-09-01"
+last_updated: "2020-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019305"
+soort: "ministeriele-regeling"
+stam_id: "7746933"
+version_id: "22481852"
+internal_id: "C32263721"
+label_id: "7734694"
+dtd_version: "2.0"
+original_entry_into_force: "2015-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019305/2020-09-01/0"
+intitule_bron: "Stcrt.2005-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-16"
+intitule_published: "2005-12-23"
+intitule_in_force: "2005-12-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17649"
+original_signed_date: "2015-06-22"
+original_published_date: "2015-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2015-17649"
+entry_into_force_date: "2015-06-22"
+jci_1_3: "jci1.3:c:BWBR0019305&z=2020-09-01&g=2020-09-01"
+jci_1_0: "1.0:c:BWBR0019305&g=2020-09-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vrijstelling verplichtingen sociale zekerheidswetten"
+signed_date: "2015-06-22"
+entry_into_force: "2015-06-22"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 16 december 2005, Directie Sociale Verzekeringen, nr. SV/R&S/05/99376, houdende regels met betrekking tot de vrijstelling van verplichtingen genoemd in de Werkloosheidswet en de Wet werk en inkomen naar arbeid (Regeling vrijstelling verplichtingen WW en Wet WIA)
 
 Gelet op de [artikelen 30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), juncto [32, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=32), en [37, zesde lid, van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37) en de [artikelen 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19), [21, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), [24, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [26, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), en [76a van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -44,11 +70,11 @@ In deze regeling wordt verstaan onder:
 
 - **Verlof:** een tussen de werkgever en de werknemer voor een gedeelte of het geheel van de arbeidstijd overeengekomen periode, waarin de werknemer geen arbeid jegens de werkgever verricht.
 
-#### Artikel 2. Vrijstelling in verband benutten resterende verdiencapaciteit
+##### Artikel 2. Vrijstelling in verband benutten resterende verdiencapaciteit
 
 Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de verzekerde die zijn resterende verdiencapaciteit volledig benut.
 
-#### Artikel 3. Vrijstelling in verband met vorst en arbeidstijdverkorting
+##### Artikel 3. Vrijstelling in verband met vorst en arbeidstijdverkorting
 
 Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26) en [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), is vrijgesteld de werknemer wiens werkloosheid uitsluitend een gevolg is van:
 
@@ -56,7 +82,7 @@ Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, ond
 
 - b. verkorting van de werktijd, waarvoor op grond van [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002014&artikel=8) ontheffing is verleend.
 
-#### Artikel 4. Vrijstelling in verband met vakantie
+##### Artikel 4. Vrijstelling in verband met vakantie
 
 1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), of in de [artikelen 14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), is vrijgesteld de werknemer respectievelijk de IOW-gerechtigde die met behoud van zijn recht op uitkering op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) vakantie geniet als bedoeld in [artikel 1, eerste lid, van de Vakantieregeling WW en IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0016004).
 
@@ -70,11 +96,11 @@ Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, ond
 
 - b. niet verklaard heeft vakantie te genieten, maar daar, gelet op de feitelijke omstandigheden, kennelijk sprake van is.
 
-#### Artikel 5. Vrijstelling in verband met vrijwilligerswerk of mantelzorg
+##### Artikel 5. Vrijstelling in verband met vrijwilligerswerk of mantelzorg
 
 Vervallen
 
-#### Artikel 6. Vrijstelling in verband met scholing en proefplaatsing
+##### Artikel 6. Vrijstelling in verband met scholing en proefplaatsing
 
 1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [15, onderdelen b tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld, de uitkeringsgerechtigde die een naar het oordeel van het UWV noodzakelijke opleiding of scholing volgt.
 
@@ -82,11 +108,11 @@ Vervallen
 
 3. De uitkeringsgerechtigde die werkzaamheden verricht op een proefplaats als bedoeld in [artikel 76a van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=76a), [artikel 52e van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=52e) of [artikel 37 van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=37), is vrijgesteld van de verplichtingen, bedoeld in de [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30), of [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), voorzover het andere werkzaamheden betreft dan die op de proefplaats.
 
-#### Artikel 7. Vrijstelling om andere redenen
+##### Artikel 7. Vrijstelling om andere redenen
 
 Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24) en [26, eerste lid, onderdelen d, f, en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [14, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=14), en [15, onderdelen a tot en met e, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15), [30, eerste lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30) en [30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30), is vrijgesteld de uitkeringsgerechtigde die de leeftijd heeft bereikt waarop hij binnen een jaar de pensioengerechtigde leeftijd bereikt, bedoeld in [artikel 7a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a).
 
-#### Artikel 8. Overgangsbepaling in verband met de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
+##### Artikel 8. Overgangsbepaling in verband met de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045)
 
 1. Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, onder 1°, 2° en 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), en [26, eerste lid, onderdelen d, f en g, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), is vrijgesteld de werknemer:
 
@@ -104,29 +130,29 @@ Van de verplichtingen, bedoeld in de [artikelen 24, eerste lid, onderdeel b, ond
 
 - e. die 57,5 jaar of ouder is op 31 december 2003, wiens eerste werkloosheidsdag is gelegen op of na 1 januari 2004 en die onmiddellijk voorafgaande aan de eerste werkloosheidsdag een recht op uitkering had op grond van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008656), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822) dan wel een uitkering die naar aard en strekking daarmee overeenkomt, dat is ontstaan op of voor 1 januari 2003.
 
-#### Artikel 9. Intrekken [Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999)
+##### Artikel 9. Intrekken [Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999)
 
 1. De [Regeling vrijstelling verplichtingen WW wordt ingetrokken](https://wetten.overheid.nl/jci1.3:c:BWBR0015999).
 
 2. Vrijstellingen die voor inwerkingtreding van deze regeling zijn verleend op grond van de [Regeling vrijstelling verplichtingen WW](https://wetten.overheid.nl/jci1.3:c:BWBR0015999), worden geacht vrijstellingen te zijn op grond van deze regeling.
 
-#### Artikel 10. Wijziging van andere regelingen
+##### Artikel 10. Wijziging van andere regelingen
 
 1. Wijzigt de Vakantieregeling WW.
 
 2. Wijzigt de Regeling herlevingstermijn WW.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 29 december 2005.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vrijstelling verplichtingen sociale zekerheidswetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Vrijstelling in verband met pensioen, prepensioen of verlof
+##### Artikel 2a. Vrijstelling in verband met pensioen, prepensioen of verlof
 
 1. Van de verplichtingen, bedoeld in [artikel 30, eerste lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=30) is vrijgesteld de persoon die met verlof is dan wel die pensioen of prepensioen ontvangt.
 
@@ -134,19 +160,19 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Aanvulling wettelijke grondslag
+##### Artikel 1a. Aanvulling wettelijke grondslag
 
 Deze regeling berust mede op de [artikelen 16, eerste lid, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=16), [19, achtste lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=19) en [30aa, tweede lid, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=30aa).
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6a. Vrijstelling Wajongers tijdens studie of scholing
+##### Artikel 6a. Vrijstelling Wajongers tijdens studie of scholing
 
 Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 6b. Vrijstelling in verband met een werkweek met evenveel uren als het gemiddeld aantal arbeidsuren
+##### Artikel 6b. Vrijstelling in verband met een werkweek met evenveel uren als het gemiddeld aantal arbeidsuren
 
 1. Van de verplichtingen, bedoeld in [artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=24), is de werknemer drie maanden vrijgesteld indien hij evenveel:
 

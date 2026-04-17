@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen Nederland en Turkije tot beslechting van geschillen door rechtspraak, arbitrage en verzoening"
 identifier: "BWBV0005972"
-categorie: "Internationaal recht"
-publicatiedatum: 1933-11-04
-laatste_update: 1933-11-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005972"
+country: "nl"
+rank: "verdrag"
+publication_date: "1933-11-04"
+last_updated: "1933-11-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005972"
+soort: "verdrag"
+stam_id: "10004966373"
+version_id: "10005284222"
+internal_id: "C10008129801"
+label_id: "10004949904"
+dtd_version: "2.0"
+original_entry_into_force: "1933-11-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005972/1933-11-04/0"
+intitule_bron: "Stb.1933-631"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1933-11-27"
+intitule_published: "1933-12-12"
+intitule_in_force: "1933-12-12"
+intitule_status: "goed"
+original_publication: "Stb.1933-631"
+original_signed_date: "1933-11-27"
+original_published_date: "1933-12-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1933-11-04"
+jci_1_3: "jci1.3:c:BWBV0005972&z=1933-11-04&g=1933-11-04"
+jci_1_0: "1.0:c:BWBV0005972&g=1933-11-04"
+citeertitel_status: "redactioneel"
+signed_date: "1933-11-27"
+entry_into_force: "1933-11-04"
 ---
-
 # Verdrag tussen Nederland en Turkije tot beslechting van geschillen door rechtspraak, arbitrage en verzoening
 
 Hare Majesteit de Koningin der Nederlanden
@@ -26,35 +50,35 @@ Zijne Excellentie de President van de Republiek Turkije: Zijne Excellentie Dr. T
 
 die, na elkaar mededeeling te hebben gedaan van hun wederzijdsche volmachten, welke in goeden en behoorlijken vorm zijn bevonden, omtrent de volgende bepalingen zijn overeengekomen.
 
-#### Artikel 1
+##### Artikel 1
 
 De Hooge verdragsluitende Partijen verbinden zich wederzijds om in geen enkel geval anders dan langs vreedzamen weg de oplossing te zoeken van geschillen of conflicten van welken aard ook, die tusschen Turkije en Nederland mochten ontstaan en die niet binnen redelijken tijd mochten kunnen worden opgelost langs de gewone diplomatieke wegen.
 
-#### Artikel 2
+##### Artikel 2
 
 Alle geschillen, van welken aard ook, die tot voorwerp hebben een recht, waarop een der Hooge verdragsluitende Partijen zich beroept en dat door de andere betwist wordt, en die niet op vriendschappelijke wijze langs de gewone diplomatieke wegen mochten kunnen worden geregeld, zullen ter berechting worden voorgelegd, hetzij aan het Permanente Hof van Internationale Justitie, hetzij aan een scheidsgerecht, zooals hierna is voorzien. Men is het er over eens, dat de hierboven bedoelde geschilpunten met name die omvatten, welke betrekking hebben op de uitlegging van een verdrag, op elk vraagstuk van internationaal recht, op het bestaan van een feit dat, indien vastgesteld, een schending van eene internationale verbintenis zou zijn, of op den omvang en den aard der vergoeding voor zulk een schending.
 
 De geschillen, voor wier oplossing een speciale procedure wordt te voorzien in andere verdragen, die tusschen de Hooge verdragsluitende Partijen van kracht zijn, zullen worden geregeld volgens de bepalingen van die verdragen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vóór eenige procedure voor het Permanente Hof van Internationale Justitie en vóór eenige arbitrale procedure, zal het geschil in overeenstemming tusschen de Partijen, ter fine van verzoening kunnen worden voorgelegd aan een permanente internationale commissie, genaamd Permanente Verzoeningscommissie, die is gevormd overeenkomstig de bepalingen van dit Verdrag.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer, in geval van een der geschillen als bedoeld in artikel 2, de twee Partijen niet haar toevlucht hebben gezocht bij de Permanente Verzoeningscommissie, of wanneer deze laatste er niet in geslaagd is de Partijen te verzoenen, dan zal het geschil in gemeenschappelijk overleg bij wege van een compromis worden onderworpen, hetzij aan het Permanente Hof van Internationale Justitie, dat zal beslissen onder de voorwaarden en volgens de procedure vastgesteld door zijn Statuut, hetzij aan een scheidsgerecht, dat zal beslissen onder de voorwaarden en volgens de procedure, vastgesteld door het Verdrag van den Haag van 18 October 1907 voor de vreedzame beslechting van internationale geschillen.
 
 Bij gebreke van overeenstemming tusschen de Partijen over de keuze van het rechtsprekend orgaan, over de bepalingen van het compromis, of in geval van een arbitrale procedure over de aanwijzing der arbiters, zal de een of de andere van haar, na daarvan een maand van te voren kennis te hebben gegeven, de bevoegdheid hebben om het geschil rechtstreeks bij verzoekschrift voor het Permanente Hof van Internationale Justitie te brengen.
 
-#### Artikel 5
+##### Artikel 5
 
 Wanneer het een geschil betreft, waarvan het voorwerp, volgens de interne wetgeving van een der Partijen, valt onder de bevoegdheid van nationale rechtbanken, dan zal het geschil niet aan de procedure, waarin door dit verdrag wordt voorzien, kunnen worden onderworpen dan na een vonnis, dat in kracht van gewijsde is gegaan en dat binnen redelijke termijnen is gewezen door de competente nationale rechterlijke autoriteit.
 
-#### Artikel 6
+##### Artikel 6
 
 De partijen komen overeen, dat, wanneer het rechterlijk of arbitraal vonnis mocht verklaren, dat een beslissing of een maatregel, die door een rechterlijke of welke andere autoriteit ook van een der partijen in het geschil genomen of voorgeschreven is, geheel of gedeeltelijk in strijd is met het internationale recht en wanneer het grondwettelijk recht van die partij niet of slechts onvoldoende toelaat, dat de gevolgen van die beslissing of van dien maatregel te niet worden gedaan, er door het rechterlijk of arbitraal vonnis aan de benadeelde partijen een billijke genoegdoening moet worden toegekend.
 
-#### Artikel 7
+##### Artikel 7
 
 Alle vragen waarover de Hooge verdragsluitende Partijen verdeeld mochten zijn, zonder die op vriendschappelijke wijze te kunnen oplossen langs de gewone diplomatieke wegen, zullen, wanneer het vragen betreft waarvan de oplossing niet zou kunnen worden gezocht door een uitspraak als voorzien in artikel 2 van dit verdrag, en wanneer daarvoor niet reeds een procedure tot oplossing is voorzien door een verdrag of overeenkomst, tusschen Partijen van kracht, worden onderworpen aan de Permanente Verzoeningscommissie, die belast zal zijn om aan de Partijen een aannemelijke oplossing voor te stellen en in ieder geval om haar een verslag aan te bieden.
 
@@ -62,7 +86,7 @@ Bij gebreke van overeenstemming tusschen de Partijen omtrent het verzoek tot de 
 
 In alle gevallen zal, wanneer er strijd tusschen de Partijen is over de vraag of het geschil al of niet de natuur heeft van een geschil als bedoeld in artikel 2 en derhalve zou kunnen worden opgelost door een uitspraak, die strijd vóór elke procedure voor de Permanente Verzoeningscommissie worden voorgelegd aan de beslissing van het Permanente Hof van Internationale Justitie, krachtens onderling overleg tusschen de Hooge verdragsluitende Partijen of bij gebreke van overeenstemming op het verzoek van een van haar.
 
-#### Artikel 8
+##### Artikel 8
 
 De Permanente Verzoeningscommissie, waarin door dit verdrag voorzien wordt, zal zijn samengesteld uit vijf leden, die als volgt zullen worden aangewezen, te weten: de Hooge verdragsluitende Partijen zullen elk een Commissaris benoemen, gekozen uit haar wederzijdsche onderdanen en zullen drie andere Commissarissen volgens een gemeenschappelijke overeenkomst aanwijzen onder de onderdanen van derde mogendheden; die drie Commissarissen zullen van verschillende nationaliteiten moeten zijn en de Hooge verdragsluitende Partijen zullen onder hen den Voorzitter van de Commissie aanwijzen.
 
@@ -70,13 +94,13 @@ De Commissarissen worden voor drie jaar benoemd; hun opdracht kan hernieuwd word
 
 Er zal zoo spoedig mogelijk en binnen een tijdsverloop, dat drie maanden niet te boven mag gaan, worden voorzien in de vacatures die zich mochten voordoen ten gevolge van overlijden, ontslagneming of eenige voortdurende of tijdelijke verhindering en wel op de wijze, die voor de benoemingen is vastgesteld.
 
-#### Artikel 9
+##### Artikel 9
 
 De Permanente Verzoeningscommissie zal worden samengesteld binnen de zes maanden volgende op de uitwisseling der bekrachtigingsoorkonden van dit Verdrag.
 
 Wanneer de benoeming van de leden, die gemeenschappelijk moeten worden aangewezen, niet binnen dat tijdsverloop tot stand komt, of in geval van vervanging binnen drie maanden, te rekenen van bet openvallen van den zetel, dan zal bij gebreke van een andere afspraak aan den President van den Zwitserschen Bondsraad worden verzocht tot de noodige aanwijzingen over te gaan.
 
-#### Artikel 10
+##### Artikel 10
 
 Men zal zich tot de Permanente Verzoeningscommissie richten door een verzoekschrift, gericht tot den Voorzitter op de wijze, voorzien in de artikelen 3 en 7, al naar den aard der zaak.
 
@@ -84,13 +108,13 @@ Het verzoekschrift zal, na het voorwerp van het geschil kortelijk te hebben uite
 
 Wanneer het verzoekschrift uitgaat van slechts één der Partijen, zal het door deze onmiddellijk ter kennis van de tegenpartij worden gebracht.
 
-#### Artikel 11
+##### Artikel 11
 
 Binnen een tijdsverloop van 14 dagen, te rekenen van den dag, waarop een der Hooge verdragsluitende Partijen een geschil voor de Permanente Verzoeningscommissie mocht hebben gebracht, zal elk der Partijen, voor het onderzoek van dat geschil, haar Commissaris kunnen vervangen door iemand, die speciaal ter zake kundig is.
 
 De Partij, die van dat recht gebruik mocht maken, zal daarvan dadelijk kennis geven aan de andere Partij; deze zal alsdan de bevoegdheid hebben om op gelijke wijze te handelen binnen een tijdsverloop van 14 dagen, te rekenen van den dag waarop die kennisgeving haar zal hebben bereikt.
 
-#### Artikel 12
+##### Artikel 12
 
 De Permanente Verzoeningscommissie zal tot taak hebben om de geschilpunten op te helderen, daartoe alle inlichtingen, die nuttig kunnen zijn, verzamelen, hetzij door een onderzoek, hetzij op andere wijze en zich inspannen om de Partijen te verzoenen. Zij zal na onderzoek van de zaak aan de Partijen kunnen uiteenzetten op welken voet eene schikking haar redelijk zou voorkomen en aan de Partijen een termijn kunnen stellen om zich uit te spreken, als daartoe aanleiding bestaat.
 
@@ -100,59 +124,59 @@ De Partijen zullen nooit gebonden zijn door de feitelijke, rechts- of andere ove
 
 Onder voorbehoud van het bepaalde bij artikel 7, lid 3, zullen de werkzaamheden van de Commissie, tenzij de Partijen anders overeenkomen, moeten worden beëindigd binnen een tijdsverloop van zes maanden, te rekenen van den dag, waarop de Commissie kennis zal hebben genomen van het geschil.
 
-#### Artikel 13
+##### Artikel 13
 
 Behoudens bijzondere bepalingen in tegengestelden zin zal de Permanente Verzoeningscommissie zelve haar procedure regelen, die in alle gevallen zal moeten plaats hebben op tegenspraak. Wat betreft het onderzoek zal de Commissie, als zij niet eenstemmig anders beslist, zich houden aan de bepalingen van Titel III (internationale commissie van onderzoek) van het Verdrag van den Haag van 18 October 1907 voor de vreedzame beslechting van internationale geschillen.
 
-#### Artikel 14
+##### Artikel 14
 
 De Permanente Verzoeningscommissie zal, tenzij de Partijen anders mochten zijn overeengekomen, samenkomen op de plaats die door den Voorzitter is aangewezen.
 
-#### Artikel 15
+##### Artikel 15
 
 De werkzaamheden van de Permanente Verzoeningscommissie zijn slechts openbaar krachtens een besluit van de Commissie genomen met instemming van de Partijen.
 
 De Hooge verdragsluitende Partijen komen overeen om het resultaat van de werkzaamheden van de Commissie niet openbaar te maken, zonder elkaar eerst geraadpleegd te hebben.
 
-#### Artikel 16
+##### Artikel 16
 
 De Partijen zullen bij de Permanente Verzoeningscommissie vertegenwoordigd zijn door agenten, die tot taak hebben als tusschenpersonen te dienen tusschen haar en de Commissie; zij zullen zich bovendien kunnen doen bijstaan door raadslieden en deskundigen, daartoe door haar benoemd, en het verhoor vragen van alle personen, wier getuigenis haar nuttig mocht lijken.
 
 Van haar kant zal de Commissie de bevoegdheid hebben om mondelinge uiteenzettingen te vragen aan de agenten, raadslieden en deskundigen der twee Partijen, evenals aan alle personen waarvan zij het nuttig mocht oordeelen om met toestemming van hunne Regeering voor zich te laten verschijnen.
 
-#### Artikel 17
+##### Artikel 17
 
 Behoudens bepalingen, die het tegendeel behelzen en die in dit Verdrag zijn opgenomen, zullen de beslissingen van de Permanente Verzoeningscommissie met meerderheid van stemmen worden genomen.
 
 De Commissie zal geen besluit kunnen nemen omtrent de kern van het geschil, dan wanneer alle leden behoorlijk zijn opgeroepen en wanneer ten minste alle leden, die gemeenschappelijk zijn gekozen, aanwezig zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 De Hooge verdragsluitende Partijen verbinden zich om de werkzaamheden van de Permanente Verzoeningscommissie te vergemakkelijken en in het bijzonder om aan haar den bijstand te verzekeren van haar bevoegde overheden om haar in de ruimst mogelijke mate alle ter zake dienende stukken en inlichtingen te verschaffen en om de noodige maatregelen te nemen om de Commissie in staat te stellen op haar grondgebied over te gaan tot het oproepen en hooren van getuigen of deskundigen, evenals tot een onderzoek ter plaatse.
 
-#### Artikel 19
+##### Artikel 19
 
 Voor den duur der werkzaamheden van de Permanente Verzoeningscommissie zal elk der Commissarissen een vergoeding ontvangen, waarvan het bedrag zal worden vastgesteld in gemeen overleg tusschen de Hooge verdragsluitende Partijen, die er elk een gelijk deel van zullen dragen.
 
-#### Artikel 20
+##### Artikel 20
 
 In alle gevallen en met name als de vraag, waaromtrent de Partijen verdeeld zijn, voortvloeit uit daden, die reeds zijn verricht of op punt zijn dat te worden, zal het Permanente Hof van Internationale Justitie, handelende ingevolge artikel 41 van zijn Statuut of naar omstandigheden, het scheidsgerecht zoo spoedig mogelijk aangeven, welke voorloopige maatregelen genomen moeten worden; de Permanente Verzoeningscommissie zal, als daartoe aanleiding bestaat, op dezelfde wijze kunnen handelen, nadat Partijen het daaromtrent eens zijn geworden.
 
 Elk der Hooge Verdragsluitende Partijen verbindt zich om zich te onthouden van het nemen van elken maatregel, die een nadeeligen terugslag zou kunnen hebben op de ten uitvoerlegging van de beslissing of op de schikkingen, die mochten worden voorgesteld door de Permanente Verzoeningscommissie en, in het algemeen, om niet over te gaan tot het verrichten van eenige daad van welken aard ook, die het geschil zou kunnen verergeren of uitbreiden.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit Verdrag blijft toepasselijk tusschen de Hooge verdragsluitende Partijen ook wanneer andere mogendheden eveneens een belang bij het geschil hebben.
 
-#### Artikel 22
+##### Artikel 22
 
 Wanneer eenig geschil tusschen de Hooge verdragsluitende Partijen mocht rijzen betreffende de uitlegging van dit Verdrag, zal dat geschil gebracht worden voor het Permanente Hof van Internationale Justitie volgens de procedure voorzien in artikel 4, lid 2.
 
-#### Artikel 23
+##### Artikel 23
 
 Dit Verdrag zal bekrachtigd worden. De akten van bekrachtiging zullen zoo spoedig mogelijk te Ankara worden uitgewisseld.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit Verdrag zal in werking treden dadelijk na de uitwisseling der bekrachtigingsoorkonden en zal een duur hebben van tien jaren te rekenen vanaf zijn inwerkingtreding. Wanneer het niet is opgezegd zes maanden vóór het verstrijken van dien termijn, zal het beschouwd worden als stilzwijgend te zijn verlengd voor een nieuw tijdvak van vijf jaar en zoo vervolgens.
 

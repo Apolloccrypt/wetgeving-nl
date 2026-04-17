@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de zetel van het UNESCO-IHE instituut voor wateropleiding"
 identifier: "BWBV0001582"
-categorie: "Onderwijs"
-publicatiedatum: 2018-03-02
-laatste_update: 2018-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001582"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-03-02"
+last_updated: "2018-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001582"
+soort: "verdrag"
+stam_id: "10000013383"
+version_id: "10005901452"
+internal_id: "C10009414891"
+label_id: "10000013604"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001582/2018-03-02/0"
+intitule_bron: "Trb.2018-107"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2018-07-18"
+intitule_in_force: "2018-07-18"
+intitule_status: "vervallen"
+original_publication: "Trb.2018-107"
+original_published_date: "2018-07-18"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2018-107"
+entry_into_force_date: "2018-03-02"
+jci_1_3: "jci1.3:c:BWBV0001582&z=2018-03-02&g=2018-03-02"
+jci_1_0: "1.0:c:BWBV0001582&g=2018-03-02"
+citeertitel_status: "officieel"
+entry_into_force: "2018-03-02"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de zetel van het UNESCO-IHE instituut voor wateropleiding
 
 The Kingdom of the Netherlands
@@ -26,67 +48,67 @@ Desiring, therefore, to conclude an Agreement for the purpose of determining suc
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 Vervallen
 
-#### Article 2. Application of the Convention
+##### Article 2. Application of the Convention
 
 Vervallen
 
-#### Article 3. Immunity from Legal Process
+##### Article 3. Immunity from Legal Process
 
 Vervallen
 
-#### Article 4. Inviolability of the Premises
+##### Article 4. Inviolability of the Premises
 
 Vervallen
 
-#### Article 5. Law and authority on the premises of the Institute
+##### Article 5. Law and authority on the premises of the Institute
 
 Vervallen
 
-#### Article 6. Inviolability of the Archives
+##### Article 6. Inviolability of the Archives
 
 Vervallen
 
-#### Article 7. Exemption from Taxes and Duties
+##### Article 7. Exemption from Taxes and Duties
 
 Vervallen
 
-#### Article 8. Privileges and Immunities of Officials
+##### Article 8. Privileges and Immunities of Officials
 
 Vervallen
 
-#### Article 9. Privileges and Immunities of Experts
+##### Article 9. Privileges and Immunities of Experts
 
 Vervallen
 
-#### Article 10. Notification
+##### Article 10. Notification
 
 Vervallen
 
-#### Article 11. Social Security
+##### Article 11. Social Security
 
 Vervallen
 
-#### Article 12. Employment of Family Members of Officials
+##### Article 12. Employment of Family Members of Officials
 
 Vervallen
 
-#### Article 13. Settlement of Disputes
+##### Article 13. Settlement of Disputes
 
 Vervallen
 
-#### Article 14. Amendments to Agreement
+##### Article 14. Amendments to Agreement
 
 Vervallen
 
-#### Article 15. Duration of Agreement and Conditions of Termination
+##### Article 15. Duration of Agreement and Conditions of Termination
 
 Vervallen
 
-#### Article 16. Entry into Force
+##### Article 16. Entry into Force
 
 Vervallen
 

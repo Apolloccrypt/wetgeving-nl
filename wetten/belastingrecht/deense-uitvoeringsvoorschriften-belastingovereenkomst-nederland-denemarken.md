@@ -1,13 +1,38 @@
 ---
-title: "Deense uitvoeringsvoorschriften belastingovereenkomst Nederland-Denemarken"
+title: "Deense voorschriften tot uitvoering van de op 20 februari 1957 tussen Nederland en Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij de Aanvullende Overeenkomst van 20 januari 1966"
 identifier: "BWBR0007353"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-18
-laatste_update: 1997-06-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007353"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-18"
+last_updated: "1997-06-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007353"
+soort: "ministeriele-regeling"
+stam_id: "4274043"
+version_id: "6037662"
+internal_id: "C6241061"
+label_id: "4252634"
+dtd_version: "2.0"
+original_entry_into_force: "1995-04-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007353/1997-06-18/0"
+intitule_bron: "Stcrt.1995-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-04-21"
+intitule_published: "1995-04-26"
+intitule_in_force: "1995-04-26"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-81"
+original_signed_date: "1995-04-21"
+original_published_date: "1995-04-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-04-28"
+jci_1_3: "jci1.3:c:BWBR0007353&z=1997-06-18&g=1997-06-18"
+jci_1_0: "1.0:c:BWBR0007353&g=1997-06-18"
+citeertitel_status: "officieel"
+short_title: "Deense uitvoeringsvoorschriften belastingovereenkomst Nederland-Denemarken"
+signed_date: "1995-04-21"
+entry_into_force: "1995-04-28"
 ---
-
 # Deense voorschriften tot uitvoering van de op 20 februari 1957 tussen Nederland en Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzigd bij de Aanvullende Overeenkomst van 20 januari 1966
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 #### Regeling inzake vermindering of vrijstelling van Deense belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 20 februari 1957 tussen Nederland en Denemarken gesloten Overeenkomst tot het vermijden van dubbele belasting en tot het vaststellen van regelen voor wederzijdse administratieve hulp met betrekking tot belastingen van inkomsten en van vermogen (Trb. 1957, nr. 52), zoals deze is gewijzigd bij de Aanvullende Overeenkomst van 20 januari 1966 (Trb. 1966, nr. 103), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -28,7 +53,7 @@ Aan de op 20 februari 1957 tussen Nederland en Denemarken gesloten Overeenkomst 
 
 - d. algehele vrijstelling van Deense belasting op royalty's (zijnde elke royalty of ander bedrag betaald als vergoeding voor het gebruik van of voor recht van gebruik van een auteursrecht, octrooi, model, geheim procédé of recept, handelsmerk of andere soortgelijke zaak, en voor het gebruik van nijverheids-, handels- of wetenschappelijke uitrusting, zomede elke royalty of ander bedrag betaald ter zake van het recht om enig werk op het gebied van letterkunde, toneel, muziek of op het gebied van andere kunsten te vervaardigen, weer te geven of na te maken), afkomstig uit Denemarken. Royalty's met betrekking tot de exploitatie van een mijn of steengroeve of tot enige andere onttrekking aan een natuurlijke hulpbron worden niet als royalty aangemerkt (artikel 11, paragraaf 3). De in de onderdelen a tot en met d van dit artikel bedoelde vermindering en vrijstellingen zijn niet van toepassing indien de dividenden, de interest of de royalty's zijn toe te rekenen aan een vaste inrichting die de genieter van deze inkomsten in Denemarken heeft (artikel 9, paragraaf 4, respectievelijk artikel 10, paragraaf 2, en artikel 11, paragraaf 2).
 
-#### Artikel 2. Deense regeling
+##### Artikel 2. Deense regeling
 
 Ter uitvoering van artikel 1 is van Deense zijde de volgende regeling getroffen:
 
@@ -46,11 +71,11 @@ Ter uitvoering van artikel 1 is van Deense zijde de volgende regeling getroffen:
 
 - **Verkrijgbaarheid van de formulieren** Exemplaren van de formulieren F. 55 (E), U 20 X en U 79 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Denemarken bij het Told- og Skatteregion - København 1 (City), Materieldepotet, bygn. D, Strandgade 100, 1401 København K.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De regeling van de Staatssecretaris van Financiën van 26 november 1990, nr. IFZ90/1864 (Staatscourant van 26 november 1990, nr. 230), wordt ingetrokken, met dien verstande evenwel dat de bepalingen van die regeling van toepassing blijven met betrekking tot dividenden, interest en royalty's die zijn betaald of betaalbaar zijn gesteld vóór 1 april 1992.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als Deense uitvoeringsvoorschriften belastingovereenkomst Nederland-Denemarken.
 

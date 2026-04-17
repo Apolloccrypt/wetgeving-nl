@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten"
+title: "Beleidsregel van de Minister van Financiën van 7 december 2025, 2025-0000548953, over de bepaling van de hoogte van bestuurlijke boetes bij overtreding van artikel 47 juncto artikelen 19, eerste lid en 15a, tweede en derde lid, van de Handelsregisterwet 2007 (Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten)"
 identifier: "BWBR0052090"
-categorie: "Strafrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052090"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052090"
+soort: "beleidsregel"
+stam_id: "17717833"
+version_id: "31268052"
+internal_id: "C44708811"
+label_id: "17616374"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052090/2026-01-01/0"
+intitule_bron: "Stcrt.2025-44689"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-07"
+intitule_published: "2025-12-31"
+intitule_in_force: "2025-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44689"
+original_signed_date: "2025-12-07"
+original_published_date: "2025-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-44689"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052090&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052090&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten"
+signed_date: "2025-12-07"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel van de Minister van Financiën van 7 december 2025, 2025-0000548953, over de bepaling van de hoogte van bestuurlijke boetes bij overtreding van artikel 47 juncto artikelen 19, eerste lid en 15a, tweede en derde lid, van de Handelsregisterwet 2007 (Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten)
 
 Gelet op [artikel 47b van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=47b);
 
 BESLUIT:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - g. **wettelijk maximumbedrag:** het bedrag bedoeld in [artikel 47b, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=47b).
 
-#### Artikel 2. Bepaling hoogte bestuurlijke boete
+##### Artikel 2. Bepaling hoogte bestuurlijke boete
 
 1. De minister kan een overtreding beboeten met een bestuurlijke boete ter hoogte van tien procent van het wettelijk maximumbedrag.
 
@@ -50,11 +76,11 @@ In deze beleidsregel wordt verstaan onder:
 
 5. De stelplicht en de bewijslast van omstandigheden die kunnen leiden tot matiging van de hoogte van een bestuurlijke boete rusten op de overtreder.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 1 januari 2026, treedt het in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2026.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boetes handhaving registratie uiteindelijk belanghebbenden van vennootschappen en andere juridische entiteiten.
 

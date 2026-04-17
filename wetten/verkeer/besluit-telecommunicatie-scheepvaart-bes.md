@@ -1,18 +1,43 @@
 ---
 title: "Besluit telecommunicatie scheepvaart BES"
 identifier: "BWBR0028399"
-categorie: "Verkeer"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028399"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028399"
+soort: "AMvB-BES"
+stam_id: "10774643"
+version_id: "17751352"
+internal_id: "C24777791"
+label_id: "10749694"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028399/2010-10-10/0"
+intitule_bron: "Stb.2010-451"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-451"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-451"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028399&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028399&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit telecommunicatie scheepvaart BES
 
 #### § 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,17 +95,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - aa. **zeegebied A4:** een gebied liggende buiten de zeegebieden A1, A2 en A3.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op de [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=13), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=19), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=31) en [33 van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=33).
 
 #### § 2. Algemene bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden, onverminderd de regels gesteld bij en krachtens artikel 101 van het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880), bij en krachtens het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342) voor zover betrekking hebbende op maritieme radiocommunicatie alsmede, tenzij anders bepaald, gesteld bij en krachtens het [Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621), de navolgende bepalingen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De geldigheidsduur van machtigingen voor de in dit besluit bedoelde radio-elektrische zend- en ontvanginrichtingen bedraagt 5 jaren.
 
@@ -98,19 +123,19 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 5. Bij de machtiging of de voorlopige machtiging wordt een bijlage gevoegd waarop de apparatuur is vermeld waarvoor het geldt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bediening van de in dit besluit bedoelde zend- en ontvanginrichtingen door anderen dan de houder van een eerste klasse radio elektronisch certificaat of een tweede klasse radio elektronisch certificaat dan wel een algemeen certificaat maritieme radiocommunicatie als bedoeld in onderscheidenlijk de artikelen 3890B, 3890C en 3890D van het radioreglement, is, behoudens in de gevallen waarin is aangegeven dat de bediening ook mag geschieden door de houder van een beperkt certificaat maritieme radiocommunicatie als bedoeld in artikel 3890E van het radioreglement of de houder van een certificaat VHF marifonie als bedoeld in de artikelen 3887 of 3945 van het radioreglement of een ander al dan niet onder toezicht van een certificaathouder, verboden.
 
 2. Ten bewijze dat de houder van een der in het eerste lid bedoelde certificaten bevoegd is tot het bedienen van de in dat certificaat bedoelde zendinrichting, dient de houder steeds desgevraagd dit certificaat aan te kunnen tonen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zodra een zend- of ontvanginrichting als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=3&z=2010-10-10&g=2010-10-10), voor gebruik gereed is, stelt de machtiginghouder Onze Minister daarvan in kennis ten einde de keuring, bedoeld in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), onderscheidenlijk [69, eerste lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69), te kunnen doen plaatsvinden.
 
 2. Het bewijs van goedkeuring, bedoeld in de in het eerste lid genoemde artikelleden van het [Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621), wordt onverwijld na de afgifte daarvan in afschrift gezonden aan de Inspectie Verkeer en Waterstaat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwijking van [artikel 38, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), onderscheidenlijk [69, tweede lid, van het Besluit radio-elektrische inrichtingen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69) kan de aldaar bedoelde keuring op schepen die niet vanuit een haven van een openbaar lichaam werkzaam zijn, worden verricht door instanties die daarvoor door Onze Minister zijn erkend.
 
@@ -118,7 +143,7 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 3. Zo spoedig mogelijk na kennisgeving van de verlening van de in het tweede lid bedoelde certificaten door de overlegging van een kopie van deze certificaten aan Onze Minister, wordt het in [artikel 38, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=38), onderscheidenlijk [artikel 69, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028621&artikel=69), bedoelde bewijs van goedkeuring afgegeven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De zendinrichting van jachten en andere vaartuigen waarop het [Schepenbesluit 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0016880) of het [Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342) niet van toepassing zijn en die varen in het zeegebied A1, binnen het bereik van een VHF kuststation en die belast zijn met reddingswerkzaamheden op zee, vaartuigen die passagiers of vracht vervoeren en vaartuigen die buitengaats hun werkzaamheden verrichten zijn uitgerust overeenkomstig de eisen gesteld in artikel 10 van Bijlage V behorende bij het Schepenbesluit 2004.
 
@@ -128,7 +153,7 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 4. De kapitein of de eigenaar van een vaartuig is verplicht bij het daarvoor in aanmerking komende havenkantoor melding te doen van ieder vertrek buitengaats en iedere aankomst vanuit zee. Gedurende de vaart behoort het vaartuig enkele keren per dag verbinding te onderhouden met het daarvoor in aanmerking komende kuststation of indien het jachten betreft met de daarvoor in aanmerking komende jachthaven.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Alvorens te gaan zenden overtuigt de machtiginghouder zich ervan dat de radiocommunicatie van medegebruikers van de betreffende frequentie niet zal worden gehinderd.
 
@@ -136,13 +161,13 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 3. Aan uitzendingen met betrekking tot noodgevallen wordt voorrang verleend boven andere uitzendingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien een zendinrichting wordt gebruikt ten behoeve van het nood-, spoed- en veiligheidsverkeer worden voor de afwikkeling van dat radioverkeer de procedures – voor zover van toepassing – in acht genomen die zijn beschreven in de hoofdstukken IX en IX N van het radioreglement.
 
 2. Het handboek waarin deze procedures zijn opgenomen, dient bij de zendinrichting aanwezig te zijn.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij het begin en bij het einde van elke uitzending dient de machtiginghouder de internationaal vastgestelde roepletters dan wel identificatiecode ten minste eenmaal uit te zenden. Is de uitzending opgebouwd uit kortdurende uitzendingen dan wordt deze reeks kortdurende uitzendingen aangemerkt als één uitzending.
 
@@ -211,13 +236,13 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 | 8 | Oktoeight (Okt-too-eejt) | --... |
 | 9 | Novenine (No-vee-nain) | -.... |
 
-#### Artikel 11
+##### Artikel 11
 
 1. De machtiginghouder mag een zendinrichting gedurende korte tijd testen en neemt daarbij de internationale voorschriften in acht.
 
 2. Tijdens het testen van de zendinrichting dient het woord «test» te worden uitgesproken, gevolgd door de roepletters. Bij het spellen wordt gebruik gemaakt van het in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=10&z=2010-10-10&g=2010-10-10), opgenomen spellingsalfabet.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De machtiginghouder is bevoegd de zend- en ontvanginrichting te gebruiken ten dienste van de veiligheid van de scheepvaart dan wel ten dienste van het al dan niet openbaar verkeer.
 
@@ -231,7 +256,7 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 #### § 3. Overige verplichtingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De machtiginghouder is verplicht Onze Minister onverwijld schriftelijk in kennis te stellen van:
 
@@ -247,7 +272,7 @@ Ter zake van telecommunicatievoorzieningen ten behoeve van de scheepvaart gelden
 
 5. Ten aanzien van wijzigingen en vervangingen als bedoeld in het eerste lid, onderdeel a, zijn de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=5&z=2010-10-10&g=2010-10-10) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10) van overeenkomstige toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 De machtiginghouder onderscheidenlijk de gezagvoerder van een schip is verplicht het geheim te bewaren van alle berichten welke door middel van de inrichting te zijner kennis komen, voor zover niet voor hem of een der opvarenden bestemd.
 
@@ -255,7 +280,7 @@ De machtiginghouder onderscheidenlijk de gezagvoerder van een schip is verplicht
 
 #### I. Maritieme VHF- en UHF-radiocommunicatie
 
-#### Artikel 15
+##### Artikel 15
 
 1. De machtiginghouder is gehouden de marifoonkanalen te gebruiken overeenkomstig de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&bijlage=2&z=2010-10-10&g=2010-10-10) behorend bij dit besluit gegeven bestemming.
 
@@ -269,37 +294,37 @@ De machtiginghouder onderscheidenlijk de gezagvoerder van een schip is verplicht
 
 6. De uitvoering van de marifoon moet zodanig zijn dat het vermogen verlaagd kan worden tot 1 watt.
 
-#### Artikel 16
+##### Artikel 16
 
 De machtiginghouder mag de marifoon tijdelijk aanwezig hebben op een andere plaats dan in de beschikking staat aangegeven, mits de machtiginghouder passende maatregelen treft ter voorkoming van het gebruik van de marifoon.
 
 #### II. Draagbare maritieme VHF-radiocommunicatie-apparatuur
 
-#### Artikel 17
+##### Artikel 17
 
 Een portofoon mag alleen worden gebruikt voor uitwisseling van nautische informatie met en tussen schepen.
 
-#### Artikel 18
+##### Artikel 18
 
 De bediening van een portofoon mag ook geschieden door de houder van een beperkt certificaat maritieme radiocommunicatie of een certificaat VHF marifonie.
 
 #### III. Maritieme MF- en HF-radiocommunicatie
 
-#### Artikel 19
+##### Artikel 19
 
 Alle uitzendingen van een scheepsstation worden onmiddellijk gestaakt zodra een kuststation of een kustwachtpost dit verzoekt.
 
-#### Artikel 20
+##### Artikel 20
 
 De machtiginghouder mag uitsluitend gebruik maken van de kanalen, de frequenties, het zendvermogen en klasse van uitzending zoals staat aangegeven op het bewijs van goedkeuring.
 
-#### Artikel 21
+##### Artikel 21
 
 Het is, behoudens in door Onze Minister te bepalen gevallen, verboden een scheepsstation te gebruiken buiten de toegestane frequenties die zijn aangegeven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&bijlage=2&z=2010-10-10&g=2010-10-10), alsmede indien het scheepsstation storing veroorzaakt.
 
 #### IV. Kuststation en beperkt kuststation
 
-#### Artikel 22
+##### Artikel 22
 
 1. De machtiginghouder mag een kuststation of beperkt kuststation uitsluitend gebruiken voor radiocommunicatie met opvarenden van schepen binnen het op de machtiging aangegeven werkingsgebied, dan wel voor radiocommunicatie met opvarenden van schepen toebehorend aan of varend in opdracht van de machtiginghouder.
 
@@ -315,23 +340,23 @@ Het is, behoudens in door Onze Minister te bepalen gevallen, verboden een scheep
 
 #### V. Scheepssatellietstations
 
-#### Artikel 23
+##### Artikel 23
 
 De machtiginghouder is uitsluitend bevoegd het scheepssatellietstation te gebruiken voor nood-, spoed- en veiligheidsverkeer en algemeen communicatieverkeer door middel van een satellietsysteem.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor zover de afwikkeling van het berichtenverkeer geschiedt door middel van een satellietsysteem, worden de door de organisatie die het satellietsysteem beheert voorgeschreven procedures in acht genomen.
 
 2. De voorgeschreven procedures worden als bijlage bij de machtiging verstrekt.
 
-#### Artikel 25
+##### Artikel 25
 
 Behoudens voor zover het scheepssatellietstation wordt gebruikt voor nood-, spoed- en veiligheidsverkeer, mag de bediening ervan ook geschieden door degenen die niet in het bezit zijn van een algemeen certificaat maritieme radiocommunicatie.
 
 #### VI. Zend- en ontvanginrichtingen ten behoeve van het nautisch onderwijs
 
-#### Artikel 26
+##### Artikel 26
 
 1. De machtiginghouder mag een zendinrichting uitsluitend gebruiken ten behoeve van het verkrijgen van praktische ervaring met het tot stand brengen van radioverbindingen door cursisten.
 
@@ -339,19 +364,19 @@ Behoudens voor zover het scheepssatellietstation wordt gebruikt voor nood-, spoe
 
 3. In afwijking van het bepaalde in het tweede lid is radiocommunicatie met een kuststation, een beperkt kuststation of enig ander maritiem station geoorloofd met toestemming van dat station.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De machtiginghouder is slechts bevoegd de zendinrichting te gebruiken op de maritieme frequenties, genoemd in het radioreglement ten behoeve van UHF-, VHF-, MF- en HF- radiocommunicatie met inbegrip van DSC en DPT.
 
 2. De machtiginghouder mag de zendinrichting slechts doen gebruiken door daartoe door hem aangewezen docenten die in het bezit zijn van een geldig algemeen certificaat voor maritieme radiocommunicatie als bedoeld in artikel 55 van het radioreglement. Mits onder toezicht van deze docenten, mogen de zendinrichtingen tevens door cursisten worden gebruikt.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Gebruik van een zendinrichting buiten de lesuren is verboden.
 
 2. De machtiginghouder dient passende maatregelen te treffen ter voorkoming van onbevoegd gebruik van de zendinrichting.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De MF/HF zendinrichting dient zodanig te zijn ingericht dat:
 
@@ -373,11 +398,11 @@ Behoudens voor zover het scheepssatellietstation wordt gebruikt voor nood-, spoe
 
 #### § 5. Examens
 
-#### Artikel 30
+##### Artikel 30
 
 Ter verkrijging van een algemeen certificaat maritieme radiocommunicatie, beperkt certificaat maritieme radiocommunicatie of een certificaat VHF marifonie, voor de bediening van zendinrichtingen ten behoeve van de scheepvaart, kan Onze Minister categorieën van examens vaststellen naargelang de aard van de bevoegdheden die aan het desbetreffende certificaat van bediening zullen zijn verbonden. Examens voor de eerste en tweede klasse radio elektronische certificaten als bedoeld in onderscheidenlijk de artikelen 3890 B en 3890 C van het radioreglement worden niet in een openbaar lichaam afgenomen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Een examen wordt afgenomen door een bij besluit in te stellen commissie.
 
@@ -397,25 +422,25 @@ Ter verkrijging van een algemeen certificaat maritieme radiocommunicatie, beperk
 
 #### § 6. Strafbepaling
 
-#### Artikel 32
+##### Artikel 32
 
 Het is een strafbaar feit als bedoeld in [artikel 35, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=35) om een verbod als omschreven in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10), [15, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=4&sub-paragraaf=I&artikel=15&z=2010-10-10&g=2010-10-10), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=4&sub-paragraaf=III&artikel=21&z=2010-10-10&g=2010-10-10), [22, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=4&sub-paragraaf=IV&artikel=22&z=2010-10-10&g=2010-10-10), [26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=4&sub-paragraaf=VI&artikel=26&z=2010-10-10&g=2010-10-10), en [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=4&sub-paragraaf=VI&artikel=28&z=2010-10-10&g=2010-10-10), te overtreden.
 
 #### § 9. Overgangs- en slotbepalingen
 
-#### Artikel 33
+##### Artikel 33
 
 De geldigheidsduur van een machtiging die is verleend krachtens [artikel 15, eerste lid, van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=15) en die bestemd is voor maritieme communicatie bedraagt vijf jaar gerekend van af het tijdstip van vergunning verlening.
 
-#### Artikel 34
+##### Artikel 34
 
 Een erkenning die is verleend krachtens artikel 6, eerste lid, van het Landsbesluit telecommunicatie scheepvaart wordt gelijkgesteld met een erkenning verleend krachtens [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 34a
+##### Artikel 34a
 
 Een ontheffing die is verleend krachtens artikel 31, derde lid, van het Landsbesluit telecommunicatie scheepvaart wordt gelijkgesteld met een ontheffing verleend krachtens [artikel 31, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028399&paragraaf=5&artikel=31&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 35
+##### Artikel 35
 
 Dit besluit wordt aangehaald als: Besluit telecommunicatie scheepvaart BES.
 

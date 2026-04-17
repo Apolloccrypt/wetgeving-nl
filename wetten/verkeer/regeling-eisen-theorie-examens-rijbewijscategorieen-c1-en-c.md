@@ -1,13 +1,39 @@
 ---
-title: "Regeling eisen theorie-examens rijbewijscategorieën C1 en C"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21909, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën C1 en C (Regeling eisen theorie-examens rijbewijscategorieën C1 en C)"
 identifier: "BWBR0031429"
-categorie: "Verkeer"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031429"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031429"
+soort: "ministeriele-regeling"
+stam_id: "11703823"
+version_id: "28881222"
+internal_id: "C40887271"
+label_id: "11676534"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031429/2024-07-01/0"
+intitule_bron: "Stcrt.2012-6456"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-27"
+intitule_published: "2012-04-04"
+intitule_in_force: "2012-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-23626"
+original_signed_date: "2022-09-06"
+original_published_date: "2022-09-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-23626"
+entry_into_force_date: "2022-09-14"
+jci_1_3: "jci1.3:c:BWBR0031429&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0031429&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen theorie-examens rijbewijscategorieën C1 en C"
+signed_date: "2022-09-06"
+entry_into_force: "2022-09-14"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21909, houdende vaststelling van de eisen voor de theorie-examens voor de rijbewijscategorieën C1 en C (Regeling eisen theorie-examens rijbewijscategorieën C1 en C)
 
 Gelet op [richtlijn nr. 2006/126/EG](32006L0126) van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, v
 
 #### § 1. Eisen theorie-examens rijbewijscategorie C1
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde voorschriften, alsmede kennis van en inzicht van die voorschriften voor zover deze gelden voor andere verkeersdeelnemers:
 
@@ -36,7 +62,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - g. van de [Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415): [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis van en inzicht te bezitten in de hierna genoemde factoren en risico’s die van belang zijn bij deelneming aan het verkeer:
 
@@ -62,7 +88,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - k. het veilig rijden in tunnels.
 
-#### Artikel 3
+##### Artikel 3
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis te bezitten van de mechanische onderdelen die voor de rijveiligheid bij deelneming aan het verkeer van belang zijn en in staat zijn de meest voorkomende defecten te ontdekken die zich met name kunnen voordoen aan
 
@@ -88,7 +114,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - k. veiligheidsgordels.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis te bezitten:
 
@@ -106,7 +132,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - g. veiligheidseisen met betrekking tot het voertuig, de lading en de passagiers.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk geven kennis te bezitten van:
 
@@ -122,7 +148,7 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 #### § 2. Eisen theorie-examen rijbewijscategorie C
 
-#### Artikel 6
+##### Artikel 6
 
 1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2024-07-01&g=2024-07-01) zijn van overeenkomstige toepassing op de aanvragers van het theorie-examen voor de rijbewijscategorie C.
 
@@ -150,27 +176,27 @@ De aanvrager van het theorie-examen voor de rijbewijscategorie C1 moet blijk gev
 
 - k. de verantwoordelijkheid van de bestuurder voor de ontvangst, het vervoer en de aflevering van goederen volgens afspraak.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
 #### § 3. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De eisen, bedoeld in de [artikelen 1 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0031429&paragraaf=1&artikel=1&z=2024-07-01&g=2024-07-01), worden nader uitgewerkt door het CBR. Deze eisen worden bekendgemaakt op de website van het CBR.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling eisen theorie-examens rijbewijscategorieën C1 en C.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 

@@ -1,54 +1,82 @@
 ---
-title: "Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering)"
+title: "Wet van 13 december 2007 tot wijziging van de Zorgverzekeringswet en andere wetten met het oog op het verzwaren van het premie-incassoregime en andere maatregelen om de werking van het met die wet en de Wet op de zorgtoeslag in het leven geroepen stelsel te optimaliseren (verzwaren incassoregime premie en andere maatregelen zorgverzekering)"
 identifier: "BWBR0023058"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-11-27
-laatste_update: 2009-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023058"
+country: "nl"
+rank: "wet"
+publication_date: "2009-11-27"
+last_updated: "2009-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023058"
+soort: "wet"
+stam_id: "9327103"
+version_id: "14985522"
+internal_id: "C20396171"
+label_id: "9305574"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023058/2009-11-27/0"
+intitule_bron: "Stb.2007-540"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-13"
+intitule_published: "2007-12-20"
+intitule_in_force: "2007-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2007-540"
+original_signed_date: "2007-12-13"
+original_published_date: "2007-12-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "30918"
+original_url_id: "stb-2007-540"
+entry_into_force_date: "2007-12-21"
+entry_into_force_dossier: "30918"
+jci_1_3: "jci1.3:c:BWBR0023058&z=2009-11-27&g=2009-11-27"
+jci_1_0: "1.0:c:BWBR0023058&g=2009-11-27"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering)"
+signed_date: "2007-12-13"
+entry_into_force: "2007-12-21"
 ---
+# Wet van 13 december 2007 tot wijziging van de Zorgverzekeringswet en andere wetten met het oog op het verzwaren van het premie-incassoregime en andere maatregelen om de werking van het met die wet en de Wet op de zorgtoeslag in het leven geroepen stelsel te optimaliseren (verzwaren incassoregime premie en andere maatregelen zorgverzekering)
 
-# Wijzigingswet Zorgverzekeringswet, enz. (verzwaren incassoregime premie en andere maatregelen zorgverzekering)
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet.
 
-#### Artikel III
+##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet toelating zorginstellingen.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt deze wet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De [Regeling bezoldiging en beheerskosten bestuursorganen volksgezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0019253) berust na de inwerkingtreding van deze wet op de [artikelen 59, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=59), en [75, derde en vierde lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=75), de [artikelen 4, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=4), en [14, derde en vierde lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=14) en de [artikelen 20, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=20), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=27) en [32 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=32).
 
 2. De [Regeling zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018715) berust na de inwerkingtreding van deze wet mede op [artikel 69, zevende lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=69).
 
-#### Artikel X
+##### Artikel X
 
 1. Deze wet, met uitzondering van [artikel I, onderdelen C en I](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=I&z=2009-11-27&g=2009-11-27), en [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBR0023058&artikel=III&z=2009-11-27&g=2009-11-27), die in werking treden op een bij koninklijk besluit te bepalen tijdstip, treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 

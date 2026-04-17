@@ -1,13 +1,35 @@
 ---
 title: "Circulaire Beleidskader rechtspositie stagiairs bij de sector Rijk"
 identifier: "BWBR0043274"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-03-16
-laatste_update: 2020-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043274"
+country: "nl"
+rank: "circulaire"
+publication_date: "2020-03-16"
+last_updated: "2020-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043274"
+soort: "circulaire"
+stam_id: "15364883"
+version_id: "26562272"
+internal_id: "C37692071"
+label_id: "15309854"
+dtd_version: "2.0"
+original_entry_into_force: "2020-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043274/2020-03-16/0"
+intitule_bron: "Stcrt.2020-14861"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-03-16"
+intitule_in_force: "2020-03-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-14861"
+original_published_date: "2020-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-14861"
+entry_into_force_date: "2020-03-16"
+jci_1_3: "jci1.3:c:BWBR0043274&z=2020-03-16&g=2020-03-16"
+jci_1_0: "1.0:c:BWBR0043274&g=2020-03-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-03-16"
 ---
-
 # Circulaire Beleidskader rechtspositie stagiairs bij de sector Rijk
 
 ### 1. Inleiding

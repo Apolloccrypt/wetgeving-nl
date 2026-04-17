@@ -1,13 +1,35 @@
 ---
 title: "Bijzonder Protocol inzake de aanvullende uitkering ingevolge de Franse wet van 30 juni 1956 houdende instelling van een “Fonds National de Solidarité”"
 identifier: "BWBV0005687"
-categorie: "Sociaal recht"
-publicatiedatum: 1958-12-01
-laatste_update: 1958-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005687"
+country: "nl"
+rank: "verdrag"
+publication_date: "1958-12-01"
+last_updated: "1958-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005687"
+soort: "verdrag"
+stam_id: "10004813463"
+version_id: "10005117322"
+internal_id: "C10007784421"
+label_id: "10004797224"
+dtd_version: "2.0"
+original_entry_into_force: "1958-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005687/1958-12-01/0"
+intitule_bron: "Trb.1958-32"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1958-03-20"
+intitule_in_force: "1958-12-22"
+intitule_status: "goed"
+original_publication: "Trb.1958-32"
+original_published_date: "1958-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1958-32"
+entry_into_force_date: "1958-12-01"
+jci_1_3: "jci1.3:c:BWBV0005687&z=1958-12-01&g=1958-12-01"
+jci_1_0: "1.0:c:BWBV0005687&g=1958-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-12-01"
 ---
-
 # Bijzonder Protocol inzake de aanvullende uitkering ingevolge de Franse wet van 30 juni 1956 houdende instelling van een “Fonds National de Solidarité”
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Franse Republiek,

@@ -1,14 +1,41 @@
 ---
-title: "Wet Adviescollege ICT-toetsing"
+title: "Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)"
 identifier: "BWBR0049412"
-categorie: "Overig"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049412"
+country: "nl"
+rank: "wet"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049412"
+soort: "wet"
+stam_id: "17039953"
+version_id: "29983042"
+internal_id: "C43071971"
+label_id: "16949684"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049412/2025-02-12/0"
+intitule_bron: "Stb.2024-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-14"
+intitule_published: "2024-02-28"
+intitule_in_force: "2024-04-17"
+intitule_status: "goed"
+original_publication: "Stb.2024-42"
+original_signed_date: "2024-02-14"
+original_published_date: "2024-02-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "36191"
+original_url_id: "stb-2024-42"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049412&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0049412&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Wet Adviescollege ICT-toetsing"
+signed_date: "2024-02-14"
+entry_into_force: "2024-07-01"
 ---
-
-# Wet Adviescollege ICT-toetsing
+# Wet van 14 februari 2024 houdende regels omtrent de instelling van een adviescollege voor de algehele verbetering en beheersing van ICT-projecten en informatiesystemen bij de centrale overheid (Wet Adviescollege ICT-toetsing)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -42,7 +69,7 @@ In deze wet wordt verstaan onder:
 
 #### § 2. Samenstelling en inrichting adviescollege
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescollege ICT-toetsing.
 
@@ -54,11 +81,11 @@ In deze wet wordt verstaan onder:
 
 5. De [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=11) en [12, eerste en derde lid, van Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=12) zijn van overeenkomstige toepassing op het Adviescollege.
 
-#### Artikel 3
+##### Artikel 3
 
 [Artikel 13 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=13) is van overeenkomstige toepassing op het Adviescollege, met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De leden van het Adviescollege hebben zitting op persoonlijke titel en oefenen hun functie uit zonder last en ruggespraak.
 
@@ -66,11 +93,11 @@ In deze wet wordt verstaan onder:
 
 3. Het Adviescollege stelt een integriteitscode op waarin in ieder geval aandacht wordt besteed aan de wijze waarop wordt omgegaan met een situatie als bedoeld in het tweede lid.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen uit zijn midden commissies instellen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister voorziet in een ambtelijk secretariaat van het Adviescollege.
 
@@ -80,7 +107,7 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 #### § 3. Taak en verplichtingen van het Adviescollege
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het Adviescollege heeft ten behoeve van de algehele verbetering van de beheersing van ICT-projecten en informatiesystemen bij de centrale overheid tot taak:
 
@@ -116,7 +143,7 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 7. Het Adviescollege maakt het onderzoeksprotocol openbaar.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Adviescollege bepaalt welke verzoeken om advies in behandeling worden genomen.
 
@@ -136,19 +163,19 @@ Het Adviescollege kan voor de uitvoering of voorbereiding van bepaalde adviezen 
 
 5. Een naschrift als bedoeld in het vierde lid wordt niet aangemerkt als advies.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het Adviescollege maakt een advies als bedoeld in [artikel 7, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), binnen twee weken na aanbieding openbaar.
 
 2. De aanbevelingen, bedoeld in [artikel 7, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12), worden eenmaal per half jaar openbaar gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) en [21 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=21) zijn van toepassing op het Adviescollege.
 
 #### § 4. Bevoegdheden en verplichtingen van Ministers en zelfstandige bestuursorganen ten aanzien van adviezen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister die verantwoordelijk is voor de ICT-voorziening of een zelfstandig bestuursorgaan verzoekt voor aanvang van een ICT-project het Adviescollege om een advies als bedoeld in [artikel 7, eerste lid, onderdeel a, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0049412&paragraaf=3&artikel=7&z=2025-02-12&g=2025-02-12).
 
@@ -170,31 +197,31 @@ De [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) en
 
 #### § 5. Begroting en verantwoording
 
-#### Artikel 12
+##### Artikel 12
 
 De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=25), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=28) en [29 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=29) zijn van toepassing, met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
 #### § 6. Evaluatie
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister zendt binnen vier jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan beide kamers der Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet is niet van toepassing op de wapensystemen van het Ministerie van Defensie.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt deze wet.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet Adviescollege ICT-toetsing.
 

@@ -1,20 +1,42 @@
 ---
 title: "Statuten Stichting Nederlands Fonds voor de Film 2022"
 identifier: "BWBR0047541"
-categorie: "Overig"
-publicatiedatum: 2022-11-29
-laatste_update: 2022-11-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047541"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-11-29"
+last_updated: "2022-11-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047541"
+soort: "zbo"
+stam_id: "16579823"
+version_id: "29071482"
+internal_id: "C41325051"
+label_id: "16499764"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047541/2022-11-29/0"
+intitule_bron: "Stcrt.2022-32043"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-11-29"
+intitule_in_force: "2022-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-32043"
+original_published_date: "2022-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-32043"
+entry_into_force_date: "2022-11-29"
+jci_1_3: "jci1.3:c:BWBR0047541&z=2022-11-29&g=2022-11-29"
+jci_1_0: "1.0:c:BWBR0047541&g=2022-11-29"
+citeertitel_status: "redactioneel"
+entry_into_force: "2022-11-29"
 ---
-
 # Statuten Stichting Nederlands Fonds voor de Film 2022
 
 ### Statuten
 
 #### Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 ln de statuten wordt verstaan onder:
 
@@ -28,7 +50,7 @@ ln de statuten wordt verstaan onder:
 
 #### Naam en zetel
 
-#### Artikel 2
+##### Artikel 2
 
 1. De stichting draagt de naam: ****Stichting Nederlands Fonds voor de Film****.
 
@@ -36,7 +58,7 @@ ln de statuten wordt verstaan onder:
 
 #### Doel en middelen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De stichting heeft ten doel:
 
@@ -60,7 +82,7 @@ ln de statuten wordt verstaan onder:
 
 #### Vermogen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het vermogen van de stichting wordt gevormd door:
 
@@ -76,7 +98,7 @@ ln de statuten wordt verstaan onder:
 
 #### Bestuur: samenstelling, benoeming en defungeren
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestuur van de stichting bestaat uit een door de raad van toezicht vast te stellen aantal van ten minste één en ten hoogste twee natuurlijke personen. Een niet voltallig bestuur behoudt zijn bevoegdheden. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -114,7 +136,7 @@ ln de statuten wordt verstaan onder:
 
 #### Bestuur: taak en bevoegdheden
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur is belast met het besturen van de stichting en met het beheer van en de beschikking over het vermogen van de stichting binnen de grenzen van haar doel en binnen de grenzen van een door de raad van toezicht goed te keuren bestuursreglement en onverminderd het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0047541&artikel=9&z=2022-11-29&g=2022-11-29). Bij de vervulling van hun taak richten de bestuurders zich naar het belang van de stichting en de met haar verbonden onderneming of organisatie.
 
@@ -146,7 +168,7 @@ Onder belet wordt in deze statuten in ieder geval verstaan de omstandigheid dat
 
 #### Bestuur: vertegenwoordiging
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur vertegenwoordigt de stichting.
 
@@ -156,7 +178,7 @@ Onder belet wordt in deze statuten in ieder geval verstaan de omstandigheid dat
 
 #### Bestuur: besluitvorming en taakverdeling
 
-#### Artikel 8
+##### Artikel 8
 
 1. In geval er meerdere bestuursleden zijn stelt het bestuur een bestuursreglement op en legt dit ter goedkeuring voor aan de raad van toezicht. Hierin regelt het bestuur zijn besluitvorming, wanneer toestemming van de raad van toezicht is vereist en de werkwijze, waarin begrepen de informatievoorziening aan de raad van toezicht. In dat kader wordt bepaald met welke taak iedere bestuurder zal zijn belast. Doet het bestuur geen voorstel voor een bestuursreglement, dan is de raad van toezicht bevoegd het bestuursreglement vast te stellen, met inachtneming van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0047541&artikel=17&z=2022-11-29&g=2022-11-29).
 
@@ -174,7 +196,7 @@ Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit geno
 
 #### Goedkeuring besluiten van het bestuur
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd het elders in deze statuten bepaalde, zijn aan de goedkeuring van de raad van toezicht onderworpen de besluiten van het bestuur omtrent:
 
@@ -214,13 +236,13 @@ Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit geno
 
 #### Verlenen van subsidie
 
-#### Artikel 10
+##### Artikel 10
 
 Het bestuur beslist over het verlenen van subsidie met inachtneming van het bepaalde in [artikel 9 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047541&artikel=9&z=2022-11-29&g=2022-11-29) en met inachtneming van een door het bestuur vast te stellen reglement als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0047541&artikel=17&z=2022-11-29&g=2022-11-29).
 
 #### Raad van toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 1. De stichting heeft een raad van toezicht, bestaande uit een door de Minister vast te stellen aantal van ten minste drie en ten hoogste zeven natuurlijke personen. In ontstane vacatures wordt zo spoedig mogelijk voorzien.
 
@@ -260,7 +282,7 @@ Aan de leden van de raad van toezicht kan een niet bovenmatig vacatiegeld worden
 
 #### Raad van toezicht: taak en bevoegdheden
 
-#### Artikel 12
+##### Artikel 12
 
 1. De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in de stichting. Hij staat het bestuur met raad terzijde. Bij de vervulling van hun taak richten de leden van de raad van toezicht zich naar het belang van de stichting en de met haar verbonden onderneming of organisatie.
 
@@ -276,7 +298,7 @@ Aan de leden van de raad van toezicht kan een niet bovenmatig vacatiegeld worden
 
 #### Vergaderingen van de raad van toezicht en besluiten van de raad van toezicht
 
-#### Artikel 13
+##### Artikel 13
 
 1. De raad van toezicht vergadert minimaal twee keer per jaar of zoveel vaker als wenselijk of noodzakelijk is voor het goed functioneren van de raad van toezicht, volgens een vastgesteld schema waarin de data voor het komende jaar en de te behandelen onderwerpen zijn opgenomen.
 
@@ -338,7 +360,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Gemeenschappelijke vergadering van de bestuurders en de leden van de raad van toezicht
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ten minste eenmaal per jaar komen de bestuurders en de leden van de raad van toezicht in gemeenschappelijke vergadering bijeen ter bespreking van de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.
 
@@ -348,7 +370,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Boekjaar en jaarstukken
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het boekjaar van de stichting valt samen met het kalenderjaar.
 
@@ -368,7 +390,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Vaststelling en goedkeuring van de jaarrekening
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het bestuur stelt de jaarrekening vast en legt deze ter goedkeuring over aan de raad van toezicht.
 
@@ -378,7 +400,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Reglementen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ter uitvoering van het in deze statuten bepaalde stelt het bestuur één of meer reglementen vast, waarin in elk geval worden geregeld de werkwijze, de procedures en de criteria die het bestuur bij het beslissen op aanvragen van subsidies hanteert, alsmede de voorschriften die aan een toekenning van een subsidie worden verbonden. De Minister kan met betrekking tot genoemde onderwerpen het bestuur voorschrijven terzake een reglement te wijzigen.
 
@@ -390,7 +412,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Statutenwijziging
 
-#### Artikel 18
+##### Artikel 18
 
 1. De raad van toezicht is bevoegd de statuten te wijzigen. Het besluit van de raad van toezicht tot statutenwijziging is onderworpen aan de voorafgaande schriftelijke goedkeuring van de Minister.
 
@@ -408,7 +430,7 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Ontbinding en vereffening
 
-#### Artikel 19
+##### Artikel 19
 
 1. De raad van toezicht is bevoegd de stichting te ontbinden, doch niet eerder dan nadat voor dit besluit voorafgaande schriftelijke goedkeuring van de Minister is ontvangen.
 
@@ -428,6 +450,6 @@ Onder belet wordt in deze statuten verstaan de omstandigheid dat het lid van de 
 
 #### Slotbepaling
 
-#### Artikel 20
+##### Artikel 20
 
 ln alle gevallen waarin zowel de wet als de statuten niet voorzien, beslist de raad van toezicht.

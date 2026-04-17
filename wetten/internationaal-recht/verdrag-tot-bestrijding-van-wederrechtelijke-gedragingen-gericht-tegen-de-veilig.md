@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart"
 identifier: "BWBV0002724"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-05-30
-laatste_update: 2011-05-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002724"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-05-30"
+last_updated: "2011-05-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002724"
+soort: "verdrag"
+stam_id: "10003065383"
+version_id: "10003068682"
+internal_id: "C10006982161"
+label_id: "10003052134"
+dtd_version: "2.0"
+original_entry_into_force: "1992-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002724/2011-05-30/0"
+intitule_bron: "Trb.1989-17"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-03-05"
+intitule_published: "1989-01-27"
+intitule_in_force: "1992-05-08"
+intitule_status: "goed"
+original_publication: "Trb.1989-17"
+original_signed_date: "1992-03-05"
+original_published_date: "1989-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1989-17"
+entry_into_force_date: "1992-06-03"
+jci_1_3: "jci1.3:c:BWBV0002724&z=2011-05-30&g=2011-05-30"
+jci_1_0: "1.0:c:BWBV0002724&g=2011-05-30"
+citeertitel_status: "officieel"
+signed_date: "1992-03-05"
+entry_into_force: "1992-06-03"
 ---
-
 # Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart
 
 De Staten-Partijen bij dit Verdrag,
@@ -42,7 +67,7 @@ Erkennend de noodzaak dat alle Staten bij de bestrijding van wederrechtelijke ge
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -98,7 +123,7 @@ Zijn als volgt overeengekomen:
 
 - b). hebben de termen „grondstof” en „speciale splijtstoffen” dezelfde betekenis als die welke daaraan is gegeven in het [Statuut van de Internationale Organisatie voor Atoomenergie](https://wetten.overheid.nl/jci1.3:c:BWBV0004777) (IAEA), gedaan te New York op 26 oktober 1956.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is niet van toepassing op:
 
@@ -110,7 +135,7 @@ Zijn als volgt overeengekomen:
 
 2. Dit Verdrag laat de immuniteiten van oorlogsschepen en andere staatsschepen die niet voor handelsdoeleinden worden gebruikt onverlet.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan een strafbaar feit in de zin van dit Verdrag maakt zich schuldig hij die wederrechtelijk en opzettelijk:
 
@@ -128,17 +153,17 @@ Zijn als volgt overeengekomen:
 
 2. Aan een strafbaar feit maakt zich eveneens schuldig hij die dreigt, al dan niet gepaard gaand met een voorwaarde zoals voorzien in de nationale wetgeving, teneinde een natuurlijke persoon of een rechtspersoon te dwingen tot het verrichten of zich onthouden van een handeling, een van de in het eerste lid, sub b, c en e omschreven strafbare feiten te plegen, indien door deze dreiging de veilige vaart van het schip in kwestie in gevaar kan worden gebracht.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit Verdrag is van toepassing indien het schip wateren in-, uit- of doorvaart, dan wel volgens het vaarschema zal in-, uit- of doorvaren, welke zijn gelegen buiten de buitengrenzen van de territoriale zee van één Staat, of de zijgrenzen van zijn territoriale zee met aangrenzende Staten.
 
 2. Ingeval het Verdrag niet van toepassing is op grond van het eerste lid, is het niettemin van toepassing, indien de dader of de vermoedelijke dader wordt aangetroffen op het grondgebied van een andere dan de in het eerste lid bedoelde Staat-Partij.
 
-#### Artikel 5
+##### Artikel 5
 
 Elke Staat-Partij stelt op de in de artikelen 3, 3**bis**, 3**ter**en 3**quater** omschreven strafbare feiten passende straffen die rekening houden met de ernst van deze feiten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Staat-Partij neemt de maatregelen die nodig kunnen zijn om zijn rechtsmacht te vestigen met betrekking tot de in de artikelen 3, 3**bis**, 3**ter** en 3**quater** omschreven strafbare feiten, wanneer het strafbare feit wordt gepleegd:
 
@@ -162,7 +187,7 @@ Elke Staat-Partij stelt op de in de artikelen 3, 3**bis**, 3**ter**en 3**quater*
 
 5. Dit Verdrag sluit geen enkele in overeenstemming met de nationale wetgeving uitgeoefende rechtsmacht in strafrechtelijke aangelegenheden uit.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een Staat-Partij op het grondgebied waarvan de dader of de vermoedelijke dader zich bevindt, neemt deze, indien hij, ervan overtuigd is dat de omstandigheden zulks wettigen, in overeenstemming met zijn wetgeving, in hechtenis of neemt andere maatregelen ter verzekering van diens aanwezigheid gedurende de tijd die nodig is voor het instellen van strafvervolging of een uitleveringsprocedure.
 
@@ -178,7 +203,7 @@ Elke Staat-Partij stelt op de in de artikelen 3, 3**bis**, 3**ter**en 3**quater*
 
 5. Wanneer een Staat-Partij krachtens dit artikel een persoon in hechtenis heeft genomen, stelt hij de Staten die overeenkomstig artikel 6, eerste lid, hun rechtsmacht hebben vastgelegd, alsmede, wanneer hij dit nodig acht, alle andere belanghebbende Staten, onverwijld in kennis van het feit dat de betrokken persoon in hechtenis is genomen en van de omstandigheden die zijn hechtenis rechtvaardigen. De Staat die het in het tweede lid van dit artikel bedoelde voorlopig onderzoek instelt, deelt zijn bevindingen onverwijld mede aan genoemde Staten en geeft tevens aan of hij voornemens is zijn rechtsmacht uit te oefenen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De kapitein van een schip van een Staat-Partij (de „vlaggenstaat”) kan aan de autoriteiten van een andere Staat-Partij (de „ontvangende Staat”) elke persoon overdragen ten aanzien van wie de kapitein redelijke gronden heeft om aan te nemen dat deze een van de in de artikelen 3, 3**bis,** 3**ter** of 3**quater** omschreven strafbare feiten heeft gepleegd.
 
@@ -190,17 +215,17 @@ Elke Staat-Partij stelt op de in de artikelen 3, 3**bis**, 3**ter**en 3**quater*
 
 5. Een ontvangende Staat die de overdracht van een persoon overeenkomstig het derde lid heeft aanvaard, kan op zijn beurt de vlaggestaat verzoeken de overdracht van de betrokken persoon te aanvaarden. De vlaggestaat neemt een dergelijk verzoek in overweging en indien hij het verzoek inwilligt, handelt hij overeenkomstig artikel 7. Indien de vlaggestaat een verzoek afwijst, geeft hij de ontvangende Staat een opgave van de redenen daarvoor.
 
-#### Artikel 9
+##### Artikel 9
 
 De regelen van internationaal recht met betrekking tot de bevoegdheid van Staten om rechtsmacht op het gebied van opsporing en tenuitvoerlegging uit te oefenen aan boord van schepen die niet onder hun vlag varen, worden op generlei wijze door dit Verdrag aangetast.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een Staat-Partij op het grondgebied waarvan de dader of de vermoedelijke dader wordt aangetroffen is in de gevallen waarop artikel 6 van toepassing is, indien hij hem niet uitlevert, ongeacht of het strafbare feit op zijn grondgebied is gepleegd, zonder enige uitzondering verplicht de zaak terstond over te dragen aan zijn bevoegde autoriteiten voor vervolging door middel van een proces overeenkomstig de wetten van die Staat. Deze autoriteiten nemen hun beslissing op dezelfde wijze als in geval van elk ander strafbaar feit van ernstige aard krachtens de wetgeving van die Staat.
 
 2. Eenieder die in detentie wordt gesteld of tegen wie andere maatregelen worden getroffen of een proces aanhangig wordt gemaakt op grond van dit Verdrag, wordt een eerlijke behandeling verzekerd, met inbegrip van het genot van alle rechten en waarborgen in overeenstemming met de wetgeving van de Staat op wiens grondgebied die persoon zich bevindt en de toepasselijke bepalingen van internationaal recht, met inbegrip van het internationale recht inzake de rechten van de mens.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in de artikelen 3, 3**bis,** 3**ter** en 3**quater** omschreven strafbare feiten worden geacht als uitleveringsdelicten te zijn opgenomen in alle bestaande uitleveringsverdragen tussen de Staten-Partijen. De Staten-Partijen verplichten zich ertoe deze strafbare feiten op te nemen als uitleveringsdelicten in elk uitleveringsverdrag dat tussen hen wordt gesloten.
 
@@ -216,13 +241,13 @@ De regelen van internationaal recht met betrekking tot de bevoegdheid van Staten
 
 7. Met betrekking tot de in dit Verdrag omschreven strafbare feiten worden de bepalingen van alle uitleveringsverdragen en regelingen die tussen de Staten-Partijen bestaan in hun onderlinge betrekkingen gewijzigd, voor zover zij niet verenigbaar zijn met dit verdrag.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Staten-Partijen verlenen elkaar de ruimst mogelijke rechtshulp in verband met strafrechtelijke procedures die zijn ingesteld wegens de in de artikelen 3, 3**bis,** 3**ter**en 3**quater** omschreven strafbare feiten, met inbegrip van rechtshulp ter verkrijging van bewijs in hun bezit dat nodig is voor de procedure.
 
 2. De Staten-Partijen komen hun verplichtingen uit hoofde van het eerste lid na in overeenstemming met de verdragen inzake wederzijdse rechtshulp die tussen hen bestaan. Indien dergelijke verdragen ontbreken, verlenen de Staten-Partijen elkander rechtshulp overeenkomstig hun nationale recht.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Staten-Partijen werken samen ter voorkoming van de in de artikelen 3, 3**bis,** 3**ter** en 3**quater** omschreven strafbare feiten, met name door:
 
@@ -232,11 +257,11 @@ De regelen van internationaal recht met betrekking tot de bevoegdheid van Staten
 
 2. Wanneer ten gevolge van het plegen van een in artikel 3, 3**bis**, 3**ter** of 3**quater** omschreven strafbaar feit de doorvaart van een schip is vertraagd of onderbroken, dient de Staat-Partij op het grondgebied waarvan het schip, de passagiers of de bemanningsleden zich bevinden, al het mogelijke in het werk te stellen om te vermijden dat het schip, zijn passagiers, bemanning of lading onnodig worden opgehouden of vertraagd.
 
-#### Artikel 14
+##### Artikel 14
 
 Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals omschreven in artikel 3, 3**bis,**3**ter** of 3**quater** zal worden gepleegd, verstrekt, in overeenstemming met zijn nationale wetgeving, zo spoedig mogelijk alle ter zake dienende inlichtingen waarover hij beschikt aan de Staten waarvan hij meent dat zij de Staten zijn die hun rechtsmacht hebben gevestigd overeenkomstig artikel 6.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elke Staat-Partij verstrekt, in overeenstemming met zijn nationale recht, aan de Secretaris-Generaal zo spoedig mogelijk alle ter zake dienende inlichtingen waarover hij beschikt betreffende:
 
@@ -250,7 +275,7 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. De uit hoofde van het eerste en tweede lid verstrekte inlichtingen worden door de Secretaris-Generaal medegedeeld aan alle Staten-Partijen, aan de leden van de Organisatie, aan de andere betrokken Staten en aan de desbetreffende internationale intergouvernementele organisaties.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Elk geschil tussen twee of meer Staten-Partijen inzake de uitleg of toepassing van dit Verdrag dat niet binnen een redelijke termijn door onderhandelingen kan worden beslecht, wordt op verzoek van één van hen onderworpen aan arbitrage. Indien de partijen binnen zes maanden na de datum van het verzoek om arbitrage er niet in zijn geslaagd overeenstemming te bereiken over de regeling van deze arbitrage, kan ieder der betrokken partijen het geschil voorleggen aan het Internationale Gerechtshof door middel van een verzoek overeenkomstig het [Statuut van het Hof](https://wetten.overheid.nl/jci1.3:c:BWBV0005509).
 
@@ -258,7 +283,7 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. Een Staat die een voorbehoud heeft gemaakt overeenkomstig het tweede lid, kan dit voorbehoud te allen tijde intrekken door middel van een kennisgeving aan de Secretaris-Generaal.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit Verdrag staat voor ondertekening open te Rome op 10 maart 1988 door Staten die hebben deelgenomen aan de Internationale Conferentie inzake de bestrijding van wederrechtelijke gedragingen tegen de veiligheid van de zeevaart, alsmede op de zetel van de Organisatie door alle Staten van 14 maart 1988 tot 9 maart 1989. Daarna blijft het openstaan voor toetreding.
 
@@ -272,13 +297,13 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door middel van nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit verdrag treedt in werking negentig dagen na de datum waarop vijftien Staten het hebben ondertekend zonder voorbehoud van bekrachtiging, aanvaarding of goedkeuring, of een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
 2. Voor een Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding met betrekking tot dit Verdrag heeft nedergelegd nadat aan de voorwaarden voor inwerkingtreding is voldaan, treedt de bekrachtiging, aanvaarding, goedkeuring of toetreding in werking negentig dagen na de datum van nederlegging.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag kan door elke Staat-Partij te allen tijde worden opgezegd na het verstrijken van een jaar na de datum waarop het Verdrag voor die Staat in werking is getreden.
 
@@ -286,7 +311,7 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. Een opzegging wordt van kracht één jaar, of zoveel later als aangegeven in de akte van opzegging, na de ontvangst van de akte van opzegging door de Secretaris-Generaal.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Door de Organisatie kan een conferentie worden belegd met het oog op herziening of wijziging van dit Verdrag.
 
@@ -294,7 +319,7 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. Een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die is nedergelegd na de datum van inwerkingtreding van een wijziging van dit Verdrag wordt geacht van toepassing te zijn op het gewijzigde Verdrag.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal.
 
@@ -314,7 +339,7 @@ Een Staat-Partij die reden heeft om aan te nemen dat een strafbaar feit zoals om
 
 3. Terstond na inwerkingtreding van dit Verdrag zendt de Depositaris een voor eensluidend gewaarmerkt afschrift hiervan aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 22
+##### Artikel 22
 
 Dit Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde elke tekst gelijkelijk authentiek.
 
@@ -322,7 +347,7 @@ IN WITNESS WHEREOF the undersigned being duly authorized by their respective Gov
 
 DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
 
-#### Artikel 2bis
+##### Artikel 2bis
 
 1. Niets in dit Verdrag tast op enige wijze andere rechten, verplichtingen en verantwoordelijkheden aan van Staten en personen op grond van het internationaal recht, met name de doelstellingen en beginselen van het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), en de internationale mensenrechten, het vluchtelingenrecht en het humanitair recht.
 
@@ -330,7 +355,7 @@ DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
 
 3. Dit Verdrag laat onverlet de rechten, verplichtingen en verantwoordelijkheden uit hoofde van het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367), gedaan te Washington, Londen en Moskou op 1 juli 1968, het [Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0003925), gedaan te Washington, Londen en Moskou op 10 april 1972 of het [Verdrag tot verbod van de ontwikkeling, de produktie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens](https://wetten.overheid.nl/jci1.3:c:BWBV0001193), gedaan te Parijs op 13 januari 1993, van de Staten die partij zijn bij deze verdragen.
 
-#### Artikel 3bis
+##### Artikel 3bis
 
 1. Aan een strafbaar feit in de zin van dit Verdrag maakt zich schuldig hij die wederrechtelijk en opzettelijk:
 
@@ -360,11 +385,11 @@ DONE at Rome this tenth day of March one thousand nine hundred and eighty-eight.
 
 - b. indien het goed of materiaal beoogd is voor de overbrengingsinrichting van een kernwapen of ander instrument voor kernexplosieven van een Staat die partij is bij het [Verdrag inzake de niet-verspreiding van kernwapens](https://wetten.overheid.nl/jci1.3:c:BWBV0004367), het bezit van een dergelijk wapen of instrument niet in strijd is met de verplichtingen van die Staat-Partij uit hoofde van dat verdrag.
 
-#### Artikel 3ter
+##### Artikel 3ter
 
 Aan een strafbaar feit in de zin van dit Verdrag maakt zich schuldig hij die wederrechtelijk en opzettelijk een andere persoon aan boord van een schip vervoert, wetende dat deze persoon een strafbaar feit heeft gepleegd zoals omschreven in artikel 3, 3**bis** of 3**quater** of een strafbaar feit omschreven in een van de verdragen omschreven in de Bijlage, en met het oogmerk die persoon te helpen strafrechtelijke vervolging te ontlopen.
 
-#### Artikel 3quater
+##### Artikel 3quater
 
 Aan een strafbaar feit in de zin van dit Verdrag maakt zich tevens schuldig hij die:
 
@@ -382,7 +407,7 @@ Aan een strafbaar feit in de zin van dit Verdrag maakt zich tevens schuldig hij 
 
 - ii. hetzij met de wetenschap van het doel van de groep een strafbaar feit te plegen zoals omschreven in artikel 3, 3**bis** of 3**ter**.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 1. Elke Staat-Partij neemt, in overeenstemming met zijn nationale rechtsbeginselen de nodige maatregelen om een op zijn grondgebied gevestigde of overeenkomstig zijn wetgeving georganiseerde rechtspersoon aansprakelijk te stellen wanneer een persoon die verantwoordelijk is voor de leiding van of het toezicht op die rechtspersoon, in die hoedanigheid een in dit Verdrag omschreven strafbaar feit heeft gepleegd. Deze aansprakelijkheid kan straf-, civiel- of bestuursrechtelijk zijn.
 
@@ -390,7 +415,7 @@ Aan een strafbaar feit in de zin van dit Verdrag maakt zich tevens schuldig hij 
 
 3. Elke Staat-Partij ziet er in het bijzonder op toe dat de overeenkomstig het eerste lid aansprakelijke rechtspersonen worden onderworpen aan doeltreffende, proportionele en ontmoedigende straf-, civiel- of bestuursrechtelijke sancties. Dergelijke sancties kunnen geldelijke sancties omvatten.
 
-#### Artikel 8bis
+##### Artikel 8bis
 
 1. De Staten-Partijen werken in zo ruim mogelijke mate samen teneinde strafbare feiten waarop dit Verdrag van toepassing is te voorkomen en te bestrijden, in overeenstemming met het internationaal recht, en reageren zo spoedig mogelijk op verzoeken uit hoofde van dit artikel.
 
@@ -480,15 +505,15 @@ De verzoekende Partij stelt de vlaggenstaat onverwijld in kennis van de resultat
 
 15. Bij of na de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, wijst elke Staat-Partij de autoriteit, of indien nodig de autoriteiten, aan voor het ontvangen en beantwoorden van verzoeken om bijstand, bevestiging van de nationaliteit en voor machtiging om passende maatregelen te treffen. Van deze aanwijzing, met inbegrip van de contactgegevens, wordt binnen een maand nadat de Staat-Partij partij is geworden, kennisgeving gedaan aan de Secretaris-Generaal, die alle andere Staten-Partijen binnen een maand na de aanwijzing in kennis stelt. Elke Staat-Partij is verantwoordelijk voor de onverwijlde kennisgeving via de Secretaris-Generaal van alle wijzigingen in de aanwijzing of contactgegevens.
 
-#### Artikel 11bis
+##### Artikel 11bis
 
 Geen van de in artikel 3, 3**bis,** 3**ter** of 3**quater** omschreven strafbare feiten wordt, ten behoeve van uitlevering of wederzijdse rechtshulp, aangemerkt als een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven. Dienovereenkomstig mag een verzoek om uitlevering of om wederzijdse rechtshulp op basis van een dergelijk delict niet worden geweigerd met als enige reden dat het een politiek delict, een met een politiek delict samenhangend delict of een delict ingegeven door politieke motieven betreft.
 
-#### Artikel 11ter
+##### Artikel 11ter
 
 Niets in dit Verdrag mag zo worden uitgelegd dat het verplicht tot uitlevering of tot het verlenen van wederzijdse rechtshulp in gevallen waarin de aangezochte Verdragsluitende Staat ernstige redenen heeft om aan te nemen dat het verzoek tot uitlevering vanwege in artikel 3, 3**bis,** 3**ter** of 3**quater** omschreven strafbare feiten of tot wederzijdse rechtshulp met betrekking tot dergelijke feiten is gedaan met de bedoeling een persoon te vervolgen of te bestraffen op grond van zijn ras, godsdienst, nationaliteit, etnische afkomst, politieke overtuiging of geslacht of dat inwilliging van het verzoek de positie van betrokkene om een van deze redenen ongunstig zou kunnen beïnvloeden.
 
-#### Artikel 12bis
+##### Artikel 12bis
 
 1. Een persoon die in detentie zit of een straf ondergaat op het grondgebied van een Staat-Partij, om wiens aanwezigheid op het grondgebied van een andere Staat-Partij wordt verzocht ten behoeve van identificatie, een getuigenverklaring of voor het op andere wijze verlenen van medewerking ter verkrijging van bewijs voor onderzoek of vervolging inzake strafbare feiten omschreven in artikel 3, 3**bis,** 3**ter** of 3**quater,** mag worden overgebracht, indien voldaan wordt aan de volgende voorwaarden:
 
@@ -508,7 +533,7 @@ Niets in dit Verdrag mag zo worden uitgelegd dat het verplicht tot uitlevering o
 
 3. Tenzij de Staat-Partij vanwaar een persoon overeenkomstig dit artikel moet worden overgebracht daarmee instemt, wordt die persoon, ongeacht zijn nationaliteit, niet vervolgd of in detentie genomen, noch aan enige andere beperking van zijn persoonlijke vrijheid onderworpen op het grondgebied van de Staat waarnaar deze persoon wordt overgebracht, wegens feiten of veroordelingen voorafgaand aan zijn vertrek uit het grondgebied van de Staat vanwaar deze persoon werd overgebracht.
 
-#### Artikel 16bis. Slotbepalingen van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart van 2005
+##### Artikel 16bis. Slotbepalingen van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart van 2005
 
 De slotbepalingen van het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart van 2005 zijn de artikelen 17 tot en met 24 van het Protocol van 2005 bij het Verdrag tot bestrijding van wederrechtelijke gedragingen gericht tegen de veiligheid van de zeevaart. Verwijzingen in dit Verdrag naar Staten-Partijen verwijzen naar Staten-Partijen bij dat Protocol.
 

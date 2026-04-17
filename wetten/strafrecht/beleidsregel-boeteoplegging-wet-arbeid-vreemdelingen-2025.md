@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 januari 2025, nr. 2024-0000941636, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025 (Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025)"
 identifier: "BWBR0050708"
-categorie: "Strafrecht"
-publicatiedatum: 2025-02-01
-laatste_update: 2025-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050708"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-02-01"
+last_updated: "2025-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050708"
+soort: "beleidsregel"
+stam_id: "17347993"
+version_id: "30573942"
+internal_id: "C43828381"
+label_id: "17251994"
+dtd_version: "2.0"
+original_entry_into_force: "2025-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050708/2025-02-01/0"
+intitule_bron: "Stcrt.2025-3117"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-01-20"
+intitule_published: "2025-01-27"
+intitule_in_force: "2025-01-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-3117"
+original_signed_date: "2025-01-20"
+original_published_date: "2025-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-3117"
+entry_into_force_date: "2025-02-01"
+jci_1_3: "jci1.3:c:BWBR0050708&z=2025-02-01&g=2025-02-01"
+jci_1_0: "1.0:c:BWBR0050708&g=2025-02-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025"
+signed_date: "2025-01-20"
+entry_into_force: "2025-02-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 20 januari 2025, nr. 2024-0000941636, tot vaststelling van de Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025 (Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025)
 
 Gelet op [artikel 19d, zesde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d);
 
 Besluit:
 
-#### Artikel 1. Waarschuwing
+##### Artikel 1. Waarschuwing
 
 1. Bij een overtreding van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) wordt afgezien van boeteoplegging en wordt volstaan met het geven van een schriftelijke waarschuwing aan de werkgever indien:
 
@@ -42,23 +68,23 @@ Besluit:
 
 3. Bij meerdere overtredingen van de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) wordt de in het eerste lid bedoelde waarschuwing uitsluitend gegeven indien ten aanzien van elk van de overtredingen sprake is van een van de situaties uit het tweede lid, behoudens in geval van samenloop van overtredingen van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2) en [artikel 15 van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15).
 
-#### Artikel 2. Normbedragen bestuurlijke boete
+##### Artikel 2. Normbedragen bestuurlijke boete
 
 Bij de berekening van een bestuurlijke boete als bedoeld in [artikel 19a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19a) wordt bij de vaststelling van de hoogte van de bestuurlijke boete voor alle overtredingen als uitgangspunt gehanteerd de normbedragen bestuurlijke boete die als [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&bijlage=I&z=2025-02-01&g=2025-02-01) bij deze beleidsregel is gevoegd.
 
-#### Artikel 3. Samenloop overtredingen [artikel 15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
+##### Artikel 3. Samenloop overtredingen [artikel 15, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
 
 Een overtreding van [artikel 15, tweede en vierde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) wordt beboet alsof sprake was van slechts één overtreding per persoon ten aanzien van wie deze overtredingen zijn begaan.
 
-#### Artikel 4. Meerdere overtredingen [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
+##### Artikel 4. Meerdere overtredingen [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15)
 
 Bij meerdere overtredingen van [artikel 15, eerste lid, dan wel artikel 15, tweede of vierde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15) waarbij niet tevens ten aanzien van dezelfde of een andere vreemdeling, of persoon van wie de identiteit niet is vastgesteld als bedoeld in [artikel 15a van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a), een overtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), of artikel 15a van de Wet arbeid vreemdelingen wordt geconstateerd, wordt de bestuurlijke boete ongeacht de aard van de werkzaamheden gematigd tot het boetebedrag dat geldt voor één overtreding.
 
-#### Artikel 5. Meerdere overtredingen [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a)
+##### Artikel 5. Meerdere overtredingen [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a)
 
 Bij meerdere overtredingen van [artikel 2a, eerste lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2a) waarbij niet tevens ten aanzien van dezelfde of een andere vreemdeling, of persoon van wie de identiteit niet is vastgesteld als bedoeld in [artikel 15a van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=15a), een overtreding van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=2), of artikel 15a van de Wet arbeid vreemdelingen wordt geconstateerd, wordt de bestuurlijke boete ongeacht de aard van de werkzaamheden gematigd tot het boetebedrag dat geldt voor één overtreding.
 
-#### Artikel 6. Mate van verwijtbaarheid en de ernst van de overtreding
+##### Artikel 6. Mate van verwijtbaarheid en de ernst van de overtreding
 
 1. De normbedragen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01) van deze beleidsregel zijn van toepassing indien sprake is van normale verwijtbaarheid. Voor de overige mate van verwijtbaarheid geldt het volgende:
 
@@ -74,11 +100,11 @@ Bij meerdere overtredingen van [artikel 2a, eerste lid, van de Wet arbeid vreemd
 
 - b. 125% van de aan de hand van het eerste lid berekende bestuurlijke boete als er sprake is van een ernstigere overtreding.
 
-#### Artikel 7. Recidive
+##### Artikel 7. Recidive
 
 De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=6&z=2025-02-01&g=2025-02-01) van deze beleidsregel berekende bestuurlijke boete wordt, indien sprake is van recidive of herhaalde recidive, per overtreding verhoogd, waarbij de regels van [artikel 19d, tweede tot en met vierde lid, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=19d) in acht worden genomen.
 
-#### Artikel 8. Zelfstandig opererende nevenvestiging
+##### Artikel 8. Zelfstandig opererende nevenvestiging
 
 1. Bij de vaststelling of sprake is van herhaling van dezelfde of soortgelijke overtredingen wordt bij zelfstandig opererende nevenvestigingen van rechtspersonen, daarmee gelijkgestelden en eenmanszaken gehandeld alsof deze afzonderlijke ondernemingen zijn.
 
@@ -86,7 +112,7 @@ De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050
 
 3. Het eerste en tweede lid zijn niet van toepassing op ernstige overtredingen als bedoeld in [artikel 10.2 van het Besluit uitvoering Wet arbeid vreemdelingen 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046078&artikel=10.2).
 
-#### Artikel 9. Adequate maatregelen
+##### Artikel 9. Adequate maatregelen
 
 De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=6&z=2025-02-01&g=2025-02-01), en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=7&z=2025-02-01&g=2025-02-01) van deze beleidsregel berekende bestuurlijke boete wordt per overtreding met 12,5% gematigd indien de werkgever aantoont dat hij na de overtreding adequate maatregelen heeft genomen. Maatregelen zijn adequaat als zij:
 
@@ -94,7 +120,7 @@ De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050
 
 - b. zo snel mogelijk na de overtreding zijn genomen.
 
-#### Artikel 10. Matiging vanwege de termijn
+##### Artikel 10. Matiging vanwege de termijn
 
 1. De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=6&z=2025-02-01&g=2025-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=7&z=2025-02-01&g=2025-02-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=9&z=2025-02-01&g=2025-02-01) van deze beleidsregel berekende bestuurlijke boete wordt per overtreding met 5% gematigd indien tussen de laatste ambtshandeling van de inspecteur en de dagtekening van het boeterapport een periode van langer dan een halfjaar is verstreken.
 
@@ -102,19 +128,19 @@ De aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050
 
 3. Een matiging van de boete wordt niet toegepast indien bijzondere omstandigheden aanwezig zijn die de overschrijding van de periode van een halfjaar rechtvaardigen.
 
-#### Artikel 11. Som van de overtredingen
+##### Artikel 11. Som van de overtredingen
 
 De totale bestuurlijke boete bestaat, ingeval er sprake is van meer overtredingen, uit de som van de per overtreding aan de hand van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=2&z=2025-02-01&g=2025-02-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=6&z=2025-02-01&g=2025-02-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=7&z=2025-02-01&g=2025-02-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=9&z=2025-02-01&g=2025-02-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0050708&artikel=10&z=2025-02-01&g=2025-02-01) van deze beleidsregel berekende boetebedragen.
 
-#### Artikel 12. Intrekking [Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043328)
+##### Artikel 12. Intrekking [Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043328)
 
 De [Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043328) wordt ingetrokken.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 februari 2025.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel boeteoplegging Wet arbeid vreemdelingen 2025.
 

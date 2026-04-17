@@ -1,14 +1,39 @@
 ---
-title: "Gezondheidswet"
+title: "Wet van 18 januari 1956, houdende nieuwe wettelijke voorschriften met betrekking tot de organisatie van de zorg voor de volksgezondheid"
 identifier: "BWBR0002202"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-07-05
-laatste_update: 2025-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002202"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-05"
+last_updated: "2025-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002202"
+soort: "wet"
+stam_id: "1368963"
+version_id: "23681672"
+internal_id: "C36610531"
+label_id: "1328574"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002202/2025-07-05/0"
+intitule_bron: "Stb.1956-51"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1956-01-18"
+intitule_status: "goed"
+original_publication: "Stb.2016-448"
+original_signed_date: "2016-11-14"
+original_published_date: "2016-11-30"
+original_effect: "structuurwijziging"
+original_dossier: "34111"
+original_url_id: "stb-2016-448"
+entry_into_force_date: "2019-02-01"
+jci_1_3: "jci1.3:c:BWBR0002202&z=2025-07-05&g=2025-07-05"
+jci_1_0: "1.0:c:BWBR0002202&g=2025-07-05"
+citeertitel_status: "officieel"
+short_title: "Gezondheidswet"
+signed_date: "2016-11-14"
+entry_into_force: "2019-02-01"
 ---
-
-# Gezondheidswet
+# Wet van 18 januari 1956, houdende nieuwe wettelijke voorschriften met betrekking tot de organisatie van de zorg voor de volksgezondheid
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +43,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze wet wordt verstaan onder:
 
@@ -36,97 +61,97 @@ Voor de toepassing van deze wet wordt verstaan onder:
 
 #### § 1. Van de zetel en de taak
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 #### § 2. Van de samenstelling
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### § 3. Van de Kamers en de commissies
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 13a
+##### Artikel 13a
 
 Vervallen
 
 #### § 4. Van de werkwijze
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
 #### § 5. Van de vergoedingen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Hoofdstuk III. De Gezondheidsraad
 
-#### Artikel 21
+##### Artikel 21
 
 1. Er is een Gezondheidsraad.
 
@@ -140,15 +165,15 @@ Vervallen
 
 6. In afwijking van [artikel 11, tweede lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=11), worden de voorzitter en vice-voorzitters, ongeacht de duur van een eerder lidmaatschap, voor ten hoogste vier jaar benoemd als lid, tevens voorzitter, onderscheidenlijk vice-voorzitter. Herbenoeming als lid, tevens voorzitter dan wel vice-voorzitter, kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.
 
-#### Artikel 22
+##### Artikel 22
 
 De Gezondheidsraad heeft tot taak Onze Ministers en de beide kamers der Staten-Generaal voor te lichten over de stand der wetenschap ten aanzien van vraagstukken op het gebied van de volksgezondheid en het gezondheids(zorg)onderzoek door middel van het uitbrengen van rapporten.
 
-#### Artikel 23
+##### Artikel 23
 
 Voor de toepassing van de [Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159) en [artikel 3.3, tweede lid, onderdeel e, van de Wet open overheid](https://wetten.overheid.nl/jci1.3:c:BWBR0045754&artikel=3.3) wordt een rapport dat geen advies bevat, gelijkgesteld aan een advies.
 
-#### Artikel 24
+##### Artikel 24
 
 1. In afwijking van [artikel 16 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=16) kan de voorzitter uit de leden commissies instellen.
 
@@ -156,57 +181,57 @@ Voor de toepassing van de [Kaderwet adviescolleges](https://wetten.overheid.nl/j
 
 3. De voorzitter en de vice-voorzitters zijn bevoegd de vergaderingen van de onderscheidene commissies, waarvan zij geen lid zijn, bij te wonen en aan de beraadslagingen deel te nemen.
 
-#### Artikel 25
+##### Artikel 25
 
 In afwijking van [artikel 19, tweede lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=19) kan de voorzitter op verzoek van een commissie andere personen betrekken bij de werkzaamheden van die commissie, voor zover dat voor de vervulling van haar taak nodig is.
 
-#### Artikel 26
+##### Artikel 26
 
 In afwijking van de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=17), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=18) en [20, eerste lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) is een commissie als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=24&z=2025-07-05&g=2025-07-05) bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=III&artikel=22&z=2025-07-05&g=2025-07-05) uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=20) van overeenkomstige toepassing.
 
-#### Artikel 26a
+##### Artikel 26a
 
 In afwijking van [artikel 21 van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=21) wordt een reglement van orde voor de Gezondheidsraad en de commissies door de voorzitter vastgesteld.
 
-#### Artikel 27
+##### Artikel 27
 
 In afwijking van [artikel 15, tweede lid, van de Kaderwet adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008159&artikel=15) is de secretaris van de Gezondheidsraad voor zijn werkzaamheden voor de Gezondheidsraad uitsluitend verantwoording schuldig aan de voorzitter.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
 ### Hoofdstuk IV. Het Staatstoezicht op de Volksgezondheid
 
-#### Artikel 36
+##### Artikel 36
 
 1. Er is een Staatstoezicht op de volksgezondheid, ressorterend onder Onze Minister, dat bestaat uit bij algemene maatregel van bestuur aangewezen onderdelen en dat tot taak heeft:
 
@@ -228,11 +253,11 @@ Vervallen
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de verstrekking van persoonsgegevens ter uitvoering van de taak, bedoeld in het eerste lid, onder d.
 
-#### Artikel 37
+##### Artikel 37
 
 Aan het hoofd van elk onderdeel van het Staatstoezicht staat een inspecteur-generaal, die bij besluit van Onze Minister wordt aangewezen. De aanwijzing eindigt van rechtswege met ingang van de datum dat de uitoefening van de functie van inspecteur-generaal geen onderdeel meer uitmaakt van de werkzaamheden van de betreffende ambtenaar. Hij neemt bij de vervulling van zijn taak de aanwijzingen van Onze Minister in acht.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De [artikelen 36, eerste, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2025-07-05&g=2025-07-05), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=37&z=2025-07-05&g=2025-07-05), [44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05) en [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2025-07-05&g=2025-07-05) zijn van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba. Bij algemene maatregel van bestuur kan bij de aanwijzing van regelgeving als bedoeld in artikel 44, eerste lid, worden bepaald dat informatie betreffende het toezicht en de uitvoering van die regelgeving niet op basis van dat lid openbaar zal worden gemaakt, indien de informatie betrekking heeft op het toezicht en de uitvoering in die openbare lichamen.
 
@@ -256,7 +281,7 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een inspecteur-gene
 
 3. Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de [Hoofdstukken 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=4) en [5 van de Wet Inspectie Biociden BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028563&hoofdstuk=5).
 
-#### Artikel 39
+##### Artikel 39
 
 1. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2025-07-05&g=2025-07-05), bedoelde taak:
 
@@ -268,25 +293,25 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een inspecteur-gene
 
 3. Met betrekking tot de uitvoering van de in [artikel 36, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2025-07-05&g=2025-07-05), bedoelde taak is het eerste lid, onder a, van overeenkomstige toepassing.
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 De inspecteur-generaal dient aan Gedeputeerde Staten of aan Onze Commissaris in een provincie, aan de gemeenteraad, aan Burgemeester en Wethouders of aan de burgemeesters, van bericht en raad in daarvoor in aanmerking komende zaken, hun werkkring betreffende.
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 1. Gedeputeerde Staten en Burgemeester en Wethouders zenden aan de inspecteur-generaal en aan de Provinciale Raad, binnen wier werkgebied de provincie, respectievelijk de gemeente is gelegen, een afschrift of afdruk van elk der verordeningen, besluiten of verslagen, de volksgezondheid in hun provincie, respectievelijk gemeente betreffende, en van de daarin gemaakte aanvullingen of wijzigingen.
 
 2. Zij verstrekken aan de inspecteur-generaal alle door hem verlangde inlichtingen over de naleving van wetten en verordeningen, de volksgezondheid betreffende.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Het Staatstoezicht op de volksgezondheid maakt, na een daartoe strekkend besluit van een bij algemene maatregel van bestuur aan te wijzen bestuursorgaan, de bij die maatregel aan te wijzen onder hem berustende informatie openbaar inzake het toezicht op of de uitvoering van bij algemene maatregel van bestuur aan te wijzen regelgeving, teneinde de naleving van die regelgeving te bevorderen, het publiek inzicht te geven in de wijze waarop dat toezicht en die uitvoering worden verricht en wat de resultaten van die verrichtingen zijn. Bij algemene maatregel van bestuur kunnen anderen die met het toezicht op de naleving of met de uitvoering van de op grond van de eerste volzin aangewezen regelgeving zijn belast, dan wel de organisatie waarvoor zij werkzaam zijn, in plaats van het Staatstoezicht worden belast met openbaarmaking als bedoeld in de eerste volzin.
 
@@ -346,7 +371,7 @@ Vervallen
 
 #### § 1. Van de zetel en de taak
 
-#### Artikel 45
+##### Artikel 45
 
 1. In elke provincie stellen de Gedeputeerde Staten een Provinciale Raad voor de Volksgezondheid in.
 
@@ -356,11 +381,11 @@ Vervallen
 
 4. De Provinciale Raad is rechtspersoon.
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 De taak van de Provinciale Raad omvat in ieder geval:
 
@@ -376,7 +401,7 @@ De taak van de Provinciale Raad omvat in ieder geval:
 
 #### § 2. Van de samenstelling
 
-#### Artikel 48
+##### Artikel 48
 
 De samenstelling van de Provinciale Raad wordt zodanig geregeld, dat daarin in elk geval zitting hebben leden afkomstig uit de kringen van:
 
@@ -392,13 +417,13 @@ De samenstelling van de Provinciale Raad wordt zodanig geregeld, dat daarin in e
 
 - f. instellingen voor maatschappelijke dienstverlening.
 
-#### Artikel 49
+##### Artikel 49
 
 De inspecteur-generaal wordt uitgenodigd de vergaderingen van de Raad zomede van de door deze ingestelde commissies bij te wonen. Hij heeft in de vergadering een adviserende stem.
 
 #### § 2. Van de samenstelling
 
-#### Artikel 50
+##### Artikel 50
 
 1. De Provinciale Raad doet zich bijstaan door commissies van advies en bijstand, welke deskundig zijn op een bijzonder gebied van de volksgezondheid.
 
@@ -408,25 +433,25 @@ De inspecteur-generaal wordt uitgenodigd de vergaderingen van de Raad zomede van
 
 #### § 1. Van de zetel en de taak
 
-#### Artikel 51
+##### Artikel 51
 
 1. De Provinciale Raad wordt bijgestaan door een bureau.
 
 2. De Provinciale Raad draagt zorg, dat medische inbreng in het bureau verzekerd is.
 
-#### Artikel 52
+##### Artikel 52
 
 1. De arbeidsvoorwaarden, waaronder de directeur en de andere personen, bij het bureau werkzaam, hun betrekking vervullen, zijn gelijk aan die, welke gelden voor het personeel in dienst van de provincie.
 
 2. Gedeputeerde staten kunnen de Provinciale Raad ontheffing verlenen van de toepassing van de op grond van het eerste lid toe te passen arbeidsvoorwaarden inzake de salariëring van de directeur en van de andere personen, werkzaam bij het bureau.
 
-#### Artikel 53
+##### Artikel 53
 
 De Provinciale Raad stelt voor de directeur een instructie vast.
 
 #### § 2. Van de samenstelling
 
-#### Artikel 54
+##### Artikel 54
 
 1. De Provinciale Raad brengt op verzoek of uit eigen beweging advies uit aan de openbare lichamen en diensten en de particuliere rechtspersonen, welke in de Raad zijn vertegenwoordigd, alsmede aan andere openbare organen, met uitzondering van het Rijk.
 
@@ -438,77 +463,77 @@ De Provinciale Raad stelt voor de directeur een instructie vast.
 
 5. De leden zijn bevoegd minderheidsnota's bij het advies te voegen, indien het daarin uitgesproken gevoelen is verdedigd in de vergadering, waarin het uit te brengen advies werd behandeld.
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Gedeputeerde Staten en Burgemeester en Wethouders stellen de Provinciale Raad in kennis van alle ontwerpen van verordeningen, welke van belang zijn voor de volksgezondheid.
 
-#### Artikel 57
+##### Artikel 57
 
 Openbare lichamen en diensten, alsmede particuliere rechtspersonen en natuurlijke personen, die in de provincie op het gebied van de volksgezondheid werkzaam zijn, zijn desgevraagd gehouden aan de Provinciale Raad alle op de volksgezondheid betrekking hebbende inlichtingen te verstrekken, welke de Raad voor de juiste vervulling van zijn taak nodig oordeelt.
 
-#### Artikel 58
+##### Artikel 58
 
 De Provinciale Raad is desgevraagd gehouden aan de inspecteur-generaal alle gegevens en inlichtingen te verstrekken, welke hij voor de juiste vervulling van zijn taak nodig acht.
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 De Provinciale Raad zendt jaarlijks voor 1 Juni een verslag van zijn werkzaamheden in het afgelopen kalenderjaar aan Onze Minister.
 
 ### Hoofdstuk VI. Geschillen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 62
+##### Artikel 62
 
 Wij behouden Ons voor ter uitvoering van deze wet bij algemene maatregel van bestuur nadere regelen te stellen.
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezondheidswet 1919, **Stb.** 784, wordt deze verwijzing geacht te geschieden naar de overeenkomstige bepalingen van de onderhavige wet.
 
-#### Artikel 69a
+##### Artikel 69a
 
 1. Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994) berust het Besluit Staatstoezicht Volksgezondheid op [artikel 36, eerste lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV&paragraaf=1&artikel=36&z=2025-07-05&g=2025-07-05).
 
 2. Ten aanzien van de in [artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=145) genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](https://wetten.overheid.nl/jci1.3:c:BWBR0008994).
 
-#### Artikel 70
+##### Artikel 70
 
 1. Deze wet kan worden aangehaald als Gezondheidswet.
 
@@ -542,7 +567,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk IV a. Openbaarmaking van informatie inzake het toezicht en de uitvoering van regelgeving
 
-#### Artikel 44a
+##### Artikel 44a
 
 1. De openbaarmaking, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05), vindt niet plaats binnen twee weken na het tijdstip waarop het in artikel 44, eerste lid, bedoelde besluit bekend is gemaakt. Bij dat besluit wordt de betrokkene van de openbaar te maken informatie op de hoogte gesteld, voor zover hij van die informatie nog geen kennis heeft kunnen nemen en wordt de betrokkene in de gelegenheid gesteld zijn reactie op het besluit kenbaar te maken.
 
@@ -584,19 +609,19 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 9. Indien de openbaarmaking, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05), in strijd is of zou kunnen komen met het doel van de wet in het kader waarvan de openbaarmaking plaatsvindt, blijft openbaarmaking achterwege.
 
-#### Artikel 44b
+##### Artikel 44b
 
 De voordracht voor een algemene maatregel van bestuur krachtens de [artikelen 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05) en [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2025-07-05&g=2025-07-05) wordt gedaan door Onze Minister. De voordracht wordt gedaan mede namens Onze Minister van Economische Zaken, indien de maatregel betrekking heeft op het toezicht en de uitvoering van regelgeving waarvoor die Minister tevens verantwoordelijk is. Indien de maatregel betrekking heeft op het toezicht en uitvoering van regelgeving waarvoor uitsluitend Onze Minister van Economische Zaken verantwoordelijk is, wordt de voordracht gedaan door die Minister.
 
-#### Artikel 44c
+##### Artikel 44c
 
 Ten aanzien van geschillen over besluiten als bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05), die strekken tot openbaarmaking van een besluit, is bevoegd de rechter die bevoegd is te oordelen ten aanzien van geschillen over het te openbaren besluit.
 
-#### Artikel 44d
+##### Artikel 44d
 
 Bij of krachtens algemene maatregel van bestuur wordt bepaald dat het Staatstoezicht op de volksgezondheid en anderen die zijn belast met het toezicht op de naleving van de regelgeving, bedoeld in [artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05), beleidsregels vaststellen over herinspecties na een negatieve uitkomst van controle en onderzoek bij een betrokkene. Bij of krachtens algemene maatregel van bestuur kan worden bepaald wat wordt verstaan onder een negatieve uitkomst. Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de beleidsregels aan bij of krachtens de algemene maatregel van bestuur te bepalen voorwaarden moeten voldoen.
 
-#### Artikel 44e
+##### Artikel 44e
 
 De voordracht voor een algemene maatregel van bestuur waarbij voor de eerste maal toepassing wordt gegeven aan [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44&z=2025-07-05&g=2025-07-05) of [44a](https://wetten.overheid.nl/jci1.3:c:BWBR0002202&hoofdstuk=IV_a&artikel=44a&z=2025-07-05&g=2025-07-05), wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 

@@ -1,24 +1,46 @@
 ---
 title: "Overeenkomst over de verbetering en het onderhoud van een gedeelte van de Issel (Oude IJssel) in het grensgebied"
 identifier: "BWBV0003823"
-categorie: "Internationaal recht"
-publicatiedatum: 1976-05-01
-laatste_update: 1976-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003823"
+country: "nl"
+rank: "verdrag"
+publication_date: "1976-05-01"
+last_updated: "1976-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003823"
+soort: "verdrag"
+stam_id: "10003734753"
+version_id: "10003796852"
+internal_id: "C10006982991"
+label_id: "10003719814"
+dtd_version: "2.0"
+original_entry_into_force: "1976-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003823/1976-05-01/0"
+intitule_bron: "Trb.1973-160"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-11-12"
+intitule_in_force: "1976-06-11"
+intitule_status: "goed"
+original_publication: "Trb.1973-160"
+original_published_date: "1973-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-160"
+entry_into_force_date: "1976-05-01"
+jci_1_3: "jci1.3:c:BWBV0003823&z=1976-05-01&g=1976-05-01"
+jci_1_0: "1.0:c:BWBV0003823&g=1976-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1976-05-01"
 ---
-
 # Overeenkomst over de verbetering en het onderhoud van een gedeelte van de Issel (Oude IJssel) in het grensgebied
 
 Het „Isselverband” in Wezel, vertegenwoordigd door de voorzitter Ltd. Kreisbaudirektor Thesing en het waterschap van de „Oude IJssel” in Terborg, hierna „Waterschap” genoemd, vertegenwoordigd door de watergraaf ir. W. Kooij, sluiten met inachtneming van hoofdstuk 4, artikel 59 van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960 de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Isselverband zal op zijn kosten de Issel verbeteren van grenssteen 718, nabij het landgoed Landfort, tot nabij grenssteen 723, nabij het huis Hardenberg. Bij deze verbetering wordt ook de Hardenberger stuw vernieuwd en de Kleefse Graaf verlengd.
 
 2. Het in lid 2 genoemde gedeelte van de Issel is op een overzichtskaart aangegeven, die een deel van de overeenkomst is.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Isselverband zal bij de bouw van de Hardenberger stuw het volgende in acht nemen:
 
@@ -32,7 +54,7 @@ Het Isselverband zal bij de bouw van de Hardenberger stuw het volgende in acht n
 
 - e. Benedenstrooms van de Hardenberger stuw moet een riviergedeelte met een lengte van tenminste 40 m op deugdelijke wijze worden vastgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Isselverband zal bij de verbetering van het gedeelte van de Issel het volgende in acht nemen:
 
@@ -42,17 +64,17 @@ Het Isselverband zal bij de verbetering van het gedeelte van de Issel het volgen
 
 - c. Tussen de grenssteen 718 en 720 moet de verbreding van de Issel naar de rechterzijde plaatsvinden. Bij de verdieping van de bodem moet de steenbestorting op het linker talud onder een helling van 1 : 2 tot aan de nieuwe bodemhoogte verlengd worden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Isselverband hoort het Waterschap over het verbeteringsplan.
 
 2. Het verbeteringsplan behoeft alleen de goedkeuring van de Regierungspräsident Düsseldorf en Gedeputeerde Staten van Gelderland in Arnhem.
 
-#### Artikel 5
+##### Artikel 5
 
 Het in de bovenloop van de Issel geprojecteerde spaarbekken moet tegelijk met de nieuwe Hardenberger stuw en de verbeterde Issel voor gebruik gereed zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Isselverband verbindt zich de Issel van grenssteen 718 tot aan het einde van het vastgelegde profiel benedenstrooms van de Hardenberger stuw te onderhouden; deze regeling geldt ook voor de bestaande toestand.
 
@@ -60,33 +82,33 @@ Het in de bovenloop van de Issel geprojecteerde spaarbekken moet tegelijk met de
 
 3. De partijen dulden de op hun gebied voor het onderhoud noodzakelijke handelingen; hiertoe behoren in het bijzonder het betreden van de oevers alsmede het tijdelijk deponeren en afvoeren van specie en bocht. Zij wijzen elkaar tijdig opslagmogelijkheden en afvoerwegen aan.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Isselverband verbindt zich alle vuil bovenstrooms van de Hardenberger stuw op te vangen en zo snel mogelijk uit het water te verwijderen. Komt het desondanks op Nederlands gebied dan draagt het Isselverband de kosten van de verwijdering.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Isselverband verbindt zich de Hardenberger stuw en de volgende bovenstrooms gelegen stuw zo te bedienen dat geen plotselinge afvoervergroting optreedt. Bij dreigend gevaar voor een overstroming is het plotseling openen wel toegestaan. Het Isselverband moet dan hiervan van te voren mededeling doen aan de stuwwachter van de stuw in Ulft of, wanneer deze afwezig is, aan de technische dienst van het waterschap.
 
-#### Artikel 9
+##### Artikel 9
 
 Het waterschap verbindt zich het water bij de stuw in Ulft bij normale afvoer niet hoger op te stuwen dan Nieuw Amsterdams Peil (NAP) + 13.50 m en in droge perioden niet hoger dan NAP + 13.70 m.
 
-#### Artikel 10
+##### Artikel 10
 
 Het waterschap verbindt zich, de waterstand van de Issel bovenstrooms van de Hardenberger stuw door onttrekking niet lager te laten zakken dan NN + 13.70 m. Verdergaande onttrekkingen zijn alleen1)[Red: Weggevallen zijn de woorden: „in overeenstemming”.]met het Isselverband toegestaan.
 
-#### Artikel 11
+##### Artikel 11
 
 Veranderingen van deze overeenkomst behoeven de goedkeuring van de regeringen van de Bondsrepubliek en van het Koninkrijk der Nederlanden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De overeenkomst wordt voor een looptijd van 10 jaar gesloten. Als zij niet 3 jaar voor de afloop van de looptijd wordt opgezegd, wordt zij stilzwijgend voor telkens 10 jaar verlengd.
 
 2. De opzegging dient te geschieden door een aangetekende brief.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden. Zij treedt in werking een maand na ontvangst door een der partijen van de laatst verleende goedkeuring. De partijen stellen het tijdstip van inwerkingtreding door briefwisseling vast.
 

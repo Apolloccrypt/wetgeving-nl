@@ -1,13 +1,38 @@
 ---
-title: "Besluit opneming buitenlandse kinderen ter adoptie"
+title: "Besluit van 4 juli 1989, houdende vaststelling van het Besluit opneming buitenlandse pleegkinderen en wijziging van het Uitvoeringsbesluit Kinderbescherming"
 identifier: "BWBR0004582"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-02-13
-laatste_update: 2020-02-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004582"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-02-13"
+last_updated: "2020-02-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004582"
+soort: "AMvB"
+stam_id: "794093"
+version_id: "1151882"
+internal_id: "C1151881"
+label_id: "769854"
+dtd_version: "2.0"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004582/2020-02-13/0"
+intitule_bron: "Stb.1989-262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-07-04"
+intitule_status: "goed"
+original_publication: "Stb.1998-388"
+original_signed_date: "1998-06-30"
+original_published_date: "1998-07-09"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1998-388"
+entry_into_force_date: "1998-10-01"
+entry_into_force_dossier: "24811"
+jci_1_3: "jci1.3:c:BWBR0004582&z=2020-02-13&g=2020-02-13"
+jci_1_0: "1.0:c:BWBR0004582&g=2020-02-13"
+citeertitel_status: "officieel"
+short_title: "Besluit opneming buitenlandse kinderen ter adoptie"
+signed_date: "1998-06-30"
+entry_into_force: "1998-10-01"
 ---
-
 # Besluit van 4 juli 1989, houdende vaststelling van het Besluit opneming buitenlandse pleegkinderen en wijziging van het Uitvoeringsbesluit Kinderbescherming
 
 Op de voordracht van de Staatssecretaris van Justitie van 30 maart 1989, Hoofdafdeling Privaatrecht nr. 156/189;
@@ -20,15 +45,15 @@ Gezien het nader rapport van de Staatssecretaris van Justitie van 29 juni 1989, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Vastgesteld worden de volgende bepalingen, die kunnen worden aangehaald als: Besluit opneming buitenlandse pleegkinderen.
 
-#### Artikel 1
+##### Artikel 1
 
 Onze Minister wijst, ter uitvoering van [artikel 5, tweede lid, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=5), een rechtspersoon met volledige rechtsbevoegdheid aan, die krachtens zijn doelstelling tot taak heeft algemene voorlichting te verstrekken aan aspirant-adoptiefouders die een verzoek tot verlening van een beginseltoestemming hebben ingediend, hierna te noemen: aangewezen rechtspersoon.
 
-#### Artikel 2
+##### Artikel 2
 
 De aan te wijzen rechtspersoon moet aan de volgende eisen voldoen:
 
@@ -44,21 +69,21 @@ De aan te wijzen rechtspersoon moet aan de volgende eisen voldoen:
 
 - f. zijn werkzaamheden zijn niet gericht op winst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister kan de op grond van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2020-02-13&g=2020-02-13) gedane aanwijzing intrekken indien de aangewezen rechtspersoon naar zijn oordeel niet langer voldoet aan de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=2&z=2020-02-13&g=2020-02-13) genoemde eisen.
 
 2. De in het eerste lid bedoelde intrekking vindt plaats onder gelijktijdige voorziening door Onze Minister in de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=1&z=2020-02-13&g=2020-02-13) bedoelde taak.
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de statuten te wijzigen of de aangewezen rechtspersoon te ontbinden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Behoudens het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13) wordt de verstrekking van algemene voorlichting bekostigd uit de in [artikel 4, onder e, van de Wet opneming buitenlandse kinderen ter adoptie](https://wetten.overheid.nl/jci1.3:c:BWBR0004447&artikel=4) bedoelde bijdragen van aspirant-adoptiefouders. De algemene voorlichting wordt gegeven gedurende zes bijeenkomsten, waarvan de eerste inleidend is.
 
@@ -68,19 +93,19 @@ Het bestuur is slechts na voorafgaande goedkeuring van Onze Minister bevoegd de 
 
 4. Omtrent de geïnde bedragen wordt maandelijks aan Onze Minister een opgave verstrekt.
 
-#### Artikel 7
+##### Artikel 7
 
 De aangewezen rechtspersoon zendt jaarlijks vóór 1 oktober een begroting voor het daaropvolgende jaar ter goedkeuring aan Onze Minister. De begroting is voorzien van een toelichting en gaat vergezeld van een beschrijving van de wijze waarop de aangewezen rechtspersoon zich voorneemt zijn werkzaamheden in het komende boekjaar te verrichten. De begroting geeft inzicht in de aard en de omvang van de baten en lasten van de aangewezen rechtspersoon. De begroting kan vergezeld gaan van een aanvraag om subsidie ter tegemoetkoming in de kosten van de aangewezen rechtspersoon.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister kan een subsidie verlenen ter tegemoetkoming in de kosten van de aangewezen rechtspersoon, indien de voor het begrotingsjaar voorziene baten aanmerkelijk achterblijven bij de lasten. De beschikking wordt voor 1 januari van het jaar waarvoor de subsidie is aangevraagd bekendgemaakt.
 
-#### Artikel 9
+##### Artikel 9
 
 Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004582&artikel=8&z=2020-02-13&g=2020-02-13), kan in de loop van het begrotingsjaar naar boven worden aangepast, indien de noodzaak daartoe is gebleken in verband met het aanmerkelijke achterblijven van te ontvangen bijdragen van aspirant-adoptiefouders. Een daartoe strekkende aanvraag dient uiterlijk op 1 oktober van het lopende begrotingsjaar te zijn ingediend. De aanvraag gaat vergezeld van een actueel overzicht van de financiële toestand van de aangewezen rechtspersoon.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De aangewezen rechtspersoon verstrekt Onze Minister alle gevraagde inlichtingen omtrent de uitvoering van zijn taak.
 
@@ -90,7 +115,7 @@ Het bedrag van de subsidie als bedoeld in [artikel 8, eerste lid](https://wetten
 
 4. Indien blijkt dat de subsidie ten gevolge van het verstrekken van onjuiste of onvolledige gegevens is vastgesteld op een bedrag dat hoger is dan wanneer het zou zijn vastgesteld op grond van juiste en volledige gegevens wordt de subsidie opnieuw vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 De aan aspirant-adoptiefouders te verstrekken algemene voorlichting omvat in elk geval:
 
@@ -98,45 +123,45 @@ De aan aspirant-adoptiefouders te verstrekken algemene voorlichting omvat in elk
 
 - b. ten minste drie voorlichtingsbijeenkomsten waarin de schriftelijke documentatie wordt toegelicht en aspirant-adoptiefouders nader op de opneming en de adoptie van een buitenlands kind worden voorbereid.
 
-#### Artikel 12
+##### Artikel 12
 
 Het bestuur van een vergunninghouder is zodanig samengesteld dat daarin voldoende deskundigheid met betrekking tot de financiële, de juridische en de maatschappelijke aspecten van de werkzaamheden is vertegenwoordigd.
 
-#### Artikel 13
+##### Artikel 13
 
 Een vergunninghouder stelt Onze Minister onverwijld in kennis van elke wijziging van zijn statuten alsmede van de samenstelling van zijn bestuur.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien werkzaamheden door vrijwilligers worden verricht, geschiedt zulks onder de verantwoordelijkheid van de vergunninghouder.
 
-#### Artikel 15
+##### Artikel 15
 
 Een vergunninghouder beschikt over zodanige kantoorruimte dat de vertrouwelijkheid van besprekingen in verband met de opneming van buitenlandse pleegkinderen is gewaarborgd. Voorts beschikt hij over een niet voor derden toegankelijke, tegen brand beschermde archiefruimte.
 
-#### Artikel 16
+##### Artikel 16
 
 De vergunninghouder legt de afspraken die tussen hem en de aspirant-pleegouders zijn gemaakt, schriftelijk vast.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een vergunninghouder verleent het Bureau alle noodzakelijke medewerking bij het verzamelen en bijhouden van de voor algemene voorlichting vereiste documentatie.
 
 2. Een vergunninghouder verstrekt andere vergunninghouders alle inlichtingen die in verband met de verrichting van hun taak voor hen van nut kunnen zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit, alsmede de [Wet opneming buitenlandse pleegkinderen](https://wetten.overheid.nl/jci1.3:c:BWBR0004447) (**Stb.** 1988, 566), treden in werking met ingang van 15 juli 1989.
 

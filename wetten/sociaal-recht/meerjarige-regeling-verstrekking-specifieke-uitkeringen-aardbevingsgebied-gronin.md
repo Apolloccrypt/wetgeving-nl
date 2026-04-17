@@ -1,20 +1,46 @@
 ---
-title: "Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 28 juni 2024, nr. WJZ/ 59343160, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in de provincie Groningen en aan de provincie Groningen ten behoeve van activiteiten die verband houden met de uitvoering van de versterkingsopgave en met maatregelen benoemd in de kabinetsreactie op het rapport van de Parlementaire enquête aardgaswinning Groningen (Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030)"
 identifier: "BWBR0049907"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049907"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049907"
+soort: "ministeriele-regeling"
+stam_id: "17154513"
+version_id: "30193212"
+internal_id: "C43256371"
+label_id: "17062794"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049907/2025-10-01/0"
+intitule_bron: "Stcrt.2024-21567"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-28"
+intitule_published: "2024-07-01"
+intitule_in_force: "2024-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-21567"
+original_signed_date: "2024-06-28"
+original_published_date: "2024-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-21567"
+entry_into_force_date: "2024-07-02"
+jci_1_3: "jci1.3:c:BWBR0049907&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0049907&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030"
+signed_date: "2024-06-28"
+entry_into_force: "2024-07-02"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 28 juni 2024, nr. WJZ/ 59343160, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in de provincie Groningen en aan de provincie Groningen ten behoeve van activiteiten die verband houden met de uitvoering van de versterkingsopgave en met maatregelen benoemd in de kabinetsreactie op het rapport van de Parlementaire enquête aardgaswinning Groningen (Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030)
 
 Gelet op [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=15a) en [15b van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=15b);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - **versterkingsopgave:** het bouwkundig versterkingsprogramma als gevolg van de gaswinning Groningerveld.
 
-#### Artikel 2. Activiteiten waarvoor een uitkering wordt verstrekt
+##### Artikel 2. Activiteiten waarvoor een uitkering wordt verstrekt
 
 1. De minister kan een specifieke uitkering verstrekken voor de volgende activiteiten:
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder:
 
 2. De specifieke uitkeringen worden verstrekt voor de uitvoeringsperiode van 1 januari 2024 tot en met 31 december 2032.
 
-#### Artikel 3. Gemeenten en provincies die een uitkering kunnen aanvragen
+##### Artikel 3. Gemeenten en provincies die een uitkering kunnen aanvragen
 
 De minister kan een specifieke uitkering verstrekken aan:
 
@@ -88,7 +114,7 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 - b. de provincie Groningen, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel e, f, g en j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
-#### Artikel 4. Uitkeringsplafond per activiteit
+##### Artikel 4. Uitkeringsplafond per activiteit
 
 1. Voor de activiteiten, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01), wordt in totaal voor alle gemeenten en de provincie samen een bedrag van € 1.649.100.000, inclusief BTW, beschikbaar gesteld.
 
@@ -118,7 +144,7 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 4. De specifieke uitkering wordt niet verstrekt voor btw die verschuldigd is over kosten voor de uitvoering van activiteiten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01), voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 5. Aanvraag, verdeling en bevoorschotting van de specifieke uitkeringen, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
+##### Artikel 5. Aanvraag, verdeling en bevoorschotting van de specifieke uitkeringen, genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
 
 1. Een gemeente of provincie doet uiterlijk op 1 oktober 2024 eenmalig een aanvraag voor het verstrekken van een specifieke uitkering voor de gehele uitkeringsperiode, voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel a tot en met i](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
@@ -132,7 +158,7 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 6. In afwijking van het vijfde lid vindt de betaling van het voorschot voor 2024 uiterlijk plaats in december 2024.
 
-#### Artikel 6. Aanvraag, verdeling en bevoorschotting van de specifieke uitkering, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
+##### Artikel 6. Aanvraag, verdeling en bevoorschotting van de specifieke uitkering, genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01)
 
 1. Een gemeente of provincie doet in de kalenderjaren 2024 tot en met 2028, hoogstens twee maal per kalenderjaar, uiterlijk op 1 maart respectievelijk 1 oktober, een aanvraag voor het verstrekken van een specifieke uitkering voor de activiteiten genoemd in [artikel 2, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=2&z=2025-10-01&g=2025-10-01).
 
@@ -140,7 +166,7 @@ De minister kan een specifieke uitkering verstrekken aan:
 
 3. De betaling van de voorschotten vindt plaats uiterlijk op 1 oktober respectievelijk 31 december van het desbetreffende kalenderjaar.
 
-#### Artikel 7. Aanvraag
+##### Artikel 7. Aanvraag
 
 Een aanvraag voor een specifieke uitkering bevat in ieder geval:
 
@@ -166,13 +192,13 @@ Een aanvraag voor een specifieke uitkering bevat in ieder geval:
 
 - ii. de gewenste bevoorschotting.
 
-#### Artikel 8. Verplichtingen
+##### Artikel 8. Verplichtingen
 
 1. De gemeente of provincie besteedt de specifieke uitkering uitsluitend aan de uitvoering van de activiteiten waarvoor deze is verstrekt.
 
 2. De gemeente of provincie mag de specifieke uitkering niet door verstrekken aan medeoverheden.
 
-#### Artikel 9. Afwijzingsgronden
+##### Artikel 9. Afwijzingsgronden
 
 De minister besluit afwijzend op een aanvraag indien:
 
@@ -180,7 +206,7 @@ De minister besluit afwijzend op een aanvraag indien:
 
 - b. het aangevraagde bedrag hoger is dan het bedrag waar de desbetreffende gemeente of provincie op basis van de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049907&artikel=5&z=2025-10-01&g=2025-10-01), genoemde verdeelsleutel aanspraak op kan maken.
 
-#### Artikel 10. Informatievoorziening na verlening
+##### Artikel 10. Informatievoorziening na verlening
 
 1. De gemeente of provincie informeert de minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering is verleend.
 
@@ -188,11 +214,11 @@ De minister besluit afwijzend op een aanvraag indien:
 
 3. De gemeente of provincie doet onverwijld schriftelijk mededeling aan de minister zodra aannemelijk is dat niet, niet tijdig, of niet geheel zal worden voldaan aan de in het eerste en tweede lid genoemde verplichtingen.
 
-#### Artikel 11. Verantwoording
+##### Artikel 11. Verantwoording
 
 De gemeente of provincie legt verantwoording af over de besteding van de specifieke uitkering op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 12. Vaststelling en terugvordering
+##### Artikel 12. Vaststelling en terugvordering
 
 1. De minister stelt de specifieke uitkering ambtshalve overeenkomstig de verlening vast uiterlijk op 31 december van het jaar waarin de minister de verantwoordingsinformatie, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), over de uitvoeringsperiode van de Minister van Binnenlandse Zaken en Koninkrijksrelaties heeft ontvangen, tenzij:
 
@@ -202,19 +228,19 @@ De gemeente of provincie legt verantwoording af over de besteding van de specifi
 
 2. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering in de uitvoeringsperiode niet volledig is besteed aan uitvoeringsactiviteiten waarvoor deze is verstrekt, of onrechtmatig is besteed, kan de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister worden teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de ontvanger van de specifieke uitkering.
 
-#### Artikel 13. Overgangsrecht
+##### Artikel 13. Overgangsrecht
 
 De [Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045908) wordt ingetrokken, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor intrekking van deze regeling zijn verleend.
 
-#### Artikel 14. Horizonbepaling
+##### Artikel 14. Horizonbepaling
 
 Deze regeling vervalt met ingang van 1 januari 2031, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verleend.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarige regeling verstrekking specifieke uitkeringen aardbevingsgebied Groningen 2024–2030.
 

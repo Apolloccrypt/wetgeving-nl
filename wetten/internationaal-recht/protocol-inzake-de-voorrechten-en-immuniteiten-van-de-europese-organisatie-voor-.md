@@ -1,13 +1,35 @@
 ---
 title: "Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond"
 identifier: "BWBV0003422"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-09-16
-laatste_update: 1975-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003422"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-09-16"
+last_updated: "1975-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003422"
+soort: "verdrag"
+stam_id: "10003526083"
+version_id: "10003575342"
+internal_id: "C10006982401"
+label_id: "10003511764"
+dtd_version: "2.0"
+original_entry_into_force: "1975-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003422/1975-09-16/0"
+intitule_bron: "Trb.1976-9"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-01-22"
+intitule_in_force: "1976-01-22"
+intitule_status: "goed"
+original_publication: "Trb.1976-9"
+original_published_date: "1976-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-9"
+entry_into_force_date: "1975-09-16"
+jci_1_3: "jci1.3:c:BWBV0003422&z=1975-09-16&g=1975-09-16"
+jci_1_0: "1.0:c:BWBV0003422&g=1975-09-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-09-16"
 ---
-
 # Protocol inzake de voorrechten en immuniteiten van de Europese Organisatie voor astronomisch onderzoek op het zuidelijk halfrond
 
 **Preambule**
@@ -20,21 +42,21 @@ Overwegende dat de Organisatie in Chili haar zetel heeft, waar haar status is om
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Organisatie bezit rechtspersoonlijkheid. Zij heeft in het bijzonder de bevoegdheid overeenkomsten te sluiten, roerende en onroerende goederen te verwerven en te vervreemden, en rechtsgedingen te voeren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met inachtneming van het bepaalde in het tweede lid van dit artikel en in de artikelen 5 en 6, zijn de gebouwen en terreinen van de Organisatie onschendbaar.
 
 2. De Organisatie staat niet toe dat haar gebouwen en terreinen als toevluchtsoord dienen voor enige persoon die wordt vervolgd wegens ontdekking op heterdaad van een misdrijf of een ander strafbaar feit of ten aanzien van wie een rechterlijk bevel, een veroordeling of een uitwijzingsbesluit bestaat, uitgevaardigd door de territoriaal bevoegde autoriteiten.
 
-#### Artikel 3
+##### Artikel 3
 
 Het archief van de Organisatie en in het algemeen alle documenten die haar toebehoren of die zij onder zich heeft zijn onschendbaar, waar zij zich ook bevinden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Binnen het raam van haar officiële werkzaamheden geniet de Organisatie immuniteit van rechtsmacht en executie, behoudens:
 
@@ -50,13 +72,13 @@ Het archief van de Organisatie en in het algemeen alle documenten die haar toebe
 
 2. Eigendommen en activa van de Organisatie, ongeacht waar deze zich bevinden, zijn vrij van elke vorm van vordering, inbeslagneming, onteigening en beslaglegging. Zij zijn eveneens vrij van elke vorm van administratieve of voorlopige gerechtelijke dwangmaatregel, behalve voor zover deze tijdelijk geboden zou zijn in verband met het voorkomen van ongevallen waarbij motorvoertuigen zijn betrokken die toebehoren aan de Organisatie of rijden voor rekening daarvan, en met het onderzoek waartoe deze ongevallen aanleiding kunnen geven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Organisatie werkt te allen tijde samen met de bevoegde autoriteiten van de Staten die partij zijn bij dit Protocol ter bevordering van een goede rechtsbedeling, ter verzekering van de naleving van politievoorschriften, voorschriften betreffende de volksgezondheid en arbeidsvoorschriften of andere soortgelijke wetten, alsmede ter voorkoming van misbruik van de in dit Protocol bedoelde voorrechten, immuniteiten en faciliteiten.
 
 2. De procedure te volgen bij de in het voorgaande lid genoemde samenwerking kan nader worden omschreven in de in artikel 27 van dit Protocol bedoelde aanvullende overeenkomsten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Iedere Staat die partij is bij dit Protocol behoudt zich het recht voor alle voorzorgen te treffen die nodig zijn in het belang van zijn veiligheid en van de handhaving van de openbare orde.
 
@@ -64,7 +86,7 @@ Het archief van de Organisatie en in het algemeen alle documenten die haar toebe
 
 3. De Organisatie werkt met de autoriteiten van de Staten die partij zijn bij dit Protocol samen ter vermijding van elke inbreuk op de veiligheid en de openbare orde van deze Staten wegens haar activiteiten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Binnen het raam van haar officiële werkzaamheden zijn de Organisatie, haar bezittingen en haar inkomsten vrijgesteld van alle directe belastingen.
 
@@ -72,55 +94,55 @@ Het archief van de Organisatie en in het algemeen alle documenten die haar toebe
 
 3. Geen vrijstelling wordt verleend ten aanzien van rechten en belastingen die niet anders zijn dan een vergoeding voor verleende diensten.
 
-#### Artikel 8
+##### Artikel 8
 
 Iedere Staat die partij is bij dit Protocol kent vrijstelling of terugbetaling toe van de belastingen en rechten bij invoer of uitvoer, met uitzondering van die welke niet anders zijn dan een vergoeding voor verleende diensten, op door de Organisatie ingevoerde of uitgevoerde materialen, bestemd voor officiële werkzaamheden alsmede publicaties die verband houden met haar taak.
 
 Deze produkten en materialen zijn vrijgesteld van alle in- en uitvoerverboden en beperkingen.
 
-#### Artikel 9
+##### Artikel 9
 
 De bepalingen in de artikelen 7 en 8 van dit Protocol zijn niet van toepassing op aankopen van goederen en betalingen voor diensten en op de invoer van goederen ten gerieve van de Directeur-Generaal en de personeelsleden van de Organisatie persoonlijk.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de Organisatie toebehorende goederen die zijn verworven overeenkomstig het bepaalde in artikel 7 of zijn ingevoerd overeenkomstig het bepaalde in artikel 8, mogen op het grondgebied van de Staat die de bovengenoemde vrijstellingen heeft verleend uitsluitend worden verkocht, weggegeven, uitgeleend of verhuurd op de door deze Staat vastgestelde voorwaarden.
 
 2. De overdracht van goederen en het verlenen van diensten tussen de vestigingen van de Organisatie zijn vrij van alle heffingen of beperkingen; in voorkomende gevallen nemen de Regeringen van de Staten die Partij zijn bij dit Protocol alle passende maatregelen om het met deze heffingen gemoeide bedrag terug te betalen of de betrokkenen van de verplichte betaling daarvan te ontheffen, of om deze beperkingen op te heffen.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de toepassing van dit Protocol worden onder „officiële werkzaamheden van de Organisatie” verstaan alle werkzaamheden van de Organisatie gericht op de verwezenlijking van haar doelstellingen, zoals omschreven in het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004585), met inbegrip van haar administratieve werkzaamheden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De verspreiding van geschriften en ander voorlichtingsmateriaal dat door of naar de Organisatie wordt verzonden, en verband houdt met haar doelstellingen, wordt op geen enkele wijze beperkt.
 
 2. Met betrekking tot haar officiële berichtgeving en het overbrengen van al haar documenten geniet de Organisatie een behandeling die niet minder gunstig is dan die welke de Regering van elke Staat die partij is bij dit Protocol andere soortgelijke internationale organisaties doet genieten.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Organisatie kan alle soorten fondsen, valuta's en kasgeld ontvangen, bezitten en overmaken; zij kan daarover vrijelijk beschikken voor haar officiële werkzaamheden en rekeningen aanhouden in elke valuta, in zoverre dit nodig is voor het nakomen van haar verplichtingen.
 
 2. Bij de uitoefening van de rechten die haar krachtens dit artikel zijn verleend, houdt de Organisatie rekening met alle vertogen van de Regering van een Staat die partij is bij dit Protocol en die haar eigen belangen niet aantasten.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De vertegenwoordigers van de Staten die partij zijn bij het Protocol, die deelnemen aan de vergaderingen van de Organisatie, genieten gedurende de uitoefening van hun functie en op hun reizen naar en van de plaats van de vergadering immuniteit van arrestatie of gevangenhouding, alsmede van inbeslagneming van hun persoonlijke bagage, behalve in geval van ontdekking op heterdaad. In een zodanig geval stellen de bevoegde autoriteiten onverwijld de Directeur-Generaal van de Organisatie of zijn vertegenwoordiger in kennis van de arrestatie of de inbeslagneming.
 
 2. De in dit artikel bedoelde personen genieten eveneens immuniteit van rechtsmacht, ook na beëindiging van hun missie, met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie en binnen de grenzen van hun bevoegdheden verricht. Deze vrijstelling geldt niet in geval van door de betrokkenen begane verkeersovertredingen, noch in geval van schade veroorzaakt door een motorvoertuig dat hun toebehoort of door hen werd bestuurd.
 
-#### Artikel 15
+##### Artikel 15
 
 Behalve de voorrechten en immuniteiten genoemd in de artikelen 16 en 17 geniet de Directeur-Generaal van de Organisatie of de persoon die hem vervangt gedurende de uitoefening van zijn functie dezelfde voorrechten en immuniteiten als die waarop volgens het [Verdrag van Wenen inzake diplomatiek verkeer](https://wetten.overheid.nl/jci1.3:c:BWBV0004345) van 18 april 1961 diplomatieke personen van vergelijkbare rang aanspraak kunnen maken.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De personen in dienst van de Organisatie genieten, ook na beëindiging van hun functie, vrijstelling van elke gerechtelijke actie met betrekking tot handelingen, waaronder begrepen gesproken en geschreven woorden, door hen in de uitoefening van hun functie en binnen de grenzen van hun bevoegdheden verricht.
 
 2. Deze vrijstelling geldt niet in geval van door de in het eerste lid van dit artikel genoemde personen begane verkeersovertredingen, noch in geval van schade veroorzaakt door een motorvoertuig dat hun toebehoort of door hen werd bestuurd.
 
-#### Artikel 17
+##### Artikel 17
 
 De personeelsleden van de Organisatie die in volledige dienst van de Organisatie zijn:
 
@@ -136,37 +158,37 @@ De personeelsleden van de Organisatie die in volledige dienst van de Organisatie
 
 - f. genieten, bij een internationale crisis, wat terugkeer naar hun vaderland betreft, dezelfde faciliteiten als die welke diplomatieke vertegenwoordigers worden toegekend; hun inwonende gezinsleden genieten dezelfde faciliteiten.
 
-#### Artikel 18
+##### Artikel 18
 
 Indien de Organisatie een eigen systeem van sociale voorzieningen instelt, dat voorziet in voldoende uitkeringen en verstrekkingen, zijn de Organisatie, haar Directeur-Generaal en personeelsleden vrijgesteld van alle verplichte bijdragen aan nationale sociale verzekeringsorganen, zulks met inachtneming van de overeenkomsten die zij, overeenkomstig het bepaalde in artikel 27, sluit met de betrokken Staten die partij zijn bij dit Protocol, of met inachtneming van door deze Staten vastgestelde overeenkomstige maatregelen.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Met inachtneming van de voorwaarden en ingevolge de procedure zoals die door de Raad uiterlijk na verloop van een jaar te rekenen van de datum van inwerkingtreding van het Protocol zijn vastgesteld, kunnen de Directeur-Generaal en de in artikel 17 bedoelde personeelsleden van de Organisatie worden onderworpen aan een belasting ten gunste van de Organisatie op door de Organisatie betaalde salarissen en emolumenten. Van de datum waarop deze belasting ingaat zijn deze salarissen en emolumenten vrij van nationale inkomstenbelasting; de Staten die partij zijn bij dit Protocol behouden zich evenwel het recht voor rekening te houden met deze salarissen en emolumenten bij de berekening van de belasting die geheven wordt op de inkomsten uit andere bronnen.
 
 2. De bepalingen van het eerste lid van dit artikel zijn niet van toepassing op door de Organisatie vanwege hun werkzaamheid bij de Organisatie aan haar vroegere Directeuren-Generaal en personeelsleden betaalde lijfrenten en pensioenen.
 
-#### Artikel 20
+##### Artikel 20
 
 De namen, hoedanigheden en adressen van de personeelsleden van de Organisatie bedoeld in artikel 17 van dit Protocol worden op gezette tijden ter kennis gebracht van de Regeringen der Staten die partij zijn bij dit Protocol.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De voorrechten en immuniteiten waarin dit Protocol voorziet zijn niet in het leven geroepen met het oogmerk aan de begunstigden persoonlijk voordeel toe te kennen. Zij zijn uitsluitend ingesteld teneinde het onbelemmerd functioneren van de Organisatie, zomede de volledige onafhankelijkheid van de personeelsleden aan wie zij worden toegekend onder alle omstandigheden te verzekeren.
 
 2. De Directeur-Generaal of de persoon die hem vervangt, of indien het de vertegenwoordiger betreft van een Staat die partij is bij dit Protocol, de Regering van genoemde Staat of indien het de Directeur-Generaal zelf betreft, de Raad, hebben het recht en de plicht deze immuniteit op te heffen indien zij van oordeel zijn dat deze immuniteit de normale rechtsgang belemmert en dat het mogelijk is van deze immuniteit afstand te doen zonder de doeleinden waarvoor zij is toegekend in gevaar te brengen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Geen enkele Staat die partij is bij dit Protocol, is verplicht de in de artikelen 14, 15 en 17 onder **a, b, c, e** en **f,** genoemde voorrechten en immuniteiten te verlenen aan zijn eigen onderdanen of aan ingezetenen van zijn grondgebied.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Organisatie is verplicht in alle schriftelijke overeenkomsten, niet zijnde overeenkomsten aangegaan overeenkomstig het personeelsstatuut, waarbij zij partij is, een arbitrageclausule op te nemen ingevolge welke eventuele geschillen die voortvloeien uit de uitlegging of uitvoering van die overeenkomst op verzoek van een der partijen aan een particuliere arbitrage kunnen worden voorgelegd. In deze arbitrageclausule wordt de wijze van benoeming van de scheidsmannen, de toepasselijke wet, alsmede het land waar de scheidsmannen zitting hebben, bepaald. De arbitrageprocedure is die welke in die Staat wordt gevolgd.
 
 2. De tenuitvoerlegging van de ingevolge een zodanige arbitrage gedane uitspraak is gebonden aan de regels die gelden in de Staat waarin deze ten uitvoer wordt gelegd.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Iedere Staat die partij is bij dit Protocol kan aan een internationaal scheidsgerecht elk geschil voorleggen:
 
@@ -182,7 +204,7 @@ De namen, hoedanigheden en adressen van de personeelsleden van de Organisatie be
 
 4. De uitspraak van het scheidsgerecht is definitief en niet vatbaar voor beroep; partijen zullen zich aan de uitspraak houden. Zo er onenigheid bestaat ten aanzien van de betekenis of draagwijdte van de uitspraak, is het scheidsgerecht verplicht deze, op verzoek van een der partijen, toe te lichten.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het in artikel 24 bedoelde scheidsgerecht bestaat uit drie leden, te weten een scheidsman die wordt benoemd door de Staat of Staten die partij is of zijn bij de arbitrage, een scheidsman die door de Organisatie wordt benoemd en een derde scheidsman, die als voorzitter optreedt en door de twee anderen wordt benoemd.
 
@@ -192,7 +214,7 @@ De namen, hoedanigheden en adressen van de personeelsleden van de Organisatie be
 
 4. Het scheidsgerecht stelt zijn eigen procedure vast.
 
-#### Artikel 26
+##### Artikel 26
 
 Ieder geschil omtrent de uitlegging of toepassing van dit Protocol dat zou kunnen rijzen tussen de Organisatie en de Regering van een Staat die partij is bij dit Protocol en dat niet door middel van rechtstreekse onderhandelingen kan worden geregeld, wordt, tenzij de partijen overeenstemming bereiken over een andere wijze van regeling van het geschil op verzoek van een der partijen voorgelegd aan een scheidsgerecht bestaande uit drie scheidsmannen, te weten een scheidsman aangewezen door de Directeur-Generaal van de Organisatie of de persoon die hem vervangt, een scheidsman aangewezen door de betrokken Staat of Staten die partij is of zijn bij dit Protocol en een derde scheidsman die in gemeen overleg wordt gekozen door de beide anderen en die geen functionaris mag zijn van de Organisatie en geen onderdaan van de betrokken Staat of Staten en die optreedt als voorzitter van het scheidsgerecht.
 
@@ -200,45 +222,45 @@ Het verzoek tot voorlegging aan een scheidsgerecht dient de naam te bevatten van
 
 Het scheidsgerecht stelt zijn eigen procedure vast. Zijn beslissingen zijn verplichtend voor partijen en niet vatbaar voor beroep.
 
-#### Artikel 27
+##### Artikel 27
 
 De Organisatie kan, ingevolge een beslissing van de Raad, met een of meer Staten die partij zijn bij dit Protocol aanvullende overeenkomsten aangaan teneinde uitvoering te geven aan de bepalingen van dit Protocol.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Dit Protocol staat open ter ondertekening door de Staten die partij zijn bij het [Verdrag tot oprichting van de Organisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0004585) van 5 oktober 1962.
 
 2. Dit Protocol dient te worden bekrachtigd of goedgekeurd. De akten van bekrachtiging of goedkeuring worden neergelegd in het archief van de Regering van de Franse Republiek.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit Protocol treedt in werking op de datum van nederlegging van de derde akte van bekrachtiging of goedkeuring.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Na zijn inwerkingtreding blijft dit Protocol openstaan voor toetreding door elke Staat die partij is bij het [Verdrag tot oprichting van de Organisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0004585) van 5 oktober 1962.
 
 2. De akten van toetreding worden neergelegd in het archief van de Regering van de Franse Republiek.
 
-#### Artikel 31
+##### Artikel 31
 
 Ten aanzien van elke Staat die dit Protocol na zijn inwerkingtreding bekrachtigt of goedkeurt of ten aanzien van elke Staat die daartoe toetreedt, treedt dit Protocol in werking op de datum van nederlegging van de akte van bekrachtiging, goedkeuring of toetreding.
 
-#### Artikel 32
+##### Artikel 32
 
 De Regering van de Franse Republiek geeft alle Staten die dit Protocol hebben ondertekend of tot dit Protocol zijn toegetreden, alsmede de Directeur-Generaal van de Organisatie, kennis van de nederlegging van iedere akte van bekrachtiging, goedkeuring of toetreding en van de inwerkingtreding van dit Protocol.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Dit Protocol blijft van kracht totdat het [Verdrag tot oprichting van de Organisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0004585) van 5 oktober 1962 afloopt.
 
 2. Iedere Staat die uit de Organisatie treedt of krachtens [artikel XI van het in het voorgaande lid bedoelde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004585&artikel=XI) niet langer partij daarbij is, houdt op partij te zijn bij dit Protocol.
 
-#### Artikel 34
+##### Artikel 34
 
 Dit Protocol dient te worden uitgelegd in het licht van zijn wezenlijk doel, te weten de Organisatie in staat te stellen haar opdracht volledig en doeltreffend uit te voeren en de functies uit te oefenen die haar bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004585) zijn opgelegd.
 
-#### Artikel 35
+##### Artikel 35
 
 Zodra dit Protocol in werking is getreden doet de Regering van de Franse Republiek het bij het Secretariaat van de Verenigde Naties registreren overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 

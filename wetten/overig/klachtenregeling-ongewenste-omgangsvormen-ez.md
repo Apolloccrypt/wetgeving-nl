@@ -1,13 +1,39 @@
 ---
-title: "Klachtenregeling ongewenste omgangsvormen EZ"
+title: "Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/12097016, houdende de aanwijzing van vertrouwenspersonen en de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Economische Zaken en de vaststelling van de Werkwijze ongewenste omgangsvormen (Klachtenregeling ongewenste omgangsvormen EZ)"
 identifier: "BWBR0032969"
-categorie: "Overig"
-publicatiedatum: 2018-05-25
-laatste_update: 2018-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032969"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-05-25"
+last_updated: "2018-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032969"
+soort: "ministeriele-regeling"
+stam_id: "12127663"
+version_id: "20235162"
+internal_id: "C28470791"
+label_id: "12099324"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032969/2018-05-25/0"
+intitule_bron: "Stcrt.2013-6239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-04"
+intitule_published: "2013-03-08"
+intitule_in_force: "2013-03-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-6239"
+original_signed_date: "2013-03-04"
+original_published_date: "2013-03-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-6239"
+entry_into_force_date: "2013-03-09"
+jci_1_3: "jci1.3:c:BWBR0032969&z=2018-05-25&g=2018-05-25"
+jci_1_0: "1.0:c:BWBR0032969&g=2018-05-25"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling ongewenste omgangsvormen EZ"
+signed_date: "2013-03-04"
+entry_into_force: "2013-03-09"
 ---
-
 # Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/12097016, houdende de aanwijzing van vertrouwenspersonen en de instelling van een klachtencommissie ongewenste omgangsvormen bij het Ministerie van Economische Zaken en de vaststelling van de Werkwijze ongewenste omgangsvormen (Klachtenregeling ongewenste omgangsvormen EZ)
 
 Gelet op [artikel 9:14 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14) en [artikel 3, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=3);
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -50,19 +76,19 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Werkwijze ongewenste omgangsvormen EZ
 
-#### Artikel 2
+##### Artikel 2
 
 1. De medewerker die met ongewenste omgangsvormen wordt geconfronteerd kan zich wenden tot een vertrouwenspersoon of een klacht indienen bij de commissie.
 
 2. Een klacht bij de commissie wordt gericht aan de Klachtencommissie ongewenste omgangsvormen EZ, EC O&P, Postbus 20011, 2500 EA Den Haag.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het ministerie wordt met klachten over ongewenste omgangsvormen omgegaan op de wijze die is beschreven in de bij deze regeling behorende bijlage Werkwijze ongewenste omgangsvormen EZ.
 
 #### § 3. Vertrouwenspersonen ongewenste omgangsvormen EZ
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij het ministerie en de diensten van het ministerie zijn vertrouwenspersonen ongewenste omgangsvormen.
 
@@ -72,7 +98,7 @@ Bij het ministerie wordt met klachten over ongewenste omgangsvormen omgegaan op 
 
 4. De vertrouwenspersonen ressorteren onder de secretaris-generaal.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vertrouwenspersoon heeft de volgende taken en bevoegdheden:
 
@@ -100,11 +126,11 @@ Bij het ministerie wordt met klachten over ongewenste omgangsvormen omgegaan op 
 
 #### § 4. Klachtencommissie ongewenste omgangsvormen
 
-#### Artikel 6
+##### Artikel 6
 
 Er is een Klachtencommissie ongewenste omgangsvormen EZ.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De commissie wordt telkens na het indienen van een klacht samengesteld.
 
@@ -118,7 +144,7 @@ Er is een Klachtencommissie ongewenste omgangsvormen EZ.
 
 4. De Afdelingsmanager Arbeidsjuridisch, Cluster Advies van EC O&P draagt tevens zorg voor secretariële ondersteuning van de commissie. De secretaris is geen lid van de commissie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De commissie heeft tot taak het verrichten van onderzoek naar de ingediende klacht en het daarover uitbrengen van een rapport van bevindingen, vergezeld van een advies en eventuele aanbevelingen aan de secretaris-generaal.
 
@@ -126,7 +152,7 @@ Er is een Klachtencommissie ongewenste omgangsvormen EZ.
 
 3. Als tijdens het onderzoek naar de klacht zowel de klager als degene op wie de klacht betrekking heeft bereid blijken tot bemiddeling of mediation schort de commissie, met instemming van de klager, de behandeling van de klacht op.
 
-#### Artikel 9
+##### Artikel 9
 
 De commissie is bevoegd:
 
@@ -142,7 +168,7 @@ De commissie is bevoegd:
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De vertrouwenspersonen brengen jaarlijks voor 1 maart gezamenlijk een verslag uit aan de secretaris-generaal.
 
@@ -150,7 +176,7 @@ De commissie is bevoegd:
 
 3. Het verslag wordt ter kennis gebracht van de Departementale Ondernemingsraad.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De commissie registreert alle schriftelijk ingediende klachten.
 
@@ -160,23 +186,23 @@ De commissie is bevoegd:
 
 4. Het verslag wordt ter kennis gebracht van de Departementale Ondernemingsraad en de vertrouwenspersonen.
 
-#### Artikel 12
+##### Artikel 12
 
 De commissie draagt zorg dat de op klachten betrekking hebbende dossiers worden overgedragen aan de directeur Bedrijfsvoering. Zij zijn alleen toegankelijk voor de minister, de secretaris-generaal, de directeur Bedrijfsvoering en de door deze daartoe aangewezen ambtenaren.
 
-#### Artikel 13
+##### Artikel 13
 
 De Klachtenregeling seksuele intimidatie en discriminatie LNV, de Algemene klachtenregeling medewerkers LNV, het [Besluit instelling ombudsfunctie EZ](https://wetten.overheid.nl/jci1.3:c:BWBR0011772) en de [Klachtenregeling ongewenste omgangsvormen EZ](https://wetten.overheid.nl/jci1.3:c:BWBR0017992) (regeling van 4 februari 2005, Stcrt. 35) worden ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien het bij Koninklijke boodschap van 25 februari 2012 ingediende voorstel van wet Regels omtrent de instelling van de Autoriteit Consument en Markt tot wet is of wordt verheven en die wet in werking treedt, wordt in de definitie van ‘medewerker’ in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0032969&paragraaf=1&artikel=1&z=2018-05-25&g=2018-05-25) ‘de Nederlandse Mededingingsautoriteit’ vervangen door: de Autoriteit Consument en Markt.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Klachtenregeling ongewenste omgangsvormen EZ.
 

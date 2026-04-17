@@ -1,13 +1,39 @@
 ---
-title: "Besluit percentages drempel- en toetsingsinkomen zorgtoeslag"
+title: "Besluit van 6 december 2011, houdende wijziging van de percentages van het drempel- en het toetsingsinkomen voor de berekening van de zorgtoeslag (Besluit percentages drempel- en toetsingsinkomen zorgtoeslag)"
 identifier: "BWBR0030989"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030989"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030989"
+soort: "AMvB"
+stam_id: "11591153"
+version_id: "19115852"
+internal_id: "C26651761"
+label_id: "11564154"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030989/2026-01-01/0"
+intitule_bron: "Stb.2011-620"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-06"
+intitule_published: "2011-12-20"
+intitule_in_force: "2011-12-20"
+intitule_status: "goed"
+original_publication: "Stb.2011-620"
+original_signed_date: "2011-12-06"
+original_published_date: "2011-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-620"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030989&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0030989&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit percentages drempel- en toetsingsinkomen zorgtoeslag"
+signed_date: "2011-12-06"
+entry_into_force: "2012-01-01"
 ---
-
 # Besluit van 6 december 2011, houdende wijziging van de percentages van het drempel- en het toetsingsinkomen voor de berekening van de zorgtoeslag (Besluit percentages drempel- en toetsingsinkomen zorgtoeslag)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport, van 25 oktober 2011, Z/F-3087929;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Het percentage van het drempelinkomen respectievelijk het percentage van het toetsingsinkomen, bedoeld in [artikel 2, derde lid, van de Wet op de zorgtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0018451&artikel=2), worden voor de hierna genoemde berekeningsjaren vastgesteld als in navolgend schema voor verzekerden met en zonder partner weergegeven:
 
@@ -43,15 +69,15 @@ Het percentage van het drempelinkomen respectievelijk het percentage van het toe
 | 2039 | 2,110% | 4,487% | 14,120% | 14,120% |
 | 2040 | 2,125% | 4,502% | 14,150% | 14,150% |
 
-#### Artikel 2
+##### Artikel 2
 
 Het Besluit van 9 september 2010, houdende wijziging van de percentages van het drempel- en toetsingsinkomen, benodigd voor de berekening van de zorgtoeslag (Stb. 2010, 714) wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Besluit percentages drempel- en toetsingsinkomen zorgtoeslag.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 januari 2012.
 

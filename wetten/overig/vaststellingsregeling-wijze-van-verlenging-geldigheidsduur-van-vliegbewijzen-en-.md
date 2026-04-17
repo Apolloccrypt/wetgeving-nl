@@ -1,20 +1,44 @@
 ---
 title: "Vaststellingsregeling wijze van verlenging geldigheidsduur van vliegbewijzen en bewijzen van bevoegdheid"
 identifier: "BWBR0009488"
-categorie: "Overig"
-publicatiedatum: 2006-07-09
-laatste_update: 2006-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009488"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-07-09"
+last_updated: "2006-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009488"
+soort: "ministeriele-regeling"
+stam_id: "5282153"
+version_id: "9497172"
+internal_id: "C12756371"
+label_id: "5257904"
+dtd_version: "2.0"
+original_entry_into_force: "1998-03-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009488/2006-07-09/0"
+intitule_bron: "Stcrt.1998-60"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-03-20"
+intitule_published: "1998-03-27"
+intitule_in_force: "1998-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-60"
+original_signed_date: "1998-03-20"
+original_published_date: "1998-03-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-03-29"
+jci_1_3: "jci1.3:c:BWBR0009488&z=2006-07-09&g=2006-07-09"
+jci_1_0: "1.0:c:BWBR0009488&g=2006-07-09"
+citeertitel_status: "officieel"
+signed_date: "1998-03-20"
+entry_into_force: "1998-03-29"
 ---
-
 # Vaststellingsregeling wijze van verlenging geldigheidsduur van vliegbewijzen en bewijzen van bevoegdheid
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de verlenging van de termijn van geldigheid van bewijzen van bevoegdheid en de daarin gestelde bevoegdverklaringen moet de houder, op de wijze als aangegeven in de bij deze regeling behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009488&bijlage=1&z=2006-07-09&g=2006-07-09), aantonen dat hij zijn bekwaamheid heeft behouden. Van deze verplichting kan door de Minister van Verkeer en Waterstaat ontheffing worden verleend.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Proeven van bekwaamheid moeten steeds worden afgelegd binnen een termijn van twee maanden voorafgaande aan de datum, waarop de termijn van geldigheid van het bewijs van bevoegdheid eindigt.
 
@@ -24,7 +48,7 @@ Voor de verlenging van de termijn van geldigheid van bewijzen van bevoegdheid en
 
 4. Vlieguren worden slechts in beschouwing genomen, voorzover deze uren zijn gevlogen als eerste bestuurder of als tweede bestuurder in de functie van eerste bestuurder.
 
-#### Artikel 3
+##### Artikel 3
 
 Als personen zoals bedoeld in het tweede lid van artikel 2 van deze regeling worden aangewezen:
 
@@ -66,11 +90,11 @@ Als personen zoals bedoeld in het tweede lid van artikel 2 van deze regeling wor
 
 6. In daartoe aanleiding gevende gevallen kan door de Minister van Verkeer en Waterstaat worden bepaald wie van de bij deze regeling aangewezen personen een proeve van bekwaamheid afneemt.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de houder van een bewijs van bevoegdheid niet voldoet aan de middels deze regeling gestelde voorwaarden voor de verlenging van het bewijs van bevoegdheid of daarin gestelde bevoegdverklaringen, kan eerst tot wederuitreiking worden overgegaan nadat hij door middel van een hem door de Minister van Verkeer en Waterstaat opgedragen examen, heeft aangetoond over de noodzakelijke kennis en bedrevenheid te beschikken.
 
-#### Artikel 5
+##### Artikel 5
 
 De houder van een verlopen Nederlands bewijs van bevoegdheid, uitgezonderd die als grondwerktuigkundige en als zweefvliegtechnicus, kan voor wederuitreiking in aanmerking komen indien hij:
 
@@ -82,7 +106,7 @@ De houder van een verlopen Nederlands bewijs van bevoegdheid, uitgezonderd die a
 
 - d. een medische keuring ondergaat zoals vereist voor het betreffende bewijs van bevoegdheid of een schriftelijke geldigverklaring overlegt van de Stichting Nationaal Lucht- en Ruimtevaart Geneeskundig Centrum (hierna afgekort NLRGC) op grond van het voor bedoelde keuring aan het NLRGC te verstrekken keuringsrapport, waaruit blijkt, dat de keuringseisen waaraan is voldaan, tenminste gelijk zijn aan de voor het betreffende Nederlandse bewijs van bevoegdheid of voor de Nederlandse bevoegdverklaring ‘Blindvliegen’ vastgestelde eisen inzake lichamelijke en geestelijke geschiktheid.
 
-#### Artikel 6
+##### Artikel 6
 
 De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 22 mei 1978, nr. LI/11521, wordt ingetrokken evenals de op grond van die regeling afgegeven beschikkingen.
 

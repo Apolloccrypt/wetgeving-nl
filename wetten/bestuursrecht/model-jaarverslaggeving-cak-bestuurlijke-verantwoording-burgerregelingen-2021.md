@@ -1,13 +1,38 @@
 ---
 title: "Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2021"
 identifier: "BWBR0046809"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-28
-laatste_update: 2022-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046809"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-06-28"
+last_updated: "2022-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046809"
+soort: "zbo"
+stam_id: "16391463"
+version_id: "28707052"
+internal_id: "C40526831"
+label_id: "16316504"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046809/2022-06-28/0"
+intitule_bron: "Stcrt.2022-16107"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-31"
+intitule_published: "2022-06-27"
+intitule_in_force: "2022-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16107"
+original_signed_date: "2022-05-31"
+original_published_date: "2022-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16107"
+entry_into_force_date: "2022-06-28"
+jci_1_3: "jci1.3:c:BWBR0046809&z=2022-06-28&g=2022-06-28"
+jci_1_0: "1.0:c:BWBR0046809&g=2022-06-28"
+citeertitel_status: "officieel"
+signed_date: "2022-05-31"
+entry_into_force: "2022-06-28"
 ---
-
 # Model Jaarverslaggeving CAK bestuurlijke verantwoording burgerregelingen 2021
 
 ### 1. Algemeen

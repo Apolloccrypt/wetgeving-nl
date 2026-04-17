@@ -1,13 +1,35 @@
 ---
 title: "Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Kroatië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling"
 identifier: "BWBV0006199"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006199"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006199"
+soort: "verdrag"
+stam_id: "10005092483"
+version_id: "10005900092"
+internal_id: "C10009413451"
+label_id: "10005075444"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006199/2019-01-01/0"
+intitule_bron: "Trb.2018-91"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2018-07-11"
+intitule_in_force: "2018-07-11"
+intitule_status: "vervallen"
+original_publication: "Trb.2018-91"
+original_published_date: "2018-07-11"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2018-91"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBV0006199&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBV0006199&g=2019-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-01-01"
 ---
-
 # Briefwisseling houdende een overeenkomst tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Republiek Kroatië betreffende automatische gegevensuitwisseling inzake inkomsten uit spaargelden in de vorm van rentebetaling
 
 Overwegende hetgeen volgt:
@@ -36,55 +58,55 @@ Door middel van deze Overeenkomst stemt Curaçao ermee in de bepalingen van de r
 
 De Regering van het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Regering van de Republiek Kroatië, geleid door de wens een Overeenkomst te sluiten die het mogelijk maakt dat inkomsten uit spaargelden in de vorm van rentebetaling die in een van de overeenkomstsluitende staten worden verricht aan uiteindelijk gerechtigden die een natuurlijke persoon zijn en hun woonplaats in de andere overeenkomstsluitende staat hebben, effectief worden belast overeenkomstig het recht van laatstgenoemde overeenkomstsluitende staat, in overeenstemming met de richtlijn en met de hierboven door de overeenkomstsluitende staten geuite voornemens, zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene werkingssfeer
+##### Artikel 1. Algemene werkingssfeer
 
 Vervallen
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Vervallen
 
-#### Artikel 3. Identiteit en woonplaats van de uiteindelijk gerechtigden
+##### Artikel 3. Identiteit en woonplaats van de uiteindelijk gerechtigden
 
 Vervallen
 
-#### Artikel 4. Automatische gegevensuitwisseling
+##### Artikel 4. Automatische gegevensuitwisseling
 
 Vervallen
 
-#### Artikel 5. Overgangsbepalingen
+##### Artikel 5. Overgangsbepalingen
 
 Vervallen
 
-#### Artikel 6. Verdeling van belastingopbrengsten
+##### Artikel 6. Verdeling van belastingopbrengsten
 
 Vervallen
 
-#### Artikel 7. Uitzonderingen op de procedure van bronbelasting
+##### Artikel 7. Uitzonderingen op de procedure van bronbelasting
 
 Vervallen
 
-#### Artikel 8. Vermijden van dubbele belasting
+##### Artikel 8. Vermijden van dubbele belasting
 
 Vervallen
 
-#### Artikel 9. Andere bronbelastingen
+##### Artikel 9. Andere bronbelastingen
 
 Vervallen
 
-#### Artikel 10. Omzetting
+##### Artikel 10. Omzetting
 
 Vervallen
 
-#### Artikel 11. Bijlage
+##### Artikel 11. Bijlage
 
 Vervallen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Vervallen
 
-#### Artikel 13. Beëindiging
+##### Artikel 13. Beëindiging
 
 Vervallen
 

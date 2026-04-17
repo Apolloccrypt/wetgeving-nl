@@ -1,13 +1,35 @@
 ---
 title: "Internationale Overeenkomst om de invoer van handelsmonsters, handelsstalen en reclamemateriaal te vergemakkelijken"
 identifier: "BWBV0005231"
-categorie: "Internationaal recht"
-publicatiedatum: 1955-11-20
-laatste_update: 1955-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005231"
+country: "nl"
+rank: "verdrag"
+publication_date: "1955-11-20"
+last_updated: "1955-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005231"
+soort: "verdrag"
+stam_id: "10004526553"
+version_id: "10004744102"
+internal_id: "C10007254791"
+label_id: "10004511324"
+dtd_version: "2.0"
+original_entry_into_force: "1955-11-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005231/1955-11-20/0"
+intitule_bron: "Trb.1954-202"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1954-12-20"
+intitule_in_force: "1955-12-16"
+intitule_status: "goed"
+original_publication: "Trb.1954-202"
+original_published_date: "1954-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1954-202"
+entry_into_force_date: "1955-11-20"
+jci_1_3: "jci1.3:c:BWBV0005231&z=1955-11-20&g=1955-11-20"
+jci_1_0: "1.0:c:BWBV0005231&g=1955-11-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "1955-11-20"
 ---
-
 # Internationale Overeenkomst om de invoer van handelsmonsters, handelsstalen en reclamemateriaal te vergemakkelijken
 
 De Regeringen, welke deze Overeenkomst hebben ondertekend,
@@ -16,7 +38,7 @@ De Regeringen, welke deze Overeenkomst hebben ondertekend,
 
 **Zijn overeengekomen** als volgt:
 
-#### Artikel I. Definities
+##### Artikel I. Definities
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -26,13 +48,13 @@ Voor de toepassing van deze Overeenkomst:
 
 - (c). wordt met het gebied van een Overeenkomstsluitende Partij bedoeld het moederland en elk ander gebied voor welks buitenlandse betrekkingen deze Overeenkomstsluitende Partij verantwoordelijk is en ten aanzien waarvan de Overeenkomst, overeenkomstig artikel XIII, mede van toepassing is.
 
-#### Artikel II. Vrijstelling van invoerrechten voor monsters en stalen met onbeduidende waarde
+##### Artikel II. Vrijstelling van invoerrechten voor monsters en stalen met onbeduidende waarde
 
 1. Elke Overeenkomstsluitende Partij verleent vrijstelling van invoerrechten voor in haar gebied ingevoerde monsters en stalen van alle soorten goederen, mits dergelijke monsters en stalen een onbeduidende waarde hebben en slechts kunnen dienen tot het opnemen van bestellingen voor in te voeren goederen van de soort, welke de monsters en stalen vertegenwoordigen. Om vast te stellen of de waarde van de monsters en stalen al dan niet onbeduidend is, kunnen de douane-autoriteiten van het gebied van invoer de waarde van ieder monster of staal op zich zelf in aanmerking nemen, of de gezamenlijke waarde van alle monsters en stalen, welke behoren tot een zelfde zending. De waarden van zendingen, welke door een zelfde afzender aan verschillende geadresseerden worden toegezonden, worden niet samengeteld voor de toepassing van dit lid, ook al worden deze zendingen gelijktijdig ingevoerd.
 
 2. De douane-autoriteiten van het gebied van invoer kunnen eisen dat voor het genieten van de vrijstelling van invoerrechten overeenkomstig het eerste lid van dit artikel, de monsters en stalen als handelsgoederen onbruikbaar worden gemaakt door ze te merken, te scheuren, te doorboren of op enige andere wijze te behandelen, zonder dat deze bewerking echter tot gevolg mag hebben, dat zij hun hoedanigheid van monsters en stalen zouden verliezen.
 
-#### Artikel III. Toelating van andere monsters en stalen met tijdelijke vrijstelling van invoerrechten
+##### Artikel III. Toelating van andere monsters en stalen met tijdelijke vrijstelling van invoerrechten
 
 1. Voor de toepassing van dit artikel wordt onder de uitdrukking „monsters en stalen” verstaan artikelen, welke een bepaalde categorie reeds vervaardigde goederen vertegenwoordigen of modellen zijn van goederen, waarvan de vervaardiging in het voornemen ligt, mits die artikelen:
 
@@ -56,7 +78,7 @@ met uitsluiting van dezelfde artikelen, ingevoerd door dezelfde persoon of aan d
 
 6. Bij wederuitvoer binnen de vastgestelde termijn van monsters en stalen, ingevoerd onder de bij dit artikel voorziene voorwaarden, wordt de krachtens het tweede lid van ditzelfde artikel bij de invoer verstrekte zekerheidsstelling in geld of de in enigerlei andere vorm gestelde zekerheid onverwijld terugbetaald dan wel opgeheven, zulks op elk douanekantoor aan de grens of in het binnenland, dat daartoe gemachtigd is, behoudens eventuele vermindering voor rechten en andere bedragen, verschuldigd voor de monsters en stalen welke niet ten wederuitvoer zijn vertoond. In bepaalde zeer bijzondere omstandigheden kan de zekerheidsstelling in geld echter op andere wijze worden terugbetaald, mits deze restitutie snel plaats vindt. Elke Overeenkomstsluitende Partij zal een lijst publiceren van de douanekantoren, waaraan voormelde machtiging is verleend.
 
-#### Artikel IV. Invoer van reclamemateriaal met vrijstelling van invoerrechten
+##### Artikel IV. Invoer van reclamemateriaal met vrijstelling van invoerrechten
 
 1. Elke Overeenkomstsluitende Partij verleent vrijstelling van invoerrechten voor catalogi, prijscouranten en ander handelsdrukwerk, welke betrekking hebben op door een op het gebied van een andere Overeenkomstsluitende Partij gevestigde persoon
 
@@ -80,7 +102,7 @@ Gelijktijdige toezending van een bepaald aantal zendingen aan verschillende gead
 
 - (b). catalogi, prijscouranten en ander handelsdrukwerk, welke tegenover de douane-autoriteiten van het gebied van invoer ten invoer in het vrije verkeer zijn aangegeven in bij elkaar gevoegde pakketten, om daarna te worden verzonden naar afzonderlijke adressen in dat gebied.
 
-#### Artikel V. Toelating van reclamefilms met tijdelijke vrijstelling van invoerrechten
+##### Artikel V. Toelating van reclamefilms met tijdelijke vrijstelling van invoerrechten
 
 Onder de in artikel III van deze Overeenkomst vastgestelde voorwaarden verleent elke Overeenkomstsluitende Partij de bij dat artikel voorziene faciliteiten voor diapositieve cinematografische reclamefilms, welke niet breder zijn dan 16 mm, wanneer ten genoege van de douane-autoriteiten is aangetoond, dat het films betreft welke hoofdzakelijk fotografische beelden (met of zonder geluidsband) weergeven, welke de aard of de werking tonen van voortbrengselen of materieel, waarvan de hoedanigheden niet op geschikte wijze kunnen worden gedemonstreerd door monsters, stalen of catalogi, mits deze films:
 
@@ -90,7 +112,7 @@ Onder de in artikel III van deze Overeenkomst vastgestelde voorwaarden verleent 
 
 - (c). ingevoerd worden in een collo, dat niet meer dan één copie van elke film bevat en dat geen deel uitmaakt van een grotere zending films.
 
-#### Artikel VI. Tijdelijke opheffing van invoerverboden en invoerbeperkingen
+##### Artikel VI. Tijdelijke opheffing van invoerverboden en invoerbeperkingen
 
 1. Geen enkele Overeenkomstsluitende Partij past invoerverboden of invoerbeperkingen (andere dan invoerrechten) toe, hetzij door middel van contingenteringen, invoervergunningen dan wel door andere maatregelen, op uit het gebied van een andere Overeenkomstsluitende Partij herkomstige goederen:
 
@@ -120,13 +142,13 @@ Ingeval deze goederen niet worden wederuitgevoerd binnen de termijn, waarvoor de
 
 - (g). welke noodzakelijk zijn voor de toepassing van normen of regelingen inzake classificatie, kwaliteitscontrole of het op de markt brengen van voortbrengselen, bestemd voor de internationale handel.
 
-#### Artikel VII. Vereenvoudiging der formaliteiten
+##### Artikel VII. Vereenvoudiging der formaliteiten
 
 1. Elke Overeenkomstsluitende Partij zal de formaliteiten, welke in verband met de bij deze Overeenkomst voorziene faciliteiten vereist zijn, tot een minimum beperken.
 
 2. Elke Overeenkomstsluitende Partij moet alle regelingen, welke op dit gebied zijn uitgevaardigd, onverwijld op zodanige wijze publiceren, dat de betrokken personen er kennis van kunnen nemen ten einde nadelen te vermijden welke zouden kunnen voortvloeien uit de toepassing van formaliteiten, waarmee zij niet op de hoogte zijn.
 
-#### Artikel VIII. Regeling van geschillen
+##### Artikel VIII. Regeling van geschillen
 
 1. Elk geschil dat mocht rijzen tussen twee of meer Overeenkomstsluitende Partijen naar aanleiding van de interpretatie of de toepassing van deze Overeenkomst wordt zoveel mogelijk geregeld door middel van rechtstreekse onderhandelingen tussen hen.
 
@@ -134,35 +156,35 @@ Ingeval deze goederen niet worden wederuitgevoerd binnen de termijn, waarvoor de
 
 3. De beslissing van de persoon of van het lichaam, aangewezen krachtens het tweede lid van dit artikel, is bindend voor de betrokken Overeenkomstsluitende Partijen.
 
-#### Artikel IX. Ondertekening en bekrachtiging
+##### Artikel IX. Ondertekening en bekrachtiging
 
 1. Deze Overeenkomst staat tot 30 Juni 1953 open voor ondertekening door de Regeringen welke Partij zijn bij de Algemene Overeenkomst betreffende Tarieven en Handel, evenals door de Regeringen van alle Staten-Leden der Verenigde Naties of van elke andere Staat aan welke de Secretaris-Generaal van de Verenigde Naties daartoe een afschrift van deze Overeenkomst heeft doen toekomen.
 
 2. Deze Overeenkomst is onderworpen aan bekrachtiging of aanvaarding door de ondertekenende Regeringen overeenkomstig de procedure voorzien bij hun grondwet. De akten van bekrachtiging of van aanvaarding worden nedergelegd bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel X. Toetreding
+##### Artikel X. Toetreding
 
 1. Deze Overeenkomst staat open voor toetreding door de Regeringen der Staten bedoeld in het eerste lid van artikel IX.
 
 2. Toetreding vindt plaats door middel van nederlegging van een akte van toetreding bij de Secretaris-Generaal der Verenigde Naties.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 Wanneer vijftien der in artikel IX bedoelde Regeringen hun akten van bekrachtiging, aanvaarding of toetreding hebben nedergelegd zal deze Overeenkomst tussen hen in werking treden op de dertigste dag volgende op de datum van nederlegging van de vijftiende akte van bekrachtiging, aanvaarding of toetreding. Ten aanzien van elke andere Regering zal zij in werking treden op de dertigste dag volgende op die waarop deze Regering haar akte van bekrachtiging, aanvaarding of toetreding heeft nedergelegd.
 
-#### Artikel XII. Opzegging
+##### Artikel XII. Opzegging
 
 1. Nadat deze Overeenkomst gedurende drie jaar in werking is geweest, kan elke Overeenkomstsluitende Partij haar opzeggen door een daartoe strekkende kennisgeving aan de Secretaris-Generaal der Verenigde Naties te richten.
 
 2. De opzegging zal van kracht worden zes maanden na de datum waarop de Secretaris-Generaal der Verenigde Naties de kennisgeving van opzegging heeft ontvangen.
 
-#### Artikel XIII. Toepassing op andere gebiedsdelen
+##### Artikel XIII. Toepassing op andere gebiedsdelen
 
 1. Elke Regering kan, ten tijde van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, of op elk later tijdstip, verklaren door een aan de Secretaris-Generaal der Verenigde Naties gerichte kennisgeving dat deze Overeenkomst mede van toepassing zal zijn op één of meer der gebieden voor welker internationale betrekkingen zij verantwoordelijk is, en de Overeenkomst zal mede van toepassing zijn op de in genoemde kennisgeving bedoelde gebieden met ingang van de dertigste dag volgende op de datum waarop de Secretaris-Generaal der Verenigde Naties deze kennisgeving zal hebben ontvangen of op de datum waarop de Overeenkomst in werking zal treden krachtens artikel XI indien deze laatste datum later valt.
 
 2. Elke Regering welke overeenkomstig het eerste lid van dit artikel een verklaring heeft afgelegd, waarbij deze Overeenkomst mede van toepassing zal zijn op een gebied voor welks internationale betrekkingen deze Regering verantwoordelijk is, kan de Overeenkomst, overeenkomstig de bepalingen van artikel XII, afzonderlijk opzeggen ten aanzien van dat gebied.
 
-#### Artikel XIV. Voorbehouden
+##### Artikel XIV. Voorbehouden
 
 1. Elke Staat kan, ten tijde van de ondertekening of nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, verklaren dat hij zich niet gebonden acht door zekere door deze Staat aangegeven bepalingen van deze Overeenkomst.
 
@@ -176,7 +198,7 @@ Wanneer vijftien der in artikel IX bedoelde Regeringen hun akten van bekrachtigi
 
 6. Elk bezwaar gemaakt door een Staat welke de Overeenkomst heeft ondertekend zonder deze te bekrachtigen of te aanvaarden, houdt op geldig te zijn indien binnen twaalf maanden volgend op de dag waarop deze Staat dit bezwaar heeft gemaakt, genoemde Staat de Overeenkomst niet heeft bekrachtigd noch aanvaard.
 
-#### Artikel XV. Kennisgeving der ondertekeningen, bekrachtigingen, aanvaardingen en toetredingen
+##### Artikel XV. Kennisgeving der ondertekeningen, bekrachtigingen, aanvaardingen en toetredingen
 
 1. De Secretaris-Generaal der Verenigde Naties zal aan alle ondertekenende en toetredende Staten, en aan alle andere Staten welke hierom verzoeken, kennis geven van de ondertekeningen, bekrachtigingen en aanvaardingen van deze Overeenkomst, en van de toetredingen tot deze Overeenkomst; hij zal hun eveneens kennis geven van de datum waarop de Overeenkomst in werking zal treden en van elke mededeling welke hij heeft ontvangen krachtens artikel XII of XIII.
 

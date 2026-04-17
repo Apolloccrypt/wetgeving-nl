@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de instandhouding van de levende rijkdommen in de Antarctische wateren"
 identifier: "BWBV0003305"
-categorie: "Milieu"
-publicatiedatum: 1990-03-25
-laatste_update: 1990-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003305"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-03-25"
+last_updated: "1990-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003305"
+soort: "verdrag"
+stam_id: "10003467423"
+version_id: "10003514672"
+internal_id: "C10006979901"
+label_id: "10003453594"
+dtd_version: "2.0"
+original_entry_into_force: "1990-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003305/1990-03-25/0"
+intitule_bron: "Trb.1985-78"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1985-05-21"
+intitule_in_force: "1990-05-16"
+intitule_status: "goed"
+original_publication: "Trb.1985-78"
+original_published_date: "1985-05-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-78"
+entry_into_force_date: "1990-03-25"
+jci_1_3: "jci1.3:c:BWBV0003305&z=1990-03-25&g=1990-03-25"
+jci_1_0: "1.0:c:BWBV0003305&g=1990-03-25"
+citeertitel_status: "redactioneel"
+entry_into_force: "1990-03-25"
 ---
-
 # Verdrag inzake de instandhouding van de levende rijkdommen in de Antarctische wateren
 
 De Verdragsluitende Partijen,
@@ -34,7 +56,7 @@ Erkennende, in het licht van het voorgaande, dat het wenselijk is een gepaste re
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Dit Verdrag is van toepassing op de levende rijkdommen in de Antarctische wateren in het gebied bezuiden 60° zuiderbreedte en op de levende rijkdommen in de Antarctische wateren in het gebied tussen die breedtegraad en de Antarctische convergentie die deel uitmaken van het mariene ecosysteem van Antarctica.
 
@@ -46,7 +68,7 @@ Zijn het volgende overeengekomen:
 
 50° ZB, 0°; 50° ZB, 30° OL; 45° ZB, 30° OL; 45° ZB, 80° OL; 55° ZB 80°OL;55°ZB, 150°OL;60°ZB, 150° OL; 60°ZB, 50°WL;50°ZB,50° WL; 50° ZB, 0°.
 
-#### Artikel II
+##### Artikel II
 
 1. Het doel van dit Verdrag is de instandhouding van de levende rijkdommen in de Antarctische wateren.
 
@@ -60,11 +82,11 @@ Zijn het volgende overeengekomen:
 
 - c). veranderingen of de kans op veranderingen in het mariene ecosysteem die niet potentieel omkeerbaar zijn in twee of drie decennia moeten worden voorkomen of zoveel mogelijk worden beperkt; daarbij moet rekening worden gehouden met de stand van de beschikbare kennis over de directe en indirecte gevolgen van de exploitatie, het gevolg van de invoering van vreemde soorten, de gevolgen van daarmee samenhangende activiteiten voor het mariene ecosysteem en de gevolgen van veranderingen in het milieu, ten einde een duurzame instandhouding van de levende rijkdommen in de Antarctische wateren mogelijk te maken.
 
-#### Artikel III
+##### Artikel III
 
 De Verdragsluitende Partijen, ongeacht of zij Partij zijn bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237), komen overeen dat zij geen activiteiten zullen ontplooien in het gebied van het Verdrag inzake Antarctica die strijdig zijn met de beginselen en doeleinden van dat Verdrag en dat zij in hun onderlinge betrekkingen gebonden zijn door de verplichtingen die vervat zijn in de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=I) en [V van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=V).
 
-#### Artikel IV
+##### Artikel IV
 
 1. Ten aanzien van het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, zijn alle Verdragsluitende Partijen, ongeacht of zij Partij zijn bij het Verdrag inzake Antarctica, in hun onderlinge betrekkingen gebonden door de [Artikelen IV](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IV) en [VI van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=VI).
 
@@ -78,7 +100,7 @@ De Verdragsluitende Partijen, ongeacht of zij Partij zijn bij het [Verdrag inzak
 
 - d). mag afbreuk doen aan de in [artikel IV, tweede lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IV) vervatte bepaling dat zolang het Verdrag inzake Antarctica van kracht is, geen nieuwe aanspraken op uitbreiding van reeds bestaande aanspraken op territoriale soevereiniteit in Antarctica geldend kunnen worden gemaakt.
 
-#### Artikel V
+##### Artikel V
 
 1. De Verdragsluitende Partijen die geen Partij zijn bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) erkennen de bijzondere verplichtingen en verantwoordelijkheden van de Consultatieve Partijen bij het Verdrag inzake Antarctica ten aanzien van de bescherming en instandhouding van het milieu in het gebied waarop het Verdrag inzake Antarctica van toepassing is.
 
@@ -86,11 +108,11 @@ De Verdragsluitende Partijen, ongeacht of zij Partij zijn bij het [Verdrag inzak
 
 3. In dit Verdrag wordt onder Consultatieve Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) verstaan de Verdragsluitende Partijen bij het Verdrag inzake Antarctica wier vertegenwoordigers aan de vergaderingen deelnemen krachtens [artikel IX van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX).
 
-#### Artikel VI
+##### Artikel VI
 
 Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichtingen van de Verdragsluitende Partijen ingevolge het [Verdrag tot regeling van de walvisvangst](https://wetten.overheid.nl/jci1.3:c:BWBV0005482) en het Verdrag inzake de instandhouding van Antarctische zeehonden.
 
-#### Artikel VII
+##### Artikel VII
 
 1. De Verdragsluitende Partijen komen overeen de Commissie voor de instandhouding van de levende rijkdommen in de Antarctische wateren, hierna „de Commissie” te noemen, in te stellen en in stand te houden.
 
@@ -106,11 +128,11 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 3. Elk lid van de Commissie wordt vertegenwoordigd door een vertegenwoordiger, die mag worden vergezeld door plaatsvervangers en adviseurs.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De Commissie heeft rechtspersoonlijkheid en beschikt op het grondgebied van de Verdragsluitende Partijen over de handelingsbekwaamheid die nodig is voor het uitoefenen van haar taken en voor het bereiken van de doeleinden van dit Verdrag. De voorrechten en immuniteiten die de Commissie en haar personeelsleden op het grondgebied van een Staat (Partij) genieten, worden in overleg tussen de Commissie en de betrokken Staat (Partij) vastgesteld.
 
-#### Artikel IX
+##### Artikel IX
 
 1. De Commissie heeft tot taak te ijveren voor de verwezenlijking van het doel en de beginselen die vermeld zijn in artikel II van dit Verdrag. Daartoe zorgt zij voor:
 
@@ -166,17 +188,17 @@ De Commissie heeft rechtspersoonlijkheid en beschikt op het grondgebied van de V
 
 - d). indien een lid van de Commissie gebruik maakt van de onder c) bedoelde procedure, komt de Commissie, op verzoek van een lid van de Commissie bijeen om de instandhoudingsmaatregel opnieuw te bezien. Tijdens een dergelijke vergadering en binnen 30 dagen na de vergadering heeft elk lid van de Commissie het recht te verklaren dat het de instandhoudingsmaatregel niet meer kan aanvaarden; de betrokken maatregel is dan niet meer bindend voor dat lid.
 
-#### Artikel X
+##### Artikel X
 
 1. De Commissie vestigt de aandacht van Staten die geen Partij zijn bij dit Verdrag op eventuele activiteiten van hun onderdanen of vaartuigen die de verwezenlijking van het bij dit Verdrag gestelde doel naar de mening van de Commissie nadelig beïnvloeden.
 
 2. De Commissie vestigt de aandacht van alle Verdragsluitende Partijen op activiteiten die naar de mening van de Commissie een Verdragsluitende Partij belemmeren bij de verwezenlijking van het bij dit Verdrag gestelde doel of bij het nakomen van de verplichtingen die krachtens dit Verdrag op die Verdragsluitende Partij rusten.
 
-#### Artikel XI
+##### Artikel XI
 
 De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in de zeegebieden welke grenzen aan het gebied waarop dit Verdrag van toepassing is rechtsmacht kunnen uitoefenen ten aanzien van de instandhouding van een bestand of van een aantal bestanden van verwante soorten die zowel voorkomen in die gebieden als in het gebied waarop dit Verdrag van toepassing is, ten einde de voor die bestanden vastgestelde instandhoudingsmaatregelen te harmoniseren.
 
-#### Artikel XII
+##### Artikel XII
 
 1. Besluiten van de Commissie over kwesties van wezenlijk belang worden met algemene instemming genomen. De vraag of een kwestie van wezenlijk belang is, wordt behandeld als een kwestie van wezenlijk belang.
 
@@ -186,7 +208,7 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 4. Wanneer besluiten overeenkomstig dit artikel worden genomen, heeft een organisatie voor regionale economische integratie slechts één stem.
 
-#### Artikel XIII
+##### Artikel XIII
 
 1. Het hoofdkantoor van de Commissie zal worden gevestigd in Hobart, Tasmanië, Australië.
 
@@ -200,7 +222,7 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 6. De Commissie kan de ondergeschikte organen instellen die zij nodig acht voor de uitoefening van haar functies.
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. De Verdragsluitende Partijen stellen hierbij het Wetenschappelijk Comité voor de instandhouding van de levende rijkdommen in de Antarctische wateren (hierna „Wetenschappelijk Comité” te noemen) in, dat fungeert als consultatief orgaan van de Commissie. Het Wetenschappelijk Comité komt gewoonlijk bijeen op het hoofdkantoor van de Commissie, tenzij het Wetenschappelijk Comité anders beslist.
 
@@ -208,7 +230,7 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 3. Het Wetenschappelijk Comité mag zo nodig op ad hoc-basis het advies van andere wetenschapsmensen en deskundigen inwinnen.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Het Wetenschappelijk Comité fungeert als forum voor overleg en samenwerking op het gebied van het verzamelen, bestuderen en uitwisselen van gegevens over de mariene levende rijkdommen waarop dit Verdrag van toepassing is. Het zal samenwerking op het gebied van het wetenschappelijk onderzoek aanmoedigen en bevorderen om de kennis over de mariene levende rijkdommen van het Antarctische mariene ecosysteem uit te breiden.
 
@@ -228,7 +250,7 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 3. Bij de uitoefening van zijn functie houdt het Wetenschappelijk Comité rekening met de werkzaamheden van andere terzake gespecialiseerde technische en wetenschappelijke organisaties en met de wetenschappelijke werkzaamheden die worden uitgevoerd in het kader van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. De eerste vergadering van het Wetenschappelijk Comité wordt gehouden binnen drie maanden na de eerste vergadering van de Commissie. Het Wetenschappelijk Comité komt daarna zo vaak bijeen als nodig is voor de uitoefening van zijn functies.
 
@@ -236,7 +258,7 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 3. Het Wetenschappelijk Comité kan met instemming van de Commissie de ondergeschikte organen instellen die nodig zijn voor de uitoefening van zijn functies.
 
-#### Artikel XVII
+##### Artikel XVII
 
 1. De Commissie benoemt een uitvoerend secretaris die de Commissie en het Wetenschappelijk Comité ten dienste staat overeenkomstig de procedures, bepalingen en voorwaarden die de Commissie ter zake vaststelt. Hij heeft een ambtstermijn van vier jaar en kan opnieuw worden benoemd.
 
@@ -244,11 +266,11 @@ De Commissie streeft naar samenwerking met de Verdragsluitende Partijen die in d
 
 3. De uitvoerend secretaris en het Secretariaat vervullen de functies die hun door de Commissie worden toevertrouwd.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn het Engels, het Frans, het Russisch en het Spaans.
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. De Commissie keurt haar begroting en de begroting van het Wetenschappelijk Comité met algemene instemming goed tijdens de jaarlijkse vergadering.
 
@@ -262,7 +284,7 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 6. Een lid van de Commissie dat zijn bijdrage voor twee achtereenvolgende jaren niet heeft betaald, mag, zolang het in gebreke blijft, niet deelnemen aan de besluitvorming in de Commissie.
 
-#### Artikel XX
+##### Artikel XX
 
 1. De leden van de Commissie verstrekken de Commissie en het Wetenschappelijk Comité in zo ruim mogelijke mate jaarlijks de statistische, biologische en andere gegevens en inlichtingen die de Commissie en het Wetenschappelijk Comité nodig hebben voor de uitoefening van hun functies.
 
@@ -272,19 +294,19 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 4. De leden van de Commissie komen overeen dat bij al hun exploitatie-activiteiten van de gelegenheid gebruik zal worden gemaakt om gegevens te verzamelen die nodig zijn ter beoordeling van het effect van de exploitatie.
 
-#### Artikel XXI
+##### Artikel XXI
 
 1. Elke Verdragsluitende Partij neemt de passende maatregelen die binnen haar bevoegdheid vallen om ervoor te zorgen dat de hand wordt gehouden aan de bepalingen van dit Verdrag en aan de door de Commissie vastgestelde instandhoudingsmaatregelen waaraan elke Partij overeenkomstig artikel IX van dit Verdrag gebonden is.
 
 2. Elke Verdragsluitende Partij doet de Commissie inlichtingen toekomen over de krachtens het eerste lid hierboven genomen maatregelen, met inbegrip van de sancties die op overtredingen zijn gesteld.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Elke Verdragsluitende Partij neemt de verplichting op zich passende maatregelen te nemen die in overeenstemming dienen te zijn met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143), om te voorkomen dat activiteiten worden ontplooid die in strijd zijn met het doel van dit Verdrag.
 
 2. Elke Verdragsluitende Partij stelt de Commissie in kennis van dergelijke activiteiten die onder haar aandacht komen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. De Commissie en het Wetenschappelijk Comité werken samen met de Consultatieve Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) op de gebieden waarop deze Partijen bevoegd zijn.
 
@@ -294,7 +316,7 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 4. De Commissie kan overeenkomsten sluiten met de in dit artikel bedoelde organisaties en zo nodig ook met andere organisaties. De Commissie en het Wetenschappelijk Comité kunnen dergelijke organisaties uitnodigen om waarnemers te zenden naar hun vergaderingen en naar vergaderingen van hun ondergeschikte organen.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 1. Om de verwezenlijking van het bij dit Verdrag gestelde doel te bevorderen en ervoor te zorgen dat de bepalingen van dit Verdrag worden nageleefd, komen de Verdragsluitende Partijen overeen dat er een waarnemings- en inspectiesysteem zal worden ingesteld.
 
@@ -308,7 +330,7 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 3. In afwachting van de vaststelling van het waarnemings- en inspectiesysteem streven de leden van de Commissie ernaar tussentijdse regelingen te treffen voor de aanwijzing van waarnemers en inspecteurs; de aldus aangewezen waarnemers en inspecteurs mogen inspecties verrichten overeenkomstig de beginselen die in het tweede lid hierboven zijn vermeld.
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Indien tussen twee of meer Verdragsluitende Partijen een geschil ontstaat over de uitlegging of toepassing van dit Verdrag, treden deze Verdragsluitende Partijen met elkaar in overleg om het geschil te regelen via onderhandelingen, onderzoek, bemiddeling, verzoening, arbitrage, gerechtelijke uitspraak of via andere vreedzame middelen naar hun eigen keuze.
 
@@ -316,31 +338,31 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 3. Indien het geschil aan arbitrage wordt onderworpen, wordt het scheidsgerecht samengesteld zoals is aangegeven in de bijlage bij dit Verdrag.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 1. Dit Verdrag staat van 1 augustus tot en met 31 december 1980 te Canberra open voor ondertekening door de Staten die hebben deelgenomen aan de van 7 tot en met 20 mei 1980 te Canberra gehouden Conferentie inzake de instandhouding van de levende rijkdommen in de Antarctische wateren.
 
 2. De Staten die aldus ondertekenen, zijn de oorspronkelijke ondertekenaars van het Verdrag.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 1. Dit Verdrag dient door de ondertekenende Staten te worden be krachtigd, aanvaard of goedgekeurd.
 
 2. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Regering van Australië, die hierbij wordt aangewezen als de Depositaris.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 1. Dit Verdrag treedt in werking op de dertigste dag volgende op de datum van nederlegging van de achtste akte van bekrachtiging, aanvaarding of goedkeuring door de Staten bedoeld in artikel XXVI, eerste lid, van dit Verdrag.
 
 2. Voor elke Staat of organisatie voor regionale economische integratie die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na de datum van inwerkingtreding van dit Verdrag, treedt het Verdrag in werking op de dertigste dag volgende op deze nederlegging.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 1. Elke Staat die belangstelling heeft voor onderzoek naar of exploitatie van de levende mariene rijkdommen waarop dit Verdrag van toepassing is, kan toetreden tot dit Verdrag.
 
 2. Door soevereine Staten gevormde organisaties voor regionale economische integratie die een of meer Lid-Staten van de Commissie onder hun leden tellen en waaraan de Lid-Staten van de organisatie geheel of gedeeltelijk bevoegdheden inzake de in dit Verdrag opgenomen aangelegenheden hebben overgedragen, kunnen tot dit Verdrag toetreden. De leden van de Commissie dienen te worden geraadpleegd over de toetreding van dergelijke organisaties voor regionale economische integratie.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. Dit Verdrag kan te allen tijde worden gewijzigd.
 
@@ -350,7 +372,7 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 4. Een dergelijke wijziging wordt daarna van kracht ten aanzien van elke andere Verdragsluitende Partij wanneer de Depositaris de kennisgeving van bekrachtiging, aanvaarding of goedkeuring van die Partij heeft ontvangen. Indien een dergelijke kennisgeving van een Verdragsluitende Partij niet is ontvangen binnen een jaar na de datum waarop de wijziging overeenkomstig het derde lid hierboven van kracht is geworden, wordt die Partij geacht zich uit dit Verdrag te hebben teruggetrokken.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 1. Elke Verdragsluitende Partij kan zich op 30 juni van elk jaar uit dit Verdrag terugtrekken door uiterlijk op 1 januari van hetzelfde jaar een schriftelijke kennisgeving te richten aan de Depositaris, die onmiddellijk na ontvangst van een dergelijke kennisgeving daarvan mededeling doet aan de andere Verdragsluitende Partijen.
 
@@ -358,7 +380,7 @@ De officiële talen van de Commissie en van het Wetenschappelijk Comité zijn he
 
 3. Terugtrekking van een lid van de Commissie uit dit Verdrag laat de financiële verplichtingen die krachtens dit Verdrag op dat lid rusten onverlet.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 De Depositaris stelt alle Verdragsluitende Partijen in kennis van:
 
@@ -366,7 +388,7 @@ De Depositaris stelt alle Verdragsluitende Partijen in kennis van:
 
 - b). de datum van inwerkingtreding van dit Verdrag en van eventuele wijzigingen daarvan.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 1. Dit Verdrag, waarvan de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Regering van Australië, die alle ondertekenende en toetredende Partijen naar behoren gewaarmerkte afschriften doet toekomen.
 

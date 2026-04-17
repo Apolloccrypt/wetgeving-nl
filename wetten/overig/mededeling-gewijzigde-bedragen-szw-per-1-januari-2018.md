@@ -1,13 +1,39 @@
 ---
-title: "Mededeling gewijzigde bedragen SZW per 1 januari 2018"
+title: "Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 november 2017, 2017-0000185541, over per 1 januari 2018 gewijzigde bedragen in enkele wetten, besluiten en regelingen"
 identifier: "BWBR0040280"
-categorie: "Overig"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040280"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040280"
+soort: "ministeriele-regeling"
+stam_id: "14430913"
+version_id: "24676712"
+internal_id: "C35305661"
+label_id: "14391784"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040280/2018-01-01/0"
+intitule_bron: "Stcrt.2017-68641"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-23"
+intitule_published: "2017-12-01"
+intitule_in_force: "2017-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-68641"
+original_signed_date: "2017-11-23"
+original_published_date: "2017-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-68641"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040280&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0040280&g=2018-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Mededeling gewijzigde bedragen SZW per 1 januari 2018"
+signed_date: "2017-11-23"
+entry_into_force: "2018-01-01"
 ---
-
 # Mededeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 november 2017, 2017-0000185541, over per 1 januari 2018 gewijzigde bedragen in enkele wetten, besluiten en regelingen
 
 **De Minister van Sociale Zaken en Werkgelegenheid,**

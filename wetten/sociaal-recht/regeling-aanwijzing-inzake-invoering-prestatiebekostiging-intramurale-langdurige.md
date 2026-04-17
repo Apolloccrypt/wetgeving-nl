@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing inzake invoering prestatiebekostiging intramurale langdurige zorg op grond van zorgzwaartepakketten"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, nr. DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten"
 identifier: "BWBR0024676"
-categorie: "Sociaal recht"
-publicatiedatum: 2008-11-26
-laatste_update: 2008-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024676"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-11-26"
+last_updated: "2008-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024676"
+soort: "ministeriele-regeling"
+stam_id: "9761843"
+version_id: "15827802"
+internal_id: "C21646651"
+label_id: "9738774"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024676/2008-11-26/0"
+intitule_bron: "Stcrt.2008-219"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-10-31"
+intitule_published: "2008-11-11"
+intitule_in_force: "2008-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-219"
+original_signed_date: "2008-10-31"
+original_published_date: "2008-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-561"
+entry_into_force_date: "2008-11-11"
+jci_1_3: "jci1.3:c:BWBR0024676&z=2008-11-26&g=2008-11-26"
+jci_1_0: "1.0:c:BWBR0024676&g=2008-11-26"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing inzake invoering prestatiebekostiging intramurale langdurige zorg op grond van zorgzwaartepakketten"
+signed_date: "2008-10-31"
+entry_into_force: "2008-11-11"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 31 oktober 2008, nr. DLZ/SFI-2890287, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering prestatiebekostiging in de intramurale langdurige zorg op grond van zorgzwaartepakketten
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,7 +44,7 @@ Gezien mijn inbreng van het schriftelijk verslag van 27 oktober 2008, kenmerk DL
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -64,13 +90,13 @@ In deze aanwijzing wordt verstaan onder:
 
 - u. **opbouwregeling:** een door de zorgautoriteit in het kader van de invoering van ZZP’s voor intramurale AWBZ-zorg vast te stellen herallocatieregeling voor intramurale zorgaanbieders van wie de door de zorgautoriteit vastgestelde ZZP-opgave hoger is dan de budgetbasis.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg waarop in gevolge de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) aanspraak bestaat.
 
 Ter uitvoering van dit besluit stelt de zorgautoriteit regels en beleidsregels vast.
 
-#### Artikel 3. Invoering ZZP bekostiging
+##### Artikel 3. Invoering ZZP bekostiging
 
 De zorgautoriteit:
 
@@ -90,11 +116,11 @@ De zorgautoriteit:
 
 - e. stelt per intramurale zorgaanbieder als bedoeld onder a een verrekentarief vast, waarmee eventuele discrepanties tussen de aanvaardbare kosten van enig jaar en de daadwerkelijke vulling van dat budget met ZZP-tarieven wordt verrekend.
 
-#### Artikel 4. Budgettaire neutraliteit
+##### Artikel 4. Budgettaire neutraliteit
 
 De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en ZZP-tarieven, als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=3&z=2008-11-26&g=2008-11-26), het budget dat beschikbaar is voor de productieafspraken op grond van de oude bekostigingsparameters, daarboven komen de extra middelen voor de kwaliteitszorg € 246 miljoen voor de V&V en € 42 miljoen voor de gehandicaptenzorg.
 
-#### Artikel 5. Herallocatie
+##### Artikel 5. Herallocatie
 
 1. De zorgautoriteit verplicht intramurale zorgaanbieders en zorgkantoren al dan niet gezamenlijk, volgens door de zorgautoriteit vastgestelde specificatie en tegelijkertijd met tussen hen gemaakte productieafspraken in oude bekostigingsparameters met betrekking tot het jaar 2009, aan te geven hoe die productieafspraken luiden in ZZP-termen.
 
@@ -104,7 +130,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 4. Het op grond van het vorige lid vastgestelde herallocatiebedrag geldt voor de desbetreffende intramurale zorgaanbieder voor de gehele herallocatieperiode.
 
-#### Artikel 6. Afbouw
+##### Artikel 6. Afbouw
 
 1. Indien de vaststelling van het herallocatiebedrag, bedoeld in het vorige artikel, leidt tot de situatie dat er voor de intramurale zorgaanbieder sprake is van afbouw, gelden daarvoor de volgende afbouwstappen:
 
@@ -126,7 +152,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 5. De zorgautoriteit verwerkt de nominale bedragen voortvloeiend uit de herallocatieafbouw van de individuele intramurale zorgaanbieders conform de aanwijzing op grond van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de zorgautoriteit inzake contracteerruimte voor het jaar 2009.
 
-#### Artikel 7. Opbouw
+##### Artikel 7. Opbouw
 
 1. De zorgautoriteit totaliseert de nominale bedragen die in enig jaar beschikbaar komen uit de herallocatie-afbouw van de individuele intramurale zorgaanbieders.
 
@@ -138,7 +164,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 5. De toedeling van de voor de opbouw beschikbare middelen geschiedt conform de aanwijzing op grond van [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de zorgautoriteit inzake contracteerruimte voor het jaar 2009.
 
-#### Artikel 8. Bijzondere situaties GGZ en GHZ
+##### Artikel 8. Bijzondere situaties GGZ en GHZ
 
 1. De invoering van de zorgzwaartebekostiging per 1 januari 2009 en de stappen die worden gezet in de herallocatie gelden voor elk van de sectoren Verpleging en Verzorging, Geestelijke Gezondheidszorg en Gehandicaptenzorg met dien verstande dat, indien uit door de zorgautoriteit te verrichten onderzoek naar de opvatting van de zorgautoriteit blijkt dat:
 
@@ -148,7 +174,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 2. De zorgautoriteit bericht mij tijdig over de resultaten van de onderzoeken, bedoeld in het vorige lid, en stelt mij daarbij een herzien herallocatietraject voor. De nadere keuze over de herziening van een herallocatietraject zal ik aan de zorgautoriteit bekend maken bij brief, waarvan ik een afschrift stuur aan beide Kamers der Staten-Generaal.
 
-#### Artikel 9. Dagbesteding gehandicapten
+##### Artikel 9. Dagbesteding gehandicapten
 
 1. De zorgautoriteit:
 
@@ -164,7 +190,7 @@ De zorgautoriteit hanteert bij het vaststellen van de prestatiebeschrijvingen en
 
 - b. tarieven vast als bedoeld in [artikel 57, vierde lid, onder a, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), voor de prestatiebeschrijvingen als bedoeld onder a.
 
-#### Artikel 10. Harmonisatie V&V afwezigheiddagen bij overlijden
+##### Artikel 10. Harmonisatie V&V afwezigheiddagen bij overlijden
 
 Binnen de sector Verpleging en verzorging harmoniseert de zorgautoriteit de zogenaamde afwezigheiddagen bij overlijden van de verzekerde met inachtneming van het volgende:
 
@@ -176,21 +202,21 @@ Binnen de sector Verpleging en verzorging harmoniseert de zorgautoriteit de zoge
 
 - d. de prestatie mag ten hoogste voor dertien afwezigheiddagen in rekening worden gebracht, waarbij de eerste dag van die dagen ingaat op de dag na de dag van overlijden van de patiënt.
 
-#### Artikel 11. Tijdelijk verblijf of logeren
+##### Artikel 11. Tijdelijk verblijf of logeren
 
 De zorgautoriteit stelt met ingang van 2009 een tarief vast voor tijdelijk verblijf of logeren bij een zorgaanbieder, waarbij de zorg en ondersteuning worden bekostigd op basis van de extramurale beleidsregels. Van tijdelijk verblijf of logeren is sprake indien een verzekerde is aangewezen op verblijf voor één, twee of drie etmalen per week. De indicatie is vastgesteld in functies en klassen.
 
-#### Artikel 12. Prestatiebeschrijving extreme zorgzwaarte gehandicaptenzorg
+##### Artikel 12. Prestatiebeschrijving extreme zorgzwaarte gehandicaptenzorg
 
 De zorgautoriteit stelt een prestatiebeschrijving vast ten behoeve van de bepaling van extreme zorgzwaarte van individuele gehandicapten met zware verstandelijke, lichamelijke of zintuiglijke beperking, te leveren door een intramurale zorgaanbieder. De prestatiebeschrijving voorziet zo nodig in de inzet van het Centrum Indicatiestelling Zorg en het Centrum voor Consultatie en Expertise voor het bepalen van de noodzakelijke zorgzwaarte. De zorgautoriteit bepaalt per individueel gehonoreerde aanvraag een individuele component extreme zorgzwaarte gehandicaptenzorg met een vast tarief als bedoeld in [artikel 57, vierde lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 13. Kinderen en jeugdigen in de intramurale GGZ
+##### Artikel 13. Kinderen en jeugdigen in de intramurale GGZ
 
 1. De invoering van een bekostigingssysteem op basis van ZZP’s en ZZP-tarieven is niet van toepassing voor intramurale zorgaanbieders als bedoeld in [artikel 1, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0024676&artikel=1&z=2008-11-26&g=2008-11-26), die zorg leveren voor kinderen en jeugdigen in de sector Geestelijke Gezondheidszorg.
 
 2. De zorgautoriteit doet onderzoek naar een passende wijze van bekostiging van deze in het vorige lid genoemde cliëntengroepen, bericht mij tijdig over de resultaten van dat onderzoek en doet mij daarbij een voorstel. Mijn beslissing over de invoering van een andere wijze van bekostiging zal ik aan de zorgautoriteit bekend maken bij brief, waarvan ik een afschrift stuur aan beide Kamers der Staten-Generaal.
 
-#### Artikel 14. Toeslagen WO II
+##### Artikel 14. Toeslagen WO II
 
 De zorgautoriteit voorziet door middel van individuele component, in de bekostiging van:
 
@@ -198,15 +224,15 @@ De zorgautoriteit voorziet door middel van individuele component, in de bekostig
 
 - b. kosten die te maken hebben met het verwerken van de gevolgen van de oorlog voor bewoners van Indische/Molukse verzorgingshuizen.
 
-#### Artikel 15. CVA
+##### Artikel 15. CVA
 
 De zorgautoriteit stelt voor cliënten met een diagnose CVA een opslag op het tarief van het zorgzwaartepakket 9 voor de sector verpleging en verzorging vast. In aansluiting op de huidige werkwijze is deze toeslag, in de vorm van een vast tarief als bedoeld in [artikel 57, vierde lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57), van toepassing gedurende de eerste acht weken, te rekenen vanaf de eerste dag van verblijf bij de zorgaanbieder, van de revalidatiezorg voor deze specifieke cliënten.
 
-#### Artikel 16. SG LVG verblijf
+##### Artikel 16. SG LVG verblijf
 
 De zorgautoriteit past de prestatiebeschrijving ZZP-VG-7 voor verblijf van sterk gedragsgestoorden licht verstandelijk gehandicapten zo aan dat deze alleen van toepassing kan zijn voor zorgaanbieders die een toelating hebben conform [artikel 5 van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906) voor verblijfplaatsen van die categorie gehandicapten. Indien de zorgaanbieder niet in het bezit is van deze toelating zal niet op de geïndiceerde VG-7 worden bekostigd, maar op VG-6.
 
-#### Artikel 17. Instellinggebonden maatregelen
+##### Artikel 17. Instellinggebonden maatregelen
 
 De zorgautoriteit treft in aanvulling op de ZZP-bekostigingssystematiek navolgende maatregelen ten behoeve van onderstaande categorieën van intramurale zorgaanbieders die in het bijzonder zijn toegelaten voor een expertisefunctie:
 
@@ -218,10 +244,10 @@ De zorgautoriteit treft in aanvulling op de ZZP-bekostigingssystematiek navolgen
 
 - d. voor zorginstellingen die fungeren als gespecialiseerd centrum in de zorg voor cliënten met een verstandelijke of lichamelijke handicap met epilepsie stelt de zorgautoriteit een adequate bekostiging vast.
 
-#### Artikel 18. Sectorale budgettaire neutraliteit
+##### Artikel 18. Sectorale budgettaire neutraliteit
 
 De zorgautoriteit hanteert bij het vaststellen van de beleidsregels het uitgangspunt dat invoering van de zorgzwaartebekostiging budgettair neutraal per sector plaatsvindt. Toevoegingen en afboekingen van het budgettaire kader geschieden zowel op het budget dat beschikbaar is voor de productieafspraken in de bestaande bekostigingsparameters als op het budget dat beschikbaar is voor de productieafspraken in ZZP’s.
 
-#### Artikel 19. Inwerkingtreding en publicatie
+##### Artikel 19. Inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

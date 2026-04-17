@@ -1,13 +1,39 @@
 ---
-title: "Besluit tegemoetkoming specifieke zorgkosten"
+title: "Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetkoming ter zake van uitgaven voor specifieke zorgkosten die in de inkomstenbelasting als gevolg van heffingskortingen niet of niet geheel zijn verzilverd alsmede wijziging van enige andere regelingen (Besluit tegemoetkoming specifieke zorgkosten)"
 identifier: "BWBR0027859"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-07-28
-laatste_update: 2018-07-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027859"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-07-28"
+last_updated: "2018-07-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027859"
+soort: "AMvB"
+stam_id: "10598943"
+version_id: "17505482"
+internal_id: "C24223461"
+label_id: "10573974"
+dtd_version: "2.0"
+original_entry_into_force: "2010-07-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027859/2018-07-28/0"
+intitule_bron: "Stb.2010-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-05-31"
+intitule_published: "2010-07-06"
+intitule_in_force: "2010-07-06"
+intitule_status: "goed"
+original_publication: "Stb.2010-261"
+original_signed_date: "2010-05-31"
+original_published_date: "2010-07-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-261"
+entry_into_force_date: "2010-07-07"
+jci_1_3: "jci1.3:c:BWBR0027859&z=2018-07-28&g=2018-07-28"
+jci_1_0: "1.0:c:BWBR0027859&g=2018-07-28"
+citeertitel_status: "officieel"
+short_title: "Besluit tegemoetkoming specifieke zorgkosten"
+signed_date: "2010-05-31"
+entry_into_force: "2010-07-07"
 ---
-
 # Besluit van 31 mei 2010, houdende regels inzake een financiële tegemoetkoming ter zake van uitgaven voor specifieke zorgkosten die in de inkomstenbelasting als gevolg van heffingskortingen niet of niet geheel zijn verzilverd alsmede wijziging van enige andere regelingen (Besluit tegemoetkoming specifieke zorgkosten)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 19 januari 2010, kenmerk DWJZ/SWW-2979296, gedaan mede namens de Staatssecretaris van Financiën en in overeenstemming met Onze Minister van Justitie en Onze Minister voor Wonen, Wijken en Integratie;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Tegemoetkoming specifieke zorgkosten
 
-#### Artikel 2
+##### Artikel 2
 
 1. De belastingplichtige bij wie bij de vaststelling van de aanslag inkomstenbelasting over een kalenderjaar uitgaven voor specifieke zorgkosten in aanmerking zijn genomen, heeft aanspraak op een tegemoetkoming indien de gecombineerde inkomensheffing over dat kalenderjaar lager is dan de gecombineerde heffingskorting over dat kalenderjaar.
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 6. Indien het eerste lid niet van toepassing is, ontstaat eveneens een aanspraak op een tegemoetkoming indien als gevolg van een navorderingsaanslag inkomstenbelasting of een ambtshalve vermindering over een kalenderjaar uitgaven voor specifieke zorgkosten in aanmerking zijn genomen en de gecombineerde inkomensheffing over dat kalenderjaar lager is dan de gecombineerde heffingskorting over dat kalenderjaar. Het tweede tot en met vijfde lid zijn daarbij van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De tegemoetkoming wordt door de inspecteur vastgesteld bij beschikking. De beschikking wordt afgegeven aan degene bij wie uitgaven voor specifieke zorgkosten in aanmerking zijn genomen. Indien de tegemoetkoming niet meer bedraagt dan € 15, wordt geen tegemoetkoming vastgesteld.
 
@@ -82,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 4. Ingeval de aanspraak op de tegemoetkoming eerst ontstaat als gevolg van een navorderingsaanslag of een ambtshalve vermindering, stelt de inspecteur de tegemoetkoming vast binnen zes maanden na het tijdstip waarop de navorderingsaanslag van de belastingplichtige onherroepelijk is geworden, onderscheidenlijk binnen zes maanden na de dagtekening van de beschikking inzake ambtshalve vermindering. Het derde lid, tweede en derde volzin, zijn hierbij van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien als gevolg van een navorderingsaanslag inkomstenbelasting of een ambtshalve vermindering blijkt dat de beschikking, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28), ten onrechte of tot een onjuist bedrag is vastgesteld, stelt de inspecteur de tegemoetkoming, onder verrekening van de eerder vastgestelde tegemoetkoming, opnieuw bij beschikking vast binnen zes maanden na het tijdstip waarop de navorderingsaanslag onherroepelijk is geworden, onderscheidenlijk binnen zes maanden na de dagtekening van de beschikking inzake ambtshalve vermindering. Artikel 3, derde lid, tweede volzin, is hierbij van overeenkomstige toepassing.
 
@@ -96,11 +122,11 @@ In dit besluit wordt verstaan onder:
 
 - b. het bij toepassing van het eerste, tweede of derde lid uit te betalen bedrag niet meer zou bedragen dan € 15.
 
-#### Artikel 5
+##### Artikel 5
 
 De ontvanger is belast met de uitbetaling van een door de inspecteur vastgestelde tegemoetkoming en is belast met de invordering van een door de inspecteur vastgesteld bedrag aan terugvordering van tegemoetkoming.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien een belastingplichtige bij wie over een kalenderjaar uitgaven voor specifieke zorgkosten in aanmerking zijn genomen zeven maanden na het tijdstip waarop de aanslag inkomstenbelasting over dat jaar onherroepelijk is geworden geen beschikking tegemoetkoming specifieke zorgkosten over dat jaar heeft ontvangen, en hij van mening is dat hij daar wel recht op heeft, kan hij binnen een jaar na het verstrijken van de genoemde termijn van zeven maanden een verzoek om toekenning van een tegemoetkoming indienen bij de inspecteur. Binnen acht weken na de ontvangst van het verzoek stelt de inspecteur met toepassing van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=3&z=2018-07-28&g=2018-07-28) een tegemoetkoming vast of wijst hij het verzoek bij beschikking af.
 
@@ -110,41 +136,41 @@ De ontvanger is belast met de uitbetaling van een door de inspecteur vastgesteld
 
 4. Het eerste, tweede en derde lid zijn van overeenkomstige toepassing met betrekking tot het niet toepassen van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=2&artikel=4&z=2018-07-28&g=2018-07-28).
 
-#### Artikel 7
+##### Artikel 7
 
 De tegemoetkomingen komen ten laste van de begroting van het ministerie van Volksgezondheid, Welzijn en Sport.
 
 ### Hoofdstuk 3. Wijzigingen in enige besluiten
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Besluit gebruik sofi-nummer Wbp.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Bijdragebesluit zorg.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit op de huurtoeslag.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt met uitzondering van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027859&hoofdstuk=3&artikel=8&z=2018-07-28&g=2018-07-28) terug tot en met 1 januari 2009.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit tegemoetkoming specifieke zorgkosten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Dit besluit berust mede op [artikel 46, tweede lid, van de Uitvoeringswet Algemene Verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&artikel=46).
 

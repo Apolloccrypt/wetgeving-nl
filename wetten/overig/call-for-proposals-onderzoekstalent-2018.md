@@ -1,13 +1,35 @@
 ---
 title: "Call for proposals, Onderzoekstalent 2018"
 identifier: "BWBR0039867"
-categorie: "Overig"
-publicatiedatum: 2017-08-07
-laatste_update: 2017-08-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039867"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-08-07"
+last_updated: "2017-08-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039867"
+soort: "zbo"
+stam_id: "14094323"
+version_id: "24263822"
+internal_id: "C34844511"
+label_id: "14055684"
+dtd_version: "2.0"
+original_entry_into_force: "2017-08-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039867/2017-08-07/0"
+intitule_bron: "Stcrt.2017-44705"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2017-08-07"
+intitule_in_force: "2017-08-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-44705"
+original_published_date: "2017-08-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-44705"
+entry_into_force_date: "2017-08-07"
+jci_1_3: "jci1.3:c:BWBR0039867&z=2017-08-07&g=2017-08-07"
+jci_1_0: "1.0:c:BWBR0039867&g=2017-08-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-08-07"
 ---
-
 # Call for proposals, Onderzoekstalent 2018
 
 Den Haag, juni 2017

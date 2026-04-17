@@ -1,13 +1,37 @@
 ---
-title: "Besluit aanwijzing zeegebied en kustwateren 1970"
+title: "Besluit van 21 april 1970, houdende uitvoering van artikel 1, vierde lid, onder b en c, van de Visserijwet 1963"
 identifier: "BWBR0002703"
-categorie: "Milieu"
-publicatiedatum: 2023-07-20
-laatste_update: 2023-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002703"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-07-20"
+last_updated: "2023-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002703"
+soort: "AMvB"
+stam_id: "64003"
+version_id: "29531062"
+internal_id: "C42218981"
+label_id: "64394"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002703/2023-07-20/0"
+intitule_bron: "Stb.1970-176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1970-04-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-270"
+original_signed_date: "2023-07-10"
+original_published_date: "2023-07-19"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-270"
+entry_into_force_date: "2023-07-10"
+jci_1_3: "jci1.3:c:BWBR0002703&z=2023-07-20&g=2023-07-20"
+jci_1_0: "1.0:c:BWBR0002703&g=2023-07-20"
+citeertitel_status: "officieel"
+short_title: "Besluit aanwijzing zeegebied en kustwateren 1970"
+signed_date: "2023-07-10"
+entry_into_force: "2023-07-10"
 ---
-
 # Besluit van 21 april 1970, houdende uitvoering van artikel 1, vierde lid, onder b en c, van de Visserijwet 1963
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 20 maart 1970, No. J 654, Directie Juridische en Bedrijfsorganisatorische Zaken;
@@ -22,7 +46,7 @@ Gezien het nader rapport van Onze voornoemde Minister van 15 april 1970, nr. J 9
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Als zeegebied, bedoeld in artikel 1, vierde lid, onderdeel **b**, van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416) worden aangewezen:
 
@@ -32,7 +56,7 @@ Als zeegebied, bedoeld in artikel 1, vierde lid, onderdeel **b**, van de [Visser
 
 - 3. de havens van Scheveningen tot de meest zeewaarts gelegen waterkeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 Als kustwater, bedoeld in artikel 1, vierde lid, onder **c,** van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), worden aangewezen:
 
@@ -64,7 +88,7 @@ Als kustwater, bedoeld in artikel 1, vierde lid, onder **c,** van de [Visserijwe
 
 - 7. De aan de onder 1 tot en met 6 bedoelde wateren gelegen open havens en de met die wateren in open gemeenschap staande inhammen, kreken, spranken, gaten en killen.
 
-#### Artikel 3
+##### Artikel 3
 
 Waar kustwateren in verbinding staan met wateren, bedoeld in artikel 1, vierde lid, onder **d,** van de [Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416), geldt als grens:
 
@@ -72,17 +96,17 @@ Waar kustwateren in verbinding staan met wateren, bedoeld in artikel 1, vierde l
 
 - b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat in de Nieuwe Waterweg als grens geldt de lijn gaande van het oostelijk havenhoofd van Maassluis naar het punt met het coördinaat 51°54.649'NB 04°14.870'OL.
 
-#### Artikel 4
+##### Artikel 4
 
 Ons besluit van 21 mei 1964 (**Stb.** 1964, 163) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op 1 mei 1970. Het kan worden aangehaald als "Besluit aanwijzing zeegebied en kustwateren" met vermelding van het jaartal van het **Staatsblad**, waarin het is geplaatst.
 
 Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De coördinaten in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002703&artikel=2&z=2023-07-20&g=2023-07-20) zijn uitgedrukt in lengte en breedte volgens het World Geodetic System 84 (WGS84), in graden en minuten en, in voorkomend geval, in seconden.
 

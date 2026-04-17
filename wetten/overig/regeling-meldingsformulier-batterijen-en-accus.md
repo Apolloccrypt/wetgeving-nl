@@ -1,28 +1,54 @@
 ---
-title: "Regeling meldingsformulier batterijen en accu’s"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008087862, houdende vaststelling van een formulier voor het doen van een mededeling in verband met de uitvoering van het Besluit beheer batterijen en accu’s 2008 (Regeling mededelingenformulier batterijen en accu’s 2008)"
 identifier: "BWBR0024500"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024500"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024500"
+soort: "ministeriele-regeling"
+stam_id: "9722313"
+version_id: "29490332"
+internal_id: "C42166801"
+label_id: "9699184"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024500/2023-07-01/0"
+intitule_bron: "Stcrt.2008-183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-09"
+intitule_published: "2008-09-22"
+intitule_in_force: "2008-09-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-18491"
+original_signed_date: "2023-06-27"
+original_published_date: "2023-06-30"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2023-18491"
+entry_into_force_date: "2023-06-27"
+jci_1_3: "jci1.3:c:BWBR0024500&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0024500&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling meldingsformulier batterijen en accu’s"
+signed_date: "2023-06-27"
+entry_into_force: "2023-06-27"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 september 2008, nr. K&K 2008087862, houdende vaststelling van een formulier voor het doen van een mededeling in verband met de uitvoering van het Besluit beheer batterijen en accu’s 2008 (Regeling mededelingenformulier batterijen en accu’s 2008)
 
 Gelet op [artikel 2, eerste lid, van het Besluit beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024491&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De producent, bedoeld in [artikel 1 van de Regeling beheer batterijen en accu’s 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0024492&artikel=1), maakt bij het indienen van de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), gebruik van het in de bijlage bij deze regeling opgenomen formulier.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling meldingsformulier batterijen en accu’s.
 
@@ -90,7 +116,7 @@ Toelichting: Vermeld de namen van de verwerkers en geef aan of ze over de benodi
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust op [artikel 9.5.2, zevende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) in samenhang met [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4).
 

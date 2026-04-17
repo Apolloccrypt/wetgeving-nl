@@ -1,13 +1,38 @@
 ---
 title: "Vennootschapsbelasting, dividendbelasting, subjectieve vrijstellingen natuurschoonlichamen, pensioenlichamen, zorglichamen en sociale werkbedrijf-lichamen (artikel 5 Wet op de vennootschapsbelasting 1969)"
 identifier: "BWBR0042886"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-08-05
-laatste_update: 2022-08-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042886"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-05"
+last_updated: "2022-08-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042886"
+soort: "beleidsregel"
+stam_id: "15274493"
+version_id: "26314032"
+internal_id: "C37402161"
+label_id: "15221054"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042886/2022-08-05/0"
+intitule_bron: "Stcrt.2019-66223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-25"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66223"
+original_signed_date: "2019-11-25"
+original_published_date: "2019-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66223"
+entry_into_force_date: "2019-12-14"
+jci_1_3: "jci1.3:c:BWBR0042886&z=2022-08-05&g=2022-08-05"
+jci_1_0: "1.0:c:BWBR0042886&g=2022-08-05"
+citeertitel_status: "redactioneel"
+signed_date: "2019-11-25"
+entry_into_force: "2019-12-14"
 ---
-
 # Vennootschapsbelasting, dividendbelasting, subjectieve vrijstellingen natuurschoonlichamen, pensioenlichamen, zorglichamen en sociale werkbedrijf-lichamen (artikel 5 Wet op de vennootschapsbelasting 1969)
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

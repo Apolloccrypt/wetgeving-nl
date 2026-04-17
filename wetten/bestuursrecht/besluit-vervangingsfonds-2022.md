@@ -1,13 +1,39 @@
 ---
-title: "Besluit vervangingsfonds 2022"
+title: "Besluit van 27 mei 2011, houdende vaststelling van regels omtrent de taak, de goedkeuring van statuten en de gevolgen van intrekking van de aanwijzing van het Vervangingsfonds en het Participatiefonds (Besluit Vervangingsfonds en Participatiefonds)"
 identifier: "BWBR0030106"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-31
-laatste_update: 2024-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030106"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-31"
+last_updated: "2024-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030106"
+soort: "AMvB"
+stam_id: "11352653"
+version_id: "18626262"
+internal_id: "C26266601"
+label_id: "11326404"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030106/2024-01-31/0"
+intitule_bron: "Stb.2011-286"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-27"
+intitule_published: "2011-06-21"
+intitule_in_force: "2011-09-27"
+intitule_status: "goed"
+original_publication: "Stb.2011-286"
+original_signed_date: "2011-05-27"
+original_published_date: "2011-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-286"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030106&z=2024-01-31&g=2024-01-31"
+jci_1_0: "1.0:c:BWBR0030106&g=2024-01-31"
+citeertitel_status: "officieel"
+short_title: "Besluit vervangingsfonds 2022"
+signed_date: "2011-05-27"
+entry_into_force: "2012-01-01"
 ---
-
 # Besluit van 27 mei 2011, houdende vaststelling van regels omtrent de taak, de goedkeuring van statuten en de gevolgen van intrekking van de aanwijzing van het Vervangingsfonds en het Participatiefonds (Besluit Vervangingsfonds en Participatiefonds)
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, van 7 april 2011, nr. WJZ/284390 (2703), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap,
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In dit besluit wordt verstaan onder:
 
 - **vervangingsfonds:** de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167).
 
-#### Artikel 2. Taak Vervangingsfonds en Participatiefonds
+##### Artikel 2. Taak Vervangingsfonds en Participatiefonds
 
 Vervallen
 
-#### Artikel 3. Instemming statuten
+##### Artikel 3. Instemming statuten
 
 1. Onze Minister stemt in met de statuten alsmede de wijziging daarvan, bedoeld in [artikel 194, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=194) en [artikel 173, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=173), indien de statuten ten minste de volgende bepalingen bevatten:
 
@@ -68,7 +94,7 @@ Vervallen
 
 2. Onze Minister stemt in ieder geval niet in met een door het Vervangingsfonds voorgestelde wijziging van de statuten, indien een dergelijk besluit in strijd is met de wet of met dit besluit, dan wel in strijd is met het algemeen belang of met een op grond van [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21) door Onze Minister vastgestelde beleidsregel, dan wel niet is te verenigen met de waarborgen welke het Vervangingsfonds zich ten doel stelt te bieden.
 
-#### Artikel 4. Gevolgen intrekking van de aanwijzing
+##### Artikel 4. Gevolgen intrekking van de aanwijzing
 
 Bij de intrekking van de aanwijzing van de rechtspersoon, bedoeld in [artikel 188, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=188) en [artikel 167, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=167):
 
@@ -76,19 +102,19 @@ Bij de intrekking van de aanwijzing van de rechtspersoon, bedoeld in [artikel 18
 
 - b. draagt het vervangingsfonds de in onderdeel a bedoelde middelen over aan een andere, door Onze Minister op grond van de in de aanhef genoemde artikelen, aan te wijzen rechtspersoon.
 
-#### Artikel 5. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
+##### Artikel 5. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
 Vervallen
 
-#### Artikel 6. Intrekking Besluiten
+##### Artikel 6. Intrekking Besluiten
 
 Vervallen
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt op het tijdstip waarop artikel I, onderdeel E, en artikel II, onderdeel D, van de Wet van 11 oktober 2021 tot wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) in verband met beëindiging van de verplichte aansluiting bij een rechtspersoon in verband met kosten van vervanging en in verband met wijziging van de wijze waarop de werkloosheidsuitkeringen worden verevend (beëindiging vervangingsfonds en modernisering participatiefonds) (Stb. 2021, 538) in werking treden.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vervangingsfonds, met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregels vereveningsbijdrage zorgverzekering 2013"
 identifier: "BWBR0032997"
-categorie: "Sociaal recht"
-publicatiedatum: 2014-10-01
-laatste_update: 2014-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032997"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-10-01"
+last_updated: "2014-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032997"
+soort: "zbo"
+stam_id: "12133553"
+version_id: "20250252"
+internal_id: "C28484711"
+label_id: "12105884"
+dtd_version: "2.0"
+original_entry_into_force: "2013-03-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032997/2014-10-01/0"
+intitule_bron: "Stcrt.2013-6770"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-14"
+intitule_in_force: "2013-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-6770"
+original_published_date: "2013-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-6770"
+entry_into_force_date: "2013-03-16"
+jci_1_3: "jci1.3:c:BWBR0032997&z=2014-10-01&g=2014-10-01"
+jci_1_0: "1.0:c:BWBR0032997&g=2014-10-01"
+citeertitel_status: "officieel"
+entry_into_force: "2013-03-16"
 ---
-
 # Beleidsregels vereveningsbijdrage zorgverzekering 2013
 
 Gelet op de [artikelen 32, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32), [34, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34) en [artikel 90 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=90), [Hoofdstuk 3 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&hoofdstuk=3), de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) en de brief van de minister van VWS van 15 januari 2013, kenmerk Z-3150627;
@@ -16,7 +38,7 @@ Heeft in zijn vergadering van 18 februari 2013 besloten:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Deze beleidsregels verstaan onder:
 
@@ -42,17 +64,17 @@ Deze beleidsregels verstaan onder:
 
 - k. **vereveningsbijdrage:** de bijdrage, bedoeld in de [artikelen 32](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=32) en [34 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=34).
 
-#### Artikel 2. Algemene bepaling
+##### Artikel 2. Algemene bepaling
 
 Het college past de bepalingen uit het [Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492) en de [Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525) met betrekking tot de toekenning en vaststelling van de bijdrage aan de zorgverzekeraars toe met inachtneming van het bepaalde in deze beleidsregels.
 
-#### Artikel 3. Zorgverzekeraars
+##### Artikel 3. Zorgverzekeraars
 
 Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekening van de normatieve bedragen en de vereveningsbijdragen ervan uit dat alle zorgverzekeraars die gedurende 2012 actief zijn geweest ook in 2013 als zorgverzekeraar actief zullen zijn.
 
 ### Hoofdstuk II. Toekenning van de vereveningsbijdrage 2013 aan een zorgverzekeraar
 
-#### Artikel 4. Raming van de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties
+##### Artikel 4. Raming van de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties
 
 1. Het college raamt de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties per criterium met inachtneming van het bepaalde in de volgende leden.
 
@@ -184,7 +206,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 35. Het college deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG, DKG, aard van het inkomen en MHK. Overeenkomstig [artikel 6 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=6) deelt het college alle verzekerden woonachtig in het buitenland voor de FKG in in de klasse ‘Geen FKG’, waarbij 45% geldt van het normgewicht van de klasse ‘Geen FKG’ en voor de DKG in de klasse ‘DKG 0’, waarbij 55% geldt van het normgewicht van de klasse DKG 0.
 
-#### Artikel 5. Raming van de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
+##### Artikel 5. Raming van de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
 
 1. Het college raamt de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg met inachtneming van het bepaalde in de volgende leden.
 
@@ -296,7 +318,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 39. Het college deelt verzekerden woonachtig in het buitenland van achttien jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht, FKG, aard van het inkomen, GGZ-kosten lage drempelklasse en GGZ-kosten hoge drempelklasse. Overeenkomstig [artikel 6 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=6) deelt het college alle verzekerden woonachtig in het buitenland voor de FKG in in de klasse ‘Geen FKG psychische aandoeningen’, waarbij 50% geldt van het normgewicht van de klasse ‘Geen FKG psychische aandoeningen’.
 
-#### Artikel 6. Raming van de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst
+##### Artikel 6. Raming van de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst
 
 1. Het college raamt de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst per criterium met inachtneming van het bepaalde in de volgende leden.
 
@@ -338,7 +360,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 15. Het college deelt het geraamde aantal verzekerden woonachtig in het buitenland van 18 jaar en ouder dat zowel in de FKG klasse 0, als in de DKG klasse 0 en in de MHK klasse 0 valt, uitsluitend in bij de criteria leeftijd en geslacht en aard van het inkomen.
 
-#### Artikel 7. De verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg en de berekening van het deelbedrag variabele kosten van medisch-specialistische zorg
+##### Artikel 7. De verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg en de berekening van het deelbedrag variabele kosten van medisch-specialistische zorg
 
 1. Voor de verdeling van het macro-deelbedrag variabele kosten van medisch-specialistische zorg hanteert het college de volgende gewichten als uitgangspunten:
 
@@ -376,7 +398,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 9. Het resultaat van het achtste lid wordt aangeduid als het deelbedrag variabele kosten van medisch-specialistische zorg 2013.
 
-#### Artikel 8. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
+##### Artikel 8. De verdeling van het macro-deelbedrag vaste zorgkosten en de berekening van het deelbedrag vaste zorgkosten
 
 1. Het college bepaalt het deelbedrag vaste zorgkosten 2013 als volgt:
 
@@ -394,7 +416,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 4. Het resultaat van het derde lid wordt aangeduid als het deelbedrag vaste zorgkosten 2013.
 
-#### Artikel 9. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
+##### Artikel 9. De verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg en de berekening van het deelbedrag kosten van geneeskundige geestelijke gezondheidszorg
 
 1. Voor de verdeling van het macro-deelbedrag geneeskundige geestelijke gezondheidszorg hanteert het college als uitgangspunten:
 
@@ -438,7 +460,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 11. De som van het resultaat van het tweede en tiende lid wordt aangeduid als het deelbedrag geneeskundige geestelijke gezondheidszorg 2013.
 
-#### Artikel 10. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van het deelbedrag kosten van overige prestaties
+##### Artikel 10. De verdeling van het macro-deelbedrag kosten van overige prestaties en de berekening van het deelbedrag kosten van overige prestaties
 
 1. Voor de verdeling van het macro-deelbedrag kosten van overige prestaties hanteert het college als uitgangspunten:
 
@@ -476,7 +498,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 9. Het resultaat van het achtste lid wordt aangeduid als deelbedrag kosten van overige prestaties 2013.
 
-#### Artikel 11. De raming van de normatieve eigen risico opbrengst
+##### Artikel 11. De raming van de normatieve eigen risico opbrengst
 
 1. Het college berekent de geraamde normatieve eigen risico opbrengst 2013 voor verzekerden van achttien jaar en ouder die ingedeeld zijn in FKG 1 tot en met 24, ingedeeld zijn in DKG 1 tot en met 15 of ingedeeld zijn in MHK 1 tot en met 6 2013 per zorgverzekeraar door het aantal verzekerden van 18 jaar en ouder dat ingedeeld is in FKG 1 tot en met 24, ingedeeld is in DKG 1 tot en met 15 of ingedeeld is in MHK 1 tot en met 6 2013, zoals bepaald op grond van [artikel 6, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=II&artikel=6&z=2014-10-01&g=2014-10-01) te vermenigvuldigen met een bedrag van EUR 313,51 per verzekerde.
 
@@ -500,7 +522,7 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 8. De totale raming van de normatieve eigen risico opbrengst per zorgverzekeraar is de som van het resultaat van het tweede en het zevende lid.
 
-#### Artikel 12. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
+##### Artikel 12. De berekening van het normatieve bedrag en de berekening en toekenning van de vereveningsbijdrage
 
 1. Het college berekent het normatieve bedrag 2013 van een zorgverzekeraar als de som van het volgens dit hoofdstuk berekende deelbedrag variabele kosten van medisch-specialistische zorg 2013, het deelbedrag vaste zorgkosten van 2013, het deelbedrag geneeskundige geestelijke gezondheidszorg 2013 en het deelbedrag kosten van overige prestaties 2013.
 
@@ -514,11 +536,11 @@ Het college gaat bij de verdeling van de macro-deelbedragen 2013 en de berekenin
 
 6. Het college kent de vereveningsbijdrage 2013 ter hoogte van de bijdrage berekend in het vierde lid, aangevuld met het bedrag berekend in het vijfde lid, aan de zorgverzekeraar toe.
 
-#### Artikel 13. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
+##### Artikel 13. Herberekeningen als gevolg van splitsing van de zorgverzekeraar
 
 Indien een zorgverzekeraar na de toekenning van de vereveningsbijdrage 2013 besluit zich te splitsen, deelt de zorgverzekeraar aan het college mee hoe naar zijn verwachting de geraamde verzekerdenaantallen 2013 verdeeld zullen worden, over nieuwe dan wel bestaande zorgverzekeraars. Het college kan de toegekende vereveningsbijdrage herzien en de bijdragen aan nieuwe dan wel bestaande zorgverzekeraars toekennen, rekening houdend met de meegedeelde geraamde verzekerdenaantallen en het tijdstip waarop de splitsing wordt gerealiseerd.
 
-#### Artikel 14. De herberekening en herziening van de toegekende bijdrage 2013
+##### Artikel 14. De herberekening en herziening van de toegekende bijdrage 2013
 
 1. Het college herberekent de toekenning van de vereveningsbijdrage op basis van de werkelijke verzekerdenaantallen 2013 volgens de opgaven van de zorgverzekeraars aan het college op 7 maart 2013.
 
@@ -530,7 +552,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 ### Hoofdstuk III. De eerste voorlopige vaststelling van de vereveningsbijdrage voor een zorgverzekeraar
 
-#### Artikel 15. Bepaling van de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties
+##### Artikel 15. Bepaling van de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties
 
 1. Het college bepaalt de verzekerdenaantallen 2013 voor het macro-deelbedrag variabele kosten van medisch-specialistische zorg en voor het macro-deelbedrag kosten van overige prestaties per criterium met inachtneming van het bepaalde in de volgende leden.
 
@@ -632,7 +654,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 24. Het college deelt verzekerden woonachtig in het buitenland uitsluitend in bij de criteria leeftijd en geslacht, FKG, DKG, aard van het inkomen en MHK. Overeenkomstig [artikel 6 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=6) deelt het college alle verzekerden woonachtig in het buitenland voor de FKG in in de klasse ‘Geen FKG’, waarbij 45% geldt van het normgewicht van de klasse ‘Geen FKG’ en voor de DKG in de klasse ‘DKG 0’, waarbij 55% geldt van het normgewicht van de klasse DKG 0.
 
-#### Artikel 16. Bepaling van de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
+##### Artikel 16. Bepaling van de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg
 
 1. Het college bepaalt de verzekerdenaantallen 2013 voor het macro-deelbedrag geneeskundige geestelijke gezondheidszorg met inachtneming van het bepaalde in de volgende leden.
 
@@ -738,7 +760,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 26. Het college deelt verzekerden woonachtig in het buitenland jonger dan achttien jaar uitsluitend in bij het criterium leeftijd onder achttien jaar. Het college deelt verzekerden woonachtig in het buitenland van achttien jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht, FKG, aard van het inkomen, GGZ-kosten lage drempelklasse en GGZ-kosten hoge drempelklasse. Overeenkomstig [artikel 6 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=6) deelt het college alle verzekerden woonachtig in het buitenland voor de FKG in in de klasse ‘Geen FKG psychische aandoeningen’, waarbij 50% geldt van het normgewicht van de klasse ‘Geen FKG psychische aandoeningen’.
 
-#### Artikel 17. Bepaling van de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst
+##### Artikel 17. Bepaling van de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst
 
 1. Het college bepaalt de verzekerdenaantallen 2013 voor de normatieve eigen risico opbrengst per criterium met inachtneming van het bepaalde in de volgende leden.
 
@@ -782,7 +804,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 11. Het college deelt verzekerden woonachtig in het buitenland van 18 jaar en ouder uitsluitend in bij de criteria leeftijd en geslacht en aard van het inkomen.
 
-#### Artikel 18. De voorlopige herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
+##### Artikel 18. De voorlopige herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
 
 1. Op basis van de opgave jaarstaat 2013 per 1 juni 2014 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) en [14 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=14) bepaalt het college de variabele kosten van medisch-specialistische zorg 2013 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -804,7 +826,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 10. Voor de toepassing van [artikel 3.17 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17) bepaalt het college per zorgverzekeraar het verschil tussen het voorlopige herberekende deelbedrag variabele kosten van medisch-specialistische zorg 2013 en de variabele kosten van medisch-specialistische zorg 2013 en deelt dit verschil door het aantal verzekerden van 18 jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven.
 
-#### Artikel 19. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2013
+##### Artikel 19. De voorlopige herberekening van het deelbedrag vaste zorgkosten 2013
 
 1. Het college bepaalt op basis van de opgave jaarstaat 2013 per 1 juni 2014 per zorgverzekeraar met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) en [15 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=15) de vaste zorgkosten 2013.
 
@@ -820,7 +842,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 4. De som van het resultaat van het tweede en het derde lid wordt aangeduid als het voorlopige herberekende deelbedrag vaste zorgkosten 2013.
 
-#### Artikel 20. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2013
+##### Artikel 20. De voorlopige herberekening van het deelbedrag kosten geneeskundige geestelijke gezondheidszorg 2013
 
 1. Op basis van de opgave jaarstaat 2013 per 1 juni 2014 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12) en [13 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13), bepaalt het college de kosten van geneeskundige geestelijke gezondheidszorg 2013 voor verzekerden jonger dan 18 jaar voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -850,7 +872,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 14. De som van het resultaat van het derde en het twaalfde lid wordt aangeduid als het voorlopige herberekende deelbedrag kosten van de geneeskundige geestelijke gezondheidszorg 2013.
 
-#### Artikel 21. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2013
+##### Artikel 21. De voorlopige herberekening van het deelbedrag kosten van overige prestaties 2013
 
 1. Op basis van de opgave jaarstaat 2013 per 1 juni 2014 en met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) en [18 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=18), bepaalt het college de kosten van overige prestaties 2013 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -870,7 +892,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 9. Het college vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het vijfde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het voorlopige herberekende deelbedrag kosten van overige prestaties 2013.
 
-#### Artikel 22. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2013
+##### Artikel 22. De voorlopige herberekening van de normatieve opbrengst van het eigen risico 2013
 
 1. Uitgangspunt voor de herberekening van de normatieve opbrengst van het eigen risico zijn de opgaven, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=17&z=2014-10-01&g=2014-10-01), van de verzekerdenaantallen van de zorgverzekeraar.
 
@@ -878,7 +900,7 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 3. In afwijking van het tweede lid bepaalt het college de gederfde inkomsten voor verzekerden van 18 jaar en ouder voor wie op grond van [artikel 24 Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) geen nominale premies worden ontvangen, op basis van de opgave jaarstaat 2013 per 1 juni 2014.
 
-#### Artikel 23. De voorlopige herberekening van het normatieve bedrag 2013 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2013
+##### Artikel 23. De voorlopige herberekening van het normatieve bedrag 2013 en de voorlopige herberekening en voorlopige vaststelling van de vereveningsbijdrage 2013
 
 1. Het college herberekent het normatieve bedrag 2013 voorlopig als de som van het voorlopige herberekende deelbedrag variabele kosten van medisch-specialistische zorg 2013, het voorlopige herberekende deelbedrag vaste zorgkosten 2013, het voorlopig herberekende deelbedrag geneeskundige geestelijke gezondheidszorg 2013 en het voorlopig herberekende deelbedrag kosten van overige prestaties 2013.
 
@@ -914,11 +936,11 @@ Het college deelt het totaal aantal verzekerden uit de opgaven in het eerste lid
 
 ### Hoofdstuk IV. De tweede voorlopige vaststelling van de vereveningsbijdrage 2013 voor een zorgverzekeraar
 
-#### Artikel 24. Algemene bepaling
+##### Artikel 24. Algemene bepaling
 
 Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met inachtneming van de opgave hogekostencompensatie 2013, de kosten 2013 uit de opgave jaarstaat per 1 mei 2016, de opbrengstresultaten 2013 en de correcties die de Nederlandse Zorgautoriteit heeft toegepast.
 
-#### Artikel 25. Bepaling van de verzekerdenaantallen 2013
+##### Artikel 25. Bepaling van de verzekerdenaantallen 2013
 
 1. Het college betrekt de correcties die de Nederlandse Zorgautoriteit heeft toegepast over 2013 bij de verzekerdenaantallen zoals berekend op grond van de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=15&z=2014-10-01&g=2014-10-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=16&z=2014-10-01&g=2014-10-01) en [17](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=17&z=2014-10-01&g=2014-10-01).
 
@@ -930,7 +952,7 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 5. Het college baseert zich voor het aantal verzekerden van achttien jaar en ouder voor het criterium GGZ kosten hoge drempel per zorgverzekeraar op declaraties 2012 per gepseudonimiseerd burgerservicenummer voor het deelbedrag kosten GGZ tot en met 31 december 2014, zoals zorgverzekeraars die op 1 juni 2015 bij het college hebben aangeleverd.
 
-#### Artikel 26. De tweede voorlopige herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
+##### Artikel 26. De tweede voorlopige herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
 
 1. Het college bepaalt met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) en [14 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=14), de variabele kosten van medisch-specialistische zorg 2013 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -952,11 +974,11 @@ Het college herberekent het normatieve bedrag voor de tweede keer voorlopig met 
 
 10. Voor de toepassing van [artikel 3.17 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=3.17) bepaalt het college per zorgverzekeraar het verschil tussen het tweede voorlopige herberekende deelbedrag variabele kosten van medisch-specialistische zorg 2013 en de variabele kosten van medisch-specialistische zorg 2013 en deelt dit verschil door het aantal verzekerden van achttien jaar en ouder waarop [artikel 24 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=24) niet van toepassing is, dat bij die zorgverzekeraar is ingeschreven.
 
-#### Artikel 27. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2013
+##### Artikel 27. De tweede voorlopige herberekening van het deelbedrag vaste zorgkosten 2013
 
 Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgkosten 2013 overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=19&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=24&z=2014-10-01&g=2014-10-01) en [25](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=25&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 28. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2013
+##### Artikel 28. De tweede voorlopige herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2013
 
 1. Het college bepaalt met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12) en [13 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) de kosten van geneeskundige geestelijke gezondheidszorg 2013 voor verzekerden jonger dan 18 jaar voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1008,7 +1030,7 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgk
 
 16. De som van het resultaat van het derde en het veertiende lid wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg 2013.
 
-#### Artikel 29. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2013
+##### Artikel 29. De tweede voorlopige herberekening van het deelbedrag kosten van overige prestaties 2013
 
 1. Het college bepaalt met inachtneming van de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=13) en [18 van de Regeling risicoverevening 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032525&artikel=18), de kosten van overige prestaties 2013 voor iedere zorgverzekeraar afzonderlijk, alsmede voor het totaal van de zorgverzekeraars.
 
@@ -1028,11 +1050,11 @@ Het college herberekent voor de tweede keer voorlopig het deelbedrag vaste zorgk
 
 9. Het college vermindert per zorgverzekeraar het product voor die zorgverzekeraar berekend in het zesde lid met het product voor die zorgverzekeraar berekend in het zevende lid. Het resultaat wordt aangeduid als het tweede voorlopige herberekende deelbedrag kosten van overige prestaties 2013.
 
-#### Artikel 30. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2013
+##### Artikel 30. De tweede voorlopige herberekening van de normatieve eigen risico opbrengst 2013
 
 Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico opbrengst 2013 overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=II&artikel=11&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=III&artikel=22&z=2014-10-01&g=2014-10-01) en [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=25&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 31. De tweede voorlopige herberekening van het normatieve bedrag 2013 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2013
+##### Artikel 31. De tweede voorlopige herberekening van het normatieve bedrag 2013 en de tweede voorlopige herberekening en de vaststelling van de vereveningsbijdrage 2013
 
 1. Het college herberekent het normatieve bedrag 2013 voor de tweede keer voorlopig als de som van het tweede voorlopige deelbedrag variabele kosten van medisch-specialistische zorg 2013, het tweede voorlopige deelbedrag vaste zorgkosten 2013, het tweede voorlopige deelbedrag geneeskundige geestelijke gezondheidszorg 2013 en het tweede voorlopige deelbedrag kosten van overige prestaties 2013.
 
@@ -1068,31 +1090,31 @@ Het college herberekent voor de tweede keer voorlopig de normatieve eigen risico
 
 ### Hoofdstuk V. De vaststelling van de vereveningsbijdrage 2013 voor een zorgverzekeraar
 
-#### Artikel 32. Algemene bepaling
+##### Artikel 32. Algemene bepaling
 
 Het college herberekent de vereveningsbijdrage definitief met inachtneming van de correcties die voortkomen uit de reviewrapportage die de Nederlandse Zorgautoriteit uitbrengt over de kosten 2013 uit de jaarstaat 2015.
 
-#### Artikel 33. De definitieve herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
+##### Artikel 33. De definitieve herberekening van het deelbedrag variabele kosten van medisch-specialistische zorg 2013
 
 Het college herberekent definitief het deelbedrag variabele kosten van medisch-specialistische zorg 2013 overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=26&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 34. De definitieve herberekening van het deelbedrag vaste zorgkosten 2013
+##### Artikel 34. De definitieve herberekening van het deelbedrag vaste zorgkosten 2013
 
 Het college herberekent definitief het deelbedrag vaste zorgkosten 2013 overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=27&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 35. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2013
+##### Artikel 35. De definitieve herberekening van het deelbedrag geneeskundige geestelijke gezondheidszorg 2013
 
 Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2013 overeenkomstig [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=28&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 36. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2013
+##### Artikel 36. De definitieve herberekening van het deelbedrag kosten van overige prestaties 2013
 
 Het college herberekent definitief het deelbedrag geneeskundige geestelijke gezondheidszorg 2013 overeenkomstig [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=29&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 37. De definitieve herberekening van de normatieve eigen risico opbrengst 2013
+##### Artikel 37. De definitieve herberekening van de normatieve eigen risico opbrengst 2013
 
 Het college herberekent definitief het deelbedrag normatieve eigen risico opbrengst overeenkomstig [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=30&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
-#### Artikel 38. De definitieve herberekening van het normatieve bedrag 2013 en de definitieve herberekening en de vaststelling van de bijdrage 2013
+##### Artikel 38. De definitieve herberekening van het normatieve bedrag 2013 en de definitieve herberekening en de vaststelling van de bijdrage 2013
 
 1. Het college herberekent definitief het normatieve bedrag 2013 overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=IV&artikel=31&z=2014-10-01&g=2014-10-01), met inachtneming van [artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=32&z=2014-10-01&g=2014-10-01).
 
@@ -1100,7 +1122,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ### Hoofdstuk VI. De uitkering voor de kosten van prestaties die door het college naar het werkelijk bedrag worden vergoed
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij gelegenheid van de vaststelling van de bijdrage 2013, bedoeld in [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=V&artikel=38&z=2014-10-01&g=2014-10-01), stelt het college per zorgverzekeraar ook de uitkering 2013 vast voor de kosten die op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) naar het werkelijke bedrag door het college worden vergoed.
 
@@ -1110,7 +1132,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 ### Hoofdstuk VII. De betalingen aan de zorgverzekeraars
 
-#### Artikel 40
+##### Artikel 40
 
 1. Het college betaalt de zorgverzekeraars de vereveningsbijdrage, bedoeld in [artikel 12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=II&artikel=12&z=2014-10-01&g=2014-10-01), uit. Het college maakt bij de betaling onderscheid naar de volgende bestanddelen:
 
@@ -1130,7 +1152,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 4. Indien toepassing van onderscheidenlijk het eerste en het tweede lid resulteert in een negatief saldo voor de zorgverzekeraar, schort het college de betalingen aan de zorgverzekeraar op, tot het negatieve saldo is verrekend.
 
-#### Artikel 41. Betaling
+##### Artikel 41. Betaling
 
 1. Het college bepaalt de som van de bestanddelen genoemd in [artikel 40, eerste lid, onder a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=40&z=2014-10-01&g=2014-10-01) en de uitkering genoemd in artikel 40, tweede lid.
 
@@ -1176,7 +1198,7 @@ Het college herberekent definitief het deelbedrag normatieve eigen risico opbren
 
 7. Het college kan, indien naar zijn oordeel uit nieuwe informatie blijkt dat de verwachting is dat bij de eerstvolgende herberekening of herziening van de vereveningsbijdrage, de vereveningsbijdrage meer dan 5 procent hoger zal zijn dan bij de laatst toegekende of voorlopig vastgestelde vereveningsbijdrage, afwijken van de vorige leden en de betalingen aan een zorgverzekeraar aanpassen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Bij de herberekening en herziening van de toegekende vereveningsbijdrage 2013 op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=II&artikel=14&z=2014-10-01&g=2014-10-01) herziet het college de te betalen termijnen overeenkomstig [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=41&z=2014-10-01&g=2014-10-01) voor de eerste keer. Het college verrekent het verschil tussen de reeds betaalde termijnen en de voor de eerste keer herziene termijnen.
 
@@ -1192,13 +1214,13 @@ Het college verrekent het verschil tussen de reeds betaalde termijnen en de defi
 
 6. Indien toepassing van onderscheidenlijk het eerste, tweede, derde en vierde lid, resulteert in een negatief saldo voor de zorgverzekeraar, de betreffende zorgverzekeraar dat saldo in een keer terug aan het college, behoudens voor zover het college het bedrag heeft verrekend met enige vordering op de zorgverzekeraar op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) dan wel de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614).
 
-#### Artikel 43
+##### Artikel 43
 
 1. De zorgverzekeraar en het college zijn over en weer rente verschuldigd en hebben over en weer aanspraak op rente over de verschillen, bedoeld in [artikel 42](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=42&z=2014-10-01&g=2014-10-01).
 
 2. De rente, bedoeld in het eerste lid, wordt bij de eerste voorlopige, tweede voorlopige en de definitieve vaststelling van de uitkering door het college verwerkt en zo mogelijk verrekend met andere betalingen die uit deze vaststellingen voortvloeien.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Bij de verrekening van verschillen, bedoeld in [artikel 42, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032997&hoofdstuk=VII&artikel=42&z=2014-10-01&g=2014-10-01), berekent het college rente over het verschil vanaf de datum waarop het verschil is ontstaan tot de datum waarop de verschillen worden verrekend.
 
@@ -1222,13 +1244,13 @@ Bij de berekening wordt een maand op 30 en een jaar op 360 dagen gesteld.
 
 ### Hoofdstuk VIII. Slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 1. Deze beleidregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
 2. Deze beleidsregels werken terug tot en met 1 oktober 2012.
 
-#### Artikel 46
+##### Artikel 46
 
 Deze beleidsregels worden aangehaald als: Beleidsregels vereveningsbijdrage zorgverzekering 2013.
 

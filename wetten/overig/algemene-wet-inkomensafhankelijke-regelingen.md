@@ -1,14 +1,41 @@
 ---
-title: "Algemene wet inkomensafhankelijke regelingen"
+title: "Wet van 23 juni 2005 tot harmonisatie van inkomensafhankelijke regelingen (Algemene wet inkomensafhankelijke regelingen)"
 identifier: "BWBR0018472"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018472"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018472"
+soort: "wet"
+stam_id: "7134623"
+version_id: "12034962"
+internal_id: "C16139931"
+label_id: "7123014"
+original_entry_into_force: "2005-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018472/2026-01-01/0"
+intitule_bron: "Stb.2005-344"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-23"
+intitule_published: "2005-07-05"
+intitule_in_force: "2005-07-05"
+intitule_status: "goed"
+original_publication: "Stb.2005-344"
+original_signed_date: "2005-06-23"
+original_published_date: "2005-07-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "29764"
+original_url_id: "stb-2005-344"
+entry_into_force_date: "2005-09-01"
+entry_into_force_dossier: "29764"
+jci_1_3: "jci1.3:c:BWBR0018472&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0018472&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Algemene wet inkomensafhankelijke regelingen"
+signed_date: "2005-06-23"
+entry_into_force: "2005-09-01"
 ---
-
-# Algemene wet inkomensafhankelijke regelingen
+# Wet van 23 juni 2005 tot harmonisatie van inkomensafhankelijke regelingen (Algemene wet inkomensafhankelijke regelingen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -22,7 +49,7 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 #### Paragraaf 1. Toepassingsgebied
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Deze wet geldt voor inkomensafhankelijke regelingen.
 
@@ -32,7 +59,7 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 #### Paragraaf 2. Begrippen
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 1. In deze wet en de daarop berustende bepalingen, alsmede in inkomensafhankelijke regelingen, wordt verstaan onder:
 
@@ -84,7 +111,7 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 - c. **beschikking tot terugvordering:** beschikking tot vaststelling van het bedrag dat wordt teruggevorderd.
 
-#### Artikel 3. Partner
+##### Artikel 3. Partner
 
 1. Partner van de belanghebbende is degene die ingevolge [artikel 5a, eerste lid en derde tot en met zevende lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) als partner wordt aangemerkt. [Artikel 2, zesde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) is van overeenkomstige toepassing.
 
@@ -120,7 +147,7 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 9. Een aanverwant van de belanghebbende wordt uitsluitend als aanverwant als bedoeld in het vijfde lid, onderdeel a, aangemerkt ingeval de belanghebbende en de aanverwant in enig jaar een gezamenlijk verzoek bij de Dienst Toeslagen hebben ingediend om niet als partners te worden aangemerkt.
 
-#### Artikel 4. Kind
+##### Artikel 4. Kind
 
 1. Kind is de bloedverwant of aanverwant in de neergaande lijn van de belanghebbende of zijn partner, die in belangrijke mate wordt onderhouden door de belanghebbende of zijn partner en als ingezetene op hetzelfde woonadres als de belanghebbende is ingeschreven in de basisregistratie personen. Met een bloedverwant of aanverwant in de neergaande lijn wordt gelijkgesteld een pleegkind.
 
@@ -128,11 +155,11 @@ Deze wet geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
 3. Een kind wordt in belangrijke mate onderhouden als bedoeld in het eerste lid indien is voldaan aan de regels gesteld krachtens [artikel 1.5 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.5).
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor de toepassing van inkomensafhankelijke regelingen, wordt een wijziging in de omstandigheden en van de leeftijd van de belanghebbende, de partner of een medebewoner die zich voordoet na de eerste dag van de maand, in aanmerking genomen vanaf de eerste dag van de daaropvolgende maand.
 
-#### Artikel 6. Gelijkstelling met basisregistratie personen
+##### Artikel 6. Gelijkstelling met basisregistratie personen
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt met de basisregistratie personen gelijkgesteld een daarmee naar aard en strekking overeenkomende registratie buiten Nederland.
 
@@ -144,7 +171,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 #### Paragraaf 3. Bepaling draagkracht
 
-#### Artikel 7. Draagkracht
+##### Artikel 7. Draagkracht
 
 1. Ter bepaling van de draagkracht voor de toepassing van een inkomensafhankelijke regeling wordt het toetsingsinkomen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=8&z=2026-01-01&g=2026-01-01), van de belanghebbende en dat van zijn partner in aanmerking genomen.
 
@@ -160,7 +187,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 7. Met betrekking tot het bedrag vermeld in het zesde lid zijn de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) van overeenkomstige toepassing.
 
-#### Artikel 8. Toetsingsinkomen
+##### Artikel 8. Toetsingsinkomen
 
 1. Toetsingsinkomen is: het op het berekeningsjaar betrekking hebbende inkomensgegeven.
 
@@ -192,7 +219,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 #### Paragraaf 3. Bepaling draagkracht
 
-#### Artikel 9. Wijziging status vreemdelingen; partner of medebewoner is vreemdeling
+##### Artikel 9. Wijziging status vreemdelingen; partner of medebewoner is vreemdeling
 
 1. Indien aan een vreemdeling tijdens een rechtmatig verblijf als bedoeld in [artikel 8, onderdelen a tot en met e, en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) een tegemoetkoming is toegekend, heeft de omstandigheid dat hij aansluitend aan dit verblijf rechtmatig verblijf houdt in de zin van [artikel 8, onderdeel g of h, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8) niet tot gevolg dat hij daardoor zijn aanspraak verliest op eenzelfde tegemoetkoming gedurende de periode van laatstgenoemd verblijf.
 
@@ -202,7 +229,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 #### Paragraaf 4. Afwijkende rechten bij vreemdelingen en uitreizigers
 
-#### Artikel 10. Uitoefening rechten door minderjarigen
+##### Artikel 10. Uitoefening rechten door minderjarigen
 
 1. Een minderjarige is bekwaam de rechtshandelingen te verrichten die noodzakelijk zijn om een tegemoetkoming te verkrijgen. Hij is voorts bekwaam de rechtshandelingen te verrichten die noodzakelijk zijn met betrekking tot de uitoefening, onderscheidenlijk de nakoming van de voor hem uit de toekenning van tegemoetkomingen voortvloeiende rechten en verplichtingen.
 
@@ -212,13 +239,13 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 #### Paragraaf 5. Uitoefening rechten door minderjarigen
 
-#### Artikel 11. Toepassingsgebied
+##### Artikel 11. Toepassingsgebied
 
 1. De bepalingen van dit hoofdstuk gelden voor de inkomensafhankelijke regelingen waarvan de uitvoering bij die regeling is opgedragen aan de Dienst Toeslagen.
 
 2. Onder Dienst Toeslagen wordt verstaan: het organisatieonderdeel van de rijksbelastingdienst dat is belast met het toekennen, uitbetalen en terugvorderen van tegemoetkomingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de toepassing van dit hoofdstuk blijven [titel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) en [artikel 4:125 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:125) buiten toepassing en zijn [artikel 3:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40), [titel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) en de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=6) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=7) niet van toepassing op de verrekeningsbeschikking, bedoeld in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2026-01-01&g=2026-01-01).
 
@@ -230,7 +257,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 3. Voor de toepassing van dit hoofdstuk kan Onze Minister bij ministeriële regeling [paragraaf 4.1.3.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.2) voor een bij die regeling te bepalen periode geheel of gedeeltelijk buiten toepassing verklaren indien er sprake is van een ernstige verstoring in het uitvoeringsproces, die het naar zijn oordeel aannemelijk maakt dat door belanghebbenden, als direct gevolg van de ernstige storing, massaal een beroep wordt gedaan op de dwangsomregeling, bedoeld in deze paragraaf. Na het tot stand komen van deze ministeriële regeling wordt zo spoedig mogelijk maar uiterlijk binnen acht weken een voorstel van wet tot goedkeuring van de ministeriële regeling aan de Tweede Kamer der Staten-Generaal gezonden. Indien het voorstel wordt ingetrokken of indien een van de kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de ministeriële regeling onverwijld ingetrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. In afwijking van de [artikelen 2:7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7), en [2:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:8) wordt in het verkeer tussen belanghebbenden of partijen als bedoeld in [artikel 38, eerste, vierde of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2026-01-01&g=2026-01-01), en de Dienst Toeslagen een bericht uitsluitend elektronisch verzonden.
 
@@ -240,7 +267,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 14. Toekennen tegemoetkoming
+##### Artikel 14. Toekennen tegemoetkoming
 
 1. Een tegemoetkoming wordt op aanvraag toegekend door de Dienst Toeslagen.
 
@@ -256,7 +283,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 7. Indien een voorschot is verleend op de voet van artikel 16 en vijf jaren zijn verstreken na de laatste dag van het berekeningsjaar, wordt het bedrag van de tegemoetkoming ten minste gesteld op het bedrag van het verleende voorschot.
 
-#### Artikel 15. Aanvraag tegemoetkoming
+##### Artikel 15. Aanvraag tegemoetkoming
 
 1. Een aanvraag om een tegemoetkoming met betrekking tot een berekeningsjaar kan tot en met 31 december van het jaar volgend op het berekeningsjaar worden ingediend bij de Dienst Toeslagen. Indien de belanghebbende of diens partner voor de in de eerste volzin genoemde datum is uitgenodigd om over het berekeningsjaar aangifte inkomstenbelasting te doen binnen een termijn die na die datum verloopt, wordt de in die volzin bedoelde termijn verlengd tot de laatste dag van de door de inspecteur voor het indienen van die aangifte gestelde termijn. De tweede volzin is van overeenkomstige toepassing ingeval een medebewoner is uitgenodigd om aangifte inkomstenbelasting te doen en de aanvraag betrekking heeft op een tegemoetkoming op grond van een inkomensafhankelijke regeling waarin is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is voor de beoordeling van de aanspraak op of de bepaling van de hoogte van de tegemoetkoming. Indien meer dan een van de personen, bedoeld in de tweede en derde volzin, is uitgenodigd om aangifte inkomstenbelasting te doen, wordt voor de toepassing van die volzinnen uitgegaan van de aangifte waarvan de indieningstermijn het laatst verloopt.
 
@@ -280,7 +307,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 11. Indien de belanghebbende, zijn partner of een medebewoner in het berekeningsjaar als binnenlands belastingplichtige voor de inkomstenbelasting inkomen geniet ter zake waarvan recht bestaat op een vermindering van de verschuldigde inkomstenbelasting op grond van regelingen ter voorkoming van dubbele belasting, wordt ten aanzien van degene die dat inkomen geniet de aanvraag voor zoveel nodig tevens aangemerkt als een verzoek om te worden uitgenodigd tot het doen van aangifte inkomstenbelasting als bedoeld in [artikel 6, tweede lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6).
 
-#### Artikel 16. Voorschot op tegemoetkoming
+##### Artikel 16. Voorschot op tegemoetkoming
 
 1. De Dienst Toeslagen verleent de belanghebbende die een aanvraag voor een tegemoetkoming indient vóór 1 april van het jaar volgend op het berekeningsjaar waarop de tegemoetkoming betrekking heeft, een voorschot tot het bedrag waarop de tegemoetkoming vermoedelijk zal worden vastgesteld binnen 13 weken na de ontvangst van de aanvraag.
 
@@ -304,7 +331,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen alsmede voor 
 
 Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht van de belanghebbende en diens partner ook de draagkracht van medebewoners van belang is, kan de Dienst Toeslagen eveneens afzien van het verlenen van een voorschot of een voorschot verlenen tot een ander bedrag dan volgt uit het eerste lid indien de inspecteur ten aanzien van de medebewoner [artikel 13, vijfde lid, aanhef en onderdeel c, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=13) heeft toegepast.
 
-#### Artikel 17. Na voorschot melding wijziging omstandigheden
+##### Artikel 17. Na voorschot melding wijziging omstandigheden
 
 1. Indien een voorschot op de tegemoetkoming is verleend en er een relevante wijziging optreedt in de omstandigheden die van belang zijn voor de beoordeling van de aanspraak op of de bepaling van de hoogte van de tegemoetkoming, is de belanghebbende gehouden die wijziging te melden aan de Dienst Toeslagen.
 
@@ -314,7 +341,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 4. Indien de melding betrekking heeft op een medebewoner, kan de melding ook worden gedaan door de medebewoner.
 
-#### Artikel 18. Verzoeken van Dienst Toeslagen tot informatieverstrekking
+##### Artikel 18. Verzoeken van Dienst Toeslagen tot informatieverstrekking
 
 1. Een belanghebbende, een partner en een medebewoner verstrekken de Dienst Toeslagen desgevraagd alle gegevens en inlichtingen die van belang kunnen zijn voor:
 
@@ -334,7 +361,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 7. Indien de belanghebbende, zijn partner of een medebewoner gehouden is aan de inspecteur een opgaaf te verstrekken van het niet in Nederland belastbaar inkomen en deze persoon daaraan niet, dan wel niet binnen de daartoe gestelde termijn heeft voldaan, kan de Dienst Toeslagen de hoogte van de tegemoetkoming of van het voorschot ambtshalve bepalen.
 
-#### Artikel 19. Beslistermijn toekenning tegemoetkoming
+##### Artikel 19. Beslistermijn toekenning tegemoetkoming
 
 1. Indien ten name van de belanghebbende, zijn partner of een medebewoner over het berekeningsjaar een aanslag inkomstenbelasting wordt vastgesteld, kent de Dienst Toeslagen de tegemoetkoming met betrekking tot dat berekeningsjaar toe binnen zes maanden na de vaststelling van de laatste in dit kader van belang zijnde aanslag. Indien ten name van de belanghebbende, zijn partner of een medebewoner over het berekeningsjaar een beschikking ter zake van niet in Nederland belastbaar inkomen wordt vastgesteld, kent de Dienst Toeslagen de tegemoetkoming met betrekking tot dat berekeningsjaar toe binnen acht weken na de vaststelling van de laatste in dit kader van belang zijnde beschikking. De tweede volzin is uitsluitend van toepassing indien de in die volzin genoemde termijn verloopt op een datum die gelegen is na afloop van de in de eerste volzin bedoelde termijn.
 
@@ -346,7 +373,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 5. Indien de tegemoetkoming niet binnen de in de vorige leden genoemde termijn kan worden toegekend, stelt de Dienst Toeslagen de belanghebbende hiervan schriftelijk in kennis onder het noemen van een redelijke termijn waarbinnen toekenning zal plaatsvinden.
 
-#### Artikel 20. Herziening tegemoetkoming wegens alsnog beschikbaar komen of wijziging fiscale gegevens na toekenning
+##### Artikel 20. Herziening tegemoetkoming wegens alsnog beschikbaar komen of wijziging fiscale gegevens na toekenning
 
 1. Indien na de toekenning van de tegemoetkoming uit een eerste vaststelling, eerste bepaling of wijziging van een inkomensgegeven, niet in Nederland belastbaar inkomen of de bij toepassing van [artikel 7, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=3&artikel=7&z=2026-01-01&g=2026-01-01), relevante rendementsgrondslag blijkt dat de tegemoetkoming tot een te hoog of te laag bedrag is toegekend, herziet de Dienst Toeslagen de tegemoetkoming met inachtneming van die eerste vaststelling, eerste bepaling of wijziging.
 
@@ -354,7 +381,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 3. Een herziening op grond van dit artikel kan leiden tot een uit te betalen bedrag doch ook tot een terug te vorderen bedrag.
 
-#### Artikel 21. Herziening tegemoetkoming in het nadeel van belanghebbende om andere reden
+##### Artikel 21. Herziening tegemoetkoming in het nadeel van belanghebbende om andere reden
 
 1. De Dienst Toeslagen kan een toegekende tegemoetkoming herzien:
 
@@ -368,7 +395,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 #### Paragraaf 3. Uitbetaling en terugvordering
 
-#### Artikel 22. Uitbetaling voorschot
+##### Artikel 22. Uitbetaling voorschot
 
 1. Een voorschot dat wordt verleend vóór de aanvang van het berekeningsjaar waarop het voorschot betrekking heeft, wordt uitbetaald in 12 termijnen. De uitbetaling van de eerste termijn vindt plaats in de maand december voorafgaand aan het berekeningsjaar en elke volgende termijn telkens een maand later.
 
@@ -390,7 +417,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 8. Indien op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=26&z=2026-01-01&g=2026-01-01), de beschikking tot terugvordering tot een lager bedrag is vastgesteld, wordt een daaropvolgend voorschot slechts uitbetaald voor zover het uit te betalen bedrag hoger is dan het bedrag waarmee de beschikking tot terugvordering is verlaagd.
 
-#### Artikel 23. Opschorten uitbetaling voorschot
+##### Artikel 23. Opschorten uitbetaling voorschot
 
 1. De Dienst Toeslagen kan de uitbetaling van een voorschot geheel of gedeeltelijk opschorten indien:
 
@@ -402,7 +429,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 2. In het geval, bedoeld in het eerste lid, onderdeel a, wordt de belanghebbende van de opschorting schriftelijk in kennis gesteld.
 
-#### Artikel 24. Uitbetaling tegemoetkoming
+##### Artikel 24. Uitbetaling tegemoetkoming
 
 1. Een tegemoetkoming wordt uitbetaald binnen vier weken na dagtekening van de beschikking.
 
@@ -412,7 +439,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 4. Indien op grond van [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=26&z=2026-01-01&g=2026-01-01), de beschikking tot terugvordering tot een lager bedrag is vastgesteld, wordt een daaropvolgende tegemoetkoming slechts uitbetaald voor zover het uit te betalen bedrag hoger is dan het bedrag waarmee de beschikking tot terugvordering is verlaagd.
 
-#### Artikel 25. Wijze van uitbetalen
+##### Artikel 25. Wijze van uitbetalen
 
 1. In afwijking van [artikel 4:89, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:89) vindt uitbetaling aan de belanghebbende van een voorschot of een tegemoetkoming door de Dienst Toeslagen uitsluitend plaats op een daartoe door de belanghebbende bestemde bankrekening die op naam staat van de belanghebbende. De belanghebbende kan niet meer dan één bankrekening bestemmen voor de uitbetaling van een voorschot of een tegemoetkoming en voor de uitbetaling van inkomstenbelasting.
 
@@ -420,7 +447,7 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 3. In door Onze Minister in overeenstemming met Onze Ministers die het mede aangaat bij of krachtens ministeriële regeling aan te wijzen gevallen kan worden afgeweken van het eerste en tweede lid. Daarbij worden regels gesteld met betrekking tot de bestemming van een andere bankrekening voor de uitbetaling van een voorschot of een tegemoetkoming.
 
-#### Artikel 26. Terugvordering is verschuldigd door belanghebbende
+##### Artikel 26. Terugvordering is verschuldigd door belanghebbende
 
 1. Indien een herziening van een tegemoetkoming of een herziening van een voorschot leidt tot een terug te vorderen bedrag dan wel een verrekening van een voorschot met een tegemoetkoming daartoe leidt, is de belanghebbende het bedrag van de terugvordering in zijn geheel verschuldigd.
 
@@ -428,11 +455,11 @@ Indien in een inkomensafhankelijke regeling is bepaald dat naast de draagkracht 
 
 3. In bij ministeriële regeling aan te wijzen gevallen herziet de Dienst Toeslagen de onherroepelijk geworden beschikking tot terugvordering in het voordeel van de belanghebbende.
 
-#### Artikel 27. Rente bij beschikkingen na een half jaar na berekeningsjaar
+##### Artikel 27. Rente bij beschikkingen na een half jaar na berekeningsjaar
 
 Vervallen
 
-#### Artikel 28. Betalingstermijn bij terugvordering
+##### Artikel 28. Betalingstermijn bij terugvordering
 
 1. De belanghebbende heeft de verplichting om het bedrag van een terugvordering binnen zes weken na de dagtekening van de beschikking tot terugvordering te betalen aan de Dienst Toeslagen.
 
@@ -440,11 +467,11 @@ Vervallen
 
 3. De Algemene termijnenwet is niet van toepassing op de in dit artikel gestelde termijnen.
 
-#### Artikel 29. Rente bij te late betaling terugvordering
+##### Artikel 29. Rente bij te late betaling terugvordering
 
 Bij overschrijding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2026-01-01&g=2026-01-01) bedoelde betalingstermijn is rente verschuldigd met overeenkomstige toepassing van de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) en [29 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=29) en de daarop berustende bepalingen.
 
-#### Artikel 30. Verrekening
+##### Artikel 30. Verrekening
 
 1. De Dienst Toeslagen is bevoegd tot verrekening van een door de belanghebbende verschuldigd bedrag aan terugvordering met een aan hem uit te betalen tegemoetkoming of voorschot daarop, een en ander ongeacht de inkomensafhankelijke regeling die het betreft en ongeacht het berekeningsjaar.
 
@@ -452,11 +479,11 @@ Bij overschrijding van de in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BW
 
 3. Een verrekening vindt niet eerder plaats dan nadat de termijn bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2026-01-01&g=2026-01-01) is verstreken. De in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2026-01-01&g=2026-01-01) bedoelde rente alsmede bestuurlijke boeten kunnen in de verrekening worden betrokken.
 
-#### Artikel 31
+##### Artikel 31
 
 Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen van uitstel van betaling.
 
-#### Artikel 32. Dwanginvordering bij terugvordering
+##### Artikel 32. Dwanginvordering bij terugvordering
 
 1. Indien de belanghebbende het bedrag van de terugvordering, daaronder begrepen de bestuurlijke boeten, niet binnen de gestelde termijn betaalt, maant de Dienst Toeslagen hem schriftelijk aan om alsnog binnen twee weken na de dagtekening van de aanmaning te betalen.
 
@@ -472,7 +499,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen
 
 7. [Artikel 27, eerste lid, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=27) is van overeenkomstige toepassing.
 
-#### Artikel 33. Aansprakelijkheid bij terugvordering
+##### Artikel 33. Aansprakelijkheid bij terugvordering
 
 1. De partner van de belanghebbende is hoofdelijk aansprakelijk voor een door de belanghebbende verschuldigd bedrag aan terugvordering, daaronder begrepen de in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2026-01-01&g=2026-01-01) bedoelde rente alsmede de kosten van aanmaning en de kosten van invordering bij dwangbevel. De partner is niet aansprakelijk voor een aan de belanghebbende opgelegde bestuurlijke boete, tenzij het belopen daarvan mede aan hem is te wijten.
 
@@ -486,7 +513,7 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen
 
 6. De aansprakelijkheid van de partner, bedoeld in het eerste lid, of van de derde, bedoeld in het derde lid, geldt tevens indien deze partner of derde niet in Nederland woont.
 
-#### Artikel 34. Aanvullende bepalingen inzake invordering van een terugvordering
+##### Artikel 34. Aanvullende bepalingen inzake invordering van een terugvordering
 
 1. Tot het verrichten van de bij of krachtens een wet aan een deurwaarder opgedragen werkzaamheden is, voor zover die werkzaamheden geschieden in opdracht van de Dienst Toeslagen, uitsluitend een belastingdeurwaarder als bedoeld in [artikel 2, eerste lid, onderdeel j, van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=2), bevoegd.
 
@@ -502,15 +529,15 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het verlenen
 
 #### Paragraaf 4. Bezwaar en beroep
 
-#### Artikel 35. Aanvang bezwaartermijn
+##### Artikel 35. Aanvang bezwaartermijn
 
 In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) vangt de termijn voor het instellen van bezwaar aan op de dag na die van dagtekening van de beschikking, tenzij de dag van dagtekening gelegen is vóór de dag van de bekendmaking.
 
-#### Artikel 36. Aanvang beroepstermijn
+##### Artikel 36. Aanvang beroepstermijn
 
 In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=6:8) vangt de termijn voor het instellen van beroep tegen een uitspraak op bezwaar aan op de dag na die van dagtekening van de uitspraak, tenzij de dag van dagtekening is gelegen vóór de dag van de bekendmaking.
 
-#### Artikel 37. Bezwaar inzake meer beschikkingen vervat in één geschrift
+##### Artikel 37. Bezwaar inzake meer beschikkingen vervat in één geschrift
 
 1. Een bezwaar tegen de toekenning of herziening van een tegemoetkoming wordt, tenzij uit het bezwaarschrift het tegendeel blijkt, geacht mede te zijn gericht tegen de beschikking tot terugvordering die in hetzelfde geschrift is vervat en die samenhangt met die beschikking tot toekenning of herziening van een tegemoetkoming.
 
@@ -528,7 +555,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 #### Paragraaf 4. Bezwaar, beroep en hoger beroep
 
-#### Artikel 38. Informatieverstrekking aan de Dienst Toeslagen
+##### Artikel 38. Informatieverstrekking aan de Dienst Toeslagen
 
 1. Openbare lichamen met uitzondering van de openbare lichamen Bonaire, Sint Eustatius en Saba en rechtspersonen die bij of krachtens een bijzondere wet rechtspersoonlijkheid hebben verkregen, de onder hen ressorterende instellingen en diensten, lichamen die hoofdzakelijk uitvoering geven aan het beleid van het Rijk, administratieplichtigen als bedoeld in [artikel 52 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=52) en verhuurders van een woning als bedoeld in [artikel 1, onderdeel k, van de Wet op de huurtoeslag](https://wetten.overheid.nl/jci1.3:c:BWBR0008659&artikel=1) verstrekken kosteloos aan de Dienst Toeslagen desgevraagd alle gegevens en inlichtingen die van belang kunnen zijn voor de uitvoering van deze wet, de daarop berustende bepalingen of een inkomensafhankelijke regeling.
 
@@ -564,7 +591,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 11. De voordracht voor een krachtens het tweede lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. Als binnen die vier weken door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld, wordt in dat geval een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend en wordt de algemene maatregel niet vastgesteld.
 
-#### Artikel 38a. Gegevensverstrekking door de Dienst Toeslagen
+##### Artikel 38a. Gegevensverstrekking door de Dienst Toeslagen
 
 1. De Dienst Toeslagen kan onder bij of krachtens algemene maatregel van bestuur te bepalen voorwaarden ten behoeve van bij algemene maatregel van bestuur aan te wijzen voorzieningen die de dienstverlening voortvloeiende uit de uitvoering van deze wet verbeteren, gegevens verstrekken die voor deze dienstverlening noodzakelijk zijn.
 
@@ -572,7 +599,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 3. De Dienst Toeslagen verstrekt aan de inspectie belastingen, toeslagen en douane gegevens die noodzakelijk zijn voor de uitvoering van de taken van die inspectie. Het is deze inspectie niet toegestaan verkregen gegevens die van vertrouwelijke aard zijn aan derden te verstrekken.
 
-#### Artikel 39. Informatie-uitwisseling
+##### Artikel 39. Informatie-uitwisseling
 
 1. De Dienst Toeslagen en de inspecteur en de ontvanger wisselen de gegevens en inlichtingen uit die nodig zijn voor de uitvoering van deze wet en voor de heffing en invordering van rijksbelastingen, onder vermelding van het burgerservicenummer van degene op wie de gegevens of inlichtingen betrekking hebben.
 
@@ -584,7 +611,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 #### Paragraaf 5. Informatieverstrekking en informatie-uitwisseling
 
-#### Artikel 40. Verzuimen
+##### Artikel 40. Verzuimen
 
 1. Degene die op grond van [artikel 38, eerste, tweede of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2026-01-01&g=2026-01-01) gehouden is tot het verstrekken van gegevens of inlichtingen en deze niet, dan wel niet binnen de daartoe gestelde termijn, heeft verstrekt, begaat een verzuim ter zake waarvan de Dienst Toeslagen hem een bestuurlijke boete van ten hoogste € 6.709 kan opleggen.
 
@@ -592,7 +619,7 @@ In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](https://wetten.
 
 3. In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan.
 
-#### Artikel 41. Vergrijpen
+##### Artikel 41. Vergrijpen
 
 1. Degene die op grond van deze wet en de daarop berustende bepalingen gehouden is tot het verstrekken van gegevens of inlichtingen en aan wiens opzet of grove schuld het is te wijten dat geen gegevens of inlichtingen zijn verstrekt dan wel degene aan wiens opzet of grove schuld het is te wijten dat onjuiste of onvolledige gegevens of inlichtingen zijn verstrekt, begaat een vergrijp ter zake waarvan de Dienst Toeslagen hem een bestuurlijke boete kan opleggen van ten hoogste 100 percent van het bedrag dat van de belanghebbende in verband daarmee is of zou zijn teruggevorderd.
 
@@ -614,7 +641,7 @@ worden onder de gegevens of inlichtingen, bedoeld in het eerste lid, mede versta
 
 5. In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het eerste lid, vijf jaren nadat de overtreding is begaan.
 
-#### Artikel 42. Vrijwillige verbetering
+##### Artikel 42. Vrijwillige verbetering
 
 1. Indien de overtreder de Dienst Toeslagen alsnog de juiste en volledige gegevens en inlichtingen verstrekt voordat hij weet of redelijkerwijs moet vermoeden dat de Dienst Toeslagen met de onjuistheid of onvolledigheid bekend is of bekend zal worden, wordt aan hem niet de bestuurlijke boete, bedoeld in [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=6&artikel=41&z=2026-01-01&g=2026-01-01), opgelegd.
 
@@ -622,7 +649,7 @@ worden onder de gegevens of inlichtingen, bedoeld in het eerste lid, mede versta
 
 ### Hoofdstuk 3. Toezicht en opsporing
 
-#### Artikel 43. Toezichthouders
+##### Artikel 43. Toezichthouders
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Ministers wie het aangaat, aangewezen ambtenaren.
 
@@ -630,7 +657,7 @@ worden onder de gegevens of inlichtingen, bedoeld in het eerste lid, mede versta
 
 3. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 44. Opsporingsambtenaren
+##### Artikel 44. Opsporingsambtenaren
 
 1. Met de opsporing van de feiten omschreven in de [artikelen 225 tot en met 227b](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), [447c](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447c) en [447d van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=447d), voor zover het feit voor de toepassing van deze wet van belang is, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=141), belast de ambtenaren, aangewezen bij besluit van Onze Ministers wie het aangaat. Deze ambtenaren zijn tevens belast met de opsporing van feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=179), en [184 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=184), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
 
@@ -638,7 +665,7 @@ worden onder de gegevens of inlichtingen, bedoeld in het eerste lid, mede versta
 
 ### Hoofdstuk 3. Toezicht en opsporing
 
-#### Artikel 45. Beslagverbod
+##### Artikel 45. Beslagverbod
 
 1. Een tegemoetkoming is niet vatbaar voor vervreemding, verpanding, belening of beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen, tenzij het betreft beslag wegens:
 
@@ -652,11 +679,11 @@ De uitzondering opgenomen in onderdeel a van dit lid is niet van toepassing met 
 
 3. Elk beding dat strijdt met het eerste lid is nietig.
 
-#### Artikel 46. Samenloop met buitenlandse tegemoetkomingen
+##### Artikel 46. Samenloop met buitenlandse tegemoetkomingen
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de samenloop van tegemoetkomingen met tegemoetkomingen op grond van een buitenlandse regeling of een regeling van een volkenrechtelijke organisatie.
 
-#### Artikel 47. Hardheidsclausule
+##### Artikel 47. Hardheidsclausule
 
 1. Onze Minister is bevoegd in overeenstemming met Onze Ministers die het aangaat voor bepaalde gevallen of groepen van gevallen beleidsregels te geven om tegemoet te komen aan onbillijkheden van overwegende aard, die zich bij de toepassing van deze wet, de daarop berustende bepalingen of een inkomensafhankelijke regeling mochten voordoen.
 
@@ -666,25 +693,25 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 ### Hoofdstuk 3. Toezicht en opsporing
 
-#### Artikel 48. Evaluatie
+##### Artikel 48. Evaluatie
 
 Onze Minister zendt, in overeenstemming met Onze Ministers wie het mede aangaat, binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens vijfjaarlijks, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 49. Hardheidsregeling
+##### Artikel 49. Hardheidsregeling
 
 Vervallen
 
-#### Artikel 50. Inwerkingtreding
+##### Artikel 50. Inwerkingtreding
 
 Deze wet treedt in werking op 1 september 2005 en geldt voor berekeningsjaren die aanvangen op of na 1 januari 2006.
 
-#### Artikel 51. Citeertitel
+##### Artikel 51. Citeertitel
 
 Deze wet wordt aangehaald als: Algemene wet inkomensafhankelijke regelingen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a. Vaststelling van niet in Nederland belastbaar inkomen
+##### Artikel 8a. Vaststelling van niet in Nederland belastbaar inkomen
 
 1. Het niet in Nederland belastbaar inkomen wordt vastgesteld door de inspecteur.
 
@@ -730,7 +757,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 21a. Herziening tegemoetkoming in het voordeel van belanghebbende om andere reden
+##### Artikel 21a. Herziening tegemoetkoming in het voordeel van belanghebbende om andere reden
 
 In bij ministeriële regeling aan te wijzen gevallen herziet de Dienst Toeslagen een toegekende of herziene tegemoetkoming die onherroepelijk is geworden in het voordeel van de belanghebbende.
 
@@ -750,7 +777,7 @@ In bij ministeriële regeling aan te wijzen gevallen herziet de Dienst Toeslagen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 41a. Indexatie boetebedragen
+##### Artikel 41a. Indexatie boetebedragen
 
 1. Het in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=6&artikel=40&z=2026-01-01&g=2026-01-01) genoemde bedrag wordt elke vijf jaar, met ingang van 1 januari van een jaar, bij ministeriële regeling gewijzigd. Deze wijziging vindt voor het eerst plaats per 1 januari 2015. De [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) zijn van overeenkomstige toepassing met dien verstande dat als tabelcorrectiefactor wordt genomen het product van de factoren van de laatste vijf kalenderjaren.
 
@@ -762,7 +789,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 44a. Contactambtenaar
+##### Artikel 44a. Contactambtenaar
 
 Ten dienste van de vervolging en berechting van de feiten waarvan de ambtenaren, bedoeld in [artikel 44](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=3&artikel=44&z=2026-01-01&g=2026-01-01), zijn belast met de opsporing kan Onze Minister, in overeenstemming met Onze Minister van Justitie en Veiligheid, ambtenaren van de Dienst Toeslagen aanwijzen die het contact onderhouden met het openbaar ministerie.
 
@@ -770,7 +797,7 @@ Ten dienste van de vervolging en berechting van de feiten waarvan de ambtenaren,
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 24a. Geen uitbetaling bij onjuist adres
+##### Artikel 24a. Geen uitbetaling bij onjuist adres
 
 De Dienst Toeslagen kan afzien van het uitbetalen van een tegemoetkoming:
 
@@ -790,7 +817,7 @@ De Dienst Toeslagen kan afzien van het uitbetalen van een tegemoetkoming:
 
 #### Paragraaf 4. Bezwaar, beroep en hoger beroep
 
-#### Artikel 41bis
+##### Artikel 41bis
 
 1. In afwijking van [artikel 5:1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:1) wordt onder overtreder mede verstaan:
 
@@ -808,7 +835,7 @@ De Dienst Toeslagen kan afzien van het uitbetalen van een tegemoetkoming:
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31a. Versnelde invordering
+##### Artikel 31a. Versnelde invordering
 
 In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2026-01-01&g=2026-01-01) heeft de belanghebbende de verplichting om het bedrag van een terugvordering alsmede het bedrag van een bestuurlijke boete, terstond en tot het volle bedrag te betalen aan de Dienst Toeslagen indien:
 
@@ -832,7 +859,7 @@ In afwijking van [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&ho
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 37a. Schorsende werking hoger beroep
+##### Artikel 37a. Schorsende werking hoger beroep
 
 De werking van een uitspraak van de rechtbank of van de voorzieningenrechter wordt opgeschort totdat de termijn voor het instellen van hoger beroep is verstreken of, indien hoger beroep is ingesteld, op het hoger beroep onherroepelijk is beslist. De eerste volzin geldt niet indien de uitspraak een beroep tegen het niet tijdig nemen van een besluit betreft.
 
@@ -842,7 +869,7 @@ De werking van een uitspraak van de rechtbank of van de voorzieningenrechter wor
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a. Uitreiziger
+##### Artikel 9a. Uitreiziger
 
 1. Een uitreiziger heeft geen aanspraak op een tegemoetkoming.
 
@@ -858,7 +885,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 3. Uitbetaling en terugvordering
 
-#### Artikel 39a. Verwerking persoonsgegevens uitreizigers
+##### Artikel 39a. Verwerking persoonsgegevens uitreizigers
 
 Voor de toepassing van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=4&artikel=9a&z=2026-01-01&g=2026-01-01), [16, zevende lid, eerste volzin, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=16&z=2026-01-01&g=2026-01-01), [23, eerste lid, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=23&z=2026-01-01&g=2026-01-01) en [24a, aanhef en onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=24a&z=2026-01-01&g=2026-01-01), kan de Dienst Toeslagen bijzondere categorieën van persoonsgegevens en persoonsgegevens van strafrechtelijke aard als bedoeld in [paragraaf 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.1), onderscheidenlijk [paragraaf 3.2, van de Uitvoeringswet Algemene verordening gegevensbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040940&paragraaf=3.2) verwerken die onderdeel zijn van een melding als bedoeld in [artikel 2, eerste lid, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01).
 
@@ -868,7 +895,7 @@ Voor de toepassing van de [artikelen 9a](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a. Wijze van verzending berichten aan Dienst Toeslagen
+##### Artikel 13a. Wijze van verzending berichten aan Dienst Toeslagen
 
 1. In afwijking van [artikel 2:7, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7) kunnen bij ministeriële regeling berichten, groepen van belanghebbenden of partijen als bedoeld in [artikel 38, eerste, vierde of negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=5&artikel=38&z=2026-01-01&g=2026-01-01), of omstandigheden worden aangewezen waarvoor, voor wie, onderscheidenlijk waaronder, geldt dat een belanghebbende of een partij als bedoeld in artikel 38, eerste, vierde of negende lid, berichten uitsluitend langs elektronische weg dan wel uitsluitend anders dan langs elektronische weg aan de Dienst Toeslagen verzendt.
 
@@ -882,7 +909,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 6. Bestuurlijke boete
 
-#### Artikel 42a. Openbaarmaking vergrijpboete
+##### Artikel 42a. Openbaarmaking vergrijpboete
 
 Vervallen
 
@@ -894,7 +921,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13b. Belangenafweging en evenredigheidsbeginsel
+##### Artikel 13b. Belangenafweging en evenredigheidsbeginsel
 
 1. Bij het vaststellen van een beschikking op grond van deze wet, de daarop berustende bepalingen of een inkomensafhankelijke regeling weegt de Dienst Toeslagen de rechtstreeks betrokken belangen af, voor zover niet uit een wettelijk voorschrift of uit de aard van de uit te oefenen bevoegdheid een beperking voortvloeit.
 
@@ -910,49 +937,49 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 4. Bijzondere bepalingen
 
-#### Artikel 49a. Vangnetbepaling
+##### Artikel 49a. Vangnetbepaling
 
 Vervallen
 
-#### Artikel 49b. Compensatieregeling
+##### Artikel 49b. Compensatieregeling
 
 Vervallen
 
-#### Artikel 49c. O/GS-tegemoetkomingsregeling
+##### Artikel 49c. O/GS-tegemoetkomingsregeling
 
 Vervallen
 
-#### Artikel 49d. Samenloop verzoeken
+##### Artikel 49d. Samenloop verzoeken
 
 Vervallen
 
-#### Artikel 49e. Commissies
+##### Artikel 49e. Commissies
 
 Vervallen
 
-#### Artikel 49f. Oudercommissie
-
-Vervallen
-
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
-
-#### Artikel 49g. Eenmalige tegemoetkomingsregeling herstel
-
-Vervallen
-
-#### Artikel 49h. Verstrekking burgerservicenummer aan gemeenten
+##### Artikel 49f. Oudercommissie
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 26a. Doelmatigheidsgrenzen
+##### Artikel 49g. Eenmalige tegemoetkomingsregeling herstel
+
+Vervallen
+
+##### Artikel 49h. Verstrekking burgerservicenummer aan gemeenten
+
+Vervallen
+
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
+
+##### Artikel 26a. Doelmatigheidsgrenzen
 
 1. Indien een herziening van een toegekende tegemoetkoming of een verrekening van een voorschot met een tegemoetkoming leidt tot een terug te vorderen bedrag, wordt dit bedrag niet teruggevorderd indien dat niet meer bedraagt dan € 121. Bij de vaststelling van de beschikking tot toekenning van de tegemoetkoming of de beschikking tot herziening van de tegemoetkoming, bedoeld in de eerste zin, wordt de beschikking tot terugvordering vastgesteld op nihil. De eerste en tweede zin zijn van overeenkomstige toepassing indien na de vaststelling van de beschikking tot toekenning van de tegemoetkoming of de herziening, bedoeld in de eerste zin, het terug te vorderen bedrag bij het vaststellen of het herzien van de beschikking tot terugvordering is verminderd ingevolge [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=26&z=2026-01-01&g=2026-01-01), en dat bedrag na die vermindering niet meer bedraagt dan € 121.
 
 2. Met betrekking tot het bedrag, vermeld in het eerste lid, zijn de [artikelen 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.1) en [10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2) van overeenkomstige toepassing.
 
-#### Artikel 26b. Gelegenheid tot naar voren brengen zienswijze
+##### Artikel 26b. Gelegenheid tot naar voren brengen zienswijze
 
 1. Voordat de Dienst Toeslagen de beschikking tot toekenning van de tegemoetkoming, bedoeld in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), de beschikking tot herziening van de tegemoetkoming, bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=2&artikel=21&z=2026-01-01&g=2026-01-01), of de beschikking tot terugvordering die samenhangt met die beschikking tot toekenning of herziening van de tegemoetkoming vaststelt waarbij die beschikking leidt tot voor de belanghebbende nadelige gevolgen die mogelijk onevenredig zijn in verhouding tot de met de betreffende beschikking te dienen doelen, stelt de Dienst Toeslagen de belanghebbende in de gelegenheid zijn zienswijze binnen een redelijke termijn naar voren te brengen. De Dienst Toeslagen stelt de belanghebbende in ieder geval in de gelegenheid tot het naar voren brengen van diens zienswijze indien de betreffende beschikkingen in totaal leiden tot een terug te vorderen bedrag van ten minste € 1.500 per berekeningsjaar.
 
@@ -964,7 +991,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. De Dienst Toeslagen geeft eveneens geen gelegenheid tot het naar voren brengen van een zienswijze indien de in het eerste lid bedoelde beschikking tot toekenning van de tegemoetkoming uitsluitend het gevolg is van het beschikbaar komen of wijzigen van het inkomensgegeven of van het door de inspecteur vastgestelde niet in Nederland belastbaar inkomen.
 
-#### Artikel 31bis. Geen kwijtschelding
+##### Artikel 31bis. Geen kwijtschelding
 
 De Dienst Toeslagen kan het bedrag van een terugvordering, de met die terugvordering samenhangende rente, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=29&z=2026-01-01&g=2026-01-01), en kosten van invordering alsmede het bedrag van een bestuurlijke boete, niet geheel of gedeeltelijk kwijtschelden.
 
@@ -974,23 +1001,23 @@ De Dienst Toeslagen kan het bedrag van een terugvordering, de met die terugvorde
 
 ### Hoofdstuk 4. Bijzondere bepalingen
 
-#### Artikel 49bis. Herziening beschikking rente bij te late betaling
+##### Artikel 49bis. Herziening beschikking rente bij te late betaling
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 49i. Moratorium
+##### Artikel 49i. Moratorium
 
 Vervallen
 
-#### Artikel 49j. Registratie
+##### Artikel 49j. Registratie
 
 Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 47a. Ondersteuning belanghebbenden
+##### Artikel 47a. Ondersteuning belanghebbenden
 
 Onze Minister is bevoegd in overeenstemming met Onze Ministers die het aangaat bij ministeriële regeling regels te stellen ter ondersteuning van een belanghebbende bij het verwezenlijken van rechten of het nakomen van verplichtingen die uit deze wet, de daarop berustende bepalingen of een inkomensafhankelijke regeling voortvloeien.
 
@@ -998,7 +1025,7 @@ Onze Minister is bevoegd in overeenstemming met Onze Ministers die het aangaat b
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3b. Ontheemd persoon uit Oekraïne geen medebewoner of partner
+##### Artikel 3b. Ontheemd persoon uit Oekraïne geen medebewoner of partner
 
 In afwijking van [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 3, tweede lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), wordt onder medebewoner, onderscheidenlijk partner van de belanghebbende, niet verstaan de vreemdeling die tijdelijke bescherming geniet als bedoeld in [artikel 1 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=1), omdat hij onder de reikwijdte valt van het Uitvoeringsbesluit (EU) 2022/382 van de Raad van 4 maart 2022 tot vaststelling van het bestaan van een massale toestroom van ontheemden uit Oekraïne in de zin van artikel 5 van [Richtlijn 2001/55/EG](32001L0055), en tot invoering van tijdelijke bescherming naar aanleiding daarvan (PbEU 2022, L 71/1) of een verlenging van dat besluit, tenzij ook de belanghebbende deze tijdelijke bescherming geniet. In afwijking van de eerste zin wordt wel als partner van de belanghebbende aangemerkt de vreemdeling die deze tijdelijke bescherming geniet, die op grond van een andere bepaling dan artikel 3, tweede lid, onderdeel e, partner van de belanghebbende is.
 
@@ -1020,7 +1047,7 @@ In afwijking van [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 29a. Geen rente bij hervatting invordering toeslagschulden
+##### Artikel 29a. Geen rente bij hervatting invordering toeslagschulden
 
 Vervallen
 
@@ -1034,7 +1061,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a. Verblijf in opvang
+##### Artikel 3a. Verblijf in opvang
 
 In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), wordt degene die ingevolge [artikel 5a, eerste lid, onderdeel a, en derde tot en met zevende lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=5a) als partner van de belanghebbende wordt aangemerkt, op verzoek van de belanghebbende voor de toepassing van deze wet niet als partner aangemerkt gedurende het verblijf van de belanghebbende in een instelling die op grond van de [artikelen 1.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1), [2.3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.3) en [2.3.5 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=2.3.5) opvang verleent voor gevallen waarbij sprake is van een risico voor veiligheid als gevolg van huiselijk geweld.
 
@@ -1058,7 +1085,7 @@ In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 31ter
+##### Artikel 31ter
 
 1. In afwijking van [artikel 31bis](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=31bis&z=2026-01-01&g=2026-01-01) scheldt de Dienst Toeslagen ambtshalve kwijt het op de datum van inwerkingtreding van de [Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051149) nog niet betaalde bedrag van de terugvordering van een toeslag, de met die terugvordering samenhangende rente, de met die terugvordering samenhangende kosten van invordering alsmede het bedrag van een met die terugvordering samenhangende bestuurlijke boete van de belanghebbende die in aanmerking komt voor een tegemoetkoming als bedoeld in [artikel 2, eerste lid, van de Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0051149&artikel=2) en waarbij tussen de dagtekening van de onterechte afwijzingsbrief, bedoeld in [artikel 1 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0051149&artikel=1), en de datum waarop de Wet onverplichte tegemoetkoming onterechte afwijzing buitengerechtelijke schuldregeling tot wet is of wordt verheven en die wet in werking is getreden:
 
@@ -1086,7 +1113,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3c. Vermissing, detentie of vluchtsituatie
+##### Artikel 3c. Vermissing, detentie of vluchtsituatie
 
 1. In afwijking van [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), wordt op verzoek van de belanghebbende voor de toepassing van deze wet onder partner van de belanghebbende niet verstaan een persoon:
 
@@ -1104,7 +1131,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 #### Paragraaf 2. Tegemoetkoming
 
-#### Artikel 21b. Buiten beschouwing laten van bepaalde beschikkingen met terugwerkende kracht
+##### Artikel 21b. Buiten beschouwing laten van bepaalde beschikkingen met terugwerkende kracht
 
 1. Bij algemene maatregel van bestuur kunnen typen van beschikkingen worden aangewezen die de Dienst Toeslagen, zo nodig in afwijking van [artikel 10 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=10), in het voordeel van de belanghebbende buiten beschouwing laat, indien het een beschikking betreft die:
 
@@ -1128,7 +1155,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 47b. Overgangsbepaling afschaffen rente
+##### Artikel 47b. Overgangsbepaling afschaffen rente
 
 De [artikelen 27](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=27&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=28&z=2026-01-01&g=2026-01-01), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=30&z=2026-01-01&g=2026-01-01), [31bis](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=31bis&z=2026-01-01&g=2026-01-01), [31a](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=31a&z=2026-01-01&g=2026-01-01), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=32&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=33&z=2026-01-01&g=2026-01-01) en [34](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=2&paragraaf=3&artikel=34&z=2026-01-01&g=2026-01-01) alsmede de daarop berustende bepalingen zoals die luidden op 31 december 2025 blijven van toepassing met betrekking tot beschikkingen die zien op de berekeningsjaren, bedoeld in [artikel 2, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&hoofdstuk=1&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), voorafgaand aan het berekeningsjaar 2026, met dien verstande dat voor die beschikkingen het percentage voor de in rekening te brengen rente en voor de te vergoeden rente met ingang van 1 januari 2026 0% bedraagt.
 

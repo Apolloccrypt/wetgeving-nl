@@ -1,13 +1,39 @@
 ---
-title: "Tarievenbesluit Ctgb 2026"
+title: "Besluit van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 24 september 2025, houdende vaststelling van de tarieven, verschuldigd in verband met de uitvoering van zijn wettelijke taken en overige diensten, als beschreven in dit besluit en de daarbij horende bijlagen (Tarievenbesluit 2026)"
 identifier: "BWBR0052064"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052064"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052064"
+soort: "zbo"
+stam_id: "17701793"
+version_id: "31239032"
+internal_id: "C44677511"
+label_id: "17600784"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052064/2026-01-01/0"
+intitule_bron: "Stcrt.2025-41169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-09-24"
+intitule_published: "2025-12-19"
+intitule_in_force: "2025-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-41169"
+original_signed_date: "2025-09-24"
+original_published_date: "2025-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-41169"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052064&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052064&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Tarievenbesluit Ctgb 2026"
+signed_date: "2025-09-24"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van het College voor de toelating van gewasbeschermingsmiddelen en biociden van 24 september 2025, houdende vaststelling van de tarieven, verschuldigd in verband met de uitvoering van zijn wettelijke taken en overige diensten, als beschreven in dit besluit en de daarbij horende bijlagen (Tarievenbesluit 2026)
 
 Gelet op artikel 74 [Verordening (EG) 1107/2009](32009R1107) en artikel 80 van [Verordening (EU) 528/2012](32012R0528), [artikel 10, eerste lid, Wet gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=10), alsmede [artikel 17 Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=17);
@@ -22,7 +48,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -66,11 +92,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Tarieven
 
-#### Artikel 2. Tarieven
+##### Artikel 2. Tarieven
 
 Het Ctgb brengt tarieven in rekening die verschuldigd zijn in verband met de uitvoering van zijn wettelijke taken en overige diensten. Het uurtarief voor 2026 is vastgesteld op € 202,–. De tarieven van de Servicedesk staan in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0052064&bijlage=I&z=2026-01-01&g=2026-01-01), de tarieven aanvraag gewasbescherming in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0052064&bijlage=II&z=2026-01-01&g=2026-01-01), de tarieven aanvraag biociden in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0052064&bijlage=III&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 3. Vaste tarieven en tarieven op basis van nacalculatie
+##### Artikel 3. Vaste tarieven en tarieven op basis van nacalculatie
 
 1. Vanwege de grote verschillen tussen de typen aanvragen hanteert het Ctgb twee typen tarieven:
 
@@ -80,7 +106,7 @@ Het Ctgb brengt tarieven in rekening die verschuldigd zijn in verband met de uit
 
 2. Voor werkzaamheden waarvoor geen tarief is vastgesteld worden de werkelijke kosten in rekening gebracht.
 
-#### Artikel 4. Jaarlijkse vergoeding
+##### Artikel 4. Jaarlijkse vergoeding
 
 1. Voor de registratie van een toegelaten gewasbeschermingsmiddel en biocide wordt jaarlijks een vergoeding in rekening gebracht.
 
@@ -88,13 +114,13 @@ Het Ctgb brengt tarieven in rekening die verschuldigd zijn in verband met de uit
 
 3. Indien de aanvrager niet of niet volledig binnen de gestelde termijn de jaarlijkse vergoeding betaalt, is de aanvrager van rechtswege in verzuim in de zin van [artikel 6:81 Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=81).
 
-#### Artikel 5. Kaderformulering
+##### Artikel 5. Kaderformulering
 
 Bij aanvragen voor biociden onder overgangsrecht is het mogelijk om toelatingen voor een groep van zeer vergelijkbare producten aan te vragen door een gecombineerde aanvraag in te dienen.
 
 ### Hoofdstuk 3. Facturering, betaling en nacalculatie/restitutie
 
-#### Artikel 6. Gewasbescherming en Biociden onder NL overgangsrecht
+##### Artikel 6. Gewasbescherming en Biociden onder NL overgangsrecht
 
 1. De aan het Ctgb verschuldigde vergoeding wordt berekend aan de hand van de aangeduide posten en tariefstellingen.
 
@@ -104,7 +130,7 @@ Bij aanvragen voor biociden onder overgangsrecht is het mogelijk om toelatingen 
 
 4. Voor andere tarieven of kosten geldt dat de aanvrager de factuur binnen 30 dagen na factuurdatum onder vermelding van het factuurnummer voldoet.
 
-#### Artikel 7. Biocidenverordening
+##### Artikel 7. Biocidenverordening
 
 1. Na ontvangst van de aanvraag berekent het Ctgb de voor de aanvraagprocedure verschuldigde vergoeding aan de hand van de aangeduide posten en tariefstellingen. De factuur wordt zo spoedig mogelijk na ontvangst van de aanvraag geplaatst in R4BP.
 
@@ -120,23 +146,23 @@ Indien er meerdere aanvragers zijn, is jegens het Ctgb iedere aanvrager hoofdeli
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 8. Tussentijdse aanpassing Tarievenbesluit
+##### Artikel 8. Tussentijdse aanpassing Tarievenbesluit
 
 Het Tarievenbesluit kan, indien daar aanleiding toe is, tussentijds worden aangepast.
 
-#### Artikel 9. Overgangsregime
+##### Artikel 9. Overgangsregime
 
 De op het tijdstip van inwerkingtreding van dit besluit aanhangige aanvragen worden met ingang van dat tijdstip overeenkomstig de bepalingen van dit besluit behandeld.
 
-#### Artikel 10. Intrekking eerder tarievenbesluit
+##### Artikel 10. Intrekking eerder tarievenbesluit
 
 Het “[Tarievenbesluit Ctgb 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0050644)” wordt ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 2026, voor zover nodig met terugwerkende kracht, na goedkeuring door Onze Minister en plaatsing van dit besluit in de Staatscourant.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: **“Tarievenbesluit Ctgb 2026”.**
 

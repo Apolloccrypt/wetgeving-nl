@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro 'Van Nelle Fabriek' die in 2015 worden uitgegeven in de thematische serie Nederlands Werelderfgoed"
+title: "Besluit van 25 augustus 2015, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro «Van Nelle Fabriek» die in 2015 worden uitgegeven in de thematische serie Nederlands Werelderfgoed"
 identifier: "BWBR0036994"
-categorie: "Overig"
-publicatiedatum: 2015-09-12
-laatste_update: 2015-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036994"
+country: "nl"
+rank: "kb"
+publication_date: "2015-09-12"
+last_updated: "2015-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036994"
+soort: "KB"
+stam_id: "13253343"
+version_id: "22672072"
+internal_id: "C32504431"
+label_id: "13221324"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036994/2015-09-12/0"
+intitule_bron: "Stb.2015-322"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-25"
+intitule_published: "2015-09-08"
+intitule_in_force: "2015-09-08"
+intitule_status: "goed"
+original_publication: "Stb.2015-322"
+original_signed_date: "2015-08-25"
+original_published_date: "2015-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-322"
+entry_into_force_date: "2015-09-12"
+jci_1_3: "jci1.3:c:BWBR0036994&z=2015-09-12&g=2015-09-12"
+jci_1_0: "1.0:c:BWBR0036994&g=2015-09-12"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling bestanddelen beeldenaar munten van vijf en tien euro 'Van Nelle Fabriek' die in 2015 worden uitgegeven in de thematische serie Nederlands Werelderfgoed"
+signed_date: "2015-08-25"
+entry_into_force: "2015-09-12"
 ---
-
 # Besluit van 25 augustus 2015, houdende vaststelling van de bestanddelen van de beeldenaar van de munten van vijf en tien euro «Van Nelle Fabriek» die in 2015 worden uitgegeven in de thematische serie Nederlands Werelderfgoed
 
 Op de voordracht van de Staatssecretaris van Financiën van 21 augustus 2015, FM/2015/955 M, directie Financiële Markten;
@@ -16,7 +42,7 @@ Gelet op [artikel 4, tweede lid, van de Muntwet 2002](https://wetten.overheid.nl
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bestanddelen van de beeldenaar van de zilveren vijf-euromunt en de gouden tien-euromunt «Van Nelle Fabriek» die worden uitgegeven in de thematische serie Nederlands Werelderfgoed zijn:
 
@@ -28,11 +54,11 @@ Hebben goedgevonden en verstaan:
 
 3. De tien-euromunt heeft een fijngeribbelde rand.
 
-#### Artikel 2
+##### Artikel 2
 
 De Staat der Nederlanden (Ministerie van Financiën) maakt een voorbehoud als bedoeld in [artikel 15b van de Auteurswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001886&artikel=15b) met betrekking tot de beeldenaars van de munten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0036994&artikel=1&z=2015-09-12&g=2015-09-12).
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 12 september 2015.
 

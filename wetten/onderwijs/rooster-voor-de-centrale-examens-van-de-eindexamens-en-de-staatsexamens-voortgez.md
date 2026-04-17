@@ -1,13 +1,39 @@
 ---
-title: "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
+title: "Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)"
 identifier: "BWBR0046997"
-categorie: "Onderwijs"
-publicatiedatum: 2024-02-15
-laatste_update: 2024-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046997"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-02-15"
+last_updated: "2024-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046997"
+soort: "zbo"
+stam_id: "16442943"
+version_id: "28805792"
+internal_id: "C40786111"
+label_id: "16366084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046997/2024-02-15/0"
+intitule_bron: "Stcrt.2022-17985"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-27"
+intitule_published: "2022-07-22"
+intitule_in_force: "2022-07-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-17985"
+original_signed_date: "2022-06-27"
+original_published_date: "2022-07-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-17985"
+entry_into_force_date: "2023-08-01"
+jci_1_3: "jci1.3:c:BWBR0046997&z=2024-02-15&g=2024-02-15"
+jci_1_0: "1.0:c:BWBR0046997&g=2024-02-15"
+citeertitel_status: "officieel"
+short_title: "Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024"
+signed_date: "2022-06-27"
+entry_into_force: "2023-08-01"
 ---
-
 # Besluit van het College voor toetsen en examens van 27 juni 2022, met nummer CvTE-22.2200845, houdende het vaststellen van het tijdstip van de toetsen van de centrale examens voor 2024 (Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024)
 
 Het College voor toetsen en examens,
@@ -16,7 +42,7 @@ Gelet op [artikel 2, tweede lid, aanhef en onderdeel b, van de Wet College voor 
 
 Besluit:
 
-#### Artikel 1. Tijdvakken en examenrooster centrale examens 2024
+##### Artikel 1. Tijdvakken en examenrooster centrale examens 2024
 
 1. Het eerste tijdvak voor de schriftelijke centrale examens begint op dinsdag 14 mei en eindigt op woensdag 29 mei. De dagen en uren waarop de toetsen van worden afgenomen, zijn vastgesteld zoals vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&bijlage=1&z=2024-02-15&g=2024-02-15).
 
@@ -28,7 +54,7 @@ Besluit:
 
 5. Het derde tijdvak vindt plaats in augustus. De dagen en uren waarop de toetsen van het centraal examen in het derde tijdvak worden afgenomen, worden na aanmelding aan de kandidaat door het College voor toetsen en examens meegedeeld.
 
-#### Artikel 2. Onderdelen met een vroege start
+##### Artikel 2. Onderdelen met een vroege start
 
 In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046997&artikel=1&z=2024-02-15&g=2024-02-15), valt van de volgende toetsen het begin van de periode waarbinnen de afname dient plaats te vinden voor aanvang van het eerste tijdvak:
 
@@ -36,11 +62,11 @@ In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. in het vwo: het centraal praktische examen van tekenen, handvaardigheid, textiele vormgeving.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 augustus 2023.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Rooster voor de centrale examens van de eindexamens en de staatsexamens voortgezet onderwijs in 2024.
 

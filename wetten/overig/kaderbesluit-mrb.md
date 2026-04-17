@@ -1,13 +1,39 @@
 ---
-title: "Kaderbesluit mrb"
+title: "Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27599 over de motorrijtuigenbelasting (Kaderbesluit mrb)"
 identifier: "BWBR0052084"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052084"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052084"
+soort: "ministeriele-regeling"
+stam_id: "17708893"
+version_id: "31256512"
+internal_id: "C44696471"
+label_id: "17608404"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052084/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40567"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-22"
+intitule_published: "2025-12-24"
+intitule_in_force: "2025-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40567"
+original_signed_date: "2025-12-22"
+original_published_date: "2025-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40567"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052084&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052084&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Kaderbesluit mrb"
+signed_date: "2025-12-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 22 december 2025, nr. 2025-27599 over de motorrijtuigenbelasting (Kaderbesluit mrb)
 
 **De Staatssecretaris van Financiën,**

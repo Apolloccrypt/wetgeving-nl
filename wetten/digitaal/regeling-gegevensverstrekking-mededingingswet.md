@@ -1,13 +1,39 @@
 ---
-title: "Regeling gegevensverstrekking Mededingingswet"
+title: "Regeling van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ / 14066719, houdende uitvoering van de artikelen 35, eerste lid, 42, tweede lid, en 48 van de Mededingingswet en wijziging van een aantal ministeriële regelingen in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Regeling gegevensverstrekking Mededingingswet)"
 identifier: "BWBR0035324"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2014-08-01
-laatste_update: 2014-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035324"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-08-01"
+last_updated: "2014-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035324"
+soort: "ministeriele-regeling"
+stam_id: "12725593"
+version_id: "21538302"
+internal_id: "C30922471"
+label_id: "12695614"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035324/2014-08-01/0"
+intitule_bron: "Stcrt.2014-19743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-07-04"
+intitule_published: "2014-07-15"
+intitule_in_force: "2014-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-19743"
+original_signed_date: "2014-07-04"
+original_published_date: "2014-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-19743"
+entry_into_force_date: "2014-08-01"
+jci_1_3: "jci1.3:c:BWBR0035324&z=2014-08-01&g=2014-08-01"
+jci_1_0: "1.0:c:BWBR0035324&g=2014-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevensverstrekking Mededingingswet"
+signed_date: "2014-07-04"
+entry_into_force: "2014-08-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 4 juli 2014, nr. WJZ / 14066719, houdende uitvoering van de artikelen 35, eerste lid, 42, tweede lid, en 48 van de Mededingingswet en wijziging van een aantal ministeriële regelingen in verband met de stroomlijning van het door de Autoriteit Consument en Markt te houden markttoezicht (Regeling gegevensverstrekking Mededingingswet)
 
 Gelet op [artikelen 35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=35), en [42, tweede lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=42), [8 van de Instellingswet ACM](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=8), [40a van de Elektriciteitswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009755&artikel=40a), [81e, tweede lid, van de Gaswet](https://wetten.overheid.nl/jci1.3:c:BWBR0011440&artikel=81e), [2.11 van het Besluit universele dienstverlening en eindgebruikersbelangen](https://wetten.overheid.nl/jci1.3:c:BWBR0016698&artikel=2.11), [14, vierde lid, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=14), [2.1, vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.1), en [2.3, derde en vierde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=2.3);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Gegevens bij een melding
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij een melding worden met betrekking tot elke bij de concentratie betrokken onderneming de volgende gegevens verstrekt:
 
@@ -80,21 +106,21 @@ In deze regeling wordt verstaan onder:
 
 - f. de omzet van de groep in het voorafgaande kalenderjaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij een melding wordt aangegeven welk type concentratie als bedoeld in [artikel 27, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27) van toepassing is en welke overeenkomsten en andere transacties de concentratie belichamen of samenhangen met de totstandbrenging van de concentratie, ook indien deze reeds zijn aangegaan of uitgevoerd.
 
-#### Artikel 4
+##### Artikel 4
 
 Met het oog op de toepassing van [artikel 10 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=10) wordt bij een melding aangegeven welke overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6) naar het oordeel van de bij de concentratie betrokken ondernemingen rechtstreeks verbonden zijn aan de concentratie en noodzakelijk zijn voor de verwezenlijking van de concentratie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij een melding wordt een beschrijving gegeven van elke door de concentratie te beïnvloeden markt en van elke te onderzoeken markt, onder vermelding van de overwegingen die ten grondslag liggen aan de afbakening van die markten.
 
 2. Bij een melding wordt voorts de omvang van elk van die markten in volume en in waarde aangegeven en het aandeel op die markten, in volume en in waarde van elke bij de concentratie betrokken onderneming.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien sprake is van de totstandbrenging van een gemeenschappelijke onderneming in de zin van [artikel 27, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=27) en de totstandbrengende ondernemingen in significante mate actief blijven op
 
@@ -110,7 +136,7 @@ wordt de omzet van elke totstandbrengende onderneming in het voorafgaande boekja
 
 3. Indien met de totstandbrenging van de gemeenschappelijke onderneming naar het oordeel van de betrokken ondernemingen niet de coördinatie van het concurrentiegedrag van de totstandbrengende ondernemingen wordt beoogd of totstandgebracht, of indien de bij de concentratie betrokken ondernemingen menen dat voldaan is aan de criteria van [artikel 6, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=6), wordt vermeld welke overwegingen aan dit oordeel ten grondslag liggen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij een melding worden ten aanzien van elke door de concentratie te beïnvloeden en te onderzoeken markt, met betrekking tot elke bij de concentratie betrokken onderneming de volgende gegevens verstrekt:
 
@@ -120,7 +146,7 @@ wordt de omzet van elke totstandbrengende onderneming in het voorafgaande boekja
 
 2. Ten aanzien van elke door de concentratie te beïnvloeden markt en elke te onderzoeken markt wordt voorts aangegeven of op die markt een of meer privaatrechtelijke rechtspersonen werkzaam zijn die volgens hun statuten tot doel hebben de belangen te behartigen van ondernemers die behoren tot eenzelfde bedrijfstak, in voorkomend geval onder vermelding van de naam, het adres, het telefoonnummer en de contactpersoon van elke organisatie.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij een melding worden de volgende documenten overgelegd:
 
@@ -138,11 +164,11 @@ Bij een melding worden de volgende documenten overgelegd:
 
 #### Paragraaf 3. Gegevens bij een aanvraag om vergunning
 
-#### Artikel 9
+##### Artikel 9
 
 Ten aanzien van een aanvraag om vergunning zijn de [artikelen 2 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035324&paragraaf=2&artikel=2&z=2014-08-01&g=2014-08-01) van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij een aanvraag om vergunning worden ten aanzien van elke bij de concentratie betrokken onderneming voorts de volgende gegevens verstrekt:
 
@@ -156,7 +182,7 @@ Bij een aanvraag om vergunning worden ten aanzien van elke bij de concentratie b
 
 - e. de omvang van de activiteiten in landen buiten Nederland alsmede het marktaandeel van deze activiteiten in die landen.
 
-#### Artikel 11
+##### Artikel 11
 
 Bij een aanvraag om vergunning worden ten aanzien van elke te onderzoeken markt voorts de volgende gegevens verstrekt, tenzij de ACM aangeeft dat verstrekking achterwege kan blijven:
 
@@ -220,29 +246,29 @@ Bij een aanvraag om vergunning worden ten aanzien van elke te onderzoeken markt 
 
 #### Paragraaf 4. Wijziging en intrekking van ministeriële regelingen
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt de Regeling gegevensuitwisseling ACM en ministers.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt de Regeling meettarieven.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt de Regeling universele dienstverlening en eindgebruikersbelangen.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt de Regeling vertrouwenslijst.
 
 #### Paragraaf 5. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van 1 augustus 2014.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Regeling gegevensverstrekking Mededingingswet.
 

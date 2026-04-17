@@ -1,13 +1,35 @@
 ---
-title: "Uitvoeringsbesluit belastingen van rechtsverkeer"
+title: "Besluit van 22 juni 1971 tot vaststelling van het Uitvoeringsbesluit belastingen van rechtsverkeer"
 identifier: "BWBR0002770"
-categorie: "Belastingrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002770"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002770"
+soort: "AMvB"
+stam_id: "983373"
+version_id: "1444102"
+internal_id: "C1444101"
+label_id: "953404"
+dtd_version: "2.0"
+original_entry_into_force: "1972-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002770/2025-07-01/0"
+intitule_bron: "Stb.1971-393"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-06-22"
+intitule_status: "goed"
+original_publication: "Stb.1971-393"
+original_signed_date: "1971-06-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1972-01-01"
+jci_1_3: "jci1.3:c:BWBR0002770&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002770&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit belastingen van rechtsverkeer"
+signed_date: "1971-06-22"
+entry_into_force: "1972-01-01"
 ---
-
 # Besluit van 22 juni 1971 tot vaststelling van het Uitvoeringsbesluit belastingen van rechtsverkeer
 
 Op de voordracht van de Staatssecretaris van Financiën van 29 april 1971, nr. B71/8431, directie Wetgeving Douane en Verbruiksbelastingen;
@@ -22,17 +44,17 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit verstaat onder wet: [Wet op belastingen van rechtsverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0002740).
 
 ### Hoofdstuk I. Overdrachtsbelasting
 
-#### Artikel 2
+##### Artikel 2
 
 De waarde van een canon, een retributie of een huur als is bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=11), wordt bepaald met inachtneming van de bij dit besluit behorende bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), is van toepassing onder de volgende voorwaarden:
 
@@ -46,7 +68,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 - e. bij vervreemding door de natuurlijk persoon geldt dat de natuurlijk persoon de verkregen koperskorting geheel of gedeeltelijk moet terugbetalen aan de verkrijger, of dat de verkrijger in bepaalde mate deelt in de tussentijdse waardeontwikkeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 15, eerste lid, onderdeel e, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling bij inbreng in een vennootschap die geen in aandelen verdeeld kapitaal heeft, van een onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva die een functie vervullen in de onderneming worden ingebracht tegen bijschrijving op de kapitaalrekening van de vennootschap van een bedrag dat ten minste 90 percent is van de waarde in het economische verkeer van het vermogen van de ingebrachte onderneming dan wel de boekwaarde van dat vermogen, zoals die geldt voor de heffing van inkomstenbelasting of vennootschapsbelasting, in gevallen waarin de ondernemer inbrengt met voorbehoud van stille reserves.
 
@@ -62,7 +84,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 7. Voor de toepassing van dit artikel worden onder onroerende zaken mede verstaan fictieve onroerende zaken als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), rechten waaraan onroerende zaken of fictieve onroerende zaken zijn onderworpen, alsmede de economische eigendom van deze zaken of rechten.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De in [artikel 15, eerste lid, onderdeel f, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling krachtens vereffening van het vermogen van een rechtspersoon is van toepassing wanneer de vereffening plaatsheeft in het kader van de voortzetting van een door een vennootschap gedreven onderneming door de aandeelhouders, als bedoeld in [artikel 14c van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=14c). Onder vennootschap wordt in de vorige volzin verstaan de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid, mits deze vennootschappen uitsluitend natuurlijke personen als aandeelhouder hebben.
 
@@ -70,7 +92,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 3. Het tweede lid blijft buiten toepassing in geval van inbreng of omzetting van een onderneming, als bedoeld in [artikel 15, eerste lid, onderdeel e, onder 1°, onderscheidenlijk onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 15, eerste lid, onderdeel e, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=III&artikel=15&z=2025-07-01&g=2025-07-01), bedoelde vrijstelling bij omzetting van een niet in de vorm van een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid gedreven onderneming, waaronder mede wordt verstaan de onderneming bestaande in een deelgerechtigdheid in een maatschap, vennootschap onder firma of commanditaire vennootschap, in een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid is van toepassing indien alle tot het ondernemingsvermogen behorende activa en passiva die een functie vervullen in de onderneming worden ingebracht tegen toekenning van aandelen, mits de oprichters van de vennootschap in het aandelenkapitaal geheel of nagenoeg geheel in dezelfde verhouding gerechtigd zijn als in het vermogen van de omgezette onderneming.
 
@@ -84,7 +106,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 6. Het vierde lid blijft buiten toepassing in geval van vervreemding in het kader van een fusie als bedoeld in [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5a&z=2025-07-01&g=2025-07-01), een interne reorganisatie als bedoeld in [artikel 5b](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2025-07-01&g=2025-07-01), dan wel een splitsing als bedoeld in [artikel 5c](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5c&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens fusie is van toepassing indien een vennootschap uitsluitend de gehele onderneming of een zelfstandig onderdeel daarvan van een andere vennootschap verkrijgt tegen toekenning van aandelen.
 
@@ -100,7 +122,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 7. Voor de toepassing van dit artikel wordt onder vennootschap verstaan de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid. Onder vennootschap wordt mede verstaan de vereniging, coöperatie en onderlinge waarborgmaatschappij met een in aandelen verdeeld kapitaal. Tevens wordt daaronder verstaan het lichaam dat naar het recht van een andere Staat is opgericht en naar aard en inrichting vergelijkbaar is met een lichaam als bedoeld in dit lid.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. De in [artikel 15, eerste lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), bedoelde vrijstelling wegens interne reorganisatie is van toepassing indien een tot het concern behorende vennootschap onroerende zaken overdraagt aan een andere vennootschap van dat concern.
 
@@ -132,7 +154,7 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 10. Voor de toepassing van dit artikel worden onder onroerende zaken mede verstaan fictieve onroerende zaken als bedoeld in [artikel 4, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), rechten waaraan onroerende zaken of fictieve onroerende zaken zijn onderworpen, alsmede de economische eigendom van deze zaken of rechten.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens splitsing is van toepassing bij overgang van vermogen onder algemene titel in het kader van een splitsing van een rechtspersoon voor zover de verkrijgende rechtspersoon de gehele onderneming of een zelfstandig onderdeel daarvan, tezamen met de onroerende zaak die daartoe behoort en daaraan dienstbaar is, van de splitsende rechtspersoon verkrijgt. De eerste zin is slechts van toepassing indien de aandeelhouder van de splitsende rechtspersoon, als gevolg van de verkrijging van de bij die splitsing toegekende aandelen, onmiddellijk of middellijk een soortgelijk belang houdt in de verkrijgende rechtspersoon als de aandeelhouder had in de splitsende rechtspersoon op het tijdstip onmiddellijk voorafgaand aan de splitsing. Indien de verkregen onroerende zaak die behoort tot en dienstbaar is aan de onderneming of het zelfstandig onderdeel daarvan op het tijdstip van de verkrijging dienstbaar is aan het verkrijgen, vervreemden of exploiteren van die onroerende zaak, kan de vrijstelling alleen toepassing vinden indien de splitsende rechtspersoon of de aandeelhouder van de splitsende rechtspersoon het gehele belang in de verkrijgende rechtspersoon houdt.
 
@@ -172,17 +194,17 @@ De vrijstelling, bedoeld in [artikel 15, eerste lid, onderdeel t, van de wet](ht
 
 11. Voor de toepassing van dit artikel wordt onder rechtspersoon verstaan de naamloze vennootschap, de besloten vennootschap met beperkte aansprakelijkheid, de vereniging, de coöperatie alsmede de onderlinge waarborgmaatschappij, mits deze een in aandelen verdeeld kapitaal hebben. Onder rechtspersoon wordt mede verstaan het lichaam dat naar het recht van een andere staat is opgericht en naar aard en inrichting vergelijkbaar is met een rechtspersoon als bedoeld in dit lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onder waarde als bedoeld in [artikel 15, eerste lid, onderdeel p, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), wordt verstaan de waarde, bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=9), onder toepassing van [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=11).
 
 2. Onder het totaal van de waarde van de woning of rechten waaraan deze is onderworpen en tot die woning behorende aanhorigheden als bedoeld in [artikel 15, eerste lid, onderdeel p, onder 4°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) wordt verstaan de som van de waarde van de huidige verkrijging en de waarde van eventuele eerdere verkrijgingen die plaatsvonden in de voorafgaande twaalf maanden en betrekking hebben op dezelfde woning of rechten waaraan deze is onderworpen of een aanhorigheid bij die woning, door dezelfde persoon.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Onder natuurgrond als bedoeld in [artikel 15, eerste lid, onderdeel s, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15), wordt verstaan grond bezet met houtopstanden en natuurterreinen als bedoeld in [artikel 1, onderdelen b en d, van het Rangschikkingsbesluit Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939&artikel=1).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Met betrekking tot de belasting ter zake van een verkrijging van andere goederen dan bedoeld in [artikel 4, eerste lid, onderdelen a en b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=4), waarvan een onderhandse akte is opgemaakt op de voet van artikel II van de wet van 28 juni 1956 (**Stb.** 376), wordt aangifte gedaan door het aanbieden van die akte ter registratie. Het verschuldigde bedrag aan overdrachtsbelasting wordt vermeld in een aan de voet van de akte gestelde, door de verkrijger of namens deze door de persoon die de akte heeft opgesteld, ondertekende verklaring. Voor zover in de akte niet alle gegevens voorkomen waarvan kennisneming van belang kan zijn voor de heffing van de belasting, dienen deze te worden opgenomen in die verklaring.
 
@@ -192,15 +214,15 @@ Onder natuurgrond als bedoeld in [artikel 15, eerste lid, onderdeel s, van de we
 
 ### Hoofdstuk II. Assurantiebelasting
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Het verzoek om een vergunning voor een fiscaal vertegenwoordiger bevat de volgende gegevens:
 
@@ -232,45 +254,45 @@ Vervallen
 
 ### Hoofdstuk III. Kapitaalsbelasting
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
 ### Hoofdstuk IV. Beursbelasting
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit besluit treedt in werking met ingang van 1 januari 1972.
 
@@ -329,7 +351,7 @@ Vervallen
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 5d
+##### Artikel 5d
 
 1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling is op een verkrijging door een vereniging als bedoeld in [artikel 6.33, onderdeel c, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=6.33) of een algemeen nut beogende instelling van toepassing:
 
@@ -408,7 +430,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 5bis
+##### Artikel 5bis
 
 1. De in [artikel 15, eerste lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002740&artikel=15) bedoelde vrijstelling wegens fusie is van toepassing bij overgang van vermogen onder algemene titel in het kader van een juridische fusie tussen rechtspersonen, mits die fusie hoofdzakelijk plaatsvindt op grond van zakelijke overwegingen. De eerste volzin blijft buiten toepassing in geval van een fusie waarop [artikel 5b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002770&hoofdstuk=I&artikel=5b&z=2025-07-01&g=2025-07-01), van toepassing is.
 
@@ -493,7 +515,7 @@ Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwel
 
 Onze Minister van Financiën is belast met de uitvoering van dit besluit, hetwelk in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 

@@ -1,13 +1,37 @@
 ---
 title: "Inkomstenbelasting, vennootschapsbelasting, willekeurige afschrijving"
 identifier: "BWBR0019185"
-categorie: "Belastingrecht"
-publicatiedatum: 2005-12-07
-laatste_update: 2005-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019185"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-12-07"
+last_updated: "2005-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019185"
+soort: "beleidsregel"
+stam_id: "7958593"
+version_id: "12820312"
+internal_id: "C17295521"
+label_id: "7946504"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019185/2005-12-07/0"
+intitule_bron: "Stcrt.2006-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-07"
+intitule_published: "2006-01-12"
+intitule_in_force: "2006-01-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-9"
+original_signed_date: "2005-12-07"
+original_published_date: "2006-01-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2005-12-07"
+jci_1_3: "jci1.3:c:BWBR0019185&z=2005-12-07&g=2005-12-07"
+jci_1_0: "1.0:c:BWBR0019185&g=2005-12-07"
+citeertitel_status: "redactioneel"
+signed_date: "2005-12-07"
+entry_into_force: "2005-12-07"
 ---
-
 # Inkomstenbelasting, vennootschapsbelasting, willekeurige afschrijving
 
 **De directeur-generaal Belastingdienst heeft namens de staatssecretaris van Financiën het volgende besloten.**

@@ -1,24 +1,49 @@
 ---
 title: "Arbeidsgeschillenwet 1946 BES"
 identifier: "BWBR0028178"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028178"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028178"
+soort: "wet-BES"
+stam_id: "10689483"
+version_id: "17650912"
+internal_id: "C24832311"
+label_id: "10664374"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028178/2012-01-01/0"
+intitule_bron: "Stb.2010-596"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-596"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-596"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028178&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBR0028178&g=2012-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Arbeidsgeschillenwet 1946 BES
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Overeenkomstig het bepaalde bij of krachtens deze wet is er een bemiddelaar tot bevordering van de arbeidsvrede.
 
 2. De Rijksvertegenwoordiger benoemt, schorst en ontslaat de bemiddelaar en stelt diens instructie vast.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze wet wordt verstaat onder:
 
@@ -34,7 +59,7 @@ In deze wet wordt verstaat onder:
 
 #### § 1. Van de tusschenkomst van de bemiddelaar
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien in het openbaar lichaam Bonaire, Sint Eustatius of Saba een geschil is ontstaan, dat tot staking of uitsluiting aanleiding dreigt te geven en waarbij vijf en twintig werknemers of meer betrokken zijn, dient onverwijld door bij het geschil betrokken werkgevers en/of werknemers of door bestuurders van hun vakverenigingen de tussenkomst van de bemiddelaar, te worden ingeroepen, welke inroeping onverwijld schriftelijk wordt bevestigd.
 
@@ -44,17 +69,17 @@ In deze wet wordt verstaat onder:
 
 4. Wanneer de bemiddelaar van een dreigende staking of uitsluiting dan wel van de aanvang van de onderhandelingen als bedoeld in het vorige lid kennis heeft gekregen krachtens het bepaalde in het eerste, tweede of derde lid van dit artikel of op andere wijze, deelt hij dit onverwijld aan Onze Minister van Sociale Zaken en Werkgelegenheid mede.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Indien in een bedrijf een geschil is ontstaan, dat tot staking of uitsluiting in dat bedrijf aanleiding geeft of heeft gegeven, dan wel naar het oordeel van Onze Minister van Sociale Zaken en Werkgelegenheid kan geven, is het gedurende een door Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen termijn van ten hoogste dertig dagen zowel de werknemer als de werkgever verboden in zodanig bedrijf naar aanleiding van dat geschil het verrichten van arbeid of werkzaamheden, waartoe de werknemers zich uitdrukkelijk hebben verbonden of waartoe zij uit kracht van een overeenkomst verplicht zijn, geheel of gedeeltelijk te staken, te weigeren, na te laten, of zodanige arbeid of werkzaamheden al dan niet voorwaardelijk of al dan niet met inachtneming van een termijn op te zeggen, onverminderd de bevoegdheid tot beëindiging van een dienstbetrekking om een dringende reden als bedoeld in de [artikelen 1615p](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615p) en [1615q van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028752&artikel=1615q).
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Indien in een bij ministeriële regeling genoemd bedrijf een geschil is ontstaan of dreigt te ontstaan, is het in de in die regeling genoemde bedrijven verboden naar aanleiding van dat geschil het verrichten van arbeid of werkzaamheden waartoe de werknemers zich uitdrukkelijk hebben verbonden of waartoe zij uit kracht van een overeenkomst verplicht zijn, geheel of gedeeltelijk te staken, te weigeren, na te laten, of zodanige arbeid of werkzaamheden al dan niet voorwaardelijk of al dan niet met inachtneming van een termijn op te zeggen, totdat de bemiddeling van de bemiddelaar ter vereffening of ter voorkoming van het geschil zal zijn geëindigd.
 
 2. Indien in een bedrijf als bedoeld in het vorige lid een geschil is ontstaan dat tot staking of uitsluiting in dat bedrijf aanleiding geeft of naar het oordeel van Onze Minister van Sociale Zaken en Werkgelegenheid kan geven, of indien in een zodanig bedrijf een staking of uitsluiting reeds is ingetreden, is het – onverminderd het bepaalde in het eerste lid – gedurende een door Onze Minister van Sociale Zaken en Werkgelegenheid te bepalen termijn van ten hoogste negentig dagen verboden in zodanig bedrijf naar aanleiding van het geschil het verrichten van arbeid of werkzaamheden waartoe de werknemers zich uitdrukkelijk hebben verbonden of waartoe zij uit kracht van een overeenkomst verplicht zijn, geheel of gedeeltelijk te staken, te weigeren, na te laten, of zodanige arbeid of werkzaamheden al dan niet voorwaardelijk of al dan niet met inachtneming van een termijn op te zeggen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de bemiddelaar krachtens het bepaalde in het [eerste, tweede of derde lid van artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01) of op andere wijze kennis heeft gekregen van een geschil, dat tot staking of uitsluiting aanleiding dreigt te geven of heeft gegeven, stelt hij zich onverwijld in verbinding met partijen en tracht met alle hem ten dienste staande middelen zo spoedig mogelijk een oplossing tot stand te brengen. Betreft het een geval als bedoeld in artikel 3, derde lid, dan is de taak van de bemiddelaar in de eerste plaats gericht op het plegen van overleg ter verkrijging van een oplossing in der minne tussen het bestuur of bij ontstentenis daarvan de vertegenwoordiger(s) op Bonaire, Sint Eustatius of Saba van dat bedrijf en de betrokken werknemersraad.
 
@@ -66,11 +91,11 @@ Indien in een bedrijf een geschil is ontstaan, dat tot staking of uitsluiting in
 
 5. Het bepaalde in het voorgaande lid van dit artikel blijft buiten toepassing, indien of zolang de bemiddelaar zich ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) van tussenkomst dient te onthouden, doch de betrokken partijen zijn verplicht hem desverlangd omtrent het verloop van de onderhandelingen in te lichten.
 
-#### Artikel 4a
+##### Artikel 4a
 
 De bemiddelaar kan ambtshalve zijn bemiddeling aanbieden, met inachtneming van het gestelde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bemiddelaar onthoudt zich van tusschenkomst of van verdere tusschenkomst in een geschil:
 
@@ -82,17 +107,17 @@ De bemiddelaar kan ambtshalve zijn bemiddeling aanbieden, met inachtneming van h
 
 2. Hebben de in het eerste lid onder a en b genoemde omstandigheden slechts betrekking op een gedeelte der bij het geschil betrokken werkgevers of werknemers, dan beslist de bemiddelaar, naar gelang van omstandigheden, of en in hoeverre hij in het geschil tusschenbeide zal komen.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien in het geval, bedoeld in [artikel 3 sub 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), de bemiddelaar geen termen aanwezig acht voor zijne tusschenkomst, geeft hij daarvan kennis aan de verzoekers. Hij kan hun daarbij zodanige raadgevingen verstrekken als hem dienstig schijnen om eene minnelijke beëindiging van het geschil te bevorderen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het geschil meer dan één bedrijf omvat of in verschillende bedrijven is ontstaan kan de Rijksvertegenwoordiger op verzoek van de bemiddelaar voor elk bedrijf of voor elk geschil een buitengewone bemiddelaar benoemen.
 
 2. Al hetgeen bij of krachtens deze wet bepaald is met betrekking tot de bemiddelaar, geldt eveneens ten aanzien van de krachtens het eerste lid van dit artikel benoemde buitengewone bemiddelaars.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien het geschil is ontstaan in een of meer bedrijven als bedoeld in [artikel 3B, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=3b&z=2012-01-01&g=2012-01-01), en de tussenkomst van de bemiddelaar, alsmede c.q. van de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=7&z=2012-01-01&g=2012-01-01) bedoelde buitengewone bemiddelaar, niet tot oplossing in der minne van het geschil heeft geleid, kan Onze Minister van Sociale Zaken en Werkgelegenheid een of meer andere buitengewone bemiddelaars – al dan niet in opvolging van elkaar – in dat geschil benoemen.
 
@@ -100,7 +125,7 @@ Indien in het geval, bedoeld in [artikel 3 sub 2](https://wetten.overheid.nl/jci
 
 #### § 2. Van de tusschenkomst van eenen bijzonderen bemiddelaar
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Rijksvertegenwoordiger kan ter vereffening van een geschil dat niet ingevolge [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=5&z=2012-01-01&g=2012-01-01) aan de tusschenkomst van de bemiddelaar is onttrokken, overgaan tot de aanwijzing van een bijzonderen bemiddelaar, al dan niet bijgestaan door een commissie, indien het verzoek daartoe schriftelijk wordt gedaan door of namens de bij het geschil betrokken werkgevers en werknemers, of door of namens zoodanig gedeelte van hen, dat naar het oordeel van de Rijksvertegenwoordiger de tusschenkomst van een bijzonderen bemiddelaar kan leiden tot vereffening van het geschil, althans tot eene aanzienlijke beperking van het aantal daarbij betrokken personen.
 
@@ -110,7 +135,7 @@ Indien in het geval, bedoeld in [artikel 3 sub 2](https://wetten.overheid.nl/jci
 
 4. Tenzij het derde lid van dit artikel van toepassing is, onthoudt de bemiddelaar zich van tussenkomst of van verdere tusschenkomst in een geschil, indien door de Rijksvertegenwoordiger een bijzonderen bemiddelaar is aangewezen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bijzondere bemiddelaar kan tot eene partij behoorende werkgevers en werknemers, bestuurders van vakvereenigingen welke of welker leden tot eene partij behooren, alsmede getuigen en deskundigen voor zich en eventueel voor de commissie doen verschijnen.
 
@@ -118,7 +143,7 @@ Indien in het geval, bedoeld in [artikel 3 sub 2](https://wetten.overheid.nl/jci
 
 3. De bijzondere bemiddelaar kan met goedvinden van de Rijksvertegenwoordiger aan deskundigen opdragen een onderzoek in te stellen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Komt ene bemiddeling tot stand, zoo wordt daarvan eene akte opgemaakt, welke door den bijzonderen bemiddelaar, eventueel door de Commissieleden en door of namens beide partijen onderteekend wordt.
 
@@ -130,13 +155,13 @@ Indien in het geval, bedoeld in [artikel 3 sub 2](https://wetten.overheid.nl/jci
 
 5. Bij gebreke van eene verklaring van een of van beide partijen, dat zij de voorgestelde middelen tot vereffening aanvaarden, kan de bijzondere bemiddelaar zijn oordeel over de geschilpunten en de door hem voorgestelde middelen tot vereffening geheel of gedeeltelijk openbaar maken.
 
-#### Artikel 11
+##### Artikel 11
 
 Alle geschillen, die ter zake van de behandeling van het geschil door den bijzonderen bemiddelaar, eventueel bijgestaan door een commissie, mochten rijzen, worden door hem beslecht.
 
 #### § 3. Van het scheidsgerecht
 
-#### Artikel 12
+##### Artikel 12
 
 1. Partijen kunnen zich met medewerking van de bemiddelaar verbinden, een geschil te onderwerpen aan de uitspraak van een scheidsgerecht.
 
@@ -146,17 +171,17 @@ Alle geschillen, die ter zake van de behandeling van het geschil door den bijzon
 
 4. Geen geschil kan onderworpen worden aan de beslissingen van een scheidsgerecht, indien partijen zich niet bij de in lid 2 bedoelde schriftelijke overeenkomst ten genoegen van de bemiddelaar verbinden, de beslissing van het scheidsgerecht na te leven.
 
-#### Artikel 13
+##### Artikel 13
 
 Het scheidsgerecht kan met goedvinden van de bemiddelaar zich tot partijen wenden alsmede getuigen en deskundigen voor zich doen verschijnen. De opgeroepene is verplicht te verschijnen en alle gewenschte inlichtingen te verschaffen.
 
 ### Hoofdstuk III. Van het voorkomen van geschillen
 
-#### Artikel 14
+##### Artikel 14
 
 De bemiddelaar kan op verzoek van werkgevers en werknemers dezen bijstaan bij het treffen van overeenkomsten, welke de arbeidsvrede kunnen bevorderen.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. De bemiddelaar kan op verzoek van de werkgever of van het bestuur van een vakvereniging van werknemers een referendum onder één of meerdere door hem te bepalen categorieën van werknemers in een bedrijf houden teneinde vast te stellen welke vakverenigingen door de meerderheid van die werknemers wordt aangewezen om hen bij de behartiging van hun arbeidsaangelegenheden te vertegenwoordigen. Aan het referendum kunnen slechts deelnemen rechtspersoonlijkheid bezittende verenigingen van werknemers, wier statuten de bevoegdheid tot het aangaan van collectieve arbeidsovereenkomsten met name noemen, en die ten genoege van de bemiddelaar stukken hebben overgelegd waaruit blijkt dat de meerderheid van de betreffende categorie of categorieën van werknemers lid van die vereniging is.
 
@@ -166,7 +191,7 @@ De bemiddelaar kan op verzoek van werkgevers en werknemers dezen bijstaan bij he
 
 4. De werkgever is verplicht, omtrent het aangaan van een collectieve arbeidsovereenkomst te onderhandelen met het bestuur van de vakvereniging van werknemers, die bij het referendum door de meerderheid van de werknemers werd aangewezen om hen bij de behartiging van hun arbeidsaangelegenheden te vertegenwoordigen.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. De bemiddelaar verleent op verzoek van een werkgever of het bestuur van een vakvereniging van werknemers bemiddeling bij de onderhandelingen omtrent het aangaan van een collectieve arbeidsovereenkomst.
 
@@ -176,13 +201,13 @@ De bemiddelaar kan op verzoek van werkgevers en werknemers dezen bijstaan bij he
 
 ### Hoofdstuk IV. Algemeene bepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Aan de bemiddelaars, de buitengewone bemiddelaars en het hun toegevoegde personeel kan Onze Minister een schadeloosstelling toekennen voor door hen verrichte werkzaamheden.
 
 2. Aan de bijzondere bemiddelaars, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=2&artikel=8&z=2012-01-01&g=2012-01-01), en de hun toegevoegde commissieleden kan Onze Minister een schadeloosstelling toekennen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Hij die niet voldoet aan een der verplichtingen omschreven in de tweede volzin van [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=3&z=2012-01-01&g=2012-01-01), [artikel 4 derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=1&artikel=4&z=2012-01-01&g=2012-01-01), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=2&artikel=9&z=2012-01-01&g=2012-01-01), [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=3&artikel=13&z=2012-01-01&g=2012-01-01), [artikel 14A, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=III&artikel=14a&z=2012-01-01&g=2012-01-01), en [artikel 14B, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=III&artikel=14b&z=2012-01-01&g=2012-01-01), wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de eerste categorie.
 
@@ -192,7 +217,7 @@ De bemiddelaar kan op verzoek van werkgevers en werknemers dezen bijstaan bij he
 
 4. De feiten bij het eerste en derde lid van dit artikel strafbaar gesteld, worden beschouwd als overtredingen. De overige bij deze wet strafbaar gestelde feiten worden beschouwd als misdrijven.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het is aan de bemiddelaar, de buitengewone bemiddelaars en het hun toegevoegde personeel, aan de bijzondere bemiddelaars, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=2&artikel=8&z=2012-01-01&g=2012-01-01) en de hun toegevoegde commissieleden en aan de in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028178&hoofdstuk=II&paragraaf=2&artikel=9&z=2012-01-01&g=2012-01-01) bedoelde deskundigen verboden om hetgeen hun in hunne hoedanigheid gebleken of medegedeeld is, verder bekend te maken dan voor de vervulling van de hun bij of krachtens deze wet opgedragen taak of ter voldoening aan eene bij de wet opgelegde verplichting gevorderd wordt.
 
@@ -200,30 +225,30 @@ De bemiddelaar kan op verzoek van werkgevers en werknemers dezen bijstaan bij he
 
 3. Geen vervolging heeft plaats dan op klachte van hem, ten aanzien van wie die geheimhouding is geschonden.
 
-#### Artikel 18
+##### Artikel 18
 
 [vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 Deze wet is niet van toepassing op geschillen tusschen personen, die anders dan krachtens arbeidsovereenkomst in dienst zijn van een publiekrechtelijk lichaam, en dat lichaam.
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de uitvoering van deze wet.
 
-#### Artikel 22
+##### Artikel 22
 
 Alle ingevolge van deze wet opgemaakte of overgelegde stukken, verzoekschriften en beschikkingen zijn vrij van het recht van zegel en registratie.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Arbeidsgeschillenwet 1946 BES.
 
-#### Artikel 24
+##### Artikel 24
 
 [Vervallen]

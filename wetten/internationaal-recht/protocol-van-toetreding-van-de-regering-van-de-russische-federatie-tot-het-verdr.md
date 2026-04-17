@@ -1,13 +1,35 @@
 ---
-title: "Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en de werking van een "European Synchrotron Radiation Facility" (Europese synchrotronstralingsfaciliteit)"
+title: "Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en de werking van een \"European Synchrotron Radiation Facility\" (Europese synchrotronstralingsfaciliteit)"
 identifier: "BWBV0006645"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-03-22
-laatste_update: 2014-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006645"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-03-22"
+last_updated: "2014-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006645"
+soort: "verdrag"
+stam_id: "10005384553"
+version_id: "10005816642"
+internal_id: "C10009406861"
+label_id: "10005367234"
+dtd_version: "2.0"
+original_entry_into_force: "2018-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006645/2018-03-22/0"
+intitule_bron: "Trb.2016-201"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-20"
+intitule_in_force: "2018-06-12"
+intitule_status: "goed"
+original_publication: "Trb.2016-201"
+original_published_date: "2016-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2016-201"
+entry_into_force_date: "2018-03-22"
+jci_1_3: "jci1.3:c:BWBV0006645&z=2018-03-22&g=2018-03-22"
+jci_1_0: "1.0:c:BWBV0006645&g=2018-03-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-03-22"
 ---
-
 # Protocol van toetreding van de Regering van de Russische Federatie tot het Verdrag van 16 december 1988 inzake de bouw en de werking van een "European Synchrotron Radiation Facility" (Europese synchrotronstralingsfaciliteit)
 
 De Regering van het Koninkrijk België,
@@ -52,23 +74,23 @@ Overwegende dat 6 procent van het eigendom van de Vennootschap overeenkomt met e
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 In overeenstemming met [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002889&artikel=12) treedt de regering van de Russische Federatie toe tot het [verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002889) als een Overeenkomstsluitende Partij door de overname van 6 procent van de aandelen van de Vennootschap, wat overeenkomt met 6 procent van het eigendom van de Vennootschap.
 
-#### Artikel 2
+##### Artikel 2
 
 De regering van de Russische Federatie geeft een eenmalige bijdrage van tien miljoen euro, zonder BTW (10.000.000 euro) als tegemoetkoming in de bouwkosten die is bedoeld voor het moderniseren en versterken van de wetenschappelijke capaciteiten van de Vennootschap. Deze bijdrage wordt gedaan binnen een jaar na de datum van ondertekening van dit Protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst betreffende de bouw en exploitatie van een Europese Synchrotronstralingsinstallatie; Parijs, 16 december 1988.
 
-#### Artikel 4
+##### Artikel 4
 
 De [statuten van de „European Synchrotron Radiation Facililty” Vennootschap](onbekend) (Bijlage 1 bij het Verdrag) zullen in overeenstemming met het onderhavige Protocol worden gewijzigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Het onderhavige Protocol zal in werking treden één maand nadat alle ondertekenende Overeenkomstsluitende Partijen en de Regering van de Russische Federatie de Regering van de Franse Republiek, als depositaris van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0002889), hebben geïnformeerd dat zij alle grondwettelijke procedures hebben uitgevoerd die vereist zijn voor de bekrachtiging van het onderhavige Protocol.
 

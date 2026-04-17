@@ -1,13 +1,37 @@
 ---
 title: "Regeling Regionaal Historisch Centrum 'Gelders Archief'"
 identifier: "BWBR0013884"
-categorie: "Overig"
-publicatiedatum: 2002-09-06
-laatste_update: 2002-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013884"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-09-06"
+last_updated: "2002-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013884"
+soort: "ministeriele-regeling"
+stam_id: "4081173"
+version_id: "5835482"
+internal_id: "C6038311"
+label_id: "4061594"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013884/2002-09-06/0"
+intitule_bron: "Stcrt.2002-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-12"
+intitule_published: "2002-09-04"
+intitule_in_force: "2002-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-169"
+original_signed_date: "2002-07-12"
+original_published_date: "2002-09-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-09-06"
+jci_1_3: "jci1.3:c:BWBR0013884&z=2002-09-06&g=2002-09-06"
+jci_1_0: "1.0:c:BWBR0013884&g=2002-09-06"
+citeertitel_status: "officieel"
+signed_date: "2002-07-12"
+entry_into_force: "2002-09-06"
 ---
-
 # Regeling Regionaal Historisch Centrum 'Gelders Archief'
 
 Gelet op de [artikelen 96](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=96) en [97 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=97);
@@ -20,13 +44,13 @@ tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling 
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Instelling, doel en beleid van het openbaar lichaam Gelders Archief
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een openbaar lichaam, Gelders Archief dat gevestigd is in Arnhem.
 
@@ -50,13 +74,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 7. De minister en de raden van de gemeenten dragen er zorg voor dat het openbaar lichaam te allen tijde beschikt over voldoende middelen om zijn verplichtingen te voldoen. Dit met inachtneming van [artikel 16, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=X&artikel=16&z=2002-09-06&g=2002-09-06).
 
-#### Artikel 3
+##### Artikel 3
 
 Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=14) en [18, zesde lid, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=18) in rekening volgens de regels die het algemeen bestuur ingevolge [artikel 19 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19) daaromtrent vaststelt.
 
 ### Hoofdstuk III. Het algemeen bestuur
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het algemeen bestuur bestaat uit 6 leden.
 
@@ -80,7 +104,7 @@ Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](https://wette
 
 11. Bij het bestaan van één of meer vacatures blijven de resterende bestuursleden bevoegd besluiten te nemen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het voorzitterschap van het algemeen bestuur wordt bij toerbeurt voor een periode van twee jaar vervuld door een door de gemeenten aangewezen lid, onderscheidenlijk door een daartoe door de minister aangewezen lid, volgens een door het algemeen bestuur vastgesteld rooster.
 
@@ -88,7 +112,7 @@ Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](https://wette
 
 ### Hoofdstuk IV. De taken en bevoegdheden van het algemeen bestuur
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Gelders Archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
@@ -104,23 +128,23 @@ Het Gelders Archief brengt de kosten, bedoeld in de [artikelen 14](https://wette
 
 4. Aan de bevoegdheden van het algemeen bestuur worden geen beperkingen opgelegd ingevolge [artikel 31 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=31), mits het totaal van de aangegane verplichtingen binnen de goedgekeurde begroting valt. Voor het aangaan van verplichtingen door het algemeen bestuur buiten de goedgekeurde begroting wordt vooraf toestemming gevraagd aan de raden van de gemeenten en aan de minister, ingevolge de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=X&artikel=18&z=2002-09-06&g=2002-09-06) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=X&artikel=19&z=2002-09-06&g=2002-09-06).
 
-#### Artikel 7
+##### Artikel 7
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de raden van de gemeenten, aan de colleges van B&W en aan de minister de door hen gevraagde inlichtingen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een lid van het algemeen bestuur verstrekt aan de raad van de gemeente, die hem heeft aangewezen zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door een of meer leden van die raad in een vergadering van de raad of schriftelijk aan dat lid gevraagde inlichtingen.
 
 2. Een lid van het algemeen bestuur verstrekt aan de minister die hem heeft aangewezen zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de minister gevraagde inlichtingen.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister en de raden van de gemeenten kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
 ### Hoofdstuk V. Het dagelijks bestuur
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het dagelijks bestuur bestaat uit de voorzitter van het algemeen bestuur en de leden van het algemeen bestuur.
 
@@ -130,17 +154,17 @@ De minister en de raden van de gemeenten kunnen een door hen aangewezen lid van 
 
 ### Hoofdstuk VI. De werkwijze van het dagelijks bestuur
 
-#### Artikel 11
+##### Artikel 11
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 ### Hoofdstuk VII. De taken en bevoegdheden van het dagelijks bestuur
 
-#### Artikel 13
+##### Artikel 13
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -158,7 +182,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk VIII. De voorzitter
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter is belast met de leiding van de vergaderingen van het algemeen bestuur en van het dagelijks bestuur.
 
@@ -170,7 +194,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk IX. Tegemoetkoming en vergoeding
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder van de gemeente, of als ambtenaar in rijks- of gemeentedienst werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Gelders Archief.
 
@@ -180,7 +204,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 ### Hoofdstuk X. Financiële bepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De minister en de raden van de deelnemende gemeenten verschaffen het Gelders Archief middelen voor de uitvoering van deze regeling door het verstrekken van incidentele bijdragen en jaarlijkse bijdragen op basis van een goedgekeurde begroting. Bij de aanvang van het Gelders Archief zijn de bedragen zoals in de bijlage gespecificeerd.
 
@@ -198,7 +222,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 8. Indien de minister of de gemeente een bijzondere taak opdragen als bedoeld in [artikel 2, derde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=II&artikel=2&z=2002-09-06&g=2002-09-06), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de opdrachtgever in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan en een meerjarenbegroting op.
 
@@ -208,7 +232,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 4. De minister en de gemeenten maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met het Gelders Archief over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het dagelijks bestuur stelt jaarlijks vóór 1 mei een ontwerpbegroting en een toelichting op voor het volgende kalenderjaar, een en ander met inachtneming van het archiefbeleid, bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=II&artikel=2&z=2002-09-06&g=2002-09-06), de algemene aanwijzingen, bedoeld in [artikel 2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=II&artikel=2&z=2002-09-06&g=2002-09-06) en met inachtneming van de afspraken, bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=X&artikel=17&z=2002-09-06&g=2002-09-06).
 
@@ -226,17 +250,17 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 8. Terstond na de vaststelling wordt aan de raden van de gemeenten en de minister de begroting ter goedkeuring toegezonden.
 
-#### Artikel 19
+##### Artikel 19
 
 Met betrekking tot wijzigingen van de begroting is [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=X&artikel=18&z=2002-09-06&g=2002-09-06) inhoudelijk en procedureel, met uitzondering van de daarin genoemde data, van overeenkomstige toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De gemeenten en de minister voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
 2. In afwijking van het eerste lid kunnen de gemeenten en de minister de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het algemeen bestuur brengt jaarlijks aan de minister en de raden van de gemeenten voor 1 april een financieel verslag uit, dat vergezeld gaat van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -246,17 +270,17 @@ Met betrekking tot wijzigingen van de begroting is [artikel 18](https://wetten.o
 
 4. Het algemeen bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de raden van de gemeenten en de minister. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de gemeenten en de minister.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de minister en de gemeenten van dat jaar tenzij de minister en de raden van de gemeenten gezamenlijk een ander percentage vaststellen.
 
-#### Artikel 23
+##### Artikel 23
 
 Na ontvangst van het financieel verslag en het jaarverslag stellen de minister en de raden van de gemeenten de (definitieve) bijdragen vast. Zij delen dit mede aan het Gelders Archief.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van het Gelders Archief. Deze regels behoeven de goedkeuring van de minister en de gemeenten.
 
@@ -264,13 +288,13 @@ Na ontvangst van het financieel verslag en het jaarverslag stellen de minister e
 
 3. Het algemeen bestuur stelt regels vast met betrekking tot de controle op de financiële administratie en het kasbeheer. Deze regels behoeven de goedkeuring van de minister en de gemeenten.
 
-#### Artikel 25
+##### Artikel 25
 
 De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling, gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
 ### Hoofdstuk XI. Het archief
 
-#### Artikel 26
+##### Artikel 26
 
 1. Overeenkomstig door het algemeen bestuur met inachtneming van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) vast te stellen regels, die aan gedeputeerde staten worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Gelders Archief.
 
@@ -278,13 +302,13 @@ De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling
 
 ### Hoofdstuk XII. Informatieplicht / Toezicht
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het Gelders Archief verstrekt desgevraagd aan de minister en de gemeenten de voor de uitoefening van hun taak benodigde inlichtingen. De minister en de gemeenten kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 2. Het Gelders Archief stelt de minister en de gemeenten te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie Gelderland en de gemeentelijke archiefbewaarplaatsen van de gemeenten.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De bestuursorganen van de gemeenten en de minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=II&artikel=2&z=2002-09-06&g=2002-09-06), voor het Gelders Archief van belang zijn.
 
@@ -292,13 +316,13 @@ De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling
 
 ### Hoofdstuk XIII. De directeur en het overige personeel
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het algemeen bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van het Gelders Archief.
 
 2. Het dagelijks bestuur maakt voor de benoeming van de directeur een voordracht op.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van het Gelders Archief die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=II&artikel=2&z=2002-09-06&g=2002-09-06), voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, dagelijks bestuur of de voorzitter.
 
@@ -306,23 +330,23 @@ De minister en de gemeenten kunnen, binnen het kader van de onderhavige regeling
 
 3. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013884&hoofdstuk=VIII&artikel=14&z=2002-09-06&g=2002-09-06), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 32
+##### Artikel 32
 
 Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het dagelijks bestuur. Het dagelijks bestuur is bevoegd deze bevoegdheden aan de directeur te mandateren.
 
-#### Artikel 33
+##### Artikel 33
 
 De rechtspositieregeling van de gemeente Arnhem, zoals deze thans luidt en in de toekomst na wijziging zal luiden, is op het personeel van overeenkomstige toepassing, tenzij het algemeen bestuur van het Gelders Archief een op onderdelen anders luidende regeling vaststelt. Een dergelijke afwijkende regeling behoeft de instemming van de centrales voor overheidspersoneel.
 
 ### Hoofdstuk XIV. De Provincie
 
-#### Artikel 34
+##### Artikel 34
 
 1. Gedeputeerde staten ontvangen tegelijk met de leden van het algemeen en dagelijks bestuur de agenda van de vergaderingen van het algemeen en dagelijks bestuur.
 
@@ -330,11 +354,11 @@ De rechtspositieregeling van de gemeente Arnhem, zoals deze thans luidt en in de
 
 ### Hoofdstuk XV. Toetreding, uittreding, wijziging en opheffing
 
-#### Artikel 35
+##### Artikel 35
 
 Toetreding tot de regeling kan geschieden bij een daartoe strekkend gezamenlijk besluit van de raden van de gemeenten, de minister en de toe te treden bestuursorganen of rechtspersonen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Uittreding uit de regeling kan geschieden door toezending van een daartoe strekkend besluit van de raad van één van de gemeenten of de minister.
 
@@ -342,21 +366,21 @@ Toetreding tot de regeling kan geschieden bij een daartoe strekkend gezamenlijk 
 
 3. De kosten van uittreding komen voor rekening van de uittredende partij.
 
-#### Artikel 37
+##### Artikel 37
 
 Deze regeling kan worden gewijzigd bij besluit van de raden van de gemeenten en de minister gezamenlijk.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze regeling kan worden opgeheven bij besluit van de raden van de gemeenten en de minister gezamenlijk. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de raden van de gemeenten en de minister om alle rechten en plichten van het openbaar lichaam over de deelnemers te verdelen op een in het plan te bepalen wijze.
 
 ### Hoofdstuk XVI. Slotbepalingen
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze regeling kan worden aangehaald als: Regeling Regionaal Historisch Centrum `Gelders Archief'.
 

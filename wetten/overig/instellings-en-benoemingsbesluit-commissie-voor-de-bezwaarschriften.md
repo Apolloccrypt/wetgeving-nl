@@ -1,20 +1,45 @@
 ---
 title: "Instellings- en benoemingsbesluit Commissie voor de bezwaarschriften"
 identifier: "BWBR0033992"
-categorie: "Overig"
-publicatiedatum: 2013-10-12
-laatste_update: 2013-10-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033992"
+country: "nl"
+rank: "pbo"
+publication_date: "2013-10-12"
+last_updated: "2013-10-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033992"
+soort: "pbo"
+stam_id: "12392453"
+version_id: "20799352"
+internal_id: "C29869821"
+label_id: "12363454"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033992/2013-10-12/0"
+intitule_bron: "Stcrt.2013-28086"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-09-10"
+intitule_published: "2013-10-10"
+intitule_in_force: "2013-10-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-28086"
+original_signed_date: "2013-09-10"
+original_published_date: "2013-10-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-28086"
+entry_into_force_date: "2013-10-12"
+jci_1_3: "jci1.3:c:BWBR0033992&z=2013-10-12&g=2013-10-12"
+jci_1_0: "1.0:c:BWBR0033992&g=2013-10-12"
+citeertitel_status: "officieel"
+signed_date: "2013-09-10"
+entry_into_force: "2013-10-12"
 ---
-
 # Instellings- en benoemingsbesluit Commissie voor de bezwaarschriften
 
 Gelet op [artikel 7:13 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:13);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -30,7 +55,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - f. **intern lid:** een medewerker van de NBA.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Commissie voor de bezwaarschriften.
 
@@ -38,7 +63,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 3. Het bestuur kan tijdens de behandeling van een bezwaarschrift alsnog beslissen deze door te sturen naar de commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie heeft een voorzitter, externe leden en interne leden.
 
@@ -56,7 +81,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 8. De secretarissen worden benoemd door het bestuur.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de behandeling van een bezwaarschrift nemen deel een voorzitter, een extern lid en een intern lid van de commissie.
 
@@ -66,11 +91,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 4. Het advies wordt ondertekend door de bij de behandeling van een bezwaarschrift betrokken voorzitter en secretaris van de commissie.
 
-#### Artikel 5
+##### Artikel 5
 
 In gevallen waarin dit reglement niet voorziet, beslist de bij de behandeling van een bezwaarschrift betrokken voorzitter van de commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de inwerkingtreding van dit besluit, wordt de commissie gevormd door de leden zoals die door het bestuur per 15 december 2011, dan wel nadien zijn benoemd tot lid van de Commissie voor de bezwaarschriften NIVRA-NOvAA, met inachtneming van het rooster van aftreden dat bij die benoemingen is vastgesteld.
 

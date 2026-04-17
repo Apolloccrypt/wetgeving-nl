@@ -1,13 +1,38 @@
 ---
 title: "Reglement voor de gebruikersraad Kadaster 2023"
 identifier: "BWBR0049105"
-categorie: "Overig"
-publicatiedatum: 2023-12-29
-laatste_update: 2023-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049105"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-12-29"
+last_updated: "2023-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049105"
+soort: "zbo"
+stam_id: "16972813"
+version_id: "29836842"
+internal_id: "C42766101"
+label_id: "16883394"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049105/2023-12-29/0"
+intitule_bron: "Stcrt.2023-35366"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-07"
+intitule_published: "2023-12-27"
+intitule_in_force: "2023-12-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35366"
+original_signed_date: "2023-09-07"
+original_published_date: "2023-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35366"
+entry_into_force_date: "2023-12-29"
+jci_1_3: "jci1.3:c:BWBR0049105&z=2023-12-29&g=2023-12-29"
+jci_1_0: "1.0:c:BWBR0049105&g=2023-12-29"
+citeertitel_status: "officieel"
+signed_date: "2023-09-07"
+entry_into_force: "2023-12-29"
 ---
-
 # Reglement voor de gebruikersraad Kadaster 2023
 
 Gelet op de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16) en [16a van de Organisatiewet Kadaster](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16a);
@@ -18,7 +43,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit reglement wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In dit reglement wordt verstaan onder:
 
 ### Hoofdstuk 2. Inrichting en samenstelling
 
-#### Artikel 2
+##### Artikel 2
 
 1. De gebruikersraad is gevestigd te Apeldoorn.
 
@@ -78,7 +103,7 @@ In dit reglement wordt verstaan onder:
 
 5. De in het tweede en derde lid genoemde respectievelijk bedoelde organisaties wijzen overeenkomstig het tweede lid voor het aangewezen lid één plaatsvervangend lid of zo nodig meer plaatsvervangende leden aan. Een plaatsvervangend lid vervangt het lid op diens verzoek. Het vierde lid is van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Uitsluitend natuurlijke personen kunnen als lid of plaatsvervangend lid van de gebruikersraad worden aangewezen. De betreffende organisatie of organisaties informeert respectievelijk informeren schriftelijk vooraf en tijdig het bestuur over de voorgestelde aanwijzing van een lid.
 
@@ -104,7 +129,7 @@ Zo spoedig mogelijk na de voorgestelde aanwijzing bij het bestuur, zal de voorzi
 
 8. Dit reglement wordt na toepassing van het zesde of zevende lid zo spoedig mogelijk aangepast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gebruikersraad heeft een voorzitter.
 
@@ -120,7 +145,7 @@ Zo spoedig mogelijk na de voorgestelde aanwijzing bij het bestuur, zal de voorzi
 
 7. Tenminste één keer per kalenderjaar voeren voorzitter en bestuur een open overleg.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gebruikersraad heeft een secretaris.
 
@@ -132,7 +157,7 @@ Zo spoedig mogelijk na de voorgestelde aanwijzing bij het bestuur, zal de voorzi
 
 gebruikersraad.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur draagt zorg voor de vergaderfaciliteiten van de gebruikersraad en voor de voor het goed functioneren van de raad benodigde ondersteuning in personele en materiele zin.
 
@@ -142,7 +167,7 @@ gebruikersraad.
 
 ### Hoofdstuk 3. Advisering
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gebruikersraad overlegt met het bestuur en adviseert deze strategisch over:
 
@@ -162,19 +187,19 @@ gebruikersraad.
 
 ### Hoofdstuk 4. Werkwijze
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gebruikersraad kan voor een of meer taken van de Dienst een commissie instellen als bedoeld in [artikel 16, zesde lid, sub c van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16) in de gevallen waarin specifieke aspecten verbonden aan een of meer taken van de Dienst dit wenselijk maken. Dit onder de voorwaarde dat vooraf met het bestuur over de instelling van een commissie en haar bevoegdheden overleg is gevoerd.
 
 2. De gebruikersraad bepaalt, met inachtneming van [artikel 16a, derde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=16a) de werkwijze van de commissie.
 
-#### Artikel 9
+##### Artikel 9
 
 De voorzitter en de secretaris wonen periodiek vergaderingen van de gebruikersoverleggen BRT
 
 (Basisregistratie Topografie) en BRK (Basisregistratie Kadaster) bij. Voor de gebruikersraad relevante aspecten brengt de voorzitter van de gebruikersraad in in de vergaderingen van de gebruikersraad. Een lid van een gebruikersoverleg BRT en BRK kan relevante aspecten inbrengen via zijn of haar vertegenwoordiger in de gebruikersraad.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De gebruikersraad vergadert zo dikwijls de voorzitter, de helft van de leden of het bestuur dit wenselijk acht, maar ten minste tweemaal per jaar.
 
@@ -194,7 +219,7 @@ Een aan de agenda toegevoegd punt wordt bij voorkeur voor de vergadering aan de 
 
 8. Jaarlijks heeft de gebruikersraad een onderhoud over ontwikkelingen en ambities van de Dienst met een afvaardiging van de raad van toezicht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De gebruikersraad beraadslaagt en besluit in vergadering over een uit te brengen strategisch advies, behoudens in die gevallen waarin de gebruikersraad toepassing geeft aan [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049105&hoofdstuk=3&artikel=7&z=2023-12-29&g=2023-12-29).
 
@@ -204,7 +229,7 @@ Een aan de agenda toegevoegd punt wordt bij voorkeur voor de vergadering aan de 
 
 4. Een lid dat ter vergadering ten aanzien van een uit te brengen advies een standpunt heeft ingebracht dat afwijkt van het standpunt van de meerderheid, kan over dat standpunt een afzonderlijke nota bij het advies voegen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De gebruikersraad brengt jaarlijks voor 1 april aan het bestuur een verslag uit van zijn werkzaamheden in het voorafgaande kalenderjaar. Dit verslag wordt opgenomen in het jaarverslag.
 
@@ -214,11 +239,11 @@ Een aan de agenda toegevoegd punt wordt bij voorkeur voor de vergadering aan de 
 
 ### Hoofdstuk 6. Overige bepalingen; overgangs- en slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigingen van dit reglement worden niet eerder vastgesteld dan nadat daaromtrent overleg is gevoerd met de gebruikersraad.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Eens in de vijf jaar zal de samenstelling, het functioneren en de werkwijze van de gebruikersraad worden geëvalueerd.
 
@@ -226,15 +251,15 @@ Wijzigingen van dit reglement worden niet eerder vastgesteld dan nadat daaromtre
 
 3. De evaluatie kan uitmonden in een advies van de gebruikersraad aan het bestuur om de samenstelling van de gebruikersraad te wijzen. Als het bestuur dit advies overneemt, zal dit reglement dienovereenkomstig worden gewijzigd.
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Reglement voor de gebruikersraad Kadaster 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0035374) wordt ingetrokken.
 
-#### Artikel 16. 1 Door de Raad van Toezicht is in zijn vergadering van 1 december 2023 instemming verleend met het besluit van de Raad van bestuur van 7 september 2023 houdende vaststelling van het Reglement voor de gebruikersraad Kadaster 2023
+##### Artikel 16. 1 Door de Raad van Toezicht is in zijn vergadering van 1 december 2023 instemming verleend met het besluit van de Raad van bestuur van 7 september 2023 houdende vaststelling van het Reglement voor de gebruikersraad Kadaster 2023
 
 Dit reglement treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit reglement wordt geplaatst.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit reglement wordt aangehaald als: Reglement voor de gebruikersraad Kadaster 2023.
 

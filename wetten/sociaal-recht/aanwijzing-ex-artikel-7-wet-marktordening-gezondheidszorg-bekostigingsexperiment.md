@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (bekostigingsexperiment tijdelijk verblijf en ambulante geriatrische revalidatiezorg)"
+title: "Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 maart 2025, kenmerk 4063416-1079243-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostigingsexperiment tijdelijk verblijf en ambulante geriatrische revalidatiezorg"
 identifier: "BWBR0050866"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-03-21
-laatste_update: 2025-03-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050866"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-21"
+last_updated: "2025-03-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050866"
+soort: "ministeriele-regeling"
+stam_id: "17386643"
+version_id: "30651142"
+internal_id: "C43942701"
+label_id: "17289784"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050866/2025-03-21/0"
+intitule_bron: "Stcrt.2025-9924"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-13"
+intitule_published: "2025-03-21"
+intitule_in_force: "2025-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-9924"
+original_signed_date: "2025-03-13"
+original_published_date: "2025-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-9924"
+entry_into_force_date: "2025-03-21"
+jci_1_3: "jci1.3:c:BWBR0050866&z=2025-03-21&g=2025-03-21"
+jci_1_0: "1.0:c:BWBR0050866&g=2025-03-21"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (bekostigingsexperiment tijdelijk verblijf en ambulante geriatrische revalidatiezorg)"
+signed_date: "2025-03-13"
+entry_into_force: "2025-03-21"
 ---
-
 # Aanwijzing van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 13 maart 2025, kenmerk 4063416-1079243-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake bekostigingsexperiment tijdelijk verblijf en ambulante geriatrische revalidatiezorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 6 november 2024 schriftelijk mededeling te hebben gedaan aan de Eerste en 
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -38,17 +64,17 @@ In deze aanwijzing wordt verstaan onder:
 
 - i). **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op geriatrische revalidatiezorg, verblijf met laagcomplexe medisch-specialistische zorg, eerstelijnsverblijf en psychologische zorg binnen het eerstelijnsverblijf, met uitzondering van het verblijf als bedoeld in [artikel 2.12 Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) in verband met palliatief terminale zorg.
 
-#### Artikel 3. Opdracht experiment
+##### Artikel 3. Opdracht experiment
 
 De zorgautoriteit voorziet met ingang van 1 januari 2026 in een experiment met modulaire bekostiging voor de bekostiging van de geriatrische revalidatiezorg, het verblijf met laagcomplexe medisch-specialistische zorg, het eerstelijnsverblijf en de psychologische zorg binnen het eerstelijnsverblijf. Het verblijf als bedoeld in [artikel 2.12 Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12) in verband met palliatief terminale zorg is hiervan uitgezonderd.
 
 De zorgautoriteit stelt met ingang van 1 januari 2026 prestatiebeschrijvingen met zorgmodules per tijdseenheid met een maximumtarief vast. Daarnaast stelt de zorgautoriteit met ingang van 1 januari 2026 een prestatiebeschrijving zorgvernieuwing en resultaatbeloning en een prestatiebeschrijving onderlinge dienstverlening met een vrij tarief vast.
 
-#### Artikel 4. Uitgangspunten experiment
+##### Artikel 4. Uitgangspunten experiment
 
 1. Doel van het experiment is om door middel van prestatiebeschrijvingen met eenduidige zorgmodules voor verschillende zorgvormen te onderzoeken of de bekostiging beter aansluit bij de praktijk en daarmee leidt tot meer passende zorginzet.
 
@@ -70,11 +96,11 @@ De zorgautoriteit stelt met ingang van 1 januari 2026 prestatiebeschrijvingen me
 
 7. De zorgautoriteit informeert de Staatssecretaris onmiddellijk indien zij het niet langer verantwoord vindt het experiment onveranderd voort te zetten.
 
-#### Artikel 5. Looptijd
+##### Artikel 5. Looptijd
 
 Het experiment heeft een looptijd van maximaal vijf jaar en loopt uiterlijk tot 1 januari 2031.
 
-#### Artikel 6. Evaluatie en rapportage
+##### Artikel 6. Evaluatie en rapportage
 
 De zorgautoriteit evalueert de effecten van het experiment overeenkomstig het bepaalde in [artikel 58, zesde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=58). De zorgautoriteit rapporteert over de uitslag van het experiment overeenkomstig het bepaalde in artikel 58, zevende lid van de wet. Daarnaast rapporteert zij over de jaarlijkse evaluatie van het experiment.
 

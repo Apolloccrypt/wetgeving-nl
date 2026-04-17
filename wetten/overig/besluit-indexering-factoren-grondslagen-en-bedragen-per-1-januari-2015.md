@@ -1,24 +1,47 @@
 ---
-title: "Besluit indexering factoren, grondslagen en bedragen per 1 januari 2015"
+title: "Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, Indexering factoren, grondslagen en bedragen per 1 januari 2015"
 identifier: "BWBR0035980"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035980"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035980"
+soort: "ministeriele-regeling"
+stam_id: "12897383"
+version_id: "21948582"
+internal_id: "C31487711"
+label_id: "12866804"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035980/2015-01-01/0"
+intitule_bron: "Stcrt.2014-36619"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-12-19"
+intitule_in_force: "2014-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-36619"
+original_published_date: "2014-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-36619"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035980&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035980&g=2015-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit indexering factoren, grondslagen en bedragen per 1 januari 2015"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 december 2014, Indexering factoren, grondslagen en bedragen per 1 januari 2015
 
 Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31a), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28a), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=35), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=18) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=25);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032&artikel=31b) en in [artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035&artikel=28b), zoals zij golden op 1 juli 2014, worden met ingang van 1 januari 2015 verhoogd met 0,44%.
 
-#### Artikel 2
+##### Artikel 2
 
 De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002032) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0002035) wordt aangepast, worden met ingang van 1 januari 2015 vastgesteld als volgt:
 
@@ -77,31 +100,31 @@ De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buite
 | 3.986,46 | 4.040,90 | 17,4053 | 196,00 |
 | 4.040,91 | 4.084,02 | 17,4070 | 196,00 |
 
-#### Artikel 3
+##### Artikel 3
 
 De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=10), zoals zij golden op 1 juli 2014, worden met ingang van 1 januari 2015 verhoogd met 0,44%.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Wet buitengewoon pensioen Indisch verzet.
 
-#### Artikel 5
+##### Artikel 5
 
 De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0002844&artikel=8), zoals zij golden op 1 juli 2014 worden met ingang van 1 januari 2015 verhoogd met 0,44%.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
-#### Artikel 7
+##### Artikel 7
 
 De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](https://wetten.overheid.nl/jci1.3:c:BWBR0003664&artikel=10), zoals zij golden op 1 juli 2014, worden met ingang van 1 januari 2015 verhoogd met 0,44%.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2015.
 

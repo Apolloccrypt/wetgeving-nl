@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling speerpunten voor 2022 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022, nr. IENW/BSK-2022/12407, houdende vaststelling van de speerpunten voor het jaar 2022 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
 identifier: "BWBR0046280"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-02-05
-laatste_update: 2022-02-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046280"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-02-05"
+last_updated: "2022-02-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046280"
+soort: "ministeriele-regeling"
+stam_id: "16258153"
+version_id: "28396792"
+internal_id: "C40048921"
+label_id: "16185194"
+dtd_version: "2.0"
+original_entry_into_force: "2022-02-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046280/2022-02-05/0"
+intitule_bron: "Stcrt.2022-3241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-01-31"
+intitule_published: "2022-02-04"
+intitule_in_force: "2022-02-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-3241"
+original_signed_date: "2022-01-31"
+original_published_date: "2022-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-3241"
+entry_into_force_date: "2022-02-05"
+jci_1_3: "jci1.3:c:BWBR0046280&z=2022-02-05&g=2022-02-05"
+jci_1_0: "1.0:c:BWBR0046280&g=2022-02-05"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling speerpunten voor 2022 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+signed_date: "2022-01-31"
+entry_into_force: "2022-02-05"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 31 januari 2022, nr. IENW/BSK-2022/12407, houdende vaststelling van de speerpunten voor het jaar 2022 op grond van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027
 
 Gelet op [artikel 3, tweede en derde lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3);
@@ -16,11 +42,11 @@ BESLUIT:
 
 Treedt in werking op het tijdstip waarop de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027 in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In de bijlage bij dit besluit worden voor 2022 drie speerpunten vastgesteld als bedoeld in [artikel 3, tweede en derde lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op het tijdstip waarop de [Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270) in werking treedt.
 

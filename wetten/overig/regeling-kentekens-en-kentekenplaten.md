@@ -1,20 +1,45 @@
 ---
 title: "Regeling kentekens en kentekenplaten"
 identifier: "BWBR0009071"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009071"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009071"
+soort: "ministeriele-regeling"
+stam_id: "5280533"
+version_id: "18854062"
+internal_id: "C26312641"
+label_id: "5256384"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009071/2026-01-01/0"
+intitule_bron: "Stcrt.1997-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-03"
+intitule_published: "1997-12-11"
+intitule_in_force: "1997-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-18992"
+original_signed_date: "2011-10-14"
+original_published_date: "2011-10-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-18992"
+entry_into_force_date: "2011-10-14"
+jci_1_3: "jci1.3:c:BWBR0009071&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0009071&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-10-14"
+entry_into_force: "2011-10-14"
 ---
-
 # Regeling kentekens en kentekenplaten
 
 Gelet op de [artikelen 36, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=36) en [40, derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=40), [artikel 2, tweede lid, van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=2) en de [artikelen 5.2.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.2.1), [5.3.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.3.1), [5.4.1, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.4.1), [5.5.1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.5.1), en [5.12.1, onderdeel e, van het Voertuigreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006746&artikel=5.12.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Kentekens bestaan uit een samenstel van:
 
@@ -52,7 +77,7 @@ Besluit:
 
 5. Indien door een wijziging van een bedrijfsauto of bus waarvoor een kenteken is opgegeven de toegestane maximum massa niet meer dan 3500 kg dan wel meer dan 3500 kg is komen te bedragen, wordt voor dat voertuig, met toepassing van het bepaalde in het derde en vierde lid, een nieuw kenteken opgegeven.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het type en de afmetingen van letters, cijfers en horizontale streep alsmede de onderlinge afstand daarvan, moeten overeenkomen met de modellen A.1, A.2, B.1, B.2, C.1, C.2 of C.3 van de bijlage. Het Europese embleem en de landenindicator moeten in geel respectievelijk in wit zijn aangebracht op een blauwe retroreflecterende achtergrond overeenkomstig de modellen D1 of D2 van de bijlage.
 
@@ -60,7 +85,7 @@ Besluit:
 
 3. Het type en de afmetingen van het hologram moeten overeenkomen met model F van de bijlage.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Kentekens moeten zijn aangebracht op kentekenplaten in zwarte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.26E, 30.1A tot en met 30.2D en 30.5 tot en met 30.16 van de bijlage. De kleur van de achtergrond is geel voor de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.10E en 30.1A tot en met 30.2D, lichtgroen voor de modellen 27.11 tot en met 27.14, 30.5 en 30.6 en wit voor de modellen 27.15A tot en met 27.26E en 30.7 tot en met 30.16. De kleur van de rand in de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.13, 27.15A tot en met 27.17E, 27.24A tot en met 27.26E, 30.1A tot en met 30.2D, 30.5 tot en met 30.8 en 30.13 tot en met 30.16 is zwart. De kentekenplaten volgens de modellen 27.18 tot en met 27.20 en 30.9 tot en met 30.12 mogen zijn voorzien van een zwarte rand. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
 
@@ -110,7 +135,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 7. In afwijking van de voorgaande leden moeten kentekens welke zijn opgegeven voor bromfietsen die geconstrueerd zijn voor een maximumsnelheid van ten hoogste 25 km/h niet zijnde speed-pedelecs, als bedoeld in [artikel 1, eerste lid, van het Reglement verkeersregels en verkeerstekens 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004825&artikel=1) zijn aangebracht op kentekenplaten in witte, onuitwisbare tekens op retroreflecterende achtergrond, volgens de modellen 30.3A tot en met 30.4D en 31.1 en 31.5 van de bijlage. De kleur van de achtergrond is lichtblauw. De kleur van de rand is wit. De in dit lid genoemde kleuren moeten voldoen aan de [Regeling eisen goedkeuring kentekenplaten 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012172).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien het kenteken bestaat uit twee groepen van twee cijfers voorafgegaan door één letter of één groep van twee letters, wordt de letter of lettergroep voor of in het midden boven de cijfergroepen geplaatst.
 
@@ -158,7 +183,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 - e. wordt voor een kenteken opgeven voor een bromfiets de groep van drie letters dan wel de groep van drie cijfers boven de groep van twee cijfers tezamen met de enkele letter dan wel boven de groep van twee letters tezamen met het enkele cijfer geplaatst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Kentekenplaten zijn voorzien van een merk volgens model M.3 van de bijlage.
 
@@ -172,7 +197,7 @@ Dit lid geldt niet voor motorrijtuigen die moeten zijn voorzien van kentekenplat
 
 4. Het door de lamineerder, bedoeld in [artikel 1 van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=1), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slecht vier cijfers in zijn opgenomen, beginnend met een 3. Het door de foliefabrikant, bedoeld in [artikel 1 van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=1), aan te brengen waarmerk is volgens model M3, met dien verstande, dat er slechts vier cijfers in zijn opgenomen, beginnend met een 2.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op de donkerblauwe of groene achtergrond van een kentekenplaat volgens de modellen 1.1 tot en met 10.1 van de bijlage mag niets anders voorkomen dan het kenteken, het Rijkskeurmerk, het keurmerk van de erkende of gemachtigde kentekenplaatfabrikant en de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder.
 
@@ -182,7 +207,7 @@ Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van
 
 3. Op de witte achtergrond van kentekenplaten volgens de modellen 11.1, 12.1, 18.1 en 19.1 tot en met 26.1 mag niets anders voorkomen dan het kenteken en het merk van de fabrikant. Op de achtergrond van een kentekenplaat volgens de modellen 27.1A tot en met 27.2H, 27.10A tot en met 27.26E, 27.30A tot en met 27.31E en 30.1 tot en met 30.16 van de bijlage mag niets anders voorkomen dan hetgeen is vermeld in die modellen, alsmede de waarmerken van de erkende of gemachtigde foliefabrikant en lamineerder. De kentekenplaten volgens de modellen 27.15A tot en met 27.17E, 30.7 en 30.8 moeten zijn voorzien van een maandaanduiding, die uitsluitend mag bestaan uit het nummer van de lopende of de volgende maand.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij motorrijtuigen op meer dan drie wielen, met uitzondering van bromfietsen, landbouw- en bosbouwtrekkers, motorrijtuigen met beperkte snelheid en mobiele machines, moeten de kentekenplaten zijn aangebracht aan de voor- en achterzijde van het motorrijtuig op de daartoe bestemde plaats.
 
@@ -218,19 +243,19 @@ Voor zover het betreft een kentekenplaat volgens de modellen 5.1, 6.1 en 7.1 van
 
 12. De Dienst Wegverkeer maakt aantekening in het kentekenregister van toepassing van het elfde lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 De regeling van de Minister van Verkeer en Waterstaat van 13 december 1994, nr. RV 188178, betreffende kentekens en kentekenplaten (Stcrt. 248), wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling kentekens en kentekenplaten.
 
@@ -240,11 +265,11 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat te Den Haag en bij 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij de bibliotheek van het Ministerie van Verkeer en Waterstaat, Plesmanweg 1, ’s-Gravenhage, de Dienst Wegverkeer, Europaweg 205, Zoetermeer en de Dienst Wegverkeer, Skager Rak 10 Veendam.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=3&z=2026-01-01&g=2026-01-01), mogen kentekens die zijn opgegeven voor het tijdstip van inwerkingtreding van de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](https://wetten.overheid.nl/jci1.3:c:BWBR0018326) (Stb. 281), zijn aangebracht op kentekenplaten volgens model 18.2 of model 27.10 van de bijlage zoals deze bijlage luidde voor die datum, voor zover blijkens het kentekenregister voor het voeren van deze kentekenplaten toestemming is verleend.
 
-#### Artikel 8a
+##### Artikel 8a
 
 In afwijking van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009071&artikel=2&z=2026-01-01&g=2026-01-01), mogen de kentekenplaten van de modellen 27.10, 27.17, 27.20 en 27.26 van de bijlage die zijn afgegeven voor 1 november 2011 zijn voorzien van de letter M van Model C.2 van de bijlage bij deze regeling zoals die luidde voor 1 november 2011.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten inzake regionale samenwerking bij natuurrampen"
 identifier: "BWBV0001898"
-categorie: "Milieu"
-publicatiedatum: 1999-04-17
-laatste_update: 1999-04-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001898"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-04-17"
+last_updated: "1999-04-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001898"
+soort: "verdrag"
+stam_id: "10002563923"
+version_id: "10002554602"
+internal_id: "C10006994141"
+label_id: "10002553454"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001898/1999-04-17/0"
+intitule_bron: "Trb.2005-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-21"
+intitule_published: "2005-01-13"
+intitule_status: "nogniet"
+original_publication: "Trb.2005-15"
+original_signed_date: "2006-04-21"
+original_published_date: "2005-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-15"
+jci_1_3: "jci1.3:c:BWBV0001898&z=1999-04-17&g=1999-04-17"
+jci_1_0: "1.0:c:BWBV0001898&g=1999-04-17"
+citeertitel_status: "redactioneel"
+signed_date: "2006-04-21"
+entry_into_force: "2005-01-13"
 ---
-
 # Verdrag tussen lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten inzake regionale samenwerking bij natuurrampen
 
 De Verdragsluitende Partijen,
@@ -30,7 +52,7 @@ Zich ervan bewust dat het voor de ontwikkeling van de regio noodzakelijk is een 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag zijn de begripsomschrijvingen van artikel I van het Verdrag (1994) van toepassing.
 
@@ -60,11 +82,11 @@ Daarnaast worden de volgende begrippen als volgt omschreven:
 
 - 12. Verdragsluitende Partijen: de lidstaten en geassocieerde leden voor welke deelname als lidstaat van de Associatie openstaat, in overeenstemming met hetgeen in artikel IV van het Verdrag (1994) is bepaald.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van dit Verdrag is een netwerk van juridisch bindenden mechanismen te ontwikkelen teneinde de samenwerking te bevorderen op het gebied van preventie, mitigatie en beheersing van natuurrampen, via de samenwerking tussen de Verdragsluitende Partijen onderling en met organisaties die in de regio werkzaam zijn op het gebied van natuurrampen.
 
-#### Artikel 3. Zeer kwetsbare gebieden
+##### Artikel 3. Zeer kwetsbare gebieden
 
 De Verdragsluitende Partijen kunnen, indien noodzakelijk, op hun grondgebied(en) of in specifieke zones, zeer kwetsbare gebieden aanwijzen, teneinde plannen te ontwikkelen voor samenwerking bij de preventie en beheersing van natuurrampen.
 
@@ -102,7 +124,7 @@ Teneinde een gebied als zeer kwetsbaar aan te merken, dienen de Verdragsluitende
 
 - vii. ontwikkeling van een adequate infrastructuur en training van interdisciplinair technisch personeel dat bekwaam is in het beheersen van rampen.
 
-#### Artikel 4. Wederzijdse samenwerking en bijstand
+##### Artikel 4. Wederzijdse samenwerking en bijstand
 
 De Verdragsluitende Partijen bevorderen:
 
@@ -118,7 +140,7 @@ De Verdragsluitende Partijen bevorderen:
 
 Het vrijmaken van de noodzakelijke middelen door de Verdragsluitende Partijen om natuurrampen het hoofd te bieden, geschiedt altijd op verzoek van de getroffen Partij en in overeenstemming met de beginselen en normen van het internationaal recht, en bestaande samenwerkingsovereenkomsten, met name met betrekking tot de soevereiniteit en zelfbeschikking van de getroffen Partij.
 
-#### Artikel 5. Wetenschappelijke en technische activiteiten
+##### Artikel 5. Wetenschappelijke en technische activiteiten
 
 De Verdragsluitende Partijen bevorderen wetenschappelijke en technische activiteiten gericht op:
 
@@ -134,11 +156,11 @@ De Verdragsluitende Partijen bevorderen wetenschappelijke en technische activite
 
 - 6. het brengen van eenheid in de methoden, het lexicon en andere aspecten van de terminologie inzake natuurrampen, ten behoeve van de Verdragsluitende Partijen.
 
-#### Artikel 6. Rapportage aan de Raad van ministers van de Associatie
+##### Artikel 6. Rapportage aan de Raad van ministers van de Associatie
 
 De Verdragsluitende Partijen doen de Raad van ministers van de Associatie bij elke gewone vergadering, middels de bijzondere commissie belast met natuurrampen, een rapport toekomen inzake alle ondernomen activiteiten op het gebied van rampenbeheersing in de regio, met inbegrip van basisstatistieken, de voorziene gevolgen voor de regionale en nationale ontwikkeling en de resultaten die na de implementatie van dit Verdrag zijn behaald.
 
-#### Artikel 7. Instelling van gemeenschappelijke richtlijnen en criteria
+##### Artikel 7. Instelling van gemeenschappelijke richtlijnen en criteria
 
 De Partijen evalueren de aanneming van gemeenschappelijke richtlijnen en criteria en doen de Raad van ministers voorstellen hiertoe, met name op de volgende gebieden:
 
@@ -174,7 +196,7 @@ De Partijen evalueren de aanneming van gemeenschappelijke richtlijnen en criteri
 
 - iv. ontwikkelen van regionale en subregionale projecten die zullen worden voorgelegd aan het speciale fonds van de Associatie en aan internationale financieringsinstellingen.
 
-#### Artikel 8. Preventie en mitigatie
+##### Artikel 8. Preventie en mitigatie
 
 1. De Verdragsluitende Partijen nemen afzonderlijk en tezamen alle maatregelen om intraregionale en interregionale samenwerking op het gebied van de beheersing van natuurrampen te ondersteunen.
 
@@ -182,7 +204,7 @@ De Partijen evalueren de aanneming van gemeenschappelijke richtlijnen en criteri
 
 3. Met betrekking tot het transport van materiaal en apparatuur voor de preventie en mitigatie van natuurrampen, nemen de Verdragsluitende Partijen de noodzakelijke maatregelen om zich wat betreft het vervoer door de lucht en over zee te verzekeren van de medewerking van de particuliere sector.
 
-#### Artikel 9. Verhouding tot andere regionale en internationale organisaties/verdragen
+##### Artikel 9. Verhouding tot andere regionale en internationale organisaties/verdragen
 
 De Verdragsluitende Partijen:
 
@@ -194,7 +216,7 @@ De Verdragsluitende Partijen:
 
 4. werken samen met bestaande subregionale coördinatiecentra, zoals CDERA en CEPREDENAC, bij hun activiteiten inzake rampenbeheersing.
 
-#### Artikel 10. Institutionele bepalingen
+##### Artikel 10. Institutionele bepalingen
 
 1. Elke Verdragsluitende Partij wijst een coördinatiecentrum aan dat de contacten met de Associatie zal onderhouden met betrekking tot de implementatie van dit Verdrag.
 
@@ -214,15 +236,15 @@ De Verdragsluitende Partijen:
 
 - g. instellen van mechanismen voor de verspreiding van rapporten van instanties en ervaringen van landen in de officiële talen van de Associatie.
 
-#### Artikel 11. Vergaderingen van de Verdragsluitende Partijen
+##### Artikel 11. Vergaderingen van de Verdragsluitende Partijen
 
 De gewone vergaderingen van de Verdragsluitende Partijen vinden zes (6) maanden voor elke gewone vergadering van de Raad van ministers plaats en vallen bij voorkeur samen met de vergaderingen van de bijzondere commissie belast met natuurrampen. De Partijen kunnen op verzoek van elk van de Partijen bijzondere vergaderingen houden. De vergaderingen worden gehouden conform het huishoudelijk reglement van de Raad van ministers zoals vastgelegd in artikel XI van het Verdrag (1994) en Overeenkomst nr. 9/95 en alle andere regels die door de Raad van ministers zijn goedgekeurd.
 
-#### Artikel 12. Deelnemers aan vergaderingen van de Verdragsluitende Partijen
+##### Artikel 12. Deelnemers aan vergaderingen van de Verdragsluitende Partijen
 
 Elke Verdragsluitende Partij benoemt een vertegenwoordiger die aan de vergaderingen deelneemt en bevoegd is beslissingen te nemen inzake de beheersing van natuurrampen, en zich mag laten vergezellen door andere deskundigen en aangewezen adviseurs. Hiertoe dient iedere Partij het secretariaat van de Associatie te informeren over de samenstelling van haar delegatie.
 
-#### Artikel 13. Verplichtingen
+##### Artikel 13. Verplichtingen
 
 De Verdragsluitende Partijen bij dit Verdrag verbinden zich ertoe:
 
@@ -240,41 +262,41 @@ De Verdragsluitende Partijen bij dit Verdrag verbinden zich ertoe:
 
 - g. iedere andere functie uit te oefenen die verband houdt met de uitvoering van dit Verdrag en de functies die worden vastgesteld door de Raad van ministers.
 
-#### Artikel 14. Doeltreffende uitvoering van het Verdrag
+##### Artikel 14. Doeltreffende uitvoering van het Verdrag
 
 De Verdragsluitende Partijen werken samen bij de ontwikkeling en aanneming van de maatregelen die nodig zijn om de doeltreffende uitvoering van dit Verdrag te vergemakkelijken, in overeenstemming met de regels van het internationaal recht.
 
-#### Artikel 15. Ondertekening
+##### Artikel 15. Ondertekening
 
 Dit Verdrag staat vanaf 17 april 1999 open voor ondertekening door elke staat, elk land of elk grondgebied bedoeld in artikel IV van het Verdrag (1994), die, respectievelijk dat, het Verdrag (1994) heeft bekrachtigd of ertoe is toegetreden.
 
-#### Artikel 16. Bekrachtiging en toetreding
+##### Artikel 16. Bekrachtiging en toetreding
 
 Bekrachtiging en toetreding vinden plaats conform de procedure die in respectievelijk artikel XXIII en artikel XXVII van het Verdrag (1994) is vastgelegd.
 
-#### Artikel 17. Depositaris
+##### Artikel 17. Depositaris
 
 De akten van bekrachtiging of toetreding dienen te worden nedergelegd bij de Regering die Depositaris van het Verdrag (1994) is, de Regering van de Republiek Colombia, en dienen te voldoen aan de procedure van kennisgeving die in artikel XXV van het Verdrag (1994) is vastgelegd.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Dit Verdrag treedt, zodra deze is aangenomen door de Verdragsluitende Partijen, in werking in overeenstemming met de procedure die is vastgelegd in artikel XXVI van het Verdrag (1994).
 
-#### Artikel 19. Wijzigingen
+##### Artikel 19. Wijzigingen
 
 Dit Verdrag kan bij consensus worden gewijzigd tijdens de Vergadering van Staatshoofden en/of Regeringsleiders of tijdens de vergadering van de Raad van ministers van de Associatie van Caraïbische Staten. De wijzigingen treden in werking dertig dagen na de bekrachtiging ervan door tweederde van de lidstaten.
 
-#### Artikel 20. Uitlegging en geschillenbeslechting
+##### Artikel 20. Uitlegging en geschillenbeslechting
 
 Twijfelpunten of geschillen die mochten rijzen tussen de Verdragsluitende Partijen met betrekking tot de toepassing of uitlegging van dit Verdrag, en die de betrokken Partijen niet zelf kunnen beslechten, worden beslecht door de Raad van ministers. Het Verdrag (1994) heeft in alle gevallen voorrang boven dit Verdrag.
 
-#### Artikel 21. Duur en opzegging
+##### Artikel 21. Duur en opzegging
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht, of zo lang als het Verdrag (1994) van kracht blijft.
 
 2. Elke Verdragsluitende Partij kan dit Verdrag opzeggen in overeenstemming met de in artikel XXX van het Verdrag (1994) vastgelegde procedure.
 
-#### Artikel 22. Voorbehouden
+##### Artikel 22. Voorbehouden
 
 Voorbehouden op dit Verdrag zijn niet toegestaan.
 

@@ -1,24 +1,50 @@
 ---
-title: "Besluit vaststelling speerpunten en subsidieplafond voor 2025 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+title: "Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 december 2024, nr. IENW/BSK-2024/330488, houdende vaststelling van de speerpunten en het subsidieplafond voor het kalenderjaar 2025 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
 identifier: "BWBR0050549"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050549"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050549"
+soort: "ministeriele-regeling"
+stam_id: "17305043"
+version_id: "30478292"
+internal_id: "C43700741"
+label_id: "17209054"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050549/2025-01-01/0"
+intitule_bron: "Stcrt.2024-39635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-05"
+intitule_published: "2024-12-09"
+intitule_in_force: "2024-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39635"
+original_signed_date: "2024-12-05"
+original_published_date: "2024-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39635"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050549&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050549&g=2025-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling speerpunten en subsidieplafond voor 2025 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027"
+signed_date: "2024-12-05"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Infrastructuur en Waterstaat, van 5 december 2024, nr. IENW/BSK-2024/330488, houdende vaststelling van de speerpunten en het subsidieplafond voor het kalenderjaar 2025 als bedoeld in de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027
 
 Gelet op de [artikelen 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3), en [4, derde lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=4);
 
 BESLUIT:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het kalenderjaar 2025 worden de in de bijlage bij dit besluit opgenomen drie speerpunten vastgesteld als bedoeld in [artikel 3, tweede lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het kalenderjaar 2025 wordt het subsidieplafond als bedoeld in [artikel 4, derde lid, van de Tijdelijke subsidieregeling versterking omgevingsveiligheid industriële activiteiten 2022–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0046270&artikel=4) als volgt vastgesteld:
 
@@ -26,7 +52,7 @@ Voor het kalenderjaar 2025 wordt het subsidieplafond als bedoeld in [artikel 4, 
 
 - 2. Het subsidieplafond voor projecten die kwalificeren als project d bedraagt € 20.000.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 januari 2025. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na de dag voor de beoogde datum van inwerkingtreding, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt zij terug tot en met 1 januari 2025.
 

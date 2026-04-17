@@ -1,13 +1,37 @@
 ---
 title: "Regeling aanwijzing opsporingsambtenaren Scheepvaartverkeerswet"
 identifier: "BWBR0004666"
-categorie: "Verkeer"
-publicatiedatum: 2004-11-26
-laatste_update: 2004-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004666"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-11-26"
+last_updated: "2004-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004666"
+soort: "ministeriele-regeling"
+stam_id: "4342543"
+version_id: "6106752"
+internal_id: "C6310261"
+label_id: "4321044"
+dtd_version: "2.0"
+original_entry_into_force: "1990-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004666/2004-11-26/0"
+intitule_bron: "Stcrt.1990-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-12-14"
+intitule_published: "1990-01-04"
+intitule_in_force: "1989-12-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-3"
+original_signed_date: "1989-12-14"
+original_published_date: "1990-01-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-01-01"
+jci_1_3: "jci1.3:c:BWBR0004666&z=2004-11-26&g=2004-11-26"
+jci_1_0: "1.0:c:BWBR0004666&g=2004-11-26"
+citeertitel_status: "officieel"
+signed_date: "1989-12-14"
+entry_into_force: "1990-01-01"
 ---
-
 # Regeling aanwijzing opsporingsambtenaren Scheepvaartverkeerswet
 
 Handelende in overeenstemming met de minister van Justitie;
@@ -16,7 +40,7 @@ Gelet op [artikel 32 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met de opsporing van strafbare feiten, bedoeld in [artikel 32 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=32), worden, voor zover het overtredingen betreft, belast:
 
@@ -48,10 +72,10 @@ Met de opsporing van strafbare feiten, bedoeld in [artikel 32 van de Scheepvaart
 
 - ambtenaren van de divisie Scheepvaart.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop [artikel 32 van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=32) in werking treedt.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling kan worden aangehaald als: Regeling aanwijzing opsporingsambtenaren Scheepvaartverkeerswet. Deze regeling en de bijbehorende toelichting worden bekendgemaakt in de Staatscourant.

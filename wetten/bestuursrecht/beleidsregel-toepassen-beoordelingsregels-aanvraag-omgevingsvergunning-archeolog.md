@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel toepassen beoordelingsregels aanvraag omgevingsvergunning archeologische rijksmonumentenactiviteit"
+title: "Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 september 2022, nr. RCE/33974968, tot vaststelling van beleidsregels inzake het toepassen van beoordelingsregels bij een aanvraag om een omgevingsvergunning voor een archeologische rijksmonumentenactiviteit (Beleidsregel toepassen beoordelingsregels aanvraag omgevingsvergunning archeologische rijksmonumentenactiviteit)"
 identifier: "BWBR0047270"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047270"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047270"
+soort: "beleidsregel"
+stam_id: "16512673"
+version_id: "28944082"
+internal_id: "C41739701"
+label_id: "16434704"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047270/2024-01-01/0"
+intitule_bron: "Stcrt.2022-26818"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-09-23"
+intitule_published: "2022-10-12"
+intitule_in_force: "2023-03-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-26818"
+original_signed_date: "2022-09-23"
+original_published_date: "2022-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-26818"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0047270&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0047270&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel toepassen beoordelingsregels aanvraag omgevingsvergunning archeologische rijksmonumentenactiviteit"
+signed_date: "2022-09-23"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 23 september 2022, nr. RCE/33974968, tot vaststelling van beleidsregels inzake het toepassen van beoordelingsregels bij een aanvraag om een omgevingsvergunning voor een archeologische rijksmonumentenactiviteit (Beleidsregel toepassen beoordelingsregels aanvraag omgevingsvergunning archeologische rijksmonumentenactiviteit)
 
 Treedt in werking op het tijdstip waarop de Omgevingswet (Stb.2016/156) in werking treedt.

@@ -1,24 +1,48 @@
 ---
 title: "Instellingsbesluit veiligheidsadviescommissie Schiphol"
 identifier: "BWBR0007251"
-categorie: "Overig"
-publicatiedatum: 1995-03-02
-laatste_update: 1995-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007251"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-03-02"
+last_updated: "1995-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007251"
+soort: "ministeriele-regeling"
+stam_id: "3542513"
+version_id: "5325642"
+internal_id: "C5518731"
+label_id: "3522514"
+dtd_version: "2.0"
+original_entry_into_force: "1995-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007251/1995-03-02/0"
+intitule_bron: "Stcrt.1995-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-21"
+intitule_published: "1995-02-28"
+intitule_in_force: "1995-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-42"
+original_signed_date: "1995-02-21"
+original_published_date: "1995-02-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-03-02"
+jci_1_3: "jci1.3:c:BWBR0007251&z=1995-03-02&g=1995-03-02"
+jci_1_0: "1.0:c:BWBR0007251&g=1995-03-02"
+citeertitel_status: "officieel"
+signed_date: "1995-02-21"
+entry_into_force: "1995-03-02"
 ---
-
 # Instellingsbesluit veiligheidsadviescommissie Schiphol
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een veiligheidsadviescommissie Schiphol, hierna te noemen de Commissie.
 
 2. De Commissie wordt ingesteld voor de duur van vier jaar, welke periode na afloop van deze termijn éénmaal kan worden verlengd voor ten hoogste vier jaar.
 
-#### Artikel 2
+##### Artikel 2
 
 De Commissie heeft tot taak
 
@@ -28,7 +52,7 @@ De Commissie heeft tot taak
 
 – de internationale ontwikkelingen op veiligheidsgebied te volgen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Commissie is als volgt samengesteld:
 
@@ -42,7 +66,7 @@ De Commissie heeft tot taak
 
 4. De secretaris is niet stemgerechtigd en is voor de uitoefening van zijn taak uitsluitend verantwoording schuldig aan de Commissie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie is bevoegd:
 
@@ -68,11 +92,11 @@ De Commissie heeft tot taak
 
 - de wijze van besluitvorming.
 
-#### Artikel 5
+##### Artikel 5
 
 De leden en de voorzitter ontvangen een vergoeding van reis- en verblijfkosten ingevolge het bepaalde in het [Reisbesluit binnenland](https://wetten.overheid.nl/jci1.3:c:BWBR0005889) (Stb. 1993, 144).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het beheer van de bescheiden betreffende de werkzaamheden van de Commissie geschiedt met inachtneming van de bepaling van het Besluit algemene secretarie-aangelegenheden rijksadministratie (Stb. 1980, 182) op overeenkomstige wijze als bij het Ministerie van Verkeer en Waterstaat.
 

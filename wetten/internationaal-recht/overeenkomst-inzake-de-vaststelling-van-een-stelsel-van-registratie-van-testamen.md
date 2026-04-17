@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten"
 identifier: "BWBV0003945"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-03-13
-laatste_update: 1978-03-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003945"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-03-13"
+last_updated: "1978-03-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003945"
+soort: "verdrag"
+stam_id: "10003782243"
+version_id: "10003847262"
+internal_id: "C10006983211"
+label_id: "10003767244"
+dtd_version: "2.0"
+original_entry_into_force: "1978-03-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003945/1978-03-13/0"
+intitule_bron: "Trb.1972-106"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-09-14"
+intitule_in_force: "1978-02-22"
+intitule_status: "goed"
+original_publication: "Trb.1972-106"
+original_published_date: "1972-09-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-106"
+entry_into_force_date: "1978-03-13"
+jci_1_3: "jci1.3:c:BWBV0003945&z=1978-03-13&g=1978-03-13"
+jci_1_0: "1.0:c:BWBV0003945&g=1978-03-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-03-13"
 ---
-
 # Overeenkomst inzake de vaststelling van een stelsel van registratie van testamenten
 
 De Lid-Staten van de Raad van Europa die deze Overeenkomst hebben ondertekend,
@@ -20,15 +42,15 @@ Overtuigd dat een zodanig stelsel met name de opsporing van in het buitenland ge
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Overeenkomstsluitende Staten verbinden zich tot het overeenkomstig de bepalingen van deze Overeenkomst vaststellen van een registratiestelsel voor testamenten, ten einde na het overlijden van de erflater de opsporing van diens testament te vergemakkelijken.
 
-#### Artikel 2
+##### Artikel 2
 
 Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende Staten een of meer organen in het leven geroepen of aangewezen, die belast worden met de bij deze Overeenkomst voorgeschreven registratie en met het beantwoorden van verzoeken om inlichtingen overeenkomstig het bepaalde in artikel 8, tweede lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ter vergemakkelijking van de internationale samenwerking wijst elk der Overeenkomstsluitende Staten een nationaal orgaan aan, dat rechtstreeks:
 
@@ -38,7 +60,7 @@ Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende S
 
 2. Elk der Overeenkomstsluitende Staten geeft aan de Secretaris-Generaal van de Raad van Europa kennis van de naam en het adres van het ingevolge het voorgaande lid aangewezen nationale orgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In een Overeenkomstsluitende Staat dienen te worden geregistreerd:
 
@@ -50,19 +72,19 @@ Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende S
 
 3. Elk der Overeenkomstsluitende Partijen heeft de bevoegdheid het bepaalde in dit artikel niet toe te passen op testamenten in bewaring gegeven bij militaire autoriteiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De registratie dient te geschieden op verzoek van de notaris, de met openbaar gezag beklede autoriteit of de persoon bedoeld in artikel 4, eerste lid.
 
 2. Elk der Overeenkomstsluitende Staten kan evenwel bepalen dat het verzoek tot registratie in bijzondere in zijn wetgeving omschreven gevallen en onder de daarin gestelde voorwaarden door de erflater kan worden gedaan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de registratie zijn geen voorwaarden verbonden met betrekking tot de nationaliteit of de woonplaats van de erflater.
 
 2. Op verzoek van de erflater kan de notaris, de met openbaar gezag beklede autoriteit of elke andere persoon bedoeld in artikel 4 niet alleen om registratie verzoeken in de Staat waar het testament is gemaakt of in bewaring gegeven, maar ook door tussenkomst van de nationale organen, in de andere Overeenkomstsluitende Staten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het verzoek tot registratie zal ten minste de volgende inlichtingen bevatten:
 
@@ -80,7 +102,7 @@ Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende S
 
 3. De duur van de registratie kan door elke Overeenkomstsluitende Staat bij de wet worden vastgesteld.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De registratie dient gedurende het leven van de erflater geheim te blijven.
 
@@ -88,19 +110,19 @@ Ter uitvoering van deze Overeenkomst worden door elk der Overeenkomstsluitende S
 
 3. Indien het testament door twee of meer personen is opgemaakt, is het bepaalde in het tweede lid van dit artikel van toepassing bij het overlijden van een der erflaters, niettegenstaande het bepaalde in het eerste lid.
 
-#### Artikel 9
+##### Artikel 9
 
 De door de Overeenkomstsluitende Staten onderling verleende diensten voor de toepassing van de bepalingen van deze Overeenkomst worden om niet geleverd.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze Overeenkomst laat onverlet de bepalingen die in elke Overeenkomstsluitende Staat betrekking hebben op de geldigheid van testamenten en andere in deze Overeenkomst bedoelde akten.
 
-#### Artikel 11
+##### Artikel 11
 
 Elke Overeenkomstsluitende Staat heeft de bevoegdheid op door die Staat te bepalen voorwaarden het in deze Overeenkomst bedoelde registratiestelsel uit te breiden tot testamenten niet bedoeld in artikel 4 of tot enige andere beschikking die van invloed kan zijn op de vererving van een nalatenschap. In dat geval is met name het bepaalde in artikel 6, tweede lid, van toepassing.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze Overeenkomst staat ter ondertekening open voor de Lid-Staten van de Raad van Europa. Zij dient te worden bekrachtigd of aanvaard. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -108,13 +130,13 @@ Elke Overeenkomstsluitende Staat heeft de bevoegdheid op door die Staat te bepal
 
 3. Zij treedt voor iedere ondertekenende Staat die haar daarna bekrachtigt of aanvaardt, in werking drie maanden na de datum van nederlegging van diens akte van bekrachtiging of aanvaarding.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen Lid is van de Raad uitnodigen tot deze Overeenkomst toe te treden.
 
 2. De toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, en wordt van kracht drie maanden na de datum van nederlegging daarvan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Iedere Overeenkomstsluitende Staat kan bij de ondertekening of op het ogenblik van de nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding, aangeven op welk gebied of op welke gebieden deze Overeenkomst van toepassing is.
 
@@ -122,11 +144,11 @@ Elke Overeenkomstsluitende Staat heeft de bevoegdheid op door die Staat te bepal
 
 3. Elke krachtens het bepaalde van het voorgaande lid afgelegde verklaring kan, ten aanzien van elk in deze verklaring genoemd gebied, worden ingetrokken overeenkomstig de procedure omschreven in artikel 16 van deze Overeenkomst.
 
-#### Artikel 15
+##### Artikel 15
 
 Het maken van voorbehouden ten aanzien van de bepalingen van deze Overeenkomst is niet toegestaan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Deze Overeenkomst is voor onbepaalde tijd van kracht
 
@@ -134,7 +156,7 @@ Het maken van voorbehouden ten aanzien van de bepalingen van deze Overeenkomst i
 
 3. Deze opzegging wordt van kracht zes maanden na het tijdstip van ontvangst van deze kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 17
+##### Artikel 17
 
 De Secretaris-Generaal van de Raad van Europa doet aan de Lid-Staten van de Raad en aan iedere Staat die tot deze Overeenkomst is toegetreden, mededeling van:
 

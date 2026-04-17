@@ -1,28 +1,53 @@
 ---
 title: "Wet minimumlonen BES"
 identifier: "BWBR0028170"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028170"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028170"
+soort: "wet-BES"
+stam_id: "10687293"
+version_id: "17648492"
+internal_id: "C24835631"
+label_id: "10662104"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028170/2026-01-01/0"
+intitule_bron: "Stb.2010-592"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-592"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-592"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028170&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028170&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet minimumlonen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt onder Onze Minister verstaan Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt ten aanzien van een dienstbetrekking onder normale arbeidsduur verstaan de arbeidsduur die in soortgelijke dienstbetrekkingen ingevolge de overeenkomsten waarop zij plegen te berusten, het arbeidsreglement, de collectieve arbeidsovereenkomst of de betrokken wettelijke regeling als volledige dienstbetrekking wordt beschouwd.
 
 2. Onze Minister kan ambtshalve dan wel op gezamenlijk verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers en een zodanige organisatie van werknemers ten aanzien van een door hem aangewezen categorie dienstbetrekkingen de arbeidsduur vaststellen die voor de toepassing van het bij of krachtens deze wet bepaalde als normale arbeidsduur wordt beschouwd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder dienstbetrekking verstaan de dienstbetrekking krachtens arbeidsovereenkomst naar burgerlijk recht.
 
@@ -30,23 +55,23 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde, wordt onder Onze 
 
 3. Onder dienstbetrekking wordt niet verstaan de arbeidsverhouding tussen de werkgever en zijn echtgenoot of tussen de werkgever en een bij hem inwonend pleegkind of een bij hem inwonende bloed- of aanverwant in de rechte lijn of in de zijlijn tot en met de derde graad.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werknemer verstaan de natuurlijke persoon, die in het kader van een dienstbetrekking werkzaamheden verricht.
 
 2. Ten opzichte van de betrokken werkgever en de bemanning worden voor de toepassing van het bij of krachtens deze wet bepaalde als deel van de openbare lichamen Bonaire, Sint Eustatius en Saba beschouwd Nederlandse luchtvaartuigen, waarvan de houder gevestigd is op Bonaire, Sint Eustatius of Saba en die hoofdzakelijk vluchten uitvoeren binnen, naar of uit de openbare lichamen Bonaire, Sint Eustatius of Saba en schepen in lokale vaart als bedoeld in de Wet veiligheidsvoorschriften voor kleine schepen BES.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkgever verstaan de natuurlijke of rechtspersoon of het lichaam, tot wie een werknemer in dienstbetrekking staat.
 
 2. In het geval, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=1&artikel=3&z=2026-01-01&g=2026-01-01), wordt onder werkgever verstaan de natuurlijke persoon of rechtpersoon of het lichaam, met wie de overeenkomst tot het verlenen van bemiddeling is gesloten.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkdag verstaan een dag, waarop de werknemer arbeid heeft verricht, of een dag, waarop hij weliswaar geen arbeid heeft verricht, doch waarover hij desalniettemin recht heeft op loon, ingevolge enige wettelijke bepaling, uit de overeenkomst waarop de dienstbetrekking berust.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Voor de toepassing van het bij of krachtens deze wet bepaalde worden onder loon verstaan de gelijke inkomsten die een vast bestanddeel van het inkomen uit hoofde van een dienstbetrekking van een werknemer vormen met uitzondering van:
 
@@ -74,7 +99,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder werkda
 
 ### Hoofdstuk II. Minimumloon
 
-#### Artikel 8
+##### Artikel 8
 
 1. Uit de overeenkomst, waarop een dienstbetrekking berust, heeft de werknemer, die de leeftijd van 21 jaar heeft bereikt, voor de arbeid door hem in dienstbetrekking verricht, jegens de werkgever tenminste aanspraak op een loon, dat gebaseerd is op het minimumuurloon, bedoeld in de volgende artikelen. Indien het loon naar tijdruimte wordt vastgesteld, geschiedt de vaststelling van het minimumloon voor die tijdruimte, tenzij anders overeengekomen, onder afronding op hele dollars naar boven, als volgt:
 
@@ -90,7 +115,7 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 5. [Vervallen]
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bruto minimumuurloon bedraagt voor werknemers van 21 jaar en ouder in het openbaar lichaam:
 
@@ -120,11 +145,11 @@ minimummaandloon: het aantal gewerkte uren per week te vermenigvuldigen met het 
 
 11. [vervallen]
 
-#### Artikel 10
+##### Artikel 10
 
 Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke meerdere uitbetalingstermijnen omvat, is vastgesteld, wordt zodanige periode van afrekening voor de toepassing van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01) als uitbetalingstermijn beschouwd. Een periode van afrekening kan ten hoogste drie maanden omvatten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister kan op verzoek van een werkgever of een rechtspersoonlijkheid bezittende organisatie van werkgevers of van werknemers het minimumloon van tot een door hem aangewezen categorie behorende werknemers in een onderneming dan wel in een tak van bedrijf of beroep voor telkenmale ten hoogste een jaar op lagere dan de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen vaststellen indien naar zijn oordeel het voortbestaan van of de omvang der bedrijvigheid in die onderneming dan wel die tak van bedrijf of beroep ernstig wordt bedreigd. Aan deze vaststelling kunnen voorwaarden worden verbonden. Op een verzoek wordt niet beslist, zo lang niet is gebleken dat de verzoeker met de naar het oordeel van Onze Minister representatieve organisaties van werknemers onderscheidenlijk van werkgevers terzake overleg heeft gepleegd.
 
@@ -134,15 +159,15 @@ Indien bij collectieve arbeidsovereenkomst een periode van afrekening, welke mee
 
 4. [Vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 12a
+##### Artikel 12a
 
 Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle geschikt is voor de door hem te verrichten arbeid dan wel op grond van een leer- of opleidingsovereenkomst werkzaam is, toekenning van het bedrag, dat krachtens de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=8&z=2026-01-01&g=2026-01-01) voor hem als minimumloon geldt, in verband met zijn arbeidsprestatie redelijkerwijs niet kan worden gevergd, stelt Onze Minister op verzoek van de betrokken werkgever of werknemer danwel ambtshalve voor een daarbij aan te geven periode een lager bedrag als minimumloon voor die werknemer vast.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat het prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers, zoals vastgesteld door het Centraal Bureau voor de Statistiek, voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
@@ -154,7 +179,7 @@ Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle
 
 ### Hoofdstuk IIa. Toezicht
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Met het toezicht op de naleving van deze wet en daarop berustende bepalingen zijn belast de daartoe door Onze Minister aangewezen ambtenaren. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.
 
@@ -176,29 +201,29 @@ Indien ten aanzien van een werknemer, die door ziekte of gebreken niet ten volle
 
 ### Hoofdstuk III. Straf- en Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Bedingen, die strijdig zijn met het bij of krachtens deze wet bepaalde, zijn nietig.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De werkgever, die opzettelijk de werknemer een loon toekent, dat minder bedraagt dan het voor deze geldende minimumloon, pleegt een misdrijf en wordt gestraft met hetzij gevangenisstraf van ten hoogste twee jaren en een geldboete van de vierde categorie, hetzij één van deze straffen.
 
 2. De werkgever aan wiens schuld het te wijten is, dat hij de werknemer een loon toekent, dat minder bedraagt dan het voor deze geldende minimumloon, pleegt een overtreding en wordt gestraft met hetzij hechtenis van ten hoogste een jaar en een geldboete van de derde categorie, hetzij één van deze straffen.
 
-#### Artikel 16
+##### Artikel 16
 
 [vervallen]
 
-#### Artikel 17
+##### Artikel 17
 
 [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 [vervallen]
 
-#### Artikel 19
+##### Artikel 19
 
 1. Allen, die uit hoofde van hun ambt of beroep betrokken zijn geweest bij de uitvoering van voorschriften, bij of krachtens deze wet gegeven, zijn verplicht tot geheimhouding van al hetgeen hun in hun hoedanigheid bekend is geworden, voor zover zij niet uit hoofde van dat ambt of beroep tot mededeling daarvan bevoegd of verplicht zijn.
 
@@ -210,18 +235,18 @@ Bedingen, die strijdig zijn met het bij of krachtens deze wet bepaalde, zijn nie
 
 5. Geen vervolging heeft plaats dan op klachte van degene, tegen wie het feit is gepleegd, of, indien het tegen een rechtspersoon, een vennootschap, een vereniging van personen of een doelvermogen is gepleegd, op klachte van de bestuurder, en indien er meer bestuurders zijn, van één dezer.
 
-#### Artikel 20
+##### Artikel 20
 
 De werknemer kan aan deze wet geen aanspraken ontlenen over een periode voor 1 oktober 1972.
 
-#### Artikel 21
+##### Artikel 21
 
 Voor wat betreft de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=9&z=2026-01-01&g=2026-01-01), genoemde bedragen kan een wijziging als bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028170&hoofdstuk=II&artikel=13&z=2026-01-01&g=2026-01-01), voor de eerste maal met ingang van 1 januari 2012 plaatsvinden.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet minimumlonen BES.
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]

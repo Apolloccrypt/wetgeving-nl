@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake de regels voor het vervoer van bevroren en diepgevroren producten met vervoermiddelen met dunne zijwanden naar Italië en afkomstig uit Italië"
 identifier: "BWBV0002459"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-11-18
-laatste_update: 1988-11-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002459"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-11-18"
+last_updated: "1988-11-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002459"
+soort: "verdrag"
+stam_id: "10002889583"
+version_id: "10002889882"
+internal_id: "C10006980741"
+label_id: "10002877124"
+dtd_version: "2.0"
+original_entry_into_force: "1988-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002459/1988-11-18/0"
+intitule_bron: "Trb.1987-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-04-18"
+intitule_published: "1987-08-17"
+intitule_in_force: "1988-06-03"
+intitule_status: "goed"
+original_publication: "Trb.1987-128"
+original_signed_date: "1988-04-18"
+original_published_date: "1987-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-128"
+entry_into_force_date: "1988-11-18"
+jci_1_3: "jci1.3:c:BWBV0002459&z=1988-11-18&g=1988-11-18"
+jci_1_0: "1.0:c:BWBV0002459&g=1988-11-18"
+citeertitel_status: "officieel"
+signed_date: "1988-04-18"
+entry_into_force: "1988-11-18"
 ---
-
 # Overeenkomst inzake de regels voor het vervoer van bevroren en diepgevroren producten met vervoermiddelen met dunne zijwanden naar Italië en afkomstig uit Italië
 
 De Overeenkomstsluitende Partijen, ter uitvoering van artikel 7 van de Overeenkomst inzake het internationale vervoer van aan bederf onderhevige levensmiddelen en het gebruik van speciale vervoermiddelen bij dit vervoer (A.T.P.) gesloten te Genève op 1 september 1970;
@@ -20,7 +45,7 @@ Zijn het volgende overeengekomen ten aanzien van het vervoer van bevroren en die
 
 ## TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 Het vervoermiddel wordt als dunwandig beschouwd indien de totale dikte van één van zijn zijwanden minder is dan 45 mm.
 
@@ -28,7 +53,7 @@ De volgende technische voorwaarden en voorwaarden voor het gebruik zijn van toep
 
 ## TECHNISCHE VOORWAARDEN
 
-#### Artikel 2
+##### Artikel 2
 
 Een dergelijk vervoermiddel dient te zijn uitgerust met: een scherm of een scheidingswand, welke gemonteerd dient te zijn vóór de laadruimte, of een gelijkwaardige oplossing, welke wordt toegepast om de meest bevredigende circulatie van lucht te verzekeren ter voorkoming van elke kortsluiting tussen de uitgeblazen en de ingenomen lucht;
 
@@ -42,7 +67,7 @@ voor vervoermiddelen waarvan de binnenmaatse lengte meer is dan 8 meter en waarv
 
 ## EXPLOITATIEVOORWAARDEN
 
-#### Artikel 3
+##### Artikel 3
 
 De thermostaat dient te zijn afgesteld op tenminste 5°C beneden de maximale transporttemperatuur van het meest veeleisende produkt van de lading;
 
@@ -54,7 +79,7 @@ het vervoermiddel dient op een zodanige wijze geladen te zijn, dat de lucht voor
 
 ## OVERGANGSBEPALINGEN
 
-#### Artikel 4
+##### Artikel 4
 
 Voor vervoermiddelen in bedrijf en voor die, welke hernieuwd worden uitgerust met materiaal, ontworpen vóór de datum van inwerkingtreding van de onderhavige Overeenkomst;
 
@@ -66,7 +91,7 @@ de vervoermiddelen van de klasse FRC of FRF in gebruik op het moment van de inwe
 
 ## IDENTIFICATIE VAN HET MATERIAAL
 
-#### Artikel 5
+##### Artikel 5
 
 Het voldoen aan de in de artikelen 2 en of 4 gedefinieerde constructie-eisen, dient te worden gewaarmerkt door de bevoegde autoriteit van het land van inschrijving of registratie.
 
@@ -74,7 +99,7 @@ Het merkteken (***) dient te worden aangebracht op het vervoermiddel onder merkt
 
 ## SLOTBEPALINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 De onderhavige Overeenkomst treedt in werking 7 maanden nadat vijf Lidstaten van het A.T.P. deze hebben ondertekend zonder voorbehoud van bekrachtiging of hun akte van bekrachtiging hebben nedergelegd bij de Italiaanse Regering.
 
@@ -82,7 +107,7 @@ Voor de Staten die de Overeenkomst zonder voorbehoud van bekrachtiging hebben on
 
 Deze Overeenkomst zal worden medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, welke haar zal mededelen aan de Overeenkomstsluitende Partijen van de A.T.P.-Overeenkomst die de onderhavige Overeenkomst niet hebben ondertekend.
 
-#### Artikel 7
+##### Artikel 7
 
 Iedere Overeenkomstsluitende partij kan de onderhavige Overeenkomst opzeggen middels een notificatie langs diplomatieke weg gericht aan de Italiaanse Regering.
 

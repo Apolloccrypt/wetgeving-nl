@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)"
+title: "Wet van 30 september 2020 tot wijziging van de Wet implementatie EU-richtlijnen energie-efficiëntie teneinde een grondslag op te nemen voor de energie-audit"
 identifier: "BWBR0044250"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044250"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044250"
+soort: "wet"
+stam_id: "15674733"
+version_id: "27100902"
+internal_id: "C39280241"
+label_id: "15614174"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044250/2021-07-01/0"
+intitule_bron: "Stb.2020-390"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-30"
+intitule_published: "2020-10-21"
+intitule_in_force: "2021-06-30"
+intitule_status: "goed"
+original_publication: "Stb.2020-390"
+original_signed_date: "2020-09-30"
+original_published_date: "2020-10-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "35435"
+original_url_id: "stb-2020-390"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0044250&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0044250&g=2021-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)"
+signed_date: "2020-09-30"
+entry_into_force: "2021-07-01"
 ---
-
-# Wijzigingswet Wet implementatie EU-richtlijnen energie-efficiëntie (opnemen grondslag voor de energie-audit)
+# Wet van 30 september 2020 tot wijziging van de Wet implementatie EU-richtlijnen energie-efficiëntie teneinde een grondslag op te nemen voor de energie-audit
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,23 +43,23 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Wet implement
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet implementatie EU-richtlijnen energie-efficiëntie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel III
+##### Artikel III
 
 Als voor de inwerkingtreding van deze wet door een grote onderneming een energie-audit is ondergaan en een verslag daarvan is toegestuurd aan Onze Minister, geldt het moment van insturen van het verslag, als het moment van aanvang van de termijn genoemd in [artikel 18, eerste lid, van de Wet implementatie EU-richtlijnen energie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=18).
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt deze wet.
 
-#### Artikel V
+##### Artikel V
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

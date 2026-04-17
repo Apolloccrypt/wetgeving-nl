@@ -1,13 +1,35 @@
 ---
-title: "Besluit regeling coördinatie civiele zeegaande vaartuigen"
+title: "Besluit van 11 oktober 1988, houdende een regeling betreffende coördinatie met betrekking tot civiele zeegaande vaartuigen van de rijksoverheid danwel door deze gesubsidieerde stichtingen"
 identifier: "BWBR0004413"
-categorie: "Overig"
-publicatiedatum: 1988-11-01
-laatste_update: 1988-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004413"
+country: "nl"
+rank: "kb"
+publication_date: "1988-11-01"
+last_updated: "1988-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004413"
+soort: "KB"
+stam_id: "916423"
+version_id: "1341932"
+internal_id: "C1341931"
+label_id: "888784"
+dtd_version: "2.0"
+original_entry_into_force: "1988-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004413/1988-11-01/0"
+intitule_bron: "Stb.1988-476"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-11"
+intitule_status: "goed"
+original_publication: "Stb.1988-476"
+original_signed_date: "1988-10-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1988-11-01"
+jci_1_3: "jci1.3:c:BWBR0004413&z=1988-11-01&g=1988-11-01"
+jci_1_0: "1.0:c:BWBR0004413&g=1988-11-01"
+citeertitel_status: "officieel"
+short_title: "Besluit regeling coördinatie civiele zeegaande vaartuigen"
+signed_date: "1988-10-11"
+entry_into_force: "1988-11-01"
 ---
-
 # Besluit van 11 oktober 1988, houdende een regeling betreffende coördinatie met betrekking tot civiele zeegaande vaartuigen van de rijksoverheid danwel door deze gesubsidieerde stichtingen
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, coördinerend minister voor Noordzee-aangelegenheden van 5 oktober 1988, nr. S/J 31.715/88, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -18,7 +40,7 @@ Gezien het bij brief van 6 maart 1986, no. 7058 aan de Minister van Verkeer en W
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -28,27 +50,27 @@ beheerder: degene die met de verwerving van en het beheer over één of meer vaa
 
 Onze Minister: Onze Minister van Verkeer en Waterstaat.
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Minister is belast met de zorg voor de coördinatie bij het bevorderen van een doelmatige opbouw en een efficiënt gebruik van de vloot vaartuigen.
 
-#### Artikel 3
+##### Artikel 3
 
 Ter uitvoering van het bepaalde in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004413&artikel=2&z=1988-11-01&g=1988-11-01) stelt Onze Minister regels inzake de verwerving en het beheer van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004413&artikel=1&z=1988-11-01&g=1988-11-01) bedoelde vaartuigen.
 
-#### Artikel 4
+##### Artikel 4
 
 De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0004413&artikel=3&z=1988-11-01&g=1988-11-01) bedoelde regels worden vastgesteld in overeenstemming met de Ministers wie het mede aangaat.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Besluit toezicht rijksvaartuigen (**Stb.** 1971, 672) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 De ministeriële regeling van 23 januari 1987, nr. N-01686 (**Stcrt.** 39) houdende de instelling van het Interdepartementaal Overleg inzake Zeegaande Vaartuigen (IOZV), wordt geacht te zijn vastgesteld krachtens dit besluit. Daarbij dient voor "het Hoofd van de Dienst Vaartuigen" te worden gelezen: het hoofd van de Afdeling Rijksvaartuigen.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 november 1988.
 

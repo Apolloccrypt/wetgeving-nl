@@ -1,13 +1,35 @@
 ---
 title: "Bijzondere Overeenkomst inzake het voorleggen aan het Internationale Gerechtshof van een geschil tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de afbakening tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van het continentaal plat in de Noordzee"
 identifier: "BWBV0004425"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-02-02
-laatste_update: 1967-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004425"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-02-02"
+last_updated: "1967-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004425"
+soort: "verdrag"
+stam_id: "10004120713"
+version_id: "10004289332"
+internal_id: "C10006985811"
+label_id: "10004105584"
+dtd_version: "2.0"
+original_entry_into_force: "1967-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004425/1967-02-02/0"
+intitule_bron: "Trb.1967-42"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-04-11"
+intitule_in_force: "1967-04-11"
+intitule_status: "goed"
+original_publication: "Trb.1967-42"
+original_published_date: "1967-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-42"
+entry_into_force_date: "1967-02-02"
+jci_1_3: "jci1.3:c:BWBV0004425&z=1967-02-02&g=1967-02-02"
+jci_1_0: "1.0:c:BWBV0004425&g=1967-02-02"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-02-02"
 ---
-
 # Bijzondere Overeenkomst inzake het voorleggen aan het Internationale Gerechtshof van een geschil tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland betreffende de afbakening tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van het continentaal plat in de Noordzee
 
 The Government of the Kingdom of the Netherlands and the Government of the Federal Republic of Germany,
@@ -26,7 +48,7 @@ By virtue of the fact that the Kingdom of the Netherlands is a party to the Stat
 
 Have agreed as follows:
 
-#### Article 1
+##### Article 1
 
 (1). The International Court of Justice is requested to decide the following question:
 
@@ -34,7 +56,7 @@ What principles and rules of international law are applicable to the delimitatio
 
 (2). The Governments of the Kingdom of the Netherlands and of the Federal Republic of Germany shall delimit the continental shelf in the North Sea as between their countries by agreement in pursuance of the decision requested from the International Court of Justice.
 
-#### Article 2
+##### Article 2
 
 (1). The Parties shall present their written pleadings to the Court in the order stated below:
 
@@ -48,7 +70,7 @@ What principles and rules of international law are applicable to the delimitatio
 
 (3). The foregoing order of presentation is without prejudice to any question of burden of proof which might arise.
 
-#### Article 3
+##### Article 3
 
 The present Agreement shall enter into force on the day of signature thereof.
 

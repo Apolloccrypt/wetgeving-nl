@@ -1,28 +1,51 @@
 ---
-title: "Beleidsregel bestuurlijke boetes Spoorwegwet 2016"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu over de toepassing van artikel 80 Spoorwegwet (Beleidsregel bestuurlijke boetes Spoorwegwet 2016)"
 identifier: "BWBR0038548"
-categorie: "Strafrecht"
-publicatiedatum: 2021-12-17
-laatste_update: 2021-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038548"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-12-17"
+last_updated: "2021-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038548"
+soort: "beleidsregel"
+stam_id: "13755633"
+version_id: "23580362"
+internal_id: "C33943661"
+label_id: "13721964"
+dtd_version: "2.0"
+original_entry_into_force: "2016-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038548/2021-12-17/0"
+intitule_bron: "Stcrt.2016-51137"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-09-26"
+intitule_in_force: "2016-09-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-51137"
+original_published_date: "2016-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-51137"
+entry_into_force_date: "2016-09-27"
+jci_1_3: "jci1.3:c:BWBR0038548&z=2021-12-17&g=2021-12-17"
+jci_1_0: "1.0:c:BWBR0038548&g=2021-12-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel bestuurlijke boetes Spoorwegwet 2016"
+entry_into_force: "2016-09-27"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu over de toepassing van artikel 80 Spoorwegwet (Beleidsregel bestuurlijke boetes Spoorwegwet 2016)
 
 Gelet op [artikel 80, zesde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze beleidsregel is van toepassing op alle overtredingen die als beboetbaar feit zijn aangemerkt bij of krachtens [artikel 77, eerste lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=77).
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de vaststelling van de hoogte van de bestuurlijke boete ter zake van overtreding van een norm die zich richt tot een natuurlijke persoon, niet zijnde een onderneming, worden de boetebedragen gehanteerd zoals opgenomen in de tweede kolom van de tabellen 1 tot en met 3 in de bijlage bij deze beleidsregel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de vaststelling van de hoogte van een bestuurlijke boete ter zake van een overtreding van een norm die zich richt tot een onderneming, worden de normbedragen gehanteerd zoals opgenomen in de derde kolom van de tabellen 1 tot en met 3 in de bijlage bij deze beleidsregel.
 
@@ -39,19 +62,19 @@ Bij de vaststelling van de hoogte van de bestuurlijke boete ter zake van overtre
 
 4. De omzet in de zin van dit artikel is de omzet in het kalenderjaar voorafgaand aan de datum van overtreding.
 
-#### Artikel 4
+##### Artikel 4
 
 Het op grond van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=2&z=2021-12-17&g=2021-12-17) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0038548&artikel=3&z=2021-12-17&g=2021-12-17) vastgestelde boetebedrag wordt verhoogd met 50% als bedoeld in [artikel 80, derde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=80), indien de omstandigheden van het geval of de ernst van de overtreding daartoe aanleiding geven in het licht van de spoorwegveiligheid.
 
-#### Artikel 5
+##### Artikel 5
 
 De [Beleidsregel Bestuurlijke boetes Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0032677) en de[Beleidsregel bestuurlijke boetes Spoorwegwet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035629) worden ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel bestuurlijke boetes Spoorwegwet 2016.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin deze wordt geplaatst.
 

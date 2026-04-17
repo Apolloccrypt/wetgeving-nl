@@ -1,13 +1,38 @@
 ---
-title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m."
+title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m"
 identifier: "BWBR0007921"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-03-01
-laatste_update: 1996-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007921"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-03-01"
+last_updated: "1996-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007921"
+soort: "circulaire"
+stam_id: "6408543"
+version_id: "11074982"
+internal_id: "C14985101"
+label_id: "6397394"
+original_entry_into_force: "1996-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007921/1996-03-01/0"
+intitule_bron: "Stcrt.1996-44"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-29"
+intitule_published: "1996-03-01"
+intitule_in_force: "1996-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-44"
+original_signed_date: "1996-02-29"
+original_published_date: "1996-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-44-p10-SC5356"
+entry_into_force_date: "1996-03-01"
+jci_1_3: "jci1.3:c:BWBR0007921&z=1996-03-01&g=1996-03-01"
+jci_1_0: "1.0:c:BWBR0007921&g=1996-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m."
+signed_date: "1996-02-29"
+entry_into_force: "1996-03-01"
 ---
-
 # Beoordeling geluidhinder wegverkeer in verband met vergunningverlening w.m
 
 Circulaire aan de besturen van provincies en gemeenten

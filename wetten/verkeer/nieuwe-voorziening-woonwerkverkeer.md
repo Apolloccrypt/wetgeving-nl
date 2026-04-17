@@ -1,13 +1,38 @@
 ---
 title: "Nieuwe voorziening woon–werkverkeer"
 identifier: "BWBR0023827"
-categorie: "Verkeer"
-publicatiedatum: 2008-07-01
-laatste_update: 2008-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023827"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-07-01"
+last_updated: "2008-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023827"
+soort: "circulaire"
+stam_id: "9495203"
+version_id: "15311362"
+internal_id: "C20858781"
+label_id: "9473104"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023827/2008-07-01/0"
+intitule_bron: "Stcrt.2008-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-21"
+intitule_published: "2008-05-06"
+intitule_in_force: "2008-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-85"
+original_signed_date: "2008-04-21"
+original_published_date: "2008-05-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-85-p7-SC85523"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBR0023827&z=2008-07-01&g=2008-07-01"
+jci_1_0: "1.0:c:BWBR0023827&g=2008-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-04-21"
+entry_into_force: "2008-07-01"
 ---
-
 # Nieuwe voorziening woon–werkverkeer
 
 ### 1. **Inleiding**

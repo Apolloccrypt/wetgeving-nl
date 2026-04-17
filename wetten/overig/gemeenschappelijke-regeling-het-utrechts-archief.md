@@ -1,13 +1,39 @@
 ---
-title: "Gemeenschappelijke regeling Het Utrechts Archief"
+title: "Gemeenschappelijke regeling tot instelling van een openbaar lichaam beheer archiefbescheiden en collecties gemeente Utrecht d.d. 10 februari 2017, kenmerk 1149544"
 identifier: "BWBR0039480"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039480"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039480"
+soort: "ministeriele-regeling"
+stam_id: "13984073"
+version_id: "25584992"
+internal_id: "C36512871"
+label_id: "13946894"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039480/2019-01-01/0"
+intitule_bron: "Stcrt.2017-21123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-02-10"
+intitule_published: "2017-04-18"
+intitule_in_force: "2017-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-69001"
+original_signed_date: "2018-10-27"
+original_published_date: "2018-12-27"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2018-69001"
+entry_into_force_date: "2018-10-27"
+jci_1_3: "jci1.3:c:BWBR0039480&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0039480&g=2019-01-01"
+citeertitel_status: "officieel"
+short_title: "Gemeenschappelijke regeling Het Utrechts Archief"
+signed_date: "2018-10-27"
+entry_into_force: "2018-10-27"
 ---
-
 # Gemeenschappelijke regeling tot instelling van een openbaar lichaam beheer archiefbescheiden en collecties gemeente Utrecht d.d. 10 februari 2017, kenmerk 1149544
 
 Gelet op [hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I) en [IX van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=IX);
@@ -16,7 +42,7 @@ Besluiten:
 
 tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling van een openbaar lichaam dat de archiefbescheiden en collecties beheert die berusten in de rijksarchiefbewaarplaats in de provincie Utrecht en de archiefbewaarplaats van de gemeente Utrecht.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 - g. **gedeputeerde staten:** gedeputeerde staten van de provincie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De regeling wordt getroffen met het doel de belangen van de Minister, gedeputeerde staten en het college bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente, in gezamenlijkheid te behartigen.
 
@@ -44,13 +70,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 4. Gedeputeerde staten en het college kunnen hun niet-overgebrachte digitale archiefbescheiden in beheer van Het Utrechts Archief geven.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Er is een openbaar lichaam genaamd Het Utrechts Archief.
 
 2. Het Utrechts Archief is gevestigd te Utrecht.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Aan het bestuur van Het Utrechts Archief zijn de navolgende werkzaamheden, taken en bevoegdheden van het college, gedeputeerde staten en de Minister overgedragen:
 
@@ -68,17 +94,17 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 3. Het Utrechts Archief verricht namens en onder verantwoordelijkheid van gedeputeerde staten en het college taken omtrent het beheer van niet-overgebrachte archiefbescheiden als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bestuur van Het Utrechts Archief bestaat uit een algemeen bestuur, een dagelijks bestuur en een voorzitter.
 
 2. Het algemeen bestuur staat aan het hoofd van het openbaar lichaam.
 
-#### Artikel 4
+##### Artikel 4
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), vast bij unanimiteit en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 Archiefwet 1995 heeft vastgesteld voor de archiefbescheiden van het Rijk.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het algemeen bestuur bestaat uit zes leden.
 
@@ -96,7 +122,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 8. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leden van het algemeen bestuur, aangewezen door de Minister of het college hebben elk twee stemmen. De leden van het algemeen bestuur, aangewezen door gedeputeerde staten hebben elk één stem.
 
@@ -116,7 +142,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 7. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan Het Utrechts Archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
@@ -126,11 +152,11 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 4. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan nadat provinciale staten van de provincie, de raad van de gemeente en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
-#### Artikel 8
+##### Artikel 8
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, provinciale staten en gedeputeerde staten van de provincie, de raad van de gemeente en het college de door hen gevraagde inlichtingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een lid van het algemeen bestuur dat is aangewezen door de Minister verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
@@ -138,11 +164,11 @@ Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister,
 
 3. De Minister, gedeputeerde staten of het college kunnen een lid van het algemeen bestuur dat zij hebben aangewezen, nadat de inlichtingen in een vergadering of schriftelijk zijn verstrekt of dienden te zijn verstrekt, ter verantwoording roepen voor het door hem in het algemeen bestuur gevoerde beleid.
 
-#### Artikel 10
+##### Artikel 10
 
 De Minister, gedeputeerde staten en het college kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en twee andere door het algemeen bestuur aan te wijzen leden.
 
@@ -158,15 +184,15 @@ De Minister, gedeputeerde staten en het college kunnen een door hen aangewezen l
 
 7. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 12
+##### Artikel 12
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 13
+##### Artikel 13
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
-#### Artikel 14
+##### Artikel 14
 
 Het dagelijks bestuur is in ieder geval belast met:
 
@@ -188,7 +214,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 - i. de zorg, voor zover deze van het dagelijks bestuur afhangt, voor de controle op het geldelijk beheer en de boekhouding van Het Utrechts Archief.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De voorzitter wordt door en uit het algemeen bestuur aangewezen.
 
@@ -202,7 +228,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. De voorzitter vertegenwoordigt Het Utrechts Archief in en buiten rechte. De vertegenwoordiging kan hij opdragen aan een door hem aan te wijzen gevolmachtigde.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen of dagelijks bestuur, voor zover zij niet de functie vervullen van commissaris van de Koning, gedeputeerde van de provincie, burgemeester of wethouder van de gemeente, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van Het Utrechts Archief.
 
@@ -210,7 +236,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld en als afzonderlijke post opgenomen in de jaarlijkse begroting.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister, de provincie en de gemeente, door het verstrekken van jaarlijkse bijdragen, op basis van de begroting.
 
@@ -226,7 +252,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 7. Indien de Minister, gedeputeerde staten of het college een bijzondere taak opdraagt als bedoeld in [artikel 2b, eerste lid, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2b&z=2019-01-01&g=2019-01-01), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de Minister, gedeputeerde staten of het college in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan en een meerjarenbegroting op.
 
@@ -236,7 +262,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 4. De Minister, gedeputeerde staten en het college maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met Het Utrechts Archief over te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Het dagelijks bestuur zendt uiterlijk 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders aan provinciale staten van de provincie, de raad van de gemeente en de Minister.
 
@@ -250,7 +276,7 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 6. Provinciale staten van de provincie, de raad van de gemeente en de Minister kunnen bij het dagelijks bestuur hun zienswijze over de ontwerpbegroting naar voren brengen. Het dagelijks bestuur voegt de commentaren waarin deze zienswijze is vervat bij de ontwerpbegroting, zoals deze aan het algemeen bestuur wordt aangeboden.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Het algemeen bestuur stelt de begroting vast in het jaar voorafgaande aan dat waarvoor zij dient. De begroting wordt vastgesteld bij unanimiteit.
 
@@ -258,19 +284,19 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 3. Het dagelijks bestuur zendt de begroting binnen twee weken na de vaststelling, doch in ieder geval vóór 1 augustus van het jaar voorafgaande aan dat waarvoor de begroting dient, aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
 2. De [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19&z=2019-01-01&g=2019-01-01) en [19a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=19a&z=2019-01-01&g=2019-01-01), zijn van overeenkomstige toepassing, met uitzondering van die wijzigingen waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=17&z=2019-01-01&g=2019-01-01). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De Minister, de provincie en de gemeente voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
 2. In afwijking van het eerste lid kunnen de Minister, de provincie en de gemeente de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het dagelijks bestuur zendt voor 15 april van het jaar na het jaar waarvoor de jaarrekening dient, een voorlopige jaarrekening aan de Minister, provinciale staten van de provincie en de raad van de gemeente. De voorlopige jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en de rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393).
 
@@ -282,27 +308,27 @@ Het dagelijks bestuur is in ieder geval belast met:
 
 5. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve, of kan worden uitbetaald. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister provinciale staten van de provincie en de raad van de gemeente. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister, de provincie en de gemeente.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister, de provincie en de gemeente van dat jaar.
 
-#### Artikel 24
+##### Artikel 24
 
 Bij het jaarverslag stelt het algemeen bestuur de definitieve bijdragen van de Minister, de provincie en de gemeente vast.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van Het Utrechts Archief. Bij deze regels wordt bepaald welke ambtenaren van Het Utrechts Archief met het doen van ontvangsten en betalingen worden belast.
 
 2. Het algemeen bestuur stelt regels vast met betrekking tot de controle op de financiële administratie en het kasbeheer. Bij deze regels wordt de deskundige aangewezen die met de controle is belast.
 
-#### Artikel 26
+##### Artikel 26
 
 De Minister, gedeputeerde staten en het college kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, jaarverslag en aandachtspunten voor de accountantscontrole.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Overeenkomstig door het algemeen bestuur vast te stellen regels, die aan gedeputeerde staten van de provincie worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van Het Utrechts Archief.
 
@@ -310,7 +336,7 @@ De Minister, gedeputeerde staten en het college kunnen gezamenlijk nadere regels
 
 3. De directeur is belast met het beheer van de archiefbescheiden, bedoeld in het eerste lid.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De Minister, gedeputeerde staten, het college en Het Utrechts Archief verstrekken elkaar desgevraagd inlichtingen en gegevens welke zij nodig achten voor de uitoefening van hun taak.
 
@@ -318,33 +344,33 @@ De Minister, gedeputeerde staten en het college kunnen gezamenlijk nadere regels
 
 3. Het Utrechts Archief stelt de Minister, gedeputeerde staten en het college te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie, de archiefbewaarplaats van de provincie en de archiefbewaarplaats van de gemeente.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Het college, gedeputeerde staten en de Minister doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=2&z=2019-01-01&g=2019-01-01), voor Het Utrechts Archief van belang zijn.
 
 2. Het college, gedeputeerde staten en de Minister kunnen, bij de in het eerste lid bedoelde mededeling, het gevoelen vragen van het dagelijks bestuur. Ook ongevraagd kan het dagelijks bestuur zijn zienswijze daaromtrent aan de gemeente, de provincie of de Minister kenbaar maken.
 
-#### Artikel 30
+##### Artikel 30
 
 Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van Het Utrechts Archief.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Het dagelijks bestuur stelt voor de directeur een instructie vast.
 
 2. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 15, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039480&artikel=15&z=2019-01-01&g=2019-01-01), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 33
+##### Artikel 33
 
 Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het dagelijks bestuur.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het dagelijks bestuur stelt de rechtspositie- en arbeidsvoorwaardenregeling vast.
 
@@ -352,11 +378,11 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 3. Een regeling die afwijkt van de in het tweede lid bedoelde regelingen, behoeft de instemming van de regionale vakbondsbestuurders.
 
-#### Artikel 35
+##### Artikel 35
 
 Toetreding tot de regeling geschiedt bij een daartoe strekkende besluiten van de Minister, gedeputeerde staten en het college, na verkregen toestemming van provinciale staten van de provincie, de raad van de gemeente, alsmede de toe te treden bestuursorganen of rechtspersonen.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Uittreding uit de regeling geschiedt door toezending van het daartoe strekkende besluit van de Minister, gedeputeerde staten of het college. Gedeputeerde staten en het college overleggen daarbij ook het besluit tot toestemming van provinciale staten van de provincie, respectievelijk van de raad van de gemeente.
 
@@ -364,27 +390,27 @@ Toetreding tot de regeling geschiedt bij een daartoe strekkende besluiten van de
 
 3. De kosten van uittreding komen bij uittreding van het college, gedeputeerde staten of de Minister voor rekening van de gemeente, de provincie respectievelijk de Staat.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Deze regeling kan worden gewijzigd bij besluit van de Minister, gedeputeerde staten en het college.
 
 2. Gedeputeerde staten en het college hebben voor het besluit tot wijziging van de regeling de toestemming nodig van provinciale staten van de provincie, respectievelijk de raad van de gemeente.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze regeling kan worden opgeheven bij besluit van de Minister, gedeputeerde staten en het college. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Staat, de provincie en van de gemeente om alle rechten en plichten van het openbaar lichaam over de Staat, de provincie en de gemeente te verdelen op een in het plan te bepalen wijze.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand, volgend op de bekendmaking in de Staatscourant door de Minister.
 
 2. Het college zendt de regeling in aan de Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze regeling wordt aangehaald als: Gemeenschappelijke regeling Het Utrechts Archief.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De Regeling Het Utrechts Archief, aangegaan op grond van het [Besluit Utrechts Archief](https://wetten.overheid.nl/jci1.3:c:BWBR0009331) van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 15 januari 1998, nr. DCE/97/36110 gepubliceerd in de Staatscourant van 20 februari 1998, wordt ingetrokken.
 

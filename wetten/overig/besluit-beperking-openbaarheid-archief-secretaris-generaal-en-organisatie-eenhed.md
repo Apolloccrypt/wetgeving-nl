@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperking openbaarheid archief Secretaris-Generaal en organisatie-eenheden (1955) 1976–1991 bij overbrenging naar archiefbewaarplaats"
+title: "Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991 bij overbrenging naar een archiefbewaarplaats"
 identifier: "BWBR0040410"
-categorie: "Overig"
-publicatiedatum: 2017-12-21
-laatste_update: 2017-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040410"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-12-21"
+last_updated: "2017-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040410"
+soort: "ministeriele-regeling"
+stam_id: "14457833"
+version_id: "24729042"
+internal_id: "C35378121"
+label_id: "14418294"
+dtd_version: "2.0"
+original_entry_into_force: "2017-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040410/2017-12-21/0"
+intitule_bron: "Stcrt.2017-72867"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-10"
+intitule_published: "2017-12-20"
+intitule_in_force: "2017-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-72867"
+original_signed_date: "2017-11-10"
+original_published_date: "2017-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-72867"
+entry_into_force_date: "2017-12-21"
+jci_1_3: "jci1.3:c:BWBR0040410&z=2017-12-21&g=2017-12-21"
+jci_1_0: "1.0:c:BWBR0040410&g=2017-12-21"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperking openbaarheid archief Secretaris-Generaal en organisatie-eenheden (1955) 1976–1991 bij overbrenging naar archiefbewaarplaats"
+signed_date: "2017-11-10"
+entry_into_force: "2017-12-21"
 ---
-
 # Besluit van het Ministerie van Defensie houdende de beperking aan de openbaarheid van het archief van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991 bij overbrenging naar een archiefbewaarplaats
 
 Overwegende dat een aantal dossiers in de archieven van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991 beperkingen aan de openbaarheid behoeft:
@@ -18,11 +44,11 @@ Gehoord het advies van de algemene rijksarchivaris d.d. 21-07-2016, met kenmerk 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het [besluit beperking openbaarheid van archieven van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991](https://wetten.overheid.nl/jci1.3:c:BWBR0040123) van 18 oktober 2017, zoals gepubliceerd op 31 oktober 2017 in nr. 61652 van de Staatscourant wordt ingetrokken vanwege een onjuiste termijn bij twee inventarisnummers.
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -202,7 +228,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 322 | 2039 |
 | 324 | 2067 |
 
-#### Artikel 3
+##### Artikel 3
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -225,16 +251,16 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 130 | 2041 |
 | 131 | 2042 |
 
-#### Artikel 4
+##### Artikel 4
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040410&artikel=2&z=2017-12-21&g=2017-12-21), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040410&artikel=3&z=2017-12-21&g=2017-12-21), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040410&artikel=2&z=2017-12-21&g=2017-12-21), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemeen rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de archieven van de Secretaris-Generaal en zijn organisatie-eenheden (1955) 1976–1991’.

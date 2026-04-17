@@ -1,14 +1,42 @@
 ---
-title: "Uitvoeringswet Speciaal Tribunaal voor Libanon"
+title: "Wet van 29 december 2008, houdende bepalingen verband houdende met de instelling van het Speciaal Tribunaal voor Libanon, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007 (Uitvoeringswet Speciaal Tribunaal voor Libanon)"
 identifier: "BWBR0025263"
-categorie: "Overig"
-publicatiedatum: 2018-07-01
-laatste_update: 2018-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0025263"
+country: "nl"
+rank: "wet"
+publication_date: "2018-07-01"
+last_updated: "2018-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0025263"
+soort: "wet"
+stam_id: "9895623"
+version_id: "16124762"
+internal_id: "C22123561"
+label_id: "9872124"
+dtd_version: "2.0"
+original_entry_into_force: "2009-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0025263/2018-07-01/0"
+intitule_bron: "Stb.2009-40"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-29"
+intitule_published: "2009-02-05"
+intitule_in_force: "2009-02-05"
+intitule_status: "goed"
+original_publication: "Stb.2009-40"
+original_signed_date: "2008-12-29"
+original_published_date: "2009-02-05"
+original_effect: "nieuwe-regeling"
+original_dossier: "31365"
+original_url_id: "stb-2009-40"
+entry_into_force_date: "2009-02-06"
+entry_into_force_dossier: "31365"
+jci_1_3: "jci1.3:c:BWBR0025263&z=2018-07-01&g=2018-07-01"
+jci_1_0: "1.0:c:BWBR0025263&g=2018-07-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet Speciaal Tribunaal voor Libanon"
+signed_date: "2008-12-29"
+entry_into_force: "2009-02-06"
 ---
-
-# Uitvoeringswet Speciaal Tribunaal voor Libanon
+# Wet van 29 december 2008, houdende bepalingen verband houdende met de instelling van het Speciaal Tribunaal voor Libanon, mede ter uitvoering van Resolutie 1757 van de Veiligheidsraad van de Verenigde Naties van 30 mei 2007 (Uitvoeringswet Speciaal Tribunaal voor Libanon)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is enige wettelijke 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze wet wordt verstaan onder:
 
@@ -38,11 +66,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - **in Nederland:** in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 2
+##### Artikel 2
 
 Op verzoek van het Speciaal Tribunaal kunnen personen aan het Speciaal Tribunaal worden overgeleverd ter vervolging en berechting van strafbare feiten waarvan het Speciaal Tribunaal ingevolge zijn Statuut bevoegd is kennis te nemen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op verzoek van het Speciaal Tribunaal kunnen personen wier aanhouding als verdachte door het Speciaal Tribunaal is gelast en die in Nederland worden aangetroffen, voorlopig worden aangehouden.
 
@@ -50,7 +78,7 @@ Op verzoek van het Speciaal Tribunaal kunnen personen aan het Speciaal Tribunaal
 
 3. Het bepaalde in de [artikelen 14, tweede tot en met het vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=15), [16, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=16), [16a](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=16a) en [17 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=17) is van overeenkomstige toepassing, met dien verstande dat de aangehouden persoon zo spoedig mogelijk wordt voorgeleid aan de officier van justitie bij het arrondissementsparket te ’s-Gravenhage. Voor de toepassing van artikel 16a wordt in plaats van officier van justitie bij het arrondissementsparket te Amsterdam gelezen de officier van justitie bij het arrondissementsparket te ’s-Gravenhage.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot het in behandeling nemen van verzoeken van het Speciaal Tribunaal tot overlevering is de rechtbank Den Haag bij uitsluiting bevoegd.
 
@@ -66,15 +94,15 @@ Op verzoek van het Speciaal Tribunaal kunnen personen aan het Speciaal Tribunaal
 
 5. De [artikelen 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=29), [30, eerste volzin, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=30), [32](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=32), [33, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=33), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=36), [41 tot en met 47](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) – met uitzondering van de verwijzing in [artikel 47, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=47), naar [artikel 552d, tweede lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=552d) – en [52 tot en met 60 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=52) zijn van overeenkomstige toepassing. Voor de toepassing van [artikel 41, vijfde lid, tweede volzin, van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=41) wordt in plaats van officier van justitie bij het arrondissementsparket Amsterdam gelezen de officier van justitie bij het arrondissementsparket Den Haag.
 
-#### Artikel 5
+##### Artikel 5
 
 Na inwilliging van het verzoek om overlevering wordt de over te leveren persoon terstond ter beschikking van het Speciaal Tribunaal gesteld. Een overeenkomstig [artikel 27 van de Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559&artikel=27) bevolen vrijheidsbeneming kan tot dan toe worden voortgezet.
 
-#### Artikel 6
+##### Artikel 6
 
 Personen die zich in Nederland bevinden en wier medebrenging als getuige of deskundige door het Speciaal Tribunaal is gelast, kunnen op last van de officier van justitie te ’s-Gravenhage worden aangehouden en ter beschikking worden gesteld van het Speciaal Tribunaal.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Doorvoer van verdachten en van andere personen die door de autoriteiten van een vreemde staat aan het Speciaal Tribunaal worden overgedragen of op verzoek van het Speciaal Tribunaal naar Nederland zijn overgedragen of gekomen, geschiedt in opdracht van het Speciaal Tribunaal door en onder de bewaking van door Onze Minister aangewezen Nederlandse ambtenaren.
 
@@ -84,11 +112,11 @@ Personen die zich in Nederland bevinden en wier medebrenging als getuige of desk
 
 4. De in dit artikel bedoelde ambtenaren zijn bevoegd alle dienstige maatregelen te nemen ter beveiliging van de betrokken personen en ter voorkoming van hun ontvluchting.
 
-#### Artikel 8
+##### Artikel 8
 
 Politiegegevens kunnen, ook zonder een daartoe strekkend verzoek, worden verstrekt aan het Speciaal Tribunaal indien dit voor de goede uitvoering van diens taak noodzakelijk is. De verstrekking vindt plaats door tussenkomst van een of meerdere landelijke eenheden van de politie.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan verzoeken van het Speciaal Tribunaal om enigerlei vorm van rechtshulp, gericht tot een al dan niet met name aangeduid orgaan van justitie of de politie in Nederland, wordt zoveel mogelijk gevolg gegeven.
 
@@ -98,25 +126,25 @@ Politiegegevens kunnen, ook zonder een daartoe strekkend verzoek, worden verstre
 
 4. De met de uitvoering van verzoeken om rechtshulp belaste Nederlandse autoriteiten zijn verantwoordelijk voor de veiligheid van daarbij betrokken personen en zijn te dien einde bevoegd voorwaarden te stellen aan de wijze waarop aan verzoeken om rechtshulp uitvoering wordt gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Getuigen of deskundigen, van welke nationaliteit ook, die, gehoor gevende aan een dagvaarding of oproeping van het Speciaal Tribunaal of als gevolg van een bevel tot medebrenging van het Speciaal Tribunaal, naar Nederland komen, kunnen in Nederland niet worden vervolgd, aangehouden of aan enige andere vrijheidsbeperkende maatregelen worden onderworpen voor feiten of veroordelingen die voorafgingen aan hun aankomst in Nederland.
 
 2. De in het eerste lid bedoelde immuniteit vervalt indien de getuige of deskundige, hoewel hij gedurende vijftien achtereenvolgende dagen na het tijdstip waarop zijn aanwezigheid niet meer door het Speciaal Tribunaal werd vereist, de mogelijkheid had Nederland te verlaten maar hier te lande is gebleven of in Nederland is teruggekeerd na het te hebben verlaten.
 
-#### Artikel 11
+##### Artikel 11
 
 Personen die ingevolge het Statuut van het Speciaal Tribunaal geen aanspraak kunnen maken op immuniteit ten aanzien van de rechtsmacht van het Speciaal Tribunaal, kunnen voor de toepassing van deze wet een dergelijke aanspraak evenmin maken ten aanzien van de rechtsmacht van de Nederlandse rechter en de uitvoerbaarheid van zijn beslissingen.
 
-#### Artikel 12
+##### Artikel 12
 
 De Nederlandse wet is niet van toepassing op vrijheidsontneming, ondergaan op last van het Speciaal Tribunaal binnen aan het Speciaal Tribunaal in Nederland ter beschikking gestelde ruimten.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet wordt aangehaald als: Uitvoeringswet Speciaal Tribunaal voor Libanon.
 

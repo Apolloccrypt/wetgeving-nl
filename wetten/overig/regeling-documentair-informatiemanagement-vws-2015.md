@@ -1,13 +1,39 @@
 ---
-title: "Regeling documentair informatiemanagement VWS 2015"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2015 tot vaststelling van regels voor het documentair informatiemanagement van het Ministerie van Volksgezondheid, Welzijn en Sport (Regeling documentair informatiemanagement VWS 2015)"
 identifier: "BWBR0036912"
-categorie: "Overig"
-publicatiedatum: 2015-08-01
-laatste_update: 2015-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036912"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-08-01"
+last_updated: "2015-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036912"
+soort: "ministeriele-regeling"
+stam_id: "13238693"
+version_id: "22627492"
+internal_id: "C32446631"
+label_id: "13207104"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036912/2015-08-01/0"
+intitule_bron: "Stcrt.2015-22771"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-13"
+intitule_published: "2015-07-31"
+intitule_in_force: "2015-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-22771"
+original_signed_date: "2015-04-13"
+original_published_date: "2015-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-22771"
+entry_into_force_date: "2015-08-01"
+jci_1_3: "jci1.3:c:BWBR0036912&z=2015-08-01&g=2015-08-01"
+jci_1_0: "1.0:c:BWBR0036912&g=2015-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling documentair informatiemanagement VWS 2015"
+signed_date: "2015-04-13"
+entry_into_force: "2015-08-01"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 13 april 2015 tot vaststelling van regels voor het documentair informatiemanagement van het Ministerie van Volksgezondheid, Welzijn en Sport (Regeling documentair informatiemanagement VWS 2015)
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. : Algemene bepalingen
 
-#### Artikel 1. , Begripsbepalingen
+##### Artikel 1. , Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -90,27 +116,27 @@ In deze regeling wordt verstaan onder:
 
 - 26. **Werkproces:** een complex van samenhangende activiteiten gericht op de uitvoering van een taak van de organisatie.
 
-#### Artikel 2. , Reikwijdte
+##### Artikel 2. , Reikwijdte
 
 De regeling is van toepassing op het beheer van alle documentaire informatie waarvoor de Minister van VWS zorgdrager is.
 
 ### Hoofdstuk 2. : Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 3. , Minister
+##### Artikel 3. , Minister
 
 De minister is zorgdrager in de zin van [artikel 1, onder d, van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=1), voor alle documentaire informatie van het ministerie. De zorg van de minister eindigt door overbrenging, vervreemding of vernietiging van de documentaire informatie.
 
-#### Artikel 4. , Secretaris-Generaal
+##### Artikel 4. , Secretaris-Generaal
 
 1. De Secretaris-Generaal van VWS is ambtelijk eindverantwoordelijk voor het documentair informatiemanagement waarvoor de minister zorgdrager is.
 
 2. De Secretaris-Generaal is bevoegd om alle in deze regeling genoemde taken en bevoegdheden van hoofden van archiefvormende onderdelen buiten het kerndepartement uit te laten oefenen door een door de Secretaris-Generaal aangewezen persoon indien sprake is van taakverwaarlozing.
 
-#### Artikel 5. , Plaatsvervangend Secretaris-Generaal
+##### Artikel 5. , Plaatsvervangend Secretaris-Generaal
 
 De plaatsvervangend Secretaris-Generaal stelt beleid vast voor het beheer van documentaire informatie.
 
-#### Artikel 6. , Chief Information Officer
+##### Artikel 6. , Chief Information Officer
 
 1. De Chief Information Officer van het kerndepartement is verantwoordelijk voor een goed en efficiënt beleid op het gebied van informatie en ICT en adviseert de ambtelijke en politieke leiding, beleidsmedewerkers en de bestuursraad over informatie en ICT.
 
@@ -134,7 +160,7 @@ De plaatsvervangend Secretaris-Generaal stelt beleid vast voor het beheer van do
 
 3. Indien een buitendienst een Chief Information Officer heeft, heeft hij de in het tweede lid, onderdelen a tot en met e bedoelde taken en verstrekt hij informatie en rapporteert hij over de informatievoorziening en ICT aan het hoofd van de buitendienst.
 
-#### Artikel 7. , Directeur belast met het beheer van de documentaire informatie
+##### Artikel 7. , Directeur belast met het beheer van de documentaire informatie
 
 1. De directeur belast met het beheer van de documentaire informatie van het kerndepartement of een buitendienst is verantwoordelijk voor:
 
@@ -152,7 +178,7 @@ De plaatsvervangend Secretaris-Generaal stelt beleid vast voor het beheer van do
 
 5. De directeur belast met het beheer van de documentaire informatie van het kerndepartement is verantwoordelijk voor de voorbereiding van eventueel noodzakelijke wijzigingen in onderhavige regeling.
 
-#### Artikel 8. , Archiefbeherende onderdelen
+##### Artikel 8. , Archiefbeherende onderdelen
 
 1. Een archiefbeherend onderdeel verricht of laat verrichten, in opdracht van de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036912&hoofdstuk=2&artikel=7&z=2015-08-01&g=2015-08-01), bedoelde directeur van deze regeling, de daadwerkelijke werkzaamheden op het gebied van het documentaire informatiemanagement van het eigen archiefvormend onderdeel conform deze regeling en overige relevante wet- en regelgeving.
 
@@ -160,7 +186,7 @@ De plaatsvervangend Secretaris-Generaal stelt beleid vast voor het beheer van do
 
 3. Een buitendienst kan de minister of een door hem aangewezen ambtenaar toestemming vragen om de documentaire informatie te laten beheren door het archiefbeherend onderdeel van het kerndepartement.
 
-#### Artikel 9. , Archiefvormende onderdelen
+##### Artikel 9. , Archiefvormende onderdelen
 
 1. Het hoofd van een archiefvormend onderdeel beheert de documentaire informatie conform de regels van deze regeling en overige relevante wet- en regelgeving.
 
@@ -174,17 +200,17 @@ De plaatsvervangend Secretaris-Generaal stelt beleid vast voor het beheer van do
 
 6. Het hoofd van een buitendienst brengt documentaire informatie over naar de aangewezen archiefbewaarplaats.
 
-#### Artikel 10. , Hoofden van organisatieonderdelen
+##### Artikel 10. , Hoofden van organisatieonderdelen
 
 Binnen een archiefvormend onderdeel zijn de hoofden van de verschillende organisatieonderdelen verantwoordelijk voor de documentaire informatie van hun organisatieonderdeel en verlenen medewerking aan het archiefbeherend onderdeel voor het beheer van deze documentaire informatie.
 
-#### Artikel 11. , Dossiereigenaar
+##### Artikel 11. , Dossiereigenaar
 
 De dossiereigenaar is verantwoordelijk voor de autorisaties, de volledigheid en het sluiten van zijn dossiers.
 
 ### Hoofdstuk 3. : Documentair informatiemanagement
 
-#### Artikel 12. , Registratie
+##### Artikel 12. , Registratie
 
 1. Documentaire informatie wordt direct na ontvangst, na opmaak of voor verzending voorzien van metagegevens en opgeslagen in een informatiesysteem.
 
@@ -192,7 +218,7 @@ De dossiereigenaar is verantwoordelijk voor de autorisaties, de volledigheid en 
 
 3. De onder lid 1 en 2 vermelde metagegevens zijn conform het vastgestelde metagegevensschema dat is gebaseerd op het Toepassingsprofiel Metagegevens Rijksoverheid.
 
-#### Artikel 13. , Vervanging
+##### Artikel 13. , Vervanging
 
 1. Een besluit tot vervanging wordt gepubliceerd in de Staatscourant. Een handboek vervanging is als bijlage bij het vervangingsbesluit gevoegd.
 
@@ -200,7 +226,7 @@ De dossiereigenaar is verantwoordelijk voor de autorisaties, de volledigheid en 
 
 3. Indien de originele versie van documentaire informatie niet langer beschikbaar is, wordt een kopie van deze documentaire informatie beheerd als zijnde het origineel.
 
-#### Artikel 14. , Context en authenticiteit
+##### Artikel 14. , Context en authenticiteit
 
 De archiefvormende onderdelen dragen er zorg voor dat voor alle permanent te bewaren documentaire informatie te allen tijde kan worden vastgesteld:
 
@@ -214,11 +240,11 @@ De archiefvormende onderdelen dragen er zorg voor dat voor alle permanent te bew
 
 - e. de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de documentaire informatie wordt bewaard of beheerd.
 
-#### Artikel 15. , Voortgang en afdoening
+##### Artikel 15. , Voortgang en afdoening
 
 De archiefvormende onderdelen bewaken de voortgang en tijdige afdoening van de behandeling van de documentaire informatie en leggen dit vast in een informatiesysteem.
 
-#### Artikel 16. , Ordening en toegankelijkheid
+##### Artikel 16. , Ordening en toegankelijkheid
 
 1. Het archiefbeherend onderdeel stelt voor het eigen archiefvormend onderdeel een ordeningsstructuur op in overleg met het archiefvormend onderdeel, waarmee de toegankelijkheid van de documentaire informatie wordt gewaarborgd.
 
@@ -232,11 +258,11 @@ De archiefvormende onderdelen bewaken de voortgang en tijdige afdoening van de b
 
 6. Het archiefbeherend onderdeel draagt zorg voor het uitlenen van papieren documentaire informatie met in achtneming van de autorisaties voor het eigen archiefvormend onderdeel. Het archiefbeherend onderdeel houdt een uitleenadministratie bij voor het eigen archiefvormend onderdeel.
 
-#### Artikel 17. , Informatieverstrekking
+##### Artikel 17. , Informatieverstrekking
 
 Indien een verzoek van derden om documentaire informatie te mogen raadplegen conform de geldende regelgeving is goedgekeurd, wordt die informatie digitaal of door middel van een kopie van de papieren documentaire informatie verstrekt.
 
-#### Artikel 18. , Duurzaamheid
+##### Artikel 18. , Duurzaamheid
 
 1. Documentaire informatie wordt tot het tijdstip van vernietiging dan wel het tijdstip van overbrenging naar het Nationaal Archief in goede materiële en toegankelijke staat gehouden.
 
@@ -254,7 +280,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 6. De verklaring van conversie, migratie of emulatie wordt ondertekend door het hoofd van het archiefvormend onderdeel of een door hem aangewezen ambtenaar.
 
-#### Artikel 19. , Opslagformaten
+##### Artikel 19. , Opslagformaten
 
 1. Archiefvormende onderdelen zijn er verantwoordelijk voor dat digitale documentaire informatie van het eigen archiefvormend onderdeel, uiterlijk op het tijdstip van overbrenging, opgeslagen wordt in een duurzaam, valideerbaar en volledig gedocumenteerd bestandsformaat conform de acceptatiecriteria van het Nationaal Archief.
 
@@ -264,7 +290,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 4. Compressietechniek wordt slechts toegepast voor zover daarbij niet zodanig verlies van informatie optreedt, dat er niet wordt voldaan aan de in de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) gestelde eisen ten aanzien van de goede, geordende en toegankelijke staat van de documentaire informatie.
 
-#### Artikel 20. , Kwaliteitszorg
+##### Artikel 20. , Kwaliteitszorg
 
 1. Archiefbeherende onderdelen hanteren een kwaliteitssysteem voor het beheer van documentaire informatie van het eigen archiefvormend onderdeel en houden toezicht op de kwaliteit van de documentaire informatie van het eigen archiefvormend onderdeel.
 
@@ -272,13 +298,13 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 3. Indien noodzakelijk worden maatregelen uitgevoerd om de kwaliteit van de informatiehuishouding van het eigen archiefvormend onderdeel te verbeteren.
 
-#### Artikel 21. , Selectie
+##### Artikel 21. , Selectie
 
 1. De archiefbeherende onderdelen zijn verantwoordelijk voor het opstellen, actualiseren, vaststellen en implementeren van een selectielijst voor het eigen archiefvormend onderdeel.
 
 2. Een selectielijst wordt opgesteld conform rijksbrede richtlijnen en geldende regelgeving.
 
-#### Artikel 22. , Vernietiging
+##### Artikel 22. , Vernietiging
 
 1. De archiefbeherende onderdelen zijn voor het eigen archiefvormend onderdeel verantwoordelijk voor:
 
@@ -296,7 +322,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 5. De vernietiging van digitale documentaire informatie wordt gelogd in het informatiesysteem waarin het was opgeslagen.
 
-#### Artikel 23. , Overbrenging
+##### Artikel 23. , Overbrenging
 
 1. De archiefbeherende onderdelen zijn verantwoordelijk voor het overbrengen van permanent te bewaren documentaire informatie van het eigen archiefvormend onderdeel naar het Nationaal Archief. Overbrenging vindt plaats twintig jaar na afsluiting van de documentaire informatie. Het is mogelijk om deze termijn met tien jaar te verlengen. De documentaire informatie wordt in goede, geordende en toegankelijke staat overgebracht.
 
@@ -318,7 +344,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 - d. het besluit over de beperkingen van de openbaarheid indien van toepassing.
 
-#### Artikel 24. , Overdracht
+##### Artikel 24. , Overdracht
 
 1. Archiefvormende onderdelen dragen na opheffing van het organisatieonderdeel alle documentaire informatie over aan het hoofd van het archiefvormend onderdeel dat dit archiefvormend onderdeel had ingesteld.
 
@@ -328,7 +354,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 4. Het nieuwe archiefbeherend onderdeel is ervoor verantwoordelijk dat de overgedragen documentaire informatie in goede, geordende en toegankelijke staat blijft.
 
-#### Artikel 25. , Vervreemding
+##### Artikel 25. , Vervreemding
 
 1. Een archiefvormend onderdeel kan documentaire informatie vervreemden voor zover deze niet is overgebracht naar het Nationaal Archief. Hiervoor is een machtiging van de Minister van Onderwijs, Cultuur en Wetenschap vereist als vervreemding niet plaats vindt op basis van een wettelijk voorschrift als bedoeld in [artikel 8, tweede lid van de Archiefwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=8).
 
@@ -336,13 +362,13 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 3. Het archiefbeherend onderdeel stelt een verklaring van vervreemding op voor het eigen archiefvormend onderdeel, waarin een specificatie van de vervreemde documentaire informatie, de datum en de wijze van vervreemding zijn opgenomen. De verklaring wordt ondertekend door de hoofden van de betrokken archiefvormende onderdelen of door hen aangewezen ambtenaren.
 
-#### Artikel 26. , Uitbesteding
+##### Artikel 26. , Uitbesteding
 
 1. Een regeling waarbij taken en bevoegdheden namens de minister worden uitgevoerd door een andere rechtspersoon, bevat een voorziening over het beheer van de documentaire informatie behorende bij de uitvoering van deze taken en bevoegdheden overeenkomstig het gestelde in deze regeling.
 
 2. Bij uitbesteding van diensten en werken verplicht de opdrachtgever de opdrachtnemer om de informatie die hij voor de uitvoering van de opdracht onder zich heeft, binnen veertien werkdagen na beëindiging van de werkzaamheden aan de opdrachtgever ter beschikking te stellen.
 
-#### Artikel 27. , Organisatiewijziging
+##### Artikel 27. , Organisatiewijziging
 
 1. Bij een organisatiewijziging treft het archiefvormend onderdeel in overleg met het eigen archiefbeherend onderdeel een voorziening voor de betreffende documentaire informatie.
 
@@ -350,7 +376,7 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 3. Bij de instelling van tijdelijke organisatieonderdelen, zoals commissies en projecten, treft het archiefvormend onderdeel, in overleg met de directeur belast met het beheer van documentaire informatie van het archiefvormend orgaan dat het tijdelijke organisatieonderdeel heeft ingesteld, een voorziening voor het beheer van de documentaire informatie na opheffing van het organisatieonderdeel.
 
-#### Artikel 28. , Informatiebeveiliging
+##### Artikel 28. , Informatiebeveiliging
 
 1. Het hoofd van het archiefvormend onderdeel of een door hem aangewezen ambtenaar is verantwoordelijk voor de beveiliging van documentaire informatie door middel van het opstellen, onderhouden en implementeren van informatiebeveiligingsbeleid en informatiebeveiligingsplannen conform relevante normenkaders en wet- en regelgeving.
 
@@ -362,14 +388,14 @@ Indien een verzoek van derden om documentaire informatie te mogen raadplegen con
 
 ### Hoofdstuk 4. : Slotbepalingen
 
-#### Artikel 29. , Citeertitel
+##### Artikel 29. , Citeertitel
 
 Deze regeling kan worden aangehaald als Regeling documentair informatiemanagement VWS 2015.
 
-#### Artikel 30. , Intrekking
+##### Artikel 30. , Intrekking
 
 De [Regeling archiefbeheer VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0010938) wordt ingetrokken.
 
-#### Artikel 31. , Inwerkingtreding
+##### Artikel 31. , Inwerkingtreding
 
 Deze regeling wordt met de toelichting geplaatst in de Staatscourant en treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin deze regeling wordt geplaatst.

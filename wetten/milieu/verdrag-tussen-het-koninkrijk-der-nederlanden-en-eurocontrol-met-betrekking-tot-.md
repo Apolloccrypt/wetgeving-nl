@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en EUROCONTROL met betrekking tot het uitvoeren van taken voor luchtruimbeheer"
 identifier: "BWBV0006865"
-categorie: "Milieu"
-publicatiedatum: 2020-04-24
-laatste_update: 2020-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006865"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-04-24"
+last_updated: "2020-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006865"
+soort: "verdrag"
+stam_id: "10005552813"
+version_id: "10006048212"
+internal_id: "C10009691921"
+label_id: "10005536084"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006865/2020-04-24/0"
+intitule_bron: "Trb.2020-48"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-05-01"
+intitule_in_force: "2020-05-01"
+intitule_status: "goed"
+original_publication: "Trb.2020-48"
+original_published_date: "2020-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2020-48"
+entry_into_force_date: "2020-04-24"
+jci_1_3: "jci1.3:c:BWBV0006865&z=2020-04-24&g=2020-04-24"
+jci_1_0: "1.0:c:BWBV0006865&g=2020-04-24"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-04-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en EUROCONTROL met betrekking tot het uitvoeren van taken voor luchtruimbeheer
 
 The Kingdom of the Netherlands, hereinafter referred to as “the Netherlands”,
@@ -46,7 +68,7 @@ HAVING REGARD to Measure No. 20/249 of the Permanent Commission of 26.3.2020 aut
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purpose of this Agreement:
 
@@ -84,13 +106,13 @@ For the purpose of this Agreement:
 
 - q). the term the Amsterdam FIR means: the Amsterdam Flight Information Region.
 
-#### Article 2. Scope
+##### Article 2. Scope
 
 1. The Netherlands entrusts EUROCONTROL with the execution of the airspace management function in the Amsterdam FIR and shall appoint EUROCONTROL as the MUAC FUA-Cell to the extent and in the manner prescribed in this Agreement. For this purpose, EUROCONTROL shall employ the facilities at MUAC and shall provide the staff required for the operation and maintenance of the MUAC FUA-Cell.
 
 2. Article 1, paragraph 2, of the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) with regard to certain competences and obligations of the Netherlands shall remain unaffected.
 
-#### Article 3. General responsibilities of EUROCONTROL
+##### Article 3. General responsibilities of EUROCONTROL
 
 1. EUROCONTROL shall be responsible, on behalf of the Netherlands, to execute the airspace management function within the Amsterdam FIR in accordance with the requirements pursuant to [Article 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006865&artikel=6&z=2020-04-24&g=2020-04-24) of this Agreement and the regulations and instructions concerning the execution of the airspace management function pursuant to this Agreement.
 
@@ -102,7 +124,7 @@ For the purpose of this Agreement:
 
 5. The applicable national and international provisions concerning the investigation of accidents shall remain unaffected.
 
-#### Article 4. General responsibilities of the Netherlands
+##### Article 4. General responsibilities of the Netherlands
 
 1. The Netherlands shall ensure the required nomination and publication of MUAC as the MUAC FUA-Cell in the Amsterdam FIR.
 
@@ -112,11 +134,11 @@ For the purpose of this Agreement:
 
 4. In order to enable EUROCONTROL to execute the tasks under this Agreement, the Netherlands shall make available to EUROCONTROL for joint use free of charge the necessary installations, equipment and air-ground and ground-ground communication facilities.
 
-#### Article 5. Management
+##### Article 5. Management
 
 EUROCONTROL shall ensure the day-to-day operation of the MUAC FUA-Cell, including management of staff and equipment. For this purpose, it shall maintain close consultation and coordination in the operational and technical fields with the air traffic services agencies of the Netherlands and other relevant stakeholders concerned.
 
-#### Article 6. Specific responsibilities of EUROCONTROL
+##### Article 6. Specific responsibilities of EUROCONTROL
 
 1. The airspace management function shall be executed between 08:00LCL and 18:00LCL, from Monday till Friday and excluding official Dutch holidays. Extension of these proposed opening hours can be discussed if necessary.
 
@@ -148,7 +170,7 @@ EUROCONTROL shall ensure the day-to-day operation of the MUAC FUA-Cell, includin
 
 3. The MUAC FUA-Cell is responsible for the nominal situation, i.e. all airspace requests referring to areas as presented in the AIP the Netherlands, whose approval will be published in the AUP/UUP and via a NOTAM, where necessary. Only when acting as contingency for the LVNL FUA-Cell, shall it be for non-nominal situations, i.e. all airspace requests referring to areas in the AIP the Netherlands whose approval will not be published in the AUP/UUP or airspace requests that require approval of the Netherlands and whose approval will be published in a Decree and/or exemption and NOTAM.
 
-#### Article 7. Personnel
+##### Article 7. Personnel
 
 1. EUROCONTROL shall ensure it has sufficient staff available to execute the airspace management function pursuant to this Agreement. This staff must meet the national requirements of the Netherlands with regard to vetting to execute the airspace management function pursuant to this Agreement.
 
@@ -156,19 +178,19 @@ EUROCONTROL shall ensure the day-to-day operation of the MUAC FUA-Cell, includin
 
 3. In the event of lawful strikes by EUROCONTROL’s personnel, EUROCONTROL shall ensure the unrestricted and unlimited execution of the airspace management function pursuant to this Agreement.
 
-#### Article 8. Costs
+##### Article 8. Costs
 
 Costs incurred by EUROCONTROL for the execution of the airspace management function pursuant to this Agreement shall be borne by the Netherlands. EUROCONTROL shall determine the required personnel for the execution of the airspace management function under this Agreement based on MUAC’s concept of operations. The detailed financial compensation agreement shall be set out in a separate contract to be agreed between EUROCONTROL and the State of the Netherlands prior to the entry into force of this Agreement.
 
-#### Article 9. Joint working procedures
+##### Article 9. Joint working procedures
 
 The National Contracting Parties to the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446) shall be consulted as required for matters falling under their remit concerning the execution of the airspace management function pursuant to [Article 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006865&artikel=2&z=2020-04-24&g=2020-04-24) and [Article 3, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006865&artikel=3&z=2020-04-24&g=2020-04-24), of this Agreement.
 
-#### Article 10. Relations essential for the execution of the airspace management function
+##### Article 10. Relations essential for the execution of the airspace management function
 
 To the extent required for the execution of the airspace management function pursuant to this Agreement, EUROCONTROL shall be entrusted to conclude contracts of purely administrative, technical or commercial nature with the public or private technical services of the Parties, of third States or of international organisations. The EUROCONTROL Contract Regulations shall apply.
 
-#### Article 11. Liability
+##### Article 11. Liability
 
 1. The Netherlands shall be liable for any damage arising from, or in connection with, the execution of the airspace management function by EUROCONTROL in accordance with the provisions of this Agreement to the extent to which such damage is attributable to the Netherlands.
 
@@ -178,17 +200,17 @@ To the extent required for the execution of the airspace management function pur
 
 4. EUROCONTROL shall take out insurance in its own name to cover all or some of the risks incurred in connection with this Agreement
 
-#### Article 12. Amendments
+##### Article 12. Amendments
 
 1. This Agreement may be amended only through an exchange of diplomatic notes between the Parties and after a positive opinion of the National Contracting Parties to the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446). Any amendment to this Agreement shall enter into force on a date to be agreed upon by the Parties.
 
 2. In case of amendments to the [Maastricht Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0002446), the representatives of the Parties shall amend this Agreement accordingly, unless otherwise agreed between the Parties.
 
-#### Article 13. Dispute settlement
+##### Article 13. Dispute settlement
 
 In the event of a dispute arising between the Parties concerning the interpretation, the application or the performance of this Agreement, which cannot be settled by direct negotiation or by any other means, the provisions of Article 31 of the amended [Convention](https://wetten.overheid.nl/jci1.3:c:BWBV0004802) shall apply **mutatis mutandis**.
 
-#### Article 14. Entry into force – duration – termination
+##### Article 14. Entry into force – duration – termination
 
 1. This Agreement shall enter into force on the day of its signature by both Parties. The provisions on the execution of the airspace management function shall not be applicable earlier than 26 March 2020.
 

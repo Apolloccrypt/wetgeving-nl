@@ -1,13 +1,35 @@
 ---
 title: "Regionale Overeenkomst betreffende het gebruik door de Omroepdienst van golven in de middengolfbanden in de gebieden 1 en 3 en in de langegolfbanden in gebied 1"
 identifier: "BWBV0003722"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-11-23
-laatste_update: 1978-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003722"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-11-23"
+last_updated: "1978-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003722"
+soort: "verdrag"
+stam_id: "10003669583"
+version_id: "10003729842"
+internal_id: "C10006982771"
+label_id: "10003654754"
+dtd_version: "2.0"
+original_entry_into_force: "1978-11-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003722/1978-11-23/0"
+intitule_bron: "Trb.1978-14"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-01-26"
+intitule_in_force: "1978-01-26"
+intitule_status: "goed"
+original_publication: "Trb.1978-14"
+original_published_date: "1978-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-14"
+entry_into_force_date: "1978-11-23"
+jci_1_3: "jci1.3:c:BWBV0003722&z=1978-11-23&g=1978-11-23"
+jci_1_0: "1.0:c:BWBV0003722&g=1978-11-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-11-23"
 ---
-
 # Regionale Overeenkomst betreffende het gebruik door de Omroepdienst van golven in de middengolfbanden in de gebieden 1 en 3 en in de langegolfbanden in gebied 1
 
 Preamble
@@ -22,7 +44,7 @@ the delegates of the following Members of the International Telecommunication Un
 
 **Republic of Afghanistan, Algeria (Algerian Democratic and Popular Republic). Federal Republic of Germany, Kingdom of Saudi Arabia, Australia, Austria, People's Republic of Bangladesh, Belgium, Byelorussian Soviet Socialist Republic, Republic of Botswana, People's Republic of Bulgaria, Republic of Burundi, United Republic of Cameroon, Central African Republic, People's Republic of China, Republic of Cyprus, Vatican City State, People's Republic of the Congo, Republic of Korea, Republic of the Ivory Coast, Republic of Dahomey, Denmark, Arab Republic of Egypt, United Arab Emirates, Spain, Ethiopia, Fiji, Finland, France, Gabon Republic, Republic of the Gambia, Ghana, Greece, Republic of Guinea, Republic of Upper Volta, Hungarian People's Republic, Republic of India, Republic of Indonesia, Iran, Ireland, Iceland, State of Israel, Italy, Japan, Hashemite Kingdom of Jordan, Republic of Kenya, State of Kuwait, Kingdom of Lesotho, Lebanon, Republic of Liberia, Libyan Arab Republic, Principality of Liechtenstein, Luxembourg, Malaysia, Malawi, Malagasy Republic, Republic of Mali, Kingdom of Morocco, Mauritius, Islamic Republic of Mauritania, Monaco, Mongolian People's Republic, People's Republic of Mozambique, Nepal, Republic of the Niger, Federal Republic of Nigeria, Norway, New Zealand, Republic of Uganda, Pakistan, Papua New Guinea, Kingdom of the Netherlands, Republic of the Philippines, People's Republic of Poland, Portugal, State of Qatar, Syrian Arab Republic, German Democratic Republic, Ukrainian Soviet Socialist Republic, Socialist Republic of Roumania, United Kingdom of Great Britain and Northern Ireland, Republic of the Senegal, Republic of Singapore, Democratic Republic of the Sudan, Republic of Sri Lanka (Ceylon), Sweden, Confederation of Switzerland, United Republic of Tanzania, Republic of the Chad, Czechoslovak Socialist Republic, Thailand, Togolese Republic, Tunisia, Turkey, Union of Soviet Socialist Republics, Yemen Arab Republic, People's Democratic Republic of Yemen, Socialist Federal Republic of Yugoslavia, Republic of Zaire, Republic of Zambia.**
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 For the purposes of this Agreement, the following terms shall have the meanings defined below:
 
@@ -48,11 +70,11 @@ For the purposes of this Agreement, the following terms shall have the meanings 
 
 **Administration:** Any governmental department or service responsible for discharging the obligations undertaken in the Convention and the Radio Regulations.
 
-#### Article 2. Frequency Bands
+##### Article 2. Frequency Bands
 
 The provisions of this Agreement apply to the frequency bands between 150 and 285 kHz and between 525 and 1 605 kHz allocated to the broadcasting service under Article 5 of the Radio Regulations, Geneva, 1959.
 
-#### Article 3. Execution of the Agreement
+##### Article 3. Execution of the Agreement
 
 1. The Contracting Members shall adopt, for their broadcasting stations operating in Regions 1 and 3 in the frequency bands referred to in the Agreement, the characteristics specified in the Plan.
 
@@ -60,7 +82,7 @@ The provisions of this Agreement apply to the frequency bands between 150 and 28
 
 3. The Contracting Members shall endeavour to agree on the action required to reduce any harmful interference caused by the application of this Agreement.
 
-#### Article 4. Procedure for Modifications to the Plan
+##### Article 4. Procedure for Modifications to the Plan
 
 1. When a Contracting Member proposes to make a modification to the Plan, i.e. either:
 
@@ -148,27 +170,27 @@ the following procedure shall be applied before any notification is made under t
 
 When an assignment in accordance with the Agreement is released, whether or not as a result of a modification (for instance a change of frequency), the administration concerned shall immediately so inform the I.F.R.B. The I.F.R.B. shall publish this information in a special section of its weekly circular.
 
-#### Article 5. Notification of Frequency Assignments
+##### Article 5. Notification of Frequency Assignments
 
 1. Whenever an administration intends to put into use an assignment in conformity with the Agreement it shall notify this assignment to the I.F.R.B. in accordance with the provisions of Article 9*or the corresponding article of the Radio Regulations currently in force. of the Radio Regulations. Any such assignment recorded in the Master Register as a result of the application of the provisions of Article 9*or the corresponding article of the Radio Regulations currently in force. of the Radio Regulations, shall, in addition to a date in Column 2a or Column 2b, bear a special symbol in the Remarks column.
 
 2. In relations between Contracting Members, all frequency assignments brought into use in conformity with the Agreement and recorded in the Master Register shall be considered to have the same status, irrespective of the dates entered in Column 2a or Column 2b for such assignments.
 
-#### Article 6. Special Arrangements
+##### Article 6. Special Arrangements
 
 In addition to the procedures provided for in Article 4 of the Agreement and to facilitate their application with a view to improving the utilization of the Plan, Contracting Members may conclude special arrangements in accordance with the pertinent provisions of the Convention and of the Radio Regulations.
 
-#### Article 7. Scope of Application of the Agreement
+##### Article 7. Scope of Application of the Agreement
 
 1. This Agreement shall bind Contracting Members in their relations with one another but does not bind those Members with respect to non-Contracting countries.
 
 2. If a Member makes reservations with regard to any provision of this Agreement, other Members shall be free to disregard that provision in their relations with the Member which has made such reservations.
 
-#### Article 8. Approval of the Agreement
+##### Article 8. Approval of the Agreement
 
 Members shall notify their approval of this Agreement, as promptly as possible, to the Secretary-General, who shall at once inform the other Members of the Union.
 
-#### Article 9. Accession to the Agreement
+##### Article 9. Accession to the Agreement
 
 1. Any Member of the Union in Regions 1 and 3 which has not signed this Agreement may accede thereto at any time. Such accession shall extend to the Plan as amended at the time of the accession and shall be made without reservation. The Secretary-General shall be notified thereof and he shall inform the other Members of the Union.
 
@@ -176,25 +198,25 @@ Members shall notify their approval of this Agreement, as promptly as possible, 
 
 3. Any Member of the Union party to the Regional Agreement for the African Broadcasting Area (Geneva, 1966) which accedes to the present Agreement in conformity with paragraphs 1 and 2 of this Article, shall by this act of accession terminate its participation in the Regional Agreement for the African Broadcasting Area and the Plan annexed thereto.
 
-#### Article 10. Termination of Participation in the Agreement
+##### Article 10. Termination of Participation in the Agreement
 
 1. Any Contracting Member shall have the right at any time to terminate its participation in the Agreement by a notification sent to the Secretary-General who shall inform the other Members of the Union.
 
 2. Such termination of participation shall take effect after a period of one year from the date of receipt, by the Secretary-General, of the said notification.
 
-#### Article 11. Abrogation of the European Broadcasting Convention (Copenhagen, 1948) and annexed Copenhagen Plan
+##### Article 11. Abrogation of the European Broadcasting Convention (Copenhagen, 1948) and annexed Copenhagen Plan
 
 Additional Protocol I to the Final Acts of the Conference provides for the abrogation of the European Broadcasting Convention (Copenhagen, 1948) and the annexed Copenhagen Plan.
 
-#### Article 12. Abrogation of the Regional Agreement for the African Broadcasting Area (Geneva, 1966) and the Plan annexed thereto
+##### Article 12. Abrogation of the Regional Agreement for the African Broadcasting Area (Geneva, 1966) and the Plan annexed thereto
 
 Additional Protocol II to the Final Acts of the Conference provides for the abrogation of the Regional Agreement for the African Broadcasting Area (Geneva, 1966) and the Plan annexed thereto.
 
-#### Article 13. Effective Date of the Agreement
+##### Article 13. Effective Date of the Agreement
 
 The Agreement shall enter into force on twenty-three November, one thousand nine hundred and seventy-eight at 0001 hours GMT.
 
-#### Article 14. Duration of the Agreement
+##### Article 14. Duration of the Agreement
 
 1. The Agreement and the annexed Plan have been established with a view to meeting the requirements of the broadcasting services in the bands concerned for a period of eleven years from the date of entry into force of the Agreement.
 

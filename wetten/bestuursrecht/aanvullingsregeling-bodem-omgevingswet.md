@@ -1,13 +1,39 @@
 ---
-title: "Aanvullingsregeling bodem Omgevingswet"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 mei 2021 tot aanvulling en wijziging van de Omgevingsregeling en wijziging en intrekking van enige andere regelingen met het oog op het beschermen van de bodem, met inbegrip van het grondwater en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsregeling bodem Omgevingswet)"
 identifier: "BWBR0045505"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045505"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045505"
+soort: "ministeriele-regeling"
+stam_id: "16045603"
+version_id: "27948142"
+internal_id: "C42064361"
+label_id: "15978364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045505/2024-01-01/0"
+intitule_bron: "Stcrt.2021-28102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-27"
+intitule_published: "2021-06-01"
+intitule_in_force: "2023-04-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-28102"
+original_signed_date: "2021-05-27"
+original_published_date: "2021-06-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-28102"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0045505&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0045505&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingsregeling bodem Omgevingswet"
+signed_date: "2021-05-27"
+entry_into_force: "2024-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, de Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister van Landbouw, Natuur en Voedselkwaliteit van 27 mei 2021 tot aanvulling en wijziging van de Omgevingsregeling en wijziging en intrekking van enige andere regelingen met het oog op het beschermen van de bodem, met inbegrip van het grondwater en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsregeling bodem Omgevingswet)
 
 Gelet op de richtlijn zuiveringsslib;
@@ -18,51 +44,51 @@ BESLUITEN:
 
 ### Hoofdstuk 1. Aanvulling en wijziging Omgevingsregeling
 
-#### Artikel 1.1. ([Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528))
+##### Artikel 1.1. ([Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528))
 
 Wijzigt de Omgevingsregeling.
 
 ### Hoofdstuk 2. Wijziging andere regelingen
 
-#### Artikel 2.1. ([Regeling acceptatie afvalstoffen op stortplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0026131))
+##### Artikel 2.1. ([Regeling acceptatie afvalstoffen op stortplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0026131))
 
 Wijzigt de Regeling acceptatie afvalstoffen op stortplaatsen.
 
-#### Artikel 2.2. ([Regeling beoordeling reinigbaarheid grond 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020104))
+##### Artikel 2.2. ([Regeling beoordeling reinigbaarheid grond 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0020104))
 
 Wijzigt de Regeling beoordeling reinigbaarheid grond 2006.
 
-#### Artikel 2.3. ([Regeling bijzondere subsidies waterkeren en waterbeheren](https://wetten.overheid.nl/jci1.3:c:BWBR0019518))
+##### Artikel 2.3. ([Regeling bijzondere subsidies waterkeren en waterbeheren](https://wetten.overheid.nl/jci1.3:c:BWBR0019518))
 
 Wijzigt de Regeling bijzondere subsidies waterkeren en waterbeheren.
 
-#### Artikel 2.4. ([Regeling materialen en chemicaliën drink- en warm tapwatervoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0030279))
+##### Artikel 2.4. ([Regeling materialen en chemicaliën drink- en warm tapwatervoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0030279))
 
 Wijzigt de Regeling materialen en chemicaliën drink- en warm tapwatervoorziening.
 
-#### Artikel 2.5. ([Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](https://wetten.overheid.nl/jci1.3:c:BWBR0018397))
+##### Artikel 2.5. ([Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s](https://wetten.overheid.nl/jci1.3:c:BWBR0018397))
 
 Wijzigt de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE’s.
 
-#### Artikel 2.6. ([Regeling storten als enige vorm van afvalbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0037497))
+##### Artikel 2.6. ([Regeling storten als enige vorm van afvalbeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0037497))
 
 Wijzigt de Regeling storten als enige vorm van afvalbeheer.
 
-#### Artikel 2.7. ([Regeling subsidies hoogwaterbescherming 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034922))
+##### Artikel 2.7. ([Regeling subsidies hoogwaterbescherming 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0034922))
 
 Wijzigt de Regeling subsidies hoogwaterbescherming 2014.
 
-#### Artikel 2.8. ([Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989))
+##### Artikel 2.8. ([Uitvoeringsregeling Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0018989))
 
 Wijzigt de Uitvoeringsregeling Meststoffenwet.
 
-#### Artikel 2.9. ([Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925))
+##### Artikel 2.9. ([Uitvoeringsregeling rechtstreekse betalingen GLB](https://wetten.overheid.nl/jci1.3:c:BWBR0035925))
 
 Uitvoeringsregeling rechtstreekse betalingen GLB.
 
 ### Hoofdstuk 3. Intrekking regelingen
 
-#### Artikel 3.1. (intrekking regelingen)
+##### Artikel 3.1. (intrekking regelingen)
 
 De volgende regelingen worden ingetrokken:
 
@@ -76,19 +102,19 @@ De volgende regelingen worden ingetrokken:
 
 ### Hoofdstuk 4. Overgangsrecht
 
-#### Artikel 4.1. ([Uitvoeringsregeling gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0023115))
+##### Artikel 4.1. ([Uitvoeringsregeling gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0023115))
 
 Een analyserapport als bedoeld in [artikel 2, tweede lid, van de Uitvoeringsregeling gebruik meststoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0023115&artikel=2), dat voor inwerkingtreding van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885) is opgesteld, geldt als een rapportage als bedoeld in artikel 9.36, tweede lid, van de Omgevingsregeling.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. (inwerkingtreding)
+##### Artikel 5.1. (inwerkingtreding)
 
 1. Deze regeling treedt in werking op een bij ministerieel besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. Een ministerieel besluit als bedoeld in het eerste lid wordt in de Staatscourant bekendgemaakt.
 
-#### Artikel 5.2. (citeertitel)
+##### Artikel 5.2. (citeertitel)
 
 Deze regeling wordt aangehaald als: Aanvullingsregeling bodem Omgevingswet.
 

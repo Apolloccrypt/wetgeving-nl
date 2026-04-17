@@ -1,13 +1,39 @@
 ---
-title: "Regeling beperking geluidhinder luchtvaart"
+title: "Beperking geluidhinder militaire luchtvaart"
 identifier: "BWBR0003707"
-categorie: "Milieu"
-publicatiedatum: 2014-10-01
-laatste_update: 2014-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003707"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-10-01"
+last_updated: "2014-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003707"
+soort: "ministeriele-regeling"
+stam_id: "3947383"
+version_id: "21767902"
+internal_id: "C31244541"
+label_id: "3927224"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003707/2014-10-01/0"
+intitule_bron: "Stcrt.1984-178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-08-31"
+intitule_published: "1984-09-12"
+intitule_in_force: "1984-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-28717"
+original_signed_date: "2014-09-25"
+original_published_date: "2014-10-14"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-28717"
+entry_into_force_date: "2014-09-25"
+jci_1_3: "jci1.3:c:BWBR0003707&z=2014-10-01&g=2014-10-01"
+jci_1_0: "1.0:c:BWBR0003707&g=2014-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beperking geluidhinder luchtvaart"
+signed_date: "2014-09-25"
+entry_into_force: "2014-09-25"
 ---
-
 # Beperking geluidhinder militaire luchtvaart
 
 Gelet op de artikelen 1, 2 en 3, tweede lid, onder b van het Besluit houdende vaststelling van enige regels ter beperking van geluidhinder door luchtvaartuigen (Stb. 1981, 343);
@@ -16,7 +42,7 @@ handelende in overeenstemming met de minister van Volkshuisvesting, Ruimtelijke 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binnen de plaatselijke verkeersleidingsgebieden rond militaire luchthavens moeten de volgende voorschriften worden nagekomen:
 
@@ -40,7 +66,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen binn
 
 - 2°. Militaire luchtvaartuigen, belast met de SAR-taak, mogen na middernacht plaatselijke tijd geen oefendoorstarts uitvoeren.
 
-#### Artikel 2
+##### Artikel 2
 
 Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elders dan binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01) bedoelde verkeersleidingsgebieden, moeten de volgende voorschriften worden nagekomen:
 
@@ -50,7 +76,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire luchtvaartuigen elde
 
 - c. Tijdens vluchten boven land, beneden een hoogte van 1000 meter (3000 voet) boven het aardoppervlak, moet de route zodanig worden gekozen dat het optreden van vermijdbare geluidhinder met name boven bebouwde kommen en bijzondere bebouwing zoals ziekenhuizen en sanatoria wordt voorkomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het is verboden met een militair luchtvaartuig een vlucht uit te voeren met een snelheid groter dan de plaatselijke voortplantingssnelheid van het geluid, tenzij de volgende voorschriften worden nagekomen:
 
@@ -74,11 +100,11 @@ Het is verboden met een militair luchtvaartuig een vlucht uit te voeren met een 
 
 - 4. De gehele manoeuvre kan worden uitgevoerd onder zichtweersomstandigheden.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare geluidhinder boven stiltegebieden te voorkomen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Minister van Defensie kan ten behoeve van nationale of internationale oefeningen ontheffing verlenen van [artikel 1, onderdeel e, onder 1e, en onderdeel f, onder 1e](https://wetten.overheid.nl/jci1.3:c:BWBR0003707&artikel=1&z=2014-10-01&g=2014-10-01).
 
@@ -86,10 +112,10 @@ Bij het uitvoeren van vluchten dient ernaar te worden gestreefd vermijdbare gelu
 
 3. De ontheffing kan onder beperking worden verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze beschikking treedt in werking met ingang van de datum van ondertekening.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling beperking geluidhinder luchtvaart.

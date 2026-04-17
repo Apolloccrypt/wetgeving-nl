@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket)"
+title: "Wet van 3 december 2009 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een nieuwe regeling voor de plaats van dienst voor de heffing van omzetbelasting, alsmede een nieuwe regeling voor de teruggaaf van omzetbelasting aan in een andere lidstaat gevestigde ondernemers (implementatie richtlijnen BTW-pakket)"
 identifier: "BWBR0026833"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026833"
+country: "nl"
+rank: "wet"
+publication_date: "2011-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026833"
+soort: "wet"
+stam_id: "10313863"
+version_id: "16905342"
+internal_id: "C23405821"
+label_id: "10289274"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026833/2011-01-01/0"
+intitule_bron: "Stb.2009-546"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-03"
+intitule_published: "2009-12-21"
+intitule_in_force: "2009-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2009-546"
+original_signed_date: "2009-12-03"
+original_published_date: "2009-12-21"
+original_effect: "nieuwe-regeling"
+original_dossier: "31907"
+original_url_id: "stb-2009-546"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026833&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0026833&g=2011-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket)"
+signed_date: "2009-12-03"
+entry_into_force: "2010-01-01"
 ---
-
-# Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket)
+# Wet van 3 december 2009 tot wijziging van de Wet op de omzetbelasting 1968 in verband met de invoering van een nieuwe regeling voor de plaats van dienst voor de heffing van omzetbelasting, alsmede een nieuwe regeling voor de teruggaaf van omzetbelasting aan in een andere lidstaat gevestigde ondernemers (implementatie richtlijnen BTW-pakket)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,31 +43,31 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de wetgeving inza
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel VI
+##### Artikel VI
 
 [Artikel 33 van de Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629&artikel=33) zoals dat luidde tot 1 januari 2010, blijft van toepassing met betrekking tot een verzoek om teruggaaf van belasting dat tot die datum op grond van dat artikel is gedaan door een ondernemer die niet in Nederland woont of is gevestigd en aldaar geen vaste inrichting heeft.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

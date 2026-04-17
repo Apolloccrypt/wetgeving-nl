@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2016"
+title: "Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17028249, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2016 (Regeling vaststelling definitieve correcties duurzame energieproductie 2016)"
 identifier: "BWBR0039354"
-categorie: "Overig"
-publicatiedatum: 2017-03-22
-laatste_update: 2017-03-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039354"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2017-03-22"
+last_updated: "2017-03-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039354"
+soort: "ministeriele-regeling"
+stam_id: "13955953"
+version_id: "23997072"
+internal_id: "C34492761"
+label_id: "13919164"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039354/2017-03-22/0"
+intitule_bron: "Stcrt.2017-16653"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-03-17"
+intitule_published: "2017-03-21"
+intitule_in_force: "2017-03-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-16653"
+original_signed_date: "2017-03-17"
+original_published_date: "2017-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-16653"
+entry_into_force_date: "2017-03-22"
+jci_1_3: "jci1.3:c:BWBR0039354&z=2017-03-22&g=2017-03-22"
+jci_1_0: "1.0:c:BWBR0039354&g=2017-03-22"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2016"
+signed_date: "2017-03-17"
+entry_into_force: "2017-03-22"
 ---
-
 # Regeling van de Minister van Economische Zaken van 17 maart 2017, nr. WJZ/17028249, tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2016 (Regeling vaststelling definitieve correcties duurzame energieproductie 2016)
 
 Gelet op [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31) en [47, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **tenderbedrag:** het tenderbedrag, bedoeld in [artikel 19, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=19).
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -181,7 +207,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=16) | Osmose | € 0,039 per kWh | € 0 per kWh |
 | [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=18) | Vrije stromingsenergie, valhoogte < 50 cm | € 0,039 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -200,7 +226,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 | Artikel [Regeling windenergie op zee 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038221) | Omschrijving categorie | Correctiebedrag [art. 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22) | Correctiebedrag [art. 22, eerste lid, onderdelen b en c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22) |
 | [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038221&artikel=2) | Wind op zee | € 0,030000 per kWh | € 0 per kWh |
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -278,7 +304,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=24) | Verlengde levensduur allesvergisting (hernieuwbaar gas) en verlengde levensduur vergisting en covergisting van dierlijke mest (hernieuwbaar gas) | € 0,020 per kWh | € 0 per kWh |
 | [Artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=26) | Biomassavergassing (≥95% biogeen) | € 0,020 per kWh | € 0 per kWh |
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als
 
@@ -406,11 +432,11 @@ bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 vastgesteld
 | [Artikel 50, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=50) | Gecombineerde opwekking vergisting van meer dan 95% dierlijke mest | € 0,039 per kWh | € 0 per kWh |
 | [Artikel 52](https://wetten.overheid.nl/jci1.3:c:BWBR0038330&artikel=52) | RWZI - Thermofiele vergisting van secundair slib | € 0,029 per kWh | € 0 per kWh |
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie 2016.
 

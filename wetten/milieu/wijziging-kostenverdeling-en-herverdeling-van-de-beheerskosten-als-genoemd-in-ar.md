@@ -1,13 +1,35 @@
 ---
-title: "Wijziging kostenverdeling en herverdeling van de beheerskosten als genoemd in artikel 6 lid 2 en 3 van de op 20 september 1972 gesloten overeenkomst tussen Waterschap Rivierenland en Deichverband "Kleve-Landesgrenze" inzake de waterafvoer uit het gemeenschappelijke Duits-Nederlandse stroomgebied naar het Hollands-Duits gemaal te Nijmegen"
+title: "Wijziging kostenverdeling en herverdeling van de beheerskosten als genoemd in artikel 6 lid 2 en 3 van de op 20 september 1972 gesloten overeenkomst tussen Waterschap Rivierenland en Deichverband \"Kleve-Landesgrenze\" inzake de waterafvoer uit het gemeenschappelijke Duits-Nederlandse stroomgebied naar het Hollands-Duits gemaal te Nijmegen"
 identifier: "BWBV0005001"
-categorie: "Milieu"
-publicatiedatum: 2010-08-18
-laatste_update: 2010-08-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005001"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-08-18"
+last_updated: "2010-08-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005001"
+soort: "verdrag"
+stam_id: "10004428073"
+version_id: "10004633712"
+internal_id: "C10006998851"
+label_id: "10004412724"
+dtd_version: "2.0"
+original_entry_into_force: "2010-08-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005001/2010-08-18/0"
+intitule_bron: "Trb.2011-20"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-02-04"
+intitule_in_force: "2011-02-04"
+intitule_status: "goed"
+original_publication: "Trb.2011-20"
+original_published_date: "2011-02-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-20"
+entry_into_force_date: "2010-08-18"
+jci_1_3: "jci1.3:c:BWBV0005001&z=2010-08-18&g=2010-08-18"
+jci_1_0: "1.0:c:BWBV0005001&g=2010-08-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-08-18"
 ---
-
 # Wijziging kostenverdeling en herverdeling van de beheerskosten als genoemd in artikel 6 lid 2 en 3 van de op 20 september 1972 gesloten overeenkomst tussen Waterschap Rivierenland en Deichverband "Kleve-Landesgrenze" inzake de waterafvoer uit het gemeenschappelijke Duits-Nederlandse stroomgebied naar het Hollands-Duits gemaal te Nijmegen
 
 Partijen
@@ -26,23 +48,23 @@ het Duitse deel 9.700 ha bedraagt en het Nederlandse deel door toevoeging van de
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005001&artikel=1&z=2010-08-18&g=2010-08-18) van deze wijzigingsovereenkomst bedoelde wijziging van het kostenaandeel van het Deichverband dient te worden herberekend vanaf 1 januari 1998. Dat is de datum dat de polder Erlecom rechtstreeks is gaan lozen op het gemeenschappelijk stroomgebied, hetgeen het Nederlands aandeel in de gemeenschappelijke waterafvoer heeft doen toenemen met 7%.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Overeenkomst tussen het Duitse Deichverband "Kleve-Landesgrenze" en het Nederlandse Polderdistrict "Maas en Waal" over de waterafvoer uit het gemeenschappelijke stroomgebied naar het gemaal te Nijmegen; Kranenburg, 20 september 1972.
 
-#### Artikel 4
+##### Artikel 4
 
 Verrekening van het verschil tussen het oorspronkelijke kostenaandeel van het Deichverband van 60% en het nieuwe kostenaandeel van 53% over de periode tussen 1 januari 1998 en 31 december 2009 heeft inmiddels plaatsgevonden. Met de ondertekening van deze overeenkomst wordt afgezien van verdere verrekeningen.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze wijziging van de op 20 september 1972 gesloten [overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0003825) treedt in werking op 1 januari 2010. Voor het overige blijft de op 20 september 1972 gesloten overeenkomst ongewijzigd.
 

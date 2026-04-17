@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen"
 identifier: "BWBV0003530"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1996-06-03
-laatste_update: 1996-06-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003530"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-06-03"
+last_updated: "1996-06-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003530"
+soort: "verdrag"
+stam_id: "10003577343"
+version_id: "10003634562"
+internal_id: "C10009635461"
+label_id: "10003562884"
+dtd_version: "2.0"
+original_entry_into_force: "1980-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003530/1996-06-03/0"
+intitule_bron: "Trb.1979-184"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1979-12-28"
+intitule_in_force: "1980-07-15"
+intitule_status: "goed"
+original_publication: "Trb.1979-184"
+original_published_date: "1979-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1979-184"
+entry_into_force_date: "1980-06-16"
+jci_1_3: "jci1.3:c:BWBV0003530&z=1996-06-03&g=1996-06-03"
+jci_1_0: "1.0:c:BWBV0003530&g=1996-06-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-06-16"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting met betrekking tot belastingen van nalatenschappen en verkrijgingen krachtens erfrecht en van schenkingen
 
 Het Koninkrijk der Nederlanden
@@ -20,7 +42,7 @@ De wens koesterende een Overeenkomst te sluiten tot het vermijden van dubbele be
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Deze Overeenkomst is van toepassing:
 
@@ -28,7 +50,7 @@ Deze Overeenkomst is van toepassing:
 
 - (b). op vermogensbestanddelen die zijn begrepen in vermogensrechtelijke regelingen (“settlements”), gemaakt door personen wier woonplaats ten tijde van het maken van de vermogensrechtelijke regelingen (“settlements”) in een van beide Staten was.
 
-#### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
+##### Artikel 2. Belastingen waarop de Overeenkomst van toepassing is
 
 (1). De belastingen die het onderwerp van deze Overeenkomst uitmaken, zijn:
 
@@ -38,7 +60,7 @@ Deze Overeenkomst is van toepassing:
 
 (2). Deze Overeenkomst is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van deze Overeenkomst naast of in plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de Staten delen elkaar alle wezenlijke wijzigingen die in hun onderscheiden belastingwetgevingen zijn aangebracht, mede.
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 (1). In deze Overeenkomst, tenzij het zinsverband anders vereist:
 
@@ -64,7 +86,7 @@ Deze Overeenkomst is van toepassing:
 
 (2). Voor de toepassing van de Overeenkomst door een van de Staten heeft, tenzij het zinsverband anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop de Overeenkomst van toepassing is.
 
-#### Artikel 4. Fiscale woonplaats
+##### Artikel 4. Fiscale woonplaats
 
 (1). Voor de toepassing van deze Overeenkomst had een persoon zijn woonplaats:
 
@@ -96,7 +118,7 @@ wordt hij, niettegenstaande de bepalingen van het tweede lid van dit artikel, ge
 
 Voor de toepassing van dit lid wordt, indien die andere Staat het Verenigd Koninkrijk is, de vraag of een persoon daar woonde op gelijke wijze beanwoord als voor de toepassing van de inkomstenbelasting (income tax), doch zonder dat rekening wordt gehouden met een woonhuis dat hem in het Verenigd Koninkrijk voor zijn gebruik ter beschikking stond, en betekent de uitdrukking „jaren” aanslagjaren voor de inkomstenbelasting (income tax), die eindigen met het aanslagjaar waarin het overlijden of de schenking plaatsvindt.
 
-#### Artikel 5. Onroerende vermogensbestanddelen
+##### Artikel 5. Onroerende vermogensbestanddelen
 
 (1). Onroerende vermogensbestanddelen mogen worden belast in de Staat waar deze vermogensbestanddelen zijn gelegen.
 
@@ -104,7 +126,7 @@ Voor de toepassing van dit lid wordt, indien die andere Staat het Verenigd Konin
 
 (3). De bepalingen van het eerste en tweede lid van dit artikel zijn ook van toepassing op onroerende vermogensbestanddelen van een onderneming en op onroerende vemogensbestanddelen gebezigd voor het verrichten van zelfstandige arbeid.
 
-#### Artikel 6. Bedrijfsvermogen van een vaste inrichting en bezittingen die behoren tot een vast middelpunt, gebezigd voor het verrichten van zelfstandige arbeid
+##### Artikel 6. Bedrijfsvermogen van een vaste inrichting en bezittingen die behoren tot een vast middelpunt, gebezigd voor het verrichten van zelfstandige arbeid
 
 (1). Bezittingen, met uitzondering van de bezittingen bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=7&z=1996-06-03&g=1996-06-03), die deel uitmaken van het bedrijfsvermogen van een vaste inrichting van een onderneming mogen worden belast in de Staat waar de vaste inrichting is gevestigd.
 
@@ -144,23 +166,23 @@ Voor de toepassing van dit lid wordt, indien die andere Staat het Verenigd Konin
 
 (7). De bepalingen van het eerste en zesde lid van dit artikel zijn van toepassing op een belang in een vennootschap onder firma of een maatschap, indien door de vennootschap onder firma of de maatschap een onderneming wordt gedreven of zelfstandige arbeid wordt verricht.
 
-#### Artikel 7. Schepen en luchtvaartuigen
+##### Artikel 7. Schepen en luchtvaartuigen
 
 Schepen en luchtvaartuigen, geëxploiteerd in internationaal verkeer, en schepen die dienen voor het vervoer in de binnenwateren en roerende zaken die worden gebruikt bij de exploitatie van deze schepen en luchtvaartuigen, mogen worden belast in de Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
-#### Artikel 8. Overige vermogensbestanddelen
+##### Artikel 8. Overige vermogensbestanddelen
 
 Onder voorbehoud van de bepalingen van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=11&z=1996-06-03&g=1996-06-03) zijn vermogensbestanddelen, waar ook gelegen, die niet worden behandeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=6&z=1996-06-03&g=1996-06-03) en [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=7&z=1996-06-03&g=1996-06-03), slechts belastbaar in de Staat waar de overledene of de schenker ten tijde van het overlijden of de schenking zijn woonplaats had.
 
-#### Artikel 9. Strijdigheid in wetgeving inzake de aard van vermogensbestanddelen
+##### Artikel 9. Strijdigheid in wetgeving inzake de aard van vermogensbestanddelen
 
 Indien de wetgeving van een van de Staten een recht of belang aanmerkt als een vermogensbestanddeel dat niet onder [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=6&z=1996-06-03&g=1996-06-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=7&z=1996-06-03&g=1996-06-03) valt, doch de wetgeving van de andere Staat dat recht of belang aanmerkt als een vermogensbestanddeel dat onder die artikelen valt, wordt dat recht of belang voor de toepassing van deze Overeenkomst aangemerkt als een vermogensbestanddeel dat onder die artikelen valt.
 
-#### Artikel 10. Aftrekposten
+##### Artikel 10. Aftrekposten
 
 Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aftrekposten toegelaten overeenkomstig de wetgeving van de Staat waar de belasting wordt geheven.
 
-#### Artikel 11. Subsidiaire heffingsrechten
+##### Artikel 11. Subsidiaire heffingsrechten
 
 (1). Indien de overledene of de schenker ten tijde van het overlijden of de schenking zijn woonplaats in een van de Staten had, op dat tijdstip onderdaan was van de andere Staat en op enig tijdstip in de tien jaren onmiddellijk voorafgaand aan het overlijden of de schenking zijn woonplaats in die andere Staat had gehad, mag die andere Staat belasting heffen overeenkomstig zijn nationale wetgeving.
 
@@ -172,7 +194,7 @@ Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aft
 
 (3). Indien vermogensbestanddelen ingevolge de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=8&z=1996-06-03&g=1996-06-03) slechts in Nederland belastbaar zijn en de overledene of de schenker hetzij onderdaan is van het Verenigd Koninkrijk en geen onderdaan van Nederland, hetzij voor de toepassing van de Nederlandse belasting wordt behandeld als een inwoner van Nederland op grond van de eenzijdige tien-jaren-regeling van dat land, mag het Verenigd Koninkrijk overeenkomstig zijn wetgeving ook belasting over die vermogensbestanddelen heffen, indien de bevoegde autoriteit van Nederland de bevoegde autoriteit van het Verenigd Koninkrijk mededeelt, dat de over die vermogensbestanddelen verschuldigde Nederlandse belasting niet is betaald (anders dan ten gevolge van een bepaalde vrijstelling, aftrekpost, verrekening of tegemoetkoming).
 
-#### Artikel 12. Vrijstellingen
+##### Artikel 12. Vrijstellingen
 
 (1). Indien vermogensbestanddelen, niet zijnde vermogensbestanddelen van een huwelijksgemeenschap, worden verkregen door de echtgenoot of echtgenote van een overledene die zijn woonplaats in Nederland had, en die vermogensbestanddelen in het Verenigd Koninkrijk uitsluitend op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=6&z=1996-06-03&g=1996-06-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=7&z=1996-06-03&g=1996-06-03) mogen worden belast, en de echtgenoot of echtgenote zijn of haar woonplaats niet in het Verenigd Koninkrijk had maar de verkrijging volledig zou zijn vrijgesteld indien de echtgenoot of echtgenote aldaar zijn of haar woonplaats zou hebben gehad, stelt het Verenigd Koninkrijk de vermogensbestanddelen vrij van belasting tot een bedrag van tenminste 50 percent van de verkregen waarde, berekend als een waarde waarover geen belasting is verschuldigd en na rekening te hebben gehouden met alle vrijstellingen, behalve die voor verkrijgingen tussen echtgenoten.
 
@@ -180,7 +202,7 @@ Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aft
 
 (3). Het tweede lid is niet van toepassing indien het Verenigd Koninkrijk ten tijde van het overlijden volgens de nationale wetgeving van dat land vermogensbestanddelen, verkregen door de echtgenoot of echtgenote van een overledene die dezelfde woonplaats heeft als de overledene, belast tot een bedrag van meer dan 50 percent van hun waarde.
 
-#### Artikel 13. Verrekeningsbepalingen
+##### Artikel 13. Verrekeningsbepalingen
 
 (1). Indien een van de Staten in verband met enige gebeurtenis belasting heft met betrekking tot vermogensbestanddelen die de andere Staat overeenkomstig [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=5&z=1996-06-03&g=1996-06-03), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=6&z=1996-06-03&g=1996-06-03) of [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003530&artikel=7&z=1996-06-03&g=1996-06-03) mag belasten, verleent de eerstbedoelde Staat een verrekening met dat gedeelte van zijn belasting (zoals overigens berekend) dat is toe te rekenen aan die vermogensbestanddelen; het te verrekenen bedrag (niet meer bedragend dan de aldus toe te rekenen belasting) is gelijk aan dat gedeelte van de in de andere Staat in verband met dezelfde gebeurtenis geheven belasting, dat is toe te rekenen aan die vermogensbestanddelen.
 
@@ -196,11 +218,11 @@ Bij de vaststelling van het bedrag waarover belasting wordt berekend, worden aft
 
 - (c). geldt belasting als in een van de Staten te zijn geheven, indien zij op grond van de wetgeving van die Staat is verschuldigd en daadwerkelijk betaald.
 
-#### Artikel 14. Termijn
+##### Artikel 14. Termijn
 
 Verzoeken om verrekening of terugbetaling van belasting, gegrond op de bepalingen van deze Overeenkomst, moeten worden ingediend binnen zes jaren te rekenen van de dag van de gebeurtenis waardoor belasting verschuldigd wordt, of, indien dit later is, binnen een jaar te rekenen van de laatste dag waarop belasting waarvoor een verrekening wordt gegeven, moet zijn voldaan.
 
-#### Artikel 15. Non-discriminatie
+##### Artikel 15. Non-discriminatie
 
 (1). Onderdanen van een van de Staten worden in de andere Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende verplichtingen, waaraan onderdanen van die andere Staat onder dezelfde omstandigheden zijn of kunnen worden onderworpen.
 
@@ -210,7 +232,7 @@ Verzoeken om verrekening of terugbetaling van belasting, gegrond op de bepalinge
 
 (4). Dit artikel mag niet aldus worden uitgelegd, dat het elk van de Staten verplicht aan natuurlijke personen die geen inwoner van die Staat zijn, bij de belastingheffing de persoonlijke aftrekken, tegemoetkomingen en verminderingen te verlenen, die worden verleend aan natuurlijke personen die wel inwoner zijn.
 
-#### Artikel 16. Onderling overleg
+##### Artikel 16. Onderling overleg
 
 (1). Indien een persoon van oordeel is dat de maatregelen van een van de Staten of van beide Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van deze Overeenkomst, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorzien, zijn geval voorleggen aan de bevoegde autoriteit van elk van de Staten. Het geval moet worden voorgelegd binnen drie jaren nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van de Overeenkomst, voor het eerst te zijner kennis is gebracht.
 
@@ -220,7 +242,7 @@ Verzoeken om verrekening of terugbetaling van belasting, gegrond op de bepalinge
 
 (4). De bevoegde autoriteiten van de Staten kunnen zich rechtstreeks met elkaar in verbinding stellen ten einde een overeenstemming als bedoeld in de voorgaande leden te bereiken.
 
-#### Artikel 17. Uitwisseling van inlichtingen
+##### Artikel 17. Uitwisseling van inlichtingen
 
 (1). De bevoegde autoriteiten van de Staten wisselen zodanige inlichtingen uit als nodig zijn om uitvoering te geven aan de bepalingen van deze Overeenkomst of aan de nationale wetgeving van de Staten met betrekking tot de belastingen waarop de Overeenkomst van toepassing is, voor zover de heffing van die belastingen niet in strijd is met de Overeenkomst. Alle door een van de Staten ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop de Overeenkomst van toepassing is. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekend maken in openbare rechtzittingen of in rechterlijke beslissingen.
 
@@ -232,17 +254,17 @@ Verzoeken om verrekening of terugbetaling van belasting, gegrond op de bepalinge
 
 - (c). inlichtingen te verstrekken die een handels-, bedrijfs-, nijverheids-, of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde.
 
-#### Artikel 18. Diplomatieke en consulaire ambtenaren
+##### Artikel 18. Diplomatieke en consulaire ambtenaren
 
 De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voorrechten aan die diplomatieke of consulaire ambtenaren ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
-#### Artikel 19. Uitbreiding tot andere gebieden
+##### Artikel 19. Uitbreiding tot andere gebieden
 
 (1). Deze Overeenkomst kan, hetzij in haar geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot gebieden voor wier internationale betrekkingen het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland verantwoordelijk is, alsmede tot de Nederlandse Antillen en Aruba, indien het desbetreffende gebied of land belastingen heft die in wezen gelijksoortig zijn aan de belastingen die het onderwerp van deze Overeenkomst uitmaken. Zulk een uitbreiding wordt van kracht met ingang van de dag en met inachtneming van de wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
 
 (2). Tenzij door beide Staten uitdrukkelijk anders is overeengekomen, wordt door de beëindiging van de Overeenkomst door een van de Staten niet tevens de toepasselijkheid van de Overeenkomst op het gebied of land waartoe zij ingevolge dit artikel is uitgebreid, beëindigd.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 (1). Elk van de Overeenkomstsluitende Partijen doet aan de andere Partij mededeling van de voltooiing van de procedure die volgens haar wetgeving is vereist om deze Overeenkomst in werking te doen treden.
 
@@ -258,7 +280,7 @@ De bepalingen van deze Overeenkomst tasten in geen enkel opzicht de fiscale voor
 
 (5). Het Verdrag van 1948 treedt buiten werking op de laatste dag waarop het in overeenstemming met de voorgaande bepalingen van dit artikel van toepassing is.
 
-#### Artikel 21. Beëindiging
+##### Artikel 21. Beëindiging
 
 (1). Deze Overeenkomst blijft van kracht totdat zij door een van de Overeenkomstsluitende Partijen is beëindigd. Elk van de Overeenkomstsluitende Partijen kan deze Overeenkomst op ieder tijdstip, vallende 5 jaren na de datum waarop deze Overeenkomst in werking treedt, langs diplomatieke weg opzeggen, mits ten minste 6 maanden van tevoren daarvan kennis is gegeven. In dat geval houdt de Overeenkomst op van toepassing te zijn aan het einde van de in de kennisgeving vermelde periode, doch blijft van toepassing op de nalatenschap van iedere persoon die voor het einde van die periode overlijdt en met betrekking tot iedere andere gebeurtenis dan overlijden, die voor het einde van die periode plaatsvindt en op grond van de wetgeving van een van de Staten een belastingschuld doet ontstaan.
 

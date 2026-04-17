@@ -1,20 +1,46 @@
 ---
-title: "OHBA-regeling 2022"
+title: "Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 februari 2022, nummer 3848377, houdende vaststelling van de Regeling onderwijshuisvestingsbudgetten asielzoekers 2022 (OHBA-regeling 2022)"
 identifier: "BWBR0046410"
-categorie: "Overig"
-publicatiedatum: 2025-02-06
-laatste_update: 2025-02-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046410"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-06"
+last_updated: "2025-02-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046410"
+soort: "ministeriele-regeling"
+stam_id: "16294303"
+version_id: "28471322"
+internal_id: "C40172361"
+label_id: "16220314"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046410/2025-02-06/0"
+intitule_bron: "Stcrt.2022-5642"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-02-25"
+intitule_published: "2022-03-10"
+intitule_in_force: "2022-03-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-5642"
+original_signed_date: "2022-02-25"
+original_published_date: "2022-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-5642"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046410&z=2025-02-06&g=2025-02-06"
+jci_1_0: "1.0:c:BWBR0046410&g=2025-02-06"
+citeertitel_status: "officieel"
+short_title: "OHBA-regeling 2022"
+signed_date: "2022-02-25"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Justitie en Veiligheid van 25 februari 2022, nummer 3848377, houdende vaststelling van de Regeling onderwijshuisvestingsbudgetten asielzoekers 2022 (OHBA-regeling 2022)
 
 Gelet op [artikel 5a, tweede lid, van het Faciliteitenbesluit opvangcentra](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **leerlingaantal:** het aantal leerlingen dat basisonderwijs volgt en dat verblijft in een opvangcentrum voor asielzoekers.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag voor een uitkering ten behoeve van voorzieningen voor basisonderwijs aan asielzoekers, bedoeld in het eerste lid van [artikel 5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), kan zowel een eerste aanvraag betreffen, als een aanvraag wegens uitbreiding, een aanvraag wegens een verlenging van de bestuursovereenkomst of een opvolgende aanvraag.
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 8. Indien binnen een jaar voor hetzelfde opvangcentrum een nieuwe bestuursovereenkomst in werking treedt en op basis hiervan een aanvraag wordt ingediend, wordt deze aanvraag behandeld als een voortzetting van de eerdere aanvraag, waarbij het teruggevorderde bedrag voor de resterende looptijd opnieuw zal worden toegekend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De normbedragen die gebruikt worden voor de vaststelling van de bijdragen volgen uit [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&bijlage=I&z=2025-02-06&g=2025-02-06) bij deze regeling.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 4. De minister kan daarnaast de hoogte van de normbedragen aanpassen indien bijzondere omstandigheden hiertoe aanleiding geven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De looptijd van de eerste aanvraag in geval van een nieuwe bestuursovereenkomst is gelijk aan de totale looptijd van de bestuursovereenkomst, met een maximum van vijftien jaar.
 
@@ -88,7 +114,7 @@ In deze regeling wordt verstaan onder:
 
 6. Een verlenging van de bestuursovereenkomst met vijftien jaar of meer wordt in alle gevallen behandeld als een opvolgende aanvraag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij een eerste aanvraag wordt, in geval het aantal leerlingen nog niet bekend is, het aantal leerlingen vastgesteld door het in het tweede lid, bedoelde percentage te vermenigvuldigen met de in de bestuursovereenkomst afgesproken maximale bezetting van de opvanglocatie.
 
@@ -102,7 +128,7 @@ In deze regeling wordt verstaan onder:
 
 6. De peildata voor vaststelling van het aantal leerlingen bij een uitbreiding met zes of meer leerlingen zijn 1 januari, 1 april, 1 juli en 1 oktober van ieder jaar. In geval van een uitbreiding met vijf of minder leerlingen is het peilmoment 1 oktober van elk jaar.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het aantal vierkante meters waarop een bijdrage bij een eerste aanvraag, een verlenging of een opvolgende aanvraag wordt gebaseerd, wordt vastgesteld volgens de formule:
 
@@ -182,7 +208,7 @@ N staat voor het aantal extra vierkante meters, bedoeld in het tweede lid.
 
 7. De looptijd wordt uitgedrukt in jaren, rekenkundig afgerond op twee cijfers achter de komma en met een maximum van vijftien jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), bestaat uit een bijdrage voor het schoolgebouw en een bijdrage voor het terrein.
 
@@ -292,7 +318,7 @@ V staat voor het variabele normbedrag voor het terrein;
 
 N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2025-02-06&g=2025-02-06).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), bestaat uit een bijdrage voor de eerste inrichting, het onderwijsleerpakket en het meubilair.
 
@@ -302,7 +328,7 @@ N staat voor aantal extra vierkante meters, bedoeld in [artikel 6, tweede lid](h
 
 4. Bij een verlenging doen deze kosten zich niet meer voor en zullen deze niet opnieuw worden vergoed.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), bestaat uit een bijdrage voor de stichting en materiële instandhouding van de gymnastiekaccommodatie ten behoeve van het primair onderwijs.
 
@@ -334,7 +360,7 @@ K staat voor het variabele normbedrag voor de stichting en materiële instandhou
 
 Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2025-02-06&g=2025-02-06).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a), bestaat uit een bijdrage in de onroerendezaakbelastingen.
 
@@ -366,7 +392,7 @@ X staat voor het variabele normbedrag voor de onroerendezaakbelastingen;
 
 Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2025-02-06&g=2025-02-06).
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bijdrage, bedoeld in [artikel 5a, eerste lid, onderdeel e, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0006849&artikel=5a) bestaat uit een bijdrage in de kosten van de verzekering van de roerende en onroerende zaken. De verzekering bestaat uit een brandverzekering, een uitgebreide gevarenverzekering, een glasverzekering, een verzekering tegen risico van buitenvandalisme en een eigen gebrek- constructiefoutenverzekering.
 
@@ -425,15 +451,15 @@ Z staat voor het variabele normbedrag voor de verzekeringen;
 
 Y staat voor looptijd, bedoeld in [artikel 6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046410&artikel=6&z=2025-02-06&g=2025-02-06).
 
-#### Artikel 12
+##### Artikel 12
 
 De [Regeling onderwijshuisvestingsbudgetten asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0009908) komt te vervallen.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als OHBA-regeling 2022.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Deze regeling treedt in werking met ingang van 1 april 2022 en werkt terug tot en met 1 januari 2021. Zij is van toepassing op eerste aanvragen, verlengingsaanvragen en opvolgende aanvragen waarbij de datum van inwerkingtreding van de bestuursovereenkomst, van de verlenging van de bestuursovereenkomst of de dag na de datum waarop de maximale looptijd van vijftien jaar wordt overschreden op of na 1 januari 2021 valt. Zij is tevens van toepassing op uitbreidingen waarbij de peildatum voor vaststelling van het aantal leerlingen op of na 1 januari 2021 ligt.
 

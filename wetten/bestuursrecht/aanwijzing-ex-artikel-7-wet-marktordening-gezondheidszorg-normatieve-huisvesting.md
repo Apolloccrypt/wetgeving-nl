@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (normatieve huisvestingscomponenten in tarieven intramurale AWBZ)"
+title: "Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 12 juli 2011, nr. MC-U-3072372, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ"
 identifier: "BWBR0030282"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030282"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030282"
+soort: "ministeriele-regeling"
+stam_id: "11404843"
+version_id: "18718982"
+internal_id: "C26115611"
+label_id: "11378574"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030282/2014-04-01/0"
+intitule_bron: "Stcrt.2011-13319"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-12"
+intitule_published: "2011-07-21"
+intitule_in_force: "2011-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-13319"
+original_signed_date: "2011-07-12"
+original_published_date: "2011-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-13319"
+entry_into_force_date: "2011-07-21"
+jci_1_3: "jci1.3:c:BWBR0030282&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0030282&g=2014-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (normatieve huisvestingscomponenten in tarieven intramurale AWBZ)"
+signed_date: "2011-07-12"
+entry_into_force: "2011-07-21"
 ---
-
 # Aanwijzing van de minister van Volksgezondheid, Welzijn en Sport van 12 juli 2011, nr. MC-U-3072372, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake normatieve huisvestingscomponenten in tarieven intramurale AWBZ
 
 ### Hoofdstuk 1. Algemeen
@@ -28,7 +54,7 @@ Gelet op de brief van de staatssecretaris van 1 juli 2011 (DLZ-U-3071383) ten be
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In deze aanwijzing wordt verstaan onder:
 
 - j. **invoeringsperiode:** de periode van 1 januari 2012 tot en met 31 december 2017.
 
-#### Artikel 2. werkingssfeer en uitvoering
+##### Artikel 2. werkingssfeer en uitvoering
 
 1. Deze aanwijzing heeft betrekking op huisvestingskosten ten behoeve van het verlenen van:
 
@@ -66,13 +92,13 @@ In deze aanwijzing wordt verstaan onder:
 
 2. De zorgautoriteit stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
-#### Artikel 3. budgettaire neutraliteit
+##### Artikel 3. budgettaire neutraliteit
 
 De uitvoering van deze aanwijzing gebeurt budgettair neutraal.
 
 ### Hoofdstuk 2. AWBZ-instellingen
 
-#### Artikel 4. prestatiebeschrijving en tariefsoort
+##### Artikel 4. prestatiebeschrijving en tariefsoort
 
 1. De zorgautoriteit stelt met ingang van 1 januari 2012 prestatiebeschrijvingen en bijbehorende beleidsregelwaarden voor de tariefvaststelling voor alle per die datum vigerende zzp's zodanig vast dat deze tevens een afzonderlijk zichtbare nhc omvatten volgens het principe van de modulaire opbouw.
 
@@ -82,7 +108,7 @@ De uitvoering van deze aanwijzing gebeurt budgettair neutraal.
 
 - b. voor overige AWBZ-instellingen: een maximumtarief als bedoeld in [artikel 57, vierde lid, onder b, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57).
 
-#### Artikel 5. opbouw nhc's, elementen met vaste waarde
+##### Artikel 5. opbouw nhc's, elementen met vaste waarde
 
 Bij de opbouw van de nhc's hanteert de zorgautoriteit voor onderstaande elementen de volgende vaste waarden:
 
@@ -98,7 +124,7 @@ Bij de opbouw van de nhc's hanteert de zorgautoriteit voor onderstaande elemente
 
 - f. algemene toeslag: gemiddeld twee procent op de nhc’s voor onderscheidenlijk de verpleging en verzorging, de gehandicaptenzorg en de geestelijke gezondheidszorg.
 
-#### Artikel 6. opbouw nhc's, element rente
+##### Artikel 6. opbouw nhc's, element rente
 
 1. Wat betreft het element ‘rente’ in de nhc's hanteert de zorgautoriteit een generieke normatieve rente die voor bestaande en nieuwe leningen gelijk is.
 
@@ -106,7 +132,7 @@ Bij de opbouw van de nhc's hanteert de zorgautoriteit voor onderstaande elemente
 
 3. De zorgautoriteit houdt voor de jaren na 2012 in het kader van het algehele onderhoud van de nhc’s als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=4&artikel=15&z=2014-04-01&g=2014-04-01) rekening met de renteontwikkelingen. Er vindt niet eerder een rentebijstelling plaats dan nadat de zorgautoriteit het onderhoudsplan als bedoeld in dat artikel heeft vastgesteld.
 
-#### Artikel 7. afbouw nacalculatie en opbouw risico
+##### Artikel 7. afbouw nacalculatie en opbouw risico
 
 De zorgautoriteit voorziet erin dat voor bestaande AWBZ-instellingen wat betreft de kapitaallasten het aandeel nacalculatie in de bekostiging gedurende de invoeringsperiode wordt afgebouwd en bekostiging op basis van nhc's wordt opgebouwd volgens navolgend schema:
 
@@ -121,11 +147,11 @@ De zorgautoriteit voorziet erin dat voor bestaande AWBZ-instellingen wat betreft
 | 2017 | 15 | 85 |
 | 2018 | 0 | 100 |
 
-#### Artikel 8. systeem van nacalculeren
+##### Artikel 8. systeem van nacalculeren
 
 De zorgautoriteit hanteert een nacalculatiesysteem waarin overschrijdingen van zowel zorgkosten als nhc's van een AWBZ-instelling worden geredresseerd.
 
-#### Artikel 9. compensatieregeling vaste activa
+##### Artikel 9. compensatieregeling vaste activa
 
 De zorgautoriteit voorziet voor bestaande AWBZ-instellingen in een compensatieregeling met betrekking tot vaste activa waarvan zij economisch eigenaar zijn en welke in de balans van de jaarrekening van de desbetreffende instellingen zijn opgenomen:
 
@@ -143,31 +169,31 @@ De zorgautoriteit voorziet voor bestaande AWBZ-instellingen in een compensatiere
 
 - e. de door de zorgautoriteit ter zake vastgestelde vergoeding wordt toegevoegd aan de aanvaardbare kosten in zes gelijke tranches verdeeld over de jaren 2012 tot en met 2017.
 
-#### Artikel 10. interimvoorzieningen
+##### Artikel 10. interimvoorzieningen
 
 De zorgautoriteit voorziet erin dat ten aanzien van na 31 december 2012 in gebruik te nemen interimhuisvesting de kosten per vierkante meter aan een maximum worden gebonden, aansluitend bij het referentiekader voor interimhuisvesting in de care van het College bouw zorginstellingen van februari 2007.
 
-#### Artikel 11. kleinschalig wonen
+##### Artikel 11. kleinschalig wonen
 
 De zorgautoriteit voorziet erin dat gedurende de invoeringsperiode voor de initiatieven die als kleinschalige woonvoorziening zijn gerealiseerd, met betrekking tot de nhc's en het ingroeitraject hetzelfde regime wordt gehanteerd als voor de niet-kleinschalige voorzieningen.
 
-#### Artikel 12. zorginfrastructuur
+##### Artikel 12. zorginfrastructuur
 
 De zorgautoriteit voorziet erin dat kosten voor extramurale zorginfrastructuur tijdens de invoeringsperiode volledig nagecalculeerd worden. Met kosten voor extramurale zorginfrastructuur worden bedoeld kosten van huisvesting voor het ‘halen en brengen’ van AWBZ-zorg buiten de muren van de instelling.
 
 ### Hoofdstuk 3. GGZ-instellingen en kinderdagcentra
 
-#### Artikel 13. GGZ-instellingen
+##### Artikel 13. GGZ-instellingen
 
 De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de huisvestingskosten van GGZ-instellingen overeenkomstig de wijze als voorzien in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&z=2014-04-01&g=2014-04-01) van deze aanwijzing, met dien verstande dat de huisvestingskosten met betrekking tot verblijf met behandeling ten laste van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) in 2012 honderd procent worden nagecalculeerd.
 
-#### Artikel 14. kinderdagcentra
+##### Artikel 14. kinderdagcentra
 
 De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de kapitaalcomponent van de extramurale prestaties van kinderdagcentra overeenkomstig de opbouw van nhc's en het invoeringsregime als bedoeld in de [artikelen 4 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0030282&hoofdstuk=2&artikel=4&z=2014-04-01&g=2014-04-01) van deze aanwijzing.
 
 ### Hoofdstuk 4. Slot
 
-#### Artikel 15. onderhoud nhc's
+##### Artikel 15. onderhoud nhc's
 
 1. De zorgautoriteit voorziet uiterlijk 1 januari 2012 in een plan voor het onderhoud van de nhc's waarbij zij in ieder geval aandacht besteedt aan:
 
@@ -179,10 +205,10 @@ De zorgautoriteit voorziet in een adequate bekostigingsregeling voor de kapitaal
 
 2. De zorgautoriteit overlegt met mij over de inhoud van het plan alvorens dat vast te stellen en daaraan uitvoering te geven.
 
-#### Artikel 16. monitoring
+##### Artikel 16. monitoring
 
 De zorgautoriteit monitort zorgvuldig de voortgang en de effecten van de maatregelen voortvloeiende uit deze aanwijzing en informeert mij daarover op nader overeen te komen wijze.
 
-#### Artikel 17. inwerkingtreding en publicatie
+##### Artikel 17. inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

@@ -1,13 +1,36 @@
 ---
 title: "Voorlichtingspublicatie meetjaar lumpsum primair onderwijs en scholen voor praktijkonderwijs met declaratiebekostiging"
 identifier: "BWBR0016601"
-categorie: "Onderwijs"
-publicatiedatum: 2004-04-28
-laatste_update: 2004-04-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016601"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2004-04-28"
+last_updated: "2004-04-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016601"
+soort: "beleidsregel"
+stam_id: "6463403"
+version_id: "11139572"
+internal_id: "C15058171"
+label_id: "6452404"
+original_entry_into_force: "2004-04-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016601/2004-04-28/0"
+intitule_bron: "Uitleg.2004-8a"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-12"
+intitule_published: "2004-04-28"
+intitule_in_force: "2004-04-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2004-8a"
+original_signed_date: "2004-04-12"
+original_published_date: "2004-04-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2004-04-28"
+jci_1_3: "jci1.3:c:BWBR0016601&z=2004-04-28&g=2004-04-28"
+jci_1_0: "1.0:c:BWBR0016601&g=2004-04-28"
+citeertitel_status: "redactioneel"
+signed_date: "2004-04-12"
+entry_into_force: "2004-04-28"
 ---
-
 # Voorlichtingspublicatie meetjaar lumpsum primair onderwijs en scholen voor praktijkonderwijs met declaratiebekostiging
 
 ### Inleiding

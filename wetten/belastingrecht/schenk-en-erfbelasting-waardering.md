@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting, waardering"
 identifier: "BWBR0046800"
-categorie: "Belastingrecht"
-publicatiedatum: 2022-06-25
-laatste_update: 2022-06-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046800"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-06-25"
+last_updated: "2022-06-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046800"
+soort: "beleidsregel"
+stam_id: "16389123"
+version_id: "28702782"
+internal_id: "C40499681"
+label_id: "16313664"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046800/2022-06-25/0"
+intitule_bron: "Stcrt.2022-16195"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-06-15"
+intitule_published: "2022-06-24"
+intitule_in_force: "2022-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16195"
+original_signed_date: "2022-06-15"
+original_published_date: "2022-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16195"
+entry_into_force_date: "2022-06-25"
+jci_1_3: "jci1.3:c:BWBR0046800&z=2022-06-25&g=2022-06-25"
+jci_1_0: "1.0:c:BWBR0046800&g=2022-06-25"
+citeertitel_status: "redactioneel"
+signed_date: "2022-06-15"
+entry_into_force: "2022-06-25"
 ---
-
 # Schenk- en erfbelasting, waardering
 
 **Dit besluit is een actualisering van het besluit van 20 april 2015, nr. BLKB2015/488M en bevat het beleid voor de schenk- en erfbelasting over de waardering op grond van artikel 21 van de Successiewet 1956. De onderdelen 2, 3, 4 (nu 5) en 5 (nu 6) zijn geactualiseerd en wat betreft formulering aangepast. De onderdelen 4, 7 en 8 zijn nieuw.**

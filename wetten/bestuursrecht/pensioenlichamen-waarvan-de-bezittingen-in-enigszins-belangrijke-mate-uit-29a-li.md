@@ -1,13 +1,37 @@
 ---
 title: "Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan"
 identifier: "BWBR0009373"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-02-09
-laatste_update: 1998-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009373"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1998-02-09"
+last_updated: "1998-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009373"
+soort: "beleidsregel"
+stam_id: "8376503"
+version_id: "13249262"
+internal_id: "C18427171"
+label_id: "8357194"
+dtd_version: "2.0"
+original_entry_into_force: "1998-02-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009373/1998-02-09/0"
+intitule_bron: "Infob.1998-2"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-09"
+intitule_published: "1998-01-01"
+intitule_in_force: "1998-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1998-2"
+original_signed_date: "1998-02-09"
+original_published_date: "1998-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-02-09"
+jci_1_3: "jci1.3:c:BWBR0009373&z=1998-02-09&g=1998-02-09"
+jci_1_0: "1.0:c:BWBR0009373&g=1998-02-09"
+citeertitel_status: "redactioneel"
+signed_date: "1998-02-09"
+entry_into_force: "1998-02-09"
 ---
-
 # Pensioenlichamen waarvan de bezittingen in enigszins belangrijke mate uit 29a-lichamen bestaan
 
 De plv. Directeur-Generaal der Belastingen heeft namens de Staatssecretaris van Financiën het volgende besloten.

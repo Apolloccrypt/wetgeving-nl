@@ -1,13 +1,35 @@
 ---
 title: "Aanvullende Overeenkomst bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantische Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten"
 identifier: "BWBV0005381"
-categorie: "Internationaal recht"
-publicatiedatum: 1998-06-05
-laatste_update: 1998-06-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005381"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-06-05"
+last_updated: "1998-06-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005381"
+soort: "verdrag"
+stam_id: "10004596473"
+version_id: "10004838522"
+internal_id: "C10008335721"
+label_id: "10004582004"
+dtd_version: "2.0"
+original_entry_into_force: "1963-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005381/1998-06-05/0"
+intitule_bron: "Trb.1960-37"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-04-22"
+intitule_in_force: "1963-07-19"
+intitule_status: "goed"
+original_publication: "Trb.1960-37"
+original_published_date: "1960-04-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-37"
+entry_into_force_date: "1963-07-01"
+jci_1_3: "jci1.3:c:BWBV0005381&z=1998-06-05&g=1998-06-05"
+jci_1_0: "1.0:c:BWBV0005381&g=1998-06-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "1963-07-01"
 ---
-
 # Aanvullende Overeenkomst bij het Verdrag tussen de Staten die partij zijn bij het Noordatlantische Verdrag nopens de rechtspositie van hun krijgsmachten, met betrekking tot de in de Bondsrepubliek Duitsland gestationeerde buitenlandse krijgsmachten
 
 Het Koninkrijk België,
@@ -38,11 +60,11 @@ Verlangende daarmede de Noordatlantische Gemeenschap verder te versterken;
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Het op 19 juni 1951 te Londen ondertekende Verdrag tussen de Staten die partij zijn bij het Noordatlantische Verdrag nopens de rechtspositie van hun krijgsmachten (hierna te noemen „NAVO-Status Verdrag”), wordt voor wat betreft de rechten en verplichtingen van de krijgsmachten van het Koninkrijk België, Canada, de Franse Republiek, het Koninkrijk der Nederlanden, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika op het grondgebied van de Bondsrepubliek Duitsland (hierna te noemen „de Bondsrepubliek”) aangevuld met de bepalingen van deze Aanvullende Overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor zover niet anders is bepaald, wordt in deze Overeenkomst verstaan onder:
 
@@ -64,7 +86,7 @@ Het op 19 juni 1951 te Londen ondertekende Verdrag tussen de Staten die partij z
 
 - b). Indien een lid van een krijgsmacht of van een civiele dienst overlijdt of het grondgebied van de Bondsrepubliek als gevolg van overplaatsing verlaat, worden de gezinsleden van een zodanig lid, met inbegrip van naaste bloedverwanten als bedoeld in dit lid onder **a,** nog gedurende negentig dagen na dat overlijden of die overplaatsing geacht te zijn en behandeld, als gezinsleden in de zin van artikel I, eerste lid, onder **c** van het NAVO-Status Verdrag, indien zij zich op het grondgebied van de Bondsrepubliek bevinden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. In overeenstemming met de krachtens het Noordatlantische Verdrag op de partijen bij dat Verdrag rustende verplichtingen om elkaar hulp te verlenen, werken de Duitse autoriteiten en de autoriteiten van de krijgsmachten nauw samen ter verzekering van de uitvoering van het NAVO-Status Verdrag en van deze Overeenkomst.
 
@@ -86,13 +108,13 @@ Het op 19 juni 1951 te Londen ondertekende Verdrag tussen de Staten die partij z
 
 6. De Duitse autoriteiten en de autoriteiten van een krijgsmacht wijzen gemeenschappelijk grensoverschrijdingsposten aan, waar liaison-personeel van de staat van herkomst zal worden gestationeerd. Dit personeel staat de Duitse autoriteiten bij in hun controlewerkzaamheden ter verzekering van de snelle en ongehinderde doortocht van de krijgsmacht, de civiele dienst, hun leden en gezinsleden en hun medegevoerde bagage, alsmede van goederen en materialen die door de krijgsmacht of te haren behoeve of voor haar rekening ten gebruike door de krijgsmacht of de civiele dienst, hun leden en gezinsleden worden verzonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitoefening van rechten en de vervulling van verplichtingen door een staat van herkomst ingevolge het NAVO-Status Verdrag en deze Overeenkomst kunnen met toestemming van de Bondsregering plaatsvinden door andere staten van herkomst, in overeenstemming met tussen de betrokken staten van herkomst te sluiten administratieve overeenkomsten.
 
 2. Tot aan de inwerkingtreding van de in het eerste lid van dit artikel bedoelde administratieve overeenkomsten blijven de overeenkomsten tussen de betrokken staten van herkomst die de uitoefening van rechten en de vervulling van verplichtingen op het tijdstip van de inwerkingtreding van deze Overeenkomst beheersen, van toepassing op de gebieden waarop zij betrekking hebben, tenzij de betrokken staat van herkomst de andere betrokken staat van herkomst en de Bondsrepubliek in kennis stelt van zijn voornemen de laatstgenoemde overeenkomsten niet langer toe te passen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met betrekking tot de legitimatieplicht op het grondgebied van de Bondsrepubliek gelden de volgende bepalingen:
 
@@ -114,7 +136,7 @@ De autoriteiten van de krijgsmacht vervangen een zodanige verklaring zo spoedig 
 
 - c). De controle van identiteitsbewijzen bij binnenkomst of vertrek via militaire vliegvelden van een krijgsmacht is in beginsel gelijk aan de grenscontrole bij grensoverschrijdingen over land. Bij binnenkomst of vertrek via militaire vliegvelden van leden van een krijgsmacht of een civiele dienst of gezinsleden volstaan de Duitse autoriteiten echter met steekproeven die plaatsvinden na overleg met de autoriteiten van het betrokken vliegveld; een regelmatige controle van de identiteit van zulke personen wordt uitgevoerd door de autoriteiten van de krijgsmacht. De controle van de identiteitsbewijzen van personen niet behorend tot de categorieën bedoeld in de vorige volzin, die het grondgebied van de Bondsrepubliek binnenkomen of verlaten via militaire vliegvelden van een krijgsmacht, wordt uitgevoerd door de Duitse autoriteiten, die door de autoriteiten van de krijgsmacht op de hoogte worden gesteld van de aankomst van die personen. Deze controle vindt plaats bij het betreden of het verlaten van het vliegveld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Leden van een krijgsmacht of een civiele dienst en gezinsleden zijn niet onderworpen aan de Duitse voorschriften op het gebied van de aanmelding (Meldewesen) en de vreemdelingencontrole (Ausländerpolizei), behalve met betrekking tot de inschrijving in hotels en soortgelijke inrichtingen (Beherbergungsstätten).
 
@@ -122,11 +144,11 @@ De autoriteiten van de krijgsmacht vervangen een zodanige verklaring zo spoedig 
 
 3. De autoriteiten van de krijgsmacht delen de Duitse autoriteiten op hun verzoek het aantal leden van de civiele dienst en het aantal gezinsleden mede.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij toepassing van internationale overeenkomsten of andere op het grondgebied van de Bondsrepubliek van kracht zijnde regelingen betreffende verblijf (Aufenthalt) en vestiging (Niederlassung), voorzover zij betrekking hebben op repatriëring, uitwijzing, verlenging van verblijfsvergunningen of de uitoefening van een beroep, wordt de tijd, doorgebracht op het grondgebied van de Bondsrepubliek als lid van een krijgsmacht of een civiele dienst of als gezinslid, buiten beschouwing gelaten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een bevoegde Duitse autoriteit voornemens is een van de maatregelen te nemen, waartoe een staat van verblijf bevoegd is ingevolge artikel III, vijfde lid, eerste volzin van het NAVO-Status Verdrag, stelt die autoriteit de bevoegde autoriteit van de betrokken staat van herkomst van dit voornemen in kennis, onder mededeling van de redenen waarop de voorgenomen maatregel is gebaseerd en stelt die autoriteit in de gelegenheid binnen een redelijke termijn haar mening hierover kenbaar te maken dan wel zelf de maatregelen te nemen die zij gepast acht. De Duitse autoriteiten nemen het eventueel door de staat van herkomst ingenomen standpunt en de eventueel door de autoriteiten van die staat genomen maatregelen in welwillende overweging.
 
@@ -134,7 +156,7 @@ Bij toepassing van internationale overeenkomsten of andere op het grondgebied va
 
 3. Verzoeken om verwijderingen en uitwijzingsbevelen worden slechts gedaan, onderscheidenlijk gegeven, indien de bevoegde Duitse autoriteit van mening is, dat op het tijdstip dat het verzoek of het bevel wordt gedaan, onderscheidenlijk gegeven, het verdere verblijf van de betrokken persoon op het grondgebied van de Bondsrepubliek de openbare orde of veiligheid daadwerkelijk in gevaar brengt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een bewijs of andere machtiging, afgegeven door een autoriteit van een Staat van herkomst aan een lid van een krijgsmacht of van een civiele dienst, op grond waarvan de houder bevoegd is dienstvoertuigen, -vaartuigen of -luchtvaartuigen te besturen, is geldig voor die voertuigen, vaartuigen of luchtvaartuigen binnen het grondgebied van de Bondsrepubliek. Rijbewijzen voor dienstvoertuigen machtigen ook, voor zover zulks volgens het recht van de Staat van herkomst is toegestaan, tot het besturen van overeenkomstige particuliere voertuigen. De autoriteiten van de Staat van herkomst of van zijn krijgsmacht zijn bevoegd op grond van bedoelde rijbewijzen ook rijbewijzen voor het besturen van overeenkomstige particuliere voertuigen af te geven.
 
@@ -164,7 +186,7 @@ Bij toepassing van internationale overeenkomsten of andere op het grondgebied va
 
 - b. Op verzoek van de Duitse autoriteiten treffen de autoriteiten van de krijgsmacht de nodige maatregelen tegen houders van vliegbrevetten welke ingevolge het eerste lid van dit artikel geldig zijn op het grondgebied van de Bondsrepubliek die de luchtverkeersvoorschriften niet in acht hebben genomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Motorrijtuigen en aanhangwagens van motorrijtuigen van een krijgsmacht of een civiele dienst, van leden van een krijgsmacht of een civiele dienst of van gezinsleden kunnen door de autoriteiten van die krijgsmacht worden geregistreerd en toegelaten. Met inachtneming van de in het kader van internationale overeenkomsten toepasselijke voorschriften geldt hetzelfde ten aanzien van vaartuigen van een krijgsmacht. Luchtvaartuigen van een krijgsmacht of een civiele dienst, van leden van een krijgsmacht of een civiele dienst, of van gezinsleden worden door de autoriteiten van de staat van herkomst geregistreerd en toegelaten in overeenstemming met de toepasselijke internationale voorschriften.
 
@@ -182,7 +204,7 @@ Bij toepassing van internationale overeenkomsten of andere op het grondgebied va
 
 5. De autoriteiten van een krijgsmacht nemen passende veiligheidsmaatregelen met betrekking tot motorrijtuigen, aanhangwagens, vaartuigen en luchtvaartuigen die door hen zijn geregistreerd en toegelaten of in gebruik zijn bij de krijgsmacht op het gebied van de Bondsrepubliek.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Leden van een krijgsmacht, van een civiele dienst en gezinsleden mogen op het gebied van de Bondsrepubliek particuliere motorrijtuigen, aanhangwagens en luchtvaartuigen slechts gebruiken of laten gebruiken indien de uit dat gebruik voortvloeiende risico's worden gedekt door verzekering tegen wettelijke aansprakelijkheid in overeenstemming met de Duitse wetgeving.
 
@@ -190,7 +212,7 @@ Bij toepassing van internationale overeenkomsten of andere op het grondgebied va
 
 3. Voorzover in de staten van herkomst deviezenvoorschriften bestaan dragen deze staten er zorg voor, dat alle betalingen die moeten worden verricht door verzekeraars of combinaties van verzekeraars die op hun grondgebied tot de uitoefening van het verzekeringsbedrijf bevoegd zijn, kunnen geschieden op het grondgebied van de Bondsrepubliek en in de valuta van de Bondsrepubliek.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De autoriteiten van een krijgsmacht kunnen leden van een civiele dienst en andere personen in dienst bij de krijgsmacht machtigen tot het bezitten en dragen van wapenen in verband met de verantwoordelijkheid van die personen voor de beveiliging van geld of goederen of de omstandigheid dat zij in bijzondere mate gevaar lopen tengevolge van het speciale karakter van hun officiële functie of werkzaamheden.
 
@@ -200,23 +222,23 @@ Bij toepassing van internationale overeenkomsten of andere op het grondgebied va
 
 4. De autoriteiten van de krijgsmacht geven deze verklaringen uitsluitend af aan personen omtrent wier betrouwbaarheid geen gerede twijfel bestaat. Zij trekken op verzoek van de Duitse autoriteiten of op grond van hun eigen beslissing een verklaring in, indien is komen vast te staan dat de houder zijn vuurwapen heeft misbruikt of indien er gerede twijfel bestaat omtrent zijn betrouwbaarheid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Voorzover niet uitdrukkelijk anders is bepaald, zijn internationale overeenkomsten of andere op het grondgebied van de Bondsrepubliek van kracht zijnde voorschriften betreffende sociale zekerheid, met inbegrip van sociale en medische verzorging, niet van toepassing op de leden van een krijgsmacht, van een civiele dienst en op gezinsleden. De rechten en verplichtingen van deze personen op het gebied van sociale zekerheid die zijn ontstaan gedurende een vroeger verblijf op het grondgebied van de Bondsrepubliek blijven echter onaangetast. De omstandigheid dat een persoon behoort tot een van de categorieën als bedoeld in de bovenstaande volzinnen sluit bovendien de mogelijkheid niet uit dat hij premiën betaalt voor de Duitse sociale verzekering (soziale Kranken- und Rentenversicherung) teneinde de verzekering op basis van vrijwilligheid voort te zetten (freiwillige Weiterversicherung), noch de mogelijkheid dat hij rechten voortvloeiend uit een bestaande verzekering verkrijgt en laat gelden.
 
 2. De verplichtingen van een lid van een krijgsmacht of een civiele dienst of van een gezinslid in zijn hoedanigheid van werkgever worden niet aangetast door de bepalingen van dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is vrijgesteld van de verplichting een huwelijksbevoegdheidscertificaat (Ehefähigkeitszeugnis) over te leggen mogen de te betalen leges - waarvan de grootte wordt vastgesteld in overeenstemming met de omvang en de moeilijkheden van de daartoe te verrichten administratieve werkzaamheden - de som van vijftig Duitse marken niet te boven gaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De verplichting ingevolge de Duitse wetgeving om aangifte te doen van geboorte en overlijden bij een ambtenaar van de Duitse Burgerlijke Stand geldt niet ten aanzien van de geboorte van een kind van, of de dood van, een lid van een krijgsmacht of van een civiele dienst of van een gezinslid; wordt evenwel van een zodanige geboorte of overlijden bij een ambtenaar van de Duitse Burgerlijke Stand aangifte gedaan, dan vindt inschrijving plaats overeenkomstig de voorschriften van de Duitse wetgeving.
 
 2. De verplichting tot aangifte van geboorte en van overlijden blijft bestaan indien het kind of de overledene een Duitser is.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De militaire autoriteiten van een Staat van herkomst zijn, in overeenstemming met de in die Staat geldende voorschriften, gerechtigd te beschikken over de stoffelijke resten van de leden van de krijgsmacht, van de civiele dienst en van gezinsleden die zijn overleden op het grondgebied van de Bondsrepubliek, alsmede die lijkschouwingen te verrichten die uit medische overwegingen of met het oog op een strafrechtelijk onderzoek noodzakelijk zijn. Verzoeken van Duitse autoriteiten om lijkschouwingen te verrichten worden ingewilligd; in geval van lijkschouwingen uit medische overwegingen geldt zulks slechts in zoverre een lijkschouwing krachtens het recht van de Staat van herkomst is toegestaan. Bij een lijkschouwing mag een aan een Duitse rechtbank verbonden arts (Gerichtsarzt) of een arts van de openbare gezondheidsdienst (Amtsarzt) aanwezig zijn. In geval van een lijkschouwing met het oog op een Duits strafrechtelijk onderzoek zijn een Duitse rechter of officier van justitie gerechtigd aanwezig te zijn; hun aanwijzingen betreffende de vereisten van het Duitse strafprocesrecht ter zake van lijkschouwingen dienen in acht te worden genomen. Ingeval een Duitse rechtbank of autoriteit bevoegd is een lijkschouwing te gelasten, zijn de tweede, derde en vierde volzin van dit lid van overeenkomstige toepassing indien de militaire autoriteiten van de Staat van herkomst belang hebben bij het resultaat van de lijkschouwing.
 
@@ -224,7 +246,7 @@ Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is
 
 3. De krijgsmachten hebben het recht op overeengekomen terreinen begraafplaatsen aan te leggen en te onderhouden voorzover dit noodzakelijk is bij de vervulling van hun taak ten aanzien van de verdediging.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien het, ter beantwoording van de vraag welke autoriteit bevoegd is tot het uitoefenen van rechtsmacht met betrekking tot een strafbaar feit, noodzakelijk is vast te stellen of een feit strafbaar is volgens het recht van een staat van herkomst, schorst de Duitse rechtbank of autoriteit die de zaak behandelt de behandeling en doet daarvan mededeling aan de bevoegde autoriteit van de staat van herkomst. De daarvoor in aanmerking komende autoriteit van de staat van herkomst kan binnen eenentwintig dagen na ontvangst van de mededeling of, zolang die mededeling nog niet heeft plaatsgehad te allen tijde, aan de Duitse rechtbank of autoriteit een officiële verklaring overleggen nopens de vraag of het feit volgens het recht van de staat van herkomst al dan niet strafbaar is. Indien het antwoord bevestigend luidt, dient de verklaring tevens aan te geven op grond van welke bepaling of welke wettelijke grondslag het feit strafbaar is alsmede welke straf daartegen bedreigd is.
 
@@ -234,19 +256,19 @@ Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is
 
 4. De bepalingen van het eerste, tweede en derde lid zijn niet van toepassing tussen de Bondsrepubliek en die staten van herkomst die de Bondsrepubliek ervan in kennis stellen dat zij niet voornemens zijn zich op deze bepalingen te beroepen of de voorrechten ervan aan de Bondsrepubliek te verzekeren.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Indien het in de loop van een strafproces tegen een lid van een krijgsmacht of van een civiele dienst noodzakelijk is vast te stellen of een strafbaar feit is voortgevloeid uit een daad of nalatigheid begaan in de uitoefening van de dienst, is voor deze vaststelling het recht van de betrokken staat van herkomst beslissend. De hoogste bevoegde autoriteit van deze staat van herkomst kan aan de Duitse rechtbank of autoriteit die met de behandeling van deze zaak is belast, daaromtrent een officiële verklaring overleggen.
 
 2. De Duitse rechtbank of autoriteit beslist in overeenstemming met de verklaring. Bij uitzondering kan deze verklaring echter op verzoek van de Duitse rechtbank of autoriteit door middel van een bespreking tussen de Regering van de Bondsrepubliek en de diplomatieke vertegenwoordiging van de staat van herkomst in de Bondsrepubliek aan een nader onderzoek worden onderworpen.
 
-#### Artikel 18A
+##### Artikel 18A
 
 1. De autoriteiten van een Staat van herkomst stellen de bevoegde Duitse autoriteiten onverwijld in kennis ingeval zij besluiten, in de uitoefening van hun rechtsmacht ingevolge artikel VII van het NAVO-Status Verdrag, strafvervolging in te stellen die zou kunnen leiden tot oplegging van de doodstraf.
 
 2. Met inachtneming van de bepalingen van het Duitse recht gaan de autoriteiten van een Staat van herkomst niet over tot tenuitvoerlegging van een doodstraf in de Bondsrepubliek, noch tot strafvervolging die zou kunnen leiden tot de oplegging van deze straf in de Bondsrepubliek.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Op verzoek van een staat van herkomst doet de Bondsrepubliek in het kader van artikel VII, derde lid onder **c** van het NAVO-Status Verdrag ten gunste van die staat afstand van het ingevolge het derde lid onder **b** van genoemd artikel aan de Duitse autoriteiten toegekende recht om in gevallen van samenloop van rechtsmacht bij voorrang rechtsmacht uit te oefenen, en wel overeenkomstig het tweede, derde, vierde en zevende lid van dit artikel. Het doen van afstand ingevolge dit lid heeft geen betrekking op gevallen waarvan kennisgeving is gedaan overeenkomstig artikel 18A, eerste lid, van deze Overeenkomst.
 
@@ -266,7 +288,7 @@ Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is
 
 7. Ter uitvoering van de bepalingen van dit artikel en ter vergemakkelijking van een vlotte afdoening van strafbare feiten van lichtere aard kunnen tussen de militaire autoriteiten van een staat of staten van herkomst en de bevoegde Duitse autoriteiten regelingen worden getroffen. Deze regelingen kunnen mede betrekking hebben op de ontheffing van de verplichting tot kennisgeving en op de termijn, bedoeld in het derde lid van dit artikel, waarbinnen de afstand van rechtsmacht kan worden herroepen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De militaire autoriteiten van een staat van herkomst kunnen een persoon die niet aan hun rechtsmacht onderworpen is, zonder arrestatiebevel in voorlopige hechtenis stellen,
 
@@ -288,13 +310,13 @@ Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is
 
 5. De bepalingen van dit artikel maken geen inbreuk op de grondwettelijke onschendbaarheid van de parlementen van de Bondsrepubliek en de Länder.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Indien een Duitse autoriteit een onderzoek opent of een arrestatie verricht wegens een handeling die strafbaar is ingevolge artikel 7 van de vierde wet tot wijziging; van de strafwetgeving van 11 juni 1957 (Bundesgesetzblatt Deel I, blz. 597) of ingevolge wettelijke voorzieningen die in de toekomst eventueel in de plaats van dat artikel zullen treden, stelt de Duitse autoriteit die het onderzoek leidt de militaire autoriteiten van de betrokken staat van herkomst daarvan onverwijld in kennis. Hetzelfde geldt indien een Duitse autoriteit een onderzoek opent of een arrestatie verricht wegens een handeling die op andere wijze gericht is tegen de veiligheid van een staat van herkomst of zijn krijgsmacht.
 
 2. Indien de bevoegde autoriteit van een staat van herkomst op het grondgebied van de Bondsrepubliek een onderzoek opent of een arrestatie verricht wegens een handeling die gepleegd is op dat grondgebied en in verband staat met aangelegenheden die de veiligheid van de Bondsrepubliek raken, stelt die autoriteit de Duitse autoriteiten daarvan onverwijld in kennis.
 
-#### Artikel 22
+##### Artikel 22
 
 - a). Indien rechtsmacht wordt uitgeoefend door de autoriteiten van een staat van herkomst, berust de bewaring van leden van de krijgsmacht of de civiele dienst of van gezinsleden bij de autoriteiten van die staat.
 
@@ -312,15 +334,15 @@ Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid is
 
 3. Indien de bewaring overeenkomstig het tweede lid van dit artikel bij de autoriteiten van een staat van herkomst berust, blijft zij bij deze autoriteiten berusten tot de invrijheidstelling of vrijspraak door de Duitse autoriteiten, dan wel totdat de tenuitvoerlegging van het vonnis een aanvang neemt. De autoriteiten van de staat van herkomst stellen de gearresteerde persoon ter beschikking van de Duitse autoriteiten voor het onderzoek en het strafproces (Ermittlungs- und Strafverfahren) en nemen daartoe alle passende maatregelen. Zij nemen eveneens alle passende maatregelen om te voorkomen dat onderzoek en strafproces nadelig worden beïnvloed (Verdunkelungsgefahr). Zij houden zo veel mogelijk rekening met elk van de bevoegde Duitse autoriteiten afkomstig verzoek inzake bewaring.
 
-#### Artikel 23
+##### Artikel 23
 
 Indien een persoon in een van de gevallen als bedoeld in artikel 21, eerste lid, wordt gearresteerd heeft een vertegenwoordiger van de betrokken staat van herkomst toegang tot die persoon. Indien een persoon die in een van de gevallen als bedoeld in het tweede lid van dat artikel is gearresteerd, door de autoriteiten van een krijgsmacht in bewaring wordt gehouden, heeft een Duitse vertegenwoordiger een overeenkomstig recht, in dezelfde mate als waarin de staat van herkomst gebruik maakt van het recht van toegang, toegekend in de eerste volzin van dit artikel. De Duitse autoriteiten en de militaire autoriteiten van de staat van herkomst treffen de voor de uitvoering van dit artikel vereiste regelingen. Een vertegenwoordiger van de staat bij welke de bewaring berust kan bij de uitoefening van het recht van toegang tegenwoordig zijn.
 
-#### Artikel 24
+##### Artikel 24
 
 Op verzoek van de Bondsrepubliek of van een staat van herkomst treffen de Duitse autoriteiten en de autoriteiten van die staat regelingen ter vergemakkelijking van de nakoming van de verplichting tot wederzijdse hulp bedoeld in het vijfde lid onder **a** en het zesde lid onder **a** van artikel VII van het NAVO-Status Verdrag.
 
-#### Artikel 25
+##### Artikel 25
 
 - a). Indien rechtsmacht in strafzaken wordt uitgeoefend door een Duitse rechtbank of een Duitse autoriteit over een lid van een krijgsmacht of van een civiele dienst of over een gezinslid, heeft een vertegenwoordiger van de betrokken staat van herkomst het recht bij de terechtzitting aanwezig te zijn. Indien een vergrijp uitsluitend is gericht tegen de veiligheid van de Bondsrepubliek of tegen eigendommen welke zich in de Bondsrepubliek bevinden dan wel tegen een Duitser of tegen een persoon die zich op het grondgebied van de Bondsrepubliek bevindt en rechtsmacht op het grondgebied van de Bondsrepubliek wordt uitgeoefend door een rechtbank of een autoriteit van een staat van herkomst, heeft een Duitse vertegenwoordiger het recht de terechtzitting bij te wonen.
 
@@ -336,7 +358,7 @@ Op verzoek van de Bondsrepubliek of van een staat van herkomst treffen de Duitse
 
 2. Onder de voorwaarden, omschreven in het eerste lid, heeft een vertegenwoordiger van de staat van herkomst ook het recht verhoren en andere opsporingshandelingen bij te wonen voor zover dit tussen de autoriteiten van die staat en die van de Bondsrepubliek eventueel overeengekomen wordt. Indien dergelijke overeenkomsten worden gesloten, geven deze - onder de in het eerste lid omschreven voorwaarden - aan een Duitse vertegenwoordiger een recht overeenkomend met dat van de vertegenwoordiger van de staat van herkomst en voorzien zij in een procedure met betrekking tot wederkerige kennisgeving.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid voor een rechtbank van een staat van herkomst wordt gedagvaard ter zake van een op het grondgebied van de Bondsrepubliek begaan vergrijp tegen Duitse belangen wordt de terechtzitting binnen dat grondgebied gehouden,
 
@@ -346,11 +368,11 @@ Op verzoek van de Bondsrepubliek of van een staat van herkomst treffen de Duitse
 
 2. Indien de terechtzitting buiten het grondgebied van de Bondsrepubliek wordt gehouden, stellen de autoriteiten van de staat van herkomst de Duitse autoriteiten in kennis van plaats en datum van de terechtzitting. Een Duitse vertegenwoordiger is gerechtigd de terechtzitting bij te wonen tenzij de voorschriften van het procesrecht van de staat van herkomst zich hiertegen verzetten of zijn aanwezigheid onverenigbaar is met die veiligheidseisen van die staat die niet tevens veiligheidseisen zijn van de Bondsrepubliek. De autoriteiten van de staat van herkomst stellen de Duitse autoriteiten in kennis van de uitspraak en van de uiteindelijke afloop van het proces.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 primo. In overeenstemming met de bepalingen van lid 4**bis** van de op artikel 53 van deze Overeenkomst betrekking hebbende paragraaf in het Protocol van Ondertekening, en onverminderd de bepalingen van artikel VII, tiende lid, letter a, van het NAVO-Status Verdrag, is de Duitse politie bevoegd haar taken te verrichten in onroerende goederen die voor uitsluitend gebruik ter beschikking zijn gesteld aan een krijgsmacht of een civiele dienst, voor zover de openbare orde en veiligheid van de Bondsrepubliek worden bedreigd of geschaad. Indien in zodanige onroerende goederen een strafrechtelijke vervolgingsmaatregel (Strafverfolgungsmaßnahme) ten uitvoer moet worden gelegd, kan de Staat van herkomst, na overleg met de Duitse autoriteiten over de modaliteiten, deze maatregel ook ten uitvoer doen leggen door zijn eigen politie. In dit geval wordt de maatregel onverwijld ten uitvoer gelegd en, indien zulks van Duitse zijde wordt verlangd, in tegenwoordigheid van vertegenwoordigers van de Duitse autoriteiten.
 
@@ -358,7 +380,7 @@ primo. In overeenstemming met de bepalingen van lid 4**bis** van de op artikel 5
 
 2. Indien de openbare orde en veiligheid in gevaar worden gebracht of verstoord door een incident waarbij leden van een krijgsmacht of van een civiele dienst of gezinsleden zijn betrokken, neemt de militaire politie van een krijgsmacht op verzoek van de Duitse autoriteiten ten aanzien van deze personen de vereiste maatregelen teneinde orde en tucht te handhaven of te herstellen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De Bondsrepubliek neemt die wettelijke maatregelen welke zij noodzakelijk acht om op haar grondgebied de veiligheid en de bescherming te verzekeren van de krijgsmachten, de civiele diensten en van de leden daarvan. Het voorgaande is eveneens van toepassing op de gewapende strijdkrachten van een staat van herkomst welke in Berlijn zijn gestationeerd, op hun civiele dienst en op de leden daarvan voor wat betreft vergrijpen begaan op het grondgebied van de Bondsrepubliek.
 
@@ -390,15 +412,15 @@ primo. In overeenstemming met de bepalingen van lid 4**bis** van de op artikel 5
 
 3. Voor de toepassing van het tweede lid onder **a** wordt onder militaire geheimen verstaan feiten, voorwerpen, conclusies en ontdekkingen, in het bijzonder schriftelijke stukken, tekeningen, modellen, formules, of inlichtingen hierover, welke de verdediging betreffen en welke door een dienst van een staat van herkomst, gestationeerd op het grondgebied van de Bondsrepubliek of in Berlijn, in het belang van de veiligheid van die staat of haar krijgsmacht of haar in Berlijn gestationeerde gewapende strijdkrachten, geheim worden gehouden. Hieronder vallen niet voorwerpen over wier geheimhouding de beslissing bij de Bondsrepubliek berust, met inbegrip van inlichtingen over die voorwerpen.
 
-#### Artikel 30
+##### Artikel 30
 
 Teneinde de uitvoering van artikel VII van het NAVO-Status Verdrag en de bepalingen van deze Aanvullende Overeenkomst te vergemakkelijken en een uniforme toepassing ervan te verzekeren, worden op verzoek van een van beide partijen gemengde commissies ingesteld, die bestaan uit een door de Bondsregering te benoemen Duitse vertegenwoordiger en een vertegenwoordiger van de betrokken staat van herkomst. Deze gemengde commissies hebben tot taak vraagstukken te bespreken betreffende de toepassing van de in dit artikel bedoelde bepalingen, welke vraagstukken aan haar worden voorgelegd door de Bondsregering of door de hoogste autoriteit van de betrokken krijgsmacht. De Duitse autoriteiten en autoriteiten van de staat van herkomst nemen eventuele gemeenschappelijke aanbevelingen van een gemengde commissie in welwillende overweging.
 
-#### Artikel 31
+##### Artikel 31
 
 De leden van een krijgsmacht of van een civiele dienst genieten, wat betreft de ontheffing van de verplichting tot zekerheidstelling voor proceskosten, de rechten ter zake vastgelegd in overeenkomsten tussen de Bondsrepubliek en de betrokken Staat van herkomst. Indien deze personen zich uit hoofde van hun dienst op het grondgebied van de Bondsrepubliek bevinden, worden zij voor de toepassing van die overeenkomsten geacht aldaar hun vaste verblijfplaats te hebben.
 
-#### Artikel 32
+##### Artikel 32
 
 - a). De Duitse rechtbanken of autoriteiten kunnen de door elke Staat van herkomst in te stellen of aan te wijzen verbindingsinstantie verzoeken zorg te dragen voor de betekening van stukken in een niet-strafrechtelijke procedure aan leden van een krijgsmacht, van een civiele dienst, of aan gezinsleden.
 
@@ -418,11 +440,11 @@ De leden van een krijgsmacht of van een civiele dienst genieten, wat betreft de 
 
 3. Indien een Duitse rechtbank of autoriteit een vonnis of een document betekent dat betrekking heeft op het instellen van beroep (Rechtsmittelschrift) wordt de verbindingsinstantie, indien de betrokken Staat van herkomst hierom in het bijzonder of in het algemeen verzoekt, onmiddellijk daarvan in kennis gesteld in de wettelijk toegestane mate, tenzij de verbindingsinstantie zelf wordt verzocht de betekening te doen geschieden of indien de geadresseerde of een andere belanghebbende in de procedure daartegen bezwaar maakt. De Duitse rechtbank of autoriteit stelt de verbindingsinstantie in kennis van elk bezwaar.
 
-#### Artikel 33
+##### Artikel 33
 
 Indien de leden van een krijgsmacht of van een civiele dienst of gezinsleden tijdelijk verhinderd zijn een niet-strafrechtelijke procedure waarbij zij partij zijn bij te wonen en indien de betrokken Duitse rechtbank of autoriteit hiervan zonder verwijtbare vertraging in kennis wordt gesteld, wordt daarmede naar behoren rekening gehouden, opdat zij hiervan geen juridisch nadeel ondervinden. Bedoelde kennisgeving kan ook door de verbindingsinstantie worden gedaan.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De militaire autoriteiten werken naar vermogen mede aan de tenuitvoerlegging van in kracht van gewijsde gegane rechterlijke uitspraken en andere executoriale titels (vollstreckbare Titel) van Duitse rechtbanken of autoriteiten in niet strafrechtelijke procedures.
 
@@ -436,7 +458,7 @@ Indien de leden van een krijgsmacht of van een civiele dienst of gezinsleden tij
 
 4. Wanneer de tenuitvoerlegging van een in kracht van gewijsde gegane rechterlijke uitspraak van een Duitse rechtbank of autoriteit in een niet-strafrechtelijke procedure plaats dient te vinden binnen een inrichting van een krijgsmacht, wordt deze tenuitvoerlegging door een Duitse deurwaarder uitgevoerd in tegenwoordigheid van een vertegenwoordiger van de krijgsmacht.
 
-#### Artikel 35
+##### Artikel 35
 
 Indien een in kracht van gewijsde gegane rechterlijke uitspraak (vollstreckbare Titel) van een Duitse rechtbank of autoriteit moet worden tenuitvoergelegd tegen een schuldenaar aan wie een bedrag verschuldigd is, hetzij uit hoofde van zijn dienstbetrekking bij een krijgsmacht of een civiele dienst op de voet van het bepaalde in artikel 56, hetzij uit hoofde van rechtstreekse leveranties of diensten aan een krijgsmacht of een civiele dienst, gelden de volgende bepalingen:
 
@@ -448,33 +470,33 @@ Indien een in kracht van gewijsde gegane rechterlijke uitspraak (vollstreckbare 
 
 - ii. Voor zover de wetgeving van de betrokken Staat van herkomst de onder i bedoelde betaling verbiedt, nemen de autoriteiten van de krijgsmacht of van de civiele dienst alle passende maatregelen om de instantie die met de tenuitvoerlegging is belast bij de tenuitvoerlegging van in kracht van gewijsde gegane rechterlijke beslissingen bij te staan.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De betekening van documenten aan leden van een krijgsmacht of van een civiele dienst of aan gezinsleden door middel van openbare kennisgeving in de pers dient tevens te geschieden door middel van bekendmaking van een uittreksel van het te betekenen document in de taal van de Staat van herkomst in een door die Staat te noemen publikatieblad, of, indien de Staat van herkomst hiertoe besluit, door middel van affichage bij de desbetreffende verbindingsinstantie.
 
 2. Indien de betekening van een document door een Duitse deurwaarder moet geschieden aan een persoon die zich binnen een inrichting van een krijgsmacht bevindt, neemt de autoriteit van de krijgsmacht die verantwoordelijk is voor het beheer van de inrichting alle maatregelen die noodzakelijk zijn om de Duitse deurwaarder in staat te stellen de betekening te verrichten.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien een lid van een krijgsmacht of van een civiele dienst of een gezinslid wordt gedagvaard voor een Duitse rechtbank of autoriteit, nemen de militaire autoriteiten, tenzij militaire noodzaak zich hiertegen verzet, alle onder hun bevoegdheid vallende maatregelen om ervoor te zorgen dat de betrokkene verschijnt, mits de verschijning ingevolge de Duitse wetgeving verplicht is. Indien de dagvaarding niet wordt betekend door tussenkomst van de verbindingsinstantie, wordt deze onmiddellijk van de dagvaarding in kennis gesteld door de Duitse rechter of autoriteit, onder vermelding van de naam en het adres van de geadresseerde, alsmede van het tijdstip en de plaats van de rechtszitting of het getuigenverhoor; dit geldt niet ten aanzien van gezinsleden indien de militaire autoriteiten het gehoor geven aan de dagvaarding niet effectief kunnen ondersteunen.
 
 2. Indien personen, voor wier verschijning niet kan worden zorggedragen door de militaire autoriteiten, als getuigen of deskundigen door een rechtbank of een militaire autoriteit van een staat van herkomst worden gedagvaard, dragen de Duitse rechtbanken en autoriteiten, in overeenstemming met de Duitse wetgeving, zorg voor de verschijning van die personen voor de rechtbank of militaire autoriteit van de staat van herkomst.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Indien in de loop van een al dan niet strafrechtelijke procedure voor een rechtbank of autoriteit van een krijgsmacht of van de Bondsrepubliek blijkt dat een staatsgeheim van een der betrokken staten, of van beide, of een inlichting die de veiligheid van een dezer staten, of van beide, zou kunnen schaden, openbaar gemaakt zou kunnen worden, verzoekt de rechtbank of autoriteit, alvorens verdere actie te nemen, de bevoegde autoriteit om schriftelijk haar toestemming te geven tot het openbaar maken van het staatsgeheim of de inlichting. Indien de bevoegde autoriteit bezwaar heeft tegen de openbaarmaking, neemt de rechtbank of autoriteit alle haar ter beschikking staande maatregelen, met inbegrip van die bedoeld in het tweede lid, om de openbaarmaking te voorkomen, mits daardoor geen inbreuk gemaakt wordt op de grondwettelijke rechten van een der partijen.
 
 2. De bepalingen van de artikelen 172 tot en met 175 van de Duitse Wet op de Rechterlijke Organisatie (Gerichtsverfassungsgesetz), aangaande behandeling met gesloten deuren in al dan niet strafrechtelijke procedures, en de bepalingen van artikel 15 van het Duitse Wetboek van Strafvordering inzake de overdracht van strafzaken aan een rechtbank in een ander ressort, zijn van overeenkomstige toepassing in zaken voor Duitse rechtbanken en autoriteiten, indien de veiligheid van een krijgsmacht of een civiele dienst in gevaar dreigt te worden gebracht.
 
-#### Artikel 39
+##### Artikel 39
 
 De rechten en voorrechten van getuigen, slachtoffers en deskundigen worden bepaald door de wetgeving van de rechtbank of autoriteit waarvoor zij verschijnen. Indien getuigen, slachtoffers of deskundigen lid van een krijgsmacht of van een civiele dienst of gezinslid zijn, houdt de rechtbank of autoriteit naar behoren rekening met de rechten en voorrechten die zij zouden hebben voor een rechtbank van de Staat van herkomst, of, indien zij niet tot deze categorieën behoren, voor een Duitse rechtbank.
 
-#### Artikel 40
+##### Artikel 40
 
 Voorzover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkomst niet het tegendeel is bepaald, zijn archieven, documenten, als zodanig kenbare dienstpostzendingen en eigendommen van een krijgsmacht niet vatbaar voor onderzoek, inbeslagneming of censuur door de Duitse autoriteiten, tenzij van die immuniteit afstand is gedaan.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De regeling van vorderingen terzake van schade veroorzaakt door een handelen of nalaten van een krijgsmacht, een civiele dienst of van hun leden, of door andere voorvallen waarvoor een krijgsmacht of een civiele dienst wettelijk aansprakelijk is, wordt beheerst door de bepalingen van artikel VIII van het NAVO-Status Verdrag en de aanvullende bepalingen van dit artikel.
 
@@ -516,17 +538,17 @@ Voorzover in enige bepaling van het NAVO-Status Verdrag of van deze Overeenkomst
 
 13. Ter regeling van de tussen de autoriteiten van een krijgsmacht en de Duitse autoriteiten te volgen procedure bij de afwikkeling van schadevorderingen worden administratieve overeenkomsten gesloten.
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 1. De autoriteiten van een krijgsmacht en de Duitse autoriteiten verschaffen elkander alle voor de gemeenschappelijke verdediging van belang zijnde inlichtingen op het gebied van de meteorologie, geodesie, topografie, hydrografie en cartografie en wisselen te dien einde alle noodzakelijke gegevens uit.
 
 2. De autoriteiten van een krijgsmacht kunnen, na de Duitse autoriteiten daarvan tijdig in kennis te hebben gesteld, in het belang van de gemeenschappelijke verdediging, topografische, geodetische, hydrografische of technische opnemingen of verkenningen verrichten, indien bijzondere redenen van veiligheid of geheimhouding dit noodzakelijk maken of indien de Duitse autoriteiten deze werkzaamheden niet in de vereiste omvang of binnen de vereiste tijd kunnen verrichten. Vertegenwoordigers van de Duitse autoriteiten kunnen bij het verrichten van deze werkzaamheden tegenwoordig zijn, tenzij bijzondere redenen van geheimhouding zich daartegen verzetten. De Duitse autoriteiten maken zonodig van de hun door de Duitse wetgeving verleende bevoegdheden gebruik teneinde voor de vertegenwoordigers van de krijgsmacht verlof tot het betreden van terreinen te verkrijgen.
 
-#### Artikel 44
+##### Artikel 44
 
 1. Bij de oplossing van geschillen welke voortvloeien uit contracten die door de Duitse autoriteiten voor rekening van de autoriteiten van een krijgsmacht of van een civiele dienst zijn gesloten, werken deze autoriteiten voortdurend nauw samen, onafhankelijk van de vraag of deze geschillen al dan niet tot een rechtszaak aanleiding geven. Het vorenstaande is van overeenkomstige toepassing op geschillen, voortvloeiende uit arbeidsovereenkomsten, het recht inzake de werknemersvertegenwoordiging (Betriebsvertretungsrecht) of de sociale verzekering van burgerwerkkrachten van een krijgsmacht of een civiele dienst en op geschillen welke voortvloeien uit de rechtsgedingen, bedoeld in artikel 62, eerste lid, onder **c**.
 
@@ -552,13 +574,13 @@ De nadere regeling van deze samenwerking wordt vastgelegd in administratieve ove
 
 - b). De regelingen die tussen de Bondsrepubliek en een staat van herkomst zijn getroffen hebben evenwel voorrang boven de bepalingen vermeld onder **a**.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Voor zover een krijgsmacht haar oefenprogramma niet kan uitvoeren op de haar voor uitsluitend gebruik ter beschikking gestelde onroerende goederen, zonder aan de oefeningsdoeleinden afbreuk te doen, heeft de krijgsmacht op grond van dit artikel het recht, onder voorbehoud van toestemming van de Bondsminister van Defensie, buiten deze onroerende goederen manoeuvres en andere oefeningen uit te voeren in de mate die nodig is ter vervulling van haar verdedigingstaak. De beslissing van de Bondsminister van Defensie wordt genomen nadat naar behoren rekening is gehouden met alle aspecten die voortvloeien uit multilaterale of bilaterale overeenkomsten waarbij de Bondsrepubliek en één of meer Staten van herkomst partij zijn, met inbegrip van de door de Geallieerde Opperbevelhebber in Europa of andere autoriteiten van de Noordatlantische Verdragsorganisatie of de bevoegde Europese autoriteiten vastgestelde oefeningseisen. Voor het uitvoeren van of de deelneming aan manoeuvres of andere oefeningen in overeenstemming met dit artikel door onderdelen van de krijgsmacht die voor dit doel naar de Bondsrepubliek komen, is de toestemming van de bevoegde Duitse autoriteiten vereist. De procedures voor kennisgeving, coördinering en goedkeuring van manoeuvres en andere oefeningen worden geregeld in een afzonderlijke overeenkomst.
 
 2. Op het uitvoeren van manoeuvres en andere oefeningen in overeenstemming met het eerste lid van dit artikel zijn de desbetreffende bepalingen van de Duitse wetgeving van toepassing, in het bijzonder de Bondswet inzake rekwisitie (Bundesleistungsgesetz) van 27 september 1961, zoals gewijzigd. Op verzoek van de autoriteiten van een krijgsmacht verstrekken de Duitse militaire autoriteiten informatie over deze bepalingen of doen zij deze verstrekken. De bevoegde Duitse autoriteiten voeren tijdig besprekingen met de autoriteiten van de Staten van herkomst over verwachte fundamentele wijzigingen in Duitse wettelijke bepalingen die wezenlijk afbreuk kunnen doen aan het uitvoeren van manoeuvres en andere oefeningen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Een krijgsmacht heeft op grond van dit artikel het recht, onder voorbehoud van toestemming van de bevoegde Duitse autoriteiten, in het luchtruim van de Bondsrepubliek manoeuvres en andere oefeningen uit te voeren in de mate die nodig is ter vervulling van haar verdedigingstaak. De beslissing van de bevoegde Duitse autoriteiten wordt genomen nadat naar behoren rekening is gehouden met alle aspecten die voortvloeien uit multilaterale of bilaterale overeenkomsten waarbij de Bondsrepubliek en één of meer Staten van herkomst partij zijn, met inbegrip van de door de Geallieerde Opperbevelhebber in Europa of andere autoriteiten van de Noordatlantische Verdragsorganisatie of de bevoegde Europese autoriteiten vastgestelde oefeningseisen.
 
@@ -572,7 +594,7 @@ De nadere regeling van deze samenwerking wordt vastgelegd in administratieve ove
 
 6. De bepalingen van artikel 45 zijn zowel van toepassing op landingen buiten de luchtvaartterreinen als op parachutesprongen of het afwerpen van voorwerpen per parachute op terreinen die niet voor permanent gebruik ter beschikking van een krijgsmacht zijn gesteld.
 
-#### Artikel 47
+##### Artikel 47
 
 1. Terzake van de levering van goederen en diensten doet de Bondsrepubliek aan een krijgsmacht en aan een civiele dienst een behandeling ten deel vallen die niet minder gunstig is dan die welke de Duitse strijdkrachten ontvangen.
 
@@ -608,7 +630,7 @@ De nadere regeling van deze samenwerking wordt vastgelegd in administratieve ove
 
 - g). de details van de in dit lid onder **a**, **c**, **d**, **e** en **f** bedoelde procedures worden geregeld bij administratieve overeenkomsten tussen de Duitse autoriteiten en de autoriteiten van de krijgsmacht of van de civiele dienst, in het bijzonder ter verzekering van een uitvoering van de aanschaffingsprocedure binnen de gestelde termijn.
 
-#### Artikel 48
+##### Artikel 48
 
 - a). Aan de behoeften van een krijgsmacht of van een civiele dienst aan onroerende goederen wordt slechts voldaan in overeenstemming met het NAVO-Status Verdrag en de bepalingen van dit Verdrag.
 
@@ -642,7 +664,7 @@ De nadere regeling van deze samenwerking wordt vastgelegd in administratieve ove
 
 - e). Voorwerpen die te zamen met onroerende goederen zijn gevorderd en die zich nog in deze onroerende goederen bevinden worden gelijk met de onroerende goederen teruggegeven, tenzij de eigenaar met een andere regeling instemt.
 
-#### Artikel 49
+##### Artikel 49
 
 1. De programma's betreffende de bouwplannen die noodzakelijk zijn om in de behoeften van een krijgsmacht of een civiele dienst te voorzien, worden door de autoriteiten van de krijgsmacht of civiele dienst toegezonden aan de inzake het Bondsbouwprogramma bevoegde Duitse autoriteiten.
 
@@ -690,7 +712,7 @@ De nadere regeling van deze samenwerking wordt vastgelegd in administratieve ove
 
 - i). stellen de staten van herkomst de Duitse autoriteiten overeenkomstig administratieve overeenkomsten, schadeloos ten aanzien van bijzondere diensten door de laatstgenoemden in verband met de uitvoering van de bouwwerkzaamheden (bouwplannen, toezicht en inspectie) geleverd.
 
-#### Artikel 50
+##### Artikel 50
 
 Tot de inrichting en inboedel behorende goederen die eigendom zijn van de Bondsrepubliek kunnen binnen het grondgebied van de Bondsrepubliek van een bij een krijgsmacht of een civiele dienst in gebruik zijnd onroerend goed naar een ander worden overgebracht, met inachtneming van de volgende beperkingen:
 
@@ -698,7 +720,7 @@ Tot de inrichting en inboedel behorende goederen die eigendom zijn van de Bondsr
 
 - b). De toestemming van de Duitse autoriteiten dient eveneens te worden verkregen voordat tot de inrichting en inboedel behorende goederen die bevestigd zijn aan, of speciaal gemaakt zijn voor, een bepaald onroerend goed, worden verwijderd. Het vorenstaande is niet van toepassing indien zodanige voorwerpen werden aangeschaft ten laste van de middelen ter bestrijding van de bezettingskosten, van de begroting van de Bondsrepubliek Duitsland of van middelen ter bestrijding van onderhoudskosten; de autoriteiten van een krijgsmacht of van een civiele dienst stellen de Duitse autoriteiten echter tijdig van hun voornemen in kennis teneinde laatstgenoemde autoriteiten in voorkomend geval in staat te stellen een andere oplossing voor te stellen.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Roerende goederen die zijn aangeschaft ten laste van de middelen ter bestrijding van de bezettingskosten, van de begroting van de Bondsrepubliek Duitsland of van middelen ter bestrijding van onderhoudskosten worden, wanneer de autoriteiten van een krijgsmacht of van een civiele dienst vaststellen dat zij die goederen niet meer nodig hebben, overgedragen aan de Duitse autoriteiten, te hunner beschikking.
 
@@ -722,7 +744,7 @@ Tot de inrichting en inboedel behorende goederen die eigendom zijn van de Bondsr
 
 7. De bijzonderheden worden bij administratieve overeenkomsten geregeld.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Indien een staat van herkomst voornemens is onroerende goederen of andere vermogensbestanddelen die rechtens eigendom zijn van de Bondsrepubliek of van een Land (rechtlich im Eigentum des Bundes oder eines Landes stehend) en die de krijgsmacht of de civiele dienst voor gebruik ter beschikking zijn gesteld, geheel of gedeeltelijk terug te geven, wordt een overeenkomst gesloten tussen de autoriteiten van de krijgsmacht of van de civiele dienst en de Duitse autoriteiten met betrekking tot de eventuele op het tijdstip van teruggave bestaande restwaarde van verbeteringen welke de staat van herkomst ten laste van eigen fondsen heeft aangebracht. De Bondsrepubliek betaalt de overeengekomen restwaarde aan de staat van herkomst terug. Het gestelde in de eerste en tweede volzin is eveneens van toepassing op uitrusting en voorraden die de staat van herkomst uit eigen middelen heeft aangeschaft en die ingevolge overeenkomst bij deze onroerende goederen moeten achterblijven.
 
@@ -732,7 +754,7 @@ Tot de inrichting en inboedel behorende goederen die eigendom zijn van de Bondsr
 
 4. Een staat van herkomst dient geen vordering in met betrekking tot de restwaarde van verbeteringen aangebracht aan goederen bedoeld in het eerste lid of met betrekking tot verbeteringen van goederen die voor het gebruik van de krijgsmacht of de civiele dienst om niet ter beschikking zijn gesteld en die eigendom zijn van rechtspersonen waarin de Bondsrepubliek of een Land financieel deelnemen, indien de verbeteringen zijn bekostigd uit middelen die door de Bondsrepubliek of een Land aan de staat van herkomst ter beschikking zijn gesteld. Het vorenstaande tast de verrekening van de restwaarde van die verbeteringen met de schadeloosstelling voor schade toegebracht tijdens het gebruik van deze goederen door de krijgsmacht of de civiele dienst of bij de verwijdering van deze verbeteringen, niet aan.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Een krijgsmacht en een civiele dienst kunnen binnen hun voor uitsluitend gebruik ter beschikking gestelde onroerende goederen alle noodzakelijke maatregelen nemen ten behoeve van een genoegzame vervulling van hun verdedigingsverplichtingen. Op het gebruik van die onroerende goederen is het Duitse recht van toepassing, tenzij in deze Overeenkomst en in andere internationale overeenkomsten anders is bepaald en voor zover het niet de organisatie, het interne functioneren en de leiding van de krijgsmacht en zijn civiele dienst, de leden daarvan en hun gezinsleden, en andere interne aangelegenheden die geen voorzienbare gevolgen hebben voor rechten van derden, naburige gemeenschappen of het algemeen belang, betreft. De bevoegde Duitse autoriteiten en de autoriteiten van een krijgsmacht plegen overleg en werken samen om eventuele verschillen van mening bij te leggen.
 
@@ -758,7 +780,7 @@ De bijzonderheden van deze samenwerking zijn uitgewerkt in het vijfde tot en met
 
 - b). voor de controle op of de beperking van de bebouwing, de beplanting en het verkeer in de omgeving van onroerende goederen die voor gebruik ter beschikking zijn gesteld van de krijgsmacht.
 
-#### Artikel 53A
+##### Artikel 53A
 
 1. Voor zover het Duitse recht van toepassing is in verband met het gebruik van de in artikel 53 van deze Overeenkomst bedoelde onroerende goederen, en dit voorschrijft dat een bijzondere vergunning, machtiging of enige andere vorm van officiële toestemming moet worden verkregen, dienen de Duitse autoriteiten, in samenwerking en in overleg met de autoriteiten van een krijgsmacht, de benodigde aanvragen in en voeren zij de desbetreffende administratieve en gerechtelijke procedures namens de krijgsmacht.
 
@@ -766,7 +788,7 @@ De bijzonderheden van deze samenwerking zijn uitgewerkt in het vijfde tot en met
 
 3. De autoriteiten van de krijgsmacht nemen strikt de voorwaarden en vereisten in acht van een rechtskracht hebbende beslissing die is gegeven in overeenstemming met het eerste en tweede lid van dit artikel. Zij werken nauw samen met de Duitse autoriteiten om te verzekeren dat deze verplichting wordt nagekomen. Bedoelde beslissing kan niet het voorwerp vormen van executie.
 
-#### Artikel 54
+##### Artikel 54
 
 1. Voor zover in dit lid niet anders is bepaald, zijn de Duitse voorschriften en procedures ter voorkoming en bestrijding van besmettelijke ziekten bij mensen, dieren en planten, alsmede ter voorkoming van de verbreiding en ter bestrijding van voor planten schadelijke insekten, van toepassing op een krijgsmacht of een civiele dienst. Een krijgsmacht mag op de in de vorige volzin bedoelde gebieden haar eigen voorschriften en procedures toepassen binnen de onroerende goederen die haar voor gebruik ter beschikking zijn gesteld, of aan haar leden, leden van haar civiele dienst en gezinsleden, mits noch de volksgezondheid (öffentliche Gesundheit), noch de plantenteelt daardoor in gevaar worden gebracht.
 
@@ -782,17 +804,17 @@ De Duitse autoriteiten en de autoriteiten van de krijgsmacht sluiten overeenkoms
 
 Zij dragen er zorg voor dat noch de volksgezondheid noch de plantenteelt als gevolg van de invoer van die artikelen in gevaar wordt gebracht.
 
-#### Artikel 54A
+##### Artikel 54A
 
 1. De Staten van herkomst beseffen en erkennen het belang van milieubescherming in verband met alle activiteiten van hun krijgsmachten in de Bondsrepubliek.
 
 2. Onverminderd de inachtneming en toepassing van het Duitse recht op grond van deze Overeenkomst, toetsen de autoriteiten van een krijgsmacht en van een civiele dienst zo spoedig mogelijk de milieuvriendelijkheid van alle plannen. In dit verband inventariseren, analyseren en evalueren zij de mogelijke effecten van voor het milieu ingrijpende plannen op mensen, dieren, planten, bodem, water, lucht, klimaat en landschap, met inbegrip van hun onderlinge wisselwerking, alsmede op het cultureel erfgoed en andere zaken. Deze toetsing heeft tot doel belasting van het milieu te vermijden en, indien schadelijke effecten onvermijdelijk zijn, deze te compenseren met passende (herstel)maatregelen. In dit verband kunnen de autoriteiten van een krijgsmacht en van een civiele dienst de hulp inroepen van Duitse civiele en militaire autoriteiten.
 
-#### Artikel 54B
+##### Artikel 54B
 
 De autoriteiten van een krijgsmacht en van een civiele dienst dragen er zorg voor dat voor de aandrijving van luchtvaartuigen, vaartuigen en motorrijtuigen slechts brandstoffen, smeermiddelen en additieven worden gebruikt die volgens de Duitse milieuvoorschriften in geringe mate vervuilend zijn, voor zover dit gebruik verenigbaar is met de technische vereisten van die luchtvaartuigen, vaartuigen en motorrijtuigen. Voorts dragen zij er zorg voor dat ten aanzien van personen- en bedrijfsvoertuigen, met name bij nieuwe, de Duitse voorschriften inzake de beperking van geluidshinder en de emissie van uitlaatgassen in acht worden genomen, voor zover zulks niet onevenredig bezwarend is. De bevoegde Duitse autoriteiten en de autoriteiten van de krijgsmacht of van de civiele dienst plegen overleg en werken nauw samen bij de toepassing van deze bepalingen en het toezicht daarop.
 
-#### Artikel 55
+##### Artikel 55
 
 - a). Verdedigingswerken die voor de uitvoering van NAVO-plannen ten behoeve van de gemeenschappelijke verdediging noodzakelijk zijn binnen de gebieden voor de verdediging waarvan de autoriteiten van een krijgsmacht verantwoordelijk zijn, worden, overeenkomstig tussen de autoriteiten van de krijgsmacht en de autoriteiten van de Bondsrepubliek bereikte overeenstemming, ontworpen en uitgevoerd.
 
@@ -802,7 +824,7 @@ De autoriteiten van een krijgsmacht en van een civiele dienst dragen er zorg voo
 
 2. De autoriteiten van de Bondsrepubliek en de autoriteiten van een krijgsmacht werken samen om te verzekeren dat de maatregelen die nodig zijn om te voldoen aan de verdedigingsbehoefte op een bevredigende wijze en tijdig worden voorbereid en uitgevoerd.
 
-#### Artikel 56
+##### Artikel 56
 
 - a). De Duitse arbeidswetgeving, met inbegrip van de arbeidsomstandighedenwetgeving (Arbeitsschutzrecht), zoals die geldt voor burgerpersoneel in dienst bij de Duitse strijdkrachten, met uitzondering van dienstreglementen (Dienstordnungen), de overeenkomsten tot het verrichten van diensten (Dienstvereinbarungen) en tariefregelingen, is van toepassing op de indienstneming van burgerpersoneel bij een krijgsmacht of een civiele dienst, tenzij in dit artikel en de op dit artikel betrekking hebbende paragraaf in het Protocol van Ondertekening anders is bepaald.
 
@@ -846,7 +868,7 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 10. Indien de Duitse autoriteiten administratief werk verrichten in verband met het in dienst nemen van arbeidskrachten voor een krijgsmacht of een civiele dienst en in verband met hun beloning, worden de feitelijke kosten van dit administratieve werk vergoed door de krijgsmacht. De procedures hiervoor worden geregeld in afzonderlijke overeenkomsten tussen de Duitse autoriteiten en de autoriteiten van elke krijgsmacht. Bij de verrichting van het administratieve werk worden, in overleg met de desbetreffende autoriteiten van de krijgsmacht, de beginselen van economische efficiëntie in acht genomen.
 
-#### Artikel 57
+##### Artikel 57
 
 - a. Een krijgsmacht, een civiele dienst, hun leden en gezinsleden zijn, onder voorbehoud van goedkeuring van de Bondsregering, gerechtigd de Bondsrepubliek binnen te komen met voertuigen, vaartuigen en luchtvaartuigen en zich daarin binnen en boven het grondgebied van de Bondsrepubliek te verplaatsen; transporten en andere verplaatsingen die vallen binnen het kader van de Duitse wettelijke bepalingen, met inbegrip van deze Overeenkomst en andere internationale overeenkomsten waarbij de Bondsrepubliek en één of meer Staten van herkomst partij zijn, alsmede daarmede verband houdende technische akkoorden en procedures, worden geacht te zijn goedgekeurd. Voor zover bijzondere en uitzonderlijke vergunningen en ontheffingen van de wettelijke bepalingen inzake het vervoer van gevaarlijke stoffen zijn vereist voor militaire verplaatsingen en transporten, worden deze verkregen door de bevoegde diensten van de Duitse strijdkrachten.
 
@@ -868,7 +890,7 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 8. Het geheel van de door de Duitse autoriteiten en de autoriteiten van de krijgsmachten ontwikkelde en toegepaste luchtverkeerscontrole en de daarbij behorende verbindingsmedia worden gecoördineerd voor zover dit vereist is ter verzekering van de luchtverkeersveiligheid en de gemeenschappelijke verdediging.
 
-#### Artikel 58
+##### Artikel 58
 
 1. Een krijgsmacht, een civiele dienst, hun leden en gezinsleden zijn gerechtigd gebruik te maken van Duitse openbare en particuliere vervoermiddelen en vervoersdiensten, die voor het openbare vervoer in de Bondsrepubliek bestemd zijn. Tenzij anders is overeengekomen, is de uitoefening van dit recht onderworpen aan de algemeen voor het verkeer geldende voorschriften.
 
@@ -882,7 +904,7 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 4. De Duitse autoriteiten nemen binnen het kader van hun bevoegdheden zo nodig gepaste maatregelen om te verzekeren, dat in de behoeften van een krijgsmacht aan ketelwagens en aan slaap- en restauratierijtuigen op redelijke voorwaarden wordt voorzien door contractuele regelingen tussen de autoriteiten van de krijgsmacht en de ondernemingen die zulke diensten op commerciële basis ter beschikking van andere gebruikers stellen.
 
-#### Artikel 59
+##### Artikel 59
 
 - a). Een krijgsmacht kan veldpostkantoren voor het post- en telegraaf verkeer van de krijgsmacht, de civiele dienst, hun leden en gezinsleden, instellen en doen functioneren.
 
@@ -902,7 +924,7 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 4. Indien een onderdeel van een krijgsmacht geen eigen veldpostkantoor heeft, kunnen dat onderdeel, zijn civiele dienst en de leden en gezinsleden hiervan gebruik maken van de veldpostdienst van een andere krijgsmacht. Indien een zodanig gebruik van blijvende aard of langere duur moet zijn, worden de Duitse Bondsposterijen daaromtrent zo spoedig mogelijk ingelicht.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Voorzover dit artikel niet anders bepaalt, maken een krijgsmacht, een civiele dienst, hun leden en gezinsleden gebruik van de openbare verreberichtgevingsdiensten van de Bondsrepubliek. Op dit gebruik zijn de geldende Duitse voorschriften van toepassing, voorzover bij administratieve overeenkomsten niet anders is overeengekomen. Bij de toepassing van deze voorschriften wordt een krijgsmacht geen minder gunstige behandeling toegekend dan de Duitse strijdkrachten genieten.
 
@@ -958,13 +980,13 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 10. Op verzoek van een krijgsmacht behartigt de Bondsminister van Post en Telecommunicatie, binnen de grenzen van zijn verantwoordelijkheid, de belangen van de krijgsmacht bij de uitlegging en toepassing van dit artikel.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Onverminderd de vrijstellingen op het gebied van belastingen en in- en uitvoerrechten, voorzien in het NAVO-Status Verdrag, in deze Overeenkomst of in enige andere toepasselijke overeenkomst, dienen de prijzen voor de leverantiën en diensten aan een krijgsmacht of een civiele dienst overeen te stemmen met het in het Bondsgebied geldende prijsniveau. Deze prijzen mogen de voor leverantiën en diensten aan Duitse autoriteiten toelaatbare prijzen niet te boven gaan. Indien goederen gesubsidieerd zijn in het belang van de individuele Duitse verbruiker, kan een krijgsmacht of een civiele dienst geen aanspraak maken op dergelijke subsidies, tenzij die goederen bestemd zijn voor gebruik of verbruik door personen behorende tot de groep burgerwerknemers in de zin van artikel 56.
 
 2. Op de bepalingen van deze Overeenkomst met betrekking tot arbeidslonen en tarieven voor vervoer en voor verreberichtgeving wordt geen inbreuk gemaakt door de bepalingen van het eerste lid.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Wanneer ten behoeve van een krijgsmacht of een civiele dienst vorderingsmaatregelen (Anforderungsverfahren) volgens de Duitse vorderingswetgeving worden genomen, zijn de volgende bepalingen van toepassing:
 
@@ -976,7 +998,7 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 2. De bepalingen van het eerste lid zijn niet van toepassing met betrekking tot de Wet beperking grondeigendom en de Wet inzake de verwerving van terreinen.
 
-#### Artikel 63
+##### Artikel 63
 
 1. In de gevallen en in de mate waarin zulks in het tweede tot en met zevende lid is bepaald, worden geen betalingen gedaan voor goederen en diensten waarvan een krijgsmacht of een civiele dienst gebruik maakt voor haar eigen doeleinden of welke hun voor deze doeleinden ter beschikking zijn gesteld.
 
@@ -1022,11 +1044,11 @@ De Bondsrepubliek is de verzekeraar voor wat de ongevallenverzekering betreft.
 
 - b). Voor noodlandingen door militaire of andere bij de krijgsmacht in gebruik zijnde luchtvaartuigen zijn geen vergoedingen verschuldigd.
 
-#### Artikel 64
+##### Artikel 64
 
 De leden van een krijgsmacht of van een civiele dienst of gezinsleden kunnen zelfstandig kosteloos gebruik maken van dienstverlenende instanties, met inbegrip van de diensten van de Duitse politie, openbare gezondheidszorg en brandweer, alsmede van meteorologische, topografische en cartografische diensten en andere openbare diensten en van openbare inrichtingen, in dezelfde mate als andere personen op het gebied van de Bondsrepubliek van deze inrichtingen en diensten kosteloos gebruik kunnen maken. Hetzelfde geldt voor het gebruik van openbare wegen, hoofdstraatwegen, bruggen en bevaarbare wateren.
 
-#### Artikel 65
+##### Artikel 65
 
 - a). De vrijstelling van invoerrechten, bedoeld in artikel XI, vierde lid van het NAVO-Status Verdrag, wordt niet slechts verleend voor goederen die op het tijdstip van hun invoer eigendom zijn van een krijgsmacht of een civiele dienst doch ook voor goederen die aan een krijgsmacht of een civiele dienst worden geleverd uit hoofde van contracten die de krijgsmacht of de civiele dienst rechtstreeks met niet in de Bondsrepubliek of Berlijn (West) gevestigde personen gesloten heeft. Deze vrijstelling is van toepassing, onverschillig of de goederen worden vervoerd met vervoermiddelen van de krijgsmacht of de civiele dienst dan wel door transportondernemingen.
 
@@ -1056,7 +1078,7 @@ De Duitse autoriteiten nemen echter genoegen met van tijd tot tijd uit te voeren
 
 6. Bij de uitvoer van in het Bondsgebied door een krijgsmacht of een civiele dienst verworven goederen moet aan het douanekantoor een officiële verklaring worden overgelegd gelijk aan die bedoeld in artikel XI, vierde lid van het NAVO-Status Verdrag, behalve voorzover op de voet van het tiende lid van dat artikel van deze eis wordt afgezien.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De leden van een krijgsmacht of van een civiele dienst en de gezinsleden kunnen, naast hun persoonlijke bagage en roerende goederen en hun particuliere motorvoertuigen, ook andere goederen bestemd voor hun persoonlijk of huishoudelijk gebruik of verbruik, vrij van rechten en andere invoerbelastingen invoeren.
 
@@ -1076,7 +1098,7 @@ Dit voorrecht is niet alleen van toepassing op goederen die aan deze personen in
 
 7. Indien de douanecontrole van leden van een krijgsmacht, van een civiele dienst of van gezinsleden plaatsvindt in een douanekantoor waarbij grensliaisonpersoneel van een krijgsmacht is geplaatst, schakelen de Duitse douanebeambten dit personeel in, indien overtredingen worden geconstateerd of moeilijkheden rijzen in verband met de controle.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Een krijgsmacht is niet onderworpen aan belastingheffing met betrekking tot aangelegenheden die uitsluitend binnen het kader van haar werkzaamheden als zodanig vallen, noch met betrekking tot de voor die werkzaamheden bestemde goederen. Dit is evenwel niet van toepassing op belastingen die voortvloeien uit deelneming van de krijgsmacht aan het Duitse economische leven of betrekking hebben op hiervoor bestemde goederen.
 
@@ -1100,7 +1122,7 @@ Leveranties en diensten van de krijgsmacht aan haar leden, aan leden van de civi
 
 4. De bijzondere regelingen bedoeld in artikel XI, elfde lid, van het NAVO-Status Verdrag, voor brandstof en smeermiddelen, worden getroffen in overeenstemming met artikel 65, eerste lid onder **b**, en met het derde lid van dit artikel.
 
-#### Artikel 68
+##### Artikel 68
 
 1. Leden van een krijgsmacht of van een civiele dienst en gezinsleden verliezen geen belastingvoorrechten waarop zij ingevolge eventuele met de Bondsrepubliek gesloten internationale overeenkomsten recht hebben.
 
@@ -1110,7 +1132,7 @@ Leveranties en diensten van de krijgsmacht aan haar leden, aan leden van de civi
 
 4. Gezinsleden worden met betrekking tot de toepassing van artikel X van het NAVO-Status Verdrag op dezelfde wijze behandeld als leden van een krijgsmacht of van een civiele dienst.
 
-#### Artikel 69
+##### Artikel 69
 
 1. De rechten van de autoriteiten van een krijgsmacht of van een civiele dienst, van de leden van een krijgsmacht of van een civiele dienst of van gezinsleden om betaalmiddelen en cheques in valuta van de Bondsrepubliek overeenkomstig de voorschriften bedoeld in artikel XIV van het NAVO-Status Verdrag in te voeren, uit te voeren en te bezitten, worden niet aangetast door de bepalingen van het tweede, derde en vierde lid van dit artikel.
 
@@ -1144,11 +1166,11 @@ onder voorbehoud echter dat een systeem volgens hetwelk de leden van de krijgsma
 
 5. De autoriteiten van een krijgsmacht nemen in samenwerking met de autoriteiten van de Bondsrepubliek passende maatregelen om elk misbruik van de rechten toegekend ingevolge het tweede, derde en vierde lid van dit artikel te voorkomen en om het systeem van buitenlandse deviezenregelingen van de Bondsrepubliek te beveiligen, voorzover dit systeem, met inachtneming van de bepalingen van het tweede, derde en vierde lid van dit artikel, betrekking heeft op een krijgsmacht, een civiele dienst, hun leden en gezinsleden.
 
-#### Artikel 70
+##### Artikel 70
 
 Aan een krijgsmacht of een civiele dienst wordt, overeenkomstig te sluiten bijzondere overeenkomsten, een rente vergoed over tegoeden in Duitse marken die met valuta van de staat van herkomst zijn verworven en die op rekeningen bij de Duitse Bondsbank (Deutsche Bundesbank) als daggeld zijn gedeponeerd.
 
-#### Artikel 71
+##### Artikel 71
 
 1. De niet-Duitse niet-commerciële organisaties vermeld in het tweede lid van de op dit artikel betrekking hebbende afdeling van het Protocol van Ondertekening, worden beschouwd en behandeld als integrerende delen van de krijgsmacht.
 
@@ -1182,7 +1204,7 @@ Aan een krijgsmacht of een civiele dienst wordt, overeenkomstig te sluiten bijzo
 
 - d). personen die hun gewone verblijfplaats in het gebied van de Bondsrepubliek hebben.
 
-#### Artikel 72
+##### Artikel 72
 
 1. De niet-Duitse commerciële ondernemingen vermeld in het eerste lid van de op dit artikel betrekking hebbende afdeling van het Protocol van Ondertekening genieten:
 
@@ -1216,7 +1238,7 @@ Aan een krijgsmacht of een civiele dienst wordt, overeenkomstig te sluiten bijzo
 
 6. Indien de autoriteiten van een krijgsmacht alle of enkele vrijstellingen en voorrechten die aan deze ondernemingen of aan hun werknemers ingevolge dit artikel zijn toegekend intrekken, stellen zij de Duitse autoriteiten hiervan in kennis.
 
-#### Artikel 73
+##### Artikel 73
 
 Technische deskundigen wier diensten nodig zijn voor een krijgsmacht en die op het gebied van de Bondsrepubliek uitsluitend die krijgsmacht dienen hetzij in een adviserende hoedanigheid in technische zaken hetzij ten behoeve van de oprichting, het gebruik of het onderhoud van uitrusting, worden beschouwd en behandeld als leden van een civiele dienst.
 
@@ -1230,7 +1252,7 @@ Deze bepaling is echter niet van toepassing op:
 
 - d). personen die hun gewone verblijfplaats op het gebied van de Bondsrepubliek hebben.
 
-#### Artikel 74
+##### Artikel 74
 
 1. De artikelen XII en XIII van het NAVO-Status Verdrag zijn eveneens van toepassing op de regelingen die met betrekking tot de douanerechten en belastingen in deze Overeenkomst getroffen zijn.
 
@@ -1248,7 +1270,7 @@ Zij werken nauw met de Duitse autoriteiten samen bij de voorkoming van overtredi
 
 De Duitse autoriteiten nemen maatregelen om de openbaarmaking van de inlichtingen aan onbevoegde derden te voorkomen.
 
-#### Artikel 75
+##### Artikel 75
 
 - a). Behalve in het geval dat de verdachte een Duitser is, is noch artikel 19 van deze Overeenkomst, noch artikel VII, eerste, tweede en derde lid, van het NAVO-Status Verdrag van toepassing op een voor de inwerkingtreding van deze Overeenkomst gepleegd strafbaar feit waarvan een lid van de krijgsmachten wordt beschuldigd, indien vóór dat tijdstip:
 
@@ -1260,29 +1282,29 @@ De Duitse autoriteiten nemen maatregelen om de openbaarmaking van de inlichtinge
 
 2. Bij het bepalen van de strafmaat ten aanzien van een strafbaar feit gepleegd vóór de inwerkingtreding van deze Overeenkomst houdt de Duitse rechtbank of autoriteit naar behoren rekening met de straf voorzien bij de wetgeving van de staat van herkomst waaraan de verdachte onderworpen was op het moment van het plegen van het strafbare feit, indien blijkt dat deze straf lichter is dan die welke is voorgeschreven bij de Duitse wetgeving.
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 1. De Gemengde Commissie ingesteld ingevolge artikel 44, achtste lid, van het Krijgsmachten verdrag blijft het bevoegde lichaam om te beslissen of een ontslag uit veiligheidsoverwegingen gewettigd was, mits een verzoek overeenkomstig die bepaling door de Commissie vóór de inwerkingtreding van deze Overeenkomst werd ontvangen.
 
 2. De beslissingen van de Gemengde Commissie blijven ook na de inwerkingtreding van deze Overeenkomst van kracht voor Duitse rechtbanken in arbeidszaken.
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 De bepalingen van artikel XV van het NAVO-Status Verdrag zijn van toepassing op deze Overeenkomst, met dien verstande dat verwijzingen in dat artikel naar andere bepalingen van het NAVO-Status Verdrag worden geacht te zijn verwijzingen naar die bepalingen zoals die zijn aangevuld door deze Overeenkomst.
 
-#### Artikel 80A
+##### Artikel 80A
 
 1. Indien zich een geschil voordoet betreffende de uitlegging of toepassing van deze Overeenkomst en er geen bijzondere procedure is geregeld, trachten de rechtstreeks betrokken partijen het geschil te beslechten door middel van overleg op het laagste daarvoor in aanmerking komende niveau. Een geschil dat niet op dat niveau kan worden beslecht, kan ter beslechting worden voorgelegd aan hogere bevoegde militaire of civiele autoriteiten.
 
@@ -1296,11 +1318,11 @@ De bepalingen van artikel XV van het NAVO-Status Verdrag zijn van toepassing op 
 
 5. In afwachting van een definitieve oplossing voor het geschil onthoudt elke partij zich van gedragingen die de essentiële belangen van andere rechtstreeks betrokken partijen zouden kunnen schaden, met name de belangen die het gastland eventueel naar voren brengt.
 
-#### Artikel 81
+##### Artikel 81
 
 Elke stationerende Partij kan, na overleg met de andere Overeenkomstsluitende Partijen, zich door middel van een schriftelijke kennisgeving uit deze Overeenkomst terugtrekken met inachtneming van een opzegtermijn van twee jaar. De Bondsrepubliek kan, na overleg met de andere Overeenkomstsluitende Partijen, deze Overeenkomst ten aanzien van één of meer Overeenkomstsluitende Partijen beëindigen door middel van een schriftelijke kennisgeving met inachtneming van een opzegtermijn van twee jaar.
 
-#### Artikel 82
+##### Artikel 82
 
 Deze Overeenkomst wordt herzien:
 
@@ -1316,7 +1338,7 @@ Deze Overeenkomst wordt herzien:
 
 - iii). op elk moment op verzoek van een van de Overeenkomstsluitende Partijen ten aanzien van een of meer bepalingen van zuiver technische of administratieve aard.
 
-#### Artikel 83
+##### Artikel 83
 
 1. Deze Overeenkomst dient te worden bekrachtigd of goedgekeurd. De akten van bekrachtiging of goedkeuring worden door de ondertekenende Staten nedergelegd bij de Regering van de Verenigde Staten van Amerika, die elk der ondertekenende Staten in kennis stelt van de datum van nederlegging.
 
@@ -1346,7 +1368,7 @@ dat zij over de volgende protocollen en verklaringen overeenstemming hebben bere
 
 ## DEEL I. Gemeenschappelijke protocollen en verklaringen betreffende het NAVO-Status Verdrag
 
-#### Ad artikel I, eerste lid, onder a
+##### Ad artikel I, eerste lid, onder a
 
 1. Met het oog op de definitie van „krijgsmacht” beschouwt de Bondsrepubliek het NAVO-Status Verdrag en de Aanvullende Overeenkomst als mede van toepassing zijnde op krijgsmachten van een staat van herkomst, die zich tijdelijk op het gebied van de Bondsrepubliek bevinden in overeenstemming met artikel 1, derde lid van het Verdrag inzake het verblijf van vreemde krijgsmachten in de Bondsrepubliek Duitsland van 23 oktober 1954.
 
@@ -1390,13 +1412,13 @@ dat zij over de volgende protocollen en verklaringen overeenstemming hebben bere
 
 5. Leden van de in Berlijn gestationeerde strijdkrachten van een staat van herkomst, hun civiele diensten en gezinsleden worden beschouwd en behandeld als leden van de krijgsmacht of van de civiele dienst of als gezinsleden, wanneer zij zich als verlofganger op het gebied van de Bondsrepubliek bevinden.
 
-#### Ad artikel V, eerste lid, tweede volzin
+##### Ad artikel V, eerste lid, tweede volzin
 
 1. De autoriteiten van een staat van herkomst kunnen de leden van de krijgsmacht vergunning verlenen tot het dragen van burgerkleding in overeenstemming met de voorschriften van de staat van herkomst.
 
 2. Het bepaalde in het eerste lid is mede van toepassing op Franse detachementen waarin individuele leden van de krijgsmacht (recruten die zich bij hun onderdelen in de Bondsrepubliek gaan voegen of uit de dienst ontslagenen die naar huis terugkeren) worden ingedeeld, indien de Franse voorschriften dit personeel toestaan in burgerkleding de grens te overschrijden.
 
-#### Ad artikel VII
+##### Ad artikel VII
 
 1. De Bondsrepubliek beschouwt vergrijpen die worden gestraft langs de weg van een administratieve strafprocedure (Verwaltungsstrafverfahren), en vergrijpen waartegen slechts een geldboete is bedreigd (Ordnungswidrigkeiten), als volgens het recht van de staat van verblijf strafbare vergrijpen in de zin van artikel VII en van de daarmede rechtstreeks samenhangende bepalingen van de Aanvullende Overeenkomst.
 
@@ -1404,37 +1426,37 @@ dat zij over de volgende protocollen en verklaringen overeenstemming hebben bere
 
 - (b). De staten van herkomst geven geen gevolg aan verzoeken om uitlevering van Duitsers die zich op het grondgebied van de Bondsrepubliek bevinden als leden van een krijgsmacht of als gezinsleden.
 
-#### Ad artikel IX, zesde lid
+##### Ad artikel IX, zesde lid
 
 De Bondsrepubliek is bereid verzoeken om aan gezinsleden faciliteiten op het gebied van reizen en reducties op vervoerkosten te verlenen zeer welwillend te onderzoeken. Dit onderzoek wordt slechts uitgevoerd binnen het raam van de geldende tarieven en indien vergelijkbare omstandigheden bestaan.
 
-#### Ad artikel XIX
+##### Ad artikel XIX
 
 De Bondsregering erkent dat het ongewenst zou zijn de rechtspositie van de krijgsmachten ongeregeld te laten. Zij oefent derhalve het haar volgens artikel XIX toekomende recht tot opzegging slechts uit in verband met dringende redenen en niet dan na overleg met de regeringen van de staten van herkomst. Ingeval van opzegging is de Bondsregering bereid onverwijld onderhandelingen met de regeringen van de staten van herkomst te openen over de sluiting van passende vervangende overeenkomsten. Tot de sluiting van zodanige overeenkomsten zou zij de krijgsmachten een positie garanderen die geen afbreuk doet aan de bestendigheid van hun essentiële legeringsvereisten.
 
 ## DEEL II. Gemeenschappelijke protocollen en verklaringen betreffende de Aanvullende Overeenkomst
 
-#### Ad artikel 1
+##### Ad artikel 1
 
 Indien de Aanvullende Overeenkomst in werking mocht treden vóór het einde van de overgangsperiode, bedoeld in artikel 1, tweede lid, en in artikel 3 van het op 27 oktober 1956 tussen de Franse Republiek en de Bondsrepubliek Duitsland gesloten verdrag ter regeling van de Saarkwestie, zijn de bepalingen van de Aanvullende Overeenkomst die betrekking hebben op aangelegenheden waartoe, ingevolge hoofdstuk II van het genoemde verdrag tussen de Franse Republiek en de Bondsrepubliek Duitsland, de Duitse bevoegdheid zich niet uitstrekt, in Saarland niet van toepassing vóór het einde van de bovengenoemde periode.
 
-#### Ad artikel 2
+##### Ad artikel 2
 
 De autoriteiten van de krijgsmachten beperken het aantal naaste bloedverwanten in de zin van artikel 2, tweede lid, onder **a**, die in het grondgebied van de Bondsrepubliek worden toegelaten, zoveel mogelijk.
 
-#### Ad artikel 4
+##### Ad artikel 4
 
 Bij de toepassing van artikel 4 onderhandelen de Duitse autoriteiten uitsluitend met de autoriteiten van die staat van herkomst die de betreffende rechten en verplichtingen uitoefent, onderscheidenlijk vervult.
 
-#### Ad artikel 5
+##### Ad artikel 5
 
 Artikel 5, eerste lid, onder a, is niet van toepassing op het binnenkomen in of verlaten van het grondgebied van de Bondsrepubliek.
 
-#### Ad artikel 7
+##### Ad artikel 7
 
 Bij de toepassing van de Duitse voorschriften inzake de dienstplicht wordt de tijd die iemand als lid van een krijgsmacht, van een civiele dienst of als gezinslid op het grondgebied van de Bondsrepubliek doorbrengt, buiten beschouwing gelaten.
 
-#### Ad artikel 8
+##### Ad artikel 8
 
 1. Uitwijzing kan slechts geschieden in overeenstemming met de bepalingen van de Duitse wetgeving inzake het toezicht van de politie op vreemdelingen (Ausländerpolizeirecht).
 
@@ -1490,7 +1512,7 @@ Bij de toepassing van de Duitse voorschriften inzake de dienstplicht wordt de ti
 
 3. De bepalingen van de Duitse wetgeving betreffende uitwijzing en in het bijzonder artikel 5, eerste lid, van de Politieverordening inzake vreemdelingen is slechts van toepassing indien de daar vermelde gronden voor uitwijzing niet onverenigbaar zijn met de bepalingen van het NAVO-Status Verdrag en van de Aanvullende Overeenkomst.
 
-#### Ad artikel 12
+##### Ad artikel 12
 
 De uitdrukking „Duitse wetgeving inzake noodweer (Notwehr)” in artikel 12, tweede lid, wordt uitgelegd overeenkomstig de volgende Duitse interpretatie van artikel 53 van het Duitse Wetboek van Strafrecht:
 
@@ -1520,13 +1542,13 @@ De uitdrukking „Duitse wetgeving inzake noodweer (Notwehr)” in artikel 12, t
 
 - (xi). Slechts voorzover een verdedigingshandeling is gericht tegen de aanrander, wordt een verdedigingshandeling beschouwd als noodweer ter afwering van een wederrechtelijke aanranding. Handelingen die rechtsgoederen van derden die er niet bij betrokken zijn schenden worden niet door noodweer als zodanig gedekt. Onder bepaalde omstandigheden kunnen de daders van zodanige handelingen ongestraft blijven op grond van overmacht (Notstand).
 
-#### Ad artikel 18A
+##### Ad artikel 18A
 
 1. In de in het eerste lid van artikel 18A bedoelde gevallen verlenen de Duitse autoriteiten bijstand indien Duitse wettelijke bepalingen of door de Bondsrepubliek aanvaarde verdragsrechtelijke verplichtingen zulks vereisen.
 
 2. In buitengewone omstandigheden, zoals in geval van de onmiddellijke dreiging van een gewapend conflict, kunnen de autoriteiten van een Staat van herkomst en de bevoegde Duitse autoriteiten akkoorden sluiten waarin rekening wordt gehouden met deze omstandigheden.
 
-#### Ad artikel 19
+##### Ad artikel 19
 
 1. Het verzoek om afstand van het recht van de Bondsrepubliek om bij voorrang rechtsmacht in strafzaken uit te oefenen, bedoeld in artikel 19, eerste lid, wordt door die staten van herkomst die reeds besloten hebben gebruik te maken van de afstand van dat voorrangsrecht, gedaan bij het inwerkingtreden van de Aanvullende Overeenkomst. De Bondsrepubliek doet ten gunste van die staten afstand van haar voorrangsrecht bij het inwerkingtreden van de Aanvullende Overeenkomst. Indien een staat van herkomst na het inwerkingtreden van de Aanvullende Overeenkomst besluit gebruik te maken van de afstand van het voorrangsrecht, verzoekt die staat hierom eerst nadat met de Bondsregering overeenstemming is bereikt omtrent de noodzakelijke overgangsregelingen.
 
@@ -1540,15 +1562,15 @@ De uitdrukking „Duitse wetgeving inzake noodweer (Notwehr)” in artikel 12, t
 
 - (b). De betrokken autoriteiten werken met betrekking tot de onder **(a)** genoemde delicten zeer nauw samen van de aanvang van het voorbereidende onderzoek af, teneinde de in artikel VII, zesde lid, van het NAVO-Status Verdrag bedoelde wederzijdse hulp te verlenen.
 
-#### Ad artikel 22
+##### Ad artikel 22
 
 De staten van herkomst behouden het recht de gearresteerde, hetzij in een eigen inrichting voor de bewaring van arrestanten, hetzij bij haar krijgsmacht in bewaring te houden. Teneinde een soepele vervulling van hun verplichtingen ingevolge artikel 22, derde lid, tweede volzin, te verzekeren, houden de autoriteiten van de staten van herkomst de gearresteerde voorzover mogelijk in bewaring in de nabijheid van de standplaats van de Duitse autoriteit die de zaak behandelt, zonder dat echter de verplichting bestaat de gearresteerde buiten het eigen gebied van de krijgsmacht onder te brengen.
 
-#### Ad artikel 26, eerste lid, onder (b)
+##### Ad artikel 26, eerste lid, onder (b)
 
 De uitdrukking „militaire noodzaak” kan ook worden toegepast op gevallen waarin het delict werd gepleegd door een persoon die zich in verband met oefeningen of manoeuvres tijdelijk op het grondgebied van de Bondsrepubliek ophield.
 
-#### Ad artikel 31
+##### Ad artikel 31
 
 1. De artikelen 17 tot en met 24 van het Haagse Verdrag betreffende de burgerlijke rechtsvordering van 17 juli 1905 worden in de betrekkingen tussen de Bondsrepubliek en de Franse Republiek beschouwd als een overeenkomst in de zin van artikel 31, tot het tijdstip waarop het Haagse Verdrag betreffende de burgerlijke rechtsvordering van 1 maart 1954 in werking treedt.
 
@@ -1556,7 +1578,7 @@ De uitdrukking „militaire noodzaak” kan ook worden toegepast op gevallen waa
 
 - De aansprakelijkheid van de staat (Bund of Land) of van een publiekrechtelijk lichaam voor schade geleden door een lid van Belgische of Franse krijgsmacht, van hun civiele diensten of door hun gezinsleden als gevolg van fouten, door personen die in de Bondsrepubliek in Duitse openbare dienst zijn als zodanig begaan, wordt beheerst door de voor Duitse onderdanen (Inländer) geldende voorschriften.
 
-#### Ad artikel 41
+##### Ad artikel 41
 
 1. Artikel 41 is niet van toepassing op aanspraken wegens schade die voortvloeit uit contracten of daaraan verwante rechtsverhoudingen.
 
@@ -1586,19 +1608,19 @@ De uitdrukking „militaire noodzaak” kan ook worden toegepast op gevallen waa
 
 9. De administratieve overeenkomsten, bedoeld in artikel 41, dertiende lid, kunnen ook regelingen behelzen die afwijken van de procedure-regelingen, vervat in artikel VIII van het NAVO-Status Verdrag.
 
-#### Ad Artikel 46
+##### Ad Artikel 46
 
 1. Duitse voorschriften inzake het binnenvliegen en het gebruik van het Duitse luchtruim en het gebruik van luchtvaartinstallaties en -inrichtingen, alsmede de toepasselijke procedures betreffende kennisgeving, goedkeuring en coördinering als vervat in de desbetreffende wetten, voorschriften en bekendmakingen omvatten mede de wet inzake het luchtverkeer (Luftverkehrsgesetz) in de dan van kracht zijnde versie, en de uit hoofde daarvan uitgevaardigde voorschriften, civiele en militaire administratieve regels en procedures, alsook relevante procedures en nationale voorschriften als bekendgemaakt in het AFCENT **Low Flying Handbook** of latere publikaties. Naast de bepalingen van artikel 46 zijn overeenkomsten – en eventuele toekomstige wijzigingen daarop – inzake het uitvoeren van manoeuvres en andere oefeningen in het Duitse luchtruim die de Bondsrepubliek en één of meer Staten van herkomst hebben gesloten of zullen sluiten van toepassing, totdat deze worden vervangen of opgezegd.
 
 2. De in het tweede lid van artikel 46 bedoelde bevoegde organisaties omvatten mede de AFCENT **Low Flying Working Group** of een organisatie waardoor deze wordt opgevolgd.
 
-#### Ad artikel 47
+##### Ad artikel 47
 
 In de administratieve overeenkomsten, bedoeld in artikel 47, vijfde lid onder (**g**), wordt de volgende clausule opgenomen:
 
 - „Teneinde de Duitse autoriteiten in staat te stellen de Duitse begrotingsvoorschriften na te leven, wordt in de schriftelijke toestemming, bedoeld in artikel 47, vijfde lid onder (**c**) van de Aanvullende Overeenkomst, de officiële verklaring opgenomen, dat de vereiste middelen op de begroting beschikbaar zijn.”
 
-#### Ad artikel 48
+##### Ad artikel 48
 
 - (a). Indien ter uitvoering van artikel 48, eerste lid onder (**c**), derde volzin, gebruikscontracten (Nutzungsverträge), duidingscontracten (Duldungsverträge) of dergelijke contracten gesloten worden, sluiten de Duitse autoriteiten overeenkomsten inzake de omvang van de te betalen schadeloosstelling, in overleg met de autoriteiten van de krijgsmacht of de civiele dienst, behalve in zoverre die schadeloosstelling door de Bondsrepubliek moet worden gedragen ingevolge artikel 63, vijfde lid, onder (**a**). Hetzelfde geldt, ingeval op grond van de wet inzake de verwerving van terreinen een onroerend goed wordt gevorderd, ten aanzien van overeenkomsten inzake de omvang van een schadeloosstelling voor voorlopige inbezitneming (Besitzeinweisungsentschädigung) of een andersoortige schadeloosstelling. Artikel 63 is onverminderd van kracht.
 
@@ -1618,13 +1640,13 @@ In de administratieve overeenkomsten, bedoeld in artikel 47, vijfde lid onder (*
 
 7. De onderhandelingen die ingevolge artikel 48, vijfde lid, onder (**a**), tussen de autoriteiten van een krijgsmacht en de Duitse autoriteiten worden gevoerd over de vraag of een onroerend goed dat door de Bondsrepubliek ter vervanging is aangeboden voldoet aan de vereisten van de krijgsmacht of de civiele dienst, strekken zich, voorzover noodzakelijk, uit tot financiële vraagstukken die in dit verband rijzen.
 
-#### Ad artikel 50
+##### Ad artikel 50
 
 1. Artikel 50 mag in geen geval zo worden uitgelegd, dat het toegestaan is goederen die geen eigendom van de Bond zijn en behoren tot de inrichting en de inboedel van een onroerend goed, zonder toestemming van de eigenaar van het ene onroerende goed over te brengen naar het andere.
 
 2. Indien de bouwtechnische gegevens niet meer ter beschikking staan, stellen de autoriteiten van de krijgsmacht en de Duitse autoriteiten volgens de criteria die op gelijksoortige gebouwen toepasselijk zijn, gemeenschappelijk vast welke voorwerpen vallen onder het bepaalde in artikel 50, onder (**a**).
 
-#### Ad artikel 51
+##### Ad artikel 51
 
 1. Indien het oneconomisch is een voorwerp naar het grondgebied van de Bondsrepubliek terug te brengen, bijvoorbeeld indien de transportkosten de waarde van het voorwerp te boven gaan, geven de Duitse autoriteiten toestemming tot verkoop van dat voorwerp in het buitenland.
 
@@ -1638,11 +1660,11 @@ In de administratieve overeenkomsten, bedoeld in artikel 47, vijfde lid onder (*
 
 6. De overeenkomsten bedoeld in artikel 51, vierde lid, worden gesloten in de geest van de wederzijdse hulp bedoeld in artikel 3 van het Noordatlantische Verdrag.
 
-#### Ad artikel 52
+##### Ad artikel 52
 
 Bij het bereiken van overeenstemming over de restwaarde gaan de Duitse autoriteiten uit van het militaire of economische nut, dat de achtergelaten inrichtingen, uitrustingsstukken of voorraden voor henzelf hebben, of van de eventuele netto-opbrengst van de verkoop.
 
-#### Ad artikel 53
+##### Ad artikel 53
 
 1. Tenzij anders is bepaald, is een krijgsmacht niet gerechtigd onroerende goederen die haar voor gebruik ter beschikking zijn gesteld, te exploiteren ter verkrijging van economisch voordeel.
 
@@ -1708,11 +1730,11 @@ Bij het bereiken van overeenstemming over de restwaarde gaan de Duitse autoritei
 
 7. Indien bepalingen van de Aanvullende Overeenkomst of bijzondere NAVO-regelingen voor bepaalde onroerende goederen een andere procedure voorschrijven ten aanzien van de samenwerking op de gebieden bedoeld in het vijfde lid, prevaleren deze bepalingen of bijzondere regelingen.
 
-#### Ad artikel 54, eerste lid
+##### Ad artikel 54, eerste lid
 
 Indien het voor een krijgsmacht of een civiele dienst om wettelijke of technische redenen onmogelijk is tot in bijzonderheden te voldoen aan een Duits voorschrift inzake de gezondheid, komen de Duitse autoriteiten en de autoriteiten van de krijgsmacht onverwijld andere maatregelen overeen ter bereiking van het in het voorschrift beoogde doel.
 
-#### Ad artikel 56, eerste lid
+##### Ad artikel 56, eerste lid
 
 1. De toepassing van de voorschriften inzake de arbeidsomstandigheden door de krijgsmacht en de civiele dienst wordt beheerst door:
 
@@ -1728,15 +1750,15 @@ Indien het voor een krijgsmacht of een civiele dienst om wettelijke of technisch
 
 4. Op inrichtingen die zijn gebouwd of geïnstalleerd vóór de inwerkingtreding van de Overeenkomst van 18 maart 1993 tot wijziging van deze Overeenkomst blijven de tot dusver geldende voorschriften inzake technische vereisten van toepassing. Dit geldt niet indien de inrichtingen wezenlijke veranderingen ondergaan of indien het gebruik ervan aanzienlijk wordt gewijzigd of indien er, gezien de aard van de exploitatie, vermijdbare risico's voor het leven of de gezondheid van derden, met name burgerpersoneel te verwachten zijn.
 
-#### Ad artikel 56, derde lid
+##### Ad artikel 56, derde lid
 
 De voorschriften van het Duitse recht inzake de voorkoming van ongevallen dienen slechts in aanmerking te worden genomen voor zover een krijgsmacht of een civiele dienst geen overeenkomstige richtlijnen inzake de voorkoming van ongevallen heeft uitgevaardigd. Bij de uitvaardiging van richtlijnen inzake de voorkoming van ongevallen, en met betrekking tot andere vraagstukken betreffende de voorkoming van ongevallen, wint de krijgsmacht of de civiele dienst advies in bij de bevoegde Duitse autoriteiten. Indien deze autoriteiten van oordeel zijn dat de richtlijnen inzake de voorkoming van ongevallen ontoereikend lijken te zijn, vindt overleg plaats in overeenstemming met de derde volzin van het eerste lid van artikel 53.
 
-#### Ad artikel 56, vijfde lid
+##### Ad artikel 56, vijfde lid
 
 De bevoegdheid van de Duitse autoriteiten om de wijze van uitbetalen vast te stellen, sluit niet uit dat er overeenkomsten worden gesloten tussen deze autoriteiten en de autoriteiten van een krijgsmacht of van een civiele dienst, waarbij de berekening en de uitbetaling van de bezoldiging van burgerpersoneel geschiedt door andere instanties dan de Duitse autoriteiten.
 
-#### Ad artikel 56, negende lid
+##### Ad artikel 56, negende lid
 
 1. De individuele administratieve onderdelen en inrichtingen (Betriebe) van een krijgsmacht of van een civiele dienst op het grondgebied van de Bondsrepubliek Duitsland, zoals deze door de betrokken krijgsmacht zijn omschreven, worden beschouwd als diensten in de zin van de federale Wet inzake de vertegenwoordiging van het personeel (Bundespersonalvertretungsgesetz) van 15 maart 1974 (Bundesgesetzblatt 1974, Teil I, blz. 693) met latere wijzigingen, met inbegrip van de wijziging van 16 januari 1991 (Gesetz über die Beteiligung der Soldaten und der Zivildienstleistenden - BG - van 16 januari 1991, Bundesgesetzblatt 1991, Teil I, blz. 47), hierna te noemen „de Wet". De hoofdkwartieren die administratief rechtstreeks ondergeschikt zijn aan de hoogste commandant van een krijgsmacht en waaraan andere diensten administratief ondergeschikt zijn, zijn de bemiddelingsautoriteiten. De hoogste commandant is het hoofdkwartier van een krijgsmacht, als zodanig aangewezen door de betrokken Staat van herkomst, bij wie de eindbeslissing berust in aangelegenheden waarbij de ondernemingsraden betrokken zijn. Indien beslissingen worden genomen op niveaus boven dat van de hoogste commandant, draagt de krijgsmacht er zorg voor dat tijdig inlichtingen worden verstrekt aan de ondernemingsraad.
 
@@ -1782,11 +1804,11 @@ De bevoegdheid van de Duitse autoriteiten om de wijze van uitbetalen vast te ste
 
 10. Op verzoek van een krijgsmacht of een civiele dienst maakt de door de Bondsrepubliek aangewezen dienst een strafvervolging aanhangig wegens schending van geheimhouding (Verletzung der Schweigepflicht) overeenkomstig artikel 203, tweede lid, nummer 3, en artikel 353b, eerste lid, nummer 3, van het Wetboek van Strafrecht.
 
-#### Ad artikel 57, derde lid
+##### Ad artikel 57, derde lid
 
 Gedurende de dooiperiode worden door de Duitse autoriteiten geplaatste speciale verkeerstekens, of door deze autoriteiten uitgegeven speciale voorschriften, opgevolgd, behalve in geval van ongelukken, rampen of noodtoestand.
 
-#### Ad artikel 58
+##### Ad artikel 58
 
 De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de door Duitse diensten in bedrijf gehouden bijzondere interne telefoonnetten blijven gebruiken, onder voorbehoud van het sluiten van administratieve overeenkomsten, mits:
 
@@ -1796,7 +1818,7 @@ De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de doo
 
 - (c). vervolgens het aantal aansluitingen bij wederzijdse overeenkomst in toenemende mate wordt verminderd en deze aansluitingen tenslotte worden opgeheven, zodra de technische ontwikkeling van het openbare telefoonnet of een daarvoor in de plaats tredend militair net een zodanig uitzonderlijk gebruik overbodig maakt.
 
-#### Ad artikel 60
+##### Ad artikel 60
 
 1. Vervallen.
 
@@ -1816,7 +1838,7 @@ De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de doo
 
 - e. Indien radio-installaties van een krijgsmacht radio-installaties die buiten het grondgebied van de Bondsrepubliek zijn gevestigd storen of door dergelijke installaties zelf worden gestoord, handelen de Duitse autoriteiten overeenkomstig het op dat moment van kracht zijnde Internationale Verdrag betreffende de Telecommunicatie en het daarbij behorende Radioreglement.
 
-#### Ad artikel 63
+##### Ad artikel 63
 
 1. De regeling neergelegd in artikel 63 sluit de mogelijkheid niet uit dat overeenkomsten worden gesloten inzake financiële vraagstukken tijdens besprekingen of onderhandelingen die voorzien zijn in de Aanvullende Overeenkomst of in het NAVO-Status Verdrag en waarbij financiële vraagstukken een rol spelen.
 
@@ -1874,7 +1896,7 @@ De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de doo
 
 12. Schadevergoeding die ingevolge de Wet inzake de verwerving van terreinen (artikel 63, vijfde lid, onder (**a**), sub (i)) moet worden betaald, omvat de betalingen die in het geval van verwerving in het vrije verkeer moeten worden betaald, in het bijzonder de koopprijs en huur- en pachtrenten.
 
-#### Ad artikel 68
+##### Ad artikel 68
 
 - (a). Indien een nieuwe Duitse belasting, die na het inwerkingtreden van de Aanvullende Overeenkomst is ingevoerd en niet uitsluitend een uitbreiding van een bestaande Duitse belasting is, van toepassing is op leden van een krijgsmacht of van een civiele dienst of op gezinsleden, ingevolge de bepalingen van het NAVO-Status Verdrag en de Aanvullende Overeenkomst, en volgens de bepalingen van de Duitse belastingwetgeving rechtstreeks door hen moet worden betaald, onderzoekt de Bondsregering op verzoek nauwgezet of en in hoeverre die belasting door de genoemde personen betaald moet worden. De Bondsregering laat zich hierbij in het bijzonder leiden door de overweging, dat vermeden moet worden leden van een krijgsmacht of een civiele dienst of gezinsleden lasten op te leggen, die in het licht van het doel en de bijzondere voorwaarden van hun aanwezigheid in de Bondsrepubliek ongerechtvaardigd schijnen.
 
@@ -1900,7 +1922,7 @@ De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de doo
 
 - (g). **Bedrijfsbelastingen** Gewerbesteuer, Umsatzsteuer, Schankerlaubnissteuer, Getränkesteuer en andere belastingen die op ondernemingen van toepassing kunnen zijn. De belastingen worden geheven indien leden van een krijgsmacht of van een civiele dienst, naast hun werkzaamheden als lid van een krijgsmacht of civiele dienst, binnen het grondgebied van de Bondsrepubliek optreden als ondernemer. Het begrip „ondernemer” („Unternehmer”) omvat de zelfstandige uitoefening van beroeps- of bedrijfswerkzaamheden, dat wil zeggen: iedere voortdurende werkzaamheid die er op gericht is inkomsten (Einnahmen) te verkrijgen, ook indien het oogmerk om winst te behalen ontbreekt. Het begrip „omzet” (Umsatz) omvat leveranties en diensten die een ondernemer binnen het grondgebied van de Bondsrepubliek in het kader van zijn onderneming tegen betaling uitvoert.
 
-#### Ad artikel 71
+##### Ad artikel 71
 
 1. Tenzij met de Duitse autoriteiten anders is overeengekomen, mag het totaal aantal burgerwerknemers in de zin van artikel 56 van de Aanvullende Overeenkomst die bij het inwerkingtreden van die Overeenkomst doorlopend in dienst zijn in verkoopmagazijnen en clubs ten dienste van een krijgsmacht, met niet meer dan 25% verhoogd worden.
 
@@ -1988,7 +2010,7 @@ De militaire vervoersdiensten van een krijgsmacht kunnen in beperkte mate de doo
 
 - c. artikel 53A, in het bijzonder met betrekking tot administratieve beslissingen.
 
-#### Ad artikel 72
+##### Ad artikel 72
 
 1. Niet-Duitse commerciële ondernemingen in de zin van artikel 72, eerste lid:
 

@@ -1,0 +1,171 @@
+---
+title: "Regeling van het College voor Toetsen en Examens van 25 juni 2018, nummer CvTE-18.00866, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2020, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2021 en 2022 (Regeling syllabi centrale examens vo 2020)"
+identifier: "BWBR0041196"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041196"
+soort: "zbo"
+stam_id: "14688123"
+version_id: "25158082"
+internal_id: "C35971821"
+label_id: "14640614"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041196/2023-01-01/0"
+intitule_bron: "Stcrt.2018-41288"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-25"
+intitule_published: "2018-07-24"
+intitule_in_force: "2018-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-41288"
+original_signed_date: "2018-06-25"
+original_published_date: "2018-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-41288"
+entry_into_force_date: "2018-07-25"
+jci_1_3: "jci1.3:c:BWBR0041196&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0041196&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling syllabi centrale examens vo 2020"
+signed_date: "2018-06-25"
+entry_into_force: "2018-07-25"
+---
+# Regeling van het College voor Toetsen en Examens van 25 juni 2018, nummer CvTE-18.00866, houdende vaststelling van de syllabi voor de centrale examens in het vwo, havo en vmbo 2020, nadere vaststelling van enkele eerder vastgestelde syllabi, tevens preliminaire vaststelling van enkele syllabi 2021 en 2022 (Regeling syllabi centrale examens vo 2020)
+
+Gelet op [artikel 2, tweede lid, aanhef en onderdeel f, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=2);
+
+Gezien de goedkeuring van de Minister voor Basis- en Voortgezet Onderwijs en Media, gegeven op 11 juli 2018, kenmerk 1265456;
+
+Besluit:
+
+##### Artikel 1. Vaststelling syllabi 2020
+
+Vervallen
+
+##### Artikel 2. Nadere vaststelling van enkele eerder vastgestelde syllabi
+
+Vervallen
+
+##### Artikel 3. Preliminaire vaststelling van enkele syllabi 2021 en 2022
+
+Vervallen
+
+##### Artikel 4. Bekendmaking
+
+Vervallen
+
+##### Artikel 5. Inwerkingtreding
+
+Vervallen
+
+##### Artikel 6. Citeertitel
+
+Vervallen
+
+## Bijlage 1a
+
+Vervallen
+
+### Syllabi vwo 2020
+
+Voor de centrale examens vwo 2020 worden syllabi voor de volgende vakken vastgesteld:
+
+## Bijlage 2
+
+Vervallen
+
+### Syllabi havo 2020
+
+Voor de centrale examens havo 2020 worden syllabi voor de volgende vakken vastgesteld:
+
+## Bijlage 3b
+
+### Preliminaire vaststelling syllabi 2022
+
+Voor de centrale examens vmbo 2020 worden syllabi voor de volgende vakken vastgesteld:
+
+## Bijlage 2
+
+Vervallen
+
+### Nadere vaststelling syllabi 2019
+
+### Preliminaire vaststelling syllabi 2021
+
+De syllabi voor de centrale examens vwo 2019 die bij een eerdere [Regeling syllabi centrale examens vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039851) zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
+
+economie
+
+geschiedenis
+
+Latijn
+
+maatschappijwetenschappen
+
+moderne vreemde talen
+
+### havo
+
+De syllabi voor de centrale examens havo 2019 die bij een eerdere [Regeling syllabi centrale examens vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039851) zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
+
+aardrijkskunde
+
+filosofie
+
+maatschappijwetenschappen
+
+moderne vreemde talen
+
+### vmbo
+
+De syllabi voor de centrale examens vmbo 2019 die bij een eerdere [Regeling syllabi centrale examens vo](https://wetten.overheid.nl/jci1.3:c:BWBR0039851) zijn vastgesteld, worden nader vastgesteld voor de volgende vakken:
+
+**profielvakken beroepsgericht:**
+
+## Bijlage 3a
+
+### Preliminaire vaststelling syllabi 2021
+
+## Bijlage 3b
+
+### Preliminaire vaststelling syllabi 2022
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 3a
+
+## Bijlage 3b
+
+### Preliminaire vaststelling syllabi 2022
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 1b
+
+Vervallen
+
+## Bijlage 1c
+
+Vervallen
+
+## Bijlage 3a
+
+Vervallen
+
+### Preliminaire vaststelling syllabi 2021
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+## Bijlage 3b
+
+Vervallen
+
+### Preliminaire vaststelling syllabi 2022
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
+
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.

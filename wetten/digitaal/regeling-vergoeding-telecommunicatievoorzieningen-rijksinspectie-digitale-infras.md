@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergoeding telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 9 mei 2022, nr. WJZ/ 22084591, houdende Regels omtrent de vergoeding voor de kosten van de bemoeiing met betrekking tot de in artikel 31 van de Wet telecommunicatievoorzieningen BES genoemde werkzaamheden en diensten (Regeling vergoeding telecommunicatievoorzieningen Agentschap Telecom BES 2022)"
 identifier: "BWBR0046654"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046654"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046654"
+soort: "ministeriele-regeling-BES"
+stam_id: "16358053"
+version_id: "28622772"
+internal_id: "C40377591"
+label_id: "16282344"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046654/2023-01-01/0"
+intitule_bron: "Stcrt.2022-12100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-09"
+intitule_published: "2022-05-12"
+intitule_in_force: "2022-05-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-12100"
+original_signed_date: "2022-05-09"
+original_published_date: "2022-05-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-12100"
+entry_into_force_date: "2022-05-13"
+jci_1_3: "jci1.3:c:BWBR0046654&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0046654&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vergoeding telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022"
+signed_date: "2022-05-09"
+entry_into_force: "2022-05-13"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 9 mei 2022, nr. WJZ/ 22084591, houdende Regels omtrent de vergoeding voor de kosten van de bemoeiing met betrekking tot de in artikel 31 van de Wet telecommunicatievoorzieningen BES genoemde werkzaamheden en diensten (Regeling vergoeding telecommunicatievoorzieningen Agentschap Telecom BES 2022)
 
 Gelet op de [artikelen 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=6) en [7a van het Besluit vergoedingen Telecommunicatiewet en Wet telecommunicatievoorzieningen BES](onbekend);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,25 +48,25 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469).
 
-#### Artikel 2
+##### Artikel 2
 
 Als vergoedingen worden vastgesteld de vergoedingen die zijn opgenomen in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de kosten van de bemoeiingen met betrekking tot werkzaamheden en diensten die niet zijn genoemd in de bij deze regeling behorende [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01), is een vergoeding verschuldigd die wordt vastgesteld op grond van een uurtarief van USD 116.
 
 2. Bij onregelmatigheid of overwerk kan de vergoeding, bedoeld in de [bijlagen I](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=I&z=2023-01-01&g=2023-01-01) en [II](https://wetten.overheid.nl/jci1.3:c:BWBR0046654&bijlage=II&z=2023-01-01&g=2023-01-01), worden verhoogd met een toeslag van 30% voor onregelmatigheid of 50% voor overwerk.
 
-#### Artikel 4
+##### Artikel 4
 
 De [Regeling vergoedingen telecommunicatievoorzieningen Agentschap Telecom BES 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0037629) wordt ingetrokken.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling vergoeding telecommunicatievoorzieningen Rijksinspectie Digitale Infrastructuur BES 2022.
 

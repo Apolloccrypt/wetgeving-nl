@@ -1,13 +1,39 @@
 ---
-title: "Regeling energie vervoer"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IenW/BSK-2018/123399, houdende vaststelling van regels ter uitvoering van de titels 9.7 en 9.8 van de Wet milieubeheer en het Besluit energie vervoer en tot intrekking van de Regeling hernieuwbare energie vervoer 2015 en wijziging van de Regeling brandstoffen luchtverontreiniging (Regeling energie vervoer)"
 identifier: "BWBR0041050"
-categorie: "Overig"
-publicatiedatum: 2025-03-26
-laatste_update: 2025-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041050"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-26"
+last_updated: "2025-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041050"
+soort: "ministeriele-regeling"
+stam_id: "14654173"
+version_id: "25087712"
+internal_id: "C35895761"
+label_id: "14607574"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041050/2025-03-26/0"
+intitule_bron: "Stcrt.2018-34392"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-18"
+intitule_published: "2018-06-21"
+intitule_in_force: "2018-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34392"
+original_signed_date: "2018-06-18"
+original_published_date: "2018-06-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34392"
+entry_into_force_date: "2018-07-01"
+jci_1_3: "jci1.3:c:BWBR0041050&z=2025-03-26&g=2025-03-26"
+jci_1_0: "1.0:c:BWBR0041050&g=2025-03-26"
+citeertitel_status: "officieel"
+short_title: "Regeling energie vervoer"
+signed_date: "2018-06-18"
+entry_into_force: "2018-07-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 18 juni 2018, nr. IenW/BSK-2018/123399, houdende vaststelling van regels ter uitvoering van de titels 9.7 en 9.8 van de Wet milieubeheer en het Besluit energie vervoer en tot intrekking van de Regeling hernieuwbare energie vervoer 2015 en wijziging van de Regeling brandstoffen luchtverontreiniging (Regeling energie vervoer)
 
 Gelet op de [artikelen 9.7.1.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.1.1), [9.7.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.1.4), [9.7.2.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.2.3), [9.7.4.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.5), [9.7.4.6, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), [9.7.4.7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.7), [9.7.5.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.5.2), [9.7.5.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.5.3), [9.7.5.5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.5.5), [9.8.1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.1.4), [9.8.2.3, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.2.3), [9.8.4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.4.2), [9.8.4.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.4.3), [9.8.4.5, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.4.5) en de [artikelen 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=7), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9), [11, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=12), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=15), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=18), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=21), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=24), [39, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=40), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=41) en [42 van het Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=42);
@@ -20,7 +46,7 @@ Treedt in werking op het tijdstip waarop het Besluit energie vervoer in werking 
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **transactie:** registerhandeling met betrekking tot de invoer van een levering tot eindverbruik, een inboeking van een geleverde hoeveelheid hernieuwbare energie of een afboeking of overboeking van hernieuwbare brandstofeenheden.
 
-#### Artikel 2
+##### Artikel 2
 
 De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde brandstof, de geleverde biobrandstof of de geleverde hernieuwbare brandstof, waarvoor bijlage III bij de richtlijn hernieuwbare energie geen energie-inhoud vermeldt,
 
@@ -74,7 +100,7 @@ De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde b
 
 - c. betreft een representatieve waarde.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit alle informatie die de emissieautoriteit nodig heeft om te bepalen welke ondernemingen een jaarverplichting hebben. Hiertoe levert zij ten minste in oktober een voorlopige lijst met namen van de ondernemingen die naar verwachting een jaarverplichting hebben over het lopende kalenderjaar en in februari een lijst met namen van de ondernemingen met een jaarverplichting over het voorafgaande kalenderjaar. Deze lijst omvat de houders van een vergunning voor een accijnsgoederenplaats voor minerale oliën, geregistreerd geadresseerden voor minerale oliën en importeurs, die meer dan 500.000 liter benzine, diesel of zware stookolie uitslaan tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2).
 
@@ -86,7 +112,7 @@ De energie-inhoud op basis van de onderste verbrandingswaarde van de geleverde b
 
 #### § 2. Jaarverplichting hernieuwbare energie vervoer
 
-#### Artikel 4
+##### Artikel 4
 
 Bij het invoeren van de hoeveelheid benzine, diesel en zware stookolie, bedoeld in [artikel 9.7.2.3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.2.3), vermeldt de leverancier tot eindverbruik de volgende gegevens:
 
@@ -102,13 +128,13 @@ Bij het invoeren van de hoeveelheid benzine, diesel en zware stookolie, bedoeld 
 
 - f. indien de opgave afwijkt van de accijnsopgave, de verklaring voor die afwijking.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 #### § 3. Inboeken hernieuwbare energie vervoer
 
-#### Artikel 6
+##### Artikel 6
 
 1. De hoeveelheid vloeibare biobrandstof die wordt ingeboekt is de fysieke hoeveelheid in liters bij een temperatuur van 15°C, of de fysieke hoeveelheid in kilogrammen, die blijkt uit de bedrijfsadministratie van de opslaglocatie waar vanaf door de inboeker is geleverd aan de Nederlandse markt.
 
@@ -122,7 +148,7 @@ Vervallen
 
 6. Indien de geleverde hoeveelheid vloeibare biobrandstof als dubbel tellend ingeboekt wordt, dan komt de aard van de grondstof van het bewijs van duurzaamheid overeen met de aard van de grondstof van de dubbeltellingverklaring.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij een levering van een gasvormige biobrandstof met behulp van het gastransportnet, is de hoeveelheid geleverde gasvormige biobrandstof die wordt ingeboekt, de geleverde hoeveelheid in kilogrammen die door garanties van oorsprong voor gas uit hernieuwbare energiebronnen boekhoudkundig vergroend wordt.
 
@@ -144,7 +170,7 @@ Vervallen
 
 7. Indien de geleverde hoeveelheid gasvormige biobrandstof als dubbel tellend ingeboekt wordt, dan komt de aard van de grondstof van de garanties van oorsprong, bedoeld in het derde en vierde lid, overeen met de aard van de grondstof van de dubbeltellingverklaring.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De hoeveelheid vloeibare hernieuwbare brandstof die wordt ingeboekt is de fysieke hoeveelheid in liters bij een temperatuur van 15°C of kilogrammen zoals blijkt uit de bedrijfsadministratie van de opslaglocatie waar vanaf door de inboeker is geleverd aan de Nederlandse markt voor vervoer.
 
@@ -154,7 +180,7 @@ Vervallen
 
 4. Voor zover een hoeveelheid vloeibare hernieuwbare brandstof in een brandstof of aan een bestemming is geleverd die niet in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=1&z=2025-03-26&g=2025-03-26), deel A, is vermeld, is de inboeking niet toegestaan.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De hoeveelheid geleverde elektriciteit die wordt ingeboekt, bedoeld in [artikel 10, eerste lid, onderdelen a en b, en derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=10), is de geleverde hoeveelheid in kWh die blijkt uit de meter van het bemeterd leverpunt.
 
@@ -172,7 +198,7 @@ Vervallen
 
 - c. hebben betrekking op in Nederland geproduceerde elektriciteit uit hernieuwbare bronnen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De inboeker beschikt over een administratieve organisatie met maatregelen van interne beheersing en controle die in opzet en werking waarborgen dat hij de hoeveelheid ingeboekte hernieuwbare energie juist verantwoordt.
 
@@ -190,7 +216,7 @@ Vervallen
 
 4. De inboeker beschikt over bewijsstukken met betrekking tot de gegevens, bedoeld in het derde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De factor voor ingeboekte vloeibare of gasvormige hernieuwbare brandstof, bedoeld in [artikel 9.7.4.4, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.4), is tweeënhalf.
 
@@ -206,25 +232,25 @@ Vervallen
 
 7. De factor, bedoeld in [artikel 9.7.4.8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.8), voor de geleverde soorten biobrandstoffen, bedoeld in [artikel 12, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=12), is twee.
 
-#### Artikel 12
+##### Artikel 12
 
 De importeur die een hoeveelheid vloeibare biobrandstof of vloeibare hernieuwbare brandstof heeft ingeboekt, overlegt aan het bestuur van de emissieautoriteit een bewijs van aangifte accijns voor die hoeveelheid.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. De grondstoffen, bedoeld in [artikel 9.7.4.6, eerste lid, onderdeel b, sub 2, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.6), zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2025-03-26&g=2025-03-26).
 
 2. Een grondstof in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=5&z=2025-03-26&g=2025-03-26) vervalt met ingang van de datum van toepassing van een gedelegeerde handeling van de Europese Commissie als bedoeld in artikel 28, zesde lid, van de richtlijn hernieuwbare energie, indien de betreffende grondstof is opgenomen in de lijst van grondstoffen van bijlage IX, deel A of B, van de richtlijn hernieuwbare energie.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. De dubbeltellingverificateur:
 
@@ -240,7 +266,7 @@ Vervallen
 
 2. De dubbeltellingverificatie en de dubbeltellingverklaring voldoen aan de eisen gesteld in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&bijlage=7&z=2025-03-26&g=2025-03-26).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De inboekverificateur:
 
@@ -258,7 +284,7 @@ Vervallen
 
 #### § 4. Register hernieuwbare energie vervoer
 
-#### Artikel 18
+##### Artikel 18
 
 1. Het register is toegankelijk via het internet.
 
@@ -268,7 +294,7 @@ Vervallen
 
 4. Het bestuur van de emissieautoriteit neemt alle maatregelen die redelijkerwijs verwacht kunnen worden om te zorgen dat het register beschikbaar is op werkdagen van 9.00 tot 17.00 uur.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De aanvraag voor een rekening vermeldt de gewenste faciliteiten.
 
@@ -290,7 +316,7 @@ Vervallen
 
 - b. waarmerking van de kleurenkopie van het legitimatiebewijs, bedoeld in het tweede lid, onderdeel b.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de aanvraag van een rekening met inboekfaciliteit verstrekt de onderneming aan het bestuur van de emissieautoriteit langs elektronische weg een overzicht van de administratieve organisatie, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=10&z=2025-03-26&g=2025-03-26).
 
@@ -348,7 +374,7 @@ Vervallen
 
 - 4°. bij leveringen met behulp van een accupakket of elektrolyt: de locatie waar het accupakket of de elektrolyt geladen wordt.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het bestuur van de emissieautoriteit controleert of de gegevens en documenten die verstrekt zijn, volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
 
@@ -356,7 +382,7 @@ Vervallen
 
 3. Alvorens de rekening te gebruiken accepteert de rekeninghouder de gebruiksvoorwaarden.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De rekeninghouder meldt wijzigingen van de op hem betrekking hebbende gegevens, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2025-03-26&g=2025-03-26), en [artikel 20, tweede lid, onderdelen a, c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2025-03-26&g=2025-03-26), binnen twintig werkdagen langs elektronische weg aan het bestuur van de emissieautoriteit.
 
@@ -366,7 +392,7 @@ Vervallen
 
 4. De rekeninghouder beheert de gegevens, bedoeld in [artikel 20, tweede lid, onderdeel b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=20&z=2025-03-26&g=2025-03-26), en zorgt dat ze volledig, actueel, nauwkeurig en waarheidsgetrouw zijn.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een rekeningbevoegde weet of vermoedt dat een onbevoegde persoon zich toegang tot de rekening kan verschaffen, blokkeert hij de toegang tot zijn rekening en meldt hij dit onverwijld langs elektronische weg aan het bestuur van de emissieautoriteit.
 
@@ -374,7 +400,7 @@ Vervallen
 
 3. Tot het moment waarop de melding, bedoeld in het eerste lid, is ontvangen, wordt elke toegang tot de rekening als bevoegd aangemerkt.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De rekeninghouder wijst per rekening ten minste twee rekeningbevoegden aan.
 
@@ -386,7 +412,7 @@ Vervallen
 
 #### § 5. Rapportages hernieuwbare energie vervoer
 
-#### Artikel 25
+##### Artikel 25
 
 Het overzicht, bedoeld in [artikel 9.7.4.7, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.7.4.7), wordt openbaar gemaakt op 4 januari, 4 maart, 4 april, 10 mei, 4 juli en 4 oktober, dan wel op de eerste werkdag na de genoemde datum.
 
@@ -394,11 +420,11 @@ Het overzicht, bedoeld in [artikel 9.7.4.7, eerste lid, van de wet](https://wett
 
 #### § 5. Rapportages hernieuwbare energie
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 1. De rijksbelastingdienst verstrekt op verzoek van het bestuur van de emissieautoriteit alle informatie die de emissieautoriteit nodig heeft om te bepalen welke ondernemingen rapportageplichtig zijn. Hiertoe levert zij ten minste in oktober respectievelijk februari een lijst met namen van de dan bekende rapportageplichtigen over het betreffende respectievelijk voorafgaande kalenderjaar. Deze lijst omvat de houders van een vergunning voor een accijnsgoederenplaats voor minerale oliën, geregistreerd geadresseerden voor minerale oliën en importeurs, die meer dan 500.000 liter of kilogram benzine, diesel, LPG of LNG uitslaan tot verbruik als bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2).
 
@@ -410,7 +436,7 @@ Vervallen
 
 #### § 2. Rapportage- en reductieverplichting
 
-#### Artikel 28
+##### Artikel 28
 
 Ten behoeve van het voldoen aan de rapportageverplichting:
 
@@ -418,7 +444,7 @@ Ten behoeve van het voldoen aan de rapportageverplichting:
 
 - b. maakt de rapportageplichtige gebruik van zijn rekening met reductieverplichtingfaciliteit in het register.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Teneinde aan te tonen dat de uitslag tot verbruik, bedoeld in [artikel 2 van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=2), van benzine en diesel, betrekking heeft op andere bestemmingen dan bedoeld in [artikel 9.8.1.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.8.1.2), overlegt de rapportageplichtige op verzoek van het bestuur van de emissieautoriteit bewijsstukken, in ieder geval een factuur en betaalbewijs waaruit dat blijkt.
 
@@ -426,19 +452,19 @@ Ten behoeve van het voldoen aan de rapportageverplichting:
 
 #### § 1. Algemeen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het bestuur van de emissieautoriteit stelt jaarlijks op uiterlijk 1 juli de broeikasgasemissiereductiebijdrage van de hernieuwbare brandstofeenheden vast voor het volgende kalenderjaar.
 
@@ -448,29 +474,29 @@ Vervallen
 
 #### § 4. Register rapportage- en reductieverplichting vervoersemissies
 
-#### Artikel 34
+##### Artikel 34
 
 De [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=18&z=2025-03-26&g=2025-03-26) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=19&z=2025-03-26&g=2025-03-26) en [21 tot en met 24](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=4&artikel=21&z=2025-03-26&g=2025-03-26) zijn van overeenkomstige toepassing.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 Een wijziging van de bijlagen I, II of IV van richtlijn (EU) 2015/652 gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 36
+##### Artikel 36
 
 De [Regeling hernieuwbare energie vervoer 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035829) wordt ingetrokken.
 
-#### Artikel 37
+##### Artikel 37
 
 Wijzigt de Regeling brandstoffen luchtverontreiniging.
 
-#### Artikel 38
+##### Artikel 38
 
 Deze regeling treedt in werking op het tijdstip waarop het [Besluit energie vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0040922) in werking treedt.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze regeling wordt aangehaald als: Regeling energie vervoer.
 
@@ -909,7 +935,7 @@ Projectactiviteiten met de CDM-referentienummers; zie website http://cdm.unfccc.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De minister verstrekt op verzoek van het bestuur van de emissieautoriteit informatie over welke ondernemingen benzine, diesel of zware stookolie aan binnenschepen leveren, inclusief de geleverde hoeveelheden.
 
@@ -921,7 +947,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Inboeken hernieuwbare energie vervoer
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. In afwijking van [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=6&z=2025-03-26&g=2025-03-26), is de hoeveelheid ingeboekte vloeibare biobrandstof de geleverde hoeveelheid LNG in kilogrammen die door garanties van oorsprong voor gas uit hernieuwbare energiebronnen boekhoudkundig wordt vergroend, voor zover de inboeker kan aantonen dat in Nederland ter grootte van de inboeking een hoeveelheid LNG uit aardgas is vervaardigd dat aan het gastransportnet in Nederland is onttrokken. [Artikel 7, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=7&z=2025-03-26&g=2025-03-26), is van overeenkomstige toepassing.
 
@@ -939,7 +965,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 6. Een geleverde hoeveelheid LNG als bedoeld in het eerste lid mag niet ook als een vloeibare hernieuwbare brandstof ingeboekt worden, als bedoeld in [artikel 8, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=3&artikel=8&z=2025-03-26&g=2025-03-26).
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De hoeveelheid gasvormige hernieuwbare brandstof die wordt ingeboekt door een onderneming, bedoeld in [artikel 9a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040922&artikel=9a), is de hoeveelheid waterstof in kilogrammen die blijkt uit de meter van het bemeterde leverpunt.
 
@@ -953,7 +979,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 #### § 6. Naleving van de duurzaamheids- en broeikasgasemissiereductiecriteria
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. De producent van biobrandstoffen voert een massabalans op zijn productielocatie over de ontvangen hoeveelheden duurzame grondstoffen voor de vervaardiging van biobrandstof en vervaardigde hoeveelheid biobrandstof. [Artikel 25b](https://wetten.overheid.nl/jci1.3:c:BWBR0041050&hoofdstuk=1&paragraaf=6&artikel=25b&z=2025-03-26&g=2025-03-26) is van overeenkomstige toepassing.
 
@@ -975,7 +1001,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - c. de hoeveelheid per afnemer geleverde hernieuwbare brandstof.
 
-#### Artikel 25b
+##### Artikel 25b
 
 1. Een onderneming die is gecertificeerd volgens een duurzaamheidssysteem voert een massabalans. Een onderneming die over een opslaglocatie beschikt, voert een massabalans over elke opslaglocatie waar zich fysieke hoeveelheden grondstoffen voor biobrandstoffen en biobrandstoffen bevinden.
 
@@ -987,7 +1013,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 2. Rapportage- en reductieverplichting vervoersemissies
 
-#### Artikel 27a
+##### Artikel 27a
 
 1. De minister verstrekt op verzoek van het bestuur van de emissieautoriteit informatie over welke ondernemingen benzine, diesel, zware stookolie of LPG aan binnenschepen leveren, inclusief de geleverde hoeveelheden.
 

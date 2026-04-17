@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de ontwikkelingsschets 2010 Schelde-estuarium"
 identifier: "BWBV0003046"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-10-01
-laatste_update: 2005-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003046"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-10-01"
+last_updated: "2005-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003046"
+soort: "verdrag"
+stam_id: "10003306013"
+version_id: "10003333572"
+internal_id: "C10008429251"
+label_id: "10003291874"
+dtd_version: "2.0"
+original_entry_into_force: "2008-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003046/2008-10-01/0"
+intitule_bron: "Trb.2005-310"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-28"
+intitule_published: "2005-12-23"
+intitule_in_force: "2008-09-22"
+intitule_status: "goed"
+original_publication: "Trb.2005-310"
+original_signed_date: "2008-08-28"
+original_published_date: "2005-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-310"
+entry_into_force_date: "2008-10-01"
+jci_1_3: "jci1.3:c:BWBV0003046&z=2008-10-01&g=2008-10-01"
+jci_1_0: "1.0:c:BWBV0003046&g=2008-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-08-28"
+entry_into_force: "2008-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest betreffende de uitvoering van de ontwikkelingsschets 2010 Schelde-estuarium
 
 Het Koninkrijk der Nederlanden,
@@ -28,7 +53,7 @@ komen het volgende overeen:
 
 ### Hoofdstuk I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Doel en voorwerp van het Verdrag
+##### Artikel 1. Doel en voorwerp van het Verdrag
 
 1. Dit Verdrag heeft tot doel de tenuitvoerlegging te verzekeren van een aantal projecten en werken ten behoeve van de evenwichtige en duurzame ontwikkeling van het Schelde-estuarium en ter optimalisering van met name de veiligheid, de toegankelijkheid en de natuurlijkheid.
 
@@ -36,7 +61,7 @@ komen het volgende overeen:
 
 3. Met het oog op de optimalisering van de veiligheid, de toegankelijkheid en de natuurlijkheid dienen de fysieke systeemkenmerken van het Schelde-estuarium in hun natuurlijke dynamiek behouden te blijven. Hiertoe wordt, overeenkomstig Artikel 6, een gemeenschappelijk fysiek monitoringplan opgesteld en uitgevoerd.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -56,7 +81,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### Hoofdstuk II. VERPLICHTINGEN VAN VERDRAGSPARTIJEN
 
-#### Artikel 3. Omschrijving van de te realiseren projecten en werken
+##### Artikel 3. Omschrijving van de te realiseren projecten en werken
 
 1. De vaargeul wordt verruimd om een getijonafhankelijke vaart mogelijk te maken voor schepen met een diepgang van 13,10 meter op basis van een kielspeling van 12,5%. De technische beschrijving van de werken, waaronder het interventiepeil voor het baggeren, is opgenomen in bijlage B. Een vermindering van de kielspeling zal het bedoelde interventiepeil onverlet laten. Met de uitvoering van deze verruiming wordt ten laatste in 2007 van start gegaan, zodat de vermelde vaarmogelijkheid ten laatste in 2009 is gerealiseerd. Ter verwezenlijking van de verruiming worden de volgende werken voorbereid, uitgevoerd en onderhouden:
 
@@ -78,7 +103,7 @@ In dit Verdrag wordt verstaan onder:
 
 5. De Bewindslieden kunnen bijlage B, op voorstel van de Technische Scheldecommissie, in onderling overleg en met inachtneming van de doelstelling zoals verwoord in Artikel 1, wijzigen overeenkomstig Artikel 12, tweede lid.
 
-#### Artikel 4. Voorbereiding, uitvoering en onderhoud van de projecten en werken
+##### Artikel 4. Voorbereiding, uitvoering en onderhoud van de projecten en werken
 
 1. Behoudens het bepaalde in het vierde lid, draagt Nederland, of een door Nederland aan te duiden bestuursorgaan, op zijn grondgebied zorg voor de voorbereiding, de uitvoering en het onderhoud van de in Artikel 3 omschreven projecten en werken, daaronder begrepen studie en onderzoek, het organiseren en het doorlopen van de benodigde procedures, het opmaken van plannen en aanbestedingsbescheiden, de aanbesteding en het toezicht.
 
@@ -106,7 +131,7 @@ In dit Verdrag wordt verstaan onder:
 
 - c. in het algemeen, al het nodige doen zodat de aangegeven afspraken en termijnen, binnen het internwettelijk en Europeesrechtelijk kader en met een goede en zorgvuldige besluitvorming, worden geëerbiedigd.
 
-#### Artikel 5. Bestuurlijke monitoring
+##### Artikel 5. Bestuurlijke monitoring
 
 1. De Verdragsluitende Partijen stellen een bestendige bestuurlijke monitoring in op basis waarvan zij, indien nodig, maatregelen treffen, zodat de in Artikel 3 bepaalde afspraken en termijnen worden geëerbiedigd.
 
@@ -116,7 +141,7 @@ In dit Verdrag wordt verstaan onder:
 
 4. Indien de Technische Scheldecommissie op grond van het derde lid wordt bijeengeroepen, treft zij, waar mogelijk en onverminderd het gestelde in het eerste lid, maatregelen of doet zij voorstellen aan de Bewindslieden om de in Artikel 3 bepaalde termijnen te eerbiedigen.
 
-#### Artikel 6. Fysieke monitoring
+##### Artikel 6. Fysieke monitoring
 
 1. De Technische Scheldecommissie stelt een plan op ter fysieke monitoring van de effecten van de in Artikel 3 omschreven projecten en werken.
 
@@ -124,7 +149,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. Uitsluitend de Technische Scheldecommissie is bevoegd om, bij consensus, desgevallend na aanvullend wetenschappelijk onderzoek, conclusies en aanbevelingen aan de Bewindslieden te richten betreffende de in Artikel 1, derde lid, omschreven doelstelling.
 
-#### Artikel 7. Kosten, kostentoedeling en betalingsregeling
+##### Artikel 7. Kosten, kostentoedeling en betalingsregeling
 
 1. Voor de toepassing van dit Verdrag worden onder de kosten van de in Artikel 3 omschreven projecten en werken begrepen:
 
@@ -176,19 +201,19 @@ In dit Verdrag wordt verstaan onder:
 
 12. De betalingsregeling is opgenomen in bijlage D.
 
-#### Artikel 8. Flexibele stortstrategie
+##### Artikel 8. Flexibele stortstrategie
 
 1. Met het oog op het behoud van de fysieke systeemkenmerken in hun natuurlijke dynamiek doet de Technische Scheldecommissie, in overleg met de Beheerders van de Schelde, voorstellen voor een flexibele stortstrategie, waarbij de morfologische evolutie van het systeem nauwgezet wordt gevolgd en de stortstrategie in voorkomend geval aan deze evolutie kan worden aangepast.
 
 2. Vlaanderen past de flexibele stortstrategie toe ter uitvoering van Artikel 4, vierde lid, onder a.
 
-#### Artikel 9. Openstaande schulden
+##### Artikel 9. Openstaande schulden
 
 Vlaanderen verbindt zich ertoe om ter finale kwijting een bedrag ten belope van 1.035.400,08 euro (2.279.735 gulden) over te maken aan Nederland ter delging van de achterstallige schulden van België inzake de Schelde-Rijnverbinding.
 
 ### Hoofdstuk III. GESCHILLENBESLECHTING
 
-#### Artikel 10. Geschillenbeslechting
+##### Artikel 10. Geschillenbeslechting
 
 1. Indien er tussen de Verdragsluitende Partijen geschillen ontstaan met betrekking tot de toepassing, de uitlegging of de uitvoering van dit Verdrag, zullen de Verdragsluitende Partijen deze geschillen in de eerste plaats regelen door middel van onderhandelingen.
 
@@ -198,17 +223,17 @@ Vlaanderen verbindt zich ertoe om ter finale kwijting een bedrag ten belope van 
 
 ### Hoofdstuk IV. SLOTBEPALINGEN
 
-#### Artikel 11. Relatie met andere Verdragen
+##### Artikel 11. Relatie met andere Verdragen
 
 De bepalingen van dit Verdrag gelden onverminderd de rechten en verplichtingen van de Verdragsluitende Partijen die voortvloeien uit Artikel 9 van het Scheidingsverdrag van 19 april 1839 tussen het Koninkrijk België en het Koninkrijk der Nederlanden en uit Artikel 113 van de Slotakte van het Congres van Wenen van 9 juni 1815.
 
-#### Artikel 12. Wijzigingsprocedure
+##### Artikel 12. Wijzigingsprocedure
 
 1. Door de Verdragsluitende Partijen schriftelijk overeengekomen wijzigingen van dit Verdrag, de bijlage E daarbij inbegrepen, treden in werking op de dag waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 
 2. Wijzigingen van de bijlagen A, B, C en D worden schriftelijk overeengekomen tussen de Bewindslieden en treden in werking op een door hen te bepalen datum.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Dit Verdrag treedt in werking met ingang van de eerste dag van de tweede maand, volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de constitutionele vereisten is voldaan.
 

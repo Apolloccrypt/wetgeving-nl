@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Naties, de Internationale Arbeidsorganisatie, de Voedsel- en Landbouworganisatie van de Verenigde Naties, de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Burgerluchtvaart Organisatie, de Wereldgezondheidsorganisatie, de Internationale Vereniging voor Verreberichtgeving, de Wereld Meteorologische Organisatie, de Internationale Organisatie voor Atoomenergie, de Wereldpostvereniging en de Intergouvernementele Maritieme Consultatieve Organisatie inzake technische hulp aan Suriname en de Nederlandse Antillen"
 identifier: "BWBV0004484"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1967-09-15
-laatste_update: 1967-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004484"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-09-15"
+last_updated: "1967-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004484"
+soort: "verdrag"
+stam_id: "10004159823"
+version_id: "10004329622"
+internal_id: "C10006999491"
+label_id: "10004144934"
+dtd_version: "2.0"
+original_entry_into_force: "1967-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004484/1967-09-15/0"
+intitule_bron: "Trb.1967-57"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-04-28"
+intitule_in_force: "1967-11-29"
+intitule_status: "goed"
+original_publication: "Trb.1967-57"
+original_published_date: "1967-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-57"
+entry_into_force_date: "1967-09-15"
+jci_1_3: "jci1.3:c:BWBV0004484&z=1967-09-15&g=1967-09-15"
+jci_1_0: "1.0:c:BWBV0004484&g=1967-09-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-09-15"
 ---
-
 # Overeenkomst tussen de Regering van het Koninkrijk der Nederlanden en de Verenigde Naties, de Internationale Arbeidsorganisatie, de Voedsel- en Landbouworganisatie van de Verenigde Naties, de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Burgerluchtvaart Organisatie, de Wereldgezondheidsorganisatie, de Internationale Vereniging voor Verreberichtgeving, de Wereld Meteorologische Organisatie, de Internationale Organisatie voor Atoomenergie, de Wereldpostvereniging en de Intergouvernementele Maritieme Consultatieve Organisatie inzake technische hulp aan Suriname en de Nederlandse Antillen
 
 De Regering van het Koninkrijk der Nederlanden (hierna te noemen „de Regering van het Koninkrijk”) en de Verenigde Naties, de Internationale Arbeidsorganisatie, de Voedsel- en Landbouworganisatie van de Verenigde Naties, de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur, de Internationale Burgerluchtvaart Organisatie, de Wereldgezondheidsorganisatie, de Internationale Vereniging voor Verreberichtgeving, de Wereld Meteorologische Organisatie, de Internationale Organisatie voor Atoomenergie, de Wereldpostvereniging en de Intergouvernementele Maritieme Consultatieve Organisatie, welke Organisaties deel uitmaken van de sector technische hulp van het Ontwikkelingsprogramma van de Verenigde Naties (hierna te noemen „de Organisaties”);
@@ -16,7 +38,7 @@ Verlangend uitvoering te geven aan de resoluties en besluiten met betrekking tot
 
 Zijn deze Overeenkomst aangegaan in een geest van vriendschappelijke samenwerking.
 
-#### Artikel I. Het verschaffen van technische hulp
+##### Artikel I. Het verschaffen van technische hulp
 
 1. De Organisaties verlenen technische hulp aan de Regering van Suriname of van de Nederlandse Antillen, indien de daartoe benodigde gelden beschikbaar zijn. De Organisaties, die gezamenlijk of afzonderlijk optreden, en de Regering van Suriname of de Nederlandse Antillen werken samen, op basis van de van de betrokken Regering ontvangen en door de desbetreffende Organisaties goedgekeurde verzoeken, bij het opstellen van wederzijds aanvaardbare werkprogramma's voor het uitvoeren van werkzaamheden op het gebied van technische hulp.
 
@@ -46,7 +68,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 6. De Regering van Suriname of de Nederlandse Antillen is aansprakelijk voor alle vorderingen die door derden worden ingesteld tegen de Organisaties en hun deskundigen, agenten of functionarissen en vrijwaart die Organisaties en hun deskundigen, agenten en functionarissen in geval van enigerlei uit de krachtens deze Overeenkomst ondernomen werkzaamheden voortvloeiende vorderingen of verplichtingen, tenzij de Regering van Suriname of de Nederlandse Antillen, de Administrateur van het Ontwikkelingsprogramma van de Verenigde Naties en de betrokken Organisaties het erover eens zijn dat deze vorderingen of verplichtingen het gevolg zijn van grove nalatigheid of opzettelijk onjuist handelen van die deskundigen, agenten of functionarissen.
 
-#### Artikel II. Samenwerking van de Regering van Suriname of de Nederlandse Antillen met betrekking tot technische hulp
+##### Artikel II. Samenwerking van de Regering van Suriname of de Nederlandse Antillen met betrekking tot technische hulp
 
 1. De Regering van Suriname of de Nederlandse Antillen doet alles wat in haar vermogen ligt om een doeltreffend gebruik te verzekeren van de verstrekte technische hulp en stemt in het bijzonder in met een zo ruim mogelijke toepassing van de in bijlage I bij resolutie 222 A (IX) van de Economische en Sociale Raad, onder het hoofd „Deelneming van Verzoekende Regeringen” vermelde bepalingen.
 
@@ -56,7 +78,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 4. De Regering van Suriname of de Nederlandse Antillen stelt de deskundigen een in onderling overleg samengestelde en voor de volledige uitvoering van het bepaalde in artikel I, lid 4 (c), noodzakelijk geachte technische staf ter beschikking.
 
-#### Artikel III. Administratieve en financiële verplichtingen van de Organisaties
+##### Artikel III. Administratieve en financiële verplichtingen van de Organisaties
 
 1. De Organisaties betalen geheel of gedeeltelijk, naar gelang onderling wordt overeengekomen, de aan de technische hulp verbonden kosten, voor zover die betaald dienen te worden buiten Suriname of de Nederlandse Antillen, te weten:
 
@@ -74,7 +96,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 2. De betrokken Organisaties betalen in de plaatselijke valuta van Suriname of de Nederlandse Antillen de onkosten welke niet door de Regering van Suriname of de Nederlandse Antillen dienen te worden betaald krachtens artikel IV, lid 1 en 2, van deze Overeenkomst.
 
-#### Artikel IV. Administratieve en financiële verplichtingen van de Regering van Suriname of de Nederlandse Antillen
+##### Artikel IV. Administratieve en financiële verplichtingen van de Regering van Suriname of de Nederlandse Antillen
 
 1. De Regering van Suriname of de Nederlandse Antillen dragen bij in de kosten van de technische hulp door betaling van of door het rechtstreeks verschaffen van de volgende faciliteiten en diensten:
 
@@ -104,7 +126,7 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 4. De Regering van Suriname of de Nederlandse Antillen betaalt het deel van de kosten welke buiten Suriname of de Nederlandse Antillen betaald dienen te worden, dat niet door de Organisaties betaald behoeft te worden, en ten aanzien waarvan onderling overeenstemming wordt bereikt.
 
-#### Artikel V. Faciliteiten, voorrechten en immuniteiten
+##### Artikel V. Faciliteiten, voorrechten en immuniteiten
 
 1. De Regering van het Koninkrijk en de Regering van Suriname of de Nederlandse Antillen, voor zover zij daartoe niet reeds gehouden zijn, passen op de Organisaties, hun eigendommen, gelden en activa, alsmede op hun functionarissen met inbegrip van technische hulpdeskundigen, toe,
 
@@ -116,11 +138,11 @@ De Regering van het Koninkrijk neemt de internationale verantwoordelijkheid op z
 
 2. De Regering van het Koninkrijk en de Regering van Suriname of de Nederlandse Antillen nemen alle uitvoerbare maatregelen om de werkzaamheden van de Organisaties uit hoofde van deze Overeenkomst te vergemakkelijken en om de deskundigen en andere functionarissen van de Organisaties bij het zich verzekeren van diensten en faciliteiten welke noodzakelijk kunnen zijn voor de voortzetting van die werkzaamheden behulpzaam te zijn. Bij de uitvoering van hun taak krachtens deze Overeenkomst mogen de Organisaties, hun deskundigen en andere functionarissen gebruik maken van de gunstigste wettelijke valutakoers.
 
-#### Artikel VI. Regeling van geschillen
+##### Artikel VI. Regeling van geschillen
 
 Ieder geschil tussen de Organisatie(s) en de Regering van het Koninkrijk dat uit deze Overeenkomst voortvloeit of er mede in verband staat en dat niet kan worden geregeld door middel van onderhandelingen of op een andere overeengekomen wijze, wordt op verzoek van een der Partijen aan arbitrage onderworpen. Iedere Partij benoemt een scheidsrechter en de twee aldus benoemde scheidsrechters benoemen een derde, die de voorzitter is. Indien binnen zestig dagen na het verzoek om arbitrage een der Partijen nog geen scheidsrechter heeft benoemd of binnen zestig dagen na de benoeming van de twee scheidsrechters de derde scheidsrechter nog niet is benoemd, kan zowel de ene als de andere Partij de President van het Internationale Gerechtshof verzoeken een scheidsrechter te benoemen. De arbitrageprocedure wordt door de scheidsrechters vastgesteld en de kosten van de arbitrage worden gedragen door de Partijen zoals vastgesteld door de scheidsrechters. De scheidsrechterlijke uitspraak wordt met redenen omkleed en wordt door de Partijen aanvaard als zijnde de definitieve uitspraak in het geschil.
 
-#### Artikel VII. Algemene bepalingen
+##### Artikel VII. Algemene bepalingen
 
 - (a). Nadat de in het Koninkrijk der Nederlanden grondwettelijk vereiste goedkeuring is verkregen, treedt deze Overeenkomst in werking op de datum waarop de Administrateur van het Ontwikkelingsprogramma van de Verenigde Naties van de Regering van het Koninkrijk een desbetreffende kennisgeving ontvangt.
 

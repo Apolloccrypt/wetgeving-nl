@@ -1,13 +1,35 @@
 ---
-title: "Onderwijskundig besluit WEC"
+title: "Besluit van 18 september 1985, houdende voorschriften van onderwijskundige aard voor het speciaal onderwijs en het voortgezet speciaal onderwijs"
 identifier: "BWBR0003848"
-categorie: "Onderwijs"
-publicatiedatum: 2022-04-01
-laatste_update: 2022-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003848"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-04-01"
+last_updated: "2022-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003848"
+soort: "AMvB"
+stam_id: "663473"
+version_id: "964672"
+internal_id: "C964671"
+label_id: "643624"
+dtd_version: "2.0"
+original_entry_into_force: "1985-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003848/2022-04-01/0"
+intitule_bron: "Stb.1985-517"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-09-18"
+intitule_status: "goed"
+original_publication: "Stb.1985-517"
+original_signed_date: "1985-09-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1985-08-01"
+jci_1_3: "jci1.3:c:BWBR0003848&z=2022-04-01&g=2022-04-01"
+jci_1_0: "1.0:c:BWBR0003848&g=2022-04-01"
+citeertitel_status: "officieel"
+short_title: "Onderwijskundig besluit WEC"
+signed_date: "1985-09-18"
+entry_into_force: "1985-08-01"
 ---
-
 # Besluit van 18 september 1985, houdende voorschriften van onderwijskundige aard voor het speciaal onderwijs en het voortgezet speciaal onderwijs
 
 Op de voordracht van de Staatssecretaris van Onderwijs en Wetenschappen, drs. G. van Leijenhorst, van 18 juli 1985, nr. 6400/2271B, centrale directie Wetgeving en Juridische Zaken;
@@ -24,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ## Titel I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -76,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 ## Titel II. Afdelingen
 
-#### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
+##### Artikel 2. Afdelingen voor meervoudig gehandicapte kinderen
 
 1. Aan een school voor speciaal onderwijs en voor speciaal en voortgezet speciaal onderwijs waar onderwijs wordt gegeven als bedoeld in [artikel 2, tweede lid onderdeel a tot en met c, f, en h](https://wetten.overheid.nl/jci1.3:c:BWBR0003848&titeldeel=II&artikel=2&z=2022-04-01&g=2022-04-01) tot en met m van de wet, kan een afdeling worden verbonden voor speciaal onderwijs aan meervoudig gehandicapte kinderen.
 
@@ -84,17 +106,17 @@ In dit besluit wordt verstaan onder:
 
 3. Onze Minister geeft voorschriften voor de toelating tot een afdeling als bedoeld in het eerste lid.
 
-#### Artikel 3. Afdelingen voor kinderen met ernstige spraakmoeilijkheden
+##### Artikel 3. Afdelingen voor kinderen met ernstige spraakmoeilijkheden
 
 Vervallen
 
-#### Artikel 4. Inhoud ontwikkelingsperspectief speciaal onderwijs
+##### Artikel 4. Inhoud ontwikkelingsperspectief speciaal onderwijs
 
 1. Voor een leerling in het speciaal onderwijs bevat het ontwikkelingsperspectief, bedoeld in [artikel 41a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), ten minste informatie over naar welk uitstroomprofiel van het voortgezet speciaal onderwijs, bedoeld in [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14), uitstroom van de leerling wordt verwacht dan wel of uitstroom naar het reguliere voortgezet onderwijs wordt verwacht, en de onderbouwing daarvan.
 
 2. De onderbouwing bevat ten minste een weergave van de belemmerende en bevorderende factoren die van invloed zijn op het onderwijs aan de leerling.
 
-#### Artikel 5. Inhoud ontwikkelingsperspectief voortgezet speciaal onderwijs
+##### Artikel 5. Inhoud ontwikkelingsperspectief voortgezet speciaal onderwijs
 
 1. Voor een leerling in het voortgezet speciaal onderwijs bevat het ontwikkelingsperspectief, bedoeld in [artikel 41a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), ten minste informatie over naar welk vervolgonderwijs, naar welke soort arbeid of naar welke vorm van dagbesteding uitstroom van de leerling wordt verwacht, en de onderbouwing daarvan.
 
@@ -102,27 +124,27 @@ Vervallen
 
 ## Titel IIA. Vakken in het voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen
 
-#### Artikel 5a. Vakken in het voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen
+##### Artikel 5a. Vakken in het voortgezet speciaal onderwijs aan zeer moeilijk lerende kinderen
 
 Vervallen
 
 ## Titel III. Stage
 
-#### Artikel 6. Stage in het voortgezet speciaal onderwijs
+##### Artikel 6. Stage in het voortgezet speciaal onderwijs
 
 Een stage wordt doorlopen op een of meer stageplaatsen, ter beschikking gesteld door een of meer stagegevers.
 
-#### Artikel 7. Stageplan
+##### Artikel 7. Stageplan
 
 Indien het onderwijs een stage omvat, worden het doel, de inhoud, de omvang, de opbouw en de organisatie van de stage beschreven in een stageplan.
 
-#### Artikel 8. Duur van de stage
+##### Artikel 8. Duur van de stage
 
 1. De duur van de stage bedraagt gedurende de cursusduur gemiddeld ten hoogste 50% van het aantal uren waarin onderwijs wordt verzorgd.
 
 2. Ten behoeve van het voorzien in of de voltooiing van een stage kan de inspecteur op verzoek van het bevoegd gezag ontheffing verlenen van het bepaalde in het eerste lid. Hij kan daarbij voorschriften geven.
 
-#### Artikel 9. Stage-overeenkomst
+##### Artikel 9. Stage-overeenkomst
 
 1. Het bevoegd gezag sluit met de leerling of diens wettelijke vertegenwoordiger en de stagegever te zamen een schriftelijke stage-overeenkomst waaruit blijkt dat de leerling leeractiviteiten ontplooit in het kader van het stageplan.
 
@@ -140,23 +162,23 @@ Indien het onderwijs een stage omvat, worden het doel, de inhoud, de omvang, de 
 
 3. Indien het bevoegd gezag de stagegever is, wordt de stage-overeenkomst enkel gesloten tussen het bevoegd gezag en de leerling of diens wettelijke vertegenwoordiger, en is het tweede lid daarop van overeenkomstige toepassing.
 
-#### Artikel 10. Verzekering
+##### Artikel 10. Verzekering
 
 Het bevoegd gezag draagt zorg dat de leerling gedurende de stage en gedurende de reis van de school naar het terrein van de stagegever en omgekeerd, alsmede de stageleraar gedurende de tijd dat hij zich bevindt op het terrein van de stagegever, zijn verzekerd tegen het risico van ongevallen en wettelijke aansprakelijkheid. Van de verplichting bedoeld in de vorige volzin, kan Onze Minister op verzoek van het bevoegd gezag ontheffing verlenen, indien het godsdienstige of levensbeschouwelijke bezwaren heeft tegen verzekering. Onze Minister verleent de ontheffing slechts indien het bevoegd gezag aantoont dat een afdoende andere voorziening is getroffen waaruit de gevolgen van een ongeval of van aansprakelijkheid in geval van schade aan derden kunnen worden gedekt.
 
 ## Titel IIIA
 
-#### Artikel 10a. Aanwijzing groepen leerlingen met een niet-Nederlandse culturele achtergrond
+##### Artikel 10a. Aanwijzing groepen leerlingen met een niet-Nederlandse culturele achtergrond
 
 Vervallen
 
 ## Titel IV. Symbiose
 
-#### Artikel 11. Symbiose
+##### Artikel 11. Symbiose
 
 Vervallen
 
-#### Artikel 12. Symbiose-overeenkomst
+##### Artikel 12. Symbiose-overeenkomst
 
 1. Voor symbiose is vereist dat tussen het bevoegd gezag van een school en het bevoegd gezag van een andere school, een basisschool, een speciale school voor basisonderwijs, een school voor voortgezet onderwijs of een instelling voor educatie en beroepsonderwijs een schriftelijke overeenkomst inzake de uitvoering daarvan wordt gesloten.
 
@@ -176,13 +198,13 @@ Vervallen
 
 3. Voor symbiose binnen hetzelfde bevoegd gezag is vereist dat het bevoegd gezag inzake de uitvoering daarvan de onderwerpen, bedoeld in het tweede lid, op overeenkomstige wijze regelt, met het oog op een termijn van ten minste twee aaneengesloten schooljaren.
 
-#### Artikel 13. Vavo-examen vso-leerlingen
+##### Artikel 13. Vavo-examen vso-leerlingen
 
 Het bevoegd gezag kan, in het kader van [artikel 14b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14b), leerlingen van 16 jaar en ouder in de gelegenheid stellen deel te nemen aan een examen van een opleiding voortgezet algemeen volwassenenonderwijs. Wat betreft leerlingen van 18 jaar en ouder, kan de eerste volzin enkel worden toegepast voor leerlingen die ononderbroken in het voortgezet speciaal onderwijs ingeschreven zijn geweest.
 
 ## Titel V. Afwijkingen delen onderwijsprogramma
 
-#### Artikel 14. Afwijkingen delen onderwijsprogramma arbeidsmarktgericht uitstroomprofiel en uitstroomprofiel dagbesteding
+##### Artikel 14. Afwijkingen delen onderwijsprogramma arbeidsmarktgericht uitstroomprofiel en uitstroomprofiel dagbesteding
 
 1. Voor afwijkingen als bedoeld in [artikel 14c, elfde lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), onderscheidenlijk in [artikel 14f, tiende lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f) kunnen in aanmerking komen leerlingen die naar het oordeel van het bevoegd gezag niet in staat zijn al het onderwijs dat wordt verzorgd op basis van de kerndoelen te volgen.
 
@@ -202,39 +224,39 @@ Het bevoegd gezag kan, in het kader van [artikel 14b van de wet](https://wetten.
 
 5. Het advies wordt schriftelijk uitgebracht aan het bevoegd gezag. Indien het bevoegd gezag voornemens is af te wijken van het advies van de commissie, overlegt het over dit voornemen met de commissie. De beslissing van het bevoegd gezag is met redenen omkleed. Het bevoegd gezag zendt een afschrift van zijn beslissing, vergezeld van het advies van de commissie en de daarbij gevoegde verklaringen, bedoeld in het vierde lid, aan de ouders van de betrokken leerlingen, aan de betrokken leraar of leraren en aan de inspectie, bedoeld in [artikel 1 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=1).
 
-#### Artikel 15. Partieel en tijdelijk meetellen van leerlingen met betrekking tot het onderwijs bedoeld in artikel 2, tweede lid, onderdeel h tot en met m, van de wet
+##### Artikel 15. Partieel en tijdelijk meetellen van leerlingen met betrekking tot het onderwijs bedoeld in artikel 2, tweede lid, onderdeel h tot en met m, van de wet
 
 Vervallen
 
-#### Artikel 16. Ambulante begeleiding met betrekking tot het onderwijs als bedoeld in artikel 2, tweede lid onderdeel h tot en met m en o, van de wet
+##### Artikel 16. Ambulante begeleiding met betrekking tot het onderwijs als bedoeld in artikel 2, tweede lid onderdeel h tot en met m en o, van de wet
 
 Vervallen
 
 ## Titel VI
 
-#### Artikel 17. Taak regionale verwijzingscommissie
+##### Artikel 17. Taak regionale verwijzingscommissie
 
 Vervallen
 
-#### Artikel 18. Samenstelling regionale verwijzingscommissies
+##### Artikel 18. Samenstelling regionale verwijzingscommissies
 
 Vervallen
 
-#### Artikel 19. Werkwijze regionale verwijzingscommissies
+##### Artikel 19. Werkwijze regionale verwijzingscommissies
 
 Vervallen
 
-#### Artikel 20. Totstandkoming regionale verwijzingscommissies
+##### Artikel 20. Totstandkoming regionale verwijzingscommissies
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ## Titel VII. Overige bepalingen
 
-#### Artikel 22. Monitor veiligheid op school
+##### Artikel 22. Monitor veiligheid op school
 
 Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [artikel 5a, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=5a):
 
@@ -246,7 +268,7 @@ Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [arti
 
 ## Titel VIII. Slotbepalingen
 
-#### Artikel 23. Tijdelijke landelijke geschillencommissie toelating en verwijdering
+##### Artikel 23. Tijdelijke landelijke geschillencommissie toelating en verwijdering
 
 1. De geschillencommissie, bedoeld in [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45), bestaat uit ten minste zeven leden met verschillende deskundigheden. De leden worden benoemd op gezamenlijke bindende voordracht van de landelijke ouderorganisaties, de landelijke patiënten- en gehandicaptenorganisaties en de sectororganisaties.
 
@@ -264,19 +286,19 @@ Het instrument ter monitoring van de veiligheid van leerlingen, bedoeld in [arti
 
 8. Het bevoegd gezag van de school die het oordeel van de commissie heeft ontvangen, deelt schriftelijk aan de ouders en aan de commissie mee wat er met het oordeel wordt gedaan. Indien de beslissing van het bevoegd gezag van de school afwijkt van het oordeel van de commissie, wordt in de beslissing de reden voor die afwijking vermeld.
 
-#### Artikel 24. Percentage onderwijstijd in de Engelse, Duitse of Franse taal
+##### Artikel 24. Percentage onderwijstijd in de Engelse, Duitse of Franse taal
 
 Het percentage, bedoeld in [artikel 18, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), waarin een deel van het onderwijs kan worden gegeven in de Engelse, Duitse of Franse taal is ten hoogste 15% per schooljaar.
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26. Omhangbepaling
+##### Artikel 26. Omhangbepaling
 
 Dit besluit is gebaseerd op de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=8), [14c, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14c), [14f, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=14f), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=17), [18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=18), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=24), [41a, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=41a), en [45, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=45).
 
-#### Artikel 27. Inwerkingtreding en citeertitel
+##### Artikel 27. Inwerkingtreding en citeertitel
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 augustus 1985.
 

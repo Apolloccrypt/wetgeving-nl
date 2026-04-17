@@ -1,13 +1,32 @@
 ---
 title: "Vierde Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering"
 identifier: "BWBV0007125"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-09-20
-laatste_update: 2012-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007125"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-09-20"
+last_updated: "2012-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007125"
+soort: "verdrag"
+stam_id: "10005718633"
+version_id: "10006318662"
+internal_id: "C10010226801"
+label_id: "10005700104"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007125/2012-09-20/0"
+intitule_bron: "Trb.2025-99"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-12-16"
+intitule_status: "nogniet"
+original_publication: "Trb.2025-99"
+original_published_date: "2025-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2025-99"
+jci_1_3: "jci1.3:c:BWBV0007125&z=2012-09-20&g=2012-09-20"
+jci_1_0: "1.0:c:BWBV0007125&g=2012-09-20"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-12-16"
 ---
-
 # Vierde Aanvullend Protocol bij het Europees Verdrag betreffende uitlevering
 
 De lidstaten van de Raad van Europa die dit Protocol hebben ondertekend,
@@ -22,29 +41,29 @@ Overwegend dat het wenselijk is een aantal bepalingen van het Verdrag te moderni
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Verjaring
+##### Artikel 1. Verjaring
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
-#### Artikel 2. Verzoek en stukken ter ondersteuning daarvan
+##### Artikel 2. Verzoek en stukken ter ondersteuning daarvan
 
 1. Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
 2. Artikel 5 van het Tweede Aanvullend Protocol bij het Verdrag is niet van toepassing tussen de partijen bij dit Protocol.
 
-#### Artikel 3. Specialiteitsbeginsel
+##### Artikel 3. Specialiteitsbeginsel
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
-#### Artikel 4. Verderlevering aan een derde staat
+##### Artikel 4. Verderlevering aan een derde staat
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
-#### Artikel 5. Doortocht
+##### Artikel 5. Doortocht
 
 Wijzigt het Europees Verdrag betreffende uitlevering; Parijs, 13-12-1957.
 
-#### Artikel 6. Communicatiekanalen en -middelen
+##### Artikel 6. Communicatiekanalen en -middelen
 
 Het Verdrag wordt aangevuld met de volgende bepalingen:
 
@@ -56,13 +75,13 @@ Het Verdrag wordt aangevuld met de volgende bepalingen:
 
 - 3. Elke staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij zich voor de toepassing van artikel 12 en artikel 14, eerste lid, onder (a), van het Verdrag het recht voorbehoudt het origineel of een gewaarmerkte kopie van het verzoek en de bewijsstukken te verlangen.”
 
-#### Artikel 7. Verhouding tot het Verdrag en andere internationale instrumenten
+##### Artikel 7. Verhouding tot het Verdrag en andere internationale instrumenten
 
 1. De in dit Protocol gebruikte woorden en uitdrukkingen worden uitgelegd in de geest van het Verdrag. Voor de partijen bij dit Protocol zijn de bepalingen van het Verdrag van overeenkomstige toepassing voor zover zij verenigbaar zijn met de bepalingen van dit Protocol.
 
 2. De bepalingen van dit Protocol laten de toepassing van artikel 28, tweede en derde lid, van het Verdrag ter zake van de verhouding tussen het Verdrag en bilaterale of multilaterale verdragen onverlet.
 
-#### Artikel 8. Minnelijke regeling
+##### Artikel 8. Minnelijke regeling
 
 Het Verdrag wordt aangevuld met de volgende bepalingen:
 
@@ -70,7 +89,7 @@ Het Verdrag wordt aangevuld met de volgende bepalingen:
 
 Het Europese Comité voor Strafrechtelijke Vraagstukken van de Raad van Europa wordt op de hoogte gehouden van de toepassing van dit Verdrag en de Aanvullende Protocollen daarbij en stelt alles in het werk om een minnelijke regeling te bewerkstelligen voor elk probleem dat zou kunnen voortvloeien uit de uitlegging en toepassing ervan.”
 
-#### Artikel 9. Ondertekening en inwerkingtreding
+##### Artikel 9. Ondertekening en inwerkingtreding
 
 1. Dit Protocol is opengesteld voor ondertekening door de lidstaten van de Raad van Europa die partij zijn bij of het Verdrag hebben ondertekend. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. Een ondertekenaar van dit Protocol kan het uitsluitend bekrachtigen, aanvaarden of goedkeuren na of tegelijkertijd met de bekrachtiging, aanvaarding of goedkeuring van het Verdrag. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -78,7 +97,7 @@ Het Europese Comité voor Strafrechtelijke Vraagstukken van de Raad van Europa w
 
 3. Met betrekking tot elke ondertekenende staat die vervolgens zijn akte van bekrachtiging, aanvaarding of goedkeuring van het Protocol nederlegt, treedt dit Protocol in werking op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging.
 
-#### Artikel 10. Toetreding
+##### Artikel 10. Toetreding
 
 1. Een staat die geen lid is en die is toegetreden tot het Verdrag kan tot dit Protocol toetreden na de inwerkingtreding ervan.
 
@@ -86,11 +105,11 @@ Het Europese Comité voor Strafrechtelijke Vraagstukken van de Raad van Europa w
 
 3. Ten aanzien van elke toetredende staat treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van de nederlegging van de akte van toetreding.
 
-#### Artikel 11. Temporele werkingssfeer
+##### Artikel 11. Temporele werkingssfeer
 
 Dit Protocol is van toepassing op verzoeken die na de inwerkingtreding van het Protocol tussen de betrokken partijen worden ontvangen.
 
-#### Artikel 12. Territoriale toepassing
+##### Artikel 12. Territoriale toepassing
 
 1. Elke staat kan, bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het gebied of de gebieden waarop dit Protocol van toepassing is nader aanduiden.
 
@@ -98,7 +117,7 @@ Dit Protocol is van toepassing op verzoeken die na de inwerkingtreding van het P
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 13. Verklaringen en voorbehouden
+##### Artikel 13. Verklaringen en voorbehouden
 
 1. Door een staat gemaakte voorbehouden ten aanzien van de bepalingen van het Verdrag of de Aanvullende Protocollen daarbij die niet bij dit Protocol worden gewijzigd zijn eveneens op dit Protocol van toepassing, tenzij die staat anderszins verklaart op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding. Hetzelfde is van toepassing op verklaringen ter zake van of uit hoofde van een bepaling van het Verdrag of de Aanvullende Protocollen daarbij.
 
@@ -108,7 +127,7 @@ Dit Protocol is van toepassing op verzoeken die na de inwerkingtreding van het P
 
 4. Elke staat kan een voorbehoud of een verklaring gemaakt of afgelegd in overeenstemming met dit Protocol geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving, die van kracht wordt op de datum van ontvangst ervan.
 
-#### Artikel 14. Opzegging
+##### Artikel 14. Opzegging
 
 1. Elke partij kan, voor zover zij erbij betrokken is, dit Protocol opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -116,7 +135,7 @@ Dit Protocol is van toepassing op verzoeken die na de inwerkingtreding van het P
 
 3. Opzegging van het Verdrag heeft automatisch opzegging van dit Protocol ten gevolge.
 
-#### Artikel 15. Kennisgevingen
+##### Artikel 15. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa geeft de lidstaten van de Raad van Europa en iedere staat die tot dit Protocol is toegetreden, kennis van:
 

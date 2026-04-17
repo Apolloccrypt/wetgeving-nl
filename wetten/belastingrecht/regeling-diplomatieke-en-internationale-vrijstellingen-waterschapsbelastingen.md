@@ -1,20 +1,46 @@
 ---
-title: "Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen"
+title: "Regeling van de Minister van Infrastructuur en Milieu en de Staatssecretaris van Financiën, van 13 december 2012, nr. IENM/BSK-2012/112485, houdende regels over diplomatieke en internationale vrijstellingen van waterschapsbelastingen (Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen)"
 identifier: "BWBR0032534"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-03-14
-laatste_update: 2014-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032534"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-03-14"
+last_updated: "2014-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032534"
+soort: "ministeriele-regeling"
+stam_id: "11977433"
+version_id: "21270782"
+internal_id: "C30557171"
+label_id: "11949284"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032534/2014-03-14/0"
+intitule_bron: "Stcrt.2012-26694"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-13"
+intitule_published: "2012-12-21"
+intitule_in_force: "2012-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-7649"
+original_signed_date: "2014-03-11"
+original_published_date: "2014-03-13"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2014-7649"
+entry_into_force_date: "2014-03-14"
+jci_1_3: "jci1.3:c:BWBR0032534&z=2014-03-14&g=2014-03-14"
+jci_1_0: "1.0:c:BWBR0032534&g=2014-03-14"
+citeertitel_status: "officieel"
+short_title: "Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen"
+signed_date: "2014-03-11"
+entry_into_force: "2014-03-14"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu en de Staatssecretaris van Financiën, van 13 december 2012, nr. IENM/BSK-2012/112485, houdende regels over diplomatieke en internationale vrijstellingen van waterschapsbelastingen (Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen)
 
 Gelet op [artikel 133 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=133);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Van de volgende waterschapsbelastingen wordt met toepassing van de overige bepalingen in deze regeling vrijstelling verleend:
 
@@ -26,7 +52,7 @@ Besluit:
 
 2. Een vrijstelling van een belasting als bedoeld in het eerste lid, wordt uitsluitend verleend voor zover een zaak, bedoeld in [artikel 118 van de Waterschapswet](https://wetten.overheid.nl/jci1.3:c:BWBR0005108&artikel=118), eerste tot en met vierde lid, niet ter beschikking is gesteld of in gebruik is gegeven aan een derde die zelf niet is vrijgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen, worden vrijgesteld de diplomatieke en consulaire vertegenwoordigingen van andere mogendheden en hun hoofden en leden.
 
@@ -48,7 +74,7 @@ Besluit:
 
 - g. op gevallen waarin de Minister van Infrastructuur en Milieu heeft verklaard dat ter zake van de vrijstelling, bedoeld in het eerste en tweede lid, de wederkerigheid niet is gewaarborgd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De volgende organisaties of personen worden vrijgesteld van de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen:
 
@@ -120,7 +146,7 @@ Besluit:
 
 3. [Artikel 2, eerste en derde lid, de onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=2&z=2014-03-14&g=2014-03-14), zijn van overeenkomstige toepassing op het hoofd en de secretaris-generaal van de International Institute for Democracy and Electoral Assistance, bedoeld in het eerste lid, onderdeel s. Artikel 2, tweede lid, is van overeenkomstige toepassing op hun inwonende gezinsleden en particuliere bedienden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van de in [artikel 1, eerste lid, onderdeel b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0032534&artikel=1&z=2014-03-14&g=2014-03-14), genoemde belastingen worden vrijgesteld:
 
@@ -134,15 +160,15 @@ Besluit:
 
 - b. leden die in Nederland duurzaam verblijf houden.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling diplomatieke en internationale vrijstellingen waterschapsbelastingen.
 

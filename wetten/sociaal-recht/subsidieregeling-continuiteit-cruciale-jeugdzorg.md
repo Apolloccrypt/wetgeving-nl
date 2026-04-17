@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling continuïteit cruciale jeugdzorg"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 december 2019, kenmerk 1617702-199192-J, houdende regels voor het verstrekken van subsidie voor continuïteit van cruciale jeugdzorg (Subsidieregeling continuïteit cruciale jeugdzorg)"
 identifier: "BWBR0042974"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042974"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042974"
+soort: "ministeriele-regeling"
+stam_id: "15293283"
+version_id: "28220262"
+internal_id: "C39783281"
+label_id: "15239174"
+dtd_version: "2.0"
+original_entry_into_force: "2021-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042974/2026-01-01/0"
+intitule_bron: "Stcrt.2019-68084"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-06"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48160"
+original_signed_date: "2021-11-24"
+original_published_date: "2021-12-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-48160"
+entry_into_force_date: "2021-11-24"
+jci_1_3: "jci1.3:c:BWBR0042974&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0042974&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling continuïteit cruciale jeugdzorg"
+signed_date: "2021-11-24"
+entry_into_force: "2021-11-24"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 december 2019, kenmerk 1617702-199192-J, houdende regels voor het verstrekken van subsidie voor continuïteit van cruciale jeugdzorg (Subsidieregeling continuïteit cruciale jeugdzorg)
 
 Handelende in overeenstemming met de Minister voor Rechtsbescherming,
@@ -16,7 +42,7 @@ Gelet op [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In deze regeling wordt verstaan onder:
 
 - **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3, eerste lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) is niet van toepassing, met uitzondering van de [artikelen 4.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.2), [5.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.1), [5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.2), [5.4](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.4), [5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.5), [5.6](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.6) en [5.7](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=5.7).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kan ten behoeve van het jaar 2022, 2023, 2024, 2025, 2026, 2027, 2028 en 2029 aan een organisatie een subsidie verstrekken voor activiteiten voor het borgen van de continuïteit van cruciale jeugdzorg, indien:
 
@@ -78,7 +104,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 - c. de organisatie met de Staat een overeenkomst sluit waarbij de Staat haar belast met en zij zich verplicht tot het verrichten van de dienst van algemeen economisch belang, bedoeld in het vierde lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het subsidieplafond bedraagt voor de periode 2020–2021 € 20.000.000.
 
@@ -100,7 +126,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 10. De minister verdeelt het uit hoofde van het subsidieplafond beschikbare bedrag op volgorde van ontvangst van de aanvragen, met dien verstande dat als de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, geldt als de datum van ontvangst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een subsidie wordt voor ten hoogste twee jaar verstrekt.
 
@@ -110,7 +136,7 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 4. De subsidie wordt terugbetaald binnen een in het besluit tot subsidieverlening te bepalen termijn, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), maar uiterlijk binnen twee jaar na het besluit tot subsidieverlening, door de subsidieontvanger of door een andere rechtspersoon. De subsidie wordt na de volledige terugbetaling van het desbetreffende bedrag ambtshalve op nihil vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvraag tot verlening van een subsidie wordt uiterlijk 31 december van het betreffende jaar ontvangen.
 
@@ -154,31 +180,31 @@ De [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c
 
 - h. dat en hoe de subsidie uiterlijk binnen twee jaar na het besluit tot subsidieverlening wordt terugbetaald.
 
-#### Artikel 7
+##### Artikel 7
 
 De minister kan bij het besluit tot subsidieverlening ambtshalve voorschotten verlenen, op basis van de liquiditeitsprognose, bedoeld in [artikel 6, derde lid, onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 De minister kan verlangen dat de subsidieontvanger periodiek verslag doet van de voortgang van haar continuïteitsplan, bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042974&artikel=6&z=2026-01-01&g=2026-01-01), in het bijzonder de aspecten genoemd onder d, e, f, en g. Het besluit tot subsidieverlening vermeldt op welke tijdstippen verslag wordt gedaan en waaruit het verslag bestaat.
 
-#### Artikel 9
+##### Artikel 9
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2020.
 
 2. Deze regeling vervalt met ingang van 31 december 2029.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Subsidieregeling continuïteit cruciale jeugdzorg.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 Op aanvragen tot verlening van een subsidie die voor 1 januari 2025 zijn ingediend, blijft de regeling van toepassing zoals deze luidde voor dat tijdstip.
 

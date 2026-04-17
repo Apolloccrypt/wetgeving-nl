@@ -1,14 +1,41 @@
 ---
-title: "Evaluatiewet modernisering rechterlijke organisatie"
+title: "Wet van 19 mei 2011 tot wijziging van de Wet op de rechterlijke organisatie, de Wet op de rechterlijke indeling, het Wetboek van Burgerlijke Rechtsvordering en enkele andere wetten naar aanleiding van de evaluatie van de modernisering van de rechterlijke organisatie en in verband met de regeling van het klachtrecht inzake gedragingen van rechterlijke ambtenaren (Evaluatiewet modernisering rechterlijke organisatie)"
 identifier: "BWBR0030035"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030035"
+country: "nl"
+rank: "wet"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030035"
+soort: "wet"
+stam_id: "11334973"
+version_id: "18590752"
+internal_id: "C26036121"
+label_id: "11308944"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030035/2013-01-01/0"
+intitule_bron: "Stb.2011-255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-05-19"
+intitule_published: "2011-05-31"
+intitule_in_force: "2011-06-29"
+intitule_status: "goed"
+original_publication: "Stb.2011-255"
+original_signed_date: "2011-05-19"
+original_published_date: "2011-05-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "32021"
+original_url_id: "stb-2011-255"
+entry_into_force_date: "2011-07-01"
+jci_1_3: "jci1.3:c:BWBR0030035&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0030035&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Evaluatiewet modernisering rechterlijke organisatie"
+signed_date: "2011-05-19"
+entry_into_force: "2011-07-01"
 ---
-
-# Evaluatiewet modernisering rechterlijke organisatie
+# Wet van 19 mei 2011 tot wijziging van de Wet op de rechterlijke organisatie, de Wet op de rechterlijke indeling, het Wetboek van Burgerlijke Rechtsvordering en enkele andere wetten naar aanleiding van de evaluatie van de modernisering van de rechterlijke organisatie en in verband met de regeling van het klachtrecht inzake gedragingen van rechterlijke ambtenaren (Evaluatiewet modernisering rechterlijke organisatie)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,87 +43,87 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is naar aanleiding van 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Burgerlijk Wetboek Boek 2.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet griffierechten burgerlijke zaken.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet organisatie en bestuur gerechten.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Beroepswet.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Aanpassingswet modernisering rechterlijke organisatie.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Advocatenwet.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene wet gelijke behandeling.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Loodsenwet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Zeevaartbemanningswet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2012/313.
 
@@ -106,7 +133,7 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 3. Dit artikel vervalt drie jaar nadat het in werking is getreden.
 
-#### Artikel XXII
+##### Artikel XXII
 
 1. Op de behandeling van en de rechterlijke bevoegdheid ten aanzien van zaken die vóór het tijdstip van inwerkingtreding van een daarop betrekking hebbend artikel of onderdeel van deze wet bij een gerecht aanhangig waren, blijft het recht zoals het gold vóór dat tijdstip van toepassing.
 
@@ -120,11 +147,11 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 6. In afwijking van [artikel 63, eerste lid, van de Gerechtsdeurwaarderswet](https://wetten.overheid.nl/jci1.3:c:BWBR0012197&artikel=63) geldt dat zij die op de dag vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0030035&artikel=II&z=2013-01-01&g=2013-01-01) lid of plaatsvervanger waren in de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders en ingevolge artikel II niet langer afkomstig zijn uit het ressort waaruit zij zijn gekozen, als lid of plaatsvervanger kunnen aanblijven totdat de termijn waarvoor zij waren gekozen of herkozen is verstreken doch niet langer dan een jaar na genoemd tijdstip.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet wordt aangehaald als: Evaluatiewet modernisering rechterlijke organisatie.
 

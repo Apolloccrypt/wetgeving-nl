@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake biologische diversiteit"
 identifier: "BWBV0001136"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-10-10
-laatste_update: 1994-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001136"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-10-10"
+last_updated: "1994-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001136"
+soort: "verdrag"
+stam_id: "10002367523"
+version_id: "10002372462"
+internal_id: "C10006976421"
+label_id: "10002357854"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001136/1994-10-10/0"
+intitule_bron: "Trb.1992-164"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-07-12"
+intitule_published: "1992-11-05"
+intitule_in_force: "1994-08-12"
+intitule_status: "goed"
+original_publication: "Trb.1992-164"
+original_signed_date: "1994-07-12"
+original_published_date: "1992-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-164"
+entry_into_force_date: "1994-10-10"
+jci_1_3: "jci1.3:c:BWBV0001136&z=1994-10-10&g=1994-10-10"
+jci_1_0: "1.0:c:BWBV0001136&g=1994-10-10"
+citeertitel_status: "redactioneel"
+signed_date: "1994-07-12"
+entry_into_force: "1994-10-10"
 ---
-
 # Verdrag inzake biologische diversiteit
 
 Preambule
@@ -62,11 +87,11 @@ Vastbesloten de biologische diversiteit te behouden en duurzaam te gebruiken ten
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 De doelstellingen van dit Verdrag, na te streven in overeenstemming met de desbetreffende bepalingen daarvan, zijn het behoud van de biologische diversiteit, het duurzame gebruik van bestanddelen daarvan en de eerlijke en billijke verdeling van de voordelen voortvloeiende uit het gebruik van genetische rijkdommen, met inbegrip van passende toegang tot genetische rijkdommen en passende overdracht van de desbetreffende technologieën, rekening houdend met alle rechten met betrekking tot die rijkdommen en technologieën, en door middel van passende financiering.
 
-#### Artikel 2. Gebruikte termen
+##### Artikel 2. Gebruikte termen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -104,11 +129,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 „Technologie”: alle technologie, met inbegrip van de biotechnologie.
 
-#### Artikel 3. Beginsel
+##### Artikel 3. Beginsel
 
 Staten hebben, in overeenstemming met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en de beginselen van internationaal recht, het soevereine recht hun eigen hulpbronnen te exploiteren overeenkomstig hun eigen milieubeleid, alsook de verantwoordelijkheid te verzekeren dat activiteiten die binnen hun rechtsmacht of onder hun toezicht vallen, geen schade aanrichten aan het milieu van andere Staten of van gebieden die onder geen enkele nationale rechtsmacht vallen.
 
-#### Artikel 4. Werkingssfeer
+##### Artikel 4. Werkingssfeer
 
 Behoudens de rechten van andere Staten en tenzij in dit Verdrag uitdrukkelijk anders is bepaald, zijn de bepalingen van dit Verdrag van toepassing ten aanzien van elke Verdragsluitende Partij:
 
@@ -116,11 +141,11 @@ Behoudens de rechten van andere Staten en tenzij in dit Verdrag uitdrukkelijk an
 
 - b. op processen en activiteiten, uitgevoerd onder haar rechtsmacht of toezicht, in gebieden gelegen binnen de grenzen van haar nationale rechtsmacht danwel in gebieden die niet onder haar nationale rechtsmacht vallen, ongeacht waar de gevolgen van die processen of activiteiten zich voordoen.
 
-#### Artikel 5. Samenwerking
+##### Artikel 5. Samenwerking
 
 Elke Verdragsluitende Partij werkt, voor zover mogelijk en passend, samen met andere Verdragsluitende Partijen, hetzij rechtstreeks, hetzij, waar passend, via bevoegde internationale organisaties, ten aanzien van gebieden die onder geen enkele nationale rechtsmacht vallen en met betrekking tot andere aangelegenheden van wederzijds belang, ten behoeve van het behoud en het duurzame gebruik van de biologische diversiteit.
 
-#### Artikel 6. Algemene maatregelen tot behoud en duurzaam gebruik
+##### Artikel 6. Algemene maatregelen tot behoud en duurzaam gebruik
 
 Elke Verdragsluitende Partij dient in overeenstemming met haar eigen omstandigheden en mogelijkheden:
 
@@ -128,7 +153,7 @@ Elke Verdragsluitende Partij dient in overeenstemming met haar eigen omstandighe
 
 - b. voor zover mogelijk en passend, het behoud en het duurzame gebruik van de biologische diversiteit op te nemen in de desbetreffende op één of meerdere sectoren betrekking hebbende plannen, programma's en beleidslijnen.
 
-#### Artikel 7. Inventarisatie en toezicht
+##### Artikel 7. Inventarisatie en toezicht
 
 Elke Verdragsluitende Partij dient, voorzover mogelijk en passend, in het bijzonder met het oog op de toepassing van de artikelen 8 en 10:
 
@@ -140,7 +165,7 @@ Elke Verdragsluitende Partij dient, voorzover mogelijk en passend, in het bijzon
 
 - d. de gegevens verkregen uit de inventarisatie en het toezicht ingevolge de letters a, b en c te bewaren en te structureren met behulp van een systeem.
 
-#### Artikel 8. Behoud in situ
+##### Artikel 8. Behoud in situ
 
 Elke Verdragsluitende Partij dient, voor zover mogelijk en passend:
 
@@ -170,7 +195,7 @@ Elke Verdragsluitende Partij dient, voor zover mogelijk en passend:
 
 - m. samen te werken bij de verstrekking van financiële en andere steun voor het behoud in situ als bedoeld in de letters a tot en met 1, met name aan ontwikkelingslanden.
 
-#### Artikel 9. Behoud ex situ
+##### Artikel 9. Behoud ex situ
 
 Elke Verdragsluitende Partij dient, voorzover mogelijk en passend, en hoofdzakelijk ter aanvulling van de maatregelen voor behoud in situ:
 
@@ -184,7 +209,7 @@ Elke Verdragsluitende Partij dient, voorzover mogelijk en passend, en hoofdzakel
 
 - e. samen te werken bij de verstrekking van financiële en andere steun voor het behoud ex situ als bedoeld in de letters a tot en met d en bij het treffen en handhaven van voorzieningen voor behoud ex situ in ontwikkelingslanden.
 
-#### Artikel 10. Duurzaam gebruik van bestanddelen van de biologische diversiteit
+##### Artikel 10. Duurzaam gebruik van bestanddelen van de biologische diversiteit
 
 Elke Verdragsluitende Partij dient, voorzover mogelijk en passend:
 
@@ -198,11 +223,11 @@ Elke Verdragsluitende Partij dient, voorzover mogelijk en passend:
 
 - e. de samenwerking tussen haar overheidsinstellingen en de particuliere sector te bevorderen bij het ontwikkelen van methoden voor duurzaam gebruik van biologische rijkdommen.
 
-#### Artikel 11. Stimuleringsmaatregelen
+##### Artikel 11. Stimuleringsmaatregelen
 
 Elke Verdragsluitende Partij dient, voor zover mogelijk en passend, economisch en sociaal verantwoorde maatregelen te nemen die het behoud en het duurzame gebruik van bestanddelen van de biologische diversiteit stimuleren.
 
-#### Artikel 12. Onderzoek en opleiding
+##### Artikel 12. Onderzoek en opleiding
 
 De Verdragsluitende Partijen dienen, rekening houdend met de bijzondere behoeften van de ontwikkelingslanden:
 
@@ -212,7 +237,7 @@ De Verdragsluitende Partijen dienen, rekening houdend met de bijzondere behoefte
 
 - c. met inachtneming van de bepalingen van de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=16&z=1994-10-10&g=1994-10-10), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=18&z=1994-10-10&g=1994-10-10) en [20](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20&z=1994-10-10&g=1994-10-10), de gebruikmaking van de geboekte vooruitgang in het wetenschappelijk onderzoek op het gebied van de biologische diversiteit te bevorderen bij het ontwikkelen van methoden voor het behoud en het duurzaam gebruik van biologische rijkdommen, en daartoe samen te werken.
 
-#### Artikel 13. Voorlichting en bewustmaking
+##### Artikel 13. Voorlichting en bewustmaking
 
 De Verdragsluitende Partijen dienen:
 
@@ -220,7 +245,7 @@ De Verdragsluitende Partijen dienen:
 
 - b. samen te werken, indien passend, met andere Staten en internationale organisaties bij het ontwikkelen van voorlichtings- en bewustmakingsprogramma's met betrekking tot het behoud en het duurzame gebruik van de biologische diversiteit.
 
-#### Artikel 14. Effectrapportage en beperking van de nadelige gevolgen
+##### Artikel 14. Effectrapportage en beperking van de nadelige gevolgen
 
 1. Elke Verdragsluitende Partij dient, voor zover mogelijk en passend:
 
@@ -236,7 +261,7 @@ De Verdragsluitende Partijen dienen:
 
 2. De Conferentie van de Partijen bestudeert, op basis van te verrichten studies, het vraagstuk van aansprakelijkheid en schadeloosstelling, met inbegrip van herstel en vergoeding, voor schade aan de biologische diversiteit, behalve indien die aansprakelijkheid een zuiver interne aangelegenheid is.
 
-#### Artikel 15. Toegang tot genetische rijkdommen
+##### Artikel 15. Toegang tot genetische rijkdommen
 
 1. Gelet op de soevereine rechten van Staten met betrekking tot hun natuurlijke rijkdommen, berust de bevoegdheid om de toegang tot genetische rijkdommen te bepalen bij de nationale regeringen en is deze onderworpen aan de nationale wetgeving.
 
@@ -252,7 +277,7 @@ De Verdragsluitende Partijen dienen:
 
 7. Elke Verdragsluitende Partij neemt maatregelen van wetgevende of bestuurlijke aard, dan wel beleidsmaatregelen, waar passend, in overeenstemming met de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=16&z=1994-10-10&g=1994-10-10) en [19](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=19&z=1994-10-10&g=1994-10-10) en, waar noodzakelijk, via het krachtens de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20&z=1994-10-10&g=1994-10-10) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=21&z=1994-10-10&g=1994-10-10) ingestelde financiële mechanisme, teneinde te bewerkstelligen dat de resultaten van onderzoek en ontwikkeling en de voordelen van het commercieel of ander gebruik van de genetische rijkdommen op eerlijke en billijke wijze worden gedeeld met de Verdragsluitende Partij die de rijkdommen levert. Deze verdeling geschiedt op grond van onderling overeengekomen voorwaarden.
 
-#### Artikel 16. Toegang tot en overdracht van technologie
+##### Artikel 16. Toegang tot en overdracht van technologie
 
 1. Elke Verdragsluitende Partij, erkennende dat technologie mede biotechnologie omvat, en dat zowel de toegang tot als de overdracht van technologie onder de Verdragsluitende Partijen essentiële elementen zijn voor de verwezenlijking van de doelstellingen van dit Verdrag, verplicht zich ertoe, met inachtneming van de bepalingen van dit artikel, te verschaffen en/of te vergemakkelijken, ten gunste van andere Verdragsluitende Partijen, de toegang tot en de overdracht van technologieën die van belang zijn voor het behoud en het duurzame gebruik van de biologische diversiteit of voor de gebruikmaking van genetische rijkdommen zonder aanzienlijke schade aan het milieu aan te richten.
 
@@ -264,13 +289,13 @@ De Verdragsluitende Partijen dienen:
 
 5. De Verdragsluitende Partijen, erkennende dat octrooien en andere rechten met betrekking tot de intellectuele eigendom van invloed kunnen zijn op de toepassing van dit Verdrag, werken in dit opzicht samen, met inachtneming van de nationale wetgeving en het internationale recht, teneinde te waarborgen dat deze rechten bevorderlijk zijn voor en niet indruisen tegen de doelstellingen van het Verdrag.
 
-#### Artikel 17. Uitwisseling van informatie
+##### Artikel 17. Uitwisseling van informatie
 
 1. De Verdragsluitende Partijen vergemakkelijken de uitwisseling van informatie uit alle algemeen toegankelijke bronnen die betrekking heeft op het behoud en het duurzame gebruik van de biologische diversiteit, rekening houdend met de bijzondere behoeften van de ontwikkelingslanden.
 
 2. Deze uitwisseling van informatie omvat de uitwisseling van resultaten van technisch, wetenschappelijk en sociaal-economisch onderzoek, alsmede informatie over opleidings- en onderzoeksprogramma's, specialistische kennis, traditionele kennis van autochtonen, als zodanig en in combinatie met de in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=16&z=1994-10-10&g=1994-10-10), bedoelde technologieën. Deze uitwisseling dient, indien mogelijk, ook de teruggave van informatie te omvatten.
 
-#### Artikel 18. Technische en wetenschappelijke samenwerking
+##### Artikel 18. Technische en wetenschappelijke samenwerking
 
 1. De Verdragsluitende Partijen bevorderen de internationale technische en wetenschappelijke samenwerking op het gebied van het behoud en het duurzame gebruik van de biologische diversiteit, indien noodzakelijk, via de bevoegde internationale en nationale instellingen.
 
@@ -282,7 +307,7 @@ De Verdragsluitende Partijen dienen:
 
 5. De Verdragsluitende Partijen bevorderen, indien zij zulks onderling overeenkomen, het opzetten van gezamenlijke onderzoeksprogramma's en gezamenlijke ondernemingen ter ontwikkeling van technologieën die verband houden met de doelstellingen van dit Verdrag.
 
-#### Artikel 19. Beheer van de biotechnologie en verdeling van de voordelen daarvan
+##### Artikel 19. Beheer van de biotechnologie en verdeling van de voordelen daarvan
 
 1. Elke Verdragsluitende Partij neemt maatregelen van wetgevende en bestuurlijke aard, dan wel beleidsmaatregelen, waar passend, teneinde de effectieve deelneming aan biotechnologisch onderzoek te waarborgen van de Verdragsluitende Partijen, met name ontwikkelingslanden, die genetische rijkdommen voor dat onderzoek leveren, en indien mogelijk op het grondgebied van die Verdragsluitende Partijen.
 
@@ -292,7 +317,7 @@ De Verdragsluitende Partijen dienen:
 
 4. Elke Verdragsluitende Partij verstrekt, hetzij rechtstreeks, hetzij door zulks te verlangen van elke onder haar rechtsmacht vallende natuurlijke persoon of rechtspersoon die de in het derde lid bedoelde organismen levert, alle beschikbare informatie over de gebruiks- en veiligheidsvoorschriften die zij verplicht stelt voor het omgaan met die organismen, alsmede alle beschikbare informatie over de mogelijke nadelige effecten van de desbetreffende organismen voor de Verdragsluitende Partij naar het grondgebied waarvan die organismen worden overgebracht.
 
-#### Artikel 20. Financiële middelen
+##### Artikel 20. Financiële middelen
 
 1. Elke Verdragsluitende Partij verplicht zich ertoe, voor zover dit in haar vermogen ligt, financiële steun en stimulansen te bieden met betrekking tot nationale activiteiten die zijn gericht op verwezenlijking van de doelstellingen van dit Verdrag, zulks in overeenstemming met haar nationale plannen, prioriteiten en programma's.
 
@@ -308,7 +333,7 @@ De Verdragsluitende Partijen dienen:
 
 7. Tevens dient aandacht te worden geschonken aan de bijzondere situatie van ontwikkelingslanden, met name die welke vanuit het oogpunt van het milieu uiterst kwetsbaar zijn, zoals landen met aride en semi-aride gebieden, kust- en berggebieden.
 
-#### Artikel 21. Financieel mechanisme
+##### Artikel 21. Financieel mechanisme
 
 1. Er wordt een mechanisme ingesteld voor de verstrekking van financiële middelen in de vorm van giften of onder gunstige voorwaarden aan Partijen die ontwikkelingslanden zijn, voor de toepassing van dit Verdrag, waarvan de essentiële elementen zijn omschreven in dit artikel. Het mechanisme functioneert, voor de toepassing van het Verdrag, onder verantwoordelijkheid en aan de hand van richtlijnen van de Conferentie van de Partijen en is daaraan verantwoording verschuldigd. De werking van het mechanisme wordt toevertrouwd aan de institutionele structuur waartoe door de Conferentie van de Partijen op haar eerste bijeenkomst wordt besloten. Voor de toepassing van dit Verdrag bepaalt de Conferentie van de Partijen het beleid, de strategie, de prioriteiten van het programma en de criteria om in aanmerking te komen voor toegang tot en gebruik van die middelen. De bijdragen dienen zodanig te zijn, dat rekening wordt gehouden met het feit dat de geldstroom toereikend, voorspelbaar en tijdig moet zijn, als bepaald in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=20&z=1994-10-10&g=1994-10-10), in overeenstemming met het bedrag van de benodigde middelen, waarover de Conferentie van de Partijen periodiek beslist, en met het belang van lastenverdeling onder de bijdragende Partijen opgenomen in de lijst, genoemd in artikel 20, tweede lid. Door Partijen die ontwikkelde landen zijn en door andere landen en uit andere bronnen kunnen ook vrijwillige bijdragen worden verstrekt. Het mechanisme functioneert onder een democratisch en doorzichtig stelsel van beheer.
 
@@ -318,13 +343,13 @@ De Verdragsluitende Partijen dienen:
 
 4. De Verdragsluitende Partijen bestuderen de mogelijkheid om bestaande financiële instellingen te versterken, opdat deze financiële middelen verstrekken voor het behoud en het duurzame gebruik van de biologische diversiteit.
 
-#### Artikel 22. Verhouding tot andere internationale verdragen
+##### Artikel 22. Verhouding tot andere internationale verdragen
 
 1. De bepalingen van dit Verdrag laten de rechten en verplichtingen van de Verdragsluitende Partijen ingevolge enige bestaande internationale overeenkomst onverlet, behalve indien de uitoefening van die rechten of de nakoming van die verplichtingen ernstige schade zou veroorzaken aan, of een bedreiging zou vormen voor, de biologische diversiteit.
 
 2. De Verdragsluitende Partijen passen dit Verdrag wat het mariene milieu betreft toe in overeenstemming met de rechten en verplichtingen van Staten krachtens het recht van de zee.
 
-#### Artikel 23. Conferentie van de Partijen
+##### Artikel 23. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld. De eerste vergadering van de Conferentie van de Partijen wordt belegd door de Uitvoerend Directeur van het Milieuprogramma van de Verenigde Naties uiterlijk één jaar na de inwerkingtreding van dit Verdrag. Daarna worden gewone vergaderingen van de Conferentie van de Partijen gehouden met een door de Conferentie op haar eerste vergadering te bepalen regelmaat.
 
@@ -354,7 +379,7 @@ De Verdragsluitende Partijen dienen:
 
 5. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede elke Staat die geen Partij bij dit Verdrag is, kunnen als waarnemers worden vertegenwoordigd op de vergaderingen van de Conferentie van de Partijen. Elke andere instelling of organisatie, gouvernementeel of niet-gouvernementeel, die bevoegd is op gebieden verband houdende met het behoud en het duurzame gebruik van de biologische diversiteit en die aan het Secretariaat haar wens te kennen heeft gegeven op een vergadering van de Conferentie van de Partijen te zijn vertegenwoordigd als waarnemer, kan als zodanig worden toegelaten, tenzij ten minste een derde van de Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers wordt geregeld in het door de Conferentie van Partijen aangenomen reglement van orde.
 
-#### Artikel 24. Secretariaat
+##### Artikel 24. Secretariaat
 
 1. Hierbij wordt een Secretariaat ingesteld. Dit heeft tot taak:
 
@@ -370,7 +395,7 @@ De Verdragsluitende Partijen dienen:
 
 2. Op haar eerste gewone vergadering wijst de Conferentie van de Partijen het Secretariaat aan, te kiezen onder de bestaande bevoegde internationale organisaties die hun bereidheid te kennen hebben gegeven om de secretariaatswerkzaamheden uit hoofde van dit Verdrag te verrichten.
 
-#### Artikel 25. Hulporgaan voor wetenschappelijk, technisch en technologisch advies
+##### Artikel 25. Hulporgaan voor wetenschappelijk, technisch en technologisch advies
 
 1. Hierbij wordt een hulporgaan voor wetenschappelijk, technisch en technologisch advies ingesteld, dat de Conferentie van de Partijen en, indien van toepassing, haar andere hulporganen, te gelegener tijd advies geeft met betrekking tot de toepassing van dit Verdrag. Dit orgaan staat open voor deelneming door alle Partijen en is multidisciplinair. Het dient regeringsvertegenwoordigers te omvatten die deskundig zijn op het desbetreffende vakgebied. Het dient regelmatig verslag uit te brengen aan de Conferentie van de Partijen over alle aspecten van zijn werk.
 
@@ -388,11 +413,11 @@ De Verdragsluitende Partijen dienen:
 
 3. De taken, de bevoegdheden, de organisatievorm en het functioneren van dit orgaan kunnen door de Conferentie van de Partijen nader worden uitgewerkt.
 
-#### Artikel 26. Rapporten
+##### Artikel 26. Rapporten
 
 Elke Verdragsluitende Partij dient, met een door de Conferentie van de Partijen te bepalen regelmaat, bij de Conferentie van de Partijen rapporten in betreffende maatregelen die zij heeft genomen ter uitvoering van de bepalingen van dit Verdrag en de doelmatigheid van die maatregelen voor de verwezenlijking van de doelstellingen van dit Verdrag.
 
-#### Artikel 27. Regeling van geschillen
+##### Artikel 27. Regeling van geschillen
 
 1. Ingeval tussen Verdragsluitende Partijen een geschil ontstaat betreffende de uitlegging of toepassing van dit Verdrag, trachten de betrokken partijen dit op te lossen door middel van onderhandelingen.
 
@@ -408,7 +433,7 @@ Elke Verdragsluitende Partij dient, met een door de Conferentie van de Partijen 
 
 5. De bepalingen van dit artikel zijn van toepassing op elk protocol, tenzij in het desbetreffende protocol anders is bepaald.
 
-#### Artikel 28. Aanneming van protocollen
+##### Artikel 28. Aanneming van protocollen
 
 1. De Verdragsluitende Partijen werken samen bij de opstelling en aanneming van protocollen bij dit Verdrag.
 
@@ -416,7 +441,7 @@ Elke Verdragsluitende Partij dient, met een door de Conferentie van de Partijen 
 
 3. De tekst van een voorgesteld protocol wordt ten minste zes maanden vóór bedoelde vergadering door het Secretariaat medegedeeld aan de Verdragsluitende Partijen.
 
-#### Artikel 29. Wijzigingen op het Verdrag of de protocollen
+##### Artikel 29. Wijzigingen op het Verdrag of de protocollen
 
 1. Wijzigingen op dit Verdrag kunnen worden voorgesteld door elke Verdragsluitende Partij. Wijzigingen op een protocol kunnen worden voorgesteld door elke Partij bij dat protocol.
 
@@ -428,7 +453,7 @@ Elke Verdragsluitende Partij dient, met een door de Conferentie van de Partijen 
 
 5. Voor de toepassing van dit artikel wordt onder „aanwezige Partijen die hun stem uitbrengen” verstaan Partijen die aanwezig zijn en voor- of tegenstemmen.
 
-#### Artikel 30. Aanneming en wijziging van bijlagen
+##### Artikel 30. Aanneming en wijziging van bijlagen
 
 1. De bijlagen bij dit Verdrag of bij protocollen maken een integrerend deel uit van het Verdrag of die protocollen, naar gelang het geval, en een verwijzing naar het Verdrag of protocol vormt tegelijkertijd een verwijzing naar de bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald. De bijlagen hebben slechts betrekking op aangelegenheden van procedurele, wetenschappelijke, technische en administratieve aard.
 
@@ -444,23 +469,23 @@ Elke Verdragsluitende Partij dient, met een door de Conferentie van de Partijen 
 
 4. Indien een aanvullende bijlage of een wijziging op een bijlage verband houdt met een wijziging op het Verdrag of een protocol, treedt die aanvullende bijlage of die wijziging eerst in werking wanneer de wijziging op het Verdrag of het desbetreffende protocol van kracht wordt.
 
-#### Artikel 31. Stemrecht
+##### Artikel 31. Stemrecht
 
 1. Behoudens het in het tweede lid bepaalde, heeft elke Partij bij dit Verdrag één stem.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal stemmen van hun lidstaten die Partij zijn bij dit Verdrag of het desbetreffende protocol. Bedoelde organisaties oefenen hun stemrecht niet uit indien hun lidstaten hun stemrecht uitoefenen, en omgekeerd.
 
-#### Artikel 32. Verhouding tussen dit Verdrag en de protocollen daarbij
+##### Artikel 32. Verhouding tussen dit Verdrag en de protocollen daarbij
 
 1. Een Staat of regionale organisatie voor economische integratie kan geen Partij bij een protocol worden indien hij c.q. zij niet tevens Partij bij dit Verdrag is of wordt.
 
 2. Besluiten ingevolge een protocol worden slechts genomen door de Partijen bij het desbetreffende protocol. Een Verdragsluitende Partij die een protocol niet heeft bekrachtigd, aanvaard of goedgekeurd kan als waarnemer deelnemen aan een vergadering van de Partijen bij dat protocol.
 
-#### Artikel 33. Ondertekening
+##### Artikel 33. Ondertekening
 
 Dit Verdrag staat open voor ondertekening te Rio de Janeiro voor alle Staten en regionale organisaties voor economische integratie van 5 juni 1992 tot en met 14 juni 1992 en op de zetel van de Verenigde Naties te New York van 15 juni 1992 tot en met 4 juni 1993.
 
-#### Artikel 34. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 34. Bekrachtiging, aanvaarding of goedkeuring
 
 1. Dit Verdrag en elk protocol daarbij dienen te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de Depositaris.
 
@@ -468,7 +493,7 @@ Dit Verdrag staat open voor ondertekening te Rio de Janeiro voor alle Staten en 
 
 3. In hun akten van bekrachtiging, aanvaarding of goedkeuring geven de in het eerste lid bedoelde organisaties de omvang van hun bevoegdheid ter zake van door het Verdrag of het desbetreffende protocol geregelde aangelegenheden aan. Deze organisaties stellen ook de Depositaris in kennis van elke relevante wijziging betreffende de omvang van hun bevoegdheid.
 
-#### Artikel 35. Toetreding
+##### Artikel 35. Toetreding
 
 1. Dit Verdrag en alle protocollen staan open voor toetreding door Staten en regionale organisaties voor economische integratie vanaf de datum waarop het Verdrag of het desbetreffende protocol is gesloten voor ondertekening. De akten van toetreding worden nedergelegd bij de Depositaris.
 
@@ -476,7 +501,7 @@ Dit Verdrag staat open voor ondertekening te Rio de Janeiro voor alle Staten en 
 
 3. De bepalingen van [artikel 34, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=34&z=1994-10-10&g=1994-10-10), zijn van toepassing op regionale organisaties voor economische integratie die toetreden tot dit Verdrag of een protocol.
 
-#### Artikel 36. Inwerkingtreding
+##### Artikel 36. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de dertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
@@ -488,11 +513,11 @@ Dit Verdrag staat open voor ondertekening te Rio de Janeiro voor alle Staten en 
 
 5. Voor de toepassing van het eerste en het tweede lid wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door haar lidstaten nedergelegde akten.
 
-#### Artikel 37. Voorbehouden
+##### Artikel 37. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 38. Opzegging
+##### Artikel 38. Opzegging
 
 1. Na het verstrijken van twee jaar na de datum waarop dit Verdrag voor een Verdragsluitende Partij in werking is getreden, kan die Verdragsluitende Partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -500,41 +525,41 @@ Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
 3. Een Verdragsluitende Partij die dit Verdrag opzegt, wordt geacht ook elk protocol waarbij zij partij is te hebben opgezegd.
 
-#### Artikel 39. Voorlopige financiële regelingen
+##### Artikel 39. Voorlopige financiële regelingen
 
 Op voorwaarde dat deze volledig is geherstructureerd, in overeenstemming met de bepalingen van [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=21&z=1994-10-10&g=1994-10-10), is de Global Environment Facility van het Ontwikkelingsprogramma van de Verenigde Naties, het Milieuprogramma van de Verenigde Naties en de Internationale Bank voor Herstel en Ontwikkeling tijdelijk de in artikel 21 bedoelde institutionele structuur, zulks voor het tijdvak tussen de inwerkingtreding van dit Verdrag en de eerste vergadering van de Conferentie van de Partijen of totdat de Conferentie van de Partijen besluit welke institutionele structuur zal worden aangewezen overeenkomstig artikel 21.
 
-#### Artikel 40. Voorlopige regelingen voor het Secretariaat
+##### Artikel 40. Voorlopige regelingen voor het Secretariaat
 
 Het door de Uitvoerend Directeur van het Milieuprogramma van de Verenigde Naties ter beschikking te stellen Secretariaat is het in [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=24&z=1994-10-10&g=1994-10-10), bedoelde tijdelijke Secretariaat, zulks voor het tijdvak tussen de inwerkingtreding van dit Verdrag en de eerste vergadering van de Conferentie van de Partijen.
 
-#### Artikel 41. Depositaris
+##### Artikel 41. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties neemt de taken van Depositaris van dit Verdrag en de protocollen daarbij op zich.
 
-#### Artikel 42. Authentieke teksten
+##### Artikel 42. Authentieke teksten
 
 Het oorspronkelijke exemplaar van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### 1
+##### 1
 
 Ecosystemen en habitats: die een grote diversiteit, grote aantallen inheemse of bedreigde soorten of ongerepte gebieden omvatten; die nodig zijn voor trekkende soorten; die van sociaal, economisch, cultureel of wetenschappelijk belang zijn; of die representatief of uniek zijn of verband houden met essentiële evolutieprocessen of andere biologische processen.
 
-#### 2
+##### 2
 
 Soorten en gemeenschappen: die bedreigd zijn; wilde verwanten zijn van gedomesticeerde of gecultiveerde soorten; van geneeskundige, landbouwkundige of andere economische waarde zijn; van sociaal, wetenschappelijk of cultureel belang zijn; van belang zijn voor onderzoek naar het behoud en het duurzame gebruik van de biologische diversiteit, zoals indicatorsoorten; en
 
-#### 3
+##### 3
 
 Beschreven genomen en genen van sociaal, wetenschappelijk of economisch belang.
 
 ## TITEL 1. Arbitrage
 
-#### Artikel 1
+##### Artikel 1
 
 De eisende partij stelt het Secretariaat in kennis van het feit dat de partijen een geschil onderwerpen aan arbitrage overeenkomstig [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0001136&artikel=27&z=1994-10-10&g=1994-10-10). In de kennisgeving dienen te worden vermeld het onderwerp van de arbitrage en met name de artikelen van het Verdrag of het protocol waarvan de uitlegging of toepassing in het geding zijn. Indien de partijen geen overeenstemming kunnen bereiken over het onderwerp van het geding voordat de voorzitter van het scheidsgerecht wordt aangewezen, wordt dit bepaald door het scheidsgerecht. Het Secretariaat doet de aldus ontvangen informatie toekomen aan alle Verdragsluitende Partijen bij dit Verdrag of bij het desbetreffende protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij geschillen tussen twee partijen bestaat het scheidsgerecht uit drie leden. Elk der partijen bij het geschil benoemt een scheidsman, en de twee aldus benoemde scheidsmannen wijzen in onderlinge overeenstemming de derde scheidsman aan, die als voorzitter van het scheidsgerecht fungeert. Laatstgenoemde mag geen onderdaan zijn van één der partijen bij het geschil, noch zijn vaste woon- of verblijfplaats hebben op het grondgebied van één van die partijen, noch werkzaam zijn in dienst van één van hen, noch zich in enigerlei hoedanigheid met de zaak hebben beziggehouden.
 
@@ -542,25 +567,25 @@ De eisende partij stelt het Secretariaat in kennis van het feit dat de partijen 
 
 3. Een vacature wordt vervuld op de wijze als voorgeschreven voor de aanvankelijke benoeming.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien binnen twee maanden na de benoeming van de tweede scheidsman geen voorzitter van het scheidsgerecht is aangewezen, wijst de Secretaris-Generaal van de Verenigde Naties op verzoek van een partij de voorzitter aan binnen een nieuwe termijn van twee maanden.
 
 2. Indien één van de partijen bij het geschil binnen twee maanden na ontvangst van het verzoek geen scheidsman heeft benoemd, kan de andere partij hiervan kennisgeving doen aan de Secretaris-Generaal, die de aanwijzing verricht binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het scheidsgerecht neemt zijn beslissingen in overeenstemming met de bepalingen van dit Verdrag, het desbetreffende protocol en het internationale recht.
 
-#### Artikel 5
+##### Artikel 5
 
 Tenzij de partijen bij het geding anders overeenkomen, stelt het scheidsgerecht zijn eigen procedureregels vast.
 
-#### Artikel 6
+##### Artikel 6
 
 Het scheidsgerecht kan op verzoek van één van de partijen essentiële voorlopige maatregelen ter bescherming aanbevelen.
 
-#### Artikel 7
+##### Artikel 7
 
 De partijen bij het geschil dienen de werkzaamheden van het scheidsgerecht te vergemakkelijken en dienen met name, met gebruikmaking van alle hun ter beschikking staande middelen:
 
@@ -568,69 +593,69 @@ De partijen bij het geschil dienen de werkzaamheden van het scheidsgerecht te ve
 
 - b. het scheidsgerecht in staat te stellen, indien nodig, getuigen en deskundigen op te roepen en hun verklaring te doen optekenen.
 
-#### Artikel 8
+##### Artikel 8
 
 De partijen en de scheidsmannen zijn verplicht het vertrouwelijk karakter te handhaven van alle informatie die zij in vertrouwen hebben ontvangen in de loop van de procedure voor het scheidsgerecht.
 
-#### Artikel 9
+##### Artikel 9
 
 Tenzij het scheidsgerecht anders beslist gelet op de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht in gelijke delen gedragen door de partijen bij het geding. Het scheidsgerecht houdt aantekening van alle kosten en doet een eindoverzicht toekomen aan de partijen.
 
-#### Artikel 10
+##### Artikel 10
 
 Een Verdragsluitende Partij die een belang van juridische aard bij het onderwerp van het geding heeft, dat door de beslissing kan worden geraakt, kan met instemming van het scheidsgerecht interveniëren in de procedure.
 
-#### Artikel 11
+##### Artikel 11
 
 Het scheidsgerecht kan kennis nemen van en uitspraak doen over eisen in reconventie die rechtstreeks verband houden met het onderwerp van het geding.
 
-#### Artikel 12
+##### Artikel 12
 
 Beslissingen van het scheidsgerecht, zowel aangaande de procedure als aangaande de zaak zelve, worden genomen met een meerderheid van stemmen van de leden.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien één van de partijen bij het geschil niet voor het scheidsgerecht verschijnt, of verzuimt haar zaak te verdedigen, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en uitspraak te doen. Niet-verschijnen of verzuim de zaak te verdedigen vormt geen beletsel voor de voortgang van de procedure. Alvorens zijn einduitspraak te doen, dient het scheidsgerecht zich ervan te vergewissen dat de eis zowel ten aanzien van de feiten, als ten aanzien van het recht gegrond is.
 
-#### Artikel 14
+##### Artikel 14
 
 Het scheidsgerecht doet binnen vijf maanden, te rekenen vanaf de datum waarop het volledig is samengesteld einduitspraak, tenzij het scheidsgerecht het noodzakelijk acht deze termijn met maximaal vijf maanden te verlengen.
 
-#### Artikel 15
+##### Artikel 15
 
 De einduitspraak van het scheidsgerecht dient uitsluitend betrekking te hebben op het onderwerp van het geding en dient met redenen te zijn omkleed. De namen van de leden die aan de beraadslaging hebben deelgenomen en de datum van de einduitspraak dienen daarin te zijn vermeld. Elk lid van het scheidsgerecht kan een afzonderlijk of afwijkend oordeel aan de einduitspraak hechten.
 
-#### Artikel 16
+##### Artikel 16
 
 De uitspraak is bindend voor de partijen bij het geding. De uitspraak is niet vatbaar voor beroep, tenzij de partijen bij het geschil van tevoren een beroepsprocedure zijn overeengekomen.
 
-#### Artikel 17
+##### Artikel 17
 
 Elk geschil dat tussen de partijen bij het geding mocht ontstaan met betrekking tot de uitlegging of de wijze van tenuitvoerlegging van de einduitspraak kan door één van beide partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan.
 
 ## TITEL 2. Conciliatie
 
-#### Artikel 1
+##### Artikel 1
 
 Op verzoek van één van de partijen bij het geding wordt een conciliatiecommissie gevormd. Tenzij de partijen anders overeenkomen, bestaat de commissie uit vijf leden: waarvan elke partij er twee benoemt en een voorzitter gezamenlijk door die leden wordt gekozen.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij geschillen tussen meer dan twee partijen, benoemen de partijen die een gemeenschappelijk belang hebben hun leden van de commissie gezamenlijk. Wanneer twee of meer partijen verschillende belangen hebben of wanneer er onenigheid bestaat omtrent de vraag of zij hetzelfde belang hebben, benoemen zij hun leden afzonderlijk.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien binnen twee maanden na de datum van het verzoek tot vorming van een conciliatiecommissie benoemingen door partijen niet zijn verricht, worden die benoemingen, indien de partij die het verzoek heeft ingediend zulks verzoekt, verricht door de Secretaris-Generaal van de Verenigde Naties binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien binnen twee maanden na de benoeming van het laatste lid van de conciliatiecommissie geen voorzitter is gekozen, wordt de voorzitter, indien een partij zulks verzoekt, benoemd door de Secretaris-Generaal van de Verenigde Naties binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 De conciliatiecommissie neemt haar besluiten met een meerderheid van stemmen van haar leden. Zij stelt haar eigen procedureregels vast, tenzij de partijen bij het geschil anders overeenkomen. Zij doet een voorstel tot oplossing van het geschil, hetwelk de partijen te goeder trouw in overweging nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 Een verschil van mening omtrent de vraag of de conciliatiecommissie bevoegd is, zal door de Commissie worden beslist.
 

@@ -1,20 +1,42 @@
 ---
 title: "Compensatieregeling Coronacrisis Musea met een private collectie"
 identifier: "BWBR0045058"
-categorie: "Overig"
-publicatiedatum: 2021-04-21
-laatste_update: 2021-04-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045058"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-04-21"
+last_updated: "2021-04-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045058"
+soort: "zbo"
+stam_id: "15933623"
+version_id: "27720182"
+internal_id: "C39102001"
+label_id: "15868364"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045058/2021-04-21/0"
+intitule_bron: "Stcrt.2021-19492"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2021-04-20"
+intitule_in_force: "2021-04-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-19492"
+original_published_date: "2021-04-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-19492"
+entry_into_force_date: "2021-04-21"
+jci_1_3: "jci1.3:c:BWBR0045058&z=2021-04-21&g=2021-04-21"
+jci_1_0: "1.0:c:BWBR0045058&g=2021-04-21"
+citeertitel_status: "officieel"
+entry_into_force: "2021-04-21"
 ---
-
 # Compensatieregeling Coronacrisis Musea met een private collectie
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In de regeling wordt verstaan onder:
 
@@ -50,11 +72,11 @@ In de regeling wordt verstaan onder:
 
 - 4. **museum met een private collectie:** een publiekstoegankelijke instelling met een overwegend private collectie.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het fonds kan subsidie verstrekken in de vorm van een bijdrage aan musea met een private collectie die van vitaal belang zijn voor de lokale culturele infrastructuur en die liquiditeitsproblemen hebben of verwachten te krijgen, om deze musea zo veel mogelijk in stand te houden.
 
-#### Artikel 3. Doelgroep
+##### Artikel 3. Doelgroep
 
 De bijdrage kan worden aangevraagd door een in Nederland gevestigd museum dat:
 
@@ -66,7 +88,7 @@ De bijdrage kan worden aangevraagd door een in Nederland gevestigd museum dat:
 
 - d. in het bezit is van de ANBI-status.
 
-#### Artikel 4. Voorwaarden
+##### Artikel 4. Voorwaarden
 
 1. Voor subsidie komen uitsluitend musea met een private collectie in aanmerking die
 
@@ -88,7 +110,7 @@ De bijdrage kan worden aangevraagd door een in Nederland gevestigd museum dat:
 
 6. Geen subsidie wordt verstrekt als de aanvrager een instellingssubsidie van het Rijk ontvangt.
 
-#### Artikel 5. De aanvraag
+##### Artikel 5. De aanvraag
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -114,7 +136,7 @@ De bijdrage kan worden aangevraagd door een in Nederland gevestigd museum dat:
 
 6. De aanvraag wordt digitaal ingediend.
 
-#### Artikel 6. Beoordeling
+##### Artikel 6. Beoordeling
 
 1. Indien met het aantal ingediende aanvragen het subsidieplafond als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=8&z=2021-04-21&g=2021-04-21) niet wordt overschreden, wordt de aanvraag door het bestuur beoordeeld.
 
@@ -138,17 +160,17 @@ De adviescommissie weegt de geografische spreiding evenals diversiteit van de ma
 
 6. Indien de adviescommissie de in het vierde lid van dit artikel bedoelde aspecten van voldoende belang acht, brengt zij een positief advies uit over de aanvraag.
 
-#### Artikel 7. Hoogte subsidiebedrag
+##### Artikel 7. Hoogte subsidiebedrag
 
 1. De subsidie bedraagt 22,3 procent van de gemiddeld over de jaren 2018 en 2019 verworven eigen inkomsten van de instelling, blijkend uit de jaarrekeningen die betrekking hebben op die jaren.
 
 2. De subsidie bedraagt niet meer dan 1.000.000 euro.
 
-#### Artikel 8. Subsidieplafond
+##### Artikel 8. Subsidieplafond
 
 Het subsidieplafond bedraagt 7.500.000 euro.
 
-#### Artikel 9. Besluit
+##### Artikel 9. Besluit
 
 1. Het bestuur besluit gelijktijdig op alle aanvragen op basis van deze regeling en de **Compensatieregeling Coronacrisis Kunsthallen**.
 
@@ -162,21 +184,21 @@ Het subsidieplafond bedraagt 7.500.000 euro.
 
 6. Op een volledige aanvraag wordt zo spoedig mogelijk maar maximaal binnen tweeëntwintig weken na de in [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045058&artikel=5&z=2021-04-21&g=2021-04-21) bedoelde sluitingsdatum beslist door het bestuur. Het bestuur deelt de beslissing binnen vijf werkdagen na het besluit schriftelijk mee aan de aanvrager.
 
-#### Artikel 10. Hardheidsclausule
+##### Artikel 10. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, artikelen of onderdelen daarvan buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 11. Overig
+##### Artikel 11. Overig
 
 In alle gevallen waarin deze regeling niet voorziet, beslist het bestuur.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 10 april 2021, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 10 april 2021.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Compensatieregeling Coronacrisis Musea met een private collectie.
 

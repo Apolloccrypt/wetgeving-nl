@@ -1,13 +1,37 @@
 ---
 title: "Eindejaarsuitkering burgemeester en wethouders"
 identifier: "BWBR0015548"
-categorie: "Sociaal recht"
-publicatiedatum: 2003-09-16
-laatste_update: 2003-09-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015548"
+country: "nl"
+rank: "circulaire"
+publication_date: "2003-09-16"
+last_updated: "2003-09-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015548"
+soort: "circulaire"
+stam_id: "6389563"
+version_id: "11050022"
+internal_id: "C14952771"
+label_id: "6378374"
+original_entry_into_force: "2003-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015548/2003-09-16/0"
+intitule_bron: "Stcrt.2003-178"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-04"
+intitule_published: "2003-09-16"
+intitule_in_force: "2003-09-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-178"
+original_signed_date: "2003-09-04"
+original_published_date: "2003-09-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-178-p11-SC61080"
+entry_into_force_date: "2003-09-16"
+jci_1_3: "jci1.3:c:BWBR0015548&z=2003-09-16&g=2003-09-16"
+jci_1_0: "1.0:c:BWBR0015548&g=2003-09-16"
+citeertitel_status: "redactioneel"
+signed_date: "2003-09-04"
+entry_into_force: "2003-09-16"
 ---
-
 # Eindejaarsuitkering burgemeester en wethouders
 
 ### Nominale eindejaarsuitkering

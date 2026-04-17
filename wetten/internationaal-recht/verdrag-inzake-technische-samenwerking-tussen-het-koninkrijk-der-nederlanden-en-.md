@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake technische samenwerking tussen het Koninkrijk der Nederlanden en Gambia"
 identifier: "BWBV0001095"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-07-16
-laatste_update: 1993-07-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001095"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-07-16"
+last_updated: "1993-07-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001095"
+soort: "verdrag"
+stam_id: "10002246233"
+version_id: "10002289942"
+internal_id: "C10006977861"
+label_id: "10002236334"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001095/1993-07-16/0"
+intitule_bron: "Trb.1993-126"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-07-16"
+intitule_published: "1993-09-22"
+intitule_status: "nogniet"
+original_publication: "Trb.1993-126"
+original_signed_date: "1993-07-16"
+original_published_date: "1993-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-126"
+jci_1_3: "jci1.3:c:BWBV0001095&z=1993-07-16&g=1993-07-16"
+jci_1_0: "1.0:c:BWBV0001095&g=1993-07-16"
+citeertitel_status: "redactioneel"
+signed_date: "1993-07-16"
+entry_into_force: "1993-09-22"
 ---
-
 # Verdrag inzake technische samenwerking tussen het Koninkrijk der Nederlanden en Gambia
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Gambia;
@@ -18,13 +40,13 @@ Geleid door de wens de technische samenwerking te bevorderen en hiertoe het nood
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van dit Verdrag is de technische samenwerking te bevorderen en hiertoe het juridische en administratieve kader te scheppen voor projecten inzake technische samenwerking waartoe de bevoegde bestuurlijke autoriteiten van beide Partijen ter uitvoering van dit Verdrag besluiten.
 
 2. Een besluit tot samenwerking als bedoeld in het eerste lid hierboven, de bijdragen aan een project en de wijze waarop dat project wordt uitgevoerd, worden per geval vastgelegd in een administratief akkoord, te sluiten door de twee bevoegde bestuurlijke autoriteiten.
 
-#### Artikel II
+##### Artikel II
 
 1. In verband met een project verbindt de Regering van Gambia zich ertoe:
 
@@ -52,7 +74,7 @@ Zijn het volgende overeengekomen:
 
 2. De regering van Gambia waarborgt dat de Nederlandse personeelsleden en hun gezinnen op niet minder gunstige wijze worden behandeld dan personeel dat ten behoeve van technische bijstand naar Gambia wordt uitgezonden door andere landen of internationale organisaties.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regering van Gambia stelt de Nederlandse Regering en het Nederlandse personeel schadeloos en vrijwaart hun ter zake van elke extra-contractuele wettelijke aansprakelijkheid voortvloeiend uit het verrichten of nalaten van handelingen door een of meer van de bedoelde personen tijdens werkzaamheden vallend onder of ondernomen uit hoofde van dit Verdrag die de dood van of letsel aan derden veroorzaken of schade aan het eigendom van derden, voor zover deze aansprakelijkheid niet door een verzekering is gedekt, en onthoudt zich van het instellen van vorderingen of het nemen van gerechtelijke stappen vanwege extra-contractuele wettelijke aansprakelijkheid, tenzij de wettelijke aansprakelijkheid het gevolg is van opzettelijk onjuist handelen of grove nalatigheid van een of meer van de bedoelde personen.
 
@@ -60,7 +82,7 @@ Zijn het volgende overeengekomen:
 
 3. Indien de Regering van Gambia zulks verzoekt, verschaft de Regering van Nederland de bevoegde autoriteiten van Gambia de noodzakelijke administratieve of juridische bijstand voor een bevredigende regeling van eventuele problemen die kunnen ontstaan in verband met de toepassing van het eerste en tweede lid van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De Regering van Gambia heeft het recht, na overleg met de Nederlandse Regering, te verzoeken om terugroeping van ieder lid van het Nederlandse personeel wiens werk of gedrag onbevredigend is;
 
@@ -72,27 +94,27 @@ in geval van terugroeping stelt de Nederlandse Regering alles in het werk om, in
 
 Het Nederlandse personeel dient de in Gambia geldende wetten te eerbiedigen.
 
-#### Artikel V
+##### Artikel V
 
 1. De bepalingen van dit Verdrag betreffende Nederlands personeel zijn eveneens van toepassing op personen in dienst van de Nederlandse Regering en op personen in dienst van ondernemingen of andere organisaties waarmee de Nederlandse Regering een overeenkomst heeft gesloten inzake de uitvoering van een project terzake waarvan beide bevoegde autoriteiten hebben besloten samen te werken.
 
 2. Het beschikbaar gestelde Nederlandse personeel kan zowel uitvoerende als adviserende taken verrichten.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De bepalingen van de artikelen II, III en IV, eerste lid, van dit Verdrag zijn eveneens van toepassing op de door Nederland beschikbaar gestelde suppletie-deskundigen. Deze deskundigen dienen echter wel lokale inkomstenbelasting te betalen over honoraria die aan hen worden betaald door de Regering van Gambia.
 
 2. De in het eerste lid van dit artikel bedoelde deskundigen staan uitsluitend onder het gezag van de desbetreffende Gambiaanse autoriteiten. De deskundigen dienen verordeningen en regelingen die in Gambia op een bepaald tijdstip van kracht zijn, na te leven, mits die verordeningen en regelingen niet in strijd zijn met de bepalingen van dit Verdrag of van eventuele andere regelingen tussen de twee Verdragsluitende Partijen die van toepassing zijn op de betrokken deskundigen.
 
-#### Artikel VII
+##### Artikel VII
 
 De Regering van Gambia stelt de uitrusting (met inbegrip van motorvoertuigen) en andere materialen die de Nederlandse Regering in verband met een project verschaft, vrij van alle in- en uitvoerrechten en andere officiële heffingen, met inbegrip van BTW.
 
-#### Artikel VIII
+##### Artikel VIII
 
 De bepalingen van dit Verdrag zijn eveneens van toepassing op Nederlands personeel dat reeds werkzaam is bij projecten inzake technische samenwerking in Gambia voor de datum waarop dit Verdrag van kracht wordt.
 
-#### Artikel IX
+##### Artikel IX
 
 1. Dit Verdrag wordt voorlopig toegepast vanaf de datum van ondertekening en treedt in werking op de datum waarop de beide Regeringen elkaar er schriftelijk van in kennis hebben gesteld dat aan de in hun onderscheiden landen daarvoor constitutioneel vereiste procedures is voldaan.
 

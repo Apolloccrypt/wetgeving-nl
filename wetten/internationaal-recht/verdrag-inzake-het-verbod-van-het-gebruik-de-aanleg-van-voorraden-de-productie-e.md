@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake het verbod van het gebruik, de aanleg van voorraden, de productie en de overdracht van anti-personeelsmijnen en inzake de vernietiging van deze wapens"
 identifier: "BWBV0001384"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-10-01
-laatste_update: 1999-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001384"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-10-01"
+last_updated: "1999-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001384"
+soort: "verdrag"
+stam_id: "10000372283"
+version_id: "10000381042"
+internal_id: "C10006989671"
+label_id: "10000372544"
+original_entry_into_force: "1999-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001384/1999-10-01/0"
+intitule_bron: "Trb.1998-65"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-12"
+intitule_published: "1998-03-06"
+intitule_in_force: "2003-08-01"
+intitule_status: "goed"
+original_publication: "Trb.1998-135"
+original_signed_date: "1999-04-12"
+original_published_date: "1998-06-08"
+original_effect: "structuurwijziging"
+original_url_id: "trb-1998-135"
+entry_into_force_date: "1999-10-01"
+jci_1_3: "jci1.3:c:BWBV0001384&z=1999-10-01&g=1999-10-01"
+jci_1_0: "1.0:c:BWBV0001384&g=1999-10-01"
+citeertitel_status: "officieel"
+signed_date: "1999-04-12"
+entry_into_force: "1999-10-01"
 ---
-
 # Verdrag inzake het verbod van het gebruik, de aanleg van voorraden, de productie en de overdracht van anti-personeelsmijnen en inzake de vernietiging van deze wapens
 
 Preambule
@@ -38,7 +62,7 @@ Zich baserend op het beginsel van het humanitaire oorlogsrecht dat het recht van
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. Elke Staat die Partij is verplicht zich ertoe onder geen enkele omstandigheid:
 
@@ -50,7 +74,7 @@ Zijn het volgende overeengekomen:
 
 2. Elke Staat die Partij is verplicht zich ertoe alle anti-personeelmijnen te vernietigen of te doen vernietigen, overeenkomstig de bepalingen van dit Verdrag.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 1. „Anti-personeelmijn”: een mijn die is ontworpen om te exploderen door de aanwezigheid of de nabijheid van ofwel het contact met een persoon en die ertoe is bestemd een of meer personen buiten gevecht te stellen, letsel toe te brengen of te doden. Mijnen ontworpen om te ontploffen door de aanwezigheid of de nabijheid van ofwel het contact met een voertuig in plaats van een persoon, en die zijn voorzien van een anti-hanteermechanisme, worden als gevolg van deze voorziening niet beschouwd als anti-personeelmijnen.
 
@@ -62,17 +86,17 @@ Zijn het volgende overeengekomen:
 
 5. „Bemijnd gebied”: een gebied dat gevaarlijk is ten gevolge van de aanwezigheid of vermoedelijke aanwezigheid van mijnen.
 
-#### Artikel 3. Uitzonderingen
+##### Artikel 3. Uitzonderingen
 
 1. Onverminderd de algemene verplichtingen ingevolge [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001384&artikel=1&z=1999-10-01&g=1999-10-01), is het onder zich houden of de overdracht van een aantal anti-personeelmijnen voor de ontwikkeling van en training in mijnopsporings-, mijnruimings- en mijnvernietigingstechnieken toegestaan. Het aantal van dit soort mijnen mag niet meer bedragen dan het minimumaantal dat strikt noodzakelijk is voor de bovengenoemde doeleinden.
 
 2. De overdracht van anti-personeelmijnen met het oogmerk deze te vernietigen, is toegestaan.
 
-#### Artikel 4. Vernietiging van voorraden anti-personeelmijnen
+##### Artikel 4. Vernietiging van voorraden anti-personeelmijnen
 
 Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001384&artikel=3&z=1999-10-01&g=1999-10-01), verplicht elke Staat die Partij is zich ertoe zo spoedig mogelijk, doch uiterlijk vier jaar na de inwerkingtreding van dit Verdrag ten aanzien van die Staat die Partij is, alle in zijn eigendom of bezit zijnde, of onder zijn rechtsmacht of zeggenschap staande voorraden anti-personeelmijnen, te vernietigen of te doen vernietigen.
 
-#### Artikel 5. Vernietiging van anti-personeelmijnen in bemijnde gebieden
+##### Artikel 5. Vernietiging van anti-personeelmijnen in bemijnde gebieden
 
 1. Elke Staat die Partij is verplicht zich ertoe zo spoedig mogelijk, doch uiterlijk tien jaar na de inwerkingtreding van dit Verdrag ten aanzien van die Staat die Partij is, alle anti-personeelmijnen in bemijnde gebieden die onder zijn rechtsmacht of zeggenschap vallen, te vernietigen of te doen vernietigen.
 
@@ -100,7 +124,7 @@ Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 6. Een dergelijke verlenging kan worden vernieuwd na indiening van een nieuw verzoek in overeenstemming met het derde, vierde en vijfde lid van dit artikel. Bij het verzoek om een verdere verlenging van het tijdvak dient een Staat die Partij is relevante aanvullende gegevens te verschaffen omtrent hetgeen in het voorgaande verlengingstijdvak ingevolge dit artikel door hem is ondernomen.
 
-#### Artikel 6. Internationale samenwerking en bijstand
+##### Artikel 6. Internationale samenwerking en bijstand
 
 1. Bij de nakoming van de verplichtingen ingevolge dit Verdrag heeft elke Staat die Partij is het recht bijstand te vragen en indien zulks haalbaar is, te ontvangen van andere Staten die Partij zijn in de mate waarin dit mogelijk is.
 
@@ -130,7 +154,7 @@ Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 8. Elke Staat die Partij is en die bijstand verleent en ontvangt overeenkomstig de bepalingen van dit artikel biedt zijn samenwerking aan teneinde zorg te dragen voor de volledige en onverwijlde uitvoering van de overeengekomen bijstandprogramma's.
 
-#### Artikel 7. Transparantiemaatregelen
+##### Artikel 7. Transparantiemaatregelen
 
 1. Elke Staat die Partij is brengt verslag uit aan de Secretaris-Generaal van de Verenigde Naties zodra dit praktisch uitvoerbaar is en in elk geval niet later dan 180 dagen na de inwerkingtreding van dit Verdrag ten aanzien van die Staat, inzake:
 
@@ -156,7 +180,7 @@ Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 3. De Secretaris-Generaal van de Verenigde Naties doet al de ontvangen verslagen toekomen aan de Staten die Partij zijn.
 
-#### Artikel 8. Vergemakkelijking en opheldering met betrekking tot de naleving
+##### Artikel 8. Vergemakkelijking en opheldering met betrekking tot de naleving
 
 1. De Staten die Partij zijn komen overeen met elkaar overleg te plegen en samen te werken met betrekking tot de uitvoering van de bepalingen van dit Verdrag, en zich gezamenlijk in een geest van samenwerking in te spannen voor de vergemakkelijking van de naleving van de verplichtingen die uit hoofde van dit Verdrag rusten op de Staten die Partij zijn.
 
@@ -204,11 +228,11 @@ Behoudens het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 20. De Vergadering van de Staten die Partij zijn of de Buitengewone Vergadering van de Staten die Partij zijn doet al het mogelijke om tot haar in het achttiende en negentiende lid bedoelde beslissingen te komen door middel van consensus, of anders met een twee derde meerderheid van de aanwezige en hun stem uitbrengende Staten die Partij zijn.
 
-#### Artikel 9. Nationale uitvoeringsmaatregelen
+##### Artikel 9. Nationale uitvoeringsmaatregelen
 
 Elke Staat die Partij is bij dit Verdrag neemt alle passende wettelijke, administratieve en andere maatregelen, met inbegrip van het opleggen van strafrechtelijke sancties, teneinde het ondernemen van ingevolge dit Verdrag aan een Staat die Partij is verboden activiteiten door personen of op grondgebied onder zijn rechtsmacht of zeggenschap, te voorkomen en tegen te gaan.
 
-#### Artikel 10. Beslechting van geschillen
+##### Artikel 10. Beslechting van geschillen
 
 1. De Staten die Partij zijn plegen overleg en werken samen teneinde te komen tot de beslechting van geschillen die zich kunnen voordoen met betrekking tot de toepassing of uitlegging van dit Verdrag. Elke Staat die Partij is kan een dergelijk geschil voorleggen aan de Vergadering van de Staten die Partij zijn.
 
@@ -216,7 +240,7 @@ Elke Staat die Partij is bij dit Verdrag neemt alle passende wettelijke, adminis
 
 3. Dit artikel doet geen afbreuk aan de bepalingen van dit Verdrag inzake de vergemakkelijking en opheldering met betrekking tot de naleving.
 
-#### Artikel 11. Vergaderingen van de Staten die Partij zijn
+##### Artikel 11. Vergaderingen van de Staten die Partij zijn
 
 1. De Staten die Partij zijn komen regelmatig in vergadering bijeen teneinde zaken te bestuderen die betrekking hebben op de toepassing of uitvoering van dit Verdrag, met inbegrip van:
 
@@ -238,7 +262,7 @@ Elke Staat die Partij is bij dit Verdrag neemt alle passende wettelijke, adminis
 
 4. Staten die geen Partij zijn bij dit Verdrag, alsmede de Verenigde Naties, andere relevante internationale organisaties of instellingen, regionale organisaties, het Internationaal Comité van het Rode Kruis en relevante niet-gouvernementele organisaties kunnen worden uitgenodigd deze vergaderingen als waarnemers bij te wonen, in overeenstemming met het aangenomen Reglement van Orde.
 
-#### Artikel 12. Toetsingsconferenties
+##### Artikel 12. Toetsingsconferenties
 
 1. Vijf jaar na de inwerkingtreding van dit Verdrag roept de Secretaris-Generaal van de Verenigde Naties een Toetsingsconferentie bijeen. Opvolgende Toetsingsconferenties worden door de Secretaris-Generaal van de Verenigde Naties bijeengeroepen op verzoek daartoe door een of meer Staten die Partij zijn, met dien verstande dat het tijdvak tussen de toetsingsconferenties in geen geval korter mag zijn dan vijf jaar. Alle Staten die Partij zijn bij dit Verdrag worden uitgenodigd voor elke Toetsingsconferentie.
 
@@ -254,7 +278,7 @@ Elke Staat die Partij is bij dit Verdrag neemt alle passende wettelijke, adminis
 
 3. Staten die geen Partij zijn bij dit Verdrag, alsmede de Verenigde Naties, andere relevante internationale organisaties of instellingen, regionale organisaties, het Internationaal Comité van het Rode Kruis en relevante niet-gouvernementele organisaties kunnen worden uitgenodigd elke Toetsingsconferentie als waarnemers bij te wonen, overeenkomstig het aangenomen Reglement van Orde.
 
-#### Artikel 13. Wijzigingen
+##### Artikel 13. Wijzigingen
 
 1. Na de inwerkingtreding van dit Verdrag kan iedere Staat die Partij is te allen tijde voorstellen doen tot wijziging van dit Verdrag. Elk voorstel tot wijziging wordt ingediend bij de Depositaris, die het toezendt aan alle Staten die Partij zijn en die hun mening vraagt ten aanzien van de noodzaak een Wijzigingsconferentie bijeen te roepen teneinde het voorstel in behandeling te nemen. Indien een meerderheid van de Staten die Partij zijn de Depositaris uiterlijk 30 dagen na de toezending van het voorstel meedeelt dat zij verdere behandeling van het voorstel steunt, roept de Depositaris een Wijzigingsconferentie bijeen, waarvoor alle Staten die Partij zijn worden uitgenodigd.
 
@@ -266,17 +290,17 @@ Elke Staat die Partij is bij dit Verdrag neemt alle passende wettelijke, adminis
 
 5. Een wijziging van dit Verdrag treedt ten aanzien van alle Staten die Partij zijn en deze wijziging hebben aanvaard in werking op het moment van nederlegging, bij de Depositaris, van de akte van aanvaarding door een meerderheid van de Staten die Partij zijn. Vervolgens treedt zij ten aanzien van elke andere Staat die Partij is in werking op de datum van nederlegging van zijn akte van aanvaarding.
 
-#### Artikel 14. Kosten
+##### Artikel 14. Kosten
 
 1. De kosten van de Vergaderingen van Staten die Partij zijn, de Buitengewone Vergaderingen van Staten die Partij zijn, de Toetsingsconferenties en de Wijzigingsconferenties, worden gedragen door de Staten die Partij zijn bij dit Verdrag en door de daaraan deelnemende Staten die geen Partij zijn bij dit Verdrag, in overeenstemming met de naar behoren aangepaste verdeelsleutel van de Verenigde Naties.
 
 2. De door de Secretaris-Generaal van de Verenigde Naties ingevolge de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001384&artikel=7&z=1999-10-01&g=1999-10-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0001384&artikel=8&z=1999-10-01&g=1999-10-01) gemaakte kosten alsmede de kosten van elke onderzoeksmissie, worden gedragen door de Staten die Partij zijn, in overeenstemming met de naar behoren aangepaste verdeelsleutel van de Verenigde Naties.
 
-#### Artikel 15. Ondertekening
+##### Artikel 15. Ondertekening
 
 Dit Verdrag, gedaan te Oslo, Noorwegen, op 18 september 1997, staat voor alle Staten open ter ondertekening te Ottawa, Canada, van 3 december 1997 tot en met 4 december 1997, en op het Hoofdkwartier van de Verenigde Naties te New York, van 5 december 1997 tot de inwerkingtreding ervan.
 
-#### Artikel 16. Bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 16. Bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de Ondertekenaars.
 
@@ -284,21 +308,21 @@ Dit Verdrag, gedaan te Oslo, Noorwegen, op 18 september 1997, staat voor alle St
 
 3. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Depositaris.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de zesde maand volgend op de maand waarin de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding is nedergelegd.
 
 2. Voor elke Staat die zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na de datum van de nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, treedt dit Verdrag in werking op de eerste dag van de zesde maand na de datum waarop die Staat zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding heeft nedergelegd.
 
-#### Artikel 18. Voorlopige toepassing
+##### Artikel 18. Voorlopige toepassing
 
 Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat hij, hangende de inwerkingtreding van dit Verdrag, het [eerste lid van artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001384&artikel=1&z=1999-10-01&g=1999-10-01) van dit Verdrag voorlopig toepast.
 
-#### Artikel 19. Voorbehouden
+##### Artikel 19. Voorbehouden
 
 Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden gemaakt.
 
-#### Artikel 20. Duur en opzegging
+##### Artikel 20. Duur en opzegging
 
 1. Dit Verdrag geldt voor onbeperkte duur.
 
@@ -308,10 +332,10 @@ Er kunnen ten aanzien van de artikelen van dit Verdrag geen voorbehouden worden 
 
 4. De opzegging van dit Verdrag door een Staat die Partij is, is op generlei wijze van invloed op de plicht van de Staten de ingevolge de desbetreffende regels van het volkenrecht aangegane verplichtingen te blijven nakomen.
 
-#### Artikel 21. Depositaris
+##### Artikel 21. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties wordt hierbij aangewezen als Depositaris van dit Verdrag.
 
-#### Artikel 22. Authentieke teksten
+##### Artikel 22. Authentieke teksten
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.

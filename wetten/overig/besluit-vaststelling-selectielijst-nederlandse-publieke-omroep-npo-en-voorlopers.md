@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst Nederlandse Publieke Omroep (NPO) en voorlopers over de periode vanaf 1969"
 identifier: "BWBR0029945"
-categorie: "Overig"
-publicatiedatum: 2011-05-08
-laatste_update: 2011-05-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029945"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2011-05-08"
+last_updated: "2011-05-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029945"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "11312183"
+version_id: "18540182"
+internal_id: "C25871281"
+label_id: "11286034"
+dtd_version: "2.0"
+original_entry_into_force: "2011-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029945/2011-05-08/0"
+intitule_bron: "Stcrt.2011-7817"
+intitule_effect: "nieuw"
+intitule_signed: "2011-05-06"
+intitule_published: "2011-05-06"
+intitule_in_force: "2011-05-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-7817"
+original_signed_date: "2011-05-06"
+original_published_date: "2011-05-06"
+original_effect: "nieuw"
+original_url_id: "stcrt-2011-7817"
+entry_into_force_date: "2011-05-08"
+jci_1_3: "jci1.3:c:BWBR0029945&z=2011-05-08&g=2011-05-08"
+jci_1_0: "1.0:c:BWBR0029945&g=2011-05-08"
+citeertitel_status: "redactioneel"
+signed_date: "2011-05-06"
+entry_into_force: "2011-05-08"
 ---
-
 # Besluit vaststelling selectielijst Nederlandse Publieke Omroep (NPO) en voorlopers over de periode vanaf 1969
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 07 maart 2011,
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Nederlandse Publieke Omroep (NPO) en voorlopers over de periode vanaf 1969’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

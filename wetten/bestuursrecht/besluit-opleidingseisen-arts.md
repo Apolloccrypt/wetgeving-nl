@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen arts"
+title: "Besluit van 19 juli 1997, houdende regels inzake de opleiding tot arts (Besluit opleidingseisen arts)"
 identifier: "BWBR0008846"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008846"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008846"
+soort: "AMvB"
+stam_id: "614983"
+version_id: "30154462"
+internal_id: "C43209311"
+label_id: "596754"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008846/2024-07-01/0"
+intitule_bron: "Stb.1997-379"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-19"
+intitule_published: "1997-09-09"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.2024-169"
+original_signed_date: "2024-06-14"
+original_published_date: "2024-06-19"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-169"
+entry_into_force_date: "2024-06-14"
+jci_1_3: "jci1.3:c:BWBR0008846&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0008846&g=2024-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen arts"
+signed_date: "2024-06-14"
+entry_into_force: "2024-06-14"
 ---
-
 # Besluit van 19 juli 1997, houdende regels inzake de opleiding tot arts (Besluit opleidingseisen arts)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26 november 1996, CSZ/Beno-9614443;
@@ -22,25 +48,25 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder «wet»: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens artikel 3 van de wet ingestelde register van artsen te kunnen worden ingeschreven, is vereist het bezit van een door een universiteit als bedoeld in [hoofdstuk 7 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&hoofdstuk=7) uitgereikt getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen heeft afgelegd ter afsluiting van een opleiding tot arts die voldoet aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&artikel=3&z=2024-07-01&g=2024-07-01) van dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De opleiding tot arts is erop gericht dat de betrokkene de competenties verwerft, bedoeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=1&z=2024-07-01&g=2024-07-01) bij dit besluit en begrip heeft van de kennisaspecten, bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=2&z=2024-07-01&g=2024-07-01) bij dit besluit, in samenhang met de lijst van vraagstukken rondom gezondheid en ziekte, bedoeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008846&bijlage=3&z=2024-07-01&g=2024-07-01) bij dit besluit.
 
 2. De opleiding tot arts bestaat uit ten minste 5500 uren theoretisch en praktisch onderwijs.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen arts.
 

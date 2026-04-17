@@ -1,13 +1,39 @@
 ---
-title: "Besluit administratiefrechtelijke handhaving verkeersvoorschriften"
+title: "Besluit van 29 juli 1994, houdende regels ter uitvoering van de artikelen 3, eerste en derde lid, 22, tweede lid, en 35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften"
 identifier: "BWBR0006847"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006847"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006847"
+soort: "AMvB"
+stam_id: "68793"
+version_id: "92542"
+internal_id: "C92541"
+label_id: "69854"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006847/2018-01-01/0"
+intitule_bron: "Stb.1994-614"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-07-29"
+intitule_published: "1994-08-25"
+intitule_in_force: "1994-08-25"
+intitule_status: "goed"
+original_publication: "Stb.2001-321"
+original_signed_date: "2001-07-04"
+original_published_date: "2001-07-10"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2001-321"
+entry_into_force_date: "2001-07-15"
+jci_1_3: "jci1.3:c:BWBR0006847&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0006847&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit administratiefrechtelijke handhaving verkeersvoorschriften"
+signed_date: "2001-07-04"
+entry_into_force: "2001-07-15"
 ---
-
 # Besluit van 29 juli 1994, houdende regels ter uitvoering van de artikelen 3, eerste en derde lid, 22, tweede lid, en 35 van de Wet administratiefrechtelijke handhaving verkeersvoorschriften
 
 Op voordracht van Onze Minister van Justitie van 7 maart 1994, Stafafdeling Wetgeving Publiekrecht, nr. 429101/94/6, gedaan mede namens Onze Minister van Verkeer en Waterstaat;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan;
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -52,7 +78,7 @@ Hebben goedgevonden en verstaan;
 
 #### § 2. De bevoegde ambtenaren en de bevoegdheid tot het opleggen van de administratieve sanctie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met het toezicht op de naleving, bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=3) zijn belast:
 
@@ -68,7 +94,7 @@ Hebben goedgevonden en verstaan;
 
 - b. de buitengewoon opsporingsambtenaren, bedoeld in [artikel 142, eerste lid, onder c, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=142), voor zover die ambtenaren bij of krachtens de [Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622), de [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645) of de [Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) worden aangewezen voor de opsporing van de bij of krachtens die wetten strafbaar gestelde feiten, dan wel voor het toezicht op de naleving van de in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=2) bedoelde voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De hoofdofficier van justitie kan bepalen dat naar zijn oordeel de taakvervulling van een bevoegde ambtenaar vordert dat tot nader bericht die ambtenaar geen gebruik zal maken van de verleende bevoegdheid tot het opleggen van een administratieve sanctie.
 
@@ -80,7 +106,7 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 #### § 3. De betaling
 
-#### Artikel 4
+##### Artikel 4
 
 1. De betaling van de administratieve sanctie en de daarop gevallen verhogingen en kosten geschiedt door storting of overschrijving op een daartoe bestemde bankrekening van Onze Minister.
 
@@ -92,19 +118,19 @@ Alvorens de beschikking, bedoeld in de eerste volzin, te geven, hoort de hoofdof
 
 5. Indien de zaak waarop betaling van de administratieve sanctie en de daarop gevallen verhogingen en kosten betrekking heeft niet is vermeld op de wijze als bedoeld in het vierde lid, kan Onze Minister het aan hem betaalde bedrag terugstorten op de rekening waarvan het bedrag afkomstig is, of anderszins het bedrag terugbetalen aan de persoon die heeft betaald.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
 #### § 4. Het toezicht
 
-#### Artikel 6
+##### Artikel 6
 
 1. In het belang van een juist gebruik van de bevoegdheid tot het opleggen van een administratieve sanctie wordt er op toegezien, dat in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), onverwijld een betalingsbewijs wordt ter beschikking gesteld dat door de ambtenaar aan wie de administratieve sanctie wordt voldaan, is gedagtekend en ondertekend.
 
 2. De bevoegde ambtenaar en de ambtenaar aan wie de administratieve sanctie kan worden voldaan, worden in het bezit gesteld van de bijlage, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=2) van de wet. Aan de betrokkenen verlenen zij desgevraagd inzage in deze bijlage.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bevoegde ambtenaar houdt aantekening van elke zaak waarin hij een administratieve sanctie heeft opgelegd. Tevens wordt in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), aantekening gehouden van de voldoening van de administratieve sanctie.
 
@@ -114,13 +140,13 @@ Vervallen
 
 #### § 5. De verantwoording der gelden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister draagt zorg voor de opening van een of meer afzonderlijke bankrekeningen welke uitsluitend bestemd zijn voor de betaling van gelden, voortvloeiend uit het gebruik van de bevoegdheid tot het opleggen van de administratieve sancties.
 
 2. Onze Minister is belast met het beheer van de in het eerste lid bedoelde bankrekeningen en de in verband daarmee te voeren administratie.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Door de betrokken korpschef worden ambtenaren aangewezen aan wie de administratieve sanctie in de gevallen, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=3&artikel=4&z=2018-01-01&g=2018-01-01), kan worden betaald.
 
@@ -130,11 +156,11 @@ Vervallen
 
 4. Onze Minister stelt nadere voorschriften vast omtrent de verstrekking en het beheer van de betalingsbewijzen, de afrekening en verantwoording van de ontvangen gelden, en de in verband daarmee te voeren administratie.
 
-#### Artikel 10
+##### Artikel 10
 
 De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2018-01-01&g=2018-01-01), en al degenen die verder bij de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2018-01-01&g=2018-01-01), bedoelde voorschriften zijn betrokken, verstrekken desgevraagd alle inlichtingen hieromtrent aan de hoofdofficier van justitie, alsmede aan Onze Minister.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Wat de politie betreft doet de korpschef op de door Onze Minister te bepalen wijze jaarlijks opgave van de uitvoering van de in [artikel 9, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006847&paragraaf=5&artikel=9&z=2018-01-01&g=2018-01-01), bedoelde voorschriften en van de met het oog op de toepassing van dit besluit verrichte accountantscontrole.
 
@@ -142,7 +168,7 @@ De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci
 
 #### § 5a. De administratiekosten en de kosten van verhaal
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Degene aan wie een administratieve sanctie wordt opgelegd, is administratiekosten verschuldigd. De omvang van deze kosten wordt bepaald bij ministeriële regeling. Op de betaling van de administratiekosten zijn de artikelen van dit besluit betreffende de betaling van de administratieve sanctie, het toezicht en de verantwoording van de gelden van overeenkomstige toepassing. De administratiekosten worden samen met de administratieve sanctie in rekening gebracht.
 
@@ -150,27 +176,27 @@ De ambtenaren, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci
 
 #### § 6. Bijstand
 
-#### Artikel 12
+##### Artikel 12
 
 Ingeval de bevoegdheid tot het opleggen van een administratieve sanctie wordt uitgeoefend gedurende de periode dat ingevolge [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=57), [58](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=58) of [59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) bijstand wordt verleend, geschieden de betaling van de administratieve sanctie op de wijze van en de afrekening en verantwoording en controle van de ontvangen gelden door de politie.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit wordt aangehaald als: Besluit administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van 1 april 1994. Indien het **Staatsblad** waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 maart 1994, treedt het in werking met ingang van de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst, en werkt het terug tot en met 1 april 1994.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 11b
+##### Artikel 11b
 
 De kosten van het verhaal van een administratieve sanctie worden op gelijke voet als de administratieve sanctie verhaald op degene aan wie deze sanctie is opgelegd. Onder de kosten van verhaal zijn begrepen de invorderingskosten. De kosten van verhaal, voor zover zij niet betreffen de invorderingskosten, worden berekend overeenkomstig de bij het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638) vastgestelde tarieven. De omvang van de invorderingskosten wordt bepaald bij ministeriële regeling.
 

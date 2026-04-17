@@ -1,13 +1,39 @@
 ---
-title: "Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015"
+title: "Besluit van de Minister van Infrastructuur en Milieu, van 24 augustus 2015, JZ/A-015-00026.001,tot mandaat en machtiging afgifte medische verklaringen voor de luchtvaart 2015"
 identifier: "BWBR0036989"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2015-09-05
-laatste_update: 2015-09-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036989"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-09-05"
+last_updated: "2015-09-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036989"
+soort: "ministeriele-regeling"
+stam_id: "13252653"
+version_id: "22669952"
+internal_id: "C32501671"
+label_id: "13220724"
+dtd_version: "2.0"
+original_entry_into_force: "2015-09-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036989/2015-09-05/0"
+intitule_bron: "Stcrt.2015-28825"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-24"
+intitule_published: "2015-09-04"
+intitule_in_force: "2015-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-28825"
+original_signed_date: "2015-08-24"
+original_published_date: "2015-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-28825"
+entry_into_force_date: "2015-09-05"
+jci_1_3: "jci1.3:c:BWBR0036989&z=2015-09-05&g=2015-09-05"
+jci_1_0: "1.0:c:BWBR0036989&g=2015-09-05"
+citeertitel_status: "officieel"
+short_title: "Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015"
+signed_date: "2015-08-24"
+entry_into_force: "2015-09-05"
 ---
-
 # Besluit van de Minister van Infrastructuur en Milieu, van 24 augustus 2015, JZ/A-015-00026.001,tot mandaat en machtiging afgifte medische verklaringen voor de luchtvaart 2015
 
 Gelet op de [artikelen 10:3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:3), en [10:4, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=10:4), [artikel 15 van de Regeling geneeskundige instanties, geneeskundigen en medische verklaringen voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010686&artikel=15) en artikel MED.A.040, onderdeel f, van Verordening(EU) nr. 1178/2011 van de Europese Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees parlement en de Raad (PbEU L 311);
@@ -16,7 +42,7 @@ Gezien de gebruikers- en dienstverleningsovereenkomsten met de geautoriseerde ge
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 - **verordening:** Verordening(EU) nr. 1178/2011 van de Europese Commissie van 3 november 2011 tot vaststelling van technische eisen en administratieve procedures met betrekking tot de bemanning van burgerluchtvaartuigen, overeenkomstig [Verordening (EG) nr. 216/2008](32008R0216) van het Europees parlement en de Raad (PbEU L 311).
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op besluiten met betrekking tot:
 
@@ -38,7 +64,7 @@ Dit besluit is van toepassing op besluiten met betrekking tot:
 
 - b. medische certificaten klasse 1 en klasse 2 als bedoeld in artikel MED.A.040, onderdeel F, onder 1 en 2, van bijlage IV van de verordening.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Mandaat wordt verleend om namens de bewindspersoon besluiten te nemen, onder de daarvoor geldende wettelijke voorwaarden, aan:
 
@@ -54,7 +80,7 @@ Dit besluit is van toepassing op besluiten met betrekking tot:
 
 3. Het is de in het eerste lid bedoelde functionarissen en instanties niet toegestaan om beslissingen op bezwaar te nemen tegen besluiten die krachtens dit mandaat zijn genomen.
 
-#### Artikel 4
+##### Artikel 4
 
 De in artikel 3 bedoelde functionarissen en instanties zijn gehouden:
 
@@ -62,15 +88,15 @@ De in artikel 3 bedoelde functionarissen en instanties zijn gehouden:
 
 - b. van de uitoefening van de verleende bevoegdheden een ordentelijke, voor de bewindspersoon inzichtelijke en transparante, administratie te voeren.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de Inspecteur-Generaal Leefomgeving en Transport en de Directeur ILT/Luchtvaart van de Inspectie Leefomgeving en Transport wordt machtiging verleend tot het geven van de in [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=4&z=2015-09-05&g=2015-09-05), bedoelde instructies en bij het toezicht op een goede uitvoering van dit besluit tot het nemen van die proportionele maatregelen die hen gepast voorkomen.
 
-#### Artikel 6
+##### Artikel 6
 
 Een medische verklaring en een medisch certificaat worden gesteld op een document dat door de bewindspersoon is vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het in een document vastleggen van besluiten als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036989&artikel=3&z=2015-09-05&g=2015-09-05), of hetgeen op basis van een machtiging wordt verricht, geschiedt op briefpapier waarop het Rijkslogo is geplaatst.
 
@@ -88,15 +114,15 @@ Een medische verklaring en een medisch certificaat worden gesteld op een documen
 
 - 2°. de functieomschrijving, de handtekening en naam van de betreffende functionaris.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit mandaat medische verklaringen voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0024148) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 8 april 2013.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit mandaat en machtiging medische verklaringen voor de luchtvaart 2015.
 

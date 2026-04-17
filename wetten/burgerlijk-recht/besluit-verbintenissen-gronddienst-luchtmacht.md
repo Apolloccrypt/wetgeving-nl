@@ -1,13 +1,35 @@
 ---
-title: "Besluit verbintenissen gronddienst Luchtmacht"
+title: "Besluit van 10 november 1954, houdende regelen met betrekking tot verbintenissen van reserve-personeel bij de gronddienst van de Koninklijke Luchtmacht"
 identifier: "BWBR0002158"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1960-01-01
-laatste_update: 1960-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002158"
+country: "nl"
+rank: "amvb"
+publication_date: "1960-01-01"
+last_updated: "1960-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002158"
+soort: "AMvB"
+stam_id: "1176923"
+version_id: "1738062"
+internal_id: "C1738061"
+label_id: "1140224"
+dtd_version: "2.0"
+original_entry_into_force: "1954-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002158/1960-01-01/0"
+intitule_bron: "Stb.1954-518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-11-10"
+intitule_status: "goed"
+original_publication: "Stb.1954-518"
+original_signed_date: "1954-11-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1954-12-02"
+jci_1_3: "jci1.3:c:BWBR0002158&z=1960-01-01&g=1960-01-01"
+jci_1_0: "1.0:c:BWBR0002158&g=1960-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verbintenissen gronddienst Luchtmacht"
+signed_date: "1954-11-10"
+entry_into_force: "1954-12-02"
 ---
-
 # Besluit van 10 november 1954, houdende regelen met betrekking tot verbintenissen van reserve-personeel bij de gronddienst van de Koninklijke Luchtmacht
 
 Op de voordracht van Onze Minister van Oorlog van 20 September 1954, Nr. P 268 C/DG;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze voornoemde Minister van 4 November 1954, Nr. P
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Een tot het reserve-personeel behorende militair, die wenst te worden opgeleid voor een der door Onze Minister van Defensie aan te wijzen functies bij de gronddienst van de Koninklijke Luchtmacht, kan, indien hij:
 
@@ -34,19 +56,19 @@ worden toegelaten tot een verbintenis, krachtens welke hij verplicht is:
 
 - 2e. gedurende vier jaren, na voltooiing van en in aansluiting op de onder 1e bedoelde opleiding, in die functie - afhankelijk van de aard van de te bekleden functie als officier of onderofficier - doorlopende werkelijke dienst te verrichten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met het sluiten van een verbintenis als bedoeld in dit besluit neemt de militair de uit de verbintenis voorvloeiende verplichting tot het verrichten van doorlopende werkelijke dienst, voor zover deze uitgaat boven de verplichtingen, welke krachtens de [Wet voor het reserve-personeel der krijgsmacht](https://wetten.overheid.nl/jci1.3:c:BWBR0003883) op hem rusten, vrijwillig op zich.
 
 2. Een verbintenis als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002158&artikel=1&z=1960-01-01&g=1960-01-01) geeft aanspraak op een geldelijke uitkering ter zake van doorlopende werkelijke dienst, verricht na het tijdstip, waarop de in dat artikel onder 1e bedoelde opleiding is voltooid, onder voorwaarden en tot een bedrag als nader door Ons zal worden vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Van verbintenissen als bedoeld in dit besluit worden akten in tweevoud opgemaakt volgens door Onze Minister van Defensie vast te stellen modellen.
 
 2. Onze Minister van Defensie bepaalt welke autoriteiten bij het sluiten en bij het bekrachtigen van een verbintenis het Rijk vertegenwoordigen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een militair, die een verbintenis als bedoeld in dit besluit heeft gesloten, naar het oordeel van Onze Minister van Defensie de geschiktheid voor de functie, voor welke hij wordt opgeleid of welke hij vervult, blijkt te missen of niet meer te bezitten, kan hij van de verbintenis worden ontheven.
 
@@ -54,7 +76,7 @@ worden toegelaten tot een verbintenis, krachtens welke hij verplicht is:
 
 3. Onze Minister van Defensie stelt het in lid 2 bedoelde te vergoeden bedrag vast.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een tot het reserve-personeel behorende militair, die gedurende de eerste oefening als dienstplichtige is opgeleid voor een der functies bij de gronddienst van de Koninklijke Luchtmacht bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002158&artikel=1&z=1960-01-01&g=1960-01-01) en die naar het oordeel van Onze Minister van Defensie de geschiktheid voor het vervullen van de functie, waarvoor hij is opgeleid, bezit, kan worden toegelaten tot het sluiten van een verbintenis met bestemming voor vorenbedoelde functie voor de duur van vier jaren, waarbij hij zich verbindt om van de dag, waarop de verbintenis is aangegaan, af doorlopende werkelijke dienst te verrichten tot het einde van die verbintenis.
 
@@ -66,7 +88,7 @@ worden toegelaten tot een verbintenis, krachtens welke hij verplicht is:
 
 5. Een verbintenis als bedoeld in het eerste en het derde lid geeft aanspraak op een geldelijke uitkering ter zake van het verrichten van doorlopende werkelijke dienst na het tijdstip, waarop die verbintenis ingaat, onder voorwaarden en tot een bedrag als nader door Ons zal worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een tot het reserve-personeel behorende militair, die zich op het tijdstip van het in werking treden van dit besluit in opleiding bevindt voor een der in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002158&artikel=1&z=1960-01-01&g=1960-01-01) bedoelde functies, kan alsnog tot het sluiten van een verbintenis als bedoeld in dat artikel worden toegelaten.
 
@@ -76,11 +98,11 @@ worden toegelaten tot een verbintenis, krachtens welke hij verplicht is:
 
 4. Een verbintenis als bedoeld in lid 2 geeft eveneens aanspraak op een geldelijke uitkering ter zake van doorlopende werkelijke dienst verricht na de dag, waarop de verbintenis ingaat, onder voorwaarden en tot een bedrag als nader door Ons zal worden vastgesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit kan worden aangehaald als "Besluit verbintenissen gronddienst Luchtmacht".
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad,** waarin het is geplaatst.
 

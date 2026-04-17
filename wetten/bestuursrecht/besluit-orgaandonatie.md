@@ -1,13 +1,39 @@
 ---
-title: "Besluit orgaandonatie"
+title: "Besluit van 21 april 2020, houdende regels ter uitvoering van de Wet op de orgaandonatie (Besluit orgaandonatie)"
 identifier: "BWBR0043448"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-06-01
-laatste_update: 2021-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043448"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-06-01"
+last_updated: "2021-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043448"
+soort: "AMvB"
+stam_id: "15425253"
+version_id: "26659522"
+internal_id: "C37886591"
+label_id: "15369064"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043448/2021-06-01/0"
+intitule_bron: "Stb.2020-128"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-21"
+intitule_published: "2020-04-30"
+intitule_in_force: "2020-05-27"
+intitule_status: "goed"
+original_publication: "Stb.2020-128"
+original_signed_date: "2020-04-21"
+original_published_date: "2020-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-128"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043448&z=2021-06-01&g=2021-06-01"
+jci_1_0: "1.0:c:BWBR0043448&g=2021-06-01"
+citeertitel_status: "officieel"
+short_title: "Besluit orgaandonatie"
+signed_date: "2020-04-21"
+entry_into_force: "2020-07-01"
 ---
-
 # Besluit van 21 april 2020, houdende regels ter uitvoering van de Wet op de orgaandonatie (Besluit orgaandonatie)
 
 Op de voordracht van Onze Minister voor Medische Zorg van 19 februari 2020, kenmerk 1602717-197615-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Donorformulier en donorregister
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een papieren en digitaal donorformulier. Een donorformulier bevat in ieder geval de volgende gegevens ten behoeve van de verwerking in het donorregister:
 
@@ -92,13 +118,13 @@ In dit besluit wordt verstaan onder:
 
 3. Het papieren donorformulier kan de mogelijkheid bevatten om aan te tekenen dat bezwaar wordt gemaakt tegen het gebruik van een orgaan voor op implantatie gericht wetenschappelijk onderzoek, indien het orgaan na verwijdering voor implantatie ongeschikt blijkt te zijn. Een gebrekkige aantekening geldt niet als zodanig bezwaar als bedoeld in [artikel 13 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=13).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister stuurt maandelijks na een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) vanwege het bereiken van de leeftijd van achttien jaren in de kalendermaand voorafgaand aan de aanschrijving, indien van de betrokkene nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
 
 2. Onze Minister stuurt maandelijks na een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan elke ingezetene, bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715), die in de kalendermaand voorafgaand aan de aanschrijving minimaal drie jaar maar niet meer dan drie jaar en een maand nieuw als ingezetene is ingeschreven dan wel opnieuw als ingezetene is geregistreerd in de basisregistratie personen, ten minste de leeftijd van negentien jaar heeft bereikt, en van wie nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien een papieren donorformulier niet of kennelijk onjuist is gedagtekend, geldt de door middel van dat formulier afgelegde wilsverklaring als te zijn afgelegd op de datum van ontvangst bij het donorregister.
 
@@ -106,23 +132,23 @@ In dit besluit wordt verstaan onder:
 
 3. Bij registratie van een digitaal donorformulier ontvangt de betrokkene onverwijld een digitale bevestiging van de registratie met het verzoek de gegevens te verifiëren. De wilsverklaring kan niet eerder worden geraadpleegd dan nadat de betrokkene de juistheid van de gegevens digitaal heeft bevestigd.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien een betrokkene of diens wettelijk vertegenwoordiger ingevolge [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=9) de beslissing over het verwijderen van organen heeft overgelaten aan een bepaalde persoon, kan wijziging van de contactgegevens van die bepaalde persoon plaatsvinden door registratie van een daartoe strekkende verklaring van de betrokkene of diens wettelijk vertegenwoordiger die ten minste eigenhandig is gedagtekend en ondertekend.
 
-#### Artikel 6
+##### Artikel 6
 
 Het donorregister is slechts toegankelijk voor door Onze Minister aan te wijzen personen en instellingen die voldoen aan door Onze Minister te stellen voorschriften ter zake van de wijze van raadpleging. Indien een instelling wordt aangewezen, door welker tussenkomst de raadpleging plaatsvindt, kan Onze Minister aan de aanwijzing bovendien voorschriften verbinden met betrekking tot de organisatie van en het toezicht op die instelling.
 
 ### Hoofdstuk 3. Protocol
 
-#### Artikel 7
+##### Artikel 7
 
 De regels in het protocol, bedoeld in [artikel 23, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=23), die worden gesteld omtrent het bepaalde in artikel 23, tweede lid, onderdeel b, van de wet voldoen aan hetgeen daaromtrent is vastgesteld in de kwaliteitsstandaard, bedoeld in [artikel 1, onderdeel z, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1).
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Ter uitvoering van de informatievoorziening over het ter beschikking stellen van organen bij leven of na overlijden, als bedoeld in [artikel 33, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008066&artikel=33), voorziet Onze Minister erin dat, zowel in papieren vorm als digitaal, kosteloos informatie beschikbaar is. Daarbij draagt Onze Minister in ieder geval zorg voor:
 
@@ -136,23 +162,23 @@ Ter uitvoering van de informatievoorziening over het ter beschikking stellen van
 
 ### Hoofdstuk 5. Slot- en overgangsbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit donorregister](https://wetten.overheid.nl/jci1.3:c:BWBR0009352) wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Na inwerkingtreding van dit besluit berust het [Besluit aanwijzing personen en instanties die het donorregister kunnen inzien of raadplegen](https://wetten.overheid.nl/jci1.3:c:BWBR0023017), op [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=6&z=2021-06-01&g=2021-06-01) van dit besluit.
 
-#### Artikel 11
+##### Artikel 11
 
 Onze Minister stuurt op een na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties te bepalen tijdstip een papieren donorformulier aan iedere ingezetene als bedoeld in de [Wet basisregistratie personen](https://wetten.overheid.nl/jci1.3:c:BWBR0033715) die in de periode die begint op de dag na inwerkingtreding van de [Wet van 27 maart 2018, houdende wijziging van de Wet op de orgaandonatie in verband met het opnemen van een actief donorregistratiesysteem](https://wetten.overheid.nl/jci1.3:c:BWBR0040793) (Stb. 2018, 95) en eindigt op de dag voorafgaand aan de inwerkingtreding van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043448&hoofdstuk=2&artikel=3&z=2021-06-01&g=2021-06-01) van dit besluit de leeftijd van achttien jaren heeft bereikt, nieuw als ingezetene is ingeschreven of opnieuw als ingezetene is geregistreerd in de basisregistratie personen, en van wie nog geen wilsverklaring omtrent het verwijderen van organen in het donorregister is opgenomen.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit orgaandonatie.
 

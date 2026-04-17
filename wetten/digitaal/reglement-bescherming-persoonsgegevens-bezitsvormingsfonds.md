@@ -1,13 +1,37 @@
 ---
 title: "Reglement bescherming persoonsgegevens Bezitsvormingsfonds"
 identifier: "BWBR0003016"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1976-03-14
-laatste_update: 1976-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003016"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1976-03-14"
+last_updated: "1976-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003016"
+soort: "ministeriele-regeling"
+stam_id: "3768523"
+version_id: "5551482"
+internal_id: "C5744571"
+label_id: "3748364"
+dtd_version: "2.0"
+original_entry_into_force: "1976-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003016/1976-03-14/0"
+intitule_bron: "Stcrt.1976-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1976-01-26"
+intitule_published: "1976-02-23"
+intitule_in_force: "1976-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.1976-37"
+original_signed_date: "1976-01-26"
+original_published_date: "1976-02-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1976-03-14"
+jci_1_3: "jci1.3:c:BWBR0003016&z=1976-03-14&g=1976-03-14"
+jci_1_0: "1.0:c:BWBR0003016&g=1976-03-14"
+citeertitel_status: "officieel"
+signed_date: "1976-01-26"
+entry_into_force: "1976-03-14"
 ---
-
 # Reglement bescherming persoonsgegevens Bezitsvormingsfonds
 
 Overwegende, dat ten behoeve van de uitvoering van de Wet Bezitsvormingsfonds persoonsgegevens worden opgeslagen;
@@ -16,7 +40,7 @@ Gelet op het [besluit van de Minister-President van 7 maart 1975 (Stcrt. 1975, 5
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
@@ -32,15 +56,15 @@ In deze beschikking wordt verstaan onder:
 
 **de houder:** het hoofd van de Centrale Afdeling Financiële Zaken van het Ministerie van Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2
+##### Artikel 2
 
 De registratie heeft ten doel aan de houder gegevens te verschaffen ten behoeve van de terugbetaling van uit het fonds verstrekte leningen.
 
-#### Artikel 3
+##### Artikel 3
 
 De registratie bevat ten hoogste naam, voornamen, geboortedatum, burgerlijke staat en adresgegevens van de verkrijger van een lening uit het fonds, de koopprijs van de betrokken woning en het gegeven of deze woning nieuw is dan wel reeds eerder is bewoond, de dag van uitbetaling van de lening en of deze uitbetaling door middel van een notaris heeft plaatsgevonden, het nog terug te vorderen bedrag van de lening en de ten behoeve van een goede verwerking in de registratie noodzakelijke administratief toegevoegde nummers en datum-aanduidingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De op een verkrijger van een lening uit het fonds betrekking hebbende gegevens worden uiterlijk 2 jaren na de algehele terugbetaling van het geleende bedrag uit de registratie verwijderd.
 
@@ -48,11 +72,11 @@ De registratie bevat ten hoogste naam, voornamen, geboortedatum, burgerlijke sta
 
 3. Degene die op de wijze als bedoeld in het tweede lid zich heeft verbonden een lening uit het fonds af te lossen wordt geacht verkrijger van een lening te zijn in de zin van deze beschikking.
 
-#### Artikel 5
+##### Artikel 5
 
 De gereedmaking van gegevens voor verwerking in de registratie geschiedt door de houder en de daartoe door hem aangewezen bij het Ministerie werkzame personen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verwerking van gegevens in de registratie geschiedt in het Rijks Computer Centrum.
 
@@ -60,7 +84,7 @@ De gereedmaking van gegevens voor verwerking in de registratie geschiedt door de
 
 3. De houder is verplicht de secretaris-generaal van het Ministerie schriftelijk te berichten welke personen namens hem bevoegd zijn tot het doen van verzoeken als bedoeld in het tweede lid. De houder zendt een door de secretaris-generaal voor eensluidend gewaarmerkt afschrift van dit bericht aan het Rijks Computer Centrum.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De houder is gerechtigd in de registratie opgenomen gegevens op verzoek voor statistische, beleids- en controledoeleinden aan andere dienstonderdelen van het Ministerie te verschaffen.
 
@@ -72,7 +96,7 @@ De gereedmaking van gegevens voor verwerking in de registratie geschiedt door de
 
 5. Bij gebleken verschil van inzicht met de secretaris-generaal kan de verzoeker de beslissing van de Minister inroepen. Deze beslist met inachtneming van het bepaalde in het derde lid, behoudens de terinzagelegging in geval van een verzoek als bedoeld in het vierde lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De houder is gerechtigd op een daartoe strekkend met redenen omkleed schriftelijk verzoek in de registratie opgenomen gegevens voor statistische en beleidsdoeleinden aan derden te verschaffen.
 
@@ -80,23 +104,23 @@ De gereedmaking van gegevens voor verwerking in de registratie geschiedt door de
 
 3. Verzoeken en toestemmingen ingevolge dit artikel kunnen slechts betrekking hebben op gegevens van alle in de registratie opgenomen personen.
 
-#### Artikel 9
+##### Artikel 9
 
 De Centrale Afdeling Voorlichting van het Ministerie verschaft op verzoek afschriften van de krachtens de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=7&z=1976-03-14&g=1976-03-14) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=8&z=1976-03-14&g=1976-03-14) bij haar ter inzage liggende beslissingen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het bepaalde in het [tweede lid van artikel 6 en in artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=8&z=1976-03-14&g=1976-03-14) laat onverlet de verschaffing van gegevens aan derden ingevolge wettelijke verplichtingen.
 
 2. Het bepaalde in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=8&z=1976-03-14&g=1976-03-14) laat onverlet de verschaffing van gegevens aan de erfgenamen van de verkrijger van een lening uit het fonds en aan degenen die hem vertegenwoordigen in de overige gevallen waarin de lening uit het fonds ingevolge het bij of krachtens de wet bepaalde geheel of gedeeltelijk opeisbaar is geworden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Degene die een lening uit het fonds heeft verkregen, heeft het recht de houder schriftelijk te vragen of gegevens over hem zijn opgenomen in de registratie.
 
 2. De indiener van een dergelijk verzoek ontvangt uiterlijk 90 dagen na ontvangst van het verzoek een schriftelijke opgave van alle gegevens, die de registratie over hem bevat.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Degene die op grond van de ingevolge het [tweede lid van artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=11&z=1976-03-14&g=1976-03-14) verkregen opgave of uit anderen hoofde van mening is dat ten onrechte gegevens over hem in de registratie aanwezig zijn, dan wel dat de daarin over hem opgenomen gegevens wijziging behoeven, kan de houder schriftelijk verzoeken de registratie met zijn gevoelen in overeenstemming te brengen.
 
@@ -108,10 +132,10 @@ De Centrale Afdeling Voorlichting van het Ministerie verschaft op verzoek afschr
 
 5. Het bepaalde in dit artikel is niet van toepassing op de door de Minister ingevolge het bepaalde in de wet te nemen besluiten. De wijzigingen in de registratie welke het gevolg zijn van deze besluiten worden uiterlijk 60 dagen na het nemen van bedoelde besluiten in de registratie aangebracht door de houder.
 
-#### Artikel 13
+##### Artikel 13
 
 Verzoeken als bedoeld in de [artikelen 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=11&z=1976-03-14&g=1976-03-14) en [12](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=12&z=1976-03-14&g=1976-03-14) kunnen ook worden gedaan door de personen, bedoeld in [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003016&artikel=10&z=1976-03-14&g=1976-03-14), door de wettelijke vertegenwoordiger van een verkrijger van een lening uit het fonds en door hen, die door de verkrijger van zodanige lening van een schriftelijke volmacht zijn voorzien.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze beschikking, die zal worden geplaatst in de Staatscourant, kan worden aangehaald als ‘Reglement bescherming persoonsgegevens Bezitsvormingsfonds’.

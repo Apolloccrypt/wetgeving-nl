@@ -1,20 +1,45 @@
 ---
-title: "Regeling kosten aftappen en gegevensverstrekking"
+title: "Regeling van de Minister van Economische Zaken van 30 maart 2005, nr. WJZ 5017828, houdende regels inzake de vaststelling en vergoeding van kosten, bedoeld in artikel 13.6, tweede lid, van de Telecommunicatiewet (Regeling kosten aftappen en gegevensverstrekking)"
 identifier: "BWBR0018150"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-05-01
-laatste_update: 2018-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018150"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-05-01"
+last_updated: "2018-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018150"
+soort: "ministeriele-regeling"
+stam_id: "6897173"
+version_id: "11776782"
+internal_id: "C15867211"
+label_id: "6885344"
+original_entry_into_force: "2005-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018150/2018-05-01/0"
+intitule_bron: "Stcrt.2005-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-30"
+intitule_published: "2005-03-31"
+intitule_in_force: "2005-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-62"
+original_signed_date: "2005-03-30"
+original_published_date: "2005-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-62-p16-SC69425"
+entry_into_force_date: "2005-04-02"
+jci_1_3: "jci1.3:c:BWBR0018150&z=2018-05-01&g=2018-05-01"
+jci_1_0: "1.0:c:BWBR0018150&g=2018-05-01"
+citeertitel_status: "officieel"
+short_title: "Regeling kosten aftappen en gegevensverstrekking"
+signed_date: "2005-03-30"
+entry_into_force: "2005-04-02"
 ---
-
 # Regeling van de Minister van Economische Zaken van 30 maart 2005, nr. WJZ 5017828, houdende regels inzake de vaststelling en vergoeding van kosten, bedoeld in artikel 13.6, tweede lid, van de Telecommunicatiewet (Regeling kosten aftappen en gegevensverstrekking)
 
 Gelet op [artikel 13.6, derde lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=13.6);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - e. opdrachtgever: de autoriteit die de aanbieder een bijzondere last, bevel, toestemming, vordering of verzoek heeft gegegeven onderscheidenlijk gedaan om een aftap- of informatieverstrekkingsactiviteit te verrichten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanbieder doet aan de opdrachtgever een opgave van de declarabele kosten van een aftap- of informatieverstrekkingsactiviteit.
 
@@ -48,23 +73,23 @@ In deze regeling wordt verstaan onder:
 
 - c. een accountantsverklaring omtrent de kostenopgave.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de opdrachtgever van oordeel is dat de gedeclareerde kosten declarabele kosten betreffen, wordt de vergoeding vastgesteld op het door de aanbieder gedeclareerde bedrag, voor zover de gedeclareerde kosten in redelijkheid als noodzakelijk kunnen worden beschouwd.
 
 2. In afwijking van het eerste kan de opdrachtgever met een groep van aanbieders afspraken maken over de hoogte van de vergoeding voor declarabele kosten en de voorwaarden voor de uitbetaling van die vergoeding.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de dagelijkse informatieverstrekking, bedoeld in de bijlage, wordt € 25,00 vergoed.
 
 2. De in het eerste lid genoemde vergoeding wordt met ingang van 1 januari 2017 jaarlijks verhoogd met 2%. Vervolgens wordt zij iedere vijf jaar, op basis van de reële kosten van aanlevering van de gegevens, bedoeld in de bijlage, onderdeel I, onder 5, opnieuw vastgesteld.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling wordt aangehaald als: Regeling kosten aftappen en gegevensverstrekking.
 

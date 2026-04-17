@@ -1,13 +1,35 @@
 ---
-title: "Besluit overleg en medezeggenschap politie 1994"
+title: "Besluit van 16 maart 1994, houdende vaststelling van regels over het overleg over politie-ambtenarenzaken en over de medezeggenschap bij de politie"
 identifier: "BWBR0006518"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006518"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006518"
+soort: "AMvB"
+stam_id: "811053"
+version_id: "1175682"
+internal_id: "C1175681"
+label_id: "786224"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006518/2025-04-01/0"
+intitule_bron: "Stb.1994-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-16"
+intitule_status: "goed"
+original_publication: "Stb.1994-216"
+original_signed_date: "1994-03-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-04-01"
+jci_1_3: "jci1.3:c:BWBR0006518&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0006518&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit overleg en medezeggenschap politie 1994"
+signed_date: "1994-03-16"
+entry_into_force: "1994-04-01"
 ---
-
 # Besluit van 16 maart 1994, houdende vaststelling van regels over het overleg over politie-ambtenarenzaken en over de medezeggenschap bij de politie
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 november 1993, directoraat-generaal voor Openbare Orde en Veiligheid, directie Politie, hoofdafdeling Personeel, Onderwijs en Informatievoorziening, afdeling Arbeidsvoorwaardenbeleid, nummer EA93/U3217;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Afdeling 1. Het overleg met de Commissie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Commissie voor georganiseerd overleg in politie-ambtenarenzaken.
 
@@ -92,7 +114,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Schorsing onderscheidenlijk intrekking van de toelating van een Centrale tot de Raad voor het Overheidspersoneelsbeleid heeft van rechtswege ten gevolge schorsing onderscheidenlijk intrekking van de toelating tot de Commissie van de bij haar aangesloten vereniging van ambtenaren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Over aangelegenheden van algemeen belang voor de rechtstoestand van de ambtenaar, met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd, wordt niet beslist dan nadat hierover met de Commissie overleg is gepleegd in het overleg CGOP of het overleg GOKB.
 
@@ -100,13 +122,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Een voorstel strekkende tot invoering of wijziging van een regeling met rechten of verplichtingen van individuele ambtenaren, wordt slechts ten uitvoer gebracht, indien daarover overeenstemming bestaat met de Commissie. Indien de stemmen binnen de Commissie staken beslist de voorzitter van het overleg met de Commissie of het voorstel ten uitvoer wordt gebracht.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. In het overleg CGOP worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die moeten worden of zijn vastgelegd in algemeen verbindende voorschriften, besproken.
 
 2. In het overleg GOKB worden voorstellen over aangelegenheden en regels als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), die bij besluit van de korpschef worden vastgelegd in beleidsregels, besproken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het overleg CGOP staat onder voorzitterschap van Onze Minister. Onze Minister is bevoegd het voorzitterschap op te dragen aan een door hem aan te wijzen ambtenaar.
 
@@ -124,17 +146,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 8. De leden van de Commissie kunnen zich na overleg met de voorzitter ter vergadering voor de behandeling van een bepaald onderwerp door deskundigen laten bijstaan.
 
-#### Artikel 5
+##### Artikel 5
 
 De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen aan Onze Minister en aan de voorzitter van het overleg met de Commissie mededeling van hun statuten en huishoudelijke reglementen en van de daarin aangebrachte wijzigingen. Zij stellen dezen voorts jaarlijks in kennis van het ledental.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), bedoelde aangelegenheden worden door de voorzitter op de agenda van het overleg met de Commissie geplaatst.
 
 2. Elke tot de Commissie toegelaten vereniging van ambtenaren is bevoegd aan de voorzitter van het overleg met de Commissie bepaalde tot de competentie van de Commissie behorende onderwerpen ter plaatsing op de agenda op te geven.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het overleg wordt gevoerd op plaats, dag en uur door de voorzitter te bepalen, waarbij het overleg GOKB in beginsel op dezelfde dag en in dezelfde plaats gevoerd wordt als het overleg CGOP.
 
@@ -142,11 +164,11 @@ De verenigingen van ambtenaren die vertegenwoordigd zijn in de Commissie, doen a
 
 3. Indien de vertegenwoordigers van ten minste twee tot het overleg toegelaten verenigingen van ambtenaren de voorzitter, onder vermelding van hetgeen zij behandeld wensen te zien, verzoeken daartoe een vergadering uit te schrijven, vindt deze binnen 14 dagen plaats.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in een rijksgebouw ter beschikking te stellen, indien de Commissie daartoe een verzoek doet, ten behoeve van een door haar te houden vergadering.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien het wenselijk blijkt voorbereidende besprekingen te voeren of in de Commissie genomen besluiten uit te werken, geschiedt dit door werkgroepen, bestaande uit vertegenwoordigers van de Commissie en door Onze Minister of de korpschef daartoe aangewezen functionarissen.
 
@@ -154,7 +176,7 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 3. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het standpunt van de Commissie wordt bepaald bij eenvoudige meerderheid van stemmen. Elke vereniging van ambtenaren brengt één stem uit. Indien de stemmen binnen de Commissie staken beslist de voorzitter van het overleg CGOP of de voorzitter van het overleg GOKB of het voorstel ten uitvoer wordt gebracht.
 
@@ -164,7 +186,7 @@ Onze Minister verleent zijn bemiddeling om aan de Commissie een lokaliteit in ee
 
 4. Indien over een aangelegenheid wordt beslist in afwijking van het standpunt van de meerderheid van de leden van de Commissie, worden de redenen van die afwijking zo spoedig mogelijk ter kennis van de Commissie gebracht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Van het in de vergaderingen van het overleg en de werkgroepen behandelde maakt de secretaris notulen.
 
@@ -176,69 +198,69 @@ Bovendien kan op verzoek van de leden van de Commissie of van de voorzitter van 
 
 ### Afdeling 2. Het overleg met de Regionale Commissie
 
-#### Artikel 12
+##### Artikel 12
 
 De korpschef draagt er zorg voor dat vertegenwoordigers van de verenigingen van ambtenaren met een aanstelling bij de politie die deel uitmaken van de Commissie niet uit hoofde van hun deelname worden benadeeld in hun positie bij de politie.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
 ### Afdeling 3. Het overleg met de Commissie Korps landelijke politiediensten
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
 ### Afdeling 4. Het overleg met de Commissie bijzondere ambtenaren van politie
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### Afdeling 4A. Het overleg met de commissie LSOP
 
-#### Artikel 22a
+##### Artikel 22a
 
 Vervallen
 
 ### Afdeling 4B. Het overleg met de Commissie voorziening tot samenwerking
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
 ### Afdeling 5. Advies en arbitrage
 
-#### Artikel 23
+##### Artikel 23
 
 Voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -246,15 +268,15 @@ Voor de toepassing van deze afdeling wordt verstaan onder:
 
 - b. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=28&z=2025-04-01&g=2025-04-01).
 
-#### Artikel 24
+##### Artikel 24
 
 Deze afdeling is van toepassing op geschillen in aangelegenheden als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=3&z=2025-04-01&g=2025-04-01), voor zover zij voortvloeien uit het overleg CGOP.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten verenigingen van ambtenaren tot het oordeel komen dat het overleg met de Commissie niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan dat overleg zal hebben, brengen zij dat oordeel binnen drie dagen nadat zij daarvan in dat overleg blijk hebben gegeven, schriftelijk ter kennis van de overige deelnemers aan dat overleg.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Binnen vijf dagen na de kennisgeving, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2025-04-01&g=2025-04-01), schrijft de voorzitter een overlegvergadering uit. De vergadering moet worden gehouden binnen zeven dagen nadat deze is uitgeschreven.
 
@@ -264,7 +286,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 4. Voor onderwerping van het geschil aan arbitrage is overeenstemming vereist tussen alle deelnemers aan het overleg.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Binnen drie dagen na de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2025-04-01&g=2025-04-01), wordt het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers aan het overleg die zich voor inwinning van advies hebben uitgesproken en bevat tenminste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=26&z=2025-04-01&g=2025-04-01), geen overeenstemming is bereikt tussen alle deelnemers aan het overleg over de vraag wat het onderwerp en de inhoud van het geschil is, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na eerdergenoemde vergadering ter kennis van de voorzitter van de Advies- en Arbitragecommissie.
 
@@ -274,7 +296,7 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 - b. de standpunten van alle deelnemers aan het overleg omtrent onderwerp en inhoud van het geschil.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Er is een Advies- en Arbitragecommissie politieambtenaren, die tot taak heeft te adviseren dan wel een bindende uitspraak te doen in de geschillen die haar ingevolge de [artikelen 25 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=25&z=2025-04-01&g=2025-04-01) worden voorgelegd.
 
@@ -314,11 +336,11 @@ Indien de voorzitter dan wel één of meer van de tot de Commissie toegelaten ve
 
 7. Indien het verzoek om arbitrage naar het oordeel van de voorzitter eenzelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid die bij het uitbrengen van dat advies betrokken was, diens plaatsvervanger op.
 
-#### Artikel 29
+##### Artikel 29
 
 De Advies- en Arbitragecommissie politieambtenaren stelt nadere regels vast met betrekking tot haar werkwijze.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Advies- en Arbitragecommissie besluit bij meerderheid van stemmen.
 
@@ -334,11 +356,11 @@ De Advies- en Arbitragecommissie politieambtenaren stelt nadere regels vast met 
 
 4. De voorzitter draagt er zorg voor dat het advies of de uitspraak binnen vier weken, nadat de kennisgeving, bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=5&artikel=27&z=2025-04-01&g=2025-04-01), is ontvangen, aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
-#### Artikel 31
+##### Artikel 31
 
 Binnen twee weken na ontvangst van het advies wordt het overleg over het geschil voortgezet.
 
-#### Artikel 32
+##### Artikel 32
 
 De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
@@ -348,187 +370,187 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 #### § 1
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
 #### § 2
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
-
-Vervallen
-
-#### § 3
-
-#### Artikel 41
-
-Vervallen
-
-#### Artikel 42
-
-Vervallen
-
-#### Artikel 43
-
-Vervallen
-
-#### Artikel 44
-
-Vervallen
-
-#### Artikel 45
-
-Vervallen
-
-#### Artikel 46
-
-Vervallen
-
-#### Artikel 47
-
-Vervallen
-
-#### Artikel 48
+##### Artikel 40
 
 Vervallen
 
 #### § 3
 
-#### Artikel 49
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 57
+#### § 3
+
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 52
+
+Vervallen
+
+##### Artikel 53
+
+Vervallen
+
+##### Artikel 54
+
+Vervallen
+
+##### Artikel 55
+
+Vervallen
+
+##### Artikel 56
+
+Vervallen
+
+##### Artikel 57
+
+Vervallen
+
+##### Artikel 58
+
+Vervallen
+
+##### Artikel 59
+
+Vervallen
+
+##### Artikel 60
 
 Vervallen
 
 ### Afdeling 2
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
 ### Hoofdstuk IV. Slot- en Overgangsbepalingen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Het Besluit overleg en medezeggenschap politie en het Besluit overleg en medezeggenschap reorganisatie politiebestel worden ingetrokken.
 
-#### Artikel 65
+##### Artikel 65
 
 Dit besluit treedt in werking met ingang van 1 april 1994.
 
-#### Artikel 66
+##### Artikel 66
 
 Dit besluit wordt aangehaald als: Besluit overleg en medezeggenschap politie 1994.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 22ab
+##### Artikel 22ab
 
 Vervallen
 
-#### Artikel 22ac
+##### Artikel 22ac
 
 Vervallen
 
-#### Artikel 22ad
+##### Artikel 22ad
 
 Vervallen
 
-#### Artikel 22ae
+##### Artikel 22ae
 
 Vervallen
 
-#### Artikel 22af
+##### Artikel 22af
 
 Vervallen
 
-#### Artikel 22ag
+##### Artikel 22ag
 
 Vervallen
 
-#### Artikel 22ah
+##### Artikel 22ah
 
 Vervallen
 
-#### Artikel 22ai
+##### Artikel 22ai
 
 Vervallen
 
-#### Artikel 22aj
+##### Artikel 22aj
 
 Vervallen
 
@@ -550,13 +572,13 @@ Vervallen
 
 ### Hoofdstuk IV. Slot- en Overgangsbepalingen
 
-#### Artikel 63a
+##### Artikel 63a
 
 Dit besluit berust op de [artikelen 47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=47), en [81, eerste lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=81).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Er is een sectorale commissie Politie.
 
@@ -570,7 +592,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Onze Minister stelt in overeenstemming met de Commissie nadere regels met betrekking tot de werkwijze van de sectorale commissie Politie.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het overleg GOKB staat onder voorzitterschap van de korpschef of een door hem aan te wijzen lid van de korpsleiding.
 
@@ -584,7 +606,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. [Artikel 4, zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006518&hoofdstuk=II&afdeling=1&artikel=4&z=2025-04-01&g=2025-04-01), is van overeenkomstige toepassing.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Vervallen
 

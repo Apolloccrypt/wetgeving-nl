@@ -1,13 +1,39 @@
 ---
-title: "Reglement werkwijze NIWO"
+title: "Besluit van de Nationale en Internationale Wegvervoer Organisatie van 2 januari 2017, tot vaststelling van een reglement (Reglement werkwijze NIWO)"
 identifier: "BWBR0046699"
-categorie: "Overig"
-publicatiedatum: 2022-05-25
-laatste_update: 2022-05-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046699"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-05-25"
+last_updated: "2022-05-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046699"
+soort: "zbo"
+stam_id: "16366983"
+version_id: "28644672"
+internal_id: "C40420431"
+label_id: "16291274"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046699/2022-05-25/0"
+intitule_bron: "Stcrt.2022-13643"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-01-02"
+intitule_published: "2022-05-24"
+intitule_in_force: "2022-05-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-13643"
+original_signed_date: "2017-01-02"
+original_published_date: "2022-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-13643"
+entry_into_force_date: "2022-05-25"
+jci_1_3: "jci1.3:c:BWBR0046699&z=2022-05-25&g=2022-05-25"
+jci_1_0: "1.0:c:BWBR0046699&g=2022-05-25"
+citeertitel_status: "officieel"
+short_title: "Reglement werkwijze NIWO"
+signed_date: "2017-01-02"
+entry_into_force: "2022-05-25"
 ---
-
 # Besluit van de Nationale en Internationale Wegvervoer Organisatie van 2 januari 2017, tot vaststelling van een reglement (Reglement werkwijze NIWO)
 
 Gezien de goedkeuring van de Minister van Infrastructuur en Milieu van 13 december 2016;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,19 +66,19 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Organen van de niwo
 
-#### Artikel 2
+##### Artikel 2
 
 De NIWO heeft een directie, een raad van advies en een sectorraad.
 
 ### Hoofdstuk 3. Directie
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. De Minister, gehoord de raad van advies, benoemt, schorst en ontslaat de leden van de directie en stelt de bezoldiging van de leden van de directie vast.
 
 2. Het lidmaatschap van de directie is onverenigbaar met het lidmaatschap van de raad van advies.
 
-#### Artikel 4. Taken
+##### Artikel 4. Taken
 
 1. De directie is belast met de dagelijkse leiding van de NIWO.
 
@@ -76,7 +102,7 @@ De NIWO heeft een directie, een raad van advies en een sectorraad.
 
 6. De directie draagt zorg voor de nodige technische en organisatorische voorzieningen ter beveiliging van de gegevensbestanden tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging en verstrekking van die gegevens.
 
-#### Artikel 5. Financiële verslaggeving
+##### Artikel 5. Financiële verslaggeving
 
 1. De directie is verantwoordelijk voor de volledigheid en het goede verloop van de financiële verslaggeving en de planning en controlecyclus. Deze zijn ingericht conform het bij of krachtens de [Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495) en de [Wwg](https://wetten.overheid.nl/jci1.3:c:BWBR0024800) bepaalde met betrekking tot het financieel toezicht en de informatie-uitwisseling.
 
@@ -86,7 +112,7 @@ De NIWO heeft een directie, een raad van advies en een sectorraad.
 
 4. De directie beoordeelt ten minste eenmaal per jaar het functioneren van de externe accountant en bespreekt de belangrijkste conclusies hiervan met de raad van advies.
 
-#### Artikel 6. Besluitvorming
+##### Artikel 6. Besluitvorming
 
 1. Onverminderd de [artikelen 4.2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.2), en [4.4, eerste lid, van de Wwg](https://wetten.overheid.nl/jci1.3:c:BWBR0024800&artikel=4.4) legt de directie, voor zover de in dit lid, onderdelen a tot en met j, genoemde besluiten niet zijn voorzien in de begroting, deze, gehoord de raad van advies, ter goedkeuring voor aan de Minister:
 
@@ -120,7 +146,7 @@ De NIWO heeft een directie, een raad van advies en een sectorraad.
 
 3. Indien de directeur na overleg met de raad van advies overweegt af te wijken van het advies als bedoeld in lid 2, treedt hij in overleg met het ministerie.
 
-#### Artikel 7. Overleggen
+##### Artikel 7. Overleggen
 
 De volgende overleggen vinden gedurende het jaar door de directie plaats:
 
@@ -134,7 +160,7 @@ De volgende overleggen vinden gedurende het jaar door de directie plaats:
 
 - e. periodiek overleg met de personeelsvertegenwoordiging van de NIWO.
 
-#### Artikel 8. Voorkomen van belangenverstrengeling
+##### Artikel 8. Voorkomen van belangenverstrengeling
 
 1. Elke vorm en schijn van belangenverstrengeling tussen de NIWO en de directie wordt vermeden.
 
@@ -148,7 +174,7 @@ De volgende overleggen vinden gedurende het jaar door de directie plaats:
 
 - c. waarbij de directie een bestuurs- of toezichthoudende functie vervult.
 
-#### Artikel 9. Nevenfuncties
+##### Artikel 9. Nevenfuncties
 
 1. De leden van de directie vervullen geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van hun functie of de handhaving van hun onafhankelijkheid of van het vertrouwen daarin.
 
@@ -156,17 +182,17 @@ De volgende overleggen vinden gedurende het jaar door de directie plaats:
 
 3. Nevenfuncties van de leden van de directie anders dan uit hoofde van hun functie worden openbaar gemaakt. Openbaarmaking geschiedt door het publiceren van de nevenfuncties op de website van de NIWO.
 
-#### Artikel 10. Vrijwaring
+##### Artikel 10. Vrijwaring
 
 Leden van de directie worden, tenzij sprake is van opzet, grove schuld of ernstige nalatigheid door de NIWO, gevrijwaard van alle kosten, daaronder begrepen advocatenhonoraria, boetes, schikkingsbedragen, etc., die zij hebben gemaakt in verband met civielrechtelijke, strafrechtelijke of administratiefrechtelijke procedures waarin zij zijn betrokken uit hoofde van hun lidmaatschap van de directie. De NIWO sluit ten behoeve van de directie een aansprakelijkheidsverzekering af om deze kosten (voor zover mogelijk) te dekken. Indien de directie vermoedt of bemerkt dat zij aansprakelijk gesteld wordt of zal worden, meldt de directie dit terstond aan de voorzitter van de raad van advies.
 
-#### Artikel 11. Benoemingsprocedure
+##### Artikel 11. Benoemingsprocedure
 
 Voorafgaand aan de benoeming van (een nieuw lid van) de directie stelt de raad van advies een deskundigheidsprofiel op voor het nieuwe lid. Na, al dan niet in aangepaste vorm, goedkeuring van het deskundigheidsprofiel door de Minister, selecteert de raad van advies potentiële kandidaten en brengt de raad van advies via de Algemene Bestuursdienst een niet-bindende voordracht uit aan de Minister van minimaal één kandidaat voor de invulling van de vacature.
 
 ### Hoofdstuk 4. Raad van advies
 
-#### Artikel 12. Samenstelling
+##### Artikel 12. Samenstelling
 
 1. De raad van advies bestaat uit drie leden, onder wie de voorzitter.
 
@@ -180,7 +206,7 @@ Voorafgaand aan de benoeming van (een nieuw lid van) de directie stelt de raad v
 
 6. Alleen natuurlijke personen kunnen lid zijn van de raad van advies.
 
-#### Artikel 13. Benoemingsprocedures
+##### Artikel 13. Benoemingsprocedures
 
 1. Bij de benoeming van een nieuw lid van de raad van advies worden de volgende processtappen gevolgd:
 
@@ -200,7 +226,7 @@ Voorafgaand aan de benoeming van (een nieuw lid van) de directie stelt de raad v
 
 - c. Indien de Minister besluit tot afwijzing, wordt de in het eerste lid beschreven procedure tot benoeming van een nieuw lid gevolgd.
 
-#### Artikel 14. Voorzitter raad van advies
+##### Artikel 14. Voorzitter raad van advies
 
 De voorzitter van de raad van advies:
 
@@ -218,7 +244,7 @@ De voorzitter van de raad van advies:
 
 - g. is het aanspreekpunt voor vermeende onregelmatigheden betreffende het functioneren van de directie.
 
-#### Artikel 15. Taken
+##### Artikel 15. Taken
 
 1. De raad van advies ziet toe op:
 
@@ -234,7 +260,7 @@ De voorzitter van de raad van advies:
 
 3. De leden van de raad van advies hebben toegang tot het gebouw van de NIWO en zijn als college, in het kader van het uitoefenen van hun taken als lid van de raad van advies, bevoegd tot inzage van alle documenten.
 
-#### Artikel 16. Vergaderingen en besluitvorming
+##### Artikel 16. Vergaderingen en besluitvorming
 
 1. De raad van advies vergadert ten minste viermaal per jaar en voorts zo dikwijls de voorzitter zulks wenselijk acht.
 
@@ -248,7 +274,7 @@ De voorzitter van de raad van advies:
 
 6. De vergaderingen van de raad van advies zijn niet openbaar en worden, tenzij per agendaonderwerp anders is bepaald, bijgewoond door de directie.
 
-#### Artikel 17. Overleggen
+##### Artikel 17. Overleggen
 
 De volgende overleggen vinden gedurende het jaar door de raad van advies plaats:
 
@@ -256,7 +282,7 @@ De volgende overleggen vinden gedurende het jaar door de raad van advies plaats:
 
 - b. ten minste viermaal per jaar overleg met de directie over de bevindingen van de raad van advies met betrekking tot de onderwerpen als genoemd onder [artikel 6, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046699&hoofdstuk=3&artikel=6&z=2022-05-25&g=2022-05-25) van dit reglement en de financiële kwartaalrapportages. Van het houden van dit overleg wordt melding gemaakt in het verslag van de raad van advies bij het jaarverslag van de NIWO.
 
-#### Artikel 18. Onafhankelijkheid en belangenverstrengeling
+##### Artikel 18. Onafhankelijkheid en belangenverstrengeling
 
 1. De leden van de raad van advies hebben op persoonlijke titel zitting in de raad van advies en oefenen hun functie uit zonder last of ruggespraak.
 
@@ -278,7 +304,7 @@ Elke vorm en schijn van belangenverstrengeling tussen de NIWO en de leden van de
 
 - c. waarbij een lid van de raad van advies een bestuurs- of toezichthoudende functie vervult.
 
-#### Artikel 19. Nevenfuncties
+##### Artikel 19. Nevenfuncties
 
 1. Een lid van de raad van advies vervult geen nevenfuncties die ongewenst zijn met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.
 
@@ -286,13 +312,13 @@ Elke vorm en schijn van belangenverstrengeling tussen de NIWO en de leden van de
 
 3. Nevenfuncties van een lid van de raad van advies anders dan uit hoofde van zijn functie worden openbaar gemaakt. Openbaarmaking geschiedt door het op de website van de NIWO publiceren van een opgave van de nevenfuncties van de leden van de raad van advies.
 
-#### Artikel 20. Vrijwaring
+##### Artikel 20. Vrijwaring
 
 De leden van de raad van advies worden, tenzij sprake is van opzet, grove schuld of ernstige nalatigheid door de NIWO, gevrijwaard van alle kosten, daaronder begrepen advocatenhonoraria, boetes, schikkingsbedragen en dergelijke, die zij hebben gemaakt in verband met civielrechtelijke, strafrechtelijke of administratiefrechtelijke procedures waarin zij zijn betrokken uit hoofde van hun lidmaatschap van de raad. De NIWO sluit ten behoeve van de leden een aansprakelijkheidsverzekering af om deze kosten (voor zover mogelijk) te dekken. Indien een lid vermoedt of bemerkt dat hij aansprakelijk gesteld wordt of zal worden, meldt het lid dit onverwijld aan de directie en de voorzitter van de raad van advies, of indien het de voorzitter betreft, aan de directie en de plaatsvervangend voorzitter van de raad.
 
 ### Hoofdstuk 5. Sectorraad
 
-#### Artikel 21. Doel
+##### Artikel 21. Doel
 
 1. De sectorraad oordeelt over en doet gevraagd en ongevraagd voorstellen tot verbetering van de kwaliteit van de taakuitvoering door de directie en adviseert over het concept tarievenvoorstel dat door de NIWO aan de Minister wordt uitgebracht.
 
@@ -304,7 +330,7 @@ De leden van de raad van advies worden, tenzij sprake is van opzet, grove schuld
 
 5. De sectorraad komt ten minste tweemaal per jaar in overleg bijeen.
 
-#### Artikel 22. Aanwijzende organisaties
+##### Artikel 22. Aanwijzende organisaties
 
 1. Een aanwijzende organisatie wijst één lid en één plaatsvervangend lid aan voor de sectorraad.
 
@@ -338,7 +364,7 @@ De leden van de raad van advies worden, tenzij sprake is van opzet, grove schuld
 
 8. De directie kan, indien de raad van advies daarmee instemt, besluiten nieuwe aanwijzende organisaties te benoemen.
 
-#### Artikel 23. Voorzitter sectorraad, secretaris en werkwijze
+##### Artikel 23. Voorzitter sectorraad, secretaris en werkwijze
 
 1. De voorzitter van de raad van advies is q.q. voorzitter van de sectorraad. Uit zijn eigen geleding wijst de sectorraad een plaatsvervangend voorzitter aan.
 
@@ -360,17 +386,17 @@ De leden van de raad van advies worden, tenzij sprake is van opzet, grove schuld
 
 10. De vergadering is niet openbaar.
 
-#### Artikel 24. Verslaggeving
+##### Artikel 24. Verslaggeving
 
 Jaarlijks brengt de directie aan de Minister verslag uit van de in het voorafgaande kalenderjaar door de sectorraad uitgebrachte adviezen. In dat verslag wordt aangegeven in hoeverre de NIWO de adviezen heeft opgevolgd en – waar dat niet het geval is – de (gecategoriseerde) redenen waarom opvolging van adviezen niet heeft plaatsgevonden. Een verslag op hoofdlijnen is onderdeel van het jaarverslag van de NIWO. Het besluit tot vaststelling van de tarieven dat ter goedkering aan de Minister wordt gezonden, gaat vergezeld van de adviezen die hierover zijn uitgebracht.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 26. Citeertitel
+##### Artikel 26. Citeertitel
 
 Dit besluit wordt aangehaald als: Reglement werkwijze NIWO.
 

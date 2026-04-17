@@ -1,13 +1,38 @@
 ---
 title: "Bestuursreglement Onderzoeksraad voor veiligheid"
 identifier: "BWBR0039488"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-11-02
-laatste_update: 2005-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039488"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-11-02"
+last_updated: "2005-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039488"
+soort: "zbo"
+stam_id: "13985673"
+version_id: "24062962"
+internal_id: "C34579761"
+label_id: "13948214"
+dtd_version: "2.0"
+original_entry_into_force: "2005-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039488/2005-11-02/0"
+intitule_bron: "Stcrt.2005-213"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-07"
+intitule_published: "2005-11-02"
+intitule_in_force: "2005-11-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-213"
+original_signed_date: "2005-09-07"
+original_published_date: "2005-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-213-p44-SC72148"
+entry_into_force_date: "2005-11-02"
+jci_1_3: "jci1.3:c:BWBR0039488&z=2005-11-02&g=2005-11-02"
+jci_1_0: "1.0:c:BWBR0039488&g=2005-11-02"
+citeertitel_status: "officieel"
+signed_date: "2005-09-07"
+entry_into_force: "2005-11-02"
 ---
-
 # Bestuursreglement Onderzoeksraad voor veiligheid
 
 Gelet op [artikel 17 van de Rijkswet Onderzoeksraad voor veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0017613&artikel=17),
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit Bestuursreglement wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In dit Bestuursreglement wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie
 
-#### Artikel 2. Raad
+##### Artikel 2. Raad
 
 1. De raad komt ten minste tien maal per jaar in vergadering bijeen en overigens zo vaak als een goede taakuitvoering dit noodzakelijk maakt.
 
@@ -48,7 +73,7 @@ In dit Bestuursreglement wordt verstaan onder:
 
 3. De raad kan personen die geen lid zijn uitnodigen om een bepaald onderdeel van de vergadering bij te wonen.
 
-#### Artikel 3. Voorzitter van de raad
+##### Artikel 3. Voorzitter van de raad
 
 1. De Voorzitter roept de raad in vergadering bijeen en geeft leiding aan de vergaderingen.
 
@@ -56,7 +81,7 @@ In dit Bestuursreglement wordt verstaan onder:
 
 3. De Algemeen Secretaris draagt zorg voor het secretariaat van de raad.
 
-#### Artikel 4. Commissies
+##### Artikel 4. Commissies
 
 1. De raad besluit tot het instellen van Commissies.
 
@@ -72,7 +97,7 @@ De samenstelling van deze commissie wordt in het plan van Aanpak aangegeven.
 
 ### Hoofdstuk 3. Werkwijze van de raad
 
-#### Artikel 5. Vergaderingen
+##### Artikel 5. Vergaderingen
 
 1. De Voorzitter van de raad roept een vergadering bijeen zodra hij dit noodzakelijk acht voor een goede taakvervulling van het college dan wel op verzoek van twee of meer leden.
 
@@ -80,7 +105,7 @@ De samenstelling van deze commissie wordt in het plan van Aanpak aangegeven.
 
 3. De Voorzitter van de raad stelt de agenda van de vergadering vast in overleg met de Algemeen Secretaris.
 
-#### Artikel 6. Besluitvorming
+##### Artikel 6. Besluitvorming
 
 1. Over voorstellen van orde wordt bij voorrang beslist.
 
@@ -100,7 +125,7 @@ Indien één of meer leden daarom verzoeken wordt de te nemen beslissing in de e
 
 8. De Algemeen Secretaris is belast met de uitvoering van de beslissingen van de raad in overeenstemming met het daaromtrent door de raad bepaalde.
 
-#### Artikel 7. Verslaglegging
+##### Artikel 7. Verslaglegging
 
 1. De Algemeen Secretaris draagt zorg voor de verslaglegging van het behandelde ter vergadering in de raad. Het verslag bevat ten minste:
 
@@ -114,7 +139,7 @@ Indien één of meer leden daarom verzoeken wordt de te nemen beslissing in de e
 
 3. De Algemeen Secretaris zendt het verslag binnen twee weken na de vergadering toe aan de leden en aan de eventueel andere personen die aan de vergadering hebben deelgenomen. Het verslag wordt in de eerstvolgende vergadering na verzending, door de raad al dan niet gewijzigd vastgesteld en vervolgens elektronisch opgeslagen op een zodanige wijze dat daar geen wijzigingen in kunnen worden aangebracht.
 
-#### Artikel 8. Protocol voor de behandeling van meldingen
+##### Artikel 8. Protocol voor de behandeling van meldingen
 
 1. De raad stelt een werkwijze vast met concrete gedragslijnen inzake de behandeling van aan de Onderzoeksraad gedane meldingen van voorvallen.
 
@@ -122,13 +147,13 @@ Indien één of meer leden daarom verzoeken wordt de te nemen beslissing in de e
 
 3. In de werkwijze wordt verder verzekerd dat beslissingen en maatregelen in het kader van een onderzoek van een ongeval of incident worden genomen in overleg met de Algemeen Secretaris of een daartoe gemandateerde medewerker van het bureau.
 
-#### Artikel 9. Draaiboek voor het primaire werkproces
+##### Artikel 9. Draaiboek voor het primaire werkproces
 
 1. De raad stelt een draaiboek vast waarin zo concreet mogelijk wordt aangegeven welke stappen door of binnen de raad, de Commissies en het Bureau, worden gevolgd vanaf het moment van ontvangst van een aan de Onderzoeksraad gedane melding tot en met het uitbrengen van een eindrapport.
 
 2. De raad behandelt tenminste op drie cruciale momenten de ontwikkeling van elk onderzoek dat in behandeling is.
 
-#### Artikel 10. Klachten
+##### Artikel 10. Klachten
 
 1. De Algemeen Secretaris is belast met het behandelen van klachten overeenkomstig de procedure zoals beschreven in [hoofdstuk 9 van de Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9).
 
@@ -136,13 +161,13 @@ Indien één of meer leden daarom verzoeken wordt de te nemen beslissing in de e
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 11. Wijziging van het Reglement
+##### Artikel 11. Wijziging van het Reglement
 
 1. De raad kan besluiten dit Reglement te wijzigen.
 
 2. Zolang de Minister een wijziging niet heeft goedgekeurd, blijft het Reglement van kracht.
 
-#### Artikel 12. Citeertitel en publicatie
+##### Artikel 12. Citeertitel en publicatie
 
 1. Dit Reglement kan worden aangehaald als Bestuursreglement Onderzoeksraad voor veiligheid.
 

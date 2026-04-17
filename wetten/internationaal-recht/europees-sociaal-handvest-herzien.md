@@ -1,13 +1,38 @@
 ---
 title: "Europees Sociaal Handvest (herzien)"
 identifier: "BWBV0001800"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-07-01
-laatste_update: 1996-05-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001800"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-07-01"
+last_updated: "1996-05-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001800"
+soort: "verdrag"
+stam_id: "10002409913"
+version_id: "10002418892"
+internal_id: "C10006988931"
+label_id: "10002400694"
+dtd_version: "2.0"
+original_entry_into_force: "2006-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001800/2006-07-01/0"
+intitule_bron: "Trb.2004-13"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-03"
+intitule_published: "2004-01-28"
+intitule_in_force: "2006-06-06"
+intitule_status: "goed"
+original_publication: "Trb.2004-13"
+original_signed_date: "2006-05-03"
+original_published_date: "2004-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-13"
+entry_into_force_date: "2006-07-01"
+jci_1_3: "jci1.3:c:BWBV0001800&z=2006-07-01&g=2006-07-01"
+jci_1_0: "1.0:c:BWBV0001800&g=2006-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2006-05-03"
+entry_into_force: "2006-07-01"
 ---
-
 # Europees Sociaal Handvest (herzien)
 
 Preambule
@@ -30,133 +55,133 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I
 
-#### 1
+##### 1
 
 Een ieder dient in staat te worden gesteld in zijn onderhoud te voorzien door werkzaamheden die hij vrijelijk heeft gekozen.
 
-#### 2
+##### 2
 
 Alle werknemers hebben recht op billijke arbeidsvoorwaarden.
 
-#### 3
+##### 3
 
 Alle werknemers hebben recht op veilige en hygiënische arbeidsomstandigheden.
 
-#### 4
+##### 4
 
 Alle werknemers hebben recht op een billijke beloning welke hun en hun gezin een behoorlijke levensstandaard waarborgt.
 
-#### 5
+##### 5
 
 Alle werknemers en werkgevers hebben recht op vrijheid van vereniging in nationale of internationale organisaties voor de bescherming van hun economische en sociale belangen.
 
-#### 6
+##### 6
 
 Alle werknemers en werkgevers hebben het recht collectief te onderhandelen.
 
-#### 7
+##### 7
 
 Kinderen en jeugdige personen hebben het recht op een bijzondere bescherming tegen de gevaren voor lichaam en geest waaraan zij blootstaan.
 
-#### 8
+##### 8
 
 Zwangere vrouwen hebben bij hun arbeid in dienstbetrekking recht op bijzondere bescherming.
 
-#### 9
+##### 9
 
 Een ieder heeft recht op een doelmatige beroepskeuzevoorlichting, die erop gericht is hem bij te staan bij de keuze van een beroep dat strookt met zijn persoonlijke aanleg en belangstelling.
 
-#### 10
+##### 10
 
 Een ieder heeft recht op een doelmatige vakopleiding.
 
-#### 11
+##### 11
 
 Een ieder heeft het recht om gebruik te maken van alle voorzieningen welke hem in staat stellen in een zo goed mogelijke gezondheid te verkeren.
 
-#### 12
+##### 12
 
 Alle werknemers en personen te hunnen laste hebben recht op sociale zekerheid.
 
-#### 13
+##### 13
 
 Een ieder die geen voldoende middelen van bestaan heeft, heeft recht op sociale en geneeskundige bijstand.
 
-#### 14
+##### 14
 
 Een ieder heeft recht op bijstand door diensten voor sociaal welzijn.
 
-#### 15
+##### 15
 
 Personen met een handicap hebben recht op onafhankelijkheid, sociale integratie en participatie in het leven van de gemeenschap.
 
-#### 16
+##### 16
 
 Het gezin als fundamentele maatschappelijke eenheid heeft recht op een voor zijn volledige ontplooiing doelmatige sociale, wettelijke en economische bescherming.
 
-#### 17
+##### 17
 
 Kinderen en jeugdige personen hebben recht op een passende sociale, wettelijke en economische bescherming.
 
-#### 18
+##### 18
 
 De onderdanen van de ene Partij hebben het recht op het grondgebied van elke andere Partij een op winst gerichte bezigheid uit te oefenen op voet van gelijkheid met de onderdanen van laatstgenoemde Partij, behoudens beperkingen op grond van economische of sociale redenen van dringende aard.
 
-#### 19
+##### 19
 
 Migrerende werknemers die onderdaan van een van de Partijen zijn, alsmede hun gezinnen, hebben recht op bescherming en bijstand op het grondgebied van elke andere Partij.
 
-#### 20
+##### 20
 
 Alle werknemers hebben recht op gelijke kansen en gelijke behandeling ten aanzien van werkgelegenheid en beroepsuitoefening zonder discriminatie naar geslacht.
 
-#### 21
+##### 21
 
 Werknemers hebben recht op informatie en overleg binnen de onderneming.
 
-#### 22
+##### 22
 
 Werknemers hebben het recht deel te nemen aan de vaststelling en de verbetering van de arbeidsomstandigheden en de werkomgeving binnen de onderneming.
 
-#### 23
+##### 23
 
 Iedere oudere heeft recht op sociale bescherming.
 
-#### 24
+##### 24
 
 Alle werknemers hebben recht op bescherming in geval van beëindiging van de dienstbetrekking.
 
-#### 25
+##### 25
 
 Alle werknemers hebben recht op bescherming van hun aanspraken in geval van insolventie van hun werkgever.
 
-#### 26
+##### 26
 
 Alle werknemers hebben recht op waardigheid op het werk.
 
-#### 27
+##### 27
 
 Alle personen met gezinsverantwoordelijkheden die een werkkring hebben aanvaard of wensen te aanvaarden hebben het recht dit te doen zonder te worden blootgesteld aan discriminatie en voor zover mogelijk zonder dat hun werkzaamheden conflicteren met hun gezinsverantwoordelijkheden.
 
-#### 28
+##### 28
 
 Werknemersvertegenwoordigers in ondernemingen hebben recht op bescherming tegen voor hen schadelijke handelingen en dienen de beschikking te krijgen over passende voorzieningen om hun functie te kunnen uitoefenen.
 
-#### 29
+##### 29
 
 Alle werknemers hebben recht op informatie en overleg in procedures voor collectief ontslag.
 
-#### 30
+##### 30
 
 Een ieder heeft recht op bescherming tegen armoede en sociale uitsluiting.
 
-#### 31
+##### 31
 
 Een ieder heeft recht op huisvesting.
 
 ## DEEL II
 
-#### Artikel 1. Recht op arbeid
+##### Artikel 1. Recht op arbeid
 
 Teneinde de doeltreffende uitoefening van het recht op arbeid te waarborgen, verbinden de Partijen zich:
 
@@ -168,7 +193,7 @@ Teneinde de doeltreffende uitoefening van het recht op arbeid te waarborgen, ver
 
 - 4. te zorgen voor doelmatige beroepskeuzevoorlichting, vakopleiding en reïntegratie en deze te bevorderen.
 
-#### Artikel 2. Recht op billijke arbeidsvoorwaarden
+##### Artikel 2. Recht op billijke arbeidsvoorwaarden
 
 Teneinde de doeltreffende uitoefening van het recht op billijke arbeidsvoorwaarden te waarborgen, verbinden de Partijen zich:
 
@@ -186,7 +211,7 @@ Teneinde de doeltreffende uitoefening van het recht op billijke arbeidsvoorwaard
 
 - 7. ervoor zorg te dragen dat werknemers die nachtarbeid verrichten baat hebben bij maatregelen die rekening houden met de bijzondere aard van de werkzaamheden.
 
-#### Artikel 3. Recht op veilige en gezonde arbeidsomstandigheden
+##### Artikel 3. Recht op veilige en gezonde arbeidsomstandigheden
 
 Teneinde de doeltreffende uitoefening van het recht op veilige en gezonde arbeidsomstandigheden te waarborgen, verbinden de Partijen zich, in overleg met organisaties van werkgevers en werknemers:
 
@@ -198,7 +223,7 @@ Teneinde de doeltreffende uitoefening van het recht op veilige en gezonde arbeid
 
 - 4. de geleidelijke uitbreiding van bedrijfsgezondheidsdiensten voor alle werknemers met hoofdzakelijk preventieve en adviserende functies te bevorderen.
 
-#### Artikel 4. Recht op billijke beloning
+##### Artikel 4. Recht op billijke beloning
 
 Teneinde de doeltreffende uitoefening van het recht op een billijke beloning te waarborgen, verbinden de Partijen zich:
 
@@ -214,11 +239,11 @@ Teneinde de doeltreffende uitoefening van het recht op een billijke beloning te 
 
 De uitoefening van deze rechten dient te worden verwezenlijkt door middel van vrijelijk gesloten collectieve arbeidsovereenkomsten, bij de wet ingestelde procedures voor loonvaststelling, of andere bij de nationale omstandigheden passende middelen.
 
-#### Artikel 5. Recht op vrijheid van organisatie
+##### Artikel 5. Recht op vrijheid van organisatie
 
 Teneinde het recht van werknemers en werkgevers tot oprichting van plaatselijke, nationale of internationale organisaties voor de bescherming van hun economische en sociale belangen en tot aansluiting bij deze organisaties te waarborgen, verplichten de Partijen zich dit recht op generlei wijze door de nationale wetgeving of door de toepassing daarvan te laten beperken. De mate waarin de in dit artikel voorziene waarborgen van toepassing zullen zijn op de politie, wordt bepaald door de nationale wet- of regelgeving. Het beginsel volgens hetwelk deze waarborgen van toepassing zullen zijn ten aanzien van leden van de strijdkrachten, en de mate waarin deze waarborgen van toepassing zullen zijn op personen in deze categorie, wordt eveneens bepaald door de nationale wet- of regelgeving.
 
-#### Artikel 6. Recht op collectief onderhandelen
+##### Artikel 6. Recht op collectief onderhandelen
 
 Teneinde de doeltreffende uitoefening van het recht op collectief onderhandelen te waarborgen, verbinden de Partijen zich:
 
@@ -232,7 +257,7 @@ en erkennen;
 
 - 4. het recht van werknemers en werkgevers op collectief optreden in gevallen van belangengeschillen, met inbegrip van het stakingsrecht, behoudens verplichtingen uit hoofde van reeds eerder gesloten collectieve arbeidsovereenkomsten.
 
-#### Artikel 7. Recht van kinderen en jeugdige personen op bescherming
+##### Artikel 7. Recht van kinderen en jeugdige personen op bescherming
 
 Teneinde de doeltreffende uitoefening van het recht van kinderen en jeugdige personen op bescherming te waarborgen, verbinden de Partijen zich:
 
@@ -256,7 +281,7 @@ Teneinde de doeltreffende uitoefening van het recht van kinderen en jeugdige per
 
 - 10. een bijzondere bescherming tegen gevaren voor lichaam en geest, waaraan kinderen en jeugdige personen zijn blootgesteld, te waarborgen, in het bijzonder tegen die gevaren welke al dan niet rechtstreeks uit hun arbeid voortvloeien.
 
-#### Artikel 8. Recht van vrouwelijke werknemers op bescherming van het moederschap
+##### Artikel 8. Recht van vrouwelijke werknemers op bescherming van het moederschap
 
 Teneinde de doeltreffende uitoefening van het recht van vrouwelijke werknemers op bescherming van het moederschap te waarborgen, verbinden de Partijen zich:
 
@@ -270,11 +295,11 @@ Teneinde de doeltreffende uitoefening van het recht van vrouwelijke werknemers o
 
 - 5. de tewerkstelling van vrouwen die zwanger zijn, vrouwen die onlangs zijn bevallen en vrouwen tijdens de lactatieperiode voor ondergrondse mijnarbeid en alle andere arbeid die voor hen ongeschikt is op grond van de gevaarlijke, voor de gezondheid schadelijke of zware aard daarvan, te verbieden, en alle gepaste maatregelen te nemen om de rechten verbonden aan de arbeidsovereenkomst van deze vrouwen te beschermen.
 
-#### Artikel 9. Recht op beroepskeuzevoorlichting
+##### Artikel 9. Recht op beroepskeuzevoorlichting
 
 Teneinde de doeltreffende uitoefening van het recht op beroepskeuzevoorlichting te waarborgen, verbinden de Partijen zich, zo nodig, een dienst in het leven te roepen of deze te bevorderen, die een ieder, met inbegrip van personen met een handicap, dient te helpen bij de oplossing van vraagstukken met betrekking tot beroepskeuze en loopbaanontwikkeling, met inachtneming van hun persoonlijke eigenschappen, alsmede van het verband tussen deze en de bestaande werkgelegenheid: deze hulp dient kosteloos te worden gegeven, zowel aan jeugdige personen, met inbegrip van schoolkinderen, als aan volwassenen.
 
-#### Artikel 10. Recht op vakopleiding
+##### Artikel 10. Recht op vakopleiding
 
 Teneinde de doeltreffende uitoefening van het recht op vakopleiding te waarborgen, verbinden de Partijen zich:
 
@@ -300,7 +325,7 @@ Teneinde de doeltreffende uitoefening van het recht op vakopleiding te waarborge
 
 - d. in overleg met de organisaties van werkgevers en werknemers, de doeltreffendheid van leerlingstelsels en andere opleidingsstelsels voor jeugdige werknemers door het uitoefenen van voldoende toezicht te waarborgen, alsmede zorg te dragen voor afdoende bescherming van jeugdige werknemers in het algemeen.
 
-#### Artikel 11. Recht op bescherming van de gezondheid
+##### Artikel 11. Recht op bescherming van de gezondheid
 
 Teneinde de doeltreffende uitoefening van het recht op bescherming van de gezondheid te waarborgen, verbinden de Partijen zich, hetzij rechtstreeks, hetzij in samenwerking met openbare of particuliere instanties, passende maatregelen te nemen onder andere met het oogmerk:
 
@@ -310,7 +335,7 @@ Teneinde de doeltreffende uitoefening van het recht op bescherming van de gezond
 
 - 3. epidemische, endemische en andere ziekten, alsmede ongevallen, zoveel mogelijk te voorkomen.
 
-#### Artikel 12. Recht op sociale zekerheid
+##### Artikel 12. Recht op sociale zekerheid
 
 Teneinde de doeltreffende uitoefening van het recht op sociale zekerheid te waarborgen, verbinden de Partijen zich:
 
@@ -326,7 +351,7 @@ Teneinde de doeltreffende uitoefening van het recht op sociale zekerheid te waar
 
 - b. de verlening, handhaving en het herstel van rechten op sociale zekerheid, onder andere door het samentellen van tijdvakken van verzekering of tewerkstelling van de betrokkenen overeenkomstig de wetgeving van elk der Partijen.
 
-#### Artikel 13. Recht op sociale en geneeskundige bijstand
+##### Artikel 13. Recht op sociale en geneeskundige bijstand
 
 Teneinde de doeltreffende uitoefening van het recht op sociale en geneeskundige bijstand te waarborgen, verbinden de Partijen zich:
 
@@ -338,7 +363,7 @@ Teneinde de doeltreffende uitoefening van het recht op sociale en geneeskundige 
 
 - 4. de bepalingen sub 1, 2 en 3 van dit artikel op onderdanen van andere Partijen die legaal binnen hun grondgebied verblijven, toe te passen op gelijke wijze als op hun eigen onderdanen, in overeenstemming met hun verplichtingen krachtens het [Europees Verdrag betreffende sociale en medische bijstand](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), op 11 december 1953 te Parijs ondertekend.
 
-#### Artikel 14. Recht op het gebruik van diensten voor sociale zorg
+##### Artikel 14. Recht op het gebruik van diensten voor sociale zorg
 
 Teneinde de doeltreffende uitoefening van het recht op het gebruik van diensten voor sociale zorg te waarborgen, verbinden de Partijen zich:
 
@@ -346,7 +371,7 @@ Teneinde de doeltreffende uitoefening van het recht op het gebruik van diensten 
 
 - 2. deelneming van individuele personen en particuliere of andere organisaties aan de instelling en instandhouding van dergelijke diensten te stimuleren.
 
-#### Artikel 15. Recht van personen met een handicap op onafhankelijkheid, sociale integratie en participatie in het gemeenschapsleven
+##### Artikel 15. Recht van personen met een handicap op onafhankelijkheid, sociale integratie en participatie in het gemeenschapsleven
 
 Teneinde de doeltreffende uitvoering van het recht van personen met een handicap, ongeacht hun leeftijd en de aard en oorsprong van hun handicap, op onafhankelijkheid, sociale integratie en participatie in het gemeenschapsleven te waarborgen, verbinden de Partijen zich met name:
 
@@ -356,11 +381,11 @@ Teneinde de doeltreffende uitvoering van het recht van personen met een handicap
 
 - 3. hun volledige sociale integratie en participatie in het gemeenschapsleven te bevorderen door in het bijzonder maatregelen te treffen, met inbegrip van technische hulpmiddelen, die gericht zijn op het overwinnen van belemmeringen met betrekking tot communicatie en mobiliteit en op het toegang verschaffen tot vervoer, huisvesting, culturele activiteiten en vrijetijdsbesteding.
 
-#### Artikel 16. Recht van het gezin op sociale, wettelijke en economische bescherming
+##### Artikel 16. Recht van het gezin op sociale, wettelijke en economische bescherming
 
 Teneinde de noodzakelijke voorwaarden te scheppen voor de volledige ontplooiing van het gezin, als fundamentele maatschappelijke eenheid, verbinden de Partijen zich de economische, wettelijke en sociale bescherming van het gezinsleven te bevorderen, onder andere door het doen van sociale en gezinsuitkeringen, het treffen van fiscale regelingen, het verschaffen van gezinshuisvesting en het doen van uitkeringen bij huwelijk.
 
-#### Artikel 17. Recht van kinderen en jeugdige personen op sociale, wettelijke en economische bescherming
+##### Artikel 17. Recht van kinderen en jeugdige personen op sociale, wettelijke en economische bescherming
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van kinderen en jeugdige personen op te groeien in een omgeving die de volledige ontwikkeling van hun persoonlijkheid en van hun fysieke en geestelijke capaciteiten bevordert, verbinden Partijen zich, hetzij rechtstreeks, hetzij in samenwerking met openbare of particuliere instanties, alle passende en noodzakelijke maatregelen te nemen die beogen:
 
@@ -374,7 +399,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van kinderen e
 
 - 2. basisonderwijs en voortgezet onderwijs kosteloos beschikbaar te stellen voor kinderen en jeugdige personen, alsmede regelmatig schoolbezoek te bevorderen.
 
-#### Artikel 18. Recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van andere Partijen
+##### Artikel 18. Recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van andere Partijen
 
 Teneinde de doeltreffende uitoefening van het recht op het uitoefenen van een op winst gerichte bezigheid op het grondgebied van elke andere Partij te waarborgen, verbinden de Partijen zich:
 
@@ -388,7 +413,7 @@ en erkennen:
 
 - 4. het recht van hun onderdanen om het land te verlaten teneinde op het grondgebied van de andere Partijen een op winst gerichte bezigheid uit te oefenen.
 
-#### Artikel 19. Recht van migrerende werknemers en hun gezinnen op bescherming en bijstand
+##### Artikel 19. Recht van migrerende werknemers en hun gezinnen op bescherming en bijstand
 
 Teneinde de doeltreffende uitoefening van het recht van migrerende werknemers en hun gezinnen op bescherming en bijstand op het grondgebied van elke andere Partij te waarborgen, verbinden de Partijen zich:
 
@@ -422,7 +447,7 @@ Teneinde de doeltreffende uitoefening van het recht van migrerende werknemers en
 
 - 12. voor zover uitvoerbaar, het onderwijzen van de moedertaal van de migrerende werknemer aan de kinderen van de migrerende werknemer te bevorderen en te vergemakkelijken.
 
-#### Artikel 20. Recht op gelijke kansen en gelijke behandeling ten aanzien van werkgelegenheid en beroepsuitoefening zonder discriminatie naar geslacht
+##### Artikel 20. Recht op gelijke kansen en gelijke behandeling ten aanzien van werkgelegenheid en beroepsuitoefening zonder discriminatie naar geslacht
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht op gelijke kansen en gelijke behandeling ten aanzien van werkgelegenheid en beroepsuitoefening zonder discriminatie naar geslacht, verbinden de Partijen zich ertoe dat recht te erkennen en passende maatregelen te nemen om de toepassing ervan op de volgende gebieden te waarborgen of te bevorderen:
 
@@ -434,7 +459,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht op gelijke kan
 
 - d. loopbaanontwikkeling, met inbegrip van promotie.
 
-#### Artikel 21. Recht op informatie en overleg
+##### Artikel 21. Recht op informatie en overleg
 
 Teneinde de doeltreffende uitoefening van het recht van werknemers op informatie en overleg binnen de onderneming te waarborgen, verbinden de Partijen zich ertoe maatregelen te nemen of te bevorderen waardoor de werknemers of hun vertegenwoordigers, overeenkomstig de nationale wetgeving en praktijk, in staat worden gesteld om:
 
@@ -442,7 +467,7 @@ Teneinde de doeltreffende uitoefening van het recht van werknemers op informatie
 
 - b. tijdig te worden geraadpleegd over voorgestelde beslissingen die de belangen van de werknemers aanzienlijk zouden kunnen beïnvloeden en met name over beslissingen die grote gevolgen zouden kunnen hebben voor de werkgelegenheid binnen de onderneming.
 
-#### Artikel 22. Recht deel te nemen aan de vaststelling en de verbetering van de arbeidsomstandigheden en werkomgeving
+##### Artikel 22. Recht deel te nemen aan de vaststelling en de verbetering van de arbeidsomstandigheden en werkomgeving
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers deel te nemen aan de vaststelling en de verbetering van de arbeidsomstandigheden en werkomgeving binnen de onderneming, verbinden de Partijen zich ertoe maatregelen te nemen of te bevorderen waardoor de werknemers of hun vertegenwoordigers, overeenkomstig de nationale wetgeving en praktijk, in staat worden gesteld bij te dragen aan:
 
@@ -454,7 +479,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers
 
 - d. toezicht op de naleving van de voorschriften op deze gebieden.
 
-#### Artikel 23. Recht van ouderen op sociale bescherming
+##### Artikel 23. Recht van ouderen op sociale bescherming
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van ouderen op sociale bescherming, verbinden de Partijen zich ertoe, hetzij rechtstreeks, hetzij in samenwerking met openbare of particuliere instanties, passende maatregelen te nemen of te bevorderen die er met name op zijn gericht:
 
@@ -472,7 +497,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van ouderen op
 
 - –. Ouderen die in tehuizen wonen passende hulp, met respect voor het privé-leven, en deelname aan de vaststelling van de leefomstandigheden in het tehuis te verzekeren.
 
-#### Artikel 24. Recht op bescherming in geval van beëindiging van de dienstbetrekking
+##### Artikel 24. Recht op bescherming in geval van beëindiging van de dienstbetrekking
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers op bescherming in geval van beëindiging van de dienstbetrekking, verbinden de Partijen zich tot erkenning van:
 
@@ -482,11 +507,11 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers
 
 Daartoe verbinden de Partijen zich ertoe te waarborgen dat een werknemer die van mening is dat zijn dienstbetrekking zonder geldige is beëindigd het recht heeft in beroep te gaan bij een onpartijdige instantie.
 
-#### Artikel 25. Recht van werknemers op bescherming van hun aanspraken in geval van insolventie van hun werkgever
+##### Artikel 25. Recht van werknemers op bescherming van hun aanspraken in geval van insolventie van hun werkgever
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers op bescherming van hun aanspraken in geval van insolventie van hun werkgever, verbinden de Partijen zich ertoe te bepalen dat aanspraken van werknemers uit hoofde van arbeidsovereenkomsten of dienstbetrekkingen worden gewaarborgd door een waarborgfonds of door enige andere doeltreffende vorm van bescherming.
 
-#### Artikel 26. Recht op waardigheid op het werk
+##### Artikel 26. Recht op waardigheid op het werk
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van alle werknemers op de bescherming van hun waardigheid op het werk, verbinden de Partijen zich, in overleg met organisaties van werkgevers en werknemers:
 
@@ -494,7 +519,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van alle werkn
 
 - 2. de bewustwording van, informatie over en preventie van zich herhalend laakbaar of duidelijk negatief of beledigend gedrag gericht tegen individuele werknemers op het werk of verband houdend met werk te bevorderen en alle passende maatregelen te nemen om werknemers tegen dergelijk gedrag te beschermen.
 
-#### Artikel 27. Recht van werknemers met gezinsverantwoordelijkheid op gelijke kansen en een gelijke behandeling
+##### Artikel 27. Recht van werknemers met gezinsverantwoordelijkheid op gelijke kansen en een gelijke behandeling
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht op gelijke kansen en een gelijke behandeling van mannelijke en vrouwelijke werknemers met gezinsverantwoordelijkheden en tussen dergelijke werknemers en andere werknemers, verbinden de Partijen zich ertoe:
 
@@ -510,7 +535,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht op gelijke kan
 
 - 3. te waarborgen dat gezinsverantwoordelijkheden als zodanig geen geldige reden voor ontslag vormt.
 
-#### Artikel 28. Het recht van werknemersvertegenwoordigers op bescherming in de onderneming en op verlening van passende voorzieningen
+##### Artikel 28. Het recht van werknemersvertegenwoordigers op bescherming in de onderneming en op verlening van passende voorzieningen
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemersvertegenwoordigers hun functie uit te oefenen, verbinden de Partijen zich ertoe te waarborgen dat zij binnen de onderneming:
 
@@ -518,11 +543,11 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers
 
 - b. de beschikking krijgen over de voorzieningen die geschikt zijn om hen in staat te stellen hun functie onverwijld en doelmatig te vervullen, waarbij rekening wordt gehouden met het systeem van de arbeidsverhoudingen in het land en de behoeften, omvang en mogelijkheden van de betrokken onderneming.
 
-#### Artikel 29. Recht op informatie en overleg in procedures voor collectief ontslag
+##### Artikel 29. Recht op informatie en overleg in procedures voor collectief ontslag
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht van werknemers op informatie en overleg bij collectief ontslag, verbinden de Partijen zich ertoe te waarborgen dat werkgevers de werknemersvertegenwoordigers tijdig vóór een dergelijk collectief ontslag zullen informeren en raadplegen over mogelijkheden om collectieve ontslagen te vermijden of in aantal te beperken en de gevolgen ervan te verzachten, bijvoorbeeld door een sociaal plan op te stellen dat met name is gericht op ondersteuning bij de herplaatsing of her- en omscholing van de betrokken werknemers.
 
-#### Artikel 30. Recht op bescherming tegen armoede en sociale uitsluiting
+##### Artikel 30. Recht op bescherming tegen armoede en sociale uitsluiting
 
 Teneinde de doeltreffende uitoefening te waarborgen van het recht op bescherming tegen armoede en sociale uitsluiting, verbinden de Partijen zich:
 
@@ -530,7 +555,7 @@ Teneinde de doeltreffende uitoefening te waarborgen van het recht op bescherming
 
 - b. deze maatregelen te toetsen met het oog op de aanpassing daarvan indien noodzakelijk.
 
-#### Artikel 31. Recht op huisvesting
+##### Artikel 31. Recht op huisvesting
 
 Teneinde de doeltreffende uitoefening van het recht op huisvesting te waarborgen, verbinden de Partijen zich maatregelen te nemen die erop zijn gericht:
 
@@ -542,7 +567,7 @@ Teneinde de doeltreffende uitoefening van het recht op huisvesting te waarborgen
 
 ## DEEL III
 
-#### Artikel A. Verplichtingen
+##### Artikel A. Verplichtingen
 
 1. Met inachtneming van de bepalingen van het navolgende Artikel B is elk van de Partijen verplicht:
 
@@ -558,7 +583,7 @@ Teneinde de doeltreffende uitoefening van het recht op huisvesting te waarborgen
 
 4. Iedere Partij dient te beschikken over een aan haar nationale omstandigheden aangepast stelsel van arbeidsinspectie.
 
-#### Artikel B. Betrekkingen met het [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) en het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001057) van 1988
+##### Artikel B. Betrekkingen met het [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) en het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001057) van 1988
 
 1. Geen Verdragsluitende Partij bij het [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) en geen Partij bij het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001057) van 5 mei 1988 mag dit Handvest bekrachtigen, aanvaarden of goedkeuren zonder zich gebonden te achten aan ten minste de bepalingen die overeenkomen met de bepalingen van het Europees Sociaal Handvest en, waar van toepassing, van het Aanvullend Protocol, waaraan zij gebonden was.
 
@@ -566,11 +591,11 @@ Teneinde de doeltreffende uitoefening van het recht op huisvesting te waarborgen
 
 ## DEEL IV
 
-#### Artikel C. Toezicht op de uitvoering van de in dit Handvest vervatte verplichtingen
+##### Artikel C. Toezicht op de uitvoering van de in dit Handvest vervatte verplichtingen
 
 De uitvoering van de in dit Handvest vervatte juridische verplichtingen zal aan hetzelfde toezicht worden onderworpen als het [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021).
 
-#### Artikel D. Collectieve klachten
+##### Artikel D. Collectieve klachten
 
 1. De bepalingen van het [Aanvullend Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0001057) bij het [Europees Sociaal Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) betreffende een systeem voor collectieve klachten zijn van toepassing op de verplichtingen in dit Handvest voor de Staten die het genoemde Protocol hebben bekrachtigd.
 
@@ -578,27 +603,27 @@ De uitvoering van de in dit Handvest vervatte juridische verplichtingen zal aan 
 
 ## DEEL V
 
-#### Artikel E. Non-discriminatie
+##### Artikel E. Non-discriminatie
 
 Het genot van de in dit Handvest neergelegde rechten moet worden verzekerd zonder enig onderscheid op welke grond dan ook, zoals ras, kleur, geslacht, taal, godsdienst, politieke of andere overtuiging, nationale herkomst of sociale afkomst, gezondheid, het behoren tot een nationale minderheid, geboorte of andere status.
 
-#### Artikel F. Afwijking in geval van oorlog of noodtoestand
+##### Artikel F. Afwijking in geval van oorlog of noodtoestand
 
 1. In geval van oorlog of een andere noodtoestand waardoor het voortbestaan van het land wordt bedreigd, kan iedere Partij maatregelen nemen in afwijking van de in dit Handvest genoemde verplichtingen, doch uitsluitend voor zover de omstandigheden zulks absoluut vereisen en deze maatregelen niet in strijd zijn met andere volkenrechtelijke verplichtingen.
 
 2. Indien een Partij van dit recht om af te wijken gebruik heeft gemaakt, stelt zij binnen een redelijke termijn de Secretaris-Generaal van de Raad van Europa volledig op de hoogte van de getroffen maatregelen en van de redenen die hiertoe hebben geleid. Tevens dient zij de Secretaris-Generaal mededeling te doen van het tijdstip waarop deze maatregelen buiten werking zijn gesteld en de door haar aanvaarde bepalingen van het Handvest wederom volledig van toepassing zijn.
 
-#### Artikel G. Beperkingen
+##### Artikel G. Beperkingen
 
 1. Wanneer de in deel I genoemde rechten en beginselen en de in deel II geregelde doeltreffende uitoefening en toepassing hiervan zijn verwezenlijkt, kunnen zij buiten de in deel I en deel II vermelde gevallen generlei beperkingen ondergaan, met uitzondering van die welke bij de wet zijn voorgeschreven en in een democratische samenleving noodzakelijk zijn voor de bescherming van de rechten en vrijheden van anderen en voor de bescherming van de openbare orde, de nationale veiligheid, de volksgezondheid of de goede zeden.
 
 2. De krachtens dit Handvest geoorloofde beperkingen op de daarin vermelde rechten en verplichtingen kunnen uitsluitend worden toegepast voor het doel waarvoor zij zijn bestemd.
 
-#### Artikel H. Verhouding van het Handvest tot het nationale recht of internationale overeenkomsten
+##### Artikel H. Verhouding van het Handvest tot het nationale recht of internationale overeenkomsten
 
 De bepalingen van dit Handvest laten de bepalingen van nationaal recht en van alle reeds van kracht zijnde of nog van kracht wordende bilaterale of multilaterale verdragen of overeenkomsten welke gunstiger zijn voor de beschermde personen, onverlet.
 
-#### Artikel I. Uitvoering van de aangegane verbintenissen
+##### Artikel I. Uitvoering van de aangegane verbintenissen
 
 1. Onverminderd de uitvoeringswijzen die in deze artikelen worden voorzien, wordt uitvoering gegeven aan de relevante bepalingen in de artikelen 1 tot en met 31 van deel II van dit Handvest door:
 
@@ -612,7 +637,7 @@ De bepalingen van dit Handvest laten de bepalingen van nationaal recht en van al
 
 2. De verbintenissen voortvloeiende uit de bepalingen van artikel 2, eerste, tweede, derde, vierde, vijfde en zevende lid, artikel 7, vierde, zesde en zevende lid, artikel 10, eerste, tweede, derde en vijfde lid, en uit de artikelen 21 en 22 van deel II van dit Handvest worden geacht te zijn nagekomen zodra deze bepalingen worden toegepast, overeenkomstig het eerste lid van dit artikel, op de overgrote meerderheid van de betrokken werknemers.
 
-#### Artikel J. Wijzigingen
+##### Artikel J. Wijzigingen
 
 1. Wijzigingen van deel I en deel II van dit Handvest die tot doel hebben de in dit Handvest gewaarborgde rechten uit te breiden alsmede wijzigingen van deel III tot en met deel VI, die door een Partij of door het Regeringscomité worden voorgesteld, dienen te worden medegedeeld aan de Secretaris-Generaal van de Raad van Europa en worden door de Secretaris-Generaal toegezonden aan de Partijen bij dit Handvest.
 
@@ -626,7 +651,7 @@ Met betrekking tot iedere Partij die nadien een wijziging aanvaardt, wordt de wi
 
 ## DEEL VI
 
-#### Artikel K. Ondertekening, bekrachtiging en inwerkingtreding
+##### Artikel K. Ondertekening, bekrachtiging en inwerkingtreding
 
 1. Dit Handvest staat open voor ondertekening door de Lidstaten van de Raad van Europa. Het dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -634,7 +659,7 @@ Met betrekking tot iedere Partij die nadien een wijziging aanvaardt, wordt de wi
 
 3. Voor iedere Lidstaat die nadien het feit dat hij ermee instemt door het Handvest te worden gebonden tot uitdrukking brengt, treedt het Handvest in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum van de nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel L. Territoriale toepassing
+##### Artikel L. Territoriale toepassing
 
 1. Dit Handvest is van toepassing op het grondgebied van het moederland van elk der Partijen. Elke ondertekenende Partij kan op het tijdstip van ondertekening, dan wel op het tijdstip van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring, het grondgebied dat voor de toepassing van dit Handvest als haar moederland dient te worden beschouwd, nader omschrijven in een aan de Secretaris-Generaal van de Raad van Europa te richten verklaring.
 
@@ -644,7 +669,7 @@ Met betrekking tot iedere Partij die nadien een wijziging aanvaardt, wordt de wi
 
 4. Elke Partij kan te allen tijde in een aan de Secretaris-Generaal van de Raad van Europa te richten kennisgeving verklaren dat zij ten aanzien van één of meer grondgebieden waarop dit Handvest krachtens het tweede lid van dit artikel van toepassing is, nader te noemen artikelen of genummerde leden van kracht verklaart, welke zij nog niet ten aanzien van zodanig gebied of zodanige gebieden als bindend had aanvaard. Deze later aanvaarde verplichtingen worden geacht een integrerend deel te vormen van de oorspronkelijke verklaring ten aanzien van het betrokken grondgebied en hebben hetzelfde rechtsgevolg met ingang van de eerste dag van de maand die volgt op het verstrijken van een tijdvak van een maand na de datum waarop de Secretaris-Generaal de kennisgeving van deze verklaring heeft ontvangen.
 
-#### Artikel M. Opzegging
+##### Artikel M. Opzegging
 
 1. Een Partij kan dit Handvest slechts opzeggen na verloop van een periode van vijf jaar na de datum waarop het Handvest ten aanzien van de betrokken Partij in werking is getreden, of binnen elke periode van twee jaar daaropvolgend; in elk van deze gevallen dient de opzegging met inachtneming van een termijn van zes maanden ter kennis te worden gebracht van de Secretaris-Generaal van de Raad van Europa, die de overige Partijen hiervan mededeling doet.
 
@@ -652,11 +677,11 @@ Met betrekking tot iedere Partij die nadien een wijziging aanvaardt, wordt de wi
 
 3. Elke Partij kan dit Handvest of elk van de artikelen of leden van deel II van het Handvest overeenkomstig de bepalingen van het eerste lid van dit artikel opzeggen ten aanzien van elk grondgebied waarop dit Handvest van toepassing is krachtens een overeenkomstig artikel L, tweede lid, afgelegde verklaring.
 
-#### Artikel N. Bijlage
+##### Artikel N. Bijlage
 
 De bijlage bij dit Handvest vormt een integrerend deel ervan.
 
-#### Artikel O. Kennisgevingen
+##### Artikel O. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa en de Directeur-Generaal van het Internationaal Arbeidsbureau, in kennis van:
 
@@ -674,17 +699,17 @@ De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van
 
 - g. iedere andere handeling, kennisgeving of mededeling met betrekking tot dit Handvest.
 
-#### 1
+##### 1
 
 Behoudens het bepaalde in artikel 12, vierde lid, en in artikel 13, vierde lid, zijn onder de in artikelen 1 tot en met 17 en 20 tot en met 31 bedoelde personen slechts die vreemdelingen begrepen die onderdaan zijn van andere Partijen en legaal verblijven of rechtmatig werkzaam zijn op het grondgebied van de betrokken Partij, met dien verstande dat de genoemde artikelen dienen te worden uitgelegd overeenkomstig de artikelen 18 en 19.
 
 Deze uitlegging sluit een uitbreiding van overeenkomstige rechten tot andere personen door een van de Partijen niet uit.
 
-#### 2
+##### 2
 
 Elke Partij doet vluchtelingen in de zin van het [Verdrag van Genève van 28 juli 1951 betreffende de status van vluchtelingen](https://wetten.overheid.nl/jci1.3:c:BWBV0001002) en het [Protocol](onbekend) daarbij van 31 januari 1967 die legaal op haar grondgebied verblijven een zo gunstig mogelijke behandeling toekomen en in elk geval een niet minder gunstige dan waartoe zij zich krachtens genoemd Verdrag heeft verbonden, alsmede krachtens alle andere bestaande en op deze vluchtelingen van toepassing zijnde internationale overeenkomsten.
 
-#### 3
+##### 3
 
 Elke Partij doet staatlozen in de zin van het [Verdrag van New York betreffende de status van staatlozen](https://wetten.overheid.nl/jci1.3:c:BWBV0001003) van 28 september 1954 die legaal op haar grondgebied verblijven een zo gunstig mogelijke behandeling toekomen en in elk geval een niet minder gunstige dan waartoe zij zich krachtens genoemd Verdrag heeft verbonden, alsmede krachtens alle andere bestaande en op deze staatlozen van toepassing zijnde internationale overeenkomsten.
 
@@ -695,11 +720,11 @@ Deze bepalingen hebben geen betrekking op de betreding van het grondgebied van d
 
 ## DEEL II
 
-#### Artikel 1, tweede lid
+##### Artikel 1, tweede lid
 
 Deze bepaling mag niet zodanig worden uitgelegd dat clausules en feitelijke gedragingen ter beveiliging van het vakbondswezen zijn verboden of toegestaan.
 
-#### Artikel 2, zesde lid
+##### Artikel 2, zesde lid
 
 Partijen kunnen bepalen dat deze bepaling niet van toepassing is:
 
@@ -707,31 +732,31 @@ Partijen kunnen bepalen dat deze bepaling niet van toepassing is:
 
 - b. wanneer de overeenkomst of dienstbetrekking van tijdelijke en/of specifieke aard is, mits, in deze gevallen, de niet-toepassing ervan op grond van objectieve overwegingen wordt gerechtvaardigd.
 
-#### Artikel 3, vierde lid
+##### Artikel 3, vierde lid
 
 Voor de toepassing van deze bepaling worden de functies, organisatie en exploitatievoorwaarden van deze diensten bepaald door nationale wet- en regelgeving, collectieve arbeidsovereenkomsten of andere bij nationale omstandigheden passende middelen.
 
-#### Artikel 4, vierde lid
+##### Artikel 4, vierde lid
 
 Deze bepaling mag niet worden uitgelegd als inhoudende een verbod van ontslag op staande voet wegens een ernstig vergrijp.
 
-#### Artikel 4, vijfde lid
+##### Artikel 4, vijfde lid
 
 Een Partij kan de in dit lid bedoelde verplichting slechts op zich nemen indien inhoudingen op de lonen hetzij bij de wet, hetzij bij collectieve arbeidsovereenkomsten of scheidsrechterlijke uitspraken, verboden zijn ten aanzien van de overgrote meerderheid van de werknemers, waarbij de niet onder zodanige maatregelen vallende personen de enige uitzondering vormen.
 
-#### Artikel 6, vierde lid
+##### Artikel 6, vierde lid
 
 Elke Partij kan zelf het recht van staking bij de wet regelen, mits elke eventuele verdere beperking van dit recht in de bepalingen van artikel G rechtvaardiging vindt.
 
-#### Artikel 7, tweede lid
+##### Artikel 7, tweede lid
 
 Deze bepaling vormt voor Partijen geen beletsel om in hun wetgeving te bepalen dat jeugdige personen die de vastgestelde minimumleeftijd nog niet hebben bereikt werkzaamheden mogen verrichten voor zover deze absoluut noodzakelijk zijn voor hun vakopleiding wanneer dergelijke werkzaamheden worden uitgevoerd overeenkomstig de door de bevoegde autoriteit vastgestelde voorwaarden en wanneer maatregelen worden getroffen om de gezondheid en veiligheid van deze jeugdige personen te beschermen.
 
-#### Artikel 7, achtste lid
+##### Artikel 7, achtste lid
 
 Een Partij wordt geacht aan de geest van de in dit lid genoemde verplichting te hebben voldaan indien zij in de geest van deze verplichting bij de wet bepaalt dat de overgrote meerderheid van de minderjarigen die de leeftijd van 18 jaar nog niet hebben bereikt, geen nachtarbeid mag verrichten.
 
-#### Artikel 8, tweede lid
+##### Artikel 8, tweede lid
 
 Deze bepaling mag niet worden uitgelegd als inhoudende een absoluut verbod. Er kunnen uitzonderingen worden gemaakt, bijvoorbeeld in de volgende gevallen:
 
@@ -741,29 +766,29 @@ Deze bepaling mag niet worden uitgelegd als inhoudende een absoluut verbod. Er k
 
 - c. indien de in de arbeidsovereenkomst voorgeschreven termijn is verstreken.
 
-#### Artikel 12, vierde lid
+##### Artikel 12, vierde lid
 
 De zinsnede „en met inachtneming van de in zulke overeenkomsten neergelegde voorwaarden" van de inleiding tot dit lid wordt geacht onder meer in te houden dat een Partij ten aanzien van de niet van verzekeringspremies afhankelijke uitkeringen het ingezetenschap gedurende een voorgeschreven periode verplicht kan stellen alvorens deze uitkeringen aan onderdanen van andere Partijen te verlenen.
 
-#### Artikel 13, vierde lid
+##### Artikel 13, vierde lid
 
 De regeringen die geen Partij zijn bij het [Europees Verdrag betreffende sociale en medische bijstand](https://wetten.overheid.nl/jci1.3:c:BWBV0005096), kunnen het Handvest ten aanzien van dit lid bekrachtigen, mits zij aan onderdanen van andere Partijen een met de bepalingen van genoemd Verdrag strokende behandeling toekennen.
 
-#### Artikel 16
+##### Artikel 16
 
 De in deze bepaling verleende bescherming heeft mede betrekking op eenoudergezinnen.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze bepaling heeft betrekking op alle personen die jonger zijn dan 18 jaar, tenzij volgens het op het kind van toepassing zijnde recht de meerderjarigheid eerder wordt bereikt, onverminderd andere specifieke bepalingen die in het Handvest, met name artikel 7, zijn vervat.
 
 Dit houdt geen verplichting in om een leerplicht vast te stellen tot de bovengenoemde leeftijd.
 
-#### Artikel 19, zesde lid
+##### Artikel 19, zesde lid
 
 Voor de toepassing van deze bepaling wordt de zinsnede ``gezin van een migrerende werknemer" geacht ten minste de echtgenoot en ongehuwde kinderen van de migrerende werknemer te omvatten, zolang deze laatsten door de ontvangende Staat als minderjarigen worden beschouwd en afhankelijk zijn van de migrerende werknemer.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Zaken betreffende de sociale zekerheid alsmede bepalingen betreffende werkloosheidsuitkeringen, ouderdomsuitkeringen en uitkeringen aan nabestaanden kunnen worden uitgesloten van de werkingssfeer van dit artikel.
 
@@ -773,7 +798,7 @@ Voor de toepassing van deze bepaling wordt de zinsnede ``gezin van een migrerend
 
 4. Beroepsactiviteiten die vanwege hun aard of de omstandigheden waaronder zij worden verricht, slechts kunnen worden toevertrouwd aan personen van een bepaald geslacht, kunnen worden uitgesloten van de werkingssfeer van dit artikel of van enkele bepalingen ervan. Deze bepaling mag niet zodanig worden uitgelegd dat de Partijen worden verplicht om in hun wet- of regelgeving een lijst met beroepen op te nemen die vanwege hun aard of de omstandigheden waaronder zij worden uitgeoefend, kunnen worden voorbehouden aan werknemers van een bepaald geslacht.
 
-#### Artikelen 21 en 22
+##### Artikelen 21 en 22
 
 1. Voor de toepassing van deze artikelen wordt verstaan onder „werknemersvertegenwoordigers" personen die als zodanig zijn erkend door de nationale wetgeving of praktijk.
 
@@ -787,17 +812,17 @@ Voor de toepassing van deze bepaling wordt de zinsnede ``gezin van een migrerend
 
 6. De Partijen kunnen ondernemingen waar minder dan een door de nationale wetgeving of praktijk bepaald aantal werknemers in dienst zijn, uitsluiten van de werkingssfeer van deze artikelen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Deze bepaling tast noch de bevoegdheden en verplichtingen van de Staten met betrekking tot het aannemen van gezondheids- en veiligheidsvoorschriften met betrekking tot arbeidsplaatsen, noch de bevoegdheid en de verantwoordelijkheid van de lichamen die belast zijn met het toezicht op de toepassing ervan aan.
 
 2. Onder ``sociale en sociaal-culturele diensten en voorzieningen" wordt verstaan diensten en voorzieningen van sociale en/of culturele aard die door sommige ondernemingen aan werknemers worden geboden, zoals sociale hulpverlening, sportterreinen, ruimte voor zogende moeders, bibliotheken, vakantiekampen voor kinderen, enz.
 
-#### Artikel 23, lid 1
+##### Artikel 23, lid 1
 
 Voor de toepassing van dit lid heeft de uitdrukking „zolang mogelijk" betrekking op de fysieke, psychische en intellectuele capaciteiten van de oudere.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Voor de toepassing van dit artikel wordt onder „beëindiging van de dienstbetrekking" en „beëindigd" verstaan de beëindiging van de dienstbetrekking op initiatief van de werkgever.
 
@@ -825,7 +850,7 @@ Voor de toepassing van dit lid heeft de uitdrukking „zolang mogelijk" betrekki
 
 4. Schadeloosstelling of een andere adequate vorm van genoegdoening in geval van beëindiging van de dienstbetrekking zonder geldige redenen wordt bepaald door de nationale wet- of regelgeving, collectieve arbeidsovereenkomsten of andere bij de nationale omstandigheden passende middelen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De bevoegde nationale autoriteit kan, bij wijze van ontheffing en na overleg met organisaties van werkgevers en werknemers, bepaalde categorieën werknemers wegens de bijzondere aard van hun dienstbetrekking uitsluiten van de in deze bepaling voorziene bescherming.
 
@@ -841,27 +866,27 @@ Voor de toepassing van dit lid heeft de uitdrukking „zolang mogelijk" betrekki
 
 4. In de nationale wet- of regelgeving kan de bescherming van de aanspraken van werknemers worden beperkt tot een voorgeschreven bedrag, dat van een sociaal aanvaardbaar niveau dient te zijn.
 
-#### Artikel 26
+##### Artikel 26
 
 Dit artikel verplicht de Partijen niet tot het vaststellen van wetgeving.
 
 Het tweede lid heeft geen betrekking op seksuele intimidatie.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit artikel heeft betrekking op mannelijke en vrouwelijke werknemers met gezinsverantwoordelijkheid met betrekking tot kinderen te hunnen laste en met betrekking tot andere leden van hun naaste familie die duidelijk behoefte hebben aan hun zorg en ondersteuning wanneer dergelijke verantwoordelijkheden hun mogelijkheden beperken bij het voorbereiden op, aangaan van, deelnemen aan, of vooruitgang boeken bij economische activiteiten. Onder „kinderen te hunnen laste" en „andere leden van hun naaste familie die duidelijk behoefte hebben aan hun zorg en ondersteuning" worden personen verstaan die als zodanig worden omschreven in de wetgeving van de betrokken Partij.
 
-#### Artikelen 28 en 29
+##### Artikelen 28 en 29
 
 Voor de toepassing van dit artikel wordt verstaan onder „werknemersvertegenwoordigers" personen die als zodanig zijn erkend door de nationale wetgeving of praktijk.
 
 ## DEEL III
 
-#### Artikel A, eerste lid
+##### Artikel A, eerste lid
 
 De uitdrukking „genummerde leden" kan eveneens betrekking hebben op artikelen die slechts een enkel lid omvatten.
 
-#### Artikel B, tweede lid
+##### Artikel B, tweede lid
 
 Voor de toepassing van het tweede lid van artikel B, komen de bepalingen van het herziene Handvest overeen met de bepalingen van het [Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0001021) vervat in het artikel of lid met hetzelfde nummer, met uitzondering van:
 
@@ -875,19 +900,19 @@ Voor de toepassing van het tweede lid van artikel B, komen de bepalingen van het
 
 ## DEEL V
 
-#### Artikel E
+##### Artikel E
 
 Een verschil in behandeling dat gegrond is op een objectieve en redelijke rechtvaardiging wordt niet als discriminerend beschouwd.
 
-#### Artikel F
+##### Artikel F
 
 De zinsnede „in geval van oorlog of een andere noodtoestand" heeft tevens betrekking op oorlogs**dreiging**.
 
-#### Artikel I
+##### Artikel I
 
 Werknemers die zijn uitgesloten overeenkomstig de bijlage bij de artikelen 21 en 22, worden niet medegeteld bij de vaststelling van het aantal betrokken werknemers.
 
-#### Artikel J
+##### Artikel J
 
 Onder de term „wijziging" wordt tevens de toevoeging van nieuwe artikelen aan het Handvest verstaan.
 

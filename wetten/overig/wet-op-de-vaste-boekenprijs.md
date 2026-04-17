@@ -1,14 +1,40 @@
 ---
-title: "Wet op de vaste boekenprijs"
+title: "Wet van 9 november 2004, houdende regels omtrent de vaste boekenprijs (Wet op de vaste boekenprijs)"
 identifier: "BWBR0017452"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017452"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017452"
+soort: "wet"
+stam_id: "6369243"
+version_id: "11031412"
+internal_id: "C14970271"
+label_id: "6358474"
+original_entry_into_force: "2005-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017452/2021-07-01/0"
+intitule_bron: "Stb.2004-600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-11-09"
+intitule_published: "2004-11-25"
+intitule_in_force: "2004-12-07"
+intitule_status: "goed"
+original_publication: "Stb.2004-600"
+original_signed_date: "2004-11-09"
+original_published_date: "2004-11-25"
+original_effect: "nieuwe-regeling"
+original_dossier: "28652"
+original_url_id: "stb-2004-600"
+entry_into_force_date: "2005-01-01"
+jci_1_3: "jci1.3:c:BWBR0017452&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0017452&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de vaste boekenprijs"
+signed_date: "2004-11-09"
+entry_into_force: "2005-01-01"
 ---
-
-# Wet op de vaste boekenprijs
+# Wet van 9 november 2004, houdende regels omtrent de vaste boekenprijs (Wet op de vaste boekenprijs)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,7 +46,7 @@ De datum van inwerkingtreding is vastgesteld onder toepassing van artikel 16 van
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -68,11 +94,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Vaststelling van de vaste prijs
 
-#### Artikel 2
+##### Artikel 2
 
 De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een bepaalde uitvoering in Nederland uitgeeft een vaste prijs vast.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor boeken die in Nederland worden geïmporteerd en voor in Nederland uitgegeven muziekuitgaven die na export naar het buitenland weer in Nederland worden geïmporteerd, stelt de importeur een vaste prijs vast. De vaste prijs voor boeken en muziekuitgaven die in Nederland zijn uitgegeven en na export weer in Nederland worden geïmporteerd is niet lager dan de door de Nederlandse uitgever vastgestelde prijs.
 
@@ -80,13 +106,13 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 3. Het eerste lid, tweede volzin, is niet van toepassing op de import van boeken en muziekuitgaven uit een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, tenzij de import plaatsvindt met het oogmerk deze wet te ontduiken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De uitgever en de importeur doen van de vaste prijs mededeling aan het Commissariaat. Het Commissariaat draagt zorg voor de landelijke bekendmaking van de vaste prijs. Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent de mededeling en bekendmaking, bedoeld in de eerste en tweede volzin.
 
 2. De vaste prijs geldt met ingang van de eerste dag waarop het boek of de muziekuitgave voor verkoop aan eindafnemers beschikbaar is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De uitgever en de importeur kunnen de vaste prijs telkens na verloop van een half jaar aanpassen met ingang van een daarbij te bepalen tijdstip.
 
@@ -96,7 +122,7 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 #### Paragraaf 2. Toepassing van de vaste prijs
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verkoper past bij verkoop van een boek of een muziekuitgave aan een eindafnemer de vaste prijs toe. Deze verplichting geldt niet voor:
 
@@ -126,7 +152,7 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 #### Paragraaf 3. Opheffing van de vaste prijs
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uitgever en de importeur kunnen de vaste prijs opheffen met ingang van een daarbij te bepalen tijdstip, doch niet eerder dan met ingang van één jaar na het tijdstip, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01).
 
@@ -134,7 +160,7 @@ De uitgever stelt voor boeken en muziekuitgaven die hij voor het eerst in een be
 
 #### Paragraaf 4. De boekenclubprijs
 
-#### Artikel 8
+##### Artikel 8
 
 In deze paragraaf wordt verstaan onder:
 
@@ -142,7 +168,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. boekenclubprijs: de door de uitgever of de importeur op grond van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=9&z=2021-07-01&g=2021-07-01) vastgestelde prijs.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De uitgever en de importeur kunnen op verzoek van een boekenclub een van de vaste prijs afwijkende boekenclubprijs vaststellen voor de verkoop aan eindafnemers die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), zijn aangegaan.
 
@@ -160,23 +186,23 @@ In deze paragraaf wordt verstaan onder:
 
 6. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent het vaststellen van een boekenclubprijs.
 
-#### Artikel 10
+##### Artikel 10
 
 De boekenclub past bij verkoop van een boek aan een eindafnemer die jegens de boekenclub een koopverplichting als bedoeld in [artikel 8, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01), is aangegaan, de vastgestelde boekenclubprijs toe.
 
-#### Artikel 11
+##### Artikel 11
 
 [Artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), is van overeenkomstige toepassing op de vaststelling, aanpassing en opheffing van de boekenclubprijs.
 
 #### Paragraaf 5. Infrastructuur
 
-#### Artikel 12
+##### Artikel 12
 
 Bij algemene maatregel van bestuur kunnen ten behoeve van de instandhouding van een distributie-infrastructuur die gericht is op spreiding en beschikbaarheid van boeken en muziekuitgaven regels worden gesteld, en kan worden bepaald, onder voorschriften en beperkingen, dat overeenkomsten kunnen worden gesloten.
 
 ### Hoofdstuk 3. Kortingen
 
-#### Artikel 13
+##### Artikel 13
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het toepassen door een verkoper van kortingen op de vaste prijs in geval van:
 
@@ -192,13 +218,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 ### Hoofdstuk 4. Bijzondere prijzen
 
-#### Artikel 14
+##### Artikel 14
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het in bij die regels te bepalen bijzondere gevallen al dan niet tijdelijk vaststellen van bijzondere, van de vaste prijs afwijkende prijzen. De [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=1&artikel=4&z=2021-07-01&g=2021-07-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=2&artikel=6&z=2021-07-01&g=2021-07-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=3&artikel=7&z=2021-07-01&g=2021-07-01) zijn van overeenkomstige toepassing op bijzondere prijzen.
 
 ### Hoofdstuk 5. Bestuursrechtelijke handhaving
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Commissariaat voor de Media, genoemd in [artikel 7.1 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.1) is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.
 
@@ -206,7 +232,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 3. Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:17) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
 
@@ -214,7 +240,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde toezichthouders desgevraagd inzage verkrijgen in – en kopieën kunnen maken van – de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.
 
-#### Artikel 17
+##### Artikel 17
 
 Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&z=2021-07-01&g=2021-07-01) door een uitgever, importeur of verkoper kan het Commissariaat aan de overtreder:
 
@@ -222,51 +248,51 @@ Bij overtreding van het bepaalde bij of krachtens de [hoofdstukken 2 tot en met 
 
 - b. een last onder dwangsom opleggen.
 
-#### Artikel 18
+##### Artikel 18
 
 De in [artikel 17, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), bedoelde bestuurlijke boete bedraagt ten hoogste € 90 000.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Aan een last onder dwangsom, bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), kunnen voorschriften worden verbonden inzake het verstrekken van gegevens aan het Commissariaat.
 
 2. Een last geldt voor een door het Commissariaat te bepalen termijn van ten hoogste twee jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Het Commissariaat kan degene, die jegens de in [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=15&z=2021-07-01&g=2021-07-01), bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), een bestuurlijke boete opleggen van ten hoogste € 4 500.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangsommen af aan Onze Minister. Deze opbrengsten dienen ter bestrijding van de kosten van het Commissariaat.
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Voor boeken en muziekuitgaven die op het tijdstip van inwerkingtreding van deze wet al zijn uitgegeven onder de werking van het Reglement voor het Handelsverkeer van Boeken in Nederland van de Koninklijke Vereeniging ter bevordering van de belangen des Boekhandels (KVB) dan wel het Reglement Handelsverkeer van muziekuitgaven van de Vereeniging van Muziekhandelaren en -uitgevers in Nederland (VMN), geldt de onder de werking van genoemde Reglementen vastgestelde particuliere prijs als vaste prijs.
 
@@ -280,25 +306,25 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 4. Ten aanzien van overtredingen van de in het eerste lid genoemde Reglementen die begaan zijn vóór het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dat gold op de dag voorafgaande aan het tijdstip van inwerkingtreding van deze wet van toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 Een krachtens de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=2&paragraaf=5&artikel=12&z=2021-07-01&g=2021-07-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=3&artikel=13&z=2021-07-01&g=2021-07-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=4&artikel=14&z=2021-07-01&g=2021-07-01) vastgestelde algemene maatregel van bestuur wordt aan beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door tenminste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
-#### Artikel 30
+##### Artikel 30
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vier jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 31
+##### Artikel 31
 
 Deze wet wordt aangehaald als: Wet op de vaste boekenprijs.
 
-#### Artikel 32
+##### Artikel 32
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](https://wetten.overheid.nl/jci1.3:c:BWBR0012701&artikel=16).
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in [artikel 17, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0017452&hoofdstuk=5&artikel=17&z=2021-07-01&g=2021-07-01), zijn de [artikelen 5:45](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:45) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) van overeenkomstige toepassing.
 

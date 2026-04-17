@@ -1,14 +1,41 @@
 ---
-title: "Uitvoeringswet verordening Europees burgerinitiatief"
+title: "Wet van 10 juli 2013, houdende regels tot uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65) (Uitvoeringswet verordening Europees burgerinitiatief)"
 identifier: "BWBR0033716"
-categorie: "Internationaal recht"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033716"
+country: "nl"
+rank: "wet"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033716"
+soort: "wet"
+stam_id: "12325783"
+version_id: "20669902"
+internal_id: "C29956731"
+label_id: "12296914"
+dtd_version: "2.0"
+original_entry_into_force: "2013-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033716/2020-04-01/0"
+intitule_bron: "Stb.2013-318"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-07-10"
+intitule_published: "2013-07-26"
+intitule_in_force: "2013-11-08"
+intitule_status: "goed"
+original_publication: "Stb.2013-318"
+original_signed_date: "2013-07-10"
+original_published_date: "2013-07-26"
+original_effect: "nieuwe-regeling"
+original_dossier: "33423"
+original_url_id: "stb-2013-318"
+entry_into_force_date: "2013-11-09"
+jci_1_3: "jci1.3:c:BWBR0033716&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0033716&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet verordening Europees burgerinitiatief"
+signed_date: "2013-07-10"
+entry_into_force: "2013-11-09"
 ---
-
-# Uitvoeringswet verordening Europees burgerinitiatief
+# Wet van 10 juli 2013, houdende regels tot uitvoering van de Verordening (EU) nr. 211/2011 van het Europees Parlement en de Raad van 16 februari 2011 over het burgerinitiatief (PbEU 2011, L 65) (Uitvoeringswet verordening Europees burgerinitiatief)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is regels te stellen
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -24,7 +51,7 @@ In deze wet wordt verstaan onder:
 
 - b. **Verordening:** Verordening (EU) nr. 2019/788 van het Europees Parlement en de Raad van 17 april 2019 over het burgerinitiatief (PB L 130/55 van 17.5.2019).
 
-#### Artikel 2
+##### Artikel 2
 
 Onze Minister is bevoegd:
 
@@ -34,11 +61,11 @@ Onze Minister is bevoegd:
 
 - c. certificaten als bedoeld in artikel 12, vijfde lid, van de Verordening af te geven.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder geval bij een aanvraag voor een certificaat als bedoeld in artikel 11, derde lid, van de Verordening worden verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvrager draagt er zorg voor dat door Onze Minister aangewezen ambtenaren ten behoeve van het beoordelen van de aanvraag voor een certificaat als bedoeld in artikel 11, derde lid van de Verordening, met medeneming van de benodigde apparatuur, de plaats kunnen betreden waar het onlinesysteem, bedoeld in artikel 11 van de Verordening, zich bevindt en ter plaatse inzage kunnen krijgen in het onlinesysteem.
 
@@ -46,7 +73,7 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 3. Indien de plaats en het onlinesysteem, bedoeld in het eerste lid, niet overeenkomstig dit artikel kunnen worden betreden respectievelijk ingezien, kan de aanvraag worden afgewezen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop de steekproeven, bedoeld in artikel 12, vierde lid, van de Verordening, worden uitgevoerd en over de vaststelling van het totaal aantal geldige steunbetuigingen op basis van de uitkomst van de steekproeven.
 
@@ -56,7 +83,7 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 - b. de wijze waarop de selectie voor de steekproeven wordt bepaald.
 
-#### Artikel 6
+##### Artikel 6
 
 1. [Titel 8.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=8.3) is niet van toepassing op een beschikking op grond van [artikel 2, aanhef en onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033716&artikel=2&z=2020-04-01&g=2020-04-01).
 
@@ -64,19 +91,19 @@ Bij ministeriële regeling wordt bepaald welke gegevens en bescheiden in ieder g
 
 3. De Afdeling bestuursrechtspraak van de Raad van State behandelt de zaak met toepassing van [afdeling 8.2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.3). [Afdeling 8.2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=8.2.4) blijft buiten toepassing. Aan Onze Minister wordt terstond een afschrift van het beroepschrift gezonden.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt deze wet.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet wordt aangehaald als: Uitvoeringswet verordening Europees burgerinitiatief.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Wijzigt de Algemene wet bestuursrecht.
 

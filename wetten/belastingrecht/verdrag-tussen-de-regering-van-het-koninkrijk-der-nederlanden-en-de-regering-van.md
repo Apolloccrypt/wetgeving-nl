@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot bankenbelastingen"
 identifier: "BWBV0006487"
-categorie: "Belastingrecht"
-publicatiedatum: 2015-04-30
-laatste_update: 2011-01-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006487"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-04-30"
+last_updated: "2011-01-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006487"
+soort: "verdrag"
+stam_id: "10005288703"
+version_id: "10005684242"
+internal_id: "C10008802411"
+label_id: "10005271454"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006487/2015-04-30/0"
+intitule_bron: "Trb.2013-112"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-07-12"
+intitule_in_force: "2015-04-14"
+intitule_status: "goed"
+original_publication: "Trb.2013-112"
+original_published_date: "2013-07-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-112"
+entry_into_force_date: "2015-04-30"
+jci_1_3: "jci1.3:c:BWBV0006487&z=2015-04-30&g=2015-04-30"
+jci_1_0: "1.0:c:BWBV0006487&g=2015-04-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-04-30"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot bankenbelastingen
 
 De Regering van het Koninkrijk der Nederlanden
@@ -20,11 +42,11 @@ Geleid door de wens een verdrag te sluiten tot het vermijden van dubbele belasti
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Entiteiten waarop het Verdrag van toepassing is
+##### Artikel 1. Entiteiten waarop het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op entiteiten die gevestigd zijn in een of beide verdragsluitende staten.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op bankenbelastingen die, ongeacht de wijze van heffing, worden geheven ten behoeve van een verdragsluitende staat.
 
@@ -36,7 +58,7 @@ Dit Verdrag is van toepassing op entiteiten die gevestigd zijn in een of beide v
 
 3. Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande bankenbelastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende staten doen elkaar mededeling van alle belangrijke wijzigingen die in hun onderscheiden wetgeving inzake bankenbelasting zijn aangebracht.
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -66,11 +88,11 @@ Dit Verdrag is van toepassing op entiteiten die gevestigd zijn in een of beide v
 
 2. Voor de toepassing van het Verdrag door een verdragsluitende staat op enig moment heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die verdragsluitende staat met betrekking tot de bankenbelastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke wetgeving inzake bankenbelasting van die staat prevaleert boven een betekenis die volgens andere wetgeving van die staat aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Zetel
+##### Artikel 4. Zetel
 
 De zetel van een entiteit wordt vastgesteld conform het nationale recht van de verdragsluitende staten. Indien een entiteit in beide verdragsluitende staten gevestigd is, wordt de entiteit voor de toepassing van dit Verdrag geacht gevestigd te zijn in de staat waarin de plaats van haar werkelijke leiding is gelegen.
 
-#### Artikel 5. Vermijden van dubbele belasting
+##### Artikel 5. Vermijden van dubbele belasting
 
 1. Wat Nederland betreft wordt dubbele heffing van bankenbelasting als volgt behandeld:
 
@@ -88,7 +110,7 @@ De zetel van een entiteit wordt vastgesteld conform het nationale recht van de v
 
 - b. indien rechtstreeks of via consolidatie Nederlandse bankenbelasting is toegepast op een vaste inrichting gelegen in het Verenigd Koninkrijk, wordt de aan de vaste inrichting toe te rekenen Nederlandse bankenbelasting bij de verrekening in aanmerking genomen, tenzij de moederonderneming van de groep gevestigd is in het Verenigd Koninkrijk.
 
-#### Artikel 6. Procedure voor onderling overleg
+##### Artikel 6. Procedure voor onderling overleg
 
 1. Indien een entiteit van oordeel is dat de maatregelen van een of van beide verdragsluitende staten voor haar leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan zij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die staten voorziet, haar geval voorleggen aan een van de bevoegde autoriteiten. De kwestie moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, of indien later, binnen zes jaar na afloop van het jaar of heffingstijdvak ter zake waarvan die belasting is opgelegd of voorlopig is opgelegd, voor het eerst te harer kennis is gebracht.
 
@@ -106,7 +128,7 @@ De zetel van een entiteit wordt vastgesteld conform het nationale recht van de v
 
 worden onopgeloste kwesties die voortvloeien uit de zaak indien de rechtstreeks betrokken entiteit zulks verzoekt voorgelegd voor arbitrage. De arbitrale uitspraak is bindend voor beide verdragsluitende staten en wordt ten uitvoer gelegd ongeacht eventuele termijnen in het nationale recht van de staten, tenzij de rechtstreeks betrokken entiteit de gezamenlijke regeling voor de tenuitvoerlegging van de arbitrale uitspraak niet aanvaardt. De bevoegde autoriteiten van de verdragsluitende staten regelen in onderling overleg de wijze van toepassing van dit lid.
 
-#### Artikel 7. Uitwisseling van informatie
+##### Artikel 7. Uitwisseling van informatie
 
 1. Met inachtneming van de bepalingen van het nationale recht van de verdragsluitende staten wisselen de bevoegde autoriteiten van de verdragsluitende staten de informatie uit die naar verwachting van belang is voor de uitvoering van de bepalingen van dit Verdrag of voor de toepassing of handhaving van de nationale wetgeving met betrekking tot bankenbelastingen, in het bijzonder ter voorkoming van fraude en ter vergemakkelijking van de toepassing van wettelijke bepalingen tegen het legaal ontgaan van belastingen.
 
@@ -124,11 +146,11 @@ worden onopgeloste kwesties die voortvloeien uit de zaak indien de rechtstreeks 
 
 5. De bepalingen van het derde lid mogen in geen geval zodanig worden uitgelegd dat het een verdragsluitende staat toegestaan is het verstrekken van informatie te weigeren uitsluitend op grond van het feit dat de betreffende gegevens berusten bij een bank, een andere financiële instelling, een gevolmachtigde, of een persoon die bij wijze van vertegenwoordiging of als vertrouwenspersoon optreedt, dan wel omdat deze betrekking hebben op eigendomsbelangen in een bank.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 De verdragsluitende staten stellen elkaar er langs diplomatieke weg van in kennis dat de wettelijk vereiste procedures voor het in werking doen treden van dit Verdrag zijn voltooid. Dit Verdrag treedt in werking op de laatste dag van de maand volgend op de maand waarin de laatste van deze kennisgevingen is ontvangen en is van kracht vanaf 1 januari 2011. Kennisgeving van voltooiing wordt geacht door een verdragsluitende staat te zijn gedaan op de datum van ontvangst van de kennisgeving door de andere verdragsluitende staat.
 
-#### Artikel 9. Beëindiging
+##### Artikel 9. Beëindiging
 
 Dit Verdrag blijft van kracht totdat het door een van de verdragsluitende staten wordt beëindigd. Elk van de verdragsluitende staten kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar dat begint na het verstrijken van een tijdvak van vijf jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging. In dat geval houdt het Verdrag op 1 januari van het kalenderjaar eerstvolgend op het jaar waarin de kennisgeving is gedaan op van kracht te zijn. Kennisgeving van beëindiging wordt geacht door een verdragsluitende staat te zijn gedaan op de datum van ontvangst van de kennisgeving door de andere verdragsluitende staat.
 

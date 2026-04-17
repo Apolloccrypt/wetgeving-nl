@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004"
+title: "Besluit van 29 november 2006, nr. 2006-0000381422, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004"
 identifier: "BWBR0020877"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-12-30
-laatste_update: 2006-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020877"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2006-12-30"
+last_updated: "2006-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020877"
+soort: "ministeriele-regeling"
+stam_id: "8840653"
+version_id: "14042982"
+internal_id: "C19098851"
+label_id: "8820304"
+dtd_version: "2.0"
+original_entry_into_force: "2006-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020877/2006-12-30/0"
+intitule_bron: "Stcrt.2006-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-11-29"
+intitule_published: "2006-12-28"
+intitule_in_force: "2006-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-252"
+original_signed_date: "2006-11-29"
+original_published_date: "2006-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-252-p7-SC78449"
+entry_into_force_date: "2006-12-30"
+jci_1_3: "jci1.3:c:BWBR0020877&z=2006-12-30&g=2006-12-30"
+jci_1_0: "1.0:c:BWBR0020877&g=2006-12-30"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004"
+signed_date: "2006-11-29"
+entry_into_force: "2006-12-30"
 ---
-
 # Besluit van 29 november 2006, nr. 2006-0000381422, tot vaststelling van de bedragen per eenheid voor de uitkering uit het gemeentefonds over het uitkeringsjaar 2004
 
 Mede namens de Minister van Financiën;
@@ -16,15 +42,15 @@ Gelet op [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.n
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor het uitkeringsjaar 2004 worden de bedragen per eenheid, bedoeld in [artikel 9 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=9), vastgesteld overeenkomstig [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0020877&bijlage=1&z=2006-12-30&g=2006-12-30) bij dit besluit.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor het uitkeringsjaar 2004 worden de bedragen, bedoeld in [artikel 6 van de Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291&artikel=6), vastgesteld overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0020877&bijlage=2&z=2006-12-30&g=2006-12-30) bij dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

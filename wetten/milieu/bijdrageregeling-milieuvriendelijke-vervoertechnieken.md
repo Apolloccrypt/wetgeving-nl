@@ -1,20 +1,43 @@
 ---
 title: "Bijdrageregeling milieuvriendelijke vervoertechnieken"
 identifier: "BWBR0005680"
-categorie: "Milieu"
-publicatiedatum: 1994-08-04
-laatste_update: 1994-08-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005680"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1994-08-04"
+last_updated: "1994-08-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005680"
+soort: "ministeriele-regeling"
+stam_id: "5725673"
+version_id: "10228292"
+internal_id: "C13810521"
+label_id: "5705974"
+original_entry_into_force: "1992-10-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005680/1994-08-04/0"
+intitule_bron: "Stcrt.1992-202"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-08"
+intitule_published: "1992-10-19"
+intitule_in_force: "1992-10-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-202"
+original_signed_date: "1992-10-08"
+original_published_date: "1992-10-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-10-20"
+jci_1_3: "jci1.3:c:BWBR0005680&z=1994-08-04&g=1994-08-04"
+jci_1_0: "1.0:c:BWBR0005680&g=1994-08-04"
+citeertitel_status: "officieel"
+signed_date: "1992-10-08"
+entry_into_force: "1992-10-20"
 ---
-
 # Bijdrageregeling milieuvriendelijke vervoertechnieken
 
 Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +51,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **aanvrager:** degene die een aanvraag heeft ingediend.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Minister maakt in de Staatscourant bekend:
 
@@ -42,13 +65,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. De aanvraag
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de eigenaar van een vervoermiddel, dat voldoet aan de normen, bekend gemaakt op grond van artikel 2, kan op zijn overeenkomstig deze regeling ingediende aanvraag een financiële bijdrage worden verleend.
 
 2. Een aanvraag dient te worden ingediend bij Senter.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de aanvraag dient gebruik te worden gemaakt van een standaardformulier, verkrijgbaar bij Senter.
 
@@ -58,7 +81,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien de aanvrager niet in staat is om aan het bepaalde in het eerste of tweede lid, dan wel aan het bepaalde op grond van het derde lid te voldoen, kan Senter voor de afhandeling van de aanvraag andere gegevens vragen die binnen een door Senter te stellen termijn geleverd dienen te worden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. de termijn voor aanvulling van de aanvraag, bedoeld in artikel 4:5 van de Algemene wet bestuursrecht, bedraagt vier weken.
 
@@ -66,17 +89,17 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. De beslissing op de aanvraag
 
-#### Artikel 6
+##### Artikel 6
 
 1. Senter beslist op volgorde van in behandeling nemen van de aanvraag.
 
 2. Indien gedurende de periode waarvoor de bekendmaking geldt, het voor de uitvoering van deze regeling in die periode beschikbare bedrag wordt of dreigt te worden overschreden door op een aanvraag te beslissen, kan Senter die beslissing aanhouden tot drie maanden nadat de geldigheid van de bekendmaking is verstreken. De aanhouding wordt aan de aanvrager meegedeeld.
 
-#### Artikel 7
+##### Artikel 7
 
 vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Op een aanvraag wordt afwijzend beslist indien:
 
@@ -92,7 +115,7 @@ Op een aanvraag wordt afwijzend beslist indien:
 
 #### § 4. Uitkering van de bijdrage
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verlening wordt ingetrokken indien de aanvrager zodanig onjuiste of onvolledige gegevens heeft verstrekt dat op de aanvraag een afwijzende beslissing zou zijn genomen dan wel een lager bedrag zou zijn uitgekeerd indien de juiste gegevens waren verstrekt.
 
@@ -102,7 +125,7 @@ Op een aanvraag wordt afwijzend beslist indien:
 
 #### § 5. Verplichtingen van degene aan wie een bijdrage is verleend
 
-#### Artikel 10
+##### Artikel 10
 
 1. Degene aan wie een bijdrage is verleend, is verplicht om desgevraagd medewerking te verlenen aan een door of vanwege de Minister terzake van de toepassing en effecten van deze regeling ingestelde evaluatie.
 
@@ -112,15 +135,15 @@ Op een aanvraag wordt afwijzend beslist indien:
 
 #### § 6. Slotbepalingen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Bij de toepassing van de artikelen 3, 4, vierde lid, 5, 6, 8 en 9 treedt Senter op in naam van de minister.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van de dag, volgende op de datum van uitgifte van de Staatscourant, waarin zij is geplaatst.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling kan worden aangehaald als bijdrageregeling milieuvriendelijke vervoertechnieken.
 

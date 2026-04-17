@@ -1,13 +1,39 @@
 ---
-title: "BES Bouwbesluit"
+title: "Besluit van 15 december 2014, houdende vaststelling van voorschriften met betrekking tot het bouwen van bouwwerken en het gebruik van bestaande bouwwerken in de openbare lichamen Bonaire, Sint Eustatius en Saba (BES Bouwbesluit)"
 identifier: "BWBR0036000"
-categorie: "Overig"
-publicatiedatum: 2017-07-01
-laatste_update: 2017-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036000"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2017-07-01"
+last_updated: "2017-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036000"
+soort: "AMvB-BES"
+stam_id: "12902063"
+version_id: "21956302"
+internal_id: "C31498641"
+label_id: "12871854"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036000/2017-07-01/0"
+intitule_bron: "Stb.2014-539"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-12-15"
+intitule_published: "2014-12-22"
+intitule_in_force: "2014-12-22"
+intitule_status: "goed"
+original_publication: "Stb.2014-539"
+original_signed_date: "2014-12-15"
+original_published_date: "2014-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-539"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0036000&z=2017-07-01&g=2017-07-01"
+jci_1_0: "1.0:c:BWBR0036000&g=2017-07-01"
+citeertitel_status: "officieel"
+short_title: "BES Bouwbesluit"
+signed_date: "2014-12-15"
+entry_into_force: "2015-01-01"
 ---
-
 # Besluit van 15 december 2014, houdende vaststelling van voorschriften met betrekking tot het bouwen van bouwwerken en het gebruik van bestaande bouwwerken in de openbare lichamen Bonaire, Sint Eustatius en Saba (BES Bouwbesluit)
 
 Op de voordracht van Onze Minister voor Wonen en Rijksdienst van 28 oktober 2014, nr. 2014-0000551251 CZW;
@@ -34,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 7. Wijziging [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461)
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Wijzigt het Bouwbesluit 2012.
 
@@ -44,7 +70,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1.1. Algemeen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -52,19 +78,19 @@ In dit besluit wordt verstaan onder:
 
 #### § 1.2. Toepassingbereik voorschriften
 
-#### Artikel 1.2. Nieuwbouw en bestaande bouw
+##### Artikel 1.2. Nieuwbouw en bestaande bouw
 
 1. Op het bouwen van een bouwwerk zijn de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=2&z=2017-07-01&g=2017-07-01) van toepassing.
 
 2. Op een bestaand bouwwerk is [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=5&z=2017-07-01&g=2017-07-01) van toepassing.
 
-#### Artikel 1.3. Verbouw
+##### Artikel 1.3. Verbouw
 
 Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een bouwwerk zijn de [hoofdstukken 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=2&z=2017-07-01&g=2017-07-01) van toepassing. Het bestuurscollege kan hiervan ontheffing verlenen.
 
 #### § 1.3. Aanvraagprocedure bouwvergunning
 
-#### Artikel 1.4. Aanvraagprocedure bouwvergunning
+##### Artikel 1.4. Aanvraagprocedure bouwvergunning
 
 1. Een aanvraag om bouwvergunning wordt ingediend door middel van een formulier dat door het bestuurscollege van het openbare lichaam waarin het bouwwerk is of zal zijn gelegen aan de aanvrager ter beschikking wordt gesteld.
 
@@ -90,7 +116,7 @@ Op het geheel of gedeeltelijk vernieuwen of veranderen of het vergroten van een 
 
 #### § 1.4. Vergunningsvrij bouwen
 
-#### Artikel 1.5. Bouwen van beperkte betekenis
+##### Artikel 1.5. Bouwen van beperkte betekenis
 
 Als bouwen van beperkte betekenis als bedoeld in [artikel 2.2, tweede lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&artikel=2.2) wordt aangemerkt:
 
@@ -102,7 +128,7 @@ Als bouwen van beperkte betekenis als bedoeld in [artikel 2.2, tweede lid, onder
 
 #### § 1.5. Melding en vergunning brandveilig gebruik
 
-#### Artikel 1.6. Melding en vergunning brandveilig gebruik
+##### Artikel 1.6. Melding en vergunning brandveilig gebruik
 
 1. Het is verboden om zonder of in afwijking van een gebruiksmelding:
 
@@ -128,69 +154,69 @@ Als bouwen van beperkte betekenis als bedoeld in [artikel 2.2, tweede lid, onder
 
 #### § 2.1. Constructieve veiligheid
 
-#### Artikel 2.1. Constructieve veiligheid bij algemene belastingcombinaties
+##### Artikel 2.1. Constructieve veiligheid bij algemene belastingcombinaties
 
 Een bouwwerk heeft een constructie die voldoende bestand is tegen de gecombineerde permanente belasting, veranderlijke belasting en wind.
 
-#### Artikel 2.2. Constructieve veiligheid bij buitengewone belastingcombinaties
+##### Artikel 2.2. Constructieve veiligheid bij buitengewone belastingcombinaties
 
 Een bouwwerk heeft een constructie die niet disproportioneel bezwijkt door de gecombineerde permanente belasting, veranderlijke belasting en de relevante incidentele belastingen.
 
-#### Artikel 2.3. Constructieve veiligheid bij brand
+##### Artikel 2.3. Constructieve veiligheid bij brand
 
 Een bouwwerk heeft een constructie die zodanig is dat het bouwwerk bij brand gedurende redelijke tijd kan worden verlaten en doorzocht, zonder dat er gevaar voor instorting is.
 
 #### § 2.2. Gebruiksveiligheid
 
-#### Artikel 2.4. Afscheiding van vloer, trap en hellingbaan
+##### Artikel 2.4. Afscheiding van vloer, trap en hellingbaan
 
 Een bouwwerk heeft voorzieningen waardoor het vallen van personen van een vloer, een trap of een hellingbaan zo veel mogelijk wordt voorkomen.
 
-#### Artikel 2.5. Overbruggen van hoogteverschillen
+##### Artikel 2.5. Overbruggen van hoogteverschillen
 
 Een bouwwerk heeft voorzieningen voor het veilig overbruggen van hoogteverschillen door personen.
 
 #### § 2.3. Veiligheid gebouwinstallaties
 
-#### Artikel 2.6. Energie
+##### Artikel 2.6. Energie
 
 Een voorziening van een bouwwerk voor het afnemen en gebruiken van energie is veilig.
 
 #### § 2.4. Brandveiligheid
 
-#### Artikel 2.7. Ontwikkeling van brand en rook
+##### Artikel 2.7. Ontwikkeling van brand en rook
 
 Een bouwwerk is zodanig dat brand en rook niet snel ontstaan en zich niet snel kunnen ontwikkelen.
 
-#### Artikel 2.8. Beperking van uitbreiding van brand
+##### Artikel 2.8. Beperking van uitbreiding van brand
 
 Een bouwwerk is zodanig dat de kans op een snelle uitbreiding van brand voldoende wordt beperkt.
 
-#### Artikel 2.9. Beperking van verspreiding van rook
+##### Artikel 2.9. Beperking van verspreiding van rook
 
 Een bouwwerk is zodanig dat verspreiding van rook voldoende wordt beperkt.
 
-#### Artikel 2.10. Vluchtroutes bij brand
+##### Artikel 2.10. Vluchtroutes bij brand
 
 Een bouwwerk heeft zodanige vluchtroutes dat bij brand een veilige plaats kan worden bereikt.
 
-#### Artikel 2.11. Noodverlichting
+##### Artikel 2.11. Noodverlichting
 
 Een bouwwerk heeft een zodanige verlichtingsinstallatie dat het bouwwerk veilig kan worden verlaten.
 
-#### Artikel 2.12. Brandmeldinstallaties
+##### Artikel 2.12. Brandmeldinstallaties
 
 Een bouwwerk heeft zodanige voorzieningen dat brand tijdig kan worden ontdekt zodat veilig kan worden gevlucht.
 
-#### Artikel 2.13. Voorzieningen voor vluchten
+##### Artikel 2.13. Voorzieningen voor vluchten
 
 Een bouwwerk heeft zodanige voorzieningen dat het vluchten tijdig kan beginnen.
 
-#### Artikel 2.14. Voorzieningen bestrijding van brand
+##### Artikel 2.14. Voorzieningen bestrijding van brand
 
 Een bouwwerk heeft zodanige voorzieningen voor de bestrijding van brand, dat brand binnen een redelijke tijd kan worden bestreden.
 
-#### Artikel 2.15. Bereikbaarheid hulpverleningsdiensten
+##### Artikel 2.15. Bereikbaarheid hulpverleningsdiensten
 
 Een bouwwerk is zodanig bereikbaar voor hulpverleningsdiensten dat tijdig bluswerkzaamheden kunnen worden uitgevoerd en hulp kan worden verleend.
 
@@ -198,47 +224,47 @@ Een bouwwerk is zodanig bereikbaar voor hulpverleningsdiensten dat tijdig bluswe
 
 #### § 3.1. Binnenmilieu
 
-#### Artikel 3.1. Toevoer van verbrandingslucht en afvoer van rookgas
+##### Artikel 3.1. Toevoer van verbrandingslucht en afvoer van rookgas
 
 Een bouwwerk met een opstelplaats voor een verbrandingstoestel heeft zodanige voorzieningen voor de toevoer van verbrandingslucht en de afvoer van rookgas, dat een voor de gezondheid nadelige kwaliteit van de binnenlucht wordt voorkomen.
 
 #### § 3.2. Voorzieningen
 
-#### Artikel 3.2. Watervoorziening
+##### Artikel 3.2. Watervoorziening
 
 Een voorziening voor drinkwater of warm water van een bouwwerk beïnvloedt de gezondheid niet nadelig.
 
-#### Artikel 3.3. Afvoervoorziening
+##### Artikel 3.3. Afvoervoorziening
 
 Een bouwwerk heeft een zodanige voorziening voor de afvoer van huishoudelijk afvalwater of hemelwater dat het water zonder nadelige gevolgen voor de gezondheid kan worden afgevoerd.
 
 ### Hoofdstuk 4. Technische voorschriften uit het oogpunt van bruikbaarheid
 
-#### Artikel 4.1. Toegankelijkheid
+##### Artikel 4.1. Toegankelijkheid
 
 Een voor publiek toegankelijk bouwwerk heeft, afhankelijk van de bestemming en voor zover dit technisch en economisch haalbaar is, voorzieningen waarmee het voor publiek toegankelijke deel van dit bouwwerk toegankelijk is voor mindervaliden.
 
 ### Hoofdstuk 5. Voorschriften inzake het gebruik van bouwwerken, open erven en terreinen
 
-#### Artikel 5.1. Voorkomen van brandgevaar en ontwikkeling van brand
+##### Artikel 5.1. Voorkomen van brandgevaar en ontwikkeling van brand
 
 Het gebruik van een bouwwerk, open erf of terrein is zodanig dat het ontstaan van een brandgevaarlijke situatie en de ontwikkeling van brand wordt voorkomen.
 
-#### Artikel 5.2. Veilig vluchten bij brand
+##### Artikel 5.2. Veilig vluchten bij brand
 
 Het gebruik van een bouwwerk is zodanig dat bij brand veilig kan worden gevlucht.
 
-#### Artikel 5.3. Overige bepaling veilig en gezond gebruik
+##### Artikel 5.3. Overige bepaling veilig en gezond gebruik
 
 Het gebruik van een bouwwerk, open erf of terrein is zodanig dat hinder, gezondheidsrisico’s en andere veiligheidsrisico’s dan brandveiligheidsrisico’s voor personen in voldoende mate worden beperkt.
 
 ### Hoofdstuk 6. Bijzondere bepalingen
 
-#### Artikel 6.1. Aanschrijving
+##### Artikel 6.1. Aanschrijving
 
 Indien de staat of het gebruik van een bestaand bouwwerk tot gevaar voor de gezondheid of veiligheid kan leiden, kan het bestuurscollege degene die als eigenaar dan wel uit andere hoofde bevoegd is tot het treffen van voorzieningen aan dat bouwwerk verplichten tot het binnen een door het bestuurscollege te bepalen termijn treffen van dusdanige voorzieningen dat er geen sprake meer kan zijn van gevaar voor de gezondheid of veiligheid.
 
-#### Artikel 6.2. Nadere voorschriften
+##### Artikel 6.2. Nadere voorschriften
 
 Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent het bepaalde in de [hoofdstukken 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=2&z=2017-07-01&g=2017-07-01) en [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=6&artikel=6.1&z=2017-07-01&g=2017-07-01).
 
@@ -246,17 +272,17 @@ Bij ministeriële regeling kunnen nadere voorschriften worden gegeven omtrent he
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 8.1. Overgangsrecht
+##### Artikel 8.1. Overgangsrecht
 
 Met betrekking tot een aanvraag om bouwvergunning of gebruiksvergunning, of een gebruiksmelding, ingediend of gedaan voor het tijdstip van inwerkingtreding van dit besluit, alsmede met betrekking tot enig bezwaar of beroep, ingesteld tegen een beslissing omtrent een dergelijke aanvraag of melding, blijft het recht dat gold op het tijdstip waarop de aanvraag werd ingediend of de melding werd gedaan van toepassing.
 
-#### Artikel 8.2. Inwerkingtreding
+##### Artikel 8.2. Inwerkingtreding
 
 1. Dit besluit, met uitzondering van [artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=7&artikel=7.1&z=2017-07-01&g=2017-07-01), treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 2. [Artikel 7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0036000&hoofdstuk=7&artikel=7.1&z=2017-07-01&g=2017-07-01) treedt in werking met ingang van 1 januari 2015.
 
-#### Artikel 8.3. Citeertitel
+##### Artikel 8.3. Citeertitel
 
 Dit besluit wordt aangehaald als: BES Bouwbesluit.
 

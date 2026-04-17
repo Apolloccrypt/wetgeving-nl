@@ -1,13 +1,36 @@
 ---
-title: "Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor het verstrekken van passagiersgegevens door luchtvaartmaatschappijen op basis van de wet Passenger Name Records (PNR-wet)"
+title: "Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor verstrekken passagiersgegevens door luchtvaartmaatschappijen op basis van wet Passenger Name Records (PNR-wet)"
 identifier: "BWBR0042303"
-categorie: "Strafrecht"
-publicatiedatum: 2019-11-01
-laatste_update: 2019-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042303"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-11-01"
+last_updated: "2019-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042303"
+soort: "beleidsregel"
+stam_id: "15096223"
+version_id: "25877492"
+internal_id: "C36881361"
+label_id: "15044594"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042303/2019-11-01/0"
+intitule_bron: "Stcrt.2019-33097"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-06-18"
+intitule_in_force: "2019-06-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-33097"
+original_published_date: "2019-06-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-33097"
+entry_into_force_date: "2019-11-01"
+jci_1_3: "jci1.3:c:BWBR0042303&z=2019-11-01&g=2019-11-01"
+jci_1_0: "1.0:c:BWBR0042303&g=2019-11-01"
+citeertitel_status: "redactioneel"
+short_title: "Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor het verstrekken van passagiersgegevens door luchtvaartmaatschappijen op basis van de wet Passenger Name Records (PNR-wet)"
+entry_into_force: "2019-11-01"
 ---
-
 # Richtlijn voor strafvordering strafrechtelijke aansprakelijkheid voor verstrekken passagiersgegevens door luchtvaartmaatschappijen op basis van wet Passenger Name Records (PNR-wet)
 
 Deze richtlijn wordt gelijktijdig gepubliceerd met de inwerkingtreding van de [PNR-wet](https://wetten.overheid.nl/jci1.3:c:BWBR0042301).

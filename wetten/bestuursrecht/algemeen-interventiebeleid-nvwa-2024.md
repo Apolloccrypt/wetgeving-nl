@@ -1,13 +1,39 @@
 ---
-title: "Algemeen interventiebeleid NVWA 2024"
+title: "Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, namens de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister en Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Economische Zaken en Klimaat, de Minister voor Natuur en Stikstof, de Minister van Infrastructuur en Waterstaat en de Minister van Justitie en Veiligheid van 19 december 2023, nr. NVWA/2023/5424, tot vaststelling van het algemene toezichts- en interventiekader voor de Nederlandse Voedsel- en Warenautoriteit (Algemeen interventiebeleid NVWA 2024)"
 identifier: "BWBR0049215"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-13
-laatste_update: 2024-01-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049215"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-13"
+last_updated: "2024-01-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049215"
+soort: "beleidsregel"
+stam_id: "16995373"
+version_id: "29889872"
+internal_id: "C42852461"
+label_id: "16905934"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049215/2024-01-13/0"
+intitule_bron: "Stcrt.2024-188"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-19"
+intitule_published: "2024-01-12"
+intitule_in_force: "2024-01-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-188"
+original_signed_date: "2023-12-19"
+original_published_date: "2024-01-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-188"
+entry_into_force_date: "2024-01-13"
+jci_1_3: "jci1.3:c:BWBR0049215&z=2024-01-13&g=2024-01-13"
+jci_1_0: "1.0:c:BWBR0049215&g=2024-01-13"
+citeertitel_status: "officieel"
+short_title: "Algemeen interventiebeleid NVWA 2024"
+signed_date: "2023-12-19"
+entry_into_force: "2024-01-13"
 ---
-
 # Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit, namens de Minister van Landbouw, Natuur en Voedselkwaliteit, de Minister en Staatssecretaris van Volksgezondheid, Welzijn en Sport, de Minister van Economische Zaken en Klimaat, de Minister voor Natuur en Stikstof, de Minister van Infrastructuur en Waterstaat en de Minister van Justitie en Veiligheid van 19 december 2023, nr. NVWA/2023/5424, tot vaststelling van het algemene toezichts- en interventiekader voor de Nederlandse Voedsel- en Warenautoriteit (Algemeen interventiebeleid NVWA 2024)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 25 van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=25), [artikel 18.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=18.4), [artikel 13 van de Tabaks- en rookwarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004302&artikel=13), [artikel 41 van de Alcoholwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002458&artikel=41), [artikel 100 van de Geneesmiddelenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0021505&artikel=100), [artikel 8 van de Wet experiment gesloten coffeeshopketen](https://wetten.overheid.nl/jci1.3:c:BWBR0042818&artikel=8), [artikel 8.1 van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.1), [artikel 47 van de Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004054&artikel=47), [artikel 22 van de Plantgezondheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0043194&artikel=22), [artikel 82 van de Wet gewasmiddelenbescherming en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=82), [artikel 54a van de Visserijwet 1963](https://wetten.overheid.nl/jci1.3:c:BWBR0002416&artikel=54a), [artikel 48a van de Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252&artikel=48a), [artikel 15 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=15), [artikel 20 van de Wet op de dierproeven](https://wetten.overheid.nl/jci1.3:c:BWBR0003081&artikel=20), [artikel 4, vierde lid, onderdeel a, van de Wet implementatie Nagoya Protocol](https://wetten.overheid.nl/jci1.3:c:BWBR0037150&artikel=4), [artikel 89 van de Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040&artikel=89), artikel 7.1 van de Wet natuurbescherming, [artikel 31 van de Wet uitvoering EU-handelingen energie-efficiëntie](https://wetten.overheid.nl/jci1.3:c:BWBR0029672&artikel=31), artikel 5.10 van de Wet algemene bepalingen omgevingsrecht, [artikel 64 van de Wet publieke gezondheid](https://wetten.overheid.nl/jci1.3:c:BWBR0024705&artikel=64), [artikel 5 van de Wet verbod pelsdierhouderij](https://wetten.overheid.nl/jci1.3:c:BWBR0032739&artikel=5), [artikel 58 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58), [artikel 8 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=8), [artikel 24, tweede lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=24), [artikel 8:1, tweede lid, van de Arbeidstijdenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007671&artikel=8:1);
@@ -18,7 +44,7 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - j. **verscherpt toezicht:** intensiever toezicht op de naleving van wet- en regelgeving gericht op verbeterde naleving.
 
-#### Artikel 1.2. Reikwijdte beleidsregel
+##### Artikel 1.2. Reikwijdte beleidsregel
 
 1. Het interventiebeleid van de NVWA is van toepassing op:
 
@@ -54,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Uitgangspunten
 
-#### Artikel 2.1. Uitgangspunten beleidsregel
+##### Artikel 2.1. Uitgangspunten beleidsregel
 
 De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 
@@ -70,13 +96,13 @@ De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 
 ### Hoofdstuk 3. Toezicht
 
-#### Artikel 3.1. Algemene kenmerken van toezicht
+##### Artikel 3.1. Algemene kenmerken van toezicht
 
 1. Het toezicht van de NVWA heeft betrekking op fysieke en online activiteiten.
 
 2. Toezicht op internethandel vormt een onderdeel van het toezicht van de NVWA.
 
-#### Artikel 3.2. Frequentie van toezicht
+##### Artikel 3.2. Frequentie van toezicht
 
 1. De NVWA houdt toezicht met een frequentie die passend is voor de risico’s voor voedselveiligheid, diergezondheid, dierenwelzijn, natuur en milieu, plantgezondheid, productveiligheid of tabaks- en alcoholontmoediging die overtredingen met zich meebrengen.
 
@@ -84,7 +110,7 @@ De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 
 3. Van hoogfrequent toezicht is sprake wanneer de aanwezigheid op een bedrijf gedurende ten minste tweemaal per week van ten minste één toezichthouder tijdens de bedrijfsactiviteiten wettelijk is vereist of op grond van een risicobeoordeling door de NVWA passend wordt geacht.
 
-#### Artikel 3.3. Verscherpt toezicht
+##### Artikel 3.3. Verscherpt toezicht
 
 1. De NVWA kan overgaan tot verscherpt toezicht indien eerdere interventies onvoldoende tot naleving hebben geleid en:
 
@@ -98,7 +124,7 @@ De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 
 4. Over de beëindiging van verscherpt toezicht wordt de overtreder schriftelijk geïnformeerd.
 
-#### Artikel 3.4. Informeren over geconstateerde overtredingen
+##### Artikel 3.4. Informeren over geconstateerde overtredingen
 
 1. Na de uitvoering van toezicht door de NVWA wordt de overtreder of zijn wettelijke vertegenwoordiger geïnformeerd over overtredingen die zijn geconstateerd.
 
@@ -106,7 +132,7 @@ De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 
 ### Hoofdstuk 4. Overtredingen
 
-#### Artikel 4.1. Overtredingsklassen
+##### Artikel 4.1. Overtredingsklassen
 
 1. Overtredingen zijn ingedeeld in klassen naar zwaarte van de overtreding.
 
@@ -126,11 +152,11 @@ De regels in deze beleidsregel zijn gebaseerd op de volgende uitgangspunten:
 | Middelzwaar | Overtreding met (mogelijke) gevolgen voor voedselveiligheid, diergezondheid, dierenwelzijn, natuur en milieu, plantgezondheid, productveiligheid of tabaks- en alcoholontmoediging, niet zijnde een zware of lichte overtreding | **Overige Interventie** Officiële waarschuwing **Bestraffende sanctie** Bij herhaalde overtreding **Corrigerende interventie** **Nalevingshulp** |
 | Licht | Overtreding met (mogelijke) geringe gevolgen voor voedselveiligheid, diergezondheid, dierenwelzijn, natuur en milieu, plantgezondheid, productveiligheid of tabaks- en alcoholontmoediging | **Overige interventie** Mondelinge of schriftelijke terugkoppeling **Bestraffende sanctie** Bij herhaalde overtreding zonodig interventie volgens overtredings-klasse middelzwaar. Zie [artikel 4.4](https://wetten.overheid.nl/jci1.3:c:BWBR0049215&hoofdstuk=4&artikel=4.4&z=2024-01-13&g=2024-01-13) **Corrigerende interventie** Bij herhaalde overtreding zonodig interventie volgens overtredings-klasse middelzwaar. Zie artikel 4.4 **Nalevingshulp** |
 
-#### Artikel 4.2. Overtreden medewerkingsplicht
+##### Artikel 4.2. Overtreden medewerkingsplicht
 
 Overtreding van [artikel 5:20, eerste lid, van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) valt onder de overtredingsklasse zware overtreding.
 
-#### Artikel 4.3. Herhaalde overtreding
+##### Artikel 4.3. Herhaalde overtreding
 
 1. Als herhaalde overtreding wordt aangemerkt een overtreding van dezelfde wettelijke norm, of van een wettelijke norm die betrekking heeft op vergelijkbare gedragingen, die bij de overtreder binnen de daaraan voorafgaande periode van twee jaren eerder is geconstateerd.
 
@@ -138,7 +164,7 @@ Overtreding van [artikel 5:20, eerste lid, van de Awb](https://wetten.overheid.n
 
 3. Voor bedrijven met hoogfrequent en permanent toezicht kan in specifiek interventiebeleid van de voorafgaande periode, bedoeld in het eerste lid, worden afgeweken.
 
-#### Artikel 4.4. Herhaalde lichte overtreding
+##### Artikel 4.4. Herhaalde lichte overtreding
 
 Indien er sprake is van een herhaalde lichte overtreding, kan de herhaalde overtreding worden afgehandeld als een middelzware overtreding. Hierbij wordt tenminste rekening gehouden met:
 
@@ -152,17 +178,17 @@ Indien er sprake is van een herhaalde lichte overtreding, kan de herhaalde overt
 
 #### § 5.1. Instrumentarium
 
-#### Artikel 5.1. Interventies in bestuursrecht en strafrecht
+##### Artikel 5.1. Interventies in bestuursrecht en strafrecht
 
 Afhankelijk van hetgeen daarover bepaald is in de toepasselijke wet- en regelgeving kan de NVWA bestuursrechtelijk of strafrechtelijk handhaven.
 
-#### Artikel 5.2. Nalevingshulp
+##### Artikel 5.2. Nalevingshulp
 
 1. Nalevingshulp bestaat uit het verstrekken van informatie aan de overtreder om deze te helpen met het begrijpen en bewust naleven van de wet- en regelgeving.
 
 2. Nalevingshulp is een bijkomende interventie die door de toezichthouder naar eigen inzicht mondeling of schriftelijk kan worden ingezet in alle gevallen waarin is vastgesteld dat er sprake is van een overtreding.
 
-#### Artikel 5.3. Officiële waarschuwing
+##### Artikel 5.3. Officiële waarschuwing
 
 1. Met een officiële waarschuwing wordt de overtreder erop gewezen welke overtreding hij heeft begaan en dat hij bij herhaling ervan verdergaande interventies kan verwachten.
 
@@ -182,7 +208,7 @@ Afhankelijk van hetgeen daarover bepaald is in de toepasselijke wet- en regelgev
 
 4. Voorafgaand aan een officiële waarschuwing kan de toezichthouder de overtreder kennis geven van de geconstateerde overtreding. Het tijdstip waarop deze kennisgeving is gedaan, geldt als het tijdstip waarop de officiële waarschuwing is gegeven.
 
-#### Artikel 5.4. Meerdere overtredingen tijdens één inspectie – stapeling
+##### Artikel 5.4. Meerdere overtredingen tijdens één inspectie – stapeling
 
 1. Alle overtredingen die tijdens een (her)inspectie worden geconstateerd en die kunnen leiden tot een bestuurlijke boete worden opgenomen in het rapport van bevindingen, de boetebeschikking of het voornemen daartoe.
 
@@ -194,7 +220,7 @@ Afhankelijk van hetgeen daarover bepaald is in de toepasselijke wet- en regelgev
 
 #### § 5.2. Interventiekeuze
 
-#### Artikel 5.5. Toepassen corrigerende interventie
+##### Artikel 5.5. Toepassen corrigerende interventie
 
 Voor welke corrigerende interventie gekozen wordt, verschilt van geval tot geval. De gekozen corrigerende interventie is evenredig. Dit betekent het volgende:
 
@@ -204,11 +230,11 @@ Voor welke corrigerende interventie gekozen wordt, verschilt van geval tot geval
 
 - c. de interventie is proportioneel, dat wil zeggen de interventie heeft geen onnodig nadelige gevolgen voor de overtreder.
 
-#### Artikel 5.6. Toepassen meerdere interventies
+##### Artikel 5.6. Toepassen meerdere interventies
 
 Er wordt zowel een herstelsanctie als een bestraffende sanctie opgelegd als het enkel opleggen van een van deze sancties niet of onvoldoende doeltreffend, evenredig en afschrikkend is.
 
-#### Artikel 5.7. Interventies in bijzondere situaties
+##### Artikel 5.7. Interventies in bijzondere situaties
 
 1. Als een overtreding wordt vastgesteld en er is sprake van een bijzondere situatie, kan de NVWA rekening houden met bijzondere verzachtende of verzwarende omstandigheden, wat kan leiden tot een of meer lichtere of zwaardere interventies.
 
@@ -216,25 +242,25 @@ Er wordt zowel een herstelsanctie als een bestraffende sanctie opgelegd als het 
 
 3. Het toepassen in bijzondere situaties wordt terughoudend ingezet. De toezichthouder betrekt zijn teamleider bij de afweging of er sprake is van een bijzondere situatie.
 
-#### Artikel 5.8. Experimenteerruimte
+##### Artikel 5.8. Experimenteerruimte
 
 De NVWA kan, onder aan de betrokkene te stellen voorschriften en beperkingen, gedurende de looptijd van een experiment afwijken van de volgens het interventiebeleid op te leggen interventies.
 
-#### Artikel 5.9. Private controlesystemen
+##### Artikel 5.9. Private controlesystemen
 
 In specifiek interventiebeleid kan nader worden geregeld welke interventies kunnen worden toegepast ten aanzien van bedrijven met een privaatrechtelijk controlesysteem.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 6.1. Intrekking
+##### Artikel 6.1. Intrekking
 
 Het [Algemeen Interventiebeleid NVWA](https://wetten.overheid.nl/jci1.3:c:BWBR0038207) (Stcrt. 2016, 35103) wordt ingetrokken.
 
-#### Artikel 6.2. Inwerkingtreding
+##### Artikel 6.2. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 6.3. Citeertitel
+##### Artikel 6.3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Algemeen interventiebeleid NVWA 2024.
 

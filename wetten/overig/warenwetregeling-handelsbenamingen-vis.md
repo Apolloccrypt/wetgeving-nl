@@ -1,28 +1,54 @@
 ---
-title: "Warenwetregeling handelsbenamingen vis"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2005, nr. VGP/VL 2637022, houdende de Warenwetregeling handelsbenamingen vis"
 identifier: "BWBR0019099"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019099"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019099"
+soort: "ministeriele-regeling"
+stam_id: "7621873"
+version_id: "12512182"
+internal_id: "C16789031"
+label_id: "7609574"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019099/2025-01-01/0"
+intitule_bron: "Stcrt.2005-231"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-22"
+intitule_published: "2005-11-28"
+intitule_in_force: "2005-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-231"
+original_signed_date: "2005-11-22"
+original_published_date: "2005-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-231-p14-SC72468"
+entry_into_force_date: "2006-01-01"
+jci_1_3: "jci1.3:c:BWBR0019099&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0019099&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling handelsbenamingen vis"
+signed_date: "2005-11-22"
+entry_into_force: "2006-01-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 november 2005, nr. VGP/VL 2637022, houdende de Warenwetregeling handelsbenamingen vis
 
 Gelet op [artikel 9a van het Warenwetbesluit Visserijproducten, slakken en kikkerbillen](https://wetten.overheid.nl/jci1.3:c:BWBR0007216&artikel=9a);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De lijst met handelsbenamingen, bedoeld in artikel 37, eerste lid, van verordening (EU) 1379/2013, is opgenomen in de bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van 1 januari 2006.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Warenwetregeling handelsbenamingen vis.
 

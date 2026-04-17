@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2014"
+title: "Regeling van de Minister van Economische Zaken van 24 maart 2015, nr. WJZ/15018116, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2014 (Regeling vaststelling definitieve correcties duurzame energieproductie 2014)"
 identifier: "BWBR0036459"
-categorie: "Overig"
-publicatiedatum: 2015-03-27
-laatste_update: 2015-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036459"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-03-27"
+last_updated: "2015-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036459"
+soort: "ministeriele-regeling"
+stam_id: "13121713"
+version_id: "22356142"
+internal_id: "C32006191"
+label_id: "13090494"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036459/2015-03-27/0"
+intitule_bron: "Stcrt.2015-8446"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-24"
+intitule_published: "2015-03-26"
+intitule_in_force: "2015-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-8446"
+original_signed_date: "2015-03-24"
+original_published_date: "2015-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-8446"
+entry_into_force_date: "2015-03-27"
+jci_1_3: "jci1.3:c:BWBR0036459&z=2015-03-27&g=2015-03-27"
+jci_1_0: "1.0:c:BWBR0036459&g=2015-03-27"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie 2014"
+signed_date: "2015-03-24"
+entry_into_force: "2015-03-27"
 ---
-
 # Regeling van de Minister van Economische Zaken van 24 maart 2015, nr. WJZ/15018116, houdende vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie in het jaar 2014 (Regeling vaststelling definitieve correcties duurzame energieproductie 2014)
 
 Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31) en [47, vierde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2014 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -133,7 +159,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034817&artikel=15) | Osmose | € 0,041 per kWh | € 0 per kWh |
 | [Artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034817&artikel=17) | Vrije stromingsenergie | € 0,041 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2014 vastgesteld voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -144,7 +170,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2014 vastgesteld voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -199,7 +225,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2014 vastgesteld voor wat betreft de energieprijs, bedoeld in [artikel 47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 47, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -264,11 +290,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie 2014.
 

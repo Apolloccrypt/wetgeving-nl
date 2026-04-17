@@ -1,13 +1,39 @@
 ---
-title: "Regeling veiligheidstoets investeringen, fusies en overnames"
+title: "Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Justitie en Veiligheid van 17 mei 2023, nr. WJZ/ 22390627, houdende voorschriften met betrekking tot de melding van een verwervingsactiviteit (Regeling veiligheidstoets investeringen, fusies en overnames)"
 identifier: "BWBR0048210"
-categorie: "Overig"
-publicatiedatum: 2023-06-01
-laatste_update: 2023-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048210"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-06-01"
+last_updated: "2023-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048210"
+soort: "ministeriele-regeling"
+stam_id: "16756443"
+version_id: "29427132"
+internal_id: "C42081431"
+label_id: "16672404"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048210/2023-06-01/0"
+intitule_bron: "Stcrt.2023-14781"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-05-17"
+intitule_published: "2023-05-31"
+intitule_in_force: "2023-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-14781"
+original_signed_date: "2023-05-17"
+original_published_date: "2023-05-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-14781"
+entry_into_force_date: "2023-06-01"
+jci_1_3: "jci1.3:c:BWBR0048210&z=2023-06-01&g=2023-06-01"
+jci_1_0: "1.0:c:BWBR0048210&g=2023-06-01"
+citeertitel_status: "officieel"
+short_title: "Regeling veiligheidstoets investeringen, fusies en overnames"
+signed_date: "2023-05-17"
+entry_into_force: "2023-06-01"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat en de Minister van Justitie en Veiligheid van 17 mei 2023, nr. WJZ/ 22390627, houdende voorschriften met betrekking tot de melding van een verwervingsactiviteit (Regeling veiligheidstoets investeringen, fusies en overnames)
 
 Gelet op de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=22) en [34, dertiende lid, van de Wet veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=34), en de [artikelen 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=2), en [3, tweede lid, van het Besluit veiligheidstoets, investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=3);
@@ -16,11 +42,11 @@ Besluiten:
 
 Treedt in werking op het tijdstip waarop het Besluit veiligheidstoets investeringen, fusies en overnames in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt onder **besluit** verstaan: [Besluit veiligheidstoets investeringen, fusies en overnames](https://wetten.overheid.nl/jci1.3:c:BWBR0048204).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als formulier, bedoeld in [artikel 2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=2), wordt vastgesteld het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048210&bijlage=1&z=2023-06-01&g=2023-06-01) opgenomen meldingsformulier.
 
@@ -32,25 +58,25 @@ In deze regeling wordt onder **besluit** verstaan: [Besluit veiligheidstoets inv
 
 - b. door persoonlijke overhandiging op werkdagen tussen 8.00 uur en 17.00 uur op het volgende adres: Ministerie van Economische Zaken en Klimaat t.a.v. Bureau Toetsing Investeringen Bezuidenhoutseweg 73 2594 AC Den Haag.
 
-#### Artikel 3
+##### Artikel 3
 
 De gegevens en bescheiden waarnaar de meldingsplichtige op grond van [artikel 3, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048204&artikel=3), mag verwijzen, zijn de documenten, bedoeld in [artikel 8 van de Regeling gegevensverstrekking Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0035324&artikel=8).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder openbare registers, bedoeld in [artikel 34, derde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=34), worden verstaan de registers, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048210&bijlage=2&z=2023-06-01&g=2023-06-01).
 
 2. Onder openbare informatie, bedoeld in [artikel 34, derde lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=34), wordt verstaan: openbare jaarrekeningen en jaarverslagen van ondernemingen, databanken, mediaberichten, websites, socialmedia-accounts, buitenlandse registers die naar het oordeel van de minister gelijksoortig zijn aan de registers, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048210&bijlage=2&z=2023-06-01&g=2023-06-01), en andere informatie die voor eenieder toegankelijk is.
 
-#### Artikel 5
+##### Artikel 5
 
 Als misdrijven als bedoeld in [artikel 22, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0046747&artikel=22), worden vastgesteld de misdrijven, genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048210&bijlage=3&z=2023-06-01&g=2023-06-01).
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking op het tijdstip dat het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048204) in werking treedt.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling veiligheidstoets investeringen, fusies en overnames.
 

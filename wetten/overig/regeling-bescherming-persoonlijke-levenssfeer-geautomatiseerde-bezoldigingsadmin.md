@@ -1,22 +1,46 @@
 ---
 title: "Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986"
 identifier: "BWBR0003988"
-categorie: "Overig"
-publicatiedatum: 1986-08-01
-laatste_update: 1986-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003988"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1986-08-01"
+last_updated: "1986-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003988"
+soort: "ministeriele-regeling"
+stam_id: "3745253"
+version_id: "5528232"
+internal_id: "C5721321"
+label_id: "3725114"
+dtd_version: "2.0"
+original_entry_into_force: "1986-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003988/1986-08-01/0"
+intitule_bron: "Stcrt.1986-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-06-18"
+intitule_published: "1986-06-27"
+intitule_in_force: "1986-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1986-121"
+original_signed_date: "1986-06-18"
+original_published_date: "1986-06-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1986-08-01"
+jci_1_3: "jci1.3:c:BWBR0003988&z=1986-08-01&g=1986-08-01"
+jci_1_0: "1.0:c:BWBR0003988&g=1986-08-01"
+citeertitel_status: "officieel"
+signed_date: "1986-06-18"
+entry_into_force: "1986-08-01"
 ---
-
 # Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986
 
 Gelet op de [Aanwijzingen van de minister-president van 7 maart 1975 (Stcrt. 50) inzake de bescherming van de persoonlijke levenssfeer in verband met de geautomatiseerde systemen, waarin personeelsgegevens zijn opgenomen, bij de rijksoverheid](https://wetten.overheid.nl/jci1.3:c:BWBR0002958);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
-#### Artikel 2. Doelstelling der registratie
+##### Artikel 2. Doelstelling der registratie
 
 De doelstelling van de registratie is het systematisch vastleggen, opslaan en ter beschikking stellen van de gegevens ten behoeve van de berekening, betaalbaarstelling en verantwoording van de bedragen en tevens het voorzien in de informatiebehoefte van diverse beleidsbepalende en uitvoerende instanties, die aan de geregistreerde toekomen op basis van:
 
@@ -24,11 +48,11 @@ De doelstelling van de registratie is het systematisch vastleggen, opslaan en te
 
 - het ‘Voorlopig Voorschrift Koninklijke Marine’ 13 en 16.
 
-#### Artikel 3. In de registratie opgenomen gegevens
+##### Artikel 3. In de registratie opgenomen gegevens
 
 De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegevens van de geregistreerde en de daaruit resulterende financiële gegevens bevatten, die zijn opgenomen in de bij deze Regeling behorende bijlage.
 
-#### Artikel 4. Verwijdering van gegevens
+##### Artikel 4. Verwijdering van gegevens
 
 1. De financiële gegevens worden verwijderd zes maanden nadat de berekening heeft plaatsgevonden waarop die gegevens betrekking hebben gehad. De financiële gegevens welke in het jaarwerk worden opgenomen, worden verwijderd na afloop van het kalenderjaar waarop deze gegevens betrekking hebben gehad.
 
@@ -36,13 +60,13 @@ De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegeve
 
 3. De verwijderde gegevens worden op magneetband voor controledoeleinden nog vijf jaren bewaard.
 
-#### Artikel 5. Functionering registratie
+##### Artikel 5. Functionering registratie
 
 1. De houder en/of de daarvoor in aanmerking komende instanties binnen de defensie-organisatie verschaffen de uitvoerder de in de registratie op te nemen gegevens, alsmede de wijzigingen die daarin dienen te worden aangebracht.
 
 2. De uitvoerder is belast met de technische verwerking van de gegevens; hij doet dit overeenkomstig de voorschriften die de houder opstelt. Voorts verstrekt hij de gegevens overeenkomstig de instructies van de houder.
 
-#### Artikel 6. Verstrekking van gegevens
+##### Artikel 6. Verstrekking van gegevens
 
 1. Periodieke verstrekking van gegevens, door of namens de houder, kan plaatsvinden aan:
 
@@ -64,7 +88,7 @@ De registratie kan omtrent de geregistreerde ten hoogste de registratieve gegeve
 
 - c. anderen voor zover de geregistreerde daarvoor toestemming heeft gegeven.
 
-#### Artikel 7. Toegang tot de registratie
+##### Artikel 7. Toegang tot de registratie
 
 Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uitsluitend en slechts binnen het kader van de hen opgedragen werkzaamheden:
 
@@ -80,7 +104,7 @@ Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uit
 
 - f. de ambtenaren van de Algemene Rekenkamer;
 
-#### Artikel 8. Recht op kennisneming
+##### Artikel 8. Recht op kennisneming
 
 1. De geregistreerde heeft recht op kosteloze kennisneming van de op hem persoonlijk betrekking hebbende gegevens, op de wijze als in lid 2 is bepaald.
 
@@ -92,7 +116,7 @@ Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uit
 
 - de houder verstrekt de aanvrager de gevraagde informatie.
 
-#### Artikel 9. Verzoek tot correctie van gegevens
+##### Artikel 9. Verzoek tot correctie van gegevens
 
 1. De geregistreerde heeft het recht om correctie te vragen van de op hem persoonlijk betrekking hebbende gegevens indien hij van oordeel is dat de opgenomen gegevens onjuist zijn of ten onrechte in de registratie zijn opgenomen, danwel gegevens ontbreken die daarin wel hadden moeten zijn opgenomen, op de wijze als in lid 2 is bepaald.
 
@@ -112,7 +136,7 @@ Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uit
 
 - de verzoeker kan zich tot de minister van Defensie wenden met bezwaren tegen een afwijzende beslissing. Indien deze de bezwaren van de verzoeker gegrond acht, laat bij alsnog de nodige correctie aanbrengen.
 
-#### Artikel 10. Beveiliging
+##### Artikel 10. Beveiliging
 
 1. De houder is er volledig verantwoordelijk voor, dat ten aanzien van de organisatie en de beveiliging alle maatregelen in acht worden genomen die zijn voorgeschreven in de Aanwijzingen van de minister-president inzake de beveiliging van persoonsgegevens verwerkt en opgeslagen in geautomatiseerde gegevensverwerkende systemen bij de Rijksoverheid van 16 juli 1982, nr. 321043.
 
@@ -120,13 +144,13 @@ Met toestemming van de houder hebben rechtstreeks toegang tot de registratie uit
 
 3. De secretaris-generaal, waaronder het G-geheel ressorteert, is uiteindelijk verantwoordelijk voor de concrete uitvoering van de beveiligingsmaatregelen.
 
-#### Artikel 11. Controle op goede werking
+##### Artikel 11. Controle op goede werking
 
 Als element van een behoorlijke bescherming van de persoonlijke levenssfeer is een onafhankelijke toezichthoudende instantie van belang ter controle op de naleving door de houder van de ter zake gestelde regels en reglementen. Met deze controle is namens de minister van Defensie belast de Directie Accountantsdienst.
 
 Aanvullende controlewerkzaamheden op de kwaliteit input en het beoordelen van het systeem worden verricht door de Algemene Rekenkamer.
 
-#### Artikel 12. Inzage van de regeling
+##### Artikel 12. Inzage van de regeling
 
 Deze regeling ligt ter inzage bij:
 
@@ -136,7 +160,7 @@ Deze regeling ligt ter inzage bij:
 
 - de Centrale Bibliotheek van het Ministerie van Justitie, Schedeldoekshaven 100, 's-Gravenhage.
 
-#### Artikel 13. Slotbepaling
+##### Artikel 13. Slotbepaling
 
 1. Deze regeling kan worden aangehaald als: ‘Regeling bescherming persoonlijke levenssfeer geautomatiseerde bezoldigingsadministratie militair personeel 1986’.
 

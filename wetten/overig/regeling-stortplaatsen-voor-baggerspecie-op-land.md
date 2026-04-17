@@ -1,13 +1,37 @@
 ---
 title: "Regeling stortplaatsen voor baggerspecie op land"
 identifier: "BWBR0012665"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012665"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012665"
+soort: "ministeriele-regeling"
+stam_id: "5153363"
+version_id: "9287492"
+internal_id: "C12379281"
+label_id: "5129474"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012665/2024-01-01/0"
+intitule_bron: "Stcrt.2001-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-09"
+intitule_published: "2001-07-13"
+intitule_in_force: "2001-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-133"
+original_signed_date: "2001-07-09"
+original_published_date: "2001-07-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-07-15"
+jci_1_3: "jci1.3:c:BWBR0012665&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0012665&g=2024-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-07-09"
+entry_into_force: "2001-07-15"
 ---
-
 # Regeling stortplaatsen voor baggerspecie op land
 
 Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
@@ -18,33 +42,33 @@ Besluit:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk II. De aanvraag om het verlenen of wijzigen van een vergunning
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
@@ -52,117 +76,117 @@ Vervallen
 
 #### § 1. Algemeen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 #### § 2. De aanvang van de exploitatie van de stortplaats
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
 #### § 3. De voorzieningen en de exploitatie van de stortplaats
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 #### § 4. Toezicht en controle
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 #### § 5. Registratie en verslaglegging
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 #### § 6. Financiële zekerheid
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 #### § 7. Het einde van de exploitatie van de stortplaats
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 ### Hoofdstuk IV. De nazorgfase
 
-#### Artikel 31
+##### Artikel 31
 
 Dit hoofdstuk is niet van toepassing op stortplaatsen die op grond van [artikel 8.47, derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=8.47) gesloten zijn verklaard op het tijdstip waarop deze regeling in werking treedt.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Ten aanzien van een gesloten stortplaats zijn de [artikelen 8.62g, eerste, tweede en derde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62g), [8.62h](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62h), [8.62i](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62i), [8.62k](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62k), [8.62l](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62l), [8.62m](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62m), [8.62n, eerste en tweede lid, onder h](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62n), en [8.62o van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.62o), [artikel 10.47a van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=10.47a) en de [artikelen 9.28 tot en met 9.32 van de Omgevingsregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0045528&artikel=9.28) van overeenkomstige toepassing, met dien verstande dat:
 
@@ -174,39 +198,39 @@ Dit hoofdstuk is niet van toepassing op stortplaatsen die op grond van [artikel 
 
 ### Hoofdstuk V. Bepalingen voor bestaande stortplaatsen voor baggerspecie op land
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
 ### Hoofdstuk VI. Verdere bepaling
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
@@ -437,7 +461,7 @@ Voordat de stortplaats wordt aangelegd moet de kwaliteit van het grondwater beke
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 

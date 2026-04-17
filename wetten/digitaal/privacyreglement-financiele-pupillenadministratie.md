@@ -1,13 +1,37 @@
 ---
 title: "Privacyreglement financiële pupillenadministratie"
 identifier: "BWBR0004803"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1990-07-01
-laatste_update: 1990-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004803"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-07-01"
+last_updated: "1990-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004803"
+soort: "ministeriele-regeling"
+stam_id: "3738963"
+version_id: "5522002"
+internal_id: "C5715091"
+label_id: "3718884"
+dtd_version: "2.0"
+original_entry_into_force: "1990-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004803/1990-07-01/0"
+intitule_bron: "Stcrt.1990-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-25"
+intitule_published: "1990-06-28"
+intitule_in_force: "1990-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-123"
+original_signed_date: "1990-06-25"
+original_published_date: "1990-06-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-07-01"
+jci_1_3: "jci1.3:c:BWBR0004803&z=1990-07-01&g=1990-07-01"
+jci_1_0: "1.0:c:BWBR0004803&g=1990-07-01"
+citeertitel_status: "officieel"
+signed_date: "1990-06-25"
+entry_into_force: "1990-07-01"
 ---
-
 # Privacyreglement financiële pupillenadministratie
 
 Overwegende dat ingevolge de artikelen 19, 20 en 22 van de Wet persoonsregistraties (Stb. 1988, 665) een reglement dient te worden vastgesteld voor de financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;
@@ -16,29 +40,29 @@ Besluit het volgende reglement vast te stellen:
 
 #### Par. 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 De registratie heeft ten doel het vastleggen van gegevens, noodzakelijk voor het doen van betalingen aan autoriteiten, diensten en instellingen, ten behoeve van jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. De houder is verantwoordelijk voor het beheer en het goed functioneren van de registratie en treft daartoe de nodige voorzieningen op het gebied van organisatie en beveiliging.
 
 2. De beheerder is belast met de dagelijkse leiding van de werkzaamheden.
 
-#### Artikel 4. Invoer en verwerking van de gegevens
+##### Artikel 4. Invoer en verwerking van de gegevens
 
 De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling of verwijdering daarvan, geschiedt bij de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering door daartoe door de beheerder van de registratie aangewezen ambtenaren.
 
 #### Par. 2. Registratie en herkomst van gegevens
 
-#### Artikel 5. Personen omtrent wie gegevens zijn opgenomen
+##### Artikel 5. Personen omtrent wie gegevens zijn opgenomen
 
 In de registratie worden uitsluitend persoonsgegevens opgenomen over jeugdigen, als bedoeld in [artikel 1, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0004803&paragraaf=1&artikel=1&z=1990-07-01&g=1990-07-01), ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd.
 
-#### Artikel 6. Opgenomen gegevens
+##### Artikel 6. Opgenomen gegevens
 
 Ten aanzien van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0004803&paragraaf=2&artikel=5&z=1990-07-01&g=1990-07-01) bedoelde personen worden in de registratie ten hoogste de volgende gegevens opgenomen.
 
@@ -82,7 +106,7 @@ Ten aanzien van de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR000480
 
 - t. het documentnummer.
 
-#### Artikel 7. Herkomst van de gegevens
+##### Artikel 7. Herkomst van de gegevens
 
 De gegevens die in de registratie zijn opgenomen zijn afkomstig van:
 
@@ -96,7 +120,7 @@ De gegevens die in de registratie zijn opgenomen zijn afkomstig van:
 
 #### Par. 3. Verwijdering van gegevens
 
-#### Artikel 8. Verwijdering van opgenomen gegevens
+##### Artikel 8. Verwijdering van opgenomen gegevens
 
 1. Verwijdering van opgenomen gegevens vindt plaats:
 
@@ -110,7 +134,7 @@ De op grond van dit lid verwijderde gegevens worden vernietigd.
 
 #### Par. 4. Toegang tot en verstrekking van gegevens uit de registratie
 
-#### Artikel 9. Rechtstreekse toegang tot de registratie
+##### Artikel 9. Rechtstreekse toegang tot de registratie
 
 Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daarin opgenomen persoonsgegevens is, voor zover nodig voor de uitoefening van hun taak en met inachtneming van het doel waarvoor de gegevens zijn verzameld, voorbehouden aan de volgende personen en instanties:
 
@@ -120,7 +144,7 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 - de door de beheerder aangewezen ambtenaren van de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering
 
-#### Artikel 10. Personen instellingen en instanties aan wie gegevens worden verstrekt
+##### Artikel 10. Personen instellingen en instanties aan wie gegevens worden verstrekt
 
 1. Uit de registratie worden uitsluitend aan de volgende pesonen, instelling of instanties persoonsgegevens verstrekt:
 
@@ -152,7 +176,7 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 #### Par. 5. Kennisneming en correctie van opgenomen gegevens
 
-#### Artikel 11. Recht op kennisneming door geregistreerde van opgenomen persoonsgegevens
+##### Artikel 11. Recht op kennisneming door geregistreerde van opgenomen persoonsgegevens
 
 1. De geregistreerde of – indien deze de leeftijd van zestien jaren nog niet heeft bereikt dan wel onder curatele is gesteld – diens wettelijke vertegenwoordiger, kan de houder verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende persoonsgegevens zijn opgenomen.
 
@@ -168,7 +192,7 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 7. Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.
 
-#### Artikel 12. Correctierecht van geregistreerde met betrekking tot opgenomen persoonsgegevens
+##### Artikel 12. Correctierecht van geregistreerde met betrekking tot opgenomen persoonsgegevens
 
 1. Degene aan wie overeenkomstig [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0004803&paragraaf=5&artikel=11&z=1990-07-01&g=1990-07-01) kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien deze feitelijk onjuist, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.
 
@@ -178,7 +202,7 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 4. De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 13. Kennisneming van verstrekking van gegevens
+##### Artikel 13. Kennisneming van verstrekking van gegevens
 
 1. De geregistreerde of indien deze de leeftijd van zestien jaar nog niet heeft bereikt danwel onder curatele is gesteld – diens wettelijke vertegenwoordiger kan de houder tevens verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.
 
@@ -188,13 +212,13 @@ Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daar
 
 #### Par. 6. Slotbepalingen
 
-#### Artikel 14. Bekendmaking en terinzagelegging
+##### Artikel 14. Bekendmaking en terinzagelegging
 
 1. Dit reglement wordt bekend gemaakt in de Staatscourant
 
 2. Het reglement ligt voor ieder ter inzage bij de afdeling pers- en publieksvoorlichting van het ministerie van Justitie.
 
-#### Artikel 15. Inwerkingtreding, korte aanduiding
+##### Artikel 15. Inwerkingtreding, korte aanduiding
 
 1. Dit reglement treedt in werking met ingang van 1 juli 1990.
 

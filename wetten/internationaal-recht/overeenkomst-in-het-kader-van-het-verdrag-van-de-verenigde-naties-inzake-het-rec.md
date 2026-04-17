@@ -1,13 +1,24 @@
 ---
 title: "Overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht"
 identifier: "BWBV0007029"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-06-19
-laatste_update: 2023-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007029"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-06-19"
+last_updated: "2023-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007029"
+soort: "verdrag"
+stam_id: "10005646073"
+version_id: "10006221492"
+internal_id: "C10010061111"
+label_id: "10005629644"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007029/2023-06-19/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007029&z=2023-06-19&g=2023-06-19"
+jci_1_0: "1.0:c:BWBV0007029&g=2023-06-19"
+citeertitel_status: "redactioneel"
 ---
-
 # Overeenkomst in het kader van het Verdrag van de Verenigde Naties inzake het recht van de zee, inzake het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht
 
 Preambule
@@ -52,7 +63,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Gebruikte termen
+##### Artikel 1. Gebruikte termen
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -84,19 +95,19 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - 14. „gebruik van mariene genetische bronnen”: het verrichten van onderzoek en ontwikkeling van de genetische en/of biochemische samenstelling van mariene genetische bronnen, ook middels de toepassing van biotechnologie, zoals gedefinieerd in bovenvermeld lid 3.
 
-#### Artikel 2. Algemene doelstelling
+##### Artikel 2. Algemene doelstelling
 
 Het doel van deze Overeenkomst is te zorgen voor het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, voor het heden en op lange termijn, door middel van een doeltreffende uitvoering van de desbetreffende bepalingen van het [Verdrag](onbekend) en verdere internationale samenwerking en coördinatie.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 Deze Overeenkomst is van toepassing op gebieden voorbij de grenzen van de nationale rechtsmacht.
 
-#### Artikel 4. Uitzonderingen
+##### Artikel 4. Uitzonderingen
 
 Deze Overeenkomst is niet van toepassing op oorlogsschepen, militaire vliegtuigen of marinehulpschepen. Met uitzondering van [Deel II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&z=2023-06-19&g=2023-06-19) is deze Overeenkomst niet van toepassing op andere schepen of luchtvaartuigen die eigendom zijn van of geëxploiteerd worden door een Partij en die voorlopig uitsluitend worden gebruikt voor niet-commerciële overheidsdiensten. Elke Partij ziet er evenwel op toe dat deze vaartuigen of luchtvaartuigen, door passende maatregelen vast te stellen die geen afbreuk doen aan de activiteiten of de operationele capaciteiten van dergelijke vaartuigen of luchtvaartuigen die haar eigendom zijn of door haar worden geëxploiteerd, handelen op een wijze die, voor zover redelijk en uitvoerbaar, in overeenstemming is met deze Overeenkomst.
 
-#### Artikel 5. Verhouding tussen deze Overeenkomst en het [Verdrag](onbekend) en relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
+##### Artikel 5. Verhouding tussen deze Overeenkomst en het [Verdrag](onbekend) en relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
 
 1. Deze Overeenkomst wordt uitgelegd en toegepast in de context van en in overeenstemming met het [Verdrag](onbekend). Niets in deze Overeenkomst doet afbreuk aan de rechten, rechtsmacht en plichten van staten uit hoofde van het Verdrag, ook met betrekking tot de exclusieve economische zone en het continentaal plat binnen en buiten 200 zeemijl.
 
@@ -104,11 +115,11 @@ Deze Overeenkomst is niet van toepassing op oorlogsschepen, militaire vliegtuige
 
 3. Deze Overeenkomst laat de rechtspositie van niet-Partijen bij het [Verdrag](onbekend) of andere daarmee verband houdende Overeenkomsten met betrekking tot die instrumenten onverlet.
 
-#### Artikel 6. Zonder prejudicie
+##### Artikel 6. Zonder prejudicie
 
 Deze Overeenkomst, met inbegrip van besluiten of aanbevelingen van de Conferentie van de Partijen of een van haar hulporganen, en alle op basis daarvan ondernomen handelingen, maatregelen of activiteiten, doet geen afbreuk aan en kan niet worden gebruikt als grondslag voor het geldend maken of ontkennen van aanspraken op, soevereiniteit, soevereine rechten of rechtsmacht, ook met betrekking tot geschillen die daarmee verband houden.
 
-#### Artikel 7. Algemene beginselen en benaderingen
+##### Artikel 7. Algemene beginselen en benaderingen
 
 Om de doelstellingen van deze Overeenkomst te verwezenlijken, laten de Partijen zich leiden door de volgende beginselen en benaderingen:
 
@@ -140,7 +151,7 @@ Om de doelstellingen van deze Overeenkomst te verwezenlijken, laten de Partijen 
 
 - n. erkenning van de bijzondere belangen en behoeften van niet aan zee grenzende ontwikkelingslanden.
 
-#### Artikel 8. Internationale samenwerking
+##### Artikel 8. Internationale samenwerking
 
 1. De Partijen werken in het kader van deze Overeenkomst samen voor het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, onder meer door versterking en intensivering van de samenwerking met en bevordering van de samenwerking tussen relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties bij de verwezenlijking van de doelstellingen van deze Overeenkomst.
 
@@ -150,7 +161,7 @@ Om de doelstellingen van deze Overeenkomst te verwezenlijken, laten de Partijen 
 
 ## DEEL II. MARIENE GENETISCHE BRONNEN, MET INBEGRIP VAN EEN EERLIJKE EN BILLIJKE VERDELING VAN DE VOORDELEN
 
-#### Artikel 9. Doelstellingen
+##### Artikel 9. Doelstellingen
 
 De doelstellingen van dit Deel zijn:
 
@@ -162,7 +173,7 @@ De doelstellingen van dit Deel zijn:
 
 - d. de ontwikkeling en overdracht van mariene technologie overeenkomstig deze Overeenkomst.
 
-#### Artikel 10. Toepassing
+##### Artikel 10. Toepassing
 
 1. De bepalingen van deze Overeenkomst zijn van toepassing op activiteiten met betrekking tot mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht die zijn verzameld en gegenereerd na de inwerkingtreding van deze Overeenkomst voor de respectieve Partij. De toepassing van de bepalingen van deze Overeenkomst strekt zich uit tot het gebruik van mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht die vóór de inwerkingtreding van deze Overeenkomst zijn verzameld of gegenereerd, tenzij een Partij op grond van [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=70&z=2023-06-19&g=2023-06-19) schriftelijk een uitzondering maakt bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding van of toetreding tot deze Overeenkomst.
 
@@ -174,7 +185,7 @@ De doelstellingen van dit Deel zijn:
 
 3. De verplichtingen in dit Deel zijn niet van toepassing op de militaire activiteiten van een Partij, met inbegrip van militaire activiteiten van overheidsschepen en -luchtvaartuigen die geen commerciële dienst verrichten. De verplichtingen in dit Deel met betrekking tot het gebruik van mariene genetische bronnen van en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht zijn van toepassing op de niet-militaire activiteiten van een Partij.
 
-#### Artikel 11. Activiteiten met betrekking tot mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+##### Artikel 11. Activiteiten met betrekking tot mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
 
 1. Activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht kunnen worden uitgevoerd door alle Partijen, ongeacht hun geografische locatie, en door natuurlijke of rechtspersonen die onder de rechtsmacht van de Partijen vallen. Deze activiteiten worden uitgevoerd in overeenstemming met deze Overeenkomst.
 
@@ -190,7 +201,7 @@ De doelstellingen van dit Deel zijn:
 
 7. Activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden uitsluitend voor vreedzame doeleinden uitgevoerd.
 
-#### Artikel 12. Kennisgeving van activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+##### Artikel 12. Kennisgeving van activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
 
 1. De Partijen nemen de wetgevende, administratieve of beleidsmaatregelen die nodig zijn om ervoor te zorgen dat informatie wordt meegedeeld aan het uitwisselingsmechanisme overeenkomstig dit Deel.
 
@@ -246,11 +257,11 @@ De doelstellingen van dit Deel zijn:
 
 - e. na het in de handel brengen, informatie, indien beschikbaar, over de verkoop van relevante producten en eventuele verdere ontwikkelingen.
 
-#### Artikel 13. Traditionele kennis van inheemse volken en lokale gemeenschappen in verband met mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
+##### Artikel 13. Traditionele kennis van inheemse volken en lokale gemeenschappen in verband met mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht
 
 De Partijen nemen, in voorkomend geval en waar relevant, wetgevende, administratieve of beleidsmaatregelen om ervoor te zorgen dat traditionele kennis met betrekking tot mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht waarover inheemse volken en lokale gemeenschappen beschikken, alleen toegankelijk is met vrijwillig, voorafgaande en geïnformeerde toestemming of goedkeuring en betrokkenheid van deze inheemse volken en lokale gemeenschappen. De toegang tot dergelijke traditionele kennis kan worden gefaciliteerd door het uitwisselingsmechanisme. Toegang tot en gebruik van deze traditionele kennis wordt overeengekomen met wederzijdse instemming.
 
-#### Artikel 14. Eerlijke en billijke verdeling van de voordelen
+##### Artikel 14. Eerlijke en billijke verdeling van de voordelen
 
 1. De voordelen die voortvloeien uit activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden op eerlijke en billijke wijze verdeeld overeenkomstig dit Deel en dragen bij tot het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
 
@@ -306,7 +317,7 @@ De Partijen nemen, in voorkomend geval en waar relevant, wetgevende, administrat
 
 11. De Partijen nemen de nodige wetgevende, administratieve of beleidsmaatregelen, naargelang het geval, om ervoor te zorgen dat de voordelen die voortvloeien uit activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht, die worden uitgevoerd door natuurlijke of rechtspersonen die onder hun rechtsmacht vallen, in overeenstemming met deze Overeenkomst worden gedeeld.
 
-#### Artikel 15. Comité voor toegang en verdeling van voordelen
+##### Artikel 15. Comité voor toegang en verdeling van voordelen
 
 1. Hierbij wordt een comité voor toegang en verdeling van voordelen ingesteld. Het dient onder meer als middel om richtsnoeren vast te stellen voor de verdeling van voordelen, overeenkomstig [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=II&artikel=14&z=2023-06-19&g=2023-06-19), waarbij transparantie wordt geboden en wordt gezorgd voor een eerlijke en billijke verdeling van zowel geldelijke als niet-geldelijke voordelen.
 
@@ -338,7 +349,7 @@ De Partijen nemen, in voorkomend geval en waar relevant, wetgevende, administrat
 
 6**.** Het comité voor toegang en verdeling van voordelen kan aanbevelingen doen aan de Conferentie van de Partijen met betrekking tot de in het kader van het bovenvermelde lid 5 verkregen informatie.
 
-#### Artikel 16. Monitoring en transparantie
+##### Artikel 16. Monitoring en transparantie
 
 1. De monitoring en transparantie van activiteiten met betrekking tot mariene genetische bronnen en digitale sequentie-informatie over mariene genetische bronnen van gebieden voorbij de grenzen van de nationale rechtsmacht worden verzekerd door kennisgeving aan het uitwisselingsmechanisme, door het gebruik van gestandaardiseerde „BBNJ”-identificatiecodes overeenkomstig dit Deel en volgens de door de Conferentie van de Partijen vastgestelde procedures, zoals aanbevolen door het comité voor toegang en verdeling van voordelen.
 
@@ -348,7 +359,7 @@ De Partijen nemen, in voorkomend geval en waar relevant, wetgevende, administrat
 
 ## DEEL III. MAATREGELEN ZOALS GEBIEDSGERICHTE BEHEERSINSTRUMENTEN, WAARONDER BESCHERMDE MARIENE GEBIEDEN
 
-#### Artikel 17. Doelstellingen
+##### Artikel 17. Doelstellingen
 
 De doelstellingen van dit Deel zijn:
 
@@ -362,11 +373,11 @@ De doelstellingen van dit Deel zijn:
 
 - e. steun verlenen aan ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling, door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene technologie bij de ontwikkeling, uitvoering, monitoring, beheer en handhaving van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden.
 
-#### Artikel 18. Toepassingsgebied
+##### Artikel 18. Toepassingsgebied
 
 De vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, omvat geen gebieden binnen de nationale rechtsmacht en wordt niet gebruikt als grondslag voor het geldend maken of verwerpen van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht, met inbegrip van eventuele geschillen die daarmee verband houden. De Conferentie van de Partijen neemt geen voorstellen in overweging van dergelijke gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, en dergelijke voorstellen mogen in geen geval worden geïnterpreteerd als erkenning of niet-erkenning van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht.
 
-#### Artikel 19. Voorstellen
+##### Artikel 19. Voorstellen
 
 1. Voorstellen voor de vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, in het kader van dit Deel worden door de Partijen afzonderlijk of gezamenlijk bij het Secretariaat ingediend.
 
@@ -400,11 +411,11 @@ De vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van besche
 
 6. Verdere eisen met betrekking tot de inhoud van voorstellen, met inbegrip van de uitvoeringsbepalingen voor de toepassing van indicatieve criteria als bedoeld in het voorgaande lid 5, en richtsnoeren voor voorstellen als bedoeld in het voorgaande lid 4, punt b), worden zo nodig door het wetenschappelijk en technisch orgaan opgesteld met het oog op bespreking en goedkeuring door de Conferentie van de Partijen.
 
-#### Artikel 20. Publicatie en voorlopige beoordeling van voorstellen
+##### Artikel 20. Publicatie en voorlopige beoordeling van voorstellen
 
 Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel openbaar en zendt het het voor een voorlopige beoordeling toe aan het wetenschappelijk en technisch orgaan. Het doel van de beoordeling is na te gaan of het voorstel de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=19&z=2023-06-19&g=2023-06-19) vereiste informatie bevat, met inbegrip van de in dit Deel en in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=I&z=2023-06-19&g=2023-06-19) beschreven indicatieve criteria. Het resultaat van die evaluatie wordt openbaar gemaakt en door het Secretariaat aan de indiener meegedeeld. De indiener stuurt het voorstel opnieuw naar het Secretariaat, rekening houdend met de voorlopige beoordeling door het wetenschappelijk en technisch orgaan. Het Secretariaat stelt de Partijen daarvan in kennis en maakt dat opnieuw toegezonden voorstel openbaar en faciliteert het overleg overeenkomstig [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=21&z=2023-06-19&g=2023-06-19).
 
-#### Artikel 21. Overleg over en beoordeling van voorstellen
+##### Artikel 21. Overleg over en beoordeling van voorstellen
 
 1. Het overleg over overeenkomstig [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=III&artikel=19&z=2023-06-19&g=2023-06-19) ingediende voorstellen is inclusief en transparant en staat open voor alle relevante belanghebbenden, met inbegrip van staten en mondiale, regionale, subregionale en sectorale organisaties, alsmede het maatschappelijk middenveld, de wetenschappelijke gemeenschap, inheemse volken en lokale gemeenschappen.
 
@@ -462,7 +473,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 8. De uitvoeringsbepalingen voor het overleg- en beoordelingsproces, met inbegrip van de duur ervan, worden zo nodig verder uitgewerkt door het wetenschappelijk en technisch orgaan tijdens zijn eerste vergadering, met het oog op bespreking en goedkeuring door de Conferentie van de Partijen, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling.
 
-#### Artikel 22. Vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden
+##### Artikel 22. Vaststelling van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden
 
 1. Op basis van het definitieve voorstel en het ontwerpbeheersplan, rekening houdend met de bijdragen en de wetenschappelijke inbreng die tijdens het in het kader van dit Deel ingestelde overlegproces zijn ontvangen, en met het wetenschappelijk advies en de aanbevelingen van het wetenschappelijk en technisch orgaan, zal de Conferentie van de Partijen:
 
@@ -484,7 +495,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 7. Bij de vaststelling of wijziging van de bevoegdheid van een relevant rechtsinstrument of -kader of een relevante mondiale, regionale, subregionale of sectorale organisatie blijft een gebiedsgericht beheersinstrument, met inbegrip van een beschermd marien gebied, of daarmee verband houdende maatregelen die door de Conferentie van de Partijen uit hoofde van dit Deel zijn vastgesteld en die vervolgens geheel of gedeeltelijk onder de bevoegdheid van dat instrument, kader of orgaan vallen, van kracht totdat de Conferentie van de Partijen, in nauwe samenwerking en coördinatie met dat instrument, kader of orgaan, het gebiedsgericht beheersinstrument, met inbegrip van een beschermd marien gebied, en daarmee verband houdende maatregelen, naargelang het geval, evalueert en besluit tot handhaving, wijziging of intrekking.
 
-#### Artikel 23. Besluitvorming
+##### Artikel 23. Besluitvorming
 
 1. In de regel worden de in dit Deel bedoelde besluiten en aanbevelingen bij consensus genomen.
 
@@ -512,7 +523,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 10. Op grond van dit Deel aangenomen besluiten van de Conferentie van de Partijen en bezwaren tegen deze besluiten worden door het Secretariaat openbaar gemaakt en worden toegezonden aan alle staten en aan alle relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties.
 
-#### Artikel 24. Noodmaatregelen
+##### Artikel 24. Noodmaatregelen
 
 1. De Conferentie van de Partijen neemt besluiten om in gebieden voorbij de grenzen van de nationale rechtsmacht maatregelen vast te stellen die zo nodig in noodgevallen moeten worden toegepast wanneer een natuurverschijnsel of een door de mens veroorzaakte ramp ernstige of onomkeerbare schade heeft toegebracht of dreigt te veroorzaken aan de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht, om ervoor te zorgen dat de ernstige of onomkeerbare schade niet wordt verergerd.
 
@@ -524,7 +535,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 5. Procedures en richtsnoeren voor de vaststelling van noodmaatregelen, met inbegrip van overlegprocedures, worden zo nodig opgesteld door het wetenschappelijk en technisch orgaan, met het oog op de zo spoedig mogelijke bespreking en goedkeuring door de Conferentie van de Partijen. Deze procedures zijn inclusief en transparant.
 
-#### Artikel 25. Uitvoering
+##### Artikel 25. Uitvoering
 
 1. De Partijen zorgen ervoor dat activiteiten onder hun rechtsmacht of controle die plaatsvinden in gebieden voorbij de grenzen van de nationale rechtsmacht, worden uitgevoerd in overeenstemming met de uit hoofde van dit Deel genomen besluiten.
 
@@ -538,7 +549,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 6. Een Partij die geen Partij is bij of deelnemer is aan een relevant rechtsinstrument of rechtskader, of lid is van een relevante mondiale, regionale, subregionale of sectorale organisatie, en die niet anderszins instemt met de toepassing van de maatregelen die in het kader van dergelijke instrumenten en kaders zijn vastgesteld en die door dergelijke organisaties is ingesteld, wordt niet ontheven van de verplichting om overeenkomstig het [Verdrag](onbekend) en deze Overeenkomst samen te werken bij het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht.
 
-#### Artikel 26. Toezicht en evaluatie
+##### Artikel 26. Toezicht en evaluatie
 
 1. De Partijen brengen individueel of collectief verslag uit aan de Conferentie van de Partijen over de toepassing van gebiedsgerichte beheersinstrumenten, met inbegrip van beschermde mariene gebieden, die in het kader van dit Deel zijn ingesteld, en van de daarmee verband houdende maatregelen. Deze verslagen, alsmede de in de hiernavolgende leden 2 en 3 bedoelde informatie en evaluatie, worden door het Secretariaat openbaar gemaakt.
 
@@ -552,7 +563,7 @@ Na ontvangst van een schriftelijk voorstel maakt het Secretariaat het voorstel o
 
 ## DEEL IV. MILIEUEFFECTBEOORDELINGEN
 
-#### Artikel 27. Doelstellingen
+##### Artikel 27. Doelstellingen
 
 De doelstellingen van dit Deel zijn:
 
@@ -568,7 +579,7 @@ De doelstellingen van dit Deel zijn:
 
 - f. opbouwen en versterken van de capaciteit van de Partijen, met name de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen, om ter ondersteuning van de doelstellingen van deze Overeenkomst milieueffectbeoordelingen en strategische milieubeoordelingen voor te bereiden, uit te voeren en te evalueren.
 
-#### Artikel 28. Verplichting om milieueffectbeoordelingen uit te voeren
+##### Artikel 28. Verplichting om milieueffectbeoordelingen uit te voeren
 
 1. De Partijen zorgen ervoor dat de potentiële effecten op het mariene milieu van geplande activiteiten die onder hun rechtsmacht of controle vallen en die plaatsvinden voorbij de grenzen van de nationale rechtsmacht, worden beoordeeld overeenkomstig dit Deel voordat toestemming wordt verleend.
 
@@ -582,7 +593,7 @@ De doelstellingen van dit Deel zijn:
 
 3. Na ontvangst van de in het voorgaande lid 2, sub a), bedoelde informatie kan het wetenschappelijk en technisch orgaan opmerkingen indienen bij de Partij die rechtsmacht of controle heeft over de geplande activiteit.
 
-#### Artikel 29. Verband tussen deze Overeenkomst en milieueffectbeoordelingsprocessen in het kader van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
+##### Artikel 29. Verband tussen deze Overeenkomst en milieueffectbeoordelingsprocessen in het kader van relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties
 
 1. De Partijen bevorderen het gebruik van milieueffectbeoordelingen en de vaststelling en uitvoering van de krachtens [artikel 38](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=38&z=2023-06-19&g=2023-06-19) ontwikkelde normen en/of richtsnoeren in relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties waarvan zij lid zijn.
 
@@ -604,7 +615,7 @@ De doelstellingen van dit Deel zijn:
 
 6. Tenzij de geplande activiteiten die voldoen aan de criteria van het voorgaande lid 4, punt b), i), worden gemonitord en geëvalueerd in het kader van een relevant rechtsinstrument of rechtskader of een relevante mondiale, regionale, subregionale of sectorale organisatie, monitoren en evalueren de Partijen de activiteiten en zorgen zij ervoor dat de monitoring- en evaluatierapportages via het uitwisselingsmechanisme worden gepubliceerd.
 
-#### Artikel 30. Drempelwaarden en factoren voor het uitvoeren van milieueffectbeoordelingen
+##### Artikel 30. Drempelwaarden en factoren voor het uitvoeren van milieueffectbeoordelingen
 
 1. Wanneer een geplande activiteit meer dan een gering of tijdelijk effect op het mariene milieu kan hebben, of wanneer de effecten van de activiteit onbekend of slecht begrepen zijn, voert de Partij met rechtsmacht of controle over de activiteit een screening uit van de activiteit overeenkomstig [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), aan de hand van de in lid 2 hieronder genoemde factoren, met dien verstande dat:
 
@@ -632,7 +643,7 @@ De doelstellingen van dit Deel zijn:
 
 - g. andere relevante ecologische of biologische criteria.
 
-#### Artikel 31. Procedure voor milieueffectbeoordelingen
+##### Artikel 31. Procedure voor milieueffectbeoordelingen
 
 1. De Partijen zorgen ervoor dat de procedure voor het uitvoeren van een milieueffectbeoordeling overeenkomstig dit Deel de volgende stappen omvat:
 
@@ -668,7 +679,7 @@ De doelstellingen van dit Deel zijn:
 
 3. Onder toezicht van het wetenschappelijk en technisch orgaan wordt een lijst van deskundigen opgesteld. Partijen met capaciteitsbeperkingen kunnen deze deskundigen om advies en bijstand verzoeken bij het uitvoeren en evalueren van screenings en milieueffectbeoordelingen voor een geplande activiteit die onder hun rechtsmacht of controle valt. De deskundigen kunnen niet worden aangesteld voor een ander onderdeel van het milieueffectbeoordelingsproces van dezelfde activiteit. De Partij die om advies en bijstand heeft verzocht, zorgt ervoor dat deze milieueffectbeoordelingen haar ter toetsing en besluitvorming worden voorgelegd.
 
-#### Artikel 32. Openbare kennisgeving en raadpleging
+##### Artikel 32. Openbare kennisgeving en raadpleging
 
 1. De Partijen zorgen voor tijdige openbare kennisgeving van een geplande activiteit, onder meer door publicatie via het uitwisselingsmechanisme en via het Secretariaat, en voor geplande en effectieve tijdsgebonden mogelijkheden, voor zover praktisch haalbaar, voor deelname aan de milieueffectbeoordeling voor alle staten, met name aangrenzende kuststaten en andere staten die grenzen aan de activiteit en mogelijk de meeste gevolgen hiervan ondervinden, en voor alle belanghebbenden. Kennisgeving en mogelijkheden voor deelname, onder meer door het indienen van opmerkingen, vinden plaats tijdens het gehele milieueffectbeoordelingsproces, in voorkomend geval ook wanneer de reikwijdte en het detailleringsniveau van een milieueffectbeoordeling overeenkomstig [artikel 31, lid 1, sub b)](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), worden vastgesteld en wanneer een ontwerp-milieueffectrapport is opgesteld overeenkomstig [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=33&z=2023-06-19&g=2023-06-19), voordat een besluit wordt genomen over het al dan niet verlenen van toestemming voor de activiteit.
 
@@ -692,7 +703,7 @@ De doelstellingen van dit Deel zijn:
 
 7. De Partijen zorgen voor toegang tot informatie met betrekking tot het milieueffectbeoordelingsproces in het kader van deze Overeenkomst. Desondanks zijn de Partijen niet verplicht vertrouwelijke of gepatenteerde informatie openbaar te maken. Het feit dat vertrouwelijke of bedrijfseigen informatie is bewerkt, wordt vermeld in openbare documenten.
 
-#### Artikel 33. Rapporten over milieueffectbeoordelingen
+##### Artikel 33. Rapporten over milieueffectbeoordelingen
 
 1. De Partijen zorgen voor de opstelling van een milieueffectrapport voor een dergelijke overeenkomstig dit Deel uitgevoerde beoordeling.
 
@@ -708,7 +719,7 @@ De doelstellingen van dit Deel zijn:
 
 7. Een selectie van de gepubliceerde informatie die in het screeningproces wordt gebruikt om besluiten te nemen over het al dan niet uitvoeren van een milieueffectbeoordeling overeenkomstig de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=30&z=2023-06-19&g=2023-06-19) en [31](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=31&z=2023-06-19&g=2023-06-19), wordt door het wetenschappelijk en technisch orgaan in overweging genomen en beoordeeld op basis van relevante praktijken, procedures en kennis in het kader van deze Overeenkomst, met het oog op het ontwikkelen van richtsnoeren, met inbegrip van de vaststelling van best practices.
 
-#### Artikel 34. Besluitvorming
+##### Artikel 34. Besluitvorming
 
 1. Het is de taak van de Partij die de rechtsmacht of controle over een geplande activiteit heeft, om te bepalen of de activiteit mag doorgaan.
 
@@ -718,11 +729,11 @@ De doelstellingen van dit Deel zijn:
 
 4. Op verzoek van een Partij kan de Conferentie van de Partijen aan die Partij advies en bijstand verlenen bij het bepalen of een geplande activiteit onder haar rechtsmacht of controle mag worden voortgezet.
 
-#### Artikel 35. Monitoring van de effecten van toegestane activiteiten
+##### Artikel 35. Monitoring van de effecten van toegestane activiteiten
 
 De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappelijke kennis en informatie en, indien beschikbaar, de relevante traditionele kennis van inheemse volken en lokale gemeenschappen, toezicht op de effecten van activiteiten in gebieden voorbij de grenzen van de nationale rechtsmacht die zij toestaan of waarin zij actief zijn, om te bepalen of deze activiteiten het mariene milieu zouden kunnen vervuilen of nadelig zouden kunnen beïnvloeden. Elke Partij houdt met name toezicht op de milieueffecten en alle daarmee samenhangende effecten, zoals economische, sociale en culturele effecten en gevolgen voor de menselijke gezondheid, van een onder haar bevoegdheid of controle vallende activiteit waarvoor toestemming is verleend, overeenkomstig de voorwaarden die zijn vastgesteld in de goedkeuring van de activiteit.
 
-#### Artikel 36. Rapportage over de effecten van toegestane activiteiten
+##### Artikel 36. Rapportage over de effecten van toegestane activiteiten
 
 1. Partijen die individueel of collectief optreden, brengen periodiek verslag uit over de effecten van de toegestane activiteit en de resultaten van de krachtens [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=35&z=2023-06-19&g=2023-06-19) vereiste monitoring.
 
@@ -730,7 +741,7 @@ De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappel
 
 3. Monitoringsrapportages worden door het wetenschappelijk en technisch orgaan op basis van relevante praktijken, procedures en kennis in het kader van deze Overeenkomst in overweging genomen met het oog op de ontwikkeling van richtsnoeren voor de monitoring van de effecten van toegestane activiteiten, met inbegrip van de vaststelling van best practices.
 
-#### Artikel 37. Evaluatie van toegestane activiteiten en de effecten daarvan
+##### Artikel 37. Evaluatie van toegestane activiteiten en de effecten daarvan
 
 1. De Partijen zorgen ervoor dat de effecten van de overeenkomstig [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=35&z=2023-06-19&g=2023-06-19) gemonitorde activiteit waarvoor toestemming is verleend, worden geëvalueerd.
 
@@ -760,7 +771,7 @@ De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappel
 
 - b. beslisdocumenten, met inbegrip van een lijst van redenen voor het besluit van de Partij, wanneer een Partij haar besluit tot goedkeuring van de activiteit heeft gewijzigd.
 
-#### Artikel 38. Door het wetenschappelijk en technisch orgaan te ontwikkelen normen en/of richtsnoeren met betrekking tot milieueffectbeoordelingen
+##### Artikel 38. Door het wetenschappelijk en technisch orgaan te ontwikkelen normen en/of richtsnoeren met betrekking tot milieueffectbeoordelingen
 
 1. Het Wetenschappelijk en Technisch Orgaan ontwikkelt normen of richtsnoeren die door de Conferentie van de Partijen worden bestudeerd en aangenomen met betrekking tot:
 
@@ -786,7 +797,7 @@ De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappel
 
 3. Elke norm wordt overeenkomstig [artikel 74](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=74&z=2023-06-19&g=2023-06-19) opgenomen in een bijlage bij deze Overeenkomst.
 
-#### Artikel 39. Strategische milieubeoordelingen
+##### Artikel 39. Strategische milieubeoordelingen
 
 1. De Partijen overwegen, afzonderlijk of in samenwerking met andere Partijen, strategische milieubeoordelingen uit te voeren voor plannen en programma’s met betrekking tot activiteiten die onder hun rechtsmacht of controle vallen, die moeten worden uitgevoerd in gebieden voorbij de grenzen van de nationale rechtsmacht, teneinde de mogelijke gevolgen van dergelijke plannen of programma’s en van alternatieven voor het mariene milieu te beoordelen.
 
@@ -798,7 +809,7 @@ De Partijen houden, door gebruik te maken van de beste beschikbare wetenschappel
 
 ## DEEL V. CAPACITEITSOPBOUW EN OVERDRACHT VAN MARIENE TECHNOLOGIE
 
-#### Artikel 40. Doelstellingen
+##### Artikel 40. Doelstellingen
 
 De doelstellingen van dit Deel zijn:
 
@@ -818,7 +829,7 @@ De doelstellingen van dit Deel zijn:
 
 - iii. milieueffectbeoordelingen, zoals bedoeld in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IV&artikel=27&z=2023-06-19&g=2023-06-19).
 
-#### Artikel 41. Samenwerking op het gebied van capaciteitsopbouw en de overdracht van mariene technologie
+##### Artikel 41. Samenwerking op het gebied van capaciteitsopbouw en de overdracht van mariene technologie
 
 1. De Partijen werken rechtstreeks of via relevante rechtsinstrumenten en -kaders en relevante mondiale, regionale, subregionale en sectorale organisaties samen om de Partijen, met name ontwikkelingslanden die Partij zijn, bij te staan bij de verwezenlijking van de doelstellingen van deze Overeenkomst door middel van capaciteitsopbouw en de ontwikkeling en overdracht van mariene wetenschap en mariene technologie.
 
@@ -826,7 +837,7 @@ De doelstellingen van dit Deel zijn:
 
 3. Bij de uitvoering van dit Deel erkennen de Partijen ten volle de bijzondere behoeften van de ontwikkelingslanden die Partij zijn, met name de minst ontwikkelde landen, niet aan zee grenzende ontwikkelingslanden, staten met een ongunstige geografische ligging, kleine eilandstaten in ontwikkeling, Afrikaanse kuststaten, archipelstaten en ontwikkelingslanden met een middeninkomen. De Partijen zorgen ervoor dat de capaciteitsopbouw en de overdracht van mariene technologie niet afhankelijk worden gesteld van strenge rapportagevereisten.
 
-#### Artikel 42. Uitvoeringsbepalingen voor capaciteitsopbouw en voor de overdracht van mariene technologie
+##### Artikel 42. Uitvoeringsbepalingen voor capaciteitsopbouw en voor de overdracht van mariene technologie
 
 1. De Partijen zorgen, binnen hun mogelijkheden, voor capaciteitsopbouw voor ontwikkelingslanden die Partij zijn en werken samen om de overdracht van mariene technologie te bewerkstelligen, met name aan ontwikkelingslanden die Partij zijn en daarom verzoeken, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, overeenkomstig de bepalingen van deze Overeenkomst.
 
@@ -836,7 +847,7 @@ De doelstellingen van dit Deel zijn:
 
 4. Capaciteitsopbouw en de overdracht van mariene technologie zijn gebaseerd en afgestemd op de behoeften en prioriteiten van de ontwikkelingslanden die Partij zijn, rekening houdend met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen, die aan de hand van behoeftenanalysen per geval, of op subregionale of regionale basis worden vastgesteld. Dergelijke behoeften en prioriteiten kunnen zelf worden beoordeeld of gefaciliteerd door het comité voor capaciteitsopbouw en overdracht van mariene technologie en het uitwisselingsmechanisme.
 
-#### Artikel 43. Aanvullende uitvoeringsbepalingen voor de overdracht van mariene technologie
+##### Artikel 43. Aanvullende uitvoeringsbepalingen voor de overdracht van mariene technologie
 
 1. De Partijen delen een langetermijnvisie op het belang van de volledige verwezenlijking van de ontwikkeling en overdracht van technologie voor inclusieve, billijke en doeltreffende samenwerking en deelname aan de in het kader van deze Overeenkomst ondernomen activiteiten, teneinde de doelstellingen ervan volledig te verwezenlijken.
 
@@ -848,7 +859,7 @@ De doelstellingen van dit Deel zijn:
 
 5. Mariene technologie die op grond van dit Deel wordt overgedragen, is passend, relevant en, voor zover mogelijk, betrouwbaar, betaalbaar, actueel, milieuvriendelijk en beschikbaar in een toegankelijke vorm voor de ontwikkelingslanden die Partij zijn, waarbij rekening wordt gehouden met de bijzondere omstandigheden van kleine eilandstaten in ontwikkeling en van de minst ontwikkelde landen.
 
-#### Artikel 44. Soorten capaciteitsopbouw en overdracht van mariene technologie
+##### Artikel 44. Soorten capaciteitsopbouw en overdracht van mariene technologie
 
 1. Ter ondersteuning van de in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=V&artikel=40&z=2023-06-19&g=2023-06-19) genoemde doelstellingen kunnen de vormen van capaciteitsopbouw en de overdracht van mariene technologie verschillend zijn, met inbegrip van, maar niet beperkt tot, steun voor de totstandbrenging of verbetering van de capaciteiten van de Partijen op het vlak van menselijke bronnen, financieel beheer, en wetenschappelijke, technologische, organisatorische, institutionele middelen, zoals:
 
@@ -872,7 +883,7 @@ De doelstellingen van dit Deel zijn:
 
 3. De Conferentie van de Partijen, rekening houdend met de aanbevelingen van het comité voor capaciteitsopbouw en overdracht van mariene technologie, zal periodiek, naargelang de noodzaak, de in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&bijlage=II&z=2023-06-19&g=2023-06-19) opgenomen indicatieve en niet-uitputtende lijst van soorten capaciteitsopbouw en overdracht van mariene technologie onderzoeken, beoordelen, verder ontwikkelen en hierover richtsnoeren verstrekken om rekening te houden met de technologische vooruitgang en innovatie en om in te spelen op en zich aan te passen aan de veranderende behoeften van staten, subregio’s en regio’s.
 
-#### Artikel 45. Toezicht en evaluatie
+##### Artikel 45. Toezicht en evaluatie
 
 1. Capaciteitsopbouw en de overdracht van mariene technologie overeenkomstig de bepalingen van dit Deel worden op gezette tijden gemonitord en geëvalueerd.
 
@@ -890,7 +901,7 @@ De doelstellingen van dit Deel zijn:
 
 3. Ter ondersteuning van de monitoring en evaluatie van capaciteitsopbouw en de overdracht van mariene technologie dienen de Partijen verslagen in bij het comité voor capaciteitsopbouw en overdracht van mariene technologie. Deze verslagen moeten worden opgesteld in een vorm en met een regelmaat die door de Conferentie van de Partijen worden vastgesteld, rekening houdend met de aanbevelingen van het comité voor capaciteitsopbouw en overdracht van mariene technologie. Bij de indiening van hun verslagen houden de Partijen in voorkomend geval rekening met de inbreng van regionale en subregionale organisaties op het gebied van capaciteitsopbouw en de overdracht van mariene technologie. De door de Partijen ingediende verslagen en alle bijdragen van regionale en subregionale organisaties over capaciteitsopbouw en de overdracht van mariene technologie moeten openbaar worden gemaakt. De Conferentie van de Partijen ziet erop toe dat de rapportagevereisten gestroomlijnd en niet belastend zijn, met name voor ontwikkelingslanden die Partij zijn, ook wat betreft kosten en tijd.
 
-#### Artikel 46. Comité voor capaciteitsopbouw en overdracht van mariene technologie
+##### Artikel 46. Comité voor capaciteitsopbouw en overdracht van mariene technologie
 
 1. Hierbij wordt een comité voor capaciteitsopbouw en overdracht van mariene technologie opgericht.
 
@@ -900,7 +911,7 @@ De doelstellingen van dit Deel zijn:
 
 ## DEEL VI. INSTITUTIONELE REGELINGEN
 
-#### Artikel 47. Conferentie van de Partijen
+##### Artikel 47. Conferentie van de Partijen
 
 1. Hierbij wordt een Conferentie van de Partijen ingesteld.
 
@@ -930,7 +941,7 @@ De doelstellingen van dit Deel zijn:
 
 8. Binnen vijf jaar na de inwerkingtreding van deze Overeenkomst en daarna met door haar vast te stellen tussenpozen beoordeelt en evalueert de Conferentie van de Partijen de deugdelijkheid en doeltreffendheid van de bepalingen van deze Overeenkomst en stelt zij, indien nodig, middelen voor om de uitvoering van deze bepalingen te versterken teneinde het behoud en het duurzame gebruik van de mariene biologische diversiteit van gebieden voorbij de grenzen van de nationale rechtsmacht beter aan te pakken.
 
-#### Artikel 48. Transparantie
+##### Artikel 48. Transparantie
 
 1. De Conferentie van de Partijen bevordert de transparantie van besluitvormingsprocessen en andere activiteiten die in het kader van deze Overeenkomst worden uitgevoerd.
 
@@ -940,7 +951,7 @@ De doelstellingen van dit Deel zijn:
 
 4. Vertegenwoordigers van staten die geen Partij zijn bij deze Overeenkomst, relevante mondiale, regionale, subregionale en sectorale organisaties, inheemse volken en lokale gemeenschappen met relevante traditionele kennis, de wetenschappelijke gemeenschap, het maatschappelijk middenveld en andere relevante belanghebbenden die belang hebben bij aangelegenheden die verband houden met de Conferentie van de Partijen, kunnen verzoeken om als waarnemer deel te nemen aan de vergaderingen van de Conferentie van de Partijen en haar hulporganen. Het reglement van orde van de Conferentie van de Partijen voorziet in uitvoeringsbepalingen voor een dergelijke deelname en is in dit opzicht niet onnodig beperkend. Voorts is in het reglement van orde ook bepaald dat die vertegenwoordigers tijdig toegang tot alle relevante gegevens hebben.
 
-#### Artikel 49. Wetenschappelijk en technisch orgaan
+##### Artikel 49. Wetenschappelijk en technisch orgaan
 
 1. Hierbij wordt een wetenschappelijk en technisch orgaan opgericht.
 
@@ -950,7 +961,7 @@ De doelstellingen van dit Deel zijn:
 
 4. Onder het gezag en de leiding van de Conferentie van de Partijen, en rekening houdend met de multidisciplinaire expertise waarnaar in lid 2 wordt verwezen, verstrekt het wetenschappelijk en technisch orgaan wetenschappelijk en technisch advies aan de Conferentie van de Partijen, voert het de taken uit die het krachtens deze Overeenkomst en andere door de Conferentie van de Partijen vastgestelde taken vervult, en brengt het verslag uit aan de Conferentie van de Partijen over zijn werkzaamheden.
 
-#### Artikel 50. Secretariaat
+##### Artikel 50. Secretariaat
 
 1. Hierbij wordt een Secretariaat ingesteld. De Conferentie van de Partijen treft tijdens haar eerste vergadering regelingen voor de werking van het Secretariaat, onder meer door een besluit te nemen over de zetel van het Secretariaat.
 
@@ -972,7 +983,7 @@ De doelstellingen van dit Deel zijn:
 
 - f. verleent bijstand bij de uitvoering van deze Overeenkomst en verricht andere taken die door de Conferentie van de Partijen worden bepaald of die het Secretariaat krachtens deze Overeenkomst zijn toegewezen.
 
-#### Artikel 51. Uitwisselingsmechanisme
+##### Artikel 51. Uitwisselingsmechanisme
 
 1. Hierbij wordt een uitwisselingsmechanisme ingesteld.
 
@@ -1010,7 +1021,7 @@ De doelstellingen van dit Deel zijn:
 
 ## DEEL VII. FINANCIËLE MIDDELEN EN FINANCIERINGSMECHANISME
 
-#### Artikel 52. Financiering
+##### Artikel 52. Financiering
 
 1. Elke Partij stelt, binnen de grenzen van haar mogelijkheden, middelen ter beschikking met betrekking tot de activiteiten die bedoeld zijn om de doelstellingen van deze Overeenkomst te verwezenlijken, rekening houdend met haar nationale beleid, prioriteiten, plannen en programma’s.
 
@@ -1076,15 +1087,15 @@ De doelstellingen van dit Deel zijn:
 
 ## DEEL VIII. UITVOERING EN NALEVING
 
-#### Artikel 53. Uitvoering
+##### Artikel 53. Uitvoering
 
 De Partijen nemen de wetgevende, administratieve of beleidsmaatregelen die nodig zijn om de uitvoering van deze Overeenkomst te waarborgen.
 
-#### Artikel 54. Toezicht op de uitvoering
+##### Artikel 54. Toezicht op de uitvoering
 
 Elke Partij houdt toezicht op de uitvoering van haar verplichtingen uit hoofde van deze Overeenkomst en brengt, in een format en met een regelmaat die door de Conferentie van de Partijen wordt vastgesteld, aan de Conferentie verslag uit over de maatregelen die zij heeft genomen om deze Overeenkomst uit te voeren.
 
-#### Artikel 55. Uitvoerings- en nalevingscomité
+##### Artikel 55. Uitvoerings- en nalevingscomité
 
 1. Er wordt een uitvoerings- en nalevingscomité opgericht dat belast is met het faciliteren van, en toezicht op, de uitvoering van deze Overeenkomst en op de naleving van de bepalingen van deze Overeenkomst. Het uitvoerings- en nalevingscomité is faciliterend van aard en functioneert op een transparante, niet-conflictueuze en niet-bestraffende wijze.
 
@@ -1096,23 +1107,23 @@ Elke Partij houdt toezicht op de uitvoering van haar verplichtingen uit hoofde v
 
 ## DEEL IX. REGELING VAN GESCHILLEN
 
-#### Artikel 56. Voorkoming van geschillen
+##### Artikel 56. Voorkoming van geschillen
 
 De Partijen werken samen om geschillen te voorkomen.
 
-#### Artikel 57. Verplichting om geschillen op vreedzame wijze te beslechten
+##### Artikel 57. Verplichting om geschillen op vreedzame wijze te beslechten
 
 De Partijen zijn verplicht hun geschillen over de uitlegging of toepassing van deze Overeenkomst te beslechten door middel van onderhandeling, onderzoek, bemiddeling, verzoening, arbitrage, gerechtelijke regeling, een beroep op regionale instanties of regelingen of andere vreedzame middelen naar hun keuze.
 
-#### Artikel 58. Geschillenbeslechting op vreedzame wijze die door de Partijen is gekozen
+##### Artikel 58. Geschillenbeslechting op vreedzame wijze die door de Partijen is gekozen
 
 Niets in dit Deel doet afbreuk aan het recht van een Partij bij deze Overeenkomst om te allen tijde overeen te komen een onderling geschil over de uitlegging of toepassing van deze Overeenkomst met vreedzame middelen naar eigen keuze te beslechten.
 
-#### Artikel 59. Geschillen van technische aard
+##### Artikel 59. Geschillen van technische aard
 
 Wanneer een geschil betrekking heeft op een aangelegenheid van technische aard, kunnen de betrokken Partijen het geschil voorleggen aan een door hen ingesteld ad-hocpanel van deskundigen. Het panel werkt samen met de betrokken Partijen en streeft ernaar het geschil snel op te lossen zonder gebruikmaking van bindende procedures voor geschillenbeslechting uit hoofde van [artikel 60](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=IX&artikel=60&z=2023-06-19&g=2023-06-19) van deze Overeenkomst.
 
-#### Artikel 60. Procedures voor geschillenbeslechting
+##### Artikel 60. Procedures voor geschillenbeslechting
 
 1. Geschillen betreffende de uitlegging of de toepassing van deze Overeenkomst worden beslecht overeenkomstig de bepalingen voor geschillenbeslechting waarin [deel XV van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0003172&deel=XV) voorziet.
 
@@ -1142,45 +1153,45 @@ Wanneer een geschil betrekking heeft op een aangelegenheid van technische aard, 
 
 10. Om twijfel te voorkomen, kan geen enkele bepaling van deze Overeenkomst worden ingeroepen als grondslag voor het geldend maken of verwerpen van aanspraken op soevereiniteit, soevereine rechten of rechtsmacht over land- of zeegebieden, met inbegrip van geschillen die daarmee verband houden.
 
-#### Artikel 61. Voorlopige regeling
+##### Artikel 61. Voorlopige regeling
 
 In afwachting van de beslechting van een geschil overeenkomstig dit Deel stellen de Partijen bij het geschil alles in het werk om voorlopige praktische regelingen te treffen.
 
 ## DEEL X. NIET BIJ DEZE OVEREENKOMST AANGESLOTEN PARTIJEN
 
-#### Artikel 62. Niet bij deze Overeenkomst aangesloten Partijen
+##### Artikel 62. Niet bij deze Overeenkomst aangesloten Partijen
 
 De Partijen moedigen niet-Partijen bij deze Overeenkomst aan Partij te worden bij deze Overeenkomst en wet- en regelgeving vast te stellen die in overeenstemming is met de bepalingen ervan.
 
 ## DEEL XI. GOEDE TROUW EN MISBRUIK VAN RECHT
 
-#### Artikel 63. Goede trouw en misbruik van recht
+##### Artikel 63. Goede trouw en misbruik van recht
 
 De Partijen komen te goeder trouw de uit hoofde van deze Overeenkomst aangegane verplichtingen na en oefenen de daarin erkende rechten uit op een wijze die geen misbruik van recht vormt.
 
 ## DEEL XII. SLOTBEPALINGEN
 
-#### Artikel 64. Stemrecht
+##### Artikel 64. Stemrecht
 
 1. Behoudens het bepaalde in het tweede lid, heeft elke Partij bij deze Overeenkomst één stem.
 
 2. Een regionale organisatie voor economische integratie die Partij is bij deze Overeenkomst, oefent haar stemrecht uit met een aantal stemmen dat gelijk is aan het aantal van haar lidstaten die Partij zijn bij deze Overeenkomst. Dergelijke organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 65. Ondertekening
+##### Artikel 65. Ondertekening
 
 Deze Overeenkomst staat vanaf 20 september 2023 open voor ondertekening door alle staten en regionale organisaties voor economische integratie en blijft openstaan voor ondertekening tot en met 20 september 2025 op de zetel van de Verenigde Naties in New York.
 
-#### Artikel 66. Bekrachtiging, goedkeuring, aanvaarding en toetreding
+##### Artikel 66. Bekrachtiging, goedkeuring, aanvaarding en toetreding
 
 Deze Overeenkomst dient te worden bekrachtigd, goedgekeurd of aanvaard door staten en regionale organisaties voor economische integratie. Het staat open voor toetreding door staten en regionale organisaties voor economische integratie vanaf de dag na de datum waarop de Overeenkomst voor ondertekening is gesloten. De akten van bekrachtiging, goedkeuring, aanvaarding en toetreding worden neergelegd bij de secretaris-generaal van de Verenigde Naties.
 
-#### Artikel 67. Verdeling van de bevoegdheden van regionale organisaties voor economische integratie en hun lidstaten met betrekking tot de onder deze Overeenkomst vallende aangelegenheden
+##### Artikel 67. Verdeling van de bevoegdheden van regionale organisaties voor economische integratie en hun lidstaten met betrekking tot de onder deze Overeenkomst vallende aangelegenheden
 
 1. Een regionale organisatie voor economische integratie die Partij wordt bij deze Overeenkomst zonder dat één van haar lidstaten Partij is, is gebonden aan alle verplichtingen ingevolge deze Overeenkomst. In het geval van dergelijke organisaties waarvan een of meer lidstaten Partij zijn bij deze Overeenkomst, beslissen de organisatie en haar lidstaten over hun respectieve verantwoordelijkheden voor de nakoming van hun verplichtingen uit hoofde van deze Overeenkomst. In dergelijke gevallen zijn de organisatie en haar lidstaten niet gerechtigd de uit de Overeenkomst voortvloeiende rechten gelijktijdig uit te oefenen.
 
 2. Een regionale organisatie voor economische integratie vermeldt in haar akte van bekrachtiging, goedkeuring, aanvaarding of toetreding de omvang van haar bevoegdheid met betrekking tot de door deze Overeenkomst geregelde aangelegenheden. Een dergelijke organisatie brengt ook de depositaris, die op zijn beurt de Partijen in kennis stelt, op de hoogte van elke relevante wijziging van de omvang van haar bevoegdheid.
 
-#### Artikel 68. Inwerkingtreding
+##### Artikel 68. Inwerkingtreding
 
 1. Deze Overeenkomst treedt in werking 120 dagen na de datum van nederlegging van de zestigste akte van bekrachtiging, goedkeuring, aanvaarding of toetreding.
 
@@ -1188,21 +1199,21 @@ Deze Overeenkomst dient te worden bekrachtigd, goedgekeurd of aanvaard door stat
 
 3. Voor de toepassing van het eerste en tweede lid wordt de nederlegging van een akte door een regionale organisatie voor economische integratie niet meegeteld bij de door de lidstaten van deze organisatie nedergelegde akten.
 
-#### Artikel 69. Voorlopige toepassing
+##### Artikel 69. Voorlopige toepassing
 
 1. Deze Overeenkomst kan voorlopig worden toegepast door een staat of regionale organisatie voor economische integratie die instemt met de voorlopige toepassing ervan door de depositaris daarvan schriftelijk in kennis te stellen op het tijdstip van ondertekening of nederlegging van zijn akte van bekrachtiging, goedkeuring, aanvaarding of toetreding. Deze voorlopige toepassing wordt van kracht op de datum van ontvangst van de kennisgeving door de depositaris.
 
 2. De voorlopige toepassing door een staat of regionale organisatie voor economische integratie eindigt bij de inwerkingtreding van deze Overeenkomst voor die staat of regionale organisatie voor economische integratie of nadat die staat of regionale organisatie voor economische integratie de depositaris schriftelijk in kennis heeft gesteld van zijn voornemen om de voorlopige toepassing ervan te beëindigen.
 
-#### Artikel 70. Voorbehouden en excepties
+##### Artikel 70. Voorbehouden en excepties
 
 Voorbehouden of excepties ten aanzien van deze Overeenkomst kunnen niet worden gemaakt, tenzij deze uitdrukkelijk zijn toegestaan op grond van andere artikelen van deze Overeenkomst.
 
-#### Artikel 71. Verklaringen
+##### Artikel 71. Verklaringen
 
 [Artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBV0007029&deel=XII&artikel=70&z=2023-06-19&g=2023-06-19) verhindert een staat of regionale organisatie voor economische integratie niet bij de ondertekening, bekrachtiging, goedkeuring, aanvaarding of toetreding tot deze Overeenkomst verklaringen af te leggen, in welke bewoordingen of onder welke naam ook, onder andere met het oog op de harmonisatie van zijn wet- en regelgeving met de bepalingen van deze Overeenkomst, mits dergelijke verklaringen niet strekken tot uitsluiting of wijziging van de juridische werking van de bepalingen van deze Overeenkomst in de toepassing ervan op die staat of regionale organisatie voor economische integratie.
 
-#### Artikel 72. Wijziging
+##### Artikel 72. Wijziging
 
 1. Een Partij kan, door middel van een schriftelijke kennisgeving aan het Secretariaat, wijzigingen op deze Overeenkomst voorstellen. Het Secretariaat stuurt een dergelijke kennisgeving door naar alle Partijen. Indien binnen zes maanden na de datum van verzending van de kennisgeving ten minste de helft van de Partijen positief op het verzoek antwoordt, wordt de voorgestelde wijziging besproken op de volgende vergadering van de Conferentie van de Partijen.
 
@@ -1220,13 +1231,13 @@ Voorbehouden of excepties ten aanzien van deze Overeenkomst kunnen niet worden g
 
 - b). worden beschouwd als Partij bij de ongewijzigde Overeenkomst met betrekking tot een Partij die niet door de wijziging gebonden is.
 
-#### Artikel 73. Opzegging
+##### Artikel 73. Opzegging
 
 1. Een Partij kan door middel van een schriftelijke kennisgeving, gericht aan de Secretaris-Generaal van de Verenigde Naties, deze Overeenkomst opzeggen en daarbij de redenen aangeven. Het niet aangeven van redenen tast de geldigheid van de opzegging niet aan. De opzegging wordt van kracht een jaar na de datum van ontvangst van de kennisgeving, tenzij hierin een latere datum wordt aangegeven.
 
 2. De opzegging ontheft de Partij op generlei wijze van de in deze Overeenkomst vervatte verplichtingen waaraan zij krachtens het internationale recht onafhankelijk van deze Overeenkomst onderworpen zou zijn.
 
-#### Artikel 74. Bijlagen
+##### Artikel 74. Bijlagen
 
 1. De bijlagen maken een integrerend onderdeel uit van deze Overeenkomst en een verwijzing naar deze Overeenkomst of naar een van de Delen ervan houdt een verwijzing in naar de desbetreffende bijlagen, tenzij uitdrukkelijk anders is bepaald.
 
@@ -1240,10 +1251,10 @@ Voorbehouden of excepties ten aanzien van deze Overeenkomst kunnen niet worden g
 
 4. Gedurende de in lid 3, sub b), bedoelde periode van 180 dagen kan elke Partij, door middel van een schriftelijke kennisgeving aan de depositaris, bezwaar maken tegen de wijziging. Dit bezwaar kan te allen tijde worden ingetrokken door middel van een schriftelijke kennisgeving aan de depositaris, waarna de wijziging van de bijlage voor die Partij in werking treedt op de dertigste dag na de datum van intrekking van het bezwaar.
 
-#### Artikel 75. Depositaris
+##### Artikel 75. Depositaris
 
 De secretaris-generaal van de Verenigde Naties is de depositaris van deze Overeenkomst en van alle wijzigingen of herzieningen ervan.
 
-#### Artikel 76. Authentieke teksten
+##### Artikel 76. Authentieke teksten
 
 De Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst van deze Overeenkomst zijn gelijkelijk authentiek.

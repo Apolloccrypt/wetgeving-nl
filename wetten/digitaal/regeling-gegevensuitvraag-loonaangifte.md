@@ -1,13 +1,39 @@
 ---
-title: "Regeling gegevensuitvraag loonaangifte"
+title: "Regeling met betrekking tot de verstrekking van gegevens (Regeling gegevensuitvraag loonaangifte)"
 identifier: "BWBR0031386"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031386"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031386"
+soort: "ministeriele-regeling"
+stam_id: "11694593"
+version_id: "20000062"
+internal_id: "C28097871"
+label_id: "11667234"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031386/2026-01-01/0"
+intitule_bron: "Stcrt.2012-6030"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-21"
+intitule_published: "2012-03-27"
+intitule_in_force: "2012-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26349"
+original_signed_date: "2012-12-21"
+original_published_date: "2012-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-26349"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0031386&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0031386&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gegevensuitvraag loonaangifte"
+signed_date: "2012-12-21"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling met betrekking tot de verstrekking van gegevens (Regeling gegevensuitvraag loonaangifte)
 
 Gelet op [artikel 28a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a);
@@ -16,21 +42,21 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1.1. Reikwijdte
+##### Artikel 1.1. Reikwijdte
 
 Deze regeling geeft uitvoering aan de [artikelen 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28) en [28a van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a).
 
-#### Artikel 1.2. Gegevens correctieverplichting
+##### Artikel 1.2. Gegevens correctieverplichting
 
 Het correctiebericht, bedoeld in [artikel 28a, derde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de juiste en volledige gegevens, bedoeld in artikel 28a, eerste lid, van de Wet op de loonbelasting 1964.
 
 ### Hoofdstuk 2. Slotbepalingen
 
-#### Artikel 2.1. Inwerkingtreding
+##### Artikel 2.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 2.2. Citeertitel
+##### Artikel 2.2. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling gegevensuitvraag loonaangifte.
 
@@ -38,7 +64,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 1a. Gegevensverstrekking
 
-#### Artikel 1a.1. Gegevens opgave bij aangifte
+##### Artikel 1a.1. Gegevens opgave bij aangifte
 
 1. De opgave, bedoeld in [artikel 28, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28), bevat de algemene gegevens, genoemd in het tweede lid, de collectieve gegevens, genoemd in het derde lid, en de nominatieve gegevens, genoemd in het vierde lid.
 
@@ -366,11 +392,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 - 3°. sector.
 
-#### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
+##### Artikel 1a.2. Gegevens opgave bij onjuiste of onvolledige aangifte
 
 De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=28a), bevat de gegevens, genoemd in [artikel 1a.1](https://wetten.overheid.nl/jci1.3:c:BWBR0031386&hoofdstuk=1a&artikel=1a.1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1a.3. Inkomstenverhouding
+##### Artikel 1a.3. Inkomstenverhouding
 
 1. Dit artikel verstaat onder:
 

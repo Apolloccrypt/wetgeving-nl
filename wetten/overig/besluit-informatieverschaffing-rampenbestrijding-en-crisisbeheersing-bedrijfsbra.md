@@ -1,13 +1,39 @@
 ---
-title: "Besluit informatieverschaffing rampenbestrijding en crisisbeheersing, bedrijfsbrandweerplicht van inrichtingen, enz. BES"
+title: "Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba"
 identifier: "BWBR0037729"
-categorie: "Overig"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037729"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037729"
+soort: "AMvB-BES"
+stam_id: "13440383"
+version_id: "23070762"
+internal_id: "C33339891"
+label_id: "13407574"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037729/2016-07-01/0"
+intitule_bron: "Stb.2016-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-03-08"
+intitule_published: "2016-03-17"
+intitule_in_force: "2016-03-17"
+intitule_status: "goed"
+original_publication: "Stb.2016-100"
+original_signed_date: "2016-03-08"
+original_published_date: "2016-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-100"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0037729&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0037729&g=2016-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit informatieverschaffing rampenbestrijding en crisisbeheersing, bedrijfsbrandweerplicht van inrichtingen, enz. BES"
+signed_date: "2016-03-08"
+entry_into_force: "2016-07-01"
 ---
-
 # Besluit van 8 maart 2016, houdende regels inzake de informatieverschaffing bij en ten behoeve van rampenbestrijding en crisisbeheersing, inzake de bedrijfsbrandweerplicht van inrichtingen, alsmede inzake rampbestrijdingsplannen voor inrichtingen en luchtvaartterreinen in de openbare lichamen Bonaire, Sint-Eustatius en Saba
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 9 november 2015, nr. 699459;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Veiligheid en Justitie van 3 maar
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 - –. **rampbestrijdingsplan:** het plan, bedoeld in [artikel 45 van de Veiligheidswet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=45).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor een aanwijzing als bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=40) komen in aanmerking inrichtingen als bedoeld in [artikel 2, eerste lid, van het Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481&artikel=2).
 
@@ -66,13 +92,13 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 8. Het bestuurscollege bepaalt bij het vaststellen van gewijzigde eisen op grond van het zevende lid, een termijn waarbinnen aan die eisen moet zijn voldaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op een aanwijzing die Onze Minister geeft op grond van [artikel 40, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=40) is [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0037729&artikel=2&z=2016-07-01&g=2016-07-01) van overeenkomstige toepassing met dien verstande dat Onze Minister tevens een exemplaar van het rapport zendt aan Onze Minister van Defensie en het bestuurscollege.
 
 2. Onze Minister zendt een rapport aan het bestuurscollege nadat hij het rapport zodanig heeft bewerkt dat de gegevens waarvoor geheimhouding geboden is, daarin niet voorkomen of daaruit niet kunnen worden afgeleid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De gezaghebber stelt een rampbestrijdingsplan vast voor inrichtingen als bedoeld in [artikel 2, tweede lid, van het Besluit grote inrichtingen milieubeheer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0036481&artikel=2).
 
@@ -90,7 +116,7 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 - f. de maatregelen en voorzieningen die zijn getroffen om de bevolking en, indien nodig, de naastgelegen landen te informeren over de ramp of de dreiging van een ramp en over de door de bevolking te volgen gedragslijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De gezaghebber stelt, na overleg met de exploitant van een burgerluchthaven, een rampbestrijdingsplan vast voor een vliegtuigongeval op een luchthaven binnen het openbare lichaam, dat op grond van onderdeel 9.2.5. en tabel 9-1 in bijlage 14, volume 1 van het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109) is ingedeeld in brandrisicoklasse 3 of hoger. Het rampbestrijdingsplan ziet mede op de onmiddellijke omgeving van een luchthaven. De gezaghebber stelt, na overleg met de exploitant van een burgerluchthaven, vast welk gebied tot de onmiddellijke omgeving wordt gerekend.
 
@@ -116,7 +142,7 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 - j. een overzichtskaart van de indeling van de luchthaven en de onmiddellijke omgeving daarvan.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gezaghebber publiceert een rampbestrijdingsplan voorafgaand aan de vaststelling in het publicatieblad van het openbaar lichaam. De bevolking heeft gedurende zes weken na publicatie de gelegenheid hierop te reageren.
 
@@ -124,17 +150,17 @@ In dit besluit en de daarop gebaseerde regelgeving wordt verstaan onder:
 
 3. De gezaghebber maakt een besluit op grond van [artikel 45, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=45), bekend in het publicatieblad van het openbaar lichaam.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gezaghebber draagt er zorg voor dat periodiek doch ten minste één maal per drie jaar, gezamenlijk door het brandweerkorps, politiekorps, de betreffende gezondheidsdiensten en, indien het een rampbestrijdingsplan als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037729&artikel=5&z=2016-07-01&g=2016-07-01), betreft, de exploitant van de burgerluchthaven, een multidisciplinaire oefening wordt gehouden waarbij het rampbestrijdingsplan op juistheid, volledigheid en bruikbaarheid wordt getoetst.
 
 2. De gezaghebber beziet met passende tussenpozen doch ten minste één maal per drie jaar of het rampbestrijdingsplan moet worden herzien. Hij houdt daarbij rekening met veranderingen die zich in de inrichting of op de luchthaven, dan wel in de omgeving daarvan, hebben voorgedaan, alsmede met veranderingen in de organisatie en taken van bij de bestrijding van rampen betrokken diensten en organisaties, met nieuwe technische kennis en met inzichten omtrent de bij rampen te nemen maatregelen.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister kan regels stellen over de organisatie van de rampenbestrijding en de crisisbeheersing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De informatie die het bestuurscollege over mogelijke rampen en crises aan de bevolking verschaft, omvat in ieder geval:
 
@@ -154,7 +180,7 @@ Onze Minister kan regels stellen over de organisatie van de rampenbestrijding en
 
 3. Het bestuurscollege verschaft de informatie bedoeld in het eerste lid, onderdelen b en c, tenminste één maal per jaar en voorts telkens wanneer de informatie is geactualiseerd. De informatie bedoeld in de overige onderdelen van het eerste lid wordt door het bestuurscollege ten minste één maal per vijf jaar verschaft en voorts telkens wanneer de informatie is geactualiseerd.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Eenieder die op grond van [56, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=56) verplicht is de gezaghebber te informeren verschaft in ieder geval de volgende gegevens:
 
@@ -174,11 +200,11 @@ Onze Minister kan regels stellen over de organisatie van de rampenbestrijding en
 
 - c. de benaming van de stoffen die in de inrichting een ramp kunnen veroorzaken.
 
-#### Artikel 11
+##### Artikel 11
 
 Het verschaffen van de informatie, bedoeld in [artikel 50, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028586&artikel=50), door het bestuurscollege aan de bij rampenbestrijding en crisisbeheersing betrokken personen geschiedt schriftelijk.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van 1 juli 2016.
 

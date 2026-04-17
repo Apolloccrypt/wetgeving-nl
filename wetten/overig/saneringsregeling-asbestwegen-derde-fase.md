@@ -1,13 +1,39 @@
 ---
-title: "Saneringsregeling asbestwegen derde fase"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2007 met kenmerk SAS 2007018801, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt"
 identifier: "BWBR0021724"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021724"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021724"
+soort: "ministeriele-regeling"
+stam_id: "9046013"
+version_id: "14416192"
+internal_id: "C19612211"
+label_id: "9025144"
+dtd_version: "2.0"
+original_entry_into_force: "2007-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021724/2024-01-01/0"
+intitule_bron: "Stcrt.2007-75"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-04-12"
+intitule_published: "2007-04-18"
+intitule_in_force: "2007-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-75"
+original_signed_date: "2007-04-12"
+original_published_date: "2007-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-75-p25-SC80166"
+entry_into_force_date: "2007-04-20"
+jci_1_3: "jci1.3:c:BWBR0021724&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0021724&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Saneringsregeling asbestwegen derde fase"
+signed_date: "2007-04-12"
+entry_into_force: "2007-04-20"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 april 2007 met kenmerk SAS 2007018801, houdende vaststelling van regels met betrekking tot de sanering van wegen in de omgeving van de gemeenten Hof van Twente en Harderwijk, waarin asbestbevattend materiaal is verwerkt
 
 Gelet op [artikel 15.13, eerste en tweede lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Definities en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ Besluit:
 
 2. Onder asbest, serpentijnasbest en amfiboolasbest wordt verstaan hetgeen daaronder wordt verstaan in het [Besluit asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011619).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze regeling is van toepassing op wegen en stroken, gelegen binnen een straal van twaalf kilometer rond de voormalige gemeente Goor of binnen een straal van twaalf kilometer rond de gemeente Harderwijk, te rekenen vanaf de gemeentegrenzen.
 
@@ -62,7 +88,7 @@ Besluit:
 
 #### § 2. Saneringen vanaf de datum van inwerkingtreding van deze regeling
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister kan op aanvraag:
 
@@ -72,7 +98,7 @@ Besluit:
 
 2. Een aanvraag als bedoeld in het eerste lid kan worden ingediend door eigenaren van wegen of stroken die zijn aangemeld in het kader van de aanvullende inventarisatie van asbestwegen, zoals die is uitgevoerd door de provincies Overijssel en Gelderland in de periode 15 mei 2006 tot en met 1 juli 2006.
 
-#### Artikel 4
+##### Artikel 4
 
 De minister kan een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) slechts doen verrichten indien:
 
@@ -84,21 +110,21 @@ De minister kan een handeling als bedoeld in [artikel 3](https://wetten.overheid
 
 - d. de weg niet voldoet aan [artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011658&artikel=3).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister kan aan de beschikking op een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) nadere voorwaarden verbinden.
 
 2. De minister kan naar aanleiding van een aanvraag als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) vanwege zwaarwichtige redenen besluiten om niet of niet volledig tot het doen verwijderen van asbest uit een asbestbevattende weg of strook over te gaan en kan in de plaats daarvan besluiten tot het doen aanbrengen van een duurzame afscherming van het asbest overeenkomstig [artikel 3, onderdeel b, van de Regeling nadere voorschriften asbestwegen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0011658&artikel=3).
 
-#### Artikel 6
+##### Artikel 6
 
 De minister draagt er zorg voor dat de handelingen, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01), worden verricht overeenkomstig de bij of krachtens de wet gegeven regels.
 
-#### Artikel 7
+##### Artikel 7
 
 Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog niet geheel zijn verricht, kan de minister de desbetreffende beschikking intrekken of ten nadele van de ontvanger wijzigen indien blijkt dat de ontvanger onjuiste of onvolledige gegevens heeft verstrekt en de verstrekking van juiste of volledige gegevens tot een andere beschikking op de aanvraag zou hebben geleid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Aanvragen als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
 
@@ -110,13 +136,13 @@ Zolang de handelingen waarvoor een beschikking op de aanvraag is gegeven, nog ni
 
 #### § 3. Saneringen voor de datum van aanvang van de aanvullende inventarisatie
 
-#### Artikel 9
+##### Artikel 9
 
 1. De minister kan op aanvraag een subsidie vaststellen ter vergoeding van kosten die een eigenaar van een asbestbevattende weg of asbestbevattende stroken heeft gemaakt in verband met het verrichten van een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01).
 
 2. Met betrekking tot een subsidie in verband met de uitvoering van een handeling als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=2&artikel=3&z=2024-01-01&g=2024-01-01) worden als subsidiabele kosten in aanmerking genomen de kosten, inclusief de voorbereidingskosten, die de betrokken eigenaar voor het verwijderen van het asbest uit de asbestbevattende weg of strook en, indien van toepassing, voor het op de weg of strook aanbrengen van zand of menggranulaat heeft gemaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 De minister kan een subsidie als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) slechts vaststellen indien:
 
@@ -128,7 +154,7 @@ De minister kan een subsidie als bedoeld in [artikel 9](https://wetten.overheid.
 
 - d. de desbetreffende handeling is verricht overeenkomstig de bij of krachtens de wet gegeven regels.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Aanvragen als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0021724&paragraaf=3&artikel=9&z=2024-01-01&g=2024-01-01) kunnen uitsluitend worden ingediend door eigenaren van wegen of stroken.
 
@@ -146,11 +172,11 @@ De minister kan een subsidie als bedoeld in [artikel 9](https://wetten.overheid.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Saneringsregeling asbestwegen derde fase.
 

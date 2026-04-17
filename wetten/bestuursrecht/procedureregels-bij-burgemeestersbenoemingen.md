@@ -1,13 +1,37 @@
 ---
 title: "Procedureregels bij burgemeestersbenoemingen"
 identifier: "BWBR0012683"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-08-01
-laatste_update: 2001-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012683"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-08-01"
+last_updated: "2001-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012683"
+soort: "circulaire"
+stam_id: "6266313"
+version_id: "10948832"
+internal_id: "C14844421"
+label_id: "6255134"
+original_entry_into_force: "2001-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012683/2001-08-01/0"
+intitule_bron: "Stcrt.2001-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-12"
+intitule_published: "2001-07-31"
+intitule_in_force: "2001-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-145"
+original_signed_date: "2001-07-12"
+original_published_date: "2001-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-145-p6-SC30324"
+entry_into_force_date: "2001-08-01"
+jci_1_3: "jci1.3:c:BWBR0012683&z=2001-08-01&g=2001-08-01"
+jci_1_0: "1.0:c:BWBR0012683&g=2001-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-07-12"
+entry_into_force: "2001-08-01"
 ---
-
 # Procedureregels bij burgemeestersbenoemingen
 
 Aan de Commissarissen van de Koningin en de gemeentebesturen

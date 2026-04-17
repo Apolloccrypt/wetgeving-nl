@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel kwaliteit opvang diersoorten"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 16 november 2015, nr. DGAN-PDJNG 15151244, houdende vaststelling van beleidsregels over de kwaliteit van de opvang van beschermde inheemse diersoorten, beschermde uitheemse diersoorten en diersoorten die niet zijn opgenomen (beleidsregels kwaliteit opvang diersoorten)"
 identifier: "BWBR0037263"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037263"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037263"
+soort: "beleidsregel"
+stam_id: "13322353"
+version_id: "22820302"
+internal_id: "C32983641"
+label_id: "13290124"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037263/2025-01-01/0"
+intitule_bron: "Stcrt.2015-42940"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-16"
+intitule_published: "2015-12-01"
+intitule_in_force: "2015-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-42940"
+original_signed_date: "2015-11-16"
+original_published_date: "2015-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-42940"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037263&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0037263&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel kwaliteit opvang diersoorten"
+signed_date: "2015-11-16"
+entry_into_force: "2016-01-01"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 16 november 2015, nr. DGAN-PDJNG 15151244, houdende vaststelling van beleidsregels over de kwaliteit van de opvang van beschermde inheemse diersoorten, beschermde uitheemse diersoorten en diersoorten die niet zijn opgenomen (beleidsregels kwaliteit opvang diersoorten)
 
 Gelet op [artikel 75, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=75), en [79, eerste lid, van de Flora- en faunawet](https://wetten.overheid.nl/jci1.3:c:BWBR0009640&artikel=79) en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze beleidsregel geldt voor opvangcentra die dieren van van nature in Nederland in het wild voorkomende soorten of van niet van nature in Nederland in het wild voorkomende soorten opvangen of gaan opvangen, ten aanzien waarvan over het vangen of onder zich houden regels zijn gesteld in [afdeling 11.2 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&afdeling=11.2), of die dieren opvangen van soorten of categorieën die ingevolge [artikel 2.2, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=2.2) verboden zijn om te houden, en heeft betrekking op:
 
@@ -28,7 +54,7 @@ Besluit:
 
 3. Deze beleidsregel is gebaseerd op [artikel 5.1, tweede lid, aanhef en onderdeel g, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in samenhang met [artikel 4.12 van het Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278&artikel=4.12) en de [artikelen 11.46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.46), [11.47, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.47) en [11.54, eerste lid, van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.54), op de [artikelen 11.25](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.25) en [11.31](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.31) in samenhang met de [artikelen 11.93](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.93), [11.96](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.96) en [11.101 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=11.101) lid, op [artikel 10.1, eerste lid, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=10.1), en op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81).
 
-#### Artikel 2
+##### Artikel 2
 
 Een omgevingsvergunning of ontheffing als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2025-01-01&g=2025-01-01) wordt slechts aan een opvangcentrum verleend en een maatwerkvoorschrift als bedoeld in artikel 1 wordt slechts ten aanzien van een opvangcentrum gesteld, als:
 
@@ -40,7 +66,7 @@ Een omgevingsvergunning of ontheffing als bedoeld in [artikel 1](https://wetten.
 
 - d. het opvangcentrum een register voert overeenkomstig [artikel 4.9 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=4.9).
 
-#### Artikel 3
+##### Artikel 3
 
 Het handelen overeenkomstig het protocol dat is opgenomen in de bijlage bij dit besluit wordt:
 
@@ -48,19 +74,19 @@ Het handelen overeenkomstig het protocol dat is opgenomen in de bijlage bij dit 
 
 - b. gesteld met een maatwerkvoorschrift als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0037263&artikel=1&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Beleidsregel kwaliteit opvang diersoorten.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 januari 2016.
 

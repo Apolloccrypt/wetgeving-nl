@@ -1,20 +1,46 @@
 ---
-title: "Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 13 februari 2024, nr. IENW/BSK-2024/49004, houdende regels voor verstrekking van specifieke uitkeringen voor mobiliteitsmaatregelen (Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw)"
 identifier: "BWBR0049400"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-20
-laatste_update: 2024-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049400"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-11-20"
+last_updated: "2024-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049400"
+soort: "ministeriele-regeling"
+stam_id: "17037753"
+version_id: "30424632"
+internal_id: "C43629941"
+label_id: "16947394"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049400/2024-11-20/0"
+intitule_bron: "Stcrt.2024-5017"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-13"
+intitule_published: "2024-02-23"
+intitule_in_force: "2024-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-37611"
+original_signed_date: "2024-11-18"
+original_published_date: "2024-11-19"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-37611"
+entry_into_force_date: "2024-11-18"
+jci_1_3: "jci1.3:c:BWBR0049400&z=2024-11-20&g=2024-11-20"
+jci_1_0: "1.0:c:BWBR0049400&g=2024-11-20"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw"
+signed_date: "2024-11-18"
+entry_into_force: "2024-11-18"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 13 februari 2024, nr. IENW/BSK-2024/49004, houdende regels voor verstrekking van specifieke uitkeringen voor mobiliteitsmaatregelen (Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw)
 
 Gelet op [artikel 17, vijfde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17), de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=4) en [5 van de Kaderwet subsidies I en M](https://wetten.overheid.nl/jci1.3:c:BWBR0032789&artikel=5) en [artikel 6, tweede en derde lid, van de Wet Mobiliteitsfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044860&artikel=6);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - **openbaar lichaam:** openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&artikel=8).
 
-#### Artikel 2. Doel van regeling
+##### Artikel 2. Doel van regeling
 
 Deze regeling heeft tot doel om gemeenten en openbare lichamen in staat te stellen mobiliteitsmaatregelen te realiseren zodat op de grootschalige NOVEX-woningbouwlocaties woningbouw kan plaatsvinden.
 
-#### Artikel 3. Verlening op aanvraag
+##### Artikel 3. Verlening op aanvraag
 
 1. De minister kan op aanvraag van een gemeente of een openbaar lichaam, genoemd in de bijlage, een specifieke uitkering verlenen voor de realisatie van mobiliteitsmaatregelen, genoemd in de bijlage, bij een woningbouwlocatie, genoemd in de bijlage.
 
@@ -72,11 +98,11 @@ Deze regeling heeft tot doel om gemeenten en openbare lichamen in staat te stell
 
 4. Een aanvraag kan tot uiterlijk twee maanden na het tijdstip van inwerkingtreding van deze regeling worden ingediend met gebruikmaking van een daartoe door de minister beschikbaar gesteld digitaal aanvraagformulier.
 
-#### Artikel 4. Uitkeringsplafond
+##### Artikel 4. Uitkeringsplafond
 
 Het uitkeringsplafond bedraagt € 1.049.060.000 op basis van prijspeil 2022.
 
-#### Artikel 5. Kosten die in aanmerking komen voor specifieke uitkering
+##### Artikel 5. Kosten die in aanmerking komen voor specifieke uitkering
 
 1. Voor een specifieke uitkering komen in aanmerking de kosten voor de realisatie van mobiliteitsmaatregelen, genoemd in de bijlage, bij een woningbouwlocatie, genoemd in de bijlage.
 
@@ -94,7 +120,7 @@ Het uitkeringsplafond bedraagt € 1.049.060.000 op basis van prijspeil 2022.
 
 3. Indien een mobiliteitsmaatregel een mobiliteitshub behelst worden de verwachte netto-opbrengsten van een mobiliteitshub gelet op de voorziene exploitatiekosten en -inkomsten in mindering gebracht op de kosten van de mobiliteitshub die voor een specifieke uitkering in aanmerking komen.
 
-#### Artikel 6. Verlening
+##### Artikel 6. Verlening
 
 1. De minister besluit op een aanvraag binnen dertien weken na ontvangst.
 
@@ -118,7 +144,7 @@ Het uitkeringsplafond bedraagt € 1.049.060.000 op basis van prijspeil 2022.
 
 3. De bedragen genoemd in het tweede lid, onderdeel b, zijn de bedragen op basis van prijspeil 2022.
 
-#### Artikel 7. Afwijzingsgronden
+##### Artikel 7. Afwijzingsgronden
 
 De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
@@ -132,13 +158,13 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 - e. indien naar het oordeel van de minister op het moment van indiening van de aanvraag niet aannemelijk is dat zal worden voldaan aan een van de verplichtingen genoemd in [artikel 9, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=9&z=2024-11-20&g=2024-11-20).
 
-#### Artikel 8. Indexering
+##### Artikel 8. Indexering
 
 1. Het maximale bedrag, bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=3&z=2024-11-20&g=2024-11-20), alsmede de bedragen, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=6&z=2024-11-20&g=2024-11-20), worden jaarlijks op 1 oktober geïndexeerd overeenkomstig de door de Minister van Financiën uitgekeerde Index Bruto Overheidsinvesteringen, voor zover die bedragen op die datum nog niet als voorschot zijn uitgekeerd.
 
 2. De bedragen, bedoeld in het eerste lid, worden tevens geïndexeerd overeenkomstig de door de Minister van Financiën uitgekeerde Index Bruto Overheidsinvesteringen zoals deze op 1 oktober 2023 zou hebben plaatsgehad, indien deze regeling voor die datum in werking zou zijn getreden.
 
-#### Artikel 9. Verplichtingen ontvanger
+##### Artikel 9. Verplichtingen ontvanger
 
 1. De ontvanger realiseert de mobiliteitsmaatregel of mobiliteitsmaatregelen waarvoor de specifieke uitkering is verleend.
 
@@ -166,7 +192,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 9. De minister kan nadere voorschriften aan de specifieke uitkering verbinden, waarbij in bijzondere omstandigheden kan worden afgeweken van het vijfde lid.
 
-#### Artikel 10. Bevoorschotting en wijze van betaling
+##### Artikel 10. Bevoorschotting en wijze van betaling
 
 1. De minister verleent bij een besluit tot verlening van een specifieke uitkering een voorschot ter hoogte van het totaalbedrag van de specifieke uitkering, bedoeld in [artikel 6, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=6&z=2024-11-20&g=2024-11-20).
 
@@ -178,7 +204,7 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 4. De minister kan de uitkering van het voorschot geheel of gedeeltelijk opschorten indien niet wordt voldaan aan de bij deze regeling of bij het besluit tot verlening van de specifieke uitkering gestelde verplichtingen.
 
-#### Artikel 11. Wijziging specifieke uitkering op aanvraag
+##### Artikel 11. Wijziging specifieke uitkering op aanvraag
 
 1. De minister kan het besluit tot verlening van de specifieke uitkering op aanvraag van de ontvanger wijzigen. De minister besluit binnen dertien weken na ontvangst van de aanvraag.
 
@@ -198,11 +224,11 @@ De minister beslist geheel of gedeeltelijk afwijzend op een aanvraag indien:
 
 7. Het percentage van het bedrag van de specifieke uitkering in het voorziene resterende financiële tekort per woningbouwlocatie is in het gewijzigde besluit niet hoger dan in het oorspronkelijke besluit.
 
-#### Artikel 12. Verantwoording
+##### Artikel 12. Verantwoording
 
 De verantwoording van de ontvanger over de besteding van de specifieke uitkering vindt plaats op de wijze die is bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
-#### Artikel 13. Vaststelling
+##### Artikel 13. Vaststelling
 
 1. De minister stelt de specifieke uitkering ambtshalve vast uiterlijk 31 december van het jaar waarop de laatste verantwoording overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=12&z=2024-11-20&g=2024-11-20) heeft plaatsgevonden.
 
@@ -222,17 +248,17 @@ De verantwoording van de ontvanger over de besteding van de specifieke uitkering
 
 6. Indien uit de verantwoording blijkt dat het resterende financiële tekort per woningbouwlocatie lager is dan het voorziene resterende financiële tekort, bedoeld in [artikel 6, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=6&z=2024-11-20&g=2024-11-20), dan wordt het bedrag van de specifieke uitkering niet hoger vastgesteld dan het percentage, bedoeld in artikel 6, tweede lid, onderdeel g, van het resterende financiële tekort.
 
-#### Artikel 14. Evaluatie
+##### Artikel 14. Evaluatie
 
 In afwijking van [artikel 4:24 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:24) publiceert de minister uiterlijk 1 september 2031 en 1 september 2036 een verslag over de doeltreffendheid en de effecten van deze regeling in de praktijk.
 
-#### Artikel 15. Inwerkingtreding en vervaldatum
+##### Artikel 15. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de eerste dag van de kalendermaand na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 30 september 2036, met dien verstande dat zij van toepassing blijft op specifieke uitkeringen die voor die datum zijn verstrekt.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering mobiliteitspakketten ten behoeve van woningbouw.
 
@@ -539,7 +565,7 @@ Deze regeling wordt aangehaald als: Tijdelijke regeling specifieke uitkering mob
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 13a. Hardheidsclausule
+##### Artikel 13a. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan gelet op het belang bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049400&artikel=2&z=2024-11-20&g=2024-11-20) zal leiden tot een onbillijkheid van overwegende aard.
 

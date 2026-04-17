@@ -1,13 +1,35 @@
 ---
-title: "Wijzigingsbesluit Schepenbesluit 1965 (2)"
+title: "Besluit van 13 november 1991, houdende wijziging van het Schepenbesluit 1965"
 identifier: "BWBR0005268"
-categorie: "Overig"
-publicatiedatum: 1992-01-01
-laatste_update: 1992-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005268"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005268"
+soort: "rijksKB"
+stam_id: "1487413"
+version_id: "2222432"
+internal_id: "C2222431"
+label_id: "1444514"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005268/1992-01-01/0"
+intitule_bron: "Stb.1991-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-13"
+intitule_status: "goed"
+original_publication: "Stb.1991-640"
+original_signed_date: "1991-11-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005268&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBR0005268&g=1992-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit Schepenbesluit 1965 (2)"
+signed_date: "1991-11-13"
+entry_into_force: "1992-01-01"
 ---
-
 # Besluit van 13 november 1991, houdende wijziging van het Schepenbesluit 1965
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 27 februari 1991. nr. S/J 31 313/91, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -30,15 +52,15 @@ De bepalingen van het Statuut voor het Koninkrijk in acht genomen zijnde;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III. Overgangsbepalingen
+##### Artikel III. Overgangsbepalingen
 
 1. Tenzij uitdrukkelijk anders is bepaald, zijn op schepen gebouwd vóór 1 januari 1992 de bepalingen van het [Schepenbesluit 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002501), zoals gewijzigd bij dit besluit, met betrekking tot de constructie, inrichting en de uitrusting, voor zover deze afwijken van die welke voor deze wijziging werden gehanteerd, van toepassing voor zover dit naar het oordeel van het Hoofd van de Scheepvaartinspectie praktisch uitvoerbaar en redelijk is.
 
@@ -52,7 +74,7 @@ Bevat wijzigingen in andere regelgeving.
 
 - b. moeten op schepen gebouwd vóór 1 juli 1986, aan het bepaalde in de leden 2.1 en 3.1 van artikel 56 van bijlage XIA vóór 1 januari 1992 zijn voldaan.
 
-#### Artikel IV. Slotbepaling
+##### Artikel IV. Slotbepaling
 
 Dit besluit treedt in werking met ingang van 1 januari 1992.
 

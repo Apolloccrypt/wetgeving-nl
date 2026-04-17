@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk"
 identifier: "BWBV0005127"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-06-01
-laatste_update: 2007-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005127"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-06-01"
+last_updated: "2007-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005127"
+soort: "verdrag"
+stam_id: "10004479083"
+version_id: "10004825762"
+internal_id: "C10007213341"
+label_id: "10004464284"
+dtd_version: "2.0"
+original_entry_into_force: "2007-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005127/2007-06-01/0"
+intitule_bron: "Trb.2007-69"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2007-03-27"
+intitule_in_force: "2007-03-27"
+intitule_status: "vervallen"
+original_publication: "Trb.2007-69"
+original_published_date: "2007-03-27"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2007-69"
+entry_into_force_date: "2007-06-01"
+jci_1_3: "jci1.3:c:BWBV0005127&z=2007-06-01&g=2007-06-01"
+jci_1_0: "1.0:c:BWBV0005127&g=2007-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2007-06-01"
 ---
-
 # Verdrag inzake sociale zekerheid tussen het Koninkrijk der Nederlanden en het Verenigd Koninkrijk
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland,
@@ -24,49 +46,49 @@ Zijn overeengekomen als volgt:
 
 ## TITEL I. Begripsbepalingen en werkingssfeer
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 ## TITEL II. Algemene bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
@@ -74,177 +96,177 @@ Vervallen
 
 ### HOOFDSTUK EERSTE. Ziekengeld-, moederschaps- en werkloosheidsuitkeringen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### HOOFDSTUK TWEEDE. Invaliditeitsrenten
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
 ### HOOFDSTUK DERDE. Ouderdomsrente
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### HOOFDSTUK VIERDE. Weduwen- en wezenrenten
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### HOOFDSTUK VIJFDE. Bedrijfsongevallen en beroepsziekten
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
 ### HOOFDSTUK ZESDE. Algemene bepalingen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
 ## TITEL IV. Diverse bepalingen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
 Bij de ondertekening van het Verdrag inzake sociale zekerheid van heden zijn namens de Regering van het Koninkrijk der Nederlanden en de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierland de ondergetekenden, daartoe naar behoren gemachtigd, overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende groepen van personen hebben tijdens hun verblijf op het grondgebied van het Verenigd Koninkrijk recht op de uitkeringen in natura op grond van de wettelijke regelingen van het Verenigd Koninkrijk onder dezelfde voorwaarden als onderdanen („citizens”) van het Verenigd Koninkrijk en zijn Koloniën, die wonen op het grondgebied van het Verenigd Koninkrijk:
 
@@ -256,7 +278,7 @@ De volgende groepen van personen hebben tijdens hun verblijf op het grondgebied 
 
 - 4. onderdanen van het Koninkrijk der Nederlanden, die wonen op het grondgebied van het Verenigd Koninkrijk en die recht hebben op enigerlei uitkering ingevolge de wettelijke regelingen van het Koninkrijk der Nederlanden, alsmede zij, die als gevolg van de verzekering van die onderdanen indirect verzekerd zijn en wonen op het grondgebied van het Verenigd Koninkrijk.
 
-#### Artikel 2
+##### Artikel 2
 
 De volgende groepen van personen hebben tijdens hun verblijf op het grondgebied van het Koninkrijk der Nederlanden recht op de uitkeringen in natura op grond van de wettelijke regelingen van het Koninkrijk der Nederlanden, indien zij voldoen aan de voorwaarden, gesteld bij die wettelijke regelingen, waarbij elk verzekeringstijdvak of daarmede gelijkgesteld tijdvak, vervuld onder de wettelijke regelingen van het Verenigd Koninkrijk, geacht wordt te zijn vervuld krachtens de wettelijke regelingen van het Koninkrijk der Nederlanden:
 
@@ -270,19 +292,19 @@ De volgende groepen van personen hebben tijdens hun verblijf op het grondgebied 
 
 - 5. wezen, die onderdaan zijn van een der Verdragsluitende Partijen en wonen op het grondgebied van het Koninkrijk der Nederlanden en voor wie een wezenuitkering ingevolge de wettelijke regelingen van het Verenigd Koninkrijk wordt verstrekt.
 
-#### Artikel 3
+##### Artikel 3
 
 De bevoegde autoriteiten stellen die administratieve maatregelen vast, welke noodzakelijk zijn voor de toepassing van dit Protocol.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de toepassing van dit Protocol hebben de woorden „grondgebied”, „onderdaan”, „werkzaamheid”, „nagelaten betrekkingen” of „indirect verzekerden”, „wettelijke regelingen” en „bevoegd orgaan” de betekenis, welke er in eerdergenoemd Verdrag inzake sociale zekerheid aan is gegeven, terwijl onder de term „uitkeringen in natura”, voor wat het Verenigd Koninkrijk betreft, wordt verstaan de uitkeringen in natura, verstrekt door de National Health Services van het Verenigd Koninkrijk en voor wat het Koninkrijk der Nederlanden betreft de uitkeringen in natura, verstrekt ingevolge de Nederlandse ziekenfondsverzekering.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit Protocol wordt bekrachtigd en de akten van bekrachtiging worden zo spoedig mogelijk te Londen uitgewisseld. Het Protocol treedt in werking op de eerste dag van de maand, volgende op die, waarin de uitwisseling van de akten van bekrachtiging heeft plaats gevonden.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Protocol blijft van kracht gedurende een tijdvak van één jaar na de inwerkingtreding. Het zal daarna stilzwijgend van jaar tot jaar worden verlengd behoudens schriftelijke opzegging, welke drie maanden vóór afloop van een zodanig jaarlijks tijdvak dient plaats te vinden.
 
@@ -320,26 +342,26 @@ Voor de Regering van het Verenigd Koninkrijk van Groot-Britannië en Noord-Ierla
 
 ## TITEL IV. Diverse bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen

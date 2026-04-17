@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst"
 identifier: "BWBV0003771"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1998-10-01
-laatste_update: 1998-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003771"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-10-01"
+last_updated: "1998-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003771"
+soort: "verdrag"
+stam_id: "10003704943"
+version_id: "10003765972"
+internal_id: "C10006980191"
+label_id: "10003690324"
+dtd_version: "2.0"
+original_entry_into_force: "1991-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003771/1998-10-01/0"
+intitule_bron: "Trb.1980-156"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-10-01"
+intitule_in_force: "1991-07-27"
+intitule_status: "goed"
+original_publication: "Trb.1980-156"
+original_published_date: "1980-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-156"
+entry_into_force_date: "1991-09-01"
+jci_1_3: "jci1.3:c:BWBV0003771&z=1998-10-01&g=1998-10-01"
+jci_1_0: "1.0:c:BWBV0003771&g=1998-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1991-09-01"
 ---
-
 # Verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst
 
 Preambule
@@ -22,7 +44,7 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 ## TITEL I. TOEPASSINGSGEBIED
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. De bepalingen van dit Verdrag zijn van toepassing op verbintenissen uit overeenkomst in gevallen waarin uit het recht van verschillende landen moet worden gekozen.
 
@@ -54,13 +76,13 @@ Hebben overeenstemming bereikt omtrent de volgende bepalingen:
 
 4. Het voorgaande lid is niet van toepassing op herverzekeringsovereenkomsten.
 
-#### Artikel 2. Toepassing van het recht van niet-verdragsluitende Staten
+##### Artikel 2. Toepassing van het recht van niet-verdragsluitende Staten
 
 Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het het recht is van een verdragsluitende Staat.
 
 ## TITEL II. EENVORMIGE REGELS
 
-#### Artikel 3. Rechtskeuze door partijen
+##### Artikel 3. Rechtskeuze door partijen
 
 1. Een overeenkomst wordt beheerst door het recht dat partijen hebben gekozen. De rechtskeuze moet uitdrukkelijk zijn gedaan of voldoende duidelijk blijken uit de bepalingen van de overeenkomst of de omstandigheden van het geval. Bij hun keuze kunnen partijen het toepasselijke recht aanwijzen voor de overeenkomst in haar geheel of voor slechts een onderdeel daarvan.
 
@@ -70,7 +92,7 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 4. De vraag of er overeenstemming tussen partijen tot stand is gekomen over de keuze van het toepasselijke recht en of deze overeenstemming geldig is, wordt beheerst door de artikelen 8, 9 en 11.
 
-#### Artikel 4. Het recht, dat bij gebreke van een rechtskeuze door partijen toepasselijk is
+##### Artikel 4. Het recht, dat bij gebreke van een rechtskeuze door partijen toepasselijk is
 
 1. Voor zover geen keuze overeenkomstig artikel 3 van het op de overeenkomst toepasselijke recht is gedaan, wordt de overeenkomst beheerst door het recht van het land waarmee zij het nauwst is verbonden. Indien evenwel een deel van de overeenkomst kan worden afgescheiden en dit deel nauwer verbonden is met een ander land, kan hierop bij wijze van uitzondering het recht van dat andere land worden toegepast.
 
@@ -82,7 +104,7 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 5. Het tweede lid vindt geen toepassing indien niet kan worden vastgesteld welke de kenmerkende prestatie is. De vermoedens van het tweede, derde en vierde lid gelden niet wanneer uit het geheel der omstandigheden blijkt dat de overeenkomst nauwer is verbonden met een ander land.
 
-#### Artikel 5. Door consumenten gesloten overeenkomsten
+##### Artikel 5. Door consumenten gesloten overeenkomsten
 
 1. Dit artikel is van toepassing op overeenkomsten die betrekking hebben op de levering van roerende lichamelijke zaken of de verstrekking van diensten aan een persoon, de consument, voor een gebruik dat als niet bedrijfs- of beroepsmatig kan worden beschouwd, alsmede op overeenkomsten ter financiering van een dergelijke levering of verstrekking.
 
@@ -104,7 +126,7 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 5. Ongeacht het vierde lid is dit artikel van toepassing op de overeenkomst waarbij voor één enkele prijs zowel vervoer als verblijf wordt aangeboden.
 
-#### Artikel 6. Individuele arbeidsovereenkomsten
+##### Artikel 6. Individuele arbeidsovereenkomsten
 
 1. Ongeacht artikel 3 kan de rechtskeuze van partijen in een arbeidsovereenkomst er niet toe leiden dat de werknemer de bescherming verliest welke hij geniet op grond van de dwingende bepalingen van het recht dat ingevolge het tweede lid van het onderhavige artikel bij gebreke van een rechtskeuze op hem van toepassing zou zijn.
 
@@ -116,19 +138,19 @@ Het door dit Verdrag aangewezen recht is toepasselijk, ongeacht de vraag of het 
 
 tenzij uit het geheel der omstandigheden blijkt dat de arbeidsovereenkomst nauwer is verbonden met een ander land, in welk geval het recht van dat andere land toepasselijk is.
 
-#### Artikel 7. Bepalingen van bijzonder dwingend recht
+##### Artikel 7. Bepalingen van bijzonder dwingend recht
 
 1. Bij de toepassing ingevolge dit Verdrag van het recht van een bepaald land kan gevolg worden toegekend aan de dwingende bepalingen van het recht van een ander land waarmede het geval nauw is verbonden, indien en voor zover deze bepalingen volgens het recht van dit laatstgenoemde land toepasselijk zijn, ongeacht het recht dat de overeenkomst beheerst. Bij de beslissing of aan deze dwingende bepalingen gevolg moet worden toegekend, wordt rekening gehouden met hun aard en strekking, alsmede met de gevolgen die uit de toepassing of niet-toepassing van deze bepalingen zouden voortvloeien.
 
 2. Dit Verdrag laat de toepassing onverlet van de bepalingen van het recht van het land van de rechter die ongeacht het op de overeenkomst toepasselijke recht, het geval dwingend beheersen.
 
-#### Artikel 8. Bestaan en materiële geldigheid
+##### Artikel 8. Bestaan en materiële geldigheid
 
 1. Het bestaan en de geldigheid van de overeenkomst of van een bepaling daarvan worden beheerst door het recht dat ingevolge dit Verdrag toepasselijk zou zijn, indien de overeenkomst of de bepaling geldig zou zijn.
 
 2. Niettemin kan een partij zich, voor het bewijs dat zij haar toestemming niet heeft verleend, beroepen op het recht van het land waar zij haar gewone verblijfplaats heeft, indien uit de omstandigheden blijkt dat het niet redelijk zou zijn de gevolgen van haar gedrag te bepalen overeenkomstig het recht, bedoeld in het voorgaande lid.
 
-#### Artikel 9. Vorm
+##### Artikel 9. Vorm
 
 1. Een overeenkomst die is gesloten tussen personen die zich in een zelfde land bevinden, is wat de vorm betreft geldig indien zij voldoet aan de vormvereisten van het recht dat ingevolge dit Verdrag op de overeenkomst zelve van toepassing is, of van het recht van het land waar de overeenkomst is gesloten.
 
@@ -142,7 +164,7 @@ tenzij uit het geheel der omstandigheden blijkt dat de arbeidsovereenkomst nauwe
 
 6. Ongeacht het eerste tot en met het vierde lid van dit artikel wordt de overeenkomst die een zakelijk recht op of een recht tot gebruik van een onroerend goed tot onderwerp heeft, beheerst door de dwingende vormvoorschriften van het recht van het land waar het onroerend goed is gelegen, voor zover die voorschriften volgens dat recht toepasselijk zijn ongeacht de plaats waar de overeenkomst werd gesloten en ongeacht het daarop toepasselijke recht.
 
-#### Artikel 10. De onderwerpen die het toepasselijke recht beheerst
+##### Artikel 10. De onderwerpen die het toepasselijke recht beheerst
 
 1. Het recht dat ingevolge de artikelen 3 tot en met 6 en 12 van dit Verdrag op de overeenkomst toepasselijk is, beheerst met name:
 
@@ -158,59 +180,59 @@ tenzij uit het geheel der omstandigheden blijkt dat de arbeidsovereenkomst nauwe
 
 2. Ten aanzien van de wijze van nakoming en de door de schuldeiser in geval van tekortkoming te nemen maatregelen, wordt rekening gehouden met het recht van het land waar de overeenkomst wordt nagekomen.
 
-#### Artikel 11. Handelingsonbekwaamheid
+##### Artikel 11. Handelingsonbekwaamheid
 
 Bij een overeenkomst die is gesloten tussen personen die zich in eenzelfde land bevinden, kan een natuurlijke persoon die volgens het recht van dat land handelingsbekwaam is, zich slechts beroepen op het feit dat hij volgens een ander recht handelingsonbekwaam is, indien de wederpartij ten tijde van de sluiting van de overeenkomst deze onbekwaamheid kende of door nalatigheid niet kende.
 
-#### Artikel 12. Cessie
+##### Artikel 12. Cessie
 
 1. De verbintenissen tussen cedent en cessionaris van een vordering worden beheerst door het recht dat ingevolge dit Verdrag op de tussen hen bestaande overeenkomst van toepassing is.
 
 2. Het recht dat de gecedeerde vordering beheerst, bepaalt of zij voor cessie vatbaar is, alsmede de betrekkingen tussen cessionaris en schuldenaar, de voorwaarden waaronder de cessie aan de schuldenaar kan worden tegengeworpen en of de schuldenaar door betaling is bevrijd.
 
-#### Artikel 13. Subrogatie
+##### Artikel 13. Subrogatie
 
 1. Indien een persoon, de schuldeiser, een vordering uit overeenkomst heeft jegens een andere persoon, de schuldenaar, en een derde verplicht is de schuldeiser te voldoen, dan wel deze reeds door de derde op grond van deze verplichting is voldaan, bepaalt het recht dat op de verplichting van de derde toepasselijk is, of deze de rechten die de schuldeiser jegens de schuldenaar heeft overeenkomstig het recht dat hun betrekkingen beheerst, kan uitoefenen en zo ja, in welke mate.
 
 2. Hetzelfde geldt wanneer verschillende personen door dezelfde overeenkomst zijn gebonden en een van hen de schuldeiser heeft voldaan.
 
-#### Artikel 14. Bewijs
+##### Artikel 14. Bewijs
 
 1. Het recht dat ingevolge dit Verdrag de overeenkomst beheerst, is van toepassing voor zover het ten aanzien van verbintenissen uit overeenkomst wettelijke vermoedens vestigt of regels over de verdeling van de bewijslast bevat.
 
 2. Rechtshandelingen kunnen worden bewezen door ieder middel dat is toegelaten door het recht van de rechter of door een der in artikel 9 bedoelde rechtsstelsels volgens hetwelk de rechtshandeling wat haar vorm betreft geldig is, voor zover dit middel van bewijsvoering kan worden opgedragen door de rechter bij wie de zaak aanhangig is.
 
-#### Artikel 15. Uitsluiting van herverwijzing
+##### Artikel 15. Uitsluiting van herverwijzing
 
 Wanneer dit Verdrag de toepassing van het recht van een land voorschrijft, worden daaronder verstaan de rechtsregels die in dat land gelden met uitsluiting van het internationaal privaatrecht.
 
-#### Artikel 16. Openbare orde
+##### Artikel 16. Openbare orde
 
 De toepassing van een bepaling van het door dit Verdrag aangewezen recht kan slechts terzijde worden gesteld indien deze toepassing kennelijk onverenigbaar is met de openbare orde van het land van de rechter.
 
-#### Artikel 17. Overgangsbepaling
+##### Artikel 17. Overgangsbepaling
 
 Dit Verdrag is in een verdragsluitende Staat van toepassing op overeenkomsten die zijn gesloten nadat het voor deze Staat in werking is getreden.
 
-#### Artikel 18. Eenvormige uitlegging
+##### Artikel 18. Eenvormige uitlegging
 
 Bij de uitlegging en de toepassing van de voorgaande eenvormige regels moet rekening worden gehouden met het internationale karakter ervan en de wenselijkheid om eenheid te bereiken in de wijze waarop zij worden uitgelegd en toegepast.
 
-#### Artikel 19. Staten met meer dan een rechtssysteem
+##### Artikel 19. Staten met meer dan een rechtssysteem
 
 1. Indien een Staat uit meer dan een territoriale eenheid bestaat en elke eenheid daarvan eigen rechtsregels voor verbintenissen uit overeenkomst bezit, wordt voor de bepaling van het overeenkomstig dit Verdrag toe te passen recht iedere territoriale eenheid als een land beschouwd.
 
 2. Een Staat waarbinnen verschillende territoriale eenheden eigen rechtsregels voor verbintenissen uit overeenkomst bezitten, is niet verplicht dit Verdrag toe te passen in gevallen waarin uitsluitend rechtsregels van deze territoriale eenheden voor toepassing in aanmerking komen.
 
-#### Artikel 20. Voorrang van het gemeenschapsrecht
+##### Artikel 20. Voorrang van het gemeenschapsrecht
 
 Dit Verdrag laat onverlet de toepassing van bepalingen die voor bijzondere gebieden regels van internationaal privaatrecht met betrekking tot verbintenissen uit overeenkomst bevatten en die zijn of zullen worden neergelegd in besluiten van de instellingen van de Europese Gemeenschappen of in ter uitvoering van deze besluiten geharmoniseerde nationale wetgevingen.
 
-#### Artikel 21. Verhouding tot andere verdragen
+##### Artikel 21. Verhouding tot andere verdragen
 
 Dit verdrag laat onverlet de toepassing van internationale verdragen waarbij een verdragsluitende Staat partij is of zal worden.
 
-#### Artikel 22. Voorbehouden
+##### Artikel 22. Voorbehouden
 
 1. Iedere verdragsluitende Staat kan zich op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring, het recht voorbehouden niet toe te passen:
 
@@ -224,7 +246,7 @@ Dit verdrag laat onverlet de toepassing van internationale verdragen waarbij een
 
 ## TITEL III. SLOTBEPALINGEN
 
-#### Artikel 23
+##### Artikel 23
 
 1. Indien een verdragsluitende Staat, nadat het Verdrag voor hem in werking is getreden, een nieuwe verwijzingsregel wenst vast te stellen voor een speciale categorie van overeenkomsten die onder het Verdrag vallen, geeft hij de andere Staten die het Verdrag hebben ondertekend, van zijn voornemen kennis door tussenkomst van de Secretaris-Generaal van de Raad van de Europese Gemeenschappen.
 
@@ -232,21 +254,21 @@ Dit verdrag laat onverlet de toepassing van internationale verdragen waarbij een
 
 3. Indien geen enkele Staat die het Verdrag heeft ondertekend binnen deze termijn om overleg heeft verzocht of indien binnen twee jaar na de kennisgeving aan de Secretaris-Generaal het overleg niet tot overeenstemming heeft geleid, kan de verdragsluitende Staat zijn recht wijzigen. De door deze Staat getroffen regeling wordt door tussenkomst van de Secretaris-Generaal van de Raad van de Europese Gemeenschappen ter kennis gebracht van de overige Staten die het Verdrag hebben ondertekend.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Indien een verdragsluitende Staat, nadat het onderhavige Verdrag voor hem in werking is getreden, partij wenst te worden bij een meerzijdig verdrag waarvan het voornaamste onderwerp of een der voornaamste onderwerpen een regeling van internationaal privaatrecht is betreffende een van de onderwerpen die door het onderhavige Verdrag worden beheerst, is de procedure van artikel 23 van toepassing. De termijn van twee jaar, bedoeld in artikel 23, derde lid, wordt evenwel teruggebracht tot een jaar.
 
 2. De in het voorgaande lid bedoelde procedure wordt niet gevolgd wanneer een verdragsluitende Staat of een van de Europese Gemeenschappen reeds partij is bij het meerzijdige verdrag, of wanneer daarmede wordt beoogd een verdrag te wijzigen waarbij de betrokken Staat partij is, of wanneer het een verdrag betreft dat werd gesloten in het kader van de Verdragen tot oprichting van de Europese Gemeenschappen.
 
-#### Artikel 25
+##### Artikel 25
 
 Wanneer een verdragsluitende Staat van oordeel is dat de door dit Verdrag tot stand gekomen eenmaking van het recht in gevaar wordt gebracht door het sluiten van andere dan de in artikel 24, eerste lid, bedoelde verdragen, kan deze Staat aan de Secretaris-Generaal van de Raad van de Europese Gemeenschappen verzoeken te bevorderen dat de Staten die het Verdrag hebben ondertekend, met elkaar in overleg treden.
 
-#### Artikel 26
+##### Artikel 26
 
 Iedere verdragsluitende Staat kan verzoeken om herziening van dit Verdrag. In dat geval roept de Voorzitter van de Raad der Europese Gemeenschappen een herzieningsconferentie bijeen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Verdrag is van toepassing op het Europese gebied van de verdragsluitende Staten, met inbegrip van Groenland en het volledige grondgebied van de Franse Republiek.
 
@@ -262,19 +284,19 @@ Iedere verdragsluitende Staat kan verzoeken om herziening van dit Verdrag. In da
 
 4. Beroepsprocedures die in het Verenigd Koninkrijk worden ingesteld tegen beslissingen van gerechten die zijn gelegen in een van de in het tweede lid, onder b), bedoelde gebieden, worden beschouwd als procedures die voor die gerechten worden gevoerd.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Dit Verdrag staat met ingang van 19 juni 1980 open voor ondertekening door de Staten die Partij zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506).
 
 2. Dit Verdrag wordt door de ondertekenende Staten bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van de Europese Gemeenschappen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Dit Verdrag treedt in werking op de eerste dag van de derde maand volgende op het nederleggen van de zevende akte van bekrachtiging, aanvaarding of goedkeuring.
 
 2. Voor elke ondertekenende Staat die het Verdrag nadien bekrachtigt, aanvaardt of goedkeurt, treedt het in werking op de eerste dag van de derde maand die volgt op het nederleggen van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Dit Verdrag heeft een looptijd van tien jaar, te rekenen vanaf het tijdstip waarop het overeenkomstig artikel 29, eerste lid, in werking treedt; het voorgaande geldt ook voor de Staten waarvoor dit Verdrag op een later tijdstip in werking treedt.
 
@@ -284,7 +306,7 @@ Iedere verdragsluitende Staat kan verzoeken om herziening van dit Verdrag. In da
 
 4. De opzegging geldt slechts ten aanzien van de Staat die haar heeft gedaan. Voor de andere verdragsluitende Staten blijft het Verdrag van kracht.
 
-#### Artikel 31
+##### Artikel 31
 
 De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Staten die Partij zijn bij het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) in kennis van:
 
@@ -298,11 +320,11 @@ De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de State
 
 - e). de voorbehouden en de intrekking van de voorbehouden bedoeld in artikel 22.
 
-#### Artikel 32
+##### Artikel 32
 
 Het aan dit Verdrag toegevoegde Protocol maakt een wezenlijk onderdeel van het Verdrag uit.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit Verdrag, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Franse, de Ierse, de Italiaanse en de Nederlandse taal, welke teksten gelijkelijk authentiek zijn, zal worden nedergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen. De Secretaris-Generaal zendt een voor eensluidend gewaarmerkt afschrift daarvan toe aan de Regeringen van de ondertekende Staten.
 

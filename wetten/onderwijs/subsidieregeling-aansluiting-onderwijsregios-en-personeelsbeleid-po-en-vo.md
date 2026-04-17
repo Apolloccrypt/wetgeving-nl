@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 februari 2025, nr. OPO/50466631, houdende regels voor het verstrekken van subsidie voor de aansluiting bij of de vorming van onderwijsregio’s en de stimulering van regionale samenwerking bij strategisch personeelsbeleid en de begeleiding van starters (Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo)"
 identifier: "BWBR0050812"
-categorie: "Onderwijs"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050812"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050812"
+soort: "ministeriele-regeling"
+stam_id: "17377103"
+version_id: "30633472"
+internal_id: "C43912821"
+label_id: "17280474"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050812/2025-03-01/0"
+intitule_bron: "Stcrt.2025-7297"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-02-20"
+intitule_published: "2025-02-28"
+intitule_in_force: "2025-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-7297"
+original_signed_date: "2025-02-20"
+original_published_date: "2025-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-7297"
+entry_into_force_date: "2025-03-01"
+jci_1_3: "jci1.3:c:BWBR0050812&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBR0050812&g=2025-03-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo"
+signed_date: "2025-02-20"
+entry_into_force: "2025-03-01"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 20 februari 2025, nr. OPO/50466631, houdende regels voor het verstrekken van subsidie voor de aansluiting bij of de vorming van onderwijsregio’s en de stimulering van regionale samenwerking bij strategisch personeelsbeleid en de begeleiding van starters (Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo)
 
 Gelet op de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=4) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=5) van de Wet overige OCW-subsidies en de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -56,17 +82,17 @@ In deze regeling wordt verstaan onder:
 
 - **WVO 2020:** [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212);
 
-#### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepassing [Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Deze regeling geldt in aanvulling op de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603).
 
 2. [Artikel 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.2) en [artikel 4.3, eerste lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=4.3) zijn niet van toepassing.
 
-#### Artikel 3. Activiteiten subsidie
+##### Artikel 3. Activiteiten subsidie
 
 De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 subsidie verstrekken aan een penvoerder als tegemoetkoming in de kosten voor de uitvoering van een plan van aanpak als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050812&artikel=7&z=2025-03-01&g=2025-03-01), gericht op de aansluiting bij een onderwijsregio of de oprichting van een onderwijsregio met ingang van 1 januari 2026 en op stimulering van regionale samenwerking op het gebied van strategisch personeelsbeleid en de begeleiding van starters.
 
-#### Artikel 4. Subsidieplafond en subsidiebedrag penvoerder
+##### Artikel 4. Subsidieplafond en subsidiebedrag penvoerder
 
 1. Voor subsidieverstrekking op grond van deze regeling is in 2025 in totaal een bedrag beschikbaar van € 1.500.000,–.
 
@@ -74,7 +100,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 3. Indien het bedrag, bedoeld in het eerste lid, ontoereikend is om alle daarvoor in aanmerking komende aanvragen te kunnen toewijzen, wordt het subsidiebedrag, bedoeld in het tweede lid, per aanvraag evenredig naar beneden bijgesteld.
 
-#### Artikel 5. Aanvraag subsidie
+##### Artikel 5. Aanvraag subsidie
 
 1. Een aanvraag voor de subsidie wordt ingediend door de penvoerder.
 
@@ -94,7 +120,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 5. De aanvraag voor de subsidie wordt medeondertekend door alle bevoegde gezagsorganen die betrokken zijn bij de aanvraag en indien [artikel 6, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050812&artikel=6&z=2025-03-01&g=2025-03-01), van toepassing is, de penvoerder van de onderwijsregio waaraan op grond van de [Subsidieregeling Landelijk dekkend netwerk onderwijsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0049781) subsidie is verstrekt. Hiermee verklaren zij gezamenlijk het plan van aanpak uit te zullen voeren. Zij verklaren bovendien dat alle gegevens die noodzakelijk zijn voor de verantwoording door de penvoerder van de besteding van de subsidie op verzoek aan de penvoerder worden verstrekt.
 
-#### Artikel 6. Eisen aan de aanvraag
+##### Artikel 6. Eisen aan de aanvraag
 
 1. De subsidie wordt aangevraagd door een penvoerder namens de bevoegde gezagsorganen van één of meerdere vestigingen in één of meerdere onderwijssectoren.
 
@@ -112,7 +138,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 8. Een vestiging kan slechts aan één aanvraag deelnemen.
 
-#### Artikel 7. Plan van aanpak
+##### Artikel 7. Plan van aanpak
 
 1. Het plan van aanpak bevat in aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), in ieder geval:
 
@@ -126,7 +152,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 2. Het plan van aanpak wordt door de minister na toekenning van de subsidie openbaar gemaakt met inachtneming van de voorschriften uit de Algemene verordening gegevensbescherming.
 
-#### Artikel 8. Subsidieverplichtingen
+##### Artikel 8. Subsidieverplichtingen
 
 1. De activiteiten waarvoor subsidie wordt verstrekt, worden uitgevoerd in de periode van 1 januari 2025 tot en met 31 december 2025.
 
@@ -138,7 +164,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 5. Voor de rapportage wordt door DUS-I een format beschikbaar gesteld. De rapportage wordt openbaar gemaakt met inachtneming van de voorschriften uit de Algemene verordening gegevensbescherming.
 
-#### Artikel 9. Penvoerder
+##### Artikel 9. Penvoerder
 
 1. Eén bevoegd gezag dat deelneemt aan de subsidieaanvraag treedt namens de andere bevoegde gezagsorganen op als penvoerder.
 
@@ -146,7 +172,7 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 3. De penvoerder is verantwoordelijk voor alle aan de subsidie verbonden verplichtingen, ongeacht welke partij feitelijk is belast met de uitvoering van de daarop betrekking hebbende werkzaamheden.
 
-#### Artikel 10. Verlening, vaststelling en verantwoording
+##### Artikel 10. Verlening, vaststelling en verantwoording
 
 1. In afwijking van [artikel 9.1, vierde lid, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=9.1), wordt de subsidie aan de penvoerder binnen 13 weken na sluiting van de aanvraagperiode verleend. De minister verstrekt een voorschot van 100%, dat in één keer wordt uitbetaald.
 
@@ -160,16 +186,16 @@ De minister kan voor de periode van 1 januari 2025 tot en met 31 december 2025 s
 
 6. De penvoerder toont op verzoek van de minister aan dat de activiteiten waarvoor subsidie is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de subsidie verbonden zijn.
 
-#### Artikel 11. Hardheidsclausule
+##### Artikel 11. Hardheidsclausule
 
 De minister kan één of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing daarvan, gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 12. Inwerkingtreding en vervaldatum
+##### Artikel 12. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt met ingang van 1 januari 2027, met dien verstande dat zij van toepassing blijft ten aanzien van de subsidies die op grond van deze regeling zijn verstrekt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling aansluiting onderwijsregio’s en personeelsbeleid po en vo.

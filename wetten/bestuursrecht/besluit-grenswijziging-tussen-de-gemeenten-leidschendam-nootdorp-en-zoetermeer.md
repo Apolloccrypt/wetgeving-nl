@@ -1,13 +1,35 @@
 ---
-title: "Besluit grenswijziging tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer"
+title: "Besluit van 17 december 1992, houdende wijziging van grenzen tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer"
 identifier: "BWBR0005771"
-categorie: "Bestuursrecht"
-publicatiedatum: 1992-12-31
-laatste_update: 1992-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005771"
+country: "nl"
+rank: "amvb"
+publication_date: "1992-12-31"
+last_updated: "1992-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005771"
+soort: "AMvB"
+stam_id: "559283"
+version_id: "815452"
+internal_id: "C815451"
+label_id: "543084"
+dtd_version: "2.0"
+original_entry_into_force: "1992-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005771/1992-12-31/0"
+intitule_bron: "Stb.1992-679"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-17"
+intitule_status: "goed"
+original_publication: "Stb.1992-679"
+original_signed_date: "1992-12-17"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-12-31"
+jci_1_3: "jci1.3:c:BWBR0005771&z=1992-12-31&g=1992-12-31"
+jci_1_0: "1.0:c:BWBR0005771&g=1992-12-31"
+citeertitel_status: "officieel"
+short_title: "Besluit grenswijziging tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer"
+signed_date: "1992-12-17"
+entry_into_force: "1992-12-31"
 ---
-
 # Besluit van 17 december 1992, houdende wijziging van grenzen tussen de gemeenten Leidschendam, Nootdorp en Zoetermeer
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 14 december 1992, directoraat-generaal Openbaar Bestuur, nr. BW92/2468;
@@ -20,7 +42,7 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken van 14 d
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Leidschendam en Nootdorp als volgt gewijzigd:
 
@@ -44,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 3. Met ingang van de datum van herindeling wordt de grens tussen de gemeenten Nootdorp en Zoetermeer als volgt gewijzigd: vanaf het punt dat in het eerste lid het laatst is vermeld volgt de nieuwe gemeentegrens in oostelijke richting de grens tussen de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 263 en 298 enerzijds en de percelen, kadastraal bekend gemeente Zoetermeer, sectie H, nrs. 264, 268, 269 en 210 anderzijds en vervolgens de grens tussen de percelen, kadastraal bekend gemeente Nootdorp, sectie B, nrs. 892, 689, 897 en 895 enerzijds en 898 anderzijds tot de bestaande grens tussen de gemeenten Nootdorp en Zoetermeer.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

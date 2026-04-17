@@ -1,13 +1,34 @@
 ---
 title: "Instelling Werkgroep Vaarbelasting"
 identifier: "BWBR0010186"
-categorie: "Belastingrecht"
-publicatiedatum: 1999-04-01
-laatste_update: 1999-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010186"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1999-04-01"
+last_updated: "1999-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010186"
+soort: "ministeriele-regeling"
+stam_id: "4278983"
+version_id: "6042652"
+internal_id: "C6246051"
+label_id: "4257624"
+dtd_version: "2.0"
+original_entry_into_force: "1999-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010186/1999-04-01/0"
+intitule_bron: "Stcrt.1999-23"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1999-02-03"
+intitule_in_force: "1999-02-03"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-23"
+original_published_date: "1999-02-03"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-04-01"
+jci_1_3: "jci1.3:c:BWBR0010186&z=1999-04-01&g=1999-04-01"
+jci_1_0: "1.0:c:BWBR0010186&g=1999-04-01"
+citeertitel_status: "officieel"
+entry_into_force: "1999-04-01"
 ---
-
 # Instelling Werkgroep Vaarbelasting
 
 Overwegende dat in het Regeerakkoord 1998 de opdracht is opgenomen te komen tot een vaarbelasting, welke een netto-opbrengst dient te hebben van 80 mln, dat de vormgeving van deze belasting nader dient te worden bepaald en dat het in dat verband wenselijk is een werkgroep vaarbelasting in te stellen;
@@ -18,11 +39,11 @@ Besluit:
 
 #### § 1. Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een werkgroep vaarbelasting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgroep heeft als taak om te onderzoeken wat de beste vorm is waarin een in te voeren vaarbelasting zou kunnen worden gegoten, de grondslag en de doelgroep daarvan, met het oog op de realisering van een jaarlijkse netto opbrengst van 80 mln en uitgaande van invoering van de belasting in 2000, daarbij rekening houdend met een doelmatige uitvoering en Europese aspecten.
 
@@ -30,7 +51,7 @@ Er is een werkgroep vaarbelasting.
 
 3. De te verwachten effecten van invoering van een vaarbelasting dienen zo concreet mogelijk zichtbaar te worden gemaakt.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het doen van een voorstel neemt de werkgroep de volgende voorwaarden in acht:
 
@@ -40,7 +61,7 @@ Bij het doen van een voorstel neemt de werkgroep de volgende voorwaarden in acht
 
 #### § 2. Samenstelling en taak
 
-#### Artikel 4
+##### Artikel 4
 
 Tot lid, tevens voorzitter van de werkgroep wordt benoemd: J. Kamminga, Commissaris der Koningin Gelderland.
 
@@ -72,25 +93,25 @@ Tot leden van de werkgroep worden benoemd:
 
 - mr. D.E. Witteveen, namens het Ministerie van Financiën.
 
-#### Artikel 5
+##### Artikel 5
 
 Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hen hun mening nader uiteen te laten zetten.
 
-#### Artikel 6
+##### Artikel 6
 
 De werkgroep brengt haar advies uit aan de Staatssecretaris voor 1 mei 1999, met inachtneming van de in dit besluit opgenomen bepalingen.
 
 #### § 3. Overige bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 De leden van de werkgroep, voorzover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voorzover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit ’s Rijks kas.
 
-#### Artikel 8
+##### Artikel 8
 
 Een ieder die is betrokken bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voorzover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt bekend gemaakt in de Staatscourant.
 

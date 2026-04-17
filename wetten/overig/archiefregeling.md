@@ -1,13 +1,39 @@
 ---
-title: "Archiefregeling"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 december 2009, nr. WJZ/178205 (8189), met betrekking tot de duurzaamheid en de geordende en toegankelijke staat van archiefbescheiden en de bouw en inrichting van archiefruimten en archiefbewaarplaatsen (Archiefregeling)"
 identifier: "BWBR0027041"
-categorie: "Overig"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027041"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027041"
+soort: "ministeriele-regeling"
+stam_id: "10380593"
+version_id: "19866202"
+internal_id: "C27898541"
+label_id: "10356404"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027041/2014-01-01/0"
+intitule_bron: "Stcrt.2010-70"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-15"
+intitule_published: "2010-01-06"
+intitule_in_force: "2010-01-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26238"
+original_signed_date: "2012-12-06"
+original_published_date: "2012-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2012-26238"
+entry_into_force_date: "2012-12-06"
+jci_1_3: "jci1.3:c:BWBR0027041&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0027041&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Archiefregeling"
+signed_date: "2012-12-06"
+entry_into_force: "2012-12-06"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 15 december 2009, nr. WJZ/178205 (8189), met betrekking tot de duurzaamheid en de geordende en toegankelijke staat van archiefbescheiden en de bouw en inrichting van archiefruimten en archiefbewaarplaatsen (Archiefregeling)
 
 Gelet op de [artikelen 11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=12) en [13, vierde lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=13);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 - r. **werkproces:** samenhangend geheel van stappen en procedures in het kader van de uitvoering van een taak.
 
-#### Artikel 2. Gelijkstelling technische producteisen en particuliere normen
+##### Artikel 2. Gelijkstelling technische producteisen en particuliere normen
 
 1. Met de in deze regeling genoemde technische producteisen worden gelijkgesteld technische producteisen die worden gesteld in een andere lidstaat van de Europese Unie, in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte, dan wel in Turkije, en die ten minste een gelijkwaardige productkwaliteit waarborgen.
 
@@ -74,7 +100,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 1. Algemene voorschriften voor te bewaren archiefbescheiden
 
-#### Artikel 3. Gelijkstelling andere categorieën materialen
+##### Artikel 3. Gelijkstelling andere categorieën materialen
 
 Het gebruik van andere categorieën materialen dan die, bedoeld in dit hoofdstuk, is toegestaan, indien:
 
@@ -82,11 +108,11 @@ Het gebruik van andere categorieën materialen dan die, bedoeld in dit hoofdstuk
 
 - b. de archiefbescheiden, opgemaakt door middel van deze andere materialen, tijdig worden vervangen door reproducties.
 
-#### Artikel 4. Papier
+##### Artikel 4. Papier
 
 Papier voldoet aan NEN 2728:2006.
 
-#### Artikel 5. Schrijf- en printmaterialen
+##### Artikel 5. Schrijf- en printmaterialen
 
 1. Inkten en toners alsmede de apparatuur waarmee deze op papier worden aangebracht bereiken een duurzaamheid overeenkomstig ISO 11798:1999.
 
@@ -96,7 +122,7 @@ Papier voldoet aan NEN 2728:2006.
 
 4. Schrijfmachine- en printerlinten bevatten als kleurstof koolstof of gelijkwaardige materialen.
 
-#### Artikel 6. Microfilm
+##### Artikel 6. Microfilm
 
 1. Microfilm voor archiefbescheiden is een polyester halogeenzilverfilm, negatief ontwikkeld, die voldoet aan NEN 3528:1975. Deze film wordt aangeduid als moederfilm.
 
@@ -114,23 +140,23 @@ Papier voldoet aan NEN 2728:2006.
 
 6. Gebruikskopieën worden gemaakt van een duplicaatfilm.
 
-#### Artikel 7. Zwart-witfilm
+##### Artikel 7. Zwart-witfilm
 
 1. Zwart-witfilm voor archiefbescheiden is een polyester halogeenzilverfilm, negatief ontwikkeld, die voldoet aan NEN ISO 18901:2002. De afwerking voldoet aan ISO 18917:1999.
 
 2. De afwerking van papier voor zwart-witafdrukken voldoet aan ISO 18917:1999.
 
-#### Artikel 8. Kleurenfilm
+##### Artikel 8. Kleurenfilm
 
 Kleurenfilm voor archiefbescheiden is een polyester film met stabiele kleurstof.
 
-#### Artikel 9. Omslagen en mappen
+##### Artikel 9. Omslagen en mappen
 
 1. Omslagen en mappen zonder hechtmechanieken voldoen aan ICN-kwaliteitseis nummer 1.
 
 2. Omslagen en mappen met hechtmechanieken voldoen aan ICN-kwaliteitseisen nummers 2 en 12.
 
-#### Artikel 10. Archiefdozen
+##### Artikel 10. Archiefdozen
 
 1. Archiefdozen voor standaardformaat papier voldoen aan:
 
@@ -144,13 +170,13 @@ Kleurenfilm voor archiefbescheiden is een polyester film met stabiele kleurstof.
 
 - b. ICN-kwaliteitseis nummer 11, indien de archiefbescheiden rechtstreeks in contact komen met het karton.
 
-#### Artikel 11. Etiketten
+##### Artikel 11. Etiketten
 
 1. Zelfklevende etiketten bestemd voor omslagen, mappen en archiefdozen voldoen aan ICN-kwaliteitseis nummer 15.
 
 2. Voor niet-zelfklevende etiketten wordt lijm op acrylaatbasis gebruikt. De zuurgraad van de lijm heeft een pH-waarde van ten minste 7,5 en ten hoogste 10.
 
-#### Artikel 12. Overige materialen
+##### Artikel 12. Overige materialen
 
 1. Andere materialen dan die, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=2&paragraaf=1&artikel=9&z=2014-01-01&g=2014-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=2&paragraaf=1&artikel=10&z=2014-01-01&g=2014-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=2&paragraaf=1&artikel=11&z=2014-01-01&g=2014-01-01), die rechtstreeks met de drager van archiefbescheiden in contact komen, bevatten geen:
 
@@ -176,11 +202,11 @@ Kleurenfilm voor archiefbescheiden is een polyester film met stabiele kleurstof.
 
 3. Het eerste lid, onderdeel a, is niet van toepassing op materialen als bedoeld in de [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=2&paragraaf=1&artikel=6&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 13. Voorkoming reacties met andere archiefbescheiden
+##### Artikel 13. Voorkoming reacties met andere archiefbescheiden
 
 Indien archiefbescheiden chemische of fysische reacties kunnen aangaan met andere archiefbescheiden wanneer zij met die archiefbescheiden in dezelfde verpakkingseenheid zouden worden bewaard, worden die andere archiefbescheiden binnen of buiten de verpakkingseenheid afzonderlijk verpakt.
 
-#### Artikel 14. Tijdige overzetting op nieuwe dragers
+##### Artikel 14. Tijdige overzetting op nieuwe dragers
 
 Archiefbescheiden worden overgezet op nieuwe dragers, zodra het gevaar dreigt dat de informatie verloren gaat dan wel onleesbaar of niet waarneembaar wordt als gevolg van:
 
@@ -190,7 +216,7 @@ Archiefbescheiden worden overgezet op nieuwe dragers, zodra het gevaar dreigt da
 
 #### § 2. Bijzondere voorschriften voor bepaalde categorieën van te bewaren archiefbescheiden
 
-#### Artikel 15. Bewaring van optische en magnetische gegevensdragers
+##### Artikel 15. Bewaring van optische en magnetische gegevensdragers
 
 1. Optische schijven worden stofvrij, verticaal geplaatst en in het donker opgeborgen.
 
@@ -202,11 +228,11 @@ Archiefbescheiden worden overgezet op nieuwe dragers, zodra het gevaar dreigt da
 
 #### § 1. Algemene voorschriften voor te bewaren archiefbescheiden
 
-#### Artikel 16. Kwaliteitssysteem
+##### Artikel 16. Kwaliteitssysteem
 
 De zorgdrager zorgt ervoor dat het beheer van zijn archiefbescheiden voldoet aan toetsbare eisen van een door hem toe te passen kwaliteitssysteem.
 
-#### Artikel 17. Context en authenticiteit
+##### Artikel 17. Context en authenticiteit
 
 De zorgdrager zorgt ervoor dat van elk van de archiefbescheiden te allen tijde kan worden vastgesteld:
 
@@ -220,19 +246,19 @@ De zorgdrager zorgt ervoor dat van elk van de archiefbescheiden te allen tijde k
 
 - e. de besturingsprogrammatuur of toepassingsprogrammatuur waarmee de archiefbescheiden worden bewaard of beheerd.
 
-#### Artikel 18. Overzicht en ordeningsstructuur
+##### Artikel 18. Overzicht en ordeningsstructuur
 
 1. De zorgdrager zorgt ervoor dat de onder hem ressorterende overheidsorganen beschikken over een actueel, compleet en logisch samenhangend overzicht van de bij dat overheidsorgaan berustende archiefbescheiden, geordend overeenkomstig het ten tijde van de vorming van het archief daarvoor geldende ordeningsstructuur.
 
 2. Indien de ordeningsstructuur tussentijds wordt aangepast, wordt de oorspronkelijke versie tezamen met de nieuwe versie bewaard.
 
-#### Artikel 19. Metagegevensschema en metagegevens
+##### Artikel 19. Metagegevensschema en metagegevens
 
 1. De zorgdrager legt een metagegevensschema als bedoeld in NEN-ISO 23081:2006 vast.
 
 2. De zorgdrager koppelt aan archiefbescheiden metagegevens aan de hand waarvan te allen tijde de aspecten, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&paragraaf=1&artikel=17&z=2014-01-01&g=2014-01-01), kunnen worden herleid.
 
-#### Artikel 20. Toegankelijke staat
+##### Artikel 20. Toegankelijke staat
 
 De zorgdrager zorgt ervoor dat het archiveringssysteem de toegankelijke staat van archiefbescheiden waarborgt, zodanig dat elk van de archiefbescheiden binnen een redelijke termijn
 
@@ -246,11 +272,11 @@ De zorgdrager zorgt ervoor dat het archiveringssysteem de toegankelijke staat va
 
 #### § 2. Bijzondere voorschriften voor te bewaren digitale archiefbescheiden
 
-#### Artikel 21. Gedrag van digitale archiefbescheiden
+##### Artikel 21. Gedrag van digitale archiefbescheiden
 
 In aanvulling op [artikel 17, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&paragraaf=1&artikel=17&z=2014-01-01&g=2014-01-01), zorgt de zorgdrager ervoor, dat van elk van de digitale archiefbescheiden te allen tijde het gedrag kan worden vastgesteld.
 
-#### Artikel 22. Functionele eisen
+##### Artikel 22. Functionele eisen
 
 De zorgdrager zorgt ervoor dat van elk van de digitale archiefbescheiden de functionele eisen worden vastgelegd van:
 
@@ -258,11 +284,11 @@ De zorgdrager zorgt ervoor dat van elk van de digitale archiefbescheiden de func
 
 - b. het gedrag, voor zover dit noodzakelijk is voor het waarborgen van de authenticiteit van de digitale archiefbescheiden.
 
-#### Artikel 23. Identificeerbaarheid digitale bestanden
+##### Artikel 23. Identificeerbaarheid digitale bestanden
 
 In aanvulling op [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&paragraaf=1&artikel=18&z=2014-01-01&g=2014-01-01), zorgt de zorgdrager ervoor, dat aan de hand van het in dat lid bedoelde overzicht alle relevante digitale bestanden te identificeren zijn waarmee de bij hem berustende digitale archiefbescheiden leesbaar of waarneembaar zijn te maken.
 
-#### Artikel 24. Metagegevens bij digitale archiefbescheiden
+##### Artikel 24. Metagegevens bij digitale archiefbescheiden
 
 In aanvulling op de metagegevens, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&paragraaf=1&artikel=19&z=2014-01-01&g=2014-01-01), koppelt de zorgdrager aan digitale archiefbescheiden metagegevens aan de hand waarvan te allen tijde gegevens over het navolgende kunnen worden herleid:
 
@@ -280,13 +306,13 @@ In aanvulling op de metagegevens, bedoeld in [artikel 19, tweede lid](https://we
 
 - 4°. voor zover bekend ten tijde van het werkproces: de identificatie van het certificaat van de digitale handtekening.
 
-#### Artikel 25. Conversie, migratie of emulatie
+##### Artikel 25. Conversie, migratie of emulatie
 
 1. Indien gerede kans bestaat dat als gevolg van wijziging of in onbruik raken van besturingsprogrammatuur of toepassingsprogrammatuur niet langer voldaan kan worden aan de bij deze regeling gestelde eisen ten aanzien van de toegankelijke en geordende staat van digitale archiefbescheiden, zorgt de zorgdrager ervoor dat conversie of migratie van die digitale archiefbescheiden plaatsvindt, dan wel dat die digitale archiefbescheiden door toepassing van emulatie kunnen worden gebruikt of geraadpleegd overeenkomstig de wijze ten tijde van het ontvangen of opmaken ervan door het overheidsorgaan.
 
 2. De zorgdrager maakt van de conversie of migratie een verklaring op, die ten minste een specificatie bevat van de digitale archiefbestanden die zijn geconverteerd of gemigreerd, en waarin tevens is aangegeven op welke wijze en met welk resultaat getoetst is of na de conversie of migratie aan de bij deze regeling gestelde eisen ten aanzien van de geordende en toegankelijke staat is of kan worden voldaan.
 
-#### Artikel 26. Algemene eisen aan opslagformaten voor digitale archiefbescheiden
+##### Artikel 26. Algemene eisen aan opslagformaten voor digitale archiefbescheiden
 
 1. Digitale archiefbescheiden worden, uiterlijk op het tijdstip van overbrenging, opgeslagen in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard, tenzij dit redelijkerwijs niet van de zorgdrager kan worden verlangd. Alsdan vindt met de beheerder van de voor overbrenging aangewezen archiefbewaarplaats overleg plaats over een alternatief bestandsformaat.
 
@@ -298,13 +324,13 @@ In aanvulling op de metagegevens, bedoeld in [artikel 19, tweede lid](https://we
 
 #### § 1. Algemeen
 
-#### Artikel 27. Algemene buitentoepassingstelling
+##### Artikel 27. Algemene buitentoepassingstelling
 
 Aan een in deze regeling opgenomen voorschrift dat moet worden toegepast om te voldoen aan een met betrekking tot een archiefruimte of archiefbewaarplaats gestelde eis, behoeft niet te worden voldaan, voor zover anders dan door toepassing van dat voorschrift de archiefruimte of archiefbewaarplaats ten minste dezelfde mate van veiligheid, bescherming tegen water, klimaatbeheersing en milieuhygiëne biedt, als is beoogd met het betrokken voorschrift.
 
 #### § 2. Voorschriften in verband met de veiligheid
 
-#### Artikel 28. Situering
+##### Artikel 28. Situering
 
 Het gebouw waarin een archiefruimte of archiefbewaarplaats is of wordt gesitueerd, is door zijn locatie, aard en bouwwijze zo goed mogelijk gevrijwaard van risico’s van:
 
@@ -314,7 +340,7 @@ Het gebouw waarin een archiefruimte of archiefbewaarplaats is of wordt gesitueer
 
 - c. vochtindringing door opkomend grond-, regen- of rioolwater, alsmede van elke overige vorm van wateroverlast.
 
-#### Artikel 29. Normen voor ondergronds bouwen
+##### Artikel 29. Normen voor ondergronds bouwen
 
 Bij ondergronds bouwen van een archiefruimte of een archiefbewaarplaats heeft de waterindringing in het bouwmateriaal een waarde die onschadelijk is voor de bewaring van archiefbescheiden, gemeten volgens:
 
@@ -322,7 +348,7 @@ Bij ondergronds bouwen van een archiefruimte of een archiefbewaarplaats heeft de
 
 - b. NEN 2778:1991 voor andere bouwmaterialen.
 
-#### Artikel 30. Brandveiligheid
+##### Artikel 30. Brandveiligheid
 
 1. Archiefruimten en archiefbewaarplaatsen zijn voorzien van deugdelijke en, mede gelet op de aard, oppervlakte en inhoud van de archiefruimte onderscheidenlijk archiefbewaarplaats, doelmatige middelen of voorzieningen voor het doven en vertragen van brand, waaronder in ieder geval voldoende en zichtbaar gemarkeerde draagbare blustoestellen. Poeder- of schuimblussers zijn niet toegestaan.
 
@@ -338,11 +364,11 @@ Bij ondergronds bouwen van een archiefruimte of een archiefbewaarplaats heeft de
 
 7. In een archiefruimte of archiefbewaarplaats bevinden zich geen materialen en apparaten die brandgevaar kunnen veroorzaken.
 
-#### Artikel 31. Rookverbod
+##### Artikel 31. Rookverbod
 
 In archiefruimten en archiefbewaarplaatsen geldt een rookverbod.
 
-#### Artikel 32. Watermelders
+##### Artikel 32. Watermelders
 
 Watermelders, voorzien van een doormelding via het gebouwbeheerssysteem, het beveiligingssysteem of het installatiebeheerssysteem, zijn aanwezig in archiefruimten en archiefbewaarplaatsen
 
@@ -352,7 +378,7 @@ Watermelders, voorzien van een doormelding via het gebouwbeheerssysteem, het bev
 
 - c. waarin zich een of meer brandslanghaspels bevinden.
 
-#### Artikel 33. Kabels, leidingen en kanalen
+##### Artikel 33. Kabels, leidingen en kanalen
 
 1. Kabels, leidingen of kanalen zijn slechts toegestaan
 
@@ -362,17 +388,17 @@ Watermelders, voorzien van een doormelding via het gebouwbeheerssysteem, het bev
 
 2. Voor zover een noodzakelijke voorziening zich in een compartiment bevindt, worden de daarvoor benodigde kabels, leidingen of kanalen niet door het overige gedeelte van de archiefruimte of archiefbewaarplaats gevoerd.
 
-#### Artikel 34. Deuren
+##### Artikel 34. Deuren
 
 Deuren in een archiefruimte of een archiefbewaarplaats zijn zelfsluitend en draaien, voor zover draaiend uitgevoerd, naar buiten toe open.
 
-#### Artikel 35. Maatregelen tegen ongeautoriseerde toegang
+##### Artikel 35. Maatregelen tegen ongeautoriseerde toegang
 
 De zorgdrager neemt doeltreffende maatregelen tegen ongeautoriseerde toegang tot de archiefruimte of de archiefbewaarplaats.
 
 #### § 3. Voorschriften voor een gunstig milieu en klimaat
 
-#### Artikel 36. Algemene milieu- en klimaatvoorschriften
+##### Artikel 36. Algemene milieu- en klimaatvoorschriften
 
 1. In een archiefruimte of archiefbewaarplaats bevinden zich geen materialen, apparaten of stoffen die:
 
@@ -386,15 +412,15 @@ De zorgdrager neemt doeltreffende maatregelen tegen ongeautoriseerde toegang tot
 
 2. Niet toegestaan zijn bouw- en afwerkmaterialen waaruit schadelijke gassen kunnen vrijkomen of die op andere wijze schade aan de archiefbescheiden kunnen veroorzaken of waarvan een redelijk vermoeden bestaat dat zij in de toekomst schade kunnen veroorzaken.
 
-#### Artikel 37. Afwerking vloeren, wanden en plafonds
+##### Artikel 37. Afwerking vloeren, wanden en plafonds
 
 Vloeren, wanden en plafonds in een archiefruimte of een archiefbewaarplaats worden glad, vlak en stofvrij afgewerkt.
 
-#### Artikel 38. Relatieve luchtvochtigheid en temperatuur
+##### Artikel 38. Relatieve luchtvochtigheid en temperatuur
 
 Vervallen
 
-#### Artikel 39. Klimaatapparatuur
+##### Artikel 39. Klimaatapparatuur
 
 1. Klimaatapparatuur ten behoeve van een archiefruimte of een archiefbewaarplaats is zodanig uitgevoerd dat
 
@@ -404,7 +430,7 @@ Vervallen
 
 2. De deugdelijke werking van alle in een archiefruimte of archiefbewaarplaats aanwezige meetapparatuur voor relatieve luchtvochtigheid en temperatuur wordt regelmatig gecontroleerd.
 
-#### Artikel 40. Plaatsing archiefstellingen
+##### Artikel 40. Plaatsing archiefstellingen
 
 Archiefstellingen in een archiefruimte of een archiefbewaarplaats worden zodanig geplaatst van
 
@@ -414,7 +440,7 @@ Archiefstellingen in een archiefruimte of een archiefbewaarplaats worden zodanig
 
 - c. doorvoeringen door scheidingsconstructies, dat eventuele branddoorslag geen direct gevaar voor de archiefbescheiden oplevert.
 
-#### Artikel 41. Kasten voor magnetische gegevensdragers
+##### Artikel 41. Kasten voor magnetische gegevensdragers
 
 Magnetische gegevensdragers voor archiefbescheiden worden bewaard in een gesloten constructie die tegengaat dat voor de archiefbescheiden schadelijke elektromagnetische straling deze constructie kan binnendringen.
 
@@ -422,11 +448,11 @@ Magnetische gegevensdragers voor archiefbescheiden worden bewaard in een geslote
 
 #### § 1. Voorschriften in verband met de veiligheid
 
-#### Artikel 42. Maximale vloerbelasting
+##### Artikel 42. Maximale vloerbelasting
 
 De vloerbelasting van een archiefruimte is berekend op het maximale gewicht van de daarop staande inrichting inclusief archiefbescheiden.
 
-#### Artikel 43. Brandveiligheid
+##### Artikel 43. Brandveiligheid
 
 1. De in- en uitwendige scheidingsconstructies van een archiefruimte hebben een brandwerendheid van ten minste 60 minuten volgens NEN 6069:2005, dan wel, voor zover gelet op de aard van de scheidingsconstructie van toepassing, NEN 6071:2001, NEN 6072:1991 of NEN 6073:1991.
 
@@ -436,17 +462,17 @@ De vloerbelasting van een archiefruimte is berekend op het maximale gewicht van 
 
 #### § 1. Voorschriften in verband met de veiligheid
 
-#### Artikel 44. Luchtkwaliteit
+##### Artikel 44. Luchtkwaliteit
 
 De luchtinhoud van een archiefruimte wordt ten hoogste eenmaal per etmaal ververst.
 
-#### Artikel 45. Meetinstrumenten klimaat
+##### Artikel 45. Meetinstrumenten klimaat
 
 Een archiefruimte is voorzien van een goedwerkende thermometer en hygrometer. Haarhygrometers zijn niet toegestaan.
 
 #### § 2. Voorschriften voor een gunstig milieu en klimaat
 
-#### Artikel 46. Inbraakpreventie
+##### Artikel 46. Inbraakpreventie
 
 1. Toegangsdeuren in een archiefruimte en hang- en sluitwerk daarop voldoen aan klasse 3 volgens NEN 5088:1994/C2:1996 nl.
 
@@ -456,7 +482,7 @@ Een archiefruimte is voorzien van een goedwerkende thermometer en hygrometer. Ha
 
 #### § 1. Voorschriften in verband met de veiligheid
 
-#### Artikel 47. Constructieve eisen
+##### Artikel 47. Constructieve eisen
 
 De in- en uitwendige scheidingsconstructies van een archiefbewaarplaats zijn
 
@@ -468,7 +494,7 @@ De in- en uitwendige scheidingsconstructies van een archiefbewaarplaats zijn
 
 - d. voldoende bestand tegen optredende waterdruk.
 
-#### Artikel 48. Brandveiligheid
+##### Artikel 48. Brandveiligheid
 
 1. De in- en uitwendige scheidingsconstructies van een archiefbewaarplaats zijn brandwerend gedurende ten minste 120 minuten volgens NEN 6069:2005, dan wel, voor zover gelet op de aard van de scheidingsconstructie van toepassing, NEN 6071:2001, NEN 6072:1991 of NEN 6073:1991.
 
@@ -484,17 +510,17 @@ De in- en uitwendige scheidingsconstructies van een archiefbewaarplaats zijn
 
 7. In de archiefbewaarplaats is in directe nabijheid van de toegang daartoe een brandslanghaspel aanwezig, die voldoet aan NEN-EN 671-1:2001 en waarvan de afsluitkraan buiten de archiefbewaarplaats is aangebracht.
 
-#### Artikel 49. Rookdichtheid
+##### Artikel 49. Rookdichtheid
 
 De maatgevende rookdichtheid van de archiefbewaarplaats, met inbegrip van de inrichting ervan, bedraagt ten hoogste 10 m–1 volgens NEN 6066:1991.
 
-#### Artikel 50. Telecommunicatiemiddelen
+##### Artikel 50. Telecommunicatiemiddelen
 
 In een archiefbewaarplaats zijn te allen tijde voldoende, goedwerkende telecommunicatiemiddelen voorhanden waarmee aanwezigen zich in verbinding kunnen stellen met personen buiten de archiefbewaarplaats.
 
 #### § 1. Voorschriften in verband met de veiligheid
 
-#### Artikel 51. Luchtkwaliteit
+##### Artikel 51. Luchtkwaliteit
 
 1. De tot de archiefbewaarplaats toetredende verse en gerecirculeerde lucht wordt gezuiverd van zwaveldioxide, stikstofoxiden en ozon. De gemiddelde jaarconcentratie in de archiefbewaarplaats bedraagt ten hoogste:
 
@@ -512,21 +538,21 @@ In een archiefbewaarplaats zijn te allen tijde voldoende, goedwerkende telecommu
 
 5. De tot de archiefbewaarplaats toetredende verse en gerecirculeerde lucht bevat ten hoogste 75 µg/m3 stofdeeltjes.
 
-#### Artikel 52. Bewaking van bewaarcondities
+##### Artikel 52. Bewaking van bewaarcondities
 
 De bewaarcondities in een archiefbewaarplaats worden bewaakt door luchtvochtigheid- en temperatuuropnemers die gekoppeld zijn aan het gebouwbeheerssysteem.
 
-#### Artikel 53. Ontvangst- en quarantaineruimte
+##### Artikel 53. Ontvangst- en quarantaineruimte
 
 Een archiefbewaarplaats waarin regelmatig archiefbescheiden van buiten het gebouw worden opgenomen is voorzien van een ontvangst- en quarantaineruimte.
 
-#### Artikel 54. Afwerking wanden en plafonds
+##### Artikel 54. Afwerking wanden en plafonds
 
 Onverminderd artikel 37 worden wanden en plafonds van een archiefbewaarplaats afgewerkt met een dampdoorlatende laag.
 
 #### § 2. Voorschriften voor een gunstig milieu en klimaat
 
-#### Artikel 55. Inbraakpreventie
+##### Artikel 55. Inbraakpreventie
 
 1. Buitendeuren en andere gevelelementen van een archiefbewaarplaats voldoen aan klasse 3 volgens NEN 5096:2007 +C1:2007 nl.
 
@@ -534,13 +560,13 @@ Onverminderd artikel 37 worden wanden en plafonds van een archiefbewaarplaats af
 
 3. Een archiefbewaarplaats is voorzien van inbraakwering en -signalering die voldoen aan NEN 5089:2009 4e Ontw. nl.
 
-#### Artikel 56. Ramen
+##### Artikel 56. Ramen
 
 Ramen zijn niet toegestaan in een archiefbewaarplaats.
 
 ### Hoofdstuk 7. Ontheffingen
 
-#### Artikel 57. Ontheffing voorschriften archiefruimten en archiefbewaarplaatsen
+##### Artikel 57. Ontheffing voorschriften archiefruimten en archiefbewaarplaatsen
 
 1. Op daartoe strekkend verzoek kan in een bijzonder geval ontheffing worden verleend van een of meerdere voorschriften in de [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=4&z=2014-01-01&g=2014-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=5&z=2014-01-01&g=2014-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=6&z=2014-01-01&g=2014-01-01) van deze regeling door:
 
@@ -552,7 +578,7 @@ Ramen zijn niet toegestaan in een archiefbewaarplaats.
 
 ### Hoofdstuk 8. Slot- en overgangsbepalingen
 
-#### Artikel 58. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&z=2014-01-01&g=2014-01-01)
+##### Artikel 58. Overgangsrecht [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&z=2014-01-01&g=2014-01-01)
 
 1. [Artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&paragraaf=1&artikel=19&z=2014-01-01&g=2014-01-01), is niet van toepassing op archiefbescheiden die zijn ontvangen of opgemaakt voorafgaand aan de inwerkingtreding van deze regeling en, voor zover het digitale archiefbescheiden betreft, waaraan of waarin sinds dat tijdstip geen gegevens zijn toegevoegd onderscheidenlijk zijn gewijzigd.
 
@@ -568,7 +594,7 @@ Ramen zijn niet toegestaan in een archiefbewaarplaats.
 
 5. De voor de inwerkingtreding van deze regeling op grond van [artikel 10, vierde lid, van de Regeling geordende en toegankelijke staat archiefbescheiden](https://wetten.overheid.nl/jci1.3:c:BWBR0013439&artikel=10), zoals die luidde voor inwerkingtreding van deze regeling, verleende ontheffingen blijven van kracht.
 
-#### Artikel 59. Overgangsrecht [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=4&z=2014-01-01&g=2014-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=5&z=2014-01-01&g=2014-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=6&z=2014-01-01&g=2014-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=7&z=2014-01-01&g=2014-01-01)
+##### Artikel 59. Overgangsrecht [hoofdstukken 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=4&z=2014-01-01&g=2014-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=5&z=2014-01-01&g=2014-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=6&z=2014-01-01&g=2014-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=7&z=2014-01-01&g=2014-01-01)
 
 1. [Artikel 33, eerste lid, aanhef en onderdeel a, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=4&paragraaf=2&artikel=33&z=2014-01-01&g=2014-01-01), is niet van toepassing op archiefruimten die zijn gebouwd voor het tijdstip van inwerkingtreding van deze regeling.
 
@@ -576,7 +602,7 @@ Ramen zijn niet toegestaan in een archiefbewaarplaats.
 
 3. De voor de inwerkingtreding van deze regeling op grond van de [artikelen 43](https://wetten.overheid.nl/jci1.3:c:BWBR0012803&artikel=43) en [44 van de Regeling bouw en inrichting archiefruimten en archiefbewaarplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0012803&artikel=44), zoals die luidde voor inwerkingtreding van deze regeling, verleende ontheffingen blijven van kracht en gelden als ontheffingen als bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=7&artikel=57&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 60. Intrekking regelingen en besluiten
+##### Artikel 60. Intrekking regelingen en besluiten
 
 De volgende regelingen en besluiten worden ingetrokken:
 
@@ -592,11 +618,11 @@ De volgende regelingen en besluiten worden ingetrokken:
 
 - f. [Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 december 2004, nr. C/S/04/2752, houdende instelling van de Evaluatiecommissie Regeling Bouw en Inrichting Archiefruimten en Archiefbewaarplaatsen](https://wetten.overheid.nl/jci1.3:c:BWBR0017772).
 
-#### Artikel 61. Inwerkingtreding
+##### Artikel 61. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2010.
 
-#### Artikel 62. Citeertitel
+##### Artikel 62. Citeertitel
 
 Deze regeling wordt aangehaald als: Archiefregeling.
 
@@ -1262,7 +1288,7 @@ De papierlaag van het massief karton aan de binnenzijde van de doos bevat een al
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 45a. Relatieve luchtvochtigheid en temperatuur van archiefruimten
+##### Artikel 45a. Relatieve luchtvochtigheid en temperatuur van archiefruimten
 
 De relatieve luchtvochtigheid van archiefruimten heeft een zo constant mogelijke waarde van 50% R.V. +/- 10%. De temperatuur varieert tussen de 16°C en 20°C. Een overschrijding tot 25°C gedurende ten hoogste 10 etmalen per jaar is toegestaan.
 
@@ -1276,7 +1302,7 @@ De relatieve luchtvochtigheid van archiefruimten heeft een zo constant mogelijke
 
 #### § 2a
 
-#### Artikel 54a. Relatieve luchtvochtigheid en temperatuur van archiefbewaarplaatsen
+##### Artikel 54a. Relatieve luchtvochtigheid en temperatuur van archiefbewaarplaatsen
 
 1. de relatieve luchtvochtigheid en temperatuur voor archiefbewaarplaatsen bedragen:
 
@@ -1798,11 +1824,11 @@ De doorsteekweerstand, gemeten volgens DIN 53142 aan de binnen- en de buitenzijd
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 26a. Reikwijdte
+##### Artikel 26a. Reikwijdte
 
 Onder vervanging wordt in dit hoofdstuk niet begrepen conversie, migratie of emulatie.
 
-#### Artikel 26b. Aspecten vervangingsproces
+##### Artikel 26b. Aspecten vervangingsproces
 
 De zorgdrager verschaft in het besluit tot vervanging, bedoeld in [artikel 6, eerste lid, van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6), voor zover dit besluit archiefbescheiden betreft die ingevolge een selectielijst voor bewaring in aanmerking komen, inzicht in ten minste de volgende aspecten van het door hem toegepaste vervangingsproces:
 
@@ -1846,7 +1872,7 @@ De zorgdrager verschaft in het besluit tot vervanging, bedoeld in [artikel 6, ee
 
 ### Hoofdstuk 8. Slot- en overgangsbepalingen
 
-#### Artikel 59a. Overgangsrecht [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3a&artikel=26b&z=2014-01-01&g=2014-01-01)
+##### Artikel 59a. Overgangsrecht [artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3a&artikel=26b&z=2014-01-01&g=2014-01-01)
 
 [Artikel 26b](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3a&artikel=26b&z=2014-01-01&g=2014-01-01) is niet van toepassing op besluiten tot vervanging die zijn genomen voorafgaand aan 1 januari 2013.
 
@@ -2168,7 +2194,7 @@ Indien de doos gekleurd is, moet de kleur die het karton afgeeft aan wit papier 
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a. Gelijkwaardigheidsbepaling
+##### Artikel 2a. Gelijkwaardigheidsbepaling
 
 Aan een norm als bedoeld in [artikel 1, onderdelen f, j, of m](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=1&artikel=1&z=2014-01-01&g=2014-01-01), die is opgenomen in een voorschrift voor archiefbescheiden dat is gesteld in de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=2&z=2014-01-01&g=2014-01-01) of [3](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=3&z=2014-01-01&g=2014-01-01), behoeft niet te worden voldaan voor zover voor archiefbescheiden anders dan door toepassing van die norm tenminste dezelfde mate van duurzaamheid of geordende en toegankelijke staat wordt bereikt als is beoogd met het voorschrift waarin die norm is opgenomen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling"
 identifier: "BWBV0005057"
-categorie: "Internationaal recht"
-publicatiedatum: 1961-11-13
-laatste_update: 1961-11-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005057"
+country: "nl"
+rank: "verdrag"
+publication_date: "1961-11-13"
+last_updated: "1961-11-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005057"
+soort: "verdrag"
+stam_id: "10004453853"
+version_id: "10004661982"
+internal_id: "C10007304531"
+label_id: "10004438804"
+dtd_version: "2.0"
+original_entry_into_force: "1961-11-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005057/1961-11-13/0"
+intitule_bron: "Trb.1961-42"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1961-05-04"
+intitule_in_force: "1962-04-12"
+intitule_status: "goed"
+original_publication: "Trb.1961-42"
+original_published_date: "1961-05-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1961-42"
+entry_into_force_date: "1961-11-13"
+jci_1_3: "jci1.3:c:BWBV0005057&z=1961-11-13&g=1961-11-13"
+jci_1_0: "1.0:c:BWBV0005057&g=1961-11-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1961-11-13"
 ---
-
 # Verdrag nopens de Organisatie voor Economische Samenwerking en Ontwikkeling
 
 De Regeringen van de Bondsrepubliek Duitsland, de Republiek Oostenrijk, het Koninkrijk België, Canada, het Koninkrijk Denemarken, Spanje, de Verenigde Staten van Amerika, de Franse Republiek, het Koninkrijk Griekenland, Ierland, de Republiek IJsland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk Noorwegen, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, het Koninkrijk Zweden, de Zwitserse Bondsstaat en de Turkse Republiek;
@@ -32,7 +54,7 @@ Vastbesloten om deze doeleinden na te streven op een wijze die verenigbaar is me
 
 Hebben overeenstemming bereikt over de navolgende bepalingen inzake de omvorming van de Organisatie voor Europese Economische Samenwerking tot de Organisatie voor Economische Samenwerking en Ontwikkeling:
 
-#### Artikel 1
+##### Artikel 1
 
 Het doel van de Organisatie voor Economische Samenwerking en Ontwikkeling (hierna genoemd de „Organisatie”) is een beleid te bevorderen, dat er op gericht is:
 
@@ -42,7 +64,7 @@ Het doel van de Organisatie voor Economische Samenwerking en Ontwikkeling (hiern
 
 - c. bij te dragen tot de uitbreiding van de wereldhandel op multilaterale en niet-discriminatoire grondslag overeenkomstig de internationale verplichtingen.
 
-#### Artikel 2
+##### Artikel 2
 
 Teneinde deze doelstellingen te bereiken komen de Leden overeen zowel individueel als gezamenlijk:
 
@@ -56,7 +78,7 @@ Teneinde deze doelstellingen te bereiken komen de Leden overeen zowel individuee
 
 - e. bij te dragen tot de economische ontwikkeling zowel van de deelnemende landen als van de niet-deelnemende landen die een economisch ontwikkelingsproces doormaken, door passende middelen en in het bijzonder door kapitaal te doen vloeien naar die landen, waarbij rekening wordt gehouden met het belang van het ontvangen van technische bijstand en van het zich verzekeren van zich uitbreidende exportmarkten voor hun volkshuishoudingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Teneinde de in artikel 1 genoemde doelstellingen te bereiken en te voldoen aan de in artikel 2 vervatte verplichtingen komen de Leden overeen dat zij:
 
@@ -66,11 +88,11 @@ Teneinde de in artikel 1 genoemde doelstellingen te bereiken en te voldoen aan d
 
 - c. nauw zullen samenwerken en, in voorkomende gevallen, gecoördineerd zullen optreden.
 
-#### Artikel 4
+##### Artikel 4
 
 Leden van de Organisatie zijn de Partijen bij dit Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 Teneinde haar doelstellingen te bereiken kan de Organisatie:
 
@@ -80,7 +102,7 @@ Teneinde haar doelstellingen te bereiken kan de Organisatie:
 
 - c. overeenkomsten aangaan met Leden, niet-leden en internationale organisaties.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Tenzij de Organisatie ten aanzien van bijzondere gevallen met algemene stemmen anders besluit, worden geen besluiten genomen en aanbevelingen gedaan dan met onderling goedvinden van alle Leden.
 
@@ -88,31 +110,31 @@ Teneinde haar doelstellingen te bereiken kan de Organisatie:
 
 3. Een besluit is niet bindend voor een Lid zolang het niet heeft voldaan aan zijn grondwettelijk voorgeschreven procedures. De andere Leden kunnen overeenkomen dat een dergelijk besluit voorlopig tussen hen van toepassing zal zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Een Raad, samengesteld uit alle Leden, is het orgaan waarvan alle handelingen van de Organisatie uitgaan. De Raad kan bijeenkomen in vergaderingen van ministers of van permanente vertegenwoordigers.
 
-#### Artikel 8
+##### Artikel 8
 
 De Raad wijst jaarlijks een voorzitter aan, die de vergadering der ministers voorzit, alsmede twee vice-voorzitters. De voorzitter is telkens eenmaal herkiesbaar voor een tweede, aansluitende, ambtstermijn.
 
-#### Artikel 9
+##### Artikel 9
 
 De Raad kan een uitvoerend comité instellen alsmede alle hulporganen die nodig zijn ter bereiking van de doelstellingen van de Organisatie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Raad benoemt voor een ambtstermijn van vijf jaar een secretaris-generaal, die aan de Raad verantwoording verschuldigd is. Hij wordt bijgestaan door een of meer plaatsvervangende secretarissen-generaal of adjunct-secretarissen-generaal, die op voorstel van de secretaris-generaal door de Raad worden benoemd.
 
 2. De secretaris-generaal treedt op als voorzitter van de Raad tijdens vergaderingen van de permanente vertegenwoordigers. Hij staat de Raad op alle daartoe in aanmerking komende wijzen ter zijde en kan aan de Raad en aan elk ander orgaan van de Organisatie voorstellen doen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De secretaris-generaal benoemt het personeel dat de Organisatie nodig heeft in overeenstemming met door de Raad goedgekeurde organisatie-plannen. Het statuut van het personeel is onderworpen aan de goedkeuring van de Raad.
 
 2. Met het oog op het internationale karakter van de Organisatie vragen noch ontvangen de secretaris-generaal, de plaatsvervangende secretarissen-generaal, de adjunct-secretarissen-generaal en het personeel aanwijzingen van enig Lid of van enige Regering of autoriteit buiten de organisatie.
 
-#### Artikel 12
+##### Artikel 12
 
 Op de door de Raad vast te stellen voorwaarden kan de Organisatie:
 
@@ -122,11 +144,11 @@ Op de door de Raad vast te stellen voorwaarden kan de Organisatie:
 
 - c. niet-leden of organisaties uitnodigen aan werkzaamheden van de Organisatie deel te nemen.
 
-#### Artikel 13
+##### Artikel 13
 
 De vertegenwoordiging in de Organisatie van de bij de Verdragen van Parijs en Rome van 18 april 1951 en 25 maart 1957 opgerichte Europese Gemeenschappen zal zijn als bepaald in het Aanvullende Protocol Nr. 1 bij dit Verdrag.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag dient door de ondertekenende regeringen te worden bekrachtigd of aanvaard in overeenstemming met hun onderscheidene grondwettelijke vereisten.
 
@@ -142,33 +164,33 @@ De vertegenwoordiging in de Organisatie van de bij de Verdragen van Parijs en Ro
 
 4. Iedere ondertekenende regering die op het ogenblik van inwerkingtreding van het Verdrag haar akte van bekrachtiging of aanvaarding niet heeft nedergelegd kan op tussen de Organisatie en die regering bij overeenkomst vast te stellen voorwaarden aan de werkzaamheden van de Organisatie deelnemen.
 
-#### Artikel 15
+##### Artikel 15
 
 Op het ogenblik van inwerkingtreding van dit Verdrag wordt de omvorming van de Organisatie voor Europese Economische Samenwerking van kracht en zullen haar doelstellingen, organen, bevoegdheden en naam zijn als in dit Verdrag bepaald. De rechtspersoonlijkheid die de Organisatie voor Europese Economische Samenwerking bezit gaat over op de Organisatie, doch de besluiten, aanbevelingen en resoluties van de Organisatie voor Europese Economische Samenwerking behoeven de goedkeuring van de Raad om na de inwerkingtreding van dit Verdrag van toepassing te zijn.
 
-#### Artikel 16
+##### Artikel 16
 
 De Raad kan besluiten iedere regering die bereid is de verplichtingen van het lidmaatschap te aanvaarden, uit te nodigen tot dit Verdrag toe te treden. Een dergelijk besluit dient met algemene stemmen te worden genomen met dien verstande dat de Raad in een bepaald geval met algemene stemmen kan beslissen dat onthouding van stemming is toegestaan, in welk geval, ongeacht de bepalingen van artikel 6, het besluit voor alle Leden zal gelden. De toetreding wordt van kracht op het ogenblik van nederlegging van de akte van toetreding bij de depot-regering.
 
-#### Artikel 17
+##### Artikel 17
 
 Iedere Verdragsluitende Partij kan de toepassing van dit Verdrag ten aanzien van haarzelf beëindigen door daarvan twaalf maanden tevoren mededeling te doen aan de depot-regering.
 
-#### Artikel 18
+##### Artikel 18
 
 De zetel van de Organisatie is gevestigd te Parijs, tenzij de Raad anders overeenkomt.
 
-#### Artikel 19
+##### Artikel 19
 
 De rechtsbevoegdheid van de Organisatie en de voorrechten, vrijstellingen en immuniteiten van de Organisatie, haar functionarissen en de vertegenwoordigers van de Leden bij de Organisatie worden geregeld in het Aanvullende Protocol Nr. 2 bij dit Verdrag.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Overeenkomstig een door de Raad aangenomen Financieel Reglement legt de secretaris-generaal elk jaar een jaarlijkse begroting, de jaarrekeningen alsmede alle door de Raad gevraagde aanvullende begrotingen ter goedkeuring voor aan de Raad.
 
 2. De door de Raad goedgekeurde algemene uitgaven van de Organisatie worden omgeslagen volgens een door de Raad vast te stellen schaal. De overige uitgaven worden gefinancierd op een door de Raad vastgestelde grondslag.
 
-#### Artikel 21
+##### Artikel 21
 
 Na ontvangst van iedere akte van bekrachtiging, aanvaarding of toetreding of iedere mededeling van beëindiging geeft de depotregering daarvan kennis aan alle Verdragsluitende Partijen en aan de secretaris-generaal van de Organisatie.
 
@@ -176,11 +198,11 @@ De Regeringen die het Verdrag nopens de Organisatie voor Economische Samenwerkin
 
 Zijn overeengekomen als volgt:
 
-#### 1
+##### 1
 
 De vertegenwoordiging in de Organisatie voor Economische Samenwerking en Ontwikkeling van de bij de Verdragen van Parijs en Rome van 18 april 1951 en 25 maart 1957 opgerichte Europese Gemeenschappen wordt geregeld overeenkomstig de institutionele bepalingen van die Verdragen.
 
-#### 2
+##### 2
 
 De Commissies van de Europese Economische Gemeenschap en van de Europese Gemeenschap voor Atoomenergie, alsmede de Hoge Autoriteit van de Europese Gemeenschap voor Kolen en Staal, nemen deel aan de werkzaamheden van die Organisatie.
 

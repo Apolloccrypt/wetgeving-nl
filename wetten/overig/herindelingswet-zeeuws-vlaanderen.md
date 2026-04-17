@@ -1,14 +1,42 @@
 ---
-title: "Herindelingswet Zeeuws-Vlaanderen"
+title: "Wet van 16 mei 2002, houdende gemeentelijke herindeling in Zeeuws-Vlaanderen"
 identifier: "BWBR0013691"
-categorie: "Overig"
-publicatiedatum: 2002-08-01
-laatste_update: 2002-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013691"
+country: "nl"
+rank: "wet"
+publication_date: "2002-08-01"
+last_updated: "2002-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013691"
+soort: "wet"
+stam_id: "1977233"
+version_id: "2928252"
+internal_id: "C2928251"
+label_id: "1926394"
+dtd_version: "2.0"
+original_entry_into_force: "2002-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013691/2002-08-01/0"
+intitule_bron: "Stb.2002-289"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-16"
+intitule_published: "2002-06-18"
+intitule_in_force: "2002-06-18"
+intitule_status: "goed"
+original_publication: "Stb.2002-289"
+original_signed_date: "2002-05-16"
+original_published_date: "2002-06-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "28057"
+original_url_id: "stb-2002-289"
+entry_into_force_date: "2002-08-01"
+entry_into_force_dossier: "28057"
+jci_1_3: "jci1.3:c:BWBR0013691&z=2002-08-01&g=2002-08-01"
+jci_1_0: "1.0:c:BWBR0013691&g=2002-08-01"
+citeertitel_status: "officieel"
+short_title: "Herindelingswet Zeeuws-Vlaanderen"
+signed_date: "2002-05-16"
+entry_into_force: "2002-08-01"
 ---
-
-# Herindelingswet Zeeuws-Vlaanderen
+# Wet van 16 mei 2002, houdende gemeentelijke herindeling in Zeeuws-Vlaanderen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1. Opheffing en instelling van gemeenten
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de onderstaande gemeenten opgeheven:
 
@@ -36,7 +64,7 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 - Terneuzen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met ingang van de datum van herindeling worden de onderstaande nieuwe gemeenten ingesteld:
 
@@ -62,7 +90,7 @@ Met ingang van de datum van herindeling worden de onderstaande gemeenten opgehev
 
 #### Paragraaf 2. Overige bepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 In tabel 2 zijn voor de nieuwe gemeente de op te heffen gemeenten aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
@@ -74,7 +102,7 @@ In tabel 2 zijn voor de nieuwe gemeente de op te heffen gemeenten aangewezen voo
 | Sluis | Oostburg |
 | Terneuzen | Terneuzen |
 
-#### Artikel 4
+##### Artikel 4
 
 In tabel 3 staan voor de op te heffen gemeenten de nieuwe gemeenten aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -96,21 +124,21 @@ In tabel 3 staan voor de op te heffen gemeenten de nieuwe gemeenten aangewezen v
 |   | Sas van Gent |
 |   | Terneuzen |
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de nieuwe gemeenten, die bij deze wet worden ingesteld, worden tussentijdse raadsverkiezingen als bedoeld in [artikel 52, tweede lid, onderdeel a, van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=52) gehouden.
 
 2. Met de voorbereiding van de tussentijdse raadsverkiezingen voor de nieuwe gemeenten zijn de op te heffen gemeenten belast overeenkomstig de bij [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0013691&paragraaf=2&artikel=3&z=2002-08-01&g=2002-08-01) behorende tabel.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Politiewet 1993.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

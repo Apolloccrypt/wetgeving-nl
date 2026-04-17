@@ -1,13 +1,35 @@
 ---
 title: "Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds"
 identifier: "BWBV0006545"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006545"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006545"
+soort: "verdrag"
+stam_id: "10005328053"
+version_id: "10005732342"
+internal_id: "C10009992841"
+label_id: "10005310864"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006545/2016-07-01/0"
+intitule_bron: "Trb.2006-263"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-12-21"
+intitule_in_force: "2023-06-20"
+intitule_status: "goed"
+original_publication: "Trb.2006-263"
+original_published_date: "2006-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-263"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBV0006545&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBV0006545&g=2016-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-07-01"
 ---
-
 # Samenwerkingsovereenkomst betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS) tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en de Republiek Korea, anderzijds
 
 De Europese Gemeenschap (hierna de „Gemeenschap” genoemd),
@@ -84,11 +106,11 @@ Geziende toenemende ontwikkeling van GNSS-toepassingen in Korea, Europa en ander
 
 Zijn overeengekomen hetgeen volgt:
 
-#### Artikel 1. Doel van de overeenkomst
+##### Artikel 1. Doel van de overeenkomst
 
 Het doel van de overeenkomst is het stimuleren, faciliteren en versterken van samenwerking tussen de partijen op het gebied van civiele mondiale satellietnavigatie in het kader van Europese en Koreaanse bijdragen aan een civiel mondiaal navigatiesatellietsysteem (GNSS).
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -110,7 +132,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - i. „geclassificeerde informatie”: informatie, ongeacht of deze ontstaat in de EU of ontvangen wordt uit lidstaten, niet-EU-landen of internationale organisaties, die bescherming behoeft tegen ongeoorloofde openbaarmaking, welke in verschillende mate de essentiële belangen – inclusief de nationale veiligheid – van de partijen of van afzonderlijke lidstaten zou kunnen schaden. De classificering ervan wordt aangeduid door een classificeringswaarmerk. Dergelijke informatie wordt geclassificeerd in overeenstemming met de van toepassing zijnde wet- en regelgeving en moet tegen elke vorm van verlies aan vertrouwelijkheid, integriteit of beschikbaarheid worden beschermd.
 
-#### Artikel 3. Beginselen van de samenwerking
+##### Artikel 3. Beginselen van de samenwerking
 
 De partijen komen overeen de volgende beginselen toe te passen op onder deze overeenkomst vallende samenwerkingsactiviteiten:
 
@@ -128,7 +150,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 - 7. onbeperkte handel in GNSS-goederen op de grondgebieden van de partijen.
 
-#### Artikel 4. Toepassingsgebied van de samenwerkingsactiviteiten
+##### Artikel 4. Toepassingsgebied van de samenwerkingsactiviteiten
 
 1. De sectoren voor samenwerkingsactiviteiten op het gebied van satellietnavigatie en -tijdsynchronisatie zijn: radiospectrum, wetenschappelijk onderzoek en opleiding, industriële samenwerking, handels- en marktontwikkeling, normen, certificering en regulerende maatregelen, augmentaties, veiligheid, aansprakelijkheid en kostendekking. De partijen kunnen de lijst in lid 1 aanpassen bij beslissing van het op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) van deze overeenkomst opgerichte GNSS-Stuurcomité.
 
@@ -148,13 +170,13 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 3. Deze overeenkomst is niet van invloed op de ten behoeve van de activiteiten van het GALILEO-programma bij het Gemeenschapsrecht ingestelde institutionele structuur. Deze overeenkomst is evenmin van invloed op de toepasselijke regulerende maatregelen ter uitvoering van non-proliferatie- en exportcontroleverbintenissen, inclusief controle van immateriële overdrachten van technologie, noch op nationale veiligheidsmaatregelen.
 
-#### Artikel 5. Vormen van samenwerking
+##### Artikel 5. Vormen van samenwerking
 
 1. Behoudens hun toepasselijke regulerende maatregelen bevorderen de partijen zoveel mogelijk de samenwerkingsactiviteiten op grond van deze overeenkomst met het oog op het bieden van vergelijkbare kansen voor deelname aan hun activiteiten in de onder [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=4&z=2016-07-01&g=2016-07-01) bedoelde sectoren.
 
 2. De partijen komen overeen samenwerkingsactiviteiten uit te voeren zoals bedoeld in de artikelen 6 tot en met 13 van deze overeenkomst.
 
-#### Artikel 6. Radiospectrum
+##### Artikel 6. Radiospectrum
 
 1. Voortbouwend op vroegere successen in het kader van de Internationale Telecommunicatie-unie komen de partijen overeen hun samenwerking en wederzijdse steun in verband met radiospectrumkwesties voort te zetten.
 
@@ -166,7 +188,7 @@ De partijen komen overeen de volgende beginselen toe te passen op onder deze ove
 
 5. Niets in deze overeenkomst mag aldus worden geïnterpreteerd dat afbreuk wordt gedaan aan de toepasselijke bepalingen van de Internationale Telecommunicatie-unie, inclusief de ITU-radioreglementen.
 
-#### Artikel 7. Wetenschappelijk onderzoek
+##### Artikel 7. Wetenschappelijk onderzoek
 
 De partijen bevorderen gezamenlijke onderzoeksactiviteiten op het gebied van GNSS via Europese en Koreaanse onderzoeksprogramma’s inclusief het kaderprogramma voor onderzoek en ontwikkeling van de Europese Gemeenschappen, de onderzoeksprogramma’s van het Europees Ruimte-Agentschap en de GNSS-gerelateerde ministeries en agentschappen van Korea.
 
@@ -174,7 +196,7 @@ De gezamenlijke onderzoeksactiviteiten moeten bijdragen tot het plannen van toek
 
 De partijen komen overeen het comité uit hoofde van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01) met de taak te belasten het passende mechanisme te definiëren om voor effectieve contacten en samenwerking in deze sector te zorgen.
 
-#### Artikel 8. Industriële samenwerking
+##### Artikel 8. Industriële samenwerking
 
 1. De partijen stimuleren en steunen de samenwerking tussen de bedrijven van de twee partijen, via middelen zoals joint ventures en Koreaanse deelname aan relevante Europese industriële verenigingen alsmede Europese deelname aan relevante Koreaanse industriële verenigingen, met het doel het opzetten van het GALILEO-systeem en het bevorderen van het gebruik en de ontwikkeling van GALILEO-toepassingen en -diensten.
 
@@ -186,7 +208,7 @@ De partijen komen overeen het comité uit hoofde van [artikel 14](https://wetten
 
 5. Om bij te dragen tot het realiseren van de doelstellingen van de overeenkomst stimuleren de partijen het aanhalen van de banden tussen het Europees Ruimte-Agentschap en de GNSS-gerelateerde ministeries en agentschappen van Korea.
 
-#### Artikel 9. Handels- en marktontwikkeling
+##### Artikel 9. Handels- en marktontwikkeling
 
 1. De partijen stimuleren handel en investeringen in Europese en Koreaanse satellietnavigatie-infrastructuur, -apparatuur, lokale elementen van GALILEO en toepassingen.
 
@@ -196,7 +218,7 @@ De partijen komen overeen het comité uit hoofde van [artikel 14](https://wetten
 
 4. Deze overeenkomst heeft geen invloed op de rechten en verplichtingen van de partijen uit hoofde van de [Overeenkomst van Marrakesh tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160).
 
-#### Artikel 10. Normen, certificering en regulerende maatregelen
+##### Artikel 10. Normen, certificering en regulerende maatregelen
 
 1. De partijen, die het belang erkennen van het coördineren van de benaderingen op het gebied van internationale normalisatie en certificering betreffende mondiale satellietnavigatiediensten, steunen gezamenlijk de ontwikkeling van GALILEO-normen en bevorderen de toepassing ervan wereldwijd, waarbij de klemtoon wordt gelegd op de interoperabiliteit met andere GNSS-systemen.
 
@@ -210,7 +232,7 @@ Een van de doelstellingen van de coördinatie is het bevorderen van breed en inn
 
 5. De partijen bevorderen de deelname van Koreaanse vertegenwoordigers aan Europese normalisatieorganisaties.
 
-#### Artikel 11. Ontwikkeling van mondiale en regionale GNSS-grondaugmentatiesystemen
+##### Artikel 11. Ontwikkeling van mondiale en regionale GNSS-grondaugmentatiesystemen
 
 1. De partijen werken met elkaar samen om grondsysteemarchitecturen te definiëren en implementeren die de integriteit van GALILEO/EGNOS, de nauwkeurigheid en continuïteit van de diensten van GALILEO en EGNOS en de interoperabiliteit met andere GNSS-systemen optimaal waarborgen.
 
@@ -218,7 +240,7 @@ Een van de doelstellingen van de coördinatie is het bevorderen van breed en inn
 
 3. Op lokaal niveau vergemakkelijken de partijen de ontwikkeling van lokale elementen van GALILEO.
 
-#### Artikel 12. Veiligheid
+##### Artikel 12. Veiligheid
 
 1. De partijen beschermen de mondiale navigatiesatellietsystemen tegen misbruik, interferentie, verstoring en vijandige handelingen.
 
@@ -230,11 +252,11 @@ Een van de doelstellingen van de coördinatie is het bevorderen van breed en inn
 
 De praktische regelingen en procedures moeten door de bevoegde beveiligingsinstanties van beide partijen worden vastgesteld.
 
-#### Artikel 13. Aansprakelijkheid en kostendekking
+##### Artikel 13. Aansprakelijkheid en kostendekking
 
 De partijen werken samen om een aansprakelijkheidsregeling en kostendekkingsregelingen vast te stellen en te implementeren teneinde de aanbieding van civiele GNSS-diensten te vergemakkelijken.
 
-#### Artikel 14. Samenwerkingsmechanisme
+##### Artikel 14. Samenwerkingsmechanisme
 
 1. De samenwerkingsactiviteiten krachtens deze overeenkomst worden namens Korea door de Regering van de Republiek Korea en namens de Gemeenschap en haar lidstaten door de Europese Commissie gecoördineerd en bevorderd.
 
@@ -256,7 +278,7 @@ De door of namens het comité gemaakte kosten worden gedragen door de partij die
 
 4. De partijen juichen de potentiële deelname toe van Korea aan de Europese GNSS-toezichtautoriteit in overeenstemming met de toepasselijke wetgeving van de Europese Gemeenschap en de uitvoeringsbepalingen en procedures betreffende een dergelijke deelname.
 
-#### Artikel 15. Financiering
+##### Artikel 15. Financiering
 
 1. Elke partij draagt, tenzij door de partijen anders overeengekomen, de kosten van het vervullen van haar respectieve verantwoordelijkheden krachtens deze overeenkomst. De uitvoeringsbepalingen en procedures als bedoeld in [artikel 14, lid 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006545&artikel=14&z=2016-07-01&g=2016-07-01), behelzen een passende financiële bijdrage aan het GALILEO-programma van het niet-EU-land dat besluit om deelneming in de Toezichtautoriteit aan te vragen.
 
@@ -264,19 +286,19 @@ De door of namens het comité gemaakte kosten worden gedragen door de partij die
 
 3. Wanneer specifieke samenwerkingsregelingen van de ene partij voorzien in financiële steun aan deelnemers van de andere partij, dan worden dergelijke subsidies, financiële bijdragen of andere vormen van bijdragen van de ene partij aan de deelnemers van de andere partij ter ondersteuning van deze activiteiten toegekend vrij van belastingen en douanerechten overeenkomstig de relevante wet- en regelgeving die op het moment dat dergelijke subsidies en financiële bijdragen of andere vormen van bijdragen worden toegekend van kracht is op de grondgebieden van elke partij.
 
-#### Artikel 16. Informatie-uitwisseling
+##### Artikel 16. Informatie-uitwisseling
 
 1. De partijen stellen administratieve regelingen en informatiepunten in om te voorzien in overleg en de effectieve uitvoering van de bepalingen van deze overeenkomst.
 
 2. De partijen stimuleren verdere uitwisselingen van informatie betreffende satellietnavigatie tussen de instellingen en ondernemingen van de twee partijen.
 
-#### Artikel 17. Overleg en oplossing van geschillen
+##### Artikel 17. Overleg en oplossing van geschillen
 
 1. De partijen bespreken, op verzoek van een van hen, onmiddellijk alle kwesties die voortkomen uit de interpretatie of toepassing van deze overeenkomst. Alle geschillen betreffende de interpretatie of de toepassing van deze overeenkomst worden in der minne geschikt tussen de partijen.
 
 2. Lid 1 belet de partijen niet een beroep te doen op geschillenregeling in het kader van de WTO-Overeenkomsten.
 
-#### Artikel 18. Inwerkingtreding en beëindiging
+##### Artikel 18. Inwerkingtreding en beëindiging
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de partijen de voltooiing van de daartoe vereiste procedures ter kennis hebben gebracht. De kennisgevingen worden gezonden aan de Raad van de Europese Unie, die de depositaris van deze overeenkomst is.
 

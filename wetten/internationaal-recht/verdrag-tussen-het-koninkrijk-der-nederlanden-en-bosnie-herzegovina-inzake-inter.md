@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Bosnië-Herzegovina inzake internationaal vervoer over de weg"
 identifier: "BWBV0001718"
-categorie: "Internationaal recht"
-publicatiedatum: 2005-05-01
-laatste_update: 2002-11-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001718"
+country: "nl"
+rank: "verdrag"
+publication_date: "2005-05-01"
+last_updated: "2002-11-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001718"
+soort: "verdrag"
+stam_id: "10001162203"
+version_id: "10001231762"
+internal_id: "C10008429511"
+label_id: "10001162324"
+dtd_version: "2.0"
+original_entry_into_force: "2005-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001718/2005-05-01/0"
+intitule_bron: "Trb.2003-22"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-02"
+intitule_published: "2003-01-24"
+intitule_in_force: "2005-03-24"
+intitule_status: "goed"
+original_publication: "Trb.2003-22"
+original_signed_date: "2005-03-02"
+original_published_date: "2003-01-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-22"
+entry_into_force_date: "2005-05-01"
+jci_1_3: "jci1.3:c:BWBV0001718&z=2005-05-01&g=2005-05-01"
+jci_1_0: "1.0:c:BWBV0001718&g=2005-05-01"
+citeertitel_status: "officieel"
+signed_date: "2005-03-02"
+entry_into_force: "2005-05-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Bosnië-Herzegovina inzake internationaal vervoer over de weg
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Geleid door de wens, in het belang van hun economische betrekkingen, de ontwikke
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 1. De bepalingen van dit Verdrag zijn van toepassing op het internationaal vervoer van goederen en personen over de weg tegen betaling of beloning of voor eigen rekening tussen de grondgebieden van de Verdragsluitende Partijen, in doorvoer over hun grondgebieden, naar of van derde landen, en op cabotage, verricht door vervoerders die voertuigen gebruiken zoals omschreven in artikel 2 van dit Verdrag.
 
@@ -30,7 +55,7 @@ Zijn het volgende overeengekomen:
 
 3. De toepassing van dit Verdrag doet geen afbreuk aan de toepassing door het Koninkrijk der Nederlanden, als Lidstaat van de Europese Unie, van het recht van de Europese Unie.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -42,7 +67,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - 4. „vervoer", het rijden met beladen of onbeladen voertuigen over de weg, ook indien het voertuig, de aanhangwagen of de oplegger voor een deel van de rit gebruik maakt van spoor- of waterwegen.
 
-#### Artikel 3. Toegang tot de markt
+##### Artikel 3. Toegang tot de markt
 
 1. Elk van de Verdragsluitende Partijen kan een op het grondgebied van de andere Verdragsluitende Partij gevestigde vervoerder toestaan vervoer van goederen of personen te verrichten:
 
@@ -66,13 +91,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. Een vervoerder mag geen cabotage verrichten, tenzij hij daartoe speciale toestemming heeft verkregen van de bevoegde autoriteiten of een andere gemachtigde instantie van elke Verdragsluitende Partij.
 
-#### Artikel 4. Gewichten en afmetingen
+##### Artikel 4. Gewichten en afmetingen
 
 1. De gewichten en afmetingen van voertuigen dienen in overeenstemming te zijn met de officiële registratie van het voertuig en mogen de in het gastheerland geldende grenzen niet overschrijden.
 
 2. Indien het gewicht en/of de afmetingen van een voertuig in beladen of onbeladen toestand bij het verrichten van vervoer ingevolge de bepalingen van dit Verdrag het in het gastheerland toelaatbare maximum overschrijden, is een bijzondere vergunning van het gastheerland vereist.
 
-#### Artikel 5. Naleving van de nationale wetgeving
+##### Artikel 5. Naleving van de nationale wetgeving
 
 1. Vervoerders van een van de landen en de bemanningen van hun voertuigen moeten, wanneer zij zich op het grondgebied van de andere Verdragsluitende Partij bevinden, de in dat land geldende wetten en voorschriften naleven.
 
@@ -80,11 +105,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 3. De in het eerste en tweede lid van dit artikel bedoelde wetten en voorschriften worden toegepast onder dezelfde voorwaarden als die waaraan inwoners van het gastheerland worden onderworpen, om discriminatie op grond van nationaliteit of plaats van vestiging uit te sluiten.
 
-#### Artikel 6. Overtredingen
+##### Artikel 6. Overtredingen
 
 In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder gevestigd op het grondgebied van een van de Verdragsluitende Partijen, geeft de Verdragsluitende Partij op wier grondgebied de overtreding plaatsvond, de mogelijkheid van eigen gerechtelijke procedures, daarvan kennis aan de andere Verdragsluitende Partij, die de in haar nationale wetgeving voorziene stappen zal ondernemen. De Verdragsluitende Partijen stellen elkaar in kennis van opgelegde sancties.
 
-#### Artikel 7. Belastingaangelegenheden
+##### Artikel 7. Belastingaangelegenheden
 
 1. Voertuigen, met inbegrip van hun reserveonderdelen, waarmee vervoer wordt verricht in overeenstemming met dit Verdrag, zijn wederzijds vrijgesteld van alle belastingen en heffingen opgelegd aan het rijden met of het bezit van voertuigen, alsook van alle speciale belastingen of heffingen opgelegd aan vervoerswerkzaamheden op het grondgebied van de andere Verdragsluitende Partij.
 
@@ -92,7 +117,7 @@ In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder g
 
 3. De zich in de normale reservoirs van de voertuigen bevindende brandstof, alsmede de alleen voor de goede werking van die voertuigen bestemde smeermiddelen, zijn wederzijds vrijgesteld van douanerechten en andere belastingen en betalingen.
 
-#### Artikel 8. Gemengde Commissie
+##### Artikel 8. Gemengde Commissie
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en toepassing van dit Verdrag.
 
@@ -118,15 +143,15 @@ In geval van overtreding van de bepalingen van dit Verdrag door een vervoerder g
 
 - g. de bevordering van intermodaal vervoer, met inbegrip van alle vraagstukken betreffende de toegang tot de markt.
 
-#### Artikel 9. Toepassing voor het Koninkrijk der Nederlanden
+##### Artikel 9. Toepassing voor het Koninkrijk der Nederlanden
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 10. Wijziging
+##### Artikel 10. Wijziging
 
 Door de Verdragsluitende Partijen overeengekomen wijzigingen van dit Verdrag worden van kracht op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele vereisten in hun respectieve landen is voldaan.
 
-#### Artikel 11. Inwerkingtreding en beëindiging
+##### Artikel 11. Inwerkingtreding en beëindiging
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand die volgt op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk ervan in kennis hebben gesteld dat aan de constitutionele vereisten voor de inwerkingtreding van het Verdrag in hun respectieve landen is voldaan.
 

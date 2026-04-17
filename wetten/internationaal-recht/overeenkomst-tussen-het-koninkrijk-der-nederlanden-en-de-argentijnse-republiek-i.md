@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek inzake de bevordering en de wederzijdse bescherming van investeringen"
 identifier: "BWBV0001101"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-10-01
-laatste_update: 1994-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001101"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-10-01"
+last_updated: "1994-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001101"
+soort: "verdrag"
+stam_id: "10002288153"
+version_id: "10002312172"
+internal_id: "C10006976231"
+label_id: "10002278284"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001101/1994-10-01/0"
+intitule_bron: "Trb.1992-192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-08-09"
+intitule_published: "1992-12-09"
+intitule_in_force: "1994-09-21"
+intitule_status: "goed"
+original_publication: "Trb.1992-192"
+original_signed_date: "1993-08-09"
+original_published_date: "1992-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-192"
+entry_into_force_date: "1994-10-01"
+jci_1_3: "jci1.3:c:BWBV0001101&z=1994-10-01&g=1994-10-01"
+jci_1_0: "1.0:c:BWBV0001101&g=1994-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "1993-08-09"
+entry_into_force: "1994-10-01"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Argentijnse Republiek inzake de bevordering en de wederzijdse bescherming van investeringen
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Argentijnse Republiek, hierna te noemen de „Overeenkomstsluitende Partijen",
@@ -18,7 +43,7 @@ in het besef dat overeenstemming omtrent de aan deze investeringen toe te kennen
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -44,11 +69,11 @@ Voor de toepassing van deze Overeenkomst:
 
 - c. omvat de term „grondgebied" mede de zeegebieden grenzend aan de kust van de betrokken Staat, voor zover die Staat overeenkomstig het internationale recht soevereine rechten of rechtsmacht in deze gebieden kan uitoefenen.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Overeenkomstsluitende Partij bevordert, binnen het kader van haar wetten en voorschriften, de economische samenwerking door middel van de bescherming op haar grondgebied van investeringen van investeerders van de andere Overeenkomstsluitende Partij. Met inachtneming van het recht van elke Overeenkomstsluitende Partij de door haar wetten of voorschriften verleende bevoegdheden uit te oefenen, laat elke Overeenkomstsluitende Partij deze investeringen toe.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Overeenkomstsluitende Partij waarborgt een eerlijke en rechtvaardige behandeling van de investeringen van investeerders van de andere Overeenkomstsluitende Partij en belemmert niet, door onredelijke of discriminatoire maatregelen, de werking, het beheer, de instandhouding, het gebruik, het genot of de vervreemding daarvan door deze investeerders.
 
@@ -58,17 +83,17 @@ Elke Overeenkomstsluitende Partij bevordert, binnen het kader van haar wetten en
 
 4. Indien de wettelijke bepalingen van één van beide Overeenkomstsluitende Partijen of verplichtingen krachtens internationaal recht, die thans bestaan of op een later tijdstip tussen de Overeenkomstsluitende Partijen worden aangegaan naast deze Overeenkomst, een algemene of bijzondere regeling bevatten op grond waarvan investeringen door investeerders van de andere Overeenkomstsluitende Partij recht hebben op een behandeling die gunstiger is dan in deze Overeenkomst is voorzien, heeft een dergelijke regeling, in zoverre zij gunstiger is, voorrang boven deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Investeringen onderworpen aan een bijzondere overeenkomst tussen een van de Overeenkomstsluitende Partijen en een investeerder van de andere Overeenkomstsluitende Partij worden beheerst door de bepalingen van deze Overeenkomst en die van een zodanige bijzondere overeenkomst.
 
 2. Elke Overeenkomstsluitende Partij komt alle verplichtingen na die zij is aangegaan met betrekking tot investeringen van investeerders van de andere Overeenkomstsluitende Partij.
 
-#### Artikel 5
+##### Artikel 5
 
 Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstellingen van belasting kent iedere Overeenkomstsluitende Partij aan investeerders van de andere Overeenkomstsluitende Partij die zich op haar grondgebied met economische activiteiten bezighouden, een behandeling toe die niet minder gunstig is dan die welke wordt toegekend aan haar eigen investeerders of aan die van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken investeerder. Hierbij wordt evenwel geen rekening gehouden met bijzondere belastingvoordelen door die Partij toegekend krachtens een overeenkomst ter vermijding van dubbele belasting, uit hoofde van haar deelneming aan een douane-unie, economische unie, integratiegebied of soortgelijke instelling of op basis van wederkerigheid met een derde Staat.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Elke Overeenkomstsluitende Partij waarborgt investeerders van de andere Overeenkomstsluitende Partij de onbeperkte overmaking van hun op een investering betrekking hebbende betalingen en in het bijzonder, doch niet uitsluitend, van:
 
@@ -86,7 +111,7 @@ Met betrekking tot belastingen, heffingen, lasten en verminderingen en vrijstell
 
 2. De vrije overmaking geschiedt in een vrij inwisselbare valuta, zonder onnodige beperking of vertraging, in overeenstemming met de door elke Overeenkomstsluitende Partij bepaalde procedures; deze procedures dienen niet een afwijzing, een schorsing of een aantasting van zodanige rechten in te houden.
 
-#### Artikel 7
+##### Artikel 7
 
 Geen van de Overeenkomstsluitende Partijen neemt directe of indirecte nationalisatie- of onteigeningsmaatregelen of andere maatregelen van gelijke aard of uitwerking ten aanzien van investeringen gedaan op haar grondgebied door investeerders van de andere Overeenkomstsluitende Partij, tenzij aan de volgende voorwaarden wordt voldaan:
 
@@ -96,17 +121,17 @@ Geen van de Overeenkomstsluitende Partijen neemt directe of indirecte nationalis
 
 - c. de maatregelen gaan vergezeld van een regeling voor de betaling van een billijke schadeloosstelling. Deze schadeloosstelling dient overeen te komen met de werkelijke waarde van de desbetreffende investeringen en dient, wil zij doeltreffend zijn voor de gerechtigden, zonder onredelijke vertraging te worden betaald en te kunnen worden overgemaakt naar het door de betrokken gerechtigden aangewezen land en in de valuta van het land waarvan de gerechtigden onderdaan zijn, in de valuta waarin de investering is gedaan, of in een vrij inwisselbare valuta, naar gelang van wat door de gerechtigden wordt aanvaard.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan investeerders van de ene Overeenkomstsluitende Partij die verliezen lijden met betrekking tot hun investeringen op het grondgebied van de andere Overeenkomstsluitende Partij wegens oorlog of een ander gewapend conflict, revolutie, een algemene noodtoestand, opstand, oproer of ongeregeldheden, wordt door de laatstgenoemde Overeenkomstsluitende Partij wat restitutie, schadevergoeding, schadeloosstelling of een andere regeling betreft, geen minder gunstige behandeling toegekend dan die welke die Overeenkomstsluitende Partij toekent aan haar eigen investeerders of aan investeerders van een derde Staat, naar gelang van wat het gunstigst is voor de betrokken investeerders. Deze behandeling dient in geen geval minder gunstig te zijn dan die bepaald door het internationale recht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de investeringen van een investeerder van de ene Overeenkomstsluitende Partij krachtens een bij wet ingesteld stelsel verzekerd zijn tegen niet-commerciële risico's, wordt de subrogatie van de verzekeraar of de herverzekeraar in de rechten van de genoemde investeerder, ingevolge de voorwaarden van deze verzekering, door de andere Overeenkomstsluitende Partij erkend.
 
 2. De verzekeraar of herverzekeraar is, binnen de grenzen van de subrogatie, gerechtigd alle rechten uit te oefenen die de investeerder gerechtigd zou zijn geweest uit te oefenen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Geschillen tussen een Overeenkomstsluitende Partij en een investeerder van de andere Overeenkomstsluitende Partij betreffende door onder deze Overeenkomst vallende aangelegenheden worden, indien mogelijk, in der minne geschikt.
 
@@ -126,19 +151,19 @@ Aan investeerders van de ene Overeenkomstsluitende Partij die verliezen lijden m
 
 7. Het scheidsgerecht tot hetwelk men zich overeenkomstig het vijfde lid van dit artikel heeft gericht, beslist op basis van het recht van de Overeenkomstsluitende Partij die partij bij het geschil is - met inbegrip van haar conflictenregels -, de bepalingen van deze Overeenkomst, bijzondere overeenkomsten aangegaan met betrekking tot de desbetreffende investering, alsmede de van toepassing zijnde regels van het internationale recht.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze Overeenkomst is van toepassing op alle investeringen, ongeacht of deze voor of na de inwerkingtreding ervan zijn gedaan, maar is niet van toepassing op geschillen betreffende een investering die zijn ontstaan of vorderingen betreffende een investering die zijn geregeld voor de inwerkingtreding ervan.
 
-#### Artikel 12
+##### Artikel 12
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij in de in artikel 15, eerste lid, bedoelde mededeling anders wordt bepaald.
 
-#### Artikel 13
+##### Artikel 13
 
 Elk der Overeenkomstsluitende Partijen kan aan de andere Partij voorstellen overleg te plegen over een aangelegenheid betreffende de uitlegging of toepassing van de Overeenkomst. De andere Partij neemt dit voorstel in welwillende overweging en biedt passende gelegenheid voor dat overleg.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Enig geschil tussen de Overeenkomstsluitende Partijen betreffende de uitlegging of de toepassing van deze Overeenkomst dat niet binnen een redelijke termijn door middel van diplomatieke onderhandelingen of anderszins minnelijk kan worden beslecht, zoals bespreking in een Gemengde Commissie, wordt, tenzij de Partijen anders zijn overeengekomen, op verzoek van een van beide Partijen voorgelegd aan een uit drie leden samengesteld scheidsgerecht. Elke Partij benoemt een scheidsman en de aldus benoemde scheidsmannen benoemen te zamen een derde scheidsman, die geen onderdaan van een der Partijen is, tot hun voorzitter.
 
@@ -156,7 +181,7 @@ Elk der Overeenkomstsluitende Partijen kan aan de andere Partij voorstellen over
 
 8. Elke Overeenkomstsluitende Partij draagt de kosten van het door die Overeenkomstsluitende Partij benoemde lid. De kosten van de Voorzitter alsmede andere kosten worden in gelijke delen door de beide Overeenkomstsluitende Partijen gedragen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Overeenkomstsluitende Partijen elkaar schriftelijk hebben medegedeeld dat aan de in hun onderscheiden landen hiertoe constitutioneel vereiste procedures is voldaan, en blijft van kracht voor een tijdvak van tien jaar.
 

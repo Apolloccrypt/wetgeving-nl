@@ -1,13 +1,36 @@
 ---
-title: "Rijkswet houdende overgangsbepalingen verkrijgen hoedanigheid van land in Koninkrijk door Aruba"
+title: "Rijkswet van 20 juni 1985, houdende vaststelling van enige overgangsbepalingen in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba"
 identifier: "BWBR0003813"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 1985-07-09
-laatste_update: 1985-07-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003813"
+country: "nl"
+rank: "rijkswet"
+publication_date: "1985-07-09"
+last_updated: "1985-07-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003813"
+soort: "rijkswet"
+stam_id: "203933"
+version_id: "279292"
+internal_id: "C279291"
+label_id: "200564"
+dtd_version: "2.0"
+original_entry_into_force: "1985-07-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003813/1985-07-09/0"
+intitule_bron: "Stb.1985-370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1985-06-20"
+intitule_status: "goed"
+original_publication: "Stb.1985-370"
+original_signed_date: "1985-06-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "18827"
+entry_into_force_date: "1985-07-09"
+jci_1_3: "jci1.3:c:BWBR0003813&z=1985-07-09&g=1985-07-09"
+jci_1_0: "1.0:c:BWBR0003813&g=1985-07-09"
+citeertitel_status: "redactioneel"
+short_title: "Rijkswet houdende overgangsbepalingen verkrijgen hoedanigheid van land in Koninkrijk door Aruba"
+signed_date: "1985-06-20"
+entry_into_force: "1985-07-09"
 ---
-
 # Rijkswet van 20 juni 1985, houdende vaststelling van enige overgangsbepalingen in verband met het verkrijgen van de hoedanigheid van land in het Koninkrijk door Aruba
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -16,7 +39,7 @@ Alzo Wij in overweging genomen hebben, dat een van 7 tot en met 12 maart 1983 te
 
 Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen overleg der Staten-Generaal, de bepalingen van het [Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154) in acht genomen zijnde, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het door de Staten-Generaal aangenomen en door de Nederlandse Antillen ingevolge [artikel 55 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=55) aanvaarde voorstel van rijkswet tot wijziging van het [Statuut voor het Koninkrijk der Nederlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0002154), houdende losmaking van Aruba uit het staatsverband van de Nederlandse Antillen, wordt niet door de Koning bekrachtigd alvorens het door de eilandsraad van Aruba is aanvaard.
 
@@ -26,7 +49,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 4. De nieuw gekozen eilandsraad beslist over de aanvaarding bij volstrekte meerderheid der uitgebrachte stemmen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het door de eilandsraad van Aruba bij eilandsverordening vastgestelde ontwerp voor een staatsregeling van Aruba verkrijgt op het tijdstip van inwerkingtreding van de rijkswet, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=1&z=1985-07-09&g=1985-07-09), de staat van Staatsregeling van Aruba, indien:
 
@@ -40,13 +63,13 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. De nieuw gekozen eilandsraad beslist over het ontwerp bij volstrekte meerderheid der uitgebrachte stemmen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De door de eilandsraad van Aruba bij eilandsverordening vastgestelde ontwerp-landsverordeningen van Aruba verkrijgen op het tijdstip van inwerkingtreding van de rijkswet, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=1&z=1985-07-09&g=1985-07-09), de staat van landsverordening van Aruba.
 
 2. De door het bestuurscollege van Aruba bij eilandsbesluit, onderscheidenlijk eilandsbesluit, houdende algemene maatregelen, vastgestelde ontwerp-landsbesluiten van Aruba verkrijgen op het tijdstip van inwerkingtreding van de rijkswet, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=1&z=1985-07-09&g=1985-07-09), de staat van landsbesluit, onderscheidenlijk landsbesluit, houdende algemene maatregelen van Aruba.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De voor de Nederlandse Antillen bij landsverordening en voor Aruba bij eilandsverordening goedgekeurde ontwerpregeling strekkende tot samenwerking tussen de Nederlandse Antillen en Aruba verkrijgt op het tijdstip van inwerkingtreding van de rijkswet, bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=1&z=1985-07-09&g=1985-07-09), de staat van onderlinge regeling in de zin van [artikel 38 van het Statuut voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002154&artikel=38), indien:
 
@@ -60,11 +83,11 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 3. De nieuw gekozen eilandsraad beslist over het ontwerp bij volstrekte meerderheid der uitgebrachte stemmen.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de toepassing van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=1&z=1985-07-09&g=1985-07-09), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=2&z=1985-07-09&g=1985-07-09) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003813&artikel=4&z=1985-07-09&g=1985-07-09) niet leidt tot verkiezing van een nieuwe eilandsraad, wordt, zodra de vereiste voorzieningen inzake de handhaving van bij de inwerkingtreding van de Staatsregeling van Aruba geldende wettelijke regelingen en bestaande organen zijn getroffen, de eilandsraad door de gezaghebber ontbonden. Het besluit tot ontbinding behelst de uitschrijving van de verkiezing van een nieuwe eilandsraad binnen twee maanden en de bijeenroeping van de nieuw gekozen eilandsraad binnen drie maanden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze rijkswet treedt in werking met ingang van een bij Koninklijk besluit te bepalen tijdstip.
 

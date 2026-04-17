@@ -1,13 +1,24 @@
 ---
 title: "Kaderverdrag van de Raad van Europa over artificiële intelligentie en de mensenrechten, de democratie en de rechtsstaat"
 identifier: "BWBV0007089"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-09-05
-laatste_update: 2024-09-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007089"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-09-05"
+last_updated: "2024-09-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007089"
+soort: "verdrag"
+stam_id: "10005699793"
+version_id: "10006295782"
+internal_id: "C10010177481"
+label_id: "10005681944"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007089/2024-09-05/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0007089&z=2024-09-05&g=2024-09-05"
+jci_1_0: "1.0:c:BWBV0007089&g=2024-09-05"
+citeertitel_status: "redactioneel"
 ---
-
 # Kaderverdrag van de Raad van Europa over artificiële intelligentie en de mensenrechten, de democratie en de rechtsstaat
 
 Preambule
@@ -52,7 +63,7 @@ zijn als volgt overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Onderwerp en doel
+##### Artikel 1. Onderwerp en doel
 
 1. Dit verdrag heeft tot doel te waarborgen dat de activiteiten binnen de levenscyclus van artificiële-intelligentiesystemen volledig conform de mensenrechten, de democratie en de rechtsstaat zijn.
 
@@ -60,11 +71,11 @@ zijn als volgt overeengekomen:
 
 3. Om te waarborgen dat de partijen het verdrag doeltreffend uitvoeren, wordt een follow-upmechanisme ingesteld en internationale samenwerking vastgesteld.
 
-#### Artikel 2. Definitie van artificiële-intelligentiesystemen
+##### Artikel 2. Definitie van artificiële-intelligentiesystemen
 
 Voor de toepassing van dit verdrag wordt onder „artificiële-intelligentiesysteem” („AI-systeem”) verstaan een machinaal systeem dat voor expliciete of impliciete doeleinden uit de ontvangen input afleidt hoe het output kan genereren zoals voorspellingen, inhoud, aanbevelingen en beslissingen die op fysieke of virtuele omgevingen van invloed kunnen zijn. De autonomie en het aanpassingsvermogen van de verschillende AI-systemen na de uitrol lopen uiteen.
 
-#### Artikel 3. Toepassingsgebied
+##### Artikel 3. Toepassingsgebied
 
 1. Het toepassingsgebied van dit verdrag omvat de activiteiten binnen de levenscyclus van AI-systemen die de mensenrechten, de democratie en de rechtsstaat kunnen schenden, als volgt:
 
@@ -84,11 +95,11 @@ Bij de uitvoering van deze verplichting mag een partij niet afwijken of de toepa
 
 ### HOOFDSTUK II. ALGEMENE VERPLICHTINGEN
 
-#### Artikel 4. Bescherming van de mensenrechten
+##### Artikel 4. Bescherming van de mensenrechten
 
 Elke partij treft of handhaaft maatregelen om te waarborgen dat de activiteiten binnen de levenscyclus van AI-systemen overeenkomstig de toepasselijke nationale en internationale mensenrechtenverplichtingen.
 
-#### Artikel 5. Integriteit van de democratische processen en eerbiediging van de rechtsstaat
+##### Artikel 5. Integriteit van de democratische processen en eerbiediging van de rechtsstaat
 
 1. Elke partij treft of handhaaft maatregelen om te waarborgen dat AI-systemen niet worden gebruikt om de integriteit, de onafhankelijkheid en de doeltreffendheid van de democratische instellingen en processen te ondermijnen, zoals het beginsel van de scheiding der machten, de eerbiediging van een onafhankelijke rechterlijke macht en de toegang tot de rechter.
 
@@ -96,29 +107,29 @@ Elke partij treft of handhaaft maatregelen om te waarborgen dat de activiteiten 
 
 ### HOOFDSTUK III. BEGINSELEN BETREFFENDE ACTIVITEITEN BINNEN DE LEVENSCYCLUS VAN ARTIFICIËLE-INTELLIGENTIESYSTEMEN
 
-#### Artikel 6. Algemene benadering
+##### Artikel 6. Algemene benadering
 
 Dit hoofdstuk bevat algemene gemeenschappelijke beginselen betreffende AI-systemen die elke partij moet uitvoeren op een wijze die bij haar nationale rechtsstelsel en de andere verplichtingen van dit verdrag past.
 
-#### Artikel 7. Menselijke waardigheid en individuele autonomie
+##### Artikel 7. Menselijke waardigheid en individuele autonomie
 
 Elke partij treft of handhaaft maatregelen om de menselijke waardigheid en de individuele autonomie met betrekking tot activiteiten binnen de levenscyclus van AI-systemen te eerbiedigen.
 
-#### Artikel 8. Transparantie en toezicht
+##### Artikel 8. Transparantie en toezicht
 
 Elke partij treft of handhaaft maatregelen om te waarborgen dat er afdoende, op de specifieke context en risico’s afgestemde transparantie- en toezichtsvereisten gelden met betrekking tot activiteiten binnen de levenscyclus van AI-systemen, onder meer ten aanzien van de aanduiding van door AI-systemen gegenereerde inhoud.
 
-#### Artikel 9. Verantwoordingsplicht en aansprakelijkheid
+##### Artikel 9. Verantwoordingsplicht en aansprakelijkheid
 
 Elke partij treft of handhaaft maatregelen om de verantwoordingsplicht en de aansprakelijkheid te waarborgen voor negatieve gevolgen voor de mensenrechten, de democratie en de rechtsstaat die uit activiteiten binnen de levenscyclus van AI-systemen voortvloeien.
 
-#### Artikel 10. Gelijkheid en non-discriminatie
+##### Artikel 10. Gelijkheid en non-discriminatie
 
 1. Elke partij treft of handhaaft maatregelen om te waarborgen dat de activiteiten binnen de levenscyclus van AI-systemen zorgen voor de eerbiediging van de gelijkheid, waaronder de gendergelijkheid, en het verbod op discriminatie, zoals vastgesteld in het toepasselijke internationale en nationale recht.
 
 2. Elke partij verbindt zich ertoe maatregelen te treffen of te handhaven die erop gericht zijn ongelijkheden weg te nemen om rechtvaardige en billijke resultaten te bereiken, overeenkomstig de toepasselijke nationale en internationale mensenrechtenverplichtingen met betrekking tot de activiteiten binnen de levenscyclus van AI-systemen.
 
-#### Artikel 11. Bescherming van de privacy en persoonsgegevens
+##### Artikel 11. Bescherming van de privacy en persoonsgegevens
 
 Elke partij treft of handhaaft maatregelen om met betrekking tot de activiteiten binnen de levenscyclus van AI-systemen te waarborgen dat:
 
@@ -126,17 +137,17 @@ Elke partij treft of handhaaft maatregelen om met betrekking tot de activiteiten
 
 - b. er doeltreffende waarborgen voor personen zijn ingevoerd, overeenkomstig de toepasselijke nationale en internationale wettelijke verplichtingen.
 
-#### Artikel 12. Betrouwbaarheid
+##### Artikel 12. Betrouwbaarheid
 
 Elke partij treft al naargelang maatregelen om de betrouwbaarheid van AI-systemen en het vertrouwen in de output te bevorderen, zoals vereisten betreffende een toereikende kwaliteit en veiligheid gedurende de hele levenscyclus van AI-systemen.
 
-#### Artikel 13. Veilige innovatie
+##### Artikel 13. Veilige innovatie
 
 Met het oog op het bevorderen van de innovatie en het voorkomen van negatieve gevolgen voor de mensenrechten, de democratie en de rechtsstaat, wordt elke partij verzocht om al naargelang steun te bieden aan de totstandbrenging van een gecontroleerde omgeving voor het ontwikkelen van, het experimenteren met en het testen van AI-systemen onder toezicht van haar bevoegde autoriteiten.
 
 ### HOOFDSTUK IV. RECHTSMIDDELEN
 
-#### Artikel 14. Rechtsmiddelen
+##### Artikel 14. Rechtsmiddelen
 
 1. Voor zover de internationale verplichtingen rechtsmiddelen zulks vereisen en overeenkomstig het nationale rechtsstelsel, treft of handhaaft elke partij maatregelen om toegankelijke en doeltreffende rechtsmiddelen tegen mensenrechtenschendingen als gevolg van activiteiten binnen de levenscyclus van AI-systemen beschikbaar te stellen.
 
@@ -148,7 +159,7 @@ Met het oog op het bevorderen van de innovatie en het voorkomen van negatieve ge
 
 - c. een doeltreffende mogelijkheid voor de betrokken personen om bij de bevoegde autoriteiten een klacht in te dienen.
 
-#### Artikel 15. Procedurele waarborgen
+##### Artikel 15. Procedurele waarborgen
 
 1. Elke partij waarborgt dat, indien een AI-systeem een aanzienlijke impact op de uitoefening van de mensenrechten heeft, er doeltreffende procedurele waarborgen en rechten voor de betrokken personen beschikbaar zijn overeenkomstig het toepasselijke internationale en nationale recht.
 
@@ -156,7 +167,7 @@ Met het oog op het bevorderen van de innovatie en het voorkomen van negatieve ge
 
 ### HOOFDSTUK V. BEOORDELING EN BEPERKING VAN RISICO’S EN NEGATIEVE GEVOLGEN
 
-#### Artikel 16. Kader voor risico- en effectbeheer
+##### Artikel 16. Kader voor risico- en effectbeheer
 
 1. Met inachtneming van de beginselen van [hoofdstuk III](https://wetten.overheid.nl/jci1.3:c:BWBV0007089&hoofdstuk=III&z=2024-09-05&g=2024-09-05), treft of handhaaft elke partij maatregelen voor de vaststelling, de beoordeling, de preventie en de beperking van risico’s van AI-systemen door de feitelijke en de potentiële gevolgen voor de mensenrechten, de democratie en de rechtsstaat in aanmerking te nemen.
 
@@ -182,33 +193,33 @@ Met het oog op het bevorderen van de innovatie en het voorkomen van negatieve ge
 
 ### HOOFDSTUK VI. UITVOERING VAN HET VERDRAG
 
-#### Artikel 17. Non-discriminatie
+##### Artikel 17. Non-discriminatie
 
 De uitvoering van dit verdrag door de partijen wordt gewaarborgd vrij van discriminatie op enige grond, overeenkomstig de internationale mensenrechtenverplichtingen.
 
-#### Artikel 18. Rechten van personen met een handicap en van kinderen
+##### Artikel 18. Rechten van personen met een handicap en van kinderen
 
 Overeenkomstig het nationale recht en de toepasselijke internationale verplichtingen neemt elke partij de specifieke behoeften en kwetsbaarheden met betrekking tot de eerbiediging van de rechten van personen met een handicap en van kinderen naar behoren in aanmerking.
 
-#### Artikel 19. Openbare raadpleging
+##### Artikel 19. Openbare raadpleging
 
 Elke partij beoogt te waarborgen dat belangrijke vragen met betrekking tot AI-systemen in voorkomend geval naar behoren in overweging worden genomen door middel van een openbaar debat en een raadpleging van belanghebbenden in het licht van de sociale, economische, juridische, ethische, milieu- en andere toepasselijke gevolgen.
 
-#### Artikel 20. Digitale geletterdheid en vaardigheden
+##### Artikel 20. Digitale geletterdheid en vaardigheden
 
 Elke partij bevordert een passend niveau van digitale geletterdheid en digitale vaardigheden voor alle segmenten van de bevolking, en van specifieke specialistische vaardigheden voor de verantwoordelijken voor de vaststelling, de beoordeling, de preventie en de beperking van de risico’s van AI-systemen.
 
-#### Artikel 21. Waarborging van de bestaande mensenrechten
+##### Artikel 21. Waarborging van de bestaande mensenrechten
 
 Niets in dit verdrag mag worden uitgelegd als een beperking, een afwijking of een andere aantasting van de mensenrechten of andere daarmee verband houdende wettelijke rechten en verplichtingen die kunnen worden gewaarborgd op grond van de toepasselijke wetgeving van een partij of van een andere toepasselijke internationale overeenkomst waarbij zij partij is.
 
-#### Artikel 22. Ruimere bescherming
+##### Artikel 22. Ruimere bescherming
 
 Geen van de bepalingen van dit verdrag mag worden uitgelegd als een beperking of een andere aantasting van de mogelijkheid voor een partij om een ruimere beschermingsmaatregel toe te kennen dan in dit verdrag is vastgesteld.
 
 ### HOOFDSTUK VII. FOLLOW-UPMECHANISME EN SAMENWERKING
 
-#### Artikel 23. Conferentie van de partijen
+##### Artikel 23. Conferentie van de partijen
 
 1. De Conferentie van de partijen bestaat uit vertegenwoordigers van de partijen bij dit verdrag.
 
@@ -238,13 +249,13 @@ Geen van de bepalingen van dit verdrag mag worden uitgelegd als een beperking of
 
 8. De Conferentie van de partijen kan besluiten om de deelname van een partij aan haar werkzaamheden te beperken als die partij wegens een ernstige inbreuk van [artikel 3 van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=3) (ETS nr. 1) niet langer lid is van de Raad krachtens [artikel 8 van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=8). Evenzo kunnen bij een besluit van het Comité van Ministers maatregelen worden getroffen ten aanzien van een partij die geen lidstaat van de Raad van Europa is om de betrekkingen met die staat te beëindigen op vergelijkbare gronden als die van artikel 3 van het Statuut.
 
-#### Artikel 24. Verslagverplichting
+##### Artikel 24. Verslagverplichting
 
 1. Elke partij verstrekt binnen twee jaar nadat zij partij is geworden, en vervolgens op gezette tijden, aan de Conferentie van de partijen een verslag met bijzonderheden over de tot uitvoering van [artikel 3, lid 1, punten a) en b)](https://wetten.overheid.nl/jci1.3:c:BWBV0007089&hoofdstuk=I&artikel=3&z=2024-09-05&g=2024-09-05), ondernomen activiteiten.
 
 2. De Conferentie van de partijen bepaalt de vorm en de procedure voor het indienen van het verslag overeenkomstig het reglement van orde.
 
-#### Artikel 25. Internationale samenwerking
+##### Artikel 25. Internationale samenwerking
 
 1. De partijen werken samen bij de verwezenlijking van het doel van dit verdrag. De partijen worden voorts aangemoedigd om, in voorkomend geval, staten die geen partij bij dit verdrag zijn, bij te staan bij hun optreden overeenkomstig dit verdrag en om partij bij dit verdrag te worden.
 
@@ -252,7 +263,7 @@ Geen van de bepalingen van dit verdrag mag worden uitgelegd als een beperking of
 
 3. De partijen worden aangemoedigd om, in voorkomend geval ook met belanghebbenden, de samenwerking te versterken om risico’s en negatieve gevolgen voor de mensenrechten, de democratie en de rechtsstaat in het kader van activiteiten binnen de levenscyclus van AI-systemen te voorkomen en te beperken.
 
-#### Artikel 26. Doeltreffende toezichtmechanismen
+##### Artikel 26. Doeltreffende toezichtmechanismen
 
 1. Elke partij stelt een of meer doeltreffende mechanismen in of wijst deze aan om toe te zien op de naleving van de verplichtingen overeenkomstig dit verdrag.
 
@@ -264,13 +275,13 @@ Geen van de bepalingen van dit verdrag mag worden uitgelegd als een beperking of
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
-#### Artikel 27. Gevolgen van het verdrag
+##### Artikel 27. Gevolgen van het verdrag
 
 1. Indien twee of meer partijen reeds een akkoord of een verdrag over de in dit verdrag geregelde aangelegenheden hebben gesloten, of anderszins betrekkingen ten aanzien van dergelijke aangelegenheden hebben aangeknoopt, zijn zij ook gerechtigd dat akkoord of verdrag dienovereenkomstig toe te passen of die betrekkingen dienovereenkomstig te regelen, mits zij dit doen op een wijze die niet met het onderwerp en het doel van dit verdrag onverenigbaar is.
 
 2. Partijen die lid zijn van de Europese Unie passen in hun wederzijdse betrekkingen de regels van de Europese Unie toe die op de binnen het toepassingsgebied van dit verdrag vallende aangelegenheden gelden, onverminderd het onderwerp en het doel van dit verdrag en onverminderd de volledige toepassing jegens andere partijen. Hetzelfde geldt voor andere partijen, voor zover zij door dergelijke regels gebonden zijn.
 
-#### Artikel 28. Wijzigingen
+##### Artikel 28. Wijzigingen
 
 1. Wijzigingen van dit verdrag kunnen door elke partij, het Comité van Ministers van de Raad van Europa of de Conferentie van de partijen worden voorgesteld.
 
@@ -284,11 +295,11 @@ Geen van de bepalingen van dit verdrag mag worden uitgelegd als een beperking of
 
 6. Elke overeenkomstig lid 4 aangenomen wijziging treedt in werking dertig dagen nadat de partijen de Secretaris-Generaal hebben meegedeeld dat zij haar hebben aanvaard.
 
-#### Artikel 29. Geschillenbeslechting
+##### Artikel 29. Geschillenbeslechting
 
 Bij een geschil tussen partijen over de uitlegging of de toepassing van dit verdrag streven deze partijen naar een geschillenbeslechting door middel van onderhandelingen of andere vreedzame middelen van hun keuze, waaronder de Conferentie van de partijen, overeenkomstig [artikel 23, lid 2, punt e)](https://wetten.overheid.nl/jci1.3:c:BWBV0007089&hoofdstuk=VII&artikel=23&z=2024-09-05&g=2024-09-05).
 
-#### Artikel 30. Ondertekening en inwerkingtreding
+##### Artikel 30. Ondertekening en inwerkingtreding
 
 1. Dit verdrag staat open voor ondertekening door de lidstaten van de Raad van Europa, de niet-lidstaten die aan de opstelling hebben deelgenomen en de Europese Unie.
 
@@ -298,13 +309,13 @@ Bij een geschil tussen partijen over de uitlegging of de toepassing van dit verd
 
 4. Voor iedere ondertekenaar die nadien zijn instemming betuigt door dit verdrag te worden gebonden, treedt dit in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van drie maanden na de datum van de neerlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 31. Toetreding
+##### Artikel 31. Toetreding
 
 1. Na de inwerkingtreding van dit verdrag kan het Comité van Ministers van de Raad van Europa, na raadpleging van de partijen bij dit verdrag en met eenparigheid van stemmen, elke niet-lidstaat van de Raad van Europa die niet aan de opstelling van dit verdrag heeft deelgenomen, uitnodigen tot dit verdrag toe te treden bij besluit van de in [artikel 20, onderdeel d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) bedoelde meerderheid en met eenparigheid van stemmen van de vertegenwoordigers van de partijen die gerechtigd zijn zitting in het Comité van Ministers te nemen.
 
 2. Voor iedere toetredende staat treedt dit verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een termijn van drie maanden na de datum van neerlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 32. Territoriale toepassing
+##### Artikel 32. Territoriale toepassing
 
 1. Elke staat of de Europese Unie kan, op het tijdstip van ondertekening of bij de neerlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, het grondgebied of de grondgebieden waarop dit verdrag van toepassing is nader aanduiden.
 
@@ -312,25 +323,25 @@ Bij een geschil tussen partijen over de uitlegging of de toepassing van dit verd
 
 3. Elke krachtens de twee voorgaande leden gedane verklaring kan, met betrekking tot elk in die verklaring genoemd grondgebied, worden ingetrokken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 33. Federale clausule
+##### Artikel 33. Federale clausule
 
 1. Een federale staat kan zich het recht voorbehouden de verplichtingen krachtens dit verdrag aan te gaan voor zover deze conform de fundamentele beginselen zijn die ten grondslag liggen aan de betrekkingen tussen de centrale regering en de constituerende staten of andere vergelijkbare territoriale entiteiten, mits dit verdrag op de centrale regering van de federale staat van toepassing is.
 
 2. Ten aanzien van de bepalingen van dit verdrag waarvan de toepassing onder de rechtsbevoegdheid valt van elk van de constituerende staten of andere vergelijkbare territoriale entiteiten die, ingevolge het constitutionele stelsel van de federatie, niet verplicht zijn wetgevende maatregelen te treffen, brengt de centrale regering de bevoegde autoriteiten van deze staten op de hoogte van de genoemde bepalingen, vergezeld van een gunstig advies, hen aanmoedigende om passende maatregelen te treffen ter effectuering hiervan.
 
-#### Artikel 34. Voorbehouden
+##### Artikel 34. Voorbehouden
 
 1. Door middel van een schriftelijke kennisgeving aan de Secretaris-Generaal van de Raad van Europa kan elke staat, op het tijdstip van ondertekening of bij de neerlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, verklaren dat hij van het in [artikel 33, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007089&hoofdstuk=VIII&artikel=33&z=2024-09-05&g=2024-09-05), bedoelde voorbehoud gebruik maakt.
 
 2. Ten aanzien van dit verdrag kan geen ander voorbehoud worden gemaakt.
 
-#### Artikel 35. Opzegging
+##### Artikel 35. Opzegging
 
 1. Elke partij kan dit verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 36. Kennisgeving
+##### Artikel 36. Kennisgeving
 
 De Secretaris-Generaal van de Raad van Europa stelt de lidstaten van de Raad van Europa, de niet-lidstaten die aan de opstelling van dit verdrag hebben deelgenomen, de Europese Unie, elke ondertekenaar, elke verdragsluitende staat, elke partij en elke staat die is uitgenodigd tot dit verdrag toe te treden, in kennis van:
 

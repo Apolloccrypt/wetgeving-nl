@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende de erkenning en de ten uitvoerlegging van buitenlandse vonnissen in burgerlijke en handelszaken"
 identifier: "BWBV0002002"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1979-08-20
-laatste_update: 1979-08-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002002"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-08-20"
+last_updated: "1979-08-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002002"
+soort: "verdrag"
+stam_id: "10002600043"
+version_id: "10002597322"
+internal_id: "C10006983511"
+label_id: "10002589684"
+dtd_version: "2.0"
+original_entry_into_force: "1979-08-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002002/1979-08-20/0"
+intitule_bron: "Trb.1972-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1979-06-21"
+intitule_published: "1972-11-29"
+intitule_in_force: "1979-07-24"
+intitule_status: "goed"
+original_publication: "Trb.1972-144"
+original_signed_date: "1979-06-21"
+original_published_date: "1972-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-144"
+entry_into_force_date: "1979-08-20"
+jci_1_3: "jci1.3:c:BWBV0002002&z=1979-08-20&g=1979-08-20"
+jci_1_0: "1.0:c:BWBV0002002&g=1979-08-20"
+citeertitel_status: "redactioneel"
+signed_date: "1979-06-21"
+entry_into_force: "1979-08-20"
 ---
-
 # Verdrag betreffende de erkenning en de ten uitvoerlegging van buitenlandse vonnissen in burgerlijke en handelszaken
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -18,7 +43,7 @@ Hebben besloten daartoe een Verdrag te sluiten en zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. Toepassingsgebied van het Verdrag
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Verdrag is van toepassing op beslissingen, in burgerlijke of handelszaken gegeven door de gerechten van de Verdragsluitende Staten.
 
@@ -40,19 +65,19 @@ Het is niet van toepassing op beslissingen ten principale:
 
 Het is wel verstaan dat dit Verdrag niet van toepassing is op beslissingen inzake de betaling van belastingen, andere heffingen of door de strafrechter opgelegde lasten, welke dan ook.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is van toepassing op elke door een gerecht van een Verdragsluitende Staat gegeven beslissing, ongeacht de benaming die in het land van herkomst wordt gegeven aan de procedure welke tot de beslissing heeft geleid of aan de beslissing zelf, zoals arrest, vonnis, beschikking of rechterlijk dwangbevel.
 
 Het Verdrag is evenwel niet van toepassing op beslissingen, waarbij voorlopige of conservatoire maatregelen worden bevolen noch op door administratieve gerechten gegeven beslissingen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Verdrag is van toepassing, ongeacht de nationaliteit van partijen.
 
 ### HOOFDSTUK II. Voorwaarden voor erkenning en tenuitvoerlegging
 
-#### Artikel 4
+##### Artikel 4
 
 Een in een van de Verdragsluitende Staten gegeven beslissing wordt in een andere Verdragsluitende Staat overeenkomstig de bepalingen van dit Verdrag erkend en uitvoerbaar verklaard indien:
 
@@ -62,7 +87,7 @@ Een in een van de Verdragsluitende Staten gegeven beslissing wordt in een andere
 
 Om in de aangezochte Staat uitvoerbaar te kunnen worden verklaard moet de beslissing bovendien in de Staat van herkomst vatbaar zijn voor tenuitvoerlegging.
 
-#### Artikel 5
+##### Artikel 5
 
 De erkenning of de tenuitvoerlegging van de beslissing kan niettemin in een der volgende gevallen worden geweigerd:
 
@@ -78,25 +103,25 @@ De erkenning of de tenuitvoerlegging van de beslissing kan niettemin in een der 
 
 - c). heeft in een andere Staat geleid tot een beslissing welke voldoet aan de voorwaarden voor haar erkenning en tenuitvoerlegging in de aangezochte Staat.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd het bepaalde in artikel 5 wordt een bij verstek gegeven beslissing slechts erkend en uitvoerbaar verklaard indien het stuk dat het geding inleidt overeenkomstig het recht van de Staat van herkomst is medegedeeld of betekend aan de partij tegen wie het verstek werd verleend en aan die partij een termijn was gelaten die, de omstandigheden van het geval in aanmerking genomen, voldoende was voor het voeren van verweer.
 
-#### Artikel 7
+##### Artikel 7
 
 De erkenning of tenuitvoerlegging mag niet worden geweigerd op de enkele grond dat het gerecht van de Staat van herkomst een andere wet heeft toegepast dan die, welke van toepassing zou zijn geweest volgens de regels van internationaal privaatrecht van de aangezochte Staat.
 
 De erkenning of tenuitvoerlegging mag evenwel worden geweigerd wanneer het gerecht van de Staat van herkomst zich om tot zijn beslissing te komen heeft moeten uitspreken over een vraag betreffende de staat of de bevoegdheid van een partij of betreffende haar rechten in andere door artikel 1, tweede lid, nummers 1-4, van de toepassing van het Verdrag uitgesloten zaken en daarbij tot een ander resultaat is gekomen dan zou zijn verkregen als op die vraag de regels van internationaal privaatrecht van de aangezochte Staat zouden zijn toegepast.
 
-#### Artikel 8
+##### Artikel 8
 
 Behalve wanneer het voor de toepassing van de voorgaande artikelen noodzakelijk is, wordt door de autoriteit van de aangezochte Staat niet overgegaan tot een onderzoek naar de juistheid van de in de Staat van herkomst gegeven beslissing.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij de toetsing van de bevoegdheid van het gerecht van de Staat van herkomst is de aangezochte autoriteit gebonden aan de feitelijke overwegingen op grond waarvan dat gerecht zijn bevoegdheid heeft aangenomen, tenzij de beslissing bij verstek is gegeven.
 
-#### Artikel 10
+##### Artikel 10
 
 Het gerecht van de Staat van herkomst wordt beschouwd als bevoegd in de zin van het Verdrag:
 
@@ -114,7 +139,7 @@ Het gerecht van de Staat van herkomst wordt beschouwd als bevoegd in de zin van 
 
 - 7. wanneer de persoon tegen wie de erkenning of de tenuitvoerlegging wordt verzocht eiser was in de zaak voor het gerecht van de Staat van herkomst en dat gerecht hem in het ongelijk heeft gesteld, tenzij het recht van de aangezochte Staat deze bevoegdheid niet toelaat uit hoofde van het onderwerp van het geschil.
 
-#### Artikel 11
+##### Artikel 11
 
 Het gerecht van de Staat van herkomst dat heeft beslist op een vordering in reconventie, wordt beschouwd als bevoegd in de zin van het Verdrag:
 
@@ -122,7 +147,7 @@ Het gerecht van de Staat van herkomst dat heeft beslist op een vordering in reco
 
 - 2. wanneer het volgens artikel 10 bevoegd was tot kennisneming van de oorspronkelijke vordering en de vordering in reconventie voortvloeiende uit dezelfde overeenkomst of uit hetzelfde feit.
 
-#### Artikel 12
+##### Artikel 12
 
 De bevoegdheid van het gerecht van de Staat van herkomst behoeft door de aangezochte autoriteit niet te worden erkend in de volgende gevallen:
 
@@ -134,7 +159,7 @@ De bevoegdheid van het gerecht van de Staat van herkomst behoeft door de aangezo
 
 ### HOOFDSTUK III. De procedure betreffende de erkenning en de tenuitvoerlegging
 
-#### Artikel 13
+##### Artikel 13
 
 De partij die de erkenning inroept of de tenuitvoerlegging verlangt, moet de volgende documenten overleggen:
 
@@ -150,37 +175,37 @@ Indien de aangezochte autoriteit uit de inhoud van de beslissing niet kan nagaan
 
 Geen enkele legalisatie of soortgelijke formaliteit mag worden geëist.
 
-#### Artikel 14
+##### Artikel 14
 
 De procedure ter verkrijging van erkenning of tenuitvoerlegging van de beslissing wordt beheerst door het recht van de aangezochte Staat, voor zover dit Verdrag niet anders bepaalt.
 
 Wanneer bij de beslissing over verschillende punten van de eis afzonderlijk uitspraak is gedaan, kan de erkenning of de tenuitvoerlegging voor een of meer onderdelen van de beslissing worden verleend.
 
-#### Artikel 15
+##### Artikel 15
 
 De erkenning of de tenuitvoerlegging van een veroordeling in de proceskosten kan slechts krachtens dit Verdrag worden verleend, indien het Verdrag van toepassing is op de beslissing over de hoofdvordering.
 
 Het Verdrag is van toepassing op beslissingen betreffende de proceskosten, zelfs indien zij niet gegeven zijn door een gerecht, mits zij voortvloeien uit een beslissing die krachtens dit Verdrag kan worden erkend of ten uitvoer gelegd en daartegen een rechtsmiddel kan worden aangewend bij een gerecht.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit Verdrag wordt slechts toegepast op de veroordeling in de proceskosten, uitgesproken bij de verlening of de weigering van de erkenning of de tenuitvoerlegging van een beslissing, indien de verzoeker zich op de bepalingen van dit Verdrag heeft beroepen.
 
-#### Artikel 17
+##### Artikel 17
 
 Geen enkele zekerheidstelling of depot, onder welke benaming ook, kan ter waarborging van de betaling van proceskosten worden opgelegd wegens de nationaliteit of de woonplaats van de verzoeker, indien deze zijn gewoon verblijf of, indien hij geen natuurlijke persoon is, een vestiging heeft in een Staat die met de aangezochte Staat een aanvullend akkoord, als bedoeld in artikel 21, heeft gesloten.
 
-#### Artikel 18
+##### Artikel 18
 
 De partij die in de Staat van herkomst vergunning had verkregen om kosteloos of tegen verminderd tarief te procederen, behoudt, onder de door het recht van de aangezochte Staat gestelde voorwaarden, dit recht in elke procedure ter verkrijging in die Staat van de erkenning of de tenuitvoerlegging van de beslissing.
 
-#### Artikel 19
+##### Artikel 19
 
 Gerechtelijke schikkingen, welke in de loop van een geding tot stand zijn gekomen en uitvoerbaar zijn in de Staat van herkomst, worden in de aangezochte Staat uitvoerbaar verklaard onder dezelfde voorwaarden als gelden voor de uitvoerbaarverklaring van de beslissingen, waarop dit Verdrag van toepassing is, voor zover die voorwaarden voor die schikkingen kunnen gelden.
 
 ### HOOFDSTUK IV. Aanhangigheid
 
-#### Artikel 20
+##### Artikel 20
 
 Wanneer twee Staten een aanvullend akkoord, als bedoeld in artikel 21, hebben gesloten, mag de rechterlijke autoriteit van een van die Staten, voor wie een vordering wordt ingesteld, zich onbevoegd verklaren of zijn uitspraak aanhouden, indien tussen dezelfde partijen een andere op dezelfde feiten berustende en hetzelfde onderwerp betreffende vordering reeds aanhangig is voor een gerecht van een andere Staat, mits die vordering aanleiding kan geven tot een beslissing die door de autoriteiten van de eerste Staat krachtens dit Verdrag moet worden erkend.
 
@@ -188,17 +213,17 @@ De autoriteiten van elk van deze Staten kunnen echter voorlopige of conservatoir
 
 ### HOOFDSTUK V. Het aanvullend akkoord
 
-#### Artikel 21
+##### Artikel 21
 
 De in een Verdragsluitende Staat gegeven beslissingen worden in een andere Verdragsluitende Staat slechts dan overeenkomstig de bepalingen van de voorgaande artikelen erkend of uitvoerbaar verklaard, indien die twee Staten, nadat zij Partij bij het Verdrag zijn geworden, daartoe een aanvullend akkoord hebben gesloten.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit Verdrag is niet van toepassing op beslissingen, die zijn gegeven vóór de inwerkingtreding van het aanvullend akkoord, bedoeld in artikel 21, tenzij dat akkoord anders bepaalt.
 
 Het aanvullend akkoord blijft van toepassing op de beslissingen ten aanzien waarvan een procedure tot erkenning of tenuitvoerlegging is aangevangen voordat een opzegging van dat akkoord van kracht is geworden.
 
-#### Artikel 23
+##### Artikel 23
 
 De Verdragsluitende Staten mogen in de door hen met toepassing van artikel 21 te sluiten akkoorden:
 
@@ -250,33 +275,33 @@ De Verdragsluitende Staten mogen in de door hen met toepassing van artikel 21 te
 
 ### HOOFDSTUK VI. Slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 Dit Verdrag maakt geen inbreuk op andere Verdragen betreffende de erkenning en de tenuitvoerlegging van beslissingen waarbij de Verdragsluitende Staten reeds Partij zijn, zolang deze Staten niet het in artikel 21 bedoelde aanvullende akkoord hebben gesloten.
 
 Tenzij anders is overeengekomen hebben de bepalingen van een met toepassing van artikel 21 gesloten aanvullend akkoord voorrang boven die van elk ander Verdrag betreffende de erkenning en tenuitvoerlegging van beslissingen dat tussen de Partijen van kracht is.
 
-#### Artikel 25
+##### Artikel 25
 
 Ongeacht of zij al of niet gebonden zijn door een aanvullend akkoord, als bedoeld in artikel 21, mogen de Verdragsluitende Staten met elkander geen andere verdragen sluiten betreffende de erkenning en tenuitvoerlegging van beslissingen waarop dit Verdrag van toepassing is, tenzij zij die sluiting, met name uit hoofde van hun onderlinge economische banden of de bijzondere geaardheid van hun recht, noodzakelijk achten.
 
-#### Artikel 26
+##### Artikel 26
 
 Onverminderd het bepaalde in de artikelen 24, en 25 laten dit Verdrag en de in artikel 21 bedoelde aanvullende akkoorden onverlet de verdragen waarbij de Verdragsluitende Staten partij zijn of zullen worden en die, voor bijzondere onderwerpen, de erkenning en de tenuitvoerlegging van beslissingen regelen.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit Verdrag staat ter ondertekening open voor de Staten die vertegenwoordigd waren op de Tiende Zitting van de Haagse Conferentie voor Internationaal Privaatrecht, alsook voor Cyprus, Malta en IJsland.
 
 Het dient te worden bekrachtigd en de akten van bekrachtiging dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
-#### Artikel 28
+##### Artikel 28
 
 Dit Verdrag treedt in werking op de zestigste dag na de nederlegging van de tweede akte van bekrachtiging.
 
 Voor elke ondertekenende Staat die het Verdrag daarna bekrachtigt, treedt het in werking op de zestigste dag na de nederlegging van zijn akte van bekrachtiging.
 
-#### Artikel 29
+##### Artikel 29
 
 Elke Staat waarop het bepaalde in de eerste alinea van artikel 27 niet van toepassing is, kan tot het Verdrag toetreden nadat het krachtens artikel 28, eerste alinea, in werking is getreden. De akte van toetreding dient te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van Nederland.
 
@@ -284,7 +309,7 @@ Het Verdrag treedt voor een zodanige Staat slechts in werking bij gebreke van ve
 
 Bij gebreke van verzet, treedt dit Verdrag voor de toetredende Staat in werking op de eerste dag van de maand, volgend op het verstrijken van de laatste der in het vorige lid bedoelde termijnen.
 
-#### Artikel 30
+##### Artikel 30
 
 Iedere Staat kan bij de ondertekening, bekrachtiging of toetreding verklaren, dat dit Verdrag zich uitstrekt tot alle gebieden voor welker internationale betrekkingen hij verantwoordelijk is of tot één of meer van deze gebieden. Een zodanige verklaring wordt van kracht op de datum van inwerkingtreding van het Verdrag voor de betrokken Staat.
 
@@ -294,7 +319,7 @@ Het Verdrag treedt voor de in de verklaring van uitbreiding genoemde gebieden in
 
 De Partijen bij een krachtens artikel 21 gesloten aanvullend akkoord bepalen zelf de territoriale reikwijdte daarvan.
 
-#### Artikel 31
+##### Artikel 31
 
 Dit Verdrag blijft van kracht gedurende vijf jaar te rekenen van de datum van zijn inwerkingtreding overeenkomstig artikel 28, eerste lid, ook voor die Staten die het Verdrag nadien hebben bekrachtigd of daartoe zijn toegetreden.
 
@@ -306,7 +331,7 @@ De opzegging kan beperkt worden tot bepaalde gebieden waarop het Verdrag van toe
 
 De opzegging heeft slechts gevolg ten opzichte van de Staat die haar ter kennis heeft gebracht. Het Verdrag blijft voor de andere Verdragsluitende Staten van kracht.
 
-#### Artikel 32
+##### Artikel 32
 
 Elk in toepassing van artikel 21 gesloten aanvullend akkoord treedt in werking op de daarin genoemde datum; een voor eensluidend gewaarmerkt afschrift, zo nodig vergezeld van een vertaling in de Franse of de Engelse taal, dient te worden toegezonden aan het Ministerie van Buitenlandse Zaken van Nederland.
 
@@ -314,7 +339,7 @@ Elke Verdragsluitende Staat kan, zonder het Verdrag op te zeggen, een aanvullend
 
 Onverminderd de opzegging van het Verdrag blijft het gevolgen hebben voor de betrekkingen tussen de Staat die de opzegging heeft verricht en elke andere Staat waarmede hij in toepassing van artikel 21 een aanvullend akkoord heeft gesloten, tenzij in het akkoord anders is bepaald.
 
-#### Artikel 33
+##### Artikel 33
 
 Het Ministerie van Buitenlandse Zaken van Nederland geeft aan de in artikel 27 bedoelde Staten, alsmede aan de Staten die overeenkomstig artikel 29 zijn toegetreden, kennis van:
 
@@ -338,21 +363,21 @@ Overtuigd dat de beginselen waarop dit Protocol berust, ook ten grondslag behore
 
 Hebben besloten te dien einde een Protocol te sluiten en zijn overeengekomen als volgt:
 
-#### 1
+##### 1
 
 Dit Protocol is van toepassing op buitenlandse beslissingen die, in welke Staat ook, zijn gegeven in zaken waarop het Verdrag betreffende de erkenning en de tenuitvoerlegginig van buitenlandse vonnissen in burgerlijke en handelszaken van toepassing is, tegen een persoon die zijn woonplaats of gewoon verblijf in een Verdragsluitende Staat heeft.
 
-#### 2
+##### 2
 
 De erkenning en de tenuitvoerlegging van een in paragraaf 1 bedoelde beslissing moeten in een Verdragsluitende Staat op verzoek van de persoon tegen wie de erkenning of de tenuitvoerlegging is verzocht, worden geweigerd indien de beslissing slechts gegrond kon worden op één of meer van de in paragraaf 4 genoemde bevoegdheden.
 
 De erkenning en de tenuitvoerlegging behoeven evenwel niet te worden geweigerd wanneer de bevoegdheid van het (gerecht van de Staat van herkomst in het gegeven geval ook had kunnen steunen op een andere grond, die in de verhouding tussen de Staat van herkomst en de aangezochte Staat erkenning en tenuitvoerlegging toelaat.
 
-#### 3
+##### 3
 
 Onder Verdragsluitende Staten in de zin van de paragrafen 1 en 2 worden verstaan de Staten die partij zijn bij het Verdrag en die jegens elkander zijn gebonden door een aanvullend akkoord, als bedoeld in artikel 21 van genoemd Verdrag.
 
-#### 4
+##### 4
 
 De gronden voor bevoegdheid, bedoeld in paragraaf 2, eerste lid, zijn de volgende:
 
@@ -372,23 +397,23 @@ De gronden voor bevoegdheid, bedoeld in paragraaf 2, eerste lid, zijn de volgend
 
 - f). een eenzijdige aanwijzing van het gerecht door de eiser, met name in een factuur.
 
-#### 5
+##### 5
 
 Met woonplaats en gewoon verblijf worden gelijkgesteld de zetel, de plaats van oprichting en de voornaamste vestiging van rechtspersonen.
 
-#### 6
+##### 6
 
 Dit Protocol maakt geen inbreuk op bestaande of nog te sluiten Verdragen, die voor bijzondere onderwerpen voorzien in gronden voor bevoegdheid, genoemd in paragraaf 4.
 
-#### 7
+##### 7
 
 Dit Protocol is van toepassing onder voorbehoud van de bepalingen van in werking zijnde Verdragen betreffende de erkenning en tenuitvoerlegging van buitenlandse vonnissen.
 
-#### 8
+##### 8
 
 In de aanvullende akkoorden die zij sluiten met toepassing van artikel 21 van het Verdrag betreffende de erkenning en de tenuitvoerlegging van buitenlandse vonnissen in burgerlijke en handelszaken, beschouwen de Staten, die partij zijn bij die akkoorden, de gerechten welker bevoegdheid berust op een of meer van de in paragraaf 4 opgesomde gronden, niet als bevoegd tenzij zulks noodzakelijk is ter vermijding van rechtsweigering.
 
-#### 9
+##### 9
 
 Dit Protocol staat ter ondertekening open voor iedere Staat, die het Haagse Verdrag betreffende de erkenning en de tenuitvoerlegging van buitenlandse vonnissen in burgerlijke en handelszaken heeft ondertekend.
 

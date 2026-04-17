@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitenslands gediplomeerden volksgezondheid"
+title: "Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde lid, 42, tweede lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg"
 identifier: "BWBR0007397"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007397"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007397"
+soort: "AMvB"
+stam_id: "309573"
+version_id: "25736322"
+internal_id: "C36709011"
+label_id: "302954"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007397/2020-10-01/0"
+intitule_bron: "Stb.1996-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-05-12"
+intitule_published: "1996-02-08"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.2019-111"
+original_signed_date: "2019-02-22"
+original_published_date: "2019-03-14"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2019-111"
+entry_into_force_date: "2019-02-22"
+jci_1_3: "jci1.3:c:BWBR0007397&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0007397&g=2020-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit buitenslands gediplomeerden volksgezondheid"
+signed_date: "2019-02-22"
+entry_into_force: "2019-02-22"
 ---
-
 # Besluit van 12 mei 1995, houdende uitvoering van de artikelen 41, vijfde lid, 42, tweede lid, en 45, derde lid, van de Wet op de beroepen in de individuele gezondheidszorg
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 24 november 1994, PAO/BOG 9414146;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 - e. EER-gebied: het grondgebied van de staten die partij zijn bij de EER-overeenkomst.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie bestaat uit een voorzitter, tevens lid, alsmede uit minimaal twee en maximaal vier leden-deskundigen per in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemd, onderscheidenlijk krachtens [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) aangewezen, beroep. De leden-deskundigen zijn deskundig ter zake van de opleiding tot het desbetreffende beroep of ter zake van de uitoefening van dat beroep.
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 7. Onze Minister voorziet in het secretariaat van de commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie heeft tot taak Onze Minister met betrekking tot een in het buitenland genoten opleiding tot een in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) genoemd beroep of een krachtens [artikel 34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) aangewezen beroep van advies te dienen over de vraag:
 
@@ -68,15 +94,15 @@ In dit besluit wordt verstaan onder:
 
 3. Op verzoek van Onze Minister adviseert de commissie Onze Minister over de vraag of de werkervaring die een fysiotherapeut, een gezondheidszorgpsycholoog, een psychotherapeut, een physician assistant, een orthopedagoog-generalist of een klinisch technoloog heeft opgedaan buiten Nederland, doch binnen het EER-gebied of in Zwitserland, kan meetellen bij het vaststellen van het aantal uren waarbinnen de werkzaamheden zijn verricht op het terrein van de fysiotherapie, de gezondheidszorgpsychologie, de psychotherapie, de physician assistant, de orthopedagoog-generalist onderscheidenlijk het terrein van de klinisch technoloog.
 
-#### Artikel 4
+##### Artikel 4
 
 De commissie heeft voorts tot taak Onze Minister met betrekking tot de toepassing van [artikel 41, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), dan wel [artikel 45, eerste lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) van advies te dienen over de vraag of voor de beoordeling van de aanvraag tot erkenning van beroepskwalificaties, bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066), een proeve van bekwaamheid dan wel een aanpassingsstage als bedoeld in de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) vereist is. Indien dat het geval is, adviseert de commissie Onze Minister over de inhoud van de af te leggen proeve van bekwaamheid dan wel over de inhoud en de duur van de aanpassingsstage.
 
-#### Artikel 5
+##### Artikel 5
 
 Een advies van de commissie bevat de gronden waarop het berust.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De commissie regelt haar werkwijze met inachtneming van dit besluit.
 
@@ -84,7 +110,7 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 3. De commissie beraadslaagt en brengt advies uit in de overeenkomstig [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=2&z=2020-10-01&g=2020-10-01), voor het desbetreffende beroep bedoelde samenstelling.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij een aanvrage om een verklaring als bedoeld in [artikel 41, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), of een verklaring als bedoeld in [artikel 45, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=45) worden de volgende bescheiden overgelegd:
 
@@ -108,25 +134,25 @@ Een advies van de commissie bevat de gronden waarop het berust.
 
 5. De minister kan ter vaststelling van de getrouwheid van een fotokopie van een getuigschrift, verzoeken om het originele getuigschrift als bedoeld in artikel 7, eerste lid, onderdeel c.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Het Besluit commissies buitenlandse apothekers en apothekersassistenten en het Besluit buitenslands gediplomeerde verpleegkundigen worden ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit buitenslands gediplomeerden volksgezondheid.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De commissie kan bepalen dat de buitenslands gediplomeerde die beschikt over een getuigschrift dat is afgegeven door de autoriteiten van een staat die is gelegen buiten het EER-gebied, een kennis- en vaardighedentoets dient af te leggen ten behoeve van het advies, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007397&artikel=3&z=2020-10-01&g=2020-10-01).
 
@@ -136,7 +162,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Bij een aanvraag om erkenning van een getuigschrift als bedoeld in [artikel 41, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=41), worden de volgende bescheiden overgelegd:
 

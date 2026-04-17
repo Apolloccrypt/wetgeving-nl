@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel locatie veldproef gg-gewassen"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu van 11 september 2012, nr. IenM/BSK-2012/162839, met betrekking tot het verstrekken van locatiegegevens bij de aanvraag om een vergunning voor een veldproef met een genetisch gemodificeerd gewas, en enige aan de vergunning te verbinden voorschriften (Beleidsregel locatie veldproef gg-gewassen)"
 identifier: "BWBR0032017"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-09-27
-laatste_update: 2012-09-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032017"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2012-09-27"
+last_updated: "2012-09-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032017"
+soort: "beleidsregel"
+stam_id: "11849943"
+version_id: "19650902"
+internal_id: "C27568971"
+label_id: "11822074"
+dtd_version: "2.0"
+original_entry_into_force: "2012-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032017/2012-09-27/0"
+intitule_bron: "Stcrt.2012-19553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-11"
+intitule_published: "2012-09-26"
+intitule_in_force: "2012-09-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19553"
+original_signed_date: "2012-09-11"
+original_published_date: "2012-09-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-19553"
+entry_into_force_date: "2012-09-27"
+jci_1_3: "jci1.3:c:BWBR0032017&z=2012-09-27&g=2012-09-27"
+jci_1_0: "1.0:c:BWBR0032017&g=2012-09-27"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel locatie veldproef gg-gewassen"
+signed_date: "2012-09-11"
+entry_into_force: "2012-09-27"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu van 11 september 2012, nr. IenM/BSK-2012/162839, met betrekking tot het verstrekken van locatiegegevens bij de aanvraag om een vergunning voor een veldproef met een genetisch gemodificeerd gewas, en enige aan de vergunning te verbinden voorschriften (Beleidsregel locatie veldproef gg-gewassen)
 
 Gelet op [artikel 9.2.2.1, tweede lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1), [9.2.2.3, eerste en vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.3) alsmede [artikel 23, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=23), en [artikel 24, eerste lid, van het Besluit genetisch gemodificeerde organismen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=24),
 
 Besluit:
 
-#### Artikel 1. (begripsbepalingen)
+##### Artikel 1. (begripsbepalingen)
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - l. **Vergunning:** vergunning als bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=23) in samenhang met [artikel 24 van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0004703&artikel=24) die betrekking heeft op de uitvoering van een veldproef.
 
-#### Artikel 2. (gegevens met betrekking tot de locatie van het proefobject)
+##### Artikel 2. (gegevens met betrekking tot de locatie van het proefobject)
 
 1. Indien een veldproef wordt ingedeeld in categorie 1, bevat de aanvraag om een vergunning voor die veldproef:
 
@@ -60,11 +86,11 @@ waarop is aangegeven de geografische ligging van het kadastrale perceel of de ka
 
 - b. een topografische kaart waarop is aangegeven een raster dat maximaal 100 x zo groot is als de aangevraagde locatie.
 
-#### Artikel 3. (attenderingszone)
+##### Artikel 3. (attenderingszone)
 
 Indien rondom een proefobject van categorie 1 een isolatiezone in acht moet worden genomen, wordt in de aanvraag om een vergunning een attenderingszone aangegeven.
 
-#### Artikel 4. (controle op de naleving van de isolatiezone)
+##### Artikel 4. (controle op de naleving van de isolatiezone)
 
 Indien de aanvraag om een vergunning betrekking heeft op een veldproef met een gg-gewas zonder wilde verwanten in Nederland waarmee het gg-gewas levensvatbare nakomelingen kan krijgen, worden aan de vergunning voorschriften met betrekking tot de controle op de naleving verbonden van de navolgende strekking:
 
@@ -78,7 +104,7 @@ Indien de aanvraag om een vergunning betrekking heeft op een veldproef met een g
 
 - 3. De houder van de vergunning voegt elke overeenkomst als bedoeld in het tweede lid bij het logboek dat hij bijhoudt van de voortgang van de werkzaamheden. Voorts tekent hij de resultaten van elke controle aan in het logboek.
 
-#### Artikel 5. (handelen bij niet-naleving)
+##### Artikel 5. (handelen bij niet-naleving)
 
 Indien de aanvraag om een vergunning betrekking heeft op een veldproef met een gg-gewas zonder wilde verwanten in Nederland waarmee het gg-gewas levensvatbare nakomelingen kan krijgen, worden aan de vergunning voorschriften voor het geval van geconstateerde niet-naleving verbonden van de navolgende strekking:
 
@@ -90,11 +116,11 @@ Indien de aanvraag om een vergunning betrekking heeft op een veldproef met een g
 
 - 2. Indien de houder van de vergunning er niet in slaagt de naleving van de voorschriften tijdig te herstellen, rooit hij onverwijld het gg-gewas.
 
-#### Artikel 6. (citeertitel)
+##### Artikel 6. (citeertitel)
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel locatie veldproef gg-gewassen.
 
-#### Artikel 7. (inwerkingtreding)
+##### Artikel 7. (inwerkingtreding)
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 

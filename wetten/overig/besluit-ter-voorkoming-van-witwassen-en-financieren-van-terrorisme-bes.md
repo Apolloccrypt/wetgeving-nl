@@ -1,13 +1,39 @@
 ---
-title: "Besluit ter voorkoming van witwassen en financieren van terrorisme BES"
+title: "Besluit van 22 mei 2012 houdende regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme BES (Besluit ter voorkoming van witwassen en financieren van terrorisme BES)"
 identifier: "BWBR0031629"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031629"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031629"
+soort: "AMvB-BES"
+stam_id: "11749163"
+version_id: "27823472"
+internal_id: "C39263841"
+label_id: "11721664"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031629/2021-07-01/0"
+intitule_bron: "Stb.2012-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-22"
+intitule_published: "2012-06-12"
+intitule_in_force: "2012-06-12"
+intitule_status: "goed"
+original_publication: "Stb.2021-290"
+original_signed_date: "2021-06-11"
+original_published_date: "2021-06-18"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-290"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0031629&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0031629&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ter voorkoming van witwassen en financieren van terrorisme BES"
+signed_date: "2021-06-11"
+entry_into_force: "2021-07-01"
 ---
-
 # Besluit van 22 mei 2012 houdende regels ter uitvoering van de Wet ter voorkoming van witwassen en financieren van terrorisme BES (Besluit ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Op de voordracht van Onze Minister van Financiën, mede namens Onze Minister van Veiligheid en Justitie, van 2 november 2011, nr. FM 2011-9926;
@@ -24,13 +50,13 @@ Treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en 
 
 #### § 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824).
 
 #### § 2. Cliëntenonderzoek
 
-#### Artikel 2
+##### Artikel 2
 
 1. Categorieën van natuurlijke personen die in elk geval moeten worden aangemerkt als uiteindelijk belanghebbende zijn:
 
@@ -90,11 +116,11 @@ In dit besluit wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen
 
 6. Voor de toepassing van het eerste lid wordt onder hoger leidinggevend personeel uitsluitend verstaan: elke bestuurder in de zin van [artikel 14 van Boek 2 van het Burgerlijk Wetboek BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028744&artikel=14), of, in het geval van een personenvennootschap, elke vennoot, met uitzondering van een vennoot bij wijze van geldschieting als bedoeld in [artikel 15 van het Wetboek van Koophandel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028278&artikel=15).
 
-#### Artikel 3
+##### Artikel 3
 
 De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot het op te stellen risicoprofiel en de uit te voeren controle, bedoeld in [artikel 2.5 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.5).
 
-#### Artikel 4
+##### Artikel 4
 
 1. [Artikel 2.8, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.8), is in ieder geval van toepassing op de volgende diensten:
 
@@ -116,7 +142,7 @@ De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot 
 
 - d. rechtspersonen die effecten hebben uitgegeven die zijn toegelaten tot de handel op een effectenbeurs die lid is van de World Federation of Exchanges en gevestigd in een bij regeling van Onze Minister aan te wijzen land en 100 procent dochtermaatschappijen van deze rechtspersonen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de aangifte van een geldtransport als bedoeld in [artikel 4.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) worden de volgende gegevens verstrekt:
 
@@ -152,7 +178,7 @@ De toezichtautoriteit is bevoegd om nadere regels te stellen met betrekking tot 
 
 #### § 3. Bestuurlijke boete
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën bestuurlijke boeten met daarbij behorende basisbedragen, minimumbedragen en maximumbedragen onderscheiden.
 
@@ -163,7 +189,7 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 | Derde categorie | USD 50.000 | USD 0 | USD 200.000 |
 | Vierde categorie | USD 125.000 | USD 0 | USD 500.000 |
 
-#### Artikel 7
+##### Artikel 7
 
 1. Overtreding van een in de bijlage bij dit besluit genoemd voorschrift is beboetbaar met een bestuurlijke boete van de volgens die bijlage op overtreding van dat voorschrift van toepassing zijnde categorie.
 
@@ -171,7 +197,7 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 
 3. Indien een aanwijzing als bedoeld in het tweede lid is gegeven ter zake van een voorschrift, niet zijnde een in de bijlage genoemd voorschrift, is het geen gevolg dan wel niet tijdig of onvolledig gevolg geven aan die aanwijzing beboetbaar met een bestuurlijke boete van de eerste categorie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De toezichtautoriteit stelt een bestuurlijke boete vast op het basisbedrag, behorend bij de van toepassing zijnde categorie.
 
@@ -183,11 +209,11 @@ Voor de toepassing van dit besluit worden de hieronder opgenomen categorieën be
 
 - b. met ten hoogste 50 procent van het basisbedrag, indien de mate van verwijtbaarheid van de overtreder een dergelijke verlaging of verhoging rechtvaardigt.
 
-#### Artikel 9
+##### Artikel 9
 
 Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=8&z=2021-07-01&g=2021-07-01) vast te stellen boetebedrag wordt verdubbeld, indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De toezichtautoriteit houdt bij het vaststellen van een bestuurlijke boete rekening met de draagkracht van de overtreder.
 
@@ -195,15 +221,15 @@ Het door de toezichtautoriteit met toepassing van [artikel 8](https://wetten.ove
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Besluit politiegegevens.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit ter voorkoming van witwassen en financieren van terrorisme BES.
 
@@ -217,7 +243,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 4. Bestuurlijke boete
 
-#### Artikel 10a
+##### Artikel 10a
 
 In afwijking van de [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031629&paragraaf=4&artikel=6&z=2021-07-01&g=2021-07-01) bedraagt de op grond van de [artikelen 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2) en [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3) op te leggen bestuurlijke boete ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in [artikel 27, vierde lid, van het Wetboek van Strafrecht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028570&artikel=27).
 

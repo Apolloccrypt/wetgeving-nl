@@ -1,18 +1,43 @@
 ---
 title: "Wet zorginstellingen BES"
 identifier: "BWBR0028734"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028734"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028734"
+soort: "wet-BES"
+stam_id: "10949943"
+version_id: "17936572"
+internal_id: "C24928091"
+label_id: "10924824"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028734/2018-08-01/0"
+intitule_bron: "Stb.2010-643"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-643"
+original_signed_date: "2010-09-29"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-643"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028734&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0028734&g=2018-08-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-29"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet zorginstellingen BES
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,29 +69,29 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - l. **ziekenhuisvoorziening:** een bij algemene maatregel van bestuur aangewezen zorginstelling.
 
-#### Artikel 2
+##### Artikel 2
 
 In geval sprake is van een zorgaanbieder als bedoeld in [artikel 1, onderdeel j, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=1&artikel=1&z=2018-08-01&g=2018-08-01), richten de uit deze wet voortvloeiende verplichtingen zich tot ieder van de in dat onderdeel bedoelde personen.
 
 ### Hoofdstuk 2. Vergunningstelsel
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
@@ -74,13 +99,13 @@ Vervallen
 
 #### § 1. Kwaliteit van de zorg
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een zorgaanbieder biedt zorg aan die verantwoord is.
 
 2. Zorg is slechts verantwoord te achten als die tenminste wordt verleend op basis van deskundigheid, van een goed niveau is, doeltreffend, doelmatig en patiëntgericht en afgestemd op de reële behoefte van de patiënt.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De zorgaanbieder organiseert de verlening van de zorg op zodanige wijze, voorziet de zorginstelling zowel kwalitatief als kwantitatief zodanig van personeel en materieel, en draagt zorg voor een zodanige verantwoordelijkheidstoedeling, dat een en ander leidt of redelijkerwijze moet leiden tot verantwoorde zorg.
 
@@ -88,7 +113,7 @@ Vervallen
 
 3. Voor zover het betreft zorgverlening die verblijf van een patiënt in een zorginstelling gedurende tenminste een etmaal met zich meebrengt, draagt de zorgaanbieder er tevens zorg voor dat desgewenst geestelijke verzorging beschikbaar is, die zoveel mogelijk aansluit bij de levensovertuiging van de patiënt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onder de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2018-08-01&g=2018-08-01), bedoelde organisatie wordt mede begrepen de systematische bewaking, beheersing en verbetering van de kwaliteit van de zorg.
 
@@ -104,11 +129,11 @@ Vervallen
 
 3. De zorgaanbieder streeft ernaar dat door middel van afstemming met andere zorginstellingen en zorgverzekeraars de continuïteit van de zorg in redelijkheid gewaarborgd is.
 
-#### Artikel 11
+##### Artikel 11
 
 Een zorginstelling richt de administratie, waaronder in ieder geval de medische- en de financiële administratie, op zodanige wijze in, dat te allen tijde inzicht kan worden verkregen in het functioneren van de zorginstelling.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De zorgaanbieder legt jaarlijks vóór 1 juni per zorginstelling een verslag ter openbare inzage, waarin verantwoording wordt afgelegd van het beleid dat in het afgelopen jaar ter uitvoering van deze wet ter zake van de kwaliteit van de verleende zorg is gevoerd.
 
@@ -122,7 +147,7 @@ Een zorginstelling richt de administratie, waaronder in ieder geval de medische-
 
 Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien het niveau van de zorg, verleend in bij algemene maatregel van bestuur aangewezen zorginstellingen, dit vereist, kunnen bij die algemene maatregel van bestuur regels worden gesteld met betrekking tot de uitvoering van de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=9&z=2018-08-01&g=2018-08-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=3&paragraaf=1&artikel=10&z=2018-08-01&g=2018-08-01).
 
@@ -130,7 +155,7 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 #### § 2. Klachtenregeling
 
-#### Artikel 14
+##### Artikel 14
 
 1. Elke zorgaanbieder treft een regeling voor de onafhankelijke behandeling van klachten over een gedraging van hem of van in zijn zorginstelling werkzame personen jegens een patiënt. Hij brengt de getroffen regeling op passende wijze onder de aandacht van zijn patiënten.
 
@@ -144,7 +169,7 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 #### § 3. Ziekenhuisvoorzieningen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De leiding van een ziekenhuisvoorziening berust bij een algemeen bestuur en een dagelijks bestuur.
 
@@ -154,7 +179,7 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 4. Het dagelijks bestuur betrekt bij het functioneren van de ziekenhuisvoorziening zoveel mogelijk de patiënten dan wel de organisaties die de belangen van de patiënten behartigen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Voor zover een ziekenhuisvoorziening rechtspersoonlijkheid heeft dan wel onder beheer staat van een rechtspersoon worden in de statuten regels gesteld met betrekking tot de taken van het algemeen bestuur en het dagelijks bestuur, gericht op het functioneren van de ziekenhuisvoorziening overeenkomstig de doelstelling. Deze regels bevatten, naast de wettelijk voorgeschreven bepalingen, voorts onder meer regels over het toezicht binnen de ziekenhuisvoorziening en de verplichting tot het opstellen van een reglement voor elk van de genoemde bestuursorganen.
 
@@ -192,7 +217,7 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 - 10°. het waarborgen van de rechten van de patiënt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In een ziekenhuisvoorziening functioneren een of meer commissies. Deze hebben tenminste tot taak:
 
@@ -208,7 +233,7 @@ Afschrift van het verslag wordt gezonden aan Onze Minister en de Inspectie.
 
 #### § 4. Beroepsuitoefening in ziekenhuisvoorzieningen
 
-#### Artikel 18
+##### Artikel 18
 
 Onderzoek en behandeling in een ziekenhuisvoorziening worden verleend door geneeskundigen, in samenwerking met verpleegkundigen, paramedische beroepsbeoefenaren en deskundigen uit andere disciplines.
 
@@ -220,7 +245,7 @@ Onderzoek en behandeling in een ziekenhuisvoorziening worden verleend door genee
 
 - 5. Elke in een ziekenhuisvoorziening werkzame geneeskundige is gehouden deel te nemen aan de in de ziekenhuisvoorziening ontwikkelde of nog te ontwikkelen activiteiten ter zake van kwaliteitsbewaking.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De in een ziekenhuisvoorziening werkzame geneeskundigen zijn georganiseerd per vakgroep. Zij vormen tezamen met de apotheker en de klinisch chemicus de medische staf.
 
@@ -230,11 +255,11 @@ Onderzoek en behandeling in een ziekenhuisvoorziening worden verleend door genee
 
 4. Het dagelijks bestuur hoort de medische staf ter zake van alle medische beleidsaangelegenheden. De medische staf kan voorts het dagelijks bestuur ongevraagd adviseren. Bij afwijking van het advies deelt het dagelijks bestuur de redenen voor afwijking schriftelijk onderbouwd aan de medische staf mee.
 
-#### Artikel 20
+##### Artikel 20
 
 De verpleegafdelingen alsmede de op medisch gebied assisterende afdelingen in een ziekenhuisvoorziening functioneren volgens door het dagelijks bestuur schriftelijk vastgelegde en goedgekeurde regels inzake de organisatie van deze afdelingen. Deze regels bevatten mede voorschriften ten aanzien van de kwaliteitsbewaking.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een ziekenhuisvoorziening draagt er zorg voor dat de opvang van patiënten die zich voor spoedeisende medische hulp tot de ziekenhuisvoorziening wenden, op zodanige wijze is geregeld dat deze hulp te allen tijde op doeltreffende wijze kan worden verleend.
 
@@ -242,23 +267,23 @@ De verpleegafdelingen alsmede de op medisch gebied assisterende afdelingen in ee
 
 #### § 5. Laboratoria
 
-#### Artikel 22
+##### Artikel 22
 
 Bij algemene maatregel van bestuur kunnen criteria worden vastgesteld waaraan een laboratorium voor het verrichten van zorgondersteunende werkzaamheden moet voldoen.
 
 ### Hoofdstuk 4. Toezicht en opsporing
 
-#### Artikel 23
+##### Artikel 23
 
 Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de medewerkers van de Inspectie.
 
-#### Artikel 24
+##### Artikel 24
 
 Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bij [artikel 184 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=184) aangewezen personen, belast de bij ministeriële regeling aangewezen medewerkers van de Inspectie.
 
 ### Hoofdstuk 5. Strafbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Degene, die opzettelijk de verplichting tot geheimhouding, opgenomen in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0028734&hoofdstuk=6&artikel=26&z=2018-08-01&g=2018-08-01), schendt, wordt gestraft hetzij met gevangenisstraf van ten hoogste een jaar, hetzij met een geldboete van ten hoogste de vierde categorie, hetzij met beide straffen.
 
@@ -270,38 +295,38 @@ Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, naast de bi
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 26
+##### Artikel 26
 
 Een ieder die is betrokken bij de uitvoering van deze wet en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 27
+##### Artikel 27
 
 Onze Minister zendt binnen vier jaar na het in werking treden van deze wet aan de Staten een verslag over de doeltreffendheid van deze wet in de praktijk.
 
-#### Artikel 28
+##### Artikel 28
 
 Bij algemene maatregel van bestuur kan, met betrekking tot daarbij aan te wijzen zorginstellingen worden bepaald, dat een of meer bepalingen van deze wet, al dan niet tijdelijk, niet van toepassing is of zullen zijn op die zorginstellingen.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Zorginstellingen waarvan de statuten, de inrichting of de structuur niet voldoen aan het bepaalde bij of krachtens deze wet, dragen zorg dat binnen ten hoogste zes maanden na het in werking treden van deze wet de vereiste aanpassingen worden aangebracht.
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 31a
+##### Artikel 31a
 
 [wijzigt de Tijdelijke wet beperking vestiging medische beroepsbeoefenaren (P.B. 2005, no. 69)]
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Deze wet wordt aangehaald als: Wet zorginstellingen BES.

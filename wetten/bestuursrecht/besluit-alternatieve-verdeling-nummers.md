@@ -1,13 +1,39 @@
 ---
-title: "Besluit alternatieve verdeling nummers"
+title: "Besluit van 16 oktober 2002, houdende regels betreffende de procedure van veiling en loting inzake de toekenning van nummers (Besluit alternatieve verdeling nummers)"
 identifier: "BWBR0014124"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014124"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014124"
+soort: "AMvB"
+stam_id: "3173493"
+version_id: "4892932"
+internal_id: "C14629551"
+label_id: "3140404"
+dtd_version: "2.0"
+original_entry_into_force: "2004-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014124/2013-04-01/0"
+intitule_bron: "Stb.2002-538"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-16"
+intitule_published: "2002-11-12"
+intitule_in_force: "2004-09-21"
+intitule_status: "goed"
+original_publication: "Stb.2002-538"
+original_signed_date: "2002-10-16"
+original_published_date: "2002-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-538"
+entry_into_force_date: "2004-10-21"
+jci_1_3: "jci1.3:c:BWBR0014124&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0014124&g=2013-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit alternatieve verdeling nummers"
+signed_date: "2002-10-16"
+entry_into_force: "2004-10-21"
 ---
-
 # Besluit van 16 oktober 2002, houdende regels betreffende de procedure van veiling en loting inzake de toekenning van nummers (Besluit alternatieve verdeling nummers)
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 13 juni 2002 nr. HDJZ 2002/1494, Hoofddirectie Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.1. Veiling en loting
 
-#### Artikel 2
+##### Artikel 2
 
 1. Indien er meerdere aanvragen om toekenning van een nummer waarop de procedure van veiling van toepassing is, bij de Autoriteit Consument en Markt zijn ingediend, stelt de Autoriteit Consument en Markt de aanvragers in kennis van het feit dat meerdere aanvragen zijn ingediend en dat de procedure van veiling wordt toegepast.
 
@@ -54,7 +80,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de aan de toekenning te verbinden voorschriften.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot de veiling worden slechts toegelaten aanvragers die:
 
@@ -68,13 +94,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. op grond van bij of krachtens de wet gestelde regels in aanmerking komen voor toekenning van het aangevraagde nummer.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien uit [artikel 3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2013-04-01&g=2013-04-01), voorvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van veiling van toepassing is, kent de Autoriteit Consument en Markt dat nummer aan deze aanvrager toe zonder toepassing van een veiling.
 
 2. Indien uit [artikel 3, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0014124&hoofdstuk=2&paragraaf=2.1&artikel=3&z=2013-04-01&g=2013-04-01), voortvloeit dat slechts één aanvrager in aanmerking komt voor toekenning van het aangevraagde nummer waarop de procedure van loting van toepassing is, kent de Autoriteit Consument en Markt dat nummer aan deze aanvrager toe zonder toepassing van een loting.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij ministeriële regeling kunnen in het kader van de behandeling van een aanvraag om toekenning van nummers waarop de procedure van veiling van toepassing is, regels worden gesteld omtrent de aanvraagprocedure en de wijze waarop de veiling geschiedt.
 
@@ -98,17 +124,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.2. Termijn toekenning nummer
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit alternatieve verdeling nummers.
 

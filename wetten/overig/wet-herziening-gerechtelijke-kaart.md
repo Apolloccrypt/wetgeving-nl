@@ -1,14 +1,41 @@
 ---
-title: "Wet herziening gerechtelijke kaart"
+title: "Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart)"
 identifier: "BWBR0031789"
-categorie: "Overig"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031789"
+country: "nl"
+rank: "wet"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031789"
+soort: "wet"
+stam_id: "11791893"
+version_id: "19512012"
+internal_id: "C27388291"
+label_id: "11765664"
+dtd_version: "2.0"
+original_entry_into_force: "2012-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031789/2015-07-01/0"
+intitule_bron: "Stb.2012-313"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-12"
+intitule_published: "2012-07-13"
+intitule_in_force: "2012-07-13"
+intitule_status: "goed"
+original_publication: "Stb.2012-313"
+original_signed_date: "2012-07-12"
+original_published_date: "2012-07-13"
+original_effect: "nieuwe-regeling"
+original_dossier: "32891"
+original_url_id: "stb-2012-313"
+entry_into_force_date: "2012-10-01"
+jci_1_3: "jci1.3:c:BWBR0031789&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0031789&g=2015-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet herziening gerechtelijke kaart"
+signed_date: "2012-07-12"
+entry_into_force: "2012-10-01"
 ---
-
-# Wet herziening gerechtelijke kaart
+# Wet van 12 juli 2012 tot wijziging van de Wet op de rechterlijke indeling, de Wet op de rechterlijke organisatie en diverse andere wetten in verband met de vermindering van het aantal arrondissementen en ressorten (Wet herziening gerechtelijke kaart)
 
 ### Hoofdstuk I. Wijziging van wetten op het terrein van rechtspleging en juridische beroepen
 
@@ -16,7 +43,7 @@ bron: "https://wetten.overheid.nl/BWBR0031789"
 
 ### Hoofdstuk II. Wijziging van overige wetten
 
-#### Artikel CII. (Overgang lopende zaken naar nieuwe rechtbanken)
+##### Artikel CII. (Overgang lopende zaken naar nieuwe rechtbanken)
 
 1. Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aanhangig waren bij een hieronder in de linkerkolom genoemde rechtbank gaan van rechtswege over naar de daarbij in de rechterkolom genoemde rechtbank.
 
@@ -43,7 +70,7 @@ bron: "https://wetten.overheid.nl/BWBR0031789"
 
 2. Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aanhangig waren bij de rechtbank te Zwolle-Lelystad, tot kennisneming waarvan de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland bevoegd is, gaan van rechtswege over naar de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland.
 
-#### Artikel CIII. (Overgang lopende zaken naar nieuwe gerechtshoven)
+##### Artikel CIII. (Overgang lopende zaken naar nieuwe gerechtshoven)
 
 Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aanhangig waren bij een hieronder in de linkerkolom genoemd gerechtshof gaan van rechtswege over naar het daarbij in de rechterkolom genoemde gerechtshof.
 
@@ -55,7 +82,7 @@ Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://
 | ’s-Hertogenbosch | ’s-Hertogenbosch |
 | Leeuwarden | Arnhem-Leeuwarden |
 
-#### Artikel CIV. (Overgangsrecht i.v.m. verzet, beroep, hoger beroep, beroep in cassatie enz.)
+##### Artikel CIV. (Overgangsrecht i.v.m. verzet, beroep, hoger beroep, beroep in cassatie enz.)
 
 1. Voor de toepassing van bepalingen inzake de behandeling van geschillen terzake van beslissingen van een hieronder in de linkerkolom genoemd gerecht die vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) zijn genomen, worden deze beslissingen aangemerkt als beslissingen van het daarbij in de rechterkolom genoemde gerecht.
 
@@ -86,7 +113,7 @@ Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://
 
 2. Voor de toepassing van bepalingen inzake de behandeling van geschillen terzake van beslissingen van de rechtbank te Zwolle-Lelystad die vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) zijn genomen, tot kennisneming waarvan de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland bevoegd is, worden deze beslissingen aangemerkt als beslissingen van de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland.
 
-#### Artikel CIVa. (Overgangsrecht i.v.m. dagvaardingen, verzoekschriften en andere processtukken)
+##### Artikel CIVa. (Overgangsrecht i.v.m. dagvaardingen, verzoekschriften en andere processtukken)
 
 1. Dagvaardingen, verzoekschriften en andere processtukken in aanhangige of aanhangig te maken zaken, tot kennisneming waarvan op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bevoegd was een hieronder in de linkerkolom genoemd gerecht, worden met ingang van de dag van inwerkingtreding van artikel I aangemerkt als processtukken in zaken tot kennisneming waarvan bevoegd is het daarbij in de rechterkolom genoemde gerecht.
 
@@ -117,7 +144,7 @@ Zaken die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://
 
 2. Dagvaardingen, verzoekschriften en andere processtukken in aanhangige of aanhangig te maken zaken, tot kennisneming waarvan op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bevoegd was de rechtbank te Zwolle-Lelystad, tot kennisneming waarvan met ingang van de dag van inwerkingtreding van artikel I de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland bevoegd is, worden met ingang van de dag van inwerkingtreding van artikel I aangemerkt als processtukken in zaken tot kennisneming waarvan de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Oost-Nederland bevoegd is.
 
-#### Artikel CV. (Overdracht archiefbescheiden)
+##### Artikel CV. (Overdracht archiefbescheiden)
 
 Archiefbescheiden van een hieronder in de linkerkolom genoemd gerecht worden overgedragen aan het daarbij in de rechterkolom genoemde gerecht, voor zover zij niet overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
@@ -147,15 +174,15 @@ Archiefbescheiden van een hieronder in de linkerkolom genoemd gerecht worden ove
 | Gerechtshof te ’s-Hertogenbosch | Gerechtshof ’s-Hertogenbosch |
 | Gerechtshof te Leeuwarden | Gerechtshof Arnhem-Leeuwarden |
 
-#### Artikel CVI. (Overgangsrecht nevenlocaties)
+##### Artikel CVI. (Overgangsrecht nevenlocaties)
 
 Binnen het rechtsgebied van een gerecht gelegen nevenvestigings- en nevenzittingsplaatsen die bij of krachtens de [Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830), zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01), waren aangewezen, worden, voor zover zij niet met ingang van die dag krachtens [artikel 21b, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=21b) bij algemene maatregel van bestuur als zittingsplaats zijn aangewezen, aangemerkt als zittingsplaatsen die krachtens artikel 21b, tweede lid, van de Wet op de rechterlijke organisatie door de minister zijn aangewezen.
 
-#### Artikel CVII. (Tijdelijk afwijkend aantal gerechtsbestuurders in rechtbank Oost-Nederland)
+##### Artikel CVII. (Tijdelijk afwijkend aantal gerechtsbestuurders in rechtbank Oost-Nederland)
 
 Vervallen
 
-#### Artikel CVIII. (Overgangsrecht functionarissen rechtbanken)
+##### Artikel CVIII. (Overgangsrecht functionarissen rechtbanken)
 
 1. Ten aanzien van degenen voor wie op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) is vastgesteld dat zij het ambt van senior rechter A, senior rechter, rechter, rechter-plaatsvervanger, senior-gerechtsauditeur, gerechtsauditeur of rechterlijk ambtenaar in opleiding vervullen bij de rechtbank te Assen, Groningen of Leeuwarden, onderscheidenlijk de rechtbank te Almelo, Arnhem, of Zutphen, onderscheidenlijk de rechtbank te Utrecht, onderscheidenlijk de rechtbank te Amsterdam, onderscheidenlijk de rechtbank te Alkmaar of Haarlem, onderscheidenlijk de rechtbank te ’s-Gravenhage, onderscheidenlijk de rechtbank te Dordrecht of Rotterdam, onderscheidenlijk de rechtbank te Breda of Middelburg, onderscheidenlijk de rechtbank te ’s-Hertogenbosch, onderscheidenlijk de rechtbank te Maastricht of Roermond, wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij datzelfde ambt vervullen bij de rechtbank Noord-Nederland, onderscheidenlijk de rechtbank Oost-Nederland, onderscheidenlijk de rechtbank Midden-Nederland, onderscheidenlijk de rechtbank Amsterdam, onderscheidenlijk de rechtbank Noord-Holland, onderscheidenlijk de rechtbank Den Haag, onderscheidenlijk de rechtbank Rotterdam, onderscheidenlijk de rechtbank Zeeland-West-Brabant, onderscheidenlijk de rechtbank Oost-Brabant, onderscheidenlijk de rechtbank Limburg. Ten aanzien van degenen voor wie op de dag voorafgaand aan de inwerkingtreding van artikel I is vastgesteld dat zij het ambt van senior rechter A, senior rechter, rechter, rechter-plaatsvervanger, senior-gerechtsauditeur, gerechtsauditeur of rechterlijk ambtenaar in opleiding vervullen bij de rechtbank te Zwolle-Lelystad, wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij datzelfde ambt vervullen bij de rechtbank Oost-Nederland onderscheidenlijk, indien zij hun ambt direct voorafgaand aan de inwerkingtreding van artikel I gewoonlijk vervullen in of vanuit de gemeente Lelystad, bij de rechtbank Midden-Nederland.
 
@@ -173,7 +200,7 @@ Vervallen
 
 8. De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) zijn benoemd als buitengriffier van de rechtbank te Assen, Groningen of Leeuwarden, onderscheidenlijk de rechtbank te Almelo, Arnhem, Zutphen of Zwolle-Lelystad, onderscheidenlijk de rechtbank te Utrecht, onderscheidenlijk de rechtbank te Amsterdam, onderscheidenlijk de rechtbank te Alkmaar of Haarlem, onderscheidenlijk de rechtbank te ’s-Gravenhage, onderscheidenlijk de rechtbank te Dordrecht of Rotterdam, onderscheidenlijk de rechtbank te Breda of Middelburg, onderscheidenlijk de rechtbank te ’s-Hertogenbosch, onderscheidenlijk de rechtbank te Maastricht of Roermond, worden van rechtswege gewijzigd in een benoeming als buitengriffier van de rechtbank Noord-Nederland, onderscheidenlijk de rechtbank Oost-Nederland, onderscheidenlijk de rechtbank Midden-Nederland, onderscheidenlijk de rechtbank Amsterdam, onderscheidenlijk de rechtbank Noord-Holland, onderscheidenlijk de rechtbank Den Haag, onderscheidenlijk de rechtbank Rotterdam, onderscheidenlijk de rechtbank Zeeland-West-Brabant, onderscheidenlijk de rechtbank Oost-Brabant, onderscheidenlijk de rechtbank Limburg. Zij worden als zodanig niet beëdigd.
 
-#### Artikel CIX. (Overgangsrecht functionarissen gerechtshoven)
+##### Artikel CIX. (Overgangsrecht functionarissen gerechtshoven)
 
 1. Ten aanzien van degenen voor wie op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) is vastgesteld dat zij het ambt van senior raadsheer, raadsheer, raadsheer-plaatsvervanger, senior-gerechtsauditeur of gerechtsauditeur vervullen bij het gerechtshof te Arnhem of Leeuwarden, onderscheidenlijk het gerechtshof te ’s-Gravenhage, onderscheidenlijk het gerechtshof te Amsterdam, onderscheidenlijk het gerechtshof te ’s-Hertogenbosch, wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij datzelfde ambt vervullen bij het gerechtshof Arnhem-Leeuwarden, onderscheidenlijk het gerechtshof Den Haag, onderscheidenlijk het gerechtshof Amsterdam, onderscheidenlijk het gerechtshof ’s-Hertogenbosch.
 
@@ -189,7 +216,7 @@ Vervallen
 
 7. De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) zijn benoemd als buitengriffier van het gerechtshof te Arnhem of Leeuwarden, onderscheidenlijk het gerechtshof te ’s-Gravenhage, onderscheidenlijk het gerechtshof te Amsterdam, onderscheidenlijk het gerechtshof te ’s-Hertogenbosch, worden van rechtswege gewijzigd in een benoeming als buitengriffier van het gerechtshof Arnhem-Leeuwarden, onderscheidenlijk het gerechtshof Den Haag, onderscheidenlijk het gerechtshof Amsterdam, onderscheidenlijk het gerechtshof ’s-Hertogenbosch. Zij worden als zodanig niet beëdigd.
 
-#### Artikel CX. (Overgangsrecht gerechtsbestuurders)
+##### Artikel CX. (Overgangsrecht gerechtsbestuurders)
 
 1. De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van het achtste lid benoemd zijn als voorzitter van het bestuur van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven, worden van rechtswege beëindigd. De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) benoemd zijn als ander lid van het bestuur van een gerechtshof, een rechtbank, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven worden van rechtswege beëindigd.
 
@@ -241,7 +268,7 @@ met dien verstande dat een bestuur van een gerecht alleen een persoon kan aanwij
 
 8. Degenen die met ingang van de dag van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) worden benoemd als voorzitter van het bestuur van de rechtbank Noord-Nederland, onderscheidenlijk de rechtbank Oost-Nederland, onderscheidenlijk de rechtbank Midden-Nederland, onderscheidenlijk de rechtbank Amsterdam, onderscheidenlijk de rechtbank Noord-Holland, onderscheidenlijk de rechtbank Den Haag, onderscheidenlijk de rechtbank Rotterdam, onderscheidenlijk de rechtbank Zeeland-West-Brabant, onderscheidenlijk de rechtbank Oost-Brabant, onderscheidenlijk de rechtbank Limburg, onderscheidenlijk het gerechtshof Arnhem-Leeuwarden, onderscheidenlijk het gerechtshof Den Haag, onderscheidenlijk het gerechtshof Amsterdam, onderscheidenlijk het gerechtshof ’s-Hertogenbosch, onderscheidenlijk de Centrale Raad van Beroep, onderscheidenlijk het College van Beroep voor het bedrijfsleven worden van rechtswege tot en met de dag van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) belast met de tijdelijke waarneming van de functie van voorzitter van de besturen van de rechtbanken te Assen, Groningen en Leeuwarden, onderscheidenlijk de besturen van de rechtbanken te Almelo, Arnhem, Zutphen, onderscheidenlijk de besturen van de rechtbanken te Utrecht en Zwolle-Lelystad, onderscheidenlijk het bestuur van de rechtbank te Utrecht, onderscheidenlijk het bestuur van de rechtbank te Amsterdam, onderscheidenlijk de besturen van de rechtbanken te Alkmaar en Haarlem, onderscheidenlijk het bestuur van de rechtbank te ’s-Gravenhage, onderscheidenlijk de besturen van de rechtbanken te Dordrecht en Rotterdam, onderscheidenlijk de besturen van de rechtbanken te Breda en Middelburg, onderscheidenlijk het bestuur van de rechtbank te ’s-Hertogenbosch, onderscheidenlijk de besturen van de rechtbanken te Maastricht en Roermond, onderscheidenlijk de besturen van de gerechtshoven te Arnhem en Leeuwarden, onderscheidenlijk het bestuur van het gerechtshof te ’s-Gravenhage, onderscheidenlijk het bestuur van het gerechtshof te Amsterdam, onderscheidenlijk het bestuur van het gerechtshof te ’s-Hertogenbosch, onderscheidenlijk het bestuur van de Centrale Raad van Beroep, onderscheidenlijk het bestuur van het College van Beroep voor het bedrijfsleven. Bij algemene maatregel van bestuur kunnen regels worden gesteld over een toelage voor de in de eerste volzin bedoelde personen.
 
-#### Artikel CXI. (Overgangsrecht functionarissen arrondissementsparketten)
+##### Artikel CXI. (Overgangsrecht functionarissen arrondissementsparketten)
 
 1. Ten aanzien van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) zijn benoemd in het ambt van hoofdofficier en voor wie op diezelfde dag is vastgesteld dat zij het ambt van hoofdofficier vervullen bij het arrondissementsparket te Groningen, onderscheidenlijk het arrondissementsparket te Arnhem, onderscheidenlijk het arrondissementsparket te Utrecht, onderscheidenlijk het arrondissementsparket te Amsterdam, onderscheidenlijk het arrondissementsparket te Haarlem, onderscheidenlijk het arrondissementsparket te ’s-Gravenhage, onderscheidenlijk het arrondissementsparket te Rotterdam, onderscheidenlijk het arrondissementsparket te Breda, onderscheidenlijk het arrondissementsparket te ’s-Hertogenbosch, onderscheidenlijk het arrondissementsparket te Maastricht, wordt die benoeming van rechtswege gewijzigd in een benoeming als hoofdofficier van justitie en wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij hun ambt vervullen bij het arrondissementsparket Noord-Nederland, onderscheidenlijk het arrondissementsparket Oost-Nederland, onderscheidenlijk het arrondissementsparket Midden-Nederland, onderscheidenlijk het arrondissementsparket Amsterdam, onderscheidenlijk het arrondissementsparket Noord-Holland, onderscheidenlijk het arrondissementsparket Den Haag, onderscheidenlijk het arrondissementsparket Rotterdam, onderscheidenlijk het arrondissementsparket Zeeland-West-Brabant, onderscheidenlijk het arrondissementsparket Oost-Brabant, onderscheidenlijk het arrondissementsparket Limburg. Zij worden als zodanig niet beëdigd.
 
@@ -261,11 +288,11 @@ met dien verstande dat een bestuur van een gerecht alleen een persoon kan aanwij
 
 9. Ten aanzien van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) op basis van een aanstelling in tijdelijke dienst in een functie, anders dan die genoemd in het eerste tot en met zevende lid, werkzaam zijn bij het arrondissementsparket te Assen, Groningen of Leeuwarden, onderscheidenlijk het arrondissementsparket te Almelo, Arnhem of Zutphen, onderscheidenlijk het arrondissementsparket te Utrecht, onderscheidenlijk het arrondissementsparket te Amsterdam, onderscheidenlijk het arrondissementsparket te Alkmaar of Haarlem, onderscheidenlijk het arrondissementsparket te ’s-Gravenhage, onderscheidenlijk het arrondissementsparket te Dordrecht of Rotterdam, onderscheidenlijk het arrondissementsparket te Breda of Middelburg, onderscheidenlijk het arrondissementsparket te ’s-Hertogenbosch, onderscheidenlijk het arrondissementsparket te Maastricht of Roermond, wordt de aanstelling van rechtswege gewijzigd in dezelfde aanstelling bij het arrondissementsparket Noord-Nederland, onderscheidenlijk het arrondissementsparket Oost-Nederland, onderscheidenlijk het arrondissementsparket Midden-Nederland, onderscheidenlijk het arrondissementsparket Amsterdam, onderscheidenlijk het arrondissementsparket Noord-Holland, onderscheidenlijk het arrondissementsparket Den Haag, onderscheidenlijk het arrondissementsparket Rotterdam, onderscheidenlijk het arrondissementsparket Zeeland-West-Brabant, onderscheidenlijk het arrondissementsparket Oost-Brabant, onderscheidenlijk het arrondissementsparket Limburg. Ten aanzien van degenen die op de dag voorafgaand aan de inwerkingtreding van artikel I op basis van een aanstelling in tijdelijke dienst in een functie, anders dan die genoemd in het eerste tot en met zevende lid, werkzaam zijn bij het arrondissementsparket te Zwolle-Lelystad, wordt de aanstelling van rechtswege gewijzigd in dezelfde aanstelling bij het arrondissementsparket Oost-Nederland, indien voor hen direct voorafgaand aan de inwerkingtreding van artikel I de gemeente Zwolle als standplaats is aangewezen, onderscheidenlijk bij het arrondissementsparket Midden-Nederland, indien voor hen direct voorafgaand aan de inwerkingtreding van artikel I de gemeente Lelystad als standplaats is aangewezen.
 
-#### Artikel CXII. (Overgangsrecht functionarissen landelijk parket, functioneel parket, parket-generaal)
+##### Artikel CXII. (Overgangsrecht functionarissen landelijk parket, functioneel parket, parket-generaal)
 
 De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) in het ambt van hoofdofficier onderscheidenlijk plaatsvervangend hoofdofficier zijn benoemd en voor wie op dezelfde dag is vastgesteld dat zij dat ambt vervullen bij het landelijk parket, het functioneel parket of het parket-generaal, worden van rechtswege gewijzigd in een benoeming als hoofdofficier van justitie onderscheidenlijk plaatsvervangend hoofdofficier van justitie. Zij worden als zodanig niet beëdigd.
 
-#### Artikel CXIII. (Overgangsrecht functionarissen ressortsparketten)
+##### Artikel CXIII. (Overgangsrecht functionarissen ressortsparketten)
 
 1. Ten aanzien van degenen voor wie op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) is vastgesteld dat zij het ambt van hoofdadvocaat-generaal, plaatsvervangend hoofdadvocaat-generaal, senior advocaat-generaal, advocaat-generaal of plaatsvervangend advocaat-generaal vervullen bij het ressortsparket te Arnhem, Leeuwarden, Amsterdam, ’s-Gravenhage of ’s-Hertogenbosch, wordt die vaststelling van rechtswege gewijzigd in de vaststelling dat zij datzelfde ambt vervullen bij het ressortsparket.
 
@@ -277,11 +304,11 @@ De benoemingen van degenen die op de dag voorafgaand aan de inwerkingtreding van
 
 5. Ten aanzien van degenen die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) op basis van een aanstelling in tijdelijke dienst in een functie, anders dan die genoemd in het eerste tot en met derde lid, werkzaam zijn bij het ressortsparket te Arnhem, Leeuwarden, Amsterdam, ’s-Gravenhage of ’s-Hertogenbosch, wordt de aanstelling van rechtswege gewijzigd in dezelfde aanstelling bij het ressortsparket.
 
-#### Artikel CXIV. (Overgangsrecht arrondissementsparketten)
+##### Artikel CXIV. (Overgangsrecht arrondissementsparketten)
 
 In afwijking van [artikel 136, eerste lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=136) kan gedurende een periode van ten hoogste drie jaar na het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bij een arrondissementsparket een tweede plaatsvervangend hoofdofficier van justitie werkzaam zijn.
 
-#### Artikel CXIVa. (Overgangsrecht rechtspositionele beslissingen)
+##### Artikel CXIVa. (Overgangsrecht rechtspositionele beslissingen)
 
 1. Besluiten of andere handelingen van het bestuur of de president van het hieronder in de linkerkolom genoemde gerecht waarbij ambtenaren of gewezen ambtenaren, die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bij dat gerecht werkzaam zijn of zijn geweest, als zodanig belanghebbende zijn, dan wel waarbij hun rechtverkrijgenden of nagelaten betrekkingen belanghebbende zijn, worden van rechtswege aangemerkt als besluiten of andere handelingen van het bestuur of de president van het daarbij in de rechterkolom genoemde gerecht.
 
@@ -341,7 +368,7 @@ In afwijking van [artikel 136, eerste lid, van de Wet op de rechterlijke organis
 
 3. In afwijking van het eerste en tweede lid worden besluiten of andere handelingen van het bestuur of de president van de rechtbank te Zwolle-Lelystad onderscheidenlijk het hoofd van het arrondissementsparket te Zwolle-Lelystad waarbij ambtenaren, bedoeld in [artikel CVIII, eerste, tweede, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=III&artikel=CVIII&z=2015-07-01&g=2015-07-01), onderscheidenlijk [artikel CXI, vierde en zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=III&artikel=CXI&z=2015-07-01&g=2015-07-01), die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bij die rechtbank of dat parket werkzaam zijn en hun ambt gewoonlijk vervullen in of vanuit de gemeente Lelystad dan wel voor wie op die dag de gemeente Lelystad als standplaats is aangewezen, als zodanig belanghebbende zijn, van rechtswege aangemerkt als besluiten of andere handelingen van het bestuur of de president van de rechtbank Midden-Nederland onderscheidenlijk het hoofd van het arrondissementsparket Midden-Nederland.
 
-#### Artikel CXIVb. (Overgangsrecht wettelijke procedures en rechtsgedingen)
+##### Artikel CXIVb. (Overgangsrecht wettelijke procedures en rechtsgedingen)
 
 1. In wettelijke procedures en rechtsgedingen, waarbij het bestuur onderscheidenlijk de president van een rechtbank of een gerechtshof op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) is betrokken, treedt het bestuur onderscheidenlijk de president van het hieronder in de rechterkolom genoemde gerecht in de plaats van het bestuur onderscheidenlijk de president van het daarbij in de linkerkolom genoemde gerecht.
 
@@ -401,7 +428,7 @@ In afwijking van [artikel 136, eerste lid, van de Wet op de rechterlijke organis
 
 3. In afwijking van het eerste en tweede lid treedt het bestuur of de president van de rechtbank Midden-Nederland onderscheidenlijk het hoofd van het arrondissementsparket Midden-Nederland in de plaats van het bestuur of de president van de rechtbank te Zwolle-Lelystad onderscheidenlijk het hoofd van het arrondissementsparket te Zwolle-Lelystad, indien de wettelijke procedure of het rechtsgeding betrekking heeft op een besluit of andere handeling waarbij een ambtenaar, bedoeld in [artikel CVIII, eerste, tweede, vierde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=III&artikel=CVIII&z=2015-07-01&g=2015-07-01), onderscheidenlijk [artikel CXI, vierde en zesde tot en met negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=III&artikel=CXI&z=2015-07-01&g=2015-07-01), die op de dag voorafgaand aan de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bij de rechtbank te Zwolle-Lelystad onderscheidenlijk het arrondissementsparket te Zwolle-Lelystad werkzaam is en zijn ambt gewoonlijk vervult in of vanuit de gemeente Lelystad dan wel voor wie op die dag de gemeente Lelystad als standplaats is aangewezen, als zodanig belanghebbende is.
 
-#### Artikel CXV. (Overgangsrecht klachtbehandeling)
+##### Artikel CXV. (Overgangsrecht klachtbehandeling)
 
 1. In zaken waarin voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die op grond van [artikel 26, zevende lid, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=26) wordt aangemerkt als een gedraging van het bestuur van een rechtbank of een gerechtshof, treedt het bestuur van het hieronder in de rechterkolom genoemde gerecht van rechtswege in de plaats van het bestuur van het daarbij in de linkerkolom genoemde gerecht.
 
@@ -435,7 +462,7 @@ In afwijking van [artikel 136, eerste lid, van de Wet op de rechterlijke organis
 
 3. Zaken waarin voor het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) bij het bestuur van een rechtbank of gerechtshof over een gedraging van een bij dat gerecht werkzame ambtenaar een klacht is ingediend dan wel door dat bestuur een klacht in behandeling is genomen, gaan van rechtswege over van het bestuur van het in het eerste lid in de linkerkolom genoemde gerecht naar het bestuur van het daarbij in de rechterkolom genoemde gerecht.
 
-#### Artikel CXVI. (Overgangsrecht advocatuur)
+##### Artikel CXVI. (Overgangsrecht advocatuur)
 
 1. De algemene raad van de Nederlandse orde van advocaten wijst, na daaromtrent het gevoelen te hebben ingewonnen van de orden van advocaten in de arrondissementen zoals deze bestonden vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01), de personen aan die vanaf het tijdstip van inwerkingtreding van artikel I als deken of overige leden zitting hebben in de raden van toezicht, bedoeld in [artikel 22, eerste lid, van de Advocatenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002093&artikel=22), voor een termijn van ten hoogste drie maanden. Binnen die termijn geven de orden uitvoering aan artikel 22, tweede lid, van de Advocatenwet.
 
@@ -486,11 +513,11 @@ In afwijking van [artikel 136, eerste lid, van de Wet op de rechterlijke organis
 
 10. Op de bevoegdheid van in de in het negende lid bedoelde gemeenten als advocaat kantoor houdende leden-advocaten, plaatsvervangende leden-advocaten en griffier ten aanzien van zaken die vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aanhangig waren bij de raad van discipline in het ressort Amsterdam, blijft het recht zoals het gold vóór dat tijdstip van toepassing.
 
-#### Artikel CXVII. (Overgangsrecht gerechtsdeurwaarders)
+##### Artikel CXVII. (Overgangsrecht gerechtsdeurwaarders)
 
 De leden en hun plaatsvervangers die op de dag voorafgaand aan de inwerkingtreding van [artikel VII, onderdeel F](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=VII&z=2015-07-01&g=2015-07-01), zitting hadden in de ledenraad van de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders namens het ressort Amsterdam onderscheidenlijk het ressort ’s-Gravenhage onderscheidenlijk het ressort ’s-Hertogenbosch onderscheidenlijk de ressorten Arnhem en Leeuwarden, worden aangemerkt als leden en hun plaatsvervangers namens het ressort Amsterdam onderscheidenlijk het ressort Den Haag onderscheidenlijk het ressort ’s-Hertogenbosch onderscheidenlijk het ressort Arnhem-Leeuwarden, met dien verstande dat de termijn waarvoor zij waren gekozen niet opnieuw aanvangt.
 
-#### Artikel CXVIII. (Overgangsrecht notariaat I)
+##### Artikel CXVIII. (Overgangsrecht notariaat I)
 
 1. Het bestuur van de Koninklijke Notariële Beroepsorganisatie wijst, na daaromtrent het gevoelen te hebben ingewonnen van de ringbesturen zoals deze bestonden vóór het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01), de personen aan die vanaf het tijdstip van inwerkingtreding van artikel I als voorzitter of als lid zitting hebben in de ringbesturen voor een termijn van ten hoogste drie maanden. Binnen die termijn geven de ringvergaderingen uitvoering aan [artikel 85 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=85).
 
@@ -521,13 +548,13 @@ De leden en hun plaatsvervangers die op de dag voorafgaand aan de inwerkingtredi
 
 4. Personen die overeenkomstig het eerste lid, tweede volzin, onderscheidenlijk het derde lid worden benoemd als lid of plaatsvervanger in het ringbestuur of worden gekozen als lid of plaatsvervanger in de ledenraad kunnen niet worden herbenoemd onderscheidenlijk herkozen, indien zij op het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) reeds drie jaren of langer lid of plaatsvervanger waren in een ringbestuur onderscheidenlijk de ledenraad.
 
-#### Artikel CXVIIIa. (Overgangsrecht notariaat II)
+##### Artikel CXVIIIa. (Overgangsrecht notariaat II)
 
 1. Indien [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) van deze wet in werking treedt voor het tijdstip waarop [artikel I, onderdeel PP, van de wet van 29 september 2011 tot wijziging van de Wet op het notarisambt naar aanleiding van de evaluatie van die wet, alsmede regeling van enkele andere onderwerpen in die wet en wijziging van de Wet op het centraal testamentenregister en van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0030570&artikel=I) (Stb. 470) in werking treedt, blijft voor de toepassing van [artikel 93 van de Wet op het notarisambt](https://wetten.overheid.nl/jci1.3:c:BWBR0010388&artikel=93) het recht gelden dat gold voor de inwerkingtreding van artikel I van deze wet, en blijven de bestaande kamers van toezicht bevoegd totdat zij van rechtswege worden ontbonden.
 
 2. Na inwerkingtreding van [artikel I, onderdeel PP, van de wet van 29 september 2011 tot wijziging van de Wet op het notarisambt naar aanleiding van de evaluatie van die wet, alsmede regeling van enkele andere onderwerpen in die wet en wijziging van de Wet op het centraal testamentenregister en van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0030570&artikel=I) (Stb. 470) is de kamer voor het notariaat in het ressort Amsterdam bevoegd om de op grond van [artikel VII van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030570&artikel=VII) door de kamer van toezicht te Amsterdam over te dragen zaken af te doen, die betrekking hebben op notarissen en kandidaat-notarissen in de gemeenten Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp en Wijdemeren.
 
-#### Artikel CXVIIIb. (Overgangsrecht notariaat III)
+##### Artikel CXVIIIb. (Overgangsrecht notariaat III)
 
 1. De bepalingen in dit artikel zijn van toepassing indien [artikel I, onderdeel PP, van de wet van 29 september 2011 tot wijziging van de Wet op het notarisambt naar aanleiding van de evaluatie van die wet, alsmede regeling van enkele andere onderwerpen in die wet en wijziging van de Wet op het centraal testamentenregister en van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0030570&artikel=I) (Stb. 470) eerder in werking is getreden dan het tijdstip waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) van deze wet in werking treedt.
 
@@ -543,121 +570,121 @@ De leden en hun plaatsvervangers die op de dag voorafgaand aan de inwerkingtredi
 
 7. De kamer voor het notariaat in het ressort Amsterdam blijft bevoegd de op het tijdstip van inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) aldaar aanhangige zaken af te doen die betrekking hebben op notarissen, toegevoegd notarissen en kandidaat-notarissen in de gemeenten Blaricum, Bussum, Hilversum, Huizen, Laren, Muiden, Naarden, Weesp en Wijdemeren.
 
-#### Artikel CXIX
+##### Artikel CXIX
 
 1. Wijzigt de Evaluatiewet modernisering rechterlijke organisatie.
 
 2. Wijzigt de Wijzigingswet Evaluatiewet modernisering rechterlijke organisatie (behandeling vreemdelingenzaken en enkele wetstechnische aanpassingen) (Stb. 2011/256).
 
-#### Artikel CXX
+##### Artikel CXX
 
 Wijzigt deze wet.
 
-#### Artikel CXXI
+##### Artikel CXXI
 
 Wijzigt de Wet aanpassing bestuursprocesrecht (KST. 32450).
 
-#### Artikel CXXII
+##### Artikel CXXII
 
 Wijzigt deze wet.
 
-#### Artikel CXXIII
+##### Artikel CXXIII
 
 Wijzigt de Advocatenwet.
 
-#### Artikel CXXIV
+##### Artikel CXXIV
 
 Wijzigt de Wet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/299).
 
-#### Artikel CXXV
+##### Artikel CXXV
 
 Wijzigt de Invoeringswet vereenvoudiging en flexibilisering bv-recht (Stb. 2012/300).
 
-#### Artikel CXXVI
+##### Artikel CXXVI
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet op het toezicht op collectieve beheersorganisaties voor auteurs- en naburige rechten (KST. 31766).
 
-#### Artikel CXXVII
+##### Artikel CXXVII
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten (KST. 31996).
 
-#### Artikel CXXVIII
+##### Artikel CXXVIII
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet hervorming herziening ten voordele.
 
-#### Artikel CXXIX
+##### Artikel CXXIX
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet cliëntenrechten zorg (KST. 32402)
 
-#### Artikel CXXX
+##### Artikel CXXX
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Aanbestedingswet 20.. (KST. 32440).
 
-#### Artikel CXXXI
+##### Artikel CXXXI
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Wetboek van Strafrecht, enz. (verruiming mogelijkheden tot opsporing en vervolging van internationale misdrijven) (KST. 32475).
 
-#### Artikel CXXXII
+##### Artikel CXXXII
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet normalisering rechtspositie ambtenaren (KST. 32550).
 
-#### Artikel CXXXIII
+##### Artikel CXXXIII
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Aanbestedingswet op defensie- en veiligheidsgebied (KST. 32768).
 
-#### Artikel CXXXIV
+##### Artikel CXXXIV
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Herzieningswet toegelaten instellingen volkshuisvesting.
 
-#### Artikel CXXXV
+##### Artikel CXXXV
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wijzigingswet Uitvoeringswet verordening Europese betalingsbevelprocedure (concentratie Europese betalingsbevelprocedure) (KST. 32834).
 
-#### Artikel CXXXVI
+##### Artikel CXXXVI
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Verzamelwet Veiligheid en Justitie 2011.
 
-#### Artikel CXXXVII
+##### Artikel CXXXVII
 
 1. Wijzigt deze wet.
 
 2. Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties (KST. 32885).
 
-#### Artikel CXXXVIII
+##### Artikel CXXXVIII
 
 Wijzigt deze wet.
 
-#### Artikel CXXXIX
+##### Artikel CXXXIX
 
 Wijzigt de Wijzigingswet Pensioenwet (medezeggenschap van pensioengerechtigden in pensioenfondsbesturen) (KST. 31537).
 
-#### Artikel CXL
+##### Artikel CXL
 
 Wijzigt deze wet.
 
-#### Artikel CXLI
+##### Artikel CXLI
 
 1. Wijzigt deze wet.
 
@@ -665,11 +692,11 @@ Wijzigt deze wet.
 
 Wijzigt de Wet College voor de rechten van de mens (KST. 32467).
 
-#### Artikel CXLII
+##### Artikel CXLII
 
 Wijzigt deze wet.
 
-#### Artikel CXLIII
+##### Artikel CXLIII
 
 1. Indien het bij koninklijke boodschap van 24 juli 2010 ingediende voorstel van Wet aanpassing bestuursprocesrecht (32 450) tot wet is of wordt verheven en deel A, artikel I, onderdeel CCCCC, voor zover het betreft hoofdstuk 3 van bijlage 2 (Bevoegdheidsregeling bestuursrechtspraak), van die wet in werking treedt na het tijdstip waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) van deze wet in werking treedt, worden wettelijke bepalingen waarin beroep is opengesteld bij de hieronder in de linkerkolom genoemde rechtbank gelezen als wettelijke bepalingen waarin beroep is opengesteld bij de daarbij in de rechterkolom genoemde rechtbank.
 
@@ -696,25 +723,25 @@ Wijzigt deze wet.
 
 2. Indien het bij koninklijke boodschap van 24 juli 2010 ingediende voorstel van Wet aanpassing bestuursprocesrecht (32 450) tot wet is of wordt verheven en deel A, artikel I, onderdeel CCCCC, voor zover het betreft hoofdstuk 3 van bijlage 2 (Bevoegdheidsverdeling bestuursrechtspraak), van die wet in werking treedt na het tijdstip waarop [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) van deze wet in werking treedt, worden wettelijke bepalingen waarin beroep is opengesteld bij de rechtbank Zwolle-Lelystad, tot kennisneming waarvan de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Overijssel bevoegd is, gelezen als wettelijke bepalingen waarin beroep is opengesteld bij de rechtbank Midden-Nederland onderscheidenlijk de rechtbank Overijssel.
 
-#### Artikel CXLIV
+##### Artikel CXLIV
 
 Wijzigt deze wet.
 
-#### Artikel CXLIVa
+##### Artikel CXLIVa
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel CXLIVb
+##### Artikel CXLIVb
 
 Onze Minister van Veiligheid en Justitie zendt binnen vijf jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel CXLV
+##### Artikel CXLV
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en wat betreft [artikel CX, vierde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=III&artikel=CX&z=2015-07-01&g=2015-07-01), kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
 
 2. [Artikel II, onderdelen GG, onder 2, HH, onder 1, JJ en KK](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=II&z=2015-07-01&g=2015-07-01), en [artikel XI, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=II&artikel=XI&z=2015-07-01&g=2015-07-01), treden niet eerder in werking dan vijf jaren nadat [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0031789&hoofdstuk=I&artikel=I&z=2015-07-01&g=2015-07-01) in werking is getreden.
 
-#### Artikel CXLVI
+##### Artikel CXLVI
 
 Deze wet wordt aangehaald als: Wet herziening gerechtelijke kaart.
 
@@ -728,421 +755,421 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de rechterlijke organisatie.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Beroepswet.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Advocatenwet.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Gerechtsdeurwaarderswet.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op het notarisambt.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de rechtsbijstand.
 
 ### Hoofdstuk II. Wijziging van overige wetten
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Auteurswet.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Burgerlijk Wetboek.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Burgerlijk Wetboek BES Boek 1.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Faillissementswet.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Gemeentewet.
 
-#### Artikel XVIIa
+##### Artikel XVIIa
 
 Wijzigt de Invoerings- en aanpassingswet Pensioenwet.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Loodsenwet.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Mededingingswet.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Onteigeningswet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Overleveringswet.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Pensioenwet.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Tabakswet.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Uitleveringswet.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringswet Bewijsverdrag.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Uitvoeringswet E.G.-verordening inzake het Gemeenschapsmerk.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Uitvoeringswet EG-bewijsverordening.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Uitvoeringswet EG-verordening betreffende Gemeenschapsmodellen.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Uitvoeringswet grondkamers.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Uitvoeringswet internationale kinderbescherming.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Uitvoeringswet Speciaal Tribunaal voor Libanon.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Wijzigt de Uitvoeringswet verordening Europese coöperatieve vennootschap.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Wijzigt de Uitvoeringswet verordening Europese vennootschap.
 
-#### Artikel XXXIIIa
+##### Artikel XXXIIIa
 
 Wijzigt de Vreemdelingenwet 2000.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet aansprakelijkheid kernongevallen.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 Wijzigt de Wet aansprakelijkheid olietankschepen.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Wijzigt de Wet agrarisch grondverkeer.
 
-#### Artikel XXXVIII
+##### Artikel XXXVIII
 
 Wijzigt de Wet arbeid mijnbouw Noordzee.
 
-#### Artikel XXXIX
+##### Artikel XXXIX
 
 Wijzigt de Wet beëdigde tolken en vertalers.
 
-#### Artikel XL
+##### Artikel XL
 
 Wijzigt de Wet bescherming oorspronkelijke topografieën en halfgeleiderprodukten.
 
-#### Artikel XLI
+##### Artikel XLI
 
 Wijzigt de Wet bescherming staatsgeheimen.
 
-#### Artikel XLII
+##### Artikel XLII
 
 Wijzigt de Wet bestrijding ongevallen Noordzee.
 
-#### Artikel XLIII
+##### Artikel XLIII
 
 Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.
 
-#### Artikel XLIV
+##### Artikel XLIV
 
 Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag.
 
-#### Artikel XLIVb
+##### Artikel XLIVb
 
 Wijzigt de Wet College voor de rechten van de mens.
 
-#### Artikel XLV
+##### Artikel XLV
 
 Wijzigt de Wet conflictenrecht corporaties.
 
-#### Artikel XLVI
+##### Artikel XLVI
 
 Wijzigt de Wet conflictenrecht namen.
 
-#### Artikel XLVII
+##### Artikel XLVII
 
 Wijzigt de Wet dieren.
 
-#### Artikel XLVIII
+##### Artikel XLVIII
 
 Wijzigt de Wet DNA-onderzoek bij veroordeelden.
 
-#### Artikel XLIX
+##### Artikel XLIX
 
 Wijzigt de Wet educatie en beroepsonderwijs.
 
-#### Artikel L
+##### Artikel L
 
 Wijzigt de Wet Friese taal in het rechtsverkeer.
 
-#### Artikel LI
+##### Artikel LI
 
 Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.
 
-#### Artikel LII
+##### Artikel LII
 
 Wijzigt de Wet gewetensbezwaren militaire dienst.
 
-#### Artikel LIII
+##### Artikel LIII
 
 Wijzigt de Wet griffierechten in burgerlijke zaken.
 
-#### Artikel LIV
+##### Artikel LIV
 
 Wijzigt de Wet inrichting landelijk gebied.
 
-#### Artikel LV
+##### Artikel LV
 
 Wijzigt de Wet internationale misdrijven.
 
-#### Artikel LVI
+##### Artikel LVI
 
 Wijzigt de Wet justitiële en strafvorderlijke gegevens.
 
-#### Artikel LVII
+##### Artikel LVII
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel LVIII
+##### Artikel LVIII
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
-#### Artikel LIX
+##### Artikel LIX
 
 Wijzigt de Wet medezeggenschap op scholen.
 
-#### Artikel LX
+##### Artikel LX
 
 Wijzigt de Wet oorlogsstrafrecht.
 
-#### Artikel LXI
+##### Artikel LXI
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel LXII
+##### Artikel LXII
 
 Wijzigt de Wet op de Europese ondernemingsraden.
 
-#### Artikel LXIII
+##### Artikel LXIII
 
 Wijzigt de Wet op de inlichtingen- en veiligheidsdiensten 2002.
 
-#### Artikel LXIV
+##### Artikel LXIV
 
 Wijzigt de Wet op de naburige rechten.
 
-#### Artikel LXV
+##### Artikel LXV
 
 Wijzigt de Wet op de ondernemingsraden.
 
-#### Artikel LXVI
+##### Artikel LXVI
 
 Wijzigt de Wet op de parlementaire enquête 2008.
 
-#### Artikel LXVII
+##### Artikel LXVII
 
 Wijzigt de Wet op de uitoefening van de diergeneeskunde 1990.
 
-#### Artikel LXVIII
+##### Artikel LXVIII
 
 Wijzigt de Wet op het financieel toezicht.
 
-#### Artikel LXIX
+##### Artikel LXIX
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel LXX
+##### Artikel LXX
 
 Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.
 
-#### Artikel LXXI
+##### Artikel LXXI
 
 Wijzigt de Wet overlevering inzake oorlogsmisdrijven.
 
-#### Artikel LXXII
+##### Artikel LXXII
 
 Wijzigt de Wet rol werknemers bij Europese rechtspersonen.
 
-#### Artikel LXXIII
+##### Artikel LXXIII
 
 Wijzigt de Wet schadefonds geweldsmisdrijven.
 
-#### Artikel LXXIV
+##### Artikel LXXIV
 
 Wijzigt de Wet schadefonds olietankschepen.
 
-#### Artikel LXXV
+##### Artikel LXXV
 
 Wijzigt de Wet tarieven in strafzaken.
 
-#### Artikel LXXVI
+##### Artikel LXXVI
 
 Wijzigt de Wet tot behoud van cultuurbezit.
 
-#### Artikel LXXVII
+##### Artikel LXXVII
 
 Wijzigt de Wet tot uitvoering van de Verordening No. 11 van de Raad van de Europese Economische Gemeenschap.
 
-#### Artikel LXXVIII
+##### Artikel LXXVIII
 
 Wijzigt de Wet tuchtrechtspraak accountants.
 
-#### Artikel LXXIX
+##### Artikel LXXIX
 
 Wijzigt de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
-#### Artikel LXXX
+##### Artikel LXXX
 
 Wijzigt de Wet uitvoering Internationaal Energieprogramma.
 
-#### Artikel LXXXI
+##### Artikel LXXXI
 
 Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.
 
-#### Artikel LXXXII
+##### Artikel LXXXII
 
 Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.
 
-#### Artikel LXXXIII
+##### Artikel LXXXIII
 
 Wijzigt de Wet regelen nopens beheer schuldregisters voor geldleningen ten laste van het rijk.
 
-#### Artikel LXXXIV
+##### Artikel LXXXIV
 
 Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.
 
-#### Artikel LXXXV
+##### Artikel LXXXV
 
 Wijzigt de Uitvoeringswet Verdrag Nederland-Duitsland ter verdere vereenvoudiging van het rechtsverkeer i.v.m. Rechtsvorderingsverdrag 1954.
 
-#### Artikel LXXXVI
+##### Artikel LXXXVI
 
 Wijzigt de Uitvoeringswet Verdrag Nederland-Oostenrijk tot vereenvoudiging van het rechtsverkeer in verband met het Rechtsvorderingsverdrag 1954.
 
-#### Artikel LXXXVII
+##### Artikel LXXXVII
 
 Wijzigt de Uitvoeringswet Betekeningsverdrag 1965.
 
-#### Artikel LXXXVIII
+##### Artikel LXXXVIII
 
 Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.
 
-#### Artikel LXXXIX
+##### Artikel LXXXIX
 
 Wijzigt de Uitvoeringswet Bewijsverdrag.
 
-#### Artikel XC
+##### Artikel XC
 
 Wijzigt de Uitvoeringswet internationale kinderontvoering.
 
-#### Artikel XCI
+##### Artikel XCI
 
 Wijzigt de Uitvoeringswet Verdrag inzake de toegang tot de rechter in internationale gevallen en Europese Overeenkomst inzake het doorzenden van verzoeken om rechtsbijstand.
 
-#### Artikel XCII
+##### Artikel XCII
 
 Wijzigt de Wet tot instelling van het Internationaal Tribunaal voor vervolging van personen aansprakelijk voor ernstige schendingen van het internationaal humanitair recht op het grondgebied van het voormalige Joegoslavië 1991.
 
-#### Artikel XCIII
+##### Artikel XCIII
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel XCIV
+##### Artikel XCIV
 
 Wijzigt de Wet wederzijdse bijstand bij de invordering van belastingschulden en enkele andere schuldvorderingen.
 
-#### Artikel XCV
+##### Artikel XCV
 
 Wijzigt de Wet wederzijdse erkenning en tenuitvoerlegging strafrechtelijke sancties 2008.
 
-#### Artikel XCVI
+##### Artikel XCVI
 
 Wijzigt de Wet wegvervoer goederen.
 
-#### Artikel XCVII
+##### Artikel XCVII
 
 Wijzigt de Wet wettelijke aansprakelijkheid exploitanten nucleaire schepen.
 
-#### Artikel XCVIII
+##### Artikel XCVIII
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel XCIX
+##### Artikel XCIX
 
 Wijzigt het Wetboek van Koophandel.
 
-#### Artikel C
+##### Artikel C
 
 Wijzigt het Wetboek van Strafvordering.
 
-#### Artikel CI
+##### Artikel CI
 
 Wijzigt de Zaaizaad- en plantgoedwet 2005.
 

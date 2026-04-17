@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika, inzake toegang tot en gebruik van faciliteiten op Curaçao voor humanitaire bevoorradingen bedoeld voor de bevolking van de Bolivariaanse Republiek Venezuela"
 identifier: "BWBV0006795"
-categorie: "Internationaal recht"
-publicatiedatum: 2019-03-15
-laatste_update: 2019-03-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006795"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-03-15"
+last_updated: "2019-03-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006795"
+soort: "verdrag"
+stam_id: "10005470513"
+version_id: "10005945002"
+internal_id: "C10009525091"
+label_id: "10005453644"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006795/2019-03-15/0"
+intitule_bron: "Trb.2019-46"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-03-15"
+intitule_in_force: "2019-03-15"
+intitule_status: "goed"
+original_publication: "Trb.2019-46"
+original_published_date: "2019-03-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-46"
+entry_into_force_date: "2019-03-15"
+jci_1_3: "jci1.3:c:BWBV0006795&z=2019-03-15&g=2019-03-15"
+jci_1_0: "1.0:c:BWBV0006795&g=2019-03-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-03-15"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden, ten behoeve van Curaçao, en de Verenigde Staten van Amerika, inzake toegang tot en gebruik van faciliteiten op Curaçao voor humanitaire bevoorradingen bedoeld voor de bevolking van de Bolivariaanse Republiek Venezuela
 
 The Kingdom of the Netherlands, in respect of Curaçao,
@@ -20,7 +42,7 @@ The United States of America
 
 Have agreed as follows:
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 For the purposes of this Agreement:
 
@@ -30,7 +52,7 @@ For the purposes of this Agreement:
 
 - c. “Implementing Partners” shall refer to entities and individuals operating under a grant or contract with the U.S. government.
 
-#### Article II. Purpose and authorization
+##### Article II. Purpose and authorization
 
 1. Curaçao agrees to allow United States personnel and Implementing Partners access to and use of designated Facilities, solely for the purpose of providing humanitarian assistance for Venezuela and third countries affected by the crisis in Venezuela.
 
@@ -42,35 +64,35 @@ For the purposes of this Agreement:
 
 5. The use of other assets is not allowed under this Agreement unless logistical circumstances require the use of such assets for transfer of the humanitarian assistance to Curaçao, and it shall only be allowed after prior consent of the Kingdom of the Netherlands.
 
-#### Article III. Respecting national laws
+##### Article III. Respecting national laws
 
 United States personnel shall respect the laws of Curaçao and shall abstain from any activity inconsistent with this Agreement.
 
-#### Article IV. Security
+##### Article IV. Security
 
 The authorities of Curaçao and the United States Government shall consult and take such steps as may be necessary to ensure the security of United States personnel, Implementing Partners, and Facilities in Curaçao. The authorities of Curaçao retain overall responsibility for the physical security of the designated Facilities under this Agreement. The authorities of Curaçao and the United States shall exchange any information relevant for this purpose.
 
-#### Article V. Costs
+##### Article V. Costs
 
 Costs that may be incurred in connection with or in the execution of this Agreement shall be addressed through separate obligating instruments. The United States expects to bear the costs incurred in connection with this Agreement subject to the terms and conditions agreed upon in such obligating instruments.
 
-#### Article VI. Procurement
+##### Article VI. Procurement
 
 The United States Government intends to endeavor to use its best efforts, consistent with applicable laws, regulations, and the assistance objectives under this Agreement, to procure humanitarian assistance in Curaçao.
 
-#### Article VII. Applicability FOL Agreement
+##### Article VII. Applicability FOL Agreement
 
 Except as otherwise provided for in this Agreement, [Articles VI](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VI), [VII (paragraphs 1-3)](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VII)[VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=VIII), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIII), [XVII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVII), [XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XVIII), and [XIX (paragraphs 1, 2, 4 and 5) of the Agreement of Cooperation between the Kingdom of the Netherlands and the Government of the United States of America Concerning Access to and Use of Facilities in the Netherlands Antilles and Aruba for Aerial Counter-Narcotics Activities](https://wetten.overheid.nl/jci1.3:c:BWBV0001980&artikel=XIX), done at Oranjestad on 2 March 2000 (“FOL Agreement”), shall apply **mutatis mutandis** to United States personnel, Implementing Partners or the U.S. government, as the case may be. For purposes of this Agreement, Implementing Partners shall receive the same guarantees, protections, and assurances as Contractors receive under the [FOL Agreement](https://wetten.overheid.nl/jci1.3:c:BWBV0001980).
 
-#### Article VIII. Settlement Of Disputes
+##### Article VIII. Settlement Of Disputes
 
 Any disagreements that may arise from the application or implementation of this Agreement shall be settled through consultation between the appropriate authorities of the Parties, including, as necessary, through diplomatic channels.
 
-#### Article IX. Territorial applicability
+##### Article IX. Territorial applicability
 
 With regard to the Kingdom of the Netherlands, this Agreement shall apply to Curaçao.
 
-#### Article X. Entry into force; duration
+##### Article X. Entry into force; duration
 
 This Agreement shall enter into force on the date of the last signature by the Parties and shall remain in force for the duration of the activities under this Agreement, but in any case for no longer than a period of one year.
 

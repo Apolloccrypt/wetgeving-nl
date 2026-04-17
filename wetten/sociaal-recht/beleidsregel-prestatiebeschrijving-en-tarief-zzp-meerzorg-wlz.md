@@ -1,18 +1,43 @@
 ---
 title: "Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz"
 identifier: "BWBR0051345"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051345"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051345"
+soort: "zbo"
+stam_id: "17496823"
+version_id: "30857422"
+internal_id: "C44214921"
+label_id: "17399164"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051345/2026-01-01/0"
+intitule_bron: "Stcrt.2025-26196"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-22"
+intitule_published: "2025-08-01"
+intitule_in_force: "2025-08-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-26196"
+original_signed_date: "2025-07-22"
+original_published_date: "2025-08-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-26196"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051345&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051345&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-22"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -32,15 +57,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Voor overige begrippen die in deze beleidsregel gebruikt worden, maar niet hierboven vermeld staan, wordt verwezen naar de Beleidsregel definities Wlz.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om de prestatiebeschrijving en het tarief op het gebied van zzp-meerzorg voor het jaar 2026 vast te stellen.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op de zorg of dienst als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz) die wordt geleverd door zorgaanbieders.
 
-#### Artikel 4. Cliëntgroepen
+##### Artikel 4. Cliëntgroepen
 
 Cliënten met één van onderstaande zorgprofielen kunnen in aanmerking komen voor zzp-meerzorg:
 
@@ -84,11 +109,11 @@ Cliënten met één van onderstaande zorgprofielen kunnen in aanmerking komen vo
 
 - –. Ggz Beveiligd wonen vanwege extreme gedragsproblematiek met zeer intensieve begeleiding (ggz wonen-5)
 
-#### Artikel 5. Prijspeil
+##### Artikel 5. Prijspeil
 
 De loon- en materiële kosten van de beleidsregelwaarde bevatten de definitieve percentages 2025 en de voorschotpercentages 2026.
 
-#### Artikel 6. Omschrijving prestatie
+##### Artikel 6. Omschrijving prestatie
 
 De zzp-meerzorg is bedoeld als aanvulling op het zorgprofiel en wordt gedeclareerd bovenop de reguliere zzp of een prestatie crisiszorg.
 
@@ -100,7 +125,7 @@ Begeleiding omvat onder meer dagbesteding en dat is een structurele tijdsbestedi
 
 - –. een welzijnsactiviteit zoals zang, bingo, uitstapjes en dergelijke.
 
-#### Artikel 7. Beleidsregelwaarde voor tariefvaststelling
+##### Artikel 7. Beleidsregelwaarde voor tariefvaststelling
 
 1. **Beleidsregelwaarde**
 
@@ -122,11 +147,11 @@ Meerzorg kan zowel voor een groep als voor een individu aangevraagd en ingezet w
 | --- | --- | --- |
 | zzp-meerzorg | ZMZ01 | € 1.683,05 |
 
-#### Artikel 8. Intrekken oude beleidsregel
+##### Artikel 8. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0050023), met kenmerk BR/REG- 25128, ingetrokken.
 
-#### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 9. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel prestatiebeschrijving en tarief zzp-meerzorg Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0050023), met kenmerk BR/REG-25128, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

@@ -1,13 +1,35 @@
 ---
 title: "Circulaire Introductie bij waterschappen van het Rechtspositiebesluit decentrale politieke ambtsdragers"
 identifier: "BWBR0041882"
-categorie: "Milieu"
-publicatiedatum: 2019-03-28
-laatste_update: 2019-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041882"
+country: "nl"
+rank: "circulaire"
+publication_date: "2019-03-28"
+last_updated: "2019-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041882"
+soort: "circulaire"
+stam_id: "14991453"
+version_id: "25677242"
+internal_id: "C36634851"
+label_id: "14941704"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041882/2019-03-28/0"
+intitule_bron: "Stcrt.2019-5866"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-02-06"
+intitule_in_force: "2019-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-5866"
+original_published_date: "2019-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-5866"
+entry_into_force_date: "2019-03-28"
+jci_1_3: "jci1.3:c:BWBR0041882&z=2019-03-28&g=2019-03-28"
+jci_1_0: "1.0:c:BWBR0041882&g=2019-03-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-03-28"
 ---
-
 # Circulaire Introductie bij waterschappen van het Rechtspositiebesluit decentrale politieke ambtsdragers
 
 ### Van verzending circulaires naar publicatie op internet

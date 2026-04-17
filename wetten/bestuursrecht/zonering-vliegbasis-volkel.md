@@ -1,13 +1,37 @@
 ---
 title: "Zonering vliegbasis Volkel"
 identifier: "BWBR0008708"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-06-06
-laatste_update: 1997-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008708"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-06-06"
+last_updated: "1997-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008708"
+soort: "circulaire"
+stam_id: "6368063"
+version_id: "11028892"
+internal_id: "C14925821"
+label_id: "6357004"
+original_entry_into_force: "1997-06-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008708/1997-06-06/0"
+intitule_bron: "Stcrt.1997-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-05-30"
+intitule_published: "1997-06-06"
+intitule_in_force: "1997-06-06"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-105"
+original_signed_date: "1997-05-30"
+original_published_date: "1997-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-105-p18-SC9499"
+entry_into_force_date: "1997-06-06"
+jci_1_3: "jci1.3:c:BWBR0008708&z=1997-06-06&g=1997-06-06"
+jci_1_0: "1.0:c:BWBR0008708&g=1997-06-06"
+citeertitel_status: "redactioneel"
+signed_date: "1997-05-30"
+entry_into_force: "1997-06-06"
 ---
-
 # Zonering vliegbasis Volkel
 
 ### Bekendmaking besluiten en terinzagelegging

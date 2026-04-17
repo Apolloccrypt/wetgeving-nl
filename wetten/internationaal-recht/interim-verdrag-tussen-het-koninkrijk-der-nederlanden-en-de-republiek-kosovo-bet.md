@@ -1,13 +1,35 @@
 ---
 title: "Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland"
 identifier: "BWBV0006576"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006576"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006576"
+soort: "verdrag"
+stam_id: "10005338373"
+version_id: "10005758422"
+internal_id: "C10009176791"
+label_id: "10005321514"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006576/2017-01-01/0"
+intitule_bron: "Trb.2016-25"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2016-02-24"
+intitule_in_force: "2016-02-24"
+intitule_status: "vervallen"
+original_publication: "Trb.2016-25"
+original_published_date: "2016-02-24"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2016-25"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBV0006576&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBV0006576&g=2017-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-01-01"
 ---
-
 # Interim-verdrag tussen het Koninkrijk der Nederlanden en de Republiek Kosovo betreffende de vestiging van de Kosovo Relocated Specialist Judicial Institution in Nederland
 
 The Kingdom of the Netherlands and the Republic of Kosovo,
@@ -24,113 +46,113 @@ Have agreed as follows:
 
 ## PART I. GENERAL PROVISIONS
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 Vervallen
 
-#### Article 2. Purpose and scope of this Agreement
+##### Article 2. Purpose and scope of this Agreement
 
 Vervallen
 
-#### Article 3. Seat of the Kosovo Relocated Specialist Judicial Institution
+##### Article 3. Seat of the Kosovo Relocated Specialist Judicial Institution
 
 Vervallen
 
 ## PART II. STATUS OF THE KOSOVO RELOCATED SPECIALIST JUDICIAL INSTITUTION
 
-#### Article 4. Juridical personality
+##### Article 4. Juridical personality
 
 Vervallen
 
-#### Article 5. Privileges, immunities and facilities
+##### Article 5. Privileges, immunities and facilities
 
 Vervallen
 
-#### Article 6. Inviolability of the premises
+##### Article 6. Inviolability of the premises
 
 Vervallen
 
-#### Article 7. Protection of the premises and their vicinity
+##### Article 7. Protection of the premises and their vicinity
 
 Vervallen
 
-#### Article 8. Law and authority on the premises
+##### Article 8. Law and authority on the premises
 
 Vervallen
 
-#### Article 9. Public services for the premises
+##### Article 9. Public services for the premises
 
 Vervallen
 
-#### Article 10. Flag, emblem and markings
+##### Article 10. Flag, emblem and markings
 
 Vervallen
 
-#### Article 11. Funds, assets and other property
+##### Article 11. Funds, assets and other property
 
 Vervallen
 
-#### Article 12. Inviolability of archives, documents and materials
+##### Article 12. Inviolability of archives, documents and materials
 
 Vervallen
 
-#### Article 13. Facilities in respect of communications
+##### Article 13. Facilities in respect of communications
 
 Vervallen
 
-#### Article 14. Freedom of financial assets from restrictions
+##### Article 14. Freedom of financial assets from restrictions
 
 Vervallen
 
-#### Article 15. Exemption from taxes and duties for the Kosovo Relocated Specialist Judicial Institution and its property
+##### Article 15. Exemption from taxes and duties for the Kosovo Relocated Specialist Judicial Institution and its property
 
 Vervallen
 
-#### Article 16. Exemption from import and export restrictions
+##### Article 16. Exemption from import and export restrictions
 
 Vervallen
 
 ## PART III. PRIVILEGES, IMMUNITIES AND FACILITIES ACCORDED TO PERSONS UNDER THIS AGREEMENT
 
-#### Article 17. Privileges, immunities and facilities of the judges, the Specialist Prosecutor, Deputy Specialist Prosecutor, and the Registrar and the Deputy Registrar
+##### Article 17. Privileges, immunities and facilities of the judges, the Specialist Prosecutor, Deputy Specialist Prosecutor, and the Registrar and the Deputy Registrar
 
 Vervallen
 
-#### Article 18. Privileges, immunities and facilities of staff
+##### Article 18. Privileges, immunities and facilities of staff
 
 Vervallen
 
-#### Article 19. Personnel recruited locally and not otherwise covered by this Agreement
+##### Article 19. Personnel recruited locally and not otherwise covered by this Agreement
 
 Vervallen
 
-#### Article 20. Interns
+##### Article 20. Interns
 
 Vervallen
 
-#### Article 21. Experts
+##### Article 21. Experts
 
 Vervallen
 
-#### Article 22. Counsel and persons assisting counsel
+##### Article 22. Counsel and persons assisting counsel
 
 Vervallen
 
-#### Article 23. Persons other than suspects, accused, witnesses and victims who are required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution
+##### Article 23. Persons other than suspects, accused, witnesses and victims who are required to be present at the seat of the Kosovo Relocated Specialist Judicial Institution
 
 Vervallen
 
-#### Article 24. Employment of Family members of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff
+##### Article 24. Employment of Family members of the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff
 
 Vervallen
 
-#### Article 25. Exceptions to immunities
+##### Article 25. Exceptions to immunities
 
 Vervallen
 
 ## PART IV. WAIVER OF PRIVILEGES AND IMMUNITIES
 
-#### Article 26. Waiver of privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2017-01-01&g=2017-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2017-01-01&g=2017-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2017-01-01&g=2017-01-01) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2017-01-01&g=2017-01-01)
+##### Article 26. Waiver of privileges, immunities and facilities provided for in [Articles 17](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=17&z=2017-01-01&g=2017-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=18&z=2017-01-01&g=2017-01-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=19&z=2017-01-01&g=2017-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=20&z=2017-01-01&g=2017-01-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=21&z=2017-01-01&g=2017-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=22&z=2017-01-01&g=2017-01-01) and [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2017-01-01&g=2017-01-01)
 
 Vervallen
 
@@ -138,73 +160,73 @@ Vervallen
 
 ### SECTION 1. : GENERAL
 
-#### Article 27. General cooperation between the Kosovo Relocated Specialist Judicial Institution and the Host State
+##### Article 27. General cooperation between the Kosovo Relocated Specialist Judicial Institution and the Host State
 
 Vervallen
 
-#### Article 28. Cooperation with the competent authorities
+##### Article 28. Cooperation with the competent authorities
 
 Vervallen
 
-#### Article 29. Notification and Identification Cards
+##### Article 29. Notification and Identification Cards
 
 Vervallen
 
-#### Article 30. Social security regime
+##### Article 30. Social security regime
 
 Vervallen
 
 ### SECTION 2. : VISAS, PERMITS AND OTHER DOCUMENTS
 
-#### Article 31. Visas for the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff
+##### Article 31. Visas for the judges, the Specialist Prosecutor, the Deputy Specialist Prosecutor, the Registrar, the Deputy Registrar and staff
 
 Vervallen
 
-#### Article 32. Visas for experts, interns, counsel, and persons referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2017-01-01&g=2017-01-01)
+##### Article 32. Visas for experts, interns, counsel, and persons referred to in [Article 23](https://wetten.overheid.nl/jci1.3:c:BWBV0006576&deel=III&artikel=23&z=2017-01-01&g=2017-01-01)
 
 Vervallen
 
-#### Article 33. Driving licence
+##### Article 33. Driving licence
 
 Vervallen
 
 ### SECTION 3. : SECURITY, OPERATIONAL ASSISTANCE
 
-#### Article 34. Security, safety and protection of persons referred to in this Agreement
+##### Article 34. Security, safety and protection of persons referred to in this Agreement
 
 Vervallen
 
 ## PART VI. FINAL PROVISIONS
 
-#### Article 35. Supplementary arrangements and agreements
+##### Article 35. Supplementary arrangements and agreements
 
 Vervallen
 
-#### Article 36. Settlement of disputes with third Parties
+##### Article 36. Settlement of disputes with third Parties
 
 Vervallen
 
-#### Article 37. Settlement of differences on the interpretation or application of this Agreement or its supplementary arrangements or agreements
+##### Article 37. Settlement of differences on the interpretation or application of this Agreement or its supplementary arrangements or agreements
 
 Vervallen
 
-#### Article 38. Costs
+##### Article 38. Costs
 
 Vervallen
 
-#### Article 39. Application
+##### Article 39. Application
 
 Vervallen
 
-#### Article 40. Amendments
+##### Article 40. Amendments
 
 Vervallen
 
-#### Article 41. Entry into force
+##### Article 41. Entry into force
 
 Vervallen
 
-#### Article 42. Duration and termination
+##### Article 42. Duration and termination
 
 Vervallen
 

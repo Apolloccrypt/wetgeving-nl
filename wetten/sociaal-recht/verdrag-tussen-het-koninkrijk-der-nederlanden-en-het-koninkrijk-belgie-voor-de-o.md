@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid"
 identifier: "BWBV0005135"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-10-01
-laatste_update: 2015-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005135"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-10-01"
+last_updated: "2015-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005135"
+soort: "verdrag"
+stam_id: "10004482853"
+version_id: "10004695982"
+internal_id: "C10008928271"
+label_id: "10004467664"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005135/2015-10-01/0"
+intitule_bron: "Trb.2011-50"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-03-21"
+intitule_in_force: "2015-08-12"
+intitule_status: "goed"
+original_publication: "Trb.2011-50"
+original_published_date: "2011-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-50"
+entry_into_force_date: "2015-10-01"
+jci_1_3: "jci1.3:c:BWBV0005135&z=2015-10-01&g=2015-10-01"
+jci_1_0: "1.0:c:BWBV0005135&g=2015-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België voor de ontwikkeling van de samenwerking en van de wederzijdse administratieve bijstand op het gebied van de sociale zekerheid
 
 Het Koninkrijk der Nederlanden
@@ -44,7 +66,7 @@ Zijn het volgende overeengekomen:
 
 ## TITEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder de volgende termen:
 
@@ -62,11 +84,11 @@ Zijn het volgende overeengekomen:
 
 3. Onverminderd het bepaalde in het eerste lid, sub d, van dit artikel worden voor de toepassing van de Nederlandse wetgeving inzake sociale bijstand en de Belgische wettelijke, niet-contributieve, inkomensgebonden uitkeringen die aan behoeftige personen worden toegekend de bevoegde organen en verbindingsorganen aangeduid in de administratieve schikking zoals vermeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
-#### Artikel 2. Personele werkingssfeer
+##### Artikel 2. Personele werkingssfeer
 
 Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele werkingssfeer van de Verordening, alsook op de personen die een uitkering aanvragen of ontvangen, als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01), van dit Verdrag.
 
-#### Artikel 3. Materiële werkingssfeer
+##### Artikel 3. Materiële werkingssfeer
 
 1. Dit Verdrag is van toepassing op de wetgevingen die deel uitmaken van de materiële werkingssfeer van de Verordening. Voor wat België betreft, is dit Verdrag eveneens van toepassing op de wetgeving betreffende het jaarlijks vakantiegeld.
 
@@ -74,7 +96,7 @@ Dit Verdrag is van toepassing op de personen die deel uitmaken van de personele 
 
 3. De in het tweede lid van dit artikel bedoelde uitkeringen worden vermeld in een bijlage bij de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag. Deze bijlage wordt voor zover nodig bijgewerkt in gemeenschappelijk overleg tussen de bevoegde autoriteiten.
 
-#### Artikel 4. Territoriale werkingssfeer
+##### Artikel 4. Territoriale werkingssfeer
 
 Het territoriale toepassingsgebied van dit Verdrag is:
 
@@ -84,15 +106,15 @@ Het territoriale toepassingsgebied van dit Verdrag is:
 
 ## TITEL II. ALGEMENE PRINCIPES VAN DE SAMENWERKING
 
-#### Artikel 5. Informatie over de ontwikkelingen van de wet- en regelgeving
+##### Artikel 5. Informatie over de ontwikkelingen van de wet- en regelgeving
 
 De bevoegde autoriteiten informeren elkaar rechtstreeks en regelmatig over de fundamentele wijzigingen aangebracht in de wet- en regelgevingsbepalingen die vallen onder het toepassingsgebied van dit Verdrag.
 
-#### Artikel 6. Uitwisseling van statistische gegevens
+##### Artikel 6. Uitwisseling van statistische gegevens
 
 De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit, zoals is overeengekomen in de administratieve schikking bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
-#### Artikel 7. Werking van de wederzijdse administratieve bijstand
+##### Artikel 7. Werking van de wederzijdse administratieve bijstand
 
 1. Ieder bevoegd orgaan van één van de Verdragsluitende Partijen kan zich wenden tot een bevoegd orgaan van de andere Verdragsluitende Partij, rechtstreeks of door bemiddeling van een verbindingsorgaan, voor het opvragen van gegevens die nodig zijn voor een juiste uitvoering van haar taak.
 
@@ -102,7 +124,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 4. De wederzijdse administratieve bijstand is kosteloos. De bevoegde organen kunnen echter overeenkomen dat bepaalde kosten worden vergoed.
 
-#### Artikel 8. Bescherming van gegevens
+##### Artikel 8. Bescherming van gegevens
 
 1. Met het oog op de toepassing van dit Verdrag verstrekken de bevoegde organen van beide Verdragsluitende Partijen gegevens, zoals bedoeld in [artikel 1, eerste lid, sub e](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=1&z=2015-10-01&g=2015-10-01), van dit Verdrag, met inachtneming van de mogelijkheden die in de respectievelijke wetgevingen voorzien zijn. Het betreft de gegevens die nodig zijn voor de terug- en invordering van de aan het bevoegde orgaan van een van de Verdragsluitende Partijen verschuldigde bedragen, voor de vastlegging van het bedrag van de verschuldigde bijdragen of heffingen, en voor de aanspraak op uitkeringen bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=I&artikel=3&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
@@ -112,7 +134,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 4. Voor de verstrekte inlichtingen en documenten geldt de regeling voor de bescherming van gegevens van toepassing op het grondgebied van iedere Verdragsluitende Partij, krachtens de nationale, internationale en communautaire normen en in het bijzonder [Richtlijn 95/46/EG](31995L0046) van het Europees Parlement en de Raad van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens.
 
-#### Artikel 9. Wijze van overdracht en in verband brengen van bestanden
+##### Artikel 9. Wijze van overdracht en in verband brengen van bestanden
 
 1. Voor iedere in het kader van dit artikel uitgevoerde handeling worden de principes op het gebied van noodzakelijkheid, proportionaliteit en de bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=II&artikel=8&z=2015-10-01&g=2015-10-01) van dit Verdrag nageleefd. De consultatie van de bestanden door het bevoegde orgaan van een Verdragsluitende Partij moet, in voorkomend geval, onderworpen worden aan het systeem van voorafgaande machtiging.
 
@@ -124,7 +146,7 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 ## TITEL III. SAMENWERKING BETREFFENDE DE UITKERINGEN
 
-#### Artikel 10. Verificatie en cumulatie
+##### Artikel 10. Verificatie en cumulatie
 
 1. Op verzoek van het bevoegde orgaan van een Verdragsluitende Partij voert een bevoegd orgaan van de andere Verdragsluitende Partij het onderzoek uit dat noodzakelijk is voor het verifiëren van het recht van de persoon die een uitkering aanvraagt of ontvangt.
 
@@ -138,23 +160,23 @@ De bevoegde organen en de verbindingsorganen wisselen statistische gegevens uit,
 
 6. Elk bevoegd orgaan verzamelt en verifieert de gegevens op dezelfde manier als voor het onderzoeken van een aanvraag of betaling krachtens haar eigen wetgeving.
 
-#### Artikel 11. Geweigerde uitbetalingen, schorsing van uitbetaling of stopzetting
+##### Artikel 11. Geweigerde uitbetalingen, schorsing van uitbetaling of stopzetting
 
 Op basis van de in dit Verdrag vermelde inlichtingen en controles, kan een bevoegd orgaan van een Verdragsluitende Partij een prestatie weigeren, schorsen of stopzetten.
 
 ## TITEL IV. INVORDERING VAN BIJDRAGEN EN HEFFINGEN
 
-#### Artikel 12. Procedure voor invordering en terugvordering
+##### Artikel 12. Procedure voor invordering en terugvordering
 
 De Verdragsluitende Partijen verbinden zich ertoe uitvoering te geven aan de Toepassingsverordening door in de administratieve schikking zoals bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag een procedure uit te werken voor de invordering van bijdragen en heffingen en de terugvordering van niet verschuldigde bedragen.
 
 ## TITEL V. SAMENWERKING BETREFFENDE DE CONTROLES
 
-#### Artikel 13. De samenwerking betreffende de controles
+##### Artikel 13. De samenwerking betreffende de controles
 
 De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ondersteuning bij de door de bevoegde organen van de andere Verdragsluitende Partij uitgevoerde controleacties. Ze verlenen elkaar bijstand, overeenkomstig de wetgeving die op het grondgebied van elke Verdragsluitende Partij van toepassing is, om de geldigheid van documenten en attesten te bepalen, en met het oog op iedere andere vorm van wederzijdse bijstand en samenwerking.
 
-#### Artikel 14. Nadere controleregels
+##### Artikel 14. Nadere controleregels
 
 1. Vertegenwoordigers van bevoegde organen of verbindingsorganen van de ene Verdragsluitende Partij kunnen op verzoek van de andere Verdragsluitende Partij aanwezig zijn bij de controles van deze laatste Verdragsluitende Partij. Voorts kunnen de bevoegde organen en verbindingsorganen vertegenwoordigers uitwisselen voor het verzamelen van de voor de uitoefening van hun controleopdracht nuttige inlichtingen.
 
@@ -162,7 +184,7 @@ De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ond
 
 3. De periodiciteit van deze controles, het benodigde aantal vertegenwoordigers voor de goede uitvoering van de controles alsook de nadere regels voor de evaluatie ervan worden in de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=17&z=2015-10-01&g=2015-10-01) van dit Verdrag bedoelde samenwerkingsovereenkomsten opgenomen.
 
-#### Artikel 15. Controle van de detacheringsvoorwaarden
+##### Artikel 15. Controle van de detacheringsvoorwaarden
 
 1. De Verdragsluitende Partijen verifiëren of overeenkomstig de Verordening alle detacheringsvoorwaarden worden nageleefd, met inbegrip van alle elementen die voor de vaststelling van de feitelijke arbeidsrelatie bepalend zijn.
 
@@ -170,15 +192,15 @@ De bevoegde organen van een Verdragsluitende Partij zorgen, op verzoek, voor ond
 
 ## TITEL VI. NADERE UITVOERINGSREGELS
 
-#### Artikel 16. Administratieve schikking
+##### Artikel 16. Administratieve schikking
 
 De bevoegde autoriteiten sluiten een administratieve schikking om de nadere regels voor de uitvoering van dit Verdrag te bepalen.
 
-#### Artikel 17. Samenwerkingsovereenkomsten
+##### Artikel 17. Samenwerkingsovereenkomsten
 
 De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen door de wet toegekende bevoegdheden, samenwerkingsovereenkomsten sluiten. Deze samenwerkingsovereenkomsten hebben betrekking op de in dit Verdrag bedoelde aangelegenheden, met uitsluiting van de aangelegenheden die geregeld zijn in de administratieve schikking, te sluiten op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0005135&titeldeel=VI&artikel=16&z=2015-10-01&g=2015-10-01) van dit Verdrag.
 
-#### Artikel 18. De Gemengde Commissie en geschillenregeling
+##### Artikel 18. De Gemengde Commissie en geschillenregeling
 
 1. Een Gemengde Commissie wordt opgericht voor de opvolging van en de beslechting van geschillen betreffende de toepassing van dit Verdrag. De Gemengde Commissie zal uit de volgende leden zijn samengesteld:
 
@@ -196,15 +218,15 @@ De bevoegde organen van de Verdragsluitende Partijen kunnen, binnen de aan hen d
 
 ## TITEL VII. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 19. Aanpassingsclausule
+##### Artikel 19. Aanpassingsclausule
 
 De bepalingen van dit Verdrag blijven van toepassing voor zover ze geen afbreuk doen aan de bepalingen van de Verordening en de Toepassingsverordening.
 
-#### Artikel 20. Geldigheidsduur van het Verdrag
+##### Artikel 20. Geldigheidsduur van het Verdrag
 
 Dit Verdrag wordt voor onbepaalde tijd gesloten. Het kan door elk van de Verdragsluitende Partijen bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij worden opgezegd. De opzegging wordt twaalf maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij van kracht.
 
-#### Artikel 21. Inwerkingtreding
+##### Artikel 21. Inwerkingtreding
 
 Dit Verdrag treedt in werking op de eerste dag van de derde maand, volgend op de datum waarop de Verdragsluitende Partijen elkaar schriftelijk, langs diplomatieke weg, hebben medegedeeld dat aan hun constitutionele vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 

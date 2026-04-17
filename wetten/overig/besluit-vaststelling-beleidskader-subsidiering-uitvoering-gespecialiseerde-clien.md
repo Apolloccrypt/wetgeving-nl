@@ -1,38 +1,64 @@
 ---
-title: "Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning"
+title: "Besluit van de Minister voor Langdurige Zorg en Sport van 20 februari 2023, kenmerk 3515405-1043206-LZ, houdende vaststelling van het beleidskader en het subsidieplafond inzake het subsidiëren van de uitvoering van gespecialiseerde cliëntondersteuning (Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning)"
 identifier: "BWBR0047921"
-categorie: "Overig"
-publicatiedatum: 2023-03-01
-laatste_update: 2023-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-01"
+last_updated: "2023-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047921"
+soort: "ministeriele-regeling"
+stam_id: "16684613"
+version_id: "29267372"
+internal_id: "C41687301"
+label_id: "16602184"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047921/2023-03-01/0"
+intitule_bron: "Stcrt.2023-6257"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-02-20"
+intitule_published: "2023-02-28"
+intitule_in_force: "2023-02-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-6257"
+original_signed_date: "2023-02-20"
+original_published_date: "2023-02-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-6257"
+entry_into_force_date: "2023-03-01"
+jci_1_3: "jci1.3:c:BWBR0047921&z=2023-03-01&g=2023-03-01"
+jci_1_0: "1.0:c:BWBR0047921&g=2023-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning"
+signed_date: "2023-02-20"
+entry_into_force: "2023-03-01"
 ---
-
 # Besluit van de Minister voor Langdurige Zorg en Sport van 20 februari 2023, kenmerk 3515405-1043206-LZ, houdende vaststelling van het beleidskader en het subsidieplafond inzake het subsidiëren van de uitvoering van gespecialiseerde cliëntondersteuning (Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning)
 
 Gelet op de [artikelen 1.3](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.3) en [2.1 van de Kaderregeling subsidies OCW, SZW en VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=2.1);
 
 Besluit:
 
-#### Artikel 1. Vaststellen beleidskader
+##### Artikel 1. Vaststellen beleidskader
 
 Het beleidskader inzake subsidiëring van de uitvoering van gespecialiseerde cliëntondersteuning wordt vastgesteld overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 2. Subsidieplafond
+##### Artikel 2. Subsidieplafond
 
 1. Voor de subsidieverlening op grond van dit besluit is een totaalbedrag van € 81.635.000 beschikbaar.
 
 2. De Minister voor Langdurige Zorg en Sport verleent het beschikbare bedrag na onderlinge weging van de aanvragen aan één aanvrager, overeenkomstig de bijlage bij dit besluit.
 
-#### Artikel 3. Dienst van algemeen economisch belang
+##### Artikel 3. Dienst van algemeen economisch belang
 
 De gespecialiseerde cliëntondersteuning, zoals bedoeld in de bijlage bij dit besluit wordt aangewezen als een dienst van algemeen economisch belang in de zin van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.
 
-#### Artikel 4. Inwerkingtreding en vervaldatum
+##### Artikel 4. Inwerkingtreding en vervaldatum
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 30 juni 2029 met dien verstande dat deze van toepassing blijft op de subsidie die verleend is onder dit besluit en beleidskader.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit vaststelling beleidskader subsidiëring uitvoering gespecialiseerde cliëntondersteuning.
 

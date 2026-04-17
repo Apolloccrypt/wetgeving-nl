@@ -1,13 +1,38 @@
 ---
 title: "Regeling massale gegevensverstrekking uit de kadastrale registratie 1994"
 identifier: "BWBR0027517"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-07-01
-laatste_update: 2024-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027517"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-07-01"
+last_updated: "2024-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027517"
+soort: "zbo"
+stam_id: "10502323"
+version_id: "30121992"
+internal_id: "C43160351"
+label_id: "10477364"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027517/2024-07-01/0"
+intitule_bron: "Stcrt.1994-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-14"
+intitule_published: "1994-04-27"
+intitule_in_force: "1994-04-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17384"
+original_signed_date: "2024-05-24"
+original_published_date: "2024-05-31"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-17384"
+entry_into_force_date: "2024-05-24"
+jci_1_3: "jci1.3:c:BWBR0027517&z=2024-07-01&g=2024-07-01"
+jci_1_0: "1.0:c:BWBR0027517&g=2024-07-01"
+citeertitel_status: "officieel"
+signed_date: "2024-05-24"
+entry_into_force: "2024-05-24"
 ---
-
 # Regeling massale gegevensverstrekking uit de kadastrale registratie 1994
 
 **14 april 1994/Nr. KAZ14494011**
@@ -20,7 +45,7 @@ Besluit
 
 Treedt in werking op het tijdstip waarop de Organisatiewet Kadaster in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 De in [artikel 104, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=104) bedoelde grote hoeveelheden gegevens uit de kadastrale registratie worden desverlangd aan gemeenten en andere publiekrechtelijke lichamen verstrekt, voor zover het betreft:
 
@@ -32,13 +57,13 @@ De in [artikel 104, tweede lid, van de Kadasterwet](https://wetten.overheid.nl/j
 
 - d. de naam/percelenlijst betreffende een gebied als bedoeld onder a.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=2024-07-01&g=2024-07-01) bedoelde gegevens betreffen alle in de kadastrale registratie voorkomende actuele gegevens, onderscheidenlijk de in de desbetreffende periode gemuteerde gegevens, behoudens het bepaalde in het tweede lid.
 
 2. Op verzoek van betrokkene kunnen in overleg met de Dienst voor het kadaster en de openbare registers bepaalde soorten van gegevens dan wel bepaalde soorten van mutaties buiten beschouwing worden gelaten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in [artikel 1, onder b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=2024-07-01&g=2024-07-01), bedoelde mutaties kunnen betrekking hebben op een periode van:
 
@@ -54,7 +79,7 @@ zulks ter keuze van de betrokkene.
 
 2. De desbetreffende gegevens kunnen, ter keuze van betrokkene, worden verstrekt op tape, cartridge, diskette of papier.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verstrekking van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=2024-07-01&g=2024-07-01) bedoelde gegevens geschiedt in het algemeen binnen de volgende termijnen:
 
@@ -74,7 +99,7 @@ zulks ter keuze van de betrokkene.
 
 5. De Dienst voor het kadaster en de openbare registers verstrekt desgewenst aan betrokkenen een handleiding ter zake van de verstrekkingen van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=1&z=2024-07-01&g=2024-07-01) bedoelde gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een permanente aansluiting op de geautomatiseerde kadastrale registratie, als bedoeld in [artikel 36, eerste lid, onder c, van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=36) zijn:
 
@@ -84,7 +109,7 @@ soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een p
 
 - c. alle te raadplegen soorten van gegevens omtrent hypotheken en beslagen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De apparatuur waardoor een permanente aansluiting op de geautomatiseerde kadastrale registratie wordt tot stand gebracht, behoeft de goedkeuring van de Dienst voor het kadaster en de openbare registers.
 
@@ -94,7 +119,7 @@ soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een p
 
 4. Het in [artikel 36, eerste lid, onder e, van het Kadasterbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0005259&artikel=36) bedoelde afschrift van het desbetreffende beeldscherm wordt vervaardigd in de vorm van een hard-copy.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een permanente aansluiting voor zakelijk gebruik op de geautomatiseerde kadastrale registratie wordt schriftelijk verzocht bij de Dienst overeenkomstig de door de Dienst bepaalde wijze. Bij de aanmelding wordt, naast naam-, contactgegevens en vestigingsadres, tevens het door de Kamer van Koophandel aan ondernemingen en rechtspersonen toegekende unieke nummer vermeld.
 
@@ -102,19 +127,19 @@ soorten van gegevens die beschikbaar kunnen worden gesteld door middel van een p
 
 3. Om de permanente aansluiting te kunnen blijven gebruiken, informeert de betrokkene de Dienst onverwijld over een wijziging van de bij de aanmelding verstrekte gegevens, overeenkomstig de door de Dienst bepaalde wijze.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze regeling treedt in werking met ingang van de dag waarop de Organisatiewet Kadaster in werking treedt.
 
 2. Deze regeling wordt aangehaald als: Regeling massale gegevensverstrekking uit de kadastrale registratie 1994. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De toegang tot de permanente aansluiting wordt verkregen door gebruik te maken van ten minste een bedrijfs- en organisatiemiddel dat ingevolge [Verordening (EU) nr. 910/2014](32014R0910) bij de Europese Commissie is genotificeerd en voldoet aan het beveiligingsniveau ‘substantieel’.
 
 2. Het eerste lid is niet van toepassing op een onderneming of rechtspersoon die niet in Nederland is gevestigd of in Nederland is vertegenwoordigd door een gevolmachtigde handelsagent, zolang in het land van vestiging nog geen bedrijfs- en organisatiemiddel voorhanden is dat ingevolge [Verordening (EU) nr. 910/2014](32014R0910) bij de Europese Commissie is genotificeerd en ten minste voldoet aan het beveiligingsniveau ‘substantieel’.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. In afwijking van [artikel 7a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027517&artikel=7a&z=2024-07-01&g=2024-07-01), zullen op basis van een daartoe ingediend verzoek:
 

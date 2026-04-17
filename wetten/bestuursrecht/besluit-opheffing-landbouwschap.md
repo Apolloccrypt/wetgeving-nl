@@ -1,13 +1,39 @@
 ---
-title: "Besluit opheffing Landbouwschap"
+title: "Besluit van 28 september 2000, houdende opheffing van het Landbouwschap"
 identifier: "BWBR0011674"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011674"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011674"
+soort: "AMvB"
+stam_id: "2904283"
+version_id: "4474012"
+internal_id: "C4474011"
+label_id: "2852264"
+dtd_version: "2.0"
+original_entry_into_force: "2001-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011674/2002-01-01/0"
+intitule_bron: "Stb.2000-411"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-28"
+intitule_published: "2000-10-17"
+intitule_in_force: "2001-02-27"
+intitule_status: "goed"
+original_publication: "Stb.2000-411"
+original_signed_date: "2000-09-28"
+original_published_date: "2000-10-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-411"
+entry_into_force_date: "2001-07-01"
+jci_1_3: "jci1.3:c:BWBR0011674&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0011674&g=2002-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opheffing Landbouwschap"
+signed_date: "2000-09-28"
+entry_into_force: "2001-07-01"
 ---
-
 # Besluit van 28 september 2000, houdende opheffing van het Landbouwschap
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid, van 10 juli 2000, Directie Arbeidsverhoudingen, Nr. AV/A&M/2000/45114, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - g. sectorsaldi: de tot de bestemmingsreserves van het vermogen behorende fondsen en saldi, behoudens de in de jaarrekening 1997 zo genoemde posten 3.2, 3.3, 4.01, 4.10, 4.13 en 4.16.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het Bedrijfschap voor de landbouw, genaamd Landbouwschap, is opgeheven.
 
@@ -56,7 +82,7 @@ In dit besluit wordt verstaan onder:
 
 4. Met uitzondering van de in het tweede lid genoemde verordeningen en besluiten, de Heffingsverordening Verbruik Aardgas en de daaraan gerelateerde besluiten voor toepassing in 1996 en 1997, alsmede de in de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=6&z=2002-01-01&g=2002-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=7&z=2002-01-01&g=2002-01-01) bedoelde verordeningen, vervallen de door het Landbouwschap vastgestelde verordeningen en andere algemeen verbindende besluiten, voorzover nog van kracht bij de inwerkingtreding van dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vanaf de inwerkingtreding van dit besluit berust het beheer van het vermogen van het Landbouwschap bij de Raad.
 
@@ -66,7 +92,7 @@ In dit besluit wordt verstaan onder:
 
 4. Rechtsvorderingen die betrekking hebben op rechten en verplichtingen, neergelegd in pensioen- en wachtgeldregelingen, met inbegrip van de ingevolge het derde lid uitgezonderde bepalingen, worden ingesteld door of tegen het Hoofdproductschap Akkerbouw.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Raad is belast met de vereffening van het vermogen van het Landbouwschap. Hij kan daartoe de tot het vermogen van het Landbouwschap behorende roerende zaken vervreemden.
 
@@ -78,13 +104,13 @@ In dit besluit wordt verstaan onder:
 
 5. De vaststelling van een rekening van inkomsten en uitgaven door de Raad strekt, na verkregen instemming van Onze Minister, tot décharge van het dagelijks bestuur van het Landbouwschap, behoudens in geval van later gebleken valsheid in bewijsstukken of andere onregelmatigheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Raad maakt het tijdstip van de aanvang van de vereffening bekend in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie, alsmede in de daartoe naar zijn oordeel in aanmerking komende nieuwsbladen, onder vermelding van de afkondiging van dit besluit.
 
 2. In de bekendmaking worden degenen die een vordering op het Landbouwschap hebben, opgeroepen die vorderingen binnen een daarbij aangegeven termijn bij de Raad in te dienen. Deze termijn wordt niet korter gesteld dan zes maanden, te rekenen vanaf de dag van de bekendmaking.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opheffing van het Landbouwschap tast de rechtskracht van de door dat lichaam wettig opgelegde heffingen niet aan.
 
@@ -96,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 5. De in het tweede lid bedoelde bedragen worden na inning overgedragen aan de Raad en toegevoegd aan het vermogen van het Landbouwschap.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De rechten en verplichtingen jegens en van de werknemers en de gewezen werknemers van het Landbouwschap, voortvloeiende uit de Salarisverordening Personeel Landbouwschap 1988/1989, de Verordening tot wijziging van de Verordening Salarisverordening Personeel Landbouwschap 1988/1989, de Verordening Wachtgelden Personeel Landbouwschap 1972, de Verordening Uitkeringen bij ontslag 1993, de Verordening vrijwillig vervroegde uittreding personeel Landbouwschap 1994, de Pensioenverordening Personeel Landbouwschap 1989, de Verordening tot wijziging van de Pensioenverordening Personeel Landbouwschap 1989, de Verordening tot vaststelling Reglement Flexibel Spaarpensioen Personeel Landbouwschap en de Verordening Sociaal Plan Landbouwschap blijven ook na de opheffing van het Landbouwschap in stand.
 
@@ -104,7 +130,7 @@ In dit besluit wordt verstaan onder:
 
 3. Voorzover de rechten en verplichtingen betrekking hebben op pensioenen en wachtgelden, kunnen zij na de opheffing geldend worden gemaakt, onderscheidenlijk moeten zij worden gekweten tegenover het Hoofdproductschap Akkerbouw.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Raad vormt een fonds ten bedrage van € 12 705 846 ten behoeve van de betaling van de wachtgelden en daarmee samenhangende pensioenpremies, alsmede een fonds ten bedrage van € 907 560 voor de aanspraken op de voorzieningen in het sociaal plan, voortvloeiende uit de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=7&z=2002-01-01&g=2002-01-01) genoemde verordeningen. De stortingen in deze fondsen komen ten laste van het vermogen van het Landbouwschap.
 
@@ -124,7 +150,7 @@ In dit besluit wordt verstaan onder:
 
 9. De Raad verantwoordt het beheer van het in het derde lid bedoelde fonds via een bijzondere dienst in zijn begroting en zijn rekening van inkomsten en uitgaven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Zo spoedig mogelijk nadat de Raad het vermogen van het Landbouwschap heeft vereffend, brengt hij daarover aan Onze Minister verslag uit. Het verslag gaat vergezeld van een door de Raad vastgestelde rekening van inkomsten en uitgaven.
 
@@ -134,7 +160,7 @@ In dit besluit wordt verstaan onder:
 
 4. De rekening behoeft de instemming van Onze Minister. De instemming strekt tot décharge van de Raad. De Raad doet van het verlenen van de instemming zo spoedig mogelijk openbare kennisgeving in de Staatscourant en in het Mededelingenblad Bedrijfsorganisatie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De uitvoerings- en liquidatiekosten van het Landbouwschap worden ten laste gebracht van het vermogen van het Landbouwschap.
 
@@ -146,7 +172,7 @@ In dit besluit wordt verstaan onder:
 
 5. Indien de fondsen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=8&z=2002-01-01&g=2002-01-01), niet toereikend zijn, zijn voorzover noodzakelijk ter dekking van het tekort, het eerste, derde en vierde lid van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voorzover de saldi opcenten algemene heffing betrekking hebben op de werkingssfeer van, respectievelijk voorzover de sectorsaldi betrekking hebben op de vervulling van taken die zijn overgedragen aan het Hoofdproductschap Akkerbouw, het Productschap Tuinbouw, het Productschap Pluimvee en Eieren, het Productschap Vee en Vlees en het Produktschap voor Zuivel, komen de desbetreffende, uit de goedgekeurde rekening blijkende eindsaldi ten goede aan de genoemde productschappen.
 
@@ -158,7 +184,7 @@ In dit besluit wordt verstaan onder:
 
 5. De bestemming van hetgeen na beëindiging van de taken van het in [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=8&z=2002-01-01&g=2002-01-01), bedoelde fonds resteert, wordt door de Raad, gehoord de betrokken ondernemers- en werknemersorganisaties, bepaald. Dit besluit behoeft de goedkeuring van Onze Minister.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De opheffing van het Landbouwschap heeft geen gevolg voor de ontvankelijkheid van beroepen ingevolge de [Wet bestuursrechtspraak bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002144). In plaats van het Landbouwschap treedt de Raad als partij op.
 
@@ -166,19 +192,19 @@ In dit besluit wordt verstaan onder:
 
 3. Gerechtelijke uitspraken, gedaan tegen het Landbouwschap of, op grond van het eerste lid, tegen de Raad, worden door de Raad uitgevoerd, voorzover nodig ten laste van het vermogen van het opgeheven Landbouwschap. [Artikel 10, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011674&artikel=10&z=2002-01-01&g=2002-01-01), is in dat geval van toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 De Raad draagt zorg, in de zin van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376), voor de archiefbescheiden van het Landbouwschap.
 
-#### Artikel 14
+##### Artikel 14
 
 Het [Instellingsbesluit Landbouwschap](onbekend) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit opheffing Landbouwschap.
 

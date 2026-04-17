@@ -1,13 +1,39 @@
 ---
-title: "Regeling verstrekking gegevens doodsoorzaken CBS"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 15 augustus 2007, nr. WJZ 7009370, houdende vaststelling van nadere regels met betrekking tot de bevoegdheid van de directeur-generaal van de statistiek om gegevens te verstrekken als bedoeld in artikel 42a van de Wet op het Centraal bureau voor de statistiek (Regeling verstrekking gegevens doodsoorzaken CBS)"
 identifier: "BWBR0022436"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2018-08-01
-laatste_update: 2018-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022436"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-08-01"
+last_updated: "2018-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022436"
+soort: "ministeriele-regeling"
+stam_id: "9191633"
+version_id: "14715262"
+internal_id: "C20025461"
+label_id: "9170404"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022436/2018-08-01/0"
+intitule_bron: "Stcrt.2007-165"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-15"
+intitule_published: "2007-08-28"
+intitule_in_force: "2007-08-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-165"
+original_signed_date: "2007-08-15"
+original_published_date: "2007-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-165-p4-SC81911"
+entry_into_force_date: "2007-08-30"
+jci_1_3: "jci1.3:c:BWBR0022436&z=2018-08-01&g=2018-08-01"
+jci_1_0: "1.0:c:BWBR0022436&g=2018-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling verstrekking gegevens doodsoorzaken CBS"
+signed_date: "2007-08-15"
+entry_into_force: "2007-08-30"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 15 augustus 2007, nr. WJZ 7009370, houdende vaststelling van nadere regels met betrekking tot de bevoegdheid van de directeur-generaal van de statistiek om gegevens te verstrekken als bedoeld in artikel 42a van de Wet op het Centraal bureau voor de statistiek (Regeling verstrekking gegevens doodsoorzaken CBS)
 
 Handelende in overeenstemming met de Minister van Volksgezondheid, Welzijn en Sport;
@@ -18,7 +44,7 @@ Gelet op [artikel 42a, vijfde lid, van de Wet op het Centraal bureau voor de sta
 
 Besluit:
 
-#### Artikel 1. begripsbepalingen
+##### Artikel 1. begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -40,13 +66,13 @@ Besluit:
 
 2. Voor de toepassing van deze regeling houdt de omschrijving dat een persoon bij een onderzoek betrokken was in dat hij in elk geval uitdrukkelijk toestemming heeft gegeven voor de verwerking van zijn medische gegevens voor dat onderzoek.
 
-#### Artikel 2. aard gegevensverstrekking
+##### Artikel 2. aard gegevensverstrekking
 
 1. De directeur-generaal maakt voor de verstrekking, bedoeld in [artikel 42a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=42a), uitsluitend gebruik van de gegevens over doodsoorzaken die door het CBS zijn gecodeerd overeenkomstig de richtlijnen van de Wereldgezondheidsorganisatie op basis van de gegevens op het formulier, bedoeld in [artikel 12a van de Wet op de lijkbezorging](https://wetten.overheid.nl/jci1.3:c:BWBR0005009&artikel=12a).
 
 2. De directeur-generaal houdt bij zijn besluit op het verzoek om verstrekking rekening met de technische haalbaarheid van de gegevensverstrekking voor het onderzoeksvoorstel.
 
-#### Artikel 3. toetsingscommissie
+##### Artikel 3. toetsingscommissie
 
 1. De directeur-generaal stelt een toetsingscommissie in voor de verstrekking van doodsoorzaakgegevens.
 
@@ -88,7 +114,7 @@ Besluit:
 
 13. De directeur-generaal stelt het jaarverslag, bedoeld in het elfde lid, vast en doet hiervan mededeling in de Staatscourant.
 
-#### Artikel 4. aanvraagprocedure
+##### Artikel 4. aanvraagprocedure
 
 1. Een onderzoeker die wetenschappelijk onderzoek wil verrichten met gebruikmaking van doodsoorzaakgegevens, legt zijn aanvraag voor de verstrekking van die gegevens voor aan de directeur-generaal.
 
@@ -104,7 +130,7 @@ Besluit:
 
 7. Indien de directeur-generaal besluit de gevraagde gegevens niet te verstrekken, stelt hij de onderzoeker van zijn besluit in kennis en zendt daarvan een afschrift aan de toetsingscommissie.
 
-#### Artikel 5. nadere regels gegevensverstrekking bij het ontbreken van uitdrukkelijke toestemming van de betrokkene
+##### Artikel 5. nadere regels gegevensverstrekking bij het ontbreken van uitdrukkelijke toestemming van de betrokkene
 
 1. Bij de beoordeling of het vragen van uitdrukkelijke toestemming voor het gebruik van gegevens over doodsoorzaken bij leven van de betrokkene in redelijkheid niet mogelijk was of kon worden gevergd, neemt de directeur-generaal de belangen van de bij het onderzoek betrokkene als uitgangspunt.
 
@@ -122,7 +148,7 @@ Besluit:
 
 - b. er is een redelijke mate van waarschijnlijkheid dat de gezondheid van een groep personen van enige omvang wordt bevorderd of beschermd.
 
-#### Artikel 6. onderwerpen overeenkomst
+##### Artikel 6. onderwerpen overeenkomst
 
 In de overeenkomst, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=4&z=2018-08-01&g=2018-08-01), wordt in elk geval het volgende geregeld:
 
@@ -140,19 +166,19 @@ In de overeenkomst, bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.n
 
 - g. de nadere voorwaarden die voortvloeien uit [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0022436&artikel=7&z=2018-08-01&g=2018-08-01).
 
-#### Artikel 7. beveiliging gegevens
+##### Artikel 7. beveiliging gegevens
 
 De directeur-generaal vergewist zich ervan dat de onderzoeker de nodige technische en organisatorische voorzieningen heeft getroffen ter beveiliging van de verstrekte gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging of een andere vorm van onrechtmatige verwerking.
 
-#### Artikel 8. evaluatie
+##### Artikel 8. evaluatie
 
 De Minister doet na twee jaar na inwerkingtreding van deze regeling een onderzoek naar de doeltreffendheid en de effecten van deze regeling in de praktijk, en maakt de resultaten daarvan bekend in de Staatscourant.
 
-#### Artikel 9. inwerkingtreding
+##### Artikel 9. inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10. citeertitel
+##### Artikel 10. citeertitel
 
 Deze regeling wordt aangehaald als: Regeling verstrekking gegevens doodsoorzaken CBS.
 

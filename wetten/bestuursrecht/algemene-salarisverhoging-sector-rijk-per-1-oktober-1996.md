@@ -1,13 +1,37 @@
 ---
 title: "Algemene salarisverhoging sector Rijk per 1 oktober 1996"
 identifier: "BWBR0008229"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-10-01
-laatste_update: 1996-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008229"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-10-01"
+last_updated: "1996-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008229"
+soort: "circulaire"
+stam_id: "6374733"
+version_id: "11039332"
+internal_id: "C14938321"
+label_id: "6363694"
+original_entry_into_force: "1996-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008229/1996-10-01/0"
+intitule_bron: "Stcrt.1996-180"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-09"
+intitule_published: "1996-09-18"
+intitule_in_force: "1996-09-18"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-180"
+original_signed_date: "1996-09-09"
+original_published_date: "1996-09-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-180-p16-SC6976"
+entry_into_force_date: "1996-10-01"
+jci_1_3: "jci1.3:c:BWBR0008229&z=1996-10-01&g=1996-10-01"
+jci_1_0: "1.0:c:BWBR0008229&g=1996-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-09-09"
+entry_into_force: "1996-10-01"
 ---
-
 # Algemene salarisverhoging sector Rijk per 1 oktober 1996
 
 «Circulaire aan de ministers»

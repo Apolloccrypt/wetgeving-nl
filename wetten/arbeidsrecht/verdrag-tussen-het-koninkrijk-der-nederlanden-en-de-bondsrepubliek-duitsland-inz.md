@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake samenwerking bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede met niet-aangemelde werkzaamheden en illegaal grensoverschrijdend uitzendwerk (Nederlands-Duits Verdrag tot bestrijding van grensoverschrijdende zwarte arbeid)"
 identifier: "BWBV0005663"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2013-10-01
-laatste_update: 2013-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005663"
+country: "nl"
+rank: "verdrag"
+publication_date: "2013-10-01"
+last_updated: "2013-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005663"
+soort: "verdrag"
+stam_id: "10004805123"
+version_id: "10005107832"
+internal_id: "C10008501801"
+label_id: "10004788934"
+dtd_version: "2.0"
+original_entry_into_force: "2013-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005663/2013-10-01/0"
+intitule_bron: "Trb.2012-45"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-03-09"
+intitule_in_force: "2013-11-15"
+intitule_status: "goed"
+original_publication: "Trb.2012-45"
+original_published_date: "2012-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2012-45"
+entry_into_force_date: "2013-10-01"
+jci_1_3: "jci1.3:c:BWBV0005663&z=2013-10-01&g=2013-10-01"
+jci_1_0: "1.0:c:BWBV0005663&g=2013-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2013-10-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland inzake samenwerking bij de bestrijding van grensoverschrijdende fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede met niet-aangemelde werkzaamheden en illegaal grensoverschrijdend uitzendwerk (Nederlands-Duits Verdrag tot bestrijding van grensoverschrijdende zwarte arbeid)
 
 Het Koninkrijk der Nederlanden
@@ -30,25 +52,25 @@ Zich ervan bewust dat er verschillende nationale benaderingen en begripsomschrij
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doelstelling van het verdrag
+##### Artikel 1. Doelstelling van het verdrag
 
 1. De Verdragsluitende Partijen streven naar intensivering van de samenwerking tussen hun instanties bij de bestrijding van fraude met socialezekerheidsuitkeringen en -premies door arbeid en met basisuitkeringen ten gunste van werkzoekenden alsmede niet-aangemelde werkzaamheden en met illegaal grensoverschrijdend uitzendwerk.
 
 2. De voorschriften inzake de internationale rechtshulp in strafzaken blijven onverlet.
 
-#### Artikel 2. Territoriaal toepassingsgebied van het verdrag
+##### Artikel 2. Territoriaal toepassingsgebied van het verdrag
 
 1. Het verdrag is van toepassing op het gehele grondgebied van de Bondsrepubliek Duitsland.
 
 2. Het verdrag is van toepassing op het gehele Europese grondgebied van het Koninkrijk der Nederlanden.
 
-#### Artikel 3. Aanwijzing van de bevoegde instanties
+##### Artikel 3. Aanwijzing van de bevoegde instanties
 
 1. Dit verdrag valt wat het Koninkrijk der Nederlanden betreft onder de verantwoordelijkheid van de instanties die ressorteren onder het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en wat de Bondsrepubliek Duitsland betreft onder de verantwoordelijkheid van de op federaal niveau verantwoordelijke instanties die ressorteren onder het Bondsministerie van Financiën en het Bondsministerie voor Arbeid en Sociale Zaken en belast zijn met de in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2013-10-01&g=2013-10-01), omschreven taken.
 
 2. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland wijzen centrale instanties aan die als hoofdverantwoordelijke met de samenwerking in het kader van dit verdrag belast zullen zijn.
 
-#### Artikel 4. Niveaus van samenwerking
+##### Artikel 4. Niveaus van samenwerking
 
 1. Samenwerking geschiedt respectievelijk op het niveau
 
@@ -58,7 +80,7 @@ Zijn het volgende overeengekomen:
 
 2. De voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=1&z=2013-10-01&g=2013-10-01) genoemde taken bevoegde controlerende en toezichthoudende autoriteiten kunnen rechtstreeks met elkaar samenwerken voor zover dat door de in het eerste lid genoemde instanties is voorzien.
 
-#### Artikel 5. Vormen van samenwerking
+##### Artikel 5. Vormen van samenwerking
 
 1. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland stellen elkaar onverwijld in kennis van wezenlijke wijzigingen van de wet- en regelgeving op het terrein van dit verdrag.
 
@@ -80,7 +102,7 @@ Zijn het volgende overeengekomen:
 
 3. Het tweede lid is dienovereenkomstig van toepassing op rechtstreekse samenwerking tussen de controlerende en toezichthoudende autoriteiten overeenkomstig [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=4&z=2013-10-01&g=2013-10-01).
 
-#### Artikel 6. Verzoeken en spontane mededelingen
+##### Artikel 6. Verzoeken en spontane mededelingen
 
 1. Verzoeken en spontane mededelingen overeenkomstig [artikel 5, tweede lid, onderdelen 4 en 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=5&z=2013-10-01&g=2013-10-01), dienen ten minste de volgende gegevens te bevatten:
 
@@ -100,11 +122,11 @@ In de verzoeken dienen voorts de verzoekende instantie, het onderwerp en de rede
 
 6. Aan een verzoek dient slechts te worden voldaan voor zover de aangezochte instantie tot de desbetreffende informatie toegang heeft of er conform het nationale recht toegang toe kan krijgen.
 
-#### Artikel 7. Kosten
+##### Artikel 7. Kosten
 
 Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing van dit verdrag gemaakte kosten.
 
-#### Artikel 8. Gegevensbescherming
+##### Artikel 8. Gegevensbescherming
 
 1. Indien uit hoofde van dit verdrag persoonsgegevens worden verstrekt, gelden de volgende bepalingen met inachtneming van het voor elke Verdragsluitende Partij geldende nationale recht:
 
@@ -124,13 +146,13 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 
 2. De bepalingen van het eerste lid gelden dienovereenkomstig voor bedrijfs- en handelsgeheimen.
 
-#### Artikel 9. Gemengde commissie
+##### Artikel 9. Gemengde commissie
 
 1. Een gemengde commissie bestaande uit vertegenwoordigers van het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en van het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland alsmede van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01) genoemde instanties komt twaalf maanden na de inwerkingtreding van dit verdrag voor de eerste maal en vervolgens op verzoek van de Verdragsluitende Partijen ten minste om de twee jaar bijeen. Doel is de op grond van dit verdrag bereikte resultaten te evalueren en alle kwesties omtrent de uitlegging of toepassing van het verdrag te behandelen.
 
 2. De gemengde commissie kan vertegenwoordigers van andere nationale instanties en van andere lidstaten van de Europese Unie die belang hebben bij het verwezenlijken van de doelstellingen van het verdrag uitnodigen deel te nemen aan haar werkzaamheden.
 
-#### Artikel 10. Wijziging van het verdrag en bijlagen
+##### Artikel 10. Wijziging van het verdrag en bijlagen
 
 1. Dit verdrag kan met wederzijds goedvinden van de Verdragsluitende Partijen te allen tijde bij een afzonderlijke overeenkomst gewijzigd worden.
 
@@ -138,21 +160,21 @@ Elke Verdragsluitende Partij draagt de door haar instanties voor de toepassing v
 
 3. Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën van de Bondsrepubliek Duitsland verplichten zich binnen drie maanden na de inwerkingtreding van dit verdrag een lijst met adressen en telefoonnummers van de in het kader van dit verdrag belaste centrale instanties, bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005663&artikel=3&z=2013-10-01&g=2013-10-01), uit te wisselen, alsmede een beschrijving van hun taken, verantwoordelijkheden en bevoegdheden, en deze gegevens regelmatig te actualiseren.
 
-#### Artikel 11. Toepassing van het verdrag
+##### Artikel 11. Toepassing van het verdrag
 
 Het ministerie van Sociale Zaken en Werkgelegenheid van Nederland en het Bondsministerie van Financiën en het Bondsministerie van Arbeid en Sociale Zaken van de Bondsrepubliek Duitsland verplichten zich binnen zes maanden na de inwerkingtreding van dit verdrag de uitvoering van het verdrag middels een circulaire voor hun werkterrein te regelen.
 
-#### Artikel 12. Registratie van het verdrag
+##### Artikel 12. Registratie van het verdrag
 
 Dit verdrag wordt door het Koninkrijk der Nederlanden onmiddellijk na de inwerkingtreding geregistreerd bij het Secretariaat van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 13. Inwerkingtreding van het verdrag
+##### Artikel 13. Inwerkingtreding van het verdrag
 
 1. Dit verdrag dient te worden bekrachtigd; de akten van bekrachtiging worden zo spoedig mogelijk uitgewisseld.
 
 2. Dit verdrag treedt in werking op de eerste dag van de maand volgend op een termijn van drie maanden na de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 14. Opzegging van het verdrag
+##### Artikel 14. Opzegging van het verdrag
 
 Dit verdrag wordt voor onbepaalde duur gesloten. Het kan door elk van de Verdragsluitende Partijen bij schriftelijke kennisgeving aan de andere Verdragsluitende Partij worden opgezegd. De opzegging wordt drie maanden na ontvangst van de kennisgeving door de andere Verdragsluitende Partij van kracht.
 

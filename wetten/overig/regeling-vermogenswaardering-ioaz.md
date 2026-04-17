@@ -1,28 +1,52 @@
 ---
 title: "Regeling vermogenswaardering Ioaz"
 identifier: "BWBR0011947"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011947"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011947"
+soort: "ministeriele-regeling"
+stam_id: "4670273"
+version_id: "6486732"
+internal_id: "C6734731"
+label_id: "4648704"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011947/2026-01-01/0"
+intitule_bron: "Stcrt.2000-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-13"
+intitule_published: "2000-12-15"
+intitule_in_force: "2000-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-244"
+original_signed_date: "2000-12-13"
+original_published_date: "2000-12-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0011947&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0011947&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2000-12-13"
+entry_into_force: "2001-01-01"
 ---
-
 # Regeling vermogenswaardering Ioaz
 
 Gelet op [artikel 8, zesde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=8),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004163&artikel=8), wordt vastgesteld onmiddellijk nadat het bedrijf of beroep is beëindigd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vermogen is de waarde van de bezittingen verminderd met de waarde van de schulden.
 
@@ -48,7 +72,7 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 - b. verplichtingen die voortvloeien uit de vaststelling van de waarde van de bezittingen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot de bezittingen behoren niet:
 
@@ -58,7 +82,7 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 - c. bossen, natuurterreinen en onroerende zaken die deel uitmaken van een ingevolge de [Natuurschoonwet 1928](https://wetten.overheid.nl/jci1.3:c:BWBR0001939) aangewezen landgoed, met uitzondering van de op deze landgoederen voorkomende gebouwde eigendommen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Mits niet deel uitmakend van het vermogen van een onderneming behoren niet tot de bezittingen:
 
@@ -74,13 +98,13 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 3. Het bedrag, genoemd in het eerste lid, onderdeel d, wordt met ingang van de dag waarop het netto minimumloon zonder de daarin begrepen aanspraak op vakantietoeslag wijzigt, met het percentage van deze wijziging gewijzigd en wordt door of namens Onze Minister medegedeeld in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bezittingen belast met vruchtgebruik of recht van gebruik worden aangemerkt als bezittingen van de blote eigenaar tenzij het een door een of beide ouders van de gewezen zelfstandige bewoonde woning betreft. In dat geval wordt deze woning aangemerkt als bezit van de vruchtgebruiker.
 
 2. Schulden die behoren tot met vruchtgebruik belast vermogen worden aangemerkt als schulden van de blote eigenaar, tenzij het schulden betreft die behoren tot een door een of beide ouders van de gewezen zelfstandige bewoonde woning.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Tot de schulden wordt mede gerekend de inkomstenbelasting die de gewezen zelfstandige na het begin van het kalenderjaar verschuldigd kan worden ter zake van:
 
@@ -94,7 +118,7 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 - b. 6,25% van de waarde van de aandelen, winstbewijzen, bewijzen van deelgerechtigheid en koopopties voorzover deze de verkrijgingsprijs daarvan in de zin van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) overtreft.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bezittingen en schulden worden in aanmerking genomen voor de waarde in het economisch verkeer.
 
@@ -108,11 +132,11 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 6. De veldinventaris wordt gewaardeerd op basis van de gemaakte kosten, waaronder begrepen arbeidskosten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Land- en tuinbouwgrond kan bij overdracht van ouders aan kinderen en bij uittreding uit een samenwerkingsverband of rechtspersoon, bij voortzetting van het bedrijf als volwaardig bedrijf, worden gewaardeerd naar de waarde in verpachte staat.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij het in aanmerking nemen van bezittingen en schulden wordt geen rekening gehouden met:
 
@@ -120,23 +144,23 @@ De waarde van het vermogen bedoeld in [artikel 8, tweede lid, van de wet](https:
 
 - b. lopende termijnen van inkomsten en verplichtingen, alsmede termijnen van inkomsten waarvan de grootte na de aanvang van het kalenderjaar door de schuldenaar wordt vastgesteld, mits zij niet behoren tot de onderneming van de gewezen zelfstandige.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien bezittingen in het zicht van de beëindiging van het bedrijf of beroep zijn verkocht of overgedragen en dit, gelet op de aard en strekking van de wet, tot een kennelijk onredelijk resultaat leidt, stellen burgemeester en wethouders de waarde van deze bezittingen vast op basis van de waarde in het economisch verkeer bij verkoop zonder bezwaring.
 
-#### Artikel 12
+##### Artikel 12
 
 Burgemeester en wethouders kunnen [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011947&artikel=8&z=2026-01-01&g=2026-01-01), buiten toepassing laten, indien toepassing van die waardering zal leiden tot onbillijkheden van overwegende aard.
 
-#### Artikel 13
+##### Artikel 13
 
 Het besluit van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 29 juni 1987, houdende nadere regels voor de vaststelling van de waarde van het eigen vermogen bij beëindiging van het bedrijf of beroep (Stcrt. 122) wordt ingetrokken.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling wordt aangehaald als: Regeling vermogenswaardering Ioaz.
 

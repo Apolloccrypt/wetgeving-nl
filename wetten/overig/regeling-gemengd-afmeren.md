@@ -1,20 +1,46 @@
 ---
-title: "Regeling gemengd afmeren"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 8 mei 2025, nr. IENW/BSK-2025/101742, houdende regels omtrent het gemengd afmeren van schepen die gevaarlijke stoffen vervoeren (Regeling gemengd afmeren)"
 identifier: "BWBR0051061"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051061"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051061"
+soort: "ministeriele-regeling"
+stam_id: "17433223"
+version_id: "30738612"
+internal_id: "C44057321"
+label_id: "17336144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051061/2025-07-01/0"
+intitule_bron: "Stcrt.2025-17962"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-08"
+intitule_published: "2025-05-26"
+intitule_in_force: "2025-05-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-17962"
+original_signed_date: "2025-05-08"
+original_published_date: "2025-05-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-17962"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051061&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051061&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gemengd afmeren"
+signed_date: "2025-05-08"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 8 mei 2025, nr. IENW/BSK-2025/101742, houdende regels omtrent het gemengd afmeren van schepen die gevaarlijke stoffen vervoeren (Regeling gemengd afmeren)
 
 Gelet op de [artikelen 6.28, twaalfde lid, onderdeel c, vijftiende en zeventiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), en [7.07, vierde en vijfde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.07);
 
 BESLUIT:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - b. zich onder de grenswaarde, bedoeld in [artikel 4.3, eerste lid, van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), bevindt voor de stoffen waarvoor op grond van artikel 3.2.3, tabel C, kolom 18, van het ADN een giftigheidsmeter is vereist.
 
-#### Artikel 2. Aanwijzing schepen en ligplaatsen en wachtplaatsen voor gemengd afmeren
+##### Artikel 2. Aanwijzing schepen en ligplaatsen en wachtplaatsen voor gemengd afmeren
 
 1. Als categorieën schepen als bedoeld in de [artikelen 6.28, twaalfde lid, onderdeel c, en vijftiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=6.28), en [7.07, vierde lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=7.07) worden aangewezen alle binnenschepen of zeeschepen waarvoor een certificaat van onderzoek als bedoeld in [artikel 9, eerste lid, van de Binnenvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0023009&artikel=9) is afgegeven, met uitzondering van:
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 5. Op aangewezen ligplaatsen en wachtplaatsen worden de verkeerstekens E.5.2 of E.7, bedoeld in [bijlage 7 bij het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&bijlage=7), aangebracht met daaronder een bord F.4, bedoeld in bijlage 7 bij het Binnenvaartpolitiereglement, met daarop de tekst ‘Gemengd afmeren’.
 
-#### Artikel 3. Verboden
+##### Artikel 3. Verboden
 
 1. Het is verboden op of met een schip dat gemengd is afgemeerd de volgende activiteiten uit te voeren:
 
@@ -122,11 +148,11 @@ In deze regeling wordt verstaan onder:
 
 5. [Artikel 1.02, tweede lid, van het Binnenvaartpolitiereglement](https://wetten.overheid.nl/jci1.3:c:BWBR0003628&artikel=1.02) is van overeenkomstige toepassing op dit artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling gemengd afmeren.
 

@@ -1,13 +1,39 @@
 ---
-title: "Begrippencode gas TSB en DSB"
+title: "Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666154 op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de begrippen in de codes voor de TSB en DSB gas (Begrippencode gas TSB en DSB)"
 identifier: "BWBR0052329"
-categorie: "Overig"
-publicatiedatum: 2026-02-21
-laatste_update: 2026-02-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052329"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-02-21"
+last_updated: "2026-02-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052329"
+soort: "zbo"
+stam_id: "17766563"
+version_id: "31408002"
+internal_id: "C44875571"
+label_id: "17664454"
+dtd_version: "2.0"
+original_entry_into_force: "2026-02-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052329/2026-02-21/0"
+intitule_bron: "Stcrt.2026-4097"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-02-05"
+intitule_published: "2026-02-20"
+intitule_in_force: "2026-02-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-4097"
+original_signed_date: "2026-02-05"
+original_published_date: "2026-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-4097"
+entry_into_force_date: "2026-02-21"
+jci_1_3: "jci1.3:c:BWBR0052329&z=2026-02-21&g=2026-02-21"
+jci_1_0: "1.0:c:BWBR0052329&g=2026-02-21"
+citeertitel_status: "officieel"
+short_title: "Begrippencode gas TSB en DSB"
+signed_date: "2026-02-05"
+entry_into_force: "2026-02-21"
 ---
-
 # Besluit van de Autoriteit Consument en Markt van 5 februari 2026, kenmerk ACM/UIT/666154 op grond van artikel 3.121 van de Energiewet, en artikel 12f van de Gaswet juncto artikel 7.42, tweede lid, van de Energiewet over de begrippen in de codes voor de TSB en DSB gas (Begrippencode gas TSB en DSB)
 
 De Autoriteit Consument en Markt,

@@ -1,13 +1,39 @@
 ---
-title: "Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2014, nr. WJZ/483084 (10323), houdende intrekking van diverse regelingen op het terrein van het onderwijs in verband met het feit dat deze hun betekenis hebben verloren, alsmede wijziging van diverse andere regelingen op genoemd terrein in verband met het opnemen van een vervaldatum daarin (Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014)"
 identifier: "BWBR0034689"
-categorie: "Onderwijs"
-publicatiedatum: 2014-01-23
-laatste_update: 2014-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034689"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-23"
+last_updated: "2014-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034689"
+soort: "ministeriele-regeling"
+stam_id: "12558863"
+version_id: "21184862"
+internal_id: "C30406451"
+label_id: "12529634"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034689/2014-01-23/0"
+intitule_bron: "Stcrt.2014-1410"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-01-10"
+intitule_published: "2014-01-22"
+intitule_in_force: "2014-01-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-1410"
+original_signed_date: "2014-01-10"
+original_published_date: "2014-01-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-1410"
+entry_into_force_date: "2014-01-23"
+jci_1_3: "jci1.3:c:BWBR0034689&z=2014-01-23&g=2014-01-23"
+jci_1_0: "1.0:c:BWBR0034689&g=2014-01-23"
+citeertitel_status: "officieel"
+short_title: "Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014"
+signed_date: "2014-01-10"
+entry_into_force: "2014-01-23"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 10 januari 2014, nr. WJZ/483084 (10323), houdende intrekking van diverse regelingen op het terrein van het onderwijs in verband met het feit dat deze hun betekenis hebben verloren, alsmede wijziging van diverse andere regelingen op genoemd terrein in verband met het opnemen van een vervaldatum daarin (Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014)
 
 Handelende in overeenstemming met de Minister van Financiën, de Minister van Economische Zaken en de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Intrekking van regelingen en besluiten
 
-#### Artikel I. Primair onderwijs
+##### Artikel I. Primair onderwijs
 
 Het volgende besluit en de volgende regelingen worden ingetrokken:
 
@@ -48,7 +74,7 @@ Het volgende besluit en de volgende regelingen worden ingetrokken:
 
 - m. [Tijdelijke subsidieregeling capaciteitsuitbreiding buitenschoolse opvang](https://wetten.overheid.nl/jci1.3:c:BWBR0022749).
 
-#### Artikel II. Voortgezet onderwijs
+##### Artikel II. Voortgezet onderwijs
 
 Het volgende besluit en de volgende regelingen worden ingetrokken:
 
@@ -78,7 +104,7 @@ Het volgende besluit en de volgende regelingen worden ingetrokken:
 
 - m. [Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 2 maart 2012, nr. VO/OK/375034, tot wijziging van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen in verband met de vaststelling van het regionaal zorgbudget en de subsidie voor RVC’s voor 2012, en tot vaststelling van de aanvullende bekostiging van reboundvoorzieningen voor 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031389) (Stcrt. 2012, 5800).
 
-#### Artikel III. Beroepsonderwijs en volwasseneneducatie
+##### Artikel III. Beroepsonderwijs en volwasseneneducatie
 
 De volgende regelingen worden ingetrokken:
 
@@ -132,7 +158,7 @@ De volgende regelingen worden ingetrokken:
 
 - y. [Wijziging opleidingenstructuur dt-m.b.o. per 1 augustus 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006682).
 
-#### Artikel IV. Hoger onderwijs
+##### Artikel IV. Hoger onderwijs
 
 De volgende regelingen worden ingetrokken:
 
@@ -142,7 +168,7 @@ De volgende regelingen worden ingetrokken:
 
 - c. [Regeling van de Staatssecretaris van Onderwijs, Kunsten en Wetenschappen van 19 april 1956, nr. 339241, houdende Stelsels stenografie bij het examen leraar stenografie, enz.](https://wetten.overheid.nl/jci1.3:c:BWBR0002214) (Stcrt. 1956, 79).
 
-#### Artikel V. Onderzoek en wetenschapsbeleid
+##### Artikel V. Onderzoek en wetenschapsbeleid
 
 Het volgende besluit en de volgende regeling worden ingetrokken:
 
@@ -150,7 +176,7 @@ Het volgende besluit en de volgende regeling worden ingetrokken:
 
 - b. [Subsidieregeling Aspasia-programma](https://wetten.overheid.nl/jci1.3:c:BWBR0011739).
 
-#### Artikel VI. Arbeidsmarkt en personeelsbeleid/leraren
+##### Artikel VI. Arbeidsmarkt en personeelsbeleid/leraren
 
 De volgende besluiten en regelingen worden ingetrokken:
 
@@ -164,7 +190,7 @@ De volgende besluiten en regelingen worden ingetrokken:
 
 - e. [Subsidieregeling regionale samenwerkingsverbanden en expertisecentra lerarenopleidingen 2006–2008](https://wetten.overheid.nl/jci1.3:c:BWBR0019996).
 
-#### Artikel VII. Dienst uitvoering onderwijs
+##### Artikel VII. Dienst uitvoering onderwijs
 
 De volgende besluiten en regelingen worden ingetrokken:
 
@@ -182,95 +208,95 @@ De volgende besluiten en regelingen worden ingetrokken:
 
 - g. [Regeling vervroegde aflossing van leningen basisonderwijs en (voortgezet) speciaal onderwijs afgesloten in 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0007693).
 
-#### Artikel VIII. Overig
+##### Artikel VIII. Overig
 
 Het [Besluit van de Minister van Onderwijs en Wetenschappen van 16 april 1970, nr. ORG/AUT/6073, houdende Instellingsbeschikking Technische commissie automatisering salarisadministratie onderwijs (T.A.S.O) opnieuw vastgesteld](https://wetten.overheid.nl/jci1.3:c:BWBR0002702) (Stcrt. 1970, 93) wordt ingetrokken.
 
 #### § 2. Vervallen van besluiten en regelingen
 
-#### Artikel IX
+##### Artikel IX
 
 Het [Besluit vaststelling Plan van Scholen 2009–2010–2011](https://wetten.overheid.nl/jci1.3:c:BWBR0024923) vervalt met ingang van 1 augustus 2015.
 
-#### Artikel X
+##### Artikel X
 
 De [Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 maart 2013, nr. VO/488391, tot wijziging van de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen in verband met de vaststelling van het regionaal zorgbudget en de subsidie voor RVC’s voor 2013, en tot vaststelling van de aanvullende bekostiging van reboundvoorzieningen voor 2013](https://wetten.overheid.nl/jci1.3:c:BWBR0032981) (Stcrt. 2013, 6587) vervalt met ingang van 1 januari 2015.
 
-#### Artikel XI
+##### Artikel XI
 
 De [Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 22 juni 2010, nr. VO/214069, houdende wijziging van de Regeling Onderwijs Netwerk Ondernemen en vaststelling subsidieplafond en indieningsperiode voor projecten in 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027852) (Stcrt. 2010, 10269) vervalt met ingang van 1 januari 2016.
 
 #### § 3. Opneming van vervaldatum in regelingen
 
-#### Artikel XII. Wijziging [Regeling aanvullende bekostiging leerlingen met het syndroom van Down voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0015351)
+##### Artikel XII. Wijziging [Regeling aanvullende bekostiging leerlingen met het syndroom van Down voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0015351)
 
 Wijzigt de Regeling aanvullende bekostiging leerlingen met het syndroom van Down voortgezet onderwijs.
 
-#### Artikel XIII. Wijziging [Regeling bevordering internationalisering PO/VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026080)
+##### Artikel XIII. Wijziging [Regeling bevordering internationalisering PO/VO](https://wetten.overheid.nl/jci1.3:c:BWBR0026080)
 
 Wijzigt de Regeling Bevordering internationalisering PO/VO.
 
-#### Artikel XIV. Wijziging [Regeling bevordering kennisfunctie hogescholen](https://wetten.overheid.nl/jci1.3:c:BWBR0027331)
+##### Artikel XIV. Wijziging [Regeling bevordering kennisfunctie hogescholen](https://wetten.overheid.nl/jci1.3:c:BWBR0027331)
 
 Wijzigt de Regeling bevordering kennisfunctie hogescholen.
 
-#### Artikel XV. Wijziging [Tijdelijke regeling subsidie experimenten open bestel](https://wetten.overheid.nl/jci1.3:c:BWBR0020467)
+##### Artikel XV. Wijziging [Tijdelijke regeling subsidie experimenten open bestel](https://wetten.overheid.nl/jci1.3:c:BWBR0020467)
 
 Wijzigt de Tijdelijke regeling subsidie experimenten open bestel.
 
-#### Artikel XVI. Wijziging [Regeling onderwijs netwerk ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0025709)
+##### Artikel XVI. Wijziging [Regeling onderwijs netwerk ondernemen](https://wetten.overheid.nl/jci1.3:c:BWBR0025709)
 
 Wijzigt de Regeling Onderwijs Netwerk Ondernemen.
 
-#### Artikel XVII. Wijziging [Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0019676)
+##### Artikel XVII. Wijziging [Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0019676)
 
 Wijzigt de Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen.
 
-#### Artikel XVIII. Wijziging [Subsidieregeling Programma Akademie-assistenten](https://wetten.overheid.nl/jci1.3:c:BWBR0024570)
+##### Artikel XVIII. Wijziging [Subsidieregeling Programma Akademie-assistenten](https://wetten.overheid.nl/jci1.3:c:BWBR0024570)
 
 Wijzigt de Subsidieregeling Programma Akademie-assistenten.
 
-#### Artikel XIX. Wijziging [Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031387)
+##### Artikel XIX. Wijziging [Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0031387)
 
 Wijzigt de Regeling regionale aanpak voortijdig schoolverlaten en prestatiesubsidie voor het voortgezet onderwijs.
 
-#### Artikel XX. Wijziging [Regeling Sirius programma 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027424)
+##### Artikel XX. Wijziging [Regeling Sirius programma 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027424)
 
 Wijzigt de Regeling Sirius programma 2010.
 
-#### Artikel XXI. Wijziging [Subsidieregeling Sirius Programma](https://wetten.overheid.nl/jci1.3:c:BWBR0023721)
+##### Artikel XXI. Wijziging [Subsidieregeling Sirius Programma](https://wetten.overheid.nl/jci1.3:c:BWBR0023721)
 
 Wijzigt de Subsidieregeling Sirius Programma.
 
-#### Artikel XXII. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
+##### Artikel XXII. Wijziging [Tijdelijke regeling lerarenbeurs voor scholing](https://wetten.overheid.nl/jci1.3:c:BWBR0024246)
 
 Wijzigt de Tijdelijke regeling lerarenbeurs voor scholing.
 
-#### Artikel XXIII. Wijziging [Regeling verankering academische opleidingsschool 2012–2016](https://wetten.overheid.nl/jci1.3:c:BWBR0030705)
+##### Artikel XXIII. Wijziging [Regeling verankering academische opleidingsschool 2012–2016](https://wetten.overheid.nl/jci1.3:c:BWBR0030705)
 
 Wijzigt de Regeling verankering academische opleidingsschool 2012–2016.
 
-#### Artikel XXIV. Wijziging [Subsidieregeling Libertas Noodfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0020124)
+##### Artikel XXIV. Wijziging [Subsidieregeling Libertas Noodfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0020124)
 
 Wijzigt de Subsidieregeling Libertas Noodfonds.
 
-#### Artikel XXV. Wijziging [Subsidieregeling schoolmaatschappelijk werk in het mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0025939)
+##### Artikel XXV. Wijziging [Subsidieregeling schoolmaatschappelijk werk in het mbo](https://wetten.overheid.nl/jci1.3:c:BWBR0025939)
 
 Wijzigt de Subsidieregeling schoolmaatschappelijk werk in het mbo.
 
 #### § 4. Overgangs- en slotbepalingen
 
-#### Artikel XXVI. Overgangsbepaling
+##### Artikel XXVI. Overgangsbepaling
 
 1. Voor zover er ter zake, na het vervallen van de betreffende regeling, nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de [artikelen I tot en met XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034689&paragraaf=1&artikel=I&z=2014-01-23&g=2014-01-23), plaats.
 
 2. Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de [artikelen I tot en met XXV](https://wetten.overheid.nl/jci1.3:c:BWBR0034689&paragraaf=1&artikel=I&z=2014-01-23&g=2014-01-23) blijven in stand.
 
-#### Artikel XXVII. Inwerkingtreding
+##### Artikel XXVII. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel XXVIII. Citeertitel
+##### Artikel XXVIII. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling intrekking OCW-regelingen op het gebied van onderwijs 2014.
 

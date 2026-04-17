@@ -1,13 +1,35 @@
 ---
 title: "Meldplicht datalekken Wet bescherming persoonsgegevens"
 identifier: "BWBR0037346"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2015-12-16
-laatste_update: 2015-12-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037346"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-12-16"
+last_updated: "2015-12-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037346"
+soort: "zbo"
+stam_id: "13345653"
+version_id: "22875362"
+internal_id: "C33074201"
+label_id: "13314184"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037346/2015-12-16/0"
+intitule_bron: "Stcrt.2015-46128"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-12-16"
+intitule_in_force: "2015-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-46128"
+original_published_date: "2015-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-46128"
+entry_into_force_date: "2015-12-16"
+jci_1_3: "jci1.3:c:BWBR0037346&z=2015-12-16&g=2015-12-16"
+jci_1_0: "1.0:c:BWBR0037346&g=2015-12-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-12-16"
 ---
-
 # Meldplicht datalekken Wet bescherming persoonsgegevens
 
 Beleidsregels voor toepassing van [artikel 34a van de Wbp](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34a)

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bestuurlijke boete Visserijwet 1963"
+title: "Besluit van 12 december 2023, tot regeling van de bestuurlijke boete Visserijwet 1963 (Besluit bestuurlijke boete Visserijwet 1963)"
 identifier: "BWBR0049263"
-categorie: "Strafrecht"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049263"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049263"
+soort: "AMvB"
+stam_id: "17007963"
+version_id: "29914762"
+internal_id: "C43020191"
+label_id: "16917914"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049263/2024-04-01/0"
+intitule_bron: "Stb.2023-495"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-12"
+intitule_published: "2023-12-22"
+intitule_in_force: "2024-03-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-495"
+original_signed_date: "2023-12-12"
+original_published_date: "2023-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-495"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049263&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0049263&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bestuurlijke boete Visserijwet 1963"
+signed_date: "2023-12-12"
+entry_into_force: "2024-04-01"
 ---
-
 # Besluit van 12 december 2023, tot regeling van de bestuurlijke boete Visserijwet 1963 (Besluit bestuurlijke boete Visserijwet 1963)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 11 juli 2023, nr. WJZ / 33376640;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. De bestuurlijke boete
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister stelt de hoogte van de bestuurlijke boete die voor een overtreding kan worden opgelegd vast overeenkomstig de volgende categorieën boetebedragen:
 
@@ -68,7 +94,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De berekening van de omzet, bedoeld in het eerste lid, onderdeel k, geschiedt op voet van het bepaalde voor de netto-omzet in [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=377).
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister maakt bij het bepalen van de hoogte van de bestuurlijke boete onderscheid tussen de volgende categorieën overtreders:
 
@@ -90,7 +116,7 @@ Onze Minister maakt bij het bepalen van de hoogte van de bestuurlijke boete onde
 
 - 2°. een onderneming welke op de dag waarop de overtreding werd begaan meer dan 50 werknemers telde, indien de normadressaat van het beboetbare feit niet de eigenaar of kapitein van een vissersvaartuig is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onze Minister maakt bij het bepalen van de hoogte van de bestuurlijke boete voorts onderscheid tussen de volgende categorieën overtredingen:
 
@@ -116,11 +142,11 @@ Onze Minister maakt bij het bepalen van de hoogte van de bestuurlijke boete onde
 
 - b. die gedraging in de toepasselijk verordening, bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie, als ernstige inbreuk is omschreven.
 
-#### Artikel 5
+##### Artikel 5
 
 Onze Minister bepaalt de hoogte van de bestuurlijke boete aan de hand van de in de bijlage bij dit besluit vastgestelde tabel, indien het een overtreding betreft die is opgenomen in de regeling, bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049263&hoofdstuk=2&artikel=4&z=2024-04-01&g=2024-04-01).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien de hoogte van de bestuurlijke boete door het met de overtreding behaalde economisch voordeel aanmerkelijk wordt overschreden, kan Onze Minister ten hoogste het bedrag, bedoeld in [artikel 2, eerste lid, onderdeel k](https://wetten.overheid.nl/jci1.3:c:BWBR0049263&hoofdstuk=2&artikel=2&z=2024-04-01&g=2024-04-01), opleggen. Indien van toepassing neemt Onze Minister hierbij artikel 90, derde lid, van de controleverordening of de artikelen 44, tweede lid, en 46 van [Verordening (EG) nr. 1005/2008](32008R1005) van de Raad van 29 september 2008 houdende de totstandbrenging van een communautair systeem om illegale, ongemelde en ongereglementeerde visserij te voorkomen, tegen te gaan en te beëindigen, tot wijziging van [Verordeningen (EEG) nr. 2847/93](31993R2847), [(EG) nr. 1936/2001](32001R1936) en [(EG) nr. 601/2004](32004R0601) en tot intrekking van [Verordeningen (EG) nr. 1093/94](31994R1093) en [(EG) nr. 1447/1999](31999R1447) (PbEU 2008, L 286) in acht.
 
@@ -132,11 +158,11 @@ Onze Minister bepaalt de hoogte van de bestuurlijke boete aan de hand van de in 
 
 ### Hoofdstuk 3. Overige en slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete Visserijwet 1963.
 

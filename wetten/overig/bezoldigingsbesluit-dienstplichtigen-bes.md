@@ -1,18 +1,43 @@
 ---
 title: "Bezoldigingsbesluit dienstplichtigen BES"
 identifier: "BWBR0028521"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028521"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028521"
+soort: "AMvB-BES"
+stam_id: "10834473"
+version_id: "17813112"
+internal_id: "C24896461"
+label_id: "10809394"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028521/2011-10-09/0"
+intitule_bron: "Stb.2010-431"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-431"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-431"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028521&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028521&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Bezoldigingsbesluit dienstplichtigen BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,11 +49,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Bezoldiging
 
-#### Artikel 2
+##### Artikel 2
 
 Bij regeling van Onze Minister worden de bezoldigingsschalen en de pensioengrondslagen van de ongehuwde en de gehuwde dienstplichtigen vastgesteld, die behoren bij de onderscheiden leeftijden, klassen in de stand van matroos en rangen, die zij kunnen hebben.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De jaarlijkse en maandelijkse bezoldigingen van de dienstplichtigen, die voor eerste oefening of herhalingsoefening in werkelijke dienst zijn, worden naar hun leeftijd vastgesteld aan de hand van bij regeling van Onze Minister vast te stellen bezoldigingschalen.
 
@@ -42,23 +67,23 @@ Bij regeling van Onze Minister worden de bezoldigingsschalen en de pensioengrond
 
 6. De dienstplichtige ontvangt over de tijd, gedurende welke hij in strijd met zijn verplichtingen nalaat zijn dienst te verrichten, geen bezoldiging.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bezoldiging van een vrijwillig nadienende dienstplichtige wordt door Onze Minister bij voldoende bekwaamheid, geschiktheid en voldoende dienstijver periodiek verhoogd op de wijze als in de onderscheiden schalen van bezoldiging is aangegeven naar gelang van de voor de berekening van de bezoldiging geldende diensttijd in de eerste klasse in de stand van matroos dan wel in de rang.
 
 2. Bij onthouding van periodieke verhoging als bedoeld in het eerste lid bepaalt Onze Minister om welke reden zulks zal geschieden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het geval, dat wegens onvoldoende bekwaamheid, geschiktheid en/of onvoldoende dienstijver en periodieke bezoldigingsverhoging niet is toegekend, zullen verdere periodieke verhogingen zoveel later worden toegekend als deze onthouding heeft geduurd.
 
 2. Indien de betrokkene daarna in meer dan voldoende mate bekwaamheid, geschiktheid en/of dienstijver betoont, kunnen de nadelen aan de in het vorige lid bedoelde onthouding verbonden, hetzij met terugwerkende kracht, hetzij voor de toekomst geheel of gedeeltelijk door Onze Minister ongedaan worden gemaakt.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de berekening van de diensttijd, welke aanspraak geeft op periodieke bezoldigingsverhoging, geldt de tijd in werkelijke dienst doorgebracht.
 
-#### Artikel 7
+##### Artikel 7
 
 Als diensttijd, geldig voor de toekenning van periodieke bezoldigingsverhoging, blijft buiten aanmerking:
 
@@ -66,13 +91,13 @@ Als diensttijd, geldig voor de toekenning van periodieke bezoldigingsverhoging, 
 
 - b. de tijd, gedurende welke de vrijwillig nadienende dienstplichtige al maatregel van orde is verboden aan zijn functie verbonden werkzaamheden of andere werkzaamheden en/of diensten te verrichten, tenzij de uitslag van een terzake ingesteld onderzoek te zijnen gunste uitvalt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien het een dienstplichtige dan wel een niet in werkelijke dienst zijnde dienstplichtige op grond van [artikel 27, derde lid, van de Dienstplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028468&artikel=27) is vergund in werkelijke dienst te blijven onderscheidenlijk te komen met ingang van een andere dan de eerste dag van een kalendermaand, worden de voor periodieke bezoldigingsverhogingen gestelde tijdvakken van twee jaren geacht te beginnen op de eerste dag van de onmiddellijk daarop volgende kalandermaand.
 
 2. Indien door onthouding van periodieke bezoldigingsverhogingen gedurende enige tijd of door toepassing van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=7&z=2011-10-09&g=2011-10-09) aanspraak op een periodieke bezoldigingsverhoging zou worden verkregen op een andere dan de eerste dag van een kalendermaand, gaat de periodieke verhoging in op de eerste dag van de onmiddellijk daarop volgende kalendermaand.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de vrijwillig nadienende dienstplichtige wordt met ingang van de eerste dag, waarop hij als zodanig doorlopende werkelijke dienst verricht, een bezoldiging toegekend gelijk aan het laagst bedrag, dat voorkomt in de op hem van toepassing zijnde schaal.
 
@@ -90,13 +115,13 @@ Indien een vooruitgang van bezoldiging wordt verkregen, gelijk aan of minder dan
 
 7. Voor gevallen, waarin de voorgaande leden van dit artikel niet of niet naar billijkheid voorzien, kan door Onze Minister een bijzondere regeling worden getroffen.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan een vrijwillig nadienende dienstplichtige, die bij administratieve maatregel is teruggesteld, wordt met ingang van de dag, waarop die maatregel is ingegaan, een bezoldiging toegekend gelijk aan het hoogste bedrag, voorkomende in de alsdan op hem van toepassing zijnde schaal, dat niet hoger is dan het bedrag, dat laatstelijk v??r de toepassing van de bedoelde maatregel aan bezoldiging is genoten.
 
 ### Hoofdstuk 3. Kindertoelage
 
-#### Artikel 11
+##### Artikel 11
 
 1. Boven en behalve de vastgestelde bezoldiging geniet de gehuwde dienstplichtige voor zijn ongehuwde wettige, gewettigde, geadopteerde en/of stiefkinderen beneden de leeftijd van achttien jaar, laatstgenoemden voor zover zij ten laste van de dienstplichtige komen, een kindertoelage, welke wordt toegekend door of namens Onze Minister.
 
@@ -112,13 +137,13 @@ Aan een vrijwillig nadienende dienstplichtige, die bij administratieve maatregel
 
 5. Voor de toepassing van dit artikel wordt als gehuwd beschouwd de dienstplichtige, die gehuwd of gehuwd geweest is.
 
-#### Artikel 12
+##### Artikel 12
 
 Op de dienstplichtige, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=3&artikel=11&z=2011-10-09&g=2011-10-09), zijn de voor de ambtenaar geldende regelen terzake van de kindertoelage, van overeenkomstige toepassing.
 
 ### Hoofdstuk 4. Kostwinnerstoelage
 
-#### Artikel 13
+##### Artikel 13
 
 1. Aan de ongehuwde dienstplichtige, die enig kostwinner is, kan op zijn verzoek door Onze Minister, na een daartoe door deze ingesteld onderzoek, een kostwinnerstoelage worden toegekend.
 
@@ -126,33 +151,33 @@ Op de dienstplichtige, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3
 
 3. De dienstplichtige, aan wie een kostwinnerstoelage is toegekend, komt niet in aanmerking voor toekenning van een toelage herhalingsoefening als bedoeld in [Hoofdstuk 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=6&z=2011-10-09&g=2011-10-09).
 
-#### Artikel 14
+##### Artikel 14
 
 Op de dienstplichtige, bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=4&artikel=13&z=2011-10-09&g=2011-10-09), zijn de voor de ambtenaar geldende regelen terzake van de kostwinnerstoelage, van overeenkomstige toepassing.
 
 ### Hoofdstuk 5. Toelage buitenland
 
-#### Artikel 15
+##### Artikel 15
 
 Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in Aruba, kan door Onze Minister, indien daartoe naar diens oordeel aanleiding bestaat, terzake van die tewerkstelling een toelage buitenland worden toegekend, waarvan het bedrag door Onze Minister wordt vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in Nederland, wordt terzake van die tewerkstelling een toelage buitenland toegekend ten bedrage van 15% van de bezoldiging, waarop hij op grond van de bepalingen, opgenomen in [Hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&z=2011-10-09&g=2011-10-09), aanspraak heeft.
 
 2. Deze toelage kan door Onze Minister worden verhoogd, voor zover bijzondere omstandigheden daartoe naar zijn oordeel aanleiding geven.
 
-#### Artikel 17
+##### Artikel 17
 
 Aan de vrijwillig nadienende dienstplichtige, die is tewerk gesteld in een gebied buiten het Koninkrijk, wordt terzake van die tewerkstelling een toelage buitenland toegekend, waarvan het bedrag door Onze Minister wordt vastgesteld.
 
-#### Artikel 18
+##### Artikel 18
 
 De toelage buitenland, die op grond van een der voorgaande artikelen van dit Hoofdstuk is toegekend, wordt aan de dienstplichtige uitbetaald tegelijk met zijn bezoldiging.
 
 ### Hoofdstuk 5a. Tegemoetkoming in de kosten voor officieren, belast met bepaalde funkties
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De officier die is belast met de functie van adjudant van de Gouverneur van Aruba, De Gouverneur van Curaçao, de Gouverneur van Sint Maarten of van de Commandant der zeemacht in het Caraïbisch gebied heeft aanspraak op een tegemoetkoming in de kosten die hij in verband met het uitoefenen van zijn functie noodzakelijk moet maken ter zake van:
 
@@ -166,7 +191,7 @@ De toelage buitenland, die op grond van een der voorgaande artikelen van dit Hoo
 
 ### Hoofdstuk 6. Toelage herhalingsoefening
 
-#### Artikel 19
+##### Artikel 19
 
 1. Aan de dienstplichtige, die voor herhalingsoefening in werkelijke dienst is, wordt op zijn verzoek door Onze Minister ter vergoeding van gederfde inkomsten een toelage herhalingsoefening toegekend, waarvan het bedrag gelijk is aan het verschil tussen de inkomsten, die hij zeker zou hebben genoten als zelfstandig ondernemer dan wel uit een dienstbetrekking, indien hij niet in werkelijke dienst zou zijn, en de bezoldiging, waarop hij ingevolge [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028521&hoofdstuk=2&artikel=3&z=2011-10-09&g=2011-10-09) van dit besluit aanspraak heeft, mits het bedrag van de bedoelde inkomsten groter is dan dat van de bezoldiging.
 
@@ -178,7 +203,7 @@ De toelage buitenland, die op grond van een der voorgaande artikelen van dit Hoo
 
 ### Hoofdstuk 6a. Gratificatie ter zake van een ambtsjubileum
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. De nadienende dienstplichtige heeft aanspraak op een gratificatie ter zake van een ambtsjubileum, wanneer hij een, naar het oordeel van Onze Minister eerlijke en trouwe, werkelijke dienst heeft volbracht van:
 
@@ -192,34 +217,34 @@ De toelage buitenland, die op grond van een der voorgaande artikelen van dit Hoo
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 [vervallen]
 
-#### Artikel 21
+##### Artikel 21
 
 [vervallen]
 
-#### Artikel 22
+##### Artikel 22
 
 [vervallen]
 
-#### Artikel 23
+##### Artikel 23
 
 [vervallen]
 
-#### Artikel 24
+##### Artikel 24
 
 [vervallen]
 
-#### Artikel 25
+##### Artikel 25
 
 [vervallen]
 
-#### Artikel 26
+##### Artikel 26
 
 Het landsbesluit houdende algemene maatregelen van de 16de januari 1964 ter uitvoering van artikel 16 lid 3 van de Dienstplichtverordening 1961 (P.B. 1961, no. 223), de Regeling kostwinnersvergoeding dienstplichtigen (P.B. 1964, no. 4), met de desbetreffende wijziging, wordt hierbij ingetrokken.
 
-#### Artikel 27
+##### Artikel 27
 
 Dit besluit wordt aangehaald als: Bezoldigingsbesluit dienstplichtigen BES, treedt in werking met ingang van de dag na die van zijn afkondiging en werkt terug tot en met 1 december 1986.

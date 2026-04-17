@@ -1,13 +1,39 @@
 ---
-title: "Besluit Herinneringsmedaille Buitenlandse Bezoeken"
+title: "Besluit van 20 december 2000, houdende instelling van de Herinneringsmedaille Buitenlandse Bezoeken (Besluit Herinneringsmedaille Buitenlandse Bezoeken)"
 identifier: "BWBR0012067"
-categorie: "Overig"
-publicatiedatum: 2014-10-29
-laatste_update: 2014-10-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012067"
+country: "nl"
+rank: "kb"
+publication_date: "2014-10-29"
+last_updated: "2014-10-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012067"
+soort: "KB"
+stam_id: "1545243"
+version_id: "2291302"
+internal_id: "C2291301"
+label_id: "1501104"
+dtd_version: "2.0"
+original_entry_into_force: "2001-02-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012067/2014-10-29/0"
+intitule_bron: "Stb.2001-74"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2001-02-15"
+intitule_in_force: "2001-02-15"
+intitule_status: "goed"
+original_publication: "Stb.2001-74"
+original_signed_date: "2000-12-20"
+original_published_date: "2001-02-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-74"
+entry_into_force_date: "2001-02-17"
+jci_1_3: "jci1.3:c:BWBR0012067&z=2014-10-29&g=2014-10-29"
+jci_1_0: "1.0:c:BWBR0012067&g=2014-10-29"
+citeertitel_status: "officieel"
+short_title: "Besluit Herinneringsmedaille Buitenlandse Bezoeken"
+signed_date: "2000-12-20"
+entry_into_force: "2001-02-17"
 ---
-
 # Besluit van 20 december 2000, houdende instelling van de Herinneringsmedaille Buitenlandse Bezoeken (Besluit Herinneringsmedaille Buitenlandse Bezoeken)
 
 Op de voordracht van Onze Minister van Buitenlandse Zaken van 12 december 2000, nr. DKP/DE/16/00, gedaan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -18,7 +44,7 @@ overwegende dat deze medaille uitsluitend wordt toegekend bij deze Buitenlandse 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -30,11 +56,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - d. de oorkonde: de oorkonde zoals omschreven in de bij dit besluit behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012067&bijlage=2&z=2014-10-29&g=2014-10-29).
 
-#### Artikel 2
+##### Artikel 2
 
 Er wordt ingesteld de Herinneringsmedaille Buitenlandse Bezoeken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De medaille wordt vanwege Ons toegekend door Onze Minister.
 
@@ -42,17 +68,17 @@ Er wordt ingesteld de Herinneringsmedaille Buitenlandse Bezoeken.
 
 3. De medaille kan aan een persoon één maal worden toegekend.
 
-#### Artikel 4
+##### Artikel 4
 
 De medaille en de oorkonde worden door of namens Onze Minister uitgereikt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Kanselarij der Nederlandse Orden draagt zorg voor de vervaardiging en de verstrekking van de medaille en de oorkonde.
 
 2. De verstrekking geschiedt kosteloos.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Degene aan wie de medaille is toegekend, is bevoegd deze te dragen aan het lint op borsthoogte op de linkerzijde van de kleding.
 
@@ -62,7 +88,7 @@ De medaille en de oorkonde worden door of namens Onze Minister uitgereikt.
 
 4. In plaats van de medaille, de baton of het draagteken mag een verkleinde vorm van de medaille worden gedragen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 

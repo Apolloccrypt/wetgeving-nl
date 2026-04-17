@@ -1,13 +1,39 @@
 ---
-title: "Controlevoorschriften Remigratiewet"
+title: "Besluit van de Sociale verzekeringsbank van 5 februari 2024, houdende controlevoorschriften als bedoeld in artikel 8g, eerste lid, van de Remigratiewet (Controlevoorschriften Remigratiewet 2024)"
 identifier: "BWBR0049453"
-categorie: "Overig"
-publicatiedatum: 2024-03-14
-laatste_update: 2024-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049453"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-03-14"
+last_updated: "2024-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049453"
+soort: "zbo"
+stam_id: "17048103"
+version_id: "29995452"
+internal_id: "C43003251"
+label_id: "16957604"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049453/2024-03-14/0"
+intitule_bron: "Stcrt.2024-7295"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-05"
+intitule_published: "2024-03-12"
+intitule_in_force: "2024-03-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-7295"
+original_signed_date: "2024-02-05"
+original_published_date: "2024-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-7295"
+entry_into_force_date: "2024-03-14"
+jci_1_3: "jci1.3:c:BWBR0049453&z=2024-03-14&g=2024-03-14"
+jci_1_0: "1.0:c:BWBR0049453&g=2024-03-14"
+citeertitel_status: "officieel"
+short_title: "Controlevoorschriften Remigratiewet"
+signed_date: "2024-02-05"
+entry_into_force: "2024-03-14"
 ---
-
 # Besluit van de Sociale verzekeringsbank van 5 februari 2024, houdende controlevoorschriften als bedoeld in artikel 8g, eerste lid, van de Remigratiewet (Controlevoorschriften Remigratiewet 2024)
 
 Gelet op [artikel 8g, eerste lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8g);
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 - j. **wees:** het kind dat op basis van [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5), aanspraak heeft op een wezenuitkering.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit is van toepassing op:
 
@@ -56,11 +82,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Verplichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&hoofdstuk=1&artikel=2&z=2024-03-14&g=2024-03-14), bedoelde persoon stelt de SVB binnen zes weken in kennis van een wijziging in het adres of het burgerservicenummer van zichzelf dan wel zijn partner.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op verzoek van de SVB overlegt de remigrant binnen de door de SVB gestelde termijn:
 
@@ -88,29 +114,29 @@ De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&ho
 
 4. SVB is bevoegd kopieën te maken van de documenten die op grond van dit artikel door of namens de personen bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&hoofdstuk=1&artikel=2&z=2024-03-14&g=2024-03-14), worden verstrekt.
 
-#### Artikel 5
+##### Artikel 5
 
 De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&hoofdstuk=1&artikel=2&z=2024-03-14&g=2024-03-14), bedoelde persoon, beantwoordt vragen van de SVB binnen een door de SVB gestelde redelijke termijn, voor zover dit noodzakelijk is voor een juiste uitvoering van de wet en de hierop berustende bepalingen.
 
-#### Artikel 6
+##### Artikel 6
 
 De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&hoofdstuk=1&artikel=2&z=2024-03-14&g=2024-03-14), bedoelde persoon, verschijnt na een oproep van de SVB op een door de SVB te bepalen redelijk tijdstip op een kantoor dat de persoon in redelijkheid kan bereiken en verstrekt aldaar de gevraagde gegevens.
 
-#### Artikel 7
+##### Artikel 7
 
 De in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049453&hoofdstuk=1&artikel=2&z=2024-03-14&g=2024-03-14), bedoelde persoon, maakt controle mogelijk door personen die daarmee door de SVB zijn belast.
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit van de Sociale verzekeringsbank van 23 juni 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035265) houdende controlevoorschriften als bedoeld in artikel 8g van de Remigratiewet wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Controlevoorschriften Remigratiewet.
 

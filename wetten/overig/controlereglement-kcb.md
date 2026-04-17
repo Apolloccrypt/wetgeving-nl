@@ -1,18 +1,39 @@
 ---
-title: "Controlereglement K.C.B."
+title: "Controlereglement K.C.B"
 identifier: "BWBR0005820"
-categorie: "Overig"
-publicatiedatum: 1993-01-27
-laatste_update: 1993-01-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005820"
+country: "nl"
+rank: "zbo"
+publication_date: "1993-01-27"
+last_updated: "1993-01-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005820"
+soort: "zbo"
+stam_id: "6757943"
+version_id: "11609212"
+internal_id: "C15644341"
+label_id: "6746344"
+original_entry_into_force: "1993-01-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005820/1993-01-27/0"
+intitule_bron: "Stcrt.1993-18"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1993-01-27"
+intitule_in_force: "1993-01-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-18"
+original_published_date: "1993-01-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-01-27"
+jci_1_3: "jci1.3:c:BWBR0005820&z=1993-01-27&g=1993-01-27"
+jci_1_0: "1.0:c:BWBR0005820&g=1993-01-27"
+citeertitel_status: "officieel"
+short_title: "Controlereglement K.C.B."
+entry_into_force: "1993-01-27"
 ---
-
 # Controlereglement K.C.B
 
 Gelet op [artikel 10, derde lid, van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371) maakt de Staatssecretaris van Landbouw, Natuurbeheer en Visserij de tekst bekend van het Controleregelement en het gewijzigde Tuchtreglement van de Vereniging 'Kwaliteits-Controlebureau voor Groenten en Fruit': aan deze reglementen is bij beschikking van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 28 december 1992, No. J. 9220672, goedkeuring verleend.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit reglement wordt verstaan onder:
 
@@ -82,7 +103,7 @@ In dit reglement wordt verstaan onder:
 
 - z. **verklaring**: schriftelijk bewijsstuk, voor een partij groenten en fruit, bestemd voor verhandeling binnen de EG, die voldoet aan de kwaliteitsvoorschriften
 
-#### Artikel 2. Verplichtingen en aansprakelijkheden van aangeslotenen
+##### Artikel 2. Verplichtingen en aansprakelijkheden van aangeslotenen
 
 1. De aangeslotenen en degenen die een controle-certificaat aanvragen, zijn met inachtneming van de bepalingen in artikel 6 van de statuten verplicht:
 
@@ -102,7 +123,7 @@ In dit reglement wordt verstaan onder:
 
 3. De aansprakelijkheid voor de naleving van de uit dit reglement voortvloeiende verplichtingen geldt onverminderd, indien voor anderen werkzaamheden, waarop de bepalingen van dit reglement van toepassing zijn, worden verricht.
 
-#### Artikel 3. Controle
+##### Artikel 3. Controle
 
 1. De normcontrole geschiedt door toetsing van een willekeurig, op verschillende punten in de voor de controle uitgekozen partij genomen globaal monster, waarvan wordt aangenomen dat het voor de partij representatief is.
 
@@ -118,7 +139,7 @@ In dit reglement wordt verstaan onder:
 
 4. Controles op verzoek worden op werkdagen uitsluitend verricht tussen 07.00 en 20.00 uur. Op zaterdag worden controles op verzoek uitsluitend verricht tussen 8.00 en 12.00 uur. Op zondagen en erkende feestdagen worden geen controles op verzoek verricht.
 
-#### Artikel 4. Plaats van controle
+##### Artikel 4. Plaats van controle
 
 De controle van groenten en fruit vindt plaats:
 
@@ -132,7 +153,7 @@ De controle van groenten en fruit vindt plaats:
 
 - e. op alle overige plaatsen onder door het dagelijks bestuur van het KCB per produkt te stellen voorwaarden. Het vorenstaande laat onverlet de bevoegdheid van het KCB in een later stadium nogmaals steekproefsgewijs controle uit te oefenen.
 
-#### Artikel 5. Wijze van controle en monsterneming
+##### Artikel 5. Wijze van controle en monsterneming
 
 1. Ten behoeve van de normcontrole wijst de controleur de partij(en) en colli aan, welke hij wenst te onderzoeken en bepaalt hij de omvang van het globale monster.
 
@@ -148,7 +169,7 @@ De controle van groenten en fruit vindt plaats:
 
 7. Wanneer de controleverrichtingen tot kwaliteitsverlies bij de produkten kunnen leiden, worden, om na te gaan of de produkten inwendige gebreken vertonen, gereduceerde monsters genomen waarvan de omvang tot de voor toetsing van de partij beslist noodzakelijke minimumhoeveelheid beperkt blijft. Indien dergelijke gebreken worden vastgesteld of vermoed, mag de omvang van het gereduceerde monster niet meer bedragen dan 10% van die van het voor de controle aanvankelijk genomen monster.
 
-#### Artikel 6. Controle-certificaat; verklaring
+##### Artikel 6. Controle-certificaat; verklaring
 
 1. Indien groenten en fruit, bestemd voor de uitvoer naar derde landen blijkens de normcontrole voldoen aan de voor die produkten geldende voorschriften wordt een controle-certificaat verstrekt.
 
@@ -176,7 +197,7 @@ De controle van groenten en fruit vindt plaats:
 
 5. Het controle-certificaat. onderscheidenlijk de verklaring, heeft behoudens door het bestuur van het KCB nader te stellen regelen geldigheid gedurende drie dagen, waaronder begrepen de dag van afgifte.
 
-#### Artikel 7. Afkeuring: afkeuringsverklaring
+##### Artikel 7. Afkeuring: afkeuringsverklaring
 
 1. Indien gebreken worden vastgesteld, bepaalt de controleur het percentage van de aantallen, onderscheidenlijk van het gewicht van de niet aan de voorschriften beantwoordende produkten en meldt de controleur de gebreken schriftelijk aan de betrokkene.
 
@@ -186,19 +207,19 @@ De controle van groenten en fruit vindt plaats:
 
 4. Indien de afkeuring uitsluitend de voorschriften betreft als genoemd in de Landbouwkwaliteitsverordening, geeft de controleur een afkeuringsverklaring af, waarin wordt vermeld, dat voor de produkten het merk niet mag worden aangebracht c. q. dient te worden verwijderd.
 
-#### Artikel 8. Industriecertificaat
+##### Artikel 8. Industriecertificaat
 
 1. Het KCB verstrekt een industrie-certificaat, indien groenten en/ of fruit bestemd zijn om buiten het produktiegebied (Nederland) te worden verwerkt.
 
 2. Aan het KCB dient desgewenst te kunnen worden aangetoond, dat de gedeclareerde bestemming zal worden nageleefd en dal voorts al het mogelijke zal worden gedaan, teneinde deze bestemming te verzekeren.
 
-#### Artikel 9. Toezicht
+##### Artikel 9. Toezicht
 
 1. Het toezicht op de naleving van de voorschriften bedoeld in artikel 3, lid 1 en 2 sub a van de statuten kan worden uitgeoefend op alle plaatsen waar groenten en fruit door of namens aangeslotenen worden bewaard, verpakt, gesorteerd, vervoerd of verhandeld.
 
 2. Ten behoeve van het in het eerste lid bedoelde toezicht kan het bestuur van het KCB een (register)accountant aanwijzen voor het nazien van administratieve gegevens van aangeslotenen.
 
-#### Artikel 10. E.G.-vrijstelling
+##### Artikel 10. E.G.-vrijstelling
 
 1. Het KCB verstrekt een ieder die daarom verzoekt en die voldoet aan de voorwaarden en eisen, genoemd in lid 2 en bovendien kan garanderen dat de kwaliteit van de door hem te verhandelen produkten constant is, een vrijstellingsbewijs als bedoeld in artikel 6 van de EG-verordening, in welk geval degene die is vrijgesteld op elke collo het logo aanbrengt naar het model van bijlage III van de EG-verordening, op welk logo te allen tijde het registratienummer van het KCB dient te worden vermeld.
 
@@ -220,7 +241,7 @@ Nadere invulling van bovengenoemde voorwaarden en eisen geschiedt in overleg met
 
 5. De EG-vrijstelling wordt ingetrokken, indien bij de verificatie onregelmatigheden worden vastgesteld, waardoor de produkten niet meer aan de voorschriften voldoen of wanneer niet meer wordt voldaan aan een der voorwaarden, genoemd in de leden 1 en 2.
 
-#### Artikel 11. Bezwaar en beroep
+##### Artikel 11. Bezwaar en beroep
 
 1. Tegen een door of namens het KCB genomen eerste beslissing tot afkeuring, deklassering of ontzegging van het recht het merk aan te brengen of te voeren, kan bezwaar worden gemaakt.
 
@@ -244,13 +265,13 @@ Het beroep laat de beslissing op het bezwaar onverlet.
 
 10. In geval het bestuur zich geheel of deels met de beroepsgrond(en) kan verenigen, zal daarvan aan de betrokken functionarissen, en voor zover nodig, aan andere functionarissen van het KCB in de vorm van instructies mededeling worden gedaan.
 
-#### Artikel 12. Expertise
+##### Artikel 12. Expertise
 
 1. Een ieder kan een uitspraak van het KCB of een van diens functionarissen verkrijgen inzake het al dan niet voldoen aan verplichtende of vrijwillige eisen ten aanzien van groenten en fruit.
 
 2. Desgewenst wordt aan de verzoeker schriftelijk bewijs gegeven van de uitspraak.
 
-#### Artikel 13. Kosten en tarieven
+##### Artikel 13. Kosten en tarieven
 
 1. Het bestuur van het KCB kan bepalen dat normcontroles van groenten en fruit op plaatsen als bedoeld in [artikel 4, sub d. en e.](https://wetten.overheid.nl/jci1.3:c:BWBR0005820&artikel=4&z=1993-01-27&g=1993-01-27) uitsluitend plaats zullen vinden op basis van een redelijke vergoeding voor de gemaakte extra kosten, waarvoor het bestuur van het KCB een tarief vaststelt.
 
@@ -258,7 +279,7 @@ Het beroep laat de beslissing op het bezwaar onverlet.
 
 3. Het bestuur van het KCB kan bepalen, dat het verrichten van expertise geschiedt tegen een vergoeding; in dat geval stelt het bestuur een tarief vast.
 
-#### Artikel 14. Bijzondere bepalingen met betrekking tot het merk
+##### Artikel 14. Bijzondere bepalingen met betrekking tot het merk
 
 1. Het bestuur van het KCB verleent het recht op het gebruik en tot het aanbrengen van het merk aan de merkaanbrenger.
 
@@ -270,12 +291,12 @@ Het beroep laat de beslissing op het bezwaar onverlet.
 
 5. Het vorenstaande laat onverlet, het straf- of tuchtrechtelijk afdoen van een overtreding van de voorschriften, bedoeld in artikel 6 van de statuten.
 
-#### Artikel 15. Werkafspraken met andere controle-instellingen
+##### Artikel 15. Werkafspraken met andere controle-instellingen
 
 1. Voor zover zendingen, bestemd voor uitvoer naar derde landen, geheel bestaan uit in het buitenland geteelde groenten en fruit, dient de aanmelding ter controle te geschieden bij de RVV. De RVV geeft de controle-certificaten af namens het KCB.
 
 2. Werkafspraken met de RVV en overige controle-instellingen liggen ter inzage ten kantore van het PGF.
 
-#### Artikel 16. Slotbepaling
+##### Artikel 16. Slotbepaling
 
 Dit reglement kan worden aangehaald als ‘Controlereglement K.C.B.’.

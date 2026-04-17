@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka inzake technische samenwerking"
 identifier: "BWBV0002681"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-03-02
-laatste_update: 1982-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002681"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-03-02"
+last_updated: "1982-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002681"
+soort: "verdrag"
+stam_id: "10002968733"
+version_id: "10002971442"
+internal_id: "C10006979621"
+label_id: "10002955434"
+dtd_version: "2.0"
+original_entry_into_force: "1982-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002681/1982-03-02/0"
+intitule_bron: "Trb.1981-229"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1981-09-04"
+intitule_published: "1981-10-28"
+intitule_in_force: "1982-06-22"
+intitule_status: "goed"
+original_publication: "Trb.1981-229"
+original_signed_date: "1981-09-04"
+original_published_date: "1981-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1981-229"
+entry_into_force_date: "1982-03-02"
+jci_1_3: "jci1.3:c:BWBV0002681&z=1982-03-02&g=1982-03-02"
+jci_1_0: "1.0:c:BWBV0002681&g=1982-03-02"
+citeertitel_status: "officieel"
+signed_date: "1981-09-04"
+entry_into_force: "1982-03-02"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Democratische Socialistische Republiek Sri Lanka inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Democratische Socialistische Republiek Sri Lanka,
@@ -20,13 +45,13 @@ Voorts geleid door de wens de technische samenwerking te bevorderen en te dien e
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Overeenkomst is de technische samenwerking te bevorderen en te dien einde het juridische en administratieve kader te scheppen voor projecten van technische samenwerking waartoe de bevoegde administratieve autoriteiten van beide Partijen besluiten ten einde uitvoering te geven aan deze Overeenkomst.
 
 2. Een besluit samen te werken als bedoeld in het eerste lid, de bijdragen aan zulke projecten en de wijze waarop de projecten worden uitgevoerd, worden in elk afzonderlijk geval vastgelegd in een tussen de onderscheiden bevoegde administratieve autoriteiten tot stand te brengen akkoord, overeenkomstig de beginselen vervat in deze Overeenkomst.
 
-#### Artikel II
+##### Artikel II
 
 In verband met de projecten zal de Regering van de Democratische Socialistische Republiek Sri Lanka:
 
@@ -44,19 +69,19 @@ In verband met de projecten zal de Regering van de Democratische Socialistische 
 
 - g. ervoor zorg dragen dat het Nederlandse personeel, alsmede de gezinnen daarvan, worden behandeld op een wijze die niet minder gunstig is dan die waarop door een ander land of een andere internationale organisatie aan Sri Lanka toegewezen personeel voor technische bijstand wordt behandeld.
 
-#### Artikel III
+##### Artikel III
 
 1. De Regering van de Democratische Socialistische Republiek Sri Lanka stelt het Nederlandse personeel schadeloos ter zake van elke civiele aansprakelijkheid die rechtstreeks voortvloeit uit de uitoefening van hun werkzaamheden ingevolge deze Overeenkomst, met uitzondering van die handelingen die een misdrijf of bedrog inhouden.
 
 2. Indien de Regering van de Democratische Socialistische Republiek Sri Lanka zulks verzoekt, verschaft de Nederlandse Regering de bevoegde autoriteiten van Sri Lanka de noodzakelijke administratieve bijstand of rechtshulp voor een bevredigende regeling van de problemen die zouden kunnen ontstaan in verband met de toepassing van het eerste lid van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De bepalingen van deze Overeenkomst betreffende het Nederlandse personeel zijn eveneens van toepassing op alle personen, met uitzondering van onderdanen van Sri Lanka, in dienst van de Nederlandse Regering en op alle personen, met uitzondering van onderdanen van Sri Lanka, in dienst van maatschappijen waarmee de Nederlandse Regering een contract heeft gesloten voor het verrichten van werkzaamheden die vallen onder, of die worden ondernomen in verband met deze Overeenkomst.
 
 2. Het ter beschikking gestelde Nederlandse personeel kan werkzaamheden uitoefenen van operationele of adviserende aard.
 
-#### Artikel V
+##### Artikel V
 
 1. De Regering van de Democratische Socialistische Republiek Sri Lanka verleent vrijstelling van alle invoer- en uitvoerrechten betreffende de uitrusting, waaronder begrepen motorvoertuigen en andere door de Nederlandse Regering in verband met de in artikel 1 bedoelde projecten verschafte middelen, mits deze goederen weer worden uitgevoerd of van de hand worden gedaan op een wijze als door de Regering van de Democratische Socialistische Republiek Sri Lanka wordt bepaald, bij de beëindiging van de onderscheiden projecten of op een eerder tijdstip.
 
@@ -64,13 +89,13 @@ In verband met de projecten zal de Regering van de Democratische Socialistische 
 
 3. Onverminderd de deviezenvoorschriften van Sri Lanka worden geen valuta- of deviezenbeperkingen opgelegd aan fondsen die door de Nederlandse Regering uit externe bronnen binnen Sri Lanka worden gebracht voor doeleinden die in overeenstemming zijn met deze Overeenkomst. Saldi van bankrekeningen, waarop uitsluitend wordt gestort uit deze fondsen zijn vrij inwisselbaar in elke convertibele valuta.
 
-#### Artikel VI
+##### Artikel VI
 
 Voor het vervolg op en de evaluatie van de samenwerking krachtens deze Overeenkomst zijn de bevoegde autoriteiten steeds wanneer zulks noodzakelijk is voor elkaar beschikbaar voor overleg en verschaffen zij elkaar al de ter zake dienende gegevens omtrent de samenwerking waarom redelijkerwijs kan worden verzocht.
 
 De Regering van Sri Lanka stelt voorts, wanneer zulks passend en uitvoerbaar is, vertegenwoordigers van de Nederlandse Regering in staat een studie te maken van de diverse door de Nederlandse Regering gesteunde activiteiten.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Deze Overeenkomst treedt in werking op de datum waarop de beide Regeringen elkaar schriftelijk hebben medegedeeld dat aan de daarvoor in hun onderscheiden landen constitutioneel vereiste procedures is voldaan.
 

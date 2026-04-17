@@ -1,24 +1,50 @@
 ---
-title: "Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase"
+title: "Beleidsregel van de Minister van Economische Zaken van 27 september 2005, nr. WJZ 5061320, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2005 tweede fase (Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase)"
 identifier: "BWBR0018805"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-10-17
-laatste_update: 2005-10-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018805"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-10-17"
+last_updated: "2005-10-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018805"
+soort: "beleidsregel"
+stam_id: "7408683"
+version_id: "12343462"
+internal_id: "C16589491"
+label_id: "7396544"
+dtd_version: "2.0"
+original_entry_into_force: "2005-10-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018805/2005-10-17/0"
+intitule_bron: "Stcrt.2005-194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-09-27"
+intitule_published: "2005-10-06"
+intitule_in_force: "2005-10-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-194"
+original_signed_date: "2005-09-27"
+original_published_date: "2005-10-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-194-p12-SC71740"
+entry_into_force_date: "2005-10-17"
+jci_1_3: "jci1.3:c:BWBR0018805&z=2005-10-17&g=2005-10-17"
+jci_1_0: "1.0:c:BWBR0018805&g=2005-10-17"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase"
+signed_date: "2005-09-27"
+entry_into_force: "2005-10-17"
 ---
-
 # Beleidsregel van de Minister van Economische Zaken van 27 september 2005, nr. WJZ 5061320, omtrent de uitvoering van de artikelen 1 en 2 van de Subsidieregeling pilot innovatievouchers 2005 tweede fase (Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase)
 
 Gelet op de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018804&artikel=1) en [2 van de Subsidieregeling pilot innovatievouchers 2005 tweede fase](https://wetten.overheid.nl/jci1.3:c:BWBR0018804&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste drie, niet in een groep verbonden, ondernemers.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister verstrekt op aanvraag een innovatievoucher aan:
 
@@ -42,13 +68,13 @@ In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rec
 
 - e. die een innovatievoucher heeft gekregen op grond van de [Beleidsregel verstrekking innovatievouchers 2004](https://wetten.overheid.nl/jci1.3:c:BWBR0017163) of de Beleidsregel verstrekking innovatievouchers 2005.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag door een ondernemer wordt ingediend met gebruikmaking van een formulier, overeenkomstig het model dat is opgenomen in de bij deze beleidsregel behorende [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018805&bijlage=1&z=2005-10-17&g=2005-10-17) en gaat vergezeld van de bescheiden, overeenkomstig hetgeen in het formulier is vermeld.
 
 2. In geval van een samenwerkingsverband als bedoeld in [artikel 2, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0018805&artikel=2&z=2005-10-17&g=2005-10-17), dient een der deelnemers namens de overige deelnemers in het samenwerkingsverband de aanvraag voor het samenwerkingsverband in, met gebruikmaking van een formulier, overeenkomstig het model dat is opgenomen in de bij deze beleidsregel behorende [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018805&bijlage=2&z=2005-10-17&g=2005-10-17) en gaat de aanvraag vergezeld van bewijsstukken van het bestaan van dit samenwerkingsverband, alsmede de bescheiden, overeenkomstig hetgeen in het formulier is vermeld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In 2005 zijn op grond van de Subsidieregeling pilot innovatievouchers 2005 tweede fase:
 
@@ -66,21 +92,21 @@ In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rec
 
 6. Indien na afloop van de termijn, genoemd in het tweede lid, blijkt dat niet alle innovatievouchers voor een categorie ondernemers, bedoeld in het eerste lid, onder a of b, zijn verstrekt, worden de resterende innovatievouchers toegevoegd aan het beschikbare aantal vouchers voor de andere categorie ondernemers. Zij zullen, op de wijze als in dit artikel bepaald, worden verdeeld onder de ondernemers die reeds een aanvraag om een innovatievoucher hadden ingediend, maar voor wie eerder, na toepassing van het eerste tot en met vijfde lid, onvoldoende vouchers beschikbaar waren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De minister geeft een beschikking binnen zes weken na ontvangst van de aanvraag.
 
 2. In afwijking van het eerste lid kan de minister de beslissing op aanvragen van ondernemers voor wie na toepassing van [artikel 4, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018805&artikel=4&z=2005-10-17&g=2005-10-17), onvoldoende innovatievouchers beschikbaar waren, aanhouden in afwachting van de toepassing van [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018805&artikel=4&z=2005-10-17&g=2005-10-17).
 
-#### Artikel 6
+##### Artikel 6
 
 Een op basis van deze beleidsregel verstrekte innovatievoucher kan tot 1 maart 2006 bij een kennisinstelling worden ingeleverd.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze beleidsregel treedt in werking met ingang van 17 oktober 2005.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase.
 

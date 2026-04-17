@@ -1,18 +1,42 @@
 ---
 title: "Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren"
 identifier: "BWBR0011753"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2000-12-14
-laatste_update: 2000-12-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011753"
+country: "nl"
+rank: "zbo"
+publication_date: "2000-12-14"
+last_updated: "2000-12-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011753"
+soort: "zbo"
+stam_id: "6544883"
+version_id: "11339852"
+internal_id: "C15276661"
+label_id: "6533484"
+original_entry_into_force: "2000-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011753/2000-12-14/0"
+intitule_bron: "Stcrt.2000-243"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-02"
+intitule_published: "2000-12-14"
+intitule_in_force: "2000-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-243"
+original_signed_date: "2000-11-02"
+original_published_date: "2000-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-243-p26-SC26786"
+entry_into_force_date: "2000-12-14"
+jci_1_3: "jci1.3:c:BWBR0011753&z=2000-12-14&g=2000-12-14"
+jci_1_0: "1.0:c:BWBR0011753&g=2000-12-14"
+citeertitel_status: "redactioneel"
+signed_date: "2000-11-02"
+entry_into_force: "2000-12-14"
 ---
-
 # Regels inkomstenderving vrijgevestigde medische beroepsbeoefenaren
 
 Gelet op [artikel 2, vijfde lid, van het Besluit sanering instellingen voor gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0011192&artikel=2).
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regels wordt verstaan onder:
 
@@ -44,11 +68,11 @@ In deze regels wordt verstaan onder:
 |   | t-1 |   |   |   |   | 100 |
 |   | referentiejaar |   |   |   |   | 80 |
 
-#### Artikel 2
+##### Artikel 2
 
 Indien een ziekenhuisvoorziening aanspraak maakt op vergoeding van saneringskosten ten behoeve van vrijgevestigde medische beroepsbeoefenaren dient zij deze post in de liquidatiebegroting op te nemen.
 
-#### Artikel 3
+##### Artikel 3
 
 Met betrekking tot de vrijgevestigde medische beroepsbeoefenaren dient de ziekenhuisvoorziening de volgende gegevens te verstrekken:
 
@@ -62,15 +86,15 @@ Met betrekking tot de vrijgevestigde medische beroepsbeoefenaren dient de zieken
 
 - e. opgave of eventuele saneringskosten met betrekking tot de vrij gevestigde medische beroepsbeoefenaren aan de ziekenhuisvoorziening moeten worden uitgekeerd, dan wel rechtstreeks aan de betrokken beroepsbeoefenaar.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvang van een compensabele periode ligt niet vóór de datum waarop de minister zijn voornemen tot sluiting kenbaar heeft gemaakt conform [artikel 18a, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18a).
 
-#### Artikel 5
+##### Artikel 5
 
 Er kan eerst sprake zijn van compensatie in geval van een sterke daling van de inkomsten van de vrijgevestigde medische beroepsbeoefenaar ten gevolge van besluitvorming door de minister als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0011753&artikel=4&z=2000-12-14&g=2000-12-14). Zulks is aan de orde wanneer de praktijkinkomsten meer dan 10% per boekjaar dalen ten opzichte van het referentiejaar.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Ten aanzien van het referentiejaar, als bedoeld in [artikel 1 onder i](https://wetten.overheid.nl/jci1.3:c:BWBR0011753&artikel=1&z=2000-12-14&g=2000-12-14), geldt dat dit referentiejaar niet verder in de tijd terug kan liggen dan het jaar voorafgaand aan het jaar waarin de minister zijn voornemen tot sluiting kenbaar heeft gemaakt conform [artikel 18a, tweede lid, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=18a).
 
@@ -88,11 +112,11 @@ Stel, de sluitingsdatum is 1 februari 2000. Dan is de periode, waarover compensa
 
 Voorafgaand aan de sluitingsbeslissing kan pas sprake zijn van saneringskosten vanaf het besluit van de minister tot het voornemen tot sluiting. Wanneer dit voornemen besloten is in het jaar voorafgaand aan de sluiting, bijvoorbeeld 1 juli 1999, dan zal de periode waarover compensatie kan worden verkregen korter worden. In dit geval wordt de periode waarover compensatie verkregen kan worden 1 juli 1999 tot 1 februari 2000, te weten 7 maanden.
 
-#### Artikel 7
+##### Artikel 7
 
 Als de vrijgevestigde medische beroepsbeoefenaar deel uitmaakt van een specialisme, worden de gegevens van het gehele specialisme in de betreffende ziekenhuisvoorziening betrokken bij de behandeling van het verzoek. Uitgegaan wordt van het gemiddelde per lid. Een teruggang in de praktijkomzet kan niet bij één lid van het specialisme worden geconcentreerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de bepaling van de compensatie wordt het gehele praktijkinkomen betrokken.
 
@@ -114,7 +138,7 @@ Kosten meewerkende echtgenote/echtgenoot of rentekosten worden niet afzonderlijk
 
 6. Als een ziekenhuisvoorziening in de loop van het jaar wordt gesloten, worden de praktijkkosten van de beroepsbeoefenaar over dat jaar naar tijdsevenredigheid verdeeld.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor het verkrijgen van een eventueel voorschot dient de betrokken ziekenhuisvoorziening, dan wel, bij rechtstreekse betaling aan de vrij gevestigde medische beroepsbeoefenaar, de betrokken beroepsbeoefenaar, zich vooraf bereid te verklaren een eventueel teveel betaald voorschot terug te storten.
 

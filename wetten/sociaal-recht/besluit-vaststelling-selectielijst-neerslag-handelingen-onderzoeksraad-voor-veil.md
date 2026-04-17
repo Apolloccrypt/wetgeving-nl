@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen Onderzoeksraad voor Veiligheid en zijn directe voorgangers beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing vanaf 1999"
 identifier: "BWBR0022279"
-categorie: "Sociaal recht"
-publicatiedatum: 2007-08-01
-laatste_update: 2007-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022279"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-08-01"
+last_updated: "2007-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022279"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9163583"
+version_id: "14662662"
+internal_id: "C25327231"
+label_id: "9142384"
+dtd_version: "2.0"
+original_entry_into_force: "2007-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022279/2007-08-01/0"
+intitule_bron: "Stcrt.2007-144"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-05"
+intitule_published: "2007-07-30"
+intitule_in_force: "2007-07-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-144"
+original_signed_date: "2007-07-05"
+original_published_date: "2007-07-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-144-p15-SC81354"
+entry_into_force_date: "2007-08-01"
+jci_1_3: "jci1.3:c:BWBR0022279&z=2007-08-01&g=2007-08-01"
+jci_1_0: "1.0:c:BWBR0022279&g=2007-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2007-07-05"
+entry_into_force: "2007-08-01"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen Onderzoeksraad voor Veiligheid en zijn directe voorgangers beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing vanaf 1999
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 28 juni 2007, 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Onderzoeksraad voor Veiligheid en zijn directe voorgangers en de onder hem ressorterende actoren op het beleidsterrein Brandweerzorg, rampenbestrijding en crisisbeheersing over de periode vanaf 1999’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

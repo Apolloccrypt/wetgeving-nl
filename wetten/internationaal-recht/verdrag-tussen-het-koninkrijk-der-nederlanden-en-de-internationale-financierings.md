@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Financieringsmaatchappij (IFC) inzake het African Training and Management Services (ATMS) Project van het Ontwikkelingsprogramma van de Verenigde Naties"
 identifier: "BWBV0002068"
-categorie: "Internationaal recht"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002068"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002068"
+soort: "verdrag"
+stam_id: "10002649263"
+version_id: "10005727902"
+internal_id: "C10008931061"
+label_id: "10002637924"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002068/2016-01-01/0"
+intitule_bron: "Trb.2015-137"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2015-08-19"
+intitule_in_force: "2015-08-19"
+intitule_status: "vervallen"
+original_publication: "Trb.2015-137"
+original_published_date: "2015-08-19"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2015-137"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBV0002068&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBV0002068&g=2016-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2016-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Internationale Financieringsmaatchappij (IFC) inzake het African Training and Management Services (ATMS) Project van het Ontwikkelingsprogramma van de Verenigde Naties
 
 The Government of the Kingdom of the Netherlands and the International Finance Corporation;
@@ -24,71 +46,71 @@ And that it is desirable to grant certain privileges for this United Nations Dev
 
 Have agreed as follows:
 
-#### Article 1
+##### Article 1
 
 Vervallen
 
-#### Article 2
+##### Article 2
 
 Vervallen
 
-#### Article 3
+##### Article 3
 
 Vervallen
 
-#### Article 4
+##### Article 4
 
 Vervallen
 
-#### Article 5
+##### Article 5
 
 Vervallen
 
-#### Article 6
+##### Article 6
 
 Vervallen
 
-#### Article 7
+##### Article 7
 
 Vervallen
 
-#### Article 8
+##### Article 8
 
 Vervallen
 
-#### Article 9
+##### Article 9
 
 Vervallen
 
-#### Article 10
+##### Article 10
 
 Vervallen
 
-#### Article 11
+##### Article 11
 
 Vervallen
 
-#### Article 12
+##### Article 12
 
 Vervallen
 
-#### Article 13
+##### Article 13
 
 Vervallen
 
-#### Article 14
+##### Article 14
 
 Vervallen
 
-#### Article 15
+##### Article 15
 
 Vervallen
 
-#### Article 16
+##### Article 16
 
 Vervallen
 
-#### Article 17
+##### Article 17
 
 Vervallen
 

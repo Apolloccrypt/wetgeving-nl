@@ -1,13 +1,39 @@
 ---
-title: "Besluit ambulancezorgvoorzieningen"
+title: "Besluit van 20 november 2020, houdende bepalingen inzake de uitwisseling van gegevens tussen Regionale Ambulancevoorzieningen en afdelingen spoedeisende hulp en aanpassingen van verschillende algemene maatregelen van bestuur vanwege de invoering van de Wet ambulancezorgvoorzieningen (Besluit ambulancezorgvoorzieningen)"
 identifier: "BWBR0044443"
-categorie: "Sociaal recht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044443"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044443"
+soort: "AMvB"
+stam_id: "15737383"
+version_id: "27267662"
+internal_id: "C38525351"
+label_id: "15676014"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044443/2021-01-01/0"
+intitule_bron: "Stb.2020-490"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-20"
+intitule_published: "2020-12-02"
+intitule_in_force: "2020-12-02"
+intitule_status: "goed"
+original_publication: "Stb.2020-490"
+original_signed_date: "2020-11-20"
+original_published_date: "2020-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-490"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044443&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0044443&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ambulancezorgvoorzieningen"
+signed_date: "2020-11-20"
+entry_into_force: "2021-01-01"
 ---
-
 # Besluit van 20 november 2020, houdende bepalingen inzake de uitwisseling van gegevens tussen Regionale Ambulancevoorzieningen en afdelingen spoedeisende hulp en aanpassingen van verschillende algemene maatregelen van bestuur vanwege de invoering van de Wet ambulancezorgvoorzieningen (Besluit ambulancezorgvoorzieningen)
 
 Op de voordracht van Onze Minister voor Medische Zorg van 21 september 2020, kenmerk 1743288-210008-WJZ;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Medische Zorg van 18 november 20
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De volgende persoonsgegevens worden van de afdelingen spoedeisende hulp door de Regionale Ambulancevoorziening ontvangen:
 
@@ -36,43 +62,43 @@ Hebben goedgevonden en verstaan:
 
 3. De gegevens, bedoeld in het eerste en tweede lid, worden alleen gebruikt ten behoeve van kwaliteitsbewaking, -beheersing en -bevordering van de ambulancezorg in het kader van [artikel 4 van de Wet ambulancezorgvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043925&artikel=4) en worden alleen ingezien door de behandelend ambulancezorgprofessional en de medisch eindverantwoordelijke bij de Regionale Ambulancevoorziening.
 
-#### Artikel 2
+##### Artikel 2
 
 De bewaartermijn van de gegevens, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0044443&artikel=1&z=2021-01-01&g=2021-01-01), is maximaal een jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Besluit beschikbaarheidbijdrage WMG.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Besluit personenvervoer 2000.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Besluit Wmcz 2018.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit openbaarmaking toezicht- en uitvoeringsgegevens Gezondheidswet en Jeugdwet.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto's en motorrijwielen 1992 en het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Uitvoeringsbesluit WTZi.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit treedt in werking met ingang van 1 januari 2021.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit ambulancezorgvoorzieningen.
 

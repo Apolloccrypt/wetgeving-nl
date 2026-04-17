@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling van de status einde-afval van recyclinggranulaat"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2015, nr. IENM/BSK-2015/18222, houdende vaststelling van regels ter bepaling van de status einde-afval van recyclinggranulaat (Regeling vaststelling van de status einde-afval van recyclinggranulaat)"
 identifier: "BWBR0036239"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036239"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036239"
+soort: "ministeriele-regeling"
+stam_id: "12975623"
+version_id: "27420252"
+internal_id: "C38714851"
+label_id: "12944704"
+dtd_version: "2.0"
+original_entry_into_force: "2020-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036239/2024-01-01/0"
+intitule_bron: "Stcrt.2015-3498"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-02-05"
+intitule_published: "2015-02-06"
+intitule_in_force: "2015-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-64380"
+original_signed_date: "2020-12-01"
+original_published_date: "2020-12-03"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2020-64380"
+entry_into_force_date: "2020-12-01"
+jci_1_3: "jci1.3:c:BWBR0036239&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0036239&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling van de status einde-afval van recyclinggranulaat"
+signed_date: "2020-12-01"
+entry_into_force: "2020-12-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2015, nr. IENM/BSK-2015/18222, houdende vaststelling van regels ter bepaling van de status einde-afval van recyclinggranulaat (Regeling vaststelling van de status einde-afval van recyclinggranulaat)
 
 Gelet op [artikel 1.1, zesde lid, tweede volzin, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1);
 
 BESLUIT:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - **verordening bouwproducten:** verordening (EU) nr. 305/2011 van het Europees Parlement en de Raad van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van [Richtlijn 89/106/EEG](31989L0106) van de Raad (PbEU 2011, L88).
 
-#### Artikel 2. Recyclinggranulaat geen afval
+##### Artikel 2. Recyclinggranulaat geen afval
 
 1. Recyclinggranulaat dat voldoet aan de [artikelen 3 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&artikel=3&z=2024-01-01&g=2024-01-01) van deze regeling is geen afvalstof.
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 - c. de eisen in de regelgeving van de andere lidstaat een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met deze regeling wordt nagestreefd.
 
-#### Artikel 3. Eisen aan te bewerken steenachtige afvalstoffen tot recyclinggranulaat
+##### Artikel 3. Eisen aan te bewerken steenachtige afvalstoffen tot recyclinggranulaat
 
 1. Steenachtige afvalstoffen die tot recyclinggranulaat worden bewerkt, zijn geen gevaarlijke afvalstoffen.
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 - b. op het moment waarop de te bewerken steenachtige afvalstoffen worden aangeboden en ten minste eenmaal tijdens het bewerkingsproces van die afvalstoffen.
 
-#### Artikel 4. Productiecontrole
+##### Artikel 4. Productiecontrole
 
 1. Het toevoegen van toeslagstoffen aan recyclinggranulaat is toegestaan indien:
 
@@ -112,7 +138,7 @@ In deze regeling wordt verstaan onder:
 
 5. Monsterneming van recyclinggranulaat ten behoeve van civieltechnische aspecten vindt plaats overeenkomstig NEN-EN 932-1 of overeenkomstig eisen die gelijkwaardig zijn aan het gestelde in die norm.
 
-#### Artikel 5. Productkwaliteit
+##### Artikel 5. Productkwaliteit
 
 1. Recyclinggranulaat voor toepassing op of in bodem, grond- of oppervlaktewater voldoet aan de samenstellingswaarden en de emissiewaarden die zijn vermeld in [bijlage A van de Regeling bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0023085&bijlage=A).
 
@@ -124,7 +150,7 @@ In deze regeling wordt verstaan onder:
 
 - b. bij verontreinigingen met een soortgelijke massa meer dan 1.000 kg/m3: 1%.
 
-#### Artikel 6. Conformiteitverklaring
+##### Artikel 6. Conformiteitverklaring
 
 1. Voor recyclinggranulaat dat voldoet aan deze regeling wordt door de producent na de productie een conformiteitverklaring als bedoeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036239&bijlage=2&z=2024-01-01&g=2024-01-01), opgesteld.
 
@@ -134,7 +160,7 @@ In deze regeling wordt verstaan onder:
 
 4. Bij ieder transport van recyclinggranulaat is een transportdocument aanwezig waarop een verwijzing naar de conformiteitverklaring is opgenomen.
 
-#### Artikel 7. Kwaliteitsborging
+##### Artikel 7. Kwaliteitsborging
 
 1. De producent beschikt over een kwaliteitsborgingssysteem dat voldoet aan NEN-EN 13242:2003+A1:2008 of aan eisen die gelijkwaardig zijn aan het gestelde in die norm.
 
@@ -160,11 +186,11 @@ In deze regeling wordt verstaan onder:
 
 - b. het recyclinggranulaat is gecertificeerd volgens een nationaal certificeringsschema, bevattende alle onderdelen, genoemd in onder a, waarop de prestatieverklaring, bedoeld in onder a, geen betrekking heeft.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-afval van recyclinggranulaat.
 
@@ -198,7 +224,7 @@ Deze regeling wordt aangehaald als: Regeling vaststelling van de status einde-af
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a. Grondslag
+##### Artikel 1a. Grondslag
 
 Deze regeling berust op [artikel 1.1, vierde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.1).
 

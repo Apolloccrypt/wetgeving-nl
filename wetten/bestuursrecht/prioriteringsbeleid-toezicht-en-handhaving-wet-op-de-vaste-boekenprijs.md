@@ -1,13 +1,35 @@
 ---
 title: "Prioriteringsbeleid toezicht en handhaving Wet op de vaste boekenprijs"
 identifier: "BWBR0034894"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-03-14
-laatste_update: 2014-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034894"
+country: "nl"
+rank: "zbo"
+publication_date: "2014-03-14"
+last_updated: "2014-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034894"
+soort: "zbo"
+stam_id: "12596593"
+version_id: "21266922"
+internal_id: "C30539821"
+label_id: "12567114"
+dtd_version: "2.0"
+original_entry_into_force: "2014-03-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034894/2014-03-14/0"
+intitule_bron: "Stcrt.2014-7101"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2014-03-14"
+intitule_in_force: "2014-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-7101"
+original_published_date: "2014-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-7101"
+entry_into_force_date: "2014-03-14"
+jci_1_3: "jci1.3:c:BWBR0034894&z=2014-03-14&g=2014-03-14"
+jci_1_0: "1.0:c:BWBR0034894&g=2014-03-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "2014-03-14"
 ---
-
 # Prioriteringsbeleid toezicht en handhaving Wet op de vaste boekenprijs
 
 Het Commissariaat voor de Media geeft met dit beleid inzicht in de wijze waarop hij naleving van de [Wet op de vaste boekenprijs](https://wetten.overheid.nl/jci1.3:c:BWBR0017452) (hierna: de Wvbp) bevordert.

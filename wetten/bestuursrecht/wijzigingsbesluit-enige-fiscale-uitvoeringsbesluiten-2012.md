@@ -1,28 +1,54 @@
 ---
-title: "Wijzigingsbesluit enige fiscale uitvoeringsbesluiten (2012)"
+title: "Besluit van 22 december 2011 tot wijziging van enige fiscale uitvoeringsbesluiten"
 identifier: "BWBR0031017"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031017"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031017"
+soort: "AMvB"
+stam_id: "11601713"
+version_id: "19135802"
+internal_id: "C26681551"
+label_id: "11574874"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031017/2013-01-01/0"
+intitule_bron: "Stb.2011-677"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-12-22"
+intitule_published: "2011-12-30"
+intitule_in_force: "2011-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2011-677"
+original_signed_date: "2011-12-22"
+original_published_date: "2011-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2011-677"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0031017&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0031017&g=2013-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit enige fiscale uitvoeringsbesluiten (2012)"
+signed_date: "2011-12-22"
+entry_into_force: "2012-01-01"
 ---
-
 # Besluit van 22 december 2011 tot wijziging van enige fiscale uitvoeringsbesluiten
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel IV
+##### Artikel IV
 
 1. Ten aanzien van een werknemer ten aanzien van wie de bewijsregel, bedoeld in [artikel 10ea van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=10ea), of, voor zover de inhoudingsplichtige een keuze heeft gemaakt als bedoeld in [artikel 39c van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39c), de bewijsregel, bedoeld in [artikel 9 van het Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489&artikel=9) zoals dat luidde op 31 december 2010, op 31 december 2011 wordt toegepast:
 
@@ -32,75 +58,75 @@ Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
 2. Ingeval de werknemer, bedoeld in het eerste lid, na 31 december 2011 door een andere inhoudingsplichtige wordt tewerkgesteld, wordt die inhoudingsplichtige voor de toepassing van het eerste lid geacht dezelfde inhoudingsplichtige te zijn als de inhoudingsplichtige door wie de werknemer op 31 december 2011 werd tewerkgesteld.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
-#### Artikel VI
+##### Artikel VI
 
 Het [besluit van 20 augustus 1971, houdende vrijstelling van vennootschapsbelasting voor lichamen bij welke de behartiging van een algemeen maatschappelijk belang op de voorgrond staat](https://wetten.overheid.nl/jci1.3:c:BWBR0002782) (Stb. 1971, 559), wordt ingetrokken.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit fiscale eenheid 2003.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Uitvoeringsbesluit Successiewet 1956.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Uitvoeringsbesluit belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Uitvoeringsbesluit motorrijtuigenbelasting 1994.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit belasting zware motorrijtuigen.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Algemeen douanebesluit.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Uitvoeringsbesluit accijns.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Besluit gegevensverstrekking Wet waardering onroerende zaken.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Besluit voorkoming dubbele belasting 2001.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Voor het kalenderjaar 2010 worden de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=23) en [24 van het Besluit voorkoming dubbele belasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012095&artikel=24) als volgt gelezen:
 
@@ -130,7 +156,7 @@ Voor het kalenderjaar 2010 worden de [artikelen 23](https://wetten.overheid.nl/j
 
 - 7. In afwijking van het zesde lid, wordt, indien het inkomen van een belastingplichtige hoofdzakelijk uit een Mogendheid afkomstig is en die Mogendheid bij de belastingheffing van het inkomen de persoonlijke- en gezinssituatie van de belastingplichtige volledig in aanmerking neemt, of op grond van het Verdrag betreffende de werking van de Europese Unie gehouden is de persoonlijke- en gezinssituatie volledig in aanmerking te nemen, het noemerinkomen vermeerderd met de op het belastbaar inkomen uit sparen en beleggen in het jaar in mindering gebrachte persoonsgebonden aftrek, alsmede met het forfaitair rendement, bedoeld in [artikel 5.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.2), van het in aanmerking genomen heffingvrije vermogen. De vorige volzin is van overeenkomstige toepassing met betrekking tot een Mogendheid, niet zijnde een lidstaat van de Europese Unie, die als zij een zodanige lidstaat zou zijn, gehouden zou zijn om op grond van het Verdrag betreffende de werking van de Europese Unie de persoonlijke- en gezinssituatie volledig in aanmerking te nemen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2012, met dien verstande dat:
 

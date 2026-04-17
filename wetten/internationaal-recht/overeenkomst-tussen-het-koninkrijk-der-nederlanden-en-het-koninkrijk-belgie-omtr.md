@@ -1,13 +1,37 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België omtrent de grensscheiding tussen de beide Rijken in het Zwin"
 identifier: "BWBV0006025"
-categorie: "Internationaal recht"
-publicatiedatum: 1869-08-31
-laatste_update: 1869-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006025"
+country: "nl"
+rank: "verdrag"
+publication_date: "1869-08-31"
+last_updated: "1869-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006025"
+soort: "verdrag"
+stam_id: "10004989863"
+version_id: "10005309472"
+internal_id: "C10008179331"
+label_id: "10004972844"
+dtd_version: "2.0"
+original_entry_into_force: "1869-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006025/1869-08-31/0"
+intitule_bron: "Stb.1869-150"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1869-09-04"
+intitule_published: "1869-09-14"
+intitule_in_force: "1869-09-14"
+intitule_status: "goed"
+original_publication: "Stb.1869-150"
+original_signed_date: "1869-09-04"
+original_published_date: "1869-09-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1869-08-31"
+jci_1_3: "jci1.3:c:BWBV0006025&z=1869-08-31&g=1869-08-31"
+jci_1_0: "1.0:c:BWBV0006025&g=1869-08-31"
+citeertitel_status: "redactioneel"
+signed_date: "1869-09-04"
+entry_into_force: "1869-08-31"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk België omtrent de grensscheiding tussen de beide Rijken in het Zwin
 
 Ten jare achttien honderd negen en zestig, den vijftienden van de maand Maart,
@@ -30,11 +54,11 @@ EUGENE PIENS, ingenieur der bruggen en wegen in het arrondissement Brugge, beide
 
 Die, na elkander hunne wederzijdsche geloofsbrieven te hebben medegedeeld, welke in goeden en behoorlijken vorm zijn bevonden, hebben nagezien en aan elkander conform bevonden de exemplaren in dubbeld van de zeven hiernevens gevoegde kaarten, opgemaakt op de schaal van één vijf en twintig honderdste en bevattende de gansche grensscheiding in het Zwin, en na zich overtuigd te hebben dat de scheidingslijn op volmaakt gelijke wijze gebragt is op de beide exemplaren van gemelde kaarten zoo als zij omschreven is in het tegenwoordig proces-verbaal, ten einde uitvoering te geven aan voorschreven Koninklijke besluiten, en behoudens nadere goedkeuring hunner wederzijdsche Regeringen, bepaaldelijk de grens tusschen Nederland en Belgie in het Zwin hebben vastgesteld als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd een en veertig en honderd twee en veertig van het beschrijvend proces-verbaal der grensregeling tusschen Nederland en Belgie, gevoegd bij de overeenkomst tot vaststelling der grenzen tusschen beide Koningrijken, gedagteekend Maastricht den 8sten Augustus 1843, mitsgaders de op genoemde artikelen betrekking hebbende kaarten n°. 101, 102, 103, 104, 105 en 106, houden op van kracht te zijn en worden vervangen door de omschrijving in de volgende artikelen vervat, met de daarbij behoorende kaarten N°. I, N°. II, N°. III, N°. IV, N°. V, N°.VI en N°. VII. Dien ten gevolge zullen de vijf ijzeren grenspalen, gemerkt met numero 363, numero 364, numero 364 extra, numero 365 en numero 365 extra, van hunne tegenwoordige standplaatsen worden weggenomen.
 
-#### Artikel 2. Grensscheiding tusschen de gemeenten Sint Anna ter Muiden (Nederland) en Westcappelle (Belgie)
+##### Artikel 2. Grensscheiding tusschen de gemeenten Sint Anna ter Muiden (Nederland) en Westcappelle (Belgie)
 
 § 1. De paragrafen 1, 2, 3, 4 en 5 van artikel honderd veertig van bovengenoemde beschrijvend proces-verbaal, gevoegd bij gemelde overeenkomst van 1843, blijven in hun geheel bestaan.
 
@@ -42,7 +66,7 @@ De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd e
 
 § 3. In het punt A vereenigen zich de grenzen der gemeenten Sint Anna ter Muiden en Retranchement (Nederland) en Westcappelle (Belgie).
 
-#### Artikel 3. Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Westcappelle (Belgie).
+##### Artikel 3. Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Westcappelle (Belgie).
 
 § 1. Uit het vereenigingspunt A, hiervoren omschreven, neemt de grenslijn ter lengte van 798 el eene noord-noordwestelijke rigting naar het punt op de hierbij behoorende kaart numero II door de letter B aangewezen, waar een paal zal geplaatst worden gemerkt met numero 364.
 
@@ -50,7 +74,7 @@ De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd e
 
 § 3. Op de grenslijn der gemeenten Westcappelle en Knocke (Belgie) zal een extra ijzeren paal, gemerkt met numero 364**a**, geplaatst worden op een afstand van 135.50 el, gemeten uit punt B, terwijl een gelijke extra ijzeren paal, gemerkt met numero 364**b**, zal geplaatst worden aan de Nederlandsche zijde ter standplaats van den te verwijderen paal numero 365, welke standplaats mede op 135.50 el van punt B gelegen is.
 
-#### Artikel 4. Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Knocke (Belgie).
+##### Artikel 4. Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Knocke (Belgie).
 
 § 1. Uit het vereenigingspunt B, hiervoren omschreven, neemt de grenslijn ter lengte van 1045.50 el eene meer westelijke rigting naar het punt, op de hierbij behoorende kaart numero IV door de letter C aangewezen, waar een paal zal geplaatst worden, gemerkt met numero 365.
 

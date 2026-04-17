@@ -1,13 +1,37 @@
 ---
-title: "Leerlingentelling voor groeiformatie basisscholen (2000)"
+title: "Leerlingentelling voor groeiformatie basisscholen"
 identifier: "BWBR0011402"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-06-28
-laatste_update: 2000-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011402"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-06-28"
+last_updated: "2000-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011402"
+soort: "circulaire"
+stam_id: "6495593"
+version_id: "11181732"
+internal_id: "C15107451"
+label_id: "6484374"
+original_entry_into_force: "2000-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011402/2000-06-28/0"
+intitule_bron: "Uitleg.2000-18"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-08"
+intitule_published: "2000-06-28"
+intitule_in_force: "2000-06-28"
+intitule_status: "goed"
+original_publication: "Uitleg.2000-18"
+original_signed_date: "2000-06-08"
+original_published_date: "2000-06-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-06-28"
+jci_1_3: "jci1.3:c:BWBR0011402&z=2000-06-28&g=2000-06-28"
+jci_1_0: "1.0:c:BWBR0011402&g=2000-06-28"
+citeertitel_status: "redactioneel"
+short_title: "Leerlingentelling voor groeiformatie basisscholen (2000)"
+signed_date: "2000-06-08"
+entry_into_force: "2000-06-28"
 ---
-
 # Leerlingentelling voor groeiformatie basisscholen
 
 ### 1. Inleiding

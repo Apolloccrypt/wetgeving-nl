@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam, afdeling Sport en Bos 2016"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 juli 2016 nr. BOACAT2016/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amsterdam, afdeling Sport en Bos"
 identifier: "BWBR0038223"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-08-25
-laatste_update: 2016-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038223"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-08-25"
+last_updated: "2016-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038223"
+soort: "ministeriele-regeling"
+stam_id: "13687193"
+version_id: "23445292"
+internal_id: "C33777791"
+label_id: "13653644"
+dtd_version: "2.0"
+original_entry_into_force: "2016-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038223/2016-08-25/0"
+intitule_bron: "Stcrt.2016-35640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-07-01"
+intitule_published: "2016-07-08"
+intitule_in_force: "2016-07-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-35640"
+original_signed_date: "2016-07-01"
+original_published_date: "2016-07-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-35640"
+entry_into_force_date: "2016-08-25"
+jci_1_3: "jci1.3:c:BWBR0038223&z=2016-08-25&g=2016-08-25"
+jci_1_0: "1.0:c:BWBR0038223&g=2016-08-25"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam, afdeling Sport en Bos 2016"
+signed_date: "2016-07-01"
+entry_into_force: "2016-08-25"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 1 juli 2016 nr. BOACAT2016/045, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij de gemeente Amsterdam, afdeling Sport en Bos
 
 Gelezen het verzoek van de gemeente Amsterdam, afdeling Sport en Bos van 8 juni 2016 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,15 +52,15 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038223&artikel=2&z=2016-08-25&g=2016-08-25).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van boswachter/ handhaver E in dienst van de gemeente Amsterdam, afdeling Sport en Bos, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, als genoemd in [onderdeel 7.4 van de Beleidsregels Buitengewoon Opsporingsambtenaar](onbekend).
 
@@ -42,21 +68,21 @@ De personen, werkzaam in de functie van boswachter/ handhaver E in dienst van de
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 8 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) omschreven bevoegdheden uitoefenen met gebruikmaking van handboeien, een korte wapenstok en pepperspray.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De gemeente Amsterdam brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -68,19 +94,19 @@ De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, v
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038223&artikel=5&z=2016-08-25&g=2016-08-25) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 8
+##### Artikel 8
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038223&artikel=9&z=2016-08-25&g=2016-08-25) genoemde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0030371), worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 9
+##### Artikel 9
 
 Het [Besluit buitengewoon opsporingsambtenaar van de afdeling Amsterdamse Bos van de Dienst Maatschappelijke Ontwikkeling van de gemeente Amsterdam, domein II Milieu, welzijn en infrastructuur 2011](https://wetten.overheid.nl/jci1.3:c:BWBR0030371) van 18 augustus 2011, nr. 5706726/Justis/11 zal vervallen op 25 augustus 2016.
 
 Dit besluit treedt in werking met ingang van 25 augustus 2016 en vervalt met ingang van 25 augustus 2021.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar gemeente Amsterdam, afdeling Sport en Bos 2016.
 

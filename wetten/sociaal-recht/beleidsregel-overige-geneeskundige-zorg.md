@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel overige geneeskundige zorg"
+title: "Beleidsregel overige geneeskundige zorg, Nederlandse Zorgautoriteit"
 identifier: "BWBR0048738"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048738"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048738"
+soort: "zbo"
+stam_id: "16880313"
+version_id: "29668722"
+internal_id: "C42466121"
+label_id: "16792334"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048738/2024-01-01/0"
+intitule_bron: "Stcrt.2023-27997"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-03"
+intitule_published: "2023-10-13"
+intitule_in_force: "2023-10-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-27997"
+original_signed_date: "2023-10-03"
+original_published_date: "2023-10-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-27997"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048738&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048738&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel overige geneeskundige zorg"
+signed_date: "2023-10-03"
+entry_into_force: "2024-01-01"
 ---
-
 # Beleidsregel overige geneeskundige zorg, Nederlandse Zorgautoriteit
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven die uit de voorliggende beleidsregel voortvloeien ambtshalve vastgesteld door de NZa.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -24,19 +50,19 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van de beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van geneeskundige zorg zoals bedoeld in [artikel 2.4 van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.4) voor zover voor deze zorg nog geen prestatiebeschrijvingen zijn vastgesteld op grond van andere beleidsregels.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op geneeskundige zorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw) voor zover de NZa voor de voornoemde zorg op grond van andere beleidsregels geen prestatiebeschrijvingen heeft vastgesteld op grond van de [Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
 
-#### Artikel 4. Voorwaarden, voorschriften en beperkingen
+##### Artikel 4. Voorwaarden, voorschriften en beperkingen
 
 De prestaties zoals vermeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0048738&artikel=5&z=2024-01-01&g=2024-01-01) mogen enkel in rekening worden gebracht, indien wordt voldaan aan de voorwaarden, voorschriften en/of beperkingen verbonden aan de betreffende prestaties. De NZa zal de voorwaarden, voorschriften en/of beperkingen opnemen in de tariefbeschikking.
 
-#### Artikel 5. Prestatiebeschrijvingen en tarieven
+##### Artikel 5. Prestatiebeschrijvingen en tarieven
 
 - a. **Prestatiestructuur** Het leveren van geneeskundige zorg in het kader van individuele zorg bij tuberculose (infectie) en infectieziekten. Hierbij kan sprake zijn van de noodzaak tot verwijzen, diagnosticeren, behandelen en begeleiden (ook) met het oog op het bevorderen van de therapietrouw. De zorg kan enkel op consultbasis worden gedeclareerd en kent de volgende prestatiestructuur:
 
@@ -201,13 +227,13 @@ De uitvoerende zorgaanbieder heeft de mogelijkheid om (onderdelen van) de presta
 
 De tarieven voor de prestatie onderlinge dienstverlening zijn vrij onderhandelbaar. Het overeengekomen tarief mag echter niet hoger zijn dan het door de NZa vastgestelde maximumtarief voor de bij de zorg behorende prestatie.
 
-#### Artikel 6. Intrekken oude beleidsregels
+##### Artikel 6. Intrekken oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de gepubliceerde maar nog niet in werking getreden [Beleidsregel overige geneeskundige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0048504), met kenmerk BR/REG-24143, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel overige geneeskundige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047371), met kenmerk BR/REG-23135a, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel overige geneeskundige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047371), met kenmerk BR/REG-23135a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

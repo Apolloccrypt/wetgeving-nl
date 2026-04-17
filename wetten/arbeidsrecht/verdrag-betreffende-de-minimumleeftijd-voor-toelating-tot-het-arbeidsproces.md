@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de minimumleeftijd voor toelating tot het arbeidsproces"
 identifier: "BWBV0003701"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1977-09-14
-laatste_update: 1977-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003701"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-09-14"
+last_updated: "1977-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003701"
+soort: "verdrag"
+stam_id: "10003657353"
+version_id: "10003717922"
+internal_id: "C10006982711"
+label_id: "10003642884"
+dtd_version: "2.0"
+original_entry_into_force: "1977-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003701/1977-09-14/0"
+intitule_bron: "Trb.1974-71"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1974-05-13"
+intitule_in_force: "1977-03-22"
+intitule_status: "goed"
+original_publication: "Trb.1974-71"
+original_published_date: "1974-05-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1974-71"
+entry_into_force_date: "1977-09-14"
+jci_1_3: "jci1.3:c:BWBV0003701&z=1977-09-14&g=1977-09-14"
+jci_1_0: "1.0:c:BWBV0003701&g=1977-09-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-09-14"
 ---
-
 # Verdrag betreffende de minimumleeftijd voor toelating tot het arbeidsproces
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -24,11 +46,11 @@ Besloten hebbende dat deze regeling de vorm van een internationaal Verdrag zal k
 
 Neemt heden, de zesentwintigste juni negentienhonderd drieënzeventig, het volgende Verdrag aan, dat kan worden aangehaald als Verdrag betreffende de minimumleeftijd, 1973:
 
-#### Artikel 1
+##### Artikel 1
 
 Elk Lid voor wie dit Verdrag van kracht is, verbindt zich tot het voeren van een nationaal beleid dat gericht is op het waarborgen van de daadwerkelijke afschaffing van de kinderarbeid en op de geleidelijke verhoging van de minimumleeftijd voor toelating tot arbeid in en buiten dienstverband tot een niveau dat jeugdige personen in staat stelt de meest volledige lichamelijke en geestelijke ontwikkeling te bereiken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elk Lid dat dit Verdrag bekrachtigt moet, in een als bijlage aan zijn akte van bekrachtiging toegevoegde verklaring, een minimumleeftijd vermelden voor toelating tot arbeid in en buiten dienstverband op zijn grondgebied en in de op zijn grondgebied geregistreerde middelen van vervoer; onder voorbehoud van het bepaalde in de artikelen 4 en 8 van dit Verdrag mag geen enkele persoon, wiens leeftijd beneden dit minimum ligt, toegelaten worden tot arbeid in en buiten dienstverband in welk beroep dan ook.
 
@@ -44,7 +66,7 @@ Elk Lid voor wie dit Verdrag van kracht is, verbindt zich tot het voeren van een
 
 - b). dat het zich met ingang van een bepaalde datum niet langer beroept op het vierde lid van dit artikel.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minimumleeftijd voor toelating tot iedere vorm van arbeid in en buiten dienstverband die krachtens de aard van de arbeid of de omstandigheden waaronder deze wordt uitgevoerd de gezondheid, de veiligheid of de zedelijkheid van jeugdige personen in gevaar kan brengen, mag niet lager zijn dan achttien jaar.
 
@@ -52,7 +74,7 @@ Elk Lid voor wie dit Verdrag van kracht is, verbindt zich tot het voeren van een
 
 3. Niettegenstaande het bepaalde in het eerste lid van dit artikel kan de nationale wetgeving of de bevoegde autoriteit, na overleg met de betrokken werkgevers- en werknemersorganisaties, indien deze bestaan, toestemming verlenen tot arbeid van jeugdige personen vanaf de zestienjarige leeftijd, mits hun gezondheid, veiligheid en zedelijkheid ten volle zijn gewaarborgd en zij in de overeenkomstige bedrijfstak een specifieke en doeltreffende scholing of beroepsopleiding hebben ontvangen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor zover noodzakelijk en na overleg met de betrokken werkgevers- en werknemersorganisaties, indien deze bestaan, heeft de bevoegde autoriteit de mogelijkheid dit Verdrag niet toe te passen op een bepaald aantal categorieën van arbeid, wanneer de toepassing van dit Verdrag op deze categorieën bijzondere en belangrijke problemen ten aanzien van de uitvoering zou doen ontstaan.
 
@@ -60,7 +82,7 @@ Elk Lid voor wie dit Verdrag van kracht is, verbindt zich tot het voeren van een
 
 3. Op grond van dit artikel is het niet mogelijk arbeid zoals bedoeld in artikel 3 van de toepassingssfeer van dit Verdrag uit te sluiten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elk Lid waarvan de economie en de overheidsdiensten nog niet voldoende tot ontwikkeling zijn gekomen kan, na overleg met de betrokken werkgevers- en werknemersorganisaties, indien deze bestaan, in een eerste fase de toepassingssfeer van dit Verdrag beperken.
 
@@ -74,7 +96,7 @@ Elk Lid voor wie dit Verdrag van kracht is, verbindt zich tot het voeren van een
 
 - b). kan te allen tijde de toepassingssfeer van het Verdrag uitbreiden door middel van een verklaring, gericht aan de Directeur-Generaal van het Internationaal Arbeidsbureau.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Verdrag is niet van toepassing op arbeid die wordt verricht door kinderen of jeugdige personen in instellingen voor algemeen onderwijs, in scholen voor beroepsonderwijs of technisch onderwijs of in andere instellingen voor beroepsvorming, noch op arbeid die wordt verricht door personen van ten minste veertien jaar in bedrijven, wanneer deze arbeid verricht wordt overeenkomstig de voorwaarden die door de bevoegde autoriteit zijn voorgeschreven, na overleg met de betrokken werkgevers- en werknemersorganisaties, indien deze bestaan, en deze arbeid deel uitmaakt van:
 
@@ -84,7 +106,7 @@ Dit Verdrag is niet van toepassing op arbeid die wordt verricht door kinderen of
 
 - c). een voorlichtingsprogramma voor beroepskeuze, dat ten doel heeft de keuze van een beroep of een bepaalde soort beroepsopleiding te vergemakkelijken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De nationale wetgeving kan toestemming verlenen om voor lichte werkzaamheden personen van dertien tot vijftien jaar in dienst te nemen of hen dergelijke werkzaamheden te laten uitvoeren, op voorwaarde dat deze:
 
@@ -98,13 +120,13 @@ Dit Verdrag is niet van toepassing op arbeid die wordt verricht door kinderen of
 
 4. Onverminderd het bepaalde in het eerste en tweede lid van dit artikel kan een Lid dat van het bepaalde in het vierde lid van artikel 2 gebruik heeft gemaakt, gedurende de tijd dat het er zich op beroept, de leeftijden van dertien en vijftien jaar genoemd in het eerste lid, vervangen door de leeftijden van twaalf en veertien jaar en de leeftijd van vijftien jaar genoemd in het tweede lid van dit artikel, door de leeftijd van veertien jaar.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Na overleg met de betrokken werkgevers- en werknemersorganisaties, indien deze bestaan, kan de bevoegde autoriteit, in afwijking van het verbod op arbeid in of buiten dienstverband als bedoeld in artikel 2 van dit Verdrag, in individuele gevallen toestemming verlenen tot deelname aan activiteiten, zoals uitvoeringen op kunstzinnig gebied.
 
 2. De aldus verleende vergunningen dienen de duur van de toegestane arbeid in of buiten dienstverband in uren te beperken en de arbeidsvoorwaarden voor te schrijven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde autoriteit dient alle noodzakelijke maatregelen te nemen, met inbegrip van passende strafmaatregelen, ten einde de daadwerkelijke toepassing van de bepalingen van dit Verdrag te waarborgen.
 
@@ -112,7 +134,7 @@ Dit Verdrag is niet van toepassing op arbeid die wordt verricht door kinderen of
 
 3. De nationale wetgeving of de bevoegde autoriteit dient de registers of andere documenten vast te stellen, welke de werkgever moet aanhouden en voor controle beschikbaar moet stellen; deze registers of documenten moeten aangeven de naam alsmede de leeftijd dan wel de geboortedatum, een en ander voorzover mogelijk deugdelijk gewaarmerkt, van alle beneden achttienjarigen, die hij in dienst heeft of die voor hem werken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit Verdrag herziet het Verdrag betreffende de minimumleeftijd (nijverheidsondernemingen), 1919, het Verdrag betreffende de minimumleeftijd (arbeid op zee), 1920, het [Verdrag betreffende de minimumleeftijd (landbouw)](https://wetten.overheid.nl/jci1.3:c:BWBV0005611), 1921, het Verdrag betreffende de minimumleeftijd (tremmers en stokers), 1921, het Verdrag betreffende de minimumleeftijd (niet-industriële werkzaamheden), 1932, het (herziene) Verdrag betreffende de minimumleeftijd (arbeid op zee), 1936, het (herziene) Verdrag betreffende de minimumleeftijd (nijverheidsondernemingen), 1937, het (herziene) Verdrag betreffende de minimumleeftijd (niet-industriële werkzaamheden), 1937, het [Verdrag betreffende de minimumleeftijd (visserij)](onbekend), 1959, en het Verdrag betreffende de minimumleeftijd (ondergrondse arbeid), 1965, onder de hierna genoemde voorwaarden.
 
@@ -142,11 +164,11 @@ Dit Verdrag is niet van toepassing op arbeid die wordt verricht door kinderen of
 
 - c). houdt aanvaarding van de verplichtingen van dit Verdrag ten aanzien van de arbeid op zee de opzegging in van het Verdrag betreffende de minimumleeftijd (arbeid op zee), 1920, krachtens artikel 10 van voornoemd Verdrag, en van het Verdrag betreffende de minimumleeftijd (tremmers en stokers), 1921, krachtens artikel 12 van voornoemd Verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie, die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -154,27 +176,27 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na een termijn van tien jaren na de datum van zijn inwerkingtreding door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een halfjaar na het verloop van een termijn van tien jaren, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren onder de voorwaarden voorzien in dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling ter registratie, overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen welke hij overeenkomstig het bepaalde in de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 16
+##### Artikel 16
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig oordeelt brengt deze Raad aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -184,7 +206,7 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de Leden, die het bekrachtigd hebben en die het nieuwe Verdrag, houdende herziening, niet bekrachtigen.
 
-#### Artikel 18
+##### Artikel 18
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

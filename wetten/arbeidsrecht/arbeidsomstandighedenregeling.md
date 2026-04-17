@@ -1,13 +1,39 @@
 ---
-title: "Arbeidsomstandighedenregeling"
+title: "Regeling houdende bepalingen ter uitvoering van bij en krachtens de Arbeidsomstandighedenwet en enige andere wetten gestelde regels"
 identifier: "BWBR0008587"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-04-09
-laatste_update: 2026-04-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008587"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-04-09"
+last_updated: "2026-04-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008587"
+soort: "ministeriele-regeling"
+stam_id: "5409403"
+version_id: "29142352"
+internal_id: "C41412181"
+label_id: "5386784"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008587/2026-04-09/0"
+intitule_bron: "Supplement-Stcrt.1997-63"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-03-12"
+intitule_published: "1997-04-02"
+intitule_in_force: "1997-06-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34933"
+original_signed_date: "2022-12-19"
+original_published_date: "2022-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2022-34933"
+entry_into_force_date: "2022-12-19"
+jci_1_3: "jci1.3:c:BWBR0008587&z=2026-04-09&g=2026-04-09"
+jci_1_0: "1.0:c:BWBR0008587&g=2026-04-09"
+citeertitel_status: "officieel"
+short_title: "Arbeidsomstandighedenregeling"
+signed_date: "2022-12-19"
+entry_into_force: "2022-12-19"
 ---
-
 # Regeling houdende bepalingen ter uitvoering van bij en krachtens de Arbeidsomstandighedenwet en enige andere wetten gestelde regels
 
 Gelet op de artikelen 7, vierde lid, onder b, 9, vierde en zesde lid, 10, vijfde lid, 41, eerste lid, en 42, tweede lid, van de Arbeidsomstandighedenwet, artikel 6 van de Wet arbeid gehandicapte werknemers en [artikel 11 van de Algemene wet erkenning EG-hoger-onderwijsdiploma's](https://wetten.overheid.nl/jci1.3:c:BWBR0006317&artikel=11);
@@ -22,13 +48,13 @@ Besluit:
 
 #### Paragraaf 1.1. Definities
 
-#### Artikel 1.1. Definities algemeen
+##### Artikel 1.1. Definities algemeen
 
 In deze regeling wordt verstaan onder:
 
 #### Paragraaf 1.1a. Certificatie
 
-#### Artikel 1.1a. Jaarverslag
+##### Artikel 1.1a. Jaarverslag
 
 In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5eb, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb) worden ten minste de volgende onderwerpen behandeld:
 
@@ -56,19 +82,19 @@ In het jaarverslag van een certificerende instelling, bedoeld in [artikel 1.5eb,
 
 #### Paragraaf 1.2. Algemene bepalingen over opleidingen
 
-#### Artikel 1.2. Algemeen
+##### Artikel 1.2. Algemeen
 
 Voor zover in deze regeling regels zijn gesteld over opleidingen zijn de [artikelen 1.3 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.3&z=2026-04-09&g=2026-04-09) van toepassing.
 
-#### Artikel 1.3. Materiaal
+##### Artikel 1.3. Materiaal
 
 De opleiding wordt gegeven aan de hand van aan de cursisten ter beschikking gesteld overzichtelijk schriftelijk opleidingsmateriaal van voldoende didactische kwaliteit.
 
-#### Artikel 1.4. Docenten
+##### Artikel 1.4. Docenten
 
 De docenten beschikken voor de onderwerpen die zij tijdens de opleiding behandelen aantoonbaar over ruime theoretische, praktische en didactische kennis of vaardigheden.
 
-#### Artikel 1.5. Faciliteiten
+##### Artikel 1.5. Faciliteiten
 
 1. De opleidingsinstelling beschikt over adequate opleidingsfaciliteiten.
 
@@ -78,23 +104,23 @@ De docenten beschikken voor de onderwerpen die zij tijdens de opleiding behandel
 
 4. De opleidingsinstelling treft adequate maatregelen om de veiligheid van de cursisten zoveel mogelijk te waarborgen.
 
-#### Artikel 1.6. Toetsing eindtermen
+##### Artikel 1.6. Toetsing eindtermen
 
 1. De toetsing van de eindtermen vindt plaats door middel van een examen.
 
 2. De opleidingsinstelling neemt de examens af aan de hand van een deugdelijk en op schrift gesteld examenreglement.
 
-#### Artikel 1.7. Diploma
+##### Artikel 1.7. Diploma
 
 De opleidingsinstelling overhandigt de cursist die het examen met goed gevolg heeft afgelegd, een op naam gesteld schriftelijk bewijs, getekend door twee leden van de examencommissie dan wel het hoofd van de opleidingsinstelling.
 
-#### Artikel 1.8. Administratie
+##### Artikel 1.8. Administratie
 
 De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlijke gegevens van de cursist en de datum waarop het schriftelijk bewijs, bedoeld in [artikel 1.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.2&artikel=1.7&z=2026-04-09&g=2026-04-09) is uitgereikt in ieder geval zijn opgenomen en waarin de periode is bepaald gedurende welke de examenopgaven en de uitwerkingen daarvan worden bewaard.
 
 #### Paragraaf 1.2. Algemene bepalingen over opleidingen
 
-#### Artikel 16. Examen, cesuur en geldigheid DAV-1
+##### Artikel 16. Examen, cesuur en geldigheid DAV-1
 
 1. Het theorie-examen duurt maximaal 45 minuten en bestaat uit 20 gesloten vragen.
 
@@ -112,11 +138,11 @@ De opleidingsinstelling voert een deugdelijke administratie waarin de persoonlij
 
 #### Paragraaf 1.3. Erkenning EU-beroepskwalificaties en tijdelijke en incidentele dienstverrichting
 
-#### Artikel 1.10. Gegevens arbeidsongevallen
+##### Artikel 1.10. Gegevens arbeidsongevallen
 
 Vervallen
 
-#### Artikel 1.11. Gegevens beroepsziekten
+##### Artikel 1.11. Gegevens beroepsziekten
 
 1. In dit artikel wordt verstaan onder beroepsziekte: een ziekte of aandoening als gevolg van een belasting die in overwegende mate in arbeid of arbeidsomstandigheden heeft plaatsgevonden.
 
@@ -138,7 +164,7 @@ Vervallen
 
 #### Paragraaf 1.5. Vrijstelling
 
-#### Artikel 21. Examen, cesuur en geldigheid DAV-2
+##### Artikel 21. Examen, cesuur en geldigheid DAV-2
 
 1. Het theorie-examen duurt maximaal 60 minuten en bestaat uit 30 gesloten vragen.
 
@@ -154,29 +180,29 @@ Vervallen
 
 4. Het DAV-2 certificaat is maximaal 3 jaar geldig.
 
-#### Artikel 1.13
+##### Artikel 1.13
 
 Vervallen
 
-#### Artikel 1.14
+##### Artikel 1.14
 
 Vervallen
 
-#### Artikel 1.15
+##### Artikel 1.15
 
 Vervallen
 
 #### Paragraaf 1.3. Erkenning EU-beroepskwalificaties en tijdelijke en incidentele dienstverrichting
 
-#### Artikel 1.16. Aanwijzing bedrijfsmiddelen
+##### Artikel 1.16. Aanwijzing bedrijfsmiddelen
 
 Vervallen
 
-#### Artikel 1.17. Gelijkstelling bedrijfsmiddelen
+##### Artikel 1.17. Gelijkstelling bedrijfsmiddelen
 
 Vervallen
 
-#### Artikel 1.18
+##### Artikel 1.18
 
 Vervallen
 
@@ -184,7 +210,7 @@ Vervallen
 
 #### Paragraaf 1.6. Fiscale faciliëring arbo-investeringen
 
-#### Artikel 2.1. Risico-inventarisatie en -evaluatie
+##### Artikel 2.1. Risico-inventarisatie en -evaluatie
 
 1. Bij de uitvoering van de taken, bedoeld in [artikel 14, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) verricht de deskundige of de bedrijfarts, bedoeld in [artikel 2.14a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14a) of de arbodienst de volgende werkzaamheden:
 
@@ -206,7 +232,7 @@ Vervallen
 
 4. De Stichting van de Arbeid draagt zorg voor plaatsing van een aangemeld instrument als bedoeld in [artikel 14, twaalfde lid, onderdeel b, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) op de website www.rie.nl.
 
-#### Artikel 2.2. Ziekteverzuimbegeleiding
+##### Artikel 2.2. Ziekteverzuimbegeleiding
 
 Bij de uitvoering van de taken, bedoeld in [artikel 14, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) ondersteunt de bedrijfarts, bedoeld in [artikel 2.14a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14a) of de arbodienst de werkgever bij het adequaat begeleiden van werknemers die door ziekte niet in staat zijn om hun arbeid te verrichten teneinde een verantwoorde werkhervatting te bevorderen. Voor het uitvoeren van deze taak legt de bedrijfarts of de arbodienst vast:
 
@@ -216,7 +242,7 @@ Bij de uitvoering van de taken, bedoeld in [artikel 14, eerste lid, onder b, van
 
 - c. op welke wijze de persoonlijke levenssfeer van individuen is gewaarborgd.
 
-#### Artikel 2.3. Arbeidsgezondheidskundig onderzoek
+##### Artikel 2.3. Arbeidsgezondheidskundig onderzoek
 
 Bij de uitvoering van de taak, bedoeld in [artikel 14, eerste lid, onderdeel c, onder 1°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) legt de bedrijfarts, bedoeld in [artikel 2.14a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14a) of de arbodienst vast:
 
@@ -232,7 +258,7 @@ Bij de uitvoering van de taak, bedoeld in [artikel 14, eerste lid, onderdeel c, 
 
 - f. op welke wijze de persoonlijke levenssfeer van individuen is gewaarborgd.
 
-#### Artikel 2.4. Aanstellingskeuring
+##### Artikel 2.4. Aanstellingskeuring
 
 Bij de uitvoering van de taak, bedoeld in [artikel 14, eerste lid, onderdeel c, onder 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=14) legt de bedrijfarts, bedoeld in [artikel 2.14a, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14a) of de arbodienst vast:
 
@@ -242,105 +268,105 @@ Bij de uitvoering van de taak, bedoeld in [artikel 14, eerste lid, onderdeel c, 
 
 - c. op welke wijze de persoonlijke levenssfeer van individuen wordt gewaarborgd.
 
-#### Artikel 2.5. Arbeidsomstandighedenspreekuur
+##### Artikel 2.5. Arbeidsomstandighedenspreekuur
 
 Vervallen
 
-#### Artikel 2.6. Melding wijziging organisatievorm
+##### Artikel 2.6. Melding wijziging organisatievorm
 
 De arbodienst meldt een wijziging van zijn organisatievorm terstond aan de minister of, indien de minister een certificerende instelling heeft aangewezen, aan de certificerende instelling, bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2026-04-09&g=2026-04-09).
 
 #### Paragraaf 2.2. Certificatie
 
-#### Artikel 2.7. Aanwijzing certificerende instelling
+##### Artikel 2.7. Aanwijzing certificerende instelling
 
 Als certificerende instelling als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14), kan worden aangewezen een instelling die voldoet aan de eisen vastgelegd in Deel 2 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
 
-#### Artikel 2.8. Eisen aan de arbodienst
+##### Artikel 2.8. Eisen aan de arbodienst
 
 Een certificaat arbodienst als bedoeld in [artikel 2.14, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.14) wordt door de minister of, indien de minister een instelling heeft aangewezen als bedoeld in [artikel 2.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.3&artikel=2.7&z=2026-04-09&g=2026-04-09), door die instelling afgegeven indien wordt voldaan aan de eisen vastgelegd in Deel 1 van het Certificatieschema Arbodiensten dat is vastgesteld door de Stichting Beheer Certificatieregeling Arbodiensten op 9 november 2018 en door de minister is gepubliceerd in de Staatscourant van 5 december 2018, Stcrt. 2018, 68321.
 
-#### Artikel 2.9. Klachtenprocedure
+##### Artikel 2.9. Klachtenprocedure
 
 Vervallen
 
-#### Artikel 2.10. Verrichten controle
+##### Artikel 2.10. Verrichten controle
 
 Vervallen
 
-#### Artikel 2.11. Afgifte certificaat arbodienst
+##### Artikel 2.11. Afgifte certificaat arbodienst
 
 Vervallen
 
-#### Artikel 2.12. Verstrekken gegevens bij aanvraag certificaat externe arbodienst
+##### Artikel 2.12. Verstrekken gegevens bij aanvraag certificaat externe arbodienst
 
 Vervallen
 
-#### Artikel 2.12a
+##### Artikel 2.12a
 
 Vervallen
 
-#### Artikel 2.12b
+##### Artikel 2.12b
 
 Vervallen
 
-#### Artikel 2.13. Verstrekken gegevens bij aanvraag certificaat interne arbodienst
+##### Artikel 2.13. Verstrekken gegevens bij aanvraag certificaat interne arbodienst
 
 Vervallen
 
-#### Artikel 2.14. Eisen voor de aanwijzing als certificerende instelling op het werkveld arbokerndeskundigen
+##### Artikel 2.14. Eisen voor de aanwijzing als certificerende instelling op het werkveld arbokerndeskundigen
 
 Een aanwijzing als certificerende instelling als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), kan geschieden indien de aanvragende instelling voldoet aan de criteria zoals vastgelegd in hoofdstuk 7 van het Certificatieschema voor het persoonscertificaat voor arbokerndeskundige, dat is vastgesteld op 1 november 2024 en door de Minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39674).
 
-#### Artikel 2.15. Certificaat arbokerndeskundige met de scope arbeidshygiëne
+##### Artikel 2.15. Certificaat arbokerndeskundige met de scope arbeidshygiëne
 
 Een certificaat arbokerndeskundige op het terrein van arbeidshygiëne als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Certificatieschema voor het persoonscertificaat voor arbokerndeskundige met de scope van Arbeidshygiënist, dat is vastgesteld op 1 november 2024 en door de Minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39674).
 
-#### Artikel 2.16. Certificaat arbokerndeskundige met de scope veiligheidskundige
+##### Artikel 2.16. Certificaat arbokerndeskundige met de scope veiligheidskundige
 
 Een certificaat arbokerndeskundige op het terrein van veiligheidskunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in het Certificatieschema voor het persoonscertificaat voor arbokerndeskundige met de scope van Hogere veiligheidskundige dat is vastgesteld op 1 november 2024 en door de Minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39674).
 
-#### Artikel 2.17. Certificaat arbokerndeskundige met de scope arbeids- en organisatiekunde
+##### Artikel 2.17. Certificaat arbokerndeskundige met de scope arbeids- en organisatiekunde
 
 Een certificaat arbokerndeskundige op het terrein van arbeids- en organisatiekunde als bedoeld in [artikel 2.7, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.7), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen vastgelegd in het Certificatieschema voor het persoonscertificaat Arbokerndeskundige met de scope van Arbeids- en Organisatiedeskundige, dat is vastgesteld op 1 november 2024 en door de Minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39674).
 
-#### Artikel 2.18. Verstrekken gegevens certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde, arbeidshygiëne, veiligheidskunde en arbeids- en organisatiekunde
+##### Artikel 2.18. Verstrekken gegevens certificaat van vakbekwaamheid arbeids- en bedrijfsgeneeskunde, arbeidshygiëne, veiligheidskunde en arbeids- en organisatiekunde
 
 Vervallen
 
 #### Paragraaf 2.3. Certificatie
 
-#### Artikel 2.19. Aanvraag
+##### Artikel 2.19. Aanvraag
 
 Vervallen
 
-#### Artikel 2.20. Vereisten
+##### Artikel 2.20. Vereisten
 
 Vervallen
 
-#### Artikel 2.21. Afgifte
+##### Artikel 2.21. Afgifte
 
 Vervallen
 
-#### Artikel 2.22. Proeve van bekwaamheid en aanpassingsstage
+##### Artikel 2.22. Proeve van bekwaamheid en aanpassingsstage
 
 Vervallen
 
 #### Paragraaf 2.4. EG-verklaring
 
-#### Artikel 2.23. Vrijstelling bijstand arbodienst bij ziekteverzuim
+##### Artikel 2.23. Vrijstelling bijstand arbodienst bij ziekteverzuim
 
 Vervallen
 
-#### Artikel 2.24. Vrijstelling bijstand arbodienst bij risico-inventarisatie en -evaluatie
+##### Artikel 2.24. Vrijstelling bijstand arbodienst bij risico-inventarisatie en -evaluatie
 
 Vervallen
 
-#### Artikel 2.25
+##### Artikel 2.25
 
 Vervallen
 
-#### Artikel 2.26
+##### Artikel 2.26
 
 Vervallen
 
@@ -348,33 +374,33 @@ Vervallen
 
 #### Paragraaf 2.5. Vrijstelling
 
-#### Artikel 3.1. Model kennisgeving
+##### Artikel 3.1. Model kennisgeving
 
 Vervallen
 
 #### Paragraaf 2.4. EG-verklaring
 
-#### Artikel 3.2. Definities
+##### Artikel 3.2. Definities
 
 In deze paragraaf en [paragraaf 3.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&z=2026-04-09&g=2026-04-09) wordt verstaan onder:
 
-#### Artikel 3.3. Veiligheids- en gezondheidszorgsysteem
+##### Artikel 3.3. Veiligheids- en gezondheidszorgsysteem
 
 Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte internationaal erkende norm voor de beheersing van veiligheid, gezondheid, kwaliteitszorg of milieu.
 
-#### Artikel 3.4. Vastlegging veiligheids- en gezondheidszorgsysteem
+##### Artikel 3.4. Vastlegging veiligheids- en gezondheidszorgsysteem
 
 1. Het veiligheids- en gezondheidszorgsysteem wordt schriftelijk vastgelegd.
 
 2. In de beschrijving van het veiligheids- en gezondheidszorgsysteem wordt aangegeven wat de onderdelen van dit systeem inhouden en hoe de samenhang is tussen deze onderdelen.
 
-#### Artikel 3.5. Doorlichting veiligheids- en gezondheidszorgsysteem
+##### Artikel 3.5. Doorlichting veiligheids- en gezondheidszorgsysteem
 
 1. Het veiligheids- en gezondheidszorgsysteem wordt regelmatig doorgelicht op basis van internationaal erkende normen voor het doorlichten van zorgsystemen.
 
 2. De aard en de frequentie van de doorlichting wordt zodanig gekozen dat de doeltreffendheid van het veiligheids- en gezondheidszorgsysteem telkens na een periode van drie jaar kan worden bepaald.
 
-#### Artikel 3.6. Veiligheids- en gezondheidsdocument
+##### Artikel 3.6. Veiligheids- en gezondheidsdocument
 
 1. Er wordt een veiligheids- en gezondheidsdocument opgesteld voor de volgende mijnbouwwerken:
 
@@ -388,7 +414,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 2. Het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, is op de mijnbouwwerken, bedoeld in het eerste lid, aanwezig.
 
-#### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
+##### Artikel 3.7. Veiligheids- en gezondheidsdocument voor werkzaamheden
 
 1. Voor zover niet reeds bij het opstellen van het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), hiermee rekening is gehouden, wordt er een veiligheids- en gezondheidsdocument opgesteld voor de volgende bijzondere werkzaamheden:
 
@@ -400,7 +426,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 2. Het veiligheids- en gezondheidsdocument, bedoeld in het eerste lid, is bij de uit te voeren werkzaamheden aanwezig.
 
-#### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
+##### Artikel 3.8. Onderdelen veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
 1. Het veiligheids- en gezondheidsdocument, bedoeld in artikel [3.6, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), bestaat uit de volgende onderdelen:
 
@@ -422,7 +448,7 @@ Het veiligheids- en gezondheidszorgsysteem is gebaseerd op een procesgerichte in
 
 - c. het addendum grote wijzigingen.
 
-#### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
+##### Artikel 3.9. Inhoud veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
 Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), bevat:
 
@@ -458,7 +484,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - p. een schriftelijke verklaring dat de risico's ten minste binnen de van tevoren vastgestelde acceptatiecriteria en prestatienormen vallen.
 
-#### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
+##### Artikel 3.10. Inhoud veiligheids- en gezondheidsdocument voor werkzaamheden
 
 1. Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-04-09&g=2026-04-09), bevat:
 
@@ -490,7 +516,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - d. een mijnbouwwerk op het land als bedoeld in [artikel 3.6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09) en een andere verplaatsbare installatie met behulp waarvan boorgaten worden geboord of werkzaamheden in een bestaand boorgat worden uitgevoerd als bedoeld in [artikel 3.6, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09).
 
-#### Artikel 3.11. Toezenden voorontwerprapport en veiligheids- en gezondheidsdocument voor mijnbouwwerken
+##### Artikel 3.11. Toezenden voorontwerprapport en veiligheids- en gezondheidsdocument voor mijnbouwwerken
 
 1. Het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09), wordt voorafgaand aan de aanvraag om een omgevingsvergunning voor een milieubelastende activiteit als bedoeld in [artikel 5.1, tweede lid, aanhef en onder b, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.1), in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
@@ -502,7 +528,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 5. De informatie, bedoeld in [artikel 3.9, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09), wordt op verzoek van een daartoe aangewezen toezichthouder in tweevoud aan hem toegezonden.
 
-#### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
+##### Artikel 3.12. Toezenden van het veiligheids- en gezondheidsdocument voor werkzaamheden
 
 1. Het veiligheids- en gezondheidsdocument voor de bijzondere werkzaamheden, bedoeld in [artikel 3.7, eerste lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.7&z=2026-04-09&g=2026-04-09), wordt acht weken voor de aanvang van de werkzaamheden in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
@@ -512,7 +538,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 - b. het uitvoeren van werkzaamheden in een bestaand boorgat.
 
-#### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
+##### Artikel 3.13. Naleving veiligheids- en gezondheidsdocument
 
 1. De werkgever die verantwoordelijk is voor het mijnbouwwerk, bedoeld in [artikel 3.6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), gaat na of het veiligheids- en gezondheidsdocument, met uitzondering van het voorontwerprapport, bedoeld in [artikel 3.8, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09), wordt nageleefd.
 
@@ -520,7 +546,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 3. Indien de resultaten van de beoordeling, bedoeld in het tweede lid, daartoe aanleiding geven, herziet de werkgever die verantwoordelijk is voor de arbeidsplaats het veiligheids- en gezondheidsdocument. De herziene delen van het veiligheids- en gezondheidsdocument worden, alvorens het gewijzigde veiligheids- en gezondheidsdocument wordt uitgevoerd, in tweevoud toegezonden aan een daartoe aangewezen toezichthouder.
 
-#### Artikel 3.14. Noodplan
+##### Artikel 3.14. Noodplan
 
 1. Het noodplan, bedoeld in [artikel 3.37v, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37v), bevat in ieder geval de informatie, bedoeld in [bijlage VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=VIII&z=2026-04-09&g=2026-04-09) bij deze regeling.
 
@@ -530,7 +556,7 @@ Het veiligheids- en gezondheidsdocument, bedoeld in [artikel 3.6](https://wetten
 
 #### Paragraaf 3.2. Winningsindustrieën met behulp van boringen
 
-#### Artikel 4.1. Definities
+##### Artikel 4.1. Definities
 
 Voor de toepassing van deze paragraaf wordt verstaan onder:
 
@@ -574,15 +600,15 @@ Voor de toepassing van deze paragraaf wordt verstaan onder:
 
 - t. veiligheids- en gezondheidsverklaring: een door een gasdeskundige na een doeltreffend onderzoek afgegeven verklaring als bedoeld in [artikel 3.5h, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h), overeenkomstig een van de bij [bijlage IX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=IX&z=2026-04-09&g=2026-04-09) van deze regeling vastgestelde modellen.
 
-#### Artikel 4.2. Toepassingsgebied
+##### Artikel 4.2. Toepassingsgebied
 
 Deze paragraaf is van toepassing op de in [artikel 3.5h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) bedoelde werkzaamheden op K1-, K3-, KT- of T-schepen.
 
-#### Artikel 4.3. Veiligheidsmaatregelen
+##### Artikel 4.3. Veiligheidsmaatregelen
 
 Indien zich bij of als gevolg van het verrichten van de werkzaamheden, bedoeld in [artikel 3.5h, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) gevaarlijke gassen concentreren en deze door onvoldoende luchtbeweging niet snel genoeg worden verdund of afgevoerd, worden maatregelen getroffen om deze concentraties te beperken. Indien dit niet in voldoende mate mogelijk is, worden de tankdeksels gesloten en de desbetreffende werkzaamheden gestaakt.
 
-#### Artikel 4.4. Schoonmaken
+##### Artikel 4.4. Schoonmaken
 
 1. Alvorens werknemers de schoon te maken ruimten betreden, is vastgesteld dat zulks zonder gevaar voor de veiligheid en gezondheid kan geschieden.
 
@@ -598,17 +624,17 @@ Indien zich bij of als gevolg van het verrichten van de werkzaamheden, bedoeld i
 
 - c. staan onder voortdurend toezicht.
 
-#### Artikel 4.5. Onderzoek
+##### Artikel 4.5. Onderzoek
 
 Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als gevolg van vrijkomende vloeistoffen, gassen of dampen gevaar voor brand, ontploffing, bedwelming, verstikking of vergiftiging ontstaat.
 
-#### Artikel 4.6. Voorkomen gevaren
+##### Artikel 4.6. Voorkomen gevaren
 
 1. Het schoonmaken van K1-, K3- en KT-ruimten is erop gericht de concentratie van gassen en dampen onder de onderste explosiegrens te houden of op veilige wijze tot onder die grens terug te brengen. Indien tijdens het schoonmaken een gassamenstelling optreedt, welke gevaar oplevert voor een ontploffing, wordt de duur van deze toestand zo kort mogelijk gehouden. Indien het schoonmaken geschiedt met gebruikmaking van inert gas, wordt dit op zodanige wijze uitgevoerd, dat een ontplofbaar mengsel niet kan ontstaan.
 
 2. Het schoonmaken van K1-, K3-, KT- en T-ruimten wordt zo uitgevoerd, dat binnen en buiten die ruimten naar redelijke verwachting geen gevaar voor bedwelming, verstikking of vergiftiging kan ontstaan. Indien het schoonmaken geschiedt met gebruikmaking van inert gas, wordt dit op zodanige wijze uitgevoerd, dat een ontplofbaar mengsel niet kan optreden.
 
-#### Artikel 4.7. Veiligheidsvoorwaarden
+##### Artikel 4.7. Veiligheidsvoorwaarden
 
 1. Het schoonmaken van K1-, K3- of KT-ruimten aan boord van K1-, K3-, of KT-schepen vindt slechts plaats indien binnen een afstand van 25 meter van de ladingzone geen vuur aanwezig is noch naar redelijke verwachting kan ontstaan.
 
@@ -622,11 +648,11 @@ Tijdens het schoonmaken wordt zo dikwijls als dit nodig is, onderzocht of als ge
 
 6. De ladingtanks in de gehele ladingzone van T-schepen worden niet geopend dan nadat aan het vierde lid is voldaan.
 
-#### Artikel 4.8. Veiligheids- en gezondheidsverklaring
+##### Artikel 4.8. Veiligheids- en gezondheidsverklaring
 
 De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.4&z=2026-04-09&g=2026-04-09), en [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.7&z=2026-04-09&g=2026-04-09) zijn niet van toepassing op K3-ruimten buiten de ladingzone op K1-, KT- en T-schepen indien met betrekking tot deze schepen een veiligheids- en gezondheidsverklaring als bedoeld in [artikel 4.1, onder t](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.1&z=2026-04-09&g=2026-04-09), is afgegeven.
 
-#### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
+##### Artikel 4.9. Onderhouden, verbouwen, herstellen en slopen
 
 1. Het onderhouden, verbouwen, herstellen en slopen van K1-, K3-, KT- of T-schepen vindt slechts plaats nadat een onderzoek, uitgevoerd overeenkomstig de bij [artikel 4.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-04-09&g=2026-04-09) gestelde regels heeft plaatsgevonden en in verband met dit onderzoek een volledig en correct ingevulde veiligheids- en gezondheidsverklaring is uitgereikt aan de werkgever die de onderhouds-, herstellings-, verbouwings-, of sloopwerkzaamheden zal uitvoeren.
 
@@ -636,7 +662,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 4. Bij de aanvraag worden alle inlichtingen verstrekt, welke met het oog op de afgifte van de veiligheids- en gezondheidsverklaring van belang zijn, terwijl desverlangd nadere inlichtingen ter zake worden verstrekt.
 
-#### Artikel 4.10. Onderzoek gasdeskundige
+##### Artikel 4.10. Onderzoek gasdeskundige
 
 1. Het in [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-04-09&g=2026-04-09) bedoelde onderzoek wordt ingesteld door de gasdeskundige, die de uitslag van dat onderzoek vermeldt op de door hem uit te reiken veiligheids- en gezondheidsverklaring.
 
@@ -678,7 +704,7 @@ De [artikelen 4.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&h
 
 7. Een veiligheids- en gezondheidsverklaring is niet van toepassing op leidingen in of buiten het tankschip en is alleen geldig als zij volledig en juist is ingevuld en zolang de toestand op grond waarvan de verklaring is verleend ongewijzigd is.
 
-#### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
+##### Artikel 4.11. Werken met vuur zonder veiligheids- en gezondheidsverklaring
 
 Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-04-09&g=2026-04-09) en waarbij in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-04-09&g=2026-04-09) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt is alleen dan toegestaan indien:
 
@@ -692,7 +718,7 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - e. door een gasdeskundige een volledig en juist ingevulde veiligheids- en gezondheidsverklaring is afgegeven waaruit blijkt dat ruimten waarin gewerkt moet worden en aangrenzende ruimten veilig voor mensen zijn of geïnertiseerd als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-04-09&g=2026-04-09).
 
-#### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
+##### Artikel 4.12. Werken met vuur zonder veiligheids- en gezondheidsverklaring, binnen 25 meter van de ladingzone
 
 1. Binnen 25 meter van de ladingzone op een K1, of KT-schip dat niet veilig voor vuur is als bedoeld in [artikel 4.10, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-04-09&g=2026-04-09), en waarvoor, in afwijking van [artikel 4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-04-09&g=2026-04-09) niet de daartoe vereiste veiligheids- en gezondheidsverklaring is uitgereikt, is de aanwezigheid van vuur slechts toegestaan indien door een gasdeskundige voor de aanvang van de werkzaamheden een verklaring is afgegeven waaruit blijkt, dat de ladingzone veilig voor mensen is als bedoeld in [artikel 4.10, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.10&z=2026-04-09&g=2026-04-09).
 
@@ -702,15 +728,15 @@ Werk met vuur boven dan wel in een deel van de ladingzone aan een K1- of KT-schi
 
 - b. de toestand van de in de ladingzone aanwezige atmosfeer zodanig is dat bij verdunning daarvan met lucht geen brandbaar of explosief mengsel ontstaat.
 
-#### Artikel 4.13. Melding werkzaamheden
+##### Artikel 4.13. Melding werkzaamheden
 
 Indien de situaties, bedoeld in de [artikelen 4.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2026-04-09&g=2026-04-09) en [4.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.12&z=2026-04-09&g=2026-04-09), zich voordoen, wordt hiervan melding gedaan aan de daartoe aangewezen toezichthouder vóór de aanvang van de werkzaamheden.
 
-#### Artikel 4.14. Afgifte certificaat van vakbekwaamheid gasdeskundige
+##### Artikel 4.14. Afgifte certificaat van vakbekwaamheid gasdeskundige
 
 Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.5h) wordt door de minister of, indien de minister een certificerende instelling heeft aangewezen, de certificerende instelling, afgegeven indien de aanvrager voldoet aan de eisen, bedoeld in versie 1 van de Regeling SGT nr. REG/SGT/20/001 van de Stichting Hobéon SKO Certificatie, vastgesteld per 15 mei 2009.
 
-#### Artikel 4.15. Werkpleketikettering
+##### Artikel 4.15. Werkpleketikettering
 
 1. De aanduidingen op verpakkingen als bedoeld in de [artikelen 1.46, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.46) of [4.1d, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1d):
 
@@ -730,7 +756,7 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 #### Paragraaf 3.3. Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
 
-#### Artikel 4.16. Registratie of herregistratie van personen die werken met explosieve stoffen
+##### Artikel 4.16. Registratie of herregistratie van personen die werken met explosieve stoffen
 
 1. Een persoon is in het bezit van een bewijs van registratie of herregistratie in het Register veilig werken met explosieve stoffen, en is geregistreerd op basis van het Registratieschema veilig werken met explosieve stoffen, zoals vastgesteld door het bestuur van de Stichting Veilig Omgaan met Explosieve Stoffen (VOMES) op 12 november 2024, en door de minister is gepubliceerd in de Staatscourant van 12 december 2024 (Stcrt. 2024-39688), op het competentieniveau:
 
@@ -772,13 +798,13 @@ Een certificaat van vakbekwaamheid gasdeskundige als bedoeld in [artikel 3.5h, v
 
 2. Het eerste lid is niet van toepassing op arbeid verricht door defensiepersoneel.
 
-#### Artikel 4.17. Verstrekken gegevens bij aanvraag certificaat
+##### Artikel 4.17. Verstrekken gegevens bij aanvraag certificaat
 
 Vervallen
 
 #### Paragraaf 4.1. Veiligheid aan op of in tankschepen
 
-#### Artikel 4.17a. Definities
+##### Artikel 4.17a. Definities
 
 1. In deze paragraaf wordt verstaan onder:
 
@@ -786,29 +812,29 @@ a. groot vuurwerk: professioneel vuurwerk dat bestemd is voor gebruik buiten tij
 
 2. Voor de toepassing van deze paragraaf wordt consumentenvuurwerk als bedoeld in [artikel 1.1.1, eerste lid, van het Vuurwerkbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013360&artikel=1.1.1), dat wordt bestemd voor gebruik tijdens een evenement of voorstelling of dat wordt bewerkt ten behoeve van een evenement of voorstelling aangemerkt als groot vuurwerk.
 
-#### Artikel 4.17b. Afgifte certificaat van vakbekwaamheid professioneel vuurwerk
+##### Artikel 4.17b. Afgifte certificaat van vakbekwaamheid professioneel vuurwerk
 
 1. De aanwijzing als certificerende instelling als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), kan geschieden indien de aanvragende instelling voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek document voor aanwijzing en toezicht op certificatie-instellingen behorend bij het certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WDAT-VD zoals opgenomen in [bijlage XIIa](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIa&z=2026-04-09&g=2026-04-09) bij de regeling.
 
 2. Een certificaat vakbekwaamheid professioneel vuurwerk als bedoeld in [artikel 4.9, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.9), wordt door de certificerende instelling bedoeld in het eerste lid, afgegeven indien de aanvrager voldoet aan de eisen zoals neergelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat Vuurwerkdeskundige, documentcode WSCS-VD, zoals opgenomen in [bijlage XIIb](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIb&z=2026-04-09&g=2026-04-09) bij de regeling.
 
-#### Artikel 4.17c. Verstrekken gegevens bij aanvraag certificaat
+##### Artikel 4.17c. Verstrekken gegevens bij aanvraag certificaat
 
 Vervallen
 
-#### Artikel 4.17d. Gegevens werkplan professioneel vuurwerk
+##### Artikel 4.17d. Gegevens werkplan professioneel vuurwerk
 
 Vervallen
 
 #### Paragraaf 4.1. Veiligheid aan op of in tankschepen
 
-#### Artikel 4.18. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
+##### Artikel 4.18. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
 Bij de beoordeling van het risico van blootstelling in de individuele ademhalingszone van de werknemer aan gevaarlijke stoffen in combinatie, zoals bedoeld in [artikel 4.2, zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), wordt in geval van het risico van blootstelling aan stoffen waarvan bekend is dat deze stoffen hetzelfde gezondheidkundige gevolg hebben op hetzelfde orgaansysteem, [bijlage XIIc](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIc&z=2026-04-09&g=2026-04-09) bij de regeling toegepast.
 
 #### Paragraaf 4.2. Veilig werken met explosieven
 
-#### Artikel 4.19. Gevaarlijke stoffen
+##### Artikel 4.19. Gevaarlijke stoffen
 
 1. Als grenswaarden als bedoeld in [artikel 4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), in samenhang gelezen met [artikel 4.1 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.1) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2026-04-09&g=2026-04-09) bij deze regeling.
 
@@ -816,11 +842,11 @@ Bij de beoordeling van het risico van blootstelling in de individuele ademhaling
 
 De resultaten van de beoordeling, bedoeld in [artikel 4.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) worden voor elke stof waarvoor overeenkomstig het eerste lid en [artikel 4.3, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3) een grenswaarde is vastgesteld, getoetst aan die grenswaarde. De toetsing vindt plaats volgens een voor dat doel geschikte genormaliseerde methode.
 
-#### Artikel 4.19a. Biologische grenswaarden
+##### Artikel 4.19a. Biologische grenswaarden
 
 Vervallen
 
-#### Artikel 4.20. Kankerverwekkende, mutagene en reprotoxische stoffen
+##### Artikel 4.20. Kankerverwekkende, mutagene en reprotoxische stoffen
 
 1. Als grenswaarden als bedoeld in [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden aangewezen de waarden die zijn opgenomen in [bijlage XIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIII&z=2026-04-09&g=2026-04-09) bij deze regeling.
 
@@ -828,7 +854,7 @@ Vervallen
 
 #### Paragraaf 4.2a. Veilig werken met professioneel vuurwerk
 
-#### Artikel 4.20a. Meetfrequentie en analyse van lood in de lucht
+##### Artikel 4.20a. Meetfrequentie en analyse van lood in de lucht
 
 1. In het kader van de beoordeling, bedoeld in [artikel 4.2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) wordt de concentratie van lood in de lucht om de drie maanden gemeten. Er kan worden volstaan met eenmaal per jaar meten, indien er geen verandering in de werkmethoden en de omstandigheden van de blootstelling plaatsvindt, en
 
@@ -838,7 +864,7 @@ Vervallen
 
 2. De bepaling van de concentratie van lood in de lucht, als bedoeld in het eerste lid, geschiedt met behulp van de atomaire arbsorptiespectrometrie of een andere analysemethode, die gelijkwaardige resultaten oplevert.
 
-#### Artikel 4.20b. Controle van lood in het bloed
+##### Artikel 4.20b. Controle van lood in het bloed
 
 1. In het kader van de beoordeling, bedoeld in [artikel 4.2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2), worden de werknemers ten minste tweemaal per jaar in de gelegenheid gesteld tot het meten van het loodgehalte in het bloed.
 
@@ -850,33 +876,33 @@ Vervallen
 
 #### Paragraaf 4.4. Wettelijke grenswaarden
 
-#### Artikel 4.21. Algemeen
+##### Artikel 4.21. Algemeen
 
 Vervallen
 
-#### Artikel 4.22. Monsterneming
+##### Artikel 4.22. Monsterneming
 
 Vervallen
 
-#### Artikel 4.23. Te gebruiken materialen
+##### Artikel 4.23. Te gebruiken materialen
 
 Vervallen
 
-#### Artikel 4.24. Vezeltelling
+##### Artikel 4.24. Vezeltelling
 
 Vervallen
 
-#### Artikel 4.25. Voorschriften bij telling
+##### Artikel 4.25. Voorschriften bij telling
 
 Vervallen
 
-#### Artikel 4.26. Berekening
+##### Artikel 4.26. Berekening
 
 Vervallen
 
 #### Paragraaf 4.2. Veilig werken met explosieven
 
-#### Artikel 4.27. Eisen voor afgifte van certificaten in het werkveld asbest
+##### Artikel 4.27. Eisen voor afgifte van certificaten in het werkveld asbest
 
 Een certificaat kan worden afgegeven indien:
 
@@ -888,7 +914,7 @@ Een certificaat kan worden afgegeven indien:
 
 - d. in geval van het certificaat van vakbekwaamheid voor het verwijderen van asbest, bedoeld in [artikel 4.54d, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d), de aanvrager voldoet aan de eisen, vastgelegd in paragraaf 4 en 5 van het certificatieschema voor de persoonscertificaten.
 
-#### Artikel 4.28. Eisen voor aanwijzing en (blijven) functioneren als certificerende instelling in het werkveld asbest
+##### Artikel 4.28. Eisen voor aanwijzing en (blijven) functioneren als certificerende instelling in het werkveld asbest
 
 Een aanwijzing als certificerende instelling kan geschieden indien:
 
@@ -898,11 +924,11 @@ Een aanwijzing als certificerende instelling kan geschieden indien:
 
 #### Paragraaf 4.2a. Veilig werken met professioneel vuurwerk
 
-#### Artikel 4.29. Verstrekken van gegevens en inlichtingen
+##### Artikel 4.29. Verstrekken van gegevens en inlichtingen
 
 Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthouders, de certificerende instellingen en de Stichting Raad voor Accreditatie, als bedoeld in [artikel 1.5eb, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5eb), op het werkveld asbest geschiedt overeenkomstig het informatieprotocol zoals opgenomen in [bijlage XIIIg](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIIIg&z=2026-04-09&g=2026-04-09) bij de regeling.
 
-#### Artikel 4.30. Uitzonderingen in geval van eindmeting
+##### Artikel 4.30. Uitzonderingen in geval van eindmeting
 
 1. Onder kleine losliggende oppervlakken als bedoeld in [artikel 4.53c, tweede lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.53c) wordt verstaan: een losliggend oppervlak van maximaal 2,5 m2.
 
@@ -916,17 +942,17 @@ Het verstrekken van gegevens en inlichtingen tussen de minister, de toezichthoud
 
 #### Paragraaf 4.2b. Opsporen van ontplofbare oorlogsresten
 
-#### Artikel 4.31. Afgifte certificaat zandsteenbedrijf
+##### Artikel 4.31. Afgifte certificaat zandsteenbedrijf
 
 Vervallen
 
-#### Artikel 4.32. Verstrekken gegevens bij aanvraag certificaat
+##### Artikel 4.32. Verstrekken gegevens bij aanvraag certificaat
 
 Vervallen
 
 #### Paragraaf 4.3. Beoordeling risico van blootstelling aan gevaarlijke stoffen in combinatie
 
-#### Artikel 4.32a. Lijmen en verven in binnensituaties
+##### Artikel 4.32a. Lijmen en verven in binnensituaties
 
 1. In deze paragraaf wordt verstaan onder:
 
@@ -962,7 +988,7 @@ Vervallen
 
 6. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, onder b, voor zover het andere werkzaamheden betreft dan het aanbrengen van muurverf, bevatten ten hoogste 100 gram vluchtige organische stoffen per liter gebruiksklaar product. Indien het bij de producten, bedoeld in de eerste zin, gaat om producten op epoxybasis, wordt benzylalcohol uitgezonderd bij het bepalen van het gewicht van de vluchtige organische stoffen.
 
-#### Artikel 4.32b. Offsetdrukken
+##### Artikel 4.32b. Offsetdrukken
 
 1. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
@@ -978,7 +1004,7 @@ Vervallen
 
 4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het eerste lid, onder c, bevatten ten hoogste 0,1 volumeprocenten gehalogeneerde koolwaterstoffen of monoaromaten met een dampspanning van meer dan 0,1 millibar bij 20 °C.
 
-#### Artikel 4.32c. Zeefdrukken
+##### Artikel 4.32c. Zeefdrukken
 
 1. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen:
 
@@ -990,13 +1016,13 @@ Vervallen
 
 3. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het eerste lid, onder b, bevatten ten hoogste 150 gram vluchtige organische stoffen per kilogram product.
 
-#### Artikel 4.32d. Illustratiediepdrukken
+##### Artikel 4.32d. Illustratiediepdrukken
 
 1. Als werkzaamheden als bedoeld in [artikel 4.62b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.62b) worden aangewezen het reinigen van vloeren in illustratiediepdrukkerijen.
 
 2. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het eerste lid, bevatten ten hoogste 0,1 volumeprocenten gehalogeneerde koolwaterstoffen of monoaromaten met een dampspanning van meer dan 0,1 millibar bij 20 °C en hebben een vlampunt van ten minste 55 °C.
 
-#### Artikel 4.32e. Verpakkingsdiepdrukken en flexodrukken
+##### Artikel 4.32e. Verpakkingsdiepdrukken en flexodrukken
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1018,7 +1044,7 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 4. Het derde lid is niet van toepassing op de producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, onder c, d en e, indien daarbij bijzondere eisen aan de kwaliteit of bestendigheid van het gefabriceerde product worden gesteld, mits op jaarbasis het gewicht van de vluchtige organische stoffen van de producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, onder c, d en e, ten hoogste 80% bedraagt van het gewicht van de opgebrachte vaste stof.
 
-#### Artikel 4.32f. Herstellen autoschade
+##### Artikel 4.32f. Herstellen autoschade
 
 1. In dit artikel wordt verstaan onder motorrijtuig: een personenauto, een bestelauto, een motorrijwiel, een autobus of een kampeerauto als bedoeld in [artikel 2, onder b, c, d, e onderscheidenlijk g, van de Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324&artikel=2) of een vrachtauto als bedoeld in [artikel 1, eerste lid, onder e, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=1).
 
@@ -1032,7 +1058,7 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 4. Producten die worden gebruikt bij de werkzaamheden, bedoeld in het tweede lid, bevatten in gebruiks- of spuitklare vorm, ten hoogste het gehalte aan vluchtige organische stoffen dat met betrekking tot deze producten is vastgesteld bij [bijlage XV](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XV&z=2026-04-09&g=2026-04-09) bij deze regeling.
 
-#### Artikel 4.32g. Coating van timmerwerk in binnensituaties
+##### Artikel 4.32g. Coating van timmerwerk in binnensituaties
 
 1. In dit artikel wordt verstaan onder coating: een product dat opgebracht wordt op een oppervlak om een decoratief, beschermend of ander functioneel effect te verkrijgen.
 
@@ -1046,89 +1072,89 @@ a. lakkeren: het aanbrengen van een lak op een flexibel materiaal of van een kle
 
 #### Paragraaf 4.4b. Kankerverwekkende processen
 
-#### Artikel 4.33
+##### Artikel 4.33
 
 Vervallen
 
-#### Artikel 4.34
+##### Artikel 4.34
 
 Vervallen
 
-#### Artikel 4.35
+##### Artikel 4.35
 
 Vervallen
 
-#### Artikel 4.36
+##### Artikel 4.36
 
 Vervallen
 
-#### Artikel 4.37
+##### Artikel 4.37
 
 Vervallen
 
-#### Artikel 4.38
+##### Artikel 4.38
 
 Vervallen
 
-#### Artikel 4.39
+##### Artikel 4.39
 
 Vervallen
 
-#### Artikel 4.40
+##### Artikel 4.40
 
 Vervallen
 
-#### Artikel 4.41
+##### Artikel 4.41
 
 Vervallen
 
-#### Artikel 4.41a
+##### Artikel 4.41a
 
 Vervallen
 
-#### Artikel 4.41b
+##### Artikel 4.41b
 
 Vervallen
 
-#### Artikel 4.42
+##### Artikel 4.42
 
 Vervallen
 
-#### Artikel 4.43
+##### Artikel 4.43
 
 Vervallen
 
-#### Artikel 4.44
+##### Artikel 4.44
 
 Vervallen
 
-#### Artikel 4.45
+##### Artikel 4.45
 
 Vervallen
 
-#### Artikel 4.46
+##### Artikel 4.46
 
 Vervallen
 
-#### Artikel 4.47
+##### Artikel 4.47
 
 Vervallen
 
-#### Artikel 4.48
+##### Artikel 4.48
 
 Vervallen
 
-#### Artikel 4.49
+##### Artikel 4.49
 
 Vervallen
 
-#### Artikel 4.50
+##### Artikel 4.50
 
 Vervallen
 
 ### Hoofdstuk 5. Beeldschermarbeid
 
-#### Artikel 5.1. Apparatuur en meubilair
+##### Artikel 5.1. Apparatuur en meubilair
 
 Apparatuur en meubilair, in gebruik bij het verrichten van beeldschermwerk, voldoen in ieder geval aan de volgende voorschriften:
 
@@ -1160,7 +1186,7 @@ Apparatuur en meubilair, in gebruik bij het verrichten van beeldschermwerk, vold
 
 - n. indien de gebruiker dat wenst wordt een voetensteun aangebracht.
 
-#### Artikel 5.2. Inrichting van de beeldschermwerkplek
+##### Artikel 5.2. Inrichting van de beeldschermwerkplek
 
 De omgeving waarin het beeldschermwerk wordt verricht en de inrichting van de beeldschermwerkplek voldoen in ieder geval aan de volgende voorschriften:
 
@@ -1178,7 +1204,7 @@ De omgeving waarin het beeldschermwerk wordt verricht en de inrichting van de be
 
 - g. de vochtigheidsgraad is steeds toereikend.
 
-#### Artikel 5.3. Programmatuur
+##### Artikel 5.3. Programmatuur
 
 De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldoet in ieder geval aan de volgende voorschriften:
 
@@ -1198,7 +1224,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 #### Paragraaf 4.9. Vervallen
 
-#### Artikel 6.1. Eisen voor registratie of herregistratie van duikers, duikploegleiders, duikmedisch begeleiders en duikerartsen
+##### Artikel 6.1. Eisen voor registratie of herregistratie van duikers, duikploegleiders, duikmedisch begeleiders en duikerartsen
 
 1. In dit artikel wordt verstaan onder:
 
@@ -1296,7 +1322,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 10. Dit artikel is niet van toepassing op arbeid verricht door defensiepersoneel.
 
-#### Artikel 6.2. Inhoud arbeidsgezondheidskundig onderzoek
+##### Artikel 6.2. Inhoud arbeidsgezondheidskundig onderzoek
 
 1. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 6.14a, eerste en tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a) vindt plaats met inachtneming van de op 10 september 2021 door het bestuur van de Stichting Werken onder Overdruk vastgestelde en op de website [www.arbocataloguswoo.nl](http://www.arbocataloguswoo.nl/) gepubliceerde:
 
@@ -1306,7 +1332,7 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 2. In dit artikel wordt onder hyperbare behandelkamer verstaan: een in een ziekenhuis of medische instelling vast opgestelde compressiekamer, bedoeld voor behandeling van patiënten onder overdruk volgens een door een arts voorgeschreven behandelprotocol.
 
-#### Artikel 6.3. Inhoud logboek
+##### Artikel 6.3. Inhoud logboek
 
 1. Het logboek, bedoeld in [artikel 6.16, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), bevat ten minste de voornaam, achternaam en geboortedatum van de houder van het logboek en daarnaast per duik:
 
@@ -1332,17 +1358,17 @@ De programmatuur die wordt gebruikt bij het verrichten van beeldschermwerk voldo
 
 3. In afwijking van het eerste lid, onderdeel c, mag een duikploegleider de totaaltijd in plaats van het aanvangstijdstip en de eindtijd van een duik vastleggen in het door hem bij te houden logboek.
 
-#### Artikel 6.3a. Afgifte certificaat duikerarts
+##### Artikel 6.3a. Afgifte certificaat duikerarts
 
 Vervallen
 
-#### Artikel 6.4. Aanwijzing sportduikbrevet
+##### Artikel 6.4. Aanwijzing sportduikbrevet
 
 Als sportduikbrevet als bedoeld in [artikel 6.31, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.31) wordt aangewezen een geldig brevet NOB**, afgegeven door de Nederlandse onderwatersportbond, dan wel een naar het oordeel van de minister gelijkwaardig brevet.
 
 #### Paragraaf 4.9. Vervallen
 
-#### Artikel 6.5. Afgifte certificaat duikerarts, duiker, duikploegleider, niet zijnde brandweerduikploegleider, en duikmedisch begeleider
+##### Artikel 6.5. Afgifte certificaat duikerarts, duiker, duikploegleider, niet zijnde brandweerduikploegleider, en duikmedisch begeleider
 
 1. Een certificaat als bedoeld in [artikel 6.14a, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.14a), wordt door de certificerende instelling afgegeven indien de aanvrager:
 
@@ -1358,19 +1384,19 @@ Als sportduikbrevet als bedoeld in [artikel 6.31, tweede lid, van het besluit](h
 
 4. Een certificaat als bedoeld in [artikel 6.16, zevende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikmedisch begeleider, document: WSCS-WOD-B, zoals opgenomen in [bijlage XVId](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVId&z=2025-01-18&g=2025-01-18) bij de regeling.
 
-#### Artikel 6.6. Afgifte certificaat brandweerduikploegleider
+##### Artikel 6.6. Afgifte certificaat brandweerduikploegleider
 
 Een certificaat als bedoeld in [artikel 6.16, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.16), wordt door de certificerende instelling, bedoeld in [artikel 6.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.1&artikel=6.1&z=2025-01-18&g=2025-01-18), afgegeven indien de aanvrager, zijnde brandweerduikploegleider, voldoet aan de criteria zoals vastgelegd in het Werkveldspecifiek certificatieschema voor het persoonscertificaat duikploegleider bij de brandweer, document: WSCS-WOD-F, zoals opgenomen in [bijlage XVIe](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIe&z=2025-01-18&g=2025-01-18) bij de regeling.
 
 #### Paragraaf 4.9. Vervallen
 
-#### Artikel 6.7. Inhoud arbeidsgezondheidskundig onderzoek
+##### Artikel 6.7. Inhoud arbeidsgezondheidskundig onderzoek
 
 Vervallen
 
 #### Paragraaf 6.1. Certificatie
 
-#### Artikel 6.8. Vrijstelling certificaat duikarbeid leerlingen
+##### Artikel 6.8. Vrijstelling certificaat duikarbeid leerlingen
 
 Als sportduikbrevet als bedoeld in [artikel 6.31, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=6.31) wordt aangewezen een geldig brevet NOB**, afgegeven door de Nederlandse onderwatersportbond, dan wel een naar het oordeel van de minister gelijkwaardig brevet.
 
@@ -1378,31 +1404,31 @@ Als sportduikbrevet als bedoeld in [artikel 6.31, tweede lid, van het besluit](h
 
 #### Paragraaf 6.2. Opleidingen
 
-#### Artikel 7.1. Definities
+##### Artikel 7.1. Definities
 
 Vervallen
 
-#### Artikel 7.2. Onderzoeken en beproevingen categorieën hijskranen
+##### Artikel 7.2. Onderzoeken en beproevingen categorieën hijskranen
 
 Vervallen
 
-#### Artikel 7.3. Afgifte certificaat van goedkeuring
+##### Artikel 7.3. Afgifte certificaat van goedkeuring
 
 Vervallen
 
 #### Paragraaf 6.1. Certificatie
 
-#### Artikel 7.4. Modellen certificaten beproevingen en onderzoekingen
+##### Artikel 7.4. Modellen certificaten beproevingen en onderzoekingen
 
 Als modellen van de certificaten, bedoeld in [artikel 7.29, negende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29) worden vastgesteld de modellen van de certificaten, bedoeld in artikel 25, derde lid, van het Verdrag betreffende de arbeidsveiligheid en gezondheid in havenarbeid (1979).
 
-#### Artikel 7.5. Model register
+##### Artikel 7.5. Model register
 
 Als model van het register, bedoeld in [artikel 7.29, tiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.29) wordt vastgesteld het model, bedoeld in artikel 25, tweede lid, van het Verdrag betreffende de arbeidsveiligheid en gezondheid in havenarbeid (1979).
 
 #### Paragraaf 6.3. Arbeidsgezondheidskundig onderzoek duikers
 
-#### Artikel 7.6. Categorieën torenkranen, mobiele kranen en funderingsmachines
+##### Artikel 7.6. Categorieën torenkranen, mobiele kranen en funderingsmachines
 
 1. Een persoon is in het bezit van een bewijs van registratie of herregistratie in het Register kraanmachinist, bedoeld in [artikel 7.32, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=7.32) indien hij een torenkraan, mobiele kraan of funderingsmachine als omschreven in de onderdelen a tot en met c, bedient:
 
@@ -1436,7 +1462,7 @@ Als model van het register, bedoeld in [artikel 7.29, tiende lid, van het beslui
 
 - 2°. grote funderingsmachine: machine met een eigen massa inclusief uitrustingen en funderingselement van 30 ton of meer, een totale hoogte van 10 meter of meer heeft of die funderingselementen van 10 meter of langer verwerkt.
 
-#### Artikel 7.7. Eisen voor registratie of herregistratie
+##### Artikel 7.7. Eisen voor registratie of herregistratie
 
 Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [artikel 7.6](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2026-04-09&g=2026-04-09), geschiedt indien de aanvrager voldoet aan de navolgende eisen:
 
@@ -1454,67 +1480,67 @@ Registratie of herregistratie in het Register kraanmachinisten, bedoeld in [arti
 
 - g. indien het betreft registratie of herregistratie voor de bediening van een grote funderingsmachine als bedoeld in [artikel 7.6, tweede lid, onderdeel c, onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=7&paragraaf=7.3&artikel=7.6&z=2026-04-09&g=2026-04-09), van het schema voor de machinist grote funderingsmachine ‘Schema voor registratie van de Machinist Funderingsmachine Groot in het Register Kraanmachinisten, W4-03’, dat is vastgesteld door de Stichting Toezicht Certificatie Verticaal Transport Registratie Administratie op 28 februari 2025, Staatscourant van 22 oktober 2025, nr. 2025-35699, bijlage 3.
 
-#### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
+##### Artikel 7.8. Verstrekken gegevens bij aanvraag certificaat
 
 Vervallen
 
-#### Artikel 7.9
+##### Artikel 7.9
 
 Vervallen
 
-#### Artikel 7.10
+##### Artikel 7.10
 
 Vervallen
 
-#### Artikel 7.11
+##### Artikel 7.11
 
 Vervallen
 
-#### Artikel 7.12
+##### Artikel 7.12
 
 Vervallen
 
-#### Artikel 7.13
+##### Artikel 7.13
 
 Vervallen
 
-#### Artikel 7.14
+##### Artikel 7.14
 
 Vervallen
 
-#### Artikel 7.15
+##### Artikel 7.15
 
 Vervallen
 
-#### Artikel 7.16
+##### Artikel 7.16
 
 Vervallen
 
-#### Artikel 7.17
+##### Artikel 7.17
 
 Vervallen
 
-#### Artikel 7.18
+##### Artikel 7.18
 
 Vervallen
 
-#### Artikel 7.19
+##### Artikel 7.19
 
 Vervallen
 
-#### Artikel 7.20
+##### Artikel 7.20
 
 Vervallen
 
 ### Hoofdstuk 6. Arbeid onder overdruk
 
-#### Artikel 8.1. Vereisten
+##### Artikel 8.1. Vereisten
 
 1. Veiligheids- of gezondheidssignalering als bedoeld in [artikel 8.4 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=8.4) voldoet aan het tweede lid en de [artikelen 8.2 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2026-04-09&g=2026-04-09).
 
 2. Veiligheids- of gezondheidssignalering wordt, al naar gelang het geval, geregeld schoongemaakt, onderhouden, geverifieerd en gerepareerd of zo nodig vervangen, met het oog op het behoud van hun intrinsieke of functionele kwaliteiten.
 
-#### Artikel 8.2. Permanente signalering
+##### Artikel 8.2. Permanente signalering
 
 1. De signalering met betrekking tot een verbod, een waarschuwing en een gebod, alsmede de signalering met betrekking tot de lokalisatie en de identificatie van reddings- of hulpmiddelen geschiedt permanent door middel van borden.
 
@@ -1526,13 +1552,13 @@ Vervallen
 
 5. De markering van verkeerswegen geschiedt permanent door middel van een veiligheidskleur.
 
-#### Artikel 8.3. Occasionele signalering
+##### Artikel 8.3. Occasionele signalering
 
 1. De signalering van gevaarlijke gebeurtenissen, de oproep van personen voor een specifieke actie, alsmede de dringende evacuatie van personen geschiedt occasioneel, door middel van een lichtsignaal, een akoestisch signaal of een mondelinge mededeling.
 
 2. Het leiden van personen die handelingen verrichten waarbij een gevaar bestaat, geschiedt occasioneel door middel van hand- of armseinen of mondelinge mededelingen.
 
-#### Artikel 8.4. Vrije keuze van signalering
+##### Artikel 8.4. Vrije keuze van signalering
 
 1. Bij gelijke doeltreffendheid van de signalering bestaat een vrije keuze tussen:
 
@@ -1552,7 +1578,7 @@ Vervallen
 
 3. De doeltreffendheid van een signalering mag niet in het gedrang worden gebracht door de aanwezigheid van een andere signalering of van andere factoren die de zicht- of hoorbaarheid verstoren, een slecht ontwerp, een ontoereikend aantal, een slechte plaatsing, een slechte staat of een slechte werking van de signaleringsmiddelen of signaleringsvoorzieningen.
 
-#### Artikel 8.5. Gebruik van kleuren
+##### Artikel 8.5. Gebruik van kleuren
 
 Voor zover signalering geschiedt door middel van een veiligheidskleur wordt:
 
@@ -1574,11 +1600,11 @@ Voor zover signalering geschiedt door middel van een veiligheidskleur wordt:
 
 - 2°. een veilige situatie.
 
-#### Artikel 8.6. Noodinstallatie
+##### Artikel 8.6. Noodinstallatie
 
 Signaleringen die een energiebron behoeven, zijn voorzien van een noodinstallatie voor het geval dat deze energiebron uitvalt, behalve indien het te signaleren gevaar ophoudt te bestaan bij het uitvallen van de energie.
 
-#### Artikel 8.7. Controle licht- en geluidssignalen
+##### Artikel 8.7. Controle licht- en geluidssignalen
 
 1. De licht- en geluidssignalen zijn voor de ingebruikneming op hun goede werking en reële doeltreffendheid gecontroleerd. Die controle wordt nadien voldoende vaak herhaald.
 
@@ -1586,11 +1612,11 @@ Signaleringen die een energiebron behoeven, zijn voorzien van een noodinstallati
 
 3. De licht- en geluidssignalen worden na ieder gebruik onmiddellijk opnieuw in werking gesteld.
 
-#### Artikel 8.8. Bescherming specifieke werknemers
+##### Artikel 8.8. Bescherming specifieke werknemers
 
 Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, onder meer door het dragen van individuele beschermende uitrusting, dienen adequate aanvullende maatregelen of vervangingsmaatregelen te worden genomen.
 
-#### Artikel 8.9. Algemene eisen veiligheidsborden
+##### Artikel 8.9. Algemene eisen veiligheidsborden
 
 1. De pictogrammen waarvan veiligheidsborden zijn voorzien, zijn zo eenvoudig mogelijk en voor het begrip overbodige details worden weggelaten.
 
@@ -1598,7 +1624,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 3. De borden bezitten dusdanige afmetingen en kleur- en lichttechnische eigenschappen dat zij goed zichtbaar en gemakkelijk te begrijpen zijn.
 
-#### Artikel 8.10. Soorten borden
+##### Artikel 8.10. Soorten borden
 
 1. Verbodsborden kenmerken zich door een ronde vorm, een zwart pictogram op witte achtergrond, rode rand en balk die van links naar rechts over het pictogram loopt onder een hoek van 45° ten opzichte van de horizontale lijn, waarbij de rode kleur ten minste 35% van het oppervlak van het bord beslaat.
 
@@ -1614,7 +1640,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 7. De gebruikte pictogrammen mogen licht afwijken van of meer gedetailleerd zijn dan de pictogrammen van de borden, bedoeld in [bijlage XVIII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XVIII&z=2026-04-09&g=2026-04-09) bij deze regeling. De betekenis ervan is dan evenwel dezelfde en verschillen of aanpassingen maken de betekenis niet onduidelijk.
 
-#### Artikel 8.11. Plaatsing van borden
+##### Artikel 8.11. Plaatsing van borden
 
 1. De borden worden, rekening houdend met eventuele obstakels, op passende hoogte en op een passende plaats ten opzichte van het gezichtsveld geïnstalleerd, hetzij bij de toegang tot een zone waar een algemeen risico bestaat hetzij in de onmiddellijke nabijheid van een bepaald risico of het te signaleren object, en wel op een goed verlichte en gemakkelijk toegankelijke en zichtbare plaats.
 
@@ -1622,7 +1648,7 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 3. Een bord wordt verwijderd zodra de situatie die de aanwezigheid ervan rechtvaardigt, niet meer bestaat.
 
-#### Artikel 8.12. Reservoirs en leidingen met gevaarlijke stoffen
+##### Artikel 8.12. Reservoirs en leidingen met gevaarlijke stoffen
 
 1. Reservoirs die worden gebruikt bij werkzaamheden met dan wel de opslag van chemische stoffen of mengsels die overeenkomstig EG-verordening indeling, etikettering en verpakking van stoffen en mengsels als gevaarlijk worden ingedeeld op grond van de criteria voor enige fysische gevarenklasse of gezondheidsgevarenklasse, alsmede leidingen die dergelijke stoffen en mengsels bevatten of waardoor deze stoffen en mengsels worden getransporteerd, worden overeenkomstig die verordening voorzien van de relevante gevarenpictogrammen.
 
@@ -1636,15 +1662,15 @@ Indien de betrokken werknemers een beperkt gehoor- of gezichtsvermogen hebben, o
 
 - c. voor het transport van reservoirs op de arbeidsplaats worden aangevuld met of vervangen door borden die krachtens de Wet vervoer gevaarlijke stoffen of de Wet luchtvaart van toepassing zijn voor het transport van gevaarlijke stoffen.
 
-#### Artikel 8.13. Aanbrengen van signalering op reservoirs en leidingen
+##### Artikel 8.13. Aanbrengen van signalering op reservoirs en leidingen
 
 De signalering bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2026-04-09&g=2026-04-09) wordt aangebracht op de zichtbare zijden in de vorm van hard materiaal, zelfklevend materiaal of verf.
 
-#### Artikel 8.14. Plaatsing op leidingen
+##### Artikel 8.14. Plaatsing op leidingen
 
 De op leidingen gebruikte gevarenpictogrammen of signaalwoorden worden zichtbaar en voldoende herhaald aangebracht in de nabijheid van de meest gevaarlijke plaatsen, zoals kleppen en aansluitingspunten.
 
-#### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
+##### Artikel 8.15. Signalering bij opslag gevaarlijke stoffen
 
 1. De signalering van plaatsen, lokalen of afgesloten ruimten die worden gebruikt voor de opslag van aanzienlijke hoeveelheden gevaarlijke stoffen geschiedt door een passend waarschuwingsbord als bedoeld in [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2026-04-09&g=2026-04-09) of door gevarenpictogrammen en signaalwoorden als bedoeld in [artikel 8.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2026-04-09&g=2026-04-09) tenzij, rekening houdend met [artikel 8.9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.9&z=2026-04-09&g=2026-04-09), wat de afmeting betreft, de gevarenpictogrammen en signaalwoorden van de afzonderlijke verpakkingen of op de reservoirs ter zake volstaan.
 
@@ -1652,11 +1678,11 @@ De op leidingen gebruikte gevarenpictogrammen of signaalwoorden worden zichtbaar
 
 3. Indien [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2026-04-09&g=2026-04-09) geen gelijkwaardig waarschuwingsbord bevat, wordt het relevante gevarenpictogram als weergegeven in bijlage V van EG-verordening indeling, etikettering en verpakking van stoffen en mengsels gebruikt.
 
-#### Artikel 8.16. Wijze van gebruik lichtsignalen
+##### Artikel 8.16. Wijze van gebruik lichtsignalen
 
 Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal uitgezonden licht een aan de omgeving aangepast lichtcontrast dat niet tot verblinding mag leiden maar voldoende zichtbaar is.
 
-#### Artikel 8.17. Uniformiteit
+##### Artikel 8.17. Uniformiteit
 
 1. Het lichtoppervlak dat een signaal uitzendt, is uniform van kleur of bevat een pictogram op een bepaalde achtergrond.
 
@@ -1664,7 +1690,7 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 3. Wanneer het signaal een pictogram bevat, voldoet dit aan [artikel 8.10](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.10&z=2026-04-09&g=2026-04-09).
 
-#### Artikel 8.18. Bijzondere lichtsignalen
+##### Artikel 8.18. Bijzondere lichtsignalen
 
 1. Wanneer een voorziening een continu en een intermitterend signaal kan uitzenden, wordt het intermitterende signaal gebruikt om ten opzichte van het continue signaal aan te geven dat het gaat om een situatie die een groter gevaar inhoudt of waarbij de gewenste of verplichte interventie of actie met grotere spoed moet worden uitgevoerd.
 
@@ -1678,7 +1704,7 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 - b. er voorkomen wordt dat verwarring ontstaat tussen verschillende lichtsignalen of tussen een continu en een intermitterend lichtsignaal.
 
-#### Artikel 8.19. Vereisten geluidssignalen
+##### Artikel 8.19. Vereisten geluidssignalen
 
 1. Een geluidssignaal:
 
@@ -1692,7 +1718,7 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 3. Het geluid van een ontruimingssignaal is continu.
 
-#### Artikel 8.20. Algemene vereisten inzake de mondelinge mededeling
+##### Artikel 8.20. Algemene vereisten inzake de mondelinge mededeling
 
 1. De mondelinge mededeling vindt plaats tussen een spreker of zender en een of meer toehoorders, en wel in de vorm van korte teksten, woordgroepen of afzonderlijke woorden, eventueel gecodeerd.
 
@@ -1720,17 +1746,17 @@ Rekening houdend met de gebruiksomstandigheden veroorzaakt het door een signaal 
 
 - h. snel, om een beweging te versnellen.
 
-#### Artikel 8.21. Gebruikte taal
+##### Artikel 8.21. Gebruikte taal
 
 De betrokken personen kennen de gebruikte taal zodanig dat zij de boodschap correct kunnen uitspreken en begrijpen en zich al naar gelang van de boodschap op passende wijze kunnen gedragen op het vlak van de veiligheid of de gezondheid.
 
-#### Artikel 8.22. Algemene vereisten inzake hand en armseinen
+##### Artikel 8.22. Algemene vereisten inzake hand en armseinen
 
 1. Een hand- of armsein is precies en eenvoudig en bestaat uit een breed gebaar.
 
 2. Het gelijktijdig gebruik van beide armen verloopt symmetrisch en geeft slechts één enkel signaal weer.
 
-#### Artikel 8.23. Seingever
+##### Artikel 8.23. Seingever
 
 1. De seingever geeft met behulp van hand- en armseinen besturingsinstructies door aan de ontvanger van de seinen.
 
@@ -1740,29 +1766,29 @@ De betrokken personen kennen de gebruikte taal zodanig dat zij de boodschap corr
 
 4. Wanneer niet aan de in het derde lid, genoemde voorwaarden kan worden voldaan, worden een of meer bijkomende seingevers ingeschakeld.
 
-#### Artikel 8.24. Ontvanger van seinen
+##### Artikel 8.24. Ontvanger van seinen
 
 De ontvanger van de seinen zet de in uitvoering zijnde transportbeweging stil om nieuwe instructies te vragen, wanneer hij de ontvangen orders niet met de nodige veiligheidsgaranties kan uitvoeren.
 
-#### Artikel 8.25. Kenbaarheid seingever
+##### Artikel 8.25. Kenbaarheid seingever
 
 De seingever is makkelijk herkenbaar voor de ontvanger van de seinen.
 
-#### Artikel 8.26. Voorkomen onduidelijkheid seinen
+##### Artikel 8.26. Voorkomen onduidelijkheid seinen
 
 De in [bijlage XIX](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XIX&z=2026-04-09&g=2026-04-09) bij deze regeling opgenomen hand- en armseinen, worden gebruikt in de daarbij vermelde situaties, waarbij deze geen afbreuk doen aan het gebruik van andere van toepassing zijnde codes, met name in bepaalde bedrijvigheidssectoren, waarmee dezelfde handelingen worden aangeduid.
 
-#### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
+##### Artikel 8.27. Signalering van obstakels en gevaarlijke plaatsen
 
 1. De signalering van gevaar door stoten tegen obstakels, door vallende voorwerpen of personen, geschiedt door middel van geel, afgewisseld met zwart, of rood afgewisseld met wit, binnen de bebouwde zones van het bedrijf of de inrichting waartoe de werknemer in het kader van zijn werk toegang heeft.
 
 2. De gele en zwarte of rode en witte banden worden onder een hoek van circa 45° aangebracht en hebben ongeveer dezelfde afmetingen.
 
-#### Artikel 8.28. Afstemming signalering op obstakel of gevaarlijke plaats
+##### Artikel 8.28. Afstemming signalering op obstakel of gevaarlijke plaats
 
 De afmetingen van de signalering houden rekening met de afmeting van het gesignaleerde obstakel of de gesignaleerde gevaarlijke plaats.
 
-#### Artikel 8.29. Vereisten inzake markering van verkeerswegen
+##### Artikel 8.29. Vereisten inzake markering van verkeerswegen
 
 1. Wanneer de bescherming van de werknemers dat vereist, worden de verkeerswegen op de arbeidsplaats voor voertuigen duidelijk door doorlopende strepen met een goed zichtbare kleur aangegeven.
 
@@ -1770,7 +1796,7 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 ### Hoofdstuk 9. Overgangs- en Slotbepalingen
 
-#### Artikel 9.1. Overgangsbepaling duiker, duikploegleider, duikmedisch begeleider en duikerarts
+##### Artikel 9.1. Overgangsbepaling duiker, duikploegleider, duikmedisch begeleider en duikerarts
 
 1. De persoon die op 1 februari 2025 beschikt over een geldig certificaat duikarbeid wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat, afhankelijk van de sector waarin hij werkzaam is, ingeschreven in het Register civiele duikarbeid of het Register duikarbeid brandweer en politie, in de volgende scope, bedoeld in [artikel 6.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&artikel=6.1&z=2026-04-09&g=2026-04-09):
 
@@ -1830,19 +1856,19 @@ De afmetingen van de signalering houden rekening met de afmeting van het gesigna
 
 - c. als duikploegleider deel heeft genomen aan ten minste 30 duiken in de categorie van duikarbeid waarvoor het certificaat is afgegeven, indien het certificaat een certificaat is als bedoeld in het tweede lid en is afgegeven voor een andere subcategorie dan die genoemd in onderdeel b.
 
-#### Artikel 9.2. Overgangsbepaling vuurwerkdeskundige
+##### Artikel 9.2. Overgangsbepaling vuurwerkdeskundige
 
 Gereserveerd
 
-#### Artikel 9.2a
+##### Artikel 9.2a
 
 Vervallen
 
-#### Artikel 9.2b. Overgangsregeling certificering duikerartsen
+##### Artikel 9.2b. Overgangsregeling certificering duikerartsen
 
 De in [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=6&paragraaf=6.2&artikel=6.5&z=2025-01-18&g=2025-01-18), opgenomen eis geldt niet indien de aanvrager voor 1 januari 2003 al werkzaam was als duikerarts en in de periode van een jaar voor de eerste afgifte van het certificaat duikerarts aan hem, ten minste 10 personen belast met het verrichten van duikarbeid heeft gekeurd.
 
-#### Artikel 9.2c. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
+##### Artikel 9.2c. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
 
 1. De persoon die op 1 januari 2021 beschikt over een geldig certificaat basiskennis OCE, assistent OCE-deskundige, OCE-deskundige of senior OCE-deskundige dat is verkregen op basis van paragraaf 6.2.1 en bijlage 2 van [bijlage XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2025-01-18&g=2025-01-18), zoals deze luidden op 31 december 2020, wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Basiskennis opsporing ontplofbare oorlogsresten, Assistent deskundige opsporing ontplofbare oorlogsresten, Deskundige opsporing ontplofbare oorlogsresten respectievelijk Senior deskundige opsporing ontplofbare oorlogsresten waarbij hij geacht wordt te voldoen aan op de hem betrekking hebbende eisen die zijn opgenomen in het registratieschema veilig werken met explosieve stoffen, met dien verstande dat hij bij het verzoek om inschrijving een Verklaring omtrent het gedrag overlegt die niet ouder is dan zes maanden.
 
@@ -1858,11 +1884,11 @@ De in [artikel 6.5, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c
 
 7. Voor de in het eerste tot en met zesde lid bedoelde personen die om redenen van openbare veiligheid niet opgenomen kunnen worden in het Register veilig werken met explosieve stoffen, blijven [artikel 4.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2&artikel=4.16&z=2025-01-18&g=2025-01-18) van deze regeling, de [bijlagen X](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=X&z=2025-01-18&g=2025-01-18), paragraaf 6.2.1, en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2025-01-18&g=2025-01-18), bijlage 2 behorend bij deze regeling en [artikel 4.8, tweede, derde en vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8), zoals deze luidden op 31 december 2020, van toepassing.
 
-#### Artikel 9.2d. Overgangsregeling opsporen van ontplofbare oorlogsresten door defensie
+##### Artikel 9.2d. Overgangsregeling opsporen van ontplofbare oorlogsresten door defensie
 
 In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17e&z=2025-01-18&g=2025-01-18) en [4.17f](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.2b&artikel=4.17f&z=2025-01-18&g=2025-01-18) blijven voor explosievenopruimingseenheden van het Ministerie van Defensie die ontplofbare oorlogsresten opsporen de artikelen 4.17e en 4.17f en de [bijlagen XI](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XI&z=2025-01-18&g=2025-01-18) en [XII](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=XII&z=2025-01-18&g=2025-01-18) van kracht zoals deze luidden op 31 december 2020.
 
-#### Artikel 9.2e. Tijdelijke bepaling certificering asbest en Covid-19
+##### Artikel 9.2e. Tijdelijke bepaling certificering asbest en Covid-19
 
 1. In afwijking van de artikelen 16, vijfde lid, 20, vijfde lid, 24, vijfde lid, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-01-18&g=2025-01-18), dat door de minister is gepubliceerd in de Staatscourant van 29 maart 2019 (Stcrt. 2019, 17010), wordt de geldigheidsduur van een certificaat dat verloopt in de periode van 15 december 2020 tot en met 30 maart 2021, verlengd tot en met 24 mei 2021.
 
@@ -1872,7 +1898,7 @@ In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 4. In verband met het derde lid geldt in afwijking van de artikelen 14, eerste lid, onderdeel b, en 34, eerste lid, onderdeel b, van het certificatieschema, bedoeld in [artikel 4.27, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2025-01-18&g=2025-01-18), dat door de minister is gepubliceerd in de Staatscourant van 6 december 2018 (Stcrt. 2018, 68771), in de periode van 15 december 2020 tot en met 24 mei 2021 niet verplichting om ervoor zorg te dragen dat ten minste één keer per twaalf maanden de daar genoemde facefit-test is uitgevoerd.
 
-#### Artikel 9.3. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
+##### Artikel 9.3. Overgangsbepaling OCE-deskundige, springmeester en schietmeester
 
 1. De persoon die op 1 januari 2021 beschikt over een geldig certificaat springmeester 1 wordt op zijn verzoek voor de resterende geldigheidsduur van dat certificaat ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Springmeester 1 en op het competentieniveau Springmeester industriële reiniging.
 
@@ -1884,7 +1910,7 @@ In afwijking van de [artikelen 4.17e](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 5. De persoon die op 1 januari 2021 beschikt over een geldig getuigschrift schietmeester wordt op zijn verzoek voor de resterende geldigheidsduur van dat getuigschrift ingeschreven in het Register veilig werken met explosieve stoffen op het competentieniveau Schietmeester.
 
-#### Artikel 9.4. Overgangsregeling hoofdstuk 3, paragraaf 3.3 Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
+##### Artikel 9.4. Overgangsregeling hoofdstuk 3, paragraaf 3.3 Winningsindustrieën voor het opsporen en de winning van koolwaterstoffen
 
 De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 3.16](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.16&z=2026-04-09&g=2026-04-09), de aanvulling van het veiligheids- en gezondheidsbeleid en -document, bedoeld in [artikel 3.17](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.17&z=2026-04-09&g=2026-04-09), de aanvulling van de risico-inventarisatie en -evaluatie, bedoeld in de [artikelen 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.18&z=2026-04-09&g=2026-04-09) en [3.19](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.19&z=2026-04-09&g=2026-04-09), en de aanvulling van het noodplan, bedoeld in [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.3&artikel=3.20&z=2026-04-09&g=2026-04-09), worden door de werkgever vastgelegd en aan de toezichthouder gezonden:
 
@@ -1892,7 +1918,7 @@ De aanvulling van het veiligheids- en gezondheidszorgsysteem, bedoeld in [artike
 
 - b. voor installaties anders dan bedoeld in onderdeel a: voor de aanvang van de werkzaamheden.
 
-#### Artikel 9.5. Citeertitel
+##### Artikel 9.5. Citeertitel
 
 Deze regeling wordt aangehaald als: Arbeidsomstandighedenregeling.
 
@@ -2104,7 +2130,7 @@ Als onvoldoende voorzorgsmaatregelen worden genomen, kan een aantal bedrijfsmidd
 
 De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de voorgaande Arbolijsten (1998 tot en met 2003) voorkwamen. Nieuwkomers op de lijst zijn met een **uitroepteken** gemarkeerd (ook bedrijfsmiddelen met een enigszins gewijzigde omschrijving zijn voorzien van een uitroepteken).
 
-#### *S 006 Ventilatiesysteem voor kapsalons
+##### *S 006 Ventilatiesysteem voor kapsalons
 
 **bestemd voor:** het afzuigen van stoffen en dampen afkomstig van haarverzorgingsprodukten en het aanvoeren van zuivere lucht,
 
@@ -2118,7 +2144,7 @@ De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de vo
 
 - voorverwarmingsvoorziening voor aan te voeren verse lucht (met warmte wisselaar).
 
-#### *S 007 Cirkelzaag met schuiftafel (formaatzaag) volgens norm NEN-EN 1870-1:1999
+##### *S 007 Cirkelzaag met schuiftafel (formaatzaag) volgens norm NEN-EN 1870-1:1999
 
 **bestemd voor:** het onder goede arbeidsomstandigheden op maat zagen van hout, houtachtige plaatmaterialen en kunststofplaten,
 
@@ -2130,7 +2156,7 @@ De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de vo
 
 • (eventueel) automatische klepregeling.
 
-#### *S 008 Freesmachine met één verticale as (tafelfreesmachine) volgens norm NEN-EN 848-1:1998
+##### *S 008 Freesmachine met één verticale as (tafelfreesmachine) volgens norm NEN-EN 848-1:1998
 
 **bestemd voor:** het onder goede arbeidsomstandigheden frezen van hout en houtachtige materialen,
 
@@ -2142,7 +2168,7 @@ De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de vo
 
 - (eventueel) automatische klepregeling.
 
-#### *S 009 Vlakbank met handvoeding volgens norm NEN-EN 859:1997
+##### *S 009 Vlakbank met handvoeding volgens norm NEN-EN 859:1997
 
 **bestemd voor:** het onder goede arbeidsomstandigheden vlakken en strijken van hout en houtachtige materialen,
 
@@ -2154,7 +2180,7 @@ De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de vo
 
 - (eventueel) automatische klepregeling.
 
-#### *S 010 Bronafzuiging verfmeng- en verfbereidingstafels kapsalons
+##### *S 010 Bronafzuiging verfmeng- en verfbereidingstafels kapsalons
 
 **bestemd voor:** het afzuigen van stoffen en dampen afkomstig van haarverzorgingsprodukten en verven,
 
@@ -2168,7 +2194,7 @@ De Arbolijst 2004 bestaat voor een deel uit bedrijfsmiddelen die ook al op de vo
 
 - instelvoorziening aanvoercapaciteit.
 
-#### !*S 011 Industriële stofzuiger of veeg-schrob-zuigmachine
+##### !*S 011 Industriële stofzuiger of veeg-schrob-zuigmachine
 
 **bestemd voor:** het opzuigen en verzamelen van stof, gruis, spanen enz. en/of het afzuigen tijdens (machinale) bewerkingen,
 
@@ -2204,7 +2230,7 @@ bij asbestsanering
 
 stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
-#### *S 014 Verticale platenzaag volgens norm NEN-EN 1870-2:1994
+##### *S 014 Verticale platenzaag volgens norm NEN-EN 1870-2:1994
 
 **bestemd voor:** het onder goede arbeidsomstandigheden op maat zagen van hout, houtachtige plaatmaterialen en kunststofplaten,
 
@@ -2216,7 +2242,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) automatische klepregeling.
 
-#### *S 015 Eenzijdige pennenbank met schuiftafel volgens norm NEN-EN 1218-1:1999
+##### *S 015 Eenzijdige pennenbank met schuiftafel volgens norm NEN-EN 1218-1:1999
 
 **bestemd voor:** het onder goede arbeidsomstandigheden maken van houten pennen,
 
@@ -2230,7 +2256,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) automatische klepregeling.
 
-#### #*S 016 Verfmengtafel en/of verfuitlektafel met bronafzuiging
+##### #*S 016 Verfmengtafel en/of verfuitlektafel met bronafzuiging
 
 **bestemd voor:** het zonder blootstelling aan schadelijke stoffen hanteren (mengen) van verf (verfblikken),
 
@@ -2250,7 +2276,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) trolley voor blikken.
 
-#### *S 017 Oplosmiddelenfiltratie- en luchtzuiveringsunit
+##### *S 017 Oplosmiddelenfiltratie- en luchtzuiveringsunit
 
 **bestemd voor:** het reinigen van met schadelijke (niet-kankerverwekkende) stoffen of gassen vervuilde lucht en voor het recirculeren van de gereinigde lucht,
 
@@ -2272,7 +2298,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - geluidbeperkende voorzieningen.
 
-#### *S 018 Vierzijdige schaafmachine volgens norm Ontw. NEN-EN 12750:1997
+##### *S 018 Vierzijdige schaafmachine volgens norm Ontw. NEN-EN 12750:1997
 
 **bestemd voor:** het onder goede arbeidsomstandigheden profileren (schaven) van hout,
 
@@ -2284,7 +2310,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) automatische klepregeling.
 
-#### *S 019 Vandiktebank voor eenzijdige bewerking volgens norm NEN-EN 860:1997
+##### *S 019 Vandiktebank voor eenzijdige bewerking volgens norm NEN-EN 860:1997
 
 **bestemd voor:** het onder goede arbeidsomstandigheden op dikte schaven van hout,
 
@@ -2296,13 +2322,13 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) automatische klepregeling.
 
-#### *S 028 Hand- en hoekstukkenreiniger
+##### *S 028 Hand- en hoekstukkenreiniger
 
 **bestemd voor:** het machinaal reinigen, desinfecteren en/of steriliseren van tandheelkundige hand- en hoekstukken,
 
 **bestaande uit:** reiniger of combinatie van reinigers specifiek bestemd voor reiniging, desinfectie en/of sterilisatie van tandheelkundige hand- en hoekstukken.
 
-#### #*S 029 Neerwaartse-luchtstromingsvoorziening
+##### #*S 029 Neerwaartse-luchtstromingsvoorziening
 
 **bestemd voor:** het verdrijven van schadelijke stoffen en dampen in de lucht via een neerwaartse luchtstroom,
 
@@ -2314,7 +2340,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) cabine.
 
-#### *S 030 Gesloten wassysteem voor zeefdrukramen
+##### *S 030 Gesloten wassysteem voor zeefdrukramen
 
 **bestemd voor:** het automatisch wassen (verwijderen van drukinkten) uit zeefdrukramen,
 
@@ -2336,7 +2362,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - raamhouders of raamtransportinrichting.
 
-#### *S 032 Tipafzuiging soldeerdamp
+##### *S 032 Tipafzuiging soldeerdamp
 
 **bestemd voor:** het onder goede arbeidsomstandigheden solderen, door afzuigen van soldeerdampen direct aan de tip van de soldeerbout,
 
@@ -2354,7 +2380,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) geluidsarm filter- en afzuigsysteem.
 
-#### #*S 033 Vatenreinigingsinstallatie
+##### #*S 033 Vatenreinigingsinstallatie
 
 **bestemd voor:** het in een gesloten systeem reinigen van met chemicaliën vervuilde vaten,
 
@@ -2368,7 +2394,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) afzuiginstallatie.
 
-#### #*S 035 Elektrische reinigingsinstallatie
+##### #*S 035 Elektrische reinigingsinstallatie
 
 **bestemd voor:** het door verhitting reinigen van metalen voorwerpen,
 
@@ -2382,7 +2408,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - besturing.
 
-#### *S 036 Sterilisatiesysteem
+##### *S 036 Sterilisatiesysteem
 
 **bestemd voor:** het bij lage temperatuur steriliseren van medisch instrumentarium, zonder gebruik van toxische stoffen,
 
@@ -2396,7 +2422,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - besturings- en controlesysteem.
 
-#### *S 037 Formalineverdunningsautomaat
+##### *S 037 Formalineverdunningsautomaat
 
 **bestemd voor:** het volautomatisch verdunnen van geconcentreerde formaline, zonder dat formalinedamp vrijkomt,
 
@@ -2410,7 +2436,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - pompen en kleppen.
 
-#### *S 038 Ventilatieunit leesruimte
+##### *S 038 Ventilatieunit leesruimte
 
 **bestemd voor:** de stofafvoer in sorteer- en controleruimten voor land- en tuinbouwprodukten,
 
@@ -2424,7 +2450,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - (eventueel) leescabine.
 
-#### *S 039 Inhalatievoorziening
+##### *S 039 Inhalatievoorziening
 
 **bestemd voor:** het toedienen van anesthetica zonder dat behandelaar eraan blootstaat,
 
@@ -2438,13 +2464,13 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - debietmeter.
 
-#### S 040 Roetfilter voor dieselmotoren van mobiele machines
+##### S 040 Roetfilter voor dieselmotoren van mobiele machines
 
 **bestemd voor:** opvangen van roet uit dieselmotoren,
 
 **bestaande uit:** poreus keramisch roetfilter dat - na verbranding van het roet - kan worden hergebruikt.
 
-#### #*S 042 Afzuigbank met filtering
+##### #*S 042 Afzuigbank met filtering
 
 **bestemd voor:** de afzuiging en neerslag van stof afkomstig van de droge bewerking van steenmaterialen,
 
@@ -2454,7 +2480,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - ingebouwd filtersysteem met pomp- en sproei-installatie ter reiniging van het filter.
 
-#### *S 044 Leliewortelsnijder
+##### *S 044 Leliewortelsnijder
 
 **bestemd voor:** het stofvrij met een messenbalk snijden van leliebollenwortels
 
@@ -2472,7 +2498,7 @@ stofzuiger met ten minste H (K1) of gelijkwaardige beschermingsgraad.
 
 - afvoerband.
 
-#### *S 045 Diabolosorteerder
+##### *S 045 Diabolosorteerder
 
 **bestemd voor:** het stofvrij in verschillende eindmaten sorteren van aardappelen, witlofpennen, bollen, uien, sjalotten etc.,
 
@@ -2490,7 +2516,7 @@ Frame;
 
 - (eventueel) leestafel.
 
-#### #*S 047 Dampafzuigapparatuur
+##### #*S 047 Dampafzuigapparatuur
 
 **bestemd voor:** het afvoeren van dampen van een ontsmettingsbad voor bollen en knollen, uit de verwerkingsruimte,
 
@@ -2504,13 +2530,13 @@ Frame;
 
 - (eventueel) filterinstallatie.
 
-#### *S 048 Watervernevelingsinstallatie
+##### *S 048 Watervernevelingsinstallatie
 
 **bestemd voor:** het beperken van stofverspreiding bij het grondvrijmaken van wortelpruiken van agrarische produkten, door luchtbevochtiging
 
 **bestaande uit:** watervernevelingssysteem.
 
-#### *S 050 Profileermachine
+##### *S 050 Profileermachine
 
 **bestemd voor:** het onder goede arbeidsomstandigheden profileren van kozijnhout met meer assen tegelijkertijd,
 
@@ -2528,7 +2554,7 @@ Frame;
 
 - vast doorvoersysteem.
 
-#### *S 052 Dubbelmaskersysteem
+##### *S 052 Dubbelmaskersysteem
 
 **bestemd voor:** het met geringe blootstelling aan anesthetica chirurgisch behandelen van patiënten,
 
@@ -2542,7 +2568,7 @@ Frame;
 
 - stroommeter.
 
-#### *S 053 Ozonsysteem
+##### *S 053 Ozonsysteem
 
 **bestemd voor:** het opwekken van ozon voor oxydatie en desinfectie,
 
@@ -2554,7 +2580,7 @@ Frame;
 
 - ozon-watermengsysteem.
 
-#### #*S 054 Reinigingsmachine voor metalen voorwerpen
+##### #*S 054 Reinigingsmachine voor metalen voorwerpen
 
 **bestemd voor:** het met water reinigen,
 
@@ -2566,7 +2592,7 @@ Frame;
 
 - hete-luchtdroger.
 
-#### #*S 055 Automatisch houtbewerkingsstation
+##### #*S 055 Automatisch houtbewerkingsstation
 
 **bestemd voor:** het onder goede arbeidsomstandigheden bewerken van hout,
 
@@ -2584,7 +2610,7 @@ De afzuiging is zodanig uitgevoerd dat de stofemissiewaarde maximaal 1 mg/m3 luc
 
 Het geluid op de bedieningsplaats, gemeten volgens de norm NEN-EN-ISO 11203:1996, bedraagt maximaal 80 dB(A).
 
-#### *S 056 Gemechaniseerde vacuümtester
+##### *S 056 Gemechaniseerde vacuümtester
 
 **bestemd voor:** het controleren van verpakkingen op het vereiste vacuüm,
 
@@ -2598,7 +2624,7 @@ Het geluid op de bedieningsplaats, gemeten volgens de norm NEN-EN-ISO 11203:1996
 
 - verdeel- en afvoerinrichting.
 
-#### #*S 057 Hoogvacuümafzuigsysteem voor handgereedschap
+##### #*S 057 Hoogvacuümafzuigsysteem voor handgereedschap
 
 **bestemd voor:** het met geringe stofbelasting uitvoeren van houtbewerking met handgereedschappen,
 
@@ -2620,7 +2646,7 @@ Het geluid op de bedieningsplaats, gemeten volgens de norm NEN-EN-ISO 11203:1996
 
 De afzuiging is zodanig uitgevoerd dat de stofemissiewaarde maximaal 1 mg/m3 lucht bedraagt. Er wordt geen afgezogen lucht naar werkruimte terug gevoerd.
 
-#### #*S 059 Houtstofafzuiginstallatie volgens norm prEN 12779:1997
+##### #*S 059 Houtstofafzuiginstallatie volgens norm prEN 12779:1997
 
 **bestemd voor:** het afzuigen van houtstof afkomstig van houtbewerking,
 
@@ -2640,13 +2666,13 @@ De afzuiging is zodanig uitgevoerd dat de stofemissiewaarde maximaal 1 mg/m3 luc
 
 Bij het bedrijfsmiddel behoort een opleveringsprotocol van de fabrikant van luchtzuiveringssystemen, waarvan een kopie bij de melding dient te worden gevoegd.
 
-#### *S 060 Elektronische lengtemeter voor tandheelkundige wortelkanalen
+##### *S 060 Elektronische lengtemeter voor tandheelkundige wortelkanalen
 
 **bestemd voor:** het zonder gebruik van röntgenstraling opmeten van de lengte van een tandheelkundig wortelkanaal,
 
 **bestaande uit:** elektronisch meetapparaat met toebehoren.
 
-#### *S 061 Vernietigingscontainer narcotica (drugs)
+##### *S 061 Vernietigingscontainer narcotica (drugs)
 
 **bestemd voor:** het zonder schadelijke blootstelling vernietigen van narcotica (drugs),
 
@@ -2676,7 +2702,7 @@ Bij het bedrijfsmiddel behoort een opleveringsprotocol van de fabrikant van luch
 
 - katalysator.
 
-#### *S 063 Poederafzuigsysteem
+##### *S 063 Poederafzuigsysteem
 
 **bestemd voor:** het afzuigen van overtollig antismetpoeder in drukkerijen,
 
@@ -2686,7 +2712,7 @@ Bij het bedrijfsmiddel behoort een opleveringsprotocol van de fabrikant van luch
 
 - pomp-filtersysteem.
 
-#### #*S 064 Breedbandschuurmachine
+##### #*S 064 Breedbandschuurmachine
 
 **bestemd voor:** het met geringe stofbelasting schuren van houten producten,
 
@@ -2702,13 +2728,13 @@ Bij het bedrijfsmiddel behoort een opleveringsprotocol van de fabrikant van luch
 
 De emissie blijft onder de 0,5 mg/m3 lucht.
 
-#### !*S 065 Warmtebeeldcamera
+##### !*S 065 Warmtebeeldcamera
 
 **bestemd voor:** het met geringe rook- en warmtebelasting opsporen van brandhaarden en mogelijke slachtoffers,
 
 **bestaande uit:** warmtedetecterende camera.
 
-#### !*S 066 Buidelband (tot buis deformeerbare transportband)
+##### !*S 066 Buidelband (tot buis deformeerbare transportband)
 
 **bestemd voor:** het stofvrij transport van stoffige materialen,
 
@@ -2718,7 +2744,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 - bijbehorend ophang- en sluitmechanisme.
 
-#### !*S 069 Harsinjectie-installatie
+##### !*S 069 Harsinjectie-installatie
 
 **bestemd voor:** het toepassen van kunststofharsen zonder blootstelling aan toxische stoffen,
 
@@ -2730,7 +2756,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 - vacuümpomp.
 
-#### !*S 070 Kippenlaadmachine
+##### !*S 070 Kippenlaadmachine
 
 **bestemd voor:** het met geringe stofbelasting en fysieke belasting verzamelen van kippen,
 
@@ -2740,7 +2766,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 - laadmachine.
 
-#### !*S 071 Voedselrestenafvoersysteem
+##### !*S 071 Voedselrestenafvoersysteem
 
 **bestemd voor:** het zonder stank- en besmettingsgevaar afvoeren van voedselresten in grote keukens,
 
@@ -2754,7 +2780,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 - ondergrondse-opslagtank.
 
-#### !*S 072 Vernevelrobot
+##### !*S 072 Vernevelrobot
 
 **bestemd voor:** het met geringe blootstelling van de werknemers, vernevelen van gewasbestrijdingsmiddelen
 
@@ -2774,7 +2800,7 @@ De emissie blijft onder de 0,5 mg/m3 lucht.
 
 Voorbeeld 1: U heeft 2 ton van een stof in huis die valt onder categorie H1 acuut toxisch categorie 1. De drempelwaarde van deze categorie is 1,5 ton. Dat betekent dat de hoeveelheid stof de drempelwaarde overstijgt. Uw bedrijf of inrichting is dus ARIE-plichtig.
 
-#### L 001 Geluidarm snijgereedschap
+##### L 001 Geluidarm snijgereedschap
 
 **bestemd voor:** het beperken van het geluid dat vrijkomt bij gebruik van houtbewerkingsmachines,
 
@@ -2786,7 +2812,7 @@ Voorbeeld 1: U heeft 2 ton van een stof in huis die valt onder categorie H1 acuu
 
 Het gereedschap voldoet aan het gestelde van norm NEN-EN 847-1:1997. Het is voorzien van de aanduiding MAN, hetgeen in de factuur/koopovereenkomst is aangegeven.
 
-#### *L 003 Verstekzaag met geluidomkasting
+##### *L 003 Verstekzaag met geluidomkasting
 
 **bestemd voor:** het onder verstek zagen van metalen profielen,
 
@@ -2798,13 +2824,13 @@ Het gereedschap voldoet aan het gestelde van norm NEN-EN 847-1:1997. Het is voor
 
 Het geluid op de bedieningsplaats, gemeten volgens de norm NEN-EN-ISO 11203:1996 bedraagt maximaal 80 dB(A).
 
-#### L 006 Geluidsmantel om heiblok
+##### L 006 Geluidsmantel om heiblok
 
 **bestemd voor:** het reduceren van geluid bij heiwerkzaamheden,
 
 **bestaande uit:** geluidsmantel die (eventueel in combinatie met een speciale heimuts) het geluid - blijkens een meetrapport - met minimaal 15 dB(A) reduceert (eventueel uitgebreid met geluiddempende paalmantel).
 
-#### *L 007 Bestuurbare unit voor horizontale boringen
+##### *L 007 Bestuurbare unit voor horizontale boringen
 
 **bestemd voor:** het gestuurd boren van gaten voor kabels en leidingen,
 
@@ -2820,7 +2846,7 @@ Het geluid op de bedieningsplaats, gemeten volgens de norm NEN-EN-ISO 11203:1996
 
 Het geluid op een afstand van 2 m van de in werking zijnde machine (bedrijfsstand) bedraagt - gemeten volgens EN/ISO-normen - maximaal 85 dB(A).
 
-#### *L 008 Breedbandontbraammachine
+##### *L 008 Breedbandontbraammachine
 
 **bestemd voor:** het onder goede arbeidsomstandigheden ontbramen van metalen platen,
 
@@ -2838,7 +2864,7 @@ Het geluid op een afstand van 2 m van de in werking zijnde machine (bedrijfsstan
 
 Het geluid van de belaste breedbandontbraammachine, gemeten volgens de norm ISO 3744 t/m 3747, bedraagt maximaal 80 dB(A).
 
-#### *L 009 Bewerkingsmachine aluminium profielen
+##### *L 009 Bewerkingsmachine aluminium profielen
 
 **bestemd voor:** het bewerken van dunwandige profielen bij acceptabel geluidsniveau,
 
@@ -2850,7 +2876,7 @@ Het geluid van de belaste breedbandontbraammachine, gemeten volgens de norm ISO 
 
 Het geluid van de belaste machine, gemeten volgens de norm EN ISO 11202 bedraagt maximaal 77 dB(A).
 
-#### *L 010 Geluidreducerend aan- en afvoersysteem
+##### *L 010 Geluidreducerend aan- en afvoersysteem
 
 **bestemd voor:** het met relatief weinig geluid aan- en afvoeren van materiaal in een transportsysteem,
 
@@ -2866,7 +2892,7 @@ Het geluid van de belaste machine, gemeten volgens de norm EN ISO 11202 bedraagt
 
 Het transportgeluid wordt met minimaal 10 dB gereduceerd.
 
-#### !*L 011 Geluidsarme hydraulische funderingsmachine
+##### !*L 011 Geluidsarme hydraulische funderingsmachine
 
 **bestemd voor:** het met relatief weinig geluid heien of boren van funderingspalen,
 
@@ -2882,7 +2908,7 @@ Het transportgeluid wordt met minimaal 10 dB gereduceerd.
 
 Blijkens over te leggen meetrapporten mag het door de werkzaamheden veroorzaakte geluid op een afstand van 15 m tot de geluidsbron niet meer bedragen dan 75 dB(A).
 
-#### !*L 012 Geluidsarme handtractor
+##### !*L 012 Geluidsarme handtractor
 
 **bestemd voor:** het met relatief weinig geluid plantklaar van de bodem,
 
@@ -2900,13 +2926,13 @@ Blijkens over te leggen meetrapporten mag het door de werkzaamheden veroorzaakte
 
 waarbij qx = de hoeveelheid van gevaarlijke stof x of de hoeveelheid gevaarlijke stoffen van categorie x uit deel 1 of deel 2 van deze bijlage, en QUX = de voor gevaarlijke stof x of categorie x in kolom 2 van deel 1 of van deel 2 van deze bijlage relevante drempelwaarde.
 
-#### F 001 Chauffeursstoel voor bedrijfswagens
+##### F 001 Chauffeursstoel voor bedrijfswagens
 
 **bestemd voor:** het in een goede houding besturen/bedienen van voertuigen,
 
 **bestaande uit:** stoel die blijkens een certificaat tenminste voldoet aan de specificaties van BGZ-Wegvervoer (Kwaliteitsmerk) en de norm NEN 5518:2000. Bij het bedrijfsmiddel behoort een certificaat, waarvan een kopie bij de melding dient te worden gevoegd.
 
-#### !*F 002 Verstelbare werk- of behandeltafel
+##### !*F 002 Verstelbare werk- of behandeltafel
 
 **bestemd voor:** het in een goede houding verrichten van werkzaamheden,
 
@@ -2928,7 +2954,7 @@ en ten minste één van de volgende mechanismen:
 
 - schroefspindels met slinger.
 
-#### *F 003 Hydraulische pluklift
+##### *F 003 Hydraulische pluklift
 
 **bestemd voor:** het op goede werkhoogte plukken van champignons,
 
@@ -2940,7 +2966,7 @@ en ten minste één van de volgende mechanismen:
 
 - twee-handenbeveiligingsbediening.
 
-#### *F 006 Manipulator (positioneerder)
+##### *F 006 Manipulator (positioneerder)
 
 **bestemd voor:** het in een goede houding bewerken of verplaatsen van voorwerpen door deze over twee of drie assen (x-, y- en z-as) en/of via rotatie in een gewenste positie brengen,
 
@@ -2952,7 +2978,7 @@ en ten minste één van de volgende mechanismen:
 
 - (eventueel) overnameconstructie (voor veilig uit de baan overnemen en weer in de baan plaatsen van produkten).
 
-#### *F 009 Stroverdeler
+##### *F 009 Stroverdeler
 
 **bestemd voor:** het automatisch verstrooien van een pak/baal stro,
 
@@ -2966,13 +2992,13 @@ en ten minste één van de volgende mechanismen:
 
 - afstandsbediening.
 
-#### F 010 Spraakherkenningssysteem
+##### F 010 Spraakherkenningssysteem
 
 **bestemd voor:** het met mondelinge commando's bedienen van elektrische apparatuur,
 
 **bestaande uit:** microfoon/speaker, eventueel headset, draadgebonden interface of infraroodzender of radiozender (software uitgezonderd).
 
-#### *F 011 Hijs- en railsysteem
+##### *F 011 Hijs- en railsysteem
 
 **bestemd voor:** het met geringe fysieke inspanning (horizontaal) verplaatsen van goederen in een productieproces, met tilhulpen voor laden en lossen,
 
@@ -2984,7 +3010,7 @@ en ten minste één van de volgende mechanismen:
 
 - (eventueel) lastverlichtende hulpmiddelen.
 
-#### *F 013 Opper- en bestratingsmachine (uitgevoerd als: mini -knik, -schrank, -wiellader)
+##### *F 013 Opper- en bestratingsmachine (uitgevoerd als: mini -knik, -schrank, -wiellader)
 
 **bestemd voor:** het met geringe fysieke inspanning transporteren en plaatsen van o.a. straatstenen, tegels, trottoirbanden en putten,
 
@@ -2996,7 +3022,7 @@ en ten minste één van de volgende mechanismen:
 
 Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [richtlijn 89/514/EEG](31989L0514), bedraagt maximaal 85 dB(A).
 
-#### *F 016 Kluitenrooimachine
+##### *F 016 Kluitenrooimachine
 
 **bestemd voor:** het met geringe fysieke inspanning rooien en/of verplaatsen van bomen en struiken met kluit,
 
@@ -3012,7 +3038,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - bestuurdersstoel van waaruit goed zicht bestaat op zowel weg als rooiplek.
 
-#### *F 018 Opkar
+##### *F 018 Opkar
 
 **bestemd voor:** het met geringe fysieke inspanning oppakken, transporteren en weer lossen van een pakket stenen van zo'n 50 stuks,
 
@@ -3026,7 +3052,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - accu-pak.
 
-#### F 022 Draaitafel met inmeetmal voor deuren
+##### F 022 Draaitafel met inmeetmal voor deuren
 
 **bestemd voor:** het met geringe fysieke inspanning pasmaken en inhangen van deuren,
 
@@ -3042,7 +3068,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) speciale handzaagmachine volgens norm NEN-EN 50144-1:1998.
 
-#### *F 023 Elektrische trekker/verplaatser voor bijvoorbeeld stoelen, bedden of (rol)containers
+##### *F 023 Elektrische trekker/verplaatser voor bijvoorbeeld stoelen, bedden of (rol)containers
 
 **bestemd voor:** het ten behoeve van verpleegkundige handelingen met geringe fysieke inspanning verplaatsen van stoelen (waarop zich een persoon bevindt), bedden of (rol)containers,
 
@@ -3056,7 +3082,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - bedieningspaneel.
 
-#### *F 026 Verrijdbare en kantelbare bewerkingstafel
+##### *F 026 Verrijdbare en kantelbare bewerkingstafel
 
 **bestemd voor:** het met geringe fysieke belasting bewerken van producten,
 
@@ -3080,7 +3106,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) beslagmagazijn.
 
-#### *F 027 Automatische kisten/containerwasser met kantelinrichting
+##### *F 027 Automatische kisten/containerwasser met kantelinrichting
 
 **bestemd voor:** het met geringe fysieke inspanning reinigen van kisten of containerbakken,
 
@@ -3098,7 +3124,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) afvoer grondresten.
 
-#### *F 028 Hefwagen (met de hand verplaatsbaar)
+##### *F 028 Hefwagen (met de hand verplaatsbaar)
 
 **bestemd voor:** het op een goede werkhoogte brengen/houden van produkten,
 
@@ -3110,13 +3136,13 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) beveiliging tegen knelgevaar.
 
-#### *F 038 Mechanische blokkensteller
+##### *F 038 Mechanische blokkensteller
 
 **bestemd voor:** het met geringe fysieke inspanning, mechanisch plaatsen van blokken of elementen,
 
 **bestaande uit:** verrijdbare grijp- en hefinrichting.
 
-#### *F 041 Kuilfrees
+##### *F 041 Kuilfrees
 
 **bestemd voor:** het losfrezen van ruwvoer uit kuilhoop en via vijzel/transportkettingsysteem afvoeren,
 
@@ -3128,13 +3154,13 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - elektrisch of hydraulisch liersysteem.
 
-#### *F 043 Aanbouwhulpstukken voor opper- en bestratingmachines
+##### *F 043 Aanbouwhulpstukken voor opper- en bestratingmachines
 
 **bestemd voor:** het verlichten van de fysieke inspanning bij bestratingswerkzaamheden
 
 Zie F 013.
 
-#### *F 044 Elektrisch-verstelbare aankleedtafel
+##### *F 044 Elektrisch-verstelbare aankleedtafel
 
 **bestemd voor:** het in een goede houding verzorgen van kleuters en peuters,
 
@@ -3154,13 +3180,13 @@ Zie F 013.
 
 - (eventueel) babybad.
 
-#### *F 046 Mechanische kaassnijmachine
+##### *F 046 Mechanische kaassnijmachine
 
 **bestemd voor:** het met geringe fysieke inspanning mechanisch snijden van kaas,
 
 **bestaande uit:** elektrisch aangedreven, afgeschermd mes, gevat in een op-en-neer-gaand raam.
 
-#### *F 048 Lichtgewichtportaalkraan met transportwagen
+##### *F 048 Lichtgewichtportaalkraan met transportwagen
 
 **bestemd voor:** het met geringe fysieke belasting plaatsen, wegnemen, laden en lossen van grafmonumenten,
 
@@ -3180,7 +3206,7 @@ Zie F 013.
 
 - (eventueel) brandstofmotor.
 
-#### !F 049 Doorwerksysteem voor steigers
+##### !F 049 Doorwerksysteem voor steigers
 
 **bestemd voor:** het onder slechte weersomstandigheden doorwerken,
 
@@ -3196,7 +3222,7 @@ folie;
 
 - (eventueel) randkap.
 
-#### *F 050 Trekkenwanden
+##### *F 050 Trekkenwanden
 
 **bestemd voor:** het met geringe fysieke inspanning hijsen van decors in theaters,
 
@@ -3206,7 +3232,7 @@ folie;
 
 - elektronische besturing.
 
-#### *F 053 Hefmasthoogwerker/hefschaarhoogwerker
+##### *F 053 Hefmasthoogwerker/hefschaarhoogwerker
 
 **bestemd voor:** het in een goede houding verrichten van werkzaamheden op plaatsen met minimaal beschikbare vloeroppervlak,
 
@@ -3224,7 +3250,7 @@ folie;
 
 - (eventueel) accu's.
 
-#### F 054 Winkelbalie/kassameubel met zitmogelijkheid
+##### F 054 Winkelbalie/kassameubel met zitmogelijkheid
 
 **bestemd voor:** het in een goede houding verrichten van balie en/of kassawerkzaamheden,
 
@@ -3234,7 +3260,7 @@ folie;
 
 - (eventueel) vijfvlaks bioptic infraroodscanner.
 
-#### *F 060 Reachtruck met bewegingvolgende zitplaats
+##### *F 060 Reachtruck met bewegingvolgende zitplaats
 
 **bestemd voor:** het in ergonomisch-verantwoorde houding verrichten van hefwerkzaamheden op een vlakke en verharde vloer,
 
@@ -3244,13 +3270,13 @@ folie;
 
 - kantelende zitplaats of cabine die het zicht op de heflast vergemakkelijkt.
 
-#### F 065 Chauffeursstoel in bussen
+##### F 065 Chauffeursstoel in bussen
 
 **bestemd voor:** het in goede houding besturen/bedienen van bussen,
 
 **bestaande uit:** stoel die blijkens een certificaat tenminste voldoet aan de specificaties van BGZ-Wegvervoer (Kwaliteitsmerk) en de norm NEN-EN 5526:1999. Bij het bedrijfsmiddel behoort een certificaat, waarvan een kopie bij de melding dient te worden gevoegd.
 
-#### *F 068 Platenlift
+##### *F 068 Platenlift
 
 **bestemd voor:** het met geringe fysieke inspanning omhoog en in de juiste positie brengen van platen,
 
@@ -3270,7 +3296,7 @@ folie;
 
 - (eventueel) kantelinrichting.
 
-#### F 069 Inschietwagen t.b.v. oven
+##### F 069 Inschietwagen t.b.v. oven
 
 **bestemd voor:** het in- en uitladen van produkten in de oven,
 
@@ -3280,7 +3306,7 @@ folie;
 
 - inschietwagen met platen en wieltjes.
 
-#### *F 072 Morteltransportmachine
+##### *F 072 Morteltransportmachine
 
 **bestemd voor:** het met geringe fysieke inspanning (stofvrij) verplaatsen van droge of natte mortel van silo naar werkplek,
 
@@ -3292,7 +3318,7 @@ folie;
 
 - slang.
 
-#### *F 073 Pakketteermachine voor straatstenen
+##### *F 073 Pakketteermachine voor straatstenen
 
 **bestemd voor:** het met geringe fysieke inspanning opnemen en pakketteren van straatstenen,
 
@@ -3316,7 +3342,7 @@ folie;
 
 - (eventueel) buffervoorraadbaan.
 
-#### F 074 Vrachtautocabine (voor inzameling van huisvuil)
+##### F 074 Vrachtautocabine (voor inzameling van huisvuil)
 
 **bestemd voor:** het ergonomisch-verantwoord en met gereduceerde blootstelling aan geluid inzamelen van huisvuil,
 
@@ -3336,7 +3362,7 @@ folie;
 
 Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - dat voor de regeling in aanmerking komt, bedraagt 35 % van de investering met een maximum van € 25.000.
 
-#### *F 075 Opbouw-/montagehoogwerker voor kasconstructies
+##### *F 075 Opbouw-/montagehoogwerker voor kasconstructies
 
 **bestemd voor:** het met geringe fysieke inspanning opbouwen en afmonteren van tuinbouwkassen,
 
@@ -3354,7 +3380,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) lastkraan voor hijsen.
 
-#### *F 080 Lichte kraan op aanhanger of chassis (maximaal moment 10.000 kg.m)
+##### *F 080 Lichte kraan op aanhanger of chassis (maximaal moment 10.000 kg.m)
 
 **bestemd voor:** het met geringe fysieke inspanning hijswerkzaamheden uitvoeren, bij bijvoorbeeld dak(dekkers)werkzaamheden,
 
@@ -3380,7 +3406,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt maximaal 90 dB(A)
 
-#### *F 081 Automatische afkortinstallatie volgens NEN-EN 1870-10:1996
+##### *F 081 Automatische afkortinstallatie volgens NEN-EN 1870-10:1996
 
 **bestemd voor:** het met geringe fysieke inspanning afkorten van alle soorten en maten profielen van hout of kunststof,
 
@@ -3394,7 +3420,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - besturingsunit.
 
-#### *F 082 Machinale vloerafwerker
+##### *F 082 Machinale vloerafwerker
 
 **bestemd voor:** het met geringe fysieke inspanning gladmaken van pas gestorte, cement-gebonden vloeren,
 
@@ -3418,7 +3444,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - egaliseer(voorzet)inrichting.
 
-#### F 083 Combi-wagen
+##### F 083 Combi-wagen
 
 **bestemd voor:** het met geringe fysieke belasting transporteren, voorbehandelen en bossen van bloemen,
 
@@ -3430,13 +3456,13 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - kantelmechanisme.
 
-#### F 087 In hoogte verstelbare kinderstoel
+##### F 087 In hoogte verstelbare kinderstoel
 
 **bestemd voor:** het met geringe fysieke inspanning verzorgen van kinderen,
 
 **bestaande uit:** verstelbare kinderstoel (eventueel) met verwijderbaar voorblad.
 
-#### *F 089 Automatische belader en ontlader van lasersnijmachinewerkstukken
+##### *F 089 Automatische belader en ontlader van lasersnijmachinewerkstukken
 
 **bestemd voor:** het met geringe fysieke inspanning beladen en ontladen van werkstukken op een lasersnijmachine,
 
@@ -3448,7 +3474,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - computerbesturing.
 
-#### *F 091 Automatische eiercontainerbelader
+##### *F 091 Automatische eiercontainerbelader
 
 **bestemd voor:** het met geringe fysieke inspanning plaatsen van stapels van eiertrays in een container met verschillende niveaus,
 
@@ -3466,7 +3492,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - bedieningspaneel met noodstop.
 
-#### *F 092 Hydraulische knipmachine
+##### *F 092 Hydraulische knipmachine
 
 **bestemd voor:** het met geringe inspanning op maat knippen van stenen,
 
@@ -3488,7 +3514,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - bedieningsunit.
 
-#### *F 093 Hefsteiger
+##### *F 093 Hefsteiger
 
 **bestemd voor:** het op juiste hoogte werkzaamheden uitvoeren, waarbij zowel mensen als materieel op ideale werkhoogte worden gebracht,
 
@@ -3502,7 +3528,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - platform.
 
-#### *F 094 Robotmachine voor het verplaatsen van bloempotten
+##### *F 094 Robotmachine voor het verplaatsen van bloempotten
 
 **bestemd voor:** het met geringe fysieke inspanning verplaatsen van gevulde bloempotten ten behoeve van teelt en het sorteren op groeiresultaat,
 
@@ -3518,7 +3544,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - elektromotoren.
 
-#### *F 095 Los- en laadsysteem voor (aanhang)wagen
+##### *F 095 Los- en laadsysteem voor (aanhang)wagen
 
 **bestemd voor:** het met geringe fysieke inspanning laden en lossen van goederen van een (aanhang)wagen met ingebouwd hydraulisch/elektrisch systeem (geen `drempel' naar laadvloer),
 
@@ -3530,7 +3556,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - (eventueel) lier.
 
-#### *F 097 Rotatiestapelaar
+##### *F 097 Rotatiestapelaar
 
 **bestemd voor:** het met geringe inspanning oppakken, roteren en stapelen van allerlei plaatmateriaal,
 
@@ -3542,7 +3568,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - roterende kolom.
 
-#### *F 098 Zelfrijdende mechanische fruitoogstmachine
+##### *F 098 Zelfrijdende mechanische fruitoogstmachine
 
 **bestemd voor:** het met geringe fysieke inspanning oogsten van fruit,
 
@@ -3554,7 +3580,7 @@ Het geluid op de bedieningsplaats bij het hoogst toelaatbare toerental bedraagt 
 
 - kistenwagen.
 
-#### *F 099 (Kuubs)kistenvuller
+##### *F 099 (Kuubs)kistenvuller
 
 **bestemd voor:**
 
@@ -3594,7 +3620,7 @@ ad b.
 
 - (eventueel) draaiplateau voor de kist.
 
-#### *F 100 (Kuubs)kistenlediger
+##### *F 100 (Kuubs)kistenlediger
 
 **bestemd voor:** het automatisch kantelen van kisten,
 
@@ -3610,7 +3636,7 @@ ad b.
 
 - bedieningsmiddel.
 
-#### *F 101 Kledingtransporteur
+##### *F 101 Kledingtransporteur
 
 **bestemd voor:** het met geringe fysieke inspanning horizontaal transporteren van kleerhangers met kledingstukken,
 
@@ -3622,7 +3648,7 @@ ad b.
 
 - besturingskast.
 
-#### *F 102 Laadvloersysteem in bedrijfswagens
+##### *F 102 Laadvloersysteem in bedrijfswagens
 
 **bestemd voor:** het met geringe inspanning laden en lossen,
 
@@ -3632,13 +3658,13 @@ ad b.
 
 - bedieningsunit.
 
-#### *F 103 Vouwplatform
+##### *F 103 Vouwplatform
 
 **bestemd voor:** het met geringe fysieke inspanning openvouwen van een laadklep,
 
 **bestaande uit:** elektrisch hydraulisch aangedreven platform met drukveren.
 
-#### *F 104 Mechanisch aangedreven haspel
+##### *F 104 Mechanisch aangedreven haspel
 
 **bestemd voor:** het met geringe inspanning op- en afrollen van bijvoorbeeld slang of zeil op een haspel,
 
@@ -3648,7 +3674,7 @@ ad b.
 
 - motor.
 
-#### *F 105 Pneumatische afstandsbediening voor aanhangwagenkoppelingen
+##### *F 105 Pneumatische afstandsbediening voor aanhangwagenkoppelingen
 
 **bestemd voor:** het koppelen en ontkoppelen van aanhangwagens bij vrachtwagens,
 
@@ -3658,7 +3684,7 @@ ad b.
 
 - cilinderset.
 
-#### *F 106 Inzamelvoertuig ten behoeve van het legen van afvalcontainers
+##### *F 106 Inzamelvoertuig ten behoeve van het legen van afvalcontainers
 
 **bestemd voor:** het met geringe inspanning oppakken en legen van (huisvuil)containers,
 
@@ -3670,19 +3696,19 @@ ad b.
 
 - container (bedienbaar vanuit de cabine).
 
-#### *F 107 Personen- en goederenlift voor bus respectievelijk bestelwagen tot 3500 kg
+##### *F 107 Personen- en goederenlift voor bus respectievelijk bestelwagen tot 3500 kg
 
 **bestemd voor:** het met geringe fysieke belasting doen plaatsnemen van personen (bijvoorbeeld in een rolstoel) dan wel laden van goederen,
 
 **bestaande uit:** hydraulisch laadplatform.
 
-#### F 109 Ontkoppelingssysteem voor voertuigen (m.u.v. landbouwtrekkers)
+##### F 109 Ontkoppelingssysteem voor voertuigen (m.u.v. landbouwtrekkers)
 
 **bestemd voor:** het met geringe fysieke kracht koppelen en schakelen,
 
 **bestaande uit:** elektronisch-pneumatische ontkoppelingsunit (bedieningsknop op versnellingspook).
 
-#### F 110 Vrachtwagen- of buscabine
+##### F 110 Vrachtwagen- of buscabine
 
 **bestemd voor:** het ergonomisch-verantwoord gebruik/besturen van vrachtwagens of bussen,
 
@@ -3690,7 +3716,7 @@ ad b.
 
 Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - dat voor de regeling in aanmerking komt, bedraagt 35 % van de investering met een maximum van € 25.000. Bij het bedrijfsmiddel behoort een certificaat, waarvan een kopie bij de melding dient te worden gevoegd.
 
-#### *F 111 Vulmachine met ontstapelaar voor emmers en fusten
+##### *F 111 Vulmachine met ontstapelaar voor emmers en fusten
 
 **bestemd voor:** het met geringe fysieke belasting ontstapelen en vullen met water van emmers/fusten,
 
@@ -3704,7 +3730,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) doseereenheid.
 
-#### *F 112 Automatische afrijbalk
+##### *F 112 Automatische afrijbalk
 
 **bestemd voor:** het met geringe fysieke belasting egaliseren van een aarden baan (hulpstuk voor wiellader),
 
@@ -3724,7 +3750,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - snelwisselsysteem.
 
-#### *F 113 Wasselecteermachine
+##### *F 113 Wasselecteermachine
 
 **bestemd voor:** het met geringe fysieke belasting selecteren uit kluwen wasgoed van één stuk,
 
@@ -3734,11 +3760,11 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - bewegende arm met grijper, gecontroleerd door sensor.
 
-#### *F 114 Evacuatievoorziening
+##### *F 114 Evacuatievoorziening
 
 **bestemd voor:** het met geringe fysieke belasting vervoeren van personen (in [rol]stoel of ligbed) over traptreden.
 
-#### *F 115 Volautomatische reuzelverwijderaar
+##### *F 115 Volautomatische reuzelverwijderaar
 
 **bestemd voor:** het volautomatisch verwijderen van de reuzellaag uit de binnenzijde van een karkas,
 
@@ -3748,7 +3774,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - reuzelverwijderarmen, gepositioneerd door servo-aandrijving.
 
-#### *F 116 Automatische wasinrichting voor rubberdoeken en tegendrukcilinders
+##### *F 116 Automatische wasinrichting voor rubberdoeken en tegendrukcilinders
 
 **bestemd voor:** het automatisch reinigen van rubberdoeken en tegendrukcilinders,
 
@@ -3762,7 +3788,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - compressor.
 
-#### *F 117 Automatisch drukplaatwisselsysteem
+##### *F 117 Automatisch drukplaatwisselsysteem
 
 **bestemd voor:** het automatisch verwijderen van een oude plaat en inbrengen van een nieuwe,
 
@@ -3776,7 +3802,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - software.
 
-#### *F 118 Stapelkeerder
+##### *F 118 Stapelkeerder
 
 **bestemd voor:** het met geringe fysieke inspanning draaien van stapels materiaal,
 
@@ -3788,7 +3814,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - draai-inrichting.
 
-#### *F 119 Radijsbosmachine
+##### *F 119 Radijsbosmachine
 
 **bestemd voor:** het automatisch bossen van radijs,
 
@@ -3802,7 +3828,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) fustbewaarplaats.
 
-#### F 120 Hoogslaper/stapelbed
+##### F 120 Hoogslaper/stapelbed
 
 **bestemd voor:** het met geringe fysieke belasting in bed leggen van kinderen
 
@@ -3812,13 +3838,13 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) wegschuifbare of wegklapbare zijkant.
 
-#### F 121 Voorziening voor rolstoelgebruikers die mobiele arbeidsmiddelen voor hen toegankelijk en bestuurbaar maakt
+##### F 121 Voorziening voor rolstoelgebruikers die mobiele arbeidsmiddelen voor hen toegankelijk en bestuurbaar maakt
 
 **bestemd voor:** het toegankelijk maken van mobiele arbeidsmiddelen voor rolstoelen, zodanig dat de rolstoelgebruikers als volwaardig chauffeur van zulke arbeidsmiddelen kunnen fungeren,
 
 **bestaande uit:** voorziening die rolstoelgebruikers in staat stelt zelfstandig plaats te nemen in mobiele arbeidsmiddelen en die hen in staat stelt deze te besturen vanuit de rolstoel.
 
-#### *F 122 Kledinglift
+##### *F 122 Kledinglift
 
 **bestemd voor:** het met geringe fysieke inspanning verticaal transporteren van trolleys met goederen/kledingstukken naar verschillende etages,
 
@@ -3836,7 +3862,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - liftschacht met beveiliging.
 
-#### *F 123 Nekknipper
+##### *F 123 Nekknipper
 
 **bestemd voor:** het volautomatisch openen van de nek van en het doorsnijden van de wervelverbinding tussen hoofd en rug van een varkenskarkas,
 
@@ -3850,7 +3876,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - sensoren (Remote Diagnostic System).
 
-#### *F 124 Endeldarmboor
+##### *F 124 Endeldarmboor
 
 **bestemd voor:** het volautomatisch lossnijden van de endeldarm en het daarop droppen in een varkenskarkas,
 
@@ -3864,7 +3890,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - sensoren (Remote Diagnostic System).
 
-#### *F 125 Voorsnijder
+##### *F 125 Voorsnijder
 
 **bestemd voor:** het volautomatisch klieven van het schaambeen in een varkenskarkas,
 
@@ -3878,7 +3904,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - sensoren (Remote Diagnostic System).
 
-#### *F 126 Buik- en borstopener
+##### *F 126 Buik- en borstopener
 
 **bestemd voor:** het volautomatisch openen van de buik en het in tweeën delen van het borstbeen in een varkenskarkas,
 
@@ -3892,13 +3918,13 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - sensoren (Remote Diagnostic System).
 
-#### *F 127 Transport- en hulpmiddel voor zware wielen
+##### *F 127 Transport- en hulpmiddel voor zware wielen
 
 **bestemd voor:** het met geringe fysieke inspanning monteren of verwisselen van zware wielen,
 
 **bestaande uit:** verrijdbaar raamwerk met hefinrichting.
 
-#### F 128 Hoge box
+##### F 128 Hoge box
 
 **bestemd voor:** het met geringe fysieke belasting in de box leggen of uit de box nemen van kinderen,
 
@@ -3908,7 +3934,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) wegschuifbare of wegklapbare zijkant.
 
-#### F 129 Gewasklemsysteem
+##### F 129 Gewasklemsysteem
 
 **bestemd voor:** het geleiden van hooggroeiende, vruchtdragende gewassen,
 
@@ -3920,7 +3946,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - rubberen inzetstukken.
 
-#### *F 130 Magazijnsysteem
+##### *F 130 Magazijnsysteem
 
 **bestemd voor:** het met geringe fysieke inspanning opbergen en uitnemen van materiaal,
 
@@ -3930,7 +3956,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 - (eventueel) in hoogte verstelbare werkopening.
 
-#### *F 133 Lichte graafmachine
+##### *F 133 Lichte graafmachine
 
 **bestemd voor:** het met geringe fysieke inspanning verrichten van graafwerk,
 
@@ -3944,7 +3970,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de chauffeursstoel - d
 
 Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [richtlijn 89/514](31989L0514), bedraagt maximaal 85 dB(A).
 
-#### !F 135 Omsnoeringseenheid (Palletwikkelaar)
+##### !F 135 Omsnoeringseenheid (Palletwikkelaar)
 
 **bestemd voor:** het met geringe fysieke inspanning wikkelen van folie, net of wikkellint om beladen pallets.
 
@@ -3956,7 +3982,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) kettingtransportsysteem.
 
-#### *F 136 Minikiepwagen op rupsbanden
+##### *F 136 Minikiepwagen op rupsbanden
 
 **bestemd voor:** het met geringe fysieke inspanning transporteren van grond, puin, hout, etc.,
 
@@ -3966,7 +3992,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - kiepbare laadbak.
 
-#### F 137 Mestkoppeling
+##### F 137 Mestkoppeling
 
 **bestemd voor:** het snel en eenvoudig aanbrengen van een verbinding tussen mestkelder en giertank,
 
@@ -3976,7 +4002,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - uitwendig bedienbare afsluiter.
 
-#### !*F 138 Kooloogstmachine
+##### !*F 138 Kooloogstmachine
 
 **bestemd voor:** het met geringe fysieke belasting oogsten van kool,
 
@@ -3996,7 +4022,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) tuig.
 
-#### *F 139 Kraankar
+##### *F 139 Kraankar
 
 **bestemd voor:** het met geringe fysieke inspanning vervoeren, plaatsen en wegnemen van grafmonumenten
 
@@ -4008,7 +4034,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - stabiele steunen tegen omkantelen.
 
-#### *F 140 Ingaasrobot
+##### *F 140 Ingaasrobot
 
 **bestemd voor:** het automatisch inpakken van boomkluiten,
 
@@ -4022,13 +4048,13 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - snij-inrichting.
 
-#### *F 142 Schroefmachine zonder slageenheid
+##### *F 142 Schroefmachine zonder slageenheid
 
 **bestemd voor:** het zonder slagmechanisme aandraaien van moeren op de benodigde spanning,
 
 **bestaande uit:** pneumatische of elektrische schroefmachine.
 
-#### *F 145 Momentsleutel (CNC-gestuurd)
+##### *F 145 Momentsleutel (CNC-gestuurd)
 
 **bestemd voor:** met geringe fysieke inspanning aandraaien van boutverbindingen,
 
@@ -4040,7 +4066,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - elektronische besturing.
 
-#### *F 146 Motorenmontagesysteem
+##### *F 146 Motorenmontagesysteem
 
 **bestemd voor:** het via elektronische besturing voortbewegen en afleveren van motoren op transportwagens,
 
@@ -4052,7 +4078,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - contacten in werkvloer en/of spanningsrails.
 
-#### *F 147 Automatische kleppensteller
+##### *F 147 Automatische kleppensteller
 
 **bestemd voor:** het met geringe fysieke inspanning stellen van motorkleppen,
 
@@ -4064,7 +4090,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - produktopnemer.
 
-#### #*F 149 Silo-installatie bakkerijgrondstoffen
+##### #*F 149 Silo-installatie bakkerijgrondstoffen
 
 **bestemd voor:** het met geringe fysieke inspanning aanvoeren en opslaan van bakkerijgrondstoffen,
 
@@ -4080,7 +4106,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) op maat gemaakte deksel, gemonteerd tussen weegschaal en deegkuip, voorzien van aspiratiesystreem.
 
-#### *F 150 Elektromechanische spoorrailwisselsteller (Local Powered Moving Machine)
+##### *F 150 Elektromechanische spoorrailwisselsteller (Local Powered Moving Machine)
 
 **bestemd voor:** het met geringe fysieke inspanning omleggen van wisseltongen,
 
@@ -4094,7 +4120,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - stangenset.
 
-#### *F 151 Automatische bakken(ont)stapelaar
+##### *F 151 Automatische bakken(ont)stapelaar
 
 **bestemd voor:** het mechanisch (ont)stapelen van (pallets met) bakken,
 
@@ -4106,7 +4132,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) transportbanen.
 
-#### *F 152 Beweegbare melkputvloer
+##### *F 152 Beweegbare melkputvloer
 
 **bestemd voor:** het op de ideale werkhoogte brengen van de melker,
 
@@ -4120,13 +4146,13 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - ophangconstructie.
 
-#### *F 153 Stokkenuitzetvoorziening op plantmachine
+##### *F 153 Stokkenuitzetvoorziening op plantmachine
 
 **bestemd voor:** het met geringe fysieke inspanning zetten van (tonkin)stokken tijdens het planten van bomen,
 
 **bestaande uit:** in bomenplantmachine ingebouwde stokkenzetter.
 
-#### *F 154 Automatiseringsvoorziening grupstal
+##### *F 154 Automatiseringsvoorziening grupstal
 
 **bestemd voor:** het met geringe fysieke inspanning melken en verzorgen van dieren,
 
@@ -4142,7 +4168,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - automatisch vastzetsysteem.
 
-#### *F 155 Wied-, plant- of gewasverzorgingswagen(werktuig)
+##### *F 155 Wied-, plant- of gewasverzorgingswagen(werktuig)
 
 **bestemd voor:** het met geringe fysieke inspanning dicht op het maaiveld verrichten van agrarische werkzaamheden,
 
@@ -4156,7 +4182,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) weer- en windbescherming.
 
-#### *F 156 Elektrische wiellader
+##### *F 156 Elektrische wiellader
 
 **bestemd voor:** het met geringe fysieke inspanning laden, lossen en transporteren van materialen,
 
@@ -4170,7 +4196,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) hulpstukken.
 
-#### *F 157 Onderhoudslift windturbine
+##### *F 157 Onderhoudslift windturbine
 
 **bestemd voor:** het verticaal verplaatsen van mensen en goederen in windturbinemast,
 
@@ -4182,7 +4208,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - geleidingsconstructie.
 
-#### *F 158 Machinistenlift voor torenkraan
+##### *F 158 Machinistenlift voor torenkraan
 
 **bestemd voor:** het brengen van de torenkraanmachinist naar zijn bedieningscabine,
 
@@ -4194,7 +4220,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - geleidingsconstructie.
 
-#### *F 159 Stek-, teelt-, transport- en plantsysteem voor chrysanten
+##### *F 159 Stek-, teelt-, transport- en plantsysteem voor chrysanten
 
 **bestemd voor:** het met geringe fysieke inspanning kweken en planten van chrysantstekken,
 
@@ -4208,7 +4234,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - plantkar.
 
-#### *F 160 Tulpenbolplantmachine
+##### *F 160 Tulpenbolplantmachine
 
 **bestemd voor:** het sorteren, oriënteren en plaatsen van tulpenbollen,
 
@@ -4224,7 +4250,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - elektronica.
 
-#### *F 163 Doorschuifvaatwasser
+##### *F 163 Doorschuifvaatwasser
 
 **bestemd voor:** het met geringe fysieke inspanning reinigen van vuile vaat,
 
@@ -4234,7 +4260,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) met dubbelwandige bovenkap met afzuiging.
 
-#### F 164 Aluminium ondersteuningssysteem
+##### F 164 Aluminium ondersteuningssysteem
 
 **bestemd voor:** het ondersteunen van in aanbouw zijnde constructies,
 
@@ -4246,7 +4272,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - aluminium spindels.
 
-#### *F 165 Rem-rijssysteem
+##### *F 165 Rem-rijssysteem
 
 **bestemd voor:** het onderbreken van het rijsproces van deegwaren,
 
@@ -4260,7 +4286,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - elektrotechnische installatie en computerbesturing.
 
-#### F 166 Windscherm
+##### F 166 Windscherm
 
 **bestemd voor:** het breken van wind voor toegangsdeuren van winkels,
 
@@ -4274,7 +4300,7 @@ Het geluid van de machine, gemeten op de bedieningsplaats volgens de Europese [r
 
 - (eventueel) spoilers op deuropening.
 
-#### !F 167 Vorkheftruck met stabilisatiesysteem
+##### !F 167 Vorkheftruck met stabilisatiesysteem
 
 **bestemd voor:** het met geringe fysieke inspanning verbeteren van de rijkwaliteit en rijstabiliteit van heftrucks, onder meer ter voorkoming van kantelgevaar,
 
@@ -4286,7 +4312,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bij uitvoering met verbrandingsmotor 50 % van de investering.
 
-#### F 168 Champignonplukwagen
+##### F 168 Champignonplukwagen
 
 **bestemd voor:** het met geringe fysieke belasting plukken van champignons,
 
@@ -4300,7 +4326,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - plukrek.
 
-#### *F 170 Automatisch melksysteem
+##### *F 170 Automatisch melksysteem
 
 **bestemd voor:** het zonder fysieke belasting melken,
 
@@ -4314,7 +4340,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - besturingssysteem.
 
-#### *F 171 Mobiele lift
+##### *F 171 Mobiele lift
 
 **bestemd voor:** het met geringe fysieke belasting tillen, plaatsen en verplaatsen van goederen/voorwerpen,
 
@@ -4326,7 +4352,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - verwisselbare bevestigingshulpstukken.
 
-#### F 172 Afstandsregelautomaat voor vrachtwagens
+##### F 172 Afstandsregelautomaat voor vrachtwagens
 
 **bestemd voor:** het automatisch aanhouden van een constante afstand tot de voorganger,
 
@@ -4336,7 +4362,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - instelknoppen aan stuur voor afstand en rijsnelheid.
 
-#### F 173 Geleidesysteem voor vrachtwagens
+##### F 173 Geleidesysteem voor vrachtwagens
 
 **bestemd voor:** het afgeven van een akoestisch signaal in een vrachtwagencabine indien de vrachtwagen een ononderbroken streep op het wegdek overschrijdt,
 
@@ -4346,7 +4372,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - instelknoppen aan het stuur.
 
-#### *F 174 Vrachtauto-airconditioning
+##### *F 174 Vrachtauto-airconditioning
 
 **bestemd voor:** vrachtwagencabines, ook indien vrachtwagenmotor niet draait,
 
@@ -4358,7 +4384,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - filters.
 
-#### *F 179 Maaltijdportioneerstation
+##### *F 179 Maaltijdportioneerstation
 
 **bestemd voor:** het met geringe fysieke belasting samenstellen van maaltijden in een assemblagekeuken,
 
@@ -4378,7 +4404,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) toespijskoeling.
 
-#### *F 180 Mechanische klem
+##### *F 180 Mechanische klem
 
 **bestemd voor:** het met geringe fysieke belasting hijsen van bouwmaterialen,
 
@@ -4392,7 +4418,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) kettingbeveiliging.
 
-#### F 181 Bloempottenwagen
+##### F 181 Bloempottenwagen
 
 **bestemd voor:** het met geringe fysieke belasting gelijktijdig opnemen en verplaatsen van een aantal (bloem)potten,
 
@@ -4404,7 +4430,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bak voor contragewicht.
 
-#### *F 182 Bandenmontagestraat
+##### *F 182 Bandenmontagestraat
 
 **bestemd voor:** het met geringe fysieke belasting monteren en demonteren van band-velgcombinaties,
 
@@ -4422,7 +4448,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - wielcentreerlift.
 
-#### *F 184 12-pulsige transformator-gelijkrichter
+##### *F 184 12-pulsige transformator-gelijkrichter
 
 **bestemd voor:** het reduceren van het magnetisch veld nabij een transformator-gelijkrichter die gezondheidsschade kan veroorzaken,
 
@@ -4436,7 +4462,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - condensatorbatterij.
 
-#### F 185 Veiligheidsscherm
+##### F 185 Veiligheidsscherm
 
 **bestemd voor:** het in zeer korte tijd afsluiten met een scherm van balie of vergelijkbare werkplek,
 
@@ -4448,7 +4474,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - aandrijving.
 
-#### *F 189 Coniferenrondsteekmachine
+##### *F 189 Coniferenrondsteekmachine
 
 **bestemd voor:** het met geringe fysieke belasting rondsteken van coniferen,
 
@@ -4462,7 +4488,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) bevestiging aan landbouwtrekker.
 
-#### *F 190 Zelfrijdende (hydraulische) plateauwagen
+##### *F 190 Zelfrijdende (hydraulische) plateauwagen
 
 **bestemd voor:** het met geringe fysieke belasting verrichten van werkzaamheden op verschillende hoogten in straten van bijvoorbeeld magazijnen,
 
@@ -4478,7 +4504,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - anti-kantelvoorziening.
 
-#### *F 191 Kantensnijmachine voor champignonteelt
+##### *F 191 Kantensnijmachine voor champignonteelt
 
 **bestemd voor:** machinaal oogsten van champignons,
 
@@ -4488,7 +4514,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - motoren met cirkelmessen.
 
-#### F 196 Lichtgewicht bollencontainer
+##### F 196 Lichtgewicht bollencontainer
 
 **bestemd voor:** waterbroei van snijbloemen, met geringe fysieke belasting,
 
@@ -4498,7 +4524,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - lichtgewicht inlegbodem voorzien van plantgaten.
 
-#### *F 199 Mobiele werkbank
+##### *F 199 Mobiele werkbank
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen en gebruiken van werkbank en gereedschap,
 
@@ -4514,7 +4540,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) trekhaak voor rollende lasten.
 
-#### F 201 Snel verstelbare zit/sta-balie
+##### F 201 Snel verstelbare zit/sta-balie
 
 **bestemd voor:** het met geringe fysieke belasting in hoogte verstellen van een balie (van zit- naar stahoogte vv), met inbegrip van de monitors,
 
@@ -4528,7 +4554,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bedieningsorgaan.
 
-#### *F 202 CAD/CAM-Freessysteem voor kronen en bruggen
+##### *F 202 CAD/CAM-Freessysteem voor kronen en bruggen
 
 **bestemd voor:** het maken van onderstructuren voor kronen en bruggen van gebitten,
 
@@ -4540,7 +4566,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - freessysteem.
 
-#### *F 203 Steksteekmachine
+##### *F 203 Steksteekmachine
 
 **bestemd voor:** het met geringe fysieke belasting planten van stekken,
 
@@ -4552,7 +4578,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - transportband met positioneerinrichting voor kratten.
 
-#### *F 204 Elektrisch in hoogte verstelbaar bed
+##### *F 204 Elektrisch in hoogte verstelbaar bed
 
 **bestemd voor:** het met geringe fysieke belasting tillen van bedlegerigen of het opmaken van het bed,
 
@@ -4562,7 +4588,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) zwenkbare papegaai.
 
-#### *F 205 Passieve tillift / douchestoel met tilmogelijkheid
+##### *F 205 Passieve tillift / douchestoel met tilmogelijkheid
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen van patiënten/cliënten vanuit bed, rolstoel, toilet, bad etc. naar elders (de patiënt/cliënt ondergaat de handeling passief),
 
@@ -4578,7 +4604,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) demontabel.
 
-#### *F 206 Actieve tillift of stalift
+##### *F 206 Actieve tillift of stalift
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen van patiënten/cliënten vanuit bed, rolstoel, toilet, bad etc. naar elders, of van zittende/liggende in staande houding (de patiënt/cliënt is de verzorger bij deze handeling behulpzaam),
 
@@ -4592,7 +4618,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) demontabel.
 
-#### *F 207 Plafondtilsystemen
+##### *F 207 Plafondtilsystemen
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen van patiënten/cliënten vanuit bed, rolstoel, toilet, bad etc. naar elders,
 
@@ -4604,7 +4630,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) elektrische loopkataandrijving voor horizontale verplaatsing.
 
-#### *F 208 Kindertillift
+##### *F 208 Kindertillift
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen van kinderen, vanuit bed, rolstoel, toilet, bad etc. naar elders,
 
@@ -4620,7 +4646,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) demontabel.
 
-#### F 209 Verrijdbare sta- en loopbeugel
+##### F 209 Verrijdbare sta- en loopbeugel
 
 **bestemd voor:** patiënten/cliënten die wel kunnen staan maar moeite hebben met opstaan en lopen,
 
@@ -4632,13 +4658,13 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) stoeltje.
 
-#### F 210 Flexibel-bruikbare beugels en steunen voor toilet-, douche- of badruimte
+##### F 210 Flexibel-bruikbare beugels en steunen voor toilet-, douche- of badruimte
 
 **bestemd voor:** patiënten/cliënten die wel kunnen staan maar moeite hebben met opstaan en lopen,
 
 **bestaande uit:** beugels en steunen die horizontaal en/of verticaal langs wand zijn te verschuiven.
 
-#### *F 211 Elektrisch in hoogte verstelbare douche/badbrancard
+##### *F 211 Elektrisch in hoogte verstelbare douche/badbrancard
 
 **bestemd voor:** het met geringe fysieke belasting douchen of baden van bedlegerigen,
 
@@ -4648,13 +4674,13 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) met douchestoel.
 
-#### *F 212 In hoogte verstelbaar bad
+##### *F 212 In hoogte verstelbaar bad
 
 **bestemd voor:** het met geringe fysieke belasting douchen of baden van patiënten/cliënten,
 
 **bestaande uit:** bad met elektrisch of hydraulisch bewegingswerk.
 
-#### *F 213 WC-bril met spoel- en föhninstallatie
+##### *F 213 WC-bril met spoel- en föhninstallatie
 
 **bestemd voor:** toiletgang van patiënten/cliënten,
 
@@ -4666,7 +4692,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - föhn.
 
-#### #*F 215 Vorkheftruck
+##### #*F 215 Vorkheftruck
 
 **bestemd voor:** het heffen, verplaatsen en lossen van materialen,
 
@@ -4692,7 +4718,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bij verbrandingsmotor 40 % van de investering.
 
-#### *F 216 Automatisch watergeefsysteem voor champignons
+##### *F 216 Automatisch watergeefsysteem voor champignons
 
 **bestemd voor:** de waterdosering van champignonsteeltbedden,
 
@@ -4706,7 +4732,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - computerbesturing.
 
-#### *F 217 Tapijtverwijdertafel
+##### *F 217 Tapijtverwijdertafel
 
 **bestemd voor:** de tapijtverwijdering van computertegels,
 
@@ -4722,7 +4748,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) hefapparaat.
 
-#### *F 218 Automatische citruspers
+##### *F 218 Automatische citruspers
 
 **bestemd voor:** het met geringe fysieke belasting persen van citrusvruchten,
 
@@ -4738,7 +4764,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - afvoereenheid schillen.
 
-#### *F 219 Luchttafel
+##### *F 219 Luchttafel
 
 **bestemd voor:** het met geringe fysieke inspanning verplaatsen van stapels papier, karton, kunststof plaatmateriaal etc.
 
@@ -4750,7 +4776,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - pomp voor blaaslucht.
 
-#### *F 221 Mosselopvis- en vangstverwerkingssysteem
+##### *F 221 Mosselopvis- en vangstverwerkingssysteem
 
 **bestemd voor:** het ledigen van netten zonder het met de hand aanpikken van `uitkap'haken,
 
@@ -4764,7 +4790,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraagt € 70.000.
 
-#### F 222 Tulpenbakverplaatser
+##### F 222 Tulpenbakverplaatser
 
 **bestemd voor:** het met geringe fysieke belasting kweken en oogsten van tulpen,
 
@@ -4774,7 +4800,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bloembollenbakkendrager.
 
-#### *F 223 Twistsnijmachine
+##### *F 223 Twistsnijmachine
 
 **bestemd voor:** het automatisch doorsnijden van de twist tussen afzonderlijke worsten,
 
@@ -4788,7 +4814,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bedieningspaneel.
 
-#### F 224 Zichtsysteem
+##### F 224 Zichtsysteem
 
 **bestemd voor:** het voor de bestuurder zichtbaar maken van dat deel van de omgeving van zijn voer- of werktuig dat door het voer- of werktuig aan zijn oog wordt onttrokken,
 
@@ -4800,7 +4826,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) met waarschuwingssignaal.
 
-#### *F 225 Ontclipmachine
+##### *F 225 Ontclipmachine
 
 **bestemd voor:** het automatisch verwijderen van worstclips,
 
@@ -4814,7 +4840,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bedieningspaneel.
 
-#### #*F 226 Gesloten hef- of reachtruckcabine
+##### #*F 226 Gesloten hef- of reachtruckcabine
 
 **bestemd voor:** het onder goede arbeidsomstandigheden bedienen van een hef- of reachtruck, onder meer in diepvriesruimten,
 
@@ -4832,7 +4858,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) intercom..
 
-#### *F 227 Op luchtlaag verplaatsbaar matras
+##### *F 227 Op luchtlaag verplaatsbaar matras
 
 **bestemd voor:** het met geringe fysieke belasting - en zo pijnloos mogelijk - verplaatsen van patiënten,
 
@@ -4844,7 +4870,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - luchttoevoerslang.
 
-#### *F 228 Productentelmachine
+##### *F 228 Productentelmachine
 
 **bestemd voor:** het tellen van producten,
 
@@ -4856,7 +4882,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - fustaanreikend hefapparaat.
 
-#### *F 229 Heftruckvorkversteller
+##### *F 229 Heftruckvorkversteller
 
 **bestemd voor:** het zonder fysieke belasting veranderen van de afstand tussen de vorktanden van een vorkheftruck,
 
@@ -4868,7 +4894,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - vorken.
 
-#### *F 230 Vacuümtransportsysteem
+##### *F 230 Vacuümtransportsysteem
 
 **bestemd voor:** het volautomatisch transporteren van granulaten en poeders naar kunststofverwerkende machines,
 
@@ -4882,7 +4908,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - besturingseenheid.
 
-#### F 231 Verhoogde bodem met schuifladen voor bedrijfswagens tot 3500 kg
+##### F 231 Verhoogde bodem met schuifladen voor bedrijfswagens tot 3500 kg
 
 **bestemd voor:** het met geringe fysieke belasting uitnemen/terug plaatsen van gereedschappen en of materialen uit laadruimten van bedrijfswagens tot 3500 kg zonder de bedrijfswagen te betreden,
 
@@ -4896,7 +4922,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bovenvloer.
 
-#### *F 232 Volautomatische pons-, zaag- en stapeleenheid voor kunststof
+##### *F 232 Volautomatische pons-, zaag- en stapeleenheid voor kunststof
 
 **bestemd voor:** het ponsen van gaten in kunststof platen, het zagen van deze platen en het automatisch stapelen ervan,
 
@@ -4912,7 +4938,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - besturingseenheid.
 
-#### F 233 Bank/tafelcombinatie t.b.v. kinderverzorging
+##### F 233 Bank/tafelcombinatie t.b.v. kinderverzorging
 
 **bestemd voor:** het met geringe fysieke belasting verzorgen van aan een tafel zittende kinderen,
 
@@ -4924,13 +4950,13 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - accessoires (kinderzitjes, verbindingselementen, opstapje, wielenset).
 
-#### *F 234 Monorailwagen
+##### *F 234 Monorailwagen
 
 **bestemd voor:** onderhoudswerkzaamheden aan kassen vanuit monorailwagen die loopt over bestaande monorailbuizen.
 
 **bestaande uit:** elektrisch aangedreven plateau met hekwerk en ophangconstructie.
 
-#### *F 235 Haringmaatjesschoonmaakmachine
+##### *F 235 Haringmaatjesschoonmaakmachine
 
 **bestemd voor:** met geringe fysieke belasting onthuiden en schoonmaken van haring,
 
@@ -4942,7 +4968,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - aandrijving.
 
-#### *F 236 Krattencentrifuge
+##### *F 236 Krattencentrifuge
 
 **bestemd voor:** het drogen van kratten,
 
@@ -4952,7 +4978,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - roterende trommel.
 
-#### *F 237 Gevelreinigingsmachine
+##### *F 237 Gevelreinigingsmachine
 
 **bestemd voor:** het mechanisch reinigen van ramen gevels,
 
@@ -4970,7 +4996,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - droogblaasinrichting.
 
-#### *F 238 Trilplaat
+##### *F 238 Trilplaat
 
 **bestemd voor:** het verdichten van grond- en straatwerk, en asfalt,
 
@@ -4982,7 +5008,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - trillingsarme dissel.
 
-#### *F 239 Elektrische uitzetvork
+##### *F 239 Elektrische uitzetvork
 
 **bestemd voor:** met geringe fysieke belasting verplaatsen van potplanten,
 
@@ -4996,7 +5022,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - accu('s) met snellader.
 
-#### *F 240 Pelsmachine
+##### *F 240 Pelsmachine
 
 **bestemd voor:** voor het onthuiden (pelzen) van pelsdieren,
 
@@ -5008,7 +5034,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - trekinrichting voor het onthuiden.
 
-#### *F 241 Chrysantenoogstrobot
+##### *F 241 Chrysantenoogstrobot
 
 **bestemd voor:** het automatisch oogsten van chrysanttakken,
 
@@ -5026,7 +5052,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bosmachine.
 
-#### *F 242 Rijaandrijving chrysantenoogster
+##### *F 242 Rijaandrijving chrysantenoogster
 
 **bestemd voor:** het met geringe fysieke belasting verplaatsen van een chrysantenoogstmachine,
 
@@ -5038,7 +5064,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bedieningshandgreep met rijrichtingkeuze.
 
-#### *F 243 Sorteer- en bosmachine
+##### *F 243 Sorteer- en bosmachine
 
 **bestemd voor:** het sorteren en verzamelen van bloemen,
 
@@ -5050,7 +5076,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - bosautomaat.
 
-#### *F 244 Stoeltjeslift
+##### *F 244 Stoeltjeslift
 
 **bestemd voor:** het met geringe fysieke belasting doen verplaatsen van verpleegde personen langs trappen,
 
@@ -5062,7 +5088,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - elektrische aandrijving.
 
-#### *F 245 Doekinsteekinrichting
+##### *F 245 Doekinsteekinrichting
 
 **bestemd voor:** het automatisch insteken (invoeren) en eventueel verder verwerken van doek,
 
@@ -5076,7 +5102,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) voorraadrail.
 
-#### *F 246 Bundelstation
+##### *F 246 Bundelstation
 
 **bestemd voor:** voor het met geringe fysieke belasting sorteren, verpakken en bundelen van kleine hoeveelheden hout,
 
@@ -5088,7 +5114,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - omsnoeringseenheid.
 
-#### *F 247 Verticale opsluitbank met hefsteiger
+##### *F 247 Verticale opsluitbank met hefsteiger
 
 **bestemd voor:** met het geringe fysieke belasting samenstellen van in een verticaal vlak opgestelde bouwelementen,
 
@@ -5102,7 +5128,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - hekwerk op begane-grondniveau automatisch ingeklapt.
 
-#### *F 248 Automatisch-bediende pasbril
+##### *F 248 Automatisch-bediende pasbril
 
 **bestemd voor:** oogmeting met infrarood afstandsbediening, ter vermindering van fysieke belasting,
 
@@ -5112,7 +5138,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - pc-eenheid met infraroodmuis.
 
-#### *F 249 Niet-zelfrijdende oogstinrichting
+##### *F 249 Niet-zelfrijdende oogstinrichting
 
 **bestemd voor:** het met geringe fysieke belasting oogsten en/of verplaatsen van gewassen met ondergronds gewasdeel,
 
@@ -5132,7 +5158,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) een opslag.
 
-#### *F 250 Zelfrijdende schudmachine
+##### *F 250 Zelfrijdende schudmachine
 
 **bestemd voor:** het met geringe fysieke belasting oogsten van vruchten uit bomen,
 
@@ -5150,13 +5176,13 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - kistenwagen.
 
-#### *F 251 Geleiderail(de)montageklem
+##### *F 251 Geleiderail(de)montageklem
 
 **bestemd voor:** het met geringe fysieke belasting monteren of demonteren van geleiderail (vangrail),
 
 **bestaande uit:** klem met hydraulische rotator.
 
-#### *F 252 Banketklimaatcel/Deegremconditioneringscel
+##### *F 252 Banketklimaatcel/Deegremconditioneringscel
 
 **bestemd voor:** het in korte tijd koelen van banket- en deegproducten (het deeg kan in delen worden uitgenomen en afgebakken),
 
@@ -5168,7 +5194,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - klimaatbesturing.
 
-#### *F 253 Watergootsysteem
+##### *F 253 Watergootsysteem
 
 **bestemd voor:** het horizontaal transporteren van (glas)tuinbouwproducten,
 
@@ -5188,7 +5214,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) stortbak.
 
-#### *F 254 Gelijkstoottriltafel
+##### *F 254 Gelijkstoottriltafel
 
 **bestemd voor:** het met geringe fysieke inspanning gelijkstoten van bladen in een stapel,
 
@@ -5204,7 +5230,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - knelbeveiliging op afschermpanelen.
 
-#### *F 255 Knip- en buiginstallatie voor wapeningsstaal
+##### *F 255 Knip- en buiginstallatie voor wapeningsstaal
 
 **bestemd voor:** het met geringe fysieke belasting knippen en buigen van wapeningsstaal,
 
@@ -5218,7 +5244,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - verzamelwagen voor geknipte en gebogen staven.
 
-#### !*F 257 Uitgifte- en/of innamesysteem bibliotheekartikelen
+##### !*F 257 Uitgifte- en/of innamesysteem bibliotheekartikelen
 
 **bestemd voor:** het met geringe fysieke belasting verstrekken, innemen, sorteren, transporteren en/of opbergen van bijvoorbeeld boeken en tijdschriften op bibliotheken,
 
@@ -5232,7 +5258,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) balievoorziening.
 
-#### !*F 258 Dozenopzetter
+##### !*F 258 Dozenopzetter
 
 **bestemd voor:** het met geringe fysieke belasting formeren van dozen,
 
@@ -5250,7 +5276,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) inpakvoorziening.
 
-#### !*F 260 Electronisch opmeetsysteem voor de bouwnijverheid
+##### !*F 260 Electronisch opmeetsysteem voor de bouwnijverheid
 
 **bestemd voor:** het met geringe fysieke belasting opmeten van bouwkundige situaties ter vereenvoudiging van bijvoorbeeld het inhangen van deuren en ramen, en het plaatsen van aanrechtbladen,
 
@@ -5262,7 +5288,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - doorgeefmogelijkheid meetgegevens aan CAD-systeem van bewerkingsmachines.
 
-#### !*F 261 Kantelsysteem cabines van mobiele werktuigen
+##### !*F 261 Kantelsysteem cabines van mobiele werktuigen
 
 **bestemd voor:** het ergonomisch-verantwoord bedienen van bijvoorbeeld funderingsmachines en hijskranen,
 
@@ -5272,7 +5298,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - cilinder.
 
-#### !*F 262 Boorschraper
+##### !*F 262 Boorschraper
 
 **bestemd voor:** het met geringe fysieke belasting reinigen van grondboren,
 
@@ -5286,7 +5312,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - schraapborstel.
 
-#### !*F 263 Boorautomaat voor daksystemen
+##### !*F 263 Boorautomaat voor daksystemen
 
 **bestemd voor:** het met geringe fysieke belasting gelijktijdig boren van verschillende gaten,
 
@@ -5298,7 +5324,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - verstelinrichting boorhamers.
 
-#### !*F 264 Smeltkamer voor vaten
+##### !*F 264 Smeltkamer voor vaten
 
 **bestemd voor:** het - via verwarming - met geringe fysieke belasting ledigen van vaten,
 
@@ -5310,7 +5336,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - leegsysteem..
 
-#### !*F 265 Electrische serveerwagen
+##### !*F 265 Electrische serveerwagen
 
 **bestemd voor:** het met geringe fysieke belasting serveren van koffie, thee en andere consumptiewaren,
 
@@ -5322,7 +5348,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) accessoires.
 
-#### !*F 266 Fileermachine voor platvis
+##### !*F 266 Fileermachine voor platvis
 
 **bestemd voor:** het met geringe fysieke belasting fileren van platvis,
 
@@ -5336,7 +5362,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - fileerinrichting.
 
-#### !*F 267 Leg- en opneemwerktuig aspergefolie
+##### !*F 267 Leg- en opneemwerktuig aspergefolie
 
 **bestemd voor:** het met geringe fysieke belasting leggen en opnemen van folie op aspergebedden,
 
@@ -5350,7 +5376,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - (eventueel) zitplaatsen.
 
-#### !*F 268 Mobiele draaibank voor vrachtwagenremschijven
+##### !*F 268 Mobiele draaibank voor vrachtwagenremschijven
 
 **bestemd voor:** het met geringe fysieke belasting verspanen (vlak maken) van het oppervlak van remschijven,
 
@@ -5362,7 +5388,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - aandrijving.
 
-#### !*F 269 Bloemenhoesmachine
+##### !*F 269 Bloemenhoesmachine
 
 **bestemd voor:** bloemen met geringe fysieke belasting van een hoes voorzien,
 
@@ -5376,7 +5402,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - hoesbinder.
 
-#### !*F 270 Ladderafneemrek brandweerwagens
+##### !*F 270 Ladderafneemrek brandweerwagens
 
 **bestemd voor:** het met geringe fysieke belasting afnemen van zich op het dak van een brandweerauto bevindend materieel, zoals ladders
 
@@ -5386,7 +5412,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - electrisch of hydraulisch kantel- en schuifsysteem.
 
-#### !*F 271 Automatische zakkenopener
+##### !*F 271 Automatische zakkenopener
 
 **bestemd voor:** het met geringe fysieke belasting openen, legen en afvoeren van zakken met stortgoed,
 
@@ -5398,13 +5424,13 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - zakkencompactor.
 
-#### !*F 272 Tomatenplantenophangsysteem
+##### !*F 272 Tomatenplantenophangsysteem
 
 **bestemd voor:** het met geringe fysieke belasting behandelen van tomatenplanten,
 
 **bestaande uit:** samenstel van tomatenhaken.
 
-#### !*F 275 Automatische bloembollenscheider
+##### !*F 275 Automatische bloembollenscheider
 
 **bestemd voor:** het met geringe fysieke belasting scheiden van zieke bloembollen van gezonde,
 
@@ -5420,7 +5446,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - sorteerdeel met afvoerbanden.
 
-#### !*F 276 Oriëntatiesnijmachine voor champignons
+##### !*F 276 Oriëntatiesnijmachine voor champignons
 
 **bestemd voor:** het met geringe fysieke belasting oriënteren en snijden van champignons,
 
@@ -5432,7 +5458,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 - snijmodule.
 
-#### !*F 278 Landbouwtrekker
+##### !*F 278 Landbouwtrekker
 
 **bestemd voor:** het met geringe fysieke belasting besturen en bedienen van een mobiel werktuig ten behoeve van grondbewerking, transport, en land- en tuinbouw,
 
@@ -5444,7 +5470,7 @@ Het maximale investeringsbedrag dat voor de regeling in aanmerking komt, bedraag
 
 Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel - dat voor de regeling in aanmerking komt, bedraagt 35% van de investering met een maximum van € 25.000.
 
-#### !*F 279 Voermengwagen
+##### !*F 279 Voermengwagen
 
 **bestemd voor:** het met geringe fysieke belasting mengen van ruwvoer en het voederen van rundvee met dit mengsel,
 
@@ -5460,7 +5486,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - cabine.
 
-#### !*F 280 Strooi- en veegmachine
+##### !*F 280 Strooi- en veegmachine
 
 **bestemd voor:** het met geringe fysieke belasting vegen van ligboxen en roosters, en het strooien van zaagsel,
 
@@ -5472,7 +5498,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - voorraadbak met strooi-inrichting.
 
-#### !*F 281 Barkstrooier
+##### !*F 281 Barkstrooier
 
 **bestemd voor:** het met geringe fysieke belasting strooien van afdekmiddelen op kweekgrond,
 
@@ -5486,7 +5512,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - electrische aandrijving.
 
-#### !*F 282 Kuilafmaakmachine
+##### !*F 282 Kuilafmaakmachine
 
 **bestemd voor:** het met geringe fysieke belasting verwijderen van de zandlaag van voerkuilen,
 
@@ -5500,7 +5526,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - grondschuif.
 
-#### !*F 284 Sondeerbuisschroever
+##### !*F 284 Sondeerbuisschroever
 
 **bestemd voor:** het met geringe fysieke belasting in en uit elkaar schroeven van sondeerbuizen,
 
@@ -5516,7 +5542,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - (eventueel) opneem- en plaatsingseenheid.
 
-#### !*F 285 Kledingmerker
+##### !*F 285 Kledingmerker
 
 **bestemd voor:** het met geringe fysieke belasting merken van (te reinigen) kleding,
 
@@ -5530,7 +5556,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - (eventueel) verwarmingselement.
 
-#### !*F 286 Aspergeschilmachine
+##### !*F 286 Aspergeschilmachine
 
 **bestemd voor:** het met geringe fysieke belasting schillen van asperges,
 
@@ -5542,7 +5568,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - schilinrichting.
 
-#### !*F 287 Plantrobot
+##### !*F 287 Plantrobot
 
 **bestemd voor:** het met geringe fysieke belasting verplanten van `persplanten',
 
@@ -5556,7 +5582,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - bestuur- en regeleenheid.
 
-#### !*F 288 Pelsopspanmachine
+##### !*F 288 Pelsopspanmachine
 
 **bestemd voor:** het met geringe fysieke belasting spannen van pelzen op droogplanken,
 
@@ -5568,7 +5594,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - besturingseenheid.
 
-#### !*F 289 Oprolinstallatie voor vlasvezels
+##### !*F 289 Oprolinstallatie voor vlasvezels
 
 **bestemd voor:** het met geringe fysieke belasting oprollen van uit vlas gewonnen vezels,
 
@@ -5580,7 +5606,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - installatie voor inpakken, etiketteren en afvoeren van rollen.
 
-#### !*F 290 Ergonomische kapperswerkplek
+##### !*F 290 Ergonomische kapperswerkplek
 
 **bestemd voor:** het met geringe fysieke belasting uitvoeren van kapperswerkzaamheden,
 
@@ -5594,7 +5620,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - in hoogte verstelbare kappersfiets.
 
-#### !*F 291 Gewaswortelsnijmachine
+##### !*F 291 Gewaswortelsnijmachine
 
 **bestemd voor:** het met geringe fysieke belasting op maat brengen van een gewaskluit alvorens hem te potten,
 
@@ -5606,7 +5632,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - draaischijven met messenhouders en messen.
 
-#### !*F 293 Verspaningsloze breekinstallatie
+##### !*F 293 Verspaningsloze breekinstallatie
 
 **bestemd voor:** het met geringe fysieke belasting breken en monteren van lagerkappen,
 
@@ -5618,7 +5644,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - doorvoertransportsysteem.
 
-#### !*F 294 Mobiele werkstoel
+##### !*F 294 Mobiele werkstoel
 
 **bestemd voor:** het zich zittend in een bureau/werkstoel verplaatsen van werknemers die slecht ter been zijn,
 
@@ -5634,7 +5660,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 -.oprichtfunctie.
 
-#### !*F 295 Loopplaten
+##### !*F 295 Loopplaten
 
 **bestemd voor:** het maken van een goed begaanbaar looppad op de bouwplaats,
 
@@ -5644,7 +5670,7 @@ Het maximale investeringsbedrag - inclusief de kosten van de luchtgeveerde stoel
 
 - ondersteuningselementen.
 
-#### !*F 296 Oogstband
+##### !*F 296 Oogstband
 
 **bestemd voor:** het met geringe fysieke belasting transporteren van geoogst fruit,
 
@@ -6699,7 +6725,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-#### Artikel 3.2a. Bepaling risico’s en grenzen
+##### Artikel 3.2a. Bepaling risico’s en grenzen
 
 1. De risico’s in het kader van de risico-analyse, bedoeld in [artikel 3.2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.2&z=2026-04-09&g=2026-04-09), worden kwalitatief en, voor zover mogelijk, kwantitatief bepaald.
 
@@ -6829,7 +6855,7 @@ Deel C van het examen bestaat uit vijf cases, waarvan één gebaseerd op een toe
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 4.32h. Gelijkstelling vervangende producten
+##### Artikel 4.32h. Gelijkstelling vervangende producten
 
 Met de in de [artikelen 4.32a vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32a&z=2026-04-09&g=2026-04-09), [4.32b, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32b&z=2026-04-09&g=2026-04-09), [4.32c, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32c&z=2026-04-09&g=2026-04-09), [4.32d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32d&z=2026-04-09&g=2026-04-09), [4.32e, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32e&z=2026-04-09&g=2026-04-09), [4.32f, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32f&z=2026-04-09&g=2026-04-09) en [4.32g, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.8a&artikel=4.32g&z=2026-04-09&g=2026-04-09), bedoelde producten worden gelijkgesteld producten, die rechtmatig zijn vervaardigd en in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de overeenkomst inzake de Europese Economische Ruimte, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.
 
@@ -12065,7 +12091,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 2.0. Vastlegging preventiebeleid voor zware ongevallen
+##### Artikel 2.0. Vastlegging preventiebeleid voor zware ongevallen
 
 Bij de vastlegging van het preventiebeleid voor zware ongevallen wordt een beschrijving gegeven van:
 
@@ -12077,7 +12103,7 @@ Bij de vastlegging van het preventiebeleid voor zware ongevallen wordt een besch
 
 - d. de beginselen die ten grondslag liggen aan de maatregelen die zijn getroffen om zware ongevallen te voorkomen en die inzicht bieden in de samenhang tussen die maatregelen en de risico’s van zware ongevallen.
 
-#### Artikel 2.0a. Procedures voor de identificatie en evaluatie van de gevaren en risico’s van zware ongevallen
+##### Artikel 2.0a. Procedures voor de identificatie en evaluatie van de gevaren en risico’s van zware ongevallen
 
 1. De procedures voor de systematische identificatie en evaluatie van de gevaren en risico’s van zware ongevallen, bedoeld in [artikel 2.5, tweede lid, onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5), hebben in ieder geval betrekking op:
 
@@ -12091,13 +12117,13 @@ Bij de vastlegging van het preventiebeleid voor zware ongevallen wordt een besch
 
 3. De onderzoeksmethode, bedoeld in het eerste lid, onder c, is geschikt om vast te stellen welke maatregelen nodig zijn ter voorkoming van zware ongevallen of ter beperking van de gevolgen ervan.
 
-#### Artikel 2.0b. Beschrijving scenario’s
+##### Artikel 2.0b. Beschrijving scenario’s
 
 1. De beschrijving van de scenario’s, bedoeld in [artikel 2.5, tweede lid, onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5), heeft betrekking op de onderdelen van installaties die de grootste risico’s van een zwaar ongeval met zich meebrengen. De identificatie van de betreffende onderdelen van de installaties vindt plaats op basis van een gedocumenteerde methode.
 
 2. Bij de beschrijving van de scenario’s, bedoeld in het eerste lid, komen in ieder geval de elementen aan de orde, genoemd in bijlage Ia bij deze regeling.
 
-#### Artikel 2.0c. Veiligheidsbeheerssysteem
+##### Artikel 2.0c. Veiligheidsbeheerssysteem
 
 In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5a) komen in ieder geval de elementen aan de orde, genoemd in bijlage Ib bij deze regeling.
 
@@ -13552,7 +13578,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 9.2f. Overgangsbepaling certificering arbeid met asbest
+##### Artikel 9.2f. Overgangsbepaling certificering arbeid met asbest
 
 Vervallen
 
@@ -13566,7 +13592,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 1.12. Vergoeding uitvoeringskosten aangewezen instelling als bedoeld in [artikel 9, derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9)
+##### Artikel 1.12. Vergoeding uitvoeringskosten aangewezen instelling als bedoeld in [artikel 9, derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9)
 
 1. De minister en de door de minister aangewezen instelling, bedoeld in [artikel 9, derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=9) leggen jaarlijks de afspraken over de uitoefening van de taken door de aangewezen instelling en de samenwerking vast in uitvoeringsafspraken.
 
@@ -13718,7 +13744,7 @@ In het veiligheidsbeheerssysteem, bedoeld in [artikel 2.5a, tweede lid, van het 
 
 Vervallen
 
-#### Artikel 4.20c. Aanwijzing
+##### Artikel 4.20c. Aanwijzing
 
 Als kankerverwekkende processen, bedoeld in [artikel 4.11, onderdeel c, onder 2°, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.11) worden de processen waarbij de volgende mengsels van stoffen vrijkomen aangewezen:
 
@@ -14246,7 +14272,7 @@ De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzo
 
 ## Bijlage XIII. behorend bij [artikel 4.19, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2012-02-01&g=2012-02-01)
 
-#### Artikel 4.17e. Eisen voor de aanwijzing als certificerende instelling op het werkveld opsporen van ontplofbare oorlogsresten
+##### Artikel 4.17e. Eisen voor de aanwijzing als certificerende instelling op het werkveld opsporen van ontplofbare oorlogsresten
 
 Een aanwijzing als certificerende instelling als bedoeld in [artikel 4.10, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), kan geschieden indien de aanvragende instelling voldoet aan de criteria, vastgelegd in hoofdstuk 6 van het Certificatieschema voor het Opsporen van ontplofbare oorlogsresten, dat is vastgesteld door de Stichting Veilig Omgaan met Explosieve Stoffen op 15 oktober 2020 en door de minister is gepubliceerd in de Staatscourant van 13 november 2020, (Stcrt. 2020, 58198).
 
@@ -14328,15 +14354,15 @@ Vervallen
 
 ### Leeswijzer
 
-#### Artikel 8.29a. Overtredingen
+##### Artikel 8.29a. Overtredingen
 
 Als overtreding ter zake waarvan een bestuurlijke boete kan worden opgelegd, wordt aangemerkt het handelen of het nalaten in strijd met de voorschriften welke zijn opgenomen in de [artikelen 2.0](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0&z=2026-04-09&g=2026-04-09), [2.0a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0a&z=2026-04-09&g=2026-04-09), [2.0b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0b&z=2026-04-09&g=2026-04-09), [2.0c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0c&z=2026-04-09&g=2026-04-09), [2.0d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=2&paragraaf=2.1&artikel=2.0d&z=2026-04-09&g=2026-04-09), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2026-04-09&g=2026-04-09), [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.5&z=2026-04-09&g=2026-04-09), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.11&z=2026-04-09&g=2026-04-09), [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.12&z=2026-04-09&g=2026-04-09), [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.13&z=2026-04-09&g=2026-04-09), [3.14](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2026-04-09&g=2026-04-09), [4.3 tot en met 4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.3&z=2026-04-09&g=2026-04-09), [4.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.9&z=2026-04-09&g=2026-04-09), [4.11 tot en met 4.13](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1&artikel=4.11&z=2026-04-09&g=2026-04-09), [4.15](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.1a&artikel=4.15&z=2026-04-09&g=2026-04-09), [4.18](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.3&artikel=4.18&z=2026-04-09&g=2026-04-09), [4.19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19&z=2026-04-09&g=2026-04-09), [4.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.19b&z=2026-04-09&g=2026-04-09), [4.20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4&artikel=4.20&z=2026-04-09&g=2026-04-09), [4.20a2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20a2&z=2026-04-09&g=2026-04-09), [4.20b, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b&z=2026-04-09&g=2026-04-09), [4.20b1](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.4a&artikel=4.20b1&z=2026-04-09&g=2026-04-09), [5.1 tot en met 5.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=5&artikel=5.1&z=2026-04-09&g=2026-04-09), [8.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.1&z=2026-04-09&g=2026-04-09), [8.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.2&z=2026-04-09&g=2026-04-09), [8.3](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.3&z=2026-04-09&g=2026-04-09), [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.4&z=2026-04-09&g=2026-04-09), [8.5 tot en met 8.11](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.5&z=2026-04-09&g=2026-04-09), [8.12, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.12&z=2026-04-09&g=2026-04-09), en [8.13 tot en met 8.29](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=8&artikel=8.13&z=2026-04-09&g=2026-04-09).
 
-#### Artikel 8.29b
+##### Artikel 8.29b
 
 De hoogte van het boetenormbedrag, bedoeld in [artikel 9.10a, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10a) bedraagt € 4500.
 
-#### Artikel 8.29c. Soortgelijke overtredingen
+##### Artikel 8.29c. Soortgelijke overtredingen
 
 Als soortgelijke overtredingen als bedoeld in [artikel 9.10c van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.10c) worden aangemerkt het handelen of nalaten in strijd met de voorschriften van de artikelen die telkens in de afzonderlijke subonderdelen zijn aangegeven:
 
@@ -15255,13 +15281,13 @@ CI (contraindicatie): A = absoluut, R = relatief (meestal tot correctie)
 
 Vervallen
 
-#### Artikel 1.7a. Buitenlandse getuigschriften en kwalificaties van vakbekwaamheid
+##### Artikel 1.7a. Buitenlandse getuigschriften en kwalificaties van vakbekwaamheid
 
 Vervallen
 
 #### Paragraaf 1.2. Algemene bepalingen over opleidingen
 
-#### Artikel 17. Kerntaken, eindtermen en toetstermen DAV-1
+##### Artikel 17. Kerntaken, eindtermen en toetstermen DAV-1
 
 1. Voor de DAV-1 gelden de kerntaken, eindtermen en toetstermen die in de hierna opgenomen drie tabellen zijn vermeld en waarin de letter K staat voor kennis, de letter B voor begrip en de letter T voor toepassen.
 
@@ -15565,11 +15591,11 @@ Indien de verschillende stoffen in een mengsel afzonderlijk hetzelfde gezondheid
 
 De som van alle afzonderlijke blootstellingconcentraties als fractie van de afzonderlijke grenswaarden, is kleiner dan één. Of te wel:
 
-#### Artikel 4.32aa. Tijdelijke regeling vloercoatings op basis van methylmethacrylaat
+##### Artikel 4.32aa. Tijdelijke regeling vloercoatings op basis van methylmethacrylaat
 
 Vervallen
 
-#### Artikel 4.32ab. Tijdelijke regeling vloercoatings op basis van MMA
+##### Artikel 4.32ab. Tijdelijke regeling vloercoatings op basis van MMA
 
 Vervallen
 
@@ -15721,7 +15747,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-#### Artikel 1.1b. Vergoeding extra kosten certificatie en wijze van betalen
+##### Artikel 1.1b. Vergoeding extra kosten certificatie en wijze van betalen
 
 1. Voor zover ten gevolge van een verzoek of handeling dan wel nalaten van de aanvrager van een certificaat als bedoeld in deze regeling, extra kosten worden gemaakt in verband met de afgifte van het certificaat, worden deze kosten doorberekend aan de aanvrager.
 
@@ -15729,7 +15755,7 @@ Intrinsieke kenmerken:
 
 #### Paragraaf 1.1b. Persoonsregistratie
 
-#### Artikel 18. Toetsmatrijs DAV-1
+##### Artikel 18. Toetsmatrijs DAV-1
 
 De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt plaats op basis van toetsmatrijs die is weergegeven in de hierna opgenomen tabel waarin de letter K staat voor kennis, de letter B voor begrip en de letter T voor toepassen.
 
@@ -17808,7 +17834,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 4.17f. Afgifte certificaat opsporen van ontplofbare oorlogsresten
+##### Artikel 4.17f. Afgifte certificaat opsporen van ontplofbare oorlogsresten
 
 Een certificaat voor het opsporen van ontplofbare oorlogsresten als bedoeld in [artikel 4.10, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10), wordt door de certificerende instelling afgegeven indien de aanvrager voldoet aan de eisen zoals vastgelegd in hoofdstuk 2, 3 en 4 van het Certificatieschema voor het Opsporen van ontplofbare oorlogsresten, dat is vastgesteld door de Stichting Veilig Omgaan met Explosieve Stoffen op 15 oktober 2020 en door de minister is gepubliceerd in de Staatscourant van 13 november 2020, (Stcrt. 2020, 58198).
 
@@ -23057,7 +23083,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 1.9. Definities
+##### Artikel 1.9. Definities
 
 In deze paragraaf wordt verstaan onder:
 
@@ -23073,7 +23099,7 @@ In deze paragraaf wordt verstaan onder:
 
 - f. **proeve van bekwaamheid:** proeve van bekwaamheid als bedoeld in [artikel 1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1).
 
-#### Artikel 1.9a. Erkenning EU-beroepskwalificaties
+##### Artikel 1.9a. Erkenning EU-beroepskwalificaties
 
 1. Het verzoek om registratie of herregistratie, bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), dan wel om een certificaat van vakbekwaamheid als bedoeld in [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h), wordt ingediend bij de minister, of indien de minister een certificerende instelling als bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a) heeft aangewezen, bij die instelling, onder verstrekking van de volgende documenten:
 
@@ -23115,7 +23141,7 @@ In deze paragraaf wordt verstaan onder:
 
 - c. overige eisen die in het kader van de proeve van bekwaamheid worden gesteld.
 
-#### Artikel 1.9b. Meldingsplicht en te verstrekken documenten bij tijdelijke en incidentele dienstverrichting
+##### Artikel 1.9b. Meldingsplicht en te verstrekken documenten bij tijdelijke en incidentele dienstverrichting
 
 1. Een dienstverrichter als bedoeld in [artikel 21 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=21) die:
 
@@ -23147,7 +23173,7 @@ doet voorafgaand aan de eerste dienstverrichting melding aan de minister of, ind
 
 4. Indien de documenten, bedoeld in het tweede lid, onderdelen a, c, d, e, f, g en h, in een andere taal dan de Nederlandse taal zijn gesteld, wordt op verzoek van de minister, dan wel de door hem aangewezen instelling, bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), zo nodig een vertaling in het Nederlands overlegd die is opgesteld door een beëdigd vertaler. Indien de minister of de hiervoor genoemde instelling daarmee instemt, kan een vertaling van de documenten in een andere taal dan het Nederlands worden overlegd. Afschriften van deze documenten zijn gewaarmerkt.
 
-#### Artikel 1.9c. Controle beroepskwalificaties bij tijdelijke en incidentele dienstverrichting voor beroepen die verband houden met de volksgezondheid of openbare veiligheid
+##### Artikel 1.9c. Controle beroepskwalificaties bij tijdelijke en incidentele dienstverrichting voor beroepen die verband houden met de volksgezondheid of openbare veiligheid
 
 1. Voorafgaand aan de eerste dienstverrichting controleert de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, op grond van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27) de beroepskwalificaties van de meldingsplichtige dienstverrichter.
 
@@ -23165,7 +23191,7 @@ doet voorafgaand aan de eerste dienstverrichting melding aan de minister of, ind
 
 5. De meldingsplichtige dienstverrichter ontvangt van de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) heeft aangewezen, die instelling, een schriftelijke verklaring in de vorm van een bewijs van toetsing indien op grond van de controle de beroepskwalificaties voldoende zijn voor tijdelijke en incidentele dienstverrichting in Nederland.
 
-#### Artikel 1.9d. Proeve van bekwaamheid bij tijdelijke en incidentele dienstverrichting
+##### Artikel 1.9d. Proeve van bekwaamheid bij tijdelijke en incidentele dienstverrichting
 
 1. De meldingsplichtige dienstverrichter wordt door de minister of, indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft aangewezen, die instelling, in de gelegenheid gesteld de proeve van bekwaamheid, bedoeld in [artikel 1.9c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2026-04-09&g=2026-04-09), af te leggen. [Artikel 1.9a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2026-04-09&g=2026-04-09), is van overeenkomstige toepassing.
 
@@ -23173,7 +23199,7 @@ doet voorafgaand aan de eerste dienstverrichting melding aan de minister of, ind
 
 3. Indien het resultaat van de proeve van bekwaamheid onvoldoende is, heeft de meldingsplichtige dienstverrichter het recht nogmaals een proeve van bekwaamheid af te leggen.
 
-#### Artikel 1.9e. Registratie
+##### Artikel 1.9e. Registratie
 
 Vervallen
 
@@ -37907,7 +37933,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 1.9da. Geldigheidsduur opname in register, certificaat van vakbekwaamheid en bewijs van toetsing
+##### Artikel 1.9da. Geldigheidsduur opname in register, certificaat van vakbekwaamheid en bewijs van toetsing
 
 1. Registratie of herregistratie als bedoeld in [artikel 1.5j, vijfde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), een certificaat dat op grond van [artikel 1.5h van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5h) is afgegeven, en een bewijs van toetsing dat op grond van de [artikelen 1.9c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9c&z=2026-04-09&g=2026-04-09) of [1.9d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2026-04-09&g=2026-04-09) is afgegeven, ten behoeve van tijdelijke en incidentele dienstverrichting, hebben een geldigheidsduur die gelijk is aan de geldigheidsduur van de registratie of herregistratie in het register, genoemd in artikel 1.5j, eerste lid, van het besluit, dan wel van het persoonscertificaat dat op grond van [artikel 20 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=20), bedoeld in [artikel 1.5f van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5f), vereist is voor de uitoefening van hetzelfde beroep.
 
@@ -41755,7 +41781,7 @@ De risico’s bij het verrichten van duikwerkzaamheden liggen op het gebied van:
 
 ## Bijlage XIIIc. , behorend bij [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2016-03-01&g=2016-03-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -41793,11 +41819,11 @@ In deze bijlage wordt verstaan onder:
 
 - **Toetsterm:** een omschrijving van een eindterm of een element van een eindterm in de vorm van een kennisaspect, een vaardigheid of de attitude zodanig dat deze toetsbaar is.
 
-#### Artikel 2. Uitwerking eisen
+##### Artikel 2. Uitwerking eisen
 
 De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen van een certificaat overeenkomstig deze bijlage en worden in deze bijlage nader uitgewerkt.
 
-#### Artikel 3. Certificatieprocedure
+##### Artikel 3. Certificatieprocedure
 
 1. De certificerende instelling is verantwoordelijk voor de afgifte van een persoonscertificaat en draagt zorg voor de uitvoering van de volgende werkzaamheden:
 
@@ -41831,7 +41857,7 @@ De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen
 
 4. De certificerende instelling controleert vooraf of de kandidaat reeds een certificaat heeft gehad bij een andere certificerende instelling en of dit certificaat is geschorst of ingetrokken. Indien het certificaat in een periode van twaalf maanden voorafgaand aan de aanvraag is geschorst of ingetrokken, accepteert de certificerende instelling de aanvraag niet en verwijst de kandidaat terug naar zijn oorspronkelijke certificerende instelling. De certificerende instelling beslist binnen vier weken nadat aan alle eisen is voldaan.
 
-#### Artikel 4. Hercertificatie
+##### Artikel 4. Hercertificatie
 
 1. Voor hercertificatie gelden dezelfde procedures en eisen als voor initiële certificatie.
 
@@ -41843,7 +41869,7 @@ De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen
 
 5. Een nieuw certificaat wordt slechts verstrekt onder het gelijktijdig intrekken of ongeldig maken van het eerder afgegeven certificaat.
 
-#### Artikel 5. Eisen aan het examen
+##### Artikel 5. Eisen aan het examen
 
 1. Het examen bestaat uit een praktijkexamen en een theorie-examen.
 
@@ -41871,11 +41897,11 @@ De eisen in NEN-EN-ISO/IEC 17024 zijn onverkort van toepassing voor het verlenen
 
 4. De certificerende instelling informeert de kandidaat over de kosten van het examen.
 
-#### Artikel 6. Algemene eisen theorie-examen
+##### Artikel 6. Algemene eisen theorie-examen
 
 Het theorie-examen wordt in de Nederlandse taal afgenomen waarbij de tekst van de vragen op papier of in elektronische vorm kan worden aangeboden.
 
-#### Artikel 7. Alternatieven voor theorie-examen
+##### Artikel 7. Alternatieven voor theorie-examen
 
 1. De volgende alternatieve wijzen voor het afnemen van een theorie-examen worden onderscheiden:
 
@@ -41903,31 +41929,31 @@ Het theorie-examen wordt in de Nederlandse taal afgenomen waarbij de tekst van d
 
 7. Voor een verlengd examen is de beschikbare tijd 150% van de reguliere maximale examenduur.
 
-#### Artikel 8. Algemene eisen praktijkexamen
+##### Artikel 8. Algemene eisen praktijkexamen
 
 1. De locatie van het praktijkexamen is geschikt voor het afnemen van de betreffende praktijkexamens.
 
 2. Tijdens het praktijkexamen wordt gecommuniceerd in de Nederlandse taal.
 
-#### Artikel 9. Medewerking aan controles door certificerende instelling procescertificaat
+##### Artikel 9. Medewerking aan controles door certificerende instelling procescertificaat
 
 1. De certificaathouder verleent desgevraagd medewerking aan controles van een certificerende instelling procescertificatie, voor zover het een controle betreft van een gecertificeerd asbestverwijderingsbedrijf waarvoor de certificaathouder werkzaamheden verricht.
 
 2. Indien een certificerende instelling procescertificatie met betrekking tot het functioneren van een certificaathouder DTA of DAV-1 of DAV-2 afwijkingen constateert van hetgeen is voorgeschreven in deze bijlage en dit rapporteert aan de certificerende instelling die het betreffende persoonscertificaat heeft afgegeven, dan onderzoekt de laatstbedoelde certificerende instelling deze melding en gaat deze zo nodig over tot het opleggen van sancties jegens de betreffende certificaathouder.
 
-#### Artikel 10. Toezicht door toezichthoudende overheidsinstelling
+##### Artikel 10. Toezicht door toezichthoudende overheidsinstelling
 
 1. Indien een toezichthoudende overheidsinstelling, waaronder in ieder geval begrepen de Inspectie SZW, met betrekking tot het functioneren van een certificaathouder DTA of DAV-1 of DAV-2 afwijkingen constateert van hetgeen is voorgeschreven in deze bijlage en dit rapporteert aan de certificerende instelling die het betreffende persoonscertificaat heeft afgegeven, dan onderzoekt de laatstbedoelde instelling deze melding en gaat deze zo nodig over tot het opleggen van sancties jegens de betreffende certificaathouder. Indien de certificerende instelling besluit dit niet te doen, legt zij dit besluit inclusief de onderbouwing daarvan schriftelijk vast en zorgt zij voor een deugdelijke archivering hiervan.
 
 2. Indien de toezichthoudende overheidsinstelling daarom verzoekt, wordt deze door de certificerende instelling schriftelijk geïnformeerd over haar besluit en over de redenen die aan dat besluit ten grondslag liggen.
 
-#### Artikel 11. Meldingen inzake gedragingen certificaathouder
+##### Artikel 11. Meldingen inzake gedragingen certificaathouder
 
 1. Indien de certificerende instelling een melding ontvangt over gedragingen van een certificaathouder anders dan op basis van artikel 9 of artikel 10, beoordeelt de certificerende instelling of sprake is van een afwijking van de eisen en of die afwijking toe te rekenen is aan de certificaathouder.
 
 2. De certificerende instelling meldt schriftelijk aan degene die de melding gedaan heeft of naar haar oordeel sprake was van een afwijking en deze heeft geleid tot oplegging van een sanctie.
 
-#### Artikel 12. Onderzoek inzake vermeende afwijkingen door certificaathouder
+##### Artikel 12. Onderzoek inzake vermeende afwijkingen door certificaathouder
 
 1. De certificerende instelling onderzoekt naar aanleiding van een melding van een certificerende instelling voor het Procescertificaat Asbestverwijdering dan wel van een toezichthoudende overheidsinstelling, of een certificaathouder niet voldoet of voldaan heeft aan of één meer bepalingen opgenomen in bijlage 1 en daarmee sprake is van een of meer afwijkingen.
 
@@ -41937,7 +41963,7 @@ Het theorie-examen wordt in de Nederlandse taal afgenomen waarbij de tekst van d
 
 4. De certificerende instelling registreert de meldingen, bedoeld in het eerste lid, de conclusies van de verrichte onderzoeken en de sancties die zijn getroffen.
 
-#### Artikel 13. Gegevens certificaat
+##### Artikel 13. Gegevens certificaat
 
 De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
@@ -41959,7 +41985,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 - i. een verklaring van de certificerende instelling dat de certificaathouder voldoet aan de eisen zoals vastgesteld in deze bijlage.
 
-#### Artikel 14. Certificatieovereenkomst
+##### Artikel 14. Certificatieovereenkomst
 
 1. De certificaathouder en de certificerende instelling sluiten een certificatieovereenkomst waarin ten minste de in het tweede en derde lid genoemde verplichtingen van de certificaathouder respectievelijk de certificerende instelling zijn opgenomen.
 
@@ -41981,7 +42007,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 - b. besluit tot intrekking van het certificaat wanneer na een in het eerste lid, onderdeel c, bedoelde schorsing niet met goed gevolg examen is afgelegd.
 
-#### Artikel 15. Entreecriteria DAV-1
+##### Artikel 15. Entreecriteria DAV-1
 
 1. De entreecriteria voor de certificaathouder DAV-1 houden in dat de aanvrager:
 
@@ -41995,7 +42021,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 2. In aanvulling op het eerste lid geldt als entreecriterium dat in de voorgaande twaalf maanden geen certificaat DAV-1, DAV-2 of DTA van de aanvrager is ingetrokken.
 
-#### Artikel 19. Herexamen DAV-1
+##### Artikel 19. Herexamen DAV-1
 
 1. Een kandidaat kan uiterlijk zes maanden na het behalen van een voldoende resultaat voor ofwel zijn praktijkexamen ofwel voor zijn theorie-examen herexamen doen voor het nog als onvoldoende gekwalificeerde examengedeelte theorie of praktijk.
 
@@ -42005,7 +42031,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 4. Er is geen maximum verbonden aan het aantal af te leggen gecombineerde praktijk- en theorie-examens.
 
-#### Artikel 20. Entreecriteria DAV-2
+##### Artikel 20. Entreecriteria DAV-2
 
 1. De entreecriteria voor de certificaathouder DAV-2 houden in dat de aanvrager:
 
@@ -42029,7 +42055,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 3. In aanvulling op het eerste en tweede lid geldt als entreecriterium dat in de voorgaande twaalf maanden geen certificaat DAV-1, DAV-2 of DTA van de aanvrager is ingetrokken.
 
-#### Artikel 22. Kerntaken, eindtermen en toetstermen DAV-2
+##### Artikel 22. Kerntaken, eindtermen en toetstermen DAV-2
 
 1. Voor de DAV-2 gelden de kerntaken, eindtermen en toetstermen die in de drie hierna opgenomen tabellen zijn vermeld.
 
@@ -42109,7 +42135,7 @@ De volgende gegevens worden op het certificaat in ieder geval vermeld:
 
 2. De DAV-2 begrijpt wat de consequenties zijn van het niet juist uitvoeren van de in het eerste lid bedoelde kerntaken en de daaraan gerelateerde eindtermen en toetstermen en kan uitleggen waarom zijn handelen daarmee in overeenstemming is.
 
-#### Artikel 23. Toetsmatrijs DAV-2
+##### Artikel 23. Toetsmatrijs DAV-2
 
 De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt plaats op basis van de toetsmatrijs die is weergegeven in de hierna opgenomen tabel waarin de letter K staat voor kennis, de letter B voor begrip en de letter T voor toepassen.
 
@@ -42121,7 +42147,7 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 | **Kerntaak 3** | Eindterm 3 Toetstermen 3.1 tot en met 3.26 | 14 | 2 | 8 | 4 | 2 |   |
 |   | **Totaal aantal vragen en opdrachten** | 30 | 3 | 11 | 16 | 15 of meer | 15 of meer |
 
-#### Artikel 24. Herexamen DAV-2
+##### Artikel 24. Herexamen DAV-2
 
 1. Een kandidaat kan uiterlijk zes maanden na het behalen van een voldoende resultaat voor ofwel zijn praktijkexamen ofwel voor zijn theorie-examen herexamen doen voor het nog als onvoldoende gekwalificeerde examengedeelte theorie of praktijk.
 
@@ -42131,7 +42157,7 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 
 4. Er is geen maximum verbonden aan het aantal af te leggen gecombineerde praktijk- en theorie-examens.
 
-#### Artikel 25. Entreecriteria DTA
+##### Artikel 25. Entreecriteria DTA
 
 1. De entreecriteria voor de certificaathouder DTA houden in dat de aanvrager:
 
@@ -42145,7 +42171,7 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 
 2. In aanvulling op het eerste lid geldt als entreecriterium dat in de voorgaande twaalf maanden geen certificaat DAV-1, DAV-2 of DTA van de aanvrager is ingetrokken.
 
-#### Artikel 26. Duur en cesuur theorie-examen DTA
+##### Artikel 26. Duur en cesuur theorie-examen DTA
 
 1. Het theorie-examen duurt maximaal 90 minuten.
 
@@ -42163,7 +42189,7 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cijfer | 0 | 1 | 2 | 3 | 4 | 4,5 | 5 | 5,5 | 6 | 6,5 | 7 | 7,5 | 8 | 8,5 | 9 | 9,5 | 10 |
 
-#### Artikel 27. Duur en cesuur praktijk examen DTA
+##### Artikel 27. Duur en cesuur praktijk examen DTA
 
 1. Het praktijkexamen duurt maximaal 90 minuten.
 
@@ -42177,13 +42203,13 @@ De verdeling van de vragen en opdrachten over de kerntaken en eindtermen vindt p
 
 - b. geen fatale fout heeft gemaakt.
 
-#### Artikel 28. Cesuur gehele DTA examen en geldigheidsduur certificaat
+##### Artikel 28. Cesuur gehele DTA examen en geldigheidsduur certificaat
 
 1. Een kandidaat is geslaagd als hij heeft voldaan aan de eisen in de artikelen 26, derde lid, en 27, vierde lid.
 
 2. Het DTA certificaat is maximaal 3 jaar geldig.
 
-#### Artikel 29. Eindtermen DTA theorie-examen
+##### Artikel 29. Eindtermen DTA theorie-examen
 
 Voor het theorie-examen gelden de volgende eindtermen:
 
@@ -42253,7 +42279,7 @@ Voor het theorie-examen gelden de volgende eindtermen:
 
 - 9. De aanvrager kan de relaties tussen de beheerstichting, de certificerende instellingen en een certificaathouder duidelijk maken en kent de relevante certificatieschema’s en overige relevante documenten van de beheerstichting.
 
-#### Artikel 30. Eindtermen DTA praktijkexamen
+##### Artikel 30. Eindtermen DTA praktijkexamen
 
 Voor het praktijkexamen gelden de volgende eindtermen. De aanvrager kan:
 
@@ -42263,7 +42289,7 @@ Voor het praktijkexamen gelden de volgende eindtermen. De aanvrager kan:
 
 - c. asbestverdachte materialen herkennen.
 
-#### Artikel 31. Toetsmatrijs theorie-examen DTA
+##### Artikel 31. Toetsmatrijs theorie-examen DTA
 
 De verdeling van de vragen en opdrachten van het theorie-examen over de in artikel 29 genoemde eindtermen vindt plaats op basis van de hierna opgenomen tabel waarin de letter K staat voor kennis, de letter B voor begrip en de letter T voor toepassen.
 
@@ -42306,7 +42332,7 @@ De verdeling van de vragen en opdrachten van het theorie-examen over de in artik
 | **Onderdelen in examen** | **Onderdelen in examen** | **Onderdelen in examen** | **Onderdelen in examen** | **Onderdelen in examen** | **Onderdelen in examen** | **1** | **0** |
 | Totaal in het examen | Totaal in het examen | Totaal in het examen | Totaal in het examen | Totaal in het examen | Totaal in het examen | 35 | 5 |
 
-#### Artikel 32. Toetsmatrijs praktijkexamen DTA
+##### Artikel 32. Toetsmatrijs praktijkexamen DTA
 
 De verdeling van de vragen en opdrachten van het praktijkexamen over de eindtermen, genoemd in artikel 29, vindt plaats op basis van de hierna opgenomen tabel.
 
@@ -42351,7 +42377,7 @@ De verdeling van de vragen en opdrachten van het praktijkexamen over de eindterm
 | 3.1 Kan op basis van een set van 10 materialen in monsterpotjes, een bijbehorende omschrijving en een foto beoordelen of de materialen al dan niet asbestverdacht zijn. | 3.1 Kan op basis van een set van 10 materialen in monsterpotjes, een bijbehorende omschrijving en een foto beoordelen of de materialen al dan niet asbestverdacht zijn. | 3.1 Kan op basis van een set van 10 materialen in monsterpotjes, een bijbehorende omschrijving en een foto beoordelen of de materialen al dan niet asbestverdacht zijn. |
 | Totaal | **8** | 100 |
 
-#### Artikel 33. Herexamen DTA
+##### Artikel 33. Herexamen DTA
 
 1. Een kandidaat kan uiterlijk zes maanden na het behalen van een voldoende resultaat voor ofwel zijn praktijkexamen ofwel voor zijn theorie-examen herexamen doen voor het nog als onvoldoende gekwalificeerde examengedeelte theorie of praktijk.
 
@@ -42361,17 +42387,17 @@ De verdeling van de vragen en opdrachten van het praktijkexamen over de eindterm
 
 4. Er is geen maximum verbonden aan het aantal af te leggen gecombineerde praktijk- en theorie-examens.
 
-#### Artikel 34. Eindtermen en handelwijze DTA
+##### Artikel 34. Eindtermen en handelwijze DTA
 
 De DTA begrijpt wat de consequenties zijn wanneer hij niet in overeenstemming met de in artikel 29 en 30 geformuleerde eindtermen handelt en kan uitleggen waarom zijn handelen daarmee in overeenstemming is.
 
-#### Artikel 35. Overgangsbepalingen in verband met wijzigingen met ingang van 1 januari 2012
+##### Artikel 35. Overgangsbepalingen in verband met wijzigingen met ingang van 1 januari 2012
 
 1. Een deskundig asbestverwijderaar (DAV) die is gecertificeerd voor of op 1 oktober 2013 wordt, zolang dat certificaat geldig is, geacht te voldoen aan de eisen die in deze bijlage gesteld worden aan de certificaathouder DAV-2.
 
 2. Een deskundig toezichthouder asbestverwijdering (DTA) die is gecertificeerd voor of op 1 maart 2013 wordt, zolang dat certificaat geldig is, geacht te voldoen aan de eisen die in deze bijlage gesteld worden aan de certificaathouder DTA.
 
-#### Artikel 36. Overgangsregelingen in verband met wijzigingen met ingang van 1 maart 2016
+##### Artikel 36. Overgangsregelingen in verband met wijzigingen met ingang van 1 maart 2016
 
 1. Een deskundig toezichthouder asbestverwijdering als bedoeld in [artikel 4.27, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.27&z=2019-01-01&g=2019-01-01), van de Arbeidsomstandighedenregeling die beschikt over een certificaat DTA dat is afgegeven voor 1 maart 2016, wordt gedurende de looptijd van dat certificaat geacht te voldoen aan de eisen voor de deskundig toezichthouder asbestverwijdering zoals neergelegd in deze bijlage, met dien verstande het certificaat kan worden geschorst of ingetrokken indien de certificaathouder zich niet houdt aan de voor het gebruik van het certificaat geldende voorschriften.
 
@@ -42383,7 +42409,7 @@ De DTA begrijpt wat de consequenties zijn wanneer hij niet in overeenstemming me
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2016-03-01&g=2016-03-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -42399,11 +42425,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -42423,7 +42449,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -42435,7 +42461,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -42459,7 +42485,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -42539,7 +42565,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -42559,21 +42585,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2016-03-01&g=2016-03-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -42865,7 +42891,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2016-04-01&g=2016-04-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -42881,11 +42907,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -42905,7 +42931,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -42917,7 +42943,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -42941,7 +42967,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -43021,7 +43047,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -43041,21 +43067,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2016-04-01&g=2016-04-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -43273,7 +43299,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2016-07-05&g=2016-07-05)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -43289,11 +43315,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -43313,7 +43339,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -43325,7 +43351,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -43349,7 +43375,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -43429,7 +43455,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -43449,21 +43475,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2016-07-05&g=2016-07-05) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -43630,31 +43656,31 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-#### Artikel 3.15. Schakelbepaling
+##### Artikel 3.15. Schakelbepaling
 
 Op een arbeidsplaats in de winningsindustrie voor het opsporen en de winning van koolwaterstoffen zijn naast de voorschriften van [paragraaf 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&z=2026-04-09&g=2026-04-09) van dit hoofdstuk tevens de voorschriften van deze paragraaf van toepassing.
 
-#### Artikel 3.16. Veiligheids- en gezondheidszorgsysteem in verband met zware ongevallen
+##### Artikel 3.16. Veiligheids- en gezondheidszorgsysteem in verband met zware ongevallen
 
 In aanvulling op [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.4&z=2026-04-09&g=2026-04-09) bevat de aanvulling op het veiligheids- en gezondheidszorgsysteem, bedoeld in [artikel 2.42k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 9, en IV, onderdeel 1, bij de richtlijn.
 
-#### Artikel 3.17. Veiligheids- en gezondheidsbeleid en -document in verband met zware ongevallen
+##### Artikel 3.17. Veiligheids- en gezondheidsbeleid en -document in verband met zware ongevallen
 
 In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, over de aanvulling op het arbeidsomstandighedenbeleid, bedoeld in [artikel 2.42k, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42k), ten minste de informatie, genoemd in de bijlagen I, onderdeel 8, en IV, onderdeel 1, bij de richtlijn.
 
-#### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09)
+##### Artikel 3.18. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09)
 
 1. In aanvulling op de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
 2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
-#### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09)
+##### Artikel 3.19. Risico-inventarisatie en -evaluatie in verband met zware ongevallen bij mijnbouwwerken als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09)
 
 1. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09), voor zover dit een productie-installatie als bedoeld in artikel 2, onderdeel 20, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 2, bij de richtlijn, met uitzondering van punt 15.
 
 2. In aanvulling op de [artikelen en 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.8&z=2026-04-09&g=2026-04-09) en [3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.9&z=2026-04-09&g=2026-04-09) bevat het veiligheids- en gezondheidsdocument, bedoeld in artikel 3.8, eerste respectievelijk tweede lid, betreffende een mijnbouwwerk als bedoeld in [artikel 3.6, eerste lid, onder c en d,](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.6&z=2026-04-09&g=2026-04-09) voor zover dit een niet-productie-installatie als bedoeld in artikel 2, onderdeel 17, van de richtlijn is, over de aanvulling op de risico-inventarisatie en -evaluatie, bedoeld in [artikel 2.42l, eerste tot en met vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.42l), ten minste de informatie, genoemd in bijlage I, onderdeel 3, bij de richtlijn, met uitzondering van punt 15.
 
-#### Artikel 3.20. Noodplan in verband met zware ongevallen
+##### Artikel 3.20. Noodplan in verband met zware ongevallen
 
 In aanvulling op[artikel 3.14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=3&paragraaf=3.2&artikel=3.14&z=2026-04-09&g=2026-04-09), bevat de aanvulling op het noodplan, bedoeld in [artikel 3.37za, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=3.37za), ten minste de informatie, genoemd in bijlage I, onderdeel 10, bij de richtlijn, met dien verstande dat onder extern rampenplan als bedoeld in de punten 2 en 9 wordt verstaan: het Incidentbestrijdingsplan Noordzee, bedoeld in [artikel 23 van de Wet bestrijding maritieme ongevallen](https://wetten.overheid.nl/jci1.3:c:BWBR0037162&artikel=23), het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=16), of het rampbestrijdingsplan, bedoeld in [artikel 17 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=17).
 
@@ -43798,7 +43824,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2016-09-02&g=2016-09-02)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -43814,11 +43840,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -43838,7 +43864,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -43850,7 +43876,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -43874,7 +43900,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -43954,7 +43980,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -43974,21 +44000,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2016-09-02&g=2016-09-02) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -44189,7 +44215,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-#### Artikel 1.9aa. Taken en bevoegdheden certificerende instelling
+##### Artikel 1.9aa. Taken en bevoegdheden certificerende instelling
 
 De taken en bevoegdheden, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=8), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=11), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=13), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=17), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=19), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=22), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=23), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=27), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=28), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=29), [30](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30), [30a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=30a), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31), [31b](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=31b), [32a](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34a), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=34) en [35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=35) worden indien de minister een certificerende instelling als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b) heeft aangewezen, uitgeoefend door die certificerende instelling.
 
@@ -44293,7 +44319,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2016-10-04&g=2016-10-04)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -44309,11 +44335,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -44333,7 +44359,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -44345,7 +44371,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -44369,7 +44395,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -44449,7 +44475,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -44469,21 +44495,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2016-10-04&g=2016-10-04) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -44607,7 +44633,7 @@ Vervallen
 
 ## Bijlage XIIIe. behorend bij [Artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2017-02-25&g=2017-02-25)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -44623,11 +44649,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -44647,7 +44673,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -44659,7 +44685,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -44683,7 +44709,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -44763,7 +44789,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -44783,21 +44809,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2017-02-25&g=2017-02-25) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -44936,7 +44962,7 @@ Intrinsieke kenmerken:
 
 Vervallen
 
-#### Artikel 12a. Bepalen van de sancties
+##### Artikel 12a. Bepalen van de sancties
 
 1. Indien de certificaathouder niet voldoet aan of voldaan heeft aan een of meer bepalingen die in bijlage 1 zijn opgenomen is sprake van een afwijking en wordt het persoonscertificaat van de certificaathouder door de certificerende instelling voorwaardelijk geschorst voor ten hoogste 90 dagen, onvoorwaardelijk geschorst voor 30 dagen of ingetrokken.
 
@@ -44964,7 +44990,7 @@ Vervallen
 
 - c. binnen twee jaar na de aanvangsdatum van een onvoorwaardelijke schorsing van het persoonscertificaat van een certificaathouder opnieuw gronden bestaan voor een onvoorwaardelijke schorsing van zijn persoonscertificaat.
 
-#### Artikel 12b. Procedure bij afwijkingen
+##### Artikel 12b. Procedure bij afwijkingen
 
 1. De certificerende instelling zendt de certificaathouder binnen een zeven kalenderdagen na afronding van het onderzoek, bedoeld in artikel 12, eerste lid, de door haar getrokken conclusie.
 
@@ -44972,7 +44998,7 @@ Vervallen
 
 3. De certificerende instelling zendt de certificaathouder zo spoedig mogelijk doch uiterlijk zeven kalenderdagen na de termijn, genoemd in het tweede lid, haar besluit omtrent het al dan niet treffen van een sanctie.
 
-#### Artikel 37. Overgangsregelingen in verband met wijzigingen per 1 maart 2017
+##### Artikel 37. Overgangsregelingen in verband met wijzigingen per 1 maart 2017
 
 - 1. Voor meldingen die door een certificerende instelling procescertificaat of door een toezichthoudende overheidsinstelling zijn gedaan voor 1 maart 2017 blijven de bepalingen van bijlage XIIIc, zoals deze luidden op 28 februari 2017, van toepassing.
 
@@ -44984,7 +45010,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2017-05-01&g=2017-05-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -45000,11 +45026,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45024,7 +45050,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -45036,7 +45062,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45060,7 +45086,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -45140,7 +45166,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -45160,21 +45186,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2017-05-01&g=2017-05-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -45361,7 +45387,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2017-06-20&g=2017-06-20)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -45377,11 +45403,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45401,7 +45427,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -45413,7 +45439,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45437,7 +45463,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -45517,7 +45543,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -45537,21 +45563,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2017-06-20&g=2017-06-20) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -45614,7 +45640,7 @@ De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van h
 
 ### 5.1. Doelstelling
 
-#### Artikel 4.19b. Inhoud plan van aanpak bij overschrijding van een grenswaarde
+##### Artikel 4.19b. Inhoud plan van aanpak bij overschrijding van een grenswaarde
 
 Indien toepassing wordt gegeven aan [artikel 4.3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.3), of [artikel 4.16, vierde tot en met zesde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16) worden in het plan van aanpak, bedoeld in [artikel 5, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5) per te realiseren stap van blootstellingsverlaging, in ieder geval opgenomen:
 
@@ -45646,7 +45672,7 @@ Indien toepassing wordt gegeven aan [artikel 4.3, vierde en vijfde lid](https://
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2017-10-01&g=2017-10-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -45662,11 +45688,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45686,7 +45712,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -45698,7 +45724,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45722,7 +45748,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -45802,7 +45828,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -45822,21 +45848,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2017-10-01&g=2017-10-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -45958,7 +45984,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2018-01-01&g=2018-01-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -45974,11 +46000,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -45998,7 +46024,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -46010,7 +46036,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -46034,7 +46060,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -46114,7 +46140,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -46134,21 +46160,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2018-01-01&g=2018-01-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -46325,7 +46351,7 @@ Vervallen
 
 ## Bijlage XIIIf. behorend bij [artikel 4.28](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=4&paragraaf=4.6&artikel=4.28&z=2018-10-01&g=2018-10-01)
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -46341,11 +46367,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -46365,7 +46391,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -46377,7 +46403,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -46401,7 +46427,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -46481,7 +46507,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -46501,21 +46527,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2018-10-01&g=2018-10-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -47061,7 +47087,7 @@ Vervallen
 
 ### Paragraaf 11.2. Uitgangspunten toetsing
 
-#### Artikel 1. Definities en afkortingen
+##### Artikel 1. Definities en afkortingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -47077,11 +47103,11 @@ In deze bijlage wordt verstaan onder:
 
 - **NEN-EN-ISO/IEC 17024:** algemene eisen voor instellingen die certificatie van personen uitvoeren, uitgegeven door het Nederlands Normalisatie-instituut, zoals deze luidden in 2012.
 
-#### Artikel 2. Beoordeling en aanwijzing
+##### Artikel 2. Beoordeling en aanwijzing
 
 Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basis van de normen gesteld in NEN-EN-ISO/IEC 17024 en de criteria, bedoeld in artikel 3, die gesteld worden aan de certificerende instelling op grond van de aanwijzing.
 
-#### Artikel 3. Criteria voor aanwijzing
+##### Artikel 3. Criteria voor aanwijzing
 
 - 1. Een instelling die een aanvraag, als bedoeld in [artikel 1.5b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5b), heeft gedaan om aangewezen te worden als certificerende instelling, wordt beoordeeld op basis van de criteria, bedoeld in [artikel 1.5a van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -47101,7 +47127,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 3°. een klachtenprocedure overeenkomstig [titel 9.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=9.1).
 
-#### Artikel 4. Aanvullende eisen aan een certificerende instelling
+##### Artikel 4. Aanvullende eisen aan een certificerende instelling
 
 - 1. Een certificerende instelling neemt deel aan het door het Centrale Commissie van Deskundigen georganiseerde harmonisatieoverleg.
 
@@ -47113,7 +47139,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 5. Een certificerende instelling besteedt de afgifte van certificaten en de daaraan voorafgaande beoordeling en beslissing over de initiële certificatie en de hercertificatie niet uit aan derden.
 
-#### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
+##### Artikel 5. Overeenkomst certificerende instelling en beheerstichting
 
 - 1. Een certificerende instelling sluit een overeenkomst met de beheerstichting overeenkomstig [artikel 1.5a, eerste lid, onderdeel f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5a).
 
@@ -47137,7 +47163,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het eerste lid bedoelde overeenkomst bepaalt tevens dat de certificerende instelling de beheerstichting informeert zodra zij voornemens is een of meer van haar taken te beëindigen.
 
-#### Artikel 6. Eisen aan het certificatiepersoneel
+##### Artikel 6. Eisen aan het certificatiepersoneel
 
 - 1. De certificerende instelling beschikt voor de verificatie van de competenties inzake kennis, kunde en houding van het certificatiepersoneel over een specifieke verificatiemethode.
 
@@ -47217,7 +47243,7 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - c. beoordelingsformulieren en andere relevante, persoonsgebonden documenten.
 
-#### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
+##### Artikel 7. Onpartijdigheid en onafhankelijkheid certificerende instelling
 
 - 1. De certificerende instelling en haar certificatiepersoneel handelt en treedt onpartijdig en onafhankelijk op en heeft geen belang bij de uitslag van een examen of het verlenen van een certificaat.
 
@@ -47237,21 +47263,21 @@ Het beoordelen en aanwijzen van certificerende instellingen vindt plaats op basi
 
 - 7. De in het zesde lid bedoelde beschrijving wordt door alle bestuurders ondertekend.
 
-#### Artikel 8. Administratie in Nederlandse taal
+##### Artikel 8. Administratie in Nederlandse taal
 
 De certificerende instelling gebruikt in haar administratie uitsluitend de Nederlandse taal.
 
-#### Artikel 9. Jaarverslag van certificerende instelling
+##### Artikel 9. Jaarverslag van certificerende instelling
 
 De certificerende instelling stelt op grond van [artikel 1.5e, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) een jaarverslag op waarin informatie wordt gegeven over de in [artikel 1.1a](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1a&artikel=1.1a&z=2019-01-01&g=2019-01-01) van de regeling genoemde onderwerpen.
 
-#### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
+##### Artikel 10. Informatieverstrekking door certificerende instelling aan minister bij beëindiging
 
 - 1. Een certificerende instelling die haar activiteiten als certificerende instelling geheel of gedeeltelijk beëindigt of voornemens is te beëindigen informeert de minister hierover zo spoedig mogelijk en volgt vervolgens de aanwijzingen van de minister op met betrekking tot overdracht van dossiers.
 
 - 2. Een certificerende instelling informeert de minister zodra zij een aanvraag indient voor een aanvullende accreditatie of beoordeling op basis van een ander werkveldspecifiek certificatieschema in het kader van de wet.
 
-#### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
+##### Artikel 11. Informatieverstrekking door certificerende instelling aan RvA Inspectie SZW en certificaathouders
 
 - 1. De certificerende instelling verstrekt overeenkomstig [artikel 1.5e, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5e) desgevraagd informatie aan de Stichting Raad voor Accreditatie over onder meer de wijze waarop de certificerende instelling omgaat met:
 
@@ -47551,13 +47577,13 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 1.1c. Beheer register en opname verklaring omtrent het gedrag
+##### Artikel 1.1c. Beheer register en opname verklaring omtrent het gedrag
 
 1. De verwerker, genoemd in [artikel 1.5k, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5k), voert een deugdelijk beheer ten aanzien van de registers, genoemd [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j).
 
 2. De registers, genoemd in [artikel 1.5j, eerste lid, onderdelen a tot en met c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), bevatten tevens het gegeven, bedoeld in [artikel 1.5m, eerste lid, onder d, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m).
 
-#### Artikel 1.1d. Verzoek om registratie of herregistratie
+##### Artikel 1.1d. Verzoek om registratie of herregistratie
 
 1. De persoon die zich wil laten registeren of herregistreren in een register, genoemd in [artikel 1.5j, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j), verstrekt de gegevens die op grond van [artikel 1.5l, eerste lid, onderdelen a tot en met c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) hiervoor zijn vereist aan de verwerker van het betreffende register. De persoon die zich wil laten registreren of herregisteren in een register als bedoeld in [artikel 1.1c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1c&z=2026-04-09&g=2026-04-09), verstrekt daarbij tevens het gegeven bedoeld in artikel 1.5l, eerste lid, onderdeel d, van het besluit.
 
@@ -47567,7 +47593,7 @@ Intrinsieke kenmerken:
 
 4. De verwerker verstrekt de geregistreerde of geherregistreerde een bewijs van registratie of herregistratie.
 
-#### Artikel 1.1e. Verzoek om informatie of inzage
+##### Artikel 1.1e. Verzoek om informatie of inzage
 
 1. De administratie van het register is zodanig ingericht dat op verzoek van:
 
@@ -47581,7 +47607,7 @@ Intrinsieke kenmerken:
 
 2. De personen, bedoeld in het eerste lid, onderdelen a en d, legitimeren zich bij de verwerker zodanig dat deze kan vaststellen dat zij geregistreerde of geherregistreerde onderscheidenlijk toezichthouder zijn.
 
-#### Artikel 1.1f. Aanpassing gegevens op verzoek geregistreerde of geherregistreerde
+##### Artikel 1.1f. Aanpassing gegevens op verzoek geregistreerde of geherregistreerde
 
 1. De geregistreerde of geherregistreerde kan de minister gemotiveerd verzoeken de in het register opgenomen gegevens, bedoeld in [artikel 1.5m, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m) en de [artikelen 1.9a, eerste, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9a&z=2026-04-09&g=2026-04-09), en [1.9d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.3&artikel=1.9d&z=2026-04-09&g=2026-04-09), aan te passen of te verwijderen.
 
@@ -47589,7 +47615,7 @@ Intrinsieke kenmerken:
 
 3. [Artikel 1.1d, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&hoofdstuk=1&paragraaf=1.1b&artikel=1.1d&z=2026-04-09&g=2026-04-09), is van overeenkomstige toepassing.
 
-#### Artikel 1.1g. Informeren geregistreerde of geherregistreerde
+##### Artikel 1.1g. Informeren geregistreerde of geherregistreerde
 
 De minister informeert de geregistreerde of geherregistreerde desgevraagd over:
 
@@ -47597,7 +47623,7 @@ De minister informeert de geregistreerde of geherregistreerde desgevraagd over:
 
 - b. door hem anders dan op verzoek van de geregistreerde of geherregistreerde in dat register aangepaste gegevens dan wel uit het register verwijderde gegevens.
 
-#### Artikel 1.1h. Misbruik of zoekraken van het bewijs van registratie of herregistratie
+##### Artikel 1.1h. Misbruik of zoekraken van het bewijs van registratie of herregistratie
 
 1. De geregistreerde of geherregistreerde voorkomt misbruik en het zoekraken van het bewijs van registratie of herregistratie door derden.
 
@@ -48084,7 +48110,7 @@ Intrinsieke kenmerken:
 
 - wit pictogram op rode achtergrond. De rode kleur beslaat ten minste 50% van het oppervlak van het bord.
 
-#### Artikel 9.2e. Overgangsbepaling certificering duikerartsen
+##### Artikel 9.2e. Overgangsbepaling certificering duikerartsen
 
 Vervallen
 
@@ -48519,7 +48545,7 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 4.29a. Nadere regels omtrent machinisten betrokken bij asbestverwijdering
+##### Artikel 4.29a. Nadere regels omtrent machinisten betrokken bij asbestverwijdering
 
 1. Een persoon als bedoeld in [artikel 4.54d, tiende lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.54d) voldoet aan de volgende eisen die aan hem, de door hem uit te voeren werkzaamheden en de door hem te gebruiken machine worden gesteld, indien de machine zich binnen het afgebakende gebied op een projectlocatie bevindt waarbinnen de asbestverwijdering plaatsvindt:
 
@@ -48887,11 +48913,11 @@ Intrinsieke kenmerken:
 | SNELLE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de beweging worden zeer snel uitgevoerd |   |
 | TRAGE BEWEGING | ﻿De gecodeerde, bevelende gebaren ter aangeving van de bewegingen worden zeer langzaam uitgevoerd |   |
 
-#### Artikel 2.0d. Intern noodplan
+##### Artikel 2.0d. Intern noodplan
 
 Het intern noodplan, bedoeld in [artikel 2.5b, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=2.5b), bevat in ieder geval de gegevens en beschrijvingen, bedoeld in [bijlage Ic](https://wetten.overheid.nl/jci1.3:c:BWBR0008587&bijlage=Ic&z=2026-04-09&g=2026-04-09) bij deze regeling.
 
-#### Artikel 2.0e. Buiten toepassing verklaring geheel of gedeeltelijk van [Hoofdstuk 2, Afdeling 2, Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2)
+##### Artikel 2.0e. Buiten toepassing verklaring geheel of gedeeltelijk van [Hoofdstuk 2, Afdeling 2, Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&afdeling=2)
 
 1. Voor de krijgsmacht geldt dat:
 
@@ -49230,7 +49256,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
+##### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
 
 In deze paragraaf wordt verstaan onder:
 
@@ -49270,11 +49296,11 @@ Vervallen
 
 Vervallen
 
-#### Artikel 4.20a1. Biologische grenswaarden
+##### Artikel 4.20a1. Biologische grenswaarden
 
 Als biologische grenswaarde op grond van [artikel 4.16, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.16), wordt voor lood vastgesteld: 30 µg Pb/100 ml bloed.
 
-#### Artikel 4.20a2. Meetfrequentie en analyse van lood in de lucht
+##### Artikel 4.20a2. Meetfrequentie en analyse van lood in de lucht
 
 1. In het kader van de beoordeling, bedoeld in [artikel 4.2, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.2) wordt de concentratie van lood in de lucht om de drie maanden gemeten. Er kan worden volstaan met eenmaal per jaar meten, indien er geen verandering in de werkmethoden en de omstandigheden van de blootstelling plaatsvindt, en
 
@@ -49284,7 +49310,7 @@ Als biologische grenswaarde op grond van [artikel 4.16, eerste lid, van het besl
 
 2. De bepaling van de concentratie van lood in de lucht, als bedoeld in het eerste lid, geschiedt met behulp van de atomaire absorptiespectrometrie of een andere analysemethode, die gelijkwaardige resultaten oplevert.
 
-#### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
+##### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
 
 In deze paragraaf wordt verstaan onder:
 
@@ -49372,7 +49398,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 1.1ca. Specificering gegevens
+##### Artikel 1.1ca. Specificering gegevens
 
 1. De identificerende gegevens en gegevens over de bekwaamheid, bedoeld in de [artikelen 1.5l](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5l) en [1.5m van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5m), zijn voor de registers, genoemd in [artikel 1.5j, eerste lid, onderdelen a tot en met d en f, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=1.5j):
 
@@ -49398,7 +49424,7 @@ Vervallen
 
 ### Hoofdstuk 4. Veiligheid tankschepen en gevaarlijke stoffen
 
-#### Artikel 4.16a. Uitzonderingen registratieplicht bij arbeid met explosieve stoffen
+##### Artikel 4.16a. Uitzonderingen registratieplicht bij arbeid met explosieve stoffen
 
 1. [Artikel 4.8, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.8) is niet van toepassing op arbeid waarbij wordt gewerkt met munitie van de categorieën II of III als bedoeld in [artikel 2, tweede lid, van de Wet wapens en munitie](https://wetten.overheid.nl/jci1.3:c:BWBR0008804&artikel=2), voor zover het gaat om arbeid verricht door anderen dan defensiepersoneel.
 
@@ -49410,7 +49436,7 @@ Vervallen
 
 - c. medewerkers van het Nederlands Forensisch Instituut die onderzoek verrichten aan kleine hoeveelheden explosieven die reeds onschadelijk zijn gemaakt.
 
-#### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
+##### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
 
 In deze paragraaf wordt verstaan onder:
 
@@ -49761,7 +49787,7 @@ Vervallen
 
 Vervallen
 
-#### Artikel 4.20b1. Arbeidsgezondheidskundig onderzoek
+##### Artikel 4.20b1. Arbeidsgezondheidskundig onderzoek
 
 1. Het arbeidsgezondheidskundig onderzoek, bedoeld in [artikel 4.10b van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt de werknemers ten minste eenmaal per jaar aangeboden.
 
@@ -49769,7 +49795,7 @@ Vervallen
 
 3. Eveneens als invulling van [artikel 4.10b, eerste lid, onderdeel c, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=4.10b), wordt een vrouwelijke werknemer in de vruchtbare leeftijd in de gelegenheid gesteld om een arbeidsgezondheidskundig onderzoek te ondergaan als bij haar een bloedloodgehalte van meer dan 4,5 µg Pb/100 ml bloed wordt gemeten.
 
-#### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
+##### Artikel 4.26. Begripsbepaling asbestcertificatieschema’s
 
 In deze paragraaf wordt verstaan onder:
 

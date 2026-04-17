@@ -1,14 +1,42 @@
 ---
-title: "Wet toezicht effectenverkeer 1995"
+title: "Wet van 16 november 1995, houdende het opnieuw vaststellen van de Wet toezicht effectenverkeer in verband met de uitvoering van de richtlijn betreffende het verrichten van diensten op het gebied van beleggingen in effecten en van de richtlijn betreffende de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen"
 identifier: "BWBR0007657"
-categorie: "Verkeer"
-publicatiedatum: 2022-10-01
-laatste_update: 2022-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007657"
+country: "nl"
+rank: "wet"
+publication_date: "2022-10-01"
+last_updated: "2022-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007657"
+soort: "wet"
+stam_id: "2781153"
+version_id: "5127772"
+internal_id: "C5330371"
+label_id: "2730164"
+dtd_version: "2.0"
+original_entry_into_force: "2003-01-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007657/2022-10-01/0"
+intitule_bron: "Stb.1995-574"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-11-16"
+intitule_published: "1995-12-05"
+intitule_in_force: "1995-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2003-103"
+original_signed_date: "2003-01-30"
+original_published_date: "2003-03-18"
+original_effect: "structuurwijziging"
+original_dossier: "28361"
+original_url_id: "stb-2003-103"
+entry_into_force_date: "2003-01-30"
+entry_into_force_dossier: "28361"
+jci_1_3: "jci1.3:c:BWBR0007657&z=2022-10-01&g=2022-10-01"
+jci_1_0: "1.0:c:BWBR0007657&g=2022-10-01"
+citeertitel_status: "officieel"
+short_title: "Wet toezicht effectenverkeer 1995"
+signed_date: "2003-01-30"
+entry_into_force: "2003-01-30"
 ---
-
-# Wet toezicht effectenverkeer 1995
+# Wet van 16 november 1995, houdende het opnieuw vaststellen van de Wet toezicht effectenverkeer in verband met de uitvoering van de richtlijn betreffende het verrichten van diensten op het gebied van beleggingen in effecten en van de richtlijn betreffende de kapitaaltoereikendheid van beleggingsondernemingen en kredietinstellingen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt - voor zover niet anders is bepaald - verstaan onder:
 
@@ -64,7 +92,7 @@ In deze wet en de daarop berustende bepalingen wordt - voor zover niet anders is
 
 - q. vervallen.
 
-#### Artikel 2
+##### Artikel 2
 
 Geen effecten in de zin van deze wet zijn:
 
@@ -72,39 +100,39 @@ Geen effecten in de zin van deze wet zijn:
 
 - b. appartementsrechten.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
 ### Hoofdstuk II. Uitgifte van effecten
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 ### Hoofdstuk II A. Openbaar bod op effecten
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
-#### Artikel 6b
+##### Artikel 6b
 
 Vervallen
 
-#### Artikel 6c
+##### Artikel 6c
 
 Vervallen
 
@@ -112,111 +140,111 @@ Vervallen
 
 #### § 1. Vereisten voor een vergunning
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### § 2. Regels voor vergunninghouders
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 11a
+##### Artikel 11a
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 #### § 3. Gekwalificeerde deelnemingen in effecteninstellingen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
-
-Vervallen
-
-### Hoofdstuk IV. Intrekkingsbepalingen
-
-#### Artikel 19
-
-Vervallen
-
-#### Artikel 20
+##### Artikel 18
 
 Vervallen
 
 ### Hoofdstuk IV. Intrekkingsbepalingen
 
-#### Artikel 21
+##### Artikel 19
+
+Vervallen
+
+##### Artikel 20
+
+Vervallen
+
+### Hoofdstuk IV. Intrekkingsbepalingen
+
+##### Artikel 21
 
 Vervallen
 
 ### Hoofdstuk III A. Financiële instellingen, niet zijnde vergunningplichtige effecteninstellingen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 26A
+##### Artikel 26A
 
 Vervallen
 
 ### Hoofdstuk VII. Bijzondere bepalingen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien Onze Minister vaststelt dat een instelling waarvan effecten zijn aangeboden of zullen worden aangeboden, degene die deze effecten aanbiedt, een bieder, bestuurder, commissaris of functionaris als bedoeld in [artikel 6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), een effecteninstelling, niet zijnde een instelling als bedoeld in [artikel 7, tweede lid, onder h, i of j](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2022-10-01&g=2022-10-01), of een instelling als bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), de bij of krachtens de [artikelen 3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2022-10-01&g=2022-10-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2022-10-01&g=2022-10-01), [5 eerste lid, tweede volzin, aanhef en onderdelen b en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2022-10-01&g=2022-10-01), [5a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5a&z=2022-10-01&g=2022-10-01), [6a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2022-10-01&g=2022-10-01), [11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2022-10-01&g=2022-10-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), [18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18b&z=2022-10-01&g=2022-10-01), onderscheidenlijk de in [hoofdstuk XII](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&z=2022-10-01&g=2022-10-01) gestelde regels niet naleeft, vestigt hij daarop de aandacht van de betrokkene.
 
@@ -232,17 +260,17 @@ Vervallen
 
 7. Vervallen.
 
-#### Artikel 28a
+##### Artikel 28a
 
 Vervallen
 
-#### Artikel 28b
+##### Artikel 28b
 
 Vervallen
 
 ### Hoofdstuk VII. Bijzondere bepalingen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Onze Minister kan bij:
 
@@ -286,11 +314,11 @@ Vervallen
 
 4. Onze Minister is bevoegd tot overeenkomstige toepassing van [artikel 5:20, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) ten aanzien van de in het derde lid bedoelde personen.
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 1. Gegevens en inlichtingen die ingevolge het bij of krachtens deze wet bepaalde omtrent afzonderlijke ondernemingen of instellingen zijn verstrekt of zijn verkregen en gegevens en inlichtingen die van een instantie als bedoeld in [de artikelen 33, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33&z=2022-10-01&g=2022-10-01), of [33**a**, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=33a&z=2022-10-01&g=2022-10-01), zijn ontvangen, worden niet gepubliceerd en zijn geheim.
 
@@ -304,49 +332,49 @@ Vervallen
 
 6. In afwijking van het eerste, tweede en vijfde lid kan Onze Minister gegevens of inlichtingen verkregen bij de vervulling van de hem ingevolge deze wet opgedragen taak verstrekken aan de houder van een op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2022-10-01&g=2022-10-01) erkende effectenbeurs met het oog op de controle op de naleving van de voor die effectenbeurs te hanteren regels. Op de aldus verstrekte gegevens of inlichtingen zijn het eerste en tweede lid van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 33a
+##### Artikel 33a
 
 Vervallen
 
-#### Artikel 33b
+##### Artikel 33b
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Hoofdstuk IX. Overdracht van toezicht
 
-#### Artikel 40
+##### Artikel 40
 
 1. Taken en bevoegdheden die Onze Minister op grond van deze wet heeft, kunnen, met uitzondering van de taken en bevoegdheden, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=8&z=2022-10-01&g=2022-10-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2022-10-01&g=2022-10-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2022-10-01&g=2022-10-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2022-10-01&g=2022-10-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=25&z=2022-10-01&g=2022-10-01), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26&z=2022-10-01&g=2022-10-01), [26a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2022-10-01&g=2022-10-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=27&z=2022-10-01&g=2022-10-01), [28a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2022-10-01&g=2022-10-01), [41](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=41&z=2022-10-01&g=2022-10-01), [42](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=42&z=2022-10-01&g=2022-10-01), [45](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XI&artikel=45&z=2022-10-01&g=2022-10-01), [46b, derde lid, onder c, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46b&z=2022-10-01&g=2022-10-01), 46d, [48a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIA&artikel=48a&z=2022-10-01&g=2022-10-01), [48b, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48b&z=2022-10-01&g=2022-10-01), [48c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2022-10-01&g=2022-10-01), en [48m, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48m&z=2022-10-01&g=2022-10-01), en met uitzondering van het verlenen van een vrijstelling als bedoeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2022-10-01&g=2022-10-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2022-10-01&g=2022-10-01), [5a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5a&z=2022-10-01&g=2022-10-01), [6c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2022-10-01&g=2022-10-01) en [18b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18b&z=2022-10-01&g=2022-10-01), bij algemene maatregel van bestuur worden overgedragen aan een of meer rechtspersonen. Alsdan gelden de verplichtingen op grond van deze wet jegens Onze Minister als verplichtingen jegens de desbetreffende rechtspersoon of rechtspersonen.
 
@@ -380,23 +408,23 @@ Vervallen
 
 8. De rechtspersoon of rechtspersonen verstrekt onderscheidenlijk verstrekken Onze Minister desgevraagd de inlichtingen die nodig zijn voor de beoordeling van de uitvoerbaarheid van voorgenomen wettelijke voorschriften en algemene beleidsvoornemens, voor zover deze betrekking hebben op het effectenverkeer.
 
-#### Artikel 41
+##### Artikel 41
 
 1. Het is een rechtspersoon als bedoeld in [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2022-10-01&g=2022-10-01), verboden zijn statuten te wijzigen zonder voorafgaande toestemming van Onze Minister. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.
 
 2. Onze Minister kan een toestemming als bedoeld in het eerste lid weigeren indien de statuten na de wijziging onvoldoende zouden zijn afgestemd op het bepaalde in [artikel 40](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2022-10-01&g=2022-10-01).
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
 ### Hoofdstuk IX. Overdracht van toezicht
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 1. In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:7) is voor beroepen tegen besluiten op grond van deze wet de rechtbank Rotterdam bevoegd.
 
@@ -406,25 +434,25 @@ Vervallen
 
 ### Hoofdstuk XI. Betrekkingen met derde landen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
 ### Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 46a
+##### Artikel 46a
 
 Vervallen
 
-#### Artikel 46b
+##### Artikel 46b
 
 Vervallen
 
-#### Artikel 46c
+##### Artikel 46c
 
 1. Een melding als bedoeld in [artikel 46b, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2005-07-01&g=2005-07-01), wordt door Onze Minister opgenomen in een register. Onze Minister houdt het register voor een ieder ter inzage.
 
@@ -438,21 +466,21 @@ Vervallen
 
 6. Indien een melding naar het oordeel van Onze Minister onjuist is en de melding niet is hersteld, kan hij in plaats van de gemelde gegevens de juiste gegevens in het register opnemen.
 
-#### Artikel 46d
+##### Artikel 46d
 
 Een instelling die effecten als bedoeld in [artikel 46, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2005-07-01&g=2005-07-01), heeft uitgegeven of zal uitgeven, stelt een reglement vast waarin regels worden gesteld ten aanzien van het bezit van en transacties in op haar betrekking hebbende effecten als bedoeld in [artikel 46, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46&z=2005-07-01&g=2005-07-01), door haar werknemers en de personen, bedoeld in [artikel 46b, derde lid onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&artikel=46b&z=2005-07-01&g=2005-07-01). Het reglement voldoet aan bij ministeriële regeling te stellen regels.
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
 ### Hoofdstuk XII. Gebruik van voorwetenschap en publieksmisleiding
 
-#### Artikel 48a
+##### Artikel 48a
 
 1. Onze Minister is bevoegd aan een rechtspersoon waaraan ingevolge [artikel 40, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IX&artikel=40&z=2022-10-01&g=2022-10-01), taken en bevoegdheden zijn overgedragen de gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn voor een onderzoek naar de toereikendheid van deze wet of de wijze waarop de rechtspersoon deze wet uitvoert of heeft uitgevoerd, indien dat ter wille van het bedrijfseconomisch toezicht nodig blijkt.
 
@@ -476,7 +504,7 @@ Vervallen
 
 ### Hoofdstuk XI. Betrekkingen met derde landen
 
-#### Artikel 48b
+##### Artikel 48b
 
 1. Onze Minister kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de [artikelen 3, eerste en vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2022-10-01&g=2022-10-01)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2022-10-01&g=2022-10-01), [5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2022-10-01&g=2022-10-01), [5a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5a&z=2022-10-01&g=2022-10-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2022-10-01&g=2022-10-01), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2022-10-01&g=2022-10-01), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2022-10-01&g=2022-10-01), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2022-10-01&g=2022-10-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2022-10-01&g=2022-10-01), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2022-10-01&g=2022-10-01), [11a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2022-10-01&g=2022-10-01), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2022-10-01&g=2022-10-01), [13, eerste lid, tweede volzin, vijfde, zesde, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2022-10-01&g=2022-10-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2022-10-01&g=2022-10-01), [16, eerste, zevende, achtste en tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2022-10-01&g=2022-10-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2022-10-01&g=2022-10-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2022-10-01&g=2022-10-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), [18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18b&z=2022-10-01&g=2022-10-01), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2022-10-01&g=2022-10-01), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2022-10-01&g=2022-10-01), [22, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2022-10-01&g=2022-10-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2022-10-01&g=2022-10-01), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2022-10-01&g=2022-10-01), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2022-10-01&g=2022-10-01), [28, derde en zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2022-10-01&g=2022-10-01), [28c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28c&z=2022-10-01&g=2022-10-01), [28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2022-10-01&g=2022-10-01), [29a, tweede en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29a&z=2022-10-01&g=2022-10-01), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2022-10-01&g=2022-10-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2022-10-01&g=2022-10-01), [46, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46&z=2022-10-01&g=2022-10-01), [46b, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46b&z=2022-10-01&g=2022-10-01), [47, eerste tot en met vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47&z=2022-10-01&g=2022-10-01), [47a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47a&z=2022-10-01&g=2022-10-01), [47c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47c&z=2022-10-01&g=2022-10-01), [47e](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47e&z=2022-10-01&g=2022-10-01), [47f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47f&z=2022-10-01&g=2022-10-01) en [48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=4&artikel=48&z=2022-10-01&g=2022-10-01).
 
@@ -484,7 +512,7 @@ Vervallen
 
 3. Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
-#### Artikel 48c
+##### Artikel 48c
 
 1. Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens [de artikelen 3, eerste en vierde lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2022-10-01&g=2022-10-01)[4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=4&z=2022-10-01&g=2022-10-01), [5, eerste lid, tweede volzin, aanhef en onderdelen b en c, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2022-10-01&g=2022-10-01), [5a, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5a&z=2022-10-01&g=2022-10-01), [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=6&z=2022-10-01&g=2022-10-01), [6a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2022-10-01&g=2022-10-01), [6c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6c&z=2022-10-01&g=2022-10-01), [7, eerste, derde, vierde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2022-10-01&g=2022-10-01), [10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=10&z=2022-10-01&g=2022-10-01), [11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2022-10-01&g=2022-10-01), [11a, eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2022-10-01&g=2022-10-01), [12, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=12&z=2022-10-01&g=2022-10-01), [13, eerste lid, tweede volzin, vijfde lid, zesde lid, eerste volzin, zevende en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=13&z=2022-10-01&g=2022-10-01), [14, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=14&z=2022-10-01&g=2022-10-01), [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15&z=2022-10-01&g=2022-10-01), [15a, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15a&z=2022-10-01&g=2022-10-01), [15b, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=15b&z=2022-10-01&g=2022-10-01), [16, eerste, zevende, achtste en tiende tot en met twaalfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=16&z=2022-10-01&g=2022-10-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2022-10-01&g=2022-10-01), [18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=18&z=2022-10-01&g=2022-10-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), [18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18b&z=2022-10-01&g=2022-10-01), [19, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=IV&artikel=19&z=2022-10-01&g=2022-10-01), [21, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=V&artikel=21&z=2022-10-01&g=2022-10-01), [22, eerste, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=22&z=2022-10-01&g=2022-10-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=23&z=2022-10-01&g=2022-10-01), [24, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=24&z=2022-10-01&g=2022-10-01), [26a, eerste, vijfde, zesde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VI&artikel=26A&z=2022-10-01&g=2022-10-01), [28, derde en zesde lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2022-10-01&g=2022-10-01), [28c, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28c&z=2022-10-01&g=2022-10-01), [28a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28a&z=2022-10-01&g=2022-10-01), [29, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29&z=2022-10-01&g=2022-10-01), voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, [29a, tweede en vierde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=29a&z=2022-10-01&g=2022-10-01), [36, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=36&z=2022-10-01&g=2022-10-01), [37, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=37&z=2022-10-01&g=2022-10-01), [39, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=39&z=2022-10-01&g=2022-10-01), voor zover het betreft het voorschrift op grond van [artikel 5:20 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20) inzage te verlenen in zakelijke gegevens en bescheiden, [46, eerste, derde en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46&z=2022-10-01&g=2022-10-01), [46a, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46a&z=2022-10-01&g=2022-10-01), [46b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=2&artikel=46b&z=2022-10-01&g=2022-10-01), [47, eerste, tweede, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47&z=2022-10-01&g=2022-10-01), [47a, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47a&z=2022-10-01&g=2022-10-01), [47c, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47c&z=2022-10-01&g=2022-10-01), [47d, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47d&z=2022-10-01&g=2022-10-01), [47e](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47e&z=2022-10-01&g=2022-10-01), [47f](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47f&z=2022-10-01&g=2022-10-01) en [48, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=4&artikel=48&z=2022-10-01&g=2022-10-01) en de artikelen 26, vijfde lid, 30 en 34 van de prospectusverordening.
 
@@ -492,7 +520,7 @@ Vervallen
 
 3. Onze Minister, in overeenstemming met Onze Minister van Justitie, kan regels stellen ter zake van de uitoefening van de bevoegdheid bedoeld in het eerste lid.
 
-#### Artikel 48d
+##### Artikel 48d
 
 1. Het bedrag van de boete wordt bepaald op de wijze, voorzien in de bijlage, met dien verstande dat de boete voor een afzonderlijke overtreding ten hoogste € 900 000 bedraagt.
 
@@ -504,17 +532,17 @@ Vervallen
 
 5. Voor overtreding van voorschriften, gesteld bij of krachtens een algemene maatregel van bestuur op grond van de [artikelen 3, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=3&z=2022-10-01&g=2022-10-01), [5, eerste lid, tweede volzin, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II&artikel=5&z=2022-10-01&g=2022-10-01),[6a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), [7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=1&artikel=7&z=2022-10-01&g=2022-10-01), [11, eerste lid en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11&z=2022-10-01&g=2022-10-01), [11a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=2&artikel=11a&z=2022-10-01&g=2022-10-01), [17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III&paragraaf=3&artikel=17&z=2022-10-01&g=2022-10-01), of [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), wordt het bedrag van de boete bepaald op de wijze als voorzien in die algemene maatregel van bestuur. Het eerste tot en met vierde lid is van overeenkomstige toepassing.
 
-#### Artikel 48e
+##### Artikel 48e
 
 Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat hem wegens een overtreding een boete zal worden opgelegd, is niet verplicht ter zake daarvan enige verklaring af te leggen. Hij wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
 
-#### Artikel 48f
+##### Artikel 48f
 
 1. Indien Onze Minister voornemens is een boete op te leggen, geeft hij de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
 
 2. In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.1.2), stelt Onze Minister de betrokkene in de gelegenheid om naar keuze schriftelijk of mondeling zijn zienswijze naar voren te brengen voordat de boete wordt opgelegd, tenzij het een overtreding betreft die in debijlage of de algemene maatregel van bestuur, bedoeld in [artikel 48d](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48d&z=2022-10-01&g=2022-10-01), is aangewezen.
 
-#### Artikel 48g
+##### Artikel 48g
 
 1. Onze Minister legt de boete op bij beschikking.
 
@@ -526,13 +554,13 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 
 - c. de termijn, bedoeld in [artikel 48i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48i&z=2022-10-01&g=2022-10-01), waarbinnen de boete moet worden betaald.
 
-#### Artikel 48h
+##### Artikel 48h
 
 1. De werking van de beschikking tot oplegging van een boete wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
 2. In afwijking van het eerste lid wordt de werking van de beschikking tot oplegging van een boete voor een overtreding die op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48f&z=2022-10-01&g=2022-10-01), is aangewezen, opgeschort totdat de bezwaartermijn is verstreken of, indien bezwaar is gemaakt, op het bezwaar is beslist.
 
-#### Artikel 48i
+##### Artikel 48i
 
 1. De boete wordt betaald binnen zes weken na de inwerkingtreding van de beschikking waarbij zij is opgelegd.
 
@@ -550,23 +578,23 @@ Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in re
 
 8. Het verzet kan niet worden gegrond op de stelling dat de boete ten onrechte of op een te hoog bedrag is vastgesteld.
 
-#### Artikel 48j
+##### Artikel 48j
 
 1. De bevoegdheid een boete op te leggen vervalt indien ter zake van de overtreding een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
 
 2. Het recht tot strafvervolging met betrekking tot een overtreding als bedoeld in [artikel 48c](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48c&z=2022-10-01&g=2022-10-01) vervalt, indien Onze Minister ter zake van die overtreding reeds een boete heeft opgelegd.
 
-#### Artikel 48k
+##### Artikel 48k
 
 1. De bevoegdheid een boete op te leggen vervalt drie jaren na de dag waarop de overtreding is begaan.
 
 2. De termijn, bedoeld in het eerste lid, wordt gestuit door de bekendmaking van de beschikking waarbij een boete wordt opgelegd.
 
-#### Artikel 48l
+##### Artikel 48l
 
 De werkzaamheden in verband met het opleggen van een dwangsom of van een boete worden verricht door personen die niet betrokken zijn geweest bij het vaststellen van de overtreding en het daaraan voorafgaande onderzoek.
 
-#### Artikel 48m
+##### Artikel 48m
 
 1. Met het oog op een adequate functionering van de effectenmarkten of de positie van de beleggers op die markten, kan Onze Minister, onverminderd [artikel 31, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2022-10-01&g=2022-10-01), het feit ter zake waarvan de last onder dwangsom of de bestuurlijke boete is opgelegd, het overtreden voorschrift, alsmede de naam, het adres en de woonplaats van degene aan wie de last onder dwangsom of de bestuurlijke boete is opgelegd, ter openbare kennis brengen.
 
@@ -574,81 +602,81 @@ De werkzaamheden in verband met het opleggen van een dwangsom of van een boete w
 
 ### Hoofdstuk XIII. Wijziging van andere wetten
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
 ### Hoofdstuk XII B. Dwangsom en bestuurlijke boete
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Deze wet wordt aangehaald als: Wet toezicht effectenverkeer 1995.
 
@@ -688,11 +716,11 @@ Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
-#### Artikel 15b
+##### Artikel 15b
 
 Vervallen
 
@@ -704,13 +732,13 @@ Vervallen
 
 ### Hoofdstuk VI. Effectenbeurzen
 
-#### Artikel 28c
+##### Artikel 28c
 
 Vervallen
 
 ### Hoofdstuk VII. Bijzondere bepalingen
 
-#### Artikel 29a
+##### Artikel 29a
 
 Vervallen
 
@@ -758,7 +786,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 ### Hoofdstuk VII. Bijzondere bepalingen
 
-#### Artikel 33c
+##### Artikel 33c
 
 Vervallen
 
@@ -790,11 +818,11 @@ Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Vervallen
 
-#### Artikel 18b
+##### Artikel 18b
 
 Vervallen
 
@@ -808,7 +836,7 @@ Vervallen
 
 ### Hoofdstuk XIIA. Onderzoek door onze minister
 
-#### Artikel 48n
+##### Artikel 48n
 
 1. Onze Minister kan, in afwijking van [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VIII&artikel=31&z=2022-10-01&g=2022-10-01), teneinde de naleving van deze wet te bevorderen ter openbare kennis brengen:
 
@@ -826,17 +854,17 @@ Vervallen
 
 - g. zijn aanwijzing als bedoeld in [artikel 28, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=VII&artikel=28&z=2022-10-01&g=2022-10-01), ter zake van het niet naleven van de regels gesteld bij of krachtens de [artikelen 6a, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6a&z=2022-10-01&g=2022-10-01), [6b](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=II_A&artikel=6b&z=2022-10-01&g=2022-10-01), [18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18a&z=2022-10-01&g=2022-10-01), [18b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=III_A&artikel=18b&z=2022-10-01&g=2022-10-01) of [artikel 47, eerste lid, eerste volzin, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII&paragraaf=3&artikel=47&z=2022-10-01&g=2022-10-01).
 
-#### Artikel 48o
+##### Artikel 48o
 
 Degene jegens wie door Onze Minister een handeling is verricht waaraan hij in redelijkheid de gevolgtrekking kan verbinden dat Onze Minister zijn handelen of nalaten op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) ter openbare kennis zal brengen, is niet verplicht ter zake daarvan enige verklaring af te leggen. Hij wordt hiervan in kennis gesteld alvorens hem mondeling om informatie wordt gevraagd.
 
-#### Artikel 48p
+##### Artikel 48p
 
 1. Onze Minister geeft, indien hij voornemens is op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) een feit ter openbare kennis te brengen, de betrokkene daarvan kennis onder vermelding van de gronden waarop het voornemen berust.
 
 2. In aanvulling op [artikel 4:8 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:8), is Onze Minister niet gehouden de betrokkene in de gelegenheid te stellen om zijn zienswijze naar voren te brengen, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.
 
-#### Artikel 48q
+##### Artikel 48q
 
 De beschikking om op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) een feit ter openbare kennis te brengen vermeldt in ieder geval:
 
@@ -846,27 +874,27 @@ De beschikking om op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c
 
 - de termijn waarna het feit ter openbare kennis wordt gebracht.
 
-#### Artikel 48r
+##### Artikel 48r
 
 Tenzij de bevordering van de naleving van deze wet geen uitstel toelaat, wordt de werking van de beschikking om op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) een feit ter openbare kennis te brengen opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
-#### Artikel 48s
+##### Artikel 48s
 
 In afwijking van [artikel 3:40 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:40) treedt de beschikking in werking op de dag waarop het feit ter openbare kennis is gebracht zonder dat de werking voor de duur van de beroepstermijn of, indien beroep is ingesteld, van het beroep wordt opgeschort, indien van de betrokkene geen adres bekend is en het adres ook niet met een redelijke inspanning kan worden verkregen.
 
-#### Artikel 48t
+##### Artikel 48t
 
 1. De bevoegdheid om op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) een feit ter openbare kennis te brengen vervalt indien ter zake van het feit een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvordering is vervallen ingevolge [artikel 74 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=74).
 
 2. Het recht tot strafvervolging met betrekking tot een feit als bedoeld in [artikel 48m](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XII_B&artikel=48m&z=2022-10-01&g=2022-10-01) vervalt, indien Onze Minister het feit reeds ter openbare kennis heeft gebracht.
 
-#### Artikel 48u
+##### Artikel 48u
 
 1. De bevoegdheid om op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) een feit ter openbare kennis te brengen vervalt drie jaren na de dag waarop het feit heeft plaats gehad.
 
 2. De termijn bedoeld in het eerste lid wordt gestuit door de bekendmaking van de beschikking waarbij het feit ter openbare kennis wordt gebracht.
 
-#### Artikel 48v
+##### Artikel 48v
 
 De werkzaamheden in verband met het op grond van [artikel 48n](https://wetten.overheid.nl/jci1.3:c:BWBR0007657&hoofdstuk=XIIC&artikel=48n&z=2022-10-01&g=2022-10-01) ter openbare kennis brengen van een feit worden verricht door personen die niet betrokken zijn geweest bij het vaststellen van het feit en het daaraan voorafgaande onderzoek.
 
@@ -906,11 +934,11 @@ Voor de overtredingen genoemd in tabel 1 en tabel 2, begaan na het tijdstip van 
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 3b
+##### Artikel 3b
 
 Vervallen
 
@@ -926,7 +954,7 @@ Vervallen
 
 ### Hoofdstuk III A. Financiële instellingen, niet zijnde vergunningplichtige effecteninstellingen
 
-#### Artikel 20a
+##### Artikel 20a
 
 Vervallen
 
@@ -966,19 +994,19 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 #### § 1. Algemeen
 
-#### Artikel 45a
+##### Artikel 45a
 
 Vervallen
 
-#### Artikel 45b
+##### Artikel 45b
 
 Vervallen
 
-#### Artikel 45c
+##### Artikel 45c
 
 Vervallen
 
-#### Artikel 45d
+##### Artikel 45d
 
 Vervallen
 
@@ -986,27 +1014,27 @@ Vervallen
 
 #### § 3. Openbaarmakings- en meldingsverplichtingen
 
-#### Artikel 47a
+##### Artikel 47a
 
 Vervallen
 
-#### Artikel 47b
+##### Artikel 47b
 
 Vervallen
 
-#### Artikel 47c
+##### Artikel 47c
 
 Vervallen
 
-#### Artikel 47d
+##### Artikel 47d
 
 Vervallen
 
-#### Artikel 47e
+##### Artikel 47e
 
 Vervallen
 
-#### Artikel 47f
+##### Artikel 47f
 
 Vervallen
 
@@ -1050,7 +1078,7 @@ Op grond van [artikel 48f, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 

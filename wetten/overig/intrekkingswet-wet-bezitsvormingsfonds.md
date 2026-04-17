@@ -1,14 +1,38 @@
 ---
-title: "Intrekkingswet Wet Bezitsvormingsfonds"
+title: "Wet van 2 december 1991, houdende intrekking Wet Bezitsvormingsfonds"
 identifier: "BWBR0005303"
-categorie: "Overig"
-publicatiedatum: 2008-06-13
-laatste_update: 2008-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005303"
+country: "nl"
+rank: "wet"
+publication_date: "2008-06-13"
+last_updated: "2008-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005303"
+soort: "wet"
+stam_id: "1466793"
+version_id: "2194162"
+internal_id: "C2194161"
+label_id: "1424944"
+dtd_version: "2.0"
+original_entry_into_force: "1991-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005303/2008-06-13/0"
+intitule_bron: "Stb.1991-676"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-02"
+intitule_status: "goed"
+original_publication: "Stb.1991-676"
+original_signed_date: "1991-12-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "21935"
+entry_into_force_date: "1991-12-25"
+entry_into_force_dossier: "21935"
+jci_1_3: "jci1.3:c:BWBR0005303&z=2008-06-13&g=2008-06-13"
+jci_1_0: "1.0:c:BWBR0005303&g=2008-06-13"
+citeertitel_status: "officieel"
+short_title: "Intrekkingswet Wet Bezitsvormingsfonds"
+signed_date: "1991-12-02"
+entry_into_force: "1991-12-25"
 ---
-
-# Intrekkingswet Wet Bezitsvormingsfonds
+# Wet van 2 december 1991, houdende intrekking Wet Bezitsvormingsfonds
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzo Wij in overweging genomen hebben, dat het duurzaam persoonlijk bezit van kl
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 De Wet Bezitsvormingsfonds (**Stb.** 1977, 194) wordt ingetrokken. De middelen van het Bezitsvormingsfonds worden in 's Rijks kas gestort.
 
-#### Artikel II
+##### Artikel II
 
 1. Een lening als bedoeld in artikel 5 van de Wet Bezitsvormingsfonds, waarop de aflossing op het tijdstip van inwerkingtreding van deze wet nog niet is voltooid, wordt beheerst door de Wet Bezitsvormingsfonds zoals deze luidde voor dat tijdstip, met dien verstande dat:
 
@@ -38,7 +62,7 @@ De Wet Bezitsvormingsfonds (**Stb.** 1977, 194) wordt ingetrokken. De middelen v
 
 - c. een krachtens het bepaalde in artikel 15 van de Wet Bezitsvormingsfonds teruggevorderde premie in afwijking van het eerste lid van dat artikel in 's Rijks kas wordt gestort.
 
-#### Artikel III
+##### Artikel III
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst.
 

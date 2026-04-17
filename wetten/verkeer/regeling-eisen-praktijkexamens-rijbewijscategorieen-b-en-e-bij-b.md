@@ -1,20 +1,44 @@
 ---
-title: "Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B"
+title: "Regeling houdende vaststelling eisen praktijkexamens rijbewijscategorieën B en E bij B (Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B)"
 identifier: "BWBR0015600"
-categorie: "Verkeer"
-publicatiedatum: 2013-12-31
-laatste_update: 2013-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015600"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-12-31"
+last_updated: "2013-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015600"
+soort: "ministeriele-regeling"
+stam_id: "5378973"
+version_id: "9671352"
+internal_id: "C13033991"
+label_id: "5354384"
+original_entry_into_force: "2003-09-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015600/2013-12-31/0"
+intitule_bron: "Stcrt.2003-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-09-22"
+intitule_published: "2003-09-29"
+intitule_in_force: "2003-09-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-187"
+original_signed_date: "2003-09-22"
+original_published_date: "2003-09-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-09-30"
+jci_1_3: "jci1.3:c:BWBR0015600&z=2013-12-31&g=2013-12-31"
+jci_1_0: "1.0:c:BWBR0015600&g=2013-12-31"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B"
+signed_date: "2003-09-22"
+entry_into_force: "2003-09-30"
 ---
-
 # Regeling houdende vaststelling eisen praktijkexamens rijbewijscategorieën B en E bij B (Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B)
 
 Gelet op [richtlijn nr. 2000/56/EG](32000L0056) van de Commissie van de Europese Gemeenschappen van 14 september 2000 tot wijziging van [richtlijn nr. 91/439/EEG](31991L0439) van de Raad betreffende het rijbewijs (PbEG L 237) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De aanvrager van het praktijkexamen dient blijk te geven in staat te zijn na te gaan of er met het examenvoertuig veilig gereden kan worden. De hierna genoemde punten komen aan de orde:
 
@@ -24,7 +48,7 @@ De aanvrager van het praktijkexamen dient blijk te geven in staat te zijn na te 
 
 - c. nagaan of de portieren gesloten zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 Naast de punten genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=1&z=2013-12-31&g=2013-12-31) moet de aanvrager in staat zijn een selectie van de hierna genoemde handelingen uit te voeren:
 
@@ -44,7 +68,7 @@ Naast de punten genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0
 
 - h. controle van de koelvloeistof, remvloeistof, ruitensproeiervloeistof en accu.
 
-#### Artikel 3
+##### Artikel 3
 
 Tijdens het praktijkexamen dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze:
 
@@ -82,7 +106,7 @@ Tijdens het praktijkexamen dient de aanvrager blijk te geven in staat te zijn om
 
 - q. te rijden in tunnels.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvrager dient tijdens het praktijkexamen blijk te geven inzicht te hebben ten aanzien van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31) genoemde handelingen en manoeuvres door middel van:
 
@@ -106,7 +130,7 @@ De aanvrager dient tijdens het praktijkexamen blijk te geven inzicht te hebben t
 
 - j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvrager dient bij het uitvoeren van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=4&z=2013-12-31&g=2013-12-31) genoemde examenonderdelen blijk te geven:
 
@@ -124,7 +148,7 @@ De aanvrager dient bij het uitvoeren van de in de [artikelen 3](https://wetten.o
 
 - g. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen.
 
-#### Artikel 6
+##### Artikel 6
 
 De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31), bedoelde bijzondere verrichtingen bestaan voor de categorie B uit:
 
@@ -146,7 +170,7 @@ De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artik
 
 - i. het na afloop van de rit uitvoeren van de noodzakelijke controlehandelingen om het voertuig veilig achter te kunnen laten.
 
-#### Artikel 7
+##### Artikel 7
 
 De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artikel=3&z=2013-12-31&g=2013-12-31), bedoelde bijzondere verrichtingen bestaan voor de categorie E bij B uit:
 
@@ -168,19 +192,19 @@ De in [artikel 3, onder p](https://wetten.overheid.nl/jci1.3:c:BWBR0015600&artik
 
 - i. het aan- en afkoppelen van de aanhanger.
 
-#### Artikel 8
+##### Artikel 8
 
 Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan.
 
-#### Artikel 9
+##### Artikel 9
 
 De Regeling eisen praktijk-examens B en E bij B wordt ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking met ingang van 30 september 2003.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën B en E bij B.
 

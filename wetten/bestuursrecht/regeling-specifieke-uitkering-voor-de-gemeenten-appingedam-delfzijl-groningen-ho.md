@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum, Midden-Groningen en de provincie Groningen (uitvoering van het Nationaal programma Groningen)"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 12 juli 2019, nr. WJZ/ 19151243, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het Nationaal programma Groningen"
 identifier: "BWBR0042408"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-10-01
-laatste_update: 2020-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042408"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-10-01"
+last_updated: "2020-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042408"
+soort: "ministeriele-regeling"
+stam_id: "15121723"
+version_id: "25924992"
+internal_id: "C36938111"
+label_id: "15069734"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042408/2020-10-01/0"
+intitule_bron: "Stcrt.2019-40228"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-12"
+intitule_published: "2019-07-15"
+intitule_in_force: "2019-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-40228"
+original_signed_date: "2019-07-12"
+original_published_date: "2019-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-40228"
+entry_into_force_date: "2019-07-16"
+jci_1_3: "jci1.3:c:BWBR0042408&z=2020-10-01&g=2020-10-01"
+jci_1_0: "1.0:c:BWBR0042408&g=2020-10-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum, Midden-Groningen en de provincie Groningen (uitvoering van het Nationaal programma Groningen)"
+signed_date: "2019-07-12"
+entry_into_force: "2019-07-16"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 12 juli 2019, nr. WJZ/ 19151243, houdende een specifieke uitkering voor de gemeenten Appingedam, Delfzijl, Groningen, Hogeland, Loppersum, Midden-Groningen en de provincie Groningen in verband met de uitvoering van het Nationaal programma Groningen
 
 Gelet op [artikel 2 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2) en [17, tweede lid, van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -26,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **nationaal programma Groningen:** nationaal programma Groningen zoals bedoeld in de Bestuursovereenkomst Nationaal Programma Groningen, Kamerstukken II, 33 529, nr. 587, bijlage 1;
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister versterkt een eenmalige specifieke uitkering aan de gemeenten voor de uitvoering van projecten die zijn goedgekeurd door de bestuursvergadering van het nationaal programma Groningen.
 
@@ -150,17 +176,17 @@ In deze regeling wordt verstaan onder:
 
 - y. 0,039 miljoen voor de uitvoering van het project Energy Challenges.
 
-#### Artikel 3. Voorwaarden
+##### Artikel 3. Voorwaarden
 
 De gemeenten en de provincie Groningen besteden de specifieke uitkering uitsluitend aan de projecten waarvoor dat deel van de specifieke uitkering is toegekend.
 
-#### Artikel 4. Verantwoording
+##### Artikel 4. Verantwoording
 
 1. De gemeenten en de provincie Groningen leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
 2. Indien uit de verantwoordingsinformatie, bedoeld in [artikel 17a, eerste lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a), blijkt dat de uitkering, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0042408&artikel=2&z=2020-10-01&g=2020-10-01), niet volledig of onrechtmatig is besteed, wordt de uitkering ter hoogte van het niet of onrechtmatig bestede deel door de minister teruggevorderd. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan het college.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

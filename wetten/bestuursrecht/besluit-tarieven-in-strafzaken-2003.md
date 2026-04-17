@@ -1,13 +1,39 @@
 ---
-title: "Besluit tarieven in strafzaken 2003"
+title: "Besluit van 16 augustus 2003, houdende vaststelling van tarieven voor vergoedingen als bedoeld in de artikelen 3, 4, 6, 7, 17 en 18 van de Wet tarieven in strafzaken (Besluit tarieven in strafzaken 2003)"
 identifier: "BWBR0015481"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015481"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015481"
+soort: "AMvB"
+stam_id: "5230773"
+version_id: "9420922"
+internal_id: "C12976601"
+label_id: "5205434"
+dtd_version: "2.0"
+original_entry_into_force: "2003-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015481/2026-01-01/0"
+intitule_bron: "Stb.2003-330"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-08-16"
+intitule_published: "2003-09-02"
+intitule_in_force: "2003-09-30"
+intitule_status: "goed"
+original_publication: "Stb.2003-330"
+original_signed_date: "2003-08-16"
+original_published_date: "2003-09-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-330"
+entry_into_force_date: "2003-10-01"
+jci_1_3: "jci1.3:c:BWBR0015481&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0015481&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit tarieven in strafzaken 2003"
+signed_date: "2003-08-16"
+entry_into_force: "2003-10-01"
 ---
-
 # Besluit van 16 augustus 2003, houdende vaststelling van tarieven voor vergoedingen als bedoeld in de artikelen 3, 4, 6, 7, 17 en 18 van de Wet tarieven in strafzaken (Besluit tarieven in strafzaken 2003)
 
 Op de voordracht van Onze Minister van Justitie van 21 mei 2003, kenmerk 5226041/03/6;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Definitiebepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Vergoedingen voor werkzaamheden en tijdverzuim
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door geneeskundigen, bedraagt, voor het verrichten van:
 
@@ -56,7 +82,7 @@ Hebben goedgevonden en verstaan:
 
 3. Voor het verrichten van een psychiatrisch onderzoek als bedoeld in het eerste lid, onder a, voor zover deze inhoudt het opstellen van een psychiatrisch rapport over een jeugdige, komt ten behoeve van een monorapportage of dubbelrapportage ten hoogste dertig uur en ten behoeve van een tripelrapportage ten hoogste zevenendertig uur voor vergoeding in aanmerking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), verricht door psychologen, bedraagt, voor het verrichten van psychologisch onderzoek, ten hoogste € 141,19 per uur.
 
@@ -64,15 +90,15 @@ Hebben goedgevonden en verstaan:
 
 3. Voor het verrichten van een psychologisch onderzoek als bedoeld in het eerste lid, voor zover deze inhoudt het opstellen van een psychologisch rapport over een jeugdige, komt ten behoeve van een monorapportage of dubbelrapportage ten hoogste tweeëndertig uur en ten behoeve van een tripelrapportage ten hoogste achtendertig uur voor vergoeding in aanmerking.
 
-#### Artikel 4
+##### Artikel 4
 
 Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor tolken, waaronder tolken gebarentaal, ten minste € 64,66 per uur.
 
-#### Artikel 5
+##### Artikel 5
 
 Het tarief voor de vergoeding van werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), bedraagt voor vertalers ten minste € 0,079 per woord.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3), waarvoor geen speciaal tarief is bepaald, geldt, naar gelang de werkzaamheden niet of in meer of mindere mate van wetenschappelijke of bijzondere aard zijn, een tarief van ten hoogste € 184,42 per uur, met dien verstande dat:
 
@@ -80,7 +106,7 @@ Voor werkzaamheden als bedoeld in [artikel 3, eerste lid, onderdeel a, van de we
 
 - b. het tarief voor vergoedingen van verpleging in een zorginstelling het voor deze vergoedingen geldende tarief in de laagste klasse bedraagt.
 
-#### Artikel 7
+##### Artikel 7
 
 De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), worden met de helft verhoogd voor werkzaamheden die ingevolge het daartoe strekkende verzoek of de gegeven opdracht moeten worden verricht op:
 
@@ -92,7 +118,7 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - d. op een andere dag, dan omschreven onder a tot en met c, tussen 0.00 en 08.00 uur of tussen 20.00 en 24.00 uur.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het tarief voor vergoedingen wegens tijdverzuim als bedoeld in [artikel 3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=3) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
@@ -110,13 +136,13 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 4. Indien vergoeding wordt toegekend voor een plaatsvervanger, wordt de voor tijdverzuim toe te kennen vergoeding daarop in mindering gebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor de vaststelling van de uurvergoeding als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=6&z=2026-01-01&g=2026-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) geldt een gedeelte van een uur gelijk aan een half uur of korter, als een half uur, en een gedeelte langer dan een half uur als een heel uur.
 
 2. Voor tijdverzuim als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) is per dag een vergoeding verschuldigd voor ten hoogste negen uur.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor een lokaliteit, door een gemeente beschikbaar gesteld ingevolge een verzoek als bedoeld in [artikel 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=4) is, indien de vergoeding voor het gebruik in een plaatselijke belastingverordening is geregeld, aan de gemeente een vergoeding verschuldigd overeenkomstig die verordening.
 
@@ -126,7 +152,7 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 3. Vergoedingen voor reis- en verblijfkosten
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het tarief voor vergoedingen wegens reis- en verblijfkosten als bedoeld in [artikel 6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=6) bedraagt, indien deze vergoedingen worden verstrekt aan:
 
@@ -146,7 +172,7 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 4. Vergoedingen voor afschriften, uittreksels, inlichtingen en het uitbrengen van exploiten
 
-#### Artikel 12
+##### Artikel 12
 
 1. Behalve voor de gevallen, bedoeld in [artikel 17, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=17), wordt evenmin recht geheven voor:
 
@@ -166,55 +192,55 @@ De tarieven, genoemd in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWB
 
 5. Onze Minister van Justitie kan bepalen dat voor een door hem aan te wijzen doel van algemeen belang niet-getekende afschriften en uittreksels kunnen worden afgegeven, inzage kan worden verleend en inlichtingen kunnen worden verstrekt tegen betaling van een door hem aan te geven lager recht, dan het in het derde lid genoemde, of zonder betaling van enig recht.
 
-#### Artikel 13
+##### Artikel 13
 
 Voor het uitbrengen van exploiten ingevolge bijzondere wetten is aan de deurwaarders een vergoeding verschuldigd, berekend naar de in het [Besluit tarieven ambtshandelingen gerechtsdeurwaarders](https://wetten.overheid.nl/jci1.3:c:BWBR0012638) bepaalde tarieven.
 
 #### § 5. Diverse bepalingen; buitengewone kosten, niet voorziene kosten en omzetbelasting
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tot de in [artikel 2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002406&artikel=2) bedoelde buitengewone, bij en krachtens die wet niet voorziene kosten worden gerekend de vergoedingen voor werkzaamheden, verricht door personen ten aanzien van wie in verband met hun verblijf in het buitenland wordt afgeweken van de tarieven, genoemd in de [artikelen 2 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=2&artikel=2&z=2026-01-01&g=2026-01-01) en [11](https://wetten.overheid.nl/jci1.3:c:BWBR0015481&paragraaf=3&artikel=11&z=2026-01-01&g=2026-01-01).
 
 2. Bij deze niet voorziene kosten komen de reis- en verblijfkosten van deze personen en de kosten wegens tijdverzuim en daarmee verband houdende noodzakelijke kosten eveneens voor vergoeding in aanmerking.
 
-#### Artikel 15
+##### Artikel 15
 
 De bedragen, genoemd in dit besluit, worden verhoogd met de omzetbelasting die daarover is verschuldigd.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Het [Besluit tarieven in strafzaken](https://wetten.overheid.nl/jci1.3:c:BWBR0002429) wordt ingetrokken.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit tarieven in strafzaken 2003.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Besluit proceskosten bestuursrecht.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Besluit rechtspraak in ambtenarenzaken.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Besluit tarieven in burgerlijke zaken.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 

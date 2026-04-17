@@ -1,13 +1,39 @@
 ---
-title: "Besluit buitengewoon opsporingsambtenaar Omgevingsdienst IJsselland 2022"
+title: "Besluit van de Minister voor Rechtsbescherming van 9 augustus 2022 nr. BOACAT2022/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst IJsselland"
 identifier: "BWBR0047054"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-05-15
-laatste_update: 2024-05-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047054"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-05-15"
+last_updated: "2024-05-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047054"
+soort: "ministeriele-regeling"
+stam_id: "16456813"
+version_id: "28832012"
+internal_id: "C40825051"
+label_id: "16379564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047054/2024-05-15/0"
+intitule_bron: "Stcrt.2022-21545"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-09"
+intitule_published: "2022-08-17"
+intitule_in_force: "2022-08-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-21545"
+original_signed_date: "2022-08-09"
+original_published_date: "2022-08-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-21545"
+entry_into_force_date: "2023-01-23"
+jci_1_3: "jci1.3:c:BWBR0047054&z=2024-05-15&g=2024-05-15"
+jci_1_0: "1.0:c:BWBR0047054&g=2024-05-15"
+citeertitel_status: "officieel"
+short_title: "Besluit buitengewoon opsporingsambtenaar Omgevingsdienst IJsselland 2022"
+signed_date: "2022-08-09"
+entry_into_force: "2023-01-23"
 ---
-
 # Besluit van de Minister voor Rechtsbescherming van 9 augustus 2022 nr. BOACAT2022/048, strekkende tot aanwijzing van buitengewoon opsporingsambtenaren bij Omgevingsdienst IJsselland
 
 Gelezen het verzoek van de Omgevingsdienst IJsselland van 31 mei 2022 en de adviezen van de hoofdofficier van justitie bij het Functioneel Parket en de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27);
@@ -26,15 +52,15 @@ de [Beleidsregels Buitengewoon Opsporingsambtenaar](https://wetten.overheid.nl/j
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047054&artikel=2&z=2024-05-15&g=2024-05-15).
 
-#### Artikel 2
+##### Artikel 2
 
 De personen, werkzaam in de functie van Toezichthouder A, Toezichthouder B en Coördinerend toezichthouder A in dienst van Omgevingsdienst IJsselland, zijn aangewezen als buitengewoon opsporingsambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein II, Milieu, welzijn en infrastructuur, zoals opgenomen in de [bijlage bij de Regeling domeinlijsten buitengewoon opsporingsambtenaar](onbekend).
 
@@ -42,17 +68,17 @@ De personen, werkzaam in de functie van Toezichthouder A, Toezichthouder B en Co
 
 3. De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.
 
-#### Artikel 4
+##### Artikel 4
 
 Op grond van dit besluit kunnen maximaal 8 personen als buitengewoon opsporingsambtenaar worden beëdigd.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de hoofdofficier van justitie bij het Functioneel Parket.
 
 2. Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=36) is aangewezen de korpschef als bedoeld in [artikel 27 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=27).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De directeur van de Omgevingsdienst IJsselland brengt jaarlijks, voor 1 april, verslag uit over:
 
@@ -64,19 +90,19 @@ Op grond van dit besluit kunnen maximaal 8 personen als buitengewoon opsporingsa
 
 2. Dit verslag wordt toegezonden aan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0047054&artikel=5&z=2024-05-15&g=2024-05-15) bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Justitie en Veiligheid, Justis, afdeling V&T, postbus 20300, 2500 EH Den Haag.
 
-#### Artikel 7
+##### Artikel 7
 
 De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0047054&artikel=8&z=2024-05-15&g=2024-05-15) genoemde besluit, worden geacht mede te zijn afgegeven op basis van dit besluit.
 
 Dit artikel brengt geen wijziging in de resterende looptijd van de afgegeven aktes.
 
-#### Artikel 8
+##### Artikel 8
 
 Het [Besluit buitengewoon opsporingsambtenaar Omgevingsdienst IJsselland 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0040538) van 10 januari 2018 nr. BOACAT2018/002 zal vervallen op 23 januari 2023.
 
 Dit besluit treedt in werking met ingang van 23 januari 2023 en vervalt met ingang van 23 januari 2028.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Omgevingsdienst IJsselland 2022.
 

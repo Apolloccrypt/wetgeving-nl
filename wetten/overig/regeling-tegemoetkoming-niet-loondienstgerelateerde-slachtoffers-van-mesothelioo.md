@@ -1,13 +1,39 @@
 ---
-title: "Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose"
+title: "Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 november 2007, nr. SAS 2007115642, Directoraat Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende regels voor de verlening van een tegemoetkoming in de immateriële schade aan personen bij wie ten gevolge van de blootstelling aan asbest mesothelioom is geconstateerd en deze blootstelling niet heeft plaatsgevonden als gevolg van arbeid in loondienst (Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom)"
 identifier: "BWBR0022913"
-categorie: "Overig"
-publicatiedatum: 2023-04-01
-laatste_update: 2023-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022913"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-04-01"
+last_updated: "2023-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022913"
+soort: "ministeriele-regeling"
+stam_id: "9293723"
+version_id: "14921072"
+internal_id: "C20297321"
+label_id: "9272444"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022913/2023-04-01/0"
+intitule_bron: "Stcrt.2007-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-22"
+intitule_published: "2007-11-29"
+intitule_in_force: "2007-11-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-232"
+original_signed_date: "2007-11-22"
+original_published_date: "2007-11-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-232-p18-SC83165"
+entry_into_force_date: "2007-12-01"
+jci_1_3: "jci1.3:c:BWBR0022913&z=2023-04-01&g=2023-04-01"
+jci_1_0: "1.0:c:BWBR0022913&g=2023-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose"
+signed_date: "2007-11-22"
+entry_into_force: "2007-12-01"
 ---
-
 # Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 22 november 2007, nr. SAS 2007115642, Directoraat Generaal Milieubeheer, Directie Stoffen, Afvalstoffen en Straling, houdende regels voor de verlening van een tegemoetkoming in de immateriële schade aan personen bij wie ten gevolge van de blootstelling aan asbest mesothelioom is geconstateerd en deze blootstelling niet heeft plaatsgevonden als gevolg van arbeid in loondienst (Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom)
 
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -74,7 +100,7 @@ Besluit:
 
 #### § 2. Het recht op en de hoogte van een tegemoetkoming
 
-#### Artikel 2
+##### Artikel 2
 
 Recht op een tegemoetkoming heeft een persoon:
 
@@ -96,7 +122,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 - i. die gedurende een aaneengesloten periode van ten minste 10 jaar woonplaats in Nederland, als bedoeld in de [artikelen 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=10), en [11 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=11), heeft gehad en die periode gelegen is in het tijdvak tussen 10 en 60 jaar voorafgaand aan het tijdstip van indiening van de aanvraag om een tegemoetkoming.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Nabestaanden van de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), hebben recht op een tegemoetkoming, indien:
 
@@ -114,7 +140,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 6. Voor zover er meer dan één nabestaande is, dragen de nabestaanden er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van deze regeling, het in ontvangst nemen van een tegemoetkoming daarbij inbegrepen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De tegemoetkoming strekt tot tegemoetkoming in immateriële schade en bedraagt € 18.392,– .
 
@@ -124,7 +150,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 #### § 3. De aanvraag en informatieverplichtingen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De SVB stelt op aanvraag vast of recht op een tegemoetkoming bestaat.
 
@@ -142,7 +168,7 @@ Recht op een tegemoetkoming heeft een persoon:
 
 5. Indien de aanvraag om tegemoetkoming wordt gedaan door een nabestaande, zijn het tweede tot en met vierde lid van overeenkomstige toepassing.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), verstrekt de SVB of de door haar aangewezen personen of instellingen bij de indiening van de aanvraag om tegemoetkoming in ieder geval:
 
@@ -164,11 +190,11 @@ Recht op een tegemoetkoming heeft een persoon:
 
 #### § 4. Betaling en terugvordering
 
-#### Artikel 7
+##### Artikel 7
 
 De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoon, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01) of [artikel 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2a&z=2023-04-01&g=2023-04-01), of aan de nabestaanden, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De SVB herziet een besluit tot toekenning van de tegemoetkoming of trekt dat in indien degene aan wie de tegemoetkoming is toegekend of de nabestaande ervan:
 
@@ -182,19 +208,19 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 #### § 5. Uitvoering en financiering
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze regeling wordt uitgevoerd door de SVB.
 
 2. De SVB kan [artikel 2, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), voor zover het de aaneengeslotenheid van de periode van ten minste 10 jaar betreft, buiten toepassing laten of daarvan afwijken indien naar het oordeel van de SVB het belang van deze regeling daartoe noodzaakt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De SVB kan over het recht op de tegemoetkoming advies vragen aan het instituut asbestslachtoffers.
 
 2. De SVB stelt de eisen vast waaraan het advies dient te voldoen en stelt een termijn binnen welke het advies wordt verwacht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De SVB en het instituut asbestslachtoffers stellen een overeenkomst op betreffende de samenwerking en de werkwijze in het kader van de uitvoering van deze regeling.
 
@@ -216,7 +242,7 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 - h. hoe uit de overeenkomst voortvloeiende geschillen zullen worden beslecht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De SVB verstrekt jaarlijks, vóór 1 juli, informatie aan de Minister over het vorige jaar met betrekking tot:
 
@@ -238,7 +264,7 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 2. Bij de informatie, bedoeld in het eerste lid, verstrekt de SVB een raming van de lasten voor het komende kwartalen in het komende jaar, verbijzonderd naar de kosten die daartoe in [artikel 1, eerste lid, onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=1&artikel=1&z=2023-04-01&g=2023-04-01), worden gerekend.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De lasten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de Minister.
 
@@ -252,11 +278,11 @@ De tegemoetkoming wordt door de SVB zo spoedig mogelijk uitbetaald aan de persoo
 
 - b. de tegemoetkomingen die op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=4&artikel=8&z=2023-04-01&g=2023-04-01) zijn teruggevorderd en zijn terugbetaald.
 
-#### Artikel 14
+##### Artikel 14
 
 In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2023-04-01&g=2023-04-01) kan in bijzondere gevallen een hogere of een lagere afdracht dan die bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=5&artikel=13&z=2023-04-01&g=2023-04-01), worden verstrekt.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De SVB dient jaarlijks vóór 1 juli de afrekening in bij de Minister met betrekking tot de kasuitgaven in het kader van deze regeling over het afgelopen kalenderjaar. Op grond van deze afrekening vindt een betaling ten gunste of ten laste van de SVB plaats.
 
@@ -264,27 +290,27 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&pa
 
 #### § 6. Wijzigingen regelgeving
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt deze regeling.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Regeling WWB.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling treedt in werking met ingang van 1 december 2007.
 
-#### Artikel 19
+##### Artikel 19
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslachtoffers 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035006), die op grond van [artikel 19 van die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&artikel=19) in de Staatscourant voor een bepaald kalenderjaar bekend zijn gemaakt, geldt met ingang van dat kalenderjaar in de plaats van de bedragen, genoemd in de [artikelen 2, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), [3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=3&z=2023-04-01&g=2023-04-01), en [4, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=4&z=2023-04-01&g=2023-04-01).
 
@@ -300,7 +326,7 @@ Een wijziging van de bedragen, vermeld in de [Regeling tegemoetkoming asbestslac
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Recht op een tegemoetkoming, onverminderd [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022913&paragraaf=2&artikel=2&z=2023-04-01&g=2023-04-01), heeft een persoon:
 

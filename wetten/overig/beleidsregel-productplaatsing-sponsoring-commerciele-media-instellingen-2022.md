@@ -1,13 +1,35 @@
 ---
 title: "Beleidsregel productplaatsing sponsoring commerciële media-instellingen 2022"
 identifier: "BWBR0046668"
-categorie: "Overig"
-publicatiedatum: 2022-05-18
-laatste_update: 2022-05-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046668"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-05-18"
+last_updated: "2022-05-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046668"
+soort: "zbo"
+stam_id: "16361703"
+version_id: "28633512"
+internal_id: "C40398051"
+label_id: "16286064"
+dtd_version: "2.0"
+original_entry_into_force: "2022-05-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046668/2022-05-18/0"
+intitule_bron: "Stcrt.2022-12448"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-05-17"
+intitule_in_force: "2022-05-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-12448"
+original_published_date: "2022-05-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-12448"
+entry_into_force_date: "2022-05-18"
+jci_1_3: "jci1.3:c:BWBR0046668&z=2022-05-18&g=2022-05-18"
+jci_1_0: "1.0:c:BWBR0046668&g=2022-05-18"
+citeertitel_status: "officieel"
+entry_into_force: "2022-05-18"
 ---
-
 # Beleidsregel productplaatsing sponsoring commerciële media-instellingen 2022
 
 Gelet op de [artikelen 3.19a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19a), [3.19b](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19b), [3.19c](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19c), [3.29a](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29a), [3.29d](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.29d), [7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.11) en [7.12 van de Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=7.12) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,11 +38,11 @@ Besluit:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Toepassingsbereik
+##### Artikel 1. Toepassingsbereik
 
 Deze beleidsregel is van toepassing op het media-aanbod van commerciële media-instellingen in de zin van de [Mediawet 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0025028), daaronder begrepen commerciële mediadiensten op aanvraag (zoals VOD-diensten en video-uploaders).
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -30,13 +52,13 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **video:** audiovisueel media-aanbod op aanvraag dat door een gebruiker is gecreëerd en door die gebruiker of een andere gebruiker naar een videoplatform is geüpload.
 
-#### Artikel 3. Definitie medische behandelingen
+##### Artikel 3. Definitie medische behandelingen
 
 1. Het media-aanbod bevat geen productplaatsing voor medische behandelingen ([artikel 3.19b, derde lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19b)).
 
 2. Onder **medische behandelingen** wordt hierbij verstaan: behandelingen die alleen op doktersvoorschrift verkrijgbaar zijn.
 
-#### Artikel 4. Verbod op productplaatsing
+##### Artikel 4. Verbod op productplaatsing
 
 1. Media-aanbod bestaande uit nieuws, actualiteiten of consumentenzaken, media-aanbod van kerkelijke of geestelijke aard en media-aanbod dat in het bijzonder bestemd is voor kinderen jonger dan twaalf jaar bevat geen productplaatsing ([artikel 3.19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19a)).
 
@@ -58,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 2. Reikwijdte begrip productplaatsing
 
-#### Artikel 5. Uitleg definitie productplaatsing
+##### Artikel 5. Uitleg definitie productplaatsing
 
 1. In de begripsomschrijving van productplaatsing staat dat sprake moet zijn van het opnemen van of verwijzen naar een product, dienst of (beeld)merk binnen het kader van het programma ([artikel 1.1, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1)). Daarbij wordt verstaan onder:
 
@@ -66,7 +88,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - b. **(beeld)merk:** benamingen, tekeningen, letters, cijfers, vormen van waren of van verpakkingen en alle andere voor grafische voorstelling vatbare tekens die dienen om de gebruiker daarvan te onderscheiden van andere partijen.
 
-#### Artikel 6. Bruikleen of bijdrage van ondergeschikte betekenis
+##### Artikel 6. Bruikleen of bijdrage van ondergeschikte betekenis
 
 1. In de begripsomschrijving van productplaatsing staat dat sprake moet zijn van betaling of soortgelijke vergoeding ([artikel 1.1, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=1.1)).
 
@@ -86,7 +108,7 @@ In deze beleidsregel wordt verstaan onder:
 
 ### Hoofdstuk 3. Vermelding van productplaatsing
 
-#### Artikel 7. Passende vermelding
+##### Artikel 7. Passende vermelding
 
 1. Bij media-aanbod dat productplaatsing bevat wordt op passende wijze aan het begin en het einde duidelijk leesbaar dan wel hoorbaar vermeld dat het media-aanbod is voorzien van productplaatsing ([artikel 3.19b, vierde lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19b)). Hieraan wordt in ieder geval voldaan als bij deze vermelding gebruik wordt gemaakt van een van de volgende teksten:
 
@@ -96,7 +118,7 @@ In deze beleidsregel wordt verstaan onder:
 
 mits deze vermelding bij video’s ook is opgenomen in de bijbehorende beschrijving.
 
-#### Artikel 8. Wervende context en opname in de verhaallijn
+##### Artikel 8. Wervende context en opname in de verhaallijn
 
 1. Productplaatsing wordt zo vormgegeven dat het publiek niet rechtstreeks door middel van specifieke aanprijzingen wordt aangespoord tot het kopen of huren van producten of tot afname van diensten ([artikel 3.19b, tweede lid, onder a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0025028&artikel=3.19b)). Van aansporing tot kopen of huren is sprake als producten of diensten door subjectieve positieve kwalificaties in een wervende context worden geplaatst.
 
@@ -106,7 +128,7 @@ mits deze vermelding bij video’s ook is opgenomen in de bijbehorende beschrijv
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 9. Citeertitel en inwerkingtreding
+##### Artikel 9. Citeertitel en inwerkingtreding
 
 1. Deze beleidsregel wordt aangehaald als Beleidsregel productplaatsing sponsoring commerciële media-instellingen 2022.
 

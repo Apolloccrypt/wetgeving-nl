@@ -1,13 +1,35 @@
 ---
 title: "Verdrag houdende instelling van een Internationale Douaneraad"
 identifier: "BWBV0003093"
-categorie: "Internationaal recht"
-publicatiedatum: 1953-01-23
-laatste_update: 1953-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003093"
+country: "nl"
+rank: "verdrag"
+publication_date: "1953-01-23"
+last_updated: "1953-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003093"
+soort: "verdrag"
+stam_id: "10003331123"
+version_id: "10003361242"
+internal_id: "C10008429881"
+label_id: "10003316964"
+dtd_version: "2.0"
+original_entry_into_force: "1953-01-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003093/1953-01-23/0"
+intitule_bron: "Trb.1951-120"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1951-10-02"
+intitule_in_force: "1953-06-11"
+intitule_status: "goed"
+original_publication: "Trb.1951-120"
+original_published_date: "1951-10-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1951-120"
+entry_into_force_date: "1953-01-23"
+jci_1_3: "jci1.3:c:BWBV0003093&z=1953-01-23&g=1953-01-23"
+jci_1_0: "1.0:c:BWBV0003093&g=1953-01-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1953-01-23"
 ---
-
 # Verdrag houdende instelling van een Internationale Douaneraad
 
 De Regeringen, die dit Verdrag hebben ondertekend,
@@ -18,11 +40,11 @@ In de overtuiging, dat het voor de internationale handel van belang is de samenw
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I
+##### Artikel I
 
 Er wordt ingesteld een Internationale Douaneraad, hierna te noemen „de Raad”.
 
-#### Artikel II
+##### Artikel II
 
 (a). Leden van de Raad zijn:
 
@@ -36,7 +58,7 @@ Er wordt ingesteld een Internationale Douaneraad, hierna te noemen „de Raad”
 
 (d). De Raad kan vertegenwoordigers van landen, die geen lid zijn, of van internationale organisaties als waarnemers in zijn midden toelaten.
 
-#### Artikel III
+##### Artikel III
 
 De taak van de Raad is:
 
@@ -56,15 +78,15 @@ De taak van de Raad is:
 
 - (h). met andere intergouvernementele organisaties samen te werken inzake aangelegenheden, welke tot zijn competentie behoren.
 
-#### Artikel IV
+##### Artikel IV
 
 De Leden van de Raad verschaffen hem op zijn verzoek de inlichtingen en documentatie, welke nodig zijn voor het vervullen van zijn taak; geen enkel Lid van de Raad is evenwel verplicht vertrouwelijke inlichtingen te verschaffen, welker bekendmaking een beletsel zou vormen voor de toepassing van de wet, in strijd zou zijn met het algemeen belang of nadelig zou zijn voor de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.
 
-#### Artikel V
+##### Artikel V
 
 De Raad wordt bijgestaan door een Permanent Technisch Comité en door een Secretariaat-Generaal.
 
-#### Artikel VI
+##### Artikel VI
 
 (a). De Raad kiest elk jaar uit de Vertegenwoordigers een Voorzitter en ten minste twee Vice-Voorzitters.
 
@@ -78,7 +100,7 @@ Hij kan bovendien elk ander comité instellen dat hij nodig acht voor de toepass
 
 (e). Hij keurt de jaarlijkse begroting goed, houdt toezicht op de uitgaven en geeft aan het Secretariaat-Generaal de nodige richtlijnen met betrekking tot zijn geldmiddelen.
 
-#### Artikel VII
+##### Artikel VII
 
 (a). De zetel van de Raad is gevestigd te Brussel.
 
@@ -86,19 +108,19 @@ Hij kan bovendien elk ander comité instellen dat hij nodig acht voor de toepass
 
 (c). De Raad vergadert ten minste twee maal per jaar; de eerste vergadering zal plaats hebben uiterlijk drie maanden na het inwerkingtreden van dit Verdrag.
 
-#### Artikel VIII
+##### Artikel VIII
 
 (a). Elk Lid van de Raad heeft een stem; geen enkel Lid kan evenwel deelnemen aan een stemming over aangelegenheden, welke betrekking hebben op de interpretatie, de toepassing of de wijziging van de Verdragen als bedoeld zijn in [artikel III, lid d](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=III&z=1953-01-23&g=1953-01-23), hiervoor, welke in werking zijn getreden doch op hem niet van toepassing zijn.
 
 (b). Behoudens het bepaalde in [artikel VI, lid b](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=VI&z=1953-01-23&g=1953-01-23), worden de besluiten van de Raad genomen met een meerderheid van twee derden van de aanwezige en stemgerechtigde Leden. De Raad neemt geen beslissing over enige aangelegenheid, tenzij meer dan de helft van de Leden, die in een zodanige aangelegenheid stemrecht hebben, vertegenwoordigd zijn.
 
-#### Artikel IX
+##### Artikel IX
 
 (a). De Raad onderhoudt met de Verenigde Naties, haar voornaamste organen, hulporganen en gespecialiseerde organisaties, alsmede met alle andere intergouvernementele organisaties zodanige betrekkingen als nodig zijn om medewerking bij de uitvoering van hun onderscheidene taken te verzekeren.
 
 (b). De Raad kan de nodige schikkingen treffen, teneinde het overleg en de samenwerking met de niet gouvernementele organisaties, welke belang hebben bij aangelegenheden die tot zijn competentie behoren, te vergemakkelijken.
 
-#### Artikel X
+##### Artikel X
 
 (a). Het Permanent Technisch Comité bestaat uit vertegenwoordigers van de Leden van de Raad. Elk Lid van de Raad kan een vertegenwoordiger en een of meer plaatsvervangende vertegenwoordigers benoemen om namens hem in het Comité op te treden.
 
@@ -106,13 +128,13 @@ De vertegenwoordigers zijn ambtenaren, die gespecialiseerd zijn in de vraagstukk
 
 (b). Het Permanent Technisch Comité vergadert ten minste vier maal per jaar.
 
-#### Artikel XI
+##### Artikel XI
 
 (a). De Raad benoemt de Secretaris-Generaal en een adjunct-Secretaris-Generaal en stelt hun bevoegdheden, hun verplichtingen, hun arbeidsvoorwaarden en de duur van hun functies vast.
 
 (b). De Secretaris-Generaal benoemt het administratieve personeel van het Secretariaat-Generaal. De sterkte van het personeel en het personeelsreglement moeten door de Raad worden goedgekeurd.
 
-#### Artikel XII
+##### Artikel XII
 
 (a). Elk Lid van de Raad draagt de kosten van zijn vertegenwoordiging in de Raad, in het Permament Technisch Comité en in de comité's, welke door de Raad zijn ingesteld.
 
@@ -122,7 +144,7 @@ De vertegenwoordigers zijn ambtenaren, die gespecialiseerd zijn in de vraagstukk
 
 (d). Elk Lid van de Raad is verplicht zijn jaarlijkse bijdrage in de kosten van het begrotingsjaar, in de loop waarvan hij Lid van de Raad is geworden, en van het begrotingsjaar, in de loop waarvan zijn terugtrekking van kracht is geworden, in haar geheel te voldoen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 (a). De Raad geniet op het grondgebied van elk van zijn Leden de voor het uitoefenen van zijn functies noodzakelijke rechtsbevoegdheid, zoals deze nader is omschreven in de Bijlage van dit Verdrag.
 
@@ -130,27 +152,27 @@ De vertegenwoordigers zijn ambtenaren, die gespecialiseerd zijn in de vraagstukk
 
 (c). Deze Bijlage maakt onafscheidelijk deel uit van dit Verdrag en elke verwijzing naar het Verdrag geldt mede ten aanzien van de Bijlage.
 
-#### Artikel XIV
+##### Artikel XIV
 
 De Verdragsluitende Partijen aanvaarden de bepalingen van het Protocol in zake de Studiegroep voor de Europese Douane-Unie dat te Brussel openstaat voor ondertekening op dezelfde dag als dit Verdrag. Bij het vaststellen van de in [artikel XII, lid b](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=XII&z=1953-01-23&g=1953-01-23), bedoelde schaal van bijdragen houdt de Raad rekening met de deelneming van zijn Leden aan de Studiegroep.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit Verdrag staat open voor ondertekening tot 31 Maart 1951.
 
-#### Artikel XVI
+##### Artikel XVI
 
 (a). Dit Verdrag zal worden bekrachtigd.
 
 (b). De akten van bekrachtiging zullen worden nedergelegd bij het Ministerie van Buitenlandse Zaken van België, dat van deze nederlegging zal kennis geven aan alle Regeringen, die dit Verdrag hebben ondertekend of tot dit Verdrag zijn toegetreden, alsmede aan de Secretaris-Generaal.
 
-#### Artikel XVII
+##### Artikel XVII
 
 (a). Dit Verdrag treedt in werking zodra zeven van de Regeringen, die het hebben ondertekend, haar akte van bekrachtiging hebben nedergelegd.
 
 (b). Voor elke Regering, die dit Verdrag heeft ondertekend en haar akte van bekrachtiging later nederlegt, treedt het Verdrag in werking op de dag van de nederlegging van de akte van bekrachtiging.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 (a). De Regering van iedere Staat, die dit Verdrag niet heeft ondertekend, kan tot dit Verdrag toetreden na 1 April 1951.
 
@@ -158,11 +180,11 @@ Dit Verdrag staat open voor ondertekening tot 31 Maart 1951.
 
 (c). Dit Verdrag treedt ten aanzien van elke toetredende Regering in werking op de dag van nederlegging van haar akte van toetreding, doch niet voordat het ingevolge [artikel 17, lid a](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=XVII&z=1953-01-23&g=1953-01-23), van kracht wordt.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Dit Verdrag wordt voor onbepaalde tijd gesloten, doch elke Verdragsluitende Partij kan het te allen tijde opzeggen na verloop van vijf jaar na de inwerkingtreding, overeenkomstig [artikel XVII, lid a](https://wetten.overheid.nl/jci1.3:c:BWBV0003093&artikel=XVII&z=1953-01-23&g=1953-01-23). De opzegging wordt van kracht na verloop van een jaar te rekenen van de dag, waarop het Ministerie van Buitenlandse Zaken van België de kennisgeving van opzegging heeft ontvangen. Het Ministerie van Buitenlandse Zaken van België brengt deze ontvangst ter kennis van alle Regeringen, die het Verdrag hebben ondertekend of tot het Verdrag zijn toegetreden, alsmede van de Secretaris-Generaal.
 
-#### Artikel XX
+##### Artikel XX
 
 (a). De Raad kan aan de Verdragsluitende Partijen aanbevelingen doen tot wijziging van dit Verdrag.
 
@@ -172,7 +194,7 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten, doch elke Verdragsluitende Part
 
 (d). Nadat een wijziging in werking is getreden, kan geen enkele Regering dit Verdrag bekrachtigen of tot dit Verdrag toetreden zonder eveneens deze wijziging aan te nemen.
 
-#### Artikel I. Definities
+##### Artikel I. Definities
 
 § 1. Voor de toepassing van deze Bijlage
 
@@ -180,7 +202,7 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten, doch elke Verdragsluitende Part
 
 - (ii). wordt de in artikel V voorkomende uitdrukking „vertegenwoordigers van leden” geacht te omvatten alle vertegenwoordigers, plaatsvervangende vertegenwoordigers, adviseurs, technische deskundigen en secretarissen van vertegenwoordigingen.
 
-#### Artikel II. Rechtspersoonlijkheid
+##### Artikel II. Rechtspersoonlijkheid
 
 § 2. De Raad bezit rechtspersoonlijkheid. Hij heeft de bevoegdheid:
 
@@ -192,7 +214,7 @@ Dit Verdrag wordt voor onbepaalde tijd gesloten, doch elke Verdragsluitende Part
 
 In deze aangelegenheden vertegenwoordigt de Secretaris-Generaal de Raad.
 
-#### Artikel III. Eigendommen, fondsen en bezittingen
+##### Artikel III. Eigendommen, fondsen en bezittingen
 
 § 3. De Raad, zijn eigendommen en bezittingen, waar deze zich ook bevinden en wie deze ook onder zich heeft, zijn vrijgesteld van rechtsvervolging, behoudens wanneer de Raad in een bijzonder geval uitdrukkelijk afstand heeft gedaan van zijn immuniteit. Het is echter wel verstaan, dat afstand van immuniteit zich niet uitstrekt tot enige maatregel van ten uitvoerlegging.
 
@@ -220,7 +242,7 @@ Zijn eigendommen en bezittingen, waar deze zich ook bevinden en wie deze ook ond
 
 § 9. Hoewel de Raad in beginsel geen aanspraak zal maken op vrijstelling van accijnzen en van belastingen op de verkoop van roerend en onroerend goed, welke een deel vormen van de te betalen prijs, zullen niettemin, wanneer de Raad voor officieel gebruik belangrijke aankopen doet van goederen, in welker prijs zodanige belastingen begrepen zijn, de Leden van de Raad, telkens wanneer dit mogelijk is, de nodige administratieve regelingen treffen voor de kwijtschelding of teruggave van het bedrag van zodanige belastingen.
 
-#### Artikel IV. Faciliteiten met betrekking tot communicatiemiddelen
+##### Artikel IV. Faciliteiten met betrekking tot communicatiemiddelen
 
 § 10. De Raad geniet op het grondgebied van elk van zijn Leden voor zijn officiële mededelingen een behandeling, die niet minder gunstig is dan die, welke door dat Lid wordt toegestaan aan enige andere Regering met inbegrip van haar diplomatieke missie, wat betreft prioriteiten, tarieven en belastingen op post, kabeltelegrammen, radiogrammen, telefoto's, telefoon en andere communicatiemiddelen, alsmede perstarieven voor mededelingen aan pers of radio.
 
@@ -228,7 +250,7 @@ Zijn eigendommen en bezittingen, waar deze zich ook bevinden en wie deze ook ond
 
 Niets in deze paragraaf verbiedt het nemen van geschikte veiligheidsmaatregelen, welke bij een overeenkomst tussen de Raad en een van zijn Leden zullen worden vastgesteld.
 
-#### Artikel V. Vertegenwoordigers van Leden
+##### Artikel V. Vertegenwoordigers van Leden
 
 § 12. Op vergaderingen van de Raad, van het Permanent Technisch Comité en van de Comité's van de Raad genieten de vertegenwoordigers van zijn Leden gedurende de uitoefening van hun functies en tijdens hun reis naar en van de plaats van samenkomst de volgende voorrechten en immuniteiten:
 
@@ -250,7 +272,7 @@ Niets in deze paragraaf verbiedt het nemen van geschikte veiligheidsmaatregelen,
 
 § 15. Op de bepalingen van de paragrafen 12 en 13 kan geen beroep worden gedaan tegenover de autoriteiten van de Staat, waarvan de persoon een onderdaan is of waarvan hij een vertegenwoordiger is of is geweest.
 
-#### Artikel VI. Functionarissen van de Raad
+##### Artikel VI. Functionarissen van de Raad
 
 § 16. De Raad bepaalt op welke categorieën van functionarissen de bepalingen van dit artikel van toepassing zijn.
 
@@ -276,7 +298,7 @@ Aan de adjunct-Secretaris-Generaal worden de voorrechten, immuniteiten, vrijstel
 
 § 19. De voorrechten en immuniteiten worden aan de functionarissen verleend in het belang van de Raad en niet voor hun persoonlijk voordeel. De Secretaris-Generaal heeft het recht en de plicht de immuniteit van een functionaris op te heffen, telkens wanneer hij van oordeel is, dat de immuniteit aan de loop van de gerechtigheid in de weg staat en de immuniteit kan worden opgeheven zonder dat afbreuk wordt gedaan aan de belangen van de Raad. Alleen de Raad heeft het recht de immuniteit van de Secretaris-Generaal op te heffen.
 
-#### Artikel VII. Deskundigen met zendingen voor de Raad
+##### Artikel VII. Deskundigen met zendingen voor de Raad
 
 § 20. Aan deskundigen (andere dan de functionarissen, bedoeld in artikel VI), die zendingen voor de Raad verrichten, worden voor de duur van hun zending, de duur van de daarmede verband houdende reizen daarin begrepen, zodanige voorrechten en immuniteiten verleend als nodig zijn voor de onafhankelijke uitoefening van hun functies, en in het bijzonder:
 
@@ -288,7 +310,7 @@ Aan de adjunct-Secretaris-Generaal worden de voorrechten, immuniteiten, vrijstel
 
 § 21. De voorrechten, immuniteiten en faciliteiten worden aan de deskundigen verleend in het belang van de Raad en niet voor hun persoonlijk voordeel. De Secretaris-Generaal heeft het recht en de plicht de immuniteit van een deskundige op te heffen, telkens wanneer hij van oordeel is dat de immuniteit aan de loop van de gerechtigheid in de weg staat en de immuniteit kan worden opgeheven zonder dat afbreuk wordt gedaan aan de belangen van de Raad.
 
-#### Artikel VIII. Misbruik en voorrechten
+##### Artikel VIII. Misbruik en voorrechten
 
 § 22. De vertegenwoordigers van Leden op de vergaderingen van de Raad, van het Permanent Technisch Comité en van de Comité's van de Raad, tijdens de uitoefening van hun functies en hun reizen naar en van de plaats der vergadering, alsmede de in de paragrafen 16 en 20 bedoelde functionarissen, kunnen niet door de autoriteiten van het land, waar zij hun functies vervullen, worden gedwongen dat land te verlaten uit hoofde van door hen in hun officiële hoedanigheid verrichte werkzaamheden. Indien echter genoemde personen zich in dat land zouden bezig houden met zaken, die geen verband houden met hun officiële functies, en daarmede misbruik zouden maken van hun recht op verblijf, kunnen zij door de Regering van dat land worden gedwongen het land te verlaten, mits het volgende wordt inachtgenomen:
 
@@ -298,7 +320,7 @@ Aan de adjunct-Secretaris-Generaal worden de voorrechten, immuniteiten, vrijstel
 
 § 23. De Secretaris-Generaal werkt te allen tijde samen met de bevoegde autoriteiten van de Leden van de Raad ten einde een goede rechtsbedeling te bevorderen, de naleving van de politiereglementen te verzekeren en alle misbruiken te voorkomen waartoe de voorrechten, immuniteiten en faciliteiten, welke in deze Bijlage zijn opgesomd, aanleiding zouden kunnen geven.
 
-#### Artikel IX. Beslechting van geschillen
+##### Artikel IX. Beslechting van geschillen
 
 § 24. De Raad treft regelingen voor passende wijzen van beslechting van:
 
@@ -306,7 +328,7 @@ Aan de adjunct-Secretaris-Generaal worden de voorrechten, immuniteiten, vrijstel
 
 - b). geschillen, waarbij een functionaris van de Raad betrokken is, die krachtens zijn officiële positie immuniteit geniet, indien de immuniteit niet overeenkomstig de bepalingen van de paragrafen 19 en 21 is opgeheven.
 
-#### Artikel X. Aanvullende Overeenkomsten
+##### Artikel X. Aanvullende Overeenkomsten
 
 § 25. De Raad kan met een of meer Verdragsluitende Partijen aanvullende overeenkomsten sluiten tot aanpassing van de bepalingen van deze Bijlage, voor zoveel deze Verdragsluitende Partij of Partijen betreft.
 

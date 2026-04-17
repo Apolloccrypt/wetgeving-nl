@@ -1,22 +1,47 @@
 ---
 title: "Besluit traditiecommissie krijgsmacht 2016"
 identifier: "BWBR0038510"
-categorie: "Overig"
-publicatiedatum: 2016-10-01
-laatste_update: 2016-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038510"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-10-01"
+last_updated: "2016-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038510"
+soort: "ministeriele-regeling"
+stam_id: "13749543"
+version_id: "23570222"
+internal_id: "C33929931"
+label_id: "13715874"
+dtd_version: "2.0"
+original_entry_into_force: "2016-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038510/2016-10-01/0"
+intitule_bron: "Stcrt.2016-48480"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-09-05"
+intitule_published: "2016-09-16"
+intitule_in_force: "2016-09-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-48480"
+original_signed_date: "2016-09-05"
+original_published_date: "2016-09-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-48480"
+entry_into_force_date: "2016-10-01"
+jci_1_3: "jci1.3:c:BWBR0038510&z=2016-10-01&g=2016-10-01"
+jci_1_0: "1.0:c:BWBR0038510&g=2016-10-01"
+citeertitel_status: "officieel"
+signed_date: "2016-09-05"
+entry_into_force: "2016-10-01"
 ---
-
 # Besluit traditiecommissie krijgsmacht 2016
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een traditiecommissie krijgsmacht, verder te noemen de commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie is belast met het adviseren van de Minister van Defensie inzake:
 
@@ -40,7 +65,7 @@ Er is een traditiecommissie krijgsmacht, verder te noemen de commissie.
 
 2. De commissie neemt kennis van de besluiten op het gebied van tradities bij de krijgsmachtdelen en coördineert deze met de andere krijgsmachtdelen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit navolgende leden:
 
@@ -74,7 +99,7 @@ Er is een traditiecommissie krijgsmacht, verder te noemen de commissie.
 
 5. Na consultatie van de leden, wijst de voorzitter een lid aan als een plaatsvervangend voorzitter.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie kan zich in haar taakuitoefening laten bijstaan door adviseurs, al dan niet in functionele subcommissie.
 
@@ -88,17 +113,17 @@ Er is een traditiecommissie krijgsmacht, verder te noemen de commissie.
 
 - d. een vertegenwoordiger van de Directie Juridische Zaken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie is bevoegd ceremoniële activiteiten van de defensieonderdelen bij te wonen en bezoeken te brengen aan instanties of instellingen in het traditiedomein van het ministerie van defensie en van de Stichting Defensiemusea. De commissie stelt daartoe uit haar midden een delegatie samen of wijst een vertegenwoordiger aan.
 
 2. Over het gehouden bezoek kan verslag worden uitgebracht aan de Minister van Defensie, de Commandant der Strijdkrachten, de commandant van het betreffende defensieonderdeel en de commandant of het bestuur van de bezochte instelling.
 
-#### Artikel 6
+##### Artikel 6
 
 Personen in dienst van het Ministerie van Defensie verstrekken desgevraagd aan de commissie de voor de uitoefening van haar taak benodigde inlichtingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter en externe adviseurs die niet in dienst zijn bij het Ministerie van Defensie, komen in aanmerking voor een vergoeding van reiskosten en een vergoeding per zitting.
 
@@ -106,15 +131,15 @@ Personen in dienst van het Ministerie van Defensie verstrekken desgevraagd aan d
 
 3. De vergoedingen van de voorzitter en de externe adviseurs die niet in dienst zijn bij het Ministerie van Defensie worden in een separaat besluit vastgelegd.
 
-#### Artikel 8
+##### Artikel 8
 
 Het Besluit traditiecommissie krijgsmacht 2000, laatstelijk gewijzigd op 4 september 2009, wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 oktober 2016. Indien de Staatscourant waarin dit besluit wordt geplaatst, wordt uitgegeven na 30 september 2016, treedt het besluit in werking met ingang van de dag na de datum van uitgifte van de Staatscourant en werkt het terug tot en met 1 oktober 2016.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit traditiecommissie krijgsmacht 2016.
 

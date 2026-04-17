@@ -1,13 +1,38 @@
 ---
-title: "Wijziging Arbeidsomstandighedenregeling"
+title: "Regeling tot wijziging van de Arbeidsomstandighedenregeling in verband met de vaststelling van de Arbeidsomstandighedenwet 1998"
 identifier: "BWBR0010792"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010792"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010792"
+soort: "ministeriele-regeling"
+stam_id: "4614713"
+version_id: "6431032"
+internal_id: "C6676591"
+label_id: "4593104"
+dtd_version: "2.0"
+original_entry_into_force: "1999-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010792/2007-01-01/0"
+intitule_bron: "Stcrt.1999-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-10-25"
+intitule_published: "1999-10-28"
+intitule_in_force: "1999-10-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-208"
+original_signed_date: "1999-10-25"
+original_published_date: "1999-10-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-11-01"
+jci_1_3: "jci1.3:c:BWBR0010792&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBR0010792&g=2007-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijziging Arbeidsomstandighedenregeling"
+signed_date: "1999-10-25"
+entry_into_force: "1999-11-01"
 ---
-
 # Regeling tot wijziging van de Arbeidsomstandighedenregeling in verband met de vaststelling van de Arbeidsomstandighedenwet 1998
 
 Handelende na overleg met de Ministers van Justitie, van Binnenlandse Zaken en Koninkrijksrelaties en van Verkeer en Waterstaat,
@@ -18,55 +43,55 @@ Voorts gelet op de [artikelen 1.5a, tweede lid](https://wetten.overheid.nl/jci1.
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de arbeidsomstandighedenregeling.
 
-#### Artikel II. Overgangsbepalingen
+##### Artikel II. Overgangsbepalingen
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Regeling indicatie sociale werkvoorziening.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Nadere regeling kinderarbeid.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Regeling mandatering van bevoegdheden aan ambtenaren van de Scheepvaartinspectie.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling erkenning applicatiecursus Stichting IJmond Maritiem.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Regeling politiecellencomplex.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Bedrijfshulpverleningsregeling Binnenlandse Zaken.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Examenreglement brandwacht, het Examenreglement brandwacht eerste klas, het Examenreglement hoofdbrandwacht, het Examenreglement onderbrandmeester, het Examenreglement brandmeester, het Examenreglement adjuct-hoofdbrandmeester 1993, het Examenreglement instructeur 1993.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Mandaatbesluit Arbeidsomstandigheden Justitie 1999.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit buitengewoon opsporingsambtenaar Scheepvaartinspectie 1995.
 
-#### Artikel XII
+##### Artikel XII
 
 De tekst van de Arbeidsomstandighedenregeling wordt met de daarbij behorende bijlagen in een bijlage bij de Staatscourant geplaatst. Van deze plaatsing wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Deze regeling treedt in werking op het tijdstip waarop de Arbeidsomstandighedenwet 1998 in werking treedt.
 

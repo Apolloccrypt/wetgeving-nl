@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel financiële correcties JTF 2021–2027"
+title: "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 3 juni 2024, nr. 2024-0000074656, tot vaststelling van de Beleidsregel financiële correcties JTF 2021–2027"
 identifier: "BWBR0049797"
-categorie: "Overig"
-publicatiedatum: 2024-06-12
-laatste_update: 2024-06-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049797"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-06-12"
+last_updated: "2024-06-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049797"
+soort: "ministeriele-regeling"
+stam_id: "17126333"
+version_id: "30142002"
+internal_id: "C43182991"
+label_id: "17034744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049797/2024-06-12/0"
+intitule_bron: "Stcrt.2024-18466"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-03"
+intitule_published: "2024-06-11"
+intitule_in_force: "2024-06-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18466"
+original_signed_date: "2024-06-03"
+original_published_date: "2024-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18466"
+entry_into_force_date: "2024-06-12"
+jci_1_3: "jci1.3:c:BWBR0049797&z=2024-06-12&g=2024-06-12"
+jci_1_0: "1.0:c:BWBR0049797&g=2024-06-12"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel financiële correcties JTF 2021–2027"
+signed_date: "2024-06-03"
+entry_into_force: "2024-06-12"
 ---
-
 # Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 3 juni 2024, nr. 2024-0000074656, tot vaststelling van de Beleidsregel financiële correcties JTF 2021–2027
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Doel categoriseringstabel
+##### Artikel 1. Doel categoriseringstabel
 
 Bij de uitvoering van de [Subsidieregeling JTF 2021–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047689) is de beheerautoriteit verantwoordelijk voor het voorkomen en onderzoeken van onregelmatigheden, het toepassen van financiële correcties en het doen van terugvorderingen.
 
@@ -22,11 +48,11 @@ De subsidie kan na verlening of vaststelling worden gewijzigd of lager vastgeste
 
 Deze tabel is gebaseerd op de [verordening (EU) 2021/1060](32021R1060) gemeenschappelijke bepalingen, [verordening (EU) 2021/1056](32021R1056) tot oprichting van het Fonds voor een rechtvaardige transitie, de [subsidieregeling JTF 2021–2027](https://wetten.overheid.nl/jci1.3:c:BWBR0047689) en jurisprudentie.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel financiële correcties JTF 2021–2027.
 

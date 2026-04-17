@@ -1,13 +1,38 @@
 ---
 title: "Circulaire Verbetering akten burgerlijke stand"
 identifier: "BWBR0026086"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2009-07-15
-laatste_update: 2009-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026086"
+country: "nl"
+rank: "circulaire"
+publication_date: "2009-07-15"
+last_updated: "2009-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026086"
+soort: "circulaire"
+stam_id: "10123503"
+version_id: "16547662"
+internal_id: "C22776591"
+label_id: "10099804"
+dtd_version: "2.0"
+original_entry_into_force: "2009-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026086/2009-07-15/0"
+intitule_bron: "Stcrt.2009-10428"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-06-30"
+intitule_published: "2009-07-13"
+intitule_in_force: "2009-07-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-10428"
+original_signed_date: "2009-06-30"
+original_published_date: "2009-07-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-10428"
+entry_into_force_date: "2009-07-15"
+jci_1_3: "jci1.3:c:BWBR0026086&z=2009-07-15&g=2009-07-15"
+jci_1_0: "1.0:c:BWBR0026086&g=2009-07-15"
+citeertitel_status: "redactioneel"
+signed_date: "2009-06-30"
+entry_into_force: "2009-07-15"
 ---
-
 # Circulaire Verbetering akten burgerlijke stand
 
 Bij besluit van het Kabinet van 25 mei 2007 is ingestemd met een regeling ter afwikkeling van de nalatenschap van de oude Vreemdelingenwet. De regeling omvat onder meer een procedure voor vreemdelingen die aan bepaalde voorwaarden voldoen, om eenmalig ten overstaan van de Immigratie- en Naturalisatiedienst (IND) binnen twee maanden hun juiste identiteit (naam, geboortedatum, geboorteplaats en geboorteland) en nationaliteit aan te tonen.

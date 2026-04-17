@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein voortgezet onderwijs over de periode 1968-1998"
 identifier: "BWBR0011430"
-categorie: "Onderwijs"
-publicatiedatum: 2000-08-02
-laatste_update: 2000-08-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011430"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-08-02"
+last_updated: "2000-08-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011430"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "3787423"
+version_id: "5570202"
+internal_id: "C25308371"
+label_id: "3767084"
+dtd_version: "2.0"
+original_entry_into_force: "2000-08-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011430/2000-08-02/0"
+intitule_bron: "Stcrt.2000-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-20"
+intitule_published: "2000-07-31"
+intitule_in_force: "2000-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-145"
+original_signed_date: "2000-06-20"
+original_published_date: "2000-07-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-08-02"
+jci_1_3: "jci1.3:c:BWBR0011430&z=2000-08-02&g=2000-08-02"
+jci_1_0: "1.0:c:BWBR0011430&g=2000-08-02"
+citeertitel_status: "officieel"
+signed_date: "2000-06-20"
+entry_into_force: "2000-08-02"
 ---
-
 # Selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein voortgezet onderwijs over de periode 1968-1998
 
 Gelet op artikel 5, tweede lid, onder b, van de Archiefwet 1995;
@@ -16,21 +40,21 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 17 december 19
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde 'selectielijst voor de neerslag van de handelingen van de Minister van Onderwijs, Cultuur en Wetenschappen op het beleidsterrein voortgezet onderwijs over de periode 1968-1998' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 De 'Lijst van voor vernietiging in aanmerking komende archiefbescheiden van het Ministerie van Onderwijs en Wetenschappen' (vastgesteld bij beschikking van de Minister van Cultuur, Recreatie en Maatschappelijk Werk en de Minister van Onderwijs en Wetenschappen nr. O/MA 152.259 en nr. AIZ/RA 47.469 d.d. 4 mei 1970, laatstelijk gewijzigd bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen nr. 99.110.RD d.d. 9 maart 1999 (gepubliceerd in de Staatscourant nr. 66 d.d. 7 april 1999)) wordt ingetrokken voor wat betreft de periode vanaf 1968 en voor zover de lijst betrekking heeft op het voortgezet onderwijs.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 ## Basis Selectie Document
 
-#### Vaststelling BSD
+##### Vaststelling BSD
 
 Op 29 juni 1999 is het concept-BSD door het Hoofd van de afdeling Informatiediensten van het Ministerie van OCenW aan de Staatssecretaris van OCenW aangeboden, waarna deze het, voor zover het betreft het handelen van de hoofdactor de minister van Onderwijs, ter advisering heeft ingediend bij de Raad voor Cultuur (RvC). Van het gevoerde driehoeksoverleg over de waardering van de handelingen is een verslag gemaakt, dat tegelijk met het ontwerp-BSD naar de RvC is verstuurd. Vanaf 14 juli 1999 lag de selectielijst gedurende acht weken ter publieke inzage bij de informatiebalie in de studiezaal van het Algemeen Rijksarchief evenals in de bibliotheken van het Ministerie van OCenW en de rijksarchieven in de provincie, hetgeen was aangekondigd in de Staatscourant 131 van 13 juli 1999.
 
@@ -64,7 +88,7 @@ Het BSD is als volgt samengesteld:
 
 ### Hoofdstuk 2. , Beschrijving beleidsterrein en actoren
 
-#### 2.1. Het beleidsterrein voortgezet onderwijs, doel en structuur
+##### 2.1. Het beleidsterrein voortgezet onderwijs, doel en structuur
 
 Het beleidsterrein voortgezet onderwijs omvat de scholen voor voorbereidend bereidend beroepsonderwijs (vbo), voor voorbereidend wetenschappelijk onderwijs (vwo) en algemeen voortgezet onderwijs (mavo, havo) en de landelijke verzorgingsinstellingen. Vanaf 1 augustus 1998 behoort ook een gedeelte van het voortgezet speciaal onderwijs tot het beleidsterrein (zie verder Hoofdstuk I, verantwoording van het RIO `Mammoetsporen, deel I').
 
@@ -78,7 +102,7 @@ Naast de hoofdbepalingen in de WVO met betrekking tot de specifieke onderwerpen 
 
 De Grondwet, art. 23, heeft aan de Minister van Onderwijs de zorg voor het onderwijs opgedragen. Dit houdt in dat de minister verantwoordelijk is voor de uitvoering van de wet, en derhalve de voorwaarden schept voor de totstandkoming van alle voorzieningen op het gebied van het voortgezet onderwijs die nodig zijn. Hij bepaalt ook nieuw beleid dat moet uitmonden in wetsvoorstellen aan de Staten Generaal. De aansturing is zowel onderwijsinhoudelijk als financieel-inhoudelijk van aard.
 
-#### 2.2. Actoren op het deelbeleidsterrein voortgezet onderwijs
+##### 2.2. Actoren op het deelbeleidsterrein voortgezet onderwijs
 
 - Minister van Onderwijs (Cultuur en Wetenschappen): bestuurt het onderwijs door middel van wet- en regelgeving met inachtneming van de bepalingen in de Grondwet. De voornaamste taken van het Rijk op het gebied van het onderwijs zijn: Onderwijsbeleid is mogelijk door kwalitatieve en kwantitatieve eisen te stellen aan het onderwijsproces in de scholen en instellingen of aan de resultaten ervan, door regelingen te treffen voor het toedelen van financiële en andere middelen en door het stellen van voorwaarden waaraan scholen moeten voldoen. Het Rijk beslist onder meer over: Onder de verantwoordelijkheid van de minister heeft de velddirectie Voortgezet Onderwijs (VO) de zorg voor het onderwijsgebied voortgezet onderwijs en ndash onderhoudt contacten met de instellingen binnen dat gebied. De aspectdirectie heeft een beleidsontwikkelende functie voor een deel van het beleidsterrein (bijvoorbeeld arbeidsvoorwaarden).
 
@@ -174,7 +198,7 @@ De Grondwet, art. 23, heeft aan de Minister van Onderwijs de zorg voor het onder
 
 ### Hoofdstuk 3. , Selectie
 
-#### 3.1. Doelstelling van de selectie
+##### 3.1. Doelstelling van de selectie
 
 De selectie richt zich op de (administratieve) neerslag van het handelen door overheidsorganen, die vallen onder de werking van de Archiefwet 1995 4Archiefwet 1995, Wet van 28 april 1995 (Stb. 276), houdende vervanging van de Archiefwet 1962 (Stb. 313) en in verband daarmee wijziging van enige andere wetten.. De selectielijst is tot stand gekomen op grond van een wettelijk voorgeschreven procedure. Deze procedure, welke zijn grondslag heeft in art. 5 van de Archiefwet 1995, is neergelegd in de artikelen 2 tot en met 5 van het Archiefbesluit 1995, Stb. 671.
 
@@ -190,7 +214,7 @@ De gegevensbestanden kunnen zowel uit papieren als uit digitale documenten besta
 
 Indien de neerslag in aanmerking komt voor vernietiging dan vermeldt het BSD een V met een termijn. De termijn gaat in na expiratiedatum van de bescheiden of na afdoening van de neerslag, tenzij anders vermeld.
 
-#### 3.2. Selectiecriteria
+##### 3.2. Selectiecriteria
 
 Teneinde de selectiedoelstelling te operationaliseren zijn de in het Rapport Institutioneel Onderzoek geformuleerde handelingen gewogen aan de hand van de door PIVOT opgestelde selectiecriteria.
 
@@ -228,7 +252,7 @@ Bij de handelingen die met een V gewaardeerd worden, wordt zo mogelijk de termij
 
 ### A. Selectielijst betreffende het handelenvan de actor de Minister van Onderwijs
 
-#### 4.1. Beleid
+##### 4.1. Beleid
 
 Beleidsontwikkeling, evaluatie en verantwoording van beleid
 
@@ -434,7 +458,7 @@ Waardering: V 10 jaar
 
 NB Eén gedrukt eindexemplaar van het voorlichtingsmateriaal blijft bewaard
 
-#### 4.2. De inrichting van het onderwijs
+##### 4.2. De inrichting van het onderwijs
 
 Inrichting van het onderwijs, algemeen
 
@@ -1234,7 +1258,7 @@ Produkt: AMvB
 
 Waardering: B(5)
 
-#### 4.3. Toetsen en eindexamens
+##### 4.3. Toetsen en eindexamens
 
 Toetsen basisvorming
 
@@ -2298,7 +2322,7 @@ Produkt: ministeriële regeling
 
 Waardering: B(5)
 
-#### 4.4. Personeel
+##### 4.4. Personeel
 
 Directie
 
@@ -2824,7 +2848,7 @@ Produkt: beschikking
 
 Waardering: V 75 jaar na geboortedatum
 
-#### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
+##### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
 
 Openbaar onderwijs
 
@@ -3058,7 +3082,7 @@ Produkt: AMvB
 
 Waardering: B(5)
 
-#### 4.6. Bekostiging
+##### 4.6. Bekostiging
 
 Aanvang van bekostiging
 
@@ -5088,7 +5112,7 @@ Produkt: AMvB
 
 Waardering: B(1)
 
-#### 4.8. Les- en cursusgeld, tegemoetkoming in de kosten
+##### 4.8. Les- en cursusgeld, tegemoetkoming in de kosten
 
 Les- en cursusgeld
 
@@ -5230,7 +5254,7 @@ Produkt: besluit
 
 Waardering: B(1)
 
-#### 4.9. Handelingen met betrekking tot overgangswetgeving
+##### 4.9. Handelingen met betrekking tot overgangswetgeving
 
 RIO nr: 475
 
@@ -5594,7 +5618,7 @@ Produkt: evaluatierapport
 
 Waardering: B(2)
 
-#### 4.10. Overige handelingen
+##### 4.10. Overige handelingen
 
 Leerwegen, leerwegondersteunend- en praktijkonderwijs mavo, vbo, vso
 
@@ -5672,11 +5696,11 @@ NB: V 10 jaar
 
 ### B. Selectielijst met betrekking tot het handelen van de actor de inspectie van het onderwijs
 
-#### Beleid
+##### Beleid
 
 Beleidsontwikkeling, evaluatie en verantwoording van beleid
 
-#### 4.2. De inrichting van het onderwijs
+##### 4.2. De inrichting van het onderwijs
 
 RIO nr.: 38
 
@@ -5788,7 +5812,7 @@ Produkt: beschikking
 
 Waardering:
 
-#### 4.3. Toetsen en eindexamens
+##### 4.3. Toetsen en eindexamens
 
 -afwijkingen met betrekking tot het examen-
 
@@ -5850,7 +5874,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.4. Personeel
+##### 4.4. Personeel
 
 Leraren en niet-onderwijzend personeel
 
@@ -5888,7 +5912,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.6 Bekostiging
+##### 4.6 Bekostiging
 
 Medegebruik lokalen, gebouwen, terreinen of roerende zaken
 
@@ -5908,7 +5932,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.7 Toezicht
+##### 4.7 Toezicht
 
 RIO nr.: 440
 
@@ -6222,7 +6246,7 @@ Waardering:
 
 ### C. Selectielijst met betrekking tot het handelen van de actor de Onderwijsraad
 
-#### 4.1 Beleid
+##### 4.1 Beleid
 
 Beleidsontwikkeling, evaluatie en verantwoording van beleid
 
@@ -6246,7 +6270,7 @@ Totstandkoming van wet- en regelgeving
 
 Informatieverstrekking
 
-#### 4.2 De inrichting van het onderwijs
+##### 4.2 De inrichting van het onderwijs
 
 Inrichting van het onderwijs, algemeen
 
@@ -6464,7 +6488,7 @@ Leerwegen mavo en vbo, leerwegondersteunend en praktijkonderwijs
 
 Tweede fase havo-vwo
 
-#### 4.3 Toetsen en eindexamens
+##### 4.3 Toetsen en eindexamens
 
 Toetsen basisvorming
 
@@ -6722,7 +6746,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.4. Personeel
+##### 4.4. Personeel
 
 Directie
 
@@ -6932,7 +6956,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
+##### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
 
 Bijzonder onderwijs
 
@@ -6966,7 +6990,7 @@ Produkt: advies
 
 Waardering:
 
-#### 4.6. Bekostiging
+##### 4.6. Bekostiging
 
 Aanvang van bekostiging
 
@@ -7356,7 +7380,7 @@ Waardering: V 5 jaar
 
 ### F. Selectielijst met betrekking tot het handelen van de actor IBG
 
-#### 4.1. Beleid
+##### 4.1. Beleid
 
 Beleidsontwikkeling, evaluatie en verantwoording van beleid
 
@@ -7544,7 +7568,7 @@ Waardering:
 
 ### G. Selectielijst met betrekking tot het handelen van de actor de Minister van Landbouw
 
-#### 4.1. Beleid
+##### 4.1. Beleid
 
 Beleidsontwikkeling, evaluatie en verantwoording van beleid
 
@@ -7732,7 +7756,7 @@ Product: voorlichtingsplannen, voorlichtingsmateriaal
 
 Waardering:
 
-#### 4.2. De inrichting van het onderwijs
+##### 4.2. De inrichting van het onderwijs
 
 Inrichting van het onderwijs, algemeen
 
@@ -8338,7 +8362,7 @@ Waardering:
 
 Tweede fase havo-vwo
 
-#### 4.3. Toetsen en eindexamens
+##### 4.3. Toetsen en eindexamens
 
 Toetsen basisvorming
 
@@ -8808,7 +8832,7 @@ Produkt: AMvB,Staatsexamenbesluit
 
 Waardering:
 
-#### 4.4. Personeel
+##### 4.4. Personeel
 
 Directie
 
@@ -9338,7 +9362,7 @@ Produkt: beschikking
 
 Waardering:
 
-#### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
+##### 4.5. Handelingen voortkomend uit de overige regels voor het openbaar onderwijs en de voorwaarden voor bekostiging uit openbare kas van het bijzonder onderwijs
 
 Openbaar onderwijs
 
@@ -9580,7 +9604,7 @@ Produkt: AMvB
 
 Waardering:
 
-#### 4.6 Bekostiging
+##### 4.6 Bekostiging
 
 Aanvang, wijze en beëindiging van de bekostiging
 
@@ -11468,7 +11492,7 @@ Produkt: AMvB, KB van 14-12-1967, Stb. 668
 
 Waardering:
 
-#### 4.8. Les- en cursusgeld, tegemoetkoming in de kosten
+##### 4.8. Les- en cursusgeld, tegemoetkoming in de kosten
 
 Les- en cursusgeld
 
@@ -11612,7 +11636,7 @@ Produkt: besluit
 
 Waardering:
 
-#### 4.9. Handelingen met betrekking tot overgangswetgeving
+##### 4.9. Handelingen met betrekking tot overgangswetgeving
 
 RIO nr.: 475
 
@@ -11950,7 +11974,7 @@ Produkt: evaluatierapport
 
 Waardering:
 
-#### 4.10. Handelingen met betrekking tot leerwegen, leerwegondersteunend- en praktijkonderwijs mavo, vbo, vso
+##### 4.10. Handelingen met betrekking tot leerwegen, leerwegondersteunend- en praktijkonderwijs mavo, vbo, vso
 
 RIO nr.: 505
 

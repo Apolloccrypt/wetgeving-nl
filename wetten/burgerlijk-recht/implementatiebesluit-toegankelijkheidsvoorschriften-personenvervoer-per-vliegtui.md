@@ -1,13 +1,39 @@
 ---
-title: "Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water"
+title: "Besluit van 21 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor het personenvervoer per vliegtuig en over water ter implementatie van richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water)"
 identifier: "BWBR0049746"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049746"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049746"
+soort: "AMvB"
+stam_id: "17114503"
+version_id: "30121432"
+internal_id: "C43159781"
+label_id: "17023004"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049746/2025-06-28/0"
+intitule_bron: "Stb.2024-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-05-21"
+intitule_published: "2024-05-29"
+intitule_in_force: "2024-05-29"
+intitule_status: "goed"
+original_publication: "Stb.2024-139"
+original_signed_date: "2024-05-21"
+original_published_date: "2024-05-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-139"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0049746&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0049746&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water"
+signed_date: "2024-05-21"
+entry_into_force: "2025-06-28"
 ---
-
 # Besluit van 21 mei 2024, houdende regels betreffende toegankelijkheidsvoorschriften voor het personenvervoer per vliegtuig en over water ter implementatie van richtlijn (EU) 2019/882 van het Europees Parlement en de Raad van 17 april 2019 betreffende de toegankelijkheidsvoorschriften voor producten en diensten (Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water)
 
 Op de voordracht van Onze Minister van Infrastructuur en Waterstaat, van 13 juni 2023, nr. IENW/BSK-2023/143978, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Infrastructuur en Waterstaat, van
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -72,7 +98,7 @@ In dit besluit wordt verstaan onder:
 
 - **Unievervoerder:** een vervoerder die gevestigd is op het grondgebied van een lidstaat of vervoer aanbiedt per passagiersdienst naar of vanaf het grondgebied van een lidstaat.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Dit besluit is van toepassing op diensten voor personenvervoer per vliegtuig en over water met betrekking tot de volgende elementen:
 
@@ -98,17 +124,17 @@ In dit besluit wordt verstaan onder:
 
 - e. inhoud van websites en toepassingen op basis van mobiele apparaten die kunnen worden aangemerkt als archieven, waarvan de inhoud niet wordt bijgewerkt of aangepast na 28 juni 2025.
 
-#### Artikel 3. Toegankelijkheidsvoorschriften
+##### Artikel 3. Toegankelijkheidsvoorschriften
 
 1. De aangeboden diensten voor personenvervoer over water en per vliegtuig voldoen aan de toegankelijkheidsvoorschriften in afdeling III en afdeling IV, onderdeel c, bij bijlage I van de richtlijn.
 
 2. Micro-ondernemingen die diensten aanbieden zijn vrijgesteld van de voorschriften bedoeld in het eerste lid.
 
-#### Artikel 4. Verhouding met bestaande Uniewetgeving
+##### Artikel 4. Verhouding met bestaande Uniewetgeving
 
 Diensten die voldoen aan de voorschriften voor de verstrekking van toegankelijke informatie en van informatie over toegankelijkheid in de zin van de [Verordeningen (EG) nr. 261/2004](32004R0261), [(EG) nr. 1107/2006](32006R1107) en [(EU) nr. 1177/2010](32010R1177), worden vermoed aan de overeenkomstige voorschriften van dit besluit te voldoen tenzij [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049746&artikel=3&z=2025-06-28&g=2025-06-28), aanvullende voorschriften bevat.
 
-#### Artikel 5. Verplichtingen van dienstverleners
+##### Artikel 5. Verplichtingen van dienstverleners
 
 De dienstverleners zijn verplicht tot:
 
@@ -128,7 +154,7 @@ De dienstverleners zijn verplicht tot:
 
 - h. het onmiddellijk op de hoogte brengen van Onze Minister van Infrastructuur en Waterstaat, waarbij in het bijzonder de aard van de non-conformiteit en alle getroffen corrigerende maatregelen uitvoerig worden beschrijven.
 
-#### Artikel 6. Fundamentele wijziging van diensten en onevenredige last
+##### Artikel 6. Fundamentele wijziging van diensten en onevenredige last
 
 1. De in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049746&artikel=3&z=2025-06-28&g=2025-06-28) bedoelde toegankelijkheidsvoorschriften zijn uitsluitend van toepassing voor zover de naleving ervan:
 
@@ -152,7 +178,7 @@ De dienstverleners zijn verplicht tot:
 
 6. Dienstverleners, met uitzondering van micro-ondernemingen, die voor een specifieke dienst een beroep doen op het eerste lid, verstrekken informatie daartoe aan onze Minister van Infrastructuur en Waterstaat.
 
-#### Artikel 7. Vermoeden van conformiteit
+##### Artikel 7. Vermoeden van conformiteit
 
 1. Diensten die voldoen aan geharmoniseerde normen of delen daarvan waarvan de referenties in het **Publicatieblad van de Europese Unie** zijn bekendgemaakt, worden vermoed in overeenstemming te zijn met de toegankelijkheidsvoorschriften, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049746&artikel=3&z=2025-06-28&g=2025-06-28), voor zover deze normen of delen daarvan die voorschriften bestrijken.
 
@@ -162,17 +188,17 @@ De dienstverleners zijn verplicht tot:
 
 4. Diensten die in overeenstemming zijn met de geharmoniseerde normen en specificaties, of delen daarvan, die zijn vastgesteld overeenkomstig artikel 15 bij de richtlijn, worden vermoed in overeenstemming te zijn met het derde lid, voor zover deze normen en technische specificaties of delen daarvan aan de toegankelijkheidsvoorschriften van de richtlijn voldoen.
 
-#### Artikel 8. Omhangbepaling
+##### Artikel 8. Omhangbepaling
 
 Na de inwerkingtreding van de [Implementatiewet toegankelijkheidsvoorschriften producten en diensten](https://wetten.overheid.nl/jci1.3:c:BWBR0049571), berust dit besluit op [artikel 5c van de Wet gelijke behandeling op grond van handicap of chronische ziekte](https://wetten.overheid.nl/jci1.3:c:BWBR0014915&artikel=5c).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van 28 juni 2025.
 
 2. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0049746&artikel=8&z=2025-06-28&g=2025-06-28) in werking treedt.
 
-#### Artikel 10. Citeertitel
+##### Artikel 10. Citeertitel
 
 Dit besluit wordt aangehaald als: Implementatiebesluit toegankelijkheidsvoorschriften personenvervoer per vliegtuig en over water.
 

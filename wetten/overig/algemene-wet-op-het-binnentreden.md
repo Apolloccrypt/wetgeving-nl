@@ -1,14 +1,37 @@
 ---
-title: "Algemene wet op het binnentreden"
+title: "Wet van 22 juni 1994, tot vaststelling van de Algemene wet op het binnentreden"
 identifier: "BWBR0006763"
-categorie: "Overig"
-publicatiedatum: 2010-07-01
-laatste_update: 2010-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006763"
+country: "nl"
+rank: "wet"
+publication_date: "2010-07-01"
+last_updated: "2010-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006763"
+soort: "wet"
+stam_id: "1241963"
+version_id: "1830072"
+internal_id: "C1830071"
+label_id: "1202664"
+dtd_version: "2.0"
+original_entry_into_force: "1994-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006763/2010-07-01/0"
+intitule_bron: "Stb.1994-572"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-06-22"
+intitule_status: "goed"
+original_publication: "Stb.1994-572"
+original_signed_date: "1994-06-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "19073"
+entry_into_force_date: "1994-10-01"
+jci_1_3: "jci1.3:c:BWBR0006763&z=2010-07-01&g=2010-07-01"
+jci_1_0: "1.0:c:BWBR0006763&g=2010-07-01"
+citeertitel_status: "officieel"
+short_title: "Algemene wet op het binnentreden"
+signed_date: "1994-06-22"
+entry_into_force: "1994-10-01"
 ---
-
-# Algemene wet op het binnentreden
+# Wet van 22 juni 1994, tot vaststelling van de Algemene wet op het binnentreden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 #### § 1. Binnentreden in woningen in het algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Degene die bij of krachtens de wet belast is met de opsporing van strafbare feiten of enig ander onderzoek, met de uitvoering van een wettelijk voorschrift of met het toezicht op de naleving daarvan, dan wel een bevoegdheid tot vrijheidsbeneming uitoefent, en uit dien hoofde in een woning binnentreedt, is verplicht zich voorafgaand te legitimeren en mededeling te doen van het doel van het binnentreden. Indien twee of meer personen voor hetzelfde doel in een woning binnentreden, rusten deze verplichtingen slechts op degene die bij het binnentreden de leiding heeft.
 
@@ -30,7 +53,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 #### § 2. Binnentreden in woningen zonder toestemming van de bewoner
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een schriftelijke machtiging vereist, tenzij en voor zover bij wet aan rechters, rechterlijke colleges, leden van het openbaar ministerie, burgemeesters, gerechtsdeurwaarders en belastingdeurwaarders de bevoegdheid is toegekend tot het binnentreden in een woning zonder toestemming van de bewoner. De machtiging wordt zo mogelijk getoond.
 
@@ -38,7 +61,7 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 3. Een schriftelijke machtiging als bedoeld in het eerste lid is niet vereist, indien ter voorkoming of bestrijding van ernstig en onmiddellijk gevaar voor de veiligheid van personen of goederen terstond in de woning moet worden binnengetreden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bevoegd tot het geven van een machtiging tot binnentreden zijn:
 
@@ -52,11 +75,11 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 3. Degene die bevoegd is een machtiging te geven, gaat daartoe slechts over, indien het doel waartoe wordt binnengetreden het binnentreden zonder toestemming van de bewoner redelijkerwijs vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 De machtiging kan uitsluitend worden gegeven aan degene die bij of krachtens de wet bevoegd is verklaard zonder toestemming van de bewoners in een woning binnen te treden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De machtiging wordt gegeven voor het binnentreden in één in de machtiging te noemen woning. Zo nodig kan in de machtiging worden bepaald dat zij tevens geldt voor ten hoogste drie andere afzonderlijk te noemen woningen.
 
@@ -64,7 +87,7 @@ De machtiging kan uitsluitend worden gegeven aan degene die bij of krachtens de 
 
 3. Ten behoeve van de aanhouding, de medebrenging of de gevangenneming van een in de machtiging te noemen of, wanneer zijn naam onbekend is, zo duidelijk mogelijk aan te wijzen persoon onderscheidenlijk van de inbeslagneming van een in de machtiging te noemen of, wanneer dat niet mogelijk is, zo duidelijk mogelijk te omschrijven goed is de advocaat-generaal bij het ressortsparket of de officier van justitie bevoegd een machtiging te geven die geldt voor iedere woning waarin bedoelde persoon onderscheidenlijk bedoeld goed zich bevindt of verondersteld wordt zich te bevinden. Bij dringende noodzakelijkheid en indien het optreden van de advocaat-generaal of de officier van justitie niet kan worden afgewacht, komt de bevoegdheid tot het geven van een machtiging toe aan de hulpofficier van justitie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De machtiging is ondertekend en vermeldt:
 
@@ -78,23 +101,23 @@ De machtiging kan uitsluitend worden gegeven aan degene die bij of krachtens de 
 
 2. De machtiging blijft ten hoogste van kracht tot en met de derde dag na die waarop zij is gegeven. De [Algemene termijnwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Tussen middernacht en 6 uur ’s morgens kan slechts zonder toestemming van de bewoner worden binnengetreden, voor zover dit dringend noodzakelijk is en, indien krachtens een machtiging wordt binnengetreden, de machtiging dit uitdrukkelijk bepaalt.
 
 2. Bij afwezigheid van de bewoner kan slechts worden binnengetreden, voor zover dit dringend noodzakelijk is en, indien krachtens een machtiging wordt binnengetreden, de machtiging dit uitdrukkelijk bepaalt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene die de machtiging heeft gegeven, kan degene die bevoegd is binnen te treden, vergezellen.
 
 2. Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zich door anderen doen vergezellen, voor zover dit voor het doel van het binnentreden redelijkerwijs is vereist en, indien krachtens een machtiging wordt binnengetreden, de machtiging dit uitdrukkelijk bepaalt.
 
-#### Artikel 9
+##### Artikel 9
 
 Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zich de toegang tot of de doorgang in de woning verschaffen, voor zover het doel van het binnentreden dit redelijkerwijs vereist. Hij kan daartoe zo nodig de hulp van de sterke arm inroepen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Degene die zonder toestemming van de bewoner in een woning is binnengetreden, maakt op zijn ambtseed of -belofte een schriftelijk verslag op omtrent het binnentreden.
 
@@ -114,7 +137,7 @@ Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zi
 
 - g. voor zover van toepassing: de redenen waarom en de wijze waarop het bepaalde in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=2010-07-01&g=2010-07-01), dan wel [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), toepassing heeft gevonden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien krachtens een machtiging is binnengetreden, wordt het verslag uiterlijk op de vierde dag na die waarop in de woning is binnengetreden, toegezonden aan degene die de machtiging heeft gegeven. Is de machtiging gegeven door een hulpofficier van justitie, dan wordt het verslag ook aan de officier van justitie toegezonden. Indien overeenkomstig het bepaalde in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01), zonder machtiging is binnengetreden, wordt het verslag toegezonden aan de officier van justitie dan wel, voor zover is binnengetreden voor andere doeleinden dan strafvordering, aan de burgemeester.
 
@@ -122,7 +145,7 @@ Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zi
 
 #### § 3. Betreden van enkele bijzondere plaatsen
 
-#### Artikel 12
+##### Artikel 12
 
 In de gevallen waarin het binnentreden van plaatsen krachtens een wettelijke voorschrift is toegelaten, geschiedt dit buiten het geval van ontdekking op heterdaad niet:
 
@@ -134,15 +157,15 @@ In de gevallen waarin het binnentreden van plaatsen krachtens een wettelijke voo
 
 #### § 4. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=1&artikel=1&z=2010-07-01&g=2010-07-01) en [2 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&paragraaf=2&artikel=2&z=2010-07-01&g=2010-07-01) in de praktijk.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet kan worden aangehaald als Algemene wet op het binnentreden.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

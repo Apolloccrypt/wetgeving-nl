@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende inheemse en in stamverband levende volken in onafhankelijke landen"
 identifier: "BWBV0002087"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-02-02
-laatste_update: 1999-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002087"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-02-02"
+last_updated: "1999-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002087"
+soort: "verdrag"
+stam_id: "10002656643"
+version_id: "10002654132"
+internal_id: "C10006984841"
+label_id: "10002645594"
+dtd_version: "2.0"
+original_entry_into_force: "1999-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002087/1999-02-02/0"
+intitule_bron: "Trb.1990-39"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-02-02"
+intitule_published: "1990-03-09"
+intitule_in_force: "1998-02-18"
+intitule_status: "goed"
+original_publication: "Trb.1990-39"
+original_signed_date: "1998-02-02"
+original_published_date: "1990-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-39"
+entry_into_force_date: "1999-02-02"
+jci_1_3: "jci1.3:c:BWBV0002087&z=1999-02-02&g=1999-02-02"
+jci_1_0: "1.0:c:BWBV0002087&g=1999-02-02"
+citeertitel_status: "officieel"
+signed_date: "1998-02-02"
+entry_into_force: "1999-02-02"
 ---
-
 # Verdrag betreffende inheemse en in stamverband levende volken in onafhankelijke landen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -36,7 +61,7 @@ Aanvaardt heden, de zevenentwintigste juni van het jaar negentienhonderd negenen
 
 ## DEEL I. ALGEMEEN BELEID
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag is van toepassing op:
 
@@ -48,7 +73,7 @@ Aanvaardt heden, de zevenentwintigste juni van het jaar negentienhonderd negenen
 
 3. Het gebruik van de term „volken” in dit Verdrag kan op generlei wijze zo worden uitgelegd dat dit implicaties heeft ten aanzien van de rechten die ingevolge het internationale recht aan deze term zijn verbonden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Regeringen dragen de verantwoordelijkheid voor het ontwikkelen, met deelneming van de betrokken volken, van een gecoördineerd, systematisch beleid om de rechten van deze volken te beschermen en eerbiediging van hun integriteit te waarborgen.
 
@@ -60,13 +85,13 @@ Aanvaardt heden, de zevenentwintigste juni van het jaar negentienhonderd negenen
 
 - c. het helpen van de leden van de betrokken volken om de sociaal-economische verschillen die mogelijk bestaan tussen inheemse en andere leden van de nationale gemeenschap teniet te doen, op een wijze die verenigbaar is met hun aspiraties en hun leefwijze.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Inheemse en in stamverband levende volken dienen het volle genot te hebben van de rechten van de mens en de fundamentele vrijheden, zonder belemmering of discriminatie. De bepalingen van het Verdrag dienen zonder onderscheid te worden toegepast op mannen en vrouwen van deze volken.
 
 2. Er mag geen enkele vorm van geweld of dwang worden gebruikt waardoor de rechten van de mens en de fundamentele vrijheden van de betrokken volken, met inbegrip van de in dit Verdrag vervatte rechten, zouden worden geschonden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Waar nodig dienen speciale maatregelen te worden getroffen om de personen, de instellingen, de bezittingen, het werk, de cultuur en het leefmilieu van de betrokken volken veilig te stellen.
 
@@ -74,7 +99,7 @@ Aanvaardt heden, de zevenentwintigste juni van het jaar negentienhonderd negenen
 
 3. Het genot van de algemene burgerrechten, zonder onderscheid, mag op geen enkele wijze door zulke speciale maatregelen worden geschaad.
 
-#### Artikel 5
+##### Artikel 5
 
 Bij de toepassing van de bepalingen van dit Verdrag:
 
@@ -84,7 +109,7 @@ Bij de toepassing van de bepalingen van dit Verdrag:
 
 - c. dient een beleid te worden gevoerd dat is gericht op het verzachten van de moeilijkheden die deze volken ondervinden wanneer zij worden geconfronteerd met nieuwe leef- en werkomstandigheden, zulks met deelneming en medewerking van de betrokken volken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de toepassing van de bepalingen van dit Verdrag dienen de Regeringen:
 
@@ -96,7 +121,7 @@ Bij de toepassing van de bepalingen van dit Verdrag:
 
 2. Het ingevolge dit Verdrag gevoerde overleg dient in goed vertrouwen en in een bij de omstandigheden passende vorm te worden gevoerd ten einde overeenstemming omtrent of toestemming voor de voorgestelde maatregelen te bereiken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De betrokken volken dienen het recht te hebben zelf te beslissen wat hun prioriteiten zijn in het ontwikkelingsproces, waar dit van invloed is op hun leven, hun overtuigingen, instellingen en geestelijk welzijn en op het land dat zij bewonen of anderszins in gebruik hebben en dienen voorzover mogelijk zeggenschap te hebben over hun eigen economische, sociale en culturele ontwikkeling. Bovendien dienen zij deel te nemen aan de formulering, uitvoering en evaluatie van plannen en programma's voor nationale en regionale ontwikkeling, die hen rechtstreeks raken.
 
@@ -106,7 +131,7 @@ Bij de toepassing van de bepalingen van dit Verdrag:
 
 4. De Regeringen dienen, in samenwerking met de betrokken volken, maatregelen te treffen om het milieu van de gebieden die zij bewonen te beschermen en te behouden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de toepassing van de nationale wetten en voorschriften op de betrokken volken dient naar behoren rekening te worden gehouden met hun gewoonten of gewoonterecht.
 
@@ -114,35 +139,35 @@ Bij de toepassing van de bepalingen van dit Verdrag:
 
 3. De toepassing van het eerste en tweede lid van dit artikel verhindert de leden van deze volken niet de rechten uit te oefenen die aan alle burgers zijn verleend en de bijbehorende plichten op zich te nemen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Voor zover verenigbaar met het nationale rechtsstelsel en de internationaal erkende rechten van de mens, dienen de gewoonlijk door de betrokken volken toegepaste methoden om door hun leden begane vergrijpen aan te pakken, te worden geëerbiedigd.
 
 2. De autoriteiten en rechters die in strafzaken moeten beslissen, dienen rekening te houden met de gewoonten van deze volken ter zake.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij het opleggen van straffen aan leden van die volken, welke straffen zijn voorzien in de algemene wetgeving, dient rekening te worden gehouden met hun economische, sociale en culturele kenmerken.
 
 2. Voorkeur dient te worden gegeven aan andere methoden van bestraffing dan gevangenisstraf.
 
-#### Artikel 11
+##### Artikel 11
 
 Het dient verboden en bij de wet strafbaar gesteld te zijn om leden van deze volken te dwingen tot het verlenen van verplichte persoonlijke diensten in enigerlei vorm, al dan niet tegen betaling, behalve in de voor alle burgers geldende gevallen zoals bij de wet bepaald.
 
-#### Artikel 12
+##### Artikel 12
 
 De betrokken volken dienen te worden gevrijwaard voor schending van hun rechten en dienen in staat te zijn individueel of door tussenkomst van hun vertegenwoordigende organen, gerechtelijke stappen te ondernemen om deze rechten daadwerkelijk te beschermen. Er dienen maatregelen te worden getroffen om te verzekeren dat leden van deze volken in gerechtelijke procedures worden begrepen en deze kunnen begrijpen, waar nodig met behulp van een tolk of via andere doeltreffende middelen.
 
 ## DEEL II. LAND
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij de toepassing van de bepalingen van dit Deel van het Verdrag dienen de Regeringen het bijzondere belang voor de cultuur en de geestelijke waarden te eerbiedigen van de band die de betrokken volken hebben met het land of het grondgebied, of beide, al naar gelang, dat zij bewonen of anderszins gebruiken, met name waar het de collectieve aspecten van deze band betreft.
 
 2. Het gebruik van de term „land” in de artikelen 15 en 16 omvat tevens het begrip van grondgebieden waaronder de totale omgeving wordt verstaan van de gebieden die de betrokken volken bewonen of anderszins gebruiken.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De eigendoms- en bezitsrechten van de betrokken volken ter zake van het land dat zij van oudsher bewonen, dienen te worden erkend. Bovendien moeten in daarvoor in aanmerking komende gevallen maatregelen worden getroffen om het recht van de betrokken volken op het gebruik van land dat niet alleen door hen wordt bewoond, maar waartoe zij van oudsher toegang hebben om in hun levensonderhoud te voorzien en hun traditionele activiteiten uit te oefenen, te waarborgen. In het bijzonder dient in dit verband aandacht te worden geschonken aan de situatie van nomaden en rondtrekkende boeren.
 
@@ -150,13 +175,13 @@ De betrokken volken dienen te worden gevrijwaard voor schending van hun rechten 
 
 3. Er dienen toereikende procedures te worden ingevoerd binnen het nationale rechtsstelsel om te beslissen over aanspraken van de betrokken volken op land.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De rechten van de betrokken volken op de natuurlijke hulpbronnen die hun land rijk is, dienen in het bijzonder te worden zeker gesteld. Deze rechten omvatten het recht van deze volken deel te nemen aan het gebruik, het beheer en de bescherming van deze hulpbronnen.
 
 2. In gevallen waarin de Staat de eigendomsrechten bezit op minerale of onderaardse hulpbronnen of rechten op andere hulpbronnen verband houdende met land, dienen de Regeringen procedures in het leven te roepen of te hanteren door middel waarvan zij deze volken raadplegen, ten einde duidelijkheid te verkrijgen over de vraag of en in hoeverre hun belangen zouden worden geschaad, alvorens programma's voor exploratie of exploitatie van zulke hulpbronnen, die hun land rijk is, worden opgezet of toegestaan. De betrokken volken dienen, waar mogelijk, te delen in de voordelen van zulke activiteiten en moeten een eerlijke vergoeding ontvangen voor schade die zij zouden kunnen lijden als gevolg van dergelijke activiteiten.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onder voorbehoud van de volgende leden van dit artikel mogen de betrokken volken niet worden verwijderd van het land dat zij bewonen.
 
@@ -168,7 +193,7 @@ De betrokken volken dienen te worden gevrijwaard voor schending van hun rechten 
 
 5. Aldus elders gevestigde personen dienen een volledige vergoeding te ontvangen voor alle uit de hervestiging voortvloeiende verliezen of schade.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Door de betrokken volken opgestelde procedures voor de overdracht van rechten op land tussen leden van deze volken, dienen te worden geëerbiedigd.
 
@@ -176,11 +201,11 @@ De betrokken volken dienen te worden gevrijwaard voor schending van hun rechten 
 
 3. Personen die niet tot deze volken behoren, dient te worden belet misbruik te maken van hun gewoonten of van gebrek aan kennis van de wet van de zijde van hun leden om de eigendom, het bezit of het gebruik van hun toebehorend land te verwerven.
 
-#### Artikel 18
+##### Artikel 18
 
 Er dienen bij wet passende straffen te worden bepaald voor ongeoorloofd binnendringen in of gebruik van het land van de betrokken volken en de Regeringen dienen maatregelen te treffen om zulke vergrijpen te voorkomen.
 
-#### Artikel 19
+##### Artikel 19
 
 Nationale landbouwprogramma's moeten de betrokken volken dezelfde behandeling waarborgen als andere sectoren van de bevolking wordt toegekend met betrekking tot:
 
@@ -190,7 +215,7 @@ Nationale landbouwprogramma's moeten de betrokken volken dezelfde behandeling wa
 
 ## DEEL III. WERVING EN ARBEIDSVOORWAARDEN
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Regeringen dienen, in het kader van de nationale wetten en voorschriften en in samenwerking met de betrokken volken, speciale maatregelen aan te nemen om doeltreffende bescherming met betrekking tot werving en arbeidsvoorwaarden van tot die volken behorende arbeidskrachten te waarborgen, voor zover zij niet doeltreffend worden beschermd door voor arbeidskrachten in het algemeen geldende wetten.
 
@@ -218,11 +243,11 @@ Nationale landbouwprogramma's moeten de betrokken volken dezelfde behandeling wa
 
 ## DEEL IV. BEROEPSOPLEIDING, AMBACHTEN EN PLATTELANDSINDUSTRIEËN
 
-#### Artikel 21
+##### Artikel 21
 
 Leden van de betrokken volken dienen ten minste dezelfde kansen te krijgen als andere burgers op het gebied van maatregelen voor beroepsopleiding.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Er dienen maatregelen te worden getroffen om de vrijwillige deelneming van leden van de betrokken volken aan algemene programma's voor beroepsopleiding te bevorderen.
 
@@ -230,7 +255,7 @@ Leden van de betrokken volken dienen ten minste dezelfde kansen te krijgen als a
 
 3. Alle speciale opleidingsprogramma's dienen te zijn gebaseerd op het economische leefklimaat, de sociale en culturele omstandigheden en de praktische behoeften van de betrokken volken. Studies op dit gebied dienen te worden verricht in samenwerking met deze volken, die dienen te worden geraadpleegd omtrent de organisatie en de uitvoering van dergelijke programma's. Wanneer haalbaar, dienen deze volken geleidelijk de verantwoordelijkheid op zich te nemen voor de organisatie en de uitvoering van zulke speciale opleidingsprogramma's, mochten zij hiertoe besluiten.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Ambachten, industrieën ten plattelande en binnen de gemeenschap, traditionele en economische activiteiten, die uitsluitend toereikend zijn om in eigen onderhoud te voorzien, alsmede traditionele activiteiten van de betrokken volken, zoals jagen, vissen, jagen met behulp van vallen en verzamelen, dienen te worden erkend als belangrijke factoren in de instandhouding van hun cultuur en hun economische onafhankelijkheid en ontwikkeling. De Regeringen dienen, met deelneming van deze volken en wanneer passend, te verzekeren dat deze activiteiten worden versterkt en bevorderd.
 
@@ -238,11 +263,11 @@ Leden van de betrokken volken dienen ten minste dezelfde kansen te krijgen als a
 
 ## DEEL V. SOCIALE ZEKERHEID EN GEZONDHEIDSZORG
 
-#### Artikel 24
+##### Artikel 24
 
 Stelsels voor sociale zekerheid dienen geleidelijk te worden uitgebreid zodat zij ook gelden voor de betrokken volken en zonder onderscheid worden toegepast.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De Regeringen dienen ervoor te zorgen dat aan de betrokken volken toereikende gezondheidszorg ter beschikking wordt gesteld of zij dienen hun de middelen te verstrekken om hen in staat te stellen zulke diensten op te zetten en te verlenen onder eigen verantwoordelijkheid en beheer, zodat zij de hoogst mogelijke mate van lichamelijke en geestelijke gezondheid kunnen genieten.
 
@@ -254,11 +279,11 @@ Stelsels voor sociale zekerheid dienen geleidelijk te worden uitgebreid zodat zi
 
 ## DEEL VI. ONDERWIJS EN COMMUNICATIEMIDDELEN
 
-#### Artikel 26
+##### Artikel 26
 
 Er dienen maatregelen te worden getroffen om te waarborgen dat de leden van de betrokken volken de gelegenheid hebben onderwijs op alle niveaus te genieten, en wel ten minste op voet van gelijkheid met de rest van de nationale gemeenschap.
 
-#### Artikel 27
+##### Artikel 27
 
 1. In samenwerking met de betrokken volken dienen er voor hen onderwijsprogramma's en -diensten te worden ontwikkeld en uitgevoerd die beantwoorden aan hun specifieke behoeften en waarin zijn opgenomen hun geschiedenis, hun kennis en hun technologieën, hun waardestelsels en hun andere sociale, economische en culturele aspiraties.
 
@@ -266,7 +291,7 @@ Er dienen maatregelen te worden getroffen om te waarborgen dat de leden van de b
 
 3. Bovendien dienen de Regeringen het recht van deze volken op het oprichten van hun eigen onderwijsinstellingen en -voorzieningen te erkennen, mits zulke instellingen voldoen aan de door de bevoegde autoriteit in overleg met deze volken vastgestelde minimumnormen. Hiertoe dienen passende fondsen ter beschikking te worden gesteld.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Tot de betrokken volken behorende kinderen dienen, wanneer uitvoerbaar, te leren lezen en schrijven in hun eigen inheemse taal of in de taal die het meest algemeen wordt gebruikt binnen de groep waartoe zij behoren. Wanneer dit niet uitvoerbaar is, dienen de bevoegde autoriteiten met deze volken in overleg te treden om maatregelen te treffen om dit doel te bereiken.
 
@@ -274,29 +299,29 @@ Er dienen maatregelen te worden getroffen om te waarborgen dat de leden van de b
 
 3. Er dienen maatregelen te worden getroffen om de inheemse talen van de betrokken volken in stand te houden en de ontwikkeling en het gebruik ervan te bevorderen.
 
-#### Artikel 29
+##### Artikel 29
 
 Het onderwijs voor deze volken dient zich te richten op het overdragen van algemene kennis en het aanleren van vaardigheden die tot de betrokken volken behorende kinderen helpen ten volle en op voet van gelijkheid deel te nemen aan het leven binnen hun eigen gemeenschap en de nationale gemeenschap.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Regeringen dienen maatregelen te treffen die zijn afgestemd op de tradities en cultuur van de betrokken volken, ten einde hen bekend te maken met hun rechten en plichten, met name met betrekking tot arbeid, economische mogelijkheden, onderwijs- en gezondheidsaangelegenheden, sociale dienstverlening en hun uit dit Verdrag voortvloeiende rechten.
 
 2. Zo nodig dient dit te worden gedaan met behulp van schriftelijke vertalingen en door het gebruik van de massamedia in de talen van deze volken.
 
-#### Artikel 31
+##### Artikel 31
 
 In alle geledingen van de nationale gemeenschap, en wel met name onder degenen die het meest direct in contact staan met de betrokken volken, dienen onderwijskundige maatregelen te worden getroffen ten einde eventueel sluimerende vooroordelen jegens deze volken weg te nemen. Hiertoe dienen pogingen in het werk te worden gesteld om te verzekeren dat geschiedenisboeken en andere onderwijsmateriaal een eerlijk, juist en informatief beeld geven van de samenleving en cultuur van deze volken.
 
 ## DEEL VII. GRENSOVERSCHRIJDENDE CONTACTEN EN SAMENWERKING
 
-#### Artikel 32
+##### Artikel 32
 
 De Regeringen dienen passende maatregelen te treffen, ook door middel van internationale overeenkomsten, om grensoverschrijdende contacten en samenwerking tussen inheemse en in stammen levende volken, met inbegrip van activiteiten op economisch, sociaal, cultureel, geestelijk en milieutechnisch gebied, te vergemakkelijken.
 
 ## DEEL VIII. BEHEER
 
-#### Artikel 33
+##### Artikel 33
 
 1. De overheidsinstantie die verantwoordelijk is voor de in dit Verdrag aan de orde gestelde aangelegenheden, dient te waarborgen dat er instellingen of andere passende voorzieningen bestaan om de programma's die de betrokken volken betreffen, te beheren en dienen te waarborgen dat deze beschikken over de middelen die nodig zijn voor de juiste vervulling van de aan hen opgedragen taken.
 
@@ -308,25 +333,25 @@ De Regeringen dienen passende maatregelen te treffen, ook door middel van intern
 
 ## DEEL IX. ALGEMENE BEPALINGEN
 
-#### Artikel 34
+##### Artikel 34
 
 De aard en de reikwijdte van de maatregelen die moeten worden genomen om dit Verdrag ten uitvoer te leggen dienen op flexibele wijze te worden vastgesteld, rekening houdend met de eigen omstandigheden van ieder land.
 
-#### Artikel 35
+##### Artikel 35
 
 De toepassing van de bepalingen van dit Verdrag mag geen nadelige invloed hebben op de rechten en voordelen van de betrokken volken ingevolge andere overeenkomsten en aanbevelingen, internationale akten, verdragen of nationale wetten, uitspraken, gewoonten of afspraken.
 
 ## DEEL X. SLOTBEPALINGEN
 
-#### Artikel 36
+##### Artikel 36
 
 Dit Verdrag herziet het Verdrag inzake de inheemse bevolking en volksstammen, 1957.
 
-#### Artikel 37
+##### Artikel 37
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en worden door hem geregistreerd.
 
-#### Artikel 38
+##### Artikel 38
 
 1.
 
@@ -336,7 +361,7 @@ Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorga
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 39
+##### Artikel 39
 
 1.
 
@@ -344,21 +369,21 @@ Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een 
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen, na afloop van elke termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 41
+##### Artikel 41
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties, van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 42
+##### Artikel 42
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is een gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -368,7 +393,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 44
+##### Artikel 44
 
 De Engelse en de Franse versie van dit Verdrag zijn gelijkelijk gezaghebbend.
 

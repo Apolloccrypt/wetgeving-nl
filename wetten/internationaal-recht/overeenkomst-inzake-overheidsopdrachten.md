@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake overheidsopdrachten"
 identifier: "BWBV0003750"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-02-14
-laatste_update: 1988-02-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003750"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-02-14"
+last_updated: "1988-02-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003750"
+soort: "verdrag"
+stam_id: "10003693363"
+version_id: "10003753592"
+internal_id: "C10006980151"
+label_id: "10003678404"
+dtd_version: "2.0"
+original_entry_into_force: "1981-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003750/1988-02-14/0"
+intitule_bron: "Trb.1994-251"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1994-11-23"
+intitule_in_force: "1994-11-23"
+intitule_status: "goed"
+original_publication: "Trb.1994-251"
+original_published_date: "1994-11-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-251"
+entry_into_force_date: "1981-01-01"
+jci_1_3: "jci1.3:c:BWBV0003750&z=1988-02-14&g=1988-02-14"
+jci_1_0: "1.0:c:BWBV0003750&g=1988-02-14"
+citeertitel_status: "redactioneel"
+entry_into_force: "1981-01-01"
 ---
-
 # Overeenkomst inzake overheidsopdrachten
 
 Preamble
@@ -32,7 +54,7 @@ Recognizing the need to establish international procedures on notification, cons
 
 Hereby agree as follows:
 
-#### Article I. Scope and Coverage
+##### Article I. Scope and Coverage
 
 1. This Agreement applies to:
 
@@ -50,7 +72,7 @@ Hereby agree as follows:
 
 2. The Parties shall inform their entities not covered by this Agreement and the regional and local governments and authorities within their territories of the objectives, principles and rules of this Agreement, in particular the rules on national treatment and non-discrimination, and draw their attention to the overall benefits of liberalization of government procurement.
 
-#### Article II. National Treatment and Non-Discrimination
+##### Article II. National Treatment and Non-Discrimination
 
 1. With respect to all laws, regulations, procedures and practices regarding government procurement covered by this Agreement, the Parties shall provide immediately and unconditionally to the products and suppliers of other Parties offering products originating within the customs territories (including free zones) of the Parties, treatment no less favourable than:
 
@@ -68,7 +90,7 @@ Hereby agree as follows:
 
 4. The Parties shall not apply rules of origin to products imported for purposes of government procurement covered by this Agreement from other Parties which are different from the rules of origin applied in the normal course of trade and at the time of importation to imports of the same products from the same Parties.
 
-#### Article III. Special and Differential Treatment for Developing Countries
+##### Article III. Special and Differential Treatment for Developing Countries
 
 1. The Parties shall, in the implementation and administration of this Agreement, through the provisions set out in this Article, duly take into account the development, financial and trade needs of developing countries, in particular the least-developed countries, in their need to:
 
@@ -112,7 +134,7 @@ Hereby agree as follows:
 
 15. In the course of further rounds of negotiations in accordance with the provisions of Article IX, paragraph 6, the developing country Parties shall give consideration to the possibility of enlarging their lists of entities having regard to their economic, financial and trade situation.
 
-#### Article IV. Technical Specifications
+##### Article IV. Technical Specifications
 
 1. Technical specifications laying down the characteristics of the products to be procured such as quality, performance, safety and dimensions, testing and test methods, symbols, terminology, packaging, marking and labelling, and conformity certification requirements prescribed by procurement entities, shall not be prepared, adopted or applied with a view to creating obstacles to international trade nor have the effect of creating unnecessary obstacles to international trade.
 
@@ -126,7 +148,7 @@ Hereby agree as follows:
 
 4. Procurement entities shall not seek or accept, in a manner which would have the effect of precluding competition, advice which may be used in the preparation of specifications for a specific procurement from a firm that may have a commercial interest in the procurement.
 
-#### Article V. Tendering Procedures
+##### Article V. Tendering Procedures
 
 1. The Parties shall ensure that the tendering procedures of their entities are consistent with the provisions below. Open tendering procedures, for the purposes of this Agreement, are those procedures under which all interested suppliers may submit a tender. Selective tendering procedures, for the purposes of this Agreement, are those procedures under which, consistent with paragraph 8 and other relevant provisions of this Article, those suppliers invited to do so by the entity may submit a tender. Single tendering procedures, for the purposes of this Agreement, are those procedures where the entity contacts suppliers individually, only under the conditions specified in paragraph is below.
 
@@ -280,7 +302,7 @@ The entity shall publish in one of the official languages of the [GATT](onbekend
 
 17. Entities shall prepare a report in writing on each contract awarded under the provisions of paragraph 16 of this Article. Each report shall contain the name of the procuring entity, value and kind of goods procured, country of origin, and a statement of the conditions in paragraph 16 of this Article which prevailed. This report shall remain with the entities concerned at the disposal of the government authorities responsible for the entity in order that it may be used if required under the procedures of Articles VI and VII of this Agreement.
 
-#### Article VI. Information and Review
+##### Article VI. Information and Review
 
 1. Entities shall publish a notice in the appropriate publication listed in Annex II not later than sixty days after the award of a contract(s) under Article V:15 or 16.
 
@@ -328,7 +350,7 @@ These notices shall contain6)It is understood that certain information on the co
 
 - d). statistics, broken down by entities, on the number and total value of contracts awarded under derogations to the Agreement contained in Annex 1.
 
-#### Article VII. Enforcement of Obligations
+##### Article VII. Enforcement of Obligations
 
 1. There shall be established under this Agreement a Committee on Government Procurement (referred to in this Agreement as “the Committee”) composed of representatives from each of the Parties. This Committee shall elect its own Chairman and Vice-Chairman and shall meet as necessary but not less than once a year for the purpose of affording Parties the opportunity to consult on any matters relating to the operation of this Agreement or the furtherance of its objectives, and to carry out such other responsibilities as may be assigned to it by the Parties.
 
@@ -376,13 +398,13 @@ Any recommendations by the Committee shall aim at the positive resolution of the
 
 14. If the Committee’s recommendations are not accepted by a party, or parties, to the dispute, and if the Committee considers that the circumstances are serious enough to justify such action, it may authorize a Party or Parties to suspend in whole or in part, and for such time as may be necessary, the application of this Agreement to any other Party or Parties, as is determined to be appropriate in the circumstances.
 
-#### Article VIII. Exceptions to the Agreement
+##### Article VIII. Exceptions to the Agreement
 
 1. Nothing in this Agreement shall be construed to prevent any Party from taking any action or not disclosing any information which it considers necessary for the protection of its essential security interests relating to the procurement of arms, ammunition or war materials, or to procurement indispensable for national security or for national defence purposes.
 
 2. Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between countries where the same conditions prevail or a disguised restriction on international trade, nothing in this Agreement shall be construed to prevent any Party from imposing or enforcing measures necessary to protect public morals, order or safety, human, animal or plant life or health, intellectual property, or relating to the products of handicapped persons, of philanthropic institutions or of prison labour.
 
-#### Article IX. Final Provisions
+##### Article IX. Final Provisions
 
 1. **Acceptance and accession**
 

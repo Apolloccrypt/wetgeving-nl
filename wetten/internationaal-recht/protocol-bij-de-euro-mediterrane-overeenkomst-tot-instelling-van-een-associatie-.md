@@ -1,13 +1,38 @@
 ---
 title: "Protocol bij de Euro-mediterrane Overeenkomst tot instelling van een associatie tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie"
 identifier: "BWBV0001662"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-08-01
-laatste_update: 2004-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001662"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-08-01"
+last_updated: "2004-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001662"
+soort: "verdrag"
+stam_id: "10002053453"
+version_id: "10002131882"
+internal_id: "C10006996571"
+label_id: "10002043644"
+dtd_version: "2.0"
+original_entry_into_force: "2006-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001662/2006-08-01/0"
+intitule_bron: "Trb.2005-309"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-05-01"
+intitule_published: "2006-01-18"
+intitule_in_force: "2007-08-24"
+intitule_status: "goed"
+original_publication: "Trb.2005-309"
+original_signed_date: "2004-05-01"
+original_published_date: "2006-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2005-309"
+entry_into_force_date: "2006-08-01"
+jci_1_3: "jci1.3:c:BWBV0001662&z=2006-08-01&g=2006-08-01"
+jci_1_0: "1.0:c:BWBV0001662&g=2006-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-05-01"
+entry_into_force: "2006-08-01"
 ---
-
 # Protocol bij de Euro-mediterrane Overeenkomst tot instelling van een associatie tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, teneinde rekening te houden met de toetreding van de Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Hongarije, de Republiek Letland, de Republiek Litouwen, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek tot de Europese Unie
 
 Het Koninkrijk België,
@@ -82,27 +107,27 @@ Overeenkomstig artikel 22, lid 2, van de Euro-mediterrane Overeenkomst heeft ove
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Tsjechische Republiek, de Republiek Estland, de Republiek Cyprus, de Republiek Letland, de Republiek Litouwen, de Republiek Hongarije, de Republiek Malta, de Republiek Polen, de Republiek Slovenië en de Slowaakse Republiek worden partij bij de Europees-mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, en dienen op dezelfde wijze als de andere lidstaten van de Gemeenschap de teksten van de Europees-mediterrane Overeenkomst alsmede de gemeenschappelijke verklaringen, de eenzijdige verklaringen en de briefwisselingen goed te keuren en er nota van te nemen.
 
-#### Artikel 2
+##### Artikel 2
 
 Teneinde rekening te houden met recente institutionele ontwikkelingen in de Europese Unie komen de partijen overeen dat als gevolg van het verstrijken van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, de bestaande bepalingen in de Europees-mediterrane Overeenkomst die verwijzen naar de Europese Gemeenschap voor Kolen en Staal, geacht worden te verwijzen naar de Europese Gemeenschap, die alle rechten en verplichtingen van de Europese Gemeenschap voor Kolen en Staal heeft overgenomen.
 
 ### HOOFDSTUK I. WIJZIGINGEN IN DE EUROPEES-MEDITERRANE OVEREENKOMST, MET INBEGRIP VAN DE BIJLAGEN EN PROTOCOLLEN
 
-#### Artikel 3. Voorzitterschap van het Associatiecomité
+##### Artikel 3. Voorzitterschap van het Associatiecomité
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997
 
-#### Artikel 4. Oorsprongsregels
+##### Artikel 4. Oorsprongsregels
 
 Wijzigt de Euro-Mediterrane Overeenkomst waarbij een associatie tot stand wordt gebracht tussen de Europese Gemeenschappen en hun lidstaten, enerzijds, en het Hasjemitisch Koninkrijk Jordanië, anderzijds; Brussel, 24-11-1997
 
 ### HOOFDSTUK II. OVERGANGSBEPALINGEN
 
-#### Artikel 5. Bewijzen van oorsprong en administratieve samenwerking
+##### Artikel 5. Bewijzen van oorsprong en administratieve samenwerking
 
 1. Bewijzen van oorsprong die door Jordanië of een nieuwe lidstaat naar behoren zijn afgegeven in het kader van preferentiële overeenkomsten of autonome regelingen die tussen hen van toepassing zijn, worden in de respectieve landen uit hoofde van dit protocol aanvaard, op voorwaarde dat:
 
@@ -126,7 +151,7 @@ Deze vergunningen worden uiterlijk één jaar na de datum van toetreding vervang
 
 Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op grond van de in lid 1 en lid 2 bedoelde preferentiële overeenkomsten of autonome regelingen, moeten gedurende een periode van drie jaar na de afgifte van het betrokken bewijs van oorsprong door de bevoegde douaneautoriteiten van Jordanië of de lidstaten worden aanvaard en kunnen gedurende een periode van drie jaar na aanvaarding van het bewijs van oorsprong dat ter staving van een invoeraangifte aan die autoriteiten is voorgelegd, door die autoriteiten worden ingediend.
 
-#### Artikel 6. Goederen in douanevervoer
+##### Artikel 6. Goederen in douanevervoer
 
 1. De bepalingen van de Euro-mediterrane Overeenkomst kunnen worden toegepast op goederen die worden uitgevoerd uit Jordanië naar een van de nieuwe lidstaten of uit een van de nieuwe lidstaten naar Jordanië, die voldoen aan de bepalingen van Protocol nr. 3 en die op de datum van toetreding onderweg zijn of zich in tijdelijke opslag, in een douane-entrepot of in een vrije zone in Jordanië of in die nieuwe lidstaat bevinden.
 
@@ -134,31 +159,31 @@ Verzoeken om controle achteraf van bewijzen van oorsprong die zijn afgegeven op 
 
 ### HOOFDSTUK III. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 7
+##### Artikel 7
 
 Het Hasjemitische Koninkrijk Jordanië verbindt zich ertoe naar aanleiding van deze uitbreiding van de Gemeenschap geen claim, verzoek of beroep in te dienen, noch concessies te wijzigen of in te trekken op grond van de artikelen XXIV, lid 6, en XXVIII van de GATT 1994.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit protocol vormt een integrerend onderdeel van de Euro-mediterrane Overeenkomst.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit protocol wordt door de Europese Gemeenschap, door de Raad van de Europese Unie namens de lidstaten en door het Hasjemitische Koninkrijk Jordanië overeenkomstig hun respectieve procedures goedgekeurd.
 
 2. De akten van goedkeuring worden neergelegd bij het Secretariaat-generaal van de Raad van de Europese Unie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit protocol treedt in werking op de eerste dag van de eerste maand volgende op de datum waarop de laatste akte van goedkeuring van dit protocol is neergelegd.
 
 2. Dit protocol wordt voorlopig toegepast vanaf 1 mei 2004.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit protocol is opgesteld in tweevoud in de Tsjechische, de Deense, de Nederlandse, de Engelse, de Estse, de Finse, de Franse, de Duitse, de Griekse, de Hongaarse, de Italiaanse, de Letse, de Litouwse, de Maltese, de Poolse, de Portugese, de Slowaakse, de Sloveense, de Spaanse, de Zweedse en de Arabische taal, zijnde alle teksten gelijkelijk authentiek.
 
-#### Artikel 12
+##### Artikel 12
 
 De tekst van de Euro-mediterrane Overeenkomst met inbegrip van de bijlagen en protocollen die een integrerend onderdeel daarvan vormen, en de Slotakte samen met de daaraan gehechte verklaringen worden opgemaakt in de Tsjechische, de Estse, de Hongaarse, de Letse, de Litouwse, de Maltese, de Poolse, de Slowaakse en de Sloveense taal, alle teksten zijnde gelijkelijk authentiek als de oorspronkelijke teksten. De Associatieraad keurt deze teksten goed.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog"
+title: "Besluit van 6 maart 2020, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch technoloog (Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog)"
 identifier: "BWBR0043300"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043300"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043300"
+soort: "AMvB"
+stam_id: "15375393"
+version_id: "26577042"
+internal_id: "C37712541"
+label_id: "15320174"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043300/2023-01-01/0"
+intitule_bron: "Stb.2020-96"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-06"
+intitule_published: "2020-03-20"
+intitule_in_force: "2020-03-20"
+intitule_status: "goed"
+original_publication: "Stb.2020-96"
+original_signed_date: "2020-03-06"
+original_published_date: "2020-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-96"
+entry_into_force_date: "2020-04-01"
+jci_1_3: "jci1.3:c:BWBR0043300&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0043300&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog"
+signed_date: "2020-03-06"
+entry_into_force: "2020-04-01"
 ---
-
 # Besluit van 6 maart 2020, houdende regels inzake de opleiding tot en de deskundigheid van de klinisch technoloog (Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog)
 
 Op de voordracht van Onze Minister voor Medische Zorg van 10 februari 2020, kenmerk 1644168-201565-WJZ;
@@ -30,39 +56,39 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Opleiding
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister kan voor de inwerkingtreding van artikel I, onderdeel A, van de Wet van 24 april 2019, houdende wijziging van de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251) in verband met het opnemen van de klinisch technoloog in de lijst van registerberoepen en het toekennen van bepaalde voorbehouden handelingen aan klinisch technologen (Stb. 2019, 182) reeds besluiten op aanvragen tot inschrijving in het register voor klinisch technologen. Indien Onze Minister in dat geval besluit tot inschrijving, wordt de inschrijving van kracht met ingang van de datum van inwerkingtreding van artikel I, onderdeel A, als bedoeld in de eerste volzin.
 
 #### § 6. Overige bepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit buitenslands gediplomeerden volksgezondheid.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Registratiebesluit BIG.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 juli 2020, met uitzondering van [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=5&artikel=6&z=2023-01-01&g=2023-01-01), dat in werking treedt met ingang van 1 april 2020.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied klinisch technoloog.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder de wet: de [Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251).
 
-#### Artikel 2
+##### Artikel 2
 
 Om in het krachtens [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) ingestelde register van klinisch technologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen van een masteropleiding voor klinisch technoloog heeft afgelegd, welke opleiding is opgenomen in de Registratie instellingen en opleidingen, genoemd in [artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.13), en die voldoet aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01).
 
-#### Artikel 3
+##### Artikel 3
 
 De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), heeft een studielast van 10.080 studiebelastingsuren, omvat zowel theoretisch als praktisch onderwijs, en is erop gericht dat de betrokkene de competenties verwerft die betrekking hebben op het gebied van deskundigheid als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043300&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), ter zake van:
 
@@ -78,7 +104,7 @@ De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 - f. professionaliteit.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De competentie technisch-medische deskundigheid omvat de bekwaamheid om:
 
@@ -170,7 +196,7 @@ De opleiding, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 #### § 4. Deskundigheid
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tot het gebied van deskundigheid van de klinisch technoloog wordt gerekend het optimaliseren van bestaande technisch-medische handelingen alsmede het ontwerpen en ontwikkelen van nieuwe diagnostische methoden en therapieën met behulp van technologie én het verrichten van complexe technisch-medische handelingen binnen het technisch-medische deelgebied van de geneeskunst waarin de klinisch technoloog is opgeleid.
 

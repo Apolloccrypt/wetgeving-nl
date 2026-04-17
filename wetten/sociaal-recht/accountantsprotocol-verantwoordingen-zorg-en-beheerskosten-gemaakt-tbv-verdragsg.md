@@ -1,13 +1,38 @@
 ---
 title: "Accountantsprotocol Verantwoordingen Zorg- en beheerskosten gemaakt t.b.v. verdragsgerechtigden"
 identifier: "BWBR0042617"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-10-08
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042617"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-10-08"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042617"
+soort: "zbo"
+stam_id: "15177293"
+version_id: "26027832"
+internal_id: "C37066541"
+label_id: "15124704"
+dtd_version: "2.0"
+original_entry_into_force: "2019-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042617/2019-10-08/0"
+intitule_bron: "Stcrt.2019-53534"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-16"
+intitule_published: "2019-10-07"
+intitule_in_force: "2019-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-53534"
+original_signed_date: "2019-07-16"
+original_published_date: "2019-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-53534"
+entry_into_force_date: "2019-10-08"
+jci_1_3: "jci1.3:c:BWBR0042617&z=2019-10-08&g=2019-10-08"
+jci_1_0: "1.0:c:BWBR0042617&g=2019-10-08"
+citeertitel_status: "redactioneel"
+signed_date: "2019-07-16"
+entry_into_force: "2019-10-08"
 ---
-
 # Accountantsprotocol Verantwoordingen Zorg- en beheerskosten gemaakt t.b.v. verdragsgerechtigden
 
 **Zorg- en beheerskosten gemaakt in Nederland t.b.v. gerechtigden t.l.v. het buitenland.**

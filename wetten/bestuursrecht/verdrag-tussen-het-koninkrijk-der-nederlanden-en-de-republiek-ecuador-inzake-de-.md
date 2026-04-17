@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake de export en handhaving van socialezekerheidsuitkeringen"
 identifier: "BWBV0001572"
-categorie: "Bestuursrecht"
-publicatiedatum: 2006-11-01
-laatste_update: 2003-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001572"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-11-01"
+last_updated: "2003-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001572"
+soort: "verdrag"
+stam_id: "10001402513"
+version_id: "10001472012"
+internal_id: "C10006995091"
+label_id: "10001402754"
+dtd_version: "2.0"
+original_entry_into_force: "2006-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001572/2006-11-01/0"
+intitule_bron: "Trb.2003-108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-02-01"
+intitule_published: "2003-07-04"
+intitule_in_force: "2006-10-31"
+intitule_status: "goed"
+original_publication: "Trb.2003-108"
+original_signed_date: "2003-02-01"
+original_published_date: "2003-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-108"
+entry_into_force_date: "2006-11-01"
+jci_1_3: "jci1.3:c:BWBV0001572&z=2006-11-01&g=2006-11-01"
+jci_1_0: "1.0:c:BWBV0001572&g=2006-11-01"
+citeertitel_status: "redactioneel"
+signed_date: "2003-02-01"
+entry_into_force: "2006-11-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake de export en handhaving van socialezekerheidsuitkeringen
 
 De Republiek Ecuador
@@ -24,7 +49,7 @@ Gelet op de intentie van Nederland de Nederlandse socialezekerheidsuitkeringen t
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. Ten behoeve van dit Verdrag wordt verstaan onder:
 
@@ -46,7 +71,7 @@ Zijn het volgende overeengekomen:
 
 2. Andere in dit Verdrag gebruikte termen of uitdrukkingen hebben de betekenis die daaraan in de van toepassing zijnde wetgeving wordt gegeven.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 1. Dit Verdrag is van toepassing op de Nederlandse wetgeving inzake de sociale bijstand en op de volgende takken van sociale zekerheid:
 
@@ -64,11 +89,11 @@ Zijn het volgende overeengekomen:
 
 2. Dit Verdrag is tevens van toepassing op toekomstige wetgeving ter aanvulling op of wijziging van de in het vorige lid genoemde uitkeringen.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op elke uitkeringsgerechtigde als op zijn rechthebbenden en gezinsleden voor zover zij wonen of verblijven op het grondgebied van de Verdragsluitende Partijen.
 
-#### Artikel 4. Export van uitkeringen
+##### Artikel 4. Export van uitkeringen
 
 1. Het feit dat de uitkeringsgerechtigde of een lid van zijn gezin woont of verblijft op het grondgebied van een van de Verdragsluitende Partijen vormt geen belemmering voor de uitbetaling van de uitkeringen binnen het kader van dit Verdrag.
 
@@ -76,13 +101,13 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 3. Het bepaalde in het vorige lid heeft geen betrekking op de Nederlandse wetgeving die beperkingen stelt aan de uitbetaling van uitkeringen aan kinderen die wonen of verblijven buiten het grondgebied van Nederland, of hen daarvan uitsluit.
 
-#### Artikel 5. Identificatie
+##### Artikel 5. Identificatie
 
 1. Teneinde het recht op het ontvangen van uitkeringen en de rechtmatigheid van betalingen krachtens de Nederlandse wetgeving te verifiëren, is een uitkeringsgerechtigde, zijn gezinslid of rechthebbende verplicht zich te identificeren door overlegging van een officieel identiteitsbewijs aan de bevoegde instantie in Ecuador.
 
 2. Als officieel identiteitsbewijs wordt aangemerkt een paspoort of enig ander identiteitsdocument dat is afgegeven door het uitvoeringsorgaan van Ecuador. De bevoegde instantie van Ecuador stelt het bevoegd orgaan van Nederland ervan in kennis dat de identiteit van de uitkeringsgerechtigde, zijn gezinslid of rechthebbende is geverifieerd door overlegging van het officiële identiteitsbewijs en stuurt bovendien een gewaarmerkt afschrift van dit document toe.
 
-#### Artikel 6. Verificatie van het recht op het ontvangen van uitkeringen en de rechtmatigheid van betalingen
+##### Artikel 6. Verificatie van het recht op het ontvangen van uitkeringen en de rechtmatigheid van betalingen
 
 1. Ten behoeve van dit Verdrag omvat de informatie gegevens met betrekking tot identiteit, adres, gezin, werk, opleiding, inkomen, bezit, gezondheid, overlijden en hechtenis van de uitkeringsgerechtigde, zijn rechthebbenden en gezinsleden.
 
@@ -96,7 +121,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 6. Voor de uitvoering van dit Verdrag verlenen de uitvoeringsorganen kosteloos hun medewerking en ondersteuning. De bevoegde autoriteiten kunnen evenwel overeenkomen dat bepaalde kosten worden vergoed.
 
-#### Artikel 7. Geneeskundige onderzoeken
+##### Artikel 7. Geneeskundige onderzoeken
 
 1. Op verzoek van het bevoegde orgaan van Nederland draagt het bevoegde orgaan van Ecuador zorg voor het uitvoeren van de geneeskundige onderzoeken van uitkeringsgerechtigden, hun gezinsleden en rechthebbenden die wonen of verblijven op Ecuadoraans grondgebied.
 
@@ -106,7 +131,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 4. De kosten van de in dit artikel genoemde onderzoeken en, naar gelang van het geval, de uitgaven voor reis en verblijf dienen te worden voldaan door het bevoegde orgaan van Nederland.
 
-#### Artikel 8. Terugvordering van onverschuldigde betalingen en administratieve boetes
+##### Artikel 8. Terugvordering van onverschuldigde betalingen en administratieve boetes
 
 1. Elke voor tenuitvoerlegging vatbare uitspraak van een rechtbank of een bevoegd orgaan van Nederland betreffende de terugvordering van het bedrag van onverschuldigd betaalde uitkeringen en administratieve boetes op grond van Nederlandse wetgeving wordt door Ecuador erkend.
 
@@ -118,7 +143,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 5. Erkenning van de uitspraken gedaan door een rechtbank of een bevoegd orgaan van Nederland overeenkomstig het eerste, tweede en derde lid van dit artikel en in overeenstemming met de Nederlandse wetgeving, inzake de bepalingen van artikel 2 van dit Verdrag, leidt voor de Republiek Ecuador en haar organen nooit tot betaling van enig bedrag voor hun rekening.
 
-#### Artikel 9. Inning van premies en administratieve boetes
+##### Artikel 9. Inning van premies en administratieve boetes
 
 1. Elke voor tenuitvoerlegging vatbare uitspraak van een rechtbank of een bevoegd orgaan van Nederland betreffende de inning van premies en administratieve boetes op grond van Nederlandse wetgeving wordt door Ecuador erkend.
 
@@ -128,7 +153,7 @@ Tenzij in dit Verdrag anders is bepaald, is dit Verdrag zowel van toepassing op 
 
 4. De erkenning van uitspraken gedaan door een rechtbank of een bevoegd orgaan van Nederland overeenkomstig de vorige leden van dit artikel en in overeenstemming met de Nederlandse wetgeving, inzake de bepalingen van artikel 2 van dit Verdrag, leidt voor de Republiek Ecuador en haar organen nooit tot betaling van enig bedrag voor hun rekening.
 
-#### Artikel 10. Weigering, opschorting en intrekking van uitkeringen
+##### Artikel 10. Weigering, opschorting en intrekking van uitkeringen
 
 Het bevoegde orgaan van Nederland kan een uitkering weigeren, opschorten of intrekken indien:
 
@@ -136,21 +161,21 @@ Het bevoegde orgaan van Nederland kan een uitkering weigeren, opschorten of intr
 
 - b. als het bevoegde orgaan van Ecuador, binnen een termijn van drie maanden gerekend vanaf de datum van het verzoek, geen informatie verstrekt of niet voldoet aan het bepaalde in de artikelen 5, 6, tweede lid, en 7, eerste lid, van dit Verdrag.
 
-#### Artikel 11. Bescherming van gegevens
+##### Artikel 11. Bescherming van gegevens
 
 1. Wanneer ten behoeve van de toepassing van dit Verdrag de bevoegde autoriteiten, de bevoegde organen of de uitvoeringsorganen van een Verdragsluitende Partij persoonsgegevens mededelen aan de bevoegde autoriteiten, de bevoegde organen of aan de diplomatieke en consulaire vertegenwoordigers van de andere Verdragsluitende Partij, is die mededeling onderworpen aan de door de Verdragsluitende Partij die de gegevens verstrekt vastgestelde wettelijke bepalingen inzake de bescherming van gegevens. Elke daarop volgende overdracht, dan wel opslag, wijziging of vernietiging van de gegevens is onderworpen aan de bepalingen van de wetgeving inzake bescherming van gegevens van de ontvangende Verdragsluitende Partij.
 
 2. Het gebruik van persoonsgegevens voor andere doeleinden dan die van sociale zekerheid is onderworpen aan de goedkeuring van de betrokken persoon of aan andere waarborgen waarin de nationale wetgeving voorziet.
 
-#### Artikel 12. Uitvoering van het Verdrag
+##### Artikel 12. Uitvoering van het Verdrag
 
 De bevoegde organen van beide Verdragsluitende Partijen kunnen, door middel van aanvullende akkoorden, maatregelen vaststellen voor de uitvoering van dit Verdrag.
 
-#### Artikel 13. Beslechting van geschillen
+##### Artikel 13. Beslechting van geschillen
 
 De bevoegde organen van beide Verdragsluitende Partijen lossen verschillen betreffende de interpretatie en toepassing van dit Verdrag door middel van onderhandelingen op.
 
-#### Artikel 14. Inwerkingtreding van dit Verdrag en eenzijdige verklaring van het Koninkrijk der Nederlanden
+##### Artikel 14. Inwerkingtreding van dit Verdrag en eenzijdige verklaring van het Koninkrijk der Nederlanden
 
 1. De Verdragsluitende Partijen stellen elkaar schriftelijk in kennis van de voltooiing van hun respectieve wettelijke of grondwettelijke procedures vereist voor de inwerkingtreding van dit Verdrag.
 
@@ -158,11 +183,11 @@ De bevoegde organen van beide Verdragsluitende Partijen lossen verschillen betre
 
 3. Het Koninkrijk der Nederlanden voert artikel 4 van dit Verdrag eenzijdig en voorlopig uit vanaf de eerste dag van de tweede maand volgend op de datum van ondertekening van dit Verdrag.
 
-#### Artikel 15. Toepassing van het Verdrag
+##### Artikel 15. Toepassing van het Verdrag
 
 Met betrekking tot het Koninkrijk der Nederlanden is dit Verdrag slechts van toepassing op het grondgebied van het Koninkrijk in Europa.
 
-#### Artikel 16. Duur van het Verdrag
+##### Artikel 16. Duur van het Verdrag
 
 Dit Verdrag kan te allen tijde door elk van beide Verdragsluitende Partijen schriftelijk worden opgezegd. In het geval van opzegging blijven de bepalingen van dit Verdrag van kracht tot het eind van het kalenderjaar volgend op het jaar waarin de andere Verdragsluitende Partij de kennisgeving van opzegging heeft ontvangen.
 

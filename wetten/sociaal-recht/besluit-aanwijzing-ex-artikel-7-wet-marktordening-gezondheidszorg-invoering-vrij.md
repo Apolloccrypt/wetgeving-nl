@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering vrije tarieven mondzorg)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072981 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering vrije tarieven mondzorg"
 identifier: "BWBR0030324"
-categorie: "Sociaal recht"
-publicatiedatum: 2011-07-29
-laatste_update: 2011-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030324"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2011-07-29"
+last_updated: "2011-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030324"
+soort: "ministeriele-regeling"
+stam_id: "11417143"
+version_id: "18740912"
+internal_id: "C26146021"
+label_id: "11390664"
+dtd_version: "2.0"
+original_entry_into_force: "2011-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030324/2011-07-29/0"
+intitule_bron: "Stcrt.2011-13947"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-07-21"
+intitule_published: "2011-07-29"
+intitule_in_force: "2011-07-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-13947"
+original_signed_date: "2011-07-21"
+original_published_date: "2011-07-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-13947"
+entry_into_force_date: "2011-07-29"
+jci_1_3: "jci1.3:c:BWBR0030324&z=2011-07-29&g=2011-07-29"
+jci_1_0: "1.0:c:BWBR0030324&g=2011-07-29"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (invoering vrije tarieven mondzorg)"
+signed_date: "2011-07-21"
+entry_into_force: "2011-07-29"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, nr. MC-U-3072981 op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake invoering vrije tarieven mondzorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -20,7 +46,7 @@ Gelet op mijn inbreng van 5 juli 2011 voor het verslag van het schriftelijk over
 
 Besluit:
 
-#### Artikel 1. werkingssfeer
+##### Artikel 1. werkingssfeer
 
 Deze aanwijzing is van toepassing op mondzorg, met uitzondering van chirurgische tandheelkundige hulp van specialistische aard:
 
@@ -28,11 +54,11 @@ Deze aanwijzing is van toepassing op mondzorg, met uitzondering van chirurgische
 
 - b. verleend door personen, ingeschreven in een register als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=3) of [artikel 34 van de Wet op de beroepen in de individuele gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0006251&artikel=34) voor zover het betreft handelingen of werkzaamheden die niet zijn begrepen onder a.
 
-#### Artikel 2. uitvoering van de aanwijzing
+##### Artikel 2. uitvoering van de aanwijzing
 
 Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (verder zorgautoriteit genoemd) waar nodig beleidsregels of regels vast.
 
-#### Artikel 3. prestaties en tariefsoort
+##### Artikel 3. prestaties en tariefsoort
 
 1. De zorgautoriteit stelt met ingang van 1 januari 2012 prestatiebeschrijvingen vast voor de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0030324&artikel=1&z=2011-07-29&g=2011-07-29) bedoelde zorg.
 
@@ -40,10 +66,10 @@ Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit (verder z
 
 3. Uiterlijk 1 juli 2014 besluit ik of de periode bedoeld in het tweede lid al dan niet wordt verlengd.
 
-#### Artikel 4. monitor
+##### Artikel 4. monitor
 
 De zorgautoriteit monitort systematisch de markteffecten van het vrijgeven van de tarieven voor mondzorg op de kwaliteit, toegankelijkheid en betaalbaarheid van die zorg en informeert de minister hierover op nader af te spreken wijze en tijdstippen. De zorgautoriteit meet in de monitor de veranderingen ten opzichte van 1 januari 2012.
 
-#### Artikel 5. inwerkingtreding en publicatie
+##### Artikel 5. inwerkingtreding en publicatie
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.

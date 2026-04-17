@@ -1,13 +1,39 @@
 ---
-title: "Warenwetregeling residuen van bestrijdingsmiddelen"
+title: "Regeling Residuen van bestrijdingsmiddelen"
 identifier: "BWBR0003658"
-categorie: "Overig"
-publicatiedatum: 2016-07-20
-laatste_update: 2016-07-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003658"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-07-20"
+last_updated: "2016-07-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003658"
+soort: "ministeriele-regeling"
+stam_id: "5371283"
+version_id: "11681462"
+internal_id: "C15743441"
+label_id: "5346814"
+dtd_version: "2.0"
+original_entry_into_force: "2005-02-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003658/2016-07-20/0"
+intitule_bron: "Stcrt.1984-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1984-01-31"
+intitule_published: "1984-03-15"
+intitule_in_force: "1984-03-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-41"
+original_signed_date: "2005-02-18"
+original_published_date: "2005-02-28"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2005-41-p17-SC68990"
+entry_into_force_date: "2005-02-18"
+jci_1_3: "jci1.3:c:BWBR0003658&z=2016-07-20&g=2016-07-20"
+jci_1_0: "1.0:c:BWBR0003658&g=2016-07-20"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling residuen van bestrijdingsmiddelen"
+signed_date: "2005-02-18"
+entry_into_force: "2005-02-18"
 ---
-
 # Regeling Residuen van bestrijdingsmiddelen
 
 Gelet op [artikel 1 van het Residubesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002449&artikel=1) (Stb. 1964, 319)1Laatstelijk gewijzigd bij besluit van 23 april 1975 (Stcrt. 250).,
@@ -16,7 +42,7 @@ Gehoord de Bestrijdingsmiddelencommissie;
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De uit een oogpunt van volksgezondheid en goed landbouwkundig gebruik toelaatbare hoeveelheid van bestrijdingsmiddelen, bestanddelen daarvan of omzettingsproducten, aanwezig op of in:
 
@@ -36,15 +62,15 @@ Besluiten:
 
 3. Deze regeling is niet van toepassing op bestrijdingsmiddelenresiduen die vallen onder de werkingssfeer van verordening (EG) 396/2005.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij de vaststelling van het ingevolge [Bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=II&z=2016-07-20&g=2016-07-20) toegelaten maximumgehalte dienen de bepalingen in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0003658&bijlage=I&z=2016-07-20&g=2016-07-20) in acht te worden genomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Producten, bedoeld in artikel 49, eerste lid, van verordening (EG) 396/2005, voldoen aan de Warenwetregeling residuen van bestrijdingsmiddelen zoals die onmiddellijk voor 1 september 2008 luidde.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: Warenwetregeling residuen van bestrijdingsmiddelen.
 
@@ -964,7 +990,7 @@ Door vernummering vervallen.
 
 ## Bijlage II
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 

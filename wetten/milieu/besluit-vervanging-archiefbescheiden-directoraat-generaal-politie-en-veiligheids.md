@@ -1,36 +1,58 @@
 ---
 title: "Besluit Vervanging archiefbescheiden Directoraat-Generaal Politie en Veiligheidsregio’s ter uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021"
 identifier: "BWBR0051175"
-categorie: "Milieu"
-publicatiedatum: 2025-07-03
-laatste_update: 2025-07-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051175"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-03"
+last_updated: "2025-07-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051175"
+soort: "ministeriele-regeling"
+stam_id: "17459643"
+version_id: "30793322"
+internal_id: "C44302401"
+label_id: "17362114"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051175/2025-07-03/0"
+intitule_bron: "Stcrt.2025-17667"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-07-02"
+intitule_in_force: "2025-07-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-17667"
+original_published_date: "2025-07-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-17667"
+entry_into_force_date: "2025-07-03"
+jci_1_3: "jci1.3:c:BWBR0051175&z=2025-07-03&g=2025-07-03"
+jci_1_0: "1.0:c:BWBR0051175&g=2025-07-03"
+citeertitel_status: "officieel"
+entry_into_force: "2025-07-03"
 ---
-
 # Besluit Vervanging archiefbescheiden Directoraat-Generaal Politie en Veiligheidsregio’s ter uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021
 
 gelet op [artikel 7 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=7), [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=2) en [6 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=6), [artikel 26b van de Archiefregeling 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&artikel=26b), de [Archiefbeheerregels Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035264) en de [Uitvoeringsregeling Archiefbeheer Veiligheid en Justitie 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0036548);
 
 besluit
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 Dit besluit heeft betrekking op de fysieke archiefbescheiden van de aanvraag als bedoeld in de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967). Het betreft de fysieke archiefbescheiden uit categorie 13.5 van het geldende basisselectielijstdocument van het Ministerie van Justitie en Veiligheid 2021 (Staatscourant d.d. 24-01-2021 nr. 135) die door de Kredietbank Limburg zijn ontvangen ten behoeve van de beslissing op voormelde aanvraag.
 
-#### Artikel 2
+##### Artikel 2
 
 De fysieke archiefbescheiden als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051175&artikel=1&z=2025-07-03&g=2025-07-03) worden digitaal vervangen en opgeslagen overeenkomstig het ‘Handboek vervanging archiefbescheiden Directoraat- Generaal Politie en Veiligheidsregio’s: Uitvoering Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021’.
 
-#### Artikel 3
+##### Artikel 3
 
 De vervangen archiefbescheiden blijven in het bezit van de aanvrager als bedoeld in de [Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0049967).
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2024.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Vervanging archiefbescheiden Directoraat-Generaal Politie en Veiligheidsregio’s ter uitvoering van de Beleidsregel financiële nood als gevolg van de wateroverlast in juli 2021.
 

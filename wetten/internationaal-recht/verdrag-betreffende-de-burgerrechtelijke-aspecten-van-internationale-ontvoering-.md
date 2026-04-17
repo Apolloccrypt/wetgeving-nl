@@ -1,13 +1,38 @@
 ---
 title: "Verdrag betreffende de burgerrechtelijke aspecten van internationale ontvoering van kinderen"
 identifier: "BWBV0002010"
-categorie: "Internationaal recht"
-publicatiedatum: 1990-09-01
-laatste_update: 1990-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002010"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-09-01"
+last_updated: "1990-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002010"
+soort: "verdrag"
+stam_id: "10002613653"
+version_id: "10002611042"
+internal_id: "C10006979071"
+label_id: "10002603294"
+dtd_version: "2.0"
+original_entry_into_force: "1990-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002010/1990-09-01/0"
+intitule_bron: "Trb.1987-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-12"
+intitule_published: "1987-09-15"
+intitule_in_force: "1990-07-09"
+intitule_status: "goed"
+original_publication: "Trb.1987-139"
+original_signed_date: "1990-06-12"
+original_published_date: "1987-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-139"
+entry_into_force_date: "1990-09-01"
+jci_1_3: "jci1.3:c:BWBV0002010&z=1990-09-01&g=1990-09-01"
+jci_1_0: "1.0:c:BWBV0002010&g=1990-09-01"
+citeertitel_status: "redactioneel"
+signed_date: "1990-06-12"
+entry_into_force: "1990-09-01"
 ---
-
 # Verdrag betreffende de burgerrechtelijke aspecten van internationale ontvoering van kinderen
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -20,7 +45,7 @@ Hebben besloten daartoe een Verdrag te sluiten en zijn overeengekomen als volgt:
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 Dit Verdrag heeft tot doel:
 
@@ -28,11 +53,11 @@ Dit Verdrag heeft tot doel:
 
 - b). het in een Verdragsluitende Staat bestaande recht betreffende het gezag en het omgangsrecht in de andere Verdragsluitende Staten daadwerkelijk te doen eerbiedigen.
 
-#### Artikel 2
+##### Artikel 2
 
 De Verdragsluitende Staten nemen alle passende maatregelen om de doelstellingen van het Verdrag binnen hun grondgebied te verwezenlijken. Hiertoe dienen zij van de snelst mogelijke procedures gebruik te maken.
 
-#### Artikel 3
+##### Artikel 3
 
 Het overbrengen of het niet doen terugkeren van een kind wordt als ongeoorloofd beschouwd, wanneer:
 
@@ -42,11 +67,11 @@ Het overbrengen of het niet doen terugkeren van een kind wordt als ongeoorloofd 
 
 Het onder a) bedoelde gezagsrecht kan in het bijzonder voortvloeien uit een toekenning van rechtswege, een rechterlijke of administratieve beslissing of een overeenkomst die geldig is ingevolge het recht van die Staat.
 
-#### Artikel 4
+##### Artikel 4
 
 Het Verdrag is van toepassing op ieder kind dat onmiddellijk voorafgaande aan de inbreuk op het recht betreffende het gezag of omgangsrecht zijn gewone verblijfplaats had in een Verdragsluitende Staat. Het Verdrag houdt op van toepassing te zijn, zodra het kind de leeftijd van 16 jaar heeft bereikt.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de toepassing van dit Verdrag omvat:
 
@@ -56,13 +81,13 @@ Voor de toepassing van dit Verdrag omvat:
 
 ### HOOFDSTUK II. CENTRALE AUTORITEITEN
 
-#### Artikel 6
+##### Artikel 6
 
 Iedere Verdragsluitende Staat wijst een centrale autoriteit aan die de verplichtingen dient na te komen, die hem door het Verdrag zijn opgelegd.
 
 Een federale Staat, een Staat waarin verschillende rechtsstelsels van kracht zijn, of een Staat die zelfstandige territoriale organisaties heeft, is vrij meer dan één centrale autoriteit aan te wijzen en de territoriale omvang van de bevoegdheden van elk van deze autoriteiten te omschrijven. De Staat die van deze mogelijkheid gebruik maakt, wijst de centrale autoriteit aan, waaraan de verzoeken kunnen worden gericht ten einde te worden doorgegeven aan de bevoegde centrale autoriteit binnen deze Staat.
 
-#### Artikel 7
+##### Artikel 7
 
 De centrale autoriteiten moeten onderling samenwerken en samenwerking tussen de bevoegde autoriteiten van hun onderscheiden Staten bevorderen, ten einde de onmiddellijke terugkeer van kinderen te verzekeren en de overige doelstellingen van dit Verdrag te verwezenlijken.
 
@@ -88,7 +113,7 @@ In het bijzonder nemen zij, hetzij rechtstreeks, hetzij via tussenkomst van een 
 
 ### HOOFDSTUK III. TERUGKEER VAN HET KIND
 
-#### Artikel 8
+##### Artikel 8
 
 Personen, instellingen of lichamen die stellen dat een kind in strijd met het recht betreffende het gezag is overgebracht of wordt vastgehouden, kunnen zich richten tot de centrale autoriteit van hetzij de gewone verblijfplaats van het kind, hetzij de centrale autoriteit van iedere andere Verdragsluitende Staat, met het verzoek om behulpzaam te zijn bij het verzekeren van de terugkeer van het kind.
 
@@ -108,21 +133,21 @@ Het verzoek moet bevatten:
 
 - g). ieder ander ter zake dienend stuk.
 
-#### Artikel 9
+##### Artikel 9
 
 Wanneer de centrale autoriteit waaraan ingevolge artikel 8 een verzoek wordt gericht, redenen heeft om aan te nemen dat het kind zich in een andere Verdragsluitende Staat bevindt, zendt zij het verzoek rechtstreeks en onverwijld aan de centrale autoriteit van die Verdragsluitende Staat en stelt zij de centrale autoriteit van wie het verzoek uitgaat of zo nodig de verzoeker hiervan in kennis.
 
-#### Artikel 10
+##### Artikel 10
 
 De centrale autoriteit van de Staat waar het kind zich bevindt, neemt alle passende maatregelen, of doet deze nemen, ten einde de vrijwillige terugkeer van het kind te verzekeren.
 
-#### Artikel 11
+##### Artikel 11
 
 De rechterlijke of administratieve autoriteiten van iedere Verdragsluitende Staat treffen onverwijld maatregelen ter bevordering van de terugkeer van het kind.
 
 Wanneer de desbetreffende rechterlijke of administratieve autoriteit niet binnen zes weken nadat het verzoek tot haar wordt gericht tot een uitspraak is gekomen, kan de verzoeker of de centrale autoriteit van de aangezochte Staat zelfstandig of op verzoek van de centrale autoriteit van de verzoekende Staat een verklaring vragen met betrekking tot de redenen van deze vertraging. Indien het antwoord wordt ontvangen door de centrale autoriteit van de aangezochte Staat, dient deze autoriteit dit antwoord door te geven aan de centrale autoriteit van de verzoekende Staat of aan de verzoeker, al naar gelang van het geval.
 
-#### Artikel 12
+##### Artikel 12
 
 Wanneer een kind ongeoorloofd is overgebracht of wordt vastgehouden in de zin van artikel 3 en er minder dan één jaar is verstreken tussen de overbrenging of het niet doen terugkeren en het tijdstip van de indiening van het verzoek bij de rechterlijke of administratieve autoriteit van de Verdragsluitende Staat waar het kind zich bevindt, gelast de betrokken autoriteit de onmiddellijke terugkeer van het kind.
 
@@ -130,7 +155,7 @@ De rechterlijke of administratieve autoriteit gelast, zelfs in het geval dat het
 
 Wanneer de rechterlijke of administratieve autoriteit van de aangezochte Staat redenen heeft om aan te nemen dat het kind naar een andere Staat is meegenomen, kan zij de procedure schorsen of het verzoek tot terugkeer van het kind afwijzen.
 
-#### Artikel 13
+##### Artikel 13
 
 Niettegenstaande het bepaalde in het voorgaande artikel, is de rechterlijke of administratieve autoriteit van de aangezochte Staat niet gehouden de terugkeer van het kind te gelasten, indien de persoon, de instelling of het lichaam dat zich tegen de terugkeer verzet, aantoont dat:
 
@@ -142,37 +167,37 @@ De rechterlijke of administratieve autoriteit kan eveneens weigeren de terugkeer
 
 Bij het beoordelen van de in dit artikel bedoelde omstandigheden, houden de rechterlijke of administratieve autoriteiten rekening met de gegevens omtrent de maatschappelijke omstandigheden van het kind, die zijn verstrekt door de centrale autoriteit of enige andere bevoegde autoriteit van de Staat waar het kind zijn gewone verblijfplaats heeft.
 
-#### Artikel 14
+##### Artikel 14
 
 Ten einde vast te stellen of er sprake is van een ongeoorloofde overbrenging of niet doen terugkeren in de zin van artikel 3, kan de rechterlijke of administratieve autoriteit van de aangezochte Staat rechtstreeks rekening houden met het recht van de Staat waar het kind zijn gewone verblijfplaats heeft en met de aldaar al dan niet formeel erkende rechterlijke of administratieve beslissingen, zonder dat het nodig is dat de inhoud van dat recht of de erkenning van buitenlandse beslissingen worden vastgesteld in een bijzondere daartoe bestemde procedure, die anders toepasselijk zou zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 Alvorens de terugkeer van het kind te gelasten, kunnen de rechterlijke of administratieve autoriteiten van een Verdragsluitende Staat verlangen dat de verzoeker een beslissing of verklaring van de autoriteiten van de Staat waar het kind zijn gewone verblijfplaats heeft, overlegt, waarin wordt vastgesteld dat de overbrenging of het niet doen terugkeren ongeoorloofd was in de zin van artikel 3 van het Verdrag, voor zover een dergelijke beslissing of verklaring in die Staat kan worden verkregen. De centrale autoriteiten van de Verdragsluitende Staten zijn de verzoeker zoveel mogelijk behulpzaam bij de verkrijging van een dergelijke beslissing of verklaring.
 
-#### Artikel 16
+##### Artikel 16
 
 Nadat de rechterlijke of administratieve autoriteiten van de Verdragsluitende Staat waarheen het kind ongeoorloofd is overgebracht of waar het ongeoorloofd wordt vastgehouden in de zin van artikel 3, in kennis zijn gesteld van deze overbrenging of dit vasthouden, kunnen zij zich niet eerder over het gezagsrecht ten gronde uitspreken, dan nadat is vastgesteld dat het kind niet dient terug te keren ingevolge dit Verdrag, of dan nadat een redelijke termijn is verstreken en daarin geen verzoek is ingediend om dit Verdrag toe te passen.
 
-#### Artikel 17
+##### Artikel 17
 
 Het enkele feit dat in de aangezochte Staat een beslissing met betrekking tot het gezag is genomen of voor erkenning in aanmerking komt, vormt geen grond voor een weigering het kind ingevolge dit Verdrag terug te zenden, maar de rechterlijke of administratieve autoriteiten van de aangezochte Staat kunnen bij de toepassing van dit Verdrag rekening houden met de overwegingen die tot deze beslissing hebben geleid.
 
-#### Artikel 18
+##### Artikel 18
 
 De bepalingen van dit hoofdstuk beperken niet de bevoegdheid van de rechterlijke of administratieve autoriteit om op ongeacht welk tijdstip de terugkeer van het kind te gelasten.
 
-#### Artikel 19
+##### Artikel 19
 
 Een ingevolge dit Verdrag genomen beslissing betreffende de terugkeer van het kind heeft geen betrekking op het gezagsrecht zelf.
 
-#### Artikel 20
+##### Artikel 20
 
 De terugkeer van het kind overeenkomstig het bepaalde in artikel 12 kan worden geweigerd, wanneer deze op grond van de fundamentele beginselen van de aangezochte Staat betreffende de bescherming van de rechten van de mens en de fundamentele vrijheden niet zou zijn toegestaan.
 
 ### HOOFDSTUK IV. OMGANGSRECHT
 
-#### Artikel 21
+##### Artikel 21
 
 Een verzoek dat de regeling of de bescherming van de feitelijke uitoefening van het bezoekrecht beoogt, kan op dezelfde wijze als een verzoek dat de terugkeer van het kind beoogt, aan de centrale autoriteit van een Verdragsluitende Staat worden gericht.
 
@@ -182,25 +207,25 @@ De centrale autoriteiten kunnen hetzij rechtstreeks, hetzij door tussenkomst van
 
 ### HOOFDSTUK V. ALGEMENE BEPALINGEN
 
-#### Artikel 22
+##### Artikel 22
 
 Geen zekerheid, borgtocht of voorschot, onder welke benaming ook, wordt vereist om de betaling van de kosten en uitgaven te waarborgen, die zijn gemaakt in verband met rechterlijke of administratieve procedures als bedoeld in dit Verdrag.
 
-#### Artikel 23
+##### Artikel 23
 
 In verband met dit Verdrag kan geen enkele legalisatie of soortgelijke formaliteit worden verlangd.
 
-#### Artikel 24
+##### Artikel 24
 
 Ieder verzoek, mededeling of ander stuk wordt in de oorspronkelijke taal gezonden aan de centrale autoriteit van de aangezochte Staat en gaat vergezeld van een vertaling in de officiële taal of in één van de officiële talen van deze Staat of, wanneer deze vertaling moeilijk kan worden vervaardigd, van een vertaling in het Frans of in het Engels.
 
 Een Verdragsluitende Staat kan zich echter, door het maken van het in artikel 42 bedoelde voorbehoud, verzetten tegen het gebruik van hetzij het Frans, hetzij het Engels, in ieder verzoek, mededeling of ander stuk gericht aan zijn centrale autoriteit.
 
-#### Artikel 25
+##### Artikel 25
 
 De onderdanen van een Verdragsluitende Staat en de personen die aldaar hun gewone verblijfplaats hebben, hebben bij alles wat verband houdt met de toepassing van dit Verdrag recht op rechtsbijstand en juridisch advies in iedere andere Verdragsluitende Staat, onder dezelfde voorwaarden als waren zij zelf onderdanen van die andere Staat en als hadden zij aldaar zelf hun gewone verblijfplaats.
 
-#### Artikel 26
+##### Artikel 26
 
 Iedere centrale autoriteit draagt bij de toepassing van dit Verdrag haar eigen kosten.
 
@@ -210,23 +235,23 @@ Een Verdragsluitende Staat kan echter door het in artikel 42 bedoelde voorbehoud
 
 Wanneer de rechterlijke of administratieve autoriteit de terugkeer van het kind gelast of een uitspraak doet betreffende het omgangsrecht in verband met dit Verdrag, kan zij, zo nodig, de persoon die het kind heeft overgebracht of vastgehouden of die de uitoefening van het omgangsrecht heeft verhinderd, verplichten tot de betaling van alle noodzakelijke kosten die door of namens de verzoeker zijn gemaakt, in het bijzonder de reiskosten, de kosten van juridische vertegenwoordiging van de verzoeker en van de terugkeer van het kind, alsmede alle kosten die zijn gemaakt of betalingen die zijn gedaan om vast te stellen waar het kind zich bevindt.
 
-#### Artikel 27
+##### Artikel 27
 
 Wanneer klaarblijkelijk aan de door het Verdrag gestelde voorwaarden niet is voldaan of het verzoek klaarblijkelijk niet gegrond is, is een centrale autoriteit niet gehouden een dergelijk verzoek in behandeling te nemen. In dat geval stelt zij de verzoeker of, zo nodig de centrale autoriteit die haar het verzoek heeft doorgegeven, onmiddellijk van haar beweegredenen in kennis.
 
-#### Artikel 28
+##### Artikel 28
 
 Een centrale autoriteit kan eisen dat het verzoek vergezeld gaat van een schriftelijke machtiging waardoor haar de bevoegdheid wordt verstrekt namens de verzoeker op te treden of een vertegenwoordiger aan te wijzen die gerechtigd is zulks te doen.
 
-#### Artikel 29
+##### Artikel 29
 
 Het Verdrag staat er niet aan in de weg dat een persoon die, of een instelling die, of een lichaam dat stelt dat het recht betreffende het gezag of het omgangsrecht in de zin van artikel 3 of 21 is geschonden zich, al dan niet met toepassing van de regels van het Verdrag, rechtstreeks wendt tot de rechterlijke of administratieve autoriteiten van de Verdragsluitende Staten.
 
-#### Artikel 30
+##### Artikel 30
 
 Ieder verzoek dat ingevolge dit Verdrag bij de centrale autoriteit of rechtstreeks bij de rechterlijke of administratieve autoriteiten van een Verdragsluitende Staat is ingediend, alsmede ieder stuk dat, of elke inlichting die door een centrale autoriteit daarbij is gevoegd of is verstrekt, zal aan de rechterlijke instanties of de administratieve autoriteiten van de Verdragsluitende Staten kunnen worden overgelegd.
 
-#### Artikel 31
+##### Artikel 31
 
 Ten opzichte van een Staat die met betrekking tot het gezag over kinderen twee of meer in verschillende territoriale eenheden toepasselijke rechtsstelsels kent:
 
@@ -234,37 +259,37 @@ Ten opzichte van een Staat die met betrekking tot het gezag over kinderen twee o
 
 - b). wordt onder de wet van de Staat van de gewone verblijfplaats verstaan de wet van de territoriale eenheid waar het kind zijn gewone verblijfplaats heeft.
 
-#### Artikel 32
+##### Artikel 32
 
 Ten opzichte van een Staat die met betrekking tot het gezag over kinderen twee of meer rechtsstelsels kent die op verschillende categorieën personen van toepassing zijn, wordt onder de wet van die Staat verstaan het rechtsstelsel waarnaar door het recht van die Staat wordt verwezen.
 
-#### Artikel 33
+##### Artikel 33
 
 Een Staat waarin verschillende territoriale eenheden hun eigen rechtsregels hebben met betrekking tot het gezag over kinderen, is niet gehouden het Verdrag toe te passen wanneer een Staat met één rechtsstelsel daartoe evenmin zou zijn gehouden.
 
-#### Artikel 34
+##### Artikel 34
 
 Met betrekking tot aangelegenheden waarop het Verdrag van toepassing is, heeft dit Verdrag voorrang boven het [Verdrag van 5 oktober 1961 betreffende de bevoegdheid van de autoriteiten en de toepasselijke wet inzake de bescherming van minderjarigen](https://wetten.overheid.nl/jci1.3:c:BWBV0002011), tussen de Staten die Partij zijn bij beide Verdragen. Overigens sluit dit Verdrag niet de mogelijkheid uit dat, ten einde de terugkeer te bewerkstelligen van een kind dat ongeoorloofd is overgebracht of wordt vastgehouden of ten einde het omgangsrecht te regelen, een andere internationale regeling waarbij de Staat van de oorspronkelijke verblijfplaats en de aangezochte Staat partij zijn, dan wel ander recht van de aangezochte Staat dat niet op een internationale overeenkomst berust, wordt toegepast.
 
-#### Artikel 35
+##### Artikel 35
 
 Dit Verdrag is slechts van toepassing tussen de Verdragsluitende Staten in gevallen van ongeoorloofde overbrenging of ongeoorloofd niet doen terugkeren die hebben plaatsgevonden na de inwerkingtreding ervan in deze Staten.
 
 Indien een verklaring is afgelegd overeenkomstig de artikelen 39 of 40, wordt onder een Verdragsluitende Staat in de zin van het voorgaande lid verstaan de territoriale eenheid of eenheden waarop dit Verdrag van toepassing is.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit Verdrag staat er niet aan in de weg dat twee of meer Verdragstaten die de restricties waaraan de terugkeer van het kind kan worden onderworpen willen beperken, onderling overeenkomen van de bepalingen van dit Verdrag die zodanige restricties bevatten, af te wijken.
 
 ### HOOFDSTUK VI. SLOTBEPALINGEN
 
-#### Artikel 37
+##### Artikel 37
 
 Het Verdrag staat open voor ondertekening door de Staten die ten tijde van haar Veertiende Zitting lid waren van de Haagse Conferentie voor Internationaal Privaatrecht.
 
 Het Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
 
-#### Artikel 38
+##### Artikel 38
 
 Iedere andere Staat kan tot dit Verdrag toetreden.
 
@@ -274,23 +299,23 @@ De toetreding heeft slechts gevolg in de betrekkingen tussen de toetredende Staa
 
 Het Verdrag treedt tussen de toetredende Staat en de Staat die heeft verklaard deze toetreding te aanvaarden in werking op de eerste dag van de derde kalendermaand na de nederlegging van de verklaring van aanvaarding.
 
-#### Artikel 39
+##### Artikel 39
 
 Iedere Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat het Verdrag zich zal uitstrekken tot het geheel van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is, of tot één of meer van die gebieden. Deze verklaring wordt van kracht op het tijdstip waarop het Verdrag voor die Staat in werking treedt.
 
 Deze verklaring, alsmede iedere latere uitbreiding, wordt ter kennis gebracht van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden.
 
-#### Artikel 40
+##### Artikel 40
 
 Een Verdragsluitende Staat die twee of meer territoriale eenheden omvat waarin verschillende rechtssystemen van toepassing zijn betreffende onderwerpen die door dit Verdrag worden geregeld, kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag van toepassing is op al zijn territoriale eenheden of slechts op één of meer ervan, en kan te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
 Deze verklaringen worden ter kennis gebracht van het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden en vermelden uitdrukkelijk de territoriale eenheden waarop het Verdrag van toepassing is.
 
-#### Artikel 41
+##### Artikel 41
 
 Wanneer een Verdragsluitende Staat een regeringsstelsel heeft, dat de uitvoerende, de rechterlijke en de wetgevende macht verdeelt tussen de centrale autoriteiten en andere autoriteiten van die Staat, heeft de ondertekening, bekrachtiging, aanvaarding of goedkeuring van het Verdrag of de toetreding ertoe of een verklaring afgelegd krachtens artikel 40, geen enkel gevolg ten aanzien van de interne verdeling van de bevoegdheden in die Staat.
 
-#### Artikel 42
+##### Artikel 42
 
 Iedere Verdragsluitende Staat kan uiterlijk op het tijdstip van bekrachtiging, aanvaarding, goedkeuring of toetreding, of op het tijdstip waarop een verklaring wordt afgelegd krachtens de artikelen 39 of 40, hetzij één van beide, hetzij beide in artikel 24 en artikel 26, derde lid, bedoelde voorbehouden maken. Geen enkel ander voorbehoud is toegestaan.
 
@@ -298,7 +323,7 @@ Iedere Staat kan te allen tijde een door hem gemaakt voorbehoud intrekken. Deze 
 
 Het voorbehoud houdt op van kracht te zijn op de eerste dag van de derde kalendermaand na de in het voorgaande lid bedoelde kennisgeving.
 
-#### Artikel 43
+##### Artikel 43
 
 Het Verdrag treedt in werking op de eerste dag van de derde kalendermaand na de nederlegging van de derde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in de artikelen 37 en 38.
 
@@ -308,7 +333,7 @@ Vervolgens treedt het Verdrag in werking:
 
 - 2. voor de gebieden of de territoriale eenheden waarop het Verdrag overeenkomstig de artikelen 39 of 40 is uitgebreid, op de eerste dag van de derde kalendermaand na de in die artikelen bedoelde kennisgeving.
 
-#### Artikel 44
+##### Artikel 44
 
 Het Verdrag blijft gedurende vijf jaar van kracht, te rekenen vanaf de datum van zijn inwerkingtreding overeenkomstig artikel 43, eerste lid, ook voor de Staten die het later hebben bekrachtigd, aanvaard of goedgekeurd of ertoe zijn toegetreden.
 
@@ -318,7 +343,7 @@ De opzegging dient ten minste zes maanden voor het verstrijken van de termijn va
 
 De opzegging heeft slechts gevolg ten opzichte van de Staat die haar heeft gedaan. Het Verdrag blijft van kracht voor de andere Verdragsluitende Staten.
 
-#### Artikel 45
+##### Artikel 45
 
 Het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden geeft de Lid-Staten van de Conferentie, alsmede de Staten die overeenkomstig artikel 38 zijn toegetreden kennis van:
 

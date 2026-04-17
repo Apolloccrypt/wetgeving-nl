@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op de studiefinanciering, enz. (invoering prestatiebeurs en aanspraak studiefinanciering)"
+title: "Wet van 28 maart 1996, houdende wijziging van onder meer de Wet op de studiefinanciering en de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van de prestatiebeurs, de vorm van de toelage en de leeftijd waarop aanspraak op studiefinanciering in het hoger onderwijs ontstaat"
 identifier: "BWBR0007972"
-categorie: "Overig"
-publicatiedatum: 2005-08-03
-laatste_update: 2005-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007972"
+country: "nl"
+rank: "wet"
+publication_date: "2005-08-03"
+last_updated: "2005-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007972"
+soort: "wet"
+stam_id: "49013"
+version_id: "59982"
+internal_id: "C59981"
+label_id: "48654"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007972/2005-08-03/0"
+intitule_bron: "Stb.1996-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-28"
+intitule_published: "1996-04-23"
+intitule_in_force: "1996-04-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-227"
+original_signed_date: "1996-03-28"
+original_published_date: "1996-04-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "24325"
+original_url_id: "stb-1996-227"
+entry_into_force_date: "1996-08-01"
+entry_into_force_dossier: "24325"
+jci_1_3: "jci1.3:c:BWBR0007972&z=2005-08-03&g=2005-08-03"
+jci_1_0: "1.0:c:BWBR0007972&g=2005-08-03"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de studiefinanciering, enz. (invoering prestatiebeurs en aanspraak studiefinanciering)"
+signed_date: "1996-03-28"
+entry_into_force: "1996-08-01"
 ---
-
-# Wijzigingswet Wet op de studiefinanciering, enz. (invoering prestatiebeurs en aanspraak studiefinanciering)
+# Wet van 28 maart 1996, houdende wijziging van onder meer de Wet op de studiefinanciering en de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met de invoering van de prestatiebeurs, de vorm van de toelage en de leeftijd waarop aanspraak op studiefinanciering in het hoger onderwijs ontstaat
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,65 +48,65 @@ dat in verband daarmee wijziging van onder meer de [Wet op de studiefinanciering
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek, enz. (aanpassing collegegeldbepalingen).
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Algemene Kinderbijslagwet.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet tegemoetkoming studiekosten.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt deze wet.
 
-#### Artikel XI
+##### Artikel XI
 
 Vervallen
 
-#### Artikel XII
+##### Artikel XII
 
 Vervallen
 
-#### Artikel XIII
+##### Artikel XIII
 
 Vervallen
 
-#### Artikel XIV
+##### Artikel XIV
 
 1. Deze wet treedt in werking met ingang van 1 augustus 1996, met dien verstande dat de bepalingen, genoemd in lid 1**a** tot en met het zevende lid, in werking treden op de in die leden aangeduide tijdstippen.
 

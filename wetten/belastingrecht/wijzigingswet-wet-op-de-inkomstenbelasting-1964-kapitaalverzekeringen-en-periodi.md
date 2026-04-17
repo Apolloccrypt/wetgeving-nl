@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet op de inkomstenbelasting 1964 (kapitaalverzekeringen en periodieke uitkeringen)"
+title: "Wet van 23 december 1994, tot wijziging van de inkomstenbelasting (kapitaalverzekeringen en periodieke uitkeringen)"
 identifier: "BWBR0007171"
-categorie: "Belastingrecht"
-publicatiedatum: 1994-12-30
-laatste_update: 1994-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007171"
+country: "nl"
+rank: "wet"
+publication_date: "1994-12-30"
+last_updated: "1994-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007171"
+soort: "wet"
+stam_id: "531663"
+version_id: "780312"
+internal_id: "C780311"
+label_id: "516184"
+dtd_version: "2.0"
+original_entry_into_force: "1994-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007171/1994-12-30/0"
+intitule_bron: "Stb.1994-926"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1994-926"
+original_signed_date: "1994-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "23023"
+entry_into_force_date: "1994-12-30"
+entry_into_force_dossier: "23023"
+jci_1_3: "jci1.3:c:BWBR0007171&z=1994-12-30&g=1994-12-30"
+jci_1_0: "1.0:c:BWBR0007171&g=1994-12-30"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de inkomstenbelasting 1964 (kapitaalverzekeringen en periodieke uitkeringen)"
+signed_date: "1994-12-23"
+entry_into_force: "1994-12-30"
 ---
-
-# Wijzigingswet Wet op de inkomstenbelasting 1964 (kapitaalverzekeringen en periodieke uitkeringen)
+# Wet van 23 december 1994, tot wijziging van de inkomstenbelasting (kapitaalverzekeringen en periodieke uitkeringen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,15 +40,15 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in de inkomstenbelas
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet treedt in werking met ingang van de eerste dag na datum van uitgifte van het **Staatsblad** waarin zij wordt geplaatst, met dien verstande dat artikel I, onderdelen C, D, E, F.2 en G, terugwerkt tot en met 1 januari 1992.
 

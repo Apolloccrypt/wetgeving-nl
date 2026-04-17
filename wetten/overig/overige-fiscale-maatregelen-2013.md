@@ -1,182 +1,210 @@
 ---
-title: "Overige fiscale maatregelen 2013"
+title: "Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2013)"
 identifier: "BWBR0032671"
-categorie: "Overig"
-publicatiedatum: 2015-06-19
-laatste_update: 2015-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032671"
+country: "nl"
+rank: "wet"
+publication_date: "2015-06-19"
+last_updated: "2015-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032671"
+soort: "wet"
+stam_id: "12024143"
+version_id: "20018192"
+internal_id: "C28120521"
+label_id: "11996274"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032671/2015-06-19/0"
+intitule_bron: "Stb.2012-669"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-20"
+intitule_published: "2012-12-27"
+intitule_in_force: "2012-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2012-669"
+original_signed_date: "2012-12-20"
+original_published_date: "2012-12-27"
+original_effect: "nieuwe-regeling"
+original_dossier: "33403"
+original_url_id: "stb-2012-669"
+entry_into_force_date: "2013-01-01"
+entry_into_force_dossier: "33403"
+jci_1_3: "jci1.3:c:BWBR0032671&z=2015-06-19&g=2015-06-19"
+jci_1_0: "1.0:c:BWBR0032671&g=2015-06-19"
+citeertitel_status: "officieel"
+short_title: "Overige fiscale maatregelen 2013"
+signed_date: "2012-12-20"
+entry_into_force: "2013-01-01"
 ---
+# Wet van 20 december 2012 tot wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2013)
 
-# Overige fiscale maatregelen 2013
-
-#### Artikel I
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-#### Artikel II
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel IV
+##### Artikel III
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+##### Artikel IV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IVa
+##### Artikel IVa
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IVb
+##### Artikel IVb
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VIa
+##### Artikel VIa
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de kansspelen.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Douane- en Accijnswet BES.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Invoeringswet fiscaal stelsel BES.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet werken aan winst.
 
-#### Artikel XXIIa
+##### Artikel XXIIa
 
 Wijzigt de Wijzigingswet Algemene wet inzake rijksbelastingen, enz. (invoering basisregistratie inkomen en basisregistratie waarde onroerende zaken) (Stb. 2008/269).
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 [vervallen]
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Overige fiscale maatregelen 2011.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Wet uniformering loonbegrip.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt het Belastingplan 2012.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Wet uitwerking fiscale maatregelen Begrotingsakkoord 2013.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Het koninklijk besluit van 24 augustus 2004 tot wijziging van het [Besluit uitsluiting aftrek omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002636) (Stb. 2004, 435) wordt goedgekeurd.
 
-#### Artikel XXVIIIa
+##### Artikel XXVIIIa
 
 Wijzigt de Zorgverzekeringswet.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Wijzigt de Wet op de zorgtoeslag.
 
-#### Artikel XXX
+##### Artikel XXX
 
 Wijzigt de Wet op het kindgebonden budget.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel XXXIa
+##### Artikel XXXIa
 
 Wijzigt de Pensioenwet.
 
-#### Artikel XXXIb
+##### Artikel XXXIb
 
 Wijzigt de Pensioenwet.
 
-#### Artikel XXXIc
+##### Artikel XXXIc
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel XXXId
+##### Artikel XXXId
 
 Wijzigt de Wet verplichte beroepspensioenregeling.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 1. Met betrekking tot kolen die vóór 1 januari 2013 zijn uitgeslagen of ingevoerd met vrijstelling van kolenbelasting op grond van [artikel 44, tweede lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=44) en die op of na 1 januari 2013 in een opslagplaats voorhanden zijn, wordt kolenbelasting geheven naar het tarief, genoemd in [artikel 43 van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=43), zoals dit geldt op 1 januari 2013 na indexering.
 
 2. [Artikel 84a van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a), met uitzondering van het eerste lid, eerste alinea en het tweede lid, onderdeel b, is van overeenkomstige toepassing op de heffing van kolenbelasting, bedoeld in het eerste lid, met dien verstande dat de verwijzing in [artikel 84a, tweede lid, van de Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005251&artikel=84a) naar het eerste lid van dat artikel moet worden gelezen als een verwijzing naar het eerste lid van dit artikel.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 1. De [artikelen 80](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=80), [86](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=86) en [87a tot en met 87d van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87a) en de daarop berustende bepalingen, zoals deze luidden op 31 december 2012, blijven van toepassing op verpakkingen als bedoeld in [artikel 87a van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=87a), zoals deze luidde op 31 december 2012, van producten die na 31 december 2012 maar vóór 1 april 2013 door een producent ter beschikking worden gesteld aan een belastingplichtige of ondernemer als bedoeld in [hoofdstuk VIII van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&hoofdstuk=VIII) zoals dit luidde op 31 december 2012. Het voorgaande geldt niet voor producten waarop vóór 1 januari 2013 een regeling krachtens [artikel 88a van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=88a) van toepassing was.
 
@@ -184,11 +212,11 @@ Wijzigt de Wet verplichte beroepspensioenregeling.
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot verzoeken om teruggaaf ingevolge het eerste lid.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 1. Deze wet treedt in werking met ingang van 1 januari 2013, met dien verstande dat:
 
@@ -210,7 +238,7 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 3. [Artikel XIII, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0032671&artikel=XIII&z=2015-06-19&g=2015-06-19), werkt terug tot en met 20 juli 2012.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2013.
 

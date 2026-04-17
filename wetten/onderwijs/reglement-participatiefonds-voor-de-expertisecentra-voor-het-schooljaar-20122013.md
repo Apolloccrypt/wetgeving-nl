@@ -1,13 +1,35 @@
 ---
 title: "Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2012–2013"
 identifier: "BWBR0031842"
-categorie: "Onderwijs"
-publicatiedatum: 2013-08-01
-laatste_update: 2013-04-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031842"
+country: "nl"
+rank: "zbo"
+publication_date: "2013-08-01"
+last_updated: "2013-04-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031842"
+soort: "zbo"
+stam_id: "11809783"
+version_id: "19565352"
+internal_id: "C27451451"
+label_id: "11782864"
+dtd_version: "2.0"
+original_entry_into_force: "2012-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031842/2013-08-01/0"
+intitule_bron: "Stcrt.2012-15445"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2012-07-25"
+intitule_in_force: "2012-07-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-15445"
+original_published_date: "2012-07-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-15445"
+entry_into_force_date: "2012-02-01"
+jci_1_3: "jci1.3:c:BWBR0031842&z=2013-08-01&g=2013-08-01"
+jci_1_0: "1.0:c:BWBR0031842&g=2013-08-01"
+citeertitel_status: "officieel"
+entry_into_force: "2012-02-01"
 ---
-
 # Reglement Participatiefonds voor de Expertisecentra voor het schooljaar 2012–2013
 
 ### Deel 1. Algemene bepalingen

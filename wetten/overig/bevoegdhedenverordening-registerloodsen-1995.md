@@ -1,13 +1,38 @@
 ---
-title: "Bevoegdhedenverordening registerloodsen 1995"
+title: "Verordening inzake de aanwijzing van regionale loodsstations, alsmede inzake de vaststelling van de bevoegdheden van registerloodsen (Bevoegdhedenverordening registerloodsen 1995)"
 identifier: "BWBR0007399"
-categorie: "Overig"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007399"
+country: "nl"
+rank: "pbo"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007399"
+soort: "pbo"
+stam_id: "6639793"
+version_id: "11473402"
+internal_id: "C15462371"
+label_id: "6628304"
+original_entry_into_force: "1995-06-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007399/2020-04-01/0"
+intitule_bron: "Stcrt.1995-112"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-05-16"
+intitule_published: "1995-06-14"
+intitule_in_force: "1995-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-112"
+original_signed_date: "1995-05-16"
+original_published_date: "1995-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1995-112-p12-SC2887"
+entry_into_force_date: "1995-06-16"
+jci_1_3: "jci1.3:c:BWBR0007399&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0007399&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Bevoegdhedenverordening registerloodsen 1995"
+signed_date: "1995-05-16"
+entry_into_force: "1995-06-16"
 ---
-
 # Verordening inzake de aanwijzing van regionale loodsstations, alsmede inzake de vaststelling van de bevoegdheden van registerloodsen (Bevoegdhedenverordening registerloodsen 1995)
 
 Gelet op de [artikelen 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=4), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=15) en [16 van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=16) (Stb. 1988, 353);
@@ -18,7 +43,7 @@ De verordening, bedoeld in [artikel 4, eerste lid, van de Loodsenwet](https://we
 
 ### Hoofdstuk 1. Regionale loodsstations
 
-#### Artikel 1
+##### Artikel 1
 
 De volgende regionale loodsstations worden vastgesteld:
 
@@ -42,7 +67,7 @@ De volgende regionale loodsstations worden vastgesteld:
 
 - 1. Scheldemonden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Tot het regionale loodsstation Delfzijl behoren de scheepvaartwegen, genoemd in de [bijlage bij de Scheepvaartverkeerswet (Stb. 1988, 352), onder punt I, nummer 1](onbekend).
 
@@ -86,7 +111,7 @@ De volgende regionale loodsstations worden vastgesteld:
 
 ### Hoofdstuk 2. Loodsbevoegdheden
 
-#### Artikel 3
+##### Artikel 3
 
 1. De registerloods is bevoegd tot het verrichten van loodsdienst binnen zijn admittage-gebied.
 
@@ -94,7 +119,7 @@ De volgende regionale loodsstations worden vastgesteld:
 
 3. In aanvulling op het tweede lid wordt het admittage-gebied uitgebreid met het gebied waarvoor de registerloods een aanvullende opleiding heeft gevolgd en met goed gevolg het examen heeft afgelegd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De registerloods is bevoegd voor de categorieën schepen en scheepvaartwegen volgens het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2020-04-01&g=2020-04-01).
 
@@ -102,7 +127,7 @@ De volgende regionale loodsstations worden vastgesteld:
 
 3. De registerloods, die een aanvullende opleiding als bedoeld in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), of een aanvullende opleiding of training als bedoeld in het vorige lid wenst te volgen, behoeft hiervoor de goedkeuring van het bestuur van de desbetreffende regionale loodsencorporatie.
 
-#### Artikel 5
+##### Artikel 5
 
 De registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot het regionale loodsstation Delfzijl is op die scheepvaartwegen bevoegd:
 
@@ -118,7 +143,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 - f. vanaf 72 maanden na inschrijving in het register voor alle schepen.
 
-#### Artikel 6
+##### Artikel 6
 
 De registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot het regionale loodsstation Harlingen is op die scheepvaartwegen bevoegd:
 
@@ -130,7 +155,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 - d. vanaf 36 maanden na inschrijving in het register voor alle schepen.
 
-#### Artikel 7
+##### Artikel 7
 
 De registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot het regionale loodsstation Den Helder is op die scheepvaartwegen bevoegd:
 
@@ -140,7 +165,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 - c. vanaf 12 maanden na inschrijving in het register, voor alle schepen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot het regionale loodsstation IJmuiden/Amsterdam is op die scheepvaartwegen bevoegd:
 
@@ -160,7 +185,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 2. Voor de registerloods geldt op de scheepvaartwegen, bedoeld in het eerste lid, als specialisatie de bevoegdheid tot het verrichten van de loodsdienst voor schepen die de IJgeul bevaren, voor zover het betreft schepen die door hun diepgang bij of krachtens wettelijk voorschrift verplicht zijn gebruik te maken van de gehele IJgeul.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegdheden van de registerloods die in het register is ingeschreven voor de scheepvaartwegen die behoren tot één of meer gebieden van het regionale loodsstation Rijnmond wordt onderscheiden in de volgende bevoegdheidscategorieën:
 
@@ -266,7 +291,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 10. Voor de registerloods is het loodsen van de schepen met een diepgang van 143 dm of meer voor de gebieden II en III een specialisatie.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De registerloods die in het register is ingeschreven voor het regionale loodsstation Scheldemonden voor het gebied VI, is op de betreffende scheepvaartwegen bevoegd:
 
@@ -340,7 +365,7 @@ De registerloods die in het register is ingeschreven voor de scheepvaartwegen di
 
 5. De plaatsing in een of meerdere specialisaties, genoemd in het vierde lid vindt plaats door het bestuur van de regionale loodsencorporatie Scheldemonden uitsluitend op grond van het doorlopend kunnen uitvoeren van de dienstverlening, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=1)en [2 van de Dienstverleningsverordening registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004385&artikel=2).
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de registerloods zijn eveneens specialisaties:
 
@@ -348,17 +373,17 @@ Voor de registerloods zijn eveneens specialisaties:
 
 - b. het loodsen op afstand vanaf de wal.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onverminderd het bepaalde in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), is, indien in bijzondere omstandigheden voor een bepaalde categorie van schepen geen bevoegde registerloods beschikbaar is, voor een schip uit die bepaalde categorie van schepen bevoegd, de registerloods die van de beschikbare registerloodsen in de naastgelegen voorafgaande lagere bevoegdheid de langste tijd bevoegd is binnen die categorie.
 
 2. Het eerste lid blijft buiten toepassing ten aanzien van de [artikelen 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=8&z=2020-04-01&g=2020-04-01), [9, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=9&z=2020-04-01&g=2020-04-01) en [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=10&z=2020-04-01&g=2020-04-01).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien daartoe naar het oordeel van het bestuur van de regionale loodsencorporatie aanleiding bestaat, kan in individuele gevallen in beperkende zin worden afgeweken van het bepaalde in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2020-04-01&g=2020-04-01).
 
@@ -370,7 +395,7 @@ Voor het beëindigen van een beperking kan het bestuur nadere voorwaarden stelle
 
 ### Hoofdstuk 3. Overige bepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 1. In afwijking van [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=3&z=2020-04-01&g=2020-04-01), is het admittage-gebied voor de registerloods die voor de inwerkingtreding van het [Besluit opleidingen en bevoegdheden nautische beroepsbeoefenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0034471) het gebied waarvoor de betreffende registerloods in de opleiding tot registerloods met goed gevolg het examen van de opleiding tot registerloods heeft afgelegd en waarvoor hij als registerloods in het openbare loodsenregister is ingeschreven.
 
@@ -380,11 +405,11 @@ Voor het beëindigen van een beperking kan het bestuur nadere voorwaarden stelle
 
 4. Voor de toelating tot een in de [artikelen 5 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=5&z=2020-04-01&g=2020-04-01) van de Bevoegdhedenverordening registerloodsen 1995 bedoelde bevoegdheid, is of wordt door de betreffende registerloods een door het bestuur van de betreffende regionale loodsencorporatie vastgestelde opleiding of training gevolgd. Indien deze vastgestelde training of opleiding is aangevangen voorafgaande aan de inwerkingtreding van deze verordening en is vastgesteld en verzorgd overeenkomstig de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), [4a](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4a&z=2020-04-01&g=2020-04-01), [4b](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01) of [4c](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4c&z=2020-04-01&g=2020-04-01) van deze verordening, worden deze trainingen en opleidingen beschouwd als opleidingen en trainingen die zijn verzorgd onder deze verordening.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze verordening kan worden aangehaald als: Bevoegdhedenverordening registerloodsen 1995.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze verordening treedt in werking met ingang van de tweede dag na die van plaatsing in de Staatscourant.
 
@@ -392,7 +417,7 @@ Aldus vastgesteld in de ledenvergadering van de Nederlandse Loodsencorporatie op
 
 Goedgekeurd bij besluit van de Minister van Verkeer en Waterstaat van 31 mei 1995, DGSM/J-12.743/95.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het bestuur van de betreffende regionale loodsencorporatie stelt regels waarin zij besluit:
 
@@ -404,7 +429,7 @@ Goedgekeurd bij besluit van de Minister van Verkeer en Waterstaat van 31 mei 199
 
 2. Indien het bestuur van de betreffende regionale loodsencorporatie besluit dat het een aanvullende opleiding betreft, dient de registerloods een daarbij behorend en door het betreffende bestuur vastgesteld examen, met goed gevolg te hebben afgelegd.
 
-#### Artikel 4b
+##### Artikel 4b
 
 Het bestuur van de betreffende regionale loodsencorporatie draagt zorg voor een aanvullende opleiding bedoeld in artikel 3, derde lid, of een aanvullende opleiding of training bedoeld in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4&z=2020-04-01&g=2020-04-01), waarbij ten minste wordt voorzien in:
 
@@ -430,7 +455,7 @@ of
 
 - ii. het afgeven van een verklaring waaruit blijkt dat een training is gevolgd.
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. In een lesprogramma als bedoeld in [artikel 4b, onder a, onderdeel i](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), is in ieder geval het volgende vastgelegd:
 
@@ -460,7 +485,7 @@ of
 
 - e. het trainingsrooster.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. De examencommissie genoemd in [artikel 4b, onder a, onderdeel iv](https://wetten.overheid.nl/jci1.3:c:BWBR0007399&hoofdstuk=2&artikel=4b&z=2020-04-01&g=2020-04-01), bestaat uit ten minste zes en ten hoogste negen leden, waaronder een voorzitter, een toetsdeskundige, een of meerdere werkveldvertegenwoordigers en een registerloods van elke regionale loodsencorporatie, niet zijnde een bestuurslid, tenzij bijzondere omstandigheden zich daar tegen verzetten.
 

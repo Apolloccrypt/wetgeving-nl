@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel experiment ruimte in onderwijstijd"
+title: "Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 19 februari 2020, nr. PO/BenS/17873009, houdende regels voor een experiment ruimte in onderwijstijd in het basisonderwijs (Beleidsregel experiment ruimte in onderwijstijd)"
 identifier: "BWBR0043216"
-categorie: "Onderwijs"
-publicatiedatum: 2020-03-19
-laatste_update: 2020-03-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043216"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-03-19"
+last_updated: "2020-03-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043216"
+soort: "beleidsregel"
+stam_id: "15350533"
+version_id: "26526532"
+internal_id: "C37654231"
+label_id: "15295704"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043216/2020-03-19/0"
+intitule_bron: "Stcrt.2020-11055"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-19"
+intitule_published: "2020-02-26"
+intitule_in_force: "2020-02-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-11055"
+original_signed_date: "2020-02-19"
+original_published_date: "2020-02-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-11055"
+entry_into_force_date: "2020-02-27"
+jci_1_3: "jci1.3:c:BWBR0043216&z=2020-03-19&g=2020-03-19"
+jci_1_0: "1.0:c:BWBR0043216&g=2020-03-19"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel experiment ruimte in onderwijstijd"
+signed_date: "2020-02-19"
+entry_into_force: "2020-02-27"
 ---
-
 # Beleidsregel van de Minister voor Basis- en Voortgezet Onderwijs en Media van 19 februari 2020, nr. PO/BenS/17873009, houdende regels voor een experiment ruimte in onderwijstijd in het basisonderwijs (Beleidsregel experiment ruimte in onderwijstijd)
 
 Gelet op [artikel 2 van de Experimentenwet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002718&artikel=2) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **Wpo:** [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420).
 
-#### Artikel 2. Het experiment ruimte in onderwijstijd
+##### Artikel 2. Het experiment ruimte in onderwijstijd
 
 Het bevoegd gezag dat met een school deelneemt aan het experiment mag op die school afwijken van:
 
@@ -38,7 +64,7 @@ Het bevoegd gezag dat met een school deelneemt aan het experiment mag op die sch
 
 - c. [artikel 3, eerste lid, onderdeel b, en artikel 3, derde en vierde lid, van de Wpo](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=3), met dien verstande dat hiervan in ieder schooljaar voor ten hoogste 100 uren, van het totaal aantal uren zoals bedoeld in [artikel 8, negende lid, aanhef en onder b, aanhef van de WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=8), mag worden afgeweken.
 
-#### Artikel 3. Het doel van het experiment
+##### Artikel 3. Het doel van het experiment
 
 Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
@@ -48,7 +74,7 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 - c. of de uitkomsten van het experiment voldoende grond bieden voor het aanpassen van wet- en regelgeving en onder welke voorwaarden.
 
-#### Artikel 4. De aanvraagprocedure en voorwaarden voor deelname
+##### Artikel 4. De aanvraagprocedure en voorwaarden voor deelname
 
 1. Het bevoegd gezag dat met een school wil deelnemen aan het experiment kan bij Onze Minister een aanvraag doen.
 
@@ -76,7 +102,7 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 - d. een bewijs dat de medezeggenschapsraad van de school die wil deelnemen, bedoeld in [artikel 3 van de Wet medezeggenschap op scholen](https://wetten.overheid.nl/jci1.3:c:BWBR0020685&artikel=3), instemt met deelname aan het experiment.
 
-#### Artikel 5. Selectie
+##### Artikel 5. Selectie
 
 1. Er kunnen maximaal 20 scholen deelnemen aan het experiment.
 
@@ -98,11 +124,11 @@ Het doel van het experiment is om bij maximaal 20 scholen te onderzoeken:
 
 7. In afwijking van het tweede lid worden aanvragen met betrekking tot de scholen met de waardering ‘goed’ bovenaan de rangschikking geplaatst, direct na de scholen bedoeld in het zesde lid.
 
-#### Artikel 6. Beslistermijn
+##### Artikel 6. Beslistermijn
 
 De minister besluit uiterlijk op 13 juli 2020 op aanvragen tot deelname aan het experiment.
 
-#### Artikel 7. Looptijd en beëindiging van het experiment
+##### Artikel 7. Looptijd en beëindiging van het experiment
 
 1. Het experiment begint op 1 augustus 2020 en duurt 5 schooljaren.
 
@@ -112,22 +138,22 @@ De minister besluit uiterlijk op 13 juli 2020 op aanvragen tot deelname aan het 
 
 4. Onze Minister trekt een besluit tot toekenning van deelname aan het experiment onverwijld in als de Inspectie van het Onderwijs, blijkens een rapport als bedoeld in [artikel 20 van de Wet op het onderwijstoezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0013800&artikel=20), oordeelt dat de kwaliteit van het onderwijs op de deelnemende school ‘onvoldoende’ of ‘zeer zwak’ is.
 
-#### Artikel 8. Verlenging van het experiment
+##### Artikel 8. Verlenging van het experiment
 
 Indien naar aanleiding van het experiment wordt besloten tot aanpassing van de wettelijke voorschriften, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043216&artikel=2&z=2020-03-19&g=2020-03-19), kan Onze Minister besluiten de duur van het experiment te verlengen tot de inwerkingtreding van de nieuwe wettelijke voorschriften.
 
-#### Artikel 9. Informatieplicht
+##### Artikel 9. Informatieplicht
 
 Het bevoegd gezag van een aan het experiment deelnemende school werkt mee aan onderzoek van Onze Minister ten behoeve van de evaluatie en ontwikkeling van het experiment en beleid, onder meer door het verschaffen van inlichtingen.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Beleidsregel experiment flexibiliseren onderwijstijd](https://wetten.overheid.nl/jci1.3:c:BWBR0029968) wordt per 1 augustus 2021 ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregel experiment ruimte in onderwijstijd.

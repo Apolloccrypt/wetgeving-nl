@@ -1,13 +1,39 @@
 ---
-title: "Reglement Adviescommissie Zelfredzaamheid en Rechtsbijstand"
+title: "Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand en besluit tot vaststelling van het reglement van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand"
 identifier: "BWBR0047508"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-11-25
-laatste_update: 2022-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047508"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-11-25"
+last_updated: "2022-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047508"
+soort: "zbo"
+stam_id: "16573233"
+version_id: "29056042"
+internal_id: "C41303181"
+label_id: "16492784"
+dtd_version: "2.0"
+original_entry_into_force: "2022-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047508/2022-11-25/0"
+intitule_bron: "Stcrt.2022-31610"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-28"
+intitule_published: "2022-11-24"
+intitule_in_force: "2022-11-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-31610"
+original_signed_date: "2022-10-28"
+original_published_date: "2022-11-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-31610"
+entry_into_force_date: "2022-11-25"
+jci_1_3: "jci1.3:c:BWBR0047508&z=2022-11-25&g=2022-11-25"
+jci_1_0: "1.0:c:BWBR0047508&g=2022-11-25"
+citeertitel_status: "officieel"
+short_title: "Reglement Adviescommissie Zelfredzaamheid en Rechtsbijstand"
+signed_date: "2022-10-28"
+entry_into_force: "2022-11-25"
 ---
-
 # Besluit van het bestuur van de Raad voor Rechtsbijstand tot instelling van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand en besluit tot vaststelling van het reglement van de Adviescommissie Zelfredzaamheid Rechtshulp en Rechtsbijstand
 
 gelet op [artikel 3:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:5) jo. [artikel 37 b, van de Wet op de Rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b) jo. [artikel 7 van de Regeling Adviestoevoeging Zelfredzaamheid](https://wetten.overheid.nl/jci1.3:c:BWBR0046535&artikel=7) (stcrt-2021-33169),

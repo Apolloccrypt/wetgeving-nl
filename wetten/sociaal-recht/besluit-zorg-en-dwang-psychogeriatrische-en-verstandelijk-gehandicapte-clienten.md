@@ -1,13 +1,39 @@
 ---
-title: "Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+title: "Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)"
 identifier: "BWBR0042266"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042266"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042266"
+soort: "AMvB"
+stam_id: "15088183"
+version_id: "26655732"
+internal_id: "C37807781"
+label_id: "15036884"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042266/2025-01-01/0"
+intitule_bron: "Stb.2019-197"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-05-16"
+intitule_published: "2019-06-05"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stb.2020-129"
+original_signed_date: "2020-04-20"
+original_published_date: "2020-04-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-129"
+entry_into_force_date: "2020-04-20"
+jci_1_3: "jci1.3:c:BWBR0042266&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0042266&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+signed_date: "2020-04-20"
+entry_into_force: "2020-04-20"
 ---
-
 # Besluit van 16 mei 2019, houdende regels ter uitvoering van de Wet zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 januari 2019, kenmerk 1470088-166828-WJZ;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 1a. Gelijkgestelde ziekten en aandoeningen
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 Ambulante onvrijwillige zorg omvat het:
 
@@ -66,7 +92,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 - i. beperken van het recht op het ontvangen van bezoek.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Ambulante onvrijwillige zorg kan uitsluitend worden toegepast indien:
 
@@ -102,13 +128,13 @@ Ambulante onvrijwillige zorg omvat het:
 
 ### Hoofdstuk 3. Eisen deskundigen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 1. De onafhankelijke deskundige, bedoeld in [artikel 11 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=11), is een zorgverlener of een deskundige die beroepsmatig werkzaam is op het gebied van zorg en heeft aantoonbare kennis van en ervaring met de problematiek van de cliënt alsmede aantoonbare kennis van en ervaring met het voorkomen en afbouwen van onvrijwillige zorg voor de doelgroep waartoe de betrokken cliënt behoort.
 
 2. De onafhankelijke deskundige is gedurende ten minste één jaar niet betrokken geweest bij de behandeling van of de zorg aan de betrokken cliënt en functioneert onafhankelijk van de zorgaanbieder.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. Bij het voorbereiden van het besluit, bedoeld in [artikel 21, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=21), de verzoeken, bedoeld in de [artikelen 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=24), [28aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=28aa), [28ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=28ab), en [37, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=37) en het advies, bedoeld in [artikel 28a, tweede lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=28a), is in ieder geval een arts betrokken.
 
@@ -116,7 +142,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 ### Hoofdstuk 4. Gegevensverwerking
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De verwerkingsverantwoordelijke voor een gegevensverwerking die voortvloeit uit de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) treft de nodige maatregelen van technische en organisatorische aard teneinde te borgen dat persoonsgegevens zijn beveiligd tegen:
 
@@ -152,7 +178,7 @@ Ambulante onvrijwillige zorg omvat het:
 
 ### Hoofdstuk 4. Gegevensverwerking
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 In een klachtencommissie hebben in ieder geval zitting:
 
@@ -160,13 +186,13 @@ In een klachtencommissie hebben in ieder geval zitting:
 
 - b. een jurist alsmede een specialist ouderengeneeskunde, een psychiater of een gezondheidszorgpsycholoog als het een cliënt betreft met een psychogeriatrische aandoening.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 De klachtencommissie zendt de klager een bewijs van ontvangst van de klacht, waarin de datum van ontvangst is vermeld.
 
 ### Hoofdstuk 6. Cliëntenvertrouwenspersoon
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 De cliëntenvertrouwenspersoon heeft aantoonbare ervaring met het verrichten van werkzaamheden die kennis vereisen van:
 
@@ -176,29 +202,29 @@ De cliëntenvertrouwenspersoon heeft aantoonbare ervaring met het verrichten van
 
 - c. de rechten van personen aan wie tegen hun wil zorg wordt verleend.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 1. De cliëntenvertrouwenspersoon is niet tevens door de zorgaanbieder aangewezen op grond van [artikel 15 van de Wet kwaliteit, klachten en geschillen zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&artikel=15).
 
 2. De cliëntenvertrouwenspersoon is niet werkzaam voor de zorgaanbieder of het CIZ.
 
-#### Artikel 6.3
+##### Artikel 6.3
 
 De cliëntenvertrouwenspersoon geeft voorlichting aan de cliënten en hun vertegenwoordigers en aan de medewerkers van de zorgaanbieder over de aard en uitvoering van zijn taken op grond van [artikel 57 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&artikel=57).
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Dit besluit wordt aangehaald als: Besluit zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a.1
+##### Artikel 1a.1
 
 1. Met een psychogeriatrische aandoening of een verstandelijke handicap worden gelijkgesteld:
 

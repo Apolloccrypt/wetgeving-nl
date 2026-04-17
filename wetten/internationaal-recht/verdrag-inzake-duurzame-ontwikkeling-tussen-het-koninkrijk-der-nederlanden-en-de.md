@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica"
 identifier: "BWBV0001246"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-08-12
-laatste_update: 1996-08-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001246"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-08-12"
+last_updated: "1996-08-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001246"
+soort: "verdrag"
+stam_id: "10001600693"
+version_id: "10001678822"
+internal_id: "C10006986341"
+label_id: "10001600804"
+dtd_version: "2.0"
+original_entry_into_force: "1996-08-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001246/1996-08-12/0"
+intitule_bron: "Trb.1994-86"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-08-12"
+intitule_published: "1994-04-21"
+intitule_in_force: "1996-10-01"
+intitule_status: "goed"
+original_publication: "Trb.1994-86"
+original_signed_date: "1996-08-12"
+original_published_date: "1994-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-86"
+entry_into_force_date: "1996-08-12"
+jci_1_3: "jci1.3:c:BWBV0001246&z=1996-08-12&g=1996-08-12"
+jci_1_0: "1.0:c:BWBV0001246&g=1996-08-12"
+citeertitel_status: "redactioneel"
+signed_date: "1996-08-12"
+entry_into_force: "1996-08-12"
 ---
-
 # Verdrag inzake duurzame ontwikkeling tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica
 
 De Regering van het Koninkrijk der Nederlanden
@@ -38,13 +63,13 @@ Overwegende dat daartoe een verdrag zou moeten worden gesloten, waarmee een wett
 
 Zijn als volgt overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. De twee Regeringen komen hierbij overeen een langdurige samenwerking tussen hun landen, die gebaseerd is op gelijkwaardigheid en wederkerigheid, evenals op wederzijdse hulp en overleg, teneinde op effectieve en efficiënte wijze duurzame ontwikkeling in al zijn facetten na te streven, waarbij de participatie van alle maatschappelijke belangengroeperingen wordt bevorderd.
 
 2. Overeenkomstig het bovenstaande scheppen zij hierbij een wettelijk en institutioneel kader voor de ontwikkeling en uitvoering van beleidsmaatregelen, afspraken, programma's en projecten die zijn gericht op verwezenlijking van de doelstelling van dit Verdrag.
 
-#### Artikel II
+##### Artikel II
 
 De in artikel I genoemde beleidsmaatregelen, afspraken, programma's en projecten kunnen de volgende doelstellingen hebben:
 
@@ -80,17 +105,17 @@ De in artikel I genoemde beleidsmaatregelen, afspraken, programma's en projecten
 
 - p. het bevorderen en verwezenlijken van iedere andere vorm van samenwerking of uitwisseling die beide partijen van positieve invloed achten op het proces van duurzame ontwikkeling.
 
-#### Artikel III
+##### Artikel III
 
 Onverminderd hun respectievelijke internationale verplichtingen, zullen beide Regeringen gezamenlijk overleg voeren over de in te nemen standpunten ten aanzien van onderwerpen inzake duurzame ontwikkeling die in internationale instanties en specialistische internationale conferenties aan de orde worden gesteld. Indien dit nodig en wenselijk wordt geacht, zullen ook andere landen bij dit overleg worden betrokken.
 
-#### Artikel IV
+##### Artikel IV
 
 1. De samenwerking, en in het bijzonder de beleidsmaatregelen, afspraken, programma's en projecten zoals bedoeld in artikel I, zullen tot stand komen op basis van de tussen beide landen bestaande verdragen, beleidsmaatregelen, afspraken, programma's en projecten, en zullen op geen enkele wijze gevolgen hebben voor de verplichtingen die beide landen in het kader van andere verdragen zijn aangegaan.
 
 2. Wat betreft de eventuele programma's en projecten voor duurzame ontwikkeling die tussen beide Regeringen zijn overeengekomen vóór de datum van de inwerkingtreding van dit Verdrag, en die nog niet op die datum zijn afgerond, zullen beide Regeringen besluiten of, en zo ja in welke mate, het desbetreffende project of programma door dit Verdrag zal worden geregeld.
 
-#### Artikel V
+##### Artikel V
 
 1. De beide Regeringen richten hierbij een Gezamenlijke Commissie op, waarvoor elk van beide Regeringen niet meer dan twee hoge functionarissen aanwijst. Beide Regeringen zullen een nationaal uitvoerend mechanisme aanwijzen volgens het bepaalde in artikel VI.
 
@@ -104,7 +129,7 @@ Onverminderd hun respectievelijke internationale verplichtingen, zullen beide Re
 
 6. De beslissingen van de Gezamenlijke Commissie zullen worden genomen op basis van eenstemmigheid tussen beide partijen.
 
-#### Artikel VI
+##### Artikel VI
 
 Teneinde de uitvoering van dit verdrag te bevorderen, zullen beide regeringen een nationaal mechanisme aanwijzen of in het leven roepen voor de voorbereiding en uitvoering van beslissingen die in het kader van dit verdrag zijn genomen.
 
@@ -112,7 +137,7 @@ De beide regeringen zullen elkaar op de hoogte stellen van de door hen te benoem
 
 Bij de voorbereiding en uitvoering van dergelijke beslissingen zal de participatie van alle maatschappelijke belangengroeperingen van beide landen worden bevorderd.
 
-#### Artikel VII
+##### Artikel VII
 
 1. Dit Verdrag treedt in werking op de dag waarop de beide Regeringen elkaar schriftelijk hebben medegedeeld dat aan de hiervoor vereiste wettelijke procedures van hun onderscheiden landen is voldaan.
 

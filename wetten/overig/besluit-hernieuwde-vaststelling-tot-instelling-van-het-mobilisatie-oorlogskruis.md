@@ -1,24 +1,46 @@
 ---
-title: "Besluit hernieuwde vaststelling tot instelling van het Mobilisatie-Oorlogskruis"
+title: "Besluit van 1 oktober 1992, houdende hernieuwde vaststelling van het besluit tot instelling van het Mobilisatie-Oorlogskruis"
 identifier: "BWBR0005675"
-categorie: "Overig"
-publicatiedatum: 1992-12-01
-laatste_update: 1992-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005675"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "1992-12-01"
+last_updated: "1992-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005675"
+soort: "rijksKB"
+stam_id: "565073"
+version_id: "822632"
+internal_id: "C822631"
+label_id: "548614"
+dtd_version: "2.0"
+original_entry_into_force: "1992-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005675/1992-12-01/0"
+intitule_bron: "Stb.1992-559"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-10-01"
+intitule_status: "goed"
+original_publication: "Stb.1992-559"
+original_signed_date: "1992-10-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-12-01"
+jci_1_3: "jci1.3:c:BWBR0005675&z=1992-12-01&g=1992-12-01"
+jci_1_0: "1.0:c:BWBR0005675&g=1992-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit hernieuwde vaststelling tot instelling van het Mobilisatie-Oorlogskruis"
+signed_date: "1992-10-01"
+entry_into_force: "1992-12-01"
 ---
-
 # Besluit van 1 oktober 1992, houdende hernieuwde vaststelling van het besluit tot instelling van het Mobilisatie-Oorlogskruis
 
 Op de voordracht van Onze Minister van Defensie van 23 september 1992, Sectie Onderscheidingen, nr. DO 024/92/25281, gedaan mede namens Onze Ministers voor Nederlands-Antilliaanse en Arubaanse Zaken, van Binnenlandse Zaken, van Verkeer en Waterstaat en van Landbouw, Natuurbeheer en Visserij;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Mobilisatie-Oorlogskruis.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het versiersel van het Mobilisatie-Oorlogskruis bestaat uit een vierarmig bronzen kruis, waarvan de armen gevormd worden door facetvormig geslepen zwaardpunten. Tussen de armen van het kruis bevinden zich diagonaalsgewijs gekruist twee stormdolken met de punten naar boven gericht. Op deze dolken rust een helm, omgeven met een lauwerkrans. Als komende uit het hart van het kruis, bevindt zich tussen de kruisarmen een cirkelvormige uitstraling. De lengte der kruisarmen is 21 mm en de grootste breedte is 13 mm. De lengte der dolken is 29 mm, de breedte van het lemmet is 2½ mm en de breedte van de heftknop is 4 mm. De achterzijde van het kruis draagt de tekst "Den Vaderlant ghetrouwe" en heeft in het midden een cirkel, die over de helft der kruisarmen valt. De cirkel is begrensd door de achterzijde van de uitstraling en is hol.
 
@@ -26,7 +48,7 @@ Er is een Mobilisatie-Oorlogskruis.
 
 3. Het is aan hen, die zijn gerechtigd tot het dragen van het Mobilisatie-Oorlogskruis vergund een kruis van verkleind model onder aan het lint, dan wel het lint alleen te dragen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie worden toegekend aan:
 
@@ -62,23 +84,23 @@ voorzover zij in alle opzichten een goede plichtsbetrachting en een goed gedrag 
 
 2. Waar in het voorgaande lid een bepaalde diensttijd wordt geëist behoeft deze niet onafgebroken te zijn geweest.
 
-#### Artikel 4
+##### Artikel 4
 
 De in het vorige artikel genoemde diensttijd is niet vereist voor hen, die in een der voormelde tijdvakken door een dienstongeval om het leven zijn gekomen, dan wel voor de dienst ongeschikt zijn verklaard.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Mobilisatie-Oorlogskruis kan door of namens Onze Minister van Defensie postuum worden toegekend.
 
-#### Artikel 6
+##### Artikel 6
 
 In bijzondere gevallen kan door Onze Minister van Defensie toekenning van het Mobilisatie-Oorlogskruis tijdelijk of blijvend worden ontnomen aan hen, die zich dit herinneringsteken niet langer waardig tonen.
 
-#### Artikel 7
+##### Artikel 7
 
 Het koninklijk besluit van 11 oktober 1948 (**Stb** I 366) wordt ingetrokken.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

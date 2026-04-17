@@ -1,13 +1,39 @@
 ---
-title: "Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen"
+title: "Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen"
 identifier: "BWBR0023022"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023022"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023022"
+soort: "AMvB"
+stam_id: "9317753"
+version_id: "14966392"
+internal_id: "C20365471"
+label_id: "9296194"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023022/2018-01-01/0"
+intitule_bron: "Stb.2007-518"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-12-06"
+intitule_published: "2007-12-19"
+intitule_in_force: "2007-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2007-518"
+original_signed_date: "2007-12-06"
+original_published_date: "2007-12-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2007-518"
+entry_into_force_date: "2008-01-01"
+jci_1_3: "jci1.3:c:BWBR0023022&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0023022&g=2018-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit tijdelijke verruiming toepassingsbereik concentratietoezicht op ondernemingen die zorg verlenen"
+signed_date: "2007-12-06"
+entry_into_force: "2008-01-01"
 ---
-
 # Besluit van 6 december 2007, houdende tijdelijke verruiming van het toepassingsbereik van het concentratietoezicht op ondernemingen die zorg verlenen
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 juni 2007, nr. WJZ 7070387;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 3 december 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij concentraties waarbij ten minste twee van de betrokken ondernemingen in het voorafgaande kalenderjaar met het verlenen van zorg, als bedoeld in het tweede lid, ieder afzonderlijk een omzet hebben behaald van meer dan € 5 500 000, worden de bedragen, bedoeld in [artikel 29, eerste lid, van de Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691&artikel=29), als volgt verlaagd:
 
@@ -36,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 - c. voorzieningen als bedoeld in [artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362&artikel=1.1.1) voor zover die betrekking hebben op het leveren van de zorg voor het schoon en op orde houden van het huishouden en de zorg voor het kunnen beschikken over schoon beddengoed en schone kleding.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt met ingang van 1 januari 2023.
 

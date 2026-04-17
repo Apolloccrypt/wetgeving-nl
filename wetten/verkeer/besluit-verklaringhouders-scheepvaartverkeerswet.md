@@ -1,13 +1,39 @@
 ---
-title: "Besluit verklaringhouders Scheepvaartverkeerswet"
+title: "Besluit van 16 augustus 1995, houdende bepalingen met betrekking tot houders van een verklaring van vrijstelling van de loodsplicht"
 identifier: "BWBR0007513"
-categorie: "Verkeer"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007513"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007513"
+soort: "AMvB"
+stam_id: "2828113"
+version_id: "4351802"
+internal_id: "C4351801"
+label_id: "2776964"
+dtd_version: "2.0"
+original_entry_into_force: "1995-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007513/2014-01-01/0"
+intitule_bron: "Stb.1995-396"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-08-16"
+intitule_published: "1995-08-31"
+intitule_in_force: "1995-08-31"
+intitule_status: "goed"
+original_publication: "Stb.1995-396"
+original_signed_date: "1995-08-16"
+original_published_date: "1995-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1995-396"
+entry_into_force_date: "1995-10-01"
+jci_1_3: "jci1.3:c:BWBR0007513&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0007513&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit verklaringhouders Scheepvaartverkeerswet"
+signed_date: "1995-08-16"
+entry_into_force: "1995-10-01"
 ---
-
 # Besluit van 16 augustus 1995, houdende bepalingen met betrekking tot houders van een verklaring van vrijstelling van de loodsplicht
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 20 februari 1995, nr. J-10.971/95, Directoraat-Generaal Scheepvaart en Maritieme Zaken, Stafafdeling Wetgeving en Juridische Zaken;
@@ -20,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -52,7 +78,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 - j. scheepsramp: voorval of ongeval, overkomen aan een schip ten gevolge waarvan schade van betekenis aan dat schip of de zaken aan boord daarvan of letsel aan een of meer van de opvarenden, of schade aan een ander schip of de zaken aan boord daarvan, danwel letsel aan een of meer van de opvarenden of schade aan het mariene milieu daarvan is veroorzaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De regionale autoriteit kan voor een of meer scheepvaartwegen of gedeelten daarvan, onverminderd het bepaalde in de tweede volzin van het tweede lid, in de regio of het gedeelte daarvan waarvoor hij aangewezen is, een verklaring van vrijstelling afgeven. Deze verklaring is geldig voor de vaart naar en van een of meer daarin aangegeven ligplaatsen of voor de vaart naar, van en in een of meer daarin aangegeven havenbekkens en voor een daarin aangegeven zeeschip, aan de kapitein en de stuurman van het zeeschip waarop deze persoon als verkeersdeelnemer optreedt, indien voldaan wordt aan de voor de afgifte van een verklaring gestelde eisen.
 
@@ -70,7 +96,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk II. Aanvraag en afgifte, verlies van geldigheid en intrekking van de verklaring
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de aanvraag van een verklaring worden de navolgende bescheiden of afschriften daarvan overgelegd:
 
@@ -96,7 +122,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 4. Indien de aanvrager reeds in het bezit is van een verklaring legt hij, in afwijking van het in [dit artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01) bepaalde, uitsluitend de bewijsstukken, bedoeld in het eerste lid, onderdelen **a**, **c** en **e**, over aan de regionale autoriteit die de verklaring heeft afgegeven.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In dit artikel wordt verstaan onder:
 
@@ -114,7 +140,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 3. Op lage kruiplijn-coasters is [artikel 6 van het Loodsplichtbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=6), van overeenkomstige toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het getuigschrift, bedoeld in [artikel 3, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01), wordt door de voorzitter van de examencommissie afgegeven, nadat met goed gevolg een uit een theoretisch en een praktisch gedeelte bestaand examen is afgelegd.
 
@@ -122,7 +148,7 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 3. De opleiding en de examinering geschieden, naar keuze van de kandidaat, in de Nederlandse of Engelse taal, met uitzondering van de examinering van het vak "Voertaal".
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verklaring verliest zijn geldigheid van rechtswege, indien zich een van de navolgende omstandigheden voordoet:
 
@@ -154,11 +180,11 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk III. Verplichtingen van de verklaringhouder en controle
 
-#### Artikel 7
+##### Artikel 7
 
 De houder van een verklaring overlegt periodiek een verklaring van geschiktheid voor de zeevaart en een verklaring betreffende het gezichts- en gehoororgaan van kapiteins en stuurlieden, aan de regionale autoriteit, volgens het bepaalde in [artikel 6, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=6&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De houder van een verklaring meldt zich voor het binnenkomen van de scheepvaartweg waarvoor de verklaring is afgegeven als zodanig op het door de bevoegde autoriteit aangewezen marifoonkanaal en verstrekt de door de bevoegde autoriteit verlangde gegevens.
 
@@ -170,7 +196,7 @@ De houder van een verklaring overlegt periodiek een verklaring van geschiktheid 
 
 5. De houder van een verklaring doet in geval van een scheepsramp, waarbij hij direct of indirect betrokken is, zo spoedig mogelijk een schriftelijke verklaring inzake het gebeurde en zijn navigatiebeleid daarbij toekomen aan de regionale autoriteit van de regio waar de gebeurtenis heeft plaatsgevonden en verschaft desgevraagd aan deze nadere informatie. Deze verklaring en de nadere informatie mag slechts gebruikt worden voor leringsdoeleinden en mag in geen geval dienen als bewijs tegen de verklaringhouder in geval van vervolging.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De bevoegde autoriteit is belast met het toezicht op de naleving van de verplichting van degene, die aan boord van een zeeschip als verkeersdeelnemer optreedt, om in het bezit van een verklaring te zijn.
 
@@ -178,7 +204,7 @@ De houder van een verklaring overlegt periodiek een verklaring van geschiktheid 
 
 ### Hoofdstuk IV. De examencommissies en de commissie van gecommitteerden
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er is in elke regio een commissie voor de verklaringhoudersexamens namens het bestuur van de regionale loodsencorporatie, die, ter uitvoering van [artikel 13, eerste lid, onderdeel **b**, van de Loodsenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004365&artikel=13), examens afneemt ter verkrijging van het getuigschrift, bedoeld in [artikel 3, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01).
 
@@ -190,11 +216,11 @@ De houder van een verklaring overlegt periodiek een verklaring van geschiktheid 
 
 5. Van iedere benoeming wordt mededeling gedaan aan de commissie van gecommitteerden.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Er is een landelijke commissie van gecommitteerden die toezicht houdt op de verklaringhoudersexamens.
 
@@ -212,11 +238,11 @@ Dit onderdeel is nog niet inwerking getreden
 
 ### Hoofdstuk V. De examens
 
-#### Artikel 13
+##### Artikel 13
 
 De regionale autoriteit bepaalt na overleg met de voorzitter van de examencommissie en de voorzitter van de (sub-)commissie van gecommitteerden wanneer, waar en op welke wijze gelegenheid bestaat examens af te leggen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De voorzitter van de betreffende examencommissie stelt na overleg met de voorzitter van de (sub-)commissie van gecommitteerden het rooster voor de af te nemen examens en examenonderdelen vast.
 
@@ -232,25 +258,25 @@ De regionale autoriteit bepaalt na overleg met de voorzitter van de examencommis
 
 - e. de plaats, datum en tijd van de uitreiking van de cijferlijsten, bedoeld in [artikel 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=26&z=2014-01-01&g=2014-01-01), en het getuigschrift bedoeld in [artikel 3, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01).
 
-#### Artikel 15
+##### Artikel 15
 
 De secretaris van de betreffende examencommissie draagt zorg dat hetgeen op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=13&z=2014-01-01&g=2014-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=14&z=2014-01-01&g=2014-01-01) wordt vastgesteld tijdig aan de kandidaten, de examencommissie, en de voorzitter van de (sub-)commissie van gecommitteerden bekend wordt gemaakt.
 
-#### Artikel 16
+##### Artikel 16
 
 De voorzitter van de betreffende examencommissie roept de examinatoren en, na overleg met de voorzitter van de (sub-)commissie van gecommitteerden, de gecommitteerden op naarmate de aard en de omvang van de werkzaamheden hun aanwezigheid vereisen.
 
-#### Artikel 17
+##### Artikel 17
 
 Om te worden toegelaten tot het afleggen van een examen voor verklaringhouder moet de kandidaat aan de examencommissie een bewijsstuk overleggen, waaruit blijkt dat is voldaan aan de in [artikel 3, eerste lid, onderdeel **b**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01), genoemde voorwaarde.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De kandidaat legt op de betreffende plaats, datum en tijd, voordat het examen wordt afgenomen, zijn paspoort, rijbewijs of een ander identiteitsbewijs aan de examinator over, ten genoegen van de voorzitter van de betreffende examencommissie.
 
 2. De kandidaat die opzettelijk valse of vervalste bescheiden overlegt, wordt door de voorzitter van de betreffende examencommissie van deelneming aan het examen uitgesloten. De voorzitter van de betreffende examencommissie legt een dergelijke beslissing binnen twee weken vast in een beschikking.
 
-#### Artikel 19
+##### Artikel 19
 
 Het examen voor verklaringhouder bestaat uit de volgende examenvakken:
 
@@ -266,7 +292,7 @@ Het examen voor verklaringhouder bestaat uit de volgende examenvakken:
 
 alle uitsluitend voor zover [deze onderdelen](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=19&z=2014-01-01&g=2014-01-01) betrekking hebben op het gebied waarvoor de verklaring is aangevraagd.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De kennis en vaardigheid die wordt gevorderd is per examenvak, genoemd in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=19&z=2014-01-01&g=2014-01-01), aangegeven in het als bijlage bij dit besluit gevoegde examenprogramma.
 
@@ -274,7 +300,7 @@ alle uitsluitend voor zover [deze onderdelen](https://wetten.overheid.nl/jci1.3:
 
 3. De in het tweede lid bedoelde regionale autoriteit kan in geval van geringe grensoverschrijding van een bepaald voertaalgebied voor de voertaal op dat beperkte traject ontheffing verlenen voor het examenvak voertaal.
 
-#### Artikel 21
+##### Artikel 21
 
 Het examen wordt als volgt afgenomen:
 
@@ -284,13 +310,13 @@ Het examen wordt als volgt afgenomen:
 
 - c. de examenvakken, bedoeld in [artikel 19, onderdelen d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=19&z=2014-01-01&g=2014-01-01), mondeling en praktisch door middel van het maken van drie proefreizen, naar zee gaand en van zee komend, waarvan ten minste één naar zee gaand en één van zee komend, alsmede door middel van een simulatortoets, indien de regionale autoriteit de scheepvaartweg of een gedeelte daarvan vanwege de karakteristiek, de afmetingen en de daarover of daarin gelegen kunstwerken afzonderlijk heeft aangewezen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het mondeling examen in de examenvakken, bedoeld in [artikel 19, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=19&z=2014-01-01&g=2014-01-01), wordt per kandidaat afgenomen door twee examinatoren in het bijzijn van een gecommitteerde. Een van hen houdt aantekening van de inhoud en het verloop van het examenvak. De gecommitteerde is bevoegd de examinatoren te verzoeken over bepaalde onderdelen van de examenstof vragen te stellen. De gecommitteerde stelt tezamen met de examinatoren het cijfer vast.
 
 2. Indien een examenvak schriftelijk wordt afgenomen, zijn de [artikelen 16 tot en met 22 van het Besluit adspirant-registerloodsen](https://wetten.overheid.nl/jci1.3:c:BWBR0004391&artikel=16), zoals die artikelen luidden op 31 december 2013, van toepassing.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Een proefreis als bedoeld in [artikel 21, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=21&z=2014-01-01&g=2014-01-01), wordt per kandidaat afgenomen door een of meer beoordelaars, die geen lid behoeven te zijn van de examencommissie en die de kandidaat beoordelen op de wijze waarop deze de navigatie leidt. De beoordelaar of beoordelaars houden aantekening van de inhoud en het verloop van de proefreis en de simulatortoets, bedoeld in [artikel 21, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=21&z=2014-01-01&g=2014-01-01), en brengen daarvan schriftelijk verslag uit aan de examencommissie, en in afschrift aan de commissie van gecommitteerden. De regionale autoriteit kan bepalen dat de proefreis en de simulatortoets worden afgenomen in aanwezigheid van een gecommitteerde.
 
@@ -304,7 +330,7 @@ Het examen wordt als volgt afgenomen:
 
 4. Op de beoordelaars, bedoeld in het eerste lid, zijn de bepalingen ten aanzien van examinatoren van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De beoordeling van een examenvak of gedeelte daarvan wordt uitgedrukt in gehele cijfers, waarvan het laagste cijfer 1 en het hoogste cijfer 10 is.
 
@@ -318,11 +344,11 @@ Het examen wordt als volgt afgenomen:
 
 6. Indien voor meer dan een examenvak het cijfer 5 is behaald, dan wel voor een of meer dan een examenvak een cijfer lager dan 5 is behaald wordt de kandidaat voor het examen afgewezen.
 
-#### Artikel 25
+##### Artikel 25
 
 De betreffende examencommissie stelt in een vergadering, waarbij ten minste een gecommitteerde aanwezig is, vast welke kandidaten zijn geslaagd, welke zijn afgewezen, en welke in aanmerking komen voor een herexamen. De voorzitter van de examencommissie zendt de uitslag toe aan de voorzitter van de commissie van gecommitteerden.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Zo spoedig mogelijk na de vergadering, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=25&z=2014-01-01&g=2014-01-01), wordt de uitslag aan de kandidaten medegedeeld.
 
@@ -334,7 +360,7 @@ De betreffende examencommissie stelt in een vergadering, waarbij ten minste een 
 
 5. De voorzitter en de secretaris van de betreffende examencommissie, alsmede een van de betrokken gecommitteerden ondertekenen het getuigschrift, bedoeld in [artikel 3, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01), en de cijferlijst, bedoeld in het tweede lid.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De bepalingen betreffende de examens zijn van overeenkomstige toepassing op de herexamens.
 
@@ -342,43 +368,43 @@ De betreffende examencommissie stelt in een vergadering, waarbij ten minste een 
 
 3. Indien bij het herexamen voor het examenvak het cijfer 5 of lager wordt behaald, of indien van de gelegenheid tot het afleggen van een herexamen geen gebruik wordt gemaakt, wordt de kandidaat afgewezen.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Indien de kandidaat is afgewezen kan door de betreffende examencommissie een termijn worden vastgesteld waarna hij wederom examen af kan leggen.
 
 2. De kandidaat die wederom tot het examen wordt toegelaten, wordt vrijstelling verleend van de examenvakken waarvoor hij reeds het cijfer 6 of hoger heeft behaald.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien een kandidaat ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=18&z=2014-01-01&g=2014-01-01), wordt uitgesloten van deelneming aan het examen, of indien hij zich tijdens het examen terugtrekt, wordt hij afgewezen. De voorzitter van de betreffende examencommissie legt een dergelijke beslissing binnen twee weken vast in een beschikking en doet daarvan, door toezending van een afschrift, mededeling aan de voorzitter van de commissie van gecommitteerden. De afwijzing ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=18&z=2014-01-01&g=2014-01-01), kan geen aanleiding geven tot toepassing van [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=28&z=2014-01-01&g=2014-01-01).
 
 2. Indien een kandidaat zich tijdens het examen terugtrekt vindt het bepaalde in het eerste lid geen toepassing, als zulks naar het oordeel van de voorzitter het gevolg is van overmacht.
 
-#### Artikel 30
+##### Artikel 30
 
 Een duplicaat van een uitgereikt getuigschrift wordt slechts afgegeven indien de belanghebbende aannemelijk kan maken, dat het oorspronkelijke getuigschrift verloren is geraakt.
 
-#### Artikel 31
+##### Artikel 31
 
 In gevallen waarin dit besluit niet voorziet beslist de voorzitter van de betreffende examencommissie, na overleg met de voorzitter van de commissie van gecommitteerden.
 
 ### Hoofdstuk VI. Beroep
 
-#### Artikel 32
+##### Artikel 32
 
 Tegen een beslissing van de voorzitter als bedoeld in [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=18&z=2014-01-01&g=2014-01-01), [29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=29&z=2014-01-01&g=2014-01-01) of [31](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=V&artikel=31&z=2014-01-01&g=2014-01-01), mits niet betreffende de kennis of vaardigheid van de kandidaat, kan de kandidaat beroep instellen bij de daartoe door de algemene raad van de Nederlandse loodsencorporatie ten behoeve van de opleiding van registerloodsen ingestelde commissie van beroep.
 
-#### Artikel 33
+##### Artikel 33
 
 De commissie van beroep voor loodsenexamens doet van haar beslissing op het beroep, door toezending van een afschrift, mededeling aan de voorzitter van de commissie van gecommitteerden.
 
-#### Artikel 34
+##### Artikel 34
 
 De betreffende examencommissie handelt overeenkomstig de beslissing van de commissie van beroep voor loodsenexamens.
 
 ### Hoofdstuk VII. Overgangs- en slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Op het tijdstip van inwerkingtreding van dit besluit op grond van [artikel 7, eerste lid, van het Loodsplichtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=7), afgegeven en geldige verklaringen van vrijstelling, blijven onverminderd geldig tot de in die verklaringen vermelde periode is verstreken.
 
@@ -392,11 +418,11 @@ De betreffende examencommissie handelt overeenkomstig de beslissing van de commi
 
 4. Op het tijdstip van inwerkingtreding van dit besluit op grond van [artikel 9, eerste lid, van het Loodsplichtbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007512&artikel=9) afgegeven getuigschriften, worden gelijkgesteld met getuigschriften als bedoeld in [artikel 3, eerste lid, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=II&artikel=3&z=2014-01-01&g=2014-01-01), van dit besluit.
 
-#### Artikel 36
+##### Artikel 36
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 37
+##### Artikel 37
 
 Dit besluit kan worden aangehaald als: Besluit verklaringhouders Scheepvaartverkeerswet.
 
@@ -450,7 +476,7 @@ II. Exameneisen voor het examen verklaringhouder:
 
 Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 8a
+##### Artikel 8a
 
 De regionale autoriteit kan, indien de houder van een verklaring daarmee instemt, bepalen dat de houder zich onderwerpt aan een beoordelingsreis. De beoordelaar wordt aangewezen door de regionale autoriteit. De beoordelaar brengt van de reis schriftelijk verslag uit aan de regionale autoriteit.
 
@@ -512,7 +538,7 @@ II. Exameneisen voor het examen verklaringhouder:
 
 Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 35a
+##### Artikel 35a
 
 De op het tijdstip van inwerkingtreding van dit artikel, op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007513&hoofdstuk=I&artikel=2&z=2014-01-01&g=2014-01-01) van dit besluit, afgegeven en geldige verklaringen die betrekking hebben op het bevaren van een of meer scheepvaartwegen of gedeelten daarvan waarop het Scheldereglement van toepassing is, blijven geldig tot de dag dat de in die verklaring vermelde periode is verstreken.
 

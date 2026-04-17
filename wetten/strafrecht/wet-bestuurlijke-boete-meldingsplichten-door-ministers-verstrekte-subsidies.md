@@ -1,14 +1,41 @@
 ---
-title: "Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies"
+title: "Wet van 27 september 2012 tot introductie van de bestuurlijke boete bij niet naleving van bijzondere meldingsplichten bij rijkssubsidies (Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies)"
 identifier: "BWBR0032155"
-categorie: "Strafrecht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032155"
+country: "nl"
+rank: "wet"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032155"
+soort: "wet"
+stam_id: "11890053"
+version_id: "19744022"
+internal_id: "C27733631"
+label_id: "11862154"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032155/2013-07-01/0"
+intitule_bron: "Stb.2012-527"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-09-27"
+intitule_published: "2012-10-31"
+intitule_in_force: "2012-10-31"
+intitule_status: "goed"
+original_publication: "Stb.2012-527"
+original_signed_date: "2012-09-27"
+original_published_date: "2012-10-31"
+original_effect: "nieuwe-regeling"
+original_dossier: "32838"
+original_url_id: "stb-2012-527"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032155&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0032155&g=2013-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies"
+signed_date: "2012-09-27"
+entry_into_force: "2013-01-01"
 ---
-
-# Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies
+# Wet van 27 september 2012 tot introductie van de bestuurlijke boete bij niet naleving van bijzondere meldingsplichten bij rijkssubsidies (Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,19 +43,19 @@ Alzo Wij in overweging genomen hebben, dat het met het oog op het tegengaan van 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Deze wet is van toepassing op door Onze Ministers verstrekte subsidies waarop ingevolge de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)[titel 4.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2) van toepassing is.
 
-#### Artikel 2
+##### Artikel 2
 
 Indien voor een subsidie een datum geldt waarop de activiteiten waarvoor de subsidie is verleend uiterlijk moeten zijn verricht alsmede een datum waarop de subsidie uiterlijk ambtshalve wordt vastgesteld, verbindt Onze Minister die het aangaat aan de subsidiebeschikking de bijzondere meldingsplicht voor de subsidieontvanger om, zodra de eerstgenoemde datum is verstreken zonder dat de activiteiten geheel zijn verricht, daarvan onverwijld een schriftelijke melding te doen bij Onze Minister.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien bij de verlening van een subsidie tevens voorschotten van in totaal per jaar gemiddeld € 200 000 of meer ambtshalve worden verleend, kan Onze Minister die het aangaat aan de subsidie de bijzondere meldingsplicht verbinden om, indien de gemaakte subsidiabele kosten in bij die beschikking te bepalen periodes 75% of minder bedragen van de voor de desbetreffende periode begrote subsidiabele kosten, dit binnen twee maanden na afloop van die periode schriftelijk te melden bij Onze Minister.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien aan een subsidie verplichtingen zijn verbonden die strekken tot het voorkomen van inzet van dwangarbeid en kinderarbeid bij subsidiabele activiteiten in het buitenland, kan Onze Minister die het aangaat aan de subsidie tevens de bijzondere meldingsplicht verbinden om feiten en omstandigheden die duiden op inzet van dwangarbeid of kinderarbeid door één of meer van de bij de subsidiabele activiteiten betrokken partijen die in de beschikking tot verlening van de subsidie zijn aangeduid, binnen een daarbij te bepalen termijn schriftelijk te melden.
 
@@ -58,35 +85,35 @@ Indien bij de verlening van een subsidie tevens voorschotten van in totaal per j
 
 8. Onze Minister die het aangaat kan bij toepassing van het zevende lid voorschriften en beperkingen aan de subsidiebeschikking verbinden met het oog op bescherming van de ontwikkeling, scholing, gezondheid, veiligheid en zedelijkheid van de desbetreffende personen.
 
-#### Artikel 5
+##### Artikel 5
 
 Een beschikking waarbij een bijzondere meldingsplicht als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-07-01&g=2013-07-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-07-01&g=2013-07-01) of [4](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-07-01&g=2013-07-01) aan een subsidie wordt verbonden, merkt deze aan als bijzondere meldingsplicht in de zin van deze wet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=2&z=2013-07-01&g=2013-07-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vierde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
 2. Het niet voldoen aan de bijzondere meldingsplicht, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=3&z=2013-07-01&g=2013-07-01) of [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032155&artikel=4&z=2013-07-01&g=2013-07-01), is een overtreding ter zake waarvan door Onze Minister die het aangaat een bestuurlijke boete kan worden opgelegd van ten hoogste het bedrag van de vijfde categorie geldboete, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
 2. Vervallen.
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister van Financiën zendt binnen 5 jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet is niet van toepassing op subsidies die voor de inwerkingtreding van deze wet zijn verstrekt.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet wordt aangehaald als: Wet bestuurlijke boete meldingsplichten door ministers verstrekte subsidies.
 

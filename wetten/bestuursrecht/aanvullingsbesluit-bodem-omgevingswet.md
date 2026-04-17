@@ -1,13 +1,39 @@
 ---
-title: "Aanvullingsbesluit bodem Omgevingswet"
+title: "Besluit van 27 november 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsbesluit bodem Omgevingswet)"
 identifier: "BWBR0044911"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044911"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044911"
+soort: "AMvB"
+stam_id: "15878453"
+version_id: "27593302"
+internal_id: "C42389221"
+label_id: "15812584"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044911/2024-01-01/0"
+intitule_bron: "Stb.2021-98"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-11-27"
+intitule_published: "2021-02-25"
+intitule_in_force: "2023-04-07"
+intitule_status: "goed"
+original_publication: "Stb.2021-98"
+original_signed_date: "2020-11-27"
+original_published_date: "2021-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-98"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0044911&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0044911&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Aanvullingsbesluit bodem Omgevingswet"
+signed_date: "2020-11-27"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 27 november 2020 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit kwaliteit leefomgeving, het Omgevingsbesluit en enkele andere besluiten met het oog op het beschermen van de bodem, met inbegrip van het grondwater, en het duurzaam en doelmatig gebruik van de bodem (Aanvullingsbesluit bodem Omgevingswet)
 
 Op de voordracht van de Staatssecretaris van Infrastructuur en Waterstaat van 6 april 2020, nr. IENW/BSK-2020/49546, Hoofddirectie Bestuurlijke en Juridische Zaken, gedaan mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -22,25 +48,25 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Wijziging in de uitvoeringsregelgeving van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885)
 
-#### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+##### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel II. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
+##### Artikel II. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel III. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
+##### Artikel III. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-#### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
+##### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
 ### Hoofdstuk 2. Wijziging en intrekking andere regelgeving
 
-#### Artikel V. (intrekking)
+##### Artikel V. (intrekking)
 
 De volgende besluiten worden ingetrokken:
 
@@ -56,51 +82,51 @@ De volgende besluiten worden ingetrokken:
 
 - f. [Besluit uniforme saneringen](https://wetten.overheid.nl/jci1.3:c:BWBR0019511).
 
-#### Artikel VI. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
+##### Artikel VI. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel VII. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
+##### Artikel VII. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel VIII. ([Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0025319))
+##### Artikel VIII. ([Besluit financiële bepalingen bodemsanering](https://wetten.overheid.nl/jci1.3:c:BWBR0025319))
 
 Wijzigt het Besluit financiële bepalingen bodemsanering.
 
-#### Artikel IX. ([Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530))
+##### Artikel IX. ([Besluit gewasbeschermingsmiddelen en biociden](https://wetten.overheid.nl/jci1.3:c:BWBR0022530))
 
 Wijzigt het Besluit gewasbeschermingsmiddelen en biociden.
 
-#### Artikel X. ([Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294))
+##### Artikel X. ([Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0017294))
 
 Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
-#### Artikel XI. ([Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel XI. ([Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
 
 Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
-#### Artikel XII. ([Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778))
+##### Artikel XII. ([Productenbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0017778))
 
 Wijzigt het Productenbesluit asbest.
 
-#### Artikel XIII. ([Uitvoeringsbesluit Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0019031))
+##### Artikel XIII. ([Uitvoeringsbesluit Meststoffenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0019031))
 
 Wijzigt het Uitvoeringsbesluit Meststoffenwet.
 
-#### Artikel XIV. ([Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178))
+##### Artikel XIV. ([Uitvoeringsbesluit belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007178))
 
 Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
 ### Hoofdstuk 3. Overgangsrecht
 
-#### Artikel XV. (overgangsrecht melding graven)
+##### Artikel XV. (overgangsrecht melding graven)
 
 1. Een melding als bedoeld in [artikel 28 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=28), die voor de inwerkingtreding van dit besluit is gedaan, als op de activiteit in die melding na de inwerkingtreding van dit besluit een verbodsbepaling als bedoeld in [artikel 4.4, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.4) van toepassing is, geldt als een melding van die activiteit als bedoeld in [paragraaf 4.120 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.120).
 
 2. Een melding als bedoeld in [artikel 28 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=28), die voor de inwerkingtreding van dit besluit is gedaan, als op de activiteit in die melding na de inwerkingtreding van dit besluit op grond van [artikel 4.3, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.3) een andere informatieverplichting dan een melding van toepassing is, geldt als een verstrekking van informatie over die activiteit als bedoeld in [paragraaf 4.119](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.119) of [4.120 van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&paragraaf=4.120).
 
-#### Artikel XVI. (overgangsrecht voor het toepassen van bouwstoffen, grond of baggerspecie en voor overige handelingen met bouwstoffen)
+##### Artikel XVI. (overgangsrecht voor het toepassen van bouwstoffen, grond of baggerspecie en voor overige handelingen met bouwstoffen)
 
 1. Het oude recht blijft van toepassing op het voor toepassing in Nederland of voor handelsdoeleinden voor de Nederlandse markt voorhanden hebben, vervoeren of aan een ander ter beschikking stellen van IBC-bouwstoffen of het toepassen van IBC-bouwstoffen, uitgezonderd AVI-bodemas, in een werk waarvoor voor de inwerkingtreding van de [artikelen I](https://wetten.overheid.nl/jci1.3:c:BWBR0044911&hoofdstuk=1&artikel=I&z=2024-01-01&g=2024-01-01) en [VII](https://wetten.overheid.nl/jci1.3:c:BWBR0044911&hoofdstuk=2&artikel=VII&z=2024-01-01&g=2024-01-01) van dit besluit een melding is gedaan op grond van [artikel 32, tweede lid, van het Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929&artikel=32), tot zes maanden na de inwerkingtreding van de artikelen I en VII van dit besluit.
 
@@ -122,11 +148,11 @@ Wijzigt het Uitvoeringsbesluit belastingen op milieugrondslag.
 
 ### Hoofdstuk 4. Slotbepalingen en inwerkingtreding
 
-#### Artikel XVII. (inwerkingtreding)
+##### Artikel XVII. (inwerkingtreding)
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XVIII. (citeertitel)
+##### Artikel XVIII. (citeertitel)
 
 Dit besluit wordt aangehaald als: Aanvullingsbesluit bodem Omgevingswet.
 

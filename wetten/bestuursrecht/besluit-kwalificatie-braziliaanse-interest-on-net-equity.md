@@ -1,13 +1,38 @@
 ---
 title: "Besluit kwalificatie Braziliaanse interest on net equity"
 identifier: "BWBR0044024"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-08-28
-laatste_update: 2020-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044024"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-08-28"
+last_updated: "2020-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044024"
+soort: "beleidsregel"
+stam_id: "15611733"
+version_id: "26988842"
+internal_id: "C38193341"
+label_id: "15552314"
+dtd_version: "2.0"
+original_entry_into_force: "2020-08-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044024/2020-08-28/0"
+intitule_bron: "Stcrt.2020-44499"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-04"
+intitule_published: "2020-08-27"
+intitule_in_force: "2020-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-44499"
+original_signed_date: "2020-08-04"
+original_published_date: "2020-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-44499"
+entry_into_force_date: "2020-08-28"
+jci_1_3: "jci1.3:c:BWBR0044024&z=2020-08-28&g=2020-08-28"
+jci_1_0: "1.0:c:BWBR0044024&g=2020-08-28"
+citeertitel_status: "officieel"
+signed_date: "2020-08-04"
+entry_into_force: "2020-08-28"
 ---
-
 # Besluit kwalificatie Braziliaanse interest on net equity
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

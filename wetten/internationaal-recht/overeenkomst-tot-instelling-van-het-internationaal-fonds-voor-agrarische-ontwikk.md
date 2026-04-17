@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tot instelling van het Internationaal Fonds voor Agrarische Ontwikkeling"
 identifier: "BWBV0003787"
-categorie: "Internationaal recht"
-publicatiedatum: 2021-02-18
-laatste_update: 2021-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003787"
+country: "nl"
+rank: "verdrag"
+publication_date: "2021-02-18"
+last_updated: "2021-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003787"
+soort: "verdrag"
+stam_id: "10003711583"
+version_id: "10003773322"
+internal_id: "C10006981361"
+label_id: "10003696964"
+dtd_version: "2.0"
+original_entry_into_force: "1977-11-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003787/2021-02-18/0"
+intitule_bron: "Trb.1977-55"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-03-28"
+intitule_in_force: "1978-02-13"
+intitule_status: "goed"
+original_publication: "Trb.1977-55"
+original_published_date: "1977-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-55"
+entry_into_force_date: "1977-11-30"
+jci_1_3: "jci1.3:c:BWBV0003787&z=2021-02-18&g=2021-02-18"
+jci_1_0: "1.0:c:BWBV0003787&g=2021-02-18"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-11-30"
 ---
-
 # Overeenkomst tot instelling van het Internationaal Fonds voor Agrarische Ontwikkeling
 
 Preambule
@@ -40,7 +62,7 @@ dat onmiddellijk een Internationaal Fonds voor Agrarische Ontwikkeling dient te 
 
 Zijn de Overeenkomstsluitende Partijen overeengekomen een Internationaal Fonds voor Agrarische Ontwikkeling in te stellen, waarvoor de onderstaande bepalingen zullen gelden:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Overeenkomst hebben de onderstaande termen de in dit artikel daaraan gehechte betekenis, tenzij het zinsverband anders vereist:
 
@@ -60,11 +82,11 @@ Voor de toepassing van deze Overeenkomst hebben de onderstaande termen de in dit
 
 - (f). „uitgebrachte stemmen”: stemmen vóór en stemmen tegen.
 
-#### Artikel 2. Doel en functies
+##### Artikel 2. Doel en functies
 
 Het doel van het Fonds is aanvullende middelen te mobiliseren, die op concessionele voorwaarden ter beschikking zullen worden gesteld voor agrarische ontwikkeling in Lid-Staten in ontwikkeling. Ter bereiking van dit doel verstrekt het Fonds financiële middelen, in de eerste plaats voor projecten en programma’s die er specifiek op zijn gericht voedselproduktiesystemen in te voeren, uit te breiden of te verbeteren en de daarmede samenhangende beleidslijnen en instellingen te verstevigen binnen het kader van nationale prioriteiten en strategieën, zulks met inachtneming van: de noodzaak tot vergroting van de voedselproduktie in de armste landen met een voedseltekort; de mogelijkheden voor verhoging van de voedselproduktie in andere ontwikkelingslanden; en het belang van verbetering van het voedingspeil en de levensomstandigheden van de armste bevolkingsgroepen in de ontwikkelingslanden.
 
-#### Artikel 3. Lidmaatschap
+##### Artikel 3. Lidmaatschap
 
 - (a). Het lidmaatschap van het Fonds staat open voor elke Staat die lid is van de Verenigde Naties, van een van haar gespecialiseerde organisaties, of van de Internationale Organisatie voor Atoomenergie.
 
@@ -76,7 +98,7 @@ Het doel van het Fonds is aanvullende middelen te mobiliseren, die op concession
 
 Een Lid is niet, op grond van zijn lidmaatschap, aansprakelijk wat betreft handelingen of verplichtingen van het Fonds.
 
-#### Artikel 4. Middelen
+##### Artikel 4. Middelen
 
 De middelen van het Fonds worden gevormd door:
 
@@ -118,7 +140,7 @@ De middelen van het Fonds kunnen worden uitgebreid door bijzondere bijdragen van
 
 Het Fonds is gemachtigd gelden van Lid-Staten of uit andere bronnen te lenen, waardepapieren die het heeft uitgegeven of gegarandeerd te kopen of te verkopen, en de bevoegdheden uit te oefenen die bijkomstig zijn aan zijn leenactiviteiten voor zover deze noodzakelijk of wenselijk zijn bij het nastreven van zijn doeleinden.
 
-#### Artikel 5. Valuta’s
+##### Artikel 5. Valuta’s
 
 - (a). De Leden houden geen beperkingen in stand of leggen deze op ten aanzien van het bezit van of het gebruik door het Fonds van vrij inwisselbare valuta’s.
 
@@ -132,7 +154,7 @@ Het Fonds is gemachtigd gelden van Lid-Staten of uit andere bronnen te lenen, wa
 
 - (ii). in het geval van de valuta van een Staat die geen lid is van het Internationale Monetaire Fonds, de in het Bijzondere Trekkingsrecht uitgedrukte waarde van de valuta door het Fonds wordt berekend op de basis van een passende wisselkoersverhouding tussen die valuta en de valuta van een lid van het Internationale Monetaire Fonds waarvoor een waarde is berekend zoals hierboven aangegeven.
 
-#### Artikel 6. Organisatie en beheer
+##### Artikel 6. Organisatie en beheer
 
 Het Fonds bezit:
 
@@ -232,7 +254,7 @@ De President stelt een jaarlijkse administratieve begroting op, die hij voorlegt
 
 Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd overzicht van zijn boekhouding omvat en, met passende tussenpozen, een beknopt overzicht van zijn financiële positie en van de resultaten van zijn verrichtingen. Exemplaren van deze verslagen, overzichten en andere daarmede samenhangende publikaties worden verstrekt aan alle Leden.
 
-#### Artikel 7. Verrichtingen
+##### Artikel 7. Verrichtingen
 
 - (a). De middelen van het Fonds worden gebruikt ter verwezenlijking van het in artikel 2 aangegeven doel.
 
@@ -270,13 +292,13 @@ Het Fonds publiceert een jaarverslag dat een door accountants gecontroleerd over
 
 Behalve de elders in deze Overeenkomst aangegeven verrichtingen kan het Fonds bijkomende activiteiten ondernemen en in het kader van zijn verrichtingen alle bevoegdheden uitoefenen die noodzakelijk zijn ter verwezenlijking van zijn doel.
 
-#### Artikel 8. Betrekkingen met de Verenigde Naties en met andere organisaties, instellingen en organen
+##### Artikel 8. Betrekkingen met de Verenigde Naties en met andere organisaties, instellingen en organen
 
 Het Fonds knoopt onderhandelingen aan met de Verenigde Naties om een overeenkomst te sluiten ten einde betrekkingen aan te gaan met de Verenigde Naties als een van de gespecialiseerde organisaties bedoeld in [artikel 57 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=57). Voor overeenkomsten gesloten ingevolge [artikel 63 van het Handvest](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=63) is de goedkeuring vereist, met een twee derde meerderheid van het totale aantal stemmen, van de Raad van Bestuur, op aanbeveling van het College van Bewindvoerders.
 
 Het Fonds werkt nauw samen met de Voedsel- en Landbouworganisatie van de Verenigde Naties en met andere organisaties binnen het stelsel der Verenigde Naties. Het werkt eveneens nauw samen met andere intergouvernementele organisaties, internationale financiële instellingen, niet-gouvernementele organisaties en overheidsinstanties die zich bezighouden met agrarische ontwikkeling. Hiertoe zal het Fonds streven naar medewerking bij zijn activiteiten van de Voedsel- en Landbouworganisatie van de Verenigde Naties en van de andere hierboven bedoelde organen, en kan het overeenkomsten sluiten of regelingen inzake werkzaamheden treffen met deze organen, al naar gelang het College van Bewindvoerders besluit.
 
-#### Artikel 9. Terugtrekking, schorsing, beëindiging der verrichtingen
+##### Artikel 9. Terugtrekking, schorsing, beëindiging der verrichtingen
 
 - (a). Behalve zoals bepaald in het vierde lid, letter (a), van dit artikel, kan een Lid zich uit het Fonds terugtrekken door nederlegging van een akte van opzegging van deze Overeenkomst bij de depositaris.
 
@@ -292,7 +314,7 @@ Wanneer een Staat ophoudt Lid te zijn, door terugtrekking dan wel als gevolg van
 
 - (b). Er vindt geen verdeling van activa aan de Leden plaats, voordat aan alle verplichtingen tegenover de krediteuren is voldaan of deze verplichtingen zijn geregeld. Het Fonds verdeelt zijn activa aan de bijdragende Leden naar verhouding van de bijdragen die elk Lid heeft verstrekt aan de middelen van het Fonds. Tot een zodanige verdeling wordt besloten door de Raad van Bestuur met een drie vierde meerderheid van het totale aantal stemmen en zij vindt plaats op de tijdstippen en in de valuta’s of andere activa die de Raad van Bestuur eerlijk en billijk acht.
 
-#### Artikel 10. Rechtspositie, voorrechten en immuniteiten
+##### Artikel 10. Rechtspositie, voorrechten en immuniteiten
 
 Het Fonds bezit internationale rechtspersoonlijkheid.
 
@@ -318,7 +340,7 @@ Het Fonds bezit internationale rechtspersoonlijkheid.
 
 - B. de eigendommen en bezittingen van het Fonds, ongeacht waar zij zich bevinden en door wie zij worden gehouden, worden gevrijwaard van elke vorm van inbeslagname, beslaglegging of executie voordat een definitief vonnis tegen het Fonds is uitgesproken.
 
-#### Artikel 11. Uitlegging en arbitrage
+##### Artikel 11. Uitlegging en arbitrage
 
 - (a). Meningsverschillen omtrent de uitlegging of de toepassing van de bepalingen van deze Overeenkomst, die rijzen tussen een Lid en het Fonds of tussen Leden van het Fonds, worden ter beslissing voorgelegd aan het College van Bewindvoerders. Indien een Lid van het Fonds dat niet in het College van Bewindvoerders is vertegenwoordigd, in bijzondere mate bij het desbetreffende meningsverschil is betrokken, is dat Lid gerechtigd vertegenwoordigd te zijn overeenkomstig door de Raad van Bestuur vast te stellen regelingen.
 
@@ -326,7 +348,7 @@ Het Fonds bezit internationale rechtspersoonlijkheid.
 
 In geval van een geschil tussen het Fonds en een Staat die is opgehouden Lid te zijn, of tussen het Fonds en een Lid bij de beëindiging van de verrichtingen van het Fonds, wordt een zodanig geschil onderworpen aan arbitrage door een tribunaal van drie scheidsmannen. Een van de scheidsmannen wordt benoemd door het Fonds, een andere door het betrokken Lid of betrokken voormalige Lid en de beide partijen benoemen de derde scheidsman, die als voorzitter optreedt. Indien binnen 45 dagen na ontvangst van het verzoek om arbitrage een der partijen geen scheidsman heeft benoemd, of indien binnen 30 dagen na de benoeming van twee scheidsmannen de derde scheidsman niet is benoemd, kan een der partijen de President van het Internationale Gerechtshof, of een andere autoriteit voorgeschreven bij verordeningen vastgesteld door de Raad van Bestuur, verzoeken een scheidsman te benoemen. De arbitrageprocedure wordt vastgesteld door de scheidsmannen, maar de voorzitter is volledig bevoegd alle vragen betreffende de procedure te regelen in geval van meningsverschil daaromtrent. Een meerderheid van stemmen van de scheidsmannen is voldoende om een uitspraak te doen die definitief en bindend is voor de partijen.
 
-#### Artikel 12. Wijzigingen
+##### Artikel 12. Wijzigingen
 
 (a). Behalve ten aanzien van Schema II:
 
@@ -348,7 +370,7 @@ niet in werking treden totdat de schriftelijke aanvaarding van een zodanige wijz
 
 (c). De President stelt alle Leden en de depositaris onverwijld in kennis van wijzigingen die zijn aanvaard en van de datum van inwerkingtreding van deze wijzigingen.
 
-#### Artikel 13. Slotbepalingen
+##### Artikel 13. Slotbepalingen
 
 - (a). Namens de Staten opgenomen in Schema I bij deze Overeenkomst kan deze Overeenkomst worden geparafeerd op de Conferentie der Verenigde Naties tot instelling van het Fonds; deze Overeenkomst staat open voor ondertekening op de zetel van de Verenigde Naties te New York door de in dat Schema opgenomen Staten zodra de daarin aangegeven oorspronkelijke bijdragen, die moeten worden verstrekt in vrij inwisselbare valuta, ten minste het equivalent bedragen van 1000 miljoen US dollars (waarde per 10 juni 1976). Indien op 30 september 1976 niet aan bovenstaande voorwaarde is voldaan, roept de door die Conferentie ingestelde Voorbereidende Commissie per 31 januari 1977 een vergadering bijeen van de in Schema I opgenomen Staten, die met een twee derde meerderheid van elke categorie het hierboven aangegeven bedrag kan verlagen en tevens andere voorwaarden kan vaststellen voor de openstelling van deze Overeenkomst voor ondertekening.
 

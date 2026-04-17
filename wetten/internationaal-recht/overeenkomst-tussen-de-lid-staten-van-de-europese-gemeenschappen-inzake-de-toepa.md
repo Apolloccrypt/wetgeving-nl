@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem"
 identifier: "BWBV0002161"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-04-06
-laatste_update: 1994-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002161"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-04-06"
+last_updated: "1994-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002161"
+soort: "verdrag"
+stam_id: "10002683773"
+version_id: "10002682322"
+internal_id: "C10006980641"
+label_id: "10002672004"
+dtd_version: "2.0"
+original_entry_into_force: "1994-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002161/1994-04-06/0"
+intitule_bron: "Trb.1987-167"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-01-05"
+intitule_published: "1987-10-28"
+intitule_in_force: "1996-10-10"
+intitule_status: "goed"
+original_publication: "Trb.1987-167"
+original_signed_date: "1994-01-05"
+original_published_date: "1987-10-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1987-167"
+entry_into_force_date: "1994-04-06"
+jci_1_3: "jci1.3:c:BWBV0002161&z=1994-04-06&g=1994-04-06"
+jci_1_0: "1.0:c:BWBV0002161&g=1994-04-06"
+citeertitel_status: "officieel"
+signed_date: "1994-01-05"
+entry_into_force: "1994-04-06"
 ---
-
 # Overeenkomst tussen de Lid-Staten van de Europese Gemeenschappen inzake de toepassing van het beginsel ne bis in idem
 
 De Lid-Staten van de Europese Gemeenschappen, hierna aangeduid als „Lid-Staten”,
@@ -22,11 +47,11 @@ Ervan overtuigd dat de wederzijdse erkenning van de regel „ne bis in idem” t
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Een persoon die bij onherroepelijk vonnis in een Lid-Staat is berecht, kan in een andere Lid-Staat niet worden vervolgd ter zake van dezelfde feiten, op voorwaarde dat ingeval een straf of maatregel is opgelegd, deze reeds is ondergaan of feitelijk ten uitvoer wordt gelegd, dan wel op grond van de wetten van de veroordelende Staat niet meer ten uitvoer gelegd kan worden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een Lid-Staat kan op het tijdstip van bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst verklaren dat hij in een of meer van de volgende gevallen niet door artikel 1 is gebonden:
 
@@ -42,11 +67,11 @@ Een persoon die bij onherroepelijk vonnis in een Lid-Staat is berecht, kan in ee
 
 4. Uitzonderingen ten aanzien waarvan een verklaring uit hoofde van lid 1 is afgelegd, zijn niet van toepassing wanneer de betrokken Lid-Staat ter zake van dezelfde feiten de andere Lid-Staat om vervolging heeft verzocht of heeft ingestemd met de uitlevering van de betrokken persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien in een Lid-Staat een nieuwe vervolging wordt ingesteld tegen een persoon die ter zake van dezelfde feiten bij onherroepelijk vonnis in een andere Lid-Staat is berecht, dient iedere periode van vrijheidsbeneming die wegens deze feiten in laatstgenoemde Lid-Staat werd ondergaan op de eventueel opgelegde straf of maatregel in mindering te worden gebracht. Voorzover de nationale wetgeving dit toelaat, wordt tevens rekening gehouden met andere reeds ondergane straffen of maatregelen dan vrijheidsbeneming.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien in een Lid-Staat iemand een strafbaar feit ten laste wordt gelegd en de bevoegde autoriteiten van deze Lid-Staat redenen hebben om aan te nemen dat de tenlastelegging dezelfde feiten betreft als die ter zake waarvan deze persoon reeds bij onherroepelijk vonnis is berecht in een andere Lid-Staat, verzoeken deze autoriteiten, indien zij zulks nodig achten, de bevoegde autoriteiten van de Lid-Staat waarin reeds vonnis was gewezen om de nodige inlichtingen in dezen.
 
@@ -54,11 +79,11 @@ Indien in een Lid-Staat een nieuwe vervolging wordt ingesteld tegen een persoon 
 
 3. Iedere Lid-Staat wijst op het tijdstip van ondertekening, bekrachtiging, aanvaarding of goedkeuring van deze Overeenkomst de autoriteiten die bevoegd zijn de in dit artikel bedoelde inlichtingen te vragen en te ontvangen.
 
-#### Artikel 5
+##### Artikel 5
 
 Bovenstaande bepalingen vormen geen beletsel voor de toepassing van verdergaande nationale bepalingen inzake de regel „ne bis in idem" in geval van buitenlandse rechterlijke beslissingen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten. Zij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij het Ministerie van Buitenlandse Zaken van België.
 
@@ -66,13 +91,13 @@ Bovenstaande bepalingen vormen geen beletsel voor de toepassing van verdergaande
 
 3. Tot de datum van inwerkingtreding van deze Overeenkomst kan iedere Staat op het tijdstip van nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, of op elk later tijdstip, verklaren dat deze Overeenkomst ten aanzien van die Staat van toepassing is in zijn betrekkingen met de Staten die een zelfde verklaring hebben afgelegd 90 dagen na de datum van nederlegging.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst staat voor toetreding open voor iedere Staat die toetreedt tot de Europese Gemeenschappen. De akten van toetreding worden nedergelegd bij het Ministerie van Buitenlandse Zaken van België.
 
 2. Ten aanzien van iedere toetredende Staat treedt deze Overeenkomst in werking 90 dagen na de datum van nederlegging van zijn akte van toetreding.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke Lid-Staat kan, op het tijdstip van ondertekening of van de nederlegging van zijn akte van bekrachtiging, aanvaarding of goedkeuring, het grondgebied of de grondgebieden aanwijzen waarop deze Overeenkomst van toepassing is.
 
@@ -82,7 +107,7 @@ Bovenstaande bepalingen vormen geen beletsel voor de toepassing van verdergaande
 
 Deze intrekking wordt onmiddellijk van kracht, of op een in de kennisgeving vermelde latere datum.
 
-#### Artikel 9
+##### Artikel 9
 
 Het Ministerie van Buitenlandse Zaken van België zal alle Lid-Staten in kennis stellen van elke ondertekening, nederlegging van akten, verklaring of kennisgeving.
 

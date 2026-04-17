@@ -1,13 +1,39 @@
 ---
-title: "Regeling gevelisolatie Schiphol 2023"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 21 september 2023, nr. IENW/BSK-276554, houdende vaststelling van regels inzake geluidwerende voorzieningen aan woningen binnen de geluidcontour voor de luchthaven Schiphol (Regeling gevelisolatie Schiphol 2023)"
 identifier: "BWBR0048658"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048658"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048658"
+soort: "ministeriele-regeling"
+stam_id: "16864293"
+version_id: "29638442"
+internal_id: "C42408311"
+label_id: "16776644"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048658/2024-01-01/0"
+intitule_bron: "Stcrt.2023-26407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-21"
+intitule_published: "2023-09-28"
+intitule_in_force: "2023-09-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-26407"
+original_signed_date: "2023-09-21"
+original_published_date: "2023-09-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-26407"
+entry_into_force_date: "2023-09-29"
+jci_1_3: "jci1.3:c:BWBR0048658&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048658&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling gevelisolatie Schiphol 2023"
+signed_date: "2023-09-21"
+entry_into_force: "2023-09-29"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 21 september 2023, nr. IENW/BSK-276554, houdende vaststelling van regels inzake geluidwerende voorzieningen aan woningen binnen de geluidcontour voor de luchthaven Schiphol (Regeling gevelisolatie Schiphol 2023)
 
 Gelet op [artikel 8.32 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.32);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Begripsomschrijvingen
 
-#### Artikel 1. (Begripsomschrijvingen)
+##### Artikel 1. (Begripsomschrijvingen)
 
 1. In deze regeling wordt verstaan onder:
 
@@ -46,7 +72,7 @@ BESLUIT:
 
 ### Hoofdstuk 2. Reikwijdte
 
-#### Artikel 2. (Algemene bepalingen)
+##### Artikel 2. (Algemene bepalingen)
 
 1. Tenzij in deze regeling anders is bepaald, worden op ’s rijks kosten geluidwerende maatregelen aangebracht aan geluidgevoelige ruimten van een woning:
 
@@ -58,7 +84,7 @@ BESLUIT:
 
 2. Onverminderd het eerste lid, kunnen op ’s rijks kosten geluidwerende maatregelen worden aangebracht aan woningen die onderdeel uitmaken van hetzelfde woonblok met woningen binnen de geluidcontour in dB voor Schiphol, als dit passend is voor de architectonische uitstraling van het geheel en de uitvoeringskosten van de woningen buiten die contour in redelijke verhouding staan tot de uitvoeringskosten van de woningen in datzelfde woonblok binnen die contour.
 
-#### Artikel 3. (Situaties waarin onder bepaalde voorwaarden geluidwerende maatregelen worden aangebracht)
+##### Artikel 3. (Situaties waarin onder bepaalde voorwaarden geluidwerende maatregelen worden aangebracht)
 
 1. Tot het van rijkswege aanbrengen van geluidwerende maatregelen wordt niet overgegaan voordat de uitwendige scheidingsconstructie, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming is gebracht met de onder a, bedoelde geluidweringsvoorschriften, indien uit het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) bedoelde onderzoek blijkt dat:
 
@@ -78,7 +104,7 @@ BESLUIT:
 
 wordt niet tot het van rijkswege aanbrengen van geluidwerende maatregelen overgegaan, tenzij burgemeester en wethouders op verzoek van de eigenaar ermee hebben ingestemd dat het treffen van de onder a bedoelde maatregelen en het aanbrengen van de geluidwerende maatregelen gelijktijdig plaatsvindt.
 
-#### Artikel 4. (gebreken en achterstallig onderhoud)
+##### Artikel 4. (gebreken en achterstallig onderhoud)
 
 1. Indien uit het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) bedoelde onderzoek blijkt dat met betrekking tot de geluidgevoelige ruimten, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), of de bereikbaarheid van die ruimten, niet is voldaan aan de technische voorschriften voor bestaande bouw zoals opgenomen in het [Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297), wordt niet tot het van rijkswege aanbrengen van geluidwerende maatregelen overgegaan voordat bedoelde ruimten en bereikbaarheid, binnen een door de minister gestelde redelijke termijn, door en op kosten van de eigenaar van de woning in overeenstemming zijn gebracht met die technische voorschriften.
 
@@ -90,11 +116,11 @@ wordt niet tot het van rijkswege aanbrengen van geluidwerende maatregelen overge
 
 5. Indien zich gedurende de uitvoering van de werkzaamheden in verband met het aanbrengen van de geluidwerende maatregelen aan de woning milieutechnische of constructieve gebreken openbaren die tot gevolg hebben dat de geluidwerende maatregelen niet doelmatig kunnen worden aangebracht, en het Rijk die gebreken redelijkerwijs niet had behoeven te voorzien, worden de kosten in verband met het opheffen van die gebreken in overleg met de eigenaar op billijke wijze verdeeld tussen de eigenaar en het Rijk.
 
-#### Artikel 5. (kostenbegrenzing)
+##### Artikel 5. (kostenbegrenzing)
 
 De minister kan besluiten geen geluidwerende maatregelen te treffen indien er zwaarwegende bezwaren van bouwkundige aard bestaan tegen het treffen van die maatregelen. Indien andere maatregelen mogelijk zijn om de geluidwering zoveel mogelijk te verbeteren, kan de minister besluiten om die andere maatregelen wel te treffen. Deze andere maatregelen bezitten dan niet de kwaliteit, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=4&artikel=10&z=2024-01-01&g=2024-01-01). De eigenaar van de woning heeft de mogelijkheid om op eigen kosten en binnen een redelijke termijn de zwaarwegende bezwaren van bouwkundige aard weg te nemen, waardoor wel geluidwerende maatregelen kunnen worden getroffen die de kwaliteit, bedoeld in artikel 10 bezitten.
 
-#### Artikel 6. (situaties waarin geen geluidwerende maatregelen worden aangebracht)
+##### Artikel 6. (situaties waarin geen geluidwerende maatregelen worden aangebracht)
 
 Geluidwerende maatregelen worden niet aangebracht aan de in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde woningen, wanneer ten tijde van de bekendmaking van het gevelisolatieprogramma, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01):
 
@@ -110,7 +136,7 @@ Geluidwerende maatregelen worden niet aangebracht aan de in [artikel 2, eerste l
 
 ### Hoofdstuk 3. Procedure
 
-#### Artikel 7. (gevelisolatieprogramma)
+##### Artikel 7. (gevelisolatieprogramma)
 
 1. De minister stelt in een gevelisolatieprogramma vast welke woningen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), voor het van rijkswege aanbrengen van geluidwerende maatregelen in beschouwing zullen worden genomen. Na vaststelling van het gevelisolatieprogramma, kan de minister deelprojecten vaststellen waarin wordt aangegeven voor welke woningen uit het gevelisolatieprogramma in een daarbij aangegeven periode achtereenvolgens uitvoering wordt gegeven aan de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=8&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01). De minister kan besluiten voor woningen in een deelproject geen uitvoering te geven aan de artikelen 8 en 9 indien op grond van een besluit tot het wijzigen of vervallen van de geluidcontour voor Schiphol wordt vastgesteld dat de woningen binnen twee jaar na vaststelling van het deelproject niet meer binnen de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&bijlage=1&z=2024-01-01&g=2024-01-01) bij deze regeling bedoelde geluidcontour die behoort bij de waarde van 60 dB Lden aanwezig zullen zijn.
 
@@ -132,7 +158,7 @@ Geluidwerende maatregelen worden niet aangebracht aan de in [artikel 2, eerste l
 
 - f. een overzicht van de voor de uitvoering van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=3&z=2024-01-01&g=2024-01-01) noodzakelijke gegevens.
 
-#### Artikel 8. (onderzoek)
+##### Artikel 8. (onderzoek)
 
 1. Aan de in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=7&z=2024-01-01&g=2024-01-01), eerste volzin, bedoelde eigenaren wordt, zodra de geluidwerende maatregelen aan de woning die is opgenomen in het gevelisolatieprogramma of een deelproject, in uitvoering worden genomen, verzocht binnen drie weken na verzending van de mededeling, schriftelijk toestemming te verlenen tot het uitvoeren van onderzoek.
 
@@ -156,7 +182,7 @@ Geluidwerende maatregelen worden niet aangebracht aan de in [artikel 2, eerste l
 
 - 4°. het in [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=4&z=2024-01-01&g=2024-01-01), bedoelde opheffen van gebreken en van achterstallig onderhoud.
 
-#### Artikel 9. (Aanbod en overeenkomst)
+##### Artikel 9. (Aanbod en overeenkomst)
 
 1. De minister stelt de eigenaren van de woningen die op basis van het onderzoek in overeenstemming moeten worden gebracht met:
 
@@ -202,7 +228,7 @@ hiervan zo snel mogelijk na ontvangst van de resultaten, bedoeld in [artikel 8, 
 
 ### Hoofdstuk 4. Eisen aan de maatregelen
 
-#### Artikel 10. (kwaliteit van de geluidwerende maatregelen)
+##### Artikel 10. (kwaliteit van de geluidwerende maatregelen)
 
 1. Geluidwerende maatregelen die worden aangebracht ingevolge [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), moeten een zodanige kwaliteit bezitten dat de geluidwering van de uitwendige scheidingsconstructie van een geluidgevoelige ruimte een zodanige volgens NEN 5077 bepaalde geluidwering heeft, dat de waarde ten minste gelijk is aan de rekenbelasting op de uitwendige scheidingsconstructie verminderd met 33 dB. Daarbij wordt voor de rekenbelasting uitgegaan van de geluidbelasting op de uitwendige scheidingsconstructie, zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&bijlage=1&z=2024-01-01&g=2024-01-01), vermeerderd met 5 dB.
 
@@ -212,11 +238,11 @@ hiervan zo snel mogelijk na ontvangst van de resultaten, bedoeld in [artikel 8, 
 
 4. Indien sprake is van een aanbod als bedoeld in [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01), is het eerste lid alleen van toepassing op die geluidgevoelige ruimten ten behoeve waarvan geluidwerende maatregelen worden aangebracht.
 
-#### Artikel 11. (wooncomfort en levensduur)
+##### Artikel 11. (wooncomfort en levensduur)
 
 De geluidwerende maatregelen mogen niet leiden tot een essentiële vermindering van het comfort van de woning of het ander geluidgevoelig gebouw ten opzichte van de situatie voorafgaand aan het aanbrengen van de geluidwerende maatregelen.
 
-#### Artikel 12. (toezicht en controle)
+##### Artikel 12. (toezicht en controle)
 
 1. Geluidwerende maatregelen worden aangebracht onder verantwoordelijkheid van de minister.
 
@@ -228,33 +254,33 @@ De geluidwerende maatregelen mogen niet leiden tot een essentiële vermindering 
 
 ### Hoofdstuk 5. Financiën
 
-#### Artikel 13. (verstrekking)
+##### Artikel 13. (verstrekking)
 
 Indien anders dan met toepassing van deze regeling aan een in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=2&artikel=2&z=2024-01-01&g=2024-01-01), bedoelde geluidgevoelige ruimte, geluidwerende maatregelen zijn aangebracht, worden deze niet voor bekostiging door het Rijk in beschouwing genomen.
 
-#### Artikel 14. (mindering bij vrijwillige uitkoop)
+##### Artikel 14. (mindering bij vrijwillige uitkoop)
 
 In het aanbod, bedoeld in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048658&hoofdstuk=3&artikel=9&z=2024-01-01&g=2024-01-01), dan wel in een afzonderlijk voorstel voor een overeenkomst, wordt een bepaling opgenomen dat indien de woning of het andere geluidgevoelige gebouw waaraan op ’s rijks kosten geluidwerende maatregelen zijn aangebracht, naderhand door het Rijk in eigendom wordt verworven, de door het aanbrengen van de geluidwerende maatregelen toegenomen marktwaarde op de koopprijs in mindering wordt gebracht. Het in mindering te brengen bedrag wordt verlaagd met ééntiende gedeelte daarvan voor elk jaar dat is verstreken na het aanbrengen van de geluidwerende maatregelen.
 
-#### Artikel 15. (onderaanneming)
+##### Artikel 15. (onderaanneming)
 
 De minister kan een vergoeding toekennen aan de natuurlijke of rechtspersoon die deze regeling geheel of gedeeltelijk krachtens een daartoe met de minister gesloten overeenkomst uitvoert.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 16. (inwerkingtreding Omgevingswet)
+##### Artikel 16. (inwerkingtreding Omgevingswet)
 
 Wijzigt deze regeling.
 
-#### Artikel 17. (inwerkingtreding)
+##### Artikel 17. (inwerkingtreding)
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 18. (vervaldatum en overgangsrecht)
+##### Artikel 18. (vervaldatum en overgangsrecht)
 
 Deze regeling vervalt met ingang van 31 december 2028, met dien verstande dat deze regeling van toepassing blijft op de gevelisolatieprogramma’s die voor die datum zijn vastgesteld.
 
-#### Artikel 19. (citeertitel)
+##### Artikel 19. (citeertitel)
 
 Deze regeling wordt aangehaald als: Regeling gevelisolatie Schiphol 2023.
 

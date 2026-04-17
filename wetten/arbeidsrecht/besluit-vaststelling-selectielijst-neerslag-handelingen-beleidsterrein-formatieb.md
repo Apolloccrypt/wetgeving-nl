@@ -1,13 +1,38 @@
 ---
 title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit vanaf 1945 (Minister van Buitenlandse Zaken)"
 identifier: "BWBR0022619"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2007-10-14
-laatste_update: 2007-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022619"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-10-14"
+last_updated: "2007-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022619"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9235273"
+version_id: "14808442"
+internal_id: "C25323901"
+label_id: "9213834"
+dtd_version: "2.0"
+original_entry_into_force: "2007-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022619/2007-10-14/0"
+intitule_bron: "Stcrt.2007-198"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-09-11"
+intitule_published: "2007-10-12"
+intitule_in_force: "2007-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-198"
+original_signed_date: "2007-09-11"
+original_published_date: "2007-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-198-p43-SC82477"
+entry_into_force_date: "2007-10-14"
+jci_1_3: "jci1.3:c:BWBR0022619&z=2007-10-14&g=2007-10-14"
+jci_1_0: "1.0:c:BWBR0022619&g=2007-10-14"
+citeertitel_status: "redactioneel"
+signed_date: "2007-09-11"
+entry_into_force: "2007-10-14"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit vanaf 1945 (Minister van Buitenlandse Zaken)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +41,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 30-8-2007, aca
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de Minister van Buitenlandse Zaken en de onder hem ressorterende actoren op het beleidsterrein Formatiebeleid, arbeidsmarktbeleid en personeelsontwikkeling en mobiliteit over de periode 1945–’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

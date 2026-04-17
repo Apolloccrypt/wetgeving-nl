@@ -1,160 +1,188 @@
 ---
-title: "Belastingplan 2006"
+title: "Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (Belastingplan 2006)"
 identifier: "BWBR0019286"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-01-01
-laatste_update: 2006-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019286"
+country: "nl"
+rank: "wet"
+publication_date: "2008-01-01"
+last_updated: "2006-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019286"
+soort: "wet"
+stam_id: "7763413"
+version_id: "12699952"
+internal_id: "C17110511"
+label_id: "7751444"
+dtd_version: "2.0"
+original_entry_into_force: "2006-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019286/2008-01-01/0"
+intitule_bron: "Stb.2005-683"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-15"
+intitule_published: "2005-12-27"
+intitule_in_force: "2005-12-27"
+intitule_status: "goed"
+original_publication: "Stb.2005-693"
+original_signed_date: "2005-12-22"
+original_published_date: "2005-12-27"
+original_effect: "structuurwijziging"
+original_dossier: "30330"
+original_url_id: "stb-2005-693"
+entry_into_force_date: "2006-01-01"
+entry_into_force_dossier: "30330"
+jci_1_3: "jci1.3:c:BWBR0019286&z=2008-01-01&g=2008-01-01"
+jci_1_0: "1.0:c:BWBR0019286&g=2008-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2006"
+signed_date: "2005-12-22"
+entry_into_force: "2006-01-01"
 ---
+# Wet van 15 december 2005, houdende wijziging van enkele belastingwetten (Belastingplan 2006)
 
-# Belastingplan 2006
-
-#### Artikel I
-
-Wijzigt de Wet inkomstenbelasting 2001.
-
-#### Artikel II
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel II
+
+Wijzigt de Wet inkomstenbelasting 2001.
+
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IIIA
+##### Artikel IIIA
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen.
 
-#### Artikel V
+##### Artikel V
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 Wijzigt de Successiewet 1956.
 
-#### Artikel VIIb
+##### Artikel VIIb
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op de verbruiksbelasting van alcoholvrije dranken en van enkele andere producten.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet werk en bijstand.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Werkloosheidswet.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Ziektewet.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
-#### Artikel XXIIa
+##### Artikel XXIIa
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Wijzigingswet Wet op belastingen van rechtsverkeer, de Natuurschoonwet 1928, de Wet op de loonbelasting 1964, enz.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt het Belastingplan 2004.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Wijzigingswet Wet op de internationale bijstandsverlening bij de heffing van belastingen en Wet inkomstenbelasting 2001 (implementatie spaarrenterichtlijn).
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt het Belastingplan 2005.
 
-#### Artikel XXVIIa
+##### Artikel XXVIIa
 
 Wijzigt de Wijzigingswet enkele belastingwetten c.a.(Overige fiscale maatregelen 2005).
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling.
 
-#### Artikel XXVIIIa
+##### Artikel XXVIIIa
 
 Wijzigt de Wet arbeid en zorg.
 
-#### Artikel XXVIIIb
+##### Artikel XXVIIIb
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 december 2005, blijft van toepassing op de accijnszegels die overeenkomstig artikel 75 van de Wet op de accijns zijn aangevraagd vóór 1 januari 2006.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. Artikel 16a, tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 is van overeenkomstige toepassing voor personenauto’s als bedoeld in artikel XIII, onderdeel A, tweede lid, waarvoor vóór 1 januari 2006 een kenteken is toegekend dat nog niet is tenaamgesteld.
 
@@ -168,11 +196,11 @@ Artikel 76, tweede lid, van de Wet op de accijns, zoals dit lid luidde op 31 dec
 
 6. Voor een personenauto die volgens de vermelding in het kentekenregister behoort tot de energie-efficiëntieklasse B vindt het bij artikel XIV, onderdeel C, ingevoegde artikel 9c, tweede lid, van de Wet op de belasting van personenauto’s en motorrijwielen 1992 geen toepassing indien de auto vóór 1 januari 2006 in gebruik was genomen.
 
-#### Artikel XXXa
+##### Artikel XXXa
 
 Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op woningen).
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 - 1. De wijzigingen ingevolge artikel XVI, onderdelen B en D, vinden toepassing met betrekking tot tijdvakken die aanvangen op of na 1 januari 2001, voorzover op 1 januari 2006 met betrekking tot de inkomstenbelasting ter zake van te conserveren inkomen als bedoeld in artikel 30f, eerste lid, tweede volzin, van de Algemene wet inzake rijksbelastingen, nog geen handeling of omstandigheid heeft plaatsgevonden op grond waarvan het op de voet van artikel 25, vijfde, zesde of achtste lid, van de Invorderingswet 1990 verleende of te verlenen uitstel van betaling van die belasting, kan worden beëindigd.
 
@@ -190,19 +218,19 @@ Wijzigt de Wijzigingswet Gemeentewet, enz. (afschaffing gebruikersdeel OZB op wo
 
 Indien voor 1 juli 2006 is gespaard ingevolge een spaarloonregeling als bedoeld in artikel 32 van de Wet op de loonbelasting 1964, kan in afwijking van artikel 19g, vijfde lid, van de Wet op de loonbelasting 1964 in 2006 toch een voorziening ingevolge een levensloopregeling als bedoeld in artikel 19g van die wet worden opgebouwd, indien het ingevolge de spaarloonregeling in 2006 gespaarde bedrag, in afwijking van het in of krachtens artikel 32 van de Wet op de loonbelasting 1964 bepaalde, voor 1 juli 2006 van de spaarloonrekening wordt teruggestort naar de inhoudingsplichtige en deze de terugstorting als loon uitkeert aan de werknemer.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Artikel 27a van de Wet op de accijns vindt geen toepassing bij het begin van het kalenderjaar 2006 op de bedragen genoemd in artikel 27, eerste lid, onderdelen a en b, en tweede lid.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Bij ministeriële regeling kunnen de bedragen, genoemd in artikel X, onderdeel C, worden gewijzigd indien de uitkomst van de meldingsprocedure als voorzien in artikel 26, tweede lid, eerste alinea, van [richtlijn 2003/96/EG](32003L0096) van de Raad van de Europese Unie van 27 oktober 2003 tot herstructurering van de communautaire regeling voor de belasting van energieproducten en elektriciteit (PbEG L 283), daartoe aanleiding geeft.
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in één of meer belastingwetten, niet of niet juist is geregeld, of als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, herstelt Onze Minister van Financiën dat bij ministeriële regeling.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 1. Deze wet treedt in werking met ingang van 1 januari 2006, met dien verstande dat artikel I, onderdelen A, Na, O, Od, T, U, W, X, Y en Z, en artikel III, onderdelen H, K, L en M, eerst toepassing vinden nadat artikel 10.1 van de Wet inkomstenbelasting 2001 bij het begin van het kalenderjaar 2006 is toegepast. De ingevolge artikel VIIa, onderdelen A, B, C, D, F, H, I en J gewijzigde artikelen van de Successiewet 1956 vinden voor het eerst toepassing met betrekking tot belastbare feiten in de zin van de Successiewet 1956 die zich hebben voorgedaan op of na 1 januari 2006. De wijzigingen ingevolge artikel VIIb zijn van toepassing op na 31 december 2005 gedane inzetten en ter beschikking gestelde prijzen.
 
@@ -226,7 +254,7 @@ Ingeval de samenloop van wetten die in 2005 in het Staatsblad zijn of worden gep
 
 11. In afwijking van het eerste lid werkt artikel VII, onderdeel C, terug tot en met 16 november 2005 en vindt toepassing met betrekking tot de opbrengst als bedoeld in artikel 2 van de Wet op de dividendbelasting 1965 die ter beschikking is gesteld op of na 16 november 2005.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Deze wet wordt aangehaald als: Belastingplan 2006.
 
@@ -238,7 +266,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel Ia
+##### Artikel Ia
 
 Wijzigt de Wet inkomstenbelasting 2001.
 

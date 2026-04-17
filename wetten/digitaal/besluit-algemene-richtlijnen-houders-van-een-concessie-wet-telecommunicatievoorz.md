@@ -1,13 +1,39 @@
 ---
-title: "Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES"
+title: "Besluit van de Minister van Economische Zaken en Klimaat van 7 augustus 2023, nr. WJZ/ 33562140, tot vaststelling van algemene richtlijnen die houders van concessies die zijn verleend op grond van de Wet telecommunicatievoorzieningen BES gehouden zijn op te volgen (Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES)"
 identifier: "BWBR0048549"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2024-09-01
-laatste_update: 2024-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048549"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2024-09-01"
+last_updated: "2024-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048549"
+soort: "ministeriele-regeling-BES"
+stam_id: "16836973"
+version_id: "29582732"
+internal_id: "C42291561"
+label_id: "16749634"
+dtd_version: "2.0"
+original_entry_into_force: "2024-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048549/2024-09-01/0"
+intitule_bron: "Stcrt.2023-19805"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-08-07"
+intitule_published: "2023-08-14"
+intitule_in_force: "2023-08-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-19805"
+original_signed_date: "2023-08-07"
+original_published_date: "2023-08-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-19805"
+entry_into_force_date: "2024-09-01"
+jci_1_3: "jci1.3:c:BWBR0048549&z=2024-09-01&g=2024-09-01"
+jci_1_0: "1.0:c:BWBR0048549&g=2024-09-01"
+citeertitel_status: "officieel"
+short_title: "Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES"
+signed_date: "2023-08-07"
+entry_into_force: "2024-09-01"
 ---
-
 # Besluit van de Minister van Economische Zaken en Klimaat van 7 augustus 2023, nr. WJZ/ 33562140, tot vaststelling van algemene richtlijnen die houders van concessies die zijn verleend op grond van de Wet telecommunicatievoorzieningen BES gehouden zijn op te volgen (Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES)
 
 Gelet op [artikel 7, eerste en tweede lid, van de Wet telecommunicatievoorzieningen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028469&artikel=7);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepaling
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -46,17 +72,17 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Dienstverlening
 
-#### Artikel 2. Levering diensten
+##### Artikel 2. Levering diensten
 
 1. De houder van een concessie biedt zijn diensten overal binnen zijn verzorgingsgebied tegen gelijke voorwaarden aan.
 
 2. De houder van een concessie kan het leveren van diensten weigeren of beëindigen indien door een contractant niet wordt voldaan aan de bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028469) voor hem geldende voorschriften met betrekking tot de instandhouding van een goede dienstverlening, of de in [paragraaf 6](https://wetten.overheid.nl/jci1.3:c:BWBR0048549&paragraaf=6&z=2024-09-01&g=2024-09-01) bedoelde algemene voorwaarden.
 
-#### Artikel 3. Gebruik alarmnummers
+##### Artikel 3. Gebruik alarmnummers
 
 De houder van een concessie stelt het gebruik van alarmnummers kosteloos en zonder toegangsbelemmeringen ter beschikking aan alle gebruikers van zijn dienst. Onder een alarmnummer wordt verstaan het nummer dat in het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0048549&paragraaf=4&artikel=8&z=2024-09-01&g=2024-09-01) bedoelde nummerplan bestemd is als alarmnummer.
 
-#### Artikel 4. Zorgplichten
+##### Artikel 4. Zorgplichten
 
 1. De houder van een concessie draagt er zorg voor dat binnen tien werkdagen na ontvangst van een verzoek tot levering, beëindiging of wijziging van een aansluiting op een dienst, de aanvrager wordt medegedeeld of de aanvraag op grond van de algemene voorwaarden is geaccepteerd en wanneer de gevraagde activiteit zal plaatsvinden.
 
@@ -72,7 +98,7 @@ De houder van een concessie stelt het gebruik van alarmnummers kosteloos en zond
 
 #### § 3. Toegang en interconnectie
 
-#### Artikel 5. Voorzieningen ten behoeve van toegang
+##### Artikel 5. Voorzieningen ten behoeve van toegang
 
 1. De houder van een concessie voldoet aan redelijke verzoeken van dienstaanbieders om voorzieningen ten behoeve van toegang ter beschikking te stellen voor zover dit ten behoeve is van of direct verband houdt met het door deze dienstaanbieders aan derden aanbieden van telecommunicatiediensten.
 
@@ -90,7 +116,7 @@ De houder van een concessie stelt het gebruik van alarmnummers kosteloos en zond
 
 - c. eventueel in rekening te brengen kosten voor het gebruik van deze voorzieningen.
 
-#### Artikel 6. Voorzieningen ten behoeve van interconnectie
+##### Artikel 6. Voorzieningen ten behoeve van interconnectie
 
 1. De houder van een concessie draagt er zorg voor dat hij andere houders van een concessie voorziet van koppelingen met zijn telecommunicatie-infrastructuur ten behoeve van interconnectie.
 
@@ -110,19 +136,19 @@ De houder van een concessie stelt het gebruik van alarmnummers kosteloos en zond
 
 - e. de middelen om het gebruik van de infrastructuur en de kwaliteit van de koppeling te meten.
 
-#### Artikel 7. Redelijke tarieven
+##### Artikel 7. Redelijke tarieven
 
 De door de houder van een concessie te hanteren tarieven, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048549&paragraaf=3&artikel=5&z=2024-09-01&g=2024-09-01), en [6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048549&paragraaf=3&artikel=6&z=2024-09-01&g=2024-09-01), voor de levering van de gevraagde voorzieningen respectievelijk koppelingen aan andere houders van een concessie, zijn redelijk en staan in verhouding tot de gemaakte kosten.
 
 #### §. 4. Nummerbeheer
 
-#### Artikel 8. Nummeruitgifte
+##### Artikel 8. Nummeruitgifte
 
 Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van een concessie na toekenning door de Autoriteit Consument en Markt.
 
 #### §. 5. Geheimhouding
 
-#### Artikel 9. Geheimhouding
+##### Artikel 9. Geheimhouding
 
 1. De houder van een concessie draagt er zorg voor, dat bij de bedrijfsvoering met betrekking tot de telecommunicatie-infrastructuur en de diensten het wettelijk telefoongeheim wordt nageleefd.
 
@@ -130,7 +156,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 #### §. 6. Algemene voorwaarden en contractantenbescherming
 
-#### Artikel 10. Algemene voorwaarden
+##### Artikel 10. Algemene voorwaarden
 
 1. De houder van een concessie stelt voor iedere dienst, voor eenieder en overal binnen het verzorgingsgebied geldende, algemene voorwaarden vast, die in overeenstemming zijn met de bepalingen van dit besluit.
 
@@ -140,7 +166,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 4. De algemene voorwaarden worden aan de minister ter kennisneming aangeboden.
 
-#### Artikel 11. Verstrekken samenvatting overeenkomst
+##### Artikel 11. Verstrekken samenvatting overeenkomst
 
 1. De houder van een concessie verstrekt een contractant kosteloos en voorafgaand aan het sluiten van de overeenkomst een beknopte en gemakkelijk leesbare samenvatting van de overeenkomst. In die samenvatting zijn de belangrijkste elementen van de overeenkomst opgenomen, waaronder ten minste:
 
@@ -158,7 +184,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 3. De informatie, bedoeld in het eerste en tweede lid, maakt integraal deel uit van de overeenkomst en kan uitsluitend worden gewijzigd indien de partijen dit uitdrukkelijk overeenkomen.
 
-#### Artikel 12. Wijziging bedingen in overeenkomst
+##### Artikel 12. Wijziging bedingen in overeenkomst
 
 1. Ten minste een maand voordat een voorgenomen wijziging van een beding dat is opgenomen in een overeenkomst van kracht wordt:
 
@@ -184,7 +210,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 #### §. 7. Financiële aspecten en retailtarieven
 
-#### Artikel 13. Financiële verantwoording
+##### Artikel 13. Financiële verantwoording
 
 1. Indien na het van kracht worden van de concessie de minister de houder van een concessie verzoekt om enigerlei voorziening te treffen, of een activiteit te verrichten, die uit bedrijfseconomische overwegingen niet, of nog niet verantwoord kunnen worden geacht, dan zullen de daarmee samenhangende kosten door de minister worden vergoed.
 
@@ -192,7 +218,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 3. De houder van een concessie is gehouden van voorkennis, verkregen bij activiteiten ter zake van de uitvoering van de concessie en van de diensten, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048549&paragraaf=1&artikel=1&z=2024-09-01&g=2024-09-01), geen gebruik te maken ten behoeve van andere activiteiten.
 
-#### Artikel 14. Tarieven
+##### Artikel 14. Tarieven
 
 1. De gemiddelde opbrengst per gebruiker die een houder van een concessie voor haar diensten aan contractanten behaalt stijgt niet sterker dan met 1,25 keer de consumentenprijsindex van het voorgaande jaar.
 
@@ -200,7 +226,7 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 #### §. 8. Geschillen
 
-#### Artikel 15. Geschillen
+##### Artikel 15. Geschillen
 
 1. Voor geschillen over de toepassing en de uitleg van de algemene voorwaarden draagt de houder van een concessie zorg dat, ten behoeve van contractanten die uitsluitend of hoofdzakelijk anders dan in de uitoefening van een beroep of bedrijf handelen, een geschillencommissie wordt ingesteld.
 
@@ -208,11 +234,11 @@ Nummerreeksen kunnen uitsluitend in gebruik genomen worden door de houder van ee
 
 #### §. 9. Overige bepalingen
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Het besluit treedt in werking met ingang van de eerste dag van de twaalfde kalendermaand na de datum van uitgifte van de Staatscourant.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit algemene richtlijnen houders van een concessie Wet telecommunicatievoorzieningen BES.
 

@@ -1,20 +1,44 @@
 ---
 title: "Regeling verkeerslichten"
 identifier: "BWBR0009151"
-categorie: "Verkeer"
-publicatiedatum: 2019-07-01
-laatste_update: 2019-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009151"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-07-01"
+last_updated: "2019-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009151"
+soort: "ministeriele-regeling"
+stam_id: "5145583"
+version_id: "9222312"
+internal_id: "C12252101"
+label_id: "5121234"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009151/2019-07-01/0"
+intitule_bron: "Stcrt.1997-245"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-15"
+intitule_published: "1997-12-19"
+intitule_in_force: "1997-12-19"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-245"
+original_signed_date: "1997-12-15"
+original_published_date: "1997-12-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-12-21"
+jci_1_3: "jci1.3:c:BWBR0009151&z=2019-07-01&g=2019-07-01"
+jci_1_0: "1.0:c:BWBR0009151&g=2019-07-01"
+citeertitel_status: "officieel"
+signed_date: "1997-12-15"
+entry_into_force: "1997-12-21"
 ---
-
 # Regeling verkeerslichten
 
 Gelet op [artikel 14 van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=14);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materiaal van verkeersregelinstallaties worden de volgende voorschriften vastgesteld:
 
@@ -410,15 +434,15 @@ Ten aanzien van de toepassing, inrichting, plaatsing, kleur, afmeting en materia
 
 - 131. Verkeersregelinstallaties, of onderdelen daarvan, die in gebruik zijn genomen voor 1 juli 2019, die niet voldoen aan deze regeling voldoen aan de Regeling verkeerslichten zoals deze luidde op 30 juni 2019.
 
-#### Artikel 2
+##### Artikel 2
 
 De regeling van de Minister van Verkeer en Waterstaat van 28 juni 1991, nr. RV 93679B, houdende voorschriften over de inrichting, plaatsing en uitvoering van verkeerslichten (Stcrt. 133), wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling wordt aangehaald als: [Regeling verkeerslichten](https://wetten.overheid.nl/jci1.3:c:BWBR0009151).
 

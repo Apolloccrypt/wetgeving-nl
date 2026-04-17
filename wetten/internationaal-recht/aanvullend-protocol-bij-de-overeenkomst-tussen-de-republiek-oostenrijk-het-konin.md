@@ -1,13 +1,38 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens"
 identifier: "BWBV0001645"
-categorie: "Internationaal recht"
-publicatiedatum: 2004-04-30
-laatste_update: 2004-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001645"
+country: "nl"
+rank: "verdrag"
+publication_date: "2004-04-30"
+last_updated: "2004-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001645"
+soort: "verdrag"
+stam_id: "10002287673"
+version_id: "10002311872"
+internal_id: "C10006990451"
+label_id: "10002277984"
+dtd_version: "2.0"
+original_entry_into_force: "2004-04-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001645/2004-04-30/0"
+intitule_bron: "Trb.1999-147"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-04-30"
+intitule_published: "1999-08-23"
+intitule_in_force: "2006-05-24"
+intitule_status: "goed"
+original_publication: "Trb.1999-147"
+original_signed_date: "2004-04-30"
+original_published_date: "1999-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1999-147"
+entry_into_force_date: "2004-04-30"
+jci_1_3: "jci1.3:c:BWBV0001645&z=2004-04-30&g=2004-04-30"
+jci_1_0: "1.0:c:BWBV0001645&g=2004-04-30"
+citeertitel_status: "redactioneel"
+signed_date: "2004-04-30"
+entry_into_force: "2004-04-30"
 ---
-
 # Aanvullend Protocol bij de Overeenkomst tussen de Republiek Oostenrijk, het Koninkrijk België, het Koninkrijk Denemarken, de Republiek Finland, de Bondsrepubliek Duitsland, de Helleense Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Koninkrijk Spanje en het Koninkrijk Zweden, de Europese Gemeenschap voor Atoomenergie en de Internationale Organisatie voor Atoomenergie ter uitvoering van artikel III, leden 1 en 4, van het Verdrag inzake de niet-verspreiding van kernwapens
 
 Preambule
@@ -24,13 +49,13 @@ zijn de Gemeenschap, de staten en de organisatie als volgt overeengekomen:
 
 ### RELATIE TUSSEN HET PROTOCOL EN DE VEILIGHEIDSCONTROLEOVEREENKOMST
 
-#### Artikel 1
+##### Artikel 1
 
 De bepalingen van de [veiligheidscontroleovereenkomst](https://wetten.overheid.nl/jci1.3:c:BWBV0004367&artikel=III) zijn op dit protocol van toepassing voorzover zij relevant zijn voor en verenigbaar zijn met de bepalingen van dit protocol. In geval van tegenstrijdigheid tussen de bepalingen van de veiligheidscontroleovereenkomst en de bepalingen van dit protocol gelden de bepalingen van dit protocol.
 
 ### VERSTREKKING VAN INFORMATIE
 
-#### Artikel 2
+##### Artikel 2
 
 a. Elke staat verstrekt de organisatie een verklaring die de onder i, ii, iv, ix en x hieronder genoemde informatie bevat. De Gemeenschap verstrekt de organisatie een verklaring die de onder v, vi en vii hieronder genoemde informatie bevat. Elke staat en de Gemeenschap verstrekken de organisatie een verklaring die de onder iii en viii hieronder genoemde informatie bevat.
 
@@ -84,7 +109,7 @@ b. Elke staat doet alles wat redelijkerwijze mag worden verwacht om de organisat
 
 c. Op verzoek van de organisatie verstrekken een staat of de Gemeenschap of beide naar gelang van de omstandigheden een aanvulling of opheldering van alle ingevolge dit artikel verstrekte informatie, voorzover zulks relevant is voor de veiligheidscontrole.
 
-#### Artikel 3
+##### Artikel 3
 
 a. Elke staat of de Gemeenschap of beide naar gelang van de omstandigheden verstrekken de organisatie de in artikel 2.a.i, iii, iv, v, vi.a, vii en x en artikel 2.b.i vermelde informatie binnen 180 dagen na de inwerkingtreding van dit protocol.
 
@@ -102,7 +127,7 @@ g. Elke staat verstrekt de organisatie de in artikel 2.a.ix.b vermelde informati
 
 ### BIJKOMENDE TOEGANG
 
-#### Artikel 4
+##### Artikel 4
 
 De volgende bepalingen gelden in verband met de verlening van bijkomende toegang ingevolge artikel 5 van dit protocol:
 
@@ -126,7 +151,7 @@ e. Tenzij anderszins is toegestaan door de betrokken staat vindt de toegang alle
 
 f. De betrokken staat, of voor wat betreft toegang krachtens artikel 5.a of c, indien er sprake is van nucleair materiaal, de betrokken staat en de Gemeenschap hebben het recht inspecteurs van de organisatie tijdens hun toegang te laten vergezellen door hun vertegenwoordigers en in voorkomend geval inspecteurs van de Gemeenschap op voorwaarde dat de inspecteurs van de organisatie daardoor niet worden vertraagd of anderszins belemmerd bij de uitoefening van hun functies.
 
-#### Artikel 5
+##### Artikel 5
 
 Elke staat verleent de organisatie toegang tot:
 
@@ -140,7 +165,7 @@ b. Elke plaats die door de betrokken staat is vermeld ingevolge artikel 2.a.i, i
 
 c. Elke door de organisatie opgegeven plaats, anders dan de onder a en b hierboven bedoelde, om plaatsgebonden milieusteekproeven te nemen, met dien verstande dat als de betrokken staat niet in staat is deze toegang te verlenen, die staat alles doet wat redelijkerwijze mag worden verwacht om onverwijld op aangrenzende plaatsen of op andere wijze aan de eisen van de organisatie te voldoen.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij de tenuitvoerlegging van artikel 5 kan de organisatie de volgende activiteiten uitvoeren:
 
@@ -152,7 +177,7 @@ c. Voor toegang overeenkomstig artikel 5.b: visuele waarneming, verzameling van 
 
 d. Voor toegang overeenkomstig artikel 5.c: verzameling van milieusteekproeven en, ingeval de resultaten geen oplossing opleveren voor de vraag of de tegenstrijdigheid op de door de organisatie ingevolge artikel 5.c opgegeven plaats, toepassing op die plaats van visuele waameming, instrumenten voor stralingsdetectie en -meting en, in overeenstemming tussen de betrokken staat en, indien er sprake is van nucleair materiaal, de Gemeenschap en de organisatie, andere objectieve maatregelen.
 
-#### Artikel 7
+##### Artikel 7
 
 a. Op verzoek van een staat treffen de organisatie en die staat regelingen voor gereguleerde toegang ingevolge dit protocol om de verspreiding van met het oog op proliferatiegevoelige informatie te voorkomen, om aan de vereisten inzake veiligheid en fysieke bescherming te voldoen, of om vertrouwelijke of commercieel gevoelige informatie te beschermen. Deze regelingen zullen de organisatie niet verhinderen om activiteiten uit te voeren die nodig zijn om de afwezigheid van niet-aangemeld nucleair materiaal en activiteiten op de betrokken plaats te bevestigen, met inbegrip van het oplossen van vragen in verband met de juistheid en volledigheid van de in artikel 2 bedoelde informatie of een tegenstrijdigheid in die informatie.
 
@@ -160,15 +185,15 @@ b. Een staat kan bij het verstrekken van de in artikel 2 bedoelde informatie de 
 
 c. In afwachting van de inwerkingtreding van de eventueel vereiste aanvullende regelingen kan een staat gereguleerde toegang verlenen in overeenstemming met het bepaalde onder a. hierboven.
 
-#### Artikel 8
+##### Artikel 8
 
 Niets in dit protocol staat in de weg dat een staat de organisatie toegang verleent tot andere plaatsen dan bedoeld in de artikelen 5 en 9 of de organisatie verzoekt verificatieactiviteiten op een bepaalde plaats uit te voeren. De organisatie doet onverwijld alles wat redelijkerwijze mag worden verwacht om aan een dergelijk verzoek te voldoen.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke staat verleent de organisatie toegang tot door de organisatie opgegeven plaatsen om over een ruimer gebied milieusteekproeven te nemen, met dien verstande dat als een staat niet in staat is dergelijke toegang te verlenen, die staat alles doet wat redelijkerwijze mag worden verwacht om op alternatieve plaatsen aan de eisen van de organisatie te voldoen. De organisatie verlangt dergelijke toegang niet voordat het nemen van milieusteekproeven over een ruimer gebied en de procedurele regelingen daarvoor zijn goedgekeurd door de raad en overleg tussen de organisatie en de betrokken staat heeft plaatsgevonden.
 
-#### Artikel 10
+##### Artikel 10
 
 a. De organisatie stelt de betrokken staat en in voorkomend geval de Gemeenschap in kennis van:
 
@@ -180,7 +205,7 @@ b. De organisatie stelt de betrokken staat en de Gemeenschap in kennis van de co
 
 ### BENOEMING VAN INSPECTEURS VAN DE ORGANISATIE
 
-#### Artikel 11
+##### Artikel 11
 
 - i. De directeur-generaal stelt de Gemeenschap en de staten in kennis wanneer de raad ermee instemt dat een functionaris van de organisatie optreedt als veiligheidscontrole-inspecteur. Tenzij de Gemeenschap de directeur-generaal binnen drie maanden nadat zij van de instemming van de raad in kennis is gesteld de directeur-generaal laat weten dat zij niet aanvaardt dat de betrokken functionaris optreedt als inspecteur voor de staten, wordt de aldus aan de Gemeenschap en de staten meegedeelde inspecteur geacht voor de staten te zijn benoemd;
 
@@ -190,13 +215,13 @@ b. Een kennisgeving als bedoeld onder a hierboven wordt geacht door de Gemeensch
 
 ### VISA
 
-#### Artikel 12
+##### Artikel 12
 
 Elke staat verleent binnen één maand nadat hij daartoe een verzoek heeft ontvangen de in het verzoek vermelde benoemde inspecteur de nodige meervoudige in- en uitreisvisa en/of transitvisa om de inspecteur in staat te stellen het grondgebied van de betrokken staat binnen te gaan en aldaar te verblijven voor de uitoefening van zijn of haar functies. Alle vereiste visa zijn ten minste één jaar geldig en worden zo nodig vernieuwd om de duur van de benoeming van de inspecteur voor de staten te bestrijken.
 
 ### AANVULLENDE REGELINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 a. Ingeval een staat of de Gemeenschap, naar gelang van de omstandigheden, of de organisatie te kennen geeft dat het noodzakelijk is in aanvullende regelingen uiteen te zetten op welke wijze de in dit protocol neergelegde maatregelen moeten worden toegepast, bereiken die staat of die staat en de Gemeenschap en de organisatie overeenstemming over dergelijke aanvullende regelingen binnen 90 dagen na de inwerkingtreding van dit protocol of, als de noodzaak van dergelijke aanvullende regelingen na de inwerkingtreding van dit protocol naar voren wordt gebracht, binnen 90 dagen na de datum waarop dat is geschied.
 
@@ -204,7 +229,7 @@ b. In afwachting van de inwerkingtreding van de eventueel vereiste aanvullende r
 
 ### COMMUNICATIESYSTEMEN
 
-#### Artikel 14
+##### Artikel 14
 
 a. Elke staat staat de organisatie voor officiële doeleinden vrije communicatie toe tussen inspecteurs van de organisatie in die staat en het hoofdkantoor en/of de regionale kantoren van de organisatie, met inbegrip van al dan niet automatische verzending van informatie afkomstig van insluit- en/of controle- of meetapparatuur van de organisatie en beschermt deze communicatie. De organisatie heeft in overleg met de betrokken staat het recht gebruik te maken van internationale systemen voor rechtstreekse communicatie, waaronder satellietsystemen en andere vormen van telecommunicatie, die in die staat niet in gebruik zijn.
 
@@ -214,7 +239,7 @@ b. Bij de communicatie en verzending van informatie overeenkomstig lid a hierbov
 
 ### BESCHERMING VAN VERTROUWELIJKE INFORMATIE
 
-#### Artikel 15
+##### Artikel 15
 
 a. De organisatie handhaaft een strikte regeling om een doeltreffende bescherming te waarborgen tegen de bekendmaking van commerciële technologische en industriële geheimen en andere vertrouwelijke informatie waarvan zij kennis krijgt, met inbegrip van informatie waarvan zij kennis krijgt bij de tenuitvoerlegging van dit protocol.
 
@@ -230,7 +255,7 @@ c. De onder a hierboven bedoelde regeling wordt door de raad goedgekeurd en peri
 
 ### BIJLAGEN
 
-#### Artikel 16
+##### Artikel 16
 
 a. De bijlagen van dit protocol vormen hiervan een integrerend onderdeel. Behalve ten behoeve van wijzigingen van de bijlagen I en II wordt in dit instrument met de term „protocol" bedoeld het protocol en de bijlagen samen.
 
@@ -240,7 +265,7 @@ c. Bijlage III van dit protocol bepaalt op welke wijze in dit protocol neergeleg
 
 ### INWERKINGTREDING
 
-#### Artikel 17
+##### Artikel 17
 
 a. Dit protocol treedt in werking op de datum waarop de organisatie van de Gemeenschap en de staten een schriftelijke kennisgeving ontvangt dat aan hun onderscheiden vereisten voor de inwerkingtreding is voldaan.
 
@@ -250,7 +275,7 @@ c. De directeur-generaal stelt alle lidstaten van de organisatie onverwijld in k
 
 ### DEFINITIES
 
-#### Artikel 18
+##### Artikel 18
 
 Als gebruikt in dit protocol betekent:
 

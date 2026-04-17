@@ -1,13 +1,38 @@
 ---
 title: "Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg"
 identifier: "BWBR0039705"
-categorie: "Sociaal recht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039705"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039705"
+soort: "zbo"
+stam_id: "14031293"
+version_id: "24166022"
+internal_id: "C34726721"
+label_id: "13992614"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039705/2018-01-01/0"
+intitule_bron: "Stcrt.2017-36479"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-06-20"
+intitule_published: "2017-06-30"
+intitule_in_force: "2017-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-36479"
+original_signed_date: "2017-06-20"
+original_published_date: "2017-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-36479"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0039705&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0039705&g=2018-01-01"
+citeertitel_status: "officieel"
+signed_date: "2017-06-20"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg
 
 Gelet op:
@@ -32,7 +57,7 @@ de Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2018 (met k
 
 heeft de Nederlandse Zorgautoriteit (NZa) de volgende regeling vastgesteld.
 
-#### 1. Begripsbepalingen
+##### 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +79,7 @@ In deze regeling wordt verstaan onder:
 
 - i. **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### 2. Doel van de nadere regel
+##### 2. Doel van de nadere regel
 
 Deze regeling heeft tot doel de (macro)kosten van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=1&z=2018-01-01&g=2018-01-01) genoemde zorg te beheersen door middel van een integraal macrobeheersmodel, respectievelijk macrobeheersinstrument (MBI).
 
@@ -66,17 +91,17 @@ Om dit doel te bereiken is deze regeling vastgesteld. Hierin zijn voorschriften 
 
 - –. afdracht van geldbedragen in verband met overschrijding van een tariefgrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### 3. Reikwijdte
+##### 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die zintuiglijk gehandicaptenzorg leveren als bedoeld in [artikel 2.5a van het Besluit zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.5a).
 
 Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in [artikel 1, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=1&z=2018-01-01&g=2018-01-01), van deze regeling.
 
-#### 4. Administratievoorschriften
+##### 4. Administratievoorschriften
 
 De zorgaanbieder richt haar administratie op een zodanige wijze in dat daaruit de gerealiseerde omzet als bedoeld in [artikel 1, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=1&z=2018-01-01&g=2018-01-01), kan worden afgeleid.
 
-#### 5. Gegevensverstrekking
+##### 5. Gegevensverstrekking
 
 1. De zorgaanbieders bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=1&z=2018-01-01&g=2018-01-01) verstrekken de NZa de in artikel 7 van de beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2018 (met kenmerk: BR/REG-18115) bedoelde omzetgegevens uiterlijk twee maanden na dagtekening van de brief waarmee de NZa het veld informeert over de aanleververplichting. Deze brief wordt per omgaande verstuurd na ontvangst van het bericht van deMinister van VWS, dat de bovengrens als bedoeld in artikel 1, onder a, is overschreden en die overschrijding door middel van toepassing van het macrobeheersinstrument ongedaan dient te worden gemaakt. Indien geen sprake is van een overschrijding van de bovengrens zal de NZa geen verplichting tot gegevensverstrekking opleggen.
 
@@ -94,21 +119,21 @@ De zorgaanbieder richt haar administratie op een zodanige wijze in dat daaruit d
 
 5. De opgave bedoeld in het vorige lid geschiedt door middel van een door de NZa – via haar website – beschikbaar te stellen formulier.
 
-#### 6. Accountantscontrole gegevensverstrekking
+##### 6. Accountantscontrole gegevensverstrekking
 
 De zorgaanbieder draagt er zorg voor dat een accountant, als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393), de juistheid en volledigheid van de op grond van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=5&z=2018-01-01&g=2018-01-01) verstrekte gegevens en inlichtingen vaststelt, overeenkomstig de wijze die in de in artikel 5, tweede lid, genoemde formulier en het daarbij beschikbaar te stellen controleprotocol is aangegeven.
 
-#### 7. Wijze van gegevensverstrekking
+##### 7. Wijze van gegevensverstrekking
 
 De zorgaanbieder, respectievelijk zorgverzekeraar, verzendt de opgave bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0039705&artikel=5&z=2018-01-01&g=2018-01-01) naar de NZa.
 
-#### 8. Afdracht overschrijding
+##### 8. Afdracht overschrijding
 
 1. Op grond van een aanwijzing als bedoeld in [artikel 76, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76), dient de zorgaanbieder haar op grond van de Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2018 (met kenmerk: BR/REG-18115), vastgestelde aandeel in de overschrijding van de bovengrens binnen een in de aanwijzing genoemde termijn af te dragen aan het Zorgverzekeringsfonds.
 
 2. Een afdracht als bedoeld in het eerste lid blijft achterwege, indien de kosten in verband met de afdracht en inning van het af te dragen bedrag hoger zijn dan de baten. Indien naar het oordeel van de NZa sprake is van een situatie als beschreven in de vorige zin, doet zij daarvan mededeling in de in het eerste lid bedoelde beschikking onder vermelding dat de zorgaanbieder het door de NZa vastgestelde bedrag ter zake zijn aandeel in de overschrijding niet hoeft af te dragen aan het Zorgverzekeringsfonds.
 
-#### 9. Inwerkingtreding en citeerregel
+##### 9. Inwerkingtreding en citeerregel
 
 Deze regeling treedt in werking met ingang van 1 januari 2018.
 

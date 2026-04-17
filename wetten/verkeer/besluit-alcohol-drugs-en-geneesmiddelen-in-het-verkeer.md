@@ -1,13 +1,39 @@
 ---
-title: "Besluit alcohol, drugs en geneesmiddelen in het verkeer"
+title: "Besluit van 14 december 2016, houdende regels over de voorlopige onderzoeken en de vervolgonderzoeken die ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer kunnen worden ingezet en aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen (Besluit alcohol, drugs en geneesmiddelen in het verkeer)"
 identifier: "BWBR0038936"
-categorie: "Verkeer"
-publicatiedatum: 2022-07-01
-laatste_update: 2022-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038936"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-07-01"
+last_updated: "2022-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038936"
+soort: "AMvB"
+stam_id: "13836813"
+version_id: "23754132"
+internal_id: "C34678121"
+label_id: "13802524"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038936/2022-07-01/0"
+intitule_bron: "Stb.2016-529"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-14"
+intitule_published: "2016-12-22"
+intitule_in_force: "2017-06-13"
+intitule_status: "goed"
+original_publication: "Stb.2016-529"
+original_signed_date: "2016-12-14"
+original_published_date: "2016-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2016-529"
+entry_into_force_date: "2017-07-01"
+jci_1_3: "jci1.3:c:BWBR0038936&z=2022-07-01&g=2022-07-01"
+jci_1_0: "1.0:c:BWBR0038936&g=2022-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit alcohol, drugs en geneesmiddelen in het verkeer"
+signed_date: "2016-12-14"
+entry_into_force: "2017-07-01"
 ---
-
 # Besluit van 14 december 2016, houdende regels over de voorlopige onderzoeken en de vervolgonderzoeken die ter vaststelling van het gebruik van alcohol, drugs en geneesmiddelen in het verkeer kunnen worden ingezet en aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen (Besluit alcohol, drugs en geneesmiddelen in het verkeer)
 
 Op de voordracht van Onze Minister van Veiligheid en Justitie van 25 februari 2015, directie Wetgeving en Juridische Zaken, nr. 619344;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijzig
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -36,11 +62,11 @@ In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
 #### § 2. Aanwijzing van de drugs waarvoor grenswaarden gelden en aanwijzing van de grenswaarden voor enkelvoudig en gecombineerd gebruik van drugs en van drugs en alcohol of geneesmiddelen
 
-#### Artikel 2
+##### Artikel 2
 
 Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8) worden aangewezen: amfetamine, methamfetamine, cocaïne, MDMA, MDEA, MDA, cannabis, heroïne, morfine, GHB, gamma butyrolacton en 1,4-butaandiol.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De grenswaarden voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=2&artikel=2&z=2022-07-01&g=2022-07-01) aangewezen stoffen zijn, indien zij enkelvoudig zijn gebruikt en gemeten in geval van:
 
@@ -70,7 +96,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 3.1. Onderzoek van de psychomotorische functies en oog- en spraakfuncties
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een onderzoek van de psychomotorische functies en de oog- en spraakfuncties als bedoeld in [artikel 160, vijfde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) is gericht op het vaststellen van de bij ministeriële regeling aangewezen uiterlijke kenmerken.
 
@@ -78,7 +104,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 3. Indien het onderzoek van de psychomotorische functies en de oog- en spraakfuncties niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien het onderzoek van de psychomotorische functies en de oog- en spraakfuncties indiceert dat een of meer drugs of geneesmiddelen of alcohol is gebruikt, vermeldt de opsporingsambtenaar het resultaat van het onderzoek in het proces-verbaal.
 
@@ -86,7 +112,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 3.2. Voorlopig ademonderzoek
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een voorlopig ademonderzoek als bedoeld in [artikel 160, vijfde lid, onder b, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160), [artikel 28, eerste lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=28), [artikel 4, vierde lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, vierde lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) en [artikel 11.4, tweede lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=11.4) geschiedt door degene bij wie het onderzoek wordt verricht, in een voor het onderzoek bestemde ademtester die bij ministeriële regeling is aangewezen, ademlucht te laten blazen en het resultaat daarvan af te lezen.
 
@@ -94,7 +120,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 3. Indien het voorlopig ademonderzoek niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien het voorlopig ademonderzoek indiceert dat het alcoholgehalte in de adem van de verdachte hoger is dan op grond van [artikel 8, tweede lid, onder a, of derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder a, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder a, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) is toegestaan, vermeldt de opsporingsambtenaar het resultaat van het onderzoek in het proces-verbaal.
 
@@ -102,7 +128,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 3.3. Onderzoek van speeksel
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een onderzoek van speeksel als bedoeld in [artikel 160, vijfde lid, onder c, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=160) geschiedt door met een voor het onderzoek bestemde speekseltester die bij ministeriële regeling is aangewezen, in de mondholte van degene bij wie het onderzoek wordt verricht, speeksel af te nemen en het resultaat daarvan af te lezen of door een bij de speekseltester behorend apparaat uit te lezen.
 
@@ -110,7 +136,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 3. Indien het onderzoek van speeksel niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste lid eenmaal opnieuw verrichten.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien het onderzoek van speeksel indiceert dat een of meer drugs of geneesmiddelen is gebruikt, vermeldt de opsporingsambtenaar het resultaat van het onderzoek in het proces-verbaal.
 
@@ -120,7 +146,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 4.1. Ademonderzoek
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een ademonderzoek als bedoeld in [artikel 8, tweede lid, onder a, of derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder a, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder a, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) geschiedt door de verdachte, zo nodig viermaal, ademlucht in een voor het onderzoek bestemd ademanalyseapparaat dat bij ministeriële regeling is aangewezen, te laten blazen en het resultaat daarvan af te lezen. Het blazen kan worden beëindigd, zodra het onderzoek twee meetresultaten heeft opgeleverd.
 
@@ -132,7 +158,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 5. Indien het ademonderzoek niet heeft geleid tot een geldig resultaat, kan de opsporingsambtenaar het onderzoek met toepassing van het eerste, tweede en vierde lid eenmaal opnieuw verrichten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien het ademonderzoek het vermoeden bevestigt dat het alcoholgehalte in de adem van de verdachte hoger is dan op grond van [artikel 8, tweede lid, onder a, of derde lid, onder a, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, tweede lid, onder a, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, tweede lid, onder a, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, tweede lid, onder a, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, derde lid, onder a, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) is toegestaan, vermeldt de opsporingsambtenaar het resultaat van het onderzoek in het proces-verbaal.
 
@@ -146,7 +172,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 #### § 4.2. Bloedonderzoek
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ten behoeve van het bloedonderzoek neemt een arts of verpleegkundige door middel van een venapunctie twee buisjes bloed van de verdachte af of, indien een venapunctie vanuit medisch oogpunt niet verantwoord is, door middel van een infuus. In afwijking van de eerste volzin mag de arts of verpleegkundige ook een buisje bloed van de verdachte afnemen indien het vanuit medisch oogpunt niet verantwoord is, twee buisjes bloed van hem af te nemen. De hoeveelheid bloed dat ieder buisje dient te bevatten, wordt bij ministeriële regeling vastgesteld.
 
@@ -156,7 +182,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 4. De arts of verpleegkundige ontvangt voor de bloedafname een vergoeding van de organisatie waarbij de opsporingsambtenaar werkzaam is en die voor de bloedafname zorgdraagt.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij de bloedafname, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=12&z=2022-07-01&g=2022-07-01), is een opsporingsambtenaar aanwezig, die:
 
@@ -172,7 +198,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 3. Bij ministeriële regeling worden regels gesteld over de omstandigheden waaronder de buisjes of het buisje met bloed worden bewaard en vervoerd.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De opsporingsambtenaar formuleert de opdracht voor de onderzoeker die het bloedonderzoek verricht.
 
@@ -186,7 +212,7 @@ Als stoffen als bedoeld in [artikel 8, vijfde lid, van de Wegenverkeerswet 1994]
 
 4. Indien de accreditatie van een laboratorium, bedoeld in het tweede lid, is ingetrokken of geschorst of na haar vervaldatum niet is verlengd, kan in dat laboratorium geen bloedonderzoek meer worden verricht.
 
-#### Artikel 15
+##### Artikel 15
 
 Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), is verbonden, legt na ontvangst van de buisjes of het buisje met bloed de volgende gegevens in een bestand vast:
 
@@ -198,7 +224,7 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](htt
 
 - d. de naam van de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De onderzoeker, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01), verricht het bloedonderzoek binnen vier weken na ontvangst van de buisjes of het buisje met bloed. Indien toepassing is gegeven aan [artikel 164, eerste lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=164), verricht de onderzoeker het bloedonderzoek binnen een week na ontvangst van de buisjes of het buisje met bloed voor zover het bloedonderzoek betrekking heeft op het gebruik van alcohol. De methode die hij voor het bloedonderzoek hanteert, voldoet aan de bij ministeriële regeling vastgestelde eisen.
 
@@ -218,11 +244,11 @@ Het laboratorium waaraan de onderzoeker, bedoeld in [artikel 14, eerste lid](htt
 
 5. De onderzoeker stuurt het verslag binnen de op grond van het eerste lid geldende termijn aan de opdrachtgever van het bloedonderzoek.
 
-#### Artikel 17
+##### Artikel 17
 
 De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), schriftelijk in kennis van het resultaat van het bloedonderzoek en van het recht op tegenonderzoek en vermeldt daarbij het sporenidentificatienummer, bedoeld in artikel 16, vierde lid, onder b.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In geval van een aanvullend bloedonderzoek stelt het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan de onderzoeker.
 
@@ -234,7 +260,7 @@ De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het v
 
 - c. de opsporingsambtenaar belast is met de in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=17&z=2022-07-01&g=2022-07-01) genoemde taak.
 
-#### Artikel 19
+##### Artikel 19
 
 1. In geval van een tegenonderzoek stelt het laboratorium waaraan de onderzoeker is verbonden die het bloedonderzoek of het aanvullend bloedonderzoek heeft verricht, het voor dat onderzoek bestemde buisje met bloed ter beschikking aan het laboratorium waaraan de onderzoeker is verbonden die het tegenonderzoek verricht.
 
@@ -246,7 +272,7 @@ De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het v
 
 5. De verdachte ontvangt het bedrag, bedoeld in het derde lid, uit ’s Rijks kas terug indien het resultaat van het tegenonderzoek het vermoeden niet bevestigt dat hij [artikel 8, eerste, tweede, derde of vijfde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) heeft overtreden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het laboratorium waaraan de onderzoeker is verbonden dat het bloedonderzoek, aanvullend bloedonderzoek of tegenonderzoek heeft verricht, vernietigt het bloed dat na dat onderzoek resteert, een half jaar na de datum van dagtekening van het verslag, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01). Is het recht op tegenonderzoek vervallen, dan vernietigt het laboratorium dat het tegenonderzoek zou verrichten het bloed een half jaar na de ontvangst.
 
@@ -256,25 +282,25 @@ De opsporingsambtenaar stelt de verdachte binnen een week na ontvangst van het v
 
 4. Het laboratorium, bedoeld in het eerste lid, houdt aantekening van iedere vernietiging op grond van het eerste tot en met derde lid.
 
-#### Artikel 21
+##### Artikel 21
 
 Indien een ander laboratorium dan het laboratorium van het Nederlands Forensisch Instituut voornemens is zijn werkzaamheden op het terrein van het bloedonderzoek of het aanvullend bloedonderzoek te beëindigen, zorgt dat laboratorium ervoor dat het bloed, de afschriften van de verslagen, bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=16&z=2022-07-01&g=2022-07-01), die bij dat laboratorium worden bewaard, en de daarbij behorende gegevens, bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=15&z=2022-07-01&g=2022-07-01), voor de beëindiging van die werkzaamheden aan dat instituut worden overgedragen, tenzij het laboratorium fuseert met een ander laboratorium als bedoeld in [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038936&paragraaf=4&sub-paragraaf=4.2&artikel=14&z=2022-07-01&g=2022-07-01). In het laatste geval worden het bloed, de afschriften van de verslagen en de daarbij behorende gegevens in dat andere laboratorium bewaard.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Een onderzoek dat ter vaststelling van een overtreding op grond van [artikel 8, eerste, tweede of derde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=8), [artikel 27, eerste of tweede lid, van de Scheepvaartverkeerswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004364&artikel=27), [artikel 4, eerste of tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=4), [artikel 41, eerste of tweede lid, van de Wet lokaal spoor](https://wetten.overheid.nl/jci1.3:c:BWBR0034363&artikel=41) of [artikel 2.12, eerste of derde lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.12) voor de inwerkingtreding van dit besluit is of wordt uitgevoerd, wordt overeenkomstig de regels die daarop voor de inwerkingtreding van dit besluit van toepassing waren, afgehandeld.
 
-#### Artikel 23
+##### Artikel 23
 
 Het [Besluit alcoholonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008805) wordt ingetrokken.
 
-#### Artikel 24
+##### Artikel 24
 
 Dit besluit treedt in werking op het tijdstip waarop de wet van 26 september 2014 tot wijziging van de Wegenverkeerswet 1994 in verband met het verbeteren van de aanpak van het rijden onder invloed van drugs (Stb. 2014, 353) in werking treedt.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit alcohol, drugs en geneesmiddelen in het verkeer.
 

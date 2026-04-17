@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel toetsingskader waterkwaliteit"
 identifier: "BWBR0046422"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046422"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046422"
+soort: "beleidsregel"
+stam_id: "16297323"
+version_id: "28475572"
+internal_id: "C40177281"
+label_id: "16222964"
+dtd_version: "2.0"
+original_entry_into_force: "2022-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046422/2024-01-01/0"
+intitule_bron: "Stcrt.2022-6470"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2022-03-14"
+intitule_in_force: "2022-03-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-6470"
+original_published_date: "2022-03-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-6470"
+entry_into_force_date: "2022-03-15"
+jci_1_3: "jci1.3:c:BWBR0046422&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0046422&g=2024-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2022-03-15"
 ---
-
 # Beleidsregel toetsingskader waterkwaliteit
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) in samenhang met de [artikelen 2.1, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=2.1), [6.6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.6), [6.20](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.20) en [6.21 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.21),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij de beoordeling van een aanvraag om een omgevingsvergunning voor een wateractiviteit op grond van [artikel 8.84 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=8.84), worden de stroomschema’s doorlopen zoals die zijn opgenomen in het in de bijlage bij dit besluit opgenomen Toetsingskader waterkwaliteit.
 
@@ -22,15 +44,15 @@ Besluit:
 
 3. Op grond van [artikel 5.34, eerste lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=5.34) worden in elk geval de op basis van deze stroomschema’s nodige voorschriften aan de vergunning verbonden.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij het vaststellen van een maatwerkvoorschrift als bedoeld in [artikel 4.5 van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=4.5), worden de stroomschema’s doorlopen zoals die zijn opgenomen in het in de bijlage bij dit besluit opgenomen Toetsingskader waterkwaliteit.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit wordt aangehaald als: Beleidsregel toetsingskader waterkwaliteit.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

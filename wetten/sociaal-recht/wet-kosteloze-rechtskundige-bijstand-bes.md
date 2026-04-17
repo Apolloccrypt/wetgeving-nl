@@ -1,22 +1,47 @@
 ---
 title: "Wet kosteloze rechtskundige bijstand BES"
 identifier: "BWBR0028200"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028200"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028200"
+soort: "wet-BES"
+stam_id: "10693433"
+version_id: "17655882"
+internal_id: "C24753421"
+label_id: "10668074"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028200/2010-10-10/0"
+intitule_bron: "Stb.2010-515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-07"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-515"
+original_signed_date: "2010-09-07"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-515"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028200&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028200&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-07"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet kosteloze rechtskundige bijstand BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Namens de openbare lichamen Bonaire, Sint Eustatius en Saba wordt voor bepaalde tijd en tot wederopzegging door een der partijen een overeenkomst aangegaan met advocaten, waarbij deze zich verbinden tegen een nader overeen te komen vergoeding kosteloos overeenkomstig de bepalingen van deze wet rechtskundige bijstand te verlenen.
 
 2. Voor zover de overeenkomst, bedoeld in het eerste lid, betrekking heeft op rechtskundige bijstand in strafzaken, worden de bij of krachtens de [artikelen 61 tot en met 69 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=61) gegeven voorschriften in acht genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Aan iedere in de openbare lichamen Bonaire, Sint Eustatius en Saba werkelijke woonplaats hebbende persoon, die on- of minvermogend is en rechtskundige bijstand behoeft, kan een kaart worden afgegeven, recht gevende op kosteloze rechtskundige bijstand.
 
@@ -32,7 +57,7 @@ Voorzover een internationale overeenkomst zulks verplicht, komen vreemdelingen n
 
 6. Indien zich in de omstandigheden van de persoon aan wie kosteloze rechtskundige bijstand wordt verleend, zodanige wijzigingen mochten voordoen, dat op grond daarvan aannemelijk geacht kan worden dat die persoon in staat is de kosten van een advocaat zelf te dragen, komt het recht op kosteloze rechtskundige bijstand te vervallen.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. In afwijking van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2&z=2010-10-10&g=2010-10-10) kan ten aanzien van een geschil voortvloeiende uit een overeenkomst tot het verrichten van arbeid, diegene wiens bruto inkomen per jaar uit arbeid niet meer dan USD 6.704 bedraagt, aanspraak maken op een kaart die recht geeft op kosteloze rechtsbijstand.
 
@@ -56,42 +81,42 @@ Voorzover een internationale overeenkomst zulks verplicht, komen vreemdelingen n
 
 5. Het bepaalde in [artikel 2, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2&z=2010-10-10&g=2010-10-10), is van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien rechtskundige bijstand verleend wordt, hetzij in strafzaken, hetzij in een civiele procedure of een voorgenomen civiele procedure, welker aard naar het oordeel van Onze Minister van Justitie rechtskundige bijstand wettigt, wordt zulks op de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028200&artikel=2&z=2010-10-10&g=2010-10-10) bedoelde kaart aangetekend en wordt daarop, voor zover het geen toevoegingen op grond van het [Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681) betreft, tevens vermeld de naam van de advocaat die zich met de bijstand zal belasten.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling worden nadere regels gesteld over de verlening van kosteloze rechtskundige bijstand.
 
-#### Artikel 5
+##### Artikel 5
 
 [vervallen]
 
-#### Artikel 6
+##### Artikel 6
 
 Het is de aangewezen advocaat verboden, een geschenk, beloning of vergoeding, van welke aard of waarde ook, in verband met de door hem te verlenen rechtskundige bijstand van wie dan ook te vragen, te bedingen of te aanvaarden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien personen, die als eisende partij met kosteloze rechtskundige bijstand ingevolge deze wet procederen, veroordeeld worden in de kosten, komt uitsluitend het salaris van de gemachtigde der wederpartij, tot het door de rechter vastgestelde bedrag voor rekening van het Rijk.
 
 2. Indien de rechter een bedrag vaststelt voor salaris van de advokaat van een onvermogende, aan wie op grond van deze wet kosteloze rechtkundige bijstand wordt verleend stort de advokaat dit bedrag na ontvangst in ’s Rijks kas, voorzover dit bedrag, dat aan de advocaat voor de behandeling van de zaak in de betreffende instantie is toegekend, niet overschrijdt.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Bij voldoende draagkracht van de rechtzoekende kunnen de kosten van de ten onrechte genoten rechtskundige bijstand geheel of gedeeltelijk van overheidswege op hem worden verhaald.
 
 2. Bij algemene maatregel van bestuur, kunnen regels worden gegeven omtrent het verhaal op de goederen van de rechtzoekende.
 
-#### Artikel 6c
+##### Artikel 6c
 
 Op de rechtskundige bijstand voor in verzekering gestelde personen is uitsluitend het Besluit toevoeging in strafzaken BES van toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet wordt aangehaald als: Wet kosteloze rechtskundige bijstand BES.
 
-#### Artikel 8
+##### Artikel 8
 
 [vervallen]

@@ -1,13 +1,39 @@
 ---
-title: "Regeling trouwe en langdurige dienst DJI"
+title: "Regeling van de Minister van Justitie en Veiligheid van 21 april 2021, nr. 2127629, houdende bepalingen voor de toekenning van een medaille of penning voor trouwe en langdurige dienst bij de Dienst Justitiële Inrichtingen (Regeling trouwe en langdurige dienst DJI)"
 identifier: "BWBR0045089"
-categorie: "Overig"
-publicatiedatum: 2021-05-04
-laatste_update: 2021-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045089"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-05-04"
+last_updated: "2021-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045089"
+soort: "ministeriele-regeling"
+stam_id: "15942123"
+version_id: "27738842"
+internal_id: "C39129251"
+label_id: "15876734"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045089/2021-05-04/0"
+intitule_bron: "Stcrt.2021-21878"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-21"
+intitule_published: "2021-05-03"
+intitule_in_force: "2021-05-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21878"
+original_signed_date: "2021-04-21"
+original_published_date: "2021-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21878"
+entry_into_force_date: "2021-05-04"
+jci_1_3: "jci1.3:c:BWBR0045089&z=2021-05-04&g=2021-05-04"
+jci_1_0: "1.0:c:BWBR0045089&g=2021-05-04"
+citeertitel_status: "officieel"
+short_title: "Regeling trouwe en langdurige dienst DJI"
+signed_date: "2021-04-21"
+entry_into_force: "2021-05-04"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid van 21 april 2021, nr. 2127629, houdende bepalingen voor de toekenning van een medaille of penning voor trouwe en langdurige dienst bij de Dienst Justitiële Inrichtingen (Regeling trouwe en langdurige dienst DJI)
 
 Gelet op het advies van de Kanselier der Nederlandse Orden
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -38,19 +64,19 @@ Besluit:
 
 2. De bijlagen worden gepubliceerd op de internetsite van DJI.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van onderhavige regeling wordt de voor ambtenaren voorgeschreven dienstkleding geacht een uniform te zijn.
 
 ### Hoofdstuk 2. De medaille en de penning
 
-#### Artikel 3
+##### Artikel 3
 
 1. Er is een medaille voor trouwe en langdurige dienst bij DJI.
 
 2. Er is een penning voor trouwe en langdurige dienst bij DJI.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=5&z=2021-05-04&g=2021-05-04) kent de Minister eenmalig de medaille toe aan de ambtenaar die het dragen van een uniform is voorgeschreven en aan wie:
 
@@ -76,7 +102,7 @@ Voor de toepassing van onderhavige regeling wordt de voor ambtenaren voorgeschre
 
 4. De ambtenaar met een wezenlijke onderbreking in zijn dienstverband bij DJI komt eveneens in aanmerking voor de in het eerste lid en tweede genoemde medaille en penning indien het tijdbestek voorafgaande en na de onderbreking samengeteld gelijk is aan de in de leden genoemde perioden.
 
-#### Artikel 5
+##### Artikel 5
 
 De Minister kan afzien van toekenning van de medaille, het jaarteken, de baton of de penning
 
@@ -86,23 +112,23 @@ De Minister kan afzien van toekenning van de medaille, het jaarteken, de baton o
 
 - c. hangende een onderzoek dat is ingesteld naar de integriteit van de betreffende ambtenaar.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De medaille, de baton en het jaarteken voldoen aan de fysieke kenmerken zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=1&z=2021-05-04&g=2021-05-04).
 
 2. De penning voldoet aan de fysieke kenmerken zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&bijlage=2&z=2021-05-04&g=2021-05-04).
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien een ambtenaar in aanmerking komt voor toekenning van de medaille of de penning, controleert het bevoegd gezag of de ambtenaar de medaille of de penning wil ontvangen.
 
 2. In geval de ambtenaar aangeeft de medaille of de penning te willen ontvangen, wordt de medaille met bijbehorende baton of de penning, beide met een oorkonde, aan hem uitgereikt door de ambtenaar die in de [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0043594&bijlage=1) behorend bij [artikel 2 van het Mandaatbesluit hoofddirecteur DJI 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043594&artikel=2) als bevoegd gezag, mandaat A, is aangewezen.
 
-#### Artikel 8
+##### Artikel 8
 
 Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=9&z=2021-05-04&g=2021-05-04) blijft de toegekende medaille en penning het eigendom van de ambtenaar aan wie deze zijn toegekend. Zij mogen niet worden vervreemd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Toegekende medaille of penning worden ingetrokken in geval van niet eervol ontslag.
 
@@ -110,7 +136,7 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ### Hoofdstuk 3. Draagvoorschriften voor de medaille
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar is bevoegd de medaille aan het lint op het uniform te dragen op borsthoogte, op de linkerzijde van het uniform.
 
@@ -118,7 +144,7 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Het bevoegd gezag kan nadere draagvoorschriften stellen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De ambtenaar draagt het jaarteken op het medaillelint en de baton.
 
@@ -126,17 +152,17 @@ Behoudens het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaar die op de dag van inwerkingtreding van deze regeling nog steeds in dienst is van DJI en heeft voldaan aan de vereisten als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0045089&hoofdstuk=2&artikel=4&z=2021-05-04&g=2021-05-04), wordt de medaille of de penning toegekend en vervolgens uitgereikt op een door het bevoegd gezag te bepalen moment.
 
 2. Indien de ambtenaar op datum van inwerkingtreding recht op meer dan een medaille of penning heeft, wordt hem de medaille of de penning verbonden aan de meeste jaren uitgereikt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2020.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als Regeling trouwe en langdurige dienst DJI en zal met de toelichting in de Staatscourant worden geplaatst.
 

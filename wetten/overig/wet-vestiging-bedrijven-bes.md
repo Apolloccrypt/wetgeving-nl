@@ -1,20 +1,45 @@
 ---
 title: "Wet vestiging bedrijven BES"
 identifier: "BWBR0028164"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028164"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028164"
+soort: "wet-BES"
+stam_id: "10685563"
+version_id: "18830602"
+internal_id: "C26283771"
+label_id: "10660284"
+dtd_version: "2.0"
+original_entry_into_force: "2011-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028164/2019-01-01/0"
+intitule_bron: "Stb.2010-442"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-17604"
+original_signed_date: "2011-09-27"
+original_published_date: "2011-10-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-17604"
+entry_into_force_date: "2011-09-27"
+jci_1_3: "jci1.3:c:BWBR0028164&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0028164&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "2011-09-27"
+entry_into_force: "2011-09-27"
 ---
-
 # Wet vestiging bedrijven BES
 
-#### Artikel 1
+##### Artikel 1
 
 In de artikelen van deze wet wordt verstaan onder openbaar lichaam: het openbaar lichaam Bonaire, Sint Eustatius of Saba.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Onder zaak verstaat deze wet en de ter uitvoering daarvan uitgevaardigde besluiten, elke onderneming, waarin eenig bedrijf, door wien ook, wordt uitgeoefend.
 
@@ -24,7 +49,7 @@ In de artikelen van deze wet wordt verstaan onder openbaar lichaam: het openbaar
 
 4. Een zaak wordt gevestigd, wanneer het bedrijf ten aanzien van het publiek aanvangt.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden:
 
@@ -42,7 +67,7 @@ Het is verboden:
 
 - g. een zaak van aard te wijzigen, zonder een daartoe strekkende vergunning van het Bestuurscollege.
 
-#### Artikel 3
+##### Artikel 3
 
 Geen vergunning is vereischt voor één of meer van bovengenoemde handelingen ten aanzien van zaken:
 
@@ -56,23 +81,23 @@ Geen vergunning is vereischt voor één of meer van bovengenoemde handelingen te
 
 - e. toebehoorende aan kleine handelslieden, die bij besluit van het Bestuurscollege daarvan zijn vrijgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het verzoekschrift tot het verkrijgen eener vergunning, houdt zooveel mogelijk en zoo nauwkeurig mogelijk in, de opgaven, vermeld in de artikelen 12 tot en met 21 van het Handelsregisterbesluit BES.
 
 2. Indien inlichtingen in het buitenland moeten worden ingewonnen, komen de daarop vallende kosten ten laste van den aanvrager der vergunning en is deze desverlangd verplicht tot dat einde het bedrag van USD 8 voor te schieten.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De vergunning kan worden geweigerd indien de aanvrager in kennelijk onvoldoende mate beschikt over algemene vaardigheden om een zaak te leiden dan wel in kennelijk onvoldoende mate beschikt over de financiële middelen die naar redelijkheid benodigd zijn voor het starten van een zaak als waarvoor de vergunning wordt gevraagd.
 
 2. De vergunning kan worden geweigerd met het oog op een te beschermen algemeen belang, onder voorwaarde dat Onze Minister van Economische Zaken en Klimaat voorafgaand aan de weigering daarmee heeft ingestemd. Het gemotiveerde verzoek om instemming wordt door het bestuurscollege aan de minister gezonden met in ieder geval een beschrijving van het te beschermen algemeen belang. De Minister deelt zijn beslissing mee uiterlijk binnen drie weken na ontvangst van het verzoek om instemming.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij het verleenen eener vergunning is het Bestuurscollege bevoegd, daaraan voorwaarden te verbinden, betreffende de credietwaardigheid van den aanvrager en de financiering der zaak.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergunning kan door hem, die haar verleende worden ingetrokken:
 
@@ -86,15 +111,15 @@ Bij het verleenen eener vergunning is het Bestuurscollege bevoegd, daaraan voorw
 
 2. Behoudens in gevallen, waarbij de vergunning werd verkregen door opzettelijk onjuiste of onvolledig verschafte gegevens, in welk geval intrekking van de vergunning plaats vindt nadat een veroordeling terzake van het misdrijf genoemd in [artikel 10 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=10&z=2019-01-01&g=2019-01-01), in kracht van gewijsde is gegaan, zal de bevoegde autoriteit aan de intrekking der vergunning een redelijken termijn verbinden, waarbinnen de vergunninghouder zijn zaak zal kunnen liquideeren. Na het verstrijken van dezen termijn wordt de betrokken persoon niet geacht in het bezit eener vergunning te zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nadat de betrokken Kamer van Koophandel en Nijverheid is gehoord. De betrokken kamer brengt het advies binnen twee weken uit.
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met hechtenis van ten hoogste een maand of geldboete van ten hoogste USD 280 wordt gestraft; hij, die het verbod, gesteld bij [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2019-01-01&g=2019-01-01), overtreedt.
 
@@ -106,7 +131,7 @@ Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nada
 
 5. De feiten, strafbaar gesteld in het derde lid van dit artikel, worden beschouwd als misdrijven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Indien de bij deze wet strafbaar gestelde feiten worden begaan door of vanwege een rechtspersoon, wordt de strafvervolging ingesteld en de straf uitgesproken tegen de bestuurders en/of commissarissen, en bij afwezigheid en ontstentenis van deze personen, tegen den vertegenwoordiger van den rechtspersoon in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
@@ -114,43 +139,43 @@ Verlening, weigering of intrekking van een vergunning heeft niet plaats dan nada
 
 3. Geen strafvervolging wordt ingesteld en geen straf uitgesproken, tegen den bestuurder en/of commissaris, buiten wiens toedoen het feit begaan is.
 
-#### Artikel 12
+##### Artikel 12
 
 Met het opsporen van de bij deze wet strafbaar gestelde feiten zijn, behalve de ambtenaren, die in het algemeen belast zijn met het opsporen van strafbare feiten, mede belast zij, die door het Bestuurscollege daartoe worden aangewezen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De hierboven bedoelde opsporingsambtenaren hebben te allen tijde toegang tot alle plaatsen waar redelijkerwijs vermoed kan worden, dat een bij deze regeling strafbaar gesteld feit wordt gepleegd. Wordt hun de toegang geweigerd, dan verschaffen zij zich dien, desnoods met inroeping van den sterken arm, ondanks de bewoners, gebruikers of eigenaars.
 
 2. Is de plaats tevens eene woning, of alleen door eene woning toegankelijk, dan treden zij tegen den wil des bewoners niet binnen dan in tegenwoordigheid van den betrokken ambtenaar van het Openbaar Ministerie bij het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij ministeriële regeling kunnen verdere regelen in het belang van een goede uitvoering van deze wet worden gegeven.
 
-#### Artikel 15
+##### Artikel 15
 
 Het Bestuurscollege doet een zaak sluiten, welke zonder vergunning gedreven wordt.
 
-#### Artikel 16
+##### Artikel 16
 
 Het bepaalde in [artikel 2, sub e](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=2&z=2019-01-01&g=2019-01-01), is niet van toepassing ten aanzien van zaken, die bij het inwerkingtreden dezer wet wettig werden gedreven. Voor het voortzetten dezer zaken wordt, zonder dat zij een vergunning behoeven aan te vragen, door de autoriteit aangewezen in artikel 2, een vergunning als daar bedoeld uitgereikt.
 
-#### Artikel 17
+##### Artikel 17
 
 [vervallen]
 
-#### Artikel 18
+##### Artikel 18
 
 Deze wet wordt aangehaald als: Wet vestiging bedrijven BES.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. Het bestuurscollege beslist binnen acht weken op een aanvraag.
 
 2. De in het eerste lid genoemde termijn vangt aan op het moment dat een aanvraag op een door het bestuurscollege vast te stellen wijze is ingediend en kan door het bestuurscollege schriftelijk worden verlengd met ten hoogste acht weken, indien het bestuurscollege voornemens is een aanvraag af te wijzen op grond van [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=5&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. Indien niet tijdig op de aanvraag is beslist, is de vestigingsvergunning van rechtswege gegeven.
 
@@ -158,7 +183,7 @@ Deze wet wordt aangehaald als: Wet vestiging bedrijven BES.
 
 3. De beschikking, bedoeld in het tweede lid, treedt in werking op de derde dag na afloop van de beslistermijn, bedoeld in [artikel 4a](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4a&z=2019-01-01&g=2019-01-01).
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. Het bestuurscollege maakt de beschikking, bedoeld in [artikel 4b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028164&artikel=4b&z=2019-01-01&g=2019-01-01), op de daarvoor gebruikelijke wijze bekend binnen twee weken nadat zij van rechtswege is gegeven.
 

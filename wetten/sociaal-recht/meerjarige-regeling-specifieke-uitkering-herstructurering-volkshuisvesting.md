@@ -1,20 +1,46 @@
 ---
-title: "Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting"
+title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2023, nr. 2023-0000024188, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in het belang van de verbetering van de leefbaarheid in kwetsbare gebieden (Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting)"
 identifier: "BWBR0048319"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-05
-laatste_update: 2024-12-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048319"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-05"
+last_updated: "2024-12-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048319"
+soort: "ministeriele-regeling"
+stam_id: "16781933"
+version_id: "29475282"
+internal_id: "C42148631"
+label_id: "16697204"
+dtd_version: "2.0"
+original_entry_into_force: "2023-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048319/2024-12-05/0"
+intitule_bron: "Stcrt.2023-17370"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-19"
+intitule_published: "2023-06-27"
+intitule_in_force: "2023-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-17370"
+original_signed_date: "2023-06-19"
+original_published_date: "2023-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-17370"
+entry_into_force_date: "2023-06-28"
+jci_1_3: "jci1.3:c:BWBR0048319&z=2024-12-05&g=2024-12-05"
+jci_1_0: "1.0:c:BWBR0048319&g=2024-12-05"
+citeertitel_status: "officieel"
+short_title: "Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting"
+signed_date: "2023-06-19"
+entry_into_force: "2023-06-28"
 ---
-
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 19 juni 2023, nr. 2023-0000024188, houdende regels met betrekking tot de verstrekking van specifieke uitkeringen aan gemeenten in het belang van de verbetering van de leefbaarheid in kwetsbare gebieden (Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting)
 
 Gelet op [artikel 2, eerste lid, onderdeel h en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=2), en [artikel 3, van het Besluit van 29 oktober 2022, houdende het stellen van regels over het verstrekken van specifieke uitkeringen aan gemeenten of provincies voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0047481&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -40,11 +66,11 @@ In deze regeling wordt verstaan onder:
 
 - **woonvereniging:** vereniging die eigenaar is van één of meer gebouwen en waarvan de leden het recht hebben om in een bepaalde woning die onderdeel uitmaakt van dat gebouw of die gebouwen te wonen.
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leefbaarheid te verbeteren en de veiligheid te bevorderen in kwetsbare gebieden, primair door woningen te herstructureren, in het bijzonder de particuliere woningvoorraad en secundair door inrichting van de omringende openbare ruimte en realisatie van maatschappelijke voorzieningen in de nabijheid van betreffende woningen.
 
-#### Artikel 3. Herstructureringsactiviteiten waarvoor een uitkering kan worden verstrekt
+##### Artikel 3. Herstructureringsactiviteiten waarvoor een uitkering kan worden verstrekt
 
 1. De minister kan op aanvraag van een college een specifieke uitkering verstrekken aan de gemeente voor de uitvoering van een project dat in ieder geval bestaat uit de volgende primaire herstructureringsactiviteiten:
 
@@ -74,7 +100,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. De gevraagde rijksbijdrage voor secundaire activiteiten als bedoeld onder [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=3&z=2024-12-05&g=2024-12-05), mag niet meer dan 30 procent van het totaal van de gevraagde rijksbijdrage bedragen.
 
-#### Artikel 4. Toelatingscriteria
+##### Artikel 4. Toelatingscriteria
 
 1. Een aanvraag wordt niet in behandeling genomen als de gemeente eerder een toekennende uitkeringsbeschikking heeft gekregen voor dezelfde woningen op grond van de [Regeling specifieke uitkering herstructurering volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0044932) of op grond van deze regeling.
 
@@ -92,7 +118,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 - f. de gemeente ten minste 100 woningen herstructureert in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de Stedelijk Focusgebieden, genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=2&z=2024-12-05&g=2024-12-05), of ten minste 50 woningen in het geval de aanvraag of het totaal van de aanvragen ziet op herstructurering van woningen in de grensregio’s, genoemd in bijlage 2, en de overige gebieden in Nederland.
 
-#### Artikel 5. Verplichtingen
+##### Artikel 5. Verplichtingen
 
 1. De gemeente rondt de herstructureringsactiviteiten af binnen tien jaar na toekenning van de specifieke uitkering.
 
@@ -100,7 +126,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. De minister kan op verzoek van het college de in het eerste lid genoemde termijn telkens met ten hoogste één jaar verlengen, indien sprake is van onvoorziene omstandigheden op grond waarvan het aannemelijk is dat het project niet binnen die termijn kan worden afgerond.
 
-#### Artikel 6. Uitkeringsplafond
+##### Artikel 6. Uitkeringsplafond
 
 1. Het plafond voor het totaal van de specifieke uitkeringen bedraagt het bedrag, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&bijlage=1&z=2024-12-05&g=2024-12-05).
 
@@ -108,7 +134,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. Specifieke uitkeringen worden niet verstrekt voor belasting toegevoegde waarde verschuldigd over kosten voor de uitvoering van projecten, voor zover het bedrag van de btw in aanmerking komt voor compensatie op grond van de [Wet op het Btw-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 7. De aanvraag
+##### Artikel 7. De aanvraag
 
 1. Een aanvraag bevat ten minste:
 
@@ -128,7 +154,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. Een aanvraag wordt ingediend via een formulier dat beschikbaar is gesteld op de website van de Rijksdienst voor Ondernemend Nederland.
 
-#### Artikel 8. Wijze van betaling en uitkeringsbeschikking
+##### Artikel 8. Wijze van betaling en uitkeringsbeschikking
 
 1. De minister betaalt in het geval van een toekennende uitkeringsbeschikking de uitkering in één keer uit.
 
@@ -146,7 +172,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. Aan een uitkering kunnen in de uitkeringsbeschikking nadere verplichtingen worden verbonden.
 
-#### Artikel 9. De beoordeling van de aanvragen
+##### Artikel 9. De beoordeling van de aanvragen
 
 1. De minister stelt een rangschikking op van de aanvragen op basis van een beoordeling van de mate waarin de projecten voldoen aan het doel zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2024-12-05&g=2024-12-05). De rangschikking wordt bepaald op grond van de behaalde eindscores van de aanvragen bij een gezamenlijke weging van de volgende criteria:
 
@@ -164,13 +190,13 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 4. De minister kan een rangschikking opstellen die afwijkt van de rangschikking, bedoeld in het eerste en derde lid, als dat in het belang is van het bereiken van het doel van deze regeling zoals beschreven in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=2&z=2024-12-05&g=2024-12-05).
 
-#### Artikel 10. Afwijzingsgronden
+##### Artikel 10. Afwijzingsgronden
 
 1. De minister wijst een aanvraag af indien de aanvraag een onvoldoende score behaalt bij weging als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2024-12-05&g=2024-12-05).
 
 2. De minister wijst een aanvraag geheel of gedeeltelijk af, voor zover het bedrag van de aangevraagde uitkering bij de toekenning ervan bij de rangschikking, als bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=9&z=2024-12-05&g=2024-12-05), of, indien de minister gebruik maakt van de in artikel 9, vierde lid, geregelde mogelijkheid, de rangschikking bedoeld in dat lid, leidt tot een overschrijding van het uitkeringsplafond, als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=6&z=2024-12-05&g=2024-12-05).
 
-#### Artikel 11. Instelling en taak commissie
+##### Artikel 11. Instelling en taak commissie
 
 1. Er is een onafhankelijke Toetsingscommissie herstructurering volkshuisvesting.
 
@@ -182,7 +208,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 5. De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 12. Leden van de commissie
+##### Artikel 12. Leden van de commissie
 
 1. De commissie, genoemd in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2024-12-05&g=2024-12-05), bestaat uit een voorzitter en ten minste twee en ten hoogste vier andere leden.
 
@@ -192,7 +218,7 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 4. De voorzitter en de leden worden op eigen aanvraag ontslagen. Zij kunnen voorts worden geschorst en ontslagen wegens ongeschiktheid, onbekwaamheid of op andere zwaarwegende gronden.
 
-#### Artikel 13. Ondersteuning van de commissie
+##### Artikel 13. Ondersteuning van de commissie
 
 1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2024-12-05&g=2024-12-05), wordt ondersteund door een secretariaat.
 
@@ -200,19 +226,19 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de voorzitter van de commissie.
 
-#### Artikel 14. Toetsing door de commissie
+##### Artikel 14. Toetsing door de commissie
 
 1. De commissie, bedoeld in [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=11&z=2024-12-05&g=2024-12-05), stelt haar eigen werkwijze vast. Dit omvat in ieder geval een protocol omtrent de wijze waarop de commissie voorgelegde aanvragen toetst en weegt. Het protocol wordt opgesteld in overleg met de minister.
 
 2. De commissie kan de indiener van de aanvraag om toelichting verzoeken omtrent de in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048319&artikel=7&z=2024-12-05&g=2024-12-05), bedoelde gegevens.
 
-#### Artikel 15. Informatievoorziening na uitkering
+##### Artikel 15. Informatievoorziening na uitkering
 
 1. Het college informeert op verzoek van de minister over de voortgang van de activiteiten waarvoor de specifieke uitkering is toegekend.
 
 2. Het college verleent op verzoek van de minister medewerking en verstrekt informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van deze regeling.
 
-#### Artikel 16. Verantwoording en terugvordering
+##### Artikel 16. Verantwoording en terugvordering
 
 1. [Artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a) is van toepassing.
 
@@ -220,15 +246,15 @@ Deze regeling heeft tot doel om, als onderdeel van een integrale aanpak, de leef
 
 3. De minister stelt de specifieke uitkering uiterlijk vast op 31 december van het jaar waarin het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de minister heeft verstrekt.
 
-#### Artikel 17. Intrekking
+##### Artikel 17. Intrekking
 
 De [Regeling specifieke uitkering herstructurering volkshuisvesting](https://wetten.overheid.nl/jci1.3:c:BWBR0044932) vervalt, met dien verstande dat deze van toepassing blijft ten aanzien van op basis van die regeling verstrekte specifieke uitkeringen.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regeling wordt aangehaald als: Meerjarige regeling specifieke uitkering herstructurering volkshuisvesting.
 

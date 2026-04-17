@@ -1,18 +1,43 @@
 ---
 title: "Wet rechtspositie Kustwacht BES"
 identifier: "BWBR0028160"
-categorie: "Overig"
-publicatiedatum: 2011-10-09
-laatste_update: 2011-10-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028160"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2011-10-09"
+last_updated: "2011-10-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028160"
+soort: "wet-BES"
+stam_id: "10684673"
+version_id: "17645612"
+internal_id: "C24781441"
+label_id: "10659454"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028160/2011-10-09/0"
+intitule_bron: "Stb.2010-427"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-427"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-427"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028160&z=2011-10-09&g=2011-10-09"
+jci_1_0: "1.0:c:BWBR0028160&g=2011-10-09"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet rechtspositie Kustwacht BES
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,17 +59,17 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - i. **geüniformeerd ambtenaar:** de ambtenaar die als zodanig is aangesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Tenzij anders is bepaald, zijn de bij of krachtens de [Ambtenarenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028215) gestelde voorschriften van toepassing op de ambtenaar.
 
-#### Artikel 3
+##### Artikel 3
 
 (Vervallen]
 
 #### § 2. Aanstelling, ontslag en pensioenaanspraken
 
-#### Artikel 4
+##### Artikel 4
 
 Bij algemene maatregel van bestuur kunnen aan een aanstelling bijzondere eisen worden gesteld inzake:
 
@@ -54,7 +79,7 @@ Bij algemene maatregel van bestuur kunnen aan een aanstelling bijzondere eisen w
 
 - c. geestelijke en lichamelijke geschiktheid en bekwaamheid.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Niet in aanmerking voor een aanstelling als ambtenaar komt degene ten aanzien van wie moet worden betwijfeld of hij zijn plicht als ambtenaar onder alle omstandigheden getrouwelijk zal volbrengen.
 
@@ -62,7 +87,7 @@ Bij algemene maatregel van bestuur kunnen aan een aanstelling bijzondere eisen w
 
 3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van het in het eerste en tweede lid bepaalde.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Aan de geüniformeerd ambtenaar van de Kustwacht wordt door het bevoegd gezag eervol ontslag verleend met ingang van de dag waarop hij de leeftijd van 55 jaren bereikt.
 
@@ -78,7 +103,7 @@ De bijdragegrondslag over een jaar wordt, voorzover de betrokkene in dat jaar ge
 
 #### § 3. Dienst- en werktijden
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -98,7 +123,7 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 - h. **overwerk:** werkzaamheden door een geüniformeerd ambtenaar verricht buiten de voor hem bij dienstrooster voorgeschreven tijden, voor zover daardoor het per werkperiode vastgestelde aantal arbeidsuren wordt overschreden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=25) en [37 van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=37) en de daarop berustende bepalingen zijn niet van toepassing op de geüniformeerd ambtenaar.
 
@@ -106,13 +131,13 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 #### § 4. Bijzondere verplichtingen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien door de uitoefening van de ambtenaar van diens vrijheid van meningsuiting en diens recht van vereniging en vergadering de goede vervulling van zijn functie of de goede functionering van de openbare dienst, voor zover deze verband houdt met zijn functievervulling, niet in redelijkheid is verzekerd, onthoudt de ambtenaar zich daarvan.
 
 2. Tenzij een politieke groepering of een vakvereniging doeleinden nastreven dan wel ter verwezenlijking van hun doeleinden middelen hanteren welke in strijd zijn met de grondslagen van een democratische rechtsorde, is het eerste lid voor wat betreft het recht op vereniging niet van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De ambtenaar is verplicht zich tijdens het verblijf in een gebouw, luchtvaartuig of voertuig alsmede op een vaartuig of terrein dat in gebruik is bij of ten behoeve van de Kustwacht of dat de ambtenaar tot verblijf of gebruik dient bij de vervulling van de dienst, te onderwerpen aan een in het belang van de dienst, overeenkomstig door Onze Minister gegeven richtlijnen, gelast onderzoek aan zijn lichaam of kleding of van zijn aldaar aanwezige goederen. Daarbij worden de nodige maatregelen genomen ten einde een onredelijke of onbehoorlijke bejegening te voorkomen.
 
@@ -120,7 +145,7 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 #### § 5. Overbruggingsuitkering
 
-#### Artikel 10
+##### Artikel 10
 
 1. Aan de geüniformeerd ambtenaar in tijdelijke dienst op basis van [artikel 2, derde lid, onderdeel g, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=2), die met toepassing van [artikel 89, eerste lid, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=89), niet in proeftijd, de dienst verlaat, wordt met ingang van de dag waarop hij de dienst verlaat, op zijn daartoe strekkend verzoek, een overbruggingsuitkering toegekend gedurende een periode van één jaar.
 
@@ -130,17 +155,17 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 4. De [artikelen 10 tot en met 27 van het Wachtgeldbesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028541&artikel=10) zijn voor wat betreft de bijzondere verplichtingen van de geüniformeerd ambtenaar die recht heeft op een overbruggingsuitkering en de mogelijkheden tot weigering, vermindering en intrekking van de overbruggingsuitkering, van overeenkomstige toepassing.
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De ambtenaar die overgaat naar de Kustwacht op basis van artikel 7, derde lid, van de Voorlopige regeling Kustwacht voor de Nederlandse Antillen en Aruba, behoudt de financiële rechten die voortvloeien uit de schaal verbonden aan de functie die hij laatstelijk vóór diens overgang naar de Kustwacht bekleedde.
 
@@ -152,24 +177,24 @@ Voor de toepassing van deze paragraaf en de daarop berustende bepalingen wordt v
 
 5. De fictieve bezoldiging is de bezoldiging die de ambtenaar, met inachtneming van de voor hem geldende periodieke verhoging, in zijn vóór de overgang laatst geldende schaal, zou hebben genoten indien hij niet zou zijn overgegaan naar de Kustwacht.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2011-10-09&g=2011-10-09) een schaalgarantieuitkering ontvangt, wordt, voor de berekening van het inkomen als bedoeld in artikel 4 van het Besluit vakantie en vrijstelling van dienst ambtenaren BES de bezoldiging met die garantieuitkering verhoogd.
 
-#### Artikel 15
+##### Artikel 15
 
 Indien de ambtenaar op basis van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028160&paragraaf=6&artikel=13&z=2011-10-09&g=2011-10-09), een schaalgarantieuitkering ontvangt, geldt voor de berekening van en de bijdrage voor het pensioen, bedoeld in de Pensioenwet ambtenaren BES, als pensioengrondslag, de pensioengrondslag behorende bij de fictieve bezoldiging als bedoeld in artikel 13, vierde lid.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze landsverordening treedt in werking met ingang van de dag na die der uitgifte van het Publicatieblad, waarin de afkondiging is geschied.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. De directeur van de Kustwacht is bevoegd aan ambtenaren de disciplinaire straffen genoemd in [artikel 79, eerste lid, onderdelen a, b en c, van het Rechtspositiebesluit ambtenaren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028693&artikel=79), op te leggen.
 
 2. Indien een algemene regeling tot overdracht van disciplinaire strafbevoegdheid aan diensthoofden tot stand komt, zijn de voorschriften voor diensthoofden van overeenkomstige toepassing op de directeur van de Kustwacht.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze wet wordt aangehaald als: Wet rechtspositie Kustwacht BES.

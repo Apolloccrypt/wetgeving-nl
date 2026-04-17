@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel verhandelbaarheid"
 identifier: "BWBR0029573"
-categorie: "Overig"
-publicatiedatum: 2011-02-15
-laatste_update: 2011-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029573"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-02-15"
+last_updated: "2011-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029573"
+soort: "zbo"
+stam_id: "11231253"
+version_id: "18391342"
+internal_id: "C25617251"
+label_id: "11205524"
+dtd_version: "2.0"
+original_entry_into_force: "2011-02-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029573/2011-02-15/0"
+intitule_bron: "Stcrt.2011-2634"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-02-08"
+intitule_published: "2011-02-14"
+intitule_in_force: "2011-02-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-2634"
+original_signed_date: "2011-02-08"
+original_published_date: "2011-02-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-2634"
+entry_into_force_date: "2011-02-15"
+jci_1_3: "jci1.3:c:BWBR0029573&z=2011-02-15&g=2011-02-15"
+jci_1_0: "1.0:c:BWBR0029573&g=2011-02-15"
+citeertitel_status: "officieel"
+signed_date: "2011-02-08"
+entry_into_force: "2011-02-15"
 ---
-
 # Beleidsregel verhandelbaarheid
 
 De AFM bevordert eerlijke en transparante financiële markten. Wij zijn de onafhankelijke gedragstoezichthouder op de markten van sparen, lenen, beleggen en verzekeren. De AFM bevordert zorgvuldige financiële dienstverlening aan consumenten en ziet toe op een eerlijke en efficiënte werking van kapitaalmarkten. Ons streven is het vertrouwen van consumenten en bedrijven in de financiële markten te versterken, ook internationaal. Op deze manier draagt de AFM bij aan de welvaart en de economische reputatie van Nederland.

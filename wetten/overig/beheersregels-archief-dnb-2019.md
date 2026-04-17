@@ -1,18 +1,44 @@
 ---
-title: "Beheersregels archief DNB 2019"
+title: "Besluit d.d. 7 januari 2019 conform artikel 14 van het Archiefbesluit 1995 houdende regels voor de documentaire informatievoorziening van De Nederlandsche Bank NV (Beheersregels archief DNB 2019)"
 identifier: "BWBR0041823"
-categorie: "Overig"
-publicatiedatum: 2019-01-08
-laatste_update: 2019-01-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041823"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-01-08"
+last_updated: "2019-01-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041823"
+soort: "zbo"
+stam_id: "14951013"
+version_id: "25611742"
+internal_id: "C36555391"
+label_id: "14901534"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041823/2019-01-08/0"
+intitule_bron: "Stcrt.2019-1991"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-07"
+intitule_published: "2019-01-18"
+intitule_in_force: "2019-01-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-1991"
+original_signed_date: "2019-01-07"
+original_published_date: "2019-01-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-1991"
+entry_into_force_date: "2019-01-08"
+jci_1_3: "jci1.3:c:BWBR0041823&z=2019-01-08&g=2019-01-08"
+jci_1_0: "1.0:c:BWBR0041823&g=2019-01-08"
+citeertitel_status: "officieel"
+short_title: "Beheersregels archief DNB 2019"
+signed_date: "2019-01-07"
+entry_into_force: "2019-01-08"
 ---
-
 # Besluit d.d. 7 januari 2019 conform artikel 14 van het Archiefbesluit 1995 houdende regels voor de documentaire informatievoorziening van De Nederlandsche Bank NV (Beheersregels archief DNB 2019)
 
 ### 1. Begripsbepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - 1. **Afgesloten archief:** een niet meer actueel archief dat betrekking heeft op een voltooid werkproces, dat in principe onveranderlijk is en waarin zich archiefbescheiden bevinden in afwachting van vernietiging of overbrenging naar een archiefbewaarplaats. Voor digitale archiefbescheiden bevindt het afgesloten archief zich in het record management systeem.
 
@@ -80,7 +106,7 @@ bron: "https://wetten.overheid.nl/BWBR0041823"
 
 ### 2. Reikwijdte
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. De beheersregels zijn van toepassing op het archiefbeheer van alle archiefbescheiden in alle fasen van hun levenscyclus die onder de reikwijdte van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en aanverwante wet- en regelgeving vallen.
 
@@ -92,7 +118,7 @@ bron: "https://wetten.overheid.nl/BWBR0041823"
 
 ### 3. Verantwoordelijkheden en bevoegdheden
 
-#### Artikel 3. Verantwoordelijkheden en bevoegdheden
+##### Artikel 3. Verantwoordelijkheden en bevoegdheden
 
 1. Directie
 
@@ -130,7 +156,7 @@ De medewerker DNB is er voor verantwoordelijk dat de door hem opgemaakte en ontv
 
 ### 4. Registratie- en archivering
 
-#### Artikel 4. Identificatie en registratie archiefbescheiden
+##### Artikel 4. Identificatie en registratie archiefbescheiden
 
 1. Van archiefbescheiden is sprake als deze voor de continuïteit van de bedrijfsvoering van DNB of de verantwoording door DNB in het kader van haar doelstellingen, taken en werkzaamheden zoals neergelegd in onder meer de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508) van belang zijn (NEN-ISO 15489).
 
@@ -138,7 +164,7 @@ De medewerker DNB is er voor verantwoordelijk dat de door hem opgemaakte en ontv
 
 3. De ‘Gouden Regels voor archivering’ zijn opgesteld als principle based rules om DNB medewerkers te helpen deze archiefbescheiden te identificeren.
 
-#### Artikel 5. Dossiervorming en archiefordening
+##### Artikel 5. Dossiervorming en archiefordening
 
 1. De vorming van dossiers is zodanig dat de medewerker DNB wordt ondersteund bij het uitvoeren van zijn/haar taak en de continuïteit van de bedrijfsvoering van DNB en de verantwoording van doelstellingen, taken en werkzaamheden zoals neergelegd in onder meer de [Bankwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009508) worden gefaciliteerd.
 
@@ -146,13 +172,13 @@ De medewerker DNB is er voor verantwoordelijk dat de door hem opgemaakte en ontv
 
 De vorming van dossiers en archiefordening geschieden zodanig dat selectie op eenvoudige wijze kan geschieden in overeenstemming met de in de selectielijst opgenomen criteria voor te bewaren en te vernietigen archiefbescheiden.
 
-#### Artikel 6. Archiefontsluiting
+##### Artikel 6. Archiefontsluiting
 
 1. Het hoofd van de afdeling ID is er voor verantwoordelijk dat van de archiefbescheiden en de bestanden waarin deze worden bewaard een actueel, compleet en logisch samenhangend overzicht wordt aangelegd en bijgehouden.
 
 ### 5. Archiefbeheer
 
-#### Artikel 7. Materieel beheer
+##### Artikel 7. Materieel beheer
 
 1. Het hoofd van de afdeling ID treft zodanige voorzieningen ten aanzien van de archiefbescheiden die voor langdurige of blijvende bewaring in aanmerking komen dat de duurzaamheid is gegarandeerd; hetzelfde geldt voor te vernietigen archiefbescheiden gedurende hun bewaartermijn.
 
@@ -162,7 +188,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 4. Indien archiefbescheiden door de aard van de oorspronkelijke gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste lid bepaalde, wordt overgegaan tot vervanging van de archiefbescheiden door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041823&artikel=12&z=2019-01-08&g=2019-01-08) van deze beheersregeling omschreven.
 
-#### Artikel 8. Archiefruimten en archiefbewaarplaatsen
+##### Artikel 8. Archiefruimten en archiefbewaarplaatsen
 
 1. Archiefbescheiden worden opgeslagen in speciaal daarvoor bestemde archiefruimten, dan wel archiefbewaarplaatsen.
 
@@ -172,13 +198,13 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 4. In afwijking van lid 3 geldt dat voor archiefbescheiden die niet onder de reikwijdte van de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) en aanverwante wet- en regelgeving vallen zo veel als redelijkerwijs mogelijk aansluiting wordt gezocht bij de in de [Archiefregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0027041) opgenomen normen.
 
-#### Artikel 9. Duurzaamheid digitale archiefbescheiden
+##### Artikel 9. Duurzaamheid digitale archiefbescheiden
 
 1. De divisiedirecteur ICT is verantwoordelijk voor het doen bewaren van de toepassingsprogrammatuur en het regelen van licenties voor de toepassingsprogrammatuur, voor zover dit noodzakelijk is voor het behoud van de authenticiteit, betrouwbaarheid, integriteit, beschikbaarheid en beveiliging en van de geordende en toegankelijke staat van de digitale archiefbescheiden.
 
 2. Het hoofd van de afdeling ID is er verantwoordelijk voor dat digitale registraties en systemen zodanig zijn ontworpen en geïmplementeerd dat de authenticiteit, betrouwbaarheid, integriteit, beschikbaarheid en beveiliging van de daarin opgeslagen archiefbescheiden worden gewaarborgd gedurende hun bewaartermijn.
 
-#### Artikel 10. Conversie en migratie
+##### Artikel 10. Conversie en migratie
 
 1. Het hoofd van de afdeling ID stelt functionele eisen ten aanzien van de oorspronkelijke inhoud, vorm en structuur van digitale archiefbescheiden.
 
@@ -188,7 +214,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 4. Indien bij een conversie en migratie het behoud van de authenticiteit en de oorspronkelijke geordende en toegankelijke staat van de digitale archiefbescheiden niet gewaarborgd kan worden, wordt de conversie en migratie aangemerkt als een vervanging en wordt de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0041823&artikel=12&z=2019-01-08&g=2019-01-08) omschreven procedure gevolgd.
 
-#### Artikel 11. Selectie
+##### Artikel 11. Selectie
 
 1. Het hoofd van de afdeling ID is verantwoordelijk voor de beschikbaarheid van een door de Minister van OC&W vastgestelde selectielijst.
 
@@ -208,7 +234,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 5. Aanbieding van het concept basisselectiedocument ter goedkeuring door de Minister van OC&W geschiedt door de divisiedirecteur BEVO.
 
-#### Artikel 12. Vervanging
+##### Artikel 12. Vervanging
 
 1. De divisiedirecteur BEVO besluit over vervanging van archiefbescheiden op basis van het door de directie als zorgdrager vastgestelde vervangingsbeleid.
 
@@ -222,7 +248,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 4. Van de vervanging van archiefbescheiden wordt een door het hoofd van de afdeling ID ondertekende verklaring opgesteld, die tenminste een specificatie van de vervangen archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging is geschied.
 
-#### Artikel 13. Vernietiging
+##### Artikel 13. Vernietiging
 
 1. Het hoofd van de afdeling ID is verantwoordelijk voor de vernietiging van daarvoor in aanmerking komende archiefbescheiden. Vernietiging dient plaats te vinden binnen een jaar nadat de in de selectielijst vastgestelde bewaartermijn is verstreken.
 
@@ -244,7 +270,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 6. Vernietiging van ECB-archiefbescheiden is uitsluitend toegestaan met voorafgaande schriftelijke toestemming van de ECB.
 
-#### Artikel 14. Overbrenging naar een archiefbewaarplaats of e-Depot
+##### Artikel 14. Overbrenging naar een archiefbewaarplaats of e-Depot
 
 1. Het hoofd van de afdeling ID is er voor verantwoordelijk dat de voor permanente bewaring in aanmerking komende archiefbescheiden die ouder zijn dan twintig jaar, in goede, geordende en toegankelijke staat, binnen een termijn van tien jaar, nadat de betreffende archiefbescheiden de leeftijd van 20 jaar hebben bereikt, worden overgebracht naar een archiefbewaarplaats voor zover het papieren archiefbescheiden betreft en naar een e-Depot voor zover het digitale archiefbescheiden betreft.
 
@@ -264,7 +290,7 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 9. De overbrenging van archiefbescheiden wordt vastgelegd in een door het hoofd van de afdeling ID ondertekende verklaring, die een specificatie bevat van de overgedragen archiefbescheiden en de eventuele beperkingen aan de openbaarheid.
 
-#### Artikel 15. Vervreemding
+##### Artikel 15. Vervreemding
 
 1. Voor vervreemding van archiefbescheiden is machtiging vereist van de Minister van OC&W, tenzij de vervreemding geschiedt ter uitvoering van een wettelijk voorschrift.
 
@@ -280,31 +306,31 @@ De vorming van dossiers en archiefordening geschieden zodanig dat selectie op ee
 
 ### 6. Organisatiewijziging, overdracht en verhuizing
 
-#### Artikel 16. Organisatiewijzigingen
+##### Artikel 16. Organisatiewijzigingen
 
 1. Bij een reorganisatie of herinrichting van taken van DNB wordt vastgelegd welke implicaties dit heeft voor het desbetreffende onderdeel van het archief.
 
 2. Bij een organisatiewijziging waarbij DNB wordt samengevoegd, gesplitst of opgeheven, dan wel waarbij een of meer taken worden overgedragen aan of overgenomen van een ander overheidsorgaan wordt een overeenkomst gesloten inzake de vervreemding van archiefbescheiden en de verplichtingen als zorgdrager.
 
-#### Artikel 17. Overdracht binnen DNB
+##### Artikel 17. Overdracht binnen DNB
 
 1. Van een overdracht van archiefbescheiden door de afdeling ID aan een ander organisatieonderdeel binnen DNB wordt een verklaring opgemaakt die een specificatie van de overgedragen archiefbescheiden bevat. Deze verklaring wordt ondertekend door de afdelingshoofden die betrokken zijn bij de overdracht.
 
 2. Overdracht van ECB-archiefbescheiden is uitsluitend toegestaan met voorafgaande schriftelijke toestemming van de ECB.
 
-#### Artikel 18. Verhuizing
+##### Artikel 18. Verhuizing
 
 Indien het archief of een deel daarvan verhuist, draagt het hoofd van de afdeling ID zorg voor een procedure voor de verhuizing.
 
 ### 7. Beveiliging
 
-#### Artikel 19. Beveiliging
+##### Artikel 19. Beveiliging
 
 Beveiliging van in archiefbescheiden vastgelegde informatie vindt plaats in overeenstemming met de geldende wet- en regelgeving en interne voorschriften.
 
 ### 8. Informatieverstrekking
 
-#### Artikel 20. Informatieverstrekking aan medewerkers van DNB
+##### Artikel 20. Informatieverstrekking aan medewerkers van DNB
 
 1. Dossiers en informatie die nog veelvuldig worden gebruikt zijn digitaal compleet.
 
@@ -318,7 +344,7 @@ Beveiliging van in archiefbescheiden vastgelegde informatie vindt plaats in over
 
 6. De medewerker van DNB die archiefbescheiden geleend heeft, draagt er zorg voor dat deze tijdig en in oorspronkelijke staat worden terugbezorgd bij de afdeling ID.
 
-#### Artikel 21. Informatieverstrekking aan derden
+##### Artikel 21. Informatieverstrekking aan derden
 
 1. Informatieverstrekking aan derden geschiedt met inachtneming van de bepalingen in de daarvoor geldende wet- en regelgeving en vastgelegde afspraken met derde partijen.
 
@@ -328,11 +354,11 @@ Beveiliging van in archiefbescheiden vastgelegde informatie vindt plaats in over
 
 ### 9. Aanhaling en slotbepaling
 
-#### Artikel 22. Aanhaling
+##### Artikel 22. Aanhaling
 
 Dit besluit kan worden aangehaald als Beheersregels archief DNB 2019.
 
-#### Artikel 23. Slotbepalingen
+##### Artikel 23. Slotbepalingen
 
 1. Deze beheersregels treden in werking nadat deze door de directie zijn vastgesteld. De Beheersregels documentaire informatievoorziening DNB 2012 worden op die datum ingetrokken.
 

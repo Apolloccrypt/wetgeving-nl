@@ -1,13 +1,39 @@
 ---
-title: "Besluit directeur- generaal DUO betreffende vervanging personeelsdocumenten/dossiers (P-documenten) DUO, 2015"
+title: "Besluit tot vervanging personeelsdocumenten/dossiers (P-documenten) DUO"
 identifier: "BWBR0036559"
-categorie: "Overig"
-publicatiedatum: 2015-05-02
-laatste_update: 2015-05-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036559"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-05-02"
+last_updated: "2015-05-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036559"
+soort: "zbo"
+stam_id: "13145423"
+version_id: "22404862"
+internal_id: "C32094581"
+label_id: "13114094"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036559/2015-05-02/0"
+intitule_bron: "Stcrt.2015-11816"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-07"
+intitule_published: "2015-05-01"
+intitule_in_force: "2015-05-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-11816"
+original_signed_date: "2015-04-07"
+original_published_date: "2015-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-11816"
+entry_into_force_date: "2015-05-02"
+jci_1_3: "jci1.3:c:BWBR0036559&z=2015-05-02&g=2015-05-02"
+jci_1_0: "1.0:c:BWBR0036559&g=2015-05-02"
+citeertitel_status: "officieel"
+short_title: "Besluit directeur- generaal DUO betreffende vervanging personeelsdocumenten/dossiers (P-documenten) DUO, 2015"
+signed_date: "2015-04-07"
+entry_into_force: "2015-05-02"
 ---
-
 # Besluit tot vervanging personeelsdocumenten/dossiers (P-documenten) DUO
 
 Gelet op:
@@ -18,17 +44,17 @@ de regeling van de minister van Onderwijs, Cultuur en Wetenschap van 6 december 
 
 besluit(en):
 
-#### Artikel 1
+##### Artikel 1
 
 1. over te gaan tot vervanging door digitale reproducties van de analoge archiefbescheiden die op grond van ****BSD ‘Mens en Werk’**** voor bewaring of vernietiging in aanmerking komen, waarna deze analoge archiefbescheiden worden vernietigd.
 
 2. reproductie geschiedt op de wijze zoals beschreven in het vastgestelde Handboek digitale vervanging P-documenten DUO;
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de eerste dag na de dag van bekendmaking van dit besluit in Staatscourant
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit kan worden aangehaald als: Besluit directeur- generaal DUO betreffende vervanging personeelsdocumenten/dossiers (P-documenten) DUO, 2015.
 

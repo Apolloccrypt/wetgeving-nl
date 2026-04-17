@@ -1,13 +1,38 @@
 ---
-title: "Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen"
+title: "Besluit van 4 september 1969, tot uitvoering van de artikelen 16, 19, eerste lid, 21, 29, 30, tweede lid, 31 en 32 van de Kernenergiewet"
 identifier: "BWBR0002668"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002668"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002668"
+soort: "AMvB"
+stam_id: "2041823"
+version_id: "30339642"
+internal_id: "C43699771"
+label_id: "1990364"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002668/2025-07-01/0"
+intitule_bron: "Stb.1969-405"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-09-04"
+intitule_in_force: "1969-11-11"
+intitule_status: "goed"
+original_publication: "Stb.2024-265"
+original_signed_date: "2024-09-02"
+original_published_date: "2024-09-24"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2024-265"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0002668&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0002668&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen"
+signed_date: "2024-09-02"
+entry_into_force: "2025-01-01"
 ---
-
 # Besluit van 4 september 1969, tot uitvoering van de artikelen 16, 19, eerste lid, 21, 29, 30, tweede lid, 31 en 32 van de Kernenergiewet
 
 Op de voordracht van Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en van Verkeer en Waterstaat van 23 augustus 1968, no. 668/639 W.J.A., de Centrale Raad voor de Kernenergie gehoord;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -76,7 +101,7 @@ Hebben goedgevonden en verstaan:
 
 5. In dit besluit en de daarop berustende bepalingen wordt onder «gehalte», «natuurlijk uranium», «verrijkingsgraad» en «verrijkt uranium» verstaan hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=1).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit is niet van toepassing op handelingen met:
 
@@ -90,7 +115,7 @@ Dit besluit is niet van toepassing op handelingen met:
 
 - e. natuurlijke bronnen waarvan de activiteitsconcentratie lager is dan of gelijk is aan tien keer de waarden, vermeld in tabel 2.2.7.2.2.1 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1).
 
-#### Artikel 1b
+##### Artikel 1b
 
 1. Het bepaalde bij of krachtens de in het tweede lid genoemde hoofdstukken, paragrafen en artikelen van het [Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) is, met uitzondering van hetgeen daarin is bepaald over toestellen, van overeenkomstige toepassing, met inachtneming van het derde lid.
 
@@ -136,7 +161,7 @@ Dit besluit is niet van toepassing op handelingen met:
 
 #### § 1. Beveiliging van het vervoer van splijtstoffen (categorie I-, II- of III-materiaal)
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer van splijtstoffen of ertsen, indien:
 
@@ -150,7 +175,7 @@ Dit besluit is niet van toepassing op handelingen met:
 
 4. Bij regeling van Onze Minister kan worden bepaald dat het eerste of tweede lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanvraag om een vergunning voor het vervoeren van splijtstoffen of ertsen, of voor het voorhanden hebben van genoemde stoffen of ertsen in verband met het vervoer bevat de volgende gegevens:
 
@@ -190,7 +215,7 @@ Dit besluit is niet van toepassing op handelingen met:
 
 2. Indien een vergunning wordt aangevraagd voor een handeling die niet is gerechtvaardigd of als niet-gerechtvaardigd is aangewezen overeenkomstig [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2025-07-01&g=2025-07-01), in samenhang met de krachtens [artikel 2.3, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=2.3) vastgestelde regeling, omvat de aanvraag om een vergunning tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de individuele of maatschappelijke voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan een vergunning voor het vervoeren van plutonium of verrijkt uranium bevattende splijtstoffen of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer wordt met het oog op het zeker stellen van de betaling van de vergoeding, aan derden toekomende voor schade, hun toegebracht, het voorschrift verbonden, dat het vervoer over, of het voorhanden hebben binnen Nederlands grondgebied slechts mag geschieden, indien degene, die voor schade als bedoeld in een bijzondere wettelijke regeling van de aansprakelijkheid op het gebied van de kernenergie, veroorzaakt tijdens het vervoer of de opslag van de splijtstoffen, aansprakelijk kan zijn, ter dekking van die aansprakelijkheid beschikt over een verzekering of andere financiële zekerheid als in die wettelijke regeling bedoeld of over een door Onze Minister van Financiën goedgekeurde verzekering of andere financiële zekerheid.
 
@@ -198,17 +223,17 @@ Dit besluit is niet van toepassing op handelingen met:
 
 3. Het eerste en tweede lid gelden niet voor het vervoeren en het voorhanden hebben van de daargenoemde stoffen van een verrijkingsgraad of in hoeveelheden, waarop de daarbedoelde wettelijke regeling niet van toepassing is.
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
-#### Artikel 4b
+##### Artikel 4b
 
 Vervallen
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 5
+##### Artikel 5
 
 Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) vervatte verbod om zonder vergunning radioactieve stoffen te vervoeren of voorhanden te hebben geldt voor het vervoeren en het voorhanden hebben bij opslag in verband met het vervoer:
 
@@ -222,7 +247,7 @@ Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:
 
 - e. van grote voorwerpen met besmetting aan het oppervlak als bedoeld in 2.2.7.2.3.2 (c) van [bijlage 1 van de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1).
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvraag om een vergunning voor het vervoeren van radioactieve stoffen en voor het voorhanden hebben van genoemde stoffen bij opslag in verband met het vervoer bevat de volgende gegevens:
 
@@ -234,7 +259,7 @@ De aanvraag om een vergunning voor het vervoeren van radioactieve stoffen en voo
 
 - d. in een geval als bedoeld in [artikel 5, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01): de gegevens, bedoeld in 6.4.23.2.2 van [bijlage 1 bij de VSG](https://wetten.overheid.nl/jci1.3:c:BWBR0010053&bijlage=1).
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
@@ -242,7 +267,7 @@ Vervallen
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan een vergunning voor het vervoeren van splijtstoffen of ertsen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade zodanige voorschriften verbonden, dat:
 
@@ -264,7 +289,7 @@ Vervallen
 
 - e. het voorschrift dat van de transportroute mag worden afgeweken, indien door een onvoorzien voorval een onbelemmerde doorgang van het vervoer niet meer mogelijk is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met betrekking tot het vervoeren van splijtstoffen of ertsen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van splijtstoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt, kan de Autoriteit aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.
 
@@ -276,13 +301,13 @@ Vervallen
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan een vergunning voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
 2. Tot de in het eerste lid bedoelde voorschriften kunnen behoren voorschriften als bedoeld in [artikel 7, tweede lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met betrekking tot het vervoeren van radioactieve stoffen over de spoorweg en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de bepalingen van de VSG van toepassing. Indien voor het vervoeren van radioactieve stoffen over de spoorweg of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer ingevolge dit besluit het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) vervatte verbod geldt, kan de Autoriteit aan een vergunning van de VSG afwijkende voorschriften verbinden, voorzover de richtlijn vervoer gevaarlijke goederen over land dat toelaat.
 
@@ -294,13 +319,13 @@ Vervallen
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 11
+##### Artikel 11
 
 Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2025-07-01&g=2025-07-01) van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» telkens wordt gelezen: VLG.
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Ten aanzien van het vervoeren van radioactieve stoffen over land, anders dan over de spoorweg, en het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer zijn de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing, met dien verstande dat in plaats van «VSG» wordt gelezen: VLG.
 
@@ -310,7 +335,7 @@ Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan 
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het vervoeren van splijtstoffen of ertsen:
 
@@ -332,7 +357,7 @@ Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan 
 
 4. Een Belgiëvaarder geeft tenminste twee dagen voordat het vervoer naar verwachting zal plaatsvinden kennis aan de Autoriteit van wijzigingen van gegevens als bedoeld in het tweede lid met betrekking tot dat vervoer.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ten aanzien van het vervoeren van splijtstoffen of ertsen naar en van zee of over zee zijn de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01) en [8, eerste, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing met dien verstande dat:
 
@@ -354,11 +379,11 @@ Ten aanzien van het vervoeren van splijtstoffen of ertsen over land, anders dan 
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 15
+##### Artikel 15
 
 Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=29&z=2025-07-01&g=2025-07-01), van de wet vervatte verbod zonder vergunning van de Autoriteit radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), niet voor het vervoeren van radioactieve stoffen over de Nederlandse territoriale zee of over niet-Nederlandse wateren.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Ten aanzien van het vervoeren van radioactieve stoffen naar en van zee of over zee zijn de [artikelen 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=8&z=2025-07-01&g=2025-07-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=9&z=2025-07-01&g=2025-07-01) en [10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=2&artikel=10&z=2025-07-01&g=2025-07-01), van overeenkomstige toepassing met dien verstande dat:
 
@@ -382,11 +407,11 @@ Het in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 17
+##### Artikel 17
 
 Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het vervoeren van splijtstoffen of ertsen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Aan een vergunning voor het vervoeren van splijtstoffen of ertsen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
@@ -396,7 +421,7 @@ Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 - b. voorschriften als bedoeld in [artikel 7, tweede lid, onder c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 19
+##### Artikel 19
 
 1. Bij het vervoeren van splijtstoffen of ertsen in een luchtvaartuig en bij het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer dienen, indien daarvoor ingevolge dit besluit het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod niet geldt, bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de internationale burgerlijke luchtvaart (**Stb.** 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air) in acht te worden genomen, met dien verstande dat:
 
@@ -410,15 +435,15 @@ Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 20
+##### Artikel 20
 
 Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) vervatte verbod zonder vergunning van de Autoriteit radioactieve stoffen te vervoeren geldt, in afwijking van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=5&z=2025-07-01&g=2025-07-01), niet voor het vervoeren van radioactieve stoffen in een luchtvaartuig, waarbij geen landing op Nederlands grondgebied plaatsvindt.
 
-#### Artikel 21
+##### Artikel 21
 
 Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaartuig of voor het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer worden ter voorkoming van schade voorschriften verbonden als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=2&paragraaf=1&artikel=7&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 22
+##### Artikel 22
 
 1. Bij het vervoeren van radioactieve stoffen in een luchtvaartuig en bij het voorhanden hebben van genoemde stoffen bij opslag in verband met zodanig vervoer dienen bijlage 18 (annex 18) van het op 7 december 1944 te Chicago tot stand gekomen verdrag inzake de burgerlijke luchtvaart (**Stb.** 1947, H 165) en de daarbij behorende technische voorschriften (Technical Instructions for the safe transport of dangerous goods by air) in acht te worden genomen, met dien verstande dat:
 
@@ -434,7 +459,7 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 #### § 1. Splijtstoffen en ertsen
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het in [artikel 15, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen indien:
 
@@ -450,7 +475,7 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 4. Bij regeling van Onze Minister kan worden bepaald dat het eerste of tweede lid niet van toepassing is in daarbij aangewezen categorieën van gevallen, waarin sprake is van een te hoog risico van blootstelling van werknemers of leden van de bevolking.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De aanvraag om een vergunning voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen bevat de volgende gegevens:
 
@@ -474,7 +499,7 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 2. Indien een vergunning wordt aangevraagd voor een handeling die niet is gerechtvaardigd of als niet-gerechtvaardigd is aangewezen overeenkomstig [artikel 1b](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=I&artikel=1b&z=2025-07-01&g=2025-07-01), in samenhang met de krachtens [artikel 2.3, eerste lid, van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179) vastgestelde regeling, omvat de aanvraag tevens een verzoek om rechtvaardiging van die handeling. De aanvraag om de vergunning bevat dan tevens de gegevens met betrekking tot de individuele of maatschappelijke voordelen van de betrokken handeling en met betrekking tot de gezondheidsschade die erdoor kan worden toegebracht, die nodig zijn met het oog op de beoordeling van de gerechtvaardigdheid van de handeling.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Aan een vergunning voor het binnen of buiten Nederlands grondgebied brengen van splijtstoffen of ertsen kunnen ter voorkoming van schade de volgende voorschriften worden verbonden:
 
@@ -492,7 +517,7 @@ Aan een vergunning voor het vervoeren van radioactieve stoffen in een luchtvaart
 
 - d. het voorschrift dat van de plaats waar de splijtstoffen of ertsen binnen respectievelijk buiten Nederlands grondgebied worden gebracht mag worden afgeweken, indien door een onvoorzien voorval een onbelemmerde doorgang van het vervoer niet meer mogelijk is.
 
-#### Artikel 26
+##### Artikel 26
 
 Degene, die splijtstoffen of ertsen binnen of buiten Nederlands grondgebied brengt of doet brengen:
 
@@ -504,7 +529,7 @@ Degene, die splijtstoffen of ertsen binnen of buiten Nederlands grondgebied bren
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) vervatte verbod zonder vergunning van de Autoriteit radioactieve stoffen binnen of buiten Nederlands grondgebied te brengen of te doen brengen geldt voor:
 
@@ -526,7 +551,7 @@ Degene, die splijtstoffen of ertsen binnen of buiten Nederlands grondgebied bren
 
 6. De verplichting, bedoeld in [artikel 4c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=4c&z=2025-07-01&g=2025-07-01), geldt niet ingeval er sprake is van een vergunning voor het binnen of buiten het Nederlands grondgebied brengen of doen brengen van geneesmiddelen of consumentenproducten als bedoeld in het eerste lid.
 
-#### Artikel 28
+##### Artikel 28
 
 De aanvraag om een vergunning voor het binnen of buiten Nederlands grondgebied brengen of doen brengen van radioactieve stoffen als bedoeld in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=27&z=2025-07-01&g=2025-07-01), of van een hoogactieve bron bevat de volgende gegevens:
 
@@ -538,15 +563,15 @@ De aanvraag om een vergunning voor het binnen of buiten Nederlands grondgebied b
 
 - d. een omschrijving van de geneesmiddelen of consumentenproducten, waarin de radioactieve stoffen zich bevinden.
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Degene, die radioactieve stoffen binnen of buiten Nederlands grondgebied brengt of doet brengen:
 
@@ -556,7 +581,7 @@ Degene, die radioactieve stoffen binnen of buiten Nederlands grondgebied brengt 
 
 - c. draagt er zorg voor dat aan de voor het betrokken vervoer geldende voorschriften met betrekking tot de verpakking en de daarop aan te brengen opschriften en gevaars-etiketten wordt voldaan.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De ondernemer onder wiens verantwoordelijkheid een radioactieve stof binnen of buiten Nederlands grondgebied wordt gebracht, doet hiervan ten minste drie weken voordat dit brengen plaatsvindt een kennisgeving aan de Autoriteit.
 
@@ -588,13 +613,13 @@ Degene, die radioactieve stoffen binnen of buiten Nederlands grondgebied brengt 
 
 ### Hoofdstuk IV. Inrichtingen, waarin splijtstoffen worden opgeslagen in verband met het vervoer
 
-#### Artikel 33
+##### Artikel 33
 
 Het in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) vervatte verbod geldt niet ten aanzien van een inrichting, waarin splijtstoffen uitsluitend worden opgeslagen in verband met het vervoer daarvan.
 
 ### Hoofdstuk V. Slotbepalingen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Dit besluit kan worden aangehaald als: Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
 
@@ -602,7 +627,7 @@ Het in [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWB
 
 Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1c
+##### Artikel 1c
 
 Geen vergunning krachtens dit besluit wordt verleend indien:
 
@@ -632,7 +657,7 @@ Geen vergunning krachtens dit besluit wordt verleend indien:
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 4c
+##### Artikel 4c
 
 1. De ondernemer die een radioactieve stof vervoert, doet kennisgeving van dit vervoer en het voorhanden hebben bij de opslag in verband met dat vervoer ten minste drie weken tevoren aan de Autoriteit.
 
@@ -666,7 +691,7 @@ De Autoriteit kan nadere regels stellen met betrekking tot de uitvoering van het
 
 7. De in het eerste lid bedoelde verplichting geldt niet voor bij regeling van Onze Minister aangewezen handelingen, die een beperkt risico van blootstelling van mensen tot gevolg hebben.
 
-#### Artikel 4d
+##### Artikel 4d
 
 1. Een kennisgeving, als bedoeld in [artikel 4c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=II&afdeling=1&paragraaf=2&artikel=4c&z=2025-07-01&g=2025-07-01), bevat in ieder geval:
 
@@ -710,7 +735,7 @@ De Autoriteit kan nadere regels stellen met betrekking tot de uitvoering van het
 
 #### § 2. Radioactieve stoffen
 
-#### Artikel 32a
+##### Artikel 32a
 
 1. De kennisgeving, bedoeld in [artikel 32, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=III&paragraaf=2&artikel=32&z=2025-07-01&g=2025-07-01), bevat in ieder geval:
 
@@ -736,7 +761,7 @@ De Autoriteit kan nadere regels stellen met betrekking tot de uitvoering van het
 
 Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1d
+##### Artikel 1d
 
 1. De vervoerder treft de beveiligingsmaatregelen die redelijkerwijs noodzakelijk zijn om categorie I-, II- of III-materiaal als bedoeld in [artikel 22, zevende of achtste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667&artikel=22) te beveiligen tegen diefstal en sabotage.
 
@@ -800,7 +825,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 #### § 3. Uitvoering Verordening (Euratom) nr. 1493/93
 
-#### Artikel 32b
+##### Artikel 32b
 
 Het is verboden in strijd te handelen met de artikelen 4, 5 en 6 van Verordening (Euratom) nr. 1493/93 van de Raad van 8 juni 1993 betreffende de overbrenging van radioactieve stoffen tussen Lid-Staten van de Europese Gemeenschap (PbEG 1993 L148).
 
@@ -808,7 +833,7 @@ Het is verboden in strijd te handelen met de artikelen 4, 5 en 6 van Verordening
 
 Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) vervatte verbod om zonder vergunning van de Autoriteit radioactieve stoffen binnen of buiten Nederlands grondgebied te brengen geldt voorts voor het binnen of buiten Nederlands grondgebied brengen van een hoogactieve bron.
 
@@ -820,7 +845,7 @@ Het in [artikel 29, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:
 
 Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en van Verkeer en Waterstaat zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 1e
+##### Artikel 1e
 
 1. De vervoerder beschikt over een beveiligingsplan met een beschrijving van de wijze waarop het categorie I-, II- of III-materiaal wordt beveiligd. Dit betreft ten minste een omschrijving van de beveiligingsmaatregelen die worden getroffen door de vervoerder om te voldoen aan [artikel 1d](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=Ia&paragraaf=1&artikel=1d&z=2025-07-01&g=2025-07-01) en een verwijzing naar de krachtens dit besluit verleende vergunning of vergunningen.
 
@@ -836,7 +861,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 7. De Autoriteit kan de goedkeuring of de daaraan verbonden voorschriften intrekken of wijzigen.
 
-#### Artikel 1f
+##### Artikel 1f
 
 1. De vervoerder wijzigt het beveiligingsplan, bedoeld in [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=Ia&paragraaf=1&artikel=1e&z=2025-07-01&g=2025-07-01), wanneer de Autoriteit dit nodig acht en dit schriftelijk heeft kenbaar gemaakt aan de vervoerder, waarbij de kennisgeving is voorzien van de aard van de aan te brengen wijzigingen.
 
@@ -854,7 +879,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 6. Het derde lid is van overeenkomstige toepassing.
 
-#### Artikel 1g
+##### Artikel 1g
 
 1. De vervoerder handelt overeenkomstig het laatst goedgekeurde beveiligingsplan, bedoeld in [artikel 1e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002668&hoofdstuk=Ia&paragraaf=1&artikel=1e&z=2025-07-01&g=2025-07-01).
 
@@ -862,7 +887,7 @@ Onze Ministers van Economische Zaken, van Sociale Zaken en Volksgezondheid en va
 
 #### § 2. Beveiliging van het vervoer van radioactieve stoffen
 
-#### Artikel 1h
+##### Artikel 1h
 
 De Autoriteit kan bij verordening regels stellen ten aanzien van de beveiliging van het vervoer, de opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van de in [artikel 4.7 van het Besluit basisveiligheidsnormen stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&artikel=4.7) bedoelde radioactieve stoffen.
 

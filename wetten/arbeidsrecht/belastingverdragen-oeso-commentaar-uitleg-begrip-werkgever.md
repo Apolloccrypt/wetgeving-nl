@@ -1,13 +1,38 @@
 ---
 title: "Belastingverdragen, OESO-commentaar; uitleg begrip werkgever"
 identifier: "BWBR0049117"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049117"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049117"
+soort: "beleidsregel"
+stam_id: "16976033"
+version_id: "29841712"
+internal_id: "C42777271"
+label_id: "16886554"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049117/2024-01-01/0"
+intitule_bron: "Stcrt.2023-31181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-15"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-31181"
+original_signed_date: "2023-12-15"
+original_published_date: "2023-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-31181"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0049117&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0049117&g=2024-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2023-12-15"
+entry_into_force: "2024-01-01"
 ---
-
 # Belastingverdragen, OESO-commentaar; uitleg begrip werkgever
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

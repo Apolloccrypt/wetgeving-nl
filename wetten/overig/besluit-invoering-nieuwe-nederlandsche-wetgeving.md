@@ -1,13 +1,35 @@
 ---
-title: "Besluit invoering nieuwe Nederlandsche Wetgeving"
+title: "Besluit van 10 April 1838, houdende bepaling van het tijdstip waarop de invoering der nieuwe Nederlandsche Wetgeving en de instelling van den Hoogen Raad zal plaats hebben"
 identifier: "BWBR0001837"
-categorie: "Overig"
-publicatiedatum: 1838-05-04
-laatste_update: 1838-05-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001837"
+country: "nl"
+rank: "kb"
+publication_date: "1838-05-04"
+last_updated: "1838-05-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001837"
+soort: "KB"
+stam_id: "639673"
+version_id: "927042"
+internal_id: "C927041"
+label_id: "620364"
+dtd_version: "2.0"
+original_entry_into_force: "1838-05-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001837/1838-05-04/0"
+intitule_bron: "Stb.1838-12"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1838-04-10"
+intitule_status: "goed"
+original_publication: "Stb.1838-12"
+original_signed_date: "1838-04-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1838-05-04"
+jci_1_3: "jci1.3:c:BWBR0001837&z=1838-05-04&g=1838-05-04"
+jci_1_0: "1.0:c:BWBR0001837&g=1838-05-04"
+citeertitel_status: "officieel"
+short_title: "Besluit invoering nieuwe Nederlandsche Wetgeving"
+signed_date: "1838-04-10"
+entry_into_force: "1838-05-04"
 ---
-
 # Besluit van 10 April 1838, houdende bepaling van het tijdstip waarop de invoering der nieuwe Nederlandsche Wetgeving en de instelling van den Hoogen Raad zal plaats hebben
 
 Gezien Ons besluit van den 5den Januarij 1831 (**Staatsblad** n°. 1);
@@ -26,11 +48,11 @@ Op de voordragt van Onzen Minister van Justitie van den 26sten Maart 1838, n°. 
 
 Hebben besloten en besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Burgerlijk Wetboek, het [Wetboek van Koophandel](https://wetten.overheid.nl/jci1.3:c:BWBR0001838), het Wetboek van Burgerlijke Regtsvordering, dat van Strafvordering, mitsgaders de wet van den 15den Mei 1829 (**Staatsblad** no. 28), houdende **algemeene bepalingen der Wetgeving van het Koningrijk**, en die van den 18den April 1827 (**Staatsblad** no. 20), op de zamenstelling der Regterlijke Magt en het beleid der Justitie, benevens de wijzigingen en veranderingen in dezelve wetboeken en wetten gemaakt, en eindelijk de wet van den 10den Mei 1837 (**Staatsblad** no. 21), houdende tijdelijke aanvulling der bepalingen omtrent de enkele en bedriegelijke bankbreuk, zullen worden ingevoerd op den 1sten October 1838, en van verbindende kracht zijn met den klokslag van middernacht tusschen den 30sten September en den 1sten October van dit jaar.
 
-#### Artikel 2
+##### Artikel 2
 
 De Hooge Raad der Nederlanden zal worden ingesteld en bijeenkomen op Vrijdag den 1sten Junij van dit loopende jaar, en zich in het tusschenvak zijner installatie tot op het tijdstip voor de invoering der nieuwe Nederlandsche Wetgeving bij het vorig artikel bepaald, **alleen** en bij **uitsluiting** bezig houden met de na te melden werkzaamheden, als:
 
@@ -44,15 +66,15 @@ d. Het ontwerpen van een reglement ten opzigte van het hooger beroep van vonniss
 
 e. Het advijseren op verzoeken om gratie en dispensatie van wettelijke bepalingen, naar aanleiding van de [artikelen 67](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=67) en [68 der Grondwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001840&artikel=68).
 
-#### Artikel 3
+##### Artikel 3
 
 De **Hooge Raad** zal, in het voormelde tusschenvak zijner installatie tot op den eersten October dezes jaars, geene regterlijke functien hoe ook genaamd waarnemen; zullende het Hoog-Geregtshof te 's-Gravenhage, zoodanig als het nog is zamengesteld, de Regtbanken van Eersten Aanleg, de Regtbanken van Koophandel en de Vredegeregten tot op het oogenblik van derzelver ontbinding, in hunne werkzaamheden voortgaan, volgens de nog bestaande wetboeken, wetten en verordeningen.
 
-#### Artikel 4
+##### Artikel 4
 
 De wijze van installatie en beëediging van den President, de Leden en Ambtenaren van den Hoogen Raad, mitsgaders van de verdere Justiciele Kollegien en Ambtenaren zal bij een afzonderlijk besluit, door Ons worden bepaald.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Staten der provincien zullen in hunne eerstvolgende gewone vergadering raadplegen over het jaarlijksch bedrag, waarop, voor het vervolg, zullen moeten worden bepaald de sommen, uit de provinciale fondsen, voor kleine onkosten, aan de Provinciale Geregtshoven, Arrondissements-Regtbanken en Kanton-Geregten te voldoen. Hunne daartoe betrekkelijke voorstellen zullen aan Onzen Minister van Justitie worden ingezonden, en door hem aan Onze beslissing onderworpen worden.
 

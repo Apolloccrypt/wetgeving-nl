@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023"
+title: "Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 december 2023, nr. WJZ/ 41128257, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige industrie in Groningen 2023 (Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023)"
 identifier: "BWBR0049095"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-23
-laatste_update: 2025-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049095"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2025-01-23"
+last_updated: "2025-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049095"
+soort: "beleidsregel"
+stam_id: "16968973"
+version_id: "29831812"
+internal_id: "C42758191"
+label_id: "16879774"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049095/2025-01-23/0"
+intitule_bron: "Stcrt.2023-34827"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-17"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-34827"
+original_signed_date: "2023-12-17"
+original_published_date: "2023-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-34827"
+entry_into_force_date: "2023-12-22"
+jci_1_3: "jci1.3:c:BWBR0049095&z=2025-01-23&g=2025-01-23"
+jci_1_0: "1.0:c:BWBR0049095&g=2025-01-23"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023"
+signed_date: "2023-12-17"
+entry_into_force: "2023-12-22"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken en Klimaat van 17 december 2023, nr. WJZ/ 41128257, tot vergoeding van kosten van maatregelen voor aardbevingsbestendige industrie in Groningen 2023 (Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023)
 
 Gelet op [artikel 13ba van de Tijdelijke wet Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&artikel=13ba) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **supplement toetsing 2024:** aanvulling op het uitgebreide toetsingskader om bedrijven met industriële installaties of gebouwen die zich per 1 oktober 2023 op een locatie bevinden waar de piekgrondversnelling 0,05g of hoger is een beoordeling op maat te bieden die past bij de piekgrondversnelling op de locatie waar het bedrijf in kwestie zich bevindt.
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 1. Deze beleidsregel is van toepassing op:
 
@@ -74,7 +100,7 @@ In deze beleidsregel wordt verstaan onder:
 
 3. Deze beleidsregel is niet van toepassing op nieuw te bouwen gebouwen waarop de Beleidsregel vergoeding kosten aardbevingsbestendige nieuwbouw Groningen van toepassing is.
 
-#### Artikel 3. Piekgrondversnelling
+##### Artikel 3. Piekgrondversnelling
 
 Deze beleidsregel is uitsluitend van toepassing op een bedrijf als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=1&artikel=2&z=2025-01-23&g=2025-01-23) dat is gelegen op een locatie waar de piekgrondversnelling tijdens het uitvoeren van de beoordeling, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-23&g=2025-01-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=7&z=2025-01-23&g=2025-01-23), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3a&artikel=8a&z=2025-01-23&g=2025-01-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=12&z=2025-01-23&g=2025-01-23), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3&artikel=14&z=2025-01-23&g=2025-01-23), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3a&artikel=15a&z=2025-01-23&g=2025-01-23), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&artikel=19&z=2025-01-23&g=2025-01-23), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&artikel=22&z=2025-01-23&g=2025-01-23) of tijdens het nemen van de maatregelen, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.4&artikel=9&z=2025-01-23&g=2025-01-23) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=16&z=2025-01-23&g=2025-01-23) ten minste 0,05 g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
 
@@ -84,7 +110,7 @@ Deze beleidsregel is uitsluitend van toepassing op een bedrijf als bedoeld in [a
 
 #### Paragraaf 2.1.1. Reikwijdte [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&z=2025-01-23&g=2025-01-23)
 
-#### Artikel 4. Reikwijdte [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&z=2025-01-23&g=2025-01-23)
+##### Artikel 4. Reikwijdte [afdeling 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&z=2025-01-23&g=2025-01-23)
 
 Deze afdeling is van toepassing op het verstrekken van een vergoeding aan een bedrijf indien:
 
@@ -94,7 +120,7 @@ Deze afdeling is van toepassing op het verstrekken van een vergoeding aan een be
 
 #### Paragraaf 2.1.2. Kwalitatieve risicoanalyse
 
-#### Artikel 5. Vergoeding voor kwalitatieve risicoanalyse
+##### Artikel 5. Vergoeding voor kwalitatieve risicoanalyse
 
 1. De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -108,7 +134,7 @@ Deze afdeling is van toepassing op het verstrekken van een vergoeding aan een be
 
 3. Het selecteren van de installaties en gebouwen, bedoeld in het eerste lid, onderdeel c, vindt plaats met toepassing van de Procesbeschrijving, de Selectiemethodiek stap I en de Selectiemethodiek stap II.
 
-#### Artikel 6. Aanvraag voor vergoeding
+##### Artikel 6. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-23&g=2025-01-23), wordt na afloop van de daar bedoelde activiteiten ingediend en bevat:
 
@@ -122,7 +148,7 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 5, eerste lid](https://
 
 #### Paragraaf 2.1.3. Kwantitatieve risicoanalyse
 
-#### Artikel 7. Vergoeding voor kwantitatieve risicoanalyse
+##### Artikel 7. Vergoeding voor kwantitatieve risicoanalyse
 
 1. De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -144,7 +170,7 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 5, eerste lid](https://
 
 - c. de Standaardmethode leidingen op leidingbruggen indien de te analyseren installatie een leiding op een leidingbrug is.
 
-#### Artikel 8. Aanvraag voor vergoeding
+##### Artikel 8. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=7&z=2025-01-23&g=2025-01-23), wordt na afloop van de daar bedoelde activiteiten ingediend en bevat:
 
@@ -158,13 +184,13 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 7, eerste lid](https://
 
 #### Paragraaf 2.1.3a. Supplement toetsing 2024
 
-#### Artikel 9. Vergoeding voor maatregelen
+##### Artikel 9. Vergoeding voor maatregelen
 
 1. De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor het bepalen, ontwerpen en uitvoeren van organisatorische of technische maatregelen die redelijkerwijs nodig zijn om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad.
 
 2. Het opstellen van een plan van aanpak betreffende de maatregelen die genomen moeten worden en de uitvoering van het plan van aanpak vinden plaats met gebruikmaking van de Procesbeschrijving.
 
-#### Artikel 10. Aanvraag voor vergoeding
+##### Artikel 10. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.4&artikel=9&z=2025-01-23&g=2025-01-23) wordt na afloop van de daar bedoelde activiteiten ingediend en bevat:
 
@@ -180,13 +206,13 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 9](https://wetten.overh
 
 #### Paragraaf 2.2.1. Reikwijdte [afdeling 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&z=2023-12-22&g=2023-12-22)
 
-#### Artikel 11. Reikwijdte [afdeling 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&z=2025-01-23&g=2025-01-23)
+##### Artikel 11. Reikwijdte [afdeling 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&z=2025-01-23&g=2025-01-23)
 
 Deze afdeling is van toepassing op het verstrekken van een vergoeding aan een bedrijf als bedoeld in [artikel 2, eerste lid, onderdeel a, aanhef en onder 1°, 2° of 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=1&artikel=2&z=2025-01-23&g=2025-01-23), indien het installaties of gebouwen betreft die nog niet zijn gerealiseerd op het moment van indienen van een aanvraag voor de vergoeding.
 
 #### Paragraaf 2.2.2. Kwalitatieve risicoanalyse
 
-#### Artikel 12. Vergoeding voor kwalitatieve risicoanalyse
+##### Artikel 12. Vergoeding voor kwalitatieve risicoanalyse
 
 De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -196,13 +222,13 @@ De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
 - c. het selecteren van de onderdelen van de te bouwen installaties en gebouwen die in aanmerking kunnen komen voor een kwantitatieve risicoanalyse of het treffen van maatregelen die nodig zijn om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad.
 
-#### Artikel 13. Overeenkomstige toepassing
+##### Artikel 13. Overeenkomstige toepassing
 
 De [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-23&g=2025-01-23), en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2025-01-23&g=2025-01-23) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 2.2.2. Kwalitatieve risicoanalyse
 
-#### Artikel 14. Vergoeding voor kwantitatieve risicoanalyse
+##### Artikel 14. Vergoeding voor kwantitatieve risicoanalyse
 
 De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -210,13 +236,13 @@ De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
 - b. het uitvoeren van een kwantitatieve risicoanalyse op de geselecteerde te bouwen installaties en gebouwen.
 
-#### Artikel 15. Overeenkomstige toepassing
+##### Artikel 15. Overeenkomstige toepassing
 
 De [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=7&z=2025-01-23&g=2025-01-23), en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=8&z=2025-01-23&g=2025-01-23) zijn van overeenkomstige toepassing.
 
 #### Paragraaf 2.2.3. Kwantitatieve risicoanalyse
 
-#### Artikel 16. Vergoeding voor maatregelen
+##### Artikel 16. Vergoeding voor maatregelen
 
 1. De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor het bepalen, ontwerpen en uitvoeren van organisatorische of technische maatregelen die redelijkerwijs nodig zijn om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad.
 
@@ -224,7 +250,7 @@ De [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoo
 
 3. Het opstellen van een plan van aanpak betreffende de maatregelen die genomen moeten worden en de uitvoering van het plan van aanpak vinden plaats met gebruikmaking van de Procesbeschrijving.
 
-#### Artikel 17. Aanvraag voor vergoeding
+##### Artikel 17. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=16&z=2025-01-23&g=2025-01-23), wordt na het ontwerpen van de daar bedoelde maatregelen ingediend en bevat:
 
@@ -240,11 +266,11 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 16, eerste lid](https:/
 
 ### Afdeling 3.1. Bestaande bouw
 
-#### Artikel 18. Reikwijdte [afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&z=2025-01-23&g=2025-01-23)
+##### Artikel 18. Reikwijdte [afdeling 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&z=2025-01-23&g=2025-01-23)
 
 Deze afdeling is van toepassing op het verstrekken van een vergoeding aan een bedrijf als bedoeld in [artikel 2, eerste lid, onderdeel a, aanhef en onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=1&artikel=2&z=2025-01-23&g=2025-01-23), indien het installaties en gebouwen betreft die reeds zijn gerealiseerd op het moment van indienen van een aanvraag voor de vergoeding.
 
-#### Artikel 19. Vergoeding voor beoordeling met checklist
+##### Artikel 19. Vergoeding voor beoordeling met checklist
 
 De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -252,7 +278,7 @@ De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
 - b. het bepalen, ontwerpen en uitvoeren van organisatorische of technische maatregelen die redelijkerwijs nodig zijn om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad.
 
-#### Artikel 20. Aanvraag voor vergoeding
+##### Artikel 20. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&artikel=19&z=2025-01-23&g=2025-01-23) wordt na afloop van de daar bedoelde activiteiten gedaan en bevat:
 
@@ -264,11 +290,11 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 19](https://wetten.over
 
 ### Afdeling 3.2. Nieuwbouw
 
-#### Artikel 21. Reikwijdte [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&z=2025-01-23&g=2025-01-23)
+##### Artikel 21. Reikwijdte [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&z=2025-01-23&g=2025-01-23)
 
 Deze afdeling is van toepassing op het verlenen van een vergoeding aan een bedrijf als bedoeld in [artikel 2, eerste lid, onderdeel a, aanhef en onder 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=1&artikel=2&z=2025-01-23&g=2025-01-23), indien het installaties en gebouwen betreft die nog niet zijn gerealiseerd op het moment van indienen van een aanvraag voor de vergoeding.
 
-#### Artikel 22. Vergoeding voor beoordeling met checklist
+##### Artikel 22. Vergoeding voor beoordeling met checklist
 
 1. De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor:
 
@@ -278,7 +304,7 @@ Deze afdeling is van toepassing op het verlenen van een vergoeding aan een bedri
 
 2. Een vergoeding wordt verstrekt voor de incrementele kosten van de realisatie van het ontwerp, waarbij maatregelen zijn opgenomen die redelijkerwijs nodig zijn om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad ten opzichte van een ontwerp zonder deze maatregelen.
 
-#### Artikel 23. Aanvraag voor vergoeding
+##### Artikel 23. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&artikel=22&z=2025-01-23&g=2025-01-23), wordt na het ontwerpen van de daar bedoelde maatregelen gedaan en bevat:
 
@@ -292,15 +318,15 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 22, eerste lid](https:/
 
 ### Hoofdstuk 4. Overige bepalingen
 
-#### Artikel 24. Vergoeding direct verbonden kosten
+##### Artikel 24. Vergoeding direct verbonden kosten
 
 Een vergoeding wordt slechts verstrekt voor de kosten die direct verbonden zijn aan de activiteiten, bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-23&g=2025-01-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=7&z=2025-01-23&g=2025-01-23), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3a&artikel=8a&z=2025-01-23&g=2025-01-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.4&artikel=9&z=2025-01-23&g=2025-01-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=12&z=2025-01-23&g=2025-01-23), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3a&artikel=15a&z=2025-01-23&g=2025-01-23), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=16&z=2025-01-23&g=2025-01-23), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&artikel=19&z=2025-01-23&g=2025-01-23), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&artikel=22&z=2025-01-23&g=2025-01-23).
 
-#### Artikel 25. Openbare samenvatting
+##### Artikel 25. Openbare samenvatting
 
 De openbare samenvatting, bedoeld in de [artikelen 6, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=6&z=2025-01-23&g=2025-01-23), [8, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=8&z=2025-01-23&g=2025-01-23), [8b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3a&artikel=8b&z=2025-01-23&g=2025-01-23), [10, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.4&artikel=10&z=2025-01-23&g=2025-01-23), en [15b, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3a&artikel=15b&z=2025-01-23&g=2025-01-23) bevat de informatie die is opgenomen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&bijlage=II&z=2025-01-23&g=2025-01-23).
 
-#### Artikel 26. Afwijzingsgronden
+##### Artikel 26. Afwijzingsgronden
 
 De minister wijst een aanvraag af indien:
 
@@ -310,19 +336,19 @@ De minister wijst een aanvraag af indien:
 
 - c. de aanvrager eerder een privaatrechtelijke vergoeding van de Nederlandse Aardolie Maatschappij B.V. heeft gekregen voor het uitvoeren van een activiteit als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.2&artikel=5&z=2025-01-23&g=2025-01-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3&artikel=7&z=2025-01-23&g=2025-01-23), [8a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3a&artikel=8a&z=2025-01-23&g=2025-01-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.4&artikel=9&z=2025-01-23&g=2025-01-23), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.2&artikel=12&z=2025-01-23&g=2025-01-23), [15a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3a&artikel=15a&z=2025-01-23&g=2025-01-23), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.4&artikel=16&z=2025-01-23&g=2025-01-23), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.1&artikel=19&z=2025-01-23&g=2025-01-23), en [22](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=3&afdeling=3.2&artikel=22&z=2025-01-23&g=2025-01-23), of daarvoor een aanvraag heeft gedaan waarop nog niet onherroepelijk is beslist.
 
-#### Artikel 27. Overgangsrecht
+##### Artikel 27. Overgangsrecht
 
 De [Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044799) zoals die luidde voor de inwerkingtreding van deze regeling blijft van toepassing op aanvragen die voor dat tijdstip zijn ingediend en op vergoedingen die voor dat tijdstip zijn verstrekt.
 
-#### Artikel 28. Intrekking [Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044799)
+##### Artikel 28. Intrekking [Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044799)
 
 De [Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044799) wordt ingetrokken.
 
-#### Artikel 29. Inwerkingtreding
+##### Artikel 29. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 30. Citeertitel
+##### Artikel 30. Citeertitel
 
 Deze regeling wordt aangehaald als: Beleidsregel vergoeding kosten aardbevingsbestendige industrie Groningen 2023.
 
@@ -405,11 +431,11 @@ Gegevens over het onderzoek:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 8a. Vergoeding voor een risicoanalyse volgens de supplement toetsing 2024
+##### Artikel 8a. Vergoeding voor een risicoanalyse volgens de supplement toetsing 2024
 
 De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor het beoordelen van installaties met gebruikmaking van de supplement toetsing 2024 volgens de Procesbeschrijving, als het bedrijf gelegen is op een locatie waar de piekgrondversnelling vanaf 1 oktober 2021 ten minste 0,05g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
 
-#### Artikel 8b. Aanvraag voor vergoeding supplement toetsing 2024
+##### Artikel 8b. Aanvraag voor vergoeding supplement toetsing 2024
 
 Een aanvraag voor een vergoeding als bedoeld in [artikel 8a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.1&paragraaf=2.1.3a&artikel=8a&z=2025-01-23&g=2025-01-23) wordt na afloop van de beoordeling ingediend en bevat:
 
@@ -429,11 +455,11 @@ Een aanvraag voor een vergoeding als bedoeld in [artikel 8a](https://wetten.over
 
 #### Paragraaf 2.2.3a. Supplement toetsing 2024
 
-#### Artikel 15a. Vergoeding voor een risicoanalyse volgens de supplement toetsing 2024
+##### Artikel 15a. Vergoeding voor een risicoanalyse volgens de supplement toetsing 2024
 
 De minister verstrekt op aanvraag aan een bedrijf een vergoeding voor het beoordelen van installaties met gebruikmaking van de supplement toetsing 2024 volgens de Procesbeschrijving, als het bedrijf gelegen is op een locatie waar de piekgrondversnelling vanaf 1 oktober 2021 ten minste 0,05g is, berekend en vastgesteld bij een herhalingstijd van 475 jaar.
 
-#### Artikel 15b. Aanvraag voor vergoeding
+##### Artikel 15b. Aanvraag voor vergoeding
 
 Een aanvraag voor een vergoeding, als bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0049095&hoofdstuk=2&afdeling=2.2&paragraaf=2.2.3a&artikel=15a&z=2025-01-23&g=2025-01-23) wordt na afloop van de beoordeling ingediend en bevat:
 

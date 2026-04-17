@@ -1,13 +1,35 @@
 ---
 title: "Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS)"
 identifier: "BWBV0006469"
-categorie: "Internationaal recht"
-publicatiedatum: 2015-03-01
-laatste_update: 2015-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006469"
+country: "nl"
+rank: "verdrag"
+publication_date: "2015-03-01"
+last_updated: "2015-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006469"
+soort: "verdrag"
+stam_id: "10005276143"
+version_id: "10005670312"
+internal_id: "C10008782841"
+label_id: "10005258954"
+dtd_version: "2.0"
+original_entry_into_force: "2015-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006469/2015-03-01/0"
+intitule_bron: "Trb.2007-11"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2007-03-19"
+intitule_in_force: "2015-04-02"
+intitule_status: "goed"
+original_publication: "Trb.2007-11"
+original_published_date: "2007-03-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-11"
+entry_into_force_date: "2015-03-01"
+jci_1_3: "jci1.3:c:BWBV0006469&z=2015-03-01&g=2015-03-01"
+jci_1_0: "1.0:c:BWBV0006469&g=2015-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2015-03-01"
 ---
-
 # Samenwerkingsovereenkomst tussen de Europese Gemeenschap en haar Lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, betreffende een civiel mondiaal satellietnavigatiesysteem (Civil Global Navigation Satellite System) (GNSS)
 
 De Europese Gemeenschap, hierna „de Gemeenschap” te noemen,
@@ -86,11 +108,11 @@ In de wens de samenwerking tussen Marokko en de Gemeenschap te intensiveren, hie
 
 Hebben overeenstemming bereikt omtrent hetgeen volgt:
 
-#### Artikel 1. Doel van de overeenkomst
+##### Artikel 1. Doel van de overeenkomst
 
 De overeenkomst heeft ten doel de samenwerking tussen de partijen in het kader van de bijdragen van Europa en Marokko aan een civiel mondiaal satellietnavigatiesysteem (GNSS) te stimuleren, te vergemakkelijken en te verbeteren.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 In deze overeenkomst wordt verstaan onder:
 
@@ -120,7 +142,7 @@ In deze overeenkomst wordt verstaan onder:
 
 - „grondgebied”, ten aanzien van de Europese Gemeenschap en haar lidstaten, het grondgebied waarop het [Verdrag tot oprichting van de Europese Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506), onder de daarin vastgestelde voorwaarden, van toepassing is.
 
-#### Artikel 3. Beginselen van de samenwerking
+##### Artikel 3. Beginselen van de samenwerking
 
 De partijen komen overeen de volgende beginselen toe te passen op de samenwerking in de zin van deze overeenkomst:
 
@@ -138,7 +160,7 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 - 7. vrije handel in GNSS-apparatuur op het grondgebied van de partijen.
 
-#### Artikel 4. Toepassingsgebied van de samenwerking
+##### Artikel 4. Toepassingsgebied van de samenwerking
 
 1. Samenwerking op het gebied van satellietnavigatie en -tijdssynchronisatie kan worden opgezet in de sectoren wetenschappelijk onderzoek, industriële fabricage, opleiding, toepassing, ontwikkeling van diensten en markten, handel, radiospectrum, integriteit, normalisering en certificering, en veiligheid. De partijen kunnen, volgens het mechanisme van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=14&z=2015-03-01&g=2015-03-01), besluiten deze lijst aan te passen.
 
@@ -158,13 +180,13 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 3. Deze overeenkomst laat onverlet de wetgeving van de Europese Gemeenschap houdende oprichting van de Europese GNSS-toezichtautoriteit en de institutionele structuur ervan, alsmede de toepasselijke wet- en regelgeving en beleidsmaatregelen ter uitvoering van de non-proliferatieverbintenissen en de exportcontrole betreffende producten voor tweeërlei gebruik, en voorts de maatregelen van nationaal recht betreffende beveiliging en controle van immateriële overdracht van technologie.
 
-#### Artikel 5. Vorm van de samenwerking
+##### Artikel 5. Vorm van de samenwerking
 
 1. Onverminderd de toepasselijke regelgeving wordt door de partijen een zo breed mogelijke samenwerking in het kader van deze overeenkomst bevorderd in die zin dat vergelijkbare mogelijkheden worden geboden voor deelname aan de samenwerking in de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2015-03-01&g=2015-03-01) genoemde sectoren.
 
 2. De partijen komen overeen samen te werken zoals is bepaald in de artikelen 6 tot en met 13.
 
-#### Artikel 6. Radiospectrum
+##### Artikel 6. Radiospectrum
 
 1. Voortbouwend op vroegere successen in het kader van de Internationale Unie voor Telecommunicatie komen de partijen overeen de samenwerking en wederzijdse steun met betrekking tot het radiospectrum voort te zetten.
 
@@ -174,13 +196,13 @@ De partijen komen overeen de volgende beginselen toe te passen op de samenwerkin
 
 4. Niets in deze overeenkomst mag aldus worden uitgelegd dat mag worden afgeweken van de toepasselijke regelgeving van de Internationale Unie voor Telecommunicatie, met inbegrip van de radiovoorschriften.
 
-#### Artikel 7. Wetenschappelijk onderzoek
+##### Artikel 7. Wetenschappelijk onderzoek
 
 De partijen bevorderen gezamenlijk onderzoek op het gebied van GNSS door middel van communautaire en Marokkaanse onderzoeksprogramma’s, in het bijzonder het kaderprogramma van de Europese Gemeenschap voor onderzoek en ontwikkeling, de onderzoeksprogramma’s van het Europees Ruimteagentschap en de door Marokkaanse organen opgestelde programma’s.
 
 Het gezamenlijke onderzoek moet bijdragen aan de planning van de toekomstige ontwikkeling van een GNSS voor civiel gebruik. De partijen komen overeen een mechanisme vast te stellen dat geschikt is om voor nuttige contacten en effectieve deelname aan de onderzoeksprogramma’s te zorgen.
 
-#### Artikel 8. Industriële samenwerking
+##### Artikel 8. Industriële samenwerking
 
 1. De partijen stimuleren en steunen de samenwerking tussen hun beider industrieën, met name door middel van joint ventures en wederzijdse deelname aan ter zake dienende industriële verenigingen, met als doel het opzetten van het Galileo-systeem en het bevorderen van het gebruik en de ontwikkeling van Galileo-toepassingen en -diensten.
 
@@ -190,7 +212,7 @@ Het gezamenlijke onderzoek moet bijdragen aan de planning van de toekomstige ont
 
 4. De partijen bevorderen nauwere banden tussen de bevoegde instanties van Marokko en het Europees Ruimteagentschap, teneinde het bereiken van de doelstellingen van de overeenkomst te bevorderen.
 
-#### Artikel 9. Handels- en marktontwikkeling
+##### Artikel 9. Handels- en marktontwikkeling
 
 1. De partijen stimuleren handel en investeringen in satellietnavigatie-infrastructuur, apparatuur, lokale componenten van Galileo en toepassingen, zowel in Marokko als in de Gemeenschap.
 
@@ -200,7 +222,7 @@ Het gezamenlijke onderzoek moet bijdragen aan de planning van de toekomstige ont
 
 4. Deze overeenkomst laat de rechten en verplichtingen van de partijen in het kader van de Wereldhandelsorganisatie onverlet.
 
-#### Artikel 10. Normen, certificering en regelgeving
+##### Artikel 10. Normen, certificering en regelgeving
 
 1. De partijen erkennen het belang van een gecoördineerde benadering inzake mondiale satellietnavigatiediensten op internationale normalisatie- en certificeringsfora. Met name steunen de partijen gezamenlijk de ontwikkeling van Galileo-normen en bevorderen zij de wereldwijde toepassing ervan met bijzondere aandacht voor de interoperabiliteit met andere GNSS-systemen.
 
@@ -212,7 +234,7 @@ Een van de doelstellingen van de coördinatie is een breed en innovatief gebruik
 
 4. De partijen keuren de regelgeving goed die het mogelijk maakt om, op het grondgebied binnen hun rechtsmacht, ten volle gebruik te maken van Galileo, met name van de ontvangers en de grond- en ruimtecomponenten.
 
-#### Artikel 11. Ontwikkeling van mondiale en regionale GNSS-grondaugmentatiesystemen
+##### Artikel 11. Ontwikkeling van mondiale en regionale GNSS-grondaugmentatiesystemen
 
 1. De partijen werken samen om grondsysteemarchitecturen vast te stellen en te verwezenlijken die een optimale garantie voor de integriteit van Galileo en de continuïteit van de diensten van Galileo bieden.
 
@@ -220,7 +242,7 @@ Een van de doelstellingen van de coördinatie is een breed en innovatief gebruik
 
 3. Op lokaal niveau wordt door de partijen de ontwikkeling van de lokale componenten van Galileo vergemakkelijkt.
 
-#### Artikel 12. Beveiliging
+##### Artikel 12. Beveiliging
 
 1. De partijen onderstrepen de noodzaak om de mondiale navigatiesatellietsystemen te beschermen tegen misbruik, interferentie, verstoring en vijandige handelingen.
 
@@ -230,11 +252,11 @@ Een van de doelstellingen van de coördinatie is een breed en innovatief gebruik
 
 4. Elke uitwisseling van gerubriceerde informatie als bedoeld in [artikel 4, lid 2, punt 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006469&artikel=4&z=2015-03-01&g=2015-03-01), vergt een veiligheidsovereenkomst tussen de partijen. De beginselen, de procedures en het toepassingsgebied worden door de bevoegde veiligheidsinstanties van de partijen vastgesteld.
 
-#### Artikel 13. Aansprakelijkheid en kostendekking
+##### Artikel 13. Aansprakelijkheid en kostendekking
 
 De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeling en kostendekkingsregelingen vast te stellen en toe te passen, teneinde het aanbieden van civiele GNSS-diensten te vergemakkelijken.
 
-#### Artikel 14. Samenwerkingsmechanisme
+##### Artikel 14. Samenwerkingsmechanisme
 
 1. De samenwerking krachtens deze overeenkomst wordt, namens Marokko, door de Regering van Marokko en, namens de Gemeenschap en haar lidstaten, door de Europese Commissie gecoördineerd en bevorderd.
 
@@ -242,7 +264,7 @@ De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeli
 
 3. De partijen komen overeen dat Marokko de mogelijkheid wordt geboden om overeenkomstig de toepasselijke wetgeving en procedures deel te nemen aan de werkzaamheden van de Europese GNSS-toezichtautoriteit.
 
-#### Artikel 15. Financiering
+##### Artikel 15. Financiering
 
 1. Het bedrag van en de modaliteiten inzake de Marokkaanse bijdrage aan het Galileo-programma via de Europese GNSS-toezichtautoriteit maken het voorwerp uit van een afzonderlijke overeenkomst, volgens de institutionele bepalingen van het Gemeenschapsrecht.
 
@@ -250,13 +272,13 @@ De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeli
 
 3. Onverminderd lid 2 zien de partijen, in het geval waarin specifieke samenwerkingsprogramma’s van de ene partij voorzien in financiële steun aan deelnemers van de andere partij, en deze middelen dienen voor de aankoop van apparatuur, erop toe dat de overdracht van deze apparatuur door de ene partij aan de deelnemers van de andere partij vrij van belastingen en douanerechten geschiedt, in overeenstemming met de wet- en regelgeving die op het grondgebied van elke partij van toepassing is.
 
-#### Artikel 16. Uitwisseling van informatie
+##### Artikel 16. Uitwisseling van informatie
 
 1. Ten behoeve van de effectieve toepassing van de bepalingen van deze overeenkomst, voorzien de partijen in administratieve regelingen en in de contactpunten die nodig zijn voor overleg.
 
 2. De partijen stimuleren verdere uitwisseling van informatie betreffende satellietnavigatie tussen hun beider instellingen en ondernemingen.
 
-#### Artikel 17. Overleg en regeling van geschillen
+##### Artikel 17. Overleg en regeling van geschillen
 
 1. Op verzoek van een hunner plegen de partijen terstond overleg over iedere vraag omtrent de uitlegging of toepassing van deze overeenkomst. Ieder geschil betreffende de uitlegging of toepassing van deze overeenkomst wordt door de partijen in der minne geschikt.
 
@@ -264,7 +286,7 @@ De partijen werken in voorkomende gevallen samen om een aansprakelijkheidsregeli
 
 3. Het bepaalde in de leden 1 en 2 laat onverlet het recht van de partijen om gebruik te maken van het systeem voor de regeling van geschillen waarin de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBV0001160) voorziet.
 
-#### Artikel 18. Inwerkingtreding en opzegging
+##### Artikel 18. Inwerkingtreding en opzegging
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand volgende op de datum waarop de partijen elkaar ervan in kennis hebben gesteld dat de interne procedures die voor de inwerkingtreding moeten worden gevolgd, zijn voltooid. De kennisgevingen worden gericht tot de Raad van de Europese Unie, die optreedt als depositaris van de overeenkomst.
 

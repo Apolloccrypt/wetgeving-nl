@@ -1,13 +1,39 @@
 ---
-title: "Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant"
+title: "Besluit van 19 november 1997, houdende regels inzake de opleiding tot en de deskundigheid van de radiodiagnostisch laborant en de radiotherapeutisch laborant (Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant)"
 identifier: "BWBR0009024"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009024"
+country: "nl"
+rank: "amvb"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009024"
+soort: "AMvB"
+stam_id: "643843"
+version_id: "933202"
+internal_id: "C933201"
+label_id: "624894"
+dtd_version: "2.0"
+original_entry_into_force: "1997-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009024/2023-01-01/0"
+intitule_bron: "Stb.1997-551"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-19"
+intitule_published: "1997-11-27"
+intitule_in_force: "1997-11-27"
+intitule_status: "goed"
+original_publication: "Stb.1997-551"
+original_signed_date: "1997-11-19"
+original_published_date: "1997-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-551"
+entry_into_force_date: "1997-12-01"
+jci_1_3: "jci1.3:c:BWBR0009024&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0009024&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant"
+signed_date: "1997-11-19"
+entry_into_force: "1997-12-01"
 ---
-
 # Besluit van 19 november 1997, houdende regels inzake de opleiding tot en de deskundigheid van de radiodiagnostisch laborant en de radiotherapeutisch laborant (Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 juni 1997, CSZ/BO-978518;
@@ -26,7 +52,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Titel
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het recht tot het voeren van de titel van radiodiagnostisch laborant is voorbehouden aan degene aan wie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg het afsluitende examen heeft afgelegd van een opleiding voor medisch beeldvormende en radiotherapeutische technieken die is opgenomen in de Registratie instellingen en opleidingen en die voldoet aan het in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=4&z=2023-01-01&g=2023-01-01) gestelde, alsmede aan degene aan wie door een door Onze Minister krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), aangewezen examenorganisatie een getuigschrift is uitgereikt waaruit blijkt dat betrokkene met goed gevolg voor de door die examenorganisatie ingestelde examencommissie het examen voor radiodiagnostisch laborant heeft afgelegd.
 
@@ -46,7 +72,7 @@ In dit besluit wordt verstaan onder:
 
 ### HOOFDSTUK II. OPLEIDING VOOR MEDISCH BEELDVORMENDE EN RADIOTHERAPEUTISCHE TECHNIEKEN
 
-#### Artikel 3
+##### Artikel 3
 
 Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=I&paragraaf=2&artikel=2&z=2023-01-01&g=2023-01-01), omvat ten minste de volgende onderdelen:
 
@@ -60,7 +86,7 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 - e. ondersteunende vakken, waaronder natuurkunde, stralingshygiëne, computertoepassingen, patiëntenzorg en kwaliteitszorg.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=II&artikel=3&z=2023-01-01&g=2023-01-01), bedoelde stages omvatten het in het werkveld toepassen van tijdens de studie verworven kennis, inzicht en vaardigheden met betrekking tot het gebied van deskundigheid zoals omschreven in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2023-01-01&g=2023-01-01) onderscheidenlijk [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2023-01-01&g=2023-01-01).
 
@@ -68,7 +94,7 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 ### HOOFDSTUK III. INSERVICE-OPLEIDING VOOR RADIODIAGNOSTISCH LABORANT EN RADIOTHERAPEUTISCH LABORANT
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister kan op hun daartoe strekkend verzoek examenorganisaties aanwijzen, onder verantwoordelijkheid waarvan examencommissies worden samengesteld ten overstaan waarvan de examens, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01) dan wel [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), worden afgelegd.
 
@@ -86,7 +112,7 @@ Een opleiding voor medisch beeldvormende en radiotherapeutische technieken als b
 
 4. Van een aanwijzing of een intrekking van een aanwijzing wordt kennis gegeven in de **Staatscourant**.
 
-#### Artikel 6
+##### Artikel 6
 
 Het in [artikel 5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=5&z=2023-01-01&g=2023-01-01), bedoelde examenreglement bevat ten minste:
 
@@ -100,13 +126,13 @@ Het in [artikel 5, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 - e. een regeling met betrekking tot het herexamen.
 
-#### Artikel 7
+##### Artikel 7
 
 Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekking tot de in [de Hoofdstukken IV](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&z=2023-01-01&g=2023-01-01) en [V](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&z=2023-01-01&g=2023-01-01) bedoelde examens.
 
 ### HOOFDSTUK IV. BEPALINGEN BETREFFENDE HET EXAMEN VOOR RADIODIAGNOSTISCH LABORANT
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het examen voor radiodiagnostisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiodiagnostiek voor zover betrekking hebbend op het in [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VI&artikel=26&z=2023-01-01&g=2023-01-01) omschreven deskundigheidsgebied van de radiodiagnostisch laborant.
 
@@ -120,7 +146,7 @@ Bij ministeriële regeling kunnen nadere regels worden vastgesteld met betrekkin
 
 - d. eindgesprek.
 
-#### Artikel 9
+##### Artikel 9
 
 Het examenonderdeel medische radiodiagnostiek omvat:
 
@@ -130,7 +156,7 @@ Het examenonderdeel medische radiodiagnostiek omvat:
 
 - c. radiodiagnostische onderzoekstechnieken.
 
-#### Artikel 10
+##### Artikel 10
 
 Het examenonderdeel technische radiodiagnostiek omvat:
 
@@ -144,7 +170,7 @@ Het examenonderdeel technische radiodiagnostiek omvat:
 
 - e. niet-röntgenologische beeldvormende technieken.
 
-#### Artikel 11
+##### Artikel 11
 
 Het examenonderdeel stralingshygiëne omvat:
 
@@ -154,7 +180,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 - c. wetskennis.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het examenonderdeel eindgesprek omvat de toetsing van het inzicht van de kandidaat in de uitoefening van het beroep van radiodiagnostisch laborant.
 
@@ -162,7 +188,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 3. Het eindgesprek wordt gevoerd op basis van een door de kandidaat opgesteld gespreksdocument.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De kandidaat wordt slechts tot de in [artikel 8, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=8&z=2023-01-01&g=2023-01-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
 
@@ -176,7 +202,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 - b. een bewijsstuk waaruit blijkt dat het door Onze Minister vastgestelde examengeld is betaald.
 
-#### Artikel 14
+##### Artikel 14
 
 In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01) kan de kandidaat die in het bezit is van het getuigschrift van radiotherapeutisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 13, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), bedoelde bescheiden, met dien verstande dat:
 
@@ -184,13 +210,13 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - b. het opleidingsboek, bedoeld in [artikel 13, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=IV&artikel=13&z=2023-01-01&g=2023-01-01), betrekking heeft op een studielast van 42 studiepunten.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De kandidaat is voor het examen geslaagd, indien hij alle onderdelen van het examen met voldoende resultaat heeft afgelegd.
 
 2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2023-01-01&g=2023-01-01), wordt hij afgewezen voor het examen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Indien een kandidaat reeds eerder tot het examen werd toegelaten, wordt hij niet opnieuw toegelaten alvorens hij:
 
@@ -204,7 +230,7 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 ### HOOFDSTUK V. BEPALINGEN BETREFFENDE HET EXAMEN VOOR RADIOTHERAPEUTISCH LABORANT
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het examen voor radiotherapeutisch laborant betreft de eindbeoordeling van de kennis en het inzicht van de kandidaat ter zake van de radiotherapie voor zover betrekking hebbend op het in [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=VII&artikel=27&z=2023-01-01&g=2023-01-01) omschreven deskundigheidsgebied van de radiotherapeutisch laborant.
 
@@ -218,7 +244,7 @@ In afwijking van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - d. eindgesprek.
 
-#### Artikel 18
+##### Artikel 18
 
 Het examenonderdeel medische radiotherapie omvat:
 
@@ -232,7 +258,7 @@ Het examenonderdeel medische radiotherapie omvat:
 
 - e. onderzoekmethoden bij kwaadaardige aandoeningen.
 
-#### Artikel 19
+##### Artikel 19
 
 Het examenonderdeel technische radiotherapie omvat:
 
@@ -244,7 +270,7 @@ Het examenonderdeel technische radiotherapie omvat:
 
 - d. voorbereiding tot de stralenbehandeling.
 
-#### Artikel 20
+##### Artikel 20
 
 Het examenonderdeel stralingshygiëne omvat:
 
@@ -254,7 +280,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 - c. wetskennis.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het examenonderdeel eindgesprek omvat de toetsing van het inzicht van de kandidaat in de uitoefening van het beroep van radiotherapeutisch laborant.
 
@@ -262,7 +288,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 3. Het eindgesprek wordt gevoerd op basis van een door de kandidaat opgesteld gespreksdocument.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De kandidaat wordt slechts tot de in [artikel 17, tweede lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=17&z=2023-01-01&g=2023-01-01), bedoelde examenonderdelen toegelaten, indien hij overlegt:
 
@@ -276,7 +302,7 @@ Het examenonderdeel stralingshygiëne omvat:
 
 - b. een bewijsstuk waaruit blijkt dat het door Onze Minister vastgestelde examengeld is betaald.
 
-#### Artikel 23
+##### Artikel 23
 
 In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01) kan de kandidaat die in het bezit is van het getuigschrift van radiodiagnostisch laborant volstaan met het overleggen van dat getuigschrift en de in [artikel 22, eerste lid, onder b, en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), bedoelde bescheiden, met dien verstande dat:
 
@@ -284,13 +310,13 @@ In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 - b. het opleidingsboek, bedoeld in [artikel 22, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=V&artikel=22&z=2023-01-01&g=2023-01-01), betrekking heeft op een studielast van 42 studiepunten.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De kandidaat is voor het examen geslaagd, indien hij alle onderdelen van het examen met voldoende resultaat heeft afgelegd.
 
 2. Indien de kandidaat voor een of meer van de onderdelen van het examen een onvoldoende resultaat heeft behaald en hij niet in aanmerking komt voor een herexamen als bedoeld in [artikel 6, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&hoofdstuk=III&artikel=6&z=2023-01-01&g=2023-01-01), wordt hij afgewezen voor het examen.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Indien een kandidaat reeds eerder tot het examen werd toegelaten, wordt hij niet opnieuw toegelaten alvorens hij:
 
@@ -304,7 +330,7 @@ In afwijking van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0009024&ho
 
 ### HOOFDSTUK VI. DESKUNDIGHEID RADIODIAGNOSTISCH LABORANT
 
-#### Artikel 26
+##### Artikel 26
 
 Tot het gebied van deskundigheid van de radiodiagnostisch laborant wordt gerekend het in opdracht van een arts of een tandarts uitvoeren van een radiodiagnostisch onderzoek. Dit houdt in:
 
@@ -324,7 +350,7 @@ Tot het gebied van deskundigheid van de radiodiagnostisch laborant wordt gereken
 
 ### HOOFDSTUK VII. DESKUNDIGHEID RADIOTHERAPEUTISCH LABORANT
 
-#### Artikel 27
+##### Artikel 27
 
 Tot het gebied van deskundigheid van de radiotherapeutisch laborant wordt gerekend het in opdracht van een arts uitvoeren van een bestralingsbehandeling. Dit houdt in:
 
@@ -344,11 +370,11 @@ Tot het gebied van deskundigheid van de radiotherapeutisch laborant wordt gereke
 
 ### HOOFDSTUK VIII. SLOTBEPALINGEN
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit wordt aangehaald als: Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit regeling voor uitgebreide producentenverantwoordelijkheid"
+title: "Besluit van 18 september 2020, houdende regels voor een regeling voor uitgebreide producentenverantwoordelijkheid voor het beheer van afvalstoffen (Besluit regeling voor uitgebreide producentenverantwoordelijkheid)"
 identifier: "BWBR0044197"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-11-09
-laatste_update: 2020-11-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044197"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-11-09"
+last_updated: "2020-11-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044197"
+soort: "AMvB"
+stam_id: "15656853"
+version_id: "27066792"
+internal_id: "C38288111"
+label_id: "15596454"
+dtd_version: "2.0"
+original_entry_into_force: "2020-11-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044197/2020-11-09/0"
+intitule_bron: "Stb.2020-375"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-09-18"
+intitule_published: "2020-10-12"
+intitule_in_force: "2020-10-12"
+intitule_status: "goed"
+original_publication: "Stb.2020-375"
+original_signed_date: "2020-09-18"
+original_published_date: "2020-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2020-375"
+entry_into_force_date: "2020-11-09"
+jci_1_3: "jci1.3:c:BWBR0044197&z=2020-11-09&g=2020-11-09"
+jci_1_0: "1.0:c:BWBR0044197&g=2020-11-09"
+citeertitel_status: "officieel"
+short_title: "Besluit regeling voor uitgebreide producentenverantwoordelijkheid"
+signed_date: "2020-09-18"
+entry_into_force: "2020-11-09"
 ---
-
 # Besluit van 18 september 2020, houdende regels voor een regeling voor uitgebreide producentenverantwoordelijkheid voor het beheer van afvalstoffen (Besluit regeling voor uitgebreide producentenverantwoordelijkheid)
 
 Op de voordracht van Onze Minister voor Milieu en Wonen van 8 april 2020, nr. IenW/BSK-2020/43287, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Infrastructuur en Waterstaa
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. (definities en reikwijdte)
+##### Artikel 1. (definities en reikwijdte)
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is van toepassing wanneer een regeling voor uitgebreide producentenverantwoordelijkheid op grond van [artikel 9.5.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) is vastgesteld, vanaf het tijdstip van de vaststelling van die regeling.
 
-#### Artikel 2. (verplichtingen producent)
+##### Artikel 2. (verplichtingen producent)
 
 1. De producent is verantwoordelijk voor het nakomen van de verplichtingen die in de regeling voor uitgebreide producentenverantwoordelijkheid zijn gesteld, waaronder het behalen van de in die regeling gestelde doelstellingen.
 
@@ -46,7 +72,7 @@ Hebben goedgevonden en verstaan:
 
 3. De producent informeert afvalstoffenhouders van de stoffen, mengsels of producten die hij in de handel brengt en waar de regeling voor uitgebreide producentenverantwoordelijkheid betrekking op heeft over afvalpreventiemaatregelen, innamesystemen, voorzieningen voor hergebruik of nuttige toepassing en de preventie van zwerfafval.
 
-#### Artikel 3. (financiële verplichtingen producent)
+##### Artikel 3. (financiële verplichtingen producent)
 
 1. De producent beschikt over de financiële of financiële en organisatorische middelen die nodig zijn om aan de verplichtingen te voldoen die voortvloeien uit de uitgebreide producentenverantwoordelijkheid.
 
@@ -54,7 +80,7 @@ Hebben goedgevonden en verstaan:
 
 3. De producent zorgt voor een adequaat mechanisme voor zelfbeheer, dat is gericht op het waarborgen van de continuïteit van de financiële of financiële en organisatorische middelen, bedoeld in het eerste lid, en de kwaliteit van het verslag, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5&z=2020-11-09&g=2020-11-09).
 
-#### Artikel 4. (melding)
+##### Artikel 4. (melding)
 
 1. De producent doet binnen zes weken nadat een regeling voor uitgebreide producentenverantwoordelijkheid op de producent van toepassing is geworden melding aan Onze minister over de nakoming van de verplichtingen ter uitvoering van de uitgebreide producentenverantwoordelijkheid.
 
@@ -86,7 +112,7 @@ Hebben goedgevonden en verstaan:
 
 4. Als de gegevens, bedoeld in het tweede lid onder a en c, en derde lid, onder a, significant wijzigen doet de producent binnen zes weken melding van deze wijziging aan Onze Minister.
 
-#### Artikel 5. (verslag)
+##### Artikel 5. (verslag)
 
 1. De producent brengt elk jaar op een in de regeling voor uitgebreide producentenverantwoordelijkheid te bepalen tijdstip over een daarin te bepalen termijn verslag uit aan Onze Minister met daarin:
 
@@ -100,7 +126,7 @@ Hebben goedgevonden en verstaan:
 
 3. De producent zorgt ervoor dat de informatie over het behalen van de in de regeling voor uitgebreide producentenverantwoordelijkheid vastgestelde doelstellingen in ieder geval digitaal openbaar worden gemaakt.
 
-#### Artikel 6. (producentenorganisatie)
+##### Artikel 6. (producentenorganisatie)
 
 1. Producenten kunnen gezamenlijk uitvoering geven aan de verplichtingen, bedoeld in [artikel 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=2&z=2020-11-09&g=2020-11-09).
 
@@ -120,15 +146,15 @@ Hebben goedgevonden en verstaan:
 
 - c. de selectieprocedure voor de afvalbeheerders.
 
-#### Artikel 7. (overgangsrecht)
+##### Artikel 7. (overgangsrecht)
 
 Dit besluit is tot 1 januari 2023 niet van toepassing op een regeling, bedoeld in [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=1&z=2020-11-09&g=2020-11-09), die voor 4 juli 2018 is vastgesteld.
 
-#### Artikel 8. (inwerkingtreding)
+##### Artikel 8. (inwerkingtreding)
 
 Dit besluit treedt in werking met ingang van de datum waarop de [Implementatiewet wijziging EU-kaderrichtlijn afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0043601) in werking treedt. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na de in de eerste volzin bedoelde datum, treedt zij in werking vier weken na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met de in de eerste volzin bedoelde datum.
 
-#### Artikel 9. (citeertitel)
+##### Artikel 9. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit regeling voor uitgebreide producentenverantwoordelijkheid.
 

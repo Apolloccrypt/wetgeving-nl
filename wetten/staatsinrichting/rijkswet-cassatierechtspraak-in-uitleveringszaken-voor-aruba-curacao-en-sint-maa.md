@@ -1,13 +1,40 @@
 ---
-title: "Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten"
+title: "Rijkswet van 8 mei 2003, houdende regeling van cassatie in Antilliaanse en Arubaanse uitleveringszaken (Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba)"
 identifier: "BWBR0015050"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2020-04-01
-laatste_update: 2020-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015050"
+country: "nl"
+rank: "rijkswet"
+publication_date: "2020-04-01"
+last_updated: "2020-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015050"
+soort: "rijkswet"
+stam_id: "3946003"
+version_id: "5709082"
+internal_id: "C13339531"
+label_id: "3925994"
+dtd_version: "2.0"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015050/2020-04-01/0"
+intitule_bron: "Stb.2003-204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-08"
+intitule_published: "2003-05-20"
+intitule_in_force: "2003-12-01"
+intitule_status: "goed"
+original_publication: "Stb.2003-204"
+original_signed_date: "2003-05-08"
+original_published_date: "2003-05-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "27797"
+original_url_id: "stb-2003-204"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0015050&z=2020-04-01&g=2020-04-01"
+jci_1_0: "1.0:c:BWBR0015050&g=2020-04-01"
+citeertitel_status: "officieel"
+short_title: "Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten"
+signed_date: "2003-05-08"
+entry_into_force: "2004-01-01"
 ---
-
 # Rijkswet van 8 mei 2003, houdende regeling van cassatie in Antilliaanse en Arubaanse uitleveringszaken (Cassatieregeling in uitleveringszaken voor de Nederlandse Antillen en Aruba)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 #### Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze rijkswet wordt verstaan onder:
 
@@ -30,7 +57,7 @@ In deze rijkswet wordt verstaan onder:
 
 - d. Wetboek: het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van het Europese deel van het Koninkrijk.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Hoge Raad der Nederlanden neemt in uitleveringszaken kennis van het beroep in cassatie tegen de einduitspraken van het Gemeenschappelijk Hof ingesteld door de procureur-generaal van een van de landen of door de opgeëiste persoon.
 
@@ -40,7 +67,7 @@ In deze rijkswet wordt verstaan onder:
 
 #### Het aanwenden van het rechtsmiddel
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het beroep in cassatie wordt ingesteld door een verklaring, af te leggen door degene die het rechtsmiddel aanwendt op de griffie van het Gemeenschappelijk Hof. Van verklaringen waarbij afstand wordt gedaan van het recht om beroep in cassatie in te stellen, of waarbij een zodanig beroep wordt ingetrokken, geeft de griffier van het Gemeenschappelijk Hof onverwijld kennis aan de Gouverneur.
 
@@ -56,7 +83,7 @@ In deze rijkswet wordt verstaan onder:
 
 #### De uitspraak en de terugwijzingsopdracht
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de uitspraak van het Gemeenschappelijk Hof geheel of gedeeltelijk wordt vernietigd, doet de Hoge Raad de zaak zelf af indien dit mogelijk is zonder in een nieuw onderzoek naar de feiten te treden; ingeval dit niet mogelijk is wijst de Hoge Raad de zaak terug.
 
@@ -72,7 +99,7 @@ In deze rijkswet wordt verstaan onder:
 
 #### Cassatie in het belang der wet
 
-#### Artikel 5
+##### Artikel 5
 
 1. De procureur-generaal bij de Hoge Raad kan cassatie «in het belang der wet» instellen tegen de einduitspraken of enige andere beslissing of handeling van het Gemeenschappelijk Hof in de zaken, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015050&artikel=2&z=2020-04-01&g=2020-04-01). Hij handelt in dat geval overeenkomstig [artikel 456, eerste lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456). De [artikelen 443](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=443), [444](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=444) en [456, derde lid, van het Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=456) zijn van overeenkomstige toepassing.
 
@@ -80,17 +107,17 @@ In deze rijkswet wordt verstaan onder:
 
 #### Wijzigingsbepaling
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Cassatieregeling voor de Nederlandse Antillen en Aruba.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt deze wet.
 
 #### Overgangsbepaling
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Hoge Raad neemt geen kennis van beroepen in cassatie in uitleveringszaken ingesteld tegen einduitspraken gewezen voordat deze rijkswet binnen de landen van het Koninkrijk in werking is getreden.
 
@@ -98,13 +125,13 @@ Wijzigt deze wet.
 
 #### Inwerkingtreding
 
-#### Artikel 9
+##### Artikel 9
 
 Deze rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Citeertitel
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet wordt aangehaald als: Rijkswet cassatierechtspraak in uitleveringszaken voor Aruba, Curaçao en Sint Maarten.
 

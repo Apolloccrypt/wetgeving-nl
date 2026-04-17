@@ -1,13 +1,38 @@
 ---
-title: "Instelling Werkgroep Uitvoering samenwerking Aruba-Nederland"
+title: "Besluit tot instelling van een Werkgroep van advies aan Aruba en Nederland over de inwerkingtreding van een fonds voor de uitvoering van overheidsproject en en de sanering van de Arubaanse overheidsschulden bij Nederland"
 identifier: "BWBR0010881"
-categorie: "Overig"
-publicatiedatum: 2000-03-01
-laatste_update: 2000-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010881"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-03-01"
+last_updated: "2000-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010881"
+soort: "ministeriele-regeling"
+stam_id: "4260423"
+version_id: "6023882"
+internal_id: "C6227271"
+label_id: "4239024"
+dtd_version: "2.0"
+original_entry_into_force: "2000-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010881/2000-03-01/0"
+intitule_bron: "Stcrt.2000-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-20"
+intitule_published: "2000-01-13"
+intitule_in_force: "2000-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-9"
+original_signed_date: "1999-11-20"
+original_published_date: "2000-01-13"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-03-01"
+jci_1_3: "jci1.3:c:BWBR0010881&z=2000-03-01&g=2000-03-01"
+jci_1_0: "1.0:c:BWBR0010881&g=2000-03-01"
+citeertitel_status: "officieel"
+short_title: "Instelling Werkgroep Uitvoering samenwerking Aruba-Nederland"
+signed_date: "1999-11-20"
+entry_into_force: "2000-03-01"
 ---
-
 # Besluit tot instelling van een Werkgroep van advies aan Aruba en Nederland over de inwerkingtreding van een fonds voor de uitvoering van overheidsproject en en de sanering van de Arubaanse overheidsschulden bij Nederland
 
 overwegende,
@@ -24,11 +49,11 @@ Besluiten:
 
 een werkgroep van deskundigen in te stellen, waarop de volgende regels van toepassing zijn:
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een Werkgroep Uitvoering samenwerking Aruba - Nederland, die tot taak heeft de inwerkingtreding van een fonds voor overheidsprojecten en de sanering van de Arubaanse overheidsschulden bij Nederland voor te bereiden, hierna te noemen de Werkgroep.
 
-#### Artikel 2
+##### Artikel 2
 
 De Werkgroep heeft tot taak om vóór 1 oktober 1999 de invoering van de nieuwe systematiek van steunverlening zover te hebben voorbereid dat daarover politieke besluitvorming kan plaatsvinden. Deze voorbereiding heeft onder meer betrekking op:
 
@@ -48,7 +73,7 @@ De Werkgroep heeft tot taak om vóór 1 oktober 1999 de invoering van de nieuwe 
 
 De praktische uitvoering van de te treffen voorbereidingen vindt plaats onder leiding van de Werkgroep, zodanig dat de steun van Nederland met ingang van het begrotingsjaar 2000 wordt verleend overeenkomstig de in het uit te werken plan van aanpak beschreven nieuwe systematiek.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voorzitter van de Werkgroep is de heer B.W. Biesheuvel. Hij is benoemd op persoonlijke titel.
 
@@ -56,7 +81,7 @@ De praktische uitvoering van de te treffen voorbereidingen vindt plaats onder le
 
 3. De staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties benoemt drie leden van de Werkgroep en brengt deze benoemingen binnen een week na inwerkingtreding van dit besluit ter kennis aan de minister-president van Aruba.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Werkgroep bepaalt zelf haar werkwijze.
 
@@ -66,17 +91,17 @@ De praktische uitvoering van de te treffen voorbereidingen vindt plaats onder le
 
 4. De Werkgroep kan zich met tussentijdse rapportages, verzoeken en voorstellen rechtstreeks wenden tot de minister-president van Aruba, de minister van Financiën van Aruba en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 5
+##### Artikel 5
 
 Er wordt zowel door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van Nederland als door de minister-president van Aruba een secretaris van de Werkgroep aangewezen. Beiden vormen tezamen het secretariaat van de Werkgroep en verdelen de werkzaamheden in onderling overleg. Het secretariaat verricht zijn werkzaamheden als zodanig uitsluitend onder verantwoordelijkheid van de Werkgroep. Het secretariaat neemt deel aan de vergaderingen van de Werkgroep en aan de andere activiteiten die de Werkgroep voor haar taakvervulling noodzakelijk acht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De departementen van Aruba, alsmede de Centrale Bank van Aruba en de Aruban Investment Bank N.V. verstrekken de Werkgroep de informatie en de medewerking die voor een goede taakvervulling door de Werkgroep nodig zijn. Bij onenigheid beslist de minister-president van Aruba.
 
 2. De ministeries van Binnenlandse Zaken en Koninkrijksrelaties en van Financiën verstrekken de Werkgroep de informatie en de medewerking die voor een goede taakvervulling van de Werkgroep nodig zijn. Bij onenigheid beslist de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties. Hij bevordert ook de informatieverstrekking en de medewerking van andere Nederlandse departementen en (overheids)instellingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De honorering van de reis-, verblijf- en andere kosten van de voorzitter komen voor rekening van Nederland. Voor deze honorering en vergoeding geldt het [Vergoedingenbesluit Adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0008353) (Staatsblad 1996, 583).
 
@@ -86,7 +111,7 @@ Er wordt zowel door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrel
 
 4. Op basis van voorafgaande goedkeuring door de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, komen de overige kosten voor rekening van Nederland.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Werkgroep vangt haar werkzaamheden met onmiddellijke ingang aan.
 

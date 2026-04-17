@@ -1,30 +1,54 @@
 ---
 title: "Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie"
 identifier: "BWBR0011056"
-categorie: "Overig"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011056"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011056"
+soort: "ministeriele-regeling"
+stam_id: "4438253"
+version_id: "6234562"
+internal_id: "C6438771"
+label_id: "4416644"
+dtd_version: "2.0"
+original_entry_into_force: "1999-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011056/2019-01-01/0"
+intitule_bron: "Stcrt.2015-13079"
+intitule_effect: "wijziging"
+intitule_signed: "2015-05-06"
+intitule_published: "2015-05-18"
+intitule_in_force: "2015-05-29"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-252"
+original_signed_date: "1999-12-24"
+original_published_date: "1999-12-29"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-12-31"
+jci_1_3: "jci1.3:c:BWBR0011056&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0011056&g=2019-01-01"
+citeertitel_status: "officieel"
+signed_date: "1999-12-24"
+entry_into_force: "1999-12-31"
 ---
-
 # Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie
 
 Gelet op de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=7), en [8, eerste lid, van de Wet inzake bloedvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0009079&artikel=8),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De begroting en de jaarrekening van de Bloedvoorzieningsorganisatie worden ingericht met inachtneming van de bijlage behorend bij deze regeling.
 
 2. De begroting en het beleidsplan van de Bloedvoorzieningsorganisatie worden jaarlijks vóór 15 oktober bij de Minister voor Medische Zorg ingediend.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 15 november 1999.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Regeling begroting, beleidsplan en jaarrekening Bloedvoorzieningsorganisatie.
 
@@ -32,11 +56,11 @@ Deze regeling wordt aangehaald als: Regeling begroting, beleidsplan en jaarreken
 
 ### Hoofdstuk 1. Regels ten aanzien van de begroting
 
-#### Paragraaf 1. Reactietermijn Minister
+##### Paragraaf 1. Reactietermijn Minister
 
 De beslistermijnen neergelegd in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) worden gehanteerd ([art. 4:13](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13) en [4:14 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:14)).
 
-#### Paragraaf 2. Indeling begroting
+##### Paragraaf 2. Indeling begroting
 
 1. In de begroting t+1 dienen de begroting van het jaar t en de realisatiecijfers van het jaar t-1 te zijn opgenomen.
 
@@ -60,39 +84,39 @@ In de toelichting op a en b dient een specificatie van de kostenmutaties naar de
 
 8. Bij overheveling van activiteiten van en naar de Sanquin bloedbank en van en naar de Centrale Staf en Diensten of de private divisies, wordt in de begroting een transitietabel opgenomen gespecificeerd naar activiteit, de gevolgde indeling in de begroting en de personele gevolgen.
 
-#### Paragraaf 3. Toelichting afzetgegevens
+##### Paragraaf 3. Toelichting afzetgegevens
 
 1. In de begroting wordt de verwachte afzet van de divisie Sanquin Bloedbank aangegeven, gespecificeerd per productgroep. Hierbij dient een toelichting te worden gegeven, waarin onder andere inzicht wordt gegeven in de bij de bepaling van de omvang van de verwachte afzet gehanteerde uitgangspunten.
 
 2. Per productgroep dienen ramingsverschillen van de afzet ten opzichte van het jaar t te worden toegelicht.
 
-#### Paragraaf 4. Personeelskosten
+##### Paragraaf 4. Personeelskosten
 
 Bij de personeelskosten dienen de totale loonsom en het aantal fte’s van divisie Sanquin Bloedbank en de Centrale Staf en Diensten vermeld te worden.
 
-#### Paragraaf 5. Prijsvaststelling
+##### Paragraaf 5. Prijsvaststelling
 
 Voor de afzet van de divisie Sanquin Bloedbank geldt dat de uit de begroting voortvloeiende prijzen gespecificeerd dienen te worden per productgroep. Met de goedkeuring van de begroting worden de prijzen vastgesteld van de cellulaire bloedproducten, deze staan daarmee vast voor het jaar t+1.
 
-#### Paragraaf 6. Kostprijsberekening
+##### Paragraaf 6. Kostprijsberekening
 
 Bij de prijsstelling van producten en diensten alsmede de interne verrekenprijzen dient een kostprijsberekening bekend te zijn. Met ingang van 2016 zal de kostprijsberekening van de af te leveren tussen- en bloedproducten en diensten gebaseerd zijn op de activity-based costing methode.
 
-#### Paragraaf 7. Administratieve Organisatie
+##### Paragraaf 7. Administratieve Organisatie
 
 De Administratieve Organisatie dient schriftelijk te zijn vastgelegd.
 
-#### Paragraaf 8. Resultaat
+##### Paragraaf 8. Resultaat
 
 1. Het resultaat van de divisie Sanquin Bloedbank van het jaar t-1 wordt betrokken bij de begroting van het jaar t+1.
 
 2. Indien noodzakelijk kan in de begroting van de divisie Sanquin Bloedbank rekening worden gehouden met een reservevorming ten behoeve van een verbetering van de solvabiliteit. De noodzaak hiertoe dient te worden toegelicht.
 
-#### Paragraaf 9. Prognose
+##### Paragraaf 9. Prognose
 
 Bij de begroting t+1 wordt een prognose van de baten en lasten voor het jaar t verstrekt, met dezelfde indeling als de begroting. Voor de divisie Sanquin Bloedbank dienen per begrotingspost de significante afwijkingen van de begroting te worden toegelicht. De toelichting dient te worden voorzien van afzetgegevens.
 
-#### Paragraaf 10. Huisvestingskosten
+##### Paragraaf 10. Huisvestingskosten
 
 1. De in de begroting van de bloedbanken onder de rubriek ‘Huisvestingskosten’ opgenomen post ‘Huren’ en de in de rubriek ‘Afschrijvingen’ verantwoorde post ‘Gebouwen en Terreinen’ worden getoetst aan een jaarlijks door Sanquin op te stellen en bij de begroting te voegen middellange termijn huisvestingsplan (huisvestingsplan). De aansluiting van de hierin genoemde bedragen en de in de begroting opgenomen bedragen voor huisvesting worden toegelicht.
 
@@ -120,11 +144,11 @@ Het TNO-Center for Health Assets adviseert de Minister van VWS binnen vier maand
 
 8. De in de begroting opgenomen en niet aan hoofdvestigingen, solitaire donorcentra, afnameposten en overige huisvesting bestemd voor de divisie Sanquin Bloedbank toe te rekenen huisvestingskosten dienen gedekt te worden uit de baten van activiteiten van de private divisies.
 
-#### Paragraaf 11. Saneringskosten
+##### Paragraaf 11. Saneringskosten
 
 Over eventuele financiële saneringsgevolgen voor de divisie Sanquin Bloedbank voortvloeiend uit wijzigingen in de huisvestingssituatie zal advies worden gevraagd aan het College sanering zorginstellingen. Voornemens dienen in een vroegtijdig stadium te worden gemeld aan het College sanering zorginstellingen. Ter voorkoming van niet acceptabele investeringskosten dient het College sanering zorginstellingen in een vroegtijdig stadium van de planontwikkeling te worden ingeschakeld. Het College sanering zorginstellingen zal ten aanzien van wat onder saneringskosten wordt verstaan Hoofdstuk VIII van het Uitvoeringsbesluit WTZi analoog toepassen.
 
-#### Paragraaf 12. Rekenregels
+##### Paragraaf 12. Rekenregels
 
 1. Loonbijstellling
 
@@ -158,21 +182,21 @@ De kosten en baten van de Centrale Staf en Diensten dienen toegerekend te worden
 
 Vanwege de in deze regeling opgenomen bepalingen verband houdende met de scheiding tussen markt- en overheidsactiviteiten wordt de begroting voor het deel dat betrekking heeft op de private divisies van Sanquin niet per post getoetst. De projecten die in de divisie Research voor de Sanquin Bloedbank worden uitgevoerd worden door middel van een bijlage bij de begroting toegelicht. In deze bijlage wordt een meerjarig financieel overzicht opgenomen van de projecten. Projecten voor de Sanquin Bloedbank hebben uitsluitend betrekking op de taken die volgen uit de Wet inzake bloedvoorziening. De ter zake in de begroting van het jaar t+1 geraamde exploitatiegevolgen ten behoeve van marktactiviteiten dienen gedekt te zijn door baten. Indien een nadelig exploitatieresultaat wordt begroot dient dit te worden toegelicht.
 
-#### Paragraaf 13. Informatie
+##### Paragraaf 13. Informatie
 
 De begroting en jaarrekening bevat informatie over het aantal donors, het aantal nieuwe donors en de uitstroom van donors in het betreffende jaar, en het aantal donaties gespecificeerd naar volbloeddonaties en plasmaferese donaties. Hierbij wordt onderscheid gemaakt naar plasmaferese donaties voor de publieke en de private divisies.
 
 ### Paragraaf 9. Prognose
 
-#### Paragraaf 1. Accountantscontrole
+##### Paragraaf 1. Accountantscontrole
 
 Op de jaarrekening en het jaarverslag van Sanquin zijn bepalingen omtrent jaarrekening en jaarverslag uit het Burgerlijk wetboek, Boek 2, Titel 9 van toepassing. Dit betekent dat deze o.a. zijn onderworpen aan een accountantscontrole. De informatie die wordt geleverd op basis van het gestelde in ’Paragraaf 3 Aanvullende informatie bij de jaarrekening t-1’ vergt een accountantscontrole.
 
-#### Paragraaf 2. Afschrijvingen
+##### Paragraaf 2. Afschrijvingen
 
 Het gestelde onder hoofdstuk 1, paragraaf 12 Rekenregels met betrekking tot de afschrijving is overeenkomstig van toepassing. De Minister wordt vooraf geïnformeerd over voornemens tot het doen van een buitengewone afschrijving, het treffen van een voorziening of het doen van dotaties aan bestemmingsreserves ten laste van de divisie Sanquin Bloedbank met een budgettair beslag van meer dan € 1.000.000,– en waarvan geen voornemen in de begroting van het betreffende jaar was opgenomen.
 
-#### Paragraaf 3. Aanvullende informatie bij de jaarrekening t-1
+##### Paragraaf 3. Aanvullende informatie bij de jaarrekening t-1
 
 1. Buiten de gebruikelijke toelichting dient een overzicht te worden verstrekt waarin activa en passiva, baten, lasten, resultaat en liquiditeiten worden gesplitst naar de private divisies, Sanquin Bloedbank en de Centrale Staf en Diensten. In een toelichting op de Centrale Staf en Diensten wordt aangegeven welke activiteiten voor de respectievelijke divisies plaatsvinden.
 
@@ -194,13 +218,13 @@ Daarbij dient tevens de Minister geïnformeerd te worden over te verwachten omva
 
 ### Paragraaf 1. Accountantscontrole
 
-#### Uitgangspunten op te stellen middellange termijn huisvestingsplan voor de jaren t+1 tot en met t+5
+##### Uitgangspunten op te stellen middellange termijn huisvestingsplan voor de jaren t+1 tot en met t+5
 
 Als basis dient de bestaande huisvesting en de daaruit voortvloeiende kosten. Investeringsgevolgen c.q. huuraanpassingen daarop muteren. Huisvestingskosten inzake afname posten dienen in één totaal bedrag afzonderlijk in het huisvestingsplan te worden vermeld.
 
 Op basis van een inventarisatie naar de bouwbehoefte c.q. huur worden het huisvestingsplan en de kosten gemuteerd. De geïnventariseerde bouwbehoefte zal worden getoetst aan beleidsvisie van de Minister. De bouwkundige en technische kwaliteit alsmede de uitgangspunten in het standaard programma van eisen en kwaliteitsaspecten met betrekking tot de verwerking van bloed dienen daarbij betrokken te worden. Kapitaalvernietiging dient vermeden te worden.
 
-#### Inventarisatie bouwbehoefte:
+##### Inventarisatie bouwbehoefte:
 
 Inventarisatie huidige situatie naar oppervlak, locaties functies, geheel of gedeeltelijke implementatie van het spreidingsplan, GMP eisen, eigendom of huur, boekwaarde, einde huurcontracten, huidige huisvestingslasten en staat van onderhoud van de gebouwen.
 

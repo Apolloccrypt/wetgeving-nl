@@ -1,13 +1,39 @@
 ---
-title: "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES"
+title: "Besluit van 18 maart 2021, houdende regels voor de toepassing en afwijking van de bij of krachtens de Wet voortgezet onderwijs BES vastgestelde voorschriften over onder meer de inrichting van het onderwijs aan de Saba Comprehensive School op Saba en Gwendoline van Puttenschool op Sint Eustatius (Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES)"
 identifier: "BWBR0045020"
-categorie: "Onderwijs"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045020"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045020"
+soort: "AMvB-BES"
+stam_id: "15918473"
+version_id: "27667522"
+internal_id: "C39032921"
+label_id: "15854004"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045020/2022-08-01/0"
+intitule_bron: "Stb.2021-166"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-18"
+intitule_published: "2021-04-02"
+intitule_in_force: "2021-04-02"
+intitule_status: "goed"
+original_publication: "Stb.2021-166"
+original_signed_date: "2021-03-18"
+original_published_date: "2021-04-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-166"
+entry_into_force_date: "2021-04-03"
+jci_1_3: "jci1.3:c:BWBR0045020&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0045020&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES"
+signed_date: "2021-03-18"
+entry_into_force: "2021-04-03"
 ---
-
 # Besluit van 18 maart 2021, houdende regels voor de toepassing en afwijking van de bij of krachtens de Wet voortgezet onderwijs BES vastgestelde voorschriften over onder meer de inrichting van het onderwijs aan de Saba Comprehensive School op Saba en Gwendoline van Puttenschool op Sint Eustatius (Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES)
 
 Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media, van 6 november 2020, nr.25978357(9296) directie Wetgeving en Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,23 +76,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **wet:** de [Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212).
 
-#### Artikel 2. Aanwijzing
+##### Artikel 2. Aanwijzing
 
 De Gwendoline van Puttenschool en de Saba Comprehensive School worden aangewezen als inrichting als bedoeld in [artikel 2.86, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
 
-#### Artikel 3. Bekostigingsvoorwaarden
+##### Artikel 3. Bekostigingsvoorwaarden
 
 Onverminderd het bij of krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212) bepaalde, zijn de bepalingen in dit besluit voorwaarden voor bekostiging.
 
 ### Hoofdstuk 2. Onderwijs
 
-#### Artikel 4. Vormen van onderwijs
+##### Artikel 4. Vormen van onderwijs
 
 1. Het bevoegd gezag biedt onderwijs aan gericht op CSEC, CVQ, alsmede praktijkonderwijs.
 
 2. Het bevoegd gezag kan onderwijs aanbieden gericht op CAPE.
 
-#### Artikel 5. Cxc eisen
+##### Artikel 5. Cxc eisen
 
 Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
@@ -82,7 +108,7 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 - f. de competentie van leraren, assessoren en verifiers.
 
-#### Artikel 6. Instructietaal en bestrijding taalachterstand
+##### Artikel 6. Instructietaal en bestrijding taalachterstand
 
 1. Het onderwijs wordt gegeven en de examens worden afgenomen in het Engels.
 
@@ -98,7 +124,7 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 4. In afwijking van [artikel 2.34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.34) is de aandacht voor de bestrijding van taalachterstanden in het bijzonder gericht op de beheersing van de Engelse taal.
 
-#### Artikel 7. Onderwijs in het vak Nederlands
+##### Artikel 7. Onderwijs in het vak Nederlands
 
 1. Een basisvak Nederlands maakt deel uit van alle onderwijsprogramma’s op de school, met uitzondering van dat van CAPE onderwijs.
 
@@ -122,11 +148,11 @@ Het bevoegd gezag leeft de regels na die CXC stelt met betrekking tot:
 
 7. Het bevoegd gezag richt het onderwijs zo in dat de leerling optimaal in de gelegenheid gesteld wordt om de niveaus behorende bij de betreffende onderwijssoort te halen. Het bevoegd gezag bewaakt de voortgang in de ontwikkeling van de leerling.
 
-#### Artikel 8. Onderwijsprogramma in de eerste drie leerjaren
+##### Artikel 8. Onderwijsprogramma in de eerste drie leerjaren
 
 In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderwijsprogramma ingericht, dat is gebaseerd op CCSLC onderwijs, het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), omvat, en dat, met behoud van keuzevrijheid, de doorstroming van de leerlingen naar CSEC onderwijs of CVQ onderwijs bevordert.
 
-#### Artikel 9. Onderwijs CSEC
+##### Artikel 9. Onderwijs CSEC
 
 1. CSEC onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs.
 
@@ -138,13 +164,13 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. Het onderwijs omvat, samen met het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
-#### Artikel 10. Onderwijs CVQ
+##### Artikel 10. Onderwijs CVQ
 
 1. CVQ onderwijs is het onderwijs, volgend op het onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op aansluitend beroepsonderwijs of op het uitoefenen van een beroep, waarvoor een beroepskwalificerende opleiding is vereist of dienstig kan zijn.
 
 2. Het onderwijs omvat, samen met onderwijs, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=8&z=2022-08-01&g=2022-08-01), en het basisvak Nederlands, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), ten minste 4.700 klokuren verdeeld over een cursusduur van vijf jaar. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
-#### Artikel 11. Buitenschools praktijkgedeelte CVQ
+##### Artikel 11. Buitenschools praktijkgedeelte CVQ
 
 1. Ten minste een vijfde deel van het CVQ onderwijs is onderricht in de praktijk van het beroep.
 
@@ -152,7 +178,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. De wijze waarop het buitenschoolse praktijkgedeelte binnen de CVQ opleidingen wordt ingericht, wordt opgenomen in het schoolplan.
 
-#### Artikel 12. Onderwijs CAPE
+##### Artikel 12. Onderwijs CAPE
 
 1. CAPE onderwijs is het onderwijs, volgend op het CSEC onderwijs, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=9&z=2022-08-01&g=2022-08-01), dat is ingericht ter voorbereiding op wetenschappelijk onderwijs.
 
@@ -166,7 +192,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. Het onderwijs heeft een cursusduur van twee jaar en omvat ten minste 1.700 klokuren. Het bevoegd gezag beschikt over geordende gegevens over de invulling en over de spreiding van de uren over de verschillende leerjaren.
 
-#### Artikel 13. Praktijkonderwijs
+##### Artikel 13. Praktijkonderwijs
 
 1. Praktijkonderwijs is onderwijs bedoeld voor leerlingen voor wie:
 
@@ -180,19 +206,19 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 ### Hoofdstuk 3. Toelating, schorsing en verwijdering
 
-#### Artikel 14. Toelating onderwijssoorten
+##### Artikel 14. Toelating onderwijssoorten
 
 1. Met in achtneming van de regels van CXC beslist het bevoegd gezag tot welke vorm van onderwijs en tot welk leerjaar de leerling wordt toegelaten op grond van criteria die in de schoolgids worden opgenomen.
 
 2. Aan de ouders van een leerling van wie het bevoegd gezag redelijkerwijs kan aannemen dat deze niet in staat is onderwijs CSEC of CVQ 2 met een certificaat af te sluiten, kan het bevoegd gezag voorstellen deze leerling in plaats daarvan praktijkonderwijs te doen volgen. Het [tweede en derde lid van artikel 11.8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=11.8) zijn van overeenkomstige toepassing.
 
-#### Artikel 15. Ontheffing onderdelen onderwijsprogramma
+##### Artikel 15. Ontheffing onderdelen onderwijsprogramma
 
 1. Met inachtneming van de regels van CXC kan het bevoegd gezag na overleg met de ouders een leerling ontheffing verlenen voor onderdelen van het onderwijsprogramma. Het bevoegd gezag bepaalt bij de ontheffing welk onderwijs voor de leerling in de plaats komt voor de onderdelen waarvoor ontheffing is verleend.
 
 2. Het bevoegd gezag kan een leerling uitsluitend ontheffing verlenen van het volgen van het onderwijs in het vak lichamelijke opvoeding indien de leerling vanwege diens lichamelijke gesteldheid niet in staat is dit onderwijs te volgen.
 
-#### Artikel 16. Schorsing
+##### Artikel 16. Schorsing
 
 1. Het bevoegd gezag kan met opgave van redenen een leerling voor een periode van ten hoogste één week schorsen.
 
@@ -200,7 +226,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. Het bevoegd gezag stelt de inspectie van een schorsing voor een periode langer dan één dag schriftelijk en met opgave van redenen in kennis.
 
-#### Artikel 17. Definitieve verwijdering
+##### Artikel 17. Definitieve verwijdering
 
 1. Het bevoegd gezag kan besluiten tot definitieve verwijdering van een leerling nadat deze en, indien de leerling nog niet meerderjarig is, ook diens ouders, voogden of verzorgers, in de gelegenheid is onderscheidenlijk zijn gesteld hierover te worden gehoord. Een leerling wordt op grond van onvoldoende vorderingen niet in de loop van een schooljaar verwijderd.
 
@@ -208,7 +234,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. Het bevoegd gezag stelt de inspectie van een definitieve verwijdering schriftelijk en met opgave van redenen in kennis.
 
-#### Artikel 18. Beslistermijn bij bezwaar
+##### Artikel 18. Beslistermijn bij bezwaar
 
 1. De besluiten tot weigering van de toelating van een kandidaat-leerling of tot definitieve verwijdering van een leerling worden schriftelijk en met opgave van redenen aan de leerling en, indien deze nog niet meerderjarig is, ook aan diens ouders, voogden of verzorgers, bekendgemaakt, waarbij tevens de inhoud van het tweede lid wordt vermeld.
 
@@ -220,7 +246,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 ### Hoofdstuk 4. Examens, CXC certificaat, schooldiploma en startkwalificatie
 
-#### Artikel 19. Examenreglement
+##### Artikel 19. Examenreglement
 
 1. Met inachtneming van de regels van CXC stelt het bevoegd gezag een examenreglement vast, dat in ieder geval regels bevat over:
 
@@ -240,7 +266,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 2. De directeur verstrekt het examenreglement voor aanvang van het schooljaar aan de examenkandidaten en zendt het aan de inspectie.
 
-#### Artikel 20. Examen en certificaat CSEC
+##### Artikel 20. Examen en certificaat CSEC
 
 1. Het bevoegd gezag stelt de leerling die CSEC onderwijs heeft gevolgd in de gelegenheid om een afsluitend examen af te leggen.
 
@@ -248,7 +274,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. De directeur reikt het certificaat CSEC uit aan de leerling die heeft voldaan aan alle eisen die voor het behalen van dat certificaat zijn gesteld.
 
-#### Artikel 21. Assessments en certificaat CVQ
+##### Artikel 21. Assessments en certificaat CVQ
 
 1. Het bevoegd gezag stelt de leerling die CVQ onderwijs heeft gevolgd in de gelegenheid om assessments af te leggen.
 
@@ -258,7 +284,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 4. De directeur reikt het certificaat CVQ uit aan de leerling die heeft voldaan aan alle eisen die voor het behalen van dat certificaat zijn gesteld.
 
-#### Artikel 22. Examen en diploma CAPE
+##### Artikel 22. Examen en diploma CAPE
 
 1. Het bevoegd gezag stelt de leerling die CAPE onderwijs heeft gevolgd in de gelegenheid om een afsluitend examen af te leggen.
 
@@ -266,11 +292,11 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 3. De directeur reikt het diploma CAPE uit aan de leerling die tenminste zes certificaten, waaronder het vak Caribbean Studies, heeft behaald binnen een tijdsbestek van twee jaar.
 
-#### Artikel 23. Schooldiploma praktijkonderwijs
+##### Artikel 23. Schooldiploma praktijkonderwijs
 
 [Artikel 2.58, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.58) is van overeenkomstige toepassing op het praktijkonderwijs.
 
-#### Artikel 24. Schooldiploma
+##### Artikel 24. Schooldiploma
 
 1. De directeur reikt een schooldiploma uit aan de leerling die:
 
@@ -284,7 +310,7 @@ In de eerste drie leerjaren wordt door het bevoegd gezag een samenhangend onderw
 
 2. Bij ministeriële regeling worden de modellen voor de schooldiploma’s vastgesteld.
 
-#### Artikel 25. Startkwalificatie
+##### Artikel 25. Startkwalificatie
 
 Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030281&artikel=1) worden aangewezen:
 
@@ -296,7 +322,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 ### Hoofdstuk 5. Bekostiging
 
-#### Artikel 26. Bekostiging CVQ opleidingen
+##### Artikel 26. Bekostiging CVQ opleidingen
 
 1. Onze Minister kan een CVQ opleiding voor bekostiging in aanmerking brengen indien redelijkerwijs kan worden aangenomen dat deze opleiding zal worden bezocht door een aantal leerlingen dat, mede gelet op de hoogte van de bekostiging die krachtens de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030284) wordt verstrekt, voldoende is om een CVQ opleiding van voldoende kwaliteit in stand te houden.
 
@@ -320,7 +346,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 ### Hoofdstuk 6. Personeel
 
-#### Artikel 27. Leraren
+##### Artikel 27. Leraren
 
 1. Het bevoegd gezag draagt er zorg voor dat aan de school een aantal leraren is verbonden dat nodig is om onderwijs van voldoende kwaliteit te bieden.
 
@@ -328,7 +354,7 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 3. Het bevoegd gezag benoemt, schorst en ontslaat de leraar in algemene dienst.
 
-#### Artikel 28. Directeur en overig personeel
+##### Artikel 28. Directeur en overig personeel
 
 1. Aan het hoofd van de school staat een directeur.
 
@@ -338,17 +364,17 @@ Als diploma in de zin van [artikel 1, onderdeel f, van de Leerplichtwet BES](htt
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 29. Intrekking Tijdelijk besluit
+##### Artikel 29. Intrekking Tijdelijk besluit
 
 Het [Tijdelijk besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0033722) en [Artikel II van het Besluit van 29 juni 2015 tot wijziging van het Tijdelijk besluit Saba Comprehensive School BES in verband met het invoeren van Engelstalig onderwijs aan de Gwendoline van Puttenschool op Sint Eustatius](https://wetten.overheid.nl/jci1.3:c:BWBR0036793&artikel=II) (Stb. 2015, 274) worden ingetrokken.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt, met uitzondering van [artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), terug tot en met 1 augustus 2020.
 
 2. [Artikel 7, eerste, tweede, derde, vijfde, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045020&hoofdstuk=2&artikel=7&z=2022-08-01&g=2022-08-01), treedt in werking met ingang van 1 augustus 2021.
 
-#### Artikel 31. Citeertitel
+##### Artikel 31. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES.
 
@@ -358,11 +384,11 @@ Dit besluit wordt aangehaald als: Besluit Saba Comprehensive School en Gwendolin
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 28a. Toepassing [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
+##### Artikel 28a. Toepassing [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787)
 
 Het [Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787) is niet van toepassing, behoudens de bepalingen die betrekking hebben op het praktijkonderwijs en het buitenschoolse praktijkgedeelte.
 
-#### Artikel 28b. Omhangbepaling
+##### Artikel 28b. Omhangbepaling
 
 Dit besluit berust mede op [artikel 2.86 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.86).
 

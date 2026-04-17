@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie"
+title: "Besluit van de Minister van Financiën, van 6 februari 2020, nr. 23665, tot instelling van de Werkgroep Toolbox Beleidsevaluatie (Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie)"
 identifier: "BWBR0043212"
-categorie: "Overig"
-publicatiedatum: 2020-02-26
-laatste_update: 2020-02-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043212"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-02-26"
+last_updated: "2020-02-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043212"
+soort: "ministeriele-regeling"
+stam_id: "15350033"
+version_id: "26525872"
+internal_id: "C37653571"
+label_id: "15295164"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043212/2020-02-26/0"
+intitule_bron: "Stcrt.2020-10941"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-06"
+intitule_published: "2020-02-25"
+intitule_in_force: "2020-02-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-10941"
+original_signed_date: "2020-02-06"
+original_published_date: "2020-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-10941"
+entry_into_force_date: "2020-02-26"
+jci_1_3: "jci1.3:c:BWBR0043212&z=2020-02-26&g=2020-02-26"
+jci_1_0: "1.0:c:BWBR0043212&g=2020-02-26"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie"
+signed_date: "2020-02-06"
+entry_into_force: "2020-02-26"
 ---
-
 # Besluit van de Minister van Financiën, van 6 februari 2020, nr. 23665, tot instelling van de Werkgroep Toolbox Beleidsevaluatie (Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie)
 
 Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **werkgroep:** werkgroep, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26).
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een werkgroep Toolbox Beleidsevaluatie.
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 3. De Toolbox Beleidsevaluatie zal moeten resulteren in een website waar medewerkers binnen de rijksoverheid informatie kunnen vinden met betrekking tot het uitvoeren van beleidsevaluaties.
 
-#### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
+##### Artikel 3. Samenstelling werkgroep, benoeming leden en instellingsduur
 
 1. De werkgroep bestaat uit een voorzitter en acht leden.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 7. De werkgroep wordt opgeheven twee weken nadat de toolbox zoals bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0043212&artikel=2&z=2020-02-26&g=2020-02-26) aan de minister is aangeboden.
 
-#### Artikel 4. Werkwijze
+##### Artikel 4. Werkwijze
 
 1. De werkgroep stelt haar eigen werkwijze vast.
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder:
 
 5. De minister draagt, na overleg met de werkgroep, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de werkgroep.
 
-#### Artikel 5. Vergoeding
+##### Artikel 5. Vergoeding
 
 1. De voorzitter ontvangt een vaste vergoeding per maand. De toepasselijke salarisschaal voor de voorzitter is salarisschaal 18, hoogste trede, van paragraaf 6.3 van de CAO Rijk. De arbeidsduurfactor voor de voorzitter is 0,15 per maand.
 
@@ -82,15 +108,15 @@ In dit besluit wordt verstaan onder:
 
 4. De vergoeding loopt tot oplevering van de Toolbox met een maximum van zes maanden wat vanaf 15 juli 2020, na wederzijds goedvinden door het externe lid en de minister, kan worden verlengd.
 
-#### Artikel 6. Openbaarmaking
+##### Artikel 6. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de werkgroep worden vervaardigd of vergaard, worden niet door de werkgroep openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 januari 2020.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Werkgroep Toolbox Beleidsevaluatie.
 

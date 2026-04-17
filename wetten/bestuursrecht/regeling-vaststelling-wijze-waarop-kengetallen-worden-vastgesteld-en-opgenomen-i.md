@@ -1,20 +1,46 @@
 ---
-title: "Regeling vaststelling wijze waarop kengetallen worden vastgesteld en opgenomen in begroting en jaarverslag provincies en gemeenten"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten"
 identifier: "BWBR0036853"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-01
-laatste_update: 2019-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036853"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-04-01"
+last_updated: "2019-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036853"
+soort: "ministeriele-regeling"
+stam_id: "13222503"
+version_id: "22574722"
+internal_id: "C32377141"
+label_id: "13190734"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036853/2019-04-01/0"
+intitule_bron: "Stcrt.2015-20619"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-09"
+intitule_published: "2015-07-17"
+intitule_in_force: "2015-07-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-20619"
+original_signed_date: "2015-07-09"
+original_published_date: "2015-07-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-20619"
+entry_into_force_date: "2015-07-18"
+jci_1_3: "jci1.3:c:BWBR0036853&z=2019-04-01&g=2019-04-01"
+jci_1_0: "1.0:c:BWBR0036853&g=2019-04-01"
+citeertitel_status: "redactioneel"
+short_title: "Regeling vaststelling wijze waarop kengetallen worden vastgesteld en opgenomen in begroting en jaarverslag provincies en gemeenten"
+signed_date: "2015-07-09"
+entry_into_force: "2015-07-18"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2015, nr. 2015-0000387198, tot vaststelling van de wijze waarop kengetallen worden vastgesteld en opgenomen in de begroting en het jaarverslag van provincies en gemeenten
 
 Gelet op [artikel 11, derde lid, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=11);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De kengetallen bedoeld in [artikel 11, tweede lid, onderdeel d, van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=11) worden:
 
@@ -22,7 +48,7 @@ De kengetallen bedoeld in [artikel 11, tweede lid, onderdeel d, van het Besluit 
 
 - b. opgenomen in de begroting en het jaarverslag met behulp van de tabellen die in de bij deze regeling bijgevoegde [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036853&bijlage=2&z=2019-04-01&g=2019-04-01) zijn opgenomen.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/246341, houdende regels voor het kunnen aanwijzen en aanmelden van keuringsinstanties voor pleziervaartuigen (Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen)"
 identifier: "BWBR0037425"
-categorie: "Overig"
-publicatiedatum: 2015-12-25
-laatste_update: 2015-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037425"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-12-25"
+last_updated: "2015-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037425"
+soort: "ministeriele-regeling"
+stam_id: "13360893"
+version_id: "22904962"
+internal_id: "C33127171"
+label_id: "13328824"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037425/2015-12-25/0"
+intitule_bron: "Stcrt.2015-47073"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-18"
+intitule_published: "2015-12-24"
+intitule_in_force: "2015-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-47073"
+original_signed_date: "2015-12-18"
+original_published_date: "2015-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-47073"
+entry_into_force_date: "2015-12-25"
+jci_1_3: "jci1.3:c:BWBR0037425&z=2015-12-25&g=2015-12-25"
+jci_1_0: "1.0:c:BWBR0037425&g=2015-12-25"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen"
+signed_date: "2015-12-18"
+entry_into_force: "2015-12-25"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 18 december 2015, nr. IENM/BSK-2015/246341, houdende regels voor het kunnen aanwijzen en aanmelden van keuringsinstanties voor pleziervaartuigen (Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen)
 
 Gelet op [artikel 8, tweede lid, van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=8);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanvragen aanwijzing keuringsinstantie
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag om te worden aangewezen als keuringsinstantie op grond van [artikel 8, eerste lid, van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=8), vermeldt:
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 3. Een wijziging van de artikelen 20 tot en met 24 van de richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvraag gaat vergezeld van de volgende gegevens en bescheiden:
 
@@ -70,27 +96,27 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Beoordelingscriteria
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een aan te wijzen keuringsinstantie is naar Nederlands recht opgericht en in Nederland gevestigd of als in Nederland gevestigde nevenvestiging van een buitenlands bedrijf ingeschreven in het handelsregister.
 
 2. De aan te wijzen keuringsinstantie is verplicht een verzekering tegen wettelijke aansprakelijkheid te hebben waarvan de verzekerde som ten minste € 2.268.901 per gebeurtenis bedraagt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aan te wijzen keuringsinstantie voldoet aan de criteria die zijn opgenomen in artikel 30 van de richtlijn.
 
 2. Een wijziging van artikel 30 van de richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 Een aan te wijzen keuringsinstantie wordt vermoed te voldoen aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037425&paragraaf=3&artikel=5&z=2015-12-25&g=2015-12-25) indien zij voor de taken waarvoor aanwijzing wordt gevraagd is geaccrediteerd door de RvA.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geharmoniseerde normen of delen ervan, waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, geldt als veronderstelling dat zij voldoet aan de in deze regeling gestelde criteria voor de beoordeling voor zover de toepasselijke geharmoniseerde normen met die criteria overeenkomen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien een keuringsinstantie, met instemming van de klant, taken in verband met de keuring uitbesteedt of door een dochteronderneming laat uitvoeren, waarborgt zij dat de onderaannemer of dochteronderneming aan de eisen van artikel 30 van de richtlijn voldoet en stelt zij de Minister hiervan in kennis.
 
@@ -100,7 +126,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 #### § 4. Keuringen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een aangemelde keuringsinstantie voert keuringen uit volgens de keuringsprocedures, bedoeld in de artikelen 19 tot en met 24 van de richtlijn.
 
@@ -112,7 +138,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 5. Indien de fabrikant of particuliere importeur geen corrigerende maatregelen neemt of de genomen maatregelen niet het vereiste effect hebben, worden de certificaten door de aangemelde keuringsinstantie naargelang het geval beperkt, opgeschort of ingetrokken.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een aangemelde keuringsinstantie stelt de Minister in kennis van:
 
@@ -128,7 +154,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 #### § 5. Toezicht
 
-#### Artikel 11
+##### Artikel 11
 
 De keuringsinstantie stelt de Minister onverwijld in kennis van:
 
@@ -138,27 +164,27 @@ De keuringsinstantie stelt de Minister onverwijld in kennis van:
 
 - c. indien zij niet over een accreditatie als bedoeld in onderdeel b beschikt: wijzigingen in de organisatie, de bedrijfsinterne procedures of de personele bezetting van de keuringsinstantie, voor zover die wijzigingen relevant zijn voor de wijze waarop of de mate waarin de keuringsinstantie voldoet aan [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0037425&paragraaf=3&artikel=5&z=2015-12-25&g=2015-12-25).
 
-#### Artikel 12
+##### Artikel 12
 
 Een keuringsinstantie verstrekt de Minister jaarlijks voor 1 maart een schriftelijke rapportage over de in het voorgaande kalenderjaar door haar uitgevoerde keuringen en procedures van overeenstemmingsbeoordeling in het kader van de [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366).
 
 #### § 6. Kosten
 
-#### Artikel 13
+##### Artikel 13
 
 Een door de RvA onderzochte aanvrager, dan wel een door de RvA onderzochte keuringsinstantie, vergoedt de RvA de in rekening gebrachte kosten.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 De [Regeling keuringsinstanties Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008383) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling aanwijzen en aanmelden keuringsinstanties Wet pleziervaartuigen.
 

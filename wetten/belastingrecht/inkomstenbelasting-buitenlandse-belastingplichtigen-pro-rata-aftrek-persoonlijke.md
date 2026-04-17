@@ -1,13 +1,38 @@
 ---
 title: "Inkomstenbelasting, buitenlandse belastingplichtigen, pro-rata-aftrek persoonlijke aftrekposten en tegemoetkomingen als niet is voldaan aan de 90%-eis"
 identifier: "BWBR0042885"
-categorie: "Belastingrecht"
-publicatiedatum: 2019-12-14
-laatste_update: 2017-02-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042885"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-12-14"
+last_updated: "2017-02-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042885"
+soort: "beleidsregel"
+stam_id: "15274183"
+version_id: "26313022"
+internal_id: "C37401151"
+label_id: "15220224"
+dtd_version: "2.0"
+original_entry_into_force: "2019-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042885/2019-12-14/0"
+intitule_bron: "Stcrt.2019-66192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-03"
+intitule_published: "2019-12-13"
+intitule_in_force: "2019-12-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-66192"
+original_signed_date: "2019-12-03"
+original_published_date: "2019-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-66192"
+entry_into_force_date: "2019-12-14"
+jci_1_3: "jci1.3:c:BWBR0042885&z=2019-12-14&g=2019-12-14"
+jci_1_0: "1.0:c:BWBR0042885&g=2019-12-14"
+citeertitel_status: "redactioneel"
+signed_date: "2019-12-03"
+entry_into_force: "2019-12-14"
 ---
-
 # Inkomstenbelasting, buitenlandse belastingplichtigen, pro-rata-aftrek persoonlijke aftrekposten en tegemoetkomingen als niet is voldaan aan de 90%-eis
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

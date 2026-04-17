@@ -1,13 +1,39 @@
 ---
-title: "Regeling beleidsvoorbereiding en verantwoording waterschappen"
+title: "Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende voorschriften inzake de beleidsvoorbereiding en de verantwoording van waterschappen (Regeling beleidsvoorbereiding en verantwoording waterschappen)"
 identifier: "BWBR0024848"
-categorie: "Milieu"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024848"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024848"
+soort: "ministeriele-regeling"
+stam_id: "9795133"
+version_id: "15902092"
+internal_id: "C21803581"
+label_id: "9772044"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024848/2025-01-01/0"
+intitule_bron: "Stcrt.2008-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-02"
+intitule_published: "2008-12-11"
+intitule_in_force: "2008-12-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-241"
+original_signed_date: "2008-12-02"
+original_published_date: "2008-12-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1730"
+entry_into_force_date: "2008-12-13"
+jci_1_3: "jci1.3:c:BWBR0024848&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0024848&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beleidsvoorbereiding en verantwoording waterschappen"
+signed_date: "2008-12-02"
+entry_into_force: "2008-12-13"
 ---
-
 # Regeling van de Staatssecretaris van Verkeer en Waterstaat, houdende voorschriften inzake de beleidsvoorbereiding en de verantwoording van waterschappen (Regeling beleidsvoorbereiding en verantwoording waterschappen)
 
 Handelende in overeenstemming met de Staatssecretaris van Economische Zaken;
@@ -18,7 +44,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt onder besluit verstaan: [Waterschapsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025).
 
@@ -28,7 +54,7 @@ Besluit:
 
 #### § 2. Kengetallen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kengetallen nettoschuldquote, EMU-saldo, wendbaarheid van de begroting en lastendruk worden berekend op de wijze zoals bepaald in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=1&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
@@ -42,7 +68,7 @@ Besluit:
 
 #### § 3. Bijzondere voorschriften ten aanzien van de kostendragers
 
-#### Artikel 3
+##### Artikel 3
 
 Onder de in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.11), genoemde kostendragers wordt verstaan:
 
@@ -52,45 +78,45 @@ Onder de in [artikel 4.11, eerste lid, van het besluit](https://wetten.overheid.
 
 - c. **wegenbeheer:** krachtens de [artikelen 15 tot en met 18 van de Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=15) opgedragen zorg voor wegen.
 
-#### Artikel 4
+##### Artikel 4
 
 De kosten- en opbrengstsoorten, bedoeld in de [artikelen 4.74, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), en [4.75, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2025-01-01&g=2025-01-01) bij deze regeling.
 
 #### § 4. Voorschriften ten aanzien van de uitvoeringsinformatie
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 1. De uitvoeringsinformatie, bedoeld in de [artikelen 4.73](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.73), [4.74, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), [4.75, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75), 4.74, zesde lid, en 4.75, vijfde lid, van het [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025) wordt ingedeeld volgens de door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking.
 
 2. De door de Unie van Waterschappen vastgestelde afspraken voor bedrijfsvergelijking, bedoeld in het eerste lid, zijn opgenomen op de website van de Unie van Waterschappen en gepubliceerd via [www.uvw.nl](www.uvw.nl), dossier ‘Verslaggeving waterschappen’.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 5. Bijzondere voorschriften ten aanzien van de informatieverstrekking aan derden
 
-#### Artikel 12
+##### Artikel 12
 
 1. Binnen een maand na afloop van ieder kwartaal verstrekt het dagelijks bestuur van het waterschap de volgende informatie aan het CBS:
 
@@ -218,7 +244,7 @@ Vervallen
 
 3. Het CBS beoordeelt de informatie, bedoeld in het eerste lid, op plausibiliteit en stuurt de bevindingen op naar het betreffende dagelijks bestuur.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Jaarlijks voor 15 juli van het jaar volgend op het begrotingsjaar verstrekt het dagelijks bestuur van het waterschap, op basis van de vastgestelde jaarrekening, de volgende informatie aan het CBS:
 
@@ -246,7 +272,7 @@ Vervallen
 
 3. De informatie, bedoeld in de [artikelen 4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.24) en [4.75, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75), wordt voor 15 juli van het jaar volgend op het begrotingsjaar door het betreffende dagelijks bestuur aan het CBS gezonden.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Jaarlijks voor 1 december van het jaar voorafgaand aan het begrotingsjaar verstrekt het dagelijks bestuur van het waterschap, op basis van de vastgestelde begroting, de volgende informatie aan het CBS:
 
@@ -264,11 +290,11 @@ Vervallen
 
 #### § 6. Slotbepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling beleidsvoorbereiding en verantwoording waterschappen.
 
@@ -341,7 +367,7 @@ Wat betreft de opbrengstsoorten luidt de indeling als volgt:
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 De kosten- en opbrengstsoorten, bedoeld in de [artikelen 4.74, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.74), en [4.75, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0023025&artikel=4.75) volgen de indeling die is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024848&bijlage=2&z=2025-01-01&g=2024-01-01) bij deze regeling.
 

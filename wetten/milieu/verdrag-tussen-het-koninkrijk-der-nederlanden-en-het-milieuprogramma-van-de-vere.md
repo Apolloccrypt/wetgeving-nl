@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties betreffende de zetel van het coördinatiekantoor van het Wereldomvattend Programma van actie tot bescherming van het mariene milieu tegen activiteiten die op het land plaatsvinden"
 identifier: "BWBV0001315"
-categorie: "Milieu"
-publicatiedatum: 2002-02-15
-laatste_update: 2002-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001315"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-02-15"
+last_updated: "2002-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001315"
+soort: "verdrag"
+stam_id: "10000616253"
+version_id: "10000634432"
+internal_id: "C10007608381"
+label_id: "10000616494"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001315/2002-02-15/0"
+intitule_bron: "Trb.1997-326"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-24"
+intitule_published: "1997-12-31"
+intitule_in_force: "1997-12-31"
+intitule_status: "goed"
+original_publication: "Trb.1997-326"
+original_signed_date: "1997-11-24"
+original_published_date: "1997-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-326"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBV0001315&z=2002-02-15&g=2002-02-15"
+jci_1_0: "1.0:c:BWBV0001315&g=2002-02-15"
+citeertitel_status: "officieel"
+signed_date: "1997-11-24"
+entry_into_force: "1998-01-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Milieuprogramma van de Verenigde Naties betreffende de zetel van het coördinatiekantoor van het Wereldomvattend Programma van actie tot bescherming van het mariene milieu tegen activiteiten die op het land plaatsvinden
 
 The Kingdom of the Netherlands,
@@ -30,7 +54,7 @@ Have agreed as follows:
 
 Voor inwerkingtreding zie ook Trb. 1997/326. Voor inwerkingtreding zie ook Trb. 2002/215.
 
-#### Article I. Definitions
+##### Article I. Definitions
 
 In this Agreement:
 
@@ -54,31 +78,31 @@ In this Agreement:
 
 - j). “Convention” means the Convention on the Privileges and Immunities of the United Nations of 13 February 1946.
 
-#### Article 2. Application of the Convention
+##### Article 2. Application of the Convention
 
 Except as otherwise provided in this Agreement, the status, privileges and immunities of the Coordination Office shall be governed by the provisions of the Convention.
 
-#### Article 3. Use and Occupation of Premises
+##### Article 3. Use and Occupation of Premises
 
 1. The Government of the Kingdom of the Netherlands grants to UNEP, and UNEP accepts from the Government, the use and occupation of Premises of the Coordination Office, as described in the Annex to this Agreement.
 
 2. The Coordination Office may establish and operate research, documentation and other technical facilities. These facilities shall be subject to appropriate safeguards which, in the case of facilities which might create hazards to health or safety or interfere with property, shall be agreed upon with the appropriate authorities of the Government.
 
-#### Article 4. Immunity from Legal Process
+##### Article 4. Immunity from Legal Process
 
 Within the scope of its official activities, the Coordination Office shall enjoy immunity from any form of legal process, except in the case of civil action by a third party for damages arising out of an accident caused by a vehicle belonging to or operated on behalf of the Coordination Office.
 
-#### Article 5. Inviolability of the Premises
+##### Article 5. Inviolability of the Premises
 
 1. Any person authorized to enter any place under any legal provision shall not exercise that authority in respect of the Premises of the Coordination Office unless permission to do so has been given by or on behalf of the Executive Director of UNEP or the Coordinator acting on his behalf. Such permission may, however, be presumed in the event of fire or other emergencies requiring prompt protective action. Any person who has entered the Premises with the presumed permission of the Executive Director of UNEP or the Coordinator acting on his behalf shall, if so requested by the Executive Director of UNEP or the Coordinator acting on his behalf, leave the premises immediately.
 
 2. In other cases, the Executive Director of UNEP or the Coordinator acting on his behalf, shall give serious consideration to a request for permission from the Netherlands authorities to enter the Premises, without prejudice to the interests of the Coordination Office.
 
-#### Article 6. Inviolability of the Archives
+##### Article 6. Inviolability of the Archives
 
 The inviolability of the archives shall be understood to apply to all records, correspondence, manuscripts, photographs, films, recordings, documents, computer data and computer files belonging to or held by the Coordination Office.
 
-#### Article 7. Exemption from Taxes and Duties
+##### Article 7. Exemption from Taxes and Duties
 
 1. In addition to section 7 and 8 of the Convention the Coordination Office shall, within the scope of its official activities, be exempt from the following taxes:
 
@@ -100,7 +124,7 @@ The inviolability of the archives shall be understood to apply to all records, c
 
 3. Goods acquired or imported under the terms set out in this article shall not be sold, given away, or otherwise disposed of in the Netherlands, except in accordance with conditions agreed upon with the Government.
 
-#### Article 8. Privileges and Immunities of Officials
+##### Article 8. Privileges and Immunities of Officials
 
 1. In addition to the provisions of section 18 of the Convention the Officials shall also:
 
@@ -118,13 +142,13 @@ The inviolability of the archives shall be understood to apply to all records, c
 
 5. Immunity shall not apply in the case of a motor-traffic offence committed by an official, nor in the case of a civil action by a third party for damage arising from an accident caused by a motor vehicle belonging or driven by an official.
 
-#### Article 9. Privileges and Immunities of Experts
+##### Article 9. Privileges and Immunities of Experts
 
 1. Article VI of the Convention shall apply to experts.
 
 2. With respect to section 22 of the Convention, the immunities provided therein shall not apply to civil action by a third party for damage arising from an accident caused by a motor vehicle belonging to or driven by him.
 
-#### Article 10. Notification
+##### Article 10. Notification
 
 With respect to section 17 of the Convention the following shall also apply:
 
@@ -140,13 +164,13 @@ With respect to section 17 of the Convention the following shall also apply:
 
 3. The Government shall issue to the Officials, to the dependant members of the families forming part of the households of the Officials and to the domestic employees of the Officials an identity card bearing the photograph of the holder. This card shall serve to identify the holder in relation to the Host State authorities.
 
-#### Article 11. Social Security
+##### Article 11. Social Security
 
 1. In the event that the Coordination Office shall have established its own social security system or shall adhere to a social security system offering comparable coverage to the coverage under the legislation of the Netherlands, the Coordination Office and its Officials to whom the aforementioned scheme applies, shall be exempt from social security provisions in the Netherlands.
 
 2. The provisions of paragraph 1 of this article shall apply, mutatis mutandis, to the dependant members of the families forming part of the households of the Officials, unless they are employed otherwise than by the Coordination Office or self-employed in the Netherlands or unless they receive social security benefits from the Kingdom of Netherlands.
 
-#### Article 12. Employment of Family Members of Officials
+##### Article 12. Employment of Family Members of Officials
 
 1. Members of the family forming part of the household of the Officials shall be authorised to engage in gainful employment in the Netherlands for the duration of the term of office of the Officials concerned.
 
@@ -164,23 +188,23 @@ With respect to section 17 of the Convention the following shall also apply:
 
 5. The employment referred to in paragraph 1 of this Article shall be in accordance with Netherlands legislation, including fiscal and social security legislation, unless any other applicable international legal instrument provides otherwise."
 
-#### Article 13. Services, Facilities, Contributions and Support to be provided by the Government of the Kingdom of the Netherlands
+##### Article 13. Services, Facilities, Contributions and Support to be provided by the Government of the Kingdom of the Netherlands
 
 The services and facilities to be provided by the Government are contained in the Annex to this Agreement. The Executive Director of UNEP shall establish a trust fund for the receipt and distribution of contributions in cash by the Government of the Kingdom of the Netherlands in support of the Coordination Office.
 
-#### Article 14. Settlement of Disputes
+##### Article 14. Settlement of Disputes
 
 1. Any dispute between the Parties concerning the interpretation or application of this Agreement shall be settled through negotiation or any other means agreed by the Parties.
 
 2. If the dispute cannot be settled through the means mentioned in paragraph 1 above it may be submitted, at the request of any Party, to final and binding arbitration in accordance with the Permanent Court of Arbitration Optional Rules for Arbitration involving International Organisations and States of July 1996, as in effect on the date of submission of the dispute to the Court. The number of arbitrators shall be three.
 
-#### Article 15. Amendments to Agreement
+##### Article 15. Amendments to Agreement
 
 1. At the request of either Party, this Agreement as well as the Annex may be amended by mutual consent at any time.
 
 2. Any such amendment may be effected by an exchange of Notes.
 
-#### Article 16. Duration of Agreement and Conditions of Termination
+##### Article 16. Duration of Agreement and Conditions of Termination
 
 1. The Agreement will be in effect for an initial period of five years after being signed by the Parties. All services and facilities being offered by the Government are immediately available for use by UNEP for the purposes agreed upon in this Agreement for the implementation of the GPA.
 
@@ -190,7 +214,7 @@ The services and facilities to be provided by the Government are contained in th
 
 4. Upon the termination of this Agreement, property, furniture, equipment and other items that are made available by either UNEP or the Government will remain the property of UNEP or of the Kingdom of the Netherlands, as the case may be.
 
-#### Article 17. Entry into Force
+##### Article 17. Entry into Force
 
 1. This Agreement shall enter into force on the first day of the second month after the date of signing the Agreement.
 

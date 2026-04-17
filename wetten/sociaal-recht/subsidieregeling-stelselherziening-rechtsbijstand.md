@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling Stelselherziening rechtsbijstand"
 identifier: "BWBR0043033"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043033"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043033"
+soort: "zbo"
+stam_id: "15309883"
+version_id: "26394462"
+internal_id: "C37503191"
+label_id: "15255924"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043033/2020-01-01/0"
+intitule_bron: "Stcrt.2020-1064"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-12-17"
+intitule_published: "2020-01-03"
+intitule_in_force: "2020-01-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-1064"
+original_signed_date: "2019-12-17"
+original_published_date: "2020-01-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-1064"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0043033&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0043033&g=2020-01-01"
+citeertitel_status: "officieel"
+signed_date: "2019-12-17"
+entry_into_force: "2020-01-01"
 ---
-
 # Subsidieregeling Stelselherziening rechtsbijstand
 
 gelet op [artikel 37c van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37c), waarin is bepaald dat het bestuur van de raad met het oog op de verlening van rechtsbijstand subsidie kan verstrekken voor bijzondere doeleinden en projecten,
@@ -20,7 +45,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 - a. Aanvraagformulier: het door de raad vastgestelde en beschikbaar gestelde formulier ten behoeve van het aanvragen van een subsidie;
 
@@ -52,13 +77,13 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 - o. De wet: de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel vast te leggen voor welke activiteiten een subsidie kan worden verleend ten behoeve van een project.
 
 ### Hoofdstuk II. Uitvoering
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 1. Deze regeling is van toepassing op projecten.
 
@@ -74,11 +99,11 @@ Deze regeling heeft tot doel vast te leggen voor welke activiteiten een subsidie
 
 - d. activiteiten die de reguliere (bedrijfs)activiteiten van de aanvrager niet overstijgen.
 
-#### Artikel 4. Beslissingsbevoegdheid subsidieverstrekking
+##### Artikel 4. Beslissingsbevoegdheid subsidieverstrekking
 
 Het bestuur is bevoegd tot het nemen van alle besluiten ter uitvoering van deze regeling.
 
-#### Artikel 5. Het subsidieplafond
+##### Artikel 5. Het subsidieplafond
 
 1. Het subsidieplafond bedraagt € 10.000.000,–.
 
@@ -90,17 +115,17 @@ Het bestuur is bevoegd tot het nemen van alle besluiten ter uitvoering van deze 
 
 ### Hoofdstuk III. De subsidieverlening
 
-#### Artikel 6. Wijze van verdeling
+##### Artikel 6. Wijze van verdeling
 
 1. Aanvragen worden beoordeeld op volgorde van binnenkomst.
 
 2. De datum van ontvangst door de raad is leidend. Bij complete aanvragen die binnenkomen op dezelfde dag vindt er – indien het subsidieplafond inwilliging van aanvragen in de weg staat – loting plaats, teneinde de volgorde van binnenkomst te bepalen.
 
-#### Artikel 7. Tijdvak indienen aanvraag
+##### Artikel 7. Tijdvak indienen aanvraag
 
 Een aanvraag kan worden ingediend van 1 maart 2020 tot en met 31 december 2020.
 
-#### Artikel 8. Procedurele indieningsvereisten aanvraag
+##### Artikel 8. Procedurele indieningsvereisten aanvraag
 
 1. Een aanvraag wordt schriftelijk ingediend bij het bestuur, tenminste acht weken voor aanvang van de activiteiten waarvoor subsidie wordt aangevraagd.
 
@@ -114,7 +139,7 @@ Een aanvraag kan worden ingediend van 1 maart 2020 tot en met 31 december 2020.
 
 6. Bij de aanvraag wordt een overzicht gevoegd van de bij het project inhoudelijk betrokken deskundigen, hun werkervaring of curriculum vitae en een toelichting op hun activiteiten binnen het project.
 
-#### Artikel 9. Inhoudelijke indieningsvereisten aanvraag
+##### Artikel 9. Inhoudelijke indieningsvereisten aanvraag
 
 1. Bij de aanvraag wordt de verwachte doorlooptijd van het project en de activiteiten aangegeven en de verwachte start- en einddatum van het project en de activiteiten.
 
@@ -146,7 +171,7 @@ Een aanvraag kan worden ingediend van 1 maart 2020 tot en met 31 december 2020.
 
 - e. indien van toepassing, een omschrijving van de eventuele eigen bijdrage aan de uitvoering van het project en/of de activiteiten.
 
-#### Artikel 10. Beoordelingscriteria aanvraag
+##### Artikel 10. Beoordelingscriteria aanvraag
 
 De aanvraag wordt beoordeeld aan de hand van de volgende criteria:
 
@@ -182,13 +207,13 @@ Ten aanzien van bruikbaarheid in de praktijk, de resultaten en het opdoen van ke
 
 - m. geven het resultaat en de uitkomsten van het project en de activiteiten houvast voor toekomstige invulling en herziening van het stelsel van gefinancierde rechtsbijstand.
 
-#### Artikel 11. Adviescommissie
+##### Artikel 11. Adviescommissie
 
 1. De aanvraag wordt, voorafgaand aan het nemen van een besluit, door het bestuur voorgelegd aan de adviescommissie voor een inhoudelijke toets.
 
 2. De adviescommissie adviseert het bestuur over de aanvraag en de verlening van subsidie op grond van deze regeling, meer in het bijzonder over toepassing van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&hoofdstuk=III&artikel=8&z=2020-01-01&g=2020-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&hoofdstuk=III&artikel=9&z=2020-01-01&g=2020-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&hoofdstuk=III&artikel=10&z=2020-01-01&g=2020-01-01) en [13 sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0043033&hoofdstuk=IV&artikel=13&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 12. Beschikking tot subsidieverlening
+##### Artikel 12. Beschikking tot subsidieverlening
 
 1. Het bestuur beslist, binnen acht weken na indiening, op de aanvraag met inachtneming van deze regeling.
 
@@ -204,7 +229,7 @@ Ten aanzien van bruikbaarheid in de praktijk, de resultaten en het opdoen van ke
 
 ### Hoofdstuk IV. Weigeringsgronden
 
-#### Artikel 13. Weigering subsidie
+##### Artikel 13. Weigering subsidie
 
 1. De subsidie kan, onverminderd de in [artikel 4:35 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) genoemde weigeringsgronden, worden geweigerd indien:
 
@@ -218,7 +243,7 @@ Ten aanzien van bruikbaarheid in de praktijk, de resultaten en het opdoen van ke
 
 ### Hoofdstuk V. Verplichtingen van de subsidieontvanger
 
-#### Artikel 14. Subsidieverplichtingen
+##### Artikel 14. Subsidieverplichtingen
 
 1. Het bestuur kan een subsidieontvanger in de beschikking tot subsidieverlening verplichtingen opleggen als bedoeld in [artikel 4:37 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:37).
 
@@ -238,7 +263,7 @@ Ten aanzien van bruikbaarheid in de praktijk, de resultaten en het opdoen van ke
 
 6. De subsidieontvanger is ermee bekend en akkoord dat er ook communicatie uitingen vanuit de raad kunnen worden gedaan over het project.
 
-#### Artikel 15. Intellectueel eigendom
+##### Artikel 15. Intellectueel eigendom
 
 1. Alle resultaten van het project, die tot stand zijn gekomen met subsidie als bedoeld in de onderhavige regeling, dienen uiterlijk twee maanden na afloop van de activiteiten beschikbaar te worden gesteld aan de raad voor verder onderzoek en/of exploitatie. De subsidieontvanger werkt mee aan het tot stand komen van een overeenkomst indien het naar het oordeel van het bestuur noodzakelijk is om rechten met betrekking tot intellectuele eigendom ter zake van de activiteiten en/of het project aan de raad over te dragen.
 
@@ -248,11 +273,11 @@ Ten aanzien van bruikbaarheid in de praktijk, de resultaten en het opdoen van ke
 
 4. Met de indiening van de aanvraag geeft de auteursrechthebbende de raad toestemming om ter bevordering van de kennisoverdracht en evaluatie van resultaten van het project verplichtingen ten aanzien van de auteursrechten die in het kader van het project worden gecreëerd vast te stellen.
 
-#### Artikel 16. Tussentijdse rapportage
+##### Artikel 16. Tussentijdse rapportage
 
 Bij subsidieverlening vanaf € 25.000,– kan het bestuur de subsidieontvanger bij de beschikking tot subsidieverlening verplichten tot het tussentijds afleggen van rekening en verantwoording omtrent de verrichte activiteiten en de daaraan verbonden uitgaven en inkomsten.
 
-#### Artikel 17. Informatieplicht
+##### Artikel 17. Informatieplicht
 
 1. De subsidieontvanger stelt het bestuur onverwijld schriftelijk op de hoogte van feiten en ontwikkelingen die ertoe leiden of kunnen leiden dat de activiteiten en/of het project niet kunnen worden verwezenlijkt.
 
@@ -266,13 +291,13 @@ Bij subsidieverlening vanaf € 25.000,– kan het bestuur de subsidieontvanger 
 
 ### Hoofdstuk VI. De subsidievaststelling
 
-#### Artikel 18. Subsidies tot € 25.000,–
+##### Artikel 18. Subsidies tot € 25.000,–
 
 1. Een subsidie tot € 25.000,– wordt door het bestuur direct vastgesteld.
 
 2. De subsidieontvanger dient binnen twee maanden na afloop van het project of de activiteiten aan het bestuur te melden of de activiteiten waarvoor subsidie is verstrekt zijn verricht, en dat is voldaan aan de verplichtingen die aan de subsidie zijn verbonden. In de beschikking wordt opgenomen op welk moment of voor welke datum de melding moet worden ingediend en wat deze melding moet bevatten.
 
-#### Artikel 19. Aanvraag tot subsidievaststelling
+##### Artikel 19. Aanvraag tot subsidievaststelling
 
 1. De subsidieontvanger dient binnen twee maanden na afloop van de activiteiten schriftelijk een aanvraag tot subsidievaststelling in, tenzij:
 
@@ -294,34 +319,34 @@ Bij subsidieverlening vanaf € 25.000,– kan het bestuur de subsidieontvanger 
 
 8. Bij de aanvraag legt de aanvrager rekening en verantwoording af omtrent de aan de activiteiten verbonden uitgaven en inkomsten, voor zover deze voor de vaststelling van de subsidie van belang zijn.
 
-#### Artikel 20. Vaststelling subsidie
+##### Artikel 20. Vaststelling subsidie
 
 1. De subsidie kan op een lager bedrag dan waarvoor subsidie is verleend worden vastgesteld in gevallen als bedoeld in [artikel 4:46, tweede lid, Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46).
 
 2. Het bestuur kan de subsidie geheel of gedeeltelijk ambtshalve vaststellen in gevallen als bedoeld in [artikel 4:47 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:47).
 
-#### Artikel 21. Verrekening voorschot
+##### Artikel 21. Verrekening voorschot
 
 Bij de vaststelling wordt het aan de subsidieontvanger verleende voorschot verrekend.
 
 ### Hoofdstuk VII. Bijzondere bepalingen
 
-#### Artikel 22. Toezicht op de naleving
+##### Artikel 22. Toezicht op de naleving
 
 Het bestuur kan personen aanwijzen die met het toezicht op de naleving conform[titel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2), meer in het bijzonder [artikel 5:11 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:11), ten aanzien van het bepaalde bij of krachtens deze regeling zijn belast.
 
-#### Artikel 23. Looptijd
+##### Artikel 23. Looptijd
 
 De einddatum van activiteiten binnen projecten waarvoor subsidie is verleend dient uiterlijk 31 december 2022 te zijn.
 
-#### Artikel 24. Inwerkingtreding
+##### Artikel 24. Inwerkingtreding
 
 Deze regeling is vastgesteld op 17 december 2019 en treedt in werking op 1 januari 2020.
 
-#### Artikel 25. Aanhalen regeling
+##### Artikel 25. Aanhalen regeling
 
 Deze regeling wordt aangehaald als ‘Subsidieregeling Stelselherziening rechtsbijstand’.
 
-#### Artikel 26. Publicatie
+##### Artikel 26. Publicatie
 
 Deze regeling zal met toelichting in de Staatscourant worden gepubliceerd.

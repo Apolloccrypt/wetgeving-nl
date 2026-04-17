@@ -1,13 +1,39 @@
 ---
-title: "Besluit bestuurlijke boete overlast in de openbare ruimte"
+title: "Besluit van 15 december 2008 tot aanwijzing van voorschriften en vaststelling van boetetarieven als bedoeld in artikel 154b, eerste lid, onderdelen a en b, en zevende lid, van de Gemeentewet (Besluit bestuurlijke boete overlast in de openbare ruimte)"
 identifier: "BWBR0024941"
-categorie: "Strafrecht"
-publicatiedatum: 2026-04-01
-laatste_update: 2026-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024941"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-04-01"
+last_updated: "2026-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024941"
+soort: "AMvB"
+stam_id: "9821403"
+version_id: "15960942"
+internal_id: "C22061721"
+label_id: "9797974"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024941/2026-04-01/0"
+intitule_bron: "Stb.2008-580"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-15"
+intitule_published: "2008-12-24"
+intitule_in_force: "2009-01-13"
+intitule_status: "goed"
+original_publication: "Stb.2008-580"
+original_signed_date: "2008-12-15"
+original_published_date: "2008-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-580"
+entry_into_force_date: "2009-01-14"
+jci_1_3: "jci1.3:c:BWBR0024941&z=2026-04-01&g=2026-04-01"
+jci_1_0: "1.0:c:BWBR0024941&g=2026-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit bestuurlijke boete overlast in de openbare ruimte"
+signed_date: "2008-12-15"
+entry_into_force: "2009-01-14"
 ---
-
 # Besluit van 15 december 2008 tot aanwijzing van voorschriften en vaststelling van boetetarieven als bedoeld in artikel 154b, eerste lid, onderdelen a en b, en zevende lid, van de Gemeentewet (Besluit bestuurlijke boete overlast in de openbare ruimte)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 november 2008, nr. 2008-0000547516;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet bestuurlijke boete overlast in de openbare ruimte in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit en de daarbij behorende bijlage wordt verstaan onder:
 
 - c. **bestuurlijke boete:** een bestuurlijke boete als bedoeld in [artikel 154b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b).
 
-#### Artikel 2
+##### Artikel 2
 
 Geen bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften als bedoeld in [artikel 154b, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b), voor zover die voorschriften betrekking hebben op:
 
@@ -58,7 +84,7 @@ Geen bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften a
 
 - k. drugshandel op straat.
 
-#### Artikel 3
+##### Artikel 3
 
 Een bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften als bedoeld in [artikel 154b, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=154b), voor zover die voorschriften betrekking hebben op:
 
@@ -84,29 +110,29 @@ Een bestuurlijke boete kan worden opgelegd voor overtreding van voorschriften al
 
 - k. het zich ontdoen van een autowrak, afkomstig uit een huishouden, anders dan door afgifte aan degenen, bedoeld in [artikel 6 van het Besluit beheer autowrakken](https://wetten.overheid.nl/jci1.3:c:BWBR0013707&artikel=6).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij overtreding van een voorschrift, genoemd in de bijlage van dit besluit, is de hoogte van de bestuurlijke boete gelijk aan het bedrag dat in de bijlage is opgenomen bij het desbetreffende voorschrift.
 
 2. De boetebedragen, genoemd in de bijlage, gelden voor natuurlijke personen.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Transactiebesluit 1994.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Transactiebesluit milieudelicten.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit OM-afdoening.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet bestuurlijke boete overlast in de openbare ruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0023480) in werking treedt.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit bestuurlijke boete overlast in de openbare ruimte.
 

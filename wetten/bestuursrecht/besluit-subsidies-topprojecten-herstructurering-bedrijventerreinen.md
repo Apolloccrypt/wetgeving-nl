@@ -1,13 +1,38 @@
 ---
-title: "Besluit subsidies Topprojecten herstructurering bedrijventerreinen"
+title: "Besluit van 26 november 2004, houdende regels inzake de verstrekking van subsidies ten behoeve van de herstructurering van bedrijventerreinen van belang voor de ruimtelijk economische hoofdstructuur (Besluit subsidies Topprojecten herstructurering bedrijventerreinen)"
 identifier: "BWBR0017584"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-12-07
-laatste_update: 2012-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017584"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-12-07"
+last_updated: "2012-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017584"
+soort: "AMvB"
+stam_id: "6440193"
+version_id: "11110502"
+internal_id: "C15025061"
+label_id: "6429104"
+original_entry_into_force: "2004-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017584/2012-12-07/0"
+intitule_bron: "Stb.2004-629"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-11-26"
+intitule_published: "2004-12-14"
+intitule_in_force: "2004-12-14"
+intitule_status: "goed"
+original_publication: "Stb.2004-629"
+original_signed_date: "2004-11-26"
+original_published_date: "2004-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2004-629"
+entry_into_force_date: "2004-12-15"
+jci_1_3: "jci1.3:c:BWBR0017584&z=2012-12-07&g=2012-12-07"
+jci_1_0: "1.0:c:BWBR0017584&g=2012-12-07"
+citeertitel_status: "officieel"
+short_title: "Besluit subsidies Topprojecten herstructurering bedrijventerreinen"
+signed_date: "2004-11-26"
+entry_into_force: "2004-12-15"
 ---
-
 # Besluit van 26 november 2004, houdende regels inzake de verstrekking van subsidies ten behoeve van de herstructurering van bedrijventerreinen van belang voor de ruimtelijk economische hoofdstructuur (Besluit subsidies Topprojecten herstructurering bedrijventerreinen)
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 13 juli 2004, nr. WJZ 4044959;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. bedrijventerrein: ruimtelijk aaneengesloten of functioneel verbonden terrein dat bestemd en geschikt is voor gebruik door vestigingen ten behoeve van handel, nijverheid, commerciële en niet-commerciële dienstverlening en industrie, daaronder niet begrepen een terrein in overwegende mate bestemd voor kantoren, detailhandel of horeca.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister verstrekt op aanvraag een subsidie voor een project aan een provincie, een gemeente, een openbaar lichaam of een samenwerkingsverband.
 
@@ -56,7 +81,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. indien blijkt dat de verstrekking van subsidie leidt tot het verlenen van staatssteun in de zin van [artikel 87 van het EG-Verdrag](onbekend).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De subsidie bedraagt 50% van de projectkosten verminderd met de marktconforme opbrengsten, de bijdragen van derden en de subsidies van andere bestuursorganen en de Europese Commissie.
 
@@ -70,13 +95,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 6. In het geval dat gebouwen of grond op het moment van subsidievaststelling nog niet zijn verkocht, verpacht of verhuurd, worden de verwachte opbrengsten uiterlijk drie maanden voorafgaand aan het moment van indiening van de aanvraag om subsidievaststelling door een onafhankelijke taxateur vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastgesteld voor het in dat jaar verlenen van subsidies krachtens dit besluit.
 
 #### § 2. Aanvraag en beslissing op de aanvraag
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat bij ministeriële regeling wordt vastgesteld.
 
@@ -84,19 +109,19 @@ Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastge
 
 3. Indien de aanvraag een project betreft dat wordt uitgevoerd door een samenwerkingsverband, dient een der deelnemers in het samenwerkingsverband de aanvraag mede namens de andere deelnemers in en gaat de aanvraag vergezeld van de overeenkomst waarin de samenwerking tussen de deelnemers in het samenwerkingsverband is geregeld, overeenkomstig hetgeen in het formulier is vermeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Onze Minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.
 
 2. Onze Minister geeft een beschikking binnen dertien weken na ontvangst van de aanvraag.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien subsidie wordt verleend voor een project dat wordt uitgevoerd door een samenwerkingsverband, vermeldt de beschikking tot subsidieverlening een raming van de projectkosten per deelnemer in het samenwerkingsverband.
 
 2. Elke deelnemer in het samenwerkingsverband is tot ten hoogste het naar rato van de voor hem geraamde projectkosten berekende bedrag aansprakelijk voor terugbetaling van de subsidie, voor zover de subsidie-ontvangers daartoe verplicht zijn.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister beslist afwijzend op een aanvraag:
 
@@ -132,7 +157,7 @@ Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastge
 
 #### § 3. Verplichtingen van de subsidie-ontvanger
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidie-ontvanger voert het project uit overeenkomstig het projectplan waarop de subsidieverlening betrekking heeft en voltooit het uiterlijk op het bij de verlening bepaalde tijdstip, behoudens voorafgaande schriftelijke ontheffing van Onze Minister voor het vertragen, het essentieel wijzigen of het stopzetten van het project.
 
@@ -140,17 +165,17 @@ Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastge
 
 3. Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.
 
-#### Artikel 10
+##### Artikel 10
 
 De subsidie-ontvanger voert een administratie die zodanig is ingericht, dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle projectopbrengsten kunnen worden afgelezen alsmede alle projectkosten, gespecificeerd overeenkomstig de in het projectplan opgenomen kostensoorten.
 
-#### Artikel 11
+##### Artikel 11
 
 De subsidie-ontvanger, die als indiener van de aanvraag is opgetreden, brengt steeds na afloop van een periode van 12 maanden aan Onze Minister schriftelijk verslag uit omtrent de uitvoering van het project, met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de subsidieverlening vermelde raming van de projectkosten en projectopbrengsten.
 
 #### § 4. Voorschotten
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een voorschot kan door Onze Minister slechts jaarlijks op aanvraag van de subsidie-ontvanger worden verstrekt op een subsidie terzake waarvan een beschikking tot subsidieverlening geldt.
 
@@ -162,31 +187,31 @@ De subsidie-ontvanger, die als indiener van de aanvraag is opgetreden, brengt st
 
 5. De aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat bij ministeriële regeling wordt vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister kan afwijzend beschikken op een aanvraag voor een voorschot, indien de subsidie-ontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen.
 
 #### § 5. Subsidievaststelling
 
-#### Artikel 14
+##### Artikel 14
 
 De subsidie-ontvanger vraagt een subsidievaststelling aan door verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012216&artikel=27).
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Het [Besluit tender investeringsprogramma’s provincies 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0012175) wordt ingetrokken met dien verstande dat het van toepassing blijft op subsidies die op grond van dat besluit zijn verstrekt.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit subsidies Topprojecten herstructurering bedrijventerreinen.
 

@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken, herzien te Stockholm op 14 juli 1967"
 identifier: "BWBV0004708"
-categorie: "Internationaal recht"
-publicatiedatum: 1982-09-06
-laatste_update: 1982-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004708"
+country: "nl"
+rank: "verdrag"
+publication_date: "1982-09-06"
+last_updated: "1982-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004708"
+soort: "verdrag"
+stam_id: "10004276283"
+version_id: "10004464342"
+internal_id: "C10007206431"
+label_id: "10004261264"
+dtd_version: "2.0"
+original_entry_into_force: "1975-03-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004708/1982-09-06/0"
+intitule_bron: "Trb.1969-141"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1974-12-19"
+intitule_status: "goed"
+original_publication: "Trb.1969-141"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-141"
+entry_into_force_date: "1975-03-06"
+jci_1_3: "jci1.3:c:BWBV0004708&z=1982-09-06&g=1982-09-06"
+jci_1_0: "1.0:c:BWBV0004708&g=1982-09-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-03-06"
 ---
-
 # Overeenkomst van Nice van 15 juni 1957 betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken, herzien te Stockholm op 14 juli 1967
 
-#### Artikel 1
+##### Artikel 1
 
 1). De landen waarvoor deze Overeenkomst geldt vormen een bijzondere Unie.
 
@@ -28,7 +50,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 6). De classificatie wordt in de Franse taal opgesteld en, op verzoek van ieder overeenkomstsluitend land, kan daarvan een officiële vertaling in zijn taal wonden openbaar (gemaakt door het Internationale Bureau van de intellectuele eigendom (hierna te noemen het „Internationale Bureau”), bedoeld in het [Verdrag ter oprichting van de Wereldorganisatie voor de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004328) (hierna te noemen de „Organisatie”) in overeenstemming met de betrokken nationale Administratie. Elke vertaling van de lijst van de waren en diensten vermeldt bij de waren of diensten, behalve het rangnummer van de alfabetische opsomming in de desbetreffende taal, ook het rangnummer waaronder het op de in de Franse taal opgestelde lijst voorkomt.
 
-#### Artikel 2
+##### Artikel 2
 
 1). Onder voorbehoud van de door deze Overeenkomst opgelegde verplichtingen is de betekenis van de internationale classificatie die, welke daaraan door elk overeenkomstsluitend land wordt toegekend. In het bijzonder bindt de internationale classificatie de overeenkomstsluitende landen noch wat betreft de beoordeling van de omvang der bescherming van het merk, noch wat betreft de erkenning van de dienstmerken.
 
@@ -38,7 +60,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 4). De omstandigheid dat een benaming voorkomt in de alfabetische lijst van de waren en diensten doet niets af aan de rechten die op die benaming zouden kunnen bestaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1). Bij het Internationale Bureau wordt een Commissie van deskundigen ingesteld, die moet beslissen over alle in de internationale classificatie van de waren en diensten aan te brengen wijzigingen en aanvullingen. Elk der overeenkomstsluitende landen zal vertegenwoordigd zijn in de Commissie van deskundigen, waarvan de werkwijze wordt geregeld door een huishoudelijk reglement, vastgesteld bij meerderheid van stemmen der vertegenwoordigde landen. Het Internationale Bureau is in de Commissie vertegenwoordigd.
 
@@ -52,13 +74,13 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 6). Ingeval een land geen deskundige heeft aangewezen om het te vertegenwoordigen, alsmede ingeval de aangewezen deskundige zijn mening niet heeft kenbaar gemaakt binnen een door het huishoudelijk reglement vast te stellen termijn, zal het desbetreffende land geacht worden het besluit van de Commissie te hebben aanvaard.
 
-#### Artikel 4
+##### Artikel 4
 
 1). Alle wijzigingen en aanvullingen waartoe de Commissie van deskundigen besluit, zullen door het Internationale Bureau ter kennis worden gebracht van de Administraties van de overeenkomstsluitende landen. De besluiten zullen in werking treden, wat betreft de aanvullingen, bij ontvangst van de kennisgeving, en wat betreft de wijzigingen, na verloop van zes maanden te rekenen van de datum van verzending der kennisgeving.
 
 2). Het Internationale Bureau brengt in zijn hoedanigheid van bewaarder van de classificatie van de waren en diensten daarin de wijzigingen en aanvullingen aan. Van deze wijzigingen en aanvullingen geschiedt openbaarmaking in de twee periodieken **La Propriété industrielle** en **Les Marques internationales.**
 
-#### Artikel 5
+##### Artikel 5
 
 - a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen, die deze Akte hebben bekrachtigd of daartoe zijn toegetreden.
 
@@ -112,7 +134,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 5). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 6
+##### Artikel 6
 
 - a). De aan de bijzondere Unie toevallende administratieve taken worden verricht door het Internationale Bureau.
 
@@ -130,7 +152,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 7
+##### Artikel 7
 
 - a). De bijzondere Unie heeft een begroting.
 
@@ -176,7 +198,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 8). Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 8
+##### Artikel 8
 
 1). Voorstellen tot wijziging van de artikelen 5, 6 en 7 en van dit artikel kunnen worden ingediend door ieder land dat lid is van de Algemene Vergadering of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
 
@@ -184,7 +206,7 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 3). De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden constitutionele procedures, door drie vierde van de landen, die lid waren van de Algemene Vergadering op het tijdstip waarop de herziening werd aanvaard. Een aldus aanvaarde herziening van de genoemde artikelen bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip waarop de wijziging van kracht wordt of die op een latere datum lid worden; wijzigingen, die de financiële verplichtingen van de landen der bijzondere Unie verzwaren, binden evenwel slechts die landen, die te kennen hebben gegeven deze wijzigingen te aanvaarden.
 
-#### Artikel 9
+##### Artikel 9
 
 1). Elk der landen van de bijzondere Unie dat deze Akte heeft ondertekend kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden.
 
@@ -200,17 +222,17 @@ bron: "https://wetten.overheid.nl/BWBV0004708"
 
 6). Na de inwerkingtreding van deze Akte kan een land niet toetreden tot de Akte van 15 juni 1957 van deze Overeenkomst dan met gelijktijdige bekrachtiging van of toetreding tot deze Akte.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120).
 
-#### Artikel 11
+##### Artikel 11
 
 1). Deze Overeenkomst zal aan herzieningen worden onderworpen voor het aanbrengen van wenselijk geachte verbeteringen.
 
 2). Elk van deze herzieningen vormt het onderwerp van een conferentie, te houden door de afgevaardigden van de landen der bijzondere Unie.
 
-#### Artikel 12
+##### Artikel 12
 
 - a). In de betrekkingen tussen de landen van de bijzondere Unie, die de onderhavige Akte hebben bekrachtigd of daartoe zijn toegetreden, treedt deze Akte in de plaats van de Akte van 15 juni 1957.
 
@@ -218,7 +240,7 @@ Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verd
 
 2). De landen die geen lid zijn van de bijzondere Unie en partij worden bij deze Akte, passen de bepalingen daarvan toe ten aanzien van elk Unie-land dat geen partij is bij deze Akte. Eerstgenoemde landen stemmen er mede in, dat genoemd Unie-land in zijn betrekkingen met hen de bepalingen van de Akte van 1957 toepast.
 
-#### Artikel 13
+##### Artikel 13
 
 1). Elk land kan deze Akte opzeggen door kennisgeving aan de Directeur-Generaal. Deze opzegging houdt tevens in de opzegging van de Akte van 15 juni 1957 van deze Overeenkomst en werkt slechts ten opzichte van het land dat heeft opgezegd; de Overeenkomst blijft van kracht en uitvoerbaar ten opzichte van de andere landen van de bijzondere Unie.
 
@@ -226,11 +248,11 @@ Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verd
 
 3). De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren te rekenen van de datum waarop dat land lid is geworden van de bijzondere Unie.
 
-#### Artikel 14
+##### Artikel 14
 
 De bepalingen van [artikel 24 van het Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=24) zijn van toepassing op deze Overeenkomst.
 
-#### Artikel 15
+##### Artikel 15
 
 - a). Deze Akte wordt ondertekend in een enkel exemplaar in de Franse taal en nedergelegd bij de Regering van Zweden.
 
@@ -244,7 +266,7 @@ De bepalingen van [artikel 24 van het Verdrag van Parijs voor de bescherming van
 
 5). De Directeur-Generaal brengt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de inwerkingtreding van alle bepalingen van deze Akte en de kennisgevingen van opzegging ter kennis van de Regeringen van alle landen van de bijzondere Unie.
 
-#### Artikel 16
+##### Artikel 16
 
 1). Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Akte naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op het Bureau van de Unie, ingesteld bij het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120) respectievelijk op zijn Directeur.
 

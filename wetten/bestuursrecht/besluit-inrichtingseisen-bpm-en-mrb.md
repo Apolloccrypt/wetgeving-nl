@@ -1,13 +1,38 @@
 ---
 title: "Besluit inrichtingseisen bpm en mrb"
 identifier: "BWBR0049452"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-02-04
-laatste_update: 2026-02-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049452"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2026-02-04"
+last_updated: "2026-02-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049452"
+soort: "beleidsregel"
+stam_id: "17047323"
+version_id: "29995162"
+internal_id: "C43002691"
+label_id: "16957404"
+dtd_version: "2.0"
+original_entry_into_force: "2024-03-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049452/2026-02-04/0"
+intitule_bron: "Stcrt.2024-6352"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-02-26"
+intitule_published: "2024-03-06"
+intitule_in_force: "2024-03-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-6352"
+original_signed_date: "2024-02-26"
+original_published_date: "2024-03-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-6352"
+entry_into_force_date: "2024-03-07"
+jci_1_3: "jci1.3:c:BWBR0049452&z=2026-02-04&g=2026-02-04"
+jci_1_0: "1.0:c:BWBR0049452&g=2026-02-04"
+citeertitel_status: "officieel"
+signed_date: "2024-02-26"
+entry_into_force: "2024-03-07"
 ---
-
 # Besluit inrichtingseisen bpm en mrb
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

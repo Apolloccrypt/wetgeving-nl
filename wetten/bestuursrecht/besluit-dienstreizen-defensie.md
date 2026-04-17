@@ -1,13 +1,39 @@
 ---
-title: "Besluit dienstreizen defensie"
+title: "Besluit van 25 maart 1996, houdende regelen met betrekking tot reis- en verblijfkosten bij dienstreizen van defensiepersoneel"
 identifier: "BWBR0007956"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007956"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007956"
+soort: "AMvB"
+stam_id: "342363"
+version_id: "500972"
+internal_id: "C500971"
+label_id: "335104"
+dtd_version: "2.0"
+original_entry_into_force: "1996-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007956/2020-01-01/0"
+intitule_bron: "Stb.1996-192"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-25"
+intitule_published: "1996-03-28"
+intitule_in_force: "1996-03-28"
+intitule_status: "goed"
+original_publication: "Stb.1996-192"
+original_signed_date: "1996-03-25"
+original_published_date: "1996-03-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-192"
+entry_into_force_date: "1996-05-01"
+jci_1_3: "jci1.3:c:BWBR0007956&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0007956&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit dienstreizen defensie"
+signed_date: "1996-03-25"
+entry_into_force: "1996-05-01"
 ---
-
 # Besluit van 25 maart 1996, houdende regelen met betrekking tot reis- en verblijfkosten bij dienstreizen van defensiepersoneel
 
 Op de voordracht van de Staatssecretaris van Defensie van 9 januari 1996, nr. PAV2210/96000199;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit en de daarop rustende bepalingen wordt, tenzij in dit besluit uitdrukkelijk anders is bepaald, verstaan onder:
 
@@ -48,11 +74,11 @@ In dit besluit en de daarop rustende bepalingen wordt, tenzij in dit besluit uit
 
 - i. Europa: Europa inclusief Turkije.
 
-#### Artikel 2. Afwijking van dit besluit
+##### Artikel 2. Afwijking van dit besluit
 
 Onze Minister van Defensie kan in geval van buitengewone omstandigheden tijdelijk afwijken van hetgeen bij of krachtens dit besluit is bepaald, indien en voor zolang dit met het oog op de goede uitvoering van de operationele taken van de krijgsmacht noodzakelijk wordt geacht.
 
-#### Artikel 3. Niet-toepasselijkheid van het besluit
+##### Artikel 3. Niet-toepasselijkheid van het besluit
 
 1. Dit besluit is niet van toepassing indien voor een reis aanspraak bestaat op een vergoeding van reis- en verblijfkosten uit anderen hoofde.
 
@@ -66,7 +92,7 @@ Onze Minister van Defensie kan in geval van buitengewone omstandigheden tijdelij
 
 - d. op degene die behoort tot bij ministeriële regeling aan te wijzen groepen, waarbij sprake is van een inzet onder leiding of toezicht van een orgaan van de Verenigde Naties, bij of ten behoeve van een bondgenootschappelijk orgaan of bondgenootschappelijke strijdkrachten dan wel ten behoeve van operaties in het kader van internationale overeenkomsten of andere verplichtingen door Nederland aangegaan.
 
-#### Artikel 4. Algemene uitvoering dienstreis
+##### Artikel 4. Algemene uitvoering dienstreis
 
 1. Een dienstreis wordt op de door de commandant aangegeven wijze uitgevoerd.
 
@@ -80,13 +106,13 @@ Onze Minister van Defensie kan in geval van buitengewone omstandigheden tijdelij
 
 6. Indien de dienstreis niet op de door de commandant aangegeven wijze is uitgevoerd, heeft de dienstreiziger slechts aanspraak op de vergoedingen bij of krachtens dit besluit, waarop aanspraak bestaat, indien de dienstreis wel op de door de commandant aangegeven wijze zou zijn uitgevoerd.
 
-#### Artikel 5. Begin en einde dienstreis
+##### Artikel 5. Begin en einde dienstreis
 
 1. Voor de vergoeding van reis- en verblijfkosten geldt dat de gebruikelijke ingang van een plaats van tewerkstelling het beginpunt en het eindpunt is van de dienstreis.
 
 2. In afwijking van het eerste lid kan de commandant de woning van de dienstreiziger of een andere plaats als beginpunt of eindpunt van de dienstreis aanmerken, tenzij op een reisdeel een plaats van tewerkstelling wordt bezocht.
 
-#### Artikel 6. Binnen- en buitenlandse dienstreis
+##### Artikel 6. Binnen- en buitenlandse dienstreis
 
 Een dienstreis die in Nederland is begonnen en waarbij het reisgedeelte buiten Nederland beperkt is of waarbij de grensoverschrijding niet noodzakelijkerwijs leidt tot gebruik van maaltijden of logies in een gebied buiten Nederland, wordt voor de toepassing van dit besluit aangemerkt als een dienstreis binnen Nederland.
 
@@ -94,7 +120,7 @@ Een dienstreis die in Nederland is begonnen en waarbij het reisgedeelte buiten N
 
 #### § 1. Vergoeding van reiskosten
 
-#### Artikel 7. Openbaar vervoer
+##### Artikel 7. Openbaar vervoer
 
 1. De voor een dienstreis noodzakelijk gemaakte reiskosten met openbaar vervoer worden vergoed, met inachtneming van bij ministeriële regeling te stellen regels.
 
@@ -106,11 +132,11 @@ Een dienstreis die in Nederland is begonnen en waarbij het reisgedeelte buiten N
 
 5. Indien een deel van de dienstreis wordt uitgevoerd met een taxi of een gehuurd motorvoertuig worden de daaraan verbonden kosten vergoed, indien het gebruik daarvan naar het oordeel van de commandant voor de dienstreis noodzakelijk is.
 
-#### Artikel 8. Dienstvervoer
+##### Artikel 8. Dienstvervoer
 
 De dienstreiziger die de dienstreis met dienstvervoer maakt, heeft aanspraak op vergoeding van de daarvoor noodzakelijk gemaakte kosten.
 
-#### Artikel 9. Eigen vervoer
+##### Artikel 9. Eigen vervoer
 
 1. Indien dienstvervoer niet beschikbaar en openbaar vervoer niet mogelijk of niet doelmatig is en de dienstreiziger gebruik maakt van eigen vervoer, maakt deze aanspraak op de bij ministeriële regeling vast te stellen vergoeding.
 
@@ -120,23 +146,23 @@ De dienstreiziger die de dienstreis met dienstvervoer maakt, heeft aanspraak op 
 
 4. Indien in bijzondere gevallen het gebruik van eigen vervoer tussen de woning en een plaats van tewerkstelling noodzakelijk is voor het doelmatig uitvoeren van een op die dag voorkomende dienstreis, kan de commandant een daarvoor aangevraagde vergoeding als bedoeld in het eerste lid goedkeuren.
 
-#### Artikel 10. Niet-noodzakelijk gebruik van eigen motorrijtuig
+##### Artikel 10. Niet-noodzakelijk gebruik van eigen motorrijtuig
 
 Vervallen
 
-#### Artikel 11. Ander vervoer
+##### Artikel 11. Ander vervoer
 
 Vervallen
 
 #### § 2. Vergoeding van verblijfkosten en andere kosten
 
-#### Artikel 12. Aard van de verblijfkosten en de andere kosten
+##### Artikel 12. Aard van de verblijfkosten en de andere kosten
 
 1. De voor een dienstreis noodzakelijk gemaakte verblijfkosten, waaronder zijn te verstaan de uitgaven voor maaltijden, logies en kleine uitgaven, worden vergoed volgens bij ministeriële regeling te stellen regels.
 
 2. Voor de in verband met een dienstreis naar een gebied buiten Nederland noodzakelijk gemaakte andere kosten, waaronder die voor bijzondere kleding indien klimatologische of andere bijzondere omstandigheden in het te bezoeken land daartoe aanleiding geven, kan, volgens bij ministeriële regeling te bepalen regels, een tegemoetkoming worden verleend.
 
-#### Artikel 13. Beperking van aanspraak op vergoeding van verblijfkosten
+##### Artikel 13. Beperking van aanspraak op vergoeding van verblijfkosten
 
 1. Geen aanspraak op vergoeding van verblijfkosten bestaat voor een dienstreis:
 
@@ -152,11 +178,11 @@ Vervallen
 
 #### § 3. Vergoeding van reis- en verblijfkosten in bijzondere situaties
 
-#### Artikel 13a. Opkomst in werkelijke dienst
+##### Artikel 13a. Opkomst in werkelijke dienst
 
 De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tewerkstelling en terug van een militair, aangesteld bij het reservepersoneel, die ingevolge een oproep van Onze Minister in werkelijke dienst moet komen, wordt berekend op de voet van dit besluit.
 
-#### Artikel 14. Detachering
+##### Artikel 14. Detachering
 
 1. Bij een detachering wordt in de gemaakte reiskosten van de dienstreiziger, alsmede de onvermijdbaar doorlopende kosten, tegemoet gekomen volgens het bij ministeriële regeling bepaalde, waarbij op vervangende wijze wordt voorzien in de voor de desbetreffende dienstreiziger geldende aanspraak op een tegemoetkoming in de kosten voor het reizen tussen de woning en de plaats van tewerkstelling.
 
@@ -172,55 +198,55 @@ De aanspraak op reiskosten voor het reizen tussen de woning en de plaats van tew
 
 ### Hoofdstuk 3. Diverse bepalingen; slotbepalingen
 
-#### Artikel 15. Reisdeclaratie
+##### Artikel 15. Reisdeclaratie
 
 1. Het declareren en uitbetalen van de in dit besluit bedoelde vergoedingen geschiedt naar bij ministeriële regeling te stellen nadere regels.
 
 2. De aanspraak op vergoeding vervalt indien de dienstreiziger de reisdeclaratie niet heeft ingediend binnen zesentwintig weken na de maand waarop de declaratie betrekking heeft.
 
-#### Artikel 15a. Mandaatverlening
+##### Artikel 15a. Mandaatverlening
 
 Van de bevoegdheid tot het vaststellen van ministeriële regelingen als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&z=2020-01-01&g=2020-01-01) kan mandaat worden verleend aan de hoofddirecteur personeel van het Ministerie van Defensie.
 
-#### Artikel 16. Hardheidsclausule
+##### Artikel 16. Hardheidsclausule
 
 Onze Minister van Defensie kan de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=12&z=2020-01-01&g=2020-01-01), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=2&paragraaf=2&artikel=13&z=2020-01-01&g=2020-01-01) en [15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=3&artikel=15&z=2020-01-01&g=2020-01-01) buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de vergoeding van verblijfkosten voor de dienstreiziger zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 17. Algemene overgangsbepaling
+##### Artikel 17. Algemene overgangsbepaling
 
 Vervallen
 
-#### Artikel 18. Afbouwregelingen
+##### Artikel 18. Afbouwregelingen
 
 1. Degene, bedoeld in [artikel 1, onderdeel **c**](https://wetten.overheid.nl/jci1.3:c:BWBR0007956&hoofdstuk=1&artikel=1&z=2020-01-01&g=2020-01-01), ten 1°, die in de periode van 12 maanden voorafgaande aan de inwerkingtreding van dit besluit als militair in de zin van het Besluit dienstreizen militairen op ten minste 40 dagen tegen vergoeding dienstreizen binnen Nederland heeft gemaakt, heeft aanspraak op de bij ministeriële regeling vast te stellen tegemoetkoming.
 
 2. Degene die aanspraak had op de tegemoetkoming, bedoeld in artikel 17 van het Reisbesluit binnenland burgerlijke ambtenaren defensie, behoudt deze aanspraak onder dezelfde voorwaarden als neergelegd in genoemd artikel.
 
-#### Artikel 19
+##### Artikel 19
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 21
+##### Artikel 21
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 22
+##### Artikel 22
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 23
+##### Artikel 23
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 24
+##### Artikel 24
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 25. Intrekking besluiten
+##### Artikel 25. Intrekking besluiten
 
 1. Het Besluit dienstreizen militairen wordt ingetrokken.
 
@@ -228,17 +254,17 @@ Bevat wijzigingen in andere regelgeving.
 
 3. Het Reisbesluit buitenland burgerlijke ambtenaren defensie wordt ingetrokken.
 
-#### Artikel 26. Inwerkingtreding
+##### Artikel 26. Inwerkingtreding
 
 Dit besluit treedt in werking op 1 mei 1996.
 
-#### Artikel 27. Citeertitel
+##### Artikel 27. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit dienstreizen defensie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** wordt geplaatst.
 
-#### Artikel 25a
+##### Artikel 25a
 
 Na inwerkingtreding van de [Wet normalisering rechtspositie ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0039393) berust dit besluit op de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12) en [12o van de Wet ambtenaren defensie](https://wetten.overheid.nl/jci1.3:c:BWBR0001952&artikel=12o).
 

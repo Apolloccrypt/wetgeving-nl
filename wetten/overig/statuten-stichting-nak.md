@@ -1,26 +1,48 @@
 ---
 title: "Statuten Stichting NAK"
 identifier: "BWBR0033075"
-categorie: "Overig"
-publicatiedatum: 2006-04-04
-laatste_update: 2006-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033075"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-04-04"
+last_updated: "2006-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033075"
+soort: "zbo"
+stam_id: "12150913"
+version_id: "20295162"
+internal_id: "C28554401"
+label_id: "12122714"
+dtd_version: "2.0"
+original_entry_into_force: "2006-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033075/2006-04-04/0"
+intitule_bron: "Stcrt.2006-67"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-04-04"
+intitule_in_force: "2006-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-67"
+original_published_date: "2006-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-67-p15-SC74624"
+entry_into_force_date: "2006-04-04"
+jci_1_3: "jci1.3:c:BWBR0033075&z=2006-04-04&g=2006-04-04"
+jci_1_0: "1.0:c:BWBR0033075&g=2006-04-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2006-04-04"
 ---
-
 # Statuten Stichting NAK
 
 **Statuten van de Stichting ’Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen’ (’NAK’) zoals deze zijn goedgekeurd door de Minister van Landbouw, Natuur en Voedselkwaliteit bij besluit van 30 maart 2006**
 
 #### Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. De stichting draagt de naam: ‘Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen’, bij afkorting ‘NAK’.
 
 2. Zij is statutair gevestigd te Emmeloord, gemeente Noordoostpolder.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De statuten en de reglementen van de stichting nemen de terminologie van de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) en de daarop gebaseerde uitvoeringsvoorschriften over, tenzij hierna of in een reglement anders wordt bepaald.
 
@@ -28,7 +50,7 @@ bron: "https://wetten.overheid.nl/BWBR0033075"
 
 #### Doel
 
-#### Artikel 3
+##### Artikel 3
 
 De stichting stelt zich ten doel de publieke taken te vervullen waarmee zij op grond van de [Zaaizaad- en plantgoedwet 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0018040) is belast en heeft daartoe in het bijzonder tot taak:
 
@@ -40,7 +62,7 @@ De stichting stelt zich ten doel de publieke taken te vervullen waarmee zij op g
 
 #### Middelen en Rijkstoezicht
 
-#### Artikel 4
+##### Artikel 4
 
 De stichting tracht haar doel te bereiken door aanwending van de navolgende middelen:
 
@@ -62,7 +84,7 @@ De stichting tracht haar doel te bereiken door aanwending van de navolgende midd
 
 #### Bestuur
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bestuur bestaat uit:
 
@@ -86,7 +108,7 @@ De stichting tracht haar doel te bereiken door aanwending van de navolgende midd
 
 6. Het bestuur wordt bijgestaan door de secretaris zijnde de directeur die met algemene zaken is belast; deze maakt geen deel uit van het bestuur.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bestuur heeft tot taak toezicht te houden op het beleid van de directie en op de algemene gang van zaken in de stichting en stelt het algemeen beleid en de strategie van de NAK vast. Het bestuur staat de directie met raad terzijde. Bij de vervulling van haar taak richt het bestuur zich naar het belang van de stichting.
 
@@ -106,7 +128,7 @@ De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuri
 
 5. Het bestuur is bevoegd één of meer commissies van advies te benoemen, waaraan één of meer adviseurs kunnen worden toegevoegd. Bij instelling van een dergelijke commissie wordt de samenstelling en de werkwijze daarvan in het huishoudelijk reglement geregeld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur alsmede de directeur die met algemene zaken is belast zijn bevoegd voor en namens de stichting rechtshandelingen te verrichten, waaronder het kopen, vervreemden of bezwaren van of het investeren in registergoederen en het sluiten van overeenkomsten, waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidsstelling voor een schuld van een derde verbindt.
 
@@ -114,7 +136,7 @@ De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuri
 
 #### Directie
 
-#### Artikel 8
+##### Artikel 8
 
 1. De directie is belast met de dagelijkse leiding van de stichting onder toezicht van het bestuur.
 
@@ -126,7 +148,7 @@ De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuri
 
 #### Vertegenwoordiging
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het bestuur vertegenwoordigt de stichting. De vertegenwoordigingsbevoegdheid komt mede toe aan de directeur die met algemene zaken is belast.
 
@@ -136,7 +158,7 @@ De tarieven en het reglement behoeven, alvorens van kracht te zijn, de goedkeuri
 
 #### Vaste Commissies
 
-#### Artikel 10
+##### Artikel 10
 
 1. Er zijn twee vaste commissies:
 
@@ -154,7 +176,7 @@ De ondervoorzitter wordt door de vaste commissie uit haar midden benoemd. De zes
 
 5. Voor ieder van de in het tweede en derde lid bedoelde leden wordt een plaatsvervangend lid benoemd op de wijze als voor het lid, dat hij bij ontstentenis vervangt, is bepaald in het vierde lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De vaste commissies bereiden aanpassing van voorschriften en werkwijze voor en nemen maatregelen op keuringstechnisch terrein voor de gewassen, waarvoor de betrokken commissie is ingesteld
 
@@ -178,7 +200,7 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 #### Besluitvorming
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het bestuur en de vaste commissies vergaderen ten minste tweemaal per jaar en verder zo vaak als de voorzitter of directie dit wenselijk oordeelt of ten minste twee leden onder opgaaf van redenen dit schriftelijk verzoeken.
 
@@ -196,7 +218,7 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 8. Bij huishoudelijk reglement worden omtrent het stemmen nadere regelen gesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het bestuur en de vaste commissies kunnen in bijzondere gevallen ook buiten de vergadering, als in het vorige artikel bedoeld, een besluit nemen, mits alle bestuursleden in de gelegenheid zijn gesteld schriftelijk, telefonisch, per telefax of op welke wijze dan ook hun mening te uiten en het besluit met algemene stemmen is genomen.
 
@@ -204,7 +226,7 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 3. Van een besluit genomen op de wijze als bedoeld in dit artikel wordt in de eerstvolgende vergadering van het bestuur respectievelijk vaste commissie melding gemaakt door de secretaris.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De leden van het bestuur, van de vaste commissies en de commissies van advies genieten een vergoeding voor reis- en verblijfkosten volgens een door het bestuur te bepalen regeling.
 
@@ -212,7 +234,7 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 #### Geldmiddelen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De geldmiddelen van de stichting bestaan uit:
 
@@ -224,11 +246,11 @@ zo spoedig mogelijk doch binnen vijftien dagen nadat dit besluit is genomen, aan
 
 - d. andere baten.
 
-#### Artikel 16
+##### Artikel 16
 
 Het boekjaar loopt van één januari tot en met éénendertig december.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De stichting beoogt niet het behalen van winst, de inkomsten strekken tot bestrijding van de uitgaven.
 
@@ -244,7 +266,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 #### Statutenwijziging en opheffing van de stichting
 
-#### Artikel 18
+##### Artikel 18
 
 1. Wijziging of aanvulling van de statuten kan slechts plaatsvinden wanneer de directeur die met algemene zaken is belast dan wel ten minste drie bestuursleden een voorstel daartoe indienen bij het bestuur.
 
@@ -252,7 +274,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 3. Wijziging of aanvulling van de statuten behoeft, alvorens van kracht te zijn, de instemming van de Minister.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Voor opheffing van de stichting is het nodig dat ten minste drie bestuursleden, de voorzitter of de directeur die met algemene zaken is belast hiertoe een voorstel doen.
 
@@ -260,7 +282,7 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 3. Het besluit tot opheffing behoeft, alvorens van kracht te zijn, instemming van de Minister.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Na opheffing zal de liquidatie geschieden door het bestuur, tenzij in het opheffingsbesluit anders mocht worden bepaald.
 
@@ -268,19 +290,19 @@ Het boekjaar loopt van één januari tot en met éénendertig december.
 
 #### Slot- en overgangsbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Het bestuur stelt een huishoudelijk reglement vast dat geen bepalingen mag bevatten in strijd met deze statuten.
 
-#### Artikel 22
+##### Artikel 22
 
 Bestuursleden en adviseurs en de functionarissen van de stichting of een van haar organen en de leden van de commissies zijn verplicht tot geheimhouding tegenover derden van al hetgeen bij de uitoefening van hun functie te hunner kennis komt.
 
-#### Artikel 23
+##### Artikel 23
 
 De stichting noch één van haar organen draagt enigerlei financiële aansprakelijkheid voor de kwaliteit van de door haar gekeurde en onder haar toezicht geteelde of verhandelde producten.
 
-#### Artikel 24
+##### Artikel 24
 
 1. In de gevallen, waarin deze statuten niet voorzien, beslist het bestuur.
 

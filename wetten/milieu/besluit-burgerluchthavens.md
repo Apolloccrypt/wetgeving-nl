@@ -1,13 +1,39 @@
 ---
-title: "Besluit burgerluchthavens"
+title: "Besluit van 30 september 2009, houdende regels voor burgerluchthavens (Besluit burgerluchthavens)"
 identifier: "BWBR0026525"
-categorie: "Milieu"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026525"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026525"
+soort: "AMvB"
+stam_id: "10238593"
+version_id: "16748232"
+internal_id: "C23099801"
+label_id: "10214594"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026525/2024-01-01/0"
+intitule_bron: "Stb.2009-412"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-09-30"
+intitule_published: "2009-10-20"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stb.2009-412"
+original_signed_date: "2009-09-30"
+original_published_date: "2009-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-412"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026525&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0026525&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit burgerluchthavens"
+signed_date: "2009-09-30"
+entry_into_force: "2009-11-01"
 ---
-
 # Besluit van 30 september 2009, houdende regels voor burgerluchthavens (Besluit burgerluchthavens)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 9 februari 2009, nr. CEND/HDJZ-2009/120 sector LUV, Hoofddirectie Juridische Zaken, gedaan mede namens Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -30,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -104,11 +130,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Burgerluchthavens van regionale betekenis en burgerluchthavens van nationale betekenis
 
-#### Artikel 2
+##### Artikel 2
 
 Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het beperkingengebied met betrekking tot het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer wordt uitgedrukt in plaatsgebonden risicocontouren. De grenswaarde met betrekking tot het externe-veiligheidsrisico wordt uitgedrukt in een totaal risicogewicht.
 
@@ -124,11 +150,11 @@ Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [art
 
 - c. het registreren van de milieubelasting waarvoor grenswaarden en regels in het luchthavenbesluit of de luchthavenregeling zijn opgenomen en omtrent de gegevensverstrekking bedoeld in [artikel 8.54, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54).
 
-#### Artikel 4
+##### Artikel 4
 
 De in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarden worden berekend over een in het besluit of de regeling aangeduide periode van twaalf aaneengesloten kalendermaanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Vaststelling van een luchthavenbesluit is vereist indien een contour van het plaatsgebonden risico van 10-6 of een geluidcontour van 56 dB(A) Lden buiten het luchthavengebied valt.
 
@@ -150,13 +176,13 @@ De in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarden worden 
 
 ## Titel 1. Reikwijdte
 
-#### Artikel 6
+##### Artikel 6
 
 Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1).
 
 ## Titel 2. Gebruik luchthaven van regionale betekenis bij bovenprovinciaal belang
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien bovenprovinciale belangen vorderen dat gebruik van een luchthaven essentieel is voor vluchten van algemeen maatschappelijk belang, regeringsvluchten, operationeel noodzakelijke militaire vluchten of vluchten in bondgenootschappelijk verband en dit gebruik op grond van het luchthavenbesluit of de luchthavenregeling voor die luchthaven niet mogelijk is, kan bij regeling van Onze Minister van Infrastructuur en Waterstaat worden bepaald welke van deze soorten vluchten tot die luchthaven toegang hebben en op welke periode van het etmaal. Indien het hierbij militaire vluchten betreft wordt de regeling in overeenstemming met Onze Minister van Defensie vastgesteld.
 
@@ -168,7 +194,7 @@ Dit hoofdstuk is van toepassing op burgerluchthavens van regionale betekenis als
 
 ### Afdeling 3.1. Grenswaarden voor de geluidbelasting
 
-#### Artikel 8
+##### Artikel 8
 
 Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
@@ -180,7 +206,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 #### § 3.2.1. Algemeen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het luchthavenbesluit bevat in ieder geval:
 
@@ -206,7 +232,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 #### § 3.2.2. Externe veiligheid
 
-#### Artikel 10
+##### Artikel 10
 
 1. In het gebied dat gelegen is op en binnen een 10-5-plaatsgebonden risicocontour:
 
@@ -232,7 +258,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 6. Het eerste lid is niet van toepassing op een gebouw met een gezondheidszorgfunctie of een gebouw met een nevenfunctie van die gezondheidszorgfunctie, indien op of nabij dat gebouw een luchthaven is gelegen die uitsluitend wordt gebruikt voor vluchten ten behoeve van spoedeisende hulpverlening.
 
-#### Artikel 11
+##### Artikel 11
 
 1. In het gebied dat gelegen is op een 10-6-plaatsgebonden risicocontour en tussen deze contour en de daarbinnen liggende 10-5-plaatsgebonden risicocontour is nieuwbouw van een gebouw, niet zijnde een bedrijfswoning, niet toegestaan.
 
@@ -252,7 +278,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 #### § 3.2.3. Geluidbelasting
 
-#### Artikel 12
+##### Artikel 12
 
 1. In het gebied dat gelegen is op of binnen de contour van 70 dB(A) Lden worden woningen, niet zijnde bedrijfswoningen, en geluidsgevoelige gebouwen aan hun functie onttrokken. [Artikel 10, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&hoofdstuk=3&titeldeel=3&afdeling=3.2&paragraaf=3.2.2&artikel=10&z=2024-01-01&g=2024-01-01), is van overeenkomstige toepassing.
 
@@ -276,7 +302,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 #### § 3.2.4. Vliegveiligheid
 
-#### Artikel 13
+##### Artikel 13
 
 1. In het veiligheidsgebied is een obstakel niet toegestaan, tenzij dit breekbaar en licht van constructie is en gelden eisen ten aanzien van de vlakheid van het terrein.
 
@@ -292,7 +318,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze de omvang van het gebied wordt vastgesteld en worden nadere regels gesteld over de constructie van obstakels en de vlakheid van het terrein.
 
-#### Artikel 14
+##### Artikel 14
 
 1. In het gebied met hoogtebeperkingen in verband met de vliegveiligheid is geen obstakel toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
@@ -308,7 +334,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding is geen obstakel toegestaan dat hoger is dan de bij ministeriële regeling vastgestelde waarden.
 
@@ -324,7 +350,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 4. Bij ministeriële regeling wordt bepaald op welke wijze het gebied wordt vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In het gebied in de omtrek van 6 kilometer rondom de start- en landingsbaan van een luchthaven met een instrumentbaan categorie I, II, of III is het verrichten of toelaten van een activiteit binnen de volgende categorieën niet toegestaan:
 
@@ -346,7 +372,7 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 3. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de wijze waarop de studie, bedoeld in het tweede lid, onderdeel b, wordt uitgevoerd.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In het laserstraalvrije gebied is het gebruik van een laserstraal die de vliegveiligheid kan verstoren niet toegestaan.
 
@@ -356,17 +382,17 @@ Het luchthavenbesluit bevat voor het luchthavenluchtverkeer in ieder geval:
 
 #### § 3.2.5. Overige bepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 Provinciale staten berekenen elke vijf jaar na vaststelling van een luchthavenbesluit de contouren voor het 10-5- en 10-6-plaatsgebonden risico op basis van het feitelijke gebruik in het voorafgaande gebruiksjaar, en maken deze berekening openbaar.
 
-#### Artikel 19
+##### Artikel 19
 
 Bij de vaststelling van het luchthavenbesluit wordt een afweging gemaakt over de ontwikkeling van de fysieke leefomgeving van het gebied gelegen tussen de geluidcontour van 56 dB(A) Lden en de geluidcontour van 48 dB(A) Lden in relatie tot het gebruik van de luchthaven.
 
 ### Hoofdstuk 4. Aanwijzing luchtvaartuigen die mogen opstijgen of landen van een terrein niet zijnde een luchthaven
 
-#### Artikel 20
+##### Artikel 20
 
 Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.50) worden aangewezen:
 
@@ -404,7 +430,7 @@ Als luchtvaartuig als bedoeld in [artikel 8a.50, eerste lid, van de wet](https:/
 
 - q. zeilvliegtuigen.
 
-#### Artikel 21
+##### Artikel 21
 
 Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.51) worden aangewezen:
 
@@ -430,27 +456,27 @@ Als luchtvaartuig als bedoeld in [artikel 8a.51 van de wet](https://wetten.overh
 
 ### Hoofdstuk 5. Geluidsheffing burgerluchtvaart
 
-#### Artikel 22
+##### Artikel 22
 
 De formules ter bepaling van de geluidsproductie met betrekking tot de luchthaven Schiphol, bedoeld in [artikel 8a.38, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.38), en de formules met betrekking tot burgerluchthavens van nationale betekenis met luchthavenbesluit, bedoeld in dat lid, in samenhang met [artikel 8a.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.42), worden bepaald bij regeling van Onze Minister van Infrastructuur en Waterstaat.
 
 ### Hoofdstuk 6. Overige besluiten
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Besluit informatie-uitwisseling ondergrondse netten.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 Het [Besluit geluidsbelasting kleine luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0004958) wordt ingetrokken.
 
-#### Artikel 25
+##### Artikel 25
 
 Dit besluit wordt aangehaald als: Besluit burgerluchthavens.
 
-#### Artikel 26
+##### Artikel 26
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

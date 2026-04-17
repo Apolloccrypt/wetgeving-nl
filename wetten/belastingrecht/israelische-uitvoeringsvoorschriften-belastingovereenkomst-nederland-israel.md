@@ -1,18 +1,43 @@
 ---
-title: "Israëlische uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël"
+title: "Israëlische voorschriften tot uitvoering van de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzgd bij het protocol van 16 janauri 1996"
 identifier: "BWBR0008885"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-09-21
-laatste_update: 1997-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008885"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-09-21"
+last_updated: "1997-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008885"
+soort: "ministeriele-regeling"
+stam_id: "4299143"
+version_id: "6061892"
+internal_id: "C6265501"
+label_id: "4277724"
+dtd_version: "2.0"
+original_entry_into_force: "1997-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008885/1997-09-21/0"
+intitule_bron: "Stcrt.1997-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-08-26"
+intitule_published: "1997-09-05"
+intitule_in_force: "1997-09-05"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-170"
+original_signed_date: "1997-08-26"
+original_published_date: "1997-09-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-09-21"
+jci_1_3: "jci1.3:c:BWBR0008885&z=1997-09-21&g=1997-09-21"
+jci_1_0: "1.0:c:BWBR0008885&g=1997-09-21"
+citeertitel_status: "officieel"
+short_title: "Israëlische uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël"
+signed_date: "1997-08-26"
+entry_into_force: "1997-09-21"
 ---
-
 # Israëlische voorschriften tot uitvoering van de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting, zoals deze is gewijzgd bij het protocol van 16 janauri 1996
 
 #### Regeling inzake vermindering van Israëlische belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 2 juli 1973 tussen Nederland en Israël gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen en naar het vermogen (Trb. 1974, nr. 39), zoals deze is gewijzigd bij het op 16 januari 1996 te Jeruzalem gesloten Protocol tot wijziging van de genoemde Overeenkomst (Trb. 1996, nr. 30), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst en onderdelen van het Protocol:
 
@@ -38,7 +63,7 @@ De in de onderdelen a, b, c, d, e, f en g van dit artikel bedoelde verminderinge
 
 De in de onderdelen a, b, c, d, e, f en g van dit artikel bedoelde verminderingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty’s, die inwoner is van Nederland, in Israël een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty’s verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort (artikel 11, zesde lid, respectievelijk artikel 12, vijfde lid en artikel 13, vijfde lid).
 
-#### Artikel 2. Israëlische regeling
+##### Artikel 2. Israëlische regeling
 
 Ter uitvoering van artikel 1 is van Israëlische zijde de volgende regeling getroVen:
 
@@ -72,7 +97,7 @@ Verkrijgbaarheid van het Israëlische formulier
 
 5. Exemplaren van het Israëlische formulier ’Claim for reduced rate of withholding tax/exemption from withholding tax in Israel on payments to a non-resident (Form A/114)’ zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Israël bij het Department of Economy and State Revenues, International Tax Department, P.O. Box 1170, Jerusalem 91010.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Israëlische uitvoeringsvoorschriften belastingovereenkomst Nederland-Israël;
 

@@ -1,13 +1,37 @@
 ---
 title: "Programma Transactie/Modal Shift 2002"
 identifier: "BWBR0013125"
-categorie: "Overig"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013125"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013125"
+soort: "ministeriele-regeling"
+stam_id: "5029453"
+version_id: "8707242"
+internal_id: "C11286531"
+label_id: "5005664"
+dtd_version: "2.0"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013125/2002-01-01/0"
+intitule_bron: "Stcrt.2001-241"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-10"
+intitule_published: "2001-12-12"
+intitule_in_force: "2001-12-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-241"
+original_signed_date: "2001-12-10"
+original_published_date: "2001-12-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0013125&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0013125&g=2002-01-01"
+citeertitel_status: "officieel"
+signed_date: "2001-12-10"
+entry_into_force: "2002-01-01"
 ---
-
 # Programma Transactie/Modal Shift 2002
 
 Gelet op artikel 2 van de Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002;
@@ -16,7 +40,7 @@ Besluit:
 
 Vast te stellen het navolgende programma Transactie/Modal Shift 2002:
 
-#### A. Programma Transactie/Modal Shift
+##### A. Programma Transactie/Modal Shift
 
 Het programma Transactie/Modal Shift is gericht op de in het Nationaal Verkeers- en Vervoersplan geformuleerde doelstelling van de regering om de milieubelasting door en het energieverbruik van het goederenvervoer over de weg in de periode tot het jaar 2010 aanzienlijk te beperken.
 
@@ -24,7 +48,7 @@ Het programma heeft als specifieke doelstelling de vermindering van de uitstoot 
 
 Het programma richt zich in het bijzonder op projecten die worden uitgevoerd door verladers, vervoerders, expediteurs, rederijen, fabrikanten, carrosserie- en trailerbouwers en toeleveranciers (hierna te noemen: marktpartijen). Met het programma wordt beoogd dat individuele marktpartijen en groepen van marktpartijen ook op de langere termijn op een gestructureerde manier blijven werken aan de eerder genoemde efficiencyverbetering. Om dat te bevorderen zal het programma behalve individuele projecten vooral ook combinaties van projecten (meerjarenplannen) ondersteunen die (bij voorkeur) in het kader van een overeenkomst tussen marktpartijen enerzijds en de overheid anderzijds (zgn. meerjarenovereenkomsten) worden opgezet.
 
-#### B. Projecten
+##### B. Projecten
 
 Het programma heeft betrekking op de volgende soorten projecten:
 
@@ -64,7 +88,7 @@ Met name door brancheverenigingen en opleidingsinstituten uitgevoerde kennisover
 
 De projecten kunnen onder meer betrekking hebben op het verzorgen van publicaties en het organiseren van conferenties, seminars en opleidingen.
 
-#### C. Beoordelingsaspecten
+##### C. Beoordelingsaspecten
 
 De mate waarin een project bijdraagt aan de realisering van de doelstellingen van het programma Transactie/Modal Shift, te weten ritkilometerreductie en/of brandstofreductie per verreden kilometer, wordt tevens bepaald door de volgende aspecten:
 
@@ -88,7 +112,7 @@ De mate waarin een project bijdraagt aan de realisering van de doelstellingen va
 
 - h. **De bijdrage van het project aan de realisatie van overeenkomsten met groepen van marktpartijen** Projecten worden mede beoordeeld naar de mate waarin zij een bijdrage leveren aan het totstandkomen en het uitvoeren van afspraken met groepen van marktpartijen over efficiencyverbetering.
 
-#### D. Indiening van de subsidieaanvragen
+##### D. Indiening van de subsidieaanvragen
 
 Aanvragen ter verkrijging van subsidie op grond van dit programma kunnen vanaf 1 januari 2002 worden ingediend en dienen uiterlijk 30 september 2002 te zijn ontvangen door:
 
@@ -98,11 +122,11 @@ Voor het indienen van een aanvraag dient gebruik te worden gemaakt van het bij N
 
 Aanvragen die niet tijdig worden ontvangen, worden niet in behandeling genomen.
 
-#### E. Subsidieplafond
+##### E. Subsidieplafond
 
 Het plafond voor het verlenen van subsidies op grond van dit programma bedraagt € 2.268.901.
 
-#### F. Programmabeheerder
+##### F. Programmabeheerder
 
 Novem bv is aangewezen als programmabeheerder als bedoeld in artikel 1, onder b, van de Subsidieregeling milieu- en energie-efficiency in het goederenvervoer 2002 en wordt door de Minister van Verkeer en Waterstaat gemandateerd om dit programma uit te voeren.
 
@@ -136,7 +160,7 @@ Nadere informatie over dit programma is verkrijgbaar bij:
 
 - internet: http://www.transactie-modalshift.nl
 
-#### G. Inwerkingtreding
+##### G. Inwerkingtreding
 
 Dit programma treedt in werking met ingang van 1 januari 2002.
 

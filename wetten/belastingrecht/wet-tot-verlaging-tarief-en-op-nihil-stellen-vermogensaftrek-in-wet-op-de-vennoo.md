@@ -1,14 +1,38 @@
 ---
-title: "Wet tot verlaging tarief en op nihil stellen vermogensaftrek in Wet op de vennootschapsbelasting 1969"
+title: "Wet van 4 oktober 1988, tot verlaging van het tarief en het op nihil stellen van de vermogensaftrek in de Wet op de vennootschapsbelasting 1969"
 identifier: "BWBR0004412"
-categorie: "Belastingrecht"
-publicatiedatum: 1988-10-01
-laatste_update: 1988-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004412"
+country: "nl"
+rank: "wet"
+publication_date: "1988-10-01"
+last_updated: "1988-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004412"
+soort: "wet"
+stam_id: "323463"
+version_id: "469522"
+internal_id: "C469521"
+label_id: "316464"
+dtd_version: "2.0"
+original_entry_into_force: "1988-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004412/1988-10-01/0"
+intitule_bron: "Stb.1988-458"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1988-10-04"
+intitule_status: "goed"
+original_publication: "Stb.1988-458"
+original_signed_date: "1988-10-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "20604"
+entry_into_force_date: "1988-10-01"
+entry_into_force_dossier: "20604"
+jci_1_3: "jci1.3:c:BWBR0004412&z=1988-10-01&g=1988-10-01"
+jci_1_0: "1.0:c:BWBR0004412&g=1988-10-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot verlaging tarief en op nihil stellen vermogensaftrek in Wet op de vennootschapsbelasting 1969"
+signed_date: "1988-10-04"
+entry_into_force: "1988-10-01"
 ---
-
-# Wet tot verlaging tarief en op nihil stellen vermogensaftrek in Wet op de vennootschapsbelasting 1969
+# Wet van 4 oktober 1988, tot verlaging van het tarief en het op nihil stellen van de vermogensaftrek in de Wet op de vennootschapsbelasting 1969
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van een betere aanwe
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 De vermogensaftrek en de vennootschapsbelasting over een boekjaar dat voor 1 oktober 1988 begint en op of na die datum eindigt worden, in afwijking in zoverre van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=8), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=18) en [22 van de Wet op de vennootschapsbelasting 1969](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=22), berekend volgens de formules:
 
@@ -38,7 +62,7 @@ Tn voorstelt: het tarief van de vennootschapsbelasting zoals dat tarief luidt na
 
 G voorstelt: het belastbare bedrag of het belastbare binnenlandse bedrag.
 
-#### Artikel III
+##### Artikel III
 
 1. Deze wet treedt in werking met ingang van 1 oktober 1988.
 

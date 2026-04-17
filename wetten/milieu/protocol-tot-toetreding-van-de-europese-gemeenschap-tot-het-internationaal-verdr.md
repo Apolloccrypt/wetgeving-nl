@@ -1,13 +1,23 @@
 ---
-title: "Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd"
+title: "Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL\" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd"
 identifier: "BWBV0001670"
-categorie: "Milieu"
-publicatiedatum: 2002-10-08
-laatste_update: 2002-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001670"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-10-08"
+last_updated: "2002-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001670"
+soort: "verdrag"
+stam_id: "10000688273"
+version_id: "10000706412"
+internal_id: "C10006993271"
+label_id: "10000688514"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001670/2002-10-08/0"
+intitule_status: "nogniet"
+jci_1_3: "jci1.3:c:BWBV0001670&z=2002-10-08&g=2002-10-08"
+jci_1_0: "1.0:c:BWBV0001670&g=2002-10-08"
+citeertitel_status: "officieel"
 ---
-
 # Protocol tot toetreding van de Europese Gemeenschap tot het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960, zoals meermalen gewijzigd en door het Protocol van 27 juni 1997 geconsolideerd
 
 De Republiek Albanië,
@@ -92,11 +102,11 @@ Overwegende dat het Koninkrijk Spanje en het Verenigd Koninkrijk op 2 december 1
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 De Europese Gemeenschap treedt, binnen het kader van haar bevoegdheid, tot het Verdrag toe krachtens de in dit Protocol vastgelegde voorwaarden en overeenkomstig artikel 40 van het Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 Met betrekking tot de Europese Gemeenschap is het Verdrag in het kader van haar bevoegdheid van toepassing op „en route"-luchtvaartdiensten en de daarmede verband houdende naderings- en plaatselijke diensten ten behoeve van het luchtverkeer in de vluchtinformatiegebieden van haar Lid-Staten zoals in Bijlage II bij het Verdrag opgesomd, en binnen de begrenzing van de territoriale toepasselijkheid van het Verdrag tot instelling van de Europese Gemeenschap.
 
@@ -104,15 +114,15 @@ De toepassing van dit Protocol op de luchthaven van Gibraltar laat de respectiev
 
 De toepassing van dit Protocol op de luchthaven van Gibraltar wordt opgeschort totdat de regelingen van de gezamenlijke verklaring van de ministers van Buitenlandse Zaken van het Koninkrijk Spanje en het Verenigd Koninkrijk van 2 december 1987 van toepassing worden. De regeringen van het Koninkrijk Spanje en van het Verenigd Koninkrijk zullen de overige Verdragsluitende Partijen bij dit Protocol van die datum in kennis stellen.
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd het in dit Protocol bepaalde worden de bepalingen van het Verdrag zodanig uitgelegd als de Europese Gemeenschap in het kader van haar bevoegdheid omvattende, en de onderscheiden termen ter aanduiding van de Verdragsluitende Partijen en hun vertegenwoordigers moeten dienovereenkomstig worden begrepen.
 
-#### Artikel 4
+##### Artikel 4
 
 De Europese Gemeenschap draagt niet bij aan de begroting van EUROCONTROL.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd de uitoefening van haar stemrecht krachtens artikel 6 is de Europese Gemeenschap gerechtigd te zijn vertegenwoordigd in en betrokken bij de werkzaamheden van alle organen van EUROCONTROL waarin elk van haar Lid-Staten rechtens als Verdragsluitende Partij is vertegenwoordigd en waarin binnen de bevoegdheid van de Gemeenschap vallende kwesties kunnen worden behandeld, zulks met uitzondering van de met audit belaste organen.
 
@@ -120,7 +130,7 @@ In alle organen van EUROCONTROL waaraan zij rechtens deelneemt doet de Europese 
 
 De Europese Gemeenschap mag noch voor het lidmaatschap van verkozen EUROCONTROL-organen, noch voor ambten in die organen waaraan zij rechtens deelneemt, kandidaten voordragen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voor besluiten omtrent kwesties waarin de Europese Gemeenschap uitsluitende bevoegdheid geniet en ter toepassing van de regels vervat in artikel 8 van het Verdrag, oefent de Europese Gemeenschap het stemrecht van haar Lid-Staten krachtens het Verdrag uit en de aldus door de Europese Gemeenschap uitgebrachte stemmen en gewogen stemmen worden gecumuleerd ter bepaling van de in voornoemd artikel 8 van het Verdrag vermelde meerderheden. Bij stemming door de Gemeenschap stemmen haar Lid-Staten niet.
 
@@ -132,17 +142,17 @@ Een voorgesteld besluit ten aanzien van een specifiek onderwerp waarover door de
 
 3. De Europese Gemeenschap stelt de overige Verdragsluitende Partijen ad hoc in kennis van de gevallen waarin zij voor de onderscheiden agendapunten van de Algemene Vergadering, de Raad en andere overlegorganen waaraan de Algemene Vergadering en de Raad bevoegdheden hebben gedelegeerd, het onder lid 1 van dit artikel bedoelde stemrecht zal uitoefenen. Deze verplichting geldt eveneens voor per briefwisseling te nemen besluiten.
 
-#### Artikel 7
+##### Artikel 7
 
 De reikwijdte van de aan de Gemeenschap verleende bevoegdheid is in algemene termen aangeduid in een door de Europese Gemeenschap bij de ondertekening van dit Protocol afgelegde schriftelijke verklaring.
 
 Deze verklaring kan voor zover toepasselijk worden gewijzigd door kennisgeving van de Europese Gemeenschap aan EUROCONTROL. Zij vormt geen vervanging of enigerlei inperking van de zaken die kunnen worden bestreken in de kennisgeving inzake de bevoegdheid van de Gemeenschap welke vóór de besluitvorming in EUROCONTROL door formele stemming of anderszins dient te geschieden.
 
-#### Artikel 8
+##### Artikel 8
 
 Artikel 34 van het Verdrag is van toepassing op enig geschil ontstaan tussen twee of meer Verdragsluitende Partijen bij dit Protocol of tussen een of meer Verdragsluitende Partijen bij dit Protocol en EUROCONTROL aangaande de uitlegging, toepassing of uitvoering van dit Protocol en met name zijn bestaan, geldigheid en opzegging.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit Protocol wordt ter ondertekening opengesteld voor alle ondertekenende Staten van het Protocol tot consolidatie van het Internationaal Verdrag tot samenwerking in het belang van de veiligheid van de luchtvaart „EUROCONTROL" van 13 december 1960, zoals meermalen gewijzigd en op 27 juni 1997 ter ondertekening opengesteld, in het hiernavolgende „het consoliderend Protocol" genoemd, alsmede voor de Europese Gemeenschap.
 
@@ -156,17 +166,17 @@ Voorafgaand aan de datum van inwerkingtreding wordt het tevens ter ondertekening
 
 5. De Regering van het Koninkrijk België stelt de Regeringen van de overige Staten, ondertekenaars van dit Protocol, alsook de Europese Gemeenschap in kennis van elke ondertekening, elke nederlegging van een akte van bekrachtiging, aanvaarding of goedkeuring en van elke datum van inwerkingtreding van dit Protocol krachtens bovenstaande leden 3 en 4.
 
-#### Artikel 10
+##### Artikel 10
 
 Elke toetreding tot het Verdrag na de datum van inwerkingtreding ervan houdt tevens instemming in met de bindende kracht van dit Protocol. De artikelen 39 en 40 van het Verdrag zijn geldig voor dit Protocol.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit Protocol blijft geldig voor onbepaalde tijd.
 
 2. Indien alle Lid-Staten van EUROCONTROL, tevens Lid-Staat van de Europese Gemeenschap zijnde, besluiten zich uit EUROCONTROL terug te trekken, wordt de kennisgeving van de terugtrekking uit het Verdrag alsmede uit dit Protocol geacht te zijn gegeven door de Europese Gemeenschap gelijktijdig met de kennisgeving van terugtrekking krachtens artikel 38, tweede lid van van het Verdrag van de laatste Lid-Staat van de Europese Gemeenschap die zich uit EUROCONTROL terugtrekt.
 
-#### Artikel 12
+##### Artikel 12
 
 De Regering van het Koninkrijk België doet dit Protocol registreren bij de Secretaris-generaal van de Verenigde Naties ingevolge artikel 102 van het Handvest van de Verenigde Naties, alsook bij de Raad van de Internationale Burgerluchtvaartorganisatie krachtens artikel 83 van het op 7 december 1944 te Chicago ondertekende Verdrag voor de Internationale Burgerluchtvaart.
 

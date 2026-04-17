@@ -1,13 +1,39 @@
 ---
-title: "Regeling tegemoetkoming asbestslachtoffers 2014"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)"
 identifier: "BWBR0035006"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035006"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035006"
+soort: "ministeriele-regeling"
+stam_id: "12634593"
+version_id: "21339692"
+internal_id: "C30642761"
+label_id: "12605254"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035006/2026-01-01/0"
+intitule_bron: "Stcrt.2014-8920"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-21"
+intitule_published: "2014-03-31"
+intitule_in_force: "2014-03-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-8920"
+original_signed_date: "2014-03-21"
+original_published_date: "2014-03-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-8920"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0035006&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0035006&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling tegemoetkoming asbestslachtoffers 2014"
+signed_date: "2014-03-21"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)
 
 Gelet op de [artikelen 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3), en [9 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=9), en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=34a);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In deze regeling wordt verstaan onder:
 
@@ -80,13 +106,13 @@ Besluit:
 
 3. In deze regeling wordt niet als echtgenoot aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.
 
-#### Artikel 2. Arbeid op vaartuig
+##### Artikel 2. Arbeid op vaartuig
 
 Arbeid die wordt verricht aan boord van schepen en luchtvaartuigen die in Nederland hun thuishaven hebben, wordt ten opzichte van de bemanning aangemerkt als in Nederland verrichte arbeid.
 
 ### Hoofdstuk 2. Het recht op en de hoogte van een voorschot in geval van maligne mesothelioom
 
-#### Artikel 3. Voorwaarden recht op een voorschot
+##### Artikel 3. Voorwaarden recht op een voorschot
 
 De werknemer die op het moment van de aanvraag in leven is en bij wie met toepassing van het protocol diagnostiek maligne mesothelioom de ziekte maligne mesothelioom is vastgesteld heeft recht op een voorschot, indien:
 
@@ -104,7 +130,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 - g. hij aan de SVB onverwijld mededeling doet van ontvangst van de schadevergoeding, bedoeld in onder f.
 
-#### Artikel 4. Recht op voorschot nabestaanden
+##### Artikel 4. Recht op voorschot nabestaanden
 
 De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien de werknemer is overleden:
 
@@ -112,7 +138,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 - b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asbestslachtoffers een verzoek tot bemiddeling heeft ingediend, en de werknemer recht op het voorschot zou hebben gehad.
 
-#### Artikel 5. Beperking recht op voorschot
+##### Artikel 5. Beperking recht op voorschot
 
 1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte maligne mesothelioom een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
@@ -126,7 +152,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 - d. tegemoetkoming op grond van de [Regeling tegemoetkoming stoffengerelateerde beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047535) hebben ontvangen.
 
-#### Artikel 6. Hoogte voorschot
+##### Artikel 6. Hoogte voorschot
 
 1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
 
@@ -134,11 +160,11 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 3. Voor de toepassing van het tweede lid, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745) in mindering zijn gebracht.
 
-#### Artikel 7. Toepassingsgebied
+##### Artikel 7. Toepassingsgebied
 
 Deze regeling is, met inachtneming van de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=8&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=9&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing op huisgenoten.
 
-#### Artikel 8. Het recht van huisgenoten op het voorschot
+##### Artikel 8. Het recht van huisgenoten op het voorschot
 
 In afwijking van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), heeft de huisgenoot die op het moment van aanvraag in leven is en bij wie met toepassing van het protocol diagnostiek maligne mesothelioom de ziekte maligne mesothelioom is vastgesteld, recht op een voorschot als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) indien hij aannemelijk heeft gemaakt dat:
 
@@ -148,13 +174,13 @@ In afwijking van [artikel 3, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - c. hij als gevolg hiervan de ziekte maligne mesothelioom heeft opgelopen.
 
-#### Artikel 9. Beperkingen recht van huisgenoten op het voorschot
+##### Artikel 9. Beperkingen recht van huisgenoten op het voorschot
 
 Voor de huisgenoot bestaat geen recht op een voorschot indien aan de huisgenoot of diens nabestaanden reeds een voorschot op grond van deze regeling of een betaling als bedoeld in de [artikelen 3, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), en [10, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01), van € 27.030 of hoger door de werkgever of de productaansprakelijke is betaald.
 
 ### Hoofdstuk 3. Het recht op en de hoogte van een voorschot in geval van asbestose
 
-#### Artikel 10. Voorwaarden recht op een voorschot
+##### Artikel 10. Voorwaarden recht op een voorschot
 
 De werknemer die op het moment van de aanvraag in leven is en bij wie met toepassing van het protocol diagnostiek asbestose de ziekte asbestose is vastgesteld en waarbij sprake is van een longfunctiebeperking als bedoeld in klasse 2, 3 en 4 van het protocol diagnostiek asbestose heeft recht op een voorschot, indien:
 
@@ -172,7 +198,7 @@ De werknemer die op het moment van de aanvraag in leven is en bij wie met toepas
 
 - g. hij aan de SVB onverwijld mededeling doet van ontvangst van de schadevergoeding, bedoeld in onder f.
 
-#### Artikel 11. Recht op voorschot nabestaanden
+##### Artikel 11. Recht op voorschot nabestaanden
 
 De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien de werknemer is overleden:
 
@@ -180,7 +206,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 - b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asbestslachtoffers een verzoek tot bemiddeling heeft ingediend, en de werknemer recht op het voorschot zou hebben gehad.
 
-#### Artikel 12. Beperking recht op voorschot
+##### Artikel 12. Beperking recht op voorschot
 
 1. Indien de werknemer in verband met de blootstelling aan asbest tijdens het verrichten van arbeid buiten Nederland en het daardoor veroorzaakte asbestose een betaling van de werkgever of de productaansprakelijke heeft ontvangen, bestaat het recht op een voorschot in afwijking van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=3&artikel=10&z=2026-01-01&g=2026-01-01) uitsluitend voor zover die betaling lager is dan € 27.030 ongeacht de vorm waarin de betaling is gedaan en de aard van de kosten waarin de betaling voorziet.
 
@@ -194,7 +220,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 - d. tegemoetkoming op grond van de [Regeling tegemoetkoming stoffengerelateerde beroepsziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0047535) hebben ontvangen.
 
-#### Artikel 13. Hoogte voorschot
+##### Artikel 13. Hoogte voorschot
 
 1. Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 27.030.
 
@@ -204,7 +230,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ### Hoofdstuk 4. Het geldend maken van het recht op het voorschot
 
-#### Artikel 14. De aanvraag om het voorschot
+##### Artikel 14. De aanvraag om het voorschot
 
 1. De SVB stelt op aanvraag van de werknemer vast of recht op het voorschot bestaat.
 
@@ -212,7 +238,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 3. Indien er meer dan één nabestaande is, dragen de nabestaanden er zorg voor dat aan één van hen een volmacht wordt verleend tot vertegenwoordiging ten behoeve van de uitvoering van deze regeling, het in ontvangst nemen van het voorschot daarbij inbegrepen.
 
-#### Artikel 15. Overlijden na verzoek tot bemiddeling of aanvraag
+##### Artikel 15. Overlijden na verzoek tot bemiddeling of aanvraag
 
 1. De behandeling van de aanvraag respectievelijk de behandeling van het verzoek tot bemiddeling en vervolgens de aanvraag worden ten behoeve van de nabestaanden voortgezet, tenzij deze schriftelijk te kennen geven daarop geen prijs te stellen, indien de werknemer is overleden:
 
@@ -222,7 +248,7 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 2. [Artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=4&artikel=14&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 16. Informatieverplichtingen aanvraag voorschot
+##### Artikel 16. Informatieverplichtingen aanvraag voorschot
 
 1. De werknemer verstrekt de SVB of de door haar aangewezen personen of instellingen bij de indiening van de aanvraag om een voorschot in ieder geval de inlichtingen en bewijsstukken die noodzakelijk zijn ter vaststelling van maligne mesothelioom of asbestose.
 
@@ -238,11 +264,11 @@ De nabestaanden hebben in plaats van de werknemer recht op het voorschot indien 
 
 ### Hoofdstuk 5. Betaling en terugvordering
 
-#### Artikel 17. Uitbetaling
+##### Artikel 17. Uitbetaling
 
 Het voorschot wordt door de SVB zo spoedig mogelijk uitbetaald aan de werknemer of de nabestaande, bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=4&artikel=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 18. Herziening, intrekking en terugvordering
+##### Artikel 18. Herziening, intrekking en terugvordering
 
 1. De SVB herziet een besluit tot toekenning van het voorschot of trekt dat in indien degene aan wie het voorschot is toegekend of de nabestaande hiervan:
 
@@ -254,23 +280,23 @@ Het voorschot wordt door de SVB zo spoedig mogelijk uitbetaald aan de werknemer 
 
 3. Het voorschot dat als gevolg van een besluit als bedoeld in het eerste lid ten onrechte of tot een te hoog bedrag is verleend, alsmede hetgeen anderszins onverschuldigd is betaald, wordt van degene aan wie het voorschot is toegekend, of de nabestaande hiervan, teruggevorderd.
 
-#### Artikel 19. Indexering van bedragen
+##### Artikel 19. Indexering van bedragen
 
 De in deze regeling genoemde bedragen worden jaarlijks herzien op 1 januari. De bedragen worden herzien in de mate waarin het bedrag genoemd in [artikel 8, eerste lid, onder a, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) in het voorgaande kalenderjaar is herzien op grond van [artikel 14, eerste en tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=14).
 
 ### Hoofdstuk 6. Uitvoering en financiering
 
-#### Artikel 20. Uitvoeringsorgaan
+##### Artikel 20. Uitvoeringsorgaan
 
 Deze regeling wordt uitgevoerd door de SVB.
 
-#### Artikel 21. Advies Instituut Asbestslachtoffers
+##### Artikel 21. Advies Instituut Asbestslachtoffers
 
 1. De SVB kan over het recht op het voorschot advies vragen aan het Instituut Asbestslachtoffers.
 
 2. De SVB stelt de eisen vast waaraan het advies voldoet en stelt een termijn binnen welke het advies wordt verwacht.
 
-#### Artikel 22. Overeenkomst tussen SVB en Instituut Asbestslachtoffers
+##### Artikel 22. Overeenkomst tussen SVB en Instituut Asbestslachtoffers
 
 1. De SVB en het Instituut Asbestslachtoffers stellen een overeenkomst op betreffende de samenwerking en werkwijze in het kader van de uitvoering van deze regeling.
 
@@ -292,13 +318,13 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 - h. hoe uit de overeenkomst voortvloeiende geschillen zullen worden beslecht.
 
-#### Artikel 23. Raming baten en lasten
+##### Artikel 23. Raming baten en lasten
 
 1. Voor de datum, bedoeld in de eerste volzin van [artikel 5.3, eerste lid, van de Regeling SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013280&artikel=5.3) verstrekt de SVB aan de minister in het jaarplan met begroting een opgave van het totaalbedrag aan de voor het komende jaar geraamde baten en lasten met betrekking tot deze regeling, uitgesplitst naar uitkeringslasten per maand en uitvoeringskosten per jaar.
 
 2. In de opgave van de uitkeringslasten, bedoeld in het eerste lid, wordt rekening gehouden met de posten genoemd in [artikel 25, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=6&artikel=25&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 24. Betaling voorschot
+##### Artikel 24. Betaling voorschot
 
 1. De uitkeringslasten en uitvoeringskosten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de minister.
 
@@ -310,7 +336,7 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 3. De minister kan, na overleg met de SVB, van de in het tweede lid, onder a en b, bedoelde bedragen afwijken.
 
-#### Artikel 25. Afrekening
+##### Artikel 25. Afrekening
 
 1. In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=49), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in [artikel 17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035006&hoofdstuk=5&artikel=17&z=2026-01-01&g=2026-01-01), uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.
 
@@ -324,19 +350,19 @@ Deze regeling wordt uitgevoerd door de SVB.
 
 ### Hoofdstuk 7. Slotbepalingen
 
-#### Artikel 26. Overgangsrecht
+##### Artikel 26. Overgangsrecht
 
 Op een aanvraag voor een eenmalige uitkering of een voorschot ingediend voor 1 april 2014, alsmede op de financiële afwikkeling daarvan, wordt beslist met toepassing van de [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) zoals die regeling luidde op 31 maart 2014.
 
-#### Artikel 27. Intrekking [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113)
+##### Artikel 27. Intrekking [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113)
 
 De [Regeling tegemoetkoming asbestslachtoffers](https://wetten.overheid.nl/jci1.3:c:BWBR0011113) wordt ingetrokken.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 april 2014.
 
-#### Artikel 29. Citeertitel
+##### Artikel 29. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling tegemoetkoming asbestslachtoffers 2014.
 

@@ -1,24 +1,50 @@
 ---
-title: "Regeling modellen en formulieren ten behoeve van de handhaving Justitie"
+title: "Regeling van de Minister van Justitie, houdende vaststelling van het model van de aankondiging van de beschikking en eisen van het model van de beschikking inzake administratieve sancties als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften en van het formulier van de oproeping van de verdachte om ter terechtzitting te verschijnen en het formulier van de kennisgeving van de voorwaarde ter voorkoming van strafvervolging"
 identifier: "BWBR0013829"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-06-27
-laatste_update: 2018-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013829"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-06-27"
+last_updated: "2018-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013829"
+soort: "ministeriele-regeling"
+stam_id: "5016723"
+version_id: "15118922"
+internal_id: "C20615501"
+label_id: "4993104"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013829/2018-06-27/0"
+intitule_bron: "Stcrt.2002-133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-07-02"
+intitule_published: "2002-07-16"
+intitule_in_force: "2002-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-15"
+original_signed_date: "2008-01-16"
+original_published_date: "2008-01-22"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-15-p7-SC84183"
+entry_into_force_date: "2008-02-01"
+jci_1_3: "jci1.3:c:BWBR0013829&z=2018-06-27&g=2018-06-27"
+jci_1_0: "1.0:c:BWBR0013829&g=2018-06-27"
+citeertitel_status: "officieel"
+short_title: "Regeling modellen en formulieren ten behoeve van de handhaving Justitie"
+signed_date: "2008-01-16"
+entry_into_force: "2008-02-01"
 ---
-
 # Regeling van de Minister van Justitie, houdende vaststelling van het model van de aankondiging van de beschikking en eisen van het model van de beschikking inzake administratieve sancties als bedoeld in de Wet administratiefrechtelijke handhaving verkeersvoorschriften en van het formulier van de oproeping van de verdachte om ter terechtzitting te verschijnen en het formulier van de kennisgeving van de voorwaarde ter voorkoming van strafvervolging
 
 Gelet op [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](onbekend), [artikel 388, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=388) en [artikel 8, derde lid, van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=8);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=4), de aankondiging van de strafbeschikking, bedoeld in [artikel 257c, vierde lid van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=257c), het formulier van de oproeping van de verdachte, bedoeld in [artikel 388, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=388) en het formulier van de kennisgeving, bedoeld in [artikel 8, derde lid, van het Transactiebesluit 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006664&artikel=8), worden vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het model van de beschikking, bedoeld in [artikel 4, eerste lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=4) vermeldt in ieder geval:
 
@@ -34,7 +60,7 @@ Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid
 
 2. In de gevallen, bedoeld in [artikel 31, eerste en tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](https://wetten.overheid.nl/jci1.3:c:BWBR0004581&artikel=31), kan voor de beschikking gebruik worden gemaakt van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2018-06-27&g=2018-06-27).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het papier van blad A1 van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2018-06-27&g=2018-06-27), is wit.
 
@@ -42,29 +68,29 @@ Het model van de aankondiging van beschikking, bedoeld in [artikel 4, eerste lid
 
 3. De kleur van de tekst op de bladen, genoemd in het eerste en tweede lid, is zwart.
 
-#### Artikel 4
+##### Artikel 4
 
 De tekst van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2018-06-27&g=2018-06-27), kan, na afstemming met het openbaar ministerie, qua terminologie worden aangepast indien dit noodzakelijk is in het kader van de handhaving van de bepalingen op het terrein van de spoor-, scheepvaart- en milieuwetgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij geautomatiseerde verbalisering kan van de bijlage, bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0013829&artikel=1&z=2018-06-27&g=2018-06-27), worden afgeweken.
 
 2. Bij geautomatiseerde verbalisering wordt aan de betrokkene onderscheidenlijk de verdachte de informatie verstrekt zoals deze voor dat geval is voorgeschreven op blad A1.
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling modellen en formulieren ten behoeve van de handhaving Justitie.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Regeling modellen en formulieren ten behoeve van verkeershandhaving Justitie.
 

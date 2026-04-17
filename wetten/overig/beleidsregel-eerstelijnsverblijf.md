@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel eerstelijnsverblijf"
 identifier: "BWBR0051279"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051279"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051279"
+soort: "zbo"
+stam_id: "17478033"
+version_id: "30824732"
+internal_id: "C44175031"
+label_id: "17380354"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051279/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24503"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-18"
+intitule_in_force: "2025-07-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24503"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24503"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051279&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051279&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel eerstelijnsverblijf
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -18,7 +43,7 @@ Met de brief van 31 mei 2016 (kenmerk 962317-149857-CZ) heeft de Minister van Vo
 
 Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Medische Zorg ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa gegeven (coördinatiefunctie verblijf). Deze aanwijzing dateert van 19 november 2019 en heeft als kenmerk [1613272-198762-PZo](https://wetten.overheid.nl/jci1.3:c:BWBR0042809). Deze aanwijzing is gepubliceerd in de Staatscourant onder nummer 2019, 64844.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -34,15 +59,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **verblijfsdag:** Een verblijfsdag is een kalenderdag die deel uitmaakt van een periode van opname voor eerstelijnsverblijf. De opname omvat minimaal één overnachting. De dag van opname en de dag van ontslag gelden als een te declareren verblijfsdag, waarbij geldt voor de dag van opname dat deze enkel gedeclareerd kan worden indien de opname heeft plaats gevonden vóór 20.00 uur. In het geval de dag van opname samenvalt met de dag van overlijden is eveneens sprake van een verblijfsdag. Als in dit geval de opname na 20.00 uur heeft plaatsgevonden kan eveneens een verblijfsdag gedeclareerd worden.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van eerstelijnsverblijf.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op eerstelijnsverblijf en psychologische zorg binnen eerstelijnsverblijf, zoals omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051279&artikel=1&z=2026-01-01&g=2026-01-01) van deze beleidsregel.
 
-#### Artikel 4. Prestaties
+##### Artikel 4. Prestaties
 
 In deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -128,7 +153,7 @@ De prestatie kan alleen in rekening worden gebracht als hiervoor een schriftelij
 
 De prestatie onderlinge dienstverlening betreft de levering van een (deel)prestatie of van een geheel van prestaties op het gebied van eerstelijnsverblijf door een zorgaanbieder in opdracht van een andere zorgaanbieder. De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘uitvoerende zorgaanbieder’. De laatstgenoemde zorgaanbieder wordt in dit kader aangeduid als de ‘opdrachtgevende zorgaanbieder’.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 Er gelden maximumtarieven voor de prestaties:
 
@@ -202,11 +227,11 @@ Dit zogenaamde max-maxtarief kan uitsluitend in rekening worden gebracht aan (a)
 
 Een tarief dat niet hoger is dan berekend op basis van artikel 5.2 kan aan eenieder in rekening worden gebracht.
 
-#### Artikel 6. Intrekken oude beleidsregels
+##### Artikel 6. Intrekken oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel eerstelijnsverblijf](https://wetten.overheid.nl/jci1.3:c:BWBR0049995), met kenmerk BR/REG-25109, ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel eerstelijnsverblijf](https://wetten.overheid.nl/jci1.3:c:BWBR0049995), met kenmerk BR/REG-25109, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

@@ -1,20 +1,42 @@
 ---
 title: "Overeenkomst betreffende het Internationale Monetaire Fonds"
 identifier: "BWBV0005521"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-03-03
-laatste_update: 2011-03-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005521"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-03-03"
+last_updated: "2011-03-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005521"
+soort: "verdrag"
+stam_id: "10004679503"
+version_id: "10004943912"
+internal_id: "C10007474321"
+label_id: "10004665544"
+dtd_version: "2.0"
+original_entry_into_force: "1978-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005521/2011-03-03/0"
+intitule_bron: "Trb.1977-40"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-03-10"
+intitule_in_force: "1978-06-21"
+intitule_status: "goed"
+original_publication: "Trb.1977-40"
+original_published_date: "1977-03-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-40"
+entry_into_force_date: "1978-04-01"
+jci_1_3: "jci1.3:c:BWBV0005521&z=2011-03-03&g=2011-03-03"
+jci_1_0: "1.0:c:BWBV0005521&g=2011-03-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-04-01"
 ---
-
 # Overeenkomst betreffende het Internationale Monetaire Fonds
 
 De Regeringen namens welke deze Overeenkomst getekend is, komen overeen als volgt:
 
 De Engelse tekst van de Overeenkomst is oorspronkelijk gepubliceerd in Stb. 1945/F 318. De vertaling is gepubliceerd in Stb. 1945/F 318. De Overeenkomst is in werking getreden op 27 december 1945, zie Trb. 1956/153. De Overeenkomst is gewijzigd volgens Trb. 1968/106.
 
-#### artikel Inleidend
+##### artikel Inleidend
 
 (i). Het Internationale Monetaire Fonds is opgericht en handelt in overeenstemming met de bepalingen van deze Overeenkomst zoals oorspronkelijk vastgesteld en later gewijzigd.
 
@@ -22,7 +44,7 @@ De Engelse tekst van de Overeenkomst is oorspronkelijk gepubliceerd in Stb. 1945
 
 (iii). De ingevolge deze Overeenkomst toegestane verrichtingen en transacties lopen via de Algemene Afdeling, die, in overeenstemming met de bepalingen van deze Overeenkomst, bestaat uit de Algemene Middelenrekening, de Bijzondere Aanwendingsrekening en de Investeringsrekening, met dien verstande dat verrichtingen en transacties betreffende bijzondere trekkingsrechten via de Bijzondere Trekkingsrechtenafdeling lopen.
 
-#### Artikel I. Doelstellingen
+##### Artikel I. Doelstellingen
 
 De doelstellingen van het Internationale Monetaire Fonds zijn:
 
@@ -40,7 +62,7 @@ De doelstellingen van het Internationale Monetaire Fonds zijn:
 
 Het Fonds zal zich in zijn gehele beleid en in al zijn beslissingen laten leiden door de doelstellingen in dit artikel tot uitdrukking gebracht.
 
-#### Artikel II. Lidmaatschap
+##### Artikel II. Lidmaatschap
 
 Sectie 1. **Oorspronkelijke leden**
 
@@ -50,7 +72,7 @@ Sectie 2. **Andere leden**
 
 Het lidmaatschap staat open voor andere landen op die tijdstippen en in overeenstemming met die voorwaarden die door de Raad van Bestuur kunnen worden gesteld. Deze voorwaarden, met inbegrip van de voorwaarden voor bijdragen, zijn gebaseerd op beginselen die verenigbaar zijn met die welke worden toegepast op andere landen die reeds lid zijn.
 
-#### Artikel III. Quota en bijdragen
+##### Artikel III. Quota en bijdragen
 
 Sectie 1. **Quota en betaling van bijdragen**
 
@@ -80,7 +102,7 @@ Sectie 4. **Vervanging van valuta door waardepapieren**
 
 Het Fonds neemt van ieder lid in plaats van enig deel van de bijdrage in de eigen valuta van het lid aan de Algemene Middelenrekening, dat het Fonds naar zijn mening niet voor zijn verrichtingen en transacties nodig heeft, promessen of gelijksoortige schuldbekentenissen aan, uitgegeven door het lid of door de instantie van deponering, die door het lid ingevolge artikel XIII, sectie 2 aangewezen is. Deze waardepapieren zijn niet overdraagbaar, dragen geen rente en zijn op aanvraag tegen hun nominale waarde aflosbaar door creditering van de rekening van het Fonds bij de aangewezen instantie van deponering. Deze sectie is niet alleen van toepassing op de eigen valuta's tot betaling waarvan de leden zich hebben verbonden, maar ook op iedere valuta die uit anderen hoofde aan het Fonds is verschuldigd of door het Fonds is verkregen en die moet worden geboekt op de Algemene Middelenrekening.
 
-#### Artikel IV. Verplichtingen ten aanzien van wisselkoers-arrangementen
+##### Artikel IV. Verplichtingen ten aanzien van wisselkoers-arrangementen
 
 Sectie 1. **Algemene verplichtingen van leden**
 
@@ -118,7 +140,7 @@ Sectie 5. **Verschillende valuta's binnen het grondgebied van een lid**
 
 - (b). Indien het Fonds maatregelen neemt krachtens dit artikel, worden deze geacht betrekking te hebben op alle valuta's van een lid, zoals bedoeld in letter (a) van deze sectie, tenzij het Fonds anders verklaart.
 
-#### Artikel V. Verrichtingen en transacties van het Fonds
+##### Artikel V. Verrichtingen en transacties van het Fonds
 
 Sectie 1. **Instanties die met het Fonds in verbinding kunnen treden**
 
@@ -290,7 +312,7 @@ Sectie 12. **Andere verrichtingen en transacties**
 
 - (k). Indien het Fonds uit hoofde van letter (c) hierboven goud verkoopt dat het heeft verworven na de datum van de tweede wijziging van deze Overeenkomst, wordt een bedrag van de opbrengst ter hoogte van de aankoopprijs van het goud overgemaakt op de Algemene Middelenrekening en wordt het eventuele restant overgemaakt op de Investeringsrekening, voor aanwending overeenkomstig de bepalingen van artikel XII, sectie 6, (f). Indien goud dat het Fonds na de datum van de tweede wijziging van deze Overeenkomst heeft verworven wordt verkocht na 7 april 2008 maar vóór de datum van inwerkingtreding van deze bepaling maakt het Fonds bij de inwerkingtreding van deze bepaling en onverminderd de limiet vermeld in artikel XII, sectie 6, (f) (ii) een bedrag van de Algemene Middelenrekening over op de Investeringsrekening ter hoogte van de opbrengst van deze verkoop, na aftrek van (i) de aankoopprijs van het verkochte goud, en (ii) het bedrag boven de aankoopprijs die eventueel vóór de datum van inwerkingtreding van deze bepaling kan zijn overgemaakt op de Investeringsrekening.
 
-#### Artikel VI. Overmaking van kapitaal
+##### Artikel VI. Overmaking van kapitaal
 
 Sectie 1. **Gebruikmaking van de algemene middelen van het Fonds voor overmaking van kapitaal**
 
@@ -310,7 +332,7 @@ Sectie 3. **Controle op overmaking van kapitaal**
 
 Leden kunnen de controle uitoefenen die noodzakelijk is om internationale kapitaalbewegingen te reguleren, maar geen lid kan die controle op zulk een wijze uitoefenen dat de betalingen voor lopende transacties worden beperkt of dat overmakingen van bedragen voor de vereffening van verplichtingen bovenmatig worden vertraagd, behalve voor zover bepaald in artikel VII, sectie 3 (b) en artikel XIV, sectie 2.
 
-#### Artikel VII. Aanvulling en schaarse valuta's
+##### Artikel VII. Aanvulling en schaarse valuta's
 
 Sectie 1. **Maatregelen ter aanvulling van het bezit van het Fonds aan valuta's**
 
@@ -340,7 +362,7 @@ Sectie 5. **Invloed van andere internationale overeenkomsten op deviezenbeperkin
 
 De leden komen overeen dat zij zich op de verplichtingen die voortspruiten uit enige vóór het sluiten van deze Overeenkomst gemaakte afspraak, niet op zodanige wijze zullen beroepen, dat het bepaalde in dit artikel daardoor geen werkingskracht kan hebben.
 
-#### Artikel VIII. Algemene verplichtingen der leden
+##### Artikel VIII. Algemene verplichtingen der leden
 
 Sectie 1. **Inleiding**
 
@@ -416,7 +438,7 @@ Sectie 7. **Verplichting tot samenwerking ten aanzien van het beleid inzake rese
 
 Ieder lid verbindt zich samen te werken met het Fonds en met andere leden, ten einde te verzekeren dat het beleid van het lid ter zake van reservemiddelen verenigbaar is met het streven een beter internationaal toezicht op de internationale liquiditeit te bevorderen en het bijzondere trekkingsrecht tot voornaamste reservemiddel in het internationale monetaire stelsel te maken.
 
-#### Artikel IX. Rechtspositie, immuniteiten en voorrechten
+##### Artikel IX. Rechtspositie, immuniteiten en voorrechten
 
 Sectie 1. **Doelstellingen van het artikel**
 
@@ -478,11 +500,11 @@ Sectie 10. **Toepassing van het artikel**
 
 Ieder lid onderneemt binnen zijn grondgebied de nodige stappen met het doel de beginselen vervat in dit artikel, in zijn eigen nationale recht tot gelding te brengen en deelt het Fonds in bijzonderheden mede welke stappen het heeft ondernomen.
 
-#### Artikel X. Betrekkingen met andere internationale organisaties
+##### Artikel X. Betrekkingen met andere internationale organisaties
 
 Het Fonds werkt binnen de bepalingen van deze Overeenkomst samen met iedere algemene internationale organisatie en met officiële internationale organisaties, die gespecialiseerde verantwoordelijkheden op aanverwante gebieden dragen. Regelingen voor een zodanige samenwerking, die een wijziging van een bepaling van deze Overeenkomst ten gevolge zouden hebben, mogen slechts worden getroffen na wijziging van deze Overeenkomst ingevolge artikel XXVIII.
 
-#### Artikel XI. Betrekkingen met Staten die geen lid zijn
+##### Artikel XI. Betrekkingen met Staten die geen lid zijn
 
 Sectie 1. **Verbintenissen ten aanzien van betrekkingen met Staten die geen lid zijn**
 
@@ -498,7 +520,7 @@ Sectie 2. **Beperkingen ten aanzien van transacties met Staten die geen lid zijn
 
 Niets in deze Overeenkomst beïnvloedt het recht van een lid om beperkingen in te voeren ten aanzien van deviezentransacties met Staten die geen lid zijn of met personen binnen hun grondgebied, tenzij het Fonds van oordeel is dat zodanige beperkingen de belangen der leden benadelen en in strijd zijn met de doelstellingen van het Fonds.
 
-#### Artikel XII. Organisatie en beheer
+##### Artikel XII. Organisatie en beheer
 
 Sectie 1. **Structuur van het Fonds**
 
@@ -634,7 +656,7 @@ Sectie 8. **Mededeling van standpunten aan leden**
 
 Het Fonds heeft te allen tijde het recht zijn standpunten omtrent enige aangelegenheid in het kader van deze Overeenkomst informeel aan een lid mede te delen. Het Fonds kan met een meerderheid van zeventig procent van het totale stemmenaantal besluiten tot publikatie van een aan een lid uitgebracht verslag betreffende diens financiële of economische toestand en ontwikkeling, indien deze rechtstreeks een ernstige verstoring van het evenwicht in de internationale betalingsbalansen der leden zouden kunnen veroorzaken. Indien het lid niet is gerechtigd een Bewindvoerder te benoemen, is het in overeenstemming met sectie 3 (j) van dit artikel gerechtigd zich te laten vertegenwoordigen. Het Fonds publiceert geen rapport dat wijzigingen zou aangeven in de fundamentele structuur van het economisch bestel van leden.
 
-#### Artikel XIII. Kantoren en instanties van deponering
+##### Artikel XIII. Kantoren en instanties van deponering
 
 Sectie 1. **Plaats van vestiging der kantoren**
 
@@ -650,7 +672,7 @@ Sectie 3. **Garantie der activa van het Fonds**
 
 Ieder lid garandeert alle activa van het Fonds tegen verlies ten gevolge van faillissement of het in gebreke blijven van de instelling die door hem als instantie van deponering is aangewezen.
 
-#### Artikel XIV. Overgangsregelingen
+##### Artikel XIV. Overgangsregelingen
 
 Sectie 1. **Kennisgeving aan het Fonds**
 
@@ -666,7 +688,7 @@ Het Fonds brengt jaarlijks verslag uit over de ingevolge sectie 2 van dit artike
 
 Het Fonds kan, indien het een zodanige maatregel in uitzonderlijke omstandigheden noodzakelijk acht, aan een lid kenbaar maken dat de situatie gunstig is voor de opheffing van een bepaalde beperking of voor de algemene afschaffing van beperkingen die onverenigbaar zijn met het bepaalde in andere artikelen van deze Overeenkomst. Aan het lid dient een passende termijn te worden gegeven om op een zodanige mededeling te antwoorden. Indien het Fonds tot de bevinding komt dat het lid desalniettemin beperkingen handhaaft die onverenigbaar zijn met de doelstellingen van het Fonds, is artikel XXVI, sectie 2 (a) op dat lid van toepassing.
 
-#### Artikel XV. Bijzondere trekkingsrechten
+##### Artikel XV. Bijzondere trekkingsrechten
 
 Sectie 1. **Bevoegdheid tot het toewijzen van bijzondere trekkingsrechten**
 
@@ -678,7 +700,7 @@ Sectie 2. **Waardebepaling van het bijzondere trekkingsrecht**
 
 De wijze van waardebepaling van het bijzondere trekkingsrecht wordt door het Fonds bepaald met een meerderheid van zeventig procent van het totale stemmenaantal, met dien verstande echter dat een meerderheid van vijfentachtig procent van het totale stemmenaantal vereist is voor een verandering in het beginsel van waardebepaling of voor een fundamentele verandering in de toepassing van het geldende beginsel.
 
-#### Artikel XVI. Algemene Afdeling en Bijzondere Trekkingsrechtenafdeling
+##### Artikel XVI. Algemene Afdeling en Bijzondere Trekkingsrechtenafdeling
 
 Sectie 1. **Scheiding van verrichtingen en transacties**
 
@@ -692,7 +714,7 @@ Sectie 3. **Boeking en inlichtingen**
 
 Veranderingen in het bezit aan bijzondere trekkingsrechten worden eerst van kracht wanneer zij door het Fonds in de Bijzondere Trekkingsrechtenafdeling zijn geboekt. Participanten geven het Fonds kennis van de bepalingen van deze Overeenkomst uit hoofde waarvan bijzondere trekkingsrechten worden gebruikt. Het Fonds kan van participanten eisen, dat zij alle verdere inlichtingen verstrekken die het Fonds voor zijn functies nodig acht.
 
-#### Artikel XVII. Participanten en andere houders van bijzondere trekkingsrechten
+##### Artikel XVII. Participanten en andere houders van bijzondere trekkingsrechten
 
 Sectie 1. **Participanten**
 
@@ -714,7 +736,7 @@ Het Fonds kan:
 
 Voor aanwijzingen ingevolge (i) hierboven is een meerderheid van vijfentachtig procent van het totale stemmenaantal vereist. De door het Fonds vastgestelde voorwaarden en bedingen dienen verenigbaar te zijn met de bepalingen van deze Overeenkomst en de doeltreffende werking van de Bijzondere Trekkingsrechtenafdeling.
 
-#### Artikel XVIII. Toewijzing en intrekking van bijzondere trekkingsrechten
+##### Artikel XVIII. Toewijzing en intrekking van bijzondere trekkingsrechten
 
 Sectie 1. **Beginselen en overwegingen bij toewijzing en intrekking**
 
@@ -768,7 +790,7 @@ Sectie 4. **Besluiten inzake toewijzingen en intrekkingen**
 
 - (d). Voor besluiten ingevolge sectie 2 (a), (b) en (c) of sectie 3 van dit artikel, met uitzondering van besluiten ingevolge sectie 3 ten aanzien van een verlaging van het toewijzingspercentage, is een meerderheid van vijfentachtig procent van het totale stemmenaantal nodig.
 
-#### Artikel XIX. Verrichtingen en transacties in bijzondere trekkingsrechten
+##### Artikel XIX. Verrichtingen en transacties in bijzondere trekkingsrechten
 
 Sectie 1. **Gebruik van bijzondere trekkingsrechten**
 
@@ -828,7 +850,7 @@ Sectie 7. **Wisselkoersen**
 
 - (d). Voor de toepassing van deze bepaling omvat de uitdrukking participant mede een zich terugtrekkende participant.
 
-#### Artikel XX. Bijzondere Trekkingsrechtenafdeling, rente en provisies
+##### Artikel XX. Bijzondere Trekkingsrechtenafdeling, rente en provisies
 
 Sectie 1. **Rente**
 
@@ -850,7 +872,7 @@ Sectie 5. **Betaling van rente, provisies en aanslagen**
 
 Rente, provisies en aanslagen worden betaald in bijzondere trekkingsrechten. Een participant die bijzondere trekkingsrechten nodig heeft om een provisie of aanslag te betalen is verplicht en gerechtigd deze tegen een voor het Fonds aanvaardbare valuta te verwerven in een transactie met het Fonds via de Algemene Middelenrekening. Indien op deze wijze niet voldoende bijzondere trekkingsrechten kunnen worden verworven, is de participant verplicht en gerechtigd deze met een vrij te gebruiken valuta te verwerven van een participant die door het Fonds wordt aangewezen. Door een participant na de betalingsdatum verworven bijzondere trekkingsrechten worden verrekend met zijn onbetaalde provisies en ingetrokken.
 
-#### Artikel XXI. Beheer van de Algemene Afdeling en de Bijzondere Trekkingsrechtenafdeling
+##### Artikel XXI. Beheer van de Algemene Afdeling en de Bijzondere Trekkingsrechtenafdeling
 
 (a). De Algemene Afdeling en de Bijzondere Trekkingsrechtenafdeling worden beheerd overeenkomstig het bepaalde in artikel XII, met inachtneming van onderstaande bepalingen:
 
@@ -866,11 +888,11 @@ Rente, provisies en aanslagen worden betaald in bijzondere trekkingsrechten. Een
 
 (d). Wanneer ten aanzien van enigerlei aangelegenheid die uitsluitend voortvloeit uit participatie in de Bijzondere Trekkingsrechtenafdeling een meningsverschil ontstaat tussen het Fonds en een participant die zijn participatie in de Bijzondere Trekkingsrechtenafdeling heeft beëindigd of tussen het Fonds en enige participant tijdens de liquidatie van de Bijzondere Trekkingsrechtenafdeling, wordt het meningsverschil onderworpen aan arbitrage overeenkomstig de procedures vervat in artikel XXIX (c).
 
-#### Artikel XXII. Algemene verplichtingen van participanten
+##### Artikel XXII. Algemene verplichtingen van participanten
 
 Naast de verplichtingen aangegaan ten aanzien van bijzondere trekkingsrechten ingevolge andere artikelen van deze Overeenkomst, verplicht elke participant zich bovendien met het Fonds en met andere participanten samen te werken ten einde de doeltreffende werking van de Bijzondere Trekkingsrechtenafdeling en het juiste gebruik van bijzondere trekkingsrechten te vergemakkelijken, in overeenstemming met deze Overeenkomst en met de doelstelling de bijzondere trekkingsrechten te maken tot het voornaamste reservemiddel in het internationale monetaire stelsel.
 
-#### Artikel XXIII. Opschorting van verrichtingen en transacties in bijzondere trekkingsrechten
+##### Artikel XXIII. Opschorting van verrichtingen en transacties in bijzondere trekkingsrechten
 
 Sectie 1. **Noodmaatregelen**
 
@@ -890,7 +912,7 @@ Sectie 2. **Het niet nakomen van verplichtingen**
 
 - (f). Het recht van een participant zijn bijzondere trekkingsrechten te gebruiken wordt niet opgeschort wegens het feit dat hij ingevolge artikel V, sectie 5, artikel VI, sectie 1, of artikel XXVI, sectie 2 (a) niet langer bevoegd is de middelen van het Fonds te gebruiken. Het feit dat een participant heeft nagelaten enigerlei verplichting ten aanzien van bijzondere trekkingsrechten na te komen, levert geen grond voor toepassing van artikel XXVI, sectie 2.
 
-#### Artikel XXIV. Beëindiging van participatie
+##### Artikel XXIV. Beëindiging van participatie
 
 Sectie 1. **Het recht participatie te beëindigen**
 
@@ -926,7 +948,7 @@ Ter vergemakkelijking van de vereffening met een zich terugtrekkende participant
 
 - (ii). bijzondere trekkingsrechten dient te verkrijgen in een transactie met het Fonds via de Algemene Middelenrekening tegen een voor het Fonds aanvaardbare valuta ten einde provisies of termijnen te betalen die verschuldigd zijn ingevolge schema H.
 
-#### Artikel XXV. Liquidatie van de Bijzondere Trekkingsrechtenafdeling
+##### Artikel XXV. Liquidatie van de Bijzondere Trekkingsrechtenafdeling
 
 - (a). De Bijzondere Trekkingsrechtenafdeling mag slechts bij besluit van de Raad van Bestuur worden geliquideerd. In een noodtoestand kan het College van Bewindvoerders, indien dit tot het inzicht komt dat liquidatie van de Bijzondere Trekkingsrechtenafdeling nodig kan zijn, alle toewijzingen of intrekkingen en alle verrichtingen en transacties in bijzondere trekkingsrechten tijdelijk opschorten, hangende een besluit van de Raad van Bestuur. Een besluit van de Raad van Bestuur om het Fonds te liquideren, vormt een besluit om zowel de Algemene Afdeling als de Bijzondere Trekkingsrechtenafdeling te liquideren.
 
@@ -936,7 +958,7 @@ Ter vergemakkelijking van de vereffening met een zich terugtrekkende participant
 
 - (d). De liquidatie van de Bijzondere Trekkingsrechtenafdeling vindt plaats volgens het bepaalde in schema I.
 
-#### Artikel XXVI. Opzegging van het lidmaatschap
+##### Artikel XXVI. Opzegging van het lidmaatschap
 
 Sectie 1. **Opzeggingsrecht van de leden**
 
@@ -956,7 +978,7 @@ Sectie 3. **Vereffening der rekeningen met uitgetreden leden**
 
 Wanneer een lid zich uit het Fonds terugtrekt, houden de normale verrichtingen en transacties van het Fonds in zijn valuta op en vindt vereffening plaats van alle rekeningen die tussen het lid en het Fonds bestaan, zulks met redelijke spoed en bij overeenkomst tussen het lid en het Fonds. Indien niet terstond overeenstemming wordt bereikt, is het bepaalde in schema J van toepassing op de vereffening der rekeningen.
 
-#### Artikel XXVII. Noodmaatregelen
+##### Artikel XXVII. Noodmaatregelen
 
 Sectie 1. **Tijdelijke opschorting**
 
@@ -984,7 +1006,7 @@ Sectie 2. **Liquidatie van het Fonds**
 
 - (c). De liquidatie vindt plaats in overeenstemming met het bepaalde in schema K.
 
-#### Artikel XXVIII. Wijzigingen
+##### Artikel XXVIII. Wijzigingen
 
 (a). Ieder voorstel betreffende het aanbrengen van wijzigingen in deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een Bestuurder of het College van Bewindvoerders, ingediend bij de voorzitter van de Raad van Bestuur, die het voorstel voorlegt aan de Raad van Bestuur. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt het Fonds bij rondschrijven of per telegram alle leden of zij de voorgestelde wijziging aanvaarden. Wanneer drie vijfde van de leden die te zamen vijfentachtig procent van het totale stemmenaantal bezitten, de voorgestelde wijziging hebben aanvaard, geeft het Fonds hiervan kennis door een officiële mededeling daarvan aan alle leden te zenden.
 
@@ -998,7 +1020,7 @@ Sectie 2. **Liquidatie van het Fonds**
 
 (c). Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij in het rondschrijven of het telegram een kortere termijn is bepaald.
 
-#### Artikel XXIX. Interpretatie
+##### Artikel XXIX. Interpretatie
 
 (a). Ieder meningsverschil dat omtrent de interpretatie van de bepalingen van deze Overeenkomst tussen enig lid en het Fonds of tussen de leden onderling ontstaat, wordt aan het College van Bewindvoerders ter beslissing voorgelegd. Indien enig lid dat niet is gerechtigd een Bewindvoerder te benoemen ten nauwste bij het meningsverschil is betrokken, heeft het het recht zich te laten vertegenwoordigen overeenkomstig het bepaalde in artikel XII, sectie 3 (j).
 
@@ -1006,7 +1028,7 @@ Sectie 2. **Liquidatie van het Fonds**
 
 (c). Telkens wanneer er onenigheid ontstaat tussen het Fonds en een lid dat is uitgetreden, of tussen het Fonds en enig lid tijdens de liquidatie van het Fonds, wordt een zodanige onenigheid onderworpen aan een scheidsrechterlijke beslissing door een gerecht van drie scheidsmannen, van wie één door het Fonds wordt benoemd, een andere door het lid of het uittredende lid en een, de scheidsrechter, door de President van het Internationaal Gerechtshof of een andere autoriteit die daarvoor bij een door het Fonds vastgestelde regeling is aangewezen, tenzij partijen anders overeenkomen. De scheidsrechter heeft volledige bevoegdheid om in alle vragen betreffende de procedure te beslissen, wanneer naar aanleiding daarvan onenigheid tussen partijen bestaat.
 
-#### Artikel XXX. Verklaring van uitdrukkingen
+##### Artikel XXX. Verklaring van uitdrukkingen
 
 Bij de interpretatie van de bepalingen van deze Overeenkomst laten het Fonds en de leden zich leiden door het volgende:
 
@@ -1042,7 +1064,7 @@ Bij de interpretatie van de bepalingen van deze Overeenkomst laten het Fonds en 
 
 - (i). Onder transacties in bijzondere trekkingsrechten wordt verstaan inwisselen van bijzondere trekkingsrechten tegen andere geldelijke middelen. Onder verrichtingen in bijzondere trekkingsrechten wordt verstaan ander gebruik van bijzondere trekkingsrechten.
 
-#### Artikel XXXI. Slotbepalingen
+##### Artikel XXXI. Slotbepalingen
 
 Sectie 1. **Inwerkingtreding**
 
@@ -1066,19 +1088,19 @@ Sectie 2. **Ondertekening**
 
 - (h). Het bepaalde onder letter (d) hierboven wordt voor iedere ondertekenende Regering van kracht met ingang van de datum van ondertekening.
 
-#### 1
+##### 1
 
 Wederinkoopverplichtingen die ingevolge artikel V, sectie 7 (b) zijn ontstaan vóór de datum van de tweede wijziging van deze Overeenkomst en waaraan op die datum nog niet is voldaan, dienen uiterlijk te worden nagekomen op de datum of data waarop de verplichtingen moesten worden nagekomen in overeenstemming met de bepalingen van deze Overeenkomst vóór de tweede wijziging.
 
-#### 2
+##### 2
 
 Een lid voldoet met bijzondere trekkingsrechten aan elke verplichting om goud te betalen aan het Fonds uit hoofde van wederinkoop of als bijdrage die nog niet is geleverd op de datum van de tweede wijziging van deze Overeenkomst, maar het Fonds kan voorschrijven dat deze betalingen geheel of gedeeltelijk mogen worden verricht in de door het Fonds gespecificeerde valuta's van andere leden. Een niet-participant voldoet aan een verplichting ingevolge deze bepaling om in bijzondere trekkingsrechten te betalen met de door het Fonds gespecificeerde valuta's van andere leden.
 
-#### 3
+##### 3
 
 Voor de toepassing van paragraaf 2 hierboven is 0,888.671 gram fijn goud equivalent aan een bijzonder trekkingsrecht en het ingevolge paragraaf 2 hierboven te betalen bedrag aan valuta wordt vastgesteld op die basis en op basis van de waarde van de valuta uitgedrukt in bijzondere trekkingsrechten op de datum van nakoming van een verplichting.
 
-#### 4
+##### 4
 
 De valuta van een lid die in bezit is van het Fonds boven de vijfenzeventig procent van het quotum van het lid op de datum van de tweede wijziging van deze Overeenkomst en die niet wordt teruggekocht ingevolge paragraaf 1 hierboven, wordt teruggekocht in overeenstemming met de volgende voorschriften:
 
@@ -1086,15 +1108,15 @@ De valuta van een lid die in bezit is van het Fonds boven de vijfenzeventig proc
 
 - ii). Ander bezit wordt uiterlijk 4 jaar na de datum van de tweede wijziging van deze Overeenkomst teruggekocht.
 
-#### 5
+##### 5
 
 Wederinkopen ingevolge paragraaf 1 hierboven die niet zijn onderworpen aan paragraaf 2 hierboven, wederinkopen ingevolge paragraaf 4 hierboven en alle specificaties van valuta's ingevolge paragraaf 2 hierboven dienen in overeenstemming te zijn met artikel V, sectie 7 (i).
 
-#### 6
+##### 6
 
 Alle voorschriften en regelingen, percentages, procedures en besluiten die gelden op de datum van de tweede wijziging van deze Overeenkomst blijven van kracht totdat zij worden gewijzigd in overeenstemming met de bepalingen van deze Overeenkomst.
 
-#### 7
+##### 7
 
 Voor zover geen arrangementen met een werking gelijk aan die van het bepaalde in letters (a) en (b) hieronder zijn tot stand gekomen voor de datum van de tweede wijziging van deze Overeenkomst, dient het Fonds:
 
@@ -1104,63 +1126,63 @@ Voor zover geen arrangementen met een werking gelijk aan die van het bepaalde in
 
 Onmiddellijk na de verkoop van goud ingevolge deze paragraaf 7, wordt een bedrag van de opbrengst in de ontvangen valuta's, dat op het tijdstip van de verkoop gelijk is aan een bijzonder trekkingsrecht per 0,888.671 gram fijn goud, geboekt op de Algemene Middelenrekening; de andere activa die het Fonds bezit krachtens arrangementen ingevolge letter (b) hierboven dienen gescheiden te worden gehouden van de algemene middelen van het Fonds. Activa waarover het Fonds na beëindiging van arrangementen ingevolge letter (b) hierboven kan blijven beschikken, worden overgemaakt op de Bijzondere Aanwendingsrekening.
 
-#### 1
+##### 1
 
 Het Fonds brengt aan de leden ter kennis dat voor de toepassing van deze Overeenkomst pari-waarden kunnen worden vastgesteld in overeenstemming met artikel IV, secties 1, 3, 4 en 5 en dit schema; deze worden uitgedrukt in bijzondere trekkingsrechten of in een door het Fonds voorgeschreven andere gemeenschappelijke eenheid. Deze gemeenschappelijke eenheid mag niet goud of een valuta zijn.
 
-#### 2
+##### 2
 
 Een lid dat voornemens is een pari-waarde voor zijn valuta vast te stellen, stelt binnen een redelijk tijdvak na de kennisgeving ingevolge paragraaf 1 hierboven, een pari-waarde voor aan het Fonds.
 
-#### 3
+##### 3
 
 Een lid dat niet voornemens is ingevolge paragraaf 1 hierboven een pari-waarde voor zijn valuta vast te stellen, pleegt overleg met het Fonds en draagt er zorg voor dat zijn wisselkoersarrangementen verenigbaar zijn met de doelstellingen van het Fonds en geschikt zijn om de ingevolge artikel IV, sectie 1 op hem rustende verplichtingen na te komen.
 
-#### 4
+##### 4
 
 Binnen een redelijke termijn na ontvangst van een voorstel met betrekking tot een bepaalde pari-waarde stemt het Fonds hiermee in of tekent het hiertegen bezwaar aan. Een voorgestelde pari-waarde treedt niet in werking voor de toepassing van deze Overeenkomst, indien het Fonds hiertegen bezwaar aantekent, en het lid dient zich te houden aan het bepaalde in paragraaf 3 hierboven. Het Fonds mag geen bezwaar aantekenen wegens het binnenlandse sociale of politieke beleid van het lid dat de pari-waarde voorstelt.
 
-#### 5
+##### 5
 
 Ieder lid dat een pari-waarde voor zijn valuta heeft, verbindt zich tot het toepassen van passende maatregelen, verenigbaar met deze Overeenkomst, ten einde te verzekeren dat de maximum- en minimumkoersen voor contante valutatransacties die binnen zijn grondgebied plaatsvinden tussen zijn eigen valuta en de valuta's van andere leden die pari-waarden handhaven, met niet meer dan 4½ procent of een andere marge dan wel marges die het Fonds met een meerderheid van vijfentachtig procent van het totale stemmenaantal kan vaststellen, van de pariteit verschillen.
 
-#### 6
+##### 6
 
 Een lid mag geen verandering in de pari-waarde van zijn valuta voorstellen, behalve om een fundamentele onevenwichtigheid te corrigeren, dan wel het ontstaan hiervan te voorkomen. Een verandering kan alleen worden aangebracht op voorstel van het lid en slechts na overleg met het Fonds.
 
-#### 7
+##### 7
 
 Wanneer een verandering in de pari-waarde wordt voorgesteld, dient het Fonds binnen een redelijke termijn na ontvangst van het voorstel hiermee in te stemmen of hiertegen bezwaar aan te tekenen. Het Fonds stemt hiermede in, indien te zijnen genoegen is aangetoond dat de verandering noodzakelijk is om een fundamentele onevenwichtigheid te corrigeren, dan wel het ontstaan hiervan te voorkomen. Het Fonds mag geen bezwaar aantekenen wegens het binnenlandse sociale of politieke beleid van het lid dat de verandering voorstelt. Een voorgestelde verandering in pari-waarde treedt niet in werking voor de toepassing van deze Overeenkomst indien het Fonds hiertegen bezwaar aantekent. Indien een lid de pari-waarde van zijn valuta verandert ondanks het bezwaar van het Fonds, is op dit lid artikel XXVI, sectie 2 van toepassing. Het handhaven van een irreële pari-waarde door een lid wordt door het Fonds afgeraden.
 
-#### 8
+##### 8
 
 De ingevolge deze Overeenkomst vastgestelde pari-waarde van de valuta van een lid houdt voor de toepassing van deze Overeenkomst op te bestaan, indien het lid het Fonds ter kennis brengt dat het voornemens is de pari-waarde op te heffen. Het Fonds kan bij een besluit met een meerderheid van vijfentachtig procent van het totale stemmenaantal bezwaar maken tegen de beëindiging van een pari-waarde. Indien een lid een pari-waarde voor zijn valuta beëindigt ondanks het bezwaar van het Fonds, is op dit lid artikel XXVI, sectie 2 van toepassing. Een ingevolge deze Overeenkomst vastgestelde pari-waarde houdt op te bestaan voor de toepassing van deze Overeenkomst, indien het lid de pari-waarde opheft ondanks het bezwaar van het Fonds, of indien het Fonds tot de slotsom komt dat het lid niet, zoals bepaald in paragraaf 5 hierboven, koersen handhaaft voor een aanzienlijke hoeveelheid valutatransacties, met dien verstande dat het Fonds een zodanige uitspraak niet mag doen, tenzij het overleg heeft gepleegd met het lid en dit zestig dagen tevoren ter kennis heeft gebracht dat het Fonds voornemens is te overwegen om tot een zodanige uitspraak over te gaan.
 
-#### 9
+##### 9
 
 Indien de pari-waarde van de valuta van een lid ingevolge paragraaf 8 hierboven heeft opgehouden te bestaan, pleegt het lid overleg met het Fonds en draagt het er zorg voor dat zijn wisselkoersarrangementen verenigbaar zijn met de doelstellingen van het Fonds en geschikt zijn om de ingevolge artikel IV, sectie 1 op hem rustende verplichtingen na te komen.
 
-#### 10
+##### 10
 
 Een lid voor wiens valuta de pari-waarde heeft opgehouden te bestaan ingevolge paragraaf 8 hierboven, kan te allen tijde een nieuwe pari-waarde voor zijn valuta voorstellen.
 
-#### 11
+##### 11
 
 Niettegenstaande het bepaalde in paragraaf 6 hierboven, kan het Fonds met een meerderheid van zeventig procent van het totale stemmenaantal uniforme, evenredige veranderingen aanbrengen in alle pari-waarden, indien het bijzondere trekkingsrecht de gemeenschappelijke eenheid is en de veranderingen de waarde van het bijzondere trekkingsrecht niet zullen aantasten. De pari-waarde van de valuta van een lid mag echter ingevolge deze bepaling niet worden veranderd, indien, binnen een tijdvak van zeven dagen na de maatregel van het Fonds, het lid het Fonds ter kennis brengt dat het niet wenst dat de pari-waarde van zijn valuta door een zodanige maatregel wordt veranderd.
 
-#### 1
+##### 1
 
 (a). Ieder lid dat een Bewindvoerder benoemt en iedere groep van leden die het aantal hun toegewezen stemmen laat uitbrengen door een gekozen Bewindvoerder, benoemt in de Raad één Raadslid: dit moet zijn een Bestuurder, een Minister in de Regering van een lid, dan wel een persoon van vergelijkbare rang; ieder lid mag maximaal zeven adjunct-Raadsleden benoemen. De Raad van Bestuur kan met een meerderheid van vijfentachtig procent van het totale stemmenaantal het aantal adjunct-Raadsleden dat mag worden benoemd, veranderen. Een Raadslid of adjunct-Raadslid vervult zijn ambt totdat een nieuwe benoeming plaatsvindt of tot de volgende regelmatige verkiezing van Bewindvoerders, welke van beide het eerst is.
 
 (b). Bewindvoerders, of in hun afwezigheid hun Plaatsvervangers, en adjunct-Raadsleden zijn gerechtigd vergaderingen van de Raad bij te wonen, tenzij de Raad besluit een besloten zitting te houden. Ieder lid dat en iedere groep van leden die een Raadslid benoemt, benoemt een Plaatsvervanger die gerechtigd is een vergadering van de Raad bij te wonen wanneer het Raadslid niet aanwezig is en die volledig bevoegd zal zijn om voor het Raadslid op te treden.
 
-#### 2
+##### 2
 
 (a). De Raad houdt toezicht op het beheer en de aanpassing van het internationale monetaire stelsel, waaronder begrepen de voortdurende werking van het aanpassingsproces en de ontwikkelingen in de mondiale liquiditeit; in dit verband beziet de Raad de ontwikkelingen in de overdracht van reële middelen aan ontwikkelingslanden.
 
 (b). De Raad neemt voorstellen uit hoofde van artikel XXVIII (a) tot wijziging van de Artikelen der Overeenkomst in overweging.
 
-#### 3
+##### 3
 
 (a). De Raad van Bestuur kan de Raad machtiging verlenen alle bevoegdheden van de Raad van Bestuur uit te oefenen, met uitzondering van die welke bij deze Overeenkomst rechtstreeks zijn toegekend aan de Raad van Bestuur.
 
@@ -1168,11 +1190,11 @@ Niettegenstaande het bepaalde in paragraaf 6 hierboven, kan het Fonds met een me
 
 (c). De Raad neemt geen enkele maatregel ingevolge door de Raad van Bestuur overgedragen bevoegdheden, die onverenigbaar is met enigerlei door de Raad van Bestuur genomen maatregel en het College van Bewindvoerders neemt geen enkele maatregel ingevolge door de Raad van Bestuur overgedragen bevoegdheden, die onverenigbaar is met een maatregel van hetzij de Raad van Bestuur, hetzij de Raad.
 
-#### 4
+##### 4
 
 De Raad kiest een Raadslid als voorzitter, stelt die voorschriften vast die nodig of dienstig zijn voor het vervullen van zijn functies en bepaalt alle aspecten van zijn werkwijze. De Raad houdt de vergaderingen die de Raad nodig acht of door het College van Bewindvoerders worden bijeengeroepen.
 
-#### 5
+##### 5
 
 (a). De Raad heeft bevoegdheden die overeenstemmen met die van het College van Bewindvoerders, krachtens de volgende bepalingen:
 
@@ -1188,35 +1210,35 @@ artikel XII, sectie 2 (c), (f), (g) en (j); artikel XVIII, sectie 4 (a) en secti
 
 (f). Wanneer een Bewindvoerder ingevolge artikel XII, sectie 3, letter i, punt v, gerechtigd is het aantal stemmen uit te brengen dat aan een lid is toegewezen, is het raadslid dat is benoemd door de groep waarvan de leden bedoelde Bewindvoerder hebben gekozen, gerechtigd te stemmen en het aan dat lid toegewezen aantal stemmen uit te brengen. Het lid wordt geacht te hebben deelgenomen aan de benoeming van het Raadslid wanneer dit gerechtigd is te stemmen en het aantal aan het lid toegewezen stemmen uit te brengen.
 
-#### 6
+##### 6
 
 De eerste zin van artikel XII, sectie 2 (a) wordt geacht tevens te verwijzen naar de Raad.
 
-#### 1
+##### 1
 
 De verkiezing van de te kiezen Bewindvoerders vindt plaats bij stemming van de Bestuurders die het recht hebben te stemmen.
 
-#### 2
+##### 2
 
 Bij het stemmen voor de te kiezen Bewindvoerders, brengt ieder der stemgerechtigde Bestuurders op een persoon alle stemmen uit, waarop hij volgens artikel XII, sectie 5 (a) recht heeft. De vijftien personen waarop het grootste aantal stemmen is uitgebracht, zijn Bewindvoerders, met dien verstande dat een persoon die minder dan vier procent van het totale uit te brengen stemmenaantal behaalt (gerechtigde stemmen), niet als gekozen wordt beschouwd.
 
-#### 3
+##### 3
 
 Wanneer bij de eerste stemming geen vijftien personen zijn gekozen, vindt een tweede stemming plaats, waarbij slechts stemmen (a) de Bestuurders die bij de eerste stemming hun stem hebben uitgebracht op een niet-gekozen persoon en (b) de Bestuurders wier stemmen voor een gekozen persoon overeenkomstig paragraaf 4 hieronder worden geacht het aantal op die persoon uitgebrachte stemmen te hebben gebracht boven de negen procent van de gerechtigde stemmen. Indien er bij de tweede stemming meer kandidaten zijn dan het aantal te kiezen Bewindvoerders, is de persoon die het laagste aantal stemmen ontving bij de eerste stemming, niet verkiesbaar.
 
-#### 4
+##### 4
 
 Bij het vaststellen of de stemmen die door een Bestuurder zijn uitgebracht, moeten worden geacht het totaal voor een persoon boven de negen procent van de gerechtigde stemmen te hebben gebracht, wordt dit percentage geacht te omvatten: ten eerste de stemmen van de Bestuurder die het grootste aantal stemmen op die persoon heeft uitgebracht, vervolgens de stemmen van de Bestuurder die het op een na grootste aantal heeft uitgebracht, enz., totdat negen procent is bereikt.
 
-#### 5
+##### 5
 
 Iedere Bestuurder van wiens stemmen een gedeelte in aanmerking moet worden genomen om het totaal, op enige persoon uitgebracht, boven de vier procent te brengen, wordt geacht al zijn stemmen op die persoon uit te brengen, zelfs indien het totale stemmenaantal voor die persoon daardoor de negen procent overschrijdt.
 
-#### 6
+##### 6
 
 Indien na de tweede stemming geen vijftien personen zijn gekozen, zullen verdere stemmingen volgens gelijke beginselen worden gehouden, totdat vijftien personen zijn gekozen, met dien verstande dat, nadat veertien personen zijn gekozen, de vijftiende bij enkelvoudige meerderheid van de resterende stemmen kan worden gekozen en wordt geacht te zijn gekozen met al die stemmen.
 
-#### 1
+##### 1
 
 Gedurende het eerste basistijdvak gelden de volgende voorschriften voor reconstitutie:
 
@@ -1232,37 +1254,37 @@ Gedurende het eerste basistijdvak gelden de volgende voorschriften voor reconsti
 
 - (b). Participanten houden eveneens naar behoren rekening met de wenselijkheid dat na verloop van tijd een evenwichtige verhouding wordt nagestreefd tussen hun bezit aan bijzondere trekkingsrechten enerzijds en hun andere reserves anderzijds.
 
-#### 2
+##### 2
 
 Indien een participant de voorschriften voor het herstel van de oorspronkelijke positie niet naleeft, bepaalt hef Fonds of de omstandigheden al dan niet opschorting ingevolge artikel XXIII, sectie 2 (b) rechtvaardigen.
 
-#### 1
+##### 1
 
 Indien de overblijvende verplichting na de verrekening ingevolge artikel XXIV, sectie 2 (b), een verplichting is jegens de zich terugtrekkende participant en niet binnen zes maanden na de datum van beëindiging overeenstemming over de afrekening is bereikt tussen het Fonds en de zich terugtrekkende participant, koopt het Fonds dit saldo van bijzondere trekkingsrechten terug binnen een maximum van vijf jaar vanaf de datum van beëindiging af in gelijke halfjaarlijkse termijnen. Het Fonds koopt dit saldo terug op door hem te bepalen wijze, hetzij (a) door betaling aan de zich terugtrekkende participant van de bedragen die de overblijvende participanten aan het Fonds verstrekken overeenkomstig artikel XXIV, sectie 5, hetzij (b) door de zich terugtrekkende participant toe te staan zijn bijzondere trekkingsrechten te gebruiken ter verkrijging van zijn eigen valuta of van een vrij te gebruiken valuta van een door het Fonds aangewezen participant, van de Algemene Middelenrekening of enige andere houder.
 
-#### 2
+##### 2
 
 Indien de overblijvende verplichting na de verrekening ingevolge artikel XXIV, sectie 2 (b) een verplichting is jegens het Fonds en niet binnen zes maanden na de datum van beëindiging overeenstemming is bereikt over de afrekening, voldoet de zich terugtrekkende participant aan deze verplichting in gelijke halfjaarlijkse termijnen binnen drie jaar na de datum van beëindiging of binnen een zodanige langere periode als het Fonds kan vaststellen. De zich terugtrekkende participant voldoet aan deze verplichting op door het Fonds te bepalen wijze, hetzij (a) door betaling aan het Fonds van een vrij te gebruiken valuta, hetzij (b) door bijzondere trekkingsrechten te verkrijgen overeenkomstig artikel XXIV, sectie 6, uit de Algemene Middelenrekening of bij overeenstemming met een door het Fonds aangewezen participant of van enige andere houder en deze bijzondere trekkingsrechten te verrekenen met de verschuldigde termijn.
 
-#### 3
+##### 3
 
 Termijnen ingevolge paragraaf 1 of 2 hierboven worden verschuldigd zes maanden na de datum van beëindiging en met tussenpozen van zes maanden nadien.
 
-#### 4
+##### 4
 
 In geval van liquidatie van de Bijzondere Trekkingsrechtenafdeling ingevolge artikel XXV binnen zes maanden na de datum waarop een participant zijn participatie beëindigt, geschiedt de vereffening tussen het Fonds en die Regering overeenkomstig artikel XXV en schema I.
 
-#### 1
+##### 1
 
 In geval van liquidatie van de Bijzondere Trekkingsrechtenafdeling voldoen de participanten hun verplichtingen aan het Fonds in tien halfjaarlijkse termijnen, of over een zodanige langere periode als het Fonds nodig kan oordelen, in een vrij te gebruiken valuta en de valuta's van de participanten die bijzondere trekkingsrechten bezitten die in enigerlei termijn moeten worden teruggekocht, tot het bedrag van zodanige terugkoop, als bepaald door het Fonds. De eerste halfjaarlijkse termijn wordt betaald zes maanden na het besluit om de Bijzondere Trekkingsrechtenafdeling te liquideren.
 
-#### 2
+##### 2
 
 Indien wordt besloten het Fonds binnen zes maanden na de datum van het besluit tot liquidatie van de Bijzondere Trekkingsrechtenafdeling te liquideren, vindt de liquidatie van de Bijzondere Trekkingsrechtenafdeling geen voortgang alvorens de bijzondere trekkingsrechten in de Algemene Middelenrekening zijn verdeeld overeenkomstig de onderstaande regel:
 
 Na de verdelingen ingevolge paragraaf 2 (a) en (b) van schema K, wijst het Fonds zijn bijzondere trekkingsrechten in de Algemene Middelenrekening toe aan alle leden die participant zijn, in verhouding tot de bedragen die aan elke participant zijn verschuldigd na de verdeling ingevolge paragraaf 2 (b). Ter bepaling van het aan elke participant verschuldigde bedrag voor de verdeling van het restant van zijn bezit aan iedere valuta ingevolge paragraaf 2 (d) van schema K, trekt het Fonds hiervan de verdeling af van de bijzondere trekkingsrechten verricht ingevolge deze regel.
 
-#### 3
+##### 3
 
 Met de ingevolge paragraaf 1 hierboven ontvangen bedragen koopt het Fonds de bijzondere trekkingsrechten van houders terug op de wijze en in de volgorde als hieronder bepaald:
 
@@ -1272,69 +1294,69 @@ Met de ingevolge paragraaf 1 hierboven ontvangen bedragen koopt het Fonds de bij
 
 - (c). Het Fonds stelt vast welke de verhouding is tussen de bijzondere trekkingsrechten in het bezit van elke participant en zijn nettocumulatieve toewijzingen. Het Fonds koopt eerst de bijzondere trekkingsrechten terug van participanten met het grootste verhoudingsgetal totdat dit is teruggebracht tot het volgende grootste verhoudingsgetal; daarna koopt het Fonds de bijzondere trekkingsrechten in het bezit van deze participanten terug overeenkomstig hun netto-cumulatieve toewijzingen, totdat hun aldus verminderd verhoudingsgetal is teruggebracht tot het volgende grootste verhoudingsgetal; deze werkwijze wordt voortgezet tot het voor terugkoop beschikbare bedrag is uitgeput.
 
-#### 4
+##### 4
 
 Ieder bedrag waarop een participant recht heeft bij terugkoop ingevolge paragraaf 3 hierboven, wordt verrekend met ieder bedrag dat moet worden betaald ingevolge paragraaf 1 hierboven.
 
-#### 5
+##### 5
 
 Tijdens de liquidatie betaalt het Fonds rente over het bedrag van de bijzondere trekkingsrechten van houders en betaalt elke participant provisies over zijn netto-cumulatieve toewijzing van bijzondere trekkingsrechten verminderd met het bedrag van betalingen verricht overeenkomstig paragraaf 1 hierboven. De rentevoet en de hoogte van de provisies, alsmede het tijdstip van betaling worden door het Fonds vastgesteld. Betalingen van rente en provisies worden zo veel mogelijk verricht in bijzondere trekkingsrechten. Een participant die niet voldoende bijzondere trekkingsrechten bezit om provisies te voldoen, verricht de betaling met een door het Fonds gespecificeerde valuta. Bijzondere trekkingsrechten die worden ontvangen als provisies worden niet gebruikt voor de betaling van rente voor zover zij nodig zijn voor administratiekosten, doch worden overgemaakt aan het Fonds en worden het eerst teruggekocht en wel met de valuta's die door het Fonds worden gebruikt voor betaling van zijn onkosten.
 
-#### 6
+##### 6
 
 Zolang een participant achterstallig is met betrekking tot enige betaling vereist in paragraaf 1 of 5 hierboven, worden hem geen bedragen betaald overeenkomstig paragraaf 3 of 5 hierboven.
 
-#### 7
+##### 7
 
 Indien na de slotbetalingen aan de participanten niet iedere participant die niet achterstallig is bijzondere trekkingsrechten bezit in dezelfde verhouding tot zijn netto-cumulatieve toewijzing, moeten participanten met een kleiner verhoudingsgetal van die met een groter verhoudingsgetal overeenkomstig door het Fonds getroffen regelingen zodanige bedragen kopen, dat de verhoudingsgetallen van hun bezit aan bijzondere trekkingsrechten dezelfde worden. Elke achterstallige participant moet het Fonds zijn eigen valuta betalen tot een met deze achterstalligheid gelijk bedrag. Het Fonds verdeelt deze valuta en eventuele overblijvende vorderingen tussen participanten in verhouding tot het bedrag aan bijzondere trekkingsrechten dat elk bezit en deze bijzondere trekkingsrechten worden ingetrokken. Het Fonds sluit dan de boeken van de Bijzondere Trekkingsrechtenafdeling af; alle verplichtingen van het Fonds voortvloeiend uit de toewijzingen van bijzondere trekkingsrechten en het beheer van de Bijzondere Trekkingsrechtenafdeling nemen een einde.
 
-#### 8
+##### 8
 
 Elke participant wiens valuta ingevolge dit schema wordt toegedeeld aan andere participanten garandeert te allen tijde een onbeperkt gebruik daarvan voor de aankoop van goederen of voor betaling van bedragen die aan hem zelf of aan personen binnen zijn grondgebied zijn verschuldigd. Elke participant die deze verplichting heeft, stemt erin toe andere participanten schadeloos te stellen voor alle verliezen die ontstaan uit het verschil tussen de waarde waartegen het Fonds zijn valuta ingevolge dit schema verdeelde en de waarde welke die participanten bij beschikking over zijn valuta verkrijgen.
 
-#### 1
+##### 1
 
 De vereffening der rekeningen met betrekking tot de Algemene Middelenrekening vindt plaats overeenkomstig het bepaalde in paragraaf 1 tot 6 van dit schema. Het Fonds is verplicht aan een uitgetreden lid een bedrag uit te betalen gelijk aan diens quotum, plus alle andere door het Fonds aan het lid verschuldigde bedragen, verminderd met eventuele aan het Fonds verschuldigde bedragen, waaronder begrepen kosten die na de datum van zijn uittreding ontstaan; geen betaling vindt echter plaats vóór zes maanden na de datum van uittreding. De betalingen geschieden in de valuta van het uitgetreden lid en tot dit doel kan het Fonds naar de Algemene Middelenrekening het bezit aan de valuta van het lid in de Bijzondere Aanwendingsrekening of in de Investeringsrekening overmaken in ruil voor een gelijkwaardig bedrag aan de valuta's van andere leden in de Algemene Middelenrekening; deze valuta's worden met instemming van de desbetreffende leden door het Fonds gekozen.
 
-#### 2
+##### 2
 
 Indien het bezit van het Fonds aan de valuta van een uitgetreden lid niet toereikend is voor de betaling van het door het Fonds verschuldigde netto-bedrag, wordt het restant betaald in een vrij te gebruiken valuta of op overeengekomen andere wijze. Indien het Fonds en het uitgetreden lid niet binnen zes maanden na de datum van uittreding tot overeenstemming komen, wordt de desbetreffende valuta die in het bezit is van het Fonds onverwijld aan het uittredende lid uitbetaald. Een eventueel nog verschuldigd saldo wordt in tien halfjaarlijkse termijnen betaald gedurende de vijf daaropvolgende jaren. Iedere zodanige termijn wordt, naar keuze van het Fonds, betaald in de valuta van het uitgetreden lid verworven na diens uittreding, dan wel in een vrij te gebruiken valuta.
 
-#### 3
+##### 3
 
 Indien het Fonds met betaling van een van de overeenkomstig de bovenstaande paragrafen verschuldigde termijnen in gebreke blijft, heeft het uitgetreden lid het recht betaling van het Fonds te eisen in ongeacht welke valuta die in het bezit van het Fonds is, met uitzondering van een valuta die ingevolge artikel VII, sectie 3 schaars is verklaard.
 
-#### 4
+##### 4
 
 Indien het bezit van het Fonds aan de valuta van een uitgetreden lid het aan dat lid verschuldigde bedrag overtreft, en indien omtrent de vereffening der rekeningen niet binnen zes maanden na de datum van uittreding overeenstemming is bereikt, is het gewezen lid verplicht het bedrag van zijn valuta dat zijn quotum te boven gaat, terug te kopen in een vrij te gebruiken valuta. De terugkoop geschiedt tegen de koersen waartegen het Fonds zodanige valuta's zou verkopen op het tijdstip van uittreding uit het Fonds. Het uitgetreden lid dient de volledige terugkoop te bewerkstelligen binnen vijf jaren na de datum van zijn uittreding, of binnen een langer, door het Fonds vast te stellen tijdvak, maar het is niet verplicht in enige halfjaarlijkse periode meer dan een tiende deel terug te kopen van het bedrag waarmede het bezit van het Fonds aan zijn valuta op de datum van uittreding zijn quotum overtreft, vermeerderd met verdere bedragen aan die valuta, die gedurende een zodanig halfjaarlijks tijdvak nog zijn verkregen. Indien het uitgetreden lid aan deze verplichting niet voldoet, kan het Fonds op ordelijke wijze het bedrag dat had moeten worden teruggekocht op ongeacht welke markt liquideren.
 
-#### 5
+##### 5
 
 Ieder lid dat de valuta wenst te verkrijgen van een lid dat is uitgetreden, koopt deze van het Fonds, voor zover eerstgenoemd lid het recht heeft gebruik te maken van de middelen van het Fonds en zodanige valuta overeenkomstig paragraaf 4 hierboven beschikbaar is.
 
-#### 6
+##### 6
 
 Het uitgetreden lid garandeert te allen tijde het onbeperkt gebruik van de valuta die overeenkomstig paragrafen 4 en 5 hierboven is verkocht voor de aankoop van goederen of voor betaling van bedragen die aan hem zelf of aan personen binnen zijn grondgebied zijn verschuldigd. Het stelt het Fonds schadeloos voor alle verliezen die ontstaan uit het verschil tussen de waarde van zijn valuta, uitgedrukt in bijzondere trekkingsrechten, op de datum van uittreding, en de waarde in bijzondere trekkingsrechten die het Fonds bij verkoop ingevolge paragrafen 4 en 5 hierboven verkrijgt.
 
-#### 7
+##### 7
 
 Indien het uitgetreden lid schulden heeft jegens het Fonds als gevolg van transacties via de Bijzondere Aanwendingsrekening krachtens artikel V, sectie 12 (f) (ii), worden deze schulden voldaan in overeenstemming met de voorwaarden waarop zij zijn aangegaan.
 
-#### 8
+##### 8
 
 Indien het Fonds de valuta van het uitgetreden lid bezit in de Bijzondere Aanwendingsrekening of in de Investeringsrekening, kan het Fonds op ordelijke wijze op ongeacht welke markt het bedrag van de valuta van het uitgetreden lid dat overblijft na gebruik ingevolge paragraaf 1 hierboven, inwisselen voor de valuta's van de leden, en de opbrengst van het inwisselen van het bedrag in elke rekening wordt in die rekening gehouden.
 
 Paragraaf 5 hierboven en de eerste zin van paragraaf 6 hierboven zijn van toepassing op de valuta van het uitgetreden lid.
 
-#### 9
+##### 9
 
 Indien het Fonds ingevolge artikel V, sectie 12 (h) obligaties van het uitgetreden lid bezit in de Bijzondere Aanwendingsrekening, dan wel in de Investeringsrekening, kan het Fonds deze houden tot aan de vervaldatum, of hierover eerder beschikken. Paragraaf 8 hierboven is van toepassing op de opbrengst van een zodanige desinvestering.
 
-#### 10
+##### 10
 
 Ingeval het Fonds binnen zes maanden na de datum waarop het lid uittreedt in liquidatie gaat overeenkomstig artikel XXVII, sectie 2, worden de rekeningen tussen het Fonds en die Regering vereffend in overeenstemming met artikel XXVII, sectie 2 en schema K.
 
-#### 1
+##### 1
 
 In geval van liquidatie heeft de betaling der schulden van het Fonds, de terugbetaling der bijdragen daargelaten, voorrang bij de verdeling der activa van het Fonds. Bij de betaling van iedere zodanige schuld wendt het Fonds zijn activa in de onderstaande volgorde aan:
 
@@ -1344,7 +1366,7 @@ In geval van liquidatie heeft de betaling der schulden van het Fonds, de terugbe
 
 - (c). alle andere valuta's, voor zover mogelijk in verhouding tot de quota der leden.
 
-#### 2
+##### 2
 
 Na voldoening der schulden van het Fonds in overeenstemming met paragraaf 1 hierboven, wordt het saldo van de activa van het Fonds in de volgende verhouding toegewezen:
 
@@ -1364,35 +1386,35 @@ Na voldoening der schulden van het Fonds in overeenstemming met paragraaf 1 hier
 
 - (ii). elk extra bezit aan goud en valuta tussen alle leden, naar evenredigheid van hun quota.
 
-#### 3
+##### 3
 
 Ieder lid koopt het ingevolge paragraaf 2 (d) hierboven aan andere leden toegewezen bedrag van zijn valuta terug en komt binnen drie maanden na het besluit tot liquidatie, met het Fonds een ordelijke procedure voor deze terugkoop overeen.
 
-#### 4
+##### 4
 
 Indien een lid binnen de hierboven onder paragraaf 3 vermelde termijn van drie maanden niet met het Fonds tot overeenstemming is gekomen, gebruikt het Fonds de ingevolge paragraaf 2 (d) hierboven aan dat lid toegewezen valuta's van andere leden voor het terugkopen van zijn valuta die aan andere leden is toegewezen. Iedere valuta die is toegewezen aan een lid dat niet tot overeenstemming is gekomen, wordt, voor zover mogelijk, gebruikt om de valuta van dat lid die is toegewezen aan leden die wel met het Fonds ingevolge paragraaf 3 hierboven tot overeenstemming zijn gekomen, terug te kopen.
 
-#### 5
+##### 5
 
 Indien een lid overeenkomstig paragraaf 3 hierboven met het Fonds tot overeenstemming is gekomen, gebruikt het Fonds de valuta van de andere leden die aan dat lid ingevolge paragraaf 2 (d) hierboven zijn toegewezen, om de valuta van dat lid, die is toegewezen aan de andere leden die met het Fonds tot overeenstemming zijn gekomen, als onder paragraaf 3 hierboven, terug te kopen. Ieder op die wijze teruggekocht bedrag wordt ingekocht in de valuta van het lid waaraan het was toegedeeld.
 
-#### 6
+##### 6
 
 Na uitvoering van de in bovenstaande paragrafen vermelde maatregelen betaalt het Fonds aan ieder lid de overblijvende valutabedragen uit, die het nog voor rekening van dat lid houdt.
 
-#### 7
+##### 7
 
 Ieder lid welks valuta ingevolge paragraaf 6 hierboven aan andere leden is toegewezen, koopt deze valuta terug in de valuta van het lid dat de terugkoop verzoekt, of op iedere andere wijze die tussen hen wordt overeengekomen. Indien de betrokken leden niet anders overeenkomen, voltooit het lid dat tot terugkoop is verplicht deze binnen vijf jaar na de datum van verdeling, maar is het niet verplicht gedurende elke halfjaarlijkse periode meer terug te kopen dan een tiende van het aan ieder lid toegewezen bedrag. Indien het lid niet aan deze verplichting voldoet, kan het bedrag dat had moeten worden teruggekocht op ordelijke wijze op ongeacht welke markt worden geliquideerd.
 
-#### 8
+##### 8
 
 Ieder lid welks valuta volgens paragraaf 6 hierboven aan andere leden is toegewezen, garandeert te allen tijde een onbeperkt gebruik daarvan voor de aankoop van goederen of voor betaling van bedragen die aan hen zelf of aan personen binnen zijn grondgebieden zijn verschuldigd. Ieder aldus verplicht lid stemt erin toe andere leden schadeloos te stellen voor alle verliezen die ontstaan uit een verschil tussen de waarde van zijn valuta, uitgedrukt in bijzondere trekkingsrechten, op de datum van het besluit tot liquidatie van het Fonds, en de waarde in bijzondere trekkingsrechten welke die leden bij verkoop van zijn valuta verkrijgen.
 
-#### 9
+##### 9
 
 Het Fonds stelt de waarde van goud ingevolge dit schema vast op basis van de prijzen op de markt.
 
-#### 10
+##### 10
 
 Voor de toepassing van dit schema worden de quota geacht te zijn vermeerderd tot de volledige hoogte die zij hadden kunnen aannemen in overeenstemming met artikel III, sectie 2 (b) van deze Overeenkomst.
 

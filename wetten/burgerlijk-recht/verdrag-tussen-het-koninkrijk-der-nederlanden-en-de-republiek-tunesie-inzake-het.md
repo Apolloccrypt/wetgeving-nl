@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake het vervoer over de weg van personen en goederen en transitovervoer"
 identifier: "BWBV0001950"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2007-03-15
-laatste_update: 2004-05-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001950"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-03-15"
+last_updated: "2004-05-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001950"
+soort: "verdrag"
+stam_id: "10002579763"
+version_id: "10002570532"
+internal_id: "C10006994221"
+label_id: "10002569204"
+dtd_version: "2.0"
+original_entry_into_force: "2007-03-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001950/2007-03-15/0"
+intitule_bron: "Trb.2004-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-01"
+intitule_published: "2004-08-19"
+intitule_in_force: "2007-04-16"
+intitule_status: "goed"
+original_publication: "Trb.2004-205"
+original_signed_date: "2005-03-01"
+original_published_date: "2004-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-205"
+entry_into_force_date: "2007-03-15"
+jci_1_3: "jci1.3:c:BWBV0001950&z=2007-03-15&g=2007-03-15"
+jci_1_0: "1.0:c:BWBV0001950&g=2007-03-15"
+citeertitel_status: "redactioneel"
+signed_date: "2005-03-01"
+entry_into_force: "2007-03-15"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Tunesië inzake het vervoer over de weg van personen en goederen en transitovervoer
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Tunesië, hun staten hierna te noemen de „Verdragsluitende Partijen";
@@ -22,13 +47,13 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Reikwijdte
+##### Artikel 1. Reikwijdte
 
 1. Dit Verdrag is van toepassing op vervoer over de weg, uitgevoerd door vervoersondernemers die op het grondgebied van een Verdragsluitende Partij zijn gevestigd, met gebruikmaking van voertuigen die op dat grondgebied zijn geregistreerd, waarbij het punt van vertrek of van bestemming op dat grondgebied is gelegen en waarbij sprake is van doorvoer over dat grondgebied alsmede over het grondgebied van de andere Verdragsluitende Partij.
 
 2. Dit Verdrag laat de rechten en verplichtingen van de Verdragsluitende Partijen krachtens andere internationale overeenkomsten onverlet.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In dit Verdrag wordt verstaan onder:
 
@@ -90,7 +115,7 @@ In dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. VERVOER VAN PERSONEN
 
-#### Artikel 3. Geregelde diensten
+##### Artikel 3. Geregelde diensten
 
 1. Onder voorbehoud van voorafgaande instemming van de twee Verdragsluitende Partijen, kunnen vervoersondernemers die van de bevoegde autoriteiten van elke Partij een vergunning hebben verkregen, geregelde diensten exploiteren tussen de landen van beide Verdragsluitende Partijen met gebruikmaking van autobussen, op basis van een tussen deze vervoersondernemers gesloten overeenkomst die aan de bevoegde autoriteiten is voorgelegd en waarin de exploitatievoorwaarden van deze diensten zijn vastgelegd.
 
@@ -98,7 +123,7 @@ In dit Verdrag wordt verstaan onder:
 
 3. Wijzigingen van de exploitatievoorwaarden en de opheffing van de dienst zijn onderworpen aan voorafgaande toestemming van de bevoegde autoriteiten van de twee Verdragsluitende Partijen.
 
-#### Artikel 4. Ongeregelde diensten
+##### Artikel 4. Ongeregelde diensten
 
 1. De ongeregelde diensten met gebruikmaking van autobussen zijn onderworpen aan een systeem van vergunningen die moeten worden afgegeven door de bevoegde autoriteit van het land van vertrek, het gastheerland en het transitoland.
 
@@ -120,7 +145,7 @@ De beslissing om de vergunning te verstrekken of te weigeren wordt binnen een ti
 
 5. De diensten die zijn vrijgesteld van vergunning en die worden uitgevoerd met gebruikmaking van autobussen dienen te geschieden onder geleide van een controledocument. De voorwaarden voor het gebruik en de inhoud van het controledocument worden vastgesteld door de in artikel 13 van dit Verdrag bedoelde Gemengde Commissie.
 
-#### Artikel 5. Gemeenschappelijke bepalingen voor passagiersdiensten
+##### Artikel 5. Gemeenschappelijke bepalingen voor passagiersdiensten
 
 1. Vervoersvergunningen zijn persoonlijk en niet overdraagbaar aan andere vervoersondernemers.
 
@@ -128,7 +153,7 @@ De beslissing om de vergunning te verstrekken of te weigeren wordt binnen een ti
 
 ### HOOFDSTUK III. VERVOER VAN GOEDEREN
 
-#### Artikel 6. Vergunningensysteem
+##### Artikel 6. Vergunningensysteem
 
 1. Op het grondgebied van een Verdragsluitende Partij gevestigde vervoersondernemers kunnen, ingevolge het stelsel van voorafgaande vergunningen, op het grondgebied van de andere Verdragsluitende Partij:
 
@@ -140,7 +165,7 @@ De beslissing om de vergunning te verstrekken of te weigeren wordt binnen een ti
 
 3. Vervoer tussen een locatie op het grondgebied van het gastheerland en een locatie in een derde land is uitsluitend toegestaan op basis van een bijzondere vergunning van het gastheerland.
 
-#### Artikel 7. Vrijstelling van vergunningsvereisten
+##### Artikel 7. Vrijstelling van vergunningsvereisten
 
 1. Als uitzondering op artikel 6 zijn de volgende categorieën vervoer vrijgesteld van vergunningsvereisten:
 
@@ -164,7 +189,7 @@ De beslissing om de vergunning te verstrekken of te weigeren wordt binnen een ti
 
 2. De in artikel 13 van dit Verdrag bedoelde Gemengde Commissie kan de in het eerste lid genoemde lijst van categorieën vervoer die vrijgesteld zijn van vergunningsvereisten wijzigen.
 
-#### Artikel 8. Vergunningsvoorwaarden
+##### Artikel 8. Vergunningsvoorwaarden
 
 1. De bevoegde autoriteiten van beide Verdragsluitende Partijen wisselen jaarlijks een overeengekomen aantal blanco vergunningsformulieren uit.
 
@@ -182,7 +207,7 @@ De in artikel 13 van dit Verdrag bedoelde Gemengde Commissie stelt de nationale 
 
 ### HOOFDSTUK IV. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 9. Belastingaangelegenheden
+##### Artikel 9. Belastingaangelegenheden
 
 1. Voertuigen, met inbegrip van hun reserveonderdelen, waarmee vervoer wordt verricht in overeenstemming met dit Verdrag zijn door de Verdragsluitende Partijen wederzijds vrijgesteld van alle belastingen en heffingen opgelegd ter zake van het verkeer of het bezit van voertuigen, alsook van alle speciale belastingen of heffingen opgelegd ter zake van vervoerswerkzaamheden op het grondgebied van de andere Verdragsluitende Partij.
 
@@ -190,17 +215,17 @@ De in artikel 13 van dit Verdrag bedoelde Gemengde Commissie stelt de nationale 
 
 3. De zich in de normale, door de fabrikant ontworpen en ingebouwde reservoirs van voertuigen bevindende brandstof, alsmede de alleen voor de goede werking van die voertuigen bestemde smeermiddelen, zijn door de Verdragsluitende Partijen wederzijds vrijgesteld van douanerechten op het grondgebied van het gastheerland en van andere heffingen en belastingen.
 
-#### Artikel 10. Gewichten en afmetingen
+##### Artikel 10. Gewichten en afmetingen
 
 1. Het maximaal toegestane gewicht, de asdruk en de afmetingen van de voertuigen mogen de geldende maxima in het gastheerland niet overschrijden.
 
 2. Het gebruik van voertuigen waarvan het gewicht en de afmetingen of de lading de in het gastheerland toelaatbare maxima overschrijden, is slechts toegestaan op basis van een bijzondere vergunning die vooraf bij de bevoegde autoriteiten van het gastheerland moet worden aangevraagd.
 
-#### Artikel 11. Controle
+##### Artikel 11. Controle
 
 De vergunningen, de controledocumenten en de andere documenten die ingevolge dit Verdrag zijn vereist, alsmede de verzekeringsbewijzen en alle andere krachtens de nationale wetgeving vereiste papieren, dienen aan boord van het voertuig aanwezig te zijn en op verzoek van de met de controle belaste autoriteiten te worden overgelegd.
 
-#### Artikel 12. Verplichtingen van de vervoersondernemers en sancties
+##### Artikel 12. Verplichtingen van de vervoersondernemers en sancties
 
 1. De vervoersondernemers van een Verdragsluitende Partij zijn verplicht op het grondgebied van de andere Verdragsluitende Partij de verplichtingen in acht te nemen die voortvloeien uit internationale multilaterale verdragen waar beide Partijen partij bij zijn, uit dit Verdrag en uit de nationale wetgeving, met name verkeersregels en handhavingsregels, de douanebepalingen en de mogelijke voorwaarden en beperkingen bij de vergunningen.
 
@@ -214,7 +239,7 @@ In zeer ernstige gevallen kan de bevoegde autoriteit van het gastheerland de toe
 
 De Verdragsluitende Partijen stellen elkaar in kennis van de genomen besluiten.
 
-#### Artikel 13. Samenwerking en Gemengde Commissie
+##### Artikel 13. Samenwerking en Gemengde Commissie
 
 1. De bevoegde autoriteiten van de Verdragsluitende Partijen nemen adequate maatregelen voor de uitvoering en toepassing van dit Verdrag en stellen elkaar in kennis van alle nuttige informatie. De bevoegde autoriteiten stellen elkaar tevens vooraf in kennis van elke wijziging in de nationale wetgeving die gevolgen heeft voor de toepassing van dit Verdrag.
 
@@ -224,7 +249,7 @@ De Verdragsluitende Partijen stellen elkaar in kennis van de genomen besluiten.
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 14. Inwerkingtreding en duur
+##### Artikel 14. Inwerkingtreding en duur
 
 1. Dit Verdrag treedt in werking op de datum van ontvangst van de laatste van de twee kennisgevingen waarmee de ene Verdragsluitende Partij de andere Verdragsluitende Partij ervan in kennis stelt dat de interne procedures zijn voltooid.
 

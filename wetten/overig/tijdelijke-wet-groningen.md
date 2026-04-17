@@ -1,14 +1,42 @@
 ---
-title: "Tijdelijke wet Groningen"
+title: "Wet van 5 februari 2020, houdende tijdelijke maatregelen inzake een publiekrechtelijke aanpak van de gevolgen van bodembeweging door gaswinning uit het Groningenveld en de gasopslag bij Norg (Tijdelijke wet Groningen)"
 identifier: "BWBR0043252"
-categorie: "Overig"
-publicatiedatum: 2026-01-22
-laatste_update: 2026-01-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043252"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-22"
+last_updated: "2026-01-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043252"
+soort: "wet"
+stam_id: "15358193"
+version_id: "29407672"
+internal_id: "C42045821"
+label_id: "15303334"
+dtd_version: "2.0"
+original_entry_into_force: "2023-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043252/2026-01-22/0"
+intitule_bron: "Stb.2020-85"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-02-05"
+intitule_published: "2020-03-11"
+intitule_in_force: "2020-03-11"
+intitule_status: "goed"
+original_publication: "Stb.2023-164"
+original_signed_date: "2023-04-19"
+original_published_date: "2023-05-15"
+original_effect: "structuurwijziging"
+original_dossier: "35603"
+original_url_id: "stb-2023-164"
+entry_into_force_date: "2023-04-19"
+entry_into_force_dossier: "35603"
+jci_1_3: "jci1.3:c:BWBR0043252&z=2026-01-22&g=2026-01-22"
+jci_1_0: "1.0:c:BWBR0043252&g=2026-01-22"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke wet Groningen"
+signed_date: "2023-04-19"
+entry_into_force: "2023-04-19"
 ---
-
-# Tijdelijke wet Groningen
+# Wet van 5 februari 2020, houdende tijdelijke maatregelen inzake een publiekrechtelijke aanpak van de gevolgen van bodembeweging door gaswinning uit het Groningenveld en de gasopslag bij Norg (Tijdelijke wet Groningen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -30,11 +58,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Onverminderd [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) zendt Onze Minister binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens na twee jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk en de noodzaak van het voortduren van de maatregelen waarin deze wet voorziet.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Besluiten van de deelcommissie mijnbouwschade op grond van [artikel 3, tweede lid, van het Besluit Mijnbouwschade Groningen](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3), en de deelcommissie bezwaar, op grond van artikel 3, derde lid, van het Besluit Mijnbouwschade Groningen, worden na inwerkingtreding van deze wet aangemerkt als besluiten van het Instituut Mijnbouwschade als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2026-01-22&g=2026-01-22).
 
@@ -44,7 +72,7 @@ Onverminderd [artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorgan
 
 4. Het Instituut neemt de zaken bedoeld in het eerste tot en met derde lid over in de staat waarin deze zich bevinden.
 
-#### Artikel 22
+##### Artikel 22
 
 Aanvragen om vergoeding van schade worden door het Instituut niet in behandeling genomen indien de aanvrager ten aanzien van de schade op het moment van inwerkingtreding van deze wet partij is bij:
 
@@ -52,7 +80,7 @@ Aanvragen om vergoeding van schade worden door het Instituut niet in behandeling
 
 - b. de overeenkomst Rijk-NAM inzake regeling vergoeding kosten bodemdaling aardgaswinning 1983.
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. Degene die voorafgaand aan de inwerkingtreding van deze wet is benoemd als lid van de Tijdelijke Commissie Mijnbouwschade Groningen, is van rechtswege benoemd als lid van het Instituut en de duur van zijn benoeming wordt vastgesteld op vier jaar.
 
@@ -60,43 +88,43 @@ Aanvragen om vergoeding van schade worden door het Instituut niet in behandeling
 
 3. Voor het bepalen van het tijdvak van de benoeming, bedoeld in [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=4&z=2026-01-22&g=2026-01-22), geldt het tijdvak, vervuld als lid of voorzitter van de Tijdelijke Commissie Mijnbouwschade Groningen, voorafgaand aan de inwerkingtreding van deze wet als een tijdvak, vervuld als lid of voorzitter van het Instituut.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Burgerlijk Wetboek Boek 6.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt de Mijnbouwwet.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan, verschillend kan worden vastgesteld, met uitzondering van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=4&artikel=13&z=2026-01-22&g=2026-01-22), dat in werking treedt op het tijdstip waarop artikel I, onderdelen D en E, van het bij koninklijke boodschap van 13 oktober 2020 ingediende voorstel van wet tot wijziging van de Tijdelijke wet Groningen in verband met de versterking van gebouwen in de provincie Groningen (Kamerstukken 35 603), nadat dat voorstel tot wet is of wordt verheven, in werking treedt.
 
 2. In afwijking van het eerste lid treedt [artikel 28, aanhef en onderdelen b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=8&artikel=28&z=2026-01-22&g=2026-01-22), in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 1 januari 2018.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze wet wordt aangehaald als: Tijdelijke wet Groningen.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -114,7 +142,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **versterkingsbesluit:** besluit als bedoeld in [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13j&z=2026-01-22&g=2026-01-22).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Instituut Mijnbouwschade Groningen. Het Instituut is gevestigd op een door Onze Minister te bepalen locatie.
 
@@ -166,7 +194,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 12. Bij ministeriële regeling wordt de hoogte van de financiële middelen vastgesteld voor de uitgaven van het Instituut inzake tegemoetkomingen als bedoeld in het tiende lid en het oplossen van knelpunten als bedoeld in het elfde lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ten behoeve van de goede uitvoering van [artikel 2, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2026-01-22&g=2026-01-22), verwerkt het Instituut de nodige gegevens, waaronder persoonsgegevens. Het Instituut is verwerkingsverantwoordelijke voor deze verwerking.
 
@@ -190,7 +218,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 11. De exploitant verstrekt Onze Minister desgevraagd de gegevens, waaronder persoonsgegevens, voor zover die noodzakelijk zijn in het belang van een goede uitvoering van de versterking op grond van [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&z=2026-01-22&g=2026-01-22).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Instituut bestaat uit ten minste drie en ten hoogste vijf leden, onder wie de voorzitter.
 
@@ -212,25 +240,25 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 8. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de procedure omtrent benoeming, schorsing en ontslag en de rechtspositie van de leden van het Instituut.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan het Instituut staat ter ondersteuning van zijn taken en bevoegdheden een bureau ten dienste.
 
 2. Onze Minister stelt ten behoeve van de ondersteuning van de uitvoering van taken en bevoegdheden van het Instituut voldoende en gekwalificeerd personeel aan het bureau van het Instituut ter beschikking.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het Instituut kan voor de uitvoering of voorbereiding van bepaalde werkzaamheden commissies instellen, waarvan ook anderen dan leden van het Instituut deel uit kunnen maken.
 
 2. Indien het Instituut aan een commissie mandaat verleent tot het nemen van besluiten op grond van [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=2), zijn [artikel 3, derde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=3), en [artikel 13 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=13) van overeenkomstige toepassing op de leden van de commissie.
 
-#### Artikel 7
+##### Artikel 7
 
 De leden van het Instituut, het personeel van het Instituut en de door het Instituut ingeschakelde deskundigen verlangen of ontvangen van derden geen instructies die op een individuele zaak betrekking hebben.
 
 ### Hoofdstuk 3. Aansturing en toezicht
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het Instituut stelt een bestuursreglement vast.
 
@@ -250,7 +278,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 3. Het Instituut maakt het reglement na de goedkeuring, bedoeld in [artikel 11 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11), bekend in de Staatscourant.
 
-#### Artikel 9
+##### Artikel 9
 
 1. [Artikel 22 van de Kaderwet zelfstandig bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=22) is niet van toepassing.
 
@@ -258,7 +286,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 ### Hoofdstuk 4. Procedure bij het instituut
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het Instituut stelt, met inachtneming van de bepalingen van dit hoofdstuk, een procedure en een werkwijze vast voor de behandeling van aanvragen.
 
@@ -266,7 +294,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 3. Het Instituut publiceert zijn procedure en werkwijze op zijn website.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aanvraag om vergoeding van schade wordt ingediend bij het Instituut via een door het Instituut vastgesteld formulier.
 
@@ -288,7 +316,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 - h. een verklaring van de aanvrager van overdracht aan de Staat van de vordering tot vergoeding van schade van de aanvrager op de exploitant ter zake van de schade waarvoor vergoeding wordt aangevraagd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het Instituut kan ten behoeve van een besluit één of meerdere deskundigen aanwijzen om schade op te nemen en te rapporteren over de aard van de schade in het licht van de door het Instituut te maken beoordeling.
 
@@ -300,7 +328,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 5. Het Instituut stelt eisen aan de deskundige, waaronder begrepen het aantal keren dat de deskundige per aanvraag mag onderzoeken of de schade evident en aantoonbaar uitsluitend een andere oorzaak heeft dan beweging van de bodem als gevolg van de aanleg of exploitatie van een mijnbouwwerk als bedoeld in [artikel 177a, eerste lid, van Boek 6 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005289&artikel=177a).
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het Instituut neemt een besluit over vergoeding van schade uiterlijk binnen:
 
@@ -312,13 +340,13 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 ### Hoofdstuk 6. Financiering
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister stelt voldoende financiële middelen ter beschikking aan het Instituut ter uitoefening van zijn taken en bevoegdheden.
 
 2. Onze Minister neemt in zijn begroting het Instituut als afzonderlijke begrotingspost op en voorziet deze post van een toelichting.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister legt een heffing op aan een exploitant:
 
@@ -338,7 +366,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 ### Hoofdstuk 6. Financiering
 
-#### Artikel 16
+##### Artikel 16
 
 1. De rechtbank kan in een beroep tegen een besluit op grond van deze wet op verzoek van een partij of ambtshalve de Hoge Raad, wanneer het een rechtsvraag die de toepassing van bepalingen uit het Burgerlijk Wetboek betreft, dan wel de Afdeling bestuursrechtspraak, wanneer het overige rechtsvragen betreft, een rechtsvraag stellen ter beantwoording bij wijze van een prejudiciële uitspraak, indien een antwoord op deze vraag nodig is om op het beroep te beslissen en rechtstreeks van belang is:
 
@@ -356,7 +384,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 6. Indien in een andere lopende beroepsprocedure het antwoord op de vraag rechtstreeks van belang is om op het beroep te beslissen, kan de rechtbank op verzoek van een partij in die procedure dan wel ambtshalve de beslissing aanhouden totdat de Hoge Raad dan wel de Afdeling bestuursrechtspraak uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechtbank de bij de procedure betrokken partijen in de gelegenheid zich daarover uit te laten. De rechtbank houdt de beslissing niet aan indien alle partijen te kennen hebben gegeven voortzetting van de procedure te verlangen of indien een zwaarwegend belang van de indiener van het beroepschrift zich verzet tegen het aanhouden van de procedure. In afwijking van [artikel 8:104, derde lid, onder b van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:104) kan de indiener van het beroepschrift terstond hoger beroep instellen tegen een beslissing om aan te houden.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Tenzij de Hoge Raad, gehoord de procureur-generaal, dan wel de Afdeling bestuursrechtspraak, indien van toepassing na het uitbrengen van een conclusie overeenkomstig [artikel 8:12a van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:12a), aanstonds beslist overeenkomstig het tiende lid, stelt zij partijen in de gelegenheid om binnen een door haar te bepalen termijn schriftelijk opmerkingen te maken.
 
@@ -388,7 +416,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 13. De griffier zendt onverwijld een afschrift van de uitspraak aan de rechtbank en aan partijen. De griffier zendt daarbij eveneens een afschrift van de genomen conclusie, indien van toepassing, en van de schriftelijke opmerkingen en toelichtingen, bedoeld in het eerste, tweede en vierde lid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Behoudens indien het antwoord op de vraag niet meer nodig is om op het beroep te beslissen, beslist de rechtbank, nadat zij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad dan wel de Afdeling bestuursrechtspraak uit te laten, met inachtneming van deze uitspraak.
 
@@ -396,7 +424,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 3. Geen griffierecht wordt geheven van belanghebbenden, het bestuursorgaan en anderen die verschijnen in de prejudiciële procedure als bedoeld in [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=7&artikel=16&z=2026-01-22&g=2026-01-22).
 
-#### Artikel 19
+##### Artikel 19
 
 1. [Artikel 27gc van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=27gc) alsmede [artikel 8:62 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62) zijn van overeenkomstige toepassing op de behandeling van een verzoek om een prejudiciële uitspraak door de Hoge Raad. De artikelen [8:10 tot en met 8:12](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:10), [8:14 tot en met 8:20](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:14), [8:23 tot en met 8:28](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:23), [8:29 tot en met 8:32a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:29), [8:35 tot en met 8:40](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:35), [8:45a](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:45a), [8:47](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:47), [8:60](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60), [8:60a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:60a), [8:61](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:61), [8:62](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:62), [8:65](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:65); [8:77, eerste lid, onderdelen a tot en met e, en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:77), [8:78](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:78) en [8:79 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:79) zijn van overeenkomstige toepassing op de behandeling van een verzoek om een prejudiciële uitspraak door de Afdeling bestuursrechtspraak.
 
@@ -406,7 +434,7 @@ De leden van het Instituut, het personeel van het Instituut en de door het Insti
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 19b
+##### Artikel 19b
 
 In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=1:2) is een exploitant geen belanghebbende bij een besluit als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=2&artikel=2&z=2026-01-22&g=2026-01-22), of bij een versterkingsbesluit.
 
@@ -414,7 +442,7 @@ In afwijking van [artikel 1:2 van de Algemene wet bestuursrecht](https://wetten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onze Minister is aanspreekpunt voor eigenaren van gebouwen die versterking behoeven en coördineert de versterking van gebouwen, bedoeld in [hoofdstuk 5](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&z=2026-01-22&g=2026-01-22).
 
@@ -432,7 +460,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 5a. Bijstand
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. In dit artikel wordt verstaan onder:
 
@@ -450,7 +478,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 5. Bij ministeriële regeling worden regels gesteld over de uitkering, bedoeld in het tweede lid. Deze regels zien ten minste op de vaststelling van de hoogte van de uitkering, de verdeling, de voorwaarden waaronder deze verstrekt wordt en de terugvordering van niet of niet rechtmatig bestede middelen.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Onze Minister kan aan de provincie Groningen en gemeenten in de provincie Groningen een uitkering als bedoeld in [artikel 15a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=15a) verstrekken voor activiteiten die gericht zijn op de toekomstbestendigheid of de leefbaarheid van de provincie Groningen.
 
@@ -458,7 +486,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. Bij ministeriële regeling worden regels gesteld over de uitkering, bedoeld in het eerste en tweede lid. Deze regels zien ten minste op de vaststelling van de hoogte van de uitkering, de verdeling, de voorwaarden waaronder deze verstrekt wordt en de terugvordering van niet of niet rechtmatig bestede middelen.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. Op een beroep tegen een versterkingsbesluit, een besluit als bedoeld in [artikel 13i, tweede en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13i&z=2026-01-22&g=2026-01-22), en een besluit als bedoeld in [artikel 13k, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13k&z=2026-01-22&g=2026-01-22), beslist de Afdeling bestuursrechtspraak binnen zes maanden na ontvangst van het verweerschrift.
 
@@ -466,7 +494,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 22b
+##### Artikel 22b
 
 1. Een plan van een gemeenteraad dat hetzelfde doel nastreeft als een programma als bedoeld in [artikel 13g](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13g&z=2026-01-22&g=2026-01-22), wordt daarmee gelijkgesteld.
 
@@ -492,7 +520,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. Dit hoofdstuk, met uitzondering van [artikel 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13ba&z=2026-01-22&g=2026-01-22), is uitsluitend van toepassing op gebouwen in de gemeenten Eemsdelta, Groningen, Het Hogeland, Midden-Groningen en Oldambt.
 
@@ -500,7 +528,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 3. In afwijking van het eerste lid kan Onze Minister onderzoeken of een gebouw dat niet gelegen is in de in dat lid genoemde gemeenten mogelijk versterking behoeft, indien er een redelijk vermoeden bestaat dat het gebouw versterkt moet worden in verband met de gevolgen van beweging van de bodem door aanleg of exploitatie van een mijnbouwwerk ten behoeve van het winnen van gas uit het Groningenveld of als gevolg van de gasopslag bij Norg of de gasopslag bij Grijpskerk. Indien uit het onderzoek blijkt dat het gebouw mogelijk versterking behoeft, zijn de [artikelen 13h tot en met 13m](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13h&z=2026-01-22&g=2026-01-22) van overeenkomstige toepassing.
 
-#### Artikel 13b
+##### Artikel 13b
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -518,11 +546,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - **versterkingsmaatregelen:** maatregelen als bedoeld in [artikel 13j, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13j&z=2026-01-22&g=2026-01-22).
 
-#### Artikel 13ba
+##### Artikel 13ba
 
 Onze Minister neemt alle maatregelen die redelijkerwijs van hem gevergd kunnen worden om te voorkomen dat als gevolg van de gaswinning uit het Groningenveld de veiligheid wordt geschaad.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Er is een Adviescollege Veiligheid Groningen.
 
@@ -540,11 +568,11 @@ Onze Minister neemt alle maatregelen die redelijkerwijs van hem gevergd kunnen w
 
 5. Het Adviescollege informeert de colleges en de inspecteur-generaal der mijnen over de wijze waarop hun reacties in het advies zijn verwerkt.
 
-#### Artikel 13d
+##### Artikel 13d
 
 De inspecteur-generaal der mijnen kan aan Onze Minister gevraagd en ongevraagd adviezen verstrekken over de uitvoering van de versterkingsmaatregelen in relatie tot de veiligheid.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. Onze Minister stelt risicoprofielen vast van gebouwen waarvoor nog geen beoordeling als bedoeld in [artikel 13i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13i&z=2026-01-22&g=2026-01-22), heeft plaatsgevonden en actualiseert deze risicoprofielen, indien nodig, jaarlijks.
 
@@ -552,13 +580,13 @@ De inspecteur-generaal der mijnen kan aan Onze Minister gevraagd en ongevraagd a
 
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het vaststellen van een risicoprofiel en de actualisatie daarvan.
 
-#### Artikel 13f
+##### Artikel 13f
 
 1. Onze Minister zendt een overzicht van de risicoprofielen van gebouwen, bedoeld in [artikel 13e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13e&z=2026-01-22&g=2026-01-22), toe aan het betrokken college en aan de inspecteur-generaal der mijnen.
 
 2. Op verzoek van de eigenaar verstrekt Onze Minister het risicoprofiel van het gebouw aan de eigenaar nadat dit is vastgesteld en informeert de eigenaar over het verdere verloop van de versterking van zijn gebouw.
 
-#### Artikel 13g
+##### Artikel 13g
 
 1. De gemeenteraad stelt een programma van aanpak vast op basis van de risicoprofielen met daarin een prioritering van gebouwen die mogelijk versterking behoeven.
 
@@ -586,11 +614,11 @@ De inspecteur-generaal der mijnen kan aan Onze Minister gevraagd en ongevraagd a
 
 8. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over het programma en de advisering door de inspecteur-generaal der mijnen en kunnen regels worden gesteld over het bepaalde in het zesde en zevende lid.
 
-#### Artikel 13h
+##### Artikel 13h
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wijze waarop wordt vastgesteld of een gebouw aan de veiligheidsnorm voldoet en de wijze waarop wordt bepaald welke maatregelen nodig zijn om een gebouw aan de veiligheidsnorm te laten voldoen.
 
-#### Artikel 13i
+##### Artikel 13i
 
 1. Onze Minister beoordeelt of een gebouw aan de veiligheidsnorm voldoet. De beoordeling vindt plaats overeenkomstig de prioritering in het programma, tenzij uit het onderzoek, bedoeld in [artikel 13g, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13g&z=2026-01-22&g=2026-01-22), blijkt dat er gegronde vermoedens zijn dat sprake is van een acuut onveilige situatie.
 
@@ -608,7 +636,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 8. De inschrijving in het register, bedoeld in het zevende lid, laat onverlet de mogelijkheid van een eigenaar om terug te komen op een keuze om een gebouw niet te versterken. Indien de eigenaar de keuze om een gebouw wel te versterken kenbaar maakt aan Onze Minister, neemt Onze Minister een nieuw versterkingsbesluit en draagt tevens zorg voor de doorhaling van het eerdere besluit in het register.
 
-#### Artikel 13ia
+##### Artikel 13ia
 
 1. In afwijking van [artikel 13i, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13i&z=2026-01-22&g=2026-01-22), kan de eigenaar de beoordeling of het gebouw aan de veiligheidsnorm voldoet in eigen beheer uitvoeren nadat hij het voornemen hiertoe aan Onze Minister heeft gemeld, indien:
 
@@ -634,7 +662,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 8. Bij ministeriële regeling kunnen regels worden gesteld over de vergoeding, bedoeld in het derde lid.
 
-#### Artikel 13ib
+##### Artikel 13ib
 
 1. In afwijking van [artikel 13i, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13i&z=2026-01-22&g=2026-01-22), kan de eigenaar van een gebouw dat blijkens een beoordeling als bedoeld in artikel 13i, eerste lid, of [artikel 13ia, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13ia&z=2026-01-22&g=2026-01-22), niet aan de veiligheidsnorm voldoet, ervoor kiezen om een overzicht van maatregelen die nodig zijn om het gebouw aan de veiligheidsnorm te laten voldoen in eigen beheer op te stellen, nadat hij het voornemen hiertoe aan Onze Minister heeft gemeld, indien:
 
@@ -650,7 +678,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 4. Bij ministeriële regeling kunnen regels worden gesteld over de vergoeding, bedoeld in het derde lid.
 
-#### Artikel 13j
+##### Artikel 13j
 
 1. Onze Minister neemt binnen een in overleg met de eigenaar te bepalen redelijke termijn, maar uiterlijk binnen één jaar na de dagtekening van de beoordeling, bedoeld in [artikel 13i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13i&z=2026-01-22&g=2026-01-22), een versterkingsbesluit dat in ieder geval bevat:
 
@@ -694,7 +722,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 12. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanspraak, bedoeld in het eerste lid, onderdeel b, en kunnen nadere regels worden gesteld over het bepaalde in het zevende en achtste lid.
 
-#### Artikel 13ja
+##### Artikel 13ja
 
 1. In afwijking van [artikel 13j, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13j&z=2026-01-22&g=2026-01-22), neemt Onze Minister een versterkingsbesluit binnen acht weken na ontvangst van een aanvraag van de eigenaar van een gebouw die in eigen beheer een overzicht als bedoeld in [artikel 13ib, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043252&hoofdstuk=5&artikel=13ib&z=2026-01-22&g=2026-01-22), heeft opgesteld van de maatregelen die nodig zijn om het gebouw aan de veiligheidsnorm te laten voldoen.
 
@@ -708,7 +736,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 4. Bij ministeriële regeling worden regels gesteld over de bij de aanvraag aan te leveren gegevens.
 
-#### Artikel 13k
+##### Artikel 13k
 
 1. Indien Onze Minister door toedoen van de eigenaar niet kan vaststellen of een gebouw aan de veiligheidsnorm voldoet of indien het Onze Minister ook na herhaalde pogingen en een uiterste inspanning niet mogelijk is met medewerking van de eigenaar het versterkingsbesluit voor te bereiden, en de belangen van de eigenaar, gebruiker of derde belanghebbenden niet worden geschaad, besluit de minister dat een gebouw niet wordt versterkt. De minister zendt een afschrift van dit besluit aan het college van de gemeente waarin het gebouw is gelegen, en, indien het gebouw of het terrein waarop het staat een rijksmonument is, aan Onze Minister van Onderwijs, Cultuur en Wetenschap, en draagt zorg voor inschrijving van dit besluit in de openbare registers, bedoeld in [artikel 16 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=16).
 
@@ -720,11 +748,11 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de wi
 
 5. De machtiging, bedoeld in [artikel 2, eerste lid, van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) wordt gegeven door Onze Minister.
 
-#### Artikel 13l
+##### Artikel 13l
 
 Onze Minister, het college van burgemeester en wethouders van de betrokken gemeenten, betrokken gedeputeerde staten en Onze Minister die het aangaat, maken in een samenwerkingsovereenkomst afspraken over de onderlinge afstemming van de besluiten die nodig zijn bij de voorbereiding van een versterkingsbesluit.
 
-#### Artikel 13m
+##### Artikel 13m
 
 1. Onze Minister kan aan de rechtmatige gebruiker van een gebouw, niet zijnde de eigenaar, een vergoeding verstrekken voor de door hem geleden schade die een direct gevolg is van:
 
@@ -736,7 +764,7 @@ Onze Minister, het college van burgemeester en wethouders van de betrokken gemee
 
 ### Hoofdstuk 5a. Bijstand
 
-#### Artikel 13n
+##### Artikel 13n
 
 1. Als een bijzonder doeleinde als bedoeld in [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b) waarvoor het bestuur van de raad voor rechtsbijstand, bedoeld in [artikel 2 van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=2), subsidie verstrekt, wordt aangemerkt het verlenen van rechtsbijstand overeenkomstig de Wet op de rechtsbijstand aan een eigenaar van een gebouw bij:
 

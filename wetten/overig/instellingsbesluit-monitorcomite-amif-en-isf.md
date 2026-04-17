@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Monitorcomité AMIF en ISF"
+title: "Besluit van de Staatssecretaris van Veiligheid en Justitie van 7 november 2016, nr. 2008899, tot instelling van een Monitorcomité AMIF en ISF (Instellingsbesluit Monitorcomité AMIF en ISF)"
 identifier: "BWBR0038755"
-categorie: "Overig"
-publicatiedatum: 2016-11-26
-laatste_update: 2016-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038755"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-11-26"
+last_updated: "2016-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038755"
+soort: "ministeriele-regeling"
+stam_id: "13799433"
+version_id: "23668922"
+internal_id: "C34073411"
+label_id: "13765684"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038755/2016-11-26/0"
+intitule_bron: "Stcrt.2016-62187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-11-07"
+intitule_published: "2016-11-25"
+intitule_in_force: "2016-11-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-62187"
+original_signed_date: "2016-11-07"
+original_published_date: "2016-11-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-62187"
+entry_into_force_date: "2016-11-26"
+jci_1_3: "jci1.3:c:BWBR0038755&z=2016-11-26&g=2016-11-26"
+jci_1_0: "1.0:c:BWBR0038755&g=2016-11-26"
+citeertitel_status: "redactioneel"
+short_title: "Instellingsbesluit Monitorcomité AMIF en ISF"
+signed_date: "2016-11-07"
+entry_into_force: "2016-11-26"
 ---
-
 # Besluit van de Staatssecretaris van Veiligheid en Justitie van 7 november 2016, nr. 2008899, tot instelling van een Monitorcomité AMIF en ISF (Instellingsbesluit Monitorcomité AMIF en ISF)
 
 Gelet op artikel 12, vierde lid, van Verordening (EU) 514/2014 van het Europees Parlement en de Raad van 16 april 2014 tot vaststelling van de algemene bepalingen inzake het Fonds voor asiel, migratie en integratie en inzake het instrument voor financiële steun voor politiële samenwerking, voorkoming en bestrijding van criminaliteit en crisisbeheersing (PbEU L 150/112);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In dit besluit wordt verstaan onder:
 
 - e. **het comité:** het Monitorcomité AMIF en ISF als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038755&artikel=2&z=2016-11-26&g=2016-11-26).
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Monitorcomité AMIF en ISF.
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 1. Het comité bestaat uit de volgende leden:
 
@@ -56,15 +82,15 @@ Er is een Monitorcomité AMIF en ISF.
 
 6. Aan de bijeenkomsten van het comité nemen een vertegenwoordiger van de gedelegeerde instantie en een vertegenwoordiger van de verantwoordelijke instantie deel.
 
-#### Artikel 4. Vergaderingen
+##### Artikel 4. Vergaderingen
 
 Het comité komt ten minste twee maal per jaar bijeen.
 
-#### Artikel 5. Besluitvorming
+##### Artikel 5. Besluitvorming
 
 Het comité besluit met meerderheid van ter vergadering aanwezige stemmen. Bij staking der stemmen geeft de stem van de voorzitter de doorslag.
 
-#### Artikel 6. Taken
+##### Artikel 6. Taken
 
 Het comité heeft tot taak:
 
@@ -76,23 +102,23 @@ Het comité heeft tot taak:
 
 - d. het initiëren, ondersteunen en adviseren ten behoeve van de voor de fondsen vereiste evaluaties en beslissen over de inhuur van expertise ten behoeve van evaluatie.
 
-#### Artikel 7. Nadere regeling werkzaamheden
+##### Artikel 7. Nadere regeling werkzaamheden
 
 Het comité kan zijn werkzaamheden nader regelen, binnen het kader, gegeven door de Verordening en de ter uitvoering daarvan genomen ministeriële besluiten.
 
-#### Artikel 8. Secretariaat
+##### Artikel 8. Secretariaat
 
 Het secretariaat van het comité berust bij de verantwoordelijke instantie.
 
-#### Artikel 9. Beheer van de bescheiden
+##### Artikel 9. Beheer van de bescheiden
 
 Het beheer van de bescheiden van het comité geschiedt op overeenkomstige wijze als bij het Ministerie van Veiligheid en Justitie.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 Het archief van het comité wordt na afloop van de werkzaamheden overgebracht naar het archief van het Ministerie van Veiligheid en Justitie.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2015.
 

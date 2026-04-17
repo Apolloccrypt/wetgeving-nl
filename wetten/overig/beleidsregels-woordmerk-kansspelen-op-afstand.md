@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels woordmerk kansspelen op afstand"
+title: "Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake het gebruik van het woordmerk door houders van een vergunning tot het organiseren van kansspelen op afstand (Beleidsregels woordmerk kansspelen op afstand)"
 identifier: "BWBR0045079"
-categorie: "Overig"
-publicatiedatum: 2021-05-01
-laatste_update: 2021-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045079"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-05-01"
+last_updated: "2021-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045079"
+soort: "zbo"
+stam_id: "15940463"
+version_id: "27736082"
+internal_id: "C39125951"
+label_id: "15874934"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045079/2021-05-01/0"
+intitule_bron: "Stcrt.2021-21407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-04-20"
+intitule_published: "2021-04-30"
+intitule_in_force: "2021-04-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-21407"
+original_signed_date: "2021-04-20"
+original_published_date: "2021-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-21407"
+entry_into_force_date: "2021-05-01"
+jci_1_3: "jci1.3:c:BWBR0045079&z=2021-05-01&g=2021-05-01"
+jci_1_0: "1.0:c:BWBR0045079&g=2021-05-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels woordmerk kansspelen op afstand"
+signed_date: "2021-04-20"
+entry_into_force: "2021-05-01"
 ---
-
 # Beleidsregels van de raad van bestuur van de Kansspelautoriteit inzake het gebruik van het woordmerk door houders van een vergunning tot het organiseren van kansspelen op afstand (Beleidsregels woordmerk kansspelen op afstand)
 
 gelet op [artikel 4.34 van het Besluit kansspelen op afstand](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.34) en [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
 
 besluit de volgende beleidsregels vast te stellen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze beleidsregels wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze beleidsregels wordt verstaan onder:
 
 - –. **wet:** de [Wet op de kansspelen](https://wetten.overheid.nl/jci1.3:c:BWBR0002469).
 
-#### Artikel 2. Woordmerk
+##### Artikel 2. Woordmerk
 
 1. De raad van bestuur stelt een woordmerk ter beschikking aan vergunninghouders, om hen te ondersteunen bij het voldoen aan de verplichtingen op grond van [artikel 4.34, eerste lid, aanhef en onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0044773&artikel=4.34), en artikel 4.34, vierde lid, van het Besluit kansspelen op afstand.
 
@@ -62,10 +88,10 @@ In deze beleidsregels wordt verstaan onder:
 
 7. Aanbieders van kansspelen zonder vergunning van de raad van bestuur, is het gebruik van het woordmerk niet toegestaan.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze beleidsregels worden met de toelichting gepubliceerd en bekendgemaakt in de Staatscourant en treden in werking op de dag na bekendmaking in de Staatscourant.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels woordmerk kansspelen op afstand.

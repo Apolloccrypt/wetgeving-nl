@@ -1,18 +1,42 @@
 ---
 title: "Overeenkomst inzake de doortocht van internationale luchtdiensten"
 identifier: "BWBV0005516"
-categorie: "Milieu"
-publicatiedatum: 1945-01-30
-laatste_update: 1945-01-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005516"
+country: "nl"
+rank: "verdrag"
+publication_date: "1945-01-30"
+last_updated: "1945-01-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005516"
+soort: "verdrag"
+stam_id: "10004675713"
+version_id: "10004936512"
+internal_id: "C10008341761"
+label_id: "10004659774"
+dtd_version: "2.0"
+original_entry_into_force: "1945-01-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005516/1945-01-30/0"
+intitule_bron: "Stb.1946-G 252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1946-09-13"
+intitule_published: "1946-10-11"
+intitule_in_force: "1954-02-20"
+intitule_status: "goed"
+original_publication: "Stb.1946-G 252"
+original_signed_date: "1946-09-13"
+original_published_date: "1946-10-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1945-01-30"
+jci_1_3: "jci1.3:c:BWBV0005516&z=1945-01-30&g=1945-01-30"
+jci_1_0: "1.0:c:BWBV0005516&g=1945-01-30"
+citeertitel_status: "redactioneel"
+signed_date: "1946-09-13"
+entry_into_force: "1945-01-30"
 ---
-
 # Overeenkomst inzake de doortocht van internationale luchtdiensten
 
 De Staten, die, lid zijnde van de Internationale Burgerlijke Luchtvaart Organisatie, deze Overeenkomst inzake den Doortocht van Internationale Luchtdiensten onderteekenen en aanvaarden, verklaren het volgende:
 
-#### Artikel I
+##### Artikel I
 
 **Sectie 1.**
 
@@ -46,7 +70,7 @@ Elke overeenkomstsluitende Staat kan met inachtneming van de bepalingen van deze
 
 Elke overeenkomstsluitende Staat behoudt zich het recht voor, een luchtvervoersonderneming van een anderen Staat een bewijs of vergunning te onthouden of deze te herroepen in elk geval, dat niet tot zijn genoegen is gebleken, dat het wezenlijke eigendomsrecht en het daadwerkelijke toezicht berusten bij onderdanen van een overeenkomstsluitenden Staat, dan wel in geval een zoodanige luchtvervoersonderneming in gebreke blijft, de wetten van den Staat, over welks grondgebied zij luchtdiensten uitoefent, na te komen of aan haar verplichtingen ingevolge deze Overeenkomst te voldoen.
 
-#### Artikel II
+##### Artikel II
 
 **Sectie 1.**
 
@@ -56,19 +80,19 @@ Een overeenkomstsluitende Staat, welke meent, dat een bepaalde daad van een ande
 
 Indien eenige oneenigheid tusschen twee of meer overeenkomstsluitende Staten met betrekking tot de uitlegging of toepassing van deze Overeenkomst niet opgelost kan worden door onderhandelingen, zullen de bepalingen van [Hoofdstuk XVIII van bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&hoofdstuk=XVIII), geldende voor gevallen van oneenigheid met betrekking tot de uitlegging of toepassing daarvan, van overeenkomstige toepassing zijn.
 
-#### Artikel III
+##### Artikel III
 
 Deze Overeenkomst blijft even lang van kracht als [bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), met dien verstande evenwel, dat een verdragsluitende Staat, welke partij is bij deze Overeenkomst, haar kan opzeggen met een opzeggingstermijn van een jaar door middel van een mededeeling aan de Regeering van de Vereenigde Staten van Amerika, die onverwijld alle andere overeenkomstsluitende Staten kennis zal geven van zoodanige mededeeling en opzegging.
 
-#### Artikel IV
+##### Artikel IV
 
 Hangende het van kracht worden van [bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507), zullen alle verwijzingen naar dat Verdrag, welke in deze Overeenkomst voorkomen, met uitzondering van die, vervat in Artikel II, Sectie 2, en Artikel V, geacht worden verwijzingen te zijn naar de Tijdelijke Overeenkomst inzake de Internationale Burgerlijke Luchtvaart, opgesteld te Chicago op 7 December 1944; verwijzingen naar de Internationale Burgerlijke Luchtvaart Organisatie, de Vergadering en den Raad zullen worden geacht verwijzingen te zijn onderscheidenlijk naar de Voorloopige Internationale Burgerlijke Luchtvaart Organisatie, de Voorloopige Vergadering en den Voorloopigen Raad.
 
-#### Artikel V
+##### Artikel V
 
 In deze Overeenkomst zal onder „grondgebied” worden verstaan, hetgeen daaronder wordt verstaan in [Artikel 2 van bovengenoemd Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&artikel=2).
 
-#### Artikel VI. Onderteekeningen en Aanvaardingen van deze Overeenkomst
+##### Artikel VI. Onderteekeningen en Aanvaardingen van deze Overeenkomst
 
 De ondergeteekende gedelegeerden ter Internationale Burgerlijke Luchtvaart Conferentie, bijeengeroepen te Chicago op 1 November 1944, hebben hun handteekening onder deze Overeenkomst geplaatst, met dien verstande, dat aan de Regeering van de Vereenigde Staten van Amerika ten spoedigste door elk der Regeeringen, in wier naam de Overeenkomst is onderteekend, zal worden medegedeeld of onderteekening uit haar naam beteekent de aanvaarding door die Regeering van de Overeenkomst en een verplichting welke haar bindt.
 

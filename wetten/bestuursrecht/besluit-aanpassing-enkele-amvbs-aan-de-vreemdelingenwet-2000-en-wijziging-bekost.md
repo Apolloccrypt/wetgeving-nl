@@ -1,44 +1,70 @@
 ---
-title: "Besluit aanpassing enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling)"
+title: "Besluit van 25 november 2002, houdende aanpassing van enkele algemene maatregelen van bestuur op het terrein van OCenW aan de Vreemdelingenwet 2000 en wijziging van het Bekostigingsbesluit WPO in verband met een verlaging van de drempel voor de groeiregeling (Aanpassingsbesluit van enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling))"
 identifier: "BWBR0014324"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-04-02
-laatste_update: 2002-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014324"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-04-02"
+last_updated: "2002-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014324"
+soort: "AMvB"
+stam_id: "3257003"
+version_id: "5014082"
+internal_id: "C5073841"
+label_id: "3237024"
+dtd_version: "2.0"
+original_entry_into_force: "2002-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014324/2003-04-02/0"
+intitule_bron: "Stb.2002-632"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-11-25"
+intitule_published: "2002-12-23"
+intitule_in_force: "2002-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2002-632"
+original_signed_date: "2002-11-25"
+original_published_date: "2002-12-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-632"
+entry_into_force_date: "2002-12-24"
+jci_1_3: "jci1.3:c:BWBR0014324&z=2003-04-02&g=2003-04-02"
+jci_1_0: "1.0:c:BWBR0014324&g=2003-04-02"
+citeertitel_status: "redactioneel"
+short_title: "Besluit aanpassing enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling)"
+signed_date: "2002-11-25"
+entry_into_force: "2002-12-24"
 ---
-
 # Besluit van 25 november 2002, houdende aanpassing van enkele algemene maatregelen van bestuur op het terrein van OCenW aan de Vreemdelingenwet 2000 en wijziging van het Bekostigingsbesluit WPO in verband met een verlaging van de drempel voor de groeiregeling (Aanpassingsbesluit van enkele amvb's aan de Vreemdelingenwet 2000 en wijziging Bekostigingsbesluit WPO (verlaging drempel groeiregeling))
 
-#### Artikel I
+##### Artikel I
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Formatiebesluit WPO.
 
-#### Artikel III
+##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Formatiebesluit WEC.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Formatiebesluit W.V.O.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Inrichtingsbesluit W.V.O.
 
-#### Artikel VII
+##### Artikel VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
 

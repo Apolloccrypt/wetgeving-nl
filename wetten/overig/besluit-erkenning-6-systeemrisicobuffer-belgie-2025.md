@@ -1,13 +1,39 @@
 ---
-title: "Besluit erkenning 6% systeemrisicobuffer België 2025"
+title: "Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de sinds 1 mei 2022 van toepassing zijnde macroprudentiële maatregel van de Nationale Bank van België inhoudende een systeemrisicobufferpercentage van 9% (Besluit erkenning 9% systeemrisicobuffer België 2022)"
 identifier: "BWBR0047798"
-categorie: "Overig"
-publicatiedatum: 2025-12-01
-laatste_update: 2025-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047798"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-01"
+last_updated: "2025-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047798"
+soort: "zbo"
+stam_id: "16651383"
+version_id: "29207242"
+internal_id: "C41502451"
+label_id: "16569204"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047798/2025-12-01/0"
+intitule_bron: "Stcrt.2023-2782"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-01-12"
+intitule_published: "2023-01-24"
+intitule_in_force: "2023-01-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-2782"
+original_signed_date: "2023-01-12"
+original_published_date: "2023-01-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-2782"
+entry_into_force_date: "2023-01-25"
+jci_1_3: "jci1.3:c:BWBR0047798&z=2025-12-01&g=2025-12-01"
+jci_1_0: "1.0:c:BWBR0047798&g=2025-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit erkenning 6% systeemrisicobuffer België 2025"
+signed_date: "2023-01-12"
+entry_into_force: "2023-01-25"
 ---
-
 # Besluit van De Nederlandsche Bank N.V. van 12 januari 2023 tot erkenning van de sinds 1 mei 2022 van toepassing zijnde macroprudentiële maatregel van de Nationale Bank van België inhoudende een systeemrisicobufferpercentage van 9% (Besluit erkenning 9% systeemrisicobuffer België 2022)
 
 Na openbare consultatie;
@@ -22,7 +48,7 @@ Gelet op [Richtlijn nr. 2013/36](32013L0036)/EU van het Europees parlement en de
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -40,15 +66,15 @@ In dit besluit wordt verstaan onder:
 
 - e). **Niet-zakelijk onroerend goed:** niet-zakelijk onroerend goed als bedoeld in artikel 4, eerste lid, onderdeel 75, van de CRR.
 
-#### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in België
+##### Artikel 2. Erkenning systeemrisicobufferpercentage geldend in België
 
 Een instelling waarvan de blootstellingen met betrekking tot particulieren en kleine partijen ten aanzien van natuurlijke personen die gedekt zijn door niet-zakelijk onroerend goed in België meer dan € 2 miljard bedragen en die voor de berekening van risicogewogen posten voor die blootstellingen gebruikmaakt van de interneratingbenadering, beschikt voor die blootstellingen over een overeenkomstig artikel 133, tweede lid, CRD berekende systeemrisicobuffer van 6% op individuele, gesubconsolideerde en geconsolideerde basis, zoals van toepassing in overeenstemming met deel één, titel II, van de CRR.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Dit besluit treedt inwerking op de dag na publicatie daarvan in de Staatscourant.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit erkenning 6% systeemrisicobuffer België 2025.
 

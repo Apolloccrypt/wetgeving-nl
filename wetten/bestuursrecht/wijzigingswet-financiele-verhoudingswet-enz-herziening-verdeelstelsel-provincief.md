@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds)"
+title: "Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds"
 identifier: "BWBR0008995"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-01-01
-laatste_update: 2005-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008995"
+country: "nl"
+rank: "wet"
+publication_date: "2005-01-01"
+last_updated: "2005-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008995"
+soort: "wet"
+stam_id: "639263"
+version_id: "926642"
+internal_id: "C926641"
+label_id: "620234"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008995/2005-01-01/0"
+intitule_bron: "Stb.1997-526"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-11-06"
+intitule_published: "1997-11-20"
+intitule_in_force: "1997-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1997-526"
+original_signed_date: "1997-11-06"
+original_published_date: "1997-11-20"
+original_effect: "nieuwe-regeling"
+original_dossier: "25185"
+original_url_id: "stb-1997-526"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0008995&z=2005-01-01&g=2005-01-01"
+jci_1_0: "1.0:c:BWBR0008995&g=2005-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds)"
+signed_date: "1997-11-06"
+entry_into_force: "1998-01-01"
 ---
-
-# Wijzigingswet Financiele-verhoudingswet enz. (herziening verdeelstelsel Provinciefonds)
+# Wet van 6 november 1997 tot wijziging van de Financiële-verhoudingswet en enkele andere wetten en regels inzake de invoering van deze wijziging in verband met een herziening van het verdeelstelsel voor het Provinciefonds
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -20,31 +47,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### Paragraaf 1.1. Wijziging [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290)
 
-#### Artikel 1
+##### Artikel 1
 
 Wijzigt de Financiële-verhoudingswet.
 
 #### Paragraaf 1.2. Wijziging [Provinciewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005645)
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt de Provinciewet.
 
 #### Paragraaf 1.3. Wijziging [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537)
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt de Algemene wet bestuursrecht.
 
 #### Paragraaf 1.4. Wijziging [Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904)
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt de Wet op het specifiek cultuurbeleid.
 
 #### Paragraaf 1.5. Wijziging [Invoeringswet Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008291)
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Invoeringswet Financiële-verhoudingswet.
 
@@ -52,7 +79,7 @@ Wijzigt de Invoeringswet Financiële-verhoudingswet.
 
 #### Paragraaf 2.1. Algemeen
 
-#### Artikel 6
+##### Artikel 6
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,7 +91,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. de uitkeringsfactor: het quotiënt van het voor de algemene uitkeringen beschikbare bedrag en de som van de uitkeringsbases.
 
-#### Artikel 7
+##### Artikel 7
 
 1. In afwijking van [artikel 8, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=8) worden bij de verdeling van het provinciefonds voor de eerste maal de verdeelmaatstaven gehanteerd die zijn vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2005-01-01&g=2005-01-01) bij deze wet. Op de hantering van de maatstaven zijn de bepalingen van dit hoofdstuk van toepassing. Bij regeling van Onze Ministers kunnen nadere voorschriften worden gegeven omtrent de toepassing van de in dit hoofdstuk en [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=1&z=2005-01-01&g=2005-01-01) gebruikte begrippen en omtrent de wijze van telling van het aantal eenheden per verdeelmaatstaf.
 
@@ -72,7 +99,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.2. De vaststelling van het aantal eenheden
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij de vaststelling van de algemene uitkering aan een provincie stellen Onze Ministers zo nodig het aantal eenheden per verdeelmaatstaf voor de provincie vast. Voor zover in de bijlage bij een verdeelmaatstaf een bron is vermeld, kunnen Onze Ministers het aantal eenheden ontlenen aan een opgave van het vermelde orgaan of de vermelde instantie.
 
@@ -82,19 +109,19 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2.3. Bijzondere bepalingen in verband met enkele verdeelmaatstaven
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij de bepaling van het totaal van de in een kalenderjaar ontvangen hoofdsommen van de motorrijtuigenbelasting, wordt het tarief van de [Wet op de motorrijtuigenbelasting 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006324) gehanteerd, zoals dat geldt op 1 april 1995. De verhoging van de belasting, bedoeld in artikel 23, tweede lid, van die wet en de vermindering van de belasting, bedoeld in de artikelen 28 en 68 van die wet, blijven buiten beschouwing.
 
 2. In afwijking van het eerste lid wordt voor de periode tot 1 april 1997 bij de bepaling van het totaal van de in een kalenderjaar ontvangen hoofdsommen van de motorrijtuigenbelasting, het tarief van de [Wet op de motorrijtuigenbelasting 1966](https://wetten.overheid.nl/jci1.3:c:BWBR0002534) gehanteerd, zoals dat luidde bij aanvang van het kalenderjaar 1980. De vermeerdering van belasting, bedoeld in artikel 6 van die wet en het vaste bedrag, genoemd in artikel 8, tweede lid, onderdeel **a**, van die wet, blijven buiten beschouwing.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De omgevingsadressendichtheid van een adres is het aantal adressen in de omgeving van het adres, gedeeld door het oppervlak in vierkante kilometers van de omgeving.
 
 2. De omgeving van een adres wordt gevormd door het rastervierkant, waarin het adres is gelegen en de twaalf meest nabijgelegen rastervierkanten.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Ministers stellen het aantal kilometers gewogen weglengte van de wegen in beheer bij de provincie vast, door het aantal kilometers weglengte van de wegen die in beheer zijn bij de provincie te vermenigvuldigen met een wegingsfactor die een maat is voor de kosten per kilometer van het onderhoud van de wegen in de provincie, in verhouding met die kosten in alle provincies.
 
@@ -104,7 +131,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3.1. Overgangsmaatregelen in verband met de herverdeling
 
-#### Artikel 12
+##### Artikel 12
 
 1. De algemene uitkering over de jaren 1998 tot en met 2000, zoals deze voor een provincie wordt vastgesteld overeenkomstig [hoofdstuk 2 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&hoofdstuk=2), wordt vermeerderd of verminderd met een bedrag overeenkomstig de kolommen 1 tot en met 3 in de tabel die als [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008995&bijlage=3&z=2005-01-01&g=2005-01-01) bij deze wet is gevoegd.
 
@@ -114,7 +141,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3.2. Overige bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De vaststelling van een uitkering uit het provinciefonds over de uitkeringsjaren voor de inwerkingtreding van deze wet en de rechtsgedingen die daarop betrekking hebben, geschieden volgens de wettelijke regels, zoals deze luidden voor inwerkingtreding van deze wet.
 
@@ -122,11 +149,11 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Het Besluit rivierdijkversterking/hoofdwaterkeringen Provinciefonds berust na de inwerkingtreding van deze wet op [artikel 13 van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13). Op dit besluit is [artikel 13, derde lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=13) niet van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 De tekst van de [Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290) wordt in het **Staatsblad** geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,30 +1,54 @@
 ---
 title: "Beleidsregels ter overneming Beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen voor de premieheffing werknemersverzekeringen in het jaar 2005"
 identifier: "BWBR0018020"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2005-03-11
-laatste_update: 2005-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018020"
+country: "nl"
+rank: "zbo"
+publication_date: "2005-03-11"
+last_updated: "2005-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018020"
+soort: "zbo"
+stam_id: "6837983"
+version_id: "11720452"
+internal_id: "C29153521"
+label_id: "6826194"
+original_entry_into_force: "2005-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018020/2005-03-11/0"
+intitule_bron: "Stcrt.2005-48"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-15"
+intitule_published: "2005-03-09"
+intitule_in_force: "2005-03-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-48"
+original_signed_date: "2005-02-15"
+original_published_date: "2005-03-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-48-p19-SC69184"
+entry_into_force_date: "2005-03-11"
+jci_1_3: "jci1.3:c:BWBR0018020&z=2005-03-11&g=2005-03-11"
+jci_1_0: "1.0:c:BWBR0018020&g=2005-03-11"
+citeertitel_status: "redactioneel"
+signed_date: "2005-02-15"
+entry_into_force: "2005-03-11"
 ---
-
 # Beleidsregels ter overneming Beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen voor de premieheffing werknemersverzekeringen in het jaar 2005
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0018020&bijlage=1&z=2005-03-11&g=2005-03-11) genoemde beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen gelden, voorzover deze het loonbegrip van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) betreffen waarnaar de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten verwijst, in het jaar 2005 geheel voor de premieheffing werknemersverzekeringen.
 
-#### Artikel 2
+##### Artikel 2
 
 De in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0018020&bijlage=2&z=2005-03-11&g=2005-03-11) genoemde beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen gelden, voorzover deze het loonbegrip van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) betreffen waarnaar de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten verwijst, in het jaar 2005 gedeeltelijk voor de premieheffing werknemersverzekeringen.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0018020&bijlage=3&z=2005-03-11&g=2005-03-11) genoemde beleidsbesluiten inzake de heffing van loonbelasting/premie volksverzekeringen over het loonbegrip van de [Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471) waarnaar de Wet administratieve lastenverlichting en vereenvoudiging in socialeverzekeringswetten verwijst, gelden in het jaar 2005 niet voor de premieheffing werknemersverzekeringen.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2005.
 

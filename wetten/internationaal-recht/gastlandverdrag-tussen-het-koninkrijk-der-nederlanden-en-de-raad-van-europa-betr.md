@@ -1,13 +1,38 @@
 ---
 title: "Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Raad van Europa betreffende de zetel van het register van schade veroorzaakt door de agressie van de Russische Federatie tegen Oekraïne"
 identifier: "BWBV0007001"
-categorie: "Internationaal recht"
-publicatiedatum: 2023-07-14
-laatste_update: 2023-07-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007001"
+country: "nl"
+rank: "verdrag"
+publication_date: "2023-07-14"
+last_updated: "2023-07-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007001"
+soort: "verdrag"
+stam_id: "10005631413"
+version_id: "10006200282"
+internal_id: "C10009997191"
+label_id: "10005613564"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007001/2023-07-14/0"
+intitule_bron: "Trb.2023-81"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-14"
+intitule_published: "2023-07-14"
+intitule_in_force: "2023-07-14"
+intitule_status: "goed"
+original_publication: "Trb.2023-81"
+original_signed_date: "2023-07-14"
+original_published_date: "2023-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2023-81"
+entry_into_force_date: "2023-07-14"
+jci_1_3: "jci1.3:c:BWBV0007001&z=2023-07-14&g=2023-07-14"
+jci_1_0: "1.0:c:BWBV0007001&g=2023-07-14"
+citeertitel_status: "redactioneel"
+signed_date: "2023-07-14"
+entry_into_force: "2023-07-14"
 ---
-
 # Gastlandverdrag tussen het Koninkrijk der Nederlanden en de Raad van Europa betreffende de zetel van het register van schade veroorzaakt door de agressie van de Russische Federatie tegen Oekraïne
 
 The Kingdom of the Netherlands
@@ -26,7 +51,7 @@ Desiring to lay down conditions concerning the privileges, immunities, facilitie
 
 Have agreed as follows:
 
-#### Article 1. Use of terms
+##### Article 1. Use of terms
 
 For the purpose of this Agreement:
 
@@ -68,17 +93,17 @@ For the purpose of this Agreement:
 
 - o). “Competent authorities” means national, provincial, municipal and other competent authorities under the laws, regulations and customs of the host State.
 
-#### Article 2. Purpose
+##### Article 2. Purpose
 
 This Agreement shall regulate matters relating to or arising out of the establishment and the proper functioning of the Register. It shall, **inter alia**, create conditions conducive to the security and independence of the Register and facilitate its smooth and efficient functioning.
 
-#### Article 3. Legal status, juridical personality and representation
+##### Article 3. Legal status, juridical personality and representation
 
 1. The Register shall possess juridical personality under the national laws of the host State and thus enjoy such legal capacity as is necessary for the exercise of its functions, fulfilment of its mandate and the protection of its interests, in particular the capacity to contract and to acquire and dispose of movable and immovable property.
 
 2. The Executive Director shall represent the Register and act on its behalf.
 
-#### Article 4. Inviolability of the premises
+##### Article 4. Inviolability of the premises
 
 1. The premises shall be inviolable. Without prejudice to [Article 32](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=32&z=2023-07-14&g=2023-07-14) of this Agreement, the competent authorities shall ensure that the Register is not dispossessed and/or deprived of all or any part of its premises without its express consent.
 
@@ -90,13 +115,13 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 5. The Register shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.
 
-#### Article 5. Protection of the premises and their vicinity
+##### Article 5. Protection of the premises and their vicinity
 
 1. The host State shall exercise due diligence to ensure that the security and tranquility of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into or onto the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the host State shall take adequate protection measures on the boundaries and in the vicinity of the Register’s premises.
 
 2. The Register shall provide the competent authorities with all information relevant to the security and protection of the premises.
 
-#### Article 6. Law and authority on the premises
+##### Article 6. Law and authority on the premises
 
 1. The premises shall be under the control and authority of the Register as provided for in this Agreement.
 
@@ -106,7 +131,7 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 4. The Register may expel or exclude persons from the premises for violation of its regulations.
 
-#### Article 7. Public services for the premises
+##### Article 7. Public services for the premises
 
 1. The competent authorities shall secure, upon the request of the Executive Director, or an official designated by him or her, on fair and equitable conditions, the public services needed by the Register such as, but not limited to, postal, telephone, telegraphic services, any means of communication, electricity, water, gas, sewage, collection of waste, fire protection, local transportation and cleaning of public streets, including snow removal.
 
@@ -118,21 +143,21 @@ This Agreement shall regulate matters relating to or arising out of the establis
 
 5. Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Executive Director, or an official designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the Register.
 
-#### Article 8. Facilities and immunities in respect of communications
+##### Article 8. Facilities and immunities in respect of communications
 
 1. The host State shall permit the Register to communicate freely and without a need for special permission, for all official purposes and shall protect the right of the Register to do so.
 
 2. No censorship shall be applied to the official communications or correspondence of the Register, whether in physical or digital form or in any other electronic format.
 
-#### Article 9. Inviolability of archives
+##### Article 9. Inviolability of archives
 
 The archives of the Register, all papers and documents in whatever form, materials, including databases, data processing systems and data contained therein, held by the Register or belonging to it, shall be inviolable.
 
-#### Article 10. Freedom of financial assets from restrictions
+##### Article 10. Freedom of financial assets from restrictions
 
 The Register may purchase, receive, convert and hold any kind of funds, currency, cash or securities. It may use or dispose of them freely for any purpose in accordance with its official activities and hold accounts in any currency to the extent required to meet its obligations.
 
-#### Article 11. Funds, assets and other property
+##### Article 11. Funds, assets and other property
 
 1. The Register, its funds, assets and other property, wherever located and by whomsoever held, shall enjoy immunity from every form of legal process in the host State, except in so far as in any particular case the Conference of Participants has expressly authorised the waiver of this immunity. Such a waiver shall not be held to imply a waiver of immunity in respect of the execution of judgments.
 
@@ -140,7 +165,7 @@ The Register may purchase, receive, convert and hold any kind of funds, currency
 
 3. To the extent necessary to carry out the functions of the Register, funds, assets and other property of the Register, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature.
 
-#### Article 12. Exemption of the Register and its property from taxes and duties
+##### Article 12. Exemption of the Register and its property from taxes and duties
 
 1. Within the scope of its official activities, the Register, its assets, income and other property shall be exempt from all direct taxes, whether levied by national, provincial or local authorities.
 
@@ -172,11 +197,11 @@ The Register may purchase, receive, convert and hold any kind of funds, currency
 
 5. The Register shall not claim exemption from taxes which are, in fact, no more than charges for public utility services provided at a fixed rate according to the amount of services rendered and which can be specifically identified, described and itemized.
 
-#### Article 13. Exemption from import and export restrictions
+##### Article 13. Exemption from import and export restrictions
 
 The Register shall be exempt from all restrictions on imports and exports in respect of articles imported or exported by the Register for its official use.
 
-#### Article 14. Entry, stay and departure
+##### Article 14. Entry, stay and departure
 
 1. The host State shall facilitate, if required, the entry, stay, and departure for purposes of official business of the persons listed below. The host state shall furthermore facilitate the entry, stay, and departure for purposes of official business of the family members forming part of the household of the persons mentioned in subparagraph (c) and (d). The host State shall also facilitate the entry, stay and departure for purposes of official business of the family members forming part of the household of persons mentioned in subparagraph (b) in the case that such persons will stay in the host State for a consecutive period of six months or longer, and of persons mentioned in subparagraph (e) in consultation with the host State:
 
@@ -200,7 +225,7 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 4. All the aforementioned persons who are entitled to privileges and immunities shall enjoy them from the moment they enter the territory of the Kingdom of the Netherlands to take up their posts or to undertake official Register-related duties and shall come to an end within a reasonable period after the expiry or termination of their contracts of employment or completion of their Register-related duties.
 
-#### Article 15. Privileges, immunities and facilities of members of the Board
+##### Article 15. Privileges, immunities and facilities of members of the Board
 
 1. Members of the Board, together with family members forming part of the household of a member of the Board who will stay in the host State for a consecutive period of six months or longer in accordance with [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=14&z=2023-07-14&g=2023-07-14) of this Agreement, and who are not nationals or permanent residents of the host State, shall enjoy the privileges, immunities, exemptions and facilities accorded to diplomatic agents in accordance with the Vienna Convention. Such privileges, immunities, exemptions and facilities, **inter alia**, include:
 
@@ -244,7 +269,7 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 5. Persons referred to in paragraph 4 of this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their functions for the Register.
 
-#### Article 16. Privileges, immunities and facilities of representatives of the Conference of Participants
+##### Article 16. Privileges, immunities and facilities of representatives of the Conference of Participants
 
 1. Representatives of the Conference of Participants shall, while performing their official functions in the host State, enjoy the following privileges, immunities and facilities:
 
@@ -268,7 +293,7 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 2. The provisions of paragraph 1 of this Article are not applicable as between a representative and the authorities of the State Party of which he or she is a national or of the State Party or intergovernmental organization of which he or she is or has been a representative.
 
-#### Article 17. Privileges, immunities and facilities of officials of the Register
+##### Article 17. Privileges, immunities and facilities of officials of the Register
 
 1. In accordance with Article 18 of the General Agreement on Privileges and Immunities of the Council of Europe, officials of the Register shall:
 
@@ -302,7 +327,7 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 - d). inviolability of all papers, documents, in whatever form, and materials relating to the performance of their functions for the Register.
 
-#### Article 18. Experts
+##### Article 18. Experts
 
 1. Experts performing functions for the Register shall be accorded the following privileges, immunities and facilities to the extent necessary for the independent performance of their functions, subject to production of the document referred to in paragraph 2 of this Article:
 
@@ -340,7 +365,7 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 5. Experts shall not be subjected by the host State to any measure which may affect the independent performance of their functions for the Register.
 
-#### Article 19. Interns
+##### Article 19. Interns
 
 1. Without prejudice to the applicable rules of the European Union in regard of citizens of a member State of the European Union, the Ministry of Foreign Affairs shall register interns for a maximum period of six (6) months, provided that the Register supplies the Ministry of Foreign Affairs with a declaration signed by them, accompanied by adequate proof, to the effect that:
 
@@ -364,19 +389,19 @@ The Register shall be exempt from all restrictions on imports and exports in res
 
 - b). inviolability of all papers, documents in whatever form and materials relating to the performance of their functions for the Register.
 
-#### Article 20. Personnel recruited locally and not otherwise covered by this Agreement, such as personnel assigned to hourly rates
+##### Article 20. Personnel recruited locally and not otherwise covered by this Agreement, such as personnel assigned to hourly rates
 
 Personnel recruited locally and not otherwise covered by this Agreement, such as personnel assigned to hourly rates, shall be accorded immunity from legal process in respect of words spoken or written and all acts performed by them in their official capacity for the Register. This immunity shall continue after the cessation of their assignment.
 
-#### Article 21. Exceptions to immunities
+##### Article 21. Exceptions to immunities
 
 The immunity granted to persons mentioned in [Article 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=15&z=2023-07-14&g=2023-07-14), [Article 16](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=16&z=2023-07-14&g=2023-07-14), [Article 17](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=17&z=2023-07-14&g=2023-07-14), [Article 18](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=18&z=2023-07-14&g=2023-07-14) and [Article 20](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=20&z=2023-07-14&g=2023-07-14), shall not extend to cases involving a motor traffic offence committed by any such person nor to any civil action by a third party for damages, including personal injury or death, arising from a traffic accident caused by any such person.
 
-#### Article 22. Protection of personnel
+##### Article 22. Protection of personnel
 
 The host State shall, if so requested by the Secretary General or the Executive Director take all reasonable steps to ensure the necessary safety and protection of the persons mentioned in this Agreement whose security is endangered due to their services to the Register within the host State.
 
-#### Article 23. Notification and identification cards
+##### Article 23. Notification and identification cards
 
 1. The Register shall promptly, but within eight (8) working days, notify the Ministry of Foreign Affairs of:
 
@@ -430,11 +455,11 @@ The host State shall, if so requested by the Secretary General or the Executive 
 
 7. At the final departure of the persons referred to in paragraph 1 of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraphs 5 and 6 of this Article shall be returned promptly, and no later than within fifteen (15) days, by the Register to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraphs 5 and 6 of this Article within the specified time period, the Ministry of Foreign Affairs shall be consulted immediately.
 
-#### Article 24. Social security
+##### Article 24. Social security
 
 The social security system of the Council of Europe offers coverage comparable to the coverage under the legislation of the host State. The social security and pension scheme of the Council of Europe applies to the Register and its officials who shall be exempt from social security provisions of the host State.
 
-#### Article 25. Employment of family members of members of the Board and of family members of officials of the Register
+##### Article 25. Employment of family members of members of the Board and of family members of officials of the Register
 
 1. Members of the family forming part of the household of a member of the Board in accordance with [Article 14, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=14&z=2023-07-14&g=2023-07-14) or an official of the Register shall be authorised to engage in gainful employment in the host State for the duration of the term of office of the official concerned.
 
@@ -444,7 +469,7 @@ The social security system of the Council of Europe offers coverage comparable t
 
 4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
-#### Article 26. Waiver of immunities
+##### Article 26. Waiver of immunities
 
 1. The privileges, immunities and facilities provided for in [Articles 15](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=15&z=2023-07-14&g=2023-07-14), [16](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=16&z=2023-07-14&g=2023-07-14), [17](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=17&z=2023-07-14&g=2023-07-14), [18](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=18&z=2023-07-14&g=2023-07-14) and [20](https://wetten.overheid.nl/jci1.3:c:BWBV0007001&artikel=20&z=2023-07-14&g=2023-07-14) of this Agreement are granted in the interests of the Register and not for the personal benefit of the persons themselves. The Secretary General of the Council of Europe shall have the right and the duty to waive the immunity of any person mentioned in Articles 17, 18 and 20 in any case where, in his or her opinion, the immunity would impede the cause of justice and can be waived without prejudice to the Register.
 
@@ -452,7 +477,7 @@ The social security system of the Council of Europe offers coverage comparable t
 
 3. Consistent with its privileges and immunities, the Register shall co-operate at all times with the appropriate authorities of the host State to facilitate the proper administration of justice and shall not abuse any of the privileges and immunities granted to it under this Agreement.
 
-#### Article 27. Co-operation with the competent authorities
+##### Article 27. Co-operation with the competent authorities
 
 1. The Register and the host State shall co-operate on security matters, taking into account the public order and national security interests of the host State.
 
@@ -460,7 +485,7 @@ The social security system of the Council of Europe offers coverage comparable t
 
 3. The Register shall observe all security directives as agreed with the host State, as well as all directives of the competent authorities responsible for fire prevention regulations.
 
-#### Article 28. Settlement of disputes
+##### Article 28. Settlement of disputes
 
 1. The Register shall have recourse to appropriate Council of Europe modes of settlement of:
 
@@ -472,19 +497,19 @@ The social security system of the Council of Europe offers coverage comparable t
 
 3. If the dispute is not settled in accordance with paragraph 2 of this Article within three (3) months following a written request by one of the Parties to the difference, it shall, at the request of either Party, be referred to a Tribunal of three arbitrators. Each Party shall appoint one arbitrator, and the two arbitrators so appointed shall appoint a third, who shall be the chairperson of the Tribunal. If, within thirty (30) days of the request for arbitration, a Party has not appointed an arbitrator, or if, within fifteen (15) days of the appointment of two arbitrators, the third arbitrator has not been appointed, either Party may request the President of the International Court of Justice to appoint the arbitrator referred to. The Tribunal shall determine its own procedures, provided that any two arbitrators shall constitute a quorum for all purposes, and all decisions shall require the agreement of any two arbitrators. The expenses of the Tribunal shall be borne by the Parties as assessed by the Tribunal. The arbitral award shall contain a statement of the reasons on which it is based and shall be final and binding on the Parties.
 
-#### Article 29. Interpretation of the Agreement
+##### Article 29. Interpretation of the Agreement
 
 This Agreement shall be interpreted in light of its primary purpose of enabling the Register through opening and maintaining its office in the host State to fully and efficiently discharge its responsibilities and fulfill its purposes.
 
-#### Article 30. Amendments
+##### Article 30. Amendments
 
 This Agreement may be amended by mutual written consent by the Parties.
 
-#### Article 31. Application
+##### Article 31. Application
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 32. Entry into force and termination
+##### Article 32. Entry into force and termination
 
 1. This Agreement shall enter into force on the day of its signature.
 

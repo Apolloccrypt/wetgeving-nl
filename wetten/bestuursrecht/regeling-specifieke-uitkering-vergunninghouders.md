@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering vergunninghouders"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2021, nr. 2021-0000578548, houdende vaststelling van regels voor het verstrekken van een specifieke uitkering aan gemeenten ten behoeve van de huisvesting van vergunninghouders (Regeling specifieke uitkering vergunninghouders)"
 identifier: "BWBR0045989"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-12-08
-laatste_update: 2021-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045989"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-12-08"
+last_updated: "2021-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045989"
+soort: "ministeriele-regeling"
+stam_id: "16171573"
+version_id: "28217682"
+internal_id: "C39780291"
+label_id: "16099944"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045989/2021-12-08/0"
+intitule_bron: "Stcrt.2021-48698"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-12-06"
+intitule_published: "2021-12-07"
+intitule_in_force: "2021-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48698"
+original_signed_date: "2021-12-06"
+original_published_date: "2021-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48698"
+entry_into_force_date: "2021-12-08"
+jci_1_3: "jci1.3:c:BWBR0045989&z=2021-12-08&g=2021-12-08"
+jci_1_0: "1.0:c:BWBR0045989&g=2021-12-08"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering vergunninghouders"
+signed_date: "2021-12-06"
+entry_into_force: "2021-12-08"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 december 2021, nr. 2021-0000578548, houdende vaststelling van regels voor het verstrekken van een specifieke uitkering aan gemeenten ten behoeve van de huisvesting van vergunninghouders (Regeling specifieke uitkering vergunninghouders)
 
 Gelet op [artikel 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onderdeel a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In deze regeling wordt verstaan onder:
 
 - 3°. waarvan het maximale huurverhogingspercentage bedraagt het in [artikel 10, derde lid, van de Uitvoeringswet huurprijzen woonruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0014315&artikel=10) vastgestelde maximale huurverhogingspercentage.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De Minister verstrekt een specifieke uitkering aan de in de bijlage genoemde gemeenten voor:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. De specifieke uitkering wordt niet verstrekt voor BTW verschuldigd over kosten voor de uitvoering van projecten, bedoeld in het eerste lid, onder a, voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817) of voor zover de kosten in aanmerking komen voor aftrek op grond van de [Wet op de omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002629).
 
-#### Artikel 3. Verplichtingen
+##### Artikel 3. Verplichtingen
 
 1. Ten minste 33 procent van de betaalbare woningen in een project zijn bestemd voor vergunninghouders en dienen voor ten minste 10 jaar, of indien het gebruik als woning voor een kortere periode is toegestaan, voor deze periode, bestemd te zijn voor vergunninghouders.
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 6. De gemeente besteedt de specifieke uitkering aan de in het besluit tot toekenning van de specifieke uitkering voor die betreffende gemeente opgenomen projecten.
 
-#### Artikel 4. Wijze van betaling en het besluit tot toekenning
+##### Artikel 4. Wijze van betaling en het besluit tot toekenning
 
 1. Bij de toekenning van de specifieke uitkering, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045989&artikel=2&z=2021-12-08&g=2021-12-08), wordt een voorschot van 100% verleend. De betaling van dit voorschot vindt uiterlijk plaats op 31 december 2021.
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 - e. de wijze waarop kan worden aangetoond dat de projecten zijn uitgevoerd.
 
-#### Artikel 5. Verantwoording, vaststelling en terugvordering
+##### Artikel 5. Verantwoording, vaststelling en terugvordering
 
 1. Het college legt verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -84,11 +110,11 @@ In deze regeling wordt verstaan onder:
 
 3. De Minister stelt de specifieke uitkering vast nadat het college, op de in het eerste lid bedoelde wijze, de eindverantwoording aan de Minister heeft verstrekt.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering vergunninghouders.
 

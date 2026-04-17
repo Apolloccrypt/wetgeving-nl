@@ -1,13 +1,39 @@
 ---
-title: "Omzetbelasting, vrijstelling; artikel 11, eerste lid, aanhef en onderdeel g, onder 1°, Wet op de omzetbelasting 1968"
+title: "Omzetbelasting, vrijstelling; artikel 11, eerste lid, aanhef en onderdeel g, onder 1°, van de Wet op de omzetbelasting 1968"
 identifier: "BWBR0037781"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-04-27
-laatste_update: 2023-04-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037781"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-04-27"
+last_updated: "2023-04-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037781"
+soort: "beleidsregel"
+stam_id: "13449263"
+version_id: "23113832"
+internal_id: "C33403611"
+label_id: "13416754"
+dtd_version: "2.0"
+original_entry_into_force: "2016-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037781/2023-04-27/0"
+intitule_bron: "Stcrt.2016-17339"
+intitule_effect: "wijziging"
+intitule_signed: "2016-03-29"
+intitule_published: "2016-04-01"
+intitule_in_force: "2016-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-17339"
+original_signed_date: "2016-03-29"
+original_published_date: "2016-04-01"
+original_effect: "wijziging"
+original_url_id: "stcrt-2016-17339"
+entry_into_force_date: "2016-04-02"
+jci_1_3: "jci1.3:c:BWBR0037781&z=2023-04-27&g=2023-04-27"
+jci_1_0: "1.0:c:BWBR0037781&g=2023-04-27"
+citeertitel_status: "redactioneel"
+short_title: "Omzetbelasting, vrijstelling; artikel 11, eerste lid, aanhef en onderdeel g, onder 1°, Wet op de omzetbelasting 1968"
+signed_date: "2016-03-29"
+entry_into_force: "2016-04-02"
 ---
-
 # Omzetbelasting, vrijstelling; artikel 11, eerste lid, aanhef en onderdeel g, onder 1°, van de Wet op de omzetbelasting 1968
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

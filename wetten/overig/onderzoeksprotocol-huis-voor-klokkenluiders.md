@@ -1,13 +1,35 @@
 ---
 title: "Onderzoeksprotocol Huis voor Klokkenluiders"
 identifier: "BWBR0049196"
-categorie: "Overig"
-publicatiedatum: 2024-01-05
-laatste_update: 2024-01-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049196"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-01-05"
+last_updated: "2024-01-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049196"
+soort: "zbo"
+stam_id: "16991383"
+version_id: "29880952"
+internal_id: "C42835631"
+label_id: "16901764"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049196/2024-01-05/0"
+intitule_bron: "Stcrt.2024-246"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-01-05"
+intitule_in_force: "2024-01-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-246"
+original_published_date: "2024-01-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-246"
+entry_into_force_date: "2024-01-05"
+jci_1_3: "jci1.3:c:BWBR0049196&z=2024-01-05&g=2024-01-05"
+jci_1_0: "1.0:c:BWBR0049196&g=2024-01-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-01-05"
 ---
-
 # Onderzoeksprotocol Huis voor Klokkenluiders
 
 Het bestuur van het Huis voor klokkenluiders heeft op 15 maart 2021 dit onderzoeksprotocol vastgesteld, met de Wet Huis voor klokkenluiders van 14 april 2016 als basis en in navolging van wat in artikel 3h van die wet is bepaald.

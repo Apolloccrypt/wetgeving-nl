@@ -1,13 +1,38 @@
 ---
-title: "Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren"
+title: "Besluit van 8 april 1994, houdende regels met betrekking tot een nieuwe Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar en de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen"
 identifier: "BWBR0006589"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006589"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006589"
+soort: "AMvB"
+stam_id: "1012683"
+version_id: "27494072"
+internal_id: "C40426981"
+label_id: "982114"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006589/2026-01-01/0"
+intitule_bron: "Stb.1994-275"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-07"
+intitule_in_force: "1994-01-13"
+intitule_status: "goed"
+original_publication: "Stb.2021-46"
+original_signed_date: "2021-01-26"
+original_published_date: "2021-02-05"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2021-46"
+entry_into_force_date: "2022-07-01"
+jci_1_3: "jci1.3:c:BWBR0006589&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006589&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren"
+signed_date: "2021-01-26"
+entry_into_force: "2022-07-01"
 ---
-
 # Besluit van 8 april 1994, houdende regels met betrekking tot een nieuwe Ambtsinstructie voor de politie, de Koninklijke marechaussee en de buitengewoon opsporingsambtenaar en de maatregelen waaraan rechtens van hun vrijheid beroofde personen kunnen worden onderworpen
 
 Op de voordracht van Onze Ministers van Justitie en van Binnenlandse Zaken van 8 december 1993, Stafafdeling Wetgeving Publiekrecht, nr. 415284/93/6 en nr. EA 93/U 3630, gedaan in overeenstemming met Onze Minister van Defensie, nr. CWW 85/008;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder ambtenaar:
 
@@ -98,7 +123,7 @@ Hebben goedgevonden en verstaan:
 
 6. In dit besluit wordt onder wapenstok zowel de korte als de lange wapenstok verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt:
 
@@ -106,7 +131,7 @@ De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt
 
 - b. bij optreden in uniform, op verzoek daartoe.
 
-#### Artikel 3
+##### Artikel 3
 
 De ambtenaar die bijstand verleent ingevolge de bepalingen van [hoofdstuk 5 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&hoofdstuk=5) staat onder bevel van het bevoegd gezag ter plaatse of een door deze aangewezen ambtenaar.
 
@@ -114,7 +139,7 @@ De ambtenaar die bijstand verleent ingevolge de bepalingen van [hoofdstuk 5 van 
 
 #### § 1. Algemeen
 
-#### Artikel 4
+##### Artikel 4
 
 Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toegestaan aan een ambtenaar:
 
@@ -122,7 +147,7 @@ Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toe
 
 - b. die in het gebruik van dat middel is geoefend.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de ambtenaar onder leiding van een ter plaatse aanwezige meerdere optreedt, zal hij geen geweld aanwenden dan na uitdrukkelijke last van deze meerdere. De meerdere geeft daarbij aan van welk geweldmiddel gebruik wordt gemaakt.
 
@@ -130,7 +155,7 @@ Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toe
 
 3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in [artikel 10, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01), voor zover de last redelijkerwijs niet kan worden afgewacht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De korpschef of de daartoe door hem aangewezen ambtenaar van politie zet een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) of een aanhoudings- en ondersteuningsteam als bedoeld in [artikel 12, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=12) slechts in na toestemming van het bevoegd gezag.
 
@@ -138,7 +163,7 @@ Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toe
 
 #### § 2. Vuurwapens
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het gebruik van een vuurwapen, niet zijnde het gebruik, bedoeld in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=8&z=2026-01-01&g=2026-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=9&z=2026-01-01&g=2026-01-01), is slechts geoorloofd:
 
@@ -168,15 +193,15 @@ Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toe
 
 3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
 
-#### Artikel 8
+##### Artikel 8
 
 Het gebruik van automatisch vuur mag alleen plaatsvinden door een ambtenaar die behoort tot een aanhoudings-en ondersteuningsteam of tot een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) dan wel belast is met de bewaking en beveiliging van personen en objecten en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-#### Artikel 9
+##### Artikel 9
 
 Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, mag alleen plaatsvinden onder bevel van de commandant van een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De ambtenaar mag slechts een vuurwapen, niet zijnde een vuurwapen waarmee automatisch vuur of lange-afstandsprecisievuur kan worden afgegeven, ter hand nemen:
 
@@ -186,11 +211,11 @@ Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afge
 
 2. Indien een situatie als bedoeld in het eerste lid, onderdeel b, zich niet of niet meer voordoet, bergt de ambtenaar terstond het vuurwapen op.
 
-#### Artikel 11
+##### Artikel 11
 
 De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01) zijn niet van toepassing op het gebruik en het ter hand nemen van een wapen dat is geladen met niet-penetrerende projectielen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen, niet zijnde een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 
@@ -198,7 +223,7 @@ De [artikelen 7 tot en met 10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&
 
 #### § 2a. Pepperspray
 
-#### Artikel 12a
+##### Artikel 12a
 
 Het gebruik van pepperspray is slechts geoorloofd:
 
@@ -210,11 +235,11 @@ Het gebruik van pepperspray is slechts geoorloofd:
 
 - d. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-#### Artikel 12b
+##### Artikel 12b
 
 De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat pepperspray gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Het gebruik van een stroomstootwapen in de schietmodus is slechts geoorloofd:
 
@@ -234,7 +259,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een p
 
 #### § 2b. Pepperspray
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het gebruik van traangas is slechts geoorloofd:
 
@@ -246,11 +271,11 @@ De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een p
 
 3. De meerdere die bevel geeft tot het verspreiden van traangas geeft bij dit bevel aan hoeveel traangasgranaten worden gebruikt.
 
-#### Artikel 14
+##### Artikel 14
 
 Het gebruik van een waterwerper is slechts geoorloofd bij optreden van een mobiele eenheid als bedoeld in [artikel 26 van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=26) in opdracht van de meerdere en na verkregen toestemming van het bevoegd gezag.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het inzetten van een surveillancehond als geweldmiddel is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij:
 
@@ -262,13 +287,13 @@ Het gebruik van een waterwerper is slechts geoorloofd bij optreden van een mobie
 
 2. Het inzetten van een AOT-hond is slechts geoorloofd onder het direct en voortdurend toezicht van een geleider bij het, na toestemming van het bevoegd gezag, optreden van een aanhoudings- en ondersteuningsteam als bedoeld in [artikel 12, onder a, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=12) of een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59).
 
-#### Artikel 16
+##### Artikel 16
 
 Het gebruik van een elektrische wapenstok is slechts geoorloofd ter verdediging tegen of voor het onder controle brengen van agressieve dieren.
 
 #### § 4. Melding geweld
 
-#### Artikel 17
+##### Artikel 17
 
 1. De ambtenaar die geweld heeft aangewend, meldt schriftelijk de aard, waaronder het gebruikte geweldmiddel, en de gevolgen daarvan en mondeling de feiten en omstandigheden, waaronder de redenen die tot het aanwenden van geweld hebben geleid, zo spoedig mogelijk aan de hulpofficier van justitie die krachtens aanwijzing is belast met de registratie van aangewend geweld.
 
@@ -294,7 +319,7 @@ Het gebruik van een elektrische wapenstok is slechts geoorloofd ter verdediging 
 
 5. De hulpofficier van justitie geeft de ambtenaar die geweld heeft aangewend, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven zo spoedig mogelijk kennis van de geweldsregistratie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van de geweldsregistratie wordt in de gevallen, bedoeld in het tweede lid:
 
@@ -318,7 +343,7 @@ Het gebruik van een elektrische wapenstok is slechts geoorloofd ter verdediging 
 
 3. De functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van de geweldsregistratie heeft kennisgenomen, licht de ambtenaar, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven, in over de kennisgeving, bedoeld in het eerste lid.
 
-#### Artikel 19
+##### Artikel 19
 
 De functionaris, bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2026-01-01&g=2026-01-01), draagt zorg voor:
 
@@ -328,19 +353,19 @@ De functionaris, bedoeld in [artikel 18a, eerste lid](https://wetten.overheid.nl
 
 ### Hoofdstuk 3. Veiligheidsfouillering
 
-#### Artikel 20
+##### Artikel 20
 
 1. Het onderzoek aan de kleding, bedoeld in [artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), en het onderzoek aan de kleding van een te vervoeren persoon, bedoeld in het vierde lid van dat artikel, geschiedt door het oppervlakkig aftasten van de kleding en wordt zo veel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 
 2. Als de ambtenaar bij het onderzoek, bedoeld in [artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), of bij het onderzoek, bedoeld in het vierde lid van dat artikel, ten behoeve van het vervoer van een persoon, voorwerpen aantreft die een gevaar kunnen vormen voor de veiligheid van de betrokkene of voor anderen, neemt hij die voorwerpen in bewaring.
 
-#### Artikel 21
+##### Artikel 21
 
 De ambtenaar die een onderzoek aan kleding of voorwerpen heeft uitgevoerd als bedoeld in [artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
 
 ### Hoofdstuk 4. Handboeien
 
-#### Artikel 22
+##### Artikel 22
 
 Ten behoeve van het vervoer of een verplaatsing kan de ambtenaar een persoon die rechtens van zijn vrijheid is beroofd, handboeien aanleggen indien op grond van de feiten of omstandigheden redelijkerwijs gevaar valt te vrezen voor:
 
@@ -348,19 +373,19 @@ Ten behoeve van het vervoer of een verplaatsing kan de ambtenaar een persoon die
 
 - b. de veiligheid van de persoon die rechtens van zijn vrijheid is beroofd, van de ambtenaar of van derden.
 
-#### Artikel 23
+##### Artikel 23
 
 De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), [artikel 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22a&z=2026-01-01&g=2026-01-01) of [artikel 22b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22b&z=2026-01-01&g=2026-01-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot het gebruik van het middel hebben geleid.
 
 ### Hoofdstuk 4a. Hulpmiddelen ten behoeve van de uitzetting van vreemdelingen
 
-#### Artikel 24
+##### Artikel 24
 
 1. De ambtenaar draagt er zorg voor personen met lichte verwondingen, ziekteverschijnselen en personen ten aanzien van wie twijfel op dit punt bestaat, de weg te wijzen naar een huisarts of naar een E.H.B.O.-afdeling van een ziekenhuis. Indien dat noodzakelijk is, verleent de ambtenaar bemiddeling bij het verkrijgen van passend vervoer.
 
 2. De ambtenaar draagt er zorg voor dat personen met ernstige verwondingen en bewustelozen, waar onder mede worden verstaan personen die niet wekbaar of niet aanspreekbaar zijn, per ambulance naar het ziekenhuis worden vervoerd. De gegevens omtrent aard en omstandigheden van de gebeurtenis die tot de ziektetoestand heeft geleid, alsmede de op de persoon aangetroffen medische gegevens en geneesmiddelen, worden door hem ter beschikking van de medische hulpverleners gesteld.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De ambtenaar draagt er zoveel mogelijk zorg voor dat personen die door drankgebruik, dan wel door andere oorzaken, onmiddellijk gevaarlijk zijn, hetzij voor de openbare orde, veiligheid, of gezondheid, hetzij voor zichzelf, op de meest geschikte wijze van openbare plaatsen als bedoeld in [artikel 1 van de Wet openbare manifestaties](https://wetten.overheid.nl/jci1.3:c:BWBR0004318&artikel=1), worden verwijderd. Onder openbare plaatsen worden mede verstaan vervoermiddelen die zich bevinden op deze plaatsen, een en ander voor zover niet gebezigd als woning.
 
@@ -372,7 +397,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 #### § 1. Algemeen
 
-#### Artikel 26
+##### Artikel 26
 
 1. De korpschef treft voorzieningen opdat de ingeslotene in ieder geval beschikt over:
 
@@ -400,7 +425,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 8. De ambtenaar handelt jegens de ingeslotene overeenkomstig het bepaalde bij of krachtens dit artikel.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Voor zover het bij of krachtens het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) bepaalde zich hiertegen niet verzet stelt de ambtenaar een familielid of een huisgenoot van een ingeslotene zo spoedig mogelijk op de hoogte van de insluiting. In het geval de ingeslotene minderjarig is, doet hij dit uit eigen beweging, indien de ingeslotene meerderjarig is, doet hij dit slechts op verzoek van de ingeslotene.
 
@@ -408,7 +433,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 #### § 1. Algemeen
 
-#### Artikel 28
+##### Artikel 28
 
 1. De ambtenaar onderzoekt de ingeslotene direct voorafgaand aan de insluiting, door het aftasten en doorzoeken van diens kleding en van de voorwerpen die de ingeslotene bij zich draagt of met zich mee voert op de aanwezigheid van voorwerpen die tijdens de insluiting een gevaar voor de veiligheid van de betrokkene of voor anderen kunnen vormen.
 
@@ -418,7 +443,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 4. De ambtenaar die het onderzoek heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de hulpofficier van justitie.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De ambtenaar kan slechts van de ingeslotene verlangen dat deze zich ontkleedt indien:
 
@@ -430,7 +455,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 2. Bij toepassing van het eerste lid, onder b of c, neemt de ambtenaar de kleding in bewaring en draagt hij zorg voor vervangende kleding.
 
-#### Artikel 30
+##### Artikel 30
 
 1. De ambtenaar tekent nauwkeurig alle voorwerpen en kledingstukken die hij in bewaring heeft genomen, op. Bij voorwerpen van een geringe omvang en waarde kan worden volstaan met een globale aanduiding.
 
@@ -438,7 +463,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 #### § 1. Algemeen
 
-#### Artikel 31
+##### Artikel 31
 
 1. De ambtenaar kan de ingeslotene in diens cel of ophoudkamer alleen na toestemming van de hulpofficier van justitie aan permanente camera-observatie onderwerpen.
 
@@ -448,7 +473,7 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 #### § 4. Medische bijstand
 
-#### Artikel 32
+##### Artikel 32
 
 1. In het geval er aanwijzingen zijn dat een ingeslotene medische bijstand behoeft dan wel er bij deze persoon medicijnen zijn aangetroffen, overlegt de ambtenaar met de arts. De ambtenaar overlegt eveneens met de arts indien de ingeslotene zelf om medische bijstand of medicijnen vraagt.
 
@@ -456,11 +481,11 @@ De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bed
 
 3. In het geval de ingeslotene te kennen geeft geen medische hulp te willen hebben, terwijl er aanwijzingen zijn dat medische bijstand gewenst is, waarschuwt de ambtenaar de arts en deelt hij deze de houding van de ingeslotene mee.
 
-#### Artikel 33
+##### Artikel 33
 
 De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkingen opleggen. Hij volgt de aanwijzingen op die de arts over de zorg voor de gezondheid van de ingeslotene geeft en registreert de door de arts gegeven aanwijzingen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. De ambtenaar controleert de ingeslotene regelmatig met dien verstande dat:
 
@@ -474,19 +499,19 @@ De ambtenaar mag aan de arts bij het onderzoek en de behandeling geen beperkinge
 
 3. De ambtenaar registreert de observaties, bedoeld in het eerste lid.
 
-#### Artikel 35
+##### Artikel 35
 
 Bij overplaatsing van de ingeslotene geeft de ambtenaar de geneesmiddelen, de registraties, bedoeld in de[artikelen 26, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=1&artikel=26&z=2026-01-01&g=2026-01-01), [33](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=33&z=2026-01-01&g=2026-01-01) en [34, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=6&paragraaf=4&artikel=34&z=2026-01-01&g=2026-01-01), voor zover die van belang kunnen zijn, en de rapportage van de arts, die bestemd is voor een arts die de behandeling zal overnemen, mee.
 
 #### § 3. Het gebruik van handboeien en blinddoeken ten behoeve van het ordelijk verloop van een aanhouding
 
-#### Artikel 36
+##### Artikel 36
 
 De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zichzelf niet kan verplaatsen, vervoer en begeleiding voor die persoon beschikbaar is.
 
 ### Hoofdstuk 5. Hulpverlening
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien Onze Minister ingevolge [artikel 7, negende lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) heeft bepaald dat een buitengewoon opsporingsambtenaar bevoegd is tot de uitoefening van bevoegdheden als bedoeld in het eerste, derde en vierde lid van dat artikel, zijn de [artikelen 1, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), [17, eerste tot en met derde, vierde lid, onder b en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2026-01-01&g=2026-01-01), [19 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01) van dit besluit van toepassing op de desbetreffende buitengewoon opsporingsambtenaar.
 
@@ -504,27 +529,27 @@ De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zich
 
 - e. [artikel 18, tweede lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2026-01-01&g=2026-01-01), wordt voor «de korpschef» gelezen: de direct toezichthouder, bedoeld in [artikel 1, van het Besluit buitengewoon opsporingsambtenaar](https://wetten.overheid.nl/jci1.3:c:BWBR0007013&artikel=1).
 
-#### Artikel 38
+##### Artikel 38
 
 De buitengewoon opsporingsambtenaar die bevoegd is tot het gebruik van een wapen of handboeien, maakt bij de uitoefening van zijn dienst uitsluitend gebruik van het door Onze Minister voorgeschreven geweldmiddel of handboeien.
 
-#### Artikel 39
+##### Artikel 39
 
 De buitengewoon opsporingsambtenaar is niet eerder bevoegd tot de uitoefening van de in [artikel 7, eerste, derde en vierde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) bedoelde bevoegdheden dan nadat die bevoegdheid is aangetekend op de akte van beëdiging en is gebleken van zijn bekwaamheid in de uitoefening daarvan.
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 40
+##### Artikel 40
 
 Dit besluit treedt in werking met ingang van de dag waarop de [Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299) in werking treedt.
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit wordt aangehaald als: Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren.
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 23a
+##### Artikel 23a
 
 1. De ambtenaar, bij of krachtens de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) belast met de grensbewaking of met het toezicht op vreemdelingen, kan een vreemdeling bij diens uitzetting per luchtvaartuig met hulpmiddelen ten behoeve van uitzetting in zijn bewegingsvrijheid beperken, ten behoeve van een goed verloop van de uitzetting.
 
@@ -538,7 +563,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 4. Het gebruik van een hulpmiddel ten behoeve van uitzetting is uitsluitend toegestaan aan een ambtenaar die in het gebruik van dat hulpmiddel is geoefend.
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. De ambtenaar die ten aanzien van een vreemdeling die wordt uitgezet gebruik heeft gemaakt van een hulpmiddel ten behoeve van uitzetting als bedoeld in [artikel 23a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=2&artikel=23a&z=2026-01-01&g=2026-01-01), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de aard van het hulpmiddel, de redenen die tot het gebruik hebben geleid en de daaruit voortvloeiende gevolgen.
 
@@ -560,7 +585,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen, niet zijnde een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 
@@ -568,7 +593,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 2a. Niet-penetrerende projectielen
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Het gebruik van een wapen dat is geladen met niet-penetrerende projectielen is slechts geoorloofd:
 
@@ -588,11 +613,11 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 3. Niet-penetrerende projectielen die bestemd zijn voor het gebruik, bedoeld in het eerste lid, onder c, worden niet gebruikt voor situaties, bedoeld in het eerste lid, onder d.
 
-#### Artikel 11b
+##### Artikel 11b
 
 De ambtenaar waarschuwt onmiddellijk voordat hij gericht een wapen dat is geladen met niet-penetrerende projectielen zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 
-#### Artikel 11c
+##### Artikel 11c
 
 Vervallen
 
@@ -616,7 +641,7 @@ Vervallen
 
 ### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
 
-#### Artikel 39a
+##### Artikel 39a
 
 Dit besluit berust op [artikel 7, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7), en [artikel 9 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=9) en [artikel 6, vijfde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
 
@@ -626,13 +651,13 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ### Hoofdstuk 7. Buitengewoon opsporingsambtenaar
 
-#### Artikel 39b
+##### Artikel 39b
 
 Dit besluit berust op [artikel 8, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=8), en [artikel 9 van de Politiewet 1993](https://wetten.overheid.nl/jci1.3:c:BWBR0006299&artikel=9) en [artikel 6, vijfde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. Op de ambtenaar van een bijzondere opsporingsdienst zijn de [artikelen 1, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=4&z=2026-01-01&g=2026-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-01&g=2026-01-01), [7, eerste lid, aanhef en onder a, b, e en f, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=7&z=2026-01-01&g=2026-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10&z=2026-01-01&g=2026-01-01), [10a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2&artikel=10a&z=2026-01-01&g=2026-01-01), [12a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12a&z=2026-01-01&g=2026-01-01), [12b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2b&artikel=12b&z=2026-01-01&g=2026-01-01), [12e](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12e&z=2026-01-01&g=2026-01-01), [12f](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=2d&artikel=12f&z=2026-01-01&g=2026-01-01), [17, eerste tot en met derde lid, vierde lid, onder b, en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), [18, eerste lid, aanhef en onder b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=18a&z=2026-01-01&g=2026-01-01), [19 tot en met 22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=19&z=2026-01-01&g=2026-01-01) en [23](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=23&z=2026-01-01&g=2026-01-01) van dit besluit van toepassing.
 
@@ -654,7 +679,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 - h. [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=3&artikel=21&z=2026-01-01&g=2026-01-01) wordt voor «onderzoek aan kleding of voorwerpen» gelezen «onderzoek aan kleding» en wordt voor «[artikel 7, derde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7)» gelezen: [artikel 6, derde lid, van de Wet op de bijzondere opsporingsdiensten](https://wetten.overheid.nl/jci1.3:c:BWBR0019919&artikel=6).
 
-#### Artikel 36b
+##### Artikel 36b
 
 De ambtenaar van een bijzondere opsporingsdienst maakt bij de uitoefening van zijn dienst uitsluitend gebruik van het door Onze Minister voorgeschreven geweldmiddel of handboeien.
 
@@ -666,7 +691,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 29a
+##### Artikel 29a
 
 1. Voordat de officier van justitie met toepassing van [artikel 7, zesde lid, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=7) bepaalt dat de ingeslotene in het lichaam wordt onderzocht, wordt de ingeslotene gehoord, zo veel mogelijk in een voor hem begrijpelijke taal.
 
@@ -688,7 +713,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 ### Hoofdstuk 8. Slotbepalingen
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De geweldsregistratie wordt zo spoedig mogelijk behandeld door de functionaris die op grond van [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=2&paragraaf=4&artikel=17&z=2026-01-01&g=2026-01-01), van de geweldsregistratie heeft kennisgenomen.
 
@@ -722,7 +747,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Het inzetten van een surveillancehond of AOT-hond als geweldmiddel is slechts geoorloofd:
 
@@ -736,7 +761,7 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=47) en [48 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=48).
 
-#### Artikel 15b
+##### Artikel 15b
 
 De ambtenaar waarschuwt onmiddellijk voordat hij een surveillancehond of een AOT-hond tegen een persoon zal inzetten, met luide stem of op andere niet mis te verstane wijze dat een surveillancehond onderscheidenlijk een AOT-hond ingezet zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
@@ -750,7 +775,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij een surveillancehond of een AOT
 
 #### § 5. Hulpmiddelen jegens ingeslotenen
 
-#### Artikel 35a
+##### Artikel 35a
 
 1. De ambtenaar kan de ingeslotene, na toestemming van de hulpofficier van justitie, voor een periode van ten hoogste vierentwintig uren in diens cel of ten behoeve van het vervoer of verplaatsing met hulpmiddelen jegens ingeslotenen als bedoeld in [artikel 2, vijfde lid, van het Besluit bewapening en uitrusting politie](https://wetten.overheid.nl/jci1.3:c:BWBR0032136&artikel=2), in diens bewegingsvrijheid beperken.
 
@@ -774,13 +799,13 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### § 2c. Stroomstootwapen
 
-#### Artikel 12d
+##### Artikel 12d
 
 De ambtenaar waarschuwt onmiddellijk voordat hij een stroomstootwapen tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een stroomstootwapen gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 #### § 2d. Wapenstok
 
-#### Artikel 12e
+##### Artikel 12e
 
 Het gebruik van de wapenstok is slechts geoorloofd:
 
@@ -794,7 +819,7 @@ Het gebruik van de wapenstok is slechts geoorloofd:
 
 - e. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-#### Artikel 12f
+##### Artikel 12f
 
 De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt onmiddellijk voordat hij een wapenstok tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
@@ -802,17 +827,17 @@ De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt 
 
 ### Hoofdstuk 4. Vrijheidsbeperkende middelen en hulpmiddelen
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. De ambtenaar kan bij een persoon die rechtens van zijn vrijheid is beroofd, ten behoeve van het vervoer of een verplaatsing mondafscherming aanbrengen.
 
 2. De maatregel, bedoeld in het eerste lid, wordt slechts getroffen indien de feiten of omstandigheden dit redelijkerwijs vereisen met het oog op de veiligheid van de ambtenaar of van derden.
 
-#### Artikel 22b
+##### Artikel 22b
 
 De [artikelen 22, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01), en [22a](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22a&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op een persoon die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau wordt of is ondergebracht.
 
-#### Artikel 23c
+##### Artikel 23c
 
 1. Ten behoeve van een aanhouding en het vervoer kan de ambtenaar die behoort tot een aanhoudings- en ondersteuningsteam of tot een bijstandseenheid als bedoeld in [artikel 59 van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=59) een persoon die rechtens van zijn vrijheid is beroofd en aan wie op grond van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0006589&hoofdstuk=4&paragraaf=1&artikel=22&z=2026-01-01&g=2026-01-01) handboeien zijn aangelegd, blinddoeken indien op grond van de feiten of omstandigheden redelijkerwijs gevaar valt te vrezen voor:
 

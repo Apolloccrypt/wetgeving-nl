@@ -1,13 +1,39 @@
 ---
-title: "Regeling storingsmeldingen"
+title: "Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)"
 identifier: "BWBR0026550"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026550"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026550"
+soort: "ministeriele-regeling"
+stam_id: "10251173"
+version_id: "16773682"
+internal_id: "C23079271"
+label_id: "10226894"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026550/2023-01-01/0"
+intitule_bron: "Stcrt.2009-15977"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-18"
+intitule_published: "2009-10-26"
+intitule_in_force: "2009-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-15977"
+original_signed_date: "2009-10-18"
+original_published_date: "2009-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-15977"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026550&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0026550&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling storingsmeldingen"
+signed_date: "2009-10-18"
+entry_into_force: "2010-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Economische Zaken van 18 oktober 2009, nr. WJZ/9182058, houdende regels voor het behandelen van meldingen over storing in uitrusting (Regeling storingsmeldingen)
 
 Gelet op de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=20) en [22 van het Besluit elektromagnetische compatibiliteit 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021041&artikel=22) en [artikel 20 van het Besluit randapparaten en radioapparaten 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021037&artikel=20) en de [artikelen 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=4), en [5 van het Besluit vergoedingen Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010334&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,13 +58,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Storingsmelding en beoordeling
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een melding aan de minister over storing kan naar keuze van degene die de melding doet telefonisch, schriftelijk, per elektronische post of via de website van de Rijksinspectie Digitale Infrastructuur worden gedaan bij de Rijksinspectie Digitale Infrastructuur.
 
 2. De ontvangst van de storingsmelding wordt bevestigd aan degene die de storing heeft gemeld.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een storingsmelding wordt niet in behandeling genomen indien:
 
@@ -64,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Onderzoek aan uitrusting of radioapparaten en afdoening storingsmelding
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien de storingsmelding in behandeling wordt genomen, wordt nagegaan op welke frequenties of frequentiebanden de storing optreedt en wordt een onderzoek aan de uitrusting die of het radioapparaat dat storing ondervindt of de uitrusting die of het radioapparaat dat storing veroorzaakt of aan beide uitrustingen of radioapparaten, ingesteld. Bij dit onderzoek wordt voor zover nodig nagegaan of:
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 4. Naar aanleiding van het onderzoek, bedoeld in het eerste lid, wordt een rapport van bevindingen opgemaakt.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien uit het onderzoek blijkt dat de uitrusting die of het radioapparaat dat storing ondervindt niet voldoet aan [artikel 4, eerste lid, onder a, b, c, d of e](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), of [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026550&paragraaf=3&artikel=4&z=2023-01-01&g=2023-01-01), zal de behandeling van de storingsmelding worden beëindigd onder opgaaf van redenen.
 
@@ -110,25 +136,25 @@ In deze regeling wordt verstaan onder:
 
 #### § 4. Wijziging in andere regelingen
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Regeling elektromagnetische compatibiliteit 2007.
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De [Regeling storingsklachten](https://wetten.overheid.nl/jci1.3:c:BWBR0007511) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2010.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling storingsmeldingen.
 

@@ -1,14 +1,42 @@
 ---
-title: "Wet tegemoetkoming schade bij rampen"
+title: "Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)"
 identifier: "BWBR0009637"
-categorie: "Overig"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009637"
+country: "nl"
+rank: "wet"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009637"
+soort: "wet"
+stam_id: "804293"
+version_id: "1165492"
+internal_id: "C1165491"
+label_id: "779024"
+dtd_version: "2.0"
+original_entry_into_force: "1998-06-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009637/2021-07-01/0"
+intitule_bron: "Stb.1998-325"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-25"
+intitule_published: "1998-06-11"
+intitule_in_force: "1998-06-11"
+intitule_status: "goed"
+original_publication: "Stb.1998-325"
+original_signed_date: "1998-05-25"
+original_published_date: "1998-06-11"
+original_effect: "nieuwe-regeling"
+original_dossier: "25159"
+original_url_id: "stb-1998-325"
+entry_into_force_date: "1998-06-12"
+entry_into_force_dossier: "25159"
+jci_1_3: "jci1.3:c:BWBR0009637&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0009637&g=2021-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet tegemoetkoming schade bij rampen"
+signed_date: "1998-05-25"
+entry_into_force: "1998-06-12"
 ---
-
-# Wet tegemoetkoming schade bij rampen
+# Wet van 25 mei 1998, houdende regels over tegemoetkoming in de schade en de kosten in geval van overstromingen door zoet water, aardbevingen of andere rampen en zware ongevallen (Wet tegemoetkoming schade bij rampen en zware ongevallen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +44,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is regels te stellen in
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,15 +64,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. gedupeerde: degene die schade heeft geleden dan wel kosten heeft gemaakt als bedoeld in [artikel 4, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=4&z=2021-07-01&g=2021-07-01).
 
-#### Artikel 2
+##### Artikel 2
 
 In de periode dat de in het Deltaplan grote rivieren bedoelde werkzaamheden ter bescherming tegen hoogwater langs de Maas nog niet volledig ten uitvoer zijn gelegd wordt, in afwijking van het bepaalde in [artikel 1, onder b, onderdeel 1°](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=1&z=2021-07-01&g=2021-07-01), onder hoge waterstanden verstaan: hoge waterstanden, veroorzaakt door een rivierafvoer met een gemiddelde kans van voorkomen van minder dan 1/10 per jaar, voor zover het gaat om het gedeelte van de Maas waar geen gereglementeerde waterkeringen aanwezig zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=1), die van ten minste vergelijkbare orde is als een overstroming door zoet water of een aardbeving.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een gedupeerde heeft recht op een tegemoetkoming in de hierna te noemen categorieën van schaden, voor zover de schade die hij heeft geleden, is ontstaan in het schadegebied en het rechtstreeks en onmiddellijk gevolg is van een overstroming door zoet water, een aardbeving dan wel een ramp waarop deze wet ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=3&z=2021-07-01&g=2021-07-01) van toepassing is verklaard, alsmede in de hierna te noemen categorieën van kosten die daarmee verband houden:
 
@@ -88,7 +116,7 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 - e. de schade of de kosten het gevolg zijn van een overstroming door zoet water en zijn ontstaan aan bij algemene maatregel van bestuur vast te stellen activiteiten die vanaf 19 april 1996 hebben plaatsgevonden in het winterbed van bij algemene maatregel van bestuur aan te wijzen rivieren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De omvang van de schade en, voor zover nodig, de kosten wordt door een schade-expert opgenomen en neergelegd in een schaderapport.
 
@@ -98,7 +126,7 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 4. De kosten van het opnemen van de omvang van de schade en de kosten, bedoeld in het eerste en derde lid, komen voor rekening van het Rijk, met uitzondering van het opnemen, bedoeld in het derde lid, dat op verzoek van de gedupeerde is gedaan indien blijkt dat de omvang van de schade en de kosten in eerste instantie op juiste wijze is opgenomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De hoogte van de tegemoetkoming wordt volgens bij of krachtens algemene maatregel van bestuur vast te stellen regels:
 
@@ -114,7 +142,7 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 5. De regels, bedoeld in het tweede tot en met vierde lid, kunnen voor verschillende categorieën gedupeerden verschillend worden gesteld.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een aanvraag voor een tegemoetkoming wordt volgens bij ministeriële regeling vast te stellen regels ingediend. Bij ministeriële regeling kan een termijn worden gesteld waarbinnen een aanvraag moet zijn ingediend.
 
@@ -122,15 +150,15 @@ Bij koninklijk besluit kan deze wet van toepassing worden verklaard in geval van
 
 3. Indien de aanvrager de verplichting, bedoeld in het tweede lid, niet nakomt, kan de tegemoetkoming worden geweigerd dan wel verminderd.
 
-#### Artikel 8
+##### Artikel 8
 
 Van de ministeriële regelingen, bedoeld in de [artikelen 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=6&z=2021-07-01&g=2021-07-01), en [7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2021-07-01&g=2021-07-01), kan worden afgeweken voor zover toepassing gelet op het belang dat deze wet beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 9
+##### Artikel 9
 
 Bij ministeriële regeling kan worden vastgesteld in welke gevallen bij de aanvraag, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009637&artikel=7&z=2021-07-01&g=2021-07-01), een voorschot op de tegemoetkoming kan worden aangevraagd.
 
-#### Artikel 10
+##### Artikel 10
 
 De beschikking tot het toekennen van een tegemoetkoming kan worden gewijzigd of ingetrokken, indien:
 
@@ -140,27 +168,27 @@ De beschikking tot het toekennen van een tegemoetkoming kan worden gewijzigd of 
 
 - c. de ontvanger niet voldoet aan de plicht tot het verlenen van medewerking, bedoeld in [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20).
 
-#### Artikel 11
+##### Artikel 11
 
 Onverschuldigde tegemoetkomingen en voorschotten kunnen worden teruggevorderd voor zover na de dag waarop de tegemoetkoming is toegekend, nog geen vijf jaren zijn verstreken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister is, in overeenstemming met Onze Ministers wie het mede aangaat, belast met de uitvoering van deze wet.
 
 2. Regeling en bestuur kunnen van de gemeenteraad en het college van burgemeester en wethouders en provinciale staten en gedeputeerde staten worden gevorderd ter verzekering van een goede uitvoering van deze wet. Bij ministeriële regeling worden hierover en over de vergoeding van de kosten die aan de uitvoering van de eerste volzin zijn verbonden, regels gesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit aangewezen ambtenaren en andere personen.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze wet wordt aangehaald als: Wet tegemoetkoming schade bij rampen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Verdrag betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen"
 identifier: "BWBV0003733"
-categorie: "Internationaal recht"
-publicatiedatum: 1980-06-19
-laatste_update: 1980-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003733"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-06-19"
+last_updated: "1980-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003733"
+soort: "verdrag"
+stam_id: "10003678243"
+version_id: "10003738922"
+internal_id: "C10006982811"
+label_id: "10003663834"
+dtd_version: "2.0"
+original_entry_into_force: "1980-06-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003733/1980-06-19/0"
+intitule_bron: "Trb.1976-140"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1976-09-20"
+intitule_in_force: "1979-08-28"
+intitule_status: "goed"
+original_publication: "Trb.1976-140"
+original_published_date: "1976-09-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1976-140"
+entry_into_force_date: "1980-06-19"
+jci_1_3: "jci1.3:c:BWBV0003733&z=1980-06-19&g=1980-06-19"
+jci_1_0: "1.0:c:BWBV0003733&g=1980-06-19"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-06-19"
 ---
-
 # Verdrag betreffende de rol van beroepskeuzevoorlichting en beroepsopleiding bij de ontwikkeling van menselijke hulpbronnen
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -20,7 +42,7 @@ Besloten hebbende, dat deze voorstellen de vorm zullen aannemen van een internat
 
 aanvaardt heden, de drieëntwintigste juni negentienhonderd vijfenzeventig, het volgende Verdrag, dat kan worden aangehaald als „Verdrag betreffende de ontwikkeling van menselijke hulpbronnen, 1975”:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Ieder Lid dient uitgebreide en gecoördineerde beleidslijnen en programma's voor beroepskeuzevoorlichting en beroepsopleiding te aanvaarden en te ontwikkelen in nauwe samenhang met de werkgelegenheidssituatie, in het bijzonder met behulp van de openbare arbeidsbureaus.
 
@@ -38,11 +60,11 @@ aanvaardt heden, de drieëntwintigste juni negentienhonderd vijfenzeventig, het 
 
 5. Dit beleid en deze programma's dienen alle mensen op voet van gelijkheid en zonder enige discriminatie aan te moedigen en te helpen hun vakbekwaamheid te ontwikkelen en te gebruiken in hun eigen belang en overeenkomstig hun eigen verlangens, met inachtneming van de behoeften van de maatschappij.
 
-#### Artikel 2
+##### Artikel 2
 
 Teneinde de hierboven aangeduide doelstellingen te bereiken, dient ieder Lid open, soepele en aanvullende vormen van algemeen onderwijs, technisch onderwijs en beroepsonderwijs, school- en beroepskeuzevoorlichting en beroepsopleiding te ontwikkelen en te verbeteren ongeacht of deze activiteiten plaatsvinden binnen of buiten het schoolsysteem.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ieder Lid dient zijn stelsels voor beroepskeuzevoorlichting en zijn stelsels van voortdurende voorlichting over de werkgelegenheid geleidelijk uit te breiden teneinde een allesomvattende informatie en zo ruim mogelijke voorlichting binnen het bereik te brengen van kinderen, jongeren en volwassenen, met inbegrip van passende programma's voor gehandicapten.
 
@@ -50,19 +72,19 @@ Teneinde de hierboven aangeduide doelstellingen te bereiken, dient ieder Lid ope
 
 3. Deze informatie en voorlichting dient te worden aangevuld met informatie omtrent de algemene aspecten van collectieve arbeidsovereenkomsten en de rechten en plichten van alle betrokken partijen op grond van de arbeidswetgeving; deze informatie dient te worden verstrekt overeenkomstig nationale wetten en gebruiken, rekening houdend met de onderscheiden functies en taken van de desbetreffende werknemers- en werkgeversorganisaties.
 
-#### Artikel 4
+##### Artikel 4
 
 Ieder Lid dient zijn verschillende stelsels van beroepsopleiding geleidelijk uit te breiden, aan te passen en te harmoniseren, teneinde te kunnen voorzien in de behoeften van jongeren en volwassenen gedurende hun hele leven, in alle sectoren van de economie, in alle bedrijfstakken en op alle niveaus van vakbekwaamheid en verantwoordelijkheid.
 
-#### Artikel 5
+##### Artikel 5
 
 Het beleid en de programma's voor beroepskeuzevoorlichting en beroepsopleiding dienen te worden opgesteld en uitgevoerd in samenwerking met werkgevers- en werknemersorganisaties en, voor zover van toepassing, overeenkomstig nationale wetten en gebruiken, met andere belanghebbende organen.
 
-#### Artikel 6
+##### Artikel 6
 
 De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit Verdrag is slechts verbindend voor die Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal hebben doen registreren.
 
@@ -70,27 +92,27 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaren na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar nadat zij is geregistreerd.
 
 2. Ieder Lid dat dit Verdrag heeft bekrachtigd en binnen een jaar na het verloop van de termijn van tien jaren, bedoeld in het vorige lid, geen gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaren gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaren op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden der Organisatie zijn medegedeeld.
 
 2. Bij kennisgeving aan de Leden der Organisatie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 10
+##### Artikel 10
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling ter registratie overeenkomstig het bepaalde in [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen, die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 11
+##### Artikel 11
 
 Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks nodig acht, brengt deze Raad aan de Algemene Conferentie verslag uit inzake de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda der Conferentie te plaatsen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag zal, tenzij het nieuwe Verdrag anders bepaalt:
 
@@ -100,7 +122,7 @@ Telkens wanneer de Raad van Beheer van het Internationaal Arbeidsbureau zulks no
 
 2. Het onderhavige Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 13
+##### Artikel 13
 
 De Franse en de Engelse tekst van dit Verdrag zijn gelijkelijk gezaghebbend.
 

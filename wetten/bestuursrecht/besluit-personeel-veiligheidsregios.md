@@ -1,13 +1,39 @@
 ---
-title: "Besluit personeel veiligheidsregio’s"
+title: "Besluit van 24 juni 2010, houdende regels over het personeel van de brandweer, functies voor de bedrijfsbrandweer, functies binnen de GHOR en functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing en het overleg over het personeel van de brandweer (Besluit personeel veiligheidsregio’s)"
 identifier: "BWBR0027841"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-12-01
-laatste_update: 2017-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027841"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-12-01"
+last_updated: "2017-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027841"
+soort: "AMvB"
+stam_id: "10593123"
+version_id: "22750842"
+internal_id: "C32894271"
+label_id: "10568164"
+dtd_version: "2.0"
+original_entry_into_force: "2015-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027841/2017-12-01/0"
+intitule_bron: "Stb.2010-253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-06-24"
+intitule_published: "2010-07-01"
+intitule_in_force: "2010-07-01"
+intitule_status: "goed"
+original_publication: "Stb.2015-380"
+original_signed_date: "2015-10-15"
+original_published_date: "2015-10-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-380"
+entry_into_force_date: "2015-10-15"
+jci_1_3: "jci1.3:c:BWBR0027841&z=2017-12-01&g=2017-12-01"
+jci_1_0: "1.0:c:BWBR0027841&g=2017-12-01"
+citeertitel_status: "officieel"
+short_title: "Besluit personeel veiligheidsregio’s"
+signed_date: "2015-10-15"
+entry_into_force: "2015-10-15"
 ---
-
 # Besluit van 24 juni 2010, houdende regels over het personeel van de brandweer, functies voor de bedrijfsbrandweer, functies binnen de GHOR en functies binnen de organisatie van de rampenbestrijding en de crisisbeheersing en het overleg over het personeel van de brandweer (Besluit personeel veiligheidsregio’s)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 16 februari 2010, nr. 2009-0000506161, CZW/WVOB;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop de Wet veiligheidsregio's in werking tr
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -34,7 +60,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Functies
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij ministeriële regeling worden voor het personeel van de brandweer regels gesteld over de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2017-12-01&g=2017-12-01), en de daarbij behorende eisen over de bekwaamheid.
 
@@ -92,13 +118,13 @@ In dit besluit wordt verstaan onder:
 
 - h. bedrijfsbrandweer manschap a bestrijder vliegtuigbrand.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij de functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=2&artikel=2&z=2017-12-01&g=2017-12-01), behoort een functiegerichte opleiding die wordt afgesloten met een examen.
 
 2. Voor de functies, genoemd in de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01) en [1A](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1a&z=2017-12-01&g=2017-12-01), gelden van laag naar hoog de volgende rangen: brandwacht, hoofdbrandwacht, brandmeester, hoofdbrandmeester, commandeur, adjunct-hoofdcommandeur en hoofdcommandeur.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een persoon is voorafgaand aan de uitoefening van een of meer functies, genoemd in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=1&z=2017-12-01&g=2017-12-01), in het bezit van het diploma van de bij de desbetreffende functie behorende opleiding.
 
@@ -114,7 +140,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 3. Overleg
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het overleg, bedoeld in [artikel 18, vijfde lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18), staat onder het voorzitterschap van Onze Minister. Onze Minister is bevoegd het voorzitterschap over te dragen aan een door hem aan te wijzen ambtenaar.
 
@@ -130,19 +156,19 @@ In dit besluit wordt verstaan onder:
 
 5. Onze Minister kan een toelating van een organisatie tot het overleg krachtens het tweede lid, onderdeel b, intrekken, indien de organisatie naar het oordeel van Onze Minister niet meer representatief is dan wel het algemeen belang zich tegen verdere toelating verzet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het College voor Arbeidszaken van de Vereniging van Nederlandse Gemeenten kan een vertegenwoordiger aanwijzen die als adviseur aan het overleg deelneemt.
 
 2. Deelnemers aan het overleg kunnen zich voor de behandeling van een bepaald onderwerp door een of meer deskundigen laten bijstaan.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De voorzitter van het overleg wijst een secretaris aan.
 
 2. De secretaris staat, onder leiding van de voorzitter, ten dienste van de voorzitter en de vertegenwoordigers van de centrales van overheidspersoneel en andere organisaties als bedoeld in [artikel 5, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2017-12-01&g=2017-12-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Ter voorbereiding op in het overleg te nemen besluiten of ter uitwerking van in het overleg genomen besluiten kan de voorzitter in overleg met deelnemers aan het overleg een werkgroep instellen, waarin ook personen van buiten het overleg zitting kunnen hebben.
 
@@ -150,7 +176,7 @@ In dit besluit wordt verstaan onder:
 
 3. De secretaris van het overleg is tevens secretaris van de werkgroep.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onze Minister bevordert slechts de totstandkoming van een algemene maatregel van bestuur als bedoeld in [artikel 18, tweede lid, van de Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466&artikel=18), indien daarover overeenstemming bestaat tussen de voorzitter en de meerderheid van de centrales van overheidspersoneel, bedoeld in [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&hoofdstuk=3&artikel=5&z=2017-12-01&g=2017-12-01).
 
@@ -162,17 +188,17 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het diploma van de bij de desbetreffende functie behorende opleiding wordt gelijkgesteld met het diploma dat is behaald op basis van de examenreglementen overeenkomstig [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0027841&bijlage=2&z=2017-12-01&g=2017-12-01) bij dit besluit.
 
 2. Onder de examenreglementen, genoemd in het eerste lid, wordt verstaan: de examenreglementen, zoals deze luidden op de dag, voorafgaande aan de datum van inwerkingtreding van de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466).
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027466) in werking treedt.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit wordt aangehaald als: Besluit personeel veiligheidsregio’s.
 

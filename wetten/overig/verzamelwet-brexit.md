@@ -1,14 +1,41 @@
 ---
-title: "Verzamelwet Brexit"
+title: "Wet van 27 maart 2019 tot wijziging van enige wetten en het treffen van voorzieningen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Verzamelwet Brexit)"
 identifier: "BWBR0042111"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042111"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042111"
+soort: "wet"
+stam_id: "15052203"
+version_id: "25794022"
+internal_id: "C37601251"
+label_id: "15001564"
+dtd_version: "2.0"
+original_entry_into_force: "2020-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042111/2024-01-01/0"
+intitule_bron: "Stb.2019-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-27"
+intitule_published: "2019-04-12"
+intitule_in_force: "2020-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2019-123"
+original_signed_date: "2019-03-27"
+original_published_date: "2019-04-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "35084"
+original_url_id: "stb-2019-123"
+entry_into_force_date: "2020-02-01"
+jci_1_3: "jci1.3:c:BWBR0042111&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0042111&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelwet Brexit"
+signed_date: "2019-03-27"
+entry_into_force: "2020-02-01"
 ---
-
-# Verzamelwet Brexit
+# Wet van 27 maart 2019 tot wijziging van enige wetten en het treffen van voorzieningen in verband met de terugtrekking van het Verenigd Koninkrijk uit de Europese Unie (Verzamelwet Brexit)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,37 +45,37 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Ministerie van Justitie en Veiligheid
 
-#### Artikel I. Wijziging van de [Wet op de formeel buitenlandse vennootschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0009191)
+##### Artikel I. Wijziging van de [Wet op de formeel buitenlandse vennootschappen](https://wetten.overheid.nl/jci1.3:c:BWBR0009191)
 
 Wijzigt de Wet op de formeel buitenlandse vennootschappen.
 
 ### Hoofdstuk 2. Ministerie van Infrastructuur en Waterstaat
 
-#### Artikel II. Wijziging van de [Wegenverkeerswet 1994](onbekend)
+##### Artikel II. Wijziging van de [Wegenverkeerswet 1994](onbekend)
 
 Wijzigt de Wegenverkeerswet 1994.
 
 ### Hoofdstuk 3. Ministerie van Economische Zaken en Klimaat
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Elektriciteitswet 1998.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Gaswet.
 
-#### Artikel V. Wijziging van de [Wet goedkeuring en uitvoering Markham-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0005766)
+##### Artikel V. Wijziging van de [Wet goedkeuring en uitvoering Markham-overeenkomst](https://wetten.overheid.nl/jci1.3:c:BWBR0005766)
 
 Wijzigt de Wet goedkeuring en uitvoering Markham-overeenkomst.
 
-#### Artikel VI. Wijziging van de [Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224)
+##### Artikel VI. Wijziging van de [Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten](https://wetten.overheid.nl/jci1.3:c:BWBR0004224)
 
 Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
 ### Hoofdstuk 4. Ministerie van Sociale Zaken en Werkgelegenheid
 
-#### Artikel VII. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
+##### Artikel VII. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2023/417.
 
@@ -56,17 +83,17 @@ Vervallen.
 
 ### Hoofdstuk 5. Ministerie van Volksgezondheid, Welzijn en Sport
 
-#### Artikel VIII. Wijziging [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel VIII. Wijziging [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 Wijzigt de Wet langdurige zorg.
 
-#### Artikel IX. Wijziging [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
+##### Artikel IX. Wijziging [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450)
 
 Wijzigt de Zorgverzekeringswet.
 
 ### Hoofdstuk 6. Slot- en overgangsbepalingen
 
-#### Artikel X. Regelgevende bevoegdheden ten behoeve van overgangssituaties
+##### Artikel X. Regelgevende bevoegdheden ten behoeve van overgangssituaties
 
 1. Bij algemene maatregel van bestuur of bij ministeriële regeling van Onze Minister die het aangaat kunnen tot zes maanden na het einde van de overgangsperiode, bedoeld in artikel 126 van het Akkoord inzake de terugtrekking van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland uit de Europese Unie en de Europese Gemeenschap voor Atoomenergie (PbEU 2020, L 29), voorzieningen worden getroffen met het oog op een goed verloop van deze terugtrekking. De eerste volzin is slechts van toepassing indien op grond van het bepaalde bij of krachtens een andere wet geen voorzieningen als bedoeld in de eerste volzin kunnen worden getroffen of indien terstond intredende onaanvaardbare gevolgen het treffen van voorzieningen als bedoeld in de eerste volzin noodzakelijk maken. Het gebruik van de bevoegdheid, bedoeld in de eerste volzin, wordt nadrukkelijk gemotiveerd.
 
@@ -88,7 +115,7 @@ Wijzigt de Zorgverzekeringswet.
 
 10. Een voorziening als bedoeld in het zevende lid die geen gelijkstelling van het Verenigd Koninkrijk met een EU-lidstaat inhoudt voor de toepassing van een wet of algemene maatregel van bestuur, vervalt van rechtswege indien niet binnen tien weken na de inwerkingtreding ervan een voorstel van wet is ingediend dan wel een ontwerpbesluit in procedure is gebracht.
 
-#### Artikel XI. Inwerkingtreding
+##### Artikel XI. Inwerkingtreding
 
 1. Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
@@ -96,13 +123,13 @@ Wijzigt de Zorgverzekeringswet.
 
 3. Aan besluiten die worden gebaseerd op een onderdeel van deze wet waaraan ingevolge het tweede lid terugwerkende kracht is verleend, kan terugwerkende kracht worden verleend tot en met dezelfde datum.
 
-#### Artikel XII. Citeertitel
+##### Artikel XII. Citeertitel
 
 Deze wet wordt aangehaald als: Verzamelwet Brexit.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
+##### Artikel IXa. Tijdelijke delegatiegrondslag met betrekking tot socialezekerheidswetten
 
 1. Bij algemene maatregel van bestuur kan in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) worden bepaald dat het Verenigd Koninkrijk na de terugtrekking uit de Europese Unie voor de toepassing van die wetten gedurende een daarbij aangegeven periode nog als EU-lidstaat wordt aangemerkt, en kan in die wetten overgangsrecht worden opgenomen voor de situatie na de terugtrekking of na afloop van die periode ter voorkoming van onevenredig nadeel voor verzekerden in het Verenigd Koninkrijk en Nederland.
 

@@ -1,20 +1,45 @@
 ---
 title: "Algemeen Reglement Fonds Podiumkunsten"
 identifier: "BWBR0030539"
-categorie: "Overig"
-publicatiedatum: 2020-05-16
-laatste_update: 2020-05-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030539"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-05-16"
+last_updated: "2020-05-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030539"
+soort: "zbo"
+stam_id: "11466423"
+version_id: "18849842"
+internal_id: "C26307871"
+label_id: "11439804"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030539/2020-05-16/0"
+intitule_bron: "Stcrt.2011-18790"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-06-06"
+intitule_published: "2011-10-20"
+intitule_in_force: "2011-10-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-18790"
+original_signed_date: "2011-06-06"
+original_published_date: "2011-10-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-18790"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBR0030539&z=2020-05-16&g=2020-05-16"
+jci_1_0: "1.0:c:BWBR0030539&g=2020-05-16"
+citeertitel_status: "officieel"
+signed_date: "2011-06-06"
+entry_into_force: "2012-01-01"
 ---
-
 # Algemeen Reglement Fonds Podiumkunsten
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -26,25 +51,25 @@ In deze regeling wordt verstaan onder:
 
 - **Nederland:** het Koninkrijk der Nederlanden, bestaande uit Nederland inclusief Bonaire, Sint-Eustatius en Saba en Aruba, Curaçao en Sint Maarten;
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 1. Het bestuur verstrekt, in overeenstemming met artikel 3 van de statuten van het Fonds Podiumkunsten, subsidies voor activiteiten die bijdragen aan het bevorderen van de kwaliteit en diversiteit van het scheppen, produceren en programmeren van de professionele podiumkunsten in Nederland en het opbouwen van een publiek daarvoor.
 
 2. Het bestuur kan een of meer deelregelingen vaststellen waarin nadere bepalingen zijn opgenomen voor het verstrekken van subsidie.
 
-#### Artikel 3. Toepasbaarheid
+##### Artikel 3. Toepasbaarheid
 
 1. Het bepaalde in deze regeling is van toepassing op alle subsidies die het bestuur verstrekt, tenzij in een deelregeling wordt afgeweken van hetgeen in onderhavige regeling bepaald is.
 
 2. Het bestuur kan bepalingen in de door hem vastgestelde subsidieregelingen buiten toepassing laten of daarvan afwijken, indien de onverkorte toepassing van deze bepalingen, gelet op de gevolgen voor subsidieontvangers van de uitbraak van het Coronavirus en de maatregelen ter bestrijding ervan, zou leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 4. Kring van aanvragers
+##### Artikel 4. Kring van aanvragers
 
 1. Een subsidie aan of ten behoeve van een natuurlijk persoon wordt slechts verstrekt als deze artistiek-inhoudelijk actief is in de podiumkunsten en in die hoedanigheid aantoonbaar geïntegreerd is in de professionele podiumkunstpraktijk in Nederland.
 
 2. Een subsidie aan een rechtspersoon wordt slechts verstrekt als deze in Nederland gevestigd is. In bijzondere gevallen kan het bestuur subsidie verstrekken aan een buiten Nederland gevestigde instelling als dat bijdraagt aan de doelstelling van de betreffende subsidievorm.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 1. Het bestuur kan, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35), subsidie weigeren:
 
@@ -56,13 +81,13 @@ In deze regeling wordt verstaan onder:
 
 2. In een deelregeling kunnen andere weigeringsgronden dan die uit het eerste lid worden opgenomen.
 
-#### Artikel 6. Subsidieplafonds
+##### Artikel 6. Subsidieplafonds
 
 1. Het bestuur kan subsidieplafonds instellen voor een of meer subsidievormen.
 
 2. Bij deelregeling wordt bepaald hoe een subsidieplafond wordt ingesteld en op welke wijze het beschikbare bedrag wordt verdeeld.
 
-#### Artikel 7. Aan de subsidie verbonden verplichtingen
+##### Artikel 7. Aan de subsidie verbonden verplichtingen
 
 1. De ontvanger van het subsidie meldt onverwijld aan het bestuur als:
 
@@ -80,7 +105,7 @@ In deze regeling wordt verstaan onder:
 
 5. Het bestuur kan bij beschikking andere dan de in het eerste tot en met vierde lid opgenomen verplichtingen aan de subsidie verbinden.
 
-#### Artikel 8. Verantwoording
+##### Artikel 8. Verantwoording
 
 1. De ontvanger van het subsidie stuurt binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum een korte verantwoording in over de verrichte activiteiten waarmee kan worden aangetoond dat de gesubsidieerde activiteiten volgens plan hebben plaatsgevonden.
 
@@ -88,15 +113,15 @@ In deze regeling wordt verstaan onder:
 
 3. Als het verstrekte subsidie € 125.000 of meer bedraagt, kan het bestuur de ontvanger verplichten binnen 3 maanden na het verstrijken van de in de beschikking opgenomen einddatum tevens een financiële verantwoording met daarbij een verklaring omtrent de getrouwheid en de rechtmatigheid afgegeven door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) in te zenden.
 
-#### Artikel 9. Begrotingsvoorbehoud
+##### Artikel 9. Begrotingsvoorbehoud
 
 Subsidie wordt verleend onder voorbehoud van verstrekking van de bijbehorende middelen door de Minister van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking op 1 januari 2012.
 
-#### Artikel 11. Intrekking
+##### Artikel 11. Intrekking
 
 1. Het [Algemeen reglement van de stichting Nederlands Fonds voor de Podiumkunsten+](https://wetten.overheid.nl/jci1.3:c:BWBR0022753) wordt ingetrokken.
 
@@ -104,7 +129,7 @@ Deze regeling treedt in werking op 1 januari 2012.
 
 3. Inwerkingtreding van deze regeling brengt geen verandering aan in de rechten en verplichtingen die rusten op subsidieontvangers waaraan daarvoor subsidie is verstrekt.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Algemeen reglement Fonds Podiumkunsten.
 

@@ -1,13 +1,35 @@
 ---
-title: "Overeenkomst tussen het Duitse Wasserverband "Netterden'scher Kanal" en het Nederlandse Polderdistrict "Oude Rijn" inzake het gemaal Kandia"
+title: "Overeenkomst tussen het Duitse Wasserverband \"Netterden'scher Kanal\" en het Nederlandse Polderdistrict \"Oude Rijn\" inzake het gemaal Kandia"
 identifier: "BWBV0003826"
-categorie: "Internationaal recht"
-publicatiedatum: 1975-10-15
-laatste_update: 1975-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003826"
+country: "nl"
+rank: "verdrag"
+publication_date: "1975-10-15"
+last_updated: "1975-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003826"
+soort: "verdrag"
+stam_id: "10003735523"
+version_id: "10003797632"
+internal_id: "C10006983861"
+label_id: "10003720584"
+dtd_version: "2.0"
+original_entry_into_force: "1975-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003826/1975-10-15/0"
+intitule_bron: "Trb.1973-12"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1973-02-06"
+intitule_in_force: "1976-03-03"
+intitule_status: "goed"
+original_publication: "Trb.1973-12"
+original_published_date: "1973-02-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-12"
+entry_into_force_date: "1975-10-15"
+jci_1_3: "jci1.3:c:BWBV0003826&z=1975-10-15&g=1975-10-15"
+jci_1_0: "1.0:c:BWBV0003826&g=1975-10-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "1975-10-15"
 ---
-
 # Overeenkomst tussen het Duitse Wasserverband "Netterden'scher Kanal" en het Nederlandse Polderdistrict "Oude Rijn" inzake het gemaal Kandia
 
 Het Wasserverband „Netterden'scher Kanal” (hierna te noemen „het Wasserverband”), vertegenwoordigd door de voorzitter K. F. Lensing en het Polderdistrict „Oude Rijn” (hierna te noemen „het Polderdistrict”), vertegenwoordigd door de dijkgraaf J. C. Daams gaan van de volgende overwegingen uit:
@@ -34,13 +56,13 @@ op Nederlands gebied...........
 
 Dienovereenkomstig sluiten het Wasserverband en het Polderdistrict, met inachtneming van hoofdstuk 4, artikel 59, van het Grensverdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland van 8 april 1960, de volgende overeenkomst.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het Polderdistrict is verplicht aan de monding van de Oude Rijn in het Pannerdensch Kanaal een gemaal te bouwen en dit, indien nodig, uit te breiden of te verbeteren.
 
 2. Het Polderdistrict is bovendien verplicht, het gemaal te bedienen, te beheren en te onderhouden.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bouw van het gemaal en alle mogelijke uitbreidingen of verbeteringen worden uitgevoerd overeenkomstig plannen, die door de Partijen in onderlinge overeenstemming worden opgesteld; de te dien tijde geldende rechts voorschriften blijven voor het overige onverminderd van kracht. Een zodanig plan wordt na uitvoering een onderdeel van deze overeenkomst.
 
@@ -50,7 +72,7 @@ Dienovereenkomstig sluiten het Wasserverband en het Polderdistrict, met inachtne
 
 4. De Oberdeichinspektor in Düsseldorf en de Directeur-hoofdingenieur van de Dienst van Provinciale Waterstaat van Gelderland te Arnhem hebben het recht tot inspectie van de bouwwerken en installaties. Het vijfde lid van artikel 3 vindt dienovereenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het begin van elk rekeningsjaar (kalenderjaar) maakt het Polderdistrict met voorafgaande instemming van het Wasserverband:
 
@@ -72,7 +94,7 @@ Het bepaalde in de beide eerste volzinnen van dit lid geldt op overeenkomstige w
 
 5. De wettige vertegenwoordiger van het Wasserverband of de door hem hiertoe aangewezen personen hebben het recht zich te allen tijde van de toestand van het gemaal, alsmede van de exploitatie, het beheer en het onderhoud daarvan te overtuigen; zij hebben het recht inzage te nemen van de daarmede verband houdende bescheiden van het Polderdistrict.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het Wasserverband verbindt zich:
 
@@ -86,7 +108,7 @@ Het bepaalde in de beide eerste volzinnen van dit lid geldt op overeenkomstige w
 
 4. Op verzoek van één der Partijen zullen de Partijen zich te zamen ter plaatse op de hoogte stellen van het bestaan van zodanige werkzaamheden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het Wasserverband verbindt zich, aan het Polderdistrict jaarlijks uiterlijk 1 juli een bedrag ter hoogte van 50 procent te betalen van het in de begroting over het lopende rekeningsjaar voor het Wasserverband geraamde aandeel in de totaalkosten.
 
@@ -96,7 +118,7 @@ De overblijvende kosten dienen binnen 2 maanden na overlegging van de rekeningen
 
 3. Alle betalingen geschieden in Nederlands courant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het huidige gemeenschappelijke stroomgebied en de thans daartoe behorende gebieden van de beide Partijen zijn aangegeven op een kaart, die door de Partijen blijkens hun ondertekening als juist wordt erkend en deel uitmaakt van deze overeenkomst.
 
@@ -104,19 +126,19 @@ De overblijvende kosten dienen binnen 2 maanden na overlegging van de rekeningen
 
 3. Wanneer de grootte van de beheerskosten (artikel 4, lid 1 b) verandert ten gevolge van het aanvaarden van andere taken door het Polderdistrict of de vergroting van zijn gebied, zullen het Deichverband en het Polderdistrict over een nieuwe verdeling van de beheerskosten onderhandelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Schade die een der Partijen lijdt als gevolg van niet-nakoming door de andere Partij van de op haar rustende verplichtingen ingevolge deze overeenkomst dient te worden vergoed.
 
 Het Wasserverband heeft het recht om schade, welke door hem is geleden en door het Polderdistrict is erkend in mindering te brengen op dat jaarlijks door hem bij te dragen aandeel in de kosten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Duitse en Nederlandse ondernemers dienen bij de gunning van werken strekkende ter uitvoering van deze overeenkomst in aanmerking te komen zoveel mogelijk naar de verhouding waarin de kosten overeenkomstig het eerste lid van artikel 4 onder a van deze overeenkomst over de Duitse en de Nederlandse Partijen worden verdeeld.
 
 2. Opdrachten, welke het Polderdistrict ten tijde van de ondertekening van deze overeenkomst al heeft verleend, blijven onverlet; zij worden naar de in het eerste lid genoemde maatstaf aan het Nederlandse aandeel toegerekend.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Partijen kunnen zelf, of door middel van de bij hen aangesloten lagere lichamen, voor betere bemaling van hun gebieden op hun eigen kosten aanvullende inrichtingen bouwen en exploiteren.
 
@@ -124,23 +146,23 @@ Het Wasserverband heeft het recht om schade, welke door hem is geleden en door h
 
 Dat geldt niet voor de normale natuurlijke of door middel van kunstwerken geregelde afwatering van voor landbouwdoeleinden gebezigde gronden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Na beëindiging van de overeenkomst zal het Polderdistrict aan het Wasserverband diens aandeel in de kosten voor de bouw van het gemaal en mogelijke verbeteringen en uitbreidingen terugbetalen. De grootte van het aandeel wordt vastgesteld aan de hand van de waarde die het gemaal ten tijde van de beëindiging van de overeenkomst heeft.
 
 2. Alles wat tot de inrichting van de kantoren en vergaderruimte van het Polderdistrict behoort, is zijn eigendom en zulks onafhankelijk van de omstandigheid of de betrokken zaken daarin thans reeds aanwezig zijn of nog zullen worden verkregen.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigingen van deze overeenkomst behoeven de goedkeuring van de Regering van het Koninkrijk der Nederlanden en van de Regering van de Bondsrepubliek Duitsland. Zulks geldt niet voor een wijziging van de kostenverdeling zoals bedoeld in het tweede lid van artikel 6.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze overeenkomst wordt gesloten voor 40 jaar. Als zij niet drie jaar voor de afloopdatum wordt opgezegd, wordt zij voor telkens tien jaar stilzwijgend verlengd.
 
 2. De opzegging dient te geschieden per aangetekende brief.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze overeenkomst behoeft de goedkeuring van de Regering van het Koninkrijk der Nederlanden en de Regering van de Bondsrepubliek Duitsland. Zij treedt in werking een maand nadat de laatste der beide mededelingen van goedkeuring door de andere Partij is ontvangen. De Partijen stellen het tijdstip van de inwerkingtreding vast door middel van briefwisseling.
 

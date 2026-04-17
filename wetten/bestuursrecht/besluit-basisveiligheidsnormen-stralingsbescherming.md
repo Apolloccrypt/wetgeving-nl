@@ -1,13 +1,39 @@
 ---
-title: "Besluit basisveiligheidsnormen stralingsbescherming"
+title: "Besluit van 23 oktober 2017, houdende vaststelling van regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Besluit basisveiligheidsnormen stralingsbescherming)"
 identifier: "BWBR0040179"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040179"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040179"
+soort: "AMvB"
+stam_id: "14342583"
+version_id: "24571302"
+internal_id: "C35548681"
+label_id: "14306334"
+dtd_version: "2.0"
+original_entry_into_force: "2018-02-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040179/2025-01-01/0"
+intitule_bron: "Stb.2017-404"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-23"
+intitule_published: "2017-11-07"
+intitule_in_force: "2018-01-24"
+intitule_status: "goed"
+original_publication: "Stb.2017-404"
+original_signed_date: "2017-10-23"
+original_published_date: "2017-11-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-404"
+entry_into_force_date: "2018-02-06"
+jci_1_3: "jci1.3:c:BWBR0040179&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0040179&g=2025-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit basisveiligheidsnormen stralingsbescherming"
+signed_date: "2017-10-23"
+entry_into_force: "2018-02-06"
 ---
-
 # Besluit van 23 oktober 2017, houdende vaststelling van regels ter bescherming van personen tegen de gevaren van blootstelling aan ioniserende straling (Besluit basisveiligheidsnormen stralingsbescherming)
 
 Op de voordracht van Onze Minister van Infrastructuur en Milieu, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport, van 31 mei 2017, nr. IenM/BSK-2017/135624, Hoofddirectie Bestuurlijke en Juridische Zaken;
@@ -28,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. (doelomschrijving; werkingssfeer)
+##### Artikel 1.1. (doelomschrijving; werkingssfeer)
 
 1. Dit besluit strekt tot bescherming van de gezondheid van personen die beroepsmatige of medische blootstelling of blootstelling als lid van de bevolking ondergaan, tegen de gevaren van die blootstelling en bevat daartoe:
 
@@ -58,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 - e. het vervoeren van radioactieve stoffen buiten een locatie en het binnen of buiten Nederlands grondgebied brengen of doen brengen daarvan.
 
-#### Artikel 1.2. (begripsomschrijvingen; begripsbepalingen)
+##### Artikel 1.2. (begripsomschrijvingen; begripsbepalingen)
 
 De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025-01-01&g=2025-01-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01) bevatten de begrippen met begripsomschrijvingen, respectievelijk de begripsomschrijvingen van grootheden en eenheden, voor de toepassing van dit besluit en de daarop berustende bepalingen.
 
@@ -66,7 +92,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 #### § 2.1. Algemene bepalingen
 
-#### Artikel 2.1. (schakelbepaling)
+##### Artikel 2.1. (schakelbepaling)
 
 1. Rechtvaardiging, optimalisatie en dosislimitering van beroepsmatige blootstelling vinden onverminderd het bepaalde in [hoofdstuk 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01) plaats overeenkomstig de [paragrafen 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&z=2025-01-01&g=2025-01-01), [2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.3&z=2025-01-01&g=2025-01-01) en [2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.4&z=2025-01-01&g=2025-01-01).
 
@@ -78,7 +104,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 #### § 2.2. Rechtvaardiging
 
-#### Artikel 2.2. (rechtvaardiging, algemeen)
+##### Artikel 2.2. (rechtvaardiging, algemeen)
 
 1. De volgende handelingen en maatregelen dienen voorafgaand aan het uitvoeren ervan te worden gerechtvaardigd:
 
@@ -108,7 +134,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 7. Onverminderd het [Warenwetbesluit Doorstraalde waren](https://wetten.overheid.nl/jci1.3:c:BWBR0005465) worden handelingen waarbij de activering van materiaal een toename van de activiteit in een consumentenproduct tot gevolg heeft, die op het moment van het op de markt brengen vanuit het oogpunt van stralingsbescherming niet verwaarloosbaar is, niet gerechtvaardigd. In afwijking hiervan kan in specifieke gevallen een handeling worden gerechtvaardigd na een beoordeling door de Autoriteit overeenkomstig [artikel 2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 2.3. (wijze van rechtvaardiging)
+##### Artikel 2.3. (wijze van rechtvaardiging)
 
 1. Bij regeling van Onze Ministers worden categorieën of soorten handelingen of maatregelen als bedoeld in [artikel 2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.2&z=2025-01-01&g=2025-01-01) generiek als gerechtvaardigd of als niet-gerechtvaardigd aangewezen.
 
@@ -128,7 +154,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 5. Bij verordening van de Autoriteit kunnen regels worden gesteld met betrekking tot een verzoek als bedoeld in het tweede lid, tweede volzin, en de daarbij te overleggen gegevens.
 
-#### Artikel 2.4. (rechtvaardiging, meervoudige en medische blootstelling)
+##### Artikel 2.4. (rechtvaardiging, meervoudige en medische blootstelling)
 
 1. Bij handelingen of maatregelen die zowel beroepsmatige blootstelling als blootstelling van leden van de bevolking met zich brengen, worden bij de beslissing omtrent rechtvaardiging beide vormen van blootstelling in aanmerking genomen.
 
@@ -138,7 +164,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 4. Bij regeling van Onze Ministers kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste, tweede of derde lid.
 
-#### Artikel 2.5. (rechtvaardiging handeling bij kennisgeving of autorisatie)
+##### Artikel 2.5. (rechtvaardiging handeling bij kennisgeving of autorisatie)
 
 1. Bij een aanvraag om een vergunning als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01), een aanvraag om een registratie als bedoeld in [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.9&z=2025-01-01&g=2025-01-01) of bij een kennisgeving als bedoeld in [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01), voor een handeling behorend tot een categorie of soort die krachtens [artikel 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01) generiek is gerechtvaardigd, wordt in de aanvraag of kennisgeving verwezen naar de desbetreffende categorie of soort handelingen.
 
@@ -162,7 +188,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 #### § 2.3. Optimalisatie
 
-#### Artikel 2.6. (optimalisatie, algemeen)
+##### Artikel 2.6. (optimalisatie, algemeen)
 
 1. Een ondernemer zorgt voor optimalisatie van de stralingsbescherming van individuele personen die beroepsmatige blootstelling of blootstelling als lid van de bevolking ondergaan of kunnen ondergaan.
 
@@ -170,13 +196,13 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 3. Bij regeling van Onze Ministers kunnen met het oog op een goede uitvoering nadere regels worden gesteld ter uitwerking van het begrip: zo laag als redelijkerwijs mogelijk, rekening houdend met de actuele stand van de techniek en met economische en sociale factoren.
 
-#### Artikel 2.7. (optimalisatie, dosisbeperkingen algemeen)
+##### Artikel 2.7. (optimalisatie, dosisbeperkingen algemeen)
 
 1. Met het oog op blootstelling in geplande blootstellingsituaties zijn dosisbeperkingen, vastgesteld overeenkomstig de [hoofdstukken 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&z=2025-01-01&g=2025-01-01), van toepassing.
 
 2. Een dosisbeperking in een geplande blootstellingsituatie, vastgesteld bij of krachtens dit besluit, heeft betrekking op de individuele effectieve of equivalente dosis voor een daarbij genoemde passende periode.
 
-#### Artikel 2.8. (optimalisatie, referentieniveaus algemeen)
+##### Artikel 2.8. (optimalisatie, referentieniveaus algemeen)
 
 1. Op de vaststelling van referentieniveaus voor bestaande blootstellingsituaties krachtens [artikel 7.38](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.4&artikel=7.38&z=2025-01-01&g=2025-01-01) of [9.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2025-01-01&g=2025-01-01) en referentieniveaus voor radiologische noodsituaties krachtens [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.3&artikel=7.37&z=2025-01-01&g=2025-01-01) of [9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.2&artikel=9.8&z=2025-01-01&g=2025-01-01), zijn het tweede en derde lid van toepassing.
 
@@ -190,7 +216,7 @@ De [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025
 
 #### § 2.4. Dosislimitering
 
-#### Artikel 2.9. (dosislimitering, algemeen)
+##### Artikel 2.9. (dosislimitering, algemeen)
 
 In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstelling van leden van de bevolking met zich brengen of kunnen brengen, bedraagt de som van de doses voor één persoon niet meer dan een in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01), [7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.34&z=2025-01-01&g=2025-01-01), [7.35](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.35&z=2025-01-01&g=2025-01-01), [7.36](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.36&z=2025-01-01&g=2025-01-01) of [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01) opgenomen dosislimiet.
 
@@ -200,7 +226,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 #### § 3.1.1. Algemene verboden
 
-#### Artikel 3.1. (algemene verboden)
+##### Artikel 3.1. (algemene verboden)
 
 1. Het is verboden om bij de productie of vervaardiging van levensmiddelen, speelgoed, sieraden, cosmetische producten en diervoeder opzettelijk radioactieve stoffen toe te voegen.
 
@@ -208,7 +234,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 #### § 3.1.2. Handelingen met van nature voorkomend radioactief materiaal
 
-#### Artikel 3.2. (handelingen met van nature voorkomend radioactief materiaal)
+##### Artikel 3.2. (handelingen met van nature voorkomend radioactief materiaal)
 
 1. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid worden categorieën of soorten handelingen aangewezen waarbij van nature voorkomend radioactief materiaal is betrokken en werknemers of leden van de bevolking daardoor een blootstelling ondergaan of kunnen ondergaan die vanuit het oogpunt van stralingsbescherming niet kan worden verwaarloosd.
 
@@ -222,7 +248,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 #### § 3.2.1. Algemene bepalingen
 
-#### Artikel 3.3. (toepasselijkheid controlestelsel)
+##### Artikel 3.3. (toepasselijkheid controlestelsel)
 
 1. Afdeling 3.2 is van toepassing op handelingen, maatregelen of blootstellingsituaties waarvoor op grond van [artikel 3.11, eerste of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01), een verplichting tot kennisgeving geldt.
 
@@ -230,7 +256,7 @@ In geplande blootstellingsituaties die beroepsmatige blootstelling of blootstell
 
 3. Afdeling 3.2 is niet van toepassing voor zover het een situatie betreft waarbij het gaat om blootstelling van vliegtuigbemanning veroorzaakt door kosmische straling als bedoeld in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2025-01-01&g=2025-01-01), en wordt voldaan aan de bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) met het oog op stralingsbescherming gestelde regels en voorschriften.
 
-#### Artikel 3.4. (algemeen)
+##### Artikel 3.4. (algemeen)
 
 1. Met betrekking tot een in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01) of [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.13&z=2025-01-01&g=2025-01-01) genoemde categorie van handelingen, maatregelen of blootstellingsituaties waarvoor een vergunningplicht, registratieplicht of kennisgevingsplicht geldt, kunnen bij regeling van Onze Ministers de tot die categorie behorende specifieke handelingen, maatregelen of blootstellingsituaties worden aangewezen.
 
@@ -252,7 +278,7 @@ en de totstandkoming van een wijziging van dit besluit niet kan worden afgewacht
 
 #### § 3.2.2. Vergunning
 
-#### Artikel 3.5. (vergunningplicht)
+##### Artikel 3.5. (vergunningplicht)
 
 1. Het is verboden om een handeling met betrekking tot een toestel of versneller, behorend tot een in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01) genoemde categorie, te verrichten:
 
@@ -262,7 +288,7 @@ en de totstandkoming van een wijziging van dit besluit niet kan worden afgewacht
 
 2. Als krachtens [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) als vergunningplichtig aangewezen radioactieve stoffen en gevallen van handelingen met die stoffen worden aangewezen de radioactieve stoffen en handelingen, behorend tot een in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01) genoemde categorie.
 
-#### Artikel 3.6. (aanvraag)
+##### Artikel 3.6. (aanvraag)
 
 1. Een aanvraag maakt deel uit van de vergunning, voor zover dat in de vergunning is bepaald.
 
@@ -290,7 +316,7 @@ en de totstandkoming van een wijziging van dit besluit niet kan worden afgewacht
 
 8. Indien handelingen waarvoor een vergunning is verleend niet meer worden verricht, wordt door de ondernemer zo spoedig mogelijk, doch uiterlijk binnen zes weken na het beëindigen van de handelingen, een kennisgeving van beëindiging aan de Autoriteit gedaan.
 
-#### Artikel 3.7. (weigeringsgronden)
+##### Artikel 3.7. (weigeringsgronden)
 
 Een vergunning wordt geweigerd indien:
 
@@ -318,7 +344,7 @@ Een vergunning wordt geweigerd indien:
 
 - h. internationale verplichtingen tot het weigeren van de vergunning noodzaken.
 
-#### Artikel 3.8. (categorieën van vergunningplichtige handelingen)
+##### Artikel 3.8. (categorieën van vergunningplichtige handelingen)
 
 1. Onder de vergunningplicht, bedoeld in [artikel 3.5, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01), vallen handelingen, behorend tot een in het tweede, derde of vierde lid genoemde categorie.
 
@@ -374,7 +400,7 @@ Een vergunning wordt geweigerd indien:
 
 #### § 3.2.3. Registratie
 
-#### Artikel 3.9. (registratie)
+##### Artikel 3.9. (registratie)
 
 1. Het is verboden om een handeling, behorend tot een in [artikel 3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01) genoemde categorie, te verrichten:
 
@@ -384,7 +410,7 @@ Een vergunning wordt geweigerd indien:
 
 2. [Artikel 3.6, eerste tot en met vierde lid en zesde tot en met achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.6&z=2025-01-01&g=2025-01-01), en [artikel 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.7&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing, met dien verstande dat voor «vergunning» steeds wordt gelezen: registratie.
 
-#### Artikel 3.10. (categorieën van registratieplichtige handelingen)
+##### Artikel 3.10. (categorieën van registratieplichtige handelingen)
 
 1. Onder de registratieplicht, bedoeld in [artikel 3.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.9&z=2025-01-01&g=2025-01-01), vallen handelingen, behorend tot een in het tweede of derde lid genoemde categorie.
 
@@ -416,7 +442,7 @@ Een vergunning wordt geweigerd indien:
 
 #### § 3.2.4. Kennisgeving
 
-#### Artikel 3.11. (kennisgeving)
+##### Artikel 3.11. (kennisgeving)
 
 1. Een ondernemer is verplicht tot kennisgeving aan de Autoriteit van een handeling, maatregel of blootstellingsituatie behorend tot een categorie die is genoemd in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), [3.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01) of [3.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.13&z=2025-01-01&g=2025-01-01).
 
@@ -436,7 +462,7 @@ Een vergunning wordt geweigerd indien:
 
 7. Het eerste tot en met zesde lid zijn niet van toepassing in geval van bij verordening van de Autoriteit aangewezen handelingen met natuurlijke bronnen waarvoor een registratieplicht geldt, indien van de desbetreffende handeling reeds is kennisgegeven door een andere ondernemer en aan bij die verordening gestelde regels wordt voldaan.
 
-#### Artikel 3.12. (wijze van kennisgeving)
+##### Artikel 3.12. (wijze van kennisgeving)
 
 1. Kennisgeving vindt plaats overeenkomstig bij verordening van de Autoriteit gestelde regels.
 
@@ -454,7 +480,7 @@ Een vergunning wordt geweigerd indien:
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op een kennisgeving van beëindiging als bedoeld in [artikel 3.6, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.6&z=2025-01-01&g=2025-01-01), [artikel 3.9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.9&z=2025-01-01&g=2025-01-01), of [artikel 3.11, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01), met dien verstande dat bij die kennisgeving tevens de datum van beëindiging en de wijze van verwijdering van een bron worden vermeld.
 
-#### Artikel 3.13. (categorieën van kennisgevingsplichtige blootstellingsituaties, handelingen en maatregelen)
+##### Artikel 3.13. (categorieën van kennisgevingsplichtige blootstellingsituaties, handelingen en maatregelen)
 
 Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie is vereist, vallen de blootstellingsituaties, handelingen en maatregelen, behorend tot een onder a, b of c genoemde categorie:
 
@@ -466,7 +492,7 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 #### § 3.2.5. Specifieke regels vergunningen
 
-#### Artikel 3.14. (monitoring van radioactieve lozingen, vergunningen)
+##### Artikel 3.14. (monitoring van radioactieve lozingen, vergunningen)
 
 1. Bij een vergunning voor het lozen van radioactieve stoffen in de lucht, het openbare riool of het oppervlaktewater ten gevolge van handelingen met radioactieve stoffen of radioactieve materialen, worden emissiegrenswaarden vastgesteld voor het lozen en worden voorwaarden gesteld die:
 
@@ -478,7 +504,7 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 3. Bij regeling van Onze Minister kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste of tweede lid.
 
-#### Artikel 3.15. (voorschriften of beperkingen vergunning hoogactieve bron)
+##### Artikel 3.15. (voorschriften of beperkingen vergunning hoogactieve bron)
 
 1. Onverminderd de [artikelen 3.5 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) omvat een vergunning voor een handeling waarbij een hoogactieve bron is betrokken voorschriften of beperkingen met betrekking tot:
 
@@ -498,7 +524,7 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 2. Bij de beslissing op de aanvraag om vergunning wordt tevens in aanmerking genomen de constructieve veiligheid van de desbetreffende locatie of het bouwwerk en de wijze van plaatsing van een bron, mede met het oog op calamiteiten.
 
-#### Artikel 3.16. (vergunning hoogactieve bronnen, vervolg)
+##### Artikel 3.16. (vergunning hoogactieve bronnen, vervolg)
 
 1. Onverminderd de [artikelen 3.5 tot en met 3.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) en [3.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&artikel=3.15&z=2025-01-01&g=2025-01-01) wordt een vergunning voor een handeling waarbij een hoogactieve bron is betrokken uitsluitend verleend indien:
 
@@ -518,7 +544,7 @@ Onder de kennisgevingsplicht in gevallen waarin geen vergunning of registratie i
 
 #### § 3.3.1. Vrijstelling handelingen en bronnen
 
-#### Artikel 3.17. (vrijstelling radioactieve materialen)
+##### Artikel 3.17. (vrijstelling radioactieve materialen)
 
 1. [Afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) is niet van toepassing op handelingen binnen een locatie met radioactieve materialen:
 
@@ -576,7 +602,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - c. het toevoegen van radioactieve stoffen aan consumentenproducten.
 
-#### Artikel 3.18. (vrijstelling, algemeen; toestellen en ingekapselde bronnen)
+##### Artikel 3.18. (vrijstelling, algemeen; toestellen en ingekapselde bronnen)
 
 1. [Afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) is niet van toepassing op handelingen:
 
@@ -602,7 +628,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - b. de opslag en de verwijdering van ingekapselde bronnen als bedoeld in het eerste lid, onderdeel a.
 
-#### Artikel 3.19. (vrijstelling specifieke handelingen of bronnen)
+##### Artikel 3.19. (vrijstelling specifieke handelingen of bronnen)
 
 1. Bij beschikking of verordening van de Autoriteit kunnen in afwijking van [artikel 3.17, eerste lid, aanhef en onderdeel a, b of c, of vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.17&z=2025-01-01&g=2025-01-01), of [artikel 3.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.18&z=2025-01-01&g=2025-01-01), voor daarbij aangewezen specifieke bronnen of handelingen specifieke vrijstellingswaarden en daarmee verbonden regels worden vastgesteld, indien naar het oordeel van de Autoriteit vrijstelling de voorkeur heeft en het belang van de stralingsbescherming zich daar niet tegen verzet.
 
@@ -610,7 +636,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 #### § 3.3.2. Vrijgave bronnen
 
-#### Artikel 3.20. (vrijgave, radioactieve materialen)
+##### Artikel 3.20. (vrijgave, radioactieve materialen)
 
 1. [Afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) is niet van toepassing op handelingen met radioactieve materialen bestemd voor verwijdering, recycling, hergebruik of verbranding:
 
@@ -630,13 +656,13 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 5. Bij de toepassing van het vierde lid worden de algemene criteria, opgenomen in [bijlage 3, onderdeel A, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01), en het bepaalde bij en krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&z=2025-01-01&g=2025-01-01) in acht genomen en worden bij de beoordeling van de wenselijkheid van de vrijgave de met het oog op stralingsbescherming relevante factoren in aanmerking genomen. De krachtens [artikel 3.17, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.17&z=2025-01-01&g=2025-01-01), gestelde regels zijn van toepassing.
 
-#### Artikel 3.21. (specifieke vrijgave radioactieve materialen)
+##### Artikel 3.21. (specifieke vrijgave radioactieve materialen)
 
 1. Bij beschikking of verordening van de Autoriteit kunnen, indien het belang van de stralingsbescherming zich daar niet tegen verzet, in afwijking van [artikel 3.20, eerste of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.20&z=2025-01-01&g=2025-01-01), voor daarbij aangewezen specifieke radioactieve materialen, voor radioactieve materialen afkomstig van daarbij aangewezen specifieke soorten handelingen of voor materialen behorend tot een daarbij aangewezen specifieke categorie, specifieke vrijgavewaarden en daarmee verbonden regels worden vastgesteld.
 
 2. Bij de toepassing van het eerste lid worden de algemene criteria, opgenomen in [bijlage 3, onderdeel A, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01), en het bepaalde bij en krachtens [hoofdstuk 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&z=2025-01-01&g=2025-01-01) in acht genomen en worden bij de beoordeling van de wenselijkheid van de vrijgave de met het oog op stralingsbescherming relevante factoren in aanmerking genomen. De krachtens [artikel 3.17, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.17&z=2025-01-01&g=2025-01-01), gestelde regels zijn van toepassing.
 
-#### Artikel 3.22. (vrijgave radioactieve materialen, vervolg)
+##### Artikel 3.22. (vrijgave radioactieve materialen, vervolg)
 
 1. [Afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) is niet van toepassing op handelingen met radioactieve materialen die van nature voorkomende radionucliden bevatten welke het resultaat zijn van handelingen waarvoor een vergunning krachtens [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is vereist en waarbij natuurlijke radionucliden worden verwerkt vanwege hun eigenschappen als splijtstof of kweekstof, welke materialen bestemd zijn voor verwijdering, recycling of hergebruik, en het voorhanden hebben daarvan:
 
@@ -650,7 +676,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 4. Bij de vaststelling van de in het derde lid bedoelde vrijgavewaarden en daarmee verbonden regels worden de algemene criteria voor kunstmatige radionucliden, opgenomen in [bijlage 3, onderdeel A, onderdeel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=3&z=2025-01-01&g=2025-01-01), in acht genomen en worden bij de beoordeling van de wenselijkheid van de vrijgave de met het oog op stralingsbescherming relevante factoren in aanmerking genomen. De krachtens [artikel 3.17, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&artikel=3.17&z=2025-01-01&g=2025-01-01), gestelde regels zijn van toepassing.
 
-#### Artikel 3.23. (vrijgave, verdunning of mengen)
+##### Artikel 3.23. (vrijgave, verdunning of mengen)
 
 1. Het verdunnen of mengen van radioactieve stoffen of materialen met andere niet-radioactieve stoffen of materialen met het doel de radioactieve stoffen of materialen onder de desbetreffende vrijstellingswaarde of vrijgavewaarde te brengen, is verboden.
 
@@ -660,7 +686,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 #### § 3.3.3. Categorieën vrijgestelde of vrijgegeven bronnen en handelingen
 
-#### Artikel 3.24. (vrijgestelde en vrijgegeven bronnen en handelingen)
+##### Artikel 3.24. (vrijgestelde en vrijgegeven bronnen en handelingen)
 
 1. Krachtens [paragraaf 3.3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.1&z=2025-01-01&g=2025-01-01), [3.3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&z=2025-01-01&g=2025-01-01) of [10.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&z=2025-01-01&g=2025-01-01) vrijgestelde of vrijgegeven bronnen of handelingen omvatten mede bronnen en handelingen behorend tot een categorie als genoemd in het tweede of derde lid.
 
@@ -680,7 +706,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 - d. handelingen met materialen die van nature voorkomende radionucliden bevatten, welke het resultaat zijn van het mengen van radioactieve afvalstoffen als bedoeld in [artikel 10.7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.7&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 3.25. (aanwijzing vrijgestelde of vrijgegeven bronnen en handelingen)
+##### Artikel 3.25. (aanwijzing vrijgestelde of vrijgegeven bronnen en handelingen)
 
 [Artikel 3.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.4&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing ten aanzien van bronnen of handelingen behorend tot een bij of krachtens afdeling 3.3 vrijgestelde of vrijgegeven categorie.
 
@@ -688,13 +714,13 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 ### Afdeling 4.1. Algemene regels voor bronnen en handelingen
 
-#### Artikel 4.1. (waarschuwingssignalering)
+##### Artikel 4.1. (waarschuwingssignalering)
 
 1. Een ondernemer zorgt ervoor dat, in situaties waar ten gevolge van een handeling een in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01) of [9.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01) genoemde dosislimiet kan worden overschreden, op daarvoor geschikte plaatsen doelmatige en duidelijke waarschuwingsborden of waarschuwingstekens en opschriften worden aangebracht.
 
 2. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen regels worden gesteld met betrekking tot het model, de opschriften en de minimale grootte van de waarschuwingsborden of waarschuwingstekens en waar en op welke wijze deze moeten worden aangebracht.
 
-#### Artikel 4.2. (administratie en dossiers bronnen)
+##### Artikel 4.2. (administratie en dossiers bronnen)
 
 1. Een ondernemer houdt van alle bronnen waarvoor hij verantwoordelijk is dossiers bij waarin ten minste worden bijgehouden gegevens met betrekking tot:
 
@@ -720,7 +746,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 5. Bij verordening van de Autoriteit kunnen nadere regels worden gesteld over de uitvoering van het eerste tot en met vierde lid, waaronder de bewaartermijnen van de administratie en de dossiers.
 
-#### Artikel 4.3. (administratie industriële radiografie)
+##### Artikel 4.3. (administratie industriële radiografie)
 
 1. De ondernemer die op wisselende plaatsen handelingen verricht ten behoeve van industriële radiografie, houdt per locatie een administratie bij van die handelingen.
 
@@ -732,7 +758,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 5. De in het eerste lid bedoelde verplichting geldt niet indien het aantal tevoren geschatte opnamen per locatie per kalenderjaar minder dan 100 bedraagt.
 
-#### Artikel 4.4. (algemene verplichtingen ondernemer)
+##### Artikel 4.4. (algemene verplichtingen ondernemer)
 
 1. De ondernemer stelt, na raadpleging van een stralingsbeschermingsdeskundige of toezichthoudend medewerker stralingsbescherming, maatregelen vast om schade tegen te gaan en zorgt ervoor dat deze worden uitgevoerd.
 
@@ -754,7 +780,7 @@ wordt de activiteitsconcentratie van de radionucliden gewogen gesommeerd met ove
 
 ### Afdeling 4.2. Toestellen en versnellers
 
-#### Artikel 4.5. (verplichtingen ondernemer toestellen en versnellers)
+##### Artikel 4.5. (verplichtingen ondernemer toestellen en versnellers)
 
 De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waarvoor hij verantwoordelijk is voldaan wordt aan de bij verordening van de Autoriteit gestelde regels met betrekking tot:
 
@@ -776,13 +802,13 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 #### § 4.3.1. Algemeen
 
-#### Artikel 4.6. (bergplaats radioactieve stoffen)
+##### Artikel 4.6. (bergplaats radioactieve stoffen)
 
 1. De ondernemer zorgt ervoor dat wanneer open en ingekapselde bronnen niet worden gebruikt, deze worden opgeborgen in een daartoe geschikte bergplaats.
 
 2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste lid. Daartoe kunnen behoren regels die een vrijstelling inhouden of een bevoegdheid tot ontheffingverlening met het oog op gevallen waarin redelijkerwijs niet aan het eerste lid kan worden voldaan.
 
-#### Artikel 4.7. (beveiliging radioactieve stoffen)
+##### Artikel 4.7. (beveiliging radioactieve stoffen)
 
 1. De ondernemer zorgt in gevallen, behorend tot een bij regeling van Onze Minister aangewezen categorie, voor een beveiligingsplan waarin wordt beschreven welke voorzieningen met betrekking tot de beveiliging van een bron zijn getroffen.
 
@@ -792,7 +818,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 #### § 4.3.2. Ingekapselde bronnen
 
-#### Artikel 4.8. (algemene eisen ingekapselde bronnen)
+##### Artikel 4.8. (algemene eisen ingekapselde bronnen)
 
 1. De ondernemer zorgt ervoor dat met betrekking tot ingekapselde bronnen voldaan wordt aan de bij verordening van de Autoriteit gestelde regels.
 
@@ -812,7 +838,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 #### § 4.3.3. Hoogactieve bronnen
 
-#### Artikel 4.9. (kennisgeving overdracht hoogactieve bronnen en overige ingekapselde bronnen)
+##### Artikel 4.9. (kennisgeving overdracht hoogactieve bronnen en overige ingekapselde bronnen)
 
 1. Van iedere overdracht van een hoogactieve bron wordt op een bij verordening van de Autoriteit te bepalen wijze kennisgegeven aan de Autoriteit.
 
@@ -820,7 +846,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 3. Bij de verordening kunnen regels worden gesteld omtrent de kennisgeving en het systeem van registratie en het bijhouden van de kennisgevingen.
 
-#### Artikel 4.10. (codering en markering hoogactieve bronnen)
+##### Artikel 4.10. (codering en markering hoogactieve bronnen)
 
 1. De fabrikant graveert in of stempelt op elke door hem gefabriceerde hoogactieve bron een code die als volgt is samengesteld:
 
@@ -852,7 +878,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 - c. de in het eerste en vierde lid bedoelde code en de krachtens [artikel 4.1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.1&artikel=4.1&z=2025-01-01&g=2025-01-01), op de bron, bronhouder of broncontainer aangebrachte waarschuwingstekens en opschriften zo goed mogelijk leesbaar blijven.
 
-#### Artikel 4.11. (codering en markering bronhouder)
+##### Artikel 4.11. (codering en markering bronhouder)
 
 1. De leverancier graveert in, of stempelt op, de bronhouder van elke door hem te leveren hoogactieve bron een code die als volgt is samengesteld:
 
@@ -872,11 +898,11 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 4. [Artikel 4.10, tweede, zesde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.10&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing, met dien verstande dat voor «fabrikant» steeds wordt gelezen: leverancier.
 
-#### Artikel 4.12. (verplichtingen ondernemer codering en markering)
+##### Artikel 4.12. (verplichtingen ondernemer codering en markering)
 
 [Artikel 4.10, tweede, zesde en zevende lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.10&z=2025-01-01&g=2025-01-01), en [artikel 4.11, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.11&z=2025-01-01&g=2025-01-01), zijn van overeenkomstige toepassing op de ondernemer die een handeling verricht met een hoogactieve bron, met dien verstande dat voor «fabrikant» en «leverancier» steeds wordt gelezen: ondernemer.
 
-#### Artikel 4.13. (controle en beheer hoogactieve bronnen)
+##### Artikel 4.13. (controle en beheer hoogactieve bronnen)
 
 1. De ondernemer zorgt ervoor dat door middel van passende tests, zoals lektests, op basis van internationale normen, de integriteit van hoogactieve bronnen door of onder toezicht van een stralingsbeschermingsdeskundige of een toezichthoudend medewerker stralingsbescherming in elk geval op de volgende momenten wordt gecontroleerd:
 
@@ -904,7 +930,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 4. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld.
 
-#### Artikel 4.14. (voorlichting en instructie)
+##### Artikel 4.14. (voorlichting en instructie)
 
 1. Onverminderd [artikel 7.28](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.5&artikel=7.28&z=2025-01-01&g=2025-01-01) zorgt de ondernemer ervoor dat degene die een handeling met een hoogactieve bron verricht, en degene die daaraan leiding geeft of daarop toezicht houdt, is voorgelicht en geïnstrueerd over:
 
@@ -918,7 +944,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 3. Voorlichting en instructies als bedoeld in het eerste lid worden ten minste elke twee jaar herhaald.
 
-#### Artikel 4.15. (financiële zekerheid hoogactieve bronnen)
+##### Artikel 4.15. (financiële zekerheid hoogactieve bronnen)
 
 1. De ondernemer stelt financiële zekerheid ter dekking van de kosten van het nakomen van de voor hem geldende verplichtingen met betrekking tot het veilig afvoeren van een afgedankte hoogactieve bron voor het geval:
 
@@ -940,7 +966,7 @@ De ondernemer zorgt ervoor dat met betrekking tot toestellen en versnellers waar
 
 4. De financiële zekerheid wordt gesteld ten behoeve van de Staat der Nederlanden.
 
-#### Artikel 4.16. (financiële zekerheid hoogactieve bronnen, vervolg)
+##### Artikel 4.16. (financiële zekerheid hoogactieve bronnen, vervolg)
 
 De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogactieve bron waarvoor de financiële zekerheid wordt gesteld, door de ondernemer:
 
@@ -950,7 +976,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 - c. wordt afgegeven aan een krachtens [artikel 10.6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.6&z=2025-01-01&g=2025-01-01), daartoe aangewezen instelling voor de ontvangst van radioactieve afvalstoffen.
 
-#### Artikel 4.17. (informatie en financiële zekerheid hoogactieve bron)
+##### Artikel 4.17. (informatie en financiële zekerheid hoogactieve bron)
 
 1. De ondernemer verstrekt voordat hij een hoogactieve bron verwerft, aan de Autoriteit:
 
@@ -968,7 +994,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 3. Bij verordening van de Autoriteit kunnen nadere eisen worden gesteld met betrekking tot de te verstrekken gegevens en de wijze van verstrekking.
 
-#### Artikel 4.18. (hoogactieve bronnen, bijhouden dossier door de ondernemer)
+##### Artikel 4.18. (hoogactieve bronnen, bijhouden dossier door de ondernemer)
 
 1. In afwijking van [artikel 4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.1&artikel=4.2&z=2025-01-01&g=2025-01-01) legt de ondernemer die de beschikking krijgt over een hoogactieve bron onmiddellijk na de verwerving daarvan het in dat artikel bedoelde dossier aan van die bron, en houdt daarin de informatie bij als bedoeld in, en overeenkomstig het model van het informatieformulier, opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=5&z=2025-01-01&g=2025-01-01).
 
@@ -994,7 +1020,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 4. Bij verordening van de Autoriteit kunnen nadere regels worden gesteld omtrent de uitvoering van het eerste en tweede lid, waaronder de te verstrekken gegevens en de wijze van verstrekking.
 
-#### Artikel 4.19. (hoogactieve bronnen, register)
+##### Artikel 4.19. (hoogactieve bronnen, register)
 
 1. De Autoriteit houdt een register bij van alle ondernemers die op grond van [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) een vergunning hebben voor het uitvoeren van handelingen met hoogactieve bronnen en van de hoogactieve bronnen waar zij over beschikken.
 
@@ -1014,7 +1040,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 #### § 4.3.4. Open bronnen
 
-#### Artikel 4.20. (besmettingscontrole ruimten; handelingen met open bronnen)
+##### Artikel 4.20. (besmettingscontrole ruimten; handelingen met open bronnen)
 
 1. De ondernemer zorgt ervoor dat ruimten en plaatsen waar handelingen met open bronnen worden verricht, de inrichting daarvan of daarin gebruikte voorwerpen, regelmatig volgens door hem schriftelijk vastgestelde procedures op basis van internationale normen worden gecontroleerd op besmetting.
 
@@ -1022,7 +1048,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 #### § 4.3.5. Handelingen met van nature voorkomend radioactief materiaal
 
-#### Artikel 4.21. (regels m.b.t. handelingen met van nature voorkomend radioactief materiaal)
+##### Artikel 4.21. (regels m.b.t. handelingen met van nature voorkomend radioactief materiaal)
 
 1. Bij verordening van de Autoriteit kunnen in het belang van de stralingsbescherming regels worden gesteld met betrekking tot de uitvoering van daarbij aangewezen handelingen met van nature voorkomende radionucliden waarvoor op grond van [afdeling 3.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&z=2025-01-01&g=2025-01-01) een vergunning, registratie of kennisgeving is vereist.
 
@@ -1032,7 +1058,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 #### § 4.4.1. Algemene regels consumentenproducten
 
-#### Artikel 4.22. (consumentenproducten, gegevensverstrekking)
+##### Artikel 4.22. (consumentenproducten, gegevensverstrekking)
 
 1. Een ondernemer die consumentenproducten wil vervaardigen of deze binnen Nederlands grondgebied brengt of doet brengen, waarvan het beoogde gebruik kan leiden tot een nieuwe categorie of soort handelingen, verstrekt aan de Autoriteit de met het oog op rechtvaardiging benodigde gegevens met betrekking tot:
 
@@ -1064,7 +1090,7 @@ De financiële zekerheid wordt in stand gehouden tot het moment waarop de hoogac
 
 #### § 4.4.2. Algemene regels aanwijsinstrumenten
 
-#### Artikel 4.23. (verbod toevoeging radionucliden – aanwijsinstrumenten)
+##### Artikel 4.23. (verbod toevoeging radionucliden – aanwijsinstrumenten)
 
 In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01), in samenhang met [artikel 3.8, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), bedoelde verbod, op het zonder of in strijd met een vergunning toevoegen van radioactieve stoffen aan consumentenproducten, is het verboden:
 
@@ -1072,7 +1098,7 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 - b. handelingen te verrichten met een aanwijsinstrument waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd.
 
-#### Artikel 4.24. (specifieke vrijstelling van verbod – aanwijsinstrumenten)
+##### Artikel 4.24. (specifieke vrijstelling van verbod – aanwijsinstrumenten)
 
 1. Het verbod, bedoeld in [artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.23&z=2025-01-01&g=2025-01-01), is niet van toepassing voor zover:
 
@@ -1092,7 +1118,7 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 2. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot [artikel 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.23&z=2025-01-01&g=2025-01-01) en het eerste lid.
 
-#### Artikel 4.25. (verbod voorhanden hebben aanwijsinstrumenten; ontheffing Defensie)
+##### Artikel 4.25. (verbod voorhanden hebben aanwijsinstrumenten; ontheffing Defensie)
 
 1. Het is verboden buiten Nederland vervaardigde aanwijsinstrumenten waaraan voor verlichtingsdoeleinden radionucliden zijn toegevoegd, voorhanden te hebben met het doel deze binnen Nederland in de handel te brengen, indien deze instrumenten niet voldoen aan de bij of krachtens de [artikelen 4.23](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.23&z=2025-01-01&g=2025-01-01) en [4.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.2&artikel=4.24&z=2025-01-01&g=2025-01-01) gestelde regels.
 
@@ -1102,7 +1128,7 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 #### § 4.4.3. Algemene regels niet-medische beeldvorming
 
-#### Artikel 4.26. (handelingen ten behoeve van niet-medische beeldvorming)
+##### Artikel 4.26. (handelingen ten behoeve van niet-medische beeldvorming)
 
 1. De Autoriteit inventariseert handelingen ten behoeve van niet-medische beeldvorming die leiden tot blootstelling.
 
@@ -1130,7 +1156,7 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 6. De omstandigheden voor blootstelling bij niet-medische beeldvorming worden regelmatig door de ondernemer geëvalueerd.
 
-#### Artikel 4.27. (handelingen ten behoeve van niet-medische beeldvorming, vervolg)
+##### Artikel 4.27. (handelingen ten behoeve van niet-medische beeldvorming, vervolg)
 
 1. Gerechtvaardigde handelingen met blootstelling bij niet-medische beeldvorming, waarbij medisch-radiologische apparatuur wordt gebruikt, kunnen bij regeling van Onze Minister worden vrijgesteld van:
 
@@ -1166,13 +1192,13 @@ In afwijking van het in [artikel 3.5, tweede lid](https://wetten.overheid.nl/jci
 
 6. Het vijfde lid is niet van toepassing voor zover in het kader van de rechtshandhaving een instemming niet bij of krachtens [de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402) wordt vereist.
 
-#### Artikel 4.28. (handelingen ten behoeve van niet-medische beeldvorming, vervolg)
+##### Artikel 4.28. (handelingen ten behoeve van niet-medische beeldvorming, vervolg)
 
 Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus voor de in [artikel 4.27](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.4&paragraaf=4.4.3&artikel=4.27&z=2025-01-01&g=2025-01-01) bedoelde handelingen worden vastgesteld.
 
 ### Afdeling 4.5. Meet- en rekenmethoden
 
-#### Artikel 4.29. (meet- en rekenmethoden)
+##### Artikel 4.29. (meet- en rekenmethoden)
 
 1. Bij verordening van de Autoriteit worden methoden aangewezen of vastgesteld:
 
@@ -1202,7 +1228,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 #### § 5.1. Informatie
 
-#### Artikel 5.1. (transparantie)
+##### Artikel 5.1. (transparantie)
 
 1. Onze Ministers die het aangaat en de Autoriteit zorgen ervoor dat aan leden van de bevolking, ondernemers, werknemers alsmede patiënten en andere personen die medische blootstelling ondergaan, informatie ter beschikking wordt gesteld met betrekking tot:
 
@@ -1212,7 +1238,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 2. De informatie wordt ter beschikking gesteld overeenkomstig de vereisten van nationaal en internationaal recht, tenzij dat strijdig zou zijn met een nationaal of internationaal erkend belang, waaronder in ieder geval worden begrepen de belangen inzake veiligheid en beveiliging.
 
-#### Artikel 5.2. (informatie over apparaten en toestellen)
+##### Artikel 5.2. (informatie over apparaten en toestellen)
 
 1. Degene die apparatuur die radioactieve bronnen bevat, of een toestel of versneller waardoor ioniserende straling wordt uitgezonden of kan worden uitgezonden op de markt brengt of overdraagt aan een ondernemer zorgt ervoor dat aan de ondernemer aan wie een toestel of versneller wordt overgedragen passende voorlichting wordt verstrekt over de mogelijke radiologische gevaren en het juiste gebruik ervan alsmede het testen en het onderhoud ervan, met inbegrip van een document waaruit blijkt dat het ontwerp het mogelijk maakt de blootstelling te beperken tot een niveau dat zo laag als redelijkerwijs mogelijk is.
 
@@ -1220,7 +1246,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 3. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste en tweede lid.
 
-#### Artikel 5.3. (informatie radon in woningen en andere gebouwen)
+##### Artikel 5.3. (informatie radon in woningen en andere gebouwen)
 
 1. Onze Ministers in overeenstemming met Onze Minister die het mede aangaat zorgen ervoor dat lokaal en nationaal informatie beschikbaar is over:
 
@@ -1234,7 +1260,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 #### § 5.2. Diensten en deskundigen
 
-#### Artikel 5.4. (stralingsbeschermingsdeskundige)
+##### Artikel 5.4. (stralingsbeschermingsdeskundige)
 
 1. Ten aanzien van de stralingsbeschermingsdeskundige zijn naast de algemene bepalingen van deze paragraaf de specifieke bepalingen van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&z=2025-01-01&g=2025-01-01) van toepassing.
 
@@ -1246,7 +1272,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 5. Aan een stralingsbeschermingsdeskundige kan door een in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=58) aangewezen ambtenaar worden opgedragen om werknemers en leden van de bevolking te beschermen tegen ioniserende straling.
 
-#### Artikel 5.5. (erkenning stralingsbeschermingsdeskundige)
+##### Artikel 5.5. (erkenning stralingsbeschermingsdeskundige)
 
 1. De ingevolge dit besluit door een stralingsbeschermingsdeskundige te verrichten taken worden uitsluitend uitgevoerd door een persoon die als een zodanige deskundige voor de uitvoering van de betrokken taken op aanvraag door de Autoriteit is ingeschreven in het register, bedoeld in [artikel 69, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=69).
 
@@ -1264,13 +1290,13 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot een inschrijving als bedoeld in het eerste lid.
 
-#### Artikel 5.6. (inschrijving persoon als stralingsbeschermingsdeskundige bij voldoen aan erkende EU-beroepskwalificaties)
+##### Artikel 5.6. (inschrijving persoon als stralingsbeschermingsdeskundige bij voldoen aan erkende EU-beroepskwalificaties)
 
 1. De Autoriteit schrijft op aanvraag een persoon die onderdaan is van een betrokken staat als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1), als stralingsbeschermingsdeskundige in in het register, bedoeld in [artikel 5.5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.5&z=2025-01-01&g=2025-01-01), indien op grond van de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) en met toepassing van de op grond van [artikel 33 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) gestelde regels is aangetoond dat deze persoon over kwalificaties beschikt die gelijkwaardig zijn aan de kwalificaties waaraan ingevolge artikel 5.5, derde lid, moet worden voldaan om als stralingsbeschermingsdeskundige te worden ingeschreven.
 
 2. [Artikel 5.5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.5&z=2025-01-01&g=2025-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 5.7. (toezichthoudend medewerker stralingsbescherming)
+##### Artikel 5.7. (toezichthoudend medewerker stralingsbescherming)
 
 1. Ten aanzien van de toezichthoudend medewerker stralingsbescherming zijn naast de algemene bepalingen van deze paragraaf de specifieke bepalingen van de [hoofdstukken 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&z=2025-01-01&g=2025-01-01) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01) van toepassing.
 
@@ -1290,7 +1316,7 @@ Bij regeling van Onze Minister kunnen specifieke diagnostische referentieniveaus
 
 7. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld.
 
-#### Artikel 5.8. (vereisten toezichthoudend medewerker stralingsbescherming)
+##### Artikel 5.8. (vereisten toezichthoudend medewerker stralingsbescherming)
 
 De ingevolge dit besluit door een toezichthoudend medewerker stralingsbescherming te verrichten taken worden uitsluitend uitgevoerd door een persoon die beschikt over een diploma, certificaat of een ander getuigschrift ter afsluiting van een opleiding op het gebied van stralingsbescherming, specifiek voor de toepassing, behaald bij:
 
@@ -1298,7 +1324,7 @@ De ingevolge dit besluit door een toezichthoudend medewerker stralingsbeschermin
 
 - b. een door een andere lidstaat van de Europese Unie of andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland erkende of aangewezen instelling of opleiding.
 
-#### Artikel 5.9. (stralingsbeschermingseenheid)
+##### Artikel 5.9. (stralingsbeschermingseenheid)
 
 1. Bij regeling van Onze Minister kunnen soorten ondernemingen of locaties waar zeer diverse of omvangrijke handelingen worden uitgevoerd of handelingen die een uitgebreide bescherming tegen ioniserende straling vereisen worden aangewezen, waarin de aanwezigheid van een stralingsbeschermingseenheid is vereist, waarin tevens een stralingsbeschermingsdeskundige van een krachtens [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.5&z=2025-01-01&g=2025-01-01) vereist niveau van deskundigheid beschikbaar is. Daartoe behoren in elk geval gevallen waarin op grond van [artikel 3.4, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.4&z=2025-01-01&g=2025-01-01), een complexvergunning is vereist. Bij de regeling kunnen nadere regels worden gesteld met betrekking tot de taken, bevoegdheden en werkwijze van een stralingsbeschermingseenheid als bedoeld in het tweede tot en met vierde lid, het op peil blijven van de expertise van de eenheid en de taken van de stralingsbeschermingsdeskundige in die eenheid.
 
@@ -1318,13 +1344,13 @@ De ingevolge dit besluit door een toezichthoudend medewerker stralingsbeschermin
 
 4. Een stralingsbeschermingseenheid kan de taken van een toezichthoudend medewerker stralingsbescherming verrichten.
 
-#### Artikel 5.10. (middelen en faciliteiten)
+##### Artikel 5.10. (middelen en faciliteiten)
 
 De ondernemer stelt financiële middelen en faciliteiten voor een passende bescherming tegen ioniserende straling ter beschikking aan de stralingsbeschermingsdeskundige, de toezichthoudend medewerker stralingsbescherming en de stralingsbeschermingseenheid, die met de uitvoering van die stralingsbescherming zijn belast.
 
 #### § 5.3. Opleiding, training en voorlichting
 
-#### Artikel 5.11. (erkende instellingen)
+##### Artikel 5.11. (erkende instellingen)
 
 1. Instellingen waar personen overeenkomstig [artikel 5.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.5&z=2025-01-01&g=2025-01-01), [5.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.8&z=2025-01-01&g=2025-01-01) of [8.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.2&artikel=8.4&z=2025-01-01&g=2025-01-01), een diploma, certificaat of een ander getuigschrift ter afsluiting van een opleiding op het gebied van stralingsbescherming kunnen behalen dienen te zijn erkend door de Autoriteit. De erkenning geldt voor een tijdvak van vijf jaar en kan daarna telkens voor een tijdvak van vijf jaar worden verlengd indien aan de met het oog op erkenning gestelde eisen, bedoeld in het derde lid, wordt voldaan. Van een erkenning of verlenging daarvan wordt mededeling gedaan in de Staatscourant.
 
@@ -1340,7 +1366,7 @@ De ondernemer stelt financiële middelen en faciliteiten voor een passende besch
 
 4. Bij verordening van de Autoriteit worden eisen gesteld met betrekking tot de aanvraag van een erkenning en kunnen nadere regels worden gesteld met betrekking tot het eerste tot en met derde lid.
 
-#### Artikel 5.12. (informatie, advies en bijstand in verband met weesbronnen)
+##### Artikel 5.12. (informatie, advies en bijstand in verband met weesbronnen)
 
 1. De Autoriteit of Onze Minister die het aangaat zorgt er, onverminderd [artikel 7.30](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.5&artikel=7.30&z=2025-01-01&g=2025-01-01), voor dat de bedrijfsleiding van ondernemingen waarvan het aannemelijk is dat er weesbronnen worden aangetroffen of verwerkt, geïnformeerd wordt over de mogelijkheid van een confrontatie met een weesbron.
 
@@ -1354,7 +1380,7 @@ De ondernemer stelt financiële middelen en faciliteiten voor een passende besch
 
 4. De Autoriteit of Onze Minister die het aangaat zorgt voor het onmiddellijk na een aangifte als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=22) of [33 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=33) ter beschikking stellen van specifieke technische adviezen en assistentie in situaties als bedoeld in het derde lid, onder b.
 
-#### Artikel 5.13. (voorlichting en opleiding van hulpverleners)
+##### Artikel 5.13. (voorlichting en opleiding van hulpverleners)
 
 1. De Autoriteit zorgt ervoor dat de hulpverleners die zijn opgenomen in een nationaal crisisplan als bedoeld in [artikel 6.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.2&artikel=6.5&z=2025-01-01&g=2025-01-01):
 
@@ -1372,7 +1398,7 @@ De ondernemer stelt financiële middelen en faciliteiten voor een passende besch
 
 5. Bij regeling van Onze Minister en Onze Minister die het aangaat kunnen nadere regels worden gesteld met betrekking tot de aard en inhoud van de voorlichting en opleiding, bedoeld in het eerste lid, en de specifieke informatie, bedoeld in het derde lid.
 
-#### Artikel 5.14. (opleiding, training en voorlichting op het gebied van medische blootstelling)
+##### Artikel 5.14. (opleiding, training en voorlichting op het gebied van medische blootstelling)
 
 1. De ondernemer zorgt ervoor dat medisch deskundigen en andere personen die betrokken zijn bij de praktische onderdelen van medisch-radiologische procedures, een passende opleiding, training en voorlichting krijgen met het oog op medisch-radiologische handelingen en passende bekwaamheden met betrekking tot stralingsbescherming ontwikkelen. Medisch deskundigen volgen deze opleiding, training en voorlichting bij een erkende instelling als bedoeld in [artikel 5.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.3&artikel=5.11&z=2025-01-01&g=2025-01-01).
 
@@ -1388,11 +1414,11 @@ De ondernemer stelt financiële middelen en faciliteiten voor een passende besch
 
 #### § 6.1.1. Meldingen en maatregelen
 
-#### Artikel 6.1. (meldplicht stralingsincidenten, ongevallen en radiologische noodsituaties)
+##### Artikel 6.1. (meldplicht stralingsincidenten, ongevallen en radiologische noodsituaties)
 
 De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie onmiddellijk aan de Autoriteit.
 
-#### Artikel 6.2. (uitvoering meldingen en maatregelen)
+##### Artikel 6.2. (uitvoering meldingen en maatregelen)
 
 1. De ondernemer zorgt ervoor dat een handeling waarbij er een te voorzien risico is dat personen onbedoeld aan overmatige blootstelling kunnen worden blootgesteld, slechts wordt verricht nadat een stralingsbeschermingsdeskundige hierover is geraadpleegd.
 
@@ -1414,7 +1440,7 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 7. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot de uitvoering van [artikel 6.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.1&artikel=6.1&z=2025-01-01&g=2025-01-01) en het eerste tot en met zesde lid.
 
-#### Artikel 6.3. (meldingen bronnen)
+##### Artikel 6.3. (meldingen bronnen)
 
 1. De ondernemer meldt de volgende gebeurtenissen en maatregelen onmiddellijk aan de Autoriteit:
 
@@ -1426,13 +1452,13 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 #### § 6.1.2. Ongevallenbestrijding en nationale crisisplannen
 
-#### Artikel 6.4. (radiologische noodsituaties)
+##### Artikel 6.4. (radiologische noodsituaties)
 
 1. De krachtens [artikel 9.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.2&artikel=9.8&z=2025-01-01&g=2025-01-01) vastgestelde referentieniveaus zijn van toepassing in een radiologische noodsituatie.
 
 2. Bij regeling van Onze Ministers kunnen nadere regels worden gesteld met betrekking tot optimalisatie in een radiologische noodsituatie.
 
-#### Artikel 6.5. (ongevallenbestrijding en nationale crisisplannen)
+##### Artikel 6.5. (ongevallenbestrijding en nationale crisisplannen)
 
 1. Onze Ministers, bedoeld in [artikel 40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=40), betrekken bij de voorbereiding van de organisatie van de ongevallenbestrijding met categorie A-objecten en de nationale crisisafspraken, bedoeld in dat lid, de in [bijlage 6, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=6&z=2025-01-01&g=2025-01-01), genoemde elementen.
 
@@ -1452,7 +1478,7 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 7. Bij regeling van Onze Minister kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het derde, vierde en zesde lid.
 
-#### Artikel 6.6. (internationale samenwerking)
+##### Artikel 6.6. (internationale samenwerking)
 
 1. Onze Minister en Onze Minister van Veiligheid en Justitie zorgen voor samenwerking met andere lidstaten en andere betrokken landen met het oog op de aanpak van mogelijke radiologische noodsituaties op Nederlands grondgebied die deze staten kunnen treffen.
 
@@ -1472,7 +1498,7 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 #### § 6.1.3. Bedrijfsnoodplannen en interventies ondernemer
 
-#### Artikel 6.7. (bedrijfsnoodplannen)
+##### Artikel 6.7. (bedrijfsnoodplannen)
 
 1. De ondernemer zorgt in gevallen, behorend tot een bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen categorie, voor een bedrijfsnoodplan voor:
 
@@ -1492,7 +1518,7 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 5. Bij regeling van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het derde lid.
 
-#### Artikel 6.8. (interventies ondernemer)
+##### Artikel 6.8. (interventies ondernemer)
 
 1. De ondernemer zorgt ervoor dat voorzieningen worden getroffen ter voorbereiding op het verrichten van een interventie voor het geval dat zich binnen de locatie een ongeval of radiologische noodsituatie voordoet. Indien hij op grond van [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.7&z=2025-01-01&g=2025-01-01) over een bedrijfsnoodplan dient te beschikken neemt hij in het bedrijfsnoodplan een onderdeel «interventies» op, dat hij regelmatig test.
 
@@ -1514,13 +1540,13 @@ De ondernemer meldt elk stralingsincident, ongeval of radiologische noodsituatie
 
 7. Bij verordening van de Autoriteit kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het eerste tot en met zesde lid.
 
-#### Artikel 6.9. (individuele monitoring)
+##### Artikel 6.9. (individuele monitoring)
 
 Bij een ongeval of radiologische noodsituatie binnen zijn locatie zorgt de ondernemer ervoor dat, indien een lid van de bevolking binnen of buiten die locatie, ten gevolge daarvan is of kan worden blootgesteld, individuele monitoring wordt uitgevoerd of dat de effectieve of equivalente doses die door de betrokken persoon zijn ontvangen op een andere passende wijze worden bepaald.
 
 #### § 6.1.4. Interventies overheid bij ongevallen en bij radiologische noodsituaties
 
-#### Artikel 6.10. (regels met betrekking tot interventies en beschermingsmaatregelen)
+##### Artikel 6.10. (regels met betrekking tot interventies en beschermingsmaatregelen)
 
 1. Onze Ministers die het aangaat stellen regels met betrekking tot het uitvoeren van interventies, bedoeld in [artikel 6.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.11&z=2025-01-01&g=2025-01-01), en passende beschermingsmaatregelen.
 
@@ -1532,21 +1558,21 @@ Bij een ongeval of radiologische noodsituatie binnen zijn locatie zorgt de onder
 
 5. Onze in het eerste lid bedoelde Ministers zorgen voor de organisatie van de medische behandeling van personen die getroffen zijn door het ongeval of de radiologische noodsituatie.
 
-#### Artikel 6.11. (uitvoering interventie)
+##### Artikel 6.11. (uitvoering interventie)
 
 1. Een interventie wordt slechts verricht indien de daarvan verwachte beperking van de schade en de nadelige sociale en maatschappelijke gevolgen, veroorzaakt door ioniserende straling, voldoende is om de schade, de nadelige sociale en maatschappelijke gevolgen en de kosten van de interventie te rechtvaardigen.
 
 2. De vorm, de omvang en de duur van de interventie zijn zodanig, dat het voordeel van de daarmee te bereiken beperking van de gezondheidsschade, rekening houdend met de schade die aan de interventie is verbonden, zo groot is als redelijkerwijs mogelijk is.
 
-#### Artikel 6.12. (voorzieningen interventie)
+##### Artikel 6.12. (voorzieningen interventie)
 
 Onze Ministers die het aangaat als bedoeld in [artikel 6.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.10&z=2025-01-01&g=2025-01-01), zorgen ervoor dat er voorzieningen voor technische en medische interventie en voor het verwijderen van radioactieve besmetting beschikbaar zijn.
 
-#### Artikel 6.13. (uitvoering interventies)
+##### Artikel 6.13. (uitvoering interventies)
 
 De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.13&z=2025-01-01&g=2025-01-01), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.14&z=2025-01-01&g=2025-01-01), [7.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.16&z=2025-01-01&g=2025-01-01), [7.19](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.19&z=2025-01-01&g=2025-01-01), [7.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.20&z=2025-01-01&g=2025-01-01) en [7.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.21&z=2025-01-01&g=2025-01-01) zijn van toepassing met betrekking tot de leden van interventieteams, met dien verstande dat de daar bedoelde verplichtingen rusten op degene onder wiens verantwoordelijkheid de interventie wordt verricht.
 
-#### Artikel 6.14. (interventie bij langdurige blootstelling)
+##### Artikel 6.14. (interventie bij langdurige blootstelling)
 
 1. Door Onze Ministers, bedoeld in [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.12&z=2025-01-01&g=2025-01-01), of de ondernemer kan een situatie worden aangemerkt als een situatie die leidt tot langdurige blootstelling als gevolg van een radiologische noodsituatie of een vroegere handeling.
 
@@ -1568,7 +1594,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 #### § 6.2.1. Bestaande blootstellingsituaties
 
-#### Artikel 6.15. (inventarisatie bestaande blootstellingsituaties)
+##### Artikel 6.15. (inventarisatie bestaande blootstellingsituaties)
 
 1. De Autoriteit in overeenstemming met Onze Minister die het aangaat is belast met het inventariseren van mogelijke bestaande blootstellingsituaties met een blootstelling die niet veronachtzaamd kan worden vanuit het oogpunt van stralingsbescherming, alsmede het bepalen van die blootstelling. Hij kan daartoe gebruik maken van het monitoringprogramma, bedoeld in [artikel 6.24](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.4&artikel=6.24&z=2025-01-01&g=2025-01-01).
 
@@ -1576,7 +1602,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 3. Bij regeling van Onze Minister en Onze Minister die het mede aangaat kunnen specifieke gevallen of specifieke categorieën van bestaande blootstellingsituaties met een blootstelling lager dan 1 millisievert in een kalenderjaar worden aangewezen die niet veronachtzaamd kunnen worden.
 
-#### Artikel 6.16. (beoordeling bestaande blootstellingsituaties)
+##### Artikel 6.16. (beoordeling bestaande blootstellingsituaties)
 
 1. Indien uit de inventarisatie, bedoeld in [artikel 6.15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.15&z=2025-01-01&g=2025-01-01), aannemelijk wordt of vast komt te staan dat sprake is van een of meer bestaande blootstellingsituaties waarvoor vanuit het oogpunt van de stralingsbescherming bezorgdheid bestaat, stelt Onze Minister in overeenstemming met Onze Minister die het mede aangaat een programma van maatregelen vast, om deze blootstellingsituaties te beoordelen en de blootstelling te bepalen.
 
@@ -1586,13 +1612,13 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 4. In geval van een bestaande blootstellingsituatie als bedoeld in het eerste lid kunnen Onze in dat lid bedoelde Ministers, gelet op het risico en het vereiste van rechtvaardiging, bedoeld in de [paragrafen 2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.1&z=2025-01-01&g=2025-01-01) en [2.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&z=2025-01-01&g=2025-01-01), besluiten dat die blootstellingsituatie geen grond is voor het nemen van beschermingsmaatregelen of remediëringsmaatregelen.
 
-#### Artikel 6.17. (bestaande blootstellingsituaties waarop regels geplande blootstellingsituatie van toepassing zijn)
+##### Artikel 6.17. (bestaande blootstellingsituaties waarop regels geplande blootstellingsituatie van toepassing zijn)
 
 1. Op krachtens de [artikelen 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.15&z=2025-01-01&g=2025-01-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.16&z=2025-01-01&g=2025-01-01) geïnventariseerde en beoordeelde bestaande blootstellingsituaties die vanuit het oogpunt van stralingsbescherming aanleiding geven tot bezorgdheid en waarvoor een ondernemer verantwoordelijk is, is in afwijking van de [artikelen 6.18](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.18&z=2025-01-01&g=2025-01-01) en [6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.19&z=2025-01-01&g=2025-01-01) het bepaalde bij en krachtens de [hoofdstukken 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&z=2025-01-01&g=2025-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&z=2025-01-01&g=2025-01-01) met betrekking tot de rechtvaardiging, autorisatie en het beheer van geplande blootstellingsituaties van toepassing.
 
 2. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kunnen met het oog op een goede uitvoering bestaande blootstellingsituaties als bedoeld in het eerste lid worden aangewezen en kunnen nadere regels worden gesteld.
 
-#### Artikel 6.18. (strategie voor overige bestaande blootstellingsituaties)
+##### Artikel 6.18. (strategie voor overige bestaande blootstellingsituaties)
 
 1. Krachtens de [artikelen 6.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.15&z=2025-01-01&g=2025-01-01) en [6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.16&z=2025-01-01&g=2025-01-01) geïnventariseerde en beoordeelde bestaande blootstellingsituaties die vanuit het oogpunt van stralingsbescherming aanleiding geven tot bezorgdheid en waarvoor niet een ondernemer verantwoordelijk is, worden bij regeling van Onze Ministers aangewezen.
 
@@ -1610,7 +1636,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 6. Een strategie kan worden opgenomen in een programma als bedoeld in [artikel 6.19](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.19&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 6.19. (uitvoering strategie)
+##### Artikel 6.19. (uitvoering strategie)
 
 1. Ter uitvoering van een strategie als bedoeld in [artikel 6.18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.18&z=2025-01-01&g=2025-01-01), stelt Onze Minister in overeenstemming met Onze Minister die het mede aangaat een uitvoeringsprogramma vast.
 
@@ -1640,7 +1666,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 #### § 6.2.2. Nationaal actieprogramma radon; gammastraling bouwmaterialen
 
-#### Artikel 6.20. (nationaal actieprogramma radon)
+##### Artikel 6.20. (nationaal actieprogramma radon)
 
 1. Met toepassing van [artikel 6.16](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.2&paragraaf=6.2.1&artikel=6.16&z=2025-01-01&g=2025-01-01) stelt Onze Minister in overeenstemming met Onze Minister die het mede aangaat een nationaal actieprogramma radon vast. Op de voorbereiding is [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing. Het programma wordt geactualiseerd indien daar vanuit het oogpunt van stralingsbescherming aanleiding toe is.
 
@@ -1666,7 +1692,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 - c. het beschikbaar stellen van informatie over de beschikbare technische middelen om bestaande radonconcentraties in woningen en gebouwen met toegang voor het publiek en op de werkplek terug te dringen.
 
-#### Artikel 6.21. (gammastraling van bouwmaterialen)
+##### Artikel 6.21. (gammastraling van bouwmaterialen)
 
 1. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kunnen, rekening houdend met de in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=9&z=2025-01-01&g=2025-01-01) genoemde materialen, bouwmaterialen worden aangewezen die aandacht behoeven vanuit het oogpunt van de stralingsbescherming, vanwege de door deze materialen uitgezonden gammastraling, die bij toepassing van deze bouwmaterialen kan leiden tot een overschrijding van het referentieniveau van 1 millisievert binnenshuis in een kalenderjaar, bedoeld in [artikel 9.10, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.3&artikel=9.10&z=2025-01-01&g=2025-01-01).
 
@@ -1680,7 +1706,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 ### Afdeling 6.3. Besmette gebieden
 
-#### Artikel 6.22. (besmette gebieden)
+##### Artikel 6.22. (besmette gebieden)
 
 1. Bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat kunnen besmette gebieden worden aangewezen.
 
@@ -1708,7 +1734,7 @@ De [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&
 
 - e. bepaling en beoordeling van de blootstelling van verschillende bevolkingsgroepen en van de middelen die individuele personen ter beschikking hebben om hun eigen blootstelling te beheren.
 
-#### Artikel 6.23. (besmette gebieden, vervolg)
+##### Artikel 6.23. (besmette gebieden, vervolg)
 
 Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er in overleg met bewoners en andere belanghebbenden voor dat in besmette gebieden waarvoor bewoning en sociale en economische activiteiten weer worden toegestaan, voor zover nodig voorzieningen worden getroffen voor een zodanige en voortgaande beheersing van de blootstelling dat normale leefomstandigheden mogelijk worden, met inbegrip van:
 
@@ -1722,7 +1748,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 ### Afdeling 6.4. Monitoring
 
-#### Artikel 6.24. (milieumonitoring)
+##### Artikel 6.24. (milieumonitoring)
 
 1. Onze Minister zorgt voor een passend milieumonitoringprogramma.
 
@@ -1736,7 +1762,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 #### § 7.1.1. Verplichtingen ondernemer
 
-#### Artikel 7.1. (toezicht door en raadpleging van de stralingsbeschermingsdeskundige)
+##### Artikel 7.1. (toezicht door en raadpleging van de stralingsbeschermingsdeskundige)
 
 1. De ondernemer is verplicht, met het oog op de bescherming van werknemers en leden van de bevolking tegen ioniserende straling, de stralingsbeschermingsdeskundige toezicht te laten uitvoeren dan wel deze te raadplegen en stelt hem de middelen ter beschikking die hij nodig heeft om zijn taken goed te kunnen vervullen.
 
@@ -1794,7 +1820,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 9. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot het tweede, derde, vierde en vijfde lid, voor zover dit de veiligheid en gezondheid van werknemers betreft.
 
-#### Artikel 7.2. (uitvoering taken en toezicht door de toezichthoudend medewerker stralingsbescherming)
+##### Artikel 7.2. (uitvoering taken en toezicht door de toezichthoudend medewerker stralingsbescherming)
 
 1. De ondernemer zorgt ervoor dat een handeling wordt uitgevoerd door of onder toezicht van een toezichthoudend medewerker stralingsbescherming en stelt hem de middelen ter beschikking die hij nodig heeft om zijn uitvoerende en toezichthoudende taken goed te kunnen vervullen.
 
@@ -1836,7 +1862,7 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 7. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen met het oog op een goede uitvoering nadere regels worden gesteld met betrekking tot het derde en vierde lid, voor zover dit de veiligheid en gezondheid van werknemers betreft.
 
-#### Artikel 7.3. (blootstelling werknemers, algemeen)
+##### Artikel 7.3. (blootstelling werknemers, algemeen)
 
 1. De ondernemer zorgt ervoor dat voor een werknemer die geen blootgestelde werknemer is, ten gevolge van een handeling die onder zijn verantwoordelijkheid wordt verricht, de volgende dosislimieten niet worden overschreden:
 
@@ -1854,11 +1880,11 @@ Onze Minister in overeenstemming met Onze Minister die het mede aangaat zorgt er
 
 3. Indien een van de in het eerste lid genoemde dosislimieten overschreden wordt, rapporteert de ondernemer dit aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken.
 
-#### Artikel 7.4. (blootstelling jeugdige werknemers)
+##### Artikel 7.4. (blootstelling jeugdige werknemers)
 
 De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen arbeid krijgen toegewezen of verrichten waarbij de mogelijkheid bestaat dat de dosislimieten, genoemd in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01), worden overschreden, tenzij [artikel 7.35, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.35&z=2025-01-01&g=2025-01-01), van toepassing is.
 
-#### Artikel 7.5. (vliegtuigbemanning)
+##### Artikel 7.5. (vliegtuigbemanning)
 
 1. Voor zover het een situatie betreft waarbij het gaat om blootstelling van vliegtuigbemanning veroorzaakt door kosmische straling, zijn dit hoofdstuk en de daarop berustende bepalingen alleen van toepassing voor zover zulks in dit artikel is bepaald.
 
@@ -1878,13 +1904,13 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 5. Onze Minister van Sociale Zaken en Werkgelegenheid kan nadere regels stellen met betrekking tot het bepaalde in dit artikel.
 
-#### Artikel 7.6. (nadere eisen risico-inventarisatie en -evaluatie)
+##### Artikel 7.6. (nadere eisen risico-inventarisatie en -evaluatie)
 
 1. De ondernemer zorgt ervoor dat in het kader van de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5), de beoordeling van de risico’s en alle overige bevindingen van de stralingsbeschermingsdeskundige ten aanzien van de onderwerpen, genoemd in [artikel 7.1, tweede, derde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.1&z=2025-01-01&g=2025-01-01), voor zover die de veiligheid en gezondheid van de werknemers betreffen, worden meegenomen en vastgelegd.
 
 2. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere eisen worden vastgesteld met betrekking tot de risico-inventarisatie en -evaluatie, bedoeld in [artikel 5 van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=5).
 
-#### Artikel 7.7. (zones)
+##### Artikel 7.7. (zones)
 
 1. De ondernemer zorgt ervoor dat, indien dat nodig is met het oog op de bescherming tegen ioniserende straling:
 
@@ -1916,7 +1942,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 5. Indien blijkt dat een ruimte niet langer voldoet aan de kenmerken, bedoeld in het eerste lid, onder a of b, om als gecontroleerde zone dan wel bewaakte zone te worden aangemerkt, zorgt de ondernemer ervoor dat de betrokken ruimte niet langer wordt aangemerkt als gecontroleerde zone dan wel bewaakte zone.
 
-#### Artikel 7.8. (gecontroleerde zone)
+##### Artikel 7.8. (gecontroleerde zone)
 
 1. Met betrekking tot een gecontroleerde zone zorgt de ondernemer ervoor dat:
 
@@ -1938,7 +1964,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 3. Indien blijkt dat niet aan alle criteria, genoemd in het eerste lid, wordt voldaan, zorgt de ondernemer ervoor dat de betrokken ruimte niet langer wordt aangemerkt als gecontroleerde zone en worden de verrichte handelingen met bronnen, voor zover die plaats dienen te vinden in een gecontroleerde zone, in die ruimte gestaakt.
 
-#### Artikel 7.9. (bewaakte zone)
+##### Artikel 7.9. (bewaakte zone)
 
 1. Met betrekking tot een bewaakte zone zorgt de ondernemer ervoor dat er:
 
@@ -1952,7 +1978,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 3. Indien blijkt dat niet aan alle criteria, genoemd in het eerste lid, wordt voldaan, zorgt de ondernemer ervoor dat de betrokken ruimte niet langer wordt aangemerkt als bewaakte zone en worden de verrichte handelingen met bronnen, voor zover die plaats dienen te vinden in een bewaakte zone, in die ruimte gestaakt.
 
-#### Artikel 7.10. (metingen in zones)
+##### Artikel 7.10. (metingen in zones)
 
 1. Ten behoeve van het toezicht, bedoeld in de [artikelen 7.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.8&z=2025-01-01&g=2025-01-01) en [7.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.9&z=2025-01-01&g=2025-01-01), zorgt de ondernemer ervoor dat op passende wijze, meting of monitoring plaatsvindt binnen de gecontroleerde en de bewaakte zone van:
 
@@ -1962,7 +1988,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 2. De resultaten van een meting als bedoeld in het eerste lid, worden geregistreerd door de ondernemer en kunnen waar nodig gebruikt worden voor het schatten van de individuele doses, bedoeld in [artikel 7.13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.13&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7.11. (indeling blootgestelde werknemers in categorie A en B)
+##### Artikel 7.11. (indeling blootgestelde werknemers in categorie A en B)
 
 1. De ondernemer deelt, voor aanvang van het verrichten van de handelingen, ten behoeve van de individuele monitoring en het gezondheidskundig toezicht elke blootgestelde werknemer in als A- of B-werknemer. Voor elke externe werknemer geschiedt de indeling in samenspraak tussen de ondernemer en de werkgever.
 
@@ -1984,7 +2010,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 #### § 7.1.2. Bepaling van blootstelling
 
-#### Artikel 7.12. (persoonlijk dosiscontrolemiddel (PDC))
+##### Artikel 7.12. (persoonlijk dosiscontrolemiddel (PDC))
 
 1. De ondernemer zorgt ervoor dat aan de volgende blootgestelde werknemers een passend persoonlijk dosiscontrolemiddel ter beschikking wordt gesteld, dat wordt betrokken van een dosimetrische dienst als bedoeld in [artikel 7.15](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.15&z=2025-01-01&g=2025-01-01):
 
@@ -2002,13 +2028,13 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 6. Onze Minister van Sociale Zaken en Werkgelegenheid kan nadere regels stellen met betrekking tot dit artikel.
 
-#### Artikel 7.13. (ontheffing PDC)
+##### Artikel 7.13. (ontheffing PDC)
 
 1. Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken, een door Onze Minister van Defensie aan te wijzen autoriteit, kan, indien het meten van blootstelling aan ioniserende straling aan de hand van het persoonlijk controlemiddel, bedoeld in [artikel 7.12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), niet of niet goed mogelijk is of als de effectieve of equivalente dosis op andere passende wijze wordt bepaald, ontheffing verlenen van het bepaalde in artikel 7.12.
 
 2. Aan de ontheffing, bedoeld in het eerste lid, worden voorschriften verbonden die inhouden dat de effectieve of equivalente dosis geschat wordt aan de hand van de individuele metingen bij andere blootgestelde werknemers, of aan de hand van de zonemonitoring, bedoeld in [artikel 7.10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.10&z=2025-01-01&g=2025-01-01), of in het geval van een vliegtuigbemanning op een wijze als bedoeld in [artikel 7.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7.14. (overmatige blootstelling, een stralingsincident, of een radiologische noodsituatie)
+##### Artikel 7.14. (overmatige blootstelling, een stralingsincident, of een radiologische noodsituatie)
 
 1. Indien sprake is of kan zijn van een overmatige blootstelling meldt de ondernemer dit zo spoedig mogelijk, doch uiterlijk binnen 24 uur, aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken.
 
@@ -2018,7 +2044,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 4. Indien een werknemer of hulpverlener bij een radiologische noodsituatie aan ioniserende straling kan worden blootgesteld, zorgt de ondernemer, die voor de handeling die de radiologische noodsituatie heeft veroorzaakt verantwoordelijk is, ervoor dat passende individuele monitoring wordt uitgevoerd en dat de effectieve en equivalente doses worden bepaald die door de betrokken werknemer of hulpverlener zijn ontvangen.
 
-#### Artikel 7.15. (dosimetrische dienst)
+##### Artikel 7.15. (dosimetrische dienst)
 
 1. Er zijn een of meer dosimetrische diensten die tot taak hebben:
 
@@ -2032,7 +2058,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 #### § 7.1.3. Registreren gegevens blootgestelde werknemers
 
-#### Artikel 7.16. (gegevens dosisregistratie)
+##### Artikel 7.16. (gegevens dosisregistratie)
 
 1. De ondernemer zorgt ervoor dat afzonderlijk van iedere blootgestelde werknemer wordt geregistreerd:
 
@@ -2054,7 +2080,7 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 4. Indien nodig werken de ondernemer en de werkgever samen bij de uitvoering van dit artikel.
 
-#### Artikel 7.17. (registratie gegevens)
+##### Artikel 7.17. (registratie gegevens)
 
 1. Er is een dosisregistratiesysteem voor individuele radiologische controle ten behoeve van het bewaren van de resultaten van de individuele monitoring, bepaald overeenkomstig de [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.13&z=2025-01-01&g=2025-01-01), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.14&z=2025-01-01&g=2025-01-01) en [7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.6&artikel=7.31&z=2025-01-01&g=2025-01-01).
 
@@ -2066,11 +2092,11 @@ De ondernemer zorgt ervoor dat voor werknemers die jonger zijn dan 18 jaar geen 
 
 5. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld over de inrichting, toegankelijkheid, werkwijze en het beheer, waaronder wijziging van het gegevenssysteem.
 
-#### Artikel 7.18. (stralingsbeschermingseenheid)
+##### Artikel 7.18. (stralingsbeschermingseenheid)
 
 De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.13&z=2025-01-01&g=2025-01-01) en [6.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.14&z=2025-01-01&g=2025-01-01) zijn van overeenkomstige toepassing voor de stralingsbeschermingseenheid, bedoeld in [artikel 5.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.2&artikel=5.9&z=2025-01-01&g=2025-01-01), met dien verstande dat de daar bedoelde verplichtingen rusten op degene onder wiens verantwoordelijkheid de interventie wordt verricht.
 
-#### Artikel 7.19. (aanvullende voorschriften individuele monitoring en registratie)
+##### Artikel 7.19. (aanvullende voorschriften individuele monitoring en registratie)
 
 1. De ondernemer zorgt ervoor dat de resultaten van de individuele monitoring, bepaald overeenkomstig de [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.13&z=2025-01-01&g=2025-01-01), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.14&z=2025-01-01&g=2025-01-01) en [7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.6&artikel=7.31&z=2025-01-01&g=2025-01-01), aan de in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.17&z=2025-01-01&g=2025-01-01) bedoelde instelling wordt gezonden.
 
@@ -2078,7 +2104,7 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 3. Een werkgever zorgt ervoor dat zijn blootgestelde werknemer bij handelingen onder de verantwoordelijkheid van een buitenlandse ondernemer, zijn persoonlijk dosiscontrolemiddel, bedoeld in [artikel 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), gebruikt tijdens die handelingen.
 
-#### Artikel 7.20. (verstrekking gegevens individuele monitoring)
+##### Artikel 7.20. (verstrekking gegevens individuele monitoring)
 
 1. De ondernemer zorgt ervoor dat de resultaten van de individuele monitoring, bepaald overeenkomstig de [artikelen 7.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.12&z=2025-01-01&g=2025-01-01), [7.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.13&z=2025-01-01&g=2025-01-01), [7.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.2&artikel=7.14&z=2025-01-01&g=2025-01-01) en [7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.6&artikel=7.31&z=2025-01-01&g=2025-01-01) en desgevraagd de gegevens van onderliggende metingen worden verstrekt aan:
 
@@ -2098,7 +2124,7 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 #### § 7.1.4. Gezondheidskundig toezicht op blootgestelde werknemers
 
-#### Artikel 7.21. (gezondheidskundig toezicht arbodienst en stralingsarts)
+##### Artikel 7.21. (gezondheidskundig toezicht arbodienst en stralingsarts)
 
 1. De ondernemer zorgt ervoor dat de stralingsarts, bedoeld in [artikel 7.22](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2025-01-01&g=2025-01-01), gezondheidskundig toezicht op een A-werknemer uitoefent.
 
@@ -2122,7 +2148,7 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 8. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid worden regels gesteld betreffende de inschakeling van de arbodienst, de door deze ten aanzien van een blootgestelde werknemer te nemen aanvullende maatregelen en de door deze, in samenspraak met de stralingsarts, te verlenen toestemming bij verdere blootstellingsvoorwaarden.
 
-#### Artikel 7.22. (stralingsarts)
+##### Artikel 7.22. (stralingsarts)
 
 1. Als stralingsarts kan uitsluitend optreden een persoon die door de Autoriteit als stralingsarts is ingeschreven in een door de Autoriteit gehouden register.
 
@@ -2140,7 +2166,7 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 6. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag tot inschrijving als bedoeld in het eerste lid.
 
-#### Artikel 7.23. (inschrijving persoon als stralingsarts bij voldoen aan erkende EU-beroepskwalificaties)
+##### Artikel 7.23. (inschrijving persoon als stralingsarts bij voldoen aan erkende EU-beroepskwalificaties)
 
 1. De Autoriteit schrijft op aanvraag een persoon die onderdaan is van een betrokken staat als bedoeld in [artikel 1 van de Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=1) in in het register, bedoeld in [artikel 7.22, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.22&z=2025-01-01&g=2025-01-01), indien op grond van de [Algemene wet erkenning EU-beroepskwalificaties](https://wetten.overheid.nl/jci1.3:c:BWBR0023066) en met toepassing van de op grond van [artikel 33 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0023066&artikel=33) gestelde regels is aangetoond dat deze persoon over kwalificaties bezit die gelijkwaardig zijn aan de kwalificaties waaraan ingevolge artikel 7.22, derde lid, moet worden voldaan om als stralingsarts in het register te worden ingeschreven.
 
@@ -2148,7 +2174,7 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het eerste lid.
 
-#### Artikel 7.24. (indeling A-werknemers op basis van gezondheidskundig onderzoek)
+##### Artikel 7.24. (indeling A-werknemers op basis van gezondheidskundig onderzoek)
 
 1. De ondernemer zorgt ervoor dat de arbodienst, in samenspraak met de stralingsarts, met betrekking tot de geschiktheid van A-werknemers voorafgaand aan de aanwijzing als A-werknemer op basis van het gezondheidskundig onderzoek de volgende indeling toepast:
 
@@ -2162,11 +2188,11 @@ De [artikelen 6.13](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&
 
 3. Degene die het onderzoek heeft ondergaan kan binnen zes weken na ontvangst van de mededeling, bedoeld in het tweede lid, een nieuw onderzoek verzoeken aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken. Onze betrokken Minister deelt de uitslag van het nieuwe onderzoek onverwijld schriftelijk mee aan de onderzochte persoon, de arbodienst, de stralingsarts en de ondernemer.
 
-#### Artikel 7.25. (geschiktheid A-werknemer)
+##### Artikel 7.25. (geschiktheid A-werknemer)
 
 Een werknemer wordt niet in een specifieke functie als A-werknemer tewerkgesteld indien hij blijkens de uitslag van het gezondheidskundig onderzoek, bedoeld in [artikel 7.24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.24&z=2025-01-01&g=2025-01-01), ongeschikt is voor die functie.
 
-#### Artikel 7.26. (medisch dossier)
+##### Artikel 7.26. (medisch dossier)
 
 1. De ondernemer zorgt ervoor dat de stralingsarts een medisch dossier bijhoudt van elke A-werknemer en werknemer als bedoeld in [artikel 7.21, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.21&z=2025-01-01&g=2025-01-01), en dat dit in ieder geval wordt bewaard totdat de persoon op wie de gegevens betrekking hebben de leeftijd van vijfenzeventig jaar heeft bereikt of zou hebben bereikt, maar ten minste dertig jaar nadat deze persoon de handelingen heeft beëindigd.
 
@@ -2186,7 +2212,7 @@ Een werknemer wordt niet in een specifieke functie als A-werknemer tewerkgesteld
 
 4. De werknemer heeft inzage in zijn medisch dossier en ontvangt hiervan op zijn verzoek een afschrift.
 
-#### Artikel 7.27. (externe werknemer)
+##### Artikel 7.27. (externe werknemer)
 
 1. De werkgever van de externe werknemer ziet er op toe dan wel zorgt ervoor dat:
 
@@ -2200,13 +2226,13 @@ Een werknemer wordt niet in een specifieke functie als A-werknemer tewerkgesteld
 
 #### § 7.1.5. Onderricht
 
-#### Artikel 7.28. (voorlichting en instructies)
+##### Artikel 7.28. (voorlichting en instructies)
 
 1. Een ondernemer zorgt voor passende opleidings- en voorlichtingsprogramma’s voor werknemers, in voorkomend geval toegespitst op hoogactieve bronnen.
 
 2. De ondernemer zorgt ervoor dat de werknemers meewerken aan de voor hen georganiseerde informatiebijeenkomsten en trainingen en de instructies naleven die hen ingevolge dit besluit worden verstrekt.
 
-#### Artikel 7.29. (voorlichting vrouwelijke werknemers)
+##### Artikel 7.29. (voorlichting vrouwelijke werknemers)
 
 1. De ondernemer zorgt ervoor dat vrouwelijke werknemers die bij de arbeid kunnen worden blootgesteld aan ioniserende straling, voor aanvang van het verrichten van de handeling passend worden geïnformeerd over:
 
@@ -2216,7 +2242,7 @@ Een werknemer wordt niet in een specifieke functie als A-werknemer tewerkgesteld
 
 2. Wat betreft externe werknemers zorgt de werkgever dat de informatie, genoemd in het eerste lid, onder a en b, aan hen wordt verstrekt.
 
-#### Artikel 7.30. (voorlichting en opleiding van werknemers die aan weesbronnen kunnen worden blootgesteld)
+##### Artikel 7.30. (voorlichting en opleiding van werknemers die aan weesbronnen kunnen worden blootgesteld)
 
 De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.3&artikel=5.12&z=2025-01-01&g=2025-01-01), waarvan het aannemelijk is dat er weesbronnen worden aangetroffen of verwerkt, draagt er zoveel mogelijk zorg voor dat een werknemer die in die onderneming kan worden blootgesteld aan een weesbron, onverminderd artikel 5.12:
 
@@ -2228,7 +2254,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 #### § 7.1.6. Bijzondere situaties
 
-#### Artikel 7.31. (ontheffing dosislimieten uitzonderlijke omstandigheden)
+##### Artikel 7.31. (ontheffing dosislimieten uitzonderlijke omstandigheden)
 
 1. In uitzonderlijke omstandigheden, met uitzondering van radiologische noodsituaties, kan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken, op verzoek van een ondernemer ontheffing van de dosislimieten, genoemd in [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.34&z=2025-01-01&g=2025-01-01), verlenen, mits:
 
@@ -2258,7 +2284,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 6. De met deze blootstelling verband houdende dosis wordt afzonderlijk opgenomen in het medisch dossier, bedoeld in [artikel 7.26](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.4&artikel=7.26&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 7.32. (verrichten arbeid na ontheffing)
+##### Artikel 7.32. (verrichten arbeid na ontheffing)
 
 1. De ondernemer zorgt ervoor dat een werknemer voor wie een ontheffing als bedoeld in [artikel 7.31](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.6&artikel=7.31&z=2025-01-01&g=2025-01-01) is verleend, indien ten gevolge van de in dat artikel bedoelde blootstelling een van de dosislimieten, genoemd in [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.34&z=2025-01-01&g=2025-01-01), is overschreden, niet eerder weer aan ioniserende straling ten gevolge van een handeling die onder zijn verantwoordelijkheid wordt verricht, wordt blootgesteld dan nadat door de arbodienst, in samenspraak met de stralingsarts, is verklaard dat daartegen geen bezwaar bestaat.
 
@@ -2266,7 +2292,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 ### Afdeling 7.2. Beroepsmatige blootstelling in geplande blootstellingsituaties
 
-#### Artikel 7.33. (dosisbeperkingen werknemers)
+##### Artikel 7.33. (dosisbeperkingen werknemers)
 
 1. Met het oog op beroepsmatige blootstelling stelt de ondernemer de dosisbeperking vast als operationeel instrument voor optimalisatie van de bescherming van de werknemers.
 
@@ -2274,7 +2300,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 3. Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld met betrekking tot het eerste lid, waaronder de methode ter bepaling van de dosisbeperking en de vaststelling van dosisbeperkingen voor de daarbij genoemde handelingen, functies of taken.
 
-#### Artikel 7.34. (dosislimieten blootgestelde werknemer)
+##### Artikel 7.34. (dosislimieten blootgestelde werknemer)
 
 1. De dosislimieten voor beroepsmatige blootstelling zijn van toepassing op de som van de beroepsmatige blootstelling van een werknemer bij elke geplande handeling, bij blootstelling aan radon als bedoeld in [artikel 7.38, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.4&artikel=7.38&z=2025-01-01&g=2025-01-01), en elke andere beroepsmatige blootstelling aan bestaande blootstellingsituaties.
 
@@ -2294,7 +2320,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 4. Indien een van de dosislimieten, genoemd in het tweede lid, overschreden wordt, rapporteert de ondernemer dit aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken.
 
-#### Artikel 7.35. (dosislimieten leerlingen en studerenden)
+##### Artikel 7.35. (dosislimieten leerlingen en studerenden)
 
 1. [Artikel 7.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.4&z=2025-01-01&g=2025-01-01) is niet van toepassing op leerlingen en studerenden die ten minste 16 jaar, maar nog geen 18 jaar zijn, en die uit hoofde van hun opleiding verplicht zijn een handeling te verrichten en die daarbij een blootstelling kunnen ondergaan die hoger is dan een van de dosislimieten, genoemd in [artikel 7.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.3&z=2025-01-01&g=2025-01-01).
 
@@ -2314,7 +2340,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 4. Indien een van de dosislimieten, genoemd in het tweede lid, overschreden wordt, rapporteert de ondernemer dit aan Onze Minister van Sociale Zaken en Werkgelegenheid of, indien het inrichtingen betreft waarvoor een vergunning krachtens [artikel 15, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) is verleend, de Autoriteit of, indien het mijnbouw betreft, Onze Minister van Economische Zaken.
 
-#### Artikel 7.36. (zwangere en borstvoedinggevende werknemers)
+##### Artikel 7.36. (zwangere en borstvoedinggevende werknemers)
 
 1. De ondernemer zorgt ervoor dat de arbeidsomstandigheden voor de zwangere werknemer zodanig zijn dat de equivalente dosis ten gevolge van het werk voor het ongeboren kind zo laag is als redelijkerwijs mogelijk is en dat het onwaarschijnlijk is dat de dosis vanaf het moment van melding van de zwangerschap aan de ondernemer tot aan het einde van de zwangerschap hoger zal zijn dan 1 millisievert.
 
@@ -2324,7 +2350,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 ### Afdeling 7.3. Beroepsmatige blootstelling in radiologische noodsituaties
 
-#### Artikel 7.37. (beroepsmatige blootstelling in radiologische noodsituaties)
+##### Artikel 7.37. (beroepsmatige blootstelling in radiologische noodsituaties)
 
 1. In geval van beroepsmatige blootstelling in radiologische noodsituaties gelden voor zover mogelijk voor werknemers die als hulpverlener optreden de dosislimieten, genoemd in [artikel 7.34](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.2&artikel=7.34&z=2025-01-01&g=2025-01-01).
 
@@ -2340,7 +2366,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 ### Afdeling 7.4. Beroepsmatige blootstelling in bestaande situaties
 
-#### Artikel 7.38. (radon op het werk)
+##### Artikel 7.38. (radon op het werk)
 
 1. Het referentieniveau voor het jaargemiddelde van radonconcentratie in de lucht op werkplekken bedraagt 100 becquerel/m3.
 
@@ -2372,7 +2398,7 @@ De bedrijfsleiding van een onderneming als bedoeld in [artikel 5.12, tweede lid]
 
 #### § 8.1. Algemene bepalingen
 
-#### Artikel 8.1. (delegatiebepalingen)
+##### Artikel 8.1. (delegatiebepalingen)
 
 Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen nadere regels worden gesteld ten aanzien van:
 
@@ -2390,13 +2416,13 @@ Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen nad
 
 #### § 8.2. Algemene bepalingen over bescherming bij medische blootstellingen
 
-#### Artikel 8.2. (rechtvaardiging medische blootstelling)
+##### Artikel 8.2. (rechtvaardiging medische blootstelling)
 
 1. Een medische blootstelling vindt uitsluitend plaats indien zij gerechtvaardigd is.
 
 2. Een medische blootstelling is gerechtvaardigd indien zij per saldo voldoende voordeel oplevert wanneer het totale potentiële diagnostische of therapeutische voordeel, waaronder de gezondheidsvoordelen voor de persoon die de behandeling ondergaat en het maatschappelijk voordeel, opweegt tegen de gezondheidsschade die de persoon die de blootstelling ondergaat, kan ondervinden, rekening houdend met de doeltreffendheid, de voordelen en de risico’s van beschikbare alternatieve technieken die hetzelfde doel hebben maar geen of minder blootstelling aan ioniserende straling met zich meebrengen.
 
-#### Artikel 8.3. (optimalisatie medische blootstelling)
+##### Artikel 8.3. (optimalisatie medische blootstelling)
 
 1. Alle doses ten gevolge van medische blootstellingen voor radiodiagnostiek, interventieradiologie en planning, sturing en verificatiedoeleinden, worden zo laag gehouden als redelijkerwijs mogelijk is, gelet op de noodzaak om de vereiste medische gegevens te verkrijgen en rekening houdend met economische en sociale factoren.
 
@@ -2412,7 +2438,7 @@ Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen nad
 
 4. Onze Minister van Volksgezondheid, Welzijn en Sport bevordert de vaststelling, de regelmatige herziening en het gebruik van diagnostische referentieniveaus voor radiodiagnostisch onderzoek, indien gepast voor interventieradiologische procedures, en de beschikbaarheid van richtlijnen op dit gebied.
 
-#### Artikel 8.4. (verantwoordelijkheid)
+##### Artikel 8.4. (verantwoordelijkheid)
 
 1. De ondernemer draagt ervoor zorg dat elke medische blootstelling plaatsvindt onder de verantwoordelijkheid van een medisch deskundige die voldoet aan [artikel 5.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&paragraaf=5.3&artikel=5.14&z=2025-01-01&g=2025-01-01).
 
@@ -2422,7 +2448,7 @@ Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen nad
 
 #### § 8.3. Bijzondere bepalingen over bescherming bij medische blootstellingen
 
-#### Artikel 8.5. (rechtvaardiging bij individuele medische blootstellingen)
+##### Artikel 8.5. (rechtvaardiging bij individuele medische blootstellingen)
 
 1. De verwijzende persoon en de medisch deskundige beoordelen ieder op grond van hun specifieke verantwoordelijkheid en vooraf of een individuele medische blootstelling gerechtvaardigd is, met inachtneming van het specifieke doel van de blootstelling en de kenmerken van de betrokken persoon.
 
@@ -2430,7 +2456,7 @@ Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport, kunnen nad
 
 3. De verwijzende persoon en de medisch deskundige verkrijgen, indien dat uitvoerbaar is, eerdere diagnostische of medische gegevens met betrekking tot de voorgenomen blootstelling en houden rekening met deze gegevens om onnodige blootstelling te voorkomen.
 
-#### Artikel 8.6. (rechtvaardiging medisch-radiologische procedure bij asymptomatische personen)
+##### Artikel 8.6. (rechtvaardiging medisch-radiologische procedure bij asymptomatische personen)
 
 Een medisch-radiologische procedure bij een asymptomatische persoon die vroege opsporing van een ziekte tot doel heeft, vindt uitsluitend plaats nadat bijzondere aandacht is besteed aan de voorlichting van deze persoon en:
 
@@ -2438,7 +2464,7 @@ Een medisch-radiologische procedure bij een asymptomatische persoon die vroege o
 
 - b. indien er een specifieke, gedocumenteerde rechtvaardiging aanwezig is die is opgesteld door de medisch deskundige in samenspraak met de verwijzende persoon en in overeenstemming met de toepasselijke richtlijnen van de beroepsgroep en met het bepaalde bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport.
 
-#### Artikel 8.7. (rechtvaardiging en blootstelling van verzorgers en van proefpersonen bij wetenschappelijk onderzoek)
+##### Artikel 8.7. (rechtvaardiging en blootstelling van verzorgers en van proefpersonen bij wetenschappelijk onderzoek)
 
 1. De medisch deskundige laat de blootstelling van een verzorger uitsluitend toe indien die blootstelling per saldo voldoende voordeel oplevert, waarbij hij rekening houdt met het directe gezondheidsvoordeel voor de patiënt, het voordeel voor de verzorger en de schade die de blootstelling kan veroorzaken.
 
@@ -2450,7 +2476,7 @@ Een medisch-radiologische procedure bij een asymptomatische persoon die vroege o
 
 - b. blootstellingen van personen die worden betrokken bij wetenschappelijk onderzoek als bedoeld in [artikel 1, eerste lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408&artikel=1).
 
-#### Artikel 8.8. (klinisch fysicus)
+##### Artikel 8.8. (klinisch fysicus)
 
 1. De klinisch fysicus:
 
@@ -2476,7 +2502,7 @@ Een medisch-radiologische procedure bij een asymptomatische persoon die vroege o
 
 - h. de opleiding van medische deskundigen en ander personeel in relevante aspecten van stralingsbescherming.
 
-#### Artikel 8.9. (optimalisatie in bijzondere omstandigheden)
+##### Artikel 8.9. (optimalisatie in bijzondere omstandigheden)
 
 1. De ondernemer draagt ervoor zorg dat voor medische blootstellingen voor radiotherapeutische doeleinden de te bestralen doelvolumes individueel worden gepland en de toediening op passende wijze wordt gecontroleerd, ermee rekening houdend dat de doses voor niet-doelvolumes en -weefsels zo laag zijn als redelijkerwijs mogelijk is, zonder aan het beoogde radiotherapeutische effect afbreuk te doen.
 
@@ -2488,7 +2514,7 @@ Een medisch-radiologische procedure bij een asymptomatische persoon die vroege o
 
 3. De instructies, bedoeld in het tweede lid, onderdeel b, worden verstrekt voordat de betrokkene het ziekenhuis, kliniek of een vergelijkbare instelling verlaat waar de behandeling of diagnose heeft plaatsgevonden. Bij een behandeling met radionucliden worden de instructies schriftelijk verstrekt.
 
-#### Artikel 8.10. (dosisbeperking bij wetenschappelijk onderzoek)
+##### Artikel 8.10. (dosisbeperking bij wetenschappelijk onderzoek)
 
 Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.3&artikel=8.7&z=2025-01-01&g=2025-01-01), en het bepaalde bij of krachtens de [Wet medisch-wetenschappelijk onderzoek met mensen](https://wetten.overheid.nl/jci1.3:c:BWBR0009408):
 
@@ -2496,7 +2522,7 @@ Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jc
 
 - b. beschouwt de medisch deskundige voordat de blootstelling plaatsvindt de betrokken dosisniveaus op individuele basis, in het geval van patiënten die toestemming hebben gegeven om een experimentele medische behandeling te ondergaan en die naar verwachting hiervan diagnostisch of therapeutisch voordeel zullen ondervinden.
 
-#### Artikel 8.11. (medische blootstelling van vrouwen die zwanger zijn of borstvoeding geven)
+##### Artikel 8.11. (medische blootstelling van vrouwen die zwanger zijn of borstvoeding geven)
 
 1. De verwijzende persoon of de medisch deskundige informeert bij een vrouw die een medische blootstelling ondergaat of zij zwanger is of borstvoeding geeft, tenzij dat om duidelijke redenen kan worden uitgesloten of niet relevant is voor de radiologische procedure.
 
@@ -2514,7 +2540,7 @@ Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jc
 
 4. De ondernemer neemt maatregelen die bijdragen tot bewustmaking van de vrouwen, bedoeld in het eerste lid, over medische blootstellingen als bedoeld in dit artikel.
 
-#### Artikel 8.12. (toevallige of onbedoelde blootstellingen en significante gebeurtenissen)
+##### Artikel 8.12. (toevallige of onbedoelde blootstellingen en significante gebeurtenissen)
 
 1. De ondernemer draagt ervoor zorg dat:
 
@@ -2534,7 +2560,7 @@ Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jc
 
 3. De Inspectie gezondheidszorg en jeugd publiceert tijdig informatie als bedoeld in artikel 63, onderdeel f, van de richtlijn.
 
-#### Artikel 8.13. (individuele dosisschattingen)
+##### Artikel 8.13. (individuele dosisschattingen)
 
 1. Onze Minister van Volksgezondheid, Welzijn en Sport draagt zorg voor de verdeling van individuele dosisschattingen als gevolg van medische blootstelling voor radiodiagnostiek en interventieradiologie. Indien nodig, wordt rekening gehouden met de leeftijdsverdeling en het geslacht van de blootgestelde populatie.
 
@@ -2542,7 +2568,7 @@ Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jc
 
 #### § 8.4. Eisen aan procedures en apparatuur
 
-#### Artikel 8.14. (procedures)
+##### Artikel 8.14. (procedures)
 
 1. De ondernemer draagt ervoor zorg dat:
 
@@ -2566,7 +2592,7 @@ Onverminderd [artikel 8.7, derde lid, onderdeel b](https://wetten.overheid.nl/jc
 
 4. Na de klinische audit, bedoeld in het eerste lid, onderdeel d, worden, indien nodig, de betreffende handelingen gewijzigd of worden nieuwe normen toegepast.
 
-#### Artikel 8.15. (apparatuur)
+##### Artikel 8.15. (apparatuur)
 
 De ondernemer draagt ervoor zorg dat:
 
@@ -2590,7 +2616,7 @@ De ondernemer draagt ervoor zorg dat:
 
 - j. geen gebruik gemaakt wordt van fluoroscopie-apparatuur zonder voorziening voor de automatische regeling van het dosistempo of zonder beeldversterker, dan wel van een soortgelijk toestel.
 
-#### Artikel 8.16. (apparatuur in bijzondere gevallen)
+##### Artikel 8.16. (apparatuur in bijzondere gevallen)
 
 1. De ondernemer draagt ervoor zorg dat passende medisch-radiologische apparatuur, technieken en randapparatuur worden gebruikt voor medische blootstellingen:
 
@@ -2602,7 +2628,7 @@ De ondernemer draagt ervoor zorg dat:
 
 2. Bij de blootstellingen, bedoeld in het eerste lid, wordt bijzondere aandacht besteed aan de programma’s voor kwaliteitsborging en de evaluatie of verificatie van doses en toegediende hoeveelheden activiteit voor deze handelingen.
 
-#### Artikel 8.17. (verspreiding medisch-radiologische apparatuur)
+##### Artikel 8.17. (verspreiding medisch-radiologische apparatuur)
 
 Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodige verspreiding van medisch-radiologische apparatuur te voorkomen.
 
@@ -2612,7 +2638,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 #### § 9.1.1. Dosislimieten
 
-#### Artikel 9.1. (dosislimieten leden van de bevolking)
+##### Artikel 9.1. (dosislimieten leden van de bevolking)
 
 1. Dosislimieten voor blootstelling van leden van de bevolking als bedoeld in het tweede of derde lid hebben betrekking op de som van de jaarlijkse blootstellingen van een lid van de bevolking ten gevolge van alle ingevolge dit besluit toegestane handelingen.
 
@@ -2628,7 +2654,7 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 5. Dit artikel is niet van toepassing ten aanzien van personen, voor zover zij hulp en bijstand verlenen als bedoeld in [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.3&artikel=7.37&z=2025-01-01&g=2025-01-01) of [9.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.2&artikel=9.9&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 9.2. (verplichtingen ondernemer, dosislimiet leden van de bevolking)
+##### Artikel 9.2. (verplichtingen ondernemer, dosislimiet leden van de bevolking)
 
 1. De ondernemer zorgt ervoor dat voor een lid van de bevolking als gevolg van handelingen als bedoeld in [artikel 9.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&afdeling=9.1&paragraaf=9.1.1&artikel=9.1&z=2025-01-01&g=2025-01-01), die onder zijn verantwoordelijkheid worden verricht, op enig punt buiten de locatie ten gevolge van die handelingen een effectieve dosis van 0,1 millisievert in een kalenderjaar niet wordt overschreden.
 
@@ -2638,21 +2664,21 @@ Onze Minister van Volksgezondheid, Welzijn en Sport kan regels stellen om onnodi
 
 #### § 9.1.2. Dosisbeperkingen
 
-#### Artikel 9.3. (dosisbeperkingen geplande blootstelling leden van de bevolking, algemeen)
+##### Artikel 9.3. (dosisbeperkingen geplande blootstelling leden van de bevolking, algemeen)
 
 Dosisbeperkingen voor blootstelling van leden van de bevolking zijn in overeenstemming met de dosislimiet voor de som van de doses voor eenzelfde persoon uit alle ingevolge dit besluit toegestane handelingen.
 
-#### Artikel 9.4. (optimalisatie, dosisbeperkingen buiten een locatie)
+##### Artikel 9.4. (optimalisatie, dosisbeperkingen buiten een locatie)
 
 De ondernemer zorgt ervoor dat bij het verrichten van een handeling, behorend tot een categorie als genoemd in [artikel 3.10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.10&z=2025-01-01&g=2025-01-01), waarvoor een registratie is vereist, voor personen op enig punt buiten de locatie ten gevolge van die handelingen tezamen een dosisbeperking van 10 microsievert effectieve dosis in een kalenderjaar wordt gehanteerd.
 
-#### Artikel 9.5. (blootstelling leden van de bevolking, dosisbeperkingen in specifieke gevallen)
+##### Artikel 9.5. (blootstelling leden van de bevolking, dosisbeperkingen in specifieke gevallen)
 
 Met het oog op blootstelling van leden van de bevolking kunnen bij regeling van Onze Minister in overeenstemming met Onze Minister die het mede aangaat voor specifieke gevallen dosisbeperkingen worden vastgesteld voor de individuele dosis die leden van de bevolking ontvangen uit het geplande gebruik van bij die regeling aangewezen stralingsbronnen.
 
 #### § 9.1.3. Bescherming onder normale omstandigheden
 
-#### Artikel 9.6. (algemene zorgplichten ondernemer t.a.v. de bevolking en het milieu en advisering door de stralingsbeschermingsdeskundige)
+##### Artikel 9.6. (algemene zorgplichten ondernemer t.a.v. de bevolking en het milieu en advisering door de stralingsbeschermingsdeskundige)
 
 Een ondernemer zorgt voor:
 
@@ -2664,7 +2690,7 @@ Een ondernemer zorgt voor:
 
 - d. advisering door de stralingsbeschermingsdeskundige bij de uitvoering van de in de onderdelen a tot en met c bedoelde verplichtingen.
 
-#### Artikel 9.7. (raming van de door leden van de bevolking ontvangen doses)
+##### Artikel 9.7. (raming van de door leden van de bevolking ontvangen doses)
 
 1. De ondernemer zorgt ervoor dat in omstandigheden waar een lid van de bevolking als gevolg van handelingen, die onder zijn verantwoordelijkheid worden verricht, aan besmetting of ioniserende straling binnen of buiten de locatie kan worden blootgesteld, voor de daarvoor in aanmerking komende plaatsen ramingen van de effectieve of equivalente doses worden gemaakt, met inachtneming van [artikel 4.29](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.5&artikel=4.29&z=2025-01-01&g=2025-01-01), en zo nodig metingen worden verricht.
 
@@ -2676,7 +2702,7 @@ Een ondernemer zorgt voor:
 
 ### Afdeling 9.2. Blootstelling van de leden van de bevolking in radiologische noodsituaties
 
-#### Artikel 9.8. (referentieniveaus in een radiologische noodsituatie en in een transitie van een radiologische noodsituatie naar een bestaande blootstellingsituatie)
+##### Artikel 9.8. (referentieniveaus in een radiologische noodsituatie en in een transitie van een radiologische noodsituatie naar een bestaande blootstellingsituatie)
 
 1. Bij regeling van Onze Minister worden:
 
@@ -2698,13 +2724,13 @@ Een ondernemer zorgt voor:
 
 - c. in geval van blootstelling hoger dan 20 millisievert maar lager dan of gelijk aan 100 millisievert in een jaar: een raming van individuele doses en specifieke informatievoorziening over stralingsrisico’s en beschikbare maatregelen om blootstelling te beperken.
 
-#### Artikel 9.9. (dosislimieten en referentieniveaus blootstelling hulpverleners, niet zijnde werknemers, bij interventie in een radiologische noodsituatie)
+##### Artikel 9.9. (dosislimieten en referentieniveaus blootstelling hulpverleners, niet zijnde werknemers, bij interventie in een radiologische noodsituatie)
 
 In geval van interventie in een radiologische noodsituatie is [artikel 7.37](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.3&artikel=7.37&z=2025-01-01&g=2025-01-01) van overeenkomstige toepassing op hulpverleners, niet zijnde werknemers die als hulpverlener optreden als bedoeld in dat artikel.
 
 ### Afdeling 9.3. Blootstelling van leden van de bevolking in bestaande blootstellingsituaties
 
-#### Artikel 9.10. (referentieniveaus in bestaande blootstellingsituaties)
+##### Artikel 9.10. (referentieniveaus in bestaande blootstellingsituaties)
 
 1. Bij regeling van Onze Minister worden een of meer referentieniveaus vastgesteld voor blootstelling van leden van de bevolking in een bestaande blootstellingsituatie.
 
@@ -2730,7 +2756,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 #### § 10.1. Nationaal programma beheer radioactieve afvalstoffen
 
-#### Artikel 10.1. (nationaal programma beheer radioactieve afvalstoffen)
+##### Artikel 10.1. (nationaal programma beheer radioactieve afvalstoffen)
 
 1. Onze Minister stelt een programma voor het beheer van radioactieve afvalstoffen vast als bedoeld in artikel 5, eerste lid, onderdeel a, van [richtlijn 2011/70](32011L0070)/Euratom.
 
@@ -2776,7 +2802,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 #### § 10.2. Zich ontdoen van radioactieve afvalstoffen
 
-#### Artikel 10.2. (zorgplicht ondernemer)
+##### Artikel 10.2. (zorgplicht ondernemer)
 
 1. De ondernemer die een handeling verricht, zorgt ervoor dat, zoveel als redelijkerwijs mogelijk is:
 
@@ -2792,7 +2818,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 3. De ondernemer zorgt er voor dat een handeling zoveel als mogelijk wordt verricht op een wijze waarbij blootstelling van werknemers en de bevolking wordt vermeden.
 
-#### Artikel 10.3. (vrijstelling verbod lozingen)
+##### Artikel 10.3. (vrijstelling verbod lozingen)
 
 1. Een verbod als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) in samenhang met [artikel 3.8, vierde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), op het handelen zonder vergunning waarbij door de lucht verspreide of vloeibare radioactieve stoffen in de omgeving vrijkomen, is niet van toepassing indien:
 
@@ -2804,7 +2830,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 2. De geloosde hoeveelheden, uitgedrukt in radiotoxiciteitsequivalenten, worden gecorrigeerd voor fysisch verval door middel van de correctiefactoren zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 10.4. (vrijstelling verbod lozingen)
+##### Artikel 10.4. (vrijstelling verbod lozingen)
 
 1. In afwijking van [artikel 10.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.3&z=2025-01-01&g=2025-01-01) is het in het eerste lid van dat artikel bedoelde verbod niet van toepassing indien:
 
@@ -2816,7 +2842,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 3. Bij regeling van Onze Minister kunnen, indien het belang van de stralingsbescherming zich daar niet tegen verzet, voor andere radionucliden dan bedoeld in het eerste lid, onder b, vrijgavewaarden worden vastgesteld en kunnen daarmee verbonden regels worden vastgesteld.
 
-#### Artikel 10.5. (lozingsverbod bodem)
+##### Artikel 10.5. (lozingsverbod bodem)
 
 1. Het is verboden radioactieve stoffen te lozen op of in de bodem.
 
@@ -2826,7 +2852,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 4. De geloosde hoeveelheden, uitgedrukt in radiotoxiciteitsequivalenten, worden gecorrigeerd voor fysisch verval door middel van de correctiefactoren zoals aangegeven in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=2&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 10.6. (vrijstellingen verbod zich te ontdoen, overigens)
+##### Artikel 10.6. (vrijstellingen verbod zich te ontdoen, overigens)
 
 1. Een verbod als bedoeld in [artikel 3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) in samenhang met [artikel 3.8, vierde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01), om zich zonder vergunning te ontdoen van radioactieve stoffen voor product- of materiaalhergebruik of als radioactieve afvalstof, is niet van toepassing indien de activiteitsconcentratie van die stof of afvalstof lager is dan de desbetreffende bij of krachtens [artikel 3.20](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.20&z=2025-01-01&g=2025-01-01) of [3.21](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.3&paragraaf=3.3.2&artikel=3.21&z=2025-01-01&g=2025-01-01) vastgestelde vrijgavewaarde.
 
@@ -2850,7 +2876,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 9. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een aanwijzing als bedoeld in het vijfde of zevende lid en de aanvraag om een erkenning als bedoeld in het zesde lid.
 
-#### Artikel 10.7. (aanmerken radioactieve stof als afvalstof)
+##### Artikel 10.7. (aanmerken radioactieve stof als afvalstof)
 
 1. Een radioactieve stof kan door de Autoriteit of de ondernemer als radioactieve afvalstof worden aangemerkt, indien voor deze stof geen gebruik of product- of materiaalhergebruik is voorzien door de Autoriteit of door de ondernemer en er geen sprake is van lozing van de stof.
 
@@ -2868,7 +2894,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 #### § 10.3. Zich ontdoen van bronnen
 
-#### Artikel 10.8. (zich ontdoen van bronnen)
+##### Artikel 10.8. (zich ontdoen van bronnen)
 
 1. In gevallen behorend tot een bij regeling van Onze Minister aangewezen categorie zorgt de ondernemer voor een beëindigingsplan waarin wordt beschreven welke voorzieningen met betrekking tot de beëindiging van het gebruik en het zich ontdoen van de bron zijn getroffen, waaronder in elk geval financiële voorzieningen.
 
@@ -2888,7 +2914,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 - c. indien de bron een toestel of versneller betreft, binnen twee jaar na die beëindiging het desbetreffende toestel of de versneller wordt verschroot, met uitzondering van de onderdelen van de versneller waarin zich radioactieve stoffen bevinden die door activering zijn ontstaan vanwege het gebruik van de versneller.
 
-#### Artikel 10.9. (zich ontdoen van hoogactieve bronnen)
+##### Artikel 10.9. (zich ontdoen van hoogactieve bronnen)
 
 1. In afwijking van [artikel 10.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.3&artikel=10.8&z=2025-01-01&g=2025-01-01) zendt een ondernemer een niet meer in gebruik zijnde hoogactieve bron, tenzij dit anders met de Autoriteit is overeengekomen, overeenkomstig [artikel 3.15, eerste lid, aanhef en onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.5&artikel=3.15&z=2025-01-01&g=2025-01-01), onmiddellijk na beëindiging van het gebruik naar:
 
@@ -2902,7 +2928,7 @@ In geval van interventie in een radiologische noodsituatie is [artikel 7.37](htt
 
 #### § 10.4. Kosten beheer radioactieve afvalstoffen
 
-#### Artikel 10.10. (kosten beheer radioactieve afvalstoffen)
+##### Artikel 10.10. (kosten beheer radioactieve afvalstoffen)
 
 De vergunninghouder die op grond van [artikel 10.6, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.2&artikel=10.6&z=2025-01-01&g=2025-01-01), door de Autoriteit is aangewezen, stelt de kosten, die hij in rekening brengt voor het in werking houden van een installatie en voor het beheer van radioactieve afvalstoffen, vast op een transparante, objectieve en niet-discriminerende wijze. Tot de kosten behoren ook de kosten die de vergunninghouder maakt voor onderzoek en ontwikkeling voor het beheer van radioactieve afvalstoffen, zoals dit in het nationaal programma, bedoeld in [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2025-01-01&g=2025-01-01), is opgenomen.
 
@@ -2910,7 +2936,7 @@ De vergunninghouder die op grond van [artikel 10.6, zevende lid](https://wetten.
 
 #### § 11.1. Openbare voorbereidingsprocedure
 
-#### Artikel 11.1. (voorbereidingsprocedure vergunningplichtige handelingen met versnellers)
+##### Artikel 11.1. (voorbereidingsprocedure vergunningplichtige handelingen met versnellers)
 
 [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn van toepassing op de voorbereiding van een beschikking op een aanvraag om vergunning voor een handeling met een versneller, tenzij:
 
@@ -2922,7 +2948,7 @@ De vergunninghouder die op grond van [artikel 10.6, zevende lid](https://wetten.
 
 - d. al eerder een vergunning voor een toestel van hetzelfde type met betrekking tot dezelfde plaats is verleend en naar het oordeel van de Autoriteit niet te verwachten is dat door gebruikmaking van de gevraagde vergunning meer schade kan ontstaan dan bij de eerder verleende vergunning in aanmerking is genomen.
 
-#### Artikel 11.2. (uitzonderingen voor bepaalde handelingen)
+##### Artikel 11.2. (uitzonderingen voor bepaalde handelingen)
 
 1. [Afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) en [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) zijn niet van toepassing op de voorbereiding van een beschikking op een aanvraag om een vergunning voor een handeling behorend tot een in [artikel 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.8&z=2025-01-01&g=2025-01-01) genoemde categorie, indien het betreft:
 
@@ -2936,7 +2962,7 @@ De vergunninghouder die op grond van [artikel 10.6, zevende lid](https://wetten.
 
 - b. de ingekapselde bron zich bevindt op steeds wisselende locaties, en naar het oordeel van de Autoriteit het belang van de toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4), alsmede [afdeling 13.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&afdeling=13.2) niet opweegt tegen de daaraan verbonden bezwaren.
 
-#### Artikel 11.3. (voorbereidingsprocedure)
+##### Artikel 11.3. (voorbereidingsprocedure)
 
 1. Indien op de voorbereiding van een beschikking ter zake van een aanvraag om een vergunning voor het verrichten van een handeling met radioactieve stoffen [afdeling 3.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.4) van toepassing is, worden betrokken:
 
@@ -2950,19 +2976,19 @@ De vergunninghouder die op grond van [artikel 10.6, zevende lid](https://wetten.
 
 #### § 11.2. Reguliere voorbereidingsprocedure
 
-#### Artikel 11.4. (registratie)
+##### Artikel 11.4. (registratie)
 
 [Titel 4.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.1) is van toepassing op de voorbereiding van een beschikking op de aanvraag om een registratie.
 
 #### § 11.3. Geen positieve fictieve beschikking
 
-#### Artikel 11.5. (geen positieve fictieve beschikking)
+##### Artikel 11.5. (geen positieve fictieve beschikking)
 
 Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op de aanvraag om een vergunning of registratie.
 
 #### § 11.4. Nadere eisen en ontheffingen
 
-#### Artikel 11.6. (nadere eisen)
+##### Artikel 11.6. (nadere eisen)
 
 1. Degene die handelingen verricht voldoet aan nadere eisen ter zake van de bij of krachtens dit besluit gestelde regels.
 
@@ -2984,7 +3010,7 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 4. Nadere eisen die zowel de in het tweede als in het derde lid bedoelde belangen betreffen, worden gesteld door de in die leden genoemde bestuursorganen gezamenlijk.
 
-#### Artikel 11.7. (ontheffing)
+##### Artikel 11.7. (ontheffing)
 
 1. In bijzondere gevallen kan Onze Minister, Onze Minister van Sociale Zaken en Werkgelegenheid, Onze Minister van Volksgezondheid, Welzijn en Sport, de Autoriteit, Onze Minister van Defensie indien het de krijgsmacht betreft, of Onze Minister van Economische Zaken indien het mijnbouw betreft, ontheffing verlenen van het bepaalde bij of krachtens [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&z=2025-01-01&g=2025-01-01), voor zover betrekking hebbend op blootstelling aan natuurlijke bronnen, of [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&z=2025-01-01&g=2025-01-01), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=5&z=2025-01-01&g=2025-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&z=2025-01-01&g=2025-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&z=2025-01-01&g=2025-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=9&z=2025-01-01&g=2025-01-01) of [10](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&z=2025-01-01&g=2025-01-01).
 
@@ -2996,19 +3022,19 @@ Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet
 
 ### Afdeling 12.1. Intrekking
 
-#### Artikel 12.1
+##### Artikel 12.1
 
 Het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702) wordt ingetrokken.
 
 ### Afdeling 12.2. Overgangsbepalingen
 
-#### Artikel 12.2. (overgangsrecht [hoofdstuk 2 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=2))
+##### Artikel 12.2. (overgangsrecht [hoofdstuk 2 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=2))
 
 1. Een onmiddellijk voor het tijdstip van inwerkingtreding van dit besluit krachtens [artikel 4, eerste en tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) als gerechtvaardigd aangewezen, bestaande handeling of maatregel, die met ingang van dat tijdstip niet langer krachtens [artikel 2.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), generiek als gerechtvaardigd is aangewezen, mag tot 1 januari 2019 worden voortgezet.
 
 2. Een op het tijdstip van inwerkingtreding van dit besluit krachtens [artikel 4, zevende lid, eerste volzin, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=4) als gerechtvaardigd aangewezen handeling of maatregel geldt met ingang van dat tijdstip als een krachtens [artikel 2.3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=2&paragraaf=2.2&artikel=2.3&z=2025-01-01&g=2025-01-01), gerechtvaardigde handeling of maatregel.
 
-#### Artikel 12.3. (overgangsrecht [hoofdstuk 3 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3))
+##### Artikel 12.3. (overgangsrecht [hoofdstuk 3 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit:
 
@@ -3052,11 +3078,11 @@ Het [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR00127
 
 10. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden de documentatie en instructies als bedoeld in [artikel 15, derde en vijfde lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=15), als documentatie en instructies als bedoeld in [artikel 4.14](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=4&afdeling=4.3&paragraaf=4.3.3&artikel=4.14&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.4. (overgangsrecht [hoofdstuk 3a Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3a))
+##### Artikel 12.4. (overgangsrecht [hoofdstuk 3a Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=3a))
 
 Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het programma, bedoeld in [artikel 20h van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=20h), voor zover op dat artikel berustend, op [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=10&paragraaf=10.1&artikel=10.1&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.5. (overgangsrecht [hoofdstuk 4 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=4))
+##### Artikel 12.5. (overgangsrecht [hoofdstuk 4 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=4))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een melding krachtens [artikel 21 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=21) als een kennisgeving krachtens [artikel 3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.4&artikel=3.11&z=2025-01-01&g=2025-01-01), tenzij [artikel 12.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&artikel=12.11&z=2025-01-01&g=2025-01-01) van toepassing is.
 
@@ -3098,7 +3124,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 12. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een oordeel van Onze Minister als bedoeld in [artikel 45, onderdelen c en d, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=45) als oordeel als bedoeld in [artikel 11.1, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.1&artikel=11.1&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.6. (overgangsrecht [hoofdstuk 6 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=6))
+##### Artikel 12.6. (overgangsrecht [hoofdstuk 6 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=6))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden protocollen als bedoeld in [artikel 65 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=65) als protocollen als bedoeld in [artikel 8.14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.4&artikel=8.14&z=2025-01-01&g=2025-01-01).
 
@@ -3106,7 +3132,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 3. De eisen aan de apparatuur, bedoeld in [artikel 8.15, onderdelen f en g](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=8&paragraaf=8.4&artikel=8.15&z=2025-01-01&g=2025-01-01), en de eis aan voor interventieradiologie en computertomografie gebruikte apparatuur om de informatie, bedoeld in artikel 8.15, onderdeel h, overeenkomstig dat onderdeel door te sturen naar het onderzoeksdossier, zijn niet van toepassing op apparatuur die is geïnstalleerd voor het tijdstip van inwerkingtreding van dit besluit.
 
-#### Artikel 12.7. (overgangsrecht [hoofdstuk 7 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=7))
+##### Artikel 12.7. (overgangsrecht [hoofdstuk 7 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=7))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een indeling als bedoeld in [artikel 79, eerste lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=79) als een indeling als bedoeld in [artikel 7.11](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.11&z=2025-01-01&g=2025-01-01).
 
@@ -3122,7 +3148,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 - b. geldt een aanwijzing van een instelling als bedoeld in [artikel 91, tweede lid, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=91) als een aanwijzing als bedoeld in [artikel 7.17, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.3&artikel=7.17&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.8. (overgangsrecht [hoofdstuk 8 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=8))
+##### Artikel 12.8. (overgangsrecht [hoofdstuk 8 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=8))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een werkzaamheid als bedoeld in [artikel 101 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=101) als een handeling met natuurlijke bronnen als bedoeld in [artikel 1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=1&artikel=1.2&z=2025-01-01&g=2025-01-01) juncto [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&bijlage=1&z=2025-01-01&g=2025-01-01).
 
@@ -3142,19 +3168,19 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 7. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een methode als bedoeld in [artikel 111, onderdeel b, van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=111) als een methode als bedoeld in [artikel 7.5, tweede lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=7&afdeling=7.1&paragraaf=7.1.1&artikel=7.5&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.9. (overgangsrecht [hoofdstuk 9 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=9))
+##### Artikel 12.9. (overgangsrecht [hoofdstuk 9 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=9))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een team als bedoeld in [artikel 113 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=113) als een voorziening als bedoeld in [artikel 6.12](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.4&artikel=6.12&z=2025-01-01&g=2025-01-01).
 
 2. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een krachtens een vergunning vereist noodplan als een bedrijfsnoodplan als bedoeld in [artikel 6.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.7&z=2025-01-01&g=2025-01-01) en een interventieplan als bedoeld in [artikel 115 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=115) als het onderdeel «interventies» van een bedrijfsnoodplan, vereist krachtens [artikel 6.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=6&afdeling=6.1&paragraaf=6.1.3&artikel=6.8&z=2025-01-01&g=2025-01-01), voor zover aan de daarop betrekking hebbende eisen wordt voldaan.
 
-#### Artikel 12.10. (overgangsrecht [hoofdstuk 10 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=10))
+##### Artikel 12.10. (overgangsrecht [hoofdstuk 10 Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&hoofdstuk=10))
 
 1. Met ingang van het tijdstip van inwerkingtreding van dit besluit gelden nadere eisen als bedoeld in [artikel 122 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=122) als nadere eisen als bedoeld in [artikel 11.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.4&artikel=11.6&z=2025-01-01&g=2025-01-01).
 
 2. Met ingang van het tijdstip van inwerkingtreding van dit besluit geldt een ontheffing als bedoeld in [artikel 123 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=123) als een ontheffing als bedoeld in [artikel 11.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=11&paragraaf=11.4&artikel=11.7&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 12.11. (overig overgangsrecht [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702))
+##### Artikel 12.11. (overig overgangsrecht [Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702))
 
 1. Ten aanzien van een handeling die ingevolge [artikel 21 van het Besluit stralingsbescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0012702&artikel=21) meldingsplichtig was en die ingevolge [3.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.2&artikel=3.5&z=2025-01-01&g=2025-01-01) vergunningplichtig of ingevolge [artikel 3.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.3&artikel=3.9&z=2025-01-01&g=2025-01-01) registratieplichtig wordt, wordt binnen twee jaar na de inwerkingtreding van dit besluit een daartoe strekkende aanvraag ingediend. Tot het tijdstip waarop de beslissing op de aanvraag onherroepelijk van kracht is geworden geldt de melding als tijdelijke vergunning of tijdelijke registratie.
 
@@ -3166,49 +3192,49 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit berust het prog
 
 ### Afdeling 13.1. Wijziging overige besluiten
 
-#### Artikel 13.1. (wijziging [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
+##### Artikel 13.1. (wijziging [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
 
 Wijzigt het Besluit kerninstallaties, splijtstoffen en ertsen.
 
-#### Artikel 13.2. (wijziging [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
+##### Artikel 13.2. (wijziging [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
 
 Wijzigt het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen.
 
-#### Artikel 13.3. (wijziging [Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
+##### Artikel 13.3. (wijziging [Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
 
 Wijzigt het Besluit in- uit- en doorvoer van radioactieve afvalstoffen en bestraalde splijtstoffen.
 
-#### Artikel 13.4. (wijziging [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
+##### Artikel 13.4. (wijziging [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
 
 Wijzigt het Vrijstellingsbesluit defensie Kernenergiewet.
 
-#### Artikel 13.5. (wijziging [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel 13.5. (wijziging [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
 
 Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.
 
-#### Artikel 13.6. (wijziging [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
+##### Artikel 13.6. (wijziging [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
 
 Wijzigt het Geheimhoudingsbesluit Kernenergiewet.
 
-#### Artikel 13.7. (wijziging [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
+##### Artikel 13.7. (wijziging [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
 
 Wijzigt het Besluit vergoedingen Kernenergiewet.
 
-#### Artikel 13.8. (wijziging [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
+##### Artikel 13.8. (wijziging [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
 
 Wijzigt het Besluit OM-afdoening.
 
-#### Artikel 13.9. (wijziging [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
+##### Artikel 13.9. (wijziging [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
 
 Wijzigt het Besluit detectie radioactief besmet schroot.
 
 ### Afdeling 13.2. Overgangsbepalingen overige besluiten
 
-#### Artikel 13.10. (overgangsbepalingen [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
+##### Artikel 13.10. (overgangsbepalingen [Besluit kerninstallaties, splijtstoffen en ertsen](https://wetten.overheid.nl/jci1.3:c:BWBR0002667))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.1](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.1&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.11. (overgangsbepalingen [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
+##### Artikel 13.11. (overgangsbepalingen [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0002668))
 
 1. Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.2&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
@@ -3216,49 +3242,49 @@ Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&ho
 
 3. Een jaarkennisgeving als bedoeld in het tweede lid vervalt van rechtswege op het tijdstip waarop de globale kennisgeving, waarvan het de voortzetting is, zou zijn vervallen.
 
-#### Artikel 13.12. (overgangsbepalingen [Besluit in- uit- en doorvoer van radioactieve stoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
+##### Artikel 13.12. (overgangsbepalingen [Besluit in- uit- en doorvoer van radioactieve stoffen en bestraalde splijtstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0025680))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.3](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.3&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.13. (overgangsbepalingen [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
+##### Artikel 13.13. (overgangsbepalingen [Vrijstellingsbesluit defensie Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0013888))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.4&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.14. (overgangsbepalingen [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
+##### Artikel 13.14. (overgangsbepalingen [Besluit stortplaatsen en stortverboden afvalstoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0009094))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.5](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.5&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of van overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.15. (overgangsbepalingen [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
+##### Artikel 13.15. (overgangsbepalingen [Geheimhoudingsbesluit Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002768))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.6&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of van overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.16. (overgangsbepalingen [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
+##### Artikel 13.16. (overgangsbepalingen [Besluit vergoedingen Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0034271))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.7](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.7&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.17. (overgangsbepalingen [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
+##### Artikel 13.17. (overgangsbepalingen [Besluit OM afdoening](https://wetten.overheid.nl/jci1.3:c:BWBR0022233))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.8](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.8&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
-#### Artikel 13.18. (overgangsbepalingen [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
+##### Artikel 13.18. (overgangsbepalingen [Besluit detectie radioactief besmet schroot](https://wetten.overheid.nl/jci1.3:c:BWBR0014106))
 
 Indien een in [afdeling 12.2](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=12&afdeling=12.2&z=2025-01-01&g=2025-01-01) opgenomen overgangsrechtelijke bepaling een verwijzing bevat naar een bepaling van dit besluit waarnaar in [artikel 13.9](https://wetten.overheid.nl/jci1.3:c:BWBR0040179&hoofdstuk=13&afdeling=13.1&artikel=13.9&z=2025-01-01&g=2025-01-01) wordt verwezen of die in dat artikel van toepassing of overeenkomstige toepassing wordt verklaard, is de desbetreffende overgangsrechtelijke bepaling van afdeling 12.2 van overeenkomstige toepassing.
 
 ### Hoofdstuk 14. Slotbepalingen
 
-#### Artikel 14.1. (tijdelijke regeling)
+##### Artikel 14.1. (tijdelijke regeling)
 
 Indien dit in het belang van de bescherming tegen ioniserende straling naar het oordeel van Onze Minister en Onze Minister van Sociale Zaken en Werkgelegenheid dringend noodzakelijk is en naar hun oordeel een wijziging van dit besluit niet kan worden afgewacht, kunnen bij regeling van Onze genoemde Ministers regels worden gesteld, die van dit besluit afwijken maar met een strekking als bedoeld in dit besluit. Een zodanige regeling vervalt een jaar nadat zij in werking is getreden, of, indien binnen die termijn een wijziging van de betrokken bepaling van dit besluit in werking is getreden, op het tijdstip waarop die wijziging in werking treedt. Onze genoemde Ministers kunnen de termijn bij ministeriële regeling eenmaal met ten hoogste een jaar verlengen.
 
-#### Artikel 14.2. (wijzigingsbepaling)
+##### Artikel 14.2. (wijzigingsbepaling)
 
 Een wijziging van [richtlijn 2013/59](32013L0059)/Euratom gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 14.3. (inwerkingtreding)
+##### Artikel 14.3. (inwerkingtreding)
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 14.4. (citeertitel)
+##### Artikel 14.4. (citeertitel)
 
 Dit besluit wordt aangehaald als: Besluit basisveiligheidsnormen stralingsbescherming.
 

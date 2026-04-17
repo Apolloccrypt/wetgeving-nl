@@ -1,13 +1,39 @@
 ---
-title: "Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 oktober 2017, nr. HO&S/1180908, houdende instelling van de Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef (Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef)"
 identifier: "BWBR0040133"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040133"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040133"
+soort: "ministeriele-regeling"
+stam_id: "14327243"
+version_id: "24546392"
+internal_id: "C35374691"
+label_id: "14287684"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040133/2020-01-01/0"
+intitule_bron: "Stcrt.2017-61996"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-10-20"
+intitule_published: "2017-11-01"
+intitule_in_force: "2017-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-61996"
+original_signed_date: "2017-10-20"
+original_published_date: "2017-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2017-61996"
+entry_into_force_date: "2018-01-01"
+jci_1_3: "jci1.3:c:BWBR0040133&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0040133&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef"
+signed_date: "2017-10-20"
+entry_into_force: "2018-01-01"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 oktober 2017, nr. HO&S/1180908, houdende instelling van de Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef (Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef)
 
 Gelet op [artikel 6.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=6.11);
@@ -16,7 +42,7 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de onderdelen D, M, subonderdeel 2, en N, subonderdeel 1, van artikel I van de Wet invoering associate degree-opleiding in werking treden.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - e. **instelling:** instelling voor hoger onderwijs in de zin van de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 2. Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef
+##### Artikel 2. Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef
 
 1. Er is een Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef.
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 3. De commissie adviseert uitsluitend op verzoek van de minister.
 
-#### Artikel 3. Samenstelling, benoeming, schorsing en ontslag
+##### Artikel 3. Samenstelling, benoeming, schorsing en ontslag
 
 1. De commissie bestaat uit een voorzitter en twee andere leden.
 
@@ -56,7 +82,7 @@ In deze regeling wordt verstaan onder:
 
 8. Indien een commissielid zich in verband met belangenverstrengeling tijdelijk van zijn taak dient te verschonen, benoemt de minister in zijn plaats een tijdelijk lid met inachtneming van het bepaalde in [artikel 3, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=3&z=2020-01-01&g=2020-01-01). Deze tijdelijke benoeming behoeft de instemming van de overige leden van de commissie.
 
-#### Artikel 4. Commissieleden
+##### Artikel 4. Commissieleden
 
 Tot lid van de commissie worden benoemd:
 
@@ -66,13 +92,13 @@ Tot lid van de commissie worden benoemd:
 
 - c. mevrouw prof. mr. Miek Laemers.
 
-#### Artikel 5. Secretariaat
+##### Artikel 5. Secretariaat
 
 1. Het secretariaat van de commissie wordt ondergebracht bij de Dienst Uitvoering Onderwijs.
 
 2. De Dienst Uitvoering Onderwijs draagt er zorg voor dat het secretariaat haar werkzaamheden functioneel onafhankelijk kan verrichten.
 
-#### Artikel 6. Werkwijze
+##### Artikel 6. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast, met inachtneming van dit besluit.
 
@@ -86,11 +112,11 @@ Tot lid van de commissie worden benoemd:
 
 6. De commissie kan de in lid 5 genoemde termijn met maximaal drie maanden verlengen, indien de bij de advisering te betrachten zorgvuldigheid daartoe noopt.
 
-#### Artikel 7. Informatieplicht
+##### Artikel 7. Informatieplicht
 
 De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichtingen.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en hiermee niet het in [artikel 6, eerste lid, van het Besluit vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0025279&artikel=6) bedoelde maximumbedrag overschrijden.
 
@@ -102,7 +128,7 @@ De commissie verstrekt aan de minister desgevraagd de door hem gewenste inlichti
 
 5. De voorzitter en de andere leden ontvangen een vergoeding van reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor rijksambtenaren. Deze vergoeding wordt door het secretariaat van de commissie afgehandeld.
 
-#### Artikel 9. Kosten van de commissie
+##### Artikel 9. Kosten van de commissie
 
 De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de minister. Onder kosten worden in ieder geval verstaan:
 
@@ -110,19 +136,19 @@ De kosten van de commissie komen, voor zover goedgekeurd, voor rekening van de m
 
 - b. de kosten voor het inschakelen van externe deskundigheid als bedoeld in [artikel 6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040133&artikel=6&z=2020-01-01&g=2020-01-01).
 
-#### Artikel 10. Openbaarmaking
+##### Artikel 10. Openbaarmaking
 
 Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de minister uitgebracht of overgedragen.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop de onderdelen D, M, tweede lid en N, eerste lid, van artikel I van de Wet van 8 maart 2017 tot wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, de Wet op het onderwijstoezicht en het Wetboek van Strafrecht, in verband met het tegengaan van misleidend gebruik van de naam universiteit en hogeschool, het onterecht verlenen en voeren van graden, alsmede het bevorderen van maatschappelijk verantwoordelijkheidsbesef door rpho’s (bescherming namen en graden hoger onderwijs) in werking treden.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Commissie beoordeling uitingen maatschappelijk verantwoordelijkheidsbesef.
 

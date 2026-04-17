@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Ethische Commissie Dansen"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48056382, houdende instelling van de Ethische Commissie Dansen (Instellingsbesluit Ethische Commissie Dansen)"
 identifier: "BWBR0050306"
-categorie: "Overig"
-publicatiedatum: 2024-10-23
-laatste_update: 2024-10-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050306"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-10-23"
+last_updated: "2024-10-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050306"
+soort: "ministeriele-regeling"
+stam_id: "17243273"
+version_id: "30368602"
+internal_id: "C43553861"
+label_id: "17149084"
+dtd_version: "2.0"
+original_entry_into_force: "2024-10-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050306/2024-10-23/0"
+intitule_bron: "Stcrt.2024-34067"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-09-26"
+intitule_published: "2024-10-22"
+intitule_in_force: "2024-10-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-34067"
+original_signed_date: "2024-09-26"
+original_published_date: "2024-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-34067"
+entry_into_force_date: "2024-10-23"
+jci_1_3: "jci1.3:c:BWBR0050306&z=2024-10-23&g=2024-10-23"
+jci_1_0: "1.0:c:BWBR0050306&g=2024-10-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Ethische Commissie Dansen"
+signed_date: "2024-09-26"
+entry_into_force: "2024-10-23"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap van 26 september 2024, nr. 2024-48056382, houdende instelling van de Ethische Commissie Dansen (Instellingsbesluit Ethische Commissie Dansen)
 
 Gelet op [artikel 2, eerste lid, van de van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 - j. **onderzoek Schaduwdansen:** “Schaduwdansen. Een onderzoek naar grensoverschrijdend gedrag in het dansen”.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een onafhankelijke Ethische Commissie Dansen.
 
@@ -54,7 +80,7 @@ In dit besluit wordt verstaan onder:
 
 - c. door de dg’s gevraagd advies geven op het gebied van ethiek en integriteit aan de alliantie en de dg’s rondom de uitvoering van de aanbevelingen uit het onderzoek Schaduwdansen. De commissie en partijen in de Alliantie (stuurgroep, expertgroepen of de Alliantie) kunnen de dg’s vragen om een adviesvraag neer te leggen bij de commissie. De dg’s reageren binnen twee weken op een dergelijk verzoek.
 
-#### Artikel 3. Samenstelling, benoeming, ontslag
+##### Artikel 3. Samenstelling, benoeming, ontslag
 
 1. De commissie bestaat uit drie tot vijf leden.
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 7. Wanneer uit feiten of omstandigheden blijkt dat een van de leden van de commissie zelf direct of indirect betrokkenheid heeft bij een adviesaanvraag dan zullen zij zich weerhouden van enige bemoeienis ten aanzien van de adviesaanvraag.
 
-#### Artikel 4. Leden
+##### Artikel 4. Leden
 
 1. Voor de instellingsduur worden tot lid van de commissie benoemd:
 
@@ -80,13 +106,13 @@ In dit besluit wordt verstaan onder:
 
 2. De leden vullen, alvorens tot lid te worden benoemd, een belangenverklaring in, conform het model zoals opgenomen in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0050306&bijlage=1&z=2024-10-23&g=2024-10-23) bij dit besluit.
 
-#### Artikel 5. Instellingsdatum
+##### Artikel 5. Instellingsdatum
 
 1. De commissie wordt ingesteld voor de duur van twee jaar, van 1 januari 2024 tot en met 31 december 2025.
 
 2. De minister kan, handelende in overeenstemming met de Staatssecretaris van Volksgezondheid, Welzijn en Sport, de instellingsduur van de commissie verlengen.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De commissie wordt ondersteund door een secretariaat.
 
@@ -96,13 +122,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het secretariaat is voor de inhoudelijke uitvoering van zijn taak uitsluitend verantwoording schuldig aan de leden van de commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De commissie stelt haar eigen werkwijze vast. De werkwijze van de commissie wordt gedeeld op de website van de alliantie.
 
 2. De commissie verstrekt desgevraagd aan de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport de voor de uitoefening van hun taak benodigde inlichtingen. Beide bewindspersonen kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
-#### Artikel 8. Vergoeding
+##### Artikel 8. Vergoeding
 
 1. Voor de periode vanaf 1 januari 2024 tot de datum van uitgifte van de Staatscourant ontvangen de leden van de commissie een vergoeding per vergadering.
 
@@ -114,7 +140,7 @@ De andere leden ontvangen, indien zij daarvan gebruik wensen te maken, en indien
 
 3. De deskundigen ontvangen, indien zij daarvan gebruik wensen te maken, en indien zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2), een vergoeding per vergadering van 2,31% van de hoogste trede van schaal 18 conform de laatstelijk afgesloten CAO Rijk.
 
-#### Artikel 9. Kosten van de Commissie
+##### Artikel 9. Kosten van de Commissie
 
 1. De kosten van de commissie worden, voor zover op basis van een goedgekeurde raming, gefinancierd door de minister.
 
@@ -124,15 +150,15 @@ De andere leden ontvangen, indien zij daarvan gebruik wensen te maken, en indien
 
 - b. de kosten voor het inschakelen van externe deskundigheid.
 
-#### Artikel 10. Archiefbescheiden
+##### Artikel 10. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden of, zo de omstandigheden daartoe aanleiding geven, zoveel eerder, de bescheiden betreffende die werkzaamheden over aan het archief van de Directie Erfgoed en Kunsten van het ministerie.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin het wordt geplaatst, en werkt daarbij terug tot 1 januari 2024.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Ethische Commissie Dansen.
 

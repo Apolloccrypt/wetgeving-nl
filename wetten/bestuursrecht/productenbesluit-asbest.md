@@ -1,13 +1,38 @@
 ---
-title: "Productenbesluit asbest"
+title: "Besluit van 17 december 2004, houdende regels betreffende asbest en asbesthoudende producten (Productenbesluit asbest)"
 identifier: "BWBR0017778"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017778"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017778"
+soort: "AMvB"
+stam_id: "6590763"
+version_id: "11431112"
+internal_id: "C15762421"
+label_id: "6579314"
+original_entry_into_force: "2005-03-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017778/2024-01-01/0"
+intitule_bron: "Stb.2005-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-17"
+intitule_published: "2005-01-11"
+intitule_in_force: "2005-03-03"
+intitule_status: "goed"
+original_publication: "Stb.2005-6"
+original_signed_date: "2004-12-17"
+original_published_date: "2005-01-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-6"
+entry_into_force_date: "2005-03-08"
+jci_1_3: "jci1.3:c:BWBR0017778&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0017778&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Productenbesluit asbest"
+signed_date: "2004-12-17"
+entry_into_force: "2005-03-08"
 ---
-
 # Besluit van 17 december 2004, houdende regels betreffende asbest en asbesthoudende producten (Productenbesluit asbest)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Staatssecretaris van Sociale Zaken en Werkgelegenheid en Onze Minister van Volksgezondheid, Welzijn en Sport van 6 juli 2004, nr. MJZ2004060995, Centrale Directie Juridische Zaken, Afdeling Wetgeving, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen en werkingssfeer
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. amfiboolasbest: vezelachtige silicaten: actinoliet, amosiet, anthofylliet, crocidoliet en tremoliet.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is niet van toepassing op:
 
@@ -52,7 +77,7 @@ Dit besluit is niet van toepassing op:
 
 - g. het tijdelijk uitnemen van grond als bedoeld in [artikel 4.1222a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1222a) of [4.1230a](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=4.1230a), tenzij aan die grond opzettelijk asbest is toegevoegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit is voorts niet van toepassing:
 
@@ -70,11 +95,11 @@ Dit besluit is niet van toepassing op:
 
 #### § 2. Regels met betrekking tot handelingen met asbest en asbesthoudende producten
 
-#### Artikel 4
+##### Artikel 4
 
 Het is verboden asbest of asbesthoudende producten te vervaardigen, in Nederland in te voeren, voorhanden te hebben, aan een ander ter beschikking te stellen, toe te passen of te bewerken.
 
-#### Artikel 5
+##### Artikel 5
 
 Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01), is niet van toepassing voorzover dit betrekking heeft op:
 
@@ -92,7 +117,7 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 - g. handelingen die betrekking hebben op het opruimen van asbest of een asbesthoudend product dat ten gevolge van een incident is vrijgekomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Handelingen als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=5&z=2024-01-01&g=2024-01-01) met asbest of asbesthoudende producten worden op een zodanige wijze verricht dat gevaren voor mens en milieu die door zodanige handelingen kunnen ontstaan, worden voorkomen.
 
@@ -100,7 +125,7 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 #### § 3. Regels met betrekking tot de aanduiding van asbesthoudende producten
 
-#### Artikel 7
+##### Artikel 7
 
 1. Asbesthoudende producten die in handelsvoorraden voorhanden zijn, aan een ander ter beschikking worden gesteld of worden toegepast, zijn voorzien van aanduidingen overeenkomstig de bijlage bij dit besluit.
 
@@ -108,49 +133,49 @@ Het verbod, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR00177
 
 #### § 4. Bijzondere regels op grond van de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346)
 
-#### Artikel 8
+##### Artikel 8
 
 Ter uitvoering van [artikel 16, tiende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) zijn de werkgever, de werknemer, de zelfstandige en de werkgever, bedoeld in [artikel 16, zevende lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) verplicht tot naleving van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 De handeling of het nalaten in strijd met het ter uitvoering van [artikel 16, derde lid, van de Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346&artikel=16) in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) bepaalde is een strafbaar feit.
 
 #### § 5. Wijziging regelgeving
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Asbest-verwijderingsbesluit.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 1. De krachtens [artikel 9.11 van het Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498&artikel=9.11), zoals dat artikel luidde op de dag voor de inwerkingtreding van dit besluit, verleende ontheffingen blijven, met inbegrip van de aan die ontheffingen verbonden voorschriften of beperkingen, van kracht tot en met het tijdstip waarvoor die ontheffingen zijn verleend.
 
 2. Ten aanzien van de ontheffingen, bedoeld in het eerste lid, is [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0017778&paragraaf=2&artikel=4&z=2024-01-01&g=2024-01-01) niet van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 Het [Warenwetbesluit asbest](https://wetten.overheid.nl/jci1.3:c:BWBR0006870) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor zover dit besluit berust op de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), berust dit besluit op de [artikelen 9.2.2.1](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1) en [9.2.3.2 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.3.2).
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Productenbesluit asbest.
 

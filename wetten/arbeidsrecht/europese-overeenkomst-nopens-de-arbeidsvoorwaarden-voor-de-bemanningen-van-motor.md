@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het internationale vervoer over de weg (AETR)"
 identifier: "BWBV0004455"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2022-04-23
-laatste_update: 2022-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004455"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-04-23"
+last_updated: "2022-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004455"
+soort: "verdrag"
+stam_id: "10004140753"
+version_id: "10004310132"
+internal_id: "C10006999251"
+label_id: "10004126344"
+dtd_version: "2.0"
+original_entry_into_force: "1978-08-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004455/2022-04-23/0"
+intitule_bron: "Trb.1972-97"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1972-08-28"
+intitule_in_force: "1978-09-18"
+intitule_status: "goed"
+original_publication: "Trb.1972-97"
+original_published_date: "1972-08-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1972-97"
+entry_into_force_date: "1978-08-16"
+jci_1_3: "jci1.3:c:BWBV0004455&z=2022-04-23&g=2022-04-23"
+jci_1_0: "1.0:c:BWBV0004455&g=2022-04-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-08-16"
 ---
-
 # Europese Overeenkomst nopens de arbeidsvoorwaarden voor de bemanningen van motorrijtuigen in het internationale vervoer over de weg (AETR)
 
 De Overeenkomstsluitende Partijen,
@@ -18,7 +40,7 @@ Overtuigd van de noodzaak de veiligheid van het wegverkeer te vergroten, bepaald
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze Overeenkomst betekent:
 
@@ -72,7 +94,7 @@ In deze Overeenkomst betekent:
 
 - w). „Vervoersonderneming”: een natuurlijke persoon, een rechtspersoon, een vereniging of een groep personen zonder rechtspersoonlijkheid, met of zonder winstoogmerk, of een officiële instantie, met eigen rechtspersoonlijkheid of afhankelijk van een autoriteit met rechtspersoonlijkheid, die zich bezighoudt met wegvervoer voor rekening van derden of voor eigen rekening.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 1. Deze Overeenkomst is op het grondgebied van elke Overeenkomstsluitende Partij van toepassing op al het internationaal vervoer over de weg dat wordt verricht door een voertuig dat is geregistreerd op het grondgebied van genoemde Overeenkomstsluitende Partij of op het grondgebied van een andere Overeenkomstsluitende Partij.
 
@@ -100,7 +122,7 @@ In deze Overeenkomst betekent:
 
 - k. commerciële voertuigen die krachtens de wetgeving van de Overeenkomstsluitende Partij waar ermee wordt gereden een historische status hebben, en die voor niet-commercieel vervoer van personen of goederen worden gebruikt.
 
-#### Artikel 3. Toepassing van een aantal bepalingen van deze Overeenkomst op wegvervoer verricht door voertuigen ingeschreven in de landen die geen Partij zijn bij deze Overeenkomst
+##### Artikel 3. Toepassing van een aantal bepalingen van deze Overeenkomst op wegvervoer verricht door voertuigen ingeschreven in de landen die geen Partij zijn bij deze Overeenkomst
 
 1. Elke Overeenkomstsluitende Partij past ten aanzien van internationaal wegvervoer, verricht door een voertuig dat is ingeschreven op het grondgebied van een land dat geen Partij is bij deze Overeenkomst, op haar grondgebied bepalingen toe die ten minste even streng zijn als die welke zijn neergelegd in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=5&z=2022-04-23&g=2022-04-23), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=6&z=2022-04-23&g=2022-04-23), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=7&z=2022-04-23&g=2022-04-23), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2022-04-23&g=2022-04-23), [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=9&z=2022-04-23&g=2022-04-23) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=10&z=2022-04-23&g=2022-04-23) van deze Overeenkomst.
 
@@ -108,11 +130,11 @@ In deze Overeenkomst betekent:
 
 - b. Hiertoe noteert elk bemanningslid op zijn registratieblad de informatie met betrekking tot zijn beroepsactiviteiten en rusttijden, met gebruikmaking van de juiste grafische symbolen als omschreven in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2022-04-23&g=2022-04-23) van de Bijlage bij deze Overeenkomst.
 
-#### Artikel 4. Algemene beginselen
+##### Artikel 4. Algemene beginselen
 
 Elke Overeenkomstsluitende Partij kan hogere minima of lagere maxima toepassen dan die welke zijn neergelegd in de artikelen 5 tot en met 8. De bepalingen van deze Overeenkomst blijven echter van toepassing op bestuurders die internationaal wegvervoer verrichten met voertuigen die zijn ingeschreven in een ander land dat Partij of geen Partij is bij deze Overeenkomst.
 
-#### Artikel 5. Bemanning
+##### Artikel 5. Bemanning
 
 1. De minimumleeftijd van de bij het vervoer van goederen betrokken bestuurders bedraagt
 
@@ -130,7 +152,7 @@ Bestuurders die tewerkgesteld zijn bij het vervoer van personen op trajecten bui
 
 - c. houder zijn van een getuigschrift van vakbekwaamheid dat is erkend door een van de Overeenkomstsluitende Partijen en waaruit blijkt dat hij een opleiding heeft voltooid voor bestuurders van voertuigen die zijn bestemd voor het vervoer van personen over de weg.
 
-#### Artikel 6. Rijtijden
+##### Artikel 6. Rijtijden
 
 1. De dagelijkse rijtijd, als omschreven in [artikel 1, onderdeel s](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2022-04-23&g=2022-04-23), van deze Overeenkomst, mag ten hoogste 9 uren bedragen. Ten hoogste twee maal per week mag de rijtijd worden uitgebreid tot 10 uren.
 
@@ -142,7 +164,7 @@ Bestuurders die tewerkgesteld zijn bij het vervoer van personen op trajecten bui
 
 5. Een bestuurder dient de tijd doorgebracht als omschreven in [artikel 1, onderdeel q](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2022-04-23&g=2022-04-23), alsmede de tijd gedurende welke een voertuig wordt bestuurd voor commerciële activiteiten die niet onder het toepassingsgebied van deze Overeenkomst vallen, als andere werkzaamheden te registreren en dient alle tijdvakken van beschikbaarheid te registreren, als vermeld in [artikel 12, paragraaf 3, onderdeel c, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2022-04-23&g=2022-04-23) bij deze Overeenkomst. Deze registratie geschiedt handmatig op een registratieblad of afdruk of door gebruikmaking van de functies voor handmatige invoer van het controle apparaat.
 
-#### Artikel 7. Onderbrekingen
+##### Artikel 7. Onderbrekingen
 
 1. Na een rijperiode van vier en een half uur neemt een bestuurder een aaneengesloten onderbreking van ten minste vijfenveertig minuten, tenzij hij een rusttijd neemt.
 
@@ -152,7 +174,7 @@ Bestuurders die tewerkgesteld zijn bij het vervoer van personen op trajecten bui
 
 4. De in dit artikel in acht genomen onderbrekingen mogen niet worden aangemerkt als dagelijkse rusttijd.
 
-#### Artikel 8. Rusttijden
+##### Artikel 8. Rusttijden
 
 1. Een bestuurder dient dagelijkse en wekelijkse rusttijden te nemen als omschreven in [artikel 1, onderdelen o en p](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=1&z=2022-04-23&g=2022-04-23).
 
@@ -196,11 +218,11 @@ Indien het gedeelte van de dagelijkse rusttijd dat binnen die periode van 24 uur
 
 9. Een wekelijkse rusttijd die in twee weken valt, mag tot één van beide weken gerekend worden, maar niet tot beide.
 
-#### Artikel 9. Uitzonderingen
+##### Artikel 9. Uitzonderingen
 
 Mits de veiligheid van het wegverkeer niet in gevaar wordt gebracht en om hem in staat te stellen een geschikt haltepunt te bereiken, kan de bestuurder afwijken van deze Overeenkomst voor zover zulks noodzakelijk is ter verzekering van de veiligheid van personen, voertuig of lading. Uiterlijk bij aankomst op een geschikte stopplaats vermeldt de bestuurder op het registratieblad, op een afdruk van het controle apparaat of in zijn dienstrooster de aard en de reden van zijn afwijking van deze bepalingen.
 
-#### Artikel 10. Controleapparaat
+##### Artikel 10. Controleapparaat
 
 1. De Overeenkomstsluitende Partijen dienen de installatie en het gebruik van een controleapparaat voor te schrijven in op hun grondgebied ingeschreven voertuigen overeenkomstig de voorschriften van deze Overeenkomst en de bijlage en de aanhangsels daarbij.
 
@@ -208,7 +230,7 @@ Mits de veiligheid van het wegverkeer niet in gevaar wordt gebracht en om hem in
 
 3. Een controleapparaat dat voldoet aan [Verordening (EEG) nr. 3821/85](31985R3821) van 20 december 1985 van de Raad voor wat betreft constructie, installatie, gebruik en beproeving wordt aangemerkt als beantwoordend aan de voorwaarden van deze Overeenkomst, de bijlage en de aanhangsels daarbij.
 
-#### Artikel 11. Controle door de onderneming
+##### Artikel 11. Controle door de onderneming
 
 1. De onderneming dient het vervoer over de weg zodanig te organiseren en de leden van de bemanning zodanig te instrueren dat deze kunnen voldoen aan de bepalingen van deze Overeenkomst.
 
@@ -222,7 +244,7 @@ Onverminderd het recht van de Overeenkomstsluitende Partijen om vervoersondernem
 
 5. Ondernemingen, expediteurs, bevrachters, touroperators, hoofd- en onderaannemers en uitzendbureaus voor bestuurders zorgen ervoor dat contractueel overeengekomen tijdschema's voor het vervoer aan deze Overeenkomst voldoen.
 
-#### Artikel 12. Maatregelen voor de toepassing van de Overeenkomst
+##### Artikel 12. Maatregelen voor de toepassing van de Overeenkomst
 
 1. Elke Overeenkomstsluitende Partij neemt alle geëigende maatregelen teneinde de naleving van de bepalingen van deze Overeenkomst te verzekeren, met name door adequate controles langs de weg en ter plaatse in de ondernemingen die jaarlijks een groot en representatief deel van de bestuurders, ondernemingen en voertuigen bestrijken binnen alle vervoerscategorieën die onder deze Overeenkomst vallen.
 
@@ -276,7 +298,7 @@ Vanaf 2011 zullen de Overeenkomstsluitende Partijen de mogelijkheid bestuderen d
 
 8. De Overeenkomstsluitende Partijen waarborgen dat een stelsel van proportionele straffen, waaronder financiële sancties, van kracht is voor inbreuken op deze Overeenkomst door ondernemingen of geassocieerde expediteurs, bevrachters, touroperators, hoofd- en onderaannemers en uitzendbureaus voor bestuurders.
 
-#### Artikel 13. Overgangsbepalingen
+##### Artikel 13. Overgangsbepalingen
 
 1. Alle nieuwe bepalingen van deze Overeenkomst, met inbegrip van zijn bijlage en de [aanhangsels 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23) en 2, die betrekking hebben op de invoering van een digitaal controleapparaat, worden verbindend voor landen die Overeenkomstsluitende Partij zijn bij deze Overeenkomst uiterlijk vier jaar na de datum van inwerkingtreding van de desbetreffende wijzigingen die voortvloeien uit de in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2022-04-23&g=2022-04-23) omschreven procedure. Bijgevolg dienen alle voertuigen waarop deze Overeenkomst van toepassing is en die na het verstrijken van deze termijn voor het eerst in bedrijf zijn genomen, te zijn uitgerust met een controleapparaat dat voldoet aan deze nieuwe voorwaarden. Gedurende deze termijn van vier jaar laten de Overeenkomstsluitende Partijen die deze wijzigingen nog niet in hun landen hebben geïmplementeerd in een andere Overeenkomstsluitende Partij bij deze Overeenkomst ingeschreven voortuigen die reeds zijn uitgerust met een dergelijk digitaal controleapparaat tot hun grondgebied toe en controleren deze.
 
@@ -290,7 +312,7 @@ Indien de toetreding minder dan twee jaar voor het verstrijken van de in het eer
 
 De bepalingen van het voorgaande lid zijn eveneens van toepassing bij toetreding door een Staat na het verstrijken van de termijn van vier jaar voor de in het eerste lid bedoelde implementatie.
 
-#### Artikel 14. Slotbepalingen
+##### Artikel 14. Slotbepalingen
 
 1. Deze Overeenkomst staat tot 31 maart 1971 open voor ondertekening en, na deze datum, voor toetreding door de Lid-Staten van de Economische Commissie voor Europa, alsmede door de Staten die overeenkomstig paragraaf 8 of 11 van het mandaat van deze Commissie met adviserende bevoegdheid tot haar werkzaamheden zijn toegelaten. Toetredingen overeenkomstig paragraaf 11 van het mandaat van deze Commissie zijn beperkt tot de volgende Staten: Algerije, Egypte, Jordanië, Libanon, Marokko en Tunesië.
 
@@ -302,23 +324,23 @@ De bepalingen van het voorgaande lid zijn eveneens van toepassing bij toetreding
 
 5. Voor elke Staat die deze Overeenkomst bekrachtigt of daartoe toetreedt na de nederlegging van de achtste akte van bekrachtiging of toetreding, bedoeld in het vierde lid van dit artikel, treedt deze Overeenkomst in werking honderdtachtig dagen na de nederlegging door die Staat van zijn akte van bekrachtiging of toetreding.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Elke Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtreding het aantal Overeenkomstsluitende Partijen gedurende een tijdvak van twaalf opeenvolgende maanden minder is dan drie.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Elke Staat kan, bij de ondertekening van deze Overeenkomst bij de nederlegging van zijn akte van bekrachtiging of toetreding of te eniger tijd daarna, door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat de toepasselijkheid van deze Overeenkomst wordt uitgebreid tot alle of enkele van de gebieden voor welker internationale betrekkingen hij verantwoordelijk is. Deze Overeenkomst is ten aanzien van het gebied of de gebieden in de kennisgeving vermeld van toepassing met ingang van de honderdtachtigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal of wel, indien deze Overeenkomst op die dag nog niet in werking is getreden, met ingang van de datum van haar inwerkingtreding.
 
 2. Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor deze Overeenkomst van toepassing wordt op een gebied voor welker internationale betrekkingen hij verantwoordelijk is, kan deze Overeenkomst met betrekking tot dit gebied afzonderlijk opzeggen overeenkomstig de bepalingen van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=15&z=2022-04-23&g=2022-04-23).
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elk geschil tussen twee of meer Overeenkomstsluitende Partijen ten aanzien van de uitlegging of de toepassing van deze Overeenkomst wordt, voor zoveel mogelijk, beslecht door middel van onderhandelingen tussen de Partijen waartussen geschil is gerezen.
 
@@ -326,7 +348,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 3. De uitspraak van de overeenkomstig het vorig lid benoemde scheidsrechter of scheidsrechters zal de betrokken Overeenkomstsluitende Partijen binden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke Staat kan, op het tijdstip waarop hij deze Overeenkomst ondertekent of bekrachtigt of ertoe toetreedt, verklaren dat hij zich niet gebonden acht aan het tweede en het [derde lid van artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=18&z=2022-04-23&g=2022-04-23). De andere Overeenkomstsluitende Partijen zijn niet gebonden door deze leden tegenover elke Overeenkomstsluitende Partij die een zodanig voorbehoud heeft gemaakt.
 
@@ -334,7 +356,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 3. Elke Overeenkomstsluitende Partij die bij het Protocol van ondertekening van deze Overeenkomst een voorbehoud heeft gemaakt of een voorbehoud heeft geformuleerd, dat overeenkomstig het eerste en tweede lid van dit artikel is aanvaard, kan dit voorbehoud te allen tijde intrekken door een aan de Secretaris-Generaal gerichte kennisgeving.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Nadat deze Overeenkomst gedurende drie jaren van kracht is geweest, kan elke Overeenkomstsluitende Partij door een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving de bijeenroeping van een conferentie verzoeken ten einde deze Overeenkomst te herzien. De Secretaris-Generaal doet van dit verzoek mededeling aan alle Overeenkomstsluitende Partijen en roept een herzieningsconferentie bijeen, indien binnen vier maanden na de datum van de door hem gedane mededeling ten minste een derde van de Overeenkomstsluitende Partijen hem hun instemming met dit verzoek hebben kenbaar gemaakt.
 
@@ -342,7 +364,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 3. De Secretaris-Generaal nodigt alle in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2022-04-23&g=2022-04-23) van deze Overeenkomst bedoelde Staten uit tot bijwoning van elke conferentie die overeenkomstig dit artikel wordt bijeengeroepen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elke Overeenkomstsluitende Partij kan één of meer wijzigingen van deze Overeenkomst voorstellen. De tekst van elke voorgestelde wijziging wordt medegedeeld aan de Secretaris-Generaal van de Verenigde Naties, die deze tekst zal mededelen aan alle Overeenkomstsluitende Partijen en ter kennis brengen van de overige Staten, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2022-04-23&g=2022-04-23) van deze Overeenkomst.
 
@@ -374,7 +396,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 8. Onafhankelijk van de in het eerste tot en met het zesde lid van dit artikel vastgestelde wijzigingsprocedure, kan de bijlage bij deze Overeenkomst worden gewijzigd bij overeenkomst tussen de bevoegde administraties van alle Overeenkomstsluitende Partijen; indien de bevoegde administratie van een Overeenkomstsluitende Partij heeft verklaard, dat haar nationale recht haar verplicht haar toestemming te laten afhangen van de verkrijging van een speciale machtiging daartoe ofwel van de goedkeuring van een wetgevend orgaan, zal de toestemming van de bevoegde administratie van de desbetreffende Overeenkomstsluitende Partij ten aanzien van de wijziging van de bijlage worden geacht te zijn gegeven op het tijdstip waarop die bevoegde administratie aan de Secretaris-Generaal heeft verklaard dat de vereiste machtiging of goedkeuring is verkregen. In de overeenkomst tussen de bevoegde administraties wordt de datum vastgesteld waarop de gewijzigde bijlage in werking treedt; er kan tevens in worden bepaald dat gedurende een overgangstermijn de oude bijlage geheel of gedeeltelijk naast de gewijzigde bijlage van kracht zal zijn.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De aanhangsels 1 en 2 bij de bijlage bij deze Overeenkomst kunnen worden gewijzigd overeenkomstig de in dit artikel bepaalde procedure.
 
@@ -388,7 +410,7 @@ Deze Overeenkomst zal ophouden van kracht te zijn indien na haar inwerkingtredin
 
 5. Elke aanvaarde wijziging wordt door de Secretaris-Generaal ter kennis gebracht van alle Overeenkomstsluitende Partijen en treedt drie maanden na de datum van deze kennisgeving in werking.
 
-#### Artikel 23
+##### Artikel 23
 
 Naast de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=20&z=2022-04-23&g=2022-04-23) en [21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2022-04-23&g=2022-04-23) van deze Overeenkomst bedoelde kennisgevingen doet de Secretaris-Generaal van de Verenigde Naties aan de in het eerste lid van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2022-04-23&g=2022-04-23) van deze Overeenkomst bedoelde Staten mededeling van:
 
@@ -406,35 +428,35 @@ Naast de in de [artikelen 20](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&ar
 
 - g). de inwerkingtreding van elke wijziging krachtens [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=21&z=2022-04-23&g=2022-04-23) van deze Overeenkomst.
 
-#### Artikel 24
+##### Artikel 24
 
 Het Protocol van ondertekening bij deze Overeenkomst heeft dezelfde kracht, geldigheidsduur en hetzelfde gevolg als de Overeenkomst zelve, waarvan het geacht wordt een integrerend deel uit te maken.
 
-#### Artikel 25
+##### Artikel 25
 
 Na 31 maart 1971 wordt het origineel van deze Overeenkomst nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan alle landen, bedoeld in het [eerste lid van artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=14&z=2022-04-23&g=2022-04-23) van deze Overeenkomst, gewaarmerkte afschriften zal doen toekomen.
 
 ## I. GOEDKEURING
 
-#### Artikel 1
+##### Artikel 1
 
 Elk verzoek om goedkeuring voor een model van een controle-apparaat of een registratieblad wordt, vergezeld van de vereiste beschrijvende documenten, door de fabrikant of zijn gevolmachtigde ingediend bij een Overeenkomstsluitende Partij. Voor een zelfde model van een controleapparaat of registratieblad kan slechts bij één Overeenkomstsluitende Partij een verzoek worden ingediend.
 
-#### Artikel 2
+##### Artikel 2
 
 Elke Overeenkomstsluitende Partij verleent goedkeuring voor ieder model van een controle-apparaat of ieder model van een registratieblad, indien deze overeenstemmen met de voorschriften, als vastgelegd in aanhangsel 1 bij deze Bijlage en indien de Overeenkomstsluitende Partij in de gelegenheid is erop toe te zien dat de geproduceerde apparaten of registratiebladen overeenkomen met het goedgekeurde model.
 
 De wijzigingen of aanvullingen op een goedgekeurd model moeten de goedkeuring voor een aanvullend model verkrijgen van de Overeenkomstsluitende Partij die de goedkeuring voor het oorspronkelijke model heeft verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen kennen voor elk model van een controle-apparaat of van een registratieblad dat zij krachtens artikel 2 goedkeuren, de aanvrager een goedkeuringsmerk toe, overeenkomstig het in aanhangsel 2 weergegeven model.
 
-#### Artikel 4
+##### Artikel 4
 
 De bevoegde autoriteiten van de Overeenkomstsluitende Partij die een verzoek om goedkeuring heeft ontvangen, zenden dezelfde autoriteiten van de overige Overeenkomstsluitende Partijen binnen een maand, voor elk model van een controle-apparaat of van een registratieblad dat zij goedkeuren of waarvan zij de goedkeuring weigeren, een kopie van het goedkeuringscertificaat met een kopie van de vereiste beschrijvende documenten, dan wel stellen deze in kennis van de weigering tot goedkeuring; bij weigering delen zij de redenen voor hun beslissing mede.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien de Overeenkomstsluitende Partij die de in artikel 2 bedoelde goedkeuring heeft verleend, vaststelt dat apparaten of registratiebladen, voorzien van het door haar toegekende goedkeuringsmerk, niet overeenstemmen met het door haar goedgekeurde model, neemt zij de nodige maatregelen ten einde te bewerkstelligen dat de produktie overeenstemt met het goedgekeurde model. Deze kunnen eventueel gaan tot de intrekking van de goedkeuring.
 
@@ -448,23 +470,23 @@ In elk geval lichten de bevoegde autoriteiten van de Overeenkomstsluitende Parti
 
 5. Indien een Overeenkomstsluitende Partij die goedkeuring heeft verleend, betwist dat sprake is van de in het eerste en tweede lid genoemde gevallen, waarvan zij in kennis is gesteld, trachten de betrokken Overeenkomstsluitende Partijen het geschil bij te leggen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aanvrager van een goedkeuring voor een model van een registratieblad moet op zijn aanvrage het (de) model(len) van de controleapparaten waarop dit registratieblad zal worden gebruikt aangeven en moet voor het beproeven van het blad een geschikt apparaat beschikbaar stellen van een dergelijk model of van dergelijke modellen.
 
 2. De bevoegde autoriteiten van elke Overeenkomstsluitende Partij geven op het goedkeuringscertificaat van het model van een registratieblad het (de) model(len) aan van de controle-apparaten waarop dit model van een registratieblad kan worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 De Overeenkomstsluitende Partijen mogen de inschrijving niet weigeren en het in het verkeer brengen of het gebruik van voertuigen, voorzien van het controle-apparaat, niet verbieden om redenen welke verband houden met een dergelijk apparaat, indien het apparaat is voorzien van het goedkeuringsmerk, bedoeld in artikel 3 en van het installatieplaatje, bedoeld in artikel 9.
 
-#### Artikel 8
+##### Artikel 8
 
 Ieder besluit tot weigering of intrekking van een goedkeuring van een model van een controle-apparaat of een registratieblad, dat uit hoofde van deze bijlage wordt genomen, wordt nauwkeurig gemotiveerd. Het wordt ter kennis van de betrokkene gebracht, onder vermelding van de rechtsmiddelen op basis van de wetgeving van de Overeenkomstsluitende Partijen en van de termijnen waarbinnen deze rechtsmiddelen kunnen worden ingesteld.
 
 ## II. INSTALLATIE EN CONTROLE
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het installeren en herstellen van de controle-apparaten is slechts toegestaan aan installateurs of werkplaatsen die tot dit doel door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen zijn erkend, nadat dezen, indien zij dit wensen, het advies van de betrokken fabrikanten hebben ingewonnen.
 
@@ -476,11 +498,11 @@ Ieder besluit tot weigering of intrekking van een goedkeuring van een model van 
 
 ## III. BEPALINGEN TEN AANZIEN VAN HET GEBRUIK
 
-#### Artikel 10
+##### Artikel 10
 
 De werkgever en de bestuurders zien toe op de juiste werking en op het juiste gebruik van het apparaat.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bestuurders gebruiken geen vuile of beschadigde registratiebladen. Met het oog daarop moeten de bladen op juiste wijze worden beschermd.
 
@@ -502,7 +524,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Geneva, this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic.
 
-#### Artikel 22 bis. Procedure voor het wijzigen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23)
+##### Artikel 22 bis. Procedure voor het wijzigen van [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23)
 
 1. [Aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23) van de bijlage bij deze Overeenkomst wordt gewijzigd overeenkomstig de in dit artikel omschreven procedure.
 
@@ -518,13 +540,13 @@ DONE at Geneva, this first day of July nineteen hundred and seventy, in a single
 
 ## HOOFDSTUK I. TYPEGOEDKEURING
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Hoofdstuk wordt verstaan onder „controleapparaat” „controleapparaat of zijn componenten”.
 
 Aanvragen voor de goedkeuring van een type controleapparaat of een model van een registratieblad of een geheugenkaart worden, vergezeld van de desbetreffende specificaties door de fabrikant of zijn vertegenwoordiger ingediend bij een Overeenkomstsluitende Partij. Ter zake van een type controleapparaat, registratieblad- of een geheugenkaartmodel mag een aanvraag worden ingediend bij ten hoogste één Overeenkomstsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 Een Overeenkomstsluitende Partij verleent haar typegoedkeuring aan elk type controleapparaat, aan elk registratieblad- of elk geheugenkaartmodel dat voldoet aan de in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2006-06-16&g=2006-06-16) bij deze bijlage neergelegde voorschriften, mits de Overeenkomstsluitende Partij in staat is te controleren of de productiemodellen voldoen aan het goedgekeurde prototype.
 
@@ -532,15 +554,15 @@ Voor het in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijl
 
 Voor wijzigingen van of toevoegingen aan een goedgekeurd model is een aanvullende typegoedkeuring vereist van de Overeenkomstsluitende Partij die de oorspronkelijke typegoedkeuring heeft verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen verlenen de aanvrager een goedkeuringsmerk, dat voldoet aan het model vervat in aanhangsel 2, voor elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2006-06-16&g=2006-06-16) goedkeuren.
 
-#### Artikel 4
+##### Artikel 4
 
 De bevoegde autoriteiten van de Overeenkomstsluitende Partij waarbij een aanvraag om typegoedkeuring is ingediend, zenden ter zake van elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij goedkeuren of weigeren goed te keuren, binnen één maand de autoriteiten van de andere Overeenkomstsluitende Partijen een afschrift toe van het goedkeuringscertificaat vergezeld van afschriften van de desbetreffende specificaties, of stellen indien zulks het geval is deze autoriteiten ervan in kennis dat de goedkeuring is geweigerd; in geval van weigering vermelden zij de redenen voor hun besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een Overeenkomstsluitende Partij die een typegoedkeuring als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2006-06-16&g=2006-06-16) heeft verleend, vaststelt dat een bepaald controleapparaat, registratieblad- of geheugenkaartmodel voorzien van een goedkeuringsmerk dat zij heeft afgegeven niet voldoet aan het door haar goedgekeurde prototype, neemt zij de nodige stappen om te waarborgen dat de productiemodellen voldoen aan het goedgekeurde prototype. De genomen maatregelen kunnen zo nodig leiden tot intrekking van de typegoedkeuring.
 
@@ -554,23 +576,23 @@ De bevoegde autoriteiten van de Overeenkomstsluitende Partijen stellen elkaar in
 
 5. Indien een Overeenkomstsluitende Partij die een typegoedkeuring heeft verleend, het bestaan van een van de in het eerste of tweede lid omschreven gevallen ter zake waarvan zij een kennisgeving heeft ontvangen bestrijdt, trachten de betrokken Overeenkomstsluitende Partijen het geschil te beslechten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvrager van een typegoedkeuring van een registratiebladmodel vermeldt op zijn aanvraag het type of de typen controleapparaat waarvoor het blad in kwestie is ontworpen en verschaft een geschikt apparaat van dat type of die typen ten behoeve van het beproeven van het blad.
 
 2. De bevoegde autoriteiten van elke Overeenkomstsluitende Partij vermelden op het goedkeuringscertificaat voor het registratiebladmodel het type of de typen controleapparaat waarmee dat bladmodel kan worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 Een Overeenkomstsluitende Partij kan niet weigeren een voertuig uitgerust met een controleapparaat in te schrijven of het in het verkeer brengen of het gebruik van een dergelijk voertuig verbieden om redenen die verband houden met het feit dat het voertuig met een dergelijk apparaat is uitgerust, indien het controleapparaat is voorzien van het goedkeuringsmerk bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=3&z=2006-06-16&g=2006-06-16) en het installatieplaatje bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=II&artikel=9&z=2006-06-16&g=2006-06-16).
 
-#### Artikel 8
+##### Artikel 8
 
 In alle besluiten uit hoofde van deze bijlage tot het weigeren of intrekken van de goedkeuring van een type controleapparaat, een registratieblad- of geheugenkaartmodel worden de redenen waarop zij gebaseerd zijn gedetailleerd beschreven. Besluiten worden aan de betrokken partij gezonden, die tegelijkertijd wordt geïnformeerd over de openstaande rechtsmiddelen krachtens de wetten van de Verdragsluitende Partij en de termijnen voor het instellen van die rechtsmiddelen.
 
 ## HOOFDSTUK II. INSTALLATIE EN INSPECTIE
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het controleapparaat kan uitsluitend worden geïnstalleerd of gerepareerd door installateurs of werkplaatsen die daartoe zijn goedgekeurd door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, nadat laatstbedoelde indien zij dat wensen, de opvattingen van de betrokken fabrikanten hebben vernomen.
 
@@ -592,11 +614,11 @@ De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te vo
 
 ## HOOFDSTUK III. GEBRUIK VAN APPARATUUR
 
-#### Artikel 10
+##### Artikel 10
 
 De werkgever en de bestuurders zorgen voor het correct functioneren en juiste gebruik van enerzijds het controleapparaat en anderzijds de bestuurderskaart indien een bestuurder een met een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2006-06-16&g=2006-06-16) uitgerust voertuig dient te besturen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De werkgever geeft een voldoende aantal registratiebladen af aan de bestuurders van voertuigen die uitgerust zijn met het controleapparaat in overeenstemming met aanhangsel 1, daarbij rekening houdend met het feit dat deze bladen persoonsgebonden zijn, de duur van het gebruik alsmede met de mogelijkheid dat bladen beschadigd raken of worden ingenomen door een inspecteur en dat deze moeten worden vervangen. De werkgever geeft aan de bestuurders alleen bladen van een goedgekeurd model af die geschikt zijn voor gebruik in het in het voertuig geïnstalleerde controleapparaat.
 
@@ -632,7 +654,7 @@ Een Overeenkomstsluitende Partij kan van elke bestuurder op wie de bepalingen va
 
 De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te waarborgen dat het doorverkopen of uitschakelen van een controleapparaat niet ten koste kan gaan van de correcte toepassing van dit lid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bestuurders gebruiken geen vuile of beschadigde registratiebladen of bestuurderskaarten. De bladen of bestuurderskaarten worden daartoe op de juiste wijze beschermd.
 
@@ -716,7 +738,7 @@ Het apparaat is voorts zodanig vormgegeven dat het zonder de behuizing te openen
 
 8. Het is verboden gegevens te vervalsen, uit te wissen of te vernietigen, die zijn vastgelegd op het registratieblad, opgeslagen in het controleapparaat of op de bestuurderskaart of op afdrukken van het controleapparaat zoals omschreven in aanhangsel 1B. Hetzelfde geldt voor elke manipulatie met het controleapparaat, het registratieblad of de bestuurderskaart die kan leiden tot vervalsing, achterwege laten of vernietiging van gegevens en/of afgedrukte informatie. Er mag geen enkel apparaat in het voertuig aanwezig zijn dat gebruikt zou kunnen worden voor de genoemde vormen van manipulatie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien het controleapparaat defect raakt of slecht functioneert, laat de werkgever het repareren door een erkende installateur of werkplaats zodra de omstandigheden dat toelaten.
 
@@ -736,7 +758,7 @@ De bestuurder kan ten hoogste vijftien kalenderdagen zonder bestuurderskaart bli
 
 Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zijn normale woonplaats heeft niet dezelfde zijn als die welke zijn kaart hebben afgegeven en de laatstbedoelde verzocht worden de bestuurderskaart te verlengen, vervangen of om te wisselen, stellen zij de autoriteiten die de oude kaart hebben afgegeven in kennis van de precieze redenen voor de verlenging, vervanging of omwisseling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ingevolge [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13&z=2006-06-16&g=2006-06-16), van de Overeenkomst, dienen bestuurders die een in een Overeenkomstsluitende Partij ingeschreven voertuig besturen en aan wie de bevoegde autoriteiten nog geen bestuurderskaart hebben kunnen afgeven en die gedurende de overgangsperiode bedoeld in het eerste lid van dit artikel deelnemen aan het internationaal verkeer met een voertuig dat is uitgerust met een digitaal controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2006-06-16&g=2006-06-16) bij de bijlage, te allen tijde wanneer een functionaris belast met de inspectie daarom verzoekt in staat te zijn de afdrukken en/of registratiebladen te tonen van de lopende week en in elk geval de afdruk en/of het registratieblad van de laatste dag waarop zij reden in de voorafgaande week.
 
@@ -744,7 +766,7 @@ Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zi
 
 3. De in het eerste lid bedoelde afdrukken moeten worden voorzien van de gegevens waarmee de bestuurders kunnen worden geïdentificeerd (naam en nummer van het rijbewijs) alsmede hun handtekening.
 
-#### Artikel 1. Preambule
+##### Artikel 1. Preambule
 
 1. Aangezien dit aanhangsel een aanpassing vormt van aanhangsel IB van [Verordening (EEG) nr. 3821/85](31985R3821) van 20 december 1985 betreffende het controleapparaat in het wegvervoer1)Zoals laatstelijk gewijzigd bij de Verordening van de Raad (EG) nr. 2135/98 van 24 september 1998 (PB L 274 van 9 oktober 1998 alsmede bij de Verordeningen van de Commissie (EG) nr. 1360/2002 van 13 juni 2002 (PB L 207 van 5 augustus 2002 (Rectificatie PB L 77 van 13 maart 2004)) en nr. 432/2004 van 5 maart 2004 (PB L 71 van 10 maart 2004)., wordt de inhoud van deze bijlage vanwege de omvang en het zeer technische karakter niet opnieuw weergegeven in de AETR. Voor de complete officiële tekst en de achtereenvolgende wijzigingen worden de Overeenkomstsluitende Partijen verwezen naar het Publicatieblad van de Europese Unie.
 
@@ -752,7 +774,7 @@ De inhoud van dit[aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455
 
 2. Teneinde overleg over die bijlage en de ter wille van de AETR doorgevoerde aanpassingen alsmede een algemeen overzicht van de tekst mogelijk te maken zal het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties een geconsolideerde versie opstellen. Deze versie zal evenwel geen rechtskracht hebben. Deze versie, die is opgesteld in de officiële talen van de VN-ECE, zal wanneer nodig worden geactualiseerd.
 
-#### Artikel 2. Inleidende bepalingen tot aanhangsel 1B
+##### Artikel 2. Inleidende bepalingen tot aanhangsel 1B
 
 1. In overeenstemming met het eerste lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&artikel=1&z=2006-06-16&g=2006-06-16) hierboven, worden de Overeenkomstsluitende Partijen uitgenodigd, ten behoeve van overleg over aanhangsel IB, nota te nemen van de Verordeningen van de Commissie, nr. 1360/2002 van 13 juni 2002 en van nr. 432/2004 van 5 maart 2004 (zie de voetnoot hieronder voor de data van publicatie in het Publicatieblad van de Europese Unie), waarbij Verordening van de Raad (EEG) nr. 3821/85 betreffende het controleapparaat in het wegvervoer respectievelijk voor de zevende en achtste keer wordt aangepast aan de vooruitgang van de techniek.
 
@@ -810,7 +832,7 @@ IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed t
 
 DONE at Geneva, this first day of July nineteen hundred and seventy, in a single copy, in the English and French languages, the two texts being equally authentic.
 
-#### Artikel 8bis. Afwijkingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2022-04-23&g=2022-04-23)
+##### Artikel 8bis. Afwijkingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2022-04-23&g=2022-04-23)
 
 1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=8&z=2022-04-23&g=2022-04-23) mag, wanneer een bestuurder een voertuig begeleidt dat per veerboot of trein wordt vervoerd, en op voorwaarde dat hij een normale dagelijkse rusttijd neemt, die tijd hooguit tweemaal worden onderbroken door andere activiteiten, mits aan de volgende voorwaarden wordt voldaan:
 
@@ -824,7 +846,7 @@ Tijdens alle gedeelten van de dagelijkse rusttijd dient de bestuurder te kunnen 
 
 3. Tijd besteed door een bestuurder om met een voertuig dat buiten het toepassingsgebied van deze Overeenkomst valt, te rijden naar of van een voertuig dat onder het toepassingsgebied van deze Overeenkomst valt en dat zich niet in de woonplaats van de bestuurder of in de vestiging van de werkgever waaraan de bestuurder gewoonlijk verbonden is, bevindt, geldt als „andere werkzaamheden”.
 
-#### Artikel 12bis. Gestandaardiseerde modelformulieren
+##### Artikel 12bis. Gestandaardiseerde modelformulieren
 
 1. Ter vergemakkelijking van internationale controles langs de weg worden gestandaardiseerde modelformulieren ingevoerd in de Bijlage bij deze Overeenkomst, die dienovereenkomstig wordt aangevuld met een nieuw Aanhangsel 3; deze formulieren dienen indien nodig te worden gebruikt. Deze formuleren worden ingevoerd of gewijzigd in overeenstemming met de in [artikel 22ter](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=22ter&z=2022-04-23&g=2022-04-23) vermelde procedure.
 
@@ -834,11 +856,11 @@ Tijdens alle gedeelten van de dagelijkse rusttijd dient de bestuurder te kunnen 
 
 4. Deze formulieren worden aanvaard bij elke controle langs de weg die wordt uitgevoerd op het grondgebied van de Partijen bij deze Overeenkomst.
 
-#### Artikel 13bis. Overgangsbepalingen
+##### Artikel 13bis. Overgangsbepalingen
 
 De bepalingen bedoeld aan het einde van [artikel 12, paragraaf 7, onderdelen a en b, van de Bijlage](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=III&artikel=12&z=2022-04-23&g=2022-04-23) bij deze Overeenkomst zijn van toepassing drie maanden nadat de onderhavige wijziging in werking is getreden.
 
-#### Artikel 22ter. Procedure voor de wijziging van Aanhangsel 3
+##### Artikel 22ter. Procedure voor de wijziging van Aanhangsel 3
 
 1. Aanhangsel 3 bij de Bijlage bij deze Overeenkomst wordt gewijzigd in overeenstemming met de volgende procedure.
 
@@ -850,13 +872,13 @@ Het secretariaat van de Economische Commissie voor Europa stelt de bevoegde auto
 
 ## HOOFDSTUK I. TYPEGOEDKEURING
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Hoofdstuk wordt verstaan onder „controleapparaat” „controleapparaat of zijn componenten”.
 
 Aanvragen voor de goedkeuring van een type controleapparaat of een model van een registratieblad of een geheugenkaart worden, vergezeld van de desbetreffende specificaties door de fabrikant of zijn vertegenwoordiger ingediend bij een Overeenkomstsluitende Partij. Ter zake van een type controleapparaat, registratieblad- of een geheugenkaartmodel mag een aanvraag worden ingediend bij ten hoogste één Overeenkomstsluitende Partij.
 
-#### Artikel 2
+##### Artikel 2
 
 Een Overeenkomstsluitende Partij verleent haar typegoedkeuring aan elk type controleapparaat, aan elk registratieblad- of elk geheugenkaartmodel dat voldoet aan de in aanhangsel 1 of [1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23) bij deze bijlage neergelegde voorschriften, mits de Overeenkomstsluitende Partij in staat is te controleren of de productiemodellen voldoen aan het goedgekeurde prototype.
 
@@ -864,15 +886,15 @@ Voor het in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijl
 
 Voor wijzigingen van of toevoegingen aan een goedgekeurd model is een aanvullende typegoedkeuring vereist van de Overeenkomstsluitende Partij die de oorspronkelijke typegoedkeuring heeft verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 De Overeenkomstsluitende Partijen verlenen de aanvrager een goedkeuringsmerk, dat voldoet aan het model vervat in aanhangsel 2, voor elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2022-04-23&g=2022-04-23) goedkeuren.
 
-#### Artikel 4
+##### Artikel 4
 
 De bevoegde autoriteiten van de Overeenkomstsluitende Partij waarbij een aanvraag om typegoedkeuring is ingediend, zenden ter zake van elk type controleapparaat of registratieblad- of geheugenkaartmodel dat zij goedkeuren of weigeren goed te keuren, binnen één maand de autoriteiten van de andere Overeenkomstsluitende Partijen een afschrift toe van het goedkeuringscertificaat vergezeld van afschriften van de desbetreffende specificaties, of stellen indien zulks het geval is deze autoriteiten ervan in kennis dat de goedkeuring is geweigerd; in geval van weigering vermelden zij de redenen voor hun besluit.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een Overeenkomstsluitende Partij die een typegoedkeuring als voorzien in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=2&z=2022-04-23&g=2022-04-23) heeft verleend, vaststelt dat een bepaald controleapparaat, registratieblad- of geheugenkaartmodel voorzien van een goedkeuringsmerk dat zij heeft afgegeven niet voldoet aan het door haar goedgekeurde prototype, neemt zij de nodige stappen om te waarborgen dat de productiemodellen voldoen aan het goedgekeurde prototype. De genomen maatregelen kunnen zo nodig leiden tot intrekking van de typegoedkeuring.
 
@@ -886,23 +908,23 @@ De bevoegde autoriteiten van de Overeenkomstsluitende Partijen stellen elkaar in
 
 5. Indien een Overeenkomstsluitende Partij die een typegoedkeuring heeft verleend, het bestaan van een van de in het eerste of tweede lid omschreven gevallen ter zake waarvan zij een kennisgeving heeft ontvangen bestrijdt, trachten de betrokken Overeenkomstsluitende Partijen het geschil te beslechten.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvrager van een typegoedkeuring van een registratiebladmodel vermeldt op zijn aanvraag het type of de typen controleapparaat waarvoor het blad in kwestie is ontworpen en verschaft een geschikt apparaat van dat type of die typen ten behoeve van het beproeven van het blad.
 
 2. De bevoegde autoriteiten van elke Overeenkomstsluitende Partij vermelden op het goedkeuringscertificaat voor het registratiebladmodel het type of de typen controleapparaat waarmee dat bladmodel kan worden gebruikt.
 
-#### Artikel 7
+##### Artikel 7
 
 Een Overeenkomstsluitende Partij kan niet weigeren een voertuig uitgerust met een controleapparaat in te schrijven of het in het verkeer brengen of het gebruik van een dergelijk voertuig verbieden om redenen die verband houden met het feit dat het voertuig met een dergelijk apparaat is uitgerust, indien het controleapparaat is voorzien van het goedkeuringsmerk bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=I&artikel=3&z=2022-04-23&g=2022-04-23) en het installatieplaatje bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&hoofdstuk=II&artikel=9&z=2022-04-23&g=2022-04-23).
 
-#### Artikel 8
+##### Artikel 8
 
 In alle besluiten uit hoofde van deze bijlage tot het weigeren of intrekken van de goedkeuring van een type controleapparaat, een registratieblad- of geheugenkaartmodel worden de redenen waarop zij gebaseerd zijn gedetailleerd beschreven. Besluiten worden aan de betrokken partij gezonden, die tegelijkertijd wordt geïnformeerd over de openstaande rechtsmiddelen krachtens de wetten van de Verdragsluitende Partij en de termijnen voor het instellen van die rechtsmiddelen.
 
 ## HOOFDSTUK II. INSTALLATIE EN INSPECTIE
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het controleapparaat kan uitsluitend worden geïnstalleerd of gerepareerd door installateurs of werkplaatsen die daartoe zijn goedgekeurd door de bevoegde autoriteiten van de Overeenkomstsluitende Partijen, nadat laatstbedoelde indien zij dat wensen, de opvattingen van de betrokken fabrikanten hebben vernomen.
 
@@ -924,11 +946,11 @@ De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te vo
 
 ## HOOFDSTUK III. GEBRUIK VAN APPARATUUR
 
-#### Artikel 10
+##### Artikel 10
 
 De werkgever en de bestuurders zorgen voor het correct functioneren en juiste gebruik van enerzijds het controleapparaat en anderzijds de bestuurderskaart indien een bestuurder een met een controleapparaat in overeenstemming met [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23) uitgerust voertuig dient te besturen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De werkgever geeft een voldoende aantal registratiebladen af aan de bestuurders van voertuigen die uitgerust zijn met het controleapparaat in overeenstemming met aanhangsel 1, daarbij rekening houdend met het feit dat deze bladen persoonsgebonden zijn, de duur van het gebruik alsmede met de mogelijkheid dat bladen beschadigd raken of worden ingenomen door een inspecteur en dat deze moeten worden vervangen. De werkgever geeft aan de bestuurders alleen bladen van een goedgekeurd model af die geschikt zijn voor gebruik in het in het voertuig geïnstalleerde controleapparaat.
 
@@ -972,7 +994,7 @@ Een Overeenkomstsluitende Partij kan van elke bestuurder op wie de bepalingen va
 
 De Overeenkomstsluitende Partijen nemen alle maatregelen die nodig zijn om te waarborgen dat het doorverkopen of uitschakelen van een controleapparaat niet ten koste kan gaan van de correcte toepassing van dit lid.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De bestuurders gebruiken geen vuile of beschadigde registratiebladen of bestuurderskaarten. De bladen of bestuurderskaarten worden daartoe op de juiste wijze beschermd.
 
@@ -1062,7 +1084,7 @@ Het apparaat is voorts zodanig vormgegeven dat het zonder de behuizing te openen
 
 8. Het is verboden gegevens te vervalsen, uit te wissen of te vernietigen, die zijn vastgelegd op het registratieblad, opgeslagen in het controleapparaat of op de bestuurderskaart of op afdrukken van het controleapparaat zoals omschreven in [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23). Hetzelfde geldt voor elke manipulatie met het controleapparaat, het registratieblad of de bestuurderskaart die kan leiden tot vervalsing, achterwege laten of vernietiging van gegevens en/of afgedrukte informatie. Er mag geen enkel apparaat in het voertuig aanwezig zijn dat gebruikt zou kunnen worden voor de genoemde vormen van manipulatie.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien het controleapparaat defect raakt of slecht functioneert, laat de werkgever het repareren door een erkende installateur of werkplaats zodra de omstandigheden dat toelaten.
 
@@ -1090,7 +1112,7 @@ De bestuurder kan ten hoogste vijftien kalenderdagen zonder bestuurderskaart bli
 
 Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zijn normale woonplaats heeft niet dezelfde zijn als die welke zijn kaart hebben afgegeven en de laatstbedoelde verzocht worden de bestuurderskaart te verlengen, vervangen of om te wisselen, stellen zij de autoriteiten die de oude kaart hebben afgegeven in kennis van de precieze redenen voor de verlenging, vervanging of omwisseling.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Ingevolge [artikel 13, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&artikel=13&z=2022-04-23&g=2022-04-23), van de Overeenkomst, dienen bestuurders die een in een Overeenkomstsluitende Partij ingeschreven voertuig besturen en aan wie de bevoegde autoriteiten nog geen bestuurderskaart hebben kunnen afgeven en die gedurende de overgangsperiode bedoeld in het eerste lid van dit artikel deelnemen aan het internationaal verkeer met een voertuig dat is uitgerust met een digitaal controleapparaat overeenkomstig [aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&z=2022-04-23&g=2022-04-23) bij de bijlage, te allen tijde wanneer een functionaris belast met de inspectie daarom verzoekt in staat te zijn de afdrukken en/of registratiebladen te tonen van de lopende week en in elk geval de afdruk en/of het registratieblad van de laatste dag waarop zij reden in de voorafgaande week.
 
@@ -1098,7 +1120,7 @@ Indien de autoriteiten van de Overeenkomstsluitende Partij waar de bestuurder zi
 
 3. De in het eerste lid bedoelde afdrukken moeten worden voorzien van de gegevens waarmee de bestuurders kunnen worden geïdentificeerd (naam en nummer van het rijbewijs) alsmede hun handtekening.
 
-#### Artikel 1. Preambule
+##### Artikel 1. Preambule
 
 1. Aangezien dit aanhangsel een aanpassing vormt van aanhangsel IB van [Verordening (EEG) nr. 3821/85](31985R3821) van 20 december 1985 betreffende het controleapparaat in het wegvervoer1)Zoals laatstelijk gewijzigd bij de Verordening van de Raad (EG) nr. 2135/98 van 24 september 1998 (PB L 274 van 9 oktober 1998 alsmede bij de Verordeningen van de Commissie (EG) nr. 1360/2002 van 13 juni 2002 (PB L 207 van 5 augustus 2002 (Rectificatie PB L 77 van 13 maart 2004)) en nr. 432/2004 van 5 maart 2004 (PB L 71 van 10 maart 2004)., wordt de inhoud van deze bijlage vanwege de omvang en het zeer technische karakter niet opnieuw weergegeven in de AETR. Voor de complete officiële tekst en de achtereenvolgende wijzigingen worden de Overeenkomstsluitende Partijen verwezen naar het Publicatieblad van de Europese Unie.
 
@@ -1106,7 +1128,7 @@ De inhoud van dit[aanhangsel 1B](https://wetten.overheid.nl/jci1.3:c:BWBV0004455
 
 2. Teneinde overleg over die bijlage en de ter wille van de AETR doorgevoerde aanpassingen alsmede een algemeen overzicht van de tekst mogelijk te maken zal het secretariaat van de Economische Commissie voor Europa van de Verenigde Naties een geconsolideerde versie opstellen. Deze versie zal evenwel geen rechtskracht hebben. Deze versie, die is opgesteld in de officiële talen van de VN-ECE, zal wanneer nodig worden geactualiseerd.
 
-#### Artikel 2. Inleidende bepalingen tot aanhangsel 1B
+##### Artikel 2. Inleidende bepalingen tot aanhangsel 1B
 
 1. In overeenstemming met het eerste lid van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004455&bijlage=1B&artikel=1&z=2022-04-23&g=2022-04-23) hierboven, worden de Overeenkomstsluitende Partijen uitgenodigd, ten behoeve van overleg over aanhangsel IB, nota te nemen van de Verordeningen van de Commissie, nr. 1360/2002 van 13 juni 2002 en van nr. 432/2004 van 5 maart 2004 (zie de voetnoot hieronder voor de data van publicatie in het Publicatieblad van de Europese Unie), waarbij Verordening van de Raad (EEG) nr. 3821/85 betreffende het controleapparaat in het wegvervoer respectievelijk voor de zevende en achtste keer wordt aangepast aan de vooruitgang van de techniek.
 

@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregels verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2010"
 identifier: "BWBR0027147"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-26
-laatste_update: 2011-01-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027147"
+country: "nl"
+rank: "zbo"
+publication_date: "2011-01-26"
+last_updated: "2011-01-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027147"
+soort: "zbo"
+stam_id: "10409733"
+version_id: "17125232"
+internal_id: "C23630831"
+label_id: "10385234"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027147/2011-01-26/0"
+intitule_bron: "Stcrt.2010-1684"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-21"
+intitule_published: "2010-02-05"
+intitule_in_force: "2010-02-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-1684"
+original_signed_date: "2009-12-21"
+original_published_date: "2010-02-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-1684"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0027147&z=2011-01-26&g=2011-01-26"
+jci_1_0: "1.0:c:BWBR0027147&g=2011-01-26"
+citeertitel_status: "redactioneel"
+signed_date: "2009-12-21"
+entry_into_force: "2010-01-01"
 ---
-
 # Beleidsregels verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2010
 
 Gelet op [artikel 91, eerste lid, Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=91), [artikel 4.5, eerste en tweede lid van het Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070&artikel=4.5) en de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0026940);
@@ -18,7 +43,7 @@ De datum van inwerkingtreding ligt voor de datum van uitgifte.
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Dit besluit verstaat onder:
 
@@ -28,19 +53,19 @@ Dit besluit verstaat onder:
 
 - c. **verbindingskantoor:** een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0003585&artikel=1).
 
-#### Artikel 2
+##### Artikel 2
 
 Het college keert het voorlopig vastgestelde, het nader vastgestelde en het definitief vastgestelde beheerskostenbudget uit met inachtneming van de [Regeling voorschotverlening op uitkeringen AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0027056).
 
 #### § 2. Voorlopige vaststelling beheerskostenbudget 2010
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het college verdeelt in het jaar 2010 een totaal bedrag van 159,117 miljoen euro aan besteedbare middelen beheerskosten over de verbindingskantoren.
 
 2. Het college stelt in januari 2010 voor ieder verbindingskantoor een voorlopig beheerskostenbudget vast ter bepaling van de besteedbare middelen voor de beheerskosten ten laste van het Algemeen Fonds Bijzondere Ziektekosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=3&z=2011-01-26&g=2011-01-26), genoemde totaalbedrag als volgt:
 
@@ -50,7 +75,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 - c. een bedrag van 0,375 miljoen euro voor een verbindingskantoor dat, volgens opgave van Zorgverzekeraars Nederland, coördinerende activiteiten verricht voor doventolkvoorzieningen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het college verdeelt het na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) resterende bedrag als volgt:
 
@@ -64,7 +89,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 - b. een incidentele toevoeging van 2,4 miljoen euro in verband met de invoering van de zorgzwaartepakketten (ZZP’s).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De resultaten van de berekeningen volgens de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=5&z=2011-01-26&g=2011-01-26) herrekent het college per regio.
 
@@ -74,7 +99,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 #### § 3. Nadere vaststelling beheerskostenbudget 2010
 
-#### Artikel 7
+##### Artikel 7
 
 1. Uiterlijk op de eerste werkdag van mei 2011 stelt het college het budget over het jaar 2010 met toepassing van de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0027147&paragraaf=2&artikel=4&z=2011-01-26&g=2011-01-26) nader vast op basis van de werkelijke inwoneraantallen per 1 januari 2010 en de werkelijke aantallen budgethouders per 1 juli 2010 en, indien van toepassing, met inachtneming van de Nadere aanwijzing besteedbare middelen beheerskosten AWBZ 2010 van de Staatssecretaris voor Volksgezondheid, Welzijn en Sport. Voor de bepaling van het aantal inwoners baseert het college zich op de gegevens van het Centraal Bureau voor de statistiek.
 
@@ -84,7 +109,7 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 #### § 4. Definitieve vaststelling
 
-#### Artikel 8
+##### Artikel 8
 
 1. Uiterlijk in 2013 stelt het college het budget beheerskosten AWBZ 2010 definitief vast, met inachtneming van de beoordeling en correcties van de Nederlandse Zorgautoriteit.
 
@@ -92,6 +117,6 @@ Het college verdeelt het in [artikel 3, eerste lid](https://wetten.overheid.nl/j
 
 #### § 5. Slot
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking met ingang van 1 januari 2010. Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.

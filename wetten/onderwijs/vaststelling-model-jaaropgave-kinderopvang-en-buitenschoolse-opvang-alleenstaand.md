@@ -1,13 +1,37 @@
 ---
 title: "Vaststelling model jaaropgave kinderopvang en buitenschoolse opvang alleenstaande ouders"
 identifier: "BWBR0008623"
-categorie: "Onderwijs"
-publicatiedatum: 1997-04-04
-laatste_update: 1997-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008623"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-04-04"
+last_updated: "1997-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008623"
+soort: "ministeriele-regeling"
+stam_id: "4798473"
+version_id: "6604892"
+internal_id: "C7062131"
+label_id: "4776564"
+dtd_version: "2.0"
+original_entry_into_force: "1997-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008623/1997-04-04/0"
+intitule_bron: "Stcrt.1997-65"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-03"
+intitule_published: "1997-04-04"
+intitule_in_force: "1997-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-65"
+original_signed_date: "1997-04-03"
+original_published_date: "1997-04-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-04-04"
+jci_1_3: "jci1.3:c:BWBR0008623&z=1997-04-04&g=1997-04-04"
+jci_1_0: "1.0:c:BWBR0008623&g=1997-04-04"
+citeertitel_status: "officieel"
+signed_date: "1997-04-03"
+entry_into_force: "1997-04-04"
 ---
-
 # Vaststelling model jaaropgave kinderopvang en buitenschoolse opvang alleenstaande ouders
 
 Besluit:
@@ -18,7 +42,7 @@ Het model voor de jaaropgave bedoeld in artikel 11, eerste lid, van de Regeling 
 
 ## Toelichting
 
-#### Algemeen
+##### Algemeen
 
 Subsidie wordt verstrekt voor kinderopvangplaatsen die nieuw zijn gecreëerd, dat wil zeggen plaatsen die bovenop de bestaande capaciteit van kinderopvang van de gemeente zijn gekomen. Als uitgangspunt dient te worden genomen de bestaande kinderopvang per 31 december 1995 conform de VWS-regeling zoals door u onder A weergegeven in het formulier Financiele verantwoording Stimuleringsregeling kinderopvang 1994-1995. Let op: Op het voorliggende formulier dient u alleen opgave te doen van de per 31 december 1995 beschikbare opvangplaatsen conform het toenmalige artikel 2 van de VWS-regeling. De verhuurde bedrijfsplaatsen dient u **niet** op te geven.
 
@@ -28,11 +52,11 @@ Om te voorkomen dat deze niet-bezette plaatsen meetellen bij het bepalen van het
 
 Dit berekende aantal plaatsen per 31 december 1995 wordt vergeleken met dat van ultimo 1997 voorzover dat gesubsidieerd wordt door de gemeente.
 
-#### I. Voorschot 1997
+##### I. Voorschot 1997
 
 U vult hier in het aan u toegekende maximum voorschotbedrag, hetgeen tevens het maximale subsidie-bedrag is.
 
-#### II. Specificatie aantal plaatsen
+##### II. Specificatie aantal plaatsen
 
 ad 1. Op deze regel vult u in het totaal aantal kinderopvangplaatsen dat uw gemeente per 31/12/97 subsidieert en/of in eigen beheer heeft. Dit totaal stelt u als volgt vast:
 
@@ -44,25 +68,25 @@ ad 2. Hier vult u in het aantal kinderopvangplaatsen conform het formulier Finan
 
 ad 4. Hier vermeldt u het maximale subsidiebedrag naar de mate van verdringing. Dit berekent u door de uitkomst van 3 te vermenigvuldigen met de maximale subsidie per plaats (f 18.000,-).
 
-#### III. SZW-subsidie
+##### III. SZW-subsidie
 
 Hier vult u het bedrag in dat volgens uw berekening door uitvoering van de SZW-regeling voor subsidie in aanmerking komt. Voor de wijze waarop dit bedrag dient te worden berekend wordt verwezen naar de toelichting bij artikel 5 van de regeling. De hoogte van het hier te vermelden bedrag wordt enerzijds begrensd door het maximale voorschot 1997 zoals vermeld onder ad I en anderzijds door het maximale subsidiebedrag zoals berekend onder II ad 4. Het laagste van deze twee bedragen is het maximale subsidiebedrag voor 1997
 
 ### Aandachtspuntenlijst
 
-#### 1. Algemene uitgangspunten
+##### 1. Algemene uitgangspunten
 
 Op grond van artikel 11, eerste lid van de Regeling kinderopvang en buitenschoolse opvang alleenstaande ouders 1997 overleggen Burgemeester en Wethouders voor 20 september 1998 aan de minister een jaaropgave, voorzien van een verklaring van een deskundige, belast met de in [artikel 213 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=213) voorgeschreven controle. De jaaropgave waar de verklaring bij wordt afgegeven is de verantwoording (form. 106021). De controlerend accountant hanteert voor zijn verklaring het voorliggend model accountantsverklaring (form. 106121).
 
-#### 2. Het onderzoek
+##### 2. Het onderzoek
 
 Het onderzoek omvat het volledige tijdvak waarover de subsidie is verstrekt en richt zich op de juistheid, tijdigheid en volledigheid van de op titel van deze regeling gedeclareerde subsidie en daarbij verantwoorde informatie zoals die in de jaaropgave is opgenomen.
 
-#### 3. De controletoleranties
+##### 3. De controletoleranties
 
 De uitspraken van de accountant over de verantwoording en over de bevindingen naar aanleiding van de uitvoering van de werkzaamheden die zijn verbonden aan hetgeen in de aandachtspuntenlijst is vermeld, moeten worden gedaan met een hoge mate van betrouwbaarheid. Bij de uitvoering van een statistische steekproef komt dit overeen met een betrouwbaarheid van tenminste 95 procent. Met deze betrouwbaarheid dienen alle afwijkingen boven de maximaal toelaatbare foutfractie van 1 procent, gemeten over de voor subsidie in aanmerking komende gerealiseerde kinderopvangplaatsen in 1997 volgens de jaaropgave 1997 (zie typeformulier 106021) te worden geconstateerd.
 
-#### 4. Wijze van rapporteren
+##### 4. Wijze van rapporteren
 
 Voor de accountantsverklaring, die bij de Regeling kinderopvang en buitenschoolse opvang alleenstaande ouders 1997 wordt verstrekt, geldt een verplicht te gebruiken tekst (zie formulier 106121) waaruit tenminste blijkt dat de controle is uitgevoerd met expliciete inachtneming van de hiernavolgende aandachtspunten:
 
@@ -74,7 +98,7 @@ Bij de rapportage over de controlebevindingen worden de volgende uitgangspunten 
 
 - Bij integrale controle moeten alle geconstateerde fouten worden gerapporteerd.
 
-#### Aandachtspunten voor de controle:
+##### Aandachtspunten voor de controle:
 
 - 1. overeenkomsten welke in het kader van deze regeling met derden zijn afgesloten dienen bij de gemeenteaanwezig te zijn en in de administratie te zijn vastgelegd;
 

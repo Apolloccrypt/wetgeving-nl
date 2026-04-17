@@ -1,92 +1,120 @@
 ---
-title: "Belastingplan 2017"
+title: "Wet van 21 december 2016, houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2017)"
 identifier: "BWBR0038948"
-categorie: "Belastingrecht"
-publicatiedatum: 2018-01-01
-laatste_update: 2018-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038948"
+country: "nl"
+rank: "wet"
+publication_date: "2018-01-01"
+last_updated: "2018-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038948"
+soort: "wet"
+stam_id: "13839873"
+version_id: "23763932"
+internal_id: "C34196591"
+label_id: "13805444"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038948/2018-01-01/0"
+intitule_bron: "Stb.2016-544"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-12-21"
+intitule_published: "2016-12-29"
+intitule_in_force: "2016-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2016-544"
+original_signed_date: "2016-12-21"
+original_published_date: "2016-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "34552"
+original_url_id: "stb-2016-544"
+entry_into_force_date: "2017-01-01"
+entry_into_force_dossier: "34552"
+jci_1_3: "jci1.3:c:BWBR0038948&z=2018-01-01&g=2018-01-01"
+jci_1_0: "1.0:c:BWBR0038948&g=2018-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2017"
+signed_date: "2016-12-21"
+entry_into_force: "2017-01-01"
 ---
+# Wet van 21 december 2016, houdende wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2017)
 
-# Belastingplan 2017
-
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel III
+##### Artikel III
 
 Onze Minister van Financiën zendt binnen vier jaar na de inwerkingtreding van deze wet aan de Staten Generaal een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 12a, derde en vierde lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=12a), onderscheidenlijk een verslag over de doeltreffendheid en de effecten in de praktijk van [artikel 10a, negende en tiende lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=10a).
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IVa
+##### Artikel IVa
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IVb
+##### Artikel IVb
 
 Ingeval als gevolg van de inwerkingtreding van [artikel IVA](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=IVa&z=2018-01-01&g=2018-01-01) verwijzingen in een of meer wetten niet meer juist of volledig zijn, kunnen deze verwijzingen bij ministeriële regeling worden gewijzigd of aangevuld. Die ministeriële regeling kan terugwerken tot en met 1 januari 2017.
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op de dividendbelasting 1965.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XIa
+##### Artikel XIa
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Belastingplan 2012.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Belastingplan 2016.
 
-#### Artikel XIIIa
+##### Artikel XIIIa
 
 Wijzigt de Wet uitwerking Autobrief II.
 
-#### Artikel XIIIb
+##### Artikel XIIIb
 
 Wijzigt de Invoeringswet fiscaal stelsel BES.
 
-#### Artikel XIIIc
+##### Artikel XIIIc
 
 Wijzigt de Belastingwet BES.
 
-#### Artikel XIV
+##### Artikel XIV
 
 [Artikel 4.16, eerste lid, aanhef en onderdeel k, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.16) is niet van toepassing indien de toepassing van [artikel 4.13, eerste lid, onderdeel a, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.13) het gevolg is van:
 
@@ -94,15 +122,15 @@ Wijzigt de Belastingwet BES.
 
 - b. het met terugwerkende kracht tot en met 20 september 2016, 15.15 uur, aan de belastingplichtige toerekenen van de betreffende aandelen of winstbewijzen waarop tot dat tijdstip [artikel 2.14a, zevende lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14a), zoals dat tot dat tijdstip luidde, van toepassing was.
 
-#### Artikel XIVa
+##### Artikel XIVa
 
 Wijzigt deze wet.
 
-#### Artikel XV
+##### Artikel XV
 
 Ingeval de samenloop van wetten die in 2016 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2017, met uitzondering van [artikel II, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2018-01-01&g=2018-01-01), en met dien verstande dat:
 
@@ -142,7 +170,7 @@ Ingeval de samenloop van wetten die in 2016 in het Staatsblad zijn of worden gep
 
 6. [Artikel II, onderdeel Aa](https://wetten.overheid.nl/jci1.3:c:BWBR0038948&artikel=II&z=2018-01-01&g=2018-01-01), treedt in werking met ingang van 1 januari 2018.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Deze wet wordt aangehaald als: Belastingplan 2017.
 

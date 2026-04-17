@@ -1,24 +1,49 @@
 ---
 title: "Verdrag inzake uitlevering tussen het Koninkrijk der Nederlanden en Australië"
 identifier: "BWBV0001040"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-02-01
-laatste_update: 1988-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001040"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-02-01"
+last_updated: "1988-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001040"
+soort: "verdrag"
+stam_id: "10002495143"
+version_id: "10002488302"
+internal_id: "C10006978151"
+label_id: "10002484704"
+dtd_version: "2.0"
+original_entry_into_force: "1988-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001040/1988-02-01/0"
+intitule_bron: "Trb.1985-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-12-18"
+intitule_published: "1985-10-11"
+intitule_in_force: "1988-01-21"
+intitule_status: "goed"
+original_publication: "Trb.1985-137"
+original_signed_date: "1987-12-18"
+original_published_date: "1985-10-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1985-137"
+entry_into_force_date: "1988-02-01"
+jci_1_3: "jci1.3:c:BWBV0001040&z=1988-02-01&g=1988-02-01"
+jci_1_0: "1.0:c:BWBV0001040&g=1988-02-01"
+citeertitel_status: "redactioneel"
+signed_date: "1987-12-18"
+entry_into_force: "1988-02-01"
 ---
-
 # Verdrag inzake uitlevering tussen het Koninkrijk der Nederlanden en Australië
 
 Het Koninkrijk der Nederlanden en Australië, geleid door de wens de samenwerking tussen de beide landen bij de bestrijding van de misdaad doeltreffender te doen zijn door een verdrag te sluiten inzake de uitlevering van personen die worden verdacht van of zijn veroordeeld wegens strafbare feiten,
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Verplichting tot uitlevering
+##### Artikel 1. Verplichting tot uitlevering
 
 Elke Verdragsluitende Partij komt overeen aan de andere uit te leveren, overeenkomstig de bepalingen van dit Verdrag, personen die worden gezocht met het oog op een strafvervolging, of de oplegging of tenuitvoerlegging van een sanctie in de verzoekende Staat voor een strafbaar feit dat tot uitlevering kan leiden.
 
-#### Artikel 2. Feiten die tot de uitlevering kunnen leiden
+##### Artikel 2. Feiten die tot de uitlevering kunnen leiden
 
 1. Voor de toepassing van dit Verdrag zijn feiten die tot uitlevering kunnen leiden feiten, hoe ook omschreven, die strafbaar zijn gesteld krachtens de wetten van beide Verdragsluitende Partijen met gevangenisstraf of een andere vorm van vrijheidsbeneming voor een maximumtijdvak van tenminste één jaar of met een zwaardere straf. Wanneer het verzoek om uitlevering een persoon betreft die is veroordeeld wegens zulk een feit en die wordt gezocht voor de tenuitvoerlegging van een sanctie, wordt de uitlevering alleen toegestaan, indien een vrijheidsstraf of tot vrijheidsbeneming strekkende maatregel is opgelegd en er nog een tijdvak van tenminste zes maanden van zodanige vrijheidsbeneming moet worden ondergaan.
 
@@ -32,7 +57,7 @@ Elke Verdragsluitende Partij komt overeen aan de andere uit te leveren, overeenk
 
 6. Dit Verdrag is van toepassing op de onder dit artikel vallende feiten, begaan zowel voor als na de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 3. Uitzonderingen op uitlevering
+##### Artikel 3. Uitzonderingen op uitlevering
 
 1. Uitlevering wordt niet toegestaan wanneer zich een van de volgende omstandigheden voordoet:
 
@@ -56,11 +81,11 @@ Elke Verdragsluitende Partij komt overeen aan de andere uit te leveren, overeenk
 
 - (e). wanneer de aangezochte Staat, mede rekening houdend met de aard van het feit en de belangen van de verzoekende Staat, van oordeel is dat, in de omstandigheden van het geval, met name gelet op de leeftijd of gezondheid van de persoon wiens uitlevering wordt verzocht, de uitlevering van die persoon onverenigbaar zou zijn met humanitaire overwegingen.
 
-#### Artikel 4. Uitstel van uitlevering
+##### Artikel 4. Uitstel van uitlevering
 
 De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een persoon of diens feitelijke overlevering uitstellen ten einde een vervolging tegen hem aan te spannen of opdat deze een straf kan ondergaan, voor een ander strafbaar feit dan een feit bestaande uit een handelen of nalaten waarvoor zijn uitlevering wordt verzocht. De aangezochte Staat stelt de verzoekende Staat hiervan in kennis.
 
-#### Artikel 5. Procedure met betrekking tot uitlevering en vereiste stukken
+##### Artikel 5. Procedure met betrekking tot uitlevering en vereiste stukken
 
 1. Een verzoek tot uitlevering dient schriftelijk en langs diplomatieke weg te worden gedaan. Alle stukken die worden overgelegd ter ondersteuning van een verzoek tot uitlevering dienen naar behoren te zijn gewaarmerkt.
 
@@ -80,7 +105,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 4. Een Verdragsluitende Partij die de andere Verdragsluitende Partij overeenkomstig dit Verdrag een stuk toezendt, dat niet in de taal van de andere Verdragsluitende Partij is gesteld, verstrekt op verzoek een vertaling van dit stuk in de taal van de andere Verdragsluitende Partij.
 
-#### Artikel 6. Waarmerking van stukken ter ondersteuning van het verzoek
+##### Artikel 6. Waarmerking van stukken ter ondersteuning van het verzoek
 
 1. Een stuk dat overeenkomstig artikel 5 bij het verzoek tot uitlevering is gevoegd, wordt, indien het naar behoren is gewaarmerkt, toegelaten als bewijs in een uitleveringsprocedure in de aangezochte Staat.
 
@@ -90,7 +115,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 - (b). het is gelegaliseerd door het stempel van een ambtenaar, ministerie van algemeen bestuur of minister van de verzoekende Staat.
 
-#### Artikel 7. Aanvullende gegevens
+##### Artikel 7. Aanvullende gegevens
 
 1. Indien de aangezochte Staat van oordeel is dat de ter ondersteuning van het verzoek tot uitlevering van een persoon verstrekte gegevens niet toereikend zijn om te voldoen aan de vereisten van zijn wet met betrekking tot uitlevering, kan die Staat verzoeken dat binnen een door hem gestelde termijn aanvullende gegevens worden verstrekt.
 
@@ -98,7 +123,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 3. Wanneer de persoon uit detentie is ontslagen overeenkomstig het tweede lid, stelt de aangezochte Staat de verzoekende Staat zo spoedig mogelijk daarvan in kennis.
 
-#### Artikel 8. Voorlopige aanhouding
+##### Artikel 8. Voorlopige aanhouding
 
 1. In geval van spoed kan een Verdragsluitende Partij door tussenkomst van haar bevoegde autoriteit met medewerking van de Internationale Politie-Organisatie (INTERPOL) of op andere wijze verzoeken om voorlopige aanhouding van de gezochte persoon in afwachting van de indiening van het verzoek tot uitlevering langs diplomatieke weg.
 
@@ -110,7 +135,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 5. De invrijheidstelling van een persoon ingevolge het vierde lid van dit artikel sluit niet de aanhangigmaking uit van een procedure met het oog op uitlevering van de opgeëiste persoon, indien het verzoek daarna alsnog wordt ontvangen.
 
-#### Artikel 9. Samenloop van verzoeken
+##### Artikel 9. Samenloop van verzoeken
 
 1. Wanneer van twee of meer Staten verzoeken worden ontvangen tot uitlevering van dezelfde persoon, bepaalt de aangezochte Staat aan welke van die Staten die persoon wordt uitgeleverd en stelt hij de verzoekende Staat in kennis van zijn beslissing.
 
@@ -126,7 +151,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 - (e). de vaste verblijfplaats van de persoon.
 
-#### Artikel 10. Overlevering van uit te leveren persoon
+##### Artikel 10. Overlevering van uit te leveren persoon
 
 1. Australië behoeft geen beslissing op een verzoek tot uitlevering te nemen vóór het verstrijken van vijftien dagen vanaf de datum waarop de persoon door de rechter als voor uitlevering in aanmerking komend is verklaard of, indien beroep is aangetekend, vóór het verstrijken van vijftien dagen vanaf de uitspraak van de rechter die het beroep behandelt of, wanneer er tegen die uitspraak wederom beroep is aangetekend bij een andere rechter, de datum van de uitspraak van die andere rechter.
 
@@ -138,7 +163,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 5. Indien overmacht een Partij belet de uit te leveren persoon over te leveren of te verwijderen, stelt zij de andere Partij daarvan in kennis. De twee Verdragsluitende Partijen komen een nieuwe datum van overlevering overeen en het bepaalde in het vierde lid van dit artikel is van toepassing.
 
-#### Artikel 11. Overdracht van voorwerpen
+##### Artikel 11. Overdracht van voorwerpen
 
 1. Op verzoek van de verzoekende Staat worden, voor zover dat naar het recht van de aangezochte Staat is toegestaan en behoudens de rechten van derden, die naar behoren dienen te worden geëerbiedigd, alle in de aangezochte Staat aangetroffen voorwerpen, die zijn verworven als gevolg van het strafbare feit of die vereist zijn als bewijs, overgedragen indien de uitlevering wordt toegestaan.
 
@@ -146,7 +171,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 3. Waar het recht van de aangezochte Staat of de rechten van derden zulks vereisen, worden aldus overgedragen voorwerpen kosteloos aan de aangezochte Staat teruggegeven, indien die Staat zulks verzoekt.
 
-#### Artikel 12. Specialiteitsbeginsel
+##### Artikel 12. Specialiteitsbeginsel
 
 1. Onder voorbehoud van het derde lid wordt een ingevolge dit Verdrag uitgeleverde persoon niet in hechtenis gesteld of berecht of aan enige andere beperking van zijn bewegingsvrijheid onderworpen binnen het grondgebied van de verzoekende Staat ter zake van een ander vóór zijn uitlevering gepleegd feit dan:
 
@@ -158,7 +183,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 3. Het eerste lid is niet van toepassing indien de persoon de gelegenheid had de verzoekende Staat te verlaten en zulks niet heeft gedaan binnen 45 dagen na zijn invrijheidstelling ter zake van het strafbare feit waarvoor hij werd uitgeleverd of indien de persoon is teruggekeerd naar het grondgebied van de verzoekende Staat nadat hij dit had verlaten.
 
-#### Artikel 13. Verderlevering aan een derde staat
+##### Artikel 13. Verderlevering aan een derde staat
 
 1. Wanneer een persoon door de aangezochte Staat is overgeleverd aan de verzoekende Staat, levert laatstgenoemde Staat die persoon niet verder aan een derde Staat voor een strafbaar feit begaan vóór zijn overlevering, tenzij:
 
@@ -168,7 +193,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 2. Alvorens in te stemmen met een verzoek ingevolge het eerste lid, letter (a), van dit artikel kan de aangezochte Staat verzoeken om overlegging van de in artikel 5 vermelde stukken.
 
-#### Artikel 14. Doortocht
+##### Artikel 14. Doortocht
 
 1. Wanneer een persoon moet worden uitgeleverd aan een Verdragsluitende Partij vanuit een derde Staat of vanuit een Verdragsluitende Partij aan een derde Staat via het grondgebied van de andere Verdragsluitende Partij, verzoekt de Verdragsluitende Partij aan welke of door welke die persoon moet worden uitgeleverd de andere Verdragsluitende Partij de doortocht van die persoon door haar grondgebied toe te laten.
 
@@ -180,7 +205,7 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 5. De Verdragsluitende Partij aan welke of door welke de persoon wordt uitgeleverd, vergoedt de andere Verdragsluitende Partij alle door die andere Verdragsluitende Partij in verband met de doortocht gemaakte kosten, indien de andere Verdragsluitende Partij om vergoeding verzoekt.
 
-#### Artikel 15. Vertegenwoordiging en kosten
+##### Artikel 15. Vertegenwoordiging en kosten
 
 1. De aangezochte Staat controleert of de documentatie ter ondersteuning van een verzoek tot uitlevering aan de formele vereisten voldoet alvorens deze aan zijn rechterlijke autoriteiten voor te leggen en behandelt het verzoek van de verzoekende Staat ten overstaan van deze autoriteiten.
 
@@ -188,11 +213,11 @@ De aangezochte Staat kan de behandeling van een verzoek tot uitlevering van een 
 
 3. De verzoekende Staat draagt de kosten gemaakt voor het overbrengen van de persoon vanuit het grondgebied van de aangezochte Staat.
 
-#### Artikel 16. Wederzijdse rechtshulp in strafzaken
+##### Artikel 16. Wederzijdse rechtshulp in strafzaken
 
 Behoudens enig nader tussen hen te sluiten verdrag, komen de Verdragsluitende Partijen overeen, elkander overeenkomstig hun nationale wetgeving de ruimste mate van wederzijdse rechtshulp in strafzaken te verlenen, wanneer zulke hulp wordt verzocht door hun bevoegde rechterlijke autoriteiten ten behoeve van het onderzoek of de vervolging wegens onder hun rechtsmacht vallende strafbare feiten.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de tweede maand volgend op de datum waarop de Verdragsluitende Partijen elkander ervan in kennis hebben gesteld dat aan hun wettelijke vereisten is voldaan.
 
@@ -200,11 +225,11 @@ Behoudens enig nader tussen hen te sluiten verdrag, komen de Verdragsluitende Pa
 
 3. Indien de kennisgeving van het Koninkrijk der Nederlanden ingevolge het eerste lid van dit artikel niet voorziet in de toepassing van dit Verdrag voor het gehele Koninkrijk, blijft het in het tweede lid van dit artikel als tweede genoemde Verdrag van kracht tussen het Koninkrijk der Nederlanden en Australië met betrekking tot dat deel van het Koninkrijk der Nederlanden waarvan in de kennisgeving wordt verklaard dat dit Verdrag er niet voor van toepassing is.
 
-#### Artikel 18. Territoriale toepasselijkheid
+##### Artikel 18. Territoriale toepasselijkheid
 
 Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag van toepassing voor het grondgebied van het gehele Koninkrijk, tenzij in de in artikel 17 bedoelde kennisgeving van het Koninkrijk der Nederlanden anders wordt bepaald.
 
-#### Artikel 19. Beëindiging
+##### Artikel 19. Beëindiging
 
 1. Elk der Verdragsluitende Partijen kan dit Verdrag te allen tijde beëindigen door middel van een schriftelijke kennisgeving aan de andere Partij. De beëindiging wordt van kracht zes maanden na de datum van ontvangst van een zodanige kennisgeving.
 

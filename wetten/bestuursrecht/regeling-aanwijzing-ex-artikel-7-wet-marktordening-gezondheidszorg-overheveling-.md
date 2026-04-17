@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overheveling van geriatrische revalidatiezorg van AWBZ naar Zorgverzekeringswet)"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 26 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de overheveling van geriatrische revalidatiezorg van de AWBZ naar de Zorgverzekeringswet"
 identifier: "BWBR0031752"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-07-04
-laatste_update: 2012-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031752"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-04"
+last_updated: "2012-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031752"
+soort: "ministeriele-regeling"
+stam_id: "11782933"
+version_id: "19491342"
+internal_id: "C27329831"
+label_id: "11755354"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031752/2012-07-04/0"
+intitule_bron: "Stcrt.2012-13406"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-06-26"
+intitule_published: "2012-07-04"
+intitule_in_force: "2012-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-13406"
+original_signed_date: "2012-06-26"
+original_published_date: "2012-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-13406"
+entry_into_force_date: "2012-07-04"
+jci_1_3: "jci1.3:c:BWBR0031752&z=2012-07-04&g=2012-07-04"
+jci_1_0: "1.0:c:BWBR0031752&g=2012-07-04"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 Wet marktordening gezondheidszorg (overheveling van geriatrische revalidatiezorg van AWBZ naar Zorgverzekeringswet)"
+signed_date: "2012-06-26"
+entry_into_force: "2012-07-04"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 26 juni 2012, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de overheveling van geriatrische revalidatiezorg van de AWBZ naar de Zorgverzekeringswet
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -20,7 +46,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -44,33 +70,33 @@ In deze aanwijzing wordt verstaan onder:
 
 - j. **bestaande zorgaanbieder:** zorgaanbieder die geriatrische revalidatiezorg biedt en die daartoe vóór 1 januari 2012 productieafspraken heeft gemaakt met een zorgkantoor.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op geriatrische revalidatiezorg.
 
-#### Artikel 3. uitvoering aanwijzing
+##### Artikel 3. uitvoering aanwijzing
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast. Tevens stelt zij tijdig vóór 1 januari 2013 de grenzen vast, bedoeld in de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=4&artikel=9&z=2012-07-04&g=2012-07-04) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=4&artikel=10&z=2012-07-04&g=2012-07-04) van deze aanwijzing.
 
 #### Paragraaf 2. Nieuw bekostigingssysteem
 
-#### Artikel 4. prestatiebeschrijving
+##### Artikel 4. prestatiebeschrijving
 
 De zorgautoriteit voert met ingang van 2013 een bekostigingssysteem in voor geriatrische revalidatiezorg, waarbij de prestatiebeschrijvingen gebaseerd zijn op dbc-zorgproducten. Zij hanteert daarbij als vertrekpunt de thans bestaande prestatiebeschrijvingen voor herstelgerichte behandeling met verpleging en verzorging (zzp VV9a) en AWBZ-revalidatie in dagbehandeling (H801).
 
-#### Artikel 5. tarief
+##### Artikel 5. tarief
 
 1. De zorgautoriteit voert met ingang van 2013 voor de prestaties, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=2&artikel=4&z=2012-07-04&g=2012-07-04), maximumtarieven in als bedoeld in [artikel 50, eerste lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 2. De zorgautoriteit verwerkt de kapitaallasten volledig in de maximumtarieven. Zij neemt daarbij de kapitaallasten behorend bij de bestaande prestatiebeschrijvingen, genoemd in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=2&artikel=4&z=2012-07-04&g=2012-07-04), als vertrekpunt, met dien verstaande dat zij wat betreft zzp VV9a rekent met de volledige nhc.
 
-#### Artikel 6. budgettaire neutraliteit
+##### Artikel 6. budgettaire neutraliteit
 
 De zorgautoriteit voert het nieuwe bekostigingssysteem macrobudgettair neutraal in. Het hiermee gemoeide bedrag is € 817 mln (prijspeil 2012)
 
 #### Paragraaf 3. Overgangsregime bestaande zorgaanbieders
 
-#### Artikel 7. omzet
+##### Artikel 7. omzet
 
 1. De zorgautoriteit stelt per bestaande zorgaanbieder met betrekking tot de afrekening van het jaar 2013 ambtshalve een verrekenbedrag vast. Dit bedrag is het positieve of negatieve verschil tussen het totale bedrag dat een bestaande zorgaanbieder in 2013 op basis van het nieuwe bekostigingssysteem, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=2&artikel=4&z=2012-07-04&g=2012-07-04), voor geleverde zorg rechtsgeldig in rekening heeft gebracht of zou hebben kunnen brengen, ten opzichte van het bedrag dat die aanbieder in 2013 rechtsgeldig in rekening had kunnen brengen als het bekostigingssysteem voor AWBZ-zorg nog van toepassing was geweest.
 
@@ -78,7 +104,7 @@ De zorgautoriteit voert het nieuwe bekostigingssysteem macrobudgettair neutraal 
 
 3. Indien de zorgautoriteit voor een zorgaanbieder een negatief verrekenbedrag vaststelt, stelt zij, met toepassing van [artikel 56b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=56b), een vereffeningbedrag per relevante zorgverzekeraar vast naar rato van het aandeel van de desbetreffende zorgverzekeraar in de omzet van die aanbieder.
 
-#### Artikel 8. kapitaallasten
+##### Artikel 8. kapitaallasten
 
 De zorgautoriteit voorziet met betrekking tot de kapitaallasten van bestaande zorgaanbieders, met inachtneming van de [Aanwijzing nhc’s](https://wetten.overheid.nl/jci1.3:c:BWBR0030282), in een overgangsregime, waarin:
 
@@ -88,13 +114,13 @@ De zorgautoriteit voorziet met betrekking tot de kapitaallasten van bestaande zo
 
 #### Paragraaf 4. Macrobeheersmodel
 
-#### Artikel 9. macrogrens
+##### Artikel 9. macrogrens
 
 1. De zorgautoriteit stelt voor geriatrische revalidatiezorg waarop ingevolge een zorgverzekering als bedoeld in [artikel 1, onder d, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=1) aanspraak bestaat, voor alle zorgaanbieders gezamenlijk ambtshalve een macrogrens voor het jaar 2013 vast, zijnde een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 2. De zorgautoriteit stelt de macrogrens, bedoeld in het eerste lid, en de individuele grenzen, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=4&artikel=10&z=2012-07-04&g=2012-07-04), vast op grond van het bedrag voor zorg dat voor 2013 ten hoogste beschikbaar is, zijnde € 730 miljoen (prijspeil 2012).
 
-#### Artikel 10. individuele grenzen
+##### Artikel 10. individuele grenzen
 
 1. De zorgautoriteit stelt ambtshalve per individuele zorgaanbieder voor het jaar 2013 een individuele grens vast, zijnde een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). Daarbij houdt zij als volgt rekening met de macrogrens:
 
@@ -108,17 +134,17 @@ De zorgautoriteit voorziet met betrekking tot de kapitaallasten van bestaande zo
 
 4. Tot de omzet van een zorgaanbieder worden niet gerekend de nacalculatiebedragen die voortvloeien uit de toepassing van de beleidsregels van de zorgautoriteit ter uitwerking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=3&artikel=8&z=2012-07-04&g=2012-07-04).
 
-#### Artikel 11. handhaving macrogrens
+##### Artikel 11. handhaving macrogrens
 
 De zorgautoriteit handhaaft de macrogrens door handhaving van de individuele grenzen, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=4&artikel=10&z=2012-07-04&g=2012-07-04).
 
-#### Artikel 12. macrogrens niet overschreden
+##### Artikel 12. macrogrens niet overschreden
 
 1. Indien door alle zorgaanbieders samen de macrogrens niet is overschreden, stelt de zorgautoriteit ambtshalve vast dat voor iedere zorgaanbieder de individuele grens gelijk is aan de door die aanbieder in 2013 gerealiseerde omzet.
 
 2. De zorgautoriteit doet een vaststelling als bedoeld in het eerste lid niet dan nadat ik haar uiterlijk 1 december 2014 schriftelijk heb laten weten dat het bedrag, genoemd in [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=4&artikel=9&z=2012-07-04&g=2012-07-04), niet is overschreden.
 
-#### Artikel 13. macrogrens wel overschreden
+##### Artikel 13. macrogrens wel overschreden
 
 1. Indien door alle zorgaanbieders samen de macrogrens is overschreden, geeft de zorgautoriteit de individuele zorgaanbieders ambtshalve een aanwijzing in de zin van [artikel 76, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76), tot de afdracht aan het Zorgverzekeringsfonds van een door de zorgautoriteit vastgesteld bedrag.
 
@@ -128,7 +154,7 @@ De zorgautoriteit handhaaft de macrogrens door handhaving van de individuele gre
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 14. impactanalyse
+##### Artikel 14. impactanalyse
 
 De zorgautoriteit stuurt mij uiterlijk 1 september 2013 een onderbouwde, kwalitatieve analyse van de (mogelijk) gevolgen van de invoering van het nieuwe bekostigingssysteem, bedoeld in [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=2&z=2012-07-04&g=2012-07-04), en de werking van het overgangsregime, bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031752&paragraaf=3&z=2012-07-04&g=2012-07-04).
 

@@ -1,13 +1,35 @@
 ---
-title: "Schepenbesluit 1965"
+title: "Besluit van 5 augustus 1965, tot uitvoering van de artikelen 3, 4bis, 5, 9, 17, 66 en 73 van de Schepenwet"
 identifier: "BWBR0002501"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002501"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002501"
+soort: "rijksKB"
+stam_id: "2874853"
+version_id: "4427822"
+internal_id: "C4427821"
+label_id: "2825634"
+dtd_version: "2.0"
+original_entry_into_force: "1965-05-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002501/2010-10-10/0"
+intitule_bron: "Stb.1965-367"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-08-05"
+intitule_status: "goed"
+original_publication: "Stb.1965-367"
+original_signed_date: "1965-08-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1965-05-26"
+jci_1_3: "jci1.3:c:BWBR0002501&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0002501&g=2010-10-10"
+citeertitel_status: "officieel"
+short_title: "Schepenbesluit 1965"
+signed_date: "1965-08-05"
+entry_into_force: "1965-05-26"
 ---
-
 # Besluit van 5 augustus 1965, tot uitvoering van de artikelen 3, 4bis, 5, 9, 17, 66 en 73 van de Schepenwet
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 17 mei 1965, no. 30.505 J, Directoraat-Generaal van Scheepvaart;
@@ -26,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Inleidende bepalingen
 
-#### Artikel 1. Omschrijvingen
+##### Artikel 1. Omschrijvingen
 
 1. Onverminderd het bepaalde in het derde lid van dit artikel en het bepaalde in [artikel 107](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=107&z=2010-10-10&g=2010-10-10) van dit besluit, wordt voor de toepassing van dit besluit verstaan onder:
 
@@ -150,21 +172,21 @@ indien de grootte van een schip is vastgesteld volgens de bepalingen krachtens d
 
 4. Voor de toepassing van dit besluit wordt, ook wat de strafbepalingen betreft, onder «eigenaar» verstaan de persoon, die het beheer over het schip heeft, hetzij hij eigenaar, reder of boekhouder is van de rederij van het schip, hetzij hem het schip in gebruik is gegeven.
 
-#### Artikel 1a. Toepassing op vissersvaartuigen
+##### Artikel 1a. Toepassing op vissersvaartuigen
 
 De bepalingen van dit besluit zijn niet van toepassing op vissersvaartuigen.
 
-#### Artikel 1b. Wederzijdse erkenning
+##### Artikel 1b. Wederzijdse erkenning
 
 Vervallen
 
-#### Artikel 2. Scheepsidentificatienummer
+##### Artikel 2. Scheepsidentificatienummer
 
 Vervallen
 
 ### Hoofdstuk II. Certificaten
 
-#### Artikel 3. Algemene certificaten
+##### Artikel 3. Algemene certificaten
 
 1. Een certificaat als bedoeld in [artikel 3, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3) wordt alleen afgegeven indien:
 
@@ -180,27 +202,27 @@ Vervallen
 
 - c. voor alle schepen: een nationaal certificaat van deugdelijkheid.
 
-#### Artikel 4. Certificaten voor bepaalde schepen
+##### Artikel 4. Certificaten voor bepaalde schepen
 
 Vervallen
 
-#### Artikel 5. Aanvullende certificaten voor bijzondere schepen
+##### Artikel 5. Aanvullende certificaten voor bijzondere schepen
 
 Vervallen
 
 ### Hoofdstuk III. Onderzoeken en eisen
 
-#### Artikel 6. Aanwijzing klassebureaus
+##### Artikel 6. Aanwijzing klassebureaus
 
 Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebureaus genaamd, waarvan de regels kunnen gelden als eisen als bedoeld in [artikel 3a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001876&artikel=3a).
 
-#### Artikel 7. Klassebureau naar keuze
+##### Artikel 7. Klassebureau naar keuze
 
 1. Voordat een eerste onderzoek plaatsvindt voor de verlening van certificaten, andere dan die genoemd in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=II&artikel=3&z=2010-10-10&g=2010-10-10), kiest de eigenaar of de bouwer van een schip voor de regels van een bepaald klassebureau. Bij volgende onderzoeken worden de regels van dat klassebureau toegepast. Een schip voldoet met betrekking tot de romp, de machine- en elektrische installaties en de uitrusting aan de regels, gegeven door dat klassebureau, voorzover die regels niet in strijd zijn met het bepaalde bij of krachtens dit besluit.
 
 2. Vervallen.
 
-#### Artikel 8. Onderzoeken
+##### Artikel 8. Onderzoeken
 
 1. Vervallen.
 
@@ -220,61 +242,61 @@ Onze Minister wijst de natuurlijke personen of de rechtspersonen aan, klassebure
 
 4. Een schip wordt tevens onderworpen aan een onderzoek van de romp, de machine- en elektrische installaties en de uitrusting volgens de regels van het gekozen klassebureau.
 
-#### Artikel 9. Conformiteitsdocument
+##### Artikel 9. Conformiteitsdocument
 
 Vervallen
 
-#### Artikel 10. Veiligheidsmanagementcertificaat
+##### Artikel 10. Veiligheidsmanagementcertificaat
 
 Vervallen
 
-#### Artikel 11. Certificaat van uitwatering
+##### Artikel 11. Certificaat van uitwatering
 
 Vervallen
 
-#### Artikel 12. Certificaat van deugdelijkheid
+##### Artikel 12. Certificaat van deugdelijkheid
 
 Vervallen
 
-#### Artikel 13. Veiligheidscertificaat voor passagiersschepen
+##### Artikel 13. Veiligheidscertificaat voor passagiersschepen
 
 Vervallen
 
-#### Artikel 14. Veiligheidscertificaat voor vrachtschepen
+##### Artikel 14. Veiligheidscertificaat voor vrachtschepen
 
 Vervallen
 
-#### Artikel 15. Radioveiligheidscertificaat
+##### Artikel 15. Radioveiligheidscertificaat
 
 Vervallen
 
-#### Artikel 16. Nationaal certificaat voor dierenvervoer
+##### Artikel 16. Nationaal certificaat voor dierenvervoer
 
 Vervallen
 
-#### Artikel 17. Certificaat van ontheffing
+##### Artikel 17. Certificaat van ontheffing
 
 Vervallen
 
-#### Artikel 18. Uitvoering van de onderzoeken
+##### Artikel 18. Uitvoering van de onderzoeken
 
 Vervallen
 
-#### Artikel 19. Aanvraag en afgifte van certificaten
+##### Artikel 19. Aanvraag en afgifte van certificaten
 
 Vervallen
 
-#### Artikel 20. Weigering van afgifte
+##### Artikel 20. Weigering van afgifte
 
 Indien een in Aruba, Curaçao of Sint Maarten ingediende aanvraag van een certificaat wordt afgewezen, geschiedt de afwijzing schriftelijk en met redenen omkleed door toezending of uitreiking aan de belanghebbende.
 
-#### Artikel 21. Geldigheidsduur van certificaten
+##### Artikel 21. Geldigheidsduur van certificaten
 
 1. Een certificaat van deugdelijkheid voor passagiersschepen en een veiligheidscertificaat voor passagiersschepen hebben een geldigheidsduur van een jaar. Alle overige certificaten hebben een geldigheidsduur van vijf jaar.
 
 2. Het Hoofd van de Scheepvaartinspectie kan certificaten afgeven met een kortere geldigheidsduur dan in het eerste lid bepaald indien nog niet alle onderzoeken naar zijn genoegen zijn voltooid of indien hij nog niet over alle door hem gevraagde gegevens van het schip beschikt.
 
-#### Artikel 22. Vernieuwing van certificaten
+##### Artikel 22. Vernieuwing van certificaten
 
 Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwijking van [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=21&z=2010-10-10&g=2010-10-10), geldig vanaf de datum van voltooiing van het hernieuwde onderzoek tot:
 
@@ -282,207 +304,207 @@ Na de voltooiing van een hernieuwd onderzoek is het nieuwe certificaat, in afwij
 
 - b. voor alle andere certificaten met uitzondering van het conformiteitsdocument en het veiligheidsmanagementcertificaat: een datum niet later dan vijf jaar na de vervaldatum van het bestaande certificaat.
 
-#### Artikel 23. Herstel van de geldigheid
+##### Artikel 23. Herstel van de geldigheid
 
 Vervallen
 
-#### Artikel 24. Vernieuwing van conformiteitsdocumenten en veiligheidsmanagementcertificaten
+##### Artikel 24. Vernieuwing van conformiteitsdocumenten en veiligheidsmanagementcertificaten
 
 Vervallen
 
-#### Artikel 25. Verlenging geldigheidsduur certificaat
+##### Artikel 25. Verlenging geldigheidsduur certificaat
 
 Vervallen
 
-#### Artikel 26. Schip niet in een haven
+##### Artikel 26. Schip niet in een haven
 
 Vervallen
 
-#### Artikel 27. Korte reizen
+##### Artikel 27. Korte reizen
 
 Vervallen
 
-#### Artikel 28. Bijzondere omstandigheden
+##### Artikel 28. Bijzondere omstandigheden
 
 Vervallen
 
-#### Artikel 29. Extra onderzoek
+##### Artikel 29. Extra onderzoek
 
 Vervallen
 
-#### Artikel 30. Vervallen van certificaten
+##### Artikel 30. Vervallen van certificaten
 
 Een certificaat van deugdelijkheid verliest zijn geldigheid indien het schip wordt onttrokken aan de bestemming die het had ten tijde van de afgifte van dat certificaat.
 
-#### Artikel 31. Handhaving van de toestand na onderzoek
+##### Artikel 31. Handhaving van de toestand na onderzoek
 
 Vervallen
 
-#### Artikel 32. Wijze van handelen bij schade
+##### Artikel 32. Wijze van handelen bij schade
 
 Vervallen
 
-#### Artikel 33. Toepassing op niet werktuiglijk voortbewogen schepen
+##### Artikel 33. Toepassing op niet werktuiglijk voortbewogen schepen
 
 Vervallen
 
-#### Artikel 34. Toepassing op niet werktuiglijk voortbewogen schepen
+##### Artikel 34. Toepassing op niet werktuiglijk voortbewogen schepen
 
 Vervallen
 
 ### Hoofdstuk IV. Toestand van de scheepsromp, de werktuigen en de inrichting
 
-#### Artikel 35. Keuring materialen
+##### Artikel 35. Keuring materialen
 
 Vervallen
 
-#### Artikel 36. Sterkte-eisen
+##### Artikel 36. Sterkte-eisen
 
 Vervallen
 
-#### Artikel 37. Uitvoering constructie
+##### Artikel 37. Uitvoering constructie
 
 Vervallen
 
-#### Artikel 38. Waterdichtheid
+##### Artikel 38. Waterdichtheid
 
 Vervallen
 
-#### Artikel 39. Waterdichte indeling en stabiliteit in beschadigde toestand
+##### Artikel 39. Waterdichte indeling en stabiliteit in beschadigde toestand
 
 Vervallen
 
-#### Artikel 40. Waterdichte deuren, terugslagkleppen of afsluiters in pijpdoorvoeringen van waterdichte schotten; mangaten
+##### Artikel 40. Waterdichte deuren, terugslagkleppen of afsluiters in pijpdoorvoeringen van waterdichte schotten; mangaten
 
 Vervallen
 
-#### Artikel 41. Soort en plaats van waterdichte deuren; wijze van bediening
+##### Artikel 41. Soort en plaats van waterdichte deuren; wijze van bediening
 
 Vervallen
 
-#### Artikel 42. Patrijspoorten, ramen en lichtranden
+##### Artikel 42. Patrijspoorten, ramen en lichtranden
 
 Vervallen
 
-#### Artikel 43. Vul- en luchtpijpen
+##### Artikel 43. Vul- en luchtpijpen
 
 Vervallen
 
-#### Artikel 43a. Voorzieningen voor peilen
+##### Artikel 43a. Voorzieningen voor peilen
 
 Vervallen
 
-#### Artikel 44. Openingen in de huid, de dekken en de bovenbouw; luchtkokers
+##### Artikel 44. Openingen in de huid, de dekken en de bovenbouw; luchtkokers
 
 Vervallen
 
-#### Artikel 45. Toegangen, uitgangen en liften
+##### Artikel 45. Toegangen, uitgangen en liften
 
 Vervallen
 
-#### Artikel 46. Bescherming van de bemanning
+##### Artikel 46. Bescherming van de bemanning
 
 Vervallen
 
-#### Artikel 47. Waterlozing
+##### Artikel 47. Waterlozing
 
 Vervallen
 
-#### Artikel 48. Afsluiting buitenboordsopeningen
+##### Artikel 48. Afsluiting buitenboordsopeningen
 
 Vervallen
 
-#### Artikel 49. De brug van een schip
+##### Artikel 49. De brug van een schip
 
 Vervallen
 
-#### Artikel 50. Stuurinrichtingen en roer
+##### Artikel 50. Stuurinrichtingen en roer
 
 Vervallen
 
-#### Artikel 51. Anker- en meergerei
+##### Artikel 51. Anker- en meergerei
 
 Vervallen
 
-#### Artikel 52. Bescherming tegen brand
+##### Artikel 52. Bescherming tegen brand
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
-#### Artikel 54a
+##### Artikel 54a
 
 Vervallen
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57. Gebruik van vloeibare brandstof
+##### Artikel 57. Gebruik van vloeibare brandstof
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59. Lensinrichting
+##### Artikel 59. Lensinrichting
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62. Elektrische installatie
+##### Artikel 62. Elektrische installatie
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
-#### Artikel 63a. Bescherming tegen geluidhinder
+##### Artikel 63a. Bescherming tegen geluidhinder
 
 Aan boord van een schip moeten maatregelen worden getroffen om geluidhinder te beperken. In ruimten voor machines moet daartoe worden voldaan aan het bepaalde in [artikel 36 van bijlage II van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=II&z=2010-10-10&g=2010-10-10) . In overige ruimten moet daartoe worden voldaan aan de door het Hoofd van de Scheepvaartinspectie gestelde nadere regels.
 
-#### Artikel 64. Verblijven voor de bemanning
+##### Artikel 64. Verblijven voor de bemanning
 
 Vervallen
 
-#### Artikel 64a. Berging van voeding en drinkwater
+##### Artikel 64a. Berging van voeding en drinkwater
 
 Vervallen
 
-#### Artikel 65. Slijtage
+##### Artikel 65. Slijtage
 
 Vervallen
 
 ### Hoofdstuk V. Uitwatering, diepgang en stabiliteit
 
-#### Artikel 66. Uitwaterings- en diepgangsmerken
+##### Artikel 66. Uitwaterings- en diepgangsmerken
 
 Vervallen
 
-#### Artikel 67. Houtvaart
+##### Artikel 67. Houtvaart
 
 Vervallen
 
-#### Artikel 67a. Stabiliteit
+##### Artikel 67a. Stabiliteit
 
 1. Tezamen met de resultaten van de hellingproef als bedoeld in [artikel 12 van dit besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=III&artikel=12&z=2010-10-10&g=2010-10-10), dienen voldoende gegevens betreffende de stabiliteit voor verschillende hellingen van het schip te worden overgelegd aan het Hoofd van de Scheepvaartinspectie. De stabiliteit van het schip dient daarbij in alle voorkomende bedrijfstoestanden ten minste te voldoen aan door het Hoofd van de Scheepvaartinspectie vast te stellen criteria.
 
@@ -490,335 +512,335 @@ Vervallen
 
 #### § 1. Reddingmiddelen en -voorzieningen
 
-#### Artikel 67b. Reddingmiddelen en -voorzieningen
+##### Artikel 67b. Reddingmiddelen en -voorzieningen
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
 #### § 2. Veiligheidsmiddelen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87. Voorzieningen voor overnemen loods
+##### Artikel 87. Voorzieningen voor overnemen loods
 
 Vervallen
 
-#### Artikel 88. Middelen voor het opsporen en bestrijden van brand
+##### Artikel 88. Middelen voor het opsporen en bestrijden van brand
 
 Vervallen
 
-#### Artikel 89. Veiligheidslampen
+##### Artikel 89. Veiligheidslampen
 
 Vervallen
 
-#### Artikel 89a. Beschermende uitrusting
+##### Artikel 89a. Beschermende uitrusting
 
 Vervallen
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
-#### Artikel 92a. Hefwerktuigen
+##### Artikel 92a. Hefwerktuigen
 
 Vervallen
 
-#### Artikel 93. Medische uitrusting aan boord
+##### Artikel 93. Medische uitrusting aan boord
 
 1. Aan boord van een schip is de bij ministeriële regeling voorgeschreven medische uitrusting, bestaande uit geneesmiddelen, verplegingsartikelen en antidota, met de daarbij behorende controlelijsten en handleidingen, aanwezig volgens de voorschriften, vervat in [Bijlage XVI](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&bijlage=XVI&z=2010-10-10&g=2010-10-10).
 
 2. De kapitein is verplicht zorg te dragen dat de medische uitrusting in goede staat verkeert, wordt aangevuld en zonodig wordt vernieuwd, zodra dit mogelijk is, in ieder geval bij voorrang tijdens de normale bevoorradingsprocedures. Hij kan het gebruik en het beheer van de medische uitrusting aan boord, onverminderd zijn eigen verantwoordelijkheid, overdragen aan een of meer schepelingen die voldoen aan de eisen, bedoeld in [artikel 117a](https://wetten.overheid.nl/jci1.3:c:BWBR0002501&hoofdstuk=VII&artikel=117a&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 93a. Wachtalarminstallatie
+##### Artikel 93a. Wachtalarminstallatie
 
 Aan boord van een schip, geen klein vaartuig zijnde, dat is voorzien van een automatische stuurinrichting, moet op de brug een wachtalarminstallatie van een goedgekeurd type zijn aangebracht.
 
 #### § 3. Hulpmiddelen bij de navigatie
 
-#### Artikel 94. Zeekaarten enzovoort
+##### Artikel 94. Zeekaarten enzovoort
 
 Vervallen
 
-#### Artikel 95. Kompassen
+##### Artikel 95. Kompassen
 
 Vervallen
 
-#### Artikel 95a. Radarinstallaties en automatische radar-plot-apparatuur
+##### Artikel 95a. Radarinstallaties en automatische radar-plot-apparatuur
 
 Vervallen
 
-#### Artikel 96. Richtingzoekers
+##### Artikel 96. Richtingzoekers
 
 Vervallen
 
-#### Artikel 97. Overige nautische instrumenten
+##### Artikel 97. Overige nautische instrumenten
 
 Vervallen
 
-#### Artikel 98. Handboek Opsporing en Redding op Zee (Mersar), lijst van reddingseinen, dagseinlamp, Internationaal Seinboek en seinvlaggen
+##### Artikel 98. Handboek Opsporing en Redding op Zee (Mersar), lijst van reddingseinen, dagseinlamp, Internationaal Seinboek en seinvlaggen
 
 Vervallen
 
-#### Artikel 99. Toepassing op gesleept wordende schepen
+##### Artikel 99. Toepassing op gesleept wordende schepen
 
 Vervallen
 
 #### § 4. Hulpmiddelen ter voorkoming van aanvaringen en strandingen
 
-#### Artikel 100. Hulpmiddelen ingevolge aanvaringsreglementen
+##### Artikel 100. Hulpmiddelen ingevolge aanvaringsreglementen
 
 Vervallen
 
-#### Artikel 100a. Nood-sleepvoorzieningen op tankschepen
+##### Artikel 100a. Nood-sleepvoorzieningen op tankschepen
 
 Vervallen
 
 #### § 5. Radio-inrichtingen
 
-#### Artikel 101. Radio-inrichtingen
+##### Artikel 101. Radio-inrichtingen
 
 Vervallen
 
-#### Artikel 102
+##### Artikel 102
 
 Vervallen
 
-#### Artikel 103
+##### Artikel 103
 
 Vervallen
 
-#### Artikel 104
+##### Artikel 104
 
 Vervallen
 
 #### § 6. Niet voorgeschreven uitrusting
 
-#### Artikel 105. niet-voorgeschreven uitrusting
+##### Artikel 105. niet-voorgeschreven uitrusting
 
 Vervallen
 
-#### Artikel 106
+##### Artikel 106
 
 Vervallen
 
 ### Hoofdstuk VII. Vervallen
 
-#### Artikel 107. Omschrijvingen
+##### Artikel 107. Omschrijvingen
 
 Vervallen
 
-#### Artikel 108. Toepassing
+##### Artikel 108. Toepassing
 
 Vervallen
 
-#### Artikel 109. Algemeen
+##### Artikel 109. Algemeen
 
 Vervallen
 
-#### Artikel 109a. Arts aan boord
+##### Artikel 109a. Arts aan boord
 
 Vervallen
 
-#### Artikel 110. Aantal scheepsgezellen
+##### Artikel 110. Aantal scheepsgezellen
 
 Vervallen
 
-#### Artikel 111. Gediplomeerd scheepsgezel
+##### Artikel 111. Gediplomeerd scheepsgezel
 
 Vervallen
 
-#### Artikel 112. Schepeling ten behoeve van de werktuiglijke installatie
+##### Artikel 112. Schepeling ten behoeve van de werktuiglijke installatie
 
 Vervallen
 
-#### Artikel 113. Zeewacht op de brug
+##### Artikel 113. Zeewacht op de brug
 
 Vervallen
 
-#### Artikel 114. Zeewacht in verband met de werktuiglijke installaties
+##### Artikel 114. Zeewacht in verband met de werktuiglijke installaties
 
 Vervallen
 
-#### Artikel 115. Experimentele bemanningseisen
+##### Artikel 115. Experimentele bemanningseisen
 
 Vervallen
 
-#### Artikel 116. Veiligheidscursus schepelingen
+##### Artikel 116. Veiligheidscursus schepelingen
 
 Vervallen
 
-#### Artikel 117. Certificaathouders Maritieme Radiocommunicatie
+##### Artikel 117. Certificaathouders Maritieme Radiocommunicatie
 
 Vervallen
 
-#### Artikel 117a. Medische opleiding en bijscholing
+##### Artikel 117a. Medische opleiding en bijscholing
 
 Vervallen
 
-#### Artikel 118. Geneeskundige verklaringen betreffende het gezichtsorgaan en het gehoororgaan
+##### Artikel 118. Geneeskundige verklaringen betreffende het gezichtsorgaan en het gehoororgaan
 
 Vervallen
 
-#### Artikel 119. Verklaringen van geschiktheid en bekwaamheid
+##### Artikel 119. Verklaringen van geschiktheid en bekwaamheid
 
 Vervallen
 
-#### Artikel 119a
+##### Artikel 119a
 
 Vervallen
 
-#### Artikel 120. Duur rusttijd
+##### Artikel 120. Duur rusttijd
 
 Vervallen
 
-#### Artikel 120a
+##### Artikel 120a
 
 Vervallen
 
-#### Artikel 120b
+##### Artikel 120b
 
 Vervallen
 
 ### Hoofdstuk VIIA. Bemanning aan boord van vissersvaartuigen
 
-#### Artikel 120c
+##### Artikel 120c
 
 Vervallen
 
-#### Artikel 120d
+##### Artikel 120d
 
 Vervallen
 
-#### Artikel 120e
+##### Artikel 120e
 
 Vervallen
 
-#### Artikel 120f
+##### Artikel 120f
 
 Vervallen
 
 ### Hoofdstuk VIII. Vervoer van passagiers
 
-#### Artikel 121. Eisen voor passagiersruimten
+##### Artikel 121. Eisen voor passagiersruimten
 
 Vervallen
 
-#### Artikel 122. Ziekenverblijf, ziekenkooi
+##### Artikel 122. Ziekenverblijf, ziekenkooi
 
 Vervallen
 
-#### Artikel 123. Voeding en drinkwater
+##### Artikel 123. Voeding en drinkwater
 
 Vervallen
 
-#### Artikel 124. Vervoer van dekpassagiers
+##### Artikel 124. Vervoer van dekpassagiers
 
 Vervallen
 
-#### Artikel 125
+##### Artikel 125
 
 Vervallen
 
-#### Artikel 126
+##### Artikel 126
 
 Vervallen
 
 ### Hoofdstuk IX. Vervoer van lading
 
-#### Artikel 127. Algemene eisen
+##### Artikel 127. Algemene eisen
 
 Vervallen
 
-#### Artikel 128. Vervoer van gestort graan
+##### Artikel 128. Vervoer van gestort graan
 
 Vervallen
 
-#### Artikel 129. Steenkool, eierkolen, steenkoolbriketten, enz.
+##### Artikel 129. Steenkool, eierkolen, steenkoolbriketten, enz.
 
 Vervallen
 
-#### Artikel 130. Gevaarlijke stoffen
+##### Artikel 130. Gevaarlijke stoffen
 
 Gevaarlijke stoffen worden in de volgende klassen onderverdeeld:
 
@@ -848,331 +870,331 @@ Klasse 8. bijtende stoffen;
 
 Klasse 9. andere stoffen die gevaar kunnen opleveren.
 
-#### Artikel 130a. Vervoer van gestorte gevaarlijke stoffen
+##### Artikel 130a. Vervoer van gestorte gevaarlijke stoffen
 
 Vervallen
 
-#### Artikel 130b. Vervoer van overige gestorte ladingen
+##### Artikel 130b. Vervoer van overige gestorte ladingen
 
 Vervallen
 
-#### Artikel 130c. Nadere regels voor het vervoer van gestorte lading
+##### Artikel 130c. Nadere regels voor het vervoer van gestorte lading
 
 Vervallen
 
-#### Artikel 130d. Vervoer van verpakte gevaarlijke stoffen
+##### Artikel 130d. Vervoer van verpakte gevaarlijke stoffen
 
 Vervallen
 
-#### Artikel 130e. Nadere regels voor het vervoer van verpakte gevaarlijke stoffen
+##### Artikel 130e. Nadere regels voor het vervoer van verpakte gevaarlijke stoffen
 
 Vervallen
 
-#### Artikel 130f. Gevaarlijke stoffen bestemd voor scheepsgebruik of behorend tot de scheepsuitrusting
+##### Artikel 130f. Gevaarlijke stoffen bestemd voor scheepsgebruik of behorend tot de scheepsuitrusting
 
 Vervallen
 
-#### Artikel 130g. Vervoer in bulk van vloeibare ladingen met gevaarlijke eigenschappen
+##### Artikel 130g. Vervoer in bulk van vloeibare ladingen met gevaarlijke eigenschappen
 
 Vervallen
 
-#### Artikel 130h. Antidota en zuurstofbeademingskoffer
+##### Artikel 130h. Antidota en zuurstofbeademingskoffer
 
 Vervallen
 
-#### Artikel 131. Kruitkamer
+##### Artikel 131. Kruitkamer
 
 Vervallen
 
-#### Artikel 132. Deklasten
+##### Artikel 132. Deklasten
 
 Vervallen
 
-#### Artikel 133. Dieren
+##### Artikel 133. Dieren
 
 Vervallen
 
 ### Hoofdstuk X. Verplichtingen van de kapitein
 
-#### Artikel 133a. Toegankelijk maken voor onderzoek
+##### Artikel 133a. Toegankelijk maken voor onderzoek
 
 Vervallen
 
-#### Artikel 134. Uitwatering
+##### Artikel 134. Uitwatering
 
 Vervallen
 
-#### Artikel 135. Sterkte en stabiliteit
+##### Artikel 135. Sterkte en stabiliteit
 
 Vervallen
 
-#### Artikel 135a. Peilen
+##### Artikel 135a. Peilen
 
 Vervallen
 
-#### Artikel 136
+##### Artikel 136
 
 Vervallen
 
-#### Artikel 136a. Reddingmiddelen en -voorzieningen
+##### Artikel 136a. Reddingmiddelen en -voorzieningen
 
 Vervallen
 
-#### Artikel 136b. Aantal en persoonsgegevens opvarenden
+##### Artikel 136b. Aantal en persoonsgegevens opvarenden
 
 Vervallen
 
-#### Artikel 137
+##### Artikel 137
 
 Vervallen
 
-#### Artikel 137a. Alarmrol en instructies voor noodgevallen
+##### Artikel 137a. Alarmrol en instructies voor noodgevallen
 
 Vervallen
 
-#### Artikel 138. Veiligheidsplan, brandbeveiligingsplan of brandbeveiligingsboekje
+##### Artikel 138. Veiligheidsplan, brandbeveiligingsplan of brandbeveiligingsboekje
 
 Vervallen
 
-#### Artikel 139
+##### Artikel 139
 
 Vervallen
 
-#### Artikel 139a. Appèls, oefeningen en brandrondedienst
+##### Artikel 139a. Appèls, oefeningen en brandrondedienst
 
 Vervallen
 
-#### Artikel 140. Voorzorgsmaatregelen tegen brand
+##### Artikel 140. Voorzorgsmaatregelen tegen brand
 
 Vervallen
 
-#### Artikel 141. Sluiten van waterdichte deuren, enzovoort
+##### Artikel 141. Sluiten van waterdichte deuren, enzovoort
 
 Vervallen
 
-#### Artikel 142. Oefeningen met waterdichte deuren, enzovoort
+##### Artikel 142. Oefeningen met waterdichte deuren, enzovoort
 
 Vervallen
 
-#### Artikel 142a. Gebruik beschermende uitrusting
+##### Artikel 142a. Gebruik beschermende uitrusting
 
 Vervallen
 
-#### Artikel 143. Elektrische inrichtingen
+##### Artikel 143. Elektrische inrichtingen
 
 Vervallen
 
-#### Artikel 144. Besturing van het schip
+##### Artikel 144. Besturing van het schip
 
 Vervallen
 
-#### Artikel 144a. Manoeuvreereigenschappen en stopwegen
+##### Artikel 144a. Manoeuvreereigenschappen en stopwegen
 
 Vervallen
 
-#### Artikel 145. Gebruik van luiken en luikschilden
+##### Artikel 145. Gebruik van luiken en luikschilden
 
 Vervallen
 
-#### Artikel 146. Kompassen
+##### Artikel 146. Kompassen
 
 Vervallen
 
-#### Artikel 147. Richtingzoekers
+##### Artikel 147. Richtingzoekers
 
 Vervallen
 
-#### Artikel 148. Radiowachten
+##### Artikel 148. Radiowachten
 
 Vervallen
 
-#### Artikel 149. Elektronische navigatiemiddelen
+##### Artikel 149. Elektronische navigatiemiddelen
 
 Vervallen
 
-#### Artikel 150. Bemanning
+##### Artikel 150. Bemanning
 
 Vervallen
 
-#### Artikel 150a. Voeding en drinkwater
+##### Artikel 150a. Voeding en drinkwater
 
 Vervallen
 
-#### Artikel 151
+##### Artikel 151
 
 Vervallen
 
-#### Artikel 152
+##### Artikel 152
 
 Vervallen
 
-#### Artikel 153
+##### Artikel 153
 
 Vervallen
 
-#### Artikel 154. Vervoer van lading
+##### Artikel 154. Vervoer van lading
 
 Vervallen
 
-#### Artikel 155. Noodalarmering en noodseinen
+##### Artikel 155. Noodalarmering en noodseinen
 
 Vervallen
 
-#### Artikel 156. Verplichtingen en procedure aangaande noodberichten
+##### Artikel 156. Verplichtingen en procedure aangaande noodberichten
 
 Vervallen
 
-#### Artikel 157. Veiligheidsberichten
+##### Artikel 157. Veiligheidsberichten
 
 Vervallen
 
-#### Artikel 158. Routering van schepen
+##### Artikel 158. Routering van schepen
 
 Vervallen
 
-#### Artikel 158a. Meldingssystemen
+##### Artikel 158a. Meldingssystemen
 
 Vervallen
 
-#### Artikel 159. Kennisgeven van averijen en ongevallen
+##### Artikel 159. Kennisgeven van averijen en ongevallen
 
 Vervallen
 
-#### Artikel 160. Dagboeken
+##### Artikel 160. Dagboeken
 
 Vervallen
 
-#### Artikel 161
+##### Artikel 161
 
 Vervallen
 
-#### Artikel 162. Loodsladders
+##### Artikel 162. Loodsladders
 
 Vervallen
 
-#### Artikel 163. Verplichte boekwerken
+##### Artikel 163. Verplichte boekwerken
 
 Vervallen
 
 ### Hoofdstuk XI. Verplichtingen van de eigenaar
 
-#### Artikel 164. Veiligheidsmanagementsysteem
+##### Artikel 164. Veiligheidsmanagementsysteem
 
 Vervallen
 
-#### Artikel 164a. Medewerking bij onderzoek
+##### Artikel 164a. Medewerking bij onderzoek
 
 Vervallen
 
-#### Artikel 165. Onderzoek van de romp aan de buitenzijde
+##### Artikel 165. Onderzoek van de romp aan de buitenzijde
 
 Vervallen
 
-#### Artikel 166. Verschaffen nodige middelen
+##### Artikel 166. Verschaffen nodige middelen
 
 Vervallen
 
-#### Artikel 166a. Registratie van opvarenden
+##### Artikel 166a. Registratie van opvarenden
 
 Vervallen
 
-#### Artikel 166b
+##### Artikel 166b
 
 Vervallen
 
 ### Hoofdstuk XII. Voorschriften met betrekking tot oorlog en oorlogsgevaar
 
-#### Artikel 167. Permanente voorzieningen
+##### Artikel 167. Permanente voorzieningen
 
 Vervallen
 
-#### Artikel 168. Marinebescheiden
+##### Artikel 168. Marinebescheiden
 
 Vervallen
 
-#### Artikel 169. Oorlogsuitrusting
+##### Artikel 169. Oorlogsuitrusting
 
 Vervallen
 
-#### Artikel 170. Verplichtingen van de kapitein
+##### Artikel 170. Verplichtingen van de kapitein
 
 Vervallen
 
-#### Artikel 171. Geldigheidsduur
+##### Artikel 171. Geldigheidsduur
 
 Vervallen
 
 ### Hoofdstuk XIII. Aanvullende voorschriften
 
-#### Artikel 172
+##### Artikel 172
 
 Vervallen
 
-#### Artikel 173. Gevallen van overmacht
+##### Artikel 173. Gevallen van overmacht
 
 Vervallen
 
-#### Artikel 174. Aanvullende voorschriften
+##### Artikel 174. Aanvullende voorschriften
 
 1. In het belang van een goede uitvoering van dit besluit, kunnen door het Hoofd van de Scheepvaartinspectie nadere regels worden gegeven.
 
 ### Hoofdstuk XIIIA. Voorschriften met betrekking tot schepen die worden gebezigd voor doeleinden van bijzondere aard
 
-#### Artikel 174a
+##### Artikel 174a
 
 Vervallen
 
-#### Artikel 174b
+##### Artikel 174b
 
 Vervallen
 
 ### Hoofdstuk XIV. Strafbepalingen
 
-#### Artikel 175
+##### Artikel 175
 
 Vervallen
 
-#### Artikel 176
+##### Artikel 176
 
 Vervallen
 
-#### Artikel 177
+##### Artikel 177
 
 Vervallen
 
-#### Artikel 178
+##### Artikel 178
 
 Vervallen
 
-#### Artikel 179
+##### Artikel 179
 
 Vervallen
 
-#### Artikel 180
+##### Artikel 180
 
 Vervallen
 
-#### Artikel 181
+##### Artikel 181
 
 Vervallen
 
-#### Artikel 182
+##### Artikel 182
 
 Vervallen
 
 ### Hoofdstuk XV. Toepassing op bestaande schepen
 
-#### Artikel 182a. Constructie, inrichting en uitrusting
+##### Artikel 182a. Constructie, inrichting en uitrusting
 
 Vervallen
 
 ### Hoofdstuk XVI. Slotbepalingen
 
-#### Artikel 183
+##### Artikel 183
 
 Vervallen
 
-#### Artikel 184
+##### Artikel 184
 
 Dit besluit kan worden aangehaald als «Schepenbesluit 1965». Het werkt terug tot 26 mei 1965.
 

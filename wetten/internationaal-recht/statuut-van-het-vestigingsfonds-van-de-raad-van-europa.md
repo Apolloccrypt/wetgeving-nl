@@ -1,22 +1,44 @@
 ---
 title: "Statuut van het Vestigingsfonds van de Raad van Europa"
 identifier: "BWBV0005105"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-08-08
-laatste_update: 1978-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005105"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-08-08"
+last_updated: "1978-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005105"
+soort: "verdrag"
+stam_id: "10004469853"
+version_id: "10004681632"
+internal_id: "C10007194361"
+label_id: "10004454924"
+dtd_version: "2.0"
+original_entry_into_force: "1978-08-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005105/1978-08-08/0"
+intitule_bron: "Trb.1978-74"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-06-22"
+intitule_in_force: "1978-09-07"
+intitule_status: "goed"
+original_publication: "Trb.1978-74"
+original_published_date: "1978-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-74"
+entry_into_force_date: "1978-08-08"
+jci_1_3: "jci1.3:c:BWBV0005105&z=1978-08-08&g=1978-08-08"
+jci_1_0: "1.0:c:BWBV0005105&g=1978-08-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-08-08"
 ---
-
 # Statuut van het Vestigingsfonds van de Raad van Europa
 
-#### Artikel I. Oprichting van het Fonds
+##### Artikel I. Oprichting van het Fonds
 
 Er wordt een Vestigingsfonds van de Raad van Europa (hierna te noemen „het Fonds”) opgericht.
 
 Het Fonds valt onder de Raad van Europa en is onderworpen aan zijn oppergezag.
 
-#### Artikel II. Doel
+##### Artikel II. Doel
 
 Het doel van het Fonds is hulp te bieden bij het oplossen van de problemen waarmede de Europese landen worden of kunnen worden geconfronteerd als gevolg van de aanwezigheid van bevolkingsoverschotten, met inbegrip van nationale vluchtelingen, door het verschaffen of het garanderen van leningen ter financiering van:
 
@@ -24,11 +46,11 @@ Het doel van het Fonds is hulp te bieden bij het oplossen van de problemen waarm
 
 - (b). door een Lid van het Fonds goedgekeurde vestigingsprogramma's die voorzien in het verstrekken van leningen aan of het doen van uitgaven ten behoeve van in Europa verblijvende personen die zich willen vestigen in een land binnen of buiten Europa en die zich verplichten tot terugbetaling van het bedrag van deze leningen of uitgaven voor zover deze door het Fonds zijn gefinancierd.
 
-#### Artikel III. Lidmaatschap
+##### Artikel III. Lidmaatschap
 
 Regeringen die Lid zijn van de Raad van Europa kunnen Lid worden van het Fonds overeenkomstig de bepalingen van artikel IV, tweede lid, letter (a), onder (i). Andere Regeringen die tot het lidmaatschap van het Fonds toegelaten worden, kunnen Lid van het Fonds worden op de bijzondere voorwaarden die het Fonds voor ieder geval afzonderlijk kan stellen, overeenkomstig de bepalingen van artikel IV, tweede lid, letter (a), onder (ii).
 
-#### Artikel IV. Verplichtingen der Leden
+##### Artikel IV. Verplichtingen der Leden
 
 Eerste lid. - Deelnemingsbewijzen
 
@@ -52,13 +74,13 @@ Vierde lid. - Beperking van de aansprakelijkheid
 
 Een Lid is niet jegens derden aansprakelijk voor enige verplichting van het Fonds.
 
-#### Artikel V. Bijdragen en leningen
+##### Artikel V. Bijdragen en leningen
 
 Het Fonds kan bijdragen aanvaarden voor aanwendingen die niet strijdig zijn met het doel van het Fonds. Het Fonds kan ook geld lenen.
 
 Het Fonds is gemachtigd bijdragen in ontvangst te nemen, die geschonken worden voor specifieke doelen die binnen zijn doelstellingen vallen.
 
-#### Artikel VI. Algemene bepalingen met betrekking tot leningen en waarborgen
+##### Artikel VI. Algemene bepalingen met betrekking tot leningen en waarborgen
 
 Eerste lid. - Leningsvormen
 
@@ -104,7 +126,7 @@ Zesde lid. - Verschaffen van inlichtingen
 
 De Raad van Bestuur, waarnaar in artikel X van dit Statuut wordt verwezen, bepaalt welke inlichtingen en waarborgen een leningnemer dient te verschaffen ter ondersteuning van zijn aanvraag.
 
-#### Artikel VII. Beleggingen
+##### Artikel VII. Beleggingen
 
 Eerste lid. - Tijdelijke beleggingen
 
@@ -116,7 +138,7 @@ Tweede lid. - Cumulatie en belegging van reserves
 
 De reserves van het Fonds die ontstaan door een overschot in ontvangsten uit rente en commissies kunnen geheel of gedeeltelijk gecumuleerd en op een door de Raad van Bestuur vast te stellen wijze belegd worden.
 
-#### Artikel VIII. Organisatie, bestuur en toezicht
+##### Artikel VIII. Organisatie, bestuur en toezicht
 
 De organisatie en het bestuur van, alsmede het toezicht op het Fonds wordt als volgt verdeeld:
 
@@ -130,7 +152,7 @@ De organisatie en het bestuur van, alsmede het toezicht op het Fonds wordt als v
 
 als bepaald in de hierna volgende artikelen.
 
-#### Artikel IX. Het College van Bewindvoerders
+##### Artikel IX. Het College van Bewindvoerders
 
 Eerste lid. - Besluiten voorbehouden aan de Leden
 
@@ -166,7 +188,7 @@ Tweede lid. - Stemprocedure
 
 - (b). Elk Lid van het Fonds heeft één stem voor elk deelnemingsbewijs dat het in zijn bezit heeft.
 
-#### Artikel X. Raad van Bestuur
+##### Artikel X. Raad van Bestuur
 
 Eerste lid. - Besluiten voorbehouden aan de Raad van Bestuur
 
@@ -206,7 +228,7 @@ Zesde lid. - Vergoeding voor leden van de Raad van Bestuur
 
 De leden van de Raad van Bestuur ontvangen van het Fonds geen vergoeding, maar redelijke onkosten, gemaakt tijdens de uitoefening van hun functie als lid van de Raad van Bestuur, worden door het Fonds vergoed.
 
-#### Artikel XI. De President
+##### Artikel XI. De President
 
 Eerste lid. - Functies van de President
 
@@ -232,17 +254,17 @@ Derde lid. - Benoeming en salaris van de President
 
 De President wordt benoemd voor een periode van drie jaar en kan bij verstrijken van deze termijn worden herkozen. Het bedrag van zijn salaris wordt vastgesteld door de Raad van Bestuur.
 
-#### Artikel XII. Controlecommissie
+##### Artikel XII. Controlecommissie
 
 De Controlecommissie controleert jaarlijks de boeken van het Fonds, en verifieert de juistheid van de exploitatierekeningen en de balans.
 
 Het accountantsrapport vermeldt of de balans en de exploitatierekeningen overeenstemmen met de boeken en of zij een juist beeld geven van de stand van zaken betreffende het Fonds aan het einde van elke financiële periode.
 
-#### Artikel XIII. Zetel
+##### Artikel XIII. Zetel
 
 De Zetel van het Fonds is gevestigd in Straatsburg, Frankrijk. De Raad van Bestuur beslist waar de zetel van de uitvoerende diensten gevestigd zal zijn.
 
-#### Artikel XIV. Schorsing van de werkzaamheden en liquidatie van het Fonds
+##### Artikel XIV. Schorsing van de werkzaamheden en liquidatie van het Fonds
 
 Eerste lid. - Schorsing van de werkzaamheden
 
@@ -264,7 +286,7 @@ Nadat aan alle geldelijke verplichtingen van het Fonds, met inbegrip van uitoefe
 
 - (d). Wanneer deze aandelen aan Leden van het Fonds uitbetaald worden in de munteenheid van andere Leden van het Fonds, nemen deze laatsten de nodige maatregelen om, overeenkomstig de krachtens hun wisselkoersvoorschriften bepaalde procedure, transacties met de aldus uitgekeerde bedragen te verzekeren.
 
-#### Artikel XV. Slotbepalingen
+##### Artikel XV. Slotbepalingen
 
 Eerste lid. - Organisatorische vergadering
 

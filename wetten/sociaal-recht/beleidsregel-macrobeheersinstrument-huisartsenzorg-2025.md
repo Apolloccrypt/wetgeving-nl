@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel macrobeheersinstrument huisartsenzorg 2025"
 identifier: "BWBR0050009"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050009"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050009"
+soort: "zbo"
+stam_id: "17177383"
+version_id: "30239622"
+internal_id: "C43315471"
+label_id: "17085314"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050009/2025-01-01/0"
+intitule_bron: "Stcrt.2024-22094"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-25"
+intitule_published: "2024-07-09"
+intitule_in_force: "2024-07-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22094"
+original_signed_date: "2024-06-25"
+original_published_date: "2024-07-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22094"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050009&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050009&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-06-25"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel macrobeheersinstrument huisartsenzorg 2025
 
 Gelet op [artikel 57, eerste lid, onderdeel d, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om een grens vast te stellen op grond van [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
@@ -18,7 +43,7 @@ Gelet op [artikel 59 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078
 
 Besluit
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,15 +73,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Doel van deze beleidsregel is vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om ontstane overschrijdingen van het Budgettair kader zorg, betrekking hebbend op huisartsenzorg, met behulp van een macrobeheersinstrument, achteraf te redresseren.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op huisartsgeneeskundige zorg zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 4. Bekendmaking in 2024 van de grenzen
+##### Artikel 4. Bekendmaking in 2024 van de grenzen
 
 1. De minister maakt in 2024 bij kaderbrief aan de NZa de hoogte van de macro-omzetgrens voor 2025 bekend.
 
@@ -66,7 +91,7 @@ Deze beleidsregel is van toepassing op huisartsgeneeskundige zorg zoals omschrev
 
 4. De NZa maakt de hiervoor genoemde beschikkingen bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door mededeling van de vaststelling in de Staatscourant. De NZa kan de grenzen genoemd in artikel 4.2 en 4.3 vaststellen in één enkele beschikking.
 
-#### Artikel 5. Procedure na 2025
+##### Artikel 5. Procedure na 2025
 
 1. De minister bericht de NZa na afloop van 2025 met een realisatiebrief of de collectieve bovengrens van 2025 is overschreden en, zo ja, welk totaalbedrag door de zorgaanbieders gezamenlijk in het Zorgverzekeringsfonds moet worden gestort, het doelbedrag.
 
@@ -90,11 +115,11 @@ Deze beleidsregel is van toepassing op huisartsgeneeskundige zorg zoals omschrev
 
 10. De NZa legt in de [Regeling macrobeheersinstrument huisartsenzorg 2025](onbekend) vast op welke wijze en op welk moment zorgverzekeraars haar over de gerealiseerde omzet van de zorgaanbieders dienen te informeren.
 
-#### Artikel 6. Intrekken oude beleidsregels
+##### Artikel 6. Intrekken oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel macrobeheersinstrument huisartsenzorg 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045951), met kenmerk BR/REG- 22141, ingetrokken.
 
-#### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Bekendmaking, inwerkingtreding en citeertitel
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit van enige uitvoeringsbesluiten (belastingherziening 2001)"
+title: "Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluiten"
 identifier: "BWBR0012065"
-categorie: "Belastingrecht"
-publicatiedatum: 2007-07-18
-laatste_update: 2007-07-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012065"
+country: "nl"
+rank: "amvb"
+publication_date: "2007-07-18"
+last_updated: "2007-07-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012065"
+soort: "AMvB"
+stam_id: "1459673"
+version_id: "2186572"
+internal_id: "C2186571"
+label_id: "1418434"
+dtd_version: "2.0"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012065/2007-07-18/0"
+intitule_bron: "Stb.2000-640"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2000-12-28"
+intitule_in_force: "2000-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2000-640"
+original_signed_date: "2000-12-20"
+original_published_date: "2000-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2000-640"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012065&z=2007-07-18&g=2007-07-18"
+jci_1_0: "1.0:c:BWBR0012065&g=2007-07-18"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit van enige uitvoeringsbesluiten (belastingherziening 2001)"
+signed_date: "2000-12-20"
+entry_into_force: "2001-01-01"
 ---
-
 # Besluit van 20 december 2000 tot aanpassing van enige uitvoeringsbesluiten
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 november 2000, nr. WDB2000/874M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
@@ -22,37 +48,37 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Aanpassingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit Algemene wet inzake rijksbelastingen 1964.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Uitvoeringsbesluit vennootschapsbelasting 1971.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit beleggingsinstellingen.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Uitvoeringsbesluit belastingen van rechtsverkeer.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Uitvoeringsbesluit Invorderingswet 1990.
 
 ### Hoofdstuk 2. Overgangsrecht
 
-#### Artikel I
+##### Artikel I
 
 1. Voor de toepassing van [artikel 3.127, tweede lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.127), juncto de in [Hoofdstuk 2, artikel I, onderdeel Ra, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) opgenomen overgangsregeling voor de inhaal van pensioentekorten, worden de in de kalenderjaren 1994 tot en met 2000 niet aangewende bedragen berekend en in aanmerking genomen als volgt:
 
@@ -66,7 +92,7 @@ Op het aldus berekende bedrag aan ruimte worden vervolgens voor de berekening va
 
 2. Voor de toepassing van het eerste lid kan de belastingplichtige de verzekeraar van het pensioen verzoeken om een opgave van de pensioenaangroei in een jaar dat is gelegen in de periode van 1994 tot en met 2000 te verstrekken. De opgave van de pensioenaangroei wordt door de verzekeraar van het pensioen binnen drie maanden na ontvangst van het verzoek aan de belastingplichtige verstrekt.
 
-#### Artikel II
+##### Artikel II
 
 1. Indien een lichaam is opgericht na 1 januari 1998 wordt het bedrag, bedoeld in [hoofdstuk 2, artikel IV, onderdeel B, tweede lid, onderdeel b, van de Invoeringswet Wet inkomstenbelasting 2001](onbekend), gesteld op nihil.
 
@@ -98,11 +124,11 @@ Op het aldus berekende bedrag aan ruimte worden vervolgens voor de berekening va
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Uitvoeringsbesluit inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 1. Dit besluit treedt in werking met ingang van 1 januari 2001.
 

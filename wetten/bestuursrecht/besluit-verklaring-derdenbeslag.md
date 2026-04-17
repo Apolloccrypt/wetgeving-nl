@@ -1,13 +1,37 @@
 ---
-title: "Besluit Verklaring derdenbeslag"
+title: "Besluit van 22 augustus 1991, tot uitvoering van de artikelen 475 lid 2 en 476b van het Wetboek van Burgerlijke Rechtsvordering"
 identifier: "BWBR0005174"
-categorie: "Bestuursrecht"
-publicatiedatum: 2021-01-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005174"
+country: "nl"
+rank: "amvb"
+publication_date: "2021-01-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005174"
+soort: "AMvB"
+stam_id: "1195023"
+version_id: "27112482"
+internal_id: "C38339751"
+label_id: "1157384"
+dtd_version: "2.0"
+original_entry_into_force: "2020-10-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005174/2021-01-01/0"
+intitule_bron: "Stb.1991-436"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-08-22"
+intitule_status: "goed"
+original_publication: "Stb.2020-405"
+original_signed_date: "2020-10-13"
+original_published_date: "2020-10-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-405"
+entry_into_force_date: "2020-10-13"
+jci_1_3: "jci1.3:c:BWBR0005174&z=2021-01-01&g=2021-01-01"
+jci_1_0: "1.0:c:BWBR0005174&g=2021-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit Verklaring derdenbeslag"
+signed_date: "2020-10-13"
+entry_into_force: "2020-10-13"
 ---
-
 # Besluit van 22 augustus 1991, tot uitvoering van de artikelen 475 lid 2 en 476b van het Wetboek van Burgerlijke Rechtsvordering
 
 Op de voordracht van Onze Minister van Justitie van 24 april 1991, Stafafdeling Wetgeving nieuw Burgerlijk Wetboek, nr. 126496/91/6;
@@ -22,11 +46,11 @@ Gezien het nader rapport van Onze Minister van Justitie van 14 augustus 1991, St
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Het model voor het in [artikel 475, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475) bedoelde formulier, wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 476**b** van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476b) bedoelde verklaring wordt tot de in dat artikel bedoelde deurwaarder gericht door:
 
@@ -42,7 +66,7 @@ Het model voor het in [artikel 475, tweede lid, van het Wetboek van Burgerlijke 
 
 2. In het geval van het eerste lid onder **a** geeft de deurwaarder aan de derde terstond een schriftelijk ontvangstbewijs af. In andere gevallen zendt de deurwaarder de derde onverwijld een zodanig bewijs toe.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit kan worden aangehaald als het Besluit Verklaring derdenbeslag.
 
@@ -276,7 +300,7 @@ ondertekening
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De kosten die op grond van een overeenkomst met de geëxecuteerde door de derde-beslagene kunnen worden gerekend voor het afgeven van de verklaring en de afwikkeling van het beslag, bedoeld in [artikel 476a, derde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=476a), bedragen maximaal € 80.
 

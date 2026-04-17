@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg"
 identifier: "BWBR0052437"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-21
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052437"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-03-21"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052437"
+soort: "zbo"
+stam_id: "17817263"
+version_id: "31491572"
+internal_id: "C44971191"
+label_id: "17714464"
+dtd_version: "2.0"
+original_entry_into_force: "2026-03-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052437/2026-03-21/0"
+intitule_bron: "Stcrt.2026-10755"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2026-03-10"
+intitule_published: "2026-03-20"
+intitule_in_force: "2026-03-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2026-10755"
+original_signed_date: "2026-03-10"
+original_published_date: "2026-03-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2026-10755"
+entry_into_force_date: "2026-03-21"
+jci_1_3: "jci1.3:c:BWBR0052437&z=2026-03-21&g=2026-03-21"
+jci_1_0: "1.0:c:BWBR0052437&g=2026-03-21"
+citeertitel_status: "officieel"
+signed_date: "2026-03-10"
+entry_into_force: "2026-03-21"
 ---
-
 # Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg
 
 Gelet op [artikel 57, eerste lid, onderdeel b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 52, aanhef en onderdeel e, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=52), worden tarieven en prestatiebeschrijvingen die uit de voorliggende beleidsregel voortvloeien ambtshalve door de NZa vastgesteld.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -26,7 +51,7 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgaanbieder:** De natuurlijke persoon of rechtspersoon als bedoeld in [artikel 1 aanhef en onder c van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=1).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om de tarieven en prestatiebeschrijvingen vast te stellen voor medische kindzorg die wordt geleverd:
 
@@ -34,11 +59,11 @@ Het doel van deze beleidsregel is vast te leggen op welke wijze de NZa gebruik m
 
 - –. met verblijf.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op medische kindzorg en daarmee gepaard gaand verblijf waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw), voor zover deze wordt geleverd door een rechtspersoonlijkheid bezittend organisatorisch verband ten behoeve van verpleegkundige dagopvang of verblijf.
 
-#### Artikel 4. Prestatieomschrijvingen
+##### Artikel 4. Prestatieomschrijvingen
 
 In deze beleidsregel worden de volgende prestaties onderscheiden:
 
@@ -78,7 +103,7 @@ De eerstgenoemde zorgaanbieder wordt in dit kader aangeduid als ‘uitvoerende z
 
 De uitvoerende zorgaanbieder brengt de prestatie onderlinge dienstverlening in rekening bij de opdrachtgevende zorgaanbieder die de prestatie bij de uitvoerende zorgaanbieder heeft aangevraagd.
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 1. **Tariefsoort**
 
@@ -108,7 +133,7 @@ Een tarief dat niet hoger is dan berekend op basis van artikel 5.2 kan aan eenie
 
 Een tarief dat tot stand komt met toepassing van artikel 5.2 en 5.3 kan uitsluitend in rekening worden gebracht aan (a) de ziektekostenverzekeraar met wie het verhoogde maximumtarief schriftelijk is overeengekomen of (b) de verzekerde ten behoeve van wie een ziektekostenverzekering met betrekking tot medische kindzorg is gesloten bij een ziektekostenverzekeraar met wie een zodanig verhoogd maximumtarief schriftelijk is overeengekomen.
 
-#### Artikel 6. Indexering
+##### Artikel 6. Indexering
 
 De tarieven worden jaarlijks trendmatig aangepast met een index voor loonkosten, materiële kosten en/of kapitaallasten. Op basis van het uitgevoerde kostenonderzoek is per prestatie inzichtelijk welk aandeel van de totale kosten loonkosten, materiële kosten, dan wel kapitaallasten betreft.
 
@@ -118,13 +143,13 @@ De gehanteerde prijsindex per prestatie wordt berekend als het gewogen gemiddeld
 
 Voor het tarief bij de prestatie verpleegkundige dagopvang medische kindzorg wordt uitgegaan van 74% loonkosten en 26% materiele kosten. Voor het tarief bij de prestatie verblijf medische kindzorg wordt uitgegaan van 84% loonkosten, 10% materiele kosten en 6% kapitaallasten.
 
-#### Artikel 7. Intrekking oude beleidsregels
+##### Artikel 7. Intrekking oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047292), met kenmerk BR/REG-23146, ingetrokken.
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel verpleegkundige dagopvang en verblijf bij medische kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0051204), met kenmerk BR/REG-26109, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel verpleegkundige dagopvang en verblijf bij intensieve kindzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0047292), met kenmerk BR/REG-23146,blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

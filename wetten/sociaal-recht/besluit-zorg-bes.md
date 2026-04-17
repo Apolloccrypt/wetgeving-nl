@@ -1,16 +1,41 @@
 ---
 title: "Besluit zorg BES"
 identifier: "BWBR0028628"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028628"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028628"
+soort: "AMvB-BES"
+stam_id: "10906543"
+version_id: "17889372"
+internal_id: "C24825701"
+label_id: "10881154"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028628/2010-10-10/0"
+intitule_bron: "Stb.2010-663"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-29"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-663"
+original_signed_date: "2010-09-29"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-663"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028628&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028628&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-29"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit zorg BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ bron: "https://wetten.overheid.nl/BWBR0028628"
 
 3. Het realiseren van de aanpassingen, bedoeld in het eerste lid, onderdeel g, vindt plaats conform de richtlijnen die door het Uitvoeringsorgaan ter zake zijn vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Onder instellingen waar intramurale zorg wordt verleend, worden begrepen:
 
@@ -50,13 +75,13 @@ Onder instellingen waar intramurale zorg wordt verleend, worden begrepen:
 
 - g. instelling voor geestelijk gehandicapten: zijnde een instelling waar geestelijk gehandicapten verblijven die worden verzorgd en geholpen door speciaal daartoe opgeleid personeel met als doelstelling het contact van de geestelijk gehandicapten met de samenleving zo lang mogelijk in stand te houden, met name door voorbereiding voor doorstroming naar een semi-murale instelling of waar mogelijk naar het eigen gezin.
 
-#### Artikel 3
+##### Artikel 3
 
 Onder instellingen waar semi-murale zorg wordt verleend, worden begrepen:
 
 woonvormen voor een beperkt aantal bewoners die bestaan uit òf geestelijk gehandicapten òf grotendeels herstelde psychiatrische patiënten die onder professionele begeleiding met elkaar een zelfstandig huishouden voeren; deze instellingen worden ook wel gezinsvervangende tehuizen genoemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onder instellingen en organisaties alwaar of door welke extramurale zorg wordt verleend, worden begrepen:
 
@@ -72,7 +97,7 @@ woonvormen voor een beperkt aantal bewoners die bestaan uit òf geestelijk gehan
 
 2. De instellingen en organisaties, bedoeld in het eerste lid, bieden extramurale zorg op grond van een met het Uitvoeringsorgaan afgesloten zorgcontract.
 
-#### Artikel 5
+##### Artikel 5
 
 De zorg bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&artikel=5) omvat:
 
@@ -86,16 +111,16 @@ De zorg bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.n
 
 - e. verstrekking van kunst- en hulpmiddelen: de verstrekking van middelen aan lichamelijk gehandicapten, bij wie op het tijdstip dat de lichamelijk handicap of ziekte is ontstaan, direct met zekerheid kan worden gesteld dat deze handicap blijvend is, zonder enig uitzicht op herstel, of bij wie deze vaststelling niet mogelijk is, een half jaar na bedoeld tijdstip hiervoor in aanmerking komt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De eigen bijdrage, bedoeld in [artikel 5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028294&artikel=5), van een verzekerde aan wie intramurale zorg wordt verleend en die een pensioen ingevolge de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459) ontvangt, is gelijk aan uitsluitend dat pensioen.
 
 2. In afwijking van het eerste lid kan het Uitvoeringsorgaan de bijdrage wegens sociaal-maatschappelijke en humanitaire overwegingen tijdelijk verlagen nadat een maatschappelijk rapport door of namens de verzekerde ter beoordeling van het Uitvoeringsorgaan is overlegd.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van 1 januari 1997.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit zorg BES.

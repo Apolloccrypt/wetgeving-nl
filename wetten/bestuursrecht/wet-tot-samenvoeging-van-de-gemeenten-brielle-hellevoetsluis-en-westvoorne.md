@@ -1,14 +1,41 @@
 ---
-title: "Wet tot samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne"
+title: "Wet van 14 juli 2022, houdende samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne"
 identifier: "BWBR0047020"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-09-15
-laatste_update: 2022-09-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047020"
+country: "nl"
+rank: "wet"
+publication_date: "2022-09-15"
+last_updated: "2022-09-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047020"
+soort: "wet"
+stam_id: "16447933"
+version_id: "28817372"
+internal_id: "C40869321"
+label_id: "16370884"
+dtd_version: "2.0"
+original_entry_into_force: "2022-09-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047020/2022-09-15/0"
+intitule_bron: "Stb.2022-307"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-14"
+intitule_published: "2022-07-18"
+intitule_in_force: "2022-09-07"
+intitule_status: "goed"
+original_publication: "Stb.2022-307"
+original_signed_date: "2022-07-14"
+original_published_date: "2022-07-18"
+original_effect: "nieuwe-regeling"
+original_dossier: "35967"
+original_url_id: "stb-2022-307"
+entry_into_force_date: "2022-09-15"
+jci_1_3: "jci1.3:c:BWBR0047020&z=2022-09-15&g=2022-09-15"
+jci_1_0: "1.0:c:BWBR0047020&g=2022-09-15"
+citeertitel_status: "redactioneel"
+short_title: "Wet tot samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne"
+signed_date: "2022-07-14"
+entry_into_force: "2022-09-15"
 ---
-
-# Wet tot samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne
+# Wet van 14 juli 2022, houdende samenvoeging van de gemeenten Brielle, Hellevoetsluis en Westvoorne
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +45,19 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 #### § 1. Opheffing, instelling en rechtsopvolging
 
-#### Artikel 1
+##### Artikel 1
 
 Met ingang van de datum van herindeling worden de gemeenten Brielle, Hellevoetsluis en Westvoorne opgeheven.
 
-#### Artikel 2
+##### Artikel 2
 
 Met ingang van de datum van herindeling wordt de nieuwe gemeente Voorne aan Zee ingesteld, bestaande uit het grondgebied van de op te heffen gemeenten Brielle, Hellevoetsluis en Westvoorne, zoals aangegeven op de bij deze wet behorende kaart.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de nieuwe gemeente Voorne aan Zee wordt de op te heffen gemeente Hellevoetsluis aangewezen voor de toepassing van [artikel 36 van de Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718&artikel=36), in verband met de toepassing van de instructies en reglementen, bedoeld in dat artikel.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor de op te heffen gemeenten Brielle, Hellevoetsluis en Westvoorne wordt de nieuwe gemeente Voorne aan Zee aangewezen voor de toepassing van de volgende bepalingen van de [Wet algemene regels herindeling](https://wetten.overheid.nl/jci1.3:c:BWBR0003718):
 
@@ -42,29 +69,29 @@ Voor de op te heffen gemeenten Brielle, Hellevoetsluis en Westvoorne wordt de ni
 
 #### § 2. Wijziging van andere wetten
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt de Crisis- en herstelwet.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt de Kieswet.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt de Wet maatregelen woningmarkt 2014 II.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Wet op de rechterlijke indeling.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt de Wet veiligheidsregio’s.
 
 #### § 3. Inwerkingtreding
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 

@@ -1,20 +1,44 @@
 ---
 title: "Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika"
 identifier: "BWBR0004909"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004909"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004909"
+soort: "ministeriele-regeling"
+stam_id: "4486253"
+version_id: "6292562"
+internal_id: "C6496771"
+label_id: "4464644"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004909/1997-06-19/0"
+intitule_bron: "Stcrt.1990-227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-21"
+intitule_published: "1990-11-21"
+intitule_in_force: "1990-11-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-227"
+original_signed_date: "1990-11-21"
+original_published_date: "1990-11-21"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004909&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004909&g=1997-06-19"
+citeertitel_status: "officieel"
+signed_date: "1990-11-21"
+entry_into_force: "1991-01-01"
 ---
-
 # Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika
 
 Besluit:
 
 Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende inwoners van Nederland te brengen: Regeling inzake vermindering of vrijstelling van Zuid-Afrikaanse belasting op dividenden, interest, royalty's pensioenen en lijfrenten, genoten door inwoners van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 Aan de op 15 maart 1971 tussen Nederland en Zuid-Afrika gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 1971, nr. 72), kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -30,7 +54,7 @@ Aan de op 15 maart 1971 tussen Nederland en Zuid-Afrika gesloten Overeenkomst to
 
 - f. algehele vrijstelling van de Zuid-Afrikaanse belasting op lijfrenten, afkomstig uit Zuid-Afrika ( artikel 23). De in de onderdelen a tot en met d van dit artikel bedoelde beperkingen, vermindering en vrijstellingen zijn niet van toepassing indien de genieter van de dividenden, de interest of de royalty's in Zuid-Afrika een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort ( artikel 10, zesde lid, respectievelijk artikel 11, vierde lid en artikel 12, vierde lid).
 
-#### Artikel 2
+##### Artikel 2
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004909&artikel=1&z=1997-06-19&g=1997-06-19) is van Zuid-Afrikaanse zijde de volgende regeling getroffen:
 
@@ -50,11 +74,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004909&a
 
 - c. Verkrijgbaarheid van de formulieren Exemplaren van het formulier IT 26 zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in Zuid-Afrika bij The Commissioner for Inland Revenue, P.O. Box 402, Pretoria 0001.
 
-#### Artikel 3
+##### Artikel 3
 
 De Beschikking van de staatssecretaris van Financiën van 12 januari 1973, nr. B72/30370 (Stcrt. van 15 januari 1973, nr. 10), zoals deze is gewijzigd bij de beschikking van 11 juni 1986, nr. 086-1352 (Stcrt. van 12 juni 1986, nr. 110), wordt ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Deze regeling kan worden aangehaald als: Zuid-Afrikaanse uitvoeringsvoorschriften belastingovereenkomst Nederland-Zuid-Afrika.
 

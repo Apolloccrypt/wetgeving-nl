@@ -1,13 +1,39 @@
 ---
-title: "Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES"
+title: "Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)"
 identifier: "BWBR0050938"
-categorie: "Onderwijs"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050938"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050938"
+soort: "zbo"
+stam_id: "17403563"
+version_id: "30685872"
+internal_id: "C43990061"
+label_id: "17306754"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050938/2025-08-01/0"
+intitule_bron: "Stcrt.2025-12741"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-10"
+intitule_published: "2025-04-14"
+intitule_in_force: "2025-02-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12741"
+original_signed_date: "2025-03-10"
+original_published_date: "2025-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-12741"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBR0050938&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0050938&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES"
+signed_date: "2025-03-10"
+entry_into_force: "2025-08-01"
 ---
-
 # Regeling van het College voor toetsen en examens van 10 maart 2025, nummer CvTE-25.00532, houdende vaststelling van het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen in het primair onderwijs voor Caribisch Nederland (Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES)
 
 Gelet op [artikel 3a, eerste lid, onderdeel g, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a);
@@ -18,15 +44,15 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop artikel V, onderdeel G, van de Wet van 9 februari 2022 tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
 
-#### Artikel 1. Beoordelingskader
+##### Artikel 1. Beoordelingskader
 
 Het beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen als bedoeld in [artikel 3a, eerste lid, onderdeel g, van de Wet College voor toetsen en examens](https://wetten.overheid.nl/jci1.3:c:BWBR0025364&artikel=3a) wordt vastgesteld als opgenomen in de [bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0050938&bijlage=1&z=2025-08-01&g=2025-08-01) van deze regeling.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel V, onderdeel G, van de Wet van 9 februari 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046751&artikel=V)tot wijziging van een aantal onderwijswetten in verband met aanpassingen op het gebied van de doorstroom van het basisonderwijs naar het voortgezet onderwijs en wijziging van de stelselinrichting van doorstroomtoetsen en toetsen verbonden aan leerling- en onderwijsvolgsystemen in het basisonderwijs (Stb. 2022, 135) in werking treedt.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beoordelingskader voor de toetsen behorende tot leerling- en onderwijsvolgsystemen PO BES.
 

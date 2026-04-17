@@ -1,13 +1,37 @@
 ---
 title: "Toepassing van artikel 15 van de Wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf"
 identifier: "BWBR0003531"
-categorie: "Belastingrecht"
-publicatiedatum: 1979-01-01
-laatste_update: 1979-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003531"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1979-01-01"
+last_updated: "1979-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003531"
+soort: "beleidsregel"
+stam_id: "8464753"
+version_id: "13349322"
+internal_id: "C18458061"
+label_id: "8445284"
+dtd_version: "2.0"
+original_entry_into_force: "1979-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003531/1979-01-01/0"
+intitule_bron: "Infob.1982-11"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-11-09"
+intitule_published: "1982-01-01"
+intitule_in_force: "1982-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1982-11"
+original_signed_date: "1982-11-09"
+original_published_date: "1982-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1979-01-01"
+jci_1_3: "jci1.3:c:BWBR0003531&z=1979-01-01&g=1979-01-01"
+jci_1_0: "1.0:c:BWBR0003531&g=1979-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1982-11-09"
+entry_into_force: "1979-01-01"
 ---
-
 # Toepassing van artikel 15 van de Wet op de omzetbelasting 1968 ten aanzien van het bankbedrijf
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

@@ -1,14 +1,42 @@
 ---
-title: "Fiscale verzamelwet 2010"
+title: "Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2010)"
 identifier: "BWBR0029324"
-categorie: "Overig"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029324"
+country: "nl"
+rank: "wet"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029324"
+soort: "wet"
+stam_id: "11181293"
+version_id: "18288492"
+internal_id: "C25441601"
+label_id: "11155824"
+dtd_version: "2.0"
+original_entry_into_force: "2010-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029324/2011-07-01/0"
+intitule_bron: "Stb.2010-871"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-12-23"
+intitule_published: "2010-12-29"
+intitule_in_force: "2010-12-29"
+intitule_status: "goed"
+original_publication: "Stb.2010-871"
+original_signed_date: "2010-12-23"
+original_published_date: "2010-12-29"
+original_effect: "nieuwe-regeling"
+original_dossier: "32401"
+original_url_id: "stb-2010-871"
+entry_into_force_date: "2010-12-31"
+entry_into_force_dossier: "32401"
+jci_1_3: "jci1.3:c:BWBR0029324&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0029324&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Fiscale verzamelwet 2010"
+signed_date: "2010-12-23"
+entry_into_force: "2010-12-31"
 ---
-
-# Fiscale verzamelwet 2010
+# Wet van 23 december 2010 tot wijziging van enkele belastingwetten en enige andere wetten (Fiscale verzamelwet 2010)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,123 +44,123 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is in een aantal belast
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel II
+##### Artikel II
 
 Voor het kalenderjaar 2009 wordt in [artikel 9.4, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=9.4), zoals dat onderdeel luidde in 2009, in plaats van «€ 43» gelezen: € 50.
 
-#### Artikel III
+##### Artikel III
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IIIA
+##### Artikel IIIA
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel V
+##### Artikel V
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel VI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VII
+##### Artikel VII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIII
+##### Artikel VIII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel X
+##### Artikel X
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XA
+##### Artikel XA
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel XB
+##### Artikel XB
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XC
+##### Artikel XC
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XII
+##### Artikel XII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIII
+##### Artikel XIII
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIIIA
+##### Artikel XIIIA
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Wet op de internationale bijstandsverlening bij de heffing van belastingen.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet financiering sociale verzekeringen.
 
-#### Artikel XVA
+##### Artikel XVA
 
 Wijzigt de Wet controle op rechtspersonen.
 
-#### Artikel XVB
+##### Artikel XVB
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Wet werken aan winst.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Belastingplan 2008.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wijzigingswet Wet op de omzetbelasting 1968 (implementatie richtlijnen BTW-pakket).
 
-#### Artikel XIX
+##### Artikel XIX
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XX
+##### Artikel XX
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXI
+##### Artikel XXI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Fiscale onderhoudswet 2010.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Indien de inwerkingtreding van deze wet ertoe leidt dat voor de heffing van de inkomstenbelasting een gehuwde belastingplichtige met betrekking tot een gedeelte van een vermogensbestanddeel ophoudt resultaat uit een werkzaamheid te genieten omdat voortaan zijn echtgenoot met betrekking tot dit gedeelte resultaat uit een werkzaamheid geniet, wordt dit ten aanzien van de belastingplichtige niet als staking van een werkzaamheid aangemerkt. Bij de echtgenoot wordt bedoeld gedeelte van het vermogensbestanddeel voor de eerste keer te boek gesteld op een evenredig deel van de laatste boekwaarde van het vermogensbestanddeel bij de belastingplichtige voor de inwerkingtreding van deze wet.
 
@@ -140,15 +168,15 @@ Wijzigt de Fiscale onderhoudswet 2010.
 
 3. Dit artikel is van overeenkomstige toepassing met betrekking tot fiscale reserves als bedoeld in [artikel 3.53 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.53) alsmede voorzieningen die in overeenstemming met [artikel 3.25 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.25) zijn gevormd bij de bepaling van het resultaat uit de werkzaamheid. Degene naar wie de reserve of voorziening is overgegaan, wordt geacht in de plaats te zijn getreden van degene die de reserve of voorziening heeft gevormd.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXIVA
+##### Artikel XXIVA
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XXV
+##### Artikel XXV
 
 1. Deze wet treedt in werking met ingang van 1 januari 2011, met dien verstande dat:
 
@@ -182,7 +210,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 14. In afwijking van het eerste lid treedt [artikel XVA](https://wetten.overheid.nl/jci1.3:c:BWBR0029324&artikel=XVA&z=2011-07-01&g=2011-07-01), ingeval [artikel II, onderdeel H, van de wet van 7 juli 2010 tot wijziging van onder meer Boek 2 van het Burgerlijk Wetboek en de Wet documentatie vennootschappen in verband met het vervallen van de verklaring van geen bezwaar en het verbeteren en uitbreiden van de controle op rechtspersonen met het oog op de voorkoming en bestrijding van misbruik van rechtspersonen](https://wetten.overheid.nl/jci1.3:c:BWBR0027919&artikel=II) (Stb. 280) na 31 december 2010 in werking treedt, in werking onmiddellijk nadat bedoeld onderdeel H in werking is getreden.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Deze wet wordt aangehaald als: Fiscale verzamelwet 2010.
 

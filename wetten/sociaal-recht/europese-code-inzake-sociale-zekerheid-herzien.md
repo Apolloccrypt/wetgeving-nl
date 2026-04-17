@@ -1,13 +1,32 @@
 ---
 title: "Europese Code inzake Sociale Zekerheid (herzien)"
 identifier: "BWBV0004546"
-categorie: "Sociaal recht"
-publicatiedatum: 1990-11-06
-laatste_update: 1990-11-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004546"
+country: "nl"
+rank: "verdrag"
+publication_date: "1990-11-06"
+last_updated: "1990-11-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004546"
+soort: "verdrag"
+stam_id: "10004184203"
+version_id: "10004361622"
+internal_id: "C10006987301"
+label_id: "10004171274"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004546/1990-11-06/0"
+intitule_bron: "Trb.1993-123"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1993-09-22"
+intitule_status: "nogniet"
+original_publication: "Trb.1993-123"
+original_published_date: "1993-09-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1993-123"
+jci_1_3: "jci1.3:c:BWBV0004546&z=1990-11-06&g=1990-11-06"
+jci_1_0: "1.0:c:BWBV0004546&g=1990-11-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1993-09-22"
 ---
-
 # Europese Code inzake Sociale Zekerheid (herzien)
 
 De Lidstaten van de Raad van Europa die deze (herziene) Code hebben ondertekend,
@@ -26,7 +45,7 @@ Zijn de volgende bepalingen overeengekomen, die zijn opgesteld met medewerking v
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze (herziene) Code:
 
@@ -50,7 +69,7 @@ Voor de toepassing van deze (herziene) Code:
 
 - ii. onder voorgeschreven voorwaarden, een kind dat ouder is dan bedoeld onder i. hierboven, wanneer het wordt opgeleid voor een beroep , zijn studie voortzet of lijdt aan een chronische ziekte of een gebrek waardoor het niet geschikt is tot het verrichten van enige beroepsarbeid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke Partij die heeft verklaard zichzelf gebonden te achten door de in het eerste tot en met het derde lid van artikel 12 van het Europees Sociaal Handvest van 18 oktober 1961 vervatte verplichtingen of die de verplichtingen van de Europese Code inzake Sociale Zekerheid van 16 april 1964 heeft aanvaard, moet toepassen:
 
@@ -76,7 +95,7 @@ van deze (herziene) Code.
 
 van deze (herziene) Code.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elke Overeenkomstsluitende Staat geeft in zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding aan ten aanzien van welke van de Delen II tot en met X hij de uit deze (herziene) Code voortvloeiende verplichtingen aanvaardt.
 
@@ -90,17 +109,17 @@ van deze (herziene) Code.
 
 6. Elke Partij streeft ernaar passende maatregelen te nemen om gelijke behandeling van beschermde personen van beide geslachten te waarborgen bij de toepassing van die Delen van deze (herziene) Code waarvan zij de verplichtingen heeft aanvaard.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elke Partij kan later de Secretaris-Generaal van de Raad van Europa ervan in kennis stellen dat zij de uit deze (herziene) Code voortvloeiende verplichtingen aanvaardt ten aanzien van één of meer van de Delen II tot en met X waarvan zij nog geen opgave heeft gedaan in haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 2. De aanvaarding van de in het voorgaande lid bedoelde verplichtingen wordt geacht een integrerend deel te vormen van de bekrachtiging, aanvaarding, goedkeuring of toetreding, en heeft gelijke kracht te rekenen vanaf de datum van kennisgeving.
 
-#### Artikel 5
+##### Artikel 5
 
 Aanvaarding van de in één of meer van de Delen II tot en met X van deze (herziene) Code vervatte verplichtingen heeft, vanaf de datum van inwerkingtreding van die verplichtingen ten aanzien van de betrokken Partij, tot gevolg dat de overeenkomstige bepalingen van de Europese Code inzake Sociale Zekerheid en, waarvan toepassing, van het daarbij behorend Protocol, niet langer van toepassing zijn ten aanzien van de betrokken Partij indien die Partij door de eerste van genoemde akten of door beide akten gebonden is. Niettemin wordt aanvaarding van de in een of meer van de Delen II tot en met X van deze (herziene) Code vervatte verplichtingen geacht aanvaarding in te houden van de overeenkomstige bepalingen van de Europese Code inzake Sociale Zekerheid en, waar van toepassing, van het daarbij behorend Protocol, voor de toepassing van artikel 2 van genoemde Europese Code.
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van de Delen II, III, IV, V, VIII (voorzover het laatstgenoemde deel betrekking heeft op medische zorg), IX en X van deze (herziene) Code kan een Partij rekening houden met de bescherming voortvloeiende uit verzekeringen die krachtens haar wetgeving niet verplicht zijn voor de betrokken personen, mits deze verzekeringen:
 
@@ -108,7 +127,7 @@ Voor de toepassing van de Delen II, III, IV, V, VIII (voorzover het laatstgenoem
 
 - b. te zamen met eventuele andere vormen van bescherming, voldoen aan de desbetreffende bepalingen van deze (herziene) Code.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke Partij kan door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring afwijken van de bepalingen van artikel 9, eerste tot en met derde lid, artikel 17, eerste lid, artikel 27, eerste lid, artikel 29, tweede lid, artikel 52, eerste tot en met derde lid, en van de bepalingen van Deel X betreffende het verlenen van prestaties aan nagelaten echtgenoten onder de voorwaarden vermeld in respectievelijk artikel 9, vierde lid, artikel 17, tweede lid, artikel 27, tweede en derde lid, artikel 29, derde lid, artikel 52, vierde lid, en artikel 70.
 
@@ -118,11 +137,11 @@ Voor de toepassing van de Delen II, III, IV, V, VIII (voorzover het laatstgenoem
 
 ## DEEL II. MEDISCHE ZORG
 
-#### Artikel 8
+##### Artikel 8
 
 De gedekte eventualiteit moet omvatten de noodzaak tot medische zorg van curatieve aard en, onder voorgeschreven voorwaarden, de noodzaak tot medische zorg van preventieve aard.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -160,7 +179,7 @@ dat zij, alsmede hun ten laste komende echtgenoten en kinderen, onder voorgeschr
 
 en, in geval van ziekte die langdurige behandeling vereist, voor alle ingezetenen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De medische zorg moet omvatten:
 
@@ -182,11 +201,11 @@ en, in geval van ziekte die langdurige behandeling vereist, voor alle ingezetene
 
 3. De medische zorg dient erop gericht te zijn de gezondheid van de beschermde persoon en zijn geschiktheid om te werken in stand te houden, te herstellen ofte verbeteren, en in zijn persoonlijke behoeften te voorzien.
 
-#### Artikel 11
+##### Artikel 11
 
 Wanneer de wetgeving van een Partij het recht op medische zorg afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan ter voorkoming van misbruik noodzakelijk wordt geacht.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De medische zorg moet worden verleend tijdens de gehele duur van de gedekte eventualiteit.
 
@@ -194,11 +213,11 @@ Wanneer de wetgeving van een Partij het recht op medische zorg afhankelijk stelt
 
 ## DEEL III. UITKERING VAN ZIEKENGELD
 
-#### Artikel 13
+##### Artikel 13
 
 De gedekte eventualiteit moet omvatten de ongeschiktheid tot werken als gevolg van ziekte of van een ongeval, en die derving van inkomsten uit arbeid tot gevolg heeft, zoals geregeld bij de nationale wetgeving.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -208,15 +227,15 @@ De gedekte eventualiteit moet omvatten de ongeschiktheid tot werken als gevolg v
 
 2. Niettegenstaande het bepaalde in letter a van het voorgaande lid kan een Partij groepen werknemers die in totaal niet meer dan 10 % uitmaken van de gezamenlijke werknemers, uitsluiten van de toepassing van dit Deel.
 
-#### Artikel 15
+##### Artikel 15
 
 Het ziekengeld moet worden verleend in de vorm van een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 71 hetzij van artikel 72. Het bedrag kan gedurende de eventualiteit variëren, mits het gemiddelde bedrag in overeenstemming is met die bepalingen.
 
-#### Artikel 16
+##### Artikel 16
 
 Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan ter voorkoming van misbruik noodzakelijk wordt geacht.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wanneer de wetgeving van een Partij erin voorziet dat ziekengeld slechts wordt verleend na afloop van een bepaald aantal wachtdagen, mag dat aantal niet meer bedragen dan de eerste drie dagen van inkomstenderving.
 
@@ -224,7 +243,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 3. Het ziekengeld moet worden verleend tijdens de gehele duur van de gedekte eventualiteit, of totdat de betaling plaatsvindt van een uitkering wegens ouderdom, invaliditeit of revalidatie. De uitkeringsduur kan echter tot 52 weken worden beperkt per ziektegeval, of tot 78 weken gedurende een periode van drie opeenvolgende jaren, zoals zulks is voorgeschreven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. In geval van overlijden van een persoon die ziekengeld ontving, of die aanspraak kon maken op ziekengeld, moet overeenkomstig de voorgeschreven voorwaarden, aan zijn nagelaten betrekkingen, aan personen die te zijnen laste kwamen of aan andere personen zoals vastgelegd bij de nationale wetgeving, een begrafenisuitkering worden verleend.
 
@@ -232,7 +251,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 ## DEEL IV. UITKERING BIJ WERKLOOSHEID
 
-#### Artikel 19
+##### Artikel 19
 
 1. De gedekte eventualiteit moet omvatten, onder voorgeschreven voorwaarden:
 
@@ -246,7 +265,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 2. Bij de beoordeling van de passendheid van arbeid wordt, onder voorgeschreven voorwaarden en voor zover van toepassing, rekening gehouden met de leeftijd van de werkloze, de duur van zijn dienstverband in eerder e betrekkingen, zijn ervaring, de duur van zijn werkloosheid, de situatie op de arbeidsmarkt, en de gevolgen van de arbeid voor zijn persoonlijke omstandigheden en die van zijn gezin.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -276,7 +295,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 - h. personen die zijn gerevalideerd na arbeidsongeschiktheid.
 
-#### Artikel 21
+##### Artikel 21
 
 1. In geval van volledige werkloosheid moet de uitkering worden verleend in de vorm van periodieke betalingen, berekend overeenkomstig de bepalingen hetzij van artikel 71, hetzij van artikel 72.
 
@@ -288,7 +307,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 - b. langer dan een minimumtijdvak van 39 weken worden verleend.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Wanneer de wetgeving van een Partij het recht op werkloosheidsuitkering afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan ter voorkoming van misbruik noodzakelijk wordt geacht.
 
@@ -296,7 +315,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 3. De voorwaarde inzake de wachttijd, als bedoeld in het eerste lid van dit artikel, kan worden aangepast aan de bijzondere situatie van de in artikel 20, derde lid, genoemde groepen personen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Wanneer de wetgeving van een Partij erin voorziet dat de in artikel 21, eerste lid, bedoelde uitkering slechts wordt verleend na afloop van een bepaald aantal wachtdagen, mag dat aantal niet meer bedragen dan:
 
@@ -308,7 +327,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 3. Niettegenstaande het bepaalde in het eerste lid van dit artikel kan het aantal wachtdagen worden uitgebreid tot 26 weken indien de uitkering zonder wachttijd wordt toegekend aan in artikel 20, derde lid, bedoelde groepen personen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De in artikel 21 bedoelde uitkering moet worden verleend tijdens de gehele duur van de in artikel 19, eerste lid, bedoelde eventualiteit, of totdat betaling plaatsvindt van uitkering wegens ouderdom, invaliditeit of revalidatie. Voor de in artikel 19, eerste lid, letter a, bedoelde eventualiteit kan de duur van de betaling van de uitkering in de in artikel 21, eerste lid, bepaalde vorm echter worden beperkt tot hetzij 39 weken in een tijdvak van 24 maanden, hetzij 39 weken per geval van werkloosheid. Voor de in artikel 19, eerste lid, letter b, bedoelde eventualiteit kan de duur van de betaling van de uitkering worden beperkt tot een voorgeschreven tijdvak.
 
@@ -320,7 +339,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 5. Ten aanzien van seizoenarbeiders kan de duur van de uitkering worden aangepast aan de voorwaarden van hun beroepsactiviteit.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Elke Partij waarborgt dat de beschermde personen, onder voorgeschreven voorwaarden, kunnen beschikken over voorzieningen voor beroepskeuzebegeleiding, scholing, her-, bij- en omscholing, integratie en herintegratie, om hen te helpen passende arbeid te behouden ofte verkrijgen, niet alleen in de in artikel 19, eerste lid, bedoelde eventualiteiten, maar ook wanneer er een ernstige dreiging bestaat dat die personen werkloos worden.
 
@@ -328,13 +347,13 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 ## DEEL III. OUDERDOMSUITKERINGEN
 
-#### Artikel 26
+##### Artikel 26
 
 1. De gedekte eventualiteit omvat het overschreden hebben van een voorgeschreven leeftijd.
 
 2. De in overeenstemming met het voorgaande lid voorgeschreven leeftijd mag niet hoger worden gesteld dan 65 jaar, tenzij passende demografische, economische en sociale criteria het stellen van een hogere leeftijd rechtvaardigen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Wanneer de in overeenstemming met artikel 26, eerste lid, voorgeschreven leeftijd 65 jaar of hoger is, moet deze, onder voorgeschreven voorwaarden, worden verlaagd in overeenstemming met de bepalingen van ten minste een van de volgende letters van dit lid:
 
@@ -354,7 +373,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 3. Elke Partij kan afwijken van het bepaalde in het eerste lid van dit artikel wanneer personen wier aantal arbeidsuren geleidelijk wordt verminderd of die nieuwe arbeid aanvangen op deeltijdbasis gedurende een bepaald tijdvak dat voorafgaat aan of volgt op de krachtens artikel 26, eerste lid, voorschreven leeftijd, gedurende dat tijdvak, onder voorgeschreven voorwaarden, een gedeeltelijke ouderdomsuitkering of een bijzondere uitkering ontvangen die, in voorkomend geval, wordt behandeld als inkomsten die in aanmerking worden genomen bij de latere berekening van de volledige ouderdomsuitkering.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -370,7 +389,7 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 - b. groepen ingezetenen die in totaal niet meer dan 10 % uitmaken van de gezamenlijke ingezetenen.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Ouderdomsuitkeringen moeten worden verleend in de vorm van een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 71 hetzij van artikel 72.
 
@@ -388,17 +407,17 @@ Wanneer de wetgeving van een Partij het recht op ziekengeld afhankelijk stelt va
 
 Deze bepaling hoeft evenwel niet te worden toegepast indien aan die personen een uitkering wordt toegekend overeenkomstig de bepalingen van het tweede lid of het derde lid, letter a, van dit artikel op een hogere leeftijd dan krachtens in artikel 26, eerste lid, voorgeschreven leeftijd.
 
-#### Artikel 30
+##### Artikel 30
 
 Wanneer de wetgeving van een Partij het recht op ouderdomsuitkering afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan vijftien jaar, vervuld, overeenkomstig voorgeschreven regels, voorafgaand aan het intreden van de eventualiteit.
 
-#### Artikel 31
+##### Artikel 31
 
 De in artikel 29 bedoelde uitkeringen moeten worden verleend tijdens de gehele duur van de gedekte eventualiteit.
 
 ## DEEL VI. UITKERINGEN EN VERSTREKKINGEN BIJ ARBEIDSONGEVALLEN EN BEROEPSZIEKTEN
 
-#### Artikel 32
+##### Artikel 32
 
 1. Onder de gedekte eventualiteiten moeten de volgende worden begrepen, wanneer deze het gevolg zijn van een arbeidsongeval of van een beroepsziekte:
 
@@ -412,11 +431,11 @@ De in artikel 29 bedoelde uitkeringen moeten worden verleend tijdens de gehele d
 
 2. In het geval van een nagelaten echtgeno(o)t(e) zonder kinderen kan het recht op uitkering afhankelijk worden gesteld van de voorwaarde dat het huwelijk was gesloten of aangekondigd voor het ontstaan van het arbeidsongeval of de beroepsziekte.
 
-#### Artikel 33
+##### Artikel 33
 
 Elke Partij dient een definitie van „arbeidsongeval” voor te schrijven, waarin de voorwaarden worden genoemd waaronder een ongeval dat op weg naar of van het werk heeft plaatsgevonden, als arbeidsongeval wordt aangemerkt, tenzij ongevallen buiten het werk krachtens haar wetgeving onder dezelfde voorwaarden zijn gedekt als arbeidsongevallen.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Elke Partij moet:
 
@@ -430,7 +449,7 @@ Elke Partij dient een definitie van „arbeidsongeval” voor te schrijven, waar
 
 3. De Partijen worden door de Secretaris-Generaal van de Raad van Europa in kennis gesteld van elke door het Comité overeenkomstig het bepaalde in het tweede lid aangenomen wijziging. Ten aanzien van iedere Staat die al Partij is op het tijdstip waarop een dergelijke wijziging wordt aangenomen, wordt de wijziging van kracht zodra die Staat de Secretaris-Generaal van de Raad van Europa heeft meegedeeld dat hij deze aanvaardt. Ten aanzien van een Staat die op een later tijdstip Partij wordt, wordt de wijziging automatisch van kracht indien deze, op het tijdstip waarop deze Staat zijn instemming tot uitdrukking brengt door deze (herziene) Code te worden gebonden, reeds van kracht is geworden ten aanzien van twee derde of meer van de Partijen; in andere gevallen wordt de wijziging ten aanzien van de desbetreffende Staat van kracht zodra deze de Secretaris-Generaal van de Raad van Europa in kennis stelt van zijn aanvaarding ervan.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -442,7 +461,7 @@ Elke Partij dient een definitie van „arbeidsongeval” voor te schrijven, waar
 
 3. Niettegenstaande het bepaalde in het eerste lid, letter a, van dit artikel kan elke Partij groepen werknemers die in totaal niet meer dan 5 % uitmaken van de gezamenlijke werknemers uitsluiten van de toepassing van dit Deel.
 
-#### Artikel 36
+##### Artikel 36
 
 1. Voor de in artikel 32, eerste lid, letter a, bedoelde eventualiteit moet de medische zorg omvatten:
 
@@ -470,13 +489,13 @@ Elke Partij dient een definitie van „arbeidsongeval” voor te schrijven, waar
 
 3. De medische zorg dient erop gericht te zijn de gezondheid van de beschermde persoon en zijn geschiktheid om te werken in stand te houden, te herstellen of te verbeteren, en in zijn persoonlijke behoeften te voorzien.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Voor de in artikel 32, eerste lid, letter b, bedoelde eventualiteit moet de uitkering worden verleend in de vorm van periodieke betalingen, berekend overeenkomstig de bepalingen hetzij van artikel 71, hetzij van artikel 72. Het bedrag van de periodieke betalingen kan gedurende de eventualiteit variëren, mits het gemiddelde bedrag in overeenstemming is met die bepalingen.
 
 2. Met betrekking tot de in artikel 32, eerste lid, letter b, bedoelde eventualiteit wordt een Partij geacht aan de bepalingen van dit Deel te voldoen indien haar wetgeving ziekengeld toekent aan slachtoffers van arbeidsongevallen en beroepsziekten krachtens een algemene regeling inzake prestaties in geval van ziekte, onder de voor rechthebbenden krachtens die regeling voorgeschreven voorwaarden, met uitsluiting van voorwaarden betreffende een wachttijd, mits de bedoelde voorwaarden ten minste zo gunstig zijn als de in Deel III voorgeschreven voorwaarden.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Inde in artikel 32, eerste lid, letter c, bedoelde eventualiteit moet de uitkering worden verleend in de vorm van een periodieke betaling:
 
@@ -492,21 +511,21 @@ Elke Partij dient een definitie van „arbeidsongeval” voor te schrijven, waar
 
 5. Daarenboven moet elke Partij, onder voorgeschreven voorwaarden, voorzien in een hogere uitkering of in een bijzondere uitkering aan rechthebbenden die in een toestand verkeren, welke voortdurende verzorging door een ander nodig maakt.
 
-#### Artikel 39
+##### Artikel 39
 
 1. Voor de in artikel 32, eerste lid, letter d, bedoelde eventualiteit moet de uitkering aan de nagelaten echtgeno(o)t(e) en kinderen van de betrokkene worden verleend in de vorm van een periodieke betaling, berekend overeenkomstig de bepalingen hetzij van artikel 71 hetzij van 72.
 
 2. Daarenboven moet overeenkomstig voorgeschreven voorwaarden aan de nagelaten betrekkingen van de betrokkene, aan personen die ten laste kwamen, of aan andere personen zoals vastgesteld bij de nationale wetgeving, een begrafenisuitkering worden verleend.
 
-#### Artikel 40
+##### Artikel 40
 
 Het recht op uitkering mag niet afhankelijk worden gesteld van de vervulling van een wachttijd. In het geval van beroepsziekte wordt een eventueel voorgeschreven tijdvak van blootstelling aan risico's niet als wachttijd beschouwd.
 
-#### Artikel 41
+##### Artikel 41
 
 De medische zorg en de uitkeringen in de vorm van periodieke betalingen moeten worden verleend tijdens de gehele duur van de in artikel 32, eerste lid, letters a, b, c of d, bedoelde eventualiteit.
 
-#### Artikel 42
+##### Artikel 42
 
 Iedere Partij moet onder voorgeschreven voorwaarden:
 
@@ -516,13 +535,13 @@ Iedere Partij moet onder voorgeschreven voorwaarden:
 
 - c. maatregelen nemen om de plaatsing van invaliden in een geschikte werkkring te vergemakkelijken.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Onder voorgeschreven voorwaarden zijn werknemers die blootstaan aan het risico van beroepsziekten verplicht periodieke medische onderzoeken te ondergaan.
 
 2. Wanneer de in het voorgaande lid bedoelde werknemers gedwongen van werk veranderen, dienen zij gebruik te kunnen maken van de in artikel 42, letters b en c, voorgeschreven voorzieningen en maatregelen.
 
-#### Artikel 44
+##### Artikel 44
 
 Ten aanzien van de in artikel 32, eerste lid, letter a, bedoelde eventualiteit wordt een Partij geacht aan de bepalingen van dit deel te voldoen indien haar wetgeving voorziet in medische zorg voor slachtoffers van arbeidsongevallen en beroepsziekten krachtens een algemene regeling inzake medische zorg of prestaties in geval van ziekte, onder de voor rechthebbenden krachtens die regeling voorgeschreven voorwaarden, met uitsluiting van voorwaarden betreffende een wachttijd, mits de bedoelde voorwaarden ten minste zo gunstig zijn als de in Deel II voorgeschreven voorwaarden.
 
@@ -530,11 +549,11 @@ Ten aanzien van de in artikel 32, eerste lid, letter a, bedoelde eventualiteit w
 
 ## DEEL VII. GEZINSBIJSLAGEN
 
-#### Artikel 45
+##### Artikel 45
 
 De gedekte eventualiteit omvat het ten laste hebben van kinderen, zoals voorgeschreven.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -560,7 +579,7 @@ De gedekte eventualiteit omvat het ten laste hebben van kinderen, zoals voorgesc
 
 - c. een werkloosheidsuitkering ontvangen, onder voorgeschreven voorwaarden worden beschermd.
 
-#### Artikel 47
+##### Artikel 47
 
 De prestaties moeten omvatten:
 
@@ -568,13 +587,13 @@ De prestaties moeten omvatten:
 
 - b. een combinatie van periodieke betalingen, belastingvoordelen, verstrekkingen of sociale dienstverlening voor gezinnen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. Wanneer een Partij artikel 46, eerste lid, letter a of b, toepast, mag het recht op prestaties niet afhankelijk worden gesteld van de vervulling van een wachttijd.
 
 2. Wanneer een Partij artikel 46, eerste lid, letter c of d, toepast, mag het recht op prestaties afhankelijk worden gesteld van de vervulling van een tijdvak van wonen van ten hoogste zes maanden.
 
-#### Artikel 49
+##### Artikel 49
 
 De totale waarde van de overeenkomstig artikel 47 verleende prestaties moet zodanig zijn dat zij ten minste gelijk is aan:
 
@@ -582,13 +601,13 @@ De totale waarde van de overeenkomstig artikel 47 verleende prestaties moet zoda
 
 - b. 3 % van het wettelijk minimumloon of het gewaarborgd minimum loon, dan wel van het loon van een ongeschoolde arbeider, zoals vastgesteld overeenkomstig de bepalingen van artikel 72, vermenigvuldigd met het totale aantal beschermde personen.
 
-#### Artikel 50
+##### Artikel 50
 
 De in artikel 47 bedoelde prestaties moeten worden verleend tijdens de gehele duur van de gedekte eventualiteit.
 
 ## DEEL VIII. PRESTATIES BIJ MOEDERSCHAP
 
-#### Artikel 51
+##### Artikel 51
 
 De gedekte eventualiteit moet omvatten:
 
@@ -596,7 +615,7 @@ De gedekte eventualiteit moet omvatten:
 
 - b. de daaruit voortvloeiende derving van inkomsten uit arbeid, zoals voorgeschreven bij de nationale wetgeving.
 
-#### Artikel 52
+##### Artikel 52
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -644,7 +663,7 @@ en voor echtgenotes die ten laste komen van mannen die zodanige uitkeringen ontv
 
 en, in geval van ziekte die voortvloeit uit zwangerschap en langdurige verzorging vereist, aan alle vrouwelijke ingezetenen.
 
-#### Artikel 53
+##### Artikel 53
 
 1. Ten aanzien van de in artikel 51, letter a, bedoelde eventualiteit moet de medische zorg omvatten:
 
@@ -666,27 +685,27 @@ en, in geval van ziekte die voortvloeit uit zwangerschap en langdurige verzorgin
 
 3. De medische zorg dient erop gericht te zijn de gezondheid van de beschermde vrouw en haar geschiktheid om te werken in stand te houden, te herstellen of te verbeteren, en in haar persoonlijke behoeften te voorzien.
 
-#### Artikel 54
+##### Artikel 54
 
 Ten aanzien van de in artikel 51, letter b, bedoelde eventualiteit moet de moederschapsuitkering worden verleend in de vorm van periodieke betalingen, berekend overeenkomstig de bepalingen hetzij van artikel 71, hetzij van artikel 72. Het bedrag van de periodieke betalingen kan gedurende de eventualiteit variëren, mits het gemiddelde bedrag in overeenstemming is met die bepalingen.
 
-#### Artikel 55
+##### Artikel 55
 
 Wanneer de wetgeving van een Partij het recht op uitkering bij moederschap afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan ter voorkoming van misbruik noodzakelijk wordt geacht.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De medische zorg moet worden verleend tijdens de gehele duur van de in artikel 51, letter a, bedoelde eventualiteit.
 
 2. De moederschapsuitkering moet worden verleend tijdens de gehele duur van de in artikel 51, letter b, bedoelde eventualiteit. De uitkeringsduur kan evenwel tot 14 weken worden beperkt tenzij de duur van het verplichte tijdvak van afwezigheid van het werk langer is, in welk geval de moederschapsuitkering gedurende dat gehele tijdvak moet worden betaald.
 
-#### Artikel 57
+##### Artikel 57
 
 Een Partij wordt geacht aan de bepalingen van dit Deel betreffende de moederschapsuitkeringen te voldoen indien haar wetgeving, in het geval van ouderschapsverlof, voorziet in een uitkering die ten minste zo gunstig is als de in dit Deel voorgeschreven uitkering.
 
 ## DEEL IX. UITKERING BIJ INVALIDITEIT
 
-#### Artikel 58
+##### Artikel 58
 
 De gedekte eventualiteit moet omvatten:
 
@@ -698,7 +717,7 @@ De gedekte eventualiteit moet omvatten:
 
 wanneer het waarschijnlijk is dat deze ongeschiktheid blijvend zal zijn, dan wel wanneer deze nog voortbestaat na afloop van een voorgeschreven tijdvak van tijdelijke of aanvankelijke invaliditeit.
 
-#### Artikel 59
+##### Artikel 59
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -714,7 +733,7 @@ wanneer het waarschijnlijk is dat deze ongeschiktheid blijvend zal zijn, dan wel
 
 - b. groepen ingezetenen die in totaal niet meer dan 10 % uitmaken van de gezamenlijke ingezetenen.
 
-#### Artikel 60
+##### Artikel 60
 
 1. Ten aanzien van de in artikel 58, letter a, bedoelde eventualiteit moet de invaliditeitsuitkering worden verleend in de vorm van periodieke betalingen, berekend overeenkomstig de bepalingen hetzij van artikel 71, hetzij van artikel 72.
 
@@ -744,13 +763,13 @@ wanneer het waarschijnlijk is dat deze ongeschiktheid blijvend zal zijn, dan wel
 
 9. Elke Partij bepaalt in zijn nationale wetgeving de voorwaarden waaronder herziening, schorsing of intrekking van de in het eerste tot en met het derde lid van dit artikel bedoelde periodieke betalingen plaatsvinden in verband met de wijzigingen die in de mate van ongeschiktheid kunnen optreden.
 
-#### Artikel 61
+##### Artikel 61
 
 1. Wanneer de wetgeving van een Partij het recht op een invaliditeitsuitkering afhankelijk stelt van de vervulling van een wachttijd, mag die wachttijd niet langer zijn dan vijfjaar, vervuld, overeenkomstig voorgeschreven regels, voorafgaand aan het intreden van de eventualiteit.
 
 2. Wanneer uitkeringen berekend overeenkomstig artikel 60, vijfde tot en met zevende lid, worden gewaarborgd aan alle beschermde personen die, overeenkomstig voorgeschreven regels en op een voorgeschreven leeftijd, daadwerkelijk een wachttijd van vijfjaar of minder hebben vervuld, kunnen na een voorgeschreven leeftijd langere wachttijden, naar gelang de leeftijd, worden vereist dan de in het eerste lid van dit artikel omschreven wachttijden.
 
-#### Artikel 62
+##### Artikel 62
 
 Elke Partij moet, onder voorgeschreven voorwaarden:
 
@@ -760,13 +779,13 @@ Elke Partij moet, onder voorgeschreven voorwaarden:
 
 - c. op mobiliteit gerichte hulp bieden en de sociale integratie van gehandicapten bevorderen.
 
-#### Artikel 63
+##### Artikel 63
 
 De in artikel 60 bedoelde uitkering moet worden verleend tijdens de gehele duur van de gedekte eventualiteit of totdat de betaling plaatsvindt van een ouderdoms- of nabestaandenuitkering.
 
 ## DEEL X. UITKERINGEN AAN NAGELATEN BETREKKINGEN
 
-#### Artikel 64
+##### Artikel 64
 
 1. De gedekte eventualiteit moet omvatten het verlies van bestaansmiddelen door de nagelaten echtgeno(o)t(e) en kinderen ten gevolge van het overlijden van de kostwinner.
 
@@ -780,7 +799,7 @@ De in artikel 60 bedoelde uitkering moet worden verleend tijdens de gehele duur 
 
 4. Ten aanzien van een nagelaten echtgeno(o)t(e) zonder kinderen kan het recht op uitkering afhankelijk worden gesteld van een voorgeschreven duur van het huwelijk.
 
-#### Artikel 65
+##### Artikel 65
 
 1. Tot de beschermde personen moeten worden gerekend:
 
@@ -796,7 +815,7 @@ De in artikel 60 bedoelde uitkering moet worden verleend tijdens de gehele duur 
 
 - b. groepen ingezetenen die in totaal niet meer dan 10 % uitmaken van de gezamenlijke ingezetenen.
 
-#### Artikel 66
+##### Artikel 66
 
 1. De uitkeringen aan nagelaten betrekkingen moeten worden verleend in de vorm van periodieke betalingen, berekend overeenkomstig de bepalingen hetzij van artikel 71, hetzij van artikel 72.
 
@@ -818,21 +837,21 @@ De in artikel 60 bedoelde uitkering moet worden verleend tijdens de gehele duur 
 
 7. Aan het bepaalde in het vijfde lid van dit artikel wordt geacht te zijn voldaan, wanneer een uitkering, berekend onafhankelijk van de wachttijd maar vastgesteld op een percentage van tien eenheden minder dan het percentage dat in de bij Deel XI gevoegde tabel is aangegeven, ten minste wordt gewaarborgd aan beschermde personen wier kostwinner overeenkomstig voorgeschreven regels, een wachttijd van ten hoogste twaalf maanden heeft vervuld.
 
-#### Artikel 67
+##### Artikel 67
 
 1. Wanneer de wetgeving van een Partij het recht op een nabestaandenuitkering afhankelijk stelt van de vervulling van een wachttijd door de kostwinner, mag die wachttijd niet langer zijn dan vijf jaar premiebetaling, arbeid of wonen, vervuld overeenkomstig voorgeschreven regels.
 
 2. Wanneer de uitkeringen berekend overeenkomstig artikel 66, vijfde tot en met zevende lid, worden gewaarborgd aan alle beschermde personen wier kostwinner, overeenkomstig voorgeschreven regels en op een voorgeschreven leeftijd, daadwerkelijk een wachttijd van vijfjaar of minder heeft vervuld, kunnen van de kostwinner na een voorgeschreven leeftijd langere wachttijden, naar gelang de leeftijd, worden geëist dan de in het eerste lid van dit artikel omschreven wachttijden.
 
-#### Artikel 68
+##### Artikel 68
 
 De in artikel 66, eerste, tweede, vijfde, zesde en zevende lid, bedoelde uitkeringen moeten worden verleend tijdens de gehele duur van de gedekte eventualiteit of totdat de betaling plaatsvindt van invaliditeits- of ouderdomsuitkeringen.
 
-#### Artikel 69
+##### Artikel 69
 
 Het verlenen van uitkeringen die in de in artikel 64, derde lid, bedoelde gevallen zijn toegekend kan evenwel worden beëindigd wanneer niet langer aan de vereiste voorwaarden voor het verlenen ervan wordt voldaan.
 
-#### Artikel 70
+##### Artikel 70
 
 1. Een Partij kan tijdelijk afwijken van de bepalingen van dit Deel betreffende het verlenen van uitkeringen aan nagelaten echtgenoten, zonder onderscheid naar geslacht, indien de wetgeving van die Partij, op het tijdstip waarop zij de in dit Deel vervatte verplichtingen aanvaardt, erin voorziet dat slechts weduwen aanspraak kunnen maken op zodanige uitkeringen.
 
@@ -840,7 +859,7 @@ Het verlenen van uitkeringen die in de in artikel 64, derde lid, bedoelde gevall
 
 ## DEEL XI. BEREKENING VAN PERIODIEKE BETALINGEN
 
-#### Artikel 71
+##### Artikel 71
 
 1. Wanneer dit artikel wordt toegepast, moet het bedrag van een periodieke betaling ten minste gelijk zijn aan het in een van de twee volgende letters bedoelde percentage voor een gerechtigde die als alleenstaande wordt aangemerkt, of voor een gerechtigde met personen ten laste, zoals dit is aangegeven in de bij dit Deel gevoegde tabel:
 
@@ -880,7 +899,7 @@ Het verlenen van uitkeringen die in de in artikel 64, derde lid, bedoelde gevall
 
 12. Het bedrag van lopende periodieke betalingen ter zake van invaliditeit, ouderdom of het overlijden van de kostwinner en voor de in artikel 32, eerste lid, letters c en d, bedoelde eventualiteiten wordt onder voorgeschreven voorwaarden herzien bij aanmerkelijke veranderingen in het algemene loonpeil of in de kosten van levensonderhoud.
 
-#### Artikel 72
+##### Artikel 72
 
 1. Wanneer dit artikel wordt toegepast, moet het bedrag van een periodieke betaling ten minste gelijk zijn aan het in een van de twee volgende letters bedoelde percentage voor een gerechtigde die als alleenstaande wordt aangemerkt, of, voor een gerechtigde met personen ten laste, zoals dit is aangegeven in de bij dit Deel gevoegde tabel:
 
@@ -914,7 +933,7 @@ Het verlenen van uitkeringen die in de in artikel 64, derde lid, bedoelde gevall
 
 10. Het bedrag van lopende periodieke betalingen ter zake van invaliditeit, ouderdom of het overlijden van de kostwinner en voor de in artikel 32, eerste lid, letters c en d, bedoelde eventualiteiten wordt onder voorgeschreven voorwaarden herzien bij aanmerkelijke veranderingen in het algemene loonpeil of in de kosten van levensonderhoud.
 
-#### Artikel 73
+##### Artikel 73
 
 Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is:
 
@@ -928,7 +947,7 @@ Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is:
 
 ## DEEL XII. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 74
+##### Artikel 74
 
 1. Een prestatie, waarop een beschermd persoon recht zou hebben gehad op grond van een van de delen II tot en met X van deze (herziene) Code, kan in voorgeschreven mate worden geweigerd, ingetrokken of geschorst:
 
@@ -960,19 +979,19 @@ Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is:
 
 2. In voorgeschreven gevallen, onder voorgeschreven voorwaarden en binnen voorgeschreven grenzen, moet een deel van de uitkering, die normaal zou zijn verleend als de desbetreffende bepalingen van het voorgaande lid niet zouden zijn toegepast, worden verleend aan de personen die ten laste van de belanghebbende komen, tenzij zij een andere vorm van bescherming genieten.
 
-#### Artikel 75
+##### Artikel 75
 
 1. Indien een prestatie wordt geweigerd, geschorst of ingetrokken, of indien er geschillen bestaan aangaande de aard en het bedrag ervan, heeft een ieder die aanspraak maakt op uitkering het recht om beroep in te stellen bij de bevoegde rechterlijke instantie. Aan dit beroep zijn in beginsel geen kosten verbonden, onder voorbehoud van voorgeschreven voorwaarden, tenzij de belanghebbende een eerder recht op kosteloos beroep bij een bevoegde instantie heeft.
 
 2. Voorgeschreven procedures moeten het de eiser mogelijk maken zich te laten vertegenwoordigen of bijstaan door een geschikte persoon van zijn keuze of door een afgevaardigde van een representatieve organisatie van beschermde personen.
 
-#### Artikel 76
+##### Artikel 76
 
 1. De kosten van de op grond van deze (herziene) Code verleende prestaties en de daaraan verbonden administratiekosten moeten collectief worden gedragen, op zodanige wijze dat personen van geringe draagkracht niet te zwaar worden belast en dat rekening wordt gehouden met het vermogen tot het betalen van bijdragen van de beschermde personen.
 
 2. Elke Partij moet een algemene verantwoordelijkheid aanvaarden voor het waarborgen van het verlenen van de krachtens deze (herziene) Code toegekende prestaties, en alle nodige maatregelen treffen om die verantwoordelijkheid op doeltreffende wijze te bereiken.
 
-#### Artikel 77
+##### Artikel 77
 
 1. Wanneer de administratie niet wordt gevoerd door een overheidsinstelling die verantwoording schuldig is aan een gekozen vergadering, moeten vertegenwoordigers van de beschermde personen deelnemen aan de administratie of met raadgevende stem daarbij betrokken worden onder voorgeschreven voorwaarden; de nationale wetgeving kan eveneens bepalingen bevatten inzake de deelneming van vertegenwoordigers van de werkgevers en van de overheid.
 
@@ -982,11 +1001,11 @@ Ten aanzien van elke periodieke betaling, waarop dit artikel van toepassing is:
 
 ## DEEL XIII. DIVERSE BEPALINGEN
 
-#### Artikel 78
+##### Artikel 78
 
 Deze (herziene) Code is niet van toepassing op eventualiteiten die zich hebben voorgedaan voordat het desbetreffende Deel van deze (herziene) Code voor de betrokken Partij in werking is getreden.
 
-#### Artikel 79
+##### Artikel 79
 
 1. Elke Partij dient bij de Secretaris-Generaal van de Raad van Europa rapporten in betreffende de toepassing van deze (herziene) Code; deze rapporten worden overgelegd op de wijze en in de vorm als aangegeven door het Comité. Elke Partij zendt afschriften van deze rapporten aan haar meest representatieve organisaties van werkgevers en werknemers, en doet eventuele ingekomen commentaren van die organisaties op die rapporten toekomen aan de Secretaris-Generaal. De rapporten dienen te bevatten:
 
@@ -1016,17 +1035,17 @@ Deze (herziene) Code is niet van toepassing op eventualiteiten die zich hebben v
 
 12. In het geval van toetreding door de Europese Economische Gemeenschap dient deze Partij, zodra deze (herziene) Code ten aanzien van haar in werking is getreden, namens haar Lid-Staten bij de Secretaris-Generaal de in het eerste lid van dit artikel bedoelde rapporten in met betrekking tot de Delen van deze (herziene) Code die onder haar rechtsmacht vallen, en de Lid-Staten van de Europese Economische Gemeenschap dienen bij de Secretaris-Generaal de hierboven bedoelde rapporten in met betrekking tot de Delen van deze (herziene) Code die onder hun rechtsmacht vallen.
 
-#### Artikel 80
+##### Artikel 80
 
 De Secretaris-Generaal van de Raad van Europa doet kopieën van rapporten, informatie, commentaren en overige gegevens, die overeenkomstig artikel 79, eerste, tweede en derde lid, zijn overgelegd, alsmede van de conclusies van de Commissie en het verslag van het Comité, toekomen aan de raadgevende Vergadering, met verzoek om een oordeel.
 
-#### Artikel 81
+##### Artikel 81
 
 1. Het Comité van Ministers van de Raad van Europa besluit, na ontvangst van het oordeel van de Raadgevende Vergadering, met meerderheid van stemmen zoals bepaald in artikel 20.d van het Statuut van de Raad van Europa, of elke Partij heeft voldaan aan de verplichtingen van deze (herziene) Code die zij heeft aanvaard.
 
 2. Indien het Comité van Ministers van oordeel is dat een Partij niet aan haar uit deze (herziene) Code voortvloeiende verplichtingen voldoet, verzoekt het deze Partij de maatregelen te nemen die het Comité van Ministers noodzakelijk oordeelt ter verzekering van de naleving van die verplichtingen.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Elke Partij brengt iedere vier jaar volgend op de datum van inwerkingtreding van deze (herziene) Code ten aanzien van deze Partij aan de Secretaris-Generaal van de Raad van Europa verslag uit omtrent de stand van haar wetgeving en de toepassing ervan met betrekking tot elk van de Delen II tot en met X van deze (herziene) Code die overeenkomstig het bepaalde in artikel 3, eerste lid, niet zijn vermeld in haar akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, noch in een latere kennisgeving, gedaan op grond van het bepaalde in artikel 4, eerste lid.
 
@@ -1034,7 +1053,7 @@ De Secretaris-Generaal van de Raad van Europa doet kopieën van rapporten, infor
 
 ## DEEL XIV. WIJZIGINGEN
 
-#### Artikel 83
+##### Artikel 83
 
 1. Wijzigingen van de artikelen van deze (herziene) Code kunnen worden voorgesteld door een Partij, door het Comité van Ministers van de Raad van Europa of door het Comité.
 
@@ -1050,7 +1069,7 @@ De Secretaris-Generaal van de Raad van Europa doet kopieën van rapporten, infor
 
 ## DEEL XV. SLOTBEPALINGEN
 
-#### Artikel 84
+##### Artikel 84
 
 1. Deze (herziene) Code staat open voor ondertekening door de Lid-Staten van de Raad van Europa. Hij dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -1058,13 +1077,13 @@ De Secretaris-Generaal van de Raad van Europa doet kopieën van rapporten, infor
 
 3. Ten aanzien van elke Lid-Staat die na de nederlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring zijn instemming tot uitdrukking brengt door deze (herziene) Code te worden gebonden, treedt hij in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twaalf maanden na de datum van nederlegging door die Staat van zijn akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 85
+##### Artikel 85
 
 1. Na de inwerkingtreding van deze (herziene) Code kan het Comité van Ministers van de Raad van Europa elke Staat die geen lid is van de Raad van Europa, alsmede de Europese Economische Gemeenschap, uitnodigen tot deze (herziene) Code toe te treden, door middel van een beslissing genomen met een meerderheid van stemmen zoals vereist krachtens artikel 20.d van het Statuut van de Raad van Europa, en bij eenparigheid van stemmen van de vertegenwoordigers van de Partijen die gerechtigd zijn in het Comité zitting te hebben.
 
 2. Ten aanzien van iedere Staat die toetreedt, of van de Europese Economische Gemeenschap indien zij is toegetreden, treedt deze (herziene) Code in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twaalf maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 86
+##### Artikel 86
 
 1. Elke Staat kan op het tijdstip van ondertekening of nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het grondgebied of de grondgebieden aangeven waarop deze (herziene) Code van toepassing is.
 
@@ -1072,17 +1091,17 @@ De Secretaris-Generaal van de Raad van Europa doet kopieën van rapporten, infor
 
 3. Elke Partij kan, op het tijdstip waarop zij overeenkomstig artikel 88 deze (herziene) Code kan opzeggen, elke krachtens de twee voorgaande leden afgelegde verklaring ten aanzien van een daarin aangegeven grondgebied intrekken door middel van een kennisgeving aan de Secretaris-Generaal van de Raad van Europa. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van twaalf maanden na de datum van ontvangst van die kennisgeving door de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 87
+##### Artikel 87
 
 Ten aanzien van de bepalingen van deze (herziene) Code kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 88
+##### Artikel 88
 
 1. Elke Partij kan deze (herziene) Code in zijn geheel dan wel één of meer van de Delen II tot en met X daarvan opzeggen na het verstrijken van een tijdvak van vier jaar na de datum waarop deze (herziene) Code ten aanzien van die Partij in werking is getreden, of na het verstrijken van ieder daarop volgend tijdvak van vijfjaar, door twaalf maanden van te voren daarvan kennisgeving te doen aan de Secretaris-Generaal.
 
 2. Deze opzegging tast de geldigheid van deze (herziene) Code ten aanzien van de andere Partijen niet aan, mits het aantal Partijen niet minder dan twee bedraagt.
 
-#### Artikel 89
+##### Artikel 89
 
 De Secretaris-Generaal van de Raad van Europa doet aan de Lid-Staten van de Raad van Europa, aan elke Staat die tot deze (herziene) Code is toegetreden, aan de Europese Economische Gemeenschap indien zij is toegetreden, en aan de Directeur-Generaal van het Internationale Arbeidsbureau mededeling van:
 

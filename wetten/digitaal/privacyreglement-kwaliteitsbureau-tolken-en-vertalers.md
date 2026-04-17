@@ -1,20 +1,44 @@
 ---
 title: "Privacyreglement Kwaliteitsbureau Tolken en Vertalers"
 identifier: "BWBR0011552"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2000-09-08
-laatste_update: 2000-09-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011552"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-09-08"
+last_updated: "2000-09-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011552"
+soort: "ministeriele-regeling"
+stam_id: "3551543"
+version_id: "5334822"
+internal_id: "C5527911"
+label_id: "3531704"
+dtd_version: "2.0"
+original_entry_into_force: "2000-09-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011552/2000-09-08/0"
+intitule_bron: "Stcrt.2000-172"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-08-14"
+intitule_published: "2000-09-06"
+intitule_in_force: "2000-09-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-172"
+original_signed_date: "2000-08-14"
+original_published_date: "2000-09-06"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-09-08"
+jci_1_3: "jci1.3:c:BWBR0011552&z=2000-09-08&g=2000-09-08"
+jci_1_0: "1.0:c:BWBR0011552&g=2000-09-08"
+citeertitel_status: "officieel"
+signed_date: "2000-08-14"
+entry_into_force: "2000-09-08"
 ---
-
 # Privacyreglement Kwaliteitsbureau Tolken en Vertalers
 
 Besluit van de Staatssecretaris van Justitie van 14 augustus juli 2000, houdende regels voor de registratie van tolken en vertalers.
 
 #### Definities
 
-#### 1
+##### 1
 
 In dit reglement wordt verstaan onder:
 
@@ -48,7 +72,7 @@ In dit reglement wordt verstaan onder:
 
 #### Doel en werking
 
-#### 2
+##### 2
 
 1. De registratie heeft primair tot doel de gegevensverwerking van de Directie ten behoeve van het kwaliteitstraject.
 
@@ -58,7 +82,7 @@ In dit reglement wordt verstaan onder:
 
 #### Hoofdlijnen van het beheer
 
-#### 3
+##### 3
 
 1. De registratiebeheerder is, onder verantwoordelijkheid van de houder, belast met de zeggenschap over de registratie. Hij volgt daarbij de aanwijzingen van de houder op.
 
@@ -72,7 +96,7 @@ In dit reglement wordt verstaan onder:
 
 #### Rechtstreekse toegang
 
-#### 4
+##### 4
 
 Rechtstreekse toegang tot de registratie hebben:
 
@@ -92,7 +116,7 @@ Rechtstreekse toegang tot de registratie hebben:
 
 #### Categorieën van geregistreerde personen
 
-#### 5
+##### 5
 
 In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de volgende categorieën van personen:
 
@@ -104,7 +128,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Soorten van gegevens en de wijze van verkrijging
 
-#### 6
+##### 6
 
 1. Omtrent de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=5&z=2000-09-08&g=2000-09-08) genoemde personen kunnen de volgende soorten van persoonsgegevens worden opgenomen:
 
@@ -142,7 +166,7 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Verwijdering en vernietiging
 
-#### 7
+##### 7
 
 1. De in de registratie opgenomen persoonsgegevens genoemd in [artikel 6 eerste lid onder b tot en met g en onder j](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=6&z=2000-09-08&g=2000-09-08) worden verwijderd na verloop van een termijn van drie jaren na de datum van beëindiging van deelname aan het kwaliteitstraject.
 
@@ -158,13 +182,13 @@ In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de vo
 
 #### Verbanden met andere verzamelingen
 
-#### 8
+##### 8
 
 De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in [artikel 6 tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=6&z=2000-09-08&g=2000-09-08) genoemde personen en instellingen. De genoemde verbanden bestaan eruit dat uit deze verzamelingen informatie afkomstig is die ten dienste van het doel van de registratie wordt gebruikt en opgeslagen en dat informatie uit de registratie aan deze verzamelingen wordt verstrekt ten dienste van het doel van de registratie.
 
 #### Verstrekking
 
-#### 9
+##### 9
 
 1. Verstrekking van gegevens vindt plaats aan personen werkzaam binnen de directie voor zover zij de gegevens behoeven voor de uitvoering van hun taak en in overeenstemming met het doel van de registratie.
 
@@ -184,7 +208,7 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 #### Protocollering
 
-#### 10
+##### 10
 
 1. Van iedere verstrekking wordt aangetekend de datum van verstrekking, de identiteit van de verkrijger en een omschrijving van de verstrekte gegevens.
 
@@ -194,11 +218,11 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 
 #### Rechten van de geregistreerde
 
-#### 11
+##### 11
 
 De geregistreerde wordt binnen vier weken na eerste opname in de registratie schriftelijk van deze opname in kennis gesteld, tenzij geregistreerde weet of redelijkerwijs kan weten dat een dergelijke opname heeft plaatsgevonden, dan wel indien een gewichtig belang van de houder zich tegen het doen van een schriftelijke mededeling verzet, dan wel op grond van de in [artikel 12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011552&artikel=12&z=2000-09-08&g=2000-09-08) genoemde criteria.
 
-#### 12
+##### 12
 
 1. De geregistreerde kan de rechten genoemd in de artikelen 29, 31 en 32 van de wet uitoefenen door het in deze artikelen bedoelde verzoek schriftelijk te richten aan de houder, ter attentie van de directeur Bestuurszaken, per adres Postbus 20300, 2500 EH Den Haag.
 

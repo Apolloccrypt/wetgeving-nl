@@ -1,13 +1,39 @@
 ---
-title: "Regeling informatievoorziening WPO/WEC"
+title: "Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 13 juni 2018, nr. 1366416 PO, houdende regels omtrent informatievoorziening in het primair onderwijs (Regeling informatievoorziening WPO/WEC)"
 identifier: "BWBR0041056"
-categorie: "Overig"
-publicatiedatum: 2025-01-25
-laatste_update: 2025-01-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041056"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-25"
+last_updated: "2025-01-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041056"
+soort: "ministeriele-regeling"
+stam_id: "14655663"
+version_id: "25091112"
+internal_id: "C35882091"
+label_id: "14608774"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041056/2025-01-25/0"
+intitule_bron: "Stcrt.2018-34687"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-13"
+intitule_published: "2018-06-25"
+intitule_in_force: "2018-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-34687"
+original_signed_date: "2018-06-13"
+original_published_date: "2018-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-34687"
+entry_into_force_date: "2018-08-01"
+jci_1_3: "jci1.3:c:BWBR0041056&z=2025-01-25&g=2025-01-25"
+jci_1_0: "1.0:c:BWBR0041056&g=2025-01-25"
+citeertitel_status: "officieel"
+short_title: "Regeling informatievoorziening WPO/WEC"
+signed_date: "2018-06-13"
+entry_into_force: "2018-08-01"
 ---
-
 # Regeling van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 13 juni 2018, nr. 1366416 PO, houdende regels omtrent informatievoorziening in het primair onderwijs (Regeling informatievoorziening WPO/WEC)
 
 Gelet op de [artikel 164a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164a) en [164c, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=164c), de [artikelen 178a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178a) en [178c, vierde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=178c), [artikel 10b, tweede lid, van het Besluit bekostiging WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0004259&artikel=10b), [artikel 11a, tweede lid, van het Besluit bekostiging WPO](https://wetten.overheid.nl/jci1.3:c:BWBR0003862&artikel=11a) en de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=4) en [9 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=9);
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -34,59 +60,59 @@ In deze regeling wordt verstaan onder:
 
 #### Paragraaf 2. Gebruik gegevens basisregister onderwijs door de Minister
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 Vervallen
 
-#### Artikel 3. Te verstrekken gegevens
+##### Artikel 3. Te verstrekken gegevens
 
 Vervallen
 
-#### Artikel 4. Wijze van verstrekking
+##### Artikel 4. Wijze van verstrekking
 
 Vervallen
 
-#### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
+##### Artikel 5. Tijdstippen van verstrekking gegevens met betrekking tot bepaalde perioden
 
 Vervallen
 
 #### Paragraaf 3. Leerlingenadministratie
 
-#### Artikel 6. Reikwijdte
+##### Artikel 6. Reikwijdte
 
 Deze paragraaf berust op [artikel 11 van het Besluit bekostiging WPO 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046159&artikel=11) en [artikel 10 van het Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160&artikel=10).
 
-#### Artikel 7. Levering leerlinggegevens
+##### Artikel 7. Levering leerlinggegevens
 
 Vervallen
 
-#### Artikel 8. Bijzondere levering
+##### Artikel 8. Bijzondere levering
 
 Vervallen
 
-#### Artikel 9. Data en termijnen voor levering leerlinggegevens
+##### Artikel 9. Data en termijnen voor levering leerlinggegevens
 
 Vervallen
 
-#### Artikel 10. Inzage leerlingenadministratie
+##### Artikel 10. Inzage leerlingenadministratie
 
 In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=2&z=2025-01-25&g=2025-01-25) genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.
 
-#### Artikel 11. Terugkoppeling inschrijvingsgegevens
+##### Artikel 11. Terugkoppeling inschrijvingsgegevens
 
 Vervallen
 
-#### Artikel 12. Technische specificaties
+##### Artikel 12. Technische specificaties
 
 Vervallen
 
 #### Paragraaf 4. Levering organisatie- en personeelsgegevens
 
-#### Artikel 13. Reikwijdte
+##### Artikel 13. Reikwijdte
 
 Deze paragraaf berust op [artikel 4 van het Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065&artikel=4).
 
-#### Artikel 14. Te leveren gegevens
+##### Artikel 14. Te leveren gegevens
 
 1. Het bevoegd gezag levert de organisatiegegevens, genoemd in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-25&g=2025-01-25), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=4&z=2025-01-25&g=2025-01-25), aan de Minister.
 
@@ -94,29 +120,29 @@ Deze paragraaf berust op [artikel 4 van het Besluit informatievoorziening WPO/WE
 
 3. Het bevoegd gezag levert de personele gegevens, genoemd in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-25&g=2025-01-25), overeenkomstig de beschrijving en op de wijze als vermeld in het programma van eisen in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&bijlage=6&z=2025-01-25&g=2025-01-25), aan de Minister.
 
-#### Artikel 15. Bijzondere levering
+##### Artikel 15. Bijzondere levering
 
 Het bevoegd gezag dat na overleg met de Minister, door de Minister niet in staat wordt geacht de gegevens, bedoeld in [artikel 14, eerste, tweede of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041056&paragraaf=4&artikel=14&z=2025-01-25&g=2025-01-25), op de in dat lid genoemde wijze te leveren, levert de gegevens op de wijze die door de Minister wordt vastgesteld na overleg met het bevoegd gezag.
 
-#### Artikel 16. Tijdelijke afwijking levering gegevens
+##### Artikel 16. Tijdelijke afwijking levering gegevens
 
 Vervallen
 
 #### Paragraaf 5. Overige bepalingen
 
-#### Artikel 17. Wijziging [Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566)
+##### Artikel 17. Wijziging [Regeling gebruik gegevens bron](https://wetten.overheid.nl/jci1.3:c:BWBR0027566)
 
 Wijzigt de Regeling gebruik gegevens bron.
 
-#### Artikel 18. Wijziging [Regeling structurele gegevenslevering WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0022542)
+##### Artikel 18. Wijziging [Regeling structurele gegevenslevering WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0022542)
 
 De [Regeling structurele gegevenslevering WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0022542) wordt ingetrokken.
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2018.
 
-#### Artikel 20. Citeertitel
+##### Artikel 20. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling informatievoorziening WPO/WEC.
 
@@ -814,7 +840,7 @@ Gegevens die op grond van [artikel 38o, tweede lid, onderdeel a](https://wetten.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Vervallen
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel advieskader nieuwe scholen 2023"
+title: "Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 6 juli 2023, nr. 39326205, houdende vaststelling van het Advieskader nieuwe scholen 2023"
 identifier: "BWBR0048464"
-categorie: "Overig"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048464"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048464"
+soort: "ministeriele-regeling"
+stam_id: "16818933"
+version_id: "29550322"
+internal_id: "C42239791"
+label_id: "16731614"
+dtd_version: "2.0"
+original_entry_into_force: "2023-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048464/2025-08-01/0"
+intitule_bron: "Stcrt.2023-20455"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-06"
+intitule_published: "2023-07-24"
+intitule_in_force: "2023-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-20455"
+original_signed_date: "2023-07-06"
+original_published_date: "2023-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-20455"
+entry_into_force_date: "2023-08-01"
+jci_1_3: "jci1.3:c:BWBR0048464&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBR0048464&g=2025-08-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel advieskader nieuwe scholen 2023"
+signed_date: "2023-07-06"
+entry_into_force: "2023-08-01"
 ---
-
 # Besluit van de Minister van Onderwijs, Cultuur en Wetenschap, van 6 juli 2023, nr. 39326205, houdende vaststelling van het Advieskader nieuwe scholen 2023
 
 Gelet op [artikel 75, elfde lid van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=75), [artikel 4.5, negende lid van de Wet op het voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=4.5) en [artikel 75, tiende lid van de Wet op het primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=75);
@@ -16,19 +42,19 @@ Gezien de voordracht van de Inspecteur-generaal van het onderwijs van 23 juni 20
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De beleidsregel Advieskader nieuwe scholen 2023 (bijlage) wordt vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Het [Besluit van de Minister voor Basis- en Voortgezet Onderwijs en Media, van 9 december 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044712), nr. 25930973, tot vaststelling van beleidsregel houdende Advieskader nieuwe scholen wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van 1 augustus 2023.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: Beleidsregel advieskader nieuwe scholen 2023.
 

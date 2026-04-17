@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Litouwen"
 identifier: "BWBR0031820"
-categorie: "Belastingrecht"
-publicatiedatum: 2012-07-05
-laatste_update: 2012-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031820"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2012-07-05"
+last_updated: "2012-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031820"
+soort: "beleidsregel"
+stam_id: "11801703"
+version_id: "19545672"
+internal_id: "C27418031"
+label_id: "11773994"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031820/2012-07-05/0"
+intitule_bron: "Stcrt.2012-15058"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-05"
+intitule_published: "2012-07-20"
+intitule_in_force: "2012-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-15058"
+original_signed_date: "2012-07-05"
+original_published_date: "2012-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-15058"
+entry_into_force_date: "2012-07-05"
+jci_1_3: "jci1.3:c:BWBR0031820&z=2012-07-05&g=2012-07-05"
+jci_1_0: "1.0:c:BWBR0031820&g=2012-07-05"
+citeertitel_status: "redactioneel"
+signed_date: "2012-07-05"
+entry_into_force: "2012-07-05"
 ---
-
 # Directe belastingen, internationale inlichtingenuitwisseling; Litouwen
 
 De staatssecretaris van Financiën maakt het volgende bekend.
@@ -34,7 +59,7 @@ Zijn het volgende overeengekomen:
 
 ### Algemene bepalingen
 
-#### Artikel 1. Bevoegde autoriteiten
+##### Artikel 1. Bevoegde autoriteiten
 
 1. Voor de toepassing van dit Memorandum van Overeenstemming zijn de bevoegde autoriteiten:
 
@@ -50,7 +75,7 @@ Belastingdienst / Oost / Central Liaison Office Almelo.
 
 ### Uitwisseling van inlichtingen
 
-#### Artikel 2. Automatische uitwisseling van inlichtingen
+##### Artikel 2. Automatische uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van Litouwen en Nederland verstrekken elkaar automatisch inlichtingen over ingezetenen van de andere Staat met betrekking tot:
 
@@ -76,11 +101,11 @@ Belastingdienst / Oost / Central Liaison Office Almelo.
 
 3. Indien mocht blijken dat de gegevens die in het kader van de automatische uitwisseling zijn verstrekt onjuist of onvolledig zijn, zijn de bevoegde autoriteiten gehouden hierover zo spoedig mogelijk met elkaar contact op te nemen.
 
-#### Artikel 3. Incidentele doelgroepacties
+##### Artikel 3. Incidentele doelgroepacties
 
 De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere categorieën dan de hierboven genoemde automatisch met elkaar uit te wisselen voor een bepaalde periode.
 
-#### Artikel 4. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
+##### Artikel 4. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
 
 1. Op verzoek van de bevoegde autoriteit van een van de Staten, kan de bevoegde autoriteit van de andere Staat belastingambtenaren van eerstgenoemde Staat toestaan om aanwezig te zijn op de plaats van de uitvoering van de voor hen van belang zijnde onderdelen van een belastingonderzoek in de Staat waaraan het verzoek is gericht.
 
@@ -102,7 +127,7 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 ### Diverse bepalingen
 
-#### Artikel 5. Diverse bepalingen
+##### Artikel 5. Diverse bepalingen
 
 1. Indien noodzakelijk plegen de bevoegde autoriteiten overleg over de wijze waarop de verplichtingen die dit Memorandum meebrengt, worden uitgevoerd.
 
@@ -112,7 +137,7 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 ### Slotbepalingen
 
-#### Artikel 6. Inwerkingtreding. Wijzigingen. Beëindiging
+##### Artikel 6. Inwerkingtreding. Wijzigingen. Beëindiging
 
 1. Dit Memorandum van Overeenstemming treedt in werking op de datum van ondertekening en kan op ieder tijdstip worden gewijzigd na schriftelijke overeenstemming tussen de Partijen.
 
@@ -120,11 +145,11 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 3. Vanaf de datum van inwerkingtreding van dit Memorandum van Overeenstemming is het Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van directe belastingen van 2003, ingetrokken.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit Memorandum van Overeenstemming kan worden aangehaald als ‘Memorandum van Overeenstemming tussen Litouwen en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen’.
 
-#### Artikel 8. Evaluatie
+##### Artikel 8. Evaluatie
 
 Dit Memorandum van Overeenstemming zal vijf jaar na de datum van inwerkingtreding worden geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten in behandeling worden genomen.
 

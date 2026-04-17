@@ -1,20 +1,44 @@
 ---
-title: "Regeling toezicht arrestantenzorg politie"
+title: "Regeling van de Minister van Veiligheid en Justitie van 1 juli 2015, houdende regels over het toezicht op de arrestantenzorg bij de politie (Regeling toezicht arrestantenzorg politie)"
 identifier: "BWBR0036723"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036723"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036723"
+soort: "ministeriele-regeling"
+stam_id: "13185863"
+version_id: "23992682"
+internal_id: "C34487711"
+label_id: "13154194"
+dtd_version: "2.0"
+original_entry_into_force: "2017-03-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036723/2023-01-01/0"
+intitule_bron: "Stcrt.2015-17047"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-07-01"
+intitule_published: "2015-06-24"
+intitule_in_force: "2015-06-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2017-13163"
+original_published_date: "2017-03-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2017-13163"
+entry_into_force_date: "2017-03-18"
+jci_1_3: "jci1.3:c:BWBR0036723&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0036723&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling toezicht arrestantenzorg politie"
+entry_into_force: "2017-03-18"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie van 1 juli 2015, houdende regels over het toezicht op de arrestantenzorg bij de politie (Regeling toezicht arrestantenzorg politie)
 
 Gelet op [artikel 24, vijfde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=24);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -34,7 +58,7 @@ In deze regeling wordt verstaan onder:
 
 - h). **ambtenaren van politie:** ambtenaren van politie als bedoeld in [artikel 2, onder a, b en c, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie bestaat uit ten minste vijf leden.
 
@@ -50,7 +74,7 @@ In deze regeling wordt verstaan onder:
 
 7. De politiechef wijst een secretaris voor de commissie aan. De secretaris is een ambtenaar van politie als bedoeld in [artikel 2, onder a of b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2). De secretaris is geen lid van de commissie, neemt niet deel aan de besluitvorming van de commissie en is in diens taak niet betrokken bij de arrestantenzorg.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor benoeming als lid komen niet in aanmerking:
 
@@ -60,7 +84,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 - c). personen indien hun onafhankelijkheid of onpartijdigheid hetzij door hun positie, hetzij door de aard van hun werkzaamheden in het geding zou kunnen komen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een lid van de commissie wordt tussentijds ontslagen:
 
@@ -74,7 +98,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 2. Hangende de procedure voor ontslag kan het lid in de uitoefening van zijn functie worden geschorst.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie stelt zich regelmatig en op het door haar te bepalen tijdstip door inspecties op de hoogte van de toestand van de arrestantenzorg teneinde haar taken zo goed mogelijk te kunnen vervullen.
 
@@ -92,7 +116,7 @@ Voor benoeming als lid komen niet in aanmerking:
 
 8. De commissie overlegt jaarlijks met de politiechef over haar werkzaamheden en bevindingen op het terrein van het toezicht op de arrestantenzorg.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er is een landelijk afstemmingsoverleg voor de borging van de kwaliteit van het toezicht op de arrestantenzorg. Het landelijk afstemmingsoverleg bestaat uit maximaal vier leden die door de voorzitters van de commissies uit hun midden worden aangewezen.
 
@@ -102,25 +126,25 @@ Voor benoeming als lid komen niet in aanmerking:
 
 4. De korpschef wijst een secretaris voor het landelijk afstemmingsoverleg aan. De secretaris is een ambtenaar van politie als bedoeld in [artikel 2, onder a of b, van de Politiewet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0031788&artikel=2). De secretaris is geen lid van het landelijk afstemmingsoverleg, neemt niet deel aan de besluitvorming van het landelijk afstemmingsoverleg en is in diens taak niet betrokken bij de arrestantenzorg.
 
-#### Artikel 7
+##### Artikel 7
 
 De korpschef voorziet in de bekostiging van de commissies en het landelijk afstemmingsoverleg, waaronder de vergoeding aan de leden overeenkomstig een op grond van [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) door de minister te nemen besluit.
 
-#### Artikel 8
+##### Artikel 8
 
 In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036723&artikel=2&z=2023-01-01&g=2023-01-01), kunnen de leden van de commissies van toezicht op de arrestantenzorg tot uiterlijk 1 januari 2016 worden benoemd op voordracht van de leden van deze commissies uit hun midden.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 juli 2015.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling toezicht arrestantenzorg politie.
 
 Deze regeling zal met de toelichting in de Staatscourant worden gepubliceerd.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Deze regeling berust op [artikel 50, vijfde lid, van het Besluit beheer politie](https://wetten.overheid.nl/jci1.3:c:BWBR0036705&artikel=50).
 

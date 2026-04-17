@@ -1,13 +1,37 @@
 ---
 title: "Uitvoering Subsidieregeling indemniteit bruiklenen in de aanloop naar 2005"
 identifier: "BWBR0017758"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-12-22
-laatste_update: 2004-12-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017758"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-12-22"
+last_updated: "2004-12-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017758"
+soort: "circulaire"
+stam_id: "6709263"
+version_id: "11551782"
+internal_id: "C15574931"
+label_id: "6697604"
+original_entry_into_force: "2004-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017758/2004-12-22/0"
+intitule_bron: "Stcrt.2004-247"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-17"
+intitule_published: "2004-12-22"
+intitule_in_force: "2004-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-247"
+original_signed_date: "2004-12-17"
+original_published_date: "2004-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-247-p65-SC68186"
+entry_into_force_date: "2004-12-22"
+jci_1_3: "jci1.3:c:BWBR0017758&z=2004-12-22&g=2004-12-22"
+jci_1_0: "1.0:c:BWBR0017758&g=2004-12-22"
+citeertitel_status: "redactioneel"
+signed_date: "2004-12-17"
+entry_into_force: "2004-12-22"
 ---
-
 # Uitvoering Subsidieregeling indemniteit bruiklenen in de aanloop naar 2005
 
 Op 25 oktober jl. werd de [Subsidieregeling indemniteit bruiklenen 2005](https://wetten.overheid.nl/jci1.3:c:BWBR0017308) (hierna: nieuwe regeling) gepubliceerd in de Staatscourant (Stcrt. 2004, nr. 205). De nieuwe regeling vervangt de [Subsidieregeling indemniteit bruiklenen](https://wetten.overheid.nl/jci1.3:c:BWBR0007839) (hierna: oude regeling) uit 1996 (Stcrt. 1996, nr. 11).

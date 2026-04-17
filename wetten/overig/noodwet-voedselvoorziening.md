@@ -1,14 +1,38 @@
 ---
-title: "Noodwet voedselvoorziening"
+title: "Wet van 12 december 1962, houdende verzekering van de voedselvoorziening in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden"
 identifier: "BWBR0002392"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002392"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002392"
+soort: "wet"
+stam_id: "1685673"
+version_id: "2484222"
+internal_id: "C2484221"
+label_id: "1639564"
+dtd_version: "2.0"
+original_entry_into_force: "1963-01-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002392/2015-01-01/0"
+intitule_bron: "Stb.1962-566"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1962-12-12"
+intitule_status: "goed"
+original_publication: "Stb.1962-566"
+original_signed_date: "1962-12-12"
+original_effect: "nieuwe-regeling"
+original_dossier: "6597"
+entry_into_force_date: "1963-01-16"
+entry_into_force_dossier: "6597"
+jci_1_3: "jci1.3:c:BWBR0002392&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0002392&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Noodwet voedselvoorziening"
+signed_date: "1962-12-12"
+entry_into_force: "1963-01-16"
 ---
-
-# Noodwet voedselvoorziening
+# Wet van 12 december 1962, houdende verzekering van de voedselvoorziening in geval van oorlog, oorlogsgevaar of andere buitengewone omstandigheden
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Begripsomschrijvingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bepaalde bij of krachtens deze wet wordt verstaan onder:
 
@@ -40,7 +64,7 @@ visserij: mosselteelt, oesterteelt en viskwekerij.
 
 ### Hoofdstuk II. Organen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is in iedere provincie een voedselcommissaris, die door Ons wordt benoemd en ontslagen.
 
@@ -48,13 +72,13 @@ visserij: mosselteelt, oesterteelt en viskwekerij.
 
 3. De voedselcommissaris is, tenzij het tegendeel blijkt, onder de bevelen van Onze Minister belast met de uitvoering van de krachtens deze wet vastgestelde regelen.
 
-#### Artikel 3
+##### Artikel 3
 
 Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijzen, die in die gebieden belast zijn met de uitvoering van krachtens deze wet vastgestelde regelen.
 
 ### Hoofdstuk III. Buitengewone bevoegdheden
 
-#### Artikel 4
+##### Artikel 4
 
 1. Onverminderd de [artikelen 7, eerste lid,](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=7) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007981&artikel=8) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de [artikelen 6 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01) gezamenlijk of afzonderlijk in werking worden gesteld.
 
@@ -68,11 +92,11 @@ Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijze
 
 6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het **Staatsblad**.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -82,7 +106,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. Bij algemene maatregel van bestuur wordt bepaald, in welke gevallen Onze Minister regelen, bedoeld in het eerste lid, ten aanzien van ondernemingen, waarin daarbij aan te wijzen bedrijven op het gebied van industrie, handel en ambacht worden uitgeoefend, niet vaststelt dan in overeenstemming met Onze Minister van Economische Zaken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -90,7 +114,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -98,7 +122,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. Onze Minister kan in door hem te bepalen gevallen of groepen van gevallen tot gehele of gedeeltelijke restitutie overgaan van hetgeen ingevolge het bepaalde krachtens het eerste lid is betaald.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -112,7 +136,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 2. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -124,7 +148,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 4. Onze Minister kent aan degene, die ingevolge dit artikel produkten of goederen ter beschikking houdt en ten gevolge daarvan schade lijdt, welke redelijkerwijze niet of niet geheel te zijnen laste behoort te blijven, op zijn verzoek een naar billijkheid te bepalen schadevergoeding uit ’s Lands kas toe.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -134,7 +158,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 3. De ontheffingen en vergunningen, zomede de restituties, bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2015-01-01&g=2015-01-01), kunnen worden ingetrokken, indien de te harer verkrijging verstrekte gegevens zodanig onjuist of onvolledig blijken, dat op de aanvraag een andere beslissing zou zijn genomen, als bij de beoordeling de juiste omstandigheden volledig bekend waren geweest.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.
 
@@ -148,105 +172,105 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ### Hoofdstuk IV. Decentralisatie
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Bij algemene maatregel van bestuur worden regelen gesteld betreffende tegemoetkoming in de kosten van de krachtens dit hoofdstuk verleende medewerking.
 
-#### Artikel 18
+##### Artikel 18
 
 Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daarbij vast te stellen regelen in enig gebied de bevoegdheden, welke krachtens deze wet, de [Distributiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001997), de [Hamsterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002389), de [Vorderingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002393), de [Prijzennoodwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003734), de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) en de [Algemene douanewet](https://wetten.overheid.nl/jci1.3:c:BWBR0023746) aan Onze Minister toekomen, uitoefenen voor zolang in een der in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=4&z=2015-01-01&g=2015-01-01), genoemde gevallen de verbinding tussen dat gebied en Onze Minister verbroken is. Ons besluit wordt mede bekend gemaakt in de Staatscourant.
 
 ### Hoofdstuk V. Beroep
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 In afwijking van [artikel 8:72, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:72) werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.
 
 ### Hoofdstuk VI. Overige bepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 1. Zolang de [artikelen 6-12](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01) in werking zijn, is een ieder verplicht bij het verrichten van gedragingen, genoemd in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), ten aanzien van de desbetreffende produkten die zorg aan te wenden, welke onder de met betrekking tot de voedselvoorziening bestaande omstandigheden redelijkerwijze kan worden verwacht.
 
 2. Het bepaalde bij het vorige lid is van overeenkomstige toepassing bij het verrichten van gedragingen, in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2015-01-01&g=2015-01-01), genoemd.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister kan ten aanzien van degenen, die een of meer der in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), en [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2015-01-01&g=2015-01-01), genoemde gedragingen verrichten of plegen te verrichten, regelen vaststellen betreffende het beantwoorden van vragen en verstrekken van gegevens, welke naar het oordeel van Onze Minister nodig zijn ter voorbereiding of uitvoering van enige krachtens deze wet te nemen of genomen maatregel, aan lichamen, organen of personen, die Onze Minister daartoe heeft aangewezen.
 
 2. [Artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Ieder, die ingevolge het bij of krachtens deze wet bepaalde in het bezit dient te zijn van een of meer bescheiden, is verplicht die bescheiden steeds bij zich te hebben bij gedragingen met betrekking tot welke het bezit van zodanige bescheiden verplicht is gesteld.
 
 2. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister of bij besluit van een in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2015-01-01&g=2015-01-01) onderscheidenlijk [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01) bedoelde voedselcommissaris aangewezen personen.
 
-#### Artikel 25
+##### Artikel 25
 
 Het is verboden ter zake van een aanvraag om een ontheffing, vergunning of restitutie, onjuiste of onvolledige gegevens te verstrekken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. In afwijking van [artikel 5 van de Wet op de economische delicten](https://wetten.overheid.nl/jci1.3:c:BWBR0002063&artikel=5) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2015-01-01&g=2015-01-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2015-01-01&g=2015-01-01) vastgestelde verplichtingen.
 
 2. Voor de in bezit genomen produkten wordt als schadeloosstelling toegekend een bedrag, gelijk aan de prijs, onderscheidenlijk vergoeding, welke bij inlevering, onderscheidenlijk terbeschikkinghouding ter nakoming van een krachtens [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2015-01-01&g=2015-01-01) opgelegde verplichting zou zijn uitgekeerd, een en ander verminderd met de op de inbezitneming vallende kosten.
 
-#### Artikel 27
+##### Artikel 27
 
 Hetgeen krachtens [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2015-01-01&g=2015-01-01) is verschuldigd, kan door Onze Minister bij dwangbevel worden ingevorderd.
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 1. Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij door Onze Minister vast te stellen regeling.
 
 2. Een gedraging in strijd met een bepaling in zodanige regeling is een strafbaar feit, voorzover uitdrukkelijk als zodanig aangeduid.
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Krachtens deze wet vastgestelde regelen treden, tenzij daarbij anders is bepaald, in werking met ingang van de dag na die van hun bekendmaking. Zij kunnen bepalen, dat zij onmiddellijk na hun bekendmaking in werking treden.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Besluiten, door Onze Minister krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=2&z=2015-01-01&g=2015-01-01), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=II&artikel=3&z=2015-01-01&g=2015-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=6&z=2015-01-01&g=2015-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=7&z=2015-01-01&g=2015-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=8&z=2015-01-01&g=2015-01-01), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=9&z=2015-01-01&g=2015-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=10&z=2015-01-01&g=2015-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=III&artikel=12&z=2015-01-01&g=2015-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=23&z=2015-01-01&g=2015-01-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0002392&hoofdstuk=VI&artikel=29&z=2015-01-01&g=2015-01-01) vastgesteld, worden in de **Staatscourant** bekend gemaakt.
 
 2. Indien het landsbelang dit naar zijn oordeel noodzakelijk maakt, kan Onze Minister een besluit, bedoeld in het eerste lid, op andere wijze bekend maken.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Een bij of krachtens deze wet opgelegde verplichting vervalt van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak.
 
 2. Een bij of krachtens deze wet opgelegde verplichting die niet voortvloeit uit de uitoefening van buitengewone bevoegdheden ten behoeve van de uitvoering van de militaire taak, vervalt eveneens van rechtswege voorzover het voldoen hieraan zou meebrengen dat niet kan worden voldaan aan een verplichting die bij of krachtens deze of een andere wet is opgelegd in het belang van de bestrijding van een ramp, een zwaar ongeval of van een verstoring van de openbare orde of van ernstige vrees voor het ontstaan daarvan.
 
-#### Artikel 34
+##### Artikel 34
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Deze wet kan worden aangehaald als: Noodwet voedselvoorziening.
 
@@ -254,13 +278,13 @@ Bevat wijzigingen in andere regelgeving.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.
 
 1. Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252) of de [Wet op de bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058) vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/571.
 

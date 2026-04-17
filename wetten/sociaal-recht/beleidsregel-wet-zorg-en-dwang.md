@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Wet zorg en dwang"
 identifier: "BWBR0049990"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049990"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049990"
+soort: "zbo"
+stam_id: "17172333"
+version_id: "30229292"
+internal_id: "C43302261"
+label_id: "17080284"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049990/2025-01-01/0"
+intitule_bron: "Stcrt.2024-22873"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-02"
+intitule_published: "2024-07-15"
+intitule_in_force: "2024-07-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-22873"
+original_signed_date: "2024-07-02"
+original_published_date: "2024-07-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-22873"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0049990&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0049990&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-07-02"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel Wet zorg en dwang
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
@@ -18,7 +43,7 @@ Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/
 
 Gelet op [artikel 59, aanhef en onder a, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister voor Langdurige Zorg en Sport met brief van 23 juni 2023, met kenmerk 3599781-1048828-PZo, ten behoeve van de voorliggende beleidsregel een [aanwijzing op grond van artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0048333), aan de NZa gegeven. Deze aanwijzing dateert van 23 juni 2023 en heeft als kenmerk 3599781-1048828-PZo.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -48,11 +73,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - 2°. natuurlijk persoon of rechtspersoon voor zover deze tarieven in rekening brengt namens, ten behoeve van of in verband met het verlenen van zorg door een zorgaanbieder als bedoeld onder 1°.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van zorg die wordt geleverd onder de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) en valt onder de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op:
 
@@ -60,7 +85,7 @@ Deze beleidsregel is van toepassing op:
 
 - –. zorg als bedoeld in [artikel 2.12 van het Besluit Zorgverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0018492&artikel=2.12), voor zover het gaat om verblijf dat medisch noodzakelijk is in verband met geneeskundige zorg zoals huisartsen die plegen te bieden, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.
 
-#### Artikel 4. Prestatiebeschrijvingen
+##### Artikel 4. Prestatiebeschrijvingen
 
 In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen onderscheiden:
 
@@ -94,7 +119,7 @@ In het kader van deze beleidsregel worden de volgende prestatiebeschrijvingen on
 
 - 15. Verblijf bij inbewaringstelling voor cliënten met een (vermoeden van een) verstandelijke beperking
 
-#### Artikel 5. Specifieke bepalingen bij de prestatiebeschrijvingen
+##### Artikel 5. Specifieke bepalingen bij de prestatiebeschrijvingen
 
 Deze prestatie omvat alle werkzaamheden die worden uitgevoerd in het kader van stap 1 van het Wzd stappenplan door een deskundige van een andere discipline in de extramurale setting. Alle werkzaamheden die worden uitgevoerd in het kader van stap 1 van het Wzd stappenplan in de extramurale setting door een deskundige van een andere discipline vallen onder deze prestatiebeschrijving en kunnen niet via andere prestatiebeschrijvingen in rekening worden gebracht.
 
@@ -242,7 +267,7 @@ De prestatie omvat de volgende componenten:
 
 Deze prestatie is declarabel per kalenderdag en kan enkel gedeclareerd worden op dagen dat de cliënt aanwezig is ten tijde van de IBS.
 
-#### Artikel 6. Totstandkoming maximumtarieven
+##### Artikel 6. Totstandkoming maximumtarieven
 
 1. De totstandkoming van de maximumtarieven is beschreven in het Verantwoordingsdocument 'Onderbouwing maximumtarieven in de Beleidsregel Wet zorg en dwang', welk document als bijlage bij deze beleidsregel is opgenomen.
 
@@ -260,11 +285,11 @@ Er gelden maximumtarieven.
 
 De tarieven worden in beginsel jaarlijks ambtshalve geïndexeerd. Voor wat betreft de loonkosten wordt de index vastgesteld door het Ministerie van VWS. Deze index houdt verband met de CAO-afspraken. Voor wat betreft de materiële kosten wordt aangesloten bij de prijsindexcijfer particuliere consumptie uit het Centraal Economisch Plan (CEP) van het Centraal Planbureau (CPB). De op het tarief toe te passen index is het gewogen gemiddelde van de loon- en materiële indices waarbij wordt uitgegaan van een aandeel van 85,2% loonkosten en 14,8% materiële kosten. Het tarief wordt vastgesteld op basis van een voorcalculatie voor jaar t en de definitieve indices van jaar t–1.
 
-#### Artikel 7. Intrekken oude beleidsregels
+##### Artikel 7. Intrekken oude beleidsregels
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0048505), met kenmerk BR/REG-24140, ingetrokken.
 
-#### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, en citeertitel
+##### Artikel 8. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, en citeertitel
 
 De [Beleidsregel Wet zorg en dwang](https://wetten.overheid.nl/jci1.3:c:BWBR0048505) met kenmerk BR/REG-24140, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

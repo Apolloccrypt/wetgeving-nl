@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tot oprichting van de Wereldhandelsorganisatie"
 identifier: "BWBV0001160"
-categorie: "Internationaal recht"
-publicatiedatum: 2017-01-23
-laatste_update: 2017-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001160"
+country: "nl"
+rank: "verdrag"
+publication_date: "2017-01-23"
+last_updated: "2017-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001160"
+soort: "verdrag"
+stam_id: "10002395143"
+version_id: "10002408742"
+internal_id: "C10006986661"
+label_id: "10002392184"
+dtd_version: "2.0"
+original_entry_into_force: "1995-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001160/2017-01-23/0"
+intitule_bron: "Trb.1994-235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-30"
+intitule_published: "1994-11-11"
+intitule_in_force: "1995-07-19"
+intitule_status: "goed"
+original_publication: "Trb.1994-235"
+original_signed_date: "1994-12-30"
+original_published_date: "1994-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-235"
+entry_into_force_date: "1995-01-01"
+jci_1_3: "jci1.3:c:BWBV0001160&z=2017-01-23&g=2017-01-23"
+jci_1_0: "1.0:c:BWBV0001160&g=2017-01-23"
+citeertitel_status: "redactioneel"
+signed_date: "1994-12-30"
+entry_into_force: "1995-01-01"
 ---
-
 # Overeenkomst tot oprichting van de Wereldhandelsorganisatie
 
 De Partijen bij deze Overeenkomst,
@@ -24,11 +49,11 @@ Vastbesloten de aan dit multilaterale handelsstelsel ten grondslag liggende gron
 
 Zijn het volgende overeengekomen:
 
-#### Artikel I. Oprichting van de organisatie
+##### Artikel I. Oprichting van de organisatie
 
 Hierbij wordt de Wereldhandelsorganisatie (hierna te noemen „de WTO”) opgericht.
 
-#### Artikel II. Werkingssfeer van de WTO
+##### Artikel II. Werkingssfeer van de WTO
 
 1. De WTO vormt het gemeenschappelijke institutionele kader voor het onderhouden van handelsbetrekkingen tussen haar Leden in aangelegenheden die verband houden met de verdragen en bijbehorende juridische instrumenten die zijn opgenomen in de Bijlagen bij deze Overeenkomst.
 
@@ -38,7 +63,7 @@ Hierbij wordt de Wereldhandelsorganisatie (hierna te noemen „de WTO”) opgeri
 
 4. De Algemene Overeenkomst betreffende Tarieven en Handel van 1994, zoals genoemd in Bijlage 1A (hierna te noemen „GATT-Overeenkomst van 1994”) staat juridisch los van de Algemene Overeenkomst betreffende Tarieven en Handel van 30 oktober 1947, gehecht aan de slotakte van de Tweede Zitting van de Voorbereidende Commissie van de Conferentie der Verenigde Naties over Handel en Werkgelegenheid, zoals daarna verbeterd, geamendeerd of gewijzigd (hierna te noemen „GATT-Overeenkomst van 1947”).
 
-#### Artikel III. Taken van de WTO
+##### Artikel III. Taken van de WTO
 
 1. De WTO vergemakkelijkt de toepassing, het beheer en de werking en bevordert de doelstellingen van deze Overeenkomst en van de Multilaterale Handelsovereenkomsten, en biedt tevens het kader voor de toepassing, het beheer en de werking van de Plurilaterale Handelsovereenkomsten.
 
@@ -50,7 +75,7 @@ Hierbij wordt de Wereldhandelsorganisatie (hierna te noemen „de WTO”) opgeri
 
 5. Met het oog op het bereiken van een grotere samenhang in de mondiale economische beleidsvorming werkt de WTO, als passend, samen met het Internationale Monetaire Fonds en met de Internationale Bank voor Herstel en Ontwikkeling en de daarmede verbonden organisaties.
 
-#### Artikel IV. Structuur van de WTO
+##### Artikel IV. Structuur van de WTO
 
 1. Er is een Ministeriële Conferentie, bestaande uit vertegenwoordigers van alle Leden, die ten minste eenmaal per twee jaar bijeenkomt. De Ministeriële Conferentie verricht de taken van de WTO en neemt de hiertoe noodzakelijke maatregelen. De Ministeriële Conferentie heeft de bevoegdheid besluiten te nemen inzake alle aangelegenheden vallend onder Multilaterale Handelsovereenkomsten, indien daarom door een Lid is verzocht, overeenkomstig de specifieke vereisten voor de besluitvorming in deze Overeenkomst en in de desbetreffende Multilaterale Handelsovereenkomst.
 
@@ -68,13 +93,13 @@ Hierbij wordt de Wereldhandelsorganisatie (hierna te noemen „de WTO”) opgeri
 
 8. De in de Plurilaterale Handelsovereenkomsten voorziene organen verrichten de taken die hun bij deze overeenkomsten zijn opgedragen en functioneren binnen het institutionele kader van de WTO. Deze organen houden de Algemene Raad regelmatig op de hoogte van hun werkzaamheden.
 
-#### Artikel V. Betrekkingen met andere organisaties
+##### Artikel V. Betrekkingen met andere organisaties
 
 1. De Algemene Raad treft passende regelingen voor doeltreffende samenwerking met andere intergouvernementele organisaties met verantwoordelijkheden die verband houden met die van de WTO.
 
 2. De Algemene Raad kan passende regelingen treffen voor overleg en samenwerking met niet-gouvernementele organisaties die zich bezighouden met aangelegenheden die verband houden met die van de WTO.
 
-#### Artikel VI. Secretariaat
+##### Artikel VI. Secretariaat
 
 1. Er is een Secretariaat van de WTO (hierna te noemen „het Secretariaat”) met aan het hoofd een Directeur-Generaal.
 
@@ -84,7 +109,7 @@ Hierbij wordt de Wereldhandelsorganisatie (hierna te noemen „de WTO”) opgeri
 
 4. De verantwoordelijkheden van de Directeur-Generaal en van het personeel van het Secretariaat hebben een uitsluitend internationaal karakter. Bij de vervulling van hun taken vragen noch ontvangen de Directeur-Generaal en het personeel van het Secretariaat instructies van een regering of andere autoriteit buiten de WTO. Zij onthouden zich van elk optreden dat een nadelige weerslag zou kunnen hebben op hun positie als internationale functionarissen. De Leden van de WTO eerbiedigen het internationale karakter van de verantwoordelijkheden van de Directeur-Generaal en het personeel van het Secretariaat en pogen niet dezen te beïnvloeden bij de vervulling van hun taken.
 
-#### Artikel VII. Begroting en bijdragen
+##### Artikel VII. Begroting en bijdragen
 
 1. De Directeur-Generaal legt aan de Commissie inzake begroting, financiën en administratie de raming van de jaarlijkse begroting en het financieel overzicht van de WTO voor. De Commissie inzake begroting, financiën en administratie bestudeert de door de Directeur-Generaal voorgelegde raming van de jaarlijkse begroting en het financieel overzicht en doet daarover aanbevelingen aan de Algemene Raad. De raming van de jaarlijkse begroting is onderworpen aan goedkeuring door de Algemene Raad.
 
@@ -100,7 +125,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 4. Elk Lid draagt onverwijld zijn aandeel in de kosten van de WTO bij aan de WTO in overeenstemming met de door de Algemene Raad aangenomen financiële voorschriften.
 
-#### Artikel VIII. Status van de WTO
+##### Artikel VIII. Status van de WTO
 
 1. De WTO bezit rechtspersoonlijkheid, en aan de WTO wordt door elk van haar Leden de rechtsbevoegdheid toegekend die nodig is voor de uitoefening van haar taken.
 
@@ -112,7 +137,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 5. De WTO kan een zetelovereenkomst sluiten.
 
-#### Artikel IX. Besluitvorming
+##### Artikel IX. Besluitvorming
 
 1. De WTO zet de praktijk voort van besluitvorming door middel van consensus die werd gehanteerd ingevolge de GATT-Overeenkomst van 19471)Het betrokken orgaan wordt geacht bij consensus een besluit te hebben genomen omtrent een daaraan voorgelegde aangelegenheid als geen enkel Lid dat aanwezig is op de bijeenkomst waarop het besluit wordt genomen, formeel bezwaar maakt tegen het voorgestelde besluit.. Behalve indien anders bepaald, wordt de aangelegenheid in kwestie, wanneer er geen besluit door middel van consensus wordt bereikt, beslist door stemming. Op vergaderingen van de Ministeriële Conferentie en de Algemene Raad heeft elk Lid van de WTO één stem. Wanneer de Europese Gemeenschappen hun stemrecht uitoefenen, hebben zij een aantal stemmen gelijk aan het aantal van hun lidstaten1)Het aantal stemmen van de Europese Gemeenschappen en hun lidstaten mag in geen geval het aantal lidstaten van de Europese Gemeenschappen te boven gaan. die lid van de WTO zijn. Besluiten van de Ministeriële Conferentie en de Algemene Raad worden genomen met een meerderheid van de uitgebrachte stemmen, tenzij in deze Overeenkomst of in de desbetreffende Multilaterale Handelsovereenkomst anders bepaald. Besluiten van de Ministeriële Conferentie en de Algemene Raad worden genomen met een meerderheid van de uitgebrachte stemmen, tenzij in deze Overeenkomst of in de desbetreffende Multilaterale Handelsovereenkomst2)Besluiten van de Algemene Raad, wanneer deze bijeenkomt als Orgaan voor Geschillenbeslechting, worden slechts genomen in overeenstemming met de bepalingen van paragraaf 2.4 van het Memorandum inzake Geschillenbeslechting. anders bepaald.
 
@@ -128,7 +153,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 5. Voor besluiten ingevolge een Plurilaterale Handelsovereenkomst, met inbegrip van besluiten inzake interpretaties en ontheffingen, gelden de bepalingen van die overeenkomst.
 
-#### Artikel X. Wijzigingen
+##### Artikel X. Wijzigingen
 
 1. Ieder Lid van de WTO kan een voorstel doen tot wijziging van de bepalingen van deze Overeenkomst of van de Multilaterale Handelsovereenkomsten in Bijlage 1 door een zodanig voorstel voor te leggen aan de Ministeriële Conferentie. De in artikel IV, lid 5, genoemde Raden kunnen ook voorstellen aan de Ministeriële Conferentie voorleggen tot wijziging van de bepalingen van de Multilaterale Handelsovereenkomsten in Bijlage 1 op de werking waarvan zij toezien. Gedurende een termijn van 90 dagen nadat het voorstel formeel tijdens de Ministeriële Conferentie is ingediend, dient een besluit van de Ministeriële Conferentie om de voorgestelde wijziging ter aanvaarding aan de Leden voor te leggen, bij consensus te worden genomen, tenzij de Ministeriële Conferentie besluit tot een langere termijn. In dat besluit wordt aangegeven of de bepalingen van de leden 3 of 4 van toepassing zijn, tenzij de bepalingen van de leden 2, 5 of 6 van toepassing zijn. Indien consensus is bereikt, legt de Ministeriële Conferentie de voorgestelde wijziging onverwijld aan de Leden voor ter aanvaarding. Indien niet binnen de vastgestelde termijn consensus is bereikt tijdens een vergadering van de Ministeriële Conferentie, besluit de Ministeriële Conferentie met een twee derde meerderheid van de Leden of de voorgestelde wijziging ter aanvaarding aan de Leden wordt voorgelegd. Behalve zoals bepaald in de leden 2, 5 en 6, zijn de bepalingen van lid 3 van toepassing op de voorgestelde wijziging, tenzij de Ministeriële Conferentie met een drie vierde meerderheid van de Leden besluit dat de bepalingen van lid 4 van toepassing zijn.
 
@@ -158,13 +183,13 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 10. Voor wijzigingen van een Plurilaterale Handelsovereenkomst gelden de bepalingen van die Overeenkomst.
 
-#### Artikel XI. Oorspronkelijk lidmaatschap
+##### Artikel XI. Oorspronkelijk lidmaatschap
 
 1. Op de datum van inwerkingtreding van deze Overeenkomst worden de partijen bij de GATT-Overeenkomst van 1947 en de Europese Gemeenschappen, mits zij deze Overeenkomst en de Multilaterale Handelsovereenkomst aanvaarden met inbegrip van de Lijsten van Concessies en Verbintenissen gehecht aan de GATT-Overeenkomst van 1994 alsmede de Lijsten van Specifieke Verbintenissen gehecht aan de GATS, oorspronkelijke Leden van de WTO.
 
 2. Van de als zodanig door de Verenigde Naties erkende minstontwikkelde landen wordt slechts verlangd dat zij verbintenissen aangaan en concessies doen in de mate die overeenstemt met hun individuele ontwikkeling, financiële behoeften en handelsbehoeften of hun administratieve en institutionele vermogens.
 
-#### Artikel XII. Toetreding
+##### Artikel XII. Toetreding
 
 1. Iedere staat die of ieder afzonderlijk douanegebied dat volledige zelfstandigheid bezit in de buitenlandse handelsbetrekkingen of in de andere aangelegenheden geregeld in deze Overeenkomst en de Multilaterale Handelsovereenkomsten kan tot deze Overeenkomst toetreden op tussen deze staat of dat gebied en de WTO overeen te komen voorwaarden. Deze toetreding geldt voor deze Overeenkomst en de daaraan gehechte Multilaterale Handelsovereenkomsten.
 
@@ -172,7 +197,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 3. Voor toetreding tot een Plurilaterale Handelsovereenkomst gelden de bepalingen van die Overeenkomst.
 
-#### Artikel XIII. Niet-toepassing van Multilaterale Handelsovereenkomsten tussen bepaalde Leden
+##### Artikel XIII. Niet-toepassing van Multilaterale Handelsovereenkomsten tussen bepaalde Leden
 
 1. Deze Overeenkomst en de Multilaterale Handelsovereenkomsten in de Bijlagen 1 en 2 zijn niet van toepassing tussen een Lid en een ander Lid indien een van beide Leden, op het tijdstip waarop het Lid wordt, niet instemt met deze toepassing.
 
@@ -184,7 +209,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 5. Voor niet-toepassing van een Plurilaterale Handelsovereenkomst tussen Partijen bij die Overeenkomst gelden de bepalingen van die Overeenkomst.
 
-#### Artikel XIV. Aanvaarding en inwerkingtreding, en nederlegging van akten
+##### Artikel XIV. Aanvaarding en inwerkingtreding, en nederlegging van akten
 
 1. Deze Overeenkomst staat open voor aanvaarding, door ondertekening of op andere wijze, door de Partijen bij de GATT-Overeenkomst van 1947 en door de Europese Gemeenschappen die gerechtigd zijn oorspronkelijke Leden van de WTO te worden in overeenstemming met artikel XI van deze Overeenkomst. Deze aanvaarding geldt voor deze Overeenkomst en de daaraan gehechte Multilaterale Handelsovereenkomsten. Deze Overeenkomst en de daaraan gehechte Multilaterale Handelsovereenkomsten treden in werking op de datum door de Ministers bepaald in overeenstemming met paragraaf 3 van de Slotakte waarin de resultaten van de Uruguay-Ronde van de multilaterale handelsbesprekingen zijn neergelegd en blijft voor aanvaarding openstaan voor een tijdvak van twee jaar na die datum tenzij de Ministers anders besluiten. Aanvaarding na de inwerkingtreding van deze Overeenkomst wordt van kracht op de dertigste dag na de nederlegging van de akte van aanvaarding.
 
@@ -194,13 +219,13 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 4. Op de aanvaarding en inwerkingtreding van een Plurilaterale Handelsovereenkomst zijn de bepalingen van die Overeenkomst van toepassing. Deze Overeenkomsten worden nedergelegd bij de Directeur-Generaal van de Partijen bij de GATT-Overeenkomst van 1947. Na inwerkingtreding van deze Overeenkomst worden deze overeenkomsten nedergelegd bij de Directeur-Generaal van de WTO.
 
-#### Artikel XV. Terugtrekking
+##### Artikel XV. Terugtrekking
 
 1. Ieder Lid kan zich terugtrekken uit deze Overeenkomst. Deze terugtrekking geldt zowel voor deze Overeenkomst als voor de Multilaterale Handelsovereenkomsten en wordt van kracht na het verstrijken van zes maanden na de datum waarop de schriftelijke kennisgeving van terugtrekking door de Directeur-Generaal van de WTO is ontvangen.
 
 2. Voor de terugtrekking uit een Plurilaterale Overeenkomst gelden de bepalingen van die Overeenkomst.
 
-#### Artikel XVI. Diverse bepalingen
+##### Artikel XVI. Diverse bepalingen
 
 1. Behalve indien anders bepaald in deze Overeenkomst of in de Multilaterale Handelsovereenkomsten, laat de WTO zich leiden door de besluiten, procedures en gebruikelijke praktijken gehanteerd door de Partijen bij de GATT-Overeenkomst van 1947 en de in het kader van de GATT-Overeenkomst van 1947 ingestelde organen.
 
@@ -214,7 +239,7 @@ De financiële voorschriften zijn, voor zover uitvoerbaar, gebaseerd op de voors
 
 6. Deze Overeenkomst wordt geregistreerd overeenkomstig de bepalingen van [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### 1. De Algemene Overeenkomst inzake Tarieven en Handel 1994 („GATT 1994”) bestaat uit:
+##### 1. De Algemene Overeenkomst inzake Tarieven en Handel 1994 („GATT 1994”) bestaat uit:
 
 a. de bepalingen in de Algemene Overeenkomst inzake Tarieven en Handel van 30 oktober 1947, gehecht aan de Slotakte die werd goedgekeurd aan het einde van de tweede zitting van de Voorbereidende Commissie van de Conferentie van de Verenigde Naties over Handel en Werkgelegenheid (exclusief het protocol van Voorlopige Toepassing), zoals verbeterd, herzien of gewijzigd via wettelijke instrumenten die vóór de datum van inwerkingtreding van de WTO-Overeenkomst van kracht werden;
 
@@ -244,7 +269,7 @@ c. de hiernavolgende Memoranda van Overeenstemming:
 
 d. het Protocol van Marrakesh bij GATT 1994.
 
-#### 2. Verklarende aantekeningen:
+##### 2. Verklarende aantekeningen:
 
 a. Waar in de bepalingen van GATT 1994 „Overeenkomstsluitende Partij” staat, moet worden gelezen „Lid”. Waar staat „minder ontwikkelde Overeenkomstsluitende Partij” en „ontwikkelde Overeenkomstsluitende Partij” moet worden gelezen „een Lid dat een ontwikkelingsland is” en „een Lid dat een ontwikkeld land” is. Waar staat „Uitvoerend Secretaris” moet worden gelezen „Directeur-Generaal van de WTO”.
 
@@ -256,7 +281,7 @@ b. De verwijzingen naar een gezamenlijk optreden van de OVEREENKOMSTSLUITENDE PA
 
 - iii. De authentieke tekst van GATT 1994 in het Spaans is de tekst in Volume IV van de Basic Instruments and Selected Document Series waarop de in bijlage B bij document MTN.TNC/41 vermelde terminologische wijzigingen worden aangebracht.
 
-#### 3
+##### 3
 
 a. De bepalingen van Deel II van GATT 1994 zijn niet van toepassing op door een Lid getroffen maatregelen krachtens door dat Lid voordat het Overeenkomstsluitende Partij bij GATT 1947 werd vastgestelde specifieke verplichte wetgeving die het gebruik, de verkoop of (ver)huur van in het buitenland gebouwde of in het buitenland omgebouwde schepen voor commerciële toepassingen tussen punten in de nationale wateren of de wateren van een exclusieve economische zone verbiedt. Deze vrijstelling is van toepassing op: a. de handhaving of onmiddellijke verlenging van een niet-conforme bepaling van dergelijke wetgeving en b. de wijziging op een niet-conforme bepaling van dergelijke wetgeving, voor zover de wijziging de overeenstemming van de bepaling met deel II van GATT 1947 niet vermindert. Deze vrijstelling blijft beperkt tot maatregelen getroffen krachtens in het voorgaande beschreven wetgeving die vóór de datum van inwerkingtreding van de WTO-Overeenkomst wordt aangemeld en gespecificeerd. Indien dergelijke wetgeving vervolgens wordt gewijzigd om haar overeenstemming met Deel II van GATT 1994 te verminderen, komt zij niet langer in aanmerking om onder deze paragraaf te vallen.
 
@@ -270,35 +295,35 @@ e. Deze vrijstelling laat in sectoriële overeenkomsten of in het kader van ande
 
 De Leden komen het volgende overeen:
 
-#### 1
+##### 1
 
 Met het oog op de doorzichtigheid van de wettelijke rechten en verplichtingen voortvloeiende uit lid 1, sub b. van artikel II worden de aard en het niveau van alle in die bepaling bedoelde „andere rechten of heffingen” die op geconsolideerde tariefposten worden geheven in de aan GATT 1994 gehechte Lijsten van concessies naast de tariefpost waarop zij betrekking hebben, vermeld. Overeengekomen wordt dat deze vermelding het wettelijk karakter van „andere rechten of heffingen” niet wijzigt.
 
-#### 2
+##### 2
 
 De datum met ingang waarvan „andere rechten of heffingen” voor de toepassing van artikel II zijn geconsolideerd, is 15 april 1994. „Andere rechten of heffingen” worden derhalve in de met de op die datum geldende niveaus in de Lijsten vermeld. Bij alle volgende heronderhandelingen over een concessie of onderhandelingen over een nieuwe concessie wordt de geldende datum voor de tariefpost in kwestie de datum van opneming van de nieuwe concessie op de desbetreffende Lijst. De datum van het instrument via hetwelk een concessie ten aanzien van een bepaalde tariefpost voor het eerst in GATT 1947 of GATT 1994 werd opgenomen, zal evenwel ook in kolom 6 van de losbladige Lijsten blijven worden aangegeven.
 
-#### 3
+##### 3
 
 Voor alle tariefconsolidaties vindt vermelding van „andere rechten of heffingen” plaats.
 
-#### 4
+##### 4
 
 Wanneer ten aanzien van een tariefpost eerder een concessie werd toegekend, is het niveau van de in de desbetreffende Lijst vermelde „andere rechten of heffingen” niet hoger dan het niveau dat bij de eerste opneming van de concessie op die Lijst gold. Het staat ieder Lid vrij om het bestaan van een „ander recht of andere heffing” te betwisten op grond van het feit dat een dergelijk „ander recht of een dergelijke andere heffing” ten tijde van de oorspronkelijke consolidatie van de tariefpost in kwestie niet bestond alsmede op grond van de samenhang van het vermelde niveau van een „ander recht of andere heffing” met het eerder geconsolideerde niveau, en wel gedurende een periode van drie jaar na de datum van inwerkingtreding van de WTO-Overeenkomst of drie jaar na de datum van neerlegging bij de Directeur-Generaal van de WTO van het instrument via hetwelk bedoelde Lijst in GATT 1994 werd opgenomen, indien die datum later valt.
 
-#### 5
+##### 5
 
 De vermelding van „andere rechten of heffingen” in de Lijsten laat hun verenigbaarheid met rechten en verplichtingen uit hoofde van GATT 1994 andere dan die waarop punt 4 betrekking heeft onverlet. Alle Leden behouden het recht om de verenigbaarheid van een „ander recht of andere heffing” met die verplichtingen te allen tijde te betwisten.
 
-#### 6
+##### 6
 
 Voor de toepassing van dit Memorandum van Overeenstemming gelden de bepalingen van de artikelen XXII en XXIII van GATT 1994, zoals gepreciseerd en tenuitvoergelegd in het Memorandum van Overeenstemming inzake de beslechting van geschillen.
 
-#### 7
+##### 7
 
 „Andere rechten of heffingen” die op een Lijst zijn weggelaten bij de nederlegging van het instrument via hetwelk die Lijst in GATT 1994 wordt opgenomen bij, tot de datum van inwerkingtreding van de WTO-Overeenkomst, de Directeur-Generaal van de Overeenkomstsluitende Partijen van GATT 1947 of, daarna, bij de Directeur-Generaal van de WTO, worden later niet aan die Lijst toegevoegd en „andere rechten of heffingen” waarvoor een lager niveau werd aangegaan dan het bestaande op de geldende datum worden niet tot dat niveau verhoogd, tenzij dergelijke toevoegingen of wijzigingen binnen zes maanden na de datum van nederlegging van het instrument geschieden.
 
-#### 8
+##### 8
 
 Het besluit in punt 2 betreffende de voor elke concessie geldende datum met het oog op de toepassing van lid 1, sub b. van artikel II van GATT 1994 doet het op 26 maart 1980 genomen besluit betreffende de geldende datum (BISD 27S/24) teniet.
 
@@ -312,7 +337,7 @@ Erkennende dat dit Memorandum de in artikel XVII beschreven essentiële discipli
 
 Komen het volgende overeen:
 
-#### 1
+##### 1
 
 Teneinde de doorzichtigheid van de activiteiten van staatshandelsondernemingen te verzekeren, melden de Leden de aan de volgende werkdefinitie beantwoordende ondernemingen bij de Raad voor de handel in goederen aan voor toetsing door de krachtens lid 5 op te richten werkgroep:
 
@@ -320,19 +345,19 @@ Teneinde de doorzichtigheid van de activiteiten van staatshandelsondernemingen t
 
 Deze aanmeldingseis geldt niet voor de invoer van produkten die zijn bestemd voor onmiddellijk of eindverbruik door of voor rekening van de overheid of door de in het voorgaande beschreven ondernemingen en niet om te worden herverkocht of gebruikt bij de produktie van voor de verkoop bestemde goederen.
 
-#### 2
+##### 2
 
 Elk Lid onderwerpt zijn beleid met betrekking tot de aanmelding van staatshandelsondernemingen bij de Raad voor de handel in goederen aan een onderzoek met inachtneming van het bepaalde in dit Memorandum. Bij dit onderzoek dient elk Lid rekening te houden met de noodzaak om bij zijn aanmeldingen een zo groot mogelijke doorzichtigheid te verzekeren zodat een duidelijk beeld kan worden verkregen van de functioneringswijze van de aangemelde ondernemingen en het effect van hun activiteiten op de internationale handel.
 
-#### 3
+##### 3
 
 De aanmeldingen worden gedaan overeenkomstig de op 24 mei 1960 (BISD 9S/184-185) goedgekeurde vragenlijst betreffende de staatshandel, met dien verstande dat de Leden de in lid 1 bedoelde ondernemingen aanmelden ongeacht of er al dan niet inderdaad in- of uitvoer heeft plaatsgevonden.
 
-#### 4
+##### 4
 
 Elk Lid dat reden heeft om aan te nemen dat een ander Lid niet op passende wijze aan zijn aanmeldingsplicht heeft voldaan, kan zulks opnemen met het betrokken Lid. Indien de zaak niet op bevredigende wijze wordt opgelost, kan het Lid bij de Raad voor de handel in goederen een tegenaanmelding aandoen die door de krachtens lid 5 opgerichte werkgroep moet worden onderzocht en waarvan het betrokken Lid tezelfdertijd op de hoogte wordt gesteld.
 
-#### 5
+##### 5
 
 Namens de Raad voor de handel in goederen wordt een werkgroep opgericht die belast wordt met het onderzoek van aanmeldingen en tegenaanmeldingen. In het licht van dit onderzoek en onverminderd lid 4, sub c. van artikel XVII kan de Raad voor de handel in goederen aanbevelingen doen aangaande de toereikendheid van aanmeldingen en de noodzaak van verder informatie. De werkgroep onderzoekt in het licht van de ontvangen aanmeldingen tevens de geschiktheid van voornoemde vragenlijst inzake staatshandel en welke staatshandelsondernemingen krachtens lid 1 werden aangemeld. Zij stelt eveneens een enuntiatieve lijst op van de soorten betrekkingen tussen overheden en ondernemingen en de soorten activiteiten waarmee deze ondernemingen zich bezighouden en die voor de toepassing van artikel XVII van belang kunnen zijn. Overeengekomen wordt dat het secretariaat ten behoeve van de werkgroep een algemeen voorlichtingsdocument zal opstellen over de activiteiten van staatshandelsondernemingen die betrekking hebben op de internationale handel. Alle Leden die zulks wensen, kunnen deel uitmaken van de werkgroep die binnen een jaar na de datum van inwerkingtreding van de WTO-Overeenkomst bijeenkomt en vervolgens tenminste éénmaal per jaar. Zij brengt jaarlijks verslag uit aan de Raad voor de handel in goederen1)De activiteiten van deze werkgroep worden gecoördineerd met die van de werkgroep waarin deel III van het op 15 april 1994 goedgekeurde Ministerieel Besluit inzake aanmeldingsprocedures voorziet..
 
@@ -342,61 +367,61 @@ Erkennende de bepalingen van artikel XII en XVIII, deel B, van GATT 1994 en van 
 
 ### De toepassing van maatregelen
 
-#### 1
+##### 1
 
 De Leden bevestigen hun verbintenis tot het zo spoedig mogelijk bekendmaken van tijdschema's voor de opheffing van ter bescherming van de betalingsbalans getroffen beperkende invoermaatregelen. Overeengekomen wordt dat dergelijke tijdschema's zo nodig kunnen worden gewijzigd om rekening te houden met veranderingen in de betalingsbalanssituatie. Telkens wanneer een tijdschema niet door een Lid bekend wordt gemaakt, moet dat Lid de redenen waarom zulks niet geschiedde, opgeven.
 
-#### 2
+##### 2
 
 De Leden bevestigen hun verbintenis tot het geven van de voorkeur aan die maatregelen die het handelsverkeer het minst verstoren. Dergelijke maatregelen (in dit Memorandum „op prijzen gebaseerde maatregelen” genoemd) omvatten aanvullende heffingen bij invoer, borgstellingsverplichtingen of andere soortgelijke handelsmaatregelen die van invloed zijn op de prijs van ingevoerde goederen. Er wordt overeengekomen dat ter bescherming van de betalingsbalans genomen op prijzen gebaseerde maatregelen, in afwijking van het bepaalde in artikel II, door een Lid kunnen worden toegepast bovenop de in de Lijst van dat Lid vermelde rechten. Voorts geeft dat Lid overeenkomstig de kennisgevingsprocedures van dit Memorandum duidelijk en afzonderlijk aan met welk bedrag de op prijzen gebaseerde maatregel het geconsolideerde recht overschrijdt.
 
-#### 3
+##### 3
 
 De Leden streven naar voorkoming van het opwerpen van nieuwe kwantitatieve beperkingen ter bescherming van de betalingsbalans, tenzij op prijzen gebaseerde maatregelen wegens een kritieke betalingsbalanssituatie een plotselinge verslechtering van het saldo van het goederen- en dienstenverkeer niet tot stilstand kunnen brengen. Voor de gevallen waarin een Lid kwantitatieve beperkingen toepast, geeft het de redenen op waarom op prijzen gebaseerde maatregelen geen passend instrument zijn om de betalingsbalanssituatie op te lossen. Een Lid dat kwantitatieve beperkingen blijft opleggen, brengt bij successievelijk overleg verslag uit over de voortgang geboekt met het aanmerkelijk verminderen van de gevolgen en het beperkend effect van die maatregelen. Overeengekomen wordt dat hetzelfde produkt niet kan worden onderworpen aan meer dan één soort ter bescherming van de betalingsbalans getroffen beperkende invoermaatregel.
 
-#### 4
+##### 4
 
 De Leden bevestigen dat ter bescherming van de betalingsbalans genomen beperkende invoermaatregelen slechts mogen worden toegepast om het algemene niveau van de invoer te regelen en niet meer mogen inhouden dan hetgeen in verband met de betalingsbalanssituatie noodzakelijk is. Ten einde bijkomende beschermende effecten tot een minimum te beperken, past een Lid de beperkingen op doorzichtige wijze toe. De autoriteiten van het importerende Lid motiveren de criteria op grond waarvan werd bepaald welke produkten aan beperkingen worden onderworpen op passende wijze. Zoals in lid 3 van artikel XII en lid 10 van artikel XVIII bepaald, kunnen de Leden ingeval van bepaalde essentiële produkten de toepassing van algemene aanvullende extra heffingen of andere ter bescherming van de betalingsbalans genomen maatregelen uitsluiten of beperken. Onder „essentiële produkten” worden verstaan produkten die beantwoorden aan fundamentele verbruiksbehoeften of een bijdrage leveren aan de inspanningen van het Lid ter verbetering van de betalingsbalanssituatie, zoals kapitaalgoederen of voor produktie benodigde inputs. Bij het beheer van kwantitatieve beperkingen maakt een Lid slechts gebruik van de toekenning van discretionaire vergunningen, wanneer zulks onvermijdelijk is en deze worden geleidelijk opgeheven. De gebruikte criteria ter vaststelling van toegestane invoerhoeveelheden of -waarden worden op passende wijze gemotiveerd.
 
 ### Procedures voor overleg over de betalingsbalans
 
-#### 5
+##### 5
 
 De Commissie inzake beperkingen ten behoeve van de betalingsbalans (in dit Memorandum de „Commissie” genoemd) pleegt overleg om alle ter bescherming van de betalingsbalans genomen beperkende invoermaatregelen te onderzoeken. Alle Leden die zulks wensen, kunnen zitting nemen in de Commissie. De Commissie volgt de op 28 april 1970 goedgekeurde procedures voor overleg over betalingsbalansbeperkingen (BISD 18S/48-53, in dit Memorandum „volledige overlegprocedures” genoemd) met inachtneming van onderstaande bepalingen.
 
-#### 6
+##### 6
 
 Een Lid dat nieuwe beperkingen toepast of het algemene niveau van zijn bestaande beperkingen via aanzienlijke verscherping van de maatregelen verhoogt, pleegt binnen vier maanden na de invoering van die maatregelen overleg met de Commissie. Het Lid dat dergelijke maatregelen treft, kan krachtens lid 4, sub a. van artikel XII of lid 12, sub a. van artikel XVIII verzoeken om het plegen van overleg. Indien een dergelijk verzoek niet wordt ingediend, verzoekt de voorzitter van de Commissie het Lid om dergelijk overleg te plegen. Elementen die bij het overleg kunnen worden onderzocht, zijn ondermeer de invoering van nieuwe soorten beperkende maatregelen ter bescherming van de betalingsbalans of verhoging van het niveau van de beperkingen of uitbreiding van het toepassingsgebied van de door beperkingen getroffen produkten.
 
-#### 7
+##### 7
 
 Alle ter bescherming van de betalingsbalans toegepaste beperkingen worden krachtens lid 4, sub b. van artikel XII of lid 12, sub b. van artikel XVIII regelmatig in de Commissie onderzocht, met dien verstande dat de mogelijkheid bestaat om het regelmatig overleg, na ruggespraak met het tot het plegen van overleg opgeroepen Lid of overeenkomstig een specifieke onderzoeksprocedure die door de Algemene Raad kan worden aanbevolen, te wijzigen.
 
-#### 8
+##### 8
 
 Er kan overleg worden gepleegd volgens de op 19 december 1972 goedgekeurde vereenvoudigde procedures (BISD 20S/47-49, in dit Memorandum „vereenvoudigde overlegprocedures” genoemd) in het geval van Leden die minstontwikkelde landen zijn of in het geval van Leden die ontwikkelingslanden zijn welke liberalisatie-inspanningen verrichten overeenkomstig het bij eerder overleg aan de Commissie overgelegde schema. Er kan eveneens gebruik worden gemaakt van de vereenvoudigde overlegprocedures, wanneer de toetsing van het handelsbeleid van een Lid dat een ontwikkelingsland is voor hetzelfde kalenderjaar is gepland als het overleg. In dergelijke gevallen wordt het besluit of er gebruik moet worden gemaakt van de volledige overlegprocedures genomen op basis van de in punt 8 van de Verklaring van 1979 opgesomde factoren. Behalve in het geval van Leden die minstontwikkelde landen zijn, mag het overleg niet meer dan twee achtereenvolgende keren volgens de vereenvoudigde overlegprocedures plaatsvinden.
 
 ### Kennisgeving en documenten
 
-#### 9
+##### 9
 
 Een Lid stelt de Algemene Raad in kennis van de invoering van ter bescherming van de betalingsbalans getroffen beperkende invoermaatregelen of iedere wijzing in de toepassing van dergelijke maatregelen alsmede van iedere wijziging in de tijdschema's voor de opheffing van dergelijke maatregelen zoals in lid 1 uiteengezet. De Algemene Raad wordt van belangrijke wijzigingen in kennis gesteld vóór of op zijn laatst 30 dagen ná hun afkondiging. Elke Lid legt jaarlijks aan het secretariaat een samenvattende kennisgeving over waarin alle wijzigingen in wetten, regelingen, beleidsverklaringen of berichten aan het publiek zijn vervat, zodat de Leden daarvan kennis kunnen nemen. De kennisgevingen omvatten voor zover mogelijk volledige informatie op het niveau van de tarieflijn over het soort toegepaste maatregelen, de voor hun beheer gehanteerde criteria, welke produkten hieronder vallen en welke de getroffen handelsstromen zijn.
 
-#### 10
+##### 10
 
 Op verzoek van een Lid kunnen de kennisgevingen door de Commissie worden onderzocht. Dergelijke onderzoeken zullen worden beperkt tot de verduidelijking van specifieke door een kennisgeving aan de orde gestelde punten of het bezien of overleg overeenkomstig lid 4, sub a. van artikel XII of lid 12, sub a. van artikel XVIII vereist is. Leden die redenen hebben om aan te nemen dat een beperkende invoermaatregel door een ander Lid getroffen, werd genomen ter bescherming van de betalingsbalans kunnen de Commissie daarop wijzen. De Voorzitter van de Commissie wint inlichtingen over de maatregel in die zij aan alle Leden doet toekomen. Onverminderd het recht van ieder lid van de Commissie om tijdens overleg om ter zake doende verduidelijkingen te vragen, kunnen van tevoren vragen aan het Lid dat tot het plegen van overleg wordt opgeroepen, worden overgelegd.
 
-#### 11
+##### 11
 
 Het Lid dat tot het plegen van overleg wordt opgeroepen, werkt een basisdocument voor het overleg uit dat naast alle andere relevant geachte informatie moet omvatten: a. een overzicht van de betalingsbalanssituatie en -vooruitzichten, inclusief een uiteenzetting van de interne en externe factoren die van invloed zijn op de betalingsbalanssituatie en de interne beleidsmaatregelen die werden genomen om het evenwicht grondig en duurzaam te herstellen; b. een volledige beschrijving van de ter bescherming van de betalingsbalans toegepaste beperkingen, hun wettelijke grondslag en de genomen maatregelen om bijkomende beschermende effecten te verminderen; c. de sedert het laatste overleg in het licht van de conclusies van de Commissie genomen maatregelen ter liberalisatie van de invoerbeperkingen; d. een plan voor de opheffing en geleidelijke versoepeling van de resterende beperkingen. Er kan eventueel worden verwezen naar de in andere kennisgevingen of verslagen aan de WTO verstrekte informatie. In het kader van de vereenvoudigde overlegprocedures legt het Lid dat tot het plegen van overleg wordt opgeroepen een schriftelijke verklaring over waarin essentiële informatie over de elementen van het basisdocument wordt verstrekt.
 
-#### 12
+##### 12
 
 Het secretariaat stelt met het oog op vergemakkelijking van het overleg in de Commissie een informatief document op waarin de verschillende aspecten van het plan voor overleg aan de orde komen. In het geval van Leden die ontwikkelingslanden zijn, omvat het document van het secretariaat relevante algemene en analytische gegevens over het effect van het externe handelsklimaat op de betalingsbalanssituatie en -vooruitzichten van het Lid dat tot het plegen van overleg wordt opgeroepen. Op verzoek van een Lid dat een ontwikkelingsland is, staan de technische bijstandsdiensten van het secretariaat het bij de opstelling van de documenten voor het overleg bij.
 
 ### Conclusies van het betalingsbalansoverleg
 
-#### 13
+##### 13
 
 De Commisie brengt over haar overleg verslag uit aan de Algemene Raad. Wanneer gebruik werd gemaakt van de volledige overlegprocedures dienen in het verslag de conclusies van de Commissie ten aanzien van aangaande de verschillende elementen van het plan voor overleg alsmede de feiten en gronden waarop zij zijn gebaseerd te worden vermeld. De Commissie streeft ernaar in haar conclusies voorstellen op te nemen voor aanbevelingen ter bevordering van de tenuitvoerlegging van de artikelen XII en XVIII, deel B, de Verklaring van 1979 en het onderhavige Memorandum. In die gevallen waarin een tijdschema voor de opheffing van ter bescherming van de betalingsbalans genomen beperkende maatregelen werd overgelegd, kan de Algemene Raad aanbevelen dat een Lid bij het naleven van dat tijdschema wordt geacht te voldoen aan zijn verplichtingen uit hoofde van GATT 1994. Wanneer de Algemene Raad specifieke aanbevelingen heeft gedaan, worden de rechten en verplichtingen van Leden in het licht van die aanbevelingen beoordeeld. Bij het ontbreken van specifieke voorstellen voor aanbevelingen van de Algemene Raad moeten de verschillende in de Commissie naar voren gebrachte meningen in de conclusies van de Commissie worden opgenomen. Wanneer er gebruik werd gemaakt van de vereenvoudigde overlegprocedures dient het verslag een samenvatting van de voornaamste in de Commissie besproken onderwerpen en een besluit over de vraag of volledige overlegprocedures vereist zijn te omvatten.
 
@@ -418,87 +443,87 @@ Erkennende de noodzaak van een gemeenschappelijke interpretatie van de verplicht
 
 Komen het volgende overeen:
 
-#### 1
+##### 1
 
 Douane-unies, vrijhandelszones en voorlopige overeenkomsten leidende tot de totstandbrenging van een douane-unie of vrijhandelszone moeten, om in overeenstemming met artikel XXIV te zijn, onder meer voldoen aan het bepaalde in de leden 5, 6, 7 en 8 van dat artikel.
 
 ### Artikel XXIV, lid 5
 
-#### 2
+##### 2
 
 De evaluatie krachtens lid 5, sub a. van artikel XXIV van de vóór en na de totstandbrenging van een douane-unie geldende rechten en andere handelsregelingen wordt voor wat de rechten en heffingen betreft, gebaseerd op een globale beoordeling van gewogen gemiddelde tarieven en geïnde douanerechten. Deze beoordeling vindt plaats aan de hand van voor een voorgaande representatieve periode door de douane-unie per tarieflijn, met vermelding van de waarde en het volume en het WTO-land van oorsprong, te verstrekken invoerstatistieken. Het secretariaat berekent de gewogen gemiddelde tarieven en geïnde douanerechten volgens de methodologie die werd gebruikt bij de beoordeling van de tijdens de multilaterale handelsbesprekingen in het kader van de Uruguay-Ronde gedane tariefaanbiedingen. In dit verband zijn de rechten en heffingen waarmee rekening moet worden gehouden de toegepaste rechten. Erkend wordt dat voor de globale beoordeling van andere handelsregelingen die moeilijk zijn te kwantificeren en bij elkaar op te tellen een onderzoek van de individuele maatregelen, regelingen, betrokken produkten en handelsstromen vereist kan zijn.
 
-#### 3
+##### 3
 
 De in lid 5, sub c. van artikel XXIV genoemde „redelijke termijn” mag slechts in uitzonderlijke gevallen de tien jaar overschrijden. In de gevallen waarin de Leden die Partij bij een voorlopige overeenkomst zijn, menen dat 10 jaar onvoldoende is, dienen zij omstandig aan de Raad voor de handel in goederen uiteen te zetten waarom een langere periode noodzakelijk is.
 
 ### Artikel XXIV, lid 6
 
-#### 4
+##### 4
 
 In lid 6 van artikel XXIV wordt de te volgen procedure vastgesteld wanneer een Lid dat een douane-unie tot stand brengt, voornemens is een geconsolideerd recht te verhogen. In dit verband bevestigen de Leden opnieuw dat de in artikel XXVIII uiteengezette procedure, zoals die wordt gepreciseerd in de op 10 november 1980 goedgekeurde richtsnoeren (BISD 27S/26-28) en in het Memorandum van Overeenstemming betreffende de interpretatie van artikel XXVIII van GATT 1994, moet worden aangevangen voordat er bij de totstandbrenging van een douane-unie of een voorlopige overeenkomst leidende tot de totstandbrenging van een douane-unie tariefconcessies worden gewijzigd of ingetrokken.
 
-#### 5
+##### 5
 
 Deze onderhandelingen zullen te goeder trouw worden aangeknoopt met het oog op het treffen van een over en weer bevredigende compenserende regeling. Bij deze onderhandelingen wordt, zoals lid 6 van artikel XXIV vereist, naar behoren rekening gehouden met de door andere samenstellende delen van de douane-unie bij haar totstandbrenging uitgevoerde verlagingen van rechten op dezelfde tarieflijn. Mochten dergelijke verlagingen onvoldoende zijn om te zorgen voor de noodzakelijke compenserende correctie dan biedt de douane-unie compensatie die de vorm van verlagingen van rechten op andere tarieflijnen kan aannemen. Een dergelijk aanbod wordt in overweging genomen door de Leden die onderhandelingsrechten hebben voor de consolidatie die wordt gewijzigd of ingetrokken. Mocht de compenserende correctie nog steeds onaanvaardbaar zijn dan dienen de onderhandelingen te worden voortgezet. Indien er ondanks deze inspanningen niet binnen een redelijke termijn te rekenen vanaf het begin van de onderhandelingen overeenstemming kan worden bereikt bij de onderhandelingen over compensaties in het kader van artikel XXVIII, zoals gepreciseerd in het Memorandum van Overeenstemming betreffende de interpretatie van artikel XXVIII van GATT '94, staat het de douane-unie niettemin vrij de concessies te wijzigen of in te trekken; de hierdoor getroffen Leden zijn dan overeenkomstig artikel XXVIII vrij om nagenoeg gelijkwaardige concessies in te trekken.
 
-#### 6
+##### 6
 
 GATT 1994 verplicht Leden die ingevolge de totstandbrenging van een douane-unie of een voorlopige overeenkomst leidende tot de totstandbrenging van een douane-unie een verlaging van rechten genieten niet tot het verstrekken van compensaties aan de samenstellende delen van de douane-unie.
 
 ### Onderzoek van douane-unies en vrijhandelszones
 
-#### 7
+##### 7
 
 Alle krachtens lid 7, sub a. van artikel XXIV gedane mededelingen worden door een werkgroep onderzocht in het licht van de relevante bepalingen van GATT 1994 en lid 1 van dit Memorandum. De werkgroep legt aan de Raad voor de handel in goederen een rapport over haar bevindingen over. De Raad voor de handel in goederen kan de aanbevelingen aan de Leden doen die hij passend acht.
 
-#### 8
+##### 8
 
 Ten aanzien van voorlopige overeenkomsten kan de werkgroep in haar rapport passende aanbevelingen doen aangaande de voorgestelde termijn en de maatregelen die nodig zijn om de douane-unie of vrijhandelszone tot stand te brengen. Zij kan, zo nodig, de overeenkomst verder onderzoeken.
 
-#### 9
+##### 9
 
 De Leden die partij bij een voorlopige overeenkomst zijn, stellen de Raad voor de handel in goederen in kennis van substantiële wijzigingen in het in die overeenkomst opgenomen plan en tijdschema; de Raad onderzoekt de wijzigingen desgewenst.
 
-#### 10
+##### 10
 
 Indien een voorlopige overeenkomst, waarvan krachtens lid 7, sub a., van artikel XXIV mededeling werd gedaan, in strijd met lid 5, sub c., van artikel XXIV, geen plan en tijdschema omvat, doet de werkgroep in haar rapport aanbevelingen voor een dergelijk plan en tijdschema. Partijen handhaven een dergelijke overeenkomst niet of doen haar niet in werking treden, indien zij niet bereid zijn haar in overeenstemming met deze aanbevelingen te wijzigen. Er wordt voorzien in onderzoek van de tenuitvoerlegging van de aanbevelingen.
 
-#### 11
+##### 11
 
 Douane-unies en samenstellende delen van vrijhandelszones brengen regelmatig verslag over de werking van de relevante overeenkomst uit aan de Raad voor de handel in goederen, zoals voorzien door de Overeenkomstsluitende Partijen bij GATT 1947 in hun instructie aan de Raad van GATT 1947 betreffende rapporten over regionale overeenkomsten (BISD 18S/38). Alle belangrijke veranderingen en/of ontwikkelingen in de overeenkomsten moeten, zodra zij zich voordoen, worden gemeld.
 
 ### Geschillenbeslechting
 
-#### 12
+##### 12
 
 Er kan een beroep worden gedaan op de bepalingen van artikel XXII en XXIII van GATT 1994, zoals gepreciseerd en toegepast in het Memorandum van Overeenstemming betreffende de beslechting van geschillen, voor wat betreft vraagstukken voortvloeiende uit de toepassing van de bepalingen van artikel XXIV betreffende douane-unies, vrijhandelszones of voorlopige overeenkomsten leidende tot de totstandbrenging van een douane-unie of vrijhandelszone.
 
 ### Artikel XXIV, lid 12
 
-#### 13
+##### 13
 
 Elk Lid is krachtens GATT 1994 volledig verantwoordelijk voor de naleving van alle bepalingen van GATT 1994 en neemt alle redelijke binnen zijn bereik liggende maatregelen teneinde een dergelijke naleving door de regionale en plaatselijke overheden en administraties binnen zijn grondgebied te verzekeren.
 
-#### 14
+##### 14
 
 Er kan een beroep worden gedaan op de bepalingen van artikel XXII en XXIII van GATT 1994, zoals gepreciseerd en tenuitvoergelegd in het Memorandum van Overeenstemming betreffende de beslechting van geschillen, voor wat betreft door regionale of plaatselijke overheden en administraties binnen het grondgebied van een Lid genomen maatregelen die afbreuk doen aan de naleving van GATT 1994. Wanneer het Orgaan voor geschillenbeslechting heeft beslist dat een bepaling van GATT 1994 niet werd nagekomen, neemt het verantwoordelijke Lid alle redelijke binnen zijn bereik liggende maatregelen om de naleving van die bepaling te verzekeren. De bepalingen betreffende compensatie en schorsing van concessies of andere verplichtingen zijn van toepassing in de gevallen waarin het niet mogelijk was zich van deze naleving te verzekeren.
 
-#### 15
+##### 15
 
 Elk Lid zegt toe een gewillig oor te zullen lenen aan door een ander Lid geuite protesten betreffende binnen het grondgebied van eerstgenoemde genomen maatregelen die afbreuk doen aan de werking van GATT 1994 en passende mogelijkheden tot overleg over dergelijke protesten te zullen bieden.
 
 De Leden komen het volgende overeen:
 
-#### 1
+##### 1
 
 Een verzoek om een ontheffing of verlenging van een bestaande ontheffing geeft een beschrijving van de maatregelen die het Lid voornemens is te nemen, de specifieke beleidsdoelstellingen die het Lid nastreeft en de gronden die het Lid verhinderen zijn beleidsdoelstellingen te bereiken via maatregelen die verenigbaar zijn met zijn verplichtingen uit hoofde van GATT 1994.
 
-#### 2
+##### 2
 
 Iedere op de datum van inwerkingtreding van de WTO-Overeenkomst van kracht zijnde ontheffing loopt teneinde, tenzij zij overeenkomstig voornoemde procedures en de procedures van artikel IX van de WTO-Overeenkomst wordt verlengd, op haar vervaldatum of twee jaar na de datum van inwerkingtreding van de WTO-Overeenkomst, als laatstgenoemde datum eerder valt.
 
-#### 3
+##### 3
 
 Elk Lid dat meent dat een hem krachtens GATT 1994 toekomend voordeel wordt teniet gedaan of uitgehold als gevolg van:
 
@@ -510,27 +535,27 @@ kan zich beroepen op de bepalingen van artikel XXIII van GATT 1994, zoals die zi
 
 De Leden komen het volgende overeen:
 
-#### 1
+##### 1
 
 Ten behoeve van wijziging of intrekking van een concessie wordt het Lid met naar verhouding de hoogste onder deze concessie vallende uitvoer (dat wil zeggen uitvoer van het produkt naar de markt van het Lid dat de concessie wijzigt of intrekt) ten opzichte van zijn totale uitvoer geacht de voornaamste leverancier te zijn, indien het niet reeds beschikt over een oorspronkelijk onderhandelingsrecht of een belang als voornaamste leverancier, zoals bedoeld in lid 1 van artikel XXVIII. Er wordt evenwel overeengekomen dat dit lid vijf jaar na de datum van inwerkingtreding van de WTO-Overeenkomst door de Raad voor de handel in goederen opnieuw zal worden bezien teneinde te besluiten of via dit criterium op bevredigende wijze een herschikking van onderhandelingsrechten ten gunste van kleine en middelgrote exporterende Leden kon worden bewerkstelligd. Indien dit niet het geval is, zullen eventuele verbeteringen worden overwogen, inclusief de overgang, in het licht van de beschikbaarheid van passende gegevens, op een criterium dat is gebaseerd op de verhouding tussen de onder de concessie vallende uitvoer en de uitvoer naar alle markten van het produkt in kwestie.
 
-#### 2
+##### 2
 
 Wanneer een Lid meent een voornaamste leverancier in de zin van lid 1 te zijn, moet het zulks schriftelijk, vergezeld van bewijsmateriaal, mededelen aan het Lid dat voornemens is een concessie te wijzigen of in te trekken en tezelfdertijd het secretariaat hiervan op de hoogte stellen. Lid 4 van de op 10 november 1980 goedgekeurde „Procedures voor onderhandelingen krachtens artikel XXVIII” (BISD 27S/26-28) is in deze gevallen van toepassing.
 
-#### 3
+##### 3
 
 Bij de vaststelling welke Leden voornaamste leveranciers (hetzij zoals bedoeld in vorenstaand lid 1, hetzij zoals bedoeld in lid 1 van artikel XXVIII) zijn of een substantieel belang hebben, wordt slechts rekening gehouden met de handel in het onder de concessie vallende produkt die op basis van de meestbegunstigingsclausule plaatsvond. Er wordt evenwel ook rekening gehouden met de handel in bedoeld produkt waarop niet contractuele preferenties van toepassing zijn, indien die handel ten tijde van de onderhandelingen over de wijziging of intrekking van de concessie niet langer voor een dergelijke preferentiële behandeling in aanmerking komt, en dus handel wordt waarop de meestbegunstigingsclausule van toepassing is, of door de afronding van die onderhandelingen in aanmerking zal komen.
 
-#### 4
+##### 4
 
 Wanneer een tariefconcessie voor een nieuw produkt (dat wil zeggen een produkt waarvoor geen zich over drie jaar uitstrekkende handelsstatistieken voorhanden zijn) wordt gewijzigd of ingetrokken, wordt het Lid dat oorspronkelijke onderhandelingsrechten heeft voor de tarieflijn waaronder het produkt is of voorheen was ingedeeld, geacht een oorspronkelijke onderhandelingsrecht voor de concessie in kwestie te hebben. Bij de vaststelling wie de voornaamste leverancier is en een substantieel belang heeft en de berekening van compensatie wordt onder meer rekening gehouden met de produktiecapaciteit voor en investeringen in bedoeld produkt in het exporterende Lid en de geraamde stijging van de uitvoer alsmede met prognoses van de vraag naar het produkt in het importerende Lid. Voor de toepassing van dit lid wordt onder „nieuw produkt” mede verstaan een tariefpost die het gevolg is van een afscheiding van een bestaande tarieflijn.
 
-#### 5
+##### 5
 
 Wanneer een Lid meent voornaamste leverancier te zijn of een substantieel belang te hebben in de zin van lid 4, dient het zulks schriftelijk, vergezeld van bewijsmateriaal, mede te delen aan het Lid dat voornemens is een concessie te wijzigen of in te trekken en tezelfdertijd het secretariaat van een en ander in kennis te stellen. Lid 4 van voornoemde „Procedures voor onderhandelingen krachtens artikel XXVIII” is in deze gevallen van toepassing.
 
-#### 6
+##### 6
 
 Wanneer een onbeperkte tariefconcessie wordt vervangen door een tariefcontingent moet het totaal van de verstrekte compensatie het totaal van de daadwerkelijk door de wijziging van de concessie getroffen handel overschrijden. De grondslag voor de berekening van de compensatie moet het bedrag zijn waarmee toekomstige handelsvooruitzichten het niveau van het contingent overschrijden. Overeengekomen wordt dat de berekening van de toekomstige handelsvooruitzichten wordt gebaseerd op:
 
@@ -538,7 +563,7 @@ Wanneer een onbeperkte tariefconcessie wordt vervangen door een tariefcontingent
 
 - b. de handel in het meest recente jaar verhoogd met 10%, indien deze uitkomst hoger uitvalt dan die sub a. In geen geval is de aansprakelijkheid van een Lid voor compensatie groter dan de compensatie die het gevolg zou zijn van volledige intrekking van de concessie.
 
-#### 7
+##### 7
 
 Aan ieder Lid dat een belang van voornaamste leverancier , zoals bedoeld in vorenstaand lid 1 of in lid 1 van artikel XXVIII, heeft in een concessie die wordt gewijzigd of ingetrokken wordt een oorspronkelijk onderhandelingsrecht in de compenserende concessies toegekend, tenzij door de betrokken Leden een andere vorm van compensatie wordt overeengekomen.
 
@@ -548,41 +573,41 @@ Hebbende overeenkomstig de Ministeriële Verklaring betreffende de Uruguay-Ronde
 
 Komen het volgende overeen:
 
-#### 1
+##### 1
 
 De aan dit Protocol gehechte lijst betreffende een Lid wordt een lijst van GATT 1994 betreffende dat Lid op de dag waarop de WTO-Overeenkomst voor dat Lid van kracht wordt. Alle overeenkomstig het Ministeriële besluit inzake maatregelen ten behoeve van minstontwikkelde landen ingediende lijsten worden geacht aan dit Protocol te worden gehecht.
 
-#### 2
+##### 2
 
 De door elk Lid toegezegde tariefverlagingen worden in vijf gelijke tariefverlagingsrondes uitgevoerd, behalve indien in een lijst van een Lid anders wordt bepaald. De eerste verlaging wordt op de datum van inwerkingtreding van de WTO-Overeenkomst van kracht en elke volgende verlaging op 1 januari van elk van de daarop volgende jaren; het definitieve tarief wordt uiterlijk op de datum die vier jaar na de datum van inwerkingtreding van de WTO-Overeenkomst valt van kracht, behalve indien in de lijst van dat Lid anders wordt bepaald. Tenzij in zijn lijst anders wordt bepaald, doet een Lid dat de WTO-Overeenkomst na haar inwerkingtreding aanvaardt, op de datum waarop die overeenkomst voor dat Lid van kracht wordt, alle tariefverlagingen die reeds hebben plaatsgevonden, ingaan tezamen met de verlagingen die het Lid krachtens de voorgaande zin verplicht was op 1 januari van het volgende jaar te doen ingaan en doet het alle resterende tariefverlagingen ingaan volgens het in de vorige zin gegeven tijdschema. Het verlaagde tarief dient in elke etappe tot de eerste decimaal te worden afgerond. Voor landbouwprodukten als bedoeld in artikel 2 van de Overeenkomst inzake de landbouw vinden de verlagingen plaats zoals in de desbetreffende delen van de lijsten aangegeven.
 
-#### 3
+##### 3
 
 De tenuitvoerlegging van de concessies en verbintenissen vervat in de aan dit Protocol gehechte lijsten wordt, desgewenst, onderworpen aan multilateraal onderzoek door de Leden. Zulks laat de rechten en verplichtingen van Leden krachtens overeenkomsten in bijlage 1A van de WTO-Overeenkomst onverlet.
 
-#### 4
+##### 4
 
 Nadat de aan dit Protocol gehechte lijst betreffende een Lid overeenkomstig het bepaalde in lid 1 een lijst bij GATT 1994 is geworden, is een dergelijk Lid vrij om de concessie in die lijst ten opzichte van een produkt waarvan de voornaamste leverancier een andere deelnemer van de Uruguay-Ronde is wiens lijst nog geen lijst bij GATT 1994 is geworden, te allen tijde geheel of gedeeltelijk op te schorten of in te trekken. Dit kan evenwel slechts worden gedaan nadat de Raad voor de handel in goederen schriftelijk op de hoogte is gesteld van een dergelijke opschorting of intrekking van een concessie en nadat, desgevraagd, overleg is gepleegd met elk Lid wiens lijst een lijst bij GATT 1994 is geworden en dat een substantieel belang bij het betrokken produkt heeft. Alle aldus uitgevoerde opschortingen of intrekkingen vervallen vanaf de dag waarop de lijst van het Lid dat voornaamste leverancier is een lijst bij GATT 1994 wordt.
 
-#### 5
+##### 5
 
 a. Onverminderd het bepaalde in lid 2 van artikel 4 van de Overeenkomst inzake de landbouw is met het oog op de verwijzing naar de datum van GATT 1994 in lid 1, sub b. en sub c., van artikel II van die overeenkomst, de geldende datum voor elk produkt dat het voorwerp vormt van een concessie waarin een aan dit Protocol gehechte lijst van concessies voorziet, de datum van dit Protocol.
 
 b. Met het oog op de verwijzing naar de datum van GATT 1994 in lid 6, sub a. van artikel II van die overeenkomst, is de geldende datum voor een aan dit Protocol gehechte lijst van concessies de datum van dit Protocol.
 
-#### 6
+##### 6
 
 In gevallen van wijziging of intrekking van concessies met betrekking tot de non-tarifaire maatregelen, vervat in deel III van de lijsten, zijn de bepalingen van artikel XXVIII van GATT 1994 en de op 10 november 1980 (BISD 27S/26-28) goedgekeurde „Procedures voor onderhandelingen overeenkomstig artikel XXVIII „ van toepassing. Zulks laat de rechten en verplichtingen van Leden uit hoofde van GATT 1994 onverlet.
 
-#### 7
+##### 7
 
 Telkens wanneer een aan dit Protocol gehechte lijst voor een produkt resulteert in een minder gunstige behandeling dan voor dat produkt was voorzien in de lijsten van GATT 1947 vóór de inwerkingtreding van de WTO-Overeenkomst, wordt het Lid waarop de lijst betrekking heeft, geacht dezelfde passende stappen te hebben genomen als die welke nodig zouden zijn in het kader van de relevante bepalingen van artikel XXVIII van GATT 1947 of 1994. De bepalingen van dit Lid gelden slechts voor Egypte, Peru, Zuid-Afrika en Uruguay.
 
-#### 8
+##### 8
 
 De aan dit Protocol gehechte lijsten zijn authentiek in de Engelse, de Franse of de Spaanse taal naar gelang in elke lijst wordt aangegeven.
 
-#### 9
+##### 9
 
 De datum van dit Protocol is 15 april 1994.
 
@@ -604,7 +629,7 @@ Komen het volgende overeen:
 
 ## DEEL I
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze Overeenkomst en tenzij uit de context anders blijkt,
 
@@ -638,13 +663,13 @@ In deze Overeenkomst en tenzij uit de context anders blijkt,
 
 - i. wordt voor f) en voor de specifieke verbintenissen van een lid onder „jaar” verstaan, het kalenderjaar, begrotingsjaar of verkoopseizoen dat is gespecificeerd in de Lijst van het betrokken Lid.
 
-#### Artikel 2. Produkten
+##### Artikel 2. Produkten
 
 Deze Overeenkomst is van toepassing op de produkten bedoeld in de lijst die is opgenomen in Bijlage 1 bij deze Overeenkomst, hierna „landbouwprodukten” genoemd.
 
 ## DEEL II
 
-#### Artikel 3. Integratie van concessies en verbintenissen
+##### Artikel 3. Integratie van concessies en verbintenissen
 
 1. De in Deel IV van de Lijst van een Lid vermelde verbintenissen inzake interne steun en uitvoersubsidies zijn verbintenissen tot beperking van de subsidiëring en zijn een integrerend deel van de GATT 1994.
 
@@ -654,13 +679,13 @@ Deze Overeenkomst is van toepassing op de produkten bedoeld in de lijst die is o
 
 ## DEEL III
 
-#### Artikel 4. Markttoegang
+##### Artikel 4. Markttoegang
 
 1. De in de Lijsten opgenomen concessies inzake markttoegang betreffen consolidaties en verlagingen van tarieven, en andere daarin gespecificeerde verbintenissen inzake markttoegang.
 
 2. De Leden handhaven geen, nemen geen en nemen evenmin opnieuw maatregelen van het type dat omgezet moet worden in gewone douanerechten1)Deze maatregelen omvatten kwantitatieve invoerbeperkingen, variabele invoerheffingen, minimuminvoerprijzen, discretionaire invoervergunningenregelingen, niet-tarifaire maatregelen die in stand worden gehouden via staatshandelsondernemingen, vrijwillige uitvoerbeperkingen, en andere dergelijke grensbescherming dan gewone douanerechten, ongeacht of het gaat om maatregelen in het kader van landgebonden uitzonderingen op de bepalingen van de GATT 1947, maar zij omvatten niet maatregelen in het kader van betalingsbalansbepalingen of andere algemene, niet specifiek agrarische bepalingen van de GATT 1994 of van de andere Multilaterale Handelsovereenkomsten van Bijlage 1, A, bij de WTO-Overeenkomst., tenzij overeenkomstig het bepaalde in artikel 5 en in Bijlage 5.
 
-#### Artikel 5. Bijzondere vrijwaringsclausule
+##### Artikel 5. Bijzondere vrijwaringsclausule
 
 1. Niettegenstaande artikel II, lid 1, b., van de GATT 1994 mag ieder Lid voor de invoer van een landbouwprodukt waarvoor de in artikel 4, lid 2, van deze Overeenkomst bedoelde maatregelen zijn omgezet in een gewoon douanerecht en dat in zijn Lijst met de afkorting „SSG” (Special Safeguard) is aangeduid als behorend tot een concessie waarvoor een beroep mag worden gedaan op het bepaalde in dit artikel, de bepalingen van lid 4 en lid 5 toepassen, als:
 
@@ -704,7 +729,7 @@ Het aanvullende douanerecht mag in alle geval worden ingevoerd in ieder jaar waa
 
 ## DEEL IV
 
-#### Artikel 6. Verbintenissen inzake interne steun
+##### Artikel 6. Verbintenissen inzake interne steun
 
 1. De verbintenissen tot verlaging van de interne steun die de Leden hebben opgenomen in Deel IV van hun Lijst gelden voor alle maatregelen inzake interne steun aan landbouwers, behalve de maatregelen die op grond van de criteria die zijn vastgesteld in dit artikel en in Bijlage 2 bij deze Overeenkomst vrijgesteld zijn van de verlagingsverbintenis. De verbintenissen worden uitgedrukt in „Totale Geaggregeerde Steun” en „Geconsolideerd Jaar- en Eindniveau van de Verbintenissen”.
 
@@ -730,7 +755,7 @@ Het aanvullende douanerecht mag in alle geval worden ingevoerd in ieder jaar waa
 
 - b. De vrijstelling van de steunverlagingsverbintenis wordt voor de directe betalingen die aan bovengenoemde criteria voldoen, gerealiseerd door bij de berekening van de Actuele Totale AMS van een Lid geen rekening te houden met de waarde van deze directe betalingen.
 
-#### Artikel 7. Algemene disciplines inzake interne steun
+##### Artikel 7. Algemene disciplines inzake interne steun
 
 1. De Leden zorgen ervoor dat interne steun aan landbouwers die niet onder de steunverlagingsverbintenis valt op grond van de criteria die zijn vermeld in Bijlage 2 bij deze Overeenkomst, aan die criteria blijft voldoen.
 
@@ -740,11 +765,11 @@ Het aanvullende douanerecht mag in alle geval worden ingevoerd in ieder jaar waa
 
 ## DEEL V
 
-#### Artikel 8. Verbintenissen inzake concurrentie bij uitvoer
+##### Artikel 8. Verbintenissen inzake concurrentie bij uitvoer
 
 De Leden verbinden zich ertoe uitsluitend uitvoersubsidies toe te kennen in overeenstemming met deze Overeenkomst en met de verbintenissen die zijn opgenomen in hun Lijst.
 
-#### Artikel 9. Verbintenissen inzake uitvoersubsidies
+##### Artikel 9. Verbintenissen inzake uitvoersubsidies
 
 1. De hierna genoemde uitvoersubsidies vallen onder de verlagingsverbintenissen in het kader van deze Overeenkomst:
 
@@ -780,7 +805,7 @@ De Leden verbinden zich ertoe uitsluitend uitvoersubsidies toe te kennen in over
 
 4. Tijdens de uitvoeringsperiode behoeven de Leden die ontwikkelingslanden zijn geen verbintenissen aan te gaan voor de in lid 1, d. en e., genoemde uitvoersubsidies, op voorwaarde dat deze uitvoersubsidies niet zo worden toegepast dat daardoor de verbintenissen inzake steunverlaging worden omzeild.
 
-#### Artikel 10. Voorkoming van het omzeilen van verbintenissen inzake uitvoersubsidies
+##### Artikel 10. Voorkoming van het omzeilen van verbintenissen inzake uitvoersubsidies
 
 1. De niet in artikel 9, lid 1, genoemde uitvoersubsidies worden niet zo toegepast dat zulks leidt tot of kan leiden tot het omzeilen van de verbintenissen inzake uitvoersubsidies; niet-commerciële transacties zullen niet worden gebruikt om dergelijke verbintenissen te omzeilen.
 
@@ -796,13 +821,13 @@ De Leden verbinden zich ertoe uitsluitend uitvoersubsidies toe te kennen in over
 
 - c. dat dergelijke hulp zoveel mogelijk wordt verleend in de vorm van schenkingen of op voorwaarden die minstens even gunstig zijn als die van artikel IV van het Voedselhulpverdrag van 1986.
 
-#### Artikel 11. Verwerkte produkten
+##### Artikel 11. Verwerkte produkten
 
 De uitvoersubsidie per eenheid van een verwerkt primair landbouwprodukt mag in geen geval hoger zijn dan de uitvoersubsidie per eenheid die van toepassing zou zijn bij uitvoer van het primaire landbouwprodukt als zodanig.
 
 ## DEEL VI
 
-#### Artikel 12. Disciplines inzake verboden op en beperkingen van de uitvoer
+##### Artikel 12. Disciplines inzake verboden op en beperkingen van de uitvoer
 
 1. Wanneer een Lid op grond van artikel XI, lid 2, a), van de GATT 1994 een nieuw verbod of een nieuwe beperking op de uitvoer van voedingsmiddelen invoert, moeten de volgende bepalingen in acht worden genomen:
 
@@ -814,7 +839,7 @@ De uitvoersubsidie per eenheid van een verwerkt primair landbouwprodukt mag in g
 
 ## DEEL VII
 
-#### Artikel 13. Passende terughoudendheid
+##### Artikel 13. Passende terughoudendheid
 
 Ondanks de bepalingen van de GATT 1994 en de Overeenkomst inzake subsidies en compenserende maatregelen (in dit artikel „Subsidie-overeenkomst” genoemd) geldt voor de uitvoeringsperiode het volgende:
 
@@ -842,13 +867,13 @@ Ondanks de bepalingen van de GATT 1994 en de Overeenkomst inzake subsidies en co
 
 ## DEEL VIII
 
-#### Artikel 14. Sanitaire en fytosanitaire maatregelen
+##### Artikel 14. Sanitaire en fytosanitaire maatregelen
 
 De Leden komen overeen de Overeenkomst inzake sanitaire en fytosanitaire maatregelen uit te voeren.
 
 ## DEEL IX
 
-#### Artikel 15. Bijzondere en afwijkende behandeling
+##### Artikel 15. Bijzondere en afwijkende behandeling
 
 1. Overeenkomstig de erkenning dat een afwijkende en gunstiger behandeling voor Leden die ontwikkelingslanden zijn, een integrerend deel is van de onderhandelingen, wordt een bijzondere en afwijkende behandeling inzake verbintenissen toegestaan zoals vastgesteld in de relevante bepalingen van deze Overeenkomst en vastgelegd in de Lijsten van concessies en verbintenissen.
 
@@ -856,7 +881,7 @@ De Leden komen overeen de Overeenkomst inzake sanitaire en fytosanitaire maatreg
 
 ## DEEL X
 
-#### Artikel 16. Minstontwikkelde landen en ontwikkelingslanden die netto-importeurs van voedsel zijn
+##### Artikel 16. Minstontwikkelde landen en ontwikkelingslanden die netto-importeurs van voedsel zijn
 
 1. De Leden die ontwikkelde landen zijn, nemen de maatregelen waarin is voorzien in het Besluit inzake maatregelen naar aanleiding van de mogelijke negatieve effecten van het hervormingsprogramma op de minstontwikkelde landen en op de ontwikkelingslanden die netto-importeur van voedsel zijn.
 
@@ -864,11 +889,11 @@ De Leden komen overeen de Overeenkomst inzake sanitaire en fytosanitaire maatreg
 
 ## DEEL XI
 
-#### Artikel 17. Landbouwcommissie
+##### Artikel 17. Landbouwcommissie
 
 Hierbij wordt een Landbouwcommissie opgericht.
 
-#### Artikel 18. Evaluatie van de uitvoering van de verbintenissen
+##### Artikel 18. Evaluatie van de uitvoering van de verbintenissen
 
 1. De vorderingen bij de uitvoering van de verbintenissen die zijn overeengekomen in het hervormingsprogramma in het kader van de Uruguay-Ronde worden in de Landbouwcommissie geëvalueerd.
 
@@ -884,13 +909,13 @@ Hierbij wordt een Landbouwcommissie opgericht.
 
 7. Ieder Lid mag iedere maatregel onder de aandacht van de Landbouwcommissie brengen die naar zijn oordeel door een ander Lid via een kennisgeving had moeten worden gemeld.
 
-#### Artikel 19. Overleg en beslechting van geschillen
+##### Artikel 19. Overleg en beslechting van geschillen
 
 De bepalingen van de artikelen XXII en XXIII van de GATT 1994, zoals uitgewerkt en toegepast in het Memorandum van Overeenstemming inzake Geschillenbeslechting, zijn van toepassing op het overleg over en de beslechting van geschillen in het kader van deze Overeenkomst.
 
 ## DEEL XII
 
-#### Artikel 20. Voortzetting van het hervormingsproces
+##### Artikel 20. Voortzetting van het hervormingsproces
 
 Erkennend dat hun doelstelling op lange termijn, aanzienlijke en progressieve verlaging van ondersteuning en bescherming leidend tot een fundamentele hervorming, een permanent proces impliceert, komen de Leden overeen dat de onderhandelingen over de voortzetting van dat proces één jaar vóór het einde van de uitvoeringsperiode begonnen zullen worden, rekening houdend met
 
@@ -904,13 +929,13 @@ Erkennend dat hun doelstelling op lange termijn, aanzienlijke en progressieve ve
 
 ## DEEL XIII
 
-#### Artikel 21. Slotbepalingen
+##### Artikel 21. Slotbepalingen
 
 1. De bepalingen van de GATT 1994 en van andere Multilaterale handelsovereenkomsten in Bijlage 1.A bij de WTO-overeenkomst zijn van toepassing onder voorbehoud van de bepalingen van deze Overeenkomst.
 
 2. De bijlagen bij deze Overeenkomst vormen een integrerend deel van deze Overeenkomst.
 
-#### 1
+##### 1
 
 Deze Overeenkomst heeft betrekking op onderstaande produkten:
 
@@ -933,81 +958,81 @@ Deze Overeenkomst heeft betrekking op onderstaande produkten:
 | GS-tariefpost | 53.01 | (ruw vlas) |
 | GS-tariefpost | 53.02 | (ruwe hennep) |
 
-#### 2
+##### 2
 
 Het bovenstaande doet niets af aan de werkingssfeer van de Overeenkomst inzake sanitaire en fytosanitaire maatregelen.
 
-#### 1
+##### 1
 
 Onverminderd de bepalingen van artikel 6 wordt de Geaggrereerde Steun (Aggregate Measurement of Support – AMS) produktgebonden berekend voor ieder referentielandbouwprodukt waarvoor marktprijsondersteuning, niet-vrijgestelde directe betalingen of enige andere niet van de verlagingsverbintenis vrijgestelde subsidie (andere „niet-vrijgestelde beleidsmaatregelen”) wordt toegekend. Voor de niet-produktgebonden steun wordt de niet-produktgebonden AMS berekend in een enkel totaalbedrag.
 
-#### 2
+##### 2
 
 De in punt 1 bedoelde subsidies omvatten zowel de begrotingsuitgaven als de gederfde inkomsten van de overheid of haar uitvoeringsorganen.
 
-#### 3
+##### 3
 
 Zowel de steun op nationaal als subnationaal niveau wordt meegerekend.
 
-#### 4
+##### 4
 
 Door de producenten betaalde specifieke landbouwheffingen of retributies worden in mindering gebracht op de AMS.
 
-#### 5
+##### 5
 
 De volgens het onderstaande berekende AMS voor de basisperiode vormt het basisniveau voor de uitvoering van de verbintenis tot verlaging van de interne steun.
 
-#### 6
+##### 6
 
 Voor ieder referentielandbouwprodukt wordt een specifieke AMS bepaald en uitgedrukt in een totaal geldbedrag.
 
-#### 7
+##### 7
 
 De AMS wordt berekend voor het produkt dat zo kort mogelijk volgt op de eerste verkoop van het betrokken referentielandbouwprodukt. Maatregelen ten gunste van de verwerkers van landbouwprodukten worden meegerekend voor zover zij ten goede komen aan de producenten van de referentielandbouwprodukten.
 
-#### 8
+##### 8
 
 Marktprijsondersteuning: de ondersteuning van de marktprijzen wordt berekend door het verschil tussen een vaste externe referentieprijs en de toegepaste regelingsprijs te vermenigvuldigen met de geproduceerde hoeveelheid die in aanmerking komt voor de regelingsprijs. Begrotingsuitgaven om dit verschil te handhaven, zoals de opkoopkosten of de opslagkosten, worden niet meegerekend voor de AMS.
 
-#### 9
+##### 9
 
 De externe referentieprijs wordt gebaseerd op de jaren 1986 tot en met 1988 en wordt in het algemeen de gemiddelde f.o.b.-prijs per gewichtseenheid voor het betrokken referentielandbouwprodukt in een netto-exporterend land en de gemiddelde c.i.f.-prijs per gewichtseenheid voor het betrokken referentielandbouwprodukt in een netto-importerend land tijdens de basisperiode. De referentieprijs kan, zonodig, worden aangepast in verband met kwaliteitsverschillen.
 
-#### 10
+##### 10
 
 Niet-vrijgestelde directe betalingen: niet-vrijgestelde directe betalingen die afhankelijk zijn van een prijsverschil, worden berekend door het verschil tussen de referentieprijs en de toegepaste regelingsprijs te vermenigvuldigen met de geproduceerde hoeveelheid die in aanmerking komt voor de regelingsprijs of worden berekend aan de hand van de begrotingsuitgaven.
 
-#### 11
+##### 11
 
 De referentieprijs wordt gebaseerd op de jaren 1986 tot en met 1988 en is in het algemeen de prijs waarvan wordt uitgegaan voor de bepaling van het niveau van de directe betalingen.
 
-#### 12
+##### 12
 
 Het bedrag van de niet-vrijgestelde directe betalingen die gebaseerd worden op andere factoren dan de prijs, wordt berekend aan de hand van de begrotingsuitgaven.
 
-#### 13
+##### 13
 
 Andere niet-vrijgestelde maatregelen, waaronder inputsubsidies en andere maatregelen zoals maatregelen tot verlaging van de afzetkosten: de waarde van dergelijke maatregelen wordt berekend aan de hand van de begrotingsuitgaven van de overheid of, wanneer de volle omvang van de subsidie niet uit de begrotingsuitgaven blijkt, het verschil tussen de prijs van het gesubsidieerde produkt of de gesubsidieerde dienst en een representatieve marktprijs voor een soortgelijk produkt of een soortgelijke dienst, vermenigvuldigd met de hoeveelheid produkten of diensten.
 
-#### 1
+##### 1
 
 Onverminderd de bepalingen van artikel 6 worden AMS-equivalenten berekend voor alle referentielandbouwprodukten waarvoor de in Bijlage 3 gedefinieerde marktprijsondersteuning bestaat, maar waarvoor berekening van deze component van de AMS niet uitvoerbaar is. Voor dergelijke produkten omvat het basisniveau waarvan wordt uitgegaan voor de uitvoering van de verbintenissen inzake verlaging van de interne steun, een marktprijsondersteuningscomponent uitgedrukt in AMS-equivalenten als bedoeld in punt 2, alsmede eventuele niet-vrijgestelde directe betalingen en andere niet-vrijgestelde steun, die wordt geraamd overeenkomstig het bepaalde in punt 3. Zowel op nationaal als subnationaal niveau toegekende steun moet worden meegerekend.
 
-#### 2
+##### 2
 
 De in punt 1 bedoelde AMS-equivalenten worden voor alle referentielandbouwprodukten waarvoor marktprijsondersteuning wordt toegekend en waarvoor de berekening van de marktprijsondersteuningscomponent van de AMS niet uitvoerbaar is, produktgebonden berekend voor het produkt dat zo kort mogelijk volgt op de eerste verkoop. Voor deze referentielandbouwprodukten wordt het equivalent van de marktprijsondersteuning berekend met gebruikmaking van de toegepaste regelingsprijs en de geproduceerde hoeveelheid die in aanmerking komt voor die prijs of, als dit niet uitvoerbaar is, de begrotingsuitgaven voor ondersteuning van de producentenprijs.
 
-#### 3
+##### 3
 
 Als voor onder punt 1 vallende referentielandbouwprodukten niet-vrijgestelde directe betalingen of andere produktgebonden, niet van de verlagingsverbintenis vrijgestelde subsidies worden toegekend, worden de AMS-equivalenten voor deze maatregelen berekend zoals de overeenkomstige AMS-componenten (zie de punten 10 t/m 13 van Bijlage 3).
 
-#### 4
+##### 4
 
 De AMS-equivalenten worden berekend aan de hand van de subsidie voor het produkt dat zo kort mogelijk volgt op de eerste verkoop van het betrokken referentielandbouwprodukt. Maatregelen ten gunste van de verwerkers van landbouwprodukten worden meegerekend voor zover zij ten goede komen aan de producenten van de referentielandbouwprodukten. Voor specifieke landbouwheffingen of retributies die door de producenten zijn betaald, worden de AMS-equivalenten dienovereenkomstig verlaagd.
 
 ### Sectie A
 
-#### 1
+##### 1
 
 De bepalingen van artikel 4, lid 2, zijn niet met ingang van de inwerkingtreding van de WTO-Overeenkomst van toepassing op primaire landbouwprodukten en verwerkte en/of bereide produkten daarvan („aangeduide produkten”) waarvoor aan de onderstaande voorwaarden is voldaan (deze behandeling wordt hierna „bijzondere behandeling” genoemd):
 
@@ -1021,29 +1046,29 @@ De bepalingen van artikel 4, lid 2, zijn niet met ingang van de inwerkingtreding
 
 - e. de minimumtoegang voor de aangeduide produkten, zoals gespecificeerd in Sectie I-B van Deel I van de Lijst van het betrokken Lid, bedraagt vanaf het begin van het eerste jaar van de uitvoeringsperiode 4% van het interne verbruik van de aangeduide produkten tijdens de basisperiode en wordt vervolgens per resterend jaar van de uitvoeringsperiode verhoogd met 0,8% van het betrokken interne verbruik in de basisperiode.
 
-#### 2
+##### 2
 
 Een Lid mag aan het begin van elk jaar van de uitvoeringsperiode door het bepaalde in punt 6 toe te passen een einde maken aan de bijzondere behandeling voor de aangeduide produkten. In dat geval dient het betrokken Lid de op dat tijdstip reeds geldende minimumtoegang te behouden en de minimumtoegang per resterend jaar van de uitvoeringsperiode te verhogen met 0,4% van het betrokken interne verbruik in de basisperiode. Daarna moet de minimumtoegang die op grond van deze formule geldt voor het laatste jaar van de uitvoeringsperiode, behouden blijven in de Lijst van het betrokken Lid.
 
-#### 3
+##### 3
 
 Onderhandelingen over de vraag of de in punt 1 vermelde bijzondere behandeling kan blijven gelden na de uitvoeringsperiode, moeten binnen deze uitvoeringsperiode worden afgerond in het kader van de in artikel 20 van deze Overeenkomst bedoelde onderhandelingen, daarbij rekening houdende met niet-commerciële overwegingen.
 
-#### 4
+##### 4
 
 Indien als resultaat van de in punt 3 bedoelde onderhandelingen wordt overeengekomen dat een Lid de bijzondere behandeling mag blijven toepassen, verleent dat Lid de aanvullende en acceptabele concessies die tijdens die onderhandelingen zijn vastgesteld.
 
-#### 5
+##### 5
 
 Als de bijzondere behandeling aan het einde van de uitvoeringsperiode niet langer van toepassing blijft, past het betrokken Lid de bepalingen van punt 6 toe. In dat geval moet na de uitvoeringsperiode de minimumtoegang voor de aangeduide produkten 8% blijven van het betrokken interne verbruik in de basisperiode dat is gespecificeerd in de Lijst van het betrokken Lid.
 
-#### 6
+##### 6
 
 Op de andere voor de aangeduide produkten toegepaste grensbeschermingsmaatregelen dan gewone douanerechten worden de bepalingen van artikel 4, lid 2, van toepassing vanaf het begin van het jaar waarin de bijzondere behandeling niet meer wordt toegepast. Voor dergelijke produkten worden gewone douanerechten toegepast die worden geconsolideerd in de Lijst van het betrokken Lid en die, vanaf het begin van het jaar waarin de bijzondere behandeling wordt beëindigd en daarna, worden toegepast op het niveau dat van toepassing zou zijn geweest als tijdens de uitvoeringsperiode in gelijke jaarlijkse stappen een verlaging met minstens 15% zou zijn toegepast. Deze douanerechten worden bepaald aan de hand van tariefequivalenten die worden berekend overeenkomstig de richtlijnen in het aanhangsel bij deze Bijlage.
 
 ### Sectie B
 
-#### 7
+##### 7
 
 De bepalingen van artikel 4, lid 2, zijn ook niet met ingang van de inwerkingtreding van de WTO-Overeenkomst van toepassing op een primair landbouwprodukt dat traditioneel het belangrijkste voedingsmiddel is in een Lid dat een ontwikkelingsland is en waarvoor, behalve aan de in punt 1 a. tot en met d. vermelde voorwaarden, voor zover van toepassing, wordt voldaan aan de volgende voorwaarden:
 
@@ -1051,19 +1076,19 @@ De bepalingen van artikel 4, lid 2, zijn ook niet met ingang van de inwerkingtre
 
 - b. er moet adequate markttoegang zijn verleend voor andere produkten die onder deze Overeenkomst vallen.
 
-#### 8
+##### 8
 
 Onderhandelingen over de vraag of de in punt 7 vermelde bijzondere behandeling kan blijven gelden na het tiende jaar na het begin van de uitvoeringsperiode, moeten worden begonnen en afgerond binnen dit tiende jaar.
 
-#### 9
+##### 9
 
 Indien als resultaat van de in punt 8 bedoelde onderhandelingen wordt overeengekomen dat een Lid de bijzondere behandeling mag blijven toepassen, verleent dat Lid de aanvullende en acceptabele concessies die tijdens die onderhandelingen zijn vastgesteld.
 
-#### 10
+##### 10
 
 Als de bijzondere behandeling op grond van punt 7 aan het einde van het tiende jaar na het begin van de uitvoeringsperiode niet langer van toepassing blijft, worden voor de betrokken produkten gewone douanerechten toegepast die worden vastgesteld aan de hand van tariefequivalenten die worden berekend overeenkomstig de richtlijnen in het aanhangsel bij deze Bijlage en die worden geconsolideerd in de Lijst van het betrokken Lid. Voor het overige worden de bepalingen van punt 6 toegepast overeenkomstig de wijzigingen die zijn overeengekomen in het kader van de bijzondere en afwijkende behandeling die op grond van deze Overeenkomst is toegestaan voor Leden die ontwikkelingslanden zijn.
 
-#### 1
+##### 1
 
 De tariefequivalenten worden, ongeacht of ze worden uitgedrukt in ad valorem-rechten of specifieke rechten, verifieerbaar berekend aan de hand van het verschil tussen de interne en de externe prijzen. Daarbij wordt uitgegaan van gegevens over de jaren 1986 tot en met 1988. De tariefequivalenten
 
@@ -1073,7 +1098,7 @@ De tariefequivalenten worden, ongeacht of ze worden uitgedrukt in ad valorem-rec
 
 - c. worden voor verwerkte en/of bereide produkten in het algemeen vastgesteld door vermenigvuldiging van het (de) specifieke tariefequivalent(en) voor het (de) primaire landbouwprodukt(en) met het aandeel (de aandelen), naargelang van het geval, in waarde of fysiek, van het (de) primaire landbouwprodukt(en) in het verwerkte en/of bereide produkt, daarbij, zonodig, rekening houdende met bestaande additionele elementen ter bescherming van de industrie.
 
-#### 2
+##### 2
 
 Als externe prijzen worden in het algemeen gemiddelde c.i.f.-prijzen per eenheid genomen voor het invoerende land. Als geen of geen adequate gemiddelde c.i.f.-prijzen beschikbaar zijn, worden als externe prijzen genomen
 
@@ -1081,23 +1106,23 @@ Als externe prijzen worden in het algemeen gemiddelde c.i.f.-prijzen per eenheid
 
 - b. worden de externe prijzen geraamd aan de hand van gemiddelde f.o.b.-prijzen per eenheid van een adequaat belangrijk exporterend land of adequate belangrijke exporterende landen, welke prijzen worden aangepast door daarbij een geraamd bedrag voor verzekering, vracht en andere kosten naar het land van invoer op te stellen.
 
-#### 3
+##### 3
 
 De externe prijzen worden in het algemeen in de nationale valuta omgerekend met gebruikmaking van het jaargemiddelde van de marktwisselkoers voor dezelfde periode als de periode waarover prijsgegevens beschikbaar zijn.
 
-#### 4
+##### 4
 
 Als interne prijs wordt in het algemeen een prijs genomen die representatief is voor de groothandelsprijs op de interne markt of, als geen adequate gegevens beschikbaar zijn, een raming van die prijs.
 
-#### 5
+##### 5
 
 De oorspronkelijke tariefequivalenten kunnen, zonodig, met gebruikmaking van een passende coëfficiënt, worden aangepast in verband met verschillen in kwaliteit of soort.
 
-#### 6
+##### 6
 
 Als een op grond van deze richtlijnen berekend tariefequivalent negatief is of lager is dan het huidige geconsolideerde recht, kan het initiële tariefequivalent worden vastgesteld op het huidige geconsolideerde recht of op grond van een aanbod van het betrokken land voor dat produkt.
 
-#### 7
+##### 7
 
 Als het tariefequivalent dat volgens bovenstaande richtlijnen zou moeten worden toegepast, wordt aangepast, geeft het betrokken Lid, op verzoek, alle gelegenheid voor overleg om via onderhandelingen tot een passende oplossing te komen.
 
@@ -1121,7 +1146,7 @@ Geleid daarom door de wens om regels op te stellen voor de toepassing van de bep
 
 Komen het volgende overeen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. Deze Overeenkomst geldt voor alle sanitaire en fytosanitaire maatregelen die, direct of indirect, van invloed kunnen zijn op de internationale handel. Dergelijke maatregelen moeten worden opgesteld en toegepast overeenkomstig de bepalingen van deze Overeenkomst.
 
@@ -1131,7 +1156,7 @@ Komen het volgende overeen:
 
 4. Deze Overeenkomst doet geen afbreuk aan de rechten die de Leden kunnen doen gelden op grond van de Overeenkomst inzake technische handelsbelemmeringen, voor zover het gaat om maatregelen die niet binnen de werkingssfeer van deze Overeenkomst vallen.
 
-#### Artikel 2. Fundamentele rechten en verplichtingen
+##### Artikel 2. Fundamentele rechten en verplichtingen
 
 1. De Leden hebben het recht de sanitaire en fytosanitaire maatregelen te nemen die nodig zijn voor de bescherming van het leven of de gezondheid van mens, dier of plant, op voorwaarde dat dergelijke maatregelen niet in strijd zijn met de bepalingen van deze Overeenkomst.
 
@@ -1141,7 +1166,7 @@ Komen het volgende overeen:
 
 4. Sanitaire of fytosanitaire maatregelen die in overeenstemming zijn met de relevante bepalingen van deze Overeenkomst worden geacht in overeenstemming te zijn met de verplichtingen van de Leden op grond van de bepalingen van de GATT 1994 die betrekking hebben op het gebruik van sanitaire of fytosanitaire maatregelen, en met name de bepalingen van artikel XX, b.
 
-#### Artikel 3. Harmonisatie
+##### Artikel 3. Harmonisatie
 
 1. Om ervoor te zorgen dat de sanitaire en fytosanitaire maatregelen op een zo breed mogelijke grondslag worden geharmoniseerd, baseren de Leden hun sanitaire of fytosanitaire maatregelen op internationale normen, richtlijnen of aanbevelingen, voor zover die bestaan, tenzij anders is bepaald in deze Overeenkomst en met name in lid 3.
 
@@ -1153,13 +1178,13 @@ Komen het volgende overeen:
 
 5. De in artikel 12, lid 1 en lid 4, bedoelde Commissie voor sanitaire en fytosanitaire maatregelen (in deze Overeenkomst de „Commissie” genoemd) stelt een procedure op om de internationale harmonisatie te volgen en de inspanningen terzake met de relevante internationale organisaties te coördineren.
 
-#### Artikel 4. Gelijkwaardigheid
+##### Artikel 4. Gelijkwaardigheid
 
 1. De Leden aanvaarden de gelijkwaardigheid van de veterinaire of fytosanitaire maatregelen van andere Leden, zelfs als deze maatregelen verschillen van hun eigen maatregelen of van de maatregelen die worden toegepast door andere Leden die in hetzelfde produkt handelen, als het exporterende Lid het importerende Lid objectief aantoont dat zijn maatregelen resulteren in het adequate niveau van sanitaire of fytosanitaire bescherming van het importerende Lid. Daartoe wordt aan het importerende Lid, op diens verzoek, redelijke toegang gegeven wat betreft inspectie, proeven en andere relevante procedures.
 
 2. De Leden aanvaarden, op verzoek, overleg met het oog op bilaterale en multilaterale overeenkomsten over de erkenning van de gelijkwaardigheid van gespecificeerde sanitaire of fytosanitaire maatregelen.
 
-#### Artikel 5. Risico-evaluatie en bepaling van het adequate niveau van sanitaire of fytosanitaire bescherming
+##### Artikel 5. Risico-evaluatie en bepaling van het adequate niveau van sanitaire of fytosanitaire bescherming
 
 1. De Leden baseren hun sanitaire of fytosanitaire maatregelen op een aan de omstandigheden beantwoordende evaluatie van de risico's voor het leven of de gezondheid van mens, dier of plant, en houden daarbij rekening met de risico-evaluatiemethoden van de relevante internationale organisaties.
 
@@ -1177,7 +1202,7 @@ Komen het volgende overeen:
 
 8. Wanneer een Lid reden heeft om aan te nemen dat een specifieke sanitaire of fytosanitaire maatregel die door een ander Lid is ingevoerd of wordt toegepast, zijn uitvoer beperkt of kan beperken en de betrokken maatregel niet gebaseerd is op de relevante internationale normen, richtlijnen of aanbevelingen of dergelijke normen, richtlijnen of aanbevelingen niet bestaan, mag uitleg over de redenen voor deze sanitaire of fytosanitaire maatregel worden gevraagd en moet het Lid dat de maatregel toepast, die uitleg verstrekken.
 
-#### Artikel 6. Aanpassing aan de regionale omstandigheden, waaronder ziekte- of plagenvrije gebieden of gebieden met een lage ziekte- of plagenprevalentie
+##### Artikel 6. Aanpassing aan de regionale omstandigheden, waaronder ziekte- of plagenvrije gebieden of gebieden met een lage ziekte- of plagenprevalentie
 
 1. De Leden zorgen ervoor dat hun sanitaire of fytosanitaire maatregelen aangepast zijn aan de sanitaire of fytosanitaire kenmerken van het gebied, hetzij een land of een gedeelte van een land, hetzij enkele landen of gedeelten van enkele landen, waaruit het produkt afkomstig is en waarvoor het produkt is bestemd. Bij de evaluatie van de sanitaire of fytosanitaire kenmerken van een gebied houden de Leden onder andere rekening met de prevalentie van specifieke ziekten of plagen, eventuele uitroeiings- of bestrijdingsprogramma's en eventuele adequate criteria of richtlijnen van de relevante internationale organisaties.
 
@@ -1185,21 +1210,21 @@ Komen het volgende overeen:
 
 3. Exporterende Leden die stellen dat gebieden binnen hun grondgebied vrij van ziekten of plagen zijn of een lage prevalentie van ziekten of plagen hebben, dienen terzake de nodige bewijzen te leveren om het importerende Lid objectief aan te tonen dat dergelijke gebieden ziekte- of plagenvrije gebieden zijn en waarschijnlijk zullen blijven, respectievelijk gebieden met een lage prevalentie van ziekten of plagen zijn of waarschijnlijk zullen blijven. Daartoe wordt aan het importerende Lid, op diens verzoek, redelijke toegang gegeven wat betreft inspectie, proeven en andere relevante procedures.
 
-#### Artikel 7. Openheid
+##### Artikel 7. Openheid
 
 De Leden zorgen voor kennisgeving van de wijzigingen in hun sanitaire of fytosanitaire maatregelen en verstrekken gegevens over hun sanitaire of fytosanitaire maatregelen overeenkomstig de bepalingen in Bijlage B.
 
-#### Artikel 8. Controle-, inspectie- en goedkeuringsprocedures
+##### Artikel 8. Controle-, inspectie- en goedkeuringsprocedures
 
 De Leden houden zich bij de toepassing van controle-, inspectie- en goedkeuringsprocedures, waaronder nationale regelingen voor de goedkeuring van het gebruik van additieven of voor de vaststelling van toleranties voor contaminanten in voedingsmiddelen, drank of diervoeder, aan de bepalingen in bijlage C, en zorgen er ook overigens voor dat hun procedures niet in strijd zijn met de bepalingen van deze Overeenkomst.
 
-#### Artikel 9. Technische bijstand
+##### Artikel 9. Technische bijstand
 
 1. De Leden komen overeen de technische bijstand aan andere Leden, met name Leden die ontwikkelingslanden zijn, te vergemakkelijken hetzij op bilateraal niveau, hetzij via de betrokken internationale organisaties. Dergelijke assistentie kan onder andere worden verleend op het vlak van procestechnologie, onderzoek en infrastructuur, daaronder begrepen de oprichting van nationale regelgevende instanties, en kan worden verleend in de vorm van adviezen, kredieten, schenkingen en subsidies, ook voor het bekostigen van technische deskundigheid, opleidingen en apparatuur om deze landen in staat te stellen zich aan te passen aan het niveau van en uitvoering te geven aan de sanitaire of fytosanitaire maatregelen die nodig zijn om het adequate niveau van sanitaire of fytosanitaire bescherming op hun uitvoermarkten te bereiken.
 
 2. Als aanzienlijke investeringen nodig zijn om een Lid dat een uitvoerend ontwikkelingsland is in staat te stellen om te voldoen aan de sanitaire of fytosanitaire eisen van een importerend Lid, dient laatstgenoemd Lid te overwegen om die technische bijstand te verlenen die het ontwikkelingsland in staat stelt zijn markttoegang voor het betrokken produkt te handhaven of te vergroten.
 
-#### Artikel 10. Bijzondere en afwijkende behandeling
+##### Artikel 10. Bijzondere en afwijkende behandeling
 
 1. Bij de voorbereiding en de toepassing van sanitaire of fytosanitaire maatregelen houden de Leden rekening met de bijzondere behoeften van de Leden die ontwikkelingslanden zijn en met name van de Leden die minstontwikkelde landen zijn.
 
@@ -1209,7 +1234,7 @@ De Leden houden zich bij de toepassing van controle-, inspectie- en goedkeurings
 
 4. De Leden behoren Leden die ontwikkelingslanden zijn aan te moedigen om actief mee te werken in de betrokken internationale organisaties en hun dit ook te vergemakkelijken.
 
-#### Artikel 11. Overleg en beslechting van geschillen
+##### Artikel 11. Overleg en beslechting van geschillen
 
 1. De bepalingen van de artikelen XXII en XXIII van de GATT 1994, zoals uitgewerkt en toegepast in het Memorandum van Overeenstemming inzake Geschillenbeslechting zijn van toepassing op het overleg en de beslechting van geschillen in het kader van deze Overeenkomst, tenzij hierin uitdrukkelijk anders is bepaald.
 
@@ -1217,7 +1242,7 @@ De Leden houden zich bij de toepassing van controle-, inspectie- en goedkeurings
 
 3. Niets in deze Overeenkomst doet afbreuk aan de rechten van de Leden op grond van andere internationale overeenkomsten, daaronder begrepen het recht om gebruik te maken van de goede diensten of regelingen voor geschillenbeslechting die bestaan in het kader van andere internationale organisaties of als uitvloeisel van een internationale overeenkomst.
 
-#### Artikel 12. Administratie
+##### Artikel 12. Administratie
 
 1. Hierbij wordt als forum voor regelmatig overleg een Commissie voor sanitaire en fytosanitaire maatregelen opgericht. De Commissie vervult de functies die nodig zijn om de uitvoering van de bepalingen van deze Overeenkomst en de doelstellingen daarvan, met name op het vlak van de harmonisatie, te bevorderen. De Commissie beslist bij consensus.
 
@@ -1233,15 +1258,15 @@ De Leden houden zich bij de toepassing van controle-, inspectie- en goedkeurings
 
 7. De werking en de uitvoering van deze Overeenkomst worden door de Commissie onderzocht drie jaar na de inwerkingtreding van de WTO-Overeenkomst en vervolgens steeds als dat nodig is. De Commissie mag, zonodig, aan de Raad voor de handel in goederen voorstellen voor wijziging van deze Overeenkomst voorleggen; zij houdt daarbij onder andere rekening met de bij de uitvoering opgedane ervaring.
 
-#### Artikel 13. Uitvoering
+##### Artikel 13. Uitvoering
 
 Op grond van deze Overeenkomst zijn de Leden ten volle verantwoordelijk voor de naleving van alle hierin vastgelegde verplichtingen. De Leden stellen maatregelen en regelingen vast om te bevorderen dat de bepalingen van deze Overeenkomst ook worden nageleefd door andere instanties dan die van de centrale overheid en geven uitvoering aan deze maatregelen en regelingen. Zij nemen alle redelijke in hun vermogen liggende maatregelen om ervoor te zorgen dat andere instanties op hun grondgebied dan overheidsinstanties, evenals de regionale instanties waartoe de relevante instanties op hun grondgebied behoren, de relevante bepalingen van deze Overeenkomst naleven. Voorts nemen de Leden geen maatregelen die, rechtstreeks of onrechtstreeks, dergelijke regionale instanties of andere instanties dan overheidsinstanties, of plaatselijke overheidsinstanties, verplichten of stimuleren tot handelingen die in strijd zijn met de bepalingen van deze Overeenkomst. De Leden zorgen ervoor dat zij voor de toepassing van sanitaire of fytosanitaire maatregelen alleen andere instanties dan overheidsinstanties inschakelen, als deze instanties de bepalingen van deze Overeenkomst naleven.
 
-#### Artikel 14. Slotbepalingen
+##### Artikel 14. Slotbepalingen
 
 Leden die minstontwikkelde landen zijn mogen voor hun sanitaire of fytosanitaire maatregelen met betrekking tot invoer of ingevoerde produkten de toepassing van de bepalingen van deze Overeenkomst uitstellen tot het zesde jaar na de inwerkingtreding van de WTO-Overeenkomst. Leden die ontwikkelingslanden zijn, mogen de toepassing van de andere bepalingen van deze Overeenkomst dan artikel 5, lid 8, en artikel 7 uitstellen tot het derde jaar na de datum van inwerkingtreding van de WTO-Overeenkomst voor zover het gaat om bestaande sanitaire of fytosanitaire maatregelen met betrekking tot invoer of ingevoerde produkten en voor zover bovenbedoelde bepalingen niet kunnen worden toegepast als gevolg van een tekort aan technische deskundigheid, aan technische infrastructuur of aan middelen.
 
-#### 1. **Sanitaire of fytosanitaire maatregel**
+##### 1. **Sanitaire of fytosanitaire maatregel**
 
 – Iedere maatregel die wordt toegepast
 
@@ -1255,11 +1280,11 @@ Leden die minstontwikkelde landen zijn mogen voor hun sanitaire of fytosanitaire
 
 Tot de sanitaire of fytosanitaire maatregelen worden gerekend alle relevante wetten, besluiten, regelingen, eisen en procedures, waaronder, inter alia, criteria voor het eindprodukt; produktieprocessen en -methodes; onderzoek-, inspectie-, certificerings- en goedkeuringsprocedures; quarantaineregelingen, waaronder de eisen aangaande het vervoer van dieren of planten, of de stoffen die nodig zijn voor het overleven van deze dieren of planten tijdens het vervoer; bepalingen inzake relevante statistische methodes, bemonsteringsprocedures en methodes voor risico-evaluatie; eisen inzake verpakking en etikettering die rechtstreeks verband houden met de veiligheid van voedingsmiddelen.
 
-#### 2. **Harmonisatie**
+##### 2. **Harmonisatie**
 
 – De vaststelling, erkenning en toepassing van gemeenschappelijke sanitaire en fytosanitaire maatregelen door verschillende Leden.
 
-#### 3. **Internationale normen, richtlijnen en aanbevelingen**
+##### 3. **Internationale normen, richtlijnen en aanbevelingen**
 
 - a. wat betreft voedselveiligheid: de normen, richtlijnen en aanbevelingen van de Codex Alimentarius Commissie inzake voedingsmiddelenadditieven, residuen van diergeneesmiddelen en gewasbeschermingsmiddelen, contaminanten, analyse- en bemonsteringsmethodes, en gedrags- codes en richtlijnen voor hygiënische werkwijzen;
 
@@ -1269,39 +1294,39 @@ Tot de sanitaire of fytosanitaire maatregelen worden gerekend alle relevante wet
 
 - d. wat betreft aangelegenheden die niet onder bovengenoemde organisaties vallen: adequate door de Commissie voor sanitaire en fytosanitaire maatregelen opgegeven normen, richtlijnen en aanbevelingen van andere bevoegde internationale organisaties waarvan het lidmaatschap openstaat voor alle Leden.
 
-#### 4. **Risico-evaluatie**
+##### 4. **Risico-evaluatie**
 
 – Beoordeling van de waarschijnlijkheid, naargelang van de sanitaire of fytosanitaire maatregelen die zouden kunnen worden toegepast, dat een ziekte of plaag op het grondgebied van een invoerend land wordt binnengebracht, gevestigd raakt of zich verspreidt, alsmede van de mogelijke biologische en economische consequenties daarvan; beoordeling van de mogelijke negatieve effecten op de gezondheid van mens of dier als gevolg van additieven, contaminanten, toxines of pathogene organismen in voedingsmiddelen, drank of diervoeder.
 
-#### 5. **Adequaat niveau van sanitaire of fytosanitaire bescherming**
+##### 5. **Adequaat niveau van sanitaire of fytosanitaire bescherming**
 
 – Het niveau van bescherming dat door het Lid dat een sanitaire of fytosanitaire maatregel vaststelt adequaat wordt geacht voor de bescherming van het leven of de gezondheid van mens, dier of plant op zijn grondgebied.
 
 **AANTEKENING:** Veel Leden duiden dit begrip aan met de term „aanvaardbaar risiconiveau”.
 
-#### 6. **Ziekte- of plagenvrij gebied**
+##### 6. **Ziekte- of plagenvrij gebied**
 
 – Een gebied, hetzij een heel land of een gedeelte van een land, hetzij enkele landen of gedeelten van enkele landen, dat door de bevoegde autoriteiten is gedefinieerd en waarbinnen een bepaalde plaag of ziekte niet voorkomt.
 
 **AANTEKENING:** Een ziekte- of plagenvrij gebied mag zich uitstrekken rond, omgeven zijn door of grenzen aan een gebied, ongeacht of dit een gedeelte van een land is of een geografisch gebied dat gedeelten van of enkele landen in hun totaliteit omvat, waarvan bekend is dat daar een bepaalde ziekte of plaag voorkomt, maar waarvoor regionale bestrijdingsmaatregelen gelden zoals beschermings-, toezicht- en bufferzones waardoor de verspreiding van de betrokken ziekte of plaag beperkt blijft of deze wordt uitgeroeid.
 
-#### 7. **Gebied met een lage prevalentie van ziekten of plagen**
+##### 7. **Gebied met een lage prevalentie van ziekten of plagen**
 
 – Een gebied, hetzij een land of een gedeelte van een land, hetzij een aantal landen of gedeelten van een aantal landen, dat door de bevoegde autoriteiten is gedefinieerd en waar een bepaalde ziekte of plaag in lage mate voorkomt en waar ten aanzien van de betrokken ziekte of plaag efficiënte maatregelen worden toegepast op het vlak van toezicht, bestrijding of uitroeiing.
 
 ### Bekendmaking van de regelingen
 
-#### 1
+##### 1
 
 De Leden zorgen ervoor dat alle sanitaire en fytosanitaire regelingen1)Sanitaire en fytosanitaire maatregelen, zoals wetten, decreten of verordeningen die algemeen toepasselijk zijn. die zij vaststellen, onverwijld zo worden bekendgemaakt dat belanghebbende Leden er kennis van kunnen nemen.
 
-#### 2
+##### 2
 
 Dringende gevallen uitgezonderd, zorgen de Leden ervoor dat er een redelijke termijn ligt tussen de bekendmaking van een sanitaire of fytosanitaire regeling en de inwerkingtreding daarvan, ten einde de producenten in exporterende Leden, en met name in Leden die ontwikkelingslanden zijn, de tijd te geven om hun produkten en produktiemethoden aan te passen aan de eisen van het importerende Lid.
 
 ### Informatiepunten
 
-#### 3
+##### 3
 
 Ieder Lid zorgt ervoor dat er één informatiepunt is dat verantwoordelijk is voor het beantwoorden van alle redelijke vragen van belanghebbende Leden en voor het verstrekken van relevante documenten met betrekking tot:
 
@@ -1313,13 +1338,13 @@ Ieder Lid zorgt ervoor dat er één informatiepunt is dat verantwoordelijk is vo
 
 - d. het lidmaatschap en de medewerking, anders gezegd de betrokkenheid van het Lid of van bevoegde instanties op zijn grondgebied bij internationale en regionale sanitaire en fytosanitaire organisaties en systemen, alsmede bij bilaterale en multilaterale overeenkomsten en arrangementen op het vlak van deze Overeenkomst, alsmede de teksten van dergelijke overeenkomsten en arrangementen.
 
-#### 4
+##### 4
 
 De Leden zorgen ervoor dat, als belanghebbende Leden om exemplaren van documenten vragen, deze documenten, in het geval dat daarvoor een prijs wordt gevraagd, worden geleverd tegen dezelfde prijs, afgezien van de verzendkosten, als die welke wordt gevraagd aan de onderdanen1)Als in deze Overeenkomst het woord „onderdanen” wordt gebruikt, wordt wat betreft een afzonderlijk douanegebied dat Lid is van de WTO daaronder verstaan een natuurlijke persoon of een rechtspersoon die is gedomicilieerd of die een feitelijke industriële of commerciële vestiging heeft in dat douanegebied. van het betrokken Lid.
 
 ### Kennisgevingsprocedures
 
-#### 5
+##### 5
 
 Als er geen internationale norm, richtlijn of aanbeveling bestaat of een voorgestelde sanitaire of fytosanitaire regeling qua strekking niet nagenoeg gelijk is aan een internationale norm, richtlijn of aanbeveling, en als een regeling aanzienlijke gevolgen kan hebben voor de handel van andere Leden, moeten de Leden
 
@@ -1331,7 +1356,7 @@ Als er geen internationale norm, richtlijn of aanbeveling bestaat of een voorges
 
 - d. zonder te discrimineren, aan de andere Leden een redelijke termijn geven om schriftelijk opmerkingen te maken, deze opmerkingen, indien daarom wordt verzocht, met hen bespreken en rekening houden met de opmerkingen en de resultaten van de besprekingen.
 
-#### 6
+##### 6
 
 Als zich voor een Lid dringende problemen op het vlak van gezondheidsbescherming voordoen of dreigen voor te doen, mag dat Lid echter, naar eigen inzicht, een of meer van de in punt 5 van deze Bijlage opgesomde stappen achterwege laten, op voorwaarde dat het
 
@@ -1341,25 +1366,25 @@ Als zich voor een Lid dringende problemen op het vlak van gezondheidsbescherming
 
 - c. de andere Leden de gelegenheid geeft schriftelijk hun opmerkingen te maken, deze opmerkingen, op hun verzoek, met hen bespreekt en rekening houdt met de opmerkingen en de resultaten van de besprekingen.
 
-#### 7
+##### 7
 
 De kennisgevingen aan het Secretariaat van de WTO moeten worden opgesteld in het Engels, Frans of Spaans.
 
-#### 8
+##### 8
 
 Leden die ontwikkelde landen zijn verstrekken, als andere Leden daarom verzoeken, in het Engels, Frans of Spaans, exemplaren of, als het omvangrijke documenten betreft, samenvattingen van de documenten waarover een kennisgeving is gedaan.
 
-#### 9
+##### 9
 
 Het Secretariaat van de WTO zendt de tekst van de kennisgeving onverwijld aan alle Leden en belanghebbende internationale organisaties en vestigt de aandacht van Leden die ontwikkelingslanden zijn op alle kennisgevingen met betrekking tot produkten die voor hen van bijzonder belang zijn.
 
-#### 10
+##### 10
 
 De Leden stellen één enkele instantie van de centrale overheid aan die verantwoordelijk is voor de nationale uitvoering van de bepalingen inzake kennisgevingsprocedures overeenkomstig de punten 5, 6, 7 en 8 van deze Bijlage.
 
 ### Algemene reserves
 
-#### 11
+##### 11
 
 Niets in deze Overeenkomst mag worden uitgelegd
 
@@ -1367,7 +1392,7 @@ Niets in deze Overeenkomst mag worden uitgelegd
 
 - b. als een verplichting voor de Leden om vertrouwelijke informatie bekend te maken die de rechtshandhaving wat betreft de sanitaire of fytosanitaire wetgeving zou bemoeilijken of die de rechtmatige handelsbelangen van specifieke bedrijven zou schaden.
 
-#### 1
+##### 1
 
 Wat betreft de procedures om de naleving van sanitaire of fytosanitaire maatregelen te controleren en te waarborgen, zorgen de Leden ervoor
 
@@ -1391,11 +1416,11 @@ Wat betreft de procedures om de naleving van sanitaire of fytosanitaire maatrege
 
 Als een Lid dat een land van invoer is een regeling voor de goedkeuring van het gebruik van voedingsmiddelenadditieven of voor de vaststelling van toleranties voor contaminanten in voedingsmiddelen, drank of diervoeder toepast in het kader waarvan de toegang tot zijn interne markt wordt verboden of beperkt voor produkten waarvoor geen goedkeuring is verleend, moet dat Lid overwegen een relevante internationale norm als basis te nemen voor het verlenen van toegang voor produkten totdat een eindbeslissing wordt genomen.
 
-#### 2
+##### 2
 
 Als een sanitaire of fytosanitaire maatregel voorziet in controle in het produktiestadium, verleent het Lid op wiens grondgebied de produktie plaatsvindt de nodige bijstand om deze controle en het werk van de controlerende instanties te vergemakkelijken.
 
-#### 3
+##### 3
 
 Niets in deze Overeenkomst belet dat de Leden binnen hun eigen grondgebied redelijke inspecties uitvoeren.
 
@@ -1409,7 +1434,7 @@ Voorts eraan herinnerende dat werd overeengekomen dat de Leden die minstontwikke
 
 Komen als volgt overeen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze Overeenkomst bevat de bepalingen die de Leden tijdens de overgangsperiode voor de integratie van de textiel- en kledingsector in de GATT 1994 dienen toe te passen.
 
@@ -1425,7 +1450,7 @@ Komen als volgt overeen:
 
 7. In de bijlage is de lijst opgenomen van de textiel- en kledingprodukten waarop deze Overeenkomst van toepassing is.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De gegevens over alle kwantitatieve beperkingen krachtens bilaterale overeenkomsten die op grond van artikel 4 worden toegepast of die op grond van artikel 7 of 8 van de MVO zijn medegedeeld en die van kracht zijn op de dag vóór de inwerkingtreding van de WTO-Overeenkomst, worden door de Leden die deze beperkingen handhaven binnen 60 dagen na deze inwerkingtreding medegedeeld aan het Orgaan Supervisie Textielprodukten (hierna „OST” genoemd) dat bij artikel 8 is ingesteld. Onder meer moeten het niveau van de beperkingen, de groeipercentages en de flexibiliteitsbepalingen worden medegedeeld. De Leden komen overeen dat alle beperkingen tussen de Partijen bij de GATT 1947 die van kracht zijn op de dag vóór de inwerkingtreding van deze Overeenkomst, onder het bepaalde in deze Overeenkomst vallen.
 
@@ -1483,7 +1508,7 @@ Komen als volgt overeen:
 
 21. Het OST ziet toe op de uitvoering van dit artikel. Op verzoek van een Lid zal het elke kwestie in verband met de toepassing van dit artikel onderzoeken. Het deelt binnen de 30 dagen de nodige aanbevelingen of constateringen aan het betrokken Lid of de betrokken Leden mede, na deze(n) tot deelname aan de werkzaamheden te hebben uitgenodigd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Binnen de 60 dagen na de inwerkingtreding van de WTO-Overeenkomst, doen de Leden die beperkingen 1)Hieronder vallen alle unilaterale kwantitatieve beperkingen, bilaterale regelingen en andere maatregelen van gelijke werking. op textiel- en kledingprodukten handhaven (andere dan die welke op grond van de MVO zijn gehandhaafd en die onder het bepaalde in artikel 2 vallen), of deze nu verenigbaar zijn met de GATT 1994 of niet, het volgende: a. ze delen de bijzonderheden hierover aan het OST mede of, b. ze delen het OST mede welke kennisgevingen hierover aan een ander WTO-orgaan zijn gedaan. Indien van toepassing bevatten deze kennisgevingen informatie over de motivering van deze beperkingen in verband met de GATT 1994, met inbegrip van de bepalingen van de GATT 1994 waarop ze zijn gebaseerd.
 
@@ -1499,7 +1524,7 @@ Komen als volgt overeen:
 
 5. Het OST geeft de op grond van dit artikel gedane kennisgevingen ter informatie door aan alle leden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in artikel 2 bedoelde beperkingen en de beperkingen die op grond van artikel 6 worden toegepast, worden door de exporterende Leden beheerd. De importerende Leden zijn niet verplicht leveringen te aanvaarden die de beperkingen overschrijden waarvan op grond van artikel 2 mededeling is gedaan of die op grond van artikel 6 worden toegepast.
 
@@ -1509,7 +1534,7 @@ Komen als volgt overeen:
 
 4. De Leden komen overeen dat, wanneer de in de leden 2 en 3 genoemde wijzigingen noodzakelijk zijn, het Lid dat deze wijzigingen invoert het betrokken Lid of de betrokken Leden daarvan in kennis stelt en vóór de inwerkingtreding van deze wijzigingen zo mogelijk overleg pleegt met het getroffen Lid of de getroffen Leden, ten einde een voor alle partijen bevredigende oplossingen te vinden over passende en billijke aanpassingen. De Leden komen voorts overeen dat wanneer het niet mogelijk is vóór de inwerkingtreding van de wijziging overleg te plegen, het Lid dat deze wijziging invoert, op verzoek van het getroffen Lid, zo mogelijk binnen 60 dagen overleg zal plegen met de betrokken Leden om een voor alle partijen bevredigende oplossing te vinden over passende en billijke aanpassingen. Wordt geen voor alle partijen bevredigende oplossing gevonden, dan kan een betrokken Lid de zaak aan het OST voorleggen dat, overeenkomstig artikel 8, aanbevelingen kan doen. Mocht het OTT geen gelegenheid hebben gehad een geschil over dergelijke wijzigingen te onderzoeken die voor de inwerkingtreding van de WTO-Overeenkomst zijn ingevoerd, dan wordt de zaak door het OST onderzocht overeenkomstig de desbetreffende MVO-regels en -procedures.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Leden komen overeen dat ontduiking van de regels door middel van overlading, wederverzending, valse verklaringen over het land of de plaats van oorsprong en vervalsing van officiële documenten de uitvoering van deze Overeenkomst tot integratie van de textiel- en kledingsector in de GATT 1994 in de weg staat. De Leden dienen derhalve de nodige wettelijke voorschriften en/of administratieve procedures vast te stellen om ontduiking van de regels te voorkomen en te bestrijden. Voorts komen de leden overeen dat zij overeenkomstig hun nationale wetten en procedures volledig zullen samenwerken om de problemen die uit ontduiking voortvloeien op te lossen.
 
@@ -1523,7 +1548,7 @@ Komen als volgt overeen:
 
 6. De Leden komen overeen dat valse verklaringen inzake vezelsamenstelling, hoeveelheden, aard of indeling van de goederen eveneens een beletsel vormen om de doelstellingen van deze overeenkomst te bereiken. De Leden komen overeen dat, wanneer blijkt dat dergelijke valse verklaringen zijn opgesteld met het doel de regels te ontduiken, de nodige maatregelen tegen de betrokken exporteurs of importeurs genomen dienen te worden, overeenkomstig de nationale wetten en procedures. Mocht een Lid van oordeel zijn dat de regels van de Overeenkomst door middel van dergelijke valse verklaringen worden ontdoken en dat geen of onvoldoende maatregelen worden genomen om hiertegen op te treden, dan kan dat Lid terstond overleg plegen met het betrokken Lid om te trachten tot een voor beide partijen bevredigende oplossing te komen. Wordt zulk een oplossing niet gevonden, dan kan de zaak door een betrokken Lid aan het OST voor een aanbeveling worden voorgelegd. Deze bepaling heeft niet ten doel te voorkomen dat Leden technische aanpassingen aanbrengen indien per vergissing fouten zijn gemaakt bij het opstellen van verklaringen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Leden erkennen dat het tijdens de overgangsperiode nodig kan zijn speciale vrijwaringsmaatregelen (in deze Overeenkomst „overgangsvrijwaringsmaatregelen” genoemd) te nemen. De overgangsvrijwaringsmaatregelen kunnen door een Lid worden toegepast op produkten die onder de Bijlage vallen, met uitzondering van de produkten die op grond van artikel 2 in de GATT 1994 zijn geïntegreerd. De Leden die geen beperkingen op grond van artikel 2 handhaven, delen het OST binnen 6O dagen na de datum van inwerkingtreding van de WTO-Overeenkomst mede of zij het recht wensen te behouden de bepalingen van dat artikel toe te passen. De Leden die de Protocollen tot verlenging van de MVO die sinds 1986 tot stand zijn gekomen niet hebben aanvaard, doen een dergelijke mededeling binnen zes maanden na de inwerkingtreding van de WTO-Overeenkomst. De overgangsvrijwaringsmaatregelen dienen zo min mogelijk te worden toegepast, overeenkomstig het bepaalde in dit artikel en de daadwerkelijke integratie op grond van deze Overeenkomst.
 
@@ -1569,7 +1594,7 @@ Komen als volgt overeen:
 
 16. Wanneer een Lid dat geen beperkingen handhaaft op grond van artikel 2 besluit op grond van het bepaalde in dit artikel een beperking toe te passen, stelt het passende regelingen vast waarbij a. volledig rekening wordt gehouden met factoren zoals tariefindeling en kwantitatieve eenheden bij normale commerciële import- en exportpraktijken, zowel wat vezelsamenstelling betreft als in termen van concurrentie op hetzelfde segment van de binnenlandse markt, en b. een te ver doorgevoerde categorisering wordt vermeden. Het in lid 7 of lid 11 bedoelde verzoek om overleg bevat alle gegevens over dergelijke regelingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Als onderdeel van het integratieproces en overeenkomstig de specifieke afspraken tussen Leden als resultaat van de Uruguay-Ronde, nemen alle Leden de nodige maatregelen om de regels en disciplines van de GATT 1994 in acht te nemen, zodat:
 
@@ -1583,7 +1608,7 @@ Komen als volgt overeen:
 
 3. Indien een Lid van oordeel is dat een ander Lid door het niet-nemen van de in lid 1 bedoelde maatregelen het evenwicht tussen rechten en plichten op grond van deze Overeenkomst heeft verstoord, kan eerstgenoemd Lid de zaak aan de desbetreffende WTO-organen voorleggen en het OST daarvan in kennis stellen. De bevindingen en conclusies van de betrokken WTO-organen vormen een onderdeel van het algemene verslag van het OST.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Hierbij wordt het Orgaan Supervisie Textielprodukten („OST”) ingesteld dat tot taak heeft toe te zien op de uitvoering van deze Overeenkomst, de maatregelen op grond van deze Overeenkomst en de overeenstemming van deze maatregelen met de Overeenkomst te onderzoeken, en alle taken te vervullen waarmee het op grond van deze Overeenkomst speciaal is belast. Het OST bestaat uit een voorzitter en tien leden. De samenstelling van het OST is evenwichtig, grotendeels representatief voor de Leden en zitting in het OST wordt om toerbeurten waargenomen. De leden van het OST worden benoemd door de Leden die door de Raad voor de Handel in Goederen zijn aangewezen om zitting te hebben in het OST waarin zij hun functies op persoonlijke titel uitoefenen.
 
@@ -1609,19 +1634,19 @@ Komen als volgt overeen:
 
 12. In het licht van dit onderzoek neemt de Raad voor de Handel in Goederen bij consensus de door hem dienstig geachte besluiten tot handhaving van het evenwicht tussen rechten en plichten zoals in deze Overeenkomst voorzien. Voor de regeling van geschillen over de in artikel 7 bedoelde kwesties, kan het Orgaan Geschillenbeslechting een aanpassing toestaan van artikel 2, lid 14, voor de fase die op het onderzoek volgt, onverminderd de in artikel 9 genoemde einddatum, ten aanzien van alle Leden waarvan wordt vastgesteld dat zij hun verplichtingen op grond van deze Overeenkomst niet nakomen.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze Overeenkomst en alle beperkingen op grond van deze Overeenkomst worden beëindigd op de eerste dag van de 121e maand dat de WTO-Overeenkomst van kracht is, op welke dag de textiel- en kledingsector volledig in de GATT 1994 zal zijn geïntegreerd. Deze Overeenkomst kan niet worden verlengd.
 
-#### 1
+##### 1
 
 Deze bijlage geeft de lijst van textiel- en kledingprodukten volgens de zescijfercodes van het Geharmoniseerde Systeem voor de Omschrijving en Codering van Goederen (GS).
 
-#### 2
+##### 2
 
 Maatregelen op grond van de vrijwaringsbepalingen van artikel 6 worden ten aanzien van bepaalde textiel- en kledingprodukten genomen en niet noodzakelijkerwijs ten aanzien van een bepaalde GS-post.
 
-#### 3
+##### 3
 
 Maatregelen op grond van de vrijwaringsbepalingen van artikel 6 van de Overeenkomst zijn niet van toepassing op:
 
@@ -1651,7 +1676,7 @@ Erkennende dat de ontwikkelingslanden bijzondere moeilijkheden kunnen ondervinde
 
 Zijn de Leden het volgende overeengekomen:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1.1. De algemene termen in verband met de normalisatie en de conformiteitsbeoordelingsprocedures hebben normaliter de betekenis die daaraan is gegeven in de definities die in het kader van het systeem van de Verenigde Naties en door de internationale normalisatie-instellingen zijn aangenomen, met inachtneming van het verband waarin zij voorkomen en met het doel van deze Overeenkomst.
 
@@ -1667,7 +1692,7 @@ Zijn de Leden het volgende overeengekomen:
 
 ### TECHNISCHE VOORSCHRIFTEN EN NORMEN
 
-#### Artikel 2. Opstellen, aannemen en toepassen van technische voorschriften door centrale overheidsorganen
+##### Artikel 2. Opstellen, aannemen en toepassen van technische voorschriften door centrale overheidsorganen
 
 Wat hun centrale overheidsorganen betreft:
 
@@ -1709,7 +1734,7 @@ Wat hun centrale overheidsorganen betreft:
 
 2.12. Behalve in de spoedeisende omstandigheden bedoeld in artikel 10 nemen de Leden een redelijke termijn in acht tussen de bekendmaking van een technisch voorschrift en de inwerkingtreding daarvan, ten einde de producenten in de exporterende Leden, in het bijzonder de Leden die ontwikkelingslanden zijn, voldoende gelegenheid te geven hun produkten of produktiemethoden aan de eisen van het importerende Lid aan te passen.
 
-#### Artikel 3. Opstellen, aannemen en toepassing van technische voorschriften door lokale overheidsorganen en niet-gouvernementele organen
+##### Artikel 3. Opstellen, aannemen en toepassing van technische voorschriften door lokale overheidsorganen en niet-gouvernementele organen
 
 Wat de lokale overheidsorganen en de niet-gouvernementele organen op hun grondgebied betreft:
 
@@ -1723,7 +1748,7 @@ Wat de lokale overheidsorganen en de niet-gouvernementele organen op hun grondge
 
 3.5. Dragen de Leden uit hoofde van deze Overeenkomst de volledige verantwoordelijkheid voor de naleving van alle bepalingen van artikel 2. De Leden verbinden zich ertoe positieve maatregelen en mechanismen ter bevordering van de naleving van artikel 2 door andere dan centrale overheidsorganen vast te stellen en ten uitvoer te leggen.
 
-#### Artikel 4. Opstellen, aannemen en toepassing van normen
+##### Artikel 4. Opstellen, aannemen en toepassing van normen
 
 4.1. De Leden dragen zorg dat de onder hun centrale overheid ressorterende normalisatie-instellingen de in bijlage 3 bij deze Overeenkomst opgenomen praktijkrichtlijn voor het opstellen, het aannemen en de toepassing van normen (hierna „praktijkrichtlijn" genoemd) aanvaarden en naleven. Zij nemen alle hun ter beschikking staande redelijke maatregelen om ervoor te zorgen dat onder de lokale autoriteiten ressorterende normalisatie-instellingen en niet-gouvernementele normalisatie-instellingen op hun grondgebied alsmede de regionale normalisatie-instellingen waarvan zij of één of meer organen op hun grondgebied lid zijn, deze praktijkrichtlijn aanvaarden en naleven. Voorts nemen de Leden geen maatregelen die dergelijke normalisatie-instellingen direct of indirect ertoe verplichten of bewegen te handelen op een wijze die onverenigbaar is met de praktijkrichtlijn. De verplichtingen van de Leden met betrekking tot de naleving van de praktijkrichtlijn door normalisatie-instellingen zijn van toepassing ongeacht of een normalisatie-instelling de praktijkrichtlijn heeft aanvaard of niet.
 
@@ -1731,7 +1756,7 @@ Wat de lokale overheidsorganen en de niet-gouvernementele organen op hun grondge
 
 ### OVEREENSTEMMING MET TECHNISCHE VOORSCHRIFTEN EN NORMEN
 
-#### Artikel 5. Procedures voor het beoordelen van de conformiteit door centrale overheidsorganen
+##### Artikel 5. Procedures voor het beoordelen van de conformiteit door centrale overheidsorganen
 
 5.1. De Leden dragen zorg dat wanneer een uitdrukkelijke bevestiging van de overeenstemming met technische voorschriften of normen vereist is, hun centrale overheidsorganen ten aanzien van produkten van oorsprong uit het grondgebied van andere Leden de hiernavolgende bepalingen toepassen:
 
@@ -1785,7 +1810,7 @@ Wat de lokale overheidsorganen en de niet-gouvernementele organen op hun grondge
 
 5.9. Behalve in de in lid 7 bedoelde dringende gevallen nemen de Leden een redelijke termijn in acht tussen het bekendmaken van de vereisten in verband met de conformiteitsbeoordelingsprocedure en de inwerkingtreding daarvan ten einde de producenten in de exporterende Leden, in het bijzonder de Leden die ontwikkelingslanden zijn, voldoende tijd te geven om hun produkten of produktiemethoden aan de eisen van het importerende Lid aan te passen.
 
-#### Artikel 6. Erkenning van de conformiteitsbeoordeling door organen van de centrale overheid
+##### Artikel 6. Erkenning van de conformiteitsbeoordeling door organen van de centrale overheid
 
 Wat de organen van hun centrale overheid betreft:
 
@@ -1801,7 +1826,7 @@ Wat de organen van hun centrale overheid betreft:
 
 6.4. De Leden worden ertoe aangemoedigd de op het grondgebied van andere Leden gevestigde organen die bevoegd zijn voor het beoordelen van de conformiteit, aan hun conformiteitsbeoordelingsprocedures te laten deelnemen onder voorwaarden die niet minder gunstig zijn dan die welke aan de op hun grondgebied of op het grondgebied van enig ander land gevestigde organen worden toegekend.
 
-#### Artikel 7. Procedures voor het beoordelen van de conformiteit door lokale overheidsorganen
+##### Artikel 7. Procedures voor het beoordelen van de conformiteit door lokale overheidsorganen
 
 Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
@@ -1815,13 +1840,13 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 7.5. De Leden dragen bij de tenuitvoerlegging van deze Overeenkomst de volledige verantwoordelijkheid voor de naleving van alle bepalingen van de artikelen 5 en 6. De Leden zullen positieve maatregelen en mechanismen tot stand brengen en ten uitvoer leggen ten einde de naleving van het bepaalde in de artikelen 5 en 6 door andere dan centrale overheidsorganen te bevorderen.
 
-#### Artikel 8. Door niet-gouvernementele organen toegepaste procedures voor het beoordelen van de conformiteit
+##### Artikel 8. Door niet-gouvernementele organen toegepaste procedures voor het beoordelen van de conformiteit
 
 8.1. De Leden nemen alle hun ter beschikking staande redelijke maatregelen om ervoor te zorgen dat niet-gouvernementele organen op hun grondgebied die conformiteitsbeoordelingsprocedures toepassen de artikelen 5 en 6 naleven, met uitzondering van de verplichting tot kennisgeving van voorgestelde conformiteitsbeoordelingsprocedures. Bovendien nemen de Leden geen maatregelen die dergelijke organen direct of indirect ertoe verplichten of bewegen te handelen op een wijze die onverenigbaar is met de bepalingen van de artikelen 5 en 6.
 
 8.2. De Leden zien er op toe dat hun centrale overheidsorganen de door niet-gouvernementele organen toegepaste conformiteitsbeoordelingsprocedures enkel gebruiken indien laatstgenoemde organen de bepalingen van de artikelen 5 en 6 naleven, met uitzondering van de verplichting tot kennisgeving van voorgestelde conformiteitsbeoordelings- procedures.
 
-#### Artikel 9. Internationale en regionale systemen
+##### Artikel 9. Internationale en regionale systemen
 
 9.1. Wanneer een uitdrukkelijke bevestiging van conformiteit met een technisch voorschrift of een norm vereist is, dienen de leden, voor zover dit in de praktijk uitvoerbaar is, internationale systemen voor conformiteitsbeoordeling tot stand te brengen en te aanvaarden, waarvan zij lid worden of waaraan zij deelnemen.
 
@@ -1831,7 +1856,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 ### INFORMATIE EN BIJSTAND
 
-#### Artikel 10. Informatie betreffende technische voorschriften, normen en conformiteitsbeoordelingsprocedures
+##### Artikel 10. Informatie betreffende technische voorschriften, normen en conformiteitsbeoordelingsprocedures
 
 10.1. Ieder Lid zorgt voor een informatiepunt dat alle redelijke verzoeken om inlichtingen van andere Leden en belanghebbenden in andere Leden kan beantwoorden en dat relevante documenten kan verschaffen met betrekking tot:
 
@@ -1879,7 +1904,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 10.11. Indien evenwel om wettelijke of administratieve redenen de verantwoordelijkheid voor kennisgevingsprocedures door twee of meer centrale overheidsinstanties gedeeld wordt, verschaft het betrokken Lid de andere Leden volledige en duidelijke informatie over het gebied waarvoor elk van deze instanties verantwoordelijk is.
 
-#### Artikel 11. Technische bijstand aan andere Leden
+##### Artikel 11. Technische bijstand aan andere Leden
 
 11.1. De Leden verstrekken de andere Leden, in het bijzonder de Leden die ontwikkelingslanden zijn, op verzoek advies omtrent het opstellen van technische voorschriften.
 
@@ -1901,7 +1926,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 11.8. Bij het verstrekken van advies en technische bijstand aan andere Leden, overeenkomstig het bepaalde in de leden 1 tot en met 7, geven de Leden voorrang aan de behoeften van Leden die minstontwikkelde landen zijn.
 
-#### Artikel 12. Bijzondere en gedifferentieerde behandeling van Leden die ontwikkelingslanden zijn
+##### Artikel 12. Bijzondere en gedifferentieerde behandeling van Leden die ontwikkelingslanden zijn
 
 12.1. De Leden verlenen de Leden die ontwikkelingslanden zijn een gedifferentieerde en gunstiger behandeling door de toepassing van de hiernavolgende bepalingen en van de relevante bepalingen van andere artikelen van deze Overeenkomst.
 
@@ -1925,7 +1950,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 ### INSTELLINGEN, OVERLEG EN GESCHILLENBESLECHTING
 
-#### Artikel 13. De Commissie technische handelsbelemmeringen
+##### Artikel 13. De Commissie technische handelsbelemmeringen
 
 13.1. Er wordt een Commissie technische handelsbelemmeringen ingesteld, bestaande uit vertegenwoordigers van elk der Leden. De Commissie kiest haar Voorzitter en komt zo dikwijls bijeen als nodig is, doch ten minste éénmaal per jaar, ten einde de Leden de gelegenheid te geven met elkaar van gedachten te wisselen over alle zaken die verband houden met de werking van deze Overeenkomst of het bevorderen van de doelstellingen daarvan en vervult de taken waarmee zij ingevolge deze Overeenkomst of door de Leden wordt belast.
 
@@ -1933,7 +1958,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 13.3. Er bestaat overeenstemming over de noodzaak alle onnodige doublures tussen de uit deze Overeenkomst voortvloeiende werkzaamheden en die welke door de overheidsdiensten in andere technische organen worden uitgevoerd te vermijden. De Commissie onderzoekt dit probleem ten einde dergelijke doublures tot een minimum te beperken.
 
-#### Artikel 14. Overleg en geschillenbeslechting
+##### Artikel 14. Overleg en geschillenbeslechting
 
 14.1. Het overleg en de geschillenbeslechting met betrekking tot alle zaken die verband houden met de werking van deze Overeenkomst vinden onder auspiciën van het Orgaan voor geschillenbeslechting plaats overeenkomstig, mutatis mutandis, de bepalingen van de artikelen XXII en XXIII van de GATT 1994, zoals deze zijn uitgelegd in en worden uitgevoerd door het Memorandum van Overeenstemming inzake de regels en procedures voor geschillenbeslechting.
 
@@ -1945,7 +1970,7 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 ### SLOTBEPALINGEN
 
-#### Artikel 15. Slotbepalingen
+##### Artikel 15. Slotbepalingen
 
 15.1. Zonder toestemming van de andere Leden mag geen voorbehoud worden gemaakt ten aanzien van de bepalingen van deze Overeenkomst.
 
@@ -1959,45 +1984,45 @@ Ten aanzien van de op hun grondgebied gevestigde lokale overheidsorganen:
 
 ### Algemene bepalingen
 
-#### A
+##### A
 
 Voor de toepassing van deze praktijkrichtlijn gelden de in Bijlage 1 bij deze Overeenkomst opgenomen definities.
 
-#### B
+##### B
 
 Deze praktijkrichtlijn kan worden aanvaard door alle op het grondgebied van een Lid van de WTO gevestigde normalisatie-instellingen, zowel organen van de centrale als van de lokale overheid en niet-gouvernementele organen, door alle regionale normalisatie-instellingen van de overheid waarvan een of meer leden Lid zijn van de WTO en door alle niet-gouvernementele regionale normalisatie-instellingen waarvan een of meer leden op het grondgebied van een Lid van de WTO gevestigd zijn (in deze praktijkrichtlijn collectief als „normalisatie-instellingen en individueel als de „normalisatie-instelling” aangeduid).
 
-#### C
+##### C
 
 Normalisatie-instellingen die deze praktijkrichtlijn aanvaarden of zich daarvan distantiëren geven hiervan kennis aan het ISO/IEC Informatiecentrum te Genève. Deze kennisgeving omvat de naam en het adres van de betrokken instelling en de reikwijdte van haar huidige en voorgenomen normalisatie-activiteiten. De kennisgeving wordt, al naar gelang van het geval, rechtstreeks aan het ISO/IEC Informatiecentrum toegezonden dan wel via de nationale instelling die lid is van de ISO/IEC of, bij voorkeur, via de bevoegde nationale instelling die lid is van ISONET of via de bevoegde internationale instelling die lid is van ISONET.
 
 ### Materiële bepalingen
 
-#### D
+##### D
 
 Wat de normen betreft, verleent de normalisatie-instelling voor produkten van oorsprong uit het grondgebied van een ander Lid van de WTO geen minder gunstige behandeling dan die welke wordt toegekend aan soortgelijke produkten van nationale oorsprong en soortgelijke produkten van oorsprong uit andere landen.
 
-#### E
+##### E
 
 De normalisatie-instelling ziet er op toe dat het opstellen, het aannemen of de toepassing van normen niet ten doel noch ten gevolge hebben dat onnodige belemmeringen voor het internationale handelsverkeer ontstaan.
 
-#### F
+##### F
 
 Wanneer internationale normen bestaan of op zeer korte termijn tot stand zullen worden gebracht, gebruikt de normalisatie-instelling deze normen, of althans de relevante delen daarvan, als grondslag voor de normen die zij opstelt, behalve wanneer dergelijke internationale normen of de relevante delen daarvan ondoeltreffend of ongeschikt zouden zijn, bijvoorbeeld omdat zij onvoldoende bescherming bieden of wegens fundamentele klimatologische of geografische omstandigheden of fundamentele technologische problemen.
 
-#### G
+##### G
 
 Ten einde de normen op een zo ruim mogelijke grondslag te harmoniseren neemt de normalisatie-instelling op passende wijze en binnen de grenzen van haar mogelijkheden volledig deel aan het opstellen, door de ter zake bevoegde internationale normalisatie-instellingen, van internationele normen met betrekking tot de materie waarvoor zij normen heeft goedgekeurd of voornemens is dit te doen. De deelneming van de op het grondgebied van een Lid gevestigde normalisatie-instellingen aan een specifieke internationale normalisatie-activiteit geschiedt zoveel mogelijk via een enkele delegatie die alle op dat grondgebied gevestigde normalisatie-instellingen vertegenwoordigt die normen hebben aanvaard voor de materie waarop de internationale normalisatie-activiteit betrekking heeft of die voornemens zijn dit te doen.
 
-#### H
+##### H
 
 Een op het grondgebied van een Lid gevestigde normalisatie-instelling doet al het mogelijke om doublures of overlappingen met de werkzaamheden van andere normalisatie-instellingen op het nationale grondgebied of met de werkzaamheden van bevoegde internationale of regionale normalisatie-instellingen te vermijden. Voorts stellen zij alles in het werk om een nationale consensus te bereiken over de normen die zij opstellen. De regionale normalisatie-instelling doet eveneens al het mogelijke om doublures of overlappingen met de werkzaamheden van bevoegde internationale normalisatie-instellingen te vermijden.
 
-#### I
+##### I
 
 In alle daarvoor in aanmerking komende gevallen neemt de normalisatie-instelling bij het formuleren van op de produktvereisten gebaseerde normen de werking van het produkt als uitgangspunt, veeleer dan het ontwerp of de beschrijving daarvan.
 
-#### J
+##### J
 
 Ten minste éénmaal per halfjaar publiceert de normalisatie-instelling een werkprogramma waarin haar naam en adres zijn vermeld, evenals de normen die op dat ogenblik in voorbereiding zijn en de normen die zij in de voorafgaande periode heeft aangenomen. Een norm wordt geacht in voorbereiding te zijn vanaf het ogenblik waarop het besluit tot vaststelling daarvan is genomen tot het ogenblik waarop hij wordt aangenomen. De titels van specifieke ontwerpnormen worden op verzoek in het Engels, het Frans of het Spaans bekendgemaakt. Het bestaan van het werkprogramma wordt in een nationale of, in voorkomend geval, regionale publikatie inzake normalisatie-activiteiten bekendgemaakt.
 
@@ -2005,31 +2030,31 @@ Het werkprogramma vermeldt voor elke norm, overeenkomstig de ISONET-voorschrifte
 
 In deze kennisgeving worden de naam en het adres van de normalisatie-instelling vermeld evenals de naam en het nummer van de publicatie waarin het werkprogramma is bekendgemaakt, de periode waarop dit betrekking heeft, de prijs van deze publikatie (indien niet gratis beschikbaar) alsmede de wijze waarop en de plaats waar zij kan worden verkregen. De kennisgeving kan rechtstreeks aan het ISO/IEC Informatiecentrum worden toegezonden, dan wel, bij voorkeur, via het bevoegde nationale orgaan dat lid is van ISONET of het bevoegde internationale orgaan dat bij ISONET is aangesloten, al naar gelang van het geval.
 
-#### K
+##### K
 
 De nationale instelling die lid is van de ISO/IEC stelt alles in het werk om lid te worden van ISONET of om een andere instelling als lid aan te wijzen en, wat dit lidmaatschap betreft, de voor het ISONET-lid hoogst mogelijke status te bereiken. Andere normalisatie-instellingen doen al het mogelijke om zich met het ISONET-lid te associëren.
 
-#### L
+##### L
 
 Voor zij een norm goedkeuren nemen de normalisatie-instellingen een termijn van ten minste 60 dagen in acht waarbinnen de op het grondgebied van een Lid van de WTO gevestigde belanghebbenden commentaar kunnen geven op de ontwerp-norm. Deze termijn kan evenwel worden bekort indien zich dringende problemen voordoen of dreigen voor te doen in verband met de veiligheid, de gezondheid of het milieu. Uiterlijk op de datum waarop de termijn voor het leveren van commentaar ingaat, neemt de normalisatie-instelling in de in lid J bedoelde publicatie een bericht op waarin zij deze termijn aankondigt. In dit bericht wordt, indien mogelijk, aangegeven of de ontwerp-norm van de overeenkomstige internationale normen afwijkt.
 
-#### M
+##### M
 
 M. Op verzoek van een op het grondgebied van een Lid van de WTO gevestigde belanghebbende doet de normalisatie-instelling deze onmiddellijk een exemplaar van de voor commentaar voorgelegde ontwerp-norm toekomen of zorgt zij ervoor dat de belanghebbende een dergelijk exemplaar ontvangt. Voor deze dienst wordt van buitenlandse en binnenlandse belanghebbenden, afgezien van de werkelijke verzendingskosten, dezelfde vergoeding gevraagd.
 
-#### N
+##### N
 
 Bij de verdere uitwerking van de norm houdt de normalisatie-instelling rekening met de commentaar die zij gedurende de daarvoor vastgestelde termijn ontvangt. Commentaar die wordt ontvangen via normalisatie-instellingen die deze praktijkrichtlijn hebben aanvaard, wordt desgevraagd zo spoedig mogelijk beantwoord. In het antwoord dient te worden aangegeven om welke redenen een afwijking van de desbetreffende internationale normen noodzakelijk is.
 
-#### O
+##### O
 
 Zodra de norm is aangenomen, wordt deze gepubliceerd.
 
-#### P
+##### P
 
 Op verzoek van een op het grondgebied van een Lid van de WTO gevestigde belanghebbende doet de normalisatie-instelling deze ten spoedigste een exemplaar van haar meest recente werkprogramma of van een door haar opgestelde norm toekomen of zorgt zij ervoor dat de betrokken belanghebbende dergelijk exemplaar ontvangt. Buitenlandse en binnenlandse belanghebbenden betalen voor deze dienst, afgezien van de werkelijke verzendingskosten, dezelfde vergoeding.
 
-#### Q
+##### Q
 
 De normalisatie-instelling neemt alle commentaar ten aanzien van de toepassing van deze praktijkrichtlijn die naar voren wordt gebracht door normalisatie-instellingen die deze praktijkrichtlijn hebben aanvaard welwillend in overweging en biedt voldoende gelegenheid voor overleg daaromtrent. Zij behandelt alle klachten op objectieve wijze.
 
@@ -2043,25 +2068,25 @@ Erkennende dat bepaalde investeringsmaatregelen een handelsbeperkend en -verstor
 
 Zijn de Leden het volgende overeengekomen:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 Deze Overeenkomst is uitsluitend van toepassing op investeringsmaatregelen die betrekking hebben op de handel in goederen (in deze Overeenkomst „TRIMs” genoemd).
 
-#### Artikel 2. Nationale behandeling en kwantitatieve beperkingen
+##### Artikel 2. Nationale behandeling en kwantitatieve beperkingen
 
 1. Onverminderd de andere uit de GATT 1994 voortvloeiende rechten en verplichtingen passen de Leden geen TRIMs toe die onverenigbaar zijn met de bepalingen van artikel III of artikel XI van de GATT 1994.
 
 2. In de bijlage bij deze Overeenkomst is een enuntiatieve lijst opgenomen van de TRIMs die onverenigbaar zijn met de verplichting tot nationale behandeling bedoeld in artikel III, lid 4 van GATT 1994 en de verplichting tot algemene afschaffing van kwantitatieve beperkingen bedoeld in artikel XI, lid 1 van GATT 1994.
 
-#### Artikel 3. Uitzonderingen
+##### Artikel 3. Uitzonderingen
 
 Alle in de GATT 1994 vastgestelde uitzonderingen zijn, al naar gelang van het geval, van toepassing op de bepalingen van deze Overeenkomst.
 
-#### Artikel 4. Leden die ontwikkelingslanden zijn
+##### Artikel 4. Leden die ontwikkelingslanden zijn
 
 Een Lid dat een ontwikkelingsland is, mag tijdelijk van de bepalingen van artikel 2 afwijken in de mate en op de wijze als bedoeld in artikel XVIII van GATT 1994, het Memorandum van overeenstemming betreffende de betalingsbalansbepalingen van de GATT 1994 en de Verklaring inzake maatregelen ter bescherming van de betalingsbalans van 28 november 1979 (BISD 26S/205-209), waarbij een Lid wordt gemachtigd van de bepalingen van de artikelen III en XI van de GATT 1994 af te wijken.
 
-#### Artikel 5. Kennisgeving en overgangsregelingen
+##### Artikel 5. Kennisgeving en overgangsregelingen
 
 1. Binnen 90 dagen, te rekenen vanaf de datum van inwerkingtreding van de WTO-Overeenkomst, geven de Leden de Raad voor de handel in goederen kennis van alle door hen toegepaste TRIMs die niet verenigbaar zijn met de bepalingen van deze Overeenkomst. Dergelijke TRIMs, hetzij van algemene, hetzij van specifieke aard, worden bekendgemaakt, evenals de belangrijkste kenmerken daarvan1)Wanneer TRIMs in het kader van een discretionaire bevoegdheid worden toegepast, wordt elke specifieke toepassing bekendgemaakt. Informatie die de legitieme handelsbelangen van bepaalde ondernemingen zou schaden, behoeft niet openbaar te worden gemaakt..
 
@@ -2073,7 +2098,7 @@ Een Lid dat een ontwikkelingsland is, mag tijdelijk van de bepalingen van artike
 
 5. Onverminderd het bepaalde in artikel 2 mag een Lid, ten einde gevestigde ondernemingen waarop een overeenkomstig lid 1 bekendgemaakte TRIM van toepassing is niet te benadelen, gedurende de overgangsperiode dezelfde TRIM op een nieuwe investering toepassen (i) indien de produkten die het resultaat zijn van deze investering vergelijkbaar zijn met die van de gevestigde ondernemingen, en (ii) wanneer zulks noodzakelijk is om te voorkomen dat de mededingingsverhoudingen tussen de nieuwe investering en de gevestigde ondernemingen worden verstoord. TRIMs die aldus op een nieuwe investering worden toegepast, worden de Raad voor de handel in goederen ter kennis gebracht. Dergelijke TRIMs hebben dezelfde gevolgen voor de concurrentieverhoudingen als die welke op de gevestigde ondernemingen van toepassing zijn en worden op hetzelfde tijdstip beëindigd.
 
-#### Artikel 6. Doorzichtigheid
+##### Artikel 6. Doorzichtigheid
 
 1. De Leden bevestigen, wat de TRIMs betreft, dat zij de verplichtingen inzake doorzichtigheid en kennisgeving zullen naleven die voortvloeien uit artikel X van de GATT 1994, de verbintenis inzake kennisgeving die in het op 28 november 1979 aangenomen Memorandum van Overeenstemming inzake Kennisgeving, Overleg, Geschillenbeslechting en Toezicht is opgenomen en de Ministeriële beschikking van 15 april 1994 inzake de kennisgevingsprocedures.
 
@@ -2081,7 +2106,7 @@ Een Lid dat een ontwikkelingsland is, mag tijdelijk van de bepalingen van artike
 
 3. Elk Lid neemt verzoeken om informatie in welwillende overweging en geeft voldoende gelegenheid tot overleg over alle uit deze Overeenkomst voortvloeiende problemen die door een ander Lid aan de orde worden gesteld. Ingevolge artikel X van de GATT 1994 is een Lid niet verplicht gegevens bekend te maken die de rechtshandhaving zouden belemmeren of anderszins strijdig zouden zijn met het algemeen belang of die de legitieme handelsbelangen van bepaalde ondernemingen, zowel overheidsondernemingen als particuliere ondernemingen, zouden schaden.
 
-#### Artikel 7. Commissie voor met de handel verband houdende investeringsmaatregelen
+##### Artikel 7. Commissie voor met de handel verband houdende investeringsmaatregelen
 
 1. Er wordt een Commissie voor met de handel verband houdende investeringsmaatregelen (in deze Overeenkomst „Commissie" genoemd) ingesteld waarin alle Leden zitting kunnen nemen. De Commissie kiest haar Voorzitter en Vice-voorzitter en komt ten minste éénmaal per jaar bijeen, evenals op verzoek van een Lid.
 
@@ -2089,21 +2114,21 @@ Een Lid dat een ontwikkelingsland is, mag tijdelijk van de bepalingen van artike
 
 3. De Commissie houdt toezicht op de werking en de tenuitvoerlegging van deze Overeenkomst en doet daarvan jaarlijks verslag aan de Raad voor de handel in goederen.
 
-#### Artikel 8. Overleg en geschillenbeslechting
+##### Artikel 8. Overleg en geschillenbeslechting
 
 De bepalingen van de artikelen XXII en XXIII van GATT 1994, zoals deze zijn uitgelegd in en worden toegepast door het Memorandum van overeenstemming inzake de regels en procedures voor geschillenbeslechting, zijn van toepassing op het overleg en de beslechting van geschillen in het kader van deze Overeenkomst.
 
-#### Artikel 9. Onderzoek door de Raad voor de handel in goederen
+##### Artikel 9. Onderzoek door de Raad voor de handel in goederen
 
 Uiterlijk vijf jaar na de datum van inwerkingtreding van de WTO-Overeenkomst stelt de Raad voor de handel in goederen een onderzoek in naar de werking van deze Overeenkomst en stelt hij de ministerconferentie indien nodig wijzigingen voor. Bij dit onderzoek gaat de Raad voor de handel in goederen na of de Overeenkomst dient te worden aangevuld met bepalingen betreffende het investeringsbeleid en het mededingingsbeleid.
 
 ## DEEL I
 
-#### Artikel 1. Beginselen
+##### Artikel 1. Beginselen
 
 Anti-dumpingmaatregelen worden uitsluitend genomen in de omstandigheden bedoeld in artikel VI van de GATT 1994 nadat overeenkomstig het bepaalde in deze Overeenkomst een onderzoek is geopend1)Onder „geopend” wordt hierna verstaan de procedurele handeling waarmee een Lid formeel een in artikel 5 bedoeld onderzoek begint. en uitgevoerd. Wanneer maatregelen worden getroffen uit hoofde van de anti-dumpingwetgeving of -voorschriften geven de hiernavolgende bepalingen uitvoering aan artikel VI van de GATT 1994.
 
-#### Artikel 2. Vaststelling van dumping
+##### Artikel 2. Vaststelling van dumping
 
 2.1. Voor de toepassing van deze Overeenkomst wordt een produkt geacht met dumping te zijn ingevoerd, met andere woorden in een ander land op de markt te zijn gebracht tegen een prijs die lager is dan zijn normale waarde, indien de prijs van dit produkt bij uitvoer naar een ander land lager is dan de vergelijkbare prijs, in het kader van normale handelstransacties, van het soortgelijke produkt dat voor verbruik in het land van uitvoer is bestemd.
 
@@ -2135,7 +2160,7 @@ Anti-dumpingmaatregelen worden uitsluitend genomen in de omstandigheden bedoeld 
 
 2.7. Dit artikel doet geen afbreuk aan de tweede aanvullende bepaling bij artikel VI, lid 1, in bijlage I bij de GATT 1994.
 
-#### Artikel 3. Vaststelling van schade1)In deze overeenkomst wordt onder ,,schade’’, tenzij anders bepaald, verstaan aanmerkelijke schade die een binnenlandse bedrijfstak lijdt, aanmerkelijke schade die een binnenlandse bedrijfstak dreigt te lijden of de aanmerkelijk vertraging van de vestiging van een binnenlandse bedrijfstak en wordt dit begrip overeenkomstig de bepalingen van dit artikel geïnterpreteerd.
+##### Artikel 3. Vaststelling van schade1)In deze overeenkomst wordt onder ,,schade’’, tenzij anders bepaald, verstaan aanmerkelijke schade die een binnenlandse bedrijfstak lijdt, aanmerkelijke schade die een binnenlandse bedrijfstak dreigt te lijden of de aanmerkelijk vertraging van de vestiging van een binnenlandse bedrijfstak en wordt dit begrip overeenkomstig de bepalingen van dit artikel geïnterpreteerd.
 
 3.1. Voor de toepassing van artikel VI van de GATT 1994 wordt de vaststelling van schade gebaseerd op positief bewijsmateriaal en houdt deze vaststelling een objectief onderzoek in van a. de omvang van de invoer met dumping en de gevolgen daarvan voor de prijzen van het soortgelijke produkt op de binnenlandse markt, en b. de gevolgen van deze invoer voor de binnenlandse producenten van deze produkten.
 
@@ -2163,7 +2188,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 3.8. In de gevallen waarin invoer met dumping schade dreigt te veroorzaken, wordt het besluit om anti-dumpingmaatregelen te nemen zorgvuldig overwogen.
 
-#### Artikel 4. Omschrijving van het begrip „binnenlandse bedrijfstak”
+##### Artikel 4. Omschrijving van het begrip „binnenlandse bedrijfstak”
 
 4.1. In de zin van deze overeenkomst wordt onder „binnenlandse bedrijfstak” verstaan de gezamenlijke binnenlandse producenten van de soortgelijke produkten of dat deel van de binnenlandse producenten wier gezamenlijke produktie van de betrokken produkten een groot deel van de totale binnenlandse produktie van die produkten uitmaakt. Indien het echter gaat om
 
@@ -2177,7 +2202,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 4.4. Het bepaalde in artikel 3, lid 6, is van toepassing op dit artikel.
 
-#### Artikel 5. Opening en uitvoering van het onderzoek
+##### Artikel 5. Opening en uitvoering van het onderzoek
 
 5.1. Behoudens het bepaalde in lid 6, wordt een onderzoek naar het bestaan, de mate en de gevolgen van dumping geopend naar aanleiding van een schriftelijk verzoek van of namens de binnenlandse bedrijfstak.
 
@@ -2207,7 +2232,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 5.10. Een onderzoek wordt, behoudens uitzonderlijke omstandigheden, binnen een jaar na de opening afgesloten en mag in geen geval langer dan 18 maanden duren.
 
-#### Artikel 6. Bewijs
+##### Artikel 6. Bewijs
 
 6.1. Belanghebbenden bij een anti-dumpingonderzoek worden in kennis gesteld van de informatie die de autoriteiten wensen te ontvangen en krijgen ruimschoots gelegenheid om het bewijsmateriaal dat zij voor het betrokken onderzoek van belang achten schriftelijk voor te leggen.
 
@@ -2259,7 +2284,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 6.14. De hierboven omschreven procedures hebben niet ten doel de autoriteiten van een Lid te beletten zo snel mogelijk te handelen bij het openen van een onderzoek, het trekken van voorlopige of definitieve conclusies in zowel positieve als negatieve zin, of het nemen van voorlopige of definitieve maatregelen, overeenkomstig de bepalingen van deze Overeenkomst.
 
-#### Artikel 7. Voorlopige maatregelen
+##### Artikel 7. Voorlopige maatregelen
 
 7.1. Voorlopige maatregelen mogen uitsluitend worden toegepast indien:
 
@@ -2277,7 +2302,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 7.5. Wanneer voorlopige maatregelen worden genomen zijn de desbetreffende bepalingen van artikel 9 van toepassing.
 
-#### Artikel 8. Prijsverbintenissen
+##### Artikel 8. Prijsverbintenissen
 
 8.1. Een procedure kan1)Het woord „kan” betekent niet dat de procedure kan worden voortgezet terwijl terzelfder tijd een prijsverbintenis wordt uitgevoerd, behoudens lid 4. worden geschorst of beëindigd zonder dat voorlopige maatregelen worden genomen of anti-dumpingrechten ingesteld, indien een exporteur op vrijwillige basis bevredigende verbintenissen aanbiedt om zijn prijzen te herzien of de export tegen dumpprijzen naar het betrokken gebied stop te zetten, die de autoriteiten ervan overtuigen dat hierdoor een einde zal komen aan de schadelijke gevolgen van dumping. De prijzen worden ingevolge deze verbintenissen niet meer verhoogd dan nodig is om de dumpingmarge te elimineren. Het is wenselijk dat de prijsverhogingen lager zijn dan de dumpingmarge indien deze voldoende zijn om een einde te maken aan de schade die de binnenlandse bedrijfstak lijdt.
 
@@ -2291,7 +2316,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 8.6. De autoriteiten van een importerend Lid kunnen eisen dat een exporteur van wie een verbintenis is aanvaard regelmatig inlichtingen verstrekt in verband met de naleving van deze verbintenis en dat de betreffende gegevens gecontroleerd mogen worden. Bij niet-naleving van een verbintenis kunnen de autoriteiten van het importerende Lid, overeenkomstig de bepalingen van deze Overeenkomst, op korte termijn maatregelen nemen die kunnen bestaan uit de onmiddellijke toepassing van voorlopige maatregelen op grond van de meest betrouwbare gegevens die beschikbaar zijn. In dergelijke gevallen kunnen, overeenkomstig de bepalingen van deze Overeenkomst, definitieve rechten worden geheven op produkten die ten verbruike zijn aangegeven tot ten hoogste 90 dagen vóór de toepassing van deze voorlopige maatregelen, met dien verstande dat een dergelijke heffing achteraf niet mag worden toegepast op produkten die zijn aangegeven voordat de verbintenis werd verbroken.
 
-#### Artikel 9. Instelling en heffing van anti-dumpingrechten
+##### Artikel 9. Instelling en heffing van anti-dumpingrechten
 
 9.1. Het is aan de autoriteiten van het importerende Lid te besluiten of een anti-dumpingrecht al dan niet wordt ingesteld wanneer aan alle eisen voor het instellen van dit recht is voldaan, en of dit recht gelijk is aan de dumpingmarge of lager. Het is wenselijk dat de instelling van het recht facultatief is op het grondgebied van alle Leden en dat het recht lager is dan de dumpingmarge indien dit lagere recht voldoende is om een einde te maken aan de schade die de binnenlandse bedrijfstak lijdt.
 
@@ -2313,7 +2338,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 9.5. Wanneer een importerend Lid op een produkt anti-dumpingrechten heeft ingesteld, stellen de autoriteiten onverwijld een nieuw onderzoek in om de individuele dumpingmarges te bepalen voor alle exporteurs of producenten in het betrokken land van uitvoer die dit produkt gedurende het onderzoektijdvak niet naar het importerende Lid hebben uitgevoerd, mits deze exporteurs of producenten kunnen aantonen dat zij niet geliëerd zijn met één van de exporteurs of producenten in het land van uitvoer waarvoor de op het produkt ingestelde anti-dumpingrechten gelden. Dit nieuwe onderzoek wordt sneller geopend en uitgevoerd dan de normale procedures voor de vaststelling van rechten en de herzieningsprocedures in het importerende Lid. Terwijl het nieuwe onderzoek aan de gang is worden bij invoer van de produkten van deze exporteurs of producenten geen anti-dumpingrechten geheven. De autoriteiten kunnen evenwel de vaststelling van de douanewaarde opschorten en/of verlangen dat zekerheid wordt gesteld om ervoor te zorgen dat, indien een dergelijk nieuw onderzoek tot de conclusie leidt dat de produkten van deze producenten of exporteurs met dumping worden ingevoerd, anti-dumpingrechten kunnen worden geheven met terugwerking tot de datum waarop het nieuwe onderzoek werd geopend.
 
-#### Artikel 10. Terugwerkende kracht
+##### Artikel 10. Terugwerkende kracht
 
 10.1. Voorlopige maatregelen en anti-dumpingrechten worden slechts toegepast op produkten die ten verbruik worden aangegeven, nadat het besluit op grond van artikel 7, lid 1, respectievelijk artikel 9, lid 1, in werking is getreden, behalve in de in dit artikel vermelde uitzonderingsgevallen.
 
@@ -2335,7 +2360,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 10.8. Er worden geen rechten met terugwerkende kracht geheven overeenkomstig artikel 6 op produkten die voor de opening van het onderzoek ten verbruike werden aangegeven.
 
-#### Artikel 11. Duur en herziening van de anti-dumpingrechten en prijsverbintenissen
+##### Artikel 11. Duur en herziening van de anti-dumpingrechten en prijsverbintenissen
 
 11.1. Een anti-dumpingrecht blijft van toepassing zolang en voor zover dit nodig is om de schadeveroorzakende dumping tegen te gaan.
 
@@ -2347,7 +2372,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 11.5. Het bepaalde in dit artikel is van overeenkomstige toepassing op verbintenissen die overeenkomstig artikel 8 zijn aanvaard.
 
-#### Artikel 12. Openbaarmaking en motivering van de vaststellingen
+##### Artikel 12. Openbaarmaking en motivering van de vaststellingen
 
 12.1. Indien de autoriteiten ervan overtuigd zijn dat er voldoende bewijsmateriaal is om, overeenkomstig artikel 5, een onderzoek te openen, wordt dit medegedeeld aan het Lid of de Leden waarvan de produkten onderzocht zullen worden en aan andere partijen waarvan de met het onderzoek belaste autoriteiten weten dat zij belang hebben bij het onderzoek. Tevens wordt een bericht gepubliceerd.
 
@@ -2385,11 +2410,11 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 12.3. Dit artikel is van overeenkomstige toepassing op de opening en voltooiing van herzieningsonderzoeken op grond van artikel 11 en op besluiten tot toepassing van rechten met terugwerkende kracht op grond van artikel 10.
 
-#### Artikel 13. Rechterlijk toezicht
+##### Artikel 13. Rechterlijk toezicht
 
 Een Lid waarvan de nationale wetgeving bepalingen over anti-dumpingrechten bevat, handhaaft de rechtbanken, scheidsgerechten of administratieve rechtbanken of procedures die onder andere ten doel hebben de administratieve maatregelen ten aanzien van definitieve vaststellingen en herzieningsonderzoeken in de zin van artikel 11 terstond te onderzoeken. Deze rechtbanken, gerechten en procedures zijn onafhankelijk van de autoriteiten die voor de betrokken vaststelling of het betrokken herzieningsonderzoek verantwoordelijk zijn.
 
-#### Artikel 14. Anti-dumpingmaatregelen namens een derde land
+##### Artikel 14. Anti-dumpingmaatregelen namens een derde land
 
 14.1. Een verzoek tot het nemen van anti-dumpingmaatregelen namens een derde land moet worden ingediend door de autoriteiten van het derde land dat om de maatregelen verzoekt.
 
@@ -2399,13 +2424,13 @@ Een Lid waarvan de nationale wetgeving bepalingen over anti-dumpingrechten bevat
 
 14.4. Het besluit een procedure al dan niet voort te zetten wordt door het land van invoer genomen. Indien het land van invoer bereid is maatregelen te nemen, wordt het initiatief om de zaak ter goedkeuring aan de Raad voor de handel in goederen voor te leggen door het land van invoer genomen.
 
-#### Artikel 15. Leden die ontwikkelingslanden zijn
+##### Artikel 15. Leden die ontwikkelingslanden zijn
 
 De partijen zijn het erover eens dat de Leden die ontwikkelde landen zijn bij het onderzoek van verzoeken om anti-dumpingmaatregelen overeenkomstig het bepaalde in deze Overeenkomst bijzondere aandacht dienen te besteden aan de bijzondere situatie van de Leden die ontwikkelingslanden zijn. Vóór anti-dumpingrechten worden ingesteld die de wezenlijke belangen van de Leden die ontwikkelingslanden zijn zouden schaden, dient te worden nagegaan of de zaak kan worden geregeld door middel van de constructieve oplossingen waarin deze overeenkomst voorziet.
 
 ## DEEL II
 
-#### Artikel 16. Commissie Anti-dumpingpraktijken
+##### Artikel 16. Commissie Anti-dumpingpraktijken
 
 16.1. Er wordt een Commissie Anti-dumpingpraktijken ingesteld (hierna „Commissie” genoemd) waarin vertegenwoordigers van elk Lid zitting hebben. De Commissie kiest haar voorzitter en komt ten minste twee maal per jaar bijeen en, overeenkomstig de bepalingen van deze Overeenkomst, op verzoek van een Lid. De Commissie voert de taken uit waarmee zij krachtens deze Overeenkomst of door de Leden is belast en stelt de Leden in de gelegenheid overleg te plegen over alle vraagstukken betreffende de toepassing van de Overeenkomst of het bevorderen van de doelstellingen ervan. Het WTO-Secretariaat treedt op als secretariaat van de Commissie.
 
@@ -2417,7 +2442,7 @@ De partijen zijn het erover eens dat de Leden die ontwikkelde landen zijn bij he
 
 16.5. Elk Lid deelt de Commissie mede a. welke van zijn autoriteiten bevoegd zijn het in artikel 5 bedoelde onderzoek te openen en uit te voeren, en b. zijn interne procedures voor de opening en uitvoering van een dergelijk onderzoek.
 
-#### Artikel 17. Overleg en geschillenbeslechting
+##### Artikel 17. Overleg en geschillenbeslechting
 
 17.1. Behoudens andersluidende bepalingen in deze Overeenkomst is het Memorandum van overeenstemming inzake de beslechting van geschillen (DSU) van toepassing op het overleg en de beslechting van geschillen in het kader van deze Overeenkomst.
 
@@ -2443,7 +2468,7 @@ De partijen zijn het erover eens dat de Leden die ontwikkelde landen zijn bij he
 
 ## DEEL III
 
-#### Artikel 18. Slotbepalingen
+##### Artikel 18. Slotbepalingen
 
 18.1. Specifieke maatregelen tegen invoer met dumping uit een ander Lid kunnen uitsluitend worden genomen overeenkomstig de bepalingen van de GATT 1994 zoals bij deze Overeenkomst geïnterpreteerdDeze bepaling vormt geen beletsel voor het nemen van maatregelen uit hoofde van andere relevante bepalingen van de GATT 1994.
 
@@ -2463,31 +2488,31 @@ De partijen zijn het erover eens dat de Leden die ontwikkelde landen zijn bij he
 
 18.7. De bijlagen bij deze Overeenkomst maken daarvan integrerend deel uit.
 
-#### 1
+##### 1
 
 Zo spoedig mogelijk na de opening van het onderzoek geven de met het onderzoek belaste autoriteiten nauwkeurig aan welke gegevens zij van belanghebbenden wensen te ontvangen, evenals de wijze waarop belanghebbenden hun antwoorden dienen te structureren. De autoriteiten zien er bovendien op toe dat belanghebbenden ervan op de hoogte zijn dat, indien de informatie niet binnen een redelijke termijn wordt verstrekt, zij hun vaststellingen kunnen doen op basis van de beschikbare gegevens, met inbegrip van die welke door de binnenlandse bedrijfstak in het verzoek tot opening van het onderzoek zijn verstrekt.
 
-#### 2
+##### 2
 
 De autoriteiten kunnen bovendien verlangen dat een belanghebbende zijn antwoord op een bepaalde drager (bijvoorbeeld magneetband) of in een bepaalde computertaal verstrekt. Wanneer een dergelijk verzoek wordt gedaan, gaan de autoriteiten na of de belanghebbende redelijkerwijze in staat is zijn antwoorden op de gevraagde drager of in de gevraagde computertaal te verstrekken en zij verlangen niet dat deze voor het verstrekken van zijn antwoord een ander dan zijn eigen computersysteem gebruikt. De autoriteiten eisen niet dat het antwoord via de computer wordt verstrekt indien de belanghebbende niet over een geautomatiseerde administratie beschikt en deze wijze van beantwoording van de gestelde vragen een onredelijke extra belasting voor hem zou inhouden, met andere woorden, indien dit onredelijke bijkomende kosten en moeilijkheden zou veroorzaken.
 
-#### 3
+##### 3
 
 Alle controleerbare informatie die zo wordt verstrekt dat zij zonder grote moeilijkheden bij het onderzoek kan worden gebruikt, tijdig ter beschikking wordt gesteld en, in voorkomend geval, op een door de autoriteiten gevraagde drager of in een door de autoriteiten gevraagde computertaal wordt verstrekt, dient bij de vaststellingen in aanmerking te worden genomen. Indien een partij haar antwoord niet op de gewenste drager of in de gewenste computertaal verstrekt, maar de autoriteiten constateren dat aan de in punt 2 gestelde voorwaarden is voldaan, mag dit niet worden beschouwd het onderzoek aanmerkelijk te belemmeren.
 
-#### 4
+##### 4
 
 Wanneer de autoriteiten de op een bepaalde drager (bijvoorbeeld magneetband) verstrekte informatie niet kunnen verwerken, dient deze schriftelijk of in een andere voor de autoriteiten aanvaardbare vorm te worden toegezonden.
 
-#### 5
+##### 5
 
 Het feit dat de verstrekte informatie niet in alle opzichten ideaal is, mag voor de autoriteiten geen reden zijn deze buiten beschouwing te laten, indien de belanghebbende al het nodige heeft gedaan om de best mogelijke informatie te verstrekken.
 
-#### 6
+##### 6
 
 Indien bewijsmateriaal of inlichtingen niet worden aanvaard, dient de partij die deze heeft verstrekt onverwijld in kennis te worden gesteld van de redenen die aan deze afwijzing ten grondslag liggen en dient zij in gelegenheid te worden gesteld binnen een redelijke termijn nadere inlichtingen te verstrekken, waarbij rekening dient te worden gehouden met de termijnen van het onderzoek. Indien de nadere inlichtingen door de autoriteiten ontoereikend worden geacht, dienen de redenen voor de afwijzing van dergelijk bewijsmateriaal of dergelijke informatie te worden vermeld in alle vaststellingen die openbaar worden gemaakt.
 
-#### 7
+##### 7
 
 Indien de autoriteiten hun bevindingen, met inbegrip van die welke betrekking hebben op de normale waarde, dienen te baseren op informatie die zij uit secundaire bron hebben verkregen, met inbegrip van informatie die in het verzoek tot opening van een onderzoek was opgenomen, dienen zij de nodige voorzorgsmaatregelen in acht te nemen. In dergelijke gevallen dienen de autoriteiten de verkregen informatie, indien mogelijk, te toetsen aan informatie uit andere onafhankelijke bronnen waarover zij beschikken, zoals gepubliceerde prijslijsten, officiële invoerstatistieken of douanestatistieken alsmede aan de informatie die in de loop van het onderzoek van andere belanghebbenden werd verkregen. Het spreekt echter vanzelf dat indien een belanghebbende geen medewerking verleent en de autoriteiten derhalve bepaalde relevante informatie wordt onthouden, dit ten gevolge kan hebben dat de resultaten voor deze belanghebbende minder gunstig zijn dan indien hij zijn medewerking had verleend.
 
@@ -2521,7 +2546,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. REGELS VOOR HET BEPALEN VAN DE DOUANEWAARDE
 
-#### Artikel 1
+##### Artikel 1
 
 1. De douanewaarde van ingevoerde goederen is de transactiewaarde, dat wil zeggen de voor de goederen werkelijk betaalde of te betalen prijs wanneer deze voor uitvoer naar het land van invoer worden verkocht, aangepast overeenkomstig artikel 8, op voorwaarde dat:
 
@@ -2551,7 +2576,7 @@ Zijn het volgende overeengekomen:
 
 - c. De in lid 2, onder b. genoemde criteria worden op verzoek van de importeur toegepast en dienen alleen ter vergelijking. Vervangende waarden kunnen niet met toepassing van lid 2, onder b. worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. Indien de douanewaarde van de ingevoerde goederen niet met toepassing van artikel 1 kan worden vastgesteld, is de douanewaarde de transactiewaarde van identieke goederen die voor uitvoer naar hetzelfde land van invoer zijn verkocht en waarvan de uitvoer op hetzelfde of nagenoeg hetzelfde tijdstip heeft plaatsgevonden als die van de goederen waarvan de waarde wordt bepaald.
 
@@ -2561,7 +2586,7 @@ Zijn het volgende overeengekomen:
 
 3. Indien bij de toepassing van dit artikel meer dan een transactiewaarde van identieke goederen wordt gevonden, wordt de douanewaarde van de ingevoerde goederen op basis van de laagste van die waarden vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 - a. Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het bepaalde in de artikelen 1 en 2 kan worden vastgesteld, is de douanewaarde de transactiewaarde van soortgelijke goederen die voor uitvoer naar hetzelfde land van invoer zijn verkocht en die op hetzelfde of nagenoeg hetzelfde tijdstip zijn uitgevoerd als de goederen waarvan de waarde wordt bepaald.
 
@@ -2571,11 +2596,11 @@ Zijn het volgende overeengekomen:
 
 3. Indien bij toepassing van dit artikel meer dan een transactiewaarde van soortgelijke goederen wordt gevonden, wordt de douanewaarde van de ingevoerde goederen op basis van de laagste van die waarden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het bepaalde in de artikelen 1, 2 en 3 kan worden vastgesteld, wordt zij overeenkomstig artikel 5 vastgesteld of, indien de douanewaarde niet met toepassing van dat artikel kan worden vastgesteld, met toepassing van de bepalingen van artikel 6, met dien verstande dat de toepassingsvolgorde van de artikelen 5 en 6 op verzoek van de importeur wordt omgekeerd.
 
-#### Artikel 5
+##### Artikel 5
 
 - a. Indien de ingevoerde goederen of ingevoerde identieke of soortgelijke goederen in het land van invoer worden verkocht in de staat waarin zij zijn ingevoerd, wordt de met toepassing van dit artikel vastgestelde douanewaarde van de ingevoerde goederen gebaseerd op de prijs per eenheid waartegen de ingevoerde goederen of ingevoerde identieke of soortgelijke goederen, op of omstreeks het tijdstip van invoer van de goederen waarvan de waarde wordt bepaald, aldus in de grootste totale hoeveelheid worden verkocht aan personen die niet zijn verbonden met de personen van wie zij deze goederen kopen, minus de volgende elementen:
 
@@ -2591,7 +2616,7 @@ Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het be
 
 2. Indien noch de ingevoerde goederen, noch identieke of soortgelijke ingevoerde goederen in het land van invoer worden verkocht in de staat waarin zij zijn ingevoerd, wordt op verzoek van de importeur de douanewaarde gebaseerd op de prijs per éénheid waartegen de ingevoerde goederen na bewerking of verwerking in de grootste totale hoeveelheid zijn verkocht aan personen in het land van invoer die niet zijn verbonden met de personen van wie zij deze goederen kopen, met inachtneming van de door de bewerking of verwerking toegevoegde waarde en de in lid 1, onder a. bedoelde in mindering te brengen elementen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De op grond van dit artikel bepaalde douanewaarde van ingevoerde goederen is gebaseerd op een berekende waarde. Deze berekende waarde bestaat uit de som van:
 
@@ -2603,7 +2628,7 @@ Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het be
 
 2. Geen van de Leden kan, ten behoeve van de vaststelling van een berekende waarde, een niet op haar grondgebied gevestigde persoon dwingen tot het overleggen voor onderzoek van, of het geven van inzage in enige boekhoudkundige rekening of ander document. Niettemin kunnen de autoriteiten van het land van invoer, met toestemming van de producent van de goederen, de inlichtingen die deze met het oog op de vaststelling van de douanewaarde overeenkomstig het bepaalde in dit artikel heeft verstrekt in een ander land controleren, op voorwaarde dat genoemde autoriteiten de overheidsinstanties van het betrokken land tijdig inlichten en deze laatsten geen bezwaar maken tegen het onderzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de douanewaarde van de ingevoerde goederen niet met toepassing van de artikelen 1 tot en met 6 kan worden vastgesteld, wordt deze waarde vastgesteld met redelijke middelen die verenigbaar zijn met de beginselen en algemene bepalingen van de onderhavige Overeenkomst en van artikel VII van GATT 1994 en op basis van de in het land van invoer beschikbare gegevens.
 
@@ -2625,7 +2650,7 @@ Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het be
 
 3. De importeur wordt op zijn verzoek schriftelijk in kennis gesteld van de overeenkomstig het bepaalde in dit artikel vastgestelde waarde en de daarbij gehanteerde methode.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Wanneer de douanewaarde met toepassing van artikel 1 wordt vastgesteld, wordt de werkelijk voor de ingevoerde goederen betaalde of te betalen prijs verhoogd met:
 
@@ -2663,17 +2688,17 @@ Indien de douanewaarde van de ingevoerde goederen niet met toepassing van het be
 
 4. Aan de werkelijke betaalde of te betalen prijs worden geen andere elementen toegevoegd dan die waarin dit artikel voorziet.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien voor de vaststelling van de douanewaarde een munteenheid moet worden omgerekend, wordt daarvoor de door de bevoegde autoriteiten van het betrokken land van invoer bekendgemaakte wisselkoers gebruikt die, voor de periode waarop elk publicatiedocument betrekking heeft, zo getrouw mogelijk de gangbare waarde van die munteenheid bij handelstransacties in de munteenheid van het land van invoer weergeeft;
 
 2. De te gebruiken omrekeningskoers is die welke van kracht is op het tijdstip van uitvoer of van invoer, al naar gelang door elk Lid wordt bepaald.
 
-#### Artikel 10
+##### Artikel 10
 
 Elke voor het vaststellen van de douanewaarde verstrekte inlichting die een vertrouwelijk karakter heeft of die op vertrouwelijke grondslag wordt medegedeeld, wordt door de betrokken autoriteiten als strikt vertrouwelijk behandeld en wordt door hen niet bekendgemaakt zonder de uitdrukkelijke toestemming van de persoon of overheidsinstantie die ze heeft verstrekt, tenzij deze bekendmaking in het kader van gerechtelijke procedures gevorderd wordt.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De wetgeving van elk Lid voorziet in verband met de vaststelling van de douanewaarde in een recht op beroep, zonder sanctie, ten behoeve van de importeur of enige andere tot betaling van het invoerrecht gehouden persoon.
 
@@ -2681,19 +2706,19 @@ Elke voor het vaststellen van de douanewaarde verstrekte inlichting die een vert
 
 3. De uitspraak op het beroep wordt de appellant ter kennis gebracht en de motivering van de uitspraak wordt hem schriftelijk medegedeeld. Tevens wordt hij ingelicht omtrent zijn recht op verder beroep.
 
-#### Artikel 12
+##### Artikel 12
 
 De algemeen toepasselijke wetten, verordeningen en rechterlijke en administratieve besluiten ter uitvoering van deze overeenkomst worden door het betrokken land van invoer bekendgemaakt overeenkomstig artikel X van GATT 1994.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien bij de vaststelling van de douanewaarde van ingevoerde goederen blijkt dat het noodzakelijk is de definitieve vaststelling van deze douanewaarde uit te stellen, kan de importeur zijn goederen niettemin aan het douaneverband onttrekken, mits hij, indien vereist, een toereikende zekerheid stelt – in de vorm van een borgstelling of waarborgsom of op enige andere passende wijze – voor de definitieve betaling van de invoerrechten die voor de goederen verschuldigd kunnen zijn. In de wetgeving van elk Lid worden daartoe strekkende bepalingen opgenomen.
 
-#### Artikel 14
+##### Artikel 14
 
 De aantekeningen in bijlage I bij deze Overeenkomst vormen een integrerend deel van deze Overeenkomst en de artikelen van deze Overeenkomst moeten in samenhang met hun respectieve aantekeningen worden gelezen en toegepast. Bijlage II en bijlage III vormen eveneens een integrerend deel van deze Overeenkomst.
 
-#### Artikel 15
+##### Artikel 15
 
 1. In deze Overeenkomst wordt verstaan onder:
 
@@ -2737,23 +2762,23 @@ De aantekeningen in bijlage I bij deze Overeenkomst vormen een integrerend deel 
 
 5. Personen die in zaken verbonden zijn doordat de één exclusief agent, exclusief distributeur of exclusief concessiehouder, ongeacht de gebruikte omschrijving, van de ander is, worden voor de toepassing van deze Overeenkomst geacht te zijn verbonden indien zij aan één van de in lid 4 opgenomen criteria beantwoorden.
 
-#### Artikel 16
+##### Artikel 16
 
 De importeur heeft op door hem ingediend schriftelijk verzoek recht op een schriftelijke toelichting van de douane van het land van invoer waarin deze uiteenzet op welke wijze de douanewaarde van de door hem ingevoerde goederen werd vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Niets in deze Overeenkomst mag worden uitgelegd als een beperking of betwisting van de rechten van de douanediensten zich te vergewissen van de echtheid of de juistheid van elke verklaring, elk document of elke aangifte die met het oog op de vaststelling van de douanewaarde worden overgelegd.
 
 ## DEEL II. BEHEER VAN DE OVEREENKOMST, OVERLEG EN GESCHILLENBESLECHTING
 
-#### Artikel 18. Instellingen
+##### Artikel 18. Instellingen
 
 1. Er wordt een Commissie douanewaarde (hierna te noemen „de Commissie”) ingesteld, die is samengesteld uit vertegenwoordigers van elk der partijen. De Commissie kiest haar voorzitter en vergadert normaliter éénmaal per jaar of zo dikwijls als de desbetreffende bepalingen van de Overeenkomst voorschrijven. Doel van de vergaderingen is de Leden de gelegenheid te geven tot overleg over zaken die verband houden met het beheer van het systeem voor het vaststellen van de douanewaarde door elk van de Leden voor zover dit de werking van deze Overeenkomst kan beïnvloeden of haar doelstellingen kan bevorderen, alsmede het uitvoeren van de overige taken die de Leden de Commissie kunnen opdragen. Het secretariaat van de Commissie wordt door het Secretariaat van de WTO waargenomen.
 
 2. Er wordt, onder de auspiciën van de Internationale Douaneraad (in deze Overeenkomst „de IDR” genoemd), een technische commissie douanewaarde (hierna te noemen „Technische commissie”) ingesteld die de in bijlage II bij deze Overeenkomst omschreven taken uitvoert overeenkomstig het reglement van orde dat in deze bijlage is opgenomen.
 
-#### Artikel 19. Overleg en geschillenbeslechting
+##### Artikel 19. Overleg en geschillenbeslechting
 
 1. Behoudens andersluidende bepalingen in deze Overeenkomst is het „Memorandum van Overeenstemming inzake de regels en procedures betreffende de beslechting van geschillen” van toepassing op het overleg en de regeling van geschillen in het kader van deze Overeenkomst.
 
@@ -2767,7 +2792,7 @@ Niets in deze Overeenkomst mag worden uitgelegd als een beperking of betwisting 
 
 ## DEEL III. BIJZONDERE EN GEDIFFERENTIEERDE BEHANDELING
 
-#### Artikel 20
+##### Artikel 20
 
 1. De Leden die ontwikkelingslanden zijn en die geen Partij zijn bij de Overeenkomst inzake de toepassing van artikel VII van de Algemene Overeenkomst betreffende tarieven en handel van 12 april 1979 kunnen de toepassing van het bepaalde in de onderhavige Overeenkomst opschorten voor een periode van ten hoogste vijf jaar, te rekenen vanaf de datum waarop de WTO-Overeenkomst voor deze Leden in werking treedt. Leden die ontwikkelingslanden zijn en die de toepassing van deze Overeenkomst wensen op te schorten, stellen de Directeur-generaal van de WTO daarvan in kennis.
 
@@ -2777,21 +2802,21 @@ Niets in deze Overeenkomst mag worden uitgelegd als een beperking of betwisting 
 
 ## DEEL IV. SLOTBEPALINGEN
 
-#### Artikel 21. Voorbehouden
+##### Artikel 21. Voorbehouden
 
 Voorbehouden ten aanzien van de bepalingen van deze Overeenkomst kunnen uitsluitend met instemming van de andere Leden worden gemaakt.
 
-#### Artikel 22. Nationale wetgeving
+##### Artikel 22. Nationale wetgeving
 
 1. Elk Lid draagt zorg dat, uiterlijk op de datum waarop de bepalingen van deze Overeenkomst voor hem, van toepassing worden, zijn wetten, voorschriften en administratieve procedures in overeenstemming zijn met de bepalingen van deze Overeenkomst.
 
 2. Elk Lid stelt de Commissie in kennis van alle wijzigingen in zijn wetten en voorschriften die betrekking hebben op deze Overeenkomst en van alle wijzigingen in verband met het beheer van deze wetten en voorschriften.
 
-#### Artikel 23. Herziening
+##### Artikel 23. Herziening
 
 De Commissie stelt met inachtneming van de doelstellingen van de Overeenkomst jaarlijks een onderzoek in naar de toepassing en de werking daarvan. De Commissie doet de Raad voor de handel in goederen jaarlijks verslag van de ontwikkelingen welke zich hebben voorgedaan in de periode waarop het onderzoek betrekking had.
 
-#### Artikel 24. Secretariaat
+##### Artikel 24. Secretariaat
 
 Het secretariaat van deze Overeenkomst wordt door het Secretariaat van de WTO waargenomen, behalve wat de specifiek aan de Technische Commissie opgedragen taken betreft, waarvoor het secretariaat door het Secretariaat van de IDR wordt waargenomen.
 
@@ -2817,7 +2842,7 @@ Geleid door de wens om te komen tot snelle, doeltreffende en rechtvaardige besle
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Toepassingsgebied – Definities
+##### Artikel 1. Toepassingsgebied – Definities
 
 1. Deze Overeenkomst is van toepassing op alle inspecties vóór verzending uitgevoerd op het grondgebied van Leden, ongeacht het feit of voor dergelijke inspecties een contract wordt gesloten dan wel opdracht daartoe wordt gegeven door de regering of enige overheidsinstelling van een Lid.
 
@@ -2827,7 +2852,7 @@ Zijn het volgende overeengekomen:
 
 4. Onder „met inspectie vóór verzending belaste instantie” wordt verstaan elke instantie waarmee een Lid een contract heeft gesloten voor of waaraan het opdracht heeft gegeven tot het uitvoeren van de inspectie vóór verzending1)Deze bepaling verplicht de Leden er niet toe om overheidsinstanties van andere Leden toestemming te verlenen om op hun grondgebied inspecties voor verzending te verrichten..
 
-#### Artikel 2. Verplichtingen van de Leden die de regeling toepassen
+##### Artikel 2. Verplichtingen van de Leden die de regeling toepassen
 
 1. De Leden die de regeling toepassen zorgen ervoor dat de inspecties vóór verzending op niet-discriminerende wijze worden uitgevoerd en dat de procedures en criteria voor het uitvoeren van die inspecties objectief zijn en gelijkelijk op alle door dergelijke inspecties getroffen exporteurs worden toegepast. Zij zien erop toe dat de door alle inspecteurs van de met inspectie vóór verzending belaste instanties, waarmee zij een contract hebben gesloten of waaraan zij een opdracht hebben gegeven, uitgevoerde inspecties uniform zijn.
 
@@ -2921,7 +2946,7 @@ Zijn het volgende overeengekomen:
 
 22. In afwijking van de bepalingen van artikel 2, bepalen de Leden die de regeling toepassen dat, met uitzondering van gedeeltelijke zendingen, verzendingen waarvan de waarde kleiner is dan de door het Lid dat de regeling toepast voor dergelijke verzendingen vastgestelde minimumwaarde, niet worden geïnspecteerd tenzij in uitzonderlijke omstandigheden. Deze minimumwaarde is één van de inlichtingen die uit hoofde van de bepalingen van lid 6 aan de exporteurs worden verstrekt.
 
-#### Artikel 3. Verplichtingen van exporterende leden
+##### Artikel 3. Verplichtingen van exporterende leden
 
 1. De exporterende Leden zorgen ervoor dat hun wetten en regelingen met betrekking tot inspectie vóór verzending op niet-discriminerende wijze worden toegepast.
 
@@ -2929,7 +2954,7 @@ Zijn het volgende overeengekomen:
 
 3. De exporterende Leden verlenen de Leden die de regeling toepassen, onder in onderling overleg overeengekomen voorwaarden, technische bijstand ter verwezenlijking van de doelstellingen van deze Overeenkomst.1)Dergelijke technische bijstand mag op bilaterale, plurilaterale of multilaterale basis worden verstrekt.
 
-#### Artikel 4. Procedures voor onafhankelijk onderzoek
+##### Artikel 4. Procedures voor onafhankelijk onderzoek
 
 De Leden moedigen de met inspectie vóór verzending belaste instanties en exporteurs aan hun geschillen onderling te regelen. Elke partij mag evenwel, twee werkdagen na indiening van de klacht in overeenstemming van de bepalingen van artikel 2, lid 21, een onafhankelijk onderzoek van het geschil aanvragen. De Leden nemen alle redelijke binnen hun bereik liggende maatregelen om ervoor te zorgen dat daartoe de volgende procedures worden ingesteld en in stand gehouden:
 
@@ -2955,23 +2980,23 @@ De Leden moedigen de met inspectie vóór verzending belaste instanties en expor
 
 - h. de beslissing van de speciale groep is bindend voor de met inspectie vóór verzending belaste instantie en de exporteur die partij zijn bij het geschil.
 
-#### Artikel 5. Kennisgeving
+##### Artikel 5. Kennisgeving
 
 De Leden leggen aan het Secretariaat kopieën over van de wetten en regelingen waarmee zij deze Overeenkomst in werking doen treden evenals kopieën van alle andere wetten en regelingen met betrekking tot de inspectie voor verzending wanneer de WTO-Overeenkomst voor het betrokken Lid in werking treedt. Er worden geen wijzigingen in de wetten en regelingen met betrekking tot inspectie vóór verzending ten uitvoer gelegd voordat zij officieel zijn bekendgemaakt. Zij worden onmiddellijk na hun bekendmaking ter kennis gebracht van het Secretariaat. Het Secretariaat deelt de Leden mee dat deze inlichtingen beschikbaar zijn.
 
-#### Artikel 6. Onderzoek
+##### Artikel 6. Onderzoek
 
 Na het verstrijken van het tweede jaar te rekenen vanaf de inwerkingtreding van de WTO-Overeenkomst en vervolgens om de drie jaar stelt de Ministeriële Conferentie een onderzoek in naar de bepalingen, de tenuitvoerlegging en de toepassing van deze Overeenkomst, zulks met inachtneming van de doelstellingen ervan en de bij de tenuitvoerlegging opgedane ervaring. De Ministeriële Conferentie kan op grond van dit onderzoek de bepalingen van de Overeenkomst wijzigen.
 
-#### Artikel 7. Overleg
+##### Artikel 7. Overleg
 
 De Leden plegen op verzoek overleg met andere Leden over alle vraagstukken in verband met de toepassing van deze Overeenkomst. In dergelijke gevallen zijn de bepalingen van artikel XXII van de GATT 1994, als uitgewerkt en toegepast in het kader van het Memorandum van Overeenstemming inzake de beslechting van geschillen, van toepassing op deze Overeenkomst.
 
-#### Artikel 8. Beslechting van geschillen
+##### Artikel 8. Beslechting van geschillen
 
 Alle geschillen tussen Leden met betrekking tot de toepassing van deze Overeenkomst zijn onderworpen aan de bepalingen van artikel XXIII van de GATT 1994, als uitgewerkt en toegepast in het kader van het Memorandum van Overeenstemming inzake de beslechting van geschillen.
 
-#### Artikel 9. Slotbepalingen
+##### Artikel 9. Slotbepalingen
 
 1. De Leden nemen de maatregelen die nodig zijn voor de tenuitvoerlegging van deze Overeenkomst.
 
@@ -3001,7 +3026,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL I. DEFINITIES EN TOEPASSINGSGEBIED
 
-#### Artikel 1. Oorsprongsregels
+##### Artikel 1. Oorsprongsregels
 
 1. Voor de toepassing van de Delen I tot en met IV van deze overeenkomst zijn oorsprongsregels de wetten, verordeningen en bestuursrechtelijke besluiten van algemene gelding die de Leden toepassen om het land van oorsprong van goederen vast te stellen, voor zover deze oorsprongsregels geen betrekking hebben op contractuele of autonome handelsregelingen die tot de toekenning van tariefpreferenties leiden die verder gaan dan de toepassing van artikel I, lid 1, van de GATT 1994.
 
@@ -3009,7 +3034,7 @@ Zijn als volgt overeengekomen:
 
 ## DEEL II. DISCIPLINES BIJ DE TOEPASSING VAN DE OORSPRONGSREGELS
 
-#### Artikel 2. Disciplines in de overgangsperiode
+##### Artikel 2. Disciplines in de overgangsperiode
 
 Zolang het in Deel IV omschreven werkprogramma voor de harmonisering van de oorsprongsregels niet is voltooid, zien de Leden erop toe dat:
 
@@ -3041,7 +3066,7 @@ Zolang het in Deel IV omschreven werkprogramma voor de harmonisering van de oors
 
 - k. alle informatie van vertrouwelijke aard of die met het oog op de toepassing van de oorsprongsregels op vertrouwelijke basis wordt verstrekt, als strikt vertrouwelijk wordt behandeld door de betrokken autoriteiten, die deze niet bekend zullen maken zonder de uitdrukkelijke toestemming van de persoon of de regering die deze informatie heeft verstrekt, tenzij mededeling ervan noodzakelijk is in het kader van een gerechtelijke procedure.
 
-#### Artikel 3. Disciplines na de overgangsperiode
+##### Artikel 3. Disciplines na de overgangsperiode
 
 Gezien het doel dat alle Leden wensen te bereiken, namelijk de harmonisering van de oorsprongsregels door middel van het in deel IV omschreven harmoniseringswerkprogramma, zien zij er bij de uitvoering van de resultaten van dit programma erop toe dat:
 
@@ -3065,19 +3090,19 @@ Gezien het doel dat alle Leden wensen te bereiken, namelijk de harmonisering van
 
 ## DEEL III. PROCEDURES VOOR KENNISGEVING, ONDERZOEK, OVERLEG EN DE BESLECHTING VAN GESCHILLEN
 
-#### Artikel 4. Instellingen
+##### Artikel 4. Instellingen
 
 1. Hierbij wordt een Commissie „Oorsprongsregels” opgericht (in deze overeenkomst „Commissie” genoemd) die bestaat uit vertegenwoordigers van alle Leden. De Commissie kiest haar voorzitter en komt bijeen wanneer dit nodig is, doch ten minste éénmaal per jaar, ten einde de Leden de gelegenheid te geven met elkaar overleg te plegen over zaken in verband met de toepassing van de Delen I, II, III en IV of de realisatie van de daarin genoemde doelstellingen en om andere taken te vervullen waarmee ze op grond van deze overeenkomst of door de Raad Goederenverkeer is belast. De Commissie vraagt de in punt b. genoemde Technische Commissie zo nodig inlichtingen en advies over aangelegenheden die met deze overeenkomst verband houden. De Commissie kan de Technische Commissie ook vragen andere werkzaamheden uit te voeren die zij voor de realisatie van de bovengenoemde doelstellingen van deze Overeenkomst nuttig acht. Het Secretariaat van de WTO neemt het secretariaat van de Commissie waar.
 
 2. Onder de auspiciën van de Internationale Douaneraad (IDR) wordt een Technische Commissie „Oorsprongsregels” ingesteld (in deze overeenkomst „Technische Commissie” genoemd), zoals in Bijlage I uiteengezet. De Technische Commissie voert de in Deel IV vermelde en in Bijlage I nader omschreven technische werkzaamheden uit. De Technische Commissie vraagt de Commissie zo nodig inlichtingen en advies over aangelegenheden die met deze overeenkomst verband houden. De Technische Commissie kan de Commissie ook vragen andere werkzaamheden uit te voeren die het voor de realisatie van de bovengenoemde doelstellingen van de Overeenkomst nuttig acht. Het Secretariaat van de IDR neemt het secretariaat van de Technische Commissie waar.
 
-#### Artikel 5. Informatie en procedures voor de wijziging en de invoering van nieuwe oorsprongsregels
+##### Artikel 5. Informatie en procedures voor de wijziging en de invoering van nieuwe oorsprongsregels
 
 1. Elk Lid deelt het Secretariaat, binnen 90 dagen na de datum van inwerkingtreding van de WTO-Overeenkomst, zijn oorsprongsregels, rechterlijke besluiten en bestuursrechtelijke voorschriften van algemene gelding mede betreffende de oorsprongsregels die op die datum van toepassing zijn. Heeft een Lid een oorsprongsregel bij vergissing niet medegedeeld, dan doet het dit alsnog zodra de vergissing is opgemerkt. Het Secretariaat zendt de leden lijsten toe van ontvangen informatie die bij het Secretariaat beschikbaar is.
 
 2. In de in artikel 2 bedoelde periode publiceren Leden die hun oorsprongsregels wijzigen, tenzij het minimale wijzigingen betreft, of die nieuwe oorsprongsregels invoeren die, in de zin van dit artikel ook de in lid 1 bedoelde oorsprongsregels omvatten die het secretariaat niet werden medegedeeld, ten minste 60 dagen vóór de inwerkingtreding van de gewijzigde of nieuwe regel hierover op zulke wijze een bericht dat belanghebbenden van het voornemen tot wijziging van een oorsprongsregel of tot invoering van een nieuwe oorsprongsregel kennis kunnen nemen, tenzij een Lid met buitengewone omstandigheden wordt geconfronteerd of hiermee geconfronteerd dreigt te worden. In deze buitengewone gevallen wordt de gewijzigde of nieuwe regel zo spoedig mogelijk door het Lid gepubliceerd.
 
-#### Artikel 6. Onderzoek
+##### Artikel 6. Onderzoek
 
 1. De Commissie onderzoekt elk jaar de toepassing en werking van de delen II en III van deze overeenkomst, met inachtneming van de daarin vermelde doelstellingen. De Commissie stelt de Raad Goederenverkeer in kennis van de ontwikkelingen gedurende de onderzochte periode.
 
@@ -3085,17 +3110,17 @@ Gezien het doel dat alle Leden wensen te bereiken, namelijk de harmonisering van
 
 3. De Commissie stelt in samenwerking met de Technische Commissie regelingen in om wijzigingen op de resultaten van het harmoniseringswerkprogramma te bestuderen en voor te stellen, met inachtneming van de doelstellingen en principes van artikel 9. Het kan hier met name gaan om de praktische uitvoerbaarheid van regels of de aanpassing van regels aan nieuwe produktieprocessen die het gevolg zijn van technologische ontwikkelingen.
 
-#### Artikel 7. Overleg
+##### Artikel 7. Overleg
 
 Het bepaalde in artikel XXII van de GATT 1994, zoals uitgewerkt en toegepast bij het Memorandum van Overeenstemming inzake de Beslechting van Geschillen is op deze overeenkomst van toepassing.
 
-#### Artikel 8. Regeling van geschillen
+##### Artikel 8. Regeling van geschillen
 
 Het bepaalde in artikel XXII van de GATT 1994, zoals uitgewerkt en toegepast in het Memorandum van Overeenstemming inzake de Beslechting van Geschillen is op deze overeenkomst van toepassing.
 
 ## DEEL IV. HARMONISERING VAN DE OORSPRONGSREGELS
 
-#### Artikel 9. Doelstellingen en beginselen
+##### Artikel 9. Doelstellingen en beginselen
 
 1. Ten einde de oorsprongsregels te harmoniseren en, onder meer, de wereldhandel meer zekerheid te verschaffen, draagt de Ministeriële Conferentie tezamen met de IDR zorg voor de uitvoering van het hierna omschreven werkprogramma dat op de volgende beginselen is gebaseerd:
 
@@ -3175,7 +3200,7 @@ Geleid door de wens te voorzien in de instelling van een overlegmechanisme en in
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. Voor de toepassing van deze Overeenkomst wordt onder formaliteiten inzake invoervergunningen verstaan de administratieve procedures 1)Die welke worden aangeduid met de term „vergunningen” alsmede andere soortgelijke administratieve procedures. die worden gebruikt voor de toepassing van regelingen inzake invoervergunningen waarvoor als voorwaarde voor de invoer op het douanegebied van het importerend lid wordt gesteld dat aan de bevoegde administratieve instantie een aanvraag of andere documenten (verschillend van de voor douanedoeleinden benodigde documenten) worden voorgelegd.
 
@@ -3201,7 +3226,7 @@ Zijn het volgende overeengekomen:
 
 11. De bepalingen van deze Overeenkomst verplichten de Leden er niet toe vertrouwelijke inlichtingen te onthullen waarvan de verspreiding een belemmering zou vormen voor de toepassing van de wetgeving, strijdig zou zijn met het openbaar belang of afbreuk zou doen aan de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.
 
-#### Artikel 2. Automatische invoervergunningen1)De procedures inzake invoervergunningen waarvoor borgstelling is vereist en die geen beperkende invloed op de invoer hebben, moeten worden geacht te vallen onder de bepalingen van leden 1 en 2.
+##### Artikel 2. Automatische invoervergunningen1)De procedures inzake invoervergunningen waarvoor borgstelling is vereist en die geen beperkende invloed op de invoer hebben, moeten worden geacht te vallen onder de bepalingen van leden 1 en 2.
 
 1. Onder automatische invoervergunningen worden invoervergunningen verstaan die op aanvraag in alle gevallen worden toegekend en die in overeenstemming zijn met de voorschriften van lid 2, sub a..
 
@@ -3217,7 +3242,7 @@ Zijn het volgende overeengekomen:
 
 - b. de Leden erkennen dat automatische invoervergunningen noodzakelijk kunnen zijn wanneer er geen andere passende procedures bestaan. De automatische invoervergunningen kunnen gehandhaafd blijven zolang de omstandigheden die aan de invoering ervan ten grondslag liggen blijven bestaan of zolang de fundamentele administratieve doelstellingen ervan niet op passender wijze kunnen worden verwezenlijkt.
 
-#### Artikel 3. Niet-automatische invoervergunningen
+##### Artikel 3. Niet-automatische invoervergunningen
 
 1. Naast artikel 1, leden 1 tot en met 11, zijn de volgende bepalingen van toepassing op de procedures inzake niet-automatische invoervergunningen. Onder niet-automatische invoervergunningen worden invoervergunningen verstaan die niet onder de definitie in artikel 2, lid 1, vallen.
 
@@ -3259,11 +3284,11 @@ Zijn het volgende overeengekomen:
 
 - l. bij de toepassing van de bepalingen van artikel 1, lid 8, kunnen de toekomstige verdelingen van invoervergunningen worden aangepast ter compensatie van die invoer die het vroegere niveau van de vergunningen overschrijdt.
 
-#### Artikel 4. Instellingen
+##### Artikel 4. Instellingen
 
 Hierbij wordt een Commissie Invoervergunningen ingesteld, bestaande uit vertegenwoordigers van elk der Leden. De Commissie kiest haar voorzitter en vice-voorzitter en komt zo vaak noodzakelijk is bijeen om de Leden in de gelegenheid te stellen overleg te plegen over alle vraagstukken met betrekking tot de toepassing van deze Overeenkomst of de bevordering van de doelstellingen ervan.
 
-#### Artikel 5. Kennisgeving
+##### Artikel 5. Kennisgeving
 
 1. Leden die vergunningprocedures instellen of wijzigingen in die procedures aanbrengen stellen de Commissie daarvan in kennis binnen 60 dagen te rekenen vanaf de bekendmaking.
 
@@ -3291,11 +3316,11 @@ Hierbij wordt een Commissie Invoervergunningen ingesteld, bestaande uit vertegen
 
 5. Elk belanghebbend Lid dat van oordeel is dat een ander Lid van de instelling van een vergunningprocedure of van wijzigingen daarin geen kennisgeving heeft gedaan overeenkomstig de bepalingen van leden 1 tot en met 3 kan de zaak onder de aandacht van dat ander Lid brengen. Indien vervolgens niet terstond kennisgeving wordt gedaan, mag dit Lid zelf kennisgeving doen van de vergunningprocedure of van wijzigingen daarin, met inbegrip van alle ter zake dienende en beschikbare inlichtingen.
 
-#### Artikel 6. Overleg en beslechting van geschillen
+##### Artikel 6. Overleg en beslechting van geschillen
 
 Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met betrekking tot de toepassing van deze Overeenkomst vallen onder de procedures van de artikelen XXII en XXIII van de GATT 1994, als uitgewerkt in en ten uitvoer gelegd door het memorandum van overeenstemming inzake de beslechting van geschillen.
 
-#### Artikel 7. Onderzoek
+##### Artikel 7. Onderzoek
 
 1. De Commissie stelt naargelang van de noodzaak, maar ten minste eenmaal per twee jaar, een onderzoek in naar de tenuitvoerlegging en de toepassing van deze Overeenkomst, zulks met inachtneming van de doelstellingen daarvan en de daarin vervatte rechten en verplichtingen.
 
@@ -3305,7 +3330,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 4. De Commissie stelt de Raad voor de handel in goederen in kennis van de feiten die zich hebben voorgedaan gedurende de periode waarop dit onderzoek betrekking heeft.
 
-#### Artikel 8. Slotbepalingen
+##### Artikel 8. Slotbepalingen
 
 1. Zonder toestemming van de andere Leden mag geen voorbehoud ten aanzien van de bepalingen van deze Overeenkomst worden gemaakt.
 
@@ -3315,7 +3340,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 ## DEEL I. : ALGEMENE BEPALINGEN
 
-#### Artikel 1. Definitie van een subsidie
+##### Artikel 1. Definitie van een subsidie
 
 1.1. Voor de toepassing van deze Overeenkomst wordt een subsidie geacht te bestaan indien:
 
@@ -3335,7 +3360,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 1.2. Het bepaalde in Deel II of in Deel III of V is uitsluitend van toepassing op een subsidie in de zin van lid 1 indien deze subsidie specifiek is in de zin van artikel 2.
 
-#### Artikel 2. Specificiteit
+##### Artikel 2. Specificiteit
 
 2.1. Om te bepalen of een subsidie, als in artikel 1, lid 1, omschreven, specifiek is voor een onderneming of bedrijfstak of groep ondernemingen (in deze Overeenkomst „bepaalde ondernemingen” genoemd) binnen het rechtsgebied van de subsidieverlenende autoriteit zijn de volgende beginselen van toepassing:
 
@@ -3353,7 +3378,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 ## DEEL II. : VERBODEN SUBSIDIES
 
-#### Artikel 3. Verbod
+##### Artikel 3. Verbod
 
 3.1. Behoudens het bepaalde in de Overeenkomst inzake Landbouw zijn de volgende subsidies, in de zin van artikel 1, verboden:
 
@@ -3363,7 +3388,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 3.2. Een Lid mag de in lid 1 genoemde subsidies niet verlenen of in stand houden.
 
-#### Artikel 4. Rechtsmiddelen
+##### Artikel 4. Rechtsmiddelen
 
 4.1. Indien een Lid redenen heeft om aan te nemen dat een verboden subsidie door een ander Lid wordt verleend of in stand gehouden, kan dit Lid om overleg met dit andere Lid verzoeken.
 
@@ -3391,7 +3416,7 @@ Het overleg en de beslechting van geschillen voor wat betreft elk vraagstuk met 
 
 ## DEEL III. : SUBSIDIES WAARTEGEN EEN ACTIE KAN WORDEN INGESTELD
 
-#### Artikel 5. Schadelijke gevolgen
+##### Artikel 5. Schadelijke gevolgen
 
 Een Lid mag, door het gebruik van een van de in artikel 1, leden 1 en 2, genoemde subsidies, de belangen van een ander Lid niet schaden, dat wil zeggen:
 
@@ -3403,7 +3428,7 @@ Een Lid mag, door het gebruik van een van de in artikel 1, leden 1 en 2, genoemd
 
 Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten blijven gelden als in artikel 13 van de Overeenkomst inzake Landbouw bepaald.
 
-#### Artikel 6. Ernstige schade
+##### Artikel 6. Ernstige schade
 
 6.1. Van ernstige schade in de zin van artikel 5, onder c, wordt geacht sprake te zijn wanneer:
 
@@ -3457,7 +3482,7 @@ Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten blijv
 
 6.9. Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten gehandhaafd blijven overeenkomstig het bepaalde in artikel 13 van de Overeenkomst inzake Landbouw.
 
-#### Artikel 7. Beroep
+##### Artikel 7. Beroep
 
 7.1. Onder voorbehoud van het bepaalde in artikel 13 van de Overeenkomst inzake Landbouw, kan een Lid dat redenen heeft om aan te nemen dat een in artikel 1 bedoelde subsidie door een ander Lid wordt verleend of in stand gehouden, waardoor zijn binnenlandse bedrijfstak schade lijdt, waardoor voordelen worden tenietgedaan of uitgehold, of waardoor het ernstige schade lijdt, kan dit Lid om overleg met dit andere Lid verzoeken.
 
@@ -3481,7 +3506,7 @@ Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten blijv
 
 ## DEEL IV. : SUBSIDIES WAARTEGEN GEEN ACTIE KAN WORDEN INGESTELD
 
-#### Artikel 8. Omschrijving
+##### Artikel 8. Omschrijving
 
 8.1. Tegen de volgende subsidies kan geen actie worden ingesteld1)Erkend wordt dat het een wijdverbreide praktijk van de Leden is overheidssteun voor uiteenlopende doeleinden te verlenen en dat het loutere feit dat zulke steun volgens de bepalingen van dit artikel niet als steun kan worden beschouwd waartegen geen actie kan worden ingesteld op zich het vermogen van Leden om die steun te verlenen niet beperkt.:
 
@@ -3529,7 +3554,7 @@ Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten blijv
 
 8.5. Op verzoek van een Lid wordt de in lid 4 bedoelde vaststelling van de Commissie, of het niet doen van zulk een vaststelling door de Commissie alsmede de niet-naleving, in afzonderlijke gevallen, van de voorwaarden van een medegedeelde regeling, aan bindende arbitrage onderworpen. De arbitrage-instantie doet de Leden zijn conclusies toekomen binnen 120 dagen nadat de kwestie aan hem is voorgelegd. Tenzij in dit lid anders is bepaald, is de DSU van toepassing op de arbitrage waarin dit lid voorziet.
 
-#### Artikel 9. Overleg en toegelaten rechtsmiddelen
+##### Artikel 9. Overleg en toegelaten rechtsmiddelen
 
 9.1. Indien tijdens de uitvoering van een in artikel 8, lid 2, bedoelde regeling, ondanks het feit dat de regeling aan de daarin genoemde criteria voldoet, een Lid redenen heeft om aan te nemen dat deze regeling ernstige nadelige gevolgen heeft gehad voor zijn binnenlandse bedrijfstak, zodat moeilijk te herstellen schade is ontstaan, kan dit Lid om overleg verzoeken met het Lid dat de subsidie verleent of in stand houdt.
 
@@ -3541,11 +3566,11 @@ Dit artikel is niet van toepassing op subsidies die voor landbouwprodukten blijv
 
 ## DEEL V. : COMPENSERENDE MAATREGELEN
 
-#### Artikel 10. Toepassing van artikel VI van de GATT 19941)Behalve op Deel V kan ook een beroep worden gedaan op de Delen II en III. Wat betreft de gevolgen van een bepaalde subsidie op de binnenlandse markt van het importerende Lid, is slechts e´e´n vorm van bescherming mogelijk, namelijk een compenserend recht indien aan de eisen van Deel V is voldaan, of een tegenmaatregel op grond van artikel 4 of artikel 7. Voor maatregelen waartegen ingevolge Deel IV geen actie kan worden ingesteld, kan geen beroep worden gedaan op de Delen III en V. De in artikel 8, lid 1, onder a. bedoelde maatregelen kunnen echter worden onderzocht ten einde vast te stellen of zij al dan niet specifiek zijn in de zin van artikel 2. In geval van een in artikel 8, lid 2, bedoelde subsidie die in het kader van een regeling is verleend die niet is aangemeld overeenkomstig artikel 8, lid 3, kan bovendien op de Delen III of V een beroep worden gedaan, maar een dergelijke subsidie zal als een subsidie worden beschouwd waartegen geen actie kan worden ingesteld indien deze aan de normen van artikel 8, lid 2, blijkt te voldoen.
+##### Artikel 10. Toepassing van artikel VI van de GATT 19941)Behalve op Deel V kan ook een beroep worden gedaan op de Delen II en III. Wat betreft de gevolgen van een bepaalde subsidie op de binnenlandse markt van het importerende Lid, is slechts e´e´n vorm van bescherming mogelijk, namelijk een compenserend recht indien aan de eisen van Deel V is voldaan, of een tegenmaatregel op grond van artikel 4 of artikel 7. Voor maatregelen waartegen ingevolge Deel IV geen actie kan worden ingesteld, kan geen beroep worden gedaan op de Delen III en V. De in artikel 8, lid 1, onder a. bedoelde maatregelen kunnen echter worden onderzocht ten einde vast te stellen of zij al dan niet specifiek zijn in de zin van artikel 2. In geval van een in artikel 8, lid 2, bedoelde subsidie die in het kader van een regeling is verleend die niet is aangemeld overeenkomstig artikel 8, lid 3, kan bovendien op de Delen III of V een beroep worden gedaan, maar een dergelijke subsidie zal als een subsidie worden beschouwd waartegen geen actie kan worden ingesteld indien deze aan de normen van artikel 8, lid 2, blijkt te voldoen.
 
 De Leden nemen alle maatregelen om ervoor te zorgen dat de instelling van een compenserend recht2)Onder „compenserend recht” wordt een bijzonder recht verstaan dat geheven wordt om een subsidie te compenseren die rechtstreeks of onrechtstreeks voor de vervaardiging, de produktie of de uitvoer van een produkt is verleend, zoals bepaald in artikel VI, lid 3, van de GATT 1994. op een produkt uit het gebied van een Lid dat in het gebied van een ander Lid wordt ingevoerd in overeenstemming met artikel VI van de GATT 1994 en de voorwaarden van onderhavige overeenkomst geschiedt. Compenserende rechten mogen slechts worden ingesteld nadat in overeenstemming met de bepalingen in deze overeenkomst en de Overeenkomst inzake Landbouw een onderzoek is geopend3)Onder „geopend” wordt hierna de procedurele handeling verstaan waarmee een Lid formeel een in artikel 11 bedoeld onderzoek begint. en verricht.
 
-#### Artikel 11. Opening en uitvoering van het onderzoek
+##### Artikel 11. Opening en uitvoering van het onderzoek
 
 11.1. Behoudens het bepaalde in lid 6, wordt een onderzoek naar het bestaan, de hoogte en de gevolgen van een subsidie geopend naar aanleiding van een schriftelijk verzoek van of namens de binnenlandse bedrijfstak.
 
@@ -3577,7 +3602,7 @@ De Leden nemen alle maatregelen om ervoor te zorgen dat de instelling van een co
 
 11.11. Een onderzoek wordt, behoudens uitzonderlijke omstandigheden, binnen een jaar na de opening afgesloten en mag in geen geval langer dan 18 maanden duren.
 
-#### Artikel 12. Bewijs
+##### Artikel 12. Bewijs
 
 12.1. Belanghebbende Leden en alle andere belanghebbenden bij een onderzoek in verband met compenserende rechten worden in kennis gesteld van de informatie die de autoriteiten wensen te ontvangen en krijgen ruimschoots gelegenheid om het bewijsmateriaal dat zij voor het betrokken onderzoek van belang achten schriftelijk voor te leggen.
 
@@ -3619,7 +3644,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 12.12. De hierboven omschreven procedures hebben niet ten doel de autoriteiten van een Lid te beletten zo snel mogelijk te handelen wat betreft het openen van een onderzoek, het trekken van voorlopige of definitieve conclusies in zowel positieve als negatieve zin, of het nemen van voorlopige of definitieve maatregelen, overeenkomstig de bepalingen van deze Overeenkomst.
 
-#### Artikel 13. Overleg
+##### Artikel 13. Overleg
 
 13.1. Zo spoedig mogelijk nadat een verzoek ingevolge artikel 11 is aanvaard, en in ieder geval vóór de opening van een onderzoek, worden Leden waarvan de produkten onderzocht kunnen worden voor overleg uitgenodigd met het doel de situatie op te helderen ten aanzien van de in artikel 11, lid 2, bedoelde punten en om overeenstemming over een oplossing te bereiken.
 
@@ -3629,7 +3654,7 @@ Deze lijst belet niet dat Leden andere binnen- of buitenlandse partijen dan bove
 
 13.4. Het Lid dat voornemens is een onderzoek uit te voeren of dat een onderzoek uitvoert geeft het Lid of de Leden waarvan de produkten worden onderzocht desgevraagd inzage in het niet-vertrouwelijke bewijsmateriaal, met inbegrip van de niet-vertrouwelijke samenvatting van vertrouwelijke gegevens die bij de opening of het verdere verloop van het onderzoek worden gebruikt.
 
-#### Artikel 14. Berekening van de hoogte van een subsidie in termen van voordeel voor de ontvanger
+##### Artikel 14. Berekening van de hoogte van een subsidie in termen van voordeel voor de ontvanger
 
 Voor de toepassing van deel V wordt elke methode die de met onderzoek belaste autoriteit gebruikt voor de berekening van het voordeel in de zin van artikel 1, lid 1, dat de ontvanger verkrijgt in de nationale wetgeving of de uitvoeringsbepalingen van het betrokken Lid vastgelegd en de toepassing ervan in elk bijzonder geval dient transparant te zijn en voldoende nauwkeurig omschreven. Voorts dient deze methode in overeenstemming te zijn met de volgende regels:
 
@@ -3641,7 +3666,7 @@ Voor de toepassing van deel V wordt elke methode die de met onderzoek belaste au
 
 - d. de levering van goederen of diensten of de aankoop van goederen door de overheid wordt niet als het toekennen van een voordeel beschouwd, tenzij de levering tegen een minder dan toereikende beloning plaatsvindt en de aankoop tegen een meer dan toereikende beloning. Of de beloning toereikend is wordt vastgesteld door een vergelijking te maken met de marktvoorwaarden voor de betreffende goederen of diensten in het land van levering of aankoop (waaronder prijs, kwaliteit, beschikbaarheid, verhandelbaarheid, transport en andere koop- of verkoopvoorwaarden).
 
-#### Artikel 15. Vaststelling van schade1)In deze overeenkomst wordt onder ,,schade’’, tenzij anders bepaald, verstaan aanmerkelijke schade die een binnenlandse bedrijfstak lijdt, aanmerkelijke schade die een binnenlandse bedrijfstak dreigt te lijden of de aanmerkelijk vertraging van de vestiging van een binnenlandse bedrijfstak en wordt dit begrip overeenkomstig de bepalingen van dit artikel geı¨nterpreteerd.
+##### Artikel 15. Vaststelling van schade1)In deze overeenkomst wordt onder ,,schade’’, tenzij anders bepaald, verstaan aanmerkelijke schade die een binnenlandse bedrijfstak lijdt, aanmerkelijke schade die een binnenlandse bedrijfstak dreigt te lijden of de aanmerkelijk vertraging van de vestiging van een binnenlandse bedrijfstak en wordt dit begrip overeenkomstig de bepalingen van dit artikel geı¨nterpreteerd.
 
 15.1. Voor de toepassing van artikel VI van de GATT 1994 wordt de vaststelling van schade gebaseerd op positief bewijsmateriaal en houdt deze een objectief onderzoek in van a. de omvang van de gesubsidieerde invoer en de gevolgen daarvan voor de prijzen van het soortgelijke produkt1)In deze Overeenkomst wordt onder „soortgelijk produkt” verstaan een produkt dat identiek is, dat wil zeggen in alle opzichten gelijk aan het onderzochte produkt of, bij gebreke van een dergelijk produkt, een ander produkt dat, hoewel het niet in alle opzichten gelijk is, kenmerken bezit die grote overeenkomst vertonen met die van het onderzochte produkt. op de binnenlandse markt, en b. de gevolgen van deze invoer voor de binnenlandse producenten van deze produkten.
 
@@ -3671,7 +3696,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 15.8. In de gevallen waarin de gesubsidieerde invoer schade dreigt te veroorzaken, wordt het besluit om compenserende maatregelen te nemen zorgvuldig overwogen.
 
-#### Artikel 16. Omschrijving van het begrip „binnenlandse bedrijfstak”
+##### Artikel 16. Omschrijving van het begrip „binnenlandse bedrijfstak”
 
 16.1. In de zin van deze overeenkomst wordt onder „binnenlandse bedrijfstak”, behoudens het bepaalde in lid 2, de gezamenlijke binnenlandse producenten van de soortgelijke produkten verstaan of dat deel van de binnenlandse producenten wier gezamenlijke produktie van de produkten een groot deel van de totale binnenlandse produktie van die produkten uitmaakt. Indien het echter om producenten gaat die met exporteurs of importeurs gelieerd1)Voor de toepassing van dit lid worden producenten uitsluitend geacht met exporteurs of importeurs gelieerd te zijn indien a. een van hen rechtstreeks of onrechtstreeks zeggenschap heeft over de andere of indien b. een derde rechtstreeks of onrechtstreeks zeggenschap heeft over hen beiden, of indien c. zij samen rechtstreeks of onrechtstreeks zeggenschap hebben over een derde, voor zover er redenen zijn om aan te nemen of te vermoeden dat de gelieerde producent zich door deze banden anders gedraagt dan een niet-gelieerde producent. Voor de toepassing van dit lid wordt een bedrijf geacht zeggenschap te hebben over een ander bedrijf wanneer het ene bedrijf rechtens of feitelijk in een positie is het handelen van het andere bedrijf te beperken of te leiden. zijn of die zelf importeur zijn van het produkt dat met subsidie zou worden ingevoerd of van een soortgelijk produkt uit een ander land, kan onder „binnenlandse bedrijfstak” de overige producenten worden verstaan.
 
@@ -3683,7 +3708,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 16.5. Het bepaalde in artikel 15, lid 6, is van toepassing op dit artikel.
 
-#### Artikel 17. Voorlopige maatregelen
+##### Artikel 17. Voorlopige maatregelen
 
 17.1. Voorlopige maatregelen mogen uitsluitend worden toegepast indien:
 
@@ -3701,7 +3726,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 17.5. Het bepaalde in artikel 15, lid 6, is van toepassing op dit artikel.
 
-#### Artikel 18. Verbintenissen
+##### Artikel 18. Verbintenissen
 
 18.1. Een procedure kan1)Het woord „kan” betekent niet dat de procedure kan worden voortgezet terwijl terzelfdertijd een verbintenis wordt uitgevoerd, behoudens lid 4. worden geschorst of beëindigd zonder dat voorlopige maatregelen worden genomen of compenserende rechten ingesteld, indien op vrijwillige basis bevredigende verbintenissen worden aangeboden op grond waarvan:
 
@@ -3719,7 +3744,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 18.6. De autoriteiten van een importerend Lid kunnen eisen dat een overheid of exporteur van wie een verbintenis is aanvaard regelmatig inlichtingen verstrekt in verband met de naleving van deze verbintenis en dat de betreffende gegevens gecontroleerd mogen worden. Bij niet-naleving van een verbintenis kunnen de autoriteiten van het importerende Lid, overeenkomstig de bepalingen van deze Overeenkomst, op korte termijn maatregelen nemen die kunnen bestaan uit de onmiddellijke toepassing van voorlopige maatregelen op grond van de meest betrouwbare gegevens die beschikbaar zijn. In dergelijke gevallen kunnen, overeenkomstig de bepalingen van deze Overeenkomst, definitieve rechten worden geheven op produkten die ten verbruike zijn aangegeven tot ten hoogste 90 dagen vóór de toepassing van deze voorlopige maatregelen, met dien verstande dat een dergelijke heffing achteraf niet mag worden toegepast op produkten die zijn aangegeven voordat de verbintenis werd verbroken.
 
-#### Artikel 19. Instelling en heffing van compenserende rechten
+##### Artikel 19. Instelling en heffing van compenserende rechten
 
 19.1. Doet een Lid, nadat redelijke pogingen zijn gedaan om het overleg tot een goed einde te brengen, een definitieve vaststelling over het bestaan en de hoogte van de subsidie en dat de gesubsidieerde invoer, ten gevolge van de subsidie, schade veroorzaakt, dan kan het een compenserend recht instellen overeenkomstig het bepaalde in dit artikel, tenzij de subsidie wordt ingetrokken.
 
@@ -3729,7 +3754,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 19.4. De compenserende rechten die op een importprodukt worden geheven2)Onder „heffen” wordt in deze Overeenkomst de definitieve instelling of inning van een recht of belasting verstaan. mogen niet hoger zijn dan de subsidie waarvan het bestaan is vastgesteld en die per eenheid van het gesubsidieerde en geëxporteerde produkt is berekend.
 
-#### Artikel 20. Terugwerkende kracht
+##### Artikel 20. Terugwerkende kracht
 
 20.1. Voorlopige maatregelen en compenserende rechten worden slechts toegepast op produkten die voor verbruik worden aangegeven, nadat het besluit op grond van artikel 17, lid 1, respectievelijk artikel 19, lid 1, in werking is getreden, behalve in de in onderhavig artikel vermelde uitzonderingsgevallen.
 
@@ -3743,7 +3768,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 20.6. Wanneer de autoriteiten, in kritieke omstandigheden, vaststellen dat moeilijk te herstellen schade is veroorzaakt door de massale import, in een betrekkelijk korte periode, van een produkt waarvoor in strijd met de bepalingen van de GATT 1994 en deze Overeenkomst subsidies zijn uitgekeerd of toegekend en zij het nodig achten, ten einde een herhaling van dergelijke schade te voorkomen, op deze invoer met terugwerkende kracht compenserende rechten in te stellen, mogen definitieve compenserende rechten worden geheven op importprodukten die, niet meer dan 90 dagen voor de datum waarop voorlopige maatregelen zijn toegepast, ten verbruike zijn aangegeven.
 
-#### Artikel 21. Duur en herziening van de compenserende rechten en verbintenissen
+##### Artikel 21. Duur en herziening van de compenserende rechten en verbintenissen
 
 21.1. Een compenserend recht blijft van toepassing zolang en voor zover dit nodig is om de schadeveroorzakende subsidie te neutraliseren.
 
@@ -3755,7 +3780,7 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 21.5. Het bepaalde in dit artikel is van overeenkomstige toepassing op verbintenissen die overeenkomstig artikel 18 zijn aanvaard.
 
-#### Artikel 22. Openbaarmaking en motivering van de vaststellingen
+##### Artikel 22. Openbaarmaking en motivering van de vaststellingen
 
 22.1. Indien de autoriteiten ervan overtuigd zijn dat er voldoende bewijsmateriaal is om, overeenkomstig artikel 11, een onderzoek te openen, wordt dit medegedeeld aan het Lid of de Leden waarvan de produkten onderzocht zullen worden en aan andere partijen waarvan het de met onderzoek belaste autoriteiten bekend is dat zij belang hebben bij het onderzoek. Tevens wordt een bericht gepubliceerd.
 
@@ -3793,13 +3818,13 @@ Geen enkele van deze factoren is noodzakelijkerwijs doorslaggevend, maar de in o
 
 22.7. Dit artikel is van overeenkomstige toepassing op de opening en voltooiing van herzieningsonderzoeken op grond van artikel 21 en op besluiten tot toepassing van rechten met terugwerkende kracht op grond van artikel 20.
 
-#### Artikel 23. Rechterlijk toezicht
+##### Artikel 23. Rechterlijk toezicht
 
 Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bevat, handhaaft de rechtbanken, scheidsgerechten of administratieve rechtbanken of procedures die onder andere ten doel hebben de administratieve maatregelen ten aanzien van definitieve vaststellingen en herzieningsonderzoeken in de zin van artikel 21 terstond te onderzoeken. Deze rechtbanken, gerechten en procedures zijn onafhankelijk van de autoriteiten die voor de betrokken vaststelling of het betrokken herzieningsonderzoek verantwoordelijk zijn en bieden alle belanghebbenden die aan de administratieve procedure hebben deelgenomen en die een rechtstreeks en individueel belang hebben bij de administratieve maatregelen de mogelijkheid in beroep te gaan.
 
 ## DEEL VI. : INSTELLINGEN
 
-#### Artikel 24. Commissie Subsidies en Compenserende Maatregelen en suborganen
+##### Artikel 24. Commissie Subsidies en Compenserende Maatregelen en suborganen
 
 24.1. Er wordt een Commissie Subsidies en Compenserende Maatregelen ingesteld waarin vertegenwoordigers van elk Lid zitting hebben. De Commissie kiest zijn voorzitter en komt ten minste twee maal per jaar bijeen en, overeenkomstig de bepalingen van deze Overeenkomst, op verzoek van een Lid. De Commissie voert de taken uit waarmee het krachtens deze Overeenkomst of door de Leden is belast en stelt de Leden in de gelegenheid overleg te plegen over alle vraagstukken betreffende de toepassing of de bevordering van de doelstellingen van de overeenkomst. Het WTO-Secretariaat treedt op als secretariaat van de Commissie.
 
@@ -3813,7 +3838,7 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 ## DEEL VII. : KENNISGEVING EN TOEZICHT
 
-#### Artikel 25. Kennisgevingen
+##### Artikel 25. Kennisgevingen
 
 25.1. Onverminderd artikel XVI, lid 1, van de GATT 1994, komen de Leden overeen uiterlijk op 30 juni van elk jaar kennisgeving van subsidies te doen overeenkomstig het bepaalde in de leden 2 tot en met 6.
 
@@ -3849,7 +3874,7 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 25.12. Elk Lid deelt de Commissie mede a. welke van zijn autoriteiten bevoegd zijn het in artikel 11 bedoelde onderzoek te openen en voort te zetten, en b. welke procedures bij de opening van en tijdens het onderzoek worden gevolgd.
 
-#### Artikel 26. Toezicht
+##### Artikel 26. Toezicht
 
 26.1. De Commissie onderzoekt de nieuwe en volledige kennisgevingen die op grond van artikel XVI, lid 1, van de GATT 1994 en artikel 25, lid 1, van deze Overeenkomst zijn gedaan op vergaderingen die te dien einde om de drie jaar worden gehouden. Kennisgevingen die in de tussenliggende jaren worden gedaan (bijwerkingen) worden op de gewone vergaderingen van de Commissie onderzocht.
 
@@ -3857,7 +3882,7 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 ## DEEL VIII. : ONTWIKKELINGSLANDEN
 
-#### Artikel 27. Bijzondere en gedifferentieerde behandeling van Leden die ontwikkelingslanden zijn
+##### Artikel 27. Bijzondere en gedifferentieerde behandeling van Leden die ontwikkelingslanden zijn
 
 27.1. De Leden erkennen dat subsidies een belangrijke rol kunnen spelen in de programma's voor de economische ontwikkeling van Leden die ontwikkelingslanden zijn.
 
@@ -3899,7 +3924,7 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 ## DEEL IX. : OVERGANGSREGELINGEN
 
-#### Artikel 28. Bestaande subsidieregelingen
+##### Artikel 28. Bestaande subsidieregelingen
 
 28.1. Subsidieregelingen die binnen het gebied van een Lid zijn vastgesteld voordat dit Lid de WTO-Overeenkomst ondertekende en die met de bepalingen van deze Overeenkomst in strijd zijn:
 
@@ -3909,7 +3934,7 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 28.2. De Leden breiden het toepassingsgebied van deze regelingen niet uit en verlengen deze na afloop niet.
 
-#### Artikel 29. Overschakeling op een markteconomie
+##### Artikel 29. Overschakeling op een markteconomie
 
 29.1. Leden die bezig zijn hun economie van een centraal geleide economie op een markteconomie over te schakelen kunnen de regelingen en maatregelen treffen die voor deze overschakeling noodzakelijk zijn.
 
@@ -3925,17 +3950,17 @@ Een Lid waarvan de nationale wetgeving bepalingen over compenserende rechten bev
 
 ## DEEL X. : BESLECHTING VAN GESCHILLEN
 
-#### Artikel 30
+##### Artikel 30
 
 Het bepaalde in de artikelen XXII en XXIII van de GATT 1994 zoals uitgewerkt en toegepast bij het Memorandum van Overeenstemming inzake de Beslechting van Geschillen (DSU – Dispute Settlement Understanding) is van toepassing op het overleg en de beslechting van geschillen in het kader van deze Overeenkomst, tenzij daarin uitdrukkelijk anders is bepaald.
 
 ## DEEL XI. : SLOTBEPALINGEN
 
-#### Artikel 31. Voorlopige toepassing
+##### Artikel 31. Voorlopige toepassing
 
 Het bepaalde in artikel 6, lid 1 en in de artikelen 8 en 9 zijn voor een periode van vijf jaar van toepassing vanaf de datum van inwerkingtreding van de WTO-Overeenkomst. Uiterlijk 180 dagen voor het einde van deze periode zal de Commissie de werking van deze bepalingen onderzoeken ten einde vast te stellen of de toepassing ervan, in de huidige dan wel in een gewijzigde vorm, moet worden verlengd.
 
-#### Artikel 32. Andere slotbepalingen
+##### Artikel 32. Andere slotbepalingen
 
 32.1. Bijzondere maatregelen tegen een subsidie van een ander Lid kunnen alleen worden genomen voor zover zij in overeenstemming zijn met de bepalingen van de GATT 1994, zoals bij deze Overeenkomst geïnterpreteerd1)Dit lid heeft niet ten doel te verhinderen dat in voorkomend geval maatregelen worden genomen op grond van andere bepalingen van de GATT 1994..
 
@@ -3965,23 +3990,23 @@ Erkennend bovendien dat daartoe een op alle Leden van toepassing zijnde en op de
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 Deze Overeenkomst stelt regels vast voor de toepassing van vrijwaringsmaatregelen, waaronder dient te worden verstaan de maatregelen bedoeld in artikel XIX van de GATT 1994.
 
-#### Artikel 2. Voorwaarden
+##### Artikel 2. Voorwaarden
 
 1. Een Lid 1)Een douane-unie kan een vrijwaringsmaatregel toepassen als instantie of namens een Lid-Staat. Wanneer een douane-unie een vrijwaringsmaatregel toepast als instantie moeten alle voorschriften voor het vaststellen van ernstige schade of de dreiging daarvan in de zin van deze Overeenkomst zijn gebaseerd op de voorwaarden die in de douane-unie als een geheel bestaan. Wanneer een vrijwaringsmaatregel wordt toegepast namens een Lid-Staat, moeten alle voorschriften voor de vaststelling van ernstige schade of de dreiging daarvan zijn gebaseerd op de voorwaarden die in die Lid-Staat bestaan en wordt de maatregel tot die Lid-Staat beperkt. Geen enkele bepaling van deze Overeenkomst doet af aan de interpretatie van het verband tussen artikel XIX en artikel XXIV, lid 8, van de GATT 1994. mag een vrijwaringsmaatregel slechts op een produkt toepassen indien dat Lid in overeenstemming met onderstaande bepalingen heeft vastgesteld dat dat produkt op zijn grondgebied wordt ingevoerd in dermate toegenomen hoeveelheden, absoluut of in verhouding tot de binnenlandse produktie, en onder zodanige voorwaarden dat ernstig nadeel wordt of dreigt te worden berokkend aan de binnenlandse industrie die soortgelijke of rechtstreeks concurrerende produkten vervaardigt.
 
 2. Vrijwaringsmaatregelen worden toegepast op een produkt dat wordt uitgevoerd, ongeacht de herkomst daarvan.
 
-#### Artikel 3. Onderzoek
+##### Artikel 3. Onderzoek
 
 1. Een Lid mag een vrijwaringsmaatregel slechts toepassen nadat de bevoegde autoriteiten van dat Lid een onderzoek hebben verricht in overeenstemming met procedures die van tevoren zijn vastgesteld en in overeenstemming met artikel X van de GATT 1994 openbaar zijn gemaakt. Dit onderzoek moet ook de publikatie omvatten van een bericht om alle betrokken partijen naar behoren op de hoogte te brengen, alsmede hoorzittingen of andere passende middelen om de invoerders, uitvoerders en andere belanghebbende partijen in staat te stellen bewijsmateriaal in te dienen, hun standpunt kenbaar te maken, en te antwoorden op de uiteenzettingen van andere partijen en hun zienswijze kenbaar maken omtrent ondermeer het feit of de toepassing van een vrijwaringsmaatregel al dan niet in het algemeen belang zou zijn. De bevoegde autoriteiten publiceren een verslag met hun bevindingen en gemotiveerde conclusies over alle relevante feitelijke en juridische kwesties.
 
 2. Inlichtingen die vanwege hun aard vertrouwelijk zijn of die vertrouwelijk worden verstrekt, worden, na opgave van redenen, vertrouwelijk behandeld door de bevoegde autoriteiten. Deze inlichtingen worden niet bekengemaakt dan na machtiging van de partij die ze heeft verstrekt. Partijen die vertrouwelijke inlichtingen verstrekken, kunnen worden verzocht niet-vertrouwelijke samenvattingen daarvan te verschaffen of, indien deze partijen verklaren dat de betrokken inlichtingen niet kunnen worden samengevat, de redenen waarom geen samenvatting kan worden verstrekt. Indien de bevoegde autoriteiten echter van mening zijn dat een verzoek om vertrouwelijke behandeling niet gegrond is en indien de betrokken partij de inlichtingen niet openbaar wil maken noch machtiging wil geven tot bekendmaking ervan in algemene bewoordingen of in de vorm van een samenvatting hebben zij het recht met de betrokken inlichtingen geen rekening te houden, tenzij hun op overtuigende wijze, uit passende bron, kan worden aangetoond dat de inlichtingen juist zijn.
 
-#### Artikel 4. Vaststelling van ernstige schade of de dreiging daarvan
+##### Artikel 4. Vaststelling van ernstige schade of de dreiging daarvan
 
 1. Voor de toepassing van deze Overeenkomst dient te worden verstaan onder:
 
@@ -3997,7 +4022,7 @@ Deze Overeenkomst stelt regels vast voor de toepassing van vrijwaringsmaatregele
 
 - c. De bevoegde autoriteiten publiceren onverwijld, in overeenstemming met de bepalingen van artikel 3, een uitvoerige analyse van de onderzochte zaak alsook een bewijs van het relevante karakter van de onderzochte factoren.
 
-#### Artikel 5. Toepassing van vrijwaringsmaatregelen
+##### Artikel 5. Toepassing van vrijwaringsmaatregelen
 
 1. Vrijwaringsmaatregelen worden slechts toegepast voor zover zij noodzakelijk zijn om ernstige schade te voorkomen of te herstellen en om aanpassing te vergemakkelijken. Indien een kwantitatieve beperking wordt toegepast mag de omvang van de invoer door een dergelijke maatregel niet beneden het niveau van een recente periode worden gebracht dat overeenkomt met de gemiddelde invoer van de voorbije drie representatieve jaren waarvoor statistieken beschikbaar zijn, tenzij duidelijk wordt aangetoond dat een ander niveau noodzakelijk is om ernstige schade te voorkomen of te herstellen. De Leden dienen de maatregelen te kiezen die het meest geschikt zijn om deze doelstellingen te verwezenlijken.
 
@@ -4005,11 +4030,11 @@ Deze Overeenkomst stelt regels vast voor de toepassing van vrijwaringsmaatregele
 
 - b. Een Lid kan afwijken van de bepalingen sub a. op voorwaarde dat het in artikel 12, lid 3, bedoelde overleg plaatvindt onder de auspiciën van de bij artikel 13, lid 1 ingestelde Commissie Vrijwaringsmaatregelen en dat aan deze Commissie duidelijk is aangetoond dat i. de invoer uit bepaalde Leden is toegenomen met een percentage dat niet in verhouding staat tot de totale toename van de invoer van het betrokken produkt in de representatieve periode, ii. de redenen waarom van de bepalingen sub a. wordt afgeweken gegrond zijn, en iii. de voorwaarden van die afwijking billijk zijn voor alle leveranciers van het betrokken produkt. De duur van dergelijke maatregelen wordt beperkt tot de initiële periode bedoeld in artikel 7, lid 1. Bovengenoemde afwijking wordt niet toegestaan indien er dreiging van ernstige schade bestaat.
 
-#### Artikel 6. Voorlopige vrijwaringsmaatregelen
+##### Artikel 6. Voorlopige vrijwaringsmaatregelen
 
 Wanneer, onder kritieke omstandigheden, uitstel moeilijk te herstellen schade zou veroorzaken, mag een Lid een voorlopige vrijwaringsmaatregel nemen nadat vooraf is vastgesteld dat er duidelijke bewijzen zijn dat de toegenomen invoer ernstige schade heeft veroorzaakt of dreigt te veroorzaken. De duur van de voorlopige maatregel mag niet meer bedragen dan 200 dagen, gedurende welke periode moet worden voldaan aan de ter zake geldende voorschriften van artikelen 2 tot en met 7 en artikel 12. Dergelijke maatregelen dienen de vorm aan te nemen van tariefverhogingen die terstond worden terugbetaald indien het daaropvolgend onderzoek, bedoeld in artikel 4, lid 2, niet aantoont dat de toegenomen invoer ernstige schade heeft berokkend of dreigde te berokkenen aan een binnenlandse industrie. De duur van een dergelijke voorlopige maatregel wordt gerekend als een deel van de initiële periode en van de verlengingen als bedoeld in leden 1, 2 en 3 van artikel 7.
 
-#### Artikel 7. Duur en herziening van vrijwaringsmaatregelen
+##### Artikel 7. Duur en herziening van vrijwaringsmaatregelen
 
 1. Een Lid mag vrijwaringsmaatregelen slechts zolang toepassen als noodzakelijk is om ernstige schade te voorkomen of herstellen en om aanpassing te vergemakkelijken. De periode mag niet langer zijn dan vier jaar, tenzij zij overeenkomstig lid 2 wordt verlengd.
 
@@ -4027,7 +4052,7 @@ Wanneer, onder kritieke omstandigheden, uitstel moeilijk te herstellen schade zo
 
 - b. dergelijke vrijwaringsmaatregel in de onmiddellijk aan de datum van instelling van de maatregel voorafgaande periode van vijf jaar niet meer dan twee keer op hetzelfde produkt is toegepast.
 
-#### Artikel 8. Concessies en andere verplichtingen
+##### Artikel 8. Concessies en andere verplichtingen
 
 1. Een Lid dat voornemens is een vrijwaringsmaatregel toe te passen of een vrijwaringsmaatregel wil verlengen streeft ernaar een niveau van concessies en andere verplichtingen in stand te houden dat in wezen gelijk is aan het niveau dat krachtens de GATT 1994 bestaat tussen hem en de exporterende Leden die door een dergelijke maatregel zouden worden getroffen, in overeenstemming met de bepalingen van artikel 12, lid 3. Om dit doel te bereiken kunnen de betrokken Leden overeenstemming bereiken over alle afdoende middelen om de nadelige gevolgen van de maatregel op hun handelsverkeer te compenseren.
 
@@ -4035,17 +4060,17 @@ Wanneer, onder kritieke omstandigheden, uitstel moeilijk te herstellen schade zo
 
 3. Het in lid 2 bedoelde recht tot opschorting mag niet worden uitgeoefend tijdens de eerste drie jaar dat een vrijwaringsmaatregel wordt toegepast, op voorwaarde dat de vrijwaringsmaatregel is genomen als gevolg van een absolute toename van de invoer en in overeenstemming is met de bepalingen van deze Overeenkomst.
 
-#### Artikel 9. Leden die ontwikkelingslanden zijn
+##### Artikel 9. Leden die ontwikkelingslanden zijn
 
 1. Er mogen geen vrijwaringsmaatregelen worden toegepast op een produkt van oorsprong uit een Lid dat een ontwikkelingsland is zolang het aandeel van dit Lid in de invoer van het betrokken produkt in het importerend Lid niet groter is dan 3 percent, op voorwaarde dat Leden die ontwikkelingslanden zijn en wier aandeel in de invoer kleiner is dan 3 percent tezamen niet meer dan 9 percent van de totale invoer van het betrokken produkt vertegenwoordigen1)Een Lid moet de Commissie Vrijwaringsmaatregelen onmiddellijk in kennis stellen van een op grond van artikel 9, lid 1, genomen maatregel..
 
 2. Een Lid dat een ontwikkelingsland is heeft het recht de in artikel 7, lid 3, vermelde maximumperiode voor de toepassing van een vrijwaringsmaatregel met ten hoogste twee jaar te verlengen. In afwijking van de bepalingen van artikel 7, lid 5, heeft een Lid dat een ontwikkelingsland is het recht een vrijwaringsmaatregel opnieuw toe te passen op de invoer van een produkt die het voorwerp heeft uitgemaakt van een dergelijke maatregel, genomen na de datum van inwerkingtreding van de WTO-Overeenkomst, na een periode die gelijk is aan de helft van de periode gedurende welke een dergelijke maatregel vroeger is toegepast, met dien verstande dat de periode van niet-toepassing ten minste twee jaar moet bedragen.
 
-#### Artikel 10. Reeds bestaande maatregelen van artikel XIX
+##### Artikel 10. Reeds bestaande maatregelen van artikel XIX
 
 De Leden moeten alle krachtens artikel XIX van de GATT 1947 genomen vrijwaringsmaatregelen die op de datum van inwerkingtreding van de WTO-Overeenkomst bestonden binnen de acht jaar na de datum waarop zij voor het eerst zijn toegepast of vijf jaar na de datum van inwerkingtreding van de WTO-Overeenkomst, indien deze datum later valt, beëindigen.
 
-#### Artikel 11. Verbod en opheffing van bepaalde maatregelen
+##### Artikel 11. Verbod en opheffing van bepaalde maatregelen
 
 - a. Een Lid mag met betrekking tot de invoer van bepaalde produkten geen noodmaatregelen, als bedoeld in artikel XIX van de GATT 1994, nemen noch nastreven tenzij die maatregelen in overeenstemming zijn met de overeenkomstig deze Overeenkomst toegepaste bepalingen van dat artikel.
 
@@ -4057,7 +4082,7 @@ De Leden moeten alle krachtens artikel XIX van de GATT 1947 genomen vrijwaringsm
 
 3. De Leden mogen de goedkeuring of handhaving door openbare en particuliere ondernemingen van niet-gouvernementele maatregelen gelijkwaardig aan die bedoeld in lid 1 niet stimuleren noch steunen.
 
-#### Artikel 12. Kennisgeving en Overleg
+##### Artikel 12. Kennisgeving en Overleg
 
 1. Een Lid stelt de Commissie Vrijwaringsmaatregelen onverwijld in kennis van:
 
@@ -4087,7 +4112,7 @@ De Leden moeten alle krachtens artikel XIX van de GATT 1947 genomen vrijwaringsm
 
 11. De bepalingen van deze Overeenkomst met betrekking tot kennisgeving verplichten een Lid niet tot bekendmaking van vertrouwelijke gegevens waardoor de handhaving der wetten zou worden belemmerd, dan wel het openbare belang of de wettige handelsbelangen van bepaalde openbare of particuliere ondernemingen zouden worden geschaad.
 
-#### Artikel 13. Toezicht
+##### Artikel 13. Toezicht
 
 1. Er wordt een Commissie Vrijwaringsmaatregelen ingesteld die onder de bevoegdheid staat van de Raad voor de handel in goederen en waaraan alle Leden kunnen deelnemen die daartoe de wens te kennen geven. De Commissie wordt belast met:
 
@@ -4107,7 +4132,7 @@ De Leden moeten alle krachtens artikel XIX van de GATT 1947 genomen vrijwaringsm
 
 2. Om de Commissie bij de uitoefening van haar toezichthoudende functie te helpen, stelt het Secretariaat jaarlijks een feitenverslag op over de werking van deze Overeenkomst, gebaseerd op kennisgevingen en andere betrouwbare informatie waarover het beschikt.
 
-#### Artikel 14. Beslechting van geschillen
+##### Artikel 14. Beslechting van geschillen
 
 De bepalingen van artikelen XXII en XXIII van de GATT 1994 als uitgewerkt en toegepast door het Memorandum van Overeenstemming inzake de beslechting van geschillen zijn van toepassing op het overleg en de beslechting van geschillen die in het kader van deze Overeenkomst rijzen.
 
@@ -4127,7 +4152,7 @@ Met name rekening houdend met de ernstige moeilijkheden van de minstontwikkelde 
 
 ## DEEL I. TOEPASSINGSGEBIED EN DEFINITIES
 
-#### Artikel I. Toepassingsgebied en definities
+##### Artikel I. Toepassingsgebied en definities
 
 1. Deze Overeenkomst is van toepassing op maatregelen van Leden die de handel in diensten raken.
 
@@ -4155,7 +4180,7 @@ Met name rekening houdend met de ernstige moeilijkheden van de minstontwikkelde 
 
 ## DEEL II. ALGEMENE VERPLICHTINGEN EN DISCIPLINES
 
-#### Artikel II. Meestbegunstiging
+##### Artikel II. Meestbegunstiging
 
 1. Ten aanzien van alle maatregelen die onder deze Overeenkomst vallen, behandelt ieder Lid diensten en dienstverleners van een ander Lid terstond en onvoorwaardelijk niet ongunstiger dan soortgelijke diensten en dienstverleners uit enig ander land.
 
@@ -4163,7 +4188,7 @@ Met name rekening houdend met de ernstige moeilijkheden van de minstontwikkelde 
 
 3. De bepalingen van deze overeenkomst worden niet zodanig uitgelegd dat een Lid hierdoor wordt verhinderd aangrenzende landen voordelen toe te staan of te verlenen om het handelsverkeer dat beperkt is tot plaatselijk voortgebrachte en verbruikte diensten in naast elkaar liggende grenszones te vergemakkelijken.
 
-#### Artikel III. Doorzichtigheid
+##### Artikel III. Doorzichtigheid
 
 1. Ieder Lid maakt alle relevante maatregelen van algemene gelding die met de werking van deze Overeenkomst verband houden of deze raken onmiddellijk bekend en uiterlijk op het moment van hun inwerkingtreding, behalve in noodsituaties. Ondertekent een Lid een internationale overeenkomst die verband houdt met de handel in diensten of deze raakt, dan wordt deze eveneens bekendgemaakt.
 
@@ -4175,11 +4200,11 @@ Met name rekening houdend met de ernstige moeilijkheden van de minstontwikkelde 
 
 5. Is een Lid van oordeel dat een door een ander Lid genomen maatregel de werking van deze Overeenkomst raakt, dan kan hij deze maatregel bij de Raad voor de Handel in Diensten aanmelden.
 
-#### Artikel IIIbis. Bekendmaking van vertrouwelijke informatie
+##### Artikel IIIbis. Bekendmaking van vertrouwelijke informatie
 
 Geen enkele bepaling van deze Overeenkomst verplicht een Lid tot verstrekking van vertrouwelijke informatie waarvan bekendmaking de rechtshandhaving belemmert, die anderszins met het openbaar belang in strijd is of die schadelijk is voor de rechtmatige handelsbelangen van openbare of particuliere ondernemingen.
 
-#### Artikel IV. Grotere deelname van de ontwikkelingslanden
+##### Artikel IV. Grotere deelname van de ontwikkelingslanden
 
 1. De grotere deelname aan de wereldhandel van de Leden die ontwikkelingsland zijn wordt bevorderd door specifieke, uit onderhandelingen voortvloeiende verbintenissen van de verschillende Leden overeenkomstig de Delen III en IV van deze overeenkomst en die betrekking hebben op:
 
@@ -4199,7 +4224,7 @@ Geen enkele bepaling van deze Overeenkomst verplicht een Lid tot verstrekking va
 
 3. Bij de toepassing van de leden 1 en 2 zal bijzondere prioriteit worden verleend aan de Leden die minstontwikkelde landen zijn. Met name zal rekening worden gehouden met de ernstige moeilijkheden van de minstontwikkelde landen bij het aanvaarden van uit de onderhandelingen voortvloeiende specifieke verbintenissen vanwege hun bijzondere economische situatie en hun behoeften op het gebied van ontwikkeling, handel en financiën.
 
-#### Artikel V. Economische integratie
+##### Artikel V. Economische integratie
 
 1. Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn of te worden bij een overeenkomst tot liberalisering van de handel in diensten tussen de bij de overeenkomst aangesloten partijen, op voorwaarde dat een dergelijke overeenkomst:
 
@@ -4231,7 +4256,7 @@ Geen enkele bepaling van deze Overeenkomst verplicht een Lid tot verstrekking va
 
 8. Een Lid dat partij bij een in lid 1 bedoelde overeenkomst is, mag geen compensatie vragen voor handelsvoordelen die een ander Lid op grond van die overeenkomst kan verkrijgen.
 
-#### Artikel Vbis. Overeenkomsten inzake de integratie van arbeidsmarkten
+##### Artikel Vbis. Overeenkomsten inzake de integratie van arbeidsmarkten
 
 Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een overeenkomst tot volledige integratie1)Het kenmerk van een dergelijke integratie-overeenkomst is dat de burgers van betrokken partijen vrije toegang hebben tot de arbeidsmarkten van de partijen, en dat daarin ook bepalingen zijn opgenomen inzake lonen, andere arbeidsvoorwaarden en sociale zekerheid. van de arbeidsmarkten tussen partijen, mits die overeenkomst:
 
@@ -4239,7 +4264,7 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 - b. bij de Raad voor de Handel in Diensten wordt aangemeld.
 
-#### Artikel VI. Binnenlandse regelingen
+##### Artikel VI. Binnenlandse regelingen
 
 1. Ieder Lid ziet erop toe dat in de sectoren waarvoor specifieke verbintenissen worden aangegaan, alle maatregelen van algemene gelding die de handel in diensten raken op redelijke, objectieve en onpartijdige wijze worden toegepast.
 
@@ -4267,7 +4292,7 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 6. In sectoren waarvoor specifieke verbintenissen ten aanzien van de diensten van deskundigen zijn aangegaan, ziet ieder Lid erop toe dat passende procedures bestaan om de bekwaamheid van deskundigen van een ander Lid te toetsen.
 
-#### Artikel VII. Erkenning
+##### Artikel VII. Erkenning
 
 1. Een Lid kan erkennen dat in een bepaald land genoten onderwijs, opgedane ervaring, vervulde voorwaarden of afgegeven vergunningen of certificaten geheel of gedeeltelijk voldoen aan door hem gehanteerde normen of criteria voor het verlenen van goedkeuring of voor het afgeven van vergunningen of certificaten aan dienstverleners, met inachtneming van het bepaalde in lid 3. Deze erkenning, die via harmonisatie of op andere wijze kan geschieden, kan op een overeenkomst of regeling met het betrokken land worden gebaseerd of autonoom worden verleend.
 
@@ -4285,7 +4310,7 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 5. Telkens wanneer dit gepast is, dient erkenning op grond van multilateraal overeengekomen criteria te geschieden. In daartoe geëigende gevallen werken de Leden met de bevoegde overheidsinstanties en niet-gouvernementele organisaties samen bij de opstelling en goedkeuring van gemeenschappelijke internationale normen en criteria voor erkenning en van gemeenschappelijke internationale normen voor de uitoefening van activiteiten en beroepen in verband met de dienstverlening.
 
-#### Artikel VIII. Monopolies en exclusieve dienstverleners
+##### Artikel VIII. Monopolies en exclusieve dienstverleners
 
 1. Ieder Lid ziet erop toe dat een dienstverlener met een monopolie op zijn grondgebied, bij de verlening van een dienst op de markt waarop hij een monopolie heeft, niet handelt op een wijze die strijdig is met de verplichtingen van dat Lid ingevolge artikel II en zijn specifieke verbintenissen.
 
@@ -4297,13 +4322,13 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 5. Dit artikel is tevens van toepassing op exclusieve dienstverleners indien een Lid, formeel of feitelijk, a. een klein aantal dienstverleners opricht of daaraan vergunning verleent, en b. de mededinging tussen hen op zijn grondgebied aanmerkelijk verhindert.
 
-#### Artikel IX. Handelspraktijken
+##### Artikel IX. Handelspraktijken
 
 1. De Leden erkennen dat bepaalde handelspraktijken van dienstverleners, andere dan die welke in artikel VIII zijn bedoeld, de mededinging en daarmee de handel in diensten kunnen beperken.
 
 2. Ieder Lid treedt op verzoek van een ander Lid in overleg met het oog op uitbanning van de in lid 1 genoemde praktijken. Het aangezochte Lid behandelt dit verzoek diepgaand en met welwillendheid en werkt mee door middel van de verstrekking van algemeen beschikbare, niet-vertrouwelijke informatie die voor het betrokken geval van belang is. Het aangezochte Lid verstrekt tevens andere beschikbare informatie aan het verzoekende Lid, onder voorbehoud van zijn nationale recht en het sluiten van een bevredigende overeenkomst betreffende de eerbiediging van de vertrouwelijke aard van deze informatie door het verzoekende Lid.
 
-#### Artikel X. Urgentie-vrijwaringsmaatregelen
+##### Artikel X. Urgentie-vrijwaringsmaatregelen
 
 1. Er worden multilaterale onderhandelingen gevoerd over urgentie-vrijwaringsmaatregelen die van het beginsel van non-discriminatie uitgaan. De resultaten van die onderhandelingen worden uiterlijk drie jaar na de datum van inwerkingtreding van de WTO-Overeenkomst van kracht.
 
@@ -4311,13 +4336,13 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 3. Lid 2 vervalt drie jaar na de datum van inwerkingtreding van de WTO-Overeenkomst.
 
-#### Artikel XI. Betalingen en overmakingen
+##### Artikel XI. Betalingen en overmakingen
 
 1. Een Lid past geen beperkingen toe op internationale overmakingen en betalingen voor lopende transacties die verband houden met zijn specifieke verbintenissen, behoudens in de in artikel XII genoemde omstandigheden.
 
 2. Geen enkele bepaling in deze 0vereenkomst doet afbreuk aan de rechten en plichten van de leden van het Internationale Monetaire Fonds die uit de artikelen van de Overeenkomst van dit Fonds voortvloeien, met inbegrip van wisselkoersmaatregelen overeenkomstig de artikelen van Overeenkomst, voor zover een Lid geen beperkingen instelt op kapitaaltransacties op een wijze die in strijd is met zijn specifieke verbintenissen betreffende die transacties, behalve bij toepassing van artikel XII of op verzoek van het Fonds.
 
-#### Artikel XII. Beperkingen ter bescherming van de betalingsbalans
+##### Artikel XII. Beperkingen ter bescherming van de betalingsbalans
 
 1. In geval van ernstige problemen of dreigende ernstige problemen op het gebied van de betalingsbalans en de buitenlandse financiële positie, mag een Lid beperkingen op de handel in diensten waarvoor het specifieke verplichtingen is aangegaan instellen of in stand houden, waaronder beperkingen op betalingen of overmakingen voor transacties die met die verbintenissen verband houden. Erkend wordt dat een bijzondere druk op de betalingsbalans van een Lid dat met economische ontwikkeling of economische omschakeling bezig is het instellen van beperkingen noodzakelijk kan maken om dit Lid, onder andere, in staat te stellen, voldoende financiële reserves aan te houden om het programma voor economische ontwikkeling of economische omschakeling te kunnen uitvoeren.
 
@@ -4355,13 +4380,13 @@ Deze Overeenkomst vormt voor geen enkel Lid een beletsel partij te zijn bij een 
 
 6. Wanneer een Lid dat niet bij het Internationale Monetaire Fonds is aangesloten de bepalingen van dit artikel wil toepassen, stelt de Ministeriële Conferentie een onderzoekprocedure en elke andere noodzakelijke procedure in.
 
-#### Artikel XIII. Overheidsopdrachten
+##### Artikel XIII. Overheidsopdrachten
 
 1. De artikelen II, XVI en XVII zijn niet van toepassing op wetten, voorschriften of eisen voor de verwerving door overheidsinstanties van diensten aangekocht voor overheidsdoeleinden en niet met het oog op commerciële wederverkoop of het gebruik bij dienstverlening voor commerciële verkoop.
 
 2. Binnen twee jaar na de datum van inwerkingtreding van de WTO-Overeenkomst vinden multilaterale onderhandelingen plaats over overheidsopdrachten voor diensten die onder deze Overeenkomst vallen.
 
-#### Artikel XIV. Algemene uitzonderingen
+##### Artikel XIV. Algemene uitzonderingen
 
 Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toegepast dat zij een middel vormen tot willekeurige of ongerechtvaardigde discriminatie tussen landen waar gelijksoortige omstandigheden heersen of tot een verkapte beperking van de handel in diensten, wordt geen bepaling in deze Overeenkomst uitgelegd als een beletsel voor het vaststellen of toepassen door een Lid van maatregelen:
 
@@ -4381,7 +4406,7 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 - e. die strijdig zijn met artikel II, mits het verschil in behandeling het gevolg is van een overeenkomst ter vermijding van dubbele belastingheffing of van bepalingen ter vermijding van dubbele belastingheffing in een internationale overeenkomst of regeling waaraan een Lid is gebonden.
 
-#### Artikel XIVbis. Uitzonderingen met betrekking tot de staatsveiligheid
+##### Artikel XIVbis. Uitzonderingen met betrekking tot de staatsveiligheid
 
 1. Geen enkele bepaling in deze Overeenkomst wordt zodanig uitgelegd dat zij:
 
@@ -4399,7 +4424,7 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 2. De Raad voor de Handel in Diensten wordt zo volledig mogelijk op de hoogte gebracht van de op grond van lid 1, onder b. en c., genomen maatregelen en de beëindiging daarvan.
 
-#### Artikel XV. Subsidies
+##### Artikel XV. Subsidies
 
 1. De Leden erkennen dat subsidies, in bepaalde omstandigheden, de handel in diensten kunnen verstoren. De Leden treden met elkaar in onderhandeling ten einde de noodzakelijke multilaterale disciplines te ontwikkelen om deze handelsverstoring te voorkomenIn een toekomstig werkprogrammma zal worden bepaald hoe en binnen welke termijn, over deze multilaterale disciplines zal worden onderhandeld. Bij deze onderhandelingen wordt tevens de gegrondheid van compenserende procedures besproken, waarbij de rol van subsidies in het kader van ontwikkelingsprogramma's van ontwikkelingslanden wordt erkend en met de behoeften van de Leden, met name van de Leden die ontwikkelingsland zijn, aan flexibiliteit op dit gebied rekening wordt gehouden. Met het oog op deze onderhandelingen wisselen de Leden informatie uit over alle subsidies in verband met de handel in diensten die zij hun binnenlandse dienstverleners toekennen1)In een toekomstig werkprogrammma zal worden bepaald hoe en binnen welke termijn, over deze multilaterale disciplines zal worden onderhandeld.. Bij deze onderhandelingen wordt tevens de gegrondheid van compenserende procedures besproken, waarbij de rol van subsidies in het kader van ontwikkelingsprogramma's van ontwikkelingslanden wordt erkend en met de behoeften van de Leden, met name van de Leden die ontwikkelingsland zijn, aan flexibiliteit op dit gebied rekening wordt gehouden. Met het oog op deze onderhandelingen wisselen de Leden informatie uit over alle subsidies in verband met de handel in diensten die zij hun binnenlandse dienstverleners toekennen.
 
@@ -4407,7 +4432,7 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 ## DEEL III. SPECIFIEKE VERBINTENISSEN
 
-#### Artikel XVI. Markttoegang
+##### Artikel XVI. Markttoegang
 
 1. Wat markttoegang via de in artikel I genoemde vormen van dienstverlening betreft, geeft elk Lid diensten en dienstverleners van een ander Lid geen ongunstiger behandeling dan die waarin is voorzien in de voorwaarden en beperkingen die zijn overeengekomen en in zijn Lijst opgenomen1)Als een Lid een verbintenis betreffende markttoegang aangaat in verband met de verlening van een dienst door middel van de in artikel I, lid 2, onder a., genoemde verleningsvormen en grensoverschrijdend kapitaalverkeer een wezenlijk onderdeel van deze dienst uitmaakt, is dit Lid daardoor gehouden dit kapitaalverkeer toe te laten. Als een Lid een verbintenis betreffende markttoegang aangaat in verband met de verlening van een dienst door middel van de in artikel I, lid 2, onder c. genoemde verleningsvormen, is het Lid daardoor gehouden de daarmee verband houdende overmakingen van kapitaal naar zijn grondgebied toe te laten..
 
@@ -4425,7 +4450,7 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 - f. beperkingen van de participatie van buitenlands kapitaal in termen van een maximum-percentage voor buitenlands aandeelhouderschap of de totale waarde van individuele of totale buitenlandse investeringen.
 
-#### Artikel XVII. Nationale behandeling
+##### Artikel XVII. Nationale behandeling
 
 1. Wat de in zijn Lijst opgenomen sectoren aangaat, en onder voorbehoud van de daarin vermelde voorwaarden en kwalificaties, behandelt ieder Lid diensten en dienstverleners van andere Leden niet ongunstiger dan zijn eigen soortgelijke diensten en dienstverleners in verband met alle maatregelen die de dienstverlening raken1)De op grond van dit artikel aangegane specifieke verbintenissen worden niet zodanig uitgelegd dat een Lid verplicht is tot compensatie van concurrentienadelen die inherent zijn aan het buitenlandse karakter van de desbetreffende diensten of dienstverleners..
 
@@ -4433,13 +4458,13 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 3. Een formeel gelijke of een formeel verschillende behandeling wordt als ongunstiger beschouwd indien deze de mededingingsvoorwaarden wijzigt ten gunste van diensten en dienstverleners van het Lid ten opzichte van soortgelijke diensten of dienstverleners van een ander Lid.
 
-#### Artikel XVIII. Bijkomende verbintenissen
+##### Artikel XVIII. Bijkomende verbintenissen
 
 De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen die de handel in diensten raken en op grond van artikel XVI of artikel XVII niet in de Lijsten zijn opgenomen, met inbegrip van maatregelen op het gebied van kwalificaties, normen en vergunningen. Deze verbintenissen worden opgenomen in de Lijst van een Lid.
 
 ## DEEL IV. GELEIDELIJKE LIBERALISERING
 
-#### Artikel XIX. Onderhandelingen over specifieke verbintenissen
+##### Artikel XIX. Onderhandelingen over specifieke verbintenissen
 
 1. Overeenkomstig de doelstellingen van deze Overeenkomst nemen de Leden aan achtereenvolgende onderhandelingsronden deel die uiterlijk vijf jaar na de datum van inwerkingtreding van de WTO-Overeenkomst zullen aanvangen en daarna regelmatig zullen plaatsvinden ten einde de handel in diensten steeds meer te liberaliseren. Deze onderhandelingen zijn gericht op de beperking of afschaffing van maatregelen die van negatieve invloed zijn op de handel in diensten ten einde de markten daadwerkelijk toegankelijk te maken. Hierbij wordt gestreefd naar de bevordering van de belangen van alle deelnemers op basis van wederzijds voordeel en het bereiken van een globaal evenwicht tussen rechten en plichten.
 
@@ -4449,7 +4474,7 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 4. Het proces van geleidelijke liberalisering wordt tijdens iedere ronde voortgezet door middel van bilaterale, plurilaterale of multilaterale onderhandelingen die gericht zijn op de verhoging van het algemene niveau van de verbintenissen die de Leden ingevolge deze Overeenkomst zijn aangegaan.
 
-#### Artikel XX. Lijsten van specifieke verbintenissen
+##### Artikel XX. Lijsten van specifieke verbintenissen
 
 1. Ieder Lid stelt een lijst op van de specifieke verbintenissen die het op grond van Deel III van deze Overeenkomst aangaat. Met betrekking tot de sectoren waarvoor dergelijke verbintenissen zijn aangegaan, wordt in iedere Lijst het volgende vermeld:
 
@@ -4467,7 +4492,7 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 3. De Lijsten van specifieke verbintenissen worden als bijlage bij deze Overeenkomst gevoegd en vormen een onderdeel daarvan.
 
-#### Artikel XXI. Wijziging van de lijsten
+##### Artikel XXI. Wijziging van de lijsten
 
 - a. Een Lid (in dit artikel „Lid dat een wijziging aanbrengt” genoemd) kan elke verbintenis die in zijn Lijst is opgenomen, na verloop van drie jaar na de datum van inwerkingtreding van die verbintenis, steeds wijzigen of intrekken, in overeenstemming met de bepalingen van dit artikel.
 
@@ -4489,7 +4514,7 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 ## DEEL V. INSTITUTIONELE BEPALINGEN
 
-#### Artikel XXII. Overleg
+##### Artikel XXII. Overleg
 
 1. Elk Lid neemt de eventuele opmerkingen van een ander Lid over aangelegenheden in verband met de uitvoering van deze Overeenkomst in welwillende overweging en biedt voldoende gelegenheid voor overleg. Het Memorandum van Overeenstemming inzake de Beslechting van Geschillen (DSU) is op dit overleg van toepassing.
 
@@ -4497,7 +4522,7 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 3. Een Lid mag op grond van dit artikel of op grond van artikel XXIII geen beroep doen op artikel XVII ten aanzien van een maatregel van een ander Lid die onder het toepassingsgebied van een internationale overeenkomst valt die tussen hen is gesloten betreffende de vermijding van dubbele belastingheffing. In geval van onenigheid tussen Leden over de vraag of een maatregel onder het toepassingsgebied van een dergelijke overeenkomst valt, kan elk van beide Leden deze kwestie voor de Raad voor de Handel in Diensten brengen1)Wat betreft de overeenkomsten ter vermijding van dubbele belastingheffing die op de datum van inwerkingtreding van de WTO-Overeenkomst reeds bestaan, kan een dergelijke kwestie alleen met instemming van beide Partijen bij die Overeenkomst voor de Raad voor de Handel in Diensten worden gebracht., die de kwestie aan arbitrage onderwerpt. De beslissing van de arbiter is definitief en bindend voor de Leden.
 
-#### Artikel XXIII. Geschillenbeslechting en handhaving van de bepalingen van de Overeenkomst
+##### Artikel XXIII. Geschillenbeslechting en handhaving van de bepalingen van de Overeenkomst
 
 1. Indien een Lid van oordeel is dat een ander Lid zijn verplichtingen of specifieke verbintenissen uit hoofde van deze Overeenkomst niet nakomt, kan het een beroep doen op de DSU om tot een voor beide partijen bevredigende oplossing te komen.
 
@@ -4505,7 +4530,7 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 3. Indien een Lid van oordeel is dat een voordeel waarvan het redelijkerwijs kon verwachten dat het hem krachtens een specifieke verbintenis van een ander Lid ingevolge deel III van deze Overeenkomst zou toekomen, wordt uitgehold of te niet gedaan door de toepassing van een maatregel die niet met de bepalingen van deze Overeenkomst in strijd is, kan het een beroep doen op de DSU. Indien het DSB vaststelt dat de maatregel een dergelijk voordeel heeft uitgehold of te niet gedaan, is het getroffen Lid gerechtigd tot een voor beide partijen bevredigende aanpassing op grond van artikel XXI, lid 2, die een wijziging of intrekking van de maatregel kan inhouden. Kan tussen de betrokken Leden geen overeenstemming worden bereikt, dan is artikel 22 van de DSU van toepassing.
 
-#### Artikel XXIV. De Raad voor de Handel in Diensten
+##### Artikel XXIV. De Raad voor de Handel in Diensten
 
 1. De Raad voor de Handel in Diensten vervult de taken die hem worden opgedragen ter bevordering van de uitvoering en de doelstellingen van deze Overeenkomst te bevorderen. De Raad kan de suborganen oprichten die hij voor de doeltreffende vervulling van zijn taken nuttig acht.
 
@@ -4513,19 +4538,19 @@ De Leden kunnen over verbintenissen onderhandelen met betrekking tot maatregelen
 
 3. De voorzitter van de Raad wordt door de Leden gekozen.
 
-#### Artikel XXV. Technische samenwerking
+##### Artikel XXV. Technische samenwerking
 
 1. De in artikel IV, lid 2, bedoelde contactpunten zijn toegankelijk voor dienstverleners van Leden die aan ondersteuning door dergelijke contactpunten behoefte hebben.
 
 2. Technische bijstand aan ontwikkelingslanden wordt op multilateraal niveau door het Secretariaat verstrekt. Besluiten over technische bijstand worden door de Raad voor de Handel in Diensten genomen.
 
-#### Artikel XXVI. Betrekkingen met andere internationale organisaties
+##### Artikel XXVI. Betrekkingen met andere internationale organisaties
 
 De Algemene Raad stelt de nodige regels vast voor overleg en samenwerking met de Verenigde Naties en de gespecialiseerde agentschappen van de Verenigde naties, alsmede andere intergouvernementele organisaties die zich met diensten bezighouden.
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel XXVII. Weigering toekenning voordelen
+##### Artikel XXVII. Weigering toekenning voordelen
 
 Een Lid kan weigeren de voordelen van deze Overeenkomst toe te kennen:
 
@@ -4539,7 +4564,7 @@ Een Lid kan weigeren de voordelen van deze Overeenkomst toe te kennen:
 
 - c. aan een dienstverlener die een rechtspersoon is, indien het vaststelt dat deze geen dienstverlener van een ander Lid is dan wel dat deze een dienstverlener van een Lid is ten aanzien waarvan het de WTO-Overeenkomst niet toepast.
 
-#### Artikel XXVIII. Definities
+##### Artikel XXVIII. Definities
 
 Voor de toepassing van deze Overeenkomst:
 
@@ -4613,11 +4638,11 @@ Voor de toepassing van deze Overeenkomst:
 
 - o. omvatten „directe belastingen” alle belastingen op het totale inkomen, het totale kapitaal, of onderdelen van inkomen of kapitaal, waaronder belastingen op winsten uit overdracht van eigendom, belastingen op onroerend goed, erfenissen en schenkingen, of belastingen op het totale bedrag aan door ondernemingen betaalde lonen of salarissen, alsook belastingen op waardevermeerdering van kapitaal.
 
-#### Artikel XXIX. Bijlagen
+##### Artikel XXIX. Bijlagen
 
 De Bijlagen bij deze Overeenkomst vormen een integrerend deel van deze Overeenkomst.
 
-#### 1. Toepassingsgebied en definities
+##### 1. Toepassingsgebied en definities
 
 a. Deze Bijlage is van toepassing op maatregelen die de verlening van financiële diensten raken. In deze Bijlage betekent verlening van een financiële dienst de verlening van een dienst, zoals gedefinieerd in artikel I, lid 2, van de Overeenkomst.
 
@@ -4633,13 +4658,13 @@ c. Wanneer een Lid toestaat dat een onder b. ii. of b. iii. van dit punt genoemd
 
 d. Artikel I, lid 3, onder c., van de Overeenkomst is niet van toepassing op diensten die niet onder deze Bijlage vallen.
 
-#### 2. Binnenlandse regelingen
+##### 2. Binnenlandse regelingen
 
 a. In afwijking van andere bepalingen van de Overeenkomst wordt een Lid niet verhinderd maatregelen van bedrijfseconomisch toezicht te nemen, daarbij inbegrepen maatregelen ter bescherming van investeerders, spaarders, polishouders of personen jegens wie een financiële dienstverlener een fudicaire verplichting heeft, of ter verzekering van de integriteit en stabiliteit van het financiële systeem. Wanneer deze maatregelen niet in overeenstemming met de bepalingen van de Overeenkomst zijn, mogen zij niet worden gebruikt als middel om aan de krachtens de Overeenkomst op een Lid rustende verbintenissen of verplichtingen te ontkomen.
 
 b. Niets in de Overeenkomst mag zodanig worden uitgelegd dat van een Lid bekendmaking kan worden geëist van gegevens over de zaken en rekeningen van individuele klanten of van vertrouwelijke informatie of informatie inzake eigendomsrechten die in het bezit van openbare instanties is.
 
-#### 3. Erkenning
+##### 3. Erkenning
 
 a. Een Lid kan maatregelen van bedrijfseconomisch toezicht van elk ander land erkennen door te bepalen op welke wijze de maatregelen van het Lid betreffende financiële diensten worden toegepast. Deze erkenning, door harmonisatie of op andere wijze, kan op een overeenkomst of regeling met het betrokken land worden gebaseerd of autonoom geschieden.
 
@@ -4647,11 +4672,11 @@ b. Een Lid, partij bij een onder a. genoemde, toekomstige dan wel bestaande over
 
 c. Artikel VII, lid 4, onder b., is niet van toepassing wanneer een Lid voornemens is maatregelen van bedrijfseconomisch toezicht van een ander land te erkennen.
 
-#### 4. Geschillenbeslechting
+##### 4. Geschillenbeslechting
 
 Panels voor de beslechting van geschillen over voorzorgskwesties of andere financiële aangelegenheden beschikken over de benodigde deskundigheid betreffende de specifieke financiële dienst die voorwerp van geschil is.
 
-#### 5. Definities
+##### 5. Definities
 
 Voor de toepassing van deze Bijlage:
 
@@ -4745,7 +4770,7 @@ Zijn hierbij het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN EN GRONDBEGINSELEN
 
-#### Artikel 1. Aard en reikwijdte van verplichtingen
+##### Artikel 1. Aard en reikwijdte van verplichtingen
 
 1. De Leden geven uitvoering aan de bepalingen van deze Overeenkomst. De Leden kunnen, maar zijn niet verplicht, in hun nationale wetgeving een uitgebreidere bescherming toepassen dan in deze Overeenkomst is vereist, mits deze bescherming niet in strijd is met de bepalingen van deze Overeenkomst. Het staat de Leden vrij de passende methode voor toepassing van de bepalingen van deze Overeenkomst binnen hun eigen rechtsstelsel en -praktijk te bepalen.
 
@@ -4753,19 +4778,19 @@ Zijn hierbij het volgende overeengekomen:
 
 3. De Leden kennen de in deze Overeenkomst voorziene behandeling toe aan de onderdanen van andere Leden 1)Wanneer in deze Overeenkomst wordt verwezen naar „onderdanen” worden deze, in het geval van een afzonderlijk douanegebied dat Lid is van de WTO, geacht te zijn natuurlijke personen of rechtspersonen die in dat douanegebied zijn gevestigd of aldaar een echte en daadwerkelijke industriële of commerciële vestiging hebben. . Met betrekking tot de desbetreffende intellectuele eigendom wordt onder onderdanen van andere Leden verstaan de natuurlijke personen of rechtspersonen die zouden voldoen aan de criteria om in aanmerking te komen voor de bescherming voorzien in het [Verdrag van Parijs (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), de [Berner Conventie (1971)](https://wetten.overheid.nl/jci1.3:c:BWBV0003977), het [Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329) en het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen, als alle Leden van de WTO partij bij die verdragen zouden zijn2)In deze Overeenkomst wordt onder „Verdrag van Parijs” verstaan het Verdrag tot bescherming van de industriële eigendom; onder „Verdrag van Parijs (1967)” wordt verstaan de Akte van Stockholm bij dit Verdrag van 14 juli 1967. Onder „Berner Conventie” wordt verstaan de Conventie voor de bescherming van werken van letterkunde en kunst; onder „Berner Conventie (1971)” wordt verstaan de Akte van Parijs bij deze Conventie van 24 juli 1971. Onder „Verdrag van Rome” wordt verstaan het Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties, aangenomen te Rome op 26 oktober 1961. Onder „Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen” (IPIC-Verdrag) wordt verstaan het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen, aangenomen te Washington op 26 mei 1989. Onder „WTO-Overeenkomst” wordt verstaan de overeenkomst tot oprichting van de WTO. . Een Lid dat gebruik maakt van de mogelijkheden bepaald in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=5), of [artikel 6, tweede lid, van het Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=6) dient een kennisgeving als voorzien in die bepalingen te richten aan de Raad voor de handelsaspecten van de intellectuele eigendom.
 
-#### Artikel 2. Verdragen inzake de intellectuele eigendom
+##### Artikel 2. Verdragen inzake de intellectuele eigendom
 
 1. Wat betreft de Delen II, III en IV van deze Overeenkomst leven de Leden de artikelen [1 t/m 12](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=1) en [19 van het Verdrag van Parijs (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=19) na.
 
 2. Geen enkele bepaling in de Delen I t/m IV van deze Overeenkomst doet afbreuk aan de bestaande verplichtingen die de Leden jegens elkaar kunnen hebben ingevolge het [Verdrag van Parijs](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), de [Berner Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977), het [Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329) en het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen.
 
-#### Artikel 3. Nationale behandeling
+##### Artikel 3. Nationale behandeling
 
 1. Elk Lid kent aan onderdanen van andere Leden een behandeling toe die niet minder gunstig is dan die welke het toekent aan zijn eigen onderdanen met betrekking tot de bescherming 1)Voor de toepassing van de artikelen 3 en 4 van deze Overeenkomst omvat bescherming alle aangelegenheden die van invloed zijn op het bestaan, de verwerving, reikwijdte, instandhouding en handhaving van rechten uit hoofde van de intellectuele eigendom, alsmede de specifiek in deze Overeenkomst behandelde aangelegenheden die van invloed zijn op het gebruik van deze rechten. van de intellectuele eigendom, onder voorbehoud van de uitzonderingen die reeds bepaald zijn in onderscheidenlijk het [Verdrag van Parijs (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), de [Berner Conventie (1971)](https://wetten.overheid.nl/jci1.3:c:BWBV0003977), het [Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329) en het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen. Wat betreft uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties geldt deze verplichting slechts met betrekking tot de in deze Overeenkomst bepaalde rechten. Een Lid dat gebruik maakt van de mogelijkheden bepaald in [artikel 6 van de Berner Conventie (1971)](https://wetten.overheid.nl/jci1.3:c:BWBV0003977&artikel=6) of [artikel 16, eerste lid, letter b, van het Verdrag van Rome](https://wetten.overheid.nl/jci1.3:c:BWBV0004329&artikel=16) dient een kennisgeving als voorzien in die bepalingen te richten aan de Raad voor de handelsaspecten van de intellectuele eigendom.
 
 2. Leden kunnen slechts gebruik maken van de ingevolge het eerste lid toegestane uitzonderingen in verband met rechterlijke en administratieve procedures, met inbegrip van de keuze van domicilie of de aanwijzing van een vertegenwoordiger binnen het rechtsgebied van een Lid, wanneer zulke uitzonderingen noodzakelijk zijn om de naleving te verzekeren van wetten en voorschriften die niet strijdig zijn met de bepalingen van deze Overeenkomst en wanneer deze gedragingen niet plaatsvinden op een wijze die een verhulde beperking van het handelsverkeer vormt.
 
-#### Artikel 4. Meestbegunstiging
+##### Artikel 4. Meestbegunstiging
 
 Met betrekking tot de bescherming van de intellectuele eigendom wordt elk voordeel, elke gunst, elk voorrecht of elke vrijstelling die c.q. dat een Lid verleent aan de onderdanen van een ander land terstond en onvoorwaardelijk verleend aan de onderdanen van alle andere Leden. Uitgezonderd van deze verplichting zijn door een Lid verleende voordelen, gunsten, voorrechten of vrijstellingen:
 
@@ -4777,19 +4802,19 @@ Met betrekking tot de bescherming van de intellectuele eigendom wordt elk voorde
 
 - d. die voortvloeien uit internationale overeenkomsten betreffende de bescherming van de intellectuele eigendom die in werking zijn getreden vóór de inwerkingtreding van de WTO-Overeenkomst, mits deze overeenkomsten ter kennis worden gebracht van de Raad voor de handelsaspecten van de intellectuele eigendom en geen willekeurige of ongerechtvaardigde discriminatie van onderdanen van andere Leden inhouden.
 
-#### Artikel 5. Multilaterale overeenkomsten inzake de verwerving of instandhouding van bescherming
+##### Artikel 5. Multilaterale overeenkomsten inzake de verwerving of instandhouding van bescherming
 
 De verplichtingen ingevolge de artikelen 3 en 4 zijn niet van toepassing op procedures bepaald in multilaterale overeenkomsten gesloten onder auspiciën van de Wereldorganisatie voor de Intellectuele Eigendom betreffende de verwerving of instandhouding van rechten uit hoofde van de intellectuele eigendom.
 
-#### Artikel 6. Uitputting van rechten
+##### Artikel 6. Uitputting van rechten
 
 Ten behoeve van de beslechting van geschillen krachtens deze Overeenkomst mag, onverminderd de bepalingen van de artikelen 3 en 4, geen enkele bepaling in deze Overeenkomst worden aangewend om de kwestie van de uitputting van rechten uit hoofde van de intellectuele eigendom te regelen.
 
-#### Artikel 7. Doelstellingen
+##### Artikel 7. Doelstellingen
 
 De bescherming en handhaving van rechten uit hoofde van de intellectuele eigendom dient bij te dragen aan de bevordering van technologische vernieuwing en aan de overdracht en verspreiding van technologie, tot wederzijds voordeel van producenten en gebruikers van technologische kennis en op een wijze die bevorderlijk is voor het sociaal en economisch welzijn, en aan een evenwicht tussen rechten en verplichtingen.
 
-#### Artikel 8. Beginselen
+##### Artikel 8. Beginselen
 
 1. De Leden kunnen, bij het opstellen of wijzigen van hun nationale wet- en regelgeving, de maatregelen aannemen die nodig zijn ter bescherming van de volksgezondheid en de voeding en ter bevordering van het algemeen belang in sectoren die van vitaal belang zijn voor hun sociaal-economische en technologische ontwikkeling, mits zodanige maatregelen in overeenstemming zijn met de bepalingen van deze Overeenkomst.
 
@@ -4799,31 +4824,31 @@ De bescherming en handhaving van rechten uit hoofde van de intellectuele eigendo
 
 ## TITEL 1. : AUTEURSRECHT EN NABURIGE RECHTEN
 
-#### Artikel 9. Verhouding tot de [Berner Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977)
+##### Artikel 9. Verhouding tot de [Berner Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977)
 
 1. De Leden leven de [artikelen 1 t/m 21](https://wetten.overheid.nl/jci1.3:c:BWBR0005752&artikel=1) van en het [Aanhangsel bij de Berner Conventie (1971)](onbekend) na. De Leden hebben evenwel geen rechten of verplichtingen krachtens deze Overeenkomst ten aanzien van de rechten verleend krachtens [artikel 6bis van die Conventie](https://wetten.overheid.nl/jci1.3:c:BWBV0003977&artikel=6bis) of van de daaraan ontleende rechten.
 
 2. De bescherming van het auteursrecht strekt zich uit tot uitdrukkingsvormen en niet tot denkbeelden, procedures, werkwijzen of mathematische concepten als zodanig.
 
-#### Artikel 10. Computerprogramma's en verzamelingen van gegevens
+##### Artikel 10. Computerprogramma's en verzamelingen van gegevens
 
 1. Computerprogramma's, in bron- dan wel doelcode, worden beschermd als letterkundige werken krachtens de[Berner Conventie (1971)](https://wetten.overheid.nl/jci1.3:c:BWBV0003977).
 
 2. Verzamelingen van gegevens of ander materiaal, in machine-leesbare dan wel in andere vorm, die door de keuze of rangschikking van de stof een schepping van de geest vormen, worden als zodanig beschermd. Deze bescherming, die zich niet uitstrekt tot de gegevens of het materiaal zelf, laat de auteursrechten inherent aan de gegevens of het materiaal zelf onverlet.
 
-#### Artikel 11. Rechten inzake verhuur
+##### Artikel 11. Rechten inzake verhuur
 
 Ten minste wat computerprogramma's en cinematografische werken betreft, verleent een Lid auteurs en hun rechtsopvolgers het recht om de commerciële verhuur aan het publiek van originelen of kopieën van hun onder het auteursrecht vallende werken toe te staan of te verbieden. Een Lid is vrijgesteld van deze verplichting met betrekking tot cinematografische werken, tenzij deze verhuur heeft geleid tot het op grote schaal kopiëren van zulke werken, hetgeen een wezenlijke aantasting vormt van het uitsluitende reproduktierecht dat in dat Lid is verleend aan auteurs en hun rechtsopvolgers. Wat computerprogramma's betreft, geldt deze verplichting niet voor verhuur waarbij het programma zelf niet het eigenlijke voorwerp van de verhuur is.
 
-#### Artikel 12. Duur der bescherming
+##### Artikel 12. Duur der bescherming
 
 Wanneer de duur der bescherming van een werk, niet zijnde een fotografisch werk of een werk van toegepaste kunst, wordt berekend op een andere grondslag dan het leven van een natuurlijke persoon, is deze termijn niet korter dan vijftig jaar na het einde van het kalenderjaar van toegestane publikatie of, bij gebreke van zodanige toegestane publikatie binnen vijftig jaar na de schepping van het werk, vijftig jaar na het einde van het kalenderjaar waarin het werd geschapen.
 
-#### Artikel 13. Beperkingen en uitzonderingen
+##### Artikel 13. Beperkingen en uitzonderingen
 
 De Leden houden beperkingen van of uitzonderingen op uitsluitende rechten beperkt tot bepaalde bijzondere gevallen die niet in strijd zijn met de normale exploitatie van het werk en de legitieme belangen van de bezitter van het recht niet op onredelijke wijze schaden.
 
-#### Artikel 14. Bescherming van uitvoerende kunstenaars, producenten van fonogrammen (geluidsopnamen) en omroeporganisaties
+##### Artikel 14. Bescherming van uitvoerende kunstenaars, producenten van fonogrammen (geluidsopnamen) en omroeporganisaties
 
 1. Met betrekking tot een vastlegging van hun uitvoering op een fonogram hebben uitvoerende kunstenaars de mogelijkheid de volgende handelingen te beletten, wanneer deze worden verricht zonder hun toestemming: de vastlegging van hun niet vastgelegde uitvoering en de reproduktie van deze vastlegging. Uitvoerende kunstenaars hebben ook de mogelijkheid de volgende handelingen te beletten, wanneer deze worden verricht zonder hun toestemming: de uitzending langs draadloze weg en de overbrenging aan het publiek van de rechtstreekse uitzending van de uitvoering.
 
@@ -4839,7 +4864,7 @@ De Leden houden beperkingen van of uitzonderingen op uitsluitende rechten beperk
 
 ## TITEL 2. : HANDELSMERKEN
 
-#### Artikel 15. Voor bescherming in aanmerking komende onderwerpen
+##### Artikel 15. Voor bescherming in aanmerking komende onderwerpen
 
 1. Elk teken, of elke combinatie van tekens, waarmee de waren of diensten van de ene onderneming kunnen worden onderscheiden van die van andere ondernemingen kan een handelsmerk vormen. Deze tekens, met name woorden die persoonsnamen, letters, cijfers, figuratieve elementen en combinaties van kleuren alsmede een combinatie van zodanige tekens omvatten, komen in aanmerking voor inschrijving als handelsmerken. Wanneer de desbetreffende waren of diensten niet kunnen worden onderscheiden met de tekens op zichzelf, kunnen de Leden het in aanmerking komen voor inschrijving afhankelijk stellen van het onderscheidend vermogen op grond van het gebruik. De Leden kunnen als voorwaarde voor inschrijving verlangen dat de tekens met het oog waarneembaar zijn.
 
@@ -4851,7 +4876,7 @@ De Leden houden beperkingen van of uitzonderingen op uitsluitende rechten beperk
 
 5. De Leden publiceren elk handelsmerk voordat het wordt ingeschreven dan wel onmiddellijk nadat het is ingeschreven en bieden een redelijke mogelijkheid voor verzoeken om doorhaling van de inschrijving. Daarnaast kunnen de Leden gelegenheid bieden voor verzet tegen de inschrijving van een handelsmerk.
 
-#### Artikel 16. Verleende rechten
+##### Artikel 16. Verleende rechten
 
 1. De houder van een ingeschreven handelsmerk heeft het uitsluitend recht alle derden die niet zijn toestemming daartoe hebben, te beletten om in het handelsverkeer identieke of soortgelijke tekens te gebruiken voor waren of diensten die identiek zijn met of soortgelijk zijn aan die waarvoor het handelsmerk is ingeschreven, wanneer dat gebruik vermoedelijk zou leiden tot verwarring. In het geval van het gebruik van een identiek teken voor identieke waren of diensten wordt het vermoeden van verwarring verondersteld. De hierboven beschreven rechten laten bestaande eerdere rechten onverlet en zijn evenmin van invloed op de mogelijkheid waarover de Leden beschikken om rechten te verlenen op grond van het gebruik.
 
@@ -4859,31 +4884,31 @@ De Leden houden beperkingen van of uitzonderingen op uitsluitende rechten beperk
 
 3. [Artikel 6bis van het Verdrag van Parijs (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=6bis) is van overeenkomstige toepassing op waren of diensten die niet soortgelijk zijn aan die waarvoor een handelsmerk is ingeschreven, mits dat gebruik van dat handelsmerk met betrekking tot die waren of diensten zou duiden op een verband tussen die waren of diensten en de houder van het ingeschreven handelsmerk en mits de belangen van de houder van het ingeschreven handelsmerk vermoedelijk door dat gebruik worden geschaad.
 
-#### Artikel 17. Uitzonderingen
+##### Artikel 17. Uitzonderingen
 
 De Leden kunnen voorzien in beperkte uitzonderingen op de op een handelsmerk verleende rechten, zoals eerlijk gebruik van beschrijvende termen, mits deze uitzonderingen rekening houden met de legitieme belangen van de houder van het handelsmerk en van derden.
 
-#### Artikel 18. Duur der bescherming
+##### Artikel 18. Duur der bescherming
 
 De eerste inschrijving en elke verlenging van inschrijving van een handelsmerk geldt voor een termijn van ten minste zeven jaar. De inschrijving van een handelsmerk is onbeperkt verlengbaar.
 
-#### Artikel 19. Vereiste van gebruik
+##### Artikel 19. Vereiste van gebruik
 
 1. Indien voor de handhaving van een inschrijving gebruik van een handelsmerk is vereist, mag de inschrijving pas na een ononderbroken tijdvak van niet-gebruik van ten minste drie jaar worden doorgehaald, tenzij de houder van het handelsmerk geldige redenen, gebaseerd op het bestaan van belemmeringen voor dat gebruik, aantoont. Omstandigheden die zich buiten de wil van de houder van het handelsmerk voordoen en die een belemmering vormen voor het gebruik van het handelsmerk, zoals invoerbeperkingen op of andere overheidsmaatregelen voor door het handelsmerk beschermde waren of diensten, worden als geldige redenen voor niet-gebruik erkend.
 
 2. Gebruik van een handelsmerk door een andere persoon, wanneer dit is onderworpen aan het toezicht van de houder, wordt voor de handhaving van de inschrijving erkend als gebruik van het handelsmerk.
 
-#### Artikel 20. Overige vereisten
+##### Artikel 20. Overige vereisten
 
 Het gebruik van een handelsmerk in het handelsverkeer mag niet op ongerechtvaardigde wijze worden bemoeilijkt door bijzondere vereisten, zoals het gebruik te zamen met een ander handelsmerk, gebruik in een bijzondere vorm of gebruik op een wijze die afbreuk doet aan het vermogen tot het onderscheiden van de waren of diensten van de ene onderneming van die van andere ondernemingen. Dit sluit niet uit een vereiste waarbij wordt voorgeschreven dat het handelsmerk dat de onderneming aanduidt die de waren of diensten voortbrengt, wordt gebruikt te zamen met, maar zonder een verband daarmede te leggen, het handelsmerk dat de specifieke waren of diensten in kwestie van die onderneming onderscheidt.
 
-#### Artikel 21. Verlening van licenties en overdracht
+##### Artikel 21. Verlening van licenties en overdracht
 
 De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en de overdracht van handelsmerken, met dien verstande dat de gedwongen verlening van licenties van handelsmerken niet is toegestaan en dat de houder van een ingeschreven handelsmerk het recht heeft zijn handelsmerk over te dragen met of zonder de overdracht van het bedrijf waaraan het handelsmerk toebehoort.
 
 ## TITEL 3. : GEOGRAFISCHE AANDUIDINGEN
 
-#### Artikel 22. Bescherming van geografische aanduidingen
+##### Artikel 22. Bescherming van geografische aanduidingen
 
 1. Voor de toepassing van deze Overeenkomst worden onder geografische aanduidingen verstaan aanduidingen die aangeven dat waren hun oorsprong hebben op het grondgebied van een Lid, of een regio of plaats op dat grondgebied, waarbij een bepaalde kwaliteit, reputatie of ander kenmerk van de waren wezenlijk valt toe te schrijven aan zijn geografische oorsprong.
 
@@ -4897,7 +4922,7 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 4. De bepalingen van het eerste, tweede en derde lid zijn van toepassing op een geografische aanduiding die, hoewel letterlijk juist wat betreft het grondgebied, de regio of de plaats waar de goederen hun oorsprong hebben, ten onrechte tegenover het publiek doet voorkomen dat de waren hun oorsprong hebben op een ander grondgebied.
 
-#### Artikel 23. Extra bescherming voor geografische aanduidingen voor wijnen en spiritualiën
+##### Artikel 23. Extra bescherming voor geografische aanduidingen voor wijnen en spiritualiën
 
 1. Elk Lid voorziet in de wettelijke middelen om belanghebbenden in staat te stellen het gebruik te beletten van een geografische aanduiding ter benoeming van wijnen voor wijnen die niet hun oorsprong hebben in de door de geografische aanduiding in kwestie aangeduide plaats, of van een geografische aanduiding ter benoeming van spiritualiën voor spiritualiën die niet hun oorsprong hebben in de door de geografische aanduiding in kwestie aangeduide plaats, zelfs wanneer de werkelijke oorsprong van de waren is vermeld of de geografische aanduiding wordt gebruikt in vertaling of vergezeld gaat van uitdrukkingen zoals „soort”, „type”, „stijl”, „imitatie” en dergelijke.1)Niettegenstaande de eerste volzin van artikel 42 kunnen Leden met betrekking tot deze verplichtingen ook voorzien in administratieve maatregelen om deze te doen naleven.
 
@@ -4907,7 +4932,7 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 4. Ten einde de bescherming van geografische aanduidingen voor wijnen te vergemakkelijken, worden binnen de Raad voor de handelsaspecten van de intellectuele eigendom onderhandelingen aangegaan betreffende de instelling van een multilateraal stelsel van kennisgeving en registratie van geografische aanduidingen voor wijnen die in aanmerking komen voor bescherming in de Leden die deelnemen aan het stelsel.
 
-#### Artikel 24. Internationale onderhandelingen; uitzonderingen
+##### Artikel 24. Internationale onderhandelingen; uitzonderingen
 
 1. De Leden komen overeen onderhandelingen aan te gaan ter uitbreiding van de bescherming van afzonderlijke geografische aanduidingen krachtens artikel 23. De bepalingen van het vierde tot en met het achtste lid hieronder mogen door een Lid niet worden ingeroepen om te weigeren onderhandelingen te voeren of bilaterale of multilaterale overeenkomsten te sluiten. In de context van zulke onderhandelingen dienen de Leden bereid te zijn de voortgezette toepassing van deze bepalingen te overwegen op afzonderlijke geografische aanduidingen waarvan het gebruik het onderwerp van deze onderhandelingen vormde.
 
@@ -4933,13 +4958,13 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 ## TITEL 4. : TEKENINGEN EN MODELLEN VAN NIJVERHEID
 
-#### Artikel 25. Vereisten voor bescherming
+##### Artikel 25. Vereisten voor bescherming
 
 1. De Leden voorzien in de bescherming van onafhankelijk vervaardigde tekeningen en modellen van nijverheid die nieuw of oorspronkelijk zijn. De Leden kunnen bepalen dat tekeningen of modellen niet nieuw of oorspronkelijk zijn, indien deze niet aanmerkelijk verschillen van bekende tekeningen en modellen of combinaties van bekende kenmerken van tekeningen en modellen. De Leden kunnen bepalen dat deze bescherming zich niet uitstrekt tot tekeningen en modellen waarvoor hoofdzakelijk technische of functionele eisen bepalend zijn.
 
 2. Elk Lid ziet erop toe dat de vereisten voor het verkrijgen van bescherming voor tekeningen en modellen op het gebied van textiel, met name met betrekking tot kosten, onderzoek of openbaarmaking, niet op onredelijke wijze de mogelijkheid om zodanige bescherming te vragen en te verkrijgen belemmeren. Het staat de Leden vrij aan deze verplichting te voldoen door middel van de wetgeving inzake tekeningen en modellen van nijverheid of de wetgeving inzake auteursrechten.
 
-#### Artikel 26. Bescherming
+##### Artikel 26. Bescherming
 
 1. De eigenaar van een beschermde tekening of een beschermd model van nijverheid heeft het recht derden die daartoe niet zijn toestemming hebben te beletten artikelen te vervaardigen, verkopen of in te voeren die hetzelfde uiterlijk vertonen of waarin een tekening of model is belichaamd dat een kopie of in feite een kopie is van de beschermde tekening of het beschermde model, wanneer deze handelingen voor handelsdoeleinden worden verricht.
 
@@ -4949,7 +4974,7 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 ## TITEL 5. : OCTROOIEN
 
-#### Artikel 27. Octrooieerbare onderwerpen
+##### Artikel 27. Octrooieerbare onderwerpen
 
 1. Onverminderd het bepaalde in het tweede en het derde lid, kan octrooi worden verleend voor uitvindingen, produkten dan wel werkwijzen, op alle gebieden van de technologie, mits zij nieuw zijn, op uitvinderswerkzaamheid berusten en industrieel kunnen worden toegepast.1)Voor de toepassing van dit artikel kunnen de uitdrukkingen „uitvinderswerkzaamheid” en „industrieel kunnen worden toegepast” door een Lid geacht worden synoniem te zijn met de uitdrukkingen „niet voor de hand liggend” respectievelijk „nuttig”. Onverminderd artikel 65, vierde lid, artikel 70, achtste lid, en het derde lid van dit artikel kan octrooi worden verleend en kunnen octrooirechten worden genoten zonder onderscheid op grond van de plaats van uitvinding, het gebied van de technologie en op grond van het feit dat produkten worden ingevoerd of in eigen land worden vervaardigd.
 
@@ -4961,7 +4986,7 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 - b. andere planten en dieren dan micro-organismen en andere werkwijzen van wezenlijk biologische aard voor de voortbrenging van planten of dieren niet zijnde biologische en microbiologische werkwijzen. De Leden voorzien evenwel in de bescherming van plantenrassen door octrooien dan wel door een doeltreffend afzonderlijk stelsel, of een combinatie daarvan. De bepalingen van deze letter worden vier jaar na de inwerkingtreding van de WTO-Overeenkomst opnieuw bezien.
 
-#### Artikel 28. Verleende rechten
+##### Artikel 28. Verleende rechten
 
 1. Een octrooi verleent aan de houder de volgende uitsluitende rechten:
 
@@ -4971,17 +4996,17 @@ De Leden kunnen de voorwaarden vaststellen inzake de verlening van licenties en 
 
 2. Houders van octrooien hebben ook het recht het octrooi over te dragen, of te doen overgaan door opvolging, en licentieovereenkomsten te sluiten.
 
-#### Artikel 29. Aan octrooiaanvragen gestelde voorwaarden
+##### Artikel 29. Aan octrooiaanvragen gestelde voorwaarden
 
 1. De Leden vereisen dat een aanvrager van een octrooi de uitvinding openbaar maakt op een wijze die voldoende duidelijk en volledig is om de uitvinding te kunnen toepassen door een ter zake bekwaam persoon en kunnen vereisen dat de aanvrager de beste wijze van toepassing van de uitvinding aangeeft die de uitvinder bekend is op de datum van indiening van de aanvrage of, wanneer een beroep op het recht van voorrang wordt gedaan, op de datum van voorrang van de aanvrage.
 
 2. De Leden kunnen van een aanvrager van een octrooi verlangen dat deze informatie verstrekt betreffende zijn overeenkomstige aanvragen en verleningen van octrooi in het buitenland.
 
-#### Artikel 30. Uitzonderingen op verleende rechten
+##### Artikel 30. Uitzonderingen op verleende rechten
 
 De Leden kunnen voorzien in beperkte uitzonderingen op de door een octrooi verleende uitsluitende rechten, mits deze uitzonderingen niet op onredelijke wijze strijdig zijn met de normale exploitatie van het octrooi en niet op onredelijke wijze de legitieme belangen van de houder van het octrooi schaden, rekening houdend met de legitieme belangen van derden.
 
-#### Artikel 31. Ander gebruik zonder toestemming van de houder van het recht
+##### Artikel 31. Ander gebruik zonder toestemming van de houder van het recht
 
 Wanneer de wetgeving van een Lid ander gebruik1)Onder „ander gebruik” wordt verstaan ander gebruik dan dat wat is toegestaan krachtens artikel 30. van het onderwerp van een octrooi toestaat zonder toestemming van de houder van het recht, met inbegrip van gebruik door de overheid of door daartoe door de overheid gemachtigde derden, dienen de volgende bepalingen te worden geëerbiedigd:
 
@@ -5015,15 +5040,15 @@ Wanneer de wetgeving van een Lid ander gebruik1)Onder „ander gebruik” wordt 
 
 - iii. het met betrekking tot het eerste octrooi toegestane gebruik is niet overdraagbaar, behalve te zamen met de overdracht van het tweede octrooi.
 
-#### Artikel 32. Intrekking/Vervallenverklaring
+##### Artikel 32. Intrekking/Vervallenverklaring
 
 Voor beslissingen tot intrekking of vervallenverklaring van een octrooi dient een mogelijkheid voor toetsing door de rechter te bestaan.
 
-#### Artikel 33. Duur der bescherming
+##### Artikel 33. Duur der bescherming
 
 De duur der bescherming eindigt niet voor het verstrijken van een tijdvak van twintig jaar te rekenen van de datum van indiening.1)Er bestaat overeenstemming over het feit dat de Leden die geen stelsel van eigen verlening bezitten, kunnen bepalen dat de beschermingsduur wordt berekend vanaf de datum van indiening in het stelsel van eigen verlening.
 
-#### Artikel 34. Octrooien voor werkwijzen: Bewijslast
+##### Artikel 34. Octrooien voor werkwijzen: Bewijslast
 
 1. Ten behoeve van een civiele procedure met betrekking tot de inbreuk op de rechten van de houder bedoeld in artikel 28, eerste lid, letter b, hebben de rechterlijke autoriteiten, indien het onderwerp van een octrooi een werkwijze voor de verkrijging van een produkt is, de bevoegdheid de verweerder te gelasten aan te tonen dat de werkwijze om een identiek produkt te verkrijgen, verschilt van de geoctrooieerde werkwijze. De Leden dienen derhalve in ten minste één van de onderstaande omstandigheden te bepalen dat een identiek produkt, wanneer het is verkregen zonder de toestemming van de houder van het octrooi, bij gebreke van bewijs van het tegendeel, wordt geacht te zijn verkregen door middel van de geoctrooieerde werkwijze:
 
@@ -5037,21 +5062,21 @@ De duur der bescherming eindigt niet voor het verstrijken van een tijdvak van tw
 
 ## TITEL 6. : ONTWERPEN VOOR SCHAKELPATRONEN (TOPOGRAFIEËN) VAN GEÏNTEGREERDE SCHAKELINGEN
 
-#### Artikel 35. Verhouding tot het IPIC-Verdrag
+##### Artikel 35. Verhouding tot het IPIC-Verdrag
 
 De Leden komen overeen bescherming te bieden aan de ontwerpen voor schakelpatronen (topografieën) van geïntegreerde schakelingen (hierna te noemen „schakelpatroonontwerpen”) in overeenstemming met de artikelen 2 tot en met 7 (met uitzondering van artikel 6, derde lid), artikel 12 en artikel 16, derde lid, van het Verdrag inzake de intellectuele eigendom met betrekking tot geïntegreerde schakelingen en daarnaast zich te houden aan de onderstaande bepalingen.
 
-#### Artikel 36. Reikwijdte van de bescherming
+##### Artikel 36. Reikwijdte van de bescherming
 
 Behoudens het bepaalde in artikel 37, eerste lid, beschouwen de Leden de volgende handelingen als onrechtmatig indien deze worden verricht zonder toestemming van de houder van het recht:1)De uitdrukking „houder van het recht” in deze Titel wordt geacht dezelfde betekenis te hebben als de uitdrukking „rechthebbende” in het IPIC-Verdrag. het invoeren, verkopen of anderszins distribueren voor handelsdoeleinden van een beschermd schakelpatroonontwerp, een geïntegreerde schakeling die een beschermd schakelpatroonontwerp omvat, of van een artikel dat zulk een geïntegreerde schakeling omvat, slechts voor zover dit een onrechtmatig gereproduceerd schakelpatroonontwerp blijft bevatten.
 
-#### Artikel 37. Handelingen waarvoor de toestemming van de houder van het recht niet is vereist
+##### Artikel 37. Handelingen waarvoor de toestemming van de houder van het recht niet is vereist
 
 1. Niettegenstaande artikel 36 beschouwt een Lid niet als onrechtmatig het verrichten van een van de in dat artikel bedoelde handelingen met betrekking tot een geïntegreerde schakeling die een onrechtmatig gereproduceerd schakelpatroonontwerp omvat of een artikel dat zulk een geïntegreerde schakeling omvat, wanneer de persoon die zulke handelingen verricht of daartoe opdracht geeft, niet wist en geen redelijke gronden had om te weten, toen hij de geïntegreerde schakeling of het artikel dat zulk een geïntegreerde schakeling omvat verwierf, dat het een onrechtmatig geproduceerd schakelpatroonontwerp omvatte. De Leden bepalen dat deze persoon, na het tijdstip waarop hij in voldoende mate in kennis is gesteld van het feit dat het schakelpatroonontwerp onrechtmatig was gereproduceerd, alle handelingen met betrekking tot de in voorraad zijnde of vóór dat tijdstip bestelde goederen kan verrichten, doch dat hij de houder van het recht een bedrag moet betalen dat gelijkwaardig is met een redelijke royalty die voor zulk een schakelpatroonontwerp zou moeten worden betaald krachtens een licentie waarover vrijelijk is onderhandeld.
 
 2. De voorwaarden in artikel 31, letters a tot en met k, zijn van overeenkomstige toepassing in het geval van een niet-vrijwillige verlening van een licentie voor een schakelpatroonontwerp of van het gebruik daarvan door of namens de overheid zonder de toestemming van de houder van het recht.
 
-#### Artikel 38. Duur der bescherming
+##### Artikel 38. Duur der bescherming
 
 1. In Leden die als voorwaarde voor bescherming inschrijving vereisen, eindigt de duur der bescherming voor schakelpatroonontwerpen niet voor het verstrijken van een tijdvak tien jaar gerekend van de datum van indiening van een aanvraag voor inschrijving of van de eerste commerciële exploitatie, waar ook ter wereld.
 
@@ -5061,7 +5086,7 @@ Behoudens het bepaalde in artikel 37, eerste lid, beschouwen de Leden de volgend
 
 ## TITEL 7. : BESCHERMING VAN NIET OPENBAAR GEMAAKTE INFORMATIE
 
-#### Artikel 39
+##### Artikel 39
 
 1. Bij het waarborgen van doeltreffende bescherming tegen oneerlijke concurrentie zoals bepaald in [artikel 10bis van het Verdrag van Parijs (1967)](https://wetten.overheid.nl/jci1.3:c:BWBV0004120&artikel=10bis), beschermen de Leden niet openbaar gemaakte informatie overeenkomstig het tweede lid en aan overheden of overheidsinstanties verstrekte gegevens overeenkomstig het derde lid.
 
@@ -5077,7 +5102,7 @@ Behoudens het bepaalde in artikel 37, eerste lid, beschouwen de Leden de volgend
 
 ## TITEL 8. : BESTRIJDING VAN CONCURRENTIEBEPERKENDE GEDRAGINGEN IN CONTRACTUELE LICENTIES
 
-#### Artikel 40
+##### Artikel 40
 
 1. De Leden zijn het erover eens dat sommige licentiegebruiken of -voorwaarden betreffende de intellectuele eigendom die de concurrentie beperken, nadelige gevolgen kunnen hebben voor het handelsverkeer en de overdracht en verspreiding van technologie kunnen belemmeren.
 
@@ -5091,7 +5116,7 @@ Behoudens het bepaalde in artikel 37, eerste lid, beschouwen de Leden de volgend
 
 ## TITEL 1. : ALGEMENE VERPLICHTINGEN
 
-#### Artikel 41
+##### Artikel 41
 
 1. De Leden zien erop toe dat in hun nationale wetgeving is voorzien in procedures voor de handhaving, zoals bedoeld in dit Deel, opdat doeltreffend kan worden opgetreden tegen elke inbreuk op onder deze Overeenkomst vallende rechten uit hoofde van de intellectuele eigendom, met inbegrip van snelle middelen om inbreuken te voorkomen en middelen die verdere inbreuken tegengaan. Deze procedures dienen zodanig te worden toegepast dat het scheppen van belemmeringen voor legitiem handelsverkeer wordt vermeden en dat wordt voorzien in waarborgen tegen misbruik van deze procedures.
 
@@ -5105,49 +5130,49 @@ Behoudens het bepaalde in artikel 37, eerste lid, beschouwen de Leden de volgend
 
 ## TITEL 2. : CIVIELE EN ADMINISTRATIEVE PROCEDURES EN CORRIGERENDE MAATREGELEN
 
-#### Artikel 42. Eerlijke en billijke procedures
+##### Artikel 42. Eerlijke en billijke procedures
 
 De Leden bieden houders van rechten1)Voor de toepassing van dit Deel omvat de uitdrukking „houder van rechten” mede verbonden en verenigingen die bevoegd zijn zodanige rechten te doen gelden. de mogelijkheid tot het voeren van civiele gerechtelijke procedures betreffende de handhaving van onder deze Overeenkomst vallende rechten uit hoofde van de intellectuele eigendom. Verweerders hebben recht op een tijdige schriftelijke kennisgeving die voldoende gegevens bevat, met inbegrip van de gronden voor de vorderingen. De partijen dient te worden toegestaan zich door onafhankelijke raadslieden te doen vertegenwoordigen en de procedures mogen geen overmatig zware vereisten betreffende verplichte verschijning in persoon opleggen. Alle partijen bij zodanige procedures dienen naar behoren gerechtigd te zijn om hun vorderingen te staven en alle van belang zijnde bewijsmateriaal over te leggen. De procedure dient te voorzien in middelen om vertrouwelijke informatie als zodanig te herkennen en te beschermen, tenzij zulks strijdig zou zijn met bestaande constitutionele vereisten.
 
-#### Artikel 43. Bewijsmateriaal
+##### Artikel 43. Bewijsmateriaal
 
 1. De rechterlijke autoriteiten hebben de bevoegdheid, wanneer een partij redelijkerwijs beschikbaar bewijsmateriaal heeft overgelegd dat voldoende is om haar vorderingen te onderbouwen en voor de staving van haar vorderingen van belang zijnd bewijsmateriaal heeft genoemd dat zich in de macht van de wederpartij bevindt, om te gelasten dat dit bewijsmateriaal door de wederpartij wordt overgelegd, in passende gevallen met inachtneming van voorwaarden die de bescherming van vertrouwelijke informatie verzekeren.
 
 2. In gevallen waarin een partij bij een procedure opzettelijk en zonder goede redenen toegang weigert tot noodzakelijke informatie of deze anderszins niet binnen een redelijke termijn verstrekt, dan wel een procedure in verband met een vordering tot handhaving van rechten aanmerkelijk belemmert, kan een Lid de rechterlijke autoriteiten de bevoegdheid verlenen om voorlopige en definitieve beslissingen te geven, bevestigend of afwijzend, op basis van de aan hen voorgelegde informatie, met inbegrip van de klacht of de bewering van de zijde van de door het ontzeggen van toegang tot informatie benadeelde partij, mits de partijen in de gelegenheid worden gesteld om omtrent de beweringen of het bewijsmateriaal te worden gehoord.
 
-#### Artikel 44. Rechtelijke bevelen
+##### Artikel 44. Rechtelijke bevelen
 
 1. De rechterlijke autoriteiten hebben de bevoegdheid een partij te gelasten een inbreuk te staken, onder andere om te beletten dat ingevoerde goederen die inbreuk op een recht uit hoofde van de intellectuele eigendom inhouden, onmiddellijk na de inklaring van zodanige goederen door de douane in het verkeer onder hun rechtsmacht worden gebracht. De Leden zijn niet verplicht deze bevoegdheid te verlenen met betrekking tot beschermde onderwerpen, verworven of besteld door een persoon voordat deze wist of redelijke gronden had om te weten dat het handelen in zulke onderwerpen inbreuk op een recht uit hoofde van de intellectuele eigendom met zich zou brengen.
 
 2. Niettegenstaande de andere bepalingen van dit Deel en mits de bepalingen van Deel II die specifiek betrekking hebben op het gebruik door overheden, of door daartoe door een overheid gemachtigde derden, zonder toestemming van de houder van het recht, worden nageleefd, kunnen Leden de mogelijke corrigerende maatregelen tegen zodanig gebruik beperken tot betaling van een vergoeding in overeenstemming met artikel 31, letter h. In andere gevallen zijn de corrigerende maatregelen krachtens dit Deel van toepassing of dienen er, wanneer deze corrigerende maatregelen onverenigbaar zijn met het nationale recht, declaratoire vonnissen en toereikende schadevergoeding te kunnen worden verkregen.
 
-#### Artikel 45. Schadevergoeding
+##### Artikel 45. Schadevergoeding
 
 1. De rechterlijke autoriteiten hebben de bevoegdheid de inbreukmaker te gelasten aan de houder van het recht een toereikende schadevergoeding te betalen ter compensatie van de schade die de houder van het recht heeft geleden wegens een inbreuk op zijn recht uit hoofde van de intellectuele eigendom door een inbreukmaker die wist of redelijke gronden had om te weten dat hij inbreuk pleegde.
 
 2. De rechterlijke autoriteiten hebben ook de bevoegdheid de inbreukmaker te gelasten aan de houder van het recht kosten te betalen, die passende honoraria van een raadsman kunnen omvatten. In passende gevallen kunnen de Leden de rechterlijke autoriteiten de bevoegdheid verlenen om invordering van winsten en/of betaling van vooraf vastgestelde schadevergoeding te gelasten, zelfs wanneer de inbreukmaker niet wist of geen redelijke gronden had om te weten dat hij inbreuk pleegde.
 
-#### Artikel 46. Overige corrigerende maatregelen
+##### Artikel 46. Overige corrigerende maatregelen
 
 Ten einde inbreuken doeltreffend tegen te gaan, hebben de rechterlijke autoriteiten de bevoegdheid te gelasten dat goederen waarvan zij hebben vastgesteld dat deze inbreuk maken, zonder schadevergoeding van welke aard ook, worden onttrokken aan het verkeer op zodanige wijze dat nadeel voor de houder van het recht wordt vermeden of, tenzij dit in strijd zou zijn met bestaande constitutionele vereisten, deze goederen worden vernietigd. De rechterlijke autoriteiten hebben ook de bevoegdheid te gelasten dat materialen en werktuigen, die voornamelijk zijn gebruikt bij de voortbrenging van de inbreukmakende goederen, zonder schadevergoeding van welke aard ook, worden onttrokken aan het verkeer op zodanige wijze dat het gevaar van verdere inbreuken tot een minimum wordt teruggebracht. Bij het behandelen van zulke verzoeken dient de eis van proportionaliteit tussen de ernst van de inbreuk en de gelaste corrigerende maatregelen alsmede de belangen van derden in aanmerking te worden genomen. Wat betreft nagemaakte merkartikelen, is het eenvoudigweg verwijderen van het onrechtmatig aangebrachte handelsmerk niet voldoende, behalve in uitzonderlijke gevallen, om het in het verkeer brengen van de goederen toe te laten.
 
-#### Artikel 47. Recht op informatie
+##### Artikel 47. Recht op informatie
 
 De Leden kunnen bepalen dat de rechterlijke autoriteiten de bevoegdheid hebben, tenzij dit niet in verhouding zou staan tot de ernst van de inbreuk, om de inbreukmaker te gelasten de houder van het recht in kennis te stellen van de identiteit van derden die betrokken zijn bij de produktie en distributie van de inbreukmakende goederen of diensten en van hun distributiekanalen.
 
-#### Artikel 48. Schadeloosstelling van de verweerder
+##### Artikel 48. Schadeloosstelling van de verweerder
 
 1. De rechterlijke autoriteiten hebben de bevoegdheid een partij op wier verzoek maatregelen werden genomen en die de procedures tot handhaving van rechten heeft misbruikt, te gelasten om een partij aan wie ten onrechte een verbod of beperking is opgelegd, een toereikende schadeloosstelling te bieden voor de wegens zodanig misbruik geleden schade. De rechterlijke autoriteiten hebben ook de bevoegdheid de verzoeker te gelasten de kosten van de verweerder te betalen, die passende honoraria van een raadsman kunnen omvatten.
 
 2. Wat betreft de toepassing van een wet betreffende de bescherming of handhaving van rechten uit hoofde van de intellectuele eigendom sluiten de Leden overheidsinstanties en -functionarissen slechts van aansprakelijkheid met betrekking tot passende corrigerende maatregelen uit wanneer zij te goeder trouw hebben gehandeld of voornemens waren zulks te doen bij de toepassing van zodanige wetten.
 
-#### Artikel 49. Administratieve procedures
+##### Artikel 49. Administratieve procedures
 
 Voor zover een burgerrechtelijke corrigerende maatregel kan worden gelast als resultaat van administratieve procedures ten principale, dienen zodanige procedures in overeenstemming te zijn met beginselen die in wezen gelijkwaardig zijn aan die welke zijn neergelegd in deze Titel.
 
 ## TITEL 3. : VOORLOPIGE MAATREGELEN
 
-#### Artikel 50
+##### Artikel 50
 
 1. De rechterlijke autoriteiten hebben de bevoegdheid om onmiddellijke en doeltreffende voorlopige maatregelen te gelasten:
 
@@ -5171,37 +5196,37 @@ Voor zover een burgerrechtelijke corrigerende maatregel kan worden gelast als re
 
 ## TITEL 4. : BIJZONDERE VEREISTEN IN VERBAND MET MAATREGELEN AAN DE GRENS1)Wanneer een Lid alle controles op het vervoer van goederen over zijn grens met een ander Lid waarmede het deel uitmaakt van een douaneunie heeft afgeschaft, wordt van dat Lid niet verlangd dat het de bepalingen van deze Titel aan die grens toepast.
 
-#### Artikel 51. Opschorting van het in het vrije verkeer brengen door douane-autoriteiten
+##### Artikel 51. Opschorting van het in het vrije verkeer brengen door douane-autoriteiten
 
 In overeenstemming met de onderstaande bepalingen nemen de Leden procedures2)Er bestaat overeenstemming over het feit dat er geen verplichting bestaat om deze procedures toe te passen op de invoer van goederen die door de houder van het recht of met diens toestemming in een ander land op de markt worden gebracht, dan wel op goederen in doorvoer. aan om een houder van een recht, die geldige gronden heeft om te vermoeden dat de invoer van nagemaakte merkartikelen of onrechtmatig gereproduceerde3)Voor de toepassing van deze Overeenkomst:a.wordt onder „nagemaakte merkartikelen” verstaan alle goederen, met inbegrip van verpakking, die zonder toestemming een handelsmerk dragen dat identiek is met het rechtsgeldig met betrekking tot deze goederen ingeschreven handelsmerk, of dat in essentiële aspecten niet van dat handelsmerk kan worden onderscheiden, en dat daardoor inbreuk maakt op de rechten van de houder van het handelsmerk in kwestie ingevolge het recht van het land van invoer;b.wordt onder „onrechtmatig gereproduceerde goederen waarop een auteursrecht rust” verstaan kopieën die zijn gemaakt zonder toestemming van de houder van het recht of de naar behoren door hem gemachtigde persoon in het land van produktie en die direct of indirect van een artikel zijn gemaakt, wanneer het maken van die kopie een inbreuk op een auteursrecht of een naburig recht zou hebben gevormd ingevolge het recht van het land van invoer. goederen waarop een auteursrecht rust, plaats kan hebben, in staat te stellen bij de bevoegde administratieve of rechterlijke autoriteiten een schriftelijk verzoek in te dienen tot opschorting van het in het vrije verkeer brengen van deze goederen door de douane-autoriteiten. De Leden kunnen toestaan dat zulk een verzoek wordt gedaan met betrekking tot goederen die andere inbreuken op rechten uit hoofde van de intellectuele eigendom betreffen, mits wordt voldaan aan de vereisten van deze Titel. De Leden kunnen ook voorzien in overeenkomstige procedures betreffende de opschorting door de douane-autoriteiten van het in het vrije verkeer brengen van inbreukmakende goederen die zijn bestemd voor uitvoer uit hun grondgebied.
 
-#### Artikel 52. Verzoekschrift
+##### Artikel 52. Verzoekschrift
 
 Van een houder van een recht die de procedures ingevolge artikel 51 aanspant, wordt verlangd dat hij voldoende bewijs levert om ten genoegen van de bevoegde autoriteiten aan te tonen dat er, ingevolge de wetgeving van het land van invoer, sprake is van een inbreuk op zijn recht uit hoofde van de intellectuele eigendom en dat hij een voldoende gedetailleerde beschrijving van de goederen verstrekt om deze gemakkelijk herkenbaar te doen zijn voor de douane-autoriteiten. De bevoegde autoriteiten stellen de verzoeker binnen een redelijke termijn ervan in kennis of zij gevolg geven aan zijn verzoek en, wanneer door de bevoegde autoriteiten een termijn wordt bepaald, van de termijn gedurende welke de douane-autoriteiten maatregelen zullen nemen.
 
-#### Artikel 53. Zekerheid of gelijksoortige waarborg
+##### Artikel 53. Zekerheid of gelijksoortige waarborg
 
 1. De bevoegde autoriteiten hebben de bevoegdheid om van een verzoeker te verlangen dat deze een zekerheid stelt of gelijksoortige waarborg biedt die voldoende is om de verweerder en de bevoegde autoriteiten te beschermen en misbruik te beletten. Deze zekerheid of gelijksoortige waarborg mag niet op onredelijke wijze weerhouden van gebruikmaking van deze procedures.
 
 2. Wanneer ingevolge een verzoek krachtens deze Titel het in het vrije verkeer brengen van goederen die tekeningen of modellen van nijverheid, octrooien, patronen of niet openbaar gemaakte informatie betreffen, door de douane-autoriteiten is opgeschort op basis van een beslissing die niet is genomen door een rechterlijke autoriteit of andere onafhankelijke autoriteit, en de termijn bepaald in artikel 55 is verstreken zonder dat de naar behoren gemachtigde autoriteit voorlopige maatregelen heeft genomen, en mits is voldaan aan alle andere voorwaarden voor invoer, is de eigenaar, importeur of geconsigneerde gerechtigd de goederen in het vrije verkeer te brengen tegen zekerheidstelling tot een bedrag dat voldoende is om de houder van het recht tegen inbreuken te beschermen. De betaling van een zodanige zekerheid laat onverlet andere corrigerende maatregelen die de houder van het recht ter beschikking staan, met dien verstande dat de zekerheid wordt opgeheven indien de houder van het recht nalaat binnen een redelijke termijn gebruik te maken van het recht een vordering in te stellen.
 
-#### Artikel 54. Kennisgeving van opschorting
+##### Artikel 54. Kennisgeving van opschorting
 
 De importeur en de verzoeker worden onverwijld in kennis gesteld van de opschorting van het in het vrije verkeer brengen van goederen in overeenstemming met artikel 51.
 
-#### Artikel 55. Duur van de opschorting
+##### Artikel 55. Duur van de opschorting
 
 Indien de douane-autoriteiten niet binnen een tijdvak van ten hoogste 10 werkdagen nadat de verzoeker kennisgeving van de opschorting is gedaan ervan in kennis zijn gesteld dat een procedure met het oog op een beslissing ten principale is aangespannen door een ander dan de verweerder, of dat de naar behoren gemachtigde autoriteit voorlopige maatregelen heeft genomen waarbij de opschorting van het in het vrije verkeer brengen van de goederen wordt verlengd, worden de goederen vrijgegeven, mits is voldaan aan alle andere voorwaarden voor invoer of uitvoer; in passende gevallen kan deze termijn worden verlengd met 10 werkdagen. Indien een procedure met het oog op een beslissing ten principale is aangespannen, vindt op verzoek van de verweerder een herziening plaats, met inbegrip van een recht te worden gehoord, ten einde binnen een redelijke termijn te beslissen of deze maatregelen moeten worden gewijzigd, herroepen of bevestigd. Niettegenstaande het bovenstaande zijn, wanneer de opschorting van het in het vrije verkeer brengen van goederen wordt uitgevoerd of voortgezet in overeenstemming met een voorlopige rechterlijke maatregel, de bepalingen van artikel 50, zesde lid, van toepassing.
 
-#### Artikel 56. Schadeloosstelling van de importeur en van de eigenaar van de goederen
+##### Artikel 56. Schadeloosstelling van de importeur en van de eigenaar van de goederen
 
 De desbetreffende autoriteiten hebben de bevoegdheid de verzoeker te gelasten aan de importeur, de geconsigneerde en de eigenaar van de goederen een passende schadeloosstelling te betalen voor aan hen toegebrachte schade door het ongerechtvaardigde vasthouden van de goederen of door het vasthouden van ingevolge artikel 55 vrijgegeven goederen.
 
-#### Artikel 57. Recht op inspectie en informatie
+##### Artikel 57. Recht op inspectie en informatie
 
 Onverminderd de bescherming van vertrouwelijke informatie verlenen de Leden aan de bevoegde autoriteiten de bevoegdheid om de houder van het recht voldoende gelegenheid te bieden om goederen die door de douane-autoriteiten worden vastgehouden, te laten inspecteren om de beweringen van de houder van het recht te kunnen staven. De bevoegde autoriteiten hebben ook de bevoegdheid om de importeur een gelijkwaardige gelegenheid te bieden om zodanige goederen te laten inspecteren. Wanneer een positieve beslissing ten principale is gegeven, kunnen de Leden aan de bevoegde autoriteit de bevoegdheid verlenen om de houder van het recht in kennis te stellen van de naam en het adres van de consignant, de importeur en de geconsigneerde, en van de hoeveelheid goederen in kwestie.
 
-#### Artikel 58. Optreden ambtshalve
+##### Artikel 58. Optreden ambtshalve
 
 Wanneer de Leden verlangen dat de bevoegde autoriteiten eigener beweging optreden en het in het vrije verkeer brengen opschorten van goederen ten aanzien waarvan zij voldoende bewijs hebben verkregen dat inbreuk wordt gemaakt op een recht uit hoofde van de intellectuele eigendom:
 
@@ -5211,23 +5236,23 @@ Wanneer de Leden verlangen dat de bevoegde autoriteiten eigener beweging optrede
 
 - c. sluiten de Leden overheidsinstanties en -functionarissen slechts van aansprakelijkheid met betrekking tot passende corrigerende maatregelen uit wanneer zij te goeder trouw hebben gehandeld of voornemens waren zulks te doen.
 
-#### Artikel 59. Corrigerende maatregelen
+##### Artikel 59. Corrigerende maatregelen
 
 Onverminderd andere rechten tot het instellen van een vordering die openstaan voor de houder van het recht, en met inachtneming van het recht van de verweerder om te verzoeken om herziening door een rechterlijke autoriteit, hebben de bevoegde autoriteiten de bevoegdheid de vernietiging of de onttrekking aan het verkeer van de inbreukmakende goederen te gelasten in overeenstemming met de beginselen vervat in artikel 46. Met betrekking tot nagemaakte merkartikelen, staan de autoriteiten niet de wederuitvoer toe van de inbreukmakende goederen in ongewijzigde toestand of onderwerpen zij deze goederen niet aan een andere douaneprocedure, behalve in uitzonderlijke omstandigheden.
 
-#### Artikel 60. Minimale importen
+##### Artikel 60. Minimale importen
 
 De Leden kunnen kleine hoeveelheden goederen van niet-commerciële aard in de persoonlijke bagage van reizigers of verzonden in kleine zendingen, van de toepassing van de bovenstaande bepalingen uitsluiten.
 
 ## TITEL 5. : STRAFRECHTELIJKE PROCEDURES
 
-#### Artikel 61
+##### Artikel 61
 
 De Leden voorzien ten minste in gevallen van opzettelijke namaak van handelsmerken of inbreuk op auteursrechten op commerciële schaal in strafrechtelijke procedures en straffen. De mogelijke sancties omvatten vrijheidsstraffen en/of geldboetes die voldoende zijn om afschrikkend te werken, in overeenstemming met het niveau van de straffen opgelegd voor strafbare feiten van overeenkomstige zwaarte. In passende gevallen omvatten de mogelijke sancties ook de inbeslagneming, verbeurdverklaring en vernietiging van de inbreukmakende goederen en van materialen en werktuigen die voornamelijk zijn gebruikt bij het plegen van het strafbare feit. De Leden kunnen voorzien in strafrechtelijke procedures en straffen in andere gevallen van inbreuk op rechten uit hoofde van de intellectuele eigendom, met name wanneer deze opzettelijk en op commerciële schaal zijn gepleegd.
 
 ## DEEL IV. VERWERVING EN INSTANDHOUDING VAN RECHTEN UIT HOOFDE VAN DE INTELLECTUELE EIGENDOM EN DAARMEDE SAMENHANGENDE PROCEDURES TUSSEN PARTIJEN
 
-#### Artikel 62
+##### Artikel 62
 
 1. De Leden kunnen, als voorwaarde voor de verwerving of instandhouding van de rechten uit hoofde van de intellectuele eigendom bedoeld in de Titels 2 tot en met 6 van Deel II, de naleving van redelijke procedures en formaliteiten vereisen. Deze procedures en formaliteiten dienen in overeenstemming te zijn met de bepalingen van deze Overeenkomst.
 
@@ -5241,7 +5266,7 @@ De Leden voorzien ten minste in gevallen van opzettelijke namaak van handelsmerk
 
 ## DEEL V. VOORKOMING EN BESLECHTING VAN GESCHILLEN
 
-#### Artikel 63. Doorzichtigheid
+##### Artikel 63. Doorzichtigheid
 
 1. De wet- en regelgeving en definitieve rechterlijke beslissingen en algemeen geldende administratieve uitspraken die door een Lid uitvoerbaar zijn verklaard met betrekking tot het onderwerp van deze Overeenkomst (het bestaan, de reikwijdte, de verwerving en de handhaving van rechten uit hoofde van de intellectuele eigendom en het beletten van misbruik daarvan) worden gepubliceerd, of wanneer een zodanige publikatie niet mogelijk is, openbaar toegankelijk gemaakt, in een nationale taal, op zodanige wijze dat regeringen en houders van rechten daarvan kennis kunnen nemen. Overeenkomsten betreffende het onderwerp van deze Overeenkomst, die van kracht zijn tussen de regering of een overheidsinstantie van een Lid en de regering of een overheidsinstantie van een ander Lid, dienen ook te worden gepubliceerd.
 
@@ -5251,7 +5276,7 @@ De Leden voorzien ten minste in gevallen van opzettelijke namaak van handelsmerk
 
 4. Geen enkele bepaling in het eerste, tweede en derde lid verlangt van Leden dat zij vertrouwelijke informatie openbaar maken die de rechtshandhaving zou belemmeren of anderszins in strijd zou zijn met het algemeen belang of de legitieme handelsbelangen van bepaalde overheidsondernemingen of particuliere ondernemingen zou schaden.
 
-#### Artikel 64. Beslechting van geschillen
+##### Artikel 64. Beslechting van geschillen
 
 1. De bepalingen van de artikelen XXII en XXIII van de GATT-Overeenkomst van 1994, zoals nader uitgewerkt en toegepast in het Memorandum van Overeenstemming inzake de beslechting van geschillen, zijn van toepassing op het overleg en de beslechting van geschillen ingevolge deze Overeenkomst, behalve indien daarin uitdrukkelijk anders is bepaald.
 
@@ -5261,7 +5286,7 @@ De Leden voorzien ten minste in gevallen van opzettelijke namaak van handelsmerk
 
 ## DEEL VI. OVERGANGSREGELINGEN
 
-#### Artikel 65. Overgangsregelingen
+##### Artikel 65. Overgangsregelingen
 
 1. Onverminderd het bepaalde in het tweede, derde en vierde lid is een Lid niet verplicht de bepalingen van deze Overeenkomst tot te passen vóór het verstrijken van een algemene termijn van een jaar na de datum van inwerkingtreding van de WTO-Overeenkomst.
 
@@ -5273,27 +5298,27 @@ De Leden voorzien ten minste in gevallen van opzettelijke namaak van handelsmerk
 
 5. Een Lid dat gebruik maakt van een overgangstermijn ingevolge het eerste, tweede, derde of vierde lid ziet erop toe dat veranderingen in zijn wet- en regelgeving en rechtspraktijk gedurende die termijn niet leiden tot een mindere mate van overeenstemming met de bepalingen van deze Overeenkomst.
 
-#### Artikel 66. Leden die minstontwikkeld land zijn
+##### Artikel 66. Leden die minstontwikkeld land zijn
 
 1. Gezien de bijzondere behoeften en vereisten van Leden die minstontwikkeld land zijn, hun economische, financiële en administratieve beperkingen, en hun behoefte aan flexibiliteit om een levensvatbare technologische basis te scheppen, wordt van deze Leden niet verlangd dat zij gedurende een tijdvak van 10 jaar na de datum van toepassing zoals omschreven in artikel 65, eerste lid, de bepalingen van deze Overeenkomst, behalve van de artikelen 3, 4 en 5, toepassen. De Raad voor de handelsaspecten van de intellectuele eigendom verleent, op naar behoren met redenen omkleed verzoek van een Lid dat minstontwikkeld land is, verlengingen van deze termijn.
 
 2. Leden die ontwikkeld land zijn, bieden ondernemingen en instellingen op hun grondgebied stimulansen met het oog op de bevordering en aanmoediging van de overdracht van technologie aan Leden die minstontwikkeld land zijn, ten einde deze in staat te stellen een deugdelijke en levensvatbare technologische basis te scheppen.
 
-#### Artikel 67. Technische samenwerking
+##### Artikel 67. Technische samenwerking
 
 Ter vergemakkelijking van de toepassing van deze Overeenkomst voorzien Leden die ontwikkeld land zijn, op verzoek en op onderling overeengekomen voorwaarden, in technische en financiële samenwerking ten gunste van Leden die ontwikkelingsland of minstontwikkeld land zijn. Deze samenwerking omvat bijstand bij de opstelling van wet- en regelgeving inzake de bescherming en handhaving van rechten uit hoofde van de intellectuele eigendom, alsmede inzake het voorkomen van misbruik daarvan, en omvat steun betreffende de oprichting of versterking van nationale bureaus en instanties voor deze aangelegenheden, met inbegrip van de opleiding van personeel.
 
 ## DEEL VII. INSTITUTIONELE REGELINGEN; SLOTBEPALINGEN
 
-#### Artikel 68. Raad voor de handelsaspecten van de intellectuele eigendom
+##### Artikel 68. Raad voor de handelsaspecten van de intellectuele eigendom
 
 De Raad voor de handelsaspecten van de intellectuele eigendom volgt de werking van deze Overeenkomst en met name de nakoming door de Leden van hun verplichtingen, en biedt de Leden gelegenheid voor overleg inzake aangelegenheden betreffende de handelsaspecten van de intellectuele eigendom. De raad kwijt zich van de andere taken waarmee hij door de Leden wordt belast en biedt in het bijzonder alle door hen verzochte bijstand in het kader van procedures voor de beslechting van geschillen. Bij het verrichten van zijn taken kan de Raad voor de handelsaspecten van de intellectuele eigendom overleg plegen met en informatie inwinnen uit elke door hem passend geachte bron. In overleg met de WIPO streeft de Raad ernaar, binnen een jaar na zijn eerste vergadering, passende regelingen voor samenwerking met organen van die Organisatie tot stand te brengen.
 
-#### Artikel 69. Internationale samenwerking
+##### Artikel 69. Internationale samenwerking
 
 De Leden komen overeen met elkaar samen te werken ten einde de internationale handel in goederen die inbreuk maken op rechten uit hoofde van de intellectuele eigendom uit te bannen. Hiertoe stellen zij contactpunten bij hun administratie in en geven de andere Partijen daarvan kennis, en zijn zij bereid informatie uit te wisselen over de handel in inbreukmakende goederen. Met name bevorderen zij de uitwisseling van informatie en de samenwerking tussen douane-autoriteiten met betrekking tot de handel in nagemaakte merkartikelen en onrechtmatig gereproduceerde goederen waarop een auteursrecht rust.
 
-#### Artikel 70. Bescherming van bestaande onderwerpen
+##### Artikel 70. Bescherming van bestaande onderwerpen
 
 1. Deze Overeenkomst schept geen verplichtingen met betrekkingen tot handelingen die zich hebben voorgedaan vóór de datum van toepassing van de Overeenkomst voor het Lid in kwestie.
 
@@ -5319,17 +5344,17 @@ De Leden komen overeen met elkaar samen te werken ten einde de internationale ha
 
 9. Wanneer een produkt het onderwerp is van een octrooiaanvrage in een Lid in overeenstemming met het achtste lid, letter a, worden uitsluitende rechten voor het in de handel brengen verleend, niettegenstaande de bepalingen van Deel VI, voor een termijn van vijf jaar na verkrijging van de goedkeuring tot het in de handel brengen in dat Lid of totdat een octrooi voor een produkt in dat Lid is verleend of afgewezen, naar gelang van welke van beide termijnen de kortste is, mits na de inwerkingtreding van de WTO-Overeenkomst voor dat produkt een octrooiaanvrage is ingediend en een octrooi is verleend in een ander Lid en in dat andere Lid toestemming voor het in de handel brengen is verkregen.
 
-#### Artikel 71. Toetsing en wijziging
+##### Artikel 71. Toetsing en wijziging
 
 1. De Raad voor de handelsaspecten van de intellectuele eigendom toetst de toepassing van deze Overeenkomst na het verstrijken van de overgangsperiode bedoeld in artikel 65, tweede lid. De Raad toetst de toepassing, met inachtneming van de daarbij opgedane ervaring, twee jaar na die datum en met dezelfde tussenpozen daarna. De Raad kan ook overgaan tot toetsing in het licht van van belang zijnde nieuwe ontwikkelingen, die wijziging of amendering van deze Overeenkomst zouden kunnen wettigen.
 
 2. Wijzigingen die slechts ten doel hebben de bescherming van de intellectuele eigendom aan te passen aan hogere niveaus die zijn bereikt en gelden in andere multilaterale overeenkomsten en die ingevolge deze overeenkomsten door alle Leden van de WTO zijn aanvaard, kunnen worden voorgelegd aan de Ministeriële Conferentie met het oog op maatregelen in overeenstemming met artikel X, zesde lid, van de WTO-Overeenkomst op basis van een bij consensus aangenomen voorstel van de Raad voor de handelsaspecten van de intellectuele eigendom.
 
-#### Artikel 72. Voorbehouden
+##### Artikel 72. Voorbehouden
 
 Zonder toestemming van de andere Leden mogen geen voorbehouden worden gemaakt met betrekking tot enige bepaling van deze Overeenkomst.
 
-#### Artikel 73. Uitzonderingen op grond van veiligheidsoverwegingen
+##### Artikel 73. Uitzonderingen op grond van veiligheidsoverwegingen
 
 Geen enkele bepaling in deze Overeenkomst mag zo worden uitgelegd:
 
@@ -5347,13 +5372,13 @@ Geen enkele bepaling in deze Overeenkomst mag zo worden uitgelegd:
 
 De Leden komen hierbij het volgende overeen:
 
-#### Artikel 1. Reikwijdte en toepassing
+##### Artikel 1. Reikwijdte en toepassing
 
 1. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing op geschillen die worden voorgelegd ingevolge de bepalingen inzake overleg en geschillenbeslechting van de in Aanhangsel 1 bij dit Memorandum van Overeenstemming vermelde overeenkomsten (hierna te noemen „de vermelde overeenkomsten”). De regels en procedures van dit Memorandum van Overeenstemming zijn ook van toepassing op consultaties en de beslechting van geschillen tussen Leden betreffende hun rechten en verplichtingen ingevolge de bepalingen van de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO) en van dit Memorandum van Overeenstemming, hetzij afzonderlijk, hetzij in combinatie met een andere vermelde overeenkomst.
 
 2. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing met inachtneming van de bijzondere of aanvullende regels en procedures inzake geschillenbeslechting, vervat in de vermelde overeenkomsten, die zijn aangeduid in Aanhangsel 2 bij dit Memorandum van Overeenstemming. Voor zover er een verschil bestaat tussen de regels en procedures van dit Memorandum van Overeenstemming en de in Aanhangsel 2 genoemde bijzondere of aanvullende regels en procedures, hebben de bijzondere of aanvullende regels en procedures van Aanhangsel 2 voorrang. Indien er in geschillen waarop de regels en procedures van meer dan één vermelde overeenkomst betrekking hebben, een conflict bestaat tussen de bijzondere of aanvullende regels en procedures van de desbetreffende overeenkomsten, en de partijen bij het geschil niet binnen twintig dagen na de vorming van het panel tot overeenstemming kunnen komen over de regels en procedures, bepaalt de Voorzitter van het Orgaan voor Geschillenbeslechting bedoeld in artikel 2, eerste lid (hierna in dit Memorandum van Overeenstemming te noemen het „DSB”), in overleg met de partijen bij het geschil, binnen tien dagen na een verzoek van één van beide Leden welke regels en procedures moeten worden gevolgd. De Voorzitter laat zich leiden door het beginsel dat, waar mogelijk, bijzondere of aanvullende regels en procedures dienen te worden toegepast en dat de in dit Memorandum van Overeenstemming uiteengezette regels en procedures dienen te worden toegepast voor zover zulks noodzakelijk is om een conflict te vermijden.
 
-#### Artikel 2. Uitvoering
+##### Artikel 2. Uitvoering
 
 1. Het Orgaan voor Geschillenbeslechting wordt hierbij ingesteld ter uitvoering van deze regels en procedures en van de bepalingen inzake overleg en geschillenbeslechting van de vermelde overeenkomsten, tenzij in een vermelde overeenkomst anders is bepaald. Het DSB heeft bijgevolg de bevoegdheid panels te vormen, rapporten van een panel en de Beroepsinstantie aan te nemen, toezicht te houden op de tenuitvoerlegging van uitspraken en aanbevelingen en machtiging te verlenen voor het schorsen van concessies en andere verplichtingen ingevolge de vermelde overeenkomsten. Ten aanzien van geschillen die voortvloeien uit een vermelde overeenkomst die een Plurilaterale Handelsovereenkomst is, heeft de hierin gebruikte term „Lid” slechts betrekking op Leden die partij zijn bij de desbetreffende Plurilaterale Handelsovereenkomst. Wanneer het DSB de bepalingen inzake geschillenbeslechting van een Plurilaterale Handelsovereenkomst toepast, kunnen slechts Leden die partij zijn bij die overeenkomst deelnemen aan door het DSB genomen beslissingen of maatregelen met betrekking tot dat geschil.
 
@@ -5363,7 +5388,7 @@ De Leden komen hierbij het volgende overeen:
 
 4. Wanneer de regels en procedures van dit Memorandum van Overeenstemming voorschrijven dat het DSB een beslissing neemt, doet het zulks bij consensus1)Het DSB wordt geacht bij consensus een beslissing te hebben genomen aangaande een kwestie die aan het orgaan is voorgelegd indien geen enkel Lid dat op desbetreffende bijeenkomst aanwezig is, formeel bezwaar maakt tegen de voorgestelde beslissing..
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. De Leden bevestigen dat zij vasthouden aan de beginselen voor de behandeling van geschillen die tot dusver werden toegepast ingevolge de artikelen XXII en XXIII van de GATT-Overeenkomst van 1947, zoals hierin nader uitgewerkt en gewijzigd.
 
@@ -5389,7 +5414,7 @@ De Leden komen hierbij het volgende overeen:
 
 12. Indien door een Lid dat ontwikkelingsland is een klacht op grond van een vermelde overeenkomst wordt ingediend tegen een Lid dat ontwikkeld land is, heeft de klager, niettegenstaande het elfde lid, het recht om zich, in plaats van op de bepalingen van de artikelen 4, 5, 6 en 12 van dit Memorandum van Overeenstemming, te beroepen op de desbetreffende bepalingen van het Besluit van de Overeenkomstsluitende Partijen van 5 april 1966 (BISD 14S/18), met dien verstande dat indien het panel van oordeel is dat de in paragraaf 7 van dit besluit bedoelde termijn te kort is om zijn rapport te verstrekken, die termijn met instemming van de klager kan worden verlengd. Voor zover er een verschil bestaat tussen de regels en procedures van de artikelen 4, 5, 6 en 12 en de desbetreffende regels en procedures van het Besluit, hebben de laatstbedoelde voorrang.
 
-#### Artikel 4. Consultaties
+##### Artikel 4. Consultaties
 
 1. De Leden bevestigen hun vastbeslotenheid om de doeltreffendheid van de door de Leden gehanteerde overlegprocedures te versterken en te verbeteren.
 
@@ -5415,7 +5440,7 @@ De Leden komen hierbij het volgende overeen:
 
 kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan van het verzoek om consultaties ingevolge bedoeld artikel, in kennis stellen van zijn wens zich in de consultaties te mengen. Dat Lid wordt bij de consultaties betrokken, mits het Lid waaraan het verzoek om consultaties werd gericht, ermee instemt dat het beroep op wezenlijke belangen gegrond is. In dat geval stellen zij het DSB daarvan in kennis. Indien het verzoek zich in de consultaties te mogen mengen niet wordt aanvaard, staat het het verzoekende Lid vrij te vragen om consultaties ingevolge artikel XXII, eerste lid, of XXIII, eerste lid, van de GATT-Overeenkomst van 1994, artikel XXII, eerste lid, of XXIII, eerste lid, van de GATS-Overeenkomst of de overeenkomstige bepalingen van andere vermelde overeenkomsten.
 
-#### Artikel 5. Goede diensten, conciliatie en bemiddeling
+##### Artikel 5. Goede diensten, conciliatie en bemiddeling
 
 1. Goede diensten, conciliatie en bemiddeling zijn procedures waartoe vrijwillig wordt overgegaan indien de partijen bij het geschil zulks overeenkomen.
 
@@ -5429,13 +5454,13 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 6. De Directeur-Generaal kan, handelend uit hoofde van zijn functie, goede diensten, conciliatie of bemiddeling aanbieden teneinde de Leden te helpen een geschil te beslechten.
 
-#### Artikel 6. Vorming van panels
+##### Artikel 6. Vorming van panels
 
 1. Indien de klager hierom verzoekt, wordt uiterlijk op de eerstvolgende bijeenkomst van het DSB na de bijeenkomst waarop het verzoek voor het eerst als punt op de agenda van het DSB is geplaatst, een panel gevormd, tenzij het DSB bij consensus besluit geen panel te vormen1)Indien de klager daarom verzoekt, wordt hiertoe binnen vijftien dagen na het verzoek een bijeenkomst van het DSB belegd, mits de bijeenkomst ten minste tien dagen van tevoren wordt aangekondigd..
 
 2. Het verzoek om de vorming van een panel wordt schriftelijk gedaan. Dit geeft aan of overleg werd gepleegd, noemt de specifieke maatregelen in kwestie en geeft een korte uiteenzetting van de rechtsgrond van de klacht, waarin het probleem voldoende duidelijk wordt geschetst. Ingeval de verzoeker verlangt dat een panel wordt gevormd dat een andere taakomschrijving heeft dan de standaard-taakomschrijving, wordt de voorgestelde tekst van de bijzondere taakomschrijving in het schriftelijke verzoek opgenomen.
 
-#### Artikel 7. Taakomschrijving van de panels
+##### Artikel 7. Taakomschrijving van de panels
 
 1. Panels hebben de volgende taakomschrijving, tenzij de partijen bij het geschil binnen twintig dagen na de vorming van het panel anders overeenkomen:
 
@@ -5445,7 +5470,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 3. Bij de vorming van een panel kan het DSB de Voorzitter machtigen de taakomschrijving van het panel op te stellen in overleg met de partijen bij het geschil, zulks met inachtneming van de bepalingen van het eerste lid. De aldus opgestelde taakomschrijving wordt aan alle Leden toegezonden. Indien een andere dan de standaard-taakomschrijving wordt overeengekomen, kan elk Lid elk daarop betrekking hebbend punt voorleggen aan het DSB.
 
-#### Artikel 8. Samenstelling van de panels
+##### Artikel 8. Samenstelling van de panels
 
 1. De panels worden samengesteld uit zeer bekwame regeringsfunctionarissen en/of anderen, onder wie personen die zitting hebben gehad in een panel of een zaak aan een panel hebben voorgelegd, die zijn opgetreden als vertegenwoordiger van een Lid van de WTO of van een partij bij de GATT-Overeenkomst van 1947 dan wel als vertegenwoordiger in een raad of commissie van een vermelde overeenkomst of een overeenkomst die daaraan voorafging, of bij het Secretariaat, die het internationale handelsrecht of -beleid hebben gedoceerd of daarover hebben gepubliceerd, of die zich als hoger ambtenaar van een Lid met het handelsbeleid hebben beziggehouden.
 
@@ -5469,7 +5494,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 11. Onkosten van panelleden, met inbegrip van reis- en verblijfkosten, worden vergoed uit de begroting van de WTO in overeenstemming met de door de Algemene Raad aan te nemen criteria, op basis van aanbevelingen van de Commissie voor Begroting, Financiën en Administratie.
 
-#### Artikel 9. Procedures ingeval er meer dan één klager is
+##### Artikel 9. Procedures ingeval er meer dan één klager is
 
 1. Wanneer meer dan één Lid verzoekt om de vorming van een panel met betrekking tot dezelfde kwestie, kan één panel worden gevormd om deze klachten te bestuderen, rekening houdend met de rechten van alle betrokken Leden. Wanneer zulks enigszins mogelijk is, dient één panel te worden gevormd om deze klachten te bestuderen.
 
@@ -5477,7 +5502,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 3. Indien meer dan één panel wordt gevormd om de klachten met betrekking tot dezelfde zaak te onderzoeken, treden zoveel mogelijk dezelfde personen als panellid op in elk van de afzonderlijke panels en wordt het tijdschema voor de panelprocedure in die geschillen geharmoniseerd.
 
-#### Artikel 10. Derden
+##### Artikel 10. Derden
 
 1. Met de belangen van de partijen bij een geschil en met die van andere Leden van een vermelde overeenkomst waarop het geschil betrekking heeft, wordt gedurende de panelprocedure ten volle rekening gehouden.
 
@@ -5487,11 +5512,11 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 4. Indien een derde van mening is dat een maatregel die reeds het voorwerp van een panelprocedure is, de voordelen die hem ingevolge een vermelde overeenkomst toekomen, tenietdoet of uitholt, kan dat Lid zijn toevlucht nemen tot de normale procedures voor geschillenbeslechting ingevolge dit Memorandum van Overeenstemming. Dat geschil wordt, voor zover zulks mogelijk is, aan het oorspronkelijke panel voorgelegd.
 
-#### Artikel 11. Taken van de panels
+##### Artikel 11. Taken van de panels
 
 De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verantwoordelijkheden ingevolge dit Memorandum van Overeenstemming en de vermelde overeenkomsten. Het panel dient derhalve de voorgelegde kwestie aan een objectieve beoordeling te onderwerpen, met inbegrip van een objectieve beoordeling van de feiten van de zaak en de toepasbaarheid van en de verenigbaarheid met de desbetreffende vermelde overeenkomsten, en tot de conclusies te komen die het DSB zullen helpen bij het doen van de aanbevelingen of de uitspraken als bedoeld in de vermelde overeenkomsten. De panels dienen regelmatig overleg te plegen met de partijen bij het geschil en hun voldoende gelegenheid te bieden om tot een wederzijds bevredigende oplossing te komen.
 
-#### Artikel 12. Werkwijze van het panel
+##### Artikel 12. Werkwijze van het panel
 
 1. De panels volgen de in Aanhangsel 3 opgenomen werkwijze, tenzij het panel na overleg met de partijen bij het geschil anders besluit.
 
@@ -5517,13 +5542,13 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 12. Het panel kan zijn werkzaamheden te allen tijde op verzoek van de klager opschorten voor een tijdvak van ten hoogste twaalf maanden. In geval van opschorting worden de in het achtste en negende lid van dit artikel, artikel 20, eerste lid, en artikel 21, vierde lid, genoemde termijnen verlengd met de hoeveelheid tijd gedurende welke de werkzaamheden werden opgeschort. Indien de werkzaamheden van het panel gedurende meer dan twaalf maanden zijn opgeschort, vervalt de bevoegdheid tot vorming van het panel.
 
-#### Artikel 13. Recht om inlichtingen in te winnen
+##### Artikel 13. Recht om inlichtingen in te winnen
 
 1. Elk panel heeft het recht inlichtingen en technisch advies in te winnen bij een persoon of instelling die het daartoe geschikt acht. Alvorens bedoelde inlichtingen of advies in te winnen bij een persoon of instelling binnen de rechtsmacht van een Lid, stelt het panel de autoriteiten van dat Lid hiervan in kennis. Een Lid geeft onmiddellijk en volledig gevolg aan een verzoek van een panel om de inlichtingen die het panel noodzakelijk en passend acht. Vertrouwelijke inlichtingen die zijn verstrekt, worden niet openbaar gemaakt zonder de formele toestemming van de persoon, instelling of autoriteiten van het Lid die de inlichtingen verstrekt c.q. verstrekken.
 
 2. Panels kunnen inlichtingen inwinnen uit elke daarvoor in aanmerking komende bron en kunnen deskundigen raadplegen teneinde hun mening over bepaalde aspecten van de kwestie te horen. Ten aanzien van een feitenkwestie betreffende een wetenschappelijk of technisch vraagstuk dat door een partij bij het geschil naar voren is gebracht, kan een panel een schriftelijk advies inwinnen bij een groep van deskundigen. Regels voor de instelling van zo'n groep en de werkwijze daarvan zijn uiteengezet in Aanhangsel 4.
 
-#### Artikel 14. Geheimhouding
+##### Artikel 14. Geheimhouding
 
 1. De beraadslagingen van panels zijn geheim.
 
@@ -5531,7 +5556,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 3. In het rapport van het panel tot uitdrukking gebrachte meningen van afzonderlijke panelleden zijn anoniem.
 
-#### Artikel 15. Tussentijdse beoordeling
+##### Artikel 15. Tussentijdse beoordeling
 
 1. Na de bestudering van de verweerschriften en de pleidooien legt het panel de beschrijvende delen (betreffende feiten en argumenten) van zijn concept-rapport voor aan de partijen. Binnen een door het panel vastgestelde termijn dienen de partijen schriftelijk commentaar in.
 
@@ -5539,7 +5564,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 3. De bevindingen van het eindrapport omvatten een bespreking van de naar aanleiding van de tussentijdse beoordeling aangevoerde argumenten. De tussentijdse beoordeling vindt plaats binnen de in artikel 12, achtste lid, genoemde termijn.
 
-#### Artikel 16. Aanneming van rapporten van panels
+##### Artikel 16. Aanneming van rapporten van panels
 
 1. Teneinde de Leden van het DSB voldoende tijd te bieden om rapporten van panels te bestuderen, worden de rapporten niet eerder dan twintig dagen nadat zij aan de Leden zijn toegezonden, door het DSB behandeld met het oog op aanneming.
 
@@ -5549,7 +5574,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 4. Binnen zestig dagen nadat een rapport van een panel aan de Leden is toegezonden, wordt het rapport aangenomen op een bijeenkomst van het DSB1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland op een tijdstip waarmee kan worden voldaan aan de vereisten van artikel 16, eerste en vierde lid, dient hiertoe een bijeenkomst van het DSB te worden belegd., tenzij één van de partijen bij het geschil het DSB formeel kennisgeeft van haar beslissing beroep in te stellen, of het DSB bij consensus besluit het rapport niet aan te nemen. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken.
 
-#### Artikel 17. Beroep
+##### Artikel 17. Beroep
 
 1. Door het DSB wordt een vaste Beroepsinstantie ingesteld. De Beroepsinstantie neemt kennis van beroepen betreffende aan een panel voorgelegde zaken. De Beroepsinstantie bestaat uit zeven personen, van wie er drie bij elke zaak fungeren. De personen die in de Beroepsinstantie zitting hebben, rouleren. Dit rouleersysteem wordt vastgesteld in het reglement van orde van de Beroepsinstantie.
 
@@ -5581,23 +5606,23 @@ Aanneming van rapporten van de Beroepsinstantie
 
 14. Een rapport van de Beroepsinstantie wordt door het DSB aangenomen en door de partijen bij het geschil onvoorwaardelijk aanvaard, tenzij het DSB binnen dertig dagen nadat het rapport aan de Leden1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland, dient hiertoe een bijeenkomst van het DSB te worden belegd. is toegezonden, bij consensus besluit het rapport van de Beroepsinstantie niet aan te nemen. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van de Beroepsinstantie kenbaar te maken.
 
-#### Artikel 18. Contacten met het panel of de Beroepsinstantie
+##### Artikel 18. Contacten met het panel of de Beroepsinstantie
 
 1. Contacten van een partij met het panel of de Beroepsinstantie betreffende kwesties die bij het panel of de Beroepsinstantie in behandeling zijn, zijn niet toegestaan.
 
 2. Bij het panel of de Beroepsinstantie ingediende schriftelijke stukken worden vertrouwelijk behandeld, maar worden aan de partijen bij het geschil ter beschikking gesteld. Geen enkele bepaling van dit Memorandum van Overeenstemming belet een partij bij het geschil zijn eigen standpunt openbaar te maken. Informatie die door een ander Lid aan het panel of de Beroepsinstantie is verstrekt en die door dat Lid als vertrouwelijk is aangemerkt, wordt door de Leden vertrouwelijk behandeld. Een partij bij het geschil geeft tevens, op verzoek van een Lid, een niet-vertrouwelijke samenvatting van de in haar schriftelijke stukken vervatte informatie die openbaar gemaakt zou kunnen worden.
 
-#### Artikel 19. Aanbevelingen van een panel of de Beroepsinstantie
+##### Artikel 19. Aanbevelingen van een panel of de Beroepsinstantie
 
 1. Wanneer een panel of de Beroepsinstantie van oordeel is dat een maatregel onverenigbaar is met een vermelde overeenkomst, beveelt het panel of de Beroepsinstantie het betrokken Lid1)Het „betrokken Lid” is de partij bij het geschil waaraan de aanbevelingen van het panel of de Beroepsinstantie zijn gericht. aan deze maatregel met die overeenkomst 2)Wat betreft aanbevelingen in gevallen waarin geen sprake is van schending van de GATT-Overeenkomst van 1994 of van andere vermelde overeenkomsten, zie artikel 26. in overeenstemming te brengen. Naast zijn c.q. haar aanbevelingen kan het panel of de Beroepsinstantie voorstellen op welke wijze het betrokken Lid uitvoering zou kunnen geven aan de aanbevelingen.
 
 2. Overeenkomstig artikel 3, tweede lid, kunnen het panel en de Beroepsinstantie in hun bevindingen en aanbevelingen de in de vermelde overeenkomsten bepaalde rechten en verplichtingen niet aanvullen of beperken.
 
-#### Artikel 20. Termijn voor beslissingen van het DSB
+##### Artikel 20. Termijn voor beslissingen van het DSB
 
 Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn vanaf de vorming van het panel door het DSB tot de datum waarop het DSB het rapport van het panel of de Beroepsinstantie behandelt met het oog op aanneming, in beginsel ten hoogste negen maanden indien geen beroep tegen het rapport wordt ingesteld en ten hoogste twaalf maanden indien beroep wordt ingesteld. Indien hetzij het panel, hetzij de Beroepsinstantie ingevolge artikel 12, negende lid, of artikel 17, vijfde lid, heeft besloten de termijn voor het verstrekken van zijn c.q. haar rapport te verlengen, wordt de genomen extra tijd bij de hierboven genoemde termijnen geteld.
 
-#### Artikel 21. Toezicht op de tenuitvoerlegging van aanbevelingen en uitspraken
+##### Artikel 21. Toezicht op de tenuitvoerlegging van aanbevelingen en uitspraken
 
 1. Onmiddellijke naleving van de aanbevelingen of uitspraken van het DSB is van wezenlijk belang om te zorgen voor een effectieve beslechting van geschillen ten voordele van alle Leden.
 
@@ -5621,7 +5646,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 8. Indien het een zaak betreft die aanhangig is gemaakt door een Lid dat ontwikkelingsland is, houdt het DSB, wanneer het nagaat welke passende stappen zouden kunnen worden ondernomen, niet alleen rekening met het handelsverkeer dat wordt getroffen door de maatregelen waartegen een klacht is ingediend, maar ook met de gevolgen daarvan voor de economie van de betrokken Leden die ontwikkelingsland zijn.
 
-#### Artikel 22. Compensatie en schorsing van concessies
+##### Artikel 22. Compensatie en schorsing van concessies
 
 1. Compensatie en schorsing van concessies of andere verplichtingen zijn tijdelijke maatregelen die kunnen worden gehanteerd ingeval de aanbevelingen of uitspraken niet binnen een redelijke termijn ten uitvoer worden gelegd. Aan compensatie of aan schorsing van concessies of andere verplichtingen wordt evenwel niet de voorkeur gegeven boven volledige tenuitvoerlegging van een aanbeveling om een maatregel in overeenstemming te brengen met de vermelde overeenkomsten. Compensatie geschiedt vrijwillig en dient, indien toegestaan, in overeenstemming te zijn met de vermelde overeenkomsten.
 
@@ -5671,7 +5696,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 9. De bepalingen voor geschillenbeslechting van de vermelde overeenkomsten kunnen worden ingeroepen ten aanzien van maatregelen die de inachtneming daarvan raken, genomen door regionale of plaatselijke overheden of autoriteiten op het grondgebied van een Lid. Wanneer het DSB heeft bepaald dat een bepaling van een vermelde overeenkomst niet in acht is genomen, neemt het verantwoordelijke Lid de redelijke maatregelen die mogelijk zijn om de inachtneming daarvan te waarborgen. De bepalingen van de vermelde overeenkomsten en dit Memorandum van Overeenstemming betreffende compensatie en schorsing van concessies of andere verplichtingen zijn van toepassing in gevallen waarin het niet mogelijk is gebleken bedoelde inachtneming te bewerkstelligen.1)Wanneer de bepalingen van een vermelde overeenkomst betreffende maatregelen genomen door regionale of plaatstelijke overheden of autoriteiten op het grondgebied van een Lid bepalingen bevatten die afwijken van de bepalingen van dit lid, hebben de bepalingen van die vermelde overeenkomst voorrang..
 
-#### Artikel 23. Versterking van het multilaterale stelsel
+##### Artikel 23. Versterking van het multilaterale stelsel
 
 1. Wanneer Leden goedmaking verlangen wegens een schending van verplichtingen of een andere wijze van tenietdoen of uitholling van voordelen ingevolge de vermelde overeenkomsten of wegens een belemmering voor de verwezenlijking van een doelstelling van de vermelde overeenkomsten, doen zij een beroep op de regels en procedures van dit Memorandum van Overeenstemming en nemen zij deze in acht.
 
@@ -5683,13 +5708,13 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 - c. de in artikel 22 uiteengezette procedures volgen om de mate van de schorsing van concessies of andere verplichtingen te bepalen en de machtiging van het DSB te verkrijgen in overeenstemming met die procedures, alvorens de concessies of andere verplichtingen ingevolge de vermelde overeenkomsten te schorsen in reactie op het verzuim van het betrokken Lid om de aanbevelingen en uitspraken uit te voeren binnen die redelijke termijn.
 
-#### Artikel 24. Bijzondere procedures betreffende Leden die minstontwikkeld land zijn
+##### Artikel 24. Bijzondere procedures betreffende Leden die minstontwikkeld land zijn
 
 1. In alle stadia van de vaststelling van de oorzaken van een geschil en van procedures voor geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, wordt bijzondere aandacht geschonken aan de speciale situatie van Leden die minstontwikkeld land zijn. In dit opzicht handelen de Leden met de nodige terughoudendheid bij het aanhangig maken van kwesties overeenkomstig deze procedures waarbij een Lid betrokken is dat minstontwikkeld land is. Indien wordt vastgesteld dat het tenietdoen of de uitholling het gevolg is van een maatregel die is genomen door een Lid dat minstontwikkeld land is, handelen klagers met de nodige terughoudendheid wanneer zij compensatie verlangen of verzoeken om een machtiging tot schorsing van de toepassing van concessies of andere verplichtingen ingevolge deze procedures.
 
 2. In gevallen van geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, waarvoor in de loop van het overleg geen bevredigende oplossing wordt gevonden, biedt de Directeur-generaal of de Voorzitter van het DSB op verzoek van een Lid dat minstontwikkeld land is, hun goede diensten, conciliatie of bemiddeling aan teneinde de partijen te helpen hun geschil te beslechten, alvorens een verzoek om de vorming van de panel wordt gedaan. De Directeur-Generaal of de Voorzitter kan bij het verlenen van bovenbedoelde hulp elke door hen geschikt geachte bron raadplegen.
 
-#### Artikel 25. Arbitrage
+##### Artikel 25. Arbitrage
 
 1. Snelle arbitrage binnen de WTO als alternatieve wijze van geschillenbeslechting kan de oplossing vergemakkelijken van bepaalde geschillen die betrekking hebben op door beide partijen duidelijk omschreven kwesties.
 
@@ -5699,7 +5724,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 4. De artikelen 21 en 22 van dit Memorandum van Overeenstemming zijn van overeenkomstige toepassing op arbitrale uitspraken.
 
-#### Artikel 26. Gevallen waarin geen sprake is van schending
+##### Artikel 26. Gevallen waarin geen sprake is van schending
 
 Klachten van het soort als omschreven in artikel XXIII:1b. van de GATT-Overeenkomst van 1994
 
@@ -5721,7 +5746,7 @@ Klachten van het soort als omschreven in artikel XXIII:1c. van de GATT-Overeenko
 
 - b. indien een panel in een zaak betreffende kwesties die onder dit lid vallen van oordeel is dat de zaak mede voor geschillenbeslechting in aanmerking komende kwesties bevat anders dan die welke onder dit lid vallen, brengt het panel een rapport uit aan het DSB waarin het ingaat op die kwesties alsmede een afzonderlijk rapport inzake kwesties die onder dit lid vallen.
 
-#### Artikel 27. Taken van het Secretariaat
+##### Artikel 27. Taken van het Secretariaat
 
 1. Het Secretariaat heeft tot taak de panels bij te staan, met name betreffende de juridische, historische en procedurele aspecten van de behandelde kwesties, en secretariële en technische ondersteuning te bieden.
 
@@ -5733,17 +5758,17 @@ De volgende regels en procedures zijn van toepassing op overeenkomstig artikel 1
 
 De volgende regels en procedures zijn van toepassing op overeenkomstig artikel 13, tweede lid, ingestelde werkgroepen van deskundigen.
 
-#### A.. Doelstellingen
+##### A.. Doelstellingen
 
 - i. Doel van de regeling inzake toetsing van het handelsbeleid (Trade Policy Review Mechanism – TPRM) is een betere naleving door alle Leden van de in de multilaterale handelsovereenkomsten en eventuele plurilaterale handelsovereenkomsten opgenomen regels, disciplines en verbintenissen, en derhalve een vlottere werking van het multilaterale handelsstelsel als gevolg van een grotere doorzichtigheid van en meer inzicht in het handelsbeleid en de handelspraktijken van de Leden. De toetsingsregeling maakt bijgevolg de geregelde gezamenlijke beoordeling en evaluatie mogelijk van alle handelspolitieken en -praktijken van de afzonderlijke Leden en de invloed ervan op de werking van het multilateraal handelsstelsel. Het is evenwel niet de bedoeling dat zij wordt aangewend als grondslag voor het doen naleven van bepaalde verplichtingen in het kader van de overeenkomsten of voor geschillenbeslechtingsprocedures dan wel voor het aan Leden opleggen van nieuwe beleidsmatige verplichtingen.
 
 - ii. De beoordeling in het kader van de toetsingsregeling heeft, voor zover dat aangewezen is, plaats tegen de achtergrond van de meer algemene behoeften, beleidslijnen en doelstellingen van het betrokken Lid op economisch en ontwikkelingsgebied, evenals van de toestand in zijn buitenlandse omgeving. Oogmerk van de toetsingsregeling is evenwel het onderzoek van de invloed van het handelsbeleid en de handelspraktijken van een Lid op het multilateraal handelsstelsel.
 
-#### B.. Interne doorzichtigheid
+##### B.. Interne doorzichtigheid
 
 De Leden erkennen met betrekking tot de besluitvorming van de regeringen op handelspolitiek gebied de intrinsieke waarde van interne doorzichtigheid voor zowel de economie van de Leden als het multilateraal handelsstelsel en komen overeen het tot stand brengen van grotere doorzichtigheid binnen hun eigen stelsels aan te moedigen en te bevorderen, terwijl zij inzien dat de interne doorzichtigheid op vrijwillige basis tot stand moet komen en dat daarbij rekening dient te worden gehouden met de wettelijke en politieke stelsels van ieder lid.
 
-#### C.. Toetsingsprocedures
+##### C.. Toetsingsprocedures
 
 - i. Voor het toetsingswerk met betrekking tot het handelsbeleid wordt hierbij het Orgaan voor toetsing van het handelsbeleid (Trade Policy Review Body – TPRB) ingesteld.
 
@@ -5763,39 +5788,39 @@ De Leden erkennen met betrekking tot de besluitvorming van de regeringen op hand
 
 - vii. Genoemde documenten worden ter beschikking gesteld van de Ministeriële Conferentie, die er nota van neemt.
 
-#### D.. Verslagen
+##### D.. Verslagen
 
 Met het oog op een zo groot mogelijke doorzichtigheid brengt ieder lid geregeld verslag uit aan het TPRB. In de omstandige verslagen worden het handelsbeleid en de handelspraktijken van het betrokken Lid of de betrokken Leden beschreven volgens een overeengekomen model dat door het TPRB wordt vastgesteld. Voor dit model wordt voorlopig gebruik gemaakt van het ontwerp-model voor landenrapporten vastgesteld bij besluit van 19 juli 1989 (BISD 36S/406–409), dat zo nodig wordt gewijzigd om in de verslagen alle aspecten van het handelsbeleid te kunnen behandelen waarop de in bijlage 1 genoemde multilaterale handelsovereenkomsten en eventueel de plurilaterale handelsovereenkomsten betrekking hebben. Dit model kan door het TPRB in het licht van de ervaring worden herzien. In de tussen twee toetsingen verlopende periode dienen de leden beknopte verslagen in wanneer zij hun handelsbeleid in belangrijke mate wijzigen; de meest recente statistische gegevens worden jaarlijks in overeenstemming met het overeengekomen model ingediend. Er wordt speciale aandacht besteed aan de moeilijkheden welke bij het opstellen van de verslagen worden ondervonden door Leden die minstontwikkelde landen zijn. Het secretariaat stelt op verzoek technische bijstand ter beschikking van Leden die ontwikkelingslanden zijn en vooral van Leden die minstontwikkelde landen zijn. Er wordt gestreefd naar zoveel mogelijk coördinatie tussen de gegevens welke worden opgenomen in de verslagen en in de kennisgevingen welke op grond van bepalingen van de multilaterale handelsovereenkomsten en eventueel de plurilaterale handelsovereenkomsten worden gedaan.
 
-#### E.. Verband met de bepalingen betreffende de betalingsbalans van de GATT 1994 en de GATS
+##### E.. Verband met de bepalingen betreffende de betalingsbalans van de GATT 1994 en de GATS
 
 De Leden zijn zich ervan bewust dat het nodig is de werklast voor de regeringen, die op grond van de betalingsbalansbepalingen van de GATT 1994 of de GATS eveneens uitvoerig moeten kunnen worden geraadpleegd, zo klein mogelijk te houden. De voorzitter van het TPRB werkt met het oog daarop, in overleg met het betrokken Lid of de betrokken Leden en met de voorzitter van de Commissie Beperkingen ten behoeve van de betalingsbalans, administratieve regelingen uit voor het in overeenstemming brengen van de gewone frequentie van de toetsingen van het handelsbeleid met het tijdschema voor het overleg betreffende de betalingsbalans, zonder evenwel de toetsing van het handelsbeleid meer dan 12 maanden te verschuiven.
 
-#### F.. Beoordeling van de regeling
+##### F.. Beoordeling van de regeling
 
 De werking van de TPRM wordt door het TPRB niet later dan vijf jaar na het in werking treden van de Overeenkomst tot oprichting van de WTO beoordeeld. De resultaten van de beoordeling worden aan de Ministeriële Conferentie voorgelegd. De TPRM kan vervolgens met tussenpozen vastgesteld door het TPRB of op verzoek van de Ministeriële Conferentie opnieuw worden beoordeeld.
 
-#### G.. Overzicht van de ontwikkelingen in de internationale handel
+##### G.. Overzicht van de ontwikkelingen in de internationale handel
 
 Het TPRB stelt eveneens een jaarlijks overzicht op van de ontwikkelingen in de internationale handel welke van invloed zijn op het multilaterale handelsstelsel. Daarvoor wordt gebruik gemaakt van een jaarverslag van de directeur-generaal waarin de belangrijkste activiteiten van de WTO en de voor het handelsstelsel significante beleidskwesties worden beschreven.
 
-#### 1
+##### 1
 
 De ministers erkennen dat de mondialisering van de wereldeconomie heeft geleid tot een steeds verdergaande wisselwerking tussen het economisch beleid van de afzonderlijke landen, met inbegrip van een wisselwerking tussen de structurele, macro-economische, handels-, financiële en ontwikkelingsaspecten van het economisch beleid. De taak om dit beleid te harmoniseren berust primair bij de regeringen op nationaal niveau, maar de samenhang op internationale schaal is een belangrijke en waardevolle factor ter vergroting van de doeltreffendheid van het beleid op nationaal niveau. De in het kader van de Uruguay-Ronde tot stand gekomen overeenkomsten tonen aan dat alle deelnemende regeringen erkennen dat een liberaal handelsbeleid kan bijdragen tot een gezonde groei en ontwikkeling van hun eigen economie en de gehele wereldeconomie.
 
-#### 2
+##### 2
 
 Geslaagde samenwerking op een bepaald gebied van het economisch beleid draagt bij tot vooruitgang op andere gebieden. Grotere stabiliteit van de wisselkoersen, op basis van meer ordelijke economische en financiële voorwaarden, zou moeten bijdragen tot uitbreiding van de handel, duurzame groei en ontwikkeling en herstel van externe onevenwichtigheden. Er is ook behoefte aan een passende en tijdige stroom concessionele en niet-concessionele financiële middelen alsmede gelden voor investeringen naar de ontwikkelingslanden en aan meer inspanningen om de schuldenproblematiek aan te pakken, om te zorgen voor economische groei en ontwikkeling. Vrijmaking van het handelsverkeer vormt een steeds belangrijkere factor voor het welslagen van de aanpassingsprogramma's die veel landen uitvoeren, waarmee veelal aanzienlijke kosten zijn gemoeid die in de overgangsfase vaak zwaar op de samenleving drukken. In dit verband wijzen de ministers op de rol van de Wereldbank en het IMF bij het bieden van steun aan aanpassing aan de vrijmaking van het handelsverkeer, met inbegrip van steun aan netto voedsel importerende ontwikkelingslanden die op de korte termijn worden geconfronteerd met kosten ten gevolge van hervormingen van de handel in landbouwprodukten.
 
-#### 3
+##### 3
 
 Het positieve resultaat van de Uruguay-Ronde is een belangrijke bijdrage aan een meer samenhangend en aanvullend internationaal economisch beleid. De resultaten van de Uruguay-Ronde bieden ruimere toegang tot de markt in het voordeel van alle landen, alsmede een kader van versterkte multilaterale gedragsregels voor het handelsverkeer. Zij garanderen ook dat het handelsbeleid op een meer doorzichtige wijze wordt gevoerd, met een groter besef van de voordelen van een open handelsstelsel voor het binnenlandse concurrentievermogen. Het versterkte multilaterale handelsstelsel dat uit de Uruguay-Ronde voorkomt, leent zich ertoe een verbeterd forum voor liberalisering te bieden, bij te dragen tot doeltreffender toezicht en te zorgen voor een strikte naleving van de multilateraal overeengekomen regels en methoden. Deze verbeteringen betekenen dat het handelsbeleid in de toekomst een gewichtiger rol kan spelen in de totstandbrenging van samenhang in het mondiale economische beleid.
 
-#### 4
+##### 4
 
 De ministers erkennen echter dat moeilijkheden waarvan de oorzaak buiten het handelsterrein is gelegen, niet enkel met maatregelen op handelsgebied kunnen worden verholpen. Hiermee wordt het belang onderstreept van pogingen om andere elementen van het mondiale economische beleid te verbeteren ter aanvulling van de effectieve toepassing van de in het kader van de Uruguay-Ronde bereikte resultaten.
 
-#### 5
+##### 5
 
 De onderlinge verbanden tussen de verschillende aspecten van het economisch beleid vergen dat de internationale instellingen die verantwoordelijkheden op deze terreinen hebben, een samenhangend en wederzijds ondersteunend beleid voeren. De Wereldhandelsorganisatie dient derhalve te streven naar samenwerking met internationale organisaties die zijn belast met monetaire en financiële aangelegenheden, en deze tot ontwikkeling te brengen, waarbij het mandaat, de vereisten inzake vertrouwelijkheid en de noodzakelijke autonomie in besluitvormingsprocedures van elke instelling worden geëerbiedigd en het opleggen van eencross-conditionality -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.**cross-conditionality** -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.
 
@@ -5809,13 +5834,13 @@ Herinnerend aan de uit de WTO-Overeenkomst voortvloeiende verplichtingen tot bek
 
 Komen het volgende overeen:
 
-#### I. Algemene verplichting tot kennisgeving
+##### I. Algemene verplichting tot kennisgeving
 
 De Leden bevestigen hun verbintenis tot nakoming van de verplichtingen inzake bekenmaking en kennisgeving die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten.
 
 De Leden herinneren aan hun verplichtingen die zijn vervat in het op 28 november 1979 aangenomen Memorandum van Overeenstemming betreffende kennisgeving, overleg, geschillenbeslechting en toezicht (BISD 26S/210). Met betrekking tot de verplichting die zij daarbij zijn aangegaan om zoveel mogelijk kennis te geven van de vaststelling van handelsmaatregelen die van invloed zijn op de werking van GATT 1994, met dien verstande dat deze kennisgeving op zichzelf geen beletsel vormt voor standpunten over de verenigbaarheid of het verband van deze maatregelen met de rechten en verplichtingen die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten, komen de Leden overeen, naargelang van het geval, uit te gaan van de in de bijlage opgenomen lijst van maatregelen. De Leden komen derhalve overeen dat bij invoering of wijziging van deze maatregelen moet worden voldaan aan de kennisgevingsvoorschriften van het Memorandum van Overeenstemming van 1979.
 
-#### II. Centraal register van kennisgevingen
+##### II. Centraal register van kennisgevingen
 
 Er wordt een centraal register van kennisgevingen ingesteld onder de verantwoordelijkheid van het Secretariaat. Terwijl de Leden de bestaande kennisgevingsprocedures verder in acht nemen, ziet het Secretariaat erop toe dat in het centraal register gegevens uit de informatie die het betrokken Lid ten aanzien van de maatregel heeft verstrekt, worden genoteerd, ondermeer het doel van de maatregel, het betrokken handelsverkeer en het voorschrift op grond waarvan de kennisgeving wordt verricht. In het centraal register worden kennisgevingen per Lid en per verplichting geregistreerd, met onderlinge verwijzingen.
 
@@ -5825,7 +5850,7 @@ De dienst van het centraal register vestigt de aandacht van afzonderlijke Leden 
 
 In het centraal register opgenomen informatie met betrekking tot afzonderlijke kennisgevingen wordt op een daartoe strekkend verzoek verstrekt aan elk Lid dat recht heeft op het ontvangen van de betrokken kennisgeving.
 
-#### III. Onderzoek van kennisgevingsverplichtingen en -procedures
+##### III. Onderzoek van kennisgevingsverplichtingen en -procedures
 
 De Raad voor de handel in goederen onderzoekt de kennisgevingsverplichtingen en -procedures uit hoofde van de Overeenkomsten die zijn opgenomen in bijlage 1 A bij de WTO-Overeenkomst. Dit onderzoek wordt uitgevoerd door een werkgroep waarvan alle Leden deel kunnen uitmaken. De groep wordt onmiddellijk na de datum van inwerkingtreding van de WTO-Overeenkomst opgericht.
 
@@ -5917,7 +5942,7 @@ Besluit het volgende:
 
 DONE at Marrakesh this fifteenth day of April one thousand nine hundred and ninety-four, in a single copy, in the English, French and Spanish languages, each text being authentic.
 
-#### Artikel 31bis
+##### Artikel 31bis
 
 1. De verplichtingen van een exporterend lid volgens [artikel 31, onder f](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), zijn niet van toepassing met betrekking tot het verlenen door dat lid van een dwanglicentie in de mate die nodig is voor de productie van farmaceutische producten (een farmaceutisch product) en de uitvoer daarvan naar in aanmerking komende importerende leden (een in aanmerking komend importerend lid) overeenkomstig de bepalingen van lid 2 van de bijlage bij deze overeenkomst.
 
@@ -5929,7 +5954,7 @@ DONE at Marrakesh this fifteenth day of April one thousand nine hundred and nine
 
 5. Dit artikel en de bijlage bij deze overeenkomst laten onverlet de rechten, verplichtingen en flexibiliteiten alsook de interpretatie daarvan, die de leden krachtens de bepalingen van deze overeenkomst hebben, met uitzondering van de [punten f en h van artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC&deel=II&titeldeel=5&artikel=31&z=2017-01-23&g=2017-01-23), met inbegrip van de opnieuw door de verklaring inzake de TRIPS-overeenkomst en de volksgezondheid (WT/MIN(01)/DEC/2) bevestigde rechten, verplichtingen en flexibiliteiten. Zij laten eveneens onverlet de mate waarin onder dwanglicentie geproduceerde farmaceutische producten volgens de bepalingen van artikel 31, onder f, kunnen worden geëxporteerd.
 
-#### Artikel 32. Intrekking/Vervallenverklaring
+##### Artikel 32. Intrekking/Vervallenverklaring
 
 Voor beslissingen tot intrekking of vervallenverklaring van een octrooi dient een mogelijkheid voor toetsing door de rechter te bestaan.
 
@@ -5961,13 +5986,13 @@ Voor beslissingen tot intrekking of vervallenverklaring van een octrooi dient ee
 
 De Leden komen hierbij het volgende overeen:
 
-#### Artikel 1. Reikwijdte en toepassing
+##### Artikel 1. Reikwijdte en toepassing
 
 1. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing op geschillen die worden voorgelegd ingevolge de bepalingen inzake overleg en geschillenbeslechting van de in Aanhangsel 1 bij dit Memorandum van Overeenstemming vermelde overeenkomsten (hierna te noemen „de vermelde overeenkomsten”). De regels en procedures van dit Memorandum van Overeenstemming zijn ook van toepassing op consultaties en de beslechting van geschillen tussen Leden betreffende hun rechten en verplichtingen ingevolge de bepalingen van de Overeenkomst tot oprichting van de Wereldhandelsorganisatie (WTO) en van dit Memorandum van Overeenstemming, hetzij afzonderlijk, hetzij in combinatie met een andere vermelde overeenkomst.
 
 2. De regels en procedures van dit Memorandum van Overeenstemming zijn van toepassing met inachtneming van de bijzondere of aanvullende regels en procedures inzake geschillenbeslechting, vervat in de vermelde overeenkomsten, die zijn aangeduid in Aanhangsel 2 bij dit Memorandum van Overeenstemming. Voor zover er een verschil bestaat tussen de regels en procedures van dit Memorandum van Overeenstemming en de in Aanhangsel 2 genoemde bijzondere of aanvullende regels en procedures, hebben de bijzondere of aanvullende regels en procedures van Aanhangsel 2 voorrang. Indien er in geschillen waarop de regels en procedures van meer dan één vermelde overeenkomst betrekking hebben, een conflict bestaat tussen de bijzondere of aanvullende regels en procedures van de desbetreffende overeenkomsten, en de partijen bij het geschil niet binnen twintig dagen na de vorming van het panel tot overeenstemming kunnen komen over de regels en procedures, bepaalt de Voorzitter van het Orgaan voor Geschillenbeslechting bedoeld in artikel 2, eerste lid (hierna in dit Memorandum van Overeenstemming te noemen het „DSB”), in overleg met de partijen bij het geschil, binnen tien dagen na een verzoek van één van beide Leden welke regels en procedures moeten worden gevolgd. De Voorzitter laat zich leiden door het beginsel dat, waar mogelijk, bijzondere of aanvullende regels en procedures dienen te worden toegepast en dat de in dit Memorandum van Overeenstemming uiteengezette regels en procedures dienen te worden toegepast voor zover zulks noodzakelijk is om een conflict te vermijden.
 
-#### Artikel 2. Uitvoering
+##### Artikel 2. Uitvoering
 
 1. Het Orgaan voor Geschillenbeslechting wordt hierbij ingesteld ter uitvoering van deze regels en procedures en van de bepalingen inzake overleg en geschillenbeslechting van de vermelde overeenkomsten, tenzij in een vermelde overeenkomst anders is bepaald. Het DSB heeft bijgevolg de bevoegdheid panels te vormen, rapporten van een panel en de Beroepsinstantie aan te nemen, toezicht te houden op de tenuitvoerlegging van uitspraken en aanbevelingen en machtiging te verlenen voor het schorsen van concessies en andere verplichtingen ingevolge de vermelde overeenkomsten. Ten aanzien van geschillen die voortvloeien uit een vermelde overeenkomst die een Plurilaterale Handelsovereenkomst is, heeft de hierin gebruikte term „Lid” slechts betrekking op Leden die partij zijn bij de desbetreffende Plurilaterale Handelsovereenkomst. Wanneer het DSB de bepalingen inzake geschillenbeslechting van een Plurilaterale Handelsovereenkomst toepast, kunnen slechts Leden die partij zijn bij die overeenkomst deelnemen aan door het DSB genomen beslissingen of maatregelen met betrekking tot dat geschil.
 
@@ -5977,7 +6002,7 @@ De Leden komen hierbij het volgende overeen:
 
 4. Wanneer de regels en procedures van dit Memorandum van Overeenstemming voorschrijven dat het DSB een beslissing neemt, doet het zulks bij consensus1)Het DSB wordt geacht bij consensus een beslissing te hebben genomen aangaande een kwestie die aan het orgaan is voorgelegd indien geen enkel Lid dat op desbetreffende bijeenkomst aanwezig is, formeel bezwaar maakt tegen de voorgestelde beslissing..
 
-#### Artikel 3. Algemene bepalingen
+##### Artikel 3. Algemene bepalingen
 
 1. De Leden bevestigen dat zij vasthouden aan de beginselen voor de behandeling van geschillen die tot dusver werden toegepast ingevolge de artikelen XXII en XXIII van de GATT-Overeenkomst van 1947, zoals hierin nader uitgewerkt en gewijzigd.
 
@@ -6003,7 +6028,7 @@ De Leden komen hierbij het volgende overeen:
 
 12. Indien door een Lid dat ontwikkelingsland is een klacht op grond van een vermelde overeenkomst wordt ingediend tegen een Lid dat ontwikkeld land is, heeft de klager, niettegenstaande het elfde lid, het recht om zich, in plaats van op de bepalingen van de artikelen 4, 5, 6 en 12 van dit Memorandum van Overeenstemming, te beroepen op de desbetreffende bepalingen van het Besluit van de Overeenkomstsluitende Partijen van 5 april 1966 (BISD 14S/18), met dien verstande dat indien het panel van oordeel is dat de in paragraaf 7 van dit besluit bedoelde termijn te kort is om zijn rapport te verstrekken, die termijn met instemming van de klager kan worden verlengd. Voor zover er een verschil bestaat tussen de regels en procedures van de artikelen 4, 5, 6 en 12 en de desbetreffende regels en procedures van het Besluit, hebben de laatstbedoelde voorrang.
 
-#### Artikel 4. Consultaties
+##### Artikel 4. Consultaties
 
 1. De Leden bevestigen hun vastbeslotenheid om de doeltreffendheid van de door de Leden gehanteerde overlegprocedures te versterken en te verbeteren.
 
@@ -6029,7 +6054,7 @@ De Leden komen hierbij het volgende overeen:
 
 kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan van het verzoek om consultaties ingevolge bedoeld artikel, in kennis stellen van zijn wens zich in de consultaties te mengen. Dat Lid wordt bij de consultaties betrokken, mits het Lid waaraan het verzoek om consultaties werd gericht, ermee instemt dat het beroep op wezenlijke belangen gegrond is. In dat geval stellen zij het DSB daarvan in kennis. Indien het verzoek zich in de consultaties te mogen mengen niet wordt aanvaard, staat het het verzoekende Lid vrij te vragen om consultaties ingevolge artikel XXII, eerste lid, of XXIII, eerste lid, van de GATT-Overeenkomst van 1994, artikel XXII, eerste lid, of XXIII, eerste lid, van de GATS-Overeenkomst of de overeenkomstige bepalingen van andere vermelde overeenkomsten.
 
-#### Artikel 5. Goede diensten, conciliatie en bemiddeling
+##### Artikel 5. Goede diensten, conciliatie en bemiddeling
 
 1. Goede diensten, conciliatie en bemiddeling zijn procedures waartoe vrijwillig wordt overgegaan indien de partijen bij het geschil zulks overeenkomen.
 
@@ -6043,13 +6068,13 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 6. De Directeur-Generaal kan, handelend uit hoofde van zijn functie, goede diensten, conciliatie of bemiddeling aanbieden teneinde de Leden te helpen een geschil te beslechten.
 
-#### Artikel 6. Vorming van panels
+##### Artikel 6. Vorming van panels
 
 1. Indien de klager hierom verzoekt, wordt uiterlijk op de eerstvolgende bijeenkomst van het DSB na de bijeenkomst waarop het verzoek voor het eerst als punt op de agenda van het DSB is geplaatst, een panel gevormd, tenzij het DSB bij consensus besluit geen panel te vormen1)Indien de klager daarom verzoekt, wordt hiertoe binnen vijftien dagen na het verzoek een bijeenkomst van het DSB belegd, mits de bijeenkomst ten minste tien dagen van tevoren wordt aangekondigd..
 
 2. Het verzoek om de vorming van een panel wordt schriftelijk gedaan. Dit geeft aan of overleg werd gepleegd, noemt de specifieke maatregelen in kwestie en geeft een korte uiteenzetting van de rechtsgrond van de klacht, waarin het probleem voldoende duidelijk wordt geschetst. Ingeval de verzoeker verlangt dat een panel wordt gevormd dat een andere taakomschrijving heeft dan de standaard-taakomschrijving, wordt de voorgestelde tekst van de bijzondere taakomschrijving in het schriftelijke verzoek opgenomen.
 
-#### Artikel 7. Taakomschrijving van de panels
+##### Artikel 7. Taakomschrijving van de panels
 
 1. Panels hebben de volgende taakomschrijving, tenzij de partijen bij het geschil binnen twintig dagen na de vorming van het panel anders overeenkomen:
 
@@ -6059,7 +6084,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 3. Bij de vorming van een panel kan het DSB de Voorzitter machtigen de taakomschrijving van het panel op te stellen in overleg met de partijen bij het geschil, zulks met inachtneming van de bepalingen van het eerste lid. De aldus opgestelde taakomschrijving wordt aan alle Leden toegezonden. Indien een andere dan de standaard-taakomschrijving wordt overeengekomen, kan elk Lid elk daarop betrekking hebbend punt voorleggen aan het DSB.
 
-#### Artikel 8. Samenstelling van de panels
+##### Artikel 8. Samenstelling van de panels
 
 1. De panels worden samengesteld uit zeer bekwame regeringsfunctionarissen en/of anderen, onder wie personen die zitting hebben gehad in een panel of een zaak aan een panel hebben voorgelegd, die zijn opgetreden als vertegenwoordiger van een Lid van de WTO of van een partij bij de GATT-Overeenkomst van 1947 dan wel als vertegenwoordiger in een raad of commissie van een vermelde overeenkomst of een overeenkomst die daaraan voorafging, of bij het Secretariaat, die het internationale handelsrecht of -beleid hebben gedoceerd of daarover hebben gepubliceerd, of die zich als hoger ambtenaar van een Lid met het handelsbeleid hebben beziggehouden.
 
@@ -6083,7 +6108,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 11. Onkosten van panelleden, met inbegrip van reis- en verblijfkosten, worden vergoed uit de begroting van de WTO in overeenstemming met de door de Algemene Raad aan te nemen criteria, op basis van aanbevelingen van de Commissie voor Begroting, Financiën en Administratie.
 
-#### Artikel 9. Procedures ingeval er meer dan één klager is
+##### Artikel 9. Procedures ingeval er meer dan één klager is
 
 1. Wanneer meer dan één Lid verzoekt om de vorming van een panel met betrekking tot dezelfde kwestie, kan één panel worden gevormd om deze klachten te bestuderen, rekening houdend met de rechten van alle betrokken Leden. Wanneer zulks enigszins mogelijk is, dient één panel te worden gevormd om deze klachten te bestuderen.
 
@@ -6091,7 +6116,7 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 3. Indien meer dan één panel wordt gevormd om de klachten met betrekking tot dezelfde zaak te onderzoeken, treden zoveel mogelijk dezelfde personen als panellid op in elk van de afzonderlijke panels en wordt het tijdschema voor de panelprocedure in die geschillen geharmoniseerd.
 
-#### Artikel 10. Derden
+##### Artikel 10. Derden
 
 1. Met de belangen van de partijen bij een geschil en met die van andere Leden van een vermelde overeenkomst waarop het geschil betrekking heeft, wordt gedurende de panelprocedure ten volle rekening gehouden.
 
@@ -6101,11 +6126,11 @@ kan dat Lid de consulterende Leden en het DSB binnen tien dagen na het uitgaan v
 
 4. Indien een derde van mening is dat een maatregel die reeds het voorwerp van een panelprocedure is, de voordelen die hem ingevolge een vermelde overeenkomst toekomen, tenietdoet of uitholt, kan dat Lid zijn toevlucht nemen tot de normale procedures voor geschillenbeslechting ingevolge dit Memorandum van Overeenstemming. Dat geschil wordt, voor zover zulks mogelijk is, aan het oorspronkelijke panel voorgelegd.
 
-#### Artikel 11. Taken van de panels
+##### Artikel 11. Taken van de panels
 
 De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verantwoordelijkheden ingevolge dit Memorandum van Overeenstemming en de vermelde overeenkomsten. Het panel dient derhalve de voorgelegde kwestie aan een objectieve beoordeling te onderwerpen, met inbegrip van een objectieve beoordeling van de feiten van de zaak en de toepasbaarheid van en de verenigbaarheid met de desbetreffende vermelde overeenkomsten, en tot de conclusies te komen die het DSB zullen helpen bij het doen van de aanbevelingen of de uitspraken als bedoeld in de vermelde overeenkomsten. De panels dienen regelmatig overleg te plegen met de partijen bij het geschil en hun voldoende gelegenheid te bieden om tot een wederzijds bevredigende oplossing te komen.
 
-#### Artikel 12. Werkwijze van het panel
+##### Artikel 12. Werkwijze van het panel
 
 1. De panels volgen de in Aanhangsel 3 opgenomen werkwijze, tenzij het panel na overleg met de partijen bij het geschil anders besluit.
 
@@ -6131,13 +6156,13 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 12. Het panel kan zijn werkzaamheden te allen tijde op verzoek van de klager opschorten voor een tijdvak van ten hoogste twaalf maanden. In geval van opschorting worden de in het achtste en negende lid van dit artikel, artikel 20, eerste lid, en artikel 21, vierde lid, genoemde termijnen verlengd met de hoeveelheid tijd gedurende welke de werkzaamheden werden opgeschort. Indien de werkzaamheden van het panel gedurende meer dan twaalf maanden zijn opgeschort, vervalt de bevoegdheid tot vorming van het panel.
 
-#### Artikel 13. Recht om inlichtingen in te winnen
+##### Artikel 13. Recht om inlichtingen in te winnen
 
 1. Elk panel heeft het recht inlichtingen en technisch advies in te winnen bij een persoon of instelling die het daartoe geschikt acht. Alvorens bedoelde inlichtingen of advies in te winnen bij een persoon of instelling binnen de rechtsmacht van een Lid, stelt het panel de autoriteiten van dat Lid hiervan in kennis. Een Lid geeft onmiddellijk en volledig gevolg aan een verzoek van een panel om de inlichtingen die het panel noodzakelijk en passend acht. Vertrouwelijke inlichtingen die zijn verstrekt, worden niet openbaar gemaakt zonder de formele toestemming van de persoon, instelling of autoriteiten van het Lid die de inlichtingen verstrekt c.q. verstrekken.
 
 2. Panels kunnen inlichtingen inwinnen uit elke daarvoor in aanmerking komende bron en kunnen deskundigen raadplegen teneinde hun mening over bepaalde aspecten van de kwestie te horen. Ten aanzien van een feitenkwestie betreffende een wetenschappelijk of technisch vraagstuk dat door een partij bij het geschil naar voren is gebracht, kan een panel een schriftelijk advies inwinnen bij een groep van deskundigen. Regels voor de instelling van zo'n groep en de werkwijze daarvan zijn uiteengezet in Aanhangsel 4.
 
-#### Artikel 14. Geheimhouding
+##### Artikel 14. Geheimhouding
 
 1. De beraadslagingen van panels zijn geheim.
 
@@ -6145,7 +6170,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 3. In het rapport van het panel tot uitdrukking gebrachte meningen van afzonderlijke panelleden zijn anoniem.
 
-#### Artikel 15. Tussentijdse beoordeling
+##### Artikel 15. Tussentijdse beoordeling
 
 1. Na de bestudering van de verweerschriften en de pleidooien legt het panel de beschrijvende delen (betreffende feiten en argumenten) van zijn concept-rapport voor aan de partijen. Binnen een door het panel vastgestelde termijn dienen de partijen schriftelijk commentaar in.
 
@@ -6153,7 +6178,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 3. De bevindingen van het eindrapport omvatten een bespreking van de naar aanleiding van de tussentijdse beoordeling aangevoerde argumenten. De tussentijdse beoordeling vindt plaats binnen de in artikel 12, achtste lid, genoemde termijn.
 
-#### Artikel 16. Aanneming van rapporten van panels
+##### Artikel 16. Aanneming van rapporten van panels
 
 1. Teneinde de Leden van het DSB voldoende tijd te bieden om rapporten van panels te bestuderen, worden de rapporten niet eerder dan twintig dagen nadat zij aan de Leden zijn toegezonden, door het DSB behandeld met het oog op aanneming.
 
@@ -6163,7 +6188,7 @@ De panels hebben tot taak het DSB bij te staan in de uitoefening van zijn verant
 
 4. Binnen zestig dagen nadat een rapport van een panel aan de Leden is toegezonden, wordt het rapport aangenomen op een bijeenkomst van het DSB1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland op een tijdstip waarmee kan worden voldaan aan de vereisten van artikel 16, eerste en vierde lid, dient hiertoe een bijeenkomst van het DSB te worden belegd., tenzij één van de partijen bij het geschil het DSB formeel kennisgeeft van haar beslissing beroep in te stellen, of het DSB bij consensus besluit het rapport niet aan te nemen. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken. Indien een partij kennisgeving heeft gedaan van haar beslissing beroep in te stellen, wordt het rapport van het panel eerst na afloop van het beroep in behandeling genomen met het oog op aanneming door het DSB. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van een panel kenbaar te maken.
 
-#### Artikel 17. Beroep
+##### Artikel 17. Beroep
 
 1. Door het DSB wordt een vaste Beroepsinstantie ingesteld. De Beroepsinstantie neemt kennis van beroepen betreffende aan een panel voorgelegde zaken. De Beroepsinstantie bestaat uit zeven personen, van wie er drie bij elke zaak fungeren. De personen die in de Beroepsinstantie zitting hebben, rouleren. Dit rouleersysteem wordt vastgesteld in het reglement van orde van de Beroepsinstantie.
 
@@ -6195,23 +6220,23 @@ Aanneming van rapporten van de Beroepsinstantie
 
 14. Een rapport van de Beroepsinstantie wordt door het DSB aangenomen en door de partijen bij het geschil onvoorwaardelijk aanvaard, tenzij het DSB binnen dertig dagen nadat het rapport aan de Leden1)Indien binnen deze termijn geen bijeenkomst van het DSB is gepland, dient hiertoe een bijeenkomst van het DSB te worden belegd. is toegezonden, bij consensus besluit het rapport van de Beroepsinstantie niet aan te nemen. Deze aannemingsprocedure doet geen afbreuk aan het recht van de Leden om hun standpunten ten aanzien van een rapport van de Beroepsinstantie kenbaar te maken.
 
-#### Artikel 18. Contacten met het panel of de Beroepsinstantie
+##### Artikel 18. Contacten met het panel of de Beroepsinstantie
 
 1. Contacten van een partij met het panel of de Beroepsinstantie betreffende kwesties die bij het panel of de Beroepsinstantie in behandeling zijn, zijn niet toegestaan.
 
 2. Bij het panel of de Beroepsinstantie ingediende schriftelijke stukken worden vertrouwelijk behandeld, maar worden aan de partijen bij het geschil ter beschikking gesteld. Geen enkele bepaling van dit Memorandum van Overeenstemming belet een partij bij het geschil zijn eigen standpunt openbaar te maken. Informatie die door een ander Lid aan het panel of de Beroepsinstantie is verstrekt en die door dat Lid als vertrouwelijk is aangemerkt, wordt door de Leden vertrouwelijk behandeld. Een partij bij het geschil geeft tevens, op verzoek van een Lid, een niet-vertrouwelijke samenvatting van de in haar schriftelijke stukken vervatte informatie die openbaar gemaakt zou kunnen worden.
 
-#### Artikel 19. Aanbevelingen van een panel of de Beroepsinstantie
+##### Artikel 19. Aanbevelingen van een panel of de Beroepsinstantie
 
 1. Wanneer een panel of de Beroepsinstantie van oordeel is dat een maatregel onverenigbaar is met een vermelde overeenkomst, beveelt het panel of de Beroepsinstantie het betrokken Lid1)Het „betrokken Lid” is de partij bij het geschil waaraan de aanbevelingen van het panel of de Beroepsinstantie zijn gericht. aan deze maatregel met die overeenkomst 2)Wat betreft aanbevelingen in gevallen waarin geen sprake is van schending van de GATT-Overeenkomst van 1994 of van andere vermelde overeenkomsten, zie artikel 26. in overeenstemming te brengen. Naast zijn c.q. haar aanbevelingen kan het panel of de Beroepsinstantie voorstellen op welke wijze het betrokken Lid uitvoering zou kunnen geven aan de aanbevelingen.
 
 2. Overeenkomstig artikel 3, tweede lid, kunnen het panel en de Beroepsinstantie in hun bevindingen en aanbevelingen de in de vermelde overeenkomsten bepaalde rechten en verplichtingen niet aanvullen of beperken.
 
-#### Artikel 20. Termijn voor beslissingen van het DSB
+##### Artikel 20. Termijn voor beslissingen van het DSB
 
 Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn vanaf de vorming van het panel door het DSB tot de datum waarop het DSB het rapport van het panel of de Beroepsinstantie behandelt met het oog op aanneming, in beginsel ten hoogste negen maanden indien geen beroep tegen het rapport wordt ingesteld en ten hoogste twaalf maanden indien beroep wordt ingesteld. Indien hetzij het panel, hetzij de Beroepsinstantie ingevolge artikel 12, negende lid, of artikel 17, vijfde lid, heeft besloten de termijn voor het verstrekken van zijn c.q. haar rapport te verlengen, wordt de genomen extra tijd bij de hierboven genoemde termijnen geteld.
 
-#### Artikel 21. Toezicht op de tenuitvoerlegging van aanbevelingen en uitspraken
+##### Artikel 21. Toezicht op de tenuitvoerlegging van aanbevelingen en uitspraken
 
 1. Onmiddellijke naleving van de aanbevelingen of uitspraken van het DSB is van wezenlijk belang om te zorgen voor een effectieve beslechting van geschillen ten voordele van alle Leden.
 
@@ -6235,7 +6260,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 8. Indien het een zaak betreft die aanhangig is gemaakt door een Lid dat ontwikkelingsland is, houdt het DSB, wanneer het nagaat welke passende stappen zouden kunnen worden ondernomen, niet alleen rekening met het handelsverkeer dat wordt getroffen door de maatregelen waartegen een klacht is ingediend, maar ook met de gevolgen daarvan voor de economie van de betrokken Leden die ontwikkelingsland zijn.
 
-#### Artikel 22. Compensatie en schorsing van concessies
+##### Artikel 22. Compensatie en schorsing van concessies
 
 1. Compensatie en schorsing van concessies of andere verplichtingen zijn tijdelijke maatregelen die kunnen worden gehanteerd ingeval de aanbevelingen of uitspraken niet binnen een redelijke termijn ten uitvoer worden gelegd. Aan compensatie of aan schorsing van concessies of andere verplichtingen wordt evenwel niet de voorkeur gegeven boven volledige tenuitvoerlegging van een aanbeveling om een maatregel in overeenstemming te brengen met de vermelde overeenkomsten. Compensatie geschiedt vrijwillig en dient, indien toegestaan, in overeenstemming te zijn met de vermelde overeenkomsten.
 
@@ -6285,7 +6310,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 9. De bepalingen voor geschillenbeslechting van de vermelde overeenkomsten kunnen worden ingeroepen ten aanzien van maatregelen die de inachtneming daarvan raken, genomen door regionale of plaatselijke overheden of autoriteiten op het grondgebied van een Lid. Wanneer het DSB heeft bepaald dat een bepaling van een vermelde overeenkomst niet in acht is genomen, neemt het verantwoordelijke Lid de redelijke maatregelen die mogelijk zijn om de inachtneming daarvan te waarborgen. De bepalingen van de vermelde overeenkomsten en dit Memorandum van Overeenstemming betreffende compensatie en schorsing van concessies of andere verplichtingen zijn van toepassing in gevallen waarin het niet mogelijk is gebleken bedoelde inachtneming te bewerkstelligen.1)Wanneer de bepalingen van een vermelde overeenkomst betreffende maatregelen genomen door regionale of plaatstelijke overheden of autoriteiten op het grondgebied van een Lid bepalingen bevatten die afwijken van de bepalingen van dit lid, hebben de bepalingen van die vermelde overeenkomst voorrang..
 
-#### Artikel 23. Versterking van het multilaterale stelsel
+##### Artikel 23. Versterking van het multilaterale stelsel
 
 1. Wanneer Leden goedmaking verlangen wegens een schending van verplichtingen of een andere wijze van tenietdoen of uitholling van voordelen ingevolge de vermelde overeenkomsten of wegens een belemmering voor de verwezenlijking van een doelstelling van de vermelde overeenkomsten, doen zij een beroep op de regels en procedures van dit Memorandum van Overeenstemming en nemen zij deze in acht.
 
@@ -6297,13 +6322,13 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 - c. de in artikel 22 uiteengezette procedures volgen om de mate van de schorsing van concessies of andere verplichtingen te bepalen en de machtiging van het DSB te verkrijgen in overeenstemming met die procedures, alvorens de concessies of andere verplichtingen ingevolge de vermelde overeenkomsten te schorsen in reactie op het verzuim van het betrokken Lid om de aanbevelingen en uitspraken uit te voeren binnen die redelijke termijn.
 
-#### Artikel 24. Bijzondere procedures betreffende Leden die minstontwikkeld land zijn
+##### Artikel 24. Bijzondere procedures betreffende Leden die minstontwikkeld land zijn
 
 1. In alle stadia van de vaststelling van de oorzaken van een geschil en van procedures voor geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, wordt bijzondere aandacht geschonken aan de speciale situatie van Leden die minstontwikkeld land zijn. In dit opzicht handelen de Leden met de nodige terughoudendheid bij het aanhangig maken van kwesties overeenkomstig deze procedures waarbij een Lid betrokken is dat minstontwikkeld land is. Indien wordt vastgesteld dat het tenietdoen of de uitholling het gevolg is van een maatregel die is genomen door een Lid dat minstontwikkeld land is, handelen klagers met de nodige terughoudendheid wanneer zij compensatie verlangen of verzoeken om een machtiging tot schorsing van de toepassing van concessies of andere verplichtingen ingevolge deze procedures.
 
 2. In gevallen van geschillenbeslechting waarbij een Lid betrokken is dat minstontwikkeld land is, waarvoor in de loop van het overleg geen bevredigende oplossing wordt gevonden, biedt de Directeur-generaal of de Voorzitter van het DSB op verzoek van een Lid dat minstontwikkeld land is, hun goede diensten, conciliatie of bemiddeling aan teneinde de partijen te helpen hun geschil te beslechten, alvorens een verzoek om de vorming van de panel wordt gedaan. De Directeur-Generaal of de Voorzitter kan bij het verlenen van bovenbedoelde hulp elke door hen geschikt geachte bron raadplegen.
 
-#### Artikel 25. Arbitrage
+##### Artikel 25. Arbitrage
 
 1. Snelle arbitrage binnen de WTO als alternatieve wijze van geschillenbeslechting kan de oplossing vergemakkelijken van bepaalde geschillen die betrekking hebben op door beide partijen duidelijk omschreven kwesties.
 
@@ -6313,7 +6338,7 @@ Tenzij de partijen bij het geschil anders zijn overeengekomen, is de termijn van
 
 4. De artikelen 21 en 22 van dit Memorandum van Overeenstemming zijn van overeenkomstige toepassing op arbitrale uitspraken.
 
-#### Artikel 26. Gevallen waarin geen sprake is van schending
+##### Artikel 26. Gevallen waarin geen sprake is van schending
 
 Klachten van het soort als omschreven in artikel XXIII:1b. van de GATT-Overeenkomst van 1994
 
@@ -6335,7 +6360,7 @@ Klachten van het soort als omschreven in artikel XXIII:1c. van de GATT-Overeenko
 
 - b. indien een panel in een zaak betreffende kwesties die onder dit lid vallen van oordeel is dat de zaak mede voor geschillenbeslechting in aanmerking komende kwesties bevat anders dan die welke onder dit lid vallen, brengt het panel een rapport uit aan het DSB waarin het ingaat op die kwesties alsmede een afzonderlijk rapport inzake kwesties die onder dit lid vallen.
 
-#### Artikel 27. Taken van het Secretariaat
+##### Artikel 27. Taken van het Secretariaat
 
 1. Het Secretariaat heeft tot taak de panels bij te staan, met name betreffende de juridische, historische en procedurele aspecten van de behandelde kwesties, en secretariële en technische ondersteuning te bieden.
 
@@ -6345,23 +6370,23 @@ Klachten van het soort als omschreven in artikel XXIII:1c. van de GATT-Overeenko
 
 De Leden komen het volgende overeen:
 
-#### 1
+##### 1
 
 De ministers erkennen dat de mondialisering van de wereldeconomie heeft geleid tot een steeds verdergaande wisselwerking tussen het economisch beleid van de afzonderlijke landen, met inbegrip van een wisselwerking tussen de structurele, macro-economische, handels-, financiële en ontwikkelingsaspecten van het economisch beleid. De taak om dit beleid te harmoniseren berust primair bij de regeringen op nationaal niveau, maar de samenhang op internationale schaal is een belangrijke en waardevolle factor ter vergroting van de doeltreffendheid van het beleid op nationaal niveau. De in het kader van de Uruguay-Ronde tot stand gekomen overeenkomsten tonen aan dat alle deelnemende regeringen erkennen dat een liberaal handelsbeleid kan bijdragen tot een gezonde groei en ontwikkeling van hun eigen economie en de gehele wereldeconomie.
 
-#### 2
+##### 2
 
 Geslaagde samenwerking op een bepaald gebied van het economisch beleid draagt bij tot vooruitgang op andere gebieden. Grotere stabiliteit van de wisselkoersen, op basis van meer ordelijke economische en financiële voorwaarden, zou moeten bijdragen tot uitbreiding van de handel, duurzame groei en ontwikkeling en herstel van externe onevenwichtigheden. Er is ook behoefte aan een passende en tijdige stroom concessionele en niet-concessionele financiële middelen alsmede gelden voor investeringen naar de ontwikkelingslanden en aan meer inspanningen om de schuldenproblematiek aan te pakken, om te zorgen voor economische groei en ontwikkeling. Vrijmaking van het handelsverkeer vormt een steeds belangrijkere factor voor het welslagen van de aanpassingsprogramma's die veel landen uitvoeren, waarmee veelal aanzienlijke kosten zijn gemoeid die in de overgangsfase vaak zwaar op de samenleving drukken. In dit verband wijzen de ministers op de rol van de Wereldbank en het IMF bij het bieden van steun aan aanpassing aan de vrijmaking van het handelsverkeer, met inbegrip van steun aan netto voedsel importerende ontwikkelingslanden die op de korte termijn worden geconfronteerd met kosten ten gevolge van hervormingen van de handel in landbouwprodukten.
 
-#### 3
+##### 3
 
 Het positieve resultaat van de Uruguay-Ronde is een belangrijke bijdrage aan een meer samenhangend en aanvullend internationaal economisch beleid. De resultaten van de Uruguay-Ronde bieden ruimere toegang tot de markt in het voordeel van alle landen, alsmede een kader van versterkte multilaterale gedragsregels voor het handelsverkeer. Zij garanderen ook dat het handelsbeleid op een meer doorzichtige wijze wordt gevoerd, met een groter besef van de voordelen van een open handelsstelsel voor het binnenlandse concurrentievermogen. Het versterkte multilaterale handelsstelsel dat uit de Uruguay-Ronde voorkomt, leent zich ertoe een verbeterd forum voor liberalisering te bieden, bij te dragen tot doeltreffender toezicht en te zorgen voor een strikte naleving van de multilateraal overeengekomen regels en methoden. Deze verbeteringen betekenen dat het handelsbeleid in de toekomst een gewichtiger rol kan spelen in de totstandbrenging van samenhang in het mondiale economische beleid.
 
-#### 4
+##### 4
 
 De ministers erkennen echter dat moeilijkheden waarvan de oorzaak buiten het handelsterrein is gelegen, niet enkel met maatregelen op handelsgebied kunnen worden verholpen. Hiermee wordt het belang onderstreept van pogingen om andere elementen van het mondiale economische beleid te verbeteren ter aanvulling van de effectieve toepassing van de in het kader van de Uruguay-Ronde bereikte resultaten.
 
-#### 5
+##### 5
 
 De onderlinge verbanden tussen de verschillende aspecten van het economisch beleid vergen dat de internationale instellingen die verantwoordelijkheden op deze terreinen hebben, een samenhangend en wederzijds ondersteunend beleid voeren. De Wereldhandelsorganisatie dient derhalve te streven naar samenwerking met internationale organisaties die zijn belast met monetaire en financiële aangelegenheden, en deze tot ontwikkeling te brengen, waarbij het mandaat, de vereisten inzake vertrouwelijkheid en de noodzakelijke autonomie in besluitvormingsprocedures van elke instelling worden geëerbiedigd en het opleggen van eencross-conditionality -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.**cross-conditionality** -beding of extra voorwaarden aan regeringen wordt vermeden. De ministers verzoeken de Directeur-Generaal van de WTO te zamen met de Directeur van het Internationale Monetaire Fonds en de President van de Wereldbank te bezien wat de gevolgen zijn van de taken van de WTO voor de samenwerking met de Bretton Woods-instellingen en in welke vorm deze samenwerking zou kunnen geschieden, teneinde te komen tot een grotere samenhang in het mondiale economische beleid.
 
@@ -6375,13 +6400,13 @@ Herinnerend aan de uit de WTO-Overeenkomst voortvloeiende verplichtingen tot bek
 
 Komen het volgende overeen:
 
-#### I. Algemene verplichting tot kennisgeving
+##### I. Algemene verplichting tot kennisgeving
 
 De Leden bevestigen hun verbintenis tot nakoming van de verplichtingen inzake bekenmaking en kennisgeving die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten.
 
 De Leden herinneren aan hun verplichtingen die zijn vervat in het op 28 november 1979 aangenomen Memorandum van Overeenstemming betreffende kennisgeving, overleg, geschillenbeslechting en toezicht (BISD 26S/210). Met betrekking tot de verplichting die zij daarbij zijn aangegaan om zoveel mogelijk kennis te geven van de vaststelling van handelsmaatregelen die van invloed zijn op de werking van GATT 1994, met dien verstande dat deze kennisgeving op zichzelf geen beletsel vormt voor standpunten over de verenigbaarheid of het verband van deze maatregelen met de rechten en verplichtingen die voortvloeien uit de Multilaterale handelsovereenkomsten en, in voorkomend geval, de Plurilaterale handelsovereenkomsten, komen de Leden overeen, naargelang van het geval, uit te gaan van de in de bijlage opgenomen lijst van maatregelen. De Leden komen derhalve overeen dat bij invoering of wijziging van deze maatregelen moet worden voldaan aan de kennisgevingsvoorschriften van het Memorandum van Overeenstemming van 1979.
 
-#### II. Centraal register van kennisgevingen
+##### II. Centraal register van kennisgevingen
 
 Er wordt een centraal register van kennisgevingen ingesteld onder de verantwoordelijkheid van het Secretariaat. Terwijl de Leden de bestaande kennisgevingsprocedures verder in acht nemen, ziet het Secretariaat erop toe dat in het centraal register gegevens uit de informatie die het betrokken Lid ten aanzien van de maatregel heeft verstrekt, worden genoteerd, ondermeer het doel van de maatregel, het betrokken handelsverkeer en het voorschrift op grond waarvan de kennisgeving wordt verricht. In het centraal register worden kennisgevingen per Lid en per verplichting geregistreerd, met onderlinge verwijzingen.
 
@@ -6391,7 +6416,7 @@ De dienst van het centraal register vestigt de aandacht van afzonderlijke Leden 
 
 In het centraal register opgenomen informatie met betrekking tot afzonderlijke kennisgevingen wordt op een daartoe strekkend verzoek verstrekt aan elk Lid dat recht heeft op het ontvangen van de betrokken kennisgeving.
 
-#### III. Onderzoek van kennisgevingsverplichtingen en -procedures
+##### III. Onderzoek van kennisgevingsverplichtingen en -procedures
 
 De Raad voor de handel in goederen onderzoekt de kennisgevingsverplichtingen en -procedures uit hoofde van de Overeenkomsten die zijn opgenomen in bijlage 1 A bij de WTO-Overeenkomst. Dit onderzoek wordt uitgevoerd door een werkgroep waarvan alle Leden deel kunnen uitmaken. De groep wordt onmiddellijk na de datum van inwerkingtreding van de WTO-Overeenkomst opgericht.
 

@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Adviescommissie Nationale Parken"
+title: "Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 januari 2021 nr. WJZ/ 21008735, tot instelling van de Adviescommissie Nationale Parken (Instellingsbesluit Adviescommissie Nationale Parken)"
 identifier: "BWBR0044747"
-categorie: "Overig"
-publicatiedatum: 2025-09-18
-laatste_update: 2025-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044747"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-09-18"
+last_updated: "2025-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044747"
+soort: "ministeriele-regeling"
+stam_id: "15823903"
+version_id: "27470722"
+internal_id: "C38773611"
+label_id: "15760924"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044747/2025-09-18/0"
+intitule_bron: "Stcrt.2021-4194"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-01-21"
+intitule_published: "2021-01-27"
+intitule_in_force: "2021-01-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-4194"
+original_signed_date: "2021-01-21"
+original_published_date: "2021-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-4194"
+entry_into_force_date: "2021-01-28"
+jci_1_3: "jci1.3:c:BWBR0044747&z=2025-09-18&g=2025-09-18"
+jci_1_0: "1.0:c:BWBR0044747&g=2025-09-18"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Adviescommissie Nationale Parken"
+signed_date: "2021-01-21"
+entry_into_force: "2021-01-28"
 ---
-
 # Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 januari 2021 nr. WJZ/ 21008735, tot instelling van de Adviescommissie Nationale Parken (Instellingsbesluit Adviescommissie Nationale Parken)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In dit besluit wordt verstaan onder:
 
 - b. **adviescommissie:** de Adviescommissie Nationale Parken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Adviescommissie Nationale Parken.
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 3. De adviesommissie adviseert over de aanvragen op grond van [artikel 2.44, derde lid, van de Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885&artikel=2.44) in samenhang met [artikel 3.68 van het Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313&artikel=3.68) en de [Beleidsregel aanwijzing Nationale Parken 2024–2030](https://wetten.overheid.nl/jci1.3:c:BWBR0049721).
 
-#### Artikel 3
+##### Artikel 3
 
 1. De adviescommissie bestaat uit een voorzitter en ten minste één en ten hoogste zeven andere leden.
 
@@ -40,7 +66,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien in voorkomend geval uit feiten of omstandigheden blijkt dat de voorzitter of een van de andere leden van de adviescommissie zelf direct of indirect betrokkenheid heeft bij een adviesaanvraag dan zullen zij zich weerhouden van enige bemoeienis ten aanzien van de adviesaanvraag.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De adviescommissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -50,11 +76,11 @@ In dit besluit wordt verstaan onder:
 
 4. De adviescommissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
 Aan de voorzitter en de leden wordt een vergoeding toegekend, waarbij de salarisschaal maximaal wordt vastgesteld op schaal 16 van paragraaf 6.3 van de CAO Rijk en de arbeidsduurfactor achteraf wordt vastgesteld en gepubliceerd in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 Ter gelegenheid van de instelling van de adviescommissie worden voor een periode van 1 december 2020 tot en met 30 november 2024 tot lid van de adviescommissie benoemd:
 
@@ -72,11 +98,11 @@ Ter gelegenheid van de instelling van de adviescommissie worden voor een periode
 
 - g. de heer dr.(h.c.) I. (Ignace) Schops, te Heusden-Zolder, België.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 december 2020.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Adviescommissie Nationale Parken.
 

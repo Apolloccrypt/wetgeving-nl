@@ -1,13 +1,38 @@
 ---
-title: "Regeling arbeid gedetineerden"
+title: "Regeling arbeidsloon gedetineerde"
 identifier: "BWBR0010172"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-11-22
-laatste_update: 2025-11-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010172"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-22"
+last_updated: "2025-11-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010172"
+soort: "ministeriele-regeling"
+stam_id: "4466943"
+version_id: "6273472"
+internal_id: "C6477681"
+label_id: "4445554"
+dtd_version: "2.0"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010172/2025-11-22/0"
+intitule_bron: "Stcrt.1998-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-12-24"
+intitule_published: "1998-12-28"
+intitule_in_force: "1998-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-248"
+original_signed_date: "1998-12-24"
+original_published_date: "1998-12-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBR0010172&z=2025-11-22&g=2025-11-22"
+jci_1_0: "1.0:c:BWBR0010172&g=2025-11-22"
+citeertitel_status: "officieel"
+short_title: "Regeling arbeid gedetineerden"
+signed_date: "1998-12-24"
+entry_into_force: "1999-01-01"
 ---
-
 # Regeling arbeidsloon gedetineerde
 
 Gelet op [artikel 47, vijfde lid, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=47);
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Beloning van arbeid in de inrichting
 
-#### Artikel 2
+##### Artikel 2
 
 1. Arbeid omvat zaalarbeid, taakarbeid of stukarbeid. De directeur bepaalt voor welke vorm van arbeid een gedetineerde in aanmerking komt.
 
@@ -60,7 +85,7 @@ In deze regeling wordt verstaan onder:
 
 6. Uitbetaling vindt wekelijks achteraf plaats.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De gedetineerde wordt in de gelegenheid gesteld zaalarbeid te verrichten, tenzij de directeur hem heeft aangewezen voor het verrichten van taakarbeid of stukarbeid. In het detentie- en re-integratieplan wordt vastgelegd welke arbeid de gedetineerde verricht, als ook het aantal uren per week.
 
@@ -70,7 +95,7 @@ In deze regeling wordt verstaan onder:
 
 4. In afwijking van het derde lid geldt voor het Pieter Baan Centrum, als bedoeld in [artikel 12 van de Regeling selectie, plaatsing en overplaatsing van gedetineerden](https://wetten.overheid.nl/jci1.3:c:BWBR0011558&artikel=12) een maximum van 10 uur arbeid per week.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De directeur kan aan de gedetineerde een toeslag toekennen indien:
 
@@ -84,13 +109,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2a. Beloning van buitenarbeid en werkzaamheden in de huisdienst van een zeer beperkt beveiligde inrichting
 
-#### Artikel 4a
+##### Artikel 4a
 
 De gedetineerde ontvangt voor elk uur verrichte extramurale arbeid een vergoeding van 300% van het basisuurloon. Indien een organisatie waarbij de gedetineerde werkzaamheden verricht een hoger bedrag aan de inrichting uitkeert, wordt de vergoeding aangevuld tot dat bedrag.
 
 #### § 3. Loonvervangende financiële tegemoetkomingen
 
-#### Artikel 5
+##### Artikel 5
 
 De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ieder uur waarin zijn detentie- en re-integratieplan in zaalarbeid, taakarbeid of stukarbeid voorziet en voorzover hij niet aan zaalarbeid, taakarbeid of stukarbeid heeft kunnen deelnemen als gevolg van:
 
@@ -102,7 +127,7 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 - d. onvermijdbaar verzuim; de hoogte van de tegemoetkoming bedraagt 80% van het basisuurloon. In geval van extramurale arbeid bedraagt de hoogte van tegemoetkoming bij onvermijdbaar verzuim 80% van het basisuurloon dat voor extramurale arbeid geldt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Als onvermijdbaar verzuim wordt aangemerkt, verzuim als gevolg van:
 
@@ -128,7 +153,7 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 #### § 4. Uitzonderingsbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze regeling is niet van toepassing op:
 
@@ -138,13 +163,13 @@ De gedetineerde ontvangt een loonvervangende financiële tegemoetkoming voor ied
 
 2. Gedetineerden die de in [artikel 7, onderdeel a, van de Algemene ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7) bedoelde leeftijd hebben bereikt, zijn niet tot het verrichten van arbeid verplicht. Zij ontvangen, indien zij niet aan de arbeid deelnemen, een loonvervangende financiële tegemoetkoming ter hoogte van 80% van het basisuurloon.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De gedetineerde hoeft geen arbeid te verrichten op zondagen en algemeen erkende feestdagen als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=3), of op dagen dat hij met toestemming van de geestelijk verzorger deelneemt aan een retraite, triduüm, kerkelijke conferentie of buitenkerkelijke bezinningsbijeenkomst.
 
 2. De Minister voor Rechtsbescherming stelt jaarlijks vast op welke dagen de gedetineerde die een religie belijdt op grond waarvan hij andere dagen dan de dagen bedoeld in het eerste lid aanmerkt als rustdag, godsdienstige feest- of gedenkdag, geen arbeid hoeft te verrichten.
 
-#### Artikel 9
+##### Artikel 9
 
 De gedetineerde ontvangt geen financiële vergoeding of tegemoetkoming op grond van deze Regeling:
 
@@ -154,23 +179,23 @@ De gedetineerde ontvangt geen financiële vergoeding of tegemoetkoming op grond 
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 De Loonregeling strafgevangenissen, huizen van bewaring en rijkswerkinrichtingen van 23 februari 1948, de Experimentele loonregeling voor penitentiaire inrichtingen voor langgestraften van 19 september 1997, de Regeling arbeidsvrije dagen van 21 februari 1980, alsmede de Interimregeling gedetineerdenbeloning Werkzame Detentie van 11 maart 1996, de Interimregeling gedetineerdenbeloning langgestraften PI Sittard van 11 maart 1996 en de Loonregeling gedetineerden PI Breda van 11 maart 1996, worden ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze regeling treedt in werking op 1 januari 1999.
 
 2. De directeur is bevoegd voor gedetineerden, die voorheen arbeidsloon ontvingen op grond van de ’experimentele loonregeling voor penitentiaire inrichtingen voor langgestraften’, tot 1 januari 2000 in de inrichting een overgangsregeling te hanteren.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling arbeid gedetineerden.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De zorgverplichting van de directeur voor de beschikbaarheid van arbeid geldt niet:
 

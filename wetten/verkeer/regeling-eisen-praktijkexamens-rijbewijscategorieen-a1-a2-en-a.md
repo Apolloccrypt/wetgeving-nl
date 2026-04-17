@@ -1,13 +1,39 @@
 ---
-title: "Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)"
 identifier: "BWBR0031426"
-categorie: "Verkeer"
-publicatiedatum: 2015-04-01
-laatste_update: 2015-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031426"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-04-01"
+last_updated: "2015-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031426"
+soort: "ministeriele-regeling"
+stam_id: "11703273"
+version_id: "19321282"
+internal_id: "C27015761"
+label_id: "11676054"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031426/2015-04-01/0"
+intitule_bron: "Stcrt.2012-6461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-03-27"
+intitule_published: "2012-04-04"
+intitule_in_force: "2012-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-6461"
+original_signed_date: "2012-03-27"
+original_published_date: "2012-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-6461"
+entry_into_force_date: "2013-01-19"
+jci_1_3: "jci1.3:c:BWBR0031426&z=2015-04-01&g=2015-04-01"
+jci_1_0: "1.0:c:BWBR0031426&g=2015-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A"
+signed_date: "2012-03-27"
+entry_into_force: "2013-01-19"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/20626, houdende vaststelling van de eisen voor de praktijkexamens voor de rijbewijscategorieën A1, A2 en A (Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A)
 
 Gelet op [richtlijn nr. 2006/126/EG](32006L0126) van het Europees Parlement en de Raad van 20 december 2006 betreffende het rijbewijs (PbEU L 403) en [artikel 111, vierde lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=111);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L va
 
 #### § 1. Eisen voor de praktijkexamens voor de rijbewijscategorie A1
 
-#### Artikel 1
+##### Artikel 1
 
 1. De aanvrager van het praktijkexamen Voertuigbeheersing voor de rijbewijscategorie A1 dient er blijk van te geven een selectie van de hierna genoemde vaardigheiden te beheersen:
 
@@ -54,7 +80,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L va
 
 - c. ten minste twee remoefeningen, waaronder een noodstop bij een snelheid van ten minste 50 km per uur, ter beoordeling van de bediening van de voor- en achterrem, kijkrichting en de houding op het motorrijwiel.
 
-#### Artikel 2
+##### Artikel 2
 
 De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 moet in staat zijn een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen:
 
@@ -78,7 +104,7 @@ De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategori
 
 - j. controle van de wielophanging en aandrijving.
 
-#### Artikel 3
+##### Artikel 3
 
 Tijdens het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 dient de aanvrager in staat te zijn om in verkeerssituaties op veilige wijze:
 
@@ -112,7 +138,7 @@ Tijdens het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 dien
 
 - o. te rijden in tunnels.
 
-#### Artikel 4
+##### Artikel 4
 
 De aanvrager dient tijdens het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 blijk te geven inzicht te hebben ten aanzien van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=3&z=2015-04-01&g=2015-04-01) genoemde handelingen en manoeuvres door middel van:
 
@@ -136,7 +162,7 @@ De aanvrager dient tijdens het praktijkexamen Verkeersdeelneming voor de rijbewi
 
 - j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.
 
-#### Artikel 5
+##### Artikel 5
 
 De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategorie A1 dient bij het uitvoeren van de in de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=3&z=2015-04-01&g=2015-04-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=4&z=2015-04-01&g=2015-04-01) genoemde examenonderdelen blijk te geven:
 
@@ -160,7 +186,7 @@ De aanvrager van het praktijkexamen Verkeersdeelneming voor de rijbewijscategori
 
 #### § 2. Eisen praktijkexamen rijbewijscategorie A2
 
-#### Artikel 6
+##### Artikel 6
 
 De aanvrager van het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53) voor de rijbewijscategorie A2 is in staat een selectie van de hierna genoemde handelingen uit te voeren bij aanvang van dat examen:
 
@@ -184,7 +210,7 @@ De aanvrager van het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [a
 
 - j. controle van de wielophanging en aandrijving.
 
-#### Artikel 7
+##### Artikel 7
 
 Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53) wordt getoetst of de aanvrager van het praktijkexamen voor de rijbewijscategorie A2 een selectie van de hierna genoemde vaardigheden beheerst:
 
@@ -212,7 +238,7 @@ Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53
 
 - l. het op juiste wijze stoppen bij een aangegeven snelheid (stopproef).
 
-#### Artikel 8
+##### Artikel 8
 
 Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53) voor de rijbewijscategorie A2 dient de aanvrager blijk te geven in staat te zijn om in verkeerssituaties op veilige wijze:
 
@@ -246,7 +272,7 @@ Tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53
 
 - o. te rijden in tunnels.
 
-#### Artikel 9
+##### Artikel 9
 
 De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53) voor de rijbewijscategorie A2 blijk te geven inzicht te hebben ten aanzien van de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=2&artikel=8&z=2015-04-01&g=2015-04-01) genoemde handelingen en manoeuvres door middel van:
 
@@ -270,7 +296,7 @@ De aanvrager dient tijdens het praktijkexamen voor de rijbewijscategorie A2, bed
 
 - j. te rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.
 
-#### Artikel 10
+##### Artikel 10
 
 De aanvrager van het het praktijkexamen voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53) dient bij het uitvoeren van de in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=2&artikel=8&z=2015-04-01&g=2015-04-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=2&artikel=9&z=2015-04-01&g=2015-04-01) genoemde examenonderdelen blijk te geven:
 
@@ -294,35 +320,35 @@ De aanvrager van het het praktijkexamen voor de rijbewijscategorie A2, bedoeld i
 
 #### § 3. Eisen voor de praktijkexamens voor de rijbewijscategorie A
 
-#### Artikel 11
+##### Artikel 11
 
 De [artikelen 6 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=2&artikel=6&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel a, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
-#### Artikel 12
+##### Artikel 12
 
 De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=1&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van het praktijkexamen voor de rijbewijscategorie A, bedoeld in [artikel 53, vierde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 
 #### § 4. Overige bepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Na afloop van het praktijkexamen Voertuigbeheersing en van het praktijkexamen Verkeersdeelneming respectievelijk van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangegeven aan welke exameneisen de aanvrager niet heeft voldaan.
 
-#### Artikel 14
+##### Artikel 14
 
 De [Regeling eisen praktijkexamens rijbewijscategorie A](https://wetten.overheid.nl/jci1.3:c:BWBR0015603) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](https://wetten.overheid.nl/jci1.3:c:BWBR0031264&artikel=I) (Stb. 2012, 39) in werking treedt.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorieën A1, A2 en A.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. De [artikelen 1 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0031426&paragraaf=1&artikel=1&z=2015-04-01&g=2015-04-01) zijn van overeenkomstige toepassing op de aanvragers van de praktijkexamens voor de rijbewijscategorie A2, bedoeld in [artikel 53, derde lid, onderdeel b, van het Reglement rijbewijzen](https://wetten.overheid.nl/jci1.3:c:BWBR0008074&artikel=53).
 

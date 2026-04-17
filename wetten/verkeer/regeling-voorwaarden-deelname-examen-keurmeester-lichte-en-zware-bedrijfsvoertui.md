@@ -1,13 +1,38 @@
 ---
 title: "Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen en landbouwvoertuigen"
 identifier: "BWBR0052063"
-categorie: "Verkeer"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052063"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052063"
+soort: "zbo"
+stam_id: "17701553"
+version_id: "31238412"
+internal_id: "C44676771"
+label_id: "17600514"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052063/2026-01-01/0"
+intitule_bron: "Stcrt.2025-43652"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-11"
+intitule_published: "2025-12-18"
+intitule_in_force: "2025-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43652"
+original_signed_date: "2025-12-11"
+original_published_date: "2025-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43652"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0052063&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052063&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-12-11"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen en landbouwvoertuigen
 
 Gelet op [artikel 109 van de Regeling erkenningen wegverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0051669&artikel=109);
@@ -16,19 +41,19 @@ Besluit:
 
 #### § 1. Algemene Bepalingen
 
-#### Artikel 1. Aanvraag
+##### Artikel 1. Aanvraag
 
 1. De aanvraag van de in [artikel 3, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), [artikel 5, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01) en [artikel 7, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01) genoemde verklaringen wordt ingediend bij de Dienst Wegverkeer.
 
 2. De [artikel 3, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), [artikel 5, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01), en [artikel 7, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01) genoemde verklaringen worden op aanvraag en tegen betaling, op de door de Dienst Wegverkeer vastgestelde wijze, van het door de Dienst Wegverkeer vastgestelde tarief verleend aan de aanvrager die aan de in deze regeling genoemde eisen voldoet.
 
-#### Artikel 2. Melden deelname examen
+##### Artikel 2. Melden deelname examen
 
 Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01), [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01) of [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01) genoemde documenten kunnen zich voor deelname aan het betreffende examen rechtstreeks wenden tot de Stichting VAM (IBKI).
 
 #### § 2. Voorwaarden deelname examen keurmeester lichte voertuigen
 
-#### Artikel 3. Examen keurmeester periodieke keuring lichte voertuigen
+##### Artikel 3. Examen keurmeester periodieke keuring lichte voertuigen
 
 1. Voorwaarde voor deelname aan het examen keurmeester periodieke keuring lichte voertuigen is het bezit van:
 
@@ -56,7 +81,7 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 2. Bij aanmelding voor het examen keurmeester periodieke keuring lichte voertuigen overlegt de deelnemer aan de Stichting VAM (IBKI) een Verklaring Omtrent het Gedrag (VOG), afgegeven door de Dienst Justis namens de Minister van Justitie en Veiligheid, waaruit blijkt dat er geen belemmering is voor het uitvoeren van de taken als APK keurmeester. Deze verklaring is niet ouder dan zes maanden.
 
-#### Artikel 4. Eisen verklaring examen keurmeester lichte voertuigen
+##### Artikel 4. Eisen verklaring examen keurmeester lichte voertuigen
 
 1. De in [artikel 3, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=2&artikel=3&z=2026-01-01&g=2026-01-01) genoemde verklaring wordt slechts afgegeven indien de aanvrager blijk heeft gegeven van voldoende theoretische kennis en praktische ervaring.
 
@@ -64,7 +89,7 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 #### § 3. Voorwaarden deelname examen keurmeester zware (bedrijfs)voertuigen
 
-#### Artikel 5. Examen keurmeester periodieke keuring zware (bedrijfs)voertuigen
+##### Artikel 5. Examen keurmeester periodieke keuring zware (bedrijfs)voertuigen
 
 1. Voorwaarden voor deelname aan het examen keurmeester periodieke keuring zware (bedrijfs-) voertuigen is het bezit van:
 
@@ -92,7 +117,7 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 2. Bij aanmelding voor het examen keurmeester periodieke keuring zware (bedrijfs-) voertuigen overlegt de deelnemer aan de Stichting VAM (IBKI) een Verklaring Omtrent het Gedrag (VOG), afgegeven door de Dienst Justis namens de Minister van Justitie en Veiligheid, waaruit blijkt dat er geen belemmering is voor het uitvoeren van de taken als APK keurmeester. Deze verklaring is niet ouder dan zes maanden.
 
-#### Artikel 6. Eisen verklaring examen keurmeester zware (bedrijfs)voertuigen
+##### Artikel 6. Eisen verklaring examen keurmeester zware (bedrijfs)voertuigen
 
 1. De in [artikel 5, eerste lid, onder k](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=3&artikel=5&z=2026-01-01&g=2026-01-01) genoemde verklaring wordt slechts afgegeven indien de aanvrager blijk heeft gegeven van voldoende theoretische kennis en praktische ervaring.
 
@@ -100,7 +125,7 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 #### § 4. Voorwaarden deelname examen keurmeester landbouwvoertuigen
 
-#### Artikel 7. Examen keurmeester periodieke keuring landbouwvoertuigen
+##### Artikel 7. Examen keurmeester periodieke keuring landbouwvoertuigen
 
 1. Voorwaarden voor deelname aan het examen periodieke keuring landbouwvoertuigen is het bezit van:
 
@@ -136,7 +161,7 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 2. Bij aanmelding voor het examen keurmeester periodieke keuring landbouw- en bosbouwtrekkers overlegt de deelnemer aan de Stichting VAM (IBKI) een Verklaring Omtrent het Gedrag (VOG), afgegeven door de Dienst Justis namens de Minister van Justitie en Veiligheid, waaruit blijkt dat er geen belemmering is voor het uitvoeren van de taken als APK keurmeester. Deze verklaring is niet ouder dan zes maanden.
 
-#### Artikel 8. Eisen verklaring examen keurmeester landbouwvoertuigen
+##### Artikel 8. Eisen verklaring examen keurmeester landbouwvoertuigen
 
 1. De in [artikel 7, eerste lid, onder o](https://wetten.overheid.nl/jci1.3:c:BWBR0052063&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01) genoemde verklaring wordt slechts afgegeven indien de aanvrager blijk heeft gegeven van voldoende theoretische kennis en praktische ervaring.
 
@@ -144,15 +169,15 @@ Degenen die in het bezit zijn van de in [artikel 3](https://wetten.overheid.nl/j
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9. Intrekking regelingen
+##### Artikel 9. Intrekking regelingen
 
 De [Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0044647), Stcrt. 2020, 62789, wordt ingetrokken.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2026.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling voorwaarden deelname examen keurmeester lichte en zware (bedrijfs)voertuigen en landbouwvoertuigen.
 

@@ -1,13 +1,35 @@
 ---
-title: "Scheepvaartreglement Eemsmonding"
+title: "Besluit van 19 mei 1989, tot vaststelling van een scheepvaartreglement voor de Eemsmonding"
 identifier: "BWBR0004552"
-categorie: "Verkeer"
-publicatiedatum: 2002-06-26
-laatste_update: 2002-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004552"
+country: "nl"
+rank: "amvb"
+publication_date: "2002-06-26"
+last_updated: "2002-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004552"
+soort: "AMvB"
+stam_id: "2052933"
+version_id: "3072942"
+internal_id: "C3072941"
+label_id: "2001454"
+dtd_version: "2.0"
+original_entry_into_force: "1989-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004552/2002-06-26/0"
+intitule_bron: "Stb.1989-237"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-05-19"
+intitule_status: "goed"
+original_publication: "Stb.1989-237"
+original_signed_date: "1989-05-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1989-10-01"
+jci_1_3: "jci1.3:c:BWBR0004552&z=2002-06-26&g=2002-06-26"
+jci_1_0: "1.0:c:BWBR0004552&g=2002-06-26"
+citeertitel_status: "officieel"
+short_title: "Scheepvaartreglement Eemsmonding"
+signed_date: "1989-05-19"
+entry_into_force: "1989-10-01"
 ---
-
 # Besluit van 19 mei 1989, tot vaststelling van een scheepvaartreglement voor de Eemsmonding
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 15 maart 1989, nr. S/J 30.442/89, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
@@ -28,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen; toepassingsgebied
+##### Artikel 1. Begripsbepalingen; toepassingsgebied
 
 1. Op dit besluit zijn de begripsbepalingen van de voorschriften 3, 21 en 32 van de Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972 (**Trb.** 1974, 51), zoals gewijzigd, van toepassing; overigens wordt in dit besluit verstaan onder:
 
@@ -66,7 +88,7 @@ Hebben goedgevonden en verstaan:
 
 4. Dit besluit geldt in de Eemsmonding, bedoeld in paragraaf 1 van Bijlage B bij het Eems-Dollardverdrag (**Trb.** 1960, 69) en geldt in afwijkiking van en als aanvulling op de Internationale Bepalingen.
 
-#### Artikel 2. Verkeerstekens
+##### Artikel 2. Verkeerstekens
 
 1. Verkeerstekens, als bedoeld in dit besluit, zijn optische en akoestische tekens die geboden, verboden, waarschuwingen of aanwijzingen inhouden. De in het toepassingsgebied van dit besluit gebruikte verkeerstekens die geboden en verboden inhouden, zijn samengevat in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&bijlage=1&z=2002-06-26&g=2002-06-26) van dit besluit.
 
@@ -74,7 +96,7 @@ Hebben goedgevonden en verstaan:
 
 3. Het beschadigen van de verkeerstekens of het afbreuk doen aan de herkenbaarheid daarvan is verboden.
 
-#### Artikel 3. Optische tekens en geluidsseinen
+##### Artikel 3. Optische tekens en geluidsseinen
 
 1. Voor zover in de volgende voorschriften geen bijzondere bepalingen ter zake zijn opgenomen, voeren, tonen of geven de schepen uitsluitend in overeenstemming met het bepaalde in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&bijlage=1&z=2002-06-26&g=2002-06-26) voor de daar voorziene doeleinden optische tekens en geluidsseinen. Het is verboden optische tekens te voeren of te tonen, alsmede geluidsseinen te geven, die met de voorgeschreven of toegestane optische tekens of geluidsseinen kunnen worden verward.
 
@@ -84,7 +106,7 @@ Hebben goedgevonden en verstaan:
 
 #### Optische tekens van schepen
 
-#### Artikel 4. Algemeen
+##### Artikel 4. Algemeen
 
 1. Met betrekking tot de krachtens dit besluit voorgeschreven optische tekens zijn de Voorschriften 20 en 38, onderdelen **c** en **h**, van de Internationale Bepalingen van toepassing.
 
@@ -96,7 +118,7 @@ Optische tekens die krachtens dit besluit en krachtens de Internationale Bepalin
 
 4. De krachtens dit besluit te voeren vlaggen en borden zijn, voor zover niet anders is bepaald, rechthoekig en ten minste 1 meter hoog en 1 meter breed. De kleuren zijn niet verbleekt of vervuild. In plaats van de in dit besluit voorgeschreven vlaggen mogen ook borden van gelijke grootte, vorm en kleur worden gevoerd. Op schepen met een lengte van minder dan 20 meter mogen vlaggen en borden van kleinere afmeting worden gebruikt die passen bij de afmetingen van het schip.
 
-#### Artikel 5. Optische tekens van schepen
+##### Artikel 5. Optische tekens van schepen
 
 1. In afwijking van het bepaalde in punt 2, onderdeel **a** (i), van Aanhangsel I van de Internationale Bepalingen behoeft het toplicht ook dan slechts op een minimale hoogte van 6 meter boven de romp te worden gevoerd, indien het schip breder dan 6 meter is.
 
@@ -106,7 +128,7 @@ Optische tekens die krachtens dit besluit en krachtens de Internationale Bepalin
 
 4. Binnenschepen behoeven in afwijking van het bepaalde in Aanhangsel I, punt 2, onderdeel **a**, van de Internationale Bepalingen het voorste toplicht of eventueel het enige toplicht slechts op een hoogte van ten minste 5 meter boven de romp, en het achterste toplicht slechts ten minste 3 meter hoger dan het voorste licht te voeren.
 
-#### Artikel 6. Optische tekens van kleine schepen
+##### Artikel 6. Optische tekens van kleine schepen
 
 1. In afwijking van het bepaalde in Voorschrift 25, onderdeel **d**, van de Internationale Bepalingen voeren zeilboten met een lengte van minder dan 12 meter, alsmede roeiboten, indien zij de krachtens Voorschrift 25, onderdeel **a** of **b**, van de Internationale Bepalingen voorgeschreven lichten niet kunnen voeren, ten minste een wit rondom schijnend licht overeenkomstig het bepaalde in No. 1 van Hoofdstuk II van bijlage 1.
 
@@ -114,23 +136,23 @@ Optische tekens die krachtens dit besluit en krachtens de Internationale Bepalin
 
 3. De bevoegde autoriteit kan wateroppervlakken als anker- en ligplaatsen vaststellen waarop schepen met een lengte van minder dan 12 meter de krachtens Voorschrift 30, onderdeel **a, b** of **c**, van de Internationale Bepalingen voorgeschreven optische tekens niet behoeven te voeren; het bepaalde in Voorschrift 30, onderdeel **e**, van de Internationale Bepalingen blijft onverminderd van kracht.
 
-#### Artikel 7. Motorschepen die met behulp van een sleepboot worden voortbewogen
+##### Artikel 7. Motorschepen die met behulp van een sleepboot worden voortbewogen
 
 Een manoeuvreerbaar motorschip dat varende is en voorzien is van een voor het gebruik gereed zijnde motor en dat wordt bijgestaan door één of meer sleepboten, (assisteren) voert de krachtens de Internationale Bepalingen voorgeschreven optische tekens van een alleenvarend motorschip.
 
-#### Artikel 8. Schepen die bepaalde gevaarlijke goederen vervoeren
+##### Artikel 8. Schepen die bepaalde gevaarlijke goederen vervoeren
 
 1. Schepen die bepaalde gevaarlijke goederen vervoeren, voeren, behalve de krachtens de Internationale Bepalingen voorgeschreven optische tekens, des nachts een rood rondom schijnend licht overeenkomstig het bepaalde in no. 2 van Hoofdstuk II van bijlage 1 en overdag seinvlag "B" uit het Internationale Seinboek. Deze optische tekens worden ook gevoerd, indien de schepen ten anker gaan of gemeerd hebben. Het bepaalde in de eerste en de tweede volzin is niet van toepassing op oorlogsschepen.
 
 2. Het bepaalde in het eerste lid is ook van toepassing op tankschepen die na het lossen van bepaalde gevaarlijke goederen nog niet zijn gereinigd en ontgast, tenzij deze volledig geïnertiseerd zijn.
 
-#### Artikel 9. Beperkt manoeuvreerbare schepen die in het vaarwater bezig zijn met baggeren of met werkzaamheden onder water
+##### Artikel 9. Beperkt manoeuvreerbare schepen die in het vaarwater bezig zijn met baggeren of met werkzaamheden onder water
 
 1. Een beperkt manoeuvreerbaar schip dat in het vaarwater bezig is met baggeren of met werkzaamheden onder water en de in Voorschrift 27, onderdeel **d,** van de Internationale Bepalingen voorgeschreven optische tekens dient te voeren voert de optische tekens overeenkomstig het bepaalde in Voorschrift 27, onderdeel **d** (ii), aan beide zijden, indien aan geen van beide zijden een belemmering aanwezig is.
 
 2. Drijvende onderdelen waarvan door schepen die bezig zijn met baggeren of met werkzaamheden onder water, bij hun werkzaamheden gebruik wordt gemaakt, voeren des nachts een wit rondom schijnend licht en overdag een vierkant rood bord overeenkomstig het bepaalde in no. 3 van Hoofdstuk II van bijlage 1.
 
-#### Artikel 10. Schepen, drijvende inrichtingen, alsmede moeilijk te onderscheiden schepen en voorwerpen die zijn gemeerd
+##### Artikel 10. Schepen, drijvende inrichtingen, alsmede moeilijk te onderscheiden schepen en voorwerpen die zijn gemeerd
 
 1. Schepen, drijvende inrichtingen, alsmede schepen en voorwerpen, als bedoeld in Voorschrift 24, onderdeel **g,** van de Internationale Bepalingen, die gemeerd zijn, voeren, tenzij zij door andere lichtbronnen voldoende en permanent te onderscheiden zijn, de volgende lichten:
 
@@ -140,7 +162,7 @@ Een manoeuvreerbaar motorschip dat varende is en voorzien is van een voor het ge
 
 2. Schepen die aan een meerboei overeenkomstig het bepaalde in E.7 van Hoofdstuk I van bijlage 1 liggen, voeren het optische teken van ten anker liggende schepen krachtens het bepaalde in Voorschrift 30 van de Internationale Bepalingen.
 
-#### Artikel 11. Schepen van de openbare dienst
+##### Artikel 11. Schepen van de openbare dienst
 
 1. Schepen van de openbare dienst tonen een ononderbroken, blauw flikkerlicht overeenkomstig het bepaalde in No. 5 van Hoofdstuk II van bijlage 1, indien bij de uitvoering van politiële taken de veiligheid en het vlotte verloop van het scheepvaartverkeer in gevaar kan worden gebracht.
 
@@ -148,17 +170,17 @@ Een manoeuvreerbaar motorschip dat varende is en voorzien is van een voor het ge
 
 #### Geluidsseinen van schepen
 
-#### Artikel 12. Aandachtsseinen
+##### Artikel 12. Aandachtsseinen
 
 In alle gevallen waarin de verkeerssituatie dit vereist, in het bijzonder bij het invaren van andere vaarwaters en havens, bij het uitvaren van havens en sluizen en bij het verlaten van lig- en ankerplaatsen, wordt een lange stoot gegeven als aandachtssein.
 
-#### Artikel 13. Gevaars- en waarschuwingsseinen
+##### Artikel 13. Gevaars- en waarschuwingsseinen
 
 1. Indien een schip een ander schip in gevaar brengt of door dit schip zelf in gevaar wordt gebracht, geeft het tijdig tweemaal na elkaar een lange stoot en vier korte stoten als gevaars- en waarschuwingssein.
 
 2. Indien bij ongevallen van schepen bepaalde gevaarlijke goederen of radioactieve stoffen vrijkomen of dreigen vrij te komen, of indien er gevaar voor een ontploffing bestaat, wordt als "blijf weg"-sein een korte en een lange stoot gegeven. Dit sein blijft na inschakeling automatisch functioneren. Het sein wordt elke minuut ten minste vijfmaal achter elkaar steeds met tussenpozen van twee seconden gegeven. Het "blijf weg"-sein wordt zolang herhaald als de verkeerssituatie dit vereist. In de nabijheid van lig- en overslagplaatsen als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=25&z=2002-06-26&g=2002-06-26), en [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=26&z=2002-06-26&g=2002-06-26), wordt in het geval van het bepaalde in de eerste volzin het "blijf weg"-sein ook door de voor de uitvoering van de werkzaamheden in de overslaginstallatie verantwoordelijke persoon gegeven.
 
-#### Artikel 14. Beginselen
+##### Artikel 14. Beginselen
 
 1. De vaarvoorschriften van dit hoofdstuk zijn van toepassing onafhankelijk van het zicht. In afwijking van de Voorschriften 11 en 19 van de Internationale Bepalingen zijn Voorschrift 13, onderdelen a en c, en Voorschrift 14, onderdelen a en c, van de Internationale Bepalingen in het vaarwater ook dan van toepassing wanneer de schepen elkaar op de radar kunnen waarnemen.
 
@@ -168,7 +190,7 @@ In alle gevallen waarin de verkeerssituatie dit vereist, in het bijzonder bij he
 
 #### Vaarvoorschriften
 
-#### Artikel 15. Verplichting om aan de rechterzijde te varen; uitzonderingen
+##### Artikel 15. Verplichting om aan de rechterzijde te varen; uitzonderingen
 
 1. In het vaarwater wordt zoveel mogelijk aan de rechterzijde gevaren.
 
@@ -176,7 +198,7 @@ In alle gevallen waarin de verkeerssituatie dit vereist, in het bijzonder bij he
 
 3. Buiten het vaarwater wordt op zodanige wijze gevaren, dat duidelijk zichtbaar is dat geen gebruik van het vaarwater wordt gemaakt.
 
-#### Artikel 16
+##### Artikel 16
 
 1. In beginsel wordt aan bakboord voorbijgelopen. Voor zover de bijzondere situatie het vereist, mag aan stuurboord worden voorbijgelopen.
 
@@ -196,7 +218,7 @@ Het oplopende schip kan, in afwijking van Voorschrift 9, onderdeel e (i), van de
 
 Indien het voorbij te lopen schip instemt, kan het zijn toestemming in afwijking van Voorschrift 34, onderdeel c (ii), van de Internationale Bepalingen over de marifoon geven en maatregelen nemen om veilig te passeren. Zijn de voorwaarden voor de afspraak over de marifoon niet aanwezig, dan geldt uitsluitend Voorschrift 9, onderdeel e, van de Internationale Bepalingen.
 
-#### Artikel 17. Ontmoeten van schepen
+##### Artikel 17. Ontmoeten van schepen
 
 1. Het ontmoeten is verboden op plaatsen, binnen vaargebieden en tussen bepaalde schepen, die door de bevoegde autorioteit zijn vastgesteld.
 
@@ -216,7 +238,7 @@ Zijn de voorwaarden voor de afspraak over de marifoon niet aanwezig, dan dient h
 
 De tweede tot en met vijfde zin zijn niet van toepassing op vaartuigen met een lengte van minder dan 12 meter.
 
-#### Artikel 18. Voorrang voor de scheepvaart in het vaarwater
+##### Artikel 18. Voorrang voor de scheepvaart in het vaarwater
 
 1. Schepen die in een vaarwater varen, hebben voorrang ten opzichte van schepen die
 
@@ -238,7 +260,7 @@ De tweede tot en met vijfde zin zijn niet van toepassing op vaartuigen met een l
 
 6. Zeilschepen dienen in het vaarwater voor elkaar uitsluitend overeenkomstig de Internationale Bepalingen uit te wijken wanneer ze daardoor schepen die voorrang hebben niet in gevaar brengen of hinderen.
 
-#### Artikel 19. Snelheid
+##### Artikel 19. Snelheid
 
 1. Ieder schip, iedere waterscooter en iedere zeilplank dient met inachtneming van Voorschrift 6 van de Internationale Bepalingen met een veilige snelheid te varen. Indien het verkeer door verkeerstekens wordt geregeld, wordt de snelheid zodanig aangepast, dat bij een onverwachte wijziging van het optische of het akoestische verkeersteken het schip onmiddellijk tot stilstand kan worden gebracht.
 
@@ -246,11 +268,11 @@ De tweede tot en met vijfde zin zijn niet van toepassing op vaartuigen met een l
 
 3. Schepen verminderen hun snelheid tijdig zodanig als noodzakelijk is om gevaren als gevolg van zuiging of golfslag te vermijden, in het bijzonder bij het voorbijvaren van onmanoeuvreerbare en vastgevaren schepen, alsmede van beperkt manoeuvreerbare schepen als bedoeld in Voorschrift 3, onderdeel **g**, schepen en voorwerpen, als bedoeld in Voorschrift 24, onderdeel **g**, van de Internationale Bepalingen, en drijvende inrichtingen, alsmede van plaatsen die door het verkeersteken A.4 van Hoofdstuk I van bijlage 1 of door seinvlag "A" van het Internationale Seinboek zijn gekenmerkt.
 
-#### Artikel 20. Slepen en duwen
+##### Artikel 20. Slepen en duwen
 
 Het is verboden dat slepen en duwstellen meer gesleepte schepen, drijvende inrichtingen of drijvende voorwerpen of duwbakken omvatten dan de sleepboten of duwboten, rekening houdend met de verkeerssituatie en de gesteldheid van de vaarweg, veilig kunnen geleiden.
 
-#### Artikel 21. Vaarbeperkingen en vaarverboden
+##### Artikel 21. Vaarbeperkingen en vaarverboden
 
 1. De Eemsmonding mag door de hieronder vermelde schepen alleen onder de in het tweede lid genoemde voorwaarden bevaren worden:
 
@@ -288,7 +310,7 @@ Het bepaalde in het tweede lid, onderdeel **a**, is niet van toepassing op tanks
 
 6. Door de verkeerscentrale kan met goedvinden van de beide bevoegde autoriteiten in individuele gevallen ontheffing worden verleend van de in het tweede lid genoemde voorwaarden voor het bevaren van de Eemsmonding.
 
-#### Artikel 22. Waterskiën, varen met waterscooters en plankzeilen
+##### Artikel 22. Waterskiën, varen met waterscooters en plankzeilen
 
 1. In het vaarwater is waterskiën en het varen met waterscooters verboden, uitgezonderd op de met verkeersteken C.2 of C.5 van Hoofdstuk I van bijlage 1 aangeduide of door de bevoegde autoriteit vastgestelde wateroppervlakken.
 
@@ -306,7 +328,7 @@ Buiten het vaarwater is waterskiën en het varen met waterscooters toegestaan, u
 
 #### Voorschriften voor stilliggen
 
-#### Artikel 23. Ankeren
+##### Artikel 23. Ankeren
 
 1. Het is verboden te ankeren in het vaarwater, uitgezonderd op de reden en in de door de bevoegde autoriteit vastgestelde wateroppervlakken. Dit verbod geldt niet voor beperkt manoeuvreerbare schepen als bedoeld in Voorschrift 3, onderdeel g (i) en (ii), van de Internationale Bepalingen.
 
@@ -326,7 +348,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 4. Op een in de nabijheid van het vaarwater of op een rede ten anker liggend schip of een schip en een voorwerp, als bedoeld in Voorschrift 24, onderdeel **g**, van de Internationale Bepalingen, alsmede op schepen waarop krachtens het bepaalde in het vierde lid het verbod tot ankeren niet van toepassing is, wordt permanent ankerwacht gelopen. Dit voorschrift geldt niet voor schepen met een lengte van minder dan 12 meter op de krachtens het bepaalde in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=6&z=2002-06-26&g=2002-06-26), vastgestelde wateroppervlakken.
 
-#### Artikel 24. Aanleggen en meren
+##### Artikel 24. Aanleggen en meren
 
 1. Het is verboden door het aanleggen en meren de scheepvaart te belemmeren. Indien een schip met de aanlegmanoeuvre is begonnen, houdt de overige scheepvaart rekening met deze omstandigheid en navigeert zij met de geboden voorzichtigheid.
 
@@ -338,7 +360,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 - c. op plaatsen die door de bevoegde autoriteit zijn vastgesteld.
 
-#### Artikel 25. Overslag
+##### Artikel 25. Overslag
 
 1. Buiten de havens en overslagplaatsen is het overslaan van goederen met inbegrip van het bunkeren verboden, tenzij zulks geschiedt op de door de bevoegde autoriteit daarvoor vastgestelde reden en ligplaatsen en met inachtneming van de vastgestelde voorwaarden. Van de overslag van bepaalde gevaarlijke goederen wordt tijdig van tevoren kennis gegeven aan de bevoegde autoriteit.
 
@@ -350,7 +372,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 5. Alle overige voorschriften die betrekking hebben op het omgaan met gevaarlijke goederen, blijven onverminderd van kracht.
 
-#### Artikel 26. Ankeren, aanleggen, meren van en voorbijvaren aan schepen die bepaalde gevaarlijke goederen vervoeren
+##### Artikel 26. Ankeren, aanleggen, meren van en voorbijvaren aan schepen die bepaalde gevaarlijke goederen vervoeren
 
 1. Het is verboden dat schepen die bepaalde schadelijke goederen vervoeren, ankeren of meren op andere dan op de door de bevoegde autoriteit vastgestelde reden en ligplaatsen. De door de bevoegde autoriteit vastgestelde voorwaarden worden in acht genomen.
 
@@ -364,7 +386,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 #### Overige bepalingen
 
-#### Artikel 27. Gedrag bij scheepsongevallen en bij verlies van voorwerpen
+##### Artikel 27. Gedrag bij scheepsongevallen en bij verlies van voorwerpen
 
 1. Indien er gevaar voor zinken bestaat, wordt het schip indien mogelijk zo ver buiten het vaarwater gebracht, dat de scheepvaart niet wordt belemmerd. Na een aanvaring is de gezagvoerder van een daarbij betrokken, drijvend gebleven schip daartoe ook verplicht.
 
@@ -384,7 +406,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 - d. toestellen met gloeiende of vonken verspreidende onderdelen stilgezet.
 
-#### Artikel 28. Vergunningen
+##### Artikel 28. Vergunningen
 
 1. Een vergunning van de bevoegde autoriteit is vereist voor:
 
@@ -408,7 +430,7 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 3. De vergunning kan onder beperkingen worden verleend en er kunnen voorschriften aan worden verbonden.
 
-#### Artikel 29. Meldingen
+##### Artikel 29. Meldingen
 
 1. Schepen, duwstellen en slepen, die de door de bevoegde autoriteit vastgestelde afmetingen overschrijden, worden tijdig vóór het bevaren van de Eemsmonding onder opgave van de naam, de positie, de afmetingen en de haven van bestemming, alsmede bij de vastgestelde posities onder opgave van de naam, de positie, de snelheid en de passeertijd gemeld. De krachtens het bepaalde in de eerste volzin voorgeschreven melding geschiedt ook bij onderbreking en bij voortzetting van de reis.
 
@@ -438,19 +460,19 @@ Buiten het vaarwater is het verboden te ankeren in de volgende wateroppervlakken
 
 5. De gezagvoerder van een met een marifoon uitgerust schip is verplicht bij het in acht nemen van de voorschriften inzake het verkeersgedrag, de door de verkeerscentrale in het Duits, op verzoek in het Nederlands of Engels verstrekte verkeersinformatie, alsmede aanwijzingen en waarschuwingen te beluisteren en deze onverwijld overeenkomstig de omstandigheden in de gegeven verkeerssituatie in aanmerking te nemen. Op verzoek van de verkeerscentrale dient de gezagvoerder van het schip zich bij haar te melden en deel te nemen aan de communicatie met de verkeerscentrale.
 
-#### Artikel 30. Vrijstelling voor schepen van de openbare dienst
+##### Artikel 30. Vrijstelling voor schepen van de openbare dienst
 
 De schepen van de openbare dienst zijn vrijgesteld van de naleving van de voorschriften van dit besluit, voor zover zulks voor de uitvoering van opdrachten van overheidswege, daarbij naar behoren rekening houdend met de openbare orde en veiligheid, dringend geboden is.
 
-#### Artikel 31. Ontheffing
+##### Artikel 31. Ontheffing
 
 In bijzondere omstandigheden kan de bevoegde autoriteit een schip geheel of gedeeltelijk ontheffing verlenen van de naleving van de Internationale Bepalingen en van de bepalingen van dit besluit.
 
-#### Artikel 32. Geografische beperking bevoegdheden
+##### Artikel 32. Geografische beperking bevoegdheden
 
 De verlening van toestemming, bedoeld in [artikel 27, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=27&z=2002-06-26&g=2002-06-26), de verlening van een vergunning, bedoeld in [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=28&z=2002-06-26&g=2002-06-26), het bevel tot berging, bedoeld in artikel 28, eerste lid, onderdeel c, en de verlening van ontheffing, bedoeld in [artikel 31](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=31&z=2002-06-26&g=2002-06-26) van dit besluit, door de bevoegde autoriteit geschieden met inachtneming van artikel 34, tweede lid, van het Eems-Dollardverdrag. In de aldaar aan de Duitse autoriteiten toegewezen gebieden is in plaats van de Nederlandse bevoegde autoriteit de door de Duitse autoriteiten aangewezen bevoegde autoriteit bevoegd.
 
-#### Artikel 33. Verantwoordelijkheden
+##### Artikel 33. Verantwoordelijkheden
 
 1. De kapitein of de schipper is verantwoordelijk voor de naleving van de bepalingen van dit besluit tenzij uit de bepalingen blijkt dat de naleving aan anderen is opgedragen.
 
@@ -464,33 +486,33 @@ Hij werkt ook zonder diens aanwijzingen mede aan de naleving van de bepalingen v
 
 4. Ieder ander die zich aan boord van een schip bevindt volgt de aanwijzingen op die hem door de kapitein of de schipper in het belang van de veiligheid van de scheepvaart of van de goede orde aan boord worden gegeven.
 
-#### Artikel 34. Goede zeemanschap
+##### Artikel 34. Goede zeemanschap
 
 1. De kapitein of de schipper neemt, ook bij het ontbreken van uitdrukkelijke voorschriften in dit besluit, alle voorzorgsmaatregelen die volgens goede zeemanschap of door de omstandigheden waarin het schip, de sleep of het duwstel zich bevindt in het belang van de scheepvaart of de goede orde van de scheepvaart zijn geboden.
 
 2. De kapitein of de schipper wijkt in het belang van de veiligheid of de goede orde van de scheepvaart, voor zover dit door de bijzondere omstandigheden waarin het schip, de sleep of het duwstel zich bevindt is geboden, volgens goede zeemanschap af van de bepalingen van dit besluit.
 
-#### Artikel 35. Verkeersaanwijzingen
+##### Artikel 35. Verkeersaanwijzingen
 
 De kapitein of de schipper geeft gevolg aan een met inachtneming van artikel 34, tweede lid, van het Eems-Dollardverdrag gegeven verkeersaanwijzing.
 
-#### Artikel 36. Strafbare feiten
+##### Artikel 36. Strafbare feiten
 
 Overtreding van de bij of krachtens de [artikelen 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=2&z=2002-06-26&g=2002-06-26), [3 tot en met 27](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=3&z=2002-06-26&g=2002-06-26), [28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=28&z=2002-06-26&g=2002-06-26), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29&z=2002-06-26&g=2002-06-26), [33, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=33&z=2002-06-26&g=2002-06-26), [34](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=34&z=2002-06-26&g=2002-06-26) en [35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=35&z=2002-06-26&g=2002-06-26), van dit besluit vastgestelde voorschriften is een strafbaar feit.
 
-#### Artikel 37. Opsporing
+##### Artikel 37. Opsporing
 
 Met de opsporing van de bij dit besluit strafbaar gestelde feiten zijn, behalve de in [artikel 141 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=141) genoemde ambtenaren, de daartoe door Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren belast.
 
-#### Artikel 38. Bekendmakingen
+##### Artikel 38. Bekendmakingen
 
 De op grond van [artikel 1, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=1&z=2002-06-26&g=2002-06-26), [artikel 15, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=15&z=2002-06-26&g=2002-06-26), [artikel 16, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=16&z=2002-06-26&g=2002-06-26), [artikel 17, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=17&z=2002-06-26&g=2002-06-26), [artikel 18, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=18&z=2002-06-26&g=2002-06-26), [artikel 21, tweede, derde, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=21&z=2002-06-26&g=2002-06-26), [artikel 22, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=22&z=2002-06-26&g=2002-06-26), [artikel 23, eerste en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=23&z=2002-06-26&g=2002-06-26), [artikel 24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=24&z=2002-06-26&g=2002-06-26), [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=25&z=2002-06-26&g=2002-06-26), [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=26&z=2002-06-26&g=2002-06-26), [artikel 28, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=28&z=2002-06-26&g=2002-06-26), en [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004552&artikel=29&z=2002-06-26&g=2002-06-26), van dit besluit vastgestelde voorschriften worden als bekendmakingen aan de scheepvaart uitgegeven en gepubliceerd in de Nederlandse Staatscourant.
 
-#### Artikel 39. Inwerkingtreding
+##### Artikel 39. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 40. Citeertitel
+##### Artikel 40. Citeertitel
 
 Dit besluit kan worden aangehaald als Scheepvaartreglement Eemsmonding".
 
@@ -512,13 +534,13 @@ Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in 
 
 #### Vaarvoorschriften
 
-#### Artikel 14a. Veiligheidszones
+##### Artikel 14a. Veiligheidszones
 
 1. Veiligheidszones worden niet bevaren.
 
 2. Het eerste lid is niet van toepassing op schepen die voor de verzorging van installaties of inrichtingen zijn ingezet.
 
-#### Artikel 21a. Snelle schepen
+##### Artikel 21a. Snelle schepen
 
 De bevoegde autoriteit kan voorwaarden stellen voor het bevaren van de Eemsmonding met snelle schepen.
 

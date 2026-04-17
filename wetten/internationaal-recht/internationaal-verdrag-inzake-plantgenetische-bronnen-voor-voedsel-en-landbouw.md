@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag inzake plantgenetische bronnen voor voedsel en landbouw"
 identifier: "BWBV0001763"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-02-16
-laatste_update: 2006-02-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001763"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-02-16"
+last_updated: "2006-02-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001763"
+soort: "verdrag"
+stam_id: "10002335953"
+version_id: "10002346432"
+internal_id: "C10006993961"
+label_id: "10002326294"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001763/2006-02-16/0"
+intitule_bron: "Trb.2002-134"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-11-18"
+intitule_published: "2002-07-24"
+intitule_in_force: "2006-01-26"
+intitule_status: "goed"
+original_publication: "Trb.2002-134"
+original_signed_date: "2005-11-18"
+original_published_date: "2002-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-134"
+entry_into_force_date: "2006-02-16"
+jci_1_3: "jci1.3:c:BWBV0001763&z=2006-02-16&g=2006-02-16"
+jci_1_0: "1.0:c:BWBV0001763&g=2006-02-16"
+citeertitel_status: "redactioneel"
+signed_date: "2005-11-18"
+entry_into_force: "2006-02-16"
 ---
-
 # Internationaal Verdrag inzake plantgenetische bronnen voor voedsel en landbouw
 
 Preambule
@@ -48,13 +73,13 @@ zijn het volgende overeengekomen:
 
 ## TITEL I. INLEIDING
 
-#### Artikel 1. Doelstellingen
+##### Artikel 1. Doelstellingen
 
 1.1. De doelstellingen van dit Verdrag zijn het behoud en het duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw en de eerlijke en billijke verdeling van de voordelen die voortvloeien uit het gebruik ervan in overeenstemming met het [Verdrag inzake Biologische Diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136), ten behoeve van een duurzame landbouw en voedselzekerheid.
 
 1.2. Deze doelstellingen worden bereikt door een nauw verband te leggen tussen dit Verdrag en de Voedsel- en Landbouworganisatie van de Verenigde Naties en het [Verdrag inzake Biologische Diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
 
-#### Artikel 2. Gebruikte termen
+##### Artikel 2. Gebruikte termen
 
 Voor de toepassing van dit Verdrag hebben de hierna volgende termen de volgende betekenis. De omschrijvingen zijn niet van toepassing op de internationale handel in producten.
 
@@ -74,17 +99,17 @@ Voor de toepassing van dit Verdrag hebben de hierna volgende termen de volgende 
 
 „Gebied met een diversiteit van gewassen": een geografische zone met een hoog niveau in genetische diversiteit voor gecultiveerde plantensoorten onder **in situ-**omstandigheden.
 
-#### Artikel 3. Werkingssfeer
+##### Artikel 3. Werkingssfeer
 
 Dit Verdrag heeft betrekking op plantgenetische bronnen voor voedsel en landbouw.
 
 ## TITEL II. ALGEMENE BEPALINGEN
 
-#### Artikel 4. Algemene verplichtingen
+##### Artikel 4. Algemene verplichtingen
 
 Elke verdragsluitende partij garandeert dat de in dit Verdrag overeengekomen verplichtingen overeenkomstig haar wetten, reglementen en procedures zijn.
 
-#### Artikel 5. Instandhouding, exploratie, verzameling, karakterisering, evaluatie en documentatie van plantgenetische bronnen voor voedsel en landbouw
+##### Artikel 5. Instandhouding, exploratie, verzameling, karakterisering, evaluatie en documentatie van plantgenetische bronnen voor voedsel en landbouw
 
 5.1. Elke verdragsluitende partij dient, overeenkomstig de nationale wetgeving, en zo nodig in samenwerking met andere verdragsluitende partijen, een geïntegreerde aanpak te bevorderen van de exploratie, het behoud en het duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw, en dient in voorkomende gevallen:
 
@@ -102,7 +127,7 @@ Elke verdragsluitende partij garandeert dat de in dit Verdrag overeengekomen ver
 
 5.2. De verdragsluitende partijen dienen in voorkomende gevallen maatregelen te treffen om bedreigingen voor plantgenetische bronnen voor voedsel en landbouw tot een minimum terug te dringen of, indien mogelijk, te elimineren.
 
-#### Artikel 6. Duurzaam gebruik van plantgenetische bronnen
+##### Artikel 6. Duurzaam gebruik van plantgenetische bronnen
 
 6.1. De verdragsluitende partijen dienen passende beleidsmaatregelen en juridische maatregelen uit te werken en te handhaven ter bevordering van het duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw.
 
@@ -122,7 +147,7 @@ Elke verdragsluitende partij garandeert dat de in dit Verdrag overeengekomen ver
 
 - g. het onderzoeken en, waar nodig, wijzigen van het beleid inzake plantenveredeling en regelgeving op het gebied van het vrijgeven van rassen en distributie van zaden.
 
-#### Artikel 7. Nationale verplichtingen en internationale samenwerking
+##### Artikel 7. Nationale verplichtingen en internationale samenwerking
 
 7.1. Elke verdragsluitende partij dient, waar nodig, in haar beleid en programma's op het gebied van landbouw en plattelandsontwikkeling activiteiten op te nemen die betrekking hebben op [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=II&artikel=5&z=2006-02-16&g=2006-02-16) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=II&artikel=6&z=2006-02-16&g=2006-02-16), en dient, rechtstreeks of via de FAO en andere relevante internationale organisaties, met andere verdragsluitende partijen samen te werken bij het behoud en het duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw.
 
@@ -136,13 +161,13 @@ Elke verdragsluitende partij garandeert dat de in dit Verdrag overeengekomen ver
 
 - d. het toepassen van het financieringsbeleid van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=VI&artikel=18&z=2006-02-16&g=2006-02-16).
 
-#### Artikel 8. Technische bijstand
+##### Artikel 8. Technische bijstand
 
 De verdragsluitende partijen komen overeen het verlenen van technische bijstand aan met name verdragsluitende partijen die ontwikkelingslanden zijn of landen met een overgangseconomie, te bevorderen, bilateraal of via relevante internationale organisaties, om de toepassing van dit Verdrag te vergemakkelijken.
 
 ## TITEL III. RECHTEN VAN DE BOER
 
-#### Artikel 9. Rechten van de boer
+##### Artikel 9. Rechten van de boer
 
 9.1. De verdragsluitende partijen erkennen de enorme bijdrage die de plaatselijke en inheemse gemeenschappen en boeren uit alle regio's van de wereld, met name die boeren in de gebieden van oorsprong en gebieden met een diversiteit van gewassen, hebben geleverd en zullen blijven leveren, aan het behoud en de ontwikkeling van plantgenetische bronnen die de basis vormen voor de voedsel- en landbouwproductie over de hele wereld.
 
@@ -158,13 +183,13 @@ De verdragsluitende partijen komen overeen het verlenen van technische bijstand 
 
 ## TITEL IV. MULTILATERAAL SYSTEEM VAN TOEGANG EN VERDELING VAN VOORDELEN
 
-#### Artikel 10. Multilateraal systeem van toegang en verdeling van voordelen
+##### Artikel 10. Multilateraal systeem van toegang en verdeling van voordelen
 
 10.1. In hun betrekkingen met andere Staten erkennen de verdragsluitende partijen de soevereine rechten van Staten op hun eigen plantgenetische bronnen voor voedsel en landbouw, en dat de bevoegdheid om te bepalen wie toegang heeft tot die hulpbronnen bij de nationale autoriteiten ligt en onderworpen is aan nationale wetgeving.
 
 10.2. In de uitoefening van hun soevereine rechten komen de verdragsluitende partijen overeen een efficiënt, doeltreffend en transparant multilateraal systeem te ontwikkelen om de toegang tot plantgenetische bronnen voor voedsel en landbouw te vergemakkelijken, en op een eerlijke en billijke wijze de voordelen die voortvloeien uit het gebruik van die bronnen te verdelen, op basis van complementariteit en wederzijdse versterking.
 
-#### Artikel 11. Bereik van het multilateraal systeem
+##### Artikel 11. Bereik van het multilateraal systeem
 
 11.1. Om de doelstellingen van het behoud en het duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw en de eerlijke en billijke verdeling van voordelen die voortvloeien uit het gebruik ervan, zoals bepaald in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=I&artikel=1&z=2006-02-16&g=2006-02-16), te kunnen bereiken, is het multilateraal systeem van toepassing op de in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&bijlage=I&z=2006-02-16&g=2006-02-16) genoemde plantgenetische bronnen voor voedsel en landbouw, zoals vastgesteld overeenkomstig criteria voor voedselzekerheid en onderlinge afhankelijkheid.
 
@@ -176,7 +201,7 @@ De verdragsluitende partijen komen overeen het verlenen van technische bijstand 
 
 11.5. Het multilateraal systeem moet ook de in [Aanhangsel I](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&bijlage=I&z=2006-02-16&g=2006-02-16) genoemde plantgenetische bronnen voor voedsel en landbouw bevatten die in stand worden gehouden in verzamelingen ex situ van de internationale instituten voor landbouwonderzoek van de Adviesgroep inzake Internationaal Landbouwonderzoek (GCRAI), zoals bepaald in [artikel 15, lid 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=V&artikel=15&z=2006-02-16&g=2006-02-16)), en door andere internationale instellingen, overeenkomstig het bepaalde in [artikel 15, lid 5](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=V&artikel=15&z=2006-02-16&g=2006-02-16).
 
-#### Artikel 12. Verschaffen van toegang tot plantgenetische bronnen voor voedsel en landbouw binnen het multilateraal systeem
+##### Artikel 12. Verschaffen van toegang tot plantgenetische bronnen voor voedsel en landbouw binnen het multilateraal systeem
 
 12.1. De verdragsluitende partijen komen overeen dat toegang tot plantgenetische bronnen voor voedsel en landbouw binnen het multilateraal systeem zoals omschreven in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=IV&artikel=11&z=2006-02-16&g=2006-02-16), wordt verschaft overeenkomstig de bepalingen in dit Verdrag.
 
@@ -206,7 +231,7 @@ De verdragsluitende partijen komen overeen het verlenen van technische bijstand 
 
 12.6. De verdragsluitende partijen komen overeen dat in noodgevallen ten gevolge van rampen toegang tot passende plantgenetische bronnen voor voedsel en landbouw van het multilateraal systeem wordt verschaft om een bijdrage te leveren aan het herstel van landbouwsystemen, in samenwerking met de hulpverlenende coördinatoren.
 
-#### Artikel 13. Verdeling van voordelen in het multilateraal systeem
+##### Artikel 13. Verdeling van voordelen in het multilateraal systeem
 
 13.1. De verdragsluitende partijen erkennen dat de betere toegang tot plantgenetische bronnen voor voedsel en landbouw die zijn opgenomen in het multilateraal systeem op zichzelf een belangrijk voordeel is van het multilateraal systeem, en komen overeen dat voordelen die hieruit voortvloeien op een eerlijke en billijke wijze worden verdeeld overeenkomstig de bepalingen in dit artikel.
 
@@ -240,11 +265,11 @@ De verdragsluitende partijen komen overeen het verlenen van technische bijstand 
 
 ## TITEL V. COMPONENTEN VAN BIJSTAND
 
-#### Artikel 14. Wereldactieplan
+##### Artikel 14. Wereldactieplan
 
 Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik van plantgenetische bronnen voor voedsel en landbouw van belang is voor dit Verdrag, dienen de verdragsluitende partijen de doelmatige toepassing ervan te stimuleren, met name door middel van nationale maatregelen en waar nodig door middel van internationale samenwerking, om een coherent kader te scheppen ter bevordering van, met name, het ontwikkelen van capaciteit, overdracht van technologie en uitwisseling van informatie, overeenkomstig de bepalingen van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=IV&artikel=13&z=2006-02-16&g=2006-02-16).
 
-#### Artikel 15. Verzamelingen ex situ van plantgenetische bronnen voor voedsel en landbouw bij Internationale centra voor landbouwonderzoek van de Adviesgroep internationaal landbouwonderzoek en andere internationale instellingen.
+##### Artikel 15. Verzamelingen ex situ van plantgenetische bronnen voor voedsel en landbouw bij Internationale centra voor landbouwonderzoek van de Adviesgroep internationaal landbouwonderzoek en andere internationale instellingen.
 
 15.1. De verdragsluitende partijen erkennen het belang voor dit Verdrag van de verzamelingen ex situ van plantgenetische bronnen voor voedsel en landbouw bij Internationale Instituten voor landbouwonderzoek (IARC's) van de Adviesgroep inzake internationaal landbouwkundig onderzoek (CGIAR). De verdragsluitende partijen doen een beroep op de IARC's om overeenkomsten te sluiten met het bestuursorgaan met betrekking tot die verzamelingen ex situ, op grond van de volgende voorwaarden:
 
@@ -278,13 +303,13 @@ Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik va
 
 15.5. Het bestuursorgaan dient zich tevens in te spannen om overeenkomsten te sluiten voor de in dit artikel genoemde doeleinden met andere relevante internationale instellingen.
 
-#### Artikel 16. Internationale netwerken van plantgenetische bronnen
+##### Artikel 16. Internationale netwerken van plantgenetische bronnen
 
 16.1. De bestaande samenwerking in internationale netwerken van plantgenetische bronnen voor voedsel en landbouw zal worden bevorderd of verder ontwikkeld op basis van bestaande overeenkomsten en overeenkomstig de bepalingen van dit Verdrag, teneinde een zo groot mogelijk bereik van deze bronnen te bewerkstelligen.
 
 16.2. De verdragsluitende partijen zullen, waar nodig, alle relevante instellingen, waaronder gouvernementele instellingen, particuliere instellingen, niet-gouvernementele instellingen, onderzoeksinstituten, instituten voor plantenveredeling en andere instituten, aanmoedigen om deel te nemen aan de internationale netwerken.
 
-#### Artikel 17. Wereldwijd informatiesysteem inzake plantgenetische bronnen voor voedsel en landbouw
+##### Artikel 17. Wereldwijd informatiesysteem inzake plantgenetische bronnen voor voedsel en landbouw
 
 17.1. De verdragsluitende partijen dienen samen te werken bij de ontwikkeling en versterking van een wereldwijd informatiesysteem om, uitgaande van bestaande informatiesystemen, uitwisseling van gegevens over wetenschappelijke, technische en ecologische zaken met betrekking tot plantgenetische bronnen voor voedsel en landbouw te vergemakkelijken, in het vooruitzicht dat die uitwisseling van informatie zal bijdragen tot het delen van de voordelen door informatie over plantgenetische bronnen voor voedsel en landbouw ter beschikking te stellen van alle verdragsluitende partijen. Voor het ontwikkelen van het wereldwijd informatiesysteem zal de medewerking worden gevraagd van het Uitwisselingsmechanisme van het [Verdrag inzake Biologische Diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136).
 
@@ -294,7 +319,7 @@ Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik va
 
 ## TITEL VI. FINANCIËLE BEPALINGEN
 
-#### Artikel 18. Financiële middelen
+##### Artikel 18. Financiële middelen
 
 18.1. De verdragsluitende partijen verplichten zich om een financieringsbeleid te voeren voor de toepassing van dit Verdrag overeenkomstig het bepaalde in dit artikel.
 
@@ -320,7 +345,7 @@ Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik va
 
 ## TITEL VII. INSTITUTIONELE BEPALINGEN
 
-#### Artikel 19. Bestuursorgaan
+##### Artikel 19. Bestuursorgaan
 
 19.1. Ten behoeve van dit Verdrag wordt een bestuursorgaan samengesteld, bestaande uit alle verdragsluitende partijen.
 
@@ -372,7 +397,7 @@ Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik va
 
 19.11. Het bestuursorgaan kiest zijn voorzitter en zijn vice-voorzitters (samen het zogenoemde „Bureau"), overeenkomstig zijn reglement van orde.
 
-#### Artikel 20. Secretariaat
+##### Artikel 20. Secretariaat
 
 20.1. De secretaris van het bestuursorgaan wordt benoemd door de algemeen directeur van de FAO, met goedkeuring van het bestuursorgaan. De secretaris wordt bijgestaan door het personeel dat nodig wordt geacht.
 
@@ -394,11 +419,11 @@ Erkennend dat het lopende Wereldactieplan voor het behoud en duurzame gebruik va
 
 20.5. De Secretaris werkt samen met andere organisaties en verdragsorganen, waaronder het secretariaat van het [Verdrag inzake Biologische Diversiteit](https://wetten.overheid.nl/jci1.3:c:BWBV0001136), om de doelstellingen van dit Verdrag te bereiken.
 
-#### Artikel 21. Naleving
+##### Artikel 21. Naleving
 
 Het bestuursorgaan dient op zijn eerste vergadering doelmatige samenwerkingsprocedures en operationele mechanismen ter bevordering van de naleving van de bepalingen van dit Verdrag en ter behandeling van de gevallen van niet-nakoming te bestuderen en goed te keuren. Deze procedures en mechanismen omvatten zo nodig het houden van toezicht en het geven van advies of bijstand, ook van juridische aard, in het bijzonder aan ontwikkelingslanden en landen met een overgangseconomie.
 
-#### Artikel 22. Regeling van geschillen
+##### Artikel 22. Regeling van geschillen
 
 22.1. Ingeval tussen verdragsluitende partijen een geschil ontstaat betreffende de uitlegging of toepassing van dit Verdrag, trachten de betrokken partijen dit op te lossen door middel van onderhandelingen.
 
@@ -412,7 +437,7 @@ Het bestuursorgaan dient op zijn eerste vergadering doelmatige samenwerkingsproc
 
 22.4. Indien de partijen bij het geschil niet dezelfde of geen enkele procedure hebben aanvaard in overeenstemming met artikel 22, lid 3, wordt het geschil onderworpen aan conciliatie in overeenstemming met [Titel 2 van Aanhangsel II](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&bijlage=II&titeldeel=2&z=2006-02-16&g=2006-02-16) bij dit Verdrag, tenzij de partijen anders overeenkomen.
 
-#### Artikel 23. Wijzigingen op het Verdrag
+##### Artikel 23. Wijzigingen op het Verdrag
 
 23.1. Wijzigingen op dit Verdrag kunnen worden voorgesteld door elke verdragsluitende partij.
 
@@ -424,51 +449,51 @@ Het bestuursorgaan dient op zijn eerste vergadering doelmatige samenwerkingsproc
 
 23.5. Voor de toepassing van dit artikel zal een akte die is nedergelegd door een organisatie die lid is van de FAO niet als additioneel worden beschouwd bij de akten die zijn nedergelegd door de lidstaten van die organisatie.
 
-#### Artikel 24. Aanhangsels
+##### Artikel 24. Aanhangsels
 
 24.1. De aanhangsels bij dit Verdrag maken een integrerend deel uit van het Verdrag en een verwijzing naar dit Verdrag vormt tegelijkertijd een verwijzing naar de aanhangsels daarbij.
 
 24.2. De bepalingen in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=VII&artikel=23&z=2006-02-16&g=2006-02-16) met betrekking tot wijzigingen op dit Verdrag zijn van toepassing op wijzigingen in de aanhangsels.
 
-#### Artikel 25. Ondertekening
+##### Artikel 25. Ondertekening
 
 Dit Verdrag staat open voor ondertekening bij de FAO van 3 november 2001 tot en met 4 november 2004 voor alle leden van de FAO en alle Staten die, hoewel zij geen lid zijn van de FAO, lid zijn van de Verenigde Naties, een van haar gespecialiseerde organisaties of de Internationale Organisatie voor Atoomenergie.
 
-#### Artikel 26. Bekrachtiging, aanvaarding of goedkeuring
+##### Artikel 26. Bekrachtiging, aanvaarding of goedkeuring
 
 Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=VII&artikel=25&z=2006-02-16&g=2006-02-16) vermelde leden en niet-leden van de FAO. De akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij de depositaris.
 
-#### Artikel 27. Toetreding
+##### Artikel 27. Toetreding
 
 Dit Verdrag staat open voor toetreding door alle leden van de FAO en alle Staten die, hoewel zij geen lid zijn van de FAO, lid zijn van de Verenigde Naties, een van haar gespecialiseerde organisaties of de Internationale Organisatie voor Atoomenergie, vanaf de datum waarop het Verdrag is gesloten voor ondertekening. De akten van toetreding worden nedergelegd bij de depositaris.
 
-#### Artikel 28. Inwerkingtreding
+##### Artikel 28. Inwerkingtreding
 
 28.1. Behoudens het bepaalde in [artikel 29, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001763&titeldeel=VII&artikel=29&z=2006-02-16&g=2006-02-16), treedt dit Verdrag in werking op de negentigste dag na de datum van nederlegging van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding mits er minstens 20 akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zijn nedergelegd door leden van de FAO.
 
 28.2. Voor elk lid van de FAO en elke Staat die, hoewel hij niet lid is van de FAO, lid is van de Verenigde Naties, een van haar gespecialiseerde organisaties of de Internationale Organisatie voor Atoomenergie, en die dit Verdrag bekrachtigt, aanvaardt of goedkeurt dan wel hiertoe toetreedt, treedt het in werking op de negentigste dag na de datum van nederlegging, overeenkomstig artikel 28, lid 1, van de veertigste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door dat lid of die Staat.
 
-#### Artikel 29. Organisaties die lid zijn van de FAO
+##### Artikel 29. Organisaties die lid zijn van de FAO
 
 29.1. Wanneer een organisatie die lid is van de FAO een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding tot dit Verdrag nederlegt, dient deze organisatie, overeenkomstig het bepaalde in [artikel II, lid 7, van het Statuut van de FAO](https://wetten.overheid.nl/jci1.3:c:BWBV0003179&artikel=II), elke verandering met betrekking tot de verdeling van bevoegdheden mede te delen die is aangebracht in de verklaring inzake bevoegdheden die is overgelegd krachtens artikel II, lid 5, van het Statuut van de FAO, indien dit nodig is met het oog op haar aanvaarding van dit Verdrag. Elke verdragsluitende partij van dit Verdrag kan te allen tijde een organisatie die lid is van de FAO en die verdragsluitende partij is, verzoeken om mee te delen wie van de organisaties die lid zijn van de FAO en de lidstaten van de FAO verantwoordelijk zijn voor de toepassing van concrete aangelegenheden die worden geregeld in dit Verdrag. De organisatie die lid is van de FAO dient deze informatie binnen een redelijke termijn te verschaffen.
 
 29.2. Akten van bekrachtiging, aanvaarding, goedkeuring, toetreding of opzegging die zijn nedergelegd door een organisatie die lid is van de FAO, worden niet beschouwd als additioneel bij de akten die door haar lidstaten zijn nedergelegd.
 
-#### Artikel 30. Voorbehouden
+##### Artikel 30. Voorbehouden
 
 Ten aanzien van dit Verdrag kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 31. Niet-verdragsluitende partijen
+##### Artikel 31. Niet-verdragsluitende partijen
 
 De verdragsluitende partijen dienen elk lid van de FAO of een andere Staat die geen verdragsluitende partij is bij dit Verdrag, te stimuleren dit Verdrag te aanvaarden.
 
-#### Artikel 32. Opzegging
+##### Artikel 32. Opzegging
 
 32.1. Na het verstrijken van twee jaar na de datum waarop dit Verdrag voor een verdragsluitende partij in werking is getreden, kan die verdragsluitende partij te allen tijde het Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris. De depositaris stelt alle verdragsluitende partijen hiervan onverwijld op de hoogte.
 
 32.2. De opzegging wordt van kracht na het verstrijken van een jaar na de datum waarop de kennisgeving van opzegging is ontvangen.
 
-#### Artikel 33. Ontbinding
+##### Artikel 33. Ontbinding
 
 33.1. Dit Verdrag wordt automatisch ontbonden indien en wanneer, als gevolg van opzeggingen, het aantal verdragsluitende partijen minder dan 40 bedraagt, tenzij de overige verdragsluitende partijen unaniem anders besluiten.
 
@@ -476,21 +501,21 @@ De verdragsluitende partijen dienen elk lid van de FAO of een andere Staat die g
 
 33.3. In geval van ontbinding van het Verdrag wordt de overdracht van goederen geregeld door het door het bestuursorgaan goedgekeurd financieel reglement.
 
-#### Artikel 34. Depositaris
+##### Artikel 34. Depositaris
 
 De directeur-generaal van de FAO is depositaris van dit Verdrag.
 
-#### Artikel 35. Authentieke teksten
+##### Artikel 35. Authentieke teksten
 
 De Engelse, Arabische, Chinese, Spaanse, Franse en Russische tekst van dit Verdrag zijn gelijkelijk authentiek.
 
 ## TITEL 1. ARBITRAGE
 
-#### Artikel 1
+##### Artikel 1
 
 De eisende partij stelt de Secretaris in kennis van het feit dat de partijen een geschil onderwerpen aan arbitrage overeenkomstig artikel 22. In de kennisgeving dienen te worden vermeld het voorwerp van de arbitrage en met name de artikelen van het Verdrag waarvan de uitlegging of toepassing in het geding zijn. Indien de partijen geen overeenstemming kunnen bereiken over het voorwerp van het geding voordat de voorzitter van het scheidsgerecht wordt aangewezen, wordt dit bepaald door het scheidsgerecht. De Secretaris doet de aldus ontvangen informatie toekomen aan alle verdragsluitende partijen bij dit Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij geschillen tussen twee partijen bestaat het scheidsgerecht uit drie leden.
 
@@ -500,25 +525,25 @@ Elk der partijen bij het geschil benoemt een scheidsman en de twee aldus benoemd
 
 3. Een vacature wordt vervuld op de wijze als voorgeschreven voor de aanvankelijke benoeming.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien binnen twee maanden na de benoeming van de tweede scheidsman geen voorzitter van het scheidsgerecht is aangewezen, wijst de directeur-generaal van de FAO op verzoek van een partij bij het geschil de voorzitter aan binnen een nieuwe termijn van twee maanden.
 
 2. Indien één van de partijen bij het geschil binnen twee maanden na ontvangst van het verzoek geen scheidsman heeft benoemd, kan de andere partij hiervan kennisgeving doen aan de directeur-generaal van de FAO, die de aanwijzing verricht binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 4
+##### Artikel 4
 
 Het scheidsgerecht neemt zijn beslissingen in overeenstemming met de bepalingen van dit Verdrag en het internationale recht.
 
-#### Artikel 5
+##### Artikel 5
 
 Tenzij de partijen bij het geding anders overeenkomen, stelt het scheidsgerecht zijn eigen procedureregels vast.
 
-#### Artikel 6
+##### Artikel 6
 
 Het scheidsgerecht kan op verzoek van één van de partijen bij het geschil essentiële voorlopige maatregelen ter bescherming aanbevelen.
 
-#### Artikel 7
+##### Artikel 7
 
 De partijen bij het geschil dienen de werkzaamheden van het scheidsgerecht te vergemakkelijken en dienen met name, met gebruikmaking van alle hun ter beschikking staande middelen:
 
@@ -526,68 +551,68 @@ De partijen bij het geschil dienen de werkzaamheden van het scheidsgerecht te ve
 
 - b. het scheidsgerecht in staat te stellen, indien nodig, getuigen en deskundigen op te roepen en hun verklaring te doen optekenen.
 
-#### Artikel 8
+##### Artikel 8
 
 De partijen bij het geschil en de scheidsmannen zijn verplicht het vertrouwelijke karakter te handhaven van alle informatie die zij in vertrouwen hebben ontvangen in de loop van de procedure voor het scheidsgerecht.
 
-#### Artikel 9
+##### Artikel 9
 
 Tenzij het scheidsgerecht anders beslist gelet op de bijzondere omstandigheden van de zaak, worden de kosten van het scheidsgerecht in gelijke delen gedragen door de partijen bij het geding. Het scheidsgerecht houdt aantekening van alle kosten en doet een eindoverzicht toekomen aan de partijen bij het geding.
 
-#### Artikel 10
+##### Artikel 10
 
 Een verdragsluitende partij die een belang van juridische aard bij het voorwerp van het geding heeft, dat door de beslissing kan worden geraakt, kan met instemming van het scheidsgerecht interveniëren in de procedure.
 
-#### Artikel 11
+##### Artikel 11
 
 Het scheidsgerecht kan kennis nemen van en uitspraak doen over eisen in reconventie die rechtstreeks verband houden met het voorwerp van het geding.
 
-#### Artikel 12
+##### Artikel 12
 
 Beslissingen van het scheidsgerecht, zowel aangaande de procedure als aangaande de zaak zelve, worden genomen met een meerderheid van stemmen van de leden.
 
-#### Artikel 13
+##### Artikel 13
 
 Indien één van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of verzuimt haar zaak te verdedigen, kan de andere partij het scheidsgerecht verzoeken de procedure voort te zetten en uitspraak te doen. Niet verschijnen of verzuimen de zaak te verdedigen vormt geen beletsel voor de voortgang van de procedure. Alvorens zijn einduitspraak te doen, dient het scheidsgerecht zich ervan te vergewissen dat de eis zowel ten aanzien van de feiten als ten aanzien van het recht gegrond is.
 
-#### Artikel 14
+##### Artikel 14
 
 Het scheidsgerecht doet binnen vijf maanden, te rekenen vanaf de datum waarop het volledig is samengesteld, einduitspraak, tenzij het scheidsgerecht het noodzakelijk acht deze termijn met maximaal vijf maanden te verlengen.
 
-#### Artikel 15
+##### Artikel 15
 
 De einduitspraak van het scheidsgerecht dient uitsluitend betrekking te hebben op het voorwerp van het geding en dient met redenen te zijn omkleed. De namen van de leden die aan de beraadslaging hebben deelgenomen en de datum van de einduitspraak dienen daarin te zijn vermeld. Elk lid van het scheidsgerecht kan een afzonderlijk of afwijkend oordeel aan de einduitspraak hechten.
 
-#### Artikel 16
+##### Artikel 16
 
 De uitspraak is bindend voor de partijen bij het geding. De uitspraak is niet vatbaar voor beroep, tenzij de partijen bij het geschil van tevoren een beroepsprocedure zijn overeengekomen.
 
-#### Artikel 17
+##### Artikel 17
 
 Elk geschil dat tussen de partijen bij het geding mocht ontstaan met betrekking tot de uitlegging of de wijze van tenuitvoerlegging van de einduitspraak kan door één van beide partijen worden voorgelegd aan het scheidsgerecht dat de uitspraak heeft gedaan.
 
 ## TITEL 2. CONCILIATIE
 
-#### Artikel 1
+##### Artikel 1
 
 Op verzoek van één van de partijen bij het geding wordt een conciliatiecommissie gevormd. Tenzij de partijen dit anders overeenkomen, bestaat de commissie uit vijf leden, waarvan elke partij er twee benoemt en een voorzitter gezamenlijk door die leden wordt gekozen.
 
-#### Artikel 2
+##### Artikel 2
 
 Bij geschillen tussen meer dan twee partijen, benoemen de partijen die een gemeenschappelijk belang hebben, hun leden van de commissie gezamenlijk. Wanneer twee of meer partijen verschillende belangen hebben of wanneer er onenigheid bestaat omtrent de vraag of zij hetzelfde belang hebben, benoemen zij hun leden afzonderlijk.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien binnen twee maanden na de datum van het verzoek tot vorming van een conciliatiecommissie benoemingen door partijen niet zijn verricht, worden die benoemingen, indien de partij die het verzoek heeft ingediend zulks verzoekt, verricht door de directeur-generaal van de FAO binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien binnen twee maanden na de benoeming van het laatste lid van de conciliatiecommissie geen voorzitter is gekozen, wordt de voorzitter, indien een partij zulks verzoekt, benoemd door de directeur-generaal van de FAO binnen een nieuwe termijn van twee maanden.
 
-#### Artikel 5
+##### Artikel 5
 
 De conciliatiecommissie neemt haar besluiten met een meerderheid van stemmen van haar leden. Zij stelt haar eigen procedureregels vast, tenzij de partijen bij het geschil dit anders overeenkomen. Zij doet een voorstel tot oplossing van het geschil, hetwelk de partijen te goeder trouw in overweging nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 Een verschil van mening omtrent de vraag of de conciliatiecommissie bevoegd is, zal door de commissie worden beslist.

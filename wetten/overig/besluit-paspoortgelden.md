@@ -1,13 +1,35 @@
 ---
-title: "Besluit paspoortgelden"
+title: "Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten"
 identifier: "BWBR0005264"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005264"
+country: "nl"
+rank: "rijks_kb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005264"
+soort: "rijksKB"
+stam_id: "770343"
+version_id: "1118722"
+internal_id: "C1118721"
+label_id: "746744"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005264/2026-01-01/0"
+intitule_bron: "Stb.1991-563"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-11-08"
+intitule_status: "goed"
+original_publication: "Stb.1991-563"
+original_signed_date: "1991-11-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005264&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0005264&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit paspoortgelden"
+signed_date: "1991-11-08"
+entry_into_force: "1992-01-01"
 ---
-
 # Besluit van 8 november 1991, houdende regels met betrekking tot de aan het Rijk verschuldigde kosten en rechten terzake van reisdocumenten
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 30 augustus 1991, Directoraat-Generaal Openbaar Bestuur, IBI91/1223-RD, gedaan mede namens Onze Ministers van Financiën, van Buitenlandse Zaken en voor Nederlands-Antilliaanse en Arubaanse Zaken;
@@ -26,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. In Nederland aan het Rijk verschuldigde kosten
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een gemeente is aan het Rijk de in[artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.
 
@@ -56,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 4. De in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), vastgelegde kosten zijn niet verschuldigd, indien de spoedlevering door toedoen van de leverancier niet binnen de gestelde periode heeft plaatsgevonden, dan wel de met spoed geleverde reisdocumenten door toedoen van de leverancier niet op de juiste wijze blijken te zijn vervaardigd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister stelt maandelijks het bedrag vast van de kosten die door een gemeente of een openbaar lichaam aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt:
 
@@ -82,13 +104,13 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. In de Nederlandse Antillen en Aruba aan het Rijk verschuldigde kosten
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in [artikel 6, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01) vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
 2. De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Gouverneur stelt maandelijks het bedrag vast van de kosten die door Aruba, Curaçao en Sint Maarten aan het Rijk moeten worden afgedragen. Deze vaststelling geschiedt aan de hand van de in de voorafgaande maand geleverde reisdocumenten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=2&artikel=4&z=2026-01-01&g=2026-01-01), verminderd met de in de voorafgaande maand geleverde reisdocumenten, bedoeld in artikel 4, tweede lid en, indien het in [artikel 2, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=1&artikel=2&z=2026-01-01&g=2026-01-01), bedoelde geval zich heeft voorgedaan, verminderd met een overeenkomstig bedrag, als bedoeld in artikel 2, derde lid, laatste volzin.
 
@@ -100,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. De kosten
 
-#### Artikel 6
+##### Artikel 6
 
 1. De aan het Rijk verschuldigde kosten bedragen:
 
@@ -261,7 +283,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 1. Heffing van rechten in Nederland en buiten het Koninkrijk
 
-#### Artikel 7
+##### Artikel 7
 
 Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) vastgelegde rechten, dan wel tot het verlenen van gehele of gedeeltelijke kwijtschelding daarvan zijn:
 
@@ -273,21 +295,21 @@ Bevoegd tot het heffen van de in [artikel 12](https://wetten.overheid.nl/jci1.3:
 
 - d. Onze Minister van Buitenlandse Zaken.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de aanvrager in het buitenland die woonachtig is in het ressort van de consulaire post waar hij zijn aanvraag indient en niet in staat is anders dan met buitengewoon bezwaar de door hem aan het Rijk verschuldigde rechten geheel of gedeeltelijk te betalen kan geheel of gedeeltelijk kwijtschelding van deze rechten worden verleend.
 
-#### Artikel 9
+##### Artikel 9
 
 Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=26) door Onze Minister van Financiën gestelde regels betreffende de kwijtschelding van rijksbelastingen in de privé-sfeer van overeenkomstige toepassing.
 
-#### Artikel 10
+##### Artikel 10
 
 De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](https://wetten.overheid.nl/jci1.3:c:BWBR0013618&artikel=6)
 
 #### § 2. Heffing van rechten in de Nederlandse Antillen en Aruba
 
-#### Artikel 11
+##### Artikel 11
 
 1. In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=26) door de Gouverneur aangewezen autoriteit is ingediend.
 
@@ -295,7 +317,7 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 
 #### § 3. De rechten
 
-#### Artikel 12
+##### Artikel 12
 
 1. De rechten die ten bate van het Rijk van een aanvrager binnen het Koninkrijk kunnen worden geheven, bedragen:
 
@@ -381,23 +403,23 @@ De vaststelling van de valuta waarin de betaling van de in [artikel 12](https://
 
 4. Het in het eerste lid, onderdeel a, dan wel tweede lid, onderdeel a, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner en bij hen inwonende minderjarige kinderen. Met levenspartner wordt bedoeld degene met wie personen, die bij een Nederlandse vertegenwoordiging zijn tewerkgesteld, samenwonen en – met het oogmerk duurzaam samen te leven – een gemeenschappelijke huishouding voeren op basis van een notarieel verleden samenlevingscontract, dat de wederzijdse rechten en verplichtingen bevat ter zake van die samenwoning en gemeenschappelijke huishouding.
 
-#### Artikel 13
+##### Artikel 13
 
 De in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=III&paragraaf=3&artikel=12&z=2026-01-01&g=2026-01-01) bedoelde rechten worden geheven bij wege van een mondelinge dan wel een gedagtekende schriftelijke kennisgeving.
 
 ### Hoofdstuk IV. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking met ingang van de dag waarop de [Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212) in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit kan worden aangehaald als "Besluit paspoortgelden".
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad**, in het **Publicatieblad** van de Nederlandse Antillen en in het **Afkondigingsblad** van Aruba zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en de Algemene Rekenkamer.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Een openbaar lichaam is aan het Rijk de in [artikel 6, eerste lid, onderdelen a en c](https://wetten.overheid.nl/jci1.3:c:BWBR0005264&hoofdstuk=II&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten.
 

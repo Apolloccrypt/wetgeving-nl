@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot wijziging van vroegere grenstractaten"
 identifier: "BWBV0006057"
-categorie: "Internationaal recht"
-publicatiedatum: 1868-08-31
-laatste_update: 1868-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006057"
+country: "nl"
+rank: "verdrag"
+publication_date: "1868-08-31"
+last_updated: "1868-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006057"
+soort: "verdrag"
+stam_id: "10005005783"
+version_id: "10005326322"
+internal_id: "C10008204881"
+label_id: "10004988824"
+dtd_version: "2.0"
+original_entry_into_force: "1868-08-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006057/1868-08-31/0"
+intitule_bron: "Stb.1868-125"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1868-09-07"
+intitule_published: "1868-09-19"
+intitule_in_force: "1868-09-19"
+intitule_status: "goed"
+original_publication: "Stb.1868-125"
+original_signed_date: "1868-09-07"
+original_published_date: "1868-09-19"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1868-08-31"
+jci_1_3: "jci1.3:c:BWBV0006057&z=1868-08-31&g=1868-08-31"
+jci_1_0: "1.0:c:BWBV0006057&g=1868-08-31"
+citeertitel_status: "redactioneel"
+signed_date: "1868-09-07"
+entry_into_force: "1868-08-31"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Pruisen tot wijziging van vroegere grenstractaten
 
 Uit hoofde eene wijziging der tusschen het voormalige Koningrijk Hannover en het Koningrijk der Nederlanden bestaande grenstractaten noodzakelijk is bevonden en tot dat einde tot gemagtigden benoemd zijn:
@@ -22,19 +46,19 @@ de geheime Regeringsraad SIXT. PHILIPP LOUIS VEZIN te Osnabrück, ridder der Gue
 
 is door genoemde gemagtigden, onder voorbehoud der ratificatie, het volgende verdrag gesloten:
 
-#### Art. 1
+##### Art. 1
 
 Artikel 32 van het grenstractaat van 2 Julij 1824, voor zooverre hetzelve betrekking heeft op het bij overeenkomst van de belanghebbenden van 31 October 1863 te Assen reëel verdeelde compascuum, en de tot gemeld compascuum in betrekking staande artikelen 5, 7 en 8 van het grensverdrag van 11 October 1784 worden ingetrokken.
 
-#### Art. 2
+##### Art. 2
 
 Het in artikel 5 van het grenstractaat van 2 Julij 1824 vervatte verbod, om nader dan 100 Rijnlandsche roeden of 376 Nederlandsche ellen en 7 palmen aan de grenslinie gebouwen op te rigten, gelijk mede de daartoe behoorende latere verklaringen, wordt ter weêrszijden der grenslinie, langs het door de daartoe geregtigden bij overeenkomst van 31 October 1863 verdeelde compascuum, opgeheven onder de bijzondere bepalingen door beide Regeringen vastgesteld.
 
-#### Art. 3
+##### Art. 3
 
 Het in artikel 22 van het grensverdrag van 11 October 1784 vervatte verbod, om op gronden, ter weêrszijden der grenslinie gelegen, vaste zandwegen aan te leggen, wordt opgeheven.
 
-#### Art. 4
+##### Art. 4
 
 Aangezien het niet de bedoeling der Hooge contracterende Partijen is zich in den loop der justitie te mengen, wordt de bepaling, vervat in artikel 18 van het grenstractaat van 11 October 1784, luidende:
 
@@ -42,13 +66,13 @@ Aangezien het niet de bedoeling der Hooge contracterende Partijen is zich in den
 
 opgeheven.
 
-#### Art. 5
+##### Art. 5
 
 De eene Regering verleent aan de andere de bevoegdheid de op haar gebied gelegene gronden van onderdanen van den anderen Staat, welke volgens artikel 17 van het Convenant van 11 October 1784 vrijdom van lasten genieten, overeenkomstig de wetten van hun land te belasten, nadat de schadevergoeding voor de onderdanen, die tot dusverre vrijdom genoten, volgens de daaromtrent getroffene nadere overeenkomsten, vastgesteld en betaald is.
 
 Na afloop van den vrijdom van lasten is artikel 17 van het Convenant van 11 October 1784 opgeheven.
 
-#### Art. 6
+##### Art. 6
 
 Het tegenwoordig verdrag, hetwelk in Hoogduitsche en Nederlandsche talen is opgemaakt, treedt na uitwisseling der ratificatien in werking.
 
@@ -56,11 +80,11 @@ Gedaan te Groningen, den 25sten September 1867.
 
 Bij de op heden plaats gehad hebbende onderteekening van het verdrag tot wijziging van de Hannoversch-Nederlandsche grensverdragen zijn nog de volgende verklaringen en bepalingen in het tegenwoordig slot-protokol opgenomen:
 
-#### § 1. Bij art. 1.
+##### § 1. Bij art. 1.
 
 Door wederzijdsche regeringen wordt aangenomen, dat de bepaling, voorkomende in art. 7 van het grenstractaat van 2 Julij 1824, toepasselijk is op de bij verdrag van 31 October 1863 aan de voormalige Hannoversche, thans Pruissische onderdanen uit het compascuum te beurt gevallen vergoeding.
 
-#### § 2. Bij art. 2.
+##### § 2. Bij art. 2.
 
 De oprigting van gebouwen binnen 100 roeden of 376 Nederlandsche ellen en 7 palmen, aan beide zijden der grenslinie, wordt langs het bij de overeenkomst der belanghebbenden van 31 October 1863 verdeeld compascuum toegestaan onder de volgende bepalingen:
 
@@ -82,11 +106,11 @@ De oprigting van gebouwen binnen 100 roeden of 376 Nederlandsche ellen en 7 palm
 
 - f. mogten andere dan de genoemde voorwerpen in Nederland met accijns belast worden, dan blijven nadere verklaringen omtrent den te houden voorraad voorbehouden.
 
-#### § 3. Bij art. 4.
+##### § 3. Bij art. 4.
 
 Door de overeengekomen bepaling van art. 4 wordt evenmin te kort gedaan aan de verpligting tot publicatie der Staatsverdragen in den voor de onderdanen verbindenden vorm, als aan de verpligting der regterlijke magt om de Staatsverdragen als in regten verbindend te beschouwen.
 
-#### § 4. Bij art. 5.
+##### § 4. Bij art. 5.
 
 1°. De schadevergoeding, welke voor de opheffing van den vrijdom van lasten van de gronden, genoemd in artt. 9 en 15 van het Convenant van 11 October 1784, door de Nederlandsche Regering aan de (eigenaren) Pruissische onderdanen wordt betaald, bedraagt, naar den grondslag der 3 Staten bij het Bentheimer protokol overgelegd, in kapitaal zes duizend een honderd drie en tachtig gulden vijf en zeventig cents Nederlandsch.
 
@@ -102,7 +126,7 @@ De verdeeling en wederuitbetaling aan ieder der deelgeregtigden wordt gedaan doo
 
 6°. De vrijdom van lasten houdt op met het tijdstip der betaling van de schadevergoeding aan de betrokken Regering.
 
-#### § 5
+##### § 5
 
 De in dit protokol vervatte verklaringen en bepalingen hebben gelijke kracht als het verdrag zelve en treden met hetzelve in werking.
 

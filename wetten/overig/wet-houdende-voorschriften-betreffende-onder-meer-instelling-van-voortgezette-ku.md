@@ -1,14 +1,42 @@
 ---
-title: "Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
+title: "Wet van 14 mei 1998, houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
 identifier: "BWBR0009611"
-categorie: "Overig"
-publicatiedatum: 1998-05-20
-laatste_update: 1998-05-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009611"
+country: "nl"
+rank: "wet"
+publication_date: "1998-05-20"
+last_updated: "1998-05-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009611"
+soort: "wet"
+stam_id: "796903"
+version_id: "1155432"
+internal_id: "C1155431"
+label_id: "772034"
+dtd_version: "2.0"
+original_entry_into_force: "1998-05-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009611/1998-05-20/0"
+intitule_bron: "Stb.1998-281"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-14"
+intitule_published: "1998-05-19"
+intitule_in_force: "1998-05-19"
+intitule_status: "goed"
+original_publication: "Stb.1998-281"
+original_signed_date: "1998-05-14"
+original_published_date: "1998-05-19"
+original_effect: "nieuwe-regeling"
+original_dossier: "25770"
+original_url_id: "stb-1998-281"
+entry_into_force_date: "1998-05-20"
+entry_into_force_dossier: "25770"
+jci_1_3: "jci1.3:c:BWBR0009611&z=1998-05-20&g=1998-05-20"
+jci_1_0: "1.0:c:BWBR0009611&g=1998-05-20"
+citeertitel_status: "officieel"
+short_title: "Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999"
+signed_date: "1998-05-14"
+entry_into_force: "1998-05-20"
 ---
-
-# Wet houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999
+# Wet van 14 mei 1998, houdende voorschriften betreffende onder meer instelling van voortgezette kunstopleidingen op het gebied van de muziek met ingang van het studiejaar 1998–1999
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -22,7 +50,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Werkt terug tot en met 15 mei 1998.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze wet wordt verstaan onder: «wet»: de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682);
 
@@ -34,11 +62,11 @@ In deze wet wordt verstaan onder: «wet»: de [Wet op het hoger onderwijs en wet
 
 «opleiding»: een opleiding als bedoeld in [artikel 7.3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005682&artikel=7.3).
 
-#### Artikel 2. Besluitvorming nieuwe voortgezette kunstopleidingen
+##### Artikel 2. Besluitvorming nieuwe voortgezette kunstopleidingen
 
 In afwijking van artikel 6.16, eerste, vierde en vijfde lid, van de wet bestaat met ingang van het studiejaar 1998–1999 ten aanzien van de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009611&bijlage=1&z=1998-05-20&g=1998-05-20) bij deze wet vermelde voortgezette kunstopleidingen, in voorkomende gevallen onder de in die bijlage vermelde voorwaarden, aanspraak op de rechten, genoemd in artikel 1.9, eerste en tweede lid, van de wet.
 
-#### Artikel 3. Registratie nieuwe voortgezette kunstopleidingen m.i.v. 1998–1999
+##### Artikel 3. Registratie nieuwe voortgezette kunstopleidingen m.i.v. 1998–1999
 
 1. In afwijking van artikel 6.16, vijfde lid, van de wet en in afwijking van de termijnbepalingen, bedoeld in de artikelen 6.13, tweede lid, derde volzin, en 6.14, tweede lid, eerste volzin, van de wet registreert de Informatie Beheer Groep de in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0009611&bijlage=1&z=1998-05-20&g=1998-05-20) bij deze wet vermelde voortgezette kunstopleidingen en in voorkomende gevallen de in die bijlage vermelde voorwaarden in het register dat betrekking heeft op het studiejaar 1998–1999, in het onderdeel Taal en cultuur, subonderdeel Voortgezette kunstopleidingen. Artikel 6.13, vierde lid, van de wet is van overeenkomstige toepassing. De registratie geschiedt overeenkomstig de door het instellingsbestuur van de desbetreffende hogeschool verstrekte gegevens.
 
@@ -50,27 +78,27 @@ In afwijking van artikel 6.16, eerste, vierde en vijfde lid, van de wet bestaat 
 
 3. Artikel 6.14, vijfde lid, eerste volzin, van de wet is van overeenkomstige toepassing.
 
-#### Artikel 4. Registratie opleiding hogere informatica HvA buiten gemeente van vestiging m.i.v. 1998–1999
+##### Artikel 4. Registratie opleiding hogere informatica HvA buiten gemeente van vestiging m.i.v. 1998–1999
 
 In afwijking van de termijnbepalingen, bedoeld in de artikelen 6.13, tweede lid, derde volzin, en 6.14, tweede lid, eerste volzin, van de wet neemt de Informatie Beheer Groep van de opleiding hogere informatica die wordt verzorgd door de Hogeschool van Amsterdam, in het register dat betrekking heeft op het studiejaar 1998–1999, het gegeven op dat het onderwijs in deze opleiding tevens wordt gegeven in de gemeente Almere.
 
-#### Artikel 5. Vervallen van afstudeerroutes uit het register 1998–1999
+##### Artikel 5. Vervallen van afstudeerroutes uit het register 1998–1999
 
 De Informatie Beheer Groep verwijdert de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009611&bijlage=2&z=1998-05-20&g=1998-05-20) bij deze wet vermelde afstudeerroutes uit de gegevens, bedoeld in artikel 6.13, vierde lid, onderdeel d, van de wet, zoals opgenomen in het register dat betrekking heeft op het studiejaar 1998–1999.
 
-#### Artikel 6. Voltooiing afstudeerroute
+##### Artikel 6. Voltooiing afstudeerroute
 
 Studenten die in het studiejaar 1997–1998 aan een hogeschool binnen een opleiding als vermeld in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009611&bijlage=2&z=1998-05-20&g=1998-05-20) bij deze wet een afstudeerroute volgen, worden in de gelegenheid gesteld deze afstudeerroute aan die hogeschool binnen een redelijke termijn te voltooien.
 
-#### Artikel 7. Bekendmaking wijzigingen in het register m.i.v. 1998–1999
+##### Artikel 7. Bekendmaking wijzigingen in het register m.i.v. 1998–1999
 
 De uit deze wet voortvloeiende wijzigingen in het register dat op het studiejaar 1998–1999 betrekking heeft, worden door de Informatie Beheer Groep bekendgemaakt voor 1 juli 1998. Van deze bekendmaking wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 8. Wijzigingen van de wet HOOP-maatregelen 1996
+##### Artikel 8. Wijzigingen van de wet HOOP-maatregelen 1996
 
 Wijzigt het voorstel van wet houdende wijziging van onder meer de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen (Kamerstukken I, 1997/98, 25 370).
 
-#### Artikel 9. Inwerkingtreding
+##### Artikel 9. Inwerkingtreding
 
 Deze wet treedt in werking met ingang van 15 mei 1998. Indien het Staatsblad waarin deze wet wordt gepubliceerd wordt uitgegeven na 14 mei 1998 treedt deze wet in werking op de dag na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst en werkt terug tot en met 15 mei 1998.
 

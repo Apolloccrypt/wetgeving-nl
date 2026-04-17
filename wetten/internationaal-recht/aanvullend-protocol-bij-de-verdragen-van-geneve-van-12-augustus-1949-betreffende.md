@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949, betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I)"
 identifier: "BWBV0004091"
-categorie: "Internationaal recht"
-publicatiedatum: 1994-03-01
-laatste_update: 1994-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004091"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-03-01"
+last_updated: "1994-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004091"
+soort: "verdrag"
+stam_id: "10003911703"
+version_id: "10004032072"
+internal_id: "C10006981891"
+label_id: "10003897844"
+dtd_version: "2.0"
+original_entry_into_force: "1987-12-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004091/1994-03-01/0"
+intitule_bron: "Trb.1978-41"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-04-07"
+intitule_in_force: "1987-07-06"
+intitule_status: "goed"
+original_publication: "Trb.1978-41"
+original_published_date: "1978-04-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-41"
+entry_into_force_date: "1987-12-26"
+jci_1_3: "jci1.3:c:BWBV0004091&z=1994-03-01&g=1994-03-01"
+jci_1_0: "1.0:c:BWBV0004091&g=1994-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1987-12-26"
 ---
-
 # Aanvullend Protocol bij de Verdragen van Genève van 12 augustus 1949, betreffende de bescherming van de slachtoffers van internationale gewapende conflicten (Protocol I)
 
 PREAMBULE
@@ -28,7 +50,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Algemene beginselen en toepassingsgebied
+##### Artikel 1. Algemene beginselen en toepassingsgebied
 
 1. De Hoge Verdragsluitende Partijen verbinden zich, dit Protocol onder alle omstandigheden te eerbiedigen en te doen eerbiedigen.
 
@@ -38,7 +60,7 @@ Zijn het volgende overeengekomen:
 
 4. De situaties, bedoeld in het voorgaande lid, omvatten mede gewapende conflicten waarin volkeren vechten tegen koloniale overheersing en vreemde bezetting en tegen racistische regimes, in de uitoefening van hun recht op zelfbeschikking zoals neergelegd in het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en in de Verklaring betreffende de beginselen van het volkenrecht inzake vriendschappelijke betrekkingen en samenwerking tussen de Staten overeenkomstig het Handvest van de Verenigde Naties.
 
-#### Artikel 2. Definities
+##### Artikel 2. Definities
 
 Voor de toepassing van dit Protocol:
 
@@ -50,7 +72,7 @@ Voor de toepassing van dit Protocol:
 
 - (d). betekent „plaatsvervanger”: een organisatie, optredend in de plaats van een beschermende mogendheid overeenkomstig artikel 5.
 
-#### Artikel 3. Aanvang en einde van de toepassing
+##### Artikel 3. Aanvang en einde van de toepassing
 
 Onverminderd de bepalingen die te allen tijde van toepassing zijn:
 
@@ -58,11 +80,11 @@ Onverminderd de bepalingen die te allen tijde van toepassing zijn:
 
 - (b). neemt de toepassing van de Verdragen en van dit Protocol op het grondgebied van de partijen bij het conflict een einde bij de algemene beëindiging van de militaire operaties en, in het geval van bezette gebieden, bij de beëindiging van de bezetting, behalve in beide gevallen voor die personen wier definitieve invrijheidstelling, repatriëring of nieuwe vestiging daarna plaatsvindt. Deze personen blijven de voordelen van de desbetreffende bepalingen van de Verdragen en dit Protocol genieten tot hun definitieve invrijheidstelling, repatriëring of nieuwe vestiging.
 
-#### Artikel 4. Juridische status van de partijen bij het conflict
+##### Artikel 4. Juridische status van de partijen bij het conflict
 
 De toepassing van de Verdragen en dit Protocol, alsook het sluiten van de overeenkomsten die daarin zijn voorzien, zijn niet van invloed op de juridische status van de partijen bij het conflict. Noch de bezetting van een gebied, noch de toepassing van de Verdragen en dit Protocol zijn van invloed op de juridische status van het desbetreffende gebied.
 
-#### Artikel 5. Aanwijzing van beschermende mogendheden en van hun plaatsvervangers
+##### Artikel 5. Aanwijzing van beschermende mogendheden en van hun plaatsvervangers
 
 1. Het is de plicht van de partijen bij een conflict, om vanaf de aanvang van dat conflict de nakoming en de uitvoering van de Verdragen en dit Protocol te verzekeren door middel van toepassing van het stelsel van beschermende mogendheden, dat onder andere aanwijzing en aanvaarding van die mogendheden inhoudt overeenkomstig de volgende leden. De beschermende mogendheden zijn belast met het beschermen van de belangen van de partijen bij het conflict.
 
@@ -78,7 +100,7 @@ De toepassing van de Verdragen en dit Protocol, alsook het sluiten van de overee
 
 7. Iedere navolgende vermelding in dit Protocol van een beschermende mogendheid omvat mede een plaatsvervanger.
 
-#### Artikel 6. Deskundige personen
+##### Artikel 6. Deskundige personen
 
 1. De Hoge Verdragsluitende Partijen streven er ook in vredestijd naar met de hulp van nationale Rode Kruis (Rode Halve Maan, Rode Leeuw en Zon)-organisaties, deskundig personeel op te leiden om de toepassing van de Verdragen en dit Protocol en in het bijzonder de werkzaamheden van de beschermende mogendheden te vergemakkelijken.
 
@@ -88,7 +110,7 @@ De toepassing van de Verdragen en dit Protocol, alsook het sluiten van de overee
 
 4. De voorwaarden, waaraan de tewerkstelling van zodanig personeel buiten nationaal grondgebied is onderworpen, vormen per geval onderwerp van bijzondere overeenkomsten tussen de betrokken partijen.
 
-#### Artikel 7. Bijeenkomsten
+##### Artikel 7. Bijeenkomsten
 
 De depositaris van dit Protocol roept een bijeenkomst van de Hoge Verdragsluitende Partijen bijeen op verzoek van één of meer van die partijen en met de instemming van de meerderheid van die partijen, ten einde algemene problemen betreffende de toepassing van de Verdragen en dit Protocol te bestuderen.
 
@@ -96,7 +118,7 @@ De depositaris van dit Protocol roept een bijeenkomst van de Hoge Verdragsluiten
 
 ### SECTIE I. ALGEMENE BESCHERMING
 
-#### Artikel 8. Terminologie
+##### Artikel 8. Terminologie
 
 Voor de toepassing van dit Protocol:
 
@@ -140,7 +162,7 @@ Voor de toepassing van dit Protocol:
 
 - (m). betekent „herkenningssein”: ieder sein of iedere mededeling, in Hoofdstuk III van de Bijlage bij dit Protocol omschreven en uitsluitend bestemd voor de identificatie van medische formaties of vervoermiddelen.
 
-#### Artikel 9. Toepassingsgebied
+##### Artikel 9. Toepassingsgebied
 
 1. Dit Deel, waarvan de bepalingen zijn bedoeld om de toestand van de gewonden, zieken en schipbreukelingen te verbeteren, is van toepassing op allen die zich in een situatie bevinden als bedoeld in artikel 1, zonder enig nadelig onderscheid gebaseerd op ras, huidskleur, geslacht, taal, godsdienst of geloof, politieke of andere overtuiging, nationale of maatschappelijke afkomst, rijkdom, geboorte of andere status, of op enig ander soortgelijk criterium.
 
@@ -152,13 +174,13 @@ Voor de toepassing van dit Protocol:
 
 - (c). door een onpartijdige internationale humanitaire organisatie.
 
-#### Artikel 10. Bescherming en verzorging
+##### Artikel 10. Bescherming en verzorging
 
 1. Alle gewonden, zieken en schipbreukelingen, tot welke partij zij ook behoren, dienen te worden ontzien en beschermd.
 
 2. Zij moeten onder alle omstandigheden menselijk worden behandeld en in de grootst mogelijke omvang en binnen de kortst mogelijke tijd de medische verzorging en aandacht ontvangen, die hun toestand vereist. Er mag op geen andere dan op medische gronden onderscheid tussen hen worden gemaakt.
 
-#### Artikel 11. Bescherming van personen
+##### Artikel 11. Bescherming van personen
 
 1. De lichamelijke en geestelijke gezondheid en integriteit van personen die zich in de macht van de tegenpartij bevinden of die zijn geïnterneerd, die gevangen worden gehouden of op andere wijze van hun vrijheid zijn beroofd ten gevolge van een situatie als bedoeld in artikel 1, mogen niet door enig ongerechtvaardigd handelen of nalaten in gevaar worden gebracht. Dientengevolge is het verboden de personen, bedoeld in dit artikel, te onderwerpen aan medische handelingen die niet noodzakelijk zijn als gevolg van de gezondheidstoestand van de betrokken persoon en die niet in overeenstemming zijn met de algemeen aanvaarde medische normen welke onder gelijke medische omstandigheden zouden worden toegepast ten aanzien van personen die onderdaan zijn van de voor de handelingen verantwoordelijke partij en die op geen enkele wijze van hun vrijheid zijn beroofd.
 
@@ -178,7 +200,7 @@ Voor de toepassing van dit Protocol:
 
 6. Iedere partij bij het conflict moet een medisch register bijhouden van alle gevallen van het afstaan van bloed voor transfusie of huid voor transplantatie door personen, bedoeld in het eerste lid, indien die afstand geschiedt onder verantwoordelijkheid van die partij. Bovendien dient iedere partij bij het conflict te trachten een register bij te houden van alle medische handelingen, uitgevoerd met betrekking tot iedere persoon die is geïnterneerd, die gevangen wordt gehouden of op andere wijze van zijn vrijheid is beroofd ten gevolge van een situatie als bedoeld in artikel 1. Deze registers dienen te allen tijde voor onderzoek door de beschermende mogendheid beschikbaar te zijn.
 
-#### Artikel 12. Bescherming van medische formaties
+##### Artikel 12. Bescherming van medische formaties
 
 1. Medische formaties dienen te allen tijde te worden ontzien en beschermd en mogen niet worden aangevallen.
 
@@ -194,7 +216,7 @@ Voor de toepassing van dit Protocol:
 
 4. Onder geen enkele omstandigheid mogen medische formaties worden gebruikt om te trachten militaire objecten tegen aanvallen te beschermen. De partijen bij het conflict dienen er, zo mogelijk, zorg voor te dragen dat de medische formaties zich op zodanige plaatsen bevinden, dat aanvallen op militaire objecten hun veiligheid niet in gevaar brengen.
 
-#### Artikel 13. Beëindiging van de bescherming van burgerlijke medische formaties
+##### Artikel 13. Beëindiging van de bescherming van burgerlijke medische formaties
 
 1. De bescherming waarop de burgerlijke medische formaties recht hebben eindigt alleen wanneer deze worden gebruikt om buiten hun humanitaire taak voor de vijand schadelijke handelingen te verrichten. De bescherming eindigt evenwel slechts nadat een waarschuwing is gegeven waarin, telkens wanneer daartoe aanleiding is, een redelijke termijn wordt gesteld, en nadat aan die waarschuwing geen gevolg is gegeven.
 
@@ -208,7 +230,7 @@ Voor de toepassing van dit Protocol:
 
 - (d). het feit dat leden van de strijdkrachten of andere combattanten zich om medische redenen bij de formatie bevinden.
 
-#### Artikel 14. Beperkingen op het vorderen van burgerlijke medische formaties
+##### Artikel 14. Beperkingen op het vorderen van burgerlijke medische formaties
 
 1. De bezettende mogendheid heeft de plicht te verzekeren, dat onafgebroken kan worden voorzien in de medische behoeften van de burgerbevolking in bezet gebied.
 
@@ -222,7 +244,7 @@ Voor de toepassing van dit Protocol:
 
 - (c). dat onmiddellijk maatregelen worden genomen om te verzekeren dat onafgebroken kan worden voorzien in de medische behoeften van de burgerbevolking, evenals in die van de gewonden en zieken onder behandeling die door de vordering worden getroffen.
 
-#### Artikel 15. Bescherming van burgerlijk medisch personeel en geestelijke verzorgers
+##### Artikel 15. Bescherming van burgerlijk medisch personeel en geestelijke verzorgers
 
 1. Burgerlijk medisch personeel dient te worden ontzien en beschermd.
 
@@ -234,7 +256,7 @@ Voor de toepassing van dit Protocol:
 
 5. Burgerlijke geestelijke verzorgers dienen te worden ontzien en beschermd. De bepalingen van de Verdragen en dit Protocol betreffende de bescherming en de herkenbaarheid van het medisch personeel zijn gelijkelijk op hen van toepassing.
 
-#### Artikel 16. Algemene bescherming van de medische taakvervulling
+##### Artikel 16. Algemene bescherming van de medische taakvervulling
 
 1. Niemand mag, onder welke omstandigheden ook, worden gestraft voor het uitvoeren van medische behandelingen die met de medische ethiek in overeenstemming zijn, ongeacht degenen aan wie deze handelingen ten goede komen.
 
@@ -242,13 +264,13 @@ Voor de toepassing van dit Protocol:
 
 3. Niemand die medische handelingen uitvoert, mag worden verplicht, aan iemand die behoort tot een tegenpartij of tot zijn eigen partij, behalve voor zover dat door de wetgeving van de laatstbedoelde partij wordt vereist, inlichtingen te verstrekken betreffende de gewonden en zieken die hij verzorgt of heeft verzorgd, indien deze inlichtingen naar zijn oordeel schadelijk zouden kunnen zijn voor de desbetreffende patiënten of hun families. De voorschriften inzake de verplichte melding van besmettelijke ziekten dienen evenwel in acht te worden genomen.
 
-#### Artikel 17. Rol van de burgerbevolking en van de verenigingen tot hulpverlening
+##### Artikel 17. Rol van de burgerbevolking en van de verenigingen tot hulpverlening
 
 1. De burgerbevolking dient de gewonden, zieken en schipbreukelingen te ontzien, zelfs indien deze tot de tegenpartij behoren, en mag geen gewelddaden tegen hen begaan. Aan de burgerbevolking en de verenigingen tot hulpverlening, zoals nationale Rode Kruis (Rode Halve Maan, Rode Leeuw en Zon)-organisaties, is het toegestaan, zelfs eigener beweging de gewonden, zieken en schipbreukelingen te verzamelen en te verzorgen, zelfs in gebieden waar een inval heeft plaatsgevonden of die zijn bezet. Niemand mag worden gedeerd, vervolgd, veroordeeld of gestraft voor dergelijke humanitaire handelingen.
 
 2. De partijen bij het conflict kunnen een beroep doen op de burgerbevolking en de verenigingen tot hulpverlening, bedoeld in het eerste lid, de gewonden, zieken en schipbreukelingen te verzamelen en te verzorgen, naar de doden te zoeken en de plaats waar deze zich bevinden te melden; de partijen dienen zowel bescherming als de noodzakelijke faciliteiten te verlenen aan diegenen die aan dit beroep gevolg hebben gegeven. Indien de tegenpartij het gebied in haar macht mocht krijgen, of wederom in haar macht mocht krijgen, moet zij deze bescherming en faciliteiten blijven verlenen zolang zij noodzakelijk zijn.
 
-#### Artikel 18. Identificatie
+##### Artikel 18. Identificatie
 
 1. Iedere partij bij het conflict moet de herkenbaarheid trachten te verzekeren van het medische personeel, de geestelijke verzorgers en de medische formaties en transporten.
 
@@ -266,21 +288,21 @@ Voor de toepassing van dit Protocol:
 
 8. De bepalingen van de Verdragen en het Protocol betreffende het toezicht op het gebruik van het kenteken en betreffende het voorkomen en het tegengaan van enig misbruik daarvan zijn van toepassing op herkenningsseinen.
 
-#### Artikel 19. Neutrale Staten en andere Staten die geen partij zijn bij het conflict
+##### Artikel 19. Neutrale Staten en andere Staten die geen partij zijn bij het conflict
 
 Neutrale Staten en andere Staten die geen partij zijn bij het conflict dienen de desbetreffende bepalingen van dit Protocol toe te passen ten aanzien van de personen die door dit Deel worden beschermd en die op hun grondgebied mochten worden toegelaten of geïnterneerd, alsmede op alle doden van de partijen bij het conflict die zij mochten vinden.
 
-#### Artikel 20. Verbod van represailles
+##### Artikel 20. Verbod van represailles
 
 Represailles tegen personen en goederen, die door dit Deel worden beschermd, zijn verboden.
 
 ### SECTIE II. MEDISCH VERVOER
 
-#### Artikel 21. Medische voertuigen
+##### Artikel 21. Medische voertuigen
 
 Medische voertuigen dienen te worden ontzien en beschermd op dezelfde wijze als mobiele medische formaties krachtens de Verdragen en dit Protocol.
 
-#### Artikel 22. Hospitaalschepen en kustreddingboten
+##### Artikel 22. Hospitaalschepen en kustreddingboten
 
 1. De bepalingen van de Verdragen betreffende:
 
@@ -302,7 +324,7 @@ zijn eveneens van toepassing wanneer die vaartuigen burgers vervoeren die gewond
 
 3. Kleine vaartuigen, omschreven in [artikel 27 van het Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410&artikel=27), dienen te worden beschermd, zelfs indien de in dat artikel bedoelde kennisgeving niet is gedaan. De partijen bij het conflict worden evenwel uitgenodigd, elkaar van alle bijzonderheden met betrekking tot die vaartuigen in kennis te stellen, ten einde de identificatie en de herkenning daarvan te vergemakkelijken.
 
-#### Artikel 23. Andere medische schepen en vaartuigen
+##### Artikel 23. Andere medische schepen en vaartuigen
 
 1. Medische schepen en vaartuigen die niet zijn schepen en vaartuigen, bedoeld in artikel 22 van dit Protocol en [artikel 38 van het Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410&artikel=38) dienen, hetzij op zee of in andere wateren, te worden ontzien en beschermd op dezelfde wijze als de mobiele medische formaties krachtens de Verdragen en dit Protocol. Deze schepen dienen, daar de bovengenoemde bescherming slechts kan worden verwezenlijkt indien zij kunnen worden geïdentificeerd en herkend als medische schepen of vaartuigen, te zijn voorzien van het kenteken, en zoveel mogelijk te voldoen aan het bepaalde in [artikel 43, tweede lid, van het Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410&artikel=43).
 
@@ -316,27 +338,27 @@ zijn eveneens van toepassing wanneer die vaartuigen burgers vervoeren die gewond
 
 6. De bepalingen van het [Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410) zijn van toepassing op de gewonden, zieken en schipbreukelingen, die behoren tot de categorieën bedoeld in [artikel 13 van het Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410&artikel=13) en artikel 44 van dit Protocol, en die zich aan boord van dergelijke schepen en vaartuigen mochten bevinden. De burgers die gewond, ziek of schipbreukeling zijn en niet behoren tot een van de categorieën, vermeld in artikel 13 van het Tweede Verdrag, kunnen op zee niet worden overgedragen aan een partij die niet hun eigen partij is, noch kunnen zij van dergelijke schepen of vaartuigen worden verwijderd; indien zij zich in de macht bevinden van een andere partij bij het conflict dan hun eigen partij, zijn het [Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569) en dit Protocol op hen van toepassing.
 
-#### Artikel 24. Bescherming van medische luchtvaartuigen
+##### Artikel 24. Bescherming van medische luchtvaartuigen
 
 Medische luchtvaartuigen dienen te worden ontzien en beschermd overeenkomstig de bepalingen van dit Deel.
 
-#### Artikel 25. Medische luchtvaartuigen in gebieden die niet door een tegenpartij worden beheerst
+##### Artikel 25. Medische luchtvaartuigen in gebieden die niet door een tegenpartij worden beheerst
 
 In landgebieden die daadwerkelijk door bevriende strijdkrachten worden beheerst en in het luchtruim daarboven, of in zeegebieden die niet daadwerkelijk door een tegenpartij worden beheerst en in het luchtruim daarboven, is voor het ontzien en de bescherming van de medische luchtvaartuigen van een partij bij het conflict geen enkele overeenkomst met een tegenpartij vereist. Een partij bij het conflict die in deze gebieden van haar medische luchtvaartuigen gebruik maakt kan evenwel, met het oog op een grotere veiligheid, een kennisgeving als voorzien in artikel 29 tot de tegenpartij richten, in het bijzonder wanneer die luchtvaartuigen vluchten uitvoeren die hen binnen het bereik brengen van grond-lucht-wapensystemen van de tegenpartij.
 
-#### Artikel 26. Medische luchtvaartuigen in contact-zones of soortgelijke zones
+##### Artikel 26. Medische luchtvaartuigen in contact-zones of soortgelijke zones
 
 1. In die delen van de contact-zone die daadwerkelijk door bevriende strijdkrachten worden beheerst en in het luchtruim daarboven, en in die gebieden die niet duidelijk daadwerkelijk door een bepaalde partij worden beheerst en in het luchtruim daarboven, kan de bescherming van de medische luchtvaartuigen slechts volkomen doeltreffend plaatsvinden krachtens een voorafgaande overeenstemming tussen de bevoegde militaire autoriteiten van de partijen bij het conflict, als voorzien in artikel 29. Ofschoon bij afwezigheid van een dergelijke overeenstemming de medische luchtvaartuigen hun werkzaamheden op eigen risico verrichten, moeten zij worden ontzien wanneer zij als zodanig zijn herkend.
 
 2. „Contact-zone” betekent: ieder landgebied waar de vooruitgeschoven onderdelen van de tegenover elkaar staande strijdkrachten contact hebben gemaakt, in het bijzonder waar zij zijn blootgesteld aan rechtstreeks vuur vanaf de grond.
 
-#### Artikel 27. Medische luchtvaartuigen in gebieden die worden beheerst door een tegenpartij
+##### Artikel 27. Medische luchtvaartuigen in gebieden die worden beheerst door een tegenpartij
 
 1. De medische luchtvaartuigen van een partij bij het conflict blijven beschermd, wanneer zij over land- of zeegebieden vliegen, die daadwerkelijk worden beheerst door een tegenpartij, mits van de bevoegde autoriteit van die tegenpartij van te voren toestemming voor die vluchten is verkregen.
 
 2. Een medisch luchtvaartuig dat over een gebied vliegt dat daadwerkelijk door een tegenpartij wordt beheerst, zonder de in het eerste lid voorziene toestemming of in afwijking van de voorwaarden, verbonden aan een dergelijke toestemming hetzij door een navigatiefout of ten gevolge van een noodtoestand die de veiligheid van de vlucht in gevaar brengt, dient alles in het werk te stellen om zich te identificeren en de tegenpartij van de omstandigheden in kennis te stellen. Zodra een zodanig medisch luchtvaartuig door de tegenpartij is herkend, dient die partij in redelijkheid alles in het werk te stellen om het bevel tot landen op het land of op het water, als bedoeld in artikel 30, te geven, of om andere maatregelen ter bescherming van haar eigen veiligheid te nemen, en in beide gevallen het luchtvaartuig tijd te geven aan dat bevel te voldoen of zich naar die maatregelen te gedragen, alvorens tot een aanval tegen het luchtvaartuig over te gaan.
 
-#### Artikel 28. Beperkingen op het gebruik van medische luchtvaartuigen
+##### Artikel 28. Beperkingen op het gebruik van medische luchtvaartuigen
 
 1. Het is de partijen bij het conflict verboden, hun medische luchtvaartuigen te gebruiken om enig voordeel over een tegenpartij te behalen. De aanwezigheid van medische luchtvaartuigen mag niet worden gebruikt om te trachten militaire doelen voor aanvallen te vrijwaren.
 
@@ -346,7 +368,7 @@ In landgebieden die daadwerkelijk door bevriende strijdkrachten worden beheerst 
 
 4. De medische luchtvaartuigen mogen, wanneer zij de vluchten, bedoeld in de artikelen 26 en 27 uitvoeren, niet worden gebruikt om naar gewonden, zieken en schipbreukelingen te zoeken, zonder dat daarover van te voren overeenstemming met de tegenpartij is bereikt.
 
-#### Artikel 29. Kennisgevingen en afspraken inzake medische luchtvaartuigen
+##### Artikel 29. Kennisgevingen en afspraken inzake medische luchtvaartuigen
 
 1. De kennisgevingen krachtens artikel 25, of de verzoeken om voorafgaande overeenstemming krachtens de artikelen 26, 27, 28, vierde lid, of 31, moeten het aantal medische luchtvaartuigen dat men voornemens is te gebruiken, het vluchtplan en de middelen ter identificatie aangeven en worden geacht in te houden, dat elke vlucht zal worden uitgevoerd met inachtneming van artikel 28.
 
@@ -364,7 +386,7 @@ In landgebieden die daadwerkelijk door bevriende strijdkrachten worden beheerst 
 
 5. De partijen moeten eveneens de nodige maatregelen nemen om hetgeen die kennisgevingen en die afspraken behelzen snel aan de betrokken militaire formaties bekend te maken en moeten die formaties inlichtingen verstrekken inzake de middelen ter identificatie, die door de desbetreffende medische luchtvaartuigen zullen worden gebruikt.
 
-#### Artikel 30. Landen en inspectie van medische luchtvaartuigen
+##### Artikel 30. Landen en inspectie van medische luchtvaartuigen
 
 1. Medische luchtvaartuigen die vliegen boven gebieden die daadwerkelijk worden beheerst door een tegenpartij, of boven gebieden die niet duidelijk daadwerkelijk door een bepaalde partij worden beheerst, kunnen het bevel ontvangen te landen naar gelang van de omstandigheden, op het land of op het water, ten einde inspectie overeenkomstig de navolgende leden mogelijk te maken. De medische luchtvaartuigen moeten ieder zodanig bevel opvolgen.
 
@@ -390,7 +412,7 @@ moet aan het luchtvaartuig en aan de inzittenden die behoren tot de tegenpartij 
 
 kan het luchtvaartuig worden opgebracht. De inzittenden dienen te worden behandeld overeenkomstig de desbetreffende bepalingen van de Verdragen en dit Protocol. Ieder opgebracht luchtvaartuig dat was aangewezen als permanent medisch luchtvaartuig mag daarna uitsluitend als medisch luchtvaartuig worden gebruikt.
 
-#### Artikel 31. Neutrale Staten of andere Staten die geen partij zijn bij het conflict
+##### Artikel 31. Neutrale Staten of andere Staten die geen partij zijn bij het conflict
 
 1. Medische luchtvaartuigen mogen, behalve krachtens een voorafgaande overeenstemming, niet vliegen over of landen op het grondgebied van een neutrale Staat of een andere Staat die geen partij is bij het conflict. Indien een zodanige overeenstemming bestaat, dienen zij evenwel te worden ontzien gedurende hun gehele vlucht en eveneens gedurende een eventuele landing op dat grondgebied. Niettemin moeten zij ieder bevel tot landen op het land of op het water, naar gelang van de omstandigheden, opvolgen.
 
@@ -404,11 +426,11 @@ kan het luchtvaartuig worden opgebracht. De inzittenden dienen te worden behande
 
 ### SECTIE III. VERMISTEN EN DODEN
 
-#### Artikel 32. Algemeen beginsel
+##### Artikel 32. Algemeen beginsel
 
 Bij de uitvoering van deze Sectie zullen de werkzaamheden van de Hoge Verdragsluitende Partijen, de partijen bij het conflict en de internationale humanitaire organisaties, vermeld in de Verdragen en dit Protocol voornamelijk worden ingegeven door het recht van families, kennis te nemen van het lot van verwanten.
 
-#### Artikel 33. Vermisten
+##### Artikel 33. Vermisten
 
 1. Zodra de omstandigheden zulks toelaten, en uiterlijk onmiddellijk na het einde van de daadwerkelijke vijandelijkheden, dient iedere partij bij het conflict naar de personen die door een tegenpartij als vermist zijn opgegeven, te zoeken. Die partij dient alle ter zake dienende gegevens betreffende die personen door te geven ten einde het zoeken te vergemakkelijken.
 
@@ -422,7 +444,7 @@ Bij de uitvoering van deze Sectie zullen de werkzaamheden van de Hoge Verdragslu
 
 4. De partijen bij het conflict dienen ernaar te streven, tot overeenstemming te geraken over regelingen, waardoor het ploegen mogelijk wordt gemaakt naar de doden te zoeken, deze te identificeren en uit gebieden waar gevechten hebben plaatsgevonden weg te halen, met inbegrip van regelingen waardoor het, indien wenselijk, mogelijk wordt gemaakt dat die ploegen worden vergezeld door personeel van de tegenpartij wanneer zij hun taak vervullen in gebieden die door de tegenpartij worden beheerst. Het personeel van die ploegendienst dient, wanneer het uitsluitend de genoemde functie vervult, te worden ontzien en beschermd.
 
-#### Artikel 34. Stoffelijke overschotten
+##### Artikel 34. Stoffelijke overschotten
 
 1. Het stoffelijk overschot van personen die zijn overleden door oorzaken verband houdende met een bezetting, of die zijn overleden tijdens gevangenhouding voortkomend uit een bezetting of uit vijandelijkheden, alsook het stoffelijk overschot van personen die geen onderdaan zijn van het land waar zij zijn overleden ten gevolge van vijandelijkheden, dienen te worden ontzien, en het graf van alle zodanige personen dient te worden ontzien, onderhouden en aangeduid, als bepaald in [artikel 130 van het Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=130), wanneer het stoffelijk overschot of graf geen gunstiger behandeling krachtens de Verdragen en dit Protocol mocht ontvangen.
 
@@ -446,7 +468,7 @@ Bij de uitvoering van deze Sectie zullen de werkzaamheden van de Hoge Verdragslu
 
 ### SECTIE I. METHODEN EN MIDDELEN VAN OORLOGVOERING
 
-#### Artikel 35. Grondregels
+##### Artikel 35. Grondregels
 
 1. In geen enkel gewapend conflict is het recht van de partijen bij het conflict ten aanzien van de keuze der methoden of middelen van oorlogvoering onbegrensd.
 
@@ -454,11 +476,11 @@ Bij de uitvoering van deze Sectie zullen de werkzaamheden van de Hoge Verdragslu
 
 3. Het is verboden, methoden of middelen van oorlogvoering te gebruiken, bestemd om omvangrijke, langdurige en ernstige schade aan het natuurlijk milieu toe te brengen, of die dergelijke schade, naar kan worden verwacht, zullen toebrengen.
 
-#### Artikel 36. Nieuwe wapens
+##### Artikel 36. Nieuwe wapens
 
 Op een Hoge Verdragsluitende Partij rust bij de bestudering, ontwikkeling, aanschaf of invoering van een nieuw wapen, een nieuw middel of een nieuwe methode van oorlogvoering de verplichting, vast te stellen of het gebruik daarvan, in bepaalde of in alle omstandigheden, door dit Protocol of door enige andere regel van het ten aanzien van de Hoge Verdragsluitende Partij toepasselijke volkenrecht is verboden.
 
-#### Artikel 37. Verbod van perfidie
+##### Artikel 37. Verbod van perfidie
 
 1. Het is verboden een tegenstander te doden, te verwonden of gevangen te nemen door middel van perfidie. Gedragingen die het vertrouwen wekken bij een tegenstander ten einde deze te doen geloven dat hij gerechtigd is tot bescherming krachtens de regels van het volkenrecht toepasselijk in geval van gewapende conflicten of dat hij verplicht is zodanige bescherming te verlenen, met de bedoeling dat vertrouwen te misbruiken, leveren perfidie op. Voorbeelden van perfidie zijn:
 
@@ -472,13 +494,13 @@ Op een Hoge Verdragsluitende Partij rust bij de bestudering, ontwikkeling, aansc
 
 2. Krijgslisten zijn niet verboden. Dergelijke listen zijn gedragingen die zijn bedoeld om een tegenstander te misleiden of hem er toe te bewegen roekeloos te handelen, maar die geen regels van het volkenrecht, toepasselijk in geval van gewapende conflicten schenden, en die niet verraderlijk zijn doordat niet wordt getracht het vertrouwen van een tegenstander te wekken met betrekking tot bescherming krachtens dat recht. Voorbeelden van krijgslisten zijn: het gebruik van camouflage, lokmiddelen, schijnoperaties en onjuiste inlichtingen.
 
-#### Artikel 38. Erkende kentekenen
+##### Artikel 38. Erkende kentekenen
 
 1. Het is verboden ongepast gebruik te maken van het kenteken van het Rode Kruis, de Rode Halve Maan of de Rode Leeuw en Zon, of van andere kentekenen, tekens of seinen, als voorzien in de Verdragen of dit Protocol. Het is eveneens verboden, in een gewapend conflict opzettelijk misbruik te maken van andere internationaal erkende beschermende kentekenen, tekens of seinen, daaronder begrepen de parlementaire vlag en het beschermende kenteken van culturele goederen.
 
 2. Het is verboden gebruik te maken van het kenteken van de Verenigde Naties, behalve wanneer het gebruik door die Organisatie is toegestaan.
 
-#### Artikel 39. Nationaliteitskenteken
+##### Artikel 39. Nationaliteitskenteken
 
 1. Het is verboden in een gewapend conflict gebruik te maken van de vlaggen of de militaire kentekenen, onderscheidingstekens of uniformen van neutrale Staten of andere Staten die geen partij zijn bij het conflict.
 
@@ -486,11 +508,11 @@ Op een Hoge Verdragsluitende Partij rust bij de bestudering, ontwikkeling, aansc
 
 3. Geen enkele bepaling van dit artikel of van artikel 37, eerste lid, letter d, vormt een aantasting van de bestaande, algemeen erkende regels van het volkenrecht, toepasselijk in geval van spionage of het gebruik van vlaggen tijdens gewapende conflicten op zee.
 
-#### Artikel 40. Kwartier
+##### Artikel 40. Kwartier
 
 Het is verboden het bevel te geven dat niemand mag overleven, een tegenstander daarmee te dreigen of op die grondslag de vijandelijkheden te bedrijven.
 
-#### Artikel 41. Bescherming van een vijand buiten gevecht
+##### Artikel 41. Bescherming van een vijand buiten gevecht
 
 1. Een persoon die, naar wordt onderkend, of in de gegeven omstandigheden zou moeten worden onderkend, buiten gevecht verkeert, mag niet het doelwit van een aanval worden gemaakt.
 
@@ -506,7 +528,7 @@ mits hij zich in alle genoemde gevallen onthoudt van iedere vijandelijke handeli
 
 3. Wanneer personen die aanspraak kunnen maken op bescherming als krijgsgevangene, in handen van een tegenpartij zijn gevallen onder ongebruikelijke gevechtsomstandigheden die hun evacuatie, als geregeld in [Deel III, Sectie I, van het Derde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005584&afdeling=I) verhinderen, dienen zij te worden vrijgelaten en dienen alle voorzorgen die praktisch uitvoerbaar zijn te worden getroffen om hun veiligheid te waarborgen.
 
-#### Artikel 42. Inzittenden van luchtvaartuigen
+##### Artikel 42. Inzittenden van luchtvaartuigen
 
 1. Niemand die met een parachute uit een vliegtuig in nood springt, mag gedurende zijn neerdaling het doelwit van een aanval worden gemaakt.
 
@@ -516,7 +538,7 @@ mits hij zich in alle genoemde gevallen onthoudt van iedere vijandelijke handeli
 
 ### SECTIE II. DE STATUS VAN COMBATTANT EN VAN KRIJGSGEVANGENE
 
-#### Artikel 43. De strijdkrachten
+##### Artikel 43. De strijdkrachten
 
 1. De strijdkrachten van een partij bij een conflict bestaan uit alle georganiseerde strijdkrachten, groepen en eenheden die onder een bevel staan dat tegenover die partij verantwoordelijk is voor het gedrag van zijn ondergeschikten, zelfs indien die partij wordt vertegenwoordigd door een niet door een tegenpartij erkende regering of autoriteit. Deze strijdkrachten dienen te zijn onderworpen aan een intern krijgstuchtelijk systeem, dat onder andere de nakoming van de regels van het volkenrecht, toepasselijk in geval van gewapende conflicten, dient te verzekeren.
 
@@ -524,7 +546,7 @@ mits hij zich in alle genoemde gevallen onthoudt van iedere vijandelijke handeli
 
 3. Wanneer een partij bij het conflict een paramilitaire organisatie, of een gewapende dienst belast met politietaken, in zijn strijdkrachten opneemt, moet zij de andere partijen bij het conflict daarvan in kennis stellen.
 
-#### Artikel 44. Combattanten en krijgsgevangenen
+##### Artikel 44. Combattanten en krijgsgevangenen
 
 1. Iedere combattant, als omschreven in artikel 43, die in handen van een tegenpartij valt wordt als krijgsgevangene beschouwd.
 
@@ -548,7 +570,7 @@ Handelingen die voldoen aan de in dit lid neergelegde vereisten worden niet als 
 
 8. Naast de categorieën personen, vermeld in de [artikelen 13 van het Eerste](https://wetten.overheid.nl/jci1.3:c:BWBV0005565&artikel=13) en het [Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410&artikel=13), kunnen alle leden van de strijdkrachten van een partij bij het conflict, als omschreven in artikel 43 van dit Protocol, aanspraak maken op bescherming krachtens die Verdragen, indien zij gewond of ziek zijn of, in het geval van het [Tweede Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005410), op zee of in andere wateren schipbreuk hebben geleden.
 
-#### Artikel 45. Bescherming van de personen die aan de vijandelijkheden hebben deelgenomen
+##### Artikel 45. Bescherming van de personen die aan de vijandelijkheden hebben deelgenomen
 
 1. Een persoon die aan vijandelijkheden deelneemt en in handen van een tegenpartij valt, wordt geacht krijgsgevangene te zijn en dient derhalve door het [Derde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005584) te worden beschermd, indien hij de status van krijgsgevangene inroept, indien blijkt dat hij aanspraak op een zodanige status heeft of indien de partij waartoe hij behoort een zodanige status te zijnen gunste inroept door middel van een kennisgeving aan de gevangenhoudende of aan de beschermende mogendheid. Indien er enige twijfel mocht rijzen over de vraag, of een zodanige persoon aanspraak op de status van krijgsgevangene heeft, dient hij die status te behouden en derhalve door het Derde Verdrag en dit Protocol te worden beschermd, totdat zijn status door een bevoegde rechterlijke instantie is vastgesteld.
 
@@ -556,7 +578,7 @@ Handelingen die voldoen aan de in dit lid neergelegde vereisten worden niet als 
 
 3. Ieder die heeft deelgenomen aan vijandelijkheden, die geen aanspraak heeft op de status van krijgsgevangene en die geen gunstiger behandeling krachtens het [Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569) geniet, dient te allen tijde recht te hebben op de bescherming, verleend door artikel 75 van dit Protocol. In bezet gebied heeft iedere zodanige persoon, niettegenstaande het bepaalde in [artikel 5 van het Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=5), eveneens aanspraak op het recht van communicatie krachtens dat Verdrag, behalve wanneer hij als spion wordt vastgehouden.
 
-#### Artikel 46. Spionnen
+##### Artikel 46. Spionnen
 
 1. Niettegenstaande enige andere bepaling van de Verdragen of dit Protocol heeft een lid van de strijdkrachten van een partij bij het conflict, die in handen van een tegenpartij valt terwijl hij spionage bedrijft, geen recht op de status van krijgsgevangene, en kan als spion worden behandeld.
 
@@ -568,7 +590,7 @@ Bovendien verliest zo’n inwoner zijn recht op de status van krijgsgevangene ni
 
 4. Een lid van de strijdkrachten van een partij bij het conflict, die geen inwoner is van door een tegenpartij bezet gebied en die op dat gebied spionage heeft bedreven, verliest zijn recht op de status van krijgsgevangene niet en mag niet worden behandeld als spion, tenzij hij wordt gevat voordat hij zich weer bij de strijdkrachten waartoe hij behoort, heeft gevoegd.
 
-#### Artikel 47. Huurlingen
+##### Artikel 47. Huurlingen
 
 1. Een huurling heeft niet het recht op de status van combattant of van krijgsgevangene.
 
@@ -592,11 +614,11 @@ Bovendien verliest zo’n inwoner zijn recht op de status van krijgsgevangene ni
 
 ### Hoofdstuk I. GRONDREGEL EN TOEPASSINGSGEBIED
 
-#### Artikel 48. Grondregel
+##### Artikel 48. Grondregel
 
 Ten einde te verzekeren, dat de burgerbevolking en de burgerobjecten worden ontzien en beschermd, dienen de partijen bij het conflict te allen tijde onderscheid te maken tussen de burgerbevolking en combattanten en tussen burgerobjecten en militaire doelen en dienen zij derhalve hun operaties uitsluitend tegen militaire doelen te richten.
 
-#### Artikel 49. Definitie van aanvallen en toepassingsgebied
+##### Artikel 49. Definitie van aanvallen en toepassingsgebied
 
 1. „Aanvallen” betekent: daden van geweld gericht tegen de tegenstander, hetzij offensieve hetzij defensieve.
 
@@ -608,7 +630,7 @@ Ten einde te verzekeren, dat de burgerbevolking en de burgerobjecten worden ontz
 
 ### Hoofdstuk II. BURGERS EN BURGERBEVOLKING
 
-#### Artikel 50. Definitie van burgers en burgerbevolking
+##### Artikel 50. Definitie van burgers en burgerbevolking
 
 1. Burger is ieder die niet behoort tot een van de categorieën personen, bedoeld in [artikel 4, letter A, 1, 2, 3 en 6 van het Derde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005584&artikel=4) en in artikel 43 van dit Protocol. Bij twijfel of iemand burger is, wordt hij als burger beschouwd.
 
@@ -616,7 +638,7 @@ Ten einde te verzekeren, dat de burgerbevolking en de burgerobjecten worden ontz
 
 3. De aanwezigheid onder de burgerbevolking van personen die niet onder de definitie van burgers vallen, ontneemt haar de civiele hoedanigheid niet.
 
-#### Artikel 51. Bescherming van de burgerbevolking
+##### Artikel 51. Bescherming van de burgerbevolking
 
 1. De burgerbevolking en de afzonderlijke burgers genieten algemene bescherming tegen uit militaire operaties voortvloeiende gevaren. Om deze bescherming te verwezenlijken dienen de volgende regels, die een aanvulling vormen op de andere van toepassing zijnde regels van het volkenrecht, onder alle omstandigheden in acht te worden genomen.
 
@@ -648,7 +670,7 @@ en die derhalve in alle genoemde gevallen naar hun aard, militaire doelen en bur
 
 ### Hoofdstuk III. BURGEROBJECTEN
 
-#### Artikel 52. Algemene bescherming van burgerobjecten
+##### Artikel 52. Algemene bescherming van burgerobjecten
 
 1. Burgerobjecten mogen niet het doelwit van een aanval worden en tegen die objecten mogen geen represailles worden genomen. Burgerobjecten zijn alle objecten die geen militaire doelen als omschreven in het tweede lid, zijn.
 
@@ -656,7 +678,7 @@ en die derhalve in alle genoemde gevallen naar hun aard, militaire doelen en bur
 
 3. In geval van twijfel of een object dat gewoonlijk dienst doet voor civiele doeleinden, zoals plaatsen van godsdienstige verering, een huis of ander soort woning of een school, wordt gebruikt om een daadwerkelijke bijdrage te leveren aan de krijgsverrichtingen, dient ervan te worden uitgegaan dat het niet voor het laatst genoemd doel wordt gebruikt.
 
-#### Artikel 53. Bescherming van culturele goederen en plaatsen van godsdienstige verering
+##### Artikel 53. Bescherming van culturele goederen en plaatsen van godsdienstige verering
 
 Onverminderd de bepalingen van het [Verdrag van ’s-Gravenhage inzake de bescherming van culturele goederen in geval van een gewapend conflict](https://wetten.overheid.nl/jci1.3:c:BWBV0005596) van 14 mei 1954 en van andere op deze bescherming betrekking hebbende internationale akten, is het verboden:
 
@@ -666,7 +688,7 @@ Onverminderd de bepalingen van het [Verdrag van ’s-Gravenhage inzake de besche
 
 - (c). represailles tegen dergelijke goederen te nemen.
 
-#### Artikel 54. Bescherming van voor het overleven van de burgerbevolking onmisbare objecten
+##### Artikel 54. Bescherming van voor het overleven van de burgerbevolking onmisbare objecten
 
 1. Het uithongeren van burgers als methode van oorlogsvoering is verboden.
 
@@ -682,13 +704,13 @@ Onverminderd de bepalingen van het [Verdrag van ’s-Gravenhage inzake de besche
 
 5. Gelet op het levensbelang dat iedere partij bij het conflict heeft bij de verdediging van haar grondgebied tegen invallen, mag zij binnen dat gebied, voor zover dat door haarzelf wordt beheerst, van de in het tweede lid neergelegde verboden afwijken, wanneer dat wegens dwingende militaire noodzaak is geboden.
 
-#### Artikel 55. Bescherming van het natuurlijk milieu
+##### Artikel 55. Bescherming van het natuurlijk milieu
 
 1. Bij de krijgsverrichtingen moet ervoor worden gewaakt, dat het natuurlijk milieu tegen omvangrijke, langdurige en ernstige schade wordt beschermd. Deze bescherming omvat mede het verbod van het gebruik van strijdmiddelen en -methoden die zijn bestemd om zodanige schade aan het natuurlijk milieu toe te brengen dat daardoor de gezondheid of de overleving van de burgerbevolking in gevaar wordt gebracht, of dat dergelijke schade naar kan worden verwacht, zal worden toegebracht.
 
 2. Aanvallen gericht tegen het natuurlijk milieu bij wijze van represaille zijn verboden.
 
-#### Artikel 56. Bescherming van werken en installaties die gevaarlijke krachten bevatten
+##### Artikel 56. Bescherming van werken en installaties die gevaarlijke krachten bevatten
 
 1. Werken of installaties die gevaarlijke krachten bevatten, te weten stuwdammen, dijken en kerncentrales, mogen niet het doelwit van een aanval worden gemaakt, zelfs niet wanneer zij militaire doelen zijn indien die aanvallen het vrijkomen van gevaarlijke krachten zouden veroorzaken en daardoor zware verliezen aan mensenlevens onder de burgerbevolking teweeg zouden brengen. Andere militaire doelen gelegen op of in de nabijheid van die werken of installaties, mogen niet het doelwit van een aanval worden gemaakt indien die aanvallen het vrijkomen van gevaarlijke krachten uit die werken of installaties zouden veroorzaken en daardoor zware verliezen aan mensenlevens onder de burgerbevolking teweeg zouden brengen.
 
@@ -712,7 +734,7 @@ Onverminderd de bepalingen van het [Verdrag van ’s-Gravenhage inzake de besche
 
 ### Hoofdstuk IV. VOORZORGSMAATREGELEN
 
-#### Artikel 57. Voorzorgen bij aanvallen
+##### Artikel 57. Voorzorgen bij aanvallen
 
 1. Bij het uitvoeren van de militaire operaties moet er voortdurend voor worden gewaakt, dat de burgerbevolking, de burgers en de burgerobjecten worden ontzien.
 
@@ -736,7 +758,7 @@ Onverminderd de bepalingen van het [Verdrag van ’s-Gravenhage inzake de besche
 
 5. Geen enkele bepaling van dit artikel mag worden uitgelegd als machtiging tot enige aanval op de burgerbevolking, burgers of burgerobjecten.
 
-#### Artikel 58. Voorzorgen tegen de gevolgen van aanvallen
+##### Artikel 58. Voorzorgen tegen de gevolgen van aanvallen
 
 De partijen bij het conflict dienen voor zover dat ook maar enigszins praktisch uitvoerbaar is:
 
@@ -748,7 +770,7 @@ De partijen bij het conflict dienen voor zover dat ook maar enigszins praktisch 
 
 ### Hoofdstuk V. PLAATSEN EN ZONES ONDER SPECIALE BESCHERMING
 
-#### Artikel 59. Onverdedigde plaatsen
+##### Artikel 59. Onverdedigde plaatsen
 
 1. Het is de partijen bij het conflict verboden, met welke middelen ook, onverdedigde plaatsen aan te vallen.
 
@@ -772,7 +794,7 @@ De partijen bij het conflict dienen voor zover dat ook maar enigszins praktisch 
 
 7. Een plaats verliest haar status van onverdedigde plaats, wanneer zij niet meer voldoet aan de voorwaarden die zijn neergelegd in het tweede lid of in de overeenkomst, bedoeld in het vijfde lid. In een dergelijk geval blijft de plaats de bescherming genieten die wordt verleend door de andere bepalingen van dit Protocol en de andere regels van het volkenrecht, toepasselijk in gewapende conflicten.
 
-#### Artikel 60. Gedemilitariseerde zones
+##### Artikel 60. Gedemilitariseerde zones
 
 1. Het is de partijen bij het conflict verboden, hun militaire operaties uit te strekken tot de zones, waaraan zij bij overeenkomst de status van gedemilitariseerde zone hebben toegekend, indien die uitbreiding in strijd is met de bepalingen van een zodanige overeenkomst.
 
@@ -800,7 +822,7 @@ De partijen bij het conflict dienen af te spreken welke interpretatie moet worde
 
 ### Hoofdstuk VI. CIVIELE BESCHERMING
 
-#### Artikel 61. Definities en toepassingsgebied
+##### Artikel 61. Definities en toepassingsgebied
 
 Voor de toepassing van dit Protocol:
 
@@ -842,7 +864,7 @@ Voor de toepassing van dit Protocol:
 
 - d. betekent „materieel” van de instellingen voor de civiele bescherming: uitrusting, voorraden en vervoermiddelen die door deze instellingen worden gebruikt voor de vervulling van de onder a. vermelde taken.
 
-#### Artikel 62. Algemene bescherming
+##### Artikel 62. Algemene bescherming
 
 1. Burgerinstellingen voor de civiele bescherming en hun personeel dienen te worden ontzien en beschermd overeenkomstig de bepalingen van dit Protocol, in het bijzonder van deze Sectie. Zij zijn gerechtigd hun taak op het gebied van de civiele bescherming te vervullen, behalve in geval van dwingende militaire noodzaak.
 
@@ -850,7 +872,7 @@ Voor de toepassing van dit Protocol:
 
 3. Gebouwen en materieel die worden gebruikt voor doeleinden op het gebied van de civiele bescherming alsmede schuilgelegenheden die zijn bestemd voor de burgerbevolking vallen onder de werking van artikel 52. Objecten die worden gebruikt voor doeleinden op het gebied van de civiele bescherming mogen niet worden vernietigd, noch mag daaraan een andere bestemming worden gegeven, behalve door de partij aan welke zij toebehoren.
 
-#### Artikel 63. Civiele bescherming in bezette gebieden
+##### Artikel 63. Civiele bescherming in bezette gebieden
 
 1. In bezette gebieden dienen de instellingen voor de civiele bescherming van de autoriteiten de voor de vervulling van hun taak noodzakelijke faciliteiten te ontvangen. Het personeel ervan mag onder geen enkele omstandigheid worden verplicht handelingen te verrichten die een juiste vervulling van die taak verhinderen. De bezettende mogendheid mag op geen enkele wijze verandering brengen in de structuur of het personeel van dergelijke instellingen, waardoor de doeltreffende uitoefening van hun taak in gevaar zou kunnen worden gebracht. Van deze instellingen mag niet worden geëist, dat zij voorrang geven aan de onderdanen of de belangen van die mogendheid.
 
@@ -868,7 +890,7 @@ Voor de toepassing van dit Protocol:
 
 6. De bezettende mogendheid mag aan de schuilgelegenheden die ter beschikking van de burgerbevolking zijn gesteld of die die bevolking nodig heeft, niet een andere bestemming geven, noch deze vorderen.
 
-#### Artikel 64. Burgerinstellingen voor de civiele bescherming behorende tot neutrale Staten of andere Staten die geen partij zijn bij het conflict, en internationale coördinerende instellingen
+##### Artikel 64. Burgerinstellingen voor de civiele bescherming behorende tot neutrale Staten of andere Staten die geen partij zijn bij het conflict, en internationale coördinerende instellingen
 
 1. De artikelen 62, 63, 65 en 66 zijn eveneens van toepassing op het personeel en het materieel van de burgerinstellingen voor de civiele bescherming, behorende tot neutrale Staten of andere Staten welke geen partij zijn bij het conflict, die met toestemming en onder toezicht van een partij bij het conflict taken op het gebied van de civiele bescherming als vermeld in artikel 61 vervullen op het grondgebied van die partij. Aan iedere betrokken tegenpartij dient zo spoedig mogelijk kennis te worden gegeven van een zodanige bijstand. Deze activiteit mag onder geen enkele omstandigheid worden aangemerkt als inmenging in het conflict.
 
@@ -878,7 +900,7 @@ Bij de uitoefening ervan dient evenwel rekening te worden gehouden met de veilig
 
 3. In bezette gebieden mag de bezettende mogendheid de activiteiten van de burgerinstellingen voor de civiele bescherming, behorende tot neutrale Staten of andere Staten die geen partij zijn bij het conflict, en van internationale coördinerende instellingen alleen verbieden of beperken indien zij kan waarborgen, dat de taken op het gebied van de civiele bescherming met gebruikmaking van haar eigen hulpbronnen of van die van het bezette grondgebied in voldoende mate kunnen worden vervuld.
 
-#### Artikel 65. Beëindiging van de bescherming
+##### Artikel 65. Beëindiging van de bescherming
 
 1. De bescherming waarop de burgerinstellingen voor de civiele bescherming en het personeel, de gebouwen, de schuilgelegenheden en het materieel aanspraak hebben, eindigt alleen, wanneer deze buiten hun eigenlijke taak voor de vijand schadelijke handelingen verrichten of worden gebruikt om dergelijke handelingen te verrichten. De bescherming eindigt evenwel slechts nadat een waarschuwing is gegeven waarin, telkens wanneer daartoe aanleiding is, een redelijke termijn wordt gesteld, en nadat aan die waarschuwing geen gevolg is gegeven.
 
@@ -894,7 +916,7 @@ Bij de uitoefening ervan dient evenwel rekening te worden gehouden met de veilig
 
 4. Het feit dat burgerinstellingen voor de civiele bescherming op dezelfde wijze als de krijgsmacht zijn georganiseerd, of dat de dienst daarbij verplicht is, ontneemt hun evenmin de in dit hoofdstuk verleende bescherming.
 
-#### Artikel 66. Identificatie
+##### Artikel 66. Identificatie
 
 1. Iedere partij bij het conflict moet de herkenbaarheid trachten te verzekeren van haar burgerinstellingen voor de civiele bescherming en het personeel, de gebouwen en het materieel daarvan, wanneer deze uitsluitend dienst doen voor de vervulling van taken op het gebied van de civiele bescherming.
 
@@ -916,7 +938,7 @@ De herkenbaarheid van de schuilgelegenheden, bestemd voor de burgerbevolking, di
 
 9. De herkenbaarheid van medisch personeel en geestelijke verzorgers, medische formaties en medische vervoermiddelen voor de civiele bescherming wordt eveneens beheerst door artikel 18.
 
-#### Artikel 67. Leden van de strijdkrachten en militaire formaties die zijn ingedeeld bij instellingen voor de civiele bescherming
+##### Artikel 67. Leden van de strijdkrachten en militaire formaties die zijn ingedeeld bij instellingen voor de civiele bescherming
 
 1. Leden van de strijdkrachten en militaire formaties die zijn ingedeeld bij instellingen voor de civiele bescherming dienen te worden ontzien en beschermd, mits:
 
@@ -942,17 +964,17 @@ Het is ieder lid van de strijdkrachten dat is gebonden door de hierboven onder l
 
 ### SECTIE II. HULPVERLENING TEN BEHOEVE VAN DE BURGERBEVOLKING
 
-#### Artikel 68. Toepassingsgebied
+##### Artikel 68. Toepassingsgebied
 
 De bepalingen van deze Sectie zijn van toepassing op de burgerbevolking als omschreven in dit Protocol, en vormen een aanvulling op de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=23), [55](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=55), [59](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=61) en [62](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=62) en de andere desbetreffende bepalingen van het [Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569).
 
-#### Artikel 69. Fundamentele behoeften in bezette gebieden
+##### Artikel 69. Fundamentele behoeften in bezette gebieden
 
 1. De bezettende mogendheid dient naast haar verplichting betreffende levensmiddelen en geneeskundige benodigdheden, vermeld in [artikel 55 van het Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=55), met alle haar ten dienste staande middelen en zonder enig nadelig onderscheid, eveneens te verzekeren dat kleding, bedden en beddegoed worden verstrekt, evenals noodonderdak, andere benodigdheden die onmisbaar zijn voor het overleven van de burgerbevolking van het bezette gebied, en goederen die nodig zijn voor de eredienst.
 
 2. Op hulpverleningsacties ten behoeve van de burgerbevolking van bezette gebieden zijn de [artikelen 59](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=59), [60](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=60), [61](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=61), [62](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=62), [108](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=108), [109](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=109), [110](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=110) en [111 van het Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&artikel=111) en artikel 71 van dit Protocol van toepassing; deze acties dienen onverwijld te worden uitgevoerd.
 
-#### Artikel 70. Hulpverleningsacties
+##### Artikel 70. Hulpverleningsacties
 
 1. Wanneer de burgerbevolking van enig grondgebied, dat door een partij bij het conflict wordt beheerst en dat niet is bezet, niet voldoende is voorzien van de benodigdheden, vermeld in artikel 69, dienen hulpverleningsacties te worden ondernomen, welke humanitair van aard zijn en worden uitgevoerd zonder enig nadelig onderscheid, mits de bij die acties betrokken partijen daarmee instemmen. Aanbiedingen voor zodanige hulp worden niet aangemerkt als inmenging in het gewapende conflict, noch als onvriendschappelijke handelingen. Bij de verdeling van de hulpzendingen moet voorrang worden gegeven aan de personen aan wie krachtens het [Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569) of dit Protocol een voorkeursbehandeling of een bijzondere bescherming dient te worden verleend, zoals kinderen, aanstaande moeders, kraamvrouwen en zogende moeders.
 
@@ -970,7 +992,7 @@ De bepalingen van deze Sectie zijn van toepassing op de burgerbevolking als omsc
 
 5. De partijen bij het conflict, alsmede iedere betrokken Hoge Verdragsluitende Partij, dienen doeltreffende internationale coördinatie van de in het eerste lid bedoelde hulpverleningsacties te stimuleren en te vergemakkelijken.
 
-#### Artikel 71. Personeel, deelnemende aan de hulpverleningsacties
+##### Artikel 71. Personeel, deelnemende aan de hulpverleningsacties
 
 1. Indien nodig kan de hulp die bij een hulpverleningsactie wordt verschaft mede personeel voor hulpverlening omvatten, in het bijzonder voor het transport en de verdeling van de hulpzendingen; de deelneming van dergelijk personeel is onderworpen aan de toestemming van de partij op het grondgebied waarvan het zijn taken zal vervullen.
 
@@ -984,19 +1006,19 @@ De bepalingen van deze Sectie zijn van toepassing op de burgerbevolking als omsc
 
 ### Hoofdstuk I. TOEPASSINGSGEBIED EN BESCHERMING VAN PERSONEN EN OBJECTEN
 
-#### Artikel 72. Toepassingsgebied
+##### Artikel 72. Toepassingsgebied
 
 De bepalingen van deze Sectie vormen een aanvulling op de regels betreffende de humanitaire bescherming van de zich in de macht van een partij bij het conflict bevindende burgers en burgerobjecten, neergelegd in het [Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569), in het bijzonder in de [Delen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&titeldeel=I) en [III daarvan](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&titeldeel=III), evenals op de andere toepasselijke regels van het volkenrecht betreffende de bescherming van de fundamentele rechten van de mens gedurende internationale gewapende conflicten.
 
-#### Artikel 73. Vluchtelingen en staatlozen
+##### Artikel 73. Vluchtelingen en staatlozen
 
 Personen die vóór de aanvang van de vijandelijkheden werden beschouwd als staatlozen of als vluchtelingen krachtens de desbetreffende door de betrokken partijen aanvaarde internationale akten of krachtens de nationale wetgeving van de Staat die hen heeft opgenomen of waar zij verblijven, zijn beschermde personen in de zin van de [Delen I](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&titeldeel=I) en [III van het Vierde Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005569&titeldeel=III), onder alle omstandigheden en zonder enig nadelig onderscheid.
 
-#### Artikel 74. Gezinshereniging
+##### Artikel 74. Gezinshereniging
 
 De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle mogelijke wijzen de hereniging te vergemakkelijken van gezinnen die ten gevolge van gewapende conflicten zijn uiteengeraakt en dienen in het bijzonder het werk te bevorderen van de humanitaire organisaties die deze taak vervullen, overeenkomstig de bepalingen van de Verdragen en dit Protocol en overeenkomstig hun onderscheiden veiligheidsvoorschriften.
 
-#### Artikel 75. Fundamentele waarborgen
+##### Artikel 75. Fundamentele waarborgen
 
 1. Personen die zich in de macht van een partij bij het conflict bevinden en die niet een gunstiger behandeling genieten krachtens de Verdragen of dit Protocol dienen, voor zover zij zijn betrokken bij een situatie als bedoeld in artikel 1 van dit Protocol, onder alle omstandigheden menselijk te worden behandeld en dienen tenminste de door dit artikel verleende bescherming te ontvangen zonder enig nadelig onderscheid, gebaseerd op ras, huidkleur, geslacht, taal, godsdienst of geloof, politieke of andere overtuiging, nationale of maatschappelijke afkomst, rijkdom, geboorte of andere status, of op enig ander soortgelijk criterium. Iedere partij dient de persoon, de eer, de overtuigingen en de godsdienstige gebruiken van zodanige personen te eerbiedigen.
 
@@ -1058,7 +1080,7 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 ### Hoofdstuk II. MAATREGELEN TEN BEHOEVE VAN VROUWEN EN KINDEREN
 
-#### Artikel 76. Bescherming van vrouwen
+##### Artikel 76. Bescherming van vrouwen
 
 1. Vrouwen dienen in het bijzonder te worden ontzien en met name te worden beschermd tegen verkrachting, gedwongen prostitutie en iedere andere vorm van aanranding van de eerbaarheid.
 
@@ -1066,7 +1088,7 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 3. De partijen bij het conflict moeten voor zover naar omstandigheden mogelijk is, trachten te vermijden, dat doodvonnissen worden uitgesproken ten aanzien van zwangere vrouwen, of met de zorg voor kleine kinderen belaste moeders, wegens een strafbaar feit dat verband houdt met het gewapende conflict. De doodstraf voor zodanige strafbare feiten mag aan die vrouwen niet worden voltrokken.
 
-#### Artikel 77. Bescherming van kinderen
+##### Artikel 77. Bescherming van kinderen
 
 1. Kinderen dienen in het bijzonder te worden ontzien en beschermd tegen iedere vorm van aanranding van de eerbaarheid. De partijen bij het conflict dienen hun de zorg en hulp te geven die zij nodig hebben, hetzij wegens hun leeftijd of om welke andere reden ook.
 
@@ -1078,7 +1100,7 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 5. De doodstraf wegens een strafbaar feit, verband houdende met het gewapende conflict, mag niet worden voltrokken aan personen, die ten tijde dat het strafbare feit werd begaan de leeftijd van achttien jaar nog niet hadden bereikt.
 
-#### Artikel 78. Evacuatie van kinderen
+##### Artikel 78. Evacuatie van kinderen
 
 1. Geen enkele partij bij het conflict mag maatregelen treffen voor de evacuatie naar een ander land van kinderen die geen onderdaan zijn van die partij, met uitzondering van tijdelijke evacuatie, indien dwingende redenen verband houdende met hun gezondheid of de geneeskundige behandeling van de kinderen of, behalve in bezet gebied, hun veiligheid dat vereisen. Indien de ouders of voogden kunnen worden bereikt, is hun schriftelijke toestemming voor de evacuatie vereist. Indien deze personen niet kunnen worden bereikt, is de schriftelijke toestemming voor zodanige evacuatie vereist van de personen die krachtens wet of gewoonte in de eerste plaats verantwoordelijk zijn voor de zorg voor de kinderen. Iedere zodanige evacuatie dient onder toezicht te staan van de beschermende mogendheid, in overeenstemming met de betrokken partijen, te weten de partij die de maatregelen voor de evacuatie treft, de partij die de kinderen opneemt en alle partijen wier onderdanen worden geëvacueerd. Te allen tijde dienen alle partijen bij het conflict alle praktisch uitvoerbare maatregelen te nemen, ten einde te voorkomen dat de evacuatie in gevaar wordt gebracht.
 
@@ -1126,7 +1148,7 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 ### Hoofdstuk III. JOURNALISTEN
 
-#### Artikel 79. Maatregelen ter bescherming van journalisten
+##### Artikel 79. Maatregelen ter bescherming van journalisten
 
 1. Journalisten die gevaarlijke beroepswerkzaamheden verrichten in gebieden waar zich gewapende conflicten voordoen, dienen te worden aangemerkt als burgers in de zin van het eerste lid van artikel 50.
 
@@ -1138,13 +1160,13 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 ### SECTIE I. ALGEMENE BEPALINGEN
 
-#### Artikel 80. Maatregelen voor de tenuitvoerlegging
+##### Artikel 80. Maatregelen voor de tenuitvoerlegging
 
 1. De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen onverwijld alle noodzakelijke maatregelen te treffen voor de nakoming van hun verplichtingen krachtens de Verdragen en dit Protocol.
 
 2. De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen opdrachten en instructies te geven om de naleving van de Verdragen en dit Protocol te verzekeren en dienen toezicht te houden op de tenuitvoerlegging ervan.
 
-#### Artikel 81. Werkzaamheden van het Rode Kruis en andere humanitaire organisaties
+##### Artikel 81. Werkzaamheden van het Rode Kruis en andere humanitaire organisaties
 
 1. De partijen bij het conflict dienen het Internationale Comité van het Rode Kruis naar hun vermogen alle faciliteiten te verlenen om dit Comité in staat te stellen de humanitaire taak te vervullen waarmee het door de Verdragen en dit Protocol is belast, ten einde bescherming van en bijstand aan de slachtoffers van conflicten te verzekeren; het Internationale Comité van het Rode Kruis kan tevens alle andere humanitaire werkzaamheden ten behoeve van die slachtoffers verrichten, mits de desbetreffende partyen bij het conflict daarmee instemmen.
 
@@ -1154,23 +1176,23 @@ De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen op alle
 
 4. De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen zoveel als mogelijk is faciliteiten, gelijk aan die welke in het tweede en het derde lid zijn vermeld, te verlenen aan de andere in de Verdragen en dit Protocol bedoelde humanitaire organisaties, die door de onderscheiden partijen bij het conflict zijn toegelaten en die hun humanitaire werkzaamheden overeenkomstig de bepalingen van de Verdragen en dit Protocol vervullen.
 
-#### Artikel 82. Juridische adviseurs in de strijdkrachten
+##### Artikel 82. Juridische adviseurs in de strijdkrachten
 
 De Hoge Verdragsluitende Partijen dienen er altijd, en de partijen bij het conflict dienen er ten tijde van een gewapend conflict zorg voor te dragen, dat juridische adviseurs beschikbaar zijn om wanneer nodig, de militaire commandanten op het daartoe passende niveau raad te geven betreffende de toepassing van de Verdragen en dit Protocol en betreffende het aan de strijdkrachten inzake dit onderwerp te geven, passende onderricht.
 
-#### Artikel 83. Verspreiding
+##### Artikel 83. Verspreiding
 
 1. De Hoge Verdragsluitende Partijen verbinden zich, zowel in vredestijd als ten tijde van een gewapend conflict, de Verdragen en dit Protocol op zo ruim mogelijke schaal in hun onderscheiden landen te verspreiden, en in het bijzonder de bestudering ervan in de programma’s van hun militaire opleiding op te nemen en de bestudering ervan door de burgerbevolking te stimuleren, zodat de strijdkrachten en de burgerbevolking van die akten op de hoogte kunnen zijn.
 
 2. Alle militaire of burgerlijke autoriteiten die ten tijde van een gewapend conflict verantwoordelijkheid dragen met betrekking tot de toepassing van de Verdragen en dit Protocol dienen een volledige kennis van de tekst ervan te bezitten.
 
-#### Artikel 84. Regels voor de toepassing
+##### Artikel 84. Regels voor de toepassing
 
 De Hoge Verdragsluitende Partijen dienen elkaar zo spoedig mogelijk door tussenkomst van de depositaris en, in voorkomende gevallen, van de beschermende mogendheden hun officiële vertalingen van dit Protocol mede te delen, evenals de wetten en voorschriften die zij ter verzekering van de toepassing daarvan tot stand mochten brengen.
 
 ### SECTIE II. HET TEGENGAAN VAN INBREUKEN OP DE VERDRAGEN EN DIT PROTOCOL
 
-#### Artikel 85. Het tegengaan van inbreuken op dit Protocol
+##### Artikel 85. Het tegengaan van inbreuken op dit Protocol
 
 1. De bepalingen van de Verdragen betreffende het tegengaan van inbreuken en ernstige inbreuken, als aangevuld door deze Sectie, zijn van toepassing op het tegengaan van inbreuken en ernstige inbreuken op dit Protocol.
 
@@ -1204,13 +1226,13 @@ De Hoge Verdragsluitende Partijen dienen elkaar zo spoedig mogelijk door tussenk
 
 5. Onverminderd de toepassing van de Verdragen en dit Protocol worden ernstige inbreuken op deze akten als oorlogsmisdrijven beschouwd.
 
-#### Artikel 86. Nalatigheid
+##### Artikel 86. Nalatigheid
 
 1. De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen ernstige inbreuken op de Verdragen of dit Protocol, die voortkomen uit een nalaten om te handelen terwijl een verplichting om te handelen bestond, tegen te gaan, en dienen maatregelen te nemen om alle andere uit een zodanig nalaten voortkomende inbreuken te doen ophouden.
 
 2. Het feit dat een inbreuk op de Verdragen of dit Protocol is begaan door een ondergeschikte ontheft zijn meerderen niet van hun strafrechtelijke, onderscheidenlijk disciplinaire verantwoordelijkheid, naar gelang van de omstandigheden, wanneer die meerderen wisten, of over inlichtingen beschikten waardoor zij onder de omstandigheden van dat ogenblik konden begrijpen, dat hij een zodanige inbreuk beging of op het punt stond te begaan, en wanneer zij niet alle praktisch uitvoerbare maatregelen die in hun vermogen lagen, hebben getroffen om de inbreuk te voorkomen of tegen te gaan.
 
-#### Artikel 87. Verplichtingen van de commandanten
+##### Artikel 87. Verplichtingen van de commandanten
 
 1. De Hoge Verdragsluitende Partijen en de partij bij het conflict dienen de militaire commandanten te verplichten om met betrekking tot de leden van de strijdkrachten, die onder hun bevel staan, en andere personen, waarover zij zeggenschap uitoefenen, inbreuken op de Verdragen en dit Protocol te voorkomen, alsmede, indien nodig, deze te doen ophouden en aan de bevoegde autoriteiten te melden.
 
@@ -1218,7 +1240,7 @@ De Hoge Verdragsluitende Partijen dienen elkaar zo spoedig mogelijk door tussenk
 
 3. De Hoge Verdragsluitende Partijen en de partijen bij het conflict dienen iedere commandant die weet dat ondergeschikten of andere personen onder zijn zeggenschap op het punt staan een inbreuk op de Verdragen of dit Protocol te begaan of een dergelijke inbreuk hebben begaan, te verplichten tot het ondernemen van de nodige stappen ter voorkoming van zodanige schendingen van de Verdragen of dit Protocol en, indien daartoe aanleiding is, tot het aanvangen van een disciplinaire of strafrechtelijke procedure tegen degenen die die akten hebben geschonden.
 
-#### Artikel 88. Wederzijdse rechtshulp in strafzaken
+##### Artikel 88. Wederzijdse rechtshulp in strafzaken
 
 1. De Hoge Verdragsluitende Partijen verlenen elkaar in zo ruim mogelijke mate rechtshulp in verband met iedere strafrechtelijke procedure, die betrekking heeft op ernstige inbreuken op de Verdragen en dit Protocol.
 
@@ -1226,11 +1248,11 @@ De Hoge Verdragsluitende Partijen dienen elkaar zo spoedig mogelijk door tussenk
 
 3. De wet van de aangezochte Hoge Verdragsluitende Partij is in alle gevallen van toepassing. De bepalingen van de voorgaande leden laten evenwel onverlet de verplichtingen, voortvloeiende uit de bepalingen van enige andere overeenkomst van bilaterale of multilaterale aard, die het terrein van de wederzijdse rechtshulp in strafzaken geheel of gedeeltelijk beheerst of zal beheersen.
 
-#### Artikel 89. Samenwerking
+##### Artikel 89. Samenwerking
 
 In gevallen van ernstige schendingen van de Verdragen of dit Protocol verbinden de Hoge Verdragsluitende Partijen zich, tezamen of afzonderlijk, op te treden in samenwerking met de Verenigde Naties en in overeenstemming met het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143).
 
-#### Artikel 90. Internationale Commissie voor feitenonderzoek
+##### Artikel 90. Internationale Commissie voor feitenonderzoek
 
 - (a). Er wordt een Internationale Commissie voor feitenonderzoek (hierna te noemen „de Commissie”) ingesteld, bestaande uit vijftien leden van hoog zedelijk gehalte en erkende onpartijdigheid.
 
@@ -1282,31 +1304,31 @@ In gevallen van ernstige schendingen van de Verdragen of dit Protocol verbinden 
 
 7. De administratieve kosten van de Commissie worden gedekt door contributies van de Hoge Verdragsluitende Partijen die een verklaring krachtens het tweede lid hebben afgelegd, en door vrijwillige contributies. De partij of de partijen bij het conflict die om een onderzoek verzoeken, dienen de nodige gelden voor te schieten voor de kosten, gemaakt door een Kamer; deze gelden worden terugbetaald door de partij of de partijen waartegen de beschuldigingen naar voren zijn gebracht, tot een bedrag van 50% van de kosten van de Kamer. Wanneer voor de Kamer van de andere zijde eveneens beweringen naar voren zijn gebracht, dient iedere partij 50% van de benodigde gelden voor te schieten.
 
-#### Artikel 91. Aansprakelijkheid
+##### Artikel 91. Aansprakelijkheid
 
 Een partij bij het conflict die de bepalingen van de Verdragen of dit Protocol schendt, is gehouden indien daartoe aanleiding is schadevergoeding te betalen. Zij is aansprakelijk voor alle handelingen, verricht door de personen die deel uitmaken van haar strijdkrachten.
 
 ## DEEL VI. SLOTBEPALINGEN
 
-#### Artikel 92. Ondertekening
+##### Artikel 92. Ondertekening
 
 Dit Protocol staat open voor ondertekening door de partijen bij de Verdragen zes maanden na de ondertekening van de Slotakte en blijft open gedurende een periode van twaalf maanden.
 
-#### Artikel 93. Bekrachtiging
+##### Artikel 93. Bekrachtiging
 
 Dit Protocol dient zo spoedig mogelijk te worden bekrachtigd. De akten van bekrachtiging dienen te worden nedergelegd bij de Zwitserse Bondsraad, die depositaris van de Verdragen is.
 
-#### Artikel 94. Toetreding
+##### Artikel 94. Toetreding
 
 Dit Protocol staat open voor toetreding door iedere partij bij de Verdragen, die het niet heeft ondertekend. De akten van toetreding dienen te worden nedergelegd bij de depositaris.
 
-#### Artikel 95. Inwerkingtreding
+##### Artikel 95. Inwerkingtreding
 
 1. Dit Protocol treedt in werking zes maanden nadat twee akten van bekrachtiging of toetreding zijn nedergelegd.
 
 2. Ten aanzien van iedere partij bij de Verdragen die dit Protocol daarna bekrachtigt of daartoe toetreedt, treedt het in werking zes maanden nadat die partij haar akte van bekrachtiging of toetreding heeft nedergelegd.
 
-#### Artikel 96. Verdragsbetrekkingen na de inwerkingtreding van dit Protocol
+##### Artikel 96. Verdragsbetrekkingen na de inwerkingtreding van dit Protocol
 
 1. In het geval dat de partijen bij de Verdragen eveneens partij zijn bij dit Protocol, zijn de Verdragen van toepassing als aangevuld door dit Protocol.
 
@@ -1320,13 +1342,13 @@ Dit Protocol staat open voor toetreding door iedere partij bij de Verdragen, die
 
 - (c). de Verdragen en dit Protocol zijn gelijkelijk verbindend voor alle partijen bij het conflict.
 
-#### Artikel 97. Wijziging
+##### Artikel 97. Wijziging
 
 1. Iedere Hoge Verdragsluitende Partij kan voorstellen doen tot wijziging van dit Protocol. De tekst van elk wijzigingsvoorstel wordt ter kennis gebracht van de depositaris, die na raadpleging van alle Hoge Verdragsluitende Partijen en het Internationale Comité van het Rode Kruis beslist, of een conferentie ter bestudering van het wijzigingsvoorstel bijeen moet worden geroepen.
 
 2. De depositaris nodigt alle Hoge Verdragsluitende Partijen voor die conferentie uit, evenals de partijen bij de Verdragen, ongeacht of deze ondertekenaar zijn van dit Protocol of niet.
 
-#### Artikel 98. Herziening van Bijlage I
+##### Artikel 98. Herziening van Bijlage I
 
 1. Uiterlijk vier jaar na de inwerkingtreding van dit Protocol en daarna met tussenpozen van ten minste vier jaar, raadpleegt het Internationale Comité van het Rode Kruis de Hoge Verdragsluitende Partijen met betrekking tot Bijlage I bij dit Protocol en kan het, indien het zulks noodzakelijk acht, een voorstel doen tot het houden van een vergadering van technische deskundigen, ten einde Bijlage I opnieuw te bezien en die voorstellen tot wijziging daarvan te doen die wenselijk blijken te zijn. Tenzij binnen zes maanden na de mededeling van een voorstel tot het houden van een zodanige vergadering aan de Hoge Verdragsluitende Partijen één derde van hen bezwaar maakt, roept het Internationale Comité van het Rode Kruis de vergadering bijeen, en nodigt daarbij ook waarnemers uit van de internationale organisaties die daarvoor in aanmerking komen. Een zodanige vergadering wordt door het Internationale Comité van het Rode Kruis eveneens te allen tijde bijeengeroepen wanneer één derde van de Hoge Verdragsluitende Partijen zulks verzoekt.
 
@@ -1340,7 +1362,7 @@ Dit Protocol staat open voor toetreding door iedere partij bij de Verdragen, die
 
 6. De depositaris stelt de Hoge Verdragsluitende Partijen en de partijen bij de Verdragen in kennis van de inwerkingtreding van iedere wijziging, van de partijen die erdoor zijn gebonden, van de datum van de inwerkingtreding ervan ten aanzien van iedere partij, van overeenkomstig het vierde lid afgelegde verklaringen van niet-aanvaarding en van intrekkingen van zodanige verklaringen.
 
-#### Artikel 99. Opzegging
+##### Artikel 99. Opzegging
 
 1. Indien een Hoge Verdragsluitende Partij dit Protocol mocht opzeggen, wordt de opzegging eerst van kracht een jaar na de ontvangst van de akte van opzegging. Indien echter aan het einde van dat jaar de partij die opzegt, is verwikkeld in een situatie als bedoeld in artikel 1, wordt de opzegging niet van kracht vóór het einde van het gewapende conflict of de bezetting, en in elk geval niet voordat de verrichtingen in verband met de definitieve vrijlating, repatriëring of nieuwe vestiging van de personen die door het Verdrag of dit Protocol worden beschermd, zijn voltooid.
 
@@ -1350,7 +1372,7 @@ Dit Protocol staat open voor toetreding door iedere partij bij de Verdragen, die
 
 4. Geen enkele opzegging krachtens het eerste lid tast, met betrekking tot welke handeling ook die is verricht voordat de opzegging van kracht wordt, de verplichtingen aan die ten gevolge van het gewapende conflict krachtens het Protocol reeds op de partij die opzegt, rusten.
 
-#### Artikel 100. Kennisgevingen
+##### Artikel 100. Kennisgevingen
 
 De depositaris stelt de Hoge Verdragsluitende Partijen, evenals de partijen bij de Verdragen, ongeacht of deze ondertekenaar zijn van dit Protocol of niet, in kennis van:
 
@@ -1364,19 +1386,19 @@ De depositaris stelt de Hoge Verdragsluitende Partijen, evenals de partijen bij 
 
 - (e). opzeggingen krachtens artikel 99.
 
-#### Artikel 101. Registratie
+##### Artikel 101. Registratie
 
 1. Dit Protocol wordt na zijn inwerkingtreding door de depositaris aan het Secretariaat van de Verenigde Naties toegezonden ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
 2. De depositaris stelt het Secretariaat van de Verenigde Naties tevens in kennis van alle bekrachtigingen, toetredingen en opzeggingen die met betrekking tot dit Protocol worden ontvangen.
 
-#### Artikel 102. Authentieke teksten
+##### Artikel 102. Authentieke teksten
 
 Het origineel van dit Protocol, waarvan de Arabische, Chinese, Engelse, Franse, Russische en Spaanse teksten gelijkelijk authentiek zijn, wordt nedergelegd bij de depositaris, die voor eensluidend gewaarmerkte afschriften daarvan aan alle partijen bij de Verdragen toezendt.
 
 ### Hoofdstuk I. IDENTITEITSKAARTEN
 
-#### Artikel 1. Identiteitskaart voor het permanente burgerlijke medisch personeel en de permanente burgerlijke geestelijke verzorgers
+##### Artikel 1. Identiteitskaart voor het permanente burgerlijke medisch personeel en de permanente burgerlijke geestelijke verzorgers
 
 1. De identiteitskaart voor het permanente burgerlijke medisch personeel en de permanente burgerlijke geestelijke verzorgers, bedoeld in artikel 18, derde lid, dient:
 
@@ -1400,7 +1422,7 @@ Het origineel van dit Protocol, waarvan de Arabische, Chinese, Engelse, Franse, 
 
 3. Onder geen enkele omstandigheid mag het permanente burgerlijke medisch personeel en de permanente burgerlijke geestelijke verzorgers hun identiteitskaart worden afgenomen. In het geval van verlies van een kaart zijn zij gerechtigd een duplicaat te ontvangen.
 
-#### Artikel 2. Identiteitskaart voor het tijdelijke burgerlijke medisch personeel en de tijdelijke burgerlijke geestelijke verzorgers
+##### Artikel 2. Identiteitskaart voor het tijdelijke burgerlijke medisch personeel en de tijdelijke burgerlijke geestelijke verzorgers
 
 1. De identiteitskaart voor het tijdelijke burgerlijke medisch personeel en de tijdelijke burgerlijke geestelijke verzorgers dient zoveel mogelijk gelijk te zijn aan de in artikel 1 van deze voorschriften bedoelde kaart. De partijen bij het conflict kunnen het model van figuur 1 als richtsnoer nemen.
 
@@ -1408,7 +1430,7 @@ Het origineel van dit Protocol, waarvan de Arabische, Chinese, Engelse, Franse, 
 
 ### Hoofdstuk II. HET KENTEKEN
 
-#### Artikel 3. Vorm en aard
+##### Artikel 3. Vorm en aard
 
 1. Het kenteken (rood op een wit veld) dient zo groot te zijn als onder de desbetreffende omstandigheden wenselijk is. Voor de vorm van het kruis, de halve maan of de leeuw en zon kunnen de Hoge Verdragsluitende Partijen het model van figuur 2 als richtsnoer nemen.
 
@@ -1416,7 +1438,7 @@ Het origineel van dit Protocol, waarvan de Arabische, Chinese, Engelse, Franse, 
 
 **Figuur 2: Kentekenen in rood op een wit veld**
 
-#### Artikel 4. Gebruik
+##### Artikel 4. Gebruik
 
 1. De kentekenen dienen zoveel mogelijk te worden aangebracht op een plat oppervlak of op vlaggen, die vanuit zoveel mogelijk richtingen en vanaf een zo groot mogelijke afstand zichtbaar zijn.
 
@@ -1424,13 +1446,13 @@ Het origineel van dit Protocol, waarvan de Arabische, Chinese, Engelse, Franse, 
 
 ### Hoofdstuk III. HERKENNINGSEISEN
 
-#### Artikel 5. Facultatief gebruik
+##### Artikel 5. Facultatief gebruik
 
 1. Onverminderd de bepalingen van artikel 6 van deze Voorschriften mogen de seinen, in dit Hoofdstuk omschreven en bestemd om uitsluitend door medische formaties en vervoermiddelen te worden gebruikt, niet worden gebruikt voor andere doeleinden. Het gebruik van alle in dit Hoofdstuk bedoelde seinen is facultatief.
 
 2. Tijdelijke medische luchtvaartuigen, waarop hetzij door tijdgebrek of wegens hun bijzondere eigenschappen het kenteken niet kan worden aangebracht, kunnen de in dit Hoofdstuk toegestane eisen gebruiken. De doeltreffendste methode tot identificatie en herkenning van medische luchtvaartuigen is evenwel het gebruik van een visueel sein, hetzij het kenteken of het in artikel 6 omschreven lichtsein of beide, aangevuld door de andere in de artikelen 7 en 8 van deze Voorschriften bedoelde seinen.
 
-#### Artikel 6. Lichtsein
+##### Artikel 6. Lichtsein
 
 1. Het lichtsein, bestaande uit een blauw flitslicht, dient te worden gebruikt door medische luchtvaartuigen om hun identiteit kenbaar te maken. Andere luchtvaartuigen mogen dit sein niet gebruiken. De aanbevolen blauwe kleur wordt verkregen door middel van de volgende driekleurencoördinaten:
 
@@ -1445,7 +1467,7 @@ De aanbevolen frequentie van de blauwe flitsen is tussen zestig en honderd flits
 
 3. Bij afwezigheid van een bijzondere overeenkomst tussen de partijen bij het conflict, waarin het gebruik van blauwe flitslichten wordt voorbehouden voor de identificatie van medische voertuigen en medische schepen en vaartuigen, is het gebruik van zodanige seinen niet verboden voor andere voertuigen of schepen.
 
-#### Artikel 7. Radioberichtgeving
+##### Artikel 7. Radioberichtgeving
 
 1. Het radiobericht bestaat uit een radiotelefonische of radiotelegrafische mededeling, voorafgegaan door een prioriteitsherkenningssein, dat dient te zijn aangewezen en goedgekeurd door een Mondiale Administratieve Radioconferentie van de Internationale Vereniging voor Telecommunicatie. Het signaal moet driemaal worden uitgezonden vóór de roepnaam van het desbetreffende medische transport. Deze mededeling dient in het Engels te worden uitgezonden met passende tussenpozen op een frequentie of op frequenties, aangewezen overeenkomstig het derde lid. Het gebruik van het prioriteitssein is uitsluitend voorbehouden aan medische formaties en vervoermiddelen.
 
@@ -1465,7 +1487,7 @@ De aanbevolen frequentie van de blauwe flitsen is tussen zestig en honderd flits
 
 3. Ter vergemakkelijking van de verbindingen, bedoeld in het eerste en het tweede lid, evenals van de verbindingen, bedoeld in de artikelen 22, 23, 25, 26, 27, 28, 29, 30 en 31 van het Protocol, kunnen de Hoge Verdragsluitende Partijen, de partijen bij een conflict of één van de partijen bij een conflict, in onderlinge overeenstemming of ieder afzonderlijk, overeenkomstig de Tabel van toewijzingen van frequenties van het bij het Internationale Verdrag betreffende de Telecommunicatie gevoegde Radioreglement, daartoe uitgekozen nationale frequenties aanwijzen en bekendmaken om door hen voor zodanige verbindingen te worden gebruikt. Deze frequenties dienen te worden medegedeeld aan de Internationale Vereniging voor Telecommunicatie overeenkomstig een door een Mondiale Administratieve Radioconferentie goed te keuren procedure.
 
-#### Artikel 8. Elektronische identificatie
+##### Artikel 8. Elektronische identificatie
 
 1. Het radar-bewakingssysteem met behulp van herkenningsbakens (SSR-systeem), als omschreven in [Bijlage 10 bij het Verdrag van Chicago inzake de internationale burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&bijlage=10) van 7 december 1944, zoals dat periodiek is gewijzigd, kan worden gebruikt om een medisch luchtvaartuig te identificeren en de vlucht daarvan te volgen. De wijze van gebruik en de codes die moeten worden voorbehouden voor het uitsluitende gebruik door medische luchtvaartuigen dienen te worden vastgesteld door de Hoge Verdragsluitende Partijen, de partijen bij een conflict of één van de partijen bij een conflict, in onderlinge overeenstemming of ieder afzonderlijk, overeenkomstig een door de Internationale Burgerluchtvaartorganisatie aan te bevelen procedure.
 
@@ -1473,29 +1495,29 @@ De aanbevolen frequentie van de blauwe flitsen is tussen zestig en honderd flits
 
 ### Hoofdstuk IV. VERBINDINGEN
 
-#### Artikel 9. Radioverbindingen
+##### Artikel 9. Radioverbindingen
 
 Het in artikel 7 van deze Voorschriften voorziene prioriteitssein kan voorafgaan aan de daarvoor in aanmerking komende radioverbindingen van de medische formaties en vervoermiddelen ter toepassing van de krachtens de artikelen 22, 23, 25, 26, 27, 28, 29, 30 en 31 van het Protocol gevolgde procedures.
 
-#### Artikel 10. Gebruik van internationale codes
+##### Artikel 10. Gebruik van internationale codes
 
 De medische formaties en vervoermiddelen kunnen tevens de door de Internationale Vereniging voor Telecommunicatie, de Internationale Burgerluchtvaartorganisatie en de Intergouvernementele Maritieme Consultatieve Organisatie vastgestelde codes en seinen gebruiken. Deze codes en seinen dienen te worden gebruikt in overeenstemming met de door die Organisaties opgestelde normen, gebruiken en procedures.
 
-#### Artikel 11. Andere verbindingsmiddelen
+##### Artikel 11. Andere verbindingsmiddelen
 
 Wanneer in het radioverkeer twee weg-verbindingen niet mogelijk zijn, kunnen de seinen, voorzien in het door de Intergouvernementele Maritieme Consultatieve Organisatie aangenomen Internationale Seinboek of in de desbetreffende Bijlage bij het Verdrag van Chicago inzake de internationale burgerluchtvaart van 7 december 1944, zoals dat periodiek is gewijzigd, worden gebruikt.
 
-#### Artikel 12. Vluchtplannen
+##### Artikel 12. Vluchtplannen
 
 De in artikel 29 van het Protocol voorziene overeenkomsten en mededelingen betreffende vluchtplannen dienen zoveel mogelijk te worden geformuleerd overeenkomstig door de Internationale Burgerluchtvaartorganisatie opgestelde procedures.
 
-#### Artikel 13. Seinen en procedures voor de onderschepping van medische luchtvaartuigen
+##### Artikel 13. Seinen en procedures voor de onderschepping van medische luchtvaartuigen
 
 Wanneer een onderscheppingsvliegtuig wordt gebruikt om de identiteit van een medisch luchtvaartuig tijdens de vlucht vast te stellen of om dat medisch luchtvaartuig het bevel tot landen te geven overeenkomstig de artikelen 30 en 31 van het Protocol, dienen de visuele standaardprocedures en de radiostandaardprocedures betreffende onderschepping, voorgeschreven door [Bijlage 2 bij het Verdrag van Chicago inzake de burgerluchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBV0005507&bijlage=2) van 7 december 1944, zoals dat periodiek is gewijzigd, te worden gebruikt door het onderscheppingsvliegtuig en het medische luchtvaartuig.
 
 ### Hoofdstuk V. CIVIELE BESCHERMING
 
-#### Artikel 14. Identiteitskaart
+##### Artikel 14. Identiteitskaart
 
 1. Op de in artikel 66, derde lid, van het Protocol voorziene identiteitskaart van het personeel voor de civiele bescherming zijn de desbetreffende bepalingen van artikel 1 van deze Voorschriften van toepassing.
 
@@ -1503,7 +1525,7 @@ Wanneer een onderscheppingsvliegtuig wordt gebruikt om de identiteit van een med
 
 3. Wanneer het aan het personeel voor de civiele bescherming is toegestaan, lichte persoonlijke wapens te dragen, dient een aantekening ter zake op de vermelde kaart te worden gesteld.
 
-#### Artikel 15. Internationaal kenteken
+##### Artikel 15. Internationaal kenteken
 
 1. Het in artikel 66, vierde lid, van het Protocol voorziene internationale kenteken van de civiele bescherming is een gelijkzijdige blauwe driehoek op een oranje veld. Het is afgebeeld op figuur 4:
 
@@ -1521,7 +1543,7 @@ Wanneer een onderscheppingsvliegtuig wordt gebruikt om de identiteit van een med
 
 ### Hoofdstuk VI. WERKEN EN INSTALLATIES DIE GEVAARLIJKE KRACHTEN BEVATTEN
 
-#### Artikel 16. Bijzonder internationaal teken
+##### Artikel 16. Bijzonder internationaal teken
 
 1. Het bijzondere internationale teken voor werken en installaties die gevaarlijke krachten bevatten, als voorzien in artikel 56, zevende lid, van het Protocol, bestaat uit een groep van drie helder oranje cirkels van gelijke grootte, geplaatst op één as, zodanig dat de afstand tussen de cirkels gelijk is aan de straal, overeenkomstig figuur 5 hieronder.
 

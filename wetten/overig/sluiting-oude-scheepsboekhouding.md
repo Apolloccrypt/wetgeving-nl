@@ -1,14 +1,38 @@
 ---
-title: "Sluiting oude scheepsboekhouding"
+title: "Wet van 23 oktober 1952, houdende nadere regeling inzake de sluiting van de scheepsboekhouding, aangehouden krachtens het Koninklijk besluit van 21 juni 1836, Stb. 41"
 identifier: "BWBR0002101"
-categorie: "Overig"
-publicatiedatum: 1952-12-01
-laatste_update: 1952-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002101"
+country: "nl"
+rank: "wet"
+publication_date: "1952-12-01"
+last_updated: "1952-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002101"
+soort: "wet"
+stam_id: "1753023"
+version_id: "2600872"
+internal_id: "C2600871"
+label_id: "1707634"
+dtd_version: "2.0"
+original_entry_into_force: "1952-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002101/1952-12-01/0"
+intitule_bron: "Stb.1952-529"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1952-10-23"
+intitule_status: "goed"
+original_publication: "Stb.1952-529"
+original_signed_date: "1952-10-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "2093"
+entry_into_force_date: "1952-12-01"
+entry_into_force_dossier: "2093"
+jci_1_3: "jci1.3:c:BWBR0002101&z=1952-12-01&g=1952-12-01"
+jci_1_0: "1.0:c:BWBR0002101&g=1952-12-01"
+citeertitel_status: "officieel"
+short_title: "Sluiting oude scheepsboekhouding"
+signed_date: "1952-10-23"
+entry_into_force: "1952-12-01"
 ---
-
-# Sluiting oude scheepsboekhouding
+# Wet van 23 oktober 1952, houdende nadere regeling inzake de sluiting van de scheepsboekhouding, aangehouden krachtens het Koninklijk besluit van 21 juni 1836, Stb. 41
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,13 +40,13 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is gebleken over te gaa
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Indien aan een vordering een recht van voorrang is verbonden ingevolge een pand- of verbandbrief ten laste van een schip, dat is opgenomen in de scheepsboekhouding, aangehouden volgens het Koninklijk besluit van 21 Juni 1836, **Staatsblad** no. 41, welks eigenaar noch aan de hem bij artikel 26, eerste lid, van het Koninklijk besluit van 28 December 1925, **Staatsblad** no. 518, opgelegde verplichting heeft voldaan, noch ook binnen zes maanden na het tijdstip van inwerkingtreding van deze wet een verklaring van eigendom betreffende dat schip heeft doen overschrijven in het scheepsregister, wordt deze vordering zes maanden na voormelde inwerkingtreding opeisbaar en vervalt het recht van voorrang een jaar na deze inwerkingtreding.
 
 2. In afwijking van het bepaalde in het eerste lid wordt bij de verdeling van de opbrengst ener executie, bij de vereffening van een onder voorrecht van boedelbeschrijving aanvaarde nalatenschap en in geval van faillissement het recht van voorrang in acht genomen, indien het beslag is gelegd, de nalatenschap is opengevallen of het faillissement is uitgesproken voordat een jaar sedert het tijdstip van inwerkingtreding van deze wet is verstreken.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Na verloop van één jaar sedert het tijdstip van inwerkingtreding van deze wet zullen in de scheepsboekhouding, aangehouden volgens het Koninklijk besluit van 21 Juni 1836, **Staatsblad** no. 41, geen verrichtingen meer geschieden en kan niet meer worden voldaan aan verzoeken om inzage van of om afschriften of uittreksels uit de daartoe behorende registers, boeken en verdere stukken.
 

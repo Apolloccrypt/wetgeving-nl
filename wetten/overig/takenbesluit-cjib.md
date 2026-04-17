@@ -1,13 +1,39 @@
 ---
-title: "Takenbesluit CJIB"
+title: "Besluit van de Secretaris Generaal van het Ministerie van Justitie en Veiligheid, 29 november 2021, nr. 3342915 houdende nadere bepalingen inzake de taakopdracht van het Centraal Justitieel Incassobureau (Takenbesluit CJIB)"
 identifier: "BWBR0045971"
-categorie: "Overig"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045971"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045971"
+soort: "ministeriele-regeling"
+stam_id: "16168213"
+version_id: "28210612"
+internal_id: "C39767401"
+label_id: "16096534"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045971/2024-04-01/0"
+intitule_bron: "Stcrt.2021-48742"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-11-29"
+intitule_published: "2021-12-02"
+intitule_in_force: "2021-12-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-48742"
+original_signed_date: "2021-11-29"
+original_published_date: "2021-12-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-48742"
+entry_into_force_date: "2021-12-03"
+jci_1_3: "jci1.3:c:BWBR0045971&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0045971&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Takenbesluit CJIB"
+signed_date: "2021-11-29"
+entry_into_force: "2021-12-03"
 ---
-
 # Besluit van de Secretaris Generaal van het Ministerie van Justitie en Veiligheid, 29 november 2021, nr. 3342915 houdende nadere bepalingen inzake de taakopdracht van het Centraal Justitieel Incassobureau (Takenbesluit CJIB)
 
 Gelet op [artikel 63d, tweede lid, van het Organisatiebesluit Ministerie van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63d);
@@ -18,7 +44,7 @@ Overwegende, mede hetgeen is opgenomen in de USB [beleidsregel ‘tenuitvoerlegg
 
 Besluit:
 
-#### Artikel 1. Taken en bevoegdheden
+##### Artikel 1. Taken en bevoegdheden
 
 1. Ten aanzien van hetgeen in [artikel 63d, eerste lid, onderdeel b, van het Organisatiebesluit van Justitie en Veiligheid](https://wetten.overheid.nl/jci1.3:c:BWBR0040293&artikel=63d) staat vermeld, wordt een nadere uitwerking gegeven van de navolgende bevoegdheden en feitelijke handelingen:
 
@@ -142,11 +168,11 @@ Het informeren en raadplegen van slachtoffers bij de v.i. en bij een uitplaatsin
 
 - g. het aanbieden van een zaak aan de betreffende bevoegde autoriteit met als doel overdracht aan het buitenland ten behoeve van tenuitvoerlegging.
 
-#### Artikel 2. Inwerkingtreding
+##### Artikel 2. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 3. Citeertitel
+##### Artikel 3. Citeertitel
 
 Dit besluit wordt aangehaald als: Takenbesluit CJIB
 

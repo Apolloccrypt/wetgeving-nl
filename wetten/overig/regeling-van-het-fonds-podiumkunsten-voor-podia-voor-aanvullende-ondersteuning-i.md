@@ -1,20 +1,45 @@
 ---
 title: "Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen"
 identifier: "BWBR0043706"
-categorie: "Overig"
-publicatiedatum: 2020-06-26
-laatste_update: 2020-06-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043706"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-06-26"
+last_updated: "2020-06-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043706"
+soort: "zbo"
+stam_id: "15510623"
+version_id: "26802322"
+internal_id: "C37977641"
+label_id: "15453224"
+dtd_version: "2.0"
+original_entry_into_force: "2020-06-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043706/2020-06-26/0"
+intitule_bron: "Stcrt.2020-33305"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-06-11"
+intitule_published: "2020-06-25"
+intitule_in_force: "2020-06-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-33305"
+original_signed_date: "2020-06-11"
+original_published_date: "2020-06-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-33305"
+entry_into_force_date: "2020-06-26"
+jci_1_3: "jci1.3:c:BWBR0043706&z=2020-06-26&g=2020-06-26"
+jci_1_0: "1.0:c:BWBR0043706&g=2020-06-26"
+citeertitel_status: "officieel"
+signed_date: "2020-06-11"
+entry_into_force: "2020-06-26"
 ---
-
 # Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen
 
 Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10) en [artikel 2 van het Algemeen Reglement Fonds Podiumkunsten](https://wetten.overheid.nl/jci1.3:c:BWBR0030539&artikel=2)
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. In dit reglement wordt verstaan onder:
 
@@ -52,11 +77,11 @@ Besluit:
 
 - g. overige baten die geen relatie hebben met cultureel ondernemerschap.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het bestuur kent in het kader van deze regeling financiële bijdrages toe aan podia die een vitale en cruciale functie vervullen in de infrastructuur in Nederland om hen tegemoet te komen in de omzetderving als gevolg van de COVID-19-crisis.
 
-#### Artikel 3. Vereisten aanvragers
+##### Artikel 3. Vereisten aanvragers
 
 1. Een bijdrage in het kader van deze regeling kan worden toegekend aan podia die:
 
@@ -84,7 +109,7 @@ Het bestuur kent in het kader van deze regeling financiële bijdrages toe aan po
 
 - b. zijn gevestigd in de provincies Drenthe, Zeeland en Flevoland.
 
-#### Artikel 4. Subsidieplafond
+##### Artikel 4. Subsidieplafond
 
 1. Voor deze regeling is 26.000.000 euro beschikbaar voor podia als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043706&artikel=3&z=2020-06-26&g=2020-06-26). Indien het subsidieplafond zou worden overschreden door het honoreren van alle aanvragen die voldoen aan het bepaalde in deze regeling worden de te verlenen subsidiebedragen naar rato verlaagd tot het niveau waarbinnen het totaal beschikbare bedrag volledig kan worden benut.
 
@@ -94,7 +119,7 @@ Het bestuur kent in het kader van deze regeling financiële bijdrages toe aan po
 
 4. Besluiten als bedoeld in het derde lid worden bekendgemaakt via de website van het Fonds Podiumkunsten.
 
-#### Artikel 5. Indiening
+##### Artikel 5. Indiening
 
 1. Een aanvraag wordt ingediend met behulp van een door het bestuur opgesteld aanvraagformulier.
 
@@ -102,11 +127,11 @@ Het bestuur kent in het kader van deze regeling financiële bijdrages toe aan po
 
 3. Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds Podiumkunsten en vergezeld gaat van de op het formulier vermelde bijlagen.
 
-#### Artikel 6. Procedure
+##### Artikel 6. Procedure
 
 Het bestuur besluit gelijktijdig op alle aanvragen.
 
-#### Artikel 7. Toekenning
+##### Artikel 7. Toekenning
 
 1. Het bestuur kent een financiële bijdrage toe ten behoeve van een initiatief als dat voldoet aan de eisen uit deze regeling en voor zover de financiële middelen dat toelaten.
 
@@ -116,7 +141,7 @@ Het bestuur besluit gelijktijdig op alle aanvragen.
 
 4. Een bijdrage kan alleen definitief worden toegezegd als de aanvrager naar genoegen van het bestuur aannemelijk maakt dat de overige financiering beschikbaar is of zal komen. Als dit niet het geval is wordt het subsidie verleend onder de ontbindende voorwaarde van verstrekking van de additionele financiële bijdrage.
 
-#### Artikel 8. Weigeringsgronden
+##### Artikel 8. Weigeringsgronden
 
 Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) wordt een aanvraag afgewezen indien naar het oordeel van het bestuur:
 
@@ -128,7 +153,7 @@ Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - d. de aanvraag niet voldoet aan de vereisten, criteria en bepalingen genoemd in deze regeling.
 
-#### Artikel 9. Verantwoording
+##### Artikel 9. Verantwoording
 
 1. De subsidieontvanger stuurt voor 1 april 2021 een inhoudelijke verantwoording met betrekking tot de besteding van de besteding van de middelen.
 
@@ -136,15 +161,15 @@ Onverminderd het bepaalde in de [Awb](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 3. Het bestuur kan nadere voorwaarden stellen aan de inrichting van de verantwoording.
 
-#### Artikel 10. Overig
+##### Artikel 10. Overig
 
 In alle gevallen waarin dit reglement niet voorziet, beslist het bestuur.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling van het Fonds Podiumkunsten voor podia voor aanvullende ondersteuning in verband met gederfde inkomsten als gevolg van COVID-19-maatregelen.
 

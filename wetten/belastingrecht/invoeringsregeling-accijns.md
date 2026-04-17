@@ -1,28 +1,52 @@
 ---
 title: "Invoeringsregeling accijns"
 identifier: "BWBR0005354"
-categorie: "Belastingrecht"
-publicatiedatum: 1992-01-01
-laatste_update: 1992-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005354"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1992-01-01"
+last_updated: "1992-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005354"
+soort: "ministeriele-regeling"
+stam_id: "3730603"
+version_id: "5513492"
+internal_id: "C5706581"
+label_id: "3710374"
+dtd_version: "2.0"
+original_entry_into_force: "1992-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005354/1992-01-01/0"
+intitule_bron: "Stcrt.1991-252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-12-20"
+intitule_published: "1991-12-30"
+intitule_in_force: "1991-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1991-252"
+original_signed_date: "1991-12-20"
+original_published_date: "1991-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-01-01"
+jci_1_3: "jci1.3:c:BWBR0005354&z=1992-01-01&g=1992-01-01"
+jci_1_0: "1.0:c:BWBR0005354&g=1992-01-01"
+citeertitel_status: "officieel"
+signed_date: "1991-12-20"
+entry_into_force: "1992-01-01"
 ---
-
 # Invoeringsregeling accijns
 
 Gelet op de [artikelen 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=7), en [19, tweede lid, onderdeel a, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19) 1964 (Stb. 1959, 301) en de artikelen XXVIII, derde lid, en XXXIII van de [Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346) (Stb. 1991, 740);
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsbeschikking [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) 1964
 
-#### Artikel II
+##### Artikel II
 
 De in [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0005354&artikel=I&z=1992-01-01&g=1992-01-01), bedoelde bijlage van deze regeling ligt ter inzage bij de Directie Wetgeving Verbruiksbelastingen van het Ministerie van Financiën.
 
-#### Artikel III
+##### Artikel III
 
 1. De teruggaaf als bedoeld in artikel XXVIII, [eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005346), van de [Invoeringswet Wet op de accijns](https://wetten.overheid.nl/jci1.3:c:BWBR0005346) (Stb. 1991, 740) van accijns voor als overige alcoholhoudende produkten aan te merken parfumerieën, toiletartikelen en kosmetische produkten bedraagt:
 
@@ -44,7 +68,7 @@ De in [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0005354&a
 
 - d. het bedrag van de teruggaaf waarop aanspraak wordt gemaakt.
 
-#### Artikel IV
+##### Artikel IV
 
 De navolgende ministeriële regelingen worden ingetrokken:
 
@@ -68,6 +92,6 @@ De navolgende ministeriële regelingen worden ingetrokken:
 
 - 10º. De Regeling loodgehalte lichte olie (Stcrt. 1991, 128).
 
-#### Artikel V
+##### Artikel V
 
 Deze regeling treedt in werking met ingang van 1 januari 1992. Deze regeling kan worden aangehaald als Invoeringsregeling accijns.

@@ -1,13 +1,35 @@
 ---
-title: "Aanwijzingen inzake openbaarheid van bestuur"
+title: "Circulaire van 8 april 1992"
 identifier: "BWBR0005469"
-categorie: "Bestuursrecht"
-publicatiedatum: 1998-04-01
-laatste_update: 1998-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005469"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-04-01"
+last_updated: "1998-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005469"
+soort: "ministeriele-regeling"
+stam_id: "1504163"
+version_id: "2243112"
+internal_id: "C28768341"
+label_id: "1460554"
+dtd_version: "2.0"
+original_entry_into_force: "1992-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005469/1998-04-01/0"
+intitule_bron: "Stcrt.1992-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-08"
+intitule_status: "goed"
+original_publication: "Stcrt.1992-84"
+original_signed_date: "1992-04-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1992-05-01"
+jci_1_3: "jci1.3:c:BWBR0005469&z=1998-04-01&g=1998-04-01"
+jci_1_0: "1.0:c:BWBR0005469&g=1998-04-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzingen inzake openbaarheid van bestuur"
+signed_date: "1992-04-08"
+entry_into_force: "1992-05-01"
 ---
-
 # Circulaire van 8 april 1992
 
 ### 1. Inleiding

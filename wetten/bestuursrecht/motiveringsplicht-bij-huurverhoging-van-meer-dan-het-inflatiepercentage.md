@@ -1,13 +1,37 @@
 ---
 title: "Motiveringsplicht bij huurverhoging van meer dan het inflatiepercentage"
 identifier: "BWBR0011424"
-categorie: "Bestuursrecht"
-publicatiedatum: 2000-07-01
-laatste_update: 2000-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011424"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-07-01"
+last_updated: "2000-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011424"
+soort: "circulaire"
+stam_id: "6353943"
+version_id: "11011342"
+internal_id: "C14905571"
+label_id: "6342854"
+original_entry_into_force: "2000-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011424/2000-07-01/0"
+intitule_bron: "Stcrt.2000-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-19"
+intitule_published: "2000-06-29"
+intitule_in_force: "2000-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-123"
+original_signed_date: "2000-06-19"
+original_published_date: "2000-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-123-p14-SC24596"
+entry_into_force_date: "2000-07-01"
+jci_1_3: "jci1.3:c:BWBR0011424&z=2000-07-01&g=2000-07-01"
+jci_1_0: "1.0:c:BWBR0011424&g=2000-07-01"
+citeertitel_status: "redactioneel"
+signed_date: "2000-06-19"
+entry_into_force: "2000-07-01"
 ---
-
 # Motiveringsplicht bij huurverhoging van meer dan het inflatiepercentage
 
 Geacht College,

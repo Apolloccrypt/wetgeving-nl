@@ -1,13 +1,37 @@
 ---
 title: "Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Productschap Tuinbouw over de periode vanaf 1997"
 identifier: "BWBR0017753"
-categorie: "Overig"
-publicatiedatum: 2005-01-15
-laatste_update: 2005-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017753"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2005-01-15"
+last_updated: "2005-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017753"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "6625363"
+version_id: "11466432"
+internal_id: "C25315601"
+label_id: "6613694"
+original_entry_into_force: "2005-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017753/2005-01-15/0"
+intitule_bron: "Stcrt.2005-9"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-16"
+intitule_published: "2005-01-13"
+intitule_in_force: "2005-01-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-9"
+original_signed_date: "2004-12-16"
+original_published_date: "2005-01-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-9-p41-SC68450"
+entry_into_force_date: "2005-01-15"
+jci_1_3: "jci1.3:c:BWBR0017753&z=2005-01-15&g=2005-01-15"
+jci_1_0: "1.0:c:BWBR0017753&g=2005-01-15"
+citeertitel_status: "redactioneel"
+signed_date: "2004-12-16"
+entry_into_force: "2005-01-15"
 ---
-
 # Vaststellingsbesluit selectielijst neerslag handelingen op het beleidsterrein Productschap Tuinbouw over de periode vanaf 1997
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,11 +40,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 12 mei 2004, n
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het Productschap Tuinbouw en de onder hem ressorterende actoren op het beleidsterrein Productschap Tuinbouw over de periode vanaf 1997’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

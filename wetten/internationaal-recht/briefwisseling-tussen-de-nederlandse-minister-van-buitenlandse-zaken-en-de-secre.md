@@ -1,16 +1,38 @@
 ---
 title: "Briefwisseling tussen de Nederlandse Minister van Buitenlandse Zaken en de Secretaris-Generaal van de Haagse Conferentie voor International Privaatrecht inzake het verlenen van voorrechten en immuniteiten aan de organen der Conferentie"
 identifier: "BWBV0005211"
-categorie: "Internationaal recht"
-publicatiedatum: 1959-12-01
-laatste_update: 1959-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005211"
+country: "nl"
+rank: "verdrag"
+publication_date: "1959-12-01"
+last_updated: "1959-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005211"
+soort: "verdrag"
+stam_id: "10004517253"
+version_id: "10004733922"
+internal_id: "C10007006121"
+label_id: "10004501744"
+dtd_version: "2.0"
+original_entry_into_force: "1959-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005211/1959-12-01/0"
+intitule_bron: "Trb.1959-181"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1959-12-22"
+intitule_in_force: "1959-12-22"
+intitule_status: "goed"
+original_publication: "Trb.1959-181"
+original_published_date: "1959-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1959-181"
+entry_into_force_date: "1959-12-01"
+jci_1_3: "jci1.3:c:BWBV0005211&z=1959-12-01&g=1959-12-01"
+jci_1_0: "1.0:c:BWBV0005211&g=1959-12-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1959-12-01"
 ---
-
 # Briefwisseling tussen de Nederlandse Minister van Buitenlandse Zaken en de Secretaris-Generaal van de Haagse Conferentie voor International Privaatrecht inzake het verlenen van voorrechten en immuniteiten aan de organen der Conferentie
 
-#### A
+##### A
 
 1. La personnalité juridique de la Conférence de La Haye de droit international privé est reconnue.
 
@@ -22,7 +44,7 @@ bron: "https://wetten.overheid.nl/BWBV0005211"
 
 - c. des mêmes facilités en ce qui concerne leurs bagages personnels que celles qui sont accordées aux représentants de Gouvernements étrangers en mission officielle.
 
-#### B
+##### B
 
 3. Les biens et avoirs de la Conférence et les locaux où les bureaux du Bureau Permanent sont installés, sont exempts de perquisition, réquisition, confiscation ou expropriation.
 
@@ -40,7 +62,7 @@ Les documents et archives appartenant au Bureau Permanent ou détenus par lui, o
 
 Toutefois, le Bureau Permanent sera tenu de payer les droits à partir du moment où les articles importés en franchise seraient, temporairement ou non, cédés ou transférés ou mis à la disposition de tiers pour leur usage personnel.
 
-#### C
+##### C
 
 6. Les fonctionnaires du Bureau Permanent jouiront en ce qui concerne les traitements et émoluments versés par le Bureau Permanent de l'exonération des impôts néerlandais, si ces traitements et émoluments sont soumis à des impôts en faveur de la Conférence. Le Secrétaire général et les Secrétaires du Bureau Permanent:
 
@@ -60,7 +82,7 @@ Toutefois, le Bureau Permanent sera tenu de payer les droits à partir du moment
 
 8. Le Ministère des Affaires Etrangères accordera aux fonctionnaires mentionnés sous 7 une carte d'identité pour la durée de leur séjour officiel aux Pays-Bas; ce Ministère délivrera également des certificats d'immatriculation pour les voitures automobiles des ces fonctionnaires.
 
-#### D
+##### D
 
 9. Les privilèges et immunités sont accordés aux fonctionnaires dans l'intérêt du Bureau Permanent et non pour le bénéfice personnel des fonctionnaires individuels.
 

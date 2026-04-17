@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster"
+title: "Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241275, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)"
 identifier: "BWBR0032469"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032469"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032469"
+soort: "beleidsregel"
+stam_id: "11962053"
+version_id: "19886072"
+internal_id: "C27923631"
+label_id: "11934104"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032469/2013-01-01/0"
+intitule_bron: "Stcrt.2012-25329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-05"
+intitule_published: "2012-12-18"
+intitule_in_force: "2012-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-25329"
+original_signed_date: "2012-12-05"
+original_published_date: "2012-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-25329"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0032469&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0032469&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster"
+signed_date: "2012-12-05"
+entry_into_force: "2013-01-01"
 ---
-
 # Regeling van de Minister van Infrastructuur en Milieu, van 5 december 2012, nr. IENM/BSK-2012/241275, houdende vaststelling beleidsregels voor de sturing van en het toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster (Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster)
 
 Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [artikel 21 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regels wordt verstaan onder:
 
@@ -28,7 +54,7 @@ In deze regels wordt verstaan onder:
 
 #### § 2. Bestuur van de Dienst
 
-#### Artikel 2. Goedkeuring bestuursreglement
+##### Artikel 2. Goedkeuring bestuursreglement
 
 Bij de goedkeuring van het bestuursreglement op grond van [artikel 11 Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=11) juncto [artikel 9 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=9) bekijkt de minister in ieder geval of ten aanzien van de hierna volgende onderwerpen bepalingen zijn opgenomen:
 
@@ -46,7 +72,7 @@ Bij de goedkeuring van het bestuursreglement op grond van [artikel 11 Kaderwet](
 
 - g. de handelwijze in geval van tegenstrijdige belangen van een lid van het bestuur.
 
-#### Artikel 3. Procedure benoeming nieuwe leden bestuur
+##### Artikel 3. Procedure benoeming nieuwe leden bestuur
 
 1. Bij de benoeming van een nieuw lid van het bestuur worden de volgende processtappen gevolgd:
 
@@ -64,7 +90,7 @@ Bij de goedkeuring van het bestuursreglement op grond van [artikel 11 Kaderwet](
 
 2. Indien de minister besluit tot afwijzing van de kandidaat, wordt de procedure herhaald.
 
-#### Artikel 4. Procedure herbenoeming leden bestuur
+##### Artikel 4. Procedure herbenoeming leden bestuur
 
 1. Bij de herbenoeming van een lid van het bestuur worden de volgende processtappen gevolgd:
 
@@ -76,17 +102,17 @@ Bij de goedkeuring van het bestuursreglement op grond van [artikel 11 Kaderwet](
 
 2. Indien uit het in het eerste lid, onderdeel a, genoemde overleg blijkt dat er bij de betrokkenen onvoldoende draagvlak bestaat voor de herbenoeming, of de minister besluit tot afwijzing, wordt de procedure van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0032469&paragraaf=2&artikel=3&z=2013-01-01&g=2013-01-01) gevolgd.
 
-#### Artikel 5. Schorsing en ontslag van het bestuur
+##### Artikel 5. Schorsing en ontslag van het bestuur
 
 Voorafgaand aan schorsing of ontslag van de leden van het bestuur informeert de minister de raad van toezicht over zijn voornemen.
 
-#### Artikel 6. Bezoldiging bestuur
+##### Artikel 6. Bezoldiging bestuur
 
 Ten behoeve van het vaststellen van de bezoldiging van het bestuur conform [artikel 14, tweede lid, van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14), verzoekt de minister de raad van toezicht om een voorstel voor de bezoldiging van het bestuur op te stellen, rekening houdend met de [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](https://wetten.overheid.nl/jci1.3:c:BWBR0032249). De raad van toezicht kan binnen een door de minister vastgestelde marge jaarlijks een variabele component toekennen aan de directie, afhankelijk van de prestaties en de realisatie van vooraf tussen de raad van toezicht en het bestuur overeengekomen doelen. Die marge blijft binnen de grenzen die de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector stelt.
 
 #### § 3. Raad van toezicht van de Dienst
 
-#### Artikel 7. Reglement van de raad van toezicht
+##### Artikel 7. Reglement van de raad van toezicht
 
 Bij de goedkeuring van het reglement van de raad van toezicht op grond van [artikel 14, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0006463&artikel=14) bekijkt de minister in ieder geval of ten aanzien van de hierna volgende onderwerpen bepalingen zijn opgenomen:
 
@@ -102,7 +128,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 - f. de instelling en werkwijze van commissies zoals een auditcommissie.
 
-#### Artikel 8. Benoeming nieuwe leden raad van toezicht
+##### Artikel 8. Benoeming nieuwe leden raad van toezicht
 
 1. Bij de benoeming van een nieuw lid van de raad van toezicht worden de volgende processtappen gevolgd:
 
@@ -120,7 +146,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 2. Indien de minister besluit tot afwijzing van de kandidaat, wordt de procedure herhaald.
 
-#### Artikel 9. Procedure herbenoeming leden raad van toezicht
+##### Artikel 9. Procedure herbenoeming leden raad van toezicht
 
 1. Bij de herbenoeming van een lid van de raad van toezicht worden de volgende processtappen gevolgd:
 
@@ -134,7 +160,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 #### § 4. Financieel toezicht
 
-#### Artikel 10. Tarieven voor taken of strategische eenheden op grond van [artikel 3 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3)
+##### Artikel 10. Tarieven voor taken of strategische eenheden op grond van [artikel 3 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3)
 
 1. De kostprijzen die ten grondslag liggen aan de tarieven voor taken conform [artikel 3 van de Kadasterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004541&artikel=3), alsmede aan de tarieven voor andere op basis van een wet opgedragen taken, worden op basis van bedrijfseconomisch aanvaardbare verdeelsleutels bepaald.
 
@@ -146,13 +172,13 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 - c. over- of onderdekking teneinde de vermogenspositie te wijzigen.
 
-#### Artikel 11. Tarieven voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens een wet
+##### Artikel 11. Tarieven voor andere opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens een wet
 
 1. Bij andere door de minister opgedragen taken, voor zover deze taken niet mede een andere basis hebben in of krachtens een wet geeft de minister bij het opdragen van die taken aan dat er tarieven voor die taken in rekening worden gebracht en aan welke eisen deze prijzen moeten voldoen.
 
 2. Indien voor deze tarieven een wettelijke basis noodzakelijk is, zorgt de minister hiervoor.
 
-#### Artikel 12. Inhoud tarievenvoorstel
+##### Artikel 12. Inhoud tarievenvoorstel
 
 1. De minister besteedt bij de beoordeling van het voorstel voor de tarieven en tariefwijzigingen in ieder geval aandacht aan de volgende aspecten:
 
@@ -188,7 +214,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 4. De Dienst informeert de minister bij voorgestelde tariefwijzigingen en tarieven voor nieuwe taken of clusters van taken inzake de mogelijk aan het voorstel gekoppelde gevoeligheden.
 
-#### Artikel 13. Begroting
+##### Artikel 13. Begroting
 
 1. Ten behoeve van de goedkeuring van het besluit tot vaststelling van de begroting conform [artikel 29 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) beoordeelt de minister de begroting zoals door de Dienst bij de minister neergelegd na instemming van de raad van toezicht en besteedt daarbij in ieder geval aandacht aan hetgeen in het tweede lid benoemd.
 
@@ -206,7 +232,7 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 3. Om de minister in staat te stellen de begroting goed te beoordelen voegt de Dienst bij de begroting relevante informatie over het lopende jaar.
 
-#### Artikel 14. Meerjarenbeleidsplan
+##### Artikel 14. Meerjarenbeleidsplan
 
 1. Ten behoeve van de goedkeuring van het besluit tot vaststelling van de begroting conform [artikel 29 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=29) beoordeelt de minister de begroting, zoals dat door de dienst aan de minister is aangeboden na instemming van de raad van toezicht, en besteedt hij daarbij in ieder geval aandacht aan de onderdelen a tot en met f in het tweede lid.
 
@@ -226,13 +252,13 @@ Bij de goedkeuring van het reglement van de raad van toezicht op grond van [arti
 
 #### § 5. Taakuitoefening
 
-#### Artikel 15. Risicoprofiel en kernprestatie-indicatoren
+##### Artikel 15. Risicoprofiel en kernprestatie-indicatoren
 
 1. De minister stelt een risicoprofiel op mede op basis van de risicoanalyse van de Dienst om risicogestuurd toezicht te kunnen houden. Het risicoprofiel wordt besproken met de Dienst.
 
 2. De minister zet kernprestatie-indicatoren in. De kernprestatie-indicatoren komen tot stand in afstemming tussen de Dienst en de minister mede op basis van het in het voorgaande lid genoemde risicoprofiel.
 
-#### Artikel 16. Oordeelsvorming
+##### Artikel 16. Oordeelsvorming
 
 De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van de Dienst. Daarbij baseert hij zich onder meer op:
 
@@ -244,7 +270,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 6. Opdracht tot en inkadering van taken en activiteiten
 
-#### Artikel 17. Instemmingstoets minister
+##### Artikel 17. Instemmingstoets minister
 
 1. Bij het toetsen van voorstellen tot taakopdrachten van een ander bestuursorgaan en voornemens van de Dienst tot het verrichten van markt- en nevenactiviteiten als bedoeld in [artikel 17 van de Regeling sturing van en toezicht op de Dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0032460&artikel=17), besteedt de minister in ieder geval aandacht aan de volgende aspecten:
 
@@ -264,7 +290,7 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 #### § 7. Overige onderwerpen
 
-#### Artikel 18. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
+##### Artikel 18. Evaluatie conform [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39)
 
 1. De minister voert de evaluatie zoals bedoeld in [artikel 39 van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=39) uit conform de op het moment van evaluatie geldende evaluatierichtlijnen van de Minister van Financiën.
 
@@ -272,11 +298,11 @@ De minister vormt zich een oordeel over de kwaliteit van de taakuitoefening van 
 
 3. De minister reageert op de visie van de Dienst ten aanzien van het verslag en geeft daarbij in ieder geval aan in hoeverre de visie van de Dienst is betrokken bij de finale besluitvorming.
 
-#### Artikel 19. Citeertitel
+##### Artikel 19. Citeertitel
 
 Deze regels worden aangehaald als: Beleidsregels sturing van en toezicht op de Dienst voor het kadaster en de openbare registers, bedoeld in artikel 2 van de Organisatiewet Kadaster.
 
-#### Artikel 20. Inwerkingtreding
+##### Artikel 20. Inwerkingtreding
 
 Deze regels treden in werking op 1 januari 2013.
 

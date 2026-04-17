@@ -1,13 +1,37 @@
 ---
 title: "Informatieverschaffing gevolgen inwerkingtreding Wet uitvoeringsorganen volksgezondheid"
 identifier: "BWBR0011438"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2000-07-26
-laatste_update: 2000-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011438"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-07-26"
+last_updated: "2000-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011438"
+soort: "circulaire"
+stam_id: "6261003"
+version_id: "10941812"
+internal_id: "C14836951"
+label_id: "6250124"
+original_entry_into_force: "2000-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011438/2000-07-26/0"
+intitule_bron: "Stcrt.2000-142"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-06-22"
+intitule_published: "2000-07-26"
+intitule_in_force: "2000-07-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-142"
+original_signed_date: "2000-06-22"
+original_published_date: "2000-07-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-142-p17-SC25017"
+entry_into_force_date: "2000-07-26"
+jci_1_3: "jci1.3:c:BWBR0011438&z=2000-07-26&g=2000-07-26"
+jci_1_0: "1.0:c:BWBR0011438&g=2000-07-26"
+citeertitel_status: "redactioneel"
+signed_date: "2000-06-22"
+entry_into_force: "2000-07-26"
 ---
-
 # Informatieverschaffing gevolgen inwerkingtreding Wet uitvoeringsorganen volksgezondheid
 
 Circulaire aan alle besturen van inrichtingen voor gezondheidszorg

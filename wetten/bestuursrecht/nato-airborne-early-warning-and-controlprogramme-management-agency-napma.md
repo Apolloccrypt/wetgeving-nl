@@ -1,13 +1,37 @@
 ---
 title: "Nato airborne early warning and controlprogramme management agency (NAPMA)"
 identifier: "BWBR0004123"
-categorie: "Bestuursrecht"
-publicatiedatum: 1987-03-09
-laatste_update: 1987-03-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004123"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1987-03-09"
+last_updated: "1987-03-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004123"
+soort: "beleidsregel"
+stam_id: "8413313"
+version_id: "13288232"
+internal_id: "C18439541"
+label_id: "8394264"
+dtd_version: "2.0"
+original_entry_into_force: "1987-03-09"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004123/1987-03-09/0"
+intitule_bron: "Infob.1980-8"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1987-03-09"
+intitule_published: "1980-01-01"
+intitule_in_force: "1980-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1980-8"
+original_signed_date: "1987-03-09"
+original_published_date: "1980-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1987-03-09"
+jci_1_3: "jci1.3:c:BWBR0004123&z=1987-03-09&g=1987-03-09"
+jci_1_0: "1.0:c:BWBR0004123&g=1987-03-09"
+citeertitel_status: "redactioneel"
+signed_date: "1987-03-09"
+entry_into_force: "1987-03-09"
 ---
-
 # Nato airborne early warning and controlprogramme management agency (NAPMA)
 
 De Directeur-Generaal Belastingdienst heeft namens de Staatssecretaris van Financiën het volgende besloten.

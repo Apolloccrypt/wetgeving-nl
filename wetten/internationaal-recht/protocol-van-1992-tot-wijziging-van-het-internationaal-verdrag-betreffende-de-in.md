@@ -1,13 +1,35 @@
 ---
 title: "Protocol van 1992 tot wijziging van het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1971"
 identifier: "BWBV0003259"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-11-01
-laatste_update: 2003-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003259"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-11-01"
+last_updated: "2003-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003259"
+soort: "verdrag"
+stam_id: "10003442723"
+version_id: "10003489322"
+internal_id: "C10006978981"
+label_id: "10003429214"
+dtd_version: "2.0"
+original_entry_into_force: "1997-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003259/2003-11-01/0"
+intitule_bron: "Trb.1994-228"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1994-11-04"
+intitule_in_force: "1997-01-06"
+intitule_status: "goed"
+original_publication: "Trb.1994-228"
+original_published_date: "1994-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-228"
+entry_into_force_date: "1997-11-15"
+jci_1_3: "jci1.3:c:BWBV0003259&z=2003-11-01&g=2003-11-01"
+jci_1_0: "1.0:c:BWBV0003259&g=2003-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-11-15"
 ---
-
 # Protocol van 1992 tot wijziging van het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1971
 
 De Partijen bij dit Protocol,
@@ -28,111 +50,111 @@ Indachtig de aanneming van het [Protocol van 1992 tot wijziging van het Internat
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Het Verdrag dat door de bepalingen van dit Protocol wordt gewijzigd is het Internationaal Verdrag betreffende de instelling van een Internationaal Fonds voor vergoeding van schade door verontreiniging door olie, 1971, hierna te noemen het „Fondsverdrag, 1971”. Ten aanzien van Staten die Partij zijn bij het Protocol van 1976 bij het Fondsverdrag, 1971, wordt met deze term bedoeld het Fondsverdrag, 1971, zoals gewijzigd bij dat Protocol.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 3
+##### Artikel 3
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 5
+##### Artikel 5
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 9
+##### Artikel 9
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 10
+##### Artikel 10
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 11
+##### Artikel 11
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 12
+##### Artikel 12
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 13
+##### Artikel 13
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 14
+##### Artikel 14
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds voor vergoeding van schade door verontreiniging door olie (ter aanvulling van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie, 1969); Brussel, 18 december 1971.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Het Fondsverdrag, 1971, en dit Protocol worden, wat de Partijen bij dit Protocol betreft, gelezen en uitgelegd als één enkel document.
 
@@ -140,7 +162,7 @@ Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds v
 
 ### SLOTBEPALINGEN
 
-#### Artikel 28. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 28. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Protocol staat open voor ondertekening te Londen van 15 januari 1993 tot en met 14 januari 1994 door iedere Staat die het [Aansprakelijkheidsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004147), heeft ondertekend.
 
@@ -156,13 +178,13 @@ Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds v
 
 7. Akten van bekrachtiging, aanvaarding, goedkeuring of toetreding, die zijn nedergelegd nadat een wijziging van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, in werking is getreden, worden geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door bedoelde wijziging.
 
-#### Artikel 29. Informatie omtrent bijdragende olie
+##### Artikel 29. Informatie omtrent bijdragende olie
 
 1. Alvorens dit Protocol ten aanzien van een Staat in werking treedt, moet die Staat bij de nederlegging van een akte bedoeld in artikel 28, vijfde lid, en vervolgens jaarlijks op een door de Secretaris-Generaal van de Organisatie vast te stellen tijdstip, deze de naam en het adres mededelen van de personen die voor die Staat op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, verplicht zouden zijn aan het Fonds bij te dragen, alsmede gegevens betreffende de in aanmerking komende hoeveelheden bijdragende olie die binnen het grondgebied van die Staat gedurende het voorgaande kalenderjaar door die personen zijn ontvangen.
 
 2. Tijdens de overgangsperiode verstrekt de Directeur, namens de Partijen, jaarlijks aan de Secretaris-Generaal van de Organisatie gegevens betreffende de hoeveelheden bijdragende olie ontvangen door personen die verplicht zouden zijn aan het Fonds bij te dragen op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol.
 
-#### Artikel 30. Inwerkingtreding
+##### Artikel 30. Inwerkingtreding
 
 1. Dit Protocol treedt in werking twaalf maanden na de datum waarop aan de volgende eisen is voldaan:
 
@@ -180,7 +202,7 @@ Wijzigt het Internationaal Verdrag ter oprichting van een internationaal fonds v
 
 6. Iedere Staat die een verklaring ingevolge [artikel 13, tweede lid, van het Protocol van 1992 tot wijziging van het Aansprakelijkheidsverdrag, 1969](https://wetten.overheid.nl/jci1.3:c:BWBV0003263&artikel=13), heeft afgelegd, wordt geacht tevens een verklaring ingevolge het vierde lid van dit artikel te hebben afgelegd. De intrekking van een verklaring ingevolge genoemd artikel 13, tweede lid, wordt geacht tevens een intrekking ingevolge het vijfde lid van dit artikel te vormen.
 
-#### Artikel 31. Opzegging van de Verdragen van 1969 en 1971
+##### Artikel 31. Opzegging van de Verdragen van 1969 en 1971
 
 Onverminderd het bepaalde in artikel 30 dient, binnen zes maanden na de datum waarop is voldaan aan de eis dat:
 
@@ -190,13 +212,13 @@ Onverminderd het bepaalde in artikel 30 dient, binnen zes maanden na de datum wa
 
 elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, al dan niet met toepassing van artikel 30, vierde lid, heeft nedergelegd, indien deze Partij daarbij is, het Fondsverdrag, 1971, en het Aansprakelijkheidsverdrag, 1969, op te zeggen met ingang van twaalf maanden na het verstrijken van de bovengenoemde periode van zes maanden.
 
-#### Artikel 32. Herziening en wijziging
+##### Artikel 32. Herziening en wijziging
 
 1. De Organisatie kan een conferentie tot herziening of wijziging van het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), bijeenroepen.
 
 2. De Organisatie roept een conferentie van de Verdragsluitende Staten bijeen tot herziening of wijziging van het [Fondsverdrag, 1992](https://wetten.overheid.nl/jci1.3:c:BWBV0004146), op verzoek van ten minste een derde van alle Verdragsluitende Staten.
 
-#### Artikel 33. Wijziging van de vergoedingsgrenzen
+##### Artikel 33. Wijziging van de vergoedingsgrenzen
 
 1. Op verzoek van ten minste een vierde van de Verdragsluitende Staten worden voorstellen tot wijziging van de vergoedingsgrenzen neergelegd in artikel 4, vierde lid van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.
 
@@ -222,7 +244,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 10. Wanneer een wijziging door de Juridische Commissie is aangenomen, maar het tijdvak van achttien maanden voor de aanvaarding ervan nog niet is verstreken, is een Staat die gedurende dat tijdvak een Verdragsluitende Staat wordt, door de wijziging gebonden indien deze in werking treedt. Een Staat die na dat tijdvak een Verdragsluitende Staat wordt, is gebonden door een wijziging die overeenkomstig het zevende lid is aanvaard. In de gevallen bedoeld in dit lid wordt een Staat gebonden door een wijziging wanneer deze wijziging in werking treedt, of wanneer dit Protocol voor de Staat in werking treedt, indien deze datum later valt.
 
-#### Artikel 34. Opzegging
+##### Artikel 34. Opzegging
 
 1. Een Partij kan dit Protocol, na de datum waarop het voor die Partij in werking is getreden, te allen tijde opzeggen.
 
@@ -238,7 +260,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 7. Niettegenstaande een opzegging van dit Protocol door een Partij ingevolge dit artikel blijven de bepalingen van dit Protocol welke verband houden met de verplichtingen om bij te dragen op grond van artikel 10 van het Fondsverdrag, 1971, zoals gewijzigd bij dit Protocol, van toepassing ten aanzien van een voorval zoals bedoeld in artikel 12, tweede lid, onder b, van dat gewijzigde Verdrag dat zich heeft voorgedaan voordat de opzegging van kracht wordt.
 
-#### Artikel 35. Buitengewone zittingen van de Algemene Vergadering
+##### Artikel 35. Buitengewone zittingen van de Algemene Vergadering
 
 1. Iedere Verdragsluitende Staat kan binnen negentig dagen na de nederlegging van een akte van opzegging, welke naar zijn mening een belangrijke stijging van de bijdragen voor overblijvende Verdragsluitende Staten ten gevolge zal hebben, de Directeur verzoeken een buitengewone zitting van de Algemene Vergadering bijeen te roepen. De Directeur moet de Algemene Vergadering uiterlijk zestig dagen na ontvangst van het verzoek bijeenroepen.
 
@@ -246,13 +268,13 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Indien de Algemene Vergadering, in een buitengewone zitting bijeengeroepen overeenkomstig het eerste of het tweede lid, besluit dat de opzegging zal leiden tot een belangrijke stijging van de bijdragen voor de overblijvende Verdragsluitende Staten, kan ieder van deze Staten, uiterlijk honderdtwintig dagen voor de datum waarop de opzegging van kracht wordt, dit Protocol opzeggen met ingang van dezelfde datum.
 
-#### Artikel 36. Beëindiging
+##### Artikel 36. Beëindiging
 
 1. Dit Protocol houdt op van kracht te zijn op de datum waarop het aantal Verdragsluitende Staten minder wordt dan drie.
 
 2. De Staten die door dit Protocol zijn gebonden op de dag voorafgaande aan die waarop dit Protocol ophoudt van kracht te zijn, dienen het Fonds in staat te stellen zijn functies als beschreven in artikel 37 van dit Protocol uit te oefenen en blijven slechts voor dit doel door dit Protocol gebonden.
 
-#### Artikel 37. Vereffening van het Fonds
+##### Artikel 37. Vereffening van het Fonds
 
 1. Indien dit Protocol ophoudt van kracht te zijn, is het Fonds niettemin:
 
@@ -264,7 +286,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Voor de toepassing van dit artikel blijft het Fonds een rechtspersoon.
 
-#### Artikel 38. Depositaris
+##### Artikel 38. Depositaris
 
 1. Dit Protocol en alle ingevolge artikel 33 aanvaarde wijzigingen worden nedergelegd bij de Secretaris-Generaal van de Organisatie.
 
@@ -296,7 +318,7 @@ elke Partij bij dit Protocol en elke Staat die een akte van bekrachtiging, aanva
 
 3. Zodra dit Protocol in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 39. Talen
+##### Artikel 39. Talen
 
 Dit Protocol is opengesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 

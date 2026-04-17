@@ -1,13 +1,37 @@
 ---
 title: "Wijziging rechtspositiebesluit commissarissen van de Koning, gedeputeerden, burgemeesters en wethouders"
 identifier: "BWBR0016415"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-01-01
-laatste_update: 2004-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016415"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-01-01"
+last_updated: "2004-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016415"
+soort: "circulaire"
+stam_id: "6412693"
+version_id: "11079702"
+internal_id: "C14991581"
+label_id: "6401534"
+original_entry_into_force: "2004-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016415/2004-01-01/0"
+intitule_bron: "Stcrt.2004-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-20"
+intitule_published: "2004-03-01"
+intitule_in_force: "2004-03-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-41"
+original_signed_date: "2004-02-20"
+original_published_date: "2004-03-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-41-p11-SC63975"
+entry_into_force_date: "2004-01-01"
+jci_1_3: "jci1.3:c:BWBR0016415&z=2004-01-01&g=2004-01-01"
+jci_1_0: "1.0:c:BWBR0016415&g=2004-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2004-02-20"
+entry_into_force: "2004-01-01"
 ---
-
 # Wijziging rechtspositiebesluit commissarissen van de Koning, gedeputeerden, burgemeesters en wethouders
 
 ### 1. Inleiding

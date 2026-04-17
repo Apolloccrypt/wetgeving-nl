@@ -1,13 +1,38 @@
 ---
 title: "Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001"
 identifier: "BWBR0021240"
-categorie: "Milieu"
-publicatiedatum: 2024-03-07
-laatste_update: 2024-03-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021240"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-03-07"
+last_updated: "2024-03-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021240"
+soort: "ministeriele-regeling"
+stam_id: "8919793"
+version_id: "25905832"
+internal_id: "C36915041"
+label_id: "8899634"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021240/2024-03-07/0"
+intitule_bron: "Stcrt.2001-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-10-25"
+intitule_published: "2001-10-26"
+intitule_in_force: "2001-10-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-35902"
+original_signed_date: "2019-07-01"
+original_published_date: "2019-07-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2019-35902"
+entry_into_force_date: "2019-07-03"
+jci_1_3: "jci1.3:c:BWBR0021240&z=2024-03-07&g=2024-03-07"
+jci_1_0: "1.0:c:BWBR0021240&g=2024-03-07"
+citeertitel_status: "officieel"
+signed_date: "2019-07-01"
+entry_into_force: "2019-07-03"
 ---
-
 # Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001
 
 Gelet op de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=5), [8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8), [9](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=9) en [10, tweede lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=10);
@@ -16,7 +41,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -42,31 +67,31 @@ Besluit:
 
 ### Hoofdstuk 2. Procedurele en bijzondere bepalingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. De [artikelen 4 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=4) en [7](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=3&artikel=7&z=2024-03-07&g=2024-03-07) van deze regeling zijn van overeenkomstige toepassing op de verlenging van bevoegdverklaringen.
 
 2. Bij de aanvraag tot verlenging of hernieuwde afgifte na verlopen van een bevoegdverklaring is [artikel 8, tweede lid, Besluit bewijzen van bevoegdheid voor de luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&artikel=8) van overeenkomstige toepassing.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 ### Hoofdstuk 3. Bijzondere bevoegdverklaringen
 
-#### Artikel 4. RPL
+##### Artikel 4. RPL
 
 De bijzondere type- en klassebevoegdverklaringen voor RPL zijn opgenomen in [bijlage 5](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=5&z=2024-03-07&g=2024-03-07) bij deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 1. De geldigheidsduur van bijzondere bevoegdverklaringen is voor:
 
@@ -82,19 +107,19 @@ Vervallen
 
 #### § 1. Bewijzen van bevoegdheid
 
-#### Artikel 8. ATPL
+##### Artikel 8. ATPL
 
 Vervallen
 
-#### Artikel 9. CPL(FB)
+##### Artikel 9. CPL(FB)
 
 Vervallen
 
-#### Artikel 10. PPL
+##### Artikel 10. PPL
 
 Vervallen
 
-#### Artikel 11. RPL(A), RPL(H) en RPL(GC)
+##### Artikel 11. RPL(A), RPL(H) en RPL(GC)
 
 De eisen voor afgifte van een RPL(A), RPL(H), respectievelijk RPL(GC), zijn:
 
@@ -108,21 +133,21 @@ De eisen voor afgifte van een RPL(A), RPL(H), respectievelijk RPL(GC), zijn:
 
 - e. het hebben voldaan aan de eisen voor afgifte van een type- of klassebevoegdverklaring, respectievelijk een typebevoegdverklaring.
 
-#### Artikel 12
+##### Artikel 12
 
 Het bedienen van een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening is ook toegestaan wanneer de bestuurder beschikt over een geldig bewijs van bevoegdheid afgegeven overeenkomstig [verordening (EU) nr. 1178/2011](32011R1178), [verordening (EU) 2018/395](32018R0395) of [verordening (EU) 2018/1976](32018R1976) waaraan een klasse- of type bevoegdverklaring is verbonden die de bevoegdheid geeft het desbetreffende luchtvaartuig te bedienen.
 
-#### Artikel 13. RPL(FB)
+##### Artikel 13. RPL(FB)
 
 Vervallen
 
-#### Artikel 14. CFEL
+##### Artikel 14. CFEL
 
 Vervallen
 
 #### § 2. Algemene bevoegdverklaringen
 
-#### Artikel 15. Typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
+##### Artikel 15. Typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
 
 Een typebevoegdverklaring voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening wordt op aanvraag door de Minister afgegeven indien de aanvrager:
 
@@ -130,15 +155,15 @@ Een typebevoegdverklaring voor een luchtvaartuig als bedoeld in bijlage I behore
 
 - b. voldoet aan de voorwaarden als bedoeld in deel FCL, subdeel H, bij [verordening (EU) nr. 1178/2011](32011R1178).
 
-#### Artikel 16. LPE
+##### Artikel 16. LPE
 
 Een LPE wordt afgegeven indien de aanvrager beschikt over een door een erkende taalbeoordelingsinstantie afgegeven bewijs waaruit blijkt dat de aanvrager voldoet aan de vereisten inzake taalvaardigheid, bedoeld in FCL.055 van verordening (EU) nr. 1178/2011.
 
-#### Artikel 17. CSR
+##### Artikel 17. CSR
 
 Vervallen
 
-#### Artikel 18. RT
+##### Artikel 18. RT
 
 De eisen voor afgifte van een RT zijn:
 
@@ -146,7 +171,7 @@ De eisen voor afgifte van een RT zijn:
 
 - b. kennis en bedrevenheid: de eisen bedoeld in [bijlage 4 van de Regeling opleidingsinstellingen voor luchtvarenden 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012923&bijlage=4).
 
-#### Artikel 19. Instructeursbevoegdverklaringen (A)/(H)/(GC) opleidingseisen
+##### Artikel 19. Instructeursbevoegdverklaringen (A)/(H)/(GC) opleidingseisen
 
 1. De aanvrager van een RFI(A), respectievelijk RFI(H), heeft voor toelating tot de opleiding voor RFI(A), respectievelijk RFI(H), aan de opleidingsinstelling aangetoond:
 
@@ -168,7 +193,7 @@ De eisen voor afgifte van een RT zijn:
 
 - d. te beschikken over ten minste 150 uur ervaring als gezagvoerder van een luchtvaartuig, bestaande uit ten minste 30 uur als gezagvoerder op een luchtvaartuig van de klasse gyrokopter, waarvan ten minste 5 uur in de zes maanden voorafgaand aan het praktijktoelatingsexamen en ten minste 20 uur als gezagvoerder tijdens overlandvluchten waarbij op ten minste vier verschillende luchtvaartterreinen is geland en gestart.
 
-#### Artikel 20. Instructeursbevoegdheden
+##### Artikel 20. Instructeursbevoegdheden
 
 1. De eisen voor afgifte van een RFI(A), RFI(H), respectievelijk RFI(GC), zijn:
 
@@ -188,29 +213,29 @@ De eisen voor afgifte van een RT zijn:
 
 2. De houder van een instructeursbevoegdverklaring FI(A) of FI(H) afgegeven overeenkomstig verordening (EU) 1178/2011 wordt geacht te voldoen aan de eisen gesteld in het eerste lid, onderdelen b en c. De in het kader van FI(A) of FI(H) gegeven uren vlieginstructie, beoordeelde solovluchten en behaalde vlieguren gelden als ervaring bedoeld in het eerste lid, onderdeel d.
 
-#### Artikel 21. FI(FB)
+##### Artikel 21. FI(FB)
 
 Vervallen
 
-#### Artikel 22. Night rating
+##### Artikel 22. Night rating
 
 Vervallen
 
 #### § 3. Bijzondere bevoegdverklaringen onder te verdelen naar type, klasse en werkzaamheden
 
-#### Artikel 23. Bijzondere bevoegdverklaringen (A)/(H)/(E) toelatingseisen opleiding
+##### Artikel 23. Bijzondere bevoegdverklaringen (A)/(H)/(E) toelatingseisen opleiding
 
 Vervallen
 
-#### Artikel 24. Bijzondere bevoegdverklaringen (A)/(H)/(E) opleidingseisen
+##### Artikel 24. Bijzondere bevoegdverklaringen (A)/(H)/(E) opleidingseisen
 
 Vervallen
 
-#### Artikel 25. Bijzondere bevoegdverklaringen (A)/(H)/(E) overige eisen
+##### Artikel 25. Bijzondere bevoegdverklaringen (A)/(H)/(E) overige eisen
 
 Vervallen
 
-#### Artikel 26. Bijzondere bevoegdverklaringen in RPL(A)/(H)/GC)
+##### Artikel 26. Bijzondere bevoegdverklaringen in RPL(A)/(H)/GC)
 
 De eisen voor afgifte van een klassebevoegdverklaring in een RPL(A), RPL(H) of RPL(GC), respectievelijk een typebevoegdverklaring in een RPL(H) of RPL(GC), zijn:
 
@@ -218,11 +243,11 @@ De eisen voor afgifte van een klassebevoegdverklaring in een RPL(A), RPL(H) of R
 
 - b. bedrevenheidseisen voor SP(A) klassebevoegdverklaring, SP(H) klassebevoegdverklaring, of SP(GC) klassebevoegdverklaring, respectievelijk SP(H) typebevoegdverklaring, of SP(GC) typebevoegdverklaring bedoeld in Deel FCL.700 respectievelijk [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&bijlage=2&z=2024-03-07&g=2024-03-07) bij deze regeling, waarbij het examen wordt afgelegd op een luchtvaartuig van de klasse, respectievelijk het type, waarvoor de bevoegdverklaring wordt aangevraagd.
 
-#### Artikel 27. Bijzondere bevoegdverklaringen in RPL(G)
+##### Artikel 27. Bijzondere bevoegdverklaringen in RPL(G)
 
 Vervallen
 
-#### Artikel 28. Klassebevoegdverklaring CPL(FB)
+##### Artikel 28. Klassebevoegdverklaring CPL(FB)
 
 Vervallen
 
@@ -230,23 +255,23 @@ Vervallen
 
 #### § 1. Algemene bevoegdverklaringen
 
-#### Artikel 29. Verlenging en hernieuwing typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
+##### Artikel 29. Verlenging en hernieuwing typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
 
 Met betrekking tot de geldigheid en hernieuwing van de typebevoegdverklaring voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening is FCL.740 in deel FCL, subdeel H, bij [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
 
-#### Artikel 30. IR hernieuwde afgifte
+##### Artikel 30. IR hernieuwde afgifte
 
 Vervallen
 
-#### Artikel 31. CSR verlenging
+##### Artikel 31. CSR verlenging
 
 Vervallen
 
-#### Artikel 32. CSR hernieuwde afgifte
+##### Artikel 32. CSR hernieuwde afgifte
 
 Vervallen
 
-#### Artikel 33. Instructeursbevoegdverklaringen verlenging
+##### Artikel 33. Instructeursbevoegdverklaringen verlenging
 
 Voor verlenging van een RFI(A), RFI(H) en RFI(GC) voldoet de aanvrager aan ten minste twee van de volgende drie eisen:
 
@@ -256,29 +281,29 @@ Voor verlenging van een RFI(A), RFI(H) en RFI(GC) voldoet de aanvrager aan ten m
 
 - 3. met goed resultaat een proeve van bekwaamheid afleggen op een luchtvaartuig van de betreffende klasse of type, afgenomen door een RFIE, in de 12 maanden voor afloop van de geldigheidsduur van de bevoegdverklaring.
 
-#### Artikel 34. Instructeursbevoegdverklaringen hernieuwde afgifte
+##### Artikel 34. Instructeursbevoegdverklaringen hernieuwde afgifte
 
 Voor RFI(A), RFI(H) en RFI(GC) gelden voor hernieuwde afgifte de eisen, bedoeld in [artikel 33, onderdeel f, onder 2 en 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021240&hoofdstuk=5&paragraaf=1&artikel=33&z=2024-03-07&g=2024-03-07), met dien verstande dat aan deze eisen is voldaan in de 12 maanden voorafgaand aan hernieuwde afgifte na verlopen van de bevoegdverklaring.
 
-#### Artikel 35. FI(FB) verlenging
+##### Artikel 35. FI(FB) verlenging
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
 #### § 2. Bijzondere bevoegdverklaringen
 
-#### Artikel 37. Bijzondere bevoegdverklaringen (A)/(H)/(E), verlenging en hernieuwde afgifte
+##### Artikel 37. Bijzondere bevoegdverklaringen (A)/(H)/(E), verlenging en hernieuwde afgifte
 
 Vervallen
 
-#### Artikel 38. Bijzondere bevoegdverklaringen (A)/(H)/(E) hernieuwde afgifte
+##### Artikel 38. Bijzondere bevoegdverklaringen (A)/(H)/(E) hernieuwde afgifte
 
 Vervallen
 
-#### Artikel 39. Bijzondere bevoegdverklaringen in RPL(A)/(H)/(GC) verlenging
+##### Artikel 39. Bijzondere bevoegdverklaringen in RPL(A)/(H)/(GC) verlenging
 
 De eisen voor verlenging van een klassebevoegdverklaring in een RPL(A), een RPL(H) of een RPL(GC), respectievelijk een typebevoegdverklaring in een RPL(H) of een RPL(GC) zijn:
 
@@ -292,7 +317,7 @@ De eisen voor verlenging van een klassebevoegdverklaring in een RPL(A), een RPL(
 
 - 3°. een trainingsvlucht van ten minste 1 uur met een bevoegde instructeur dan wel een proeve van bekwaamheid of een praktijkexamen voor een klasse-, respectievelijk typebevoegdverklaring.
 
-#### Artikel 40. Bijzondere bevoegdverklaringen in RPL hernieuwde afgifte
+##### Artikel 40. Bijzondere bevoegdverklaringen in RPL hernieuwde afgifte
 
 1. Voor de hernieuwde afgifte van de SP-SE in een RPL(MLA) en RPL(GC) moet de kandidaat een proeve van bekwaamheid in de betreffende klasse afleggen.
 
@@ -302,37 +327,37 @@ De eisen voor verlenging van een klassebevoegdverklaring in een RPL(A), een RPL(
 
 - b. verlopen langer dan 1 jaar: minimaal drie trainingsessies waarin het volledige pakket van de meest belangrijke storingen in de aanwezige systemen worden getraind.
 
-#### Artikel 41. Klassebevoegdverklaring CPL(FB) verlenging
+##### Artikel 41. Klassebevoegdverklaring CPL(FB) verlenging
 
 Vervallen
 
-#### Artikel 42. Klassebevoegdverklaring CPL(FB) verlenging
+##### Artikel 42. Klassebevoegdverklaring CPL(FB) verlenging
 
 Vervallen
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 De Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden wordt ingetrokken.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze regeling treedt in werking met ingang van 1 november 2001 en werkt terug tot en met 1 oktober 2001.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze regeling wordt aangehaald als: Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001.
 
@@ -406,7 +431,7 @@ Micro Light Aeroplanes – Eén vlieger toegelaten
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 9a. CPL(FB)
+##### Artikel 9a. CPL(FB)
 
 De eisen voor de afgifte van een CPL(FB) zijn:
 
@@ -424,7 +449,7 @@ De eisen voor de afgifte van een CPL(FB) zijn:
 
 #### § 2. Algemene bevoegdverklaringen
 
-#### Artikel 20a. Opleidingsinstructeurs typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
+##### Artikel 20a. Opleidingsinstructeurs typebevoegdverklaring luchtvaartuigen bijlage I basisverordening
 
 Voor instructeurs voor de opleiding voor de typebevoegdverklaring voor een luchtvaartuig als bedoeld in bijlage I behorende bij de basisverordening zijn de eisen bedoeld in deel FCL, subdeel J, sectie 1 en sectie 4, bij [verordening (EU) nr. 1178/2011](32011R1178) van overeenkomstige toepassing.
 
@@ -452,7 +477,7 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 20b. STI(A)
+##### Artikel 20b. STI(A)
 
 Vervallen
 
@@ -472,11 +497,11 @@ Vervallen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 20c. MPL(A) instructeurs kwalificatie
+##### Artikel 20c. MPL(A) instructeurs kwalificatie
 
 Vervallen
 
-#### Artikel 1a
+##### Artikel 1a
 
 Vervallen
 

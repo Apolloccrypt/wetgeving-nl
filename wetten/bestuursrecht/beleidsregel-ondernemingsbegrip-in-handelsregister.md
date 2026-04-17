@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel ondernemingsbegrip in handelsregister"
+title: "Beleidsregel van de Staatssecretaris van Economische zaken van 23 juni 2008, nr. WJZ 8074645, inzake het ondernemingsbegrip in het handelsregister"
 identifier: "BWBR0024084"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-05-17
-laatste_update: 2011-05-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024084"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-05-17"
+last_updated: "2011-05-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024084"
+soort: "beleidsregel"
+stam_id: "9576303"
+version_id: "15477752"
+internal_id: "C21117201"
+label_id: "9553324"
+dtd_version: "2.0"
+original_entry_into_force: "2008-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024084/2011-05-17/0"
+intitule_bron: "Stcrt.2008-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-23"
+intitule_published: "2008-06-30"
+intitule_in_force: "2008-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-123"
+original_signed_date: "2008-06-23"
+original_published_date: "2008-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-123-p15-SC86324"
+entry_into_force_date: "2008-07-01"
+jci_1_3: "jci1.3:c:BWBR0024084&z=2011-05-17&g=2011-05-17"
+jci_1_0: "1.0:c:BWBR0024084&g=2011-05-17"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel ondernemingsbegrip in handelsregister"
+signed_date: "2008-06-23"
+entry_into_force: "2008-07-01"
 ---
-
 # Beleidsregel van de Staatssecretaris van Economische zaken van 23 juni 2008, nr. WJZ 8074645, inzake het ondernemingsbegrip in het handelsregister
 
 Gelet op [artikel 54c, eerste lid, van de Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276&artikel=54c);

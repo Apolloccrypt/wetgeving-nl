@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 7, tweede lid, Algemene termijnenwet"
+title: "Besluit van 16 oktober 1964, houdende vaststelling van een lijst van wetten en algemene maatregelen van bestuur, waarin termijnen zijn gesteld, voor welke de Algemene termijnenwet vervroegd in werking treedt"
 identifier: "BWBR0002461"
-categorie: "Overig"
-publicatiedatum: 1964-11-25
-laatste_update: 1964-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002461"
+country: "nl"
+rank: "kb"
+publication_date: "1964-11-25"
+last_updated: "1964-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002461"
+soort: "KB"
+stam_id: "426693"
+version_id: "627142"
+internal_id: "C627151"
+label_id: "415334"
+dtd_version: "2.0"
+original_entry_into_force: "1964-11-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002461/1964-11-25/0"
+intitule_bron: "Stb.1964-395"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1964-10-16"
+intitule_status: "goed"
+original_publication: "Stb.1964-395"
+original_signed_date: "1964-10-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1964-11-25"
+jci_1_3: "jci1.3:c:BWBR0002461&z=1964-11-25&g=1964-11-25"
+jci_1_0: "1.0:c:BWBR0002461&g=1964-11-25"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 7, tweede lid, Algemene termijnenwet"
+signed_date: "1964-10-16"
+entry_into_force: "1964-11-25"
 ---
-
 # Besluit van 16 oktober 1964, houdende vaststelling van een lijst van wetten en algemene maatregelen van bestuur, waarin termijnen zijn gesteld, voor welke de Algemene termijnenwet vervroegd in werking treedt
 
 Op voordracht van Onze Minister van Justitie van 8 oktober 1964, Stafafdeling Wetgeving Publiekrecht, nr. 372/664;
@@ -16,11 +38,11 @@ Gelet op [artikel 7 van de Algemene termijnenwet](https://wetten.overheid.nl/jci
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit behorende lijst is die, omschreven in het tweede lid van [artikel 7 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=7).
 
-#### Artikel 2
+##### Artikel 2
 
 Voor zover door Ons niet anders wordt bepaald is het tijdstip van inwerkingtreding bedoeld in het tweede lid van [artikel 7 van de Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448&artikel=7) 1 december 1964.
 

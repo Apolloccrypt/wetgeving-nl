@@ -1,18 +1,43 @@
 ---
 title: "Reglement CAK Cliëntenraad"
 identifier: "BWBR0050654"
-categorie: "Overig"
-publicatiedatum: 2025-01-11
-laatste_update: 2025-01-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050654"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-11"
+last_updated: "2025-01-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050654"
+soort: "zbo"
+stam_id: "17336073"
+version_id: "30549952"
+internal_id: "C43790741"
+label_id: "17240224"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050654/2025-01-11/0"
+intitule_bron: "Stcrt.2025-1459"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-17"
+intitule_published: "2025-01-09"
+intitule_in_force: "2025-01-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-1459"
+original_signed_date: "2024-12-17"
+original_published_date: "2025-01-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-1459"
+entry_into_force_date: "2025-01-11"
+jci_1_3: "jci1.3:c:BWBR0050654&z=2025-01-11&g=2025-01-11"
+jci_1_0: "1.0:c:BWBR0050654&g=2025-01-11"
+citeertitel_status: "redactioneel"
+signed_date: "2024-12-17"
+entry_into_force: "2025-01-11"
 ---
-
 # Reglement CAK Cliëntenraad
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -28,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **De voorzitter:** de voorzitter van de cliëntenraad
 
-#### Artikel 2. Instelling cliëntenparticipatie
+##### Artikel 2. Instelling cliëntenparticipatie
 
 1. De Raad van Bestuur voorziet in de instelling van een cliëntenraad met de in [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&z=2025-01-11&g=2025-01-11) genoemde taken en bevoegdheden. De samenstelling van de cliëntenraad en de benoeming van zijn leden vinden plaats overeenkomstig de bepalingen van deze regeling.
 
@@ -38,17 +63,17 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Samenstelling en benoeming
 
-#### Artikel 3. Samenstelling
+##### Artikel 3. Samenstelling
 
 Voormalige of huidige cliënten van het CAK, of hun vertegenwoordigers kunnen in aanmerking komen voor deelname aan de cliëntenraad. Deelname is ook mogelijk als betrokkene om een andere reden affiniteit heeft met het werkgebied van het CAK. De cliëntenraad van het CAK bestaat uit ten hoogste zeven door de Raad van Bestuur te benoemen leden. De Raad van Bestuur vergewist zich ervan dat de leden een goede afspiegeling vormen van de cliëntenpopulatie van het CAK en dat zij over voldoende kennis en vaardigheden beschikken om hun vertegenwoordigende rol op effectieve wijze te kunnen invullen
 
-#### Artikel 4. Benoeming en herbenoeming
+##### Artikel 4. Benoeming en herbenoeming
 
 1. De Raad van Bestuur benoemt de leden van de Cliëntenraad voor een periode van vier jaar. Herbenoeming kan eenmaal plaatsvinden voor de duur van maximaal vier jaar.
 
 2. De cliëntenraad kiest uit hun midden een voorzitter. Benoeming van de voorzitter van de cliëntenraad vindt vervolgens plaats door de Raad van Bestuur.
 
-#### Artikel 5. Vervanging
+##### Artikel 5. Vervanging
 
 1. Een lid van de cliëntenraad wordt tussentijds door de Raad van Bestuur vervangen:
 
@@ -72,11 +97,11 @@ Voormalige of huidige cliënten van het CAK, of hun vertegenwoordigers kunnen in
 
 ### Hoofdstuk 3. Taken en bevoegdheden
 
-#### Artikel 6. Overleg en advisering
+##### Artikel 6. Overleg en advisering
 
 De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevraagd en ongevraagd te informeren en adviseren over cliëntenaangelegenheden, in het bijzonder met betrekking tot de kwaliteit van de geboden dienstverlening van het CAK.
 
-#### Artikel 7. Overige taken
+##### Artikel 7. Overige taken
 
 1. De cliëntenraad stelt jaarlijks een activiteitenplan op.
 
@@ -86,19 +111,19 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 ### Hoofdstuk 4. Informatievoorziening en faciliteiten
 
-#### Artikel 8. Informatieverstrekking
+##### Artikel 8. Informatieverstrekking
 
 1. Het CAK verstrekt de cliëntenraad tijdig, spontaan en op verzoek alle informatie die de cliëntenraad nodig heeft voor de uitoefening van zijn taken, tenzij enig wettelijk voorschrift deze verstrekking in de weg staat. De leden van de cliëntenraad ondertekenen een geheimhoudingsovereenkomst.
 
 2. Het CAK informeert de cliëntenraad spontaan over de resultaten van onderzoeken naar klanttevredenheid, informatie over klachten en andere cliëntenaangelegenheden.
 
-#### Artikel 9. Secretariaat
+##### Artikel 9. Secretariaat
 
 1. Het CAK voert het secretariaat van de cliëntenraad en benoemt een van zijn medewerkers tot secretaris van de cliëntenraad. Het CAK stelt vergadermogelijkheden ter beschikking aan de cliëntenraad.
 
 2. Alle communicatie tussen de cliëntenraad en het CAK vindt plaats via de secretaris.
 
-#### Artikel 10. Onkostenvergoeding
+##### Artikel 10. Onkostenvergoeding
 
 1. De voorzitter en de leden van de cliëntenraad hebben recht op een door het CAK vast te stellen onkostenvergoeding. De hoogte van deze vergoedingen stelt de Raad van Bestuur vast. Behoudens de in het tweede lid bedoelde kosten worden alle kosten die het lidmaatschap met zich meebrengt, geacht door deze onkostenvergoeding te zijn gedekt.
 
@@ -106,7 +131,7 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 ### Hoofdstuk 5. Advisering en overleg
 
-#### Artikel 11. Advisering
+##### Artikel 11. Advisering
 
 1. De cliëntenraad kan tot een uit te brengen schriftelijk advies slechts besluiten in een vergadering waarin ten minste de helft van het aantal leden aanwezig is.
 
@@ -120,7 +145,7 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 6. Na kennisneming van een advies informeert de Raad van Bestuur met redenen omkleed de cliëntenraad over de actie die is of zal worden ondernomen naar aanleiding van het advies dan wel over een van het advies afwijkende besluitvorming.
 
-#### Artikel 12. Overleg cliëntenraad
+##### Artikel 12. Overleg cliëntenraad
 
 1. Het overleg, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0050654&hoofdstuk=3&artikel=6&z=2025-01-11&g=2025-01-11) vindt ten minste vier keer per jaar in een vergadering plaats. Leden zijn in beginsel verplicht om de vergadering bij te wonen.
 
@@ -142,14 +167,14 @@ De cliëntenraad overlegt met de Raad van Bestuur en heeft tot taak het CAK gevr
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 In gevallen waarin deze regeling niet voorziet of over geschillen voortkomend uit de interpretatie van deze regeling, beslist de Raad van Bestuur na overleg met de cliëntenraad.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 1 januari 2025.
 
-#### Artikel 15
+##### Artikel 15
 
 Aldus vastgesteld door de Raad van Bestuur van het CAK.

@@ -1,14 +1,38 @@
 ---
-title: "Wet tot instelling gemeenten Almere en Zeewolde"
+title: "Wet van 6 juli 1983, tot instelling gemeenten Almere en Zeewolde"
 identifier: "BWBR0003603"
-categorie: "Bestuursrecht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003603"
+country: "nl"
+rank: "wet"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003603"
+soort: "wet"
+stam_id: "314733"
+version_id: "456702"
+internal_id: "C456701"
+label_id: "308474"
+dtd_version: "2.0"
+original_entry_into_force: "1983-07-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003603/1996-01-01/0"
+intitule_bron: "Stb.1983-328"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-07-06"
+intitule_status: "goed"
+original_publication: "Stb.1983-328"
+original_signed_date: "1983-07-06"
+original_effect: "nieuwe-regeling"
+original_dossier: "17785"
+entry_into_force_date: "1983-07-16"
+entry_into_force_dossier: "17785"
+jci_1_3: "jci1.3:c:BWBR0003603&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0003603&g=1996-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet tot instelling gemeenten Almere en Zeewolde"
+signed_date: "1983-07-06"
+entry_into_force: "1983-07-16"
 ---
-
-# Wet tot instelling gemeenten Almere en Zeewolde
+# Wet van 6 juli 1983, tot instelling gemeenten Almere en Zeewolde
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +42,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan onder:
 
@@ -32,7 +56,7 @@ In deze wet wordt verstaan onder:
 
 ### Hoofdstuk II. Instelling van de gemeenten Almere en Zeewolde
 
-#### Artikel 2
+##### Artikel 2
 
 1. Met ingang van de datum van inwerkingtreding van deze wet is er een gemeente, genaamd Almere, bestaande uit delen van het gebied van het openbaar lichaam en van de gemeente Muiden, een en ander met dien verstande dat de grens van de nieuwe gemeente Almere komt te lopen als volgt:
 
@@ -322,7 +346,7 @@ In deze wet wordt verstaan onder:
 
 - j. Grens met de in te stellen gemeente Almere Deze grens komt te lopen als in het eerste lid onder **b** is aangegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de gemeente Lelystad wordt een deel van het gebied van het openbaar lichaam toegevoegd met dien verstande dat de grens van deze gemeente met het openbaar lichaam als volgt komt te lopen:
 
@@ -474,13 +498,13 @@ waar de bestaande grens tussen de gemeenten Naarden en Muiden de grens met het o
 
 ### Hoofdstuk III. Hoger gezag
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
 ### Hoofdstuk IV. Rechtskracht voorschriften en uitoefening bevoegdheden
 
-#### Artikel 5
+##### Artikel 5
 
 1. De op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, voor de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01), omschreven gebieden van het openbaar lichaam geldende voorschriften van de Landdrost worden met ingang van genoemde datum geacht te zijn vastgesteld door het bevoegde gezag van de gemeente Almere onderscheidenlijk Zeewolde; zij behouden hun rechtskracht voor zover dit gezag niet anders bepaalt.
 
@@ -498,7 +522,7 @@ Vervallen
 
 8. Het bepaalde in de leden 5, 6 en 7 is van overeenkomstige toepassing ten aanzien van provinciale voorschriften zomede het bevoegde gezag van de provincie Noord-Holland.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01) is niet van toepassing op belastingverordeningen op voet van [artikel 273 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=273). Ten aanzien van overgaand gebied houden deze verordeningen op te gelden met ingang van de datum van inwerkingtreding van deze wet, doch zij behouden, met inachtneming van het bepaalde in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=9&z=1996-01-01&g=1996-01-01), hun rechtskracht voor de belastingjaren welke vóór die datum zijn aangevangen.
 
@@ -508,7 +532,7 @@ Vervallen
 
 4. Het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01) is evenmin van toepassing op belastingverordeningen op voet van de [artikelen 273**a**](onbekend) en [274 der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=274) en op belastingverordeningen als bedoeld in artikel V, tweede lid, van de Wet van 24 december 1970 (**Stb**. 608). Deze behouden hun rechtskracht voor toegevoegd gebied, tenzij het bevoegde gezag ingevolge [artikel 269](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=269) van eerstgenoemde wet tot afschaffing van de betrokken belasting besluit en dit besluit Onze goedkeuring heeft verkregen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, voor de in [de artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=3&z=1996-01-01&g=1996-01-01) omschreven gebieden die van het openbaar lichaam overgaan, ingevolge artikel 11 van de Wet openbaar lichaam "Zuidelijke IJsselmeerpolders" geldende plannen tot regeling der bebouwing en der bestemming van gronden worden met ingang van genoemde datum aangemerkt als ingevolge de [Wet op de Ruimtelijke Ordening](https://wetten.overheid.nl/jci1.3:c:BWBR0002375) vastgestelde en goedgekeurde bestemmingsplannen.
 
@@ -516,7 +540,7 @@ Vervallen
 
 3. In afwijking van het bepaalde in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01) behouden de in de voorgaande leden bedoelde plannen hun rechtskracht zolang het bevoegde gezag niet anders bepaalt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De bevoegdheden die bij de in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=5&z=1996-01-01&g=1996-01-01), bedoelde voorschriften zijn toegekend aan de Landdrost, worden met ingang van de datum van inwerkingtreding van deze wet uitgeoefend door het orgaan waaraan ingevolge wettelijke voorschriften de uitoefening in een gemeente is toevertrouwd.
 
@@ -528,13 +552,13 @@ Vervallen
 
 5. In afwijking van het bepaalde in het vierde lid wordt het toezicht op de bij de wijziging van de provinciale grens betrokken waterschappen uitgeoefend door de organen die daarmede op de dag, voorafgaande aan de datum van grenswijziging, belast waren, totdat bij reglementswijziging in de gevolgen van deze wet is voorzien. Indien tussen provinciale staten van Noord-Holland en Onze Minister niet binnen een jaar omtrent de reglementswijziging overeenstemming is bereikt, is het bepaalde in [artikel 4 van de Waterstaatswet 1900](https://wetten.overheid.nl/jci1.3:c:BWBR0001867&artikel=4) van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Onverminderd het bepaalde in [artikel 302 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=302) wordt de bevoegdheid tot het heffen en invorderen van bestaande plaatselijke belastingen in de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebieden over een belastingjaar dat vóór de datum van inwerkingtreding van deze wet is aangevangen, met ingang van genoemde datum uitgeoefend door de organen en ambtenaren van de gemeenten waarnaar die gebieden zijn overgegaan, tenzij van de bevoegdheid tot heffing van de belastingen reeds vóór die datum gebruik is gemaakt door de organen van het openbaar lichaam dan wel de gemeente Lelystad doch de verschuldigde bedragen nog niet zijn voldaan, geïnd of ingevorderd.
 
 2. Het bepaalde in het vorige lid is van overeenkomstige toepassing ten aanzien van provinciale belastingen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Gemeenschappelijke regelingen waaraan bij deze wet betrokken gemeenten onderscheidenlijk het openbaar lichaam deelnemen, gelden mede voor aan die gemeenten toegevoegd gebied en zij vervallen voor van die gemeenten onderscheidenlijk dat openbaar lichaam overgegaan gebied, een en ander met dien verstande dat de gemeenten Almere en Zeewolde in de plaats treden van het openbaar lichaam voor het onderscheidenlijk aan elk van die gemeenten toegevoegde gebied.
 
@@ -552,7 +576,7 @@ Vervallen
 
 ### Hoofdstuk V. Overgang rechten en verplichtingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd het bepaalde in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) gaan op de datum van inwerkingtreding van deze wet alle rechten en verplichtingen van het openbaar lichaam, uitsluitend betrekking hebbende op de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01) omschreven gebieden, over op de gemeente Almere onderscheidenlijk Zeewolde, zonder dat daarvoor een nadere akte wordt gevorderd.
 
@@ -570,7 +594,7 @@ Vervallen
 
 8. De vorige leden gelden niet ten aanzien van rechten en verplichtingen die verband houden met de voorziening van drinkwater, elektriciteit en gas.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Met betrekking tot de voorziening van drinkwater, elektriciteit en gas blijft toegevoegd gebied deel uitmaken van het voorzieningsgebied van de bedrijven die daarin voorzagen of gerechtigd waren te voorzien op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, voor zover de betrokken partijen ter zake geen nadere regeling treffen.
 
@@ -580,7 +604,7 @@ Vervallen
 
 4. Tegen een beslissing van Onze Ministers als bedoeld in het tweede en derde lid kan elke betrokken partij binnen een maand, te rekenen van de dag van verzending van de beslissing, bij Ons voorziening vragen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ten behoeve van de voortzetting van het comptabel beheer in verband met de overgang van gebied kunnen Onze Minister onderscheidenlijk gedeputeerde staten, de Landdrost onderscheidenlijk de besturen van de betrokken gemeenten gehoord, aanwijzingen geven, welke door elk van hen in acht moeten worden genomen.
 
@@ -588,13 +612,13 @@ Vervallen
 
 3. De begroting van de inkomsten en uitgaven der gemeente Almere onderscheidenlijk Zeewolde voor het op het tijdstip van inwerkingtreding van deze wet aanvangende dienstjaar wordt vastgesteld binnen drie maanden na dat tijdstip. Voor het tijdvak waarin nog geen begroting is vastgesteld, zijn burgemeester en wethouders van de gemeente Almere onderscheidenlijk Zeewolde bevoegd tot het doen van uitgaven, voor zover daartegen bij Onze Minister geen bezwaar bestaat.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De uitkeringen die door onderscheidenlijk aan het Rijk, de provincies, de gemeenten of het openbaar lichaam over de vóór de datum van inwerkingtreding van deze wet aangevangen boekingstijdvakken, dienstjaren of uitkeringsjaren met betrekking tot overgaand gebied verschuldigd zijn, worden gedaan aan onderscheidenlijk door de gemeente waaraan dat gebied wordt toegevoegd.
 
 2. Het bepaalde in het vorige lid is van overeenkomstige toepassing ten aanzien van door onderscheidenlijk aan het Rijk, de gemeenten of het openbaar lichaam met betrekking tot overgaand gebied van een provincie onderscheidenlijk het openbaar lichaam verschuldigde uitkeringen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Indien in verband met het bepaalde in [de artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=9&z=1996-01-01&g=1996-01-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IV&artikel=10&z=1996-01-01&g=1996-01-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=11&z=1996-01-01&g=1996-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=14&z=1996-01-01&g=1996-01-01) een verrekening tussen gemeenten onderling en met het openbaar lichaam dient plaats te vinden, bepaalt Onze Minister, de betrokken besturen onderscheidenlijk de Landdrost gehoord, het bedrag en, zo nodig, de wijze van betaling daarvan.
 
@@ -602,13 +626,13 @@ Vervallen
 
 3. Tegen een besluit van Onze Minister als bedoeld in het eerste en tweede lid kan het bestuur van elke daarbij betrokken gemeente onderscheidenlijk de Landdrost binnen een maand, te rekenen van de dag van verzending van het besluit, bij Ons voorziening vragen.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Wij wijzen op de voordracht van Onze Minister en van Onze Ministers van Financiën en Verkeer en Waterstaat, de raad der gemeente Almere dan wel Zeewolde gehoord, de rijkseigendommen aan die onderscheidenlijk in eigendom, beheer en/of onderhoud op deze gemeenten overgaan, en bepalen de voorwaarden en tijdstippen van overgang.
 
 2. Ten aanzien van de in het eerste lid begrepen onroerende zaken is het bepaalde in [artikel 11, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=11&z=1996-01-01&g=1996-01-01), van overeenkomstige toepassing.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Tot 1 januari 1990 draagt de gemeente Almere zorg voor de realisering van het krachtens het tot die datum door de regering te voeren verstedelijkingsbeleid binnen haar grondgebied te bouwen aantal woningen en de daarbij behorende voorzieningen.
 
@@ -618,7 +642,7 @@ Vervallen
 
 4. De financierjng van de in de voorgaande leden genoemde taken vindt, voor zover hierin niet op de gewone wijze moet worden voorzien, plaats ten laste van de Rijksbegroting.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Vóór de datum van inwerkingtreding van deze wet worden ter uitvoering van het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=17&z=1996-01-01&g=1996-01-01) voor de periode tot 1 januari 1990 overeenkomsten aangegaan door Onze Minister en Onze Ministers van Financiën, Verkeer en Waterstaat en Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer namens het Rijk en door de Landdrost namens het openbaar lichaam.
 
@@ -626,15 +650,15 @@ Vervallen
 
 ### Hoofdstuk VI. De eerste verkiezing van de leden van de gemeenteraad van Almere onderscheidenlijk Zeewolde
 
-#### Artikel 19
+##### Artikel 19
 
 Voor de raad van de gemeente Almere onderscheidenlijk Zeewolde wordt voor de eerste maal een verkiezing gehouden met inachtneming van de bepalingen van de [Kieswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004627), voor zover in dit hoofdstuk niet anders is bepaald.
 
-#### Artikel 20
+##### Artikel 20
 
 Voor zover met betrekking tot de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&artikel=19&z=1996-01-01&g=1996-01-01) bedoelde verkiezingen ingevolge enig wettelijk voorschrift medewerking moet worden verleend door de raad, door burgemeester en wethouders of door de burgemeester, geschiedt dit door de Landdrost.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&artikel=19&z=1996-01-01&g=1996-01-01) te kiezen raad van de gemeente Almere zal bestaan uit het door Onze Minister met overeenkomstige toepassing van [artikel 5 der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=5) te bepalen aantal leden. De krachtens artikel 19 te kiezen raad van de gemeente Zeewolde zal bestaan uit 11 leden. Zolang de gemeente Zeewolde minder dan 3000 inwoners telt zal, in afwijking van het bepaalde in [artikel 5 van de gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=5), de raad van deze gemeente bestaan uit het in de vorige volzin genoemde aantal leden.
 
@@ -648,13 +672,13 @@ Voor zover met betrekking tot de in [artikel 19](https://wetten.overheid.nl/jci1
 
 6. Het indelen in stemdistricten en het benoemen van de leden en de plaatsvervangende leden van de hoofdstembureaus en van de stembureaus voor de in [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&artikel=19&z=1996-01-01&g=1996-01-01) bedoelde verkiezingen geschieden vóór een door Onze Minister te bepalen dag door de Landdrost.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Burgemeester en wethouders van de gemeente Lelystad zenden op een door Onze Minister te bepalen datum aan de Landdrost een afschrift van of een uittreksel uit het kiezersregister van hun gemeente betreffende de in dat register op bedoelde datum voorkomende personen welke op die datum in het naar de gemeente Zeewolde overgaand gebied werkelijke woonplaats hebben.
 
 2. Indien tussen de in het eerste lid bedoelde datum en de dag van de kandidaatstelling als bedoeld in [artikel 21, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&artikel=21&z=1996-01-01&g=1996-01-01), veranderingen optreden in het kiezersregister van de gemeente Lelystad ten aanzien van personen die werkelijke woonplaats hebben of verkrijgen in het van deze gemeente naar de gemeente Zeewolde overgaand gebied, worden deze veranderingen onverwijld ter kennis gebracht van de Landdrost, waarna deze die veranderingen in het in het eerste lid bedoelde afschrift of uittreksel aanbrengt.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Voor de toepassing van [artikel 21 der gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=21) ten aanzien van het lidmaatschap van de krachtens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&artikel=19&z=1996-01-01&g=1996-01-01) te kiezen raden worden onder ingezetenen verstaan zij die hun werkelijke woonplaats hebben in het in [artikel 2, eerste onderscheidenlijk tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01), omschreven gebied.
 
@@ -666,11 +690,11 @@ Voor zover met betrekking tot de in [artikel 19](https://wetten.overheid.nl/jci1
 
 ### Hoofdstuk VII. Rechtspositie van de ambtenaren en het overig personeel
 
-#### Artikel 24
+##### Artikel 24
 
 Op de datum van inwerkingtreding van deze wet gaat het personeel, verbonden aan de in de in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01), omschreven gebieden gevestigde openbare scholen voor kleuter-, lager en voortgezet onderwijs en voor zover in dienst van het openbaar lichaam, over in dienst van de gemeente Almere onderscheidenlijk Zeewolde op dezelfde voet als waarop en ook overigens in dezelfde rechtstoestand als waarin het op de dag, voorafgaande aan die datum, werkzaam was.
 
-#### Artikel 25
+##### Artikel 25
 
 1. De overige in dienst van het openbaar lichaam werkzame ambtenaren - daaronder begrepen de op arbeidsovereenkomst naar burgerlijk recht werkzame personen - gaan over naar de gemeente Almere onderscheidenlijk Zeewolde. De Landdrost bepaalt tijdig, de betrokkenen gehoord en in overeenstemming met het dagelijks adviescollege dan wel, voor zover het gewoonlijk door de raad te benoemen functionarissen betreft, de adviesraad van het openbaar lichaam, naar welke gemeente deze ambtenaren onderscheidenlijk overgaan. Van de datum van inwerkingtreding van deze wet af worden zij geacht in dezelfde rang, met dezelfde bezoldiging en ook overigens op dezelfde voet in dienst te zijn van de gemeente Almere onderscheidenlijk Zeewolde.
 
@@ -678,19 +702,19 @@ Op de datum van inwerkingtreding van deze wet gaat het personeel, verbonden aan 
 
 3. De ambtenaren die door de toepassing van het eerste lid in dienst van de gemeente Almere onderscheidenlijk Zeewolde overgaan, aanvaarden hun werkzaamheden op de datum van inwerkingtreding van deze wet. De eden of beloften, in verband met hun ambt afgelegd, worden geacht mede op die dienstvervulling betrekking te hebben.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien het bevoegde gezag van de gemeente Almere onderscheidenlijk Zeewolde besluit tot wijziging of vervanging van de in de [artikelen 125](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=125) en [134 van de Ambtenarenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=134) 1929 bedoelde voorschriften, wordt voor de vaststelling van en wijzigingen in de bezoldiging van de krachtens het bepaalde in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VII&artikel=25&z=1996-01-01&g=1996-01-01), naar die gemeenten overgegane ambtenaren ten minste de salarispositie in aanmerking genomen die voor hen gegolden zou hebben volgens de salarisschaal van de bezoldigingsregeling welke op hen van toepassing was op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet.
 
 2. Bij de bepaling van de in het eerste lid bedoelde salarispositie worden de door Ons op of na de datum van inwerkingtreding van deze wet in de bezoldiging van het rijkspersoneel aan te brengen wijzigingen met een algemeen karakter mede in aanmerking genomen.
 
-#### Artikel 27
+##### Artikel 27
 
 Uit de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VII&artikel=25&z=1996-01-01&g=1996-01-01), bedoelde ambtenaren benoemt de Landdrost met ingang van de datum van inwerkingtreding van deze wet een tijdelijke secretaris en een tijdelijke functionaris, belast met de taak van ontvanger, van de gemeente Almere onderscheidenlijk Zeewolde. Deze benoemingen worden geacht door de raad van de gemeente Almere onderscheidenlijk Zeewolde te zijn gedaan en gelden tot de dag waarop de raad overeenkomstig de [gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416) een definitieve voorziening heeft getroffen.
 
 ### Hoofdstuk VIII. Bijzondere voorzieningen met betrekking tot de politiezorg
 
-#### Artikel 28
+##### Artikel 28
 
 1. Met ingang van de datum van inwerkingtreding van deze wet wordt de politietaak in het gebied van de gemeente Almere uitgeoefend door het korps gemeentepolitie Almere, dat per gelijke datum wordt ingesteld. Het personeel, behorende tot het korps gemeentepolitie van het openbaar lichaam, wordt met ingang van genoemde datum geacht te zijn aangesteld bij het korps gemeentepolitie Almere op dezelfde voet als waarop en ook overigens in dezelfde rechtstoestand als waarin het op de dag, voorafgaande aan die datum, was aangesteld bij het openbaar lichaam.
 
@@ -698,11 +722,11 @@ Uit de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR00036
 
 ### Hoofdstuk IX. Voorzieningen in verband met de toepassing van enkele wetten
 
-#### Artikel 29
+##### Artikel 29
 
 Zij die op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, ingeschreven zijn als leerling van een openbare school, gevestigd in overgaand gebied, worden van genoemde datum af tot die school toegelaten op dezelfde voorwaarden als voordien golden.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Voor zover ten aanzien van de in het in [artikel 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=II&artikel=2&z=1996-01-01&g=1996-01-01), omschreven gebied gevestigde kleuter- en lagere scholen op de datum van inwerkingtreding van deze wet voor enig op die datum verstreken kalenderjaar de artikelen 47, eerste lid, en 75, derde lid, van de Kleuteronderwijswet onderscheidenlijk de artikelen 55**ter**, eerste lid, en 103, tweede lid, van de Lager-onderwijswet 1920 nog niet zijn toegepast, geschiedt dit door de raad van de gemeente Almere onderscheidenlijk Zeewolde.
 
@@ -710,13 +734,13 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, 
 
 3. Indien in verband met het bepaalde in de vorige leden een verrekening tussen de gemeenten Almere en Zeewolde onderling of tussen deze gemeenten en het openbaar lichaam dient plaats te vinden, is het bepaalde in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=15&z=1996-01-01&g=1996-01-01) ter zake van overeenkomstige toepassing.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Ter bepaling van de uitkering krachtens [artikel 89 van de Wet op het voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=89) wordt voor het op de datum van inwerkingtreding van deze wet lopende vijfjarige tijdvak als bedoeld in [artikel 88, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002399&artikel=88), van eerstgenoemde wet het overschrijdingsbedrag per leerling over enig op die datum verstreken of het lopende kalenderjaar berekend als had de onderhavige wijziging van de gemeentelijke indeling niet plaatsgevonden, en over de overige jaren van dat tijdvak naar de toestand na laatstbedoeld kalenderjaar.
 
 2. Het bepaalde in [artikel 30, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IX&artikel=30&z=1996-01-01&g=1996-01-01), is ter zake van overeenkomstige toepassing.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Onverminderd het bepaalde in [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IX&artikel=33&z=1996-01-01&g=1996-01-01) gaan op de datum van inwerkingtreding van deze wet alle archiefbescheiden van het openbaar lichaam, uitsluitend betrekking hebbende op overgaand gebied, over naar de gemeente waaraan dat gebied wordt toegevoegd, met dien verstande dat de overbrenging als bedoeld in [artikel 12 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12) (**Stb.** 276) ten aanzien van deze bescheiden geschiedt als had de onderhavige wijziging van de gemeentelijke indeling niet plaatsgevonden. Van de overgang wordt een verklaring opgemaakt volgens de krachtens [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=9) van genoemde wet voor vervreemding van archiefbescheiden gestelde regels.
 
@@ -724,7 +748,7 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, 
 
 3. Het bepaalde in de voorgaande leden is van overeenkomstige toepassing ten aanzien van de overgang van provinciale archiefbescheiden onderscheidenlijk de archiefbescheiden van het departement van Binnenlandse Zaken.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Het bepaalde in [het eerste en tweede lid van artikel 32](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=IX&artikel=32&z=1996-01-01&g=1996-01-01) is van overeenkomstige toepassing ten aanzien van de delen van het tot het bevolkingsregister van het openbaar lichaam en de gemeente Lelystad behorende persoons- en woningregister die betrekking hebben op personen, woningen en andere gebouwen welke op de datum van inwerkingtreding van deze wet gevestigd dan wel gelegen zijn in de gemeenten Almere en Zeewolde.
 
@@ -736,53 +760,53 @@ Zij die op de dag, voorafgaande aan de datum van inwerkingtreding van deze wet, 
 
 5. Het in het derde en vierde lid bedoelde deel van het woningregister wordt gescheiden van dat register bewaard in de gemeente onderscheidenlijk het openbaar lichaam waartoe het overgaande gebied vóór de datum van inwerkingtreding van deze wet behoorde.
 
-#### Artikel 34
+##### Artikel 34
 
 Kosten van bijstand als bedoeld in de [artikelen 16](onbekend), [17](onbekend) en [18 van de Algemene Bijstandswet](onbekend) ten behoeve van personen die op of vóór de datum van inwerkingtreding van deze wet woonachtig zijn of geweest zijn in overgaand gebied, komen met ingang van bedoelde datum ten laste van de gemeente waaraan dat gebied is toegevoegd.
 
-#### Artikel 35
+##### Artikel 35
 
 Met betrekking tot zaken, de dienstplicht, met inbegrip van de mobilisatieuitkeringen, alsmede de noodwachtplicht betreffende, vinden de voorschriften, door of namens Onze Minister van Defensie onderscheidenlijk door Ons dan wel door of namens Onze Minister gegeven ter zake van verhuizing, overeenkomstige toepassing ten aanzien van personen die van een gemeente onderscheidenlijk het openbaar lichaam naar een andere gemeente overgaan.
 
-#### Artikel 36
+##### Artikel 36
 
 Binnen een door Ons te bepalen termijn moeten de in [artikel 27 der Wegenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001948&artikel=27) bedoelde leggers zijn vastgesteld onderscheidenlijk gewijzigd.
 
-#### Artikel 37
+##### Artikel 37
 
 Voor de gemeenten Almere en Zeewolde vangt de in [artikel 2, eerste lid, van de Brandweerwet](https://wetten.overheid.nl/jci1.3:c:BWBR0003764&artikel=2) genoemde termijn van drie jaar aan op de datum van inwerkingtreding van deze wet.
 
-#### Artikel 38
+##### Artikel 38
 
 De door een bij de onderhavige wijziging van de gemeentelijke indeling betrokken gemeente onderscheidenlijk het openbaar lichaam ten behoeve van de Keuringsdienst van Waren over het op de datum van inwerkingtreding van deze wet lopende en het daarop volgende dienstjaar verschuldigde bijdrage wordt, met afwijking van de daaromtrent krachtens [artikel 13, eerste lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=13) gegeven regels, vastgesteld volgens het inwonertal van die gemeente op genoemde datum.
 
-#### Artikel 39
+##### Artikel 39
 
 Deze wet is niet van invloed op de bevoegdheid van de rechter of op die van procureurs van partijen met betrekking tot zaken, op de dag, voorafgaande aan de datum van haar inwerkingtreding, voor enig gerecht aanhangig.
 
-#### Artikel 40
+##### Artikel 40
 
 Deze wet heeft geen beperking ten gevolge van het gebied waarbinnen vóór de datum van inwerkingtreding benoemde notarissen hun ambtsbediening uitoefenen.
 
-#### Artikel 41
+##### Artikel 41
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 42
+##### Artikel 42
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 43
+##### Artikel 43
 
 Bevat wijzigingen in andere regelgeving.
 
 ### Hoofdstuk X. Slotbepalingen
 
-#### Artikel 44
+##### Artikel 44
 
 Geschillen omtrent de toepassing van deze wet en de, krachtens [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=18&z=1996-01-01&g=1996-01-01) van deze wet, te sluiten overeenkomsten waarvan de beslissing niet aan anderen is opgedragen, worden door Ons beslist.
 
-#### Artikel 45
+##### Artikel 45
 
 Deze wet treedt in werking met ingang van een door Ons te bepalen tijdstip met uitzondering van [Hoofdstuk VI](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VI&z=1996-01-01&g=1996-01-01) en [de artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=17&z=1996-01-01&g=1996-01-01), [18](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=V&artikel=18&z=1996-01-01&g=1996-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VII&artikel=25&z=1996-01-01&g=1996-01-01), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=VII&artikel=27&z=1996-01-01&g=1996-01-01) en [44](https://wetten.overheid.nl/jci1.3:c:BWBR0003603&hoofdstuk=X&artikel=44&z=1996-01-01&g=1996-01-01), die in werking treden op de tweede dag na de datum van uitgifte van het **Staatsblad** waarin deze wet wordt geplaatst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Regeling Digitale literatuur"
 identifier: "BWBR0036890"
-categorie: "Overig"
-publicatiedatum: 2017-01-01
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036890"
+country: "nl"
+rank: "zbo"
+publication_date: "2017-01-01"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036890"
+soort: "zbo"
+stam_id: "13232103"
+version_id: "22615492"
+internal_id: "C32423071"
+label_id: "13200654"
+dtd_version: "2.0"
+original_entry_into_force: "2015-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036890/2017-01-01/0"
+intitule_bron: "Stcrt.2015-21855"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2015-07-27"
+intitule_in_force: "2015-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-21855"
+original_published_date: "2015-07-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-21855"
+entry_into_force_date: "2015-08-01"
+jci_1_3: "jci1.3:c:BWBR0036890&z=2017-01-01&g=2017-01-01"
+jci_1_0: "1.0:c:BWBR0036890&g=2017-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2015-08-01"
 ---
-
 # Regeling Digitale literatuur
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -18,7 +40,7 @@ gelet op het [Algemeen Reglement Nederlands Letterenfonds](https://wetten.overhe
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -42,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - h. **Nederland:** het land Nederland, inclusief de openbare lichamen Bonaire, Sint-Eustatius en Saba.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in de categorieën:
 
@@ -54,7 +76,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 ### Algemene bepalingen
 
-#### Artikel 3. Subsidierondes en subsidieplafond
+##### Artikel 3. Subsidierondes en subsidieplafond
 
 1. Het bestuur behandelt de aanvragen voor projectsubsidies, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), categorieën a en b, in minimaal één subsidieronde per jaar.
 
@@ -66,7 +88,7 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 5. Het Letterenfonds publiceert de sluitingsdata van de subsidierondes en de subsidieplafonds op zijn website.
 
-#### Artikel 4. Vereisten aanvraag
+##### Artikel 4. Vereisten aanvraag
 
 1. De aanvraag heeft betrekking op niet meer dan één van de categorieën, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01) en per categorie wordt per ronde niet meer dan één aanvraag door dezelfde aanvrager ingediend. Een aanvraagformulier is te downloaden op de site van het Letterenfonds en wordt naar waarheid, volledig en volgens de bij het formulier vermelde richtlijnen ingevuld, voorzien van alle gevraagde bijlagen.
 
@@ -76,11 +98,11 @@ Deze regeling is van toepassing op projectsubsidies die het bestuur verstrekt in
 
 4. De aanvrager licht desgevraagd in de aanvraag toe op welke wijze de privacyregelgeving bij de uitvoering van de activiteiten waarvoor subsidie wordt verkregen, in acht wordt genomen.
 
-#### Artikel 5. Onderlinge verhoudingen subsidies
+##### Artikel 5. Onderlinge verhoudingen subsidies
 
 Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [artikel 2, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&artikel=2&z=2017-01-01&g=2017-01-01), op aanvraag een subsidie voor een navolgend project verstrekken genoemd in artikel 2, onderdeel b. Het verstrekken van een subsidie in één van de categorieën bindt het bestuur in geen geval tot het verstrekken van enige andere bijdrage in de overige categorieën.
 
-#### Artikel 6. Adviescommissie
+##### Artikel 6. Adviescommissie
 
 1. Een adviescommissie samengesteld uit leden van de raad van advies als bedoeld in het Huishoudelijk reglement van het Letterenfonds adviseert het bestuur over de toets aan de beoordelingscriteria in de onderscheidenlijke categorieën. Het bestuur betrekt genoemd advies bij zijn besluit over de aanvraag.
 
@@ -88,7 +110,7 @@ Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [arti
 
 3. De adviescommissie kan de aanvragers uitnodigen de aanvraag mondeling toe te lichten.
 
-#### Artikel 7. Weigeringsgrond
+##### Artikel 7. Weigeringsgrond
 
 1. Een aanvraag voor subsidie kan worden afgewezen, indien de aanvrager niet aantoonbaar heeft voldaan aan voorschriften gesteld aan eerder door het Letterenfonds toegekende subsidies, dan wel toerekenbaar tekort is geschoten in de nakoming van één of meer verplichtingen verbonden aan een eerdere subsidieverstrekking door het Letterenfonds.
 
@@ -96,7 +118,7 @@ Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [arti
 
 3. Het Letterenfonds wijst aanvragen af als het budget van de regeling is uitgeput.
 
-#### Artikel 8. Verplichtingen voor de subsidieontvanger
+##### Artikel 8. Verplichtingen voor de subsidieontvanger
 
 1. De subsidieontvanger vermeldt in alle producties en publieksuitingen die betrekking hebben op de gesubsidieerde activiteiten de naam, het logo en de website van het Letterenfonds. De subsidieontvanger verschaft het Letterenfonds vanaf de aanvang van de gesubsidieerde activiteiten kosteloze toegang tot de digitale content, en doet eventuele producties direct na gereedkomen aan het Letterenfonds toekomen.
 
@@ -108,7 +130,7 @@ Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [arti
 
 5. De subsidieontvanger dient de subsidie daadwerkelijk te gebruiken voor de activiteiten waarvoor de subsidie is verleend en niet voor enige andere activiteit of last van hemzelf of zijn instelling behalve die in de aanvraag genoemd is.
 
-#### Artikel 9. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 9. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als deze niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
@@ -122,11 +144,11 @@ Het bestuur kan nadat een subsidie is verstrekt in de categorie genoemd in [arti
 
 6. Het bedrag waarmee de subsidie eventueel wordt verlaagd wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 10. Meldingsplicht
+##### Artikel 10. Meldingsplicht
 
 De aanvrager verplicht zich zodra aannemelijk is dat de gesubsidieerde activiteiten niet geheel, niet tijdig of niet volgens de daaraan verbonden verplichtingen zullen worden verricht, dit zo snel mogelijk te melden aan het Letterenfonds.
 
-#### Artikel 11. Termijnen & subsidieverlening en -vaststelling
+##### Artikel 11. Termijnen & subsidieverlening en -vaststelling
 
 1. Het bestuur beslist binnen 13 weken na afloop van de periode waarin aanvragen kunnen worden ingediend.
 
@@ -138,11 +160,11 @@ De aanvrager verplicht zich zodra aannemelijk is dat de gesubsidieerde activitei
 
 #### a. **Talentontwikkeling interdisciplinair**
 
-#### Artikel 12. Subsidiabele activiteit
+##### Artikel 12. Subsidiabele activiteit
 
 Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in het kader van talentontwikkeling interdisciplinair.
 
-#### Artikel 13. Vereisten aanvrager
+##### Artikel 13. Vereisten aanvrager
 
 1. De aanvrager van een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) is een natuurlijk persoon, ingeschreven in de gemeentelijke basisadministratie van Nederland en heeft ten minste één Nederlands- of Friestalig literair werk gepubliceerd bij of vertaald voor een uitgeverij op basis van een contract.
 
@@ -150,7 +172,7 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in
 
 3. De aanvrager kan geen nieuwe aanvraag indienen alvorens een activiteit die op grond van deze regeling, of een daaraan voorafgaande regeling, werd gesubsidieerd en waarbij hij betrokken is, aantoonbaar is voltooid.
 
-#### Artikel 14. Aanvraag
+##### Artikel 14. Aanvraag
 
 1. De aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) dient te bevatten:
 
@@ -164,7 +186,7 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van een zelfevaluatie in
 
 2. De aanvrager is bij de indiening van de aanvraag nog niet gestart met de werkzaamheden waarvoor hij aanvraagt.
 
-#### Artikel 15. Beoordelingscriteria
+##### Artikel 15. Beoordelingscriteria
 
 Een aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=a&artikel=12&z=2017-01-01&g=2017-01-01) wordt getoetst aan:
 
@@ -178,21 +200,21 @@ Een aanvraag voor een subsidie bedoeld in [artikel 12](https://wetten.overheid.n
 
 - e. de deugdelijkheid van de begroting.
 
-#### Artikel 16. Verplichtingen subsidieontvanger
+##### Artikel 16. Verplichtingen subsidieontvanger
 
 Een zelfevaluatie inzake de effecten van de geplande moet door de subsidieontvanger binnen een jaar na subsidievaststelling zijn afgerond.
 
-#### Artikel 17. Hoogte van de subsidie
+##### Artikel 17. Hoogte van de subsidie
 
 De toe te kennen subsidie bedraagt per aanvraag een maximumbedrag dat wordt bekendgemaakt op de website van het Letterenfonds.
 
 #### b. **Projecten**
 
-#### Artikel 18. Subsidiabele activiteit
+##### Artikel 18. Subsidiabele activiteit
 
 Het bestuur stelt subsidies ter beschikking ten behoeve van de ontwikkeling of totstandkoming van projecten.
 
-#### Artikel 19. Vereisten aanvrager
+##### Artikel 19. Vereisten aanvrager
 
 1. De aanvrager van een subsidie is een uitgeverij of een in Nederland gevestigde rechtspersoon met volledige rechtsbevoegdheid, niet zijnde een bibliotheek, onderwijsinstelling of daaraan gerelateerde instelling, en beschikt over een aantoonbaar netwerk in het literaire veld.
 
@@ -200,11 +222,11 @@ Het bestuur stelt subsidies ter beschikking ten behoeve van de ontwikkeling of t
 
 3. De aanvrager kan niet eerder aanvragen dan dat een activiteit waarbij hij betrokken is die met subsidie op grond van deze regeling, of een daaraan voorafgaande regeling, tot stand is gekomen, aantoonbaar is voltooid.
 
-#### Artikel 20. Hoogte van de subsidie
+##### Artikel 20. Hoogte van de subsidie
 
 De toe te kennen subsidie bedraagt maximaal 70% van de begrote, en door het Letterenfonds goedgekeurde, kosten en bedraagt per aanvraag een maximumbedrag dat wordt bekendgemaakt op de website van het Letterenfonds.
 
-#### Artikel 21. Nadere vereisten
+##### Artikel 21. Nadere vereisten
 
 1. Een project wordt gehonoreerd als het wordt uitgevoerd in één van de volgende domeinen:
 
@@ -220,7 +242,7 @@ De toe te kennen subsidie bedraagt maximaal 70% van de begrote, en door het Lett
 
 4. Het project moet binnen twee jaar na subsidievaststelling zijn afgerond.
 
-#### Artikel 22. Aanvraag
+##### Artikel 22. Aanvraag
 
 De aanvraag bevat:
 
@@ -248,7 +270,7 @@ De aanvraag bevat:
 
 - l. desgevraagd de verklaring(en) van de (co)financiers die zich wat betreft financiering, aan het project verbinden.
 
-#### Artikel 23. Beoordelingscriteria
+##### Artikel 23. Beoordelingscriteria
 
 1. Een aanvraag voor een subsidie zoals bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=18&z=2017-01-01&g=2017-01-01) wordt getoetst aan:
 
@@ -270,7 +292,7 @@ De aanvraag bevat:
 
 3. Projecten die grotendeels gericht zijn op Creatie als omschreven in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036890&paragraaf=b&artikel=21&z=2017-01-01&g=2017-01-01), krijgen voorrang.
 
-#### Artikel 24. Verplichtingen subsidieontvanger
+##### Artikel 24. Verplichtingen subsidieontvanger
 
 1. Het bestuur kan de subsidieontvanger de verplichting opleggen dat de verstrekte subsidie wordt terugbetaald uit de exploitatie inkomsten van het project.
 
@@ -282,41 +304,41 @@ De aanvraag bevat:
 
 #### c. **Online tijdschriften**
 
-#### Artikel 25. Subsidiabele activiteit
+##### Artikel 25. Subsidiabele activiteit
 
 Vervallen
 
-#### Artikel 26. Vereisten aanvrager
+##### Artikel 26. Vereisten aanvrager
 
 Vervallen
 
-#### Artikel 27. Hoogte van de subsidie
+##### Artikel 27. Hoogte van de subsidie
 
 Vervallen
 
-#### Artikel 28. Aanvraag
+##### Artikel 28. Aanvraag
 
 Vervallen
 
-#### Artikel 29. Vereisten
+##### Artikel 29. Vereisten
 
 Vervallen
 
-#### Artikel 30. Beoordelingscriteria
+##### Artikel 30. Beoordelingscriteria
 
 Vervallen
 
-#### Artikel 31. Verplichtingen subsidieontvanger
+##### Artikel 31. Verplichtingen subsidieontvanger
 
 Vervallen
 
 ### Slotbepalingen
 
-#### Artikel 32. Slotbepalingen
+##### Artikel 32. Slotbepalingen
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 33. Overige bepalingen
+##### Artikel 33. Overige bepalingen
 
 1. Deze regeling treedt onmiddellijk in werking met ingang van 1 augustus 2015.
 

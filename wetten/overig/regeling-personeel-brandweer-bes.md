@@ -1,26 +1,52 @@
 ---
-title: "Regeling personeel brandweer BES"
+title: "Regeling van de Minister van Veiligheid en Justitie, van 21 juni 2016, nr. 772234, houdende regels dan wel nadere regels over de functies en de daarbij behorende taken, competenties, competentieniveaus, alsmede het geneeskundig onderzoek, de dienstkleding en de gelijkstelling van diploma’s voor het personeel van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling personeel brandweer BES)"
 identifier: "BWBR0038150"
-categorie: "Overig"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038150"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038150"
+soort: "ministeriele-regeling-BES"
+stam_id: "13671903"
+version_id: "23416532"
+internal_id: "C33741831"
+label_id: "13638554"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038150/2016-07-01/0"
+intitule_bron: "Stcrt.2016-33515"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-21"
+intitule_published: "2016-07-01"
+intitule_in_force: "2016-07-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-33515"
+original_signed_date: "2016-06-21"
+original_published_date: "2016-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-33515"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038150&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0038150&g=2016-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling personeel brandweer BES"
+signed_date: "2016-06-21"
+entry_into_force: "2016-07-01"
 ---
-
 # Regeling van de Minister van Veiligheid en Justitie, van 21 juni 2016, nr. 772234, houdende regels dan wel nadere regels over de functies en de daarbij behorende taken, competenties, competentieniveaus, alsmede het geneeskundig onderzoek, de dienstkleding en de gelijkstelling van diploma’s voor het personeel van het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling personeel brandweer BES)
 
 Gelet op de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&artikel=2), [6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&artikel=6), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&artikel=8) en [13 van het Besluit brandweer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&artikel=13);
 
 Besluit:
 
-#### Artikel 1. Functies, taken, competenties en competentieniveau
+##### Artikel 1. Functies, taken, competenties en competentieniveau
 
 1. Met betrekking tot de functies genoemd in [bijlage 1 bij het Besluit brandweer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1), voor zover daarbij de aanduiding ‘CN’ is vermeld, zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen en het daarvoor vereiste competentieniveau opgenomen in de bij deze regeling behorende [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0038150&bijlage=I&z=2016-07-01&g=2016-07-01).
 
 2. Met betrekking tot de functies genoemd in [bijlage 1 bij het Besluit brandweer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&bijlage=1), voor zover daarbij alleen de aanduiding ‘EN’ is vermeld, zijn de taken die behoren tot deze functies, de competenties die vereist zijn om deze taken te vervullen en het daarvoor vereiste competentieniveau opgenomen in de [bijlage A, behorende bij artikel 1, eerste lid, van de Regeling personeel Veiligheidsregio’s](https://wetten.overheid.nl/jci1.3:c:BWBR0027840&bijlage=A).
 
-#### Artikel 2. Geneeskundig onderzoek
+##### Artikel 2. Geneeskundig onderzoek
 
 1. Voor het geneeskundig onderzoek bij aanstelling of bevordering, bedoeld in [artikel 4, eerste lid, onderdeel b, van het Besluit brandweer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028581&artikel=4), gelden de regels die zijn vastgelegd in de bij deze regeling behorende [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0038150&bijlage=II&z=2016-07-01&g=2016-07-01).
 
@@ -38,7 +64,7 @@ Besluit:
 
 5. Als de algemeen commandant daar aanleiding toe ziet, kan in afwijking van de frequentie, bedoeld in het derde lid, een tussentijds geneeskundig onderzoek plaatsvinden.
 
-#### Artikel 3. Dienstkleding
+##### Artikel 3. Dienstkleding
 
 1. De algemeen commandant bepaalt aan wie de dienstkleding wordt verstrekt en wie wanneer welk tenue draagt.
 
@@ -56,7 +82,7 @@ Besluit:
 
 8. Het brandweerkorps verstrekt de dienstkleding in bruikleen. De dienstkleding blijft eigendom van de Staat. Beschadigingen die moedwillig of door onzorgvuldigheid zijn ontstaan, zijn voor rekening van de medewerker aan wie de dienstkleding is verstrekt. De medewerker is verantwoordelijk voor en aanspreekbaar op de nette en schone staat van de dienstkleding en levert deze bij het uit dienst treden in.
 
-#### Artikel 4. Overgangsbepalingen
+##### Artikel 4. Overgangsbepalingen
 
 1. De medewerker die, op het tijdstip waarop deze regeling in werking treedt, bij het brandweerkorps voor Bonaire, Sint Eustatius en Saba in een functie is aangesteld waarop volgens deze regeling beroepskwalificaties van toepassing zijn, ontvangt op basis van gelijkstelling of erkenning van eerder verworven competenties het diploma voor het functieniveau waarvan hij aantoonbaar de kennis, ervaring en competenties bezit.
 
@@ -66,11 +92,11 @@ Besluit:
 
 4. De medewerker die op grond van de voorgaande leden recht heeft op een diploma op basis van gelijkstelling dan wel erkenning van eerder verworven competenties, ontvangt het betreffende diploma uiterlijk zes maanden na de datum van in werking treden van deze regeling van het Instituut Fysieke Veiligheid.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 juli 2016.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling personeel brandweer BES.
 

@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie bijzondere situaties"
+title: "Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)"
 identifier: "BWBR0037893"
-categorie: "Overig"
-publicatiedatum: 2021-09-14
-laatste_update: 2021-09-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037893"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-09-14"
+last_updated: "2021-09-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037893"
+soort: "ministeriele-regeling"
+stam_id: "13490993"
+version_id: "23150502"
+internal_id: "C33453841"
+label_id: "13457934"
+dtd_version: "2.0"
+original_entry_into_force: "2016-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037893/2021-09-14/0"
+intitule_bron: "Stcrt.2016-22183"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-04-22"
+intitule_published: "2016-04-29"
+intitule_in_force: "2016-04-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-22183"
+original_signed_date: "2016-04-22"
+original_published_date: "2016-04-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-22183"
+entry_into_force_date: "2016-05-01"
+jci_1_3: "jci1.3:c:BWBR0037893&z=2021-09-14&g=2021-09-14"
+jci_1_0: "1.0:c:BWBR0037893&g=2021-09-14"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie bijzondere situaties"
+signed_date: "2016-04-22"
+entry_into_force: "2016-05-01"
 ---
-
 # Besluit van de Minister van Economische Zaken van 22 april 2016, nr. WJZ/16042425, tot instelling van de Commissie bijzondere situaties (Instellingsbesluit Commissie bijzondere situaties)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -28,17 +54,17 @@ In dit besluit wordt verstaan onder:
 
 - **Nationale ombudsman:** Nationale ombudsman, bedoeld in artikel 2 van de Wet Nationale ombudsman.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Commissie bijzondere situaties.
 
 2. De commissie heeft tot taak het geven van adviezen aan het Instituut over hulp in bijzondere situaties als bedoeld in [artikel 1 van het Tijdelijk besluit mandaat, volmacht en machtiging IMG voor hulp in bijzondere situaties](https://wetten.overheid.nl/jci1.3:c:BWBR0045609&artikel=1).
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie bestaat uit een voorzitter en ten minste twee andere leden.
 
@@ -48,7 +74,7 @@ Vervallen
 
 4. De Nationale ombudsman en de Onafhankelijke Raadsman kunnen de vergaderingen van de commissie bijwonen teneinde de commissie te adviseren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie stelt haar werkwijze schriftelijk vast in afstemming met het Instituut.
 
@@ -58,11 +84,11 @@ Vervallen
 
 4. De commissie verstrekt desgevraagd aan het Instituut de voor de uitoefening van zijn taak benodigde inlichtingen. Het Instituut kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de voorzitter en de andere leden van de commissie wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 17, trede 10 van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](https://wetten.overheid.nl/jci1.3:c:BWBR0003630&bijlage=B) en de arbeidsduurfactor op 0,1.
 
-#### Artikel 7
+##### Artikel 7
 
 Ter gelegenheid van de instelling van de commissie worden voor een periode van drie jaar tot lid van de commissie benoemd:
 
@@ -72,11 +98,11 @@ Ter gelegenheid van de instelling van de commissie worden voor een periode van d
 
 - c. mw. E.I. van Leeuwen-Seelt, te Loon.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 1 mei 2016.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie bijzondere situaties.
 

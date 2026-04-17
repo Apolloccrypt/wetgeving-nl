@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, pensioenen; uitfasering pensioen in eigen beheer, informatieformulier"
 identifier: "BWBR0043378"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-04-11
-laatste_update: 2017-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043378"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-04-11"
+last_updated: "2017-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043378"
+soort: "beleidsregel"
+stam_id: "15403193"
+version_id: "26626482"
+internal_id: "C37777321"
+label_id: "15347504"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043378/2020-04-11/0"
+intitule_bron: "Stcrt.2020-20858"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-31"
+intitule_published: "2020-04-10"
+intitule_in_force: "2020-04-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-20858"
+original_signed_date: "2020-03-31"
+original_published_date: "2020-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-20858"
+entry_into_force_date: "2020-04-11"
+jci_1_3: "jci1.3:c:BWBR0043378&z=2020-04-11&g=2020-04-11"
+jci_1_0: "1.0:c:BWBR0043378&g=2020-04-11"
+citeertitel_status: "redactioneel"
+signed_date: "2020-03-31"
+entry_into_force: "2020-04-11"
 ---
-
 # Loonheffingen, pensioenen; uitfasering pensioen in eigen beheer, informatieformulier
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

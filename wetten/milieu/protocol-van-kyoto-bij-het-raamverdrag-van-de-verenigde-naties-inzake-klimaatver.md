@@ -1,13 +1,37 @@
 ---
 title: "Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering"
 identifier: "BWBV0001538"
-categorie: "Milieu"
-publicatiedatum: 2020-12-31
-laatste_update: 2020-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001538"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-12-31"
+last_updated: "2020-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001538"
+soort: "verdrag"
+stam_id: "10000370953"
+version_id: "10000379192"
+internal_id: "C10006989661"
+label_id: "10000371334"
+original_entry_into_force: "2005-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001538/2020-12-31/0"
+intitule_bron: "Trb.1998-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-05-31"
+intitule_published: "1998-07-01"
+intitule_in_force: "2005-01-05"
+intitule_status: "goed"
+original_publication: "Trb.1998-170"
+original_signed_date: "2002-05-31"
+original_published_date: "1998-07-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-170"
+entry_into_force_date: "2005-02-16"
+jci_1_3: "jci1.3:c:BWBV0001538&z=2020-12-31&g=2020-12-31"
+jci_1_0: "1.0:c:BWBV0001538&g=2020-12-31"
+citeertitel_status: "officieel"
+signed_date: "2002-05-31"
+entry_into_force: "2005-02-16"
 ---
-
 # Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering
 
 De Partijen bij dit Protocol,
@@ -24,7 +48,7 @@ Ingevolge het mandaat van Berlijn dat bij besluit 1/CP.1 van de Conferentie van 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=1) van toepassing. Daarnaast wordt verstaan onder:
 
@@ -42,7 +66,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 - 7. „In Bijlage I opgenomen Partij”: een Partij die is opgenomen in [Bijlage I bij het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I), eventueel als gewijzigd, of een Partij die een kennisgeving heeft gedaan ingevolge [artikel 4, tweede lid, letter g](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4), van het Verdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij dient, voor de nakoming van haar gekwantificeerde verplichtingen inzake emissiebeperking en -reductie uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31), met het oog op de bevordering van duurzame ontwikkeling:
 
@@ -72,7 +96,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 4. Indien de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, besluit dat het nuttig is in het eerste lid, letter a, genoemd beleid en maatregelen te coördineren, zal zij, rekening houdend met de verschillende nationale omstandigheden en mogelijke gevolgen, wijzen en middelen bestuderen om de coördinatie van dit beleid en deze maatregelen uit te werken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in Bijlage I opgenomen Partijen zorgen er ieder voor zich of gezamenlijk voor dat hun gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=A&z=2020-12-31&g=2020-12-31) genoemde broeikasgassen de hun toegewezen hoeveelheden, berekend aan de hand van hun gekwantificeerde verplichtingen inzake emissiebeperking en -reductie als genoemd in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B&z=2020-12-31&g=2020-12-31) en overeenkomstig het in dit artikel bepaalde, niet overschrijden, met het oog op de reductie van hun totale emissie van die gassen in de verbintenisperiode 2008 tot 2012 met ten minste 5% ten opzichte van de niveaus van 1990.
 
@@ -118,7 +142,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 14. Elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij streeft ernaar de in het eerste lid genoemde verplichtingen na te komen met een minimum aan nadelige sociale, economische en milieueffecten voor andere Partijen die ontwikkelingslanden zijn, in het bijzonder die welke zijn genoemd in [artikel 4, achtste en negende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4). In overeenstemming met de desbetreffende besluiten van de Conferentie van de Partijen inzake de toepassing van die leden, bestudeert de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen tijdens haar eerste zitting welke maatregelen nodig zijn om de nadelige gevolgen van klimaatverandering en/of de gevolgen van bestrijdingsmaatregelen voor de in die leden bedoelde Partijen tot een minimum te beperken. Onderwerp van studie zijn onder andere het instellen van financiering, de verzekering en de overdracht van technologie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partijen die een overeenkomst hebben gesloten inzake de gezamenlijke nakoming van hun verplichtingen uit hoofde van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31), worden geacht aan die verplichtingen te hebben voldaan op voorwaarde dat hun totale gecombineerde gezamenlijke antropogene in kooldioxide-equivalenten uitgedrukte emissies van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=A&z=2020-12-31&g=2020-12-31) genoemde broeikasgassen de aan hen toegewezen hoeveelheden, die zijn berekend op grond van hun in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B&z=2020-12-31&g=2020-12-31) opgenomen gekwantificeerde verplichtingen inzake emissiebeperking en -reductie en overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31), niet overschrijden. Het respectieve emissieniveau dat aan elk van de Partijen bij de overeenkomst is toegewezen, dient in die overeenkomst te worden aangegeven.
 
@@ -132,7 +156,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 6. Indien Partijen die gezamenlijk handelen dit doen in het kader van, en samen met, een regionale organisatie voor economische integratie die zelf Partij is bij dit Protocol, is elke lidstaat van die regionale organisatie voor economische integratie afzonderlijk, en samen met de regionale organisatie voor economische integratie handelend overeenkomstig artikel 24, verantwoordelijk voor zijn eigen overeenkomstig dit artikel bekendgemaakte emissieniveau, ingeval zij er niet in slagen hun totale gecombineerde niveau van emissiereducties te bereiken.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij dient niet later dan een jaar voor het begin van de eerste verbintenisperiode te beschikken over een nationaal systeem voor de schatting van antropogene emissies per bron en verwijderingen per put van alle niet krachtens het [Protocol van Montreal](https://wetten.overheid.nl/jci1.3:c:BWBV0002086) beheerste broeikasgassen. De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, beslist tijdens haar eerste zitting over richtlijnen voor dergelijke nationale systemen, waarin de in het tweede lid genoemde methoden zijn verwerkt.
 
@@ -140,7 +164,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 3. De cijfers van het aardopwarmingsvermogen (global warming potentials), de zogenoemde GWP-waarden, die worden gebruikt voor de berekening van het kooldioxide-equivalent van antropogene emissies per bron en verwijderingen per put van de in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=A&z=2020-12-31&g=2020-12-31) genoemde broeikasgassen zijn die welke door de Intergouvernementele werkgroep inzake klimaatverandering zijn aanvaard en door de Conferentie van de Partijen tijdens haar derde zitting zijn overeengekomen. Op basis van het werk van onder andere de Intergouvernementele werkgroep inzake klimaatverandering en het door het Hulporgaan voor wetenschappelijk en technologisch advies uitgebrachte advies wordt de GWP-waarde van elk van die broeikasgassen regelmatig getoetst en in voorkomende gevallen herzien door de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, ten volle rekening houdend met eventuele relevante besluiten van de Conferentie van de Partijen. Een herziening van de GWP-waarde is alleen van toepassing op verplichtingen ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) met betrekking tot een na die herziening aanvaarde verbintenisperiode.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Om aan haar verplichtingen ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) te voldoen, kan elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij emissiereductie eenheden die het resultaat zijn van projecten die een reductie beogen van antropogene emissies per bron of een verhoging van antropogene verwijderingen per put van broeikasgassen in ongeacht welke sector van de economie, overdragen aan of overnemen van elke andere in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij, op voorwaarde dat:
 
@@ -158,7 +182,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 4. Indien een vraagstuk betreffende de uitvoering van de in dit artikel genoemde eisen door een in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij overeenkomstig de desbetreffende bepalingen van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=8&z=2020-12-31&g=2020-12-31) wordt gesignaleerd, kunnen overdrachten en overnames van emissiereductie eenheden doorgang blijven vinden nadat het vraagstuk is gesignaleerd, op voorwaarde dat die eenheden niet door een Partij mogen worden gebruikt om aan haar verplichtingen ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) te voldoen totdat alle kwesties betreffende de nakoming zijn opgelost.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij neemt in haar jaarlijkse inventarislijst van antropogene emissies per bron en verwijderingen per put van niet krachtens het [Protocol van Montreal](https://wetten.overheid.nl/jci1.3:c:BWBV0002086) beheerste broeikasgassen, die overeenkomstig de desbetreffende besluiten van de Conferentie van de Partijen wordt ingediend, de noodzakelijke overeenkomstig het vierde lid te bepalen aanvullende informatie op om ervoor te zorgen dat aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) wordt voldaan.
 
@@ -168,7 +192,7 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 4. De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, neemt tijdens haar eerste zitting richtlijnen aan voor het opstellen van de uit hoofde van dit artikel vereiste informatie, en toetst deze daarna periodiek, rekening houdend met de richtlijnen voor het opstellen van nationale mededelingen door in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partijen, die door de Conferentie van de Partijen zijn aangenomen. De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, beslist eveneens, vóór de eerste verbintenisperiode, over manieren waarop de administratie van de toegewezen hoeveelheden kan plaatsvinden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De informatie die ingevolge [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=7&z=2020-12-31&g=2020-12-31) door elke in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partij wordt verstrekt, wordt getoetst door beoordelingsteams van deskundigen ingevolge de desbetreffende besluiten van de Conferentie van de Partijen en overeenkomstig de richtlijnen die uit hoofde van het vierde lid voor dit doel zijn aangenomen door de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen. De ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=7&z=2020-12-31&g=2020-12-31), door elke in Bijlage I opgenomen Partij verstrekte informatie wordt getoetst als deel van de jaarlijkse samenstelling en administratie van de emissie-inventarislijsten en de toegewezen hoeveelheden. Daarnaast wordt de ingevolge [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=7&z=2020-12-31&g=2020-12-31), door elke in Bijlage I opgenomen Partij verstrekte informatie getoetst als deel van de beoordeling van de mededelingen.
 
@@ -186,13 +210,13 @@ Voor de toepassing van dit Protocol zijn de begripsomschrijvingen van [artikel 1
 
 6. Ingevolge haar bestudering van de in het vijfde lid genoemde informatie, neemt de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, besluiten over elke voor de uitvoering van dit Protocol noodzakelijke aangelegenheid.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, toetst dit Protocol periodiek in het licht van de best beschikbare wetenschappelijke informatie over en evaluaties van klimaatverandering en de effecten daarvan, alsmede ter zake dienende technische, sociale en economische informatie. Deze toetsingen worden gecoördineerd met relevante toetsingen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), in het bijzonder die welke worden vereist in [artikel 4, tweede lid, letter d](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4), en [artikel 7, tweede lid, letter a, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=7). Op basis van deze toetsingen neemt de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, passende maatregelen.
 
 2. De eerste toetsing vindt plaats tijdens de tweede zitting van de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen. Volgende toetsingen vinden met regelmatige tussenpozen en tijdig plaats.
 
-#### Artikel 10
+##### Artikel 10
 
 Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun specifieke nationale en regionale ontwikkelingsprioriteiten, doelstellingen en omstandigheden in aanmerking nemend, zonder nieuwe verplichtingen te introduceren voor niet in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partijen, maar de bestaande verplichtingen ingevolge [artikel 4, eerste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4) bevestigend, en de naleving van deze verplichtingen steeds bevorderend om duurzame ontwikkeling te realiseren, rekening houdend met [artikel 4, derde, vijfde en zevende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4):
 
@@ -214,7 +238,7 @@ Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun
 
 - g. nemen, bij de nakoming van de verplichtingen ingevolge dit artikel, [artikel 4, achtste lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4) grondig in overweging.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=10&z=2020-12-31&g=2020-12-31) houden Partijen rekening met het in [artikel 4, vierde, vijfde, zevende, achtste en negende lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=4) bepaalde.
 
@@ -226,7 +250,7 @@ Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun
 
 3. Door de Partijen die ontwikkelde landen zijn en de andere in [Bijlage II bij het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=II) opgenomen ontwikkelde Partijen en aan Partijen die ontwikkelingslanden zijn, kunnen ook financiële middelen voor de toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=10&z=2020-12-31&g=2020-12-31) ter beschikking worden gesteld, langs bilaterale, regionale en andere multilaterale kanalen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Hierbij wordt een mechanisme voor schone ontwikkeling ingesteld.
 
@@ -258,7 +282,7 @@ Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun
 
 10. Gecertificeerde emissiereducties die in de periode vanaf het jaar 2000 tot aan het begin van de eerste verbintenisperiode zijn gerealiseerd, kunnen worden aangewend om bij te dragen tot de nakoming van de verplichtingen in de eerste verbintenisperiode.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Partijen bij dit Protocol komen bijeen in de Conferentie van de Partijen, het hoogste orgaan van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115).
 
@@ -296,13 +320,13 @@ Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun
 
 8. De Verenigde Naties, haar gespecialiseerde organisaties en de Internationale Organisatie voor Atoomenergie, alsmede alle lidstaten daarvan of waarnemers daarbij die geen Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) zijn, kunnen op zittingen van de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, worden vertegenwoordigd als waarnemer. Elke instelling of organisatie, hetzij nationaal of internationaal, hetzij gouvernementeel of niet-gouvernementeel, die bevoegd is ter zake van aangelegenheden waarop dit Protocol betrekking heeft, en die aan het secretariaat haar wens te kennen heeft gegeven op een zitting van de Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, te zijn vertegenwoordigd als waarnemer, kan als zodanig worden toegelaten, tenzij ten minste een derde van de aanwezige Partijen hiertegen bezwaar maakt. De toelating en de deelneming van waarnemers wordt geregeld in het reglement van orde, bedoeld in het vijfde lid.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het bij [artikel 8 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) ingestelde secretariaat fungeert als secretariaat van dit Protocol.
 
 2. [Artikel 8, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) inzake de taken van het secretariaat en [artikel 8, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=8) inzake voor het functioneren van het secretariaat getroffen regelingen, zijn van overeenkomstige toepassing op dit Protocol. Daarnaast verricht het secretariaat de ingevolge dit Protocol aan het secretariaat toegewezen taken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering, ingesteld bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) en [10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10), doen dienst als respectievelijk het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van dit Protocol. De bepalingen inzake het functioneren van deze twee organen uit hoofde van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) zijn van overeenkomstige toepassing op dit Protocol. Zittingen van de bijeenkomsten van het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van dit Protocol worden samen met de bijeenkomsten van respectievelijk het Hulporgaan voor wetenschappelijk en technologisch advies en het Hulporgaan inzake de uitvoering van het Verdrag gehouden.
 
@@ -310,23 +334,23 @@ Alle Partijen, hun gezamenlijke, doch verschillende verantwoordelijkheden en hun
 
 3. Wanneer de bij de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=9) en [10 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=10) ingestelde hulporganen hun functie uitoefenen inzake aangelegenheden met betrekking tot dit Protocol wordt een lid van de Bureaus van die hulporganen dat een Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) vertegenwoordigt die op dat moment geen Partij bij dit Protocol is, vervangen door een extra door en uit de Partijen bij dit Protocol te kiezen lid.
 
-#### Artikel 16
+##### Artikel 16
 
 De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, bestudeert zo spoedig mogelijk de toepassing op dit Protocol van het in [artikel 13 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=13) bedoelde multilaterale consultatieve overleg, en wijzigt dit indien nodig, in het licht van eventuele relevante besluiten die door de Conferentie van de Partijen worden genomen. Multilateraal consultatief overleg dat op dit Protocol van toepassing kan zijn, functioneert onverminderd de in overeenstemming met artikel 18 ingestelde procedures en mechanismen.
 
-#### Artikel 17
+##### Artikel 17
 
 De Conferentie van de Partijen legt de relevante beginselen, modaliteiten, regels en richtlijnen vast, in het bijzonder voor de verificatie en de rapportage van en het afleggen van verantwoording over emissiehandel. De in [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B&z=2020-12-31&g=2020-12-31) opgenomen Partijen kunnen deelnemen aan emissiehandel teneinde aan hun verplichtingen ingevolge [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) te voldoen. Deze handel vormt een aanvulling op de nationale maatregelen om de gekwantificeerde verplichtingen inzake emissiebeperking en -reductie uit hoofde van [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=3&z=2020-12-31&g=2020-12-31) na te komen.
 
-#### Artikel 18
+##### Artikel 18
 
 De Conferentie van de Partijen waarin de Partijen bij dit Protocol bijeenkomen, keurt tijdens haar eerste zitting passende en doeltreffende procedures en mechanismen goed teneinde gevallen van niet-naleving van de bepalingen van dit Protocol vast te stellen en te bestrijden, onder andere door het opstellen van een indicatieve lijst van gevolgen, rekening houdend met de oorzaak, de aard, de mate en de frequentie van de niet-naleving. Procedures en mechanismen ingevolge dit artikel die bindende gevolgen met zich meebrengen worden aangenomen door middel van een wijziging op dit Protocol.
 
-#### Artikel 19
+##### Artikel 19
 
 De bepalingen van [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&artikel=14) inzake regeling van geschillen zijn van overeenkomstige toepassing op dit Protocol.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Elke Partij kan wijzigingen van dit Protocol voorstellen.
 
@@ -338,7 +362,7 @@ De bepalingen van [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3
 
 5. Een wijziging treedt ten aanzien van elke andere Partij in werking op de negentigste dag na de datum waarop die Partij haar akte van aanvaarding betreffende bedoelde wijziging heeft nedergelegd bij de Depositaris.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Bijlagen bij dit Protocol maken daarvan een integrerend deel uit en een verwijzing naar dit Protocol vormt tegelijkertijd een verwijzing naar de Bijlagen daarbij, tenzij uitdrukkelijk anders is bepaald. Bijlagen die worden aangenomen na de inwerkingtreding van dit Protocol zijn beperkt tot lijsten, formulieren en andere beschrijvende stukken van wetenschappelijke, technische, procedurele of administratieve aard.
 
@@ -354,17 +378,17 @@ De bepalingen van [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3
 
 7. Wijzigingen van de [Bijlagen A](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=A&z=2020-12-31&g=2020-12-31) en [B](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B&z=2020-12-31&g=2020-12-31) bij dit Protocol worden aangenomen en worden van kracht in overeenstemming met de in [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&artikel=20&z=2020-12-31&g=2020-12-31) genoemde procedure, met dien verstande dat een wijziging van [Bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBV0001538&bijlage=B&z=2020-12-31&g=2020-12-31) alleen met de schriftelijke instemming van de betrokken Partij wordt aangenomen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Elke Partij heeft één stem, behoudens het in het tweede lid bepaalde.
 
 2. Regionale organisaties voor economische integratie beschikken ter zake van binnen hun bevoegdheid vallende aangelegenheden over een aantal stemmen dat gelijk is aan het aantal van hun lidstaten die Partij bij dit Protocol zijn. Bedoelde organisaties oefenen hun stemrecht niet uit indien een van hun lidstaten zijn stemrecht uitoefent, en omgekeerd.
 
-#### Artikel 23
+##### Artikel 23
 
 De Secretaris-Generaal van de Verenigde Naties is Depositaris van dit Protocol.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Dit Protocol staat open voor ondertekening en dient te worden bekrachtigd, aanvaard of goedgekeurd door Staten en regionale organisaties voor economische integratie die Partij bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) zijn. Het staat open voor ondertekening van 16 maart 1998 tot en met 15 maart 1999 op de zetel van de Verenigde Naties te New York. Dit Protocol staat open voor toetreding vanaf de dag na de datum waarop het is gesloten voor ondertekening. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij de Depositaris.
 
@@ -372,7 +396,7 @@ De Secretaris-Generaal van de Verenigde Naties is Depositaris van dit Protocol.
 
 3. In hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding geven regionale organisaties voor economische integratie de omvang van hun bevoegdheid ter zake van door dit Protocol geregelde aangelegenheden aan. Deze organisaties doen tevens kennisgeving aan de Depositaris, die op zijn beurt de Partijen in kennis stelt, van belangrijke wijzigingen betreffende de omvang van hun bevoegdheid.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Dit Protocol treedt in werking op de negentigste dag na de datum waarop ten minste vijfenvijftig Partijen bij het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115), waaronder in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partijen van wie de totale kooldioxide-emissies ten minste vijfenvijftig procent van de totale kooldioxide-emissies in 1990 van de in [Bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBV0001115&bijlage=I) opgenomen Partijen bedroegen, hun akten van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
@@ -382,11 +406,11 @@ De Secretaris-Generaal van de Verenigde Naties is Depositaris van dit Protocol.
 
 4. Voor de toepassing van dit artikel wordt een door een regionale organisatie voor economische integratie nedergelegde akte niet meegeteld naast de door haar lidstaten nedergelegde akten.
 
-#### Artikel 26
+##### Artikel 26
 
 Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Na het verstrijken van een termijn van drie jaar te rekenen vanaf de datum waarop dit Protocol voor een Partij in werking is getreden, kan die Partij dit Protocol opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris.
 
@@ -394,7 +418,7 @@ Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
 3. Een Partij die het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001115) heeft opgezegd, wordt geacht ook dit Protocol te hebben opgezegd.
 
-#### Artikel 28
+##### Artikel 28
 
 Het oorspronkelijke exemplaar van dit Protocol, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 

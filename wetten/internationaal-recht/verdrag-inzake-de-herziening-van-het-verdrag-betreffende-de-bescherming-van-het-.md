@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake de herziening van het Verdrag betreffende de bescherming van het moederschap (herzien), 1952"
 identifier: "BWBV0003153"
-categorie: "Internationaal recht"
-publicatiedatum: 2010-01-15
-laatste_update: 2010-01-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003153"
+country: "nl"
+rank: "verdrag"
+publication_date: "2010-01-15"
+last_updated: "2010-01-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003153"
+soort: "verdrag"
+stam_id: "10003359323"
+version_id: "10003396282"
+internal_id: "C10008431251"
+label_id: "10003345674"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003153/2010-01-15/0"
+intitule_bron: "Trb.2006-16"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2006-01-26"
+intitule_in_force: "2009-04-15"
+intitule_status: "goed"
+original_publication: "Trb.2006-16"
+original_published_date: "2006-01-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-16"
+entry_into_force_date: "2010-01-15"
+jci_1_3: "jci1.3:c:BWBV0003153&z=2010-01-15&g=2010-01-15"
+jci_1_0: "1.0:c:BWBV0003153&g=2010-01-15"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-01-15"
 ---
-
 # Verdrag inzake de herziening van het Verdrag betreffende de bescherming van het moederschap (herzien), 1952
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -28,11 +50,11 @@ neemt heden, de vijftiende juni van het jaar tweeduizend, het volgende Verdrag a
 
 ### TOEPASSINGSGEBIED
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag is de term „vrouw” op iedere persoon van het vrouwelijk geslacht van toepassing zonder enige vorm van discriminatie en de term „kind” op ieder kind, zonder enige vorm van discriminatie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit Verdrag is van toepassing op alle vrouwen die als werknemer werkzaam zijn, met inbegrip van hen die atypische vormen van niet-zelfstandige arbeid verrichten.
 
@@ -42,13 +64,13 @@ Voor de toepassing van dit Verdrag is de term „vrouw” op iedere persoon van 
 
 ### BESCHERMING VAN DE GEZONDHEID
 
-#### Artikel 3
+##### Artikel 3
 
 Elk Lid neemt, na raadpleging van de representatieve organisaties van werkgevers en werknemers passende maatregelen om te waarborgen dat zwangere vrouwen of vrouwen tijdens de lactatie niet verplicht zijn werkzaamheden te verrichten waarvan de bevoegde autoriteit heeft vastgesteld dat deze schadelijk zijn voor de gezondheid van de moeder of het kind, of wanneer bij een risico-inventarisatie een wezenlijk risico is vastgesteld voor de gezondheid van de moeder of die van haar kind.
 
 ### ZWANGERSCHAPS- EN BEVALLINGSVERLOF
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op vertoon van een medisch attest of andere relevante verklaring, zoals vastgesteld overeenkomstig de nationale wetgeving en praktijk, waarin de vermoedelijke datum van de bevalling is vermeld, heeft een vrouw op wie dit Verdrag van toepassing is recht op een periode van zwangerschaps- en bevallingsverlof van ten minste 14 weken.
 
@@ -62,13 +84,13 @@ Elk Lid neemt, na raadpleging van de representatieve organisaties van werkgevers
 
 ### VERLOF BIJ ZIEKTE OF COMPLICATIES
 
-#### Artikel 5
+##### Artikel 5
 
 Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en bevallingsverlof toegekend bij ziekte, complicaties of risico van complicaties als gevolg van de zwangerschap of bevalling. De aard en de maximumduur van dit verlof kunnen worden bepaald in overeenstemming met de nationale wetgeving en praktijk.
 
 ### UITKERINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 1. In overeenstemming met nationale wet- en regelgeving, of op enige andere wijze in overeenstemming met de nationale praktijk, worden aan vrouwen die wegens het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2010-01-15&g=2010-01-15) bedoelde verlof niet aanwezig zijn op hun werk geldelijke uitkeringen verstrekt.
 
@@ -90,7 +112,7 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 - b. dit later op nationaal niveau wordt overeengekomen door de regering en de representatieve organisaties van werkgevers en werknemers.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een Lid waarvan de economie en het socialezekerheidsstelsel onvoldoende ontwikkeld zijn, wordt geacht te voldoen aan [artikel 6, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2010-01-15&g=2010-01-15), indien geldelijke uitkeringen worden verstrekt op een niveau dat niet lager is dan het niveau dat verschuldigd is bij ziekte of tijdelijke arbeidsongeschiktheid in overeenstemming met de nationale wet- en regelgeving.
 
@@ -98,13 +120,13 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ### ONTSLAGBESCHERMING EN NON-DISCRIMINATIE
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het is de werkgever verboden om het dienstverband van een vrouw te beëindigen tijdens haar zwangerschap of het verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) of [5](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=5&z=2010-01-15&g=2010-01-15) of gedurende een door de nationale wet- of regelgeving te bepalen tijdvak na haar terugkeer op de werkplek, tenzij op gronden die geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie. De bewijslast om aan te tonen dat de redenen voor ontslag geen verband houden met de zwangerschap of bevalling en de gevolgen daarvan of de lactatie rust op de werkgever.
 
 2. Een vrouw heeft aan het eind van haar bevallingsverlof het recht terug te keren in dezelfde of een vergelijkbare functie tegen hetzelfde salaris.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Elk Lid neemt passende maatregelen om te waarborgen dat moederschap geen bron van discriminatie op de arbeidsmarkt vormt, met inbegrip van – niettegenstaande [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=2&z=2010-01-15&g=2010-01-15) – toegang tot de arbeidsmarkt.
 
@@ -116,7 +138,7 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ### VROUWEN TIJDENS DE LACTATIE
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een vrouw heeft recht op een of meer pauzes per dag of op dagelijkse beperking van het aantal werkuren om haar kind borstvoeding te geven.
 
@@ -124,27 +146,27 @@ Op vertoon van een medisch attest wordt verlof voor of na het zwangerschaps- en 
 
 ### PERIODIEKE HERZIENING
 
-#### Artikel 11
+##### Artikel 11
 
 Elk Lid onderzoekt periodiek, in overleg met de representatieve organisaties van werkgevers en werknemers, of het passend is om de periode van verlof bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=4&z=2010-01-15&g=2010-01-15) te verlengen of om de geldelijke uitkeringen bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003153&artikel=6&z=2010-01-15&g=2010-01-15) te verhogen.
 
 ### UITVOERING
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Verdrag wordt uitgevoerd door middel van wet- of regelgeving, behoudens in de gevallen waarin hieraan op andere wijze uitvoering wordt gegeven, zoals door collectieve arbeidsovereenkomsten, scheidsrechterlijke uitspraken, rechterlijke uitspraken of op enige andere wijze in overeenstemming met de nationale praktijk.
 
 ### SLOTBEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 Dit Verdrag herziet het Verdrag betreffende de bescherming van het moederschap (herzien), 1952.
 
-#### Artikel 14
+##### Artikel 14
 
 De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem ingeschreven.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag is slechts verbindend voor die Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal van het Internationaal Arbeidsbureau is ingeschreven.
 
@@ -152,27 +174,27 @@ De officiële bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeu
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is ingeschreven.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na verloop van een termijn van tien jaar na de datum waarop het Verdrag in werking is getreden, door middel van een verklaring, toegezonden aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door deze ingeschreven. De opzegging wordt pas van kracht een jaar nadat zij is ingeschreven.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na het verloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van het recht tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na verloop van elke termijn van tien jaar, onder de voorwaarden voorzien in dit artikel.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 18
+##### Artikel 18
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die de Directeur-Generaal overeenkomstig de bepalingen van de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 19
+##### Artikel 19
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit nodig acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien de Conferentie een nieuw Verdrag aanneemt, houdende gehele of gedeeltelijke herziening van het onderhavige Verdrag, en, indien het nieuwe Verdrag niet anders bepaalt:
 
@@ -182,7 +204,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Het onderhavige Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe Verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 21
+##### Artikel 21
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

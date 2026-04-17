@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Arbeidsmarktimpuls forensische zorg"
+title: "Regeling van de Minister voor Rechtsbescherming van 1 oktober 2018, kenmerk 2365132, houdende regels voor subsidiëring van activiteiten van instellingen voor Forensische Psychiatrische Klinieken en Forensische Psychiatrische Afdelingen gericht op de verbetering van hun positie op de arbeidsmarkt (Subsidieregeling Arbeidsmarktimpuls forensische zorg)"
 identifier: "BWBR0041420"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2018-10-06
-laatste_update: 2018-10-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041420"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-10-06"
+last_updated: "2018-10-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041420"
+soort: "ministeriele-regeling"
+stam_id: "14826843"
+version_id: "25350112"
+internal_id: "C36198771"
+label_id: "14778944"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041420/2018-10-06/0"
+intitule_bron: "Stcrt.2018-56484"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-10-01"
+intitule_published: "2018-10-05"
+intitule_in_force: "2018-10-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-56484"
+original_signed_date: "2018-10-01"
+original_published_date: "2018-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-56484"
+entry_into_force_date: "2018-10-06"
+jci_1_3: "jci1.3:c:BWBR0041420&z=2018-10-06&g=2018-10-06"
+jci_1_0: "1.0:c:BWBR0041420&g=2018-10-06"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Arbeidsmarktimpuls forensische zorg"
+signed_date: "2018-10-01"
+entry_into_force: "2018-10-06"
 ---
-
 # Regeling van de Minister voor Rechtsbescherming van 1 oktober 2018, kenmerk 2365132, houdende regels voor subsidiëring van activiteiten van instellingen voor Forensische Psychiatrische Klinieken en Forensische Psychiatrische Afdelingen gericht op de verbetering van hun positie op de arbeidsmarkt (Subsidieregeling Arbeidsmarktimpuls forensische zorg)
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - f. **personeel:** de natuurlijke personen die op basis van een schriftelijke arbeidsovereenkomst werkzaam zijn bij de FPA of FPK waarvoor de subsidie wordt aangevraagd;
 
-#### Artikel 2. Te subsidiëren activiteiten
+##### Artikel 2. Te subsidiëren activiteiten
 
 1. De Minister kan ten behoeve van het verbeteren van de positie van een FPA of een FPK op de arbeidsmarkt subsidie verstrekken voor zo ver het betreft:
 
@@ -60,7 +86,7 @@ In deze regeling wordt verstaan onder:
 
 3. Geen subsidie wordt verstrekt voor activiteiten waarvoor de FPA of FPK van de Minister van Volksgezondheid, Welzijn en Sport of een ander bestuursorgaan subsidie ontvangt of zal ontvangen of waarvoor zij een bijdrage van de Nederlandse Zorgautoriteit ontvangt of zal ontvangen.
 
-#### Artikel 3. Subsidiebedrag
+##### Artikel 3. Subsidiebedrag
 
 1. De subsidie wordt eenmalig verstrekt voor de te subsidiëren activiteiten in de periode 13 juli 2018 tot en met 31 december 2020.
 
@@ -70,7 +96,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien het totaal van de aangevraagde subsidies het subsidieplafond overstijgt, zal de Minister in het besluit op de subsidieaanvraag weergeven wat het maximale bedrag is dat kan worden toegekend ten behoeve van de FPA of FPK waarvoor de subsidie is aangevraagd. Het maximale bedrag per FPA of FPK wordt berekend naar rato van het in 2017 aantal begrote bedden voor forensische zorg.
 
-#### Artikel 4. De subsidieaanvraag
+##### Artikel 4. De subsidieaanvraag
 
 1. Voor de subsidieaanvraag wordt het formulier in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0041420&bijlage=2&z=2018-10-06&g=2018-10-06) gebruikt.
 
@@ -82,7 +108,7 @@ In deze regeling wordt verstaan onder:
 
 5. De Minister wijst aanvragen die zijn ingediend na de datum genoemd in het vierde lid af.
 
-#### Artikel 5. Bij de aanvraag te overleggen informatie
+##### Artikel 5. Bij de aanvraag te overleggen informatie
 
 1. De aanvraag gaat in ieder geval vergezeld van:
 
@@ -106,7 +132,7 @@ In deze regeling wordt verstaan onder:
 
 - b. een verslag over de financiële positie van de aanvrager op het moment van de aanvraag.
 
-#### Artikel 6. Weigeringsgronden
+##### Artikel 6. Weigeringsgronden
 
 1. De subsidie kan in ieder geval geheel of gedeeltelijk worden geweigerd indien een gegronde reden bestaat om aan te nemen dat:
 
@@ -120,13 +146,13 @@ In deze regeling wordt verstaan onder:
 
 - b. failliet is verklaard of aan hem surséance van betaling is verleend of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, dan wel een verzoek daartoe bij de rechtbank is ingediend.
 
-#### Artikel 7. Bevoorschotting en betaling
+##### Artikel 7. Bevoorschotting en betaling
 
 1. De minister verleent een voorschot van 75% bij de beschikking tot subsidieverlening.
 
 2. Het voorschot wordt in een keer betaald.
 
-#### Artikel 8. Meldingsplicht
+##### Artikel 8. Meldingsplicht
 
 1. De aanvrager meldt onmiddellijk aan de Minister als:
 
@@ -138,7 +164,7 @@ In deze regeling wordt verstaan onder:
 
 2. De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting.
 
-#### Artikel 9. Verantwoording en subsidievaststelling
+##### Artikel 9. Verantwoording en subsidievaststelling
 
 1. De subsidieontvanger dient binnen dertien weken na beëindiging van de subsidieperiode een verzoek tot vaststelling van de subsidie in bij de Minister.
 
@@ -152,13 +178,13 @@ In deze regeling wordt verstaan onder:
 
 6. Het besluit tot vaststelling van de subsidie vermeldt het bedrag van de subsidie.
 
-#### Artikel 10. Inwerkingtreding en vervaldatum
+##### Artikel 10. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
 2. Deze regeling vervalt uiterlijk 31 december 2021.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Arbeidsmarktimpuls forensische zorg.
 

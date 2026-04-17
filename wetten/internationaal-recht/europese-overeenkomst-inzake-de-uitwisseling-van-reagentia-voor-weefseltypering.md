@@ -1,13 +1,35 @@
 ---
 title: "Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering"
 identifier: "BWBV0004016"
-categorie: "Internationaal recht"
-publicatiedatum: 1985-03-28
-laatste_update: 1985-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004016"
+country: "nl"
+rank: "verdrag"
+publication_date: "1985-03-28"
+last_updated: "1985-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004016"
+soort: "verdrag"
+stam_id: "10003813193"
+version_id: "10003880042"
+internal_id: "C10006983351"
+label_id: "10003798354"
+dtd_version: "2.0"
+original_entry_into_force: "1978-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004016/1985-03-28/0"
+intitule_bron: "Trb.1977-153"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-11-04"
+intitule_in_force: "1978-07-03"
+intitule_status: "goed"
+original_publication: "Trb.1977-153"
+original_published_date: "1977-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-153"
+entry_into_force_date: "1978-05-13"
+jci_1_3: "jci1.3:c:BWBV0004016&z=1985-03-28&g=1985-03-28"
+jci_1_0: "1.0:c:BWBV0004016&g=1985-03-28"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-05-13"
 ---
-
 # Europese Overeenkomst inzake de uitwisseling van reagentia voor weefseltypering
 
 De Lid-Staten van de Raad van Europa, die deze Overeenkomst hebben ondertekend,
@@ -20,21 +42,21 @@ Overwegende dat dergelijke wederzijdse hulp alleen mogelijk is, indien de eigens
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze Overeenkomst wordt onder „reagentia voor weefseltypering” verstaan reagentia van menselijke, dierlijke, plantaardige en andere oorsprong, gebruikt voor de bepaling van weefseltypering.
 
 2. De bepalingen van de artikelen 2 tot 6 van deze Overeenkomst zijn ook van toepassing op cellen van een bekende antigenetische samenstelling, te gebruiken voor het onderzoek van reagentia voor typering.
 
-#### Artikel 2
+##### Artikel 2
 
 De Overeenkomstsluitende Partijen verbinden zich, zo zij over een voldoende voorraad voor eigen behoeften beschikken, om reagentia voor weefseltypering ter beschikking te stellen van andere Partijen die deze nodig hebben, en dat slechts tegen betaling van de kosten van het verwerven, bereiden en verzenden van deze reagentia en de eventuele kosten van aankoop.
 
-#### Artikel 3
+##### Artikel 3
 
 Reagentia voor weefseltypering worden ter beschikking gesteld van de andere Overeenkomstsluitende Partijen onder de voorwaarde, dat er geen winst op wordt gemaakt, en dat zij alleen voor geneeskundige en wetenschappelijke, d.w.z. niet-commerciële, doeleinden worden gebruikt en dat zij slechts aan de door de betrokken regeringen aangewezen laboratoria worden afgeleverd in overeenstemming met artikel 6 van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Overeenkomstsluitende Partijen verklaren, dat aan de bepalingen als nedergelegd in het Protocol bij deze Overeenkomst is voldaan.
 
@@ -44,17 +66,17 @@ Reagentia voor weefseltypering worden ter beschikking gesteld van de andere Over
 
 4. Het Protocol en zijn Bijlage vormen een administratieve afspraak en kunnen door de Regeringen van Partijen bij deze Overeenkomst worden gewijzigd of aangevuld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Overeenkomstsluitende Partijen treffen alle nodige maatregelen ten einde de hun door andere Partijen ter beschikking gestelde reagentia voor weefseltypering vrij te stellen van alle invoerrechten.
 
 2. Zij treffen eveneens alle nodige maatregelen ten einde de snelle aflevering van deze reagentia, langs de meest rechtstreekse weg, aan de in artikel 3 van deze Overeenkomst bedoelde geadresseerden te bewerkstelligen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Overeenkomstsluitende Partijen doen elkaar, door bemiddeling van de Secretaris-Generaal van de Raad van Europa, een lijst toekomen van de nationale en/of regionale referentie-laboratoria die bevoegd zijn tot het afgeven van de verklaringen als voorzien in artikel 4 van deze Overeenkomst en tot het distribueren van ingevoerde reagentia voor weefseltypering.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa, die Partij daarbij kunnen worden door:
 
@@ -64,19 +86,19 @@ De Overeenkomstsluitende Partijen doen elkaar, door bemiddeling van de Secretari
 
 2. De akten van bekrachtiging of aanvaarding worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Deze Overeenkomst treedt in werking een maand na de datum waarop drie Lid-Staten van de Raad overeenkomstig het in artikel 7 bepaalde Partij zijn geworden bij de Overeenkomst.
 
 2. Voor elke Lid-Staat die de Overeenkomst daarna zonder voorbehoud van bekrachtiging of aanvaarding ondertekent, dan wel haar bekrachtigt of aanvaardt, treedt de Overeenkomst in werking een maand na de datum van de ondertekening of van de nederlegging van de akte van bekrachtiging of aanvaarding.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Na de inwerkingtreding van deze Overeenkomst kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid is van de Raad, uitnodigen tot deze Overeenkomst toe te treden.
 
 2. Toetreding geschiedt door nederlegging bij de Secretaris-Generaal van de Raad van Europa van een akte van toetreding, die een maand na de datum van nederlegging van kracht wordt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een Overeenkomstsluitende Partij kan op het tijdstip van ondertekening of van nederlegging van haar akte van bekrachtiging, aanvaarding of toetreding het grondgebied of de grondgebieden aanwijzen waarop deze Overeenkomst van toepassing is.
 
@@ -84,13 +106,13 @@ De Overeenkomstsluitende Partijen doen elkaar, door bemiddeling van de Secretari
 
 3. Verklaringen, afgelegd krachtens het voorafgaande lid, kunnen, wat betreft een grondgebied dat is aangewezen in deze verklaring, onder de voorwaarden genoemd in artikel 11 van deze Overeenkomst worden ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een Overeenkomstsluitende Partij kan deze Overeenkomst wat haar betreft opzeggen door een kennisgeving aan de Secretaris-Generaad van de Raad van Europa te richten.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 12
+##### Artikel 12
 
 De Secretaris-Generaal van de Raad van Europa geeft aan de Lid-Staten van de Raad en aan iedere Staat die is toegetreden tot deze Overeenkomst, kennis van:
 

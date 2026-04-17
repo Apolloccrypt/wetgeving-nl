@@ -1,13 +1,38 @@
 ---
 title: "Uitvoeringsregeling energie-investeringsaftrek 2001"
 identifier: "BWBR0012054"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012054"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012054"
+soort: "ministeriele-regeling"
+stam_id: "4576323"
+version_id: "15979402"
+internal_id: "C21889731"
+label_id: "4554674"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012054/2026-01-01/0"
+intitule_bron: "Stcrt.2000-249"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-12-20"
+intitule_published: "2000-12-22"
+intitule_in_force: "2000-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-249"
+original_signed_date: "2008-12-10"
+original_published_date: "2008-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2008-2357"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0012054&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0012054&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2008-12-10"
+entry_into_force: "2009-01-01"
 ---
-
 # Uitvoeringsregeling energie-investeringsaftrek 2001
 
 Handelende in overeenstemming met de Minister van Economische Zaken en na overleg met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
@@ -16,7 +41,7 @@ Gelet op [artikel 3.42, tweede, vijfde en zevende lid, van de Wet inkomstenbelas
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **wet:** [Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353).
 
-#### Artikel 2
+##### Artikel 2
 
 Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangewezen de investeringen in bedrijfsmiddelen of in onderdelen daarvan, opgenomen in de bijlage bij deze regeling, mits het bedrijfsmiddel of het onderdeel in overeenstemming is met de bestemming voor zover aangegeven in de bijlage, niet eerder is gebruikt en bestaat uit de in die bijlage genoemde bestanddelen en de locatie waarop het bedrijfsmiddel in gebruik wordt genomen bekend is, en:
 
@@ -38,7 +63,7 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 - e. voor zover sprake is van een investering in een of meerdere voorzieningen als bedoeld in artikel 1 van die bijlage, voor zover voor deze investering ten tijde van de aanmelding, bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42), geen subsidie op grond van [titel 5.2](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.2) en [5.3 van de Regeling Europese EZ, LVVN- en KGG-subsidies 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045685&titeldeel=5.3) is verleend.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De aanmelding bedoeld in [artikel 3.42, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) van de aangegane verplichtingen of de gemaakte voortbrengingskosten ter zake van een investering als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=2&z=2026-01-01&g=2026-01-01) moet binnen een termijn van drie maanden plaats vinden. Deze termijn vangt aan:
 
@@ -48,13 +73,13 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 2. Indien [artikel 3.52, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.52) van toepassing is, vangt met betrekking tot voortbrengingskosten de termijn aan bij de inwerkingtreding van de ministeriële regeling indien dat leidt tot een aanmelding op een eerder tijdstip dan op grond van het eerste lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanmelding van de aangegane verplichtingen en de gemaakte voortbrengingskosten vindt uitsluitend plaats langs de daartoe door de minister geopende elektronische weg.
 
 2. De aanmelding wordt gedaan voor aangegane verplichtingen en gemaakte voortbrengingskosten die per melding samen ten minste € 2.500 bedragen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De verklaring van de minister, bedoeld in [artikel 3.42, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) vermeldt in welke aangewezen bedrijfsmiddelen of onderdelen is geïnvesteerd alsmede het bedrag van de uitgaven ter zake.
 
@@ -62,21 +87,21 @@ Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](
 
 3. De belastingplichtige legt ten behoeve van het verstrekken van een verklaring als bedoeld in het eerste lid, indien de minister daarom verzoekt, een berekening van de energiebesparing over.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De minister kan de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0012054&artikel=5&z=2026-01-01&g=2026-01-01) bedoelde verklaring intrekken op verzoek van de belastingplichtige, dan wel wijzigen of intrekken indien de te harer verkrijging verstrekte gegevens of bescheiden zodanig onjuist of onvolledig zijn geweest dat op het verzoek een andere beslissing zou zijn genomen indien bij de beoordeling daarvan de juiste of volledige gegevens bekend zouden zijn geweest. Onjuistheid of onvolledigheid van gegevens of bescheiden die de minister bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond opleveren voor wijziging of intrekking van een verklaring.
 
 2. De bevoegdheid tot het intrekken of wijzigen van een verklaring ingevolge het eerste lid vervalt door verloop van vijf jaren na de dagtekening van de verklaring.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien in de bijlage sprake is van meetvoorschriften of tests, of van verklaringen of certificaten, worden bedrijfsmiddelen die getoetst zijn met gelijkwaardige meetvoorschriften of tests, respectievelijk voorzien zijn van gelijkwaardige verklaringen of certificaten, gelijkgesteld met de aangewezen bedrijfsmiddelen. Deze meetvoorschriften, tests, verklaringen of certificaten moeten zijn opgesteld, respectievelijk verstrekt worden door daartoe geaccrediteerde instellingen of instituten.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 januari 2001.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftrek 2001.
 
@@ -86,7 +111,7 @@ Deze regeling wordt aangehaald als: Uitvoeringsregeling energie-investeringsaftr
 
 Als energie-investeringen als bedoeld in [artikel 3.42, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.42) worden aangemerkt:
 
-#### A. Investeringen ten behoeve van energiebesparing in bouwwerken
+##### A. Investeringen ten behoeve van energiebesparing in bouwwerken
 
 Technische voorzieningen ten behoeve van energiebesparing in bouwwerken, door:
 
@@ -160,7 +185,7 @@ Technische voorzieningen ten behoeve van energiebesparing in bouwwerken, door:
 
 - 4.3.A. Additionele efficiency-verhogende voorzieningen.
 
-#### B. Investeringen ten behoeve van energiebesparing bij apparatuur of processen
+##### B. Investeringen ten behoeve van energiebesparing bij apparatuur of processen
 
 Technische voorzieningen ten behoeve van energiebesparing van apparatuur of processen door:
 
@@ -240,13 +265,13 @@ Technische voorzieningen ten behoeve van energiebesparing van apparatuur of proc
 
 - 4.3.A. Additionele efficiency-verhogende voorzieningen.
 
-#### C. Investeringen ten behoeve van het gelijktijdig opwekken van warmte en kracht
+##### C. Investeringen ten behoeve van het gelijktijdig opwekken van warmte en kracht
 
 Technische voorzieningen ten behoeve van energiebesparing door:
 
 Een warmtekrachtinstallatie voor het gelijktijdig opwekken van warmte en kracht, onder de voorwaarde dat het totaal energetisch rendement gemiddeld op jaarbasis tenminste 65% bedraagt. Onder het totaal energetisch rendement wordt verstaan de som van het energetisch rendement van de opwekking van kracht en tweederde deel van het energetisch rendement van de productie van nuttig aan te wenden warmte, berekend op de onderste verbrandingswaarde van de ingezette brandstof.
 
-#### D. Investeringen ten behoeve van energiebesparing in of bij transportmiddelen
+##### D. Investeringen ten behoeve van energiebesparing in of bij transportmiddelen
 
 Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor het vervoer over de weg, vaartuigen bij de binnenvaart of bij railgebonden voertuigen door:
 
@@ -288,7 +313,7 @@ Technische voorzieningen ten behoeve van energiebesparing bij voertuigen voor he
 
 - 4.3.A. Additionele efficiency-verhogende voorzieningen.
 
-#### E. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie
+##### E. Investeringen ten behoeve van het aanwenden of toepassen van duurzame energie
 
 Technische voorzieningen die er toe strekken de inzet van fossiele brandstoffen te beperken door gebruik te maken van duurzame energie door:
 
@@ -370,7 +395,7 @@ Technische voorzieningen die er toe strekken de inzet van fossiele brandstoffen 
 
 - 5.1.M. Stortgaswinningsinstallatie voor het onttrekken van (stort)gas uit gestort afval, waarbij het stortgas wordt opgewaardeerd naar gas van aardgasnetkwaliteit en in het aardgasnet wordt gebracht, en bestaande uit: stortgasonttrekkingssysteem, gasbehandelingsapparatuur, voorziening die het stortgas opwaardeert naar gas van aardgasnetkwaliteit, (eventueel) compressor.
 
-#### F. Energie-advies
+##### F. Energie-advies
 
 Een energie-advies ter verbetering van de energie-efficiency van objecten door middel van een verkenning van de mogelijkheden om maatregelen te treffen, en bestaande uit: een rapportage waarin de mogelijkheden om maatregelen te treffen ter verbetering van de energie-efficiency zijn vastgelegd. Deze rapportage bevat in ieder geval:
 

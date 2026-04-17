@@ -1,13 +1,36 @@
 ---
 title: "Wijziging van het privacyreglement voor de registratie gegevensdepot onderwijspersoneel"
 identifier: "BWBR0013414"
-categorie: "Onderwijs"
-publicatiedatum: 2002-03-02
-laatste_update: 2002-03-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013414"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-03-02"
+last_updated: "2002-03-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013414"
+soort: "beleidsregel"
+stam_id: "6440593"
+version_id: "11110702"
+internal_id: "C15025261"
+label_id: "6429304"
+original_entry_into_force: "2002-03-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013414/2002-03-02/0"
+intitule_bron: "Uitleg.2002-4"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-08"
+intitule_published: "2002-02-27"
+intitule_in_force: "2002-02-27"
+intitule_status: "goed"
+original_publication: "Uitleg.2002-4"
+original_signed_date: "2002-02-08"
+original_published_date: "2002-02-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-03-02"
+jci_1_3: "jci1.3:c:BWBR0013414&z=2002-03-02&g=2002-03-02"
+jci_1_0: "1.0:c:BWBR0013414&g=2002-03-02"
+citeertitel_status: "redactioneel"
+signed_date: "2002-02-08"
+entry_into_force: "2002-03-02"
 ---
-
 # Wijziging van het privacyreglement voor de registratie gegevensdepot onderwijspersoneel
 
 Gelet op:
@@ -18,11 +41,11 @@ De Commissie van Toezicht Registratieregelingen Onderwijs, Cultuur en Wetenschap
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt onder privacyreglement verstaan: het privacyreglement voor de registratie Gegevensdepot Onderwijspersoneel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In artikel 1, lid 2 van het privacyreglement wordt in het elfde onderdeel ’in de sectoren PO en VO’ vervangen door ’in de sectoren po, vo en bve’ en wordt de ’punt’ aan het slot van dit onderdeel vervangen door: puntkomma.
 
@@ -34,11 +57,11 @@ In deze regeling wordt onder privacyreglement verstaan: het privacyreglement voo
 
 - e. de Bve Raad voor de gegevens van de instellingen in de bve-sector.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling zal met de toelichting in Uitleg OCenW-Regelingen worden geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van de derde dag na de datum van de uitgifte van Uitleg OCenW-Regelingen waarin deze regeling is geplaatst.
 

@@ -1,13 +1,35 @@
 ---
 title: "Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2017"
 identifier: "BWBR0040819"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-04-12
-laatste_update: 2017-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040819"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-04-12"
+last_updated: "2017-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040819"
+soort: "zbo"
+stam_id: "14589623"
+version_id: "24979802"
+internal_id: "C35719541"
+label_id: "14543774"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040819/2018-04-12/0"
+intitule_bron: "Stcrt.2018-20096"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-04-11"
+intitule_in_force: "2018-04-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-20096"
+original_published_date: "2018-04-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-20096"
+entry_into_force_date: "2018-04-12"
+jci_1_3: "jci1.3:c:BWBR0040819&z=2018-04-12&g=2018-04-12"
+jci_1_0: "1.0:c:BWBR0040819&g=2018-04-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-04-12"
 ---
-
 # Protocol Accountantsonderzoek CAK Bestuurlijke verantwoording 2017
 
 ### Bestuurlijke verantwoording 2017

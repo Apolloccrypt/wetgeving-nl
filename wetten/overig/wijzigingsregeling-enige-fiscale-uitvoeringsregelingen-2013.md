@@ -1,124 +1,150 @@
 ---
-title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen 2013"
+title: "Regeling van de Staatssecretaris van Financiën van 30 december 2013, nr. DB 2013/599M tot wijziging van enige fiscale uitvoeringsregelingen en van enige overige uitvoeringsregelingen alsmede van de Wet belastingen op milieugrondslag"
 identifier: "BWBR0034579"
-categorie: "Overig"
-publicatiedatum: 2016-04-30
-laatste_update: 2016-04-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034579"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-04-30"
+last_updated: "2016-04-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034579"
+soort: "ministeriele-regeling"
+stam_id: "12528083"
+version_id: "21088242"
+internal_id: "C30272141"
+label_id: "12498844"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034579/2016-04-30/0"
+intitule_bron: "Stcrt.2013-36216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-30"
+intitule_published: "2013-12-30"
+intitule_in_force: "2013-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-36216"
+original_signed_date: "2013-12-30"
+original_published_date: "2013-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-36216"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034579&z=2016-04-30&g=2016-04-30"
+jci_1_0: "1.0:c:BWBR0034579&g=2016-04-30"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsregeling enige fiscale uitvoeringsregelingen 2013"
+signed_date: "2013-12-30"
+entry_into_force: "2014-01-01"
 ---
-
 # Regeling van de Staatssecretaris van Financiën van 30 december 2013, nr. DB 2013/599M tot wijziging van enige fiscale uitvoeringsregelingen en van enige overige uitvoeringsregelingen alsmede van de Wet belastingen op milieugrondslag
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Uitvoeringsregeling inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Meldingsregeling milieu-investeringsaftrek 2001.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Uitvoeringsregeling willekeurige afschrijving 2001.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2011.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Uitvoeringsregeling loonbelasting 2001.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Regeling gegevensuitvraag loonaangifte.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Uitvoeringsregeling afdrachtvermindering.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Uitvoeringsregeling schenk- en erfbelasting.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Uitvoeringsregeling motorrijtuigenbelasting 1994.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Algemene douaneregeling.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Uitvoeringsregeling accijns.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Uitvoeringsregeling belastingen op milieugrondslag.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 In afwijking van [artikel 26, eerste lid, van de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=26) wordt met ingang van 1 april 2014 de periode van 1 april 2014 tot en met 30 september 2014 aangemerkt als het tijdvak waarover de in die periode verschuldigd geworden afvalstoffenbelasting moet worden betaald.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Uitvoeringsregeling Algemene wet inzake rijksbelastingen 1994.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Uitvoeringsregeling Belastingdienst 2003.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt de Uitvoeringsregeling verplicht gebruik BSN.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt de Uitvoeringsregeling Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt de Regeling Stuf-WOZ.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt de Uitvoeringsregeling Belastingwet BES.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt de Uitvoeringsregeling investeringsaftrek Aruba, Curaçao, Sint Maarten en de BES eilanden 2010.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt de Uitvoeringsregeling Douane- en Accijnswet BES.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2014, met dien verstande dat:
 

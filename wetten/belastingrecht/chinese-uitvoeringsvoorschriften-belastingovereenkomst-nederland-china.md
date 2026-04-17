@@ -1,13 +1,38 @@
 ---
-title: "Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China"
+title: "Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting"
 identifier: "BWBR0004931"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004931"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004931"
+soort: "ministeriele-regeling"
+stam_id: "5082553"
+version_id: "9140642"
+internal_id: "C12148231"
+label_id: "5058234"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004931/1997-06-19/0"
+intitule_bron: "Stcrt.1990-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-12-14"
+intitule_published: "1990-12-14"
+intitule_in_force: "1990-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-244"
+original_signed_date: "1990-12-14"
+original_published_date: "1990-12-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004931&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004931&g=1997-06-19"
+citeertitel_status: "officieel"
+short_title: "Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China"
+signed_date: "1990-12-14"
+entry_into_force: "1991-01-01"
 ---
-
 # Chinese voorschriften tot uitvoering van de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting
 
 Besluit:
@@ -16,7 +41,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering en vrijstelling van Chinese belasting op dividenden, interest en royalty's, genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 13 mei 1987 tussen Nederland en China gesloten Overeenkomst tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen (Trb. 1987, nr. 93), en het Protocol bij die Overeenkomst, kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de overeenkomst en onderdelen van het Protocol:
 
@@ -34,7 +59,7 @@ De in de onderdelen a, d en e van dit artikel vermelde verminderingen zijn te be
 
 De in de onderdelen b en c van dit artikel vermelde vrijstellingen alsmede de in de onderdelen a, d en e van dit artikel vermelde verminderingen zijn niet van toepassing, indien de uiteindelijk gerechtigde tot de dividenden, de interest of de royalty's in China een bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting of in China zelfstandig arbeid verricht vanuit een aldaar gevestigd vast middelpunt, en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest wordt betaald of het recht of de zaak uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting of tot het beroepsvermogen van dat vaste middelpunt behoort (artikel 10, vierde lid, respectievelijk artikel 11, zesde lid, en artikel 12, vierde lid).
 
-#### Artikel 2. Chinese regeling
+##### Artikel 2. Chinese regeling
 
 Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004931&artikel=1&z=1997-06-19&g=1997-06-19) is van Chinese zijde de volgende regeling getroffen:
 
@@ -58,11 +83,11 @@ Ter uitvoering van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0004931&a
 
 - b. Verkrijgbaarheid van het formulier ‘Application Form for Tax Agreement to Foreign Resident’ Exemplaren van het formulier "Application Form for Tax Agreement to Foreign Resident" zijn op aanvraag verkrijgbaar, in Nederland bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn, en in China bij The Ministry of Finance, General Taxation Bureau, Beijing, People's Republic of China.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 15 december 1988, nr. 088-3633 (Stcrt. van 16 december 1988, nr. 245), wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Chinese uitvoeringsvoorschriften belastingovereenkomst Nederland-China.
 

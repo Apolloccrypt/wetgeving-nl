@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij het op 8 april 1960 ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) tot regeling van de samenwerking met betrekking tot het waterbeheer en het natuurbeheer in de Eemsmonding (Eems-Dollardmilieuprotocol)"
 identifier: "BWBV0005276"
-categorie: "Milieu"
-publicatiedatum: 1998-07-01
-laatste_update: 1998-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005276"
+country: "nl"
+rank: "verdrag"
+publication_date: "1998-07-01"
+last_updated: "1998-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005276"
+soort: "verdrag"
+stam_id: "10004547913"
+version_id: "10004769692"
+internal_id: "C10007244111"
+label_id: "10004532414"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005276/1998-07-01/0"
+intitule_bron: "Trb.1996-258"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1996-10-01"
+intitule_in_force: "1998-06-17"
+intitule_status: "goed"
+original_publication: "Trb.1996-258"
+original_published_date: "1996-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-258"
+entry_into_force_date: "1998-07-01"
+jci_1_3: "jci1.3:c:BWBV0005276&z=1998-07-01&g=1998-07-01"
+jci_1_0: "1.0:c:BWBV0005276&g=1998-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1998-07-01"
 ---
-
 # Aanvullend Protocol bij het op 8 april 1960 ondertekende Verdrag tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland tot regeling van de samenwerking in de Eemsmonding (Eems-Dollardverdrag) tot regeling van de samenwerking met betrekking tot het waterbeheer en het natuurbeheer in de Eemsmonding (Eems-Dollardmilieuprotocol)
 
 Het Koninkrijk der Nederlanden
@@ -30,7 +52,7 @@ Met het oog op het waterbeheer in de Eemsmonding en het behoud van de natuur;
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De Verdragsluitende Partijen werken in de Eemsmonding samen op het terrein van water- en natuurbeheer.
 
@@ -52,15 +74,15 @@ Zijn het volgende overeengekomen:
 
 - –. het principe van het niet verschuiven van milieubelasting naar andere milieucompartimenten.
 
-#### Artikel 2
+##### Artikel 2
 
 De samenwerking vindt plaats in het kader van de krachtens artikel 64 van het Nederlands-Duitse Grensverdrag van 8 april 1960 ingestelde Permanente Nederlands-Duitse Grenswaterencommissie, hierna te noemen „de Commissie”, onverminderd het bepaalde in artikel 56, tweede lid, van het Grensverdrag.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van het Eems-Dollardverdrag en van de Aanvullende Overeenkomst van 1962 blijven onverlet, voor zover dit Protocol niet uitdrukkelijk iets anders bepaalt.
 
-#### Artikel 4
+##### Artikel 4
 
 De Verdragsluitende Partijen zullen er, met het oog op een duurzame ontwikkeling, in het bijzonder naar streven
 
@@ -72,7 +94,7 @@ De Verdragsluitende Partijen zullen er, met het oog op een duurzame ontwikkeling
 
 - d. in het kustgebied de natuurlijke of min of meer natuurlijke vegetatie zoals kwelders en brakke rietlanden, alsmede in het grensgebied overeenkomstig de Aanvullende Overeenkomst van 1962 bij het Eems-Dollardverdrag van 1960 de droogvallende platen inclusief de zeegrasvelden te beschermen en te onderhouden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Ter ondersteuning van de bovengenoemde doelstellingen dient met alle internationale instellingen in de Eemsmonding, in het bijzonder met de Eemscommissie, de Nederlands-Duitse Commissie voor de Ruimtelijke Ordening, het trilaterale Waddenzee-secretariaat en de Nieuwe Hanze-Interregio een nauw contact tot stand te worden gebracht en te worden onderhouden. Over de samenwerking met andere internationale en nationale organisaties kan de Commissie beslissen.
 
@@ -132,7 +154,7 @@ De Verdragsluitende Partijen zullen er, met het oog op een duurzame ontwikkeling
 
 7. Indien zulks ter verwezenlijking van doelstellingen van dit Protocol noodzakelijk blijkt te zijn, is de Commissie bevoegd ook andere dan de hierboven genoemde zaken te behandelen, voor zover deze niet in afzonderlijke overeenkomsten zijn geregeld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Verdragsluitende Partijen kunnen overeenkomstig artikel 5, vijfde lid, onder d, in onderling overleg beschermde gebieden voor de droogvallende platen in het grensgebied aanwijzen.
 
@@ -140,7 +162,7 @@ De Verdragsluitende Partijen zullen er, met het oog op een duurzame ontwikkeling
 
 3. In de Eemsmonding geldt een jachtverbod voor robben. Met het oog daarop vervalt artikel 42 van het Eems-Dollardverdrag van 1960.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit Aanvullend Protocol vormt een bestanddeel van het Eems-Dollardverdrag. Het treedt in werking op de eerste dag van de tweede maand na de dag waarop het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland elkaar medegedeeld hebben dat aan de binnenlandse vereisten voor inwerkingtreding is voldaan.
 

@@ -1,13 +1,38 @@
 ---
-title: "Regeling subsidiëring Actieplan BBI-Matra 2005–2008"
+title: "Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV"
 identifier: "BWBR0018423"
-categorie: "Overig"
-publicatiedatum: 2008-02-02
-laatste_update: 2008-02-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018423"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2008-02-02"
+last_updated: "2008-02-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018423"
+soort: "ministeriele-regeling"
+stam_id: "7091123"
+version_id: "11982792"
+internal_id: "C16068661"
+label_id: "7079394"
+original_entry_into_force: "2005-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018423/2008-02-02/0"
+intitule_bron: "Stcrt.2005-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-10"
+intitule_published: "2005-06-13"
+intitule_in_force: "2005-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-111"
+original_signed_date: "2005-06-10"
+original_published_date: "2005-06-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-111-p23-SC70285"
+entry_into_force_date: "2005-06-15"
+jci_1_3: "jci1.3:c:BWBR0018423&z=2008-02-02&g=2008-02-02"
+jci_1_0: "1.0:c:BWBR0018423&g=2008-02-02"
+citeertitel_status: "officieel"
+short_title: "Regeling subsidiëring Actieplan BBI-Matra 2005–2008"
+signed_date: "2005-06-10"
+entry_into_force: "2005-06-15"
 ---
-
 # Regeling van de minister van Landbouw, Natuur en Voedselkwaliteit van 10 juni 2005, nr. TRCJZ/2005/1614, houdende regels met betrekking tot de subsidiering van het Actieplan BBI-Matra 2005–2008 en tot wijziging van de Regeling diverse subsidieplafonds en aanvraagperioden LNV
 
 Handelende in overeenstemming met de Staatssecretaris van Buitenlandse Zaken;
@@ -18,7 +43,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -34,15 +59,15 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - f. project: geheel van activiteiten gericht op concrete resultaten ter verwezenlijking van de in deze regeling omschreven subsidiedoelstellingen alsmede gericht op samenwerking, communicatie en kennisoverdracht.
 
-#### Artikel 2
+##### Artikel 2
 
 Op de voet van deze regeling kan de minister op aanvraag subsidie verstrekken in de kosten van projecten die een bijdrage leveren aan de uitvoering van het Actieplan.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor subsidie komen in aanmerking in Nederland gevestigde privaatrechtelijke rechtspersonen en rechtspersonen naar Nederlands publiekrecht, waarvan de doelstelling past binnen het doel van de subsidieverstrekking en die naar het oordeel van de Minister voldoende kunnen aantonen dat zij in één of meer van de doellanden samenwerken met en ondersteuning bieden aan lokale organisaties.
 
-#### Artikel 4
+##### Artikel 4
 
 Aanvragen voor subsidie kunnen worden ingediend voor projecten met de volgende thematische invalshoeken, bedoeld in het Actieplan:
 
@@ -56,7 +81,7 @@ Aanvragen voor subsidie kunnen worden ingediend voor projecten met de volgende t
 
 - e. het bijdragen aan de Europese eenwording of het Europees Nabuurschap.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor subsidie komen uitsluitend in aanmerking projecten die:
 
@@ -70,7 +95,7 @@ Aanvragen voor subsidie kunnen worden ingediend voor projecten met de volgende t
 
 2. Een project dat betrekking heeft op Wit-Rusland komt uitsluitend voor subsidie in aanmerking indien in het kader van het project niet wordt samengewerkt met de centrale overheid van dat land.
 
-#### Artikel 6
+##### Artikel 6
 
 Geen subsidie wordt verstrekt voor:
 
@@ -84,7 +109,7 @@ Geen subsidie wordt verstrekt voor:
 
 - e. studiebeurzen of louter wetenschappelijk onderzoek.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Subsidie kan worden verstrekt voor de volgende met het project verband houdende kosten:
 
@@ -106,23 +131,23 @@ Geen subsidie wordt verstrekt voor:
 
 2. De subsidie kan worden verhoogd met een opslag voor algemene kosten, van ten hoogste 7,5% van de in het eerste lid genoemde kosten.
 
-#### Artikel 8
+##### Artikel 8
 
 1. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02), kan subsidie worden verstrekt op basis van een door de minister goed te keuren dagtarief.
 
 2. Ingeval subsidie wordt verleend op basis van een dagtarief, is [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02), niet van toepassing.
 
-#### Artikel 9
+##### Artikel 9
 
 De subsidie bedraagt 100% van de overeenkomstig [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02) dan wel [8](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=8&z=2008-02-02&g=2008-02-02) berekende kosten.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien voor een project uit anderen hoofde ten laste van ’s Rijks kas subsidies worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=9&z=2008-02-02&g=2008-02-02) genoemde percentage niet overschrijdt.
 
 2. Indien voor een project subsidies door een ander bestuursorgaan dan de minister of financiële middelen door niet-bestuursorganen worden verstrekt, wordt slechts een zodanig bedrag op grond van deze regeling verstrekt, dat de som van de subsidies of de financiële middelen niet meer bedraagt dan 100% van de totale kosten van het project.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het subsidieplafond bedraagt voor het jaar 2008: € 2.550.500,–.
 
@@ -130,11 +155,11 @@ De subsidie bedraagt 100% van de overeenkomstig [artikel 7](https://wetten.overh
 
 #### § 2. Subsidieverlening
 
-#### Artikel 12
+##### Artikel 12
 
 De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari tot en met 17 maart 2008.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een aanvraag tot subsidieverlening wordt in de Nederlandse of de Engelse taal gericht aan de minister en ingediend bij Dienst Regelingen op een daartoe door de directeur van Dienst Regelingen vastgesteld formulier.
 
@@ -166,7 +191,7 @@ De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari
 
 4. Het projectplan wordt in de Nederlandse of de Engelse taal opgesteld.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De minister rangschikt de aanvragen die voor subsidie in aanmerking komen zodanig dat een project of een programma hoger gerangschikt wordt naarmate het:
 
@@ -204,23 +229,23 @@ De aanvraagperiode wordt voor het jaar 2008 vastgesteld op de periode 4 februari
 
 4. De minister maakt het in het derde lid genoemde besluit bekend in de Staatscourant.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De minister geeft een beschikking omtrent subsidieverlening binnen vijf maanden na afloop van de desbetreffende aanvraagperiode.
 
 2. De beschikking tot subsidieverlening vermeldt het bedrag waarop de subsidie ten hoogste kan worden vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 Subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34).
 
 #### § 3. Verplichtingen van de subsidieontvanger
 
-#### Artikel 17
+##### Artikel 17
 
 De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op een eenvoudige wijze alle kosten van het project kunnen worden afgelezen, gespecificeerd overeenkomstig de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0018423&paragraaf=1&artikel=7&z=2008-02-02&g=2008-02-02) onderscheiden kostenposten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De subsidieontvanger voert het project of programma uit overeenkomstig het projectplan, behoudens door de minister goedgekeurde wijzigingen.
 
@@ -230,11 +255,11 @@ De subsidieontvanger voert een administratie die zodanig is ingericht dat daarui
 
 4. De minister deelt de subsidieontvanger mede of en in welke mate de wijzigingen van het project of programma gevolgen heeft voor de verleende subsidie of voor de bij de verlening van de subsidie vastgestelde verplichtingen. De wijzigingen hebben geen verhoging tot gevolg van het bedrag waarop de subsidie overeenkomstig de beschikking tot subsidieverlening ten hoogste kan worden vastgesteld.
 
-#### Artikel 19
+##### Artikel 19
 
 De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na dagtekening van de beschikking tot subsidieverlening te beginnen met de uitvoering van het project en het project uiterlijk 1 juli 2011 af te ronden.
 
-#### Artikel 20
+##### Artikel 20
 
 1. In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:41), is de subsidieontvanger een vergoeding voor vermogensvorming verschuldigd.
 
@@ -248,7 +273,7 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 
 #### § 4. Bevoorschotting
 
-#### Artikel 21
+##### Artikel 21
 
 1. De minister kan de subsidieontvanger voorschotten verstrekken van ten hoogste 80% van het bedrag vermeld in de beschikking tot subsidieverlening.
 
@@ -260,7 +285,7 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 
 #### § 5. Subsidievaststelling
 
-#### Artikel 22
+##### Artikel 22
 
 1. Een aanvraag tot subsidievaststelling wordt in de Nederlandse of de Engelse taal gericht aan de minister en binnen vier maanden na afloop van het project ingediend bij Dienst Regelingen op een daartoe door de directeur van Dienst Regelingen vastgesteld formulier.
 
@@ -282,25 +307,25 @@ De subsidieontvanger is verplicht om binnen een periode van twaalf maanden na da
 
 #### § 6. Overgangs- en slotbepalingen
 
-#### Artikel 23
+##### Artikel 23
 
 Binnen vijf jaar na inwerkingtreding van deze regeling publiceert de minister een verslag over de doeltreffendheid en de effecten van de subsidie in de praktijk.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Het [Besluit natuurbeheer Midden- en Oost-Europa 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0012533) wordt ingetrokken.
 
 2. Het in het eerste lid bedoelde [besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0012533) blijft van toepassing op op grond daarvan verstrekte subsidies.
 
-#### Artikel 25
+##### Artikel 25
 
 Op projecten en programma’s waarvoor voor 23 februari 2007 subsidie is verleend, zijn niet van toepassing de wijzigingen van de [regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 21 februari 2007, nr. TRCJZ/2007/502, houdende wijziging van de Regeling subsidiëring Actieplan BBI-Matra 2005–2008 in verband met wijziging ten aanzien van de doellanden](https://wetten.overheid.nl/jci1.3:c:BWBR0021341) alsmede wijziging van de [Regeling diverse subsidieplafonds en aanvraagperioden LNV](https://wetten.overheid.nl/jci1.3:c:BWBR0016764).
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Deze regeling wordt aangehaald als: Regeling subsidiëring Actieplan BBI-Matra 2005–2008.
 
@@ -366,7 +391,7 @@ Aan de niet genoemde artikelen behoeft bij de controle geen aandacht te worden b
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Ingeval een project langer dan een jaar duurt, informeert de subsidieontvanger de Minister telkens nadat een jaar is verstreken binnen drie maanden over de voortgang van het project door middel van een verslag, dat ten minste bevat:
 

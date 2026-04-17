@@ -1,13 +1,39 @@
 ---
-title: "M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten- Generaal 2023"
+title: "Besluit van de Voorzitter, het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 31 oktober 2023, kenmerk 17389U, houdende Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 (M&V-Besluit Eerste Kamer 2023)"
 identifier: "BWBR0048882"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2023-11-11
-laatste_update: 2023-11-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048882"
+country: "nl"
+rank: "reglement"
+publication_date: "2023-11-11"
+last_updated: "2023-11-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048882"
+soort: "reglement"
+stam_id: "16912923"
+version_id: "29725422"
+internal_id: "C42603201"
+label_id: "16824484"
+dtd_version: "2.0"
+original_entry_into_force: "2023-11-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048882/2023-11-11/0"
+intitule_bron: "Stcrt.2023-30751"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-10-31"
+intitule_published: "2023-11-10"
+intitule_in_force: "2023-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-30751"
+original_signed_date: "2023-10-31"
+original_published_date: "2023-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-30751"
+entry_into_force_date: "2023-11-11"
+jci_1_3: "jci1.3:c:BWBR0048882&z=2023-11-11&g=2023-11-11"
+jci_1_0: "1.0:c:BWBR0048882&g=2023-11-11"
+citeertitel_status: "officieel"
+short_title: "M&V-besluit Ambtelijke organisatie Eerste Kamer der Staten- Generaal 2023"
+signed_date: "2023-10-31"
+entry_into_force: "2023-11-11"
 ---
-
 # Besluit van de Voorzitter, het College van Voorzitter en Ondervoorzitters en de Griffier van de Eerste Kamer der Staten-Generaal van 31 oktober 2023, kenmerk 17389U, houdende Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 (M&V-Besluit Eerste Kamer 2023)
 
 overwegende dat het gewenst is nadere regels te stellen ten aanzien van de beslis- en ondertekeningsbevoegdheden bij rechtshandelingen en rechtspositionele beslissingen,
@@ -18,7 +44,7 @@ BESLUITEN
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -44,13 +70,13 @@ In dit besluit wordt verstaan onder:
 
 - k. **Reglement van Orde:** [Reglement van Orde van de Eerste Kamer der Staten-Generaal](https://wetten.overheid.nl/jci1.3:c:BWBR0048272).
 
-#### Artikel 2. Organisatie
+##### Artikel 2. Organisatie
 
 De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld conform het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&bijlage=1&z=2023-11-11&g=2023-11-11) opgenomen (vereenvoudigd) organogram.
 
 ### Hoofdstuk 2. Mandaat, volmacht en machtiging griffier
 
-#### Artikel 3. Griffier
+##### Artikel 3. Griffier
 
 1. Het College van Voorzitter en Ondervoorzitters verleent aan de Griffier mandaat en machtiging voor aangelegenheden van al hetgeen de ambtelijke organisatie aangaat, met uitzondering van:
 
@@ -98,7 +124,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 ### Hoofdstuk 3. Mandaat, volmacht en machtiging directeuren
 
-#### Artikel 4. Directeuren
+##### Artikel 4. Directeuren
 
 1. De Griffier verleent aan de directeuren mandaat, volmacht en machtiging ten aanzien van aangelegenheden die verband houden met de taken en verantwoordelijkheden op hun werkterrein.
 
@@ -140,7 +166,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 ### Hoofdstuk 4. Voorwaarden en beperkingen
 
-#### Artikel 5. Uitoefening van bevoegdheden
+##### Artikel 5. Uitoefening van bevoegdheden
 
 1. De verlener van een mandaat, een volmacht of een machtiging blijft bevoegd de betreffende bevoegdheden uit te oefenen.
 
@@ -152,7 +178,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 5. Een door een gevolmachtigde binnen de grenzen van de volmacht verrichte rechtshandeling geldt als een rechtshandeling van de volmachtverlener.
 
-#### Artikel 6. Reikwijdte van mandaat, volmacht en machtiging
+##### Artikel 6. Reikwijdte van mandaat, volmacht en machtiging
 
 1. Mandaat, volmacht en machtiging in de zin van dit besluit hebben geen betrekking op besluiten, privaatrechtelijke rechtshandelingen en andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling:
 
@@ -168,7 +194,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 - c. beslissingen waarbij een functionaris aangaande personele en financiële aangelegenheden ten aanzien van hem of haar zelf een besluit neemt.
 
-#### Artikel 7. Grensbedragen
+##### Artikel 7. Grensbedragen
 
 1. Met betrekking tot alle financiële taken en bevoegdheden als bedoeld in dit besluit geldt dat:
 
@@ -180,7 +206,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 3. Bij het verlenen van ondermaat en volmacht van de bevoegdheden als bedoeld in het eerste en tweede lid worden aan de uitoefening van deze bevoegdheden grensbedragen gekoppeld als bedoeld in dit artikel.
 
-#### Artikel 8. Informatieplicht
+##### Artikel 8. Informatieplicht
 
 1. De Griffier verschaft het College van Voorzitter en Ondervoorzitters op haar verzoek inlichtingen over de uitoefening van de verleende bevoegdheden.
 
@@ -190,7 +216,7 @@ De inrichting van de ambtelijke organisatie van de Eerste Kamer is vastgesteld c
 
 ### Hoofdstuk 5. Ondertekening
 
-#### Artikel 9. Ondertekening mandaat
+##### Artikel 9. Ondertekening mandaat
 
 1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens mandaat ondertekent, luidt de ondertekening als volgt:
 
@@ -216,7 +242,7 @@ namens deze,
 
 <naam>
 
-#### Artikel 10. Ondertekening volmacht
+##### Artikel 10. Ondertekening volmacht
 
 1. Indien overeenkomstig [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0048882&hoofdstuk=2&z=2023-11-11&g=2023-11-11) van dit besluit de Griffier stukken krachtens volmacht ondertekent, luidt de ondertekening als volgt:
 
@@ -246,7 +272,7 @@ namens deze,
 
 <naam>
 
-#### Artikel 11. Overige bepalingen ondertekening
+##### Artikel 11. Overige bepalingen ondertekening
 
 1. Bij ondertekening van stukken door een plaatsvervanger of waarnemer wordt de handtekening voorafgegaan door: b/a.
 
@@ -262,7 +288,7 @@ In dat geval luidt de ondertekening als volgt:
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 12. Mandaat- en volmachtregister
+##### Artikel 12. Mandaat- en volmachtregister
 
 1. De directeur Organisatie is verantwoordelijk voor (het beheer van) een openbaar register van alle verleende mandaten en volmachten en verstrekt derden desgevraagd hierover informatie.
 
@@ -270,13 +296,13 @@ In dat geval luidt de ondertekening als volgt:
 
 3. De citeertitel van het openbare register is: Mandaat- en volmachtregister Eerste Kamer der Staten-Generaal.
 
-#### Artikel 13. Overgangsbepalingen
+##### Artikel 13. Overgangsbepalingen
 
 1. Met de inwerkingtreding van het Besluit Mandaat, Volmacht en Machtiging ambtelijke organisatie Eerste Kamer der Staten-Generaal 2023 wordt het [Besluit Mandaat, Volmacht en Machtiging Eerste Kamer der Staten-Generaal 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046959) ingetrokken.
 
 2. Mandaten, ondermandaten, volmachten en machtigingen die voor het tijdstip van inwerkingtreding van dit besluit van kracht zijn en waarin met dit besluit niet is voorzien, blijven van kracht totdat op grond van dit besluit is voorzien in mandaat, volmacht of machtiging dan wel is voorzien in intrekking daarvan.
 
-#### Artikel 14. Inwerkingtreding en citeertitel
+##### Artikel 14. Inwerkingtreding en citeertitel
 
 1. Dit besluit wordt bekendgemaakt door publicatie in de Staatscourant en treedt in werking op de dag na de dag van bekendmaking.
 

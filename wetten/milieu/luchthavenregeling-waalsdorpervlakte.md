@@ -1,20 +1,45 @@
 ---
 title: "Luchthavenregeling Waalsdorpervlakte"
 identifier: "BWBR0029851"
-categorie: "Milieu"
-publicatiedatum: 2010-11-01
-laatste_update: 2010-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0029851"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-01"
+last_updated: "2010-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0029851"
+soort: "ministeriele-regeling"
+stam_id: "11296323"
+version_id: "18509542"
+internal_id: "C25823381"
+label_id: "11270384"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0029851/2010-11-01/0"
+intitule_bron: "Stcrt.2010-16140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-06"
+intitule_published: "2010-10-18"
+intitule_in_force: "2010-10-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-16140"
+original_signed_date: "2010-10-06"
+original_published_date: "2010-10-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-16140"
+entry_into_force_date: "2010-11-01"
+jci_1_3: "jci1.3:c:BWBR0029851&z=2010-11-01&g=2010-11-01"
+jci_1_0: "1.0:c:BWBR0029851&g=2010-11-01"
+citeertitel_status: "officieel"
+signed_date: "2010-10-06"
+entry_into_force: "2010-11-01"
 ---
-
 # Luchthavenregeling Waalsdorpervlakte
 
 Gelet op [artikel 10.39 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.39);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -22,29 +47,29 @@ In deze regeling wordt verstaan onder:
 
 - b. **vliegtuigbeweging:** een start of een landing van een helikopter.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling is van toepassing op de militaire helihaven Waalsdorpervlakte.
 
-#### Artikel 3
+##### Artikel 3
 
 De militaire helihaven is gelegen te Den Haag en bestaat uit een cirkelvormig gebied met een straal van 50 meter rondom de coördinaat 52°06'47,35”N 004°19'28,41”E, zoals aangegeven op de in de bijlage bij deze regeling opgenomen kaart.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De militaire helihaven staat open voor het landen en opstijgen van helikopters in gebruik bij de Nederlandse of een bondgenootschappelijke krijgsmacht.
 
 2. Voorts staat de militaire helihaven open voor het landen en opstijgen van helikopters die een algemeen maatschappelijk belang dienen en die volgens een vrijstelling als bedoeld in [artikel 10.13 van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.13) daartoe gerechtigd zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 Voor het in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0029851&artikel=4&z=2010-11-01&g=2010-11-01), bedoelde luchthavenluchtverkeer wordt als grenswaarde voor de geluidbelasting een maximum van 150 vliegtuigbewegingen per jaar vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Het luchthavenluchtverkeer vindt uitsluitend plaats met inachtneming van de in- en uitvliegroutes die zijn aangegeven op de in de bijlage bij deze regeling opgenomen kaart.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Geen luchtverkeer vindt plaats voor 06.00 uur en na 22.00 uur.
 
@@ -54,11 +79,11 @@ Het luchthavenluchtverkeer vindt uitsluitend plaats met inachtneming van de in- 
 
 - b. vluchten die een algemeen maatschappelijk belang dienen.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze regeling treedt in werking met ingang van 1 november 2010.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling wordt aangehaald als: Luchthavenregeling Waalsdorpervlakte.
 

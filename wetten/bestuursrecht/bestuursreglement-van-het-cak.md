@@ -1,16 +1,41 @@
 ---
 title: "Bestuursreglement van het CAK"
 identifier: "BWBR0041141"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-07-12
-laatste_update: 2018-07-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041141"
+country: "nl"
+rank: "zbo"
+publication_date: "2018-07-12"
+last_updated: "2018-07-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041141"
+soort: "zbo"
+stam_id: "14676733"
+version_id: "25135142"
+internal_id: "C35938391"
+label_id: "14629324"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041141/2018-07-12/0"
+intitule_bron: "Stcrt.2018-38316"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-04"
+intitule_published: "2018-07-11"
+intitule_in_force: "2018-07-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-38316"
+original_signed_date: "2018-06-04"
+original_published_date: "2018-07-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-38316"
+entry_into_force_date: "2018-07-12"
+jci_1_3: "jci1.3:c:BWBR0041141&z=2018-07-12&g=2018-07-12"
+jci_1_0: "1.0:c:BWBR0041141&g=2018-07-12"
+citeertitel_status: "officieel"
+signed_date: "2018-06-04"
+entry_into_force: "2018-07-12"
 ---
-
 # Bestuursreglement van het CAK
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit bestuursreglement wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In dit bestuursreglement wordt verstaan onder:
 
 - j. **de Zvw:** de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
-#### Artikel 2. De Raad van Bestuur
+##### Artikel 2. De Raad van Bestuur
 
 1. De voorzitter benoemt een secretaris. De secretaris maakt deel uit van het personeel van het CAK.
 
@@ -56,7 +81,7 @@ De RvB geeft leiding aan het personeel van het CAK.
 
 9. De RvB is verantwoordelijk voor het goed functioneren van het CAK. De leden zijn elk voor de eigen taken en verantwoordelijkheden het aanspreekpunt voor de medewerkers van het CAK.
 
-#### Artikel 3. Besluitvorming Raad van Bestuur
+##### Artikel 3. Besluitvorming Raad van Bestuur
 
 1. De voorzitter leidt de vergaderingen van de RvB. De voorzitter benoemt een plaatsvervangend voorzitter uit de kring van leden. In afwezigheid van de voorzitter neemt de plaatsvervangend voorzitter diens taken waar.
 
@@ -102,7 +127,7 @@ Het verslag bevat ten minste:
 
 Indien een lid dat wenst wordt een minderheidsstandpunt bij het vastgestelde besluit vastgelegd. De RvB stelt het verslag eventueel na aanpassingen vast in de eerstvolgende vergadering.
 
-#### Artikel 4. Verantwoording door de Raad van Bestuur
+##### Artikel 4. Verantwoording door de Raad van Bestuur
 
 1. De RvB legt in een jaarverslag verantwoording af over de uitvoering van de taken, over het beleid en over de kwaliteitszorg in het voorafgaande jaar.
 
@@ -118,17 +143,17 @@ Bij zijn verklaring voegt de accountant een rapport over de doelmatigheid van he
 
 - c. de rechtmatigheid van de uitgaven, ontvangsten en balansmutaties.
 
-#### Artikel 5. Toezicht
+##### Artikel 5. Toezicht
 
 De RvB verleent en bevordert binnen de organisatie de volledige medewerking aan de uitvoering van toezichthoudende taken door de Minister.
 
-#### Artikel 6. Raad van Advies
+##### Artikel 6. Raad van Advies
 
 1. Indien de Minister of de RvB dat wenselijk acht, kan de RvB een Raad van Advies instellen, bestaande uit onafhankelijke externe deskundigen. De RvB stelt een reglement voor de Raad van Advies vast.
 
 2. De RvB neemt de adviezen van de Raad van Advies, voorzien van een appreciatie, op in het jaarverslag.
 
-#### Artikel 7. Auditadviescommissie
+##### Artikel 7. Auditadviescommissie
 
 1. Indien de Minister of de RvB dat wenselijk acht, kan de RvB een Auditadviescommissie instellen.
 
@@ -138,39 +163,39 @@ De Auditadviescommissie stelt een verslag van werkzaamheden op ten behoeve van h
 
 3. De RvB neemt de adviezen van de Auditadviescommissie, voorzien van een appreciatie, op in het jaarverslag.
 
-#### Artikel 8. Jaarlijks overleg
+##### Artikel 8. Jaarlijks overleg
 
 Jaarlijks vindt een overleg plaats tussen het ministerie en de voorzitters van de RvB, de Raad van Advies en de Auditadviescommissie van het CAK.
 
-#### Artikel 9. Vertegenwoordiging belanghebbenden
+##### Artikel 9. Vertegenwoordiging belanghebbenden
 
 De RvB onderhoudt met het oog op een adequate uitvoering van zijn taken en verantwoordelijkheden contacten met de vertegenwoordigende organisaties van de belanghebbende partijen op het terrein van de zorg.
 
-#### Artikel 10. Integriteit
+##### Artikel 10. Integriteit
 
 De RvB heeft de Gedragscode Integriteit Rijk op alle medewerkers van het CAK van toepassing verklaard. Hierbij is rekening gehouden met het feit dat er bij het CAK zowel medewerkers met en zonder ambtelijke aanstelling zijn.
 
-#### Artikel 11. Vertrouwelijkheid
+##### Artikel 11. Vertrouwelijkheid
 
 1. De leden nemen omtrent alle informatie en documentatie die zij in het kader van hun functie verkrijgen en die als vertrouwelijk is aangemerkt, dan wel waarvan de vertrouwelijkheid uit de aard der informatie voortvloeit, strikte geheimhouding in acht, ook na hun aftreden.
 
 2. Het eerste lid is van overeenkomstige toepassing op diegenen die belast zijn met de administratieve en secretariële ondersteuning van de RvB en op diegenen die vergaderingen geheel of gedeeltelijk hebben bijgewoond.
 
-#### Artikel 12. Klachtenregeling
+##### Artikel 12. Klachtenregeling
 
 De RvB stelt, met in achtneming van [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9), een klachtenregeling vast, op grond waarvan een ieder het recht heeft om over de wijze waarop het CAK zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen, een klacht in te dienen bij het CAK.
 
-#### Artikel 13. Klokkenluidersregeling
+##### Artikel 13. Klokkenluidersregeling
 
 De RvB stelt een Klokkenluidersregeling vast.
 
-#### Artikel 14. Wijziging bestuursreglement
+##### Artikel 14. Wijziging bestuursreglement
 
 1. Wijziging van dit bestuursreglement geschiedt in overeenstemming met de besluitvormingsprocedure zoals bepaald in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0041141&artikel=4&z=2018-07-12&g=2018-07-12) van dit reglement.
 
 2. Een wijziging in dit bestuursreglement wordt gepubliceerd in de Staatscourant, waarna deze wijziging in werking treedt.
 
-#### Artikel 15. Slotbepaling
+##### Artikel 15. Slotbepaling
 
 1. Dit bestuursreglement kan worden aangehaald als: Bestuursreglement van het CAK.
 

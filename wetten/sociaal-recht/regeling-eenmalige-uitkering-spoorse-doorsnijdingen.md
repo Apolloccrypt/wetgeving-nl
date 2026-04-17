@@ -1,20 +1,46 @@
 ---
-title: "Regeling eenmalige uitkering spoorse doorsnijdingen"
+title: "Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)"
 identifier: "BWBR0019584"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-12-15
-laatste_update: 2013-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019584"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-12-15"
+last_updated: "2013-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019584"
+soort: "ministeriele-regeling"
+stam_id: "8046843"
+version_id: "12888602"
+internal_id: "C17375151"
+label_id: "8028094"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019584/2013-12-15/0"
+intitule_bron: "Stcrt.2006-37"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-02-17"
+intitule_published: "2006-02-21"
+intitule_in_force: "2006-02-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-37"
+original_signed_date: "2006-02-17"
+original_published_date: "2006-02-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-37-p20-SC73908"
+entry_into_force_date: "2006-02-23"
+jci_1_3: "jci1.3:c:BWBR0019584&z=2013-12-15&g=2013-12-15"
+jci_1_0: "1.0:c:BWBR0019584&g=2013-12-15"
+citeertitel_status: "officieel"
+short_title: "Regeling eenmalige uitkering spoorse doorsnijdingen"
+signed_date: "2006-02-17"
+entry_into_force: "2006-02-23"
 ---
-
 # Regeling van de Minister van Verkeer en Waterstaat houdende regels met betrekking tot de toekenning van een eenmalige specifieke uitkering voor de uitvoering van projecten tot het opheffen of verminderen van knelpunten rondom het spoor (Regeling eenmalige uitkering spoorse doorsnijdingen)
 
 Gelet op [artikel 17, vijfde lid van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -28,17 +54,17 @@ In deze regeling wordt verstaan onder:
 
 - e. plan: een beschrijving van de werkzaamheden die er toe leiden dat een project gerealiseerd wordt.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van een project verstrekken aan gemeenten die aan het spoor gelokaliseerd zijn.
 
-#### Artikel 3. Plafond
+##### Artikel 3. Plafond
 
 1. Het totale bedrag van de op grond van deze regeling te verlenen uitkeringen bedraagt € 300 miljoen (prijspeil 2006).
 
 2. Het in het eerste lid genoemde bedrag wordt, voor zover het de reeds betaalde voorschotten overtreft, jaarlijks geïndexeerd met de Index Bruto Overheidsinvesteringen, met dien verstande dat de indexering niet meer kan bedragen dan het bedrag dat de begrotingswetgever voor die indexering beschikbaar heeft gesteld.
 
-#### Artikel 4. Maximale bijdrage
+##### Artikel 4. Maximale bijdrage
 
 1. De uitkering bedraagt ten hoogste 25% van de totale kosten van een project met dien verstande dat in de beschikking tot verlening van de uitkering het bedrag staat vermeld waarop de uitkering ten hoogste kan worden vastgesteld.
 
@@ -86,7 +112,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 5. Indien voor de uitvoering van het project door het Rijk uit andere hoofde bijdragen worden verleend, wordt de uitkering op grond van deze regeling zodanig verlaagd dat de totale bijdrage van het Rijk niet meer dan 50% van de totale kosten bedraagt.
 
-#### Artikel 5. Aanvraag uitkering
+##### Artikel 5. Aanvraag uitkering
 
 1. Een gemeente die een aanvraag voor een uitkering wil indienen, maakt dit voor 1 mei 2006 schriftelijk kenbaar aan de minister.
 
@@ -98,7 +124,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 5. De aanvraag wordt ingediend vóór 1 juni 2006.
 
-#### Artikel 6. Niet voor uitkering in aanmerking komen
+##### Artikel 6. Niet voor uitkering in aanmerking komen
 
 1. De uitkering wordt niet verstrekt indien:
 
@@ -114,7 +140,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 2. [Artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) is van overeenkomstige toepassing.
 
-#### Artikel 7. Procedure
+##### Artikel 7. Procedure
 
 1. Na het verstrijken van de periode van indiening, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=5&z=2013-12-15&g=2013-12-15), worden de aanvragen in rangorde geplaatst. Daarbij worden de aanvragen beoordeeld naar de mate waarin de voorgestelde projecten voldoen aan de volgende criteria:
 
@@ -138,7 +164,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 7. De minister wijst de resterende aanvragen af.
 
-#### Artikel 8. Toekenning uitkering
+##### Artikel 8. Toekenning uitkering
 
 1. De minister beslist op een aanvraag voor een uitkering voor 1 februari 2007.
 
@@ -146,7 +172,7 @@ De minister kan op aanvraag een eenmalige specifieke uitkering ten behoeve van e
 
 3. De verstrekte uitkering wordt jaarlijks geïndexeerd overeenkomstig [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=3&z=2013-12-15&g=2013-12-15).
 
-#### Artikel 9. Verplichtingen bij verstrekken van de uitkering
+##### Artikel 9. Verplichtingen bij verstrekken van de uitkering
 
 De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met betrekking tot:
 
@@ -156,17 +182,17 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 - c. de verantwoording op de uitkering.
 
-#### Artikel 10. Intrekking
+##### Artikel 10. Intrekking
 
 [Artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) is van overeenkomstige toepassing.
 
-#### Artikel 11. Voorschot en procedure voor de voorschotbetaling
+##### Artikel 11. Voorschot en procedure voor de voorschotbetaling
 
 1. De minister kan in het jaar waarin de uitvoeringswerkzaamheden van het project aanvangen, een voorschot van 100% op de toegekende uitkering verlenen.
 
 2. Het voorschot wordt voor aanvang van de uitvoering van het project betaalbaar gesteld. De uitkeringsontvanger dient hiertoe ten minste vier weken voor de aanvang schriftelijk een verzoek tot betaalbaarstelling in bij de minister.
 
-#### Artikel 12. Aanvraag vaststelling uitkering
+##### Artikel 12. Aanvraag vaststelling uitkering
 
 1. De uitkeringsontvanger neemt in de verantwoordingsinformatie, bedoeld in [artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](https://wetten.overheid.nl/jci1.3:c:BWBR0014606&artikel=58a), informatie op over het project.
 
@@ -174,7 +200,7 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 3. De [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:47](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:47) en [4:49 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49) zijn van overeenkomstige toepassing.
 
-#### Artikel 13. Vaststelling uitkering
+##### Artikel 13. Vaststelling uitkering
 
 1. De minister neemt binnen twaalf weken na ontvangst een beslissing op de aanvraag tot vaststelling van de uitkering.
 
@@ -182,17 +208,17 @@ De minister kan bij de verstrekking van de uitkering verplichtingen opleggen met
 
 3. Het bedrag van de uitkering wordt overeenkomstig de vaststelling, binnen 6 weken na vaststelling, betaald onder verrekening van de betaalde voorschotten.
 
-#### Artikel 14. Onverschuldigd betaalde uitkeringen
+##### Artikel 14. Onverschuldigd betaalde uitkeringen
 
 1. [Artikel 4:57 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:57) is van overeenkomstige toepassing.
 
 2. Bij vaststelling van de uitkering wordt bepaald dat over onverschuldigd betaalde uitkeringsbedragen de rente verschuldigd is welke, ingevolge [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019584&artikel=11&z=2013-12-15&g=2013-12-15), door de Minister van Financiën aan de uitkeringsontvanger is vergoed, vanaf het moment van betaling van het voorschot.
 
-#### Artikel 15. Duur regeling
+##### Artikel 15. Duur regeling
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16. Titel regeling
+##### Artikel 16. Titel regeling
 
 Deze regeling wordt aangehaald als: Regeling eenmalige uitkering spoorse doorsnijdingen.
 

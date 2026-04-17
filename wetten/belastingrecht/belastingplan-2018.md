@@ -1,14 +1,42 @@
 ---
-title: "Belastingplan 2018"
+title: "Wet van 20 december 2017 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2018)"
 identifier: "BWBR0040446"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040446"
+country: "nl"
+rank: "wet"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040446"
+soort: "wet"
+stam_id: "14463363"
+version_id: "24743182"
+internal_id: "C35404041"
+label_id: "14424014"
+dtd_version: "2.0"
+original_entry_into_force: "2018-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040446/2023-01-01/0"
+intitule_bron: "Stb.2017-517"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-12-20"
+intitule_published: "2017-12-28"
+intitule_in_force: "2017-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2017-517"
+original_signed_date: "2017-12-20"
+original_published_date: "2017-12-28"
+original_effect: "nieuwe-regeling"
+original_dossier: "34785"
+original_url_id: "stb-2017-517"
+entry_into_force_date: "2018-01-01"
+entry_into_force_dossier: "34785"
+jci_1_3: "jci1.3:c:BWBR0040446&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0040446&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Belastingplan 2018"
+signed_date: "2017-12-20"
+entry_into_force: "2018-01-01"
 ---
-
-# Belastingplan 2018
+# Wet van 20 december 2017 tot wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2018)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,35 +44,35 @@ Alzo Wij in overweging genomen hebben, dat het voor het jaar 2018 wenselijk is e
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel Ia
+##### Artikel Ia
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel Ib
+##### Artikel Ib
 
 Vervallen
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene wet inkomensafhankelijke regelingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IIIa
+##### Artikel IIIa
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel IVa
+##### Artikel IVa
 
 Indien:
 
@@ -56,67 +84,67 @@ Indien:
 
 blijft op dat immateriële activum en met betrekking tot die kwalificerende voordelen [artikel 12be, eerste lid, onderdeel b, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&artikel=12be), zoals dat luidde op 31 december 2017, van toepassing.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet op de kansspelbelasting.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de omzetbelasting 1968.
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel VIIb
+##### Artikel VIIb
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel VIIc
+##### Artikel VIIc
 
 Wijzigt de Wet op de accijns.
 
-#### Artikel VIId
+##### Artikel VIId
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet op de belasting van personenauto's en motorrijwielen 1992.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel XIIa
+##### Artikel XIIa
 
 Wijzigt het Belastingplan 2017.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Invoeringswet fiscaal stelsel BES.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Ingeval de samenloop van wetten die in 2017 in het Staatsblad zijn of worden gepubliceerd en wijzigingen aanbrengen in een of meer belastingwetten, niet of niet juist is geregeld, of indien als gevolg van die samenloop onjuistheden ontstaan in de aanduiding van artikelen, artikelonderdelen, verwijzingen en dergelijke in de desbetreffende wetten, kunnen die wetten op dit punt bij ministeriële regeling worden gewijzigd.
 
-#### Artikel XV
+##### Artikel XV
 
 1. Onder toepassing van [artikel 12 van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12) treedt deze wet in werking met ingang van 1 januari 2018, met dien verstande dat:
 
@@ -138,7 +166,7 @@ Ingeval de samenloop van wetten die in 2017 in het Staatsblad zijn of worden gep
 
 3. In afwijking van het eerste lid treedt [artikel VII, onderdelen A en C](https://wetten.overheid.nl/jci1.3:c:BWBR0040446&artikel=VII&z=2023-01-01&g=2023-01-01), in werking met ingang van 1 januari 2019.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Deze wet wordt aangehaald als: Belastingplan 2018.
 

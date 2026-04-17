@@ -1,14 +1,42 @@
 ---
-title: "Wet arbeidsongeschiktheidsverzekering zelfstandigen"
+title: "Wet van 24 april 1997, houdende verzekering tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid en een uitkeringsregeling in verband met bevalling voor zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten (Wet arbeidsongeschiktheidsverzekering zelfstandigen)"
 identifier: "BWBR0008656"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008656"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008656"
+soort: "wet"
+stam_id: "3021063"
+version_id: "21538412"
+internal_id: "C30923521"
+label_id: "2972634"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008656/2026-01-01/0"
+intitule_bron: "Stb.1997-176"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-04-24"
+intitule_published: "1997-04-29"
+intitule_in_force: "1997-09-18"
+intitule_status: "goed"
+original_publication: "Stb.2014-259"
+original_signed_date: "2014-06-04"
+original_published_date: "2014-07-15"
+original_effect: "structuurwijziging"
+original_dossier: "33726"
+original_url_id: "stb-2014-259"
+entry_into_force_date: "2014-06-04"
+entry_into_force_dossier: "33726"
+jci_1_3: "jci1.3:c:BWBR0008656&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0008656&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet arbeidsongeschiktheidsverzekering zelfstandigen"
+signed_date: "2014-06-04"
+entry_into_force: "2014-06-04"
 ---
-
-# Wet arbeidsongeschiktheidsverzekering zelfstandigen
+# Wet van 24 april 1997, houdende verzekering tegen geldelijke gevolgen van langdurige arbeidsongeschiktheid en een uitkeringsregeling in verband met bevalling voor zelfstandigen, beroepsbeoefenaren en meewerkende echtgenoten (Wet arbeidsongeschiktheidsverzekering zelfstandigen)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Algemene begrippen
+##### Artikel 1. Algemene begrippen
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -96,7 +124,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 9. Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de [Wet op de jeugdzorg](https://wetten.overheid.nl/jci1.3:c:BWBR0016637) of de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925), of kinderbijslag ontving op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368).
 
-#### Artikel 2. Begrip arbeidsongeschiktheid
+##### Artikel 2. Begrip arbeidsongeschiktheid
 
 1. Arbeidsongeschikt, geheel of gedeeltelijk, is de persoon die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebreken, zwangerschap of bevalling geheel of gedeeltelijk niet in staat is om met arbeid te verdienen, hetgeen gezonde personen, met soortgelijke opleiding en ervaring, ter plaatse waar hij arbeid verricht of het laatst heeft verricht, of in de omgeving daarvan, met arbeid gewoonlijk verdienen.
 
@@ -120,7 +148,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 2. Kring van verzekerden
 
-#### Artikel 3. De verzekerde
+##### Artikel 3. De verzekerde
 
 1. Verzekerd op grond van deze wet is de persoon die vóór de inwerkingtreding van [artikel I, onderdeel C, van de Wet einde toegang verzekering WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0016985&artikel=I) als zelfstandige, beroepsbeoefenaar of meewerkende echtgenoot arbeidsongeschikt is geworden:
 
@@ -144,7 +172,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 - b. vreemdelingen die, na rechtmatig verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), rechtmatig in Nederland verblijf hebben als bedoeld in [artikel 8, onder g of h, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
-#### Artikel 3a. Afwijking kring verzekerden
+##### Artikel 3a. Afwijking kring verzekerden
 
 Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen:
 
@@ -152,7 +180,7 @@ Zo nodig in afwijking van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR00
 
 - b. wordt niet als verzekerde aangemerkt de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.
 
-#### Artikel 4. Zelfstandige
+##### Artikel 4. Zelfstandige
 
 Zelfstandige is de persoondie de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt:
 
@@ -160,13 +188,13 @@ Zelfstandige is de persoondie de pensioengerechtigde leeftijd, bedoeld in [artik
 
 - b. die niet in Nederland woont en die winst uit Nederlandse onderneming geniet, tenzij hij de onderneming niet voor eigen rekening feitelijk drijft.
 
-#### Artikel 4a. Zelfstandigheidsverklaring
+##### Artikel 4a. Zelfstandigheidsverklaring
 
 1. De beschikking, bedoeld in [artikel 3.156 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.156), zoals dat artikel luidt direct voorafgaand aan het in [artikel IX, eerste lid, van de Wet deregulering beoordeling arbeidsrelaties](https://wetten.overheid.nl/jci1.3:c:BWBR0037602&artikel=IX) bedoelde tijdstip, waarin de voordelen, die de belastingplichtige geniet of zal gaan genieten uit een arbeidsrelatie of uit arbeidsrelaties waarin sprake is van hetzelfde soort van werkzaamheden die onder overeenkomstige condities worden verricht, worden aangemerkt als winst uit een onderneming, heeft voor de termijn waarvoor deze beschikking geldt als gevolg dat de belastingplichtige, met betrekking tot die arbeidsrelaties, wordt aangemerkt als zelfstandige als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01).
 
 2. Indien de beschikking, bedoeld in het eerste lid, wordt herzien, laat dat het in het eerste lid bedoelde gevolg onverlet, voor de termijn waarvoor die beschikking gold.
 
-#### Artikel 5. Beroepsbeoefenaar
+##### Artikel 5. Beroepsbeoefenaar
 
 Beroepsbeoefenaar is de persoondie de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt, die:
 
@@ -174,7 +202,7 @@ Beroepsbeoefenaar is de persoondie de pensioengerechtigde leeftijd, bedoeld in [
 
 - b. anders dan in dienstbetrekking arbeid verricht ten behoeve van een lichaam waarin hij een aanmerkelijk belang heeft.
 
-#### Artikel 6. Meewerkende echtgenoot
+##### Artikel 6. Meewerkende echtgenoot
 
 Meewerkende echtgenoot is de persoon die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt die anders dan in dienstbetrekking, als zelfstandige of als beroepsbeoefenaar, meewerkt in de onderneming van zijn echtgenoot.
 
@@ -184,7 +212,7 @@ Meewerkende echtgenoot is de persoon die de pensioengerechtigde leeftijd, bedoel
 
 #### § 1. De arbeidsongeschiktheidsuitkering
 
-#### Artikel 7. Het recht op arbeidsongeschiktheidsuitkering
+##### Artikel 7. Het recht op arbeidsongeschiktheidsuitkering
 
 1. Recht op arbeidsongeschiktheidsuitkering heeft de verzekerde die arbeidsongeschikt wordt indien hij in de 52 weken onmiddellijk voorafgaande aan de dag, waarop de arbeidsongeschiktheid is ingetreden, arbeid in het bedrijfs- of beroepsleven heeft verricht gericht op het verwerven van winst of inkomsten. Als eerste dag van de arbeidsongeschiktheid geldt de eerste werkdag waarop wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt. Bij ministeriële regeling kunnen nadere en afwijkende regels worden gesteld in verband met het voor bijzondere gevallen vaststellen van welke dag als eerste werkdag wordt aangemerkt.
 
@@ -198,7 +226,7 @@ Meewerkende echtgenoot is de persoon die de pensioengerechtigde leeftijd, bedoel
 
 6. Voor de toepassing van het eerste tot en met vierde lid wordt niet als arbeidsongeschikt beschouwd de verzekerde die minder dan 25% arbeidsongeschikt is alsmede de verzekerde die een uitkering geniet als bedoeld in het derde lid.
 
-#### Artikel 7a. Geen recht op arbeidsongeschiktheidsuitkering bij niet in Nederland wonen
+##### Artikel 7a. Geen recht op arbeidsongeschiktheidsuitkering bij niet in Nederland wonen
 
 1. De verzekerde, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), heeft geen recht op arbeidsongeschiktheidsuitkering, indien de dag waarop het recht op arbeidsongeschiktheidsuitkering zou ingaan, is gelegen in een periode dat hij niet in Nederland woont.
 
@@ -222,7 +250,7 @@ met inachtneming van de bepalingen van deze wet recht op arbeidsongeschiktheidsu
 
 - c. de gezinsleden van de in de onderdelen a of b bedoelde verzekerde.
 
-#### Artikel 7b. Geen recht op arbeidsongeschiktheidsuitkering tijdens vrijheidsontneming
+##### Artikel 7b. Geen recht op arbeidsongeschiktheidsuitkering tijdens vrijheidsontneming
 
 1. De verzekerde, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), heeft geen recht op arbeidsongeschiktheidsuitkering indien de dag waarop het recht op arbeidsongeschiktheidsuitkering zou ingaan dan wel de dag na afloop van de toepassing van [artikel 7c](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7c&z=2026-01-01&g=2026-01-01) met betrekking tot dat recht op uitkering, is gelegen in een periode dat hem rechtens zijn vrijheid is ontnomen.
 
@@ -234,7 +262,7 @@ met inachtneming van de bepalingen van deze wet recht op arbeidsongeschiktheidsu
 
 5. Het eerste lid is niet van toepassing en het tweede en vierde lid zijn van overeenkomstige toepassing op bij algemene maatregel van bestuur aan te wijzen categorieën personen waarbij tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel buiten een justitiële inrichting plaatsvindt.
 
-#### Artikel 8. Grondslag van de uitkering
+##### Artikel 8. Grondslag van de uitkering
 
 1. De arbeidsongeschiktheidsuitkering wordt berekend naar de grondslag.
 
@@ -284,7 +312,7 @@ met inachtneming van de bepalingen van deze wet recht op arbeidsongeschiktheidsu
 
 20. Voor de toepassing van het twaalfde tot en met het vijftiende lid en het zeventiende lid wordt met een uitkering op grond van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) gelijkgesteld een uitkering ter zake van ontslag of werkloosheid, onder welke benaming dan ook, met uitzondering van een uitkering in verband met functioneel leeftijdsontslag of vrijwillig vervroegd uittreden, uit hoofde van een arbeidsverhouding als bedoeld in [artikel 1, onderdeel l, van de Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=1). Dit lid vervalt op het tijdstip van aanvang van fase 3 van de [Wet overheidspersoneel onder de werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0009267), bedoeld in [artikel 54 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009267&artikel=54).
 
-#### Artikel 9. Percentage arbeidsongeschiktheidsuitkering
+##### Artikel 9. Percentage arbeidsongeschiktheidsuitkering
 
 1. De arbeidsongeschiktheidsuitkering bedraagt per dag, de zaterdagen en zondagen niet meegerekend, bij een arbeidsongeschiktheid van:
 
@@ -298,11 +326,11 @@ met inachtneming van de bepalingen van deze wet recht op arbeidsongeschiktheidsu
 
 2. Bij de vaststelling van de mate van arbeidsongeschiktheid wordt, zoveel doenlijk, rekening gehouden met verkregen nieuwe bekwaamheden.
 
-#### Artikel 10. Verhoging arbeidsongeschiktheidsuitkering
+##### Artikel 10. Verhoging arbeidsongeschiktheidsuitkering
 
 Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van 80% of meer, wordt, indien de verzekerde verkeert in een althans voorlopig blijvende toestand van hulpbehoevendheid, die geregeld oppassing en verzorging nodig maakt, voor de duur van die hulpbehoevendheid tot ten hoogste zijn grondslag verhoogd. De eerste zin vindt geen toepassing, indien de verzekerde in een inrichting is opgenomen en de kosten van verblijf ten laste van een zorgverzekering of een verzekering inzake ziektekosten komen.
 
-#### Artikel 11. Buiten aanmerking laten van arbeidsongeschiktheid
+##### Artikel 11. Buiten aanmerking laten van arbeidsongeschiktheid
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan met betrekking tot uit deze wet voortvloeiende aanspraken geheel of ten dele, tijdelijk of blijvend, buiten aanmerking laten:
 
@@ -314,7 +342,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 3. Zolang het Uitvoeringsinstituut werknemersverzekeringen op grond van het eerste lid arbeidsongeschiktheid buiten aanmerking laat, vindt [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), overeenkomstige toepassing met betrekking tot de door de verzekerde aan deze wet nog te ontlenen aanspraken, met dien verstande, dat voor de aanvang van de verzekering in de plaats treedt het tijdstip, met ingang waarvan het Uitvoeringsinstituut werknemersverzekeringen arbeidsongeschiktheid buiten aanmerking laat.
 
-#### Artikel 12. Herziening van de arbeidsongeschiktheidsuitkering
+##### Artikel 12. Herziening van de arbeidsongeschiktheidsuitkering
 
 1. De arbeidsongeschiktheidsuitkering wordt herzien wanneer de verzekerde, aan wie zij is toegekend, op grond van deze wet voor een hogere of lagere uitkering in aanmerking komt.
 
@@ -322,7 +350,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 3. De arbeidsongeschiktheidsuitkering van de verzekerde die deelneemt aan een voor hem gewenste opleiding of scholing, wordt gedurende deze opleiding of scholing niet herzien in verband met een daaruit voortvloeiende afneming van de arbeidsongeschiktheid, tenzij [artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01), van toepassing is. Indien de verzekerde tijdens de opleiding of scholing inkomsten uit arbeid verwerft, is [artikel 58, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=58&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing.
 
-#### Artikel 13. Herziening bij minder dan 45% arbeidsongeschiktheid
+##### Artikel 13. Herziening bij minder dan 45% arbeidsongeschiktheid
 
 1. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van minder dan 45%, onverminderd de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01), plaats zodra de toegenomen arbeidsongeschiktheid onafgebroken 52 weken heeft geduurd.
 
@@ -332,7 +360,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 4. Voor het bepalen van het tijdvak van 52 weken, bedoeld in het eerste lid, worden perioden van toegenomen arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van 52 weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
-#### Artikel 14. Herziening bij 45% arbeidsongeschiktheid of meer
+##### Artikel 14. Herziening bij 45% arbeidsongeschiktheid of meer
 
 1. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 45%, onverminderd [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01), plaats zodra de toegenomen arbeidsongeschiktheid onafgebroken vier weken heeft geduurd.
 
@@ -340,7 +368,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 3. Voor het bepalen van het tijdvak van vier weken, bedoeld in het eerste en tweede lid, worden perioden van toegenomen arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van de eerstgenoemde periode van vier weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
-#### Artikel 15. Herziening uitkering zonder wachttijd
+##### Artikel 15. Herziening uitkering zonder wachttijd
 
 1. Ter zake van toeneming van de arbeidsongeschiktheid vindt herziening van een arbeidsongeschiktheidsuitkering steeds plaats zodra de toeneming van de arbeidsongeschiktheid optreedt, indien deze intreedt:
 
@@ -358,7 +386,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 4. Bij ministeriële regeling kunnen regels worden gesteld voor gevallen waarbij direct herziening van de arbeidsongeschiktheidsuitkering plaatsvindt. Op grond van deze regels kan bedoelde herziening slechts plaatsvinden ten behoeve van de verzekerde die bij hervatting van de arbeid in het bedrijfs- of beroepsleven winst of inkomsten geniet, die minder bedragen dan evenredig is aan zijn nog bestaande arbeidsgeschiktheid.
 
-#### Artikel 16. Herziening bij toeneming arbeidsongeschiktheid binnen vijf jaar
+##### Artikel 16. Herziening bij toeneming arbeidsongeschiktheid binnen vijf jaar
 
 1. Ter zake van toeneming van de arbeidsongeschiktheid die intreedt binnen vijf jaar na de datum van toekenning of herziening van de arbeidsongeschiktheidsuitkering en die voortkomt uit dezelfde oorzaak als die waaruit de arbeidsongeschiktheid ter zake waarvan uitkering wordt genoten, is voortgekomen, vindt herziening van de arbeidsongeschiktheidsuitkering steeds plaats, zodra de toegenomen arbeidsongeschiktheid onafgebroken vier weken heeft geduurd.
 
@@ -366,13 +394,13 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 3. Dit artikel vindt geen toepassing, indien recht bestaat op herziening van de arbeidsongeschiktheidsuitkering op grond van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=14&z=2026-01-01&g=2026-01-01) of [15, eerste lid, onderdelen a tot en met c, of derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 17. Grondslagvaststelling bij toeneming arbeidsongeschiktheid
+##### Artikel 17. Grondslagvaststelling bij toeneming arbeidsongeschiktheid
 
 1. Indien wegens toeneming van de arbeidsongeschiktheid herziening van de arbeidsongeschiktheidsuitkering heeft plaatsgevonden, vindt hernieuwde vaststelling van een grondslag plaats overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen, mits dat leidt tot een hogere grondslag dan die, welke laatstelijk aan de arbeidsongeschiktheidsuitkering ten grondslag werd gelegd.
 
 2. Voor de toepassing van het eerste lid wordt in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01) in plaats van «het intreden van zijn arbeidsongeschiktheid» gelezen: de toeneming van zijn arbeidsongeschiktheid.
 
-#### Artikel 18. Overige gronden voor herziening of intrekking
+##### Artikel 18. Overige gronden voor herziening of intrekking
 
 1. Onverminderd hetgeen overigens in deze wet is bepaald ter zake van herziening of intrekking van een beschikking tot toekenning van arbeidsongeschiktheidsuitkering, alsook ter zake van een weigering van een zodanige uitkering, herziet het Uitvoeringsinstituut werknemersverzekeringen een dergelijke beschikking of trekt het deze in:
 
@@ -388,7 +416,7 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 3. Een besluit tot toekenning van loonsuppletie als bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67a&z=2026-01-01&g=2026-01-01) en van inkomenssuppletie als bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67b&z=2026-01-01&g=2026-01-01) wordt ingetrokken of herzien indien die loonsuppletie of de inkomenssuppletie ten onrechte of tot een te hoog bedrag is vastgesteld.
 
-#### Artikel 19. Einde van het recht op arbeidsongeschiktheidsuitkering
+##### Artikel 19. Einde van het recht op arbeidsongeschiktheidsuitkering
 
 1. Het recht op arbeidsongeschiktheidsuitkering eindigt:
 
@@ -410,13 +438,13 @@ Een arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van
 
 8. Het recht op een arbeidsongeschiktheidsuitkering eindigt, indien de verzekerde een uitreiziger is.
 
-#### Artikel 19a. Einde van het recht op arbeidsongeschiktheidsuitkering bij niet in Nederland wonen
+##### Artikel 19a. Einde van het recht op arbeidsongeschiktheidsuitkering bij niet in Nederland wonen
 
 1. Het recht op arbeidsongeschiktheidsuitkering eindigt indien de verzekerde niet meer in Nederland woont.
 
 2. [Artikel 7a, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7a&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 20. Toekenning uitkering binnen vijf jaar na intrekking of niet-toekenning
+##### Artikel 20. Toekenning uitkering binnen vijf jaar na intrekking of niet-toekenning
 
 1. Indien de verzekerde:
 
@@ -436,7 +464,7 @@ binnen vijf jaar na de datum van die intrekking dan wel binnen vijf jaar na het 
 
 6. Indien de arbeidsongeschiktheidsuitkering op grond van dit artikel wordt toegekend en tevens recht op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) bestaat, wordt de arbeidsongeschiktheidsuitkering uitbetaald voor zover deze het ziekengeld overtreft, danwel zou overtreffen, indien het ziekengeld op grond van [artikel 45 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45) geheel of gedeeltelijk is geweigerd.
 
-#### Artikel 21. Heropening van de uitkering
+##### Artikel 21. Heropening van de uitkering
 
 1. De persoon, wiens arbeidsongeschiktheidsuitkering, berekend naar een arbeidsongeschiktheid van ten minste 45%, in verband met [artikel 19, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), is ingetrokken, heeft, indien hij binnen vier weken na de dag, met ingang waarvan de uitkering is ingetrokken, weer arbeidsongeschikt wordt, aanspraak op heropening van de arbeidsongeschiktheidsuitkering.
 
@@ -456,7 +484,7 @@ binnen vijf jaar na de datum van die intrekking dan wel binnen vijf jaar na het 
 
 9. De [artikelen 7b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7b&z=2026-01-01&g=2026-01-01), [7c](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7c&z=2026-01-01&g=2026-01-01) en [7d](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7d&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen zijn van overeenkomstige toepassing.
 
-#### Artikel 21a. Heropening van de uitkering bij terugkomst naar Nederland en na de inwerkingtreding van een verdrag
+##### Artikel 21a. Heropening van de uitkering bij terugkomst naar Nederland en na de inwerkingtreding van een verdrag
 
 1. De persoon, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 19a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19a&z=2026-01-01&g=2026-01-01), is geëindigd, heeft vanaf de dag:
 
@@ -470,7 +498,7 @@ met inachtneming van de bepalingen van deze wet aanspraak op heropening van de a
 
 3. De [artikelen 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=36&z=2026-01-01&g=2026-01-01) en [37](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=37&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing met betrekking tot de aanspraak op heropening van de arbeidsongeschiktheidsuitkering, bedoeld in dit artikel.
 
-#### Artikel 21b. Heropening van de uitkering na afloop vrijheidsontneming
+##### Artikel 21b. Heropening van de uitkering na afloop vrijheidsontneming
 
 1. De persoon, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 19, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), is geëindigd, heeft vanaf de dag dat hij in vrijheid wordt gesteld met inachtneming van de bepalingen van deze wet aanspraak op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is. [Artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -482,29 +510,29 @@ met inachtneming van de bepalingen van deze wet aanspraak op heropening van de a
 
 #### § 2. [Vervallen.]
 
-#### Artikel 22. Recht op uitkering in verband met bevalling
+##### Artikel 22. Recht op uitkering in verband met bevalling
 
 Vervallen
 
-#### Artikel 22a. Geen recht op uitkering in verband met bevalling bij niet in Nederland wonen
+##### Artikel 22a. Geen recht op uitkering in verband met bevalling bij niet in Nederland wonen
 
 Vervallen
 
-#### Artikel 23. Recht op uitkering in verband met bevalling in de vorm van een uitkering terzake van vervanging
+##### Artikel 23. Recht op uitkering in verband met bevalling in de vorm van een uitkering terzake van vervanging
 
 Vervallen
 
-#### Artikel 24. De hoogte van de uitkering
+##### Artikel 24. De hoogte van de uitkering
 
 Vervallen
 
 #### § 2. [Vervallen.]
 
-#### Artikel 25. Recht op vakantie-uitkering
+##### Artikel 25. Recht op vakantie-uitkering
 
 De verzekerde die over een maand recht heeft op arbeidsongeschiktheidsuitkering, heeft over die maand recht op vakantie-uitkering.
 
-#### Artikel 26. Hoogte van de vakantie-uitkering
+##### Artikel 26. Hoogte van de vakantie-uitkering
 
 1. De vakantie-uitkering bedraagt acht procent van het bedrag aan arbeidsongeschiktheidsuitkering, waarop recht bestond in het tijdvak van twaalf maanden, voorafgaande aan de maand mei.
 
@@ -514,29 +542,29 @@ De verzekerde die over een maand recht heeft op arbeidsongeschiktheidsuitkering,
 
 4. De vakantie-uitkering wordt betaald zonder dat dit bij beschikking is vastgesteld.
 
-#### Artikel 27. Recht op vakantie-uitkering over overlijdensuitkering
+##### Artikel 27. Recht op vakantie-uitkering over overlijdensuitkering
 
 De [artikelen 25](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=25&z=2026-01-01&g=2026-01-01) en [26, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=3&artikel=26&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing op de overlijdensuitkering, bedoeld in [artikel 61](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=61&z=2026-01-01&g=2026-01-01).
 
 #### § 4. Garantie voor oudere arbeidsongeschikten
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29. Garantie voor oudere arbeidsongeschikten
+##### Artikel 29. Garantie voor oudere arbeidsongeschikten
 
 Indien een verzekerde van 45 jaar of ouder die recht heeft op een arbeidsongeschiktheidsuitkering en die als verzekerde bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), winst of inkomsten gaat genieten in verband waarmee zijn arbeidsongeschiktheidsuitkering wordt beëindigd, wordt, indien hij binnen vijf jaar na de datum van aanvang van zijn werkzaamheden opnieuw recht heeft op toekenning van een arbeidsongeschiktheidsuitkering, de grondslag van die uitkering niet lager gesteld dan de grondslag die voor de berekening van de laatstelijk ontvangen arbeidsongeschiktheidsuitkering in aanmerking werd genomen, zoals die sinds de beëindiging van de uitkering op grond van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=8&z=2026-01-01&g=2026-01-01) zou zijn herzien.
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
@@ -544,19 +572,19 @@ Vervallen
 
 #### § 1. Melding
 
-#### Artikel 33. Melding gedurende wachttijd
+##### Artikel 33. Melding gedurende wachttijd
 
 1. Ten einde een recht op arbeidsongeschiktheidsuitkering geldend te kunnen maken meldt de verzekerde zijn arbeidsongeschiktheid binnen dertien weken na het ontstaan van de arbeidsongeschiktheid aan het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. Voor het bepalen van het tijdvak van dertien weken, bedoeld in het eerste lid, worden perioden van arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van dertien weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van [artikel 3:18](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:18) of [3:30, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:30) wordt genoten, buiten beschouwing.
 
-#### Artikel 34. Melding tijdens zwangerschap
+##### Artikel 34. Melding tijdens zwangerschap
 
 Vervallen
 
 #### § 1. Melding
 
-#### Artikel 35. Toekenning arbeidsongeschiktheidsuitkering
+##### Artikel 35. Toekenning arbeidsongeschiktheidsuitkering
 
 1. De arbeidsongeschiktheidsuitkering wordt op aanvraag toegekend.
 
@@ -576,7 +604,7 @@ Vervallen
 
 9. Indien de toepassing van het vierde lid zou leiden tot kennelijke hardheid, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering ambtshalve toe te kennen.
 
-#### Artikel 36. Ingangsdatum uitkering
+##### Artikel 36. Ingangsdatum uitkering
 
 1. De arbeidsongeschiktheidsuitkering gaat in op de dag, met ingang waarvan de betrokkene aan de vereisten voor het recht op toekenning van die uitkering voldoet.
 
@@ -584,11 +612,11 @@ Vervallen
 
 3. Toekenning van arbeidsongeschiktheidsuitkering vindt niet plaats, indien deze zou ingaan op of na de in [artikel 19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), bedoelde dag.
 
-#### Artikel 37. Herziening en heropening op aanvraag of ambtshalve
+##### Artikel 37. Herziening en heropening op aanvraag of ambtshalve
 
 Herziening dan wel heropening van de arbeidsongeschiktheidsuitkering vindt op aanvraag of ambtshalve plaats.
 
-#### Artikel 38. Ingangsdatum herziening en heropening uitkering
+##### Artikel 38. Ingangsdatum herziening en heropening uitkering
 
 1. De herziening van de arbeidsongeschiktheidsuitkering gaat in op de dag, waarop de verzekerde op grond van deze wet voor een hogere of lagere uitkering in aanmerking komt.
 
@@ -602,15 +630,15 @@ Herziening dan wel heropening van de arbeidsongeschiktheidsuitkering vindt op aa
 
 6. Heropening van de arbeidsongeschiktheidsuitkering vindt niet plaats, indien deze zou ingaan op of na de in [artikel 19, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), bedoelde dag.
 
-#### Artikel 39. Toekenning uitkering in verband met bevalling
+##### Artikel 39. Toekenning uitkering in verband met bevalling
 
 Vervallen
 
-#### Artikel 40. Toekenning vakantie-uitkering
+##### Artikel 40. Toekenning vakantie-uitkering
 
 De vakantie-uitkering wordt ambtshalve of, ingeval [artikel 60, eerste lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=60&z=2026-01-01&g=2026-01-01), toepassing vindt, op aanvraag door het Uitvoeringsinstituut werknemersverzekeringen toegekend.
 
-#### Artikel 41. Oproep en onderzoek door of namens het Uitvoeringsinstituut werknemersverzekeringen
+##### Artikel 41. Oproep en onderzoek door of namens het Uitvoeringsinstituut werknemersverzekeringen
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan, zo dikwijls hij zulks nodig oordeelt de verzekerde oproepen of doen oproepen en op een door of vanwege het Uitvoeringsinstituut werknemersverzekeringen te bepalen plaats ondervragen of doen ondervragen in verband met de aanspraak op of het genot van arbeidsongeschiktheidsuitkering of de toekenning of verstrekking van een reïntegratie-instrument als bedoeld in [hoofdstuk 3A](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&z=2026-01-01&g=2026-01-01).
 
@@ -618,23 +646,23 @@ De vakantie-uitkering wordt ambtshalve of, ingeval [artikel 60, eerste lid, twee
 
 3. De daartoe door het Uitvoeringsinstituut werknemersverzekeringen aangewezen deskundige kan, ook zonder opdracht van het Uitvoeringsinstituut werknemersverzekeringen, de in het eerste lid bedoelde personen oproepen, ondervragen, doen oproepen, doen ondervragen en onderzoeken of doen onderzoeken door een of meer door hem daartoe aangewezen deskundigen.
 
-#### Artikel 42. Vergoeding kosten en tijdverlies
+##### Artikel 42. Vergoeding kosten en tijdverlies
 
 Opgeroepenen en, indien hun toestand geleide nodig maakt, mede hun geleiders, worden reiskosten, verblijfkosten en tijdverlies vergoed in de gevallen en volgens regels die door het Uitvoeringsinstituut werknemersverzekeringen worden vastgesteld.
 
-#### Artikel 43. Voorschriften van medische of administratieve aard
+##### Artikel 43. Voorschriften van medische of administratieve aard
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen en de door hem daartoe aangewezen deskundige kunnen de personen, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=41&z=2026-01-01&g=2026-01-01), voorschriften geven in het belang van een behandeling of van genezing of tot behoud, herstel en bevordering van de mogelijkheid tot het verrichten van arbeid.
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen kan voorschrijven dat de personen, bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=41&z=2026-01-01&g=2026-01-01), zich laten registreren als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 44. Controlevoorschriften
+##### Artikel 44. Controlevoorschriften
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vaststellen. Deze voorschriften mogen niet verder gaan dan strikt noodzakelijk is voor een juiste uitvoering van deze wet.
 
 #### § 3. Maatregelen en bestuurlijke boeten
 
-#### Artikel 45. Gevolgen weigeren onderzoek
+##### Artikel 45. Gevolgen weigeren onderzoek
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen weigert de uitkering tijdelijk of blijvend, geheel of gedeeltelijk, indien een verzekerde als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=2&artikel=41&z=2026-01-01&g=2026-01-01), na tijdig te zijn opgeroepen niet is verschenen of heeft geweigerd:
 
@@ -646,7 +674,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan controlevoorschriften vasts
 
 2. Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig het eerste lid bij toeneming van de arbeidsongeschiktheid, voor zover deze toeneming kennelijk is voortgekomen uit dezelfde oorzaak als de arbeidsongeschiktheid, ter zake waarvan het niet voldoen aan de oproeping of de weigering plaatsvond.
 
-#### Artikel 46. Gevolgen niet-naleving voorschriften
+##### Artikel 46. Gevolgen niet-naleving voorschriften
 
 Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=45&z=2026-01-01&g=2026-01-01), indien de verzekerde:
 
@@ -672,7 +700,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel
 
 - k. zich niet onthoudt van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.
 
-#### Artikel 47. Afstemming maatregel op ernst gedraging
+##### Artikel 47. Afstemming maatregel op ernst gedraging
 
 1. Een maatregel als bedoeld in [artikel 45](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=45&z=2026-01-01&g=2026-01-01) of [46](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=46&z=2026-01-01&g=2026-01-01) wordt afgestemd op de ernst van de gedraging en de mate waarin de verzekerde de gedraging kan worden verweten. Van het opleggen van een maatregel wordt in elk geval afgezien, indien elke vorm van verwijtbaarheid ontbreekt.
 
@@ -684,7 +712,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel
 
 5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het eerste lid.
 
-#### Artikel 48. Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
+##### Artikel 48. Bestuurlijke boete bij niet-nakoming inlichtingenverplichting
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen legt een bestuurlijke boete op van ten hoogste het benadelingsbedrag wegens het niet of niet behoorlijk nakomen door de verzekerde of zijn wettelijke vertegenwoordiger van de verplichting, bedoeld in [artikel 70](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=5&artikel=70&z=2026-01-01&g=2026-01-01). Indien de feiten en omstandigheden, bedoeld in artikel 70, niet of niet behoorlijk zijn medegedeeld en deze overtreding opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23). Indien de feiten en omstandigheden, bedoeld in artikel 70, niet of niet behoorlijk zijn medegedeeld en deze overtreding niet opzettelijk is begaan, bedraagt de bestuurlijke boete ten hoogste het bedrag van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.
 
@@ -714,27 +742,27 @@ Het Uitvoeringsinstituut werknemersverzekeringen handelt overeenkomstig [artikel
 
 14. Het besluit tot kwijtschelding, bedoeld in het dertiende lid, wordt ingetrokken of ten nadele van degene aan wie de bestuurlijke boete is opgelegd herzien indien binnen vijf jaar na het besluit tot kwijtschelding wederom een overtreding is begaan wegens eenzelfde gedraging als bedoeld in het zesde lid.
 
-#### Artikel 49. Voorschriften rond voorgenomen boete-oplegging
+##### Artikel 49. Voorschriften rond voorgenomen boete-oplegging
 
 Vervallen
 
-#### Artikel 50. Nadere regels tenuitvoerlegging bestuurlijke boete
+##### Artikel 50. Nadere regels tenuitvoerlegging bestuurlijke boete
 
 Vervallen
 
-#### Artikel 51. Niet-oplegging van boete
+##### Artikel 51. Niet-oplegging van boete
 
 Vervallen
 
-#### Artikel 52. Termijnstelling van boete
+##### Artikel 52. Termijnstelling van boete
 
 Vervallen
 
-#### Artikel 53. Afwijking [8:69 Awb](onbekend)
+##### Artikel 53. Afwijking [8:69 Awb](onbekend)
 
 Vervallen
 
-#### Artikel 54. Invordering bestuurlijke boete
+##### Artikel 54. Invordering bestuurlijke boete
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen verrekent de bestuurlijke boete en een eerdere bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 48, vijfde lid, met een uitkering op grond van deze wet, de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), de [Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet arbeidsongeschiktheidsvoorziening militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0002822), de [Wet inkomensvoorziening oudere werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0024394), de [Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008) of een toeslag op grond van de [Toeslagenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0004043), die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.
 
@@ -752,7 +780,7 @@ Vervallen
 
 ### Afdeling 3. De betaling van de uitkering
 
-#### Artikel 55. Betaalbaarstelling
+##### Artikel 55. Betaalbaarstelling
 
 1. De arbeidsongeschiktheidsuitkering wordt betaalbaar gesteld door het Uitvoeringsinstituut werknemersverzekeringen. De betaling geschiedt als regel in tijdvakken van een maand.
 
@@ -772,17 +800,17 @@ Vervallen
 
 6. Het Uitvoeringsinstituut werknemersverzekeringen stelt het reïntegratiebedrijf in kennis van een besluit tot opschorting of schorsing als bedoeld in het vijfde lid.
 
-#### Artikel 55a. Opschorting en hervatting betaalbaarstelling
+##### Artikel 55a. Opschorting en hervatting betaalbaarstelling
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen schort de betaling van een arbeidsongeschiktheidsuitkering op indien de persoon aan wie de uitkering is toegekend een vreemdeling is die niet rechtmatig in Nederland verblijf houdt als bedoeld in [artikel 8 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8).
 
 2. De betaling van een arbeidsongeschiktheidsuitkering wordt hervat indien de betrokkene daartoe een aanvraag indient en het Uitvoeringsinstituut werknemersverzekeringen is gebleken dat hij feitelijk buiten Nederland woont of verblijf houdt.
 
-#### Artikel 56. Inhouding vereveningsbijdrage
+##### Artikel 56. Inhouding vereveningsbijdrage
 
 Vervallen
 
-#### Artikel 57. Betaling aan instellingen
+##### Artikel 57. Betaling aan instellingen
 
 1. Indien de verzekerde aan wie een arbeidsongeschiktheidsuitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het Uitvoeringsinstituut werknemersverzekeringen bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan de verzekerde zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=58).
 
@@ -794,7 +822,7 @@ Vervallen
 
 5. Een herziening van de uitkering op grond van het eerste of tweede lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.
 
-#### Artikel 58. Inkomsten uit arbeid tijdens uitkering
+##### Artikel 58. Inkomsten uit arbeid tijdens uitkering
 
 1. Indien de verzekerde, die recht heeft op een arbeidsongeschiktheidsuitkering, inkomen geniet doordat hij arbeid is gaan verrichten, wordt die arbeid gedurende een aaneengesloten tijdvak van vijf jaar niet aangemerkt als arbeid als bedoeld in [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=1&artikel=2&z=2026-01-01&g=2026-01-01), en wordt de arbeidsongeschiktheidsuitkering niet ingetrokken of herzien, doch wordt de uitkering:
 
@@ -818,7 +846,7 @@ Na afloop van het in de aanhef genoemde tijdvak wordt de arbeid aangemerkt als a
 
 8. Bij de bepaling van de mate van arbeidsongeschiktheid, bedoeld in het eerste lid, kan loon niet meer dan eenmaal in aanmerking worden genomen.
 
-#### Artikel 59. Samenloop met Wet WIA-uitkeringen
+##### Artikel 59. Samenloop met Wet WIA-uitkeringen
 
 1. Indien ter zake van arbeidsongeschiktheid een herziening van de arbeidsongeschiktheidsuitkering in verband met de [artikelen 12 tot en met 17](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=12&z=2026-01-01&g=2026-01-01) plaatsvindt of een anticumulatie als bedoeld in [artikel 58](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=58&z=2026-01-01&g=2026-01-01) is of wordt beëindigd en een recht ontstaat op uitkering op grond van de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) uit hoofde van een dienstbetrekking die is aangevangen na het intreden van arbeidsongeschiktheid op grond waarvan een recht op arbeidsongeschiktheidsuitkering is ontstaan, wordt de arbeidsongeschiktheidsuitkering uitbetaald voor zover deze de uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen overtreft, en in geval van een herziening in elk geval uitbetaald tot de hoogte van het bedrag onmiddellijk voorafgaande aan de herziening.
 
@@ -834,13 +862,13 @@ Na afloop van het in de aanhef genoemde tijdvak wordt de arbeid aangemerkt als a
 
 - b. ter voorkoming of beperking van samenloop van arbeidsongeschiktheidsuitkering met de in het eerste lid bedoelde uitkeringen in situaties waarin deze leden niet of onvoldoende voorzien.
 
-#### Artikel 60. Betaling van vakantie-uitkering
+##### Artikel 60. Betaling van vakantie-uitkering
 
 1. De betaling van de vakantie-uitkering vindt eenmaal per jaar plaats in de maand mei over de aan die maand voorafgaande maanden, of, indien het recht op uitkering eerder dan in de maand mei eindigt, in de desbetreffende maand. Het Uitvoeringsinstituut werknemersverzekeringen kan de vakantie-uitkering op een ander tijdstip betalen, mits die betaling plaatsvindt over een of meer voorliggende maanden waarover reeds recht op vakantie-uitkering bestaat.
 
 2. De [artikelen 55](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=55&z=2026-01-01&g=2026-01-01), [57](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=57&z=2026-01-01&g=2026-01-01) en [61](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=61&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing ten aanzien van de vakantie-uitkering, voor zover bij of krachtens deze wet niet anders is bepaald.
 
-#### Artikel 61. Overlijdensuitkering
+##### Artikel 61. Overlijdensuitkering
 
 1. Na het overlijden van de verzekerde, aan wie een arbeidsongeschiktheidsuitkering is toegekend, wordt met ingang van de dag na het overlijden, de uitkering in de vorm van een overlijdensuitkering betaald:
 
@@ -860,11 +888,11 @@ Na afloop van het in de aanhef genoemde tijdvak wordt de arbeid aangemerkt als a
 
 6. Het bedrag van de overlijdensuitkering wordt verminderd met het bedrag aan arbeidsongeschiktheidsuitkering dat over na het overlijden gelegen dagen reeds is betaald.
 
-#### Artikel 62. Verjaringstermijn
+##### Artikel 62. Verjaringstermijn
 
 Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ingevorderd binnen twee jaren na de dag van betaalbaarstelling, worden niet meer betaald.
 
-#### Artikel 63. Terugvordering
+##### Artikel 63. Terugvordering
 
 1. De uitkering, de loonsuppletie, bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67a&z=2026-01-01&g=2026-01-01), de inkomenssuppletie, bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67b&z=2026-01-01&g=2026-01-01), en de voorziening, bedoeld in [artikel 67c](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67c&z=2026-01-01&g=2026-01-01) die als gevolg van een besluit als bedoeld in [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=18&z=2026-01-01&g=2026-01-01) onverschuldigd is verstrekt, alsmede hetgeen anderszins onverschuldigd is betaald, wordt door het Uitvoeringsinstituut werknemersverzekeringen teruggevorderd.
 
@@ -894,13 +922,13 @@ Uitkeringen op grond van deze wet die niet in ontvangst zijn genomen of zijn ing
 
 8. In afwijking van het eerste lid kan het Uitvoeringsinstituut werknemersverzekeringen, onder voorwaarden die Onze Minister kan stellen, besluiten van terugvordering af te zien indien het terug te vorderen bedrag een door Onze Minister vast te stellen bedrag niet te boven gaat.
 
-#### Artikel 64. Invordering bij dwangbevel
+##### Artikel 64. Invordering bij dwangbevel
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan de onverschuldigd betaalde uitkering, bedoeld in [artikel 63, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=63&z=2026-01-01&g=2026-01-01), invorderen bij dwangbevel.
 
 2. [Artikel 54](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=2&paragraaf=3&artikel=54&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing, met dien verstande dat indien het gemiddeld inkomen van de belanghebbende gedurende drie jaar de beslagvrije voet bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=475c) niet te boven is gegaan, het Uitvoeringsinstituut werknemersverzekeringen de aflossingsbedragen lager vaststelt.
 
-#### Artikel 65. Nadere regelgeving
+##### Artikel 65. Nadere regelgeving
 
 Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
@@ -908,7 +936,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 - b. de aanvraag van loonsuppletie als bedoeld in [artikel 67a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67a&z=2026-01-01&g=2026-01-01), van inkomenssuppletie als bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67b&z=2026-01-01&g=2026-01-01), de termijn waarbinnen die aanvraag wordt ingediend, alsmede de rechtsgevolgen die aan overschrijding van die termijn zijn verbonden, en de aanvraag van een voorziening als bedoeld in [artikel 67c](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67c&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 66. Onvervreemdbaarheid van verstrekkingen
+##### Artikel 66. Onvervreemdbaarheid van verstrekkingen
 
 1. Onvervreemdbaar en niet vatbaar voor verpanding en belening zijn:
 
@@ -926,7 +954,7 @@ Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot:
 
 3. Elk beding, strijdig met dit artikel, is nietig.
 
-#### Artikel 67. Niet voor beslag vatbare verstrekkingen
+##### Artikel 67. Niet voor beslag vatbare verstrekkingen
 
 Niet vatbaar voor beslag zijn:
 
@@ -936,11 +964,11 @@ Niet vatbaar voor beslag zijn:
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-#### Artikel 68. Samenloop aanspraken
+##### Artikel 68. Samenloop aanspraken
 
 Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlijk recht aanspraak kan maken ter zake van zijn arbeidsongeschiktheid, houdt de rechter rekening met de aanspraken, die hij op grond van deze wet heeft.
 
-#### Artikel 69. Regresrecht
+##### Artikel 69. Regresrecht
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen heeft voor de op grond van deze wet gemaakte kosten verhaal op de persoon die in verband met het veroorzaken van arbeidsongeschiktheid jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de verzekerde naar burgerlijk recht is gehouden.
 
@@ -950,7 +978,7 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-#### Artikel 70. Verplichting tot verstrekken van inlichtingen
+##### Artikel 70. Verplichting tot verstrekken van inlichtingen
 
 1. De verzekerde, diens wettelijke vertegenwoordiger alsmede de instelling, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=57&z=2026-01-01&g=2026-01-01), waaraan arbeidsongeschiktheidsuitkering wordt betaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen, op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.
 
@@ -960,125 +988,125 @@ Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlij
 
 ### Hoofdstuk 6. Financiering
 
-#### Artikel 71. Financiering
+##### Artikel 71. Financiering
 
 Vervallen
 
-#### Artikel 72. Maatstaf voor premieheffing
+##### Artikel 72. Maatstaf voor premieheffing
 
 Vervallen
 
-#### Artikel 72a. Middeling van premie-inkomen over 3 jaar
+##### Artikel 72a. Middeling van premie-inkomen over 3 jaar
 
 Vervallen
 
-#### Artikel 73. Franchise en tarief
+##### Artikel 73. Franchise en tarief
 
 Vervallen
 
-#### Artikel 74. Gemiddeld premiepercentage
+##### Artikel 74. Gemiddeld premiepercentage
 
 Vervallen
 
-#### Artikel 75. Heffing en invordering van premie
+##### Artikel 75. Heffing en invordering van premie
 
 Vervallen
 
-#### Artikel 76. Rijksbijdragen
+##### Artikel 76. Rijksbijdragen
 
 Vervallen
 
-#### Artikel 77. Nadere regels
+##### Artikel 77. Nadere regels
 
 Vervallen
 
-#### Artikel 78. Arbeidsongeschiktheidsfonds zelfstandigen
+##### Artikel 78. Arbeidsongeschiktheidsfonds zelfstandigen
 
 Vervallen
 
-#### Artikel 79. Bedragen ten gunste van Arbeidsongeschiktheidsfonds zelfstandigen
+##### Artikel 79. Bedragen ten gunste van Arbeidsongeschiktheidsfonds zelfstandigen
 
 Vervallen
 
-#### Artikel 80. Uitgaven ten laste van Arbeidsongeschiktheidsfonds zelfstandigen
+##### Artikel 80. Uitgaven ten laste van Arbeidsongeschiktheidsfonds zelfstandigen
 
 Vervallen
 
 ### Hoofdstuk 4. De invloed van de verzekering op het burgerlijk recht
 
-#### Artikel 81. Uitvoeringsinstituut werknemersverzekeringen
+##### Artikel 81. Uitvoeringsinstituut werknemersverzekeringen
 
 1. De verzekerde, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01), is verzekerd bij het Uitvoeringsinstituut werknemersverzekeringen.
 
 2. In de uitvoering van de in deze wet geregelde verzekering wordt, behoudens de uitvoering die op grond van enig artikel van deze wet aan een ander is opgedragen, voorzien door het Uitvoeringsinstituut werknemersverzekeringen.
 
-#### Artikel 82. De uitvoeringsinstelling
+##### Artikel 82. De uitvoeringsinstelling
 
 Vervallen
 
-#### Artikel 83. Werkzaamheden verricht door de uitvoeringsinstelling bij samenloop
+##### Artikel 83. Werkzaamheden verricht door de uitvoeringsinstelling bij samenloop
 
 Vervallen
 
-#### Artikel 84. Werkzaamheden verricht door de uitvoeringsinstelling bij herziening
+##### Artikel 84. Werkzaamheden verricht door de uitvoeringsinstelling bij herziening
 
 Vervallen
 
-#### Artikel 85. Werkzaamheden verricht door de uitvoeringsinstelling bij toekenning binnen vijf jaar na intrekking of niet-toekenning
+##### Artikel 85. Werkzaamheden verricht door de uitvoeringsinstelling bij toekenning binnen vijf jaar na intrekking of niet-toekenning
 
 Vervallen
 
-#### Artikel 86. Werkzaamheden verricht door het Uitvoeringsinstituut werknemersverzekeringen bij heropening
+##### Artikel 86. Werkzaamheden verricht door het Uitvoeringsinstituut werknemersverzekeringen bij heropening
 
 De heropende arbeidsongeschiktheidsuitkering wordt beschouwd als een voortzetting van de ingetrokken uitkering. Voor de toepassing van de [artikelen 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=14&z=2026-01-01&g=2026-01-01), [15, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01), en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01) wordt daarbij met herziening van de arbeidsongeschiktheidsuitkering wegens afneming van de arbeidsongeschiktheid gelijkgesteld intrekking van de arbeidsongeschiktheidsuitkering.
 
-#### Artikel 87. Verlening subsidies
+##### Artikel 87. Verlening subsidies
 
 Vervallen
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
 ### Hoofdstuk 8. Gemoedsbezwaren
 
-#### Artikel 89. Ontheffing wegens gemoedsbezwaren
+##### Artikel 89. Ontheffing wegens gemoedsbezwaren
 
 Vervallen
 
-#### Artikel 90. Heffing van premievervangende inkomstenbelasting
+##### Artikel 90. Heffing van premievervangende inkomstenbelasting
 
 Vervallen
 
-#### Artikel 91. Belasting beschouwd als premie voor bepaalde wetten
+##### Artikel 91. Belasting beschouwd als premie voor bepaalde wetten
 
 Vervallen
 
-#### Artikel 92. Premie ten laste van het Rijk
+##### Artikel 92. Premie ten laste van het Rijk
 
 Vervallen
 
-#### Artikel 93. Nadere regels
+##### Artikel 93. Nadere regels
 
 Vervallen
 
 ### HOOFDSTUK 9. BEPALINGEN IN VERBAND MET DE ALGEMENE WET BESTUURSRECHT EN HET BEROEP IN CASSATIE
 
-#### Artikel 94. Begrip belanghebbende
+##### Artikel 94. Begrip belanghebbende
 
 Vervallen
 
-#### Artikel 95. Beslistermijn
+##### Artikel 95. Beslistermijn
 
 Indien in verband met het geven van een beschikking een in het buitenland wonende persoon is opgeroepen en om die reden de beschikking niet binnen de redelijke termijn, bedoeld in [artikel 4:13, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:13), gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld.
 
-#### Artikel 95a. Bijzondere beslistermijnen
+##### Artikel 95a. Bijzondere beslistermijnen
 
 1. Een beschikking over het verzekerd zijn op grond van deze wet wordt gegeven binnen dertien weken na ontvangst van de aanvraag.
 
 2. Indien een beschikking als bedoeld in het eerste lid niet binnen dertien weken kan worden gegeven, wordt de aanvrager daarvan schriftelijk in kennis gesteld onder vermelding van een zo kort mogelijke termijn waarbinnen de beschikking wel tegemoet kan worden gezien.
 
-#### Artikel 96. Beslistermijn Uitvoeringsinstituut werknemersverzekeringen bij bezwaarschrift
+##### Artikel 96. Beslistermijn Uitvoeringsinstituut werknemersverzekeringen bij bezwaarschrift
 
 1. In afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10) beslist het Uitvoeringsinstituut werknemersverzekeringen binnen dertien weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.
 
@@ -1086,11 +1114,11 @@ Indien in verband met het geven van een beschikking een in het buitenland wonend
 
 3. Indien in verband met het geven van een beslissing op bezwaar een in het buitenland wonende persoon is opgeroepen en om die reden de beslissing op bezwaar niet binnen de in het tweede lid bedoelde termijn gegeven kan worden, wordt de beslissing, in afwijking van [artikel 7:10, derde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=7:10), verdaagd met ten hoogste zes maanden en wordt de aanvrager van deze verdaging schriftelijk in kennis gesteld.
 
-#### Artikel 97. Medische bezwaarschriftprocedure
+##### Artikel 97. Medische bezwaarschriftprocedure
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van de behandeling van bezwaarschriften tegen besluiten, waaraan een medische of arbeidskundige beoordeling ten grondslag ligt.
 
-#### Artikel 98. Beroep in cassatie
+##### Artikel 98. Beroep in cassatie
 
 1. Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van de [artikelen 1, derde tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), [3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) en de op die artikelen berustende bepalingen.
 
@@ -1098,47 +1126,47 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van 
 
 ### Hoofdstuk 7. Uitvoering
 
-#### Artikel 99. Strafbepaling
+##### Artikel 99. Strafbepaling
 
 Een gedraging die in strijd is met een krachtens deze wet uitgevaardigde algemene maatregel van bestuur voor zover uitdrukkelijk als strafbaar feit in de zin van dit artikel aangeduid, wordt gestraft met een hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
 
-#### Artikel 99a. Strafbepaling inzake artikel 70
+##### Artikel 99a. Strafbepaling inzake artikel 70
 
 Vervallen
 
-#### Artikel 99b. Strafbepaling inzake valse opgave/opzettelijke verzwijging
+##### Artikel 99b. Strafbepaling inzake valse opgave/opzettelijke verzwijging
 
 Vervallen
 
-#### Artikel 99c. Strafbepaling inzake opzettelijke opgave in strijd met waarheid
+##### Artikel 99c. Strafbepaling inzake opzettelijke opgave in strijd met waarheid
 
 Vervallen
 
-#### Artikel 100. Verval van recht tot strafvordering
+##### Artikel 100. Verval van recht tot strafvordering
 
 Vervallen
 
-#### Artikel 101. Overtredingen
+##### Artikel 101. Overtredingen
 
 De in [artikel 99](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=10&artikel=99&z=2026-01-01&g=2026-01-01) bedoelde strafbare feiten worden als overtredingen beschouwd.
 
 ### Hoofdstuk 8. Gemoedsbezwaren
 
-#### Artikel 102. Buiten toepassingverklaring van [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
+##### Artikel 102. Buiten toepassingverklaring van [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448)
 
 De [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) is niet van toepassing op de tijdvakken van vier weken, genoemd in de [artikelen 7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), [13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=14&z=2026-01-01&g=2026-01-01), [15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01), [20](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=20&z=2026-01-01&g=2026-01-01) en [21](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=21&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 103. Inwerkingtreding
+##### Artikel 103. Inwerkingtreding
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 104. Citeertitel
+##### Artikel 104. Citeertitel
 
 Deze wet wordt aangehaald als: Wet arbeidsongeschiktheidsverzekering zelfstandigen.
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 102a. Overgangsrecht [Wet beperking export uitkeringen](onbekend)
+##### Artikel 102a. Overgangsrecht [Wet beperking export uitkeringen](onbekend)
 
 Vervallen
 
@@ -1148,7 +1176,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 101a. Overgangsrecht in verband met de Wet wijziging systematiek herbeoordelingen arbeidsongeschiktheidswetten
+##### Artikel 101a. Overgangsrecht in verband met de Wet wijziging systematiek herbeoordelingen arbeidsongeschiktheidswetten
 
 Arbeidsongeschiktheidsuitkeringen die zijn toegekend voor de inwerkingtreding van de Wet wijziging systematiek herbeoordelingen arbeidsongeschiktheidswetten worden geacht te zijn toegekend voor onbepaalde tijd.
 
@@ -1156,13 +1184,13 @@ Arbeidsongeschiktheidsuitkeringen die zijn toegekend voor de inwerkingtreding va
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 54a. Verrekening bestuurlijke boete bij recidive
+##### Artikel 54a. Verrekening bestuurlijke boete bij recidive
 
 Vervallen
 
 ### Afdeling 3. De betaling van de uitkering
 
-#### Artikel 59a. Samenloop met andere uitkeringen
+##### Artikel 59a. Samenloop met andere uitkeringen
 
 1. Indien terzake van arbeidsongeschiktheid recht bestaat op:
 
@@ -1204,11 +1232,11 @@ Vervallen
 
 ### Hoofdstuk 7. Uitvoering
 
-#### Artikel 95b. Afzien van horen belanghebbende
+##### Artikel 95b. Afzien van horen belanghebbende
 
 Vervallen
 
-#### Artikel 98a. [Titel 4.2 Algemene wet bestuursrecht](onbekend)
+##### Artikel 98a. [Titel 4.2 Algemene wet bestuursrecht](onbekend)
 
 Vervallen
 
@@ -1222,7 +1250,7 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 101b. Overgangsrecht in verband met de [Wet beperking export uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0010479)
+##### Artikel 101b. Overgangsrecht in verband met de [Wet beperking export uitkeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0010479)
 
 1. De [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7a&z=2026-01-01&g=2026-01-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19a&z=2026-01-01&g=2026-01-01), en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=21a&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op de persoon die:
 
@@ -1236,7 +1264,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 67a. Loonsuppletie
+##### Artikel 67a. Loonsuppletie
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan de persoon die recht heeft op een arbeidsongeschiktheidsuitkering en die arbeid in dienstbetrekking aanvaardt of verricht op aanvraag loonsuppletie toekennen, indien het loon lager is dan zijn resterende verdiencapaciteit.
 
@@ -1248,7 +1276,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 5. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de loonsuppletie.
 
-#### Artikel 67b. Inkomenssuppletie
+##### Artikel 67b. Inkomenssuppletie
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan aan de persoon die recht heeft op een arbeidsongeschiktheidsuitkering en die arbeid als zelfstandige verricht of gaat verrichten op aanvraag inkomenssuppletie toekennen, indien zijn inkomen uit het bedrijf of beroep lager is dan zijn resterende verdiencapaciteit.
 
@@ -1258,17 +1286,17 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de hoogte van de inkomenssuppletie.
 
-#### Artikel 67c. Voorzieningen ter ondersteuning van toeleiding naar arbeid als zelfstandige
+##### Artikel 67c. Voorzieningen ter ondersteuning van toeleiding naar arbeid als zelfstandige
 
 Vervallen
 
-#### Artikel 67d. Recht op ondersteuning bij arbeidsinschakeling van Uitvoeringsinstituut werknemersverzekeringen
+##### Artikel 67d. Recht op ondersteuning bij arbeidsinschakeling van Uitvoeringsinstituut werknemersverzekeringen
 
 1. De zelfstandige die recht heeft op een arbeidsongeschiktheidsuitkering heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen noodzakelijk geachte voorziening gericht op arbeidsinschakeling.
 
 2. Voor de toepassing van het eerste lid wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de [Wet sociale werkvoorziening](https://wetten.overheid.nl/jci1.3:c:BWBR0008903) onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=2) en [7 van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008903&artikel=7).
 
-#### Artikel 67e. Proefplaatsing
+##### Artikel 67e. Proefplaatsing
 
 1. Het Uitvoeringsinstituut werknemersverzekeringen kan, in het kader van de bevordering van de inschakeling in de arbeid, toestemming verlenen aan de verzekerde, die recht heeft op een arbeidsongeschiktheidsuitkering om op een proefplaats bij een werkgever gedurende maximaal zes maanden onbeloonde werkzaamheden te verrichten.
 
@@ -1300,7 +1328,7 @@ Vervallen
 
 ### Hoofdstuk 9. Bepalingen in verband met de Algemene wet bestuursrecht en het beroep in cassatie
 
-#### Artikel 98b. Overgangsrecht intrekking [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
+##### Artikel 98b. Overgangsrecht intrekking [Wet REA](https://wetten.overheid.nl/jci1.3:c:BWBR0009565)
 
 1. Een beschikking tot toekenning van inkomenssuppletie op grond van [artikel 29 van de Wet op de (re)integratie arbeidsgehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0009565&artikel=29), aan de persoon die op de dag voorafgaande aan de dag waarop dat artikel op grond van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019058&artikel=2.10), vervalt, recht had op een arbeidsongeschiktheidsuitkering wordt voor de duur waarvoor inkomenssuppletie was toegekend aangemerkt als een beschikking tot toekenning van inkomenssuppletie als bedoeld in [artikel 67b](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67b&z=2026-01-01&g=2026-01-01).
 
@@ -1318,7 +1346,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 101c. Overgangsrecht in verband met [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=4&artikel=69&z=2026-01-01&g=2026-01-01)
+##### Artikel 101c. Overgangsrecht in verband met [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=4&artikel=69&z=2026-01-01&g=2026-01-01)
 
 In gedingen aangevangen voor het van toepassing worden van [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=4&artikel=69&z=2026-01-01&g=2026-01-01), bepaalt de rechter op verzoek van een van de partijen of ambtshalve een termijn waarbinnen partijen de gelegenheid wordt geboden hun stellingen en conclusies voor zover nodig aan te passen aan [artikel 69, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=4&artikel=69&z=2026-01-01&g=2026-01-01). Stelt de rechter partijen tot een zodanige aanpassing in de gelegenheid, dan staat tegen die beslissing geen rechtsmiddel open; wijst de rechter een daartoe strekkend verzoek af, dan staat een rechtsmiddel daartegen slechts gelijktijdig met de einduitspraak open.
 
@@ -1326,7 +1354,7 @@ In gedingen aangevangen voor het van toepassing worden van [artikel 69, derde li
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 65a. Schuldregeling
+##### Artikel 65a. Schuldregeling
 
 1. In afwijking van [artikel 63, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=63&z=2026-01-01&g=2026-01-01), kan het Uitvoeringsinstituut werknemersverzekeringen, op verzoek van de belanghebbende, besluiten gedeeltelijk van terugvordering of gedeeltelijk van verdere terugvordering af te zien door medewerking aan een schuldregeling, indien:
 
@@ -1352,7 +1380,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 4. Bij ministeriële regeling kunnen met betrekking tot dit artikel nadere regels worden gesteld ten aanzien van de bevoegdheid om mee te werken aan schuldregelingen.
 
-#### Artikel 65b. Preferentie
+##### Artikel 65b. Preferentie
 
 Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld in [artikel 63](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=63&z=2026-01-01&g=2026-01-01) en [65a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=3&artikel=65a&z=2026-01-01&g=2026-01-01) is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van Boek 3 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005291&artikel=288).
 
@@ -1374,15 +1402,15 @@ Een vordering van het Uitvoeringsinstituut werknemersverzekeringen als bedoeld i
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 67f. Loonkostensubsidie
+##### Artikel 67f. Loonkostensubsidie
 
 Vervallen
 
-#### Artikel 67g
+##### Artikel 67g
 
 Vervallen
 
-#### Artikel 67h
+##### Artikel 67h
 
 Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. [Artikel 10a, tweede tot en met tiende lid, van de Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703&artikel=10a) is van overeenkomstige toepassing.
 
@@ -1396,13 +1424,13 @@ Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft
 
 ### Hoofdstuk 9A. Overgangsbepalingen
 
-#### Artikel 101d. Mogelijkheid vervallen loonkostensubsidie
+##### Artikel 101d. Mogelijkheid vervallen loonkostensubsidie
 
 1. [Artikel 67f](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67f&z=2026-01-01&g=2026-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 2. [Artikel 67g](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3A&artikel=67g&z=2026-01-01&g=2026-01-01) vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 101e. Overgangsrecht loonkostensubsidie
+##### Artikel 101e. Overgangsrecht loonkostensubsidie
 
 Vervallen
 
@@ -1410,15 +1438,15 @@ Vervallen
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7c. Geen recht op arbeidsongeschiktheidsuitkering tijdens onttrekking aan vrijheidsontneming
+##### Artikel 7c. Geen recht op arbeidsongeschiktheidsuitkering tijdens onttrekking aan vrijheidsontneming
 
 De verzekerde, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), heeft geen recht op arbeidsongeschiktheidsuitkering indien en voor zolang hij zich op de dag waarop het recht op arbeidsongeschiktheidsuitkering zou ingaan en daarna onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel.
 
-#### Artikel 16a. Samenloop met [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 16a. Samenloop met [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Indien als gevolg van de toeneming van de arbeidsongeschiktheid zowel recht op herziening van de arbeidsongeschiktheidsuitkering bestaat of is ontstaan op grond van de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=15&z=2026-01-01&g=2026-01-01) en [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=16&z=2026-01-01&g=2026-01-01), als op ziekengeld op grond van de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888), wordt het bedrag waarmee de arbeidsongeschiktheidsuitkering is of wordt verhoogd uitbetaald voor zover dit het ziekengeld overtreft, danwel zou overtreffen, indien het ziekengeld op grond van [artikel 45 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45) geheel of gedeeltelijk is geweigerd.
 
-#### Artikel 21c. Heropening van de uitkering na afloop onttrekking vrijheidsontneming
+##### Artikel 21c. Heropening van de uitkering na afloop onttrekking vrijheidsontneming
 
 1. De persoon, wiens arbeidsongeschiktheidsuitkering in verband met [artikel 19, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), is geëindigd, heeft vanaf de dag dat hij zich niet langer onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel met inachtneming van de bepalingen van deze wet aanspraak op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is.
 
@@ -1454,11 +1482,11 @@ Indien als gevolg van de toeneming van de arbeidsongeschiktheid zowel recht op h
 
 ### Hoofdstuk 10A. Overgangsbepalingen
 
-#### Artikel 101f. Overgangsrecht samenloop [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
+##### Artikel 101f. Overgangsrecht samenloop [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888)
 
 Vervallen
 
-#### Artikel 101g. Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
+##### Artikel 101g. Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
 
 De [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7a&z=2026-01-01&g=2026-01-01), [19a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19a&z=2026-01-01&g=2026-01-01) en [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=21a&z=2026-01-01&g=2026-01-01), zijn niet van toepassing op de persoon op wie die artikelen als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zouden worden, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op een arbeidsongeschiktheidsuitkering.
 
@@ -1466,7 +1494,7 @@ De [artikelen 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&af
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 54b. In kennisstellen reïntegratiebedrijf van sanctie-oplegging
+##### Artikel 54b. In kennisstellen reïntegratiebedrijf van sanctie-oplegging
 
 Indien het Uitvoeringsinstituut werknemersverzekeringen de verzekerde de uitkering tijdelijk of blijvend, geheel of gedeeltelijk heeft geweigerd dan wel hem een bestuurlijke boete heeft opgelegd, stelt het Uitvoeringsinstituut werknemersverzekeringen het reïntegratiebedrijf dat ten behoeve van die verzekerde werkzaamheden gericht op vergroting van de mogelijkheden tot het verrichten van arbeid of op inschakeling in arbeid verricht, van die beschikking in kennis voorzover dat noodzakelijk is voor de uitvoering van de werkzaamheden door het reïntegratiebedrijf.
 
@@ -1482,7 +1510,7 @@ Indien het Uitvoeringsinstituut werknemersverzekeringen de verzekerde de uitkeri
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 55b. Opschorting betaling bij vertrek naar onbekende bestemming
+##### Artikel 55b. Opschorting betaling bij vertrek naar onbekende bestemming
 
 1. Is van de ontvanger van een arbeidsongeschiktheidsuitkering bij het Uitvoeringsinstituut werknemersverzekeringen een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het Uitvoeringsinstituut werknemersverzekeringen hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.
 
@@ -1504,7 +1532,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 67i. Tegemoetkoming arbeidsongeschikten
+##### Artikel 67i. Tegemoetkoming arbeidsongeschikten
 
 1. De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering bij een arbeidsongeschiktheid van 35% of meer, heeft recht op een tegemoetkoming.
 
@@ -1540,7 +1568,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 7d. Geen recht op arbeidsongeschiktheidsuitkering voor uitreiziger
+##### Artikel 7d. Geen recht op arbeidsongeschiktheidsuitkering voor uitreiziger
 
 1. De verzekerde, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), heeft geen recht op een arbeidsongeschiktheidsuitkering indien hij op de dag waarop het recht op arbeidsongeschiktheidsuitkering zou ingaan, een uitreiziger is.
 
@@ -1548,7 +1576,7 @@ Lasten en bevelen dat deze in het **Staatsblad** zal worden geplaatst en dat all
 
 3. De persoon, bedoeld in het tweede lid, die op de in dat lid bedoelde dag niet arbeidsongeschikt is, doch ten aanzien van wie dit wel het geval is binnen vier weken na die dag, heeft met inachtneming van de bepalingen van deze wet recht op toekenning van een arbeidsongeschiktheidsuitkering. [Artikel 7, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=7&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 21d. Heropening van de uitkering na beëindiging deelname aan terroristische organisatie of terugkeer in Nederland
+##### Artikel 21d. Heropening van de uitkering na beëindiging deelname aan terroristische organisatie of terugkeer in Nederland
 
 1. De persoon, wiens arbeidsongeschiktheid in verband met [artikel 19, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=3&afdeling=1&paragraaf=1&artikel=19&z=2026-01-01&g=2026-01-01), is geëindigd, heeft vanaf de dag dat niet langer het gegronde vermoeden bestaat dat hij zich buiten Nederland bevindt met het doel zich aan te sluiten bij een organisatie als bedoeld in [artikel 1, eerste lid, onderdeel p](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&hoofdstuk=1&artikel=1&z=2026-01-01&g=2026-01-01), met inachtneming van de bepalingen van deze wet, aanspraak op heropening van de arbeidsongeschiktheidsuitkering, indien hij op die dag arbeidsongeschikt is.
 

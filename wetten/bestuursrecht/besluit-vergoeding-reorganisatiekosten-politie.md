@@ -1,13 +1,35 @@
 ---
-title: "Besluit vergoeding reorganisatiekosten politie"
+title: "Besluit van 16 maart 1993, houdende regels inzake het beschikbaar stellen van bijdragen uit 's Rijks kas met het oog op de kosten die in een politieregio worden gemaakt ter uitvoering van de Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, nr. 674)"
 identifier: "BWBR0005911"
-categorie: "Bestuursrecht"
-publicatiedatum: 1993-04-23
-laatste_update: 1993-04-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005911"
+country: "nl"
+rank: "amvb"
+publication_date: "1993-04-23"
+last_updated: "1993-04-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005911"
+soort: "AMvB"
+stam_id: "1184153"
+version_id: "1747512"
+internal_id: "C1747511"
+label_id: "1147214"
+dtd_version: "2.0"
+original_entry_into_force: "1993-04-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005911/1993-04-23/0"
+intitule_bron: "Stb.1993-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-03-16"
+intitule_status: "goed"
+original_publication: "Stb.1993-216"
+original_signed_date: "1993-03-16"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-04-23"
+jci_1_3: "jci1.3:c:BWBR0005911&z=1993-04-23&g=1993-04-23"
+jci_1_0: "1.0:c:BWBR0005911&g=1993-04-23"
+citeertitel_status: "officieel"
+short_title: "Besluit vergoeding reorganisatiekosten politie"
+signed_date: "1993-03-16"
+entry_into_force: "1993-04-23"
 ---
-
 # Besluit van 16 maart 1993, houdende regels inzake het beschikbaar stellen van bijdragen uit 's Rijks kas met het oog op de kosten die in een politieregio worden gemaakt ter uitvoering van de Wet tijdelijke voorzieningen reorganisatie politiebestel (Stb. 1991, nr. 674)
 
 Op de voordracht van Onze Ministers van Binnenlandse Zaken en van Justitie van 24 september 1992, directoraat-generaal voor Openbare Orde en Veiligheid, nr. PRP 92/U710, en directoraat-generaal Wetgeving, nr. W.311163/93/6;
@@ -26,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -48,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 - i. het regionaal projectplan: het regionaal projectplan, bedoeld in artikel 3.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De rijksbijdrage is bestemd voor de bestrijding van de kosten die in de periode 1991 tot en met 1996 in de politieregio worden gemaakt ter bevordering van de feitelijke integratie van de politie op de wijze zoals aangegeven in het regionale projectplan.
 
@@ -56,7 +78,7 @@ In dit besluit wordt verstaan onder:
 
 3. Onze Minister kan, in overeenstemming met Onze Minister van Justitie, de periode, bedoeld in het eerste en tweede lid, met ten hoogste twee jaar verlengen, indien de voortgang van de reorganisatie van het politiebestel daartoe noopt.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het regionaal overlegorgaan stelt een regionaal projectplan vast ten behoeve van de feitelijke integratie van de politie.
 
@@ -86,7 +108,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De raming van de rijksbijdrage
 
-#### Artikel 4
+##### Artikel 4
 
 1. De rijksbijdrage wordt geraamd op het bedrag als vermeld in de bijlage bij dit besluit.
 
@@ -104,7 +126,7 @@ In dit besluit wordt verstaan onder:
 
 - b. de in het regionale projectplan omschreven activiteiten of het beoogde eindresultaat niet of onvoldoende worden gerealiseerd, dan wel eerder worden gerealiseerd dan in het regionale projectplan is aangegeven.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Zo spoedig mogelijk na de inwerkingtreding van dit besluit stelt Onze Minister in overeenstemming met Onze Minister van Justitie voor de jaren 1991 tot en met 1996 een meerjarenraming vast van de uitkeringen aan de gemeente, waarin per kalenderjaar wordt aangegeven het deel van de geraamde rijksbijdrage dat in het desbetreffende kalenderjaar aan de gemeente zal worden verstrekt.
 
@@ -114,7 +136,7 @@ In dit besluit wordt verstaan onder:
 
 4. Onze Minister stelt, na overleg met Onze Minister van Justitie, de meerjarenraming bij voor zover bijstelling op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=4&z=1993-04-23&g=1993-04-23) daartoe aanleiding geeft.
 
-#### Artikel 6
+##### Artikel 6
 
 Onze Minister stelt de burgemeester zo spoedig mogelijk op de hoogte van een besluit tot bijstelling als bedoeld in [artikel 4, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=4&z=1993-04-23&g=1993-04-23), en [artikel 5, derde of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=5&z=1993-04-23&g=1993-04-23).
 
@@ -122,7 +144,7 @@ Daarbij geeft Onze Minister aan welke wijzigingen als gevolg van het besluit tot
 
 #### § 3. De jaarlijkse uitkering
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onder voorbehoud van goedkeuring van de desbetreffende post van Hoofdstuk VII van de rijksbegroting door de Staten-Generaal, stelt Onze Minister voor 1 oktober de jaarlijkse uitkering per regio die aan een gemeente in het volgend kalenderjaar wordt verstrekt, voorlopig vast.
 
@@ -132,7 +154,7 @@ Daarbij geeft Onze Minister aan welke wijzigingen als gevolg van het besluit tot
 
 4. Onze Minister stelt de jaarlijkse uitkering over het voorafgaande kalenderjaar definitief vast na ontvangst van het financieel verantwoordingsverslag, bedoeld in [artikel 10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=3&artikel=10&z=1993-04-23&g=1993-04-23).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De jaarlijkse uitkering wordt in vier termijnen betaalbaar gesteld op onderscheidenlijk 1 februari, 1 mei, 1 augustus en 1 november.
 
@@ -140,11 +162,11 @@ Daarbij geeft Onze Minister aan welke wijzigingen als gevolg van het besluit tot
 
 3. Verrekeningen met de jaarlijkse uitkering in verband met wijzigingen, bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=3&artikel=7&z=1993-04-23&g=1993-04-23), vinden voor het gehele jaar waarvoor de jaarlijkse uitkering wordt toegekend, voor zover mogelijk plaats met de termijnbetaling van 1 november.
 
-#### Artikel 9
+##### Artikel 9
 
 De burgemeester beschikt over de jaarlijkse bijdrage voor de uitvoering van zijn taak, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0005911&paragraaf=2&artikel=4&z=1993-04-23&g=1993-04-23) van de Wet tijdelijke voorzieningen reorganisatie politiebestel, met inachtneming van het regionale projectplan.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Vóór 1 april zendt de burgemeester aan Onze Minister een financieel verantwoordingsverslag over de besteding van de jaarlijkse uitkering over het voorafgaande kalenderjaar, voorzien van een door een registeraccountant afgegeven verklaring.
 
@@ -158,27 +180,27 @@ De burgemeester beschikt over de jaarlijkse bijdrage voor de uitvoering van zijn
 
 #### § 4. De inrichting van de administratie
 
-#### Artikel 11
+##### Artikel 11
 
 De gemeente plaatst de inkomsten en de uitgaven die betrekking hebben op de rijksbijdrage op een aparte post van de begroting van de inkomsten en de begroting van de uitgaven.
 
-#### Artikel 12
+##### Artikel 12
 
 Indien een deel van de jaarlijkse uitkering niet tot besteding is gekomen, wordt dit deel door de gemeente gereserveerd.
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Uitkeringen die op grond van [artikel 237**b** van de Gemeentewet](onbekend) voor de inwerkingtreding van dit besluit aan de gemeente zijn verstrekt met het oog op de feitelijke integratie van de politie, maken deel uit van de rijksbijdrage.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het is geplaatst.
 
 2. Dit besluit vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit kan worden aangehaald als Besluit vergoeding reorganisatiekosten politie.
 

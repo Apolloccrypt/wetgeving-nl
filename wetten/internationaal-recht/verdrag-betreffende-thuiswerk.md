@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende thuiswerk"
 identifier: "BWBV0001554"
-categorie: "Internationaal recht"
-publicatiedatum: 2003-10-31
-laatste_update: 2003-10-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001554"
+country: "nl"
+rank: "verdrag"
+publication_date: "2003-10-31"
+last_updated: "2003-10-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001554"
+soort: "verdrag"
+stam_id: "10000615983"
+version_id: "10000635352"
+internal_id: "C10006988361"
+label_id: "10000616224"
+original_entry_into_force: "2003-10-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001554/2003-10-31/0"
+intitule_bron: "Trb.1996-329"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-10-31"
+intitule_published: "1996-12-05"
+intitule_in_force: "2003-12-10"
+intitule_status: "goed"
+original_publication: "Trb.1996-329"
+original_signed_date: "2002-10-31"
+original_published_date: "1996-12-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1996-329"
+entry_into_force_date: "2003-10-31"
+jci_1_3: "jci1.3:c:BWBV0001554&z=2003-10-31&g=2003-10-31"
+jci_1_0: "1.0:c:BWBV0001554&g=2003-10-31"
+citeertitel_status: "officieel"
+signed_date: "2002-10-31"
+entry_into_force: "2003-10-31"
 ---
-
 # Verdrag betreffende thuiswerk
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -24,7 +48,7 @@ Vastgesteld hebbend dat deze voorstellen de vorm dienen te krijgen van een inter
 
 neemt heden, de twintigste juni van het jaar negentienhonderd zesennegentig het volgende Verdrag aan, dat kan worden aangehaald als het Thuiswerkverdrag, 1996.
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -40,15 +64,15 @@ Voor de toepassing van dit Verdrag:
 
 - c. wordt onder „werkgever” verstaan: een natuurlijke persoon of een rechtspersoon, die, hetzij rechtstreeks, hetzij via een tussenpersoon, ongeacht het feit of in de nationale wetgeving wel of niet is voorzien in het bestaan van tussenpersonen, thuiswerk doet verrichten in het kader van zijn of haar zakelijke activiteiten.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Verdrag is van toepassing op alle personen die thuiswerk verrichten in de zin van artikel 1.
 
-#### Artikel 3
+##### Artikel 3
 
 Elk Lid dat dit Verdrag heeft bekrachtigd, dient een nationaal beleid inzake thuiswerk dat is gericht op verbetering van de omstandigheden van thuiswerkers te ontwikkelen, uit te voeren en regelmatig te herzien, na raadpleging van de meest representatieve werkgevers- en werknemersorganisaties en, indien bestaand, van organisaties die de belangen behartigen van thuiswerkers en organisaties van thuiswerkgevers.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het nationale beleid inzake thuiswerk dient zo veel mogelijk een gelijke behandeling van thuiswerkers en andere werknemers te bevorderen, waarbij rekening wordt gehouden met de speciale aard van thuiswerk en, waar van toepassing, met de voorwaarden die gelden voor hetzelfde of gelijksoortig werk dat wordt verricht in een onderneming.
 
@@ -70,37 +94,37 @@ Elk Lid dat dit Verdrag heeft bekrachtigd, dient een nationaal beleid inzake thu
 
 - h. bescherming van het moederschap.
 
-#### Artikel 5
+##### Artikel 5
 
 Het nationaal beleid inzake thuiswerk dient te worden uitgevoerd door middel van wet- en regelgeving, collectieve overeenkomsten, scheidsrechterlijke uitspraken, of op enige andere met de nationale praktijk verenigbare wijze.
 
-#### Artikel 6
+##### Artikel 6
 
 Gepaste maatregelen dienen te worden genomen om te bereiken dat in statistieken betreffende arbeid, voor zover mogelijk, thuiswerk mede wordt opgenomen.
 
-#### Artikel 7
+##### Artikel 7
 
 De nationale wet- en regelgeving inzake veiligheid en gezondheid op het werk is van toepassing op thuiswerk, rekening houdend met de speciale aard ervan en stelt de voorwaarden vast waaronder bepaalde soorten werk en het gebruik van bepaalde stoffen voor thuiswerk uit gezondheids- en veiligheidsoverwegingen kunnen worden verboden.
 
-#### Artikel 8
+##### Artikel 8
 
 Indien het is toegestaan gebruik te maken van tussenpersonen bij thuiswerk, worden de onderscheiden verantwoordelijkheden van werkgevers en tussenpersonen bepaald door wet- en regelgeving of door rechterlijke beslissingen, in overeenstemming met de nationale praktijk.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een met de nationale wetgeving en praktijk overeenstemmend systeem van inspectie dient de naleving van de wet- en regelgeving die van toepassing is op thuiswerk te verzekeren.
 
 2. Er dient te worden gezorgd voor gepaste maatregelen, indien nodig met inbegrip van strafmaatregelen, en de doeltreffende toepassing daarvan, in geval van overtreding van deze wet- en regelgeving.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Verdrag laat gunstiger bepalingen die van toepassing zijn op thuiswerkers krachtens andere internationale arbeidsverdragen onverlet.
 
-#### Artikel 11
+##### Artikel 11
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau en door hem geregistreerd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag is alleen verbindend voor de Leden van de Internationale Arbeidsorganisatie waarvan de bekrachtiging door de Directeur-Generaal van het Internationaal Arbeidsbureau is geregistreerd.
 
@@ -108,27 +132,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar, bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen, die hem door de Leden van de Organisatie zijn meegedeeld.
 
 2. Bij kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in artikel 102 van het Handvest der Verenigde Naties, van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.
 
-#### Artikel 16
+##### Artikel 16
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende gehele of gedeeltelijke herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -138,7 +162,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft echter in elk geval naar vorm en inhoud van kracht voor de leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 18
+##### Artikel 18
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

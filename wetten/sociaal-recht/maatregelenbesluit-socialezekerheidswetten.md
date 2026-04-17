@@ -1,13 +1,39 @@
 ---
-title: "Maatregelenbesluit socialezekerheidswetten"
+title: "Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)"
 identifier: "BWBR0022445"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022445"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022445"
+soort: "AMvB"
+stam_id: "9193353"
+version_id: "21954142"
+internal_id: "C31495451"
+label_id: "9172134"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022445/2026-01-01/0"
+intitule_bron: "Stb.2007-304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-08-23"
+intitule_published: "2007-08-30"
+intitule_in_force: "2007-08-30"
+intitule_status: "goed"
+original_publication: "Stb.2014-550"
+original_signed_date: "2014-12-16"
+original_published_date: "2014-12-23"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2014-550"
+entry_into_force_date: "2014-12-16"
+jci_1_3: "jci1.3:c:BWBR0022445&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0022445&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Maatregelenbesluit socialezekerheidswetten"
+signed_date: "2014-12-16"
+entry_into_force: "2014-12-16"
 ---
-
 # Besluit van 23 augustus 2007, houdende regels omtrent de hoogte en duur van de op te leggen administratieve maatregelen op grond van de socialezekerheidswetten (Maatregelenbesluit socialezekerheidswetten)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 2 juli 2007, nr. SV/R&S/07/21943;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Algemene begrippen
+##### Artikel 1. Algemene begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder:
 
 - q. SVB: Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&hoofdstuk=6).
 
-#### Artikel 2. Hoogte en duur van een maatregel
+##### Artikel 2. Hoogte en duur van een maatregel
 
 1. De hoogte en duur van een, op grond van de in [artikel 1, onderdelen b tot en met n](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, op te leggen maatregel wordt, met dien verstande dat de hoogte van de maatregel ten minste € 25 bedraagt, vastgesteld op:
 
@@ -92,7 +118,7 @@ In dit besluit wordt verstaan onder:
 
 9. Indien het niet nakomen van de verplichtingen, bedoeld in [artikel 2:32, tweede lid, onderdelen a en b, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:32), de jonggehandicapte niet in overwegende mate kan worden verweten, weigert het UWV de uitkering over een periode van ten hoogste 26 weken gedeeltelijk door het bedrag aan uitkering te halveren.
 
-#### Artikel 3. Eerste categorie
+##### Artikel 3. Eerste categorie
 
 De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met o](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de eerste categorie voor zover zij betrekking hebben op:
 
@@ -112,7 +138,7 @@ De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met o](http
 
 - h. het gevolg geven aan een verzoek om alle feiten en omstandigheden mede te delen of dit onverwijld uit eigen beweging te doen waarvan redelijkerwijs duidelijk is dat zij van invloed kunnen zijn op het recht op remigratievoorzieningen, het geldend maken van het recht op remigratievoorzieningen, de hoogte van de remigratievoorzieningen, of het bedrag dat wordt betaald, bedoeld in de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2a), [2b](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2b), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2b), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6a) en [11 van de RW](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=11).
 
-#### Artikel 4. Tweede categorie
+##### Artikel 4. Tweede categorie
 
 De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met h, j, k, l en m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de tweede categorie voor zover zij betrekking hebben op:
 
@@ -128,7 +154,7 @@ De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met h, j, k
 
 - f. het vergezeld laten gaan van de aanvraag van de uitkering van een re-integratieverslag, bedoeld in [artikel 34a, eerste lid, eerste zin, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=34a) en [artikel 65, eerste zin, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=65) dan wel het voldoen aan het verzoek tot verstrekken van het re-integratieverslag aan het UWV, bedoeld in [artikel 38, tweede lid, derde volzin van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=38).
 
-#### Artikel 5. Derde categorie algemeen
+##### Artikel 5. Derde categorie algemeen
 
 De verplichtingen, op grond van de in [artikel 1, onderdelen b tot en met d, f, g en m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de derde categorie voor zover zij betrekking hebben op:
 
@@ -144,7 +170,7 @@ De verplichtingen, op grond van de in [artikel 1, onderdelen b tot en met d, f, 
 
 - f. het opvolgen van door het UWV of de door hem daartoe aangewezen deskundige gegeven voorschriften in het belang van de behandeling of genezing of tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, bedoeld in de [artikelen 28, onderdeel a, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [46, onderdeel a, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=46) en [2:31, tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:31), en [3:38, onderdeel a, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:38).
 
-#### Artikel 6. Derde categorie aanvullend
+##### Artikel 6. Derde categorie aanvullend
 
 1. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=5&z=2026-01-01&g=2026-01-01) worden de verplichtingen op grond van de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de [IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394) ingedeeld in de derde categorie voor zover zij betrekking hebben op:
 
@@ -176,7 +202,7 @@ De verplichtingen, op grond van de in [artikel 1, onderdelen b tot en met d, f, 
 
 5. Onverminderd [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=5&z=2026-01-01&g=2026-01-01) wordt ingedeeld in de derde categorie de verplichting om het bestaan van arbeidsongeschiktheid of verminderde arbeidsgeschiktheid te beperken, bedoeld in [artikel 2:8, eerste lid, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:8).
 
-#### Artikel 7. Vierde categorie
+##### Artikel 7. Vierde categorie
 
 De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met h](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de vierde categorie voor zover zij betrekking hebben op:
 
@@ -188,37 +214,37 @@ De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met h](http
 
 - d. het, tijdens het tijdvak, bedoeld in [artikel 25, negende lid, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), zonder deugdelijke grond nalaten verweer te voeren tegen of instemmen met een beëindiging van de dienstbetrekking, bedoeld in [artikel 88, eerste lid, onderdeel d, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=88).
 
-#### Artikel 8. Recidive
+##### Artikel 8. Recidive
 
 1. Indien aan de belanghebbende een maatregel is opgelegd en binnen twee jaar na de bekendmaking daarvan opnieuw dezelfde verplichting niet of niet behoorlijk wordt nagekomen worden het percentage van de op te leggen maatregel alsmede het minimumbedrag, genoemd in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=2&z=2026-01-01&g=2026-01-01), met 50% verhoogd.
 
 2. Bij het niet nakomen van verplichtingen van de vijfde categorie, is het eerste lid niet van toepassing.
 
-#### Artikel 9. Samenloop
+##### Artikel 9. Samenloop
 
 Indien sprake is van het niet of niet behoorlijk nakomen van meer dan één verplichting, bedoeld in de [artikelen 3 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=3&z=2026-01-01&g=2026-01-01), en het niet nakomen van deze verplichtingen voortkomt uit één oorzaak wordt slechts één maatregel opgelegd, bij verschil die uit de hoogste categorie.
 
-#### Artikel 10. Overgangsrecht
+##### Artikel 10. Overgangsrecht
 
 Het [Maatregelenbesluit UWV](https://wetten.overheid.nl/jci1.3:c:BWBR0017084), het [Maatregelbesluit AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0007873), het [Maatregelbesluit Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0008018) en het [Maatregelbesluit AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0007870), zoals die luidden op de dag voorafgaande aan de dag van inwerkingtreding van dit besluit, blijven van toepassing op de niet, niet behoorlijke of niet tijdige nakoming van de desbetreffende verplichtingen, die voorafgaat aan 1 mei 2008.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 mei 2008.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Dit besluit wordt aangehaald als: Maatregelenbesluit socialezekerheidswetten.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a. Grondslag
+##### Artikel 10a. Grondslag
 
 Dit besluit is mede gebaseerd op [artikel 6aa, zesde lid, van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=6aa).
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a. Vijfde categorie
+##### Artikel 7a. Vijfde categorie
 
 De verplichtingen op grond van de in [artikel 1, onderdelen b tot en met g en i tot en met m](https://wetten.overheid.nl/jci1.3:c:BWBR0022445&artikel=1&z=2026-01-01&g=2026-01-01), genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de [artikelen 26, eerste lid, onderdeel a, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=26), [45, eerste lid, onderdeel r, van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=45), [28, onderdeel l, van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=28), [27, tweede lid, onderdeel f, van de Wet WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=27), [46, eerste lid, onderdeel k, van de WAZ](https://wetten.overheid.nl/jci1.3:c:BWBR0008656&artikel=46), [2:7, tweede lid, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=2:7), en [3:38, eerste lid, onderdeel k, van de Wajong](https://wetten.overheid.nl/jci1.3:c:BWBR0008657&artikel=3:38), [13, tweede lid, van de TW](https://wetten.overheid.nl/jci1.3:c:BWBR0004043&artikel=13), [15, derde lid, van de AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=15), [36, derde lid, van de Anw](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=36), [16, derde lid, van de AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368&artikel=16), en [15, onderdeel f, van de IOW](https://wetten.overheid.nl/jci1.3:c:BWBR0024394&artikel=15).
 

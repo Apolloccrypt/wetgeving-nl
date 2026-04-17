@@ -1,13 +1,39 @@
 ---
-title: "Besluit bewijzen van bevoegdheid voor de luchtvaart"
+title: "Besluit van 28 juli 1999, houdende regelen omtrent bewijzen van bevoegdheid, bevoegdverklaringen, medische verklaringen, autorisaties, erkenningen, kwalificaties en registraties (Besluit bewijzen van bevoegdheid voor de luchtvaart)"
 identifier: "BWBR0010629"
-categorie: "Milieu"
-publicatiedatum: 2026-01-09
-laatste_update: 2026-01-09
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010629"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-09"
+last_updated: "2026-01-09"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010629"
+soort: "AMvB"
+stam_id: "2827213"
+version_id: "22435382"
+internal_id: "C32200091"
+label_id: "2776444"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010629/2026-01-09/0"
+intitule_bron: "Stb.1999-346"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-07-28"
+intitule_published: "1999-08-19"
+intitule_in_force: "1999-09-30"
+intitule_status: "goed"
+original_publication: "Stb.2015-199"
+original_signed_date: "2015-05-22"
+original_published_date: "2015-06-04"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2015-199"
+entry_into_force_date: "2015-05-22"
+jci_1_3: "jci1.3:c:BWBR0010629&z=2026-01-09&g=2026-01-09"
+jci_1_0: "1.0:c:BWBR0010629&g=2026-01-09"
+citeertitel_status: "officieel"
+short_title: "Besluit bewijzen van bevoegdheid voor de luchtvaart"
+signed_date: "2015-05-22"
+entry_into_force: "2015-05-22"
 ---
-
 # Besluit van 28 juli 1999, houdende regelen omtrent bewijzen van bevoegdheid, bevoegdverklaringen, medische verklaringen, autorisaties, erkenningen, kwalificaties en registraties (Besluit bewijzen van bevoegdheid voor de luchtvaart)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Defensie van 5 maart 1999, nr. DGRLD/JBZ/L 99 210113, Directoraat-Generaal Rijksluchtvaartdienst;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -124,7 +150,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 1. Bewijzen van bevoegdheid en bevoegdverklaringen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan de volgende bewijzen van bevoegdheid afgeven:
 
@@ -150,11 +176,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 5. Een bewijs van bevoegdheid wordt afgegeven voor onbepaalde duur.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan houders van een RPL kan, onder de krachtens [artikel 2.2 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, één of meer van de volgende algemene bevoegdverklaringen worden afgegeven:
 
@@ -204,7 +230,7 @@ Vervallen
 
 5. De beperking, bedoeld in het vierde lid, onderdeel a, sub 2, en onderdeel b, sub 2, geldt niet indien op het RPA-L de algemene bevoegdverklaring nachtvliegen (RPA) is weergegeven en deze bevoegdheid, gelet op de daaraan verbonden beperkingen, mag worden uitgeoefend.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De RT, de VLOS en de EVLOS wordt afgegeven voor onbepaalde duur.
 
@@ -212,13 +238,13 @@ Vervallen
 
 3. De geldigheidsduur wordt, indien de bevoegdverklaring niet is afgegeven op de laatste dag van de maand van afgifte, berekend vanaf de eerste dag van de maand, volgend op de maand van afgifte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister stelt bijzondere bevoegdverklaringen naar type, klasse of werkzaamheden vast en de duur waarvoor zij worden afgegeven.
 
 2. Onze Minister kan beperkingen vaststellen waaronder bijzondere bevoegdverklaringen worden afgegeven.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De leeftijd, welke moet zijn bereikt om voor een bewijs van bevoegdheid in aanmerking te komen, bedraagt voor:
 
@@ -228,11 +254,11 @@ Vervallen
 
 2. De leeftijd, welke moet zijn bereikt om voor een instructeursbevoegdverklaring in aanmerking te komen, bedraagt 18 jaar.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 1. Met inachtneming van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) en [6](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=6&z=2026-01-09&g=2026-01-09) wordt het bewijs van bevoegdheid of de bevoegdverklaring op aanvraag afgegeven aan een ieder die:
 
@@ -250,11 +276,11 @@ Vervallen
 
 4. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3), worden vergoed.
 
-#### Artikel 9
+##### Artikel 9
 
 De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-09&g=2026-01-09), worden verlengd indien de houder van het bewijs van bevoegdheid op bij ministeriële regeling te bepalen wijze heeft aangetoond, dat hij zijn kennis, bedrevenheid en ervaring heeft behouden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het document waarop het bewijs van bevoegdheid en de bevoegdverklaring zijn weergegeven wordt afgegeven voor een periode van ten hoogste vijf jaar.
 
@@ -266,7 +292,7 @@ De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3
 
 5. Indien een document anders dan wegens verlies is vernieuwd, kan Onze Minister de houder opdragen het oorspronkelijke document binnen een week na de datum van verzending van het nieuwe document aan Onze Minister te zenden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. [Artikel 2.1, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1) is niet van toepassing op:
 
@@ -316,13 +342,13 @@ De bevoegdverklaringen, genoemd in [artikel 3](https://wetten.overheid.nl/jci1.3
 
 4. De [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1), voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in [artikel 3.13 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13), en [artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) zijn niet van toepassing op degene die een luchtvaartuig als bedoeld in het eerste lid bedient of een solovlucht als bedoeld in onderdeel k van dat lid uitvoert, en houder is van een door Onze Minister afgegeven certificaat waaruit blijkt, dat die houder bevoegd is tot het bedienen van een grondstation of mobiel station als bedoeld in [artikel 2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1).
 
-#### Artikel 12
+##### Artikel 12
 
 Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijzen van gelijkstelling. Deze regels omvatten in ieder geval bepalingen betreffende eisen inzake kennis, bedrevenheid, ervaring, leeftijd en medische geschiktheid.
 
 #### Paragraaf 2. De opleidingsinstelling
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onze Minister geeft nadere regels met betrekking tot de erkenning en registratie van een opleidingsinstelling. Deze regels omvatten in ieder geval bepalingen betreffende:
 
@@ -358,7 +384,7 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 #### Paragraaf 2. De opleidingsinstelling
 
-#### Artikel 14
+##### Artikel 14
 
 1. Als bewijs, dat wordt voldaan aan de eisen met betrekking tot de nodige kennis en bedrevenheid voor een bewijs van bevoegdheid als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=2&z=2026-01-09&g=2026-01-09) of een bevoegdverklaring als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=3&z=2026-01-09&g=2026-01-09) of [5](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=5&z=2026-01-09&g=2026-01-09), wordt met goed gevolg een examen afgelegd.
 
@@ -370,7 +396,7 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 5. Voor het verkrijgen van de algemene bevoegdverklaring LPE kan aan de eisen als bedoeld in het eerste lid tevens worden voldaan door het met goed gevolg afronden van een opleiding aan een door Onze Minister daartoe erkende opleidingsinstelling dan wel aan een door de bevoegde autoriteit van een door Onze Minister bij regeling aangewezen staat daartoe erkende opleidingsinstelling.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Onze Minister stelt het resultaat van het theorie- en praktijkexamen vast.
 
@@ -388,11 +414,11 @@ Onze Minister kan nadere regels geven met betrekking tot het afgeven van bewijze
 
 3. In afwijking van het eerste lid stelt het Centraal Bureau Rijvaardigheidsbewijzen het resultaat van het schriftelijke theorie-examen vast.
 
-#### Artikel 15a
+##### Artikel 15a
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 1. Onze Minister stelt een examenreglement vast.
 
@@ -440,11 +466,11 @@ Vervallen
 
 #### Paragraaf 1. Bewijzen van bevoegdheid en bevoegdverklaringen
 
-#### Artikel 17
+##### Artikel 17
 
 Onze Minister kan de bewijzen van bevoegdheid ASO onderscheidenlijk FISO afgeven.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Aan een houder van een ASO worden, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, één of meer van de volgende bevoegdverklaringen afgegeven:
 
@@ -484,11 +510,11 @@ Onze Minister kan de bewijzen van bevoegdheid ASO onderscheidenlijk FISO afgeven
 
 7. Een aantekening als bedoeld in het vierde lid, onderdeel e, kan worden afgegeven indien de houder van een ASO reeds beschikt over een geldige aantekening betreffende de taalvaardigheid op een ATCO of FISO met geldige eenheidsaantekening.
 
-#### Artikel 19
+##### Artikel 19
 
 De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-09&g=2026-01-09) bedraagt 18 jaar.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Met inachtneming van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=19&z=2026-01-09&g=2026-01-09) wordt een FISO en ASO op aanvraag verleend aan een ieder die:
 
@@ -502,7 +528,7 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 4. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3), worden vergoed.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Een FISO of een ASO en de bevoegdverklaring of aantekening bij de bevoegdverklaring wordt voor onbepaalde tijd afgegeven.
 
@@ -528,7 +554,7 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - c. 9 jaar, indien de aantekening taalvaardigheidsniveau 6 betreft.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring ADR voor het verkrijgen van een FISO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
 
@@ -542,11 +568,11 @@ De minimumleeftijd voor de afgifte van een bewijs van bevoegdheid als bedoeld in
 
 - b. een geldig ATCO met bevoegdverklaring APS of ACS of FISO met bevoegdverklaring AER met de aantekening RAD afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
 
-#### Artikel 23
+##### Artikel 23
 
 De [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1), voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in [artikel 3.13 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.13), en [artikel 2.2, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.2) zijn niet van toepassing op houders van een ASO voor het voeren van OPC.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onze Minister kan een bewijs van bevoegdheid vernieuwen, indien het is verloren of indien het onleesbaar, beschadigd of anderszins onbruikbaar is geworden.
 
@@ -556,23 +582,23 @@ De [artikelen 2.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&a
 
 #### Paragraaf 2. Opleiding en kwalificatie
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
@@ -580,7 +606,7 @@ Vervallen
 
 #### Paragraaf 3. Het examen
 
-#### Artikel 30
+##### Artikel 30
 
 1. Ten behoeve van een door Onze Minister, al dan niet onder beperkingen, af te geven medische verklaring wordt degene, die zulk een verklaring heeft aangevraagd, gekeurd door een geneeskundige of door een geneeskundige instantie.
 
@@ -606,7 +632,7 @@ Vervallen
 
 3. Onze Minister stelt de tarieven vast, volgens welke de kosten, als bedoeld in [artikel 2.3, zesde lid, onderdeel h](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.3) en [artikel 2.4, derde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.4) worden vergoed.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De geldigheidsduur van een medische verklaring als bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2026-01-09&g=2026-01-09) wordt bepaald overeenkomstig verordening (EU) nr. 1178/2011.
 
@@ -616,31 +642,31 @@ Vervallen
 
 #### Paragraaf 1. Keuring
 
-#### Artikel 32
+##### Artikel 32
 
 1. Ten behoeve van de beslissing op bezwaar tegen een beschikking met betrekking tot de medische verklaring of certificaat kan Onze Minister een Adviescommissie instellen.
 
 2. Bij elke volgende keuring wordt rekening gehouden met het advies van de Adviescommissie.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De Adviescommissie bestaat uit ten minste vijf leden, waaronder een voorzitter, die door Onze Minister worden benoemd voor een periode van 3 jaar en ontslagen.
 
 2. Van de leden van de Adviescommissie wordt ten minste één lid benoemd uit de kring van deskundigen met betrekking tot medische certificaten klasse 1, ten minste één lid uit de kring van deskundigen met betrekking tot medische certificaten klasse 2 en ten minste één lid uit de kring van deskundigen met betrekking tot medische verklaringen klasse 3.
 
-#### Artikel 34
+##### Artikel 34
 
 1. Onze Minister doet een ontvangen bezwaarschrift binnen een week aan de Adviescommissie toekomen.
 
 2. Onze Minister kan regels stellen met betrekking tot door de Adviescommissie in acht te nemen procedures.
 
-#### Artikel 35
+##### Artikel 35
 
 Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overblijvende leden de Adviescommissie met de bevoegdheden van de volledige Adviescommissie.
 
 ### Hoofdstuk 5. Schorsing
 
-#### Artikel 36
+##### Artikel 36
 
 1. Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in [artikel 2.5, eerste lid, onderdeel a of b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.5) genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.
 
@@ -648,11 +674,11 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 37
+##### Artikel 37
 
 In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=1&artikel=17&z=2026-01-09&g=2026-01-09) kan een luchtvaartstation tot 1 januari 2019 eveneens worden bediend, onderscheidenlijk vluchtinformatie eveneens worden verstrekt, door de houder van een geldig bewijs van bevoegdheid voor luchthaveninformatieverstrekker onderscheidenlijk een geldig bewijs van bevoegdheid voor vluchtinformatieverstrekker dat is afgegeven vóór 1 januari 2018.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Met uitzondering van diegene die in aanmerking komt voor een bewijs van bevoegdheid als bedoeld in [artikel 41, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2004-10-01&g=2004-10-01), wordt aan de houder van een geldig bewijs van bevoegdheid of bevoegdverklaring, zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=2&paragraaf=1&artikel=8&z=2004-10-01&g=2004-10-01), van dit besluit gestelde eisen, een nieuw bewijs van bevoegdheid of bevoegdverklaring afgegeven voor de nog lopende periode van onderscheidenlijk het bewijs van bevoegdheid of de bevoegdverklaring, met dien verstande dat:
 
@@ -698,23 +724,23 @@ In afwijking van [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&ho
 
 12. Bewijzen van bevoegdheid, bevoegdverklaringen, autorisaties en ontheffingen, die op grond van dit artikel zijn verstrekt danwel afgegeven kunnen, voor zover zij betrekking hebben op danwel samenhangen met het ATPL, CPL of PPL tot uiterlijk acht jaar na inwerkingtreding van het desbetreffende lid of onderdeel van dit artikel worden verlengd zonder dat behoeft te worden voldaan aan de bij of krachtens [artikel 41](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=6&artikel=41&z=2004-10-01&g=2004-10-01) van dit besluit gestelde eisen, na welk tijdstip zij komen te vervallen.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
-#### Artikel 41. Conversie
+##### Artikel 41. Conversie
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen, onderdelen daarvan, bewijzen van bevoegdheid, algemene of bijzondere bevoegdverklaringen verschillend kan worden vastgesteld.
 
-#### Artikel 43
+##### Artikel 43
 
 Dit besluit wordt aangehaald als: Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
@@ -724,7 +750,7 @@ Dit onderdeel is nog niet inwerking getreden
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. Voor het verzorgen van ASO- en FISO-opleidingen is een door Onze Minister goed te keuren opleidingenplan noodzakelijk.
 
@@ -742,7 +768,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij regeling van Onze Minister worden regels gesteld voor de afgifte van een tijdelijke machtiging als instructeur voor opleidingen op de werkplek of als assessor.
 
-#### Artikel 24b
+##### Artikel 24b
 
 Vervallen
 
@@ -756,7 +782,7 @@ Vervallen
 
 ### Hoofdstuk 4. Medische verklaring
 
-#### Artikel 41. Conversie
+##### Artikel 41. Conversie
 
 1. Aan degene die op grond van artikel 38 in aanmerking komt voor een ATPL of CPL in de categorie vliegtuigen wordt op verzoek voor de duur van dat bewijs een gelijkwaardig bewijs van bevoegdheid afgegeven op een document als bedoeld in Appendix 1 behorend bij JAR-FCL 1 075, indien hij aantoonbaar voldoet aan de eisen als bedoeld in Appendix 1 behorend bij JAR-FCL 1 005 en RT heeft behaald en geldig gehouden.
 
@@ -931,7 +957,7 @@ In de bovenstaande voetnoten zijn de omschrijvingen opgenomen van de algemene en
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust tevens op de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5), [2.9, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9), en [7.6 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=7.6).
 
@@ -949,7 +975,7 @@ Dit besluit berust tevens op de [artikelen 1.5](https://wetten.overheid.nl/jci1.
 
 #### Paragraaf 2. Opleiding en kwalificatie
 
-#### Artikel 24c
+##### Artikel 24c
 
 1. Met betrekking tot de certificering van FISO-opleidingen zijn de voorschriften bedoeld in verordening (EU) nr. 2015/340, Bijlage III, Deel ATCO.OR, subdelen A tot en met D, van overeenkomstige toepassing.
 
@@ -965,7 +991,7 @@ Dit besluit berust tevens op de [artikelen 1.5](https://wetten.overheid.nl/jci1.
 
 ### Hoofdstuk 5. Schorsing
 
-#### Artikel 43
+##### Artikel 43
 
 Dit besluit wordt aangehaald als: Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
@@ -1241,7 +1267,7 @@ Dit besluit wordt aangehaald als: Besluit bewijzen van bevoegdheid voor de lucht
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1b
+##### Artikel 1b
 
 Van overeenkomstige toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, zijn:
 
@@ -1269,7 +1295,7 @@ met dien verstande dat bij ministeriële regeling nadere regels kunnen worden ge
 
 #### Paragraaf 3. Het examen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -1329,7 +1355,7 @@ Verklarende afkortingenlijst:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1c
+##### Artikel 1c
 
 De aanvraag voor de afgifte van een bewijs van bevoegdheid of gerelateerde certificaten als bedoeld in hetgeen bij of krachtens de basisverordening is bepaald wordt ingediend bij Onze Minister, tenzij bij of krachtens de basisverordening of de wet een andere instantie is aangewezen.
 
@@ -1343,7 +1369,7 @@ De aanvraag voor de afgifte van een bewijs van bevoegdheid of gerelateerde certi
 
 #### Paragraaf 1. Bewijzen van bevoegdheid en bevoegdverklaringen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -1355,7 +1381,7 @@ Vervallen
 
 ### Hoofdstuk 5a. Uitvoering van internationale verplichtingen
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
@@ -1369,7 +1395,7 @@ Vervallen
 
 #### Paragraaf 2. Opleiding en kwalificatie
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -1423,7 +1449,7 @@ Verklarende afkortingenlijst:
 
 - **RAD:** bevoegdheid tot het verstrekken van advies en inlichtingen met behulp van primaire of secundaire radarapparatuur indien AER van toepassing is (Aerodrome Radar Control).
 
-#### Artikel 36a
+##### Artikel 36a
 
 De hoogte en de wijze van betaling van de vergoeding voor de kosten voor handelingen in het kader van de uitvoering van internationale overeenkomsten gesloten door de Europese Unie en internationale overeenkomsten gesloten door Nederland met derde landen, voor zover dit besluit hier niet reeds in voorziet, wordt bij ministeriële regeling vastgesteld.
 
@@ -1523,7 +1549,7 @@ Verklarende afkortingenlijst:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlagen in het Staatsblad zal worden geplaatst.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. Aan een houder van een FISO worden, nadat deze de desbetreffende opleiding met goed resultaat heeft gevolgd, één of meer van de volgende bevoegdverklaringen afgegeven:
 
@@ -1551,7 +1577,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Een aantekening als bedoeld in het derde lid, onderdeel e, kan worden afgegeven indien de houder van een FISO reeds beschikt over een geldige aantekening betreffende de taalvaardigheid op een ATCO met geldige eenheidsaantekening.
 
-#### Artikel 22a
+##### Artikel 22a
 
 1. De vereisten inzake kennis, bedrevenheid en ervaring behorende bij de basisopleiding en de opleiding voor de bevoegdverklaring ADR voor het verkrijgen van een ASO zijn niet van toepassing op personen die 24 maanden voor de datum van aanvraag in het bezit waren van:
 
@@ -1567,15 +1593,15 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - b. een geldig ATCO met bevoegdverklaring ADI, ADV en ADG afgegeven door Onze Minister van Defensie overeenkomstig [artikel 10.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=10.2).
 
-#### Artikel 22b
+##### Artikel 22b
 
 Vervallen
 
-#### Artikel 22c
+##### Artikel 22c
 
 Vervallen
 
-#### Artikel 22d
+##### Artikel 22d
 
 1. Onze Minister kan de aanvrager van een ASO, een FISO, of van bevoegdverklaringen of aantekeningen daarop toestaan dat de bevoegdheden door de aanvrager worden uitgeoefend gedurende een periode van maximaal acht weken na succesvolle afronding van de toepasselijke examen(s) en beoordeling(en), in afwachting van de afgifte van het ASO, het FISO, de bevoegdverklaring of de aantekening.
 
@@ -1583,11 +1609,11 @@ Vervallen
 
 3. Het eerste lid is niet van toepassing op tijdelijke machtigingen als bedoeld in [artikel 24a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010629&hoofdstuk=3&paragraaf=2&artikel=24a&z=2026-01-09&g=2026-01-09).
 
-#### Artikel 24d
+##### Artikel 24d
 
 Bij regeling van Onze Minister worden regels gesteld met betrekking tot de goedkeuring van beoordelingsprocedures waarmee de taalvaardigheid kan worden aangetoond alsmede met betrekking tot de eisen aan organisaties die de taalvaardigheid beoordelen.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -1601,7 +1627,7 @@ Vervallen
 
 ### Hoofdstuk 5a. Uitvoering van internationale verplichtingen en overige bepalingen
 
-#### Artikel 36b
+##### Artikel 36b
 
 Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.9) worden vergoed.
 
@@ -1615,7 +1641,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### Paragraaf 2. Opleiding en kwalificatie
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 

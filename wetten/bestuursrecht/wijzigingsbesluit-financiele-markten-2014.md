@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit financiële markten 2014"
+title: "Besluit van 6 december 2013 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2014)"
 identifier: "BWBR0034402"
-categorie: "Bestuursrecht"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034402"
+country: "nl"
+rank: "amvb"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034402"
+soort: "AMvB"
+stam_id: "12484913"
+version_id: "20993272"
+internal_id: "C30219121"
+label_id: "12455664"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034402/2014-01-01/0"
+intitule_bron: "Stb.2013-537"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-12-06"
+intitule_published: "2013-12-17"
+intitule_in_force: "2013-12-19"
+intitule_status: "goed"
+original_publication: "Stb.2013-537"
+original_signed_date: "2013-12-06"
+original_published_date: "2013-12-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-537"
+entry_into_force_date: "2014-01-01"
+jci_1_3: "jci1.3:c:BWBR0034402&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0034402&g=2014-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit financiële markten 2014"
+signed_date: "2013-12-06"
+entry_into_force: "2014-01-01"
 ---
-
 # Besluit van 6 december 2013 tot wijziging van het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft, het Besluit prudentiële regels Wft en enige andere besluiten op het terrein van de financiële markten (Wijzigingsbesluit financiële markten 2014)
 
 Op de voordracht van Onze Minister van Financiën van 16 juli 2013, FM/2013/1316M, directie Financiële Markten;
@@ -20,63 +46,63 @@ Gezien het nader rapport van Onze Minister van Financiën van 2 december 2013, F
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit accountantsopleiding 2013.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit bestuurlijke boetes financiële sector.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit marktmisbruik Wft.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit melding zeggenschap en kapitaalbelang in uitgevende instellingen Wft.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit prudentiële regels Wft.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit reikwijdtebepalingen Wft.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit toezicht accountantsorganisaties.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit toezicht financiële verslaggeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit uitvoering EU-verordeningen financiële markten.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Uitvoeringsbesluit Wet ter voorkoming van witwassen en financieren van terrorisme.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XV
+##### Artikel XV
 
 Dit besluit wordt aangehaald als: Wijzigingsbesluit financiële markten 2014.
 

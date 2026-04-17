@@ -1,20 +1,46 @@
 ---
-title: "Regeling EFRO doelstelling 2 programmaperiode 2007–2013"
+title: "Regeling van de Minister van Economische Zaken van 12 november 2007, nr. WJZ 7130350, houdende de Rijkscofinanciering voor EFRO-programma's 2007–2013 voor doelstelling 2"
 identifier: "BWBR0022831"
-categorie: "Overig"
-publicatiedatum: 2012-02-18
-laatste_update: 2012-02-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022831"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-02-18"
+last_updated: "2012-02-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022831"
+soort: "ministeriele-regeling"
+stam_id: "9279513"
+version_id: "18895142"
+internal_id: "C26361811"
+label_id: "9258144"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022831/2012-02-18/0"
+intitule_bron: "Stcrt.2007-222"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-12"
+intitule_published: "2007-11-15"
+intitule_in_force: "2007-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-19664"
+original_signed_date: "2011-10-26"
+original_published_date: "2011-11-02"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-19664"
+entry_into_force_date: "2011-10-26"
+jci_1_3: "jci1.3:c:BWBR0022831&z=2012-02-18&g=2012-02-18"
+jci_1_0: "1.0:c:BWBR0022831&g=2012-02-18"
+citeertitel_status: "officieel"
+short_title: "Regeling EFRO doelstelling 2 programmaperiode 2007–2013"
+signed_date: "2011-10-26"
+entry_into_force: "2011-10-26"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 november 2007, nr. WJZ 7130350, houdende de Rijkscofinanciering voor EFRO-programma's 2007–2013 voor doelstelling 2
 
 Gelet op artikel 56, derde lid, van de Kaderverordening 1083/2006, [artikelen 3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3), en [8, eerste lid, van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=8) en de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=2) en [3 van het Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=3);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=3) en [artikel 4 van het Besluit EFRO programmaperiode 2007–2013](https://wetten.overheid.nl/jci1.3:c:BWBR0022685&artikel=4), wordt aangewezen:
 
@@ -26,21 +52,21 @@ Als Europees Programma, bedoeld in [artikel 3, eerste lid](https://wetten.overhe
 
 - d. het Operationeel Programma voor Noord-Nederland (beschikkingsnummer C(2007)3725), op 27 juli 2007 goedgekeurd door de Europese Commissie.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bevoegdheid tot het nemen van besluiten op grond van deze regeling wordt gedelegeerd aan de managementautoriteit van het desbetreffende programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18).
 
 2. De managementautoriteit van het programma, genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18), kan op aanvraag subsidie verlenen aan degene die een project tot stand brengt dat past in dat programma.
 
-#### Artikel 3
+##### Artikel 3
 
 De managementautoriteit stelt de subsidieplafonds voor de rijkscofinanciering en Europese financiering voor de uitvoering van deze regeling vast en maakt deze bekend met inachtneming van [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42).
 
-#### Artikel 4
+##### Artikel 4
 
 De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voorkomend geval draagt de managementautoriteit zorg voor bekendmaking van het formulier met inachtneming van [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De managementautoriteit wijst de aanvraag af indien deze strekt tot het krachtens deze regeling subsidie verkrijgen ter hoogte van het geheel van de subsidiabele kosten van het project.
 
@@ -54,7 +80,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 4. De Minister kan ontheffing verlenen van het bepaalde in het eerste lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De managementautoriteit beslist afwijzend op een aanvraag indien:
 
@@ -66,7 +92,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 2. In aanvulling op het eerste lid maakt de managementautoriteit de criteria, bedoeld in artikel 65, onder a, van de Kaderverordening, als beleidsregel voor de toekenning van subsidie op grond van deze regeling bekend met inachtneming van [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De managementautoriteit verdeelt het beschikbare bedrag aan rijkscofinanciering en middelen uit het Europees Fonds voor Regionale Ontwikkeling op volgorde van binnenkomst van de aanvraag, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.
 
@@ -74,7 +100,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 3. Bij toepassing van het tweede lid maakt de managementautoriteit voorafgaand aan de aanvraagperiode de criteria die de rangschikking bepalen, de periode waarin de aanvraag kan worden ingediend en het voor die periode als deelplafond geldende subsidieplafond bekend met inachtneming van [artikel 3:42 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=3:42).
 
-#### Artikel 8
+##### Artikel 8
 
 1. De subsidieontvanger voert het project uit overeenkomstig het projectplan waarop de subsidieverlening betrekking heeft en voltooit het uiterlijk op het bij de verlening bepaalde tijdstip, behoudens schriftelijke ontheffing van de managementautoriteit voor het vertragen, het essentieel wijzigen of het stopzetten van het project.
 
@@ -84,7 +110,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 4. Aan een ontheffing als bedoeld in het eerste of tweede lid kunnen voorschriften worden verbonden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De subsidieontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem gemaakte en betaalde kosten, aangegane verplichtingen en verrichte betalingen en de eventueel aan het project toe te rekenen opbrengsten kunnen worden afgelezen gespecificeerd overeenkomstig de in [artikel 10, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=10&z=2012-02-18&g=2012-02-18), onderscheiden kostensoorten, met dien verstande dat ter zake van de kosten bedoeld in artikel 10, eerste lid, onder a, onderdeel 1° en tweede lid, een door middel van een inzichtelijke tijdschrijving controleerbare urenverantwoording per werknemer aanwezig dient te zijn.
 
@@ -98,7 +124,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 4. Aan een ontheffing als bedoeld in het derde lid kunnen voorschriften worden verbonden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Als subsidiabele kosten worden uitsluitend de volgende rechtstreeks aan het project toe te rekenen kosten in aanmerking genomen:
 
@@ -142,7 +168,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 6. Indien ter zake van de projectkosten of een deel daarvan reeds door een ander bestuursorgaan of de Europese commissie subsidie is verstrekt, wordt slechts een zodanig bedrag aan subsidie verstrekt, dat het totale bedrag aan subsidies niet meer bedraagt dan de totale waarde van projectkosten die voor deze subsidie in aanmerking komen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De managementautoriteit kan voorwaarden verbinden aan de subsidie.
 
@@ -150,7 +176,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 3. De managementautoriteit verbindt zodanig voorwaarden aan de subsidie dat de subsidieontvanger de voor hun taakvervulling nodige medewerking verleent aan de certificeringsautoriteit en de auditautoriteit.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Als toezichthouder op deze regeling worden aangewezen:
 
@@ -160,7 +186,7 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 2. De in het eerste lid aangewezen personen beschikken niet over de bevoegdheden genoemd in [artikelen 5:18](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:18) en [5:19 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:19).
 
-#### Artikel 13
+##### Artikel 13
 
 1. De managementautoriteit vermeldt in de subsidiebeschikking het bedrag dat krachtens deze regeling bij wijze van rijkscofinanciering wordt verleend.
 
@@ -182,19 +208,19 @@ De managementautoriteit kan een formulier vaststellen voor de aanvraag. In voork
 
 6. In aanvulling op het bedrag genoemd in het vierde lid, onder d, bedraagt de aanspraak op vergoeding van Rijkscofinanciering uit ’s Rijks kas voor de managementautoriteit van het programma Noord, € 38.600.000, voorzover deze middelen zijn ingezet in één van de vier centrale opgaven van het programma ‘Koers Noord: op weg naar pieken’.
 
-#### Artikel 14
+##### Artikel 14
 
 De in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=1&z=2012-02-18&g=2012-02-18) en [artikel 13, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=13&z=2012-02-18&g=2012-02-18), genoemde programma's worden ter inzage gelegd bij het Informatiecentrum van het Ministerie van Economische Zaken, Bezuidenhoutseweg 30, kamer 0.23, te Den haag.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiode 2007–2013.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Indien de subsidieontvanger kiest voor de loonkosten plus overhead systematiek, worden de volgende kosten in aanmerking genomen:
 
@@ -210,7 +236,7 @@ Deze regeling wordt aangehaald als: Regeling EFRO doelstelling 2 programmaperiod
 
 5. Bij toepassing van de integraal uurtarief systematiek is de tijdschrijving, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022831&artikel=9&z=2012-02-18&g=2012-02-18), sluitend.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Als procedure, bedoeld in artikel 19, vijfde lid, van de Uitvoeringsverordening, wordt vastgesteld de in de bij deze regeling behorende bijlage 1 opgenomen procedure.
 

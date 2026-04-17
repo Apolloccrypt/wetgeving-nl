@@ -1,13 +1,39 @@
 ---
-title: "Regeling ter voorkoming van witwassen en financieren van terrorisme BES"
+title: "Regeling houdende bepalingen ter uitvoering van bij en krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES gestelde regels (Regeling ter voorkoming van witwassen en financieren van terrorisme BES)"
 identifier: "BWBR0031611"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0031611"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0031611"
+soort: "ministeriele-regeling-BES"
+stam_id: "11744333"
+version_id: "19408952"
+internal_id: "C27235181"
+label_id: "11716904"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0031611/2022-01-01/0"
+intitule_bron: "Stcrt.2012-10828"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-05-25"
+intitule_published: "2012-06-04"
+intitule_in_force: "2012-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-10828"
+original_signed_date: "2012-05-25"
+original_published_date: "2012-06-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-10828"
+entry_into_force_date: "2012-07-01"
+jci_1_3: "jci1.3:c:BWBR0031611&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0031611&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling ter voorkoming van witwassen en financieren van terrorisme BES"
+signed_date: "2012-05-25"
+entry_into_force: "2012-07-01"
 ---
-
 # Regeling houdende bepalingen ter uitvoering van bij en krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES gestelde regels (Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Gelet op de [artikelen 2.3, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.3), [2.9, eerste lid, onderdelen b en d](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.9), [2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), [2.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.12), [3.3, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.3), [3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), [3.11, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.11), en [4.2, tweede en zevende lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2);
@@ -16,19 +42,19 @@ Besluiten:
 
 Treedt in werking op het tijdstip waarop Wet ter voorkoming van witwassen en financieren van terrorisme BES in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824).
 
-#### Artikel 2
+##### Artikel 2
 
 Het bedrag bedoeld in [artikel 2.3, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.3) wordt voor de diensten, bedoeld in de onderdelen f en m van [bijlage A bij de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld op USD 11.000, voor de diensten, bedoeld in onderdeel j van die bijlage, op USD 3.000, en voor de overige diensten, bedoeld in die bijlage, op nihil.
 
-#### Artikel 3
+##### Artikel 3
 
 Als land in de zin van [artikelen 2.10, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), en [3.11, eerste lid, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.11) worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als documenten op basis waarvan kan worden voldaan aan [artikel 2.12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.12) voor de verificatie van de identiteit van natuurlijke personen worden aangewezen:
 
@@ -62,7 +88,7 @@ Als land in de zin van [artikelen 2.10, tweede lid, onderdeel c](https://wetten.
 
 - b. van alle gemachtigden en vertegenwoordigers: de naam, de geboortedatum en het document aan de hand waarvan identificatie heeft plaatsgevonden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een verzoek tot verstrekking van gegevens op grond van [artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13) wordt gericht aan de officier van justitie die door de Minister van Veiligheid en Justitie is aangewezen als de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding.
 
@@ -76,11 +102,11 @@ Als land in de zin van [artikelen 2.10, tweede lid, onderdeel c](https://wetten.
 
 4. Het Meldpunt verstrekt gegevens op grond van [artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0023086&artikel=2:13) niet voor zover naar het oordeel van de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding belangen inzake de opsporing zich daartegen verzetten.
 
-#### Artikel 6
+##### Artikel 6
 
 De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=3.4), worden met betrekking tot transacties in verband met het afnemen van de diensten, bedoeld in [bijlage A van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A), vastgesteld zoals opgenomen in [bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=A&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De risicofactoren, bedoeld in [artikel 2.5, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.5), worden vastgesteld zoals opgenomen in [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=B&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
@@ -88,27 +114,27 @@ De indicatoren, bedoeld in [artikel 3.4 van de wet](https://wetten.overheid.nl/j
 
 3. De risicofactoren, bedoeld in [artikel 2.10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=2.10), worden vastgesteld zoals opgenomen in [bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=D&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Het model voor het aangifteformulier voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in de [artikelen 4.2, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), en [4.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), is vastgesteld overeenkomstig de bij deze regeling behorende [bijlage E](https://wetten.overheid.nl/jci1.3:c:BWBR0031611&bijlage=E&z=2022-01-01&g=2022-01-01), waarbij naar keuze gebruik kan worden gemaakt van de Nederlandstalige, de Engelstalige, de Papiamentstalige of de Spaanstalige versie van het formulier.
 
-#### Artikel 10
+##### Artikel 10
 
 Van de [artikelen 4.2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.2), en [4.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&artikel=4.3), zijn vrijgesteld beroepsvervoerders voor zover zij geld transporteren in opdracht van De Nederlandsche Bank N.V.
 
-#### Artikel 11
+##### Artikel 11
 
 Het bedrag bedoeld in [bijlage A, deel I, onderdeel m, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030824&bijlage=A) wordt bepaald op nihil.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030824) in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Regeling ter voorkoming van witwassen en financieren van terrorisme BES.
 

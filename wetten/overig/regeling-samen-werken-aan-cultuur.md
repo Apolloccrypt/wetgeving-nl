@@ -1,13 +1,35 @@
 ---
 title: "Regeling Samen werken aan cultuur"
 identifier: "BWBR0050887"
-categorie: "Overig"
-publicatiedatum: 2025-03-27
-laatste_update: 2025-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050887"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-03-27"
+last_updated: "2025-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050887"
+soort: "zbo"
+stam_id: "17391873"
+version_id: "30660792"
+internal_id: "C43958341"
+label_id: "17295334"
+dtd_version: "2.0"
+original_entry_into_force: "2025-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050887/2025-03-27/0"
+intitule_bron: "Stcrt.2025-10413"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-03-26"
+intitule_in_force: "2025-03-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-10413"
+original_published_date: "2025-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-10413"
+entry_into_force_date: "2025-03-27"
+jci_1_3: "jci1.3:c:BWBR0050887&z=2025-03-27&g=2025-03-27"
+jci_1_0: "1.0:c:BWBR0050887&g=2025-03-27"
+citeertitel_status: "officieel"
+entry_into_force: "2025-03-27"
 ---
-
 # Regeling Samen werken aan cultuur
 
 gelet op [artikel 10, vierde lid, van de **Wet op het specifiek cultuurbeleid**](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
@@ -22,7 +44,7 @@ besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Gebruikte begrippen
+##### Artikel 1.1. Gebruikte begrippen
 
 In deze regeling worden onderstaande begrippen gebruikt.
 
@@ -66,11 +88,11 @@ In deze regeling worden onderstaande begrippen gebruikt.
 
 - t. **Subsidieplafond:** het totaalbedrag binnen een regeling, hoofdstuk of paragraaf dat het Fonds beschikbaar heeft om toe te kennen aan aanvragers.
 
-#### Artikel 1.2. Doel van de regeling
+##### Artikel 1.2. Doel van de regeling
 
 Met deze regeling stimuleert het Fonds cross-sectorale samenwerkingsprojecten op basis van cultuurbeoefening. De samenwerking is tussen professionals of instellingen uit de culturele sector met een partner in een andere sector om met de deelnemers een positieve bijdrage te leveren aan een maatschappelijke opgave.
 
-#### Artikel 1.3. Subsidieplafond en flexibiliteit
+##### Artikel 1.3. Subsidieplafond en flexibiliteit
 
 1. Het Fonds kan besluiten de subsidieplafonds te wijzigen. Deze wijzigingen kunnen ook op specifieke categorieën van projecten zijn of gelden voor bepaalde tijdvakken, thema’s, doelgroepen en regio’s.
 
@@ -78,7 +100,7 @@ Met deze regeling stimuleert het Fonds cross-sectorale samenwerkingsprojecten op
 
 3. Een besluit op grond van het eerste of tweede lid wordt gepubliceerd op de website van het Fonds.
 
-#### Artikel 1.4. Algemene weigeringsgronden
+##### Artikel 1.4. Algemene weigeringsgronden
 
 1. Het Fonds weigert subsidie als:
 
@@ -112,7 +134,7 @@ Met deze regeling stimuleert het Fonds cross-sectorale samenwerkingsprojecten op
 
 4. Het Fonds kan weigeren om subsidie te verstrekken als de aanvraag op enige wijze niet in overeenstemming is met de regeling.
 
-#### Artikel 1.5. Voorwaarden
+##### Artikel 1.5. Voorwaarden
 
 1. Alleen kosten die direct verband houden met het project komen in aanmerking voor subsidiëring.
 
@@ -126,7 +148,7 @@ Met deze regeling stimuleert het Fonds cross-sectorale samenwerkingsprojecten op
 
 3. Aanvragers gevestigd in het Caribisch deel van het Koninkrijk kunnen de benodigde kosten voor het omwisselen van valuta voor het uitvoeren van het project opnemen in de subsidieaanvraag.
 
-#### Artikel 1.6. Verplichtingen
+##### Artikel 1.6. Verplichtingen
 
 1. Met deelname aan deze regeling geeft de aanvrager toestemming aan het Fonds om gegevens uit de aanvraag en de eventuele verantwoording in te zetten voor kennisdeling en onderzoeksdoeleinden. Als het ten dienste staat aan het behalen van de doelstelling van de regeling, kan het Fonds de aanvrager verplichten tot deelname aan een bijeenkomst of begeleidingstraject.
 
@@ -156,7 +178,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 7. De activiteiten van de aanvrager zijn toegankelijk voor mensen met speciale behoeften. Daaronder vallen in ieder geval mensen met een beperkte mobiliteit.
 
-#### Artikel 1.7. Verplichtingen voor het indienen
+##### Artikel 1.7. Verplichtingen voor het indienen
 
 1. Aanvragen worden ingediend via een volledig ingevuld digitaal aanvraagformulier in de online aanvraagomgeving Mijn Fonds, via de website van het Fonds.
 
@@ -168,7 +190,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 - c. een door beide partijen ondertekende samenwerkingsovereenkomst.
 
-#### Artikel 1.8. Beoordeling van aanvragen
+##### Artikel 1.8. Beoordeling van aanvragen
 
 1. Het Fonds beoordeelt de aanvragen overeenkomstig de regeling.
 
@@ -188,7 +210,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 9. Op de aanvraag wordt binnen uiterlijk dertien weken beslist.
 
-#### Artikel 1.9. Voorschotten
+##### Artikel 1.9. Voorschotten
 
 1. Voor subsidie tot en met € 25.000 en die niet direct wordt vastgesteld, verleent het Fonds een voorschot van 100% van het subsidiebedrag.
 
@@ -200,7 +222,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 5. Het Fonds kan de bevoorschotting, al dan niet tijdelijk, stoppen als aanvragers hun subsidieverplichtingen onvoldoende nakomen. Dat kan het Fonds ook doen wanneer de omstandigheden zodanig zijn veranderd dat het aannemelijk is dat de activiteiten of projecten niet op dezelfde manier kunnen worden voortgezet.
 
-#### Artikel 1.10. Verantwoording en vaststelling
+##### Artikel 1.10. Verantwoording en vaststelling
 
 1. Subsidieontvangers die achteraf verantwoording dienen af te leggen over de activiteiten of projecten, doen dit door middel van een activiteitenverslag en een financieel verslag.
 
@@ -210,7 +232,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 2.1. Doel en effecten
+##### Artikel 2.1. Doel en effecten
 
 1. Met de bepalingen in dit hoofdstuk stimuleert het Fonds projecten die gericht zijn op het bereiken van de volgende effecten:
 
@@ -226,7 +248,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 - b. Ontwikkelen: projecten, zoals bedoeld in [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050887&hoofdstuk=2&paragraaf=3&z=2025-03-27&g=2025-03-27), die tenminste twee van de drie genoemde effecten bereiken.
 
-#### Artikel 2.2. Wie kan aanvragen?
+##### Artikel 2.2. Wie kan aanvragen?
 
 1. Subsidie op grond van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0050887&hoofdstuk=2&paragraaf=2&z=2025-03-27&g=2025-03-27) van dit hoofdstuk kan uitsluitend worden aangevraagd door een in het Koninkrijk der Nederlanden gevestigde culturele instelling of professional in de culturele sector die een cross-sectoraal samenwerkingsproject uitvoert met een partij uit een andere sector.
 
@@ -234,7 +256,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Een aanvrager heeft via deze regeling één gehonoreerde aanvraag tegelijk in uitvoering.
 
-#### Artikel 2.3. Indieningstermijnen
+##### Artikel 2.3. Indieningstermijnen
 
 1. Op de eerste maandag drie maanden na de publicatie in de Staatscourant, opent de regeling om 13:00 uur voor aanvragen. De precieze datum wordt op de website van het Fonds vermeld. De regeling sluit op 31 mei 2028 om 13:00. De tijdsaanduiding is de tijd die geldt in het Europees deel van Nederland.
 
@@ -242,7 +264,7 @@ Het Fonds kan bij besluit van deze termijnen afwijken.
 
 3. Het Fonds kan afwijken van de indieningstermijnen in het eerste lid. Als dat gebeurt, worden de afwijkende indieningstermijnen op de website van het Fonds gepubliceerd.
 
-#### Artikel 2.4. Beoordelingscriteria
+##### Artikel 2.4. Beoordelingscriteria
 
 Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de toelichting is uiteengezet op welke wijze die worden getoetst:
 
@@ -252,7 +274,7 @@ Aanvragen worden beoordeeld aan de hand van de volgende criteria, waarvan in de 
 
 #### Paragraaf 2. Proberen
 
-#### Artikel 2.5. Waarvoor kan worden aangevraagd
+##### Artikel 2.5. Waarvoor kan worden aangevraagd
 
 Subsidie in paragraaf 2 kan worden aangevraagd:
 
@@ -262,7 +284,7 @@ Subsidie in paragraaf 2 kan worden aangevraagd:
 
 - 3. Een aanvrager kan per samenwerkingspartner, en per sector één keer gehonoreerd worden voor een aanvraag in deze paragraaf.
 
-#### Artikel 2.6. Hoogte van de subsidie
+##### Artikel 2.6. Hoogte van de subsidie
 
 Voor een project paragraaf 2:
 
@@ -270,7 +292,7 @@ Voor een project paragraaf 2:
 
 - 2. bedraagt de subsidie maximaal 80% van de totale projectkosten als de aanvrager in het Europees deel van het Koninkrijk gevestigd is en maximaal 100% van de totale projectkosten als de aanvrager in het Caribisch deel van het Koninkrijk gevestigd is.
 
-#### Artikel 2.7. Subsidieplafond
+##### Artikel 2.7. Subsidieplafond
 
 1. Het subsidieplafond voor projecten in paragraaf 2 is € 582.954 per kalenderjaar.
 
@@ -280,7 +302,7 @@ Voor een project paragraaf 2:
 
 #### Paragraaf 3. Ontwikkelen
 
-#### Artikel 2.8. Waarvoor kan worden aangevraagd?
+##### Artikel 2.8. Waarvoor kan worden aangevraagd?
 
 Subsidie in paragraaf 3 kan worden aangevraagd:
 
@@ -288,7 +310,7 @@ Subsidie in paragraaf 3 kan worden aangevraagd:
 
 - 2. Een project in paragraaf 3 heeft een looptijd van 12 tot maximaal 24 maanden.
 
-#### Artikel 2.9. Hoogte van de subsidie
+##### Artikel 2.9. Hoogte van de subsidie
 
 Voor een project in paragraaf 3:
 
@@ -296,7 +318,7 @@ Voor een project in paragraaf 3:
 
 - 2. bedraagt de subsidie maximaal 50% van de totale projectkosten als de aanvrager is gevestigd in het Europees deel van Nederland; voor een aanvrager die gevestigd is in het Caribisch deel van het Koninkrijk is dat maximaal 80%.
 
-#### Artikel 2.10. Subsidieplafond
+##### Artikel 2.10. Subsidieplafond
 
 1. Het subsidieplafond voor projecten in paragraaf 3 is € 3.305.613 per kalenderjaar.
 
@@ -306,16 +328,16 @@ Voor een project in paragraaf 3:
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Hardheidsclausule
+##### Artikel 3.1. Hardheidsclausule
 
 Het Fonds kan afwijken van de rechten en plichten in deze regeling. Dat kan alleen in het voordeel van de aanvrager en in bijzondere gevallen die een onredelijke uitwerking hebben waarmee geen rekening is gehouden bij het opstellen van deze regeling.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd.
 
 2. Deze regeling vervalt met ingang van 31 december 2033. Deze regeling blijft van toepassing op bezwaar- en beroepsprocedures die op dat moment nog niet zijn afgerond.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Samen werken aan cultuur

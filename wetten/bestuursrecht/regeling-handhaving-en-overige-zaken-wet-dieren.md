@@ -1,13 +1,39 @@
 ---
-title: "Regeling handhaving en overige zaken Wet dieren"
+title: "Regeling van de Minister van Economische Zaken van 12 december 2012 , nr. WJZ/12363115, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Regeling handhaving en overige zaken Wet dieren)"
 identifier: "BWBR0032523"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032523"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032523"
+soort: "ministeriele-regeling"
+stam_id: "11974833"
+version_id: "27700282"
+internal_id: "C39079891"
+label_id: "11946734"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032523/2026-01-01/0"
+intitule_bron: "Stcrt.2012-26383"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-17794"
+original_signed_date: "2021-04-12"
+original_published_date: "2021-04-16"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-17794"
+entry_into_force_date: "2021-04-21"
+jci_1_3: "jci1.3:c:BWBR0032523&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0032523&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling handhaving en overige zaken Wet dieren"
+signed_date: "2021-04-12"
+entry_into_force: "2021-04-21"
 ---
-
 # Regeling van de Minister van Economische Zaken van 12 december 2012 , nr. WJZ/12363115, houdende regels met betrekking tot de handhaving van de Wet dieren en enige andere aangelegenheden met betrekking tot die wet (Regeling handhaving en overige zaken Wet dieren)
 
 Gelet op [artikel 2.2, eerste lid, van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=2.2) en [artikel 120b van de Gezondheids- en welzijnswet voor dieren;](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=120b)
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 1. In deze regeling wordt verstaan onder:
 
@@ -130,13 +156,13 @@ Besluit:
 
 2. Deze regeling berust mede op de [artikelen 6.2](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2), [6.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.4), [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.1), [7.2, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.2), [7.3, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.3), [7.6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=7.6), [8.8, van de Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=8.8) en [artikel 2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=2.2), en [artikel 4.9 van het Besluit handhaving en overige zaken Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=4.9).
 
-#### Artikel 1.2. Indeling categorieën bestuurlijke boete
+##### Artikel 1.2. Indeling categorieën bestuurlijke boete
 
 De hoogte van de bestuurlijke boete, bedoeld in [artikel 2.2, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0032334&artikel=2.2), wordt vastgesteld overeenkomstig de bedragen die horen bij de boetecategorieën die in de bijlage bij deze regeling voor desbetreffende overtredingen zijn vastgelegd.
 
 ### Hoofdstuk 1a. Registers
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 In dit hoofdstuk wordt verstaan onder:
 
@@ -146,7 +172,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 - **verordening (EG) nr. 1099/2009:** [Verordening (EG) nr. 1099/2009](32009R1099) van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303).
 
-#### Artikel 2.3
+##### Artikel 2.3
 
 1. In het verzoek om een beoordeling specificeert de verzoeker de artikelen van verordening, wet, besluit of regeling, die in de betrokken nationale gids voor goede praktijken worden ingevuld, geïnterpreteerd of uitgewerkt. In het verzoek wordt de gegeven invulling, interpretatie of uitwerking onderbouwd.
 
@@ -158,7 +184,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. De verzoeker verschaft voorts de gegevens en bescheiden die voor de beoordeling nodig zijn.
 
-#### Artikel 2.4
+##### Artikel 2.4
 
 1. De minister beoordeelt of de nationale gidsen voor goede praktijken kunnen bijdragen aan de naleving van het bij of krachtens de [Wet dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0030250) bepaalde.
 
@@ -166,7 +192,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Nationale gidsen als bedoeld in [verordening (EG) nr. 852/2004](32004R0852), worden slechts beoordeeld voor zover deze betrekking hebben op exploitanten van levensmiddelenbedrijven als bedoeld in sectie I tot en met IV van bijlage III van [verordening (EG) nr. 853/2004](32004R0853).
 
-#### Artikel 2.5
+##### Artikel 2.5
 
 1. De minister geeft zijn beoordeling binnen vier maanden na ontvangst van het verzoek en maakt deze bekend.
 
@@ -174,15 +200,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 3. Indien niet langer wordt voldaan aan de voorwaarden bedoeld in [artikel 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=2&artikel=2.4&z=2026-01-01&g=2026-01-01), trekt de minister de beoordeling in en doet hij daarvan mededeling.
 
-#### Artikel 2.6
+##### Artikel 2.6
 
 Voor de behandeling van een verzoek om een beoordeling is aan de minister een bedrag verschuldigd van € 500,–.
 
-#### Artikel 2.7. Citeertitel
+##### Artikel 2.7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling handhaving en overige zaken Wet dieren.
 
-#### Artikel 2.8. Inwerkingtreding
+##### Artikel 2.8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
@@ -471,13 +497,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 #### § 1. Aanwijzing registers
 
-#### Artikel 1.3. Begripsbepalingen
+##### Artikel 1.3. Begripsbepalingen
 
 In deze paragraaf wordt verstaan onder:
 
 - –. **persoonsgegevens, verwerking, verwerkingsverantwoordelijke, betrokkene onderscheidenlijk verwerker:** hetgeen daaronder wordt verstaan in artikel 4 van de Algemene verordening gegevensbescherming;
 
-#### Artikel 1.4. Toepassingsbereik
+##### Artikel 1.4. Toepassingsbereik
 
 1. De [artikelen 1.5 tot en met 1.11](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2026-01-01&g=2026-01-01) zijn van toepassing op de aanwijzing van een register, bedoeld in [artikel 1.27, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.27).
 
@@ -485,7 +511,7 @@ In deze paragraaf wordt verstaan onder:
 
 3. De [artikelen 1.5 tot en met 1.10](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.5&z=2026-01-01&g=2026-01-01) en [1.11b](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11b&z=2026-01-01&g=2026-01-01) zijn van toepassing op de aanwijzing van een elektronisch portaal, bedoeld in de [artikelen 5b.62](onbekend) en [5b.68 van de Regeling houders van dieren](onbekend).
 
-#### Artikel 1.5. Aanvraag tot aanwijzing register
+##### Artikel 1.5. Aanvraag tot aanwijzing register
 
 1. Een aanvraag tot aanwijzing wordt ingediend bij de minister.
 
@@ -495,7 +521,7 @@ In deze paragraaf wordt verstaan onder:
 
 - b. een verklaring dat een bewerkersovereenkomst en een gegevensleveringsovereenkomst wordt gesloten, indien het register wordt aangewezen.
 
-#### Artikel 1.6. Voorwaarden voor aanwijzing register
+##### Artikel 1.6. Voorwaarden voor aanwijzing register
 
 Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), vindt plaats, indien:
 
@@ -511,7 +537,7 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 - f. de beheerder van het register zorg draagt voor de kwaliteit van de gegevens.
 
-#### Artikel 1.7. Aanvullende bepalingen aangewezen register
+##### Artikel 1.7. Aanvullende bepalingen aangewezen register
 
 1. De beheerder van een aangewezen register:
 
@@ -525,7 +551,7 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 3. Indien de beheerder van een register meent dat de gegevens van degene die de gegevens meldt correct zijn vastgelegd, maar deze persoon dit standpunt bestrijdt, registreert de beheerder dat de degene die gegevens heeft gemeld zijn gegevens als niet correct beschouwt.
 
-#### Artikel 1.8. Privacywetgeving
+##### Artikel 1.8. Privacywetgeving
 
 1. De minister is verwerkingsverantwoordelijke voor de verwerking van persoonsgegevens in het register.
 
@@ -537,11 +563,11 @@ Een aanwijzing als bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:
 
 5. De beheerder van het register stelt de minister te allen tijde kosteloos in de gelegenheid alle benodigde controles, gericht op de uitvoering van deze paragraaf en de naleving van de Algemene verordening gegevensbescherming en andere privacywetgeving, uit te voeren of uit te doen voeren.
 
-#### Artikel 1.9. Onvoorziene situatie
+##### Artikel 1.9. Onvoorziene situatie
 
 De beheerder van een register die vanwege een onvoorziene situatie niet kan voldoen aan de [artikelen 1.6 tot en met 1.8](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.6&z=2026-01-01&g=2026-01-01) stelt de minister daarvan onverwijld op de hoogte.
 
-#### Artikel 1.10. Intrekking, schorsing of beëindiging aanwijzing
+##### Artikel 1.10. Intrekking, schorsing of beëindiging aanwijzing
 
 1. De minister kan de aanwijzing, bedoeld in [artikel 1.4](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), intrekken of schorsen, indien de beheerder van een aangewezen register niet voldoet aan de voorwaarden, bedoeld in de [artikelen 1.7 tot en met 1.9](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.7&z=2026-01-01&g=2026-01-01).
 
@@ -551,7 +577,7 @@ De beheerder van een register die vanwege een onvoorziene situatie niet kan vold
 
 - b. verleent de beheerder van het register alle medewerking aan de minister of de beheerder van een ander aangewezen register ter zake van de overdracht van de werkzaamheden inzake de verwerking van de gegevens.
 
-#### Artikel 1.11. Aanvullende bepalingen melding diergeneesmiddelen
+##### Artikel 1.11. Aanvullende bepalingen melding diergeneesmiddelen
 
 1. De gegevens, bedoeld in [artikel 3.3 van de Regeling houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035248&artikel=3.3) en [artikel 5.11 van de Regeling diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035238&artikel=5.11), die worden gemeld in een register als bedoeld in [artikel 1.4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), worden verwerkt met als doel het in het belang van de bescherming van diergezondheid en volksgezondheid verkrijgen van inzicht in de aflevering, toepassing en ontvangst van diergeneesmiddelen, het hiermee bevorderen van een verantwoord en weloverwogen gebruik van diergeneesmiddelen en een effectief systeem van toezicht op en handhaving van de regelgeving.
 
@@ -569,7 +595,7 @@ De beheerder van een register die vanwege een onvoorziene situatie niet kan vold
 
 #### § 2. Goedkeuring tarieven registers
 
-#### Artikel 1.12. Toepassingsbereik
+##### Artikel 1.12. Toepassingsbereik
 
 Deze paragraaf is van toepassing op tarieven voor:
 
@@ -579,7 +605,7 @@ Deze paragraaf is van toepassing op tarieven voor:
 
 - c. een vergoeding van de kosten voor het registreren en verwerken van de gegevens als bedoeld in de [artikelen 5b.62](onbekend) en [5b.68 van de Regeling houders van dieren](onbekend).
 
-#### Artikel 1.13. Goedkeuring tarieven registers
+##### Artikel 1.13. Goedkeuring tarieven registers
 
 1. De goedkeuring van tarieven voor een vergoeding als bedoeld in [artikel 1.12](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=2&artikel=1.12&z=2026-01-01&g=2026-01-01), wordt onthouden indien de tarieven hoger zijn dan noodzakelijk, uitgaande van een redelijke toerekening van de totale kosten en opbrengsten, waarbij de vergoeding van de werkzaamheden waarvoor een register is aangewezen niet meer bedraagt dan de kosten die de beheerder maakt bij de uitvoering van die werkzaamheden.
 
@@ -915,37 +941,37 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 ### Hoofdstuk 2. : Gidsen voor goede praktijken
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 Een verzoek om een beoordeling wordt ingediend met gebruikmaking van een middel dat door de minister beschikbaar wordt gesteld.
 
 ### Hoofdstuk 3. : Overige bepalingen
 
-#### Artikel 3.1. Wijziging [Regeling bestuurlijke boetes GWWD](https://wetten.overheid.nl/jci1.3:c:BWBR0028149)
+##### Artikel 3.1. Wijziging [Regeling bestuurlijke boetes GWWD](https://wetten.overheid.nl/jci1.3:c:BWBR0028149)
 
 Wijzigt de Regeling bestuurlijke boetes GWWD.
 
-#### Artikel 3.3. Wijziging [Regeling tijdelijke maatregelen dierziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0022975)
+##### Artikel 3.3. Wijziging [Regeling tijdelijke maatregelen dierziekten](https://wetten.overheid.nl/jci1.3:c:BWBR0022975)
 
 Wijzigt de Regeling tijdelijke maatregelen dierziekten.
 
-#### Artikel 3.4. Wijziging [Regeling indicatieve vaststelling reikwijdte Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027242)
+##### Artikel 3.4. Wijziging [Regeling indicatieve vaststelling reikwijdte Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0027242)
 
 Wijzigt de Regeling indicatieve vaststelling reikwijdte Dienstenwet.
 
-#### Artikel 3.5. Wijziging [Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543)
+##### Artikel 3.5. Wijziging [Landbouwkwaliteitsregeling 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0022543)
 
 Wijzigt de Landbouwkwaliteitsregeling 2007.
 
-#### Artikel 3.6. Intrekking [Regeling vleeskeuring](https://wetten.overheid.nl/jci1.3:c:BWBR0019274)
+##### Artikel 3.6. Intrekking [Regeling vleeskeuring](https://wetten.overheid.nl/jci1.3:c:BWBR0019274)
 
 De [Regeling vleeskeuring](https://wetten.overheid.nl/jci1.3:c:BWBR0019274) wordt ingetrokken.
 
-#### Artikel 3.7. Citeertitel
+##### Artikel 3.7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling handhaving en overige zaken Wet dieren.
 
-#### Artikel 3.8. Inwerkingtreding
+##### Artikel 3.8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2013.
 
@@ -1271,7 +1297,7 @@ Deze regeling treedt in werking met ingang van 1 januari 2013.
 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 1.14
+##### Artikel 1.14
 
 Als voorschriften van EU-verordeningen als bedoeld in [artikel 6.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0030250&artikel=6.2) zijn aangewezen:
 
@@ -2848,13 +2874,13 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 #### § 1. Aanwijzing registers
 
-#### Artikel 1.11a. Aanvullende bepalingen melding uitslag onderzoek Salmonella
+##### Artikel 1.11a. Aanvullende bepalingen melding uitslag onderzoek Salmonella
 
 1. De gegevens, bedoeld in [artikel 7b.49, eerste lid, onderdeel a, van de Regeling houders van dieren](onbekend), die worden gemeld in een register als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid verkrijgen van inzicht in de gezondheidsstatus van dieren waarop de registratieverplichting van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
 
 2. [Artikel 1.11, tweede, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.11&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing op een aanwijzing als bedoeld in [artikel 1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 1.11b. Aanvullende bepalingen verwerking gegevens
+##### Artikel 1.11b. Aanvullende bepalingen verwerking gegevens
 
 1. De gegevens, bedoeld in de [artikelen 5b.59](onbekend), [5b.60](onbekend) en [5b.66 van de Regeling houders van dieren](onbekend), die worden gemeld door middel van een elektronisch portaal, bedoeld in [artikel 1.4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032523&hoofdstuk=1a&paragraaf=1&artikel=1.4&z=2026-01-01&g=2026-01-01), worden verwerkt met als doel het ten behoeve van de bescherming van de diergezondheid of de volksgezondheid, het dierenwelzijn of het milieu, of de uitvoering van de [Landbouwwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002252), verkrijgen van inzicht in de verplaatsingen van dieren waarop de verplichting tot melding of registratie van toepassing is en een effectief systeem van toezicht op de naleving van en handhaving van de op deze dieren en de houders daarvan van toepassing zijnde regelgeving door de minister te bevorderen.
 
@@ -3279,7 +3305,7 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 #### § 3. Aanwijzing van elektronische portalen voor registratie van honden en houders van honden
 
-#### Artikel 1.13a. Aanvraag tot aanwijzing van een elektronisch portaal
+##### Artikel 1.13a. Aanvraag tot aanwijzing van een elektronisch portaal
 
 1. Een aanvraag tot aanwijzing als elektronisch portaal als bedoeld in [artikel 3.32, eerste lid, van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.32) wordt ingediend bij de minister.
 
@@ -3295,11 +3321,11 @@ Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
 4. Indien de aanvrager geen onderneming heeft als bedoeld in [artikel 5 van de Handelsregisterwet 2007](https://wetten.overheid.nl/jci1.3:c:BWBR0021777&artikel=5) wordt bij de aanvraag het bewijs van inschrijving in het handelsregister vervangen door een bewijs waarmee de aanvrager aantoont een rechtspersoon te zijn in de zin van artikel 54 van het Verdrag betreffende de werking van de Europese Unie, die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte is gevestigd.
 
-#### Artikel 1.13b. Verstrekken bewijs van registratie
+##### Artikel 1.13b. Verstrekken bewijs van registratie
 
 De beheerder van een aangewezen elektronisch portaal verstrekt aan de houder van een hond een digitaal of schriftelijk bewijs met de gegevens van een registratie.
 
-#### Artikel 1.13c. Verwerkingsverantwoordelijke en doel verwerking
+##### Artikel 1.13c. Verwerkingsverantwoordelijke en doel verwerking
 
 1. De minister is verwerkingsverantwoordelijke voor gegevens die worden verwerkt op grond van de [artikelen 1.58c, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=1.58c), [3.29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.29), en [3.30 van het Besluit houders van dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0035217&artikel=3.30) en [artikel 2.9 van het Besluit diergeneeskundigen](https://wetten.overheid.nl/jci1.3:c:BWBR0035091&artikel=2.9).
 

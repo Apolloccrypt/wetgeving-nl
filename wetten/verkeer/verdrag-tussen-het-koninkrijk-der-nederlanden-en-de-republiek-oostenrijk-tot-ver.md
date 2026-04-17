@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954"
 identifier: "BWBV0004522"
-categorie: "Verkeer"
-publicatiedatum: 1965-09-10
-laatste_update: 1965-09-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004522"
+country: "nl"
+rank: "verdrag"
+publication_date: "1965-09-10"
+last_updated: "1965-09-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004522"
+soort: "verdrag"
+stam_id: "10004175323"
+version_id: "10004349512"
+internal_id: "C10006999761"
+label_id: "10004160444"
+dtd_version: "2.0"
+original_entry_into_force: "1965-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004522/1965-09-10/0"
+intitule_bron: "Trb.1964-140"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1964-10-05"
+intitule_in_force: "1965-08-11"
+intitule_status: "goed"
+original_publication: "Trb.1964-140"
+original_published_date: "1964-10-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1964-140"
+entry_into_force_date: "1965-09-10"
+jci_1_3: "jci1.3:c:BWBV0004522&z=1965-09-10&g=1965-09-10"
+jci_1_0: "1.0:c:BWBV0004522&g=1965-09-10"
+citeertitel_status: "redactioneel"
+entry_into_force: "1965-09-10"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Oostenrijk tot vereenvoudiging van het rechtsverkeer, zoals dit is geregeld bij het Haagse Verdrag van 1 maart 1954
 
 Hare Majesteit de Koningin der Nederlanden
@@ -34,7 +56,7 @@ Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 ## Overmaking van stukken
 
-#### Artikel 1
+##### Artikel 1
 
 1. De in artikel 1, lid 1, van het Haagse Verdrag van 1 maart 1954 bedoelde gerechtelijke en buitengerechtelijke stukken worden op de voet van het bepaalde in het volgende lid rechtstreeks toegezonden.
 
@@ -44,13 +66,13 @@ Die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben uitgewiss
 
 3. De aanvragen om overmaking van stukken kunnen in de taal van de verzoekende Staat worden gesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Het over te maken stuk behoeft niet in tweevoud (artikel 3, lid 1, van het Haagse Verdrag van 1 maart 1954) te worden overgemaakt.
 
 ## Rogatoire commissies
 
-#### Artikel 3
+##### Artikel 3
 
 1. De in artikel 8 van het Haagse Verdrag van 1 maart 1954 bedoelde rogatoire commissies behoeven niet vergezeld te gaan van een vertaling in de taal van de aangezochte Staat. Zij worden op de voet van het bepaalde in het volgende lid rechtstreeks toegezonden.
 
@@ -60,59 +82,59 @@ Het over te maken stuk behoeft niet in tweevoud (artikel 3, lid 1, van het Haags
 
 ## Bepalingen geldende zowel voor de overmaking van stukken als voor rogatoire commissies
 
-#### Artikel 4
+##### Artikel 4
 
 Vertalingen kunnen ook voor eensluidend worden verklaard door een beëdigde vertaler van de verzoekende Staat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Beide Staten zien wederzijds af van terugbetaling van alle kosten, die zij bij de overmaking van stukken en de uitvoering van rogatoire commissies hebben gemaakt.
 
 2. De aangezochte autoriteit doet aan de autoriteit, van wie het verzoek afkomstig is, opgave van de kosten, die de aangezochte Staat heeft gemaakt hetzij bij de overmaking van een stuk doordat een deurwaarder is opgetreden of een bijzondere vorm in acht is genomen, hetzij bij de uitvoering van een rogatoire commissie.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien een verzoek aan een onbevoegde autoriteit is gezonden, draagt deze het verzoek ambtshalve aan de bevoegde autoriteit over en geeft zij hiervan terstond kennis aan de verzoekende autoriteit.
 
 ## Uitvoerbaarverklaring (tenuitvoerlegging) van uitspraken betreffende proceskosten
 
-#### Artikel 7
+##### Artikel 7
 
 Het verzoek om uitvoerbaarverklaring (tenuitvoerlegging) van een uitspraak betreffende de kosten van het geding (artikel 18 en 19 van het Haagse Verdrag van 1 maart 1954) kan door de rechthebbende rechtstreeks aan het bevoegde gerecht worden gedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 De verklaring van de bevoegde autoriteit, dat de uitspraak betreffende de kosten van het geding in kracht van gewijsde is gegaan, behoeft niet overeenkomstig artikel 19, lid 3, tweede zin, van het Haagse Verdrag van 1 maart 1954 te worden bevestigd door de hoogste autoriteit belast met het beheer der justitie in de verzoekende Staat.
 
-#### Artikel 9
+##### Artikel 9
 
 De vertaling, bedoeld in artikel 19, lid 2, onder 3, van het Haagse Verdrag van 1 maart 1954, kan ook voor eensluidend worden verklaard door een beëdigde vertaler van de Staat waar de uitspraak is gegeven.
 
 ## Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Indien een aanvrage om overmaking van een stuk of een rogatoire commissie op het tijdstip van inwerkingtreding van dit Verdrag reeds door een autoriteit van de aangezochte Staat is ontvangen, wordt de aanvrage of de rogatoire commissie verder overeenkomstig het Haagse Verdrag van 1 maart 1954 behandeld.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dit Verdrag geldt, wat het Koninkrijk der Nederlanden betreft, alleen voor het in Europa gelegen deel van het Koninkrijk.
 
 2. Dit Verdrag kan door notawisseling tussen de Regeringen van beide Staten in onderlinge overeenstemming worden uitgebreid tot elk van de buiten Europa gelegen delen van het Koninkrijk der Nederlanden. In de notawisseling wordt het tijdstip van de inwerkingtreding van de uitbreiding vastgesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit Verdrag zal worden bekrachtigd. De uitwisseling van de akten van bekrachtiging moet zo spoedig mogelijk te 's-Gravenhage plaatsvinden.
 
 2. Het Verdrag treedt in werking op de zestigste dag na de uitwisseling van de akten van bekrachtiging.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Ieder der Hoge Verdragsluitende Partijen kan dit Verdrag door een schriftelijke, tot de andere Hoge Verdragsluitende Partij te richten mededeling opzeggen. De opzegging wordt een jaar na het tijdstip, waarop zij werd medegedeeld, van kracht.
 
 2. De opzegging kan worden beperkt tot een of meer van de gebieden, tot welke het Verdrag krachtens artikel 11, lid 2, mocht zijn uitgebreid.
 
-#### Artikel 14
+##### Artikel 14
 
 Ieder geschil met betrekking tot de uitlegging of de toepassing van dit Verdrag dat tussen de Hoge Verdragsluitende Partijen mocht ontstaan, moet langs diplomatieke weg worden bijgelegd.
 

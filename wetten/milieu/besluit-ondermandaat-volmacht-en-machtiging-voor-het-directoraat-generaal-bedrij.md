@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019"
+title: "Besluit van de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat van 17 januari 2019, nr. 19008742, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019)"
 identifier: "BWBR0041852"
-categorie: "Milieu"
-publicatiedatum: 2024-02-15
-laatste_update: 2024-02-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041852"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-15"
+last_updated: "2024-02-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041852"
+soort: "ministeriele-regeling"
+stam_id: "14963553"
+version_id: "25627252"
+internal_id: "C36579441"
+label_id: "14913924"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041852/2024-02-15/0"
+intitule_bron: "Stcrt.2019-3815"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-01-17"
+intitule_published: "2019-01-28"
+intitule_in_force: "2019-01-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-3815"
+original_signed_date: "2019-01-17"
+original_published_date: "2019-01-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-3815"
+entry_into_force_date: "2019-01-29"
+jci_1_3: "jci1.3:c:BWBR0041852&z=2024-02-15&g=2024-02-15"
+jci_1_0: "1.0:c:BWBR0041852&g=2024-02-15"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019"
+signed_date: "2019-01-17"
+entry_into_force: "2019-01-29"
 ---
-
 # Besluit van de directeur-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat van 17 januari 2019, nr. 19008742, houdende verlening van ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019)
 
 Gelet op [artikel 19 van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling tussen de directeur-generaal en de onder hem ressorterende functionarissen
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende de volgende aangelegenheden:
 
@@ -64,7 +90,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - c. aangelegenheden op het werkterrein van onderzoek, monitoring, effectmeting en beleidsexperimenten, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de Chief Analyst.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de directeuren wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 2.000.000 per verplichting niet te boven gaat.
 
@@ -80,7 +106,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de MT-leden van een directie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
@@ -102,7 +128,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - 2°. die door een MT-lid aan de directeur worden voorgelegd, tenzij zij naar het oordeel van de directeur door de plaatsvervangend directeur of een ander MT-lid moeten worden behandeld.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Aan het hoofd Algemene Zaken wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 30.000 per verplichting niet te boven gaat.
 
@@ -118,7 +144,7 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de Chief Analyst wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 500.000 per verplichting niet te boven gaat.
 
@@ -134,15 +160,15 @@ Aan de directeur-generaal is voorbehouden: het nemen van besluiten, het verricht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
-#### Artikel 7
+##### Artikel 7
 
 Aan de coördinator Economische Zaken en Klimaat bij de Rijksdienst Caribisch Nederland wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 20.000 per verplichting niet te boven gaat.
 
-#### Artikel 8
+##### Artikel 8
 
 Aan de regioambassadeurs wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 100.000 per verplichting niet te boven gaat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de secretaris ATR wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 300.000 per verplichting niet te boven gaat.
 
@@ -158,7 +184,7 @@ Aan de regioambassadeurs wordt, ieder voor zich, ondermandaat, volmacht en macht
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
-#### Artikel 10
+##### Artikel 10
 
 Aan de Commissaris Militaire Productie wordt ondermandaat, volmacht en machtiging verleend op zijn werkterrein, met uitzondering van:
 
@@ -166,17 +192,17 @@ Aan de Commissaris Militaire Productie wordt ondermandaat, volmacht en machtigin
 
 - b. niet vooraf door de Tweede Kamer der Staten-Generaal goedgekeurde defensieprojecten.
 
-#### Artikel 11
+##### Artikel 11
 
 Aan de industriële-participatieadviseurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst of industriële-participatieovereenkomst ingediende claim die een bedrag van € 2.500.000 niet te boven gaan.
 
-#### Artikel 12
+##### Artikel 12
 
 Aan de industriële-participatieadministrateurs Militaire Productie wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor aangelegenheden met betrekking tot een in het kader van een compensatieovereenkomst of industriële-participatieovereenkomst ingediende claim die een bedrag van €250.000 niet te boven gaan.
 
 #### § 3. Vervanging
 
-#### Artikel 13
+##### Artikel 13
 
 1. De uit dit besluit voor de directeuren voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger. Bij afwezigheid van zowel de directeur als zijn plaatsvervanger gaan de uit dit besluit voortvloeiende bevoegdheden over op een ander lid van het betrokken managementteam.
 
@@ -184,21 +210,21 @@ Aan de industriële-participatieadministrateurs Militaire Productie wordt, ieder
 
 #### § 3. Vervanging
 
-#### Artikel 14
+##### Artikel 14
 
 Het [Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal voor Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036135) wordt ingetrokken.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
-#### Artikel 16
+##### Artikel 16
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor het directoraat-generaal Bedrijfsleven en Innovatie van het Ministerie van Economische Zaken en Klimaat 2019.
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
@@ -208,7 +234,7 @@ Vervallen
 
 Dit besluit zal in de Staatscourant worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 Aan het hoofd BTI wordt ondermandaat en machtiging verleend voor de uitvoering en handhaving van het stelsel van investeringstoetsen en het houden van toezicht op de naleving van dit stelsel, alsmede het houden van toezicht op de naleving van de [Sanctiewet 1977](https://wetten.overheid.nl/jci1.3:c:BWBR0003296) door niet-beursgenoteerde Nederlandse ondernemingen, met uitzondering van:
 

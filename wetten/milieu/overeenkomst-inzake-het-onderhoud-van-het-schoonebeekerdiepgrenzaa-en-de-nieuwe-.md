@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake het onderhoud van het Schoonebeekerdiep/Grenzaa en de Nieuwe Sloot/Grenzschloot, alsmede het onderhoud en het beheer van werken in en langs deze watergangen"
 identifier: "BWBV0002870"
-categorie: "Milieu"
-publicatiedatum: 1983-11-24
-laatste_update: 1983-11-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002870"
+country: "nl"
+rank: "verdrag"
+publication_date: "1983-11-24"
+last_updated: "1983-11-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002870"
+soort: "verdrag"
+stam_id: "10003190523"
+version_id: "10003199732"
+internal_id: "C10006978831"
+label_id: "10003176444"
+dtd_version: "2.0"
+original_entry_into_force: "1983-11-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002870/1983-11-24/0"
+intitule_bron: "Trb.1983-137"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-03-08"
+intitule_published: "1983-09-01"
+intitule_in_force: "1984-05-25"
+intitule_status: "goed"
+original_publication: "Trb.1983-137"
+original_signed_date: "1983-03-08"
+original_published_date: "1983-09-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-137"
+entry_into_force_date: "1983-11-24"
+jci_1_3: "jci1.3:c:BWBV0002870&z=1983-11-24&g=1983-11-24"
+jci_1_0: "1.0:c:BWBV0002870&g=1983-11-24"
+citeertitel_status: "officieel"
+signed_date: "1983-03-08"
+entry_into_force: "1983-11-24"
 ---
-
 # Overeenkomst inzake het onderhoud van het Schoonebeekerdiep/Grenzaa en de Nieuwe Sloot/Grenzschloot, alsmede het onderhoud en het beheer van werken in en langs deze watergangen
 
 Het Wasser- und Bodenverband Unterhaltungsverband 114 - Vechte, Neuenhaus, verder te noemen „Unterhaltungsverband”, vertegenwoordigd door de voorzitter,
@@ -62,7 +87,7 @@ in aanmerking genomen paragraaf 4, artikel 59, lid 2 van het op 8 april 1960 ges
 
 sluiten de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het onderhoud van het grenstraject van het Schoonebeekerdiep/Grenzaa vanaf de uitmonding in het Kanaal Coevorden-Alte Picardie stroomopwaarts tot aan grenssteen 153II berust bij het waterschap.
 
@@ -74,19 +99,19 @@ sluiten de volgende overeenkomst:
 
 5. Het onderhoud van de bruggen geschiedt volgens de beschrijving op bijlage nr. 1 die eventueel in de toekomst kan worden aangevuld.
 
-#### Artikel 2
+##### Artikel 2
 
 De voor het onderhoud maatgevende toestand van de in artikel 1 genoemde watergangen en objecten zijn vastgesteld in een door beide partijen ondertekend basisplan, dat - met eventuele toekomstige veranderingen - een onderdeel vormt van deze overeenkomst.
 
 Het basisplan bestaat uit een overzichtskaart schaal 1 : 25.000, lengteprofielen, representatieve dwarsprofielen en tekeningen van de kunstwerken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De stuwen in het Schoonebeekerdiep/Grenzaa behoren bediend te worden volgens de uitvoerige beschrijving op bijlage nr. 2 die eventueel in de toekomst kan worden aangevuld.
 
 2. In afwijking van de regeling in lid 1 hebben de onderhoudsplichtigen het recht bij de uitvoering van het onderhoud van de stroom, de stuwen overeenkomstig de behoeften voor het onderhoud te bedienen en het water alleen daarvoor te gebruiken, mits de algemene waterhuishouding niet in gevaar komt.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Beide partijen verplichten zich, elkaar, voorzover het in hun vermogen ligt, zodanig bij te staan, dat het onderhoud op wederzijds gebied uitvoerbaar is.
 
@@ -94,7 +119,7 @@ Het basisplan bestaat uit een overzichtskaart schaal 1 : 25.000, lengteprofielen
 
 3. Het recht van overweg wordt wederzijds toegestaan.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het toezicht op het behoorlijk onderhoud wordt een schouwcommissie ingesteld bestaande uit twee vertegenwoordigers van het Unterhaltungsverband en twee vertegenwoordigers van het waterschap.
 
@@ -116,19 +141,19 @@ Het voorzitterschap wordt jaarlijks afwisselend gevoerd door een vertegenwoordig
 
 9. De partijen verplichten zich elkaar behulpzaam te zijn bij het verkrijgen van de vereiste grensdocumenten voor de commissieleden en de toegevoegde deskundigen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Wijzigingen in de overeenkomst behoeven de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden.
 
 2. Wijzigingen in het in artikel 2 genoemde basisplan en in de in artikel 1 en 3 genoemde bijlagen behoeven alleen toestemming van de Bezirksregierung Weser-Ems en van Gedeputeerde Staten van Drenthe.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De overeenkomst wordt gesloten voor de duur van 20 jaar. Indien zij niet drie jaar voor het aflopen van deze periode wordt opgezegd, wordt zij stilzwijgend telkens met vijf jaar verlengd.
 
 2. De opzegging dient per aangetekende brief te geschieden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden. Zij treedt een maand na afsluiting van de laatste goedkeuringsprocedure in werking. De partijen stellen het tijdstip van inwerkingtreding schriftelijk vast.
 

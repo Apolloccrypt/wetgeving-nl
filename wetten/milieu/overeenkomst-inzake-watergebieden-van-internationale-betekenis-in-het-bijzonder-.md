@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels"
 identifier: "BWBV0003693"
-categorie: "Milieu"
-publicatiedatum: 1994-05-01
-laatste_update: 1994-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003693"
+country: "nl"
+rank: "verdrag"
+publication_date: "1994-05-01"
+last_updated: "1994-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003693"
+soort: "verdrag"
+stam_id: "10003653873"
+version_id: "10003714182"
+internal_id: "C10006983781"
+label_id: "10003639144"
+dtd_version: "2.0"
+original_entry_into_force: "1980-09-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003693/1994-05-01/0"
+intitule_bron: "Trb.1975-84"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1975-08-15"
+intitule_in_force: "1980-06-05"
+intitule_status: "goed"
+original_publication: "Trb.1975-84"
+original_published_date: "1975-08-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1975-84"
+entry_into_force_date: "1980-09-23"
+jci_1_3: "jci1.3:c:BWBV0003693&z=1994-05-01&g=1994-05-01"
+jci_1_0: "1.0:c:BWBV0003693&g=1994-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1980-09-23"
 ---
-
 # Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels
 
 De Overeenkomstsluitende Partijen,
@@ -26,13 +48,13 @@ Vertrouwende dat het behoud van watergebieden en hun flora en fauna kan worden g
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze Overeenkomst zijn watergebieden moerassen, vennen, veen- of plasgebieden, natuurlijk of kunstmatig, blijvend of tijdelijk, met stilstaand of stromend water, zoet, brak of zout, met inbegrip van zeewater waarvan de diepte bij eb niet meer is dan zes meter.
 
 2. Voor de toepassing van deze Overeenkomst zijn watervogels vogels die in ecologische zin van watergebieden afhankelijk zijn.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke Overeenkomstsluitende Partij wijst de daarvoor in aanmerking komende, binnen haar grondgebied liggende watergebieden aan voor opname in een lijst van watergebieden van internationale betekenis, hierna te noemen „de Lijst”, welke wordt bijgehouden door het Bureau, opgericht krachtens artikel 8. De grenzen van elk watergebied worden nauwkeurig beschreven en in kaart gebracht, en daarin kunnen tevens de aan de watergebieden grenzende oever- en kustgebieden en binnen de watergebieden gelegen eilanden of zeewatergedeelten, waarvan de diepte bij eb meer is dan zes meter, worden opgenomen, met name indien zij van belang zijn als verblijfplaats voor watervogels.
 
@@ -46,13 +68,13 @@ Zijn als volgt overeengekomen:
 
 6. Elke Overeenkomstsluitende Partij dient zich bewust te zijn van haar internationale verantwoordelijkheden voor het behoud, het beheer en het verstandig gebruik van de aanwezige trekkende watervogels, zowel bij het aanwijzen van binnen haar grondgebied gelegen watergebieden voor opname in de Lijst als bij het uitoefenen van haar recht tot wijziging van in die Lijst opgenomen gegevens.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Overeenkomstsluitende Partijen formuleren en verwezenlijken hun plannen op zodanige wijze dat het behoud van de in de Lijst opgenomen watergebieden en, voor zover mogelijk, het verstandig gebruik van de in hun grondgebied gelegen watergebieden worden bevorderd.
 
 2. Elke Overeenkomstsluitende Partij draagt zorg dat zij zo spoedig mogelijk wordt ingelicht, indien het ecologisch karakter van een in haar grondgebied gelegen en in de Lijst opgenomen watergebied verandert of mogelijk zal veranderen ten gevolge van technologische ontwikkelingen, verontreiniging of ander menselijk ingrijpen. Gegevens over dergelijke veranderingen dienen onverwijld te worden doorgegeven aan de organisatie of regering die verantwoordelijk is voor de in artikel 8 omschreven, door het Bureau te verrichten lopende administratieve werkzaamheden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elke Overeenkomstsluitende Partij bevordert het behoud van watergebieden en watervogels door het stichten van natuurreservaten in watergebieden, ongeacht of deze al dan niet zijn opgenomen in de Lijst, en neemt passende maatregelen voor de bewaking daarvan.
 
@@ -64,13 +86,13 @@ Zijn als volgt overeengekomen:
 
 5. De Overeenkomstsluitende Partijen bevorderen de opleiding van deskundig personeel op het gebied van het onderzoek, het beheer en het bewaken van watergebieden.
 
-#### Artikel 5
+##### Artikel 5
 
 De Overeenkomstsluitende Partijen plegen onderling overleg omtrent de uitvoering van de uit deze Overeenkomst voortvloeiende verplichtingen, met name in het geval van een watergebied dat zich uitstrekt over de grondgebieden van meer dan één Overeenkomstsluitende Partij of indien een waterloopstelsel door Overeenkomstsluitende Partijen wordt gedeeld.
 
 Tezelfdertijd trachten zij de huidige en toekomstige beleidsvoering en regelingen betreffende het behoud van watergebieden en hun flora en fauna te coördineren en te steunen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er wordt een Conferentie van de Overeenkomstsluitende Partijen ingesteld om de uitvoering van deze Overeenkomst te toetsen en te bevorderen. Het in artikel 8, eerste lid, bedoelde Bureau belegt gewone zittingen van de Conferentie van de Overeenkomstsluitende Partijen met tussenpozen van ten hoogste drie jaren, tenzij de Conferentie anders besluit, en buitengewone zittingen op schriftelijk verzoek van ten minste een derde van de Overeenkomstsluitende Partijen. De Conferentie van de Overeenkomstsluitende Partijen stelt op elke gewone zitting het tijdstip en de plaats van de volgende gewone zitting vast.
 
@@ -96,13 +118,13 @@ Tezelfdertijd trachten zij de huidige en toekomstige beleidsvoering en regelinge
 
 6. Elke Overeenkomstsluitende Partij draagt bij aan de begroting volgens een bijdragenschaal die is aangenomen met eenparigheid van stemmen door de Overeenkomstsluitende Partijen die aanwezig zijn en hun stem uitbrengen op een gewone zitting van de Conferentie van de Overeenkomstsluitende Partijen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Tot de vertegenwoordigers van de Overeenkomstsluitende Partijen op zodanige Conferenties dienen personen te behoren die deskundig zijn op het terrein van watergebieden en watervogels uit hoofde van hun kennis en ervaring, verkregen in hun wetenschappelijke, administratieve of andere hoedanigheid.
 
 2. Elke van de ter Conferentie vertegenwoordigde Overeenkomstsluitende Partijen brengt één stem uit, terwijl de aanbevelingen, resoluties en besluiten worden aangenomen bij eenvoudige meerderheid van de aanwezige Overeenkomstsluitende Partijen die hun stem uitbrengen, tenzij in deze Overeenkomst anders is bepaald.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Internationale Unie voor Behoud van de Natuur en de Natuurlijke Hulpbronnen verricht de lopende administratieve werkzaamheden krachtens deze Overeenkomst tot het ogenblik waarop een ander orgaan of een regering hiertoe als Bureau is aangewezen bij een meerderheid van twee derde der stemmen van alle Overeenkomstsluitende Partijen.
 
@@ -118,7 +140,7 @@ Tezelfdertijd trachten zij de huidige en toekomstige beleidsvoering en regelinge
 
 - (e). het in kennis stellen van de betrokken Overeenkomstsluitende Partij van de aanbevelingen van de Conferenties met betrekking tot zodanige wijzigingen van de Lijst of van veranderingen in het karakter van de daarin opgenomen watergebieden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd voor ondertekening opengesteld.
 
@@ -132,13 +154,13 @@ Tezelfdertijd trachten zij de huidige en toekomstige beleidsvoering en regelinge
 
 3. Bekrachtiging of toetreding dient te geschieden door nederlegging van een akte van bekrachtiging of toetreding bij de Directeur-Generaal van de Organisatie der Verenigde Naties voor Onderwijs, Wetenschap en Cultuur (hierna te noemen de „Depositaris”).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Deze Overeenkomst treedt in werking vier maanden na de datum waarop zeven Staten partij zijn geworden bij deze Overeenkomst overeenkomstig het tweede lid van artikel 9.
 
 2. Daarna treedt deze Overeenkomst voor iedere Overeenkomstsluitende Partij in werking vier maanden na de datum van haar ondertekening zonder voorbehoud van bekrachtiging of van haar nederlegging van een akte van bekrachtiging of toetreding.
 
-#### Artikel 10bis
+##### Artikel 10bis
 
 1. Deze Overeenkomst kan worden gewijzigd op een vergadering van de Overeenkomstsluitende Partijen die daartoe zijn bijeengeroepen overeenkomstig het bepaalde in dit artikel.
 
@@ -152,13 +174,13 @@ Tezelfdertijd trachten zij de huidige en toekomstige beleidsvoering en regelinge
 
 6. Een wijziging die is aangenomen, treedt voor de Overeenkomstsluitende Partijen die deze hebben aanvaard, in werking op de eerste dag van de vierde maand, volgend op de dag waarop tweederde van de Overeenkomstsluitende Partijen een akte van aanvaarding heeft nedergelegd bij de Depositaris. Voor elke Overeenkomstsluitende Partij die een akte van aanvaarding nederlegt na de datum waarop tweederde van de Overeenkomstsluitende Partijen een akte van aanvaarding heeft nedergelegd, treedt de wijziging in werking op de eerste dag van de vierde maand, volgend op de datum van nederlegging van haar akte van aanvaarding.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Deze Overeenkomst blijft voor onbepaalde tijd van kracht.
 
 2. Een Overeenkomstsluitende Partij kan deze Overeenkomst opzeggen na een tijdvak van vijf jaar, te rekenen van de datum waarop zij voor die Partij in werking is getreden, door het doen van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht vier maanden na de datum waarop deze kennisgeving is ontvangen door de Depositaris.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Depositaris doet aan alle Staten die de Overeenkomst hebben ondertekend of daartoe zijn toegetreden onverwijld mededeling van:
 

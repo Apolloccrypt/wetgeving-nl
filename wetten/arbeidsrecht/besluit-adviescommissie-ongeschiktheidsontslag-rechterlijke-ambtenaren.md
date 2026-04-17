@@ -1,13 +1,38 @@
 ---
-title: "Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren"
+title: "Besluit van 6 oktober 2003, houdende regels met betrekking tot de adviescommissie voor ontslag van voor het leven benoemde rechterlijke ambtenaren vanwege ongeschiktheid tot het verrichten van hun taak, anders dan wegens ziekte (Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren)"
 identifier: "BWBR0015695"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-12-02
-laatste_update: 2003-12-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015695"
+country: "nl"
+rank: "amvb"
+publication_date: "2003-12-02"
+last_updated: "2003-12-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015695"
+soort: "AMvB"
+stam_id: "5491943"
+version_id: "9880052"
+internal_id: "C13351811"
+label_id: "5466004"
+original_entry_into_force: "2003-12-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015695/2003-12-02/0"
+intitule_bron: "Stb.2003-477"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-10-06"
+intitule_published: "2003-12-01"
+intitule_in_force: "2003-12-01"
+intitule_status: "goed"
+original_publication: "Stb.2003-477"
+original_signed_date: "2003-10-06"
+original_published_date: "2003-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2003-477"
+entry_into_force_date: "2003-12-02"
+jci_1_3: "jci1.3:c:BWBR0015695&z=2003-12-02&g=2003-12-02"
+jci_1_0: "1.0:c:BWBR0015695&g=2003-12-02"
+citeertitel_status: "officieel"
+short_title: "Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren"
+signed_date: "2003-10-06"
+entry_into_force: "2003-12-02"
 ---
-
 # Besluit van 6 oktober 2003, houdende regels met betrekking tot de adviescommissie voor ontslag van voor het leven benoemde rechterlijke ambtenaren vanwege ongeschiktheid tot het verrichten van hun taak, anders dan wegens ziekte (Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren)
 
 Op de voordracht van Onze Minister van Justitie van 12 augustus 2003, 5233289/03/6;
@@ -20,13 +45,13 @@ Gezien het nader rapport van Onze Minister van Justitie van 25 september 2003, n
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren, hierna te noemen: de commissie.
 
 2. De commissie adviseert over ongeschiktheidsontslag als bedoeld in [artikel 46l van de Wet rechtspositie rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46l).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De commissie bestaat uit:
 
@@ -52,7 +77,7 @@ Hebben goedgevonden en verstaan:
 
 9. De leden en de plaatsvervangende leden van de commissie kunnen worden herbenoemd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een lid of een plaatsvervangend lid van de commissie wordt op diens verzoek door Onze Minister ontheven van zijn lidmaatschap van de commissie.
 
@@ -60,11 +85,11 @@ Hebben goedgevonden en verstaan:
 
 3. Degene die wordt benoemd tot lid of plaatsvervangend lid van de commissie in de plaats van degene die wordt ontheven van het lidmaatschap als bedoeld in het eerste of tweede lid, wordt in afwijking van [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015695&artikel=2&z=2003-12-02&g=2003-12-02), benoemd voor het resterende gedeelte van de benoemingsperiode van zijn voorganger.
 
-#### Artikel 4
+##### Artikel 4
 
 Het secretariaat van de commissie wordt verzorgd door ambtenaren van het bureau van de Raad voor de rechtspraak.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De commissie hoort degene op wiens voorgenomen ontslag de adviesaanvraag betrekking heeft en de president van het gerecht waar de betrokkene werkzaam is of diens vervanger. Hiervan wordt een schriftelijk verslag opgemaakt.
 
@@ -76,11 +101,11 @@ Het secretariaat van de commissie wordt verzorgd door ambtenaren van het bureau 
 
 5. Ten aanzien van een voor het leven benoemde rechterlijk ambtenaar die werkzaam is bij het parket bij de Hoge Raad wordt voor de toepassing van dit artikel onder «president van het gerecht» verstaan: de procureur-generaal bij de Hoge Raad.
 
-#### Artikel 6
+##### Artikel 6
 
 De commissie kan bij reglement nadere regels vaststellen met betrekking tot haar werkwijze.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Binnen zes weken na ontvangst van de adviesaanvraag brengt de commissie haar advies uit aan de procureur-generaal bij de Hoge Raad dan wel Onze Minister.
 
@@ -88,11 +113,11 @@ De commissie kan bij reglement nadere regels vaststellen met betrekking tot haar
 
 3. De commissie stelt aan de procureur-generaal bij de Hoge Raad dan wel Onze Minister stukken en schriftelijk verkregen inlichtingen als bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015695&artikel=5&z=2003-12-02&g=2003-12-02), en schriftelijke verslagen als bedoeld in [artikel 5, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015695&artikel=5&z=2003-12-02&g=2003-12-02), ter beschikking.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van de dag na de datum van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren.
 

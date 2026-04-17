@@ -1,13 +1,39 @@
 ---
-title: "Regeling beperking geluidhinder militaire helikopters boven het Infanterie Schietkamp Harskamp"
+title: "Regeling beperking geluidhinder militaire helikopters die gebruik maken van de oefen- en schietfaciliteiten van het Infanterie Schietkamp te Harskamp (Regeling beperking geluidhinder militaire helikopters Infanterie Schietkamp Harskamp)"
 identifier: "BWBR0035659"
-categorie: "Overig"
-publicatiedatum: 2012-07-24
-laatste_update: 2012-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035659"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2012-07-24"
+last_updated: "2012-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035659"
+soort: "ministeriele-regeling"
+stam_id: "12818793"
+version_id: "21776932"
+internal_id: "C31256821"
+label_id: "12788404"
+dtd_version: "2.0"
+original_entry_into_force: "2012-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035659/2012-07-24/0"
+intitule_bron: "Stcrt.2012-15169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-07-02"
+intitule_published: "2012-07-23"
+intitule_in_force: "2012-07-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-15169"
+original_signed_date: "2012-07-02"
+original_published_date: "2012-07-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-15169"
+entry_into_force_date: "2012-07-24"
+jci_1_3: "jci1.3:c:BWBR0035659&z=2012-07-24&g=2012-07-24"
+jci_1_0: "1.0:c:BWBR0035659&g=2012-07-24"
+citeertitel_status: "officieel"
+short_title: "Regeling beperking geluidhinder militaire helikopters boven het Infanterie Schietkamp Harskamp"
+signed_date: "2012-07-02"
+entry_into_force: "2012-07-24"
 ---
-
 # Regeling beperking geluidhinder militaire helikopters die gebruik maken van de oefen- en schietfaciliteiten van het Infanterie Schietkamp te Harskamp (Regeling beperking geluidhinder militaire helikopters Infanterie Schietkamp Harskamp)
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -16,7 +42,7 @@ Gelet op [artikel 2 van het Besluit van 21 mei 1981](https://wetten.overheid.nl/
 
 Besluit:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 Met betrekking tot het uitvoeren van vluchten met militaire helikopters die gebruik maken van de oefen- en schietfaciliteiten van het Infanterie Schietkamp te Harskamp gelden de volgende regels ter beperking van geluidhinder:
 
@@ -26,7 +52,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire helikopters die gebr
 
 - c. vluchten worden niet uitgevoerd in formaties van meer dan twee helikopters.
 
-#### Artikel 2. Vluchtprocedures helikopters
+##### Artikel 2. Vluchtprocedures helikopters
 
 1. Bij het vliegen van de naderings- en vertrekroutes met de helikopters van en naar het Infanterie Schietkamp worden de woonkernen rondom het Infanterie Schietkamp zoveel mogelijk vermeden.
 
@@ -34,7 +60,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire helikopters die gebr
 
 3. Hoveren met helikopters vindt plaats boven het Infanterie Schietkamp gedurende hoogstens twee oefensessies per dag met maximaal twee helikopters per sessie. Per oefensessie wordt maximaal 40 minuten per helikopter gehoverd.
 
-#### Artikel 3. Geluidsbelasting
+##### Artikel 3. Geluidsbelasting
 
 1. De geluidsbelasting vanwege de activiteiten genoemd in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035659&artikel=2&z=2012-07-24&g=2012-07-24), op de vastgestelde referentiepunten nabij de woonkernen Harskamp, Otterloo en Hoenderloo zal berekend in de Lden-maat niet hoger zijn dan 50 dB(A). De bijlage bij deze regeling geeft een topografische kaart met daarop aangegeven de ligging van de referentiepunten en een tabel met de positie van de referentiepunten in Rijksdriehoekcoördinaten.
 
@@ -42,7 +68,7 @@ Met betrekking tot het uitvoeren van vluchten met militaire helikopters die gebr
 
 3. De Minister van Defensie draagt er zorg voor dat het helikopterverkeer zodanig geschiedt dat de geluidsbelasting vanwege het helikopterverkeer de in het eerste lid bedoelde grenswaarde niet overschrijdt. Zodra de Minister van Defensie constateert dat de in het eerste lid bedoelde grenswaarde is overschreden, schrijft hij maatregelen voor die naar zijn oordeel bijdragen aan het terugdringen van de geluidsbelasting vanwege het helikopterverkeer binnen de grenswaarde.
 
-#### Artikel 4. Overige bepalingen
+##### Artikel 4. Overige bepalingen
 
 1. De Minister van Defensie kan in bijzonder geval ontheffing verlenen van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0035659&artikel=1&z=2012-07-24&g=2012-07-24) en van het in [artikel 2, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035659&artikel=2&z=2012-07-24&g=2012-07-24), bepaalde inzake het volgen van circuitpatronen en de periodes en de duur van het hoveren.
 
@@ -50,11 +76,11 @@ Met betrekking tot het uitvoeren van vluchten met militaire helikopters die gebr
 
 3. Met betrekking tot de bevoegdheid in het eerste lid wordt mandaat verleend aan de directeur van de Militaire Luchtvaartautoriteit.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling beperking geluidhinder militaire helikopters boven het Infanterie Schietkamp Harskamp.
 

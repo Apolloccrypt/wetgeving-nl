@@ -1,14 +1,37 @@
 ---
-title: "Instellingswet Productschap voor Bier"
+title: "Wet van 24 november 1954, houdende instelling van een productschap voor bier"
 identifier: "BWBR0002162"
-categorie: "Overig"
-publicatiedatum: 1956-01-01
-laatste_update: 1956-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002162"
+country: "nl"
+rank: "wet"
+publication_date: "1956-01-01"
+last_updated: "1956-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002162"
+soort: "wet"
+stam_id: "1397363"
+version_id: "2096142"
+internal_id: "C2096141"
+label_id: "1355114"
+dtd_version: "2.0"
+original_entry_into_force: "1956-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002162/1956-01-01/0"
+intitule_bron: "Stb.1954-530"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1954-11-24"
+intitule_status: "goed"
+original_publication: "Stb.1954-530"
+original_signed_date: "1954-11-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "3441"
+entry_into_force_date: "1956-01-01"
+jci_1_3: "jci1.3:c:BWBR0002162&z=1956-01-01&g=1956-01-01"
+jci_1_0: "1.0:c:BWBR0002162&g=1956-01-01"
+citeertitel_status: "officieel"
+short_title: "Instellingswet Productschap voor Bier"
+signed_date: "1954-11-24"
+entry_into_force: "1956-01-01"
 ---
-
-# Instellingswet Productschap voor Bier
+# Wet van 24 november 1954, houdende instelling van een productschap voor bier
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,13 +39,13 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is overeenkomstig het d
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Productschap voor Bier.
 
 2. Het productschap heeft zijn zetel te Amsterdam.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het productschap is ingesteld voor de ondernemingen, waarin:
 
@@ -38,7 +61,7 @@ bier voor verbruik ter plaatse wordt verstrekt.
 
 **handel:** de werkzaamheid van tussenpersonen.
 
-#### Artikel 3
+##### Artikel 3
 
 Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd:
 
@@ -48,7 +71,7 @@ Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd:
 | de binnenlandse groothandel in bier | 3 leden | 3 leden |
 | de detailhandel in bier en het hotel-, café- en restaurantbedrijf | 4 leden | 4 leden |
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan het productschap is overgelaten de regeling of nadere regeling van de navolgende onderwerpen:
 
@@ -70,15 +93,15 @@ Het bestuur van het productschap bestaat uit 22 leden. Daarvan worden benoemd:
 
 4. Verordeningen betreffende het in het eerste lid, onder **c**, bedoelde onderwerp houden waarborgen in tegen misbruik van de ingevolge die verordeningen te verstrekken gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 Overtredingen van het bepaalde bij of krachtens een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) (**Stb.** 1950, K 22, sedert gewijzigd) vastgestelde verordening kunnen bij die verordening worden aangewezen als strafbare feiten.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=93) vastgestelde verordening kan worden bepaald, dat de bij of krachtens die verordening gestelde regelen mede andere dan de in artikel 102, eerste lid, van genoemde wet bedoelde natuurlijke en rechtspersonen binden, voor zover deze handelingen verrichten, die bedrijfsmatig in de ondernemingen, waarvoor het productschap is ingesteld, plegen te worden verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Verordeningen, waarbij krachtens [artikel 126, eerste lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=126) een heffing wordt opgelegd tot een in die verordeningen vermeld ander doel dan dekking van de huishoudelijke uitgaven van het productschap, behoeven, in afwijking van het derde lid van dat artikel, de goedkeuring van Onze betrokken Ministers; zij worden terstond na vaststelling ter kennisneming aan de Sociaal-Economische Raad toegezonden.
 
@@ -86,15 +109,15 @@ Bij een op grond van [artikel 93, eerste lid, van de Wet op de Bedrijfsorganisat
 
 3. Onze betrokken Ministers kunnen bepalen, dat besluiten tot uitbetalingen ten laste van een fonds in het belang der bedrijfsgenoten hun goedkeuring behoeven.
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de toepassing van deze wet en van de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=94), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104) ten aanzien van het productschap worden als Onze betrokken Ministers aangemerkt Onze Minister van Economische Zaken en, in bij algemene maatregel van bestuur te bepalen gevallen, Onze Minister van Landbouw, Visserij en Voedselvoorziening.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze wet kan worden aangehaald als: Instellingswet Productschap voor Bier.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 

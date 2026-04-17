@@ -1,13 +1,39 @@
 ---
-title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten"
+title: "Regeling van de Minister van Economische Zaken van 23 april 2025, nr. WJZ/ 98207028, tot vaststelling van voorwaarden van afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele systemen (Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten)"
 identifier: "BWBR0050979"
-categorie: "Overig"
-publicatiedatum: 2025-04-29
-laatste_update: 2025-04-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050979"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-29"
+last_updated: "2025-04-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050979"
+soort: "ministeriele-regeling"
+stam_id: "17414153"
+version_id: "30704202"
+internal_id: "C44056141"
+label_id: "17317384"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050979/2025-04-29/0"
+intitule_bron: "Stcrt.2025-14259"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-23"
+intitule_published: "2025-04-25"
+intitule_in_force: "2025-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-14259"
+original_signed_date: "2025-04-23"
+original_published_date: "2025-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-14259"
+entry_into_force_date: "2025-04-29"
+jci_1_3: "jci1.3:c:BWBR0050979&z=2025-04-29&g=2025-04-29"
+jci_1_0: "1.0:c:BWBR0050979&g=2025-04-29"
+citeertitel_status: "officieel"
+short_title: "Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten"
+signed_date: "2025-04-23"
+entry_into_force: "2025-04-29"
 ---
-
 # Regeling van de Minister van Economische Zaken van 23 april 2025, nr. WJZ/ 98207028, tot vaststelling van voorwaarden van afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele systemen (Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten)
 
 Gelet op [artikel 3.22, tweede lid, van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=3.22) en de [artikelen 1.3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=1.3), [1.4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=1.4) en [2.3, tweede lid, van het Besluit afwijkend gebruik frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0050986&artikel=2.3);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Besluit afwijkend gebruik frequenti
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -36,13 +62,13 @@ In deze regeling wordt verstaan onder:
 
 - –. **radiointerventiemiddel:** apparaat waarvan de inzet tot doel heeft om een onbemand mobiel object tot stoppen te brengen of zodanig te beïnvloeden dat hiermee een dreiging of het gevaar voor de veiligheid wordt afgewend.
 
-#### Artikel 2. Vrijstelling
+##### Artikel 2. Vrijstelling
 
 Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0050979&hoofdstuk=2&artikel=3&z=2025-04-29&g=2025-04-29) is vrijgesteld van de bij of krachtens [hoofdstuk 3 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&hoofdstuk=3) gestelde verplichtingen.
 
 ### Hoofdstuk 2. Eisen aan inzet afwijkend gebruik van de frequentieruimte
 
-#### Artikel 3. Eisen aan en registratie van radiointerventiemiddel
+##### Artikel 3. Eisen aan en registratie van radiointerventiemiddel
 
 1. Het radiointerventiemiddel voldoet aan de volgende eisen:
 
@@ -100,7 +126,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 - g. kalibratiehistorie.
 
-#### Artikel 4. Registratie vervoer en opslag radiointerventiemiddelen
+##### Artikel 4. Registratie vervoer en opslag radiointerventiemiddelen
 
 1. De eenheid houdt van het radiointerventiemiddel een eigen administratie bij ten aanzien van vervoer en opslag.
 
@@ -108,7 +134,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 3. De eenheid geeft ten behoeve van toezichtsdoeleinden toegang tot de locatie, genoemd in het tweede lid, aan de minister.
 
-#### Artikel 5. Kennis ambtenaar
+##### Artikel 5. Kennis ambtenaar
 
 1. De ambtenaar die een radiointerventiemiddel zal configureren of inzetten, heeft:
 
@@ -122,7 +148,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 2. De ambtenaar, bedoeld in het eerste lid, onderhoudt de in het eerste lid bedoelde kennis en volgt daartoe de benodigde opleiding, en wordt elke twee jaar, na het behalen van het examen, bedoeld in het eerste lid onderdeel a, getoetst op alle onderdelen bedoeld in het eerste lid.
 
-#### Artikel 6. Registratie aangewezen ambtenaren
+##### Artikel 6. Registratie aangewezen ambtenaren
 
 1. Ambtenaren die zijn aangewezen door de verantwoordelijke om radiointerventiemiddelen in te zetten, worden geregistreerd. Hierbij worden de volgende gegevens vastgelegd:
 
@@ -142,7 +168,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 ### Hoofdstuk 3. Voorwaarden aan mogelijke en daadwerkelijke inzet
 
-#### Artikel 7. Impactanalyse
+##### Artikel 7. Impactanalyse
 
 1. De verantwoordelijke voor de inzet draagt er zorg voor dat een impactanalyse plaatsvindt van het afwijkend gebruik van de frequentieruimte op andere bij het frequentiegebruik betrokkenen en stelt deze betrokkenen voorafgaand aan de inzet op de hoogte van de voorgenomen inzet, voor zover nationale veiligheid of operationele belangen zich daar niet tegen verzetten.
 
@@ -158,7 +184,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 - b. organisatoren van een evenement van wie het op dat moment aan hen toegestane frequentiegebruik gestoord kan worden door het afwijkend gebruik van de frequentieruimte.
 
-#### Artikel 8. Opstellen procedures en instructies
+##### Artikel 8. Opstellen procedures en instructies
 
 1. De verantwoordelijke stelt procedures en instructies op waarin beschreven wordt hoe het radiointerventiemiddel zal worden ingezet.
 
@@ -170,7 +196,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 3. De verantwoordelijke informeert de minister jaarlijks over deze procedures en instructies.
 
-#### Artikel 9. Melding aan de minister voorafgaand aan geplande inzet
+##### Artikel 9. Melding aan de minister voorafgaand aan geplande inzet
 
 1. Een geplande inzet van afwijkend gebruik van de frequentieruimte wordt door de verantwoordelijke voorafgaand gemeld aan de minister, vergezeld van de gemaakte impactanalyse.
 
@@ -206,7 +232,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 5. Indien het gebruik niet overeenstemde met de melding, bedoeld in het tweede lid, meldt de verantwoordelijke aan de minister welke afwijkingen hebben plaatsgevonden.
 
-#### Artikel 10. Melding na onmiddellijke inzet
+##### Artikel 10. Melding na onmiddellijke inzet
 
 1. [Artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050979&hoofdstuk=3&artikel=9&z=2025-04-29&g=2025-04-29), is niet van toepassing in het geval van een dreiging waarbij onmiddellijk handelen is vereist. In dat geval wordt zo spoedig mogelijk na de inzet aan de minister gemeld:
 
@@ -228,7 +254,7 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 3. [Artikel 9, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050979&hoofdstuk=3&artikel=9&z=2025-04-29&g=2025-04-29), is van overeenkomstige toepassing.
 
-#### Artikel 11. Jaarlijkse evaluatie
+##### Artikel 11. Jaarlijkse evaluatie
 
 1. De minister evalueert jaarlijks met de relevante betrokkenen op vertrouwelijke wijze de organisatorische elementen van de inzet en de wijze van informatiedeling omtrent de inzet van het afwijkend gebruik van de frequentieruimte. De relevante betrokkenen zijn in ieder geval die partijen die genoemd zijn in de gemaakte impactanalyses uit het betreffende jaar, waarbij de inzet daadwerkelijk heeft plaatsgevonden.
 
@@ -236,11 +262,11 @@ Afwijkend gebruik van de frequentieruimte dat voldoet aan de [artikelen 3 tot en
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit afwijkend gebruik frequentieruimte](https://wetten.overheid.nl/jci1.3:c:BWBR0050986) in werking treedt.
 
-#### Artikel 13. Citeertitel
+##### Artikel 13. Citeertitel
 
 Deze regeling wordt aangehaald als: Vrijstellingsregeling afwijkend gebruik frequentieruimte ter bestrijding van onbemande mobiele objecten.
 

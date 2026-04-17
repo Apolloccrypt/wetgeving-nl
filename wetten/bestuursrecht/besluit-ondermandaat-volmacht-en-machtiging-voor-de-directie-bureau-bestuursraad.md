@@ -1,13 +1,39 @@
 ---
-title: "Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019"
+title: "Besluit van de directeur Bureau Bestuursraad van 11 maart 2019, nr. 19067296, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019)"
 identifier: "BWBR0042079"
-categorie: "Bestuursrecht"
-publicatiedatum: 2019-04-02
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042079"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-04-02"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042079"
+soort: "ministeriele-regeling"
+stam_id: "15044573"
+version_id: "25779522"
+internal_id: "C36758251"
+label_id: "14994004"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042079/2019-04-02/0"
+intitule_bron: "Stcrt.2019-17556"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-03-11"
+intitule_published: "2019-04-01"
+intitule_in_force: "2019-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-17556"
+original_signed_date: "2019-03-11"
+original_published_date: "2019-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-17556"
+entry_into_force_date: "2019-04-02"
+jci_1_3: "jci1.3:c:BWBR0042079&z=2019-04-02&g=2019-04-02"
+jci_1_0: "1.0:c:BWBR0042079&g=2019-04-02"
+citeertitel_status: "officieel"
+short_title: "Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019"
+signed_date: "2019-03-11"
+entry_into_force: "2019-04-02"
 ---
-
 # Besluit van de directeur Bureau Bestuursraad van 11 maart 2019, nr. 19067296, houdende verlening van ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019 (Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019)
 
 Gelet op [artikel 19 van het Besluit mandaat, volmacht en machtiging EZK 2019](https://wetten.overheid.nl/jci1.3:c:BWBR0041776&artikel=19);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Taakverdeling tussen de directeur en de onder hem ressorterende functionarissen
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van andere handelingen dan een besluit of een privaatrechtelijke rechtshandeling betreffende:
 
@@ -42,7 +68,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 - 2°. die door een lid van het MT-Bureau Bestuursraad aan de directeur ter afhandeling worden voorgelegd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de MT-leden wordt, ieder voor zich, ondermandaat, volmacht en machtiging verleend voor de aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 50.000 per verplichting niet te boven gaat.
 
@@ -58,7 +84,7 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 - e. het accorderen van aanvragen voor dienstreizen en het goedkeuren van reiskostendeclaraties binnen en buiten de Europese Unie.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de manager wordt ondermandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein met dien verstande dat het aangaan van financiële verplichtingen een bedrag van € 5.000 per verplichting niet te boven gaat.
 
@@ -76,21 +102,21 @@ Aan de directeur is voorbehouden: het nemen van besluiten, het verrichten van pr
 
 #### § 3. Vervanging
 
-#### Artikel 5
+##### Artikel 5
 
 De uit dit besluit voor een MT-lid voortvloeiende bevoegdheden gaan bij zijn afwezigheid over op een ander MT-lid.
 
 #### § 4. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Het [Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0036136) wordt ingetrokken.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2019.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit ondermandaat, volmacht en machtiging voor de directie Bureau Bestuursraad van het Ministerie van Economische Zaken en Klimaat 2019.
 

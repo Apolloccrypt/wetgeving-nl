@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2024"
+title: "Regeling van de Minister van Klimaat en Groene Groei van 21 april 2025, nr. WJZ/ 97453641 tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2024 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2024) [KetenID WGK 27593]"
 identifier: "BWBR0050977"
-categorie: "Milieu"
-publicatiedatum: 2025-04-24
-laatste_update: 2025-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050977"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-24"
+last_updated: "2025-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050977"
+soort: "ministeriele-regeling"
+stam_id: "17413753"
+version_id: "30703492"
+internal_id: "C44010661"
+label_id: "17317024"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050977/2025-04-24/0"
+intitule_bron: "Stcrt.2025-12220"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-04-21"
+intitule_published: "2025-04-23"
+intitule_in_force: "2025-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-12220"
+original_signed_date: "2025-04-21"
+original_published_date: "2025-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-12220"
+entry_into_force_date: "2025-04-24"
+jci_1_3: "jci1.3:c:BWBR0050977&z=2025-04-24&g=2025-04-24"
+jci_1_0: "1.0:c:BWBR0050977&g=2025-04-24"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2024"
+signed_date: "2025-04-21"
+entry_into_force: "2025-04-24"
 ---
-
 # Regeling van de Minister van Klimaat en Groene Groei van 21 april 2025, nr. WJZ/ 97453641 tot vaststelling van de definitieve correcties voor de stimulering van duurzame energieproductie en klimaattransitie in het jaar 2024 (Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2024) [KetenID WGK 27593]
 
 Gelet op de [artikelen 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), [39, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=39), [47, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47), [54, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=54), [55i, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55i), en [55p, derde lid, van het Besluit stimulering duurzame energieproductie en klimaattransitie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=55p);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -72,7 +98,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de regelingen tot en met voorjaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -388,7 +414,7 @@ Voor de regelingen tot en met voorjaar 2020 worden voor een productie-installati
 | [Artikel 14, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=14) | Fotovoltaïsche zonnepanelen, ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (netlevering) | 0,037 |
 | Artikel 14, onderdeel d | Fotovoltaïsche zonnepanelen, ≥ 1 MWp zonvolgend niet gebouwgebonden systeem (niet-netlevering) | 0,077 |
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -613,7 +639,7 @@ Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als b
 | [Artikel 23, eerste lid, onderdeel d, subonderdeel 4°](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=23) | Zon-PV ≥ 20 MWp, zonvolgend op land natuurinclusief | 0,0492 | 0,0020 |
 | [Artikel 23, eerste lid, onderdeel d, subonderdeel 5°](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=23) | Zon-PV ≥ 1 MWp, zonvolgend op water | 0,0492 | 0,0020 |
 
-#### Artikel 4
+##### Artikel 4
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het tenderbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -645,7 +671,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 5
+##### Artikel 5
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -875,7 +901,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 | [Artikel 31, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=31) | Biomassavergassing (inclusief B-hout) | 0,0521 |
 | [Artikel 31, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=31) | Biomassavergassing (exclusief B-hout) | 0,0521 |
 
-#### Artikel 6
+##### Artikel 6
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -892,7 +918,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 7
+##### Artikel 7
 
 Voor regelingen tot en met voorjaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1230,7 +1256,7 @@ Voor regelingen tot en met voorjaar 2020 worden voor een productie-installatie a
 | [Artikel 42, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=42) | Stoomketel op houtpellets, warmte en gecombineerde opwekking | 0,052 |
 | [Artikel 44, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043270&artikel=44) | Direct inzet (brander) van houtpellets voor industriele toepassingen voor warmte en gecombineerde opwekking | 0,073 |
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1448,7 +1474,7 @@ Voor de regelingen vanaf najaar 2020 worden voor een productie-installatie als b
 | [Artikel 57, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=57) | Diepe geothermie, basislast, aanvullende put | 0,0405 | 0,0015 |
 | [Artikel 57, onderdeel f](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=57) | Ultradiepe geothermie, basislast | 0,0405 | 0,0146 |
 
-#### Artikel 9
+##### Artikel 9
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het tenderbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1465,7 +1491,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 5. Correctiebedragen andere technieken ter vermindering van broeikasgas
 
-#### Artikel 10
+##### Artikel 10
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1490,7 +1516,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 | [Artikel 64, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0044108&artikel=64) | Restwarmtebenutting (met warmtepomp) | 0,052 | 0,003 |
 | [Artikel 66](https://wetten.overheid.nl/jci1.3:c:BWBR0044108&artikel=66) | Waterstof uit elektrolyse | 0,072 | 0,000 |
 
-#### Artikel 11
+##### Artikel 11
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1635,7 +1661,7 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 | [Artikel 79, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=79) | Geavanceerde hernieuwbare transportbrandstoffen, bioLNG uit allesvergisting | 0,0611 | 0,0000 | 0,0674 |
 | [Artikel 79, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0049998&artikel=79) | Geavanceerde hernieuwbare transportbrandstoffen, diesel- en benzinevervangers uit vaste lignocellulose houdende biomassa | 0,0902 | 0,0000 | 0,0674 |
 
-#### Artikel 12
+##### Artikel 12
 
 Voor een productie-installatie als bedoeld in het in de eerste kolom van onderstaande tabel genoemde artikel worden de correcties op het basisbedrag voor subsidie voor 2024 vastgesteld:
 
@@ -1852,11 +1878,11 @@ Voor een productie-installatie als bedoeld in het in de eerste kolom van onderst
 
 #### § 6. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling wordt aangehaald als: Regeling vaststelling definitieve correcties duurzame energieproductie en klimaattransitie 2024.
 

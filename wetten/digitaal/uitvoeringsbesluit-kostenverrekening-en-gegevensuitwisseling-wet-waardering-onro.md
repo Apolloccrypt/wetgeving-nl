@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
+title: "Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
 identifier: "BWBR0007230"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007230"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007230"
+soort: "AMvB"
+stam_id: "997403"
+version_id: "19780112"
+internal_id: "C27779811"
+label_id: "966534"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007230/2026-01-01/0"
+intitule_bron: "Stb.1995-67"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-02-04"
+intitule_published: "1995-02-14"
+intitule_in_force: "1995-02-14"
+intitule_status: "goed"
+original_publication: "Stb.2012-557"
+original_signed_date: "2012-11-06"
+original_published_date: "2012-11-16"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-557"
+entry_into_force_date: "2012-11-06"
+jci_1_3: "jci1.3:c:BWBR0007230&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0007230&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken"
+signed_date: "2012-11-06"
+entry_into_force: "2012-11-06"
 ---
-
 # Besluit van 4 februari 1995, tot vaststelling van het Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 november 1994, nr. WV 94/508 M, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken Van de Vondervoort;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Definities
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=3), [37a](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a), [37h](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=39) en [40a van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a).
 
@@ -44,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Kostenverrekening
 
-#### Artikel 2
+##### Artikel 2
 
 1. De kosten van de Waarderingskamer komen ten laste van de afnemers. Het Rijk betaalt 25 percent, de gemeenten 50 percent en de waterschappen 25 percent.
 
@@ -58,11 +84,11 @@ Hebben goedgevonden en verstaan:
 
 6. De Waarderingskamer stelt regels omtrent de verdeling over de gemeenten van de vergoeding voor het aandeel van de gemeenten in de kosten van de Waarderingskamer.
 
-#### Artikel 3
+##### Artikel 3
 
 Onder de kosten van de Waarderingskamer, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), worden verstaan de kosten verbonden aan de uitoefening van toezicht op de waardering, de kosten verbonden aan de uitoefening van toezicht op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ), de kosten verbonden aan de geschillenbeslechting, bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=4&artikel=11&z=2026-01-01&g=2026-01-01) van de wet, de kosten verbonden aan advisering van de Waarderingskamer door derden, alsmede de huisvestings- en personele kosten.
 
-#### Artikel 4
+##### Artikel 4
 
 Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=2&artikel=2&z=2026-01-01&g=2026-01-01), worden verstaan de kosten verbonden aan:
 
@@ -76,11 +102,11 @@ Onder de kosten van de waardering, bedoeld in [artikel 2, tweede lid](https://we
 
 - 5°. het behandelen van bezwaar- en beroepschriften tegen de beschikkingen, bedoeld in de [artikelen 22](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=22), [26](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=26), [27](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=27) en [28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=28).
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De kosten van de Waarderingskamer worden aan de hand van de door haar vastgestelde begroting als bedoeld in [artikel 26 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=26), in januari van het jaar waarop zij betrekking hebben, in voorlopige rekening gebracht aan de afnemers.
 
@@ -88,7 +114,7 @@ Vervallen
 
 3. Na de goedkeuring door Onze Minister van het verslag van de Waarderingskamer als bedoeld in [artikel 18 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=18), vindt de definitieve kostenverrekening plaats met de kosten van het jaar volgend op het jaar waarover dat verslag is vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De kosten van de landelijke voorziening WOZ komen ten laste van de afnemers. Het Rijk betaalt 40 percent, de gemeenten 45 percent en de waterschappen 15 percent.
 
@@ -106,7 +132,7 @@ Vervallen
 
 ### Hoofdstuk 3. Gegevensbeheer
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten behoeve van de heffing van belastingen door de afnemers worden door het college van burgemeester en wethouders ten minste de in de bijlage vermelde gegevens geregistreerd met betrekking tot:
 
@@ -116,7 +142,7 @@ Vervallen
 
 2. De authentieke gegevens uit andere basisregistraties die worden opgenomen in de basisregistratie WOZ, bedoeld in [artikel 37a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37a), zijn de in de bijlage genoemde gegevens met de codenummers 10.20, 11.10, 11.20, 11.30, 11.40, 11.70, 51.10, 51.20, 51.30, 51.40, 51.50, 41.20, 01.10, 02.30, 04.05, 03.10, 02.31, 02.41, 08.10 en 08.11.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het college van burgemeester en wethouders levert de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0007230&hoofdstuk=3&artikel=7&z=2026-01-01&g=2026-01-01) bedoelde gegevens aan de Dienst ten behoeve van de opname in de landelijke voorziening WOZ.
 
@@ -130,13 +156,13 @@ Vervallen
 
 4. De Dienst draagt onverwijld zorg voor de levering van de gegevens, feiten en omstandigheden, bedoeld in dit artikel, aan de afnemers.
 
-#### Artikel 9
+##### Artikel 9
 
 De specificaties voor de aanlevering van gegevens door het college van burgemeester en wethouders aan de Dienst worden door de Waarderingskamer vastgesteld in overleg met de afnemers en de Dienst en gepubliceerd door de Waarderingskamer.
 
 ### Hoofdstuk 4. Overgangs- en slotbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Als bestuursorgaan dat bevoegd is tot het gebruik van het waardegegeven en de daarbij behorende temporele en meta-kenmerken op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) worden aangewezen:
 
@@ -168,7 +194,7 @@ De specificaties voor de aanlevering van gegevens door het college van burgemees
 
 2. Als bestuursorgaan dat bevoegd is tot het gebruik van de temporele en meta-kenmerken behorend bij het waardegegeven op grond van [artikel 37h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=37h) wordt aangewezen de Autoriteit Consument en Markt ten behoeve van het vaststellen van een aansluiting als bedoeld in [artikel 1.1 van de Energiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0050714&artikel=1.1).
 
-#### Artikel 11
+##### Artikel 11
 
 1. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven en de daarbij behorende temporele en meta-kenmerken van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen:
 
@@ -182,11 +208,11 @@ indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenme
 
 3. Als derden als bedoeld in [artikel 40a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&artikel=40a), waaraan het waardegegeven en de daarbij behorende temporele en meta-kenmerken van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden mede aangewezen instellingen als bedoeld in [artikel 1, eerste lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=1), indien deze om het waardegegeven en de daarbij behorende temporele en meta-kenmerken verzoeken ten behoeve van het verrichten van cliëntenonderzoek of melden van verrichte of voorgenomen ongebruikelijke transacties, bedoeld in [artikel 2a, eerste lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0024282&artikel=2a).
 
-#### Artikel 12
+##### Artikel 12
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt terug tot en met 1 januari 1995.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit kostenverrekening en gegevensuitwisseling Wet waardering onroerende zaken.
 
@@ -428,7 +454,7 @@ Volledig postadres van subject voorzover noodzakelijk bestaande uit:
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Vervallen
 
@@ -454,7 +480,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De Dienst beheert de landelijke voorziening WOZ in overleg met de afnemers.
 

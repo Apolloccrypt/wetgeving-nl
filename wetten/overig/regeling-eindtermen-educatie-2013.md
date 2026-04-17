@@ -1,20 +1,46 @@
 ---
-title: "Regeling eindtermen educatie 2013"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2012, nr. BVE/431518, inzake het vaststellen van de eindtermen voor de opleidingen Nederlands als tweede taal en de opleidingen Nederlandse taal en rekenen (Regeling eindtermen educatie 2013)"
 identifier: "BWBR0032543"
-categorie: "Overig"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032543"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032543"
+soort: "ministeriele-regeling"
+stam_id: "11978893"
+version_id: "27774992"
+internal_id: "C39174101"
+label_id: "11950804"
+dtd_version: "2.0"
+original_entry_into_force: "2021-05-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032543/2022-01-01/0"
+intitule_bron: "Stcrt.2012-26586"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-12"
+intitule_published: "2012-12-21"
+intitule_in_force: "2012-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-25700"
+original_signed_date: "2021-05-11"
+original_published_date: "2021-05-21"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-25700"
+entry_into_force_date: "2021-05-11"
+jci_1_3: "jci1.3:c:BWBR0032543&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0032543&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling eindtermen educatie 2013"
+signed_date: "2021-05-11"
+entry_into_force: "2021-05-11"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 12 december 2012, nr. BVE/431518, inzake het vaststellen van de eindtermen voor de opleidingen Nederlands als tweede taal en de opleidingen Nederlandse taal en rekenen (Regeling eindtermen educatie 2013)
 
 Gelet op [artikel 7.3.3, eerste lid, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.3);
 
 Besluit:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - b. **Wet:** [Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625).
 
-#### Artikel 2. Eindtermen
+##### Artikel 2. Eindtermen
 
 1. De eindtermen voor de opleidingen Nederlandse taal en rekenen, gericht op alfabetisering en op het ingangsniveau van het beroepsonderwijs, als bedoeld in [artikel 7.3.1, eerste lid, onder b, van de Wet](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=7.3.1) worden als volgt vastgesteld:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 6. De eindtermen voor de taalschakeltrajecten, bedoeld in [artikel 1, tweede lid, van de Regeling aanwijzing opleidingen educatie](https://wetten.overheid.nl/jci1.3:c:BWBR0040019&artikel=1), worden vastgesteld zoals opgenomen in [bijlage 9](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&bijlage=9&z=2022-01-01&g=2022-01-01) bij deze regeling.
 
-#### Artikel 3. Intrekken regeling
+##### Artikel 3. Intrekken regeling
 
 De volgende regelingen worden ingetrokken:
 
@@ -52,13 +78,13 @@ De volgende regelingen worden ingetrokken:
 
 - 2. Regeling Eindtermen Breed Maatschappelijk functioneren en Sociale redzaamheid.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling treedt met uitzondering van [artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01), in werking met ingang van 1 januari 2013.
 
 2. [Artikel 2, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032543&artikel=2&z=2022-01-01&g=2022-01-01), treedt in werking met ingang van 1 augustus 2013.
 
-#### Artikel 5. Citeertitel
+##### Artikel 5. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling eindtermen educatie 2013.
 

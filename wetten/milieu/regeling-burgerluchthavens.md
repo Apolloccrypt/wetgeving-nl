@@ -1,13 +1,39 @@
 ---
-title: "Regeling burgerluchthavens"
+title: "Regeling houdende regels voor burgerluchthavens (Regeling burgerluchthavens)"
 identifier: "BWBR0026564"
-categorie: "Milieu"
-publicatiedatum: 2024-07-30
-laatste_update: 2024-07-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026564"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-07-30"
+last_updated: "2024-07-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026564"
+soort: "ministeriele-regeling"
+stam_id: "10254103"
+version_id: "16780612"
+internal_id: "C23102461"
+label_id: "10229914"
+dtd_version: "2.0"
+original_entry_into_force: "2009-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026564/2024-07-30/0"
+intitule_bron: "Stcrt.2009-16154"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-10-27"
+intitule_published: "2009-10-30"
+intitule_in_force: "2009-10-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2009-16154"
+original_signed_date: "2009-10-27"
+original_published_date: "2009-10-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2009-16154"
+entry_into_force_date: "2009-11-01"
+jci_1_3: "jci1.3:c:BWBR0026564&z=2024-07-30&g=2024-07-30"
+jci_1_0: "1.0:c:BWBR0026564&g=2024-07-30"
+citeertitel_status: "officieel"
+short_title: "Regeling burgerluchthavens"
+signed_date: "2009-10-27"
+entry_into_force: "2009-11-01"
 ---
-
 # Regeling houdende regels voor burgerluchthavens (Regeling burgerluchthavens)
 
 Gelet op:
@@ -20,7 +46,7 @@ Besluiten:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 - **zeilvliegtuig:** zweeftoestel met een starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een wijziging van de op grond van deze regeling toepasselijke bijlagen bij het verdrag gaat, tenzij bij besluit van de minister anders is bepaald, voor de toepassing van deze regeling gelden met ingang van de dag waarop die wijziging internationaal in werking treedt.
 
@@ -52,11 +78,11 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Grenswaarden en beperkingengebieden
 
-#### Artikel 3
+##### Artikel 3
 
 Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) en, voor zover dat in deze regeling is bepaald, op de burgerluchthaven Weeze, bedoeld in [artikel 8a.54, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.54).
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Lden-contouren, de Lden-grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=1&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door de Minister van Infrastructuur en Waterstaat ter beschikking gestelde Indelingslijst luchtvaartuigtypen en Addendum met de voorschriften voor de berekening van de geluidbelasting in Lden.
 
@@ -64,17 +90,17 @@ Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [art
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op de berekening van de Lden-contouren, bedoeld in [artikel 3 van het Besluit beperkingengebied Weeze](https://wetten.overheid.nl/jci1.3:c:BWBR0049481&artikel=3).
 
-#### Artikel 5
+##### Artikel 5
 
 1. De 10-5 en 10-6 plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=2&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.
 
 2. Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde lijst wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden risicocontouren geschiedt, ten behoeve van het vaststellen van een luchthavenbesluit, op basis van dezelfde geprognotiseerde gebruiksgegevens van de luchthaven als die gebruikt worden voor het berekenen van de in het luchthavenbesluit vast te stellen grenswaarden in handhavingspunten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De omvang van het veiligheidsgebied als bedoeld in [artikel 13 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=13) wordt vastgesteld overeenkomstig het in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=3&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift.
 
@@ -88,7 +114,7 @@ Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden
 
 3. In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2024-07-30&g=2024-07-30) bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het gebied met hoogtebeperkingen in verband met de vliegveiligheid als bedoeld in [artikel 14 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=14) wordt vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag, met uitzondering van de onderdelen 4.1.11, 4.1.12, 4.1.17 tot en met 4.1.24, 4.2.3, 4.2.4, 4.2.5, 4.2.10 tot en met 4.2.12, 4.2.14, 4.2.15, 4.2.18 tot en met 4.2.21, 4.2.25, 4.2.27, 4.3.1, 4.3.2, 4.4.1, 4.4.2, figuur 4-2 en de in tabel 4-1 opgenomen inner approach surface, inner transitional surface en balked landing surface en de daarbij behorende dimensies, en met dien verstande dat:
 
@@ -120,11 +146,11 @@ Het berekenen en bepalen van de Lden-contouren en de 10-5 en 10-6 plaatsgebonden
 
 - c. voor luchthavens die uitsluitend worden gebruikt door helikopters en in gebruik zijn genomen voor 1 juli 2014, geldt voor de eerste sectie van de naderings- en startsector, bedoeld in onderdeel 4.2.3 van deel II (Heliports) van bijlage 14 van het verdrag, een helling van 12,5%.
 
-#### Artikel 9
+##### Artikel 9
 
 Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in [artikel 15 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=15) alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in [bijlage 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=6&z=2024-07-30&g=2024-07-30) van deze regeling opgenomen voorschrift.
 
-#### Artikel 10
+##### Artikel 10
 
 Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0026525&artikel=17) wordt vastgesteld:
 
@@ -134,7 +160,7 @@ Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://
 
 ### Hoofdstuk 3. Verklaring van veilig gebruik luchtruim
 
-#### Artikel 11
+##### Artikel 11
 
 1. De aanvraag voor een verklaring als bedoeld in [artikel 8.49, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.49) bevat in ieder geval de volgende gegevens:
 
@@ -162,11 +188,11 @@ Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](https://
 
 ### Hoofdstuk 4. Het registreren en verstrekken van gegevens
 
-#### Artikel 12
+##### Artikel 12
 
 De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30) zijn van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1) met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in [artikel 13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), en de termijn bedoeld in [artikel 13, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van [artikel 8.54, tweede lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.54), geen afwijkende bepalingen zijn vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De exploitant van de luchthaven registreert en berekent de in [bijlage 7](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=7&z=2024-07-30&g=2024-07-30) van deze regeling aangegeven gegevens over de daarbij aangegeven tijdvakken.
 
@@ -174,7 +200,7 @@ De [artikelen 13 tot en met 16](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&
 
 3. In het geval van een dreigende overschrijding van een in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarde kan de Inspecteur-Generaal een andere dan de in het tweede lid bedoelde termijn bepalen waarbinnen de exploitant de desbetreffende in het eerste lid bedoelde gegevens dient te verstrekken.
 
-#### Artikel 14
+##### Artikel 14
 
 De exploitant van de luchthaven:
 
@@ -184,15 +210,15 @@ De exploitant van de luchthaven:
 
 - c. draagt er zorg voor dat de gegevens worden beveiligd tegen ongeautoriseerde wijzigingen, diefstal en brand.
 
-#### Artikel 15
+##### Artikel 15
 
 De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren.
 
-#### Artikel 16
+##### Artikel 16
 
 De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&hoofdstuk=4&artikel=13&z=2024-07-30&g=2024-07-30), bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het verslag bedoeld in de [artikelen 8.55](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.55) en [8.65](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.65) juncto [8.55 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.55) bevat ten minste:
 
@@ -204,7 +230,7 @@ De exploitant van de luchthaven beschikt over de benodigde middelen en infrastru
 
 ### Hoofdstuk 5. Vrijstelling
 
-#### Artikel 18
+##### Artikel 18
 
 1. Van het verbod bedoeld in [artikel 8.1a, derde lid, eerste volzin, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) worden vrijgesteld:
 
@@ -224,17 +250,17 @@ De exploitant van de luchthaven beschikt over de benodigde middelen en infrastru
 
 2. Van de in het vorige lid, onderdelen c tot en met g bedoelde vrijstelling kan slechts gebruik worden gemaakt onder de voorwaarden dat de gebruiker van de luchthaven beschikt over een door de burgemeester van de gemeente waar de luchthaven is gelegen, in verband met de openbare orde en veiligheid, afgegeven verklaring van geen bezwaar en dat de gebruiker van de luchthaven mededeling doet van de afgifte van deze verklaring aan de inspecteur-generaal van de Inspectie Leefomgeving en Transport.
 
-#### Artikel 19
+##### Artikel 19
 
 Van het verbod bedoeld in [artikel 8.1a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8.1a) zijn vrijgesteld luchthavens die uitsluitend worden gebruikt door helikopters.
 
 ### Hoofdstuk 6. Slotbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 Deze regeling kan worden aangehaald als: Regeling burgerluchthavens.
 
-#### Artikel 21
+##### Artikel 21
 
 Deze regeling treedt in werking met ingang van 1 november 2009.
 
@@ -1316,7 +1342,7 @@ Figuur 1 Omnidirectionele systemen
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de [bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBR0026564&bijlage=4&z=2024-01-01&g=2024-01-01) die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 1a
+##### Artikel 1a
 
 Deze regeling berust mede op [artikel 8a.59, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=8a.59).
 

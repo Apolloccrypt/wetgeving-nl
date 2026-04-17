@@ -1,13 +1,37 @@
 ---
 title: "Boekwerk heffingen bij invoer, Deel II"
 identifier: "BWBR0013792"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-06-27
-laatste_update: 2002-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013792"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2002-06-27"
+last_updated: "2002-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013792"
+soort: "beleidsregel"
+stam_id: "8440993"
+version_id: "13318602"
+internal_id: "C18449931"
+label_id: "8421654"
+dtd_version: "2.0"
+original_entry_into_force: "2002-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013792/2002-06-27/0"
+intitule_bron: "Infob.2002-6"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-06-19"
+intitule_published: "2002-01-01"
+intitule_in_force: "2002-01-01"
+intitule_status: "goed"
+original_publication: "Infob.2002-6"
+original_signed_date: "2002-06-19"
+original_published_date: "2002-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-06-27"
+jci_1_3: "jci1.3:c:BWBR0013792&z=2002-06-27&g=2002-06-27"
+jci_1_0: "1.0:c:BWBR0013792&g=2002-06-27"
+citeertitel_status: "redactioneel"
+signed_date: "2002-06-19"
+entry_into_force: "2002-06-27"
 ---
-
 # Boekwerk heffingen bij invoer, Deel II
 
 Onderwerp:

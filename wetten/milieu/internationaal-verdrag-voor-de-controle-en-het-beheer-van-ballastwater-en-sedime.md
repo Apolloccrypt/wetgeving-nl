@@ -1,13 +1,35 @@
 ---
 title: "Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, 2004"
 identifier: "BWBV0003219"
-categorie: "Milieu"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003219"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003219"
+soort: "verdrag"
+stam_id: "10003410823"
+version_id: "10003455882"
+internal_id: "C10009162631"
+label_id: "10003397204"
+dtd_version: "2.0"
+original_entry_into_force: "2017-09-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003219/2025-10-01/0"
+intitule_bron: "Trb.2004-256"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-10-14"
+intitule_in_force: "2016-10-12"
+intitule_status: "goed"
+original_publication: "Trb.2004-256"
+original_published_date: "2004-10-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-256"
+entry_into_force_date: "2017-09-08"
+jci_1_3: "jci1.3:c:BWBV0003219&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBV0003219&g=2025-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2017-09-08"
 ---
-
 # Internationaal Verdrag voor de controle en het beheer van ballastwater en sedimenten van schepen, 2004
 
 De partijen bij dit Verdrag,
@@ -36,7 +58,7 @@ Overwegende dat deze doelstellingen het best kunnen worden verwezenlijkt door he
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt verstaan onder:
 
@@ -64,7 +86,7 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt v
 
 - 12. „Schip”, een vaartuig, ongeacht het type, dat zich bevindt in een aquatische omgeving, met inbegrip van afzinkbare vaartuigen, vaartuigen in drijvende toestand, drijvende platforms, FSU's en FPSO's.
 
-#### Artikel 2. Algemene verplichtingen
+##### Artikel 2. Algemene verplichtingen
 
 1. De Partijen verplichten zich de bepalingen van dit Verdrag en de Bijlage erbij volledig uit te voeren teneinde de verplaatsing van schadelijke aquatische organismen en ziektekiemen te voorkomen, te beperken en uiteindelijk uit te bannen door middel van controle en beheer van het ballastwater en de sedimenten van schepen.
 
@@ -84,7 +106,7 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt v
 
 9. De Partijen streven naar samenwerking onder auspiciën van de Organisatie teneinde bedreigingen aan en risico's voor gevoelige, kwetsbare of bedreigde mariene ecosystemen en de biodiversiteit in gebieden buiten de grenzen van hun nationale rechtsmacht met betrekking tot ballastwaterbeheer aan te pakken.
 
-#### Artikel 3. Toepassing
+##### Artikel 3. Toepassing
 
 1. Tenzij uitdrukkelijk anders bepaald in dit Verdrag, is dit Verdrag van toepassing op:
 
@@ -108,19 +130,19 @@ Voor de toepassing van dit Verdrag, tenzij uitdrukkelijk anders bepaald, wordt v
 
 3. Ten aanzien van schepen van Staten die geen Partij zijn bij dit Verdrag, passen de Partijen de vereisten van dit Verdrag waar nodig toe teneinde te waarborgen dat dergelijke schepen niet gunstiger behandeld worden.
 
-#### Artikel 4. Controle op de verplaatsing van schadelijke aquatische organismen en ziektekiemen via het ballastwater en de sedimenten van schepen
+##### Artikel 4. Controle op de verplaatsing van schadelijke aquatische organismen en ziektekiemen via het ballastwater en de sedimenten van schepen
 
 1. Elke Partij verlangt dat de schepen waarop dit Verdrag van toepassing is en die gerechtigd zijn haar vlag te voeren of die onder haar gezag varen, voldoen aan de vereisten vervat in dit Verdrag, met inbegrip van de toepasselijke normen en vereisten in de Bijlage en neemt doeltreffende maatregelen om te waarborgen dat die schepen voldoen aan die vereisten.
 
 2. Elke Partij ontwikkelt in overeenstemming met haar omstandigheden en mogelijkheden nationaal beleid, nationale strategieën of programma's voor ballastwaterbeheer in de havens en wateren onder haar rechtsmacht die beantwoorden aan en bevorderlijk zijn voor de verwezenlijking van de doelstellingen van dit Verdrag.
 
-#### Artikel 5. Ontvangstinrichtingen voor sedimenten
+##### Artikel 5. Ontvangstinrichtingen voor sedimenten
 
 1. Rekening houdend met de door de Organisatie opgestelde richtlijnen verplicht elke Partij zich te waarborgen dat in de door die Partij aangewezen havens en laad- en losplaatsen waar ballasttanks worden gereinigd of hersteld adequate voorzieningen zijn voor de ontvangst van sedimenten. Deze ontvangstinrichtingen fungeren zonder onnodige vertraging te veroorzaken voor schepen en voorzien in de veilige afvoer van dergelijke sedimenten op een wijze die niet ten koste gaat van of schade toebrengt aan het milieu, de gezondheid van de mens, of goederen of hulpbronnen op haar grondgebied of dat van andere Staten.
 
 2. Elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Partijen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van het eerste lid ter beschikking gestelde voorzieningen onvoldoende zijn.
 
-#### Artikel 6. Wetenschappelijk en technisch onderzoek en monitoring
+##### Artikel 6. Wetenschappelijk en technisch onderzoek en monitoring
 
 1. De Partijen streven ernaar, individueel of gezamenlijk:
 
@@ -136,13 +158,13 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 - b. de doeltreffendheid van ballastwaterbeheer afgeleid uit monitoring- en beoordelingsprogramma's.
 
-#### Artikel 7. Onderzoek en certificatie
+##### Artikel 7. Onderzoek en certificatie
 
 1. Elke Partij waarborgt dat in geval van schepen die onder haar vlag varen of onder haar gezag varen en onderzocht en gecertificeerd dienen te worden, zulks geschiedt in overeenstemming met de voorschriften in de Bijlage.
 
 2. Een Partij die maatregelen uitvoert uit hoofde van artikel 2, derde lid, en onderdeel C van de Bijlage, verlangt geen aanvullend onderzoek en aanvullende certificatie van een schip van een andere Partij, noch is de Administratie van het schip verplicht de door een andere Partij opgelegde aanvullende maatregelen te onderzoeken en te certificeren. Het verifiëren van dergelijke aanvullende maatregelen behoort tot de verantwoordelijkheid van de Partij die dergelijke maatregelen implementeert en mag niet leiden tot onnodige vertraging voor het schip.
 
-#### Artikel 8. Overtredingen
+##### Artikel 8. Overtredingen
 
 1. Elke overtreding van de vereisten in dit Verdrag is verboden en sancties dienen te worden vastgesteld overeenkomstig het recht van de Administratie van het betrokken schip, ongeacht waar de overtreding plaatsvindt. Indien de Administratie in kennis wordt gesteld van een dergelijke overtreding, onderzoekt zij de zaak en kan zij de Partij die de kennisgeving heeft gedaan verzoeken aanvullend bewijs te verschaffen van de vermeende overtreding. Indien de Administratie ervan overtuigd is dat voldoende bewijsmateriaal voorhanden is om een rechtsvervolging in te stellen met betrekking tot de vermeende overtreding, stelt zij ten spoedigste een dergelijke rechtsvervolging in overeenkomstig haar eigen wetgeving. De Administratie stelt de Partij die de vermeende overtreding heeft gerapporteerd, alsmede de Organisatie, onverwijld in kennis van de getroffen maatregelen. Indien de Administratie binnen 1 jaar na ontvangst van de informatie geen maatregelen heeft getroffen, stelt zij de Partij die de vermeende overtreding heeft gerapporteerd daarvan in kennis.
 
@@ -154,7 +176,7 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 3. De in het recht van een Partij voorziene sancties overeenkomstig dit artikel dienen zwaar genoeg te zijn om overtredingen van dit Verdrag waar dan ook te ontmoedigen.
 
-#### Artikel 9. Inspectie van schepen
+##### Artikel 9. Inspectie van schepen
 
 1. Een schip waarop dit Verdrag van toepassing is, kan in elke haven of laad- of losplaats buitengaats van een andere Partij geïnspecteerd worden door die Partij naar behoren gemachtigde functionarissen teneinde te bepalen of het schip voldoet aan dit Verdrag. Onder voorbehoud van het bepaalde in het tweede lid van dit artikel, is een dergelijke inspectie beperkt tot:
 
@@ -172,7 +194,7 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 3. In de omstandigheden omschreven in het tweede lid van dit artikel, neemt de Partij die de inspectie verricht de nodige stappen om te waarborgen dat het schip geen ballastwater loost totdat zulks mogelijk is zonder gevaar voor het milieu, de gezondheid van de mens of voor goederen of hulpbronnen.
 
-#### Artikel 10. Opsporing van overtredingen en de controle van schepen
+##### Artikel 10. Opsporing van overtredingen en de controle van schepen
 
 1. De Partijen dienen samen te werken bij de opsporing van overtredingen en de handhaving van de bepalingen van dit Verdrag.
 
@@ -182,7 +204,7 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 4. Een Partij kan een schip tevens inspecteren zodra het de havens of laad- of losinrichtingen buitengaats onder haar rechtsmacht binnenvaart, indien een verzoek om inspectie is ontvangen van een Partij, tezamen met voldoende bewijsmateriaal dat een schip opereert of heeft geopereerd in strijd met een bepaling van dit Verdrag. Het rapport betreffende een dergelijk onderzoek wordt toegezonden aan de Partij die erom heeft verzocht en aan de bevoegde autoriteit van de Administratie van het betrokken schip, opdat passende maatregelen kunnen worden genomen.
 
-#### Artikel 11. Kennisgeving van controlemaatregelen
+##### Artikel 11. Kennisgeving van controlemaatregelen
 
 1. Indien een inspectie verricht uit hoofde van de artikelen 9 of 10 wijst op een overtreding van dit Verdrag, dient het schip hiervan in kennis te worden gesteld. Aan de Administratie dient een rapport te worden toegezonden alsmede eventueel bewijsmateriaal van de overtreding.
 
@@ -190,13 +212,13 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 3. De autoriteit van de betrokken havenstaat stelt, behalve de partijen genoemd in het tweede lid, de volgende aanloophaven in kennis van alle relevante informatie over de overtreding, indien deze zelf niet de maatregelen omschreven in artikel 9, derde lid, artikel 10, tweede of derde lid, kan treffen, of indien het schip toestemming heeft verkregen om de reis voort te zetten naar de volgende aanloophaven.
 
-#### Artikel 12. Onnodige vertraging van schepen
+##### Artikel 12. Onnodige vertraging van schepen
 
 1. Al het mogelijke dient in het werk te worden gesteld om te voorkomen dat een schip onnodig wordt opgehouden of vertraagd uit hoofde van de artikelen 7, tweede lid, 8, 9 of 10.
 
 2. Wanneer een schip onnodig wordt opgehouden of vertraagd uit hoofde van de artikelen 7, tweede lid, 8, 9 of 10, ontstaat er recht op schadevergoeding wegens geleden verliezen of schade.
 
-#### Artikel 13. Technische bijstand, samenwerking en regionale samenwerking
+##### Artikel 13. Technische bijstand, samenwerking en regionale samenwerking
 
 1. De Partijen ondernemen, rechtstreeks of via de Organisatie en andere internationale lichamen, naar gelang hetgeen van toepassing is, ter zake van controle en beheer van ballastwater en sedimenten van schepen, ondersteuning te bieden aan Partijen die verzoeken om technische bijstand:
 
@@ -212,7 +234,7 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 3. Teneinde de doelstellingen van dit Verdrag te bevorderen, streven Partijen met gemeenschappelijke belangen om het milieu, de gezondheid van de mens, goederen en hulpbronnen in een bepaald geografisch gebied te beschermen, in het bijzonder Partijen grenzend aan ingesloten of half-ingesloten zeeën, ernaar, rekening houdend met de bijzondere regionale kenmerken, de regionale samenwerking te bevorderen, mede door het sluiten van regionale overeenkomsten die verenigbaar zijn met dit Verdrag. De Partijen streven ernaar samen te werken met Partijen bij regionale overeenkomsten teneinde geharmoniseerde procedures te ontwikkelen.
 
-#### Artikel 14. Doorgeven van informatie
+##### Artikel 14. Doorgeven van informatie
 
 1. Elke Partij doet aan de Organisatie en, indien van toepassing, aan andere Partijen de volgende informatie toekomen:
 
@@ -224,15 +246,15 @@ Dit onderzoek en deze monitoring dienen mede te omvatten het observeren, meten, 
 
 2. De Organisatie stelt de Partijen in kennis van de ontvangst van berichten uit hoofde van dit artikel en doet aan alle Partijen de informatie toekomen die zij heeft ontvangen uit hoofde van het eerste lid, onderdelen b en c, van dit artikel.
 
-#### Artikel 15. Geschillenbeslechting
+##### Artikel 15. Geschillenbeslechting
 
 In het geval van geschillen betreffende de interpretatie of toepassing van dit Verdrag die eventueel tussen Partijen rijzen plegen deze Partijen met elkaar overleg teneinde deze te beslechten door middel van onderhandelingen, onderzoek, bemiddeling, conciliatie, arbitrage, schikking, een beroep op regionale organen of regelingen of andere vreedzame middelen naar eigen keuze.
 
-#### Artikel 16. Verhouding tot het internationale recht en andere verdragen
+##### Artikel 16. Verhouding tot het internationale recht en andere verdragen
 
 Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichtingen van enige Staat uit hoofde van het internationaal gewoonterecht als vervat in het Verdrag van de Verenigde Naties inzake het recht van de zee.
 
-#### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
+##### Artikel 17. Ondertekening, bekrachtiging, aanvaarding, goedkeuring en toetreding
 
 1. Dit Verdrag staat van 1 juni 2004 tot en met 31 mei 2005 open voor ondertekening door elke Staat op het hoofdkantoor van de Organisatie en blijft vervolgens open voor toetreding door elke Staat.
 
@@ -250,7 +272,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 5. Van elke verklaring wordt de Depositaris in kennis gesteld en daarin worden uitdrukkelijk de territoriale eenheid of eenheden vermeld waarop dit Verdrag van toepassing is.
 
-#### Artikel 18. Inwerkingtreding
+##### Artikel 18. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking twaalf maanden na de datum waarop ten minste dertig Staten, waarvan de koopvaardijvloten tezamen ten minste vijfendertig procent vormen van de brutotonnage van de wereldkoopvaardijvloot het hebben ondertekend zonder voorbehoud ten aanzien van bekrachtiging, aanvaarding of goedkeuring of in overeenstemming met artikel 17 de vereiste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd.
 
@@ -260,7 +282,7 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 4. Na de datum waarop een wijziging van dit Verdrag geacht wordt te zijn aanvaard uit hoofde van artikel 19, is elke nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding van toepassing op het Verdrag zoals gewijzigd.
 
-#### Artikel 19. Wijzigingen
+##### Artikel 19. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd volgens een van de hieronder omschreven procedures.
 
@@ -314,13 +336,13 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 - b. elke kennisgeving gedaan uit hoofde van dit artikel.
 
-#### Artikel 20. Opzegging
+##### Artikel 20. Opzegging
 
 1. Dit Verdrag kan na afloop van twee jaar na de datum waarop het voor een Partij in werking is getreden te allen tijde worden opgezegd door die Partij.
 
 2. Opzegging geschiedt bij schriftelijke kennisgeving aan de Depositaris en wordt van kracht een jaar na de ontvangst ervan of na een langere termijn indien vermeld in de kennisgeving.
 
-#### Artikel 21. Depositaris
+##### Artikel 21. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal die voor eensluidend gewaarmerkte afschriften ervan doet toekomen aan alle Staten die dit Verdrag hebben ondertekend of ertoe zijn toegetreden.
 
@@ -336,13 +358,13 @@ Geen enkele bepaling van dit Verdrag doet afbreuk aan de rechten en verplichting
 
 - b. zodra dit Verdrag in werking treedt, zendt de Secretaris-Generaal de tekst toe aan het Secretariaat van de Verenigde Naties voor registratie en publicatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties.
 
-#### Artikel 22. Talen
+##### Artikel 22. Talen
 
 Dit Verdrag is opgesteld in één oorspronkelijk exemplaar in de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek.
 
 ### Afdeling A. – Algemene bepalingen
 
-#### Voorschrift A-1. Begripsomschrijvingen
+##### Voorschrift A-1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -380,11 +402,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - 9. elektronisch journaal, een door de Administratie goedgekeurd apparaat of systeem dat in plaats van een papieren journaal gebruikt wordt voor het elektronisch vastleggen van notities voor elke ballastwateroperatie zoals vereist ingevolge dit Verdrag.
 
-#### Voorschrift A-2. Algemene toepasbaarheid
+##### Voorschrift A-2. Algemene toepasbaarheid
 
 Tenzij uitdrukkelijk anders voorzien, mag het lozen van ballastwater alleen geschieden in het kader van ballastwaterbeheer in overeenstemming met de bepalingen van deze Bijlage.
 
-#### Voorschrift A-3. Uitzonderingen
+##### Voorschrift A-3. Uitzonderingen
 
 De vereisten van voorschrift B-3 of maatregelen aangenomen door een Partij uit hoofde van artikel 2, derde lid, en Afdeling C, zijn niet van toepassing op:
 
@@ -402,7 +424,7 @@ De vereisten van voorschrift B-3 of maatregelen aangenomen door een Partij uit h
 
 - 5. het lozen van ballastwater en sedimenten door een schip op dezelfde locatie waar dat ballastwater en die sedimenten geheel van afkomstig zijn en mits er geen vermenging met onbeheerd ballastwater uit andere gebieden heeft plaatsgevonden. Indien vermenging heeft plaatsgevonden, valt het ballastwater afkomstig van andere gebieden onder ballastwaterbeheer in overeenstemming met deze Bijlage.
 
-#### Voorschrift A-4. Ontheffingen
+##### Voorschrift A-4. Ontheffingen
 
 - 1. „Een Partij kan of Partijen kunnen in de wateren onder haar of hun rechtsmacht, naast de ontheffingen vervat in dit Verdrag, tevens ontheffing verlenen van de vereisten voor de toepassing van voorschriften B-3 of C-1, evenwel uitsluitend indien deze
 
@@ -420,13 +442,13 @@ De vereisten van voorschrift B-3 of maatregelen aangenomen door een Partij uit h
 
 - 4. Ontheffingen verleend uit hoofde van dit voorschrift worden vastgelegd in het ballastwaterjournaal.
 
-#### Voorschrift A-5. Naleving van gelijkwaardige voorschriften
+##### Voorschrift A-5. Naleving van gelijkwaardige voorschriften
 
 Of een pleziervaartuig dat uitsluitend wordt gebruikt voor recreatie of wedstrijden of vaartuigen die primair worden gebruikt ten behoeve van opsporing en redding, met een totale lengte van ten hoogste 50 meter en een ballastwatercapaciteit van ten hoogste 8 m3 voldoet aan voorwaarden die gelijkwaardig zijn aan die in deze Bijlage, wordt vastgesteld door de Administratie, waarbij rekening wordt gehouden met door de Organisatie opgestelde richtlijnen.
 
 ### Afdeling B. – Vereisten voor schepen ten aanzien van beheer en controle
 
-#### Voorschrift B-1. Ballastwaterbeheersplan
+##### Voorschrift B-1. Ballastwaterbeheersplan
 
 Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden geïmplementeerd. Een dergelijk plan dient te worden goedgekeurd door de Administratie, rekening houdend met door de Organisatie op te stellen richtlijnen. Elk schip heeft een eigen ballastwaterbeheersplan, dat ten minste:
 
@@ -448,7 +470,7 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - 7. opgesteld is in de werktaal van het schip. Ingeval de gebruikte taal een andere is dan de Engelse, de Franse of de Spaanse taal dient een vertaling in één van deze talen te zijn opgenomen.
 
-#### Voorschrift B-2. Ballastwaterjournaal
+##### Voorschrift B-2. Ballastwaterjournaal
 
 - 1. Aan boord van ieder schip dient een ballastwaterjournaal te zijn dat een elektronisch journaal kan zijn of opgenomen kan zijn in een ander journaal of systeem en ten minste de in Aanhangsel II omschreven informatie bevat. Elektronische journaals dienen te worden goedgekeurd door de Administratie, rekening houdend met door de Organisatie op te stellen richtlijnen.
 
@@ -462,7 +484,7 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - 6. Functionarissen die naar behoren zijn gemachtigd door een Partij mogen het ballastwaterjournaal aan boord van een schip waarop dit voorschrift van toepassing is terwijl het schip zich in haar haven of bij een laad- of losplaats buitengaats bevindt controleren en een afschrift maken van notities en van de kapitein verlangen dat deze het afschrift voor eensluidend waarmerkt. Een aldus gewaarmerkt afschrift dient in gerechtelijke procedures toegelaten te worden als bewijs van de feiten weergegeven in de notitie. De controle van een ballastwaterjournaal en het maken van een gewaarmerkt afschrift dienen zo spoedig mogelijk plaats te vinden zonder te leiden tot onnodige vertraging van het schip.
 
-#### Voorschrift B-3. Ballastwaterbeheer voor schepen
+##### Voorschrift B-3. Ballastwaterbeheer voor schepen
 
 - 1. Op schepen gebouwd vóór 2009:
 
@@ -496,7 +518,7 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - .2. de tweede herkeuring, zoals bepaald door de Commissie, op of na 8 september 2017 indien de eerste herkeuring op of na 8 september 2017 is voltooid vóór 8 september 2019, mits niet is voldaan aan de voorwaarden van punt 10.1.2.
 
-#### Voorschrift B-4. Wisseling van ballastwater
+##### Voorschrift B-4. Wisseling van ballastwater
 
 - 1. Schepen die ballastwater wisselen teneinde te voldoen aan de normen in voorschrift D-1, dienen:
 
@@ -512,19 +534,19 @@ Aan boord van elk schip dient een ballastwaterbeheersplan te zijn en te worden g
 
 - 5. Indien een schip ballastwater dient te wisselen en zulks nalaat in strijd met dit voorschrift, worden de redenen vermeld in het ballastwaterjournaal.
 
-#### Voorschrift B-5. Sedimentenbeheer voor schepen
+##### Voorschrift B-5. Sedimentenbeheer voor schepen
 
 - 1. Alle schepen dienen sedimenten uit de ruimten bestemd voor het vervoer van ballastwater in overeenstemming met de bepalingen van hun ballastwaterbeheersplan te verwijderen en af te voeren.
 
 - 2. De schepen omschreven in de voorschriften B-3.3 tot en met B-3.5 dienen zonder afbreuk te doen aan de veiligheid of operationele doelmatigheid, zodanig te zijn ontworpen en gebouwd dat de inname en het ongewenst achterblijven van sedimenten tot een minimum wordt beperkt, de verwijdering van sedimenten wordt vergemakkelijkt en dat veilig toegang kan worden verkregen om sedimenten te verwijderen en te bemonsteren, rekening houdend met door de Organisatie opgestelde richtlijnen. De schepen omschreven in voorschrift B-3.1 dienen voor zover mogelijk te voldoen aan dit punt.
 
-#### Voorschrift B-6. Taken van officieren en bemanning
+##### Voorschrift B-6. Taken van officieren en bemanning
 
 Officieren en bemanning dienen vertrouwd te zijn met hun taken bij de implementatie van het ballastwaterbeheersplan dat geldt voor het schip waarop zij werkzaam zijn, en dienen overeenkomstig hun taken vertrouwd te zijn met het ballastwaterbeheersplan van het schip.
 
 ### AFDELING C. - SPECIALE VEREISTEN IN BEPAALDE GEBIEDEN
 
-#### Voorschrift C-1. Aanvullende maatregelen
+##### Voorschrift C-1. Aanvullende maatregelen
 
 - 1. Indien een Partij afzonderlijk of gezamenlijk met andere Partijen bepaalt dat naast de maatregelen vervat in Afdeling B aanvullende maatregelen noodzakelijk zijn om de verplaatsing van schadelijke aquatische organismen en ziektekiemen via het ballastwater en de sedimenten van schepen te voorkomen, te beperken of uit te bannen, kan een dergelijke Partij of kunnen dergelijke Partijen, in overeenstemming met het internationale recht verlangen dat schepen voldoen aan een specifieke norm of aan specifieke vereisten.
 
@@ -552,7 +574,7 @@ Officieren en bemanning dienen vertrouwd te zijn met hun taken bij de implementa
 
 - 6. Partijen die aanvullende maatregelen nemen kunnen deze gedurende een periode of onder bepaalde voorwaarden opschorten, indien zij dit opportuun achten.
 
-#### Voorschrift C-2. Waarschuwingen betreffende het innemen van ballastwater in bepaalde gebieden en de desbetreffende maatregelen van de vlaggenstaat
+##### Voorschrift C-2. Waarschuwingen betreffende het innemen van ballastwater in bepaalde gebieden en de desbetreffende maatregelen van de vlaggenstaat
 
 - 1. Een Partij dient te trachten zeelieden in kennis te stellen van gebieden onder hun rechtsmacht waarin schepen vanwege hun bekende omstandigheden geen ballastwater dienen in te nemen. Een Partij moet in deze kennisgevingen de precieze coördinaten van het gebied of de gebieden opnemen en waar mogelijk de locatie van een alternatief gebied of alternatieve gebieden voor het innemen van ballastwater. Waarschuwingen kunnen worden afgegeven voor:
 
@@ -564,19 +586,19 @@ Officieren en bemanning dienen vertrouwd te zijn met hun taken bij de implementa
 
 - 2. Behalve zeelieden in kennis stellen van gebieden overeenkomstig het bepaalde in punt 1, dienen Partijen tevens de Organisatie en kuststaten die er mogelijk gevolgen van kunnen ondervinden in kennis te stellen van gebieden als bedoeld in punt 1 en de termijn gedurende welke deze waarschuwing mogelijk van kracht is. De kennisgeving aan de Organisatie en kuststaten die er mogelijk gevolgen van kunnen ondervinden dient de precieze coördinaten van het gebied of de gebieden en waar mogelijk de locatie van alternatieve gebieden voor het innemen van ballastwater te bevatten. De kennisgeving dient adviezen te omvatten aan schepen die in het gebied ballastwater moeten innemen, met beschrijvingen van getroffen regelingen voor alternatieve inname. De Partij dient tevens zeelieden, de Organisatie en kuststaten die er mogelijk gevolgen van ondervinden in kennis te stellen zodra haar waarschuwing niet langer geldt.
 
-#### Voorschrift C-3. Doorgeven van informatie
+##### Voorschrift C-3. Doorgeven van informatie
 
 De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van de voorschriften C-1 en C-2 doorgegeven informatie beschikbaar.
 
 ### Afdeling D. – Normen voor ballastwaterbeheer
 
-#### Voorschrift D-1. Norm voor de wisseling van ballastwater
+##### Voorschrift D-1. Norm voor de wisseling van ballastwater
 
 - 1. Schepen die in overeenstemming met dit voorschrift ballastwater wisselen dienen zulks te doen met een efficiëntie van ten minste 95% aan volumetrische wisseling van ballastwater.
 
 - 2. Schepen die ballastwater wisselen door in- en uitpompen, waarbij het volume van elke ballastwatertank driemaal in en uit wordt gepompt worden geacht te voldoen aan de norm omschreven in punt 1. Minder dan driemaal het volume in- en uitpompen kan worden aanvaard, mits aangetoond kan worden dat voldaan wordt aan ten minste 95 percent van de volumetrische wisseling.
 
-#### Artikel D-2. Norm voor de behandeling van ballastwater
+##### Artikel D-2. Norm voor de behandeling van ballastwater
 
 - 1. Schepen die hun ballastwater beheren in overeenstemming met dit voorschrift lozen minder dan 10 levensvatbare organismen per kubieke meter met een minimumafmeting groter dan of gelijk aan 50 μ en minder dan 10 levensvatbare organismen per milliliter met een minimumafmeting van minder dan 50 μ en groter dan of gelijk aan 10 μ en de lozing van de indicatiemicroben mag de gespecificeerde concentraties vastgelegd in punt 2 niet overschrijden.
 
@@ -588,7 +610,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - .3. Intestinale enterococcen minder dan 100 kve per 100 milliliter.
 
-#### Voorschrift D-3. Goedkeuringsvereisten voor ballastwaterbeheersystemen
+##### Voorschrift D-3. Goedkeuringsvereisten voor ballastwaterbeheersystemen
 
 - 1. Behalve in het geval omschreven in punt 2, worden ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag als volgt goedgekeurd door de Administratie:
 
@@ -600,7 +622,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - 3. Ballastwaterbeheersystemen die worden gebruikt om te voldoen aan dit Verdrag moeten veilig zijn voor het schip, zijn uitrusting en de bemanning.
 
-#### Voorschrift D-4. Prototype ballastwaterbehandelingstechnieken
+##### Voorschrift D-4. Prototype ballastwaterbehandelingstechnieken
 
 - 1. Voor elk schip dat voorafgaand aan de datum waarop de norm in voorschrift D-2 ervoor van kracht zou worden, deelneemt aan een door de Administratie goedgekeurd programma voor het testen en beoordelen van veelbelovende ballastwaterbehandelingstechnieken, wordt de norm in voorschrift D-2 niet eerder van kracht dan vijf jaar na de datum waarop het schip anders had moeten voldoen aan die norm.
 
@@ -614,7 +636,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - 4. Gedurende de gehele test- en beoordelingsperiode dient het behandelingssysteem op consistente wijze en overeenkomstig de opzet te worden bediend.
 
-#### Voorschrift D-5. Herziening van normen door de Organisatie
+##### Voorschrift D-5. Herziening van normen door de Organisatie
 
 - 1. Uiterlijk drie jaar voor de datum waarop de in voorschrift D-2 vervatte norm op zijn vroegst van kracht wordt, toetst de Commissie tijdens een vergadering onder meer of er passende technieken beschikbaar zijn waarmee de norm kan worden verwezenlijkt, beoordeelt zij de criteria vervat in punt 2 en worden de sociaal-economische gevolgen, in het bijzonder met betrekking tot de ontwikkelingsbehoeften van ontwikkelingslanden, met name van kleine eilandstaten in ontwikkeling, beoordeeld. Zonodig verricht de Commissie ook periodieke herzieningen, teneinde de toepasselijke vereisten voor schepen omschreven in voorschrift B-3.1 alsmede andere aspecten van ballastwaterbeheer die in deze Bijlage aan de orde komen, met inbegrip van eventuele door de Organisatie opgestelde richtlijnen te onderzoeken.
 
@@ -636,7 +658,7 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 ### Afdeling E. – Onderzoeks- en certificatievereisten voor ballastwaterbeheer
 
-#### Voorschrift E-1. Onderzoeken
+##### Voorschrift E-1. Onderzoeken
 
 - 1. Schepen met een brutotonnage van 400 ton of meer waarop dit Verdrag van toepassing is, met uitzondering van drijvende platforms, FSU's en FPSO's worden onderworpen aan de onderstaand omschreven onderzoeken:
 
@@ -672,13 +694,13 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - 10. Na afronding van een onderzoek van het schip uit hoofde van punt 1, mogen geen wijzigingen plaatsvinden aan de bouw, uitrusting, onderdelen, voorzieningen of materialen die behoren bij het op grond van voorschrift B-1 vereiste ballastwaterbeheersplan en geïnspecteerd zijn zonder sanctie van de Administratie, behalve bij directe vervanging van deze uitrusting of onderdelen.
 
-#### Voorschrift E-2. Afgifte of aantekenen van een certificaat
+##### Voorschrift E-2. Afgifte of aantekenen van een certificaat
 
 - 1. De Administratie waarborgt dat aan een schip waarop voorschrift E-1 van toepassing is een certificaat wordt afgegeven na bevredigende afronding van een onderzoek verricht in overeenstemming met voorschrift E-1. Een certificaat afgegeven in opdracht van een Partij wordt door de andere Partijen aanvaard en voor alle doeleinden die vallen onder dit Verdrag behandeld als ware het door henzelf afgegeven.
 
 - 2. Certificaten worden afgegeven of aangetekend hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde persoon of organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich.
 
-#### Voorschrift E-3. Afgifte of aantekenen van een certificaat door een andere Partij
+##### Voorschrift E-3. Afgifte of aantekenen van een certificaat door een andere Partij
 
 - 1. Op verzoek van de Administratie kan een andere Partij een schip doen onderzoeken en, indien zij ervan overtuigd is dat aan de bepalingen van dit Verdrag wordt voldaan, geeft zij het certificaat af of geeft zij toestemming voor afgifte van het certificaat aan het schip, en waar van toepassing viseert zij of geeft zij toestemming voor visering van dat certificaat van het schip in overeenstemming met deze Bijlage.
 
@@ -688,11 +710,11 @@ De Organisatie stelt met behulp van passende middelen de aan haar uit hoofde van
 
 - 4. Geen certificaat wordt afgegeven aan een schip dat gerechtigd is de vlag te voeren van een Staat die geen Partij is.
 
-#### Voorschrift E-4. Model van het certificaat
+##### Voorschrift E-4. Model van het certificaat
 
 Het certificaat wordt opgesteld in de officiële taal van de Partij die het afgeeft in een vorm die overeenkomt met het model vervat in Aanhangsel 1. Indien de gebruikte taal Engels, Frans noch Spaans is, dient de tekst een vertaling in een van deze talen te omvatten.
 
-#### Voorschrift E-5. Looptijd en geldigheid van het certificaat
+##### Voorschrift E-5. Looptijd en geldigheid van het certificaat
 
 - 1. Een certificaat wordt afgegeven voor een door de Administratie gespecificeerde termijn die evenwel niet langer is dan vijf jaar.
 

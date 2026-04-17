@@ -1,16 +1,41 @@
 ---
 title: "Besluit op de weerkorpsen BES"
 identifier: "BWBR0028722"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028722"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028722"
+soort: "AMvB-BES"
+stam_id: "10944533"
+version_id: "17930732"
+internal_id: "C24911831"
+label_id: "10919104"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028722/2010-10-10/0"
+intitule_bron: "Stb.2010-553"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-06"
+intitule_published: "2010-10-08"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-553"
+original_signed_date: "2010-10-06"
+original_published_date: "2010-10-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-553"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028722&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028722&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-10-06"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit op de weerkorpsen BES
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit besluit wordt verstaan onder:
 
@@ -20,7 +45,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 - c. **Onze Minister:** Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onze Minister kan een organisatie toelaten als weerkorps in de zin van [artikel 1, onderdeel c, van de Wet op de weerkorpsen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=1).
 
@@ -36,17 +61,17 @@ Voor de toepassing van dit besluit wordt verstaan onder:
 
 4. Wijziging van de in het tweede lid, onder b, genoemde documenten behoeft de instemming van Onze Minister.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Uit de statuten van een organisatie als bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), blijkt dat zij zich aan geen ander dan het wettig gezag dienstbaar zal stellen.
 
 2. In de statuten of overige bedoelde reglementen staan vermeld de verwezenlijking van het doel alsmede de samenstelling en de inrichting van het korps en het beheer.
 
-#### Artikel 3
+##### Artikel 3
 
 Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voorschriften van de krijgsmacht zoveel mogelijk van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Aan de gezaghebber worden ter instemming voorgelegd:
 
@@ -56,7 +81,7 @@ Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voors
 
 2. De gezaghebber zendt de goedgekeurde stukken ter kennisneming aan Onze Minister.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), is samengesteld uit de korpscommandant, officieren, onderofficieren en manschappen.
 
@@ -68,13 +93,13 @@ Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voors
 
 5. Gronden voor schorsing en ontslag worden neergelegd in een reglement.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De korpscommandant is, met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=7&z=2010-10-10&g=2010-10-10), verantwoordelijk voor de operationele inzet van de organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10).
 
 2. Het operationeel beheer is opgedragen aan de korpscommandant. Het bestuur van de rechtspersoon is bevoegd terzake te adviseren.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De organisatie, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), is verplicht zich onder alle omstandigheden te gedragen overeenkomstig de richtlijnen van Onze Minister dan wel van het bevoegd gezag.
 
@@ -84,7 +109,7 @@ Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voors
 
 4. [Vervallen]
 
-#### Artikel 8
+##### Artikel 8
 
 1. De rechtspersoon legt jaarlijks, uiterlijk zes maanden voor het begin van elk boekjaar, een begroting van inkomsten en uitgaven aan Onze Minister ter goedkeuring voor.
 
@@ -92,7 +117,7 @@ Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voors
 
 3. Jaarlijks wordt, uiterlijk binnen zes maanden na afloop van het boekjaar, de rekening en verantwoording, vergezeld van een verslag van de korpscommandant en het bestuur van de rechtspersoon aan Onze Minister aangeboden.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In afwijking van de [artikelen 2, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2&z=2010-10-10&g=2010-10-10), en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0028722&artikel=2a&z=2010-10-10&g=2010-10-10) worden de organisaties, bekend als «Vrijwilligers Korps Bonaire» en «Vrijwilligers Korps Sint Eustatius«, toegelaten als weerkorps in de zin van [artikel 1, onderdeel c, van de Wet op de weerkorpsen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=1) voor de duur van zes maanden met ingang van het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.
 
@@ -100,14 +125,14 @@ Ten aanzien van de kleding en uitrusting alsmede de opslag daarvan zijn de voors
 
 3. Onze Minister kan de termijn, genoemd in het eerste lid, eenmalig voor de duur van maximaal vier maanden verlengen.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit berust op [artikel 2, tweede lid, van de Wet op de weerkorpsen BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028240&artikel=2).
 
-#### Artikel 11
+##### Artikel 11
 
 Dit besluit wordt aangehaald als: Besluit op de weerkorpsen BES.
 
-#### Artikel 12
+##### Artikel 12
 
 [Vervallen]

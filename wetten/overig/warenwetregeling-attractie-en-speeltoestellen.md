@@ -1,13 +1,39 @@
 ---
-title: "Warenwetregeling attractie- en speeltoestellen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 april 2023, kenmerk 3562279-1045822-WJZ, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetregeling attractie- en speeltoestellen) Warenwetregeling attractie- en speeltoestellen"
 identifier: "BWBR0048051"
-categorie: "Overig"
-publicatiedatum: 2025-04-01
-laatste_update: 2025-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048051"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-01"
+last_updated: "2025-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048051"
+soort: "ministeriele-regeling"
+stam_id: "16721613"
+version_id: "29333542"
+internal_id: "C41825541"
+label_id: "16638334"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048051/2025-04-01/0"
+intitule_bron: "Stcrt.2023-11063"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-04-06"
+intitule_published: "2023-04-14"
+intitule_in_force: "2023-04-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-11063"
+original_signed_date: "2023-04-06"
+original_published_date: "2023-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-11063"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0048051&z=2025-04-01&g=2025-04-01"
+jci_1_0: "1.0:c:BWBR0048051&g=2025-04-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetregeling attractie- en speeltoestellen"
+signed_date: "2023-04-06"
+entry_into_force: "2023-07-01"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 6 april 2023, kenmerk 3562279-1045822-WJZ, houdende vaststelling van regels met betrekking tot de veiligheid van attractie- en speeltoestellen (Warenwetregeling attractie- en speeltoestellen) Warenwetregeling attractie- en speeltoestellen
 
 Gelet op [artikel 7c, tweede lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7c) en de [artikelen 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6), [7, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=7), [9, vierde en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=9), [12, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=12), [24, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=24), en [artikel 27, vierde lid, van het Warenwetbesluit attractie- en speeltoestellen 2023](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=27);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,13 +56,13 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aangewezen instellingen
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor aanwijzing als aangewezen instelling komen slechts instellingen in aanmerking die voldoen aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2025-04-01&g=2025-04-01)vermelde voorwaarden.
 
 2. Indien een aangewezen instelling een onderaannemer inschakelt, draagt de aangewezen instelling er zorg voor dat die onderaannemer voldoet aan de in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=I&z=2025-04-01&g=2025-04-01) vermelde voorwaarden.
 
-#### Artikel 3
+##### Artikel 3
 
 De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=7c), ten minste in op de volgende onderwerpen:
 
@@ -62,7 +88,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 - k. een financieel verslag betreffende de activiteiten waarvoor de instelling is aangewezen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aangewezen instelling neemt deel aan het overleg aangewezen instellingen conform het door dit overleg opgestelde en door de Minister goedgekeurde reglement.
 
@@ -76,7 +102,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 #### § 3. Keuring, certificaten en merken van goedkeuring
 
-#### Artikel 5
+##### Artikel 5
 
 1. Attractietoestellen worden periodiek gekeurd door een aangewezen instelling.
 
@@ -84,7 +110,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 3. Bij in serie geproduceerde speeltoestellen vindt een nieuwe keuring van het typekenmerkende monster en het technisch constructiedossier door een aangewezen instelling plaats binnen een jaar na de publicatie van een nieuwe of gewijzigde norm, bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een certificaat van goedkeuring voor een attractie- of speeltoestel komt overeen met één van de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen.
 
@@ -100,7 +126,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 5. Op een certificaat van goedkeuring dienen alle informatievelden die overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen op het voorblad opgenomen moeten worden en de overzichtsfoto in kleur op één pagina te worden weergegeven. Er kunnen additionele bladen worden toegevoegd ten behoeve van de overzichtsfoto in kleur en, indien beschikbaar, de 3D-tekening, bedoeld in het vierde lid en de aanvullende afbeeldingen, bedoeld in het tweede lid, onderdeel a. In dat geval dienen overeenkomstig de in [bijlage III](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=III&z=2025-04-01&g=2025-04-01) opgenomen modellen een aantal informatievelden te worden herhaald op elk additioneel blad.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een certificaat van goedkeuring voor een attractietoestel bevat een uiterste geldigheidsdatum. Deze datum is gebaseerd op de matrix, bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=II&z=2025-04-01&g=2025-04-01).
 
@@ -108,7 +134,7 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 3. Een certificaat van goedkeuring voor een speeltoestel heeft een onbeperkte geldigheidsduur, tenzij [artikel 15, vierde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=15) of [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=5), van toepassing is.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Een merk van goedkeuring voor een attractietoestel of voor een speeltoestel dat overeenkomstig het goedgekeurde, typekenmerkende monster is vervaardigd, komt overeen met het in [bijlage IV](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=IV&z=2025-04-01&g=2025-04-01) opgenomen model.
 
@@ -128,27 +154,27 @@ De aangewezen instelling gaat in het jaarverslag, bedoeld in [artikel 7c, tweede
 
 #### § 4. Unieke registratienummers
 
-#### Artikel 9
+##### Artikel 9
 
 De aangewezen instelling vraagt het unieke registratienummer, bedoeld in [artikel 7, derde lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=7) aan bij de Nederlandse Voedsel- en Warenautoriteit en registreert dit onverwijld in het daartoe bestemde register.
 
 #### § 5. Normen
 
-#### Artikel 10
+##### Artikel 10
 
 Als normen, bedoeld in [artikel 6, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0048026&artikel=6) worden aangewezen de in [bijlage V](https://wetten.overheid.nl/jci1.3:c:BWBR0048051&bijlage=V&z=2025-04-01&g=2025-04-01) bij deze regeling vermelde normen.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 De [Nadere regels attractie- en speeltoestellen](https://wetten.overheid.nl/jci1.3:c:BWBR0008545) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling treedt in werking met ingang van 1 juli 2023.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangehaald als: Warenwetregeling attractie- en speeltoestellen.
 

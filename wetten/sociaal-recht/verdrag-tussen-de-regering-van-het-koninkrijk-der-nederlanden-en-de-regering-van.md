@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Belarus inzake samenwerking en wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0006744"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-06-01
-laatste_update: 2019-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006744"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-06-01"
+last_updated: "2019-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006744"
+soort: "verdrag"
+stam_id: "10005443843"
+version_id: "10005896922"
+internal_id: "C10009531641"
+label_id: "10005427114"
+dtd_version: "2.0"
+original_entry_into_force: "2019-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006744/2019-06-01/0"
+intitule_bron: "Trb.2018-81"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-22"
+intitule_in_force: "2019-04-15"
+intitule_status: "goed"
+original_publication: "Trb.2018-81"
+original_published_date: "2018-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-81"
+entry_into_force_date: "2019-06-01"
+jci_1_3: "jci1.3:c:BWBV0006744&z=2019-06-01&g=2019-06-01"
+jci_1_0: "1.0:c:BWBV0006744&g=2019-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-06-01"
 ---
-
 # Verdrag tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Belarus inzake samenwerking en wederzijdse administratieve bijstand in douanezaken
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Belarus, hierna te noemen de verdragsluitende partijen,
@@ -30,7 +52,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN IN HET VERDRAG
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,7 +78,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 1. De verdragsluitende partijen verlenen elkaar door tussenkomst van hun douaneadministraties bijstand ten behoeve van de juiste toepassing van de douanewetgeving, in het bijzonder met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, in overeenstemming met de bepalingen van dit Verdrag, alsmede om de veiligheid van de internationale logistieke keten te waarborgen.
 
@@ -70,7 +92,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. INFORMATIE
 
-#### Artikel 3. Informatie voor de toepassing en handhaving van de douanewetgeving
+##### Artikel 3. Informatie voor de toepassing en handhaving van de douanewetgeving
 
 1. De douaneadministraties verstrekken elkaar, op verzoek of uit eigen beweging, informatie ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen. Deze informatie kan betrekking hebben op:
 
@@ -90,31 +112,31 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - b. van het feit of goederen die werden uitgevoerd uit het grondgebied van de staat van de verzoekende douaneadministratie op rechtmatige wijze zijn ingevoerd in het grondgebied van de staat van de aangezochte douaneadministratie en onder welke douaneregeling de goederen eventueel zijn geplaatst.
 
-#### Artikel 4. Informatie voor de vaststelling van douanerechten
+##### Artikel 4. Informatie voor de vaststelling van douanerechten
 
 1. Op verzoek verstrekt de aangezochte douaneadministratie, onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006744&hoofdstuk=VII&artikel=16&z=2019-06-01&g=2019-06-01), ten behoeve van een juiste toepassing van de douanewetgeving of ter voorkoming van douanefraude, informatie aan de verzoekende douaneadministratie die redenen heeft om te twijfelen aan de juistheid of echtheid van een aangifte.
 
 2. In het verzoek staan de verificatieprocedures die de douaneadministratie heeft uitgevoerd of getracht heeft uit te voeren alsmede de specifieke informatie waarom wordt verzocht vermeld.
 
-#### Artikel 5. Informatie met betrekking tot inbreuken op de douanewetgeving
+##### Artikel 5. Informatie met betrekking tot inbreuken op de douanewetgeving
 
 De douaneadministratie van een verdragsluitende partij verstrekt, op verzoek of uit eigen beweging, informatie aan de douaneadministratie van de andere verdragsluitende partij over voorgenomen, lopende of voltooide activiteiten ten aanzien waarvan er redelijke gronden lijken te bestaan om aan te nemen dat er een inbreuk op de douanewetgeving op het grondgebied van de andere verdragsluitende partij is gepleegd of zal worden gepleegd.
 
-#### Artikel 6. Automatisch verstrekken van informatie
+##### Artikel 6. Automatisch verstrekken van informatie
 
 De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling, automatisch informatie die onder dit Verdrag valt verstrekken.
 
-#### Artikel 7. Vooraf verstrekken van informatie
+##### Artikel 7. Vooraf verstrekken van informatie
 
 De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling, specifieke informatie verstrekken voorafgaand aan de aankomst van goederen op het grondgebied van de staat van de andere douaneadministratie.
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
-#### Artikel 8. Spontane bijstand
+##### Artikel 8. Spontane bijstand
 
 In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van de staat van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
 
-#### Artikel 9. Toezicht op goederen, vervoermiddelen en locatie van goederen
+##### Artikel 9. Toezicht op goederen, vervoermiddelen en locatie van goederen
 
 1. Op verzoek houdt de aangezochte douaneadministratie, voor zover mogelijk, toezicht op en verstrekt zij de verzoekende administratie informatie over:
 
@@ -126,13 +148,13 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 2. Een douaneadministratie kan uit eigen beweging dergelijk toezicht houden indien zij redenen heeft om aan te nemen dat voorgenomen, lopende of voltooide activiteiten een inbreuk op de douanewetgeving op het grondgebied van de staat van de andere douaneadministratie lijken te vormen.
 
-#### Artikel 10. Deskundigen en getuigen
+##### Artikel 10. Deskundigen en getuigen
 
 1. De aangezochte douaneadministratie kan haar functionarissen machtigen, binnen de hun toegekende bevoegdheden, als getuige of deskundige te verschijnen op het grondgebied van de staat van de verzoekende douaneadministratie in gerechtelijke of administratieve procedures betreffende de aangelegenheden die onder dit Verdrag vallen.
 
 2. In het verzoek om te verschijnen wordt aangegeven welk type procedure het betreft alsmede in welke hoedanigheid de functionaris dient te getuigen.
 
-#### Artikel 11. Gezamenlijke teams
+##### Artikel 11. Gezamenlijke teams
 
 1. De verdragsluitende partijen kunnen gezamenlijke teams oprichten ter opsporing en bestrijding van bepaalde typen inbreuken op de douanewetgeving die gelijktijdige en gecoördineerde activiteiten vereisen.
 
@@ -140,7 +162,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 ### HOOFDSTUK V. TOEZENDING VAN VERZOEKEN
 
-#### Artikel 12. Vorm en inhoud van verzoeken
+##### Artikel 12. Vorm en inhoud van verzoeken
 
 1. Verzoeken uit hoofde van dit Verdrag worden schriftelijk in de Engelse taal gedaan. De verzoeken gaan vergezeld van documenten die nodig zijn voor de uitvoering ervan. Wanneer de urgentie van de situatie dat vereist, kunnen mondelinge of elektronische verzoeken van de verzoekende douaneadministratie worden aanvaard, maar deze dienen onverwijld door middel van een officiële brief te worden bevestigd.
 
@@ -160,7 +182,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 3. Om originelen van bestanden, documenten of overige materialen wordt slechts verzocht in gevallen waarin niet met afschriften kan worden volstaan. Op speciaal verzoek worden afschriften van dergelijke bestanden, documenten of overige materialen naar behoren gewaarmerkt. Originelen van bestanden, documenten en overige verstrekte materialen worden zo spoedig mogelijk geretourneerd.
 
-#### Artikel 13. Communicatie
+##### Artikel 13. Communicatie
 
 1. Bijstand wordt verleend door rechtstreeks contact tussen de respectieve douaneadministraties.
 
@@ -168,7 +190,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 ### HOOFDSTUK VI. UITVOERING VAN VERZOEKEN
 
-#### Artikel 14. Vergaren van informatie
+##### Artikel 14. Vergaren van informatie
 
 1. Verzoeken worden uitgevoerd in overeenstemming met de nationale wettelijke en administratieve bepalingen van de staat van de aangezochte douaneadministratie.
 
@@ -176,7 +198,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 3. De aangezochte douaneadministratie voert alle noodzakelijke onderzoeken uit, met inbegrip van het horen van deskundigen en getuigen of personen die worden verdacht van het plegen van een inbreuk op de douanewetgeving, alsmede inspecties en feitenonderzoeken in verband met de in dit Verdrag genoemde aangelegenheden.
 
-#### Artikel 15. Aanwezigheid van functionarissen op het grondgebied van de andere verdragsluitende partij
+##### Artikel 15. Aanwezigheid van functionarissen op het grondgebied van de andere verdragsluitende partij
 
 1. Door de verzoekende douaneadministratie aangewezen functionarissen kunnen, met instemming van de aangezochte douaneadministratie en onder voorwaarden die laatstgenoemde hieraan kan verbinden, ten behoeve van onderzoek naar een inbreuk op de douanewetgeving, op verzoek:
 
@@ -192,7 +214,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 ### HOOFDSTUK VII. WEIGERINGSGRONDEN
 
-#### Artikel 16. Weigeringsgronden ten aanzien van de verplichting tot het verlenen van bijstand
+##### Artikel 16. Weigeringsgronden ten aanzien van de verplichting tot het verlenen van bijstand
 
 1. Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de veiligheid, de openbare orde of een ander wezenlijk nationaal belang van de staat van de aangezochte douaneadministratie, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door die aangezochte douaneadministratie worden geweigerd of worden verstrekt onder de voorwaarden die zij verlangt.
 
@@ -206,7 +228,7 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 ### HOOFDSTUK VIII. KOSTEN
 
-#### Artikel 17. Kosten
+##### Artikel 17. Kosten
 
 1. De douaneadministraties zien af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten, met uitzondering van bedragen en vergoedingen betaald aan deskundigen en getuigen en de kosten van tolken en vertalers die niet in dienst zijn van de overheid, welke worden gedekt door de verzoekende douaneadministratie.
 
@@ -214,17 +236,17 @@ In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare 
 
 ### HOOFDSTUK IX. GEBRUIK, VERTROUWELIJKHEID EN BESCHERMING VAN INFORMATIE
 
-#### Artikel 18. Gebruik van informatie
+##### Artikel 18. Gebruik van informatie
 
 1. Uit hoofde van dit Verdrag ontvangen informatie mag slechts worden gebruikt door de douaneadministraties en uitsluitend ten behoeve van administratieve bijstand die wordt verleend onder de in dit Verdrag vervatte voorwaarden.
 
 2. Op verzoek kan de douaneadministratie die de informatie heeft verstrekt haar goedkeuring hechten aan het gebruik ervan door andere autoriteiten of voor andere doeleinden, met inbegrip van gebruik in strafrechtelijke onderzoeken, vervolgingen of procedures, met inachtneming van alle door haar daaraan verbonden voorwaarden. Dergelijk gebruik dient in overeenstemming te zijn met de wettelijke en administratieve bepalingen van de verdragsluitende partij wier douaneadministratie de informatie wil gebruiken.
 
-#### Artikel 19. Vertrouwelijkheid van informatie
+##### Artikel 19. Vertrouwelijkheid van informatie
 
 Alle informatie, in welke vorm dan ook, die uit hoofde van dit Verdrag wordt gecommuniceerd is vertrouwelijk van aard. Hiervoor geldt dezelfde bescherming als voor soortgelijke informatie geldt in overeenstemming met de nationale wetgeving van de verdragsluitende partij wier douaneadministratie de informatie heeft ontvangen.
 
-#### Artikel 20. Persoonsgegevens
+##### Artikel 20. Persoonsgegevens
 
 1. Op uit hoofde van dit Verdrag uitgewisselde persoonsgegevens is een beschermingsniveau van toepassing dat ten minste gelijk is aan het beschermingsniveau voor persoonsgegevens dat gehanteerd wordt in de nationale wettelijke bepalingen van de verdragsluitende partij wier douaneadministratie deze persoonsgegevens heeft verstrekt.
 
@@ -232,7 +254,7 @@ Alle informatie, in welke vorm dan ook, die uit hoofde van dit Verdrag wordt gec
 
 ### HOOFDSTUK X. UITVOERING EN TOEPASSING VAN HET VERDRAG
 
-#### Artikel 21. Uitvoering van het Verdrag
+##### Artikel 21. Uitvoering van het Verdrag
 
 1. De douaneadministraties kunnen zich rechtstreeks met elkaar in verbinding stellen voor het behandelen van aangelegenheden die voortvloeien uit dit Verdrag of andere douaneaangelegenheden die van wederzijds belang kunnen zijn.
 
@@ -242,7 +264,7 @@ Alle informatie, in welke vorm dan ook, die uit hoofde van dit Verdrag wordt gec
 
 4. De douaneadministraties kunnen in onderling overleg maatregelen nemen om problemen of verschillen op te lossen die verband houden met de toepassing van dit Verdrag. Dit laat de regeling van dergelijke geschillen langs diplomatieke weg onverlet.
 
-#### Artikel 22. Territoriale toepasselijkheid
+##### Artikel 22. Territoriale toepasselijkheid
 
 1. Wat de Republiek Belarus betreft, is dit Verdrag van toepassing op het douanegebied van de Euraziatische Economische Unie in de Republiek Belarus.
 
@@ -260,11 +282,11 @@ Alle informatie, in welke vorm dan ook, die uit hoofde van dit Verdrag wordt gec
 
 ### HOOFDSTUK XI. SLOTBEPALINGEN
 
-#### Artikel 23. Herziening van het Verdrag
+##### Artikel 23. Herziening van het Verdrag
 
 Op verzoek komen de verdragsluitende partijen bijeen teneinde dit Verdrag te herzien.
 
-#### Artikel 24. Inwerkingtreding en beëindiging van het Verdrag
+##### Artikel 24. Inwerkingtreding en beëindiging van het Verdrag
 
 1. Dit Verdrag wordt in beginsel voor onbepaalde tijd gesloten en treedt in werking op de eerste dag van de derde maand die volgt op de datum van de laatste schriftelijke kennisgeving langs diplomatieke weg waarin wordt gemeld dat de verdragsluitende partijen aan alle interne vereisten voor de inwerkingtreding hebben voldaan.
 

@@ -1,13 +1,32 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens"
 identifier: "BWBV0007136"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2026-03-16
-laatste_update: 2026-03-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0007136"
+country: "nl"
+rank: "verdrag"
+publication_date: "2026-03-16"
+last_updated: "2026-03-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0007136"
+soort: "verdrag"
+stam_id: "10005722613"
+version_id: "10006322982"
+internal_id: "C10010235321"
+label_id: "10005703934"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0007136/2026-03-16/0"
+intitule_bron: "Trb.2026-23"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2026-03-24"
+intitule_status: "nogniet"
+original_publication: "Trb.2026-23"
+original_published_date: "2026-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2026-23"
+jci_1_3: "jci1.3:c:BWBV0007136&z=2026-03-16&g=2026-03-16"
+jci_1_0: "1.0:c:BWBV0007136&g=2026-03-16"
+citeertitel_status: "redactioneel"
+entry_into_force: "2026-03-24"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Estland inzake de uitwisseling en wederzijdse beveiliging van gerubriceerde gegevens
 
 The Kingdom of the Netherlands
@@ -20,11 +39,11 @@ Hereinafter referred to as “the Parties”,
 
 Wishing to ensure the mutual protection of Classified Information, have, in the interests of national security, agreed upon the following.
 
-#### Article 1. Purpose
+##### Article 1. Purpose
 
 The purpose of this Agreement is to ensure the protection of Classified Information exchanged between the Parties or between legal entities or individuals under their jurisdiction, or generated in the framework of a bilateral program under this Agreement. The Agreement sets out the security procedures and arrangements for such protection.
 
-#### Article 2. Definitions
+##### Article 2. Definitions
 
 For the purpose of this Agreement:
 
@@ -54,13 +73,13 @@ For the purpose of this Agreement:
 
 - m). **“Third Party”** means any international organisation or state, including legal entities or individuals under its jurisdiction, which is not a Party to this Agreement.
 
-#### Article 3. Competent Security Authorities
+##### Article 3. Competent Security Authorities
 
 1. The Competent Security Authorities of the Parties are listed in the Annex of this Agreement.
 
 2. The Competent Security Authorities shall provide each other with official contact details and any changes thereof.
 
-#### Article 4. Security classification levels
+##### Article 4. Security classification levels
 
 1. The following security classifications of the Parties are equivalent and correspond to the security classification levels specified in their national legislation. The third column provides an informal translation which is not part of the national laws and regulations of the Parties and which may be used to mark Classified Information solely in conjunction with the security classification levels of the Parties.
 
@@ -75,13 +94,13 @@ For the purpose of this Agreement:
 
 3. The Receiving Party may alter or revoke the security classification of received Classified Information under this Agreement only upon written consent of the Originating Party.
 
-#### Article 5. Access to Classified Information
+##### Article 5. Access to Classified Information
 
 1. Access to Classified Information at the security classification level equivalent to DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED / PIIRATUD as mentioned in [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007136&artikel=4&z=2026-03-16&g=2026-03-16) of this Agreement, shall be granted only to those individuals who have a Need to Know, are briefed on their responsibilities and have signed a statement of confidentiality in accordance with national laws and regulations.
 
 2. Access to Classified Information at the security classification levels equivalent to Stg. CONFIDENTIEEL / CONFIDENTIAL / KONFIDENTSIAALNE and above, as mentioned in [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007136&artikel=4&z=2026-03-16&g=2026-03-16) of this Agreement, shall be granted only to those individuals who have a Need to Know, who hold a Personnel Security Clearance at the corresponding level or who have been authorized otherwise to have access to such information in accordance with national laws and regulations, are briefed on their responsibilities for the protection of Classified Information and have signed a statement of confidentiality in accordance with national laws and regulations.
 
-#### Article 6. Security measures
+##### Article 6. Security measures
 
 1. The Parties shall take all appropriate measures applicable under their national laws and regulations to protect Classified Information generated and/or provided under this Agreement.
 
@@ -105,7 +124,7 @@ For the purpose of this Agreement:
 
 - e). uses Classified Information received solely for the purpose it has been provided for and in accordance with any conditions of release and limitations on the use assigned by the Originating Party.
 
-#### Article 7. Security co-operation
+##### Article 7. Security co-operation
 
 1. In order to maintain comparable standards of security, the Competent Security Authorities shall, on request, inform each other about their security regulations, policies and practices for protecting Classified Information.
 
@@ -119,7 +138,7 @@ For the purpose of this Agreement:
 
 6. The co-operation under this Agreement shall be effected in English.
 
-#### Article 8. Classified contracts
+##### Article 8. Classified contracts
 
 1. If a Party or a Contractor under its jurisdiction proposes to grant a Classified Contract at a security classification level equivalent to Stg. CONFIDENTIEEL / CONFIDENTIAL / KONFIDENTSIAALNE or above as mentioned in [Article 4](https://wetten.overheid.nl/jci1.3:c:BWBV0007136&artikel=4&z=2026-03-16&g=2026-03-16) of this Agreement with a (Sub-)Contractor under the jurisdiction of the other Party, it shall first obtain written confirmation from the other Party that the Contractor has been granted a Facility Security Clearance and/or Personnel Security Clearance(s) at the appropriate security classification level, in accordance with national laws and regulations. For DEPARTEMENTAAL VERTROUWELIJK / RESTRICTED / PIIRATUD level contracts a Facility Security Clearance shall be required if mandated by national laws and regulations of the Contractor.
 
@@ -153,13 +172,13 @@ In addition to subparagraphs a, b and c, the Competent Security Authority shall 
 
 6. The Competent Security Authority shall ensure that, if a Contractor sub-contracts parts of a Classified Contract, the Contractor and the Sub-contractor shall ensure compliance with this article.
 
-#### Article 9. Transmission of Classified Information
+##### Article 9. Transmission of Classified Information
 
 1. Classified Information shall be transmitted in accordance with national laws and regulations of the Providing Party or as otherwise agreed between the Competent Security Authorities.
 
 2. When Classified Information is exchanged electronically, it shall be protected by cryptographic means and methods in accordance with procedures to be approved by the Competent Security Authorities.
 
-#### Article 10. Reproduction, translation and destruction of Classified Information
+##### Article 10. Reproduction, translation and destruction of Classified Information
 
 1. Reproductions and translations of Classified Information shall be marked with the same security classification level as the original and placed under the same protection as the original Classified Information.
 
@@ -175,7 +194,7 @@ In addition to subparagraphs a, b and c, the Competent Security Authority shall 
 
 7. If a crisis situation makes it impossible to protect Classified Information provided under this Agreement, the Classified Information shall be destroyed immediately. The Receiving Party shall notify promptly in writing the Competent Security Authority of the Providing Party about the destruction of this Classified Information.
 
-#### Article 11. Visits
+##### Article 11. Visits
 
 1. Visits requiring access to Classified Information are subject to prior written consent of the Competent Security Authority of the host Party, unless otherwise agreed between the Competent Security Authorities.
 
@@ -203,7 +222,7 @@ In addition to subparagraphs a, b and c, the Competent Security Authority shall 
 
 6. Government officials of the Parties are permitted to participate in classified meetings by providing proof of their authorisation to access Classified Information to the meeting organiser or secretariat ahead of the meeting.
 
-#### Article 12. Security Incident
+##### Article 12. Security Incident
 
 1. The Competent Security Authorities shall immediately inform each other in writing of any actual or suspected Security Incident involving Classified Information of the other Party.
 
@@ -211,23 +230,23 @@ In addition to subparagraphs a, b and c, the Competent Security Authority shall 
 
 3. The Competent Security Authority shall take appropriate measures in accordance with its national laws and regulations to limit the consequences of the Security Incident and to prevent a recurrence. The Competent Security Authority of the Originating Party shall be informed of the outcome of the investigation and, if any, of measures taken.
 
-#### Article 13. Costs
+##### Article 13. Costs
 
 Each Party shall bear its own costs incurred in the course of implementing its obligations under this Agreement.
 
-#### Article 14. Dispute resolution
+##### Article 14. Dispute resolution
 
 Any dispute on the interpretation or application of this Agreement shall be settled exclusively through negotiation between the Parties.
 
-#### Article 15. Relation to other agreements
+##### Article 15. Relation to other agreements
 
 This Agreement does not prevail over any international agreement that has already been or may be entered into and that specifically governs a transaction otherwise governed by this Agreement.
 
-#### Article 16. Implementing arrangements
+##### Article 16. Implementing arrangements
 
 The Competent Security Authorities may conclude implementing arrangements pursuant to this Agreement.
 
-#### Article 17. Final provisions
+##### Article 17. Final provisions
 
 1. This Agreement is concluded for an indefinite period of time. Each Party shall notify the other Party through diplomatic channels once the national procedures necessary for entry into force of this Agreement have been completed. This Agreement shall enter into force on the first day of the second month following the receipt of the latter notification.
 

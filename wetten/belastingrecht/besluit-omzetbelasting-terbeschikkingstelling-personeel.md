@@ -1,13 +1,38 @@
 ---
 title: "Besluit omzetbelasting terbeschikkingstelling personeel"
 identifier: "BWBR0049806"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-06-15
-laatste_update: 2024-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049806"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-06-15"
+last_updated: "2024-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049806"
+soort: "beleidsregel"
+stam_id: "17128383"
+version_id: "30145132"
+internal_id: "C43186151"
+label_id: "17037444"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049806/2024-06-15/0"
+intitule_bron: "Stcrt.2024-17448"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-07"
+intitule_published: "2024-06-14"
+intitule_in_force: "2024-06-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-17448"
+original_signed_date: "2024-06-07"
+original_published_date: "2024-06-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-17448"
+entry_into_force_date: "2024-06-15"
+jci_1_3: "jci1.3:c:BWBR0049806&z=2024-06-15&g=2024-06-15"
+jci_1_0: "1.0:c:BWBR0049806&g=2024-06-15"
+citeertitel_status: "officieel"
+signed_date: "2024-06-07"
+entry_into_force: "2024-06-15"
 ---
-
 # Besluit omzetbelasting terbeschikkingstelling personeel
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

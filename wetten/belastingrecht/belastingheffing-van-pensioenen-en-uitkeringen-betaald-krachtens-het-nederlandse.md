@@ -1,13 +1,37 @@
 ---
 title: "Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk"
 identifier: "BWBR0028087"
-categorie: "Belastingrecht"
-publicatiedatum: 1996-10-08
-laatste_update: 1996-10-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028087"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1996-10-08"
+last_updated: "1996-10-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028087"
+soort: "beleidsregel"
+stam_id: "10651063"
+version_id: "17596772"
+internal_id: "C24350291"
+label_id: "10627344"
+dtd_version: "2.0"
+original_entry_into_force: "1996-10-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028087/1996-10-08/0"
+intitule_bron: "Infob.1996-0"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-10-08"
+intitule_published: "1996-01-01"
+intitule_in_force: "1996-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1996-0"
+original_signed_date: "1996-10-08"
+original_published_date: "1996-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-10-08"
+jci_1_3: "jci1.3:c:BWBR0028087&z=1996-10-08&g=1996-10-08"
+jci_1_0: "1.0:c:BWBR0028087&g=1996-10-08"
+citeertitel_status: "redactioneel"
+signed_date: "1996-10-08"
+entry_into_force: "1996-10-08"
 ---
-
 # Belastingheffing van pensioenen en uitkeringen betaald krachtens het Nederlandse sociale zekerheidsstelsel onder de werking van de Nederlandse belastingverdragen en de Belastingregeling voor het Koninkrijk
 
 De directeur-generaal voor Fiscale Zaken heeft namens de Staatssecretaris van Financiën het volgende besloten.

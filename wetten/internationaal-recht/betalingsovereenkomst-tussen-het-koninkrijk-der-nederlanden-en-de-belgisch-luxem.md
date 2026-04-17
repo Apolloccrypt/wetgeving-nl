@@ -1,13 +1,35 @@
 ---
 title: "Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Roemeense Volksrepubliek, anderzijds"
 identifier: "BWBV0004838"
-categorie: "Internationaal recht"
-publicatiedatum: 1969-02-03
-laatste_update: 1969-02-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004838"
+country: "nl"
+rank: "verdrag"
+publication_date: "1969-02-03"
+last_updated: "1969-02-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004838"
+soort: "verdrag"
+stam_id: "10004343613"
+version_id: "10004543692"
+internal_id: "C10007140381"
+label_id: "10004328564"
+dtd_version: "2.0"
+original_entry_into_force: "1960-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004838/1969-02-03/0"
+intitule_bron: "Trb.1960-139"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1960-11-02"
+intitule_in_force: "1960-11-02"
+intitule_status: "goed"
+original_publication: "Trb.1960-139"
+original_published_date: "1960-11-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1960-139"
+entry_into_force_date: "1960-10-01"
+jci_1_3: "jci1.3:c:BWBV0004838&z=1969-02-03&g=1969-02-03"
+jci_1_0: "1.0:c:BWBV0004838&g=1969-02-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1960-10-01"
 ---
-
 # Betalingsovereenkomst tussen het Koninkrijk der Nederlanden en de Belgisch-Luxemburgse Economische Unie, enerzijds, en de Roemeense Volksrepubliek, anderzijds
 
 Le Gouvernement du Royaume des Pays-Bas, et
@@ -22,17 +44,17 @@ Animés du désir de régler le trafic des paiements entre leurs territoires,
 
 Sont convenus des dispositions suivantes:
 
-#### Article I
+##### Article I
 
 Le régime de paiement entre la Zone monétaire néerlandaise et la Zone monétaire belge, d'une part, et la Roumanie, d'autre part, est fixé dans le présent Accord.
 
-#### Article II
+##### Article II
 
 1. Au nom de la Banque Roumaine pour le Commerce Extérieur deux comptes seront ouverts, l'un en francs belges dans les livres de la Banque Nationale de Belgique, l'autre en florins néerlandais dans les livres de la Nederlandsche Bank.
 
 2. Les banques agréées belges et luxembourgeoises et les banques agréées néerlandaises pourront ouvrir des comptes respectivement en francs belges ou francs luxembourgeois et en florins néerlandais à la Banque Roumaine pour le Commerce Extérieur.
 
-#### Article III
+##### Article III
 
 1. Les avoirs au crédit des comptes francs belges, francs luxembourgeois et florins néerlandais prévus à l'article II, seront librement convertibles en l'une de ces monnaies.
 
@@ -42,21 +64,21 @@ Le régime de paiement entre la Zone monétaire néerlandaise et la Zone monéta
 
 4. Les dispositions de la réglementation des changes en vigueur dans la Zone monétaire belge et dans la Zone monétaire néerlandaise, relatives aux comptes convertibles, seront régulièrement communiquées à la Banque Roumaine pour le Commerce Extérieur.
 
-#### Article IV
+##### Article IV
 
 1. Les paiements entre la Zone monétaire néerlandaise et la Zone monétaire belge, d'une part, et la Roumanie, d'autre part, pourront s'effectuer par le débit et le crédit des comptes prévus à l'article II. Des paiements en d'autres monnaies pourront également être effectués dans la mesure où la réglementation des changes en vigueur, respectivement dans la Zone monétaire néerlandaise et la Zone monétaire belge et en vigueur en Roumanie, le permet.
 
 2. Les autorités compétentes de la Zone monétaire néerlandaise et de la Zone monétaire belge, d'une parti, et de la République Populaire Roumaine, d'autre part, s'engagent, chacune de leur côté et dans les limites de leur réglementation respective en matière de change, à1)[Red: Kennelijk zijn na „à” de woorden „donner les” weggevallen.] autorisations nécessaires pour que puissent être effectués les susdits paiements.
 
-#### Article V
+##### Article V
 
 La Nederlandsche Bank, la Banque Nationale de Belgique et la Banque Roumaine pour le Commerce Extérieur, sont chargées de l'application du présent Accord et en détermineront les modalités techniques.
 
-#### Article VI
+##### Article VI
 
 En ce qui concerne le Royaume des Pays-Bas, le présent Accord ne s'appliquera pas au Surinam et aux Antilles néerlandaises.
 
-#### Article VII
+##### Article VII
 
 1. Le présent Accord entrera en vigueur le 1er octobre 1960 et aura une durée indéterminée.
 

@@ -1,36 +1,60 @@
 ---
 title: "Regeling Wet bescherming persoonsgegevens Ministerie van Financiën"
 identifier: "BWBR0013968"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2002-09-01
-laatste_update: 2002-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013968"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2002-09-01"
+last_updated: "2002-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013968"
+soort: "ministeriele-regeling"
+stam_id: "4186263"
+version_id: "5939222"
+internal_id: "C6142061"
+label_id: "4165264"
+dtd_version: "2.0"
+original_entry_into_force: "2002-09-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013968/2002-09-01/0"
+intitule_bron: "Stcrt.2002-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-08-19"
+intitule_published: "2002-08-27"
+intitule_in_force: "2002-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-163"
+original_signed_date: "2002-08-19"
+original_published_date: "2002-08-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2002-09-01"
+jci_1_3: "jci1.3:c:BWBR0013968&z=2002-09-01&g=2002-09-01"
+jci_1_0: "1.0:c:BWBR0013968&g=2002-09-01"
+citeertitel_status: "officieel"
+signed_date: "2002-08-19"
+entry_into_force: "2002-09-01"
 ---
-
 # Regeling Wet bescherming persoonsgegevens Ministerie van Financiën
 
 Besluit:
 
 #### 1. Algemene bepalingen
 
-#### 1.1. Begrippen en definities
+##### 1.1. Begrippen en definities
 
-#### 1.2. Reikwijdte
+##### 1.2. Reikwijdte
 
 De Regeling Wet bescherming persoonsgegevens Ministerie van Financiën is van toepassing op alle verwerkingen van persoonsgegevens waarop de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) van toepassing is, die onder de directe verantwoordelijkheid van de Minister vallen.
 
-#### 1.3. Verantwoordelijke
+##### 1.3. Verantwoordelijke
 
 De Minister is de voor de verwerking verantwoordelijke van de verwerkingen van persoonsgegevens als bedoeld in [1.2](https://wetten.overheid.nl/jci1.3:c:BWBR0013968&paragraaf=1&artikel=1.2&z=2002-09-01&g=2002-09-01) van deze regeling.
 
-#### 1.4. Beheerder
+##### 1.4. Beheerder
 
 1. De beheerder van de verwerkingen van persoonsgegevens is het hoofd of de functionaris van een dienst, directie of ander organisatieonderdeel aan wie krachtens de geldende organisatie- en mandaatregeling de taken en de bevoegdheden van de Minister ten aanzien van de verwerkingen zijn gemandateerd.
 
 2. De beheerder is verantwoordelijk voor het uitvoeren van de wet zoals de Minister als verantwoordelijke dit moet doen.
 
-#### 1.5. Bewerker
+##### 1.5. Bewerker
 
 1. Indien de werkzaamheden ten behoeve van de verwerking van persoonsgegevens worden uitgevoerd door een bewerker, vindt die uitvoering uitsluitend plaats op basis van een overeenkomst of krachtens een andere rechtshandeling waardoor een verbintenis ontstaat tussen bewerker en de Minister.
 
@@ -46,19 +70,19 @@ De Minister is de voor de verwerking verantwoordelijke van de verwerkingen van p
 
 3. Deze overeenkomst of rechtshandeling wordt schriftelijk of in een andere, gelijkwaardige vorm vastgelegd.
 
-#### 1.6. Privacyfunctionaris
+##### 1.6. Privacyfunctionaris
 
 Er wordt een privacyfunctionaris overeenkomstig de [artikelen 62 tot en met 64 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=62) benoemd.
 
 #### 2. Verwerking van persoonsgegevens
 
-#### 2.1. Doelbinding
+##### 2.1. Doelbinding
 
 1. Persoonsgegevens worden voor welbepaalde, uitdrukkelijk omschreven en gerechtvaardigde doeleinden verzameld.
 
 2. Persoonsgegevens worden niet verder verwerkt op een wijze die onverenigbaar is met de doeleinden waarvoor ze zijn verkregen.
 
-#### 2.2. Melding
+##### 2.2. Melding
 
 1. Verwerkingen van persoonsgegevens die meldingsplichtig zijn in de zin van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27), worden alvorens met de verwerking wordt aangevangen door de beheerder namens de verantwoordelijke bij de privacyfunctionaris gemeld.
 
@@ -68,13 +92,13 @@ Er wordt een privacyfunctionaris overeenkomstig de [artikelen 62 tot en met 64 v
 
 4. De privacyfunctionaris deponeert de melding in het register.
 
-#### 2.3. Melding verwerking met bijzonder risico
+##### 2.3. Melding verwerking met bijzonder risico
 
 1. Verwerkingen die een bijzonder risico met zich meebrengen in de zin van [artikel 31 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=31) worden als zodanig door de beheerder namens de verantwoordelijke bij de privacyfunctionaris gemeld.
 
 2. De privacyfunctionaris meldt de ingevolge het eerste lid bij hem gemelde verwerkingen bij het College bescherming persoonsgegevens.
 
-#### 2.4. Meldingsformulier +
+##### 2.4. Meldingsformulier +
 
 1. Voor iedere meldingsplichtige verwerking van persoonsgegevens in de zin van [artikel 27 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=27) wordt door de beheerder een meldingsformulier + gemaakt.
 
@@ -84,7 +108,7 @@ Er wordt een privacyfunctionaris overeenkomstig de [artikelen 62 tot en met 64 v
 
 4. De beheerder ziet erop toe dat de gegevens in het meldingsformulier + juist, volledig en actueel zijn.
 
-#### 2.5. Formulier voor van melding vrijgestelde verwerkingen
+##### 2.5. Formulier voor van melding vrijgestelde verwerkingen
 
 1. Voor verwerkingen van persoonsgegevens die ingevolge [artikel 29 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=29) van melding zijn vrijgesteld, wordt door de beheerder een formulier gemaakt.
 
@@ -94,7 +118,7 @@ Er wordt een privacyfunctionaris overeenkomstig de [artikelen 62 tot en met 64 v
 
 4. De beheerder ziet erop toe dat de gegevens in het formulier juist, volledig en actueel zijn.
 
-#### 2.6. Register
+##### 2.6. Register
 
 1. Er is een register dat onder de verantwoordelijkheid van de privacyfunctionaris wordt bijgehouden.
 
@@ -102,17 +126,17 @@ Er wordt een privacyfunctionaris overeenkomstig de [artikelen 62 tot en met 64 v
 
 3. Het register ligt kosteloos voor een ieder ter inzage bij de privacyfunctionaris.
 
-#### 2.7. Bewaren van persoonsgegevens
+##### 2.7. Bewaren van persoonsgegevens
 
 De beheerder stelt per verwerking van persoonsgegevens de bewaartermijn vast en vermeldt dit in het meldingsformulier + of in het formulier voor van melding vrijgestelde verwerkingen.
 
 #### 3. Rechten van de betrokkene
 
-#### 3.1. Informatieverstrekking aan de betrokkene
+##### 3.1. Informatieverstrekking aan de betrokkene
 
 De beheerder deelt de betrokkene de informatie mede conform de [artikelen 33](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=33) en [34 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=34), tenzij de betrokkene daarvan reeds op de hoogte is.
 
-#### 3.2. Recht op inzage en correctie
+##### 3.2. Recht op inzage en correctie
 
 1. De betrokkene kan zich wenden tot de Minister met het verzoek hem mede te delen of, welke en op welke wijze hem betreffende persoonsgegevens worden verwerkt. De beheerder stelt in overleg met de privacyfunctionaris de procedures vast zodat dit recht van de betrokkene conform de [artikelen 35](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=37) en [39](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=39) kan worden geëffectueerd.
 
@@ -122,21 +146,21 @@ De beheerder deelt de betrokkene de informatie mede conform de [artikelen 33](ht
 
 4. Voor een bericht als bedoeld in [artikel 35 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=35) worden geen kosten in rekening gebracht.
 
-#### 3.3. Verzet
+##### 3.3. Verzet
 
 1. De Minister stelt procedures op waarmee het verzetsrecht als bedoeld in [artikel 40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=40) binnen vier weken kan worden geëffectueerd.
 
 2. Voor het in behandeling nemen van verzet worden geen kosten in rekening gebracht.
 
-#### 3.4. Bezwaar
+##### 3.4. Bezwaar
 
 Ter uitvoering van [artikel 45 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468&artikel=45) stelt de Minister procedures op om overeenkomstig de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) in te kunnen gaan op bezwaar en beroep.
 
-#### 3.5. Overige klachten
+##### 3.5. Overige klachten
 
 Om in te kunnen gaan op de overige klachten op grond van de [Wet bescherming persoonsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0011468) stelt de Minister procedures op.
 
-#### 4. Beveiliging en beheer
+##### 4. Beveiliging en beheer
 
 1. De te treffen technische en organisatorische maatregelen om persoonsgegevens te beveiligen tegen verlies en onrechtmatige verwerking, dienen te voldoen aan het Voorschrift Informatiebeveiliging Rijksdienst 1994. Daarnaast kan de Minister additionele eisen voorschrijven.
 
@@ -144,7 +168,7 @@ Om in te kunnen gaan op de overige klachten op grond van de [Wet bescherming per
 
 3. De beheerder ziet erop toe, dat de overeenkomst zoals deze ingevolge [artikel 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0013968&paragraaf=1&artikel=1.5&z=2002-09-01&g=2002-09-01) van deze regeling met de bewerker is gesloten, wordt nageleefd.
 
-#### 5. Coördinatie en toezicht
+##### 5. Coördinatie en toezicht
 
 1. Er wordt een privacyfunctionaris benoemd. De privacyfunctionaris ziet toe op de verwerking van persoonsgegevens overeenkomstig het bij of krachtens de wet en deze regeling bepaalde. De taken en bevoegdheden van de privacyfunctionaris worden vastgelegd in een schriftelijke overeenkomst gesloten tussen de Minister en de privacyfunctionaris in persoon.
 
@@ -160,15 +184,15 @@ Om in te kunnen gaan op de overige klachten op grond van de [Wet bescherming per
 
 #### 6. Slotbepalingen
 
-#### 6.1. Inwerkingtreding
+##### 6.1. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 september 2002. Het Besluit houdende vaststelling van het Privacyreglement Personeelsregistraties Ministerie van Financiën wordt ingetrokken.
 
-#### 6.2. Vindplaats
+##### 6.2. Vindplaats
 
 Deze regeling ligt voor een ieder ter inzage bij de privacyfunctionaris.
 
-#### 6.3. Overgangsregeling
+##### 6.3. Overgangsregeling
 
 1. Vóór 1 september 2002 worden de verwerkingen van persoonsgegevens, met uitzondering van de verwerking van de bijzondere persoonsgegevens, die op dat tijdstip reeds plaatsvonden, in overeenstemming gebracht met de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0011468).
 
@@ -178,10 +202,10 @@ Deze regeling ligt voor een ieder ter inzage bij de privacyfunctionaris.
 
 4. Reglementen en formulieren opgesteld ter uitvoering van het Besluit houdende vaststelling van het Privacyreglement Personeelsregistraties Ministerie van Financiën blijven tot 1 september 2004 bewaard.
 
-#### 6.4. Citeertitel
+##### 6.4. Citeertitel
 
 Regeling Wet bescherming persoonsgegevens Ministerie van Financiën.
 
-#### 6.5. Bekendmaking
+##### 6.5. Bekendmaking
 
 Deze regeling, alsmede de wijziging of intrekking daarvan wordt geplaatst in de Staatscourant.

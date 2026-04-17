@@ -1,13 +1,39 @@
 ---
-title: "Besluit capaciteitsverdeling hoofdspoorweginfrastructuur"
+title: "Besluit van 3 december 2004, houdende regels over de verdeling van de capaciteit van de hoofdspoorweg-infrastructuur (Besluit capaciteitsverdeling hoofdspoorweginfrastructuur)"
 identifier: "BWBR0017627"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017627"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017627"
+soort: "AMvB"
+stam_id: "6485343"
+version_id: "19908222"
+internal_id: "C27987591"
+label_id: "6474124"
+dtd_version: "2.0"
+original_entry_into_force: "2013-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017627/2026-01-01/0"
+intitule_bron: "Stb.2004-667"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-03"
+intitule_published: "2004-12-21"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2012-653"
+original_signed_date: "2012-12-11"
+original_published_date: "2012-12-20"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2012-653"
+entry_into_force_date: "2013-01-01"
+jci_1_3: "jci1.3:c:BWBR0017627&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0017627&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit capaciteitsverdeling hoofdspoorweginfrastructuur"
+signed_date: "2012-12-11"
+entry_into_force: "2013-01-01"
 ---
-
 # Besluit van 3 december 2004, houdende regels over de verdeling van de capaciteit van de hoofdspoorweg-infrastructuur (Besluit capaciteitsverdeling hoofdspoorweginfrastructuur)
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 december 2003, nr. HDJZ/S&W/2003-1875, Hoofddirectie Juridische Zaken;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -70,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 - wet: [Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
 #### § 2. Algemene voorwaarden bij de toegangsovereenkomst
 
-#### Artikel 3
+##### Artikel 3
 
 Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=59) zijn:
 
@@ -92,7 +118,7 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 #### § 2. Algemene voorwaarden bij de toegangsovereenkomst
 
-#### Artikel 4
+##### Artikel 4
 
 1. De beheerder zorgt voor een eerlijke, niet-discriminerende en transparante verdeling van de capaciteit.
 
@@ -102,13 +128,13 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 4. De beheerder eerbiedigt de commerciële vertrouwelijkheid van de aan hem door gerechtigden verstrekte gegevens.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De beheerder verstrekt gerechtigden desgevraagd informatie over de binnen de dienstregeling nog voor ad hoc aanvragen beschikbare capaciteit.
 
 2. De beheerder geeft binnen vijf werkdagen na ontvangst van een ad hoc aanvraag aan betrokken gerechtigde aan of dit pad voor verdeling beschikbaar is.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de capaciteitsverdelingsprocedure voor de normale dienstregeling wordt de benodigde capaciteit voor de beheerder verdeeld voor:
 
@@ -134,7 +160,7 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 #### § 4. Regels ten aanzien van overbelast verklaarde infrastructuur
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de beheerder constateert dat er geen overeenstemming kan worden bereikt tijdens de coördinatie ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op vervoer, kunnen beheerder en een betrokken gerechtigde door toepassing van een heffing als bedoeld in [artikel 62, zesde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=62) tot overeenstemming komen.
 
@@ -166,7 +192,7 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 6. Indien de beheerder de infrastructuur overbelast heeft verklaard op grond van het tweede lid, hij op grond van [artikel 4c](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=3&artikel=4c&z=2026-01-01&g=2026-01-01) een voorstel heeft gedaan en de gerechtigde met dat voorstel niet heeft ingestemd, wordt met betrekking tot het gedeelte van de aanvraag van die gerechtigde dat onderdeel is van het voorstel, geen toepassing gegeven aan de [artikelen 8 tot en met 12](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8
+##### Artikel 8
 
 1. Indien concurrerende capaciteitsaanvragen betrekking hebben op vervoer en de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01), overbelast is verklaard, is het minimale niveau:
 
@@ -229,7 +255,7 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 3. De minimale niveaus, bedoeld in het eerste lid, onderdeel e, zijn niet van toepassing op de in de bijlage behorende bij dit besluit aangeduide baanvakken voor goederenbestemmingsverkeer, indien het standaard goederenvervoer niet een aan die baanvakken gelegen herkomst- of eindbestemming heeft.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de benodigde capaciteit voor de beheerder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01), concurreert met de capaciteitsaanvragen van één of meerdere gerechtigden en tussen de beheerder en de betrokken gerechtigden tijdens de coördinatie geen overeenstemming wordt bereikt, volgt de beheerder de procedure, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01).
 
@@ -241,7 +267,7 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 3. Er wordt prioriteit toegekend aan capaciteitsaanvragen met betrekking tot personenvervoer in de spits indien deze concurreren met de benodigde capaciteit voor de beheerder, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=3&artikel=6&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01), overbelast is verklaard, wordt bij de verdeling van capaciteit na toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2026-01-01&g=2026-01-01) prioriteit toegekend aan deelmarkten overeenkomstig onderstaande volgorde:
 
@@ -279,11 +305,11 @@ Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, vie
 
 4. Onverminderd het eerste lid is de beheerder bevoegd aanvullende, in de netverklaring bekendgemaakte prioriteitscriteria te hanteren.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien de infrastructuur overeenkomstig [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01), overbelast is verklaard, en de concurrerende capaciteitsaanvragen zich binnen het standaard goederenvervoer, voordoen, komt na toepassing van [artikel 8 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2026-01-01&g=2026-01-01) prioriteit toe aan het vervoer dat voldoet aan de navolgende criteria. Bij toepassing van deze criteria geldt dat een later genoemd criterium slechts toepassing vindt, indien een eerder genoemd criterium of eerder genoemde criteria geen oplossing bieden:
 
@@ -307,7 +333,7 @@ Vervallen
 
 #### § 5. Voorbehouden van capaciteit
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in [artikel 8, eerste lid, onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=8&z=2026-01-01&g=2026-01-01), genoemde minimale niveaus van het standaard goederenvervoer zijn voorbehouden ten behoeve van dit gebruik tot op het moment van capaciteitsverdeling voor de normale dienstregeling.
 
@@ -317,19 +343,19 @@ Vervallen
 
 #### § 5. Voorbehouden van capaciteit
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit berust mede op de [artikelen 59, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=59), en [62, zesde lid, onderdeel a, en zevende lid, van de Spoorwegwet](onbekend).
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Interimbesluit capaciteitstoewijzing spoorwegen](https://wetten.overheid.nl/jci1.3:c:BWBR0011723) wordt ingetrokken.
 
-#### Artikel 16
+##### Artikel 16
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit wordt aangehaald als: Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.
 
@@ -341,7 +367,7 @@ Dit besluit wordt aangehaald als: Besluit capaciteitsverdeling hoofdspoorweginfr
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De netverklaring, bedoeld in [artikel 58 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=58), bevat een geschillenregeling als bedoeld in artikel 46, zesde lid, van [richtlijn 2012/34](32012L0034)/EU.
 
@@ -351,7 +377,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 4. Regels ten aanzien van overbelast verklaarde infrastructuur
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Indien de beheerder na de coördinatie voor de normale dienstregeling constateert dat het niet mogelijk is om verwachte capaciteitsaanvragen van gerechtigden voor de navolgende jaren adequaat te verdelen, verklaart de beheerder de betrokken infrastructuur voor de navolgende jaren overbelast, tot maximaal de duur van vijf jaar, en volgt deze de procedure, bedoeld in [artikel 7, tweede lid, onderdelen b tot en met e](https://wetten.overheid.nl/jci1.3:c:BWBR0017627&paragraaf=4&artikel=7&z=2026-01-01&g=2026-01-01).
 
@@ -379,7 +405,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 1a. Uitvoering van een beheerplan
 
-#### Artikel 1a
+##### Artikel 1a
 
 De onderdelen van het beheerplan, bedoeld in [artikel 17b, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=17b), waarover de beheerder bij de totstandkoming van een nieuw beheerplan advies vraagt aan de gerechtigden, bedoeld in artikel 17b, eerste lid, van de wet betreffen, voor zover de beheerder ten aanzien van die onderwerpen maatregelen heeft getroffen:
 
@@ -407,21 +433,21 @@ De onderdelen van het beheerplan, bedoeld in [artikel 17b, eerste lid, van de we
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 4b
+##### Artikel 4b
 
 De beheerder is bevoegd capaciteitsaanvragen en toegewezen capaciteit, voor zover het capaciteit betreft tussen twee plaatsen die in verschillende landen liggen, af te wijzen, onderscheidenlijk in te trekken, voor zover de bij dat pad betrokken buitenlandse beheerder, definitief niet de aansluitende capaciteit beschikbaar stelt.
 
-#### Artikel 4c
+##### Artikel 4c
 
 Tijdens de coördinatie kan de beheerder ten aanzien van concurrerende capaciteitsaanvragen, met het oog op het doelmatig gebruik van de capaciteit en rekening houdend met het algemene reizigers- en verladersbelang binnen redelijke grenzen capaciteit voorstellen, die afwijkt van de aangevraagde capaciteit. De redelijke grenzen worden bekendgemaakt in de netverklaring en bedragen voor personenvervoer in tijd maximaal 3 minuten.
 
 #### § 4. Regels ten aanzien van overbelast verklaarde infrastructuur
 
-#### Artikel 9a
+##### Artikel 9a
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Vervallen
 

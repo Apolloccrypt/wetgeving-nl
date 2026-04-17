@@ -1,34 +1,60 @@
 ---
-title: "Regeling onderwijsaccountantsprotocol OCW BES 2023"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 17 januari 2024, nr. 37495418, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2023)"
 identifier: "BWBR0049406"
-categorie: "Onderwijs"
-publicatiedatum: 2024-02-24
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049406"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-02-24"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049406"
+soort: "ministeriele-regeling"
+stam_id: "17038963"
+version_id: "29981182"
+internal_id: "C42985191"
+label_id: "16948514"
+dtd_version: "2.0"
+original_entry_into_force: "2024-02-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049406/2024-02-24/0"
+intitule_bron: "Stcrt.2024-4090"
+intitule_effect: "nieuw"
+intitule_signed: "2024-01-17"
+intitule_published: "2024-02-23"
+intitule_in_force: "2024-02-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-4090"
+original_signed_date: "2024-01-17"
+original_published_date: "2024-02-23"
+original_effect: "nieuw"
+original_url_id: "stcrt-2024-4090"
+entry_into_force_date: "2024-02-24"
+jci_1_3: "jci1.3:c:BWBR0049406&z=2024-02-24&g=2024-02-24"
+jci_1_0: "1.0:c:BWBR0049406&g=2024-02-24"
+citeertitel_status: "officieel"
+short_title: "Regeling onderwijsaccountantsprotocol OCW BES 2023"
+signed_date: "2024-01-17"
+entry_into_force: "2024-02-24"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap, van 17 januari 2024, nr. 37495418, houdende vaststelling van het onderwijsaccountantsprotocol voor de sectoren PO, VO en MBO in Caribisch Nederland (Regeling onderwijsaccountantsprotocol OCW BES 2023)
 
 Gelet op [artikel 125, vierde lid, tweede volzin, van de Wet primair onderwijs BES](https://wetten.overheid.nl/jci1.3:c:BWBR0030280&artikel=125), de [artikelen 6.12, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.12), en [6.19, zevende lid, van het Uitvoeringsbesluit WVO 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0045787&artikel=6.19) en [artikel 5, eerste lid, van het Uitvoeringsbesluit WEB BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029696&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
+##### Artikel 1. Vaststelling onderwijsaccountantsprotocol OCW BES
 
 Het protocol voor de controle en onderzoek door de accountant over het jaar 2023 wordt vastgesteld overeenkomstig de bijlage bij deze regeling.
 
-#### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040579)
+##### Artikel 2. Intrekking [Regeling onderwijsaccountantsprotocol BES 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040579)
 
 De [Regeling onderwijsaccountantsprotocol BES 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0040579) wordt ingetrokken.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2023.
 
 2. Deze regeling heeft betrekking op het jaar 2023 en vervalt met ingang van 1 januari 2030.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling onderwijsaccountantsprotocol OCW BES 2023.
 

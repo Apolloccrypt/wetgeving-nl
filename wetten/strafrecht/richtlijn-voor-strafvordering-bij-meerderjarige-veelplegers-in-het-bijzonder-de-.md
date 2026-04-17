@@ -1,13 +1,35 @@
 ---
 title: "Richtlijn voor strafvordering bij meerderjarige veelplegers (in het bijzonder de vordering van de ISD-maatregel bij stelselmatige daders)"
 identifier: "BWBR0049594"
-categorie: "Strafrecht"
-publicatiedatum: 2024-05-01
-laatste_update: 2024-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049594"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-05-01"
+last_updated: "2024-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049594"
+soort: "beleidsregel"
+stam_id: "17078993"
+version_id: "30057392"
+internal_id: "C43122061"
+label_id: "16987884"
+dtd_version: "2.0"
+original_entry_into_force: "2024-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049594/2024-05-01/0"
+intitule_bron: "Stcrt.2024-12573"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2024-04-18"
+intitule_in_force: "2024-04-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-12573"
+original_published_date: "2024-04-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-12573"
+entry_into_force_date: "2024-05-01"
+jci_1_3: "jci1.3:c:BWBR0049594&z=2024-05-01&g=2024-05-01"
+jci_1_0: "1.0:c:BWBR0049594&g=2024-05-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2024-05-01"
 ---
-
 # Richtlijn voor strafvordering bij meerderjarige veelplegers (in het bijzonder de vordering van de ISD-maatregel bij stelselmatige daders)
 
 ### Samenvatting

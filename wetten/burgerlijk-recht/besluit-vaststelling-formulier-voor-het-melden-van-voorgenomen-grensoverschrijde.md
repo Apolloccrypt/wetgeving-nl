@@ -1,24 +1,50 @@
 ---
-title: "Besluit vaststelling formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 57, tweede lid, Spoorwegwet"
+title: "Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 6 november 2012 tot vaststelling van het formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 57, tweede lid, van de Spoorwegwet"
 identifier: "BWBR0033418"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2012-11-16
-laatste_update: 2012-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033418"
+country: "nl"
+rank: "zbo"
+publication_date: "2012-11-16"
+last_updated: "2012-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033418"
+soort: "zbo"
+stam_id: "12257733"
+version_id: "20513452"
+internal_id: "C28851891"
+label_id: "12229044"
+dtd_version: "2.0"
+original_entry_into_force: "2012-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033418/2012-11-16/0"
+intitule_bron: "Stcrt.2012-23298"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-11-06"
+intitule_published: "2012-11-15"
+intitule_in_force: "2012-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-23298"
+original_signed_date: "2012-11-06"
+original_published_date: "2012-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-23298"
+entry_into_force_date: "2012-11-16"
+jci_1_3: "jci1.3:c:BWBR0033418&z=2012-11-16&g=2012-11-16"
+jci_1_0: "1.0:c:BWBR0033418&g=2012-11-16"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 57, tweede lid, Spoorwegwet"
+signed_date: "2012-11-06"
+entry_into_force: "2012-11-16"
 ---
-
 # Besluit van de Raad van Bestuur van de Nederlandse Mededingingsautoriteit van 6 november 2012 tot vaststelling van het formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in artikel 57, tweede lid, van de Spoorwegwet
 
 Gelet op [artikel 4.4 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het formulier voor het melden van voorgenomen grensoverschrijdend personenvervoer per spoor als bedoeld in [artikel 57, tweede lid, van de Spoorwegwet](https://wetten.overheid.nl/jci1.3:c:BWBR0015007&artikel=57), wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit zal met de toelichting en bijlage in de Staatscourant worden geplaatst.
 

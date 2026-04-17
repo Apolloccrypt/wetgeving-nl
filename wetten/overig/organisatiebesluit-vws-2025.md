@@ -1,13 +1,39 @@
 ---
-title: "Organisatiebesluit VWS 2025"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2025, kenmerk 4055328-1078653-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2025"
 identifier: "BWBR0050921"
-categorie: "Overig"
-publicatiedatum: 2025-04-05
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050921"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-05"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050921"
+soort: "ministeriele-regeling"
+stam_id: "17398113"
+version_id: "30673892"
+internal_id: "C43973711"
+label_id: "17301894"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050921/2025-04-05/0"
+intitule_bron: "Stcrt.2025-11779"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-27"
+intitule_published: "2025-04-04"
+intitule_in_force: "2025-04-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11779"
+original_signed_date: "2025-03-27"
+original_published_date: "2025-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11779"
+entry_into_force_date: "2025-04-05"
+jci_1_3: "jci1.3:c:BWBR0050921&z=2025-04-05&g=2025-04-05"
+jci_1_0: "1.0:c:BWBR0050921&g=2025-04-05"
+citeertitel_status: "officieel"
+short_title: "Organisatiebesluit VWS 2025"
+signed_date: "2025-03-27"
+entry_into_force: "2025-04-05"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 27 maart 2025, kenmerk 4055328-1078653-OBP, houdende de vaststelling van het Organisatiebesluit VWS 2025
 
 Gelet op [artikel 3, tweede lid, van het Coördinatiebesluit organisatie, bedrijfsvoering en informatiesystemen rijksdienst](https://wetten.overheid.nl/jci1.3:c:BWBR0029514&artikel=3);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begripsbepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk 2. Hoofdstructuur van de organisatie
 
-#### Artikel 2
+##### Artikel 2
 
 Het Ministerie bestaat uit de volgende organisatieonderdelen:
 
@@ -56,7 +82,7 @@ Het Ministerie bestaat uit de volgende organisatieonderdelen:
 
 ### Hoofdstuk 3. Algemene leiding
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Algemene Leiding ressorteert onder de Minister.
 
@@ -124,7 +150,7 @@ Het Ministerie bestaat uit de volgende organisatieonderdelen:
 
 - 4. de directie Jeugd (DJ).
 
-#### Artikel 4
+##### Artikel 4
 
 Onder de SG ressorteert de Inspectie Gezondheidszorg en Jeugd (IGJ);
 
@@ -140,7 +166,7 @@ De volgende diensten en instellingen ressorteren onder de pSG:
 
 - 5. het Sociaal en Cultureel Planbureau (SCP).
 
-#### Artikel 5
+##### Artikel 5
 
 De volgende secretariaten van raden en commissies maken deel uit van het Ministerie.
 
@@ -154,7 +180,7 @@ Onder de pSG ressorteren:
 
 - 4. het secretariaat van de Nederlandse Sportraad (NLsportraad).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het RIVM, het Directoraat-Generaal Volksgezondheid, het Directoraat-Generaal Curatieve Zorg en het Directoraat-Generaal Langdurige Zorg ressorteren onder een Directeur-Generaal.
 
@@ -168,7 +194,7 @@ Onder de pSG ressorteren:
 
 ### Hoofdstuk 3A. Financiële organisatie
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De SG is budgethouder.
 
@@ -178,7 +204,7 @@ Onder de pSG ressorteren:
 
 ### Hoofdstuk 4. Secretaris generaal
 
-#### Artikel 7
+##### Artikel 7
 
 De directie Macro-Economische Vraagstukken en Arbeidsmarkt bestaat uit de volgende afdelingen:
 
@@ -194,7 +220,7 @@ De directie Macro-Economische Vraagstukken en Arbeidsmarkt bestaat uit de volgen
 
 - f. Financiën & Beleidsondersteuning
 
-#### Artikel 8
+##### Artikel 8
 
 De directie Financieel-Economische Zaken bestaat uit de volgende onderdelen:
 
@@ -206,7 +232,7 @@ De directie Financieel-Economische Zaken bestaat uit de volgende onderdelen:
 
 ### Hoofdstuk 5. De plaatsvervangend secretaris generaal
 
-#### Artikel 9
+##### Artikel 9
 
 De directie Bestuurlijke en Politieke Zaken bestaat uit de volgende onderdelen:
 
@@ -226,7 +252,7 @@ De directie Bestuurlijke en Politieke Zaken bestaat uit de volgende onderdelen:
 
 - h. Stukkenstroom
 
-#### Artikel 10
+##### Artikel 10
 
 De directie Organisatie, Bedrijfsvoering en Personeel bestaat uit de volgende onderdelen:
 
@@ -240,7 +266,7 @@ De directie Organisatie, Bedrijfsvoering en Personeel bestaat uit de volgende on
 
 - e. Afdeling VWS Flex.
 
-#### Artikel 11
+##### Artikel 11
 
 De directie Informatiebeleid-CIO bestaat uit de volgende onderdelen:
 
@@ -258,7 +284,7 @@ De directie Informatiebeleid-CIO bestaat uit de volgende onderdelen:
 
 - f. Cluster i-Realisatie.
 
-#### Artikel 12
+##### Artikel 12
 
 De directie Communicatie bestaat uit de volgende onderdelen:
 
@@ -268,11 +294,11 @@ De directie Communicatie bestaat uit de volgende onderdelen:
 
 - c. Corporate.
 
-#### Artikel 13
+##### Artikel 13
 
 De directie Wetgeving en Juridische Zaken staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 14
+##### Artikel 14
 
 De directie Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies bestaat uit de volgende onderdelen:
 
@@ -280,7 +306,7 @@ De directie Eenheid Secretariaten Tuchtcolleges en Toetsingscommissies bestaat u
 
 - b. RTE (Regionale Toetsingscommissies Euthanasie).
 
-#### Artikel 15
+##### Artikel 15
 
 De programmadirectie PGB bestaat uit de volgende onderdelen:
 
@@ -288,7 +314,7 @@ De programmadirectie PGB bestaat uit de volgende onderdelen:
 
 - 2. Staf en bestuur.
 
-#### Artikel 16
+##### Artikel 16
 
 De directie Zorg en Jeugd in Caribisch Nederland bestaat uit de volgende onderdelen:
 
@@ -298,77 +324,77 @@ De directie Zorg en Jeugd in Caribisch Nederland bestaat uit de volgende onderde
 
 - c. Landen.
 
-#### Artikel 17
+##### Artikel 17
 
 De programmadirectie Openbaarheid (tot 1 april 2025) staat onder leiding van een programmadirecteur.
 
-#### Artikel 18
+##### Artikel 18
 
 De directie Open Overheid (met ingang 1 april 2024) staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
 ### Hoofdstuk 6. Directoraat-generaal volksgezondheid
 
-#### Artikel 19
+##### Artikel 19
 
 De directie Publieke Gezondheid staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 20
+##### Artikel 20
 
 De directie Sport en Bewegen staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 21
+##### Artikel 21
 
 De directie Voeding, Gezondheidsbescherming en Preventie staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 22
+##### Artikel 22
 
 De directie Internationale Zaken staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 23
+##### Artikel 23
 
 De directie Infectieziektenbeleid staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de programmadirectie.
 
 ### Hoofdstuk 7. Directoraat-generaal curatieve zorg
 
-#### Artikel 24
+##### Artikel 24
 
 De directie Curatieve Zorg staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 25
+##### Artikel 25
 
 De directie Geneesmiddelen en Medische Technologie staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 26
+##### Artikel 26
 
 De directie Patiënt en Zorgordening staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 27
+##### Artikel 27
 
 De programmadirectie Medische Isotopen staat onder leiding van een programmadirecteur die stuurt op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de programmadirectie.
 
-#### Artikel 28
+##### Artikel 28
 
 De programmadirectie Weerbare Zorg staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de (programma)directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de programmadirectie.
 
-#### Artikel 29
+##### Artikel 29
 
 De programmadirectie Integraal Zorg Akkoord (IZA) staat onder leiding van een (programma)directeur. Deze stuurt op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de programmadirectie.
 
 ### Hoofdstuk 8. Directoraat-generaal langdurige zorg
 
-#### Artikel 30
+##### Artikel 30
 
 De directie Langdurige Zorg staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het collegiaal managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de dienst.
 
-#### Artikel 31
+##### Artikel 31
 
 De directie Zorgverzekeringen staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 32
+##### Artikel 32
 
 De directie Maatschappelijke Ondersteuning staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
-#### Artikel 33
+##### Artikel 33
 
 De directie Jeugd staat onder leiding van een collegiaal managementteam. Onder eindverantwoordelijkheid van de directeur stuurt het managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de directie.
 
@@ -376,7 +402,7 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 ### Hoofdstuk 9. De diensten en instellingen
 
-#### Artikel 34
+##### Artikel 34
 
 1. Het agentschap College Beoordeling Geneesmiddelen staat onder leiding van een Directeur.
 
@@ -436,7 +462,7 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - f. Juridische Zaken & Public Assessment Report.
 
-#### Artikel 35
+##### Artikel 35
 
 1. Het CIBG staat onder leiding van een Algemeen Directeur.
 
@@ -488,7 +514,7 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - d. HRM en Managementondersteuning.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Inspectie Gezondheidszorg en Jeugd staat onder leiding van een inspecteur-generaal (IG).
 
@@ -556,7 +582,7 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - e. Facilitaire Ondersteuning.
 
-#### Artikel 37
+##### Artikel 37
 
 1. De baten-lastendienst Rijksinstituut voor Volksgezondheid en Milieu staat onder leiding van een Directeur-Generaal (DG). De Chief Financial Officer (CFO) is tevens plaatsvervangend Directeur-Generaal (pDG) en is verantwoordelijk voor de bedrijfsvoering.
 
@@ -636,11 +662,11 @@ De Jeugdautoriteit ressorteert onder de directie Jeugd.
 
 - c. Landelijke Functie Opschaling Infectieziektebestrijding
 
-#### Artikel 38
+##### Artikel 38
 
 De Dienst Uitvoering Subsidies aan Instellingen staat onder leiding van het collegiaal managementteam. Onder eindverantwoordelijkheid van de algemeen directeur stuurt het collegiaal managementteam op de koers, prioritaire thema’s, flexibele inzet van medewerkers en organisatie van de dienst.
 
-#### Artikel 39
+##### Artikel 39
 
 Het Sociaal en Cultureel Planbureau staat onder leiding van een directeur en een adjunct-directeur.
 
@@ -654,7 +680,7 @@ Het Planbureau werkt met een flexibele programmastructuur en kent daarnaast de v
 
 ### Hoofdstuk 10. De secretariaten van de raden en commissies
 
-#### Artikel 40
+##### Artikel 40
 
 Het secretariaat van de Gezondheidsraad staat onder leiding van de Algemeen Secretaris en bestaat uit de volgende onderdelen:
 
@@ -666,11 +692,11 @@ Het secretariaat van de Gezondheidsraad staat onder leiding van de Algemeen Secr
 
 - d. Communicatie en Redactie.
 
-#### Artikel 41
+##### Artikel 41
 
 Het secretariaat van de Raad voor Volksgezondheid en Samenleving staat onder leiding van een Directeur/Algemeen secretaris.
 
-#### Artikel 42
+##### Artikel 42
 
 Het Secretariaat van de Centrale Commissie Mensgebonden Onderzoek staat onder leiding van een Algemeen Secretaris en bestaat uit de volgende onderdelen:
 
@@ -680,21 +706,21 @@ Het Secretariaat van de Centrale Commissie Mensgebonden Onderzoek staat onder le
 
 - c. Bureau CCMO.
 
-#### Artikel 43
+##### Artikel 43
 
 Het Secretariaat van de Nederlandse Sportraad staat onder leiding van een Algemeen Secretaris.
 
-#### Artikel 44
+##### Artikel 44
 
 Het secretariaat van de Commissie Genetische Modificatie staat onder leiding van een secretaris en is ambtelijk ondergebracht bij het Rijksinstituut voor Volksgezondheid en Milieu.
 
 ### Hoofdstuk 11. Slotbepalingen
 
-#### Artikel 45
+##### Artikel 45
 
 De directeur Organisatie, Bedrijfsvoering en Personeel is belast met het beheer van dit besluit.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 maart 2025.
 

@@ -1,13 +1,37 @@
 ---
 title: "Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur"
 identifier: "BWBR0004786"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1998-12-15
-laatste_update: 1998-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004786"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-12-15"
+last_updated: "1998-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004786"
+soort: "ministeriele-regeling"
+stam_id: "5000583"
+version_id: "8668442"
+internal_id: "C11220621"
+label_id: "4977134"
+dtd_version: "2.0"
+original_entry_into_force: "1990-06-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004786/1998-12-15/0"
+intitule_bron: "Stcrt.1990-123"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-11"
+intitule_published: "1990-06-28"
+intitule_in_force: "1990-06-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-123"
+original_signed_date: "1990-06-11"
+original_published_date: "1990-06-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-06-29"
+jci_1_3: "jci1.3:c:BWBR0004786&z=1998-12-15&g=1998-12-15"
+jci_1_0: "1.0:c:BWBR0004786&g=1998-12-15"
+citeertitel_status: "officieel"
+signed_date: "1990-06-11"
+entry_into_force: "1990-06-29"
 ---
-
 # Beschikking toewijzing radio-frequenties ten behoeve van de concessiehouder van de telecommunicatie-infrastructuur
 
 Gelet op artikel 3 van de Wet op de telecommunicatievoorzieningen (Stb. 1988, 520);
@@ -16,21 +40,21 @@ Besluit:
 
 #### 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt verstaan onder:
 
 #### 2. Voorschriften met betrekking tot het etherbeheer en -gebruik
 
-#### Artikel 2
+##### Artikel 2
 
 Aan de houder van de concessie voor de telecommunicatie-infrastructuur worden de in de bijlage, behorende bij deze beschikking, opgenomen frequenties voor de daarbij aangegeven toepassingsdoeleinden toegewezen.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien één of meer toegewezen frequenties of frequentie-banden in het kader van een doelmatige uitoefening van de concessie niet meer nodig zijn, kan de toewijzing ten aanzien van de betreffende frequenties of frequentiebanden worden ingetrokken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De houder van de concessie is belast met de uitvoering van het door de Minister vastgelegde beleid ten aanzien van de verdeling, het beheer en het gebruik van de onderscheidenlijk aan hem toegewezen frequentiebanden.
 
@@ -48,7 +72,7 @@ Indien één of meer toegewezen frequenties of frequentie-banden in het kader va
 
 #### 3. Voorschriften met betrekking tot de inrichting
 
-#### Artikel 5
+##### Artikel 5
 
 1. De houder van de concessie zal al het mogelijke doen wat redelijkerwijs van hem verwacht mag worden om te voorkomen dat het door hem uitgeoefende gebruik van de toegewezen frequenties storing of belemmering zal veroorzaken in zend- en ontvanginrichtingen werkend in de niet aan hem toegewezen delen van het frequentiespectrum dan wel in overige elektrische of elektronische inrichtingen.
 
@@ -56,7 +80,7 @@ Indien één of meer toegewezen frequenties of frequentie-banden in het kader va
 
 #### 4. Slotbepaling
 
-#### Artikel 6
+##### Artikel 6
 
 1. Deze beschikking treedt in werking met ingang van de dag na publicatie in de Staatscourant.
 

@@ -1,24 +1,48 @@
 ---
 title: "Vaststelling werkzaamheden bureau beheer landbouwgronden"
 identifier: "BWBR0003560"
-categorie: "Overig"
-publicatiedatum: 2007-10-21
-laatste_update: 2007-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003560"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2007-10-21"
+last_updated: "2007-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003560"
+soort: "ministeriele-regeling"
+stam_id: "4972183"
+version_id: "8634132"
+internal_id: "C11178341"
+label_id: "4949044"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003560/2007-10-21/0"
+intitule_bron: "Stcrt.1982-253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1982-12-28"
+intitule_published: "1982-12-30"
+intitule_in_force: "1982-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1982-253"
+original_signed_date: "1982-12-28"
+original_published_date: "1982-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0003560&z=2007-10-21&g=2007-10-21"
+jci_1_0: "1.0:c:BWBR0003560&g=2007-10-21"
+citeertitel_status: "officieel"
+signed_date: "1982-12-28"
+entry_into_force: "1983-01-01"
 ---
-
 # Vaststelling werkzaamheden bureau beheer landbouwgronden
 
 Gelet op [artikel 29, eerste lid, van de Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386&artikel=29) (Stb. 1981, 248);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beschikking wordt onder [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003386) de [Wet agrarisch grondverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0003386) (Stb. 1981, 248) verstaan.
 
-#### Artikel 2
+##### Artikel 2
 
 Het bureau verricht de volgende werkzaamheden alsmede werkzaamheden die daarmee verband houden:
 
@@ -60,10 +84,10 @@ Het bureau verricht de volgende werkzaamheden alsmede werkzaamheden die daarmee 
 
 - s. het verkrijgen, tijdelijk beheren en vervreemden van andere onroerende zaken dan voorzien in de onderdelen a tot en met k, voor zover deze zaken kunnen worden aangewend voor de verkrijging van onroerende zaken als bedoeld in de onderdelen a tot en met k.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beschikking treedt met ingang van 1 januari 1983 in werking en wordt gepubliceerd in de Nederlandse Staatscourant.

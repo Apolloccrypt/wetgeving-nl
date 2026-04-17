@@ -1,20 +1,46 @@
 ---
-title: "Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen"
+title: "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 juni 2025, kenmerk 4136017-1084380-MEVA, houdende regels voor de verstrekking van subsidie ter ondersteuning van samenwerkingsverbanden bij het inrichten van een vernieuwde opleidingsstructuur voor helpenden, verzorgenden en verpleegkundigen (Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen) [KetenID WGK027676]"
 identifier: "BWBR0051150"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-03-14
-laatste_update: 2026-03-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051150"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-03-14"
+last_updated: "2026-03-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051150"
+soort: "ministeriele-regeling"
+stam_id: "17455543"
+version_id: "30784082"
+internal_id: "C44125041"
+label_id: "17358454"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051150/2026-03-14/0"
+intitule_bron: "Stcrt.2025-21709"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-06-18"
+intitule_published: "2025-06-27"
+intitule_in_force: "2025-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-21709"
+original_signed_date: "2025-06-18"
+original_published_date: "2025-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-21709"
+entry_into_force_date: "2025-06-28"
+jci_1_3: "jci1.3:c:BWBR0051150&z=2026-03-14&g=2026-03-14"
+jci_1_0: "1.0:c:BWBR0051150&g=2026-03-14"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen"
+signed_date: "2025-06-18"
+entry_into_force: "2025-06-28"
 ---
-
 # Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 18 juni 2025, kenmerk 4136017-1084380-MEVA, houdende regels voor de verstrekking van subsidie ter ondersteuning van samenwerkingsverbanden bij het inrichten van een vernieuwde opleidingsstructuur voor helpenden, verzorgenden en verpleegkundigen (Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen) [KetenID WGK027676]
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=3) en [5 van de Kaderwet VWS-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0009455&artikel=5);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -76,17 +102,17 @@ In deze regeling wordt verstaan onder:
 
 - **zorgaanbieder:** rechtspersoon die bedrijfsmatig zorg verleent.
 
-#### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
+##### Artikel 2. Toepasselijkheid [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603)
 
 1. Op deze regeling is de [Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van [artikel 10.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=10.1).
 
 2. De subsidie is een subsidie als bedoeld in [artikel 1.5, onderdeel c of d, van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=1.5).
 
-#### Artikel 3. Doel van de regeling
+##### Artikel 3. Doel van de regeling
 
 Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de totstandkoming van vernieuwde opleidingsstructuren die bijdragen aan het vergroten van de opleidingscapaciteit voor helpenden, verzorgenden en verpleegkundigen en die passen bij de regionale arbeidsmarktopgave.
 
-#### Artikel 4. Voorwaarden samenwerkingsverband en penvoerder
+##### Artikel 4. Voorwaarden samenwerkingsverband en penvoerder
 
 1. Een samenwerkingsverband bestaat uit ten minste één onderwijsinstelling die een opleiding verzorgt, blijkens de Registratie instellingen en opleidingen, en
 
@@ -104,7 +130,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 6. Indien de penvoerder mbo-leerlingen begeleidt, kan subsidie enkel worden verstrekt indien het een erkend leerbedrijf betreft.
 
-#### Artikel 5. Subsidiabele activiteiten
+##### Artikel 5. Subsidiabele activiteiten
 
 1. De minister kan op aanvraag aan een penvoerder subsidie verstrekken voor activiteiten die bijdragen aan het realiseren van het doel van de regeling en betreffen:
 
@@ -118,13 +144,13 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 4. Een aanvrager kan niet gelijktijdig subsidie aanvragen voor de activiteit, bedoeld in het eerste lid, onder a, en de activiteit, bedoeld in het eerste lid, onder b.
 
-#### Artikel 6. Staatssteun
+##### Artikel 6. Staatssteun
 
 1. De activiteit, zoals genoemd in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), wordt aangewezen als een DAEB.
 
 2. Subsidie wordt uitsluitend verstrekt indien de penvoerder met de Staat een overeenkomst sluit waarbij de Staat hem belast met en hij zich verplicht tot het verrichten van de DAEB, bedoeld in het eerste lid.
 
-#### Artikel 7. Hoogte van de subsidie
+##### Artikel 7. Hoogte van de subsidie
 
 1. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), bedraagt:
 
@@ -134,7 +160,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 2. De subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), bedraagt per aanvraag minimaal € 125.000 en maximaal € 750.000.
 
-#### Artikel 8. Subsidiabele kosten voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
+##### Artikel 8. Subsidiabele kosten voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
 
 1. Het subsidiabele bedrag bestaat voor ten hoogste 40% uit andere kosten dan personele kosten.
 
@@ -142,7 +168,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 3. De kosten voor begeleiding van helpenden, verzorgenden en verpleegkundigen komen niet voor subsidie in aanmerking.
 
-#### Artikel 9. Subsidieplafond en wijze van verdeling
+##### Artikel 9. Subsidieplafond en wijze van verdeling
 
 1. Het subsidieplafond bedraagt:
 
@@ -152,7 +178,7 @@ Deze regeling heeft als doel het stimuleren van activiteiten ten behoeve van de 
 
 2. De minister verdeelt het ingevolge het subsidieplafond beschikbare bedrag op volgorde van binnenkomst van complete aanvragen, met dien verstande dat wanneer de penvoerder krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst geldt.
 
-#### Artikel 10. Activiteitenplan voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
+##### Artikel 10. Activiteitenplan voor activiteit [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14)
 
 In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.4), vermeldt de penvoerder voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), in het activiteitenplan:
 
@@ -166,7 +192,7 @@ In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - e. een beschrijving van de mogelijke risico’s die de uitvoering kunnen belemmeren en de genomen beheersmaatregelen.
 
-#### Artikel 11. Aanvraag tot subsidieverlening
+##### Artikel 11. Aanvraag tot subsidieverlening
 
 1. De subsidieaanvraag voor de activiteit, bedoeld in [artikel 5, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), kan worden ingediend in de periode van 18 augustus 2025 9.00 uur tot en met 30 september 2025 13.00 uur.
 
@@ -200,11 +226,11 @@ In aanvulling op [artikel 3.4 van de Kaderregeling](https://wetten.overheid.nl/j
 
 7. De penvoerder gebruikt door de minister vastgesteld formulieren voor de de-minimisverklaring, de DAEB de-minimisovereenkomst, de samenwerkingsovereenkomst, de begroting en het activiteitenplan.
 
-#### Artikel 12. Bevoorschotting
+##### Artikel 12. Bevoorschotting
 
 De minister verleent bij het besluit tot verlening van de subsidie een voorschot van 100% dat in een keer wordt betaald.
 
-#### Artikel 13. Verplichtingen
+##### Artikel 13. Verplichtingen
 
 In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&hoofdstuk=5) is de penvoerder verplicht:
 
@@ -212,7 +238,7 @@ In aanvulling op [hoofdstuk 5 van de Kaderregeling](https://wetten.overheid.nl/j
 
 - b. bij de activiteit, bedoeld in [artikel 5, eerste lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), eenmaal in de 12 maanden verslag te doen aan de minister over de voortgang van de gesubsidieerde activiteit.
 
-#### Artikel 14. Afwijzingsgronden
+##### Artikel 14. Afwijzingsgronden
 
 De minister wijst een subsidieaanvraag in ieder geval af indien:
 
@@ -224,7 +250,7 @@ De minister wijst een subsidieaanvraag in ieder geval af indien:
 
 - d. de verstrekking van een subsidie voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), niet in overeenstemming is met de DAEB de-minimisverordening.
 
-#### Artikel 15. Verantwoording en vaststelling
+##### Artikel 15. Verantwoording en vaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie wordt ingediend binnen 22 weken na de datum waarop de activiteiten waarvoor subsidie is verleend, uiterlijk moeten zijn verricht.
 
@@ -232,15 +258,15 @@ De minister wijst een subsidieaanvraag in ieder geval af indien:
 
 3. In aanvulling op [artikel 7.8 van de Kaderregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.8), gaat de aanvraag tot vaststelling voor de activiteit, bedoeld in [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0051150&artikel=5&z=2026-03-14&g=2026-03-14), vergezeld van een publieksvriendelijke samenvatting waarin de geleerde lessen en resultaten worden gedeeld.
 
-#### Artikel 16. Hardheidsclausule
+##### Artikel 16. Hardheidsclausule
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 17. Inwerkingtreding en vervaldatum
+##### Artikel 17. Inwerkingtreding en vervaldatum
 
 Deze regeling treedt in werking met ingang van de dag na datum publicatie in de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 31 augustus 2029.
 
-#### Artikel 18. Citeertitel
+##### Artikel 18. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling Inrichten Opleidingsstructuur helpenden, verzorgenden en verpleegkundigen.
 

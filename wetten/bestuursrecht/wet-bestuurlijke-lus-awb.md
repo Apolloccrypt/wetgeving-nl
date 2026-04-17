@@ -1,14 +1,41 @@
 ---
-title: "Wet bestuurlijke lus Awb"
+title: "Wet van 14 december 2009 tot aanvulling van de Algemene wet bestuursrecht met een regeling voor herstel van gebreken in een besluit hangende beroep bij de bestuursrechter (Wet bestuurlijke lus Awb)"
 identifier: "BWBR0026955"
-categorie: "Bestuursrecht"
-publicatiedatum: 2010-01-01
-laatste_update: 2010-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026955"
+country: "nl"
+rank: "wet"
+publication_date: "2010-01-01"
+last_updated: "2010-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026955"
+soort: "wet"
+stam_id: "10346373"
+version_id: "16989772"
+internal_id: "C23431241"
+label_id: "10321654"
+dtd_version: "2.0"
+original_entry_into_force: "2010-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026955/2010-01-01/0"
+intitule_bron: "Stb.2009-570"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-14"
+intitule_published: "2009-12-24"
+intitule_in_force: "2009-12-28"
+intitule_status: "goed"
+original_publication: "Stb.2009-570"
+original_signed_date: "2009-12-14"
+original_published_date: "2009-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "31352"
+original_url_id: "stb-2009-570"
+entry_into_force_date: "2010-01-01"
+jci_1_3: "jci1.3:c:BWBR0026955&z=2010-01-01&g=2010-01-01"
+jci_1_0: "1.0:c:BWBR0026955&g=2010-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet bestuurlijke lus Awb"
+signed_date: "2009-12-14"
+entry_into_force: "2010-01-01"
 ---
-
-# Wet bestuurlijke lus Awb
+# Wet van 14 december 2009 tot aanvulling van de Algemene wet bestuursrecht met een regeling voor herstel van gebreken in een besluit hangende beroep bij de bestuursrechter (Wet bestuurlijke lus Awb)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,63 +43,63 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de mogelijkheid te o
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Algemene wet bestuursrecht.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Algemene wet inzake rijksbelastingen.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Beroepswet.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet bestuursrechtspraak bedrijfsorganisatie.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de Raad van State.
 
-#### Artikel Va
+##### Artikel Va
 
 Wijzigt de Natuurbeschermingswet 1998.
 
-#### Artikel Vb
+##### Artikel Vb
 
 1. Wijzigt de Spoedwet wegverbreding.
 
 2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
 
-#### Artikel Vc
+##### Artikel Vc
 
 1. Wijzigt de Tracéwet.
 
 2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
 
-#### Artikel Vd
+##### Artikel Vd
 
 1. Wijzigt de Waterwet.
 
 2. Wijzigt de Waterwet.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt de Wet algemene bepalingen omgevingsrecht.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet milieubeheer.
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 1. Wijzigt de Wet ruimtelijke ordening.
 
 2. Wijzigt de Wijzigingswet Tracéwet, enz. (verbetering beroepsprocedure).
 
-#### Artikel VIIb
+##### Artikel VIIb
 
 1. De [artikelen 39a tot en met 39c van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=39a), zoals deze luidden voor de inwerkingtreding van deze wet, blijven van toepassing op beroepen waarin de Afdeling bestuursrechtspraak van de Raad van State toepassing heeft gegeven aan [artikel 39a, eerste lid, van de Natuurbeschermingswet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0009641&artikel=39a) voordat deze wet in werking is getreden.
 
@@ -88,11 +115,11 @@ Wijzigt de Wet milieubeheer.
 
 7. Indien het bij koninklijke boodschap van 26 juli 2008 ingediende voorstel van wet tot wijziging van de Tracéwet, Spoedwet wegverbreding en de Wet ruimtelijke ordening met het oog op de verbetering van de beroepsprocedure (31 546) tot wet is of wordt verheven en artikel III van die wet eerder in werking is getreden of treedt dan deze wet, blijven de artikelen 8.4a tot en met 8.4f van de Wet ruimtelijke ordening, zoals deze luidden voor de inwerkingtreding van deze wet, van toepassing op beroepen waarin de Afdeling bestuursrechtspraak van de Raad van State toepassing heeft gegeven aan artikel 8.4b, eerste lid, van de Wet ruimtelijke ordening voordat deze wet in werking is getreden.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze wet wordt aangehaald als: Wet bestuurlijke lus Awb.
 

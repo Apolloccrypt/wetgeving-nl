@@ -1,13 +1,39 @@
 ---
-title: "Besluit invoering minimumuurloon"
+title: "Besluit van 27 juni 2023 tot uitvoering van de Wet invoering minimumuurloon (Besluit invoering minimumuurloon)"
 identifier: "BWBR0048501"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048501"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048501"
+soort: "AMvB"
+stam_id: "16826263"
+version_id: "29564152"
+internal_id: "C42260291"
+label_id: "16738974"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048501/2024-01-01/0"
+intitule_bron: "Stb.2023-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-27"
+intitule_published: "2023-06-30"
+intitule_in_force: "2023-07-07"
+intitule_status: "goed"
+original_publication: "Stb.2023-240"
+original_signed_date: "2023-06-27"
+original_published_date: "2023-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-240"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0048501&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048501&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit invoering minimumuurloon"
+signed_date: "2023-06-27"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 27 juni 2023 tot uitvoering van de Wet invoering minimumuurloon (Besluit invoering minimumuurloon)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid, van 8 maart 2023, nr. 2023-0000097213; gedaan in overeenstemming met Onze Minister van Justitie en Veiligheid, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Financiën;
@@ -22,79 +48,79 @@ Hebben goedgevonden en verstaan:
 
 Treedt in werking op het tijdstip waarop de Wet invoering minimumuurloon in werking treedt.
 
-#### Artikel I. [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
+##### Artikel I. [Arbeidstijdenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0007687)
 
 Wijzigt het Arbeidstijdenbesluit.
 
-#### Artikel II. [Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekkking wordt beschouwd](https://wetten.overheid.nl/jci1.3:c:BWBR0004090)
+##### Artikel II. [Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekkking wordt beschouwd](https://wetten.overheid.nl/jci1.3:c:BWBR0004090)
 
 Wijzigt het Besluit aanwijzing gevallen waarin arbeidsverhouding als dienstbetrekking wordt beschouwd.
 
-#### Artikel III. [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
+##### Artikel III. [Besluit bezoldiging politie](https://wetten.overheid.nl/jci1.3:c:BWBR0006517)
 
 Wijzigt het Besluit bezoldiging politie.
 
-#### Artikel IV. [Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022)
+##### Artikel IV. [Besluit bovenwettelijke werkloosheidsuitkering politie](https://wetten.overheid.nl/jci1.3:c:BWBR0012022)
 
 Wijzigt het Besluit bovenwettelijke werkloosheidsuitkering politie.
 
-#### Artikel V. [Besluit experimentele subsidie generieke werkgeversvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045276)
+##### Artikel V. [Besluit experimentele subsidie generieke werkgeversvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0045276)
 
 Wijzigt het Besluit experimentele subsidie generieke werkgeversvoorzieningen.
 
-#### Artikel VI. [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555)
+##### Artikel VI. [Besluit inburgering 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0045555)
 
 Wijzigt het Besluit inburgering 2021.
 
-#### Artikel VII. [Besluit loonkostensubsidie en minimumbedragen studietoeslag Participatiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044894)
+##### Artikel VII. [Besluit loonkostensubsidie en minimumbedragen studietoeslag Participatiewet 2021](https://wetten.overheid.nl/jci1.3:c:BWBR0044894)
 
 Wijzigt het Besluit loonkostensubsidie en minimumbedragen studietoeslag Participatiewet 2021.
 
-#### Artikel VIII. [Besluit minimumjeugdloon](https://wetten.overheid.nl/jci1.3:c:BWBR0003599)
+##### Artikel VIII. [Besluit minimumjeugdloon](https://wetten.overheid.nl/jci1.3:c:BWBR0003599)
 
 Wijzigt het Besluit minimumjeugdloon.
 
-#### Artikel IX. [Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545)
+##### Artikel IX. [Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545)
 
 Wijzigt het Besluit studiefinanciering 2000.
 
-#### Artikel X. [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182)
+##### Artikel X. [Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](https://wetten.overheid.nl/jci1.3:c:BWBR0010182)
 
 Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
-#### Artikel XI. [Besluit wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
+##### Artikel XI. [Besluit wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
 
-#### Artikel XII. [Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471)
+##### Artikel XII. [Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471)
 
 Wijzigt het Dagloonbesluit werknemersverzekeringen.
 
-#### Artikel XIII. [Reintegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152)
+##### Artikel XIII. [Reintegratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0019152)
 
 Wijzigt het Reïntegratiebesluit.
 
-#### Artikel XIV. [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478)
+##### Artikel XIV. [Schattingsbesluit arbeidsongeschiktheidswetten](https://wetten.overheid.nl/jci1.3:c:BWBR0011478)
 
 Wijzigt het Schattingsbesluit arbeidsongeschiktheidswetten.
 
-#### Artikel XV. [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489)
+##### Artikel XV. [Uitvoeringsbesluit loonbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002489)
 
 Wijzigt het Uitvoeringsbesluit loonbelasting 1965.
 
-#### Artikel XVI. [Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869)
+##### Artikel XVI. [Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869)
 
 Wijzigt het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap.
 
-#### Artikel XVII. [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+##### Artikel XVII. [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
-#### Artikel XVIII. Inwerkingtreding
+##### Artikel XVIII. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop [Wet invoering minimumuurloon](https://wetten.overheid.nl/jci1.3:c:BWBR0048186) in werking treedt.
 
-#### Artikel XIX. Citeertitel
+##### Artikel XIX. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit invoering minimumuurloon.
 

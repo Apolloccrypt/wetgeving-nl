@@ -1,13 +1,39 @@
 ---
-title: "Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023"
+title: "Besluit van de Minister van Financiën van 23 juni 2023, houdende instelling van de Commissie sociale veiligheid en integriteit Financiën (Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023)"
 identifier: "BWBR0048417"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-12-25
-laatste_update: 2025-12-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048417"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-25"
+last_updated: "2025-12-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048417"
+soort: "ministeriele-regeling"
+stam_id: "16807793"
+version_id: "31220502"
+internal_id: "C44656451"
+label_id: "16721534"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048417/2025-12-25/0"
+intitule_bron: "Stcrt.2023-20141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-06-23"
+intitule_published: "2023-07-19"
+intitule_in_force: "2023-07-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-44412"
+original_signed_date: "2025-11-21"
+original_published_date: "2025-12-24"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2025-44412"
+entry_into_force_date: "2025-11-21"
+jci_1_3: "jci1.3:c:BWBR0048417&z=2025-12-25&g=2025-12-25"
+jci_1_0: "1.0:c:BWBR0048417&g=2025-12-25"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023"
+signed_date: "2025-11-21"
+entry_into_force: "2025-11-21"
 ---
-
 # Besluit van de Minister van Financiën van 23 juni 2023, houdende instelling van de Commissie sociale veiligheid en integriteit Financiën (Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023)
 
 Gehoord hebbende de Departementale Ondernemingsraad Financiën;
@@ -18,7 +44,7 @@ Gelet op [artikel 2 van de Wet vergoedingen adviescolleges en commissies](https:
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 - n. **Sociale veiligheid:** sociale veiligheid zoals bedoeld in de cao Rijk.
 
-#### Artikel 2. Instelling en taak
+##### Artikel 2. Instelling en taak
 
 1. Er is een Commissie sociale veiligheid en integriteit Financiën (CiF). De commissie is onafhankelijk, is voor eenieder rechtstreeks toegankelijk, heeft een eigenstandige verantwoordelijkheid en wordt niet door het ministerie aangestuurd. De Commissie is buiten het Ministerie gevestigd.
 
@@ -62,7 +88,7 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie fungeert als klankbord en zo nodig als doorzettingskracht voor vertrouwenspersonen.
 
-#### Artikel 3. Leden
+##### Artikel 3. Leden
 
 1. De commissie bestaat uit drie leden die een voorzitter aanwijzen. De leden zijn niet werkzaam bij het Ministerie.
 
@@ -76,7 +102,7 @@ In dit besluit wordt verstaan onder:
 
 6. De Centrales van Overheidspersoneel en de Departementale Ondernemingsraad Financiën kunnen leden voor benoeming voordragen.
 
-#### Artikel 4. Ondersteuning
+##### Artikel 4. Ondersteuning
 
 1. De commissie wordt ondersteund door een secretaris.
 
@@ -86,13 +112,13 @@ In dit besluit wordt verstaan onder:
 
 4. De secretaris en het secretariaat verrichten op verzoek van de commissie ondersteunende, voorbereidende, adviserende en coördinerende werkzaamheden.
 
-#### Artikel 5. Contact met de commissie
+##### Artikel 5. Contact met de commissie
 
 1. Betrokkenen kunnen zich per e-mail of telefonisch wenden tot de commissie. De commissie is bereikbaar via CommissieintegriteitFinancien@rijksoverheid.nl.
 
 2. De (ondersteuning van de) commissie is voor vragen of overleg tijdens reguliere kantooruren bereikbaar per telefoon 088 442 82 53.
 
-#### Artikel 6. Werkwijze bij signalen en meldingen
+##### Artikel 6. Werkwijze bij signalen en meldingen
 
 1. De commissie is vrij in het vaststellen van de eigen werkwijze en past daarbij maatwerk toe. De commissie communiceert zo spoedig mogelijk met betrokkene(n) over haar werkwijze. Bij het bepalen van de werkwijze houdt de commissie rekening met de beschermingsbepalingen van hoofdstuk 13 van de cao Rijk 2021 (en opvolgende cao’s) en met de BIPO voor zover het signaal of de melding afkomstig is van een betrokkene die werkzaam is bij de sector Rijk. Ook dient de commissie oog te hebben voor de belangen van degenen over wie een signaal of melding wordt afgegeven en dient zij betrokkenen te wijzen op de mogelijkheid zich te laten vergezellen, bijvoorbeeld door een gemachtigde of vertrouwenspersoon.
 
@@ -120,7 +146,7 @@ De commissie adviseert degene die het signaal of melding heeft gedaan over vervo
 
 6. In afwijking van het vijfde lid zal de Minister zo spoedig mogelijk worden geïnformeerd bij een melding van een vermoeden van integriteitsschending of een misstand, indien dit vermoeden ziet op (een) gedraging(en) van de SG.
 
-#### Artikel 7. Vertrouwelijkheid, het inwinnen van inlichtingen en medewerkingsplicht ambtenaren
+##### Artikel 7. Vertrouwelijkheid, het inwinnen van inlichtingen en medewerkingsplicht ambtenaren
 
 1. De commissie zorgt ervoor dat de identiteit van personen die zich tot haar wenden niet verder bekend wordt dan noodzakelijk is voor de behandeling van een signaal of melding.
 
@@ -130,17 +156,17 @@ De commissie adviseert degene die het signaal of melding heeft gedaan over vervo
 
 4. Voor het inwinnen van informatie of inlichtingen kan de commissie zich wenden tot personen werkzaam bij het Ministerie. Van die personen wordt verwacht dat zij vertrouwelijkheid betrachten en de medewerking verlenen die redelijkerwijs nodig is voor de uitvoering van de taken van de commissie.
 
-#### Artikel 8. Geen benadeling
+##### Artikel 8. Geen benadeling
 
 De melder die met inachtneming van de bepalingen in dit besluit en de aanvullende voorwaarden zoals opgenomen in het Personeelsreglement Financiën een vermoeden van een integriteitschending of misstand heeft gemeld, wordt niet benadeeld als gevolg van de melding.
 
-#### Artikel 9. Vergoeding
+##### Artikel 9. Vergoeding
 
 1. Aan de voorzitter wordt een vaste vergoeding toegekend, waarbij de salarisschaal wordt vastgesteld op salarisschaal 18, trede 10, van de laatstelijk afgesloten cao Rijk, en de arbeidsduurfactor op 16/36.
 
 2. Aan de andere leden wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op salarisschaal 18, trede 10, van de laatstelijk afgesloten cao Rijk, en de arbeidsduurfactor op 12/36.
 
-#### Artikel 10. Onkosten
+##### Artikel 10. Onkosten
 
 De (on)kosten van de commissie komen, voor zover goedgekeurd, voor rekening van het Ministerie. Onder (on)kosten worden in ieder geval verstaan:
 
@@ -154,11 +180,11 @@ De (on)kosten van de commissie komen, voor zover goedgekeurd, voor rekening van 
 
 - e. de kosten voor onderzoek.
 
-#### Artikel 11. Archiefbescheiden
+##### Artikel 11. Archiefbescheiden
 
 De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden, of zoveel eerder indien de omstandigheden daartoe eerder aanleiding geven, de niet‑personeelsvertrouwelijke bescheiden over aan het vertrouwelijke archief van het Ministerie. Verslaglegging van door de commissie gevoerde gesprekken en overleggen maakt geen deel uit van het over te dragen archief.
 
-#### Artikel 12. Verslaglegging activiteiten
+##### Artikel 12. Verslaglegging activiteiten
 
 1. De commissie brengt halfjaarlijks een (geanonimiseerd) verslag van de uitgevoerde activiteiten uit aan de SG.
 
@@ -166,27 +192,27 @@ De commissie draagt zo spoedig mogelijk na beëindiging van haar werkzaamheden, 
 
 3. De commissie verstrekt de pSG, de DG’s, de Departementale Ondernemingsraad Financiën en het Departementaal Georganiseerd Overleg Financiën een afschrift van de halfjaarlijkse en jaarlijkse verslagen.
 
-#### Artikel 13. Openbaarmaking
+##### Artikel 13. Openbaarmaking
 
 1. Rapporten, notities, verslagen, adviezen en andere producten die door of namens de commissie worden vervaardigd of vergaard, worden niet door de commissie openbaar gemaakt, maar uitsluitend aan de SG uitgebracht en na afronding van de werkzaamheden overgedragen aan het vertrouwelijke archief.
 
 2. In afwijking van het eerste lid kan de commissie de halfjaarlijkse en jaarlijkse verslagen acht weken nadat zij zijn uitgebracht zelfstandig openbaar maken aan derden.
 
-#### Artikel 14. Intrekken [Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0048022)
+##### Artikel 14. Intrekken [Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0048022)
 
 Het [Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën](https://wetten.overheid.nl/jci1.3:c:BWBR0048022) wordt ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 februari 2023.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie sociale veiligheid en integriteit Financiën 2023.
 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan de commissie.
 
-#### Artikel 6a. Calamiteitenprocedure
+##### Artikel 6a. Calamiteitenprocedure
 
 1. De commissie heeft een calamiteitenprocedure voor urgente situaties. Dit betreft integriteitssituaties die direct gerelateerd zijn aan het werk, zoals een acute maatschappelijke misstand, ernstige druk of ernstige ongepaste bejegening en ernstig grensoverschrijdend gedrag. Het is aan de werknemer om aannemelijk te maken dat sprake is van een acute situatie die geen uitstel duldt. De commissie behandelt de gemelde kwestie, waarbij indien nodig direct actie wordt ondernomen richting de hoogst leidinggevende van de organisatie, om de veiligheid en het welzijn van de meldende werknemer te borgen.
 

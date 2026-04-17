@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk"
 identifier: "BWBV0005547"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2025-10-04
-laatste_update: 2006-06-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005547"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-10-04"
+last_updated: "2006-06-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005547"
+soort: "verdrag"
+stam_id: "10004701393"
+version_id: "10004964302"
+internal_id: "C10010215031"
+label_id: "10004685454"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005547/2025-10-04/0"
+intitule_bron: "Trb.2011-229"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-11-10"
+intitule_in_force: "2025-10-09"
+intitule_status: "goed"
+original_publication: "Trb.2011-229"
+original_published_date: "2011-11-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-229"
+entry_into_force_date: "2025-10-04"
+jci_1_3: "jci1.3:c:BWBV0005547&z=2025-10-04&g=2025-10-04"
+jci_1_0: "1.0:c:BWBV0005547&g=2025-10-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-10-04"
 ---
-
 # Verdrag inzake het promotioneel kader voor de veiligheid en gezondheid op het werk
 
 De Algemene Conferentie van de Internationale Arbeidsorganisatie,
@@ -40,7 +62,7 @@ Neemt heden, de vijftiende juni van het jaar tweeduizend en zes, het volgende Ve
 
 ### I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag:
 
@@ -54,7 +76,7 @@ Voor de toepassing van dit Verdrag:
 
 ### II. DOEL
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elk Lid dat dit Verdrag bekrachtigt bevordert de voortdurende verbetering van de veiligheid en gezondheid op het werk ter voorkoming van de arbeidsgebonden letsels, ziekten en sterfgevallen, via het stimuleren van een nationaal beleid, een nationaal systeem en een nationaal programma, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
 
@@ -64,7 +86,7 @@ Voor de toepassing van dit Verdrag:
 
 ### III. NATIONAAL BELEID
 
-#### Artikel 3
+##### Artikel 3
 
 1. Elk Lid bevordert een veilige en gezonde werkomgeving, en werkt daartoe een nationaal beleid uit.
 
@@ -74,7 +96,7 @@ Voor de toepassing van dit Verdrag:
 
 ### IV. NATIONAAL SYSTEEM
 
-#### Artikel 4
+##### Artikel 4
 
 1. Elk Lid staat in voor een invoering, handhaving, geleidelijke ontwikkeling en periodieke evaluatie van een nationaal systeem inzake veiligheid en gezondheid op het werk, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
 
@@ -108,7 +130,7 @@ Voor de toepassing van dit Verdrag:
 
 ### V. NATIONAAL PROGRAMMA
 
-#### Artikel 5
+##### Artikel 5
 
 1. Elk Lid staat in voor de vaststelling, uitvoering, controle, evaluatie en periodieke herziening van een nationaal programma inzake veiligheid en gezondheid op het werk, in overleg met de meest representatieve werkgevers- en werknemersorganisaties.
 
@@ -128,15 +150,15 @@ Voor de toepassing van dit Verdrag:
 
 ### VI. SLOTBEPALINGEN
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Verdrag houdt geen herziening in van een ander internationaal arbeidsverdrag of aanbeveling.
 
-#### Artikel 7
+##### Artikel 7
 
 De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-Generaal van het Internationaal Arbeidsbureau ten behoeve van registratie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtigingen door de Directeur-Generaal van het Internationaal Arbeidsbureau hebben doen registreren.
 
@@ -144,27 +166,27 @@ De formele bekrachtigingen van dit Verdrag worden medegedeeld aan de Directeur-G
 
 3. Vervolgens treedt dit Verdrag voor elk Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag voor het eerst in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationaal Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.
 
 2. Elk Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen binnen het eerste jaar van elke nieuwe termijn van tien jaar op de voorwaarden voorzien in dit artikel.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De Directeur-Generaal van het Internationaal Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.
 
 2. Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop het Verdrag in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 De Directeur-Generaal van het Internationaal Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ten behoeve van registratie in overeenstemming met artikel 102 van het Handvest van de Verenigde Naties, van alle bijzonderheden omtrent alle bekrachtigingen en opzeggingen die zijn geregistreerd.
 
-#### Artikel 12
+##### Artikel 12
 
 De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer hij dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de herziening ervan op de agenda van de Conferentie te plaatsen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Indien de Conferentie een nieuw verdrag aanneemt, houdende herziening van dit Verdrag, zal, tenzij het nieuwe verdrag anders bepaalt:
 
@@ -174,7 +196,7 @@ De Raad van Beheer van het Internationaal Arbeidsbureau brengt, telkens wanneer 
 
 2. Dit Verdrag blijft in elk geval naar huidige vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek.
 

@@ -1,13 +1,35 @@
 ---
-title: "Besluit registratie splijtstoffen en ertsen"
+title: "Besluit van 8 oktober 1969, tot uitvoering van de artikelen 13 en 14 van de Kernenergiewet"
 identifier: "BWBR0002673"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-08-01
-laatste_update: 2017-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002673"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-08-01"
+last_updated: "2017-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002673"
+soort: "AMvB"
+stam_id: "931233"
+version_id: "1362402"
+internal_id: "C1362401"
+label_id: "902974"
+dtd_version: "2.0"
+original_entry_into_force: "1970-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002673/2017-08-01/0"
+intitule_bron: "Stb.1969-471"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-10-08"
+intitule_status: "goed"
+original_publication: "Stb.1969-471"
+original_signed_date: "1969-10-08"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1970-01-01"
+jci_1_3: "jci1.3:c:BWBR0002673&z=2017-08-01&g=2017-08-01"
+jci_1_0: "1.0:c:BWBR0002673&g=2017-08-01"
+citeertitel_status: "officieel"
+short_title: "Besluit registratie splijtstoffen en ertsen"
+signed_date: "1969-10-08"
+entry_into_force: "1970-01-01"
 ---
-
 # Besluit van 8 oktober 1969, tot uitvoering van de artikelen 13 en 14 van de Kernenergiewet
 
 Op de voordracht van Onze Minister van Economische Zaken van 5 april 1967, no. 667/321 W.J.A., de Centrale Raad voor de Kernenergie gehoord;
@@ -22,7 +44,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van het bij of krachtens dit besluit bepaalde wordt verstaan onder:
 
@@ -44,13 +66,13 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Het register
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het register wordt zodanig ingericht, dat daaruit op eenvoudige wijze kan worden afgeleid, hoeveel splijtstoffen en ertsen, waaromtrent aangifte is gedaan, op Nederlands grondgebied voorhanden worden gehouden en waar deze voorhanden worden gehouden.
 
 2. De Autoriteit stelt bij verordening nadere regels met betrekking tot de inrichting van het register.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Autoriteit verstrekt uit het register aan degenen, aan wie een taak is opgedragen ter zake van de uitvoering van de wet dan wel van internationale overeenkomsten of besluiten van volkenrechtelijke organisaties, welke voor Nederland verbindend zijn en geheel of gedeeltelijk betrekking hebben op het gebied van de kernenergie of van de ioniserende straling, op hun verzoek de voor het vervullen van die taak nodige inlichtingen.
 
@@ -62,7 +84,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. De administratie
 
-#### Artikel 4
+##### Artikel 4
 
 1. Hij, die ingevolge [artikel 14, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=14) en het onderhavige besluit verplicht is ten aanzien van splijtstoffen of ertsen aangifte te doen, dient ten aanzien van deze stoffen een administratie bij te houden, welke hem in staat stelt te allen tijde zodanige aangifte te doen en de juistheid van een door hem gedane aangifte aan te tonen.
 
@@ -70,7 +92,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. Aangiften met betrekking tot splijtstoffen
 
-#### Artikel 5
+##### Artikel 5
 
 Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning splijtstoffen voorhanden heeft voor of mede voor eigen gebruik daarvan in een inrichting, waarin kernenergie kan worden vrijgemaakt, dan wel voor of mede voor eigen gebruik bij een met de splijtstoffenkringloop verband houdend vervaardigingsproces, is verplicht uiterlijk op de vijftiende dag na afloop van iedere kalendermaand bij de Autoriteit schriftelijk aangifte te doen van:
 
@@ -80,7 +102,7 @@ Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.o
 
 - c. de wijzigingen, welke de splijtstoffenvoorraad in die kalendermaand, anders dan door de ontvangst of verzending, heeft ondergaan.
 
-#### Artikel 6
+##### Artikel 6
 
 Hij, die buiten de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=2017-08-01&g=2017-08-01) bedoelde gevallen krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning splijtstoffen voorhanden heeft, anders dan bij opslag in verband met het vervoer, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij de Autoriteit schriftelijk aangifte te doen van:
 
@@ -90,7 +112,7 @@ Hij, die buiten de in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR000267
 
 #### § 5. Aangiften met betrekking tot ertsen
 
-#### Artikel 7
+##### Artikel 7
 
 Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning ertsen voorhanden heeft voor of mede voor eigen gebruik daarvan voor het vervaardigen van splijtstoffen, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalendermaand bij de Autoriteit schriftelijk aangifte te doen van:
 
@@ -100,7 +122,7 @@ Hij, die krachtens een hem op grond van [artikel 15 van de wet](https://wetten.o
 
 - c. de wijzigingen, welke de voorraad ertsen in die kalendermaand, anders dan door de ontvangst of verzending, heeft ondergaan.
 
-#### Artikel 8
+##### Artikel 8
 
 Hij, die buiten het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=5&artikel=7&z=2017-08-01&g=2017-08-01) bedoelde geval krachtens een hem op grond van [artikel 15 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=15) verleende vergunning ertsen voorhanden heeft, is verplicht uiterlijk op de vijftiende dag na afloop van ieder kalenderkwartaal bij de Autoriteit schriftelijk aangifte te doen van:
 
@@ -108,7 +130,7 @@ Hij, die buiten het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR00026
 
 - b. de aard en hoeveelheid en het gemiddelde uranium- of thoriumgehalte van de ertsen, die hij op de laatste dag van dat kalenderkwartaal voorhanden heeft gehad.
 
-#### Artikel 9
+##### Artikel 9
 
 Hij, die de aanwezigheid van ertsen in de bodem heeft vastgesteld in een zodanige hoeveelheid en vorm, dat hij redelijkerwijs moet vermoeden, dat zij voor winning in aanmerking kunnen komen, is verplicht:
 
@@ -118,17 +140,17 @@ Hij, die de aanwezigheid van ertsen in de bodem heeft vastgesteld in een zodanig
 
 #### § 6. Overige bepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 De Autoriteit stelt bij verordening nadere regels ten aanzien van de wijze waarop de in de [artikelen 5-8](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=4&artikel=5&z=2017-08-01&g=2017-08-01) bedoelde aangiften dienen te geschieden.
 
-#### Artikel 11
+##### Artikel 11
 
 Het niet nakomen van [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002673&paragraaf=3&artikel=4&z=2017-08-01&g=2017-08-01), is een strafbaar feit.
 
 #### § 7. Slotbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit besluit kan worden aangehaald als: Besluit registratie splijtstoffen en ertsen.
 

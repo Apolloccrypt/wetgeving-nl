@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Singapore inzake wederzijdse administratieve bijstand in douanezaken"
 identifier: "BWBV0006851"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006851"
+country: "nl"
+rank: "verdrag"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006851"
+soort: "verdrag"
+stam_id: "10005547353"
+version_id: "10006037762"
+internal_id: "C10009697941"
+label_id: "10005530624"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006851/2020-07-01/0"
+intitule_bron: "Trb.2019-168"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2019-11-12"
+intitule_in_force: "2020-06-29"
+intitule_status: "goed"
+original_publication: "Trb.2019-168"
+original_published_date: "2019-11-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2019-168"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBV0006851&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBV0006851&g=2020-07-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-07-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Singapore inzake wederzijdse administratieve bijstand in douanezaken
 
 Preambule
@@ -36,7 +58,7 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. BEGRIPSOMSCHRIJVINGEN
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -72,7 +94,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. REIKWIJDTE VAN HET VERDRAG
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verdragsluitende partijen verlenen elkaar door tussenkomst van hun douaneadministraties administratieve bijstand onder de in dit Verdrag genoemde voorwaarden ten behoeve van de juiste toepassing van de douanewetgeving, met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving, alsmede om de veiligheid van de internationale logistieke keten te waarborgen.
 
@@ -92,7 +114,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK III. INFORMATIE
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een douaneadministratie verstrekt, op verzoek of uit eigen beweging, voor zover mogelijk, en indien nodig, via toezicht, bijstand in de vorm van informatie ten behoeve van de juiste toepassing van de douanewetgeving met het oog op het voorkomen, onderzoeken en bestrijden van inbreuken op die wetgeving alsmede om de veiligheid van de internationale logistieke keten te waarborgen. Deze informatie kan betrekking hebben op:
 
@@ -108,13 +130,13 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 2. Op verzoek verstrekt de aangezochte administratie de verzoekende administratie informatie die betrekking heeft op het vervoeren en verzenden van goederen onder vermelding van waarde, bestemming en andere relevante informatie met betrekking tot de goederen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Op verzoek of uit eigen beweging verstrekken de douaneadministraties aan elkaar informatie over activiteiten die kunnen leiden tot een inbreuk op de douanewetgeving op het grondgebied van de andere verdragsluitende partij.
 
 2. In gevallen die aanzienlijke schade voor de economie, volksgezondheid, openbare orde, met inbegrip van de veiligheid van de internationale logistieke keten, of voor andere vitale belangen van een verdragsluitende partij met zich kunnen meebrengen, verstrekt de douaneadministratie van de andere verdragsluitende partij, waar mogelijk, uit eigen beweging en onverwijld zulke informatie.
 
-#### Artikel 5
+##### Artikel 5
 
 Op verzoek informeert de aangezochte administratie de verzoekende administratie of:
 
@@ -122,7 +144,7 @@ Op verzoek informeert de aangezochte administratie de verzoekende administratie 
 
 - b. goederen die zijn ingevoerd in het grondgebied van de verzoekende partij op rechtmatige wijze werden uitgevoerd uit het grondgebied van de aangezochte partij en onder welke douaneregeling de goederen eventueel zijn geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De douaneadministraties kunnen elkaar, door middel van een wederzijdse regeling, automatisch informatie ten behoeve van specifieke doeleinden verstrekken. De regeling zal vervat worden in een Memorandum van Overeenstemming uit hoofde van [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBV0006851&hoofdstuk=X&artikel=16&z=2020-07-01&g=2020-07-01) en kan het type van de uitgewisselde informatie, de vorm, frequentie en timing van de verzending ervan en alle andere voorwaarden bevatten zoals door de douaneadministraties kan worden vastgelegd.
 
@@ -130,7 +152,7 @@ Op verzoek informeert de aangezochte administratie de verzoekende administratie 
 
 ### HOOFDSTUK IV. BIJZONDERE VORMEN VAN BIJSTAND
 
-#### Artikel 7
+##### Artikel 7
 
 De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van benchmarks, uitwisselen van kennis, ervaring en beste praktijken met betrekking tot zaken als:
 
@@ -146,7 +168,7 @@ De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van b
 
 ### HOOFDSTUK V. TOEZENDING VAN VERZOEKEN
 
-#### Artikel 8
+##### Artikel 8
 
 1. Verzoeken om bijstand uit hoofde van dit Verdrag worden rechtstreeks aan de douaneadministratie van de andere verdragsluitende partij gericht. Verzoeken worden schriftelijk of elektronisch gedaan en gaan vergezeld van alle informatie die voor de inwilliging van het verzoek nuttig wordt geacht. De aangezochte administratie kan schriftelijke bevestiging van elektronische verzoeken verlangen. Wanneer de omstandigheden dit vereisen, kunnen verzoeken mondeling worden gedaan. Dergelijke verzoeken worden zo spoedig mogelijk hetzij schriftelijk, hetzij, indien beide douaneadministraties daarmee instemmen, elektronisch bevestigd.
 
@@ -164,21 +186,21 @@ De douaneadministraties kunnen elkaar bijstand verlenen door het uitvoeren van b
 
 ### HOOFDSTUK VI. UITVOERING VAN VERZOEKEN
 
-#### Artikel 9
+##### Artikel 9
 
 1. Indien de aangezochte administratie niet over de gevraagde informatie beschikt, kan zij stappen ondernemen om die informatie te vergaren.
 
 2. Indien de aangezochte administratie niet de bevoegde autoriteit is om de verzochte informatie te vergaren, kan zij, naast het aanwijzen van de bevoegde autoriteit, het verzoek aan die autoriteit doorzenden.
 
-#### Artikel 10
+##### Artikel 10
 
 Met instemming van de aangezochte administratie en onder de door laatstgenoemde hieraan verbonden voorwaarden, kunnen door de verzoekende administratie hiertoe aangewezen functionarissen, op verzoek, ten behoeve van de opsporing van een inbreuk op de douanewetgeving, ten kantore van de aangezochte administratie documenten en alle andere informatie met betrekking tot die inbreuk op douanewetgeving onderzoeken, en daarvan afschriften verkrijgen.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de aangezochte administratie het wenselijk acht dat functionarissen van de verzoekende partij aanwezig zijn wanneer, overeenkomstig een verzoek, bijstandsmaatregelen worden uitgevoerd, kan zij de verzoekende partij uitnodigen daartoe functionarissen ter beschikking te stellen, met inachtneming van alle door haar daaraan verbonden voorwaarden.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien functionarissen van de ene verdragsluitende partij aanwezig zijn op het grondgebied van de andere verdragsluitende partij uit hoofde van dit Verdrag, dienen zij te allen tijde in staat te zijn hun identiteit en officiële hoedanigheid aan te tonen.
 
@@ -190,7 +212,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 ### HOOFDSTUK VII. GEBRUIK, VERTROUWELIJKHEID EN BESCHERMING VAN INFORMATIE
 
-#### Artikel 13
+##### Artikel 13
 
 1. Uit hoofde van dit Verdrag ontvangen informatie mag slechts door de douaneadministraties van de verdragsluitende partijen en slechts voor de doeleinden die in dit Verdrag beschreven zijn worden gebruikt.
 
@@ -204,7 +226,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 ### HOOFDSTUK VIII. UITSLUITINGSGRONDEN
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de bijstand waar uit hoofde van dit Verdrag om wordt verzocht een inbreuk zou kunnen vormen op de soevereiniteit, de veiligheid, de openbare orde of een ander wezenlijk nationaal belang van de aangezochte partij, of rechtmatige handels- of beroepsbelangen zou kunnen schaden, kan deze bijstand door die aangezochte partij worden geweigerd of worden verstrekt onder de voorwaarden die zij kan stellen.
 
@@ -218,7 +240,7 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 ### HOOFDSTUK IX. KOSTEN
 
-#### Artikel 15
+##### Artikel 15
 
 1. Behoudens het bepaalde in het tweede en derde lid van dit artikel zien de verdragsluitende partijen af van alle vorderingen tot vergoeding van ter uitvoering van dit Verdrag gemaakte kosten.
 
@@ -228,13 +250,13 @@ Indien de aangezochte administratie het wenselijk acht dat functionarissen van d
 
 ### HOOFDSTUK X. UITVOERING EN TOEPASSING VAN HET VERDRAG
 
-#### Artikel 16
+##### Artikel 16
 
 De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag, over een Memorandum van Overeenstemming ter vergemakkelijking van de uitvoering en toepassing van dit Verdrag.
 
 ### HOOFDSTUK XI. TERRITORIALE TOEPASSING
 
-#### Artikel 17
+##### Artikel 17
 
 1. Wat de Republiek Singapore betreft, is dit Verdrag van toepassing op haar grondgebied.
 
@@ -252,7 +274,7 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 ### HOOFDSTUK XII. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 18
+##### Artikel 18
 
 1. De douaneadministraties streven ernaar geschillen of andere problemen betreffende de interpretatie of toepassing van dit Verdrag in onderlinge overeenstemming op te lossen.
 
@@ -260,15 +282,15 @@ De douaneadministraties besluiten gezamenlijk, binnen het kader van dit Verdrag,
 
 ### HOOFDSTUK XIII. SLOTBEPALINGEN
 
-#### Artikel 19
+##### Artikel 19
 
 Dit Verdrag treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 
-#### Artikel 20
+##### Artikel 20
 
 Op verzoek komen de verdragsluitende partijen bijeen om het Verdrag te herzien.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Dit Verdrag wordt in beginsel voor onbepaalde tijd gesloten, maar elk van beide verdragsluitende partijen kan het te allen tijde door middel van een kennisgeving langs diplomatieke weg beëindigen.
 

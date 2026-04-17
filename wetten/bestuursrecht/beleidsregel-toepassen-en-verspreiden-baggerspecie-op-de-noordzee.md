@@ -1,13 +1,39 @@
 ---
-title: "Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee"
+title: "Besluit van de Minister van Infrastructuur en Waterstaat van 28 november 2023, met kenmerk RWS-2023/47216, houdende vaststelling van de Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee in verband met de inwerkingtreding van de Omgevingswet (Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee), Rijkswaterstaat"
 identifier: "BWBR0049093"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-12-23
-laatste_update: 2023-12-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049093"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-12-23"
+last_updated: "2023-12-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049093"
+soort: "beleidsregel"
+stam_id: "16968613"
+version_id: "29932132"
+internal_id: "C42900821"
+label_id: "16879084"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049093/2023-12-23/0"
+intitule_bron: "Stcrt.2023-32315-n1"
+intitule_effect: "wijziging"
+intitule_signed: "2023-11-28"
+intitule_published: "2023-12-22"
+intitule_in_force: "2023-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32315-n1"
+original_signed_date: "2023-11-28"
+original_published_date: "2023-12-22"
+original_effect: "wijziging"
+original_url_id: "stcrt-2023-32315-n1"
+entry_into_force_date: "2023-12-23"
+jci_1_3: "jci1.3:c:BWBR0049093&z=2023-12-23&g=2023-12-23"
+jci_1_0: "1.0:c:BWBR0049093&g=2023-12-23"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee"
+signed_date: "2023-11-28"
+entry_into_force: "2023-12-23"
 ---
-
 # Besluit van de Minister van Infrastructuur en Waterstaat van 28 november 2023, met kenmerk RWS-2023/47216, houdende vaststelling van de Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee in verband met de inwerkingtreding van de Omgevingswet (Beleidsregel Toepassen en verspreiden baggerspecie op de Noordzee), Rijkswaterstaat
 
 Gelet op de [artikelen 2.11](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=2.11), [3.48o, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48o), en [3.48q van het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&artikel=3.48q) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);

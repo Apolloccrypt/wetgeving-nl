@@ -1,13 +1,39 @@
 ---
-title: "Besluit participatiefonds 2022"
+title: "Besluit van 3 mei 2022, houdende vaststelling van de voorwaarden voor de ministeriële instemming met de statuten van het participatiefonds en de gevolgen van intrekking van de aanwijzing van het participatiefonds als gevolg van de modernisering van het participatiefonds en beëindiging van het vervangingsfonds (Besluit participatiefonds 2022)"
 identifier: "BWBR0046708"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-31
-laatste_update: 2024-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046708"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-31"
+last_updated: "2024-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046708"
+soort: "AMvB"
+stam_id: "16369883"
+version_id: "28649122"
+internal_id: "C40689431"
+label_id: "16293884"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046708/2024-01-31/0"
+intitule_bron: "Stb.2022-191"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-03"
+intitule_published: "2022-05-24"
+intitule_in_force: "2022-07-06"
+intitule_status: "goed"
+original_publication: "Stb.2022-191"
+original_signed_date: "2022-05-03"
+original_published_date: "2022-05-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2022-191"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0046708&z=2024-01-31&g=2024-01-31"
+jci_1_0: "1.0:c:BWBR0046708&g=2024-01-31"
+citeertitel_status: "officieel"
+short_title: "Besluit participatiefonds 2022"
+signed_date: "2022-05-03"
+entry_into_force: "2022-08-01"
 ---
-
 # Besluit van 3 mei 2022, houdende vaststelling van de voorwaarden voor de ministeriële instemming met de statuten van het participatiefonds en de gevolgen van intrekking van de aanwijzing van het participatiefonds als gevolg van de modernisering van het participatiefonds en beëindiging van het vervangingsfonds (Besluit participatiefonds 2022)
 
 Op de voordracht van Onze Minister voor Primair en Voortgezet Onderwijs van 1 maart 2022, nr. WJZ/31523084 (ID 11478), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Sociale Zaken en Werkgelegenheid;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister voor Primair en Voortgezet Onderwijs 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 - **participatiefonds:** rechtspersoon, bedoeld in [artikel 190, eerste en tweede lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste en tweede lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
 
-#### Artikel 2. Voorwaarden instemming statuten
+##### Artikel 2. Voorwaarden instemming statuten
 
 1. Onze Minister stemt in met de statuten van het participatiefonds alsmede met wijziging daarvan, indien in de statuten ten minste is opgenomen:
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 - c. een dergelijk besluit niet is te verenigen met de taken van het participatiefonds, bedoeld in [artikel 190, derde lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, derde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169).
 
-#### Artikel 3. Gevolgen intrekking van de aanwijzing
+##### Artikel 3. Gevolgen intrekking van de aanwijzing
 
 Bij de intrekking van de aanwijzing van de rechtspersoon, bedoeld in [artikel 190, eerste lid, van de Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420&artikel=190) en [artikel 169, eerste lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=169):
 
@@ -78,21 +104,21 @@ Bij de intrekking van de aanwijzing van de rechtspersoon, bedoeld in [artikel 19
 
 - b. draagt het participatiefonds de in onderdeel a bedoelde middelen over aan een andere, door Onze Minister op grond van de in de aanhef genoemde artikelen, aan te wijzen rechtspersoon.
 
-#### Artikel 4. Wijziging [Besluit Vervangingsfonds en Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0030106)
+##### Artikel 4. Wijziging [Besluit Vervangingsfonds en Participatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0030106)
 
 Wijzigt het Besluit Vervangingsfonds en Participatiefonds.
 
-#### Artikel 5. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
+##### Artikel 5. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2024-01-31&g=2024-01-31), onderdeel A, subonderdeel 1.
 
 2. [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0046708&artikel=5&z=2024-01-31&g=2024-01-31), onderdeel A, subonderdeel 1, treedt in werking op het tijdstip waarop de artikelen I, onderdeel E, en II, onderdeel D, van de Wet van 11 oktober 2021 tot wijziging van de [Wet op het primair onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003420) en de [Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549) in verband met beëindiging van de verplichte aansluiting bij een rechtspersoon in verband met kosten van vervanging en in verband met wijziging van de wijze waarop de werkloosheidsuitkeringen worden verevend (beëindiging vervangingsfonds en modernisering participatiefonds) (Stb. 2021, 538) in werking treden.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit participatiefonds, met vermelding van het jaartal van het Staatsblad waarin het zal worden geplaatst.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit houdende verlening van wapen en onderscheidingsvlag aan Hare Koninklijke Hoogheid Prinses Máxima"
+title: "Besluit van 25 januari 2002, houdende verlening van wapen en onderscheidingsvlag aan Hare Koninklijke Hoogheid Prinses Máxima"
 identifier: "BWBR0041839"
-categorie: "Overig"
-publicatiedatum: 2002-03-01
-laatste_update: 2002-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041839"
+country: "nl"
+rank: "kb"
+publication_date: "2002-03-01"
+last_updated: "2002-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041839"
+soort: "KB"
+stam_id: "14961063"
+version_id: "25623322"
+internal_id: "C36572181"
+label_id: "14911254"
+dtd_version: "2.0"
+original_entry_into_force: "2002-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041839/2002-03-01/0"
+intitule_bron: "Stb.2002-42"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-01-25"
+intitule_published: "2002-01-31"
+intitule_in_force: "2002-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2002-42"
+original_signed_date: "2002-01-25"
+original_published_date: "2002-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-42"
+entry_into_force_date: "2002-03-01"
+jci_1_3: "jci1.3:c:BWBR0041839&z=2002-03-01&g=2002-03-01"
+jci_1_0: "1.0:c:BWBR0041839&g=2002-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit houdende verlening van wapen en onderscheidingsvlag aan Hare Koninklijke Hoogheid Prinses Máxima"
+signed_date: "2002-01-25"
+entry_into_force: "2002-03-01"
 ---
-
 # Besluit van 25 januari 2002, houdende verlening van wapen en onderscheidingsvlag aan Hare Koninklijke Hoogheid Prinses Máxima
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken, gedaan mede namens Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie, van 22 januari 2002, nr. 02M423598;

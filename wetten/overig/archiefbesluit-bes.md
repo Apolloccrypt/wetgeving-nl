@@ -1,18 +1,43 @@
 ---
 title: "Archiefbesluit BES"
 identifier: "BWBR0028445"
-categorie: "Overig"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028445"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028445"
+soort: "AMvB-BES"
+stam_id: "10786103"
+version_id: "17764322"
+internal_id: "C24827281"
+label_id: "10761034"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028445/2013-01-01/0"
+intitule_bron: "Stb.2010-582"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-16"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-582"
+original_signed_date: "2010-09-16"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-582"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028445&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0028445&g=2013-01-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-16"
+entry_into_force: "2010-10-10"
 ---
-
 # Archiefbesluit BES
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -26,11 +51,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Selectie en vernietiging
 
-#### Artikel 2
+##### Artikel 2
 
 [vervallen]
 
-#### Artikel 3
+##### Artikel 3
 
 1. Bij het ontwerpen en vaststellen van selectielijsten, bij besluiten omtrent de vervanging van archiefbescheiden door reproducties en bij besluiten omtrent de vervreemding van archiefbescheiden wordt rekening gehouden met:
 
@@ -46,7 +71,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Selectielijsten worden vastgesteld voor de duur van ten hoogste twintig jaar.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De zorgdrager betrekt bij het ontwerpen van een selectielijst ten minste:
 
@@ -58,7 +83,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Indien de bestuurscolleges van twee of alle openbare lichamen Bonaire, Sint Eustatius en Saba gezamenlijk een selectielijst ontwerpen, kan volstaan worden met de betrokkenheid van een aangewezen persoon als bedoeld in het eerste lid, onderdeel a, en met de betrokkenheid van een eilandarchivaris.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een selectielijst bestaat tenminste uit:
 
@@ -78,23 +103,23 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. De systematische opsomming, bedoeld in het eerste lid, onderdeel c, is in overeenstemming met het voor het archief geldende documentair structuurplan.
 
-#### Artikel 6
+##### Artikel 6
 
 [vervallen]
 
-#### Artikel 7
+##### Artikel 7
 
 1. Vernietiging van niet in een archiefbewaarplaats berustende archiefbescheiden geschiedt op last van de zorgdrager.
 
 2. Tot vernietiging van in een archiefbewaarplaats berustende archiefbescheiden mag de beheerder slechts overgaan na machtiging van degene, op wiens last deze archiefbescheiden zijn overgebracht.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Van vernietiging van archiefbescheiden wordt een verklaring opgemaakt, die ten minste inhoudt een specificatie van deze archiefbescheiden alsmede aangeeft op grond waarvan de vernietiging is geschied.
 
 2. Een exemplaar van deze verklaring wordt bewaard door degene, onder wie de archiefbescheiden, indien zij niet waren vernietigd, zouden behoren te berusten.
 
-#### Artikel 9
+##### Artikel 9
 
 [vervallen]
 
@@ -104,25 +129,25 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Zorg
 
-#### Artikel 16
+##### Artikel 16
 
 1. De zorgdrager besluit tot vervanging van archiefbescheiden door reproducties slechts indien de vervanging geschiedt met juiste en volledige weergave van de in de te vervangen archiefbescheiden voorkomende gegevens.
 
 2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 8 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop toepassing is gegeven aan [artikel 3, eerste lid, onderdelen c en d](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=3&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. De zorgdrager betrekt bij de voorbereiding van een besluit tot vervreemding van archiefbescheiden personen als bedoeld in [artikel 4, onderdelen a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), indien die archiefbescheiden tengevolge van de vervreemding niet komen te berusten in een archiefbewaarplaats.
 
 2. De zorgdrager maakt zowel bij een aanvraag om een machtiging als bedoeld in [artikel 9, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=9), als bij de bekendmaking van een besluit als bedoeld in het eerste lid melding van de wijze waarop de personen, bedoeld in het eerste lid, bij de voorbereiding betrokken zijn en van de inhoud van het met hen gevoerde overleg, alsmede van de wijze waarop toepassing is gegeven aan [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=2&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 16b
+##### Artikel 16b
 
 De zorgdrager maakt van de vervanging of vervreemding een verklaring op, die ten minste een specificatie van de vervangen of vervreemde archiefbescheiden bevat, alsmede aangeeft op grond waarvan en op welke wijze de vervanging of vervreemding is geschied. Een exemplaar van deze verklaring wordt bewaard door het overheidsorgaan waaronder de archiefbescheiden zouden berusten, indien zij niet waren vervangen of vervreemd.
 
 ### Hoofdstuk 3. Opleiding tot en het verkrijgen van diploma’s in de archivistiek
 
-#### Artikel 17
+##### Artikel 17
 
 1. Er zijn twee diploma’s in de archivistiek:
 
@@ -136,13 +161,13 @@ De zorgdrager maakt van de vervanging of vervreemding een verklaring op, die ten
 
 ### Hoofdstuk 4. Overbrenging van archiefbescheiden
 
-#### Artikel 18
+##### Artikel 18
 
 1. De zorgdrager brengt de archiefbescheiden, bedoeld in [artikel 12, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=12) in perioden over naar een archiefbewaarplaats, maar niet later dan tien jaar nadat die archiefbescheiden de leeftijd van twintig jaar hebben bereikt.
 
 2. De zorgdrager en de beheerder van de archiefbewaarplaats plegen tijdig overleg over de voorgenomen overbrenging van archiefbescheiden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Van de overbrenging van archiefbescheiden naar een archiefbewaarplaats wordt, door de zorgdrager en de beheerder van deze archiefbewaarplaats gezamenlijk, een verklaring opgemaakt, die ten minste inhoudt een specificatie van deze archiefbescheiden.
 
@@ -150,29 +175,29 @@ De zorgdrager maakt van de vervanging of vervreemding een verklaring op, die ten
 
 3. Wanneer bij de overbrenging beperkingen ten aanzien van de openbaarheid zijn gesteld, wordt daarvan in de verklaring melding gemaakt.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Archiefbescheiden welke jonger zijn dat 20 jaar, mogen naar een archiefbewaarplaats worden overgebracht, wanneer er naar het oordeel van de beheerder van deze archiefbewaarplaats voldoende aanleiding bestaat hiervoor ruimte beschikbaar te stellen.
 
 2. Een afwijzende beslissing krachtens het eerste lid kan door degene aan wie de beheerder onmiddellijk ondergeschikt is, worden herzien.
 
-#### Artikel 21
+##### Artikel 21
 
 Voor opschorting van de overbrenging van archiefbescheiden is de machtiging van Onze Minister vereist, die daaraan voorwaarden kan verbinden.
 
 ### Hoofdstuk 5. Duurzaamheid, ordening en toegankelijkheid van archiefbescheiden; bouw, verbouwing, inrichting en verandering van inrichting van archiefruimten en archiefbewaarplaatsen; ingebruikneming van gebouwen of gedeelten van gebouwen als archiefruimte of archiefbewaarplaats
 
-#### Artikel 22
+##### Artikel 22
 
 1. De zorgdrager treft zodanige voorzieningen ten aanzien van de door hem opgemaakte archiefbescheiden die ingevolge een voor hem geldende selectielijst voor bewaring in aanmerking komen, dat bij het raadplegen van die archiefbescheiden na ten minste honderd jaar geen noemenswaardige achteruitgang zal zijn te constateren.
 
 2. Bij ministeriële regeling worden nadere regels gesteld omtrent de duurzaamheid van de in het eerste lid bedoelde archiefbescheiden.
 
-#### Artikel 23
+##### Artikel 23
 
 Bij ministeriële regeling worden regels gesteld met betrekking tot het in geordende en toegankelijke staat brengen en bewaren van archiefbescheiden die ingevolge een selectielijst voor bewaring in aanmerking komen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De zorgdrager is verplicht zijn archiefruimten en archiefbewaarplaatsen zodanig te situeren, te bouwen en in te richten alsmede bij verbouwing en verandering van inrichting zodanige maatregelen te treffen dat de zich daarin bevindende archiefbescheiden in geval van een calamiteit zo min mogelijk gevaar lopen.
 
@@ -184,11 +209,11 @@ Bij ministeriële regeling worden regels gesteld met betrekking tot het in geord
 
 ### Hoofdstuk 6. Overgangs- en slotbepalingen
 
-#### Artikel 25
+##### Artikel 25
 
 De zorgdrager brengt de archiefbescheiden, bedoeld in [artikel 32 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=32), in perioden over naar een archiefbewaarplaats, maar niet later dan tien jaar nadat die archiefbescheiden de leeftijd van zeventig jaar hebben bereikt.
 
-#### Artikel 26
+##### Artikel 26
 
 Aan het benoembaarheidsvereiste, bedoeld in [artikel 28a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=28a), voldoet degene die voor het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1),
 
@@ -196,27 +221,27 @@ Aan het benoembaarheidsvereiste, bedoeld in [artikel 28a van de wet](https://wet
 
 - b. succesvol een opleiding heeft afgerond als bedoeld in artikel 17 van het Archiefbesluit, zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1).
 
-#### Artikel 27
+##### Artikel 27
 
 Een besluit tot aanwijzing als opleiding ter verkrijging van het diploma archivistiek A of B dat is genomen krachtens de Archiefwet 1995 geldt als een besluit op grond van [artikel 17, tweede, onderscheidenlijk derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=3&artikel=17&z=2013-01-01&g=2013-01-01).
 
-#### Artikel 28
+##### Artikel 28
 
 [Artikel 24, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2013-01-01&g=2013-01-01), blijft ten aanzien van op het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1), bestaande archiefruimten en archiefbewaarplaatsen vijf jaar buiten toepassing.
 
-#### Artikel 29
+##### Artikel 29
 
 De [artikelen 22, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=22&z=2013-01-01&g=2013-01-01), en [24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=5&artikel=24&z=2013-01-01&g=2013-01-01), treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor deze artikelen verschillend kan worden vastgesteld, doch niet later dan vijf jaar na het tijdstip van transitie, bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028063&artikel=1).
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit berust op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=3), [8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=8), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=12), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=13) en [17, tweede lid, van de Archiefwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028369&artikel=17).
 
-#### Artikel 31
+##### Artikel 31
 
 Dit besluit wordt aangehaald als: Archiefbesluit BES.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. De zorgdrager benoemt de deskundige, bedoeld in [artikel 4, eerste lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0028445&hoofdstuk=2&paragraaf=1&artikel=4&z=2013-01-01&g=2013-01-01), op voordracht van de personen, bedoeld in artikel 4, eerste lid, onderdelen a en b.
 

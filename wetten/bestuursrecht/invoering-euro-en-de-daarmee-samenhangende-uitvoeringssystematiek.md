@@ -1,13 +1,37 @@
 ---
 title: "Invoering euro en de daarmee samenhangende uitvoeringssystematiek"
 identifier: "BWBR0010908"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-01-01
-laatste_update: 2002-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010908"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-01-01"
+last_updated: "2002-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010908"
+soort: "circulaire"
+stam_id: "6365953"
+version_id: "11026432"
+internal_id: "C14923011"
+label_id: "6355024"
+original_entry_into_force: "2002-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010908/2002-01-01/0"
+intitule_bron: "Stcrt.1999-243"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-11-26"
+intitule_published: "1999-12-16"
+intitule_in_force: "1999-12-16"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-243"
+original_signed_date: "1999-11-26"
+original_published_date: "1999-12-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1999-243-p17-SC21671"
+entry_into_force_date: "2002-01-01"
+jci_1_3: "jci1.3:c:BWBR0010908&z=2002-01-01&g=2002-01-01"
+jci_1_0: "1.0:c:BWBR0010908&g=2002-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1999-11-26"
+entry_into_force: "2002-01-01"
 ---
-
 # Invoering euro en de daarmee samenhangende uitvoeringssystematiek
 
 Circulaire aan de werkgevers van de deelnemers in de Stichting Pensioenfonds ABP

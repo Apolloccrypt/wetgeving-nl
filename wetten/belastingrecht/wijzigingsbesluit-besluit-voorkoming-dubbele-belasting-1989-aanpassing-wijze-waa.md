@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit besluit voorkoming dubbele belasting 1989 (aanpassing wijze waarop vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming)"
+title: "Besluit van 5 juli 1997 tot wijziging van het Besluit voorkoming dubbele belasting 1989; aanpassing van de wijze waarop een vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming"
 identifier: "BWBR0008810"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-07-25
-laatste_update: 1997-07-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008810"
+country: "nl"
+rank: "amvb"
+publication_date: "1997-07-25"
+last_updated: "1997-07-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008810"
+soort: "AMvB"
+stam_id: "599403"
+version_id: "871482"
+internal_id: "C871481"
+label_id: "581544"
+dtd_version: "2.0"
+original_entry_into_force: "1997-07-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008810/1997-07-25/0"
+intitule_bron: "Stb.1997-334"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-07-05"
+intitule_published: "1997-07-24"
+intitule_in_force: "1997-07-24"
+intitule_status: "goed"
+original_publication: "Stb.1997-334"
+original_signed_date: "1997-07-05"
+original_published_date: "1997-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1997-334"
+entry_into_force_date: "1997-07-25"
+jci_1_3: "jci1.3:c:BWBR0008810&z=1997-07-25&g=1997-07-25"
+jci_1_0: "1.0:c:BWBR0008810&g=1997-07-25"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit besluit voorkoming dubbele belasting 1989 (aanpassing wijze waarop vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming)"
+signed_date: "1997-07-05"
+entry_into_force: "1997-07-25"
 ---
-
 # Besluit van 5 juli 1997 tot wijziging van het Besluit voorkoming dubbele belasting 1989; aanpassing van de wijze waarop een vermindering ter voorkoming van dubbele belasting wordt verleend voor passieve winst uit buitenlandse onderneming
 
 Op de voordracht van de Staatssecretaris van Financiën van 22 november 1996, nr. IFZ96/1530M, Directoraat-Generaal voor Fiscale Zaken, Directie Internationale Fiscale Zaken:
@@ -22,17 +48,17 @@ Hebben goedgevonden en verstaan:
 
 Artikel I werkt deels terug tot en met 1 januari 1997.
 
-#### ARTIKEL I
+##### ARTIKEL I
 
 Wijzigt het Besluit voorkoming dubbele belasting 1989.
 
-#### ARTIKEL II
+##### ARTIKEL II
 
 1. Artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit besluit blijft met betrekking tot een Mogendheid van toepassing voorzover ten aanzien van een belastingplichtige een op de voet van artikel 3, vierde lid, van het Besluit voorkoming dubbele belasting 1989 naar het jaar waarin dit besluit in werking treedt overgebracht bedrag aan negatief buitenlands onzuiver inkomen uit die Mogendheid bij de berekening van de vermindering, bedoeld in het eerste lid van dat artikel in aanmerking kan worden genomen.
 
 2. Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de toepassing van artikel 10 van het Besluit voorkoming dubbele belasting 1989 zoals dat luidt op de dag voorafgaand aan de inwerkingtreding van dit Besluit op een op de voet van artikel II, tweede, derde of zevende lid, van het Besluit van 23 december 1994 tot wijziging van het Besluit voorkoming dubbele belasting 1989 (**Stb.** 1994, 964) in aanmerking te nemen bedrag.
 
-#### ARTIKEL III
+##### ARTIKEL III
 
 1. Dit Besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens"
 identifier: "BWBV0001210"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-03-25
-laatste_update: 2025-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001210"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-03-25"
+last_updated: "2025-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001210"
+soort: "verdrag"
+stam_id: "10001621153"
+version_id: "10001699382"
+internal_id: "C10006977551"
+label_id: "10001621394"
+dtd_version: "2.0"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001210/2025-03-25/0"
+intitule_bron: "Trb.1994-69"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-12-21"
+intitule_published: "1994-04-21"
+intitule_in_force: "1996-02-12"
+intitule_status: "goed"
+original_publication: "Trb.1994-69"
+original_signed_date: "1995-12-21"
+original_published_date: "1994-04-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-69"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBV0001210&z=2025-03-25&g=2025-03-25"
+jci_1_0: "1.0:c:BWBV0001210&g=2025-03-25"
+citeertitel_status: "redactioneel"
+signed_date: "1995-12-21"
+entry_into_force: "1996-01-01"
 ---
-
 # Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens
 
 De Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden
@@ -20,11 +45,11 @@ op grond van de gemeenschappelijke verklaring van de Regeringen van België, Den
 
 zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel van het Verdrag
+##### Artikel 1. Doel van het Verdrag
 
 Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door de Verdragsluitende Partijen voor motorvoertuigen die bepaalde wegen binnen hun grondgebied gebruiken, alsmede het vaststellen van de voorwaarden en procedures voor het verdelen van de inkomsten uit het gebruiksrecht.
 
-#### Artikel 2. Begripsbepalingen
+##### Artikel 2. Begripsbepalingen
 
 1°. De begripsbepalingen van artikel 2, eerste lid, punten 6), 16), 29), 32), 33), 34), 35) en 38) van Richtlijn 1999/62/EG van het Europese Parlement en de Raad van de Europese Unie van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals laatstelijk gewijzigd bij [Richtlijn (EU) 2022/362](32022L0362) van het Europees Parlement en de Raad van 24 februari 2022, zijn van toepassing op dit verdrag.
 
@@ -36,7 +61,7 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 „voertuig”: een motorvoertuig, met vier of meer wielen, of een samenstel van gelede voertuigen bedoeld of gebruikt voor het vervoer over de weg van goederen met een technisch toelaatbare maximummassa in beladen toestand van meer dan 3,5 ton, overeenkomstig artikel 2, eerste lid, punten 17, 18 en 19 van de Richtlijn.
 
-#### Artikel 3. Verplichting tot het betalen van het gebruiksrecht
+##### Artikel 3. Verplichting tot het betalen van het gebruiksrecht
 
 1. Overeenkomstig de bepalingen van dit Verdrag heffen de Verdragsluitende Partijen, vanaf 1 januari 1995, een gemeenschappelijk gebruiksrecht voor het gebruik van autosnelwegen door voertuigen. Tot 25 maart 2027 worden, overeenkomstig artikel 7, dertiende lid, van de Richtlijn, de gebruiksrechten uitsluitend toegepast op voertuigen met een technisch toelaatbare maximummassa in beladen toestand van ten minste 12 ton.
 
@@ -46,7 +71,7 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 4. Het gebruiksrecht wordt betaald voor een bepaald voertuig. Het kan niet op een ander voertuig worden overgedragen.
 
-#### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
+##### Artikel 4. Uitzonderingen van de verplichting tot het betalen van het gebruiksrecht (vrijstellingen)
 
 1. Militaire voertuigen, voertuigen van de burgerbescherming, de brandweer en andere diensten voor eerstehulpverlening, alsook voertuigen voor de ordehandhaving en voertuigen voor de aanleg en het onderhoud van de wegen zijn vrijgesteld van het in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0001210&artikel=3&z=2025-03-25&g=2025-03-25) bedoelde gebruiksrecht.
 
@@ -60,7 +85,7 @@ Doel van dit Verdrag is het heffen van een gemeenschappelijk gebruiksrecht door 
 
 6. In het geval van samengestelde voertuigen (combinaties) is het motorvoertuig doorslaggevend voor de vrijstelling van de combinatie.
 
-#### Artikel 5. Betalingsplichtige
+##### Artikel 5. Betalingsplichtige
 
 De betalingsplichtige is degene die voor de duur van het gebruik van de in artikel 3 bedoelde wegen
 
@@ -72,11 +97,11 @@ De betalingsplichtige is degene die voor de duur van het gebruik van de in artik
 
 Meerdere betalingsplichtigen zijn hoofdelijk aansprakelijk.
 
-#### Artikel 6. Heffing van het gebruiksrecht
+##### Artikel 6. Heffing van het gebruiksrecht
 
 De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk niveau geregeld in overleg tussen de Verdragsluitende Partijen, waarbij de Europese Commissie als waarnemer wordt betrokken overeenkomstig artikel 8, eerste lid, van de richtlijn.
 
-#### Artikel 7. Betalingstijdvak
+##### Artikel 7. Betalingstijdvak
 
 1. Het gebruiksrecht kan worden betaald voor een tijdvak bestaande in kalenderdagen, weken, maanden of jaren; een jaar is het langste tijdvak waarvoor betaald kan worden.
 
@@ -84,7 +109,7 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 
 3. Verdragsluitende Partijen die voor binnen hun grondgebied geregistreerde voertuigen alleen jaarlijkse rechten heffen, kunnen als jaarlijks tijdvak het kalenderjaar vaststellen.
 
-#### Artikel 8. Tarieven
+##### Artikel 8. Tarieven
 
 1. Tot en met 31 december 2024 bedraagt het gebruiksrecht, met inbegrip van administratiekosten, voor voertuigen:
 
@@ -268,7 +293,7 @@ De werkwijze inzake de heffing van het gebruiksrecht wordt op bestuursrechtelijk
 
 7. Voor de toepassing van dit Verdrag wordt de wisselkoers van de euro in de nationale munt vastgesteld overeenkomstig artikel 10 van de richtlijn.
 
-#### Artikel 9. Betaling van het gebruiksrecht
+##### Artikel 9. Betaling van het gebruiksrecht
 
 1°. Om een compleet systeem voor het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen te voeren, wordt een centrale elektronische database in het leven geroepen.
 
@@ -288,7 +313,7 @@ De verdragsluitende partijen dragen er zorg voor dat de centrale database wordt 
 
 Tegelijk met de betaling van het gebruiksrecht voorziet het systeem in een bewijs van betaling.
 
-#### Artikel 10. Terugbetaling bij niet-gebruik
+##### Artikel 10. Terugbetaling bij niet-gebruik
 
 1. De verdragsluitende partijen voorzien in een terugbetaling van het gebruiksrecht wanneer de aanvraag tot terugbetaling is ingediend vóór het einde van de periode waarvoor het recht is voldaan.
 
@@ -296,7 +321,7 @@ Tegelijk met de betaling van het gebruiksrecht voorziet het systeem in een bewij
 
 3. Verdragsluitende Partijen die alleen een jaarlijks gebruiksrecht heffen voor op hun grondgebied geregistreerde voertuigen, kunnen ten aanzien van deze voertuigen afzien van terugbetaling.
 
-#### Artikel 11. Toezicht op de naleving
+##### Artikel 11. Toezicht op de naleving
 
 1. Elke Verdragsluitende Partij ziet op eigen verantwoordelijkheid toe op de naleving van de voorschriften inzake de betaling van het gebruiksrecht; zij wijst de voor het toezicht verantwoordelijke autoriteiten aan respectievelijk stelt deze in.
 
@@ -304,11 +329,11 @@ Tegelijk met de betaling van het gebruiksrecht voorziet het systeem in een bewij
 
 3. De Verdragsluitende Partijen en de door hen aangewezen autoriteiten en organisaties werken ten behoeve van het toezicht samen.
 
-#### Artikel 12. Sancties
+##### Artikel 12. Sancties
 
 De verdragsluitende partijen verzekeren dat niet-nakoming van de verplichting tot het betalen van het gebruiksrecht wordt gestraft.
 
-#### Artikel 13. Verdeling van inkomsten uit het gebruiksrecht
+##### Artikel 13. Verdeling van inkomsten uit het gebruiksrecht
 
 1. Inkomsten uit het gebruiksrecht die worden verworven binnen het grondgebied van een Verdragsluitende Partij waar het gemeenschappelijk gebruiksrecht wordt geheven, vallen toe aan deze Verdragsluitende Partij.
 
@@ -350,7 +375,7 @@ Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages wor
 
 4. De Verdragsluitende Partijen stellen de volgens de hierboven beschreven methoden berekende verrekeningsbedragen unaniem vast en voeren de verrekening uit binnen een maand na de vaststelling van de verrekeningsbedragen.
 
-#### Artikel 14. Instelling van een coördinatiecommissie
+##### Artikel 14. Instelling van een coördinatiecommissie
 
 1. Voor de uitvoering van de in dit Verdrag genoemde gemeenschappelijke werkzaamheden ten behoeve van de gemeenschappelijke heffing van het gebruiksrecht stellen de Verdragsluitende Partijen een coördinatiecommissie in. Deze heeft in het bijzonder de volgende taken:
 
@@ -368,15 +393,15 @@ Bij unaniem besluit van de Verdragsluitende Partijen kunnen deze percentages wor
 
 4. De Europese Commissie wordt uitgenodigd bij alle zittingen van de coördinatiecommissie.
 
-#### Artikel 15. Arbitrageprocedure
+##### Artikel 15. Arbitrageprocedure
 
 Ieder geschil dat tussen de Verdragsluitende Partijen ontstaat betreffende de uitlegging of toepassing van dit Verdrag en de hiertoe gemaakte aanvullende afspraken, en dat niet door rechtstreekse onderhandelingen binnen het kader van de coördinatiecommissie kan worden beslecht, wordt op verzoek van een der Verdragsluitende Partijen overeenkomstig [artikel 273 van het Verdrag betreffende de werking van de Europese Unie](https://wetten.overheid.nl/jci1.3:c:BWBV0001506&artikel=273) voorgelegd aan het Hof van Justitie van de Europese Unie.
 
-#### Artikel 16. Toetreding
+##### Artikel 16. Toetreding
 
 Iedere Lid-Staat van de Europese Unie kan tot dit Verdrag toetreden. De toetreding wordt geregeld in een Verdrag tussen die Staat en de Verdragsluitende Partijen.
 
-#### Artikel 17. Afzien van heffing van het gebruiksrecht
+##### Artikel 17. Afzien van heffing van het gebruiksrecht
 
 1. Iedere Verdragsluitende Partij kan afzien van heffing van het gemeenschappelijk gebruiksrecht of besluiten de heffing van het gemeenschappelijk gebruiksrecht binnen haar grondgebied te beëindigen. Zij kan echter geen nationaal aan een tijdvak gebonden gebruiksrecht invoeren, en voor 1 januari 1998 geen nationaal algemeen aan een afstand gebonden stelsel van gebruiksrechten invoeren.
 
@@ -384,7 +409,7 @@ Iedere Lid-Staat van de Europese Unie kan tot dit Verdrag toetreden. De toetredi
 
 3. In deze gevallen passen de Verdragsluitende Partijen op voorstel van de in artikel 14 beschreven coördinatiecommissie de in artikel 13, derde lid, genoemde verdeelsleutel aan. De aanneming van deze aanpassing geschiedt door middel van diplomatieke-notawisseling.
 
-#### Artikel 18. Opzegging
+##### Artikel 18. Opzegging
 
 1. Dit Verdrag kan voor het eerst per 31 december 1997 door middel van een aan de Depositaris gerichte schriftelijke verklaring worden opgezegd, met een opzegtermijn van negen maanden. Na dit tijdstip kan het Verdrag met inachtneming van bovengenoemde termijn aan het eind van ieder kalenderjaar worden opgezegd.
 
@@ -394,7 +419,7 @@ De Verdragsluitende Partij die gebruik maakt van haar opzeggingsrecht, mag geen 
 
 2. In geval van een opzegging overeenkomstig het eerste lid passen de overgebleven Verdragsluitende Partijen de in artikel 13, derde lid, genoemde verdeelsleutel aan. De aanneming van deze aanpassing geschiedt door middel van diplomatieke-notawisseling
 
-#### Artikel 19. Inwerkingtreding
+##### Artikel 19. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand die volgt op de maand waarin alle Verdragsluitende Partijen de Commissie van de Europese Gemeenschappen langs diplomatieke weg schriftelijk hebben medegedeeld dat aan de binnen hun staten geldende voorwaarden voor de inwerkingtreding van het Verdrag is voldaan.
 
@@ -402,7 +427,7 @@ De Verdragsluitende Partij die gebruik maakt van haar opzeggingsrecht, mag geen 
 
 3. Indien een of meer Verdragsluitende Partijen de in het eerste lid bedoelde mededeling niet voor 1 januari 1995 kunnen doen, kunnen de overige Verdragsluitende Partijen of zelfs slechts één van hen het onderhavige Verdrag vanaf die datum voorlopig toepassen.
 
-#### Artikel 20. Geldigheidsduur
+##### Artikel 20. Geldigheidsduur
 
 Dit Verdrag geldt tot 25 maart 2032. Het kan worden verlengd indien twee of meer Verdragsluitende Partijen zulks overeenkomen.
 

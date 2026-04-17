@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregels voorschotverstrekking WW 2015"
 identifier: "BWBR0036703"
-categorie: "Sociaal recht"
-publicatiedatum: 2015-07-01
-laatste_update: 2015-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036703"
+country: "nl"
+rank: "zbo"
+publication_date: "2015-07-01"
+last_updated: "2015-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036703"
+soort: "zbo"
+stam_id: "13181353"
+version_id: "22462532"
+internal_id: "C32240161"
+label_id: "13149684"
+dtd_version: "2.0"
+original_entry_into_force: "2015-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036703/2015-07-01/0"
+intitule_bron: "Stcrt.2015-17022"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-06"
+intitule_published: "2015-06-23"
+intitule_in_force: "2015-06-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-17022"
+original_signed_date: "2015-05-06"
+original_published_date: "2015-06-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-17022"
+entry_into_force_date: "2015-07-01"
+jci_1_3: "jci1.3:c:BWBR0036703&z=2015-07-01&g=2015-07-01"
+jci_1_0: "1.0:c:BWBR0036703&g=2015-07-01"
+citeertitel_status: "officieel"
+signed_date: "2015-05-06"
+entry_into_force: "2015-07-01"
 ---
-
 # Beleidsregels voorschotverstrekking WW 2015
 
 Gelet op het bepaalde in [artikel 4:95, eerste lid, Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:95),
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In dit besluit wordt verstaan onder:
 
 - –. **WW:** [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045).
 
-#### Artikel 2. Voorschot op eerste betaling uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
+##### Artikel 2. Voorschot op eerste betaling uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
 
 1. De werknemer ontvangt van het UWV een voorschot op een uitkering op grond van [hoofdstuk II van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) indien aan alle volgende voorwaarden is voldaan:
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 4. Indien geheel onzeker is hoeveel de vermoedelijke eerste betaling, bedoeld in het derde lid, zal bedragen, dan wordt het voorschot vastgesteld op het bedrag van een WW-uitkering die berekend is naar een maandloon ter hoogte van 21,75 maal het minimumloon als bedoeld in [artikel 14, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=14).
 
-#### Artikel 3. Voorschot bij onzekerheid over het recht op of hoogte van uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
+##### Artikel 3. Voorschot bij onzekerheid over het recht op of hoogte van uitkering [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II)
 
 1. Het UWV betaalt een voorschot op de uitkering op grond van [hoofdstuk II WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=II) als aan alle volgende voorwaarden is voldaan:
 
@@ -62,7 +87,7 @@ In dit besluit wordt verstaan onder:
 
 5. Het UWV is bevoegd aan een voorschot als bedoeld in het eerste lid voorschriften te verbinden.
 
-#### Artikel 4. Voorschot op uitkering [hoofdstuk IV WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV)
+##### Artikel 4. Voorschot op uitkering [hoofdstuk IV WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV)
 
 1. Het UWV verstrekt ambtshalve een voorschot op een uitkering op grond van [Hoofdstuk IV WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&hoofdstuk=IV) indien er zekerheid bestaat omtrent het recht op die uitkering.
 
@@ -76,17 +101,17 @@ In dit besluit wordt verstaan onder:
 
 4. Indien de te verwachten hoogte, bedoeld in het derde lid, geheel onzeker is, wordt het voorschot vastgesteld op het bedrag van een WW-uitkering die berekend is naar een maandloon ter hoogte van 21,75 maal het minimumloon, bedoeld in [artikel 14, tweede lid, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=14).
 
-#### Artikel 5. Inwerkingtreding en intrekking besluiten
+##### Artikel 5. Inwerkingtreding en intrekking besluiten
 
 1. Dit besluit treedt in werking met ingang van 1 juli 2015.
 
 2. Het Besluit voorschotverstrekking WW 1999 en de [Beleidsregels voorschot bij inkomstenverrekening langdurig werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0026265) worden ingetrokken.
 
-#### Artikel 6. Overgangsrecht
+##### Artikel 6. Overgangsrecht
 
 De [Beleidsregels voorschot bij inkomstenverrekening langdurig werklozen](https://wetten.overheid.nl/jci1.3:c:BWBR0026265), zoals deze luidden op 30 juni 2015, blijven van toepassing op de werknemers waarop op grond van het bepaalde in [artikel 130z van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z) het bepaalde in [artikel 20, zesde lid, onder b, van de WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), zoals deze bepaling luidde op de dag voor de datum waarop [artikel XXVI, onderdeel S, van de Wet werk en zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0035254&artikel=XXVI) in werking is getreden, van toepassing is.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Dit besluit wordt aangehaald als Beleidsregels voorschotverstrekking WW 2015.
 

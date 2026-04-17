@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Uganda tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen"
 identifier: "BWBV0001723"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-09-10
-laatste_update: 2004-08-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001723"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-09-10"
+last_updated: "2004-08-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001723"
+soort: "verdrag"
+stam_id: "10002522433"
+version_id: "10002509382"
+internal_id: "C10006994061"
+label_id: "10002512404"
+dtd_version: "2.0"
+original_entry_into_force: "2006-09-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001723/2006-09-10/0"
+intitule_bron: "Trb.2004-262"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-03-21"
+intitule_published: "2004-10-26"
+intitule_in_force: "2006-09-15"
+intitule_status: "goed"
+original_publication: "Trb.2004-262"
+original_signed_date: "2005-03-21"
+original_published_date: "2004-10-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-262"
+entry_into_force_date: "2006-09-10"
+jci_1_3: "jci1.3:c:BWBV0001723&z=2006-09-10&g=2006-09-10"
+jci_1_0: "1.0:c:BWBV0001723&g=2006-09-10"
+citeertitel_status: "redactioneel"
+signed_date: "2005-03-21"
+entry_into_force: "2006-09-10"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Uganda tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen
 
 De Regering van het Koninkrijk der Nederlanden,
@@ -24,11 +49,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. Reikwijdte van het verdrag
 
-#### Artikel 1. Personen op wie het Verdrag van toepassing is
+##### Artikel 1. Personen op wie het Verdrag van toepassing is
 
 Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van beide Verdragsluitende Staten.
 
-#### Artikel 2. Belastingen waarop het Verdrag van toepassing is
+##### Artikel 2. Belastingen waarop het Verdrag van toepassing is
 
 1. Dit Verdrag is van toepassing op belastingen naar het inkomen, die ongeacht de wijze van heffing, worden geheven ten behoeve van een Verdragsluitende Staat of van de staatkundige onderdelen of plaatselijke publiekrechtelijke lichamen daarvan.
 
@@ -54,7 +79,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van be
 
 ### HOOFDSTUK II. Begripsbepalingen
 
-#### Artikel 3. Algemene begripsbepalingen
+##### Artikel 3. Algemene begripsbepalingen
 
 1. Voor de toepassing van dit Verdrag, tenzij de context anders vereist:
 
@@ -90,7 +115,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van be
 
 2. Voor de toepassing van het Verdrag op enig moment door een Verdragsluitende Staat heeft, tenzij de context anders vereist, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat moment heeft volgens de wetgeving van die Staat met betrekking tot de belastingen waarop het Verdrag van toepassing is, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die Staat prevaleert boven een betekenis die volgens andere wetgeving van die Staat aan die uitdrukking wordt gegeven.
 
-#### Artikel 4. Inwoner
+##### Artikel 4. Inwoner
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „inwoner van een Verdragsluitende Staat” iedere persoon die, ingevolge de wetgeving van die Staat, aldaar aan belasting is onderworpen op grond van zijn woonplaats, verblijf, plaats van leiding of enige andere soortgelijke omstandigheid. Deze uitdrukking omvat echter niet een persoon die in die Staat slechts aan belasting is onderworpen ter zake van inkomsten uit bronnen in die Staat.
 
@@ -108,7 +133,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van be
 
 4. Indien een andere dan een natuurlijke persoon ingevolge de bepalingen van het eerste lid inwoner van beide Verdragsluitende Staten is, wordt hij geacht slechts inwoner te zijn van de Staat waar de plaats van zijn werkelijke leiding is gelegen.
 
-#### Artikel 5. Vaste inrichting
+##### Artikel 5. Vaste inrichting
 
 1. Voor de toepassing van dit Verdrag betekent de uitdrukking „vaste inrichting” een vaste bedrijfsinrichting door middel waarvan de werkzaamheden van een onderneming geheel of gedeeltelijk worden uitgeoefend.
 
@@ -160,7 +185,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van be
 
 ### HOOFDSTUK III. Belastingheffing naar het inkomen
 
-#### Artikel 6. Inkomsten uit onroerende zaken
+##### Artikel 6. Inkomsten uit onroerende zaken
 
 1. Inkomsten verkregen door een inwoner van een Verdragsluitende Staat uit onroerende zaken (waaronder begrepen voordelen uit landbouw- of bosbedrijven) die in de andere Verdragsluitende Staat zijn gelegen mogen in die andere Staat worden belast.
 
@@ -170,7 +195,7 @@ Dit Verdrag is van toepassing op personen die inwoner zijn van een van of van be
 
 4. De bepalingen van het eerste en derde lid zijn ook van toepassing op inkomsten uit onroerende zaken van een onderneming.
 
-#### Artikel 7. Winst uit onderneming
+##### Artikel 7. Winst uit onderneming
 
 1. De voordelen van een onderneming van een Verdragsluitende Staat zijn slechts in die Staat belastbaar, tenzij de onderneming in de andere Verdragsluitende Staat haar bedrijf uitoefent door middel van een aldaar gevestigde vaste inrichting. Indien de onderneming aldus haar bedrijf uitoefent, mogen de voordelen van de onderneming in de andere Staat worden belast, maar slechts in zoverre als zij aan die vaste inrichting kunnen worden toegerekend.
 
@@ -188,7 +213,7 @@ Evenmin wordt bij het bepalen van de voordelen van een vaste inrichting rekening
 
 7. Indien in de voordelen bestanddelen van het inkomen zijn begrepen die afzonderlijk in andere artikelen van dit Verdrag worden behandeld, worden de bepalingen van die artikelen niet aangetast door de bepalingen van dit artikel.
 
-#### Artikel 8. Zeevaart en luchtvaart
+##### Artikel 8. Zeevaart en luchtvaart
 
 1. Voordelen uit de exploitatie van schepen of luchtvaartuigen in internationaal verkeer zijn slechts belastbaar in de Verdragsluitende Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
@@ -202,7 +227,7 @@ Evenmin wordt bij het bepalen van de voordelen van een vaste inrichting rekening
 
 4. De bepalingen van het eerste lid zijn ook van toepassing op voordelen uit de deelneming in een „pool", een gemeenschappelijke onderneming of een internationaal opererend agentschap.
 
-#### Artikel 9. Gelieerde ondernemingen
+##### Artikel 9. Gelieerde ondernemingen
 
 1. Indien
 
@@ -212,7 +237,7 @@ Evenmin wordt bij het bepalen van de voordelen van een vaste inrichting rekening
 
 2. Indien een Verdragsluitende Staat in de voordelen van een onderneming van die Staat voordelen begrijpt – en dienovereenkomstig belast – ter zake waarvan een onderneming van de andere Verdragsluitende Staat in die andere Staat in de belastingheffing is betrokken en deze voordelen bestaan uit voordelen welke de onderneming van de eerstgenoemde Staat zou hebben behaald indien tussen de beide ondernemingen zodanige voorwaarden zouden zijn overeengekomen als die welke tussen onafhankelijke ondernemingen zouden zijn overeengekomen, past die andere Staat het bedrag aan belasting dat in die Staat over die voordelen is geheven, dienovereenkomstig aan. Bij de vaststelling van deze aanpassing wordt rekening gehouden met de overige bepalingen van dit Verdrag en plegen de bevoegde autoriteiten van de Verdragsluitende Partijen zo nodig met elkaar overleg.
 
-#### Artikel 10. Dividenden
+##### Artikel 10. Dividenden
 
 1. Dividenden betaald door een lichaam dat inwoner is van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
 
@@ -238,7 +263,7 @@ Evenmin wordt bij het bepalen van de voordelen van een vaste inrichting rekening
 
 In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Staat, aan de natuurlijke persoon aan wie de dividenden worden betaald, een aanslag is opgelegd ter zake van de vorenbedoelde aandelen die geacht worden bij diens emigratie uit eerstbedoelde Staat te zijn vervreemd, geldt het vorenstaande alleen zolang er van deze aanslag nog een bedrag openstaat.
 
-#### Artikel 11. Interest
+##### Artikel 11. Interest
 
 1. Interest afkomstig uit een Verdragsluitende Staat die wordt verkregen door een inwoner van de andere Verdragsluitende Staat die de uiteindelijke gerechtigde is, mag in die andere Staat worden belast.
 
@@ -264,7 +289,7 @@ In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Sta
 
 8. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de interest, gelet op de schuldvordering ter zake waarvan deze wordt betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Verdragsluitende Staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-#### Artikel 12. Royalty's
+##### Artikel 12. Royalty's
 
 1. Royalty's afkomstig uit een Verdragsluitende Staat die worden verkregen door een inwoner van de andere Verdragsluitende Staat die de uiteindelijk gerechtigde is, mogen in die andere Staat worden belast.
 
@@ -280,7 +305,7 @@ In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Sta
 
 7. Indien, wegens een bijzondere verhouding tussen de schuldenaar en de uiteindelijk gerechtigde of tussen hen beiden en een derde, het bedrag van de royalty's, gelet op het gebruik, het recht of de inlichtingen waarvoor zij worden betaald, hoger is dan het bedrag dat zonder zulk een verhouding door de schuldenaar en de uiteindelijk gerechtigde zou zijn overeengekomen, zijn de bepalingen van dit artikel slechts op het laatstbedoelde bedrag van toepassing. In dat geval blijft het daarboven uitgaande deel van het betaalde bedrag belastbaar overeenkomstig de wetgeving van elk van de Verdragsluitende Staten, zulks met inachtneming van de overige bepalingen van dit Verdrag.
 
-#### Artikel 13. Vermogenswinsten
+##### Artikel 13. Vermogenswinsten
 
 1. Voordelen verkregen door een inwoner van een Verdragsluitende Staat uit de vervreemding van onroerende zaken zoals bedoeld in artikel 6 en die zijn gelegen in de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
 
@@ -294,7 +319,7 @@ In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Sta
 
 In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Staat, aan de natuurlijke persoon een aanslag is opgelegd ter zake van de vorenbedoelde aandelen die geacht worden bij diens emigratie uit eerstbedoelde Staat te zijn vervreemd, geldt het vorenstaande alleen voor zover er van deze aanslag nog een bedrag openstaat.
 
-#### Artikel 14. Beloningen uit dienstbetrekking
+##### Artikel 14. Beloningen uit dienstbetrekking
 
 1. Onverminderd de bepalingen van de artikelen 15, 17, 18, 19 en 20 zijn salarissen, lonen en andere soortgelijke beloningen verkregen door een inwoner van een Verdragsluitende Staat ter zake van een dienstbetrekking slechts in die Staat belastbaar, tenzij de dienstbetrekking in de andere Verdragsluitende Staat wordt uitgeoefend. Indien de dienstbetrekking aldaar wordt uitgeoefend, mag de ter zake daarvan verkregen beloning in die andere Staat worden belast.
 
@@ -308,11 +333,11 @@ In de gevallen waarin, ingevolge de nationale wetgeving van de eerstbedoelde Sta
 
 3. Niettegenstaande de voorgaande bepalingen van dit artikel mag de beloning verkregen ter zake van een dienstbetrekking uitgeoefend aan boord van een schip of luchtvaartuig dat in het internationaal verkeer wordt geëxploiteerd, worden belast in de Verdragsluitende Staat waar de plaats van de werkelijke leiding van de onderneming is gelegen.
 
-#### Artikel 15. Directeursbeloningen
+##### Artikel 15. Directeursbeloningen
 
 Directeursbeloningen of andere beloningen verkregen door een inwoner van een Verdragsluitende Staat in zijn hoedanigheid van lid van de raad van beheer van een lichaam dat inwoner is van de andere Verdragsluitende Staat, mogen in die andere Staat worden belast.
 
-#### Artikel 16. Artiesten en sportbeoefenaars
+##### Artikel 16. Artiesten en sportbeoefenaars
 
 1. Niettegenstaande de bepalingen van de artikelen 7 en 14, mogen voordelen of inkomsten verkregen door een inwoner van een Verdragsluitende Staat als artiest, zoals een toneelspeler, een film-, radio- of televisie-artiest of een musicus, of als sportbeoefenaar, uit zijn persoonlijke werkzaamheden als zodanig die worden verricht in de andere Verdragsluitende Staat, worden belast in die andere Staat.
 
@@ -320,7 +345,7 @@ Directeursbeloningen of andere beloningen verkregen door een inwoner van een Ver
 
 3. Het eerste en tweede lid zijn niet van toepassing op voordelen of inkomsten die worden verkregen door een inwoner van een Verdragsluitende Staat uit werkzaamheden die worden verricht in de andere Verdragsluitende Staat, indien het bezoek aan die andere Staat geheel of grotendeels wordt bekostigd uit de openbare middelen van een of beide Verdragsluitende Staten, een staatkundig onderdeel, of een plaatselijk publiekrechtelijk lichaam daarvan, of plaatsvindt in het kader van een culturele overeenkomst tussen de Regeringen van de Verdragsluitende Staten. In een zodanig geval zijn de voordelen of inkomsten slechts belastbaar in de Verdragsluitende Staat waarvan de artiest of sportbeoefenaar inwoner is.
 
-#### Artikel 17. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
+##### Artikel 17. Pensioenen, lijfrenten en socialezekerheidsuitkeringen
 
 1. Onverminderd de bepalingen van artikel 18, tweede lid, zijn pensioenen en andere soortgelijke beloningen betaald aan een inwoner van een Verdragsluitende Staat ter zake van een vroegere dienstbetrekking alsmede lijfrenten betaald aan een inwoner van een Verdragsluitende Staat slechts in die Staat belastbaar. Pensioenen en andere uitkeringen betaald krachtens de bepalingen van een socialezekerheidsstelsel van een Verdragsluitende Staat aan een inwoner van de andere Verdragsluitende Staat zijn slechts in die andere Staat belastbaar.
 
@@ -342,7 +367,7 @@ Directeursbeloningen of andere beloningen verkregen door een inwoner van een Ver
 
 7. Of en in hoeverre een pensioen of soortgelijke beloning onder dit artikel of onder artikel 18 valt, wordt bepaald door het karakter van de vroegere dienstbetrekking, zijnde particulier of overheid, gedurende welke de aanspraak op dat gedeelte van het pensioen of soortgelijke beloning werd opgebouwd.
 
-#### Artikel 18. Overheidsfuncties
+##### Artikel 18. Overheidsfuncties
 
 - a. Salarissen, lonen en andere soortgelijke beloningen, niet zijnde pensioenen, betaald door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan aan een natuurlijke persoon ter zake van diensten verleend aan die Staat of dat onderdeel of dat publiekrechtelijke lichaam, mogen in die Staat worden belast.
 
@@ -358,17 +383,17 @@ Directeursbeloningen of andere beloningen verkregen door een inwoner van een Ver
 
 3. De bepalingen van de artikelen 14, 15 en 17 zijn van toepassing op salarissen, lonen en andere soortgelijke beloningen en op pensioenen ter zake van diensten verleend in het kader van een op winst gericht bedrijf, uitgeoefend door een Verdragsluitende Staat of een staatkundig onderdeel of een plaatselijk publiekrechtelijk lichaam daarvan.
 
-#### Artikel 19. Hoogleraren en docenten
+##### Artikel 19. Hoogleraren en docenten
 
 1. Vergoedingen die een hoogleraar of docent, die inwoner is van een Verdragsluitende Staat en die in de andere Verdragsluitende Staat verblijft met het doel gedurende een tijdvak van ten hoogste twee jaar onderwijs te geven of zich met wetenschappelijk onderzoek bezig te houden aan een universiteit, hogeschool of andere inrichting voor onderwijs of wetenschappelijk onderzoek in die andere Staat voor dat onderwijs of dat onderzoek ontvangt, zijn in die Staat niet belastbaar mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.
 
 2. Dit artikel is niet van toepassing op inkomsten uit het verrichten van wetenschappelijk onderzoek, indien dit onderzoek niet wordt verricht in het algemeen belang, maar in de eerste plaats voor het persoonlijk nut van een bepaalde persoon of bepaalde personen.
 
-#### Artikel 20. Studenten
+##### Artikel 20. Studenten
 
 Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijnde persoon die inwoner is of onmiddellijk voorafgaande aan zijn bezoek aan een Verdragsluitende Staat inwoner was van de andere Verdragsluitende Staat en die uitsluitend voor zijn studie op opleiding in de eerstbedoelde Staat verblijft, ontvangt ten behoeve van zijn onderhoud, studie of opleiding, zijn in die Staat niet belastbaar, mits deze betalingen aan hem worden gedaan uit bronnen buiten die Staat.
 
-#### Artikel 21. Overige inkomsten
+##### Artikel 21. Overige inkomsten
 
 1. Bestanddelen van het inkomen van een inwoner van een Verdragsluitende Staat, van waaruit ook afkomstig, die niet in de voorgaande artikelen van dit Verdrag zijn behandeld, zijn slechts in die Staat belastbaar.
 
@@ -376,7 +401,7 @@ Vergoedingen die een student of een voor een beroep of bedrijf in opleiding zijn
 
 ### HOOFDSTUK IV. Vermijding van dubbele belasting
 
-#### Artikel 22. Vermijding van dubbele belasting
+##### Artikel 22. Vermijding van dubbele belasting
 
 1. Nederland is bevoegd bij het heffen van belasting van zijn inwoners in de grondslag waarnaar de belasting wordt geheven, de bestanddelen van het inkomen te begrijpen die overeenkomstig de bepalingen van dit Verdrag in Uganda mogen worden belast.
 
@@ -394,7 +419,7 @@ Dit lid zal een tegemoetkoming nu of in de toekomst verleend volgens de bepaling
 
 ### HOOFDSTUK V. Bijzondere bepalingen
 
-#### Artikel 23. Werkzaamheden buitengaats
+##### Artikel 23. Werkzaamheden buitengaats
 
 1. De bepalingen van dit artikel vinden toepassing niettegenstaande andere bepalingen van dit Verdrag. Dit artikel is echter niet van toepassing indien werkzaamheden buitengaats van een persoon voor die persoon een vaste inrichting vormen ingevolge de bepalingen van artikel 5.
 
@@ -420,7 +445,7 @@ Voor de toepassing van dit lid:
 
 6. Indien aan de hand van bewijsstukken wordt aangetoond dat in Uganda belasting is betaald over de bestanddelen van het inkomen die ingevolge artikel 7 en artikel 14 in verband met het derde lid van dit artikel en ingevolge het vijfde lid van dit artikel in Uganda mogen worden belast, verleent Nederland een vermindering van zijn belasting die wordt berekend overeenkomstig de regels die zijn neergelegd in artikel 22, tweede lid.
 
-#### Artikel 24. Non-discriminatie
+##### Artikel 24. Non-discriminatie
 
 1. Onderdanen van een Verdragsluitende Staat worden in de andere Verdragsluitende Staat niet aan enige belastingheffing of daarmede verband houdende verplichting onderworpen, die anders of zwaarder is dan de belastingheffing en daarmede verband houdende vereisten waaraan onderdanen van die andere Staat onder dezelfde omstandigheden, in het bijzonder met betrekking tot woonplaats, zijn of kunnen worden onderworpen. Deze bepaling is, niettegenstaande het bepaalde in artikel 1, ook van toepassing op personen die geen inwoner zijn van een of van beide Verdragsluitende Staten.
 
@@ -438,7 +463,7 @@ Voor de toepassing van dit lid:
 
 6. De bepalingen van dit artikel zijn van toepassing op de belastingen waarop dit Verdrag van toepassing is.
 
-#### Artikel 25. Regeling voor onderling overleg
+##### Artikel 25. Regeling voor onderling overleg
 
 1. Indien een persoon van oordeel is dat de maatregelen van een of van beide Verdragsluitende Staten voor hem leiden of zullen leiden tot een belastingheffing die niet in overeenstemming is met de bepalingen van dit Verdrag, kan hij, ongeacht de rechtsmiddelen waarin de nationale wetgeving van die Staten voorziet, zijn geval voorleggen aan de bevoegde autoriteit van de Verdragsluitende Staat waarvan hij inwoner is, of, indien zijn geval valt onder artikel 24, eerste lid, aan die van de Verdragsluitende Staat waarvan hij onderdaan is. Het geval moet worden voorgelegd binnen drie jaar nadat de maatregel die leidt tot een belastingheffing die niet in overeenstemming is met de bepalingen van het Verdrag, voor het eerst te zijner kennis is gebracht.
 
@@ -450,7 +475,7 @@ Voor de toepassing van dit lid:
 
 5. Wanneer moeilijkheden of twijfelpunten die zijn gerezen met betrekking tot de uitlegging of toepassing van het Verdrag niet binnen een periode van twee jaar nadat de vraag is gerezen opgelost kunnen worden door de bevoegde autoriteiten van de Verdragsluitende Staten in een procedure voor onderling overleg ingevolge de voorgaande leden van dit artikel, kan het geval op verzoek van een van de Verdragsluitende Staten, worden voorgelegd voor arbitrage, echter slechts nadat de procedures die beschikbaar zijn op grond van het eerste tot en met het vierde lid van dit artikel volledig zijn uitgeput en mits de betrokken belastingplichtige of belastingplichtigen er schriftelijk mee instemmen te zijn gebonden door de beslissing van de arbitragecommissie. De beslissing van de arbitragecommissie in een bepaald geval is voor dat geval bindend voor beide Verdragsluitende Staten en de betrokken belastingplichtige of belastingplichtigen.
 
-#### Artikel 26. Uitwisseling van inlichtingen
+##### Artikel 26. Uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van de Verdragsluitende Staten wisselen de inlichtingen uit die nodig zijn voor het uitvoeren van de bepalingen van dit Verdrag of van de nationale wetgeving van de Verdragsluitende Staten met betrekking tot belastingen waarop het Verdrag van toepassing is, voorzover de heffing van die belastingen niet in strijd is met het Verdrag. De uitwisseling van inlichtingen wordt niet beperkt door artikel 1. Alle door een Verdragsluitende Staat ontvangen inlichtingen worden op dezelfde wijze geheim gehouden als inlichtingen die volgens de nationale wetgeving van die Staat zijn verkregen en worden alleen ter kennis gebracht van personen of autoriteiten (daaronder begrepen rechterlijke instanties en administratiefrechtelijke lichamen) die betrokken zijn bij de vaststelling of invordering van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op belastingen. Deze personen of autoriteiten mogen van de inlichtingen alleen voor deze doeleinden gebruik maken. Zij mogen de inlichtingen bekendmaken in openbare rechtszittingen of in rechterlijke beslissingen.
 
@@ -458,7 +483,7 @@ Voor de toepassing van dit lid:
 
 De leden van de arbitragecommissie zijn met betrekking tot de aldus verkregen inlichtingen onderworpen aan de beperkingen van openbaarmaking als omschreven in het eerste lid van dit artikel.
 
-#### Artikel 27. Bijstand bij invordering
+##### Artikel 27. Bijstand bij invordering
 
 1. De Verdragsluitende Staten komen overeen elkaar hulp en bijstand te verlenen, in overeenstemming met hun onderscheiden wetgeving of administratieve praktijk, bij de invordering van de belastingen waarop dit Verdrag van toepassing is en op de genoemde belastingen betrekking hebbende administratieve boetes, interest en kosten.
 
@@ -498,7 +523,7 @@ Indien de vordering echter een belastingverplichting betreft van een persoon die
 
 14. De bevoegde autoriteiten van de Staten stellen in onderlinge overeenstemming gezamenlijk regels vast betreffende de toepassing van dit artikel.
 
-#### Artikel 28. Beperkingen van de artikelen 26 en 27
+##### Artikel 28. Beperkingen van de artikelen 26 en 27
 
 In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zij een Verdragsluitende Staat de verplichting opleggen:
 
@@ -508,7 +533,7 @@ In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zi
 
 - c. inlichtingen te verstrekken die een handels-, bedrijfsnijverheids- of beroepsgeheim of een fabrieks- of handelswerkwijze zouden onthullen, dan wel inlichtingen waarvan het verstrekken in strijd zou zijn met de openbare orde (ordre public).
 
-#### Artikel 29. Leden van diplomatieke vertegenwoordigingen en consulaire posten
+##### Artikel 29. Leden van diplomatieke vertegenwoordigingen en consulaire posten
 
 1. De bepalingen in dit Verdrag tasten in geen enkel opzicht de fiscale voorrechten aan die leden van diplomatieke vertegenwoordigingen of consulaire posten ontlenen aan de algemene regels van het volkenrecht of aan de bepalingen van bijzondere overeenkomsten.
 
@@ -516,7 +541,7 @@ In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zi
 
 3. Het Verdrag is niet van toepassing op internationale organisaties, op hun organen of functionarissen, noch op leden van een diplomatieke vertegenwoordiging of consulaire post van een derde Staat, die in een Verdragsluitende Staat verblijven, indien zij in die Staat niet aan dezelfde verplichtingen ter zake van belastingen naar het inkomen zijn onderworpen als inwoners van die Staat.
 
-#### Artikel 30. Uitbreiding tot andere gebieden
+##### Artikel 30. Uitbreiding tot andere gebieden
 
 1. Dit Verdrag kan, hetzij in zijn geheel, hetzij met de noodzakelijke wijzigingen, worden uitgebreid tot de Nederlandse Antillen en Aruba, of tot de Nederlandse Antillen of Aruba afzonderlijk, indien het desbetreffende land belastingen heft die in wezen gelijksoortig zijn aan de belastingen waarop het Verdrag van toepassing is. Een dergelijke uitbreiding wordt van kracht met ingang van een datum en met inachtneming van wijzigingen en voorwaarden, daaronder begrepen voorwaarden ten aanzien van de beëindiging, nader vast te stellen en overeen te komen bij diplomatieke notawisseling.
 
@@ -524,7 +549,7 @@ In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zi
 
 ### HOOFDSTUK VI. Slotbepalingen
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking dertig dagen na de laatste der data waarop de onderscheiden Regeringen elkaar schriftelijk hebben medegedeeld, dat de in hun onderscheiden Staten grondwettelijk vereiste formaliteiten zijn vervuld.
 
@@ -538,7 +563,7 @@ In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zi
 
 - ii. wat betreft Uganda, voor inkomensjaren die aanvangen op of na de eerste dag van juli van het kalenderjaar dat volgt op de inwerkingtreding van het Verdrag.
 
-#### Artikel 32. Beëindiging
+##### Artikel 32. Beëindiging
 
 1. Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Staten kan het Verdrag langs diplomatieke weg beëindigen door ten minste zes maanden voor het einde van enig kalenderjaar na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van het Verdrag kennis te geven van de beëindiging.
 
@@ -554,39 +579,39 @@ In geen geval worden de bepalingen van de artikelen 26 en 27 zo uitgelegd dat zi
 
 Bij de ondertekening van het Verdrag tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting met betrekking tot belastingen naar het inkomen heden gesloten tussen het Koninkrijk der Nederlanden en de Republiek Uganda, zijn de ondergetekenden overeengekomen dat de volgende bepalingen een integrerend deel van het Verdrag vormen.
 
-#### I. Ad artikel 3, eerste lid, onderdeel e
+##### I. Ad artikel 3, eerste lid, onderdeel e
 
 Ingeval een eenheid die voor de belastingheffing als een rechtspersoon wordt behandeld als zodanig in een Verdragsluitende Staat aan belasting is onderworpen, maar het inkomen van dat lichaam in de andere Verdragsluitende Staat als inkomen van de participanten van die eenheid wordt belast, nemen de bevoegde autoriteiten dusdanige maatregelen dat er enerzijds geen dubbele belasting blijft bestaan, maar anderzijds wordt voorkomen dat louter als gevolg van de toepassing van het Verdrag inkomen (gedeeltelijk) niet aan belastingheffing wordt onderworpen. Om te bepalen of dit het geval is, wordt de belasting geheven over het inkomen van die eenheid geacht belasting te zijn, geheven over het inkomen van de participanten van die eenheid, naar rato van hun gerechtigdheid in het vermogen van die eenheid. Voor zover nodig kan bovendien worden bepaald dat iedere participant, naar rato van zijn gerechtigdheid in die eenheid, de belasting geheven op het niveau van de eenheid mag verrekenen (inclusief eventuele daarop drukkende bronbelasting van derde Staten), met de belasting die hij verschuldigd is over hetzelfde inkomen. Voorts mag de Staat van vestiging van de eenheid afzien van eventuele belastingheffing over uitdeling van winst van die eenheid aan de participanten.
 
-#### II. Ad artikel 4
+##### II. Ad artikel 4
 
 Een natuurlijke persoon die aan boord van een schip woont zonder een werkelijke woonplaats in een van de Verdragsluitende Staten te hebben, wordt geacht inwoner te zijn van de Verdragsluitende Staat waarin het schip zijn thuishaven heeft.
 
-#### III. Ad artikel 4
+##### III. Ad artikel 4
 
 Het is wel te verstaan dat inwoners die gedurende korte tijd wonen in een Verdragsluitende Staat en wier wereldwijd vergaarde inkomen in die Staat niet aan belastingheffing wordt onderworpen, voor de toepassing van dit Verdrag niet worden beschouwd als inwoner.
 
-#### IV. Ad artikelen 5 en 7
+##### IV. Ad artikelen 5 en 7
 
 Het is wel te verstaan dat geen voordelen worden toegerekend aan een vaste inrichting op grond van het gebruik maken van inrichtingen louter voor de aflevering van goederen of koopwaar die aan de onderneming toebehoort.
 
-#### V. Ad artikelen 5, 6, 7, 13 en 23
+##### V. Ad artikelen 5, 6, 7, 13 en 23
 
 Het is wel te verstaan dat rechten tot exploitatie en exploratie van natuurlijke rijkdommen worden beschouwd als onroerende zaken die zijn gelegen in de Verdragsluitende Staat op wiens zeebodem en ondergrond daarvan deze rechten betrekking hebben, alsmede dat deze rechten geacht worden te behoren tot de activa van een vaste inrichting in die Staat. Voorts is het wel te verstaan dat de hiervoor genoemde rechten ook omvatten rechten op belangen bij, of de voordelen uit vermogensbestanddelen die voortvloeien uit die exploratie of exploitatie.
 
-#### VI. Ad artikel 7
+##### VI. Ad artikel 7
 
 Met betrekking tot artikel 7, eerste en tweede lid, geldt dat, indien een onderneming van een Verdragsluitende Staat in de andere Verdragsluitende Staat goederen of koopwaar verkoopt of een bedrijf uitoefent door middel van een aldaar gevestigde inrichting, de voordelen van die vaste inrichting niet worden bepaald op basis van het totale door de onderneming ontvangen bedrag, doch slechts op basis van dat deel van de inkomsten van de onderneming dat aan de werkelijke werkzaamheden van de vaste inrichting voor die verkopen of die bedrijfsuitoefening is toe te rekenen. Met name bij overeenkomsten betreffende het toezicht op, de levering, installatie of constructie van nijverheids- en handelsuitrusting of wetenschappelijke uitrusting of gebouwen alsmede bij openbare werken, worden, indien de onderneming een vaste inrichting heeft, de voordelen van die vaste inrichting niet bepaald op basis van het totale bedrag van de overeenkomst, doch slechts op basis van dat deel van de overeenkomst dat werkelijk wordt uitgevoerd door de vaste inrichting in de Verdragsluitende Staat waar de vaste inrichting is gevestigd. De voordelen die betrekking hebben op het deel van de overeenkomst, dat wordt uitgevoerd door het hoofdkantoor van de onderneming, zijn slechts belastbaar in de Verdragsluitende Staat waarvan de onderneming inwoner is.
 
-#### VII. Ad artikel 7
+##### VII. Ad artikel 7
 
 Vergoedingen voor technische diensten, waaronder begrepen studies of onderzoeken van wetenschappelijke, geologische of technische aard, of voor diensten van adviserende of toezichthoudende aard, worden aan-gemerkt als vergoedingen waarop de bepalingen van artikel 7 van toepassing zijn.
 
-#### VIII. Ad artikel 9
+##### VIII. Ad artikel 9
 
 Het is wel te verstaan dat de omstandigheid dat gelieerde ondernemingen overeenkomsten hebben afgesloten, zoals „costsharing"-overeenkomsten of algemene dienstverleningsovereenkomsten, voor of gebaseerd op de toerekening van kosten van de leiding, de algemene beheerskosten, de technische en zakelijke kosten, kosten voor onderzoek en ontwikkeling en andere soortgelijke kosten, op zichzelf geen voorwaarde is als bedoeld in artikel 9, eerste lid. Dit belet een Verdragsluitende Staat evenwel niet voornoemde overeenkomsten te controleren op voorwaarden als bedoeld in artikel 9, eerste lid.
 
-#### IX. Ad artikel 10
+##### IX. Ad artikel 10
 
 De bepalingen van artikel 10, derde lid, onderdeel a, zijn van toepassing zolang ingevolge de bepalingen van de Nederlandse Wet op de vennootschapsbelasting, van een lichaam dat inwoner is van Nederland geen Nederlandse vennootschapsbelasting wordt geheven ter zake van dividenden die dat lichaam ontvangt van een lichaam dat inwoner is van Uganda.
 
@@ -594,7 +619,7 @@ Wanneer voor en na de inwerkingtreding van dit Verdrag investeringen zijn gedaan
 
 Niettegenstaande de bepalingen van artikel 10, tweede lid, heft de Verdragsluitende Staat waarvan het lichaam inwoner is geen belasting over door dat lichaam betaalde dividenden, indien de uiteindelijk gerechtigde tot de dividenden een pensioenfonds is als bedoeld artikel 4, tweede lid.
 
-#### X. Ad artikelen 10 en 11
+##### X. Ad artikelen 10 en 11
 
 Niettegenstaande artikel 10, zesde lid, is het wel te verstaan dat de uitdrukking „dividenden” mede omvat inkomsten uit schuldvorderingen, mits de wetgeving van een Verdragsluitende Staat deze inkomsten uit schuldvorderingen op dezelfde wijze aan belastingheffing onderwerpt als inkomsten uit aandelen aan de hand van een combinatie van de volgende criteria:
 
@@ -604,35 +629,35 @@ Niettegenstaande artikel 10, zesde lid, is het wel te verstaan dat de uitdrukkin
 
 - -. de rangorde van een lening
 
-#### XI. Ad artikelen 5 en 7, 10, 11 en 12
+##### XI. Ad artikelen 5 en 7, 10, 11 en 12
 
 Indien aan de bron belasting is geheven die het belastingbedrag dat ingevolge de bepalingen van de artikelen 5 en 7, 10, 11 of 12 mag worden geheven te boven gaat, moeten verzoeken om teruggaaf van het daarboven uitgaande belastingbedrag worden ingediend bij de bevoegde autoriteit van de Staat die de belasting heeft geheven, binnen een tijdvak van drie jaar na afloop van het kalenderjaar waarin de belasting is geheven. De teruggave geschiedt binnen een termijn van zes maanden na [de datum] waarop het verzoek bij de bevoegde autoriteit werd ingediend. De termijn van zes maanden kan worden verlengd indien beide Verdragsluitende Staten overeenkomen dat de benodigde documentatie niet is overgelegd aan de bevoegde autoriteit van eerstgenoemde Staat.
 
-#### XII. Ad artikelen 10 en 13
+##### XII. Ad artikelen 10 en 13
 
 Het is wel te verstaan dat inkomsten die worden ontvangen in verband met de (gedeeltelijke) liquidatie van een lichaam of een inkoop van eigen aandelen door een lichaam worden behandeld als inkomsten uit aandelen en niet als vermogenswinsten.
 
-#### XIII. Ad artikelen 10 en 13
+##### XIII. Ad artikelen 10 en 13
 
 Het is wel te verstaan dat in het geval van Nederland, artikel 13, vijfde lid, alleen van toepassing is in het geval van een natuurlijke persoon die, al dan niet tezamen met zijn echtgenoot of een van zijn bloed- of aanverwanten in de rechte lijn, onmiddellijk of middellijk ten minstevijf percent bezit van het geplaatste kapitaal van een bepaalde soort aandelen van een lichaam.
 
 Het is voorts wel te verstaan dat indien een dergelijke natuurlijke persoon een schuldvordering heeft op dat lichaam, de bepalingen van artikel 13, vijfde lid, eveneens van toepassing zijn met betrekking tot door die natuurlijke persoon verkregen vermogenswinsten uit de „vervreemding" van een dergelijke schuldvordering.
 
-#### XIV. Ad artikel 11
+##### XIV. Ad artikel 11
 
 Het is wel te verstaan dat indien een persoon als bedoeld in artikel 11, derde lid, onderdeel a, een lening verstrekt via een andere persoon, de lening wordt geacht te zijn verstrekt door de eerstbedoelde persoon. Als persoon bedoeld in artikel 11, derde lid, onderdeel a, worden tevens aangemerkt de Nederlandse Financierings-Maatschappij voor Ontwikke-lingslanden NV (FMO) en de Nederlandse Investeringsbank voor Ontwikkelingslanden VN (NIO).
 
-#### XV. Ad artikel 15
+##### XV. Ad artikel 15
 
 Het is wel te verstaan dat een „bestuurder” of „commissaris” van een Nederlands lichaam wordt aangemerkt als een lid van de raad van beheer als bedoeld in artikel 15. Het is voorts wel te verstaan dat „bestuurder” of „commissaris” van een Nederlands lichaam betrekking heeft op personen die als zodanig zijn benoemd door de algemene vergadering van aandeelhouders of door enig ander bevoegd orgaan van dat lichaam, en die zijn belast met de algemene leiding van het lichaam, onderscheidenlijk met het toezicht daarop. In het geval van Uganda wordt een „managing director” of een „executive director” van een Oegandees lichaam aangemerkt als een lid van de raad van beheer als bedoeld in artikel 15.
 
-#### XVI. Ad artikel 24
+##### XVI. Ad artikel 24
 
 1. Het is wel te verstaan dat Nederland en Uganda op het tijdstip van ondertekening van dit Verdrag, onverminderd de bepalingen van artikel 24, zesde lid, inwoners van beide Verdragsluitende Staten ten aanzien van belastingen van elke soort en benaming in overeenstemming met de bepalingen van dit artikel behandelen. Indien een Verdragsluitende Partij met betrekking tot belastingen van elke soort en benaming inwoners op enig tijdstip na de ondertekening van dit Verdrag evenwel behandelt op een wijze die niet in overeenstemming is met de in artikel 24 vervatte beginselen, regelen de bevoegde autoriteiten in onderlinge overeenstemming de wijze waarop deze behandeling ongedaan gemaakt kan worden.
 
 2. Indien en zo lang een verdrag tot het vermijden van dubbele belasting tussen Uganda en een lid van de OESO van kracht is, dat niet voorziet in een additionele belasting als bedoeld in de tweede zin van artikel 24, tweede lid, van dit Verdrag, wordt de daarin genoemde additionele belasting niet geheven van ondernemingen van Nederland.
 
-#### XVII. Ad artikel 25
+##### XVII. Ad artikel 25
 
 De bevoegde autoriteiten van de Staten kunnen, zonodig in strijd met hun respectieve nationale wetgeving, ter zake van een overeengekomen regeling in het kader van een procedure voor onderling overleg als bedoeld in artikel 25, tevens overeenkomen dat de Staat waar ingevolge eerdergenoemde regeling sprake is van een additionele belastingheffing, met betrekking tot deze additionele belastingheffing afziet van belastingverhogingen, boetes, interest en kosten, indien de andere Staat, waarin ingevolge de regeling sprake is van een overeenkomstige vermindering van belasting, afziet van de betaling van interest verschuldigd met betrekking tot een dergelijke vermindering van belasting.
 

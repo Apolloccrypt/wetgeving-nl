@@ -1,20 +1,44 @@
 ---
 title: "Statuut betreffende de Groep van Staten tegen Corruptie (GRECO)"
 identifier: "BWBV0001505"
-categorie: "Internationaal recht"
-publicatiedatum: 2001-12-18
-laatste_update: 2001-12-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001505"
+country: "nl"
+rank: "verdrag"
+publication_date: "2001-12-18"
+last_updated: "2001-12-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001505"
+soort: "verdrag"
+stam_id: "10000013623"
+version_id: "10000032432"
+internal_id: "C10006991121"
+label_id: "10000013914"
+original_entry_into_force: "2001-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001505/2001-12-18/0"
+intitule_bron: "Trb.2000-131"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-12-18"
+intitule_published: "2000-11-06"
+intitule_in_force: "2002-12-13"
+intitule_status: "goed"
+original_publication: "Trb.2000-131"
+original_signed_date: "2001-12-18"
+original_published_date: "2000-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-131"
+entry_into_force_date: "2001-12-18"
+jci_1_3: "jci1.3:c:BWBV0001505&z=2001-12-18&g=2001-12-18"
+jci_1_0: "1.0:c:BWBV0001505&g=2001-12-18"
+citeertitel_status: "redactioneel"
+signed_date: "2001-12-18"
+entry_into_force: "2001-12-18"
 ---
-
 # Statuut betreffende de Groep van Staten tegen Corruptie (GRECO)
 
-#### Artikel 1. Doel van de GRECO
+##### Artikel 1. Doel van de GRECO
 
 Het doel van de Groep van Staten tegen Corruptie (hierna te noemen de „GRECO") is het vermogen van zijn leden het bestrijden van corruptie te vergroten door toe te zien, via een dynamisch proces van wederzijdse evaluatie en groepsdwang op de nakoming van de verplichtingen op dit gebied.
 
-#### Artikel 2. Taken van de GRECO
+##### Artikel 2. Taken van de GRECO
 
 Ter verwezenlijking van het doel genoemd in artikel 1 is de GRECO belast met het houden van toezicht op:
 
@@ -22,11 +46,11 @@ Ter verwezenlijking van het doel genoemd in artikel 1 is de GRECO belast met het
 
 - ii. de uitvoering van internationale juridische instrumenten, aan te nemen ingevolge het Actieprogramma tegen Corruptie in overeenstemming met de in deze instrumenten vervatte bepalingen.
 
-#### Artikel 3. Zetel
+##### Artikel 3. Zetel
 
 De zetel van de GRECO is Straatsburg.
 
-#### Artikel 4. Procedure inzake lidmaatschap van de GRECO
+##### Artikel 4. Procedure inzake lidmaatschap van de GRECO
 
 1. Andere lidstaten van de Raad van Europa dan die genoemd in de Resolutie tot oprichting van de GRECO, kunnen te allen tijde tot de GRECO toetreden door middel van een daartoe strekkende kennisgeving aan de Secretaris-Generaal van de Raad van Europa.
 
@@ -36,11 +60,11 @@ De zetel van de GRECO is Straatsburg.
 
 4. Het Comité van Ministers van de Raad van Europa, in zijn samenstelling beperkt tot de lidstaten van het gedeeltelijk en uitgebreide Akkoord, kan, na raadpleging van de niet-lidstaten die er al aan deelnemen, niet-lidstaten, andere dan die bedoeld in het tweede lid, uitnodigen toe te treden tot de GRECO. De niet-lidstaat die een dergelijke uitnodiging heeft ontvangen, stelt de Secretaris-Generaal in kennis van zijn voornemen lid te worden van de GRECO, vergezeld van een verklaring waarin hij zich verbindt tot inachtneming van de Richtsnoeren voor de bestrijding van Corruptie.
 
-#### Artikel 5. Deelname van de Europese Gemeenschap
+##### Artikel 5. Deelname van de Europese Gemeenschap
 
 De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd deel te nemen aan het werk van de GRECO. De wijze van deelname wordt vastgesteld in de resolutie met de uitnodiging tot deelname.
 
-#### Artikel 6. Samenstelling van de GRECO
+##### Artikel 6. Samenstelling van de GRECO
 
 1. Elk lid benoemt een delegatie voor de GRECO bestaande uit ten hoogste twee vertegenwoordigers. Een vertegenwoordiger wordt benoemd tot hoofd van de delegatie.
 
@@ -48,7 +72,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 3. De voor de GRECO benoemde vertegenwoordigers genieten de voorrechten en immuniteiten die van toepassing zijn uit hoofde van [artikel 2 van het Protocol bij het Algemene Verdrag nopens de voorrechten en immuniteiten van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005552&artikel=2).
 
-#### Artikel 7. Andere vertegenwoordigers
+##### Artikel 7. Andere vertegenwoordigers
 
 1. Het Europees Comité Juridische Samenwerking (CDJC) en de Europese Commissie inzake Strafrechtelijke Vraagstukken (CDPC) benoemen elk een vertegenwoordiger voor de GRECO.
 
@@ -58,7 +82,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 4. Vertegenwoordigers benoemd krachtens het eerste tot en met het derde lid nemen zonder stemrecht deel aan de plenaire vergaderingen van de GRECO. Hun reis- en verblijfkosten komen niet ten laste van de begroting van het gedeeltelijke en uitgebreide Akkoord.
 
-#### Artikel 8. Functioneren van de GRECO
+##### Artikel 8. Functioneren van de GRECO
 
 1. De GRECO neemt de nodige besluiten voor zijn functioneren. In het bijzonder
 
@@ -82,7 +106,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 8. De GRECO kiest zijn Voorzitter en Vice-voorzitter uit de vertegenwoordigers van de leden die stemrecht hebben.
 
-#### Artikel 9. Bureau
+##### Artikel 9. Bureau
 
 1. Er is een Bureau bestaande uit de Voorzitter en de Vice-voorzitter genoemd in [artikel 8, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001505&artikel=8&z=2001-12-18&g=2001-12-18), van dit Statuut, en vijf andere personen gekozen door de GRECO uit de vertegenwoordigers van de leden met stemrecht, die, voor zover mogelijk, partij zijn bij ten minste een van de internationale juridische instrumenten aangenomen ingevolge het Actieprogramma tegen Corruptie.
 
@@ -106,7 +130,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 4. Het Bureau vervult zijn taken onder het algemene toezicht van de GRECO.
 
-#### Artikel 10. Evaluatieprocedure
+##### Artikel 10. Evaluatieprocedure
 
 1. De GRECO voert ingevolge [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0001505&artikel=2&z=2001-12-18&g=2001-12-18) evaluatieprocedures uit ten aanzien van elk van zijn leden.
 
@@ -118,7 +142,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 5. Elk lid verzekert dat zijn autoriteiten zo volledig mogelijk meewerken aan de evaluatieprocedure binnen de grenzen van zijn nationale wetgeving.
 
-#### Artikel 11. Vragenlijst
+##### Artikel 11. Vragenlijst
 
 1. De GRECO neemt voor iedere evaluatieronde een vragenlijst aan die gericht is aan alle leden die bij de evaluatie betrokken zijn.
 
@@ -126,7 +150,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 3. Leden richten hun antwoorden aan het Secretariaat binnen de door de GRECO vastgestelde termijnen.
 
-#### Artikel 12. Evaluatieteams
+##### Artikel 12. Evaluatieteams
 
 1. De GRECO benoemt uit de deskundigen bedoeld in [artikel 10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001505&artikel=10&z=2001-12-18&g=2001-12-18), een team voor de evaluatie van elk lid (hierna te noemen „het team”). Indien de evaluatie de uitvoering van bepalingen van een van de internationale juridische instrumenten betreft, aangenomen ingevolge het Actieprogramma tegen Corruptie, benoemt de GRECO teams die uitsluitend zijn samengesteld uit deskundigen voorgesteld door leden die partij zijn bij het desbetreffende instrument.
 
@@ -134,7 +158,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 3. De reis- en verblijfkosten van de deskundigen die deel uitmaken van de teams komen ten laste van de begroting van het gedeeltelijke en uitgebreide Partiële Akkoord.
 
-#### Artikel 13. Bezoeken aan landen
+##### Artikel 13. Bezoeken aan landen
 
 1. De GRECO kan het team opdragen een lid te bezoeken ten behoeve van het verkrijgen van aanvullende informatie betreffende zijn recht of praktijk die nuttig is voor de evaluatie.
 
@@ -146,7 +170,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 5. De reis- en verblijfkosten die nodig zijn voor het afleggen van de bezoeken aan de landen komen ten laste van de begroting van het gedeeltelijke en uitgebreide Partiële Akkoord.
 
-#### Artikel 14. Evaluatierapporten
+##### Artikel 14. Evaluatierapporten
 
 1. Op basis van de verzamelde informatie stelt het team een voorlopig ontwerp-evaluatierapport op over het recht en de praktijk ten aanzien van de bepalingen die zijn geselecteerd voor de evaluatieronde.
 
@@ -154,7 +178,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 3. Het ontwerp-rapport wordt ingediend bij de GRECO.
 
-#### Artikel 15. Bespreking en aanneming van rapporten
+##### Artikel 15. Bespreking en aanneming van rapporten
 
 1. De GRECO bespreekt het door het team ingediende ontwerp-rapport in een plenaire vergadering.
 
@@ -168,7 +192,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 6. Het rapport van de GRECO kan aanbevelingen bevatten voor het lid dat de evaluatie ondergaat teneinde zijn nationale wetten en praktijk inzake de bestrijding van corruptie te verbeteren. De GRECO nodigt het lid uit te rapporteren over de maatregelen die zijn getroffen om deze aanbevelingen op te volgen.
 
-#### Artikel 16. Publieke verklaringen
+##### Artikel 16. Publieke verklaringen
 
 1. Het Statutair Comité kan een publieke verklaring uitgeven wanneer het van oordeel is dat een lid passief blijft of onvoldoende maatregelen treft met betrekking tot de hem gedane aanbevelingen ten aanzien van de toepassing van de Richtsnoeren.
 
@@ -176,7 +200,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 3. Het Statutair Comité informeert het betrokken lid en stelt het in de gelegenheid aanvullend commentaar in te dienen alvorens zijn besluit te bevestigen tot het uitgeven van een publieke verklaring zoals bedoeld in het eerste en/of tweede lid van dit artikel.
 
-#### Artikel 17. Financiële middelen van de GRECO
+##### Artikel 17. Financiële middelen van de GRECO
 
 1. De begroting van de GRECO wordt gefinancierd uit de jaarlijkse verplichte bijdragen van zijn leden.
 
@@ -188,7 +212,7 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 5. De vermogensbestanddelen van de GRECO worden verworven en beheerd namens de Raad van Europa en genieten als zodanig de voorrechten en immuniteiten die ingevolge bestaande verdragen van toepassing zijn op de vermogensbestanddelen van de Raad.
 
-#### Artikel 18. Statutair Comité
+##### Artikel 18. Statutair Comité
 
 1. Het Statutair Comité bestaat uit de vertegenwoordigers in het Comité van Ministers van de lidstaten van de Raad van Europa die tevens lid zijn van de GRECO en speciaal voor dat doel door de andere leden van de GRECO aangewezen vertegenwoordigers.
 
@@ -200,19 +224,19 @@ De Europese Gemeenschap kan door het Comité van Ministers worden uitgenodigd de
 
 5. Het Financieel Reglement van de Raad van Europa is van overeenkomstige toepassing op de aanneming en het beheer van de begroting.
 
-#### Artikel 19. Secretariaat
+##### Artikel 19. Secretariaat
 
 1. De GRECO wordt ondersteund door een Secretariaat dat beschikbaar wordt gesteld door de Secretaris-Generaal van de Raad van Europa.
 
 2. Het Secretariaat van de GRECO wordt geleid door een Uitvoerend Secretaris benoemd door de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 20. Wijzigingen
+##### Artikel 20. Wijzigingen
 
 1. De GRECO of elk van zijn leden kan aan het Statutair Comité wijzigingen voorstellen op dit Statuut.
 
 2. Het Statutair Comité kan wijzigingen van dit Statuut aannemen bij eenparig besluit. Indien de wijziging niet is voorgesteld door de GRECO, wordt deze geraadpleegd door het Statutair Comité.
 
-#### Artikel 21. Opzegging
+##### Artikel 21. Opzegging
 
 1. Behoudens de toepasselijke bepalingen van de internationale juridische instrumenten bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001505&artikel=2&z=2001-12-18&g=2001-12-18), kan elk lid zijn lidmaatschap van de GRECO opzeggen door middel van een verklaring van de minister van Buitenlandse Zaken of een diplomatiek vertegenwoordiger die daarvoor specifieke bevoegdheden worden verleend, gericht aan de Secretaris-Generaal van de Raad van Europa.
 

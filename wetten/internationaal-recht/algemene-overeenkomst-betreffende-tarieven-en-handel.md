@@ -1,13 +1,34 @@
 ---
 title: "Algemene Overeenkomst betreffende tarieven en handel"
 identifier: "BWBV0006316"
-categorie: "Internationaal recht"
-publicatiedatum: 1967-08-22
-laatste_update: 1967-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006316"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-08-22"
+last_updated: "1967-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006316"
+soort: "verdrag"
+stam_id: "10005162003"
+version_id: "10005527272"
+internal_id: "C10008551601"
+label_id: "10005145814"
+dtd_version: "2.0"
+original_entry_into_force: "1967-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006316/1967-08-22/0"
+intitule_bron: "Trb.1966-1"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1966-02-25"
+intitule_status: "nogniet"
+original_publication: "Trb.1966-1"
+original_published_date: "1966-02-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1966-1"
+entry_into_force_date: "1967-08-22"
+jci_1_3: "jci1.3:c:BWBV0006316&z=1967-08-22&g=1967-08-22"
+jci_1_0: "1.0:c:BWBV0006316&g=1967-08-22"
+citeertitel_status: "redactioneel"
+entry_into_force: "1967-08-22"
 ---
-
 # Algemene Overeenkomst betreffende tarieven en handel
 
 De Regeringen van het Gemenebest van Australië, het Koninkrijk België, de Verenigde Staten van Brazilië, Birma, Canada, Ceylon, de Republiek Chili, de Republiek China, de Republiek Cuba, de Tsjechoslowaakse Republiek, de Franse Republiek, India, Libanon, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, Nieuw-Zeeland, het Koninkrijk Noorwegen, Pakistan, Zuid-Rhodesia, Syrië, de Unie van Zuid-Afrika, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en de Verenigde Staten van Amerika;
@@ -22,7 +43,7 @@ De Engelse en Franse tekst van de Overeenkomst is oorspronkelijk gepubliceerd in
 
 ## DEEL I
 
-#### Artikel I. Algehele meestbegunstiging
+##### Artikel I. Algehele meestbegunstiging
 
 1. Ten aanzien van in- en uitvoerrechten en enigerlei heffingen terzake van of in verband met in- of uitvoer of terzake van de overmaking naar of uit het buitenland van gelden ter betaling van importen of exporten, alsmede ten aanzien van de wijze van heffing van zodanige rechten en heffingen en voorts ten aanzien van alle regels en formaliteiten nopens in- en uitvoer, alsmede ten aanzien van alle in de [leden 2 en 4 van artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=III&z=1967-08-22&g=1967-08-22) bedoelde aangelegenheden, zal elk voordeel, elke gunst, elk voorrecht of elke vrijstelling welke een der verdragsluitende partijen verleent aan enig produkt van oorsprong uit of bestemd voor enig ander land, terstond en onvoorwaardelijk worden verleend aan het overeenkomstige produkt van oorsprong uit of bestemd voor het grondgebied van alle andere verdragsluitende partijen.
 
@@ -46,7 +67,7 @@ De Engelse en Franse tekst van de Overeenkomst is oorspronkelijk gepubliceerd in
 
 Wat betreft de verdragsluitende partijen genoemd in [Bijlage G](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&bijlage=G&z=1967-08-22&g=1967-08-22), wordt de onder (a) en (b) van dit lid vermelde datum 10 april 1947 vervangen door de respectieve data welke in voormelde Bijlage zijn vermeld.
 
-#### Artikel II. Concessielijsten
+##### Artikel II. Concessielijsten
 
 - (a). Iedere verdragsluitende partij staat op het gebied van de handel aan de andere verdragsluitende partijen een behandeling toe, welke niet ongunstiger is dan die welke is voorzien in het desbetreffende gedeelte van de desbetreffende bij deze Overeenkomst gevoegde Lijst.
 
@@ -76,7 +97,7 @@ Wat betreft de verdragsluitende partijen genoemd in [Bijlage G](https://wetten.o
 
 ## DEEL II
 
-#### Artikel III. Nationale behandeling op het gebied van binnenlandse belastingen en regelingen
+##### Artikel III. Nationale behandeling op het gebied van binnenlandse belastingen en regelingen
 
 1. De verdragsluitende partijen erkennen, dat binnenlandse belastingen en andere binnenlandse heffingen, evenals wetten, verordeningen en voorschriften betreffende verkoop, aanbod ten verkoop, koop, vervoer, distributie of gebruik van produkten in het binnenland, en binnenlandse kwantitatieve regelingen welke menging, be- of verwerking of gebruik van produkten in bepaalde hoeveelheden of verhoudingen voorschrijven, niet mogen worden toegepast op geïmporteerde of binnenlandse produkten op zodanige wijze dat bescherming aan de binnenlandse produktie wordt verleend.
 
@@ -100,7 +121,7 @@ Wat betreft de verdragsluitende partijen genoemd in [Bijlage G](https://wetten.o
 
 10. De bepalingen van dit artikel beletten een verdragsluitende partij niet binnenlandse kwantitatieve regelingen die betrekking hebben op belichte cinematografische films en voldoen aan de bepalingen van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=IV&z=1967-08-22&g=1967-08-22), in te stellen of in stand te houden.
 
-#### Artikel IV. Bijzondere voorschriften nopens cinematografische films
+##### Artikel IV. Bijzondere voorschriften nopens cinematografische films
 
 Indien een verdragsluitende partij binnenlandse kwantitatieve regelingen nopens belichte cinematografische films instelt of in stand houdt, dienen deze regelingen de vorm te hebben van projectietijdcontingenten welke aan de volgende eisen moeten voldoen:
 
@@ -112,7 +133,7 @@ Indien een verdragsluitende partij binnenlandse kwantitatieve regelingen nopens 
 
 - (d). Projectietijd-contingenten kunnen door middel van onderhandelingen worden beperkt, geliberaliseerd of afgeschaft.
 
-#### Artikel V. Vrijheid van doorvoer
+##### Artikel V. Vrijheid van doorvoer
 
 1. Goederen (met inbegrip van bagage), alsmede schepen en andere vervoermiddelen, worden geacht zich in doorvoer door het grondgebied van een verdragsluitende partij te bevinden, wanneer de doortocht door dit grondgebied, al dan niet gepaard gaande met overlading, opslag, breking van de lading of verandering in de wijze van vervoer, deel uitmaakt van een volledige reis welke begint en eindigt buiten de landsgrenzen van de verdragsluitende partij over het grondgebied waarvan de doortocht plaatsvindt. Verkeer van deze aard wordt hierna in dit artikel „transitoverkeer” genoemd.
 
@@ -128,7 +149,7 @@ Indien een verdragsluitende partij binnenlandse kwantitatieve regelingen nopens 
 
 7. De bepalingen van dit artikel zijn niet van toepassing op de exploitatie van luchtvaartuigen in het doorvoerverkeer, doch wel op de doorvoer van goederen (met inbegrip van bagage) door de lucht.
 
-#### Artikel VI. Anti-dumping- en compenserende rechten
+##### Artikel VI. Anti-dumping- en compenserende rechten
 
 1. De verdragsluitende partijen erkennen dat dumping, waardoor produkten uit een land tegen een lagere dan hun normale prijs in een ander land aan de markt worden gebracht, moet worden veroordeeld, indien zulks aanmerkelijke schade toebrengt of dreigt toe te brengen aan een gevestigde industrie in het gebied van een verdragsluitende partij, dan wel de vestiging van een binnenlandse industrie aanmerkelijk vertraagt. Voor de toepassing van dit artikel moet een uit een land naar een ander land geëxporteerd produkt worden beschouwd als tegen een lagere dan de normale prijs op de markt van een importerend land te zijn gebracht, indien de prijs van dit produkt:
 
@@ -162,7 +183,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 - (b). dat het stelsel, door doelmatige regeling van de produktie of anderszins, zodanig werkt, dat het de uitvoer niet al te zeer stimuleert of op andere wijze de belangen van andere verdragsluitende partijen ernstig schaadt.
 
-#### Artikel VII. Bepaling van de belastbare in- en uitvoerwaarde
+##### Artikel VII. Bepaling van de belastbare in- en uitvoerwaarde
 
 1. De verdragsluitende partijen erkennen de deugdelijkheid van de algemene beginselen ter bepaling der belastbare in- en uitvoerwaarde, neergelegd in de volgende leden van dit artikel, en zij verbinden zich deze beginselen toe te passen ten aanzien van alle produkten welke bij in- of uitvoer zijn onderworpen aan douanerechten of andere heffingen of beperkingen welke op enige wijze zijn gebaseerd op of afhankelijk zijn van de waarde. Bovendien stellen zij op verzoek van een andere verdragsluitende partij in het licht van genoemde beginselen een onderzoek in naar de werking van hun wetten en regelingen terzake van de bepaling van de belastbare in- en uitvoerwaarde. De VERDRAGSLUITENDE PARTIJEN kunnen aan verdragsluitende partijen verzoeken verslag uit te brengen omtrent de door hen ingevolge de bepalingen van dit artikel genomen maatregelen.
 
@@ -184,7 +205,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 5. Vaststaande grondslagen en methoden dienen te worden aangewend voor de waardebepaling van produkten, onderworpen aan rechten of andere heffingen of beperkingen die op enigerlei wijze zijn gebaseerd op of afhankelijk zijn van de waarde, en hieraan dient voldoende bekendheid te worden gegeven teneinde de handelaren in staat te stellen de aan te geven waarde bij in- of uitvoer met een redelijke mate van zekerheid te schatten.
 
-#### Artikel VIII. Retributies en formaliteiten bij in- en uitvoer
+##### Artikel VIII. Retributies en formaliteiten bij in- en uitvoer
 
 - (a). Alle retributies en heffingen van welke aard ook (invoeren uitvoerrechten en de belastingen vallende onder [artikel III](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=III&z=1967-08-22&g=1967-08-22) uitgezonderd) die door verdragsluitende partijen bij of in verband met in- of uitvoer worden geheven, dienen beperkt te blijven tot de bij benadering vast te stellen waarde der verleende diensten en mogen geen indirecte bescherming van binnenlandse produkten noch een belasting voor fiscale doeleinden bij in- of uitvoer inhouden.
 
@@ -214,7 +235,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 - (h). quarantaine, sanitair onderzoek en ontsmetting.
 
-#### Artikel IX. Merken van oorsprong
+##### Artikel IX. Merken van oorsprong
 
 1. Elke verdragsluitende partij behandelt de produkten van het grondgebied van andere verdragsluitende partijen met betrekking tot merkingsvoorschriften niet ongunstiger dan de overeenkomstige produkten uit een derde land.
 
@@ -228,7 +249,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 6. De verdragsluitende partijen dienen samen te werken teneinde te voorkomen, dat handelsbenamingen worden gebruikt om een valse voorstelling te geven omtrent de ware oorsprong van een produkt, zulks tot schade van die specifieke gewestelijke of aardrijkskundige benamingen van voortbrengselen van het grondgebied van een verdragsluitende partij welke wettelijke bescherming genieten. Elke verdragsluitende partij dient haar volle en welwillende aandacht te schenken aan de tot haar gerichte verzoeken of vertogen van een andere verdragsluitende partij met betrekking tot de nakoming van de in de vorige zin genoemde verplichting ten aanzien van benamingen van produkten welke haar door de andere verdragsluitende partij zijn medegedeeld.
 
-#### Artikel X. Bekendmaking en uitvoering van handelsregelingen
+##### Artikel X. Bekendmaking en uitvoering van handelsregelingen
 
 1. Wetten, regelingen, rechterlijke beslissingen en administratieve uitspraken welke algemeen toepasselijk zijn, welke door een verdragsluitende partij worden uitgevoerd of ten uitvoer gelegd en welke betrekking hebben op de indeling of waardebepaling van produkten voor douanedoeleinden, op de hoogte van rechten, belastingen of andere heffingen, of op voorschriften, beperkingen of verboden terzake van in- of uitvoer of de overmaking van hiermede samenhangende betalingen of terzake van de verkoop, distributie, het vervoer, de verzekering, opslag, het onderzoek, de uitstalling, be- of verwerking, menging of ander gebruik daarvan, worden terstond bekendgemaakt teneinde de regeringen en handelaren in de gelegenheid te stellen daarvan kennis te nemen. Overeenkomsten welke de internationale handelspolitiek raken en van kracht zijn tussen de regering of een overheidsorgaan van een verdragsluitende partij en de regering of een overheidsorgaan van een andere verdragsluitende partij, worden eveneens bekendgemaakt. De bepalingen van dit lid verplichten een verdragsluitende partij niet tot bekendmaking van vertrouwelijke gegevens, waardoor de handhaving der wetten zou worden belemmerd, dan wel het openbare belang of de wettige handelsbelangen van bepaalde openbare of particuliere ondernemingen zouden worden geschaad.
 
@@ -240,7 +261,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 - (c). Het bepaalde sub (b) van dit lid vereist niet de opheffing of vervanging van procedures welke op de dag van het sluiten van deze Overeenkomst in het gebied van een verdragsluitende partij bestonden, zo deze in feite voorzien in een objectief en onpartijdig onderzoek van bestaande administratieve maatregelen, ook al zijn deze procedures niet volledig of formeel onafhankelijk van de organen belast met de administratieve uitvoering. Een verdragsluitende partij die van zulke procedures gebruik maakt verstrekt op verzoek de VERDRAGSLUITENDE PARTIJEN volledige gegevens dienaangaande, opdat deze kunnen beoordelen of de procedures al dan niet aan de sub (c) van dit lid gestelde eisen beantwoorden.
 
-#### Artikel XI. Algemene afschaffing van kwantitatieve beperkingen
+##### Artikel XI. Algemene afschaffing van kwantitatieve beperkingen
 
 1. Behalve rechten, belastingen of andere heffingen mag geen verdragsluitende partij enig verbod of enige beperking, toegepast hetzij door middel van contingenten of invoer- of uitvoervergunningen, hetzij door middel van andere maatregelen, opleggen of handhaven op de invoer van een produkt van oorsprong uit het grondgebied van een andere verdragsluitende partij of op de uitvoer of verkoop ten uitvoer van een produkt dat voor het grondgebied van een andere verdragsluitende partij is bestemd.
 
@@ -260,7 +281,7 @@ Van geval tot geval dient rekening te worden gehouden met verschillen in verkoop
 
 Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit lid beperkingen aan de invoer van enig produkt oplegt, dient de totale hoeveelheid of waarde van dit produkt welke gedurende een bepaalde toekomstige periode mag worden ingevoerd, alsmede enige verandering in deze hoeveelheid of waarde, ter algemene kennis te brengen. Bovendien mogen de krachtens dit lid, sub (i), toegepaste beperkingen de totale invoer niet doen verminderen in verhouding tot de totale binnenlandse produktie, zulks in vergelijking met de verhouding welke men redelijkerwijze tussen deze beide hoeveelheden bij afwezigheid van beperkingen zou kunnen verwachten. Bij vaststelling van deze verhouding houdt de verdragsluitende partij terdege rekening met de verhouding welke in een voorafgaande basisperiode bestond, zomede met alle bijzondere factoren welke van invloed kunnen zijn geweest of kunnen zijn op de handel in het betrokken produkt.
 
-#### Artikel XII. Beperkingen ter bescherming van de betalingsbalans
+##### Artikel XII. Beperkingen ter bescherming van de betalingsbalans
 
 1. Niettegenstaande het bepaalde in [lid 1 van artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XI&z=1967-08-22&g=1967-08-22) mag een verdragsluitende partij ter bescherming van haar buitenlandse financiële positie en haar betalingsbalans de hoeveelheid of de waarde van ten invoer toe te laten goederen beperken, behoudens de bepalingen in de volgende leden van dit artikel.
 
@@ -304,7 +325,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 5. Indien er voortdurend en op grote schaal krachtens dit artikel invoerbeperkingen worden toegepast, hetgeen duidt op een algehele verstoring van het evenwicht, waardoor de internationale handel wordt beperkt, openen de VERDRAGSLUITENDE PARTIJEN besprekingen teneinde te overwegen of er andere maatregelen zouden kunnen worden genomen – hetzij door die verdragsluitende partijen wier betalingsbalans onder druk staat, hetzij door die wier betalingsbalans de neiging heeft bijzonder gunstig te zijn, hetzij door een bevoegde intergouvernementele organisatie – om de oorzaken die aan de evenwichtsverstoring ten grondslag liggen, weg te nemen. Op uitnodiging van de VERDRAGSLUITENDE PARTIJEN nemen de verdragsluitende partijen deel aan dergelijke besprekingen.
 
-#### Artikel XIII. Non-discriminatoire toepassing van kwantitatieve beperkingen
+##### Artikel XIII. Non-discriminatoire toepassing van kwantitatieve beperkingen
 
 1. Geen verdragsluitende partij mag de invoer van enig produkt van oorsprong uit het grondgebied van een andere verdragsluitende partij of de uitvoer van enig produkt bestemd voor het grondgebied van een andere verdragsluitende partij verbieden of beperken, tenzij de invoer van het overeenkomstige produkt van oorsprong uit ieder derde land of de uitvoer daarvan naar ieder derde land eveneens is verboden of beperkt.
 
@@ -328,7 +349,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 5. De bepalingen van dit artikel zijn van toepassing op elk tariefcontingent dat door enige verdragsluitende partij wordt ingesteld of gehandhaafd, terwijl de beginselen van dit artikel, voor zover toepasselijk, zich eveneens uitstrekken tot uitvoerbeperkingen.
 
-#### Artikel XIV. Uitzonderingen op de regel van non-discriminatie
+##### Artikel XIV. Uitzonderingen op de regel van non-discriminatie
 
 1. Een verdragsluitende partij die krachtens [artikel XII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XII&z=1967-08-22&g=1967-08-22) of [sectie B van artikel XVIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XVIII&z=1967-08-22&g=1967-08-22) beperkingen toepast mag bij de toepassing dezer beperkingen op zodanige wijze afwijken van de bepalingen van [artikel XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XIII&z=1967-08-22&g=1967-08-22), dat de uitwerking gelijkwaardig is aan die der beperkingen welke deze verdragsluitende partij op dat tijdstip op betalingen en overmakingen bij lopende internationale transacties mag toepassen krachtens [artikel VIII](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=VIII) of [artikel XIV van de Overeenkomst betreffende het Internationale Monetaire Fonds](https://wetten.overheid.nl/jci1.3:c:BWBV0005521&artikel=XIV) of krachtens hiermede overeenkomende bepalingen van een ingevolge [lid 6 van artikel XV](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XV&z=1967-08-22&g=1967-08-22) aangegane speciale valuta-overeenkomst.
 
@@ -344,7 +365,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 - (b). krachtens de preferentiële regelingen bedoeld in [Bijlage A](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&bijlage=A&z=1967-08-22&g=1967-08-22) van deze Overeenkomst, in afwachting van het resultaat van de daarin genoemde onderhandelingen.
 
-#### Artikel XV. Valutaregelingen
+##### Artikel XV. Valutaregelingen
 
 1. De VERDRAGSLUITENDE PARTIJEN streven naar samenwerking met het Internationale Monetaire Fonds teneinde een gecoördineerd beleid te voeren ten aanzien van valuta-aangelegenheden behorende tot de competentie van het Fonds, alsmede ten aanzien van kwantitatieve beperkingen en andere handelsmaatregelen behorende tot de competentie van de VERDRAGSLUITENDE PARTIJEN.
 
@@ -370,7 +391,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 - (b). het gebruik maken door een verdragsluitende partij van beperkingen van of regelingen inzake in- en uitvoer met als enig doel, naast hetgeen is toegestaan bij de [artikelen XI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XI&z=1967-08-22&g=1967-08-22), [XII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XII&z=1967-08-22&g=1967-08-22), [XIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XIII&z=1967-08-22&g=1967-08-22) en [XIV](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XIV&z=1967-08-22&g=1967-08-22), de deviezenregelingen of -beperkingen doeltreffend te maken.
 
-#### Artikel XVI. Subsidies
+##### Artikel XVI. Subsidies
 
 1. Indien een verdragsluitende partij enige subsidie, daaronder begrepen elke vorm van bescherming van inkomen of steun aan prijzen, verleent of in stand houdt, welke rechtstreeks of middellijk vermeerdering van de uitvoer van een produkt uit haar gebied of vermindering van de invoer van een produkt in haar gebied ten gevolge heeft, geeft zij de VERDRAGSLUITENDE PARTIJEN schriftelijk kennis van de omvang en aard van de subsidiëring, van de vermoedelijke uitwerking hiervan op de hoeveelheid der betrokken in of uit te voeren goederen en van de omstandigheden die subsidiëring nodig maken. In alle gevallen waarin wordt vastgesteld, dat aan de belangen van een andere verdragsluitende partij door zulk een subsidiëring ernstig nadeel wordt of dreigt te worden berokkend, bespreekt de verdragsluitende partij die de subsidie verleent met de betrokken verdragsluitende partij of met de VERDRAGSLUITENDE PARTIJEN op verzoek de mogelijkheid van een beperking der subsidiëring.
 
@@ -382,7 +403,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 5. De VERDRAGSLUITENDE PARTIJEN onderwerpen de werking van de bepalingen van dit artikel van tijd tot tijd aan een onderzoek teneinde in het licht van de opgedane ervaringen vast te stellen of zij op doelmatige wijze bijdragen tot de verwezenlijking van de doelstellingen van deze Overeenkomst en daadwerkelijk verhinderen dat subsidies worden verleend die ernstige schade toebrengen aan de handel of de belangen van de verdragsluitende partijen.
 
-#### Artikel XVII. Staatshandelsondernemingen
+##### Artikel XVII. Staatshandelsondernemingen
 
 - (a). Elke verdragsluitende partij verbindt zich, voor het geval zij een staatsonderneming sticht of in stand houdt, waar deze ook gevestigd is, of aan enige onderneming rechtens of in feite uitsluitende of bijzondere rechten verleent, dat zulk een onderneming bij haar aankopen of verkopen welke invoer of uitvoer ten gevolge hebben, zal handelen naar de algemene beginselen van non-discriminatoire behandeling die in deze Overeenkomst is voorgeschreven ten aanzien van regeringsmaatregelen betreffende de invoer of uitvoer door particuliere handelaren.
 
@@ -402,7 +423,7 @@ Iedere verdragsluitende partij die overeenkomstig het bepaalde sub (c) van dit l
 
 - (d). De bepalingen van dit lid verplichten een verdragsluitende partij niet vertrouwelijke inlichtingen te verstrekken, waarvan de openbaarmaking de toepassing van de wet belemmert, met het algemeen belang in strijd is of schade toebrengt aan de rechtmatige handelsbelangen van particuliere ondernemingen.
 
-#### Artikel XVIII. Hulp van regeringswege ten bate van de economische ontwikkeling
+##### Artikel XVIII. Hulp van regeringswege ten bate van de economische ontwikkeling
 
 1. De verdragsluitende partijen erkennen, dat de verwezenlijking van de doelstellingen van deze Overeenkomst zal worden bevorderd door de toenemende ontwikkeling van hun economie, in het bijzonder van die verdragsluitende partijen wier economie de bevolking slechts een lage levensstandaard kan bieden en in het beginstadium van ontwikkeling verkeert.
 
@@ -480,7 +501,7 @@ De verdragsluitende partij die gebruik maakt van de bepalingen van deze sectie w
 
 23. Iedere maatregel toegepast krachtens deze sectie dient in overeenstemming te zijn met het bepaalde in lid 20 van dit artikel.
 
-#### Artikel XIX. Noodmaatregelen inzake de invoer van bepaalde produkten
+##### Artikel XIX. Noodmaatregelen inzake de invoer van bepaalde produkten
 
 - (a). Indien, ten gevolge van onvoorziene ontwikkelingen en op grond van de door een verdragsluitende partij krachtens deze Overeenkomst aangegane verplichtingen, met inbegrip van tariefconcessies, een produkt op het grondgebied van die verdragsluitende partij wordt ingevoerd in dermate toegenomen hoeveelheden en onder zodanige voorwaarden, dat ernstig nadeel wordt of dreigt te worden berokkend aan binnenlandse producenten op dat grondgebied van overeenkomstige of rechtstreeks concurrerende produkten, staat het die verdragsluitende partij vrij, ten aanzien van zulk een produkt en voor zover en zo lang zulks nodig mocht zijn, de verplichting geheel of gedeeltelijk op te schorten of de concessie in te trekken of te wijzigen, zulks teneinde een dergelijk nadeel te voorkomen of te verhelpen.
 
@@ -492,7 +513,7 @@ De verdragsluitende partij die gebruik maakt van de bepalingen van deze sectie w
 
 - (b). Onverminderd het bepaalde sub (a) van dit lid, staat het in gevallen waarin zonder voorafgaand overleg maatregelen krachtens lid 2 van dit artikel worden genomen, die op het grondgebied van een verdragsluitende partij ernstig nadeel berokkenen of dreigen te berokkenen aan de binnenlandse producenten wier produkten door deze maatregelen worden getroffen, deze verdragsluitende partij vrij, indien uitstel moeilijk te herstellen schade zou veroorzaken, terstond bij de inwerkingstelling van de maatregelen en tijdens de gehele duur van het overleg concessies of andere verplichtingen op te schorten, voor zover zulks nodig is om het nadeel te voorkomen of te verhelpen.
 
-#### Artikel XX. Algemene uitzonderingen
+##### Artikel XX. Algemene uitzonderingen
 
 Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toegepast, dat zij een middel vormen hetzij tot willekeurige of ongerechtvaardigde discriminatie tussen landen waar dezelfde omstandigheden heersen, hetzij tot een verkapte beperking van de internationale handel, wordt niets in deze Overeenkomst uitgelegd als een beletsel voor het nemen of toepassen door enige verdragsluitende partij van maatregelen:
 
@@ -516,7 +537,7 @@ Onder voorbehoud dat de hieronder bedoelde maatregelen niet zodanig worden toege
 
 - (j). onontbeerlijk tot het verkrijgen of distribueren van produkten waarvan een algemeen of plaatselijk tekort bestaat; nochtans dienen zulke maatregelen in overeenstemming te zijn met het beginsel, dat alle verdragsluitende partijen recht hebben op een billijk aandeel in de internationale voorziening in deze produkten, en dienen de maatregelen welke niet in overeenstemming zijn met de andere bepalingen van deze Overeenkomst ongedaan te worden gemaakt, zodra de omstandigheden welke hen in het leven hebben geroepen hebben opgehouden te bestaan. De VERDRAGSLUITENDE PARTIJEN bestuderen uiterlijk 30 juni 1960 de vraag of een verdere handhaving van het gedeelte sub (j) van dit lid noodzakelijk is.
 
-#### Artikel XXI. Uitzonderingen met betrekking tot de staatsveiligheid
+##### Artikel XXI. Uitzonderingen met betrekking tot de staatsveiligheid
 
 Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
@@ -532,13 +553,13 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 - (c). een verdragsluitende partij belet maatregelen te nemen tot handhaving van de internationale vrede en veiligheid ingevolge haar verplichtingen krachtens het [Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143).
 
-#### Artikel XXII. Overleg
+##### Artikel XXII. Overleg
 
 1. Elke verdragsluitende partij neemt de door een andere verdragsluitende partij eventueel te berde gebrachte bezwaren betreffende enige zaak welke de uitvoering van deze Overeenkomst raakt in welwillende overweging en dient voldoende gelegenheid te bieden tot overleg.
 
 2. De VERDRAGSLUITENDE PARTIJEN kunnen op verzoek van een verdragsluitende partij in overleg treden met een of meer verdragsluitende partijen betreffende enigerlei kwestie waarvoor een bevredigende oplossing door middel van het overleg bedoeld in lid 1 niet kon worden gevonden.
 
-#### Artikel XXIII. Bescherming van concessies en voordelen
+##### Artikel XXIII. Bescherming van concessies en voordelen
 
 1. Indien een verdragsluitende partij meent, dat enig voordeel hetwelk voor haar rechtstreeks of middellijk uit deze Overeenkomst voortvloeit wordt teniet gedaan of uitgehold of dat het bereiken van een in deze Overeenkomst gesteld doel wordt verhinderd doordat (a) een andere verdragsluitende partij in gebreke blijft haar verplichtingen krachtens deze Overeenkomst na te komen of (b) een andere verdragsluitende partij, al dan niet in strijd met de bepalingen van deze Overeenkomst, een maatregel toepast of (c) enige andere omstandigheid aanwezig is, mag die verdragsluitende partij, teneinde tot een bevredigende regeling van de zaak te komen, schriftelijk bezwaren of voorstellen indienen bij de andere verdragsluitende partij of partijen welke naar haar mening hierbij betrokken zijn. Elke verdragsluitende partij tot wie dergelijke bezwaren of voorstellen worden gericht, dient hieraan welwillende aandacht te schenken.
 
@@ -546,7 +567,7 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 ## DEEL III
 
-#### Artikel XXIV. Territoriale toepassing – grensverkeer – douane-unies en vrijhandelsgebieden
+##### Artikel XXIV. Territoriale toepassing – grensverkeer – douane-unies en vrijhandelsgebieden
 
 1. De bepalingen van deze Overeenkomst zijn van toepassing op het douanegebied van het moederland der verdragsluitende partijen en op ieder ander douanegebied ten aanzien waarvan deze Overeenkomst ingevolge [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXVI&z=1967-08-22&g=1967-08-22) is aanvaard of krachtens [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXXIII&z=1967-08-22&g=1967-08-22) of overeenkomstig het Protocol van voorlopige toepassing wordt toegepast. Elk van deze douanegebieden wordt uitsluitend voor de territoriale toepassing van deze Overeenkomst als verdragsluitende partij beschouwd, met dien verstande echter dat de bepalingen van dit lid niet worden uitgelegd als scheppende rechten of verplichtingen tussen twee of meer douanegebieden ten aanzien waarvan deze Overeenkomst door een enkele verdragsluitende partij ingevolge [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXVI&z=1967-08-22&g=1967-08-22) is aanvaard of krachtens artikel XXXIII of overeenkomstig het Protocol van voorlopige toepassing wordt toegepast.
 
@@ -594,7 +615,7 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 12. Elke verdragsluitende partij neemt alle redelijke binnen haar bereik liggende maatregelen teneinde de naleving van de bepalingen van deze Overeenkomst door de gewestelijke en plaatselijke besturen en autoriteiten binnen haar gebied te verzekeren.
 
-#### Artikel XXV. Gezamenlijk optreden van de verdragsluitende partijen
+##### Artikel XXV. Gezamenlijk optreden van de verdragsluitende partijen
 
 1. Er worden periodiek vergaderingen van vertegenwoordigers van de verdragsluitende partijen gehouden teneinde de uitvoering van die bepalingen van deze Overeenkomst welke een gezamenlijk optreden vereisen, te verzekeren en in het algemeen de toepassing van deze Overeenkomst te vergemakkelijken en de verwezenlijking van haar doeleinden te bevorderen. Overal waar in deze Overeenkomst sprake is van de gezamenlijk optredende verdragsluitende partijen worden deze aangeduid als de VERDRAGSLUITENDE PARTIJEN.
 
@@ -610,7 +631,7 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 - (ii). de maatstaven voorschrijven welke voor de toepassing van dit lid nodig kunnen zijn.
 
-#### Artikel XXVI. Aanvaarding, inwerkingtreding en registratie
+##### Artikel XXVI. Aanvaarding, inwerkingtreding en registratie
 
 1. De datum van deze Overeenkomst is 30 oktober 1947.
 
@@ -630,11 +651,11 @@ Geen enkele bepaling in deze Overeenkomst mag zodanig worden uitgelegd dat zij:
 
 7. De Verenigde Naties zijn gemachtigd deze Overeenkomst te registreren zodra zij in werking treedt.
 
-#### Artikel XXVII. Opschorting of intrekking van concessies
+##### Artikel XXVII. Opschorting of intrekking van concessies
 
 Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke is vermeld in de desbetreffende bij deze Overeenkomst gevoegde Lijst geheel of ten dele op te schorten of in te trekken, op grond van het feit dat een dergelijke concessie aanvankelijk werd overeengekomen met een regering die geen verdragsluitende partij is geworden of is opgehouden zulks te zijn. De verdragsluitende partij die zulk een maatregel neemt, is gehouden de VERDRAGSLUITENDE PARTIJEN daarvan in kennis te stellen en treedt, op daartoe gedaan verzoek, met verdragsluitende partijen die een aanmerkelijk belang bij het desbetreffende produkt hebben in overleg.
 
-#### Artikel XXVIII. Wijziging van de Lijsten
+##### Artikel XXVIII. Wijziging van de Lijsten
 
 1. Vanaf de eerste dag van ieder tijdvak van drie jaar, waarbij het eerste tijdvak aanvangt op 1 januari 1958, (of vanaf de eerste dag van ieder ander tijdvak dat de VERDRAGSLUITENDE PARTIJEN met twee derde der uitgebrachte stemmen vaststellen), mag een verdragsluitende partij (hierna in dit artikel te noemen „verzoekende verdragsluitende partij”) een concessie voorkomende in de desbetreffende bij deze Overeenkomst gevoegde Lijst wijzigen of intrekken, nadat zij in onderhandeling is getreden en overeenstemming heeft bereikt met de verdragsluitende partij met wie een dergelijke concessie aanvankelijk werd overeengekomen, zomede met iedere andere verdragsluitende partij die naar het oordeel van de VERDRAGSLUITENDE PARTIJEN de voornaamste leverancier is (deze twee categorieën verdragsluitende partijen worden, evenals de verzoekende verdragsluitende partij, hierna in dit artikel de „voornaamste belanghebbende verdragsluitende partijen” genoemd), en onder voorbehoud van overleg met iedere andere verdragsluitende partij die naar het oordeel van de VERDRAGSLUITENDE PARTIJEN een aanmerkelijk belang bij een dergelijke concessie heeft.
 
@@ -656,7 +677,7 @@ Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke i
 
 5. Een verdragsluitende partij kan vóór 1 januari 1958 en vóór de afloop van elk tijdvak bedoeld in lid 1 zich door kennisgeving aan de VERDRAGSLUITENDE PARTIJEN het recht voorbehouden om gedurende de volgende periode de desbetreffende Lijst te wijzigen overeenkomstig de in de leden 1 tot 3 voorgeschreven procedures. Indien een verdragsluitende partij zich dit recht voorbehoudt, hebben andere verdragsluitende partijen het recht om gedurende hetzelfde tijdvak en volgens dezelfde procedures concessies te wijzigen of in te trekken welke aanvankelijk werden overeengekomen met die verdragsluitende partij.
 
-#### Artikel XXVIIIbis. Tariefonderhandelingen
+##### Artikel XXVIIIbis. Tariefonderhandelingen
 
 1. De verdragsluitende partijen erkennen, dat invoerrechten dikwijls ernstige belemmeringen vormen voor de handel. Van groot belang voor de uitbreiding van de internationale handel zijn derhalve onderhandelingen op grondslag van wederkerigheid en wederzijds voordeel en gericht op aanmerkelijke verlaging van het algemene peil van de tarieven en van andere heffingen op in- en uitvoer en in het bijzonder op de verlaging van tarieven welke zo hoog zijn dat zij zelfs voor de invoer van minimale hoeveelheden een belemmering vormen, mits gevoerd met inachtneming van de doeleinden van deze Overeenkomst en de onderscheiden behoeften van de afzonderlijke verdragsluitende partijen. De VERDRAGSLUITENDE PARTIJEN kunnen daarom periodiek dergelijke onderhandelingen organiseren.
 
@@ -672,7 +693,7 @@ Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke i
 
 - (c). alle andere terzake dienende omstandigheden, met inbegrip van fiscale, ontwikkelings-, strategische en andere behoeften van de desbetreffende verdragsluitende partijen.
 
-#### Artikel XXIX. De verhouding van de onderhavige Overeenkomst tot het Handvest van Havana
+##### Artikel XXIX. De verhouding van de onderhavige Overeenkomst tot het Handvest van Havana
 
 1. De verdragsluitende partijen verplichten zich zover als hun uitvoerend gezag strekt de algemene beginselen van de Hoofdstukken I tot en met VI en van Hoofdstuk IX van het Handvest van Havana in acht te nemen, zulks in afwachting van hun aanvaarding van dit Handvest overeenkomstig hun grondwettelijke procedures.
 
@@ -686,31 +707,31 @@ Elke verdragsluitende partij staat het te allen tijde vrij een concessie welke i
 
 6. Verdragsluitende partijen die Lid van de Internationale Handelsorganisatie zijn beroepen zich niet op de bepalingen van deze Overeenkomst teneinde de werking van enige bepaling van het Handvest van Havana te verhinderen. De toepassing van het aan dit lid ten grondslag liggende beginsel op enige verdragsluitende partij die geen Lid van de Internationale Handelsorganisatie is, zal onderwerp uitmaken van een overeenkomst ingevolge lid 5 van dit artikel.
 
-#### Artikel XXX. Wijzigingen
+##### Artikel XXX. Wijzigingen
 
 1. Voor zover niet elders in deze Overeenkomst voorzieningen inzake wijziging zijn getroffen, worden wijzigingen in de bepalingen van Deel I van deze Overeenkomst of in die van [artikel XXIX](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXIX&z=1967-08-22&g=1967-08-22) of in die van dit artikel van kracht, zodra zij door alle verdragsluitende partijen zijn aanvaard, terwijl wijzigingen in andere bepalingen van deze Overeenkomst van kracht worden ten aanzien van die verdragsluitende partijen die ze aanvaarden, na aanvaarding door twee derde der verdragsluitende partijen en vervolgens ten aanzien van elke andere verdragsluitende partij, zodra deze de bedoelde wijzigingen aanvaardt.
 
 2. Elke verdragsluitende partij die een wijziging in deze Overeenkomst aanvaardt legt een akte van aanvaarding bij de Secretaris-Generaal der Verenigde Naties neder binnen een daartoe door de VERDRAGSLUITENDE PARTIJEN vast te stellen termijn. De VERDRAGSLUITENDE PARTIJEN kunnen bepalen dat een wijziging die ingevolge dit artikel van kracht wordt van zodanige aard is, dat een verdragsluitende partij die haar niet binnen een door de VERDRAGSLUITENDE PARTIJEN vastgestelde termijn heeft aanvaard, vrij zal zijn deze Overeenkomst op te zeggen of, met toestemming van de VERDRAGSLUITENDE PARTIJEN, verdragsluitende partij te blijven.
 
-#### Artikel XXXI. Opzegging
+##### Artikel XXXI. Opzegging
 
 Onverminderd het bepaalde in [artikel XVIII, lid 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XVIII&z=1967-08-22&g=1967-08-22), in [artikel XXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=II&artikel=XXIII&z=1967-08-22&g=1967-08-22) of in [artikel XXX, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXX&z=1967-08-22&g=1967-08-22), mag elke verdragsluitende partij deze Overeenkomst opzeggen of zulks afzonderlijk doen namens een of meer der afzonderlijke douanegebieden waarvoor zij internationale verantwoordelijkheid draagt en die op dat ogenblik volledige autonomie bezitten ten aanzien van hun buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden. De opzegging wordt van kracht zes maanden na de datum waarop de Secretaris-Generaal van de Verenigde Naties daarvan schriftelijk in kennis is gesteld.
 
-#### Artikel XXXII. Verdragsluitende partijen
+##### Artikel XXXII. Verdragsluitende partijen
 
 1. Onder verdragsluitende partijen bij deze Overeenkomst worden verstaan de regeringen die de bepalingen van deze Overeenkomst toepassen krachtens [artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXVI&z=1967-08-22&g=1967-08-22) of [artikel XXXIII](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXXIII&z=1967-08-22&g=1967-08-22) of overeenkomstig het Protocol van voorlopige toepassing.
 
 2. Te allen tijde nadat deze Overeenkomst ingevolge [lid 6 van artikel XXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=III&artikel=XXVI&z=1967-08-22&g=1967-08-22) in werking is getreden, mogen de verdragsluitende partijen die deze Overeenkomst ingevolge lid 4 van artikel XXVI hebben aanvaard, bepalen dat een verdragsluitende partij die haar niet op deze wijze heeft aanvaard zal ophouden verdragsluitende partij te zijn.
 
-#### Artikel XXXIII. Toetreding
+##### Artikel XXXIII. Toetreding
 
 Een regering die geen partij bij deze Overeenkomst is of een regering die handelt namens een afzonderlijk douanegebied dat volledige autonomie bezit ten aanzien van zijn buitenlandse handelsbetrekkingen en de andere bij deze Overeenkomst geregelde aangelegenheden kan tot deze Overeenkomst toetreden, hetzij voor zichzelf, hetzij namens dat gebied, op tussen deze regering en de VERDRAGSLUITENDE PARTIJEN overeen te komen voorwaarden. De VERDRAGSLUITENDE PARTIJEN nemen de beslissingen ingevolge dit lid bij een meerderheid van twee derde.
 
-#### Artikel XXXIV. Bijlagen
+##### Artikel XXXIV. Bijlagen
 
 De Bijlagen bij deze Overeenkomst vormen een integrerend deel daarvan.
 
-#### Artikel XXXV. Niet-toepassing van de Overeenkomst tussen bepaalde verdragsluitende partijen
+##### Artikel XXXV. Niet-toepassing van de Overeenkomst tussen bepaalde verdragsluitende partijen
 
 1. Deze Overeenkomst of [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=I&artikel=II&z=1967-08-22&g=1967-08-22) van deze Overeenkomst is niet van toepassing tussen een verdragsluitende partij en een andere verdragsluitende partij, indien:
 
@@ -722,7 +743,7 @@ De Bijlagen bij deze Overeenkomst vormen een integrerend deel daarvan.
 
 ## DEEL IV. Handel en ontwikkeling
 
-#### Artikel XXXVI. Beginselen en doelstellingen
+##### Artikel XXXVI. Beginselen en doelstellingen
 
 1. De verdragsluitende partijen,
 
@@ -756,7 +777,7 @@ zijn overeengekomen als volgt:
 
 9. De aanvaarding van maatregelen tot uitvoering van deze beginselen en doelstellingen dient door de verdragsluitende partijen, zowel individueel als gezamenlijk, doelbewust en vastbesloten te worden nagestreefd.
 
-#### Artikel XXXVII. Verplichtingen
+##### Artikel XXXVII. Verplichtingen
 
 1. De ontwikkelde verdragsluitende partijen geven zo veel mogelijk – tenzij hun dit om dwingende redenen, eventueel van juridische aard, onmogelijk is – uitvoering aan de volgende bepalingen:
 
@@ -792,7 +813,7 @@ zijn overeengekomen als volgt:
 
 5. Bij de uitvoering van de in de leden 1 tot en met 4 vervatte verplichtingen verleent iedere verdragsluitende partij iedere andere belanghebbende verdragsluitende partij of alle andere belanghebbende verdragsluitende partijen alle faciliteiten om overeenkomstig de gebruikelijke procedures van deze Overeenkomst overleg te plegen over elke zich voordoende kwestie of moeilijkheid.
 
-#### Artikel XXXVIII. Gezamenlijk optreden
+##### Artikel XXXVIII. Gezamenlijk optreden
 
 1. De gezamenlijk optredende verdragsluitende partijen werken in het kader van deze Overeenkomst alsook anderszins, naar gelang de omstandigheden, samen teneinde de in [artikel XXXVI](https://wetten.overheid.nl/jci1.3:c:BWBV0006316&deel=IV&artikel=XXXVI&z=1967-08-22&g=1967-08-22) neergelegde doelstellingen te bevorderen.
 

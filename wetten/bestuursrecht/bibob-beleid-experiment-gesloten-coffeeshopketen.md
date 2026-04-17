@@ -1,13 +1,39 @@
 ---
-title: "Bibob-beleid Experiment gesloten coffeeshopketen"
+title: "Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 1 maart 2020, kenmerk 1616044-199023-VGP, houdende de vaststelling van beleidsregels inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van het Experiment gesloten coffeeshopketen (Bibob-beleid Experiment gesloten coffeeshopketen)"
 identifier: "BWBR0043745"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-07-01
-laatste_update: 2020-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043745"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-07-01"
+last_updated: "2020-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043745"
+soort: "beleidsregel"
+stam_id: "15528823"
+version_id: "26828692"
+internal_id: "C38012381"
+label_id: "15471174"
+dtd_version: "2.0"
+original_entry_into_force: "2020-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043745/2020-07-01/0"
+intitule_bron: "Stcrt.2020-33133"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-03-01"
+intitule_published: "2020-06-22"
+intitule_in_force: "2020-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-33133"
+original_signed_date: "2020-03-01"
+original_published_date: "2020-06-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-33133"
+entry_into_force_date: "2020-07-01"
+jci_1_3: "jci1.3:c:BWBR0043745&z=2020-07-01&g=2020-07-01"
+jci_1_0: "1.0:c:BWBR0043745&g=2020-07-01"
+citeertitel_status: "officieel"
+short_title: "Bibob-beleid Experiment gesloten coffeeshopketen"
+signed_date: "2020-03-01"
+entry_into_force: "2020-07-01"
 ---
-
 # Besluit van de Minister voor Medische Zorg en de Minister van Justitie en Veiligheid van 1 maart 2020, kenmerk 1616044-199023-VGP, houdende de vaststelling van beleidsregels inzake het toepassen van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur in het kader van het Experiment gesloten coffeeshopketen (Bibob-beleid Experiment gesloten coffeeshopketen)
 
 Treedt in werking op het tijdstip dat de Wet experiment gesloten coffeeshopketen in werking treedt.

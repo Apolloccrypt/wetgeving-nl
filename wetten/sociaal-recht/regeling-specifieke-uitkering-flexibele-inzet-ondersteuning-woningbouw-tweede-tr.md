@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw tweede tranche"
+title: "Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 juli 2022, nr. 2022-0000353424, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (tweede tranche))"
 identifier: "BWBR0046948"
-categorie: "Sociaal recht"
-publicatiedatum: 2023-07-06
-laatste_update: 2023-07-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046948"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-06"
+last_updated: "2023-07-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046948"
+soort: "ministeriele-regeling"
+stam_id: "16428573"
+version_id: "28775582"
+internal_id: "C40734281"
+label_id: "16352634"
+dtd_version: "2.0"
+original_entry_into_force: "2022-07-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046948/2023-07-06/0"
+intitule_bron: "Stcrt.2022-18893"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-07-11"
+intitule_published: "2022-07-20"
+intitule_in_force: "2022-07-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-18893"
+original_signed_date: "2022-07-11"
+original_published_date: "2022-07-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-18893"
+entry_into_force_date: "2022-07-21"
+jci_1_3: "jci1.3:c:BWBR0046948&z=2023-07-06&g=2023-07-06"
+jci_1_0: "1.0:c:BWBR0046948&g=2023-07-06"
+citeertitel_status: "officieel"
+short_title: "Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw tweede tranche"
+signed_date: "2022-07-11"
+entry_into_force: "2022-07-21"
 ---
-
 # Regeling van de Minister voor Volkshuisvesting en Ruimtelijke Ordening van 11 juli 2022, nr. 2022-0000353424, houdende regels met betrekking tot het verstrekken van een specifieke uitkering ten behoeve van de financiering van capaciteitsondersteuning voor het voorkomen van vertragingen in de voorfase van de woningbouw (Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw (tweede tranche))
 
 Gelet op de [artikelen 17, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17) juncto [artikel 4:23, derde lid, onder a, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:23);
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 - c. **minister:** Minister voor Volkshuisvesting en Ruimtelijke Ordening.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkering aan de provincie voor de financiering van capaciteitsondersteuning in de gemeentelijke of provinciale organisatie of bij een waterschap ter bevordering van de snelheid van:
 
@@ -44,7 +70,7 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 - e. het opstellen van een bestemmingsplan en het doorlopen van de bijbehorende procedure.
 
-#### Artikel 3. Uitkeringsplafond
+##### Artikel 3. Uitkeringsplafond
 
 1. Het uitkeringsplafond voor aanvragen op grond van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) bedraagt in het kalenderjaar 2022 € 40.000.000.
 
@@ -106,7 +132,7 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 6. De specifieke uitkering wordt niet verstrekt voor BTW die is verschuldigd over kosten voor de activiteiten in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0046948&artikel=2&z=2023-07-06&g=2023-07-06) voor zover het bedrag van de BTW in aanmerking komt voor compensatie op grond van de [Wet op het BTW-compensatiefonds](https://wetten.overheid.nl/jci1.3:c:BWBR0013817).
 
-#### Artikel 4. De aanvraag
+##### Artikel 4. De aanvraag
 
 1. De aanvraag voor de uitkering van 2022 wordt schriftelijk ingediend vanaf 1 augustus 2022 tot en met 1 december 2022 door gedeputeerde staten bij de minister.
 
@@ -120,7 +146,7 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 4. De minister kan, in aanvulling op het gestelde in het derde lid, aanvullende bescheiden vragen voor het indienen van een aanvraag die hij nodig acht voor het beoordelen van de aanvraag of het monitoren van de effecten van deze regeling.
 
-#### Artikel 5. Verplichtingen
+##### Artikel 5. Verplichtingen
 
 1. De provincie besteedt de specifieke uitkering volledig uiterlijk op 31 december 2024 aan de activiteiten waarvoor deze is verstrekt.
 
@@ -134,13 +160,13 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 4. Aan een uitkering kunnen nadere verplichtingen worden verbonden.
 
-#### Artikel 6. Informatievoorziening na uitkering
+##### Artikel 6. Informatievoorziening na uitkering
 
 1. Gedeputeerde staten informeren de minister op verzoek over de voortgang van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
 2. Gedeputeerde staten verlenen op verzoek van de minister medewerking en verstrekken op verzoek van de minister informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van de activiteiten waarvoor de specifieke uitkering is verstrekt.
 
-#### Artikel 7. Verantwoording en terugvordering
+##### Artikel 7. Verantwoording en terugvordering
 
 1. Gedeputeerde staten leggen verantwoording af over de besteding van de specifieke uitkering op de wijze bepaald in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -148,11 +174,11 @@ De minister verstrekt op aanvraag van gedeputeerde staten een specifieke uitkeri
 
 3. Voor zover het de verantwoording, bedoeld in het eerste lid, betreft, worden de uitkeringsbeschikkingen voor 2022 en voor 2023 als één beschikking beschouwd.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling specifieke uitkering flexibele inzet ondersteuning woningbouw tweede tranche.
 

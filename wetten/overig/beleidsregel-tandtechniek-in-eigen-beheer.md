@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel tandtechniek in eigen beheer"
 identifier: "BWBR0051214"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051214"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051214"
+soort: "zbo"
+stam_id: "17467053"
+version_id: "30806202"
+internal_id: "C44152171"
+label_id: "17369344"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051214/2026-01-01/0"
+intitule_bron: "Stcrt.2025-23459"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-02"
+intitule_published: "2025-07-10"
+intitule_in_force: "2025-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-23459"
+original_signed_date: "2025-07-02"
+original_published_date: "2025-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-23459"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051214&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051214&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-02"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel tandtechniek in eigen beheer
 
 Gelet op [artikel 57, eerste lid, onderdelen b en c, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=57) (Wmg), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot het uitoefenen van de bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen.
 
 Gelet op [artikel 59, aanhef en onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59), heeft de Minister van Volksgezondheid, Welzijn en Sport (VWS) met de brief van 12 juli 2012, met [kenmerk MC-U-3122855](https://wetten.overheid.nl/jci1.3:c:BWBR0031816), ten behoeve van voorliggende beleidsregel een aanwijzing op grond van [artikel 7 van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7) aan de NZa gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -24,11 +49,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Kostprijs:** De netto kosten (na aftrek van eventuele kortingen) voor inkoop van materialen en/of technieken.
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om tarieven en prestatiebeschrijvingen vast te stellen op het gebied van tandtechniek in eigen beheer.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op tandtechniek in eigen beheer zoals omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450).
 
@@ -36,7 +61,7 @@ Voor zover geen sprake is van zorg als omschreven in de vorige zin, is deze bele
 
 Deze beleidsregel is tevens van toepassing op tandheelkundige zorg als omschreven bij of krachtens de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) (Wlz), die wordt geleverd door zorgaanbieders die tandheelkundige zorg als omschreven bij of krachtens de Wlz leveren aan patiënten die verblijven en behandeld worden in een Wlz-instelling
 
-#### Artikel 4. Prestaties tandtechniek in eigen beheer
+##### Artikel 4. Prestaties tandtechniek in eigen beheer
 
 De prestaties in deze beleidsregel zijn gebaseerd op de gangbare technieken van tandtechnische laboratoria op de vrije (ongereguleerde) markt. De prestaties tandtechniek zijn onderverdeeld in 10 hoofdgroepen.
 
@@ -626,7 +651,7 @@ Deze kunnen tegen kostprijs gedeclareerd worden
 | **Groep 9.9** | **Diverse materialen** |   |
 | Q9901 | Diverse materialen | Kostprijs |
 
-#### Artikel 5. Tarieven
+##### Artikel 5. Tarieven
 
 Voor alle prestaties zoals beschreven in de hoofdgroepen 0 tot en met 8 in deze beleidsregel geldt dat de NZa maximumtarieven vaststelt.
 
@@ -634,11 +659,11 @@ De tarieven in de hoofdgroepen 0 tot en met 8 vormen een representatieve afspieg
 
 De tarieven muteren jaarlijks met het mutatiepercentage. Het mutatiepercentage van het tarief is het procentuele verschil tussen de puntwaarde tandheelkundige zorg op voorcalculatorisch niveau jaar t en de puntwaarde tandheelkundige zorg op voorcalculatorisch niveau jaar t-1. Echter, voor de tarieven in 2026 geldt een uitzondering: omdat deze tarieven niet herijkt worden met het kostprijsonderzoek mondzorg, geldt dat de prestaties alleen worden geïndexeerd conform de Beleidsregel indexering.
 
-#### Artikel 6. Intrekken oude beleidsregel
+##### Artikel 6. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel tandtechniek in eigen beheer](https://wetten.overheid.nl/jci1.3:c:BWBR0050011), met kenmerk BR/REG-25114 ingetrokken.
 
-#### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 7. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding en citeertitel
 
 De [Beleidsregel tandtechniek in eigen beheer](https://wetten.overheid.nl/jci1.3:c:BWBR0050011), met kenmerk BR/REG-25114, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

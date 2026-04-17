@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Collectieprogramma’s 2017"
 identifier: "BWBR0038832"
-categorie: "Overig"
-publicatiedatum: 2025-04-11
-laatste_update: 2025-04-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038832"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-04-11"
+last_updated: "2025-04-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038832"
+soort: "zbo"
+stam_id: "13814343"
+version_id: "23701532"
+internal_id: "C34117331"
+label_id: "13780374"
+dtd_version: "2.0"
+original_entry_into_force: "2017-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038832/2025-04-11/0"
+intitule_bron: "Stcrt.2016-65482"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2016-12-07"
+intitule_in_force: "2016-12-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-65482"
+original_published_date: "2016-12-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-65482"
+entry_into_force_date: "2017-01-01"
+jci_1_3: "jci1.3:c:BWBR0038832&z=2025-04-11&g=2025-04-11"
+jci_1_0: "1.0:c:BWBR0038832&g=2025-04-11"
+citeertitel_status: "officieel"
+entry_into_force: "2017-01-01"
 ---
-
 # Deelregeling Collectieprogramma’s 2017
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie Nederland door het verstrekken van bijdragen voor structurele aankopen van beeldende kunst en/of vormgeving van na 1945 en/of opdrachten aan beeldend kunstenaars gericht op verwerving van een of meerdere werken voor de collectie.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een bijdrage kan worden toegekend aan een Nederlandse publiekstoegankelijke instelling die ingeschreven staat in het Museumregister en die museale collecties beheert waaronder een collectie moderne beeldende kunst en/of vormgeving van (inter-)nationaal belang of aan meerdere instellingen gezamenlijk welke aan deze criteria voldoen.
 
@@ -44,7 +66,7 @@ Het verhogen van de kwaliteit, de samenhang en de zichtbaarheid van de Collectie
 
 12. De aankopen maken duurzaam deel uit van de Collectie Nederland. Bij afstoten wordt het bepaalde in de Erfgoedwet en de Leidraad voor het Afstoten van Museale Objecten (LAMO) gevolgd en waar mogelijk het waardestellend kader van de Rijksdienst voor het Cultureel Erfgoed.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 Naast het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0038798), het aanvraagformulier en de toelichting daarop dient de aanvraag vergezeld te gaan van:
 
@@ -56,7 +78,7 @@ Naast het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3
 
 - •. indien de aanvraag een opdracht aan een kunstenaar bevat; een begroting met een reëel honorarium voor de kunstenaar.
 
-#### Artikel 4. Beoordeling
+##### Artikel 4. Beoordeling
 
 1. Het bestuur stelt selectierondes voor aanvragen voor collectieprogramma’s vast conform [artikel 4, eerste lid van het Algemeen Reglement van het Mondriaan Fonds](https://wetten.overheid.nl/jci1.3:c:BWBR0038798&artikel=4).
 
@@ -76,15 +98,15 @@ Naast het bepaalde in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3
 
 6. Het bestuur kan het bevoegde adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het tweede en, voor zover van toepassing, derde lid van dit artikel.
 
-#### Artikel 5. Overgangsbepaling
+##### Artikel 5. Overgangsbepaling
 
 De [Deelregeling Collectieprogramma’s](https://wetten.overheid.nl/jci1.3:c:BWBR0032694) wordt met ingang van 1 januari 2017 ingetrokken. Op aanvragen die op grond van de Deelregeling Collectieprogramma’s voor 1 januari 2017 zijn ingediend blijven deze regeling en het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0032717) van overeenkomstige toepassing.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2017. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2016, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2017.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Collectieprogramma’s 2017.
 

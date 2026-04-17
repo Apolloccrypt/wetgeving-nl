@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Europees Geneesmiddelenbureau betreffende de vestiging van het Europees Geneesmiddelenbureau"
 identifier: "BWBV0006741"
-categorie: "Internationaal recht"
-publicatiedatum: 2018-06-01
-laatste_update: 2018-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006741"
+country: "nl"
+rank: "verdrag"
+publication_date: "2018-06-01"
+last_updated: "2018-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006741"
+soort: "verdrag"
+stam_id: "10005443013"
+version_id: "10005895452"
+internal_id: "C10009406261"
+label_id: "10005425844"
+dtd_version: "2.0"
+original_entry_into_force: "2018-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006741/2018-06-01/0"
+intitule_bron: "Trb.2018-71"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2018-06-07"
+intitule_in_force: "2018-06-07"
+intitule_status: "goed"
+original_publication: "Trb.2018-71"
+original_published_date: "2018-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2018-71"
+entry_into_force_date: "2018-06-01"
+jci_1_3: "jci1.3:c:BWBV0006741&z=2018-06-01&g=2018-06-01"
+jci_1_0: "1.0:c:BWBV0006741&g=2018-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Europees Geneesmiddelenbureau betreffende de vestiging van het Europees Geneesmiddelenbureau
 
 The Kingdom of the Netherlands
@@ -30,7 +52,7 @@ Whereas further administrative provisions must be agreed for the implementation 
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 - a). “Agreement” means this Agreement between the Kingdom of the Netherlands and the European Medicines Agency on the hosting of the European Medicines Agency and any future amendments to the Agreement;
 
@@ -72,11 +94,11 @@ Have agreed as follows:
 
 - p). “Protocol” means [Protocol No 7 on the Privileges and Immunities of the European Union](onbekend) annexed to the [Treaty on the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001507), the [Treaty on the Functioning of the European Union](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) and the [Treaty establishing the European Atomic Energy Community](https://wetten.overheid.nl/jci1.3:c:BWBV0004033).
 
-#### Article 2. Object and Purpose
+##### Article 2. Object and Purpose
 
 This Agreement shall implement the [Protocol](onbekend) and regulate other matters relating to or arising out of the establishment and the proper and continuous functioning of the Agency in the host State. It shall, **inter alia**, create conditions conducive to the stability and independence of the Agency and facilitate its smooth and efficient functioning.
 
-#### Article 3. Legal status and legal personality
+##### Article 3. Legal status and legal personality
 
 According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have legal personality. The Agency shall possess in the host State the most extensive legal capacity accorded to legal persons under the laws of the host State. This shall, in particular, include the capacity:
 
@@ -90,7 +112,7 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 - e). to take other legal action in connection with its functions and purposes.
 
-#### Article 4. Premises
+##### Article 4. Premises
 
 1. The Agency shall have its seat in Amsterdam, the Netherlands.
 
@@ -106,7 +128,7 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 7. The Agency shall be exclusively entitled to display its emblem on the premises of the Agency and on its means of transport.
 
-#### Article 5. Application of the [Protocol](onbekend)
+##### Article 5. Application of the [Protocol](onbekend)
 
 1. The [Protocol](onbekend) shall apply to the Agency and the staff members.
 
@@ -114,7 +136,7 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 3. All references in the [Protocol](onbekend) to the European Union shall be understood as references to the Agency, for the purposes of this Agreement. All references in the Protocol to officials and other servants of the European Union should be understood as references to staff of the Agency, for the purposes of this Agreement.
 
-#### Article 6. Inviolability of the premises
+##### Article 6. Inviolability of the premises
 
 1. The premises shall be inviolable. They shall be exempt from search, requisition, confiscation, expropriation or any form of seizure. The competent authorities shall ensure that the Agency is not dispossessed and/or deprived of all or any part of its premises without its express consent.
 
@@ -132,7 +154,7 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 8. The Agency shall prevent its premises from being used as a refuge by persons who are avoiding arrest or the proper administration of justice under any law of the host State.
 
-#### Article 7. Security and protection of the premises and their vicinity
+##### Article 7. Security and protection of the premises and their vicinity
 
 1. The host State shall exercise due diligence to ensure that the security and tranquillity of the premises are not impaired by any person or group(s) of persons attempting unauthorized entry into or onto the premises or creating disturbances in the immediate vicinity. As may be required for this purpose, the host State shall provide adequate police protection on the boundaries and in the vicinity of the Agency premises.
 
@@ -140,13 +162,13 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 3. The Agency may appoint security guards and bodyguards to protect its premises, staff and visitors, in accordance with the laws and regulations of the host State.
 
-#### Article 8. Law and authority on the premises
+##### Article 8. Law and authority on the premises
 
 1. The premises shall be under the control and authority of the Agency as provided for in this Agreement.
 
 2. Except as otherwise provided in this Agreement and/or in the applicable European Union legal framework, the laws and regulations of the host State shall apply on the premises. The Agency shall promptly inform the host State of any newly adopted European Union regulations and rules which would apply to the premises.
 
-#### Article 9. Public services for the premises
+##### Article 9. Public services for the premises
 
 1. The competent authorities will take appropriate steps to ensure, upon the request of the Head of the Agency, or a staff member designated by him or her, on fair and equitable conditions, the public services needed by the Agency such as, but not limited to, postal, telephone, telegraphic services, any means of communication, electricity/energy, water, gas, sewage, collection of waste, fire protection, local transportation and cleaning of public streets, including snow removal.
 
@@ -158,17 +180,17 @@ According to Article 71 of Regulation (EC) No 726/2004, the Agency shall have le
 
 5. Underground constructions may be undertaken by the competent authorities on the premises only after consultation with the Head of the Agency, or a staff member designated by him or her, and under conditions which shall not disturb the carrying out of the functions of the Agency.
 
-#### Article 10. Official Communications
+##### Article 10. Official Communications
 
 1. The host State shall permit and protect unrestricted official communication related to the operation of the Agency.
 
 2. The official communications and transmission of all the documents related to the operation of the Agency shall be treated in a manner equivalent to that accorded by the host State to diplomatic missions.
 
-#### Article 11. Absence of restrictions for financial assets
+##### Article 11. Absence of restrictions for financial assets
 
 The Agency may purchase, receive, convert and hold any kind of funds, currency, cash or securities. It may use or dispose of them freely for any official activity and hold accounts in any currency to the extent required to meet its obligations, in accordance with the applicable EU legislation.
 
-#### Article 12. Funds, assets, and other property
+##### Article 12. Funds, assets, and other property
 
 1. The Agency, its funds, assets and other property of the Agency, wherever located and by whomsoever held, shall enjoy immunity from every form of legal proceedings in the host State.
 
@@ -178,7 +200,7 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 4. To the extent necessary to carry out the functions of the Agency, funds, assets and other property of the Agency, wherever located and by whomsoever held, shall be exempt from restrictions, regulations, control or moratoria of any nature, except as provided for in this Agreement.
 
-#### Article 13. Fiscal and Customs treatment of the Agency
+##### Article 13. Fiscal and Customs treatment of the Agency
 
 1. Within the scope of its official activities, the Agency, its assets, income and other property shall be exempt from all direct taxes, whether levied by national, provincial or local authorities.
 
@@ -210,13 +232,13 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 6. The Agency shall not claim exemption from taxes which are, in fact, no more than charges for public utility services established according to the amount of services rendered and which can be specifically identified, described and itemised.
 
-#### Article 14. Exemption from import and export restrictions
+##### Article 14. Exemption from import and export restrictions
 
 1. The Agency shall be exempt from all customs duties, prohibitions and restrictions on imports and exports in respect of goods and publications intended for its official use.
 
 2. Goods so imported shall not be sold, loaned or donated, whether or not in return for payment, in the host State, except under conditions approved by the host State.
 
-#### Article 15. Entry, stay and departure
+##### Article 15. Entry, stay and departure
 
 1. Without prejudice to the applicable rules of the European Union with regard to citizens of a Member State of the European Union, the European Economic Area, or Switzerland or their family members and upon request of the Agency the host State shall facilitate the entry, stay, and departure from its territory for purposes of official business of the persons listed below:
 
@@ -244,7 +266,7 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 6. All aforementioned persons who are entitled to privileges and immunities shall enjoy them from the moment they enter the territory of the host State to take up their posts or to undertake official activities or to accompany staff, as members of their household, and shall come to an end within eight days after the expiry or termination of their contracts of employment or completion of their Agency-related duties.
 
-#### Article 16. Privileges, immunities, and facilities of members of Management Board and of other organs of the Agency
+##### Article 16. Privileges, immunities, and facilities of members of Management Board and of other organs of the Agency
 
 1. Without prejudice to the [Protocol](onbekend), the officially appointed members of the Agency’s Management Board and of the other organs referred to in [Article 15, paragraph 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006741&artikel=15&z=2018-06-01&g=2018-06-01), of this Agreement, shall enjoy the following privileges, immunities, exemptions and facilities as are necessary for the independent performance of their functions:
 
@@ -264,7 +286,7 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 2. Persons covered by this Article shall not be subjected by the host State to any measure which may affect the free and independent performance of their official functions.
 
-#### Article 17. Privileges, immunities and facilities of staff members of the Agency
+##### Article 17. Privileges, immunities and facilities of staff members of the Agency
 
 1. In accordance with the provisions of the [Protocol](onbekend), staff members of the Agency, irrespective of their nationality and/or sex, shall enjoy the following privileges, immunities, exemptions and facilities, which are necessary for the independent performance of their functions:
 
@@ -298,21 +320,21 @@ The Agency may purchase, receive, convert and hold any kind of funds, currency, 
 
 6. Notwithstanding the provisions of paragraph 1 of this Article, staff members or members of their household, who are nationals or permanent residents of the host State, shall not enjoy the privileges and immunities set out in paragraphs 2, 3 and 4 of this Article.
 
-#### Article 18. Seconded national experts
+##### Article 18. Seconded national experts
 
 1. Any emoluments, allowances and other payments that are paid by the Agency to the seconded national experts shall be exempt from taxation in the host State.
 
 2. Seconded national experts shall be accorded immunity from legal proceedings in respect of words spoken or written and all acts performed by them in their official capacity for the Agency. This immunity shall continue after the cessation of their assignment.
 
-#### Article 19. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
+##### Article 19. Personnel recruited locally and not otherwise covered by this Agreement, including such personnel assigned to hourly rates
 
 Personnel recruited locally and assigned to hourly rates by the Agency (“interim workers”) and not otherwise covered by this Agreement shall be accorded immunity from legal proceedings in respect of words spoken or written and all acts performed by them in their official capacity for the Agency. This immunity shall continue after the cessation of their assignment.
 
-#### Article 20. Representatives of Member States taking part in the work of the Agency
+##### Article 20. Representatives of Member States taking part in the work of the Agency
 
 Representatives of Member States taking part in the work of the Agency, the advisers and technical experts forming part of their delegations shall in the performance of their duties and during their travel to and from the place of meeting, enjoy the customary privileges, immunities and facilities.
 
-#### Article 21. Social security
+##### Article 21. Social security
 
 1. Staff members of the Agency and members of the household are covered by the EU social security system, the Staff Regulations and CEOS and consequently shall be exempt from compulsory social security contributions in the host State. This exemption applies to members of the household unless they take up gainful activity in the host State outside the Agency.
 
@@ -320,7 +342,7 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 3. The Agency shall be exempt from any compulsory contributions to social security schemes in the host State for staff members, members of their household and seconded national experts.
 
-#### Article 22. Notification and Identification Cards
+##### Article 22. Notification and Identification Cards
 
 1. The Agency shall promptly, but within eight (8) working days, notify the Ministry of Foreign Affairs of:
 
@@ -370,7 +392,7 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 8. At the final departure of the persons referred to in paragraph 1 of this Article or when these persons have ceased to perform their functions, the identity card referred to in paragraph 6 and 7 of this Article shall be returned promptly, and no later than within fifteen (15) days, by the Agency to the Ministry of Foreign Affairs. In case persons who have ceased to perform their functions are not able to return the identity card referred to in paragraph 6 and 7 of this Article within the specified time period, the Ministry of Foreign Affairs shall be consulted immediately.
 
-#### Article 23. Employment of members of the household of staff members of the Agency
+##### Article 23. Employment of members of the household of staff members of the Agency
 
 1. Without prejudice to the applicable rules of the European Union with regard to citizens of a Member State of the European Union, the European Economic Area, or Switzerland or their family members, members of the household of a staff member of the Agency, irrespective of nationality and/or sex, shall be authorized to engage in gainful employment in the host State for the duration of the term of office of the staff member concerned.
 
@@ -380,7 +402,7 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 4. The employment referred to in paragraph 1 of this Article shall be in accordance with the legislation of the host State, including fiscal and social security legislation.
 
-#### Article 24. Waiver of immunities
+##### Article 24. Waiver of immunities
 
 1. Without prejudice to the [Protocol](onbekend), the privileges and immunities granted in this Agreement are conferred solely in the interest of the Agency, and not for the personal benefit of the individuals themselves.
 
@@ -388,17 +410,17 @@ Representatives of Member States taking part in the work of the Agency, the advi
 
 3. In respect of the Head of the Agency, the Management Board of the Agency shall not refuse to waive his or her immunity wherever the Management Board considers that the waiver of such immunity is not contrary to the interests of the Agency.
 
-#### Article 25. Communication
+##### Article 25. Communication
 
 1. All communication in relation to the Agreement shall be done in writing between authorised representatives of the Parties.
 
 2. The Parties shall designate and inform each other of their respective appropriate contact points responsible for the implementation of the Agreement.
 
-#### Article 26. Applicable law
+##### Article 26. Applicable law
 
 European Union law applies to the Agreement supplemented by the national law of the host State where there are no relevant provisions of European Union law.
 
-#### Article 27. Settlement of disputes
+##### Article 27. Settlement of disputes
 
 1. All disputes relating to the interpretation or application of the Agreement shall, where possible, be settled amicably by direct negotiations between the Parties.
 
@@ -406,15 +428,15 @@ European Union law applies to the Agreement supplemented by the national law of 
 
 3. In the event of failure to settle a dispute in accordance with the procedure set out in the previous paragraphs, each Party may refer the dispute to the Court of Justice of the European Union, having given the other Party two month notice in advance of its intention of referring the matter to the Court.
 
-#### Article 28. Application
+##### Article 28. Application
 
 With respect to the Kingdom of the Netherlands, this Agreement shall apply to the part of the Kingdom in Europe only.
 
-#### Article 29. Amendments
+##### Article 29. Amendments
 
 This Agreement may be amended by mutual written consent by the Parties.
 
-#### Article 30. Entry into force and termination
+##### Article 30. Entry into force and termination
 
 1. The Agreement shall enter into force on the date of its signature by the Parties.
 

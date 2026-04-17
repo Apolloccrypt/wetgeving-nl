@@ -1,13 +1,38 @@
 ---
 title: "Prestatie- en tariefbeschikking medisch-specialistische zorg 2019"
 identifier: "BWBR0041394"
-categorie: "Sociaal recht"
-publicatiedatum: 2019-01-01
-laatste_update: 2019-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041394"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-01-01"
+last_updated: "2019-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041394"
+soort: "zbo"
+stam_id: "14819023"
+version_id: "25337572"
+internal_id: "C36184191"
+label_id: "14771004"
+dtd_version: "2.0"
+original_entry_into_force: "2019-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041394/2019-01-01/0"
+intitule_bron: "Stcrt.2018-54017"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-11"
+intitule_published: "2018-09-27"
+intitule_in_force: "2018-09-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-54017"
+original_signed_date: "2018-09-11"
+original_published_date: "2018-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-54017"
+entry_into_force_date: "2019-01-01"
+jci_1_3: "jci1.3:c:BWBR0041394&z=2019-01-01&g=2019-01-01"
+jci_1_0: "1.0:c:BWBR0041394&g=2019-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2018-09-11"
+entry_into_force: "2019-01-01"
 ---
-
 # Prestatie- en tariefbeschikking medisch-specialistische zorg 2019
 
 De Nederlandse Zorgautoriteit heeft met inachtneming van [Hoofdstuk 4, paragrafen 4.2 en 4.4, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&hoofdstuk=4) (Wmg),

@@ -1,13 +1,37 @@
 ---
 title: "Tijdelijke woonzorgstimuleringsregeling"
 identifier: "BWBR0011625"
-categorie: "Sociaal recht"
-publicatiedatum: 2000-09-11
-laatste_update: 2000-09-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011625"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-09-11"
+last_updated: "2000-09-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011625"
+soort: "circulaire"
+stam_id: "6356683"
+version_id: "11014072"
+internal_id: "C14908361"
+label_id: "6345584"
+original_entry_into_force: "2000-09-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011625/2000-09-11/0"
+intitule_bron: "Stcrt.2000-175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-11"
+intitule_published: "2000-09-11"
+intitule_in_force: "2000-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-175"
+original_signed_date: "2000-09-11"
+original_published_date: "2000-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-175-p13-SC25543"
+entry_into_force_date: "2000-09-11"
+jci_1_3: "jci1.3:c:BWBR0011625&z=2000-09-11&g=2000-09-11"
+jci_1_0: "1.0:c:BWBR0011625&g=2000-09-11"
+citeertitel_status: "redactioneel"
+signed_date: "2000-09-11"
+entry_into_force: "2000-09-11"
 ---
-
 # Tijdelijke woonzorgstimuleringsregeling
 
 Geacht college/bestuur,

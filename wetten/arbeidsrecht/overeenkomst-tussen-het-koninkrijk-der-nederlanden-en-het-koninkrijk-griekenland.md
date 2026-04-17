@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland betreffende de aanwerving, de plaatsing en de tewerkstelling in Nederland van arbeidskrachten"
 identifier: "BWBV0004588"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1966-09-13
-laatste_update: 1966-09-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004588"
+country: "nl"
+rank: "verdrag"
+publication_date: "1966-09-13"
+last_updated: "1966-09-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004588"
+soort: "verdrag"
+stam_id: "10004206433"
+version_id: "10004383602"
+internal_id: "C10008336001"
+label_id: "10004191824"
+dtd_version: "2.0"
+original_entry_into_force: "1966-09-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004588/1966-09-13/0"
+intitule_bron: "Trb.1967-24"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1967-05-10"
+intitule_in_force: "1967-05-10"
+intitule_status: "goed"
+original_publication: "Trb.1967-24"
+original_published_date: "1967-05-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1967-24"
+entry_into_force_date: "1966-09-13"
+jci_1_3: "jci1.3:c:BWBV0004588&z=1966-09-13&g=1966-09-13"
+jci_1_0: "1.0:c:BWBV0004588&g=1966-09-13"
+citeertitel_status: "redactioneel"
+entry_into_force: "1966-09-13"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Griekenland betreffende de aanwerving, de plaatsing en de tewerkstelling in Nederland van arbeidskrachten
 
 Gezien de vriendschappelijke betrekkingen die tussen beide landen bestaan, alsmede hun beider behoeften op het gebied van de arbeidsvoorziening,
@@ -20,7 +42,7 @@ Zijn als volgt overeengekomen:
 
 #### Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Terzake van de aanwerving, de plaatsing en de tewerkstelling in Nederland van Griekse arbeidskrachten zijn bevoegd:
 
@@ -28,13 +50,13 @@ aan Griekse zijde, het Directoraat-Generaal van de Arbeid van het Ministerie van
 
 aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie van Sociale Zaken en Volksgezondheid (hierna te noemen „de Directie”).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Opdat de bevoegde Griekse autoriteiten tijdig de nodige voorzieningen kunnen treffen en aan de aanvragen kunnen voldoen, verstrekt de Directie ten minste eens in de zes maanden aan het Directoraat-Generaal inlichtingen over de geraamde behoeften van het Nederlandse bedrijfsleven aan Griekse arbeidskrachten, gerangschikt naar takken van economische bedrijvigheid, naar bedrijfsklassen en naar beroepen.
 
 2. Het Directoraat-Generaal doet de Directie zo spoedig mogelijk weten in hoeverre het beschikbare aanbod van arbeidskrachten de vraag kan dekken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Directie verstrekt aan het Directoraat-Generaal alle inlichtingen over de loon- en arbeidsvoorwaarden in het algemeen en over de levensomstandigheden, die kunnen strekken tot voorlichting aan de betrokken arbeidskrachten.
 
@@ -44,7 +66,7 @@ aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie
 
 #### Aanwerving en bemiddeling
 
-#### Artikel 4
+##### Artikel 4
 
 1. Rekening houdende met de overeenkomstig artikel 2 verstrekte gegevens geeft de Directie het Directoraat-Generaal kennis van de aanbiedingen van werk der Nederlandse werkgevers.
 
@@ -52,7 +74,7 @@ aan Nederlandse zijde, de Directie voor de Arbeidsvoorziening van het Ministerie
 
 3. Indien een aanbieding van werk gunstig wordt ontvangen, treft het Directoraat-Generaal de nodige maatregelen om aan die aanbieding van werk met spoed bekendheid te geven, met de voor de betrokken arbeidskrachten van belang zijnde gegevens en inlichtingen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Directie bepaalt de leeftijdsgrenzen voor de Griekse arbeidskrachten die voor tewerkstelling in Nederland kunnen worden aangeworven.
 
@@ -60,7 +82,7 @@ Deze leeftijdsgrenzen kunnen in onderling overleg worden gewijzigd voor op naam 
 
 De minimumleeftijd mag evenwel niet lager dan 18 jaar zijn.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Kandidaten die zich voor tewerkstelling in Nederland aanbieden worden door het Directoraat-Generaal onderworpen aan een onderzoek naar hun algemene gezondheidstoestand en hun vakbekwaamheid, terwijl eveneens wordt nagegaan of zij voldoen aan de door de Directie gestelde bijzondere voorwaarden.
 
@@ -72,25 +94,25 @@ De minimumleeftijd mag evenwel niet lager dan 18 jaar zijn.
 
 Een kandidaat die niet in het bezit is van een geldig paspoort wordt niet op deze lijst gezet.
 
-#### Artikel 7
+##### Artikel 7
 
 De Directie kan een delegatie naar Griekenland zenden die is belast met de eindselectie van de door het Directoraat-Generaal voorgedragen kandidaten. Deze delegatie werkt samen met de bevoegde Griekse autoriteiten, die de delegatie ter zijde staan bij de uitoefening van haar taak.
 
-#### Artikel 8
+##### Artikel 8
 
 De Directie doet het Directoraat-Generaal zo spoedig mogelijk een lijst van definitief aanvaarde kandidaten toekomen, alsmede een lijst van niet-aanvaarde kandidaten.
 
-#### Artikel 9
+##### Artikel 9
 
 Voor iedere arbeider die definitief voor tewerkstelling in aanmerking komt, zendt de Directie aan het Directoraat-Generaal een arbeidsovereenkomst in drievoud, geldig voor een jaar, ondertekend door de werkgever en gesteld in de Nederlandse en de Griekse taal, overeenkomstig een in onderling overleg vastgesteld model. De arbeidsovereenkomst dient door de arbeider, voor zijn vertrek uit Griekenland, te worden ondertekend en wordt door het Directoraat-Generaal voor gezien getekend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Om de voordelen deelachtig te kunnen worden die de Nederlandse wetgeving toekent aan arbeiders die een gezin hebben, dient de Griekse arbeider in het bezit te zijn van een officiële verklaring nopens zijn burgerlijke staat en van een document waarin de, volgens de Griekse wet, te zijnen laste komende familieleden staan vermeld.
 
 2. Aan het Nederlandse consulaire visum dat op het Griekse pasport wordt gesteld, zijn geen kosten verbonden.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Het Directoraat-Generaal draagt er zorg voor dat de aangeworven arbeidskrachten aanwezig zijn op de met de Directie overeengekomen data en plaatsen van vertrek naar Nederland.
 
@@ -126,19 +148,19 @@ De kosten van de overeenkomstig artikel 6 verrichte voorselectie komen ten laste
 
 5. Alle in dit artikel bedoelde kosten van de Nederlandse Partij komen ten laste van de werkgevers, die zich moeten verbinden tot terugbetaling daarvan aan de Directie.
 
-#### Artikel 12
+##### Artikel 12
 
 Op de kortst mogelijke termijn wordt tussen de bevoegde diensten een administratieve regeling getroffen ter regeling van de dekking van de aan het reizen van de Griekse arbeidskrachten verbonden risico's.
 
 De hierop betrekking hebbende verzekeringspremie komt ten laste van de werkgevers.
 
-#### Artikel 13
+##### Artikel 13
 
 Ingeval Nederlandse werkgevers zouden verzoeken bepaalde met name genoemde Griekse arbeidskrachten aan te werven uit hoofde van tussen hen bestaande persoonlijke betrekkingen, wordt dezelfde procedure van selectie en aanwerving toegepast als omschreven in deze Overeenkomst.
 
 In overeenstemming tussen het Directoraat-Generaal en de Directie kan de selectie- en aanwervingsprocedure worden vereenvoudigd.
 
-#### Artikel 14
+##### Artikel 14
 
 De Nederlandse werkgevers kunnen bij de Nederlandse arbeidsbureaus het oordeel van de Directie of van de Delegatie inzake de arbeidsgeschiktheid van een arbeider slechts weigeren te aanvaarden in het geval waarin zijn ongeschiktheid bij de uitoefening van zijn werk onmiskenbaar is gebleken.
 
@@ -146,7 +168,7 @@ In dat geval beijveren de Nederlandse arbeidsbureaus zich de betrokkenen een met
 
 #### Algemene arbeidsvoorwaarden
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Griekse arbeidskrachten worden, wat loon en arbeidsvoorwaarden betreft, in Nederland op dezelfde voorwaarden tewerkgesteld als die welke voor de Nederlandse arbeidskrachten gelden, en wel volgens wettelijke bepalingen, collectieve arbeidsovereenkomsten, beroepsgebruiken en plaatselijke gewoonten.
 
@@ -156,11 +178,11 @@ In dat geval beijveren de Nederlandse arbeidsbureaus zich de betrokkenen een met
 
 4. Bij arbeidsgeschillen kunnen de Griekse arbeidskrachten bovendien een beroep doen op de bevoegde administratieve of gerechtelijke autoriteiten in Nederland en wel onder dezelfde voorwaarden als die welke voor Nederlanders gelden.
 
-#### Artikel 16
+##### Artikel 16
 
 De Griekse arbeidskrachten kunnen het totale bedrag van hun spaargelden naar Griekenland overmaken overeenkomstig de in Nederland geldende regelingen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De bevoegde Nederlandse autoriteiten en de Nederlandse werkgevers verschaffen de Griekse arbeidskrachten alle noodzakelijke hulp om hen vertrouwd te maken met de nieuwe omgeving waarin zij zich bevinden, vooral in de beginperiode van hun tewerkstelling.
 
@@ -170,7 +192,7 @@ De samenwerking tussen de hierboven genoemde Griekse en Nederlandse organisaties
 
 3. Ingevolge een tussen de beide Regeringen gesloten overeenkomst kan het Directoraat-Generaal in Nederland een Griekse Commissie vestigen. Deze Commissie werkt samen met de bevoegde Nederlandse autoriteiten die haar bij de uitoefening van haar taak ter zijde zullen staan.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Na beëindiging van de arbeidsovereenkomst keert de arbeider naar Griekenland terug, tenzij de arbeidsovereenkomst wordt verlengd of hij met goedkeuring van de Nederlandse autoriteiten een andere betrekking aanvaardt.
 
@@ -178,17 +200,17 @@ De samenwerking tussen de hierboven genoemde Griekse en Nederlandse organisaties
 
 3. Indien de arbeidsovereenkomst na een tewerkstelling van twaalf maanden wordt verlengd, neemt de werkgever, indien de arbeider zijn vakantie in Griekenland wenst door te brengen, de kosten van de heen- en terugreis voor zijn rekening. Bij volgende verlengingen van de arbeidsovereenkomst is de werkgever hiertoe niet verplicht.
 
-#### Artikel 19
+##### Artikel 19
 
 De bevoegde Nederlandse autoriteiten geven het Koninklijk Grieks Consulaat kennis van elk arbeidsongeval dat een Griekse arbeider is overkomen, evenals van de beslissingen bedoeld in artikel 18, tweede lid.
 
 Indien er een Grieke Commissie is ingesteld, worden de hierboven bedoelde kennisgevingen aan haar gericht.
 
-#### Artikel 20
+##### Artikel 20
 
 De bevoegde Nederlandse autoriteiten kunnen om redenen van openbare orde of openbare veiligheid arbeidskrachten die binnen het kader van deze Overeenkomst zijn aangeworven naar Griekenland repatriëren.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Op verzoek van een der Overeenkomstsluitende Partijen kan een Gemengde Commissie worden ingesteld, bestaande uit ten hoogste drie vertegenwoordigers van iedere Partij. Iedere afvaardiging kan door de nodige deskundigen worden bijgestaan.
 
@@ -200,11 +222,11 @@ In voorkomende gevallen doet zij beide Partijen voorstellen inzake de door haar 
 
 4. De Gemengde Commissie stelt zelf haar interne organisatie en werkwijze vast. Haar vergaderingen worden afwisselend in Griekenland en in Nederland gehouden.
 
-#### Artikel 22
+##### Artikel 22
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het in Europa gelegen grondgebied van het Koninkrijk.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Deze Overeenkomst treedt in werking op de dag harer ondertekening.
 

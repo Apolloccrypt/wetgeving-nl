@@ -1,13 +1,38 @@
 ---
 title: "Verzamelbesluit fiscale eenheid"
 identifier: "BWBR0049622"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-04-26
-laatste_update: 2024-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049622"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-04-26"
+last_updated: "2024-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049622"
+soort: "beleidsregel"
+stam_id: "17085023"
+version_id: "30068772"
+internal_id: "C43090051"
+label_id: "16994664"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049622/2024-04-26/0"
+intitule_bron: "Stcrt.2024-11814"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-04-02"
+intitule_published: "2024-04-25"
+intitule_in_force: "2024-04-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-11814"
+original_signed_date: "2024-04-02"
+original_published_date: "2024-04-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-11814"
+entry_into_force_date: "2024-04-26"
+jci_1_3: "jci1.3:c:BWBR0049622&z=2024-04-26&g=2024-04-26"
+jci_1_0: "1.0:c:BWBR0049622&g=2024-04-26"
+citeertitel_status: "officieel"
+signed_date: "2024-04-02"
+entry_into_force: "2024-04-26"
 ---
-
 # Verzamelbesluit fiscale eenheid
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

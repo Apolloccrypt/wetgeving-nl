@@ -1,20 +1,44 @@
 ---
 title: "Regeling wapens en munitie krijgsmachtpersoneel 1997"
 identifier: "BWBR0008473"
-categorie: "Overig"
-publicatiedatum: 2025-01-23
-laatste_update: 2025-01-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008473"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-01-23"
+last_updated: "2025-01-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008473"
+soort: "ministeriele-regeling"
+stam_id: "3626163"
+version_id: "5409242"
+internal_id: "C5602331"
+label_id: "3606124"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008473/2025-01-23/0"
+intitule_bron: "Stcrt.1996-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-12-23"
+intitule_published: "1996-12-30"
+intitule_in_force: "1996-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-250"
+original_signed_date: "1996-12-23"
+original_published_date: "1996-12-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008473&z=2025-01-23&g=2025-01-23"
+jci_1_0: "1.0:c:BWBR0008473&g=2025-01-23"
+citeertitel_status: "officieel"
+signed_date: "1996-12-23"
+entry_into_force: "1997-01-01"
 ---
-
 # Regeling wapens en munitie krijgsmachtpersoneel 1997
 
 Gelet op artikel 3a, eerste en vierde lid, van de Wet wapens en munitie;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt begrepen onder:
 
@@ -38,7 +62,7 @@ personen die deel uitmaken van of werkzaam zijn voor de krijgsmacht:
 
 - 2°. voormalig defensiepersoneel dat als vrijwilliger is geregistreerd in het personeelssysteem.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De categorie van personen, genoemd in [artikel 1, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=1&z=2025-01-23&g=2025-01-23), is gerechtigd tot:
 
@@ -96,7 +120,7 @@ Het in dit lid gestelde geldt voor zover het een bij Defensie opgeslagen wapen b
 
 9. Onverminderd het bepaalde in dit artikel is voor zover de uitoefening van de dienst zulks vereist de militair van de Koninklijke marechaussee gerechtigd tot het transformeren, herstellen, beproeven, voorhanden hebben, dragen, vervoeren en doen binnenkomen en uitgaan van een wapen van categorie I indien dit nodig is in het kader van training voor herkenning en opsporing van genoemde wapens.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan de vergunning bedoeld in [artikel 2, derde, vierde, vijfde, zevende en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2025-01-23&g=2025-01-23), kunnen voorschriften worden verbonden met betrekking tot:
 
@@ -120,19 +144,19 @@ Het in dit lid gestelde geldt voor zover het een bij Defensie opgeslagen wapen b
 
 7. Bevoegd tot het namens de Minister van Defensie verstrekken van de vergunning, bedoeld in [artikel 2, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2025-01-23&g=2025-01-23), is de commandant zeestrijdkrachten, de commandant landstrijdkrachten, de commandant luchtstrijdkrachten of de commandant Koninklijke marechaussee ten aanzien van het onder hen ressorterende personeel.
 
-#### Artikel 4
+##### Artikel 4
 
 Met ingang van inwerkingtreding van deze regeling berusten vergunningen, afgegeven op grond van de Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185), voor de duur van hun geldigheid of op [artikel 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2025-01-23&g=2025-01-23), of op [artikel 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008473&artikel=2&z=2025-01-23&g=2025-01-23), van deze regeling.
 
-#### Artikel 5
+##### Artikel 5
 
 De Regeling wapens en munitie krijgsmachtpersoneel van 19 september 1994 (Stcrt. 185) wordt ingetrokken.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 1997. Indien de Staatscourant waarin deze regeling wordt geplaatst, wordt uitgegeven na 30 december 1996 treedt zij in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 1997.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als Regeling wapens en munitie krijgsmachtpersoneel 1997.
 

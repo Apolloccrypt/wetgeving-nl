@@ -1,13 +1,38 @@
 ---
 title: "Internationaal Verdrag inzake economische, sociale en culturele rechten"
 identifier: "BWBV0001016"
-categorie: "Sociaal recht"
-publicatiedatum: 1979-03-11
-laatste_update: 1979-03-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001016"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-03-11"
+last_updated: "1979-03-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001016"
+soort: "verdrag"
+stam_id: "10002368323"
+version_id: "10002372902"
+internal_id: "C10006984741"
+label_id: "10002358294"
+dtd_version: "2.0"
+original_entry_into_force: "1979-03-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001016/1979-03-11/0"
+intitule_bron: "Trb.1969-100"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1978-12-11"
+intitule_published: "1969-07-16"
+intitule_in_force: "1978-12-16"
+intitule_status: "goed"
+original_publication: "Trb.1969-100"
+original_signed_date: "1978-12-11"
+original_published_date: "1969-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-100"
+entry_into_force_date: "1979-03-11"
+jci_1_3: "jci1.3:c:BWBV0001016&z=1979-03-11&g=1979-03-11"
+jci_1_0: "1.0:c:BWBV0001016&g=1979-03-11"
+citeertitel_status: "redactioneel"
+signed_date: "1978-12-11"
+entry_into_force: "1979-03-11"
 ---
-
 # Internationaal Verdrag inzake economische, sociale en culturele rechten
 
 De Staten die partij zijn bij dit Verdrag,
@@ -26,7 +51,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL I
 
-#### Artikel 1
+##### Artikel 1
 
 1. Alle volken bezitten zelfbeschikkingsrecht. Uit hoofde van dit recht bepalen zij in alle vrijheid hun politieke status en streven zij vrijelijk hun economische, sociale en culturele ontwikkeling na.
 
@@ -36,7 +61,7 @@ Zijn overeengekomen als volgt:
 
 ## DEEL II
 
-#### Artikel 2
+##### Artikel 2
 
 1. Iedere Staat die partij is bij dit Verdrag verbindt zich maatregelen te nemen, zowel zelfstandig als binnen het kader van de internationale hulp en samenwerking, met name op economisch en technisch gebied, en met volledige gebruikmaking van de hem ter beschikking staande hulpbronnen, ten einde met alle passende middelen, inzonderheid de invoering van wettelijke maatregelen, steeds nader tot een algehele verwezenlijking van de in dit Verdrag erkende rechten te komen.
 
@@ -44,15 +69,15 @@ Zijn overeengekomen als volgt:
 
 3. De ontwikkelingslanden kunnen, daarbij behoorlijk rekening houdend met de rechten van de mens en hun nationale economie, bepalen in hoeverre zij de in dit Verdrag erkende economische rechten aan niet-onderdanen zullen waarborgen.
 
-#### Artikel 3
+##### Artikel 3
 
 De Staten die partij zijn bij dit Verdrag verbinden zich het gelijke recht van mannen en vrouwen op het genot van de in dit Verdrag genoemde economische, sociale en culturele rechten te verzekeren.
 
-#### Artikel 4
+##### Artikel 4
 
 De Staten die partij zijn bij dit Verdrag erkennen dat, wat het genot van de door de Staat overeenkomstig dit Verdrag verleende rechten betreft, de Staat deze rechten slechts mag onderwerpen aan bij de wet vastgestelde beperkingen en alleen voor zover dit niet in strijd is met de aard van deze rechten, en uitsluitend met het doel het algemeen welzijn in een democratische samenleving te bevorderen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Geen bepaling van dit Verdrag mag zodanig worden uitgelegd als zou zij voor een Staat, een groep of een persoon het recht inhouden enige activiteit te ontplooien of enige daad te verrichten, die ten doel heeft de rechten of vrijheden welke in dit Verdrag zijn erkend, te vernietigen of deze rechten en vrijheden meer te beperken dan bij dit Verdrag is voorzien.
 
@@ -60,13 +85,13 @@ De Staten die partij zijn bij dit Verdrag erkennen dat, wat het genot van de doo
 
 ## DEEL III
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Staten die partij zijn bij dit Verdrag erkennen het recht op arbeid, hetgeen insluit het recht van een ieder op de mogelijkheid in zijn onderhoud te voorzien door middel van vrijelijk gekozen of aanvaarde werkzaamheden; zij nemen passende maatregelen om dit recht veilig te stellen.
 
 2. De door een Staat die partij is bij dit Verdrag te nemen maatregelen ter volledige verwezenlijking van dit recht, dienen onder meer te omvatten technische programma's, programma's voor beroepskeuzevoorlichting en opleidingsprogramma's, alsmede het voeren van een beleid en de toepassing van technieken gericht op gestadige economische, sociale en culturele ontwikkeling en op het scheppen van volledige gelegenheid tot het verrichten van produktieve arbeid onder omstandigheden die de individuele mens het genot waarborgen van de fundamentele politieke en economische vrijheden.
 
-#### Artikel 7
+##### Artikel 7
 
 De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op billijke en gunstige arbeidsvoorwaarden, die in het bijzonder het volgende waarborgen:
 
@@ -82,7 +107,7 @@ De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op bi
 
 - (d). Rustpauzen, vrije tijd en een redelijke duur van de werktijd en periodieke vakanties met behoud van loon, alsmede behoud van loon op algemeen erkende feestdagen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De Staten die partij zijn bij dit Verdrag verbinden zich het volgende te waarborgen:
 
@@ -98,11 +123,11 @@ De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op bi
 
 3. Geen bepaling van dit artikel geeft de Staten die partij zijn bij het [Verdrag van 1948 van de Internationale Arbeidsorganisatie betreffende de vrijheid tot het oprichten van vakverenigingen en de bescherming van het vakverenigingsrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005545) de bevoegdheden wetgevende maatregelen te treffen die de in dat Verdrag voorziene waarborgen in gevaar zouden brengen of de wet zodanig toe te passen dat deze in gevaar zouden worden gebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op sociale zekerheid, daarbij inbegrepen sociale verzekering.
 
-#### Artikel 10
+##### Artikel 10
 
 De Staten die partij zijn bij dit Verdrag erkennen het volgende:
 
@@ -112,7 +137,7 @@ De Staten die partij zijn bij dit Verdrag erkennen het volgende:
 
 - 3. Bijzondere maatregelen ter bescherming van en ter verlening van bijstand aan kinderen en jeugdige personen dienen te worden genomen zonder enigerlei discriminatie ter zake van afstamming of anderszins. Kinderen en jeugdige personen dienen te worden beschermd tegen economische en sociale uitbuiting. Tewerkstelling van zulke personen voor het verrichten van arbeid die schadelijk is voor hun zedelijk of lichamelijk welzijn, levensgevaar oplevert, dan wel groot gevaar inhoudt dat hun normale ontwikkeling zal worden geremd, dient strafbaar te zijn bij de wet. De Staten dienen tevens leeftijdsgrenzen vast te stellen waarbeneden het verrichten van loonarbeid door kinderen verboden en strafbaar bij de wet dient te zijn.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op een behoorlijke levensstandaard voor zichzelf en zijn gezin, daarbij inbegrepen toereikende voeding, kleding en huisvesting, en op steeds betere levensomstandigheden. De Staten die partij zijn bij dit Verdrag nemen passende maatregelen om de verwezenlijking van dit recht te verzekeren, daarbij het essentieel belang erkennende van vrijwillige internationale samenwerking.
 
@@ -122,7 +147,7 @@ De Staten die partij zijn bij dit Verdrag erkennen het volgende:
 
 - (b). Een billijke verdeling van de wereldvoedselvoorraden in verhouding tot de behoefte te verzekeren, daarbij rekening houdende met de problemen van zowel de voedsel invoerende als de voedsel uitvoerende landen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op een zo goed mogelijke lichamelijke en geestelijke gezondheid.
 
@@ -136,7 +161,7 @@ De Staten die partij zijn bij dit Verdrag erkennen het volgende:
 
 - (d). Het scheppen van omstandigheden die een ieder in geval van ziekte geneeskundige bijstand en verzorging waarborgen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder op onderwijs. Zij zijn van oordeel dat het onderwijs gericht dient te zijn op de volledige ontplooiing van de menselijke persoonlijkheid en van het besef van haar waardigheid en dat het dient bij te dragen tot de eerbied voor de rechten van de mens en de fundamentele vrijheden. Zij zijn voorts van oordeel dat het onderwijs een ieder in staat dient te stellen een nuttige rol te vervullen in een vrije samenleving en het begrip, de verdraagzaamheid en de vriendschap onder alle volken en alle rasgemeenschappen, etnische en godsdienstige groeperingen, alsmede de activiteiten van de Verenigde Naties voor de handhaving van de vrede dient te bevorderen.
 
@@ -156,11 +181,11 @@ De Staten die partij zijn bij dit Verdrag erkennen het volgende:
 
 4. Geen onderdeel van dit artikel mag zodanig worden uitgelegd dat het de vrijheid aantast van individuele personen of rechtspersonen inrichtingen voor onderwijs op te richten en daaraan leiding te geven, met inachtneming evenwel van de in het eerste lid van dit artikel neergelegde beginselen en van de voorwaarde dat het aan deze inrichtingen gegeven onderwijs beantwoordt aan door de Staat vastgestelde minimumnormen.
 
-#### Artikel 14
+##### Artikel 14
 
 Iedere Staat die partij is bij dit Verdrag en die op het tijdstip waarop hij partij werd in het moederland of in andere onder zijn rechtsmacht vallende gebieden verplicht kosteloos primair onderwijs nog niet heeft kunnen invoeren, verbindt zich binnen twee jaar een tot in bijzonderheden uitgewerkt plan voor de geleidelijke tenuitvoerlegging, binnen een redelijk in dit plan vast te stellen aantal jaren, van het beginsel van verplicht kosteloos primair onderwijs voor allen op te stellen en te aanvaarden.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Staten die partij zijn bij dit Verdrag erkennen het recht van een ieder:
 
@@ -178,7 +203,7 @@ Iedere Staat die partij is bij dit Verdrag en die op het tijdstip waarop hij par
 
 ## DEEL IV
 
-#### Artikel 16
+##### Artikel 16
 
 1. De Staten die partij zijn bij dit Verdrag verbinden zich overeenkomstig dit deel van het Verdrag rapporten in te dienen over de maatregelen die zij hebben genomen en de vorderingen die zij hebben gemaakt bij de totstandkoming van de in dit Verdrag erkende rechten.
 
@@ -186,7 +211,7 @@ Iedere Staat die partij is bij dit Verdrag en die op het tijdstip waarop hij par
 
 - (b). De Secretaris-Generaal van de Verenigde Naties doet tevens aan de gespecialiseerde organisaties afschriften van de rapporten, of van daarvoor in aanmerking komende delen daarvan, afkomstig van Staten die partij zijn bij dit Verdrag en die tevens lid zijn van die gespecialiseerde organisaties toekomen voor zover deze rapporten, of delen daarvan betrekking hebben op zaken die tot de verantwoordelijkheid behoren van die gespecialiseerde organisaties overeenkomstig hun statutaire bepalingen.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De Staten die partij zijn bij dit Verdrag dienen hun rapporten in afleveringen in, overeenkomstig een door de Economische en Sociale Raad binnen een jaar na de inwerkingtreding van dit Verdrag in te stellen schema, na raadpleging van de Staten die partij zijn bij dit Verdrag en van de betrokken gespecialiseerde organisaties.
 
@@ -194,41 +219,41 @@ Iedere Staat die partij is bij dit Verdrag en die op het tijdstip waarop hij par
 
 3. In gevallen waarin reeds aan de Verenigde Naties of aan een gespecialiseerde organisatie door een Staat die partij is bij dit Verdrag van belang zijnde gegevens zijn verstrekt, is het niet nodig deze gegevens andermaal te verschaffen, doch kan met een nauwkeurige verwijzing naar de aldus verstrekte gegevens worden volstaan.
 
-#### Artikel 18
+##### Artikel 18
 
 Ingevolge zijn verantwoordelijkheden krachtens het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) op het gebied van de rechten van de mens en de fundamentele vrijheden, kan de Economische en Sociale Raad regelingen treffen met de gespecialiseerde organisaties met betrekking tot het rapporteren aan de Raad over de vorderingen die zijn gemaakt bij de inachtneming van de bepalingen van dit Verdrag die binnen het kader van hun werkzaamheden vallen. Deze rapporten kunnen onder meer gegevens bevatten betreffende de beslissingen en aanbevelingen die door de bevoegde organen ten aanzien van deze ten uitvoerlegging zijn genomen of aanvaard.
 
-#### Artikel 19
+##### Artikel 19
 
 De Economische en Sociale Raad kan aan de Commissie voor de Rechten van de Mens ter bestudering en algemene aanbeveling of, in voorkomende gevallen, ter informatie doen toekomen de door de Staten overeenkomstig de artikelen 16 en 17 ingediende rapporten betreffende de rechten van de mens, alsmede die betreffende de rechten van de mens welke door de gespecialiseerde organisaties overeenkomstig artikel 18 zijn ingediend.
 
-#### Artikel 20
+##### Artikel 20
 
 De Staten die partij zijn bij dit Verdrag en de betrokken gespecialiseerde organisaties kunnen de Economische en Sociale Raad opmerkingen doen toekomen betreffende elke algemene aanbeveling gedaan krachtens artikel 19 of betreffende elke vermelding van zulk een algemene aanbeveling in enig rapport van de Commissie voor de Rechten van de Mens of in enig in dat rapport vermeld document.
 
-#### Artikel 21
+##### Artikel 21
 
 De Economische en Sociale Raad kan van tijd tot bij de Algemene Vergadering rapporten met aanbevelingen van algemene aard indienen, alsmede een samenvatting van de gegevens ontvangen van de Staten die partij zijn bij dit Verdrag en van de gespecialiseerde organisaties betreffende de maatregelen die zijn genomen en de vorderingen die zijn gemaakt om de algemene inachtneming van de in dit Verdrag erkende rechten te verzekeren.
 
-#### Artikel 22
+##### Artikel 22
 
 De Economische en Sociale Raad kan de aandacht van andere organen van de Verenigde Naties, de daaronder ressorterende organen en gespecialiseerde organisaties die zich bezighouden met het verlenen van technische hulp, vestigen op alle aangelegenheden die uit de in dit deel van dit Verdrag bedoelde verslagen voortvloeien en die voor deze lichamen van nut kunnen zijn bij het nemen van beslissingen, elk binnen zijn eigen bevoegdheid, omtrent de raadzaamheid van het nemen van internationale maatregelen waarvan verwacht kan worden dat zij bijdragen tot een doelmatige en geleidelijke uitvoering van dit Verdrag.
 
-#### Artikel 23
+##### Artikel 23
 
 De Staten die partij zijn bij dit Verdrag zijn van oordeel dat internationale maatregelen voor de instandkoming van de in dit Verdrag erkende rechten onder meer inhouden het sluiten van overeenkomsten, het aanvaarden van aanbevelingen, het verschaffen van technische hulp en het organiseren van regionale bijeenkomsten en technische bijeenkomsten voor overleg en studie, in samenwerking met de betrokken Regeringen.
 
-#### Artikel 24
+##### Artikel 24
 
 Geen bepaling van dit Verdrag mag worden uitgelegd als zijnde een aantasting van de bepalingen van het [Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143) en van de statuten van de gespecialiseerde organisaties, waarin de onderscheiden verantwoordelijkheden van de verschillende organen van de Verenigde Naties en van de gespecialiseerde organisaties met betrekking tot de in dit Verdrag geregelde materie zijn omschreven.
 
-#### Artikel 25
+##### Artikel 25
 
 Geen bepaling van dit Verdrag mag worden uitgelegd als zijnde een aantasting van het inherente recht van alle volken hun natuurlijke rijkdommen en hulpbronnen volledig en vrijelijk te benutten en hiervan volledig en vrijelijk te profiteren.
 
 ## DEEL V
 
-#### Artikel 26
+##### Artikel 26
 
 1. Dit Verdrag staat open voor ondertekening door iedere Staat die lid is van de Verenigde Naties of van een of meer der gespecialiseerde organisaties daarvan, door elke Staat die partij is bij het Statuut van het Internationale Gerechtshof, alsmede door iedere andere Staat die door de Algemene Vergadering van de Verenigde Naties is uitgenodigd bij dit Verdrag partij te worden.
 
@@ -240,17 +265,17 @@ Geen bepaling van dit Verdrag mag worden uitgelegd als zijnde een aantasting van
 
 5. De Secretaris-Generaal van de Verenigde Naties stelt alle Staten die dit Verdrag hebben ondertekend of tot dit Verdrag zijn toegetreden in kennis van de nederlegging van iedere akte van bekrachtiging of akte van toetreding.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Dit Verdrag treedt in werking drie maanden na de datum van nederlegging bij de Secretaris-Generaal van de Verenigde Naties van de vijfendertigste akte van bekrachtiging of akte van toetreding.
 
 2. Ten aanzien van iedere Staat die na nederlegging van de vijfendertigste akte van bekrachtiging of akte van toetreding dit Verdrag bekrachtigt of tot dit Verdrag toetreedt, treedt dit Verdrag in werking drie maanden na de datum van nederlegging van zijn akte van bekrachtiging of akte van toetreding.
 
-#### Artikel 28
+##### Artikel 28
 
 De bepalingen van dit Verdrag strekken zich uit tot alle delen van federale Staten, zonder enige beperking of uitzondering.
 
-#### Artikel 29
+##### Artikel 29
 
 1. Iedere Staat die partij is bij dit Verdrag kan een wijziging daarvan voorstellen en deze indienen bij de Secretaris-Generaal van de Verenigde Naties. De Secretaris-Generaal deelt vervolgens iedere voorgestelde wijziging aan de Staten die partij zijn bij dit Verdrag mede, met het verzoek hem te berichten of zij een conferentie van Staten die partij zijn bij dit Verdrag verlangen ten einde dit voorstel te bestuderen en in stemming te brengen. Indien ten minste een derde van de Staten die partij zijn bij dit Verdrag zulk een conferentie verlangt, roept de Secretaris-Generaal deze conferentie onder auspiciën van de Verenigde Naties bijeen. Iedere wijziging die door een meerderheid van de ter conferentie aanwezige Staten die partij zijn bij dit Verdrag wordt aangenomen, wordt ter goedkeuring aan de Algemene Vergadering van de Verenigde Naties voorgelegd.
 
@@ -258,7 +283,7 @@ De bepalingen van dit Verdrag strekken zich uit tot alle delen van federale Stat
 
 3. Wanneer wijzigingen van kracht worden zijn zij bindend voor die Staten die partij zijn bij dit Verdrag die ze hebben aangenomen, terwijl de andere Staten die partij zijn bij dit Verdrag gebonden zullen blijven door de bepalingen van dit Verdrag en door iedere voorgaande wijziging die zij wel hebben aangenomen.
 
-#### Artikel 30
+##### Artikel 30
 
 Ongeacht de krachtens artikel 26, lid 5, gedane kennisgeving, stelt de Secretaris-Generaal van de Verenigde Naties alle in het eerste lid van artikel 26 bedoelde Staten van het volgende in kennis:
 
@@ -266,7 +291,7 @@ Ongeacht de krachtens artikel 26, lid 5, gedane kennisgeving, stelt de Secretari
 
 - (b). De datum van inwerkingtreding van dit Verdrag krachtens artikel 27 en de datum van het van kracht worden van eventuele wijzigingen krachtens artikel 29.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Dit Verdrag, waarvan de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd in het archief van de Verenigde Naties.
 

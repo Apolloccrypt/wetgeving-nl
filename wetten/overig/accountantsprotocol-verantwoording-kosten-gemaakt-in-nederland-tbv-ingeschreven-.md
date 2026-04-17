@@ -1,13 +1,38 @@
 ---
 title: "Accountantsprotocol verantwoording kosten gemaakt in Nederland t.b.v. ingeschreven tlv buitenland"
 identifier: "BWBR0043465"
-categorie: "Overig"
-publicatiedatum: 2020-05-08
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043465"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-05-08"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043465"
+soort: "zbo"
+stam_id: "15428173"
+version_id: "26664202"
+internal_id: "C37816681"
+label_id: "15371944"
+dtd_version: "2.0"
+original_entry_into_force: "2020-05-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043465/2020-05-08/0"
+intitule_bron: "Stcrt.2020-23913"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-21"
+intitule_published: "2020-05-07"
+intitule_in_force: "2020-05-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-23913"
+original_signed_date: "2020-04-21"
+original_published_date: "2020-05-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-23913"
+entry_into_force_date: "2020-05-08"
+jci_1_3: "jci1.3:c:BWBR0043465&z=2020-05-08&g=2020-05-08"
+jci_1_0: "1.0:c:BWBR0043465&g=2020-05-08"
+citeertitel_status: "redactioneel"
+signed_date: "2020-04-21"
+entry_into_force: "2020-05-08"
 ---
-
 # Accountantsprotocol verantwoording kosten gemaakt in Nederland t.b.v. ingeschreven tlv buitenland
 
 **Geldig voor oplevering vanaf 2020 door het orgaan van de woonplaats**

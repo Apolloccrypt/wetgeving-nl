@@ -1,16 +1,41 @@
 ---
 title: "Wet tot inschrijving van arbeidskrachten 1945 BES"
 identifier: "BWBR0028724"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2013-07-01
-laatste_update: 2013-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028724"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2013-07-01"
+last_updated: "2013-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028724"
+soort: "wet-BES"
+stam_id: "10945013"
+version_id: "17931262"
+internal_id: "C24808541"
+label_id: "10919634"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028724/2013-07-01/0"
+intitule_bron: "Stb.2010-600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-27"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-600"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-600"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028724&z=2013-07-01&g=2013-07-01"
+jci_1_0: "1.0:c:BWBR0028724&g=2013-07-01"
+citeertitel_status: "officieel"
+signed_date: "2010-09-27"
+entry_into_force: "2010-10-10"
 ---
-
 # Wet tot inschrijving van arbeidskrachten 1945 BES
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt verstaan:
 
@@ -38,7 +63,7 @@ In deze wet wordt verstaan:
 
 - –. onder loon, elke uitkeering, welke de arbeider als vergoeding voor zijn arbeid van den werkgever ontvangt, uitgezonderd overwerk- en premiegelden; indien het loon geheel of gedeeltelijk bestaat in huisvesting, verstrekkingen in natura of wel in beide, wordt de geldswaarde geschat; als loon volgens deze wet gelden tevens alle ontvangsten in geld van derden, welke verband houden met ten behoeve van den werkgever verrichten arbeid.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De bepalingen van deze wet zijn ook van toepassing:
 
@@ -54,7 +79,7 @@ In deze wet wordt verstaan:
 
 3. Voor arbeiders, zijnde Nederlander, die zich niet in de openbare lichamen Bonaire, Sint Eustatius en Saba bevinden, kunnen bij algemene maatregel van bestuur andere voorschriften worden gegeven.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De arbeider is behoudens vrijstelling als bedoeld in het zesde lid van dit artikel, verplicht een werkboekje te hebben, hetwelk hem wordt uitgereikt vanwege het bestuurscollege.
 
@@ -68,7 +93,7 @@ In deze wet wordt verstaan:
 
 6. Op verzoek van den betrokken werkgever is het bestuurscollege bevoegd aan arbeiders van vreemde nationaliteit, voor den duur van een jaar voorwaardelijk of onvoorwaardelijk vrijstelling te verleenen van de verplichting tot het hebben van een werkboekje, indien deze arbeiders zich reeds in het buitenland verbonden hebben tot het verrichten van arbeid, uitsluitend in dienst van dien werkgever. Deze vrijstelling kan telkens voor den duur van een jaar verlengd worden.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Na beëindiging van zijn dienstbetrekking is de arbeider, die in het bezit is van een werkboekje, verplicht uiterlijk een week nadien, zijn werkboekje in bewaring te geven: aan de door het bestuurscollege aangewezen ambtenaar.
 
@@ -76,11 +101,11 @@ In deze wet wordt verstaan:
 
 3. De verplichting in het eerste lid bedoeld, bestaat slechts indien de arbeider binnen een week na de beëindiging zijner dienstbetrekking geen nieuwe dienstbetrekking heeft aangegaan.
 
-#### Artikel 5
+##### Artikel 5
 
 Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2013-07-01&g=2013-07-01), wordt door of namens den arbeider binnen tien dagen, nadat die wijziging heeft plaats gevonden, aangifte gedaan bij de autoriteit, die hem het werkboekje heeft uitgereikt.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het is den werkgever verboden een arbeider in zijn dienst te hebben, die niet voldoet aan het gestelde in [artikel 3, lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=3&z=2013-07-01&g=2013-07-01), dezer wet.
 
@@ -88,11 +113,11 @@ Van iedere wijziging in de persoonlijke gegevens, zooals bedoeld in [artikel 3, 
 
 3. Ingeval van overlijden van den werkgever en in alle gevallen, waar deze in de onmogelijkheid zou zijn om in het werkboekje den datum van uitdiensttreding te schrijven, geschiedt zulks door de autoriteit, die den arbeider het werkboekje uitreikte.
 
-#### Artikel 7
+##### Artikel 7
 
 Het is den werkgever verboden anders dan de dagteekening der indienst- en der uitdiensttreding, voorts het beroep, de functie of het ambacht van den arbeider in diens werkboekje aan te teekenen, alsmede den naam, de woonplaats, het bedrijf, het beroep of de onderneming van den werkgever met wien de arbeider de betreffende dienstverhouding heeft aangegaan en diens onderteekening.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het werkboekje blijft na elke inschrijving van den datum van indiensttreding onder berusting van den werkgever en wordt den arbeider teruggegeven.
 
@@ -102,7 +127,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 2. Voor het in bewaring geven van het werkboekje wordt den arbeider door den werkgever een bewijs afgegeven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De werkgever is voorts verplicht:
 
@@ -122,7 +147,7 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 ## Toezicht
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de daartoe bij besluit van Onze Minister van Sociale Zaken en Werkgelegenheid aangewezen personen.
 
@@ -142,28 +167,28 @@ Het is den werkgever verboden anders dan de dagteekening der indienst- en der ui
 
 ## Strafbepalingen
 
-#### Artikel 10
+##### Artikel 10
 
 Niet naleving van een van de voorschriften van deze wet of van de voorschriften door het bestuurscollege uit te vaardigen krachtens de [artikelen 2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=2&z=2013-07-01&g=2013-07-01), en [9, leden 1a, d en e](https://wetten.overheid.nl/jci1.3:c:BWBR0028724&artikel=9&z=2013-07-01&g=2013-07-01), wordt gestraft met hechtenis van ten hoogste een maand of een geldboete van de eerste categorie.
 
-#### Artikel 11
+##### Artikel 11
 
 [vervallen]
 
-#### Artikel 12
+##### Artikel 12
 
 [vervallen]
 
-#### Artikel 13
+##### Artikel 13
 
 De bij deze wet strafbaar gestelde feiten worden als overtredingen beschouwd.
 
 ## Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Deze wet wordt aangehaald als: Wet tot inschrijving van arbeidskrachten 1945 BES.
 
-#### Artikel 15
+##### Artikel 15
 
 Deze landsverordening treedt in werking met ingang van een nader door den Gouverneur te bepalen datum.

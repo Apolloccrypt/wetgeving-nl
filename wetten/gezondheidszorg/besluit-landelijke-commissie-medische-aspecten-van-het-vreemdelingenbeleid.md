@@ -1,22 +1,46 @@
 ---
 title: "Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid"
 identifier: "BWBR0012480"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2001-05-13
-laatste_update: 2001-05-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012480"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2001-05-13"
+last_updated: "2001-05-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012480"
+soort: "ministeriele-regeling"
+stam_id: "4811593"
+version_id: "6617992"
+internal_id: "C7075231"
+label_id: "4789664"
+dtd_version: "2.0"
+original_entry_into_force: "2001-05-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012480/2001-05-13/0"
+intitule_bron: "Stcrt.2001-91"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-10"
+intitule_published: "2001-05-11"
+intitule_in_force: "2001-05-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-91"
+original_signed_date: "2001-05-10"
+original_published_date: "2001-05-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-05-13"
+jci_1_3: "jci1.3:c:BWBR0012480&z=2001-05-13&g=2001-05-13"
+jci_1_0: "1.0:c:BWBR0012480&g=2001-05-13"
+citeertitel_status: "officieel"
+signed_date: "2001-05-10"
+entry_into_force: "2001-05-13"
 ---
-
 # Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Landelijke commissie medische aspecten van het vreemdelingenbeleid, hierna te noemen de commissie.
 
@@ -62,7 +86,7 @@ In dit besluit wordt verstaan onder:
 
 - e. Het maken van een integraal rapport als bedoeld in [artikel 4, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0012480&artikel=4&z=2001-05-13&g=2001-05-13), op basis van de resultaten van deelonderzoek I en II en activiteit c en d, voorzien van conclusies.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Tot lid van de commissie worden benoemd:
 
@@ -92,7 +116,7 @@ In dit besluit wordt verstaan onder:
 
 - b. drs. S. van Doorn, ministerie van VWS.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt binnen vier weken na instelling haar werkwijze vast in de vorm van een plan van aanpak.
 
@@ -104,11 +128,11 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie brengt uiterlijk in mei 2002 aan de Staatssecretaris van Justitie en de minister van Volksgezondheid, Welzijn en Sport een rapport uit van haar bevindingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Het beheer van de bescheiden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Justitie. De bescheiden worden na beëindiging van de werkzaamheden van de commissie naar het archief van beide ministeries overgebracht.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de leden van de commissie wordt een vacatiegeld toegekend van f 225,- (□ 102,10) per vergadering.
 
@@ -116,13 +140,13 @@ Het beheer van de bescheiden van de commissie geschiedt op overeenkomstige wijze
 
 3. De commissie heeft de beschikking over een budget van maximaal f 200.000,- (□ 90.756,04) voor het verrichten van onderzoek en het geven van opdrachten aan derden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
 2. Dit besluit vervalt 2 maanden nadat de commissie haar rapport heeft uitgebracht.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid.
 

@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en doorgifte van persoonsgegevens van passagiers (PNR) uit de Europese Unie door luchtvaartmaatschappijen aan de Australische douane"
 identifier: "BWBV0003050"
-categorie: "Milieu"
-publicatiedatum: 2008-06-30
-laatste_update: 2008-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003050"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-06-30"
+last_updated: "2008-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003050"
+soort: "verdrag"
+stam_id: "10003307953"
+version_id: "10003336022"
+internal_id: "C10008429341"
+label_id: "10003293794"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003050/2008-06-30/0"
+intitule_bron: "Trb.2008-170"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-06-30"
+intitule_published: "2008-09-03"
+intitule_status: "nogniet"
+original_publication: "Trb.2008-170"
+original_signed_date: "2008-06-30"
+original_published_date: "2008-09-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-170"
+jci_1_3: "jci1.3:c:BWBV0003050&z=2008-06-30&g=2008-06-30"
+jci_1_0: "1.0:c:BWBV0003050&g=2008-06-30"
+citeertitel_status: "redactioneel"
+signed_date: "2008-06-30"
+entry_into_force: "2008-09-03"
 ---
-
 # Overeenkomst tussen de Europese Unie en Australië inzake de verwerking en doorgifte van persoonsgegevens van passagiers (PNR) uit de Europese Unie door luchtvaartmaatschappijen aan de Australische douane
 
 De Europese Unie,
@@ -44,7 +66,7 @@ Besluiten:
 
 Deze Overeenkomst is voorlopig toegepast vanaf 30 juni 2008 (Trb. 2008/170) tot 1 juni 2012 (Trb. 2013/53).
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
@@ -68,23 +90,23 @@ Voor de toepassing van deze overeenkomst wordt verstaan onder:
 
 - j. „ernstig misdrijf”: een handeling waar een vrijheidsstraf met een maximum van ten minste vier jaar of een zwaardere straf op staat.
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 1. Australië draagt er zorg voor dat de douane PNR-gegevens uit de Europese Unie verwerkt conform deze overeenkomst.
 
 2. De Europese Unie draagt er zorg voor dat luchtvaartmaatschappijen er niet van worden weerhouden te voldoen aan de Australische wetgeving betreffende de doorgifte van PNR-gegevens uit de Europese Unie aan de douane conform deze overeenkomst.
 
-#### Artikel 3. Adequaatheid
+##### Artikel 3. Adequaatheid
 
 Naleving van deze overeenkomst door de douane levert – in de zin van de toepasselijke wetgeving van de Europese Unie inzake gegevensbescherming – een adequaat niveau van bescherming op van PNR-gegevens uit de Europese Unie die voor de doelstellingen van deze overeenkomst aan de douane worden doorgegeven.
 
-#### Artikel 4. Methode van toegang
+##### Artikel 4. Methode van toegang
 
 1. De douane schakelt voor PNR-gegevens uit de Europese Unie uiterlijk twee jaar na de datum van ondertekening van deze overeenkomst over op het Australische PNR-systeem, als omschreven in artikel 1, onder f. Tijdens deze overgangsperiode, worden verwijzingen in deze overeenkomst naar de doorgifte van PNR-gegevens, geacht de toegang van douane tot PNR-gegevens te behelzen conform het bestaande systeem als omschreven in lid 2.
 
 2. Tijdens de overgangsperiode gebruikt de douane het bestaande PNR-systeem, waarin alleen PNR-gegevens opgeslagen die verband houden met onderzoek bij aankomst op de luchthaven of met een misdrijf dat is gepleegd. Het bestaande systeem maakt real-time online elektronische toegang mogelijk tot de in punt 9 van de bijlage genoemde gegevensvelden, zoals opgenomen in de boekingssystemen van de luchtvaartmaatschappijen.
 
-#### Artikel 5. Doelbeperking voor PNR-gegevens uit de Europese Unie
+##### Artikel 5. Doelbeperking voor PNR-gegevens uit de Europese Unie
 
 1. De douane verwerkt de PNR-gegevens uit de Europese Unie en andere daaruit afgeleide persoonlijke informatie alleen met het oog op preventie en bestrijding van:
 
@@ -98,29 +120,29 @@ Naleving van deze overeenkomst door de douane levert – in de zin van de toepas
 
 3. Bovendien kunnen PNR-gegevens uit de Europese Unie ook per geval worden verwerkt wanneer bij rechterlijk bevel of op grond van de Australische wetgeving uitdrukkelijk om die verwerking wordt verzocht in het kader van het toezicht op en de verantwoordingsplicht van de overheidsinstanties, met inbegrip van vereisten op grond van de Freedom of Information Act 1982 (Cth), de Human Rights and Equal Opportunity Commission Act 1986 (Cth), de Privacy Act 1988 (Cth), de Auditor-General Act 1997 (Cth) of de Ombudsman Act 1976 (Cth). Indien toekomstige wijzigingen in de Australische wetgeving, zoals medegedeeld door Australië op grond van artikel 6, voorzien in een uitbreiding van de PNR-gegevens uit de Europese Unie die overeenkomstig artikel 5, lid 3, moeten worden verwerkt, kan de Europese Unie zich beroepen op de artikelen 10 en 13.
 
-#### Artikel 6. Informatie over wetgeving betreffende de overeenkomst
+##### Artikel 6. Informatie over wetgeving betreffende de overeenkomst
 
 De douane informeert de Europese Unie over de aanneming van Australische wetgeving die rechtstreeks betrekking heeft op de bescherming van PNR-gegevens uit de Europese Unie, als neergelegd in deze overeenkomst.
 
-#### Artikel 7. Bescherming van persoonsgegevens
+##### Artikel 7. Bescherming van persoonsgegevens
 
 1. Australië voorziet in een systeem dat personen, ongeacht hun nationaliteit of land van verblijf, toegang biedt tot hun persoonlijke informatie en hen in staat stelt daarin verbeteringen aan te brengen. De bescherming die op grond van de Privacy Act 1988 (Cth) wordt geboden voor PNR-gegevens uit de Europese Unie die door Australische overheidsinstanties worden opgeslagen, geldt ongeacht de nationaliteit of het land van verblijf van de persoon.
 
 2. De douane verwerkt de ontvangen PNR-gegevens uit de Europese Unie en behandelt de personen wier gegevens worden verwerkt strikt in overeenstemming met de in deze overeenkomst en in de toepasselijke Australische wetten vastgelegde normen inzake gegevensbescherming, zonder discriminatie op grond van, met name, nationaliteit of land van verblijf.
 
-#### Artikel 8. Kennisgeving aan personen en het publiek
+##### Artikel 8. Kennisgeving aan personen en het publiek
 
 Informatie betreffende de verwerking van PNR-gegevens, met inbegrip van algemene gegevens inzake het gezag op welks last de gegevens worden verzameld, het doel van de verzameling van de gegevens, de bescherming van de gegevens, de wijze waarop en de mate waarin de gegevens mogen worden verstrekt, de beschikbare beroepsprocedures en de contactinformatie voor personen met vragen of bedenkingen, wordt door de douane bekendgemaakt, ook aan het reizend publiek.
 
-#### Artikel 9. Gezamenlijke toetsing van de uitvoering
+##### Artikel 9. Gezamenlijke toetsing van de uitvoering
 
 Australië en de Europese Unie voeren periodiek een gezamenlijke toetsing uit van de uitvoering van deze overeenkomst, met inbegrip van de waarborgen voor gegevensbescherming en voor de beveiliging van de gegevens, met het oog op het bewerkstelligen van de effectieve uitvoering van de overeenkomst. Bij de toetsing wordt de Europese Unie vertegenwoordigd door het Directoraat-generaal Justitie, vrijheid en veiligheid van de Commissie, met inbegrip van vertegenwoordigers van gegevensbeschermings- en rechtshandhavingsinstanties, en Australië wordt vertegenwoordigd door een passende hoge Australische regeringsfunctionaris of -ambtenaar, of door een door elke partij in onderling overleg aan te wijzen functionaris. De Europese Unie en het Australië zullen in onderling overleg bepalen hoe de evaluaties precies moeten worden gerealiseerd.
 
-#### Artikel 10. Geschillenbeslechting
+##### Artikel 10. Geschillenbeslechting
 
 Elk geschil tussen de partijen over de interpretatie, de toepassing of de uitvoering van deze overeenkomst, wordt beslecht via raadpleging of onderhandeling tussen de partijen en wordt niet ter beslechting voorgelegd aan een derde partij of een rechter.
 
-#### Artikel 11. Wijziging en herziening van de overeenkomst
+##### Artikel 11. Wijziging en herziening van de overeenkomst
 
 1. De partijen kunnen schriftelijk overeenkomen deze overeenkomst te wijzigen. Een wijziging treedt pas in werking nadat de partijen aan alle noodzakelijke interne eisen hebben voldaan, op een door de partijen overeen te komen datum.
 
@@ -128,7 +150,7 @@ Elk geschil tussen de partijen over de interpretatie, de toepassing of de uitvoe
 
 3. Australië doet al het mogelijke om de werking van het PNR-systeem van de Europese Unie bij herziening te vergemakkelijken.
 
-#### Artikel 12. Opschorten van gegevensstromen
+##### Artikel 12. Opschorten van gegevensstromen
 
 1. De bevoegde autoriteiten van de lidstaten van de Europese Unie kunnen hun bestaande bevoegdheden gebruiken om gegevensstromen naar de douane op te schorten teneinde personen bij de verwerking van hun persoonsgegevens te beschermen, wanneer het zeer waarschijnlijk is dat niet aan de in deze overeenkomst voorziene normen voor gegevensbescherming wordt voldaan, er gegronde redenen zijn om aan te nemen dat de douane niet tijdig passende maatregelen neemt of zal nemen om het desbetreffende probleem op te lossen en, de voortzetting van de doorgifte een dreigend gevaar voor ernstige schade voor de betrokkene inhoudt.
 
@@ -136,7 +158,7 @@ Elk geschil tussen de partijen over de interpretatie, de toepassing of de uitvoe
 
 3. De opschorting eindigt zodra de beschermingsnormen naar genoegen van Australië en de ter zake bevoegde autoriteiten van de lidstaten van de Europese Unie zijn gewaarborgd, en de Europese Unie wordt hiervan door Australië in kennis gesteld.
 
-#### Artikel 13. Beëindiging van de overeenkomst
+##### Artikel 13. Beëindiging van de overeenkomst
 
 1. Elke partij kan deze overeenkomst te allen tijde door middel van diplomatieke kennisgeving aan de andere partij opzeggen. De opzegging wordt van kracht negentig (90) dagen na de datum van deze kennisgeving aan de andere partij.
 
@@ -144,11 +166,11 @@ Elk geschil tussen de partijen over de interpretatie, de toepassing of de uitvoe
 
 3. Deze overeenkomst en de eventueel daaruit voortvloeiende verplichtingen, uitgezonderd de verplichting uit hoofde van artikel 13, lid 2, verstrijken en zijn niet langer van kracht zeven jaar na de datum van ondertekening ervan, tenzij de partijen deze overeenkomst met wederzijdse instemming vervangen.
 
-#### Artikel 14. Niet-afwijken van wetten
+##### Artikel 14. Niet-afwijken van wetten
 
 Deze overeenkomst heeft niet tot doel af te wijken van de wetten van Australië of van die van de Europese Unie of haar lidstaten. Deze overeenkomst schept of verleent geen rechten of voordelen voor enige andere particuliere of openbare persoon of entiteit, en voorziet alleen in de beroepsmogelijkheden die uitdrukkelijk in deze overeenkomst worden genoemd.
 
-#### Artikel 15. Inwerkingtreding; Voorlopige toepassing; Talen
+##### Artikel 15. Inwerkingtreding; Voorlopige toepassing; Talen
 
 1. Deze overeenkomst treedt in werking op de eerste dag van de maand volgende op die waarin de partijen de kennisgevingen hebben uitgewisseld waaruit blijkt dat zij hun interne procedures daartoe hebben voltooid.
 

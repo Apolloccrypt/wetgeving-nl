@@ -1,13 +1,35 @@
 ---
 title: "Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek"
 identifier: "BWBV0004009"
-categorie: "Internationaal recht"
-publicatiedatum: 1978-11-01
-laatste_update: 1978-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004009"
+country: "nl"
+rank: "verdrag"
+publication_date: "1978-11-01"
+last_updated: "1978-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004009"
+soort: "verdrag"
+stam_id: "10003810453"
+version_id: "10003878212"
+internal_id: "C10006981861"
+label_id: "10003796534"
+dtd_version: "2.0"
+original_entry_into_force: "1978-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004009/1978-11-01/0"
+intitule_bron: "Trb.1977-134"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-10-12"
+intitule_in_force: "1978-11-21"
+intitule_status: "goed"
+original_publication: "Trb.1977-134"
+original_published_date: "1977-10-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-134"
+entry_into_force_date: "1978-11-01"
+jci_1_3: "jci1.3:c:BWBV0004009&z=1978-11-01&g=1978-11-01"
+jci_1_0: "1.0:c:BWBV0004009&g=1978-11-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1978-11-01"
 ---
-
 # Samenwerkingsovereenkomst tussen de Europese Economische Gemeenschap en de Syrische Arabische Republiek
 
 Zijne Majesteit de Koning der Belgen,
@@ -124,17 +146,17 @@ Mohamed Imadi,
 
 Minister van Economische Zaken en Buitenlandse Handel;*[Red: Bijlage II - Lijst A, Bijlage III - Lijst B, Bijlage IV - Lijst C, Bijlage V en Bijlage VI bij de Overeenkomst zullen worden bekendgemaakt in het Pb. EG].
 
-#### Artikel 1
+##### Artikel 1
 
 Deze overeenkomst tussen de Gemeenschap en Syrië heeft ten doel een algemene samenwerking tussen de partijen bij de overeenkomst te bevorderen, ten einde bij te dragen tot de economische en sociale ontwikkeling van Syrië en de versteviging van hun betrekkingen in de hand te werken. Te dien einde worden er bepalingen en maatregelen vastgesteld en ten uitvoer gelegd op het gebied van de economische, technische en financiële samenwerking, alsmede op het gebied van het handelsverkeer.
 
 ## TITEL I. Economische, technische en financiële samenwerking
 
-#### Artikel 2
+##### Artikel 2
 
 Tussen de Gemeenschap en Syrië wordt een samenwerking tot stand gebracht ten einde bij te dragen tot de ontwikkeling van Syrië als aanvulling op hetgeen door dit land op dit gebied wordt gedaan en om de bestaande economische banden op zo breed mogelijke basis in het wederzijdse belang van de partijen te versterken.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de verwezenlijking van de in artikel 2 bedoelde samenwerking worden met name in aanmerking genomen:
 
@@ -144,7 +166,7 @@ Voor de verwezenlijking van de in artikel 2 bedoelde samenwerking worden met nam
 
 - -. het belang van bevordering van de regionale samenwerking tussen Syrië en andere staten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De samenwerking tussen de Gemeenschap en Syrië heeft inzonderheid ten doel de bevordering van:
 
@@ -174,29 +196,29 @@ Voor de verwezenlijking van de in artikel 2 bedoelde samenwerking worden met nam
 
 2. De partijen bij de overeenkomst kunnen nog andere samenwerkingsgebieden bepalen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het oog op de verwezenlijking van de in deze overeenkomst gestelde doeleinden bepaalt de Samenwerkingsraad op gezette tijden de algemene koers van de samenwerking.
 
 2. De Samenwerkingsraad heeft tot taak naar middelen en methoden te zoeken om de tenuitvoerlegging van de samenwerking op de in artikel 4 omschreven gebieden mogelijk te maken: Hij is bevoegd daartoe besluiten te nemen.
 
-#### Artikel 6
+##### Artikel 6
 
 De Gemeenschap neemt deel aan de financiering van maatregelen ter bevordering van de ontwikkeling van Syrië, onder de voorwaarden vermeld in protocol No. 1 betreffende de technische en financiële samenwerking, rekening houdend met de mogelijkheden van een driehoekssamenwerking.
 
-#### Artikel 7
+##### Artikel 7
 
 De partijen bij de overeenkomst vergemakkelijken de juiste uitvoering van de samenwerkings- en investeringscontracten die van wederzijds belang zijn en passen in het kader van deze overeenkomst.
 
 ## TITEL II. Handelsverkeer
 
-#### Artikel 8
+##### Artikel 8
 
 Op handelsgebied heeft deze overeenkomst ten doel het handelsverkeer tussen de partijen bij de overeenkomst te bevorderen, met inachtneming van hun onderscheiden ontwikkelingsniveaus en van de noodzaak een beter evenwicht in hun handelsverkeer te waarborgen, ten einde het groeitempo van de Syrische handel te versnellen en de toegankelijkheid van de markt van de Gemeenschap voor de Syrische produkten te verbeteren.
 
 ### A. Industrieprodukten
 
-#### Artikel 9
+##### Artikel 9
 
 Behoudens de bijzondere bepalingen van de artikelen 13, 14 en 16 worden voor produkten van oorsprong uit Syrië, niet genoemd in de lijst van bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap en niet opgenomen in bijlage A, bij invoer in de Gemeenschap de douanerechten of heffingen van gelijke werking volgens onderstaand tijdschema opgeheven:
 
@@ -205,7 +227,7 @@ Behoudens de bijzondere bepalingen van de artikelen 13, 14 en 16 worden voor pro
 | - op de datum van inwerkingtreding van de overeenkomst | 80% |
 | - met ingang van 1 juli 1977 | 100% |
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor elk produkt zijn de basisrechten waarop de in artikel 9 bedoelde verlaging moet worden toegepast, als volgt:
 
@@ -217,21 +239,21 @@ Behoudens de bijzondere bepalingen van de artikelen 13, 14 en 16 worden voor pro
 
 Behoudens de door de Gemeenschap te geven toepassing aan artikel 39, lid 5, van de Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen, van 22 januari 1972, wordt voor de specifieke rechten of het specifieke gedeelte van de gemengde rechten van de douanetarieven van Ierland en het Verenigd Koninkrijk artikel 9 toegepast met afronding op de vierde decimaal.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Wanneer de douanerechten een beschermend en een fiscaal element bevatten, is artikel 9 op het beschermend element van toepassing.
 
 2. Het Verenigd Koninkrijk vervangt de fiscale douanerechten en het fiscaal element van deze rechten door een binnenlandse belasting overeenkomstig artikel 38 van de in artikel 10 bedoelde Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen.
 
-#### Artikel 12
+##### Artikel 12
 
 De kwantitatieve beperkingen bij invoer in de Gemeenschap voor produkten niet genoemd in de lijst van bijlage II bij het Verdrag tot oprichting van de Europese Economische Gemeenschap, van oorsprong uit Syrië, en maatregelen van gelijke werking worden op de datum van de inwerkingtreding van de overeenkomst opgeheven.
 
-#### Artikel 13
+##### Artikel 13
 
 De maatregelen bedoeld in artikel 1 van protocol No. 7 van de in artikel 10 bedoelde Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen, met betrekking tot de invoer van motorvoertuigen en de motorvoertuigenassemblage-industrie in Ierland, zijn van toepassing op Syrië.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De invoer van de hierna genoemde produkten is aan jaarlijkse maxima onderworpen, bij overschrijding waarvan de ten opzichte van derde landen werkelijk toegepaste douanerechten volgens het bepaalde in de leden 2 tot en met 6 opnieuw kunnen worden ingesteld. Naast elk produkt zijn de voor het jaar van inwerkingtreding van deze overeenkomst vastgestelde maxima aangegeven.
 
@@ -255,7 +277,7 @@ De maatregelen bedoeld in artikel 1 van protocol No. 7 van de in artikel 10 bedo
 
 6. De in dit artikel vastgestelde maxima worden uiterlijk op 31 december 1979 afgeschaft.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De Gemeenschap behoudt zich het recht voor de regeling die van toepassing is op de aardolieprodukten welke vallen onder de tariefposten 27.10, 27.11 A en B I, 27.12, 27.13 B en 27.14 van het gemeenschappelijk douanetarief te wijzigen:
 
@@ -271,13 +293,13 @@ Voor de toepassing van dit lid wordt op verzoek van de andere partij overleg gep
 
 3. Behoudens het bepaalde in lid 1 doet deze overeenkomst geen afbreuk aan de niet-tarifaire voorschriften die bij invoer van aardolieprodukten worden toegepast.
 
-#### Artikel 16
+##### Artikel 16
 
 Voor de in bijlage B vermelde goederen, verkregen bij de verwerking van landbouwprodukten, zijn de in artikel 9 bedoelde verlagingen van toepassing op het vaste element van de heffing die op deze produkten bij invoer in de Gemeenschap wordt toegepast.
 
 ### B. Landbouwprodukten
 
-#### Artikel 17
+##### Artikel 17
 
 Voor de hierna genoemde produkten van oorsprong uit Syrië worden de douanerechten bij invoer in de Gemeenschap verlaagd in de verhoudingen die voor elk van deze produkten zijn aangegeven.
 
@@ -306,7 +328,7 @@ Voor de hierna genoemde produkten van oorsprong uit Syrië worden de douanerecht
 
 (a) Deze concessie betreft uitsluitend zaaigoed dat voldoet aan de bepalingen van de richtlijnen betreffende het in de handel brengen van zaaizaad en pootgoed.
 
-#### Artikel 18
+##### Artikel 18
 
 Onderstaande produkten, van oorsprong uit Syrië, worden bij invoer in de Gemeenschap onderworpen aan de hiernavermelde douanerechten:
 
@@ -315,7 +337,7 @@ Onderstaande produkten, van oorsprong uit Syrië, worden bij invoer in de Gemeen
 | 07.04 | Groenten en moeskruiden, gedroogd, gedehydreerd of geëvaporeerd, ook indien in stukken of in schijven gesneden, dan wel fijngemaakt of in poedervorm, doch niet op andere wijze bereid: |   |
 |   | A. Uien | 15% |
 
-#### Artikel 19
+##### Artikel 19
 
 1. De in artikel 17 genoemde verlagingspercentages zijn van toepassing op de douanerechten die ten opzichte van derde landen werkelijk worden toegepast.
 
@@ -327,7 +349,7 @@ Onderstaande produkten, van oorsprong uit Syrië, worden bij invoer in de Gemeen
 
 Onder voorbehoud van de door de Gemeenschap te geven toepassing aan artikel 39, lid 5, van de in artikel 10 bedoelde Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen, worden, met betrekking tot de specifieke rechten of het specifieke gedeelte van de gemengde rechten van Ierland en van het Verenigd Koninkrijk, de verlaagde rechten evenwel toegepast onder afronding op de vierde decimaal.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien ten gevolge van de tenuitvoerlegging van haar landbouwbeleid een specifieke regeling wordt ingesteld of indien de bestaande regeling wordt gewijzigd of in geval van wijziging of uitbreiding van de bepalingen betreffende de tenuitvoerlegging van haar landbouwbeleid, kan de Gemeenschap voor de betrokken produkten de in deze overeenkomst vervatte regeling wijzigen.
 
@@ -339,13 +361,13 @@ De Gemeenschap houdt in deze gevallen op passende wijze rekening met de belangen
 
 ### C. Gemeenschappelijke bepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voor de in deze overeenkomst bedoelde produkten van oorsprong uit Syrië kan bij invoer in de Gemeenschap geen gunstiger regeling gelden dan die welke de Lid-Staten elkaar toekennen.
 
 2. Bij de toepassing van lid 1 wordt geen rekening gehouden met de douanerechten en heffingen van gelijke werking voortvloeiende uit de toepassing van de artikelen 32, 36 en 59 van de in artikel 10 bedoelde Akte betreffende de toetredingsvoorwaarden en de aanpassing der Verdragen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Behoudens de bijzondere bepalingen voor het grensverkeer, kent Syrië op het gebied van het handelsverkeer aan de Gemeenschap een behandeling toe die niet minder gunstig is dan de regeling voor de meest begunstigde natie.
 
@@ -353,7 +375,7 @@ De Gemeenschap houdt in deze gevallen op passende wijze rekening met de belangen
 
 3. Voorts kan Syrië afwijken van lid 1 in geval van maatregelen met het oog op een regionale economische integratie of ten gunste van ontwikkelingslanden. Deze maatregelen worden ter kennis van de Gemeenschap gebracht.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De partijen bij de overeenkomst stellen elkaar bij de ondertekening van deze overeenkomst in kennis van de bepalingen betreffende de handelsregeling die zij toepassen.
 
@@ -361,47 +383,47 @@ De Gemeenschap houdt in deze gevallen op passende wijze rekening met de belangen
 
 Voor de toepassing van deze maatregelen vindt op verzoek van de andere partij bij de overeenkomst overleg plaats in de Samenwerkingsraad.
 
-#### Artikel 24
+##### Artikel 24
 
 Wanneer Syrië voor een bepaald produkt overeenkomstig zijn eigen wetgeving kwantitatieve beperkingen in de vorm van contingenten toepast, behandelt het de Gemeenschap als een eenheid.
 
-#### Artikel 25
+##### Artikel 25
 
 Bij het in artikel 44 van deze overeenkomst bedoelde onderzoek trachten de partijen bij de overeenkomst mogelijkheden te vinden om vorderingen te maken bij de opheffing van de handelsbelemmeringen, zulks met inachtneming van de eisen van de ontwikkeling van Syrië.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor de toepassing van deze titel worden de oorsprongregels bepaald in Protocol No. 2.
 
-#### Artikel 27
+##### Artikel 27
 
 In geval van wijzigingen in de nomenclatuur van de douanetarieven van de partijen bij de overeenkomst voor de in deze overeenkomst bedoelde produkten, kan de Samenwerkingsraad de tariefnomenclatuur van deze produkten aan deze wijzigingen aanpassen.
 
-#### Artikel 28
+##### Artikel 28
 
 De partijen bij de overeenkomst onthouden zich van iedere maatregel of gedraging van intern fiscale aard die al dan niet rechtstreeks leidt tot discriminatie tussen de produkten van één partij bij de overeenkomst en de gelijksoortige produkten van oorsprong uit de andere partij bij de overeenkomst.
 
 Voor de produkten die naar het grondgebied van een van de partijen bij de overeenkomst worden uitgevoerd, mag geen hogere teruggave van binnenlandse belastingen plaatsvinden dan de direct of indirect daarop geheven belastingen.
 
-#### Artikel 29
+##### Artikel 29
 
 Betalingen die betrekking hebben op handelstransacties welke met inachtneming van de bepalingen van de voorschriften voor de buitenlandse handel en het deviezenverkeer plaatsvinden, alsmede de overmaking van de desbetreffende bedragen naar de Lid-Staat van de Gemeenschap waar de schuldeiser is gevestigd dan wel naar Syrië, zijn aan geen enkele beperking onderworpen.
 
-#### Artikel 30
+##### Artikel 30
 
 Deze overeenkomst vormt geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer, die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, van de bescherming van het nationaal artistiek, historisch en archeologisch bezit of uit hoofde van de bescherming van de industriële en commerciële eigendom, noch voor voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de partijen bij de overeenkomst vormen.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Indien een der partijen bij de overeenkomst vaststelt dat in haar betrekkingen met de andere partij dumping wordt toegepast, kan zij, volgens de Overeenkomst inzake de toepassing van artikel VI van de Algemene Overeenkomst inzake tarieven en handel, passende maatregelen daartegen nemen, overeenkomstig de voorwaarden en procedures van artikel 33.
 
 2. In geval van maatregelen gericht tegen premies en subsidies, verbinden de partijen bij de overeenkomst zich ertoe artikel VI van de Algemene Overeenkomst inzake tarieven en handel na te leven.
 
-#### Artikel 32
+##### Artikel 32
 
 In geval van ernstige verstoringen in een sector van het bedrijfsleven of van moeilijkheden die tot uiting dreigen te komen in een ernstige verslechtering van de economische situatie in een gebied, kan de betrokken partij bij de overeenkomst de nodige vrijwaringsmaatregelen nemen overeenkomstig de voorwaarden en procedures van artikel 33.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien een partij bij de overeenkomst de invoer van produkten die de in artikel 32 bedoelde moeilijkheden kan veroorzaken, aan een administratieve procedure onderwerpt die ten doel heeft snel inlichtingen omtrent de ontwikkeling van de handelsstromen te verstrekken, stelt zij de andere partij bij de overeenkomst hiervan in kennis.
 
@@ -417,13 +439,13 @@ De vrijwaringsmaatregelen worden onverwijld ter kennis gebracht van de Samenwerk
 
 - b). indien uitzonderlijke omstandigheden die een onmiddellijk ingrijpen vereisen een voorafgaand onderzoek uitsluiten, kan de betrokken partij bij de overeenkomst in de situaties bedoeld in de artikelen 31 en 32 onverwijld de strikt noodzakelijke beschermende maatregelen nemen om de situatie te verhelpen.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien zich met betrekking tot de betalingsbalans van één of meer Lid-Staten van de Gemeenschap of van Syrië moeilijkheden voordoen of hiervoor ernstig gevaar bestaat, kan de betrokken partij bij de overeenkomst de nodige vrijwaringsmaatregelen treffen. Bij voorrang moeten die maatregelen worden gekozen die de werking van de overeenkomst het minst verstoren. Zij worden onverwijld ter kennis van de andere partij bij de overeenkomst gebracht. Over deze maatregelen wordt periodiek overleg gepleegd in de Samenwerkingsraad, vooral met het oog op de opheffing ervan zodra de omstandigheden dit toelaten.
 
 ## TITEL III. Algemene en slotbepalingen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Er wordt een Samenwerkingsraad ingesteld, die voor de verwezenlijking van de doelstellingen van deze overeenkomst en in de in deze overeenkomst genoemde gevallen beslissingsbevoegdheid heeft
 
@@ -433,13 +455,13 @@ Zijn besluiten zijn verbindend voor de partijen bij de overeenkomst, die gehoude
 
 3. De Samenwerkingsraad stelt zijn reglement van orde vast.
 
-#### Artikel 36
+##### Artikel 36
 
 1. De Samenwerkingsraad bestaat uit afgevaardigden van de Gemeenschap en haar Lid-Staten enerzijds, en uit afgevaardigden van Syrië anderzijds.
 
 2. De Samenwerkingsraad spreekt zich uit in onderlinge overeenstemming tussen de Gemeenschap enerzijds, en Syrië anderzijds.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het voorzitterschap van de Samenwerkingsraad wordt bij toerbeurt uitgeoefend door elk van de partijen bij de overeenkomst op de in het reglement van orde vast te stellen wijze.
 
@@ -447,23 +469,23 @@ Zijn besluiten zijn verbindend voor de partijen bij de overeenkomst, die gehoude
 
 Hij komt bovendien bijeen zo vaak een bijzondere omstandigheid zulks vereist, op verzoek van een der partijen bij de overeenkomst, en onder de in zijn reglement van orde bepaalde voorwaarden.
 
-#### Artikel 38
+##### Artikel 38
 
 1. De Samenwerkingsraad kan besluiten comités op te richten die hem in de vervulling van zijn taken kunnen bijstaan.
 
 2. De Samenwerkingsraad bepaalt in zijn reglement van orde de samenstelling, de taak en de werking van deze comités.
 
-#### Artikel 39
+##### Artikel 39
 
 De Samenwerkingsraad neemt alle dienstige maatregelen om de benodigde samenwerking en contacten tussen het Europese Parlement en de afgevaardigden van de Volksvertegenwoordiging van Syrië te vergemakkelijken.
 
-#### Artikel 40
+##### Artikel 40
 
 Elke partij bij de overeenkomst verstrekt, op verzoek van de andere partij, alle nodige gegevens betreffende de door haar te sluiten overeenkomsten waarin tarief- of handelsbepalingen voorkomen en over de wijzigingen die zij in haar douanetarief of haar regeling betreffende het buitenlandse handelsverkeer aanbrengt.
 
 Indien deze wijzigingen of deze overeenkomsten rechtstreekse en bijzondere gevolgen hebben voor de werking van deze overeenkomst, wordt op verzoek van de andere partij passend overleg gepleegd in de Samenwerkingsraad, ten einde met de belangen van de partijen bij de overeenkomst rekening te houden.
 
-#### Artikel 41
+##### Artikel 41
 
 1. De partijen bij de overeenkomst nemen alle algemene en bijzondere maatregelen om te verzekeren dat de verplichtingen van deze overeenkomst worden nagekomen. Zij zien erop toe dat de in deze overeenkomst genoemde doelstellingen worden verwezenlijkt.
 
@@ -471,7 +493,7 @@ Indien deze wijzigingen of deze overeenkomsten rechtstreekse en bijzondere gevol
 
 Bij voorrang moeten die maatregelen worden gekozen die de werking van de overeenkomst het minst verstoren. Deze maatregelen worden onverwijld ter kennis gebracht van de Samenwerkingsraad, waarin, op verzoek van de andere partij, overleg over de maatregelen plaatsvindt.
 
-#### Artikel 42
+##### Artikel 42
 
 Geen enkele bepaling van deze overeenkomst belet een partij bij de overeenkomst maatregelen te treffen:
 
@@ -481,7 +503,7 @@ Geen enkele bepaling van deze overeenkomst belet een partij bij de overeenkomst 
 
 - c). die zij van essentieel belang acht voor haar veiligheid in oorlogstijd of bij ernstige internationale spanningen.
 
-#### Artikel 43
+##### Artikel 43
 
 Op de gebieden die onder deze overeenkomst vallen:
 
@@ -489,37 +511,37 @@ Op de gebieden die onder deze overeenkomst vallen:
 
 - -. mag de regeling die door de Gemeenschap ten opzichte van Syrië wordt toegepast, niet tot enigerlei discriminatie tussen de onderdanen of vennootschappen van Syrië leiden.
 
-#### Artikel 44
+##### Artikel 44
 
 De partijen bij de overeenkomst onderzoeken, voor de eerste maal vanaf begin 1979 en vervolgens vanaf begin 1984, volgens de voor de onderhandelingen over de overeenkomst zelf aangehouden procedure, de resultaten van deze overeenkomst alsmede de eventule verbeteringen die daarin van beide kanten vanaf 1 januari 1980 en vanaf 1 januari 1985 op grond van de tijdens de werking van de overeenkomst opgedane ervaring en de in de overeenkomst bepaalde doelstellingen kunnen worden aangebracht.
 
-#### Artikel 45
+##### Artikel 45
 
 De protocollen No. 1 en No. 2 en de bijlagen A en B maken een integrerend deel van deze overeenkomst uit. De verklaringen en briefwisselingen zijn opgenomen in de slotakte, die een integrerend deel van deze overeenkomst uitmaakt.
 
-#### Artikel 46
+##### Artikel 46
 
 Elke partij bij de overeenkomst kan deze overeenkomst door kennisgeving aan de andere partij opzeggen. De overeenkomst houdt twaalf maanden na de datum van die kennisgeving op van kracht te zijn.
 
-#### Artikel 47
+##### Artikel 47
 
 Deze overeenkomst is van toepassing op de grondgebieden waar het Verdrag tot oprichting van de Europese Economische Gemeenschap onder de daarin vermelde voorwaarden geldt enerzijds, en op het grondgebied van de Syrische Arabische Republiek anderzijds.
 
-#### Artikel 48
+##### Artikel 48
 
 Deze overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Italiaanse, de Nederlandse en de Arabische taal, zijnde alle teksten gelijk authentiek.
 
-#### Artikel 49
+##### Artikel 49
 
 Deze overeenkomst wordt door de partijen bij de overeenkomst goedgekeurd volgens hun eigen procedures.
 
 Deze overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de kennisgeving van de voltooiing van de in lid 1 bedoelde procedures.
 
-#### Artikel 1
+##### Artikel 1
 
 De Gemeenschap neemt in het kader van de financiële en technische samenwerking deel aan de financiering van acties die kunnen bijdragen tot de economische en sociale ontwikkeling van Syrië.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de in artikel 1 vermelde doeleinden en voor een periode die op 31 oktober 1981 afloopt, kunnen voor een totaalbedrag van 60 miljoen Europese rekeneenheden verplichtingen worden aangegaan, ten bedrage van:
 
@@ -533,7 +555,7 @@ Voor de vorming van risicodragend kapitaal kunnen bijdragen worden vastgesteld, 
 
 2. De in lid 1, sub a), genoemde leningen gaan in het algemeen gepaard met rentesubsidies van ten hoogste 2% die uit de in lid 1, sub c), vermelde middelen worden gefinancierd.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het in artikel 2 vastgestelde totaalbedrag wordt aangewend voor de financiering of de deelneming in de financiering van:
 
@@ -545,17 +567,17 @@ Voor de vorming van risicodragend kapitaal kunnen bijdragen worden vastgesteld, 
 
 2. De bijstand van de Gemeenschap is bestemd om de uitgaven voor de uitvoering van de goedgekeurde projecten of acties te dekken. Zij mag niet worden gebruikt om de lopende uitgaven voor administratie en onderhoud en de huishoudelijke uitgaven te betalen.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorwaarden voor de financiering of deelname aan de financiering van de projecten en acties als bedoeld in artikel 3 worden bepaald naar de aard en de bijzondere kenmerken van elk project of elke actie, met inachtneming van de bepalingen van de artikelen 2 en 6.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bedrag van de jaarlijks uit hoofde van elk van de verschillende vormen van bijstand aan te wenden gelden moet zo regelmatig mogelijk over de gehele periode van toepassing van dit protocol worden verdeeld. Tijdens de eerste toepassingsperiode kunnen de betalingsverplichtingen echter binnen redelijke grenzen een naar verhouding hoger bedrag belopen.
 
 2. Het eventueel overblijvende bedrag van de aan het einde van de in artikel 2, lid 1, bedoelde periode niet aangewende gelden wordt gebruikt tot het volledig is uitgeput onder dezelfde voorwaarden als in dit protocol vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan de door de Bank uit eigen middelen verstrekte leningen zijn voorwaarden verbonden betreffende de looptijd op de grondslag van de economische en financiële kenmerken van de projecten waarvoor deze leningen bestemd zijn. De toegepaste rentevoet is die welke de Bank toepast op het tijdstip van ondertekening van elk leningscontract, behoudens de in artikel 2, lid 2, bedoelde rentesubsidie.
 
@@ -563,11 +585,11 @@ De voorwaarden voor de financiering of deelname aan de financiering van de proje
 
 3. De leningen kunnen door tussenkomst van de Syrische staat of van bevoegde Syrische organen worden toegekend, waarbij op deze de verplichting rust de gelden aan de begunstigden te lenen op voorwaarden die, in overleg met de Gemeenschap, op de grondslag van de economische en financiële kenmerken van de projecten worden bepaald.
 
-#### Artikel 7
+##### Artikel 7
 
 De bijstand die de Gemeenschap voor de uitvoering van bepaalde projecten verleent kan, met instemming van Syrië, de vorm aannemen van een co-financiering waaraan met name krediet- en ontwikkelingsorganen en -instellingen van Syrië, de Lid-Staten of derde landen of internationale financieringslichamen deelnemen.
 
-#### Artikel 8
+##### Artikel 8
 
 De financiële en technische samenwerking kan ten goede komen aan:
 
@@ -587,7 +609,7 @@ De financiële en technische samenwerking kan ten goede komen aan:
 
 - -. de in het kader van de in artikel 3 bedoelde opleidingsacties door Syrië uitgezonden bursalen en stagiairs.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Zodra de overeenkomst in werking treedt, stellen de Gemeenschap en Syrië, aan de hand van de in het ontwikkelingsplan van Syrië vastgestelde prioriteiten, in onderling overleg de bijzondere doelstellingen van de financiële en technische samenwerking vast.
 
@@ -595,19 +617,19 @@ Deze doelstellingen kunnen in onderling overleg worden herzien ten einde met wij
 
 2. In het overeenkomstig lid 1 vastgestelde kader is de financiële en technische samenwerking van toepassing op de projecten en acties die door Syrië of andere door dit land erkende begunstigden zijn uitgewerkt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Voor elk verzoek om financiële bijstand krachtens dit protocol wordt door de in artikel 8, sub a), vermelde begunstigde of, met instemming van Syrië, door de in artikel 8, sub b), genoemde begunstigden bij de Gemeenschap een dossier ingediend.
 
 2. De Gemeenschap onderzoekt de financieringsaanvragen in samenwerking met de Syrische staat en de begunstigden overeenkomstig de in artikel 9, lid 1, omschreven doeleinden en licht hen in over het gevolg dat aan deze aanvragen wordt gegeven.
 
-#### Artikel 11
+##### Artikel 11
 
 Voor de uitvoering, het beheer en het onderhoud van de projecten die krachtens dit protocol worden gefinancierd, zijn Syrië of de andere in artikel 8 van dit protocol bedoelde begunstigden verantwoordelijk.
 
 De Gemeenschap vergewist zich ervan dat de aanwending van deze financiële bijstand overeenstemt met de bestemming waartoe is besloten en onder de meest gunstige economische voorwaarden plaatsvindt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Voor de gevallen waarbij de Gemeenschap voor de financiering zorg draagt, staat de deelneming aan aanbestedingen, inschrijvingen, koop- en aannemingscontracten onder gelijke voorwaarden open voor alle onderdanen en rechtspersonen van de Lid-Staten en van Syrië.
 
@@ -619,25 +641,25 @@ Deze versnelde procedure kan worden gevolgd voor inschrijvingen die geraamd word
 
 Tot deelneming van derde landen kan bovendien onder dezelfde voorwaarden worden besloten wanneer de Gemeenschap te zamen met andere geldschieters, aan de financiering van projecten deelneemt.
 
-#### Artikel 13
+##### Artikel 13
 
 Syrië past, in het kader van haar geldende nationale wetgeving, op de koop- en aannemingscontracten die ter uitvoering van door de Gemeenschap gefinancierde projecten en acties zijn gesloten, een even gunstige fiscale en douaneregeling toe als ten opzichte van andere internationale organisaties.
 
-#### Artikel 14
+##### Artikel 14
 
 Wanneer een lening aan een andere begunstigde dan de Syrische staat wordt verstrekt, kan aan de toekenning van de lening door de Gemeenschap de voorwaarde worden verbonden dat de Syrische staat zich garant stelt of dat andere voldoende geachte waarborgen worden gesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Syrië verplicht zich gedurende de gehele looptijd van de krachtens dit protocol verstrekte leningen aan de debiteuren die de begunstigden van deze leningen zijn, de nodige deviezen voor rentebetalingen, provisie en aflossing ter beschikking te stellen.
 
-#### Artikel 16
+##### Artikel 16
 
 De resultaten van de financiële en technische samenwerking worden jaarlijks door de Samenwerkingsraad aan een onderzoek onderworpen. Deze bepaalt, in voorkomend geval, de algemene richtlijnen voor deze samenwerking.
 
 ## TITEL I. Definitie van het begrip „produkten van oorsprong”
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van de overeenkomst worden, mits zij rechtstreeks zijn vervoerd in de zin van artikel 5, beschouwd als:
 
@@ -655,7 +677,7 @@ Voor de toepassing van de overeenkomst worden, mits zij rechtstreeks zijn vervoe
 
 De in lijst C van bijlage IV genoemde produkten zijn tijdelijk van de toepassing van dit protocol uitgesloten.
 
-#### Artikel 2
+##### Artikel 2
 
 Als „geheel en al verkregen” in Syrië of in de Gemeenschap, in de zin van artikel 1, lid 1, sub a), en lid 2, sub a), worden beschouwd:
 
@@ -679,7 +701,7 @@ Als „geheel en al verkregen” in Syrië of in de Gemeenschap, in de zin van a
 
 - j). goederen die aldaar zijn vervaardigd uit geen andere dan de sub a) tot en met i) bedoelde produkten.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de toepassing van artikel 1, lid 1, sub b), en lid 2, sub b), worden als toereikend beschouwd:
 
@@ -713,7 +735,7 @@ Onder afdelingen, hoofdstukken en posten worden verstaan de afdelingen, hoofdstu
 
 - h). het slachten van dieren.
 
-#### Artikel 4
+##### Artikel 4
 
 Wanneer in de in artikel 3 bedoelde lijsten A en B is bepaald dat de in Syrië of in de Gemeenschap verkregen goederen alleen als goederen van oorsprong daaruit worden beschouwd indien de waarde van de bewerkte of verwerkte produkten een bepaald percentage van de waarde van de verkregen produkten niet overschrijdt, wordt, voor de bepaling van dat percentage uitgegaan van de volgende waarden:
 
@@ -721,7 +743,7 @@ Wanneer in de in artikel 3 bedoelde lijsten A en B is bepaald dat de in Syrië o
 
 - -. anderzijds, de prijs af-fabriek van de verkregen produkten, onder aftrek van de bij uitvoer gerestitueerde of te restitueren binnenlandse belastingen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de toepassing van artikel 1 worden beschouwd als rechtstreeks vervoerd van Syrië naar de Gemeenschap of van de Gemeenschap naar Syrië de produkten van oorsprong waarvan het vervoer plaatsvindt zonder gebruikmaking van andere grondgebieden dan die van de partijen bij de overeenkomst. Het vervoer van produkten van oorsprong uit Syrië of uit de Gemeenschap, die één enkele zending vormen, kan echter plaatsvinden met gebruikmaking van andere grondgebieden dan die van de partijen bij de overeenkomst, eventueel met overlading of tijdelijke opslag op die grondgebieden, voor zover het vervoer over die gebieden om geografische redenen gerechtvaardigd is en de produkten onder toezicht van de douaneautoriteiten van het land van doorvoer of tijdelijke opslag zijn gebleven, aldaar niet in de handel of in het vrije verkeer zijn gebracht en aldaar, in voorkomend geval, geen andere behandelingen hebben ondergaan dan lossen en opnieuw laden of behandelen ter verzekering van hun bewaring in ongewijzigde staat.
 
@@ -741,7 +763,7 @@ Wanneer in de in artikel 3 bedoelde lijsten A en B is bepaald dat de in Syrië o
 
 ## TITEL II. Methoden van administratieve samenwerking
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het bewijs van het karakter van oorsprong van de produkten in de zin van dit protocol wordt geleverd door een certificaat inzake goederenverkeer EUR. 1, waarvan het model in bijlage V van dit protocol voorkomt.
 
@@ -753,7 +775,7 @@ De rekeneenheid (RE) heeft een waarde van 0,88867088 gram fijn goud. In geval va
 
 3. Accessoires, vervangingsonderdelen en gereedschappen die samen met materieel, machines, apparaten of voertuigen worden geleverd en deel uitmaken van de normale uitrusting daarvan en waarvan de prijs is begrepen in de prijs daarvan of niet afzonderlijk in rekening wordt gebracht, worden geacht één geheel te vormen met het betrokken materieel, de betrokken machines, apparaten of voertuigen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het certificaat inzake goederenverkeer EUR. 1 wordt bij de uitvoer van de goederen waarop het betrekking heeft door de douaneautoriteiten van de Staat van uitvoer afgegeven. Het wordt ter beschikking van de exporteur gehouden, zodra de werkelijke uitvoer plaatsvindt of is verzekerd.
 
@@ -765,7 +787,7 @@ De rekeneenheid (RE) heeft een waarde van 0,88867088 gram fijn goud. In geval va
 
 5. Aanvragen van certificaten inzake goederenverkeer moeten door de douaneautoriteiten van het land van uitvoer gedurende ten minste twee jaar worden bewaard.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het certificaat inzake goederenverkeer EUR. 1 wordt door de douaneautoriteiten van de Staat van uitvoer afgegeven, indien de goederen kunnen worden beschouwd als produkten van oorsprong in de zin van dit protocol.
 
@@ -775,7 +797,7 @@ De rekeneenheid (RE) heeft een waarde van 0,88867088 gram fijn goud. In geval va
 
 4. De datum van afgifte van het certificaat dient te worden vermeld op het gedeelte van de certificaten inzake goederenverkeer dat voor de douane is bestemd.
 
-#### Artikel 9
+##### Artikel 9
 
 Het certificaat inzake goederenverkeer EUR. 1 wordt opgemaakt op het formulier waarvan het model in bijlage V van dit protocol voorkomt. Dit formulier wordt gedrukt in een of meer van de talen waarin de overeenkomst is opgesteld. Het certificaat wordt in een van deze talen opgemaakt overeenkomstig het nationale recht van de Staat van uitvoer. Indien een certificaat met de hand wordt opgemaakt, moet het met inkt en in blokletters worden ingevuld.
 
@@ -783,35 +805,35 @@ Het formaat van het certificaat is 210 x 297 mm, waarbij voor de lengte een maxi
 
 De Staten van uitvoer kunnen het drukken van de certificaten zelf uitvoeren, dan wel overlaten aan drukkerijen die zij daartoe vergunning hebben verleend. In het laatste geval dient op ieder certificaat naar deze vergunning te worden verwezen. Op elk certificaat moeten naam en adres van de drukker worden vermeld of een teken waardoor deze kan worden geïdentificeerd. Voorts moeten alle certificaten van een al dan niet gedrukt serienummer worden voorzien, ten einde ze onderling te kunnen onderscheiden.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Om de afgifte van een certificaat inzake goederenverkeer EUR. 1 dient, onder verantwoordelijkheid van de exporteur, door deze of door zijn gevolmachtigde vertegenwoordiger te worden verzocht.
 
 2. De exporteur of diens vertegenwoordiger dient te zamen met zijn aanvraag elk dienstig bewijsstuk in dat kan aantonen dat de uit te voeren goederen in aanmerking kunnen komen voor de afgifte van een certificaat inzake goederenverkeer EUR. 1.
 
-#### Artikel 11
+##### Artikel 11
 
 Het certificaat inzake goederenverkeer EUR. 1 moet binnen vijf maanden na de datum van afgifte door de douane van de Staat van uitvoer worden overgelegd op het douanekantoor van de Staat van invoer waar de goederen worden aangeboden.
 
-#### Artikel 12
+##### Artikel 12
 
 In de Staat van invoer wordt het certificaat inzake goederenverkeer EUR. 1 aan de douaneautoriteiten overgelegd op de wijze als in de voorschriften van die Staat bepaald. Deze autoriteiten hebben het recht daarvan een vertaling te eisen. Zij kunnen bovendien eisen dat de invoeraangifte wordt aangevuld met een verklaring van de importeur dat de goederen aan de voorwaarden voor de toepassing van de overeenkomst voldoen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Certificaten inzake goederenverkeer EUR. 1 die na het verstrijken van de in artikel 11 bedoelde indieningstermijn aan de douaneautoriteiten van de Staat van invoer worden overgelegd, kunnen worden aanvaard met het oog op de toepassing van de preferentiële regeling, wanneer het niet in acht nemen van de termijn aan overmacht of uitzonderlijke omstandigheden te wijten is.
 
 2. Behalve in bovengenoemde gevallen kunnen de douaneautoriteiten van de Staat van invoer de certificaten aanvaarden, wanneer de goederen vóór het verstrijken van genoemde termijn bij hen zijn aangeboden.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien lichte verschillen worden vastgesteld tussen de op het certificaat inzake goederenverkeer EUR. 1 vermelde gegevens en die welke voorkomen op de documenten die aan het douanekantoor met het oog op het vervullen van de invoerformaliteiten voor de goederen zijn overgelegd, leidt dit niet ipso facto tot ongeldigheid van het certificaat indien deugdelijk wordt vastgesteld dat dit certificaat op de aangeboden goederen betrekking heeft.
 
-#### Artikel 15
+##### Artikel 15
 
 Vervanging van een of meer certificaten inzake goederenverkeer EUR. 1 door een of meer andere certificaten inzake goederenverkeer EUR. 1 is steeds mogelijk op voorwaarde dat dit geschiedt op het douanekantoor waar de goederen zich bevinden.
 
-#### Artikel 16
+##### Artikel 16
 
 Het formulier EUR. 2, waarvan het model voorkomt in bijlage VI, wordt door de exporteur of, onder verantwoordelijkheid van deze, door zijn gemachtigde vertegenwoordiger ingevuld. Het wordt opgemaakt in een der officiële talen waarin de overeenkomst is opgesteld en in overeenstemming met het nationale recht van de Staat van uitvoer. Indien het formulier met de hand wordt opgemaakt, moet het met inkt en in blokletters worden ingevuld. Indien de goederen die zich in de zending bevinden reeds in het land van uitvoer zijn gecontroleerd ten aanzien van de definitie van het begrip „produkten van oorsprong”, kan de exporteur in het vak „opmerkingen” van het formulier EUR. 2 de verwijzingen naar deze controle vermelden.
 
@@ -823,13 +845,13 @@ Voor elke postzending wordt een formulier EUR. 2 opgemaakt.
 
 Deze bepalingen ontslaan de exporteurs niet van het vervullen van alle overige formaliteiten die in de douane- of postvoorschriften zijn vastgesteld.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Goederen die zich in aan particulieren gerichte kleine zendingen of in de persoonlijke bagage van reizigers bevinden, worden als produkten van oorsprong toegelaten, zonder dat een certificaat inzake goederenverkeer EUR. 1 moet worden overgelegd of een formulier EUR. 2 moet worden ingevuld, voor zover het invoer betreft waaraan ieder handelskarakter vreemd is en op voorwaarde dat bij de aangifte wordt verklaard dat de betrokken goederen voldoen aan de voorwaarden voor de toepassing van deze bepalingen en er geen twijfel bestaat omtrent de juistheid van deze verklaring.
 
 2. Als invoer waaraan ieder handelskarakter vreemd is, wordt beschouwd invoer die een incidenteel karakter draagt en die uitsluitend betrekking heeft op goederen, bestemd om door de reiziger of de geadresseerde persoonlijk dan wel door zijn gezin te worden gebruikt, mits noch de aard, noch de hoeveelheid van de goederen op commerciële bedoelingen wijzen. Bovendien mag de totale waarde van de betrokken goederen niet meer bedragen dan 60 rekeneenheden wat kleine zendingen betreft, of 200 rekeneenheden wat de inhoud van persoonlijke bagage van reizigers betreft.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Op goederen die uit de Gemeenschap of uit Syrië naar een tentoonstelling in een ander land worden verzonden en die na de tentoonstelling worden verkocht om te worden ingevoerd in Syrië of in de Gemeenschap, zijn bij invoer de bepalingen van de overeenkomst van toepassing, mits de goederen voldoen aan de voorwaarden die in dit protocol worden gesteld om als produkten van oorsprong uit de Gemeenschap of uit Syrië te worden erkend en voor zover ten genoegen van de douaneautoriteiten het bewijs wordt geleverd:
 
@@ -845,7 +867,7 @@ Deze bepalingen ontslaan de exporteurs niet van het vervullen van alle overige f
 
 3. Lid 1 is van toepassing op alle tentoonstellingen, jaarbeurzen of soortgelijke openbare manifestaties met een commercieel, industrieel, agrarisch of ambachtelijk karakter, met uitzondering van de voor particuliere doeleinden in winkels of handelslokalen georganiseerde manifestaties die de verkoop van buitenlandse goederen ten doel hebben, gedurende welke de goederen onder douanetoezicht blijven.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Wanneer een certificaat wordt afgegeven in de zin van artikel 7, lid 2, van dit protocol, na de daadwerkelijke uitvoer van de goederen waarop het betrekking heeft, dient de exporteur in de in artikel 7, lid 3, van dit protocol bedoelde aanvraag:
 
@@ -857,23 +879,23 @@ Deze bepalingen ontslaan de exporteurs niet van het vervullen van alle overige f
 
 De a posteriori afgegeven certificaten dienen van een van de volgende vermeldingen te ziin voorzien:
 
-#### Artikel 20
+##### Artikel 20
 
 In geval van diefstal, verlies of vernietiging van een certificaat inzake goederenverkeer EUR. 1 kan de exporteur aan de douaneautoriteiten die het certificaat hebben afgegeven om een duplicaat verzoeken, dat wordt opgemaakt aan de hand van de uitvoerdocumenten die in het bezit van deze autoriteiten zijn. Het aldus afgegeven duplicaat dient van een van de volgende vermeldingen te zijn voorzien:
 
-#### Artikel 21
+##### Artikel 21
 
 Syrië en de Gemeenschap treffen alle nodige maatregelen om te voorkomen dat de goederen die onder dekking van een certificaat inzake goederenverkeer EUR. 1 worden verhandeld en tijdens hun vervoer in een vrije zone op hun grondgebied verblijven, aldaar worden vervangen of andere dan de voor hun bewaring in ongewijzigde staat gebruikelijke behandelingen ondergaan.
 
-#### Artikel 22
+##### Artikel 22
 
 Om de juiste toepassing van deze Titel te verzekeren, verlenen Syrië en de Gemeenschap elkaar, door bemiddeling van hun respectieve douanediensten, wederzijdse bijstand ten behoeve van de controle van de echtheid van de certificaten inzake goederenverkeer EUR. 1 en de juistheid van de inlichtingen betreffende de werkelijke oorsprong van de betrokken produkten en van de op de formulieren EUR. 2 voorkomende verklaringen van de exporteurs.
 
-#### Artikel 23
+##### Artikel 23
 
 Sancties worden getroffen tegen een ieder die, ten einde een goed onder de preferentiële regeling te doen vallen, hetzij een document met onjuiste gegevens opstelt of laat opstellen om een certificaat inzake goederenverkeer EUR. 1 te verkrijgen, hetzij een formulier EUR. 2 met onjuiste gegevens opstelt of laat opstellen.
 
-#### Artikel 24
+##### Artikel 24
 
 1. De controle a posteriori van de certificaten inzake goederenverkeer EUR. 1 of van de formulieren EUR. 2 geschiedt door middel van steekproeven en telkens wanneer de douaneautoriteiten van de Staat van invoer gegronde twijfel koesteren over de echtheid van het document of de juistheid van de gegevens betreffende de werkelijke oorsprong van het betrokken goed.
 
@@ -887,29 +909,29 @@ Wanneer deze geschillen niet tussen de douaneautoriteiten van de Staat van invoe
 
 In alle gevallen is de regeling van de geschillen tussen de importeur en de douaneautoriteiten van de Staat van invoer onderworpen aan de wetgeving van deze Staat.
 
-#### Artikel 25
+##### Artikel 25
 
 De Samenwerkingsraad kan besluiten de bepalingen van dit protocol te wijzigen.
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Gemeenschap en Syrië treffen alle maatregelen nodig om ervoor te zorgen dat de certificaten inzake goederenverkeer EUR. 1 en de formulieren EUR. 2, overeenkomstig de artikelen 11 en 12 van dit protocol, vanaf de datum van inwerkingtreding daarvan kunnen worden overgelegd.
 
 2. De certificaten inzake goederenverkeer EUR. 1 alsmede de vóór de 1 datum van inwerkingtreding van dit protocol in de Lid-Staten gedrukte formulieren EUR. 2 die niet in overeenstemming zijn met de in de bijlagen V en VI van dit protocol opgenomen modellen kunnen onder de in dit protocol bepaalde voorwaarden worden gebruikt tot de voorraden ervan zijn uitgeput.
 
-#### Artikel 27
+##### Artikel 27
 
 De Gemeenschap en Syrië treffen, elk voor zich, de voor de tenuitvoerlegging van dit protocol vereiste maatregelen.
 
-#### Artikel 28
+##### Artikel 28
 
 De bijlagen bij dit protocol maken daarvan een integrerend deel uit.
 
-#### Artikel 29
+##### Artikel 29
 
 Goederen die voldoen aan de bepalingen van titel I en die zich op de datum van inwerkingtreding van de overeenkomst onderweg bevinden, dan wel in de Gemeenschap of in Syrië onder de regeling van voorlopige opslag, douane-entrepots of vrije zones zijn geplaatst, kunnen met toepassing van de bepalingen van de overeenkomst worden toegelaten, op voorwaarde dat aan de douaneautoriteiten van de staat van invoer - binnen een termijn van vier maanden vanaf die datum - een certificaat A. ET. 1 dat onder de in artikel 26, lid 2, vermelde voorwaarden is afgegeven of een certificaat EUR. 1 dat a posteriori door de bevoegde douaneautoriteiten van de Staat van uitvoer is opgesteld, alsmede bewijsstukken van het rechtstreeks vervoer worden overgelegd.
 
-#### Artikel 30
+##### Artikel 30
 
 De in de artikelen 19 en 20 bedoelde vermeldingen worden in het vak „opmerkingen” van het certificaat aangebracht.
 

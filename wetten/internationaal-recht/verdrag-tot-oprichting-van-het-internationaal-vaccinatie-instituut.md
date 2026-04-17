@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot oprichting van het Internationaal Vaccinatie-Instituut"
 identifier: "BWBV0001340"
-categorie: "Internationaal recht"
-publicatiedatum: 2022-11-16
-laatste_update: 2022-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001340"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-11-16"
+last_updated: "2022-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001340"
+soort: "verdrag"
+stam_id: "10000574883"
+version_id: "10000603172"
+internal_id: "C10006988251"
+label_id: "10000575274"
+original_entry_into_force: "1998-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001340/2022-11-16/0"
+intitule_bron: "Trb.1997-35"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-23"
+intitule_published: "1997-02-20"
+intitule_in_force: "1998-08-07"
+intitule_status: "goed"
+original_publication: "Trb.1997-35"
+original_signed_date: "1998-06-23"
+original_published_date: "1997-02-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-35"
+entry_into_force_date: "1998-07-01"
+jci_1_3: "jci1.3:c:BWBV0001340&z=2022-11-16&g=2022-11-16"
+jci_1_0: "1.0:c:BWBV0001340&g=2022-11-16"
+citeertitel_status: "officieel"
+signed_date: "1998-06-23"
+entry_into_force: "1998-07-01"
 ---
-
 # Verdrag tot oprichting van het Internationaal Vaccinatie-Instituut
 
 Overwegende dat het Initiatief tot Vaccinatie van Kinderen, (hierna te noemen „het CVI”) een coalitie is van regeringen, multi- en bilaterale organisaties, niet-gouvernementele organisaties met inbegrip van stichtingen en verenigingen, en de industrie die gericht is op het waarborgen van de beschikbaarheid van veilige, doeltreffende en betaalbare vaccins, de ontwikkeling en introductie van nieuwe en verbeterde vaccins en op het vergroten van de capaciteit van ontwikkelingslanden op het gebied van ontwikkeling, productie en gebruik van vaccins bij immunisatieprogramma's;
@@ -22,33 +46,33 @@ Overwegende dat de Partijen bij dit Verdrag het Instituut wensen op te richten a
 
 Zijn de ondertekenende Partijen het volgende overeengekomen:
 
-#### Artikel I. Oprichting
+##### Artikel I. Oprichting
 
 Er wordt een onafhankelijke internationale organisatie opgericht met de naam „Internationaal Vaccinatie-instituut”. Dit Instituut functioneert in overeenstemming met het Statuut dat als een integrerend bestanddeel bij dit Verdrag is gevoegd.
 
-#### Artikel II. Rechten, voorrechten en immuniteiten
+##### Artikel II. Rechten, voorrechten en immuniteiten
 
 1. De Regering van de Republiek Korea verleent het Instituut dezelfde rechten, voorrechten en immuniteiten als die welke gewoonlijk worden toegekend aan soortgelijke internationale organisaties.
 
 2. Voorrechten en immuniteiten worden verleend aan de Leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut zoals vastgelegd in de artikelen VIII, IX en [XIII van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XIII&z=2022-11-16&g=2022-11-16) van het Instituut dat is bijgevoegd en aan deskundigen die opdrachten uitvoeren ten behoeve van het Instituut.
 
-#### Artikel III. Depositaris
+##### Artikel III. Depositaris
 
 De Secretaris-Generaal van de Verenigde Naties is depositaris van dit Verdrag.
 
-#### Artikel IV. Ondertekening
+##### Artikel IV. Ondertekening
 
 Dit Verdrag staat op het Hoofdkantoor van de Verenigde Naties te New York open voor ondertekening door alle Staten en intergouvernementele organisaties. Het blijft voor ondertekening open gedurende twee jaar vanaf 28 oktober 1996, tenzij deze termijn voor de afloop ervan door de depositaris wordt verlengd op verzoek van de Raad van Toezicht van het Instituut.
 
-#### Artikel V. Bekrachtiging, aanvaarding en goedkeuring
+##### Artikel V. Bekrachtiging, aanvaarding en goedkeuring
 
 Dit Verdrag dient te worden bekrachtigd, aanvaard of goedgekeurd door de ondertekenende Staten en intergouvernementele organisaties bedoeld in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-11-16&g=2022-11-16).
 
-#### Artikel VI. Toetreding
+##### Artikel VI. Toetreding
 
 Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=IV&z=2022-11-16&g=2022-11-16) genoemde termijn kan iedere Staat of intergouvernementele organisatie tot dit Verdrag toetreden behoudens goedkeuring van de Raad van Toezicht van het Instituut met gewone meerderheid van stemmen.
 
-#### Artikel VII. Regeling van geschillen
+##### Artikel VII. Regeling van geschillen
 
 1. De Partijen streven ernaar geschillen over de uitlegging of de toepassing van dit Verdrag te regelen door middel van onderhandelingen of op elke andere onderling overeen te komen wijze.
 
@@ -62,21 +86,21 @@ Na afloop van de in [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBV0001340
 
 6. Het scheidsgerecht past de beginselen en regels van het internationale recht toe en zijn uitspraak is definitief en bindend voor beide Partijen.
 
-#### Artikel VIII. Inwerkingtreding
+##### Artikel VIII. Inwerkingtreding
 
 1. Dit Verdrag en het bijbehorende Statuut treden in werking onmiddellijk nadat drie akten van bekrachtiging, aanvaarding, goedkeuring of toetreding zijn nedergelegd bij de Secretaris-Generaal.
 
 2. Voor iedere Staat of intergouvernementele organisatie die een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt na de inwerkingtreding van dit Verdrag, treedt het Verdrag in werking op de eerste dag van de maand volgend op de datum waarop de desbetreffende akte is nedergelegd.
 
-#### Artikel IX. Opzegging
+##### Artikel IX. Opzegging
 
 Iedere Partij bij dit Verdrag kan dit Verdrag te allen tijde opzeggen door middel van een schriftelijke kennisgeving aan de depositaris. De beëindiging van de instemming door dit Verdrag te worden gebonden wordt van kracht drie maanden na de datum waarop de schriftelijke kennisgeving is ontvangen.
 
-#### Artikel X. Beëindiging
+##### Artikel X. Beëindiging
 
 Dit Verdrag wordt beëindigd drie maanden nadat het Instituut is opgeheven krachtens [artikel XXI van het Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0001340&artikel=XXI&z=2022-11-16&g=2022-11-16).
 
-#### Artikel XI. Authentieke tekst
+##### Artikel XI. Authentieke tekst
 
 De authentieke tekst van dit Verdrag en het bijbehorende Statuut is gesteld in de Engelse taal.
 
@@ -84,21 +108,21 @@ Preambule
 
 Het Internationale Vaccinatie-instituut wordt opgericht in de overtuiging dat de gezondheid van kinderen in ontwikkelingslanden aanzienlijk kan worden verbeterd door de ontwikkeling, de introductie en het gebruik van nieuwe en verbeterde vaccins en in de overtuiging dat deze vaccins dienen te worden ontwikkeld in een dynamische interactie tussen wetenschap, volksgezondheid en bedrijfsleven. Het Internationaal Vaccinatie-instituut dient een centrum van wetenschap te worden ten behoeve van het algemeen belang waar deze dynamische interactie kan plaatsvinden door middel van onderzoek, scholing, technische ondersteuning, dienstverlening en voorlichting.
 
-#### Artikel I. Vestiging van de zetel
+##### Artikel I. Vestiging van de zetel
 
 De zetel van het Instituut wordt gevestigd te Seoel, Republiek Korea. Deze locatie is gekozen in een onafhankelijke internationale procedure die op verzoek van het UNDP heeft plaatsgevonden in overeenstemming met de vereisten voor het verrichten van de taken en de verwezenlijking van de doelstellingen van het Instituut.
 
-#### Artikel II. Status
+##### Artikel II. Status
 
 1. Het Instituut is een internationaal centrum voor onderzoek en ontwikkeling opgericht op initiatief van het UNDP, als deel van zijn bijdrage aan het CVI, een internationale beweging waarin organisaties, bedrijven, stichtingen en regeringen zijn verenigd en die zich toelegt op het waarborgen van de permanente beschikbaarheid van doeltreffende en betaalbare vaccins, en de ontwikkeling en introductie van nieuwe en verbeterde vaccins. Het Instituut functioneert als een autonome organisatie zonder winstoogmerk met een internationale status en zonder politieke overtuiging op het gebied van management, personeel en activiteiten. Het Instituut wordt uitsluitend opgericht ten behoeve van wetenschappelijke, educatieve en ontwikkelingsdoeleinden.
 
 2. Het Instituut heeft een volledige rechtspersoonlijkheid en heeft iedere rechtsbevoegdheid die nodig kan zijn voor het verrichten van zijn taken of het verwezenlijken van zijn doelstellingen.
 
-#### Artikel III. Subsidiaire organen
+##### Artikel III. Subsidiaire organen
 
 Het Instituut kan op alle plaatsen binnen en buiten de Republiek Korea alle centra, kantoren of laboratoria opzetten die de Raad van Toezicht (hierna te noemen „de Raad") noodzakelijk acht voor de doelmatige uitvoering van zijn programma's en het verwezenlijken van zijn doelstellingen.
 
-#### Artikel IV. Doelstellingen
+##### Artikel IV. Doelstellingen
 
 Het Instituut draagt zorg voor de uitvoering van belangrijke wetenschappelijke taken binnen het kader van de algemene doelstellingen van het CVI. Dit betreft met name:
 
@@ -106,13 +130,13 @@ Het Instituut draagt zorg voor de uitvoering van belangrijke wetenschappelijke t
 
 - 2. het ter beschikking stellen, in samenwerking met belangrijke nationale en internationale instituten, van faciliteiten en trainingsprogramma's die gericht zijn op het vermeerderen van de kennis en het vermogen van ontwikkelingslanden en ontwikkelde landen om te werken aan die onderwerpen die binnen het bestek en de competentie van het Instituut liggen.
 
-#### Artikel V. Uitgangspunten
+##### Artikel V. Uitgangspunten
 
 1. Het Instituut fungeert als een internationaal kennis- en informatiecentrum gericht op het ontwikkelen van deskundigheid op specifieke gebieden en het bieden van technische ondersteuning bij het onderzoek naar en de ontwikkeling van vaccins.
 
 2. De activiteiten van het Instituut worden afgestemd op die van andere openbare of particuliere, internationale en nationale instituten die soortgelijke doelstellingen hebben. De activiteiten worden, zo veel mogelijk, in samenwerking met deze instituten gepland en uitgevoerd. In het bijzonder werkt het Instituut nauw samen met de Wereldgezondheidsorganisatie (hierna te noemen „de WHO”) bij het bepalen van de technische en andere aspecten van het programma die verband houden met het mandaat van de WHO.
 
-#### Artikel VI. Taken
+##### Artikel VI. Taken
 
 1. Het programma van het Instituut bestrijkt vier gebieden:
 
@@ -142,7 +166,7 @@ Het Instituut kan andere programmagebieden vaststellen die in overeenstemming zi
 
 3. De programma's en plannen van het Instituut worden getoetst en goedgekeurd door de Raad, die daarbij rekening houdt met de behoeften van ontwikkelingslanden en ontwikkelde landen en het vermogen van het Instituut om aan deze behoeften te voldoen.
 
-#### Artikel VII. Bevoegdheden
+##### Artikel VII. Bevoegdheden
 
 1. Het Instituut krijgt de volgende bevoegdheden:
 
@@ -160,7 +184,7 @@ Het Instituut kan andere programmagebieden vaststellen die in overeenstemming zi
 
 2. Geen enkel deel van de inkomsten van het Instituut komt ten goede van of kan worden uitgekeerd aan de trustees, functionarissen of andere privé-personen, met uitzondering van de toestemming en de bevoegdheid van het Instituut om een redelijke vergoeding te betalen voor verleende diensten en betalingen en uitkeringen te doen ter verwezenlijking van de in artikel IV genoemde doelstellingen.
 
-#### Artikel VIII. Organen
+##### Artikel VIII. Organen
 
 De organen van het Instituut zijn:
 
@@ -168,7 +192,7 @@ De organen van het Instituut zijn:
 
 - ii. de Directeur en het personeel.
 
-#### Artikel IX. Samenstelling van de Raad
+##### Artikel IX. Samenstelling van de Raad
 
 1. De Raad bestaat uit ten minste negen leden, die als volgt worden gekozen:
 
@@ -192,7 +216,7 @@ De organen van het Instituut zijn:
 
 6. De leden van de Raad die op voordracht van de regeringen worden gekozen, hebben een ambtstermijn van drie jaar en kunnen worden herkozen.
 
-#### Artikel X. Taken en bevoegdheden van de Raad
+##### Artikel X. Taken en bevoegdheden van de Raad
 
 1. De Raad is verantwoordelijk voor alle aangelegenheden van het Instituut. Het is onder andere zijn taak ervoor te zorgen dat:
 
@@ -226,7 +250,7 @@ De organen van het Instituut zijn:
 
 4. De Raad kan alle andere subcomités in het leven roepen die hij noodzakelijk acht voor de uitoefening van zijn taken.
 
-#### Artikel XI. Procedures van de Raad
+##### Artikel XI. Procedures van de Raad
 
 1. De Raad kiest één lid, dat niet de Directeur mag zijn, tot voorzitter. De gewone termijn voor een voorzitter is drie jaar. De voorzitter kan door de Raad worden herkozen voor een tweede termijn.
 
@@ -240,7 +264,7 @@ De organen van het Instituut zijn:
 
 6. Gespreide termijnen kunnen van toepassing zijn op de leden die een positie in de Raad bekleden zodat deze langer kunnen aanblijven dan hun reguliere termijn als functionaris in omstandigheden waarbij meer dan twee functionarissen in hetzelfde jaar de Raad verlaten. De Raad kan de gespreide termijnen vaststellen voor of na het verstrijken van de reguliere termijn van de functionarissen. Niettegenstaande het bepaalde in artikel IX, tweede lid, kan de termijn van functionarissen als lid van de Raad worden verlengd tot het verstrijken van de gespreide termijnen. De gespreide termijnen mogen echter niet langer zijn dan drie jaar.
 
-#### Artikel XII. Stemming door de Raad
+##### Artikel XII. Stemming door de Raad
 
 Normaliter berusten de handelingen van de Raad op consensus. Indien de voorzitter echter een stemming noodzakelijk acht, geldt het volgende:
 
@@ -248,11 +272,11 @@ Normaliter berusten de handelingen van de Raad op consensus. Indien de voorzitte
 
 - ii. de besluiten van de Raad worden genomen bij meerderheid van de aanwezige leden behalve indien in dit Statuut anders is bepaald.
 
-#### Artikel XIII. Benoeming van de Directeur
+##### Artikel XIII. Benoeming van de Directeur
 
 De Raad benoemt de Directeur en stelt zijn/haar ambtstermijn of reden voor beëindiging van de ambtstermijn vast bij twee derde meerderheid van de aanwezige leden die hun stem uitbrengen.
 
-#### Artikel XIV. Taken en bevoegdheden van de Directeur
+##### Artikel XIV. Taken en bevoegdheden van de Directeur
 
 1. De Directeur is de Raad verantwoording verschuldigd over het functioneren en beheer van het Instituut en hij staat in voor een adequate ontwikkeling en uitvoering van programma's en doelstellingen van het Instituut. De Directeur vervult een voortrekkersrol bij de inzameling van gelden en de mobilisatie van middelen voor het Instituut. Hij/zij is de hoogste uitvoerende functionaris van het Instituut.
 
@@ -274,7 +298,7 @@ De Raad benoemt de Directeur en stelt zijn/haar ambtstermijn of reden voor beëi
 
 3. De Directeur is de wettelijke vertegenwoordiger van het Instituut. Hij/zij ondertekent alle akten, contracten, overeenkomsten, verdragen en andere juridische stukken die nodig zijn voor het normale functioneren van het Instituut. De Raad kan beslissen in welke mate deze bevoegdheden aan de Directeur gedelegeerd worden. Contracten, overeenkomsten en verdragen die gevolg hebben voor bestuur, doelstellingen, locatie, uitbreiding of opheffing van het Instituut, of belangrijke aangelegenheden betreffende de betrekkingen met het gastland, zijn onderworpen aan de goedkeuring van de Raad.
 
-#### Artikel XV. Personeel
+##### Artikel XV. Personeel
 
 1. Het personeel wordt door de Directeur benoemd conform het personeelsreglement dat door de Raad moet worden goedgekeurd.
 
@@ -282,7 +306,7 @@ De Raad benoemt de Directeur en stelt zijn/haar ambtstermijn of reden voor beëi
 
 3. Salarisschalen, verzekeringen, pensioenregelingen en andere arbeidsvoorwaarden worden vastgelegd in het personeelsreglement en zijn in beginsel internationaal gezien concurrerend en vergelijkbaar met de voorwaarden van de Verenigde Naties, geassocieerde instellingen en andere belangrijke internationale organisaties.
 
-#### Artikel XVI. Financiering
+##### Artikel XVI. Financiering
 
 1. Het budget van het Instituut wordt gevoed door gelden van de lidstaten, internationale organisaties en andere openbare en particuliere organisaties en instellingen, met inbegrip van de leden van het CVI, die een financiële en andere vrijwillige bijdrage willen leveren. Het Instituut is bevoegd bijdragen te ontvangen uit andere bronnen. Het Instituut kan ook bijdragen en giften aanvaarden ten behoeve van de vorming van een fonds.
 
@@ -292,7 +316,7 @@ De Raad benoemt de Directeur en stelt zijn/haar ambtstermijn of reden voor beëi
 
 4. De jaarlijkse controle van de bedrijfsvoering van het Instituut wordt uitgevoerd door een onafhankelijke internationale accountantsfirma die wordt aangewezen door de Raad op voordracht van de Directeur. De resultaten van deze accountantsonderzoeken worden door de Directeur ter beoordeling aan de Raad voorgelegd. Na goedkeuring door de Raad wordt het accountantsrapport verspreid onder de partijen die bijdragen geven aan het Instituut.
 
-#### Artikel XVII. Voorrechten en immuniteiten
+##### Artikel XVII. Voorrechten en immuniteiten
 
 1. Het Instituut sluit met de Regering een Zetelovereenkomst betreffende de faciliteiten, voorrechten en immuniteiten die het Instituut, de leden van de Raad van Toezicht, de Directeur en het personeel van het Instituut alsmede de deskundigen die opdrachten uitvoeren ten behoeve van het Instituut, genieten tijdens de verrichting van hun officiële taken in Korea.
 
@@ -300,35 +324,35 @@ De Raad benoemt de Directeur en stelt zijn/haar ambtstermijn of reden voor beëi
 
 3. De voorrechten en immuniteiten worden verleend in het belang van het Instituut en niet tot persoonlijk voordeel. De Raad van Toezicht heeft het recht afstand te doen van de voorrechten en immuniteiten.
 
-#### Artikel XVIII. Betrekkingen met andere organisaties
+##### Artikel XVIII. Betrekkingen met andere organisaties
 
 Teneinde zijn doelstellingen op de meest doeltreffende wijze te verwezenlijken kan het Instituut samenwerkingsovereenkomsten sluiten met daarvoor in aanmerking komende publieke en particuliere, nationale, regionale of internationale organisaties, stichtingen en verenigingen.
 
-#### Artikel XIX. Regeling van geschillen
+##### Artikel XIX. Regeling van geschillen
 
 Het Instituut treft voorzieningen voor een passende geschillenregeling met inbegrip van arbitrage tussen het Instituut en zijn personeel of tussen de personeelsleden onderling.
 
-#### Artikel XX. Wijzigingen
+##### Artikel XX. Wijzigingen
 
 1. Dit Statuut kan door de Raad worden gewijzigd bij twee derde meerderheid van alle stemmende leden, mits een kennisgeving van de voorgestelde wijziging tezamen met de volledige tekst daarvan ten minste vier weken voor de bijeenkomst aan alle leden van de Raad is verzonden of alle leden van de Raad er blijk van hebben gegeven een dergelijke kennisgeving niet nodig te achten.
 
 2. De wijziging wordt van kracht onmiddellijk nadat deze volgens de in het eerste lid bedoelde procedure is aangenomen door de stemmende leden.
 
-#### Artikel XXI. Opheffing
+##### Artikel XXI. Opheffing
 
 1. Indien wordt vastgesteld dat de doelstellingen van het Instituut in voldoende mate zijn verwezenlijkt of dat het Instituut niet langer in staat is doeltreffend te werken, kan het Instituut worden opgeheven bij drie vierde meerderheid van alle stemmende leden van de Raad.
 
 2. In geval van opheffing herkrijgt de Regering alle grond, installaties en andere activa in het gastland en in andere landen gelegen, en door de Regering aan het Instituut ter beschikking gesteld, alsmede blijvend daaraan aangebrachte verbeteringen die vast kapitaal vertegenwoordigen. De overige activa van het Instituut worden overgebracht naar landen die deze activa voor soortgelijke doelen gaan gebruiken of verdeeld onder instellingen in de desbetreffende landen wier doelen vergelijkbaar zijn met die van het Instituut, nadat hierover in overleg met de Regering overeenstemming is bereikt tussen de regeringen van die landen en de Raad.
 
-#### Wijziging I*
+##### Wijziging I*
 
 Teneinde zijn TAKEN uit te voeren, kan het Instituut partijen testvaccins bereiden ten behoeve van evaluatie en klinische proeven. In overeenstemming met zijn STATUS als instituut voor wetenschap, ontwikkeling en educatie produceert het Instituut evenwel geen vaccins bestemd voor verkoop onder productlicentie of voor andere commerciële verkoop.
 
-#### Wijziging II*. Vrijwaring en aansprakelijkheid
+##### Wijziging II*. Vrijwaring en aansprakelijkheid
 
 De Raad, functionarissen en personeelsleden, met inbegrip van consultants, van het Instituut worden door het Instituut gevrijwaard tegen alle verliezen en kosten die zij maken in verband met de uitoefening van hun taken, uitgezonderd verliezen en kosten die zijn veroorzaakt door opzettelijk in gebreke te blijven.
 
-#### Wijziging III*
+##### Wijziging III*
 
 De ambtstermijn en de selectie van de door de WHO te benoemen leden van de Raad van Toezicht worden door de WHO bepaald.
 

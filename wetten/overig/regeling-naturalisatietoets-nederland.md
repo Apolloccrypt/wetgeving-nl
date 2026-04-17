@@ -1,13 +1,39 @@
 ---
-title: "Regeling naturalisatietoets Nederland"
+title: "Regeling van de Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering van 16 januari 2007, nr. 5459170 ter uitvoering van het Besluit naturalisatietoets voor Nederland (Regeling naturalisatietoets Nederland)"
 identifier: "BWBR0021067"
-categorie: "Overig"
-publicatiedatum: 2025-06-28
-laatste_update: 2025-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021067"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-06-28"
+last_updated: "2025-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021067"
+soort: "ministeriele-regeling"
+stam_id: "8877983"
+version_id: "14386752"
+internal_id: "C19565581"
+label_id: "8857364"
+dtd_version: "2.0"
+original_entry_into_force: "2007-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021067/2025-06-28/0"
+intitule_bron: "Stcrt.2007-16"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-16"
+intitule_published: "2007-01-23"
+intitule_in_force: "2007-01-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-67"
+original_signed_date: "2007-03-26"
+original_published_date: "2007-04-04"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2007-67-p8-SC79915"
+entry_into_force_date: "2007-04-01"
+jci_1_3: "jci1.3:c:BWBR0021067&z=2025-06-28&g=2025-06-28"
+jci_1_0: "1.0:c:BWBR0021067&g=2025-06-28"
+citeertitel_status: "officieel"
+short_title: "Regeling naturalisatietoets Nederland"
+signed_date: "2007-03-26"
+entry_into_force: "2007-04-01"
 ---
-
 # Regeling van de Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering van 16 januari 2007, nr. 5459170 ter uitvoering van het Besluit naturalisatietoets voor Nederland (Regeling naturalisatietoets Nederland)
 
 Gelet op [artikel 6 van het Besluit naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=6);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -40,7 +66,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Naturalisatietoets
 
-#### Artikel 2
+##### Artikel 2
 
 1. De verzoeker heeft de naturalisatietoets, bedoeld in [artikel 2, tweede lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=2) behaald indien hij het inburgeringsexamen, bedoeld in [artikel 7, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7) met goed gevolg heeft afgelegd.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 4. Tenzij in deze regeling anders is bepaald, zijn voor de toepassing van het derde lid de bepalingen van [hoofdstuk 4 van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&hoofdstuk=4), de [artikelen 2.7, derde lid, aanhef en onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.7), [2.9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.9), en [2.10, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.10), en [hoofdstuk 3, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&hoofdstuk=3) en [hoofdstuk 3 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&hoofdstuk=3) van toepassing zoals deze luidden op 31 december 2012, met dien verstande dat [artikel 15, vijfde lid van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=15), [artikel 3.8 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.8) en [artikel 3.7 van de Regeling inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020657&artikel=3.7) zoals deze luidden op 31 december 2012 niet van toepassing zijn.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De verzoeker die buiten het Koninkrijk hoofdverblijf heeft, legt naar keuze de naturalisatietoets af bij het hoofd van de diplomatieke en consulaire post, die namens de Minister van Buitenlandse Zaken bevoegd is een naturalisatieverzoek in ontvangst te nemen en de naturalisatietoets af te nemen, dan wel in Nederland.
 
@@ -80,7 +106,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 3. Gedeeltelijke vrijstellingen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Van het afleggen van de onderdelen van het inburgeringsexamen, bedoeld in [artikel 3.9, tweede lid, onderdelen a tot en met d, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.9) dan wel van het praktijkdeel als bedoeld in [artikel 3.7 van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=3.7) zoals dit luidde op 31 december 2012 alsmede van het elektronisch praktijkexamen en de toets gesproken Nederlands, bedoeld in artikel 3.9, eerste lid, van het Besluit inburgering zoals dit luidde op 31 december 2012, is vrijgesteld de verzoeker die het certificaat overlegt, als bedoeld in de [Regeling certificaat inburgering oudkomers](https://wetten.overheid.nl/jci1.3:c:BWBR0018730), met daarop de aantekening dat voor de onderdelen Lezen, Luisteren, Schrijven en Spreken is behaald ten minste het niveau 2 van het referentiekader NT2.
 
@@ -142,7 +168,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 #### § 4. Belemmeringen
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 4, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) bedoelde psychische of lichamelijke belemmering dan wel verstandelijke handicap toont verzoeker, die woonachtig is in Nederland, aan door overlegging van een medisch advies van een arts, bedoeld in [artikel 2.8, eerste lid, van het Besluit inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020674&artikel=2.8), dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden en inhoudende dat sprake is van een belemmering of een handicap.
 
@@ -156,7 +182,7 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 6. De in [artikel 4, aanhef en onder a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4) bedoelde psychische of lichamelijke belemmering dan wel verstandelijke handicap toont verzoeker, die woonachtig is buiten het Koninkrijk, aan door overlegging van een verklaring van een arts of deskundige, gespecialiseerd in de desbetreffende aandoening, dat op de dag van indiening van het naturalisatieverzoek niet ouder is dan zes maanden en inhoudende dat sprake is van een psychische of lichamelijke belemmering dan wel verstandelijke handicap.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geen verplichting tot het afleggen van de onderdelen van het inburgeringsexamen genaamd de examinering van mondelinge en schriftelijke vaardigheden in de Nederlandse taal op ten minste het niveau A2 van het Europees Raamwerk voor Moderne Vreemde talen en de examinering van de kennis van de Nederlandse samenleving, bedoeld in [artikel 7, tweede lid, onderdelen b en c, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=7), heeft op grond van [artikel 4, eerste lid, aanhef en onder b, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0013604&artikel=4), de verzoeker die een beschikking van de Minister van Sociale Zaken en Werkgelegenheid overlegt, waaruit blijkt dat hij op grond van [artikel 6, tweede lid, van de Wet inburgering](https://wetten.overheid.nl/jci1.3:c:BWBR0020611&artikel=6) wegens aangetoonde geleverde inspanningen van die onderdelen van het inburgeringsexamen is ontheven.
 
@@ -188,19 +214,19 @@ Om tot vrijstelling te kunnen leiden, dient de verklaring de volgende gegevens t
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 De [Regeling naturalisatietoets](https://wetten.overheid.nl/jci1.3:c:BWBR0014809) wordt ingetrokken.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 april 2007.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling naturalisatietoets Nederland.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling modelluchtvaartuigclubs of -verenigingen"
+title: "Regeling van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/124376, houdende vaststelling van regels met betrekking tot de vergunning van modelluchtvaartuigclubs of -verenigingen als bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) (Regeling modelluchtvaartuigclubs of -verenigingen)"
 identifier: "BWBR0049799"
-categorie: "Milieu"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049799"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049799"
+soort: "ministeriele-regeling"
+stam_id: "17126603"
+version_id: "30142742"
+internal_id: "C43183751"
+label_id: "17035184"
+dtd_version: "2.0"
+original_entry_into_force: "2024-06-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049799/2026-01-01/0"
+intitule_bron: "Stcrt.2024-18140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-04"
+intitule_published: "2024-06-12"
+intitule_in_force: "2024-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-18140"
+original_signed_date: "2024-06-04"
+original_published_date: "2024-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-18140"
+entry_into_force_date: "2024-06-13"
+jci_1_3: "jci1.3:c:BWBR0049799&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049799&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling modelluchtvaartuigclubs of -verenigingen"
+signed_date: "2024-06-04"
+entry_into_force: "2024-06-13"
 ---
-
 # Regeling van de Minister van Infrastructuur en Waterstaat, van 4 juni 2024, nr. IENW/BSK-2024/124376, houdende vaststelling van regels met betrekking tot de vergunning van modelluchtvaartuigclubs of -verenigingen als bedoeld in artikel 16 van uitvoeringsverordening (EU) nr. 2019/947 van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152) (Regeling modelluchtvaartuigclubs of -verenigingen)
 
 Gelet op de artikelen 16, eerste, tweede en derde lid, en artikel 18, onder a, van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152), de [artikelen 1.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=1.5) en [5.10, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=5.10) en [artikel 4a van het Besluit luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0035899&artikel=4a);
@@ -16,7 +42,7 @@ BESLUIT:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -26,13 +52,13 @@ In deze regeling wordt verstaan onder:
 
 - **vergunning:** de vergunning bedoeld in artikel 16 van [uitvoeringsverordening (EU) nr. 2019/947](32019R0947) van de Commissie van 24 mei 2019 inzake de regels en procedures voor de exploitatie van onbemande luchtvaartuigen (PbEU 2019, L 152).
 
-#### Artikel 2. Toepassingsbereik
+##### Artikel 2. Toepassingsbereik
 
 Deze regeling is van toepassing op modelluchtvaartuigclubs of -verenigingen.
 
 ### Hoofdstuk 2. Aanvraag, wijziging en handhaving van de vergunning
 
-#### Artikel 3. Aanvraag, afgifte en wijziging van de vergunning
+##### Artikel 3. Aanvraag, afgifte en wijziging van de vergunning
 
 1. Een aanvraag tot verlening of wijziging van een vergunning wordt ingediend op een door de minister aangegeven wijze.
 
@@ -40,7 +66,7 @@ Deze regeling is van toepassing op modelluchtvaartuigclubs of -verenigingen.
 
 3. De vergunning wordt afgegeven voor onbepaalde tijd.
 
-#### Artikel 4. Inhoud vergunning
+##### Artikel 4. Inhoud vergunning
 
 In de vergunning worden tenminste bepalingen opgenomen met betrekking tot:
 
@@ -60,17 +86,17 @@ In de vergunning worden tenminste bepalingen opgenomen met betrekking tot:
 
 - e. de regels en procedures omtrent het uitvoeren van vluchten door niet-leden en het uitvoeren van vluchten buiten het modelluchtvaartterrein.
 
-#### Artikel 5. Handhaving
+##### Artikel 5. Handhaving
 
 Indien een modelluchtvaartuigclub of -vereniging niet langer voldoet aan de eisen die worden gesteld aan de afgifte van een vergunning of in strijd handelt met de bepalingen zoals bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=4&z=2026-01-01&g=2026-01-01), kan de vergunning worden gewijzigd, beperkt, geschorst of ingetrokken.
 
 ### Hoofdstuk 3. Deelname aan het luchtverkeer
 
-#### Artikel 6. Toepassingsbereik
+##### Artikel 6. Toepassingsbereik
 
 Dit hoofdstuk is enkel van toepassing op modelluchtvaartuigclubs of -verenigingen aan wie op grond van [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&hoofdstuk=2&artikel=3&z=2026-01-01&g=2026-01-01) een vergunning is verleend.
 
-#### Artikel 7. Luchtruimklasse en maximale vlieghoogte
+##### Artikel 7. Luchtruimklasse en maximale vlieghoogte
 
 1. Vluchten zijn toegestaan tot een hoogte van maximaal 300 meter boven de grond of het water in luchtruim met klasse G.
 
@@ -90,7 +116,7 @@ Dit hoofdstuk is enkel van toepassing op modelluchtvaartuigclubs of -vereniginge
 
 5. In afwijking van het eerste lid zijn vluchten toegestaan in luchtruim met klasse C of D, mits op schriftelijk verzoek van de modelluchtvaartclub- of vereniging een convenant is gesloten met de organisatie die de plaatselijke luchtverkeersleiding verzorgt en de bestuurder zich houdt aan de afspraken in dat convenant.
 
-#### Artikel 8. Vluchten boven bebouwing, wegen, spoorlijnen of mensenmenigten
+##### Artikel 8. Vluchten boven bebouwing, wegen, spoorlijnen of mensenmenigten
 
 Tenzij in de vergunning anders is bepaald, is het verboden een vlucht uit te voeren boven:
 
@@ -102,7 +128,7 @@ Tenzij in de vergunning anders is bepaald, is het verboden een vlucht uit te voe
 
 - d. een mensenmenigte.
 
-#### Artikel 9. Zichtvliegvoorschriften
+##### Artikel 9. Zichtvliegvoorschriften
 
 1. Vluchten wordt slechts uitgevoerd onder omstandigheden en op locaties waarbij er vanaf de grond tijdens de gehele vlucht goed zicht is op het modelluchtvaartuig en het luchtruim daaromheen op een wijze dat tijdens alle vluchtfasen voor passende separatie kan worden gezorgd van derde partijen op de grond en van andere luchtruimgebruikers.
 
@@ -112,27 +138,27 @@ Tenzij in de vergunning anders is bepaald, is het verboden een vlucht uit te voe
 
 4. De minister kan ontheffing verlenen van het verbod, bedoeld in het derde lid. Aan de ontheffing kunnen voorschriften worden verbonden.
 
-#### Artikel 10. Voorrangsregels
+##### Artikel 10. Voorrangsregels
 
 Modelluchtvaartuigen verlenen voorrang aan andere luchtruimgebruikers. In geval twee modelluchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft, voorrang.
 
-#### Artikel 11. Objecten of gebieden die onderdeel uitmaken van vitale processen
+##### Artikel 11. Objecten of gebieden die onderdeel uitmaken van vitale processen
 
 Het is verboden met een modelluchtvaartuig een vlucht uit te voeren binnen een horizontale afstand van 150 meter van objecten of gebieden die onderdeel uitmaken van een vitaal proces als bedoeld in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0049799&bijlage=II&z=2026-01-01&g=2026-01-01) bij deze regeling, tenzij er overeenstemming is met de beheerder van het object of gebied en afspraken daarover schriftelijk zijn vastgelegd.
 
 ### Hoofdstuk 4. Wijziging andere regelgeving
 
-#### Artikel 12. Wijziging [Tijdelijke subsidieregeling Luchtvaart in Transitie](https://wetten.overheid.nl/jci1.3:c:BWBR0049662)
+##### Artikel 12. Wijziging [Tijdelijke subsidieregeling Luchtvaart in Transitie](https://wetten.overheid.nl/jci1.3:c:BWBR0049662)
 
 Wijzigt de Tijdelijke subsidieregeling Luchtvaart in Transitie.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling modelluchtvaartuigclubs of -verenigingen.
 

@@ -1,13 +1,37 @@
 ---
-title: "Besluit rechtspositie rechterlijke ambtenaren"
+title: "Besluit van 21 maart 1994, houdende enkele rechtspositionele voorschriften ten aanzien van de rechterlijke ambtenaren"
 identifier: "BWBR0006530"
-categorie: "Staatsinrichting en bestuur"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006530"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006530"
+soort: "AMvB"
+stam_id: "900133"
+version_id: "29431332"
+internal_id: "C42090991"
+label_id: "873094"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006530/2026-01-01/0"
+intitule_bron: "Stb.1994-212"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-03-21"
+intitule_status: "goed"
+original_publication: "Stb.2023-176"
+original_signed_date: "2023-05-15"
+original_published_date: "2023-05-31"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-176"
+entry_into_force_date: "2023-07-01"
+jci_1_3: "jci1.3:c:BWBR0006530&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006530&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit rechtspositie rechterlijke ambtenaren"
+signed_date: "2023-05-15"
+entry_into_force: "2023-07-01"
 ---
-
 # Besluit van 21 maart 1994, houdende enkele rechtspositionele voorschriften ten aanzien van de rechterlijke ambtenaren
 
 Op de voordracht van Onze Minister van Justitie a.i. van 19 november 1992, Stafafdeling Wetgeving Publiekrecht, nr. 263321/92/6;
@@ -22,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -80,7 +104,7 @@ In dit besluit wordt verstaan onder:
 
 - **ZW:** de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888);
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De maandelijkse loonstrook en de jaaropgave worden uitsluitend op elektronische wijze aan de rechterlijk ambtenaar verzonden.
 
@@ -98,7 +122,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2.1. Benoeming en plaatsing
 
-#### Artikel 2
+##### Artikel 2
 
 1. Om benoemd te kunnen worden als rechterlijk ambtenaar, bedoeld in [artikel 1, onderdeel b, onder 1° tot en met 4° en als rechter in opleiding als bedoeld onder 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), dient het afsluitend examen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5), te voldoen aan de eisen van het tweede en derde lid.
 
@@ -118,7 +142,7 @@ In dit besluit wordt verstaan onder:
 
 4. De eisen, bedoeld in het tweede en derde lid, zijn niet van toepassing op degene die ten minste zes jaar voor de beoogde datum van benoeming het afsluitend examen heeft afgelegd en die tot aan die beoogde datum een ruime praktijkervaring heeft opgedaan in een van de in het tweede lid genoemde rechtsgebieden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een rechterlijk ambtenaar wordt bij een eerste benoeming in een ambt door Onze Minister onderscheidenlijk, indien het een benoeming bij een gerechtshof of rechtbank betreft, door het bestuur van het betrokken gerecht voor een al dan niet volledige arbeidsduur aangesteld.
 
@@ -128,13 +152,13 @@ In dit besluit wordt verstaan onder:
 
 4. Het eerste tot en met derde lid zijn niet van toepassing ten aanzien van de rechterlijke ambtenaren, bedoeld in [artikel 5f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f).
 
-#### Artikel 4
+##### Artikel 4
 
 Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten aanzien van een rechterlijk ambtenaar uitgeoefend door Onze Minister onderscheidenlijk, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
 #### § 2. De Advies- en Arbitragecommissie
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor de bepaling van hun salaris worden de rechterlijke ambtenaren, bedoeld in [artikel 7 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=7), ingedeeld in de volgende categorieën:
 
@@ -166,7 +190,7 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 3. De rechterlijk ambtenaar die is aangesteld voor een minder dan volledige arbeidsduur of voor wie de arbeidsduur op basis van [artikel 8b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8b&z=2026-01-01&g=2026-01-01), is vastgesteld op meer dan gemiddeld 36 uren per week, ontvangt een salaris overeenkomstig het tweede lid, vermenigvuldigd met de voor hem geldende arbeidsduurfactor.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een rechterlijk ambtenaar, die is aangesteld voor een bepaalde arbeidsduur en de leeftijd van 57 jaar heeft bereikt, kan in geval van een opvolgende benoeming in een ambt, waaraan krachtens [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5&z=2026-01-01&g=2026-01-01) een lager maximum salaris is verbonden, aan Onze Minister onderscheidenlijk, indien de opvolgende benoeming een ambt betreft dat bij een gerecht anders dan de Hoge Raad wordt vervuld, het gerechtsbestuur verzoeken om in plaats van het salaris behorende bij het vervullen van dat ambt, het salaris behorende bij het voorafgaand aan de benoeming door hem vervulde ambt te genieten.
 
@@ -188,7 +212,7 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 6. Onze Minister kan ter zake van de uitvoering van dit artikel regels stellen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de rechterlijk ambtenaar, die is aangesteld of aangewezen voor een al dan niet volledige arbeidsduur, wordt, als tegemoetkoming in de algemene kosten die aan de vervulling van het ambt zijn verbonden, een algemene onkostenvergoeding toegekend.
 
@@ -202,17 +226,17 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 6. Onze Minister stelt regels ten aanzien van de hoogte van de algemene onkostenvergoeding.
 
-#### Artikel 8
+##### Artikel 8
 
 Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten aanzien van een rechterlijk ambtenaar uitgeoefend door Onze Minister onderscheidenlijk, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
-#### Artikel 9
+##### Artikel 9
 
 Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten aanzien van een rechterlijk ambtenaar of een gewezen rechterlijk ambtenaar uitgeoefend door Onze Minister onderscheidenlijk, indien het een rechterlijk ambtenaar betreft die werkzaam is bij een gerechtshof of rechtbank of een gewezen rechterlijk ambtenaar die laatstelijk werkzaam is geweest bij een gerechtshof of rechtbank, het gerechtsbestuur.
 
 ### Hoofdstuk 2a. Beëdiging en installatie
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. De eed of belofte, bedoeld in [artikel 1g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), wordt wanneer deze wordt afgenomen ten overstaan van een gerecht, afgenomen op requisitoir van het openbaar ministerie dan wel van de procureur-generaal bij de Hoge Raad.
 
@@ -260,7 +284,7 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 3. Het formulier, bedoeld in [artikel 1g, eerste lid van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), wordt na het afleggen van de eed of belofte ondertekend door de rechterlijk ambtenaar, de rechterlijk ambtenaar met rechtspraak belast die zitting heeft in een enkelvoudige kamer dan wel de voorzitter van de meervoudige kamer, bedoeld in het tweede lid, dan wel de president van de Hoge Raad dan wel de Koning of Onze Minister.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Het bestuur van een gerechtshof of een rechtbank houdt een register bij, waarin de koninklijke besluiten betreffende de benoeming van de daar beëdigde rechterlijke ambtenaren en de formulieren betreffende de afgelegde eed of belofte worden bewaard.
 
@@ -268,7 +292,7 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 3. De griffier van de Hoge Raad houdt een afzonderlijk register bij, waarin de benoeming van rechterlijke ambtenaren bij de Hoge Raad wordt ingeschreven. Tevens houdt de griffier van de Hoge Raad een register bij waarin de koninklijke besluiten worden ingeschreven, bevattende de benoeming van rechterlijke ambtenaren die voor een beëdiging bij de Hoge Raad zijn toegelaten. Tevens worden in dit register de formulieren betreffende de afgelegde eed of belofte bewaard.
 
-#### Artikel 9c
+##### Artikel 9c
 
 1. De installatie, bedoeld in [artikel 1g, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g), geschiedt door middel van het op een terechtzitting voorlezen van het formulier, bedoeld in [artikel 1g, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1g).
 
@@ -280,13 +304,13 @@ Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden ten a
 
 #### § 1. Algemeen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 #### § 2. Arbeidsgezondheidskundige begeleiding en medisch advies
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd hetgeen terzake is bepaald in de [Arbeidsomstandighedenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) geniet de rechterlijk ambtenaar arbeidsgezondheidskundige begeleiding op basis van dit hoofdstuk.
 
@@ -294,7 +318,7 @@ Vervallen
 
 3. Onze Minister kan regels vaststellen met betrekking tot de wijze waarop invulling wordt gegeven aan de begeleiding van verzuim, de arbeidsgezondheidskundige begeleiding en de daarbij in acht te nemen procedures. Van het vaststellen van deze regels kan Onze Minister mandaat verlenen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De rechterlijk ambtenaar geeft in geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte hiervan zo spoedig mogelijk, doch uiterlijk op de tweede dag van die ongeschiktheid, kennis aan de functionele autoriteit.
 
@@ -304,7 +328,7 @@ Vervallen
 
 4. De functionele autoriteit verleent de in het tweede en het derde lid bedoelde toestemming eerst nadat er een medisch advies is.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De rechterlijk ambtenaar kan door de functionele autoriteit worden verplicht om een arbeidsgezondheidskundig onderzoek te ondergaan:
 
@@ -326,7 +350,7 @@ Vervallen
 
 4. Indien ziekteverlof als bedoeld in het tweede lid wordt verleend, wordt de rechterlijk ambtenaar geacht wegens ziekte ongeschikt te zijn tot het verrichten van zijn arbeid en zijn de overige bepalingen van dit hoofdstuk van toepassing. De functionele autoriteit kan ter effectuering van bedoeld ziekteverlof maatregelen treffen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het medisch advies dat wordt uitgebracht naar aanleiding van een arbeidsgezondheidskundig onderzoek als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01), wordt zo spoedig mogelijk aan de rechterlijk ambtenaar en de functionele autoriteit schriftelijk medegedeeld. De rechterlijk ambtenaar wordt daarbij gewezen op de in het tweede lid bedoelde mogelijkheid om een hernieuwd onderzoek te verzoeken.
 
@@ -338,13 +362,13 @@ Vervallen
 
 5. De kosten van het hernieuwd onderzoek komen voor rekening van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) bedoelde gezag. Eventuele reis- en verblijfkosten van de rechterlijk ambtenaar worden hem vergoed overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Indien een geschil bestaat tussen de rechterlijk ambtenaar en diens functionele autoriteit over het al dan niet bestaan van ongeschiktheid tot werken wegens ziekte, kan de rechterlijk ambtenaar of diens functionele autoriteit het UWV verzoeken een onderzoek in te stellen en een oordeel te geven als bedoeld in [artikel 32, eerste lid, van de Wet Suwi](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32).
 
 2. De kosten van het onderzoek, bedoeld in het eerste lid, komen voor rekening van het in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=1&artikel=9&z=2026-01-01&g=2026-01-01) bedoelde gezag. Eventuele reis- en verblijfkosten van de rechterlijk ambtenaar worden hem vergoed overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De leden van de commissie, bedoeld in [artikel 14, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), worden per verzoek om een hernieuwd onderzoek aangewezen door de functionele autoriteit.
 
@@ -352,13 +376,13 @@ Vervallen
 
 3. De commissie deelt haar oordeel schriftelijk mede aan de rechterlijk ambtenaar, de functionele autoriteit en de behandelend arts, bedoeld in [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 16
+##### Artikel 16
 
 De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=2&artikel=13&z=2026-01-01&g=2026-01-01) zijn van overeenkomstige toepassing op de gewezen rechterlijk ambtenaar voorzover het zijn aanspraken op basis van dit hoofdstuk betreft.
 
 #### § 3. Aanspraken tijdens ziekte en arbeidsongeschiktheid
 
-#### Artikel 17
+##### Artikel 17
 
 1. De rechterlijk ambtenaar heeft bij ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende een tijdvak van 52 weken recht op de doorbetaling van zijn bezoldiging.
 
@@ -368,7 +392,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 4. Aan de rechterlijk ambtenaar wordt op zijn aanvraag na afloop van het in het eerste lid bedoelde tijdvak, in afwijking van het tweede lid, zijn bezoldiging doorbetaald, indien de ziekte uit hoofde waarvan hij ongeschikt is om zijn arbeid te verrichten wordt veroorzaakt door een dienstongeval of een door het verrichten van zijn arbeid opgelopen beroepsziekte.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De gewezen rechterlijk ambtenaar die wegens ziekte, ontstaan voor het tijdstip van ingang van zijn ontslag, na zijn ontslag anders dan op grond van [artikel 35b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35b&z=2026-01-01&g=2026-01-01) of [artikel 35e](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35e&z=2026-01-01&g=2026-01-01) van dit besluit onderscheidenlijk [artikel 46i](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46i) of [artikel 46ka van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46ka), nog ongeschikt is om een naar aard en omvang soortgelijke functie te vervullen, heeft:
 
@@ -402,7 +426,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 7. De gewezen rechterlijk ambtenaar aan wie op eigen verzoek ontslag is verleend met het oog op een uitkering op grond van de regeling van flexibel pensioen en uittreden, zoals vastgelegd in het FPU-Reglement basisuitkering en aanvullende uitkering, heeft slechts aanspraak op de doorbetaling van zijn laatstelijk genoten bezoldiging onderscheidenlijk 70% van de laatstelijk genoten bezoldiging, voorzover deze tezamen met de aanvullende uitkering, bedoeld in artikel 4 van het FPU-reglement basis- en aanvullende uitkering, de laatstgenoten bezoldiging onderscheidenlijk 70% van de laatstgenoten bezoldiging niet overschrijdt.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Aan de rechterlijk ambtenaar, die ongeschikt is tot het verrichten van zijn arbeid wegens ziekte, kan, op voorstel van de functionele autoriteit, een ander ambt of een andere functie worden opgedragen bij een gerecht of binnen het gezagsbereik van Onze Minister, indien sprake is van passende arbeid. De rechterlijk ambtenaar is verplicht het ambt of de functie die hem wordt opgedragen te aanvaarden.
 
@@ -432,7 +456,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 35 tot 45%: 36,01%.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De rechterlijk ambtenaar en de gewezen rechterlijk ambtenaar hebben geen aanspraak op de doorbetaling van bezoldiging:
 
@@ -444,7 +468,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 2. De gewezen rechterlijk ambtenaar heeft geen aanspraak op de doorbetaling van laatstelijk genoten bezoldiging, indien hij op grond van een aanvaarde andere betrekking van gelijke omvang aanspraak kan maken op loon of bezoldiging dan wel een ZW-uitkering.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Het tijdvak gedurende welke de rechterlijk ambtenaar en de gewezen rechterlijk ambtenaar aanspraak hebben op de doorbetaling van de bezoldiging, bedoeld in de [artikelen 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01), en [18, eerste lid, onderdeel a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), vangt aan op de eerste dag waarop:
 
@@ -472,7 +496,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 5. Bij buitengewoon verlof zonder behoud van bezoldiging vangt het tijdvak, bedoeld in het eerste lid, aan op de dag volgende op die waarop het buitengewoon verlof is beëindigd.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De doorbetaling van bezoldiging, bedoeld in [artikel 17, eerste tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01), eindigt na ommekomst van de uitkeringsduur, maar in ieder geval:
 
@@ -508,7 +532,7 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 #### § 4. Verplichtingen en sancties
 
-#### Artikel 23
+##### Artikel 23
 
 1. De aanspraak van de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar op de doorbetaling van bezoldiging, bedoeld in de [artikelen 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) en [18, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), vervalt indien de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar:
 
@@ -554,11 +578,11 @@ De [artikelen 13 tot en met 15](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&
 
 4. Voorzover van de bevoegdheid, bedoeld in het derde lid, geen gebruik is gemaakt, wordt de niet uitbetaalde bezoldiging alsnog aan de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar uitbetaald, indien het oordeel, bedoeld in [artikel 32, eerste lid, van de Wet Suwi](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32), ten gunste van de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar uitvalt of indien de in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=2&artikel=14&z=2026-01-01&g=2026-01-01), bedoelde commissie van drie artsen ten gunste van de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar heeft geoordeeld.
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 24a
+##### Artikel 24a
 
 1. De functionele autoriteit treft zo tijdig mogelijk zodanige maatregelen en geeft zo tijdig mogelijk zodanige voorschriften als redelijkerwijs nodig is om de rechterlijk ambtenaar, die in verband met ongeschiktheid wegens ziekte verhinderd is zijn arbeid te verrichten, in staat te stellen de eigen of andere passende arbeid te verrichten.
 
@@ -572,7 +596,7 @@ Vervallen
 
 #### § 1. Algemeen
 
-#### Artikel 25
+##### Artikel 25
 
 1. Bij samenloop van een aanspraak krachtens dit hoofdstuk met een WAO-uitkering, een WIA-uitkering, een AAOP-uitkering, een ZW-uitkering, een WW-uitkering of een bovenwettelijke WW-uitkering, wordt deze aanspraak verminderd met het bedrag van deze uitkeringen, tenzij het een tegemoetkoming op grond van [artikel 27](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=27&z=2026-01-01&g=2026-01-01) betreft.
 
@@ -582,7 +606,7 @@ Vervallen
 
 4. Indien de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar zowel op grond van de benoeming terzake waarvan hij aanspraken op grond van dit hoofdstuk heeft als op grond van een of meer andere betrekkingen een WAO-uitkering, WIA-uitkering of ZW-uitkering geniet, wordt voor de toepassing van dit hoofdstuk onder WAO-uitkering, WIA-uitkering onderscheidenlijk ZW-uitkering verstaan, de WAO-uitkering, WIA-uitkering onderscheidenlijk ZW-uitkering voorzover deze, naar rato van de bezoldiging uit hoofde van die benoeming en die andere betrekking of betrekkingen, wordt toegerekend aan die benoeming.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Voor zolang de vrouwelijke gewezen rechterlijk ambtenaar na beëindiging van de haar ingevolge [artikel 33m, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33m&z=2026-01-01&g=2026-01-01), toekomende uitkering nog wegens ziekte ongeschikt is tot het verrichten van arbeid dan wel binnen een maand na deze beëindiging daartoe ongeschikt wordt, heeft zij gedurende een tijdvak van 52 weken recht op de doorbetaling van de laatstelijk genoten bezoldiging overeenkomstig [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01).
 
@@ -590,39 +614,39 @@ Vervallen
 
 3. Ongeschikt tot het verrichten van arbeid, geheel of gedeeltelijk, in de zin van het eerste lid, is de vrouwelijke gewezen rechterlijk ambtenaar die als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte of gebreken geheel of gedeeltelijk niet in staat is om een naar aard en omvang soortgelijke functie te vervullen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. In bijzondere gevallen kan aan de rechterlijk ambtenaar een tegemoetkoming worden toegekend in noodzakelijk gemaakte kosten die verband houden met ziekte, welke de rechterlijk ambtenaar voor zichzelf en voor zijn medebelanghebbenden heeft gemaakt, indien hierin niet ingevolge een andere regeling kan worden voorzien en deze kosten redelijkerwijs niet voor zijn rekening kunnen blijven.
 
 2. Onze Minister kan omtrent het bepaalde in het eerste lid nadere regels vaststellen.
 
-#### Artikel 27a
+##### Artikel 27a
 
 Vervallen
 
 #### § 2. Arbeidsgezondheidskundige begeleiding en medisch advies
 
-#### Artikel 28
+##### Artikel 28
 
 Het bedrag van de laatstelijk genoten bezoldiging, bedoeld in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=26&z=2026-01-01&g=2026-01-01), wordt in voorkomende gevallen gewijzigd overeenkomstig een algemene salariswijziging.
 
-#### Artikel 29
+##### Artikel 29
 
 De gewezen rechterlijk ambtenaar die krachtens dit hoofdstuk aanspraak heeft op de doorbetaling van bezoldiging, heeft eveneens aanspraak op een vakantie-uitkering overeenkomstig [artikel 6d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=6d&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 30
+##### Artikel 30
 
 1. Indien de rechterlijk ambtenaar op de dag van het overlijden of de vermissing aanspraak had op een WAO-uitkering, een WIA-uitkering, een ZW-uitkering of een WW-uitkering, wordt voor de toepassing dan wel overeenkomstige toepassing van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=7a&z=2026-01-01&g=2026-01-01) onder bezoldiging verstaan het bedrag waarop de rechterlijk ambtenaar op de dag van het overlijden of de vermissing op basis van dit hoofdstuk aanspraak zou hebben gehad indien hij geen aanspraak op een WAO-uitkering, een WIA-uitkering, een ZW-uitkering of een WW-uitkering zou hebben gehad.
 
 2. Indien de rechterlijk ambtenaar op de dag van het overlijden of de vermissing meer dan 52 weken wegens ziekte ongeschikt was tot het verrichten van zijn arbeid en geen aanspraak had op een WAO-uitkering, een WIA-uitkering, wordt voor de toepassing dan wel overeenkomstige toepassing van [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=7a&z=2026-01-01&g=2026-01-01)onder bezoldiging verstaan het bedrag waarop de rechterlijk ambtenaar op de dag van het overlijden of de vermissing op basis van dit hoofdstuk aanspraak had.
 
-#### Artikel 31
+##### Artikel 31
 
 1. Na het overlijden of de vermissing van de gewezen rechterlijk ambtenaar, die op de dag van zijn overlijden of vermissing op grond van [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) of [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=26&z=2026-01-01&g=2026-01-01) in het genot was van de doorbetaling van zijn laatstelijk genoten bezoldiging onderscheidenlijk 70% daarvan, wordt aan de in [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=7a&z=2026-01-01&g=2026-01-01) of [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=7b&z=2026-01-01&g=2026-01-01) bedoelde personen en met overeenkomstige toepassing van die artikelen uitgekeerd een bedrag, gelijk aan de bezoldiging die de gewezen rechterlijk ambtenaar op de dag van zijn overlijden of vermissing genoot onderscheidenlijk 70% daarvan, berekend over een tijdvak van drie maanden.
 
 2. Op de in het eerste lid bedoelde uitkering wordt in mindering gebracht een uitkering op grond van [artikel 35 van de ZW](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), [artikel 53 van de WAO](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53), [artikel 74 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=74), artikel 11.17 van het pensioenreglement of de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0011826&artikel=6) of [11 van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826&artikel=11) en naar aard en strekking daarmee overeenkomende uitkeringen, indien deze uitkeringen worden uitgekeerd. [Artikel 25, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing op deze uitkeringen.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Indien het overlijden of de vermissing van de rechterlijk ambtenaar is veroorzaakt door een dienstongeval of een door het verrichten van arbeid opgelopen beroepsziekte, wordt aan degene die in verband met dit overlijden of deze vermissing krachtens het pensioenreglement een nabestaandenpensioen geniet, een uitkering toegekend ten bedrage van 18% van het resultaat van de vermenigvuldiging van:
 
@@ -638,21 +662,21 @@ De gewezen rechterlijk ambtenaar die krachtens dit hoofdstuk aanspraak heeft op 
 
 #### § 3. Aanspraken tijdens ziekte en arbeidsongeschiktheid
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
 ### Hoofdstuk 4. Herplaatsing en ontslag
 
-#### Artikel 34
+##### Artikel 34
 
 Dit hoofdstuk is niet van toepassing op de voor het leven benoemde rechterlijk ambtenaar.
 
-#### Artikel 35
+##### Artikel 35
 
 Tenzij anders is bepaald, worden de in deze paragraaf bedoelde bevoegdheden uitgeoefend door het gezag, dat krachtens de wet bevoegd is tot benoeming in het ambt dat de betrokken rechterlijk ambtenaar vervult, met dien verstande dat niet wordt beslist onderscheidenlijk een voordracht wordt gedaan dan nadat de functionele autoriteit hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.
 
-#### Artikel 36
+##### Artikel 36
 
 De rechterlijk ambtenaar kan worden ontslagen op grond van:
 
@@ -668,7 +692,7 @@ De rechterlijk ambtenaar kan worden ontslagen op grond van:
 
 - f. het bereiken van de pensioengerechtigde leeftijd.
 
-#### Artikel 36a
+##### Artikel 36a
 
 1. Aan de rechterlijk ambtenaar die in tijdelijke dienst is benoemd, wordt geacht ontslag te zijn verleend met ingang van de dag waarop de duur van de benoeming in tijdelijke dienst is verstreken, tenzij sprake is van een stilzwijgende voortzetting van een benoeming als bedoeld in [artikel 2d, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2&paragraaf=2.1&artikel=2d&z=2026-01-01&g=2026-01-01).
 
@@ -704,7 +728,7 @@ De rechterlijk ambtenaar kan worden ontslagen op grond van:
 
 ### Hoofdstuk 4a. Rechten en verplichtingen bij reorganisaties
 
-#### Artikel 37
+##### Artikel 37
 
 1. De functionele autoriteit besteedt aan de wijze waarop de niet voor het leven benoemde rechterlijk ambtenaar zijn ambt vervult regelmatig aandacht door middel van het houden van functioneringsgesprekken of het opmaken van beoordelingen, dan wel van beide.
 
@@ -716,7 +740,7 @@ De rechterlijk ambtenaar kan worden ontslagen op grond van:
 
 5. Onze Minister kan nadere regels stellen omtrent het opmaken en vaststellen van beoordelingen.
 
-#### Artikel 37a
+##### Artikel 37a
 
 1. De rechterlijk ambtenaar die de leeftijd van 50 jaar heeft bereikt, heeft, ongeacht of er sprake is van gezondheidsproblemen, het recht om een maal per twee jaar een algemene medische keuring te ondergaan.
 
@@ -724,21 +748,21 @@ De rechterlijk ambtenaar kan worden ontslagen op grond van:
 
 3. De kosten van de keuring komen voor rekening van Onze Minister onderscheidenlijk, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
-#### Artikel 38
+##### Artikel 38
 
 1. Een rechterlijk ambtenaar die zijn ambt op basis van een aanstelling vervult kan door de functionele autoriteit worden verplicht te gaan of blijven wonen in of nabij de gemeente waarin of van waaruit hij zijn ambt gewoonlijk vervult, indien dit noodzakelijk is in verband met de vervulling van het ambt.
 
 2. Aan de in het eerste lid bedoelde verplichting dient de rechterlijk ambtenaar te voldoen binnen twee jaar nadat zij is opgelegd.
 
-#### Artikel 38a
+##### Artikel 38a
 
 Een niet voor het leven benoemde rechterlijk ambtenaar kan door de functionele autoriteit worden verplicht tijdelijk andere werkzaamheden te verrichten dan die welke hij gewoonlijk verricht, mits die werkzaamheden hem redelijkerwijs kunnen worden opgedragen.
 
-#### Artikel 38b
+##### Artikel 38b
 
 Indien de rechterlijk ambtenaar een vaste vergoeding ontvangt uit hoofde van de functie waarvoor hem op grond van [artikel 38d, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5&artikel=38d&z=2026-01-01&g=2026-01-01), buitengewoon verlof met behoud van bezoldiging is verleend, wordt door het in artikel 38d, eerste en tweede lid, bedoelde gezag op zijn bezoldiging met betrekking tot de uren dat hij dit verlof geniet een inhouding toegepast. Onze Minister stelt nadere regels ter uitvoering van het bepaalde in de eerste volzin.
 
-#### Artikel 38c
+##### Artikel 38c
 
 1. Aan een rechterlijk ambtenaar worden op zondagen en dagen die bij of krachtens de [Algemene termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) zijn aangemerkt als algemeen erkende feestdagen geen werkzaamheden opgedragen, tenzij het dienstbelang dit naar het oordeel van de functionele autoriteit onvermijdelijk maakt.
 
@@ -746,17 +770,17 @@ Indien de rechterlijk ambtenaar een vaste vergoeding ontvangt uit hoofde van de 
 
 3. Een rechterlijke ambtenaar als bedoeld in [artikel 1, onderdeel b, onderdelen 5° tot en met 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1) is niet gehouden tot dienstverrichting op voor hem op grond van zijn godsdienst of levensovertuiging geldende feest- en rustdagen, tenzij het dienstbelang dit onvermijdelijk maakt.
 
-#### Artikel 38d
+##### Artikel 38d
 
 1. Aan een rechterlijk ambtenaar die is benoemd of verkozen in een functie in een publiekrechtelijk college, wordt voor het bijwonen van vergaderingen en zittingen van dat college en voor het verrichten van daaruit voortvloeiende werkzaamheden ten behoeve van dat college, buitengewoon verlof met behoud van bezoldiging verleend door Onze Minister dan wel, indien het een rechterlijk ambtenaar betreft die werkzaam is bij een gerechtshof of een rechtbank, het gerechtsbestuur onderscheidenlijk door de Raad voor de rechtspraak, tenzij het belang van de dienst zich daartegen verzet.
 
 2. Aan een rechterlijk ambtenaar wordt voor het verrichten van of het deelnemen aan activiteiten op de terreinen, bedoeld in [artikel 39a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39a&z=2026-01-01&g=2026-01-01), voor of van een vereniging of centrale van verenigingen als bedoeld in [artikel 1ac, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ac) buitengewoon verlof met behoud van bezoldiging verleend door Onze Minister dan wel, indien het een rechterlijk ambtenaar betreft die werkzaam is bij een gerechtshof of een rechtbank, het gerechtsbestuur onderscheidenlijk door de Raad voor de rechtspraak, tenzij het belang van de dienst zich daartegen verzet.
 
-#### Artikel 38da
+##### Artikel 38da
 
 Vervallen
 
-#### Artikel 38e
+##### Artikel 38e
 
 1. Aan een rechterlijk ambtenaar kan door Onze Minister dan wel, indien het een rechterlijk ambtenaar betreft die werkzaam is bij een gerechtshof of rechtbank, het gerechtsbestuur onderscheidenlijk door de Raad voor de rechtspraak naar billijkheid een schadeloosstelling, een vergoeding van kosten of overigens een geldelijke tegemoetkoming worden verleend.
 
@@ -768,69 +792,69 @@ Vervallen
 
 5. Indien [artikel 17, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=17) van toepassing is, vervallen de aanspraken genoemd in het eerste lid naar evenredigheid.
 
-#### Artikel 38f
+##### Artikel 38f
 
 Vervallen
 
-#### Artikel 38g
+##### Artikel 38g
 
 Vervallen
 
-#### Artikel 38h
+##### Artikel 38h
 
 Onze Minister kan regels stellen ten aanzien van het verrichten van werkzaamheden in het kader van de ambtsvervulling in de woning van de rechterlijk ambtenaar.
 
-#### Artikel 38i
+##### Artikel 38i
 
 Onze Minister kan regels stellen ten aanzien van de vergoeding van de literatuur die voor de rechterlijk ambtenaar naar het oordeel van de functionele autoriteit noodzakelijk is voor een correcte uitoefening van het ambt.
 
-#### Artikel 38j
+##### Artikel 38j
 
 Vervallen
 
-#### Artikel 38k
+##### Artikel 38k
 
 1. De rechterlijke ambtenaren die zijn aangesteld of aangewezen voor een al dan niet volledige arbeidsduur kunnen gebruikmaken van de mogelijkheid tot individuele keuzen in het arbeidsvoorwaardenpakket.
 
 2. Onze Minister stelt regels ten aanzien van de mogelijkheid tot individuele keuzen in het arbeidsvoorwaardenpakket.
 
-#### Artikel 38l
+##### Artikel 38l
 
 Vervallen
 
-#### Artikel 38m
+##### Artikel 38m
 
 Vervallen
 
-#### Artikel 38n
+##### Artikel 38n
 
 Vervallen
 
-#### Artikel 38o
+##### Artikel 38o
 
 Vervallen
 
-#### Artikel 38p
+##### Artikel 38p
 
 Vervallen
 
-#### Artikel 38q
+##### Artikel 38q
 
 1. De rechterlijke ambtenaren die zijn aangesteld of aangewezen voor een al dan niet volledige arbeidsduur kunnen gebruikmaken van de mogelijkheid van levensloopverlof.
 
 2. Onze Minister stelt regels ten aanzien van levensloopverlof.
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### Hoofdstuk 3a. Vakantie en verlof
 
-#### Artikel 40
+##### Artikel 40
 
 Dit besluit treedt in werking met ingang van 1 april 1994.
 
-#### Artikel 41
+##### Artikel 41
 
 Dit besluit wordt aangehaald als: Besluit rechtspositie rechterlijke ambtenaren.
 
@@ -858,7 +882,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 36b
+##### Artikel 36b
 
 1. De rechterlijk ambtenaar die in vaste dienst is benoemd kan ook op andere gronden dan die bedoeld in de [artikelen 3, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=3), en [7, tweede lid, van de Wet Incompatibiliteiten Staten-Generaal en Europees Parlement](https://wetten.overheid.nl/jci1.3:c:BWBR0006612&artikel=7), [artikel 9 van het Besluit opleiding rechters en officieren van justitie](https://wetten.overheid.nl/jci1.3:c:BWBR0038892&artikel=9), en de [artikelen 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=19&z=2026-01-01&g=2026-01-01), [34b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34b&z=2026-01-01&g=2026-01-01), [35a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35a&z=2026-01-01&g=2026-01-01), [35b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35b&z=2026-01-01&g=2026-01-01), [35e tot en met 36a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35e&z=2026-01-01&g=2026-01-01), [36z](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36z&z=2026-01-01&g=2026-01-01), [36aa](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36aa&z=2026-01-01&g=2026-01-01) en [36ab](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36ab&z=2026-01-01&g=2026-01-01) van dit besluit, worden ontslagen. De rechterlijk ambtenaar in vaste dienst kan ook worden ontslagen indien hij op grond van het bepaalde in [artikel 5, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=5), of [artikel 10, tweede lid, van de Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277&artikel=10) uit een vertrouwensfunctie moet worden ontheven.
 
@@ -868,7 +892,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Indien de rechterlijk ambtenaar ter zake van zijn ontslag ingevolge het eerste lid recht heeft op een uitkering krachtens de [WW](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of het [Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826), wordt de in het tweede lid bedoelde uitkering door het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde gezag met die uitkering verminderd.
 
-#### Artikel 36c
+##### Artikel 36c
 
 1. In dit hoofdstuk wordt verstaan onder:
 
@@ -894,31 +918,31 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Dit hoofdstuk is niet van toepassing op rechters in opleiding, officieren in opleiding en de rechterlijke ambtenaren, werkzaam bij de Hoge Raad en het parket bij de Hoge Raad.
 
-#### Artikel 36d
+##### Artikel 36d
 
 Bij een reorganisatie zijn de bepalingen van dit hoofdstuk van toepassing.
 
-#### Artikel 36e
+##### Artikel 36e
 
 1. Bij ministeriële regeling kunnen nadere regels worden vastgesteld omtrent de procedure bij reorganisaties en het herplaatsen van rechterlijke ambtenaren.
 
 2. Voorzover de in het eerste lid bedoelde regels van toepassing zijn op de bij een gerecht werkzame rechterlijke ambtenaren worden deze regels vastgesteld na overleg met de Raad voor de rechtspraak.
 
-#### Artikel 36f
+##### Artikel 36f
 
 Tenzij anders is bepaald, worden de in dit hoofdstuk genoemde bevoegdheden uitgeoefend door Onze Minister onderscheidenlijk, indien het een bij een gerecht werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
-#### Artikel 36g
+##### Artikel 36g
 
 1. De vertegenwoordigers van de Nederlandse Vereniging voor Rechtspraak en van de andere door Onze Minister tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren, bedoeld in [artikel 1ac, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ac), worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie. Zij kunnen Onze Minister of het gerechtsbestuur verzoeken om overleg over het voorgenomen besluit of onderdelen daarvan, indien het een belangrijke reorganisatie betreft.
 
 2. De betrokken ondernemingsraden worden tijdig geïnformeerd over een voorgenomen besluit tot een reorganisatie.
 
-#### Artikel 36h
+##### Artikel 36h
 
 De rechterlijk ambtenaar benoemd in vaste dienst, wiens functie in verband met een reorganisatie is opgeheven, wordt aangewezen als herplaatsingskandidaat.
 
-#### Artikel 36i
+##### Artikel 36i
 
 1. De rechterlijk ambtenaar benoemd in vaste dienst, die in verband met een reorganisatie overtollig is, wordt aangewezen als herplaatsingskandidaat, waarbij de rechterlijk ambtenaar die het geringste aantal jaren op basis van een aanstelling of aanwijzing als bedoeld in [artikel 5f van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) bij een parket of gerecht werkzaam is geweest het eerst als herplaatsingskandidaat wordt aangewezen.
 
@@ -932,11 +956,11 @@ De rechterlijk ambtenaar benoemd in vaste dienst, wiens functie in verband met e
 
 4. Van de volgorde in het eerste lid kan worden afgeweken, indien dat naar het oordeel van Onze Minister of het gerechtsbestuur noodzakelijk is en daarover overleg is gevoerd met de Nederlandse Vereniging voor Rechtspraak of andere door Onze Minister tot het overleg toegelaten verenigingen of centrales van verenigingen van ambtenaren als bedoeld in [artikel 1ac, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ac).
 
-#### Artikel 36j
+##### Artikel 36j
 
 De rechterlijk ambtenaar wordt omtrent zijn aanwijzing als herplaatsingskandidaat zo spoedig mogelijk geïnformeerd.
 
-#### Artikel 36k
+##### Artikel 36k
 
 1. Aan de niet voor het leven benoemde rechterlijk ambtenaar wordt binnen een periode van 18 maanden, te rekenen vanaf het moment dat hij is aangewezen als herplaatsingskandidaat, ten minste één passende functie aangeboden. Het vorenstaande laat het gestelde in [artikel 36aa, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36aa&z=2026-01-01&g=2026-01-01), onverlet.
 
@@ -954,13 +978,13 @@ De rechterlijk ambtenaar wordt omtrent zijn aanwijzing als herplaatsingskandidaa
 
 6. Op verzoek van de herplaatsingskandidaat wordt de termijn, bedoeld in het eerste lid, met maximaal een jaar verlengd indien de herplaatsingskandidaat bij het einde van deze termijn, in combinatie met de duur van de bovenwettelijke uitkering, de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=7a), nog niet heeft bereikt en, in geval van ontslag, door deze verlenging recht ontstaat op een bovenwettelijke uitkering op grond van [artikel 2, tweede lid, van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826&artikel=2).
 
-#### Artikel 36l
+##### Artikel 36l
 
 1. Aan de voor het leven benoemde rechterlijk ambtenaar wordt binnen een periode van 18 maanden, te rekenen vanaf het moment dat hij is aangewezen als herplaatsingskandidaat, ten minste één keer een zelfde functie als zijn oorspronkelijke functie aangeboden binnen het eigen gerecht.
 
 2. De rechterlijk ambtenaar, bedoeld in het eerste lid, wordt gelijktijdig met zijn aanwijzing als herplaatsingskandidaat geïnformeerd over de aanvang en het einde van de termijn als bedoeld in het eerste lid.
 
-#### Artikel 36m
+##### Artikel 36m
 
 1. Ten aanzien van een herplaatsingskandidaat, voor wie een functie als passend wordt aangemerkt, kan in het kader van een reorganisatie worden besloten tot:
 
@@ -974,21 +998,21 @@ De rechterlijk ambtenaar wordt omtrent zijn aanwijzing als herplaatsingskandidaa
 
 3. Herplaatsing als bedoeld in het eerste lid, onderdeel b of c, van een niet voor het leven benoemde rechterlijk ambtenaar geschiedt niet dan nadat de functionele autoriteit hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.
 
-#### Artikel 36n
+##### Artikel 36n
 
 De niet voor het leven benoemde rechterlijk ambtenaar die in het kader van een reorganisatie wordt herplaatst in een functie bij een parket of gerecht of anderszins binnen het gezagsbereik van Onze Minister waaraan een lager salaris is verbonden dan aan zijn oorspronkelijke ambt, behoudt zijn oorspronkelijke salaris gedurende de periode waarin hij die andere functie vervult.
 
-#### Artikel 36o
+##### Artikel 36o
 
 Onverminderd het bepaalde in de artikelen [36k, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36k&z=2026-01-01&g=2026-01-01), en [36l, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36l&z=2026-01-01&g=2026-01-01), is de herplaatsingskandidaat verplicht al het mogelijke te doen om een passende functie te vinden.
 
-#### Artikel 36p
+##### Artikel 36p
 
 1. De niet voor het leven benoemde rechterlijk ambtenaar die is aangewezen als herplaatsingskandidaat is verplicht een hem aangeboden passende functie te aanvaarden.
 
 2. De voor het leven benoemde rechterlijk ambtenaar die is aangewezen als herplaatsingskandidaat is verplicht een hem aangeboden passende functie te aanvaarden binnen het eigen gerecht.
 
-#### Artikel 36q
+##### Artikel 36q
 
 1. De herplaatsingskandidaat die slechts in een passende functie kan worden herplaatst na om-, her- of bijscholing kan hiertoe worden verplicht voor zover dat redelijkerwijs van hem kan worden gevergd.
 
@@ -1004,7 +1028,7 @@ Onverminderd het bepaalde in de artikelen [36k, eerste lid](https://wetten.overh
 
 5. De verplichting tot terugbetaling wordt niet opgelegd aan de rechterlijk ambtenaar aan wie binnen 18 maanden nadat hij is aangewezen als herplaatsingskandidaat ontslag op eigen verzoek wordt verleend wegens de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister.
 
-#### Artikel 36r
+##### Artikel 36r
 
 1. Aan de rechterlijk ambtenaar die in verband met zijn herplaatsing in opdracht van Onze Minister of het gerechtsbestuur is verhuisd, wordt eenmalig een bedrag toegekend van € 15.429,76 bruto ter tegemoetkoming in de daarmee verband houdende kosten.
 
@@ -1012,11 +1036,11 @@ Onverminderd het bepaalde in de artikelen [36k, eerste lid](https://wetten.overh
 
 3. Het bedrag, bedoeld in het eerste lid, wordt niet toegekend, indien de verhuizing niet heeft plaatsgevonden binnen twee jaren nadat de opdracht om te verhuizen is gegeven.
 
-#### Artikel 36s
+##### Artikel 36s
 
 Aan de herplaatsingskandidaat kan een premie ter grootte van maximaal drie maandsalarissen in het vooruitzicht worden gesteld, indien aan hem binnen 18 maanden nadat hij is aangewezen als herplaatsingskandidaat ontslag op eigen verzoek als bedoeld in [artikel 35a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35a&z=2026-01-01&g=2026-01-01), indien het een niet voor het leven benoemde rechterlijk ambtenaar betreft, dan wel ontslag op eigen verzoek als bedoeld in [artikel 46h, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46h), indien het een voor het leven benoemde rechterlijk ambtenaar betreft, is verleend.
 
-#### Artikel 36t
+##### Artikel 36t
 
 1. Aan de herplaatsingskandidaat aan wie ontslag op eigen verzoek is verleend wegens de aanvaarding van een functie elders dan bij een parket of gerecht of anderszins buiten het gezagsbereik van Onze Minister kan, onverminderd het bepaalde in [artikel 36s](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36s&z=2026-01-01&g=2026-01-01), een salarissuppletie worden toegekend, indien het in de nieuwe functie genoten salaris lager is dan het salaris in de oorspronkelijke functie.
 
@@ -1024,11 +1048,11 @@ Aan de herplaatsingskandidaat kan een premie ter grootte van maximaal drie maand
 
 3. Onder door Onze Minister of het gerechtsbestuur te stellen voorwaarden kan het recht op suppletie op aanvraag van de herplaatsingskandidaat worden afgekocht.
 
-#### Artikel 36u
+##### Artikel 36u
 
 Onze Minister of het gerechtsbestuur kan de artikelen 36p, 36q, 36r en 36t toepassen op de rechterlijk ambtenaar wiens functie binnen afzienbare tijd wordt opgeheven of de rechterlijk ambtenaar die binnen afzienbare tijd als overtollig zal worden aangemerkt.
 
-#### Artikel 36v
+##### Artikel 36v
 
 1. De rechterlijk ambtenaar aan wie ontslag op eigen verzoek wordt verleend in verband met de aanvaarding van een functie elders dan bij een parket of gerecht, of anderszins buiten het gezagsbereik van Onze Minister, heeft op grond van dat ontslag aanspraak op een uitkering overeenkomstig het [Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](https://wetten.overheid.nl/jci1.3:c:BWBR0011826).
 
@@ -1036,21 +1060,21 @@ Onze Minister of het gerechtsbestuur kan de artikelen 36p, 36q, 36r en 36t toepa
 
 3. Indien de rechterlijk ambtenaar terzake van zijn ontslag ingevolge het tweede lid recht heeft op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) wordt de in het eerste lid bedoelde uitkering met die uitkering verminderd.
 
-#### Artikel 36w
+##### Artikel 36w
 
 1. De rechterlijk ambtenaar die een diensttijd heeft van tien jaar of meer en aan wie ontslag wordt verleend op grond van [artikel 36aa](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36aa&z=2026-01-01&g=2026-01-01) wordt een diensttijdgratificatie toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van een gratificatie bij ambtsjubileum. Toekenning vindt niet plaats indien niet binnen een termijn van vijf jaar na de datum van ingang van het ontslag aanspraak op een gratificatie bij ambtsjubileum zou hebben bestaan.
 
 2. Bij de bepaling van de diensttijd wordt rekening gehouden met de tijd in overheidsdienst doorgebracht overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 36x
+##### Artikel 36x
 
 Vervallen
 
-#### Artikel 36y
+##### Artikel 36y
 
 Vervallen
 
-#### Artikel 36z
+##### Artikel 36z
 
 1. Aan de niet voor het leven benoemde rechterlijk ambtenaar die heeft geweigerd te voldoen aan een hem op grond van dit hoofdstuk opgelegde verplichting, kan op grond hiervan ontslag worden verleend.
 
@@ -1058,7 +1082,7 @@ Vervallen
 
 3. Ontslag als bedoeld in het eerste lid wordt verleend door het gezag dat krachtens de wet bevoegd is tot benoeming in het ambt dat de betrokken rechterlijk ambtenaar laatstelijk heeft vervuld, met dien verstande dat niet wordt besloten onderscheidenlijk een voordracht wordt gedaan dan nadat de functionele autoriteit hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.
 
-#### Artikel 36aa
+##### Artikel 36aa
 
 1. Aan de niet voor het leven benoemde rechterlijk ambtenaar kan in het kader van een reorganisatie ontslag worden verleend, indien het niet mogelijk is gebleken om hem te herplaatsen in een passende functie.
 
@@ -1068,7 +1092,7 @@ Vervallen
 
 4. [Artikel 36z, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36z&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing met betrekking tot ontslag als bedoeld in het eerste en tweede lid.
 
-#### Artikel 36ab
+##### Artikel 36ab
 
 1. Aan de niet voor het leven benoemde rechterlijk ambtenaar kan ontslag worden verleend, indien van hem in redelijkheid niet kan worden verlangd dat hij zich zal voegen in overplaatsing over een aanmerkelijke afstand als gevolg van zijn herplaatsing in het kader van een reorganisatie.
 
@@ -1078,7 +1102,7 @@ Vervallen
 
 4. De [artikelen 36n tot en met 36q](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36n&z=2026-01-01&g=2026-01-01), [36s](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36s&z=2026-01-01&g=2026-01-01), [36t](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36t&z=2026-01-01&g=2026-01-01) en [36z](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36z&z=2026-01-01&g=2026-01-01) zijn op de niet voor het leven benoemde rechterlijk ambtenaar van overeenkomstige toepassing.
 
-#### Artikel 36ac
+##### Artikel 36ac
 
 Op de voor het leven benoemde rechterlijk ambtenaar, die in het kader van een reorganisatie op eigen verzoek wordt benoemd in een andere functie bij een gerecht of elders binnen het gezagsbereik van Onze Minister dan wel voor wie in het kader van een reorganisatie de vaststelling van het gerecht waar hij zijn functie vervult op eigen verzoek wordt gewijzigd, zijn de [artikelen 36n](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36n&z=2026-01-01&g=2026-01-01), [36q](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36q&z=2026-01-01&g=2026-01-01), en [36r](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36r&z=2026-01-01&g=2026-01-01) van overeenkomstige toepassing.
 
@@ -1104,7 +1128,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 19a
+##### Artikel 19a
 
 1. De rechterlijk ambtenaar die door het UWV in het kader van de [WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057) minder dan 35% arbeidsongeschikt is verklaard, en die is herplaatst in een functie die passende arbeid omvat waarbij inkomensverlies optreedt, ontvangt bij voortdurende ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte gedurende ten hoogste vijf jaar een uitkering van 70% van het verschil tussen:
 
@@ -1144,7 +1168,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. De inkomsten die de rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar geniet in verband met het verrichten van arbeid, die in het belang van zijn genezing door de deskundige persoon of de arbodienst wenselijk wordt geacht, worden op de aanspraak op doorbetaling van bezoldiging krachtens dit hoofdstuk in mindering gebracht, voorzover deze inkomsten tezamen met die aanspraak de bezoldiging te boven gaan.
 
@@ -1152,7 +1176,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Op het bedrag waarop de gewezen rechterlijk ambtenaar ingevolge [artikel 18, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=26&z=2026-01-01&g=2026-01-01) of, indien de ongeschiktheid wegens ziekte na het tijdstip van ontslag is ontstaan, [artikel 18, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01), recht heeft, worden inkomsten uit of in verband met arbeid of bedrijf in mindering gebracht, tenzij deze inkomsten reeds voorafgaand aan de datum van ontslag werden genoten en de omvang van die arbeid niet is toegenomen.
 
-#### Artikel 27b
+##### Artikel 27b
 
 1. De rechterlijk ambtenaar of de gewezen rechterlijk ambtenaar, die een dienstongeval heeft gehad of een beroepsziekte heeft opgelopen, heeft recht op volledige vergoeding van de schade die hij ten gevolge van dat dienstongeval of die beroepsziekte lijdt, indien het dienstongeval of de beroepsziekte voortvloeit uit een gevaarzettende situatie die rechtstreeks verband houdt met het vervullen van zijn ambt waaraan hij zich vanwege zijn specifieke werkzaamheden niet heeft kunnen onttrekken.
 
@@ -1178,7 +1202,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 38ca
+##### Artikel 38ca
 
 Vervallen
 
@@ -1190,7 +1214,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Om benoemd te kunnen worden als rechterlijk ambtenaar, bedoeld in [artikel 1, onderdeel b, onder 5° tot en met 7° en als officier in opleiding als bedoeld onder 10°, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), dient het afsluitend examen, bedoeld in [artikel 5, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5), te voldoen aan de eisen van het tweede en derde lid.
 
@@ -1210,7 +1234,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Bij ministeriële regeling worden regels gesteld omtrent de eisen met betrekking tot de kennis van en het inzicht in het strafrecht, met inbegrip van het strafprocesrecht, waaraan, in geval van toepasselijkheid van het vierde lid, moet worden voldaan om benoemd te kunnen worden.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Voor de toepassing van [artikel 5, eerste lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5) wordt met de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht gelijkgesteld de graad Bachelor, verleend op grond van het met goed gevolg afleggen van een afsluitend examen van de opleiding HBO-Rechten aan een hogeschool als bedoeld in de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682), indien blijkens hierop betrekking hebbende bewijsstukken tevens met goed gevolg zijn afgelegd de tentamens van de tot een schakelprogramma behorende onderwijseenheden.
 
@@ -1218,7 +1242,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2&paragraaf=2.1&artikel=2&z=2026-01-01&g=2026-01-01) en [2a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2&paragraaf=2.1&artikel=2a&z=2026-01-01&g=2026-01-01) wordt onder afsluitend examen als bedoeld in die artikelen tevens begrepen het schakelprogramma, bedoeld in het eerste en tweede lid.
 
-#### Artikel 2c
+##### Artikel 2c
 
 1. De benoeming in een ambt als bedoeld in [artikel 2, tweede tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2) geschiedt in vaste dienst, tenzij er grond bestaat voor een benoeming in tijdelijke dienst.
 
@@ -1238,7 +1262,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. [Artikel 2, tweede tot en met zevende lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2) is van overeenkomstige toepassing met betrekking tot de uitoefening van de in het eerste tot en met vijfde lid bedoelde bevoegdheden.
 
-#### Artikel 2d
+##### Artikel 2d
 
 1. De rechterlijk ambtenaar, die in een ambt als bedoeld in [artikel 2c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2&paragraaf=2.1&artikel=2c&z=2026-01-01&g=2026-01-01), in tijdelijke dienst is benoemd voor een proeftijd, wordt van rechtswege benoemd in vaste dienst in datzelfde ambt, indien en met ingang van de dag waarop de benoeming in tijdelijke dienst stilzwijgend wordt voortgezet na het verstrijken van de periode waarvoor die is verleend.
 
@@ -1252,7 +1276,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Het derde lid, aanhef en onderdeel a, is niet van toepassing in geval van een benoeming in tijdelijke dienst voor maximaal drie maanden die onmiddellijk volgt op een benoeming in tijdelijke dienst voor 36 maanden of langer.
 
-#### Artikel 2e
+##### Artikel 2e
 
 1. Om vast te stellen of een betrokkene geschikt is om benoemd te worden in een ambt wordt een onderzoek verricht, waaronder begrepen het verifiëren van en zo nodig aanvullen van de gegevens die door de betrokkene zijn verstrekt.
 
@@ -1270,7 +1294,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 6. Onze Minister stelt nadere regels vast over het in het tweede lid bedoelde geneeskundig onderzoek en psychologisch onderzoek, waaronder in elk geval regels betreffende de mogelijkheid van een hernieuwd geneeskundig onderzoek op verzoek van de betrokkene.
 
-#### Artikel 2f
+##### Artikel 2f
 
 1. In geval van een opvolgende benoeming van een rechterlijk ambtenaar in een ander ambt dan bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2) en niet zijnde een ambt als bedoeld in het tweede of derde lid van dit artikel, kan Onze Minister van de betrokkene een verklaring omtrent het gedrag, niet ouder dan drie maanden en afgegeven volgens de Wet justitiële en strafvorderlijke gegevens, verlangen als hij van mening is dat de omstandigheden sinds de benoeming van betrokkene in het eerdere ambt dusdanig gewijzigd zijn dat dit noodzakelijk is.
 
@@ -1282,7 +1306,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Het tweede tot en met vierde lid zijn niet van toepassing in geval van benoeming in een ambt als bedoeld in [artikel 2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2).
 
-#### Artikel 2g
+##### Artikel 2g
 
 1. In een besluit tot benoeming in een ambt worden vermeld:
 
@@ -1308,7 +1332,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 2.2. Beëdiging
 
-#### Artikel 2h
+##### Artikel 2h
 
 1. De eed of belofte, bedoeld in [artikel 5g, eerste lid,van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5g), wordt afgelegd:
 
@@ -1354,7 +1378,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 - c. de Koning of Onze Minister.
 
-#### Artikel 2i
+##### Artikel 2i
 
 1. Het bestuur van een gerechtshof of een rechtbank houdt een register bij, waarin de besluiten betreffende de benoeming van de daar beëdigde rechterlijke ambtenaren en de formulieren betreffende de door die rechterlijke ambtenaren afgelegde eed of belofte worden bewaard.
 
@@ -1364,11 +1388,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 2a. Aanstelling en aanwijzing
 
-#### Artikel 3a
+##### Artikel 3a
 
 Vervallen
 
-#### Artikel 3b
+##### Artikel 3b
 
 1. Een raadsheer-plaatsvervanger, een rechter-plaatsvervanger, een plaatsvervangend advocaat-generaal bij een tot het openbaar ministerie behorend parket, een plaatsvervangend officier van justitie of een plaatsvervangend officier enkelvoudige zittingen kan op zijn eigen verzoek tijdelijk worden aangewezen voor een al dan niet volledige arbeidsduur.
 
@@ -1382,7 +1406,7 @@ Vervallen
 
 ### Hoofdstuk 2b. Salaris en andere financiële arbeidsvoorwaarden
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. De vergoedingen, bedoeld in [artikel 9, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=9), bedragen per zitting:
 
@@ -1408,7 +1432,7 @@ Vervallen
 
 7. De in [artikel 5f, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5f) genoemde rechterlijke ambtenaren ontvangen voor het bijwonen van een zitting een vergoeding voor hun reis- en verblijfkosten overeenkomstig hetgeen daarover is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Aan de rechterlijk ambtenaar die is belast met de waarneming van een ander ambt waarop de wet van toepassing is en waaraan een hoger maximum salaris is verbonden, wordt, indien de waarneming ten minste 30 dagen duurt, voor de duur van de waarneming een toelage toegekend.
 
@@ -1416,7 +1440,7 @@ Vervallen
 
 3. De in het eerste lid genoemde toelage behoort tot de bezoldiging van een rechterlijk ambtenaar.
 
-#### Artikel 6c
+##### Artikel 6c
 
 1. Indien een niet voor het leven benoemde rechterlijk ambtenaar, die nog niet het maximum salaris van de voor hem geldende salarisschaal geniet, naar het oordeel van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde gezag zijn ambt uitstekend vervult, kan zijn salaris worden verhoogd tot een in die salarisschaal vermeld hoger bedrag.
 
@@ -1430,13 +1454,13 @@ Vervallen
 
 6. Aan de niet voor het leven benoemde rechterlijk ambtenaar die naar het oordeel van het in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=4&z=2026-01-01&g=2026-01-01) bedoelde gezag zijn ambt uitstekend vervult, kan een eenmalige toeslag worden toegekend. Het derde lid is van overeenkomstige toepassing.
 
-#### Artikel 6d
+##### Artikel 6d
 
 1. De rechterlijk ambtenaar die is aangesteld of aangewezen voor een bepaalde arbeidsduur heeft, overeenkomstig hetgeen is overeengekomen in de laatstelijk overeengekomen collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn, aanspraak op een vakantieuitkering, een vergoeding van reis- en verblijfkosten, een vergoeding van verplaatsingskosten, alsmede een gratificatie terzake van veeljarige dienst.
 
 2. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=4&z=2026-01-01&g=2026-01-01) is van toepassing ten aanzien van de uitoefening van de bevoegdheden in de ingevolge het eerste lid overeenkomstige bepalingen, met dien verstande dat de daarin aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden en de daarin aan een bepaald gezag toegekende mogelijkheid tot het maken van nadere of afwijkende afspraken door die minister respectievelijk dat gezag worden uitgeoefend.
 
-#### Artikel 6e
+##### Artikel 6e
 
 1. De rechterlijk ambtenaar heeft recht op een eindejaarsuitkering ter hoogte van 8,3% van het over de periode van twaalf maanden, bedoeld in het derde lid, genoten salaris.
 
@@ -1446,7 +1470,7 @@ Vervallen
 
 4. In geval van ontslag of overlijden wordt de eindejaarsuitkering zo veel mogelijk uitbetaald in de maand na het ontslag of overlijden.
 
-#### Artikel 6f
+##### Artikel 6f
 
 1. De rechterlijk ambtenaar die als rechter-commissaris in strafzaken of als officier van justitie is aangewezen voor het verrichten van piketwerkzaamheden ontvangt daarvoor een toelage overeenkomstig de regels gesteld bij en krachtens dit artikel.
 
@@ -1468,7 +1492,7 @@ Vervallen
 
 ### Hoofdstuk 2c. Arbeidsduur en werktijd
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Onverminderd het bepaalde in [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8b&z=2026-01-01&g=2026-01-01) bedraagt de arbeidsduur van een rechterlijk ambtenaar gemiddeld ten hoogste 36 uren per week.
 
@@ -1476,7 +1500,7 @@ Vervallen
 
 3. Het aantal te werken uren, bedoeld in het tweede lid, wordt rekenkundig op hele uren afgerond.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Op verzoek van de rechterlijk ambtenaar kan de arbeidsduur in hele uren worden vastgesteld op meer dan gemiddeld 36 uren per week, waarbij een maximum geldt van gemiddeld 40 uren per week.
 
@@ -1496,7 +1520,7 @@ Vervallen
 
 5. [Artikel 8a, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8a&z=2026-01-01&g=2026-01-01), is van toepassing.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. De functionele autoriteit stelt in overeenstemming met de rechterlijk ambtenaar, die zijn ambt op basis van een aanstelling of aanwijzing voor een bepaalde arbeidsduur vervult, voor hem een werktijdregeling vast.
 
@@ -1510,7 +1534,7 @@ Vervallen
 
 6. In bijzondere gevallen kan door de functionele autoriteit van het vaststellen van een werktijdregeling worden afgezien. Het vijfde lid is in dit geval van overeenkomstige toepassing.
 
-#### Artikel 8d
+##### Artikel 8d
 
 1. De gemiddelde wekelijkse werktijd van een rechterlijk ambtenaar van 57 jaar en ouder wordt op zijn verzoek, met behoud van zijn arbeidsduur, teruggebracht met 11,1%, tenzij het dienstbelang zich daartegen verzet.
 
@@ -1538,7 +1562,7 @@ Vervallen
 
 11. In afwijking van het vierde lid eindigt de toepassing van het eerste of tweede lid met ingang van de datum waarop de rechterlijk ambtenaar de AOW-gerechtigde leeftijd heeft bereikt.
 
-#### Artikel 8e
+##### Artikel 8e
 
 1. Op het salaris van de rechterlijk ambtenaar, van wie zowel een verzoek als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=6&z=2026-01-01&g=2026-01-01), als een verzoek als bedoeld in [artikel 8d, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8d&z=2026-01-01&g=2026-01-01), is ingewilligd, wordt een korting toegepast ter grootte van het voor hem geldende percentage, bedoeld in artikel 6, vierde lid, opgeteld met het voor hem geldende percentage, bedoeld in artikel 8d, zesde lid.
 
@@ -1556,7 +1580,7 @@ Vervallen
 
 #### § 6. Overige bepalingen
 
-#### Artikel 29a
+##### Artikel 29a
 
 Indien de rechterlijk ambtenaar onderscheidenlijk gewezen rechterlijk ambtenaar voorafgaand aan de ongeschiktheid tot het verrichten van arbeid wegens ziekte werkzaamheden verrichtte in verband waarmee hij aanspraak had op een toelage als bedoeld in [artikel 6f](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=6f&z=2026-01-01&g=2026-01-01), wordt het bedrag van die toelage dat behoort tot de bezoldiging onderscheidenlijk laatstelijk genoten bezoldiging die krachtens dit hoofdstuk aan hem wordt doorbetaald, vastgesteld op het bedrag dat hij gemiddeld per maand aan die toelage heeft genoten over de drie kalendermaanden voorafgaand aan de kalendermaand waarin hij wegens ziekte ongeschikt is geworden tot het verrichten van zijn arbeid onderscheidenlijk het vervullen van een naar aard en omvang soortgelijke functie.
 
@@ -1566,11 +1590,11 @@ Indien de rechterlijk ambtenaar onderscheidenlijk gewezen rechterlijk ambtenaar 
 
 #### § 7. Suppletieregeling
 
-#### Artikel 33a
+##### Artikel 33a
 
 Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden uitgeoefend door de functionele autoriteit.
 
-#### Artikel 33b
+##### Artikel 33b
 
 1. De rechterlijk ambtenaar, die zijn ambt op basis van een aanstelling of aanwijzing voor een bepaalde arbeidsduur vervult, heeft aanspraak op vakantie, met behoud van zijn volle bezoldiging.
 
@@ -1596,7 +1620,7 @@ Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden uitg
 
 8. Bij indiensttreding, ontslag of beëindiging van de aanwijzing in de loop van een kalenderjaar wordt de aanspraak op vakantie naar evenredigheid vastgesteld.
 
-#### Artikel 33c
+##### Artikel 33c
 
 1. Over kalendermaanden gedurende welke de rechterlijk ambtenaar, in afwijking van de voor hem geldende werktijdregeling, in het geheel geen werkzaamheden onderscheidenlijk gedeeltelijk werkzaamheden verricht, heeft hij geen aanspraak op vakantie onderscheidenlijk slechts aanspraak op vakantie naar evenredigheid van het gedeelte van de werktijd waarop hij volgens de werktijdregeling zijn werkzaamheden verricht.
 
@@ -1610,7 +1634,7 @@ Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden uitg
 
 - d. in geval van genoten adoptie- of pleegverlof.
 
-#### Artikel 33d
+##### Artikel 33d
 
 1. Indien het belang van de dienst zich er niet tegen verzet, kan op verzoek van de rechterlijk ambtenaar door Onze Minister of, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur eenmaal per kalenderjaar de voor die rechterlijk ambtenaar ingevolge [artikel 33b, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33b&z=2026-01-01&g=2026-01-01), geldende aanspraak op de bovenwettelijke vakantie-uren worden verlaagd.
 
@@ -1620,7 +1644,7 @@ Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden uitg
 
 4. Op een verzoek als bedoeld in het eerste lid beslist Onze Minister niet dan nadat hij hierover het advies heeft ingewonnen van de functionele autoriteit.
 
-#### Artikel 33e
+##### Artikel 33e
 
 1. De rechterlijk ambtenaar is vrij om vast te stellen wanneer hij vakantie opneemt, voor zover het belang van de dienst zich daartegen naar het oordeel van de functionele autoriteit niet verzet.
 
@@ -1638,7 +1662,7 @@ Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden uitg
 
 De in een kalenderjaar op grond van de [artikelen 33b, vierde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33b&z=2026-01-01&g=2026-01-01), [33c](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33c&z=2026-01-01&g=2026-01-01) en het zesde lid van dit artikel teveel genoten vakantie wordt in mindering gebracht op zijn aanspraak op de wettelijke vakantie-uren over het eerstvolgende kalenderjaar.
 
-#### Artikel 33f
+##### Artikel 33f
 
 1. Indien de rechterlijk ambtenaar op de datum van zijn ontslag nog aanspraak heeft op vakantie, wordt hem voor ieder uur vakantie dat hij niet heeft opgenomen, door het in [artikel 33d, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33d&z=2026-01-01&g=2026-01-01), bedoelde gezag een vergoeding toegekend ten bedrage van het salaris per uur dat hij direct voorafgaand aan zijn ontslag genoot.
 
@@ -1656,21 +1680,21 @@ De in een kalenderjaar op grond van de [artikelen 33b, vierde tot en met zesde l
 
 #### § 3a.2. Verlof
 
-#### Artikel 33g
+##### Artikel 33g
 
 Tenzij anders is bepaald, worden de in deze paragraaf genoemde bevoegdheden ten aanzien van een rechterlijk ambtenaar uitgeoefend door Onze Minister onderscheidenlijk, indien het een bij een gerechtshof of rechtbank werkzame rechterlijk ambtenaar betreft, het gerechtsbestuur.
 
-#### Artikel 33h
+##### Artikel 33h
 
 1. De rechterlijk ambtenaar geniet verlof indien hij uit hoofde van ziekte verhinderd is zijn arbeid te verrichten. Hij behoudt gedurende dit verlof aanspraak op doorbetaling van bezoldiging overeenkomstig het bij of krachtens dit besluit bepaalde.
 
 2. De rechterlijk ambtenaar die het verlof ingevolge het eerste lid geniet, kan, onverminderd [artikel 33e, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33e&z=2026-01-01&g=2026-01-01), vakantie opnemen.
 
-#### Artikel 33i
+##### Artikel 33i
 
 Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, landelijk, regionaal of plaatselijk erkende feest- of gedenkdag is gesloten, geniet de rechterlijk ambtenaar die bij het desbetreffende gerecht of parket werkzaam is, verlof met behoud van bezoldiging, voor zover het belang van de dienst zich daartegen naar het oordeel van de functionele autoriteit niet verzet.
 
-#### Artikel 33j
+##### Artikel 33j
 
 1. Het calamiteiten- en ander kort verzuimverlof, bedoeld in [artikel 4:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:1), wordt door de functionele autoriteit verleend voor een daarbij te bepalen periode.
 
@@ -1682,7 +1706,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 5. Ten aanzien van een rechterlijk ambtenaar worden de in [artikel 4:6 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=4:6) genoemde bevoegdheden uitgeoefend door de functionele autoriteit.
 
-#### Artikel 33k
+##### Artikel 33k
 
 1. De rechterlijk ambtenaar behoudt gedurende het kortdurend zorgverlof, bedoeld in [artikel 5:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1), aanspraak op doorbetaling van de volledige bezoldiging.
 
@@ -1694,7 +1718,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 5. Ten aanzien van een rechterlijk ambtenaar worden de in de [artikelen 5:14](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:14) en [5:15 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:15) genoemde bevoegdheden uitgeoefend door de functionele autoriteit.
 
-#### Artikel 33l
+##### Artikel 33l
 
 1. De vrouwelijke rechterlijk ambtenaar behoudt gedurende het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1), aanspraak op doorbetaling van de volledige bezoldiging.
 
@@ -1706,7 +1730,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 5. Voor de toepasselijkheid van [artikel 3:11, eerste lid, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:11) wordt onder «werkgever» verstaan: het in [artikel 33g](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33g&z=2026-01-01&g=2026-01-01) bedoelde gezag.
 
-#### Artikel 33m
+##### Artikel 33m
 
 1. De vrouwelijke rechterlijk ambtenaar, die wordt ontslagen in het tijdvak waarin zij zwangerschaps- en bevallingsverlof als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) geniet, ontvangt met ingang van de datum van haar ontslag de laatstelijk genoten bezoldiging gedurende een periode die gelijk is aan de op de datum van ontslag nog resterende duur van haar zwangerschaps- en bevallingsverlof.
 
@@ -1716,7 +1740,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 4. De [artikelen 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=20&z=2026-01-01&g=2026-01-01), [25](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=25&z=2026-01-01&g=2026-01-01), [25a, eerste en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=5&artikel=25a&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=6&artikel=28&z=2026-01-01&g=2026-01-01), [29](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=6&artikel=29&z=2026-01-01&g=2026-01-01), [29a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=6&artikel=29a&z=2026-01-01&g=2026-01-01), [31](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=6&artikel=31&z=2026-01-01&g=2026-01-01) en [33l, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33l&z=2026-01-01&g=2026-01-01), zijn van overeenkomstige toepassing ten aanzien van de doorbetaling van de laatstelijk genoten bezoldiging, bedoeld in het eerste tot en met derde lid, met dien verstande dat voor de overeenkomstige toepassing van artikel 33l, tweede en derde lid, in plaats van «gedurende haar zwangerschaps- en bevallingsverlof of gedurende een bepaalde periode van dat verlof» wordt gelezen: gedurende de periode dat zij op basis van [artikel 33m, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33m&z=2026-01-01&g=2026-01-01), de laatstelijk genoten bezoldiging ontvangt.
 
-#### Artikel 33n
+##### Artikel 33n
 
 1. De rechterlijk ambtenaar die op het tijdstip waarop zijn ouderschapsverlof als bedoeld in [artikel 6:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=6:1) aanvangt in totaal tenminste een jaar in dienst is als rechterlijk ambtenaar of in dienst is geweest als ambtenaar bij de Raad voor de rechtspraak of het openbaar ministerie, dan wel als gerechtsambtenaar bij een gerecht, heeft aanspraak op 60% van zijn bezoldiging over de uren dat hij dit ouderschapsverlof geniet, zijnde ten hoogste dertien maal de arbeidsduur per week uitgaande van zijn arbeidsduur op het tijdstip waarop het verlof aanvangt.
 
@@ -1732,7 +1756,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 7. De rechterlijk ambtenaar is verplicht tot terugbetaling van hetgeen hem over de genoten uren ouderschapsverlof is toegekend in de laatste 12 maanden voorafgaand aan zijn ontslag, wanneer hij tijdens de verlofperiode of binnen een jaar na afloop van het verlof wordt ontslagen op eigen verzoek of anderszins op grond van aan hem te wijten feiten of omstandigheden. De eerste volzin is niet van toepassing in geval van ontslag op eigen verzoek gevolgd door een overgang binnen een maand naar een andere functie binnen de rijksoverheid. De rechterlijk ambtenaar kan van de in de eerste volzin bedoelde verplichting worden ontheven, indien er bijzondere omstandigheden zijn die dat naar het oordeel van het in [artikel 33g](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33g&z=2026-01-01&g=2026-01-01) bedoelde gezag rechtvaardigen. Onze Minister beslist over de in de derde volzin bedoelde ontheffing niet dan nadat hij hierover het advies van de functionele autoriteit heeft ingewonnen.
 
-#### Artikel 33o
+##### Artikel 33o
 
 1. De rechterlijk ambtenaar behoudt gedurende het adoptieverlof, bedoeld in [artikel 3:2 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:2), aanspraak op doorbetaling van de volledige bezoldiging.
 
@@ -1746,7 +1770,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 6. De voorgaande leden zijn van overeenkomstige toepassing op de rechterlijk ambtenaar die een pleegkind opneemt als bedoeld in [artikel 5:1, tweede lid, onderdeel d, van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=5:1).
 
-#### Artikel 33p
+##### Artikel 33p
 
 1. Aan een rechterlijk ambtenaar, die is aangesteld of aangewezen voor een bepaalde arbeidsduur, kan op zijn eigen verzoek buitengewoon verlof, al dan niet met behoud van bezoldiging, worden verleend. De verlening hiervan geschiedt voor een daarbij te bepalen periode. Aan de verlening kunnen voorschriften worden verbonden.
 
@@ -1762,13 +1786,13 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 #### § 3a.2. Verlof
 
-#### Artikel 34a
+##### Artikel 34a
 
 1. Ten aanzien van de rechterlijk ambtenaar, die een hem opgelegde verplichting niet nakomt of zich overigens aan plichtsverzuim schuldig maakt, kan een disciplinaire maatregel worden opgelegd.
 
 2. Plichtsverzuim als bedoeld in het eerste lid omvat zowel het overtreden van enig voorschrift als het doen of nalaten van datgene wat een goed rechterlijk ambtenaar in gelijke omstandigheden behoort na te laten of te doen.
 
-#### Artikel 34b
+##### Artikel 34b
 
 1. De disciplinaire maatregelen die aan een rechterlijk ambtenaar kunnen worden opgelegd, zijn:
 
@@ -1798,7 +1822,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 3. Bij het opleggen van een disciplinaire maatregel kan worden bepaald dat de maatregel niet ten uitvoer zal worden gelegd, indien de rechterlijk ambtenaar zich gedurende een vastgestelde termijn niet schuldig maakt aan soortgelijk plichtsverzuim als waarvoor het opleggen van de disciplinaire maatregel plaatsvindt of enig ander ernstig plichtsverzuim, en hij zich houdt aan bij het opleggen van de disciplinaire maatregel eventueel gestelde bijzondere voorwaarden.
 
-#### Artikel 34c
+##### Artikel 34c
 
 1. Een disciplinaire maatregel als bedoeld in [artikel 34b, eerste lid, onderdeel a tot en met c](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34b&z=2026-01-01&g=2026-01-01), wordt opgelegd door de functionele autoriteit.
 
@@ -1810,7 +1834,7 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 5. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing met betrekking tot de uitoefening van de in de [artikelen 34b, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34b&z=2026-01-01&g=2026-01-01), en [34e](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34e&z=2026-01-01&g=2026-01-01) genoemde bevoegdheden.
 
-#### Artikel 34d
+##### Artikel 34d
 
 1. Een disciplinaire maatregel wordt niet opgelegd dan nadat de rechterlijk ambtenaar in de gelegenheid is gesteld om zijn zienswijze schriftelijk of mondeling naar voren te brengen.
 
@@ -1818,17 +1842,17 @@ Indien een gerecht of parket op een daartoe aangewezen kerkelijke of nationale, 
 
 3. De in het eerste en tweede lid bedoelde bevoegdheden worden uitgeoefend door het gezag dat krachtens artikel 34c bevoegd is tot het opleggen van de desbetreffende disciplinaire maatregel, met dien verstande dat deze bevoegdheden worden uitgeoefend door Onze Minister indien het opleggen van de disciplinaire maatregel, bedoeld in [artikel 34c, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34c&z=2026-01-01&g=2026-01-01), bij koninklijk besluit geschiedt.
 
-#### Artikel 34e
+##### Artikel 34e
 
 Een disciplinaire maatregel, anders dan die van schriftelijke berisping, wordt niet eerder ten uitvoer gelegd dan nadat hij onherroepelijk is geworden, tenzij bij het opleggen van de maatregel onmiddellijke tenuitvoerlegging is bepaald.
 
 #### § 4.2. Disciplinaire maatregelen
 
-#### Artikel 34f
+##### Artikel 34f
 
 Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij krachtens wettelijke maatregel van zijn vrijheid is beroofd, tenzij de vrijheidsbeneming het gevolg is van een maatregel in het belang van de volksgezondheid, anders dan op grond van de [Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten](https://wetten.overheid.nl/jci1.3:c:BWBR0040632) of de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635).
 
-#### Artikel 34g
+##### Artikel 34g
 
 1. Onverminderd het bepaalde in [artikel 34b, eerste lid, aanhef en onderdeel j](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.2&artikel=34b&z=2026-01-01&g=2026-01-01), kan een rechterlijk ambtenaar worden geschorst, indien:
 
@@ -1842,7 +1866,7 @@ Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij 
 
 3. Schorsing als bedoeld in het eerste lid of beëindiging als bedoeld in het tweede lid geschiedt door Onze Minister, met dien verstande dat hij hiertoe niet besluit dan nadat de functionele autoriteit hierover heeft geadviseerd dan wel het voorstel hiervoor heeft gedaan.
 
-#### Artikel 34h
+##### Artikel 34h
 
 1. In geval van schorsing kan de bezoldiging van de rechterlijk ambtenaar tijdens de duur van de schorsing geheel of gedeeltelijk worden ingehouden.
 
@@ -1860,7 +1884,7 @@ Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij 
 
 #### § 4.1. Algemeen
 
-#### Artikel 35a
+##### Artikel 35a
 
 1. De rechterlijk ambtenaar wordt op eigen verzoek ontslagen.
 
@@ -1880,7 +1904,7 @@ Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij 
 
 - c. het belang van de dienst dit vereist, met dien verstande dat de termijn van drie maanden, bedoeld in het tweede lid, op deze grond tot ten hoogste zes maanden kan worden verlengd en dat bij deze verlenging in redelijkheid met het belang van de rechterlijk ambtenaar rekening wordt gehouden.
 
-#### Artikel 35b
+##### Artikel 35b
 
 1. De rechterlijk ambtenaar kan worden ontslagen op grond van ongeschiktheid wegens ziekte tot het verrichten van zijn arbeid.
 
@@ -1916,17 +1940,17 @@ Een rechterlijk ambtenaar is van rechtswege geschorst indien en voor zolang hij 
 
 - e. indien het UWV op grond van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=24) dan wel [artikel 25, negende lid, van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=25), een tijdvak heeft vastgesteld, met de duur van dit tijdvak.
 
-#### Artikel 35c
+##### Artikel 35c
 
 1. Bij de beoordeling of er sprake is van een situatie als bedoeld in [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35b&z=2026-01-01&g=2026-01-01), betrekt de functionele autoriteit de uitslag van de beoordeling door het UWV van de aanvraag op grond van [artikel 64 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=64).
 
 2. Indien de beoordeling, bedoeld in het eerste lid, door het UWV niet of langer dan een jaar geleden heeft plaatsgevonden, dan wel indien de rechterlijk ambtenaar en diens functionele autoriteit het oneens zijn over het ontslag, kan aan het UWV een oordeel als bedoeld in [artikel 32, zesde lid, van de Wet Suwi](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=32) worden gevraagd en betrekt de functionele autoriteit dit bij zijn beoordeling.
 
-#### Artikel 35d
+##### Artikel 35d
 
 Indien herplaatsing als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=19a&z=2026-01-01&g=2026-01-01) plaatsvindt in een ambt of functie voor minder uren dan het aantal waarvoor de rechterlijk ambtenaar was benoemd, heeft het ontslag uitsluitend betrekking op het meerdere aantal uren.
 
-#### Artikel 35e
+##### Artikel 35e
 
 1. De rechterlijk ambtenaar, die wegens ziekte ongeschikt is tot het verrichten van zijn arbeid, kan, in afwijking van [artikel 35b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35b&z=2026-01-01&g=2026-01-01), worden ontslagen indien hij zonder deugdelijke grond weigert:
 
@@ -1938,7 +1962,7 @@ Indien herplaatsing als bedoeld in [artikel 19a](https://wetten.overheid.nl/jci1
 
 2. Bij de beoordeling of er sprake is van een situatie als bedoeld in het eerste lid, kan de functionele autoriteit de uitslag van de beoordeling door het UWV van de aanvraag op grond van [artikel 64 van de WIA](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=64) betrekken.
 
-#### Artikel 35f
+##### Artikel 35f
 
 De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoeming als minister of staatssecretaris. Ontslag als bedoeld in de eerste volzin wordt verleend met ingang van de dag van het aanvaarden van de benoeming. In afwijking van [artikel 35](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4&paragraaf=4.4&artikel=35&z=2026-01-01&g=2026-01-01) kan ontslag als bedoeld in de eerste volzin worden verleend zonder voorafgaand advies hierover of voorstel hiervoor van de functionele autoriteit.
 
@@ -1946,7 +1970,7 @@ De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoem
 
 ### Hoofdstuk 5. Overige rechtspositionele voorschriften
 
-#### Artikel 37b
+##### Artikel 37b
 
 1. De functionele autoriteit besteedt aan de wijze waarop de voor het leven benoemde rechterlijk ambtenaar zijn ambt vervult regelmatig aandacht door middel van het houden van functioneringsgesprekken.
 
@@ -1958,7 +1982,7 @@ De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoem
 
 ### Hoofdstuk 5a. Overleg
 
-#### Artikel 39a
+##### Artikel 39a
 
 1. Over aangelegenheden van algemeen belang voor de rechtstoestand – met inbegrip van de algemene regels volgens welke het personeelsbeleid zal worden gevoerd – van de rechterlijke ambtenaren, wordt niet beslist dan nadat daarover door Onze Minister overleg is gevoerd met de Sectorcommissie rechterlijke macht, bedoeld in [artikel 1ac, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=1ac).
 
@@ -1966,7 +1990,7 @@ De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoem
 
 3. Over algemene aangelegenheden met betrekking tot de rechtspleging wordt door Onze Minister overleg gevoerd met de Sectorcommissie rechterlijke macht, indien hierom door een of meer leden van de Sectorcommissie rechterlijke macht of Onze Minister wordt verzocht.
 
-#### Artikel 39b
+##### Artikel 39b
 
 1. Het overleg wordt gevoerd op een zodanig tijdstip dat het van wezenlijke invloed kan zijn op de te nemen besluiten.
 
@@ -1984,7 +2008,7 @@ De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoem
 
 8. De deelnemers aan het overleg kunnen omtrent het in het overleg besprokene geheimhouding overeenkomen.
 
-#### Artikel 39c
+##### Artikel 39c
 
 1. Indien tijdens het overleg over een voorstel als bedoeld in [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39a&z=2026-01-01&g=2026-01-01), de voorzitter onderscheidenlijk een of meer leden van de Sectorcommissie tot het oordeel komt dat het overleg niet tot een uitkomst zal leiden die de instemming van alle deelnemers aan het overleg zal hebben, brengt diegene dat oordeel binnen drie dagen nadat daarvan in het overleg blijk is gegeven, schriftelijk ter kennis aan de leden van de Sectorcommissie onderscheidenlijk aan de voorzitter en de overige leden van de Sectorcommissie.
 
@@ -1998,11 +2022,11 @@ De rechterlijk ambtenaar wordt ontslagen in geval van aanvaarding van een benoem
 
 4. Voor het onderwerpen van het geschil aan een arbitrale uitspraak, bedoeld in het tweede lid, onderdeel b, is overeenstemming vereist tussen de deelnemers aan het overleg.
 
-#### Artikel 39d
+##### Artikel 39d
 
 Indien in een overleg tussen de deelnemers een geschil ontstaat over de vraag of bij een voorstel als bedoeld in [artikel 39ab, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39ab&z=2026-01-01&g=2026-01-01), wordt voldaan aan de voorwaarde dat het totaal van rechten en plichten over het geheel beoordeeld niet ongunstiger wordt, wordt dat geschil onderworpen aan een arbitrale uitspraak van de Advies- en Arbitragecommissie.
 
-#### Artikel 39e
+##### Artikel 39e
 
 1. Er is een Advies- en Arbitragecommissie rechterlijke ambtenaren, die tot taak heeft te adviseren dan wel een arbitrale uitspraak te doen in de geschillen die haar ingevolge [artikel 39c, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39c&z=2026-01-01&g=2026-01-01), of [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39d&z=2026-01-01&g=2026-01-01) worden voorgelegd.
 
@@ -2028,13 +2052,13 @@ Indien in een overleg tussen de deelnemers een geschil ontstaat over de vraag of
 
 7. Aan de leden en plaatsvervangende leden van de Advies- en Arbitragecommissie rechterlijke ambtenaren wordt door Onze Minister een vergoeding van reis- en verblijfkosten verleend overeenkomstig hetgeen met betrekking tot reis- en verblijfkosten wegens dienstreizen is overeengekomen in de laatstelijk afgesloten collectieve arbeidsovereenkomst voor ambtenaren die krachtens een arbeidsovereenkomst met de Staat werkzaam zijn.
 
-#### Artikel 39f
+##### Artikel 39f
 
 1. De Advies- en Arbitragecommissie treedt in geval van advies of arbitrage met betrekking tot een geschil als bedoeld in [artikel 39e, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39e&z=2026-01-01&g=2026-01-01), op in een samenstelling van vijf leden, onder wie de voorzitter en de twee door Onze Minister benoemde leden. Bij verhindering van een lid treedt diens plaatsvervanger op.
 
 2. Indien het verzoek om arbitrage naar het oordeel van de voorzitter een zelfde geschil betreft als waarover door de Advies- en Arbitragecommissie reeds advies is uitgebracht, treedt voor een lid dat bij het uitbrengen van dat advies was betrokken, diens plaatsvervanger op.
 
-#### Artikel 39g
+##### Artikel 39g
 
 1. Indien overeenkomstig [artikel 39c, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39c&z=2026-01-01&g=2026-01-01), wordt besloten over een geschil advies in te winnen van de Advies- en Arbitragecommissie, wordt binnen drie dagen na de vergadering, bedoeld in artikel 39c, tweede lid, het verzoek om advies ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers van het overleg die zich voor het inwinnen van advies hebben uitgesproken en bevat ten minste het onderwerp en de inhoud van het geschil. Indien in de vergadering, bedoeld in artikel 39c, tweede lid, geen overeenstemming is bereikt tussen de deelnemers aan het overleg over het onderwerp en de inhoud van het geschil, brengen de overige deelnemers aan het overleg hun visie op het onderwerp en de inhoud van het geschil eveneens binnen drie dagen na die vergadering ter kennis aan de voorzitter van de Advies- en Arbitragecommissie.
 
@@ -2042,13 +2066,13 @@ Indien in een overleg tussen de deelnemers een geschil ontstaat over de vraag of
 
 3. Indien overeenkomstig [artikel 39d](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39d&z=2026-01-01&g=2026-01-01) een geschil wordt onderworpen aan een arbitrale uitspraak van de Advies- en Arbitragecommissie, wordt zo spoedig mogelijk het verzoek om een arbitrale uitspraak ter kennis gebracht van de voorzitter van de Advies- en Arbitragecommissie. Het verzoek wordt ondertekend door de deelnemers van het overleg en bevat hun standpunten ten aanzien van het onderwerp en de inhoud van het geschil.
 
-#### Artikel 39h
+##### Artikel 39h
 
 1. De leden, de plaatsvervangende leden en de secretaris van de Advies- en Arbitragecommissie, die bij de uitoefening van hun taak de beschikking krijgen over gegevens waarvan zij het vertrouwelijk karakter kennen of redelijkerwijs moeten vermoeden, zijn, voor zover voor hen niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit hun taak de noodzaak tot bekendmaking voortvloeit.
 
 2. De Advies- en Arbitragecommissie stelt bij reglement nadere regels vast met betrekking tot haar werkwijze.
 
-#### Artikel 39i
+##### Artikel 39i
 
 1. De Advies- en Arbitragecommissie besluit bij meerderheid van stemmen.
 
@@ -2064,7 +2088,7 @@ Indien in een overleg tussen de deelnemers een geschil ontstaat over de vraag of
 
 4. De voorzitter van de Advies- en Arbitragecommissie draagt er zorg voor dat het advies of de arbitrale uitspraak binnen vier weken na ontvangst van de kennisgeving, bedoeld in [artikel 39g](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39g&z=2026-01-01&g=2026-01-01), aan de deelnemers aan het overleg ter kennis wordt gebracht.
 
-#### Artikel 39j
+##### Artikel 39j
 
 1. Binnen twee weken na ontvangst van het advies, bedoeld in [artikel 39i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39i&z=2026-01-01&g=2026-01-01), wordt het overleg tussen Onze Minister en de Sectorcommissie voortgezet.
 
@@ -2144,7 +2168,7 @@ Indien in een overleg tussen de deelnemers een geschil ontstaat over de vraag of
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6g
+##### Artikel 6g
 
 Vervallen
 
@@ -2250,7 +2274,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 33oa
+##### Artikel 33oa
 
 Onverminderd het bepaalde in [artikel 33p](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33p&z=2026-01-01&g=2026-01-01) wordt, tenzij het dienstbelang zich daartegen verzet, door de functionele autoriteit aan de rechterlijk ambtenaar buitengewoon verlof met behoud van bezoldiging verleend:
 
@@ -2258,7 +2282,7 @@ Onverminderd het bepaalde in [artikel 33p](https://wetten.overheid.nl/jci1.3:c:B
 
 - b. bij verhuizing in geval van herplaatsing in de zin van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=19&z=2026-01-01&g=2026-01-01), [artikel 46k van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=46k) of [artikel 36c, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=4a&artikel=36c&z=2026-01-01&g=2026-01-01): indien hij een eigen huishouding heeft: twee dagen, zo nodig te verlengen tot drie en in zeer bijzondere gevallen vier dagen en indien hij niet een eigen huishouding heeft: ten hoogste twee dagen.
 
-#### Artikel 33ob
+##### Artikel 33ob
 
 1. Onverminderd het bepaalde in [artikel 33p](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33p&z=2026-01-01&g=2026-01-01) wordt, tenzij het dienstbelang zich daartegen verzet, door de functionele autoriteit aan de rechterlijk ambtenaar buitengewoon verlof met behoud van bezoldiging verleend:
 
@@ -2360,7 +2384,7 @@ Onverminderd het bepaalde in [artikel 33p](https://wetten.overheid.nl/jci1.3:c:B
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. De maandelijkse loonstrook en de jaaropgave worden uitsluitend op elektronische wijze aan de rechterlijk ambtenaar en de rechterlijk ambtenaar in opleiding verzonden.
 
@@ -2476,11 +2500,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 33q
+##### Artikel 33q
 
 Als gegevens als bedoeld in [artikel 44a, zesde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44a) die niet of niet volledig openbaar worden gemaakt, worden in ieder geval aangemerkt gegevens die een aanwijzing vormen voor de woonplaats of het woonadres van de rechterlijk ambtenaar.
 
-#### Artikel 33r
+##### Artikel 33r
 
 De categorieën van bezoldigingen, bedoeld in [artikel 44, zevende lid, onder g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=44), zijn:
 
@@ -2745,7 +2769,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 6h
+##### Artikel 6h
 
 1. De rechterlijk ambtenaar, bedoeld in [artikel 1, onderdeel b, onder 7, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), en de officier in opleiding, voor zover werkzaam bij een arrondissementsparket of bij het parket centrale verwerking openbaar ministerie, ontvangt een toeslag indien de werkzaamheden bedoeld in [artikel 38c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5&artikel=38c&z=2026-01-01&g=2026-01-01), en [artikel 8ca](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8ca&z=2026-01-01&g=2026-01-01), worden verricht op de uren gelegen tussen:
 
@@ -2757,7 +2781,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Onze Minister stelt regels over de hoogte van de toeslag.
 
-#### Artikel 8ca
+##### Artikel 8ca
 
 1. In afwijking van [artikel 8c](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2c&artikel=8c&z=2026-01-01&g=2026-01-01) kunnen aan rechterlijke ambtenaren als bedoeld in [artikel 1, onderdeel b, onder 7, van de Wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830&artikel=1), en aan officieren in opleiding, voor zover werkzaam bij een arrondissementsparket of bij het parket centrale verwerking openbaar ministerie, op grond van een door de functionele autoriteit opgestelde werktijdregeling werkzaamheden worden opgedragen indien de aard en of de organisatie van de arbeid dit onvermijdelijk maakt, op de uren gelegen tussen:
 
@@ -2852,7 +2876,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 19a
+##### Artikel 19a
 
 Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtenaar heeft geen recht op doorbetaling van bezoldiging krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=17&z=2016-12-31&g=2016-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2016-12-31&g=2016-01-01) gedurende de periode dat zij zwangerschaps- en bevallingsverlof als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) geniet of op basis van [artikel 33m, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33m&z=2016-12-31&g=2016-01-01), haar laatstelijk genoten bezoldiging geniet.
 
@@ -2864,7 +2888,7 @@ Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtena
 
 #### § 3a.1. Vakantie
 
-#### Artikel 33da
+##### Artikel 33da
 
 1. De aanspraak op wettelijke vakantie-uren vervalt na afloop van één jaar na de laatste dag van het kalenderjaar waarin de aanspraak is ontstaan.
 
@@ -2872,7 +2896,7 @@ Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtena
 
 3. De aanspraak op bovenwettelijke vakantie-uren vervalt na verloop van vijf jaren na de laatste dag van het kalenderjaar waarin deze aanspraak is ontstaan.
 
-#### Artikel 33fa
+##### Artikel 33fa
 
 1. In afwijking van [artikel 33b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.1&artikel=33b&z=2026-01-01&g=2026-01-01), wordt ten aanzien van aanspraak op vakantie-uren die vóór 1 januari 2016 is ontstaan geen onderscheid gemaakt tussen wettelijke en bovenwettelijke vakantie-uren; deze aanspraak vervalt op 1 januari 2021.
 
@@ -2953,11 +2977,11 @@ Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtena
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 19b
+##### Artikel 19b
 
 Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtenaar heeft geen recht op doorbetaling van bezoldiging krachtens [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=17&z=2026-01-01&g=2026-01-01) of [18](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3&paragraaf=3&artikel=18&z=2026-01-01&g=2026-01-01) gedurende de periode dat zij zwangerschaps- en bevallingsverlof als bedoeld in [artikel 3:1 van de Wet arbeid en zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0013008&artikel=3:1) geniet of op basis van [artikel 33m, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=3a&paragraaf=3a.2&artikel=33m&z=2026-01-01&g=2026-01-01), haar laatstelijk genoten bezoldiging geniet.
 
-#### Artikel 2da
+##### Artikel 2da
 
 1. De benoeming in een ambt als bedoeld in [artikel 2, achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=2) geschiedt in tijdelijke dienst.
 
@@ -3068,7 +3092,7 @@ Een vrouwelijke rechterlijk ambtenaar of vrouwelijke gewezen rechterlijk ambtena
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. Indien krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5&z=2026-01-01&g=2026-01-01), voor het salaris van een rechterlijk ambtenaar een schaal is vastgesteld, geniet deze bij de eerste benoeming met ingang van de datum van indiensttreding het als eerste in de schaal vermelde salaris en vervolgens telkens na één jaar het daarna in de schaal vermelde salaris.
 
@@ -3076,7 +3100,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Ten aanzien van een rechterlijk ambtenaar, anders dan bedoeld in het tweede lid, kan door Onze Minister van het eerste lid worden afgeweken, doch niet anders dan op voorstel van of na het inwinnen van advies bij de functionele autoriteit.
 
-#### Artikel 5b
+##### Artikel 5b
 
 1. Bij een opvolgende benoeming in een ambt waaraan een hoger maximum salaris is verbonden en waarvoor krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5&z=2026-01-01&g=2026-01-01), een schaal is vastgesteld, geschiedt de inpassing in die schaal, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5a&z=2026-01-01&g=2026-01-01) plaatsvond.
 
@@ -3084,13 +3108,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Ten aanzien van een rechterlijk ambtenaar, anders dan bedoeld in het tweede lid, kan door Onze Minister van het eerste lid worden afgeweken, doch niet anders dan op voorstel van of na het inwinnen van advies bij de functionele autoriteit.
 
-#### Artikel 5c
+##### Artikel 5c
 
 1. Bij een opvolgende benoeming in een ambt waaraan een gelijk maximum salaris is verbonden en waarvoor krachtens [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5&z=2026-01-01&g=2026-01-01), een schaal is vastgesteld, geschiedt de inpassing in die schaal van de rechterlijk ambtenaar die nog niet het aan dat ambt verbonden maximum salaris geniet, met ingang van de datum van indiensttreding, op het naast hogere bedrag. De jaarlijkse verhoging tot het daarna in de schaal vermelde salaris blijft geschieden op dezelfde dag van het jaar als waarop die overeenkomstig [artikel 5a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=5a&z=2026-01-01&g=2026-01-01) plaatsvond.
 
 2. In geval van een in [artikel 5b, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008365&artikel=5b) bedoelde wijziging van de vaststelling van het gerecht of het parket waarbij een ambt wordt vervuld, wordt aan het in het eerste lid bepaalde overeenkomstige toepassing gegeven.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De bezoldiging van de rechterlijk ambtenaar wordt niet langer uitbetaald dan tot en met de dag van overlijden.
 
@@ -3106,7 +3130,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 7. Op het bedrag, bedoeld in het tweede en derde lid, wordt in mindering gebracht een uitkering op grond van [artikel 35 van de Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888&artikel=35), een uitkering op grond van [artikel 74 van de Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057&artikel=74), een uitkering op grond van [artikel 53 van de Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524&artikel=53) of een naar aard en strekking daarmee overeenkomende uitkering, indien deze uitkeringen worden uitgekeerd. Indien een uitkering als bedoeld in de eerste volzin zowel uit een benoeming in een rechterlijk ambt als uit een of meer andere betrekkingen voortvloeit, wordt voor de toepassing van de eerste volzin onder uitkering verstaan het gedeelte van de uitkering dat aan de benoeming in het rechterlijk ambt kan worden toegerekend.
 
-#### Artikel 7b
+##### Artikel 7b
 
 1. [Artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=2b&artikel=7a&z=2026-01-01&g=2026-01-01) is van overeenkomstige toepassing in geval van vermissing van de rechterlijk ambtenaar, met dien verstande dat:
 
@@ -3118,7 +3142,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De in het tweede lid bedoelde bezoldiging wordt verminderd met een bedrag dat gelijk is aan het totaal van pensioen en uitkeringen dat uit hoofde van de vermissing van de rechterlijk ambtenaar, met betrekking tot het tijdvak waarover alsnog aanspraak bestaat op bezoldiging, is toegekend.
 
-#### Artikel 7c
+##### Artikel 7c
 
 De bepalingen die voor burgerlijke rijksambtenaren gelden ten aanzien van het gelijktijdig genot van burgerlijke en militaire beloning, vinden overeenkomstige toepassing ten aanzien van de rechterlijke ambtenaren, die hun ambt op basis van een aanstelling of aanwijzing vervullen, met dien verstande dat voor het leven benoemde rechterlijke ambtenaren van de aan hun ambt verbonden bezoldiging nimmer minder ontvangen dan het bedrag, waarmede deze bezoldiging hun militaire bezoldiging overtreft.
 
@@ -3136,11 +3160,11 @@ De bepalingen die voor burgerlijke rijksambtenaren gelden ten aanzien van het ge
 
 ### Hoofdstuk 5. Overige rechtspositionele voorschriften
 
-#### Artikel 39aa
+##### Artikel 39aa
 
 Het overleg met betrekking tot regelingen die specifiek betrekking hebben op overheids- en onderwijspersoneel in het algemeen, bedoeld in [artikel 1 van de Regeling overleg Raad voor het Overheidspersoneelsbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0008494&artikel=1), heeft eveneens betrekking op de rechterlijke ambtenaren.
 
-#### Artikel 39ab
+##### Artikel 39ab
 
 1. Voorstellen strekkende tot invoering, wijziging of intrekking van regelingen die aangelegenheden betreffen waarop [artikel 39a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006530&hoofdstuk=5a&artikel=39a&z=2026-01-01&g=2026-01-01), betrekking heeft en waaraan individuele rechterlijke ambtenaren rechten kunnen ontlenen dan wel die plichten voor hen kunnen meebrengen, worden slechts ten uitvoer gebracht indien daarover overeenstemming bestaat met de Sectorcommissie rechterlijke macht.
 

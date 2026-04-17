@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake technische samenwerking"
 identifier: "BWBV0002614"
-categorie: "Internationaal recht"
-publicatiedatum: 1993-02-19
-laatste_update: 1993-02-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002614"
+country: "nl"
+rank: "verdrag"
+publication_date: "1993-02-19"
+last_updated: "1993-02-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002614"
+soort: "verdrag"
+stam_id: "10002949723"
+version_id: "10002952382"
+internal_id: "C10006976811"
+label_id: "10002936424"
+dtd_version: "2.0"
+original_entry_into_force: "1993-02-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002614/1993-02-19/0"
+intitule_bron: "Trb.1991-84"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1991-10-04"
+intitule_published: "1991-06-10"
+intitule_in_force: "1993-05-11"
+intitule_status: "goed"
+original_publication: "Trb.1991-84"
+original_signed_date: "1991-10-04"
+original_published_date: "1991-06-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-84"
+entry_into_force_date: "1993-02-19"
+jci_1_3: "jci1.3:c:BWBV0002614&z=1993-02-19&g=1993-02-19"
+jci_1_0: "1.0:c:BWBV0002614&g=1993-02-19"
+citeertitel_status: "officieel"
+signed_date: "1991-10-04"
+entry_into_force: "1993-02-19"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Ecuador inzake technische samenwerking
 
 De Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Ecuador,
@@ -18,7 +43,7 @@ en vanuit hun wens de technische samenwerking te bevorderen en hiervoor het nood
 
 zijn het volgende overeengekomen:
 
-#### Artikel I
+##### Artikel I
 
 1. Het doel van deze Raamovereenkomst is de technische samenwerking te bevorderen en een juridisch en bestuurlijk kader te scheppen voor onderzoek naar en/of uitvoering van projecten, die door de bevoegde autoriteiten van beide Partijen zijn overeengekomen, teneinde gevolg te geven aan deze Overeenkomst.
 
@@ -30,7 +55,7 @@ zijn het volgende overeengekomen:
 
 3. De wederzijdse bijdragen voor de projecten en de uitvoering ervan, zullen per geval worden vastgesteld door middel van Administratieve Akkoorden, die tussen de bevoegde autoriteiten van beide Partijen zullen worden gesloten.
 
-#### Artikel II
+##### Artikel II
 
 Teneinde de in deze Overeenkomst beoogde doelstellingen te kunnen realiseren, verplicht de Regering van de Republiek Ecuador zich tot het volgende:
 
@@ -50,7 +75,7 @@ Teneinde de in deze Overeenkomst beoogde doelstellingen te kunnen realiseren, ve
 
 - h. Vrijstelling te verlenen van alle douanetarieven en belastingheffingen op de invoer van het materiaal, de voertuigen en andere goederen die door de Regering van het Koninkrijk der Nederlanden worden geleverd en die bestemd zijn voor de uitvoering van de tussen de Partijen overeengekomen projecten door middel van Administratieve Akkoorden.
 
-#### Artikel III
+##### Artikel III
 
 In het kader van de activiteiten die binnen de toepassing van deze Overeenkomst vallen, verplicht de Regering van het Koninkrijk der Nederlanden zich tot het volgende:
 
@@ -70,19 +95,19 @@ In het kader van de activiteiten die binnen de toepassing van deze Overeenkomst 
 
 - h. Het voertuig dat voor persoonlijk gebruik van de deskundigen wordt ingevoerd met door de Regering van de Republiek Ecuador verleende vrijstellingen, mag niet eerder belastingvrij verkocht worden dan na een periode van drie jaar, gerekend vanaf de datum van registratie, tenzij het voertuig verkocht zou worden aan een in Ecuador verblijvende persoon die dezelfde vrijstellingen en voorrechten geniet als de deskundigen. In geval van eerdere beëindiging van hun functies kunnen de deskundigen het voertuig verkopen, na voorafgaande betaling van één zesendertigste deel van de totale waarde aan rechten en overige heffingen, voor iedere maand die nog resteert om de periode te voltooien, gerekend vanaf de datum van registratie van het voertuig in het land.
 
-#### Artikel IV
+##### Artikel IV
 
 De Regering van de Republiek Ecuador zal de bepalingen van deze Overeenkomst gelijkelijk toepassen op personen en hun gezinsleden, die voor de Regering van het Koninkrijk der Nederlanden werken, evenals op personen en hun gezinsleden, die in dienst zijn bij bedrijven waarmee de Nederlandse uitvoerende autoriteit een contract heeft gesloten in verband met de uitvoering van een project, waarin beide Partijen hebben besloten samen te werken.
 
-#### Artikel V
+##### Artikel V
 
 De bepalingen van de artikelen II en III van deze Overeenkomst zijn eveneens van toepassing op de suppletiedeskundigen die de Nederlandse Partij op voorafgaand verzoek van de Ecuadoraanse Partij ter beschikking stelt. Deze deskundigen zijn niet vrijgesteld van belastingbetaling over de lokale inkomens die zij ontvangen van de Regering van de Republiek Ecuador.
 
-#### Artikel VI
+##### Artikel VI
 
 De twee Partijen zullen éénmaal per jaar bijeenkomen voor een gezamenlijke evaluatie van de lopende projecten en voor de vaststelling van eventuele nieuwe samenwerkingsterreinen.
 
-#### Artikel VII
+##### Artikel VII
 
 Deze Overeenkomst zal ingaan op de datum dat beide Regeringen elkaar schriftelijk te kennen hebben gegeven dat aan de constitutionele vereisten van de respectieve landen is voldaan. Deze Overeenkomst zal geldig blijven gedurende een periode van drie jaar. Indien geen van beide Regeringen drie maanden voor de beëindiging ervan te kennen heeft gegeven de Overeenkomst te willen opzeggen, zal deze stilzwijgend telkens met één jaar worden verlengd.
 

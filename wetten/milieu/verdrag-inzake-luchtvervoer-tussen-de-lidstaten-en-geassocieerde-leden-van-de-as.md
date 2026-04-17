@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake luchtvervoer tussen de lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten"
 identifier: "BWBV0001897"
-categorie: "Milieu"
-publicatiedatum: 2008-09-19
-laatste_update: 2004-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001897"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-09-19"
+last_updated: "2004-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001897"
+soort: "verdrag"
+stam_id: "10002563583"
+version_id: "10002554302"
+internal_id: "C10006994131"
+label_id: "10002553154"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001897/2008-09-19/0"
+intitule_bron: "Trb.2004-271"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-04-21"
+intitule_published: "2004-11-11"
+intitule_in_force: "2008-12-22"
+intitule_status: "goed"
+original_publication: "Trb.2004-271"
+original_signed_date: "2006-04-21"
+original_published_date: "2004-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2004-271"
+entry_into_force_date: "2008-09-19"
+jci_1_3: "jci1.3:c:BWBV0001897&z=2008-09-19&g=2008-09-19"
+jci_1_0: "1.0:c:BWBV0001897&g=2008-09-19"
+citeertitel_status: "redactioneel"
+signed_date: "2006-04-21"
+entry_into_force: "2008-09-19"
 ---
-
 # Verdrag inzake luchtvervoer tussen de lidstaten en geassocieerde leden van de Associatie van Caraïbische Staten
 
 Preamble
@@ -28,7 +53,7 @@ Recognizing the importance of the Convention on International Civil Aviation ope
 
 Have agreed as follows:
 
-#### Article 1. Definitions
+##### Article 1. Definitions
 
 A. For the purposes of this Agreement, unless otherwise stated, the term:
 
@@ -64,7 +89,7 @@ A. For the purposes of this Agreement, unless otherwise stated, the term:
 
 B. Other terms should have the meaning assigned to them by the Convention.
 
-#### Article 2. Granting of Rights
+##### Article 2. Granting of Rights
 
 1. Each Party grants to the other Parties the following rights for the conduct of international air transport by the designated airlines of the other Parties:
 
@@ -90,7 +115,7 @@ B. Other terms should have the meaning assigned to them by the Convention.
 
 6. Nothing in this Article shall be understood to mean that a Party grants to an airline of another Party the right of cabotage.
 
-#### Article 3
+##### Article 3
 
 1. Each Party shall have the right to designate up to two airlines to conduct the services agreed to in this Agreement and to withdraw or alter such designation. The designation shall be transmitted to the other Party in writing indicating whether the airline is authorized to conduct scheduled or non-scheduled air transport services, or both.
 
@@ -108,7 +133,7 @@ The right of each Party to designate an airline or airlines shall include design
 
 Once the designation is received, the responsibility for compliance with Articles 6 and 7 of the Agreement remains with the Party issuing the air operator's certificate to the designated airline.
 
-#### Article 4. Revocation, Suspension and Limitation of Authorization
+##### Article 4. Revocation, Suspension and Limitation of Authorization
 
 1. A Party may revoke, suspend or limit the operating authorizations or technical permits of a designated airline where:
 
@@ -122,13 +147,13 @@ Once the designation is received, the responsibility for compliance with Article
 
 3. This Article does not limit the rights of a Party to withhold, revoke, limit or impose conditions for the operating authorizations of an airline or airlines of another Party in accordance with the provisions of Article 7 of the Agreement.
 
-#### Article 5. Enforcement of Laws
+##### Article 5. Enforcement of Laws
 
 1. While entering, remaining in or leaving the territory of a Party, its laws and regulations relating to the operation and navigation of aircraft shall be complied with by the designated airlines.
 
 2. While entering, remaining in or leaving the territory of a Party, its laws and regulations relating to the admission to or departure from its territory of passengers, crew or cargo on aircraft (including regulations relating to entry, clearance, aviation security, immigration, passports, customs and quarantine or, in the case of mail, postal regulations) shall be complied with by, or on behalf of such passengers, crew or cargo of the designated airlines, or their representatives.
 
-#### Article 6. Safety
+##### Article 6. Safety
 
 1. The Parties shall adhere to the ICAO universal operational safety oversight programme, and will therefore promote reciprocal cooperation and assistance among Member States and Associate Members, particularly with regard to developing the plan of action adopted in each case after periodic evaluation carried out by ICAO.
 
@@ -138,7 +163,7 @@ If after consultation no corrective measures are taken (and there has been at le
 
 3. A Party which for economic or technical reasons, finds difficulty in complying with the provisions of paragraph 1 and 2, may request assistance from any other Party, in meeting its safety obligations under this Article.
 
-#### Article 7. Security
+##### Article 7. Security
 
 1. In accordance with their rights and obligations under international law, the Parties reaffirm their obligation to each other to protect the security of civil aviation against acts of unlawful interference. Without prejudice to their rights and obligations under international law, the Parties shall act particularly in accordance with the terms of the Convention on Offences and Certain Other Acts Committed on Board Aircraft signed in Tokyo on 14 September 1963, the Convention for the Suppression of Unlawful Seizure of Aircraft, signed at The Hague on 16 December 1970, the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, signed at Montreal on 23 September 1971, and the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24 February 1988, supplementary to the Montreal Convention of 1971.
 
@@ -154,7 +179,7 @@ If after consultation no corrective measures are taken (and there has been at le
 
 The specific security concerns shall be subsequently subjected to the procedures of Article 15 of the Agreement.
 
-#### Article 8. Commercial Opportunities
+##### Article 8. Commercial Opportunities
 
 1. The designated airlines of a Party shall have the right to establish offices in the territory of another Party for the promotion and sale of air transport.
 
@@ -166,11 +191,11 @@ The specific security concerns shall be subsequently subjected to the procedures
 
 Conversion and transference shall be permitted promptly without restrictions or taxation in respect thereof at the rate of exchange applicable to current transactions on the date the carrier makes the initial application for remittance, according to the legislation in force in each country.
 
-#### Article 9. Code Sharing
+##### Article 9. Code Sharing
 
 In operating international air services authorized under this Agreement, any designated airline of a Party may, with prior approval by the Aeronautical Authorities concerned, enter into cooperative marketing arrangements such as blocked-space, code-sharing or leasing agreements, with an airline of another Party.
 
-#### Article 10. Computerized Reservation Systems
+##### Article 10. Computerized Reservation Systems
 
 1. The Parties agree that:
 
@@ -180,13 +205,13 @@ In operating international air services authorized under this Agreement, any des
 
 2. The regulations and operation of CRS shall be governed by the Code of Conduct established by ICAO.
 
-#### Article 11. Customs Duties and Charges
+##### Article 11. Customs Duties and Charges
 
 1. Aircraft on a flight to, from, or across the territory of a Party shall be admitted temporarily free of duty, subject to the customs regulations of that Party. Fuel, lubricating oils, spare parts, standard equipment and aircraft stores on board such aircraft, on arrival in the territory of another Party and retained on board on departure shall be exempted from customs duty, inspection fees or similar national or local duties and charges. This exemption will not be applicable to quantities of items unloaded, except where the contrary is provided for in accordance with the customs regulations of the relevant Party which can demand that said quantities of items remain under customs supervision.
 
 2. Spare parts and equipment imported into the territory of a Party for incorporation in or use on an aircraft of another Party engaged in international air navigation shall be admitted free of customs duty, subject to compliance with the regulations of the Party concerned, which may provide that the articles shall be kept under customs supervision and control.
 
-#### Article 12. User Fees
+##### Article 12. User Fees
 
 1. User fees shall be fair, reasonable, non-discriminatory and equitably distributed among the categories of users.
 
@@ -194,7 +219,7 @@ In operating international air services authorized under this Agreement, any des
 
 3. Each Party shall promote the exchange of information necessary for a reasonable revision of the fees, in accordance with paragraphs 1 and 2 of this Article. Each Party shall urge the competent authorities to inform users of any proposed change in fees, so as to allow them to express their views before such fees become effective.
 
-#### Article 13. Fair Competition
+##### Article 13. Fair Competition
 
 1. Each Party shall allow a fair and equal opportunity to the designated airlines of all Parties to compete in providing the international air transport governed by this Agreement.
 
@@ -204,61 +229,61 @@ In operating international air services authorized under this Agreement, any des
 
 4. The airlines shall submit their flight-schedules they consider convenient according to the needs of the market, to the respective Aeronautical Authorities for approval.
 
-#### Article 14. Tariffs
+##### Article 14. Tariffs
 
 1. The tariffs applicable by the designated airlines of each of the Parties shall be established at reasonable levels, taking into account all relevant factors including the cost of providing service, a reasonable profit and the technical and economic characteristics of the different routes.
 
 2. Without prejudice to the provisions of national legislation, the tariffs to be applied by the designated airline or airlines of any Party for services covered by this Agreement shall be subject to the principle of Country of Origin tariff approval.
 
-#### Article 15. Consultations
+##### Article 15. Consultations
 
 A Party may, at any time, request consultations relating to this Agreement with one or more Parties concerned. Such consultations shall begin at the earliest possible date, but within 45 days from the date the other Party (or Parties) concerned receives the request, unless otherwise agreed.
 
-#### Article 16. Disputes Settlement
+##### Article 16. Disputes Settlement
 
 Any dispute between the Parties concerning the interpretation and/or application of this Agreement shall be referred to an arbitral tribunal for consideration and decision where it has not been resolved by other dispute resolution mechanism, among others negotiation, consultation or mediation. The process of dispute settlement shall take account of the relevant ICAO policy guidance. The arbitral tribunal shall be governed by the procedure provided in Article 85 of the Convention and the decisions of the arbitral tribunal shall be binding upon the Parties.
 
-#### Article 17. Existing Agreements
+##### Article 17. Existing Agreements
 
 Bearing in mind the provisions in Article 2, this Agreement shall not affect any memorandum of understanding, bilateral or multilateral agreement showing similar authorizations that are already in force among the Parties or among the Parties and a non-Party nor the renewal thereof.
 
-#### Article 18. Duration and Withdrawal
+##### Article 18. Duration and Withdrawal
 
 This Agreement shall have an indefinite duration. Any Party may at any time denounce this Agreement. The consequent withdrawal shall take effect one year after the date of the receipt by the Depositary of the formal notification of denunciation. The denunciation shall be without prejudice to any obligation incurred by the denouncing Party under this Agreement prior to such denunciation. This Agreement shall continue to be in force thereafter with respect to the other Parties.
 
-#### Article 19. Signature
+##### Article 19. Signature
 
 This Agreement shall be open for signature by any State, Country and Territory referred to in Article IV of the Convention Establishing the Association of the Caribbean States that has ratified or adhered to said Convention.
 
-#### Article 20. Ratification
+##### Article 20. Ratification
 
 This Agreement shall be subject to ratification, acceptance or approval by the States, Countries and Territories mentioned in Article IV of the Convention Establishing the Association of Caribbean States, in accordance with the respective Constitutional procedures.
 
-#### Article 21. Accession
+##### Article 21. Accession
 
 After its entry into force, this Agreement shall remain open to accession by the States, Countries and Territories mentioned in Article IV of the Convention Establishing the Association of Caribbean States, in accordance wit the respective constitutional procedures.
 
-#### Article 22. Amendments
+##### Article 22. Amendments
 
 This Agreement may be amended by consensus among the Parties.
 
 Amendments shall enter into force when one third of the Parties have deposited their instruments of ratification, acceptance or approval and shall have effect only as among Parties which have ratified, accepted or approved such amendments.
 
-#### Article 23. Reservations
+##### Article 23. Reservations
 
 A Party may enter reservations at the time of signing, ratifying, accepting, approving or acceding to this Agreement, which will be notified to the Depository, in accordance with the legislation of each Party.
 
 Such reservations shall not modify the provisions of the Agreement with respect to the other Parties.
 
-#### Article 24. Depository
+##### Article 24. Depository
 
 Instruments of Ratification, acceptance or approval or accession shall be deposited with the Government of the Republic of Colombia in its capacity as the Depository, which shall transmit certified copies to the Member States and Associate Members.
 
-#### Article 25. Registration with ICAO
+##### Article 25. Registration with ICAO
 
 The Government of the Republic of Colombia shall register this Agreement and all amendments thereto with the International Civil Aviation Organization.
 
-#### Article 26. Entry into Force
+##### Article 26. Entry into Force
 
 This Agreement shall enter into force on the 60th day after the deposit of the instrument of ratification, acceptance, approval or accession, when one third (nine) of the States, Countries and Territories mentioned in Article IV of the Convention Establishing the Association of Caribbean States have deposited their instruments of ratification, acceptance, approval or accession.
 

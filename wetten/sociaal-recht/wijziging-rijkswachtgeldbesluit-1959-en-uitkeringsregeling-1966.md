@@ -1,13 +1,37 @@
 ---
 title: "Wijziging Rijkswachtgeldbesluit 1959 en Uitkeringsregeling 1966"
 identifier: "BWBR0007859"
-categorie: "Sociaal recht"
-publicatiedatum: 1996-01-01
-laatste_update: 1996-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007859"
+country: "nl"
+rank: "circulaire"
+publication_date: "1996-01-01"
+last_updated: "1996-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007859"
+soort: "circulaire"
+stam_id: "6311363"
+version_id: "10969742"
+internal_id: "C14867061"
+label_id: "6300184"
+original_entry_into_force: "1996-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007859/1996-01-01/0"
+intitule_bron: "Stcrt.1996-24"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-01-23"
+intitule_published: "1996-02-02"
+intitule_in_force: "1996-02-02"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-24"
+original_signed_date: "1996-01-23"
+original_published_date: "1996-02-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1996-24-p11-SC5132"
+entry_into_force_date: "1996-01-01"
+jci_1_3: "jci1.3:c:BWBR0007859&z=1996-01-01&g=1996-01-01"
+jci_1_0: "1.0:c:BWBR0007859&g=1996-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-01-23"
+entry_into_force: "1996-01-01"
 ---
-
 # Wijziging Rijkswachtgeldbesluit 1959 en Uitkeringsregeling 1966
 
 Circulaire aan de ministers

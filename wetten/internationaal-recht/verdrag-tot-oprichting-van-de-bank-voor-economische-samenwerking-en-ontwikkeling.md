@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot oprichting van de Bank voor Economische Samenwerking en Ontwikkeling in het Midden-Oosten en Noord-Afrika"
 identifier: "BWBV0004742"
-categorie: "Internationaal recht"
-publicatiedatum: 1996-08-28
-laatste_update: 1996-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004742"
+country: "nl"
+rank: "verdrag"
+publication_date: "1996-08-28"
+last_updated: "1996-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004742"
+soort: "verdrag"
+stam_id: "10004288013"
+version_id: "10004486332"
+internal_id: "C10008384191"
+label_id: "10004273644"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004742/1996-08-28/0"
+intitule_bron: "Trb.1997-82"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1997-12-10"
+intitule_published: "1997-04-08"
+intitule_status: "nogniet"
+original_publication: "Trb.1997-82"
+original_signed_date: "1997-12-10"
+original_published_date: "1997-04-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1997-82"
+jci_1_3: "jci1.3:c:BWBV0004742&z=1996-08-28&g=1996-08-28"
+jci_1_0: "1.0:c:BWBV0004742&g=1996-08-28"
+citeertitel_status: "officieel"
+signed_date: "1997-12-10"
+entry_into_force: "1997-04-08"
 ---
-
 # Verdrag tot oprichting van de Bank voor Economische Samenwerking en Ontwikkeling in het Midden-Oosten en Noord-Afrika
 
 De Verdragsluitende Partijen,
@@ -38,11 +60,11 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. OPRICHTING, RECHTSPOSITIE EN DOELSTELLINGEN
 
-#### Artikel 1. Oprichting en rechtspositie van de Bank
+##### Artikel 1. Oprichting en rechtspositie van de Bank
 
 De Bank voor Economische Samenwerking en Ontwikkeling in het Midden-Oosten en Noord-Afrika (hierna te noemen de „Bank”) wordt bij dezen opgericht. De Bank bezit volledige rechtspersoonlijkheid en is, in het bijzonder, bevoegd roerende en onroerende zaken te contracteren, te verwerven of hiervan afstand te doen, alsmede gerechtelijke actie te ondernemen.
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 Met het oog op de verdere ontwikkeling en versterking van het fundamentele streven naar vrede, stabiliteit en ontwikkeling in het Midden-Oosten en Noord-Afrika, heeft de Bank de volgende doelstellingen:
 
@@ -56,13 +78,13 @@ Met het oog op de verdere ontwikkeling en versterking van het fundamentele strev
 
 - b. het bieden van een forum ter bevordering van de economische samenwerking en de coördinatie van economisch beleid in de regio en het ondersteunen van de regionale leden bij de integratie van hun respectieve economieën in de wereldeconomie.
 
-#### Artikel 3. Samenwerking met andere internationale organisaties
+##### Artikel 3. Samenwerking met andere internationale organisaties
 
 Ter verwezenlijking van haar doelstellingen werkt de Bank nauw samen met al haar leden en, voor zover zij dit nodig acht binnen de bepalingen van dit Verdrag, met elke internationale organisatie, regionale organisatie of andere erkende organisatie, publiek of particulier, wier activiteiten aansluiten bij het stimuleren van de economische ontwikkeling van en investeringen in de regio.
 
 ### HOOFDSTUK II. LIDMAATSCHAP EN MIDDELEN
 
-#### Artikel 4. Lidmaatschap
+##### Artikel 4. Lidmaatschap
 
 a. De oorspronkelijke leden zijn opgenomen in Schema A bij dit Verdrag en zetten zich in voor:
 
@@ -74,7 +96,7 @@ maar leden zijn slechts dan oorspronkelijke leden, indien zij Partij bij dit Ver
 
 b. De Raad van Gouverneurs kan bij bijzondere meerderheid beslissen nieuwe leden tot de Bank toe te laten, die zich inzetten voor de beginselen uiteengezet in lid a, onder i en ii, van dit artikel, en die geen oorspronkelijke leden worden of kunnen worden in overeenstemming met lid a van dit artikel.
 
-#### Artikel 5. Kapitaal
+##### Artikel 5. Kapitaal
 
 a. Het maatschappelijk kapitaal van de Bank bedraagt drie miljard driehonderdachtendertig miljoen zevenhonderdduizend Speciale Trekkingsrechten. Het kapitaal is verdeeld in drieëndertig miljoen driehonderdzevenentachtigduizend aandelen, elk met een nominale waarde van honderd Speciale Trekkingsrechten. Elk aandeel heeft een volgestort deel van vijfentwintig procent en een niet-volgestort deel van vijfenzeventig procent.
 
@@ -84,19 +106,19 @@ c. De Raad van Gouverneurs beziet het kapitaal van de Bank met tussenpozen van n
 
 d. De aandelen worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar aan de Bank.
 
-#### Artikel 6. Vrijwillige bijdragen van Bijzondere Fondsen
+##### Artikel 6. Vrijwillige bijdragen van Bijzondere Fondsen
 
 a. Ter verwezenlijking van de doeleinden, en beseffende dat met concessionele middelen de ontwikkeling van zwakkere economieën van regionale leden kan worden bevorderd, kan de Bank de vrijwillige bijdragen van Bijzondere Fondsen aantrekken, en het beheer van vrijwillig bijgedragen Bijzondere Fondsen op zich nemen, die worden gebruikt op wijzen en voorwaarden die verenigbaar zijn met de overeenkomst(en) betreffende bedoelde Fondsen. Bij overeenkomst(en) kan worden bepaald dat een Bijzonder Fonds beschikbaar wordt gesteld voor projecten op concessionele basis of als gift, en kan worden gebruikt voor de financiering van studies en adviesdiensten ter bevordering van samenwerking in de regio, voor de financiering van technische bijstand bij de projectvoorbereiding, voor hulp bij de uitvoering van projecten of voor andere vormen van hulp.
 
 b. De middelen van de Bank uit Bijzondere Fondsen worden te allen tijde en in alle opzichten gescheiden van de reguliere middelen bewaard, gebruikt, toegewezen, verantwoord en geïnvesteerd of anderszins aangewend. De volledige kosten van het beheer van een Bijzonder Fonds komen ten laste van het desbetreffende Bijzondere Fonds. In geen geval worden de reguliere middelen van de Bank aangewend of aangesproken om verliezen of risico’s te dekken die voortvloeien uit activiteiten waarvoor oorspronkelijk middelen uit Bijzondere Fondsen waren gebruikt of toegewezen.
 
-#### Artikel 7. Waardering van valuta
+##### Artikel 7. Waardering van valuta
 
 Telkens wanneer het voor de toepassing van dit Verdrag noodzakelijk is de waarde van een bepaalde valuta uit te drukken in een andere valuta, wordt deze waarde naar redelijkheid door de Bank vastgesteld, na overleg met het Internationale Monetaire Fonds.
 
 ### HOOFDSTUK III. ECONOMISCHE SAMENWERKING
 
-#### Artikel 8. Een forum voor economische samenwerking
+##### Artikel 8. Een forum voor economische samenwerking
 
 a. De Bank heeft een forum voor economische samenwerking (hierna te noemen het „Forum”), bestaande uit de regionale leden van de Bank.
 
@@ -126,7 +148,7 @@ e. Het Forum heeft geen bevoegdheden ten aanzien van andere organen van de Bank.
 
 ### HOOFDSTUK IV. FINANCIËLE WERKZAAMHEDEN
 
-#### Artikel 9. Basisbeginselen voor de financiële werkzaamheden
+##### Artikel 9. Basisbeginselen voor de financiële werkzaamheden
 
 a. Het zwaartepunt van de financiële werkzaamheden van de Bank ligt bij:
 
@@ -136,7 +158,7 @@ a. Het zwaartepunt van de financiële werkzaamheden van de Bank ligt bij:
 
 b. De Raad van Bewind draagt zorg voor de uitvoering van deze basisbeginselen door regelmatige controle van de portefeuille van de Bank, door advies te geven aan de President, of door het ondernemen van enige andere actie die hij nodig acht.
 
-#### Artikel 10. Concentratie van de financiële werkzaamheden
+##### Artikel 10. Concentratie van de financiële werkzaamheden
 
 De Bank kan haar financiële werkzaamheden richten op die regionale leden welke:
 
@@ -144,7 +166,7 @@ De Bank kan haar financiële werkzaamheden richten op die regionale leden welke:
 
 - b. gestaag overgaan op een marktgerichte economie en op het bevorderen van particuliere en ondernemersinitiatieven.
 
-#### Artikel 11. Algemene bevoegdheden
+##### Artikel 11. Algemene bevoegdheden
 
 a. Om de doelstellingen van de Bank te verwezenlijken en uitvoering te geven aan de basisbeginselen van de in artikel 9, lid a, van dit Verdrag genoemde financiële werkzaamheden, kan de Raad van Bewind de Bank toestemming geven een of meer van de volgende bevoegdheden uit te oefenen, in overeenstemming met de regels van zorgvuldig financieel beheer en de zich ontwikkelende behoeften in de regio. De Bank is bevoegd tot:
 
@@ -162,7 +184,7 @@ b. De Bank kan van haar bevoegdheden gebruik maken ter ondersteuning van:
 
 - iii. de privatisering van staatsbedrijven, mits deze bedrijven zelfstandig en zonder subsidies in een concurrerend marktklimaat werken en onderworpen zijn aan de faillissementswetgeving.
 
-#### Artikel 12. Het mobiliseren van andere kapitaalmiddelen
+##### Artikel 12. Het mobiliseren van andere kapitaalmiddelen
 
 a. De Bank verschaft geen financiering en verschaft geen faciliteiten wanneer de aanvrager in staat is elders toereikende financiering of faciliteiten te verkrijgen onder voorwaarden die de Bank redelijk acht.
 
@@ -172,13 +194,13 @@ b. Bij het mobiliseren van particuliere of officiële kapitaalstromen draagt de 
 
 - ii. dat zij, bij beleggingen in aandelen, geen meerderheidsbelang in de desbetreffende onderneming verkrijgt en dat zij zich onthoudt van uitoefening van zeggenschap of het aanvaarden van rechtstreekse verantwoordelijkheid voor het beheer van een onderneming waarin zij heeft belegd, behoudens in geval van een feitelijk of dreigend in gebreke blijven ten aanzien van haar belegging, feitelijke of dreigende insolventie van de onderneming waarin de belegging is gedaan of in andere situaties die naar het oordeel van de Bank de belegging dreigen te schaden.
 
-#### Artikel 13. Algemene beperkingen ten aanzien van werkzaamheden
+##### Artikel 13. Algemene beperkingen ten aanzien van werkzaamheden
 
 a. Het totale uitstaande bedrag aan leningen, beleggingen in aandelen en garanties die door de Bank zijn verstrekt, gedaan dan wel gegeven in het kader van haar gewone werkzaamheden mag nimmer worden verhoogd, indien door de verhoging het totale bedrag van haar onaangetaste geplaatste kapitaal, waarbij de reserves en de winst zijn begrepen in haar gewone kapitaalmiddelen, zou worden overschreden. De Raad van Bewind legt procedures en criteria vast om ervoor zorg te dragen dat deze limiet niet wordt overschreden.
 
 b. De Bank geeft geen garanties voor exportkredieten. Alle leningen die door de Bank worden verstrekt dan wel gegarandeerd, alsmede alle door de Bank gedane beleggingen in aandelen dienen voor specifieke projecten. De Bank zal geen snel tot uitbetaling komende programmaleningen verstrekken.
 
-#### Artikel 14. Overige beginselen ten aanzien van de werkzaamheden
+##### Artikel 14. Overige beginselen ten aanzien van de werkzaamheden
 
 a. De Bank laat zich bij haar werkzaamheden leiden door beginselen van gezond bankbeleid en verstandig financieel management om onder alle omstandigheden te kunnen blijven voldoen aan haar financiële verplichtingen.
 
@@ -188,21 +210,21 @@ c. Alvorens de Bank een lening, garantie of belegging in aandelen geeft, verstre
 
 d. Indien de ontvanger van leningen of garanties van leningen zelf geen lid is, doch een bemiddelaar voor een lid of leden, kan de Bank verlangen dat het lid of de leden, of een voor de Bank aanvaardbaar openbaar lichaam van dat lid of die leden, de terugbetaling van de hoofdsom en de betaling van de rente garanderen, alsmede van de andere vergoedingen en kosten van de lening, overeenkomstig de daaraan verbonden voorwaarden.
 
-#### Artikel 15. Milieumandaat
+##### Artikel 15. Milieumandaat
 
 De Bank bevordert bij al haar werkzaamheden een gezonde en duurzame ontwikkeling van het milieu en stelt gepaste procedures op voor milieueffect-rapportages.
 
-#### Artikel 16. Financiering op het grondgebied van een lid
+##### Artikel 16. Financiering op het grondgebied van een lid
 
 De Bank financiert geen ondernemingen op het grondgebied van een lid, indien dat lid tegen de financiering bezwaar maakt.
 
-#### Artikel 17. Voorwaarden ten aanzien van financiële instrumenten
+##### Artikel 17. Voorwaarden ten aanzien van financiële instrumenten
 
 a. De Bank stelt de voorwaarden vast voor elke overeenkomst met betrekking tot een lening of garantie, in overeenstemming met de door de Raad van Bewind uitgevaardigde regels en voorschriften. Bij de vaststelling van deze voorwaarden geeft de Bank zich ten volle rekenschap van de noodzaak haar inkomsten veilig te stellen. De Bank dekt niet het totale bedrag of verlies van een gegarandeerde lening.
 
 b. Bij haar beleggingen in afzonderlijke ondernemingen gaat de bank haar financieringen aan onder voorwaarden die zij passend acht, rekening houdend met de behoeften van de onderneming, de risico’s die de Bank neemt en de voorwaarden die gewoonlijk door particuliere beleggers worden bedongen voor een soortgelijke financiering.
 
-#### Artikel 18. Verstrekking van leningen, aanschaffing van goederen en vervolg-activiteiten
+##### Artikel 18. Verstrekking van leningen, aanschaffing van goederen en vervolg-activiteiten
 
 a. In geval van een rechtstreeks door de Bank verstrekte lening, zal de leningnemer alleen dan toestemming van de Bank krijgen voor het opnemen van gelden, indien deze dienen tot dekking van werkelijk gedane uitgaven.
 
@@ -212,7 +234,7 @@ c. De Bank neemt de nodige maatregelen om te verzekeren dat het bedrag van een l
 
 ### HOOFDSTUK V. AANVULLENDE BEVOEGDHEDEN EN DIVERSEN
 
-#### Artikel 19. Bevoegdheid tot het aangaan van leningen en andere bevoegdheden
+##### Artikel 19. Bevoegdheid tot het aangaan van leningen en andere bevoegdheden
 
 Naast de elders in dit Verdrag omschreven bevoegdheden heeft de Bank de bevoegdheid:
 
@@ -232,11 +254,11 @@ Naast de elders in dit Verdrag omschreven bevoegdheden heeft de Bank de bevoegdh
 
 - f. samenwerkingsovereenkomsten te sluiten met openbare of particuliere lichamen.
 
-#### Artikel 20. Verklaring op waardepapieren
+##### Artikel 20. Verklaring op waardepapieren
 
 Ieder waardepapier dat door de Bank wordt uitgegeven of gegarandeerd draagt op de voorzijde duidelijk zichtbaar een verklaring, inhoudende dat het geen schuldbekentenis van een Regering of lid is, tenzij dit wel het geval is, in welk geval dit dient te worden vermeld.
 
-#### Artikel 21. Vrij gebruik van valuta’s
+##### Artikel 21. Vrij gebruik van valuta’s
 
 Leden mogen geen beperkingen opleggen aan het ontvangen, houden, gebruiken of overmaken door de Bank van:
 
@@ -250,11 +272,11 @@ Leden mogen geen beperkingen opleggen aan het ontvangen, houden, gebruiken of ov
 
 ### HOOFDSTUK VI. FINANCIEEL BEHEER
 
-#### Artikel 22. Algemeen
+##### Artikel 22. Algemeen
 
 De Bank laat zich bij haar werkzaamheden leiden door beginselen van verstandig financieel beheer om onder alle omstandigheden te kunnen blijven voldoen aan haar financiële verplichtingen.
 
-#### Artikel 23. Verliezen en reserves
+##### Artikel 23. Verliezen en reserves
 
 a. In geval van betalingsachterstanden en in gebreke blijven van debiteuren ten aanzien van leningen die door de Bank zijn verstrekt of gegarandeerd, of waarin door de Bank wordt deelgenomen, en in geval van verliezen bij beleggingen in aandelen, neemt de Bank in het kader van haar gewone werkzaamheden de maatregelen die zij passend acht. De Bank houdt voldoende reserves aan en/of treft passende voorzieningen tegen mogelijke verliezen.
 
@@ -270,17 +292,17 @@ b. Verliezen voortvloeiende uit de gewone werkzaamheden van de Bank worden ten l
 
 - v. ten slotte, een passende hoeveelheid van het niet-ingeroepen geplaatste garantiekapitaal, waarvan de volstorting kan worden gevorderd in overeenstemming met de bepalingen van artikel 2, lid (d), van Schema A bij dit Verdrag.
 
-#### Artikel 24. Toewijzing van het netto-inkomen
+##### Artikel 24. Toewijzing van het netto-inkomen
 
 a. Wanneer de Raad van Gouverneurs van mening is dat de reserves van een aanvaardbaar niveau zijn en dat de Bank afdoende voorzieningen heeft getroffen tegen mogelijke verliezen genoemd in artikel 23, lid a, van dit Verdrag, kan hij bij bijzondere meerderheid besluiten dat een gedeelte van het netto-inkomen of ingehouden winst in de vorm van dividend wordt uitgekeerd aan leden of aan een andere entiteit of fonds, ter aanwending voor doeleinden die overeenstemmen met de doeleinden van de Bank.
 
 b. Elke uitkering aan leden vindt plaats in verhouding tot het aandeel van elk lid in het kapitaal van de Bank, met dien verstande dat bij de berekening van dit aantal slechts wordt gelet op betalingen in contanten en promessen met betrekking tot die aandelen die aan of voor het einde van het desbetreffende boekjaar zijn ontvangen en verzilverd. Een lid kan geen beperkingen opleggen ten aanzien van bedoelde betalingen en het gebruik daarvan door het ontvangende lid.
 
-#### Artikel 25. Begroting
+##### Artikel 25. Begroting
 
 De President stelt een jaarbegroting op voor inkomsten en uitgaven van de Bank en legt dit ter goedkeuring voor aan de Raad van Bewind.
 
-#### Artikel 26. Verslagen
+##### Artikel 26. Verslagen
 
 a. De Bank publiceert een jaarverslag, bevattende een door accountants goedgekeurd overzicht van haar financiële positie en de winst- en verliesrekening, waaruit het resultaat van haar werkzaamheden blijkt, en doet de Bewindvoerders met tussenpozen van drie maanden of korter een beknopt overzicht toekomen van haar jaarrekeningen.
 
@@ -290,11 +312,11 @@ c. Onder de leden worden afschriften verspreid van alle verslagen en overzichten
 
 ### HOOFDSTUK VII. ORGANISATIE EN BEHEER
 
-#### Artikel 27. Structuur van de Bank
+##### Artikel 27. Structuur van de Bank
 
 Naast het Forum heeft de Bank een Raad van Gouverneurs, een Raad van Bewind, een President, en overig leidinggevend en ander personeel voor de vervulling van de door de Bank als noodzakelijk geoordeelde taken.
 
-#### Artikel 28. De Raad van Gouverneurs
+##### Artikel 28. De Raad van Gouverneurs
 
 a. Alle bevoegdheden van de Bank berusten bij de Raad van Gouverneurs, behoudens de bevoegdheden die uit hoofde van dit Verdrag speciaal zijn toegewezen aan een ander orgaan van de Bank. De Raad van Gouverneurs kan aan de Raad van Bewind zijn bevoegdheden overdragen, met uitzondering van de bevoegdheid:
 
@@ -332,7 +354,7 @@ c. De Raad van Gouverneurs houdt vergaderingen wanneer de Raad deze nodig acht o
 
 d. De Raad van Gouverneurs en, voor zover hij daartoe is gemachtigd, de Raad van Bewind, kunnen de regels en voorschriften aannemen en de organen instellen die nodig of dienstig zijn voor de uitoefening van de werkzaamheden van de Bank.
 
-#### Artikel 29. De Raad van Bewind
+##### Artikel 29. De Raad van Bewind
 
 a. De Raad van Bewind is verantwoordelijk voor de algemene werkzaamheden van de Bank en oefent daartoe, naast de bevoegdheden die hem in dit Verdrag uitdrukkelijk zijn toegewezen, alle bevoegdheden uit die door de Raad van Gouverneurs aan de Raad van Bewind zijn overgedragen, in het bijzonder:
 
@@ -366,7 +388,7 @@ e. De Raad van Bewind komt bijeen op initiatief van de Voorzitter of op verzoek 
 
 f. De Raad van Bewind komt niet in permanente zitting bijeen, is niet gevestigd ten kantore van de Bank en verricht zijn werkzaamheden zonder beloning of vergoeding door de Bank. De Raad van Gouverneurs kan bij bijzondere meerderheid en onder door hem vastgestelde voorwaarden de niet ten kantore van de Bank gevestigde Raad van Bewind vervangen door een wel ten kantore van de Bank gevestigde Raad van Bewind bestaande uit ten hoogste twaalf Bewindvoerders.
 
-#### Artikel 30. President, leidinggevend en ander personeel
+##### Artikel 30. President, leidinggevend en ander personeel
 
 a. De President leidt de lopende zaken van de Bank volgens de aanwijzingen van de Raad van Bewind en vertegenwoordigt de Bank in rechte. Hij of zij is verantwoordelijk voor de organisatie, de aanstelling en het ontslag van het leidinggevend en ander personeel. Bij het aanstellen van leidinggevend en ander personeel schenkt hij, rekening houdend met het primaire belang van doelmatigheid en technische bekwaamheid, de nodige aandacht aan werving op basis van een brede geografische spreiding onder de leden van de Bank, en aan regionale werving.
 
@@ -374,7 +396,7 @@ b. De Raad van Gouverneurs kiest met een meerderheid van het totale aantal Gouve
 
 c. De Bank, haar President, leidinggevend en ander personeel dienen zich bij hun besluiten slechts te laten leiden door overwegingen die betrekking hebben op het doel, de taken en de werkzaamheden van de Bank. Deze overwegingen worden onpartijdig tegen elkaar afgewogen ten einde de doelstellingen van de Bank te verwezenlijken en uit te voeren. De President, leidinggevend en ander personeel van de Bank staan in de uitoefening van hun functie uitsluitend in dienst van de Bank en stellen hun diensten aan geen enkele andere autoriteit ter beschikking. Elk lid van de Bank eerbiedigt het internationale karakter van deze dienstbetrekking en onderneemt geen enkele poging een van hen in de uitoefening van zijn functie te beïnvloeden.
 
-#### Artikel 31. Stemrecht
+##### Artikel 31. Stemrecht
 
 a. Het aantal stemmen van een lid is gelijk aan het aantal aandelen in het aandelenkapitaal van de Bank waarop het heeft ingeschreven. Ingeval een lid verzuimt een deel van het bedrag te betalen dat het verschuldigd is in verband met zijn betalingsverplichtingen met betrekking tot het volgestorte deel van de aandelen waarop het ingevolge artikel 5 van dit Verdrag heeft ingeschreven, is dat lid, zolang het verzuim voortduurt, niet gerechtigd het percentage van zijn stemrecht uit te oefenen dat overeenkomt met het percentage dat het niet betaalde verschuldigde bedrag vormt ten opzichte van het totale bedrag van de volgestorte aandelen in het aandelenkapitaal van de Bank waarop dat lid heeft ingeschreven.
 
@@ -382,13 +404,13 @@ b. Bij stemming in de Raad van Gouverneurs is elke Gouverneur gerechtigd de stem
 
 c. Bij stemming in de Raad van Bewind is elke Bewindvoerder gerechtigd het aantal stemmen uit te brengen waarop de Gouverneurs die hem hebben gekozen recht hebben. Een Bewindvoerder die meer dan één lid van de Bank vertegenwoordigt, mag afzonderlijk de stemmen uitbrengen van de leden die hij vertegenwoordigt. Tenzij in dit Verdrag uitdrukkelijk anders is bepaald, worden besluiten van de Raad van Bewind genomen met een meerderheid van het aantal stemmen van de Bewindvoerders die hun stem uitbrengen.
 
-#### Artikel 32. Vestiging
+##### Artikel 32. Vestiging
 
 a. Het hoofdkantoor van de Bank is gevestigd te Caïro, Arabische Republiek Egypte.
 
 b. De Bank kan op het grondgebied van elk lid van de Bank agentschappen en bijkantoren vestigen, uitsluitend op beslissing bij bijzondere meerderheid van de Raad van Bewind.
 
-#### Artikel 33. Plaatsen van bewaargeving en communicatie met de Bank
+##### Artikel 33. Plaatsen van bewaargeving en communicatie met de Bank
 
 a. Elk lid wijst zijn centrale bank, of een andere met de Bank overeen te komen instelling, aan als de plaats waar de Bank haar bezit aan valuta van dat lid alsmede andere activa van de Bank kan bewaren.
 
@@ -396,27 +418,27 @@ b. Elk lid wijst een officiële instantie aan waarmee de Bank in verbinding kan 
 
 ### HOOFDSTUK VIII. VOORRECHTEN EN IMMUNITEITEN
 
-#### Artikel 34. Doel van dit hoofdstuk
+##### Artikel 34. Doel van dit hoofdstuk
 
 Teneinde de Bank in staat te stellen de haar opgelegde taken te vervullen, worden aan de Bank op het grondgebied van elk lid de in dit hoofdstuk vermelde voorrechten en immuniteiten toegekend.
 
-#### Artikel 35. Rechtsgedingen
+##### Artikel 35. Rechtsgedingen
 
 Rechtsvorderingen tegen de Bank, behoudens die welke vallen onder artikel 43 van dit Verdrag, kunnen slechts worden ingesteld voor een bevoegde rechter op het grondgebied van een lid waarin de Bank een kantoor heeft of een vertegenwoordiger heeft aangewezen voor het aannemen van gerechtelijke aanzeggingen. Er mag geen vordering worden ingesteld door i leden of personen die optreden voor of vorderingen hebben op leden of (ii) met betrekking tot persoonlijke kwesties. Eigendommen en activa van de Bank zijn vóór het uitspreken van het eindvonnis of de scheidsrechterlijke uitspraak tegen de Bank vrij van inbeslagneming, beslaglegging of executie, ongeacht waar deze zich bevinden en ongeacht wie deze in bezit heeft.
 
-#### Artikel 36. Activa
+##### Artikel 36. Activa
 
 a. De eigendommen en activa van de Bank, met inbegrip van de activa van de Bijzonder Fondsen, zijn vrij van onderzoek, vordering, inbeslagneming, onteigening of andere vormen van beslaglegging op last van de uitvoerende of wetgevende macht, ongeacht waar deze zich bevinden en ongeacht wie deze in bezit heeft.
 
 b. Voor zover nodig voor de krachtens dit Verdrag uit te voeren werkzaamheden zijn alle eigendommen en activa van de Bank vrij van beperkingen, regelingen, controles en moratoria van welke aard ook.
 
-#### Artikel 37. Archieven en aanzeggingen
+##### Artikel 37. Archieven en aanzeggingen
 
 a. De archieven van de Bank zijn, ongeacht waar deze zich bevinden, onschendbaar.
 
 b. Officiële aanzeggingen van de Bank worden door elk lid niet minder gunstig behandeld dan officiële aanzeggingen van andere leden.
 
-#### Artikel 38. Functionarissen in dienst van de Bank
+##### Artikel 38. Functionarissen in dienst van de Bank
 
 a. Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere personeelsleden van de Bank, alsmede deskundigen die een missie voor de Bank vervullen en de President:
 
@@ -428,7 +450,7 @@ a. Alle Gouverneurs, Bewindvoerders, plaatsvervangers, leidinggevende en andere 
 
 b. De echtgenoten en zij die onmiddellijk afhankelijk zijn van bedoelde President, leidinggevende en andere personeelsleden en deskundigen die een missie voor de Bank vervullen en die woonachtig zijn op het grondgebied van een lid waar het hoofdkantoor of een ander kantoor of agentschap van de Bank is gevestigd, zou, indien mogelijk, de gelegenheid geboden moeten worden aldaar een dienstbetrekking aan te gaan, in overeenstemming met de aldaar geldende wetgeving.
 
-#### Artikel 39. Belastingen
+##### Artikel 39. Belastingen
 
 a. De Bank, haar activa, eigendommen en inkomen, alsmede de krachtens dit Verdrag toegestane werkzaamheden en transacties van de Bank, zijn vrijgesteld van alle belastingen en douaneheffingen. De Bank is eveneens vrijgesteld van aansprakelijkheid ten aanzien van de inning of betaling van belastingen of heffingen.
 
@@ -436,43 +458,43 @@ b. Er wordt geen belasting geheven over of ten aanzien van salarissen, onkostenv
 
 c. Er wordt geen belasting geheven, van welke aard ook, op door de Bank uitgegeven of gegarandeerde schuldbekentenissen of waardepapieren, met inbegrip van de dividenden en renten daarvan, ongeacht wie deze in bezit heeft, indien die een discriminatie inhoudt tegen zodanige schuldbekentenissen of waardepapieren of belegging, uitsluitend omdat deze zijn uitgegeven of gegarandeerd door de Bank, of indien de plaats of de valuta waarin deze zijn uitgegeven, betaalbaar worden gesteld of worden betaald, of de plaats waar een kantoor van de Bank is gevestigd of waar zij haar bedrijf uitoefent, de enige rechtsgrond voor een dergelijke belasting zou zijn.
 
-#### Artikel 40. Toepassing van dit hoofdstuk
+##### Artikel 40. Toepassing van dit hoofdstuk
 
 Ieder lid neemt binnen zijn bevoegdheden terstond de nodige maatregelen om de beginselen van dit hoofdstuk in het eigen rechtsstelsel op te nemen en stelt de Bank in kennis van de concrete stappen die het heeft genomen.
 
-#### Artikel 41. Afstand van immuniteiten, vrijstellingen en voorrechten
+##### Artikel 41. Afstand van immuniteiten, vrijstellingen en voorrechten
 
 De in dit hoofdstuk omschreven immuniteiten, vrijstellingen en voorrechten worden verleend in het belang van de Bank; in de mate en onder de voorwaarden die de Bank bepaalt kan afstand worden gedaan van de in dit hoofdstuk omschreven immuniteiten, voorrechten en vrijstellingen in gevallen waarin een dergelijk handelen geen afbreuk doet aan de belangen van de Bank. De President doet afstand van een immuniteit, voorrecht of vrijstelling ten aanzien van een leidinggevend of ander personeelslid of een deskundige van de Bank, ingeval de immuniteit naar zijn oordeel een goede rechtspleging in de weg zou staan en daarvan afstand kan worden gedaan zonder afbreuk te doen aan de belangen van de Bank. In soortgelijke omstandigheden en onder dezelfde voorwaarden heeft de Raad van Gouverneurs het recht en de plicht afstand te doen van een immuniteit, voorrecht of vrijstelling ten aanzien van de President.
 
 ### HOOFDSTUK IX. BESLECHTING VAN GESCHILLEN
 
-#### Artikel 42. Interpretatie en toepassing van het Verdrag
+##### Artikel 42. Interpretatie en toepassing van het Verdrag
 
 a. Meningsverschillen omtrent de interpretatie of toepassing van de bepalingen van dit Verdrag die rijzen tussen een lid van de Bank en de Bank, of tussen twee of meer leden van de Bank onderling, worden ter beslissing voorgelegd aan de Raad van Bewind. Ieder lid dat niet direct in de Raad van Bewind is vertegenwoordigd en in bijzondere mate bij het desbetreffende meningsverschil is betrokken, is gerechtigd zich gedurende de behandeling in de Raad van Bewind te doen vertegenwoordigen.
 
 b. In elk geval waarin de Raad van Bewind ingevolge lid a van dit artikel een beslissing heeft genomen, kan een lid verzoeken de zaak naar de Raad van Gouverneurs te verwijzen, wiens oordeel onherroepelijk is. In afwachting van de beslissing van de Raad van Gouverneurs kan de Bank, voor zover zij dit nodig acht, handelen op grond van de beslissing van de Raad van Bewind.
 
-#### Artikel 43. Geschillen met de Bank die betrekking hebben op opzegging of schorsing
+##### Artikel 43. Geschillen met de Bank die betrekking hebben op opzegging of schorsing
 
 Onverminderd de bepalingen van artikel 42 van dit Verdrag, worden geschillen tussen de Bank en een lid of voormalig lid dat zijn lidmaatschap heeft opgezegd of is geschorst, beslecht in overeenstemming met de procedure omschreven in Bijlage A bij dit Verdrag.
 
 ### HOOFDSTUK X. WIJZIGINGEN
 
-#### Artikel 44. Algemeen
+##### Artikel 44. Algemeen
 
 De Raad van Gouverneurs kan bij bijzondere meerderheid dit Verdrag wijzigen, met inbegrip van het Schema en de Bijlage, zij het dat de bevestigende stem van alle leden vereist is voor wijzigingen van de bepalingen ten aanzien van voorkeursrechten in de artikelen 5 en 52, artikel 46 (opzegging), alsmede artikel 2, lid f, van Schema A, van dit Verdrag (beperking aansprakelijkheid).
 
-#### Artikel 45. Procedure
+##### Artikel 45. Procedure
 
 Elk voorstel tot wijziging van dit Verdrag, met inbegrip van het Schema en de Bijlage, ongeacht of dit afkomstig is van een lid, een Gouverneur of een Bewindvoerder, wordt ingediend bij de Voorzitter van de Raad van Bewind, die het voorstel voorlegt aan de Raad van Bewind. Indien een voorstel tot wijziging wordt aanbevolen door de Raad van Bewind, wordt dit ter goedkeuring voorgelegd aan de Raad van Gouverneurs. Wanneer een wijziging naar behoren is goedgekeurd door de Raad van Gouverneurs, bevestigt de Bank dit door middel van een officiële mededeling aan alle leden. Wijzigingen worden voor alle leden negentig dagen na de datum van officiële mededeling van kracht, tenzij de Raad van Gouverneurs een andere termijn vaststelt.
 
 ### HOOFDSTUK XI. OPZEGGING EN SCHORSING VAN HET LIDMAATSCHAP EN BEËINDIGING VAN DE WERZAAMHEDEN
 
-#### Artikel 46. Opzegging
+##### Artikel 46. Opzegging
 
 Ieder lid kan, na verloop van een periode van drie jaar na de datum waarop dit Verdrag voor het desbetreffende lid in werking is getreden, te allen tijde zijn lidmaatschap van de Bank opzeggen door middel van een aan het hoofdkantoor van de Bank gerichte schriftelijke kennisgeving. Een opzegging wordt van kracht negentig dagen na de datum waarop de Bank de genoemde kennisgeving heeft ontvangen. Het lid kan de kennisgeving van de opzegging intrekken zolang deze niet van kracht is geworden.
 
-#### Artikel 47. Schorsing van het lidmaatschap
+##### Artikel 47. Schorsing van het lidmaatschap
 
 a. Indien een lid zijn verplichtingen ingevolge dit Verdrag niet nakomt, kan de Raad van Gouverneurs zijn lidmaatschap schorsen bij bijzondere meerderheid.
 
@@ -480,13 +502,13 @@ b. Zolang de schorsing duurt heeft een lid geen rechten ingevolge dit Verdrag, b
 
 c. Het geschorste lid houdt een jaar na zijn schorsing automatisch op lid te zijn, tenzij de Raad van Gouverneurs besluit de schorsingstermijn te verlengen of het lid in ere te herstellen.
 
-#### Artikel 48. Rechten en plichten van voormalige leden
+##### Artikel 48. Rechten en plichten van voormalige leden
 
 a. Na de beëindiging van het lidmaatschap, blijft een voormalig lid aansprakelijk voor al zijn verplichtingen ingevolge dit Verdrag, met inbegrip van zijn indirecte verplichtingen die golden vóór de beëindiging van het lidmaatschap.
 
 b. Onverminderd het bepaalde in lid a van dit artikel, treedt de Bank in onderhandeling met genoemde voormalige leden ter regeling van hun respectieve aanspraken en verplichtingen. Iedere regeling behoeft de goedkeuring van de Raad van Gouverneurs.
 
-#### Artikel 49. Beoordeling en beëindiging van de werkzaamheden en beschikking over de activa
+##### Artikel 49. Beoordeling en beëindiging van de werkzaamheden en beschikking over de activa
 
 a. In het tiende jaar volgend op de oprichtingsvergadering gaat de Raad van Gouverneurs over tot een grondige beoordeling van de werkzaamheden van de Bank.
 
@@ -494,7 +516,7 @@ b. Aansluitend op genoemd onderzoek, of op een ander tijdstip, kan de Raad van G
 
 c. De Raad van Gouverneurs kan bij bijzondere meerderheid alle of vrijwel alle activa van de Bank verkopen, met inbegrip van haar leningenportefeuille, mits, voorafgaand aan de verkoop, maatregelen zijn genomen om alle verplichtingen aan crediteuren en houders van garanties te voldoen of deze verplichtingen zijn geregeld.
 
-#### Artikel 50. Bescherming van crediteuren en anderen bij beëindiging van de werkzaamheden van de Bank
+##### Artikel 50. Bescherming van crediteuren en anderen bij beëindiging van de werkzaamheden van de Bank
 
 Bij beëindiging van de werkzaamheden van de Bank:
 
@@ -504,7 +526,7 @@ Bij beëindiging van de werkzaamheden van de Bank:
 
 - c. neemt de Bank onmiddellijk de nodige stappen om aan alle verplichtingen ten aanzien van crediteuren en houders van garanties te voldoen of hiervoor een regeling te treffen.
 
-#### Artikel 51. Verdeling van activa onder de leden
+##### Artikel 51. Verdeling van activa onder de leden
 
 a. Nadat de Bank een beslissing heeft genomen in overeenstemming met artikel 49, lid b, van dit Verdrag, en heeft voldaan aan de vereisten van artikel 50, leden a en c, van dit Verdrag, of ingevolge artikel 49, lid c, van dit Verdrag, alle of vrijwel alle activa van de Bank heeft verkocht, kan de Raad van Gouverneurs bij bijzondere meerderheid beslissen activa onder de leden te verdelen in verhouding tot het aandeel van elk der leden in het geplaatste kapitaal. Een lid maakt pas aanspraak op zijn aandeel in de activa van de Bank wanneer alle lopende vorderingen die de Bank op dat lid heeft, zijn vereffend. De aandelen in de verdeelde activa behoeven niet eenvormig te zijn wat de soort activa betreft. Elke verdeling van activa vindt plaats op het tijdstip en op de wijze die de Raad van Gouverneurs redelijk en billijk acht.
 
@@ -512,7 +534,7 @@ b. De Bank keert eventuele overige activa van de Bijzondere Fondsen uit overeenk
 
 ### HOOFDSTUK XII. BEGRIPSOMSCHRIJVINGEN EN SLOTBEPALINGEN
 
-#### Artikel 52. Begripsomschrijvingen
+##### Artikel 52. Begripsomschrijvingen
 
 a. **Voorkeursrecht:** de redelijke gelegenheid voor een lid om, onder de door de Raad van Gouverneurs vastgestelde uniforme voorwaarden, in te schrijven op een deel van het bedrag waarmee het kapitaal wordt verhoogd dat gelijk is aan de verhouding waarin de aandelen waarop het heeft ingeschreven staan tot het totale geplaatste kapitaal onmiddellijk voor de verhoging.
 
@@ -538,7 +560,7 @@ d. **Met middelen van Bijzondere Fondsen**worden bedoeld de middelen van elk Bij
 
 - iii. inkomsten uit beleggingen van middelen van een Bijzonder Fonds, of uit de werkzaamheden van een Bijzonder Fonds.
 
-#### Artikel 53. Ondertekening, bekrachtiging, aanvaarding of goedkeuring en inwerkingtreding
+##### Artikel 53. Ondertekening, bekrachtiging, aanvaarding of goedkeuring en inwerkingtreding
 
 a. Dit Verdrag staat open voor ondertekening op het hoofdkantoor van de Verenigde Naties te New York door, voor of namens alle mogelijke toekomstige leden waarvan de namen in Schema A bij dit Verdrag zijn vermeld, en dient door de ondertekenaars te worden bekrachtigd, aanvaard of goedgekeurd in overeenstemming met hun eigen procedures.
 
@@ -550,7 +572,7 @@ d. Ten aanzien van ieder mogelijk toekomstig lid dat zijn akte van bekrachtiging
 
 e. Indien dit Verdrag niet in werking is getreden binnen twee jaar na de openstelling voor ondertekening, belegt de Depositaris een conferentie van belanghebbende partijen om de in de toekomst te nemen stappen vast te stellen.
 
-#### Artikel 54. Oprichtingsvergadering
+##### Artikel 54. Oprichtingsvergadering
 
 a. Zodra dit Verdrag in werking treedt, belegt de Depositaris de eerste vergadering van de Raad van Gouverneurs. Deze vergadering wordt gehouden op het hoofdkantoor van de Bank, binnen zestig dagen na de datum van inwerkingtreding van dit Verdrag, of zo spoedig mogelijk daarna.
 
@@ -564,11 +586,11 @@ b. De Raad van Gouverneurs gaat op zijn eerste vergadering over tot:
 
 c. De Bank stelt haar leden in kennis van de datum waarop zij haar werkzaamheden begint.
 
-#### Artikel 55. Registratie
+##### Artikel 55. Registratie
 
 De Depositaris registreert dit Verdrag bij het Secretariaat van de Verenigde Naties in overeenstemming met artikel 102 van het Handvest der Verenigde Naties en de daarin door de Algemene Vergadering aangenomen bepalingen.
 
-#### Artikel 1. Inschrijving
+##### Artikel 1. Inschrijving
 
 | **Lid** | **Totaal aantal aandelen** | **Volgestort deel (in Speciale Trekkings–rechten)** | **Niet-volgestort deel (in Speciale Trekkings–rechten)** |
 | --- | --- | --- | --- |
@@ -598,7 +620,7 @@ De Depositaris registreert dit Verdrag bij het Secretariaat van de Verenigde Nat
 | **Palestijnse Raad** | 1.335.480 | 33.387.000 | 100.161.000 |
 | **Tunesië** | 667.740 | 16.693.500 | 50.080.500 |
 
-#### Artikel 2. Betaling
+##### Artikel 2. Betaling
 
 a. Alle betalingsverplichtingen van leden ten aanzien van het oorspronkelijke aandelenkapitaal worden vereffend op basis van de gemiddelde waarde van de Speciale Trekkingsrechten in een vrij te gebruiken valuta of in ECU over het tijdvak van 1 augustus 1995 tot en met 31 oktober 1995.
 
@@ -612,39 +634,39 @@ e. Betalingen van inschrijvingen in contanten worden gedaan in een vrij te gebru
 
 f. De aansprakelijkheid uit hoofde van het aandelenbezit is beperkt tot het niet-betaalde gedeelte van de prijs van uitgifte.
 
-#### Artikel 1
+##### Artikel 1
 
 Alvorens over te gaan tot arbitrage zullen partijen bij een geschil dat binnen de strekking van deze Bijlage valt, trachten het geschil door middel van onderhandelingen te regelen. Aan het overleg komt een einde indien de partijen niet tot overeenstemming komen binnen een termijn van honderdtwintig dagen vanaf de datum van het verzoek om in onderhandeling te treden.
 
-#### Artikel 2
+##### Artikel 2
 
 Arbitrage wordt ingesteld door middel van een kennisgeving door de partij die arbitrage verlangt (de eiser) gericht aan de andere partij of partijen bij het geschil (de verweerder). In de kennisgeving moet de aard van het geschil worden aangegeven, alsmede de voorgestelde oplossing en de naam van de scheidsrechter die door de eiser wordt aangewezen. De verweerder stelt de eiser binnen dertig dagen na de datum van ontvangst van de kennisgeving in kennis van de naam van de door hem aangewezen scheidsrechter. De twee partijen wijzen binnen een termijn van dertig dagen na de aanwijzing van de tweede scheidsrechter een derde scheidsrechter aan, die zal optreden als President van het Arbitragetribunaal (het Tribunaal).
 
-#### Artikel 3
+##### Artikel 3
 
 Indien het Tribunaal niet is samengesteld binnen een termijn van zestig dagen na de datum van de kennisgeving, wordt de nog niet aangewezen scheidsrechter of de nog niet gekozen President van het Tribunaal aangewezen door de President van het Internationale Gerechtshof of door een andere autoriteit die daartoe uit hoofde van een voorschrift dat door de Bank is aangenomen, bevoegd is verklaard.
 
-#### Artikel 4
+##### Artikel 4
 
 Geen der partijen is bevoegd de door haar aangewezen scheidsrechter te vervangen nadat met de behandeling van het geschil is begonnen. Ingeval een scheidsrechter (met inbegrip van de President van het Tribunaal) zich terugtrekt, overlijdt of onbekwaam wordt, wordt een opvolger aangewezen volgens de procedure die werd gevolgd voor zijn of haar voorganger, en deze opvolger heeft dezelfde bevoegdheden en verplichtingen als de scheidsrechter die hij of zij opvolgt.
 
-#### Artikel 5
+##### Artikel 5
 
 Het Tribunaal komt voor het eerst bijeen op de tijd en plaats zoals bepaald door de President van het Tribunaal. Daarna bepaalt het Tribunaal de tijd en plaats van zijn bijeenkomsten.
 
-#### Artikel 6
+##### Artikel 6
 
 Tenzij in deze Bijlage of door partijen anders is c.q. wordt bepaald, stelt het Tribunaal zijn eigen procedure vast.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Tribunaal oordeelt zelf ten aanzien van zijn eigen competentie, met dien verstande dat, indien bij het Tribunaal het bezwaar is gemaakt dat het geschil binnen de rechtsbevoegdheid valt van de Raad van Bewind of de Raad van Gouverneurs uit hoofde van artikel 42 van dit Verdrag en het Tribunaal oordeelt dat dit bezwaar gegrond is, het bezwaar door het Tribunaal, naar gelang het geval, zal worden voorgelegd aan de Raad van Bewind of de Raad van Gouverneurs, en de arbitrage wordt opgeschort totdat ter zake een beslissing is bereikt; deze beslissing is bindend voor het Tribunaal.
 
-#### Artikel 8
+##### Artikel 8
 
 Bij elk geschil waarop deze Bijlage van toepassing is, past het Tribunaal de bepalingen van dit Verdrag, de voorschriften en regels van de Bank en de toepasselijke regels van het internationale recht toe.
 
-#### Artikel 9
+##### Artikel 9
 
 De Bank kent aan alle partijen een eerlijke hoorzitting toe. Alle beslissingen van het Tribunaal worden genomen bij meerderheid en bevatten de gronden waarop zij berusten. De uitspraak van het Tribunaal geschiedt schriftelijk en wordt ondertekend door ten minste twee scheidsrechters, en een afschrift van de uitspraak wordt gericht aan elk der partijen. De uitspraak is definitief en bindend voor elk der partijen; de uitspraak is niet vatbaar voor beroep, vernietiging of herziening.
 

@@ -1,13 +1,37 @@
 ---
 title: "Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1999"
 identifier: "BWBR0010103"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1998-12-21
-laatste_update: 1998-12-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010103"
+country: "nl"
+rank: "circulaire"
+publication_date: "1998-12-21"
+last_updated: "1998-12-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010103"
+soort: "circulaire"
+stam_id: "6358613"
+version_id: "11016752"
+internal_id: "C14911081"
+label_id: "6348044"
+original_entry_into_force: "1998-12-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010103/1998-12-21/0"
+intitule_bron: "Stcrt.1998-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-12-15"
+intitule_published: "1998-12-21"
+intitule_in_force: "1998-12-21"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-244"
+original_signed_date: "1998-12-15"
+original_published_date: "1998-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-244-p21-SC16845"
+entry_into_force_date: "1998-12-21"
+jci_1_3: "jci1.3:c:BWBR0010103&z=1998-12-21&g=1998-12-21"
+jci_1_0: "1.0:c:BWBR0010103&g=1998-12-21"
+citeertitel_status: "redactioneel"
+signed_date: "1998-12-15"
+entry_into_force: "1998-12-21"
 ---
-
 # Wijziging financiële arbeidsvoorwaarden sector Rijk per 1 januari 1999
 
 Circulaire aan de ministers

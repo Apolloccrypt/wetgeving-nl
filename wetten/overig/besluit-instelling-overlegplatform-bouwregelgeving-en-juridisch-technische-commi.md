@@ -1,18 +1,44 @@
 ---
-title: "Besluit instelling Overlegplatform Bouwregelgeving en Juridisch-technische commissie"
+title: "Besluit van de Minister voor Wonen en Rijksdienst van 25 november 2014 met kenmerk 2014-0000627803, houdende instelling van het Overlegplatform Bouwregelgeving en de Juridisch-technische commissie"
 identifier: "BWBR0035847"
-categorie: "Overig"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035847"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035847"
+soort: "ministeriele-regeling"
+stam_id: "12864733"
+version_id: "21856582"
+internal_id: "C31370451"
+label_id: "12834234"
+dtd_version: "2.0"
+original_entry_into_force: "2014-12-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035847/2024-01-01/0"
+intitule_bron: "Stcrt.2014-34263"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-25"
+intitule_published: "2014-12-03"
+intitule_in_force: "2014-12-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-34263"
+original_signed_date: "2014-11-25"
+original_published_date: "2014-12-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-34263"
+entry_into_force_date: "2014-12-05"
+jci_1_3: "jci1.3:c:BWBR0035847&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0035847&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit instelling Overlegplatform Bouwregelgeving en Juridisch-technische commissie"
+signed_date: "2014-11-25"
+entry_into_force: "2014-12-05"
 ---
-
 # Besluit van de Minister voor Wonen en Rijksdienst van 25 november 2014 met kenmerk 2014-0000627803, houdende instelling van het Overlegplatform Bouwregelgeving en de Juridisch-technische commissie
 
 Besluit:
 
-#### Artikel 1. Overlegplatform Bouwregelgeving
+##### Artikel 1. Overlegplatform Bouwregelgeving
 
 1. Er is een Overlegplatform Bouwregelgeving, hierna te noemen: overlegplatform, dat ten doel heeft:
 
@@ -26,7 +52,7 @@ Besluit:
 
 2. Het overlegplatform komt drie- of viermaal per jaar bijeen. Een overleg mondt uit in een advies aan de Minister voor Wonen en Rijksdienst en zo nodig van de voor aanverwante regelgeving verantwoordelijke bewindspersoon, over vraagstukken op het terrein van de bouwregelgeving en de overige kwaliteitsaspecten van bouwwerken in het algemeen en alle wijzigingen van de regelgeving op dit terrein in het bijzonder.
 
-#### Artikel 2. Samenstelling overlegplatform
+##### Artikel 2. Samenstelling overlegplatform
 
 1. Het overlegplatform bestaat uit een onafhankelijke technisch voorzitter en vertegenwoordigers op bestuurlijk niveau van belangenorganisaties van ontwerpende, uitvoerende en toeleverende bouw alsmede belangenorganisaties van beheerders en gebruikers van bouwwerken en organisaties van toezichthouders of andere deskundigen.
 
@@ -36,7 +62,7 @@ Besluit:
 
 4. In het secretariaat van het overlegplatform wordt voorzien door het Directoraat-Generaal Wonen en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 3. Deelnemers overlegplatform
+##### Artikel 3. Deelnemers overlegplatform
 
 1. In het overlegplatform zijn in elk geval vertegenwoordigd:
 
@@ -122,7 +148,7 @@ Besluit:
 
 3. Tot het overlegplatform kunnen vertegenwoordigers van andere dan de in het eerste en tweede lid genoemde organisaties en instanties worden toegelaten. Een daartoe strekkend verzoek wordt gericht aan de Directeur-Generaal Wonen en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties en alvorens te beslissen, hoort deze de voorzitter van het overlegplatform.
 
-#### Artikel 4. Juridisch-technische commissie
+##### Artikel 4. Juridisch-technische commissie
 
 1. Er is een Juridisch-technische commissie die ten doel heeft de nadere invulling van juridisch-technische zaken, verband houdend met de in [artikel 1, eerste lid, onderdelen b, c, en d](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=1&z=2024-01-01&g=2024-01-01), genoemde doelstellingen, inhoudelijk te beoordelen en hieromtrent aanbevelingen te doen aan de Directeur-Generaal Wonen en Bouwen van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
@@ -132,15 +158,15 @@ Besluit:
 
 4. In het secretariaat van de commissie wordt voorzien door het Directoraat-Generaal Wonen en Bouwen van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 5. Geheimhouding
+##### Artikel 5. Geheimhouding
 
 Een ieder die betrokken is bij de werkzaamheden van het overlegplatform, de daaronder ressorterende commissie, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035847&artikel=4&z=2024-01-01&g=2024-01-01), of de hieruit voortkomende ad hoc werkgroepen, en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding van die gegevens, behoudens voorzover enig wettelijk voorschrift hem tot mededeling verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot mededeling voortvloeit.
 
-#### Artikel 6. Intrekking eerder besluit
+##### Artikel 6. Intrekking eerder besluit
 
 Het [besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 23 juni 2003, nr. MJZ 2003057358, houdende instelling van het Overlegplatform Bouwregelgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0015262) (Stcrt. 2003, 126) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

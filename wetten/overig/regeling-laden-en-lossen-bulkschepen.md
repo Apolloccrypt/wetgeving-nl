@@ -1,13 +1,38 @@
 ---
-title: "Regeling laden en lossen bulkschepen"
+title: "Regeling, houdende regels ten aanzien van het veilig laden en lossen van bulkschepen (Regeling laden en lossen bulkschepen)"
 identifier: "BWBR0017716"
-categorie: "Overig"
-publicatiedatum: 2004-12-31
-laatste_update: 2004-12-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017716"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2004-12-31"
+last_updated: "2004-12-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017716"
+soort: "ministeriele-regeling"
+stam_id: "6509323"
+version_id: "11198702"
+internal_id: "C15368941"
+label_id: "6497964"
+original_entry_into_force: "2004-12-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017716/2004-12-31/0"
+intitule_bron: "Stcrt.2004-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-12-15"
+intitule_published: "2004-12-27"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-250"
+original_signed_date: "2004-12-15"
+original_published_date: "2004-12-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-250-p80-SC67968"
+entry_into_force_date: "2004-12-31"
+jci_1_3: "jci1.3:c:BWBR0017716&z=2004-12-31&g=2004-12-31"
+jci_1_0: "1.0:c:BWBR0017716&g=2004-12-31"
+citeertitel_status: "officieel"
+short_title: "Regeling laden en lossen bulkschepen"
+signed_date: "2004-12-15"
+entry_into_force: "2004-12-31"
 ---
-
 # Regeling, houdende regels ten aanzien van het veilig laden en lossen van bulkschepen (Regeling laden en lossen bulkschepen)
 
 Gelet op [richtlijn nr. 2001/96/EG](32001L0096) van het Europees Parlement en de Raad van de Europese Unie van 4 december 2001 tot vaststelling van geharmoniseerde voorschriften en procedures voor veilig laden en lossen van bulkschepen (PbEG 2002, L 13) en de [artikelen 3, tweede lid](onbekend), [4, eerste lid, onderdeel a, en tweede lid](onbekend), [5](onbekend), [7](onbekend), [8, eerste lid, onderdelen b en c, en tweede lid](onbekend), [9, eerste en vierde lid](onbekend), en [11, tweede lid, van de Wet laden en lossen zeeschepen](onbekend);
@@ -18,7 +43,7 @@ Treedt in werking op het tijdstip dat de Wet laden en lossen zeeschepen in werki
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +57,11 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Nadere invulling verplichtingen terminalexploitant
 
-#### Artikel 2
+##### Artikel 2
 
 De door de terminalexploitant ter voldoening aan [artikel 3, eerste lid, van de wet](onbekend) te controleren aspecten van een bulkschip zijn de aspecten, genoemd in bijlage I van de richtlijn.
 
-#### Artikel 3
+##### Artikel 3
 
 De factoren waarmee de terminalexploitant op grond van [artikel 4, eerste lid, onderdeel a, van de wet](onbekend) bij de toelating van bulkschepen in de terminal rekening moet houden, zijn:
 
@@ -52,7 +77,7 @@ De factoren waarmee de terminalexploitant op grond van [artikel 4, eerste lid, o
 
 - f. mogelijke belemmeringen voor het laden of lossen.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de handleidingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](onbekend) op te nemen informatie omvat:
 
@@ -62,7 +87,7 @@ De in de handleidingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van de w
 
 - c. de informatie over de haven en de terminal, bedoeld in aanhangsel 1, punt 1.2, van de BLU-Code.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Als norm, bedoeld in [artikel 5, eerste lid, van de wet](onbekend) wordt aangewezen de ISO 9001:2000 norm.
 
@@ -72,13 +97,13 @@ De in de handleidingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van de w
 
 #### § 3. Nadere invulling verplichtingen kapitein en terminalvertegenwoordiger
 
-#### Artikel 6
+##### Artikel 6
 
 1. De door de kapitein te verstrekken informatie, bedoeld in [artikel 7, eerste lid, van de wet](onbekend) omvat de gegevens, bedoeld in bijlage III van de richtlijn.
 
 2. De door de terminalvertegenwoordiger te verstrekken informatie, bedoeld in [artikel 7, tweede lid, van de wet](onbekend), omvat de gegevens, bedoeld in bijlage V van de richtlijn.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De door de kapitein op grond van [artikel 8, eerste lid, onderdeel b, van de wet](onbekend) te verrichten taken zijn de taken, die voortvloeien uit de verplichtingen, genoemd in bijlage IV van de richtlijn.
 
@@ -88,7 +113,7 @@ De in de handleidingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van de w
 
 #### § 4. Laad- of losplan en schriftelijke verklaring
 
-#### Artikel 8
+##### Artikel 8
 
 1. De controlelijst waarvan het laad- of losplan vergezeld gaat op grond van [artikel 9, eerste lid, van de wet](onbekend) is de controlelijst inzake veiligheid aan boord en aan de wal, bedoeld in aanhangsel 4 van de BLU-Code.
 
@@ -104,17 +129,17 @@ De in de handleidingen, bedoeld in [artikel 4, eerste lid, onderdeel b, van de w
 
 #### § 5. Slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een wijziging van de richtlijn gaat voor de toepassing van deze regeling gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 2. De BLU-Code ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet laden en lossen zeeschepen](onbekend) in werking treedt.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling wordt aangehaald als: Regeling laden en lossen bulkschepen.
 

@@ -1,24 +1,50 @@
 ---
-title: "Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 november 2025, nr. 2025-0000650840, houdende regels voor de subsidiëring van beroeps- en belangenverenigingen voor het decentraal bestuur (Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030) [KetenID WGK027546]"
 identifier: "BWBR0051971"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051971"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051971"
+soort: "ministeriele-regeling"
+stam_id: "17680513"
+version_id: "31201072"
+internal_id: "C44632671"
+label_id: "17579944"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051971/2026-01-01/0"
+intitule_bron: "Stcrt.2025-40204"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-28"
+intitule_published: "2025-12-15"
+intitule_in_force: "2025-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-40204"
+original_signed_date: "2025-11-28"
+original_published_date: "2025-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-40204"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051971&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051971&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030"
+signed_date: "2025-11-28"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 28 november 2025, nr. 2025-0000650840, houdende regels voor de subsidiëring van beroeps- en belangenverenigingen voor het decentraal bestuur (Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030) [KetenID WGK027546]
 
 Gelet op de [artikelen 2, eerste lid, onder a en b](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=2), [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=3), en [4, eerste lid, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4) en [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [artikel 11, tweede en van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11);
 
 Besluit:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 - **Minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2
+##### Artikel 2
 
 De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051971&artikel=3&z=2026-01-01&g=2026-01-01), subsidie verstrekken aan:
 
@@ -36,7 +62,7 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 - g. De Wethoudersvereniging.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De Minister kan aan een vereniging als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051971&artikel=2&z=2026-01-01&g=2026-01-01), een eenmalige subsidie verstrekken voor kosten die direct samenhangen met de voorbereiding en ontwikkeling van de activiteiten, bedoeld in het tweede lid.
 
@@ -60,7 +86,7 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 #### Het subsidieplafond
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het subsidieplafond voor de voorbereiding en ontwikkeling als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051971&artikel=3&z=2026-01-01&g=2026-01-01), en voor de uitvoering van de activiteiten, bedoeld in artikel 3, tweede lid, bedraagt tot 1 januari 2031 in totaal € 18.772.000.
 
@@ -89,7 +115,7 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 #### De subsidieverlening
 
-#### Artikel 5
+##### Artikel 5
 
 1. De aanvraag tot subsidieverlening voor de ontwikkeling van het ondersteunings- en opleidingsaanbod als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051971&artikel=3&z=2026-01-01&g=2026-01-01), wordt ingediend op uiterlijk 1 november voorafgaand aan het kalenderjaar waarop de subsidie betrekking heeft.
 
@@ -97,7 +123,7 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 #### Voorschotverlening
 
-#### Artikel 6
+##### Artikel 6
 
 1. De Minister verstrekt een voorschot per boekjaar. Een boekjaar is gelijk aan een kalenderjaar.
 
@@ -107,7 +133,7 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 #### Egalisatiereserve
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vereniging kan een egalisatiereserve vormen als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:72).
 
@@ -119,17 +145,17 @@ De Minister kan voor de activiteiten, bedoeld in [artikel 3](https://wetten.over
 
 #### Subsidievaststelling
 
-#### Artikel 8
+##### Artikel 8
 
 1. De vereniging dient de aanvraag tot subsidievaststelling uiterlijk in op 1 juli na afloop van het laatste boekjaar waarop de subsidieverlening betrekking heeft.
 
 2. Het verschil tussen het verleende bedrag en het bedrag zoals dat is vastgesteld, wordt binnen zes weken na vaststelling van de subsidie verstrekt of teruggevorderd.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 januari 2026 en vervalt met ingang van 1 januari 2031 met dien verstande dat de regeling van toepassing blijft op de verantwoording en vaststelling van de subsidie.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Subsidieregeling beroeps- en belangenverenigingen decentraal bestuur 2026–2030.
 

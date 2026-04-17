@@ -1,13 +1,36 @@
 ---
 title: "Overeenkomst inzake bestuurlijke samenwerking tussen de ministers van Onderwijs, Cultuur en Wetenschappen en Landbouw, Natuurbeheer en Visserij en de Stichting Waarborgfonds HBO"
 identifier: "BWBR0011744"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-04-04
-laatste_update: 2001-04-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011744"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2001-04-04"
+last_updated: "2001-04-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011744"
+soort: "beleidsregel"
+stam_id: "6437223"
+version_id: "11106792"
+internal_id: "C15021341"
+label_id: "6425944"
+original_entry_into_force: "2001-04-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011744/2001-04-04/0"
+intitule_bron: "Uitleg.2001-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-11-01"
+intitule_published: "2001-04-04"
+intitule_in_force: "2001-04-04"
+intitule_status: "goed"
+original_publication: "Uitleg.2001-10"
+original_signed_date: "2000-11-01"
+original_published_date: "2001-04-04"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2001-04-04"
+jci_1_3: "jci1.3:c:BWBR0011744&z=2001-04-04&g=2001-04-04"
+jci_1_0: "1.0:c:BWBR0011744&g=2001-04-04"
+citeertitel_status: "redactioneel"
+signed_date: "2000-11-01"
+entry_into_force: "2001-04-04"
 ---
-
 # Overeenkomst inzake bestuurlijke samenwerking tussen de ministers van Onderwijs, Cultuur en Wetenschappen en Landbouw, Natuurbeheer en Visserij en de Stichting Waarborgfonds HBO
 
 Overwegende dat:
@@ -18,7 +41,7 @@ Overwegende dat:
 
 Verklaren te zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 Partijen zullen in hun onderling verkeer handelen overeenkomstig de volgende afspraken:
 
@@ -32,23 +55,23 @@ Partijen zullen in hun onderling verkeer handelen overeenkomstig de volgende afs
 
 - 5. Na ontvangst van de mededeling als bedoeld onder 4 zal de minister van Onderwijs, Cultuur en Wetenschappen, casu quo de minister van Landbouw, Natuurbeheer en Visserij nagaan of vanuit zijn verantwoordelijkheid voor het stelsel voor hoger beroepsonderwijs nadere actie gewenst is. Indien de betrokken minister actie onderneemt, zal hij het Waarborgfonds daarvan in kennis stellen.
 
-#### Artikel 2
+##### Artikel 2
 
 In geval van een situatie waarbij zich naar het oordeel van het Waarborgfonds een continuïteitsbedreigende ontwikkeling van een hogeschool voordoet waarin de afspraken als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011744&artikel=1&z=2001-04-04&g=2001-04-04) niet voorzien, zal de voorzitter van het Waarborgfonds onmiddellijk contact opnemen met de minister van Onderwijs, Cultuur en Wetenschappen casu quo met de minister van Landbouw, Natuurbeheer en Visserij.
 
-#### Artikel 3
+##### Artikel 3
 
 Het Waarborgfonds zal terstond ook het instellingsbestuur van een hogeschool informeren over de aard en de inhoud van informatie die door het bestuur aan de minister over de betrokken hogeschool wordt verstrekt.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze overeenkomst is niet in rechte afdwingbaar.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze overeenkomst treedt in werking met ingang van de datum van dagtekening in deze overeenkomst en eindigt op het tijdstip waarop de Stichting Waarborgfonds HBO wordt ontbonden, dan wel een wijziging van haar wettelijke taakopdracht in werking treedt.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze overeenkomst wordt bekend gemaakt in Uitleg OCenW-Regelingen.
 

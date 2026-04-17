@@ -1,13 +1,39 @@
 ---
-title: "Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten"
+title: "Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 december 2005, nr. VI/CM 2005199604, tot herziening van samenstelling, taken en bevoegdheden van de Eenheid Planning en Advies Beleidsondersteunend Team milieu-incidenten"
 identifier: "BWBR0019180"
-categorie: "Milieu"
-publicatiedatum: 2005-12-17
-laatste_update: 2005-12-17
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019180"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-12-17"
+last_updated: "2005-12-17"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019180"
+soort: "ministeriele-regeling"
+stam_id: "7701033"
+version_id: "12581192"
+internal_id: "C16901771"
+label_id: "7688944"
+dtd_version: "2.0"
+original_entry_into_force: "2005-12-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019180/2005-12-17/0"
+intitule_bron: "Stcrt.2005-244"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-12-07"
+intitule_published: "2005-12-15"
+intitule_in_force: "2005-12-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-244"
+original_signed_date: "2005-12-07"
+original_published_date: "2005-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-244-p24-SC72306"
+entry_into_force_date: "2005-12-17"
+jci_1_3: "jci1.3:c:BWBR0019180&z=2005-12-17&g=2005-12-17"
+jci_1_0: "1.0:c:BWBR0019180&g=2005-12-17"
+citeertitel_status: "officieel"
+short_title: "Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten"
+signed_date: "2005-12-07"
+entry_into_force: "2005-12-17"
 ---
-
 # Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 7 december 2005, nr. VI/CM 2005199604, tot herziening van samenstelling, taken en bevoegdheden van de Eenheid Planning en Advies Beleidsondersteunend Team milieu-incidenten
 
 Handelend in overeenstemming met de Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat en van Volksgezondheid, Welzijn en Sport;
@@ -16,7 +42,7 @@ Besluit:
 
 #### Paragraaf 1. Begripsbepalingen
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 2. De BOT-mi organisatie
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 1. Er is een Eenheid Planning en Advies voor milieu-ongevallen, verder aan te duiden als Beleidsondersteunend Team milieu-incidenten (BOT-mi).
 
@@ -66,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Paragraaf 3. De koude BOT-mi organisatie
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 De koude BOT-mi-organisatie bestaat uit:
 
@@ -78,7 +104,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 - d. het Coördinatieteam.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. De interdepartementale Stuurgroep bestaat, inclusief de voorzitter, uit tenminste vier leden, die worden afgevaardigd vanuit de betrokken departementen.
 
@@ -94,7 +120,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 4. De Stuurgroep vergadert tenminste tweemaal per jaar en stelt haar eigen werkwijze vast.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 1. De Stafafdeling Crisismanagement is verantwoordelijk voor de ontwikkeling, de coördinatie en de instandhouding van het BOT-mi, maakt afspraken met de instanties, vertegenwoordigd door de deskundigen genoemd in [artikel 3.4](https://wetten.overheid.nl/jci1.3:c:BWBR0019180&paragraaf=3&artikel=3.4&z=2005-12-17&g=2005-12-17), over de voorbereiding van bestrijding en daadwerkelijke bestrijding van ongevallen en draagt zorg voor faciliterende ondersteuning.
 
@@ -106,7 +132,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 5. De secretaris is belast met de administratieve ondersteuning van het BOT-mi.
 
-#### Artikel 3.4
+##### Artikel 3.4
 
 1. De Expertgroep bestaat uit:
 
@@ -152,7 +178,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 5. De Expertgroep kan zich laten bijstaan door externe deskundigen en instanties, voor zover dat voor de vervulling van de taken van het BOT-mi noodzakelijk is.
 
-#### Artikel 3.5
+##### Artikel 3.5
 
 1. Het Coördinatieteam bestaat uit:
 
@@ -172,7 +198,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 4. Het Coördinatieteam kan zich laten bijstaan door externe deskundigen en instanties, voor zover dat voor de vervulling van de taken van het BOT-mi noodzakelijk is.
 
-#### Artikel 3.6
+##### Artikel 3.6
 
 1. Het BOT-mi brengt jaarlijks, na vaststelling door de Stuurgroep, een jaarplan en een jaarverslag uit over zijn werkzaamheden aan de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat en van Volksgezondheid, Welzijn en Sport.
 
@@ -180,7 +206,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 #### Paragraaf 4. De warme BOT-mi organisatie
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 1. De warme BOT-mi organisatie bestaat uit:
 
@@ -202,7 +228,7 @@ De koude BOT-mi-organisatie bestaat uit:
 
 3. In een geval als bedoeld in het tweede lid, staan de deskundigen, bedoeld in dat lid, onder a, door wie de teamleideer zich laat bijstaan, onder zijn gezag.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. De teamleider heeft tot taak:
 
@@ -212,41 +238,41 @@ De koude BOT-mi-organisatie bestaat uit:
 
 2. De teamleider kan zich laten bijstaan door externe deskundigen en instanties die geen deel uitmaken van het BOT-mi.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 De operationeel secretaris is belast met de algemene assistentie van de teamleider en de administratieve ondersteuning van de warme organisatie van het BOT-mi.
 
 #### Paragraaf 5. Informatie-uitwisseling en geheimhouding
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Het BOT-mi verschaft de Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Binnenlandse Zaken en Koninkrijksrelaties, van Defensie, van Landbouw, Natuur en Voedselkwaliteit, van Verkeer en Waterstaat en van Volksgezondheid, Welzijn en Sport, op verzoek of uit eigen beweging, de gegevens met betrekking tot het BOT-mi-advies die zij nodig hebben met het oog op de bestrijding of de beoordeling van een ongeval.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Een ieder die betrokken is bij de werkzaamheden van het BOT-mi en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
 #### Paragraaf 6. Financiën
 
-#### Artikel 6.1
+##### Artikel 6.1
 
 De beheerskosten van het BOT-mi komen ten laste van het Ministerie van VROM.
 
-#### Artikel 6.2
+##### Artikel 6.2
 
 De kosten van deelneming aan het BOT-mi door een departement of door een onder een departement ressorterend deskundigeninstituut komen voor rekening van het betrokken departement.
 
 #### Paragraaf 7. Slotbepalingen
 
-#### Artikel 7.1
+##### Artikel 7.1
 
 Het [Instellingsbesluit Beleidsondersteunend Team milieu-incidenten](https://wetten.overheid.nl/jci1.3:c:BWBR0013565) wordt ingetrokken.
 
-#### Artikel 7.2
+##### Artikel 7.2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel 7.3
+##### Artikel 7.3
 
 Dit besluit wordt aangehaald als: Besluit Eenheid Planning en Advies Beleids-ondersteunend Team milieu-incidenten.
 

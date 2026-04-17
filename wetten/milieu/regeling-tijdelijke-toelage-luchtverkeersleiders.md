@@ -1,13 +1,38 @@
 ---
 title: "Regeling Tijdelijke Toelage Luchtverkeersleiders"
 identifier: "BWBR0044076"
-categorie: "Milieu"
-publicatiedatum: 2020-09-12
-laatste_update: 2020-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044076"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-09-12"
+last_updated: "2020-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044076"
+soort: "ministeriele-regeling"
+stam_id: "15625173"
+version_id: "27013702"
+internal_id: "C38224131"
+label_id: "15565274"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044076/2020-09-12/0"
+intitule_bron: "Stcrt.2020-46907"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-08-27"
+intitule_published: "2020-09-11"
+intitule_in_force: "2020-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-46907"
+original_signed_date: "2020-08-27"
+original_published_date: "2020-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-46907"
+entry_into_force_date: "2020-09-12"
+jci_1_3: "jci1.3:c:BWBR0044076&z=2020-09-12&g=2020-09-12"
+jci_1_0: "1.0:c:BWBR0044076&g=2020-09-12"
+citeertitel_status: "officieel"
+signed_date: "2020-08-27"
+entry_into_force: "2020-09-12"
 ---
-
 # Regeling Tijdelijke Toelage Luchtverkeersleiders
 
 Gelet op:
@@ -18,7 +43,7 @@ Gelet op:
 
 Besluit:
 
-#### Artikel 1. Tijdelijke toelage luchtverkeersleiders
+##### Artikel 1. Tijdelijke toelage luchtverkeersleiders
 
 1. Een Tijdelijke toelage luchtverkeersleiders (TTLVL) ad € 1.000,– bruto per maand wordt toegekend aan luchtverkeerleiders van het Commando luchtstrijdkrachten behorende tot de vakgroep 13A4 Officieren Luchtverkeersleiding of 13A5 Burger Luchtverkeersbeveiliging die de initiële opleiding tot luchtverkeersleider succesvol hebben afgerond en
 
@@ -44,15 +69,15 @@ Besluit:
 
 6. De TTLVL maakt deel uit van de berekeningsgrondslag pensioenen als bedoeld in [artikel 23a, tweede lid onder b, tabel 3 onder f. van het Inkomstenbesluit militairen](https://wetten.overheid.nl/jci1.3:c:BWBR0007816&artikel=23a) (variabel pensioengevend).
 
-#### Artikel 2. Toelage naar evenredigheid
+##### Artikel 2. Toelage naar evenredigheid
 
 De TTLVL bedoeld in [artikel 1, eerste lid onder b, tweede lid onder b en derde lid onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0044076&artikel=1&z=2020-09-12&g=2020-09-12), wordt naar evenredigheid van de opgedragen omvang van de nevenarbeid toegekend.
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 maart 2019.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling Tijdelijke Toelage Luchtverkeersleiders.
 

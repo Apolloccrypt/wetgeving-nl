@@ -1,13 +1,36 @@
 ---
 title: "Financiële arbeidsvoorwaarden per 1 maart 2003"
 identifier: "BWBR0015072"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2003-06-11
-laatste_update: 2003-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015072"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-06-11"
+last_updated: "2003-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015072"
+soort: "beleidsregel"
+stam_id: "6477713"
+version_id: "11156652"
+internal_id: "C15077811"
+label_id: "6466694"
+original_entry_into_force: "2003-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015072/2003-06-11/0"
+intitule_bron: "Uitleg.2003-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-14"
+intitule_published: "2003-06-11"
+intitule_in_force: "2003-06-11"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-15"
+original_signed_date: "2003-05-14"
+original_published_date: "2003-06-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-06-11"
+jci_1_3: "jci1.3:c:BWBR0015072&z=2003-06-11&g=2003-06-11"
+jci_1_0: "1.0:c:BWBR0015072&g=2003-06-11"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-14"
+entry_into_force: "2003-06-11"
 ---
-
 # Financiële arbeidsvoorwaarden per 1 maart 2003
 
 ### Inleiding

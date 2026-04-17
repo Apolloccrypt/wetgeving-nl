@@ -1,13 +1,38 @@
 ---
 title: "Schenk- en erfbelasting. Overgangsrecht bedrijfsopvolgingsregeling bij Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling"
 identifier: "BWBR0050417"
-categorie: "Belastingrecht"
-publicatiedatum: 2024-11-16
-laatste_update: 2024-11-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050417"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-11-16"
+last_updated: "2024-11-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050417"
+soort: "beleidsregel"
+stam_id: "17270373"
+version_id: "30417712"
+internal_id: "C43621551"
+label_id: "17175744"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050417/2024-11-16/0"
+intitule_bron: "Stcrt.2024-36889"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-06"
+intitule_published: "2024-11-15"
+intitule_in_force: "2024-11-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36889"
+original_signed_date: "2024-11-06"
+original_published_date: "2024-11-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36889"
+entry_into_force_date: "2024-11-16"
+jci_1_3: "jci1.3:c:BWBR0050417&z=2024-11-16&g=2024-11-16"
+jci_1_0: "1.0:c:BWBR0050417&g=2024-11-16"
+citeertitel_status: "redactioneel"
+signed_date: "2024-11-06"
+entry_into_force: "2024-11-16"
 ---
-
 # Schenk- en erfbelasting. Overgangsrecht bedrijfsopvolgingsregeling bij Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling
 
 **De Minister van Financiën heeft het volgende besloten.**

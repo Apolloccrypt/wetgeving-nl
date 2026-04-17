@@ -1,13 +1,39 @@
 ---
-title: "Regeling aanwijzing ex artikel 7 van de Wet marktordening gezondheidszorg inzake efficiëntietaakstelling ambulancezorg"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 16 november 2010, nr. MC-U-3032852, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake efficiëntietaakstelling ambulancezorg"
 identifier: "BWBR0028999"
-categorie: "Sociaal recht"
-publicatiedatum: 2010-11-26
-laatste_update: 2010-11-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028999"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-11-26"
+last_updated: "2010-11-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028999"
+soort: "ministeriele-regeling"
+stam_id: "11085013"
+version_id: "18119392"
+internal_id: "C25194361"
+label_id: "11059324"
+dtd_version: "2.0"
+original_entry_into_force: "2010-11-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028999/2010-11-26/0"
+intitule_bron: "Stcrt.2010-18589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-11-16"
+intitule_published: "2010-11-26"
+intitule_in_force: "2010-11-26"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-18589"
+original_signed_date: "2010-11-16"
+original_published_date: "2010-11-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-18589"
+entry_into_force_date: "2010-11-26"
+jci_1_3: "jci1.3:c:BWBR0028999&z=2010-11-26&g=2010-11-26"
+jci_1_0: "1.0:c:BWBR0028999&g=2010-11-26"
+citeertitel_status: "redactioneel"
+short_title: "Regeling aanwijzing ex artikel 7 van de Wet marktordening gezondheidszorg inzake efficiëntietaakstelling ambulancezorg"
+signed_date: "2010-11-16"
+entry_into_force: "2010-11-26"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport, van 16 november 2010, nr. MC-U-3032852, op grond van artikel 7 van de Wet marktordening gezondheidszorg inzake efficiëntietaakstelling ambulancezorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -18,13 +44,13 @@ Gelet op het verslag van een schriftelijk overleg met de vaste commissie voor Vo
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze aanwijzing is van toepassing op ziekenvervoer per ambulance als omschreven bij en krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450), hierna te noemen: ambulancezorg.
 
 2. De Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, stelt ter uitvoering van deze aanwijzing waar nodig regels en beleidsregels vast.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor ambulancezorg wordt per 1 januari 2011 voor drie achtereenvolgende jaren een efficiëntietaakstelling opgelegd die bestaat uit:
 
@@ -34,7 +60,7 @@ Voor ambulancezorg wordt per 1 januari 2011 voor drie achtereenvolgende jaren ee
 
 - c. een ex ante korting op de budgetten - inclusief de middelen, bedoeld onder b- van cumulatief 0,5 procentpunt per jaar.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De zorgautoriteit hanteert bij de uitvoering van deze aanwijzing de volgende uitgangspunten:
 
@@ -46,7 +72,7 @@ Voor ambulancezorg wordt per 1 januari 2011 voor drie achtereenvolgende jaren ee
 
 2. De zorgautoriteit neemt bij de uitvoering van deze aanwijzing het Convenant met betrekking tot de implementatie van de [Wet ambulancezorg](https://wetten.overheid.nl/jci1.3:c:BWBR0025304) (Waz) tussen de Staat der Nederlanden en de Vereniging Ambulancezorg Nederland (AZN) van 11 maart 2010 in acht.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.
 

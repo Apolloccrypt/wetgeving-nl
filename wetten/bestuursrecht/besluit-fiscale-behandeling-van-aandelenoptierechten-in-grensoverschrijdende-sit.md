@@ -1,13 +1,38 @@
 ---
 title: "Besluit fiscale behandeling van aandelenoptierechten in grensoverschrijdende situaties"
 identifier: "BWBR0050524"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-12-07
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050524"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2024-12-07"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050524"
+soort: "beleidsregel"
+stam_id: "17297693"
+version_id: "30464832"
+internal_id: "C43679851"
+label_id: "17202024"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050524/2024-12-07/0"
+intitule_bron: "Stcrt.2024-38523"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-22"
+intitule_published: "2024-12-06"
+intitule_in_force: "2024-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38523"
+original_signed_date: "2024-11-22"
+original_published_date: "2024-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38523"
+entry_into_force_date: "2024-12-07"
+jci_1_3: "jci1.3:c:BWBR0050524&z=2024-12-07&g=2024-12-07"
+jci_1_0: "1.0:c:BWBR0050524&g=2024-12-07"
+citeertitel_status: "officieel"
+signed_date: "2024-11-22"
+entry_into_force: "2024-12-07"
 ---
-
 # Besluit fiscale behandeling van aandelenoptierechten in grensoverschrijdende situaties
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

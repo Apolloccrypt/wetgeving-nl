@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit informatie levensmiddelen"
+title: "Besluit van 3 april 2013, houdende regels inzake de verstrekking van voedselinformatie aan consumenten (Warenwetbesluit informatie levensmiddelen)"
 identifier: "BWBR0033323"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033323"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033323"
+soort: "AMvB"
+stam_id: "12229353"
+version_id: "29695622"
+internal_id: "C42547801"
+label_id: "12200994"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033323/2024-01-01/0"
+intitule_bron: "Stb.2013-146"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-04-03"
+intitule_published: "2013-04-25"
+intitule_in_force: "2013-04-25"
+intitule_status: "goed"
+original_publication: "Stb.2023-378"
+original_signed_date: "2023-10-24"
+original_published_date: "2023-10-30"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2023-378"
+entry_into_force_date: "2023-10-24"
+jci_1_3: "jci1.3:c:BWBR0033323&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0033323&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit informatie levensmiddelen"
+signed_date: "2023-10-24"
+entry_into_force: "2023-10-24"
 ---
-
 # Besluit van 3 april 2013, houdende regels inzake de verstrekking van voedselinformatie aan consumenten (Warenwetbesluit informatie levensmiddelen)
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 7 februari 2013, VGP/3153658, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -40,7 +66,7 @@ Gezien het nader rapport van Onze Minister van Volksgezondheid, Welzijn en Sport
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -74,7 +100,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **voorverpakking:** het verpakkingsmateriaal waarin een voorverpakt levensmiddel als bedoeld in artikel 2, tweede lid, onder e, van verordening (EU) 1169/2011, is verpakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te handelen in strijd met de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=3&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=7&z=2024-01-01&g=2024-01-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8&z=2024-01-01&g=2024-01-01) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=9&z=2024-01-01&g=2024-01-01).
 
@@ -90,11 +116,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 7. Het is verboden te handelen in strijd met de artikelen 35, eerste, tweede en derde lid, 37, tweede lid, 38, eerste lid, en 39, eerste, derde en vierde lid, van [verordening (EU) 1379/2013](32013R1379).
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de verplichte voedselinformatie en de vermeldingen op de etikettering, bedoeld in artikel 15, tweede lid, van verordening (EU) 1169/2011, wordt gebruik gemaakt van in ieder geval de Nederlandse taal.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een levensmiddel wordt slechts in de handel gebracht indien het vergezeld gaat van een vermelding die het mogelijk maakt de partij waartoe dat levensmiddel behoort te identificeren. Deze vermelding wordt voorafgegaan door de letter «L», behalve in het geval waarin zij duidelijk van de overige vermeldingen op het etiket te onderscheiden is.
 
@@ -118,7 +144,7 @@ Voor de verplichte voedselinformatie en de vermeldingen op de etikettering, bedo
 
 van het betrokken levensmiddel.
 
-#### Artikel 5
+##### Artikel 5
 
 [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=4&z=2024-01-01&g=2024-01-01) is niet van toepassing:
 
@@ -136,7 +162,7 @@ van het betrokken levensmiddel.
 
 - d. op verpakkingen of recipiënten van levensmiddelen waarvan de grootste zijde een oppervlakte heeft van minder dan 10 cm2.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De vermelding «doorstraald» of «behandeld met ioniserende straling», genoemd in bijlage VI, deel A, onderdeel 3, van verordening (EU) 1169/2011 wordt aangebracht:
 
@@ -152,7 +178,7 @@ van het betrokken levensmiddel.
 
 3. In alle gevallen wordt de doorstraling vermeld in de documenten die de doorstraalde levensmiddelen vergezellen of daarop betrekking hebben.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Bij verpakte levensmiddelen zijn de volgende vermeldingen verplicht:
 
@@ -166,7 +192,7 @@ van het betrokken levensmiddel.
 
 - b. op het handelsdocument dat het desbetreffende levensmiddel vergezelt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Bij onverpakte levensmiddelen is vermelding van de benaming, bedoeld in artikel 9, eerste lid, onder a, van verordening (EU) 1169/2011, verplicht.
 
@@ -180,7 +206,7 @@ van het betrokken levensmiddel.
 
 - b. wordt in de onmiddellijke omgeving van het levensmiddel op een andere duidelijke wijze ter kennis van het publiek gebracht.
 
-#### Artikel 9
+##### Artikel 9
 
 In afwijking van de artikelen 9, eerste lid, en 10, eerste lid, van verordening (EU) 1169/2011, behoeven op glazen flessen die bestemd zijn om opnieuw te worden gebruikt en waarin melk of melkproducten zijn verpakt, slechts te worden vermeld:
 
@@ -188,7 +214,7 @@ In afwijking van de artikelen 9, eerste lid, en 10, eerste lid, van verordening 
 
 - b. de naam of handelsnaam en het adres van de exploitant van het desbetreffende levensmiddelenbedrijf, bedoeld in artikel 9, eerste lid, onder h, van verordening (EU) 1169/2011.
 
-#### Artikel 10
+##### Artikel 10
 
 Bij regeling van Onze Minister kunnen worden vastgesteld:
 
@@ -212,7 +238,7 @@ Bij regeling van Onze Minister kunnen worden vastgesteld:
 
 - f. maatregelen als bedoeld in bijlage VI, deel B, punt 3, van verordening (EU) 1169/2011, inzake het alleen in Nederland in de handel brengen van gehakt vlees dat niet voldoet aan de in bijlage VI, deel B, punt 1, van verordening (EU) 1169/2011, vastgestelde criteria.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onverminderd [verordening (EG) 1924/2006](32006R1924) mag bij de verhandeling van een levensmiddel een bij ministeriële regeling aangewezen voedselkeuzelogo worden gebezigd.
 
@@ -226,11 +252,11 @@ Bij regeling van Onze Minister kunnen worden vastgesteld:
 
 3. Bij ministeriële regeling kunnen regels voor het gebruik van een voedselkeuzelogo worden vastgesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Onze Minister is de bevoegde autoriteit, bedoeld in:
 
@@ -238,7 +264,7 @@ Onze Minister is de bevoegde autoriteit, bedoeld in:
 
 - b. artikel 43, eerste lid, van [verordening (EU) 2019/787](32687R2019).
 
-#### Artikel 14
+##### Artikel 14
 
 1. Bij regeling van Onze Minister kunnen nadere regels worden vastgesteld:
 
@@ -250,71 +276,71 @@ Onze Minister is de bevoegde autoriteit, bedoeld in:
 
 2. Bij ministeriële regeling wordt de lijst van handelsbenamingen, bedoeld in artikel 37, eerste lid, van [verordening (EU) 1379/2013](32013R1379), vastgesteld.
 
-#### Artikel 15
+##### Artikel 15
 
 Wijzigt het Besluit prijsaanduiding producten.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Glasartikelenbesluit (Warenwet).
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt het Warenwetbesluit Bereiding en behandeling van levensmiddelen.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Warenwetbesluit bestuurlijke boeten.
 
-#### Artikel 19
+##### Artikel 19
 
 Wijzigt het Warenwetbesluit Cacao en chocolade.
 
-#### Artikel 20
+##### Artikel 20
 
 Wijzigt het Warenwetbesluit Doorstraalde waren.
 
-#### Artikel 21
+##### Artikel 21
 
 Wijzigt het Warenwetbesluit Kruidenpreparaten.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt het Warenwetbesluit honing.
 
-#### Artikel 23
+##### Artikel 23
 
 Wijzigt het Warenwetbesluit Meel en brood.
 
-#### Artikel 24
+##### Artikel 24
 
 Wijzigt het Warenwetbesluit Producten voor bijzondere voeding.
 
-#### Artikel 25
+##### Artikel 25
 
 Wijzigt het Warenwetbesluit suikers.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt het Warenwetbesluit Verduurzaamde vruchtenproducten 2002.
 
-#### Artikel 27
+##### Artikel 27
 
 Wijzigt het Warenwetbesluit Verpakte waters.
 
-#### Artikel 28
+##### Artikel 28
 
 Wijzigt het Warenwetbesluit Vlees, gehakt en vleesproducten.
 
-#### Artikel 29
+##### Artikel 29
 
 Wijzigt het Warenwetbesluit voedingssupplementen.
 
-#### Artikel 30
+##### Artikel 30
 
 Wijzigt het Warenwetbesluit Zuivel.
 
-#### Artikel 31
+##### Artikel 31
 
 De volgende besluiten worden ingetrokken:
 
@@ -322,7 +348,7 @@ De volgende besluiten worden ingetrokken:
 
 - b. het [Warenwetbesluit Voedingswaarde-informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0006135).
 
-#### Artikel 32
+##### Artikel 32
 
 1. Dit besluit treedt in werking met ingang van 13 december 2014.
 
@@ -332,13 +358,13 @@ De volgende besluiten worden ingetrokken:
 
 - b. in werking met ingang van 13 december 2016, voor zover die artikelen betrekkingen hebben op artikel 9, eerste lid, onder l, van verordening (EU) 1169/2011.
 
-#### Artikel 33
+##### Artikel 33
 
 Dit besluit wordt aangehaald als: Warenwetbesluit informatie levensmiddelen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 9a
+##### Artikel 9a
 
 Kleine hoeveelheden rechtstreeks vanaf vissersvaartuigen aan de consumenten verkochte producten hoeven niet te voldoen aan de eisen gesteld in artikel 35, eerste lid, van [verordening (EU) 1379/2013](32013R1379), mits die hoeveelheden niet hoger zijn dan de waarde, bedoeld in artikel 58, achtste lid, van [verordening (EG) 1224/2009](32009R1224).
 

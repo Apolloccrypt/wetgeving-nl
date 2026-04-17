@@ -1,16 +1,41 @@
 ---
 title: "Stuwadoorswet 1946 BES"
 identifier: "BWBR0028169"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028169"
+country: "nl"
+rank: "wet_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028169"
+soort: "wet-BES"
+stam_id: "10687163"
+version_id: "17648032"
+internal_id: "C24839411"
+label_id: "10661774"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028169/2010-10-10/0"
+intitule_bron: "Stb.2010-589"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-08-31"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-589"
+original_signed_date: "2010-08-31"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-589"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028169&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028169&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-08-31"
+entry_into_force: "2010-10-10"
 ---
-
 # Stuwadoorswet 1946 BES
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor de toepassing van deze wet en van de naar aanleiding daarvan uitgevaardigde besluiten wordt verstaan onder:
 
@@ -30,7 +55,7 @@ bron: "https://wetten.overheid.nl/BWBR0028169"
 
 2. Onder goederen worden voor de toepassing van deze wet en de daarop berustende bepalingen mede begrepen de brandstof voor de voortbeweging van het zeeschip, het water en de ballast, doch worden overigens voor zoover een en ander zonder behulp van krachtwerktuigen wordt behandeld, niet begrepen hetgeen dient tot uitrusting van het schip, de bagage van de reizigers en van de bemanning, zoomede het proviand.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven, welke gelden voor stuwadoorsbedrijven, ten aanzien van:
 
@@ -60,7 +85,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid wijst de ambtenaren aan, die 
 
 3. Iedere havenarbeider, die arbeid verricht, waarop een voorschrift, gegeven bij of krachtens een in het eerste lid bedoelde algemene maatregel van bestuur, betrekking heeft, is in de gevallen, bij of krachtens algemene maatregel van bestuur bepaald, verplicht, voor zoover hij redelijkerwijze kan worden geacht met dat voorschrift bekend te zijn, bij of terzake van den arbeid, dien hij verricht, dat voorschrift na te leven en de op grond van dat voorschrift aanwezige en voor hem bestemde beveiligingsmiddelen aan te wenden. De voormannen hebben toe te zien dat aan deze verplichting wordt voldaan.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De beslissing omtrent het wel of niet dan wel slechts gedeeltelijk voldaan hebben aan een voorschrift bij en krachtens deze wet gegeven, berust bij Onze Minister van Sociale Zaken en Werkgelegenheid of de daartoe door hem aangewezen ambtenaren, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2&z=2010-10-10&g=2010-10-10).
 
@@ -72,11 +97,11 @@ Onze Minister van Sociale Zaken en Werkgelegenheid wijst de ambtenaren aan, die 
 
 5. Een beschikking krachtens deze wet van de ambtenaar, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=2&z=2010-10-10&g=2010-10-10), wordt gegeven namens Onze Minister van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 4
+##### Artikel 4
 
 [vervallen]
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met hechtenis van ten hoogste zes maanden of geldboete van de eerste categorie wordt gestraft het Hoofd (de Hoofden) of de Bestuurder(s) van een stuwadoorsonderneming die een bij of krachtens deze wet gegeven voorschrift overtreedt. Geen strafvervolging wordt ingesteld en geen straf uitgesproken tegen het Hoofd (de Hoofden) of de Bestuurder(s), buiten wiens toedoen het feit is begaan.
 
@@ -86,7 +111,7 @@ Onze Minister van Sociale Zaken en Werkgelegenheid wijst de ambtenaren aan, die 
 
 4. De feiten, bij lid 1 en lid 3 van dit artikel strafbaar gesteld worden beschouwd als overtredingen, het feit bij lid 2 van dit artikel als misdrijf.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Met het opsporen der feiten, strafbaar gesteld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0028169&artikel=5&z=2010-10-10&g=2010-10-10), zijn, behalve de bij [artikel 8 van het Wetboek van Strafvordering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028681&artikel=8) aangewezen personen, belast de daartoe door Onze Minister van Justitie aan te wijzen ambtenaren.
 
@@ -96,10 +121,10 @@ Onze Minister van Sociale Zaken en Werkgelegenheid wijst de ambtenaren aan, die 
 
 ## Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet wordt aangehaald als: Stuwadoorswet 1946 BES.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze landsverordening treedt in werking op een nader door den Gouverneur te bepalen datum.

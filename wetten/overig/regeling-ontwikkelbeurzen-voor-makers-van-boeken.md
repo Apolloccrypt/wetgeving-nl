@@ -1,13 +1,35 @@
 ---
 title: "Regeling ontwikkelbeurzen voor makers van boeken"
 identifier: "BWBR0051458"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051458"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051458"
+soort: "zbo"
+stam_id: "17516913"
+version_id: "30908492"
+internal_id: "C44284701"
+label_id: "17419074"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051458/2026-01-01/0"
+intitule_bron: "Stcrt.2025-29424"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2025-09-09"
+intitule_in_force: "2025-09-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-29424"
+original_published_date: "2025-09-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-29424"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051458&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051458&g=2026-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2026-01-01"
 ---
-
 # Regeling ontwikkelbeurzen voor makers van boeken
 
 gelet op de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537),
@@ -20,7 +42,7 @@ besluit:
 
 de volgende Regeling ontwikkelbeurzen voor makers van boeken vast te stellen.
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -58,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - n. **website:** de website van het Letterenfonds, zijnde [www.letterenfonds.nl](http://www.letterenfonds.nl).
 
-#### Artikel 2. Subsidiabele activiteiten
+##### Artikel 2. Subsidiabele activiteiten
 
 1. Het Letterenfonds kan op grond van deze regeling ontwikkelbeurzen verstrekken voor startende en gevorderde literaire makers.
 
@@ -68,7 +90,7 @@ In deze regeling wordt verstaan onder:
 
 4. De ontwikkelbeurs wordt niet gebruikt voor kosten van voltijdse of deeltijdse hbo- of wo-schrijfopleiding, of kosten van wonen, levensonderhoud en huishoudelijke zaken, elektronische hulpmiddelen zoals smartphones en laptops en andersoortige materialen.
 
-#### Artikel 3. Vereisten aanvrager
+##### Artikel 3. Vereisten aanvrager
 
 1. De startende literaire maker heeft niet eerder een ontwikkelbeurs ontvangen en voldoet ten minste aan één van de volgende voorwaarden:
 
@@ -94,7 +116,7 @@ In deze regeling wordt verstaan onder:
 
 4. Als de gevorderde literaire maker eerder een ontwikkelbeurs heeft ontvangen, komt hij pas voor een volgende ontwikkelbeurs in aanmerking als aan hem sindsdien een projectsubsidie is toegekend en als de vorige met een ontwikkelbeurs gesubsidieerde activiteiten zijn uitgevoerd.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag voor subsidie wordt ingediend via de website met gebruikmaking van het op de website ter beschikking gestelde aanvraagformulier via 'Start je aanvraag’.
 
@@ -112,7 +134,7 @@ In deze regeling wordt verstaan onder:
 
 - e. indien van toepassing: een reflectie op hoe een eerder ontvangen ontwikkelbeurs heeft bijgedragen aan de eigen talentontwikkeling.
 
-#### Artikel 5. Beoordelingscriteria
+##### Artikel 5. Beoordelingscriteria
 
 1. Het bestuur beoordeelt de aanvragen op basis van de volgende criteria:
 
@@ -130,11 +152,11 @@ De kosten van de beoogde activiteiten en het doel van deze activiteiten staan in
 
 3. Aanvragen kunnen, na een afwijzend besluit op grond van de toets aan de beoordelingscriteria niet opnieuw worden ingediend.
 
-#### Artikel 6. Hoogte van de subsidie
+##### Artikel 6. Hoogte van de subsidie
 
 Het subsidiebedrag wordt bepaald op basis van de ingediende begroting en bedraagt minimaal € 500 en maximaal € 2.500.
 
-#### Artikel 7. Subsidierondes en subsidieplafond
+##### Artikel 7. Subsidierondes en subsidieplafond
 
 1. Het bestuur behandelt de aanvragen doorlopend op volgorde van indiening. In afwijking van [artikel 11, zesde lid, van het algemeen reglement Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0032735&artikel=11) geldt het moment waarop sprake is van een complete aanvraag, als moment van indiening.
 
@@ -142,7 +164,7 @@ Het subsidiebedrag wordt bepaald op basis van de ingediende begroting en bedraag
 
 3. Het bestuur wijst de aanvraag af voor zover door verstrekking van de subsidie het subsidieplafond wordt overschreden.
 
-#### Artikel 8. Verplichtingen subsidieontvanger
+##### Artikel 8. Verplichtingen subsidieontvanger
 
 1. De subsidieontvanger besteedt de subsidie aan de uitvoering van de activiteiten zoals beschreven in het ontwikkelplan.
 
@@ -154,17 +176,17 @@ Het subsidiebedrag wordt bepaald op basis van de ingediende begroting en bedraag
 
 5. Het bestuur kan in de beschikking tot subsidieverlening nadere verplichtingen opleggen.
 
-#### Artikel 9. Subsidieverlening en -vaststelling
+##### Artikel 9. Subsidieverlening en -vaststelling
 
 1. Bij het verlenen van de subsidie geeft het bestuur direct een beschikking tot subsidievaststelling.
 
 2. In de beschikking wordt de wijze van betaling van de subsidie bepaald.
 
-#### Artikel 10. Termijnen
+##### Artikel 10. Termijnen
 
 Het bestuur beslist binnen 8 weken na het moment waarop de aanvraag is ingediend.
 
-#### Artikel 11. Intrekkings- en wijzigingsgronden subsidievaststelling
+##### Artikel 11. Intrekkings- en wijzigingsgronden subsidievaststelling
 
 1. Het bestuur kan de subsidievaststelling intrekken of wijzigen als de subsidieontvanger niet heeft voldaan aan de subsidie verbonden verplichtingen.
 
@@ -178,17 +200,17 @@ Het bestuur beslist binnen 8 weken na het moment waarop de aanvraag is ingediend
 
 6. Het bedrag waarmee de subsidie eventueel wordt verlaagd, wordt verrekend met eventueel nog te betalen gedeelten van de subsidie of teruggevorderd.
 
-#### Artikel 12. Hardheidsclausule
+##### Artikel 12. Hardheidsclausule
 
 Het bestuur kan, gelet op het belang dat deze regeling beoogt te beschermen, een artikel van deze regeling buiten toepassing laten of daarvan afwijken voor zover strikte toepassing leidt tot een onbillijkheid van overwegende aard.
 
-#### Artikel 13. Inwerkingtreding
+##### Artikel 13. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2026.
 
 2. De [Regeling ontwikkelbeurs Nederlands Letterenfonds](https://wetten.overheid.nl/jci1.3:c:BWBR0042880) wordt ingetrokken.
 
-#### Artikel 14. Citeertitel
+##### Artikel 14. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling ontwikkelbeurzen voor makers van boeken.
 

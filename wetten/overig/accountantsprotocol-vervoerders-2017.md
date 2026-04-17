@@ -1,13 +1,38 @@
 ---
 title: "Accountantsprotocol vervoerders 2017"
 identifier: "BWBR0041411"
-categorie: "Overig"
-publicatiedatum: 2021-12-11
-laatste_update: 2021-12-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041411"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-12-11"
+last_updated: "2021-12-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041411"
+soort: "zbo"
+stam_id: "14825013"
+version_id: "25346602"
+internal_id: "C36193651"
+label_id: "14777284"
+dtd_version: "2.0"
+original_entry_into_force: "2018-10-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041411/2021-12-11/0"
+intitule_bron: "Stcrt.2018-55108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-09-21"
+intitule_published: "2018-10-01"
+intitule_in_force: "2018-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-55108"
+original_signed_date: "2018-09-21"
+original_published_date: "2018-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-55108"
+entry_into_force_date: "2018-10-02"
+jci_1_3: "jci1.3:c:BWBR0041411&z=2021-12-11&g=2021-12-11"
+jci_1_0: "1.0:c:BWBR0041411&g=2021-12-11"
+citeertitel_status: "officieel"
+signed_date: "2018-09-21"
+entry_into_force: "2018-10-02"
 ---
-
 # Accountantsprotocol vervoerders 2017
 
 **Beleidsregel met betrekking tot de verklaring, bedoeld in artikel 63c, negende lid, van de Wet personenvervoer 2000, van de accountant van vervoerders, bedoeld in artikel 63c, eerste en tweede lid, van de Wet personenvervoer 2000, die op grond van artikel 63a van de Wet Personenvervoer 2000 een concessie is verleend voor het verrichten van openbaar vervoer.**

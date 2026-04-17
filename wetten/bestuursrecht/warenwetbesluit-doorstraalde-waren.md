@@ -1,13 +1,37 @@
 ---
-title: "Warenwetbesluit Doorstraalde waren"
+title: "Besluit van 2 april 1992 houdende Warenwetbesluit Doorstraalde waren"
 identifier: "BWBR0005465"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-05-24
-laatste_update: 2016-05-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005465"
+country: "nl"
+rank: "amvb"
+publication_date: "2016-05-24"
+last_updated: "2016-05-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005465"
+soort: "AMvB"
+stam_id: "1439723"
+version_id: "2160662"
+internal_id: "C2160661"
+label_id: "1399144"
+dtd_version: "2.0"
+original_entry_into_force: "2000-09-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005465/2016-05-24/0"
+intitule_bron: "Stb.1992-205"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-02"
+intitule_status: "goed"
+original_publication: "Stb.1999-500"
+original_signed_date: "1999-10-29"
+original_published_date: "1999-12-02"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1999-500"
+entry_into_force_date: "2000-09-20"
+jci_1_3: "jci1.3:c:BWBR0005465&z=2016-05-24&g=2016-05-24"
+jci_1_0: "1.0:c:BWBR0005465&g=2016-05-24"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Doorstraalde waren"
+signed_date: "1999-10-29"
+entry_into_force: "2000-09-20"
 ---
-
 # Besluit van 2 april 1992 houdende Warenwetbesluit Doorstraalde waren
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 13 augustus 1991, VVP/L-691449, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -36,7 +60,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -50,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op eet- en drinkwaren en grondstoffen die zijn blootgesteld aan ioniserende straling die is opgewekt door meet- of controle-instrumenten, mits de geabsorbeerde dosis niet hoger is dan 0,01 Gy voor controle-instrumenten die gebruik maken van neutronen, en 0,5 Gy in andere gevallen, bij een energieniveau van ten hoogste 10 MeV in het geval van röntgenstraling, 14 MeV in het geval van neutronen en 5 MeV in andere gevallen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden eet- of drinkwaren en grondstoffen met ioniserende stralen te behandelen anders dan met inachtneming van de in dit besluit gestelde voorschriften.
 
@@ -62,7 +86,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 2. Installaties
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor de behandeling van waren met ioniserende stalen mag uitsluitend van de volgende bronnen gebruik worden gemaakt:
 
@@ -80,7 +104,7 @@ Hebben goedgevonden en verstaan:
 
 5. Aanvragen voor een erkenning als bedoeld in het tweede lid moeten worden ingediend bij Onze Minister. Deel van zodanige aanvraag moet in elk geval uitmaken een afschrift van de krachtens [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=29) of [34 van de Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402&artikel=34) verleende vergunning.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De overeenkomstig [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=2&artikel=3&z=2016-05-24&g=2016-05-24) erkende installatie houdt voor elke gebruikte ioniserende stralingsbron alsmede voor iedere partij behandelde eet- of drinkwaren of grondstoffen een register bij met de volgende gegevens:
 
@@ -106,7 +130,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 3. Voorwaarden voor behandeling met ioniserende stralen
 
-#### Artikel 5
+##### Artikel 5
 
 1. Eet- en drinkwaren en grondstoffen verkeren op het moment van behandelen met ioniserende stralen in een behoorlijke staat van hygiëne.
 
@@ -132,7 +156,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 4. Behandeling met ioniserende stralen van eet- en drinkwaren en grondstoffen
 
-#### Artikel 6
+##### Artikel 6
 
 1. Uitsluitend de volgende eet- of drinkwaren en grondstoffen mogen met ioniserende stralen worden of zijn behandeld. Zij mogen slechts worden behandeld met een geabsorbeerde stralingsdosis die gemiddeld niet meer mag bedragen dan de waarde zoals die voor de desbetreffende waar is aangegeven.
 
@@ -154,11 +178,11 @@ Hebben goedgevonden en verstaan:
 
 3. Eet- en drinkwaren en grondstoffen mogen tot het niveau van de desbetreffende vastgestelde gemiddeld geabsorbeerde stralingsdosis, slechts éénmaal met ioniserende stralen zijn of worden behandeld. De behandeling mag niet worden gecombineerd met een chemisch proces dat hetzelfde oogmerk heeft als genoemde behandeling.
 
-#### Artikel 7
+##### Artikel 7
 
 De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=1) (**Stb.** 1988, 360), voor zover het betreft het afleveren van eet- en drinkwaren en grondstoffen om deze door middel van een behandeling met ioniserende stralen kennelijk in overeenstemming te brengen met het bepaalde in of krachtens die wet, is niet van toepassing op eet- en drinkwaren en grondstoffen die niet in overeenstemming zijn met [artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0001969&artikel=18) van die wet.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Eet- en drinkwaren die als zodanig kennelijk zijn bestemd voor de eindverbruiker moeten, alvorens zij aan een behandeling met ioniserende stralen worden onderworpen, aanwezig zijn in de verpakking waarin de betrokken waar aan de eindverbruiker wordt afgeleverd.
 
@@ -168,7 +192,7 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 #### § 5. Het binnen Nederlands grondgebied brengen van doorstraalde eet- en drinkwaren en grondstoffen
 
-#### Artikel 9
+##### Artikel 9
 
 1. Doorstraalde eet- en drinkwaren en grondstoffen mogen uitsluitend binnen Nederlands grondgebied worden gebracht, indien voldaan is aan de volgende voorschriften:
 
@@ -192,7 +216,7 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 #### § 6. Bijzondere bepalingen met betrekking tot de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet als zodanig zijn bestemd voor de eindverbruiker
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij de verhandeling van doorstraalde eet- en drinkwaren en grondstoffen die niet zijn bestemd voor de eindverbruiker of een instelling, moet worden gebezigd de vermelding van de naam en het adres van de installatie waar de behandeling met ioniserende stralen is uitgevoerd.
 
@@ -204,27 +228,27 @@ De tweede volzin van [artikel 1, derde lid, van de Warenwet](https://wetten.over
 
 #### § 7. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, alsmede detectiemethoden.
 
 2. Onze Minister kan omtrent de in het eerste lid bedoelde methoden nadere regels stellen.
 
-#### Artikel 12
+##### Artikel 12
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 13
+##### Artikel 13
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit besluit treedt in werking met ingang van de derde maand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. Het is niet van toepassing op waren waarvan kan worden aangetoond dat zij voor bedoelde datum met ioniserende stralen zijn behandeld.
 
 2. In afwijking van het eerste lid treden de [artikelen 10, tweede lid, sub c, en derde lid, sub c](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=6&artikel=10&z=2016-05-24&g=2016-05-24), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=12&z=2016-05-24&g=2016-05-24) en [13](https://wetten.overheid.nl/jci1.3:c:BWBR0005465&paragraaf=7&artikel=13&z=2016-05-24&g=2016-05-24) in werking met ingang van de zevende maand na de in dat lid bedoelde datum.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit kan worden aangehaald als: Warenwetbesluit Doorstraalde waren.
 

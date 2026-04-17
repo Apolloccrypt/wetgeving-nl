@@ -1,13 +1,35 @@
 ---
 title: "Kaderovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake militaire samenwerking"
 identifier: "BWBV0006174"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-08-01
-laatste_update: 2025-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006174"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-08-01"
+last_updated: "2025-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006174"
+soort: "verdrag"
+stam_id: "10005073023"
+version_id: "10005409802"
+internal_id: "C10010203151"
+label_id: "10005056054"
+dtd_version: "2.0"
+original_entry_into_force: "2025-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006174/2025-08-01/0"
+intitule_bron: "Trb.2013-95"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-06-06"
+intitule_in_force: "2025-08-21"
+intitule_status: "goed"
+original_publication: "Trb.2013-95"
+original_published_date: "2013-06-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-95"
+entry_into_force_date: "2025-08-01"
+jci_1_3: "jci1.3:c:BWBV0006174&z=2025-08-01&g=2025-08-01"
+jci_1_0: "1.0:c:BWBV0006174&g=2025-08-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2025-08-01"
 ---
-
 # Kaderovereenkomst tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake militaire samenwerking
 
 Het Koninkrijk der Nederlanden
@@ -28,7 +50,7 @@ De wens tot uitdrukking brengend samenwerkingsbanden met betrekking tot onderwer
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Overeenkomst wordt het kader vastgesteld voor militaire samenwerking tussen de partijen op de volgende gebieden:
 
@@ -54,25 +76,25 @@ In deze Overeenkomst wordt het kader vastgesteld voor militaire samenwerking tus
 
 - 11. Samenwerking op uiteenlopende, door beide partijen in onderlinge overeenstemming vastgestelde gebieden.
 
-#### Artikel 2
+##### Artikel 2
 
 De uitvoeringsbepalingen met betrekking tot de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006174&artikel=1&z=2025-08-01&g=2025-08-01) van deze Overeenkomst genoemde samenwerkingsactiviteiten worden door middel van een passend juridisch instrument in onderlinge overeenstemming tussen beide partijen vastgesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Teneinde een doelmatige toepassing van de bepalingen van deze Overeenkomst te waarborgen, komen beide partijen overeen periodiek bijeen te komen in een gemengde militaire commissie, waarvan de bevoegdheden en werkwijzen in onderlinge overeenstemming worden vastgesteld.
 
-#### Artikel 4
+##### Artikel 4
 
 In geval van vergrijpen wordt de wetgeving toegepast van de staat op wiens grondgebied het vergrijp heeft plaatsgevonden.
 
 De juridische en tuchtrechtelijke bepalingen die van toepassing zijn op het personeel van beide partijen dat in het kader van de militaire samenwerking op hun respectieve grondgebieden aanwezig is, worden vastgelegd in een door de partijen gesloten apart Verdrag betreffende de status van personeelsleden en strijdkrachten (SOFA).
 
-#### Artikel 5
+##### Artikel 5
 
 Tenzij de partijen anderszins overeenkomen, draagt elke partij haar eigen kosten met betrekking tot de deelname aan de samenwerkingsactiviteiten in het kader van deze Overeenkomst.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Geen van de partijen mag zonder voorafgaande schriftelijke toestemming van de andere partij de in het kader van de militaire samenwerking ontvangen of verkregen informatie aan derden overdragen, verzenden of overbrengen.
 
@@ -82,7 +104,7 @@ Tenzij de partijen anderszins overeenkomen, draagt elke partij haar eigen kosten
 
 4. De bepalingen inzake de bescherming van de gerubriceerde informatie die de partijen op basis van wederkerigheid uitwisselen of die in het kader van de militaire samenwerking wordt uitgewisseld, kunnen worden vervat in een Specifieke Overeenkomst tussen de bevoegde instanties van beide partijen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bepalingen van deze Overeenkomst doen geen afbreuk aan de internationale overeenkomsten waarbij beide landen partij zijn.
 

@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit onderwijsvoorzieningen"
+title: "Besluit van 4 december 2008, houdende regels met betrekking tot onderwijsvoorzieningen voor jongeren met een handicap en de uitvoering daarvan door UWV (Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap)"
 identifier: "BWBR0024869"
-categorie: "Onderwijs"
-publicatiedatum: 2025-10-04
-laatste_update: 2025-10-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024869"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-10-04"
+last_updated: "2025-10-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024869"
+soort: "AMvB"
+stam_id: "9800203"
+version_id: "15912452"
+internal_id: "C21824871"
+label_id: "9777054"
+dtd_version: "2.0"
+original_entry_into_force: "2009-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024869/2025-10-04/0"
+intitule_bron: "Stb.2008-540"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-12-04"
+intitule_published: "2008-12-18"
+intitule_in_force: "2008-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2008-540"
+original_signed_date: "2008-12-04"
+original_published_date: "2008-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2008-540"
+entry_into_force_date: "2009-01-01"
+jci_1_3: "jci1.3:c:BWBR0024869&z=2025-10-04&g=2025-10-04"
+jci_1_0: "1.0:c:BWBR0024869&g=2025-10-04"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit onderwijsvoorzieningen"
+signed_date: "2008-12-04"
+entry_into_force: "2009-01-01"
 ---
-
 # Besluit van 4 december 2008, houdende regels met betrekking tot onderwijsvoorzieningen voor jongeren met een handicap en de uitvoering daarvan door UWV (Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap)
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, Sharon A.M. Dijksma, van 6 oktober 2008, nr. WJZ/57270 (2658), directie Wetgeving en Juridische Zaken; gedaan in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid en mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel 19a van de Wet overige OCW-subs
 
 #### Paragraaf 1. Algemeen
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit wordt verstaan onder:
 
 - d. **cluster 1, 2, 3 onderscheidenlijk 4:** de clusters, bedoeld in [artikel 2, vierde lid, van de Wet op de expertisecentra](https://wetten.overheid.nl/jci1.3:c:BWBR0003549&artikel=2).
 
-#### Artikel 2. Uitgangspunten verlening voorzieningen
+##### Artikel 2. Uitgangspunten verlening voorzieningen
 
 1. Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) wordt niet verstrekt respectievelijk verleend indien het kosten van een voorziening of een voorziening betreft
 
@@ -46,19 +72,19 @@ In dit besluit wordt verstaan onder:
 
 2. Bij de toepassing van dit besluit en de daarop berustende bepalingen wordt bij de beoordeling en berekening van de kosten en de verlening van een voorziening als bedoeld in het eerste lid uitgegaan van de goedkoopste adequate voorziening.
 
-#### Artikel 3. Geen voorzieningen bij geringe kosten
+##### Artikel 3. Geen voorzieningen bij geringe kosten
 
 1. Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) wordt niet verstrekt indien de kosten, bedoeld in [dat artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), minder bedragen dan 1,85 maal het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75, zoals [laatstgenoemd artikel](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) luidde op 1 januari van het kalenderjaar waarin de kosten zijn gemaakt.
 
 2. Indien de gezamenlijke waarde van voorzieningen als bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) die in een kalenderjaar zijn aangevraagd, een bedrag ter hoogte van 1,85 maal het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel b, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8), gedeeld door 21,75, overtreft, kan het UWV voorzieningen verstrekken ter hoogte van die gezamenlijke waarde.
 
-#### Artikel 4. Op het individu gerichte voorzieningen
+##### Artikel 4. Op het individu gerichte voorzieningen
 
 Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) wordt slechts verleend indien deze in overwegende mate op het individu is gericht.
 
 #### Paragraaf 2. Voorzieningen
 
-#### Artikel 5. Onderwijsvoorzieningen
+##### Artikel 5. Onderwijsvoorzieningen
 
 1. Onder voorzieningen als bedoeld in [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) worden uitsluitend verstaan:
 
@@ -84,7 +110,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 - e. voorzieningen die verband houden met dyslexie.
 
-#### Artikel 6. Inkomenstoets leefvervoersvoorzieningen
+##### Artikel 6. Inkomenstoets leefvervoersvoorzieningen
 
 1. Vervoersvoorzieningen als bedoeld in [artikel 19a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), worden niet verleend of worden beëindigd, indien het inkomen van de persoon die de voorziening aanvraagt of aan wie de voorziening is verleend, in het kalenderjaar waarin de voorziening is aangevraagd of voortzetting van een verleende voorziening wordt overwogen, meer bedraagt dan 261 maal 70% van het bedrag, bedoeld in [artikel 17, eerste lid, van de Wet financiering sociale verzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0017745&artikel=17) met betrekking tot een loontijdvak van een dag.
 
@@ -102,7 +128,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 5. Beëindiging van de vervoersvoorzieningen wegens overschrijding van de inkomensgrens, bedoeld in het eerste lid, vindt plaats met ingang van de datum die is gelegen zes maanden nadat de persoon aan wie de voorziening is verleend van de voorgenomen beëindiging in kennis is gesteld.
 
-#### Artikel 7. Leefvervoersvoorziening
+##### Artikel 7. Leefvervoersvoorziening
 
 1. Een leefvervoersvoorziening als bedoeld in [artikel 19a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) wordt slechts verleend indien daarmee de uit ziekte of gebrek voortvloeiende beperkingen worden opgeheven of verminderd.
 
@@ -110,13 +136,13 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 3. Na beëindiging van de vervoersvoorziening, verleend op grond van [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), wordt de leefvervoersvoorziening voortgezet gedurende de termijn die is voorzien in de beschikking van UWV waarbij de voorziening is toegekend, doch ten hoogste voor de duur van twaalf maanden.
 
-#### Artikel 8. Intermediaire activiteiten
+##### Artikel 8. Intermediaire activiteiten
 
 1. De verlening van een intermediaire activiteit vindt plaats door vergoeding van de kosten voor bemiddeling bij het vinden van en voor het gebruik van een intermediaire activiteit.
 
 2. Een intermediaire activiteit, bedoeld in het eerste lid, worden verleend indien er een verklaring is van de huisarts of de behandelend medisch specialist, waaruit blijkt dat deze persoon op het gebruik van een intermediaire activiteit is aangewezen. Deze verklaring wordt eenmalig gevraagd, tenzij het UWV op grond van [artikel 73a van de Wet structuur uitvoeringsorganisatie werk en inkomen](https://wetten.overheid.nl/jci1.3:c:BWBR0013060&artikel=73a) deze al heeft verkregen voor de uitvoering van aan het UWV opgedragen taken. Bij de uitvoering van dit artikel is het UWV bevoegd de verklaring te gebruiken, die het UWV heeft verkregen voor de uitvoering van aanspraken op intermediaire activiteiten op grond van de [Wet arbeidsongeschiktheidsvoorzieningen jonggehandicapten](https://wetten.overheid.nl/jci1.3:c:BWBR0008657), de [Wet werk en inkomen naar arbeidsvermogen](https://wetten.overheid.nl/jci1.3:c:BWBR0019057), de [Wet maatschappelijke ondersteuning 2015](https://wetten.overheid.nl/jci1.3:c:BWBR0035362) en de [Participatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0015703).
 
-#### Artikel 9. Overname van voorzieningen
+##### Artikel 9. Overname van voorzieningen
 
 1. Het UWV kan, indien een of meer feiten op grond waarvan een voorziening als bedoeld in [artikel 19a, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) is verleend, zodanig wijzigen dat de verlening niet langer is aangewezen, of indien een met betrekking tot een voorziening afgesloten bruikleencontract afloopt, de desbetreffende persoon de niet in de vorm van een financiële tegemoetkoming verleende voorziening doen behouden of doen kopen, voor een prijs die de op dat moment in het maatschappelijk verkeer geldende waarde van een dergelijke voorziening niet te boven gaat.
 
@@ -124,7 +150,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 #### Paragraaf 3. Financiering en verantwoording UWV
 
-#### Artikel 10. Vergoeding kosten UWV
+##### Artikel 10. Vergoeding kosten UWV
 
 1. Onze Minister vergoedt aan het UWV de kosten van de voorzieningen die op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) door het UWV zijn betaald.
 
@@ -134,7 +160,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 4. Op de kosten komen in mindering de voorzieningen die zijn terugbetaald en de baten die voortvloeien uit de uitvoering van deze regeling.
 
-#### Artikel 11. Nadere regels bestuursverslag, jaarrekening, tussentijdse rapportages en accountantscontrole
+##### Artikel 11. Nadere regels bestuursverslag, jaarrekening, tussentijdse rapportages en accountantscontrole
 
 1. Het UWV biedt jaarlijks vóór 15 maart het gedeelte van het bestuursverslag dat betrekking heeft op de uitvoering van dit besluit met het gedeelte van de jaarrekening dat daarop betrekking heeft aan Onze Minister aan. De verklaring omtrent de getrouwheid, bedoeld in [artikel 35 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=35), bevat een afzonderlijke verklaring over het gedeelte dat betrekking heeft op de uitvoering van dit besluit.
 
@@ -146,7 +172,7 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 5. De gedeelten van de tussentijdse verslagen, bedoeld in het tweede lid, geven, uitgesplitst naar de voorzieningen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=2&artikel=5&z=2025-10-04&g=2025-10-04), ten minste inzicht in de gerealiseerde uitgaven en ontvangsten, op grond van [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a), ten opzichte van de voor deze doeleinden verstrekte voorschotten.
 
-#### Artikel 12. Tijdstip, inhoud en inrichting aanvraag voorschot, vaststelling kosten
+##### Artikel 12. Tijdstip, inhoud en inrichting aanvraag voorschot, vaststelling kosten
 
 1. Het UWV dient jaarlijks vóór 1 december van het jaar voorafgaand aan het begrotingsjaar waarin de kosten zullen worden gemaakt de aanvraag om een voorschot aan Onze Minister in.
 
@@ -158,15 +184,15 @@ Een voorziening als bedoeld in [artikel 19a van de wet](https://wetten.overheid.
 
 5. Onze Minister stelt binnen acht weken na ontvangst van het gedeelte van het bestuursverslag en de jaarrekening dat betrekking heeft op de uitvoering van dit besluit de eindafrekening vast.
 
-#### Artikel 13. Nadere regels
+##### Artikel 13. Nadere regels
 
 Bij ministeriële regeling kan Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid nadere regels stellen over de wijze waarop het bestuursverslag, de jaarrekening en de tussentijdse verslagen, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0024869&paragraaf=3&artikel=12&z=2025-10-04&g=2025-10-04), worden ingericht en aangeboden.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel 19a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0009458&artikel=19a) in werking treedt.
 
-#### Artikel 15. Citeertitel
+##### Artikel 15. Citeertitel
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit onderwijsvoorzieningen.
 

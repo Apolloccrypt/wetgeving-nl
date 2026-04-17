@@ -1,13 +1,39 @@
 ---
-title: "Meeteenhedenbesluit 2006"
+title: "Besluit van 12 oktober 2006, tot uitvoering van artikel 2 van de Metrologiewet en ter implementatie van enkele Europese richtlijnen (Meeteenhedenbesluit 2006)"
 identifier: "BWBR0020422"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-06-13
-laatste_update: 2020-06-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020422"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-06-13"
+last_updated: "2020-06-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020422"
+soort: "AMvB"
+stam_id: "8740883"
+version_id: "17918412"
+internal_id: "C24728441"
+label_id: "8721014"
+dtd_version: "2.0"
+original_entry_into_force: "2010-09-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020422/2020-06-13/0"
+intitule_bron: "Stb.2006-575"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-10-12"
+intitule_published: "2006-11-28"
+intitule_in_force: "2007-01-30"
+intitule_status: "goed"
+original_publication: "Stb.2010-366"
+original_signed_date: "2010-09-27"
+original_published_date: "2010-10-01"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2010-366"
+entry_into_force_date: "2010-09-27"
+jci_1_3: "jci1.3:c:BWBR0020422&z=2020-06-13&g=2020-06-13"
+jci_1_0: "1.0:c:BWBR0020422&g=2020-06-13"
+citeertitel_status: "officieel"
+short_title: "Meeteenhedenbesluit 2006"
+signed_date: "2010-09-27"
+entry_into_force: "2010-09-27"
 ---
-
 # Besluit van 12 oktober 2006, tot uitvoering van artikel 2 van de Metrologiewet en ter implementatie van enkele Europese richtlijnen (Meeteenhedenbesluit 2006)
 
 Op de voordracht van Onze Minister van Economische Zaken van 5 september 2006, nr. WJZ 6066164;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Erkende meeteenheden
 
-#### Artikel 2
+##### Artikel 2
 
 1. De erkende meeteenheden om daarin grootheden uit te drukken zijn:
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 2. Samengestelde eenheden kunnen worden gevormd door een combinatie van de eenheden, bedoeld in het eerste lid.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De namen en symbolen van de SI-grondeenheden en de daarbij behorende grootheden zijn:
 
@@ -81,7 +107,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. De in het tweede lid, onder f, bedoelde hoeveelheid stof, symbool **n,**van een systeem is een maat voor het aantal gespecificeerde elementaire entiteiten. Een elementaire entiteit kan een atoom, een molecuul, een ion, een elektron, elk ander deeltje of elke andere gespecificeerde groep van deeltjes zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en het in de tabel opgenomen deel van de kilogram hebben een eigen naam en symbool:
 
@@ -94,7 +120,7 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 | Massa | ton | t | 1 t = 1 Mg = 103 kg |
 |   | gram | g | 1g = 10–3 kg |
 
-#### Artikel 5
+##### Artikel 5
 
 1. De afgeleide SI-eenheden zijn eenheden die op coherente wijze zijn afgeleid van de SI-grondeenheden. De afgeleide SI-eenheden worden uitgedrukt in:
 
@@ -140,7 +166,7 @@ De in de navolgende tabel opgenomen veelvouden van de seconde en de kilogram en 
 
 6. Het vermogen kan ook worden uitgedrukt in de eigen namen van de eenheid van vermogen, de voltampère, met het symbool «VA», voor het uitdrukken van het schijnbaar vermogen van de elektrische wisselstroom, en de voltampère reactief, met het symbool «var», voor het uitdrukken van reactief elektrisch vermogen.
 
-#### Artikel 6
+##### Artikel 6
 
 De in de navolgende tabel opgenomen veelvouden en delen van afgeleide SI-eenheden hebben een eigen naam en symbool:
 
@@ -155,7 +181,7 @@ De in de navolgende tabel opgenomen veelvouden en delen van afgeleide SI-eenhede
 |   | decimale graad of gon | gon | 1 gon = π · 200–1 rad |
 | druk, spanning | bar | bar | 1 bar = 105 Pa |
 
-#### Artikel 7
+##### Artikel 7
 
 Ten aanzien van de in de navolgende tabel genoemde eenheden geldt dat zij binnen het SI gebruikte eenheden zijn, waarvan de waarden in SI experimenteel zijn verkregen. Zij hebben een eigen naam en symbool:
 
@@ -165,7 +191,7 @@ Ten aanzien van de in de navolgende tabel genoemde eenheden geldt dat zij binnen
 | Massa | geünificeerde atomaire massaeenheid | u | 1 u = 1/12 van de massa van een atoom van de nuclide 12C |
 | Energie | elektronvolt | eV | 1 eV = de kinetische energie die een elektron krijgt wanneer deze een potentiaalverschil van 1 volt in vacuüm doorloopt |
 
-#### Artikel 8
+##### Artikel 8
 
 Ten aanzien van de onderstaande erkende eenheden gelden de daarbij vermelde beperkingen in hun gebruik:
 
@@ -179,19 +205,19 @@ Ten aanzien van de onderstaande erkende eenheden gelden de daarbij vermelde bepe
 | lineïeke massa van textielvezels en garens | tex | tex | 1 tex = 10–6 kg · m–1 |
 | bloeddruk en druk van andere lichaamsvloeistoffen | millimeter kwik | mm Hg | 1 mm Hg = 133,322 Pa |
 
-#### Artikel 9
+##### Artikel 9
 
 De decibel A, waarvan het symbool dB(A) is, is de eenheid van geluidniveau van een geluid, waarbij onder geluidniveau wordt verstaan het twintigvoud van de logaritme met grondtal 10 van de verhouding van de effectieve waarde van de geluiddruk van het geluid, gewogen volgens de curve A, vastgelegd in Publikatie 61672-1 van de International Electrotechnical Commission, en een vergelijkingsdruk van 2 · 10–5 pascal.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Behoudens het derde lid, worden in de navolgende tabel genoemde decimale veelvouden en delen van de in het tweede lid bedoelde eenheden, indien deze veelvouden en delen niet worden aangeduid door een getal voor de naam of het symbool van de betrokken meeteenheden, aangeduid door aan die naam of dat symbool één van de volgende voorvoegsels, onderscheidenlijk symbolen vooraf te laten gaan:
 
@@ -222,7 +248,7 @@ Vervallen
 
 #### § 3. Nationale meetstandaarden
 
-#### Artikel 13
+##### Artikel 13
 
 Er worden nationale meetstandaarden beheerd of verwezenlijkt van de volgende grootheden:
 
@@ -240,47 +266,47 @@ Er worden nationale meetstandaarden beheerd of verwezenlijkt van de volgende gro
 
 - g. lichtsterkte.
 
-#### Artikel 14
+##### Artikel 14
 
 De verwezenlijking van de nationale meetstandaard van lengte vindt plaats met een methode, gebaseerd op een golflengte van een gestabiliseerde lichtbron die vastgelegd is in aanbeveling 1 uit 2002, aanbeveling 1 uit 2003 dan wel aanbeveling 3 uit 2005 van het Comité international des Poids et Mesures.
 
-#### Artikel 15
+##### Artikel 15
 
 Als nationale meetstandaard van massa geldt de massa vastgesteld door het Bureau international des Poids et Mesures van het platina-iridium massastuk nr. 53.
 
-#### Artikel 16
+##### Artikel 16
 
 De verwezenlijking van de nationale meetstandaard van tijd vindt plaats met een methode gebaseerd op de aanwijzing van drie cesiumatoomklokken.
 
-#### Artikel 17
+##### Artikel 17
 
 De verwezenlijking van de nationale meetstandaard van elektrische spanning vindt plaats met een methode gebaseerd op het Josephson effect conform aanbeveling 1 uit 1988 van het Comité international des Poids et Mesures.
 
-#### Artikel 18
+##### Artikel 18
 
 De verwezenlijking van de nationale meetstandaard van elektrische weerstand vindt plaats met een methode gebaseerd op het quantum Hall effect conform aanbeveling 2 uit 1988 van het Comité international des Poids et Mesures.
 
-#### Artikel 19
+##### Artikel 19
 
 De verwezenlijking van de nationale meetstandaard van thermodynamische temperatuur vindt plaats met een methode gebaseerd op de Internationale Temperatuurschaal van 1990 (ITS-90) conform aanbeveling 5 uit 1989 van het Comité international des Poids et Mesures.
 
-#### Artikel 20
+##### Artikel 20
 
 De verwezenlijking van de nationale meetstandaard voor lichtsterkte is gebaseerd op de meting van het stralingsvermogen met een Absolute Cryogene Radiometer.
 
 #### § 3a. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 21
+##### Artikel 21
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Meeteenhedenbesluit 2006.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 20a
+##### Artikel 20a
 
 Dit besluit, met uitzondering van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=2&artikel=9&z=2020-06-13&g=2020-06-13) alsmede [paragraaf 3](https://wetten.overheid.nl/jci1.3:c:BWBR0020422&paragraaf=3&z=2020-06-13&g=2020-06-13), is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba en berust voor de toepassing in die openbare lichamen op [artikel 2 van de IJkwet BES 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035310&artikel=2).
 

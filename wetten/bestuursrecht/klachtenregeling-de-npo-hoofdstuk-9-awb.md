@@ -1,13 +1,36 @@
 ---
-title: "Klachtenregeling De NPO Hoofdstuk 9 Awb"
+title: "Klachtenregeling De Nederlandse Publieke Omroep, als bedoeld in Hoofdstuk 9 Algemene Wet Bestuursrecht"
 identifier: "BWBR0024787"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-12-10
-laatste_update: 2008-12-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024787"
+country: "nl"
+rank: "zbo"
+publication_date: "2008-12-10"
+last_updated: "2008-12-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024787"
+soort: "zbo"
+stam_id: "9783623"
+version_id: "15871082"
+internal_id: "C21770411"
+label_id: "9760474"
+dtd_version: "2.0"
+original_entry_into_force: "2008-12-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024787/2008-12-10/0"
+intitule_bron: "Stcrt.2008-239"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2008-12-09"
+intitule_in_force: "2008-12-09"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-239"
+original_published_date: "2008-12-09"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1572"
+entry_into_force_date: "2008-12-10"
+jci_1_3: "jci1.3:c:BWBR0024787&z=2008-12-10&g=2008-12-10"
+jci_1_0: "1.0:c:BWBR0024787&g=2008-12-10"
+citeertitel_status: "officieel"
+short_title: "Klachtenregeling De NPO Hoofdstuk 9 Awb"
+entry_into_force: "2008-12-10"
 ---
-
 # Klachtenregeling De Nederlandse Publieke Omroep, als bedoeld in Hoofdstuk 9 Algemene Wet Bestuursrecht
 
 Vastgesteld bij besluit van de raad van bestuur d.d. 11 november 2008.
@@ -20,7 +43,7 @@ Gelet op [hoofdstuk 9 van de Algemene wet bestuursrecht](https://wetten.overheid
 
 Heeft de volgende klachtenregeling vastgesteld:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -42,25 +65,25 @@ In deze regeling wordt verstaan onder:
 
 - i. **Klachtafdoening:** de schriftelijke bekendmaking aan de klager van de bevindingen van het onderzoek naar de klacht alsmede van de eventuele conclusies die daaraan worden verbonden als bedoeld in [artikel 9:12, eerste lid Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:12).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Het doel van deze regeling is het geven van een procedure voor de behandeling van klachten ter uitwerking van de klachtregeling opgenomen in [hoofdstuk 9 Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&hoofdstuk=9).
 
-#### Artikel 3. Klachtrecht
+##### Artikel 3. Klachtrecht
 
 1. Een ieder heeft het recht om over de wijze waarop de NPO zich in een bepaalde aangelegenheid jegens hem of een ander heeft gedragen een klacht in te dienen.
 
 2. Een gedraging van een medewerker van de NPO wordt aangemerkt als een gedraging van de NPO.
 
-#### Artikel 4. Reikwijdte
+##### Artikel 4. Reikwijdte
 
 Deze regeling is alleen van toepassing op de behandeling van schriftelijke klachten die betrekking hebben op een gedraging jegens de klager en voldoen aan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0024787&artikel=8&z=2008-12-10&g=2008-12-10) vermelde eisen.
 
-#### Artikel 5. Mondelinge klachten/gedraging jegens een ander dan de klager
+##### Artikel 5. Mondelinge klachten/gedraging jegens een ander dan de klager
 
 Onverminderd het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0024787&artikel=4&z=2008-12-10&g=2008-12-10) kan een klacht mondeling of per e-mail worden ingediend. Ook kan een klacht betrekking hebben op een gedraging jegens een ander dan de klager. Deze regeling is op de behandeling van dergelijke klachten niet van toepassing. Wel dient de NPO zorg te dragen voor een behoorlijke behandeling van dergelijke klachten.
 
-#### Artikel 6. Klachtbehandelaar
+##### Artikel 6. Klachtbehandelaar
 
 Klachten worden behandeld en afgedaan door:
 
@@ -68,11 +91,11 @@ Klachten worden behandeld en afgedaan door:
 
 - b. Indien het een klacht over een gedraging van een lid van de raad van bestuur of zijn secretaris betreft: de voorzitter van de raad van toezicht
 
-#### Artikel 7. Klachtadviesinstantie
+##### Artikel 7. Klachtadviesinstantie
 
 De raad van bestuur kan bij afzonderlijk besluit een persoon aanwijzen of een commissie instellen als klachtadviesinstantie bedoeld in [artikel 9.14 van de Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:14).
 
-#### Artikel 8. Indienen van een klacht
+##### Artikel 8. Indienen van een klacht
 
 In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=9:4) dient een schriftelijke klacht te voldoen aan de volgende eisen:
 
@@ -84,13 +107,13 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 - c. een omschrijving van de gedraging waartegen de klacht is gericht.
 
-#### Artikel 9. Ontvangstbevestiging
+##### Artikel 9. Ontvangstbevestiging
 
 1. De NPO bevestigt de ontvangst van de klacht schriftelijk binnen twee weken na ontvangst.
 
 2. Aan degene op wiens gedraging de klacht betrekking heeft wordt een afschrift van het klaagschrift met de daarbij behorende stukken toegezonden.
 
-#### Artikel 10. Geen verplichting tot klachtbehandeling
+##### Artikel 10. Geen verplichting tot klachtbehandeling
 
 1. De NPO is niet verplicht de klacht te behandelen indien deze klacht betrekking heeft op een gedraging:
 
@@ -112,7 +135,7 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 4. Tegen het besluit de klacht niet in behandeling te nemen kan geen bezwaar worden gemaakt of beroep worden ingesteld.
 
-#### Artikel 11. Informele afdoening
+##### Artikel 11. Informele afdoening
 
 1. De klachtbehandelaar gaat na of de klager door middel van een informele behandeling van zijn klacht tevreden gesteld kan worden.
 
@@ -122,7 +145,7 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 4. Een afschrift van deze bevestiging wordt verzonden aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 12. Formele afdoening
+##### Artikel 12. Formele afdoening
 
 1. Indien is gebleken dat een informele afdoening niet mogelijk is, stelt de klachtbehandelaar de klager en degene op wiens gedraging de klacht betrekking heeft in de gelegenheid te worden gehoord.
 
@@ -130,7 +153,7 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 3. Van het horen wordt een verslag gemaakt.
 
-#### Artikel 13. Termijnen
+##### Artikel 13. Termijnen
 
 1. De klacht wordt binnen zes weken na ontvangst afgehandeld.
 
@@ -138,7 +161,7 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 3. De NPO kan de afhandeling van een klacht met ten hoogste vier weken verdagen. Hiervan wordt schriftelijk mededeling gedaan aan de klager en aan degene op wiens gedraging de klacht betrekking heeft.
 
-#### Artikel 14. Klachtafdoening
+##### Artikel 14. Klachtafdoening
 
 1. De NPO stelt de klager en degene tegen wiens gedraging de klacht zich richt schriftelijk en gemotiveerd in kennis van de bevinding van het onderzoek en van de eventuele conclusies die zij daaraan verbindt. Een afschrift van deze kennisgeving gaat naar degene op wiens gedraging de klacht betrekking heeft.
 
@@ -146,14 +169,14 @@ In overeenstemming met het bepaalde in [artikel 9.4. Awb](https://wetten.overhei
 
 3. Bij de kennisgeving wordt melding gemaakt van de mogelijkheid om een klacht in te dienen bij de Nationale Ombudsman.
 
-#### Artikel 15. Klachtregistratie
+##### Artikel 15. Klachtregistratie
 
 De NPO draagt zorg voor de registratie en jaarlijkse publicatie van de klachten.
 
-#### Artikel 16. Inwerkingtreding
+##### Artikel 16. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin de regeling wordt geplaatst.
 
-#### Artikel 17. Citeertitel
+##### Artikel 17. Citeertitel
 
 Deze regeling kan worden aangehaald als de: Klachtenregeling De NPO Hoofdstuk 9 Awb.

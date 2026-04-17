@@ -1,13 +1,34 @@
 ---
 title: "Besluit van de Raad van de Europese Unie van 29 september 2000 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen"
 identifier: "BWBV0001499"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-01-01
-laatste_update: 2007-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001499"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-01-01"
+last_updated: "2007-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001499"
+soort: "verdrag"
+stam_id: "10000728163"
+version_id: "10003390932"
+internal_id: "C10006991981"
+label_id: "10000728314"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001499/2007-01-01/0"
+intitule_bron: "Trb.2009-44"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2009-04-03"
+intitule_in_force: "2009-04-03"
+intitule_status: "vervallen"
+original_publication: "Trb.2009-44"
+original_published_date: "2009-04-03"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2009-44"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBV0001499&z=2007-01-01&g=2007-01-01"
+jci_1_0: "1.0:c:BWBV0001499&g=2007-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2007-01-01"
 ---
-
 # Besluit van de Raad van de Europese Unie van 29 september 2000 betreffende het stelsel van eigen middelen van de Europese Gemeenschappen
 
 De Raad van de Europese Unie,
@@ -68,43 +89,43 @@ De Europese Raad van 24 en 25 maart 1999 heeft besloten dat dit besluit op 1 jan
 
 heeft de volgende bepalingen vastgesteld waarvan hij de aanneming door de lidstaten aanbeveelt:
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 

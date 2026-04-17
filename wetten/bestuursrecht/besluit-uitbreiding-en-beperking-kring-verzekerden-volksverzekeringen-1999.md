@@ -1,13 +1,39 @@
 ---
-title: "Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
+title: "Besluit van 24 december 1998, tot vaststelling van een maatregel van bestuur als bedoeld in de artikelen 6, derde lid, van de Algemene Ouderdomswet, 13, derde lid, van de Algemene nabestaandenwet, 6, derde lid, van de Algemene Kinderbijslagwet en 5, derde en vierde lid, van de Algemene Wet Bijzondere Ziektekosten (Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999)"
 identifier: "BWBR0010182"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010182"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010182"
+soort: "AMvB"
+stam_id: "1903823"
+version_id: "2824592"
+internal_id: "C2824591"
+label_id: "1854564"
+dtd_version: "2.0"
+original_entry_into_force: "1999-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010182/2025-07-01/0"
+intitule_bron: "Stb.1998-746"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-12-24"
+intitule_published: "1998-12-30"
+intitule_in_force: "1998-12-30"
+intitule_status: "goed"
+original_publication: "Stb.1998-746"
+original_signed_date: "1998-12-24"
+original_published_date: "1998-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1998-746"
+entry_into_force_date: "1999-01-01"
+jci_1_3: "jci1.3:c:BWBR0010182&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0010182&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999"
+signed_date: "1998-12-24"
+entry_into_force: "1999-01-01"
 ---
-
 # Besluit van 24 december 1998, tot vaststelling van een maatregel van bestuur als bedoeld in de artikelen 6, derde lid, van de Algemene Ouderdomswet, 13, derde lid, van de Algemene nabestaandenwet, 6, derde lid, van de Algemene Kinderbijslagwet en 5, derde en vierde lid, van de Algemene Wet Bijzondere Ziektekosten (Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, van 20 november 1998 SV/GSV/98/35098 mede namens Onze Minister van Volksgezondheid, Welzijn en Sport;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -42,7 +68,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Uitbreiding van de kring van verzekerden
 
-#### Artikel 2. Diplomatiek en consulair personeel en hun gezinsleden in het buitenland
+##### Artikel 2. Diplomatiek en consulair personeel en hun gezinsleden in het buitenland
 
 1. Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland woont en die uit hoofde van een privaatrechtelijke dienstbetrekking naar Nederlands recht met een overheidswerkgever als bedoeld in [artikel 2 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2), dan wel een publiekrechtelijke dienstbetrekking met een bestuursorgaan dat daar deel van uitmaakt, als ambtenaar van Aruba, Curaçao of Sint Maarten of anderszins uit hoofde van een uitzending door of met instemming met de Minister van Buitenlandse Zaken tijdelijk werkzaam is bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland, tenzij hij:
 
@@ -72,7 +98,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - d. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid.
 
-#### Artikel 3. Personeel van de Nederlandse overheid en hun gezinsleden in het buitenland
+##### Artikel 3. Personeel van de Nederlandse overheid en hun gezinsleden in het buitenland
 
 1. Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland woont, voor zover niet reeds begrepen onder [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01), en die uit hoofde van een privaatrechtelijke dienstbetrekking naar Nederlands recht met een overheidswerkgever als bedoeld in [artikel 2 van de Ambtenarenwet 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0001947&artikel=2), dan wel een publiekrechtelijke dienstbetrekking met een bestuursorgaan dat daar deel van uitmaakt, buiten Nederland arbeid verricht ten behoeve van die overheidswerkgever of dat bestuursorgaan, tenzij hij:
 
@@ -98,7 +124,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid.
 
-#### Artikel 4. Rijdend, vliegend of varend personeel, buiten Nederland wonend
+##### Artikel 4. Rijdend, vliegend of varend personeel, buiten Nederland wonend
 
 Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland woont en behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een in Nederland wonende of gevestigde werkgever die internationaal vervoer verricht, tenzij hij:
 
@@ -106,11 +132,11 @@ Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland
 
 - b. werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever buiten Nederland.
 
-#### Artikel 5. Gezinsleden van varend personeel
+##### Artikel 5. Gezinsleden van varend personeel
 
 Verzekerd op grond van de volksverzekeringen zijn de aan boord van een schip wonende echtgenoot en kinderen van de persoon die op grond van de volksverzekeringen of van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=4&z=2025-07-01&g=2025-07-01) verzekerd is.
 
-#### Artikel 6. Tijdelijke onderbreking van arbeid in Nederland
+##### Artikel 6. Tijdelijke onderbreking van arbeid in Nederland
 
 Verzekerd op grond van de volksverzekeringen blijft de persoon die niet in Nederland woont, maar die uitsluitend in Nederland arbeid verricht en van wie de arbeid tijdelijk wordt onderbroken:
 
@@ -118,11 +144,11 @@ Verzekerd op grond van de volksverzekeringen blijft de persoon die niet in Neder
 
 - b. wegens verlof, staking of uitsluiting.
 
-#### Artikel 7. AWBZ-verzekerden
+##### Artikel 7. AWBZ-verzekerden
 
 Vervallen
 
-#### Artikel 8. Tijdelijk buiten Nederland studerenden en verpleegden
+##### Artikel 8. Tijdelijk buiten Nederland studerenden en verpleegden
 
 1. Verzekerd op grond van de volksverzekeringen blijft de persoon die een periode uitsluitend niet in Nederland woont wegens studieredenen indien die periode:
 
@@ -132,15 +158,15 @@ Vervallen
 
 2. Verzekerd op grond van de volksverzekeringen blijft de persoon die aansluitend op het wonen in Nederland, uitsluitend omdat hij wordt verpleegd in een door Onze Minister van Volksgezondheid, Welzijn en Sport aan te wijzen instelling, die overeenkomt met een instelling als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018906&artikel=1) die zorg levert waarop aanspraak bestaat ingevolge de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), niet meer in Nederland woont.
 
-#### Artikel 9. Niet in Nederland wonende zelfstandigen
+##### Artikel 9. Niet in Nederland wonende zelfstandigen
 
 Verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland woont en die belastbare winst uit Nederlandse onderneming als bedoeld in [afdeling 7.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&afdeling=7.2) geniet, mits hij in Nederland arbeid verricht voor die onderneming.
 
-#### Artikel 9a. Vreemdelingen met een verblijfsvergunning voor bepaalde tijd asiel
+##### Artikel 9a. Vreemdelingen met een verblijfsvergunning voor bepaalde tijd asiel
 
 Een vreemdeling die rechtmatig in Nederland verblijft, in de zin van [artikel 8, onder c, van de Vreemdelingenwet 2000](onbekend), is, ongeacht of hij als ingezetene kan worden beschouwd, niet eerder verzekerd op grond van de volksverzekeringen dan met ingang van de dag waarop positief op de verblijfsvergunningsaanvraag wordt beschikt.
 
-#### Artikel 10. Vreemdelingen in Nederland wonend
+##### Artikel 10. Vreemdelingen in Nederland wonend
 
 1. Verzekerd op grond van de volksverzekeringen is de in Nederland wonende vreemdeling die na rechtmatig in Nederland verblijf te hebben gehouden in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8):
 
@@ -154,7 +180,7 @@ Een vreemdeling die rechtmatig in Nederland verblijft, in de zin van [artikel 8,
 
 - b. de uitzetting van de vreemdeling is gelast, tenzij die uitzetting op grond van de [Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823) of op grond van een rechterlijke beslissing achterwege dient te blijven.
 
-#### Artikel 11. Vreemdelingen rechtmatig verblijf houdend in Nederland
+##### Artikel 11. Vreemdelingen rechtmatig verblijf houdend in Nederland
 
 1. Verzekerd op grond van de volksverzekeringen is de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder f tot en met k, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8)
 
@@ -168,7 +194,7 @@ indien hij:
 
 #### § 3. Beperking van de kring van verzekerden
 
-#### Artikel 12. Wonen in Nederland, werken buiten Nederland
+##### Artikel 12. Wonen in Nederland, werken buiten Nederland
 
 1. Niet verzekerd op grond van de volksverzekeringen is de persoon die in Nederland woont en die gedurende een aaneengesloten periode van ten minste drie maanden uitsluitend buiten Nederland arbeid verricht, tenzij die arbeid uitsluitend wordt verricht uit hoofde van een dienstbetrekking met een in Nederland wonende of gevestigde werkgever.
 
@@ -180,7 +206,7 @@ indien hij:
 
 3. Dit artikel is niet van toepassing op de persoon die in Nederland woont en in dienst is van een publiekrechtelijke rechtspersoon in Aruba, Curaçao, Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius of Saba, indien hij door de Nederlandse overheid is uitgezonden.
 
-#### Artikel 13. Personeelsleden ambassades en consulaten in Nederland en hun gezinsleden
+##### Artikel 13. Personeelsleden ambassades en consulaten in Nederland en hun gezinsleden
 
 1. Niet verzekerd op grond van de volksverzekeringen zijn de diplomatieke ambtenaar en de consulaire ambtenaar, niet zijnde honorair consul, van een andere mogendheid, tenzij zij:
 
@@ -230,7 +256,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 - b. een Nederlandse socialeverzekeringsuitkering ontvangen.
 
-#### Artikel 14. Personeelsleden in dienst van een in Nederland gevestigde volkenrechtelijke organisatie en hun gezinsleden
+##### Artikel 14. Personeelsleden in dienst van een in Nederland gevestigde volkenrechtelijke organisatie en hun gezinsleden
 
 1. Niet verzekerd op grond van de volksverzekeringen is de persoon die in dienst is van een volkenrechtelijke organisatie en op wie de regeling inzake sociale zekerheid van die organisatie van toepassing is, tenzij hij:
 
@@ -262,7 +288,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 - d. een Nederlandse socialeverzekeringsuitkering ontvangt.
 
-#### Artikel 15. Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba
+##### Artikel 15. Aruba, Curaçao, Sint Maarten en de openbare lichamen Bonaire, Sint Eustatius en Saba
 
 1. Niet verzekerd op grond van de volksverzekeringen is:
 
@@ -284,7 +310,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 - b. een Nederlandse sociale verzekeringsuitkering ontvangen.
 
-#### Artikel 16. Buitenlandse ambtenaren
+##### Artikel 16. Buitenlandse ambtenaren
 
 1. Niet verzekerd op grond van de volksverzekeringen is de persoon, voor zover niet reeds begrepen onder [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=13&z=2025-07-01&g=2025-07-01), die arbeid verricht uit hoofde van een dienstbetrekking met een buitenlandse publiekrechtelijke rechtspersoon, tenzij hij:
 
@@ -304,7 +330,7 @@ In afwijking van de eerste zin zijn de daar genoemde leden en particuliere bedie
 
 - b. een Nederlandse socialeverzekeringsuitkering ontvangen.
 
-#### Artikel 17. Rijdend, vliegend of varend personeel, in Nederland wonend
+##### Artikel 17. Rijdend, vliegend of varend personeel, in Nederland wonend
 
 Niet verzekerd op grond van de volksverzekeringen is de persoon die in Nederland woont en die behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een buiten Nederland wonende of gevestigde werkgever die internationaal vervoer verricht, tenzij hij:
 
@@ -312,17 +338,17 @@ Niet verzekerd op grond van de volksverzekeringen is de persoon die in Nederland
 
 - b. werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever in Nederland.
 
-#### Artikel 18. Tijdelijk in Nederland werkzaam personeel
+##### Artikel 18. Tijdelijk in Nederland werkzaam personeel
 
 Vervallen
 
-#### Artikel 19. Musici, artiesten en sporters
+##### Artikel 19. Musici, artiesten en sporters
 
 1. Niet verzekerd op grond van de volksverzekeringen is de persoon die niet in Nederland woont en die in Nederland als musicus of anderszins als artiest voor korte duur arbeid verricht.
 
 2. Voor de toepassing van het eerste lid wordt met artiest gelijkgesteld degene, die als beroep een tak van sport beoefent.
 
-#### Artikel 20. Tijdelijk in Nederland studerenden
+##### Artikel 20. Tijdelijk in Nederland studerenden
 
 1. Niet verzekerd op grond van de volksverzekeringen is de persoon die in Nederland verblijf houdt op grond van een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14), die is verleend onder een beperking verband houdende met studie, tenzij hij in Nederland:
 
@@ -336,7 +362,7 @@ Vervallen
 
 - b. beschikt over een verblijfsvergunning voor bepaalde tijd als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=14) die verleend is onder een beperking verband houdend met het zoeken naar en verrichten van arbeid al dan niet in loondienst.
 
-#### Artikel 21. Geen verzekering op grond van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 21. Geen verzekering op grond van de [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 1. Niet verzekerd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) is de persoon die in Nederland woont, doch die met toepassing van een verordening van de Raad van de Europese Gemeenschappen of van een door Nederland met een of meer andere staten gesloten verdrag inzake sociale zekerheid, in Nederland recht kan doen gelden op verstrekkingen die hem in beginsel worden verleend ten laste van een andere lidstaat van de Europese Unie dan wel een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of een staat waarmee Nederland een verdrag inzake sociale zekerheid heeft gesloten.
 
@@ -352,7 +378,7 @@ Vervallen
 
 7. De Sociale verzekeringsbank geeft op aanvraag van de persoon, bedoeld in het eerste, tweede, vierde of vijfde lid, een verklaring af dat hij niet verzekerd is.
 
-#### Artikel 22. Ontheffing verzekeringsplicht [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 22. Ontheffing verzekeringsplicht [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 1. De persoon die in Nederland woont en die recht heeft op een uitkering op grond van een buitenlandse wettelijke of bovenwettelijke regeling inzake sociale zekerheid of op grond van een regeling van een volkenrechtelijke organisatie wordt op zijn aanvraag, voor zolang hij geen arbeid in Nederland verricht, door de Sociale verzekeringsbank van de verzekering op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) ontheven, zolang hij:
 
@@ -370,53 +396,53 @@ Vervallen
 
 6. Het tweede lid, eerste zin, en het derde lid, zijn niet van toepassing indien de persoon bedoeld in het eerste lid, binnen de in die leden genoemde periode van een jaar respectievelijk ten hoogste drie jaar, een uitkering op grond van de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) dan wel kinderbijslag op grond van de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) heeft ontvangen.
 
-#### Artikel 23. Vreemdelingen, rechtmatig verblijf houdend in Nederland
+##### Artikel 23. Vreemdelingen, rechtmatig verblijf houdend in Nederland
 
 De vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=8), is niet op grond van het verrichten van arbeid, uit hoofde waarvan hij aan de loonbelasting is onderworpen, verzekerd voor de volksverzekeringen, indien hij voor een werkgever in Nederland, met uitzondering van het continentaal plat, arbeid verricht, zonder dat aan de [Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149) is voldaan.
 
 #### § 4. Gemeenschappelijke bepalingen
 
-#### Artikel 24. Hardheidsclausule
+##### Artikel 24. Hardheidsclausule
 
 De Sociale verzekeringsbank kan, met uitzondering van [artikel 22, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2025-07-01&g=2025-07-01), artikelen van dit besluit buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang van de uitbreiding en beperking van de kring van verzekerden zal leiden tot een onbillijkheid van overwegende aard, die uitsluitend voortvloeit uit de verzekeringsplicht of de uitsluiting daarvan krachtens dit besluit.
 
 #### § 4. Gemeenschappelijke bepalingen
 
-#### Artikel 25. Voortzetting verstrekkingen op grond van de AWBZ
+##### Artikel 25. Voortzetting verstrekkingen op grond van de AWBZ
 
 Vervallen
 
-#### Artikel 26. Overgangsrecht vreemdelingen met een verblijfsvergunning voor bepaalde tijd asiel
+##### Artikel 26. Overgangsrecht vreemdelingen met een verblijfsvergunning voor bepaalde tijd asiel
 
 [Artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=9a&z=2025-07-01&g=2025-07-01) zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) blijft van toepassing ten aanzien van de vreemdeling die op die dag op grond van dit artikel verzekerd was voor de volksverzekeringen.
 
-#### Artikel 27. Overgangsrecht personeelsleden in dienst van een in Nederland gevestigde volkenrechtelijke organisatie
+##### Artikel 27. Overgangsrecht personeelsleden in dienst van een in Nederland gevestigde volkenrechtelijke organisatie
 
 [Artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) verzekerd was op grond van de volksverzekeringen.
 
-#### Artikel 28. Voortzetting beschikkingen
+##### Artikel 28. Voortzetting beschikkingen
 
 Beschikkingen, gegeven op grond van de artikelen 18, 23, 24 en 25 van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 worden aangemerkt als beschikkingen op grond van de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=18&z=2025-07-01&g=2025-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=22&z=2025-07-01&g=2025-07-01) en [24](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=4&artikel=24&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 29. Ministeriële regelingen
+##### Artikel 29. Ministeriële regelingen
 
 Vervallen
 
-#### Artikel 30. Intrekking
+##### Artikel 30. Intrekking
 
 Het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989 wordt ingetrokken.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 januari 1999.
 
-#### Artikel 32. Citeertitel
+##### Artikel 32. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21a. Ontheffing verzekeringsplicht [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
+##### Artikel 21a. Ontheffing verzekeringsplicht [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917)
 
 1. In afwijking van [artikel 14, derde lid, aanhef en onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), is niet verzekerd op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) de persoon die op grond van een regeling van de in dat lid bedoelde organisatie aanspraken heeft op zorg of vergoeding van de kosten daarvan, mits wordt voldaan aan de voorwaarden bedoeld in [artikel 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01), die een ouderdomspensioen op grond van de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) ontvangt en aan wie de Sociale verzekeringsbank op zijn verzoek een ontheffing van de verzekering op grond van de Wet langdurige zorg heeft verleend, tenzij hij in Nederland arbeid verricht.
 
@@ -432,7 +458,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 21b. Ontheffing verzekeringsplicht [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
+##### Artikel 21b. Ontheffing verzekeringsplicht [Wlz](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368)
 
 1. Voorzover de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon, bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), niet van de verzekering op grond van de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917) zijn uitgesloten op grond van de [artikelen 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=14&z=2025-07-01&g=2025-07-01), [21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01) of [21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2025-07-01&g=2025-07-01), wordt, op aanvraag, door de Sociale verzekeringsbank een ontheffing verleend van de verzekering op grond van zowel de Wet langdurige zorg als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), indien de echtgenoot, kinderen en overige inwonende gezinsleden op grond van een regeling van een op grond van artikel 14, tweede lid, aangewezen volkenrechtelijke organisatie, aanspraken hebben op zorg of op vergoeding van de kosten daarvan mits wordt voldaan aan de voorwaarden bedoeld in [artikel 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01).
 
@@ -450,7 +476,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 3a. Rijksvertegenwoordiger op de BES-eilanden en zijn gezinsleden
+##### Artikel 3a. Rijksvertegenwoordiger op de BES-eilanden en zijn gezinsleden
 
 1. Verzekerd op grond van de volksverzekeringen is de Rijksvertegenwoordiger.
 
@@ -474,13 +500,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 28a. Grondslag eerder afgegeven verklaringen en ontheffingen
+##### Artikel 28a. Grondslag eerder afgegeven verklaringen en ontheffingen
 
 Door het Zorginstituut Nederland voor de inwerkingtreding van het Besluit van 26 februari 2011, houdende wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 in verband met het overdragen van de bevoegdheid tot het verlenen van een ontheffing van de verzekeringsplicht AWBZ aan de Sociale verzekeringsbank (Stb. 112) afgegeven verklaringen als bedoeld in [artikel 21](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01) en verleende ontheffingen als bedoeld in [artikel 21a](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2025-07-01&g=2025-07-01), worden aangemerkt als door de Sociale verzekeringsbank op grond van de desbetreffende artikelen afgegeven verklaringen en ontheffingen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a. Buiten Nederland en Europa werkzaam
+##### Artikel 11a. Buiten Nederland en Europa werkzaam
 
 1. Onverminderd de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) is verzekerd op grond van de volksverzekeringen de persoon die:
 
@@ -516,7 +542,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3. Beperking van de kring van verzekerden
 
-#### Artikel 21c. Ontheffing verzekeringsplicht [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) gezinsleden personen werkzaam bij niet in Nederland gevestigde volkenrechtelijke organisaties
+##### Artikel 21c. Ontheffing verzekeringsplicht [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614), [AOW](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), [ANW](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en [AKW](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) gezinsleden personen werkzaam bij niet in Nederland gevestigde volkenrechtelijke organisaties
 
 1. Aan de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon op wie [artikel 3, eerste lid, aanhef en onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), van toepassing is ongeacht of deze persoon een dienstbetrekking heeft met een Nederlandse publiekrechtelijke rechtspersoon, of aan de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van de persoon, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=12&z=2025-07-01&g=2025-07-01), wordt, op aanvraag, door de Sociale Verzekeringsbank een ontheffing verleend van de verzekering op grond van zowel de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), als de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221), de [Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795) en de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368), indien de echtgenoot, kinderen en overige inwonende gezinsleden op grond van een regeling van een op grond van artikel 3, eerste lid, onderdeel d, aangewezen volkenrechtelijke organisatie, aanspraak hebben op zorg of de vergoeding van de kosten daarvan, mits wordt voldaan aan de voorwaarden, bedoeld in [artikel 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01).
 
@@ -528,27 +554,27 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 27a. Overgangsrecht tijdelijk in Nederland studerenden
+##### Artikel 27a. Overgangsrecht tijdelijk in Nederland studerenden
 
 [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=20&z=2025-07-01&g=2025-07-01), zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) blijft van toepassing ten aanzien van de persoon die op die dag uitsluitend wegens studieredenen in Nederland woont en 30 jaar of ouder is.
 
-#### Artikel 27b. Overgangsrecht geen verzekering op grond van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en ontheffing verzekeringsplicht volksverzekeringen
+##### Artikel 27b. Overgangsrecht geen verzekering op grond van de [AWBZ](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) en ontheffing verzekeringsplicht volksverzekeringen
 
 De [artikelen 21, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21&z=2025-07-01&g=2025-07-01), [21a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21a&z=2025-07-01&g=2025-07-01), en [21b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=3&artikel=21b&z=2025-07-01&g=2025-07-01), zoals deze artikelen luidden op de dag voorafgaand aan de inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) blijven van toepassing ten aanzien van de persoon of de in Nederland wonende echtgenoot, kinderen en overige inwonende gezinsleden van deze persoon, bedoeld in deze artikelen, die op die dag op grond van artikel 21 niet waren verzekerd op grond van de [Algemene Wet Bijzondere Ziektekosten](https://wetten.overheid.nl/jci1.3:c:BWBR0002614) of op grond van de artikelen 21a of 21b waren ontheven van de verzekeringsplicht op grond van de in die artikelen genoemde volksverzekeringen.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 28b. Overgangsrecht Nederlanders, in dienst van een overheidswerkgever, in het buitenland
+##### Artikel 28b. Overgangsrecht Nederlanders, in dienst van een overheidswerkgever, in het buitenland
 
 1. [Artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op personen die onmiddellijk voor die datum verzekerd waren voor de volksverzekeringen op grond van dat lid zolang de verzekering op die grond voortduurt.
 
 2. Op de echtgenoot en de kinderen van de verzekerde, bedoeld in het eerste lid, is [artikel 3, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), van toepassing zolang de verzekering op grond van het eerste lid van de daar bedoelde verzekerde voortduurt.
 
-#### Artikel 28c. Overgangsrecht voortgezette verzekering op grond van artikel 8
+##### Artikel 28c. Overgangsrecht voortgezette verzekering op grond van artikel 8
 
 [Artikel 8, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0010182&paragraaf=2&artikel=8&z=2025-07-01&g=2025-07-01), zoals dat onmiddellijk voor 1 juli 2022 luidde, blijft van toepassing op de persoon die onmiddellijk voor die datum op grond van dit onderdeel verzekerd was voor de volksverzekeringen zolang de verzekering op grond van dit onderdeel voortduurt.
 
-#### Artikel 28d. Overgangsrecht ontheffing verzekeringsplicht personen werkzaam bij een in Nederland gevestigde buitenlandse instelling zonder winstoogmerk
+##### Artikel 28d. Overgangsrecht ontheffing verzekeringsplicht personen werkzaam bij een in Nederland gevestigde buitenlandse instelling zonder winstoogmerk
 
 Vervallen
 

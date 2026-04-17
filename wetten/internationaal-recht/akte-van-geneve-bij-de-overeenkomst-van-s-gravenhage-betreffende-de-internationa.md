@@ -1,18 +1,40 @@
 ---
 title: "Akte van Genève bij de Overeenkomst van 's-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid"
 identifier: "BWBV0006367"
-categorie: "Internationaal recht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006367"
+country: "nl"
+rank: "verdrag"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006367"
+soort: "verdrag"
+stam_id: "10005202583"
+version_id: "10005585942"
+internal_id: "C10009484491"
+label_id: "10005186094"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006367/2024-01-01/0"
+intitule_bron: "Trb.2000-102"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2000-09-08"
+intitule_in_force: "2018-11-02"
+intitule_status: "goed"
+original_publication: "Trb.2000-102"
+original_published_date: "2000-09-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2000-102"
+entry_into_force_date: "2018-12-18"
+jci_1_3: "jci1.3:c:BWBV0006367&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBV0006367&g=2024-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2018-12-18"
 ---
-
 # Akte van Genève bij de Overeenkomst van 's-Gravenhage betreffende de internationale inschrijving van tekeningen of modellen van nijverheid
 
 ### INLEIDENDE BEPALINGEN
 
-#### Artikel 1. Afgekorte uitdrukkingen
+##### Artikel 1. Afgekorte uitdrukkingen
 
 In deze Akte wordt verstaan onder:
 
@@ -74,7 +96,7 @@ In deze Akte wordt verstaan onder:
 
 - xxix. „akte van bekrachtiging”: wordt geacht tevens de akten van aanvaarding of goedkeuring te omvatten.
 
-#### Artikel 2. Andere bescherming toegekend door de wetten van de Verdragsluitende Partijen en door bepaalde internationale verdragen
+##### Artikel 2. Andere bescherming toegekend door de wetten van de Verdragsluitende Partijen en door bepaalde internationale verdragen
 
 1. [**Wetten van de Verdragsluitende Partijen en bepaalde internationale verdragen**] De bepalingen van deze Akte laten onverlet de toepassing van een ruimere bescherming die kan worden toegekend door de wetgeving van een Verdragsluitende Partij en doen op geen enkele wijze afbreuk aan de bescherming die door internationale verdragen en overeenkomsten inzake auteursrecht wordt verleend aan werken van kunst en werken van kunstnijverheid, noch aan de bescherming die aan tekeningen of modellen van nijverheid wordt verleend krachtens de [Overeenkomst inzake de handelsaspecten van de intellectuele eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0001160&bijlage=IC), bijlage bij de [Overeenkomst tot oprichting van de Wereldhandelsorganisatie](onbekend).
 
@@ -82,11 +104,11 @@ In deze Akte wordt verstaan onder:
 
 ### HOOFDSTUK I. INTERNATIONALE AANVRAAG EN INTERNATIONALE INSCHRIJVING
 
-#### Artikel 3. Bevoegdheid tot indiening van een internationale aanvraag
+##### Artikel 3. Bevoegdheid tot indiening van een internationale aanvraag
 
 Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat die lid is van een intergouvernementele organisatie die een Verdragsluitende Partij is, of elke persoon die zijn woonplaats, gewone verblijfplaats of een daadwerkelijke en wezenlijke inrichting van nijverheid of handel op het grondgebied van een Verdragsluitende Partij heeft, is bevoegd een internationale aanvraag in te dienen.
 
-#### Artikel 4. Procedure voor indiening van de internationale aanvraag
+##### Artikel 4. Procedure voor indiening van de internationale aanvraag
 
 1. [**Rechtstreekse of indirecte aanvraag**]
 
@@ -96,7 +118,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 2. [**Taksen voor doorzending in geval van een indirecte aanvraag**] Het Bureau van elke Verdragsluitende Partij kan verlangen dat de aanvrager hem, voor eigen rekening, een taks voor doorzending betaalt voor elke internationale aanvraag die door zijn tussenkomst wordt ingediend.
 
-#### Artikel 5. Inhoud van de internationale aanvraag
+##### Artikel 5. Inhoud van de internationale aanvraag
 
 1. [**Verplichte inhoud van de internationale aanvraag**] De internationale aanvraag wordt opgesteld in de voorgeschreven taal of in een van de voorgeschreven talen; de aanvraag dient te bevatten of vergezeld te gaan van:
 
@@ -134,7 +156,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 5. [**Verzoek tot opschorting van de publicatie**] De internationale aanvraag kan een verzoek tot opschorting van publicatie bevatten.
 
-#### Artikel 6. Voorrang
+##### Artikel 6. Voorrang
 
 1. [**Aanspraak op voorrang**]
 
@@ -144,7 +166,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 2. [**Internationale aanvraag die als basis dient voor een aanspraak op voorrang**] Te rekenen vanaf de datum van indiening is de internationale aanvraag gelijkwaardig aan een regelmatig depot in de betekenis van [artikel 4 van het Verdrag van Parijs](onbekend), ongeacht het latere lot daarvan.
 
-#### Artikel 7. Aanwijzingstaksen
+##### Artikel 7. Aanwijzingstaksen
 
 1. [**Voorgeschreven aanwijzingstaks**] De voorgeschreven taksen omvatten, onverminderd het bepaalde in het tweede lid, een aanwijzingstaks voor elke aangewezen Verdragsluitende Partij.
 
@@ -152,7 +174,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 3. [**Overmaking van aanwijzingstaksen**] De in het eerste en tweede lid bedoelde aanwijzingstaksen worden door het Internationaal Bureau overgemaakt aan de Verdragsluitende Partijen ten aanzien van welke deze taksen zijn betaald.
 
-#### Artikel 8. Correctie van onregelmatigheden
+##### Artikel 8. Correctie van onregelmatigheden
 
 1. [**Onderzoek van de internationale aanvraag**] Indien het Internationaal Bureau constateert dat de internationale aanvraag, ten tijde van de ontvangst hiervan door het Internationaal Bureau, niet voldoet aan de voorwaarden van deze Akte en van het Reglement van uitvoering, verzoekt het de aanvrager deze binnen de voorgeschreven termijn te corrigeren.
 
@@ -162,7 +184,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 - b. In het geval van een onregelmatigheid met betrekking tot [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=5&z=2024-01-01&g=2024-01-01), of een bijzondere eis waarvan aan de Directeur-Generaal kennisgeving is gedaan door een Verdragsluitende Partij overeenkomstig het Reglement van uitvoering, wordt, wanneer de aanvrager binnen de voorgeschreven termijn geen gevolg geeft aan het verzoek, de internationale aanvraag geacht de aanwijzing van die Verdragsluitende Partij niet te bevatten.
 
-#### Artikel 9. Datum van indiening van de internationale aanvraag
+##### Artikel 9. Datum van indiening van de internationale aanvraag
 
 1. [**Rechtstreeks ingediende internationale aanvraag**] Wanneer de internationale aanvraag rechtstreeks wordt ingediend bij het Internationaal Bureau, is de datum van indiening, onverminderd het bepaalde in het derde lid, de datum waarop het Internationaal Bureau de internationale aanvraag ontvangt.
 
@@ -170,7 +192,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 3. [**Internationale aanvraag die bepaalde onregelmatigheden bevat**] Wanneer de internationale aanvraag op de datum waarop deze door het Internationaal Bureau wordt ontvangen een onregelmatigheid bevat die is voorgeschreven als een onregelmatigheid die leidt tot uitstel van de indiening van de internationale aanvraag, is de datum van indiening de datum waarop de correctie van deze onregelmatigheid door het Internationaal Bureau wordt ontvangen.
 
-#### Artikel 10. 1) Bij de aanneming van artikel 10 heeft de diplomatieke conferentie afgesproken dat niets in dit artikel de toegang belet tot een internationale aanvraag of een internationale inschrijving door de aanvrager of de houder of elke door de aanvrager of houder daartoe gemachtigde persoon.Internationale inschrijving, datum van internationale inschrijving, publicatie en vertrouwelijke afschriften van de internationale inschrijving
+##### Artikel 10. 1) Bij de aanneming van artikel 10 heeft de diplomatieke conferentie afgesproken dat niets in dit artikel de toegang belet tot een internationale aanvraag of een internationale inschrijving door de aanvrager of de houder of elke door de aanvrager of houder daartoe gemachtigde persoon.Internationale inschrijving, datum van internationale inschrijving, publicatie en vertrouwelijke afschriften van de internationale inschrijving
 
 1. [**Internationale inschrijving**] Het Internationaal Bureau schrijft elke tekening of elk model van nijverheid waarop een internationale aanvraag betrekking heeft in zodra het deze ontvangt of, wanneer de aanvrager wordt verzocht de aanvraag ingevolge [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=8&z=2024-01-01&g=2024-01-01) te corrigeren, zodra de voor de correctie benodigde elementen zijn ontvangen. De inschrijving wordt verricht, ongeacht het feit of de publicatie al dan niet ingevolge [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=11&z=2024-01-01&g=2024-01-01) wordt opgeschort.
 
@@ -194,7 +216,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 - b. Tot aan de publicatie van de internationale inschrijving door het Internationaal Bureau houdt het Bureau elke internationale inschrijving waarvan hem door het Internationaal Bureau een afschrift is gezonden geheim en kan het dit afschrift uitsluitend gebruiken ten behoeve van het onderzoek van de internationale inschrijving en van aanvragen tot bescherming van tekeningen of modellen van nijverheid die zijn ingediend in of voor de Verdragsluitende Partij voor welke het Bureau bevoegd is. In het bijzonder mag het Bureau de inhoud van een dergelijke internationale inschrijving aan geen enkele persoon buiten het Bureau bekendmaken anders dan aan de houder van deze internationale inschrijving, behoudens ten behoeve van een administratieve of gerechtelijke procedure inzake een conflict met betrekking tot de bevoegdheid tot het indienen van de internationale aanvraag waarop de internationale inschrijving is gebaseerd. In het geval van een dergelijke administratieve of gerechtelijke procedure kan de inhoud van de internationale inschrijving uitsluitend op vertrouwelijke basis worden bekendgemaakt aan de bij de procedure betrokken partijen, die gehouden zijn de vertrouwelijke aard van de bekendmaking te eerbiedigen.
 
-#### Artikel 11. Opschorting van de publicatie
+##### Artikel 11. Opschorting van de publicatie
 
 1. [**Wettelijke bepalingen van de Verdragsluitende Partijen met betrekking tot de opschorting van de publicatie**]
 
@@ -232,7 +254,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 - b. Wanneer de internationale aanvraag overeenkomstig [artikel 5, eerste lid, onder iii](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=5&z=2024-01-01&g=2024-01-01), vergezeld is gegaan van een of meerdere specimens van de tekening of het model van nijverheid, overlegt de houder aan het Internationaal Bureau binnen de voorgeschreven termijn het voorgeschreven aantal exemplaren van een reproductie van elke tekening die of elk model van nijverheid dat het onderwerp is van deze aanvraag. Voor zover de houder zulks niet doet, wordt de internationale inschrijving doorgehaald en wordt niet overgegaan tot publicatie.
 
-#### Artikel 12. Weigering
+##### Artikel 12. Weigering
 
 1. [**Recht van weigering**] Het Bureau van een aangewezen Verdragsluitende Partij kan, wanneer ten aanzien van een, meerdere of alle tekeningen of modellen van nijverheid die het onderwerp zijn van een internationale inschrijving, niet wordt voldaan aan de voorwaarden ingevolge de wetgeving van die Verdragsluitende Partij voor de toekenning van bescherming, de rechtsgevolgen van de internationale inschrijving geheel of ten dele weigeren op het grondgebied van de genoemde Verdragsluitende Partij, met dien verstande dat geen enkel Bureau evenwel de rechtsgevolgen van een internationale inschrijving geheel of ten dele kan weigeren op grond van het feit dat ingevolge de wetgeving van de betrokken Verdragsluitende Partij niet wordt voldaan aan eisen ten aanzien van de vorm of inhoud van de internationale aanvraag als voorzien in, aanvullend op of afwijkend van in deze Akte of in het Reglement van uitvoering vervatte eisen.
 
@@ -250,7 +272,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 4. 2) Bij de aanneming van artikel 12, vierde lid, artikel 14, tweede lid, onder b), en regel 18, vierde lid, heeft de diplomatieke conferentie afgesproken dat de intrekking van een weigering door een Bureau dat een kennisgeving van weigering heeft medegedeeld, de vorm kan aannemen van een verklaring luidende dat het betrokken Bureau heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden voor alle of een gedeelte van de tekeningen of modellen van nijverheid waarop de kennisgeving van weigering van toepassing is. Er werd eveneens afgesproken dat een Bureau binnen de voor de mededeling van een kennisgeving van weigering voorgeschreven termijn een verklaring kan verzenden luidende dat het heeft besloten de rechtsgevolgen van de internationale inschrijving te aanvaarden, zelfs wanneer het een dergelijke kennisgeving van weigering niet heeft medegedeeld. [**Intrekking van weigering**] Elke weigering kan te allen tijde geheel of ten dele worden ingetrokken door het Bureau dat de weigering heeft medegedeeld.
 
-#### Artikel 13. Bijzondere vereisten ten aanzien van de eenheid van de tekening of het model
+##### Artikel 13. Bijzondere vereisten ten aanzien van de eenheid van de tekening of het model
 
 1. [**Kennisgeving van bijzondere vereisten**] Elke Verdragsluitende Partij waarvan de wetgeving, op het tijdstip waarop zij partij wordt bij deze Akte, vereist dat de tekeningen of modellen die het onderwerp zijn van een en dezelfde aanvraag voldoen aan een vereiste van eenheid van ontwerp, eenheid van vervaardiging of eenheid van gebruik of toebehoren aan een en dezelfde verzameling of samenstelling van artikelen, of dat een enkele onafhankelijke en onderscheiden tekening of een enkel onafhankelijk of onderscheiden model kan worden geclaimd in dezelfde aanvraag, kan van dit vereiste in een verklaring kennisgeving doen aan de Directeur-Generaal. Een dergelijke verklaring laat het recht van de aanvrager van een internationale aanvraag evenwel onverlet, overeenkomstig [artikel 5, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=5&z=2024-01-01&g=2024-01-01), meerdere tekeningen of modellen van nijverheid in die aanvraag te vermelden, zelfs indien de Verdragsluitende Partij die de verklaring heeft gedaan, in de aanvraag wordt aangewezen.
 
@@ -258,7 +280,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 3. [**Aanvullende taksen verschuldigd in geval van splitsing van een inschrijving**] Indien een internationale inschrijving, na een kennisgeving van weigering krachtens het tweede lid, bij het betrokken Bureau wordt gesplitst om een in de kennisgeving vermelde weigeringsgrond te ondervangen, is dat Bureau bevoegd een taks te heffen voor elke aanvullende internationale aanvraag die nodig zou zijn geweest om die weigeringsgrond te vermijden.
 
-#### Artikel 14. Rechtsgevolgen van de internationale inschrijving
+##### Artikel 14. Rechtsgevolgen van de internationale inschrijving
 
 1. [**Dezelfde rechtsgevolgen als die van een aanvraag ingevolge de toepasselijke wetgeving**] Te rekenen vanaf de datum van internationale inschrijving heeft de internationale inschrijving in elke aangewezen Verdragsluitende Partij ten minste dezelfde rechtsgevolgen als een regelmatig ingediende aanvraag ter verkrijging van de bescherming van de tekening of het model van nijverheid ingevolge de wetgeving van die Verdragsluitende Partij.
 
@@ -276,13 +298,13 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 - b. Wanneer een Verdragsluitende Partij die de onder a) bedoelde verklaring heeft gedaan, wordt genoemd in een internationale aanvraag zijnde tegelijkertijd de Verdragsluitende Partij van de aanvrager en een aangewezen Verdragsluitende Partij, neemt het Internationaal Bureau de aanwijzing van die Verdragsluitende Partij niet in acht.
 
-#### Artikel 15. Ongeldigverklaring
+##### Artikel 15. Ongeldigverklaring
 
 1. [**Mogelijkheid van de houder om zijn rechten te doen gelden**] De gedeeltelijke of volledige ongeldigverklaring door de bevoegde autoriteiten van een aangewezen Verdragsluitende Partij van de rechtsgevolgen van de internationale inschrijving op het grondgebied van die Verdragsluitende Partij kan niet worden uitgesproken zonder dat de houder in staat is gesteld tijdig zijn rechten te doen gelden.
 
 2. [**Kennisgeving van de ongeldigverklaring**] Het Bureau van de Verdragsluitende Partij op het grondgebied waarvan de rechtsgevolgen van de internationale inschrijving ongeldig zijn verklaard, doet, wanneer het van de ongeldigverklaring op de hoogte is, hiervan kennisgeving aan het Internationaal Bureau.
 
-#### Artikel 16. Aantekening van wijzigingen en andere aangelegenheden betreffende internationale inschrijvingen
+##### Artikel 16. Aantekening van wijzigingen en andere aangelegenheden betreffende internationale inschrijvingen
 
 1. [**Aantekening van wijzigingen en andere aangelegenheden**] Het Internationaal Bureau tekent op de voorgeschreven wijze in het internationaal register aan:
 
@@ -306,7 +328,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 4. [**Publicatie**] Het Internationaal Bureau publiceert een mededeling betreffende elke ingevolge het eerste lid gedane aantekening. Het zendt een exemplaar van de publicatie van de mededeling aan het Bureau van elk van de betrokken Verdragsluitende Partijen.
 
-#### Artikel 17. Initieel tijdvak en vernieuwing van de internationale inschrijving en tijdsduur van de bescherming
+##### Artikel 17. Initieel tijdvak en vernieuwing van de internationale inschrijving en tijdsduur van de bescherming
 
 1. [**Initieel tijdvak van de internationale inschrijving**] De internationale inschrijving wordt verricht voor een initieel tijdvak van vijf jaar te rekenen vanaf de datum van de internationale inschrijving.
 
@@ -324,7 +346,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 5. [Aantekening **en publicatie van de vernieuwing**] Het Internationaal Bureau tekent de vernieuwingen in het internationale register aan en publiceert hiervan een mededeling. Het zendt een exemplaar van de publicatie van de mededeling aan het Bureau van elk van de betrokken Verdragsluitende Partijen.
 
-#### Artikel 18. Informatie met betrekking tot de gepubliceerde internationale inschrijvingen
+##### Artikel 18. Informatie met betrekking tot de gepubliceerde internationale inschrijvingen
 
 1. [**Toegang tot de informatie**] Het Internationaal Bureau verstrekt aan elke persoon die daarom verzoekt, tegen betaling van de voorgeschreven taks, uittreksels uit het internationale register, of informatie over de inhoud van het internationale register, met betrekking tot elke gepubliceerde internationale inschrijving.
 
@@ -332,7 +354,7 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 ### HOOFDSTUK II. ADMINISTRATIEVE BEPALINGEN
 
-#### Artikel 19. Gemeenschappelijk Bureau van meerdere Staten
+##### Artikel 19. Gemeenschappelijk Bureau van meerdere Staten
 
 1. [**Kennisgeving inzake een gemeenschappelijk Bureau**] Indien meerdere Staten die van plan zijn partij te worden bij deze Akte de unificatie van hun nationale wetten inzake tekeningen of modellen van nijverheid hebben gerealiseerd, of indien meerdere staten die Partij zijn bij deze Akte zulks overeenkomen, kunnen zij de Directeur-Generaal ervan kennisgeving doen:
 
@@ -352,11 +374,11 @@ Elke onderdaan van een Staat die een Verdragsluitende Partij is of van een Staat
 
 - ii. in het geval van Staten die partij zijn bij deze Akte, drie maanden na de datum van de mededeling die hiervan wordt gedaan door de Directeur-Generaal aan de andere Verdragsluitende Partijen of op enige in de kennisgeving vermelde latere datum.
 
-#### Artikel 20. Lidmaatschap van de Unie van 's-Gravenhage
+##### Artikel 20. Lidmaatschap van de Unie van 's-Gravenhage
 
 De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die partij zijn bij de Akte van 1934 of bij de [Akte van 1960](onbekend).
 
-#### Artikel 21. Algemene Vergadering
+##### Artikel 21. Algemene Vergadering
 
 1. [**Samenstelling**]
 
@@ -426,7 +448,7 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 7. [**Reglement van orde**] De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 22. Internationaal Bureau
+##### Artikel 22. Internationaal Bureau
 
 1. [**Administratieve taken**]
 
@@ -454,7 +476,7 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 6. [**Overige taken**] Het Internationaal Bureau voert alle overige aan hem met betrekking tot deze Akte opgedragen taken uit.
 
-#### Artikel 23. Financiën
+##### Artikel 23. Financiën
 
 1. [**Begroting**]
 
@@ -496,7 +518,7 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 7. [**Nazien van rekeningen**] Het nazien van de rekeningen wordt verricht op de wijze voorzien in het financieel reglement, door een of meer Staten die lid zijn van de Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 24. Reglement van uitvoering
+##### Artikel 24. Reglement van uitvoering
 
 1. [**Onderwerp**] Het Reglement van uitvoering regelt de wijze van toepassing van deze Akte. Het omvat in het bijzonder bepalingen met betrekking tot:
 
@@ -518,13 +540,13 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 ### HOOFDSTUK III. HERZIENING EN WIJZIGING
 
-#### Artikel 25. Herziening van deze Akte
+##### Artikel 25. Herziening van deze Akte
 
 1. [**Herzieningsconferenties**] Deze Akte kan worden herzien door een conferentie van de Verdragsluitende Partijen.
 
 2. [**Herziening of wijziging van bepaalde artikelen**] De [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=II&artikel=21&z=2024-01-01&g=2024-01-01), [22](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=II&artikel=22&z=2024-01-01&g=2024-01-01), [23](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=II&artikel=23&z=2024-01-01&g=2024-01-01) en [26](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=III&artikel=26&z=2024-01-01&g=2024-01-01) kunnen worden gewijzigd hetzij door een herzieningsconferentie, hetzij door de Algemene Vergadering overeenkomstig de bepalingen van artikel 26.
 
-#### Artikel 26. Wijziging van bepaalde artikelen door de Algemene Vergadering
+##### Artikel 26. Wijziging van bepaalde artikelen door de Algemene Vergadering
 
 1. [**Voorstellen tot wijziging**]
 
@@ -544,7 +566,7 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 ### HOOFDSTUK IV. SLOTBEPALINGEN
 
-#### Artikel 27. Partij worden bij deze Akte
+##### Artikel 27. Partij worden bij deze Akte
 
 1. [**Te vervullen voorwaarden**] Onverminderd het bepaalde in het tweede en derde lid en [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=IV&artikel=28&z=2024-01-01&g=2024-01-01),
 
@@ -570,7 +592,7 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 - e. Elke verklaring gedaan ingevolge het bepaalde onder d) kan, te allen tijde, geheel of ten dele worden ingetrokken. De intrekking wordt van kracht op de datum waarop de kennisgeving van intrekking door de Directeur-Generaal wordt ontvangen.
 
-#### Artikel 28. Datum waarop de bekrachtigingen en toetredingen van kracht worden
+##### Artikel 28. Datum waarop de bekrachtigingen en toetredingen van kracht worden
 
 1. [**Akten die in overweging worden genomen**] Voor de toepassing van dit artikel worden uitsluitend in overweging genomen de akten van bekrachtiging of toetreding die door de in [artikel 27, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=IV&artikel=27&z=2024-01-01&g=2024-01-01), bedoelde Staten of intergouvernementele organisaties zijn nedergelegd en voor welke de voorwaarden van artikel 27, derde lid, ten aanzien van de datum waarop zij van kracht zijn geworden, zijn vervuld.
 
@@ -586,11 +608,11 @@ De Verdragsluitende Partijen zijn leden van dezelfde Unie als de Staten die part
 
 - b. Elke andere Staat of intergouvernementele organisatie wordt gebonden door deze Akte drie maanden na de datum waarop hij of zij zijn of haar akte van bekrachtiging of toetreding heeft nedergelegd of op enige in die akte aangegeven latere datum.
 
-#### Artikel 29. Verbod op voorbehouden
+##### Artikel 29. Verbod op voorbehouden
 
 Ten aanzien van deze Akte kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 30. Door de Verdragsluitende Partijen gedane verklaringen
+##### Artikel 30. Door de Verdragsluitende Partijen gedane verklaringen
 
 1. [**Tijdstip waarop de verklaringen kunnen worden gedaan**] Elke verklaring ingevolge [artikel 4, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=4&z=2024-01-01&g=2024-01-01), [artikel 5, tweede lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=5&z=2024-01-01&g=2024-01-01), [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=7&z=2024-01-01&g=2024-01-01), [artikel 11, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=11&z=2024-01-01&g=2024-01-01), [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=13&z=2024-01-01&g=2024-01-01), [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=14&z=2024-01-01&g=2024-01-01), [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=16&z=2024-01-01&g=2024-01-01), of [artikel 17, derde lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=17&z=2024-01-01&g=2024-01-01), kan worden gedaan:
 
@@ -602,7 +624,7 @@ Ten aanzien van deze Akte kan geen enkel voorbehoud worden gemaakt.
 
 3. [**Intrekking van verklaringen**] Elke in het eerste lid bedoelde verklaring kan te allen tijde worden ingetrokken door middel van een aan de Directeur-Generaal gerichte kennisgeving. Een dergelijke intrekking wordt van kracht drie maanden na de datum van ontvangst van de kennisgeving door de Directeur-Generaal of op een in de kennisgeving aangegeven latere datum. In het geval van een verklaring ingevolge [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=7&z=2024-01-01&g=2024-01-01), heeft de intrekking geen gevolgen voor internationale aanvragen die zijn ingediend voorafgaand aan het van kracht worden van de genoemde intrekking.
 
-#### Artikel 31. Toepasselijkheid van de Akten van 1934 en [1960](onbekend)
+##### Artikel 31. Toepasselijkheid van de Akten van 1934 en [1960](onbekend)
 
 1. [**Betrekkingen tussen de Staten die Partij zijn bij zowel deze Akte als bij de Akte van 1934 of bij die van 1960**] De Staten die partij zijn bij zowel deze Akte als bij de Akte van 1934 of bij de [Akte van 1960](onbekend), worden in hun wederzijdse betrekkingen alleen door deze Akte gebonden. Deze Staten zijn echter gehouden in hun wederzijdse betrekkingen de bepalingen van de Akte van 1934 of die van de Akte van 1960 toe te passen, al naargelang het geval, op de tekeningen of modellen van nijverheid die bij het Internationaal Bureau zijn gedeponeerd vóór de datum waarop deze Akte hen in hun wederzijdse betrekkingen bindt.
 
@@ -612,13 +634,13 @@ Ten aanzien van deze Akte kan geen enkel voorbehoud worden gemaakt.
 
 - b. Elke Staat die partij is bij zowel deze Akte als bij de [Akte van 1960](onbekend), is gehouden de bepalingen van de Akte van 1960 toe te passen in zijn betrekkingen tot de Staten die partij zijn bij de Akte van 1960 zonder tegelijkertijd partij te zijn bij deze Akte.
 
-#### Artikel 32. Opzegging van deze Akte
+##### Artikel 32. Opzegging van deze Akte
 
 1. [**Kennisgeving**] Elke Verdragsluitende Partij kan deze Akte opzeggen door een aan de Directeur-Generaal te richten kennisgeving.
 
 2. [**Vankrachtwording**] De opzegging wordt van kracht een jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen of op enige in de kennisgeving aangegeven latere datum. De opzegging heeft, ten aanzien van de betrokken Verdragsluitende Partij, geen enkel gevolg voor de toepassing van deze Akte op internationale aanvragen die aanhangig zijn en op internationale inschrijvingen die van kracht zijn op het moment dat de opzegging van kracht wordt.
 
-#### Artikel 33. Talen van deze Akte; Ondertekening
+##### Artikel 33. Talen van deze Akte; Ondertekening
 
 1. [**Oorspronkelijke teksten; officiële teksten**]
 
@@ -628,13 +650,13 @@ Ten aanzien van deze Akte kan geen enkel voorbehoud worden gemaakt.
 
 2. [**Termijn voor de ondertekening**] Deze Akte staat open voor ondertekening op de zetel van de Organisatie gedurende een jaar na de aanneming daarvan.
 
-#### Artikel 34. Depositaris
+##### Artikel 34. Depositaris
 
 De Directeur-Generaal is de depositaris van deze Akte.
 
 ### HOOFDSTUK 1. ALGEMENE BEPALINGEN
 
-#### Regel 1. Begripsomschrijvingen
+##### Regel 1. Begripsomschrijvingen
 
 1. [**Verkorte uitdrukkingen**]
 
@@ -686,11 +708,11 @@ Voor de toepassing van dit Reglement van uitvoering
 
 - v. wordt een verwijzing naar „individuele aanwijzingstaks” geacht, in voorkomend geval, een verwijzing te omvatten naar de taks genoemd in [artikel 15, eerste lid, onderdeel 2, onder b, van de Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=15).
 
-#### Regel 2. Mededelingen aan het Internationaal Bureau
+##### Regel 2. Mededelingen aan het Internationaal Bureau
 
 De aan het Internationaal Bureau gerichte mededelingen dienen te worden gedaan op de in de administratieve instructies vermelde wijze.
 
-#### Regel 3. Vertegenwoordiging bij het Internationaal Bureau
+##### Regel 3. Vertegenwoordiging bij het Internationaal Bureau
 
 1. [**Gemachtigde; aantal gemachtigden**]
 
@@ -730,7 +752,7 @@ De aan het Internationaal Bureau gerichte mededelingen dienen te worden gedaan o
 
 - c. Het Internationaal Bureau doet van de doorhaling en van de datum waarop deze van kracht wordt mededeling aan de gemachtigde wiens inschrijving is doorgehaald en aan de aanvrager of de houder.
 
-#### Regel 4. Berekening van termijnen
+##### Regel 4. Berekening van termijnen
 
 1. [**Termijnen uitgedrukt in jaren**]
 
@@ -748,7 +770,7 @@ De berekening van elke termijn uitgedrukt in dagen begint te lopen op de dag vol
 
 Indien een termijn afloopt op een dag waarop het Internationaal Bureau of het betrokken Bureau niet open is voor het publiek, loopt de termijn, onverminderd het bepaalde in het eerste tot en met derde lid, af op de eerstvolgende dag waarop het Internationaal Bureau of het betrokken Bureau open is voor het publiek.
 
-#### Regel 5. Toelaatbaarheid van vertraging bij het nakomen van termijnen
+##### Regel 5. Toelaatbaarheid van vertraging bij het nakomen van termijnen
 
 1. [**Het aanvaarden van het overschrijden van een termijn wegens overmacht**] Het niet-naleven door een betrokken partij van een in het Reglement vermelde termijn voor het verrichten van een handeling voor het Internationaal Bureau is toelaatbaar indien de betrokken partij ten genoegen van het Internationaal Bureau het bewijs levert dat deze niet-naleving het gevolg was van oorlog, revolutie, binnenlandse ordeverstoring, staking, natuurramp, epidemie, onregelmatigheden bij de postale, bezorgings- of elektronische communicatiediensten als gevolg van omstandigheden buiten de macht van de belanghebbende of een andere omstandigheid van overmacht.
 
@@ -756,7 +778,7 @@ Indien een termijn afloopt op een dag waarop het Internationaal Bureau of het be
 
 3. [**Beperking van de toelaatbaarheid**] De niet-naleving van een termijn is slechts toelaatbaar ingevolge deze regel indien het in het eerste lid bedoelde bewijs of de verklaring bedoeld in het tweede lid zo snel als redelijkerwijs mogelijk, en uiterlijk zes maanden na het verstrijken van de betreffende termijn, worden ontvangen door en worden uitgevoerd voor het Internationaal Bureau.
 
-#### Regel 6. Talen
+##### Regel 6. Talen
 
 1. [**Internationale aanvraag**]
 
@@ -782,7 +804,7 @@ De vertalingen die nodig zijn ten behoeve van de aantekeningen en publicaties in
 
 ### HOOFDSTUK 2. INTERNATIONALE AANVRAGEN EN INTERNATIONALE INSCHRIJVINGEN
 
-#### Regel 7. Vereisten met betrekking tot de internationale aanvraag
+##### Regel 7. Vereisten met betrekking tot de internationale aanvraag
 
 1. [**Formulier en ondertekening**]
 
@@ -842,7 +864,7 @@ Wanneer de internationale aanvraag andere aanduidingen bevat dan vereist of toeg
 
 Alle voortbrengselen die de in de internationale aanvraag inbegrepen tekeningen of modellen van nijverheid vormen, of in samenhang waarmee deze tekeningen of modellen dienen te worden gebruikt, dienen te behoren tot dezelfde klasse van de internationale classificatie.
 
-#### Regel 8. Bijzondere vereisten met betrekking tot de aanvrager en de ontwerper
+##### Regel 8. Bijzondere vereisten met betrekking tot de aanvrager en de ontwerper
 
 1. [**Kennisgeving van bijzondere vereisten met betrekking tot de aanvrager en de ontwerper**]
 
@@ -866,7 +888,7 @@ Wanneer een internationale aanvraag de aanwijzing bevat van een Verdragsluitende
 
 Wanneer een internationale aanvraag de aanwijzing bevat van een Verdragsluitende Partij die een in het eerste lid, onderdeel a, onder ii, bedoelde verklaring heeft gedaan, dient de aanvraag tevens vermeldingen te omvatten over de identiteit van de ontwerper van de tekening of het model van nijverheid.
 
-#### Regel 9. Reproducties van de tekening of het model van nijverheid
+##### Regel 9. Reproducties van de tekening of het model van nijverheid
 
 1. [**Vorm en aantal van de reproducties van de tekening of het model van nijverheid**]
 
@@ -890,7 +912,7 @@ Wanneer een internationale aanvraag de aanwijzing bevat van een Verdragsluitende
 
 Een Verdragsluitende Partij kan de rechtsgevolgen van de internationale inschrijving niet weigeren op grond van het feit dat de vereisten met betrekking tot de vorm van de reproducties van de tekening of het model van nijverheid die worden toegevoegd aan of afwijken van de vereisten waarvan door die Verdragsluitende Partij overeenkomstig het derde lid, onderdeel a, kennisgeving wordt gedaan, volgens haar wetgeving, niet zijn vervuld. Een Verdragsluitende Partij kan de rechtsgevolgen van de internationale inschrijving evenwel weigeren op grond van het feit dat de in de internationale inschrijving weergegeven reproducties onvoldoende zijn om de tekening of het model van nijverheid volledig te tonen.
 
-#### Regel 10. Specimens van de tekening of het model van nijverheid in geval van een verzoek tot opschorting van de publicatie
+##### Regel 10. Specimens van de tekening of het model van nijverheid in geval van een verzoek tot opschorting van de publicatie
 
 1. [**Aantal specimens**]
 
@@ -904,7 +926,7 @@ Wanneer een internationale aanvraag waarop uitsluitend de Akte van 1999 van toep
 
 Alle specimens worden ingesloten in één pakket. De specimens mogen worden gevouwen. De maximumafmetingen en het maximumgewicht van het pakket worden vermeld in de administratieve instructies.
 
-#### Regel 11. Identiteit van de ontwerper; beschrijving; aanspraak
+##### Regel 11. Identiteit van de ontwerper; beschrijving; aanspraak
 
 1. [**Identiteit van de ontwerper**]
 
@@ -918,7 +940,7 @@ Wanneer de internationale aanvraag een beschrijving bevat, dient deze betrekking
 
 In een verklaring gedaan ingevolge [artikel 5, tweede lid, onderdeel a, van de Akte van 1999](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=5&z=2024-01-01&g=2024-01-01) dat de wetgeving van een Verdragsluitende Partij een aanspraak vereist teneinde ingevolge die wetgeving een datum van indiening toe te kennen aan een aanvraag tot bescherming van een tekening of model van nijverheid, dienen de exacte bewoordingen van de vereiste aanspraak te worden vermeld. Wanneer de internationale aanvraag een aanspraak bevat, dienen de bewoordingen van die aanspraak te luiden zoals vermeld in de genoemde verklaring.
 
-#### Regel 12. Taksen met betrekking tot de internationale aanvraag
+##### Regel 12. Taksen met betrekking tot de internationale aanvraag
 
 1. [**Voorgeschreven taksen**]
 
@@ -960,7 +982,7 @@ De in het eerste lid bedoelde taksen dienen, onverminderd het bepaalde in het de
 
 - d. Wanneer het tweede gedeelte van de individuele aanwijzingstaks niet binnen de toepasselijke termijn wordt betaald, doet het betrokken Bureau hiervan kennisgeving aan het Internationaal Bureau en verzoekt het het Internationaal Bureau de inschrijving van de internationale inschrijving in het internationale register ten aanzien van de betrokken Verdragsluitende Partij door te halen. Het Internationaal Bureau handelt dienovereenkomstig en doet hiervan kennisgeving aan de houder.
 
-#### Regel 13. Door tussenkomst van een Bureau ingediende internationale aanvraag
+##### Regel 13. Door tussenkomst van een Bureau ingediende internationale aanvraag
 
 1. [**Datum van ontvangst door het Bureau en doorzending naar het Internationaal Bureau**]
 
@@ -982,7 +1004,7 @@ Onverminderd [artikel 14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV00
 
 Niettegenstaande het derde lid, kan een Verdragsluitende Partij waarvan de wetgeving op de datum waarop zij partij wordt bij de Akte van 1999, een veiligheidscontrole verlangt, in een verklaring de Directeur-Generaal kennisgeving doen van het feit dat de in dat lid genoemde termijn van een maand wordt vervangen door een termijn van zes maanden.
 
-#### Regel 14. Onderzoek door het Internationaal Bureau
+##### Regel 14. Onderzoek door het Internationaal Bureau
 
 1. **[Termijn voor het verbeteren van onregelmatigheden]**
 
@@ -1012,7 +1034,7 @@ Wanneer de internationale aanvraag op de datum van de ontvangst hiervan door het
 
 Wanneer een onregelmatigheid, anders dan een onregelmatigheid bedoeld in [artikel 8, tweede lid, onderdeel b, van de Akte van 1999](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=I&artikel=8&z=2024-01-01&g=2024-01-01), niet binnen de in het eerste lid, onderdelen a of b, genoemde termijnen wordt gecorrigeerd, wordt de internationale aanvraag geacht te zijn geannuleerd en betaalt het Internationaal Bureau de voor die aanvraag betaalde taksen terug, onder aftrek van een bedrag dat overeenkomt met de basistaks.
 
-#### Regel 15. Inschrijving van de tekening of het model van nijverheid in het internationale register
+##### Regel 15. Inschrijving van de tekening of het model van nijverheid in het internationale register
 
 1. [**Inschrijving van de tekening of het model van nijverheid in het internationale register**]
 
@@ -1032,7 +1054,7 @@ De internationale inschrijving bevat:
 
 - v. de desbetreffende klasse van de internationale classificatie, zoals vastgesteld door het Internationaal Bureau.
 
-#### Regel 16. Opschorting van de publicatie
+##### Regel 16. Opschorting van de publicatie
 
 1. [**Maximumtijdvak van opschorting**]
 
@@ -1060,7 +1082,7 @@ De in [artikel 11, derde lid, onder i, van de Akte van 1999](https://wetten.over
 
 Indien niet aan de vereisten van het derde en vierde lid wordt voldaan, wordt de internationale inschrijving doorgehaald en niet gepubliceerd.
 
-#### Regel 17. Publicatie van de internationale inschrijving
+##### Regel 17. Publicatie van de internationale inschrijving
 
 1. [**Datum van de publicatie**] De internationale inschrijving wordt gepubliceerd:
 
@@ -1084,7 +1106,7 @@ De publicatie van de internationale inschrijving in het publicatieblad dient te 
 
 ### HOOFDSTUK 3. WEIGERINGEN EN ONGELDIGVERKLARINGEN
 
-#### Regel 18. Kennisgeving van weigering
+##### Regel 18. Kennisgeving van weigering
 
 1. [**Termijn voor kennisgeving van weigering**]
 
@@ -1148,7 +1170,7 @@ Het Internationaal Bureau tekent elke ingevolge het eerste lid, onderdeel c, ond
 
 Het Internationaal Bureau zendt de houder een afschrift van de ingevolge het eerste lid, onderdeel c, onder ii, tweede lid of vierde lid, ontvangen kennisgevingen.
 
-#### Regel 18bis. Verklaring van toekenning van bescherming
+##### Regel 18bis. Verklaring van toekenning van bescherming
 
 1. [**Verklaring van toekenning van bescherming indien geen kennisgeving van weigering is gedaan**]
 
@@ -1194,7 +1216,7 @@ Het Internationaal Bureau zendt de houder een afschrift van de ingevolge het eer
 
 Het Internationaal Bureau tekent elke verklaring ontvangen uit hoofde van deze regel aan in het internationale register, brengt de houder hiervan op de hoogte en, indien van de verklaring melding is gemaakt, of deze kan worden gereproduceerd, in de vorm van een specifiek document, zendt een afschrift van dat document naar de houder.
 
-#### Regel 19. Onregelmatige weigeringen
+##### Regel 19. Onregelmatige weigeringen
 
 1. [**Kennisgeving die niet als zodanig wordt beschouwd**]
 
@@ -1222,7 +1244,7 @@ Indien de kennisgeving van weigering:
 
 tekent het Internationaal Bureau de weigering niettemin aan in het internationale register en zendt het de houder een afschrift van de kennisgeving. Indien de houder daarom verzoekt, verzoekt het Internationaal Bureau het Bureau dat mededeling van de weigering heeft gedaan, zijn kennisgeving onverwijld te rectificeren.
 
-#### Regel 20. Ongeldigverklaring in aangewezen Verdragsluitende Partijen
+##### Regel 20. Ongeldigverklaring in aangewezen Verdragsluitende Partijen
 
 1. [**Inhoud van de kennisgeving van ongeldigverklaring**]
 
@@ -1244,7 +1266,7 @@ Het Internationaal Bureau tekent de ongeldigverklaring aan in het internationale
 
 ### HOOFDSTUK 4. WIJZIGINGEN EN CORRECTIES
 
-#### Regel 21. Aantekening van een wijziging
+##### Regel 21. Aantekening van een wijziging
 
 1. [**Indiening van het verzoek**]
 
@@ -1312,7 +1334,7 @@ De overdracht of elke andere overgang van de internationale inschrijving voor sl
 
 Wanneer een en dezelfde persoon houder wordt van meerdere internationale inschrijvingen als gevolg van een gedeeltelijke wijziging in de eigendom, worden deze inschrijvingen op verzoek van genoemde persoon samengevoegd en zijn het eerste tot en met zesde lid van overeenkomstige toepassing. De uit de samenvoeging resulterende internationale inschrijving draagt het nummer, in voorkomend geval voorzien van een hoofdletter, van de internationale inschrijving waarvan een gedeelte is overgedragen of op andere wijze is overgegaan.
 
-#### Regel 21bis. Verklaring dat een wijziging in de eigendom geen rechtsgevolg heeft
+##### Regel 21bis. Verklaring dat een wijziging in de eigendom geen rechtsgevolg heeft
 
 1. [**Verklaring en het rechtsgevolg ervan**]
 
@@ -1342,7 +1364,7 @@ Het Internationaal Bureau tekent elke verklaring gedaan in overeenstemming met h
 
 Elke verklaring gedaan in overeenstemming met het derde lid kan geheel of gedeeltelijk worden ingetrokken. Van de intrekking van de verklaring wordt kennisgeving gedaan aan het Internationaal Bureau, dat deze in het internationale register aantekent. Het Internationaal Bureau past het internationale register dienovereenkomstig aan en doet daarvan kennisgeving aan de vorige houder (vervreemder) en de nieuwe houder (verkrijger).
 
-#### Regel 22. Correcties in het internationale register
+##### Regel 22. Correcties in het internationale register
 
 1. [**Correctie**]
 
@@ -1354,11 +1376,11 @@ Het Bureau van elke aangewezen Verdragsluitende Partij heeft het recht te verkla
 
 ### HOOFDSTUK 5. VERNIEUWINGEN
 
-#### Regel 23. Offıcieuze mededeling van de vervaldatum
+##### Regel 23. Offıcieuze mededeling van de vervaldatum
 
 Zes maanden voor het verstrijken van een termijn van vijf jaar zendt het Internationaal Bureau aan de houder en aan de eventuele gemachtigde een mededeling waarin de vervaldatum van de internationale inschrijving wordt vermeld. Het feit dat deze mededeling van de vervaldatum niet is ontvangen, vormt geen verschoningsgrond voor niet-naleving van de in [regel 24](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=5&artikel=24&z=2024-01-01&g=2024-01-01) bedoelde termijnen.
 
-#### Regel 24. Details betreffende de vernieuwing
+##### Regel 24. Details betreffende de vernieuwing
 
 1. [**Taksen**]
 
@@ -1396,7 +1418,7 @@ Zes maanden voor het verstrijken van een termijn van vijf jaar zendt het Interna
 
 - b. Wanneer, bij het verstrijken van de in het eerste lid, onderdeel c, bedoelde termijn van zes maanden het bedrag van de ontvangen taksen lager is dan vereist is voor de vernieuwing, tekent het Internationaal Bureau de vernieuwing niet aan, betaalt het het ontvangen bedrag terug en doet het hiervan kennisgeving aan de houder en aan de eventuele gemachtigde.
 
-#### Regel 25. Aantekening van de vernieuwing; certificaat
+##### Regel 25. Aantekening van de vernieuwing; certificaat
 
 1. [**Aantekening en ingangsdatum van de vernieuwing**]
 
@@ -1408,7 +1430,7 @@ Het Internationaal Bureau zendt de houder een vernieuwingscertificaat.
 
 ### HOOFDSTUK 6. PUBLICATIE
 
-#### Regel 26. Publicatie
+##### Regel 26. Publicatie
 
 1. [**Informatie betreffende internationale inschrijvingen**]
 
@@ -1444,7 +1466,7 @@ Het publicatieblad wordt gepubliceerd op de website van de Organisatie. De publi
 
 ### HOOFDSTUK 7. TAKSEN
 
-#### Regel 27. Bedragen en betaling van de taksen
+##### Regel 27. Bedragen en betaling van de taksen
 
 1. [**Bedragen van de taksen**]
 
@@ -1482,7 +1504,7 @@ Bij de betaling van taksen aan het Internationaal Bureau dient te worden vermeld
 
 - c. Wanneer het bedrag van de taks, anders dan de in de onder a en b bedoelde taksen, wordt gewijzigd, is het bedrag van toepassing dat gold op de datum waarop de taks door het Internationaal Bureau werd ontvangen.
 
-#### Regel 28. Munteenheid van de betalingen
+##### Regel 28. Munteenheid van de betalingen
 
 1. [**Verplichting de Zwitserse munteenheid te gebruiken**]
 
@@ -1498,7 +1520,7 @@ Alle uit hoofde van dit Reglement van uitvoering voor het Internationaal Bureau 
 
 - d. Wanneer, gedurende meer dan drie opeenvolgende maanden, de officiële wisselkoers van de Verenigde Naties tussen de Zwitserse munteenheid en de munteenheid waarin het bedrag van een individuele aanwijzingstaks door een Verdragsluitende Partij is vermeld ten minste 10 % lager is dan de laatste wisselkoers die is toegepast voor de vaststelling van het bedrag van de taks in de Zwitserse munteenheid, stelt de Directeur-Generaal een nieuw bedrag van de taks in de Zwitserse munteenheid vast, op basis van de actuele officiële wisselkoers van de Verenigde Naties. Het nieuwe bedrag is van toepassing vanaf de door de Directeur-Generaal vastgestelde datum, met dien verstande dat die datum ten minste een maand en uiterlijk twee maanden valt na de datum van de publicatie van het genoemde bedrag op de website van de organisatie.
 
-#### Regel 29. Storting van taksen op de rekeningen van de betrokken Verdragsluitende Partijen
+##### Regel 29. Storting van taksen op de rekeningen van de betrokken Verdragsluitende Partijen
 
 Elke ten aanzien van een Verdragsluitende Partij aan het Internationaal Bureau betaalde standaard aanwijzingstaks of individuele aanwijzingstaks wordt op de rekening van die Verdragsluitende Partij bij het Internationaal Bureau gestort binnen de maand volgend op de maand waarin de aantekening van de internationale inschrijving of de vernieuwing waarvoor deze taks is betaald, is verricht, of, wat betreft het tweede gedeelte van de individuele aanwijzingstaks, onmiddellijk na ontvangst hiervan door het Internationaal Bureau.
 
@@ -1506,7 +1528,7 @@ Elke ten aanzien van een Verdragsluitende Partij aan het Internationaal Bureau b
 
 ### HOOFDSTUK 9. DIVERSE BEPALINGEN
 
-#### Regel 32. Uittreksels, afschriften en informatie met betrekking tot de gepubliceerde internationale inschrijvingen
+##### Regel 32. Uittreksels, afschriften en informatie met betrekking tot de gepubliceerde internationale inschrijvingen
 
 1. **[Handelwijze]**
 
@@ -1526,7 +1548,7 @@ Tegen betaling van een taks, waarvan het bedrag wordt vastgesteld in het overzic
 
 Ten aanzien van een document bedoeld in het eerste lid, onder i en ii, met het stempel van het Internationaal Bureau en de handtekening van de Directeur-Generaal of een persoon die namens hem optreedt, vereist geen van de autoriteiten van een Verdragsluitende Partij authenticatie, legalisatie of een andere certificatie van dit document, stempel of deze handtekening, door een andere persoon of autoriteit. Dit lid is van overeenkomstige toepassing op het certificaat van internationale inschrijving bedoeld in [regel 15, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=2&artikel=15&z=2024-01-01&g=2024-01-01).
 
-#### Regel 33. Wijziging van bepaalde regels
+##### Regel 33. Wijziging van bepaalde regels
 
 1. [**Vereiste van unanimiteit**]
 
@@ -1552,7 +1574,7 @@ Voor wijziging van de volgende bepalingen van dit Reglement van uitvoering en va
 
 Elk voorstel tot wijziging van een in het eerste of tweede lid bedoelde bepaling wordt ten minste twee maanden voor de opening van de zitting van de Algemene Vergadering die bijeen wordt geroepen teneinde over dit voorstel te besluiten, naar alle Verdragsluitende Partijen gezonden.
 
-#### Regel 34. Administratieve instructies
+##### Regel 34. Administratieve instructies
 
 1. [**Opstelling van de administratieve instructies en daaronder vallende onderwerpen**]
 
@@ -1574,7 +1596,7 @@ De Algemene Vergadering kan de Directeur-Generaal verzoeken bepalingen van de ad
 
 In geval van verschillen tussen een bepaling van de administratieve instructies, enerzijds, en een bepaling van de Akte van 1999, de [Akte van 1960](onbekend) of van dit Reglement van uitvoering, anderzijds, is het laatste doorslaggevend.
 
-#### Regel 35. Verklaringen gedaan door de Verdragsluitende Partijen bij de Akte van 1999
+##### Regel 35. Verklaringen gedaan door de Verdragsluitende Partijen bij de Akte van 1999
 
 1. [**Opstelling en het van kracht worden van verklaringen**]
 
@@ -1584,7 +1606,7 @@ In geval van verschillen tussen een bepaling van de administratieve instructies,
 
 Elke in het eerste lid bedoelde verklaring kan te allen tijde worden ingetrokken door middel van een aan de Directeur-Generaal gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van deze kennisgeving door de Directeur-Generaal of op een in die kennisgeving vermelde latere datum. In het geval van een verklaring gedaan ingevolge [regel 18, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0006367&hoofdstuk=3&artikel=18&z=2024-01-01&g=2024-01-01), heeft de intrekking geen gevolgen voor een internationale inschrijving waarvan de datum eerder valt dan die waarop de intrekking van kracht wordt.
 
-#### Regel 36. Verklaringen gedaan door de Verdragsluitende Partijen bij de [Akte van 1960](onbekend)
+##### Regel 36. Verklaringen gedaan door de Verdragsluitende Partijen bij de [Akte van 1960](onbekend)
 
 1. [**Individuele aanwijzingstaks**]1)[WIPO-noot]: Aanbeveling aangenomen door de Algemene Vergadering van de Unie van ’s-Gravenhage:„Verdragsluitende Partijen die een verklaring doen, of hebben gedaan, uit hoofde van artikel 7, tweede lid, van de Akte van 1999 of uit hoofde van regel 36, eerste lid, van het Reglement van uitvoering worden aangemoedigd aan te geven, in deze verklaring of in een nieuwe verklaring, dat voor internationale aanvragen die worden ingediend door aanvragers die hun bevoegdheid uitsluitend ontlenen aan een verbintenis met een minstontwikkeld land, overeenkomstig de door de Verenigde Naties opgestelde lijst, of met een intergouvernementele organisatie waarvan de meerderheid van de lidstaten minstontwikkelde landen zijn, de individuele taks die betaald dient te worden voor hun aanwijzing wordt verminderd tot 10% van het vastgestelde bedrag (afgerond, waar nodig, tot het dichtstbijzijnde gehele getal). Deze Verdragsluitende Partijen worden voorts aangemoedigd aan te geven dat deze vermindering tevens geldt voor een internationale aanvraag die wordt ingediend door een aanvrager waarvan de bevoegdheid niet uitsluitend ontleend wordt aan een verbintenis met een dergelijke intergouvernementele organisatie, mits elk ander recht van de aanvrager wordt ontleend aan een verbintenis met een Verdragsluitende Partij die een minstontwikkeld land is of, indien het geen minstontwikkeld land is, een lidstaat is van die internationale organisatie en op de internationale aanvraag uitsluitend de Akte van 1999 van toepassing is.”
 
@@ -1602,7 +1624,7 @@ Een verklaring uit hoofde van het eerste en tweede lid kan worden gedaan:
 
 - ii. na de nederlegging van een akte bedoeld in [artikel 26, tweede lid, van de Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034&artikel=26), in welk geval deze van kracht wordt een maand na de datum van ontvangst ervan door de Directeur-Generaal of op een latere datum die in de verklaring is aangegeven. De verklaring is evenwel alleen van toepassing op internationale inschrijvingen waarvan de datum van internationale inschrijving dezelfde is als, of later dan, de datum waarop de verklaring van kracht wordt.
 
-#### Regel 37. Overgangsbepalingen
+##### Regel 37. Overgangsbepalingen
 
 1. [**Overgangsbepalingen met betrekking tot de Akte van 1934**]
 

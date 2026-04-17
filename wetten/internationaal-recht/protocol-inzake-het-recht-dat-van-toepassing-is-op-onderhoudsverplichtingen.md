@@ -1,13 +1,32 @@
 ---
 title: "Protocol inzake het recht dat van toepassing is op onderhoudsverplichtingen"
 identifier: "BWBV0005393"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-11-23
-laatste_update: 2007-11-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005393"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-11-23"
+last_updated: "2007-11-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005393"
+soort: "verdrag"
+stam_id: "10004611193"
+version_id: "10004861432"
+internal_id: "C10007295161"
+label_id: "10004596164"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005393/2007-11-23/0"
+intitule_bron: "Trb.2011-145"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2011-08-19"
+intitule_status: "nogniet"
+original_publication: "Trb.2011-145"
+original_published_date: "2011-08-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2011-145"
+jci_1_3: "jci1.3:c:BWBV0005393&z=2007-11-23&g=2007-11-23"
+jci_1_0: "1.0:c:BWBV0005393&g=2007-11-23"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-08-19"
 ---
-
 # Protocol inzake het recht dat van toepassing is op onderhoudsverplichtingen
 
 Preambule
@@ -22,23 +41,23 @@ Geleid door de wens algemene regels inzake het toepasselijk recht te ontwikkelen
 
 Hebben besloten hiertoe een Protocol te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1. Toepassingsgebied
+##### Artikel 1. Toepassingsgebied
 
 1. Dit Protocol bepaalt het recht dat van toepassing is op onderhoudsverplichtingen die voortvloeien uit een familiebetrekking, bloedverwantschap, huwelijk of aanverwantschap, met inbegrip van onderhoudsverplichtingen jegens kinderen, ongeacht de burgerlijke staat van de ouders.
 
 2. Beslissingen, gegeven met toepassing van dit Protocol, houden geen oordeel in over het bestaan van de banden bedoeld in het eerste lid.
 
-#### Artikel 2. Universele toepassing
+##### Artikel 2. Universele toepassing
 
 Dit Protocol is van toepassing ook indien het toepasselijke recht dat van een niet-Verdragsluitende Staat is.
 
-#### Artikel 3. Algemene regel inzake toepasselijk recht
+##### Artikel 3. Algemene regel inzake toepasselijk recht
 
 1. Tenzij dit Protocol anders bepaalt, worden onderhoudsverplichtingen beheerst door het recht van de Staat waar de onderhoudsgerechtigde zijn gewone verblijfplaats heeft.
 
 2. In geval van verandering van de gewone verblijfplaats van de onderhoudsgerechtigde, is het recht van de Staat van de nieuwe gewone verblijfplaats van toepassing vanaf het tijdstip waarop de verandering intreedt.
 
-#### Artikel 4. Bijzondere regels die bepaalde onderhoudsgerechtigden begunstigen
+##### Artikel 4. Bijzondere regels die bepaalde onderhoudsgerechtigden begunstigen
 
 1. De volgende bepalingen zijn van toepassing in geval van onderhoudsverplichtingen van:
 
@@ -54,21 +73,21 @@ Dit Protocol is van toepassing ook indien het toepasselijke recht dat van een ni
 
 4. Indien de onderhoudsgerechtigde op grond van de rechtsstelsels, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=3&z=2007-11-23&g=2007-11-23) en in het tweede en derde lid van dit artikel, geen levensonderhoud van de onderhoudsplichtige kan verkrijgen, is het recht van de Staat van hun gemeenschappelijke nationaliteit, indien zij er een bezitten, van toepassing.
 
-#### Artikel 5. Bijzondere regel met betrekking tot echtgenoten en ex-echtgenoten
+##### Artikel 5. Bijzondere regel met betrekking tot echtgenoten en ex-echtgenoten
 
 In geval van onderhoudsverplichtingen tussen echtgenoten, ex-echtgenoten of tussen partijen bij een nietig verklaard huwelijk, is [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=3&z=2007-11-23&g=2007-11-23) niet van toepassing indien een van de partijen zich daartegen verzet en het recht van een andere Staat, in het bijzonder dat van de Staat van hun laatste gemeenschappelijke gewone verblijfplaats, nauwer verbonden is met het huwelijk. In dat geval is het recht van die andere Staat van toepassing.
 
-#### Artikel 6. Bijzondere regel voor verweer
+##### Artikel 6. Bijzondere regel voor verweer
 
 In geval van onderhoudsverplichtingen anders dan die welke voortvloeien uit een ouder-kindrelatie jegens een kind en dan die bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=5&z=2007-11-23&g=2007-11-23), kan de onderhoudsplichtige zich tegen een aanspraak van de onderhoudsgerechtigde verweren op grond dat een dergelijke verplichting niet bestaat ingevolge zowel het recht van de Staat van de gewone verblijfplaats van de onderhoudsplichtige als het recht van de Staat van de gemeenschappelijke nationaliteit van de partijen, indien zij er een bezitten.
 
-#### Artikel 7. Aanwijzing van het toepasselijke recht ten behoeve van een bepaalde procedure
+##### Artikel 7. Aanwijzing van het toepasselijke recht ten behoeve van een bepaalde procedure
 
 1. In afwijking van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=3&z=2007-11-23&g=2007-11-23) kunnen de onderhoudsgerechtigde en de onderhoudsplichtige uitsluitend ten behoeve van een bepaalde procedure in een bepaalde Staat uitdrukkelijk het recht van die Staat als toepasselijk aanwijzen op een onderhoudsverplichting.
 
 2. Een aanwijzing die geschiedt voordat een dergelijke procedure aanhangig wordt gemaakt, dient te worden vastgelegd in een overeenkomst die door beide partijen wordt ondertekend en op schrift wordt gesteld of vastgelegd op zodanige wijze dat de inhoud ervan toegankelijk blijft voor raadpleging op een later tijdstip.
 
-#### Artikel 8. Aanwijzing van het toepasselijke recht
+##### Artikel 8. Aanwijzing van het toepasselijke recht
 
 1. In afwijking van de [artikelen 3 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=3&z=2007-11-23&g=2007-11-23) kunnen de onderhoudsgerechtigde en de onderhoudsplichtige te allen tijde een van de volgende rechtsstelsels als toepasselijk aanwijzen op een onderhoudsverplichting:
 
@@ -88,15 +107,15 @@ In geval van onderhoudsverplichtingen anders dan die welke voortvloeien uit een 
 
 5. Tenzij de partijen op het tijdstip van de aanwijzing volledig geïnformeerd waren en zich bewust waren van de gevolgen van de aanwijzing, blijft het door de partijen aangewezen recht buiten toepassing indien toepassing van dat recht voor een van de partijen kennelijk onbillijke of onredelijke gevolgen zou hebben.
 
-#### Artikel 9. Woonplaats („domicile”) in plaats van nationaliteit
+##### Artikel 9. Woonplaats („domicile”) in plaats van nationaliteit
 
 Een Staat die in familierechtelijke aangelegenheden het begrip woonplaats („domicile”) als aanknopingsfactor hanteert, kan het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht mededelen dat in zaken die voor zijn autoriteiten komen het begrip „nationaliteit” in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=4&z=2007-11-23&g=2007-11-23) en [6](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=6&z=2007-11-23&g=2007-11-23) wordt vervangen door woonplaats („domicile”) zoals omschreven in die Staat.
 
-#### Artikel 10. Overheidslichamen
+##### Artikel 10. Overheidslichamen
 
 Het recht van een overheidslichaam op terugbetaling van een uitkering die in plaats van levensonderhoud aan de onderhoudsgerechtigde is verstrekt, wordt beheerst door het recht waaraan dat lichaam is onderworpen.
 
-#### Artikel 11. Reikwijdte van het toepasselijke recht
+##### Artikel 11. Reikwijdte van het toepasselijke recht
 
 Het recht dat van toepassing is op de onderhoudsverplichting bepaalt onder andere:
 
@@ -112,25 +131,25 @@ Het recht dat van toepassing is op de onderhoudsverplichting bepaalt onder ander
 
 - f. de omvang van de verplichting van de onderhoudsplichtige, indien een overheidslichaam terugbetaling vraagt van uitkeringen die in plaats van levensonderhoud aan een onderhoudsgerechtigde zijn verstrekt.
 
-#### Artikel 12. Uitsluiting van renvoi
+##### Artikel 12. Uitsluiting van renvoi
 
 In het Protocol wordt onder de term „recht” verstaan het in een Staat geldende recht, met uitsluiting van de regels van conflictenrecht.
 
-#### Artikel 13. Openbare orde
+##### Artikel 13. Openbare orde
 
 De toepassing van het ingevolge dit Protocol aangewezen recht kan slechts worden geweigerd indien de gevolgen ervan kennelijk in strijd zijn met de openbare orde van het forum.
 
-#### Artikel 14. Vaststelling van het bedrag van het levensonderhoud
+##### Artikel 14. Vaststelling van het bedrag van het levensonderhoud
 
 Ook wanneer het toepasselijke recht anders bepaalt, wordt bij de vaststelling van het bedrag van het levensonderhoud rekening gehouden met de behoeften van de onderhoudsgerechtigde en de draagkracht van de onderhoudsplichtige alsmede met eventuele vergoedingen die de onderhoudsgerechtigde zijn toegekend in plaats van periodiek uit te keren levensonderhoud.
 
-#### Artikel 15. Niet-toepasselijkheid van het Protocol op interne conflicten
+##### Artikel 15. Niet-toepasselijkheid van het Protocol op interne conflicten
 
 1. Een Verdragsluitende Staat waarin verschillende rechtsstelsels of verzamelingen rechtsregels van toepassing zijn op het gebied van onderhoudsverplichtingen, is niet gehouden de regels van het Protocol toe te passen op conflicten die uitsluitend deze verschillende rechtsstelsels of verzamelingen rechtsregels betreffen.
 
 2. Dit artikel is niet van toepassing op Regionale Organisaties voor Economische Integratie.
 
-#### Artikel 16. Niet-geünificeerde rechtsstelsels – territoriaal
+##### Artikel 16. Niet-geünificeerde rechtsstelsels – territoriaal
 
 1. Ten aanzien van een Staat die met betrekking tot bij dit Protocol geregelde aangelegenheden twee of meer rechtsstelsels of verzamelingen rechtsregels heeft die binnen verschillende territoriale eenheden van toepassing zijn,
 
@@ -152,35 +171,35 @@ Ook wanneer het toepasselijke recht anders bepaalt, wordt bij de vaststelling va
 
 3. Dit artikel is niet van toepassing op Regionale Organisaties voor Economische Integratie.
 
-#### Artikel 17. Niet-geünificeerde rechtsstelsels – personeel
+##### Artikel 17. Niet-geünificeerde rechtsstelsels – personeel
 
 Teneinde het op grond van het Protocol toepasselijke recht aan te wijzen in geval van een Staat die met betrekking tot bij dit Protocol geregelde aangelegenheden twee of meer rechtsstelsels of verzamelingen rechtsregels omvat die op verschillende categorieën personen van toepassing zijn, wordt een verwijzing naar het recht van een dergelijke Staat uitgelegd als een verwijzing naar het rechtsstelsel dat wordt aangewezen door de regels die in die Staat van kracht zijn.
 
-#### Artikel 18. Samenloop met eerdere Haagse verdragen inzake levensonderhoud
+##### Artikel 18. Samenloop met eerdere Haagse verdragen inzake levensonderhoud
 
 In de onderlinge betrekkingen tussen de Verdragsluitende Staten treedt dit Protocol in de plaats van het **Verdrag van ’s-Gravenhage van 2 oktober 1973 inzake de wet die van toepassing is op onderhoudsverplichtingen** en het **Verdrag van ’s-Gravenhage van 24 oktober 1956 nopens de wet welke op alimentatieverplichtingen jegens kinderen toepasselijk is.**
 
-#### Artikel 19. Samenloop met andere instrumenten
+##### Artikel 19. Samenloop met andere instrumenten
 
 1. Dit Protocol laat onverlet andere internationale instrumenten waarbij Verdragsluitende Staten Partij zijn of worden en die bepalingen bevatten over in dit Protocol geregelde aangelegenheden, tenzij een andersluidende verklaring wordt afgelegd door de Staten die Partij zijn bij dergelijke instrumenten.
 
 2. Het eerste lid is eveneens van toepassing op eenvormige wetten die hun grondslag vinden in het bestaan van speciale banden van regionale of andere aard tussen de desbetreffende Staten.
 
-#### Artikel 20. Uniforme uitlegging
+##### Artikel 20. Uniforme uitlegging
 
 Bij de uitlegging van dit Protocol dient rekening te worden gehouden met het internationale karakter ervan alsmede met de noodzaak de uniforme toepassing ervan te bevorderen.
 
-#### Artikel 21. Toetsing van de werking van het Protocol in de praktijk
+##### Artikel 21. Toetsing van de werking van het Protocol in de praktijk
 
 1. De Secretaris-Generaal van de Haagse Conferentie voor Internationaal Privaatrecht roept wanneer nodig een Bijzondere Commissie bijeen teneinde de werking van het Protocol in de praktijk te toetsen.
 
 2. Te dien einde werken de Verdragsluitende Staten samen met het Permanent Bureau van de Haagse Conferentie voor Internationaal Privaatrecht bij het verzamelen van jurisprudentie betreffende de toepassing van het Protocol.
 
-#### Artikel 22. Overgangsbepalingen
+##### Artikel 22. Overgangsbepalingen
 
 Dit Protocol is niet van toepassing op vorderingen inzake levensonderhoud in een Verdragsluitende Staat die betrekking hebben op een tijdvak voorafgaand aan de inwerkingtreding ervan in die Staat.
 
-#### Artikel 23. Ondertekening, bekrachtiging en toetreding
+##### Artikel 23. Ondertekening, bekrachtiging en toetreding
 
 1. Dit Protocol staat open voor ondertekening door alle Staten.
 
@@ -190,7 +209,7 @@ Dit Protocol is niet van toepassing op vorderingen inzake levensonderhoud in een
 
 4. De akten van bekrachtiging, aanvaarding, goedkeuring of toetreding dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, depositaris van het Protocol.
 
-#### Artikel 24. Regionale Organisaties voor Economische Integratie
+##### Artikel 24. Regionale Organisaties voor Economische Integratie
 
 1. Een Regionale Organisatie voor Economische Integratie die uitsluitend is samengesteld uit soevereine Staten en die bevoegd is ter zake van sommige of alle aangelegenheden die in dit Protocol worden geregeld, kan dit Protocol eveneens ondertekenen, aanvaarden, goedkeuren of hiertoe toetreden. De Regionale Organisatie voor Economische Integratie heeft in dat geval de rechten en verplichtingen van een Verdragsluitende Staat voor zover de organisatie bevoegd is ter zake van de aangelegenheden waarop het Protocol van toepassing is.
 
@@ -202,7 +221,7 @@ Dit Protocol is niet van toepassing op vorderingen inzake levensonderhoud in een
 
 5. Alle verwijzingen naar een „Verdragsluitende Staat” of een „Staat” in het Protocol zijn in voorkomend geval eveneens van toepassing op een Regionale Organisatie voor Economische Integratie die Partij bij het Protocol is. In het geval dat een Regionale Organisatie voor Economische Integratie een verklaring in overeenstemming met het derde lid heeft afgelegd, zijn alle verwijzingen naar een „Verdragsluitende Staat” of een „Staat” in het Protocol in voorkomend geval eveneens van toepassing op de betreffende lidstaten van de Organisatie.
 
-#### Artikel 25. Inwerkingtreding
+##### Artikel 25. Inwerkingtreding
 
 1. Het Protocol treedt in werking op de eerste dag van de maand volgend op het verstrijken van drie maanden na de nederlegging van de tweede akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, bedoeld in [artikel 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=23&z=2007-11-23&g=2007-11-23).
 
@@ -212,7 +231,7 @@ Dit Protocol is niet van toepassing op vorderingen inzake levensonderhoud in een
 
 - b. voor een territoriale eenheid waartoe het Protocol overeenkomstig [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=26&z=2007-11-23&g=2007-11-23) is uitgebreid, op de eerste dag van de maand volgend op het verstrijken van drie maanden na de kennisgeving bedoeld in dat artikel.
 
-#### Artikel 26. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
+##### Artikel 26. Verklaringen ten aanzien van niet-geünificeerde rechtsstelsels
 
 1. Indien een Staat twee of meer territoriale eenheden omvat waarin met betrekking tot bij dit Protocol geregelde aangelegenheden verschillende rechtsstelsels van toepassing zijn, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding in overeenstemming met [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=28&z=2007-11-23&g=2007-11-23) verklaren dat het Protocol op al deze territoriale eenheden of slechts op een of meer daarvan van toepassing is en kan hij te allen tijde deze verklaring wijzigen door een nieuwe verklaring af te leggen.
 
@@ -222,11 +241,11 @@ Dit Protocol is niet van toepassing op vorderingen inzake levensonderhoud in een
 
 4. Dit artikel is niet van toepassing op een Regionale Organisatie voor Economische Integratie.
 
-#### Artikel 27. Voorbehouden
+##### Artikel 27. Voorbehouden
 
 Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
-#### Artikel 28. Verklaringen
+##### Artikel 28. Verklaringen
 
 1. De in de [artikelen 24, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=24&z=2007-11-23&g=2007-11-23), en [26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=26&z=2007-11-23&g=2007-11-23), bedoelde verklaringen kunnen worden afgelegd bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig tijdstip daarna, en kunnen te allen tijde worden gewijzigd of ingetrokken.
 
@@ -236,13 +255,13 @@ Bij dit Protocol kan geen enkel voorbehoud worden gemaakt.
 
 4. Een op een later tijdstip afgelegde verklaring, en elke wijziging of intrekking van een verklaring, worden van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 29. Opzegging
+##### Artikel 29. Opzegging
 
 1. Een Staat die Partij is bij dit Protocol kan dit opzeggen door middel van een schriftelijke kennisgeving gericht aan de depositaris. De opzegging kan worden beperkt tot bepaalde territoriale eenheden van een niet-geünificeerd rechtsstelsel waarop het Protocol van toepassing is.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een termijn van twaalf maanden na de datum waarop de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere opzegtermijn is aangegeven, wordt de opzegging van kracht na het verstrijken van deze langere termijn, na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 30. Kennisgeving
+##### Artikel 30. Kennisgeving
 
 De depositaris geeft de Leden van de Haagse Conferentie voor Internationaal Privaatrecht, en andere Staten en Regionale Organisaties voor Economische Integratie die in overeenstemming met de [artikelen 23](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=23&z=2007-11-23&g=2007-11-23) en [24](https://wetten.overheid.nl/jci1.3:c:BWBV0005393&artikel=24&z=2007-11-23&g=2007-11-23) zijn overgegaan tot ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding, kennis van het volgende:
 

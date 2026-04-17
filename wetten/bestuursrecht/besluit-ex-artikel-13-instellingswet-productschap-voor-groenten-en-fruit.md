@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 13 Instellingswet Productschap voor Groenten en Fruit"
+title: "Besluit van 18 juni 1955, houdende uitvoering van artikel 13 van de Instellingswet Productschap voor Groenten en Fruit"
 identifier: "BWBR0002186"
-categorie: "Bestuursrecht"
-publicatiedatum: 1956-01-01
-laatste_update: 1956-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002186"
+country: "nl"
+rank: "amvb"
+publication_date: "1956-01-01"
+last_updated: "1956-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002186"
+soort: "AMvB"
+stam_id: "381953"
+version_id: "561212"
+internal_id: "C561211"
+label_id: "372584"
+dtd_version: "2.0"
+original_entry_into_force: "1956-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002186/1956-01-01/0"
+intitule_bron: "Stb.1955-284"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1955-06-18"
+intitule_status: "goed"
+original_publication: "Stb.1955-284"
+original_signed_date: "1955-06-18"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1956-01-01"
+jci_1_3: "jci1.3:c:BWBR0002186&z=1956-01-01&g=1956-01-01"
+jci_1_0: "1.0:c:BWBR0002186&g=1956-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 13 Instellingswet Productschap voor Groenten en Fruit"
+signed_date: "1955-06-18"
+entry_into_force: "1956-01-01"
 ---
-
 # Besluit van 18 juni 1955, houdende uitvoering van artikel 13 van de Instellingswet Productschap voor Groenten en Fruit
 
 Op de voordracht van Onze Ministers voor Publiekrechtelijke Bedrijfsorganisatie van 24 Maart 1955, no. B. 2496, Dir. W.J.A., van Landbouw, Visserij en Voedselvoorziening van 24 Maart 1955, no. J. 1085, Afd. W.J.Z. en van Economische Zaken van 24 Maart 1955, no. 23479, Dir. W.J.A.;
@@ -22,7 +44,7 @@ Gezien het nader rapport van Onze voornoemde Ministers onderscheidenlijk van 13 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van de [Instellingswet Productschap voor Groenten en Fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0002148) (**Stb.** 1954, 446) en van de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=94), [100](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=100), derde lid, en [104, tweede lid, van de Wet op de Bedrijfsorganisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0002058&artikel=104) (**Stb.** 1950, K 22) ten aanzien van het Productschap voor Groenten en Fruit wordt Onze Minister van Economische Zaken mede als betrokken Minister aangemerkt, voor zoveel betreft:
 
@@ -30,7 +52,7 @@ Voor de toepassing van de [Instellingswet Productschap voor Groenten en Fruit](h
 
 - b. verordeningen, die regelen inhouden, welke de mededinging beperken tussen degenen, die ondernemingen drijven op het gebied van de groenten en fruit be- en verwerkende industrie of de groothandel in groenten en fruit, verduurzaamde groenten en verduurzaamd fruit of uit fruit verkregen producten.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op het tijdstip van in werking treden van de [Instellingswet Productschap voor Groenten en Fruit](https://wetten.overheid.nl/jci1.3:c:BWBR0002148).
 

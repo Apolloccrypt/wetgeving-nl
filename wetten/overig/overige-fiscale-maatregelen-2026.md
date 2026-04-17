@@ -1,14 +1,42 @@
 ---
-title: "Overige fiscale maatregelen 2026"
+title: "Wet van 17 december 2025, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2026)"
 identifier: "BWBR0052047"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0052047"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0052047"
+soort: "wet"
+stam_id: "17698743"
+version_id: "31232292"
+internal_id: "C44669841"
+label_id: "17597824"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0052047/2026-01-01/0"
+intitule_bron: "Stb.2025-445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-17"
+intitule_published: "2025-12-23"
+intitule_in_force: "2025-12-23"
+intitule_status: "goed"
+original_publication: "Stb.2025-445"
+original_signed_date: "2025-12-17"
+original_published_date: "2025-12-23"
+original_effect: "nieuwe-regeling"
+original_dossier: "36813"
+original_url_id: "stb-2025-445"
+entry_into_force_date: "2026-01-01"
+entry_into_force_dossier: "36813"
+jci_1_3: "jci1.3:c:BWBR0052047&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0052047&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Overige fiscale maatregelen 2026"
+signed_date: "2025-12-17"
+entry_into_force: "2026-01-01"
 ---
-
-# Overige fiscale maatregelen 2026
+# Wet van 17 december 2025, houdende wijziging van enkele belastingwetten en enige andere wetten (Overige fiscale maatregelen 2026)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,63 +44,63 @@ Alzo Wij in overweging genomen hebben, dat het in het kader van het fiscale bele
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt de Wet inkomstenbelasting 2001.
 
-#### Artikel III
+##### Artikel III
 
 [**Vervallen**]
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt de Wet op de loonbelasting 1964.
 
-#### Artikel VI
+##### Artikel VI
 
 [**Vervallen**]
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt de Wet op de vennootschapsbelasting 1969.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt de Wet bronbelasting 2021.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt de Wet op belastingen van rechtsverkeer.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt de Wet op de belasting van personenauto’s en motorrijwielen 1992.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt de Wet op de motorrijtuigenbelasting 1994.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt de Wet belasting zware motorrijtuigen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt de Wet belastingen op milieugrondslag.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt de Algemene douanewet.
 
-#### Artikel XV
+##### Artikel XV
 
 1. [Afdeling 2.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=2.3) zoals die luidde voor inwerkingtreding van [artikel I, onderdeel D, van de Wet modernisering elektronisch bestuurlijk verkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0048252&artikel=I) blijft van toepassing op:
 
@@ -86,35 +114,35 @@ Wijzigt de Algemene douanewet.
 
 2. Bij ministeriële regeling kan worden bepaald dat in afwijking van [artikel 2:7, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=2:7) het berichtenverkeer met de directeur, de inspecteur of de ontvanger, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=2) of het bestuur van ’s Rijks belastingen, bedoeld in artikel 2, vierde lid, van die wet, niet op elektronische wijze plaatsvindt.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt de Invorderingswet 1990.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt de Wet aanpassing fonds voor gemene rekening en vrijgestelde beleggingsinstelling.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt de Wet aanpassing fiscale bedrijfsopvolgingsfaciliteiten 2025.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt de Wet inkomstenbelasting BES.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Belastingplan 2025.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt deze wet.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 1. Deze wet treedt in werking met ingang van 1 januari 2026, met dien verstande dat:
 
@@ -140,7 +168,7 @@ Wijzigt deze wet.
 
 3. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0052047&artikel=XI&z=2026-01-01&g=2026-01-01) in werking op het tijdstip waarop [artikel 30 van de Wet vrachtwagenheffing](https://wetten.overheid.nl/jci1.3:c:BWBR0047082&artikel=30) in werking treedt.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Deze wet wordt aangehaald als: Overige fiscale maatregelen 2026.
 

@@ -1,13 +1,39 @@
 ---
-title: "Aanpassingsbesluit WVO 2020"
+title: "Besluit van 14 oktober 2021, houdende wijziging van verschillende besluiten om deze in overeenstemming te brengen met de Wet voortgezet onderwijs 2020 (Aanpassingsbesluit WVO 2020)"
 identifier: "BWBR0045794"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-01
-laatste_update: 2022-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045794"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-08-01"
+last_updated: "2022-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045794"
+soort: "AMvB"
+stam_id: "16127023"
+version_id: "28141112"
+internal_id: "C39981131"
+label_id: "16057704"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045794/2022-08-01/0"
+intitule_bron: "Stb.2021-522"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-14"
+intitule_published: "2021-11-05"
+intitule_in_force: "2022-01-11"
+intitule_status: "goed"
+original_publication: "Stb.2021-522"
+original_signed_date: "2021-10-14"
+original_published_date: "2021-11-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2021-522"
+entry_into_force_date: "2022-08-01"
+jci_1_3: "jci1.3:c:BWBR0045794&z=2022-08-01&g=2022-08-01"
+jci_1_0: "1.0:c:BWBR0045794&g=2022-08-01"
+citeertitel_status: "officieel"
+short_title: "Aanpassingsbesluit WVO 2020"
+signed_date: "2021-10-14"
+entry_into_force: "2022-08-01"
 ---
-
 # Besluit van 14 oktober 2021, houdende wijziging van verschillende besluiten om deze in overeenstemming te brengen met de Wet voortgezet onderwijs 2020 (Aanpassingsbesluit WVO 2020)
 
 Op de voordracht van Onze Minister voor Basis- en Voortgezet Onderwijs en Media van 12 juli 2021, nr. WJZ/28335253 (9683), directie Wetgeving en Juridische Zaken;
@@ -22,173 +48,173 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Onderwijs, Cultuur en Wetenschap
 
-#### Artikel I. Wijziging [Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160)
+##### Artikel I. Wijziging [Besluit bekostiging WEC 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0046160)
 
 Wijzigt het Besluit bekostiging WEC 2022.
 
-#### Artikel II. Wijziging [Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692)
+##### Artikel II. Wijziging [Besluit bekwaamheidseisen onderwijspersoneel](https://wetten.overheid.nl/jci1.3:c:BWBR0018692)
 
 Wijzigt het Besluit bekwaamheidseisen onderwijspersoneel.
 
-#### Artikel III. Wijziging [Besluit bekwaamheidseisen onderwijspersoneel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029609)
+##### Artikel III. Wijziging [Besluit bekwaamheidseisen onderwijspersoneel BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029609)
 
 Wijzigt het Besluit bekwaamheidseisen onderwijspersoneel BES.
 
-#### Artikel IV. Wijziging [Besluit bevoegdheidsverklaring leraren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028647)
+##### Artikel IV. Wijziging [Besluit bevoegdheidsverklaring leraren BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028647)
 
 Wijzigt het Besluit bevoegdheidsverklaring leraren BES.
 
-#### Artikel V. Wijziging [Besluit experimenten flexibel hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0037837)
+##### Artikel V. Wijziging [Besluit experimenten flexibel hoger onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0037837)
 
 Wijzigt het Besluit experimenten flexibel hoger onderwijs.
 
-#### Artikel VI. Wijziging [Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065)
+##### Artikel VI. Wijziging [Besluit informatievoorziening WPO/WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0018065)
 
 Wijzigt het Besluit informatievoorziening WPO/WEC.
 
-#### Artikel VII. Wijziging [Besluit kerndoelen WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0025979)
+##### Artikel VII. Wijziging [Besluit kerndoelen WEC](https://wetten.overheid.nl/jci1.3:c:BWBR0025979)
 
 Wijzigt het Besluit kerndoelen WEC.
 
-#### Artikel VIII. Wijziging [Besluit medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003710)
+##### Artikel VIII. Wijziging [Besluit medezeggenschap onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0003710)
 
 Wijzigt het Besluit medezeggenschap onderwijs.
 
-#### Artikel IX. Wijziging [Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879)
+##### Artikel IX. Wijziging [Besluit referentieniveaus Nederlandse taal en rekenen](https://wetten.overheid.nl/jci1.3:c:BWBR0027879)
 
 Wijzigt het Besluit referentieniveaus Nederlandse taal en rekenen.
 
-#### Artikel X. Wijziging [Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](https://wetten.overheid.nl/jci1.3:c:BWBR0013111)
+##### Artikel X. Wijziging [Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten](https://wetten.overheid.nl/jci1.3:c:BWBR0013111)
 
 Wijzigt het Besluit regionale meld- en coördinatiefunctie voortijdig schoolverlaten.
 
-#### Artikel XI. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
+##### Artikel XI. Wijziging [Besluit register onderwijsdeelnemers](https://wetten.overheid.nl/jci1.3:c:BWBR0042639)
 
 Wijzigt het Besluit register onderwijsdeelnemers.
 
-#### Artikel XII. Wijziging [Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545)
+##### Artikel XII. Wijziging [Besluit studiefinanciering 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011545)
 
 Wijzigt het Besluit studiefinanciering 2000.
 
-#### Artikel XIII. Wijziging [Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020)
+##### Artikel XIII. Wijziging [Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES](https://wetten.overheid.nl/jci1.3:c:BWBR0045020)
 
 Wijzigt het Besluit Saba Comprehensive School en Gwendoline van Puttenschool BES.
 
-#### Artikel XIV. Wijziging [Besluit uitwisseling leer- en begeleidingsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0031619)
+##### Artikel XIV. Wijziging [Besluit uitwisseling leer- en begeleidingsgegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0031619)
 
 Wijzigt het Besluit uitwisseling leer- en begeleidingsgegevens.
 
-#### Artikel XV. Wijziging van het [Besluit van 7 juni 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039666) (Stb. 2017, 260)
+##### Artikel XV. Wijziging van het [Besluit van 7 juni 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039666) (Stb. 2017, 260)
 
 Wijzigt het Wijzigingsbesluit Besluit informatievoorziening WPO/WEC, enz. (gegevenslevering voor en de gegevensverstrekking uit het lerarenregister en het registervoorportaal).
 
-#### Artikel XVI. Wijziging van het [Besluit van 9 juni 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039713) (Stb. 2017, 288)
+##### Artikel XVI. Wijziging van het [Besluit van 9 juni 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039713) (Stb. 2017, 288)
 
 Wijzigt het Wijzigingsbesluit Inrichtingsbesluit WVO enz. (deeleindexamens vmbo).
 
-#### Artikel XVII. Wijziging van het [Besluit van 5 juni 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043657) (Stb. 2020, 171)
+##### Artikel XVII. Wijziging van het [Besluit van 5 juni 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0043657) (Stb. 2020, 171)
 
 Wijzigt het Wijzigingsbesluit Inrichtingsbesluit WVO, enz. (onder meer vaststelling voorwaarde voor doorstroom naar havo).
 
-#### Artikel XVIII. Wijziging [Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390)
+##### Artikel XVIII. Wijziging [Besluit zij-instroom leraren primair en voortgezet onderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0024390)
 
 Wijzigt het Besluit zij-instroom leraren primair en voortgezet onderwijs.
 
-#### Artikel XIX. Wijziging [Instellingsbesluit Curriculumcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0043948)
+##### Artikel XIX. Wijziging [Instellingsbesluit Curriculumcommissie](https://wetten.overheid.nl/jci1.3:c:BWBR0043948)
 
 Wijzigt het Instellingsbesluit Curriculumcommissie.
 
-#### Artikel XX. Wijziging [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)
+##### Artikel XX. Wijziging [Staatsexamenbesluit Nederlands als tweede taal](https://wetten.overheid.nl/jci1.3:c:BWBR0006192)
 
 Wijzigt het Staatsexamenbesluit Nederlands als tweede taal.
 
-#### Artikel XXI. Wijziging [Staatsexamenbesluit Nederlands als vreemde taal BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029980)
+##### Artikel XXI. Wijziging [Staatsexamenbesluit Nederlands als vreemde taal BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029980)
 
 Wijzigt het Staatsexamenbesluit Nederlands als vreemde taal BES.
 
-#### Artikel XXII. Wijziging [Uitvoeringsbesluit Les- en cursusgeldwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011400)
+##### Artikel XXII. Wijziging [Uitvoeringsbesluit Les- en cursusgeldwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011400)
 
 Wijzigt het Uitvoeringsbesluit Les- en cursusgeldwet 2000.
 
-#### Artikel XXIII. Wijziging [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
+##### Artikel XXIII. Wijziging [Uitvoeringsbesluit WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0010646)
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2021/558.
 
 Wijzigt het Uitvoeringsbesluit WEB.
 
-#### Artikel XXIV. Wijziging [Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869)
+##### Artikel XXIV. Wijziging [Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap](https://wetten.overheid.nl/jci1.3:c:BWBR0024869)
 
 Wijzigt het Uitvoeringsbesluit onderwijsvoorzieningen voor jongeren met een handicap.
 
-#### Artikel XXV. Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](https://wetten.overheid.nl/jci1.3:c:BWBR0008562)
+##### Artikel XXV. Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO](https://wetten.overheid.nl/jci1.3:c:BWBR0008562)
 
 Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO.
 
-#### Artikel XXVI. Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029607)
+##### Artikel XXVI. Wijziging [Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES](https://wetten.overheid.nl/jci1.3:c:BWBR0029607)
 
 Wijzigt het Uitvoeringsbesluit voorzieningen in de huisvesting PO/VO BES.
 
-#### Artikel XXVII. Wijziging van het [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
+##### Artikel XXVII. Wijziging van het [Uitvoeringsbesluit WHW 2008](https://wetten.overheid.nl/jci1.3:c:BWBR0006152)
 
 Wijzigt het Uitvoeringsbesluit WHW 2008.
 
 ### Hoofdstuk II. Justitie en Veiligheid
 
-#### Artikel XXVIII. Wijziging [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
+##### Artikel XXVIII. Wijziging [Vreemdelingenbesluit 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011825)
 
 Wijzigt het Vreemdelingenbesluit 2000.
 
 ### Hoofdstuk III. Financiën
 
-#### Artikel XXIX. Wijziging [Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633)
+##### Artikel XXIX. Wijziging [Uitvoeringsbesluit omzetbelasting 1968](https://wetten.overheid.nl/jci1.3:c:BWBR0002633)
 
 Wijzigt het Uitvoeringsbesluit omzetbelasting 1968.
 
 ### Hoofdstuk IV. Infrastructuur en Waterstaat
 
-#### Artikel XXX. Wijziging [Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739)
+##### Artikel XXX. Wijziging [Subsidiebesluit openbare lichamen milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0004739)
 
 Wijzigt het Subsidiebesluit openbare lichamen milieubeheer.
 
-#### Artikel XXXI. Wijziging [Besluit rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025866)
+##### Artikel XXXI. Wijziging [Besluit rijonderricht motorrijtuigen 2009](https://wetten.overheid.nl/jci1.3:c:BWBR0025866)
 
 Wijzigt het Besluit rijonderricht motorrijtuigen 2009.
 
 ### Hoofdstuk V. Sociale Zaken en Werkgelegenheid
 
-#### Artikel XXXII. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
+##### Artikel XXXII. Wijziging [Arbeidsomstandighedenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008498)
 
 Wijzigt het Arbeidsomstandighedenbesluit.
 
-#### Artikel XXXIII. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
+##### Artikel XXXIII. Wijziging [Besluit SUWI](https://wetten.overheid.nl/jci1.3:c:BWBR0013267)
 
 Wijzigt het Besluit SUWI.
 
-#### Artikel XXXIV. Wijziging [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523)
+##### Artikel XXXIV. Wijziging [Besluit uitvoering Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007523)
 
 Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
-#### Artikel XXXV. Wijziging [Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
+##### Artikel XXXV. Wijziging [Besluit Wfsv](https://wetten.overheid.nl/jci1.3:c:BWBR0019070)
 
 Wijzigt het Besluit Wfsv.
 
 ### Hoofdstuk VI. Volksgezondheid, Welzijn en Sport
 
-#### Artikel XXXVI. Wijziging [Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779)
+##### Artikel XXXVI. Wijziging [Besluit Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0035779)
 
 Wijzigt het Besluit Jeugdwet.
 
-#### Artikel XXXVII. Wijziging [Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant](https://wetten.overheid.nl/jci1.3:c:BWBR0009024)
+##### Artikel XXXVII. Wijziging [Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant](https://wetten.overheid.nl/jci1.3:c:BWBR0009024)
 
 Wijzigt het Besluit opleidingseisen en deskundigheidsgebied radiodiagnostisch laborant en radiotherapeutisch laborant.
 
-#### Artikel XXXVIII. Wijziging [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160)
+##### Artikel XXXVIII. Wijziging [Tabaks- en rookwarenbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0037160)
 
 Wijzigt het Tabaks- en rookwarenbesluit.
 
 ### Hoofdstuk VII. Overige bepalingen
 
-#### Artikel XXXIX. Intrekking van diverse besluiten
+##### Artikel XXXIX. Intrekking van diverse besluiten
 
 De volgende besluiten worden ingetrokken:
 
@@ -240,11 +266,11 @@ De volgende besluiten worden ingetrokken:
 
 - x. het [Wijzigingsbesluit verdeelmaatstaven gemeentefonds 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011693).
 
-#### Artikel XXXX. Inwerkingtreding
+##### Artikel XXXX. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel XXXXI. Citeertitel
+##### Artikel XXXXI. Citeertitel
 
 Dit besluit wordt aangehaald als: Aanpassingsbesluit WVO 2020.
 

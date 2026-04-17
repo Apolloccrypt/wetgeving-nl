@@ -1,14 +1,42 @@
 ---
-title: "Wet pleziervaartuigen 2016"
+title: "Wet van 23 december 2015, houdende regels met betrekking tot de veiligheid en het in de handel brengen van pleziervaartuigen (Wet pleziervaartuigen 2016)"
 identifier: "BWBR0037546"
-categorie: "Overig"
-publicatiedatum: 2023-04-19
-laatste_update: 2023-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037546"
+country: "nl"
+rank: "wet"
+publication_date: "2023-04-19"
+last_updated: "2023-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037546"
+soort: "wet"
+stam_id: "13394423"
+version_id: "22973232"
+internal_id: "C33217301"
+label_id: "13362354"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037546/2023-04-19/0"
+intitule_bron: "Stb.2016-26"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-12-23"
+intitule_published: "2016-01-15"
+intitule_in_force: "2016-01-15"
+intitule_status: "goed"
+original_publication: "Stb.2016-26"
+original_signed_date: "2015-12-23"
+original_published_date: "2016-01-15"
+original_effect: "nieuwe-regeling"
+original_dossier: "34265"
+original_url_id: "stb-2016-26"
+entry_into_force_date: "2016-01-18"
+entry_into_force_dossier: "34265"
+jci_1_3: "jci1.3:c:BWBR0037546&z=2023-04-19&g=2023-04-19"
+jci_1_0: "1.0:c:BWBR0037546&g=2023-04-19"
+citeertitel_status: "officieel"
+short_title: "Wet pleziervaartuigen 2016"
+signed_date: "2015-12-23"
+entry_into_force: "2016-01-18"
 ---
-
-# Wet pleziervaartuigen 2016
+# Wet van 23 december 2015, houdende regels met betrekking tot de veiligheid en het in de handel brengen van pleziervaartuigen (Wet pleziervaartuigen 2016)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Hoofdstuk 1. Inleidende bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -88,7 +116,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - **waterscooter:** voor sport- en vrijetijdsdoeleinden bedoeld vaartuig met een romplengte van minder dan 4 meter dat een voortstuwingsmotor met een waterstraalpomp als primaire voortstuwingsbron gebruikt en ontworpen is om door (een) op en niet in de romp zittende, staande of knielende persoon (personen) te worden bediend;
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is niet van toepassing op:
 
@@ -152,7 +180,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Algemene verplichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Vaartuigen, gedeeltelijk afgebouwde vaartuigen, onderdelen, ingrijpend verbouwde vaartuigen, voortstuwingsmotoren of ingrijpend gewijzigde voortstuwingsmotoren worden slechts op de markt aangeboden of in bedrijf gesteld, indien zij bij gebruik volgens hun bestemming en indien zij op correcte wijze zijn gebouwd en worden onderhouden geen gevaar opleveren voor de veiligheid en gezondheid van personen, goederen of het milieu.
 
@@ -160,7 +188,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 3. In vaartuigen ingebouwde voortstuwingsmotoren voldoen, onverminderd het eerste lid, tevens aan artikel 6, vierde lid, van de richtlijn, voor zover daarin aanvullende voorschriften zijn gesteld voor het op de markt aanbieden of in bedrijf stellen van die voortstuwingsmotoren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoelde producten die voldoen aan de in artikel 14 van de richtlijn bedoelde geharmoniseerde normen geldt als veronderstelling dat zij voldoen aan artikel 3, tweede lid.
 
@@ -174,7 +202,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Voor een van een CE-markering voorzien product geldt als veronderstelling dat het voldoet aan de in bijlage I van de richtlijn opgenomen essentiële eisen.
 
-#### Artikel 5
+##### Artikel 5
 
 In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=4&z=2023-04-19&g=2023-04-19), is het toegestaan om:
 
@@ -188,7 +216,7 @@ In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 3. Verplichtingen van marktdeelnemers en particuliere importeurs
 
-#### Artikel 6
+##### Artikel 6
 
 1. De marktdeelnemers en particuliere importeurs nemen de in Hoofdstuk II en artikel 25 van de richtlijn opgenomen verplichtingen in acht.
 
@@ -200,11 +228,11 @@ In afwijking van [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR
 
 ### Hoofdstuk 4. Aanmelding, beoordeling en taken van keuringsinstanties
 
-#### Artikel 7
+##### Artikel 7
 
 Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstanties die in overeenstemming met [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2023-04-19&g=2023-04-19) beschikken over een aanmelding bij de Europese Commissie en de andere lidstaten van de Europese Unie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Onze Minister kan op verzoek keuringsinstanties, die voldoen aan de krachtens het derde lid gestelde voorschriften, aanwijzen en bij de Europese Commissie en de andere lidstaten van de Europese Unie aanmelden als de op grond van deze wet bevoegde keuringsinstanties met betrekking tot de door hem te bepalen categorieën pleziervaartuigen, voortstuwingsmotoren en onderdelen van pleziervaartuigen en belast met door hem aan te geven taken. Het toezicht op deze keuringsinstanties berust bij Onze Minister.
 
@@ -216,11 +244,11 @@ Keuringen ten aanzien van derden worden uitsluitend verricht door keuringsinstan
 
 5. Onze Minister trekt een aanwijzing en aanmelding in, schort deze op of beperkt deze, indien hij van oordeel is dat de betreffende keuringsinstantie niet meer voldoet aan de krachtens het derde lid gestelde criteria of aan het vierde lid.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geharmoniseerde normen of delen ervan, waarvan de referenties in het Publicatieblad van de Europese Unie zijn bekendgemaakt, geldt als veronderstelling dat zij voldoet aan de krachtens [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=4&artikel=8&z=2023-04-19&g=2023-04-19), gestelde criteria voor de beoordeling voor zover de toepasselijke geharmoniseerde normen met die criteria overeenkomen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een aangemelde keuringsinstantie voert keuringen uit volgens de keuringsprocedures, bedoeld in de artikelen 19 tot en met 24 van de richtlijn.
 
@@ -234,7 +262,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 6. Een wijziging van de artikelen 19 tot en met 24 van de richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een aangemelde keuringsinstantie stelt Onze Minister in kennis van:
 
@@ -250,7 +278,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 ### Hoofdstuk 5. Verbodsbepalingen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het is verboden een in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), bedoeld product in de handel te brengen of als zodanig in bedrijf te stellen, indien dit niet voldoet aan de desbetreffende in bijlage I van de richtlijn opgenomen essentiële eisen.
 
@@ -278,7 +306,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 #### § 1. **Toezicht waaronder markttoezicht**
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport.
 
@@ -288,7 +316,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 4. Het in het eerste en tweede lid bedoelde toezicht omvat mede de activiteiten en maatregelen in het kader van het markttoezicht.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Indien de markttoezichthouder vaststelt dat een product als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=2&artikel=3&z=2023-04-19&g=2023-04-19), gevaar kan opleveren voor de veiligheid en de gezondheid van personen, goederen of het milieu, legt hij direct de verantwoordelijke marktdeelnemer of particuliere importeur de verplichting op binnen een door hem vast te stellen termijn met de aard van het risico evenredige maatregelen te nemen om dat product in overeenstemming te brengen met bijlage I van de richtlijn, uit de handel te nemen of terug te roepen dan wel het in bedrijf stellen of het gebruik ervan op te schorten.
 
@@ -296,13 +324,13 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 3. Indien geen of geen tijdige uitvoering wordt gegeven aan de krachtens het eerste lid opgelegde maatregelen neemt de markttoezichthouder alle passende voorlopige maatregelen om het op de markt aanbieden van het betreffende product te verbieden of te beperken, dit uit de handel te nemen of terug te roepen dan wel de inbedrijfstelling of het gebruik ervan te verbieden of te beperken.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De markttoezichthouder stelt de betrokken aangemelde keuringsinstantie in kennis van een situatie als bedoeld in [artikel 14, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2023-04-19&g=2023-04-19), alsmede de Europese Commissie en de andere lidstaten van de Europese Unie, indien naar zijn oordeel het vastgestelde gevaar niet beperkt is tot het Nederlandse grondgebied.
 
 2. De markttoezichthouder stelt direct de Europese Commissie en de andere lidstaten van de Europese Unie overeenkomstig artikel 44, vijfde lid, van de richtlijn in kennis van een situatie als bedoeld in [artikel 14, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=14&z=2023-04-19&g=2023-04-19).
 
-#### Artikel 16
+##### Artikel 16
 
 1. De markttoezichthouder draagt de desbetreffende marktdeelnemer of particuliere importeur op om een product in overeenstemming te brengen met de bij of krachtens deze wet geldende voorschriften indien hij vaststelt dat:
 
@@ -322,7 +350,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 #### § 2. **Toezicht op de aangemelde keuringsinstanties**
 
-#### Artikel 17
+##### Artikel 17
 
 1. Onze Minister kan het toezicht op de aangemelde keuringsinstanties opdragen aan een nationale accreditatie-instantie.
 
@@ -330,7 +358,7 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 #### § 3. **Bestuurlijke boete**
 
-#### Artikel 18
+##### Artikel 18
 
 1. Onze Minister kan aan degene die handelt in strijd met de in [artikel 12, met uitzondering van het zevende lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=5&artikel=12&z=2023-04-19&g=2023-04-19), gestelde verboden een bestuurlijke boete opleggen.
 
@@ -342,13 +370,13 @@ Indien een keuringsinstantie aantoont dat zij voldoet aan de desbetreffende geha
 
 5. De op te leggen bestuurlijke boete kan met maximaal 50% worden verhoogd, indien binnen een periode van 48 maanden tweemaal voor een zelfde feit, elk afzonderlijk in een periode van maximaal 24 maanden voorafgaand aan dat feit, een boete is opgelegd en onherroepelijk is geworden.
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen.
 
 ### Hoofdstuk 8. Overgangsbepalingen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Producten die voor 18 januari 2016 onder het toepassingsgebied van [Richtlijn 94/25/EG](31994L0025) vielen en daarmee in overeenstemming zijn, mogen tot 18 januari 2017 in de handel worden gebracht of in bedrijf gesteld met toepassing van de [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366), zoals die luidde op de dag voorafgaand aan die van inwerkingtreding van deze wet.
 
@@ -356,31 +384,31 @@ Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de 
 
 ### Hoofdstuk 9. Slotbepalingen
 
-#### Artikel 21
+##### Artikel 21
 
 Een wijziging van de bijlagen bij de richtlijn gaat voor de toepassing van deze wet gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.
 
-#### Artikel 22
+##### Artikel 22
 
 Wijzigt de Wet op de economische delicten.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De [Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366) wordt ingetrokken.
 
 2. Op producten die op de markt zijn aangeboden of in gebruik zijn genomen voor de inwerkingtreding van deze wet blijven de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=4), [5](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=5), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=6), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7), [7a](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7a), [7b](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=7b), [13](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=13), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=14), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=15), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=16) en [17 van de Wet pleziervaartuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0008366&artikel=17) van toepassing, zoals die luidde op de dag voorafgaand aan die van de inwerkingtreding van deze wet en is [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=9&artikel=22&z=2023-04-19&g=2023-04-19) niet van toepassing.
 
-#### Artikel 24
+##### Artikel 24
 
 Deze wet treedt in werking met ingang van 18 januari 2016. Indien het Staatsblad waarin deze wet wordt geplaatst wordt uitgegeven na 17 januari 2016, treedt deze wet in werking met ingang van de dag, volgende op die van plaatsing van deze wet in het Staatsblad.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze wet wordt aangehaald als: Wet pleziervaartuigen 2016.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren, zijn in afwijking van [artikel 5:15, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:15), bevoegd met medeneming van de benodigde apparatuur een woning te betreden zonder toestemming van de bewoner ten behoeve van de uitoefening van de bevoegdheden, bedoeld in artikel 14, vierde lid, onderdelen a, d en e, van de EU-verordening markttoezicht.
 
@@ -390,7 +418,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 4. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=2) en [3 van de Algemene wet op het binnentreden](https://wetten.overheid.nl/jci1.3:c:BWBR0006763&artikel=3) zijn niet van toepassing.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. De ingevolge [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) aangewezen ambtenaren zijn bevoegd om, ter uitvoering van de EU-verordening markttoezicht, onder verstrekking van onjuiste of onvolledige gegevens met betrekking tot hun identiteit en hoedanigheid, producten als bedoeld in artikel 3, eerste lid, te verkrijgen ten behoeve van het controleren van de kenmerken van deze producten en de verificatie van de documenten en de hieraan gerelateerde handelingen te verrichten voor zover dat voor de vervulling van hun taak noodzakelijk is. [Artikel 5:12, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:12) is niet van toepassing.
 
@@ -410,7 +438,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - g. wat de uitkomst is van het onderzoek van het verkregen product.
 
-#### Artikel 13c
+##### Artikel 13c
 
 1. Ter uitvoering van de EU-verordening markttoezicht kan Onze Minister, indien er geen andere doeltreffende middelen voorhanden zijn om een ernstig risico als bedoeld in artikel 3, onderdeel 20, van de EU-verordening markttoezicht, gevormd door het product, weg te nemen, een zelfstandige last opleggen aan degene die daartoe in staat is, om inhoud te verwijderen van of de toegang te beperken tot een online interface als bedoeld in artikel 3, onderdeel 15, van de EU-verordening markttoezicht of opdracht te geven tot de duidelijke weergave van een waarschuwing voor eindgebruikers, bedoeld in artikel 3, onderdeel 21, van de EU-verordening markttoezicht, wanneer zij zich toegang verschaffen tot een online interface.
 
@@ -426,7 +454,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 7. Onze Minister maakt de machtiging van de rechter-commissaris gelijktijdig met de zelfstandige last, bedoeld in het eerste of tweede lid, bekend.
 
-#### Artikel 13d
+##### Artikel 13d
 
 [Titel 5.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=5.2) is van overeenkomstige toepassing voor zover de krachtens [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0037546&hoofdstuk=6&paragraaf=1&artikel=13&z=2023-04-19&g=2023-04-19) van de wet aangewezen toezichthouders bijstand verlenen aan een markttoezichtautoriteit uit een andere lidstaat van de Europese Unie op grond van artikel 22 of artikel 23 van die verordening.
 

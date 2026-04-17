@@ -1,24 +1,48 @@
 ---
 title: "Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15"
 identifier: "BWBR0007889"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-02-25
-laatste_update: 2005-02-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007889"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-02-25"
+last_updated: "2005-02-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007889"
+soort: "ministeriele-regeling"
+stam_id: "4258253"
+version_id: "6021662"
+internal_id: "C6225051"
+label_id: "4236804"
+dtd_version: "2.0"
+original_entry_into_force: "1996-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007889/2005-02-25/0"
+intitule_bron: "Stcrt.1996-33"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-02-05"
+intitule_published: "1996-02-15"
+intitule_in_force: "1996-02-15"
+intitule_status: "goed"
+original_publication: "Stcrt.1996-33"
+original_signed_date: "1996-02-05"
+original_published_date: "1996-02-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1996-02-16"
+jci_1_3: "jci1.3:c:BWBR0007889&z=2005-02-25&g=2005-02-25"
+jci_1_0: "1.0:c:BWBR0007889&g=2005-02-25"
+citeertitel_status: "officieel"
+signed_date: "1996-02-05"
+entry_into_force: "1996-02-16"
 ---
-
 # Instelling bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Ingesteld wordt:
 
 een bestuurlijke begeleidingsgroep Noord-oostelijke verbinding - RW 15, nader te noemen de begeleidingsgroep.
 
-#### Artikel 2
+##### Artikel 2
 
 De begeleidingsgroep heeft tot taak:
 
@@ -40,7 +64,7 @@ Daartoe heeft de begeleidingsgroep de volgende functies:
 
 - e. advies: het gevraagd en ongevraagd adviseren van de initiatiefnemer.
 
-#### Artikel 3
+##### Artikel 3
 
 Als leden van de begeleidingsgroep worden aangewezen:
 
@@ -74,6 +98,6 @@ Verder zullen aan de vergaderingen van de begeleidingsgroep deelnemen:
 
 - 4. een secretaris (vanuit Rijkswaterstaat directie Oost-Nederland).
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum waarop dit besluit is geplaatst in de Staatscourant.

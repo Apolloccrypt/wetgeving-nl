@@ -1,20 +1,45 @@
 ---
-title: "Instellingsregeling WBI"
+title: "Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2005, nr. 2350225/01 tot instelling van de Werkgroep Bijzondere Informatiebeveiliging (Instellingsregeling WBI)"
 identifier: "BWBR0018483"
-categorie: "Overig"
-publicatiedatum: 2005-07-23
-laatste_update: 2005-07-23
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018483"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2005-07-23"
+last_updated: "2005-07-23"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018483"
+soort: "ministeriele-regeling"
+stam_id: "7166093"
+version_id: "12081332"
+internal_id: "C16200411"
+label_id: "7154014"
+original_entry_into_force: "2005-07-23"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018483/2005-07-23/0"
+intitule_bron: "Stcrt.2005-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-06-27"
+intitule_published: "2005-07-21"
+intitule_in_force: "2005-07-21"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-139"
+original_signed_date: "2005-06-27"
+original_published_date: "2005-07-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-139-p8-SC70836"
+entry_into_force_date: "2005-07-23"
+jci_1_3: "jci1.3:c:BWBR0018483&z=2005-07-23&g=2005-07-23"
+jci_1_0: "1.0:c:BWBR0018483&g=2005-07-23"
+citeertitel_status: "officieel"
+short_title: "Instellingsregeling WBI"
+signed_date: "2005-06-27"
+entry_into_force: "2005-07-23"
 ---
-
 # Regeling van de minister van Binnenlandse Zaken en Koninkrijksrelaties van 27 juni 2005, nr. 2350225/01 tot instelling van de Werkgroep Bijzondere Informatiebeveiliging (Instellingsregeling WBI)
 
 Handelende in overeenstemming met het gevoelen van de ministerraad;
 
 Besluit:
 
-#### Artikel 1. Verklaring van gebruikte begrippen
+##### Artikel 1. Verklaring van gebruikte begrippen
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +57,7 @@ In dit besluit wordt verstaan onder:
 
 - g. WBI: Werkgroep Bijzondere informatie beveiliging, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018483&artikel=2&z=2005-07-23&g=2005-07-23).
 
-#### Artikel 2. Werkgroep Bijzondere Informatiebeveiliging
+##### Artikel 2. Werkgroep Bijzondere Informatiebeveiliging
 
 1. Er is een Werkgroep Bijzondere Informatiebeveiliging (WBI).
 
@@ -40,7 +65,7 @@ In dit besluit wordt verstaan onder:
 
 3. De WBI ontvangt aanwijzingen van het CVIN.
 
-#### Artikel 3. Taken WBI
+##### Artikel 3. Taken WBI
 
 De WBI heeft tot taak:
 
@@ -56,7 +81,7 @@ De WBI heeft tot taak:
 
 - 6. het adviseren inzake het vaststellen van het jaarlijkse programma en bestedingsplan van de Cryptofaciliteit.
 
-#### Artikel 4. Samenstelling en werkwijze
+##### Artikel 4. Samenstelling en werkwijze
 
 1. De WBI bestaat uit een vertegenwoordiger van:
 
@@ -94,13 +119,13 @@ De WBI heeft tot taak:
 
 10. De WBI vergadert in ieder geval vier keer per kalenderjaar en daarnaast telkens op verzoek van een of meerdere leden.
 
-#### Artikel 5. Advisering
+##### Artikel 5. Advisering
 
 1. Er wordt gestreefd naar unanimiteit bij de advisering. Indien er geen unanimiteit wordt bereikt worden adviezen van de WBI vastgesteld overeenkomstig het gevoelen van de meerderheid van de werkgroep.
 
 2. Op verzoek van vertegenwoordiger(s) die ter vergadering een standpunt hebben ingenomen dat afwijkt van het gevoelen van de meerderheid van de werkgroep, wordt het standpunt bij het advies vermeld.
 
-#### Artikel 6. Veiligheidsonderzoek
+##### Artikel 6. Veiligheidsonderzoek
 
 1. De vertegenwoordigers van de ministeries die lid of agendalid zijn van de WBI en adviseurs van de WBI moeten zijn gemachtigd om kennis te nemen van stukken voorzien van de hoogste rubricering en relevante merkingen.
 
@@ -114,17 +139,17 @@ De WBI heeft tot taak:
 
 - d. de in [artikel 4, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0018483&artikel=4&z=2005-07-23&g=2005-07-23), bedoelde vertegenwoordiger**s.**
 
-#### Artikel 7. Evaluatie
+##### Artikel 7. Evaluatie
 
 1. De WBI evalueert haar functioneren vóór 1 mei 2009. Zij brengt het verslag van de evaluatie ter kennis van het CVIN.
 
 2. Op basis van de uitkomsten van de evaluatie, bedoeld in het eerste lid, besluit de minister van Binnenlandse Zaken en Koninkrijksrelaties, nadat het CVIN hierover aan hem advies heeft uitgebracht, tot voortzetting of opheffing van de WBI.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Deze regeling wordt aangehaald als: Instellingsregeling WBI.
 

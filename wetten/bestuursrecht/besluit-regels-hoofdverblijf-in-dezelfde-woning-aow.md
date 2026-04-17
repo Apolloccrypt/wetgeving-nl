@@ -1,13 +1,39 @@
 ---
-title: "Besluit regels hoofdverblijf in dezelfde woning AOW"
+title: "Besluit van 15 oktober 2014, houdende regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning als bedoeld in artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet (Besluit regels hoofdverblijf in dezelfde woning AOW)"
 identifier: "BWBR0035661"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035661"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035661"
+soort: "AMvB"
+stam_id: "12819133"
+version_id: "21777472"
+internal_id: "C31347831"
+label_id: "12788714"
+dtd_version: "2.0"
+original_entry_into_force: "2014-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035661/2024-01-01/0"
+intitule_bron: "Stb.2014-385"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-10-15"
+intitule_published: "2014-10-23"
+intitule_in_force: "2014-11-27"
+intitule_status: "goed"
+original_publication: "Stb.2014-385"
+original_signed_date: "2014-10-15"
+original_published_date: "2014-10-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-385"
+entry_into_force_date: "2014-11-28"
+jci_1_3: "jci1.3:c:BWBR0035661&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0035661&g=2024-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit regels hoofdverblijf in dezelfde woning AOW"
+signed_date: "2014-10-15"
+entry_into_force: "2014-11-28"
 ---
-
 # Besluit van 15 oktober 2014, houdende regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning als bedoeld in artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet (Besluit regels hoofdverblijf in dezelfde woning AOW)
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 11 juli 2014, nr. 2014-0000101466;
@@ -20,7 +46,7 @@ Gezien het nader rapport van de Staatssecretaris van Sociale Zaken en Werkgelege
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 1. In dit besluit wordt verstaan onder:
 
@@ -72,7 +98,7 @@ Hebben goedgevonden en verstaan:
 
 - b. een woning waarvan het gebruik naar zijn aard slechts van korte duur is, waaronder in ieder geval wordt gerekend een voor het doorbrengen van vakantie maar niet voor permanente bewoning geschikte of bestemde vakantie- of recreatiewoning.
 
-#### Artikel 2. Geen hoofdverblijf in dezelfde woning voor het voeren van een gezamenlijke huishouding
+##### Artikel 2. Geen hoofdverblijf in dezelfde woning voor het voeren van een gezamenlijke huishouding
 
 1. Een pensioengerechtigde die met een andere pensioengerechtigde of met een andere ongehuwde meerderjarige persoon, anders dan een bloedverwant in de eerste graad, zijn hoofdverblijf heeft in een woning wordt voor de toepassing van [artikel 1, vierde en vijfde lid, aanhef, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) in ieder geval geacht niet met die pensioengerechtigde of die persoon zijn hoofdverblijf in die woning te hebben als ieder van hen:
 
@@ -110,7 +136,7 @@ Hebben goedgevonden en verstaan:
 
 - g. de kosten per maand van de nutsvoorzieningen.
 
-#### Artikel 3. Overgangsbepalingen
+##### Artikel 3. Overgangsbepalingen
 
 1. [Artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), is niet van toepassing op de ongehuwde pensioengerechtigde die op de dag voor inwerkingtreding van dit besluit recht heeft op een toeslag als bedoeld in [artikel 8, eerste lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=8) en van wie dat recht als gevolg van de toepassing van artikel 2, eerste lid, zou eindigen, voor zolang dat recht op toeslag duurt.
 
@@ -122,7 +148,7 @@ Hebben goedgevonden en verstaan:
 
 5. De ongehuwde pensioengerechtigde en zijn echtgenoot ten aanzien van wie, op grond van een verzoek als bedoeld in het vierde lid, [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0035661&artikel=2&z=2024-01-01&g=2024-01-01), niet wordt toegepast, kunnen de Sociale verzekeringsbank gezamenlijk verzoeken om artikel 2, eerste lid, toe te passen, welk verzoek door de Sociale verzekeringsbank wordt ingewilligd.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en kan terugwerken tot en met een in dat besluit te bepalen tijdstip.
 

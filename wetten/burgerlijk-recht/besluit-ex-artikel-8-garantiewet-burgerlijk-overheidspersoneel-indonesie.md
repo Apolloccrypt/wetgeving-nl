@@ -1,13 +1,35 @@
 ---
-title: "Besluit ex artikel 8 Garantiewet Burgerlijk Overheidspersoneel Indonesië"
+title: "Besluit van 26 mei 1953, tot vaststelling van een nieuwe algemene maatregel van bestuur als bedoeld in artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. K 178)"
 identifier: "BWBR0002110"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002110"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002110"
+soort: "AMvB"
+stam_id: "428263"
+version_id: "629112"
+internal_id: "C629111"
+label_id: "416844"
+dtd_version: "2.0"
+original_entry_into_force: "1953-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002110/2020-01-01/0"
+intitule_bron: "Stb.1953-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1953-05-26"
+intitule_status: "goed"
+original_publication: "Stb.1953-239"
+original_signed_date: "1953-05-26"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1953-06-01"
+jci_1_3: "jci1.3:c:BWBR0002110&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0002110&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit ex artikel 8 Garantiewet Burgerlijk Overheidspersoneel Indonesië"
+signed_date: "1953-05-26"
+entry_into_force: "1953-06-01"
 ---
-
 # Besluit van 26 mei 1953, tot vaststelling van een nieuwe algemene maatregel van bestuur als bedoeld in artikel 8 van de Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. K 178)
 
 Op de voordracht van Onze Minister van Buitenlandse Zaken en van Onze Minister zonder Portefeuille, Mr J.M.A.H. Luns, van 4 Mei 1953, Directie Overgangszaken Indonesië/WJ, no. 55136;
@@ -26,7 +48,7 @@ Met buitenwerkingstelling van Ons besluit van 22 juni 1950
 
 ### Hoofdstuk I. Algemene bepaling
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -40,11 +62,11 @@ In dit besluit wordt verstaan onder:
 
 ### Hoofdstuk II. Van de standplaats en de samenstelling der commissie
 
-#### Artikel 2
+##### Artikel 2
 
 Er is een commissie, gevestigd te 's-Gravenhage, welke de naam draagt van "Garantiewetcommissie".
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie is samengesteld uit ten hoogste een voorzitter, een tweede voorzitter, twee leden en twee plaatsvervangende leden.
 
@@ -52,35 +74,35 @@ Er is een commissie, gevestigd te 's-Gravenhage, welke de naam draagt van "Garan
 
 3. De secretaris kan worden benoemd tot waarnemend lid of waarnemend plaatsvervangend lid.
 
-#### Artikel 4
+##### Artikel 4
 
 De voorzitter, de tweede voorzitter, de leden, de plaatsvervangende leden, de secretaris en hun eventuele waarnemers mogen rechtstreeks noch zijdelings in dienst zijn van of werkzaam zijn bij de Republiek Indonesië, dan wel bij een overheidslichaam of overheidsinstelling van die Republiek.
 
 ### Hoofdstuk III. Van benoeming, beëdiging en ontslag
 
-#### Artikel 5
+##### Artikel 5
 
 De voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden worden benoemd door Onze Minister.
 
-#### Artikel 6
+##### Artikel 6
 
 Eén lid en één plaatsvervangend lid worden niet benoemd dan nadat elk der besturen van door Onze Minister aan te wijzen vakorganisaties of centralen van vakorganisaties, welke belangen behartigen van overheidsdienaren of gewezen overheidsdienaren, op wie de Garantiewet van toepassing is, in de gelegenheid is gesteld binnen een door Onze Minister te bepalen termijn een aanbeveling te doen van twee personen voor elke te vervullen plaats.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister sluit namens de Staat een arbeidsovereenkomst met de secretaris na overleg met de commissie en kan desnodig verder personeel aan de commissie toevoegen.
 
 2. Bij ontstentenis of wettige reden van verhindering van de secretaris kan de voorziter een waarnemend secretaris aanwijzen.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Alvorens hun functie te aanvaarden leggen de voorzitter, de tweede voorzitter, de leden, de plaatsvervangende leden en de secretaris de volgende eed (verklaring en belofte) af:
 
@@ -90,7 +112,7 @@ Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontv
 
 2. De eed (verklaring en belofte) wordt (worden) door de voorzitter, de tweede voorzitter, de leden, de plaatsvervangende leden en de secretaris afgelegd in handen van Onze Minister of van een door deze daartoe aan te wijzen ambtenaar.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden kunnen worden ontslagen:
 
@@ -110,7 +132,7 @@ Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontv
 
 ### Hoofdstuk IV. Van de werkwijze der commissie
 
-#### Artikel 12
+##### Artikel 12
 
 1. Zaken, tot welker beslissing de commissie bevoegd is, kunnen aanhangig worden gemaakt door:
 
@@ -128,7 +150,7 @@ Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontv
 
 2. De commissie kan ambtshalve zaken in behandeling nemen, met inbegrip van zaken, waarbij een groep van overheidsdienaren is betrokken.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De voorzitter roept de commissie bijeen, zo vaak als hij dit nodig oordeelt. Hij heeft de leiding van de vergaderingen.
 
@@ -142,17 +164,17 @@ Ik zweer (beloof), dat ik nimmer enige giften of geschenken zal aannemen of ontv
 
 6. De commissie streeft naar eenstemmige beslissing. Kan eenstemmigheid niet worden verkregen, dan wordt een beslissing genomen bij meerderheid van stemmen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De commissie is bevoegd personen tot het geven van inlichtingen te horen en schriftelijk die inlichtingen te vragen, welke zij in het belang van het onderzoek nodig acht.
 
 2. De commissie kan een onderzoek omtrent bepaalde op te geven punten opdragen aan de voorzitter, de tweede voorzitter, dan wel aan een of twee van haar leden of plaatsvervangende leden. Deze opdracht houdt mede de bevoegdheid in, welke in het vorige lid is omschreven.
 
-#### Artikel 15
+##### Artikel 15
 
 De beslissing wordt ondertekend door al degenen, die in de eindbeslissing stemgerechtigd zijn geweest. Een door de voorzitter of secretaris ondertekend afschrift wordt zo spoedig mogelijk toegezonden aan Onze Minister.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Door Ons dan wel door Onze Minister kunnen aan de commissie zodanige werkzaamheden, het nemen van beslissingen daarbij inbegrepen, worden opgedragen als voor een juiste uitvoering van de Garantiewet en van Onze daarop steunende besluiten nodig worden geacht.
 
@@ -162,25 +184,25 @@ De beslissing wordt ondertekend door al degenen, die in de eindbeslissing stemge
 
 ### Hoofdstuk V. Van beroep
 
-#### Artikel 17
+##### Artikel 17
 
 Tegen de beslissingen, genomen door de commissie, kan een belanghebbende als bedoeld in [artikel 12, eerste lid, onder **c, d, e** of **f**](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=IV&artikel=12&z=2020-01-01&g=2020-01-01), in beroep komen bij Onze Minister.
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Alvorens een beschikking te nemen wint Onze Minister het gevoelen in van een advies-commissie van drie leden, die door Ons op voordracht van Onze Minister worden benoemd. De advies-commissie, welke de naam draagt van "Advies-commissie in Garantiewetzaken", wijst een van haar leden als voorzitter aan. Het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=II&artikel=4&z=2020-01-01&g=2020-01-01) is op de leden van de advies-commissie van overeenkomstige toepassing. Zij kunnen niet tevens voorzitter, tweede voorzitter, lid of plaatsvervangend lid zijn van de commissie.
 
 ### Hoofdstuk VI. Van vergoedingen
 
-#### Artikel 20
+##### Artikel 20
 
 Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, de tweede voorzitter, de leden en de plaatsvervangende leden van de commissie worden beloningen toegekend op de voet van Ons besluit van 29 december 1921 (**Stb.** 1452), laatstelijk gewijzigd bij Ons besluit van 15 februari 1935 (**Stb.** 53), betreffende een regeling ten aanzien van de toekenning van vacatiegeld, volgens door Ons, dan wel door Onze Minister, met medewerking van Onze Minister van Financiën nader vast te stellen regelen.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Personen, die anders dan op eigen verzoek zijn opgeroepen om voor de commissie of voor de adviescommissie, bedoeld in [artikel 19, lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002110&hoofdstuk=V&artikel=19&z=2020-01-01&g=2020-01-01) te verschijnen, dan wel door haar met een opdracht zijn belast, ontvangen uit 's Rijks kas vergoeding voor reis- en verblijfkosten:
 
@@ -192,11 +214,11 @@ Aan de leden van de Advies-commissie in Garantiewetzaken en aan de voorzitter, d
 
 ### Hoofdstuk VII. Slotbepalingen
 
-#### Artikel 22
+##### Artikel 22
 
 Alle stukken en geschriften, opgemaakt in verband met de naleving van de voorschriften van dit besluit, voor zover niet aan evenredig recht onderworpen, zijn vrij van zegel.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 

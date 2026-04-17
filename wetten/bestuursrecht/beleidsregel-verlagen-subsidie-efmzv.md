@@ -1,50 +1,76 @@
 ---
-title: "Beleidsregel verlagen subsidie EFMZV"
+title: "Beleidsregel van de Staatssecretaris van Economische Zaken van 29 juni 2016, nr. WJZ / 16093701, houdende regels die zien op het verlagen van subsidie in het kader van Verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (PbEU 2014, L 149) (Beleidsregel verlagen subsidie EFMZV)"
 identifier: "BWBR0038175"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038175"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038175"
+soort: "beleidsregel"
+stam_id: "13674743"
+version_id: "28278062"
+internal_id: "C39870721"
+label_id: "13641414"
+dtd_version: "2.0"
+original_entry_into_force: "2021-12-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038175/2022-01-01/0"
+intitule_bron: "Stcrt.2016-35584"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-29"
+intitule_published: "2016-07-04"
+intitule_in_force: "2016-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-49563"
+original_signed_date: "2021-12-14"
+original_published_date: "2021-12-17"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2021-49563"
+entry_into_force_date: "2021-12-14"
+jci_1_3: "jci1.3:c:BWBR0038175&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0038175&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel verlagen subsidie EFMZV"
+signed_date: "2021-12-14"
+entry_into_force: "2021-12-14"
 ---
-
 # Beleidsregel van de Staatssecretaris van Economische Zaken van 29 juni 2016, nr. WJZ / 16093701, houdende regels die zien op het verlagen van subsidie in het kader van Verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (PbEU 2014, L 149) (Beleidsregel verlagen subsidie EFMZV)
 
 Gelet op de [artikelen 4:46](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:46), [4:48](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48), [4:49](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:49), [4:50](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:50) en [4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 7 van de Kaderwet EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=7) en [artikel 1.8 van de Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=1.8);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt verstaan onder:
 
 - **verordening 508/2014:** Verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad van 15 mei 2014 inzake het Europees Fonds voor maritieme zaken en visserij en tot intrekking van de Verordeningen (EG) nr. 2328/2003, (EG) nr. 861/2006, (EG) nr. 1198/2006 en (EG) nr. 791/2007 van de Raad en Verordening (EU) nr. 1255/2011 van het Europees Parlement en de Raad (PbEU 2014, L 149).
 
-#### Artikel 2. Reikwijdte
+##### Artikel 2. Reikwijdte
 
 De minister besluit voor subsidies die verstrekt worden in het kader van [verordening 508/2014](32014R0508), tot het verlagen van subsidie in de in deze beleidsregel genoemde gevallen op basis van de bevoegdheden, bedoeld in de [afdelingen 4.2.5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.5) en [4.2.6 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=4.2.6).
 
-#### Artikel 3. Toepassing kortingspercentage
+##### Artikel 3. Toepassing kortingspercentage
 
 1. De in deze beleidsregel opgenomen kortingspercentages worden toegepast op het subsidiebedrag dat resteert na eventuele andere verlagingen van het subsidiebedrag bij vaststelling.
 
 2. Indien er sprake is van een samenwerkingsverband, worden de in deze beleidsregel opgenomen kortingspercentages toegepast op het subsidiebedrag dat de individuele subsidieontvanger die de overtreding heeft begaan, ontvangt, tenzij de overtreding niet aan een individuele subsidieontvanger is toe te rekenen.
 
-#### Artikel 4. Niet aanleveren van gevraagde informatie
+##### Artikel 4. Niet aanleveren van gevraagde informatie
 
 Indien een subsidieontvanger niet heeft voldaan aan een in de [Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758) of in een beschikking tot subsidieverlening opgenomen verplichting juiste en volledige informatie aan te leveren, wordt het subsidiebedrag met twee procent verlaagd.
 
-#### Artikel 5. Niet voldoen aan een meldingsplicht
+##### Artikel 5. Niet voldoen aan een meldingsplicht
 
 Indien een subsidieontvanger niet voldoet aan een in de [Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758) of in een beschikking tot subsidieverlening opgenomen meldingsplicht, wordt het subsidiebedrag met twee procent verlaagd.
 
-#### Artikel 6. Niet voldoen aan administratieverplichtingen
+##### Artikel 6. Niet voldoen aan administratieverplichtingen
 
 1. Indien een subsidieontvanger zijn administratie niet voert of bewaart overeenkomstig [artikel 2.17 van de Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=2.17), of zoals beschreven in een beschikking tot subsidieverlening, wordt het subsidiebedrag met twee procent verlaagd, indien de subsidieontvanger de overtreding niet binnen drie weken heeft hersteld.
 
 2. De termijn, bedoeld in het eerste lid, vangt aan met ingang van de dag na die, waarop de overtreding schriftelijk aan de subsidieontvanger is medegedeeld.
 
-#### Artikel 7. Niet voldoen aan communicatieverplichtingen
+##### Artikel 7. Niet voldoen aan communicatieverplichtingen
 
 Het subsidiebedrag wordt met drie procent verlaagd, indien de subsidieontvanger niet voldoet aan [artikel 3.1.6, zesde of zevende lid, van de Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=3.1.6), of de in een beschikking tot subsidieverlening opgenomen verplichting om:
 
@@ -52,7 +78,7 @@ Het subsidiebedrag wordt met drie procent verlaagd, indien de subsidieontvanger 
 
 - b. er zorg voor te dragen dat bij alle op het publiek gerichte voorlichtings- en publiciteitsmaatregelen duidelijk wordt gemaakt dat voor de desbetreffende concrete actie steun uit het Europees Fonds voor maritieme zaken en visserij is verleend, overeenkomstig de Uitvoeringsverordening (EU) nr. 763/2014 van de Commissie van 11 juli 2014 houdende uitvoeringsbepalingen voor Verordening (EU) nr. 508/2014 van het Europees Parlement en de Raad inzake het Europees Fonds voor maritieme zaken en visserij met betrekking tot de technische kenmerken van voorlichtings- en publiciteitsmaatregelen en instructies over de vormgeving van het embleem van de Unie (PbEU 2014, L 209).
 
-#### Artikel 8. Niet voldoen aan aanbestedingsregels
+##### Artikel 8. Niet voldoen aan aanbestedingsregels
 
 1. Indien een subsidieontvanger, die een aanbestedende dienst is als bedoeld in [artikel 1.1 van de Aanbestedingswet 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032203&artikel=1.1), zich in een project dat is gesubsidieerd in het kader van [verordening 508/2014](32014R0508), niet houdt aan de regels inzake aanbesteding, wordt het subsidiebedrag dat betrekking heeft op de opdracht waar de overtreding op ziet verlaagd overeenkomstig de bijlage bij deze regeling.
 
@@ -68,7 +94,7 @@ Het subsidiebedrag wordt met drie procent verlaagd, indien de subsidieontvanger 
 
 - d. de wijziging de opdracht verandert in het voordeel van de aanbestedende dienst op een wijze die aanvankelijk niet was voorzien.
 
-#### Artikel 9. Niet voldoen aan instandhoudingsplicht
+##### Artikel 9. Niet voldoen aan instandhoudingsplicht
 
 1. Indien een subsidieontvanger niet voldoet aan [artikel 2.19](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=2.19) of [artikel 3.1.7 van de Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=3.1.7) of de in een beschikking tot subsidieverlening opgenomen verplichting tot instandhouding van een investering, wordt het subsidiebedrag dat betrekking heeft op de investering die onterecht niet in stand is gehouden verlaagd met een percentage dat wordt bepaald door het aantal dagen dat een investering onterecht niet in stand is gehouden, te delen door het aantal dagen dat de instandhoudingsplicht van toepassing is, vermenigvuldigd met 100.
 
@@ -86,17 +112,17 @@ Het subsidiebedrag wordt met drie procent verlaagd, indien de subsidieontvanger 
 
 - b. is beëindigd, wordt als einddatum de datum aangehouden van de laatste dag waarop de instandhoudingsplicht van toepassing is.
 
-#### Artikel 10. Cumulatie
+##### Artikel 10. Cumulatie
 
 1. In afwijking van de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038175&artikel=4&z=2022-01-01&g=2022-01-01) wordt het subsidiebedrag met één procent verlaagd, indien er voor een project al een verlaging van het subsidiebedrag heeft plaatsgevonden en nogmaals een overtreding wordt geconstateerd, waarvoor op basis van hetzelfde artikel een kortingspercentage wordt opgelegd. Deze korting van één procent komt bovenop de korting die reeds opgelegd wordt voor de eerste overtreding van de artikelen 4 tot en met 7.
 
 2. De gecumuleerde verlaging van het subsidiebedrag, bedoeld in het eerste lid, bedraagt maximaal tien procent per project.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel verlagen subsidie EFMZV.
 
-#### Artikel 12. Inwerkingtreding
+##### Artikel 12. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
@@ -138,7 +164,7 @@ Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgif
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 9a. Niet voldoen aan artikel 10, tweede lid, van [verordening 508/2014](32014R0508)
+##### Artikel 9a. Niet voldoen aan artikel 10, tweede lid, van [verordening 508/2014](32014R0508)
 
 1. Indien een subsidieontvanger niet voldoet aan de verplichting, bedoeld in [artikel 3.1.6, eerste lid, van de Regeling Europese EZ-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0036758&artikel=3.1.6) of de in een beschikking tot subsidieverlening opgenomen verplichting te voldoen aan artikel 10, tweede lid, van [verordening 508/2014](32014R0508), wordt:
 
@@ -186,7 +212,7 @@ Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 De bijlage bij artikel 8 zoals die luidde onmiddellijk voorafgaand aan 1 januari 2022 blijft van toepassing op subsidies die zijn aangevraagd voor 15 mei 2019.
 

@@ -1,32 +1,58 @@
 ---
-title: "Beleidsregels diplomatieke en dienstpaspoorten"
+title: "Besluit van de Minister van Buitenlandse Zaken van 16 december 2022, nr. Min-BuZa.2022.14731-25, houdende beleidsregels voor de verstrekking en het gebruik van diplomatieke en dienstpaspoorten (Beleidsregels diplomatieke en dienstpaspoorten)"
 identifier: "BWBR0047688"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-12-29
-laatste_update: 2022-12-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047688"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-12-29"
+last_updated: "2022-12-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047688"
+soort: "beleidsregel"
+stam_id: "16611253"
+version_id: "29133152"
+internal_id: "C41402751"
+label_id: "16529764"
+dtd_version: "2.0"
+original_entry_into_force: "2022-12-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047688/2022-12-29/0"
+intitule_bron: "Stcrt.2022-34972"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-12-16"
+intitule_published: "2022-12-28"
+intitule_in_force: "2022-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-34972"
+original_signed_date: "2022-12-16"
+original_published_date: "2022-12-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-34972"
+entry_into_force_date: "2022-12-29"
+jci_1_3: "jci1.3:c:BWBR0047688&z=2022-12-29&g=2022-12-29"
+jci_1_0: "1.0:c:BWBR0047688&g=2022-12-29"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels diplomatieke en dienstpaspoorten"
+signed_date: "2022-12-16"
+entry_into_force: "2022-12-29"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 16 december 2022, nr. Min-BuZa.2022.14731-25, houdende beleidsregels voor de verstrekking en het gebruik van diplomatieke en dienstpaspoorten (Beleidsregels diplomatieke en dienstpaspoorten)
 
 Gelet op [artikel 10 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=10) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 BESLUIT:
 
-#### Artikel I. Beleidsregels
+##### Artikel I. Beleidsregels
 
 Voor de verstrekking en het gebruik van diplomatieke en dienstpaspoorten op grond van [artikel 10 van de Paspoortwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005212&artikel=10) gelden de beleidsregels, bedoeld in de bijlage bij dit besluit.
 
-#### Artikel II. Intrekken oude beleidsregels
+##### Artikel II. Intrekken oude beleidsregels
 
 Het besluit van 31 juli 2007, kenmerk DCZ 016/07, houdende beleidsregels voor de verstrekking en het gebruik van diplomatieke en dienstpaspoorten (Beleidsregels diplomatieke en dienstpaspoorten), wordt ingetrokken.
 
-#### Artikel III. Inwerkingtreding
+##### Artikel III. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 
-#### Artikel IV. Citeertitel
+##### Artikel IV. Citeertitel
 
 Dit besluit wordt aangehaald als: Beleidsregels diplomatieke en dienstpaspoorten.
 

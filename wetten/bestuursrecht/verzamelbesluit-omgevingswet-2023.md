@@ -1,13 +1,39 @@
 ---
-title: "Verzamelbesluit Omgevingswet 2023"
+title: "Besluit van 12 september 2023, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2023)"
 identifier: "BWBR0048633"
-categorie: "Bestuursrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048633"
+country: "nl"
+rank: "amvb"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048633"
+soort: "AMvB"
+stam_id: "16858683"
+version_id: "29626122"
+internal_id: "C42386451"
+label_id: "16770914"
+dtd_version: "2.0"
+original_entry_into_force: "2023-09-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048633/2024-01-01/0"
+intitule_bron: "Stb.2023-298"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-09-12"
+intitule_published: "2023-09-15"
+intitule_in_force: "2023-09-15"
+intitule_status: "goed"
+original_publication: "Stb.2023-298"
+original_signed_date: "2023-09-12"
+original_published_date: "2023-09-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-298"
+entry_into_force_date: "2023-09-16"
+jci_1_3: "jci1.3:c:BWBR0048633&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0048633&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit Omgevingswet 2023"
+signed_date: "2023-09-12"
+entry_into_force: "2023-09-16"
 ---
-
 # Besluit van 12 september 2023, houdende wijzigingen van ondergeschikte betekenis in de algemene maatregelen van bestuur op het terrein van het wettelijke stelsel van de Omgevingswet (Verzamelbesluit Omgevingswet 2023)
 
 Op de voordracht van Onze Minister voor Volkshuisvesting en Ruimtelijke Ordening van 6 juni 2023, nr. 2023-0000283471;
@@ -20,57 +46,57 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
+##### Artikel I. ([Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330))
 
 Wijzigt het Besluit activiteiten leefomgeving.
 
-#### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
+##### Artikel II. ([Besluit bouwwerken leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041297))
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
+##### Artikel III. ([Besluit kwaliteit leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041313))
 
 Wijzigt het Besluit kwaliteit leefomgeving.
 
-#### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
+##### Artikel IV. ([Omgevingsbesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0041278))
 
 Wijzigt het Omgevingsbesluit.
 
-#### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
+##### Artikel V. ([Invoeringsbesluit Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044923))
 
 Wijzigt het Invoeringsbesluit Omgevingswet.
 
-#### Artikel VI. ([Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679))
+##### Artikel VI. ([Aanvullingsbesluit geluid Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0044679))
 
 Wijzigt het Aanvullingsbesluit geluid Omgevingswet.
 
-#### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
+##### Artikel VII. ([Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0021609))
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel VIII. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
+##### Artikel VIII. ([Besluit basisregistratie ondergrond](https://wetten.overheid.nl/jci1.3:c:BWBR0040205))
 
 Wijzigt het Besluit basisregistratie ondergrond.
 
-#### Artikel IX. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
+##### Artikel IX. ([Besluit bodemkwaliteit](https://wetten.overheid.nl/jci1.3:c:BWBR0022929))
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel X. (Besluit van 4 maart 2020, houdende wijziging van het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) en van enkele andere besluiten inzake de implementatie van de tweede herziening van de Richtlijn energieprestatie gebouwen)
+##### Artikel X. (Besluit van 4 maart 2020, houdende wijziging van het [Bouwbesluit 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0030461) en van enkele andere besluiten inzake de implementatie van de tweede herziening van de Richtlijn energieprestatie gebouwen)
 
 Wijzigt het Besluit bouwwerken leefomgeving.
 
-#### Artikel XI. (Besluit van 11 maart 2021 tot technische aanpassing van enige algemene maatregelen van bestuur met betrekking tot burgerluchthavens, militaire luchthavens en buitenlandse luchtvaartterreinen in verband met de invoering van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
+##### Artikel XI. (Besluit van 11 maart 2021 tot technische aanpassing van enige algemene maatregelen van bestuur met betrekking tot burgerluchthavens, militaire luchthavens en buitenlandse luchtvaartterreinen in verband met de invoering van de [Omgevingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0037885))
 
 Wijzigt het Luchthavenbesluit Lelystad, het Besluit burgerluchthavens en het Besluit militaire luchthavens.
 
-#### Artikel XII. (Inwerkingtreding)
+##### Artikel XII. (Inwerkingtreding)
 
 1. Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
 2. In afwijking van het eerste lid treedt [artikel XI](https://wetten.overheid.nl/jci1.3:c:BWBR0048633&artikel=XI&z=2024-01-01&g=2024-01-01) in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel XIII. (Citeertitel)
+##### Artikel XIII. (Citeertitel)
 
 Dit besluit wordt aangehaald als: Verzamelbesluit Omgevingswet 2023.
 

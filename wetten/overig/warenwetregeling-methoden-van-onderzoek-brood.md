@@ -1,28 +1,52 @@
 ---
 title: "Warenwetregeling Methoden van onderzoek brood"
 identifier: "BWBR0009798"
-categorie: "Overig"
-publicatiedatum: 1998-07-29
-laatste_update: 1998-07-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009798"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1998-07-29"
+last_updated: "1998-07-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009798"
+soort: "ministeriele-regeling"
+stam_id: "4556203"
+version_id: "6362362"
+internal_id: "C6606831"
+label_id: "4534434"
+dtd_version: "2.0"
+original_entry_into_force: "1998-07-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009798/1998-07-29/0"
+intitule_bron: "Stcrt.1998-139"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-07-21"
+intitule_published: "1998-07-27"
+intitule_in_force: "1998-07-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-139"
+original_signed_date: "1998-07-21"
+original_published_date: "1998-07-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1998-07-29"
+jci_1_3: "jci1.3:c:BWBR0009798&z=1998-07-29&g=1998-07-29"
+jci_1_0: "1.0:c:BWBR0009798&g=1998-07-29"
+citeertitel_status: "officieel"
+signed_date: "1998-07-21"
+entry_into_force: "1998-07-29"
 ---
-
 # Warenwetregeling Methoden van onderzoek brood
 
 Gelet op [artikel 19, tweede lid, van het Warenwetbesluit Meel en brood](https://wetten.overheid.nl/jci1.3:c:BWBR0009669&artikel=19);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij het [Warenwetbesluit Meel en brood](https://wetten.overheid.nl/jci1.3:c:BWBR0009669) gestelde regels, worden aangewezen de in de bijlage opgenomen methoden.
 
-#### Artikel 2
+##### Artikel 2
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling wordt aangehaald als: Warenwetregeling Methoden van onderzoek brood.
 
@@ -32,19 +56,19 @@ Deze bijlage behoort bij artikel 1.
 
 ### Methode 1 - de bepaling van de hoeveelheid droge stof van brood
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bepaling van de hoeveelheid droge stof in brood.
 
-#### 2. Definitie
+##### 2. Definitie
 
 De hoeveelheid droge stof: de hoeveelheid droge stof, uitgedrukt in grammen, bepaald volgens de in dit voorschrift beschreven methode.
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Om de droge stof van brood te bepalen, worden van één of meer broden, afhankelijk van de hoeveelheid droge stof van het brood, gelijke delen genomen op zodanige wijze dat korst en kruim daarin zo goed mogelijk in dezelfde verhouding voorkomen als in het brood waarvan zij deel uitmaakten. Deze delen worden in platte schaaltjes eerst voorgedroogd bij 60oC om te voorkomen, dat door korstvorming een deel van het vocht wordt ingesloten. Daarna worden bij 103-105oC de rest van het vocht en andere vluchtige bestanddelen verdreven.
 
-#### 4. Apparatuur
+##### 4. Apparatuur
 
 4.1. Thermostatisch gecontroleerde droogstoof instelbaar op 60 en 105oC, voorzien van een ventilatiesysteem.
 
@@ -58,7 +82,7 @@ Om de droge stof van brood te bepalen, worden van één of meer broden, afhankel
 
 4.6. Een balans voor droge stof-weging, bij voorkeur een bovenweger met een nauwkeurigheid van 10 mg.
 
-#### 5. Werkwijze
+##### 5. Werkwijze
 
 5.1. Monstername.
 
@@ -94,7 +118,7 @@ Een groep waarvan het gewicht het dichtst bij het gemiddelde gewicht der drie gr
 
 5.3.2. Neem van elk der broodjes een zodanige hoeveelheid dat het totaalgewicht ongeveer 50 g bedraagt; dit betekent voor broodjes met een hoeveelheid droge stof van 60-70, 30-36 en 10-25 g respectievelijk 1/4 deel, 1/6 deel en 1/8 deel per broodje.
 
-#### 6. Weergave van de resultaten
+##### 6. Weergave van de resultaten
 
 6.1. Berekening en formule.
 
@@ -128,25 +152,25 @@ e = gemiddelde gewicht van de bij de monstername gewogen groepen (5.1.2.)
 
 n = aantal broodjes gebruikt bij de bepaling (5.1.2.)
 
-#### 7. Opmerkingen
+##### 7. Opmerkingen
 
 Voer de bepaling in duplo uit.
 
 ### Methode 2 - voorbereiding van een analysemonster van de kruim voor nader onderzoek en de bepaling van het vochtgehalte
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bereiding van een analysemonster van de kruim van brood en kleinbrood en de bepaling van het vochtgehalte hierin, benodigd voor verder onderzoek.
 
-#### 2. Definitie
+##### 2. Definitie
 
 Het vochtgehalte van het materiaal is het massaverlies in massaprocenten van het analysemonster bepaald volgens de in dit voorschrift beschreven methode.
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Representatieve monsterneming van het brood of kleinbrood, verwijdering van de korst, het snijden in kleine delen, het drogen onder vastgestelde omstandigheden. Bepaling van het vochtgehalte van het materiaal, uitgedrukt als massaverlies door drogen bij 102-105 oC.
 
-#### 4. Apparatuur
+##### 4. Apparatuur
 
 4.1. Thermostatisch gecontroleerde droogstoof instelbaar op een temperatuur tussen 55 en 65oC en voorzien van een ventilatiesysteem.
 
@@ -160,7 +184,7 @@ N.B. Dit is de temperatuur van de lucht en de platen in de buurt van het monster
 
 4.5. Exsiccator voorzien van vers geactiveerde silicagel met vochtindicator of een gelijkwaardig droogmiddel.
 
-#### 5. Werkwijze
+##### 5. Werkwijze
 
 5.1. Voorbereiding van het analysemonster.
 
@@ -174,7 +198,7 @@ Koel af en weeg. Plaats de schaal met het deksel ernaast andermaal in de droogst
 
 Koel af en weeg. Herhaal deze bewerking totdat het verschil tussen twee opeenvolgende wegingen minder dan 5 mg bedraagt.
 
-#### 6. Weergave van de resultaten
+##### 6. Weergave van de resultaten
 
 Het vochtgehalte in massaprocenten wordt berekend met de formule:
 
@@ -188,7 +212,7 @@ m1 = massa van het ingewogen monster in grammen
 
 m2 = massa van het gedroogde monster in grammen
 
-#### 7. Opmerking
+##### 7. Opmerking
 
 Dit vochtgehalte wordt gebruikt om de resultaten van andere analyses van het
 
@@ -196,19 +220,19 @@ analysemonster op droge stof om te rekenen.
 
 ### Methode 3 - de bepaling van natrium-chloride
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bepaling van natriumchloride in de voorgedroogde kruim, waarbij het analysemonster is voorbereid zoals aangegeven in methode 2, punt 3.
 
-#### 2. Definitie
+##### 2. Definitie
 
 Het gehalte aan natriumchloride: het natriumchloride gehalte bepaald volgens de in dit voorschrift beschreven methode uitgedrukt in massaprocenten van de droge stof van de kruim.
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Alkalische verassing van het analysemonster. Bepaling van het chloridegehalte en berekening van het gehalte aan natriumchloride.
 
-#### 4. Reagentia en oplossingen:
+##### 4. Reagentia en oplossingen:
 
 Alle reagentia dienen van p.a. kwaliteit te zijn. Onder water wordt verstaan gedestilleerd water of water van gelijkwaardige kwaliteit.
 
@@ -250,7 +274,7 @@ Bereid een verzadigde oplossing van ammoniumijzer (III) sulfaat 12H20 (4.1.4.)
 
 Verdun 279 ml salpeterzuur 65% (4.1.5.) met water tot 1 l.
 
-#### 5. Apparatuur
+##### 5. Apparatuur
 
 Het normale laboratoriumglaswerk en de volgende benodigdheden.
 
@@ -262,7 +286,7 @@ Het normale laboratoriumglaswerk en de volgende benodigdheden.
 
 5.4. Asschalen van platina, kwarts of ander geschikt materiaal, bij voorkeur rechthoekig met een bodemoppervlak van ongeveer 20 cm2 en 2,5 cm hoog.
 
-#### 6. Werkwijze
+##### 6. Werkwijze
 
 6.1. Weeg 5 g van het analysemonster tot op 0,1 mg nauwkeurig af in een asschaaltje (5.4.). Voeg toe 10 ml natriumcarbonaat-oplossing ongeveer 1 mol/l (4.2.1.). Plaats de asschaal gedurende 2 uur in de droogstoof (5.3.) bij 103 - 105 oC. Verkool het analysemonster voorzichtig op de vlam. Plaats daarna de schaal in de moffeloven (5.1.) bij 550± 20oC gedurende 3 uren.
 
@@ -274,7 +298,7 @@ Koel af tot kamertemperatuur.
 
 Voeg toe 20,0 ml zilvernitraat-oplossing 0,1 mol/l (4.2.2.) en 3 g kaliumnitraat (4.1.6.). Schud krachtig teneinde het neerslag te doen samenballen. Titreer met de kaliumthiocyanaat-oplossing (4.2.3.) en noteer de verbruikte hoeveelheid tot op 0,02 ml.
 
-#### 7. Weergave van de resultaten:
+##### 7. Weergave van de resultaten:
 
 7.1. Berekening en formule:
 
@@ -300,19 +324,19 @@ V = het vochtgehalte van het analysemonster in massaprocenten
 
 ### Methode 4 - de bepaling van het vetgehalte
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bepaling van het vetgehalte in de voorgedroogde kruim, waarbij het analysemonster is voorbereid zoals aangegeven in methode 2, onder 3.
 
-#### 2. Definitie
+##### 2. Definitie
 
 Het vetgehalte: het vetgehalte bepaald volgens de in dit voorschrift beschreven methode en uitgedrukt in massaprocenten van de droge stof van de kruim
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Ontsluiting van het analysemonster door koken met verdund zoutzuur. Extractie met petroleumether van het daarbij gevormde residu.
 
-#### 4. Reagentia en oplossingen
+##### 4. Reagentia en oplossingen
 
 Alle reagentia dienen van p.a. kwaliteit te zijn. Onder water wordt verstaan gedestilleerd water of water van gelijkwaardige kwaliteit.
 
@@ -330,7 +354,7 @@ Alle reagentia dienen van p.a. kwaliteit te zijn. Onder water wordt verstaan ged
 
 4.2.1. Zoutzuur 25%.
 
-#### 5. Apparatuur
+##### 5. Apparatuur
 
 Normale laboratoriumapparatuur en de volgende benodigdheden:
 
@@ -342,7 +366,7 @@ Normale laboratoriumapparatuur en de volgende benodigdheden:
 
 5.5. Gethermostatiseerde electrische droogstoof, instelbaar op een temperatuur tussen 103 en 105oC.
 
-#### 6. Werkwijze
+##### 6. Werkwijze
 
 6.1. Breng 15 g van het analysemonster tot op 10 mg nauwkeurig gewogen in een erlenmeyer van 500 ml, voorzien van een watergekoelde terugvloeikoeler. Voeg toe 90 ml zoutzuur 25% (4.2.1.), 60 ml water en een weinig grof puimsteenpoeder (4.1.4.).
 
@@ -360,7 +384,7 @@ Normale laboratoriumapparatuur en de volgende benodigdheden:
 
 6.8. Destilleer na extractie de petroleumether uit de kolf en droog de kolf met vet gedurende een uur in de droogstoof (5.5.), die is ingesteld op een temperatuur tussen 103 en 105oC. Koel af en weeg. Plaats de kolf weer in de droogstoof en droog gedurende 1 uur bij 103 ± 2oC. Koel af en weeg. Herhaal deze procedure totdat het verschil tussen twee opeenvolgende wegingen minder dan 2,5 mg bedraagt.
 
-#### 7. Weergave van de resultaten
+##### 7. Weergave van de resultaten
 
 7.1. Berekening en formule.
 
@@ -382,19 +406,19 @@ V = het vochtgehalte van het analysemonster in massaprocenten.
 
 ### Methode 5 - de bepaling van het semi-micro-boterzuurgetal
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bepaling van het semi-micro-boterzuurgetal (S.M.B.) in de voorgedroogde kruim, waarbij het analysemonster is voorbereid zoals aangegeven in methode 2, punt 3. Uit het vetgehalte van de droge stof van de kruim en dit S.M.B.-getal kan het percentage melkvet in de droge stof van de kruim berekend worden.
 
-#### 2. Definitie
+##### 2. Definitie
 
 Het semi-micro-boterzuurgetal: het aantal ml 0,01 mol/l alkaliloog nodig voor de neutralisatie van de vluchtige vetzuren, oplosbaar in met kaliumsulfaat en octaanzuur verzadigde zwavelzuur-oplossing en afkomstig van 500 mg vet.
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Verzeping van het vet door middel van alkoholische loog onder toevoeging van glycerol. Verdamping van de alkohol. Opname van de zeep in verzadigde kaliumsulfaat-oplossing. Vrijmaking van de vetzuren door aanzuren met zwavelzuur. Toevoeging van cocoszeep teneinde een verzadiging van octaanzuur te bewerkstelligen. Filtratie en destillatie van het filtraat. Titratie van de lagere vetzuren in het destillaat.
 
-#### 4. Reagentia en oplossingen
+##### 4. Reagentia en oplossingen
 
 Alle reagentia dienen van p.a. kwaliteit te zijn. Onder water wordt in dit voorschrift verstaan gedestilleerd water of water van gelijkwaardige kwaliteit.
 
@@ -454,7 +478,7 @@ Los l g fenolftaleïe (4.1.9.) op in 100 ml ethanol 96% (v/v) (4.1.1.).
 
 Deze oplossing dient dagelijks gesteld te worden ten opzichte van een oertiterstof.
 
-#### 5. Apparatuur
+##### 5. Apparatuur
 
 De normale apparatuur en de volgende benodigdheden:
 
@@ -482,7 +506,7 @@ De normale apparatuur en de volgende benodigdheden:
 
 5.12. Destillatietoestel volgens figuur 1.
 
-#### 6. Werkwijze
+##### 6. Werkwijze
 
 6.1. Breng op de bodem van de kolf (5.1.) achtereenvolgens tot op 0,1 mg nauwkeurig gewogen 500-520 mg van het bij de vetbepaling verkregen vet en enige puimsteenkorrels (4.1.11.).
 
@@ -506,7 +530,7 @@ N.B. Olieniveau 1 cm boven het vloeistofniveau in de kolf. Vang 11,00 ml van het
 
 6.9. Verricht een blancobepaling met 500-520 mg cacaoboter.
 
-#### 7. Weergave van de resultaten
+##### 7. Weergave van de resultaten
 
 7.1. Berekening en formule:
 
@@ -530,19 +554,19 @@ melkvet = (SMB : 20) x vetgehalte van de droge stof van de kruim.
 
 ### Methode 6 - de bepaling van het natrium- en kaliumgehalte
 
-#### 1. Doel en toepassingsgebied
+##### 1. Doel en toepassingsgebied
 
 Dit voorschrift beschrijft een methode voor de bepaling van natrium of kalium in levensmiddelen, inclusief natriumarme levensmiddelen.
 
-#### 2. Definitie
+##### 2. Definitie
 
 Het gehalte aan natrium of kalium: het natrium- of kaliumgehalte bepaald volgens de in dit voorschrift beschreven methode uitgedrukt in mg per 100 g of mg/kg of mg/l.
 
-#### 3. Beginsel
+##### 3. Beginsel
 
 Het levensmiddel wordt, indien nodig gedroogd en verast. Het residu wordt opgelost in zuur en de oplossing, indien nodig, zodanig verdund dat de concentratie aan natrium of kalium gemeten kan worden met een vlamfotometer. In speciale gevallen kan de bepaling direkt uitgevoerd worden in het vloeibare levensmiddel of in waterige extracten. Indien zoveel kalium aanwezig is dat de bepaling van natrium hierdoor gestoord wordt, moet aan de natriumstandaard-oplossing de hoeveelheid kalium die men gevonden heeft worden toegevoegd teneinde een gecorrigeerde ijklijn te verkrijgen.
 
-#### 4. Reagentia en oplossingen
+##### 4. Reagentia en oplossingen
 
 Alle reagentia dienen van p.a. kwaliteit te zijn. Onder water wordt in dit voorschrift verstaan gedestilleerd water of water van gelijkwaardige kwaliteit.
 
@@ -600,7 +624,7 @@ Verdun 9 ml zoutzuur 37% (4.1.5.) met water tot 1 l.
 
 Verdun 7 ml salpeterzuur 65% (4.1.4.) met water tot 1 l.
 
-#### 5. Apparatuur
+##### 5. Apparatuur
 
 Normaal laboratoriumglaswerk en de volgende benodigdheden:
 
@@ -616,7 +640,7 @@ Instrument geschikt voor meting van 1 tot 10 mg/l natrium bij 589 nm en 1 tot 10
 
 5.5. Waterbad, kokend of stoombad.
 
-#### 6. Werkwijze
+##### 6. Werkwijze
 
 6.1. De hoeveelheid in bewerking te nemen monster: 2 g.
 
@@ -642,7 +666,7 @@ Bepaal het natrium- en kaliumgehalte volgens (6.3.1.) en (6.3.2.). Herhaal de na
 
 Bepaal het calcium op de wijze aangegeven onder (6.3.2.) bij een golflengte van 423 nm met behulp van een geschikte calciumstandaard (meet)-oplossing (4.2.8.). Herhaal de natrium- of kaliumbepaling zoals beschreven in (6.3.3.) onder toevoeging van calcium in de gevonden concentratie aan de natrium- en kaliumstandaard (meet)-oplossing.
 
-#### 7. Weergave van de resultaten
+##### 7. Weergave van de resultaten
 
 Bereken uit de ijklijn de concentratie van kalium of natrium in de monster-oplossing. Reken dit resultaat met behulp van de ingewogen hoeveelheid analysemonster en verdunningsfactoren om op het oorspronkelijke monster.
 

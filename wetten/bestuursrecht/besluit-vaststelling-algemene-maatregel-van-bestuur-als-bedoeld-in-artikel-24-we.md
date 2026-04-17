@@ -1,13 +1,35 @@
 ---
-title: "Besluit vaststelling algemene maatregel van bestuur als bedoeld in artikel 24 wet gemeentelijke herindeling Noordwest-Overijssel"
+title: "Besluit van 23 november 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 24 van de wet van 15 juni 1972, Stb. 449, tot gemeentelijke herindeling van Noordwest-Overijssel"
 identifier: "BWBR0002849"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-09-01
-laatste_update: 2020-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002849"
+country: "nl"
+rank: "amvb"
+publication_date: "2020-09-01"
+last_updated: "2020-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002849"
+soort: "AMvB"
+stam_id: "1162363"
+version_id: "1720842"
+internal_id: "C1720841"
+label_id: "1127144"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002849/2020-09-01/0"
+intitule_bron: "Stb.1972-672"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-23"
+intitule_status: "goed"
+original_publication: "Stb.1972-672"
+original_signed_date: "1972-11-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBR0002849&z=2020-09-01&g=2020-09-01"
+jci_1_0: "1.0:c:BWBR0002849&g=2020-09-01"
+citeertitel_status: "officieel"
+short_title: "Besluit vaststelling algemene maatregel van bestuur als bedoeld in artikel 24 wet gemeentelijke herindeling Noordwest-Overijssel"
+signed_date: "1972-11-23"
+entry_into_force: "1973-01-01"
 ---
-
 # Besluit van 23 november 1972, houdende vaststelling van een algemene maatregel van bestuur als bedoeld in artikel 24 van de wet van 15 juni 1972, Stb. 449, tot gemeentelijke herindeling van Noordwest-Overijssel
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken a.i. van 24 juli 1972, nr. AW71/2694, Directoraat-Generaal Overheidspersoneelsbeleid, Directie Overheidspersoneelszaken, Hoofdafdeling Pensioenen en Wachtgelden;
@@ -20,7 +42,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken van 13 novembe
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Dit besluit verstaat onder:
 
@@ -32,7 +54,7 @@ Dit besluit verstaat onder:
 
 - d. lichamen: rechtspersonen, maat- en vennootschappen, samenwerkingsvormen zonder rechtspersoonlijkheid die met verenigingen maatschappelijk gelijk kunnen worden gesteld, ondernemingen van publiekrechtelijke rechtspersonen en doelvermogens.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Dit besluit verstaat onder **betrokkene**:
 
@@ -44,7 +66,7 @@ die ten gevolge van een wet tot herindeling van gemeenten wordt ontslagen.
 
 2. Tenzij het tegendeel blijkt wordt onder betrokkene, gewezen betrokkene begrepen.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Dit besluit verstaat onder **diensttijd**: de diensttijd die aan het ontslag voorafgaat en die medetelt voor de pensioenberekening krachtens de pensioenwet of als zodanig zou medetellen wanneer die tijd door inkoop voor pensioen geldig zou zijn verklaard, met uitzondering van de tijd:
 
@@ -62,13 +84,13 @@ die ten gevolge van een wet tot herindeling van gemeenten wordt ontslagen.
 
 3. Dit besluit verstaat mede onder diensttijd de diensttijd die aan het ontslag voorafgaat in een betrekking waarin betrokkene krachtens artikel B7, onder **a**, van de pensioenwet geen ambtenaar in de zin van die wet is, mits het ontslag uit die betrekking is verleend.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Dit besluit verstaat onder dienstbetrekking iedere publiekrechtelijke of privaatrechtelijke arbeidsverhouding waarbij in dienst van een natuurlijke persoon of een lichaam werkzaamheden tegen bezoldiging of loon worden verricht.
 
 2. Het bepaalde bij of krachtens de [artikelen 4, 5 en 6 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=4) (**Stb.** 1987, 93) is van overeenkomstige toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Dit besluit verstaat onder **bezoldiging**: de bezoldiging, zoals deze laatstelijk voor het ontslag aan de betrekking was verbonden, vermeerderd met de vakantietoelage.
 
@@ -80,7 +102,7 @@ die ten gevolge van een wet tot herindeling van gemeenten wordt ontslagen.
 
 5. In bijzondere gevallen kan Onze Minister van het hiervoren bepaalde ten gunste van de betrokkene afwijken.
 
-#### Artikel 5. Inschrijvingsplicht
+##### Artikel 5. Inschrijvingsplicht
 
 1. Zolang de betrokkene de leeftijd van 55 jaar nog niet heeft bereikt, is hij verplicht zich bij de Arbeidsvoorzieningsorganisatie als werkzoekende te doen inschrijven uiterlijk op de eerste werkdag volgende op die waarop het ontslag ingaat, dan wel het recht op uitkering ontstaat.
 
@@ -88,7 +110,7 @@ die ten gevolge van een wet tot herindeling van gemeenten wordt ontslagen.
 
 3. Onze Minister kan bepalen, dat de in het eerste en tweede lid omschreven verplichting niet geldt voor bepaalde betrokkenen of groepen van betrokkenen die de leeftijd van 55 jaar nog niet hebben bereikt.
 
-#### Artikel 6. Recht op uitkering
+##### Artikel 6. Recht op uitkering
 
 1. Met ingang van de dag waarop het ontslag ingaat, bestaat ten laste van hoofdstuk VII van de rijksbegroting, recht op een uitkering waarvan de duur wordt vastgesteld:
 
@@ -126,7 +148,7 @@ die ten gevolge van een wet tot herindeling van gemeenten wordt ontslagen.
 
 8. Onze Minister beslist over de toekenning van uitkering op schriftelijke aanvraag door de betrokkene. De stukken die Onze Minister nodig acht voor de behandeling van de aanvraag dienen door of vanwege de betrokkene te worden overgelegd.
 
-#### Artikel 7. Duur van de uitkering
+##### Artikel 7. Duur van de uitkering
 
 1. De uitkeringsduur is 6 maanden, met ingang van de dag waarop het ontslag ingaat.
 
@@ -198,7 +220,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 10. In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van de uitkering verlengen.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. In afwijking van [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), wordt, indien dit leidt tot een langere uitkeringsduur, waarin tevens voor zover van toepassing de bijzondere verlenging bedoeld in het vierde lid is begrepen, de duur van de uitkering vastgesteld overeenkomstig de volgende leden.
 
@@ -210,7 +232,7 @@ worden, indien deze uitkeringen worden ontvangen in verband met een gewezen dien
 
 5. In bijzondere gevallen kan Onze Minister na afloop van de in het eerste en tweede lid bedoelde termijnen de duur van de uitkering verlengen.
 
-#### Artikel 7b. Vervolguitkering
+##### Artikel 7b. Vervolguitkering
 
 1. De betrokkene, die het einde van de uitkeringsduur bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), heeft bereikt, heeft in aansluiting op die uitkering recht op een vervolguitkering.
 
@@ -232,19 +254,19 @@ heeft recht op een vervolguitkering.
 
 7. Tenzij uitdrukkelijk anders is bepaald, zijn bepalingen van de uitkering van overeenkomstige toepassing op de vervolguitkering.
 
-#### Artikel 7c. Bedrag van de uitkering
+##### Artikel 7c. Bedrag van de uitkering
 
 1. Het bedrag van de uitkering is gedurende de eerste twee maanden gelijk aan 90% van de bezoldiging, gedurende de volgende twee maanden 80%, en vervolgens 70% van de bezoldiging.
 
 2. Het bedrag van de uitkering is gedurende de bijzondere verlenging ingevolge [artikel 7**a**, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7a&z=2020-09-01&g=2020-09-01), 70% van de bezoldiging.
 
-#### Artikel 7d. Bedrag van de vervolguitkering
+##### Artikel 7d. Bedrag van de vervolguitkering
 
 1. Het bedrag van de vervolguitkering is gelijk aan het minimumloon, met dien verstande dat dit bedrag nooit meer kan bedragen dan 70% van de bezoldiging.
 
 2. Voor de toepassing van dit artikel wordt onder minimumloon verstaan het maandbedrag van het minimumloon bedoeld in [artikel 8, eerste lid, onderdeel **a**, van de Wet minimumloon en minimumvakantiebijslag](https://wetten.overheid.nl/jci1.3:c:BWBR0002638&artikel=8) (**Stb.** 1968, 657), of, indien het een betrokkene jonger dan 23 jaar betreft, het voor zijn leeftijd geldende minimumloon bedoeld in [artikel 7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), en [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=8&z=2020-09-01&g=2020-09-01), van genoemde wet, beide vermeerderd met de daarover berekende vakantiebijslag, bedoeld in artikel 15 van die wet.
 
-#### Artikel 8. Samenloop van uitkering met inkomsten uit of in verband met arbeid of bedrijf
+##### Artikel 8. Samenloop van uitkering met inkomsten uit of in verband met arbeid of bedrijf
 
 1. Behoudens het bepaalde in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=24&z=2020-09-01&g=2020-09-01) worden de inkomsten die de betrokkene, aan wie een uitkering is toegekend, geniet of gaat genieten uit of in verband met arbeid of bedrijf, ter hand genomen met ingang van of na de dag waarop het ontslag, terzake waarvan de uitkering is toegekend, hem is aangezegd of door hem is aangevraagd, worden met de uitkering verrekend over de maand waarop deze inkomsten betrekking hebben of geacht kunnen worden betrekking te hebben. Deze verrekening geschiedt aldus:
 
@@ -266,11 +288,11 @@ heeft recht op een vervolguitkering.
 
 7. In bijzondere gevallen kan Onze Minister van het hiervoren bepaalde ten gunste van de belanghebbende afwijken.
 
-#### Artikel 9
+##### Artikel 9
 
 Onze Minister kan bepalen, dat inkomsten, die zijn genoten uit hoofde van overwerk, bij wijze van gratificatie, ter zake van een vrijwillige verbintenis bij de Nationale Reserve, bij de politie als vrijwillige ambtenaar, aangesteld voor de uitvoering van de politietaak, bij de noodwachten en noodwachtstaven dan wel bij de Monumentenwacht of bij andere door Onze Minister aan te wijzen reserve-organen, geheel of ten dele niet worden aangemerkt als inkomsten.
 
-#### Artikel 10. Vermindering van de uitkering
+##### Artikel 10. Vermindering van de uitkering
 
 Indien de betrokkene:
 
@@ -282,23 +304,23 @@ Indien de betrokkene:
 
 wordt de uitkering verminderd met het bedrag, waarmede de uitkering vermeerderd met de verzuimde dan wel met de prijsgegeven of verloren gegane inkomsten de laatstelijk genoten wedde zou hebben overschreden.
 
-#### Artikel 11. Afkoop van het recht op uitkering
+##### Artikel 11. Afkoop van het recht op uitkering
 
 Op aanvraag van de betrokkene die voldoet aan de voorwaarde, bedoeld in [artikel 7, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), kan het recht op de uitkering geheel of ten dele worden afgekocht.
 
-#### Artikel 12. Tegemoetkoming verhuiskosten voor rechthebbenden op uitkering
+##### Artikel 12. Tegemoetkoming verhuiskosten voor rechthebbenden op uitkering
 
 Aan de betrokkene die voldoet aan de voorwaarde bedoeld in [artikel 7, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), aan wie een uitkering is toegekend, die elders arbeid of bedrijf ter hand gaat nemen, kan ter zake van de kosten, die voor hem aan een daartoe nodige verhuizing zijn verbonden een tegemoetkoming worden toegekend tot ten hoogste het bedrag van een vergoeding volgens de normen van het [Verplaatsingskostenbesluit 1989](https://wetten.overheid.nl/jci1.3:c:BWBR0004630), met dien verstande, dat de vergoedingspercentages, bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=6&z=2020-09-01&g=2020-09-01) van evengenoemd besluit over geen hoger bedrag worden berekend dan het bedrag der bezoldiging, verhoogd met de kinderbijslag voor het eerste en tweede kind, waarop de betrokkene ingevolge de [Algemene Kinderbijslagwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002368) recht heeft.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15. Opschorting
+##### Artikel 15. Opschorting
 
 1. Ten aanzien van de betrokkene aan wie uitkering is toegekend en die uit hoofde van ziekte aanspraak heeft of krijgt op doorbetaling van zijn laatstelijk genoten bezoldiging, wordt de verdere uitvoering van dit besluit opgeschort tot het einde van het tijdvak waarover die aanspraak bestaat.
 
@@ -308,7 +330,7 @@ Vervallen
 
 4. Het vorige lid is van overeenkomstige toepassing ingeval de betrokkene is tewerkgesteld als gewetensbezwaarde in de zin van [artikel 9 van de Wet Gewetensbezwaren militaire dienst](https://wetten.overheid.nl/jci1.3:c:BWBR0002386&artikel=9).
 
-#### Artikel 16. Andere verplichtingen
+##### Artikel 16. Andere verplichtingen
 
 1. De betrokkene is verplicht van het ter hand nemen van enige arbeid of bedrijf terstond mededeling te doen aan Onze Minister onder opgave, voor zover mogelijk, van de inkomsten, die hij uit die werkzaamheden zal trekken. Zijn de inkomsten niet vooraf op te geven, dan doet hij tijdig vóór het verschijnen van elke uitkeringstermijn opgave van de inkomsten, die hij sinds het ter hand nemen van de werkzaamheden of sinds de vorige opgave heeft genoten.
 
@@ -324,11 +346,11 @@ Onze Minister geeft nadere voorschriften aangaande het doen van mededelingen doo
 
 6. De betrokkene aan wie uitkering is toegekend, wordt door het aanvaarden van de uitkering geacht erin toe te stemmen, dat allen, die daarvoor naar het oordeel van Onze Minister in aanmerking komen, omtrent zijn omstandigheden alle inlichtingen geven, welke voor de uitvoering van dit besluit noodzakelijk zijn.
 
-#### Artikel 17. Geneeskundig onderzoek
+##### Artikel 17. Geneeskundig onderzoek
 
 Indien de betrokkene langer dan een jaar wegens ziekte verhinderd is geweest arbeid te verrichten, kan hij door Onze Minister worden verplicht zich geneeskundig te doen onderzoeken, dan wel zich aan een geneeskundig onderzoek volgens de bepalingen van de pensioenwet te onderwerpen.
 
-#### Artikel 18. Uitkering bij ziekte
+##### Artikel 18. Uitkering bij ziekte
 
 1. De betrokkene aan wie een uitkering is toegekend en die, onvrijwillig werkloos zijnde, binnen de termijn gedurende welke hij daaraan aanspraken kan ontlenen, dan wel gedurende een maand na afloop van deze termijn, langer dan twee dagen aaneensluitend wegens ziekte verhinderd wordt arbeid te verrichten, ontvangt van de derde dag af gedurende de tijd van bedoelde verhindering, doch hoogstens gedurende een tijdvak van 52 weken een uitkering ten bedrage van 80 pct. van de bezoldiging. Het bepaalde in [artikel 42, vijfde lid, van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=42) en artikel 32**c**, vijfde lid, van het Arbeidsovereenkomstenbesluit zijn voor zoveel mogelijk van overeenkomstige toepassing.
 
@@ -340,15 +362,15 @@ Indien de betrokkene langer dan een jaar wegens ziekte verhinderd is geweest arb
 
 5. Op de uitkering, bedoeld in het eerste en tweede lid, vindt [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=8&z=2020-09-01&g=2020-09-01) overeenkomstige toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21. Samenloop van uitkering en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid of werkloosheid
+##### Artikel 21. Samenloop van uitkering en invaliditeitspensioen dan wel uitkering wegens arbeidsongeschiktheid of werkloosheid
 
 1. Indien de betrokkene ter zake van een ontslag, verleend wegens blijvende ongeschiktheid uit hoofde van ziekten of gebreken voor de vervulling van zijn ambt blijkens een onherroepelijk geworden beslissing als bedoeld in artikel P 5 van de pensioenwet, aanspraak heeft op een pensioen berekend naar een algemene invaliditeit van minder dan 80%, dan wel een uitkering overeenkomstig de normen van de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524) berekend naar een mate van arbeidsongeschiktheid van minder dan 80%, wordt het geldende bedrag van de uitkering, toegekend ter zake van hetzelfde ontslag, met het hierna genoemde percentage verminderd. Deze vermindering bedraagt bij een invaliditeitsgraad van
 
@@ -365,11 +387,11 @@ De som van het in de eerste volzin bedoelde pensioen dan wel de uitkering overee
 
 2. Indien de betrokkene aan wie uitkering is toegekend, uit hoofde van de betrekking waaraan deze uitkering wordt ontleend, aanspraak heeft of verkrijgt op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045), de [Ziektewet](https://wetten.overheid.nl/jci1.3:c:BWBR0001888) of de [Wet op de arbeidsongeschiktheidsverzekering](https://wetten.overheid.nl/jci1.3:c:BWBR0002524), wordt gedurende de termijn, waarover die aanspraak bestaat, de uitkering slechts uitbetaald voor zover het evenbedoelde uitkeringen te boven gaat.
 
-#### Artikel 22. Betaling
+##### Artikel 22. Betaling
 
 De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaald. Met toestemming van de betrokkene kan de uitbetaling in langere termijnen geschieden.
 
-#### Artikel 23. Uitkering nagelaten betrekkingen van rechthebbenden op uitkering
+##### Artikel 23. Uitkering nagelaten betrekkingen van rechthebbenden op uitkering
 
 1. Zo spoedig mogelijk na het overlijden van de betrokkene aan wie uitkering is toegekend, wordt aan de weduwe of weduwnaar, van wie de overledene niet duurzaam gescheiden leefde, een bedrag uitgekeerd gelijk aan de bezoldiging, over een tijdvak van drie maanden. Wordt op de uitkering een vermindering toegepast krachtens de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=8&z=2020-09-01&g=2020-09-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=10&z=2020-09-01&g=2020-09-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=16&z=2020-09-01&g=2020-09-01) of [25](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=25&z=2020-09-01&g=2020-09-01), of wordt [artikel 24, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=24&z=2020-09-01&g=2020-09-01), toegepast, dan is de uitkering gelijk aan het bedrag van de uitkering" dat de betrokkene op de dag van het overlijden ontving, over een tijdvak van drie maanden. Bij overlijden in de periode van opschorting van de uitkering krachtens [artikel 15, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=15&z=2020-09-01&g=2020-09-01), bestaat geen aanspraak op een uitkering als in dit artikel bedoeld.
 
@@ -385,7 +407,7 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 
 5. Laat de overledene geen betrekkingen als bedoeld in het eerste en tweede lid na, dan kan het aldaar bedoelde bedrag geheel of ten dele worden uitgekeerd voor de betaling van de kosten van de laatste ziekte en van de lijkbezorging indien zijn nalatenschap voor de betaling van die kosten ontoereikend is.
 
-#### Artikel 24. Verval en opnieuw toekennen van het recht op uitkering
+##### Artikel 24. Verval en opnieuw toekennen van het recht op uitkering
 
 1. Het recht op uitkering dat in verband met het niet voldoen aan de voorwaarde bedoeld in [artikel 7, tweede lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), uitsluitend wordt vastgesteld ingevolge [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), vervalt met ingang van de dag waarop de werkloosheid eindigt en wordt bij weer intredende onvrijwillige werkloosheid opnieuw toegekend voor de resterende duur met ingang van de dag waarop de laatstbedoelde werkloosheid ingaat, tenzij de betrokkene ter zake van deze laatstelijk opgetreden werkloosheid aanspraak heeft op een uitkering krachtens de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) of krachtens enige publiekrechtelijke regeling inzake wachtgeld of uitkering.
 
@@ -409,7 +431,7 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 
 7. Het recht op uitkering vervalt wanneer de daartoe strekkende aanvraag bedoeld in het zesde lid en in artikel 6, achtste lid, niet binnen een termijn van twee jaren na het ontstaan of het opnieuw ontstaan van dat recht bij Onze Minister is ingekomen.
 
-#### Artikel 24a. Vervallenverklaring van het recht op uitkering
+##### Artikel 24a. Vervallenverklaring van het recht op uitkering
 
 1. Het recht op uitkering kan geheel of ten dele vervallen worden verklaard indien hij die uitkering geniet:
 
@@ -425,7 +447,7 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 
 2. Het eerste lid is, voor zover nodig, van overeenkomstige toepassing op een uitkering bedoeld in [artikel 18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=18&z=2020-09-01&g=2020-09-01).
 
-#### Artikel 24b. Einde van het recht op uitkering
+##### Artikel 24b. Einde van het recht op uitkering
 
 1. Het recht op uitkering eindigt:
 
@@ -441,7 +463,7 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 
 3. Het eerste lid is, voor zover nodig, van overeenkomstige toepassing op een uitkering bedoeld in [artikel 18, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=18&z=2020-09-01&g=2020-09-01).
 
-#### Artikel 25. Niet-uitbetaling van de uitkering
+##### Artikel 25. Niet-uitbetaling van de uitkering
 
 1. De uitkering wordt niet uitbetaald voor de duur dat de betrokkene:
 
@@ -453,15 +475,15 @@ De uitkering, over een maand berekend, wordt in maandelijkse termijnen uitbetaal
 
 - d. niet als werkzoekende bij de Arbeidsvoorzieningsorganisatie dan wel de buitenlandse instantie van arbeidsbemiddeling staat ingeschreven, tenzij hij aantoont dat hij redelijkerwijs niet in staat is geweest om te voldoen aan de in [artikel 5, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=5&z=2020-09-01&g=2020-09-01), gestelde verplichting.
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27. Overgangs- en slotbepalingen
+##### Artikel 27. Overgangs- en slotbepalingen
 
 De [Algemene Termijnenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002448) (**Stb.** 1964, 314) is niet van toepassing op de termijnen gesteld in [artikel 3, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=3&z=2020-09-01&g=2020-09-01), [artikel 7, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7&z=2020-09-01&g=2020-09-01), [artikel 7a, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7a&z=2020-09-01&g=2020-09-01), [artikel 7b, derde tot en met zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7b&z=2020-09-01&g=2020-09-01), [artikel 7c, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=7c&z=2020-09-01&g=2020-09-01), [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=18&z=2020-09-01&g=2020-09-01), en [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0002849&artikel=24&z=2020-09-01&g=2020-09-01).
 
-#### Artikel 28
+##### Artikel 28
 
 Dit besluit treedt in werking met ingang van 1 januari 1973.
 

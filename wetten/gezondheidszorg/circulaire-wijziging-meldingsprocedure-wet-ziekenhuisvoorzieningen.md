@@ -1,13 +1,37 @@
 ---
 title: "Circulaire wijziging meldingsprocedure Wet ziekenhuisvoorzieningen"
 identifier: "BWBR0012526"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2001-01-01
-laatste_update: 2001-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012526"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-01-01"
+last_updated: "2001-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012526"
+soort: "circulaire"
+stam_id: "6264293"
+version_id: "10946772"
+internal_id: "C14842281"
+label_id: "6253384"
+original_entry_into_force: "2001-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012526/2001-01-01/0"
+intitule_bron: "Stcrt.2001-110"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-05-31"
+intitule_published: "2001-06-12"
+intitule_in_force: "2001-06-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-110"
+original_signed_date: "2001-05-31"
+original_published_date: "2001-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-110-p15-SC29647"
+entry_into_force_date: "2001-01-01"
+jci_1_3: "jci1.3:c:BWBR0012526&z=2001-01-01&g=2001-01-01"
+jci_1_0: "1.0:c:BWBR0012526&g=2001-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-05-31"
+entry_into_force: "2001-01-01"
 ---
-
 # Circulaire wijziging meldingsprocedure Wet ziekenhuisvoorzieningen
 
 Aan de besturen van alle inrichtingen voor gezondheidszorg, als bedoeld in [artikel 1, eerste lid, onder c, van de Wet ziekenhuisvoorzieningen](https://wetten.overheid.nl/jci1.3:c:BWBR0002753&artikel=1) (excl. Academische Ziekenhuizen, Verzorgingshuizen, Gezinsvervangende tehuizen en Dagverblijven)

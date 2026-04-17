@@ -1,24 +1,50 @@
 ---
-title: "Besluit toekenning vaandel aan het eskader der Koninklijke marine"
+title: "Besluit van 25 februari 2002, houdende de toekenning van een vaandel aan het eskader der Koninklijke marine"
 identifier: "BWBR0013441"
-categorie: "Overig"
-publicatiedatum: 2002-04-19
-laatste_update: 2002-04-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013441"
+country: "nl"
+rank: "kb"
+publication_date: "2002-04-19"
+last_updated: "2002-04-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013441"
+soort: "KB"
+stam_id: "1697813"
+version_id: "2502312"
+internal_id: "C2502311"
+label_id: "1650774"
+dtd_version: "2.0"
+original_entry_into_force: "2002-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013441/2002-04-19/0"
+intitule_bron: "Stb.2002-161"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-02-25"
+intitule_published: "2002-04-04"
+intitule_in_force: "2002-04-04"
+intitule_status: "goed"
+original_publication: "Stb.2002-161"
+original_signed_date: "2002-02-25"
+original_published_date: "2002-04-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2002-161"
+entry_into_force_date: "2002-04-19"
+jci_1_3: "jci1.3:c:BWBR0013441&z=2002-04-19&g=2002-04-19"
+jci_1_0: "1.0:c:BWBR0013441&g=2002-04-19"
+citeertitel_status: "officieel"
+short_title: "Besluit toekenning vaandel aan het eskader der Koninklijke marine"
+signed_date: "2002-02-25"
+entry_into_force: "2002-04-19"
 ---
-
 # Besluit van 25 februari 2002, houdende de toekenning van een vaandel aan het eskader der Koninklijke marine
 
 Op de voordracht van Onze Minister van Defensie van 20 februari 2002, nr. C2002/218 directie juridische zaken, afdeling wet- en regelgeving;
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 Het eskader van de Koninklijke marine voert een vaandel, bestaande uit een vaandeldoek en een vaandelstang.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het vaandeldoek is een vierkant doek van oranje zijde, omzoomd met gouden franje. De lengte en de breedte van het vaandeldoek zijn zevenentachtig centimeter.
 
@@ -56,7 +82,7 @@ Het geheel van de gekroonde B, naam en jaartal van instelling van 's lands vloot
 
 3. Op de achterzijde is in kleuren geborduurd het Koninklijk wapen zonder de daarbij behorende mantel. Het Koninklijk wapen is omgeven door twee met een lint samengebonden takken van sinopel, ter linkerzijde een eikentak, ter rechterzijde een lauwertak. Het lint is uitgevoerd in de kleuren behorende bij het lint van de Militaire Willemsorde. Het geheel is omgeven door een doorlopende oranjetak.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vaandelstang is een zwarte stok, lang tweehonderdenvijftig centimeter, waarvan het gedeelte dat boven in de broeking van het vaandel komt, bestaat uit een bus met inwendige schroefdraad waarop de vaandeltop wordt geschroefd.
 
@@ -74,15 +100,15 @@ Het geheel van de gekroonde B, naam en jaartal van instelling van 's lands vloot
 
 8. Leeuw, voetstuk en krans zijn uitgevoerd in goudkleurig metaal.
 
-#### Artikel 4
+##### Artikel 4
 
 Om de zwarte bus in de eikenkrans is een gouden koord geknoopt, de knoop in het midden; de beide einden worden bijeengehouden door een horizontale schuifpassant. Aan de uiteinden is het koord voorzien van een vaandelkwast, gevlochten van gouddraad, met losse bouillons.
 
-#### Artikel 5
+##### Artikel 5
 
 Het vaandeldoek is met een broeking van oranje zijde om de vaandelstang geschoven.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit treedt in werking met ingang van 19 april 2002.
 

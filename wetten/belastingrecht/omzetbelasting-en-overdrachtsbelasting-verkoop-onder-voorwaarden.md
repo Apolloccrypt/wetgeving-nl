@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting en overdrachtsbelasting, verkoop onder voorwaarden"
 identifier: "BWBR0035566"
-categorie: "Belastingrecht"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035566"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035566"
+soort: "beleidsregel"
+stam_id: "12801543"
+version_id: "21738192"
+internal_id: "C31199391"
+label_id: "12771424"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035566/2023-01-01/0"
+intitule_bron: "Stcrt.2014-26406"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-11"
+intitule_published: "2014-09-23"
+intitule_in_force: "2014-09-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-26406"
+original_signed_date: "2014-09-11"
+original_published_date: "2014-09-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-26406"
+entry_into_force_date: "2014-09-24"
+jci_1_3: "jci1.3:c:BWBR0035566&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0035566&g=2023-01-01"
+citeertitel_status: "redactioneel"
+signed_date: "2014-09-11"
+entry_into_force: "2014-09-24"
 ---
-
 # Omzetbelasting en overdrachtsbelasting, verkoop onder voorwaarden
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

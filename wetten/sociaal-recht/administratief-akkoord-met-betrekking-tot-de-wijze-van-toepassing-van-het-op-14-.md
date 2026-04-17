@@ -1,13 +1,38 @@
 ---
 title: "Administratief Akkoord met betrekking tot de wijze van toepassing van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake sociale zekerheid"
 identifier: "BWBV0001012"
-categorie: "Sociaal recht"
-publicatiedatum: 2022-06-01
-laatste_update: 2021-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001012"
+country: "nl"
+rank: "verdrag"
+publication_date: "2022-06-01"
+last_updated: "2021-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001012"
+soort: "verdrag"
+stam_id: "10002175183"
+version_id: "10002263792"
+internal_id: "C10006982041"
+label_id: "10002165644"
+dtd_version: "2.0"
+original_entry_into_force: "1973-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001012/2022-06-01/0"
+intitule_bron: "Trb.1973-130"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-11-03"
+intitule_published: "1973-08-31"
+intitule_in_force: "1973-08-31"
+intitule_status: "goed"
+original_publication: "Trb.1973-130"
+original_signed_date: "1972-11-03"
+original_published_date: "1973-08-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1973-130"
+entry_into_force_date: "1973-01-01"
+jci_1_3: "jci1.3:c:BWBV0001012&z=2022-06-01&g=2022-06-01"
+jci_1_0: "1.0:c:BWBV0001012&g=2022-06-01"
+citeertitel_status: "redactioneel"
+signed_date: "1972-11-03"
+entry_into_force: "1973-01-01"
 ---
-
 # Administratief Akkoord met betrekking tot de wijze van toepassing van het op 14 februari 1972 te Rabat ondertekende Algemeen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake sociale zekerheid
 
 Voor de toepassing van de artikelen 14, tweede lid, 23, 26, derde lid, en 28 van het op 14 februari 1972 te Rabat ondertekende [Algemeen Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk Marokko inzake sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011), hierna aangeduid met de term „Verdrag”, hebben de Nederlandse en Marokkaanse bevoegde autoriteiten, te weten:
@@ -22,7 +47,7 @@ in gemeen overleg de volgende bepalingen vastgesteld:
 
 ### HOOFDSTUK 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011) en van dit Akkoord:
 
@@ -34,7 +59,7 @@ Voor de toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV000
 
 - d. worden onder „gezinsleden” verstaan de personen die in de wettelijke regelingen van de Verdragsluitende Partij op het grondgebied waarvan zij wonen als zodanig worden aangemerkt of erkend.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor de toepassing van dit Akkoord worden als verbindingsorganen aangewezen:
 
@@ -54,7 +79,7 @@ Voor de toepassing van dit Akkoord worden als verbindingsorganen aangewezen:
 
 - b. voor de bijstand, de ad hoc-commissie.
 
-#### Artikel 3
+##### Artikel 3
 
 De in [artikel 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=4) bedoelde samentelling van tijdvakken geschiedt overeenkomstig de volgende regels:
 
@@ -66,7 +91,7 @@ De in [artikel 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV000101
 
 - d. ingeval volgens de wetgeving van een Verdragsluitende Partij bepaalde tijdvakken van arbeid of verzekering slechts in aanmerking worden genomen indien zij binnen een bepaalde termijn zijn vervuld, houdt het orgaan dat deze wetgeving toepast, slechts rekening met de tijdvakken welke krachtens de wetgeving van de andere Partij zijn vervuld, indien zij binnen dezelfde termijn zijn vervuld.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In het in [artikel 7, sub a) van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=7) bedoelde geval verstrekt de in het tweede lid van dit artikel aangegeven instelling van het land waarvan de wettelijke regelingen van toepassing blijven, de werknemer op verzoek een bewijsstuk waarin wordt verklaard dat hij aan de wettelijke regelingen van dit land onderworpen blijft.
 
@@ -86,7 +111,7 @@ Het in de voorgaande alinea's bedoelde bewijsstuk dient naast de gegevens omtren
 
 5. De werkgever en de belanghebbenden regelen alle aangelegenheden inzake de premies voor de sociale zekerheid rechtstreeks met het bevoegde Nederlandse orgaan, wanneer het land waar de werkzaamheden gewoonlijk worden verricht het Koninkrijk der Nederlanden is en met het bevoegde Marokkaanse orgaan, wanneer het land waar de werkzaamheden gewoonlijk worden verricht het Koninkrijk Marokko is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De werknemer die overeenkomstig [artikel 8, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=8) zijn keuzerecht uitoefent, deelt dit, door tussenkomst van zijn werkgever, mede aan de in artikel 4, tweede lid, van dit Akkoord genoemde instelling van het land voor welks wettelijke regelingen hij heeft gekozen. Deze instelling deelt dit aan de overeenkomstige instelling van het andere land mede.
 
@@ -94,7 +119,7 @@ Het in de voorgaande alinea's bedoelde bewijsstuk dient naast de gegevens omtren
 
 ### HOOFDSTUK 2. Ziekte en moederschap
 
-#### Artikel 6
+##### Artikel 6
 
 Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” en „orgaan van de verblijfplaats” verstaan:
 
@@ -108,7 +133,7 @@ Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” 
 
 - –. de „Caisse Nationale de Sécurité Sociale” – C.N.S.S. – (Nationaal Fonds voor Sociale Zekerheid), hoofdkantoor te Casablanca of de over het Koninkrijk Marokko verspreide vestigingen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Om in aanmerking te komen voor de in [artikel 4 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=4) bedoelde samentelling van tijdvakken van verzekering, dient de werknemer die zich van het ene naar het andere land heeft begeven aan het bevoegde orgaan van laatstbedoeld land een verklaring over te leggen, waarin de tijdvakken van verzekering zijn vermeld welke krachtens de wettelijke regeling van eerstbedoeld land zijn vervuld.
 
@@ -120,7 +145,7 @@ Voor de toepassing van dit hoofdstuk wordt onder „orgaan van de woonplaats” 
 
 3. Indien de werknemer de verklaring niet overlegt, verzoekt het bevoegde orgaan van het land waarheen hij zich heeft begeven een van de bovenbedoelde organen om toezending.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Om in Marokko in aanmerking te komen voor de verstrekkingen krachtens de Nederlandse wettelijke regeling, dient de werknemer die tijdens een tijdelijk verblijf in Marokko arbeidsongeschikt wordt – onverminderd zijn verplichting om zijn werkgever onmiddellijk in kennis te stellen van zijn arbeidsongeschiktheid – onverwijld persoonlijk een aanvraag in te dienen of – in geval van overmacht – deze door iemand anders te doen indienen bij de C.N.S.S., waarbij hij een door de behandelende arts afgegeven geneeskundige verklaring voegt. In zijn aanvraag vermeldt de werknemer de naam en het adres van zijn werkgever of voormalige werkgever, alsmede, indien mogelijk, de naam en het adres van de bevoegde bedrijfsvereniging.
 
@@ -140,13 +165,13 @@ De C.N.S.S. zendt het rapport van de door hem aangewezen arts onverwijld door na
 
 6. Indien de arbeidsongeschiktheid voortduurt, dient de werknemer aan wie de bevoegde bedrijfsvereniging de in het derde lid bedoelde oproep nog niet heeft toegezonden, zich tot de C.N.S.S. te wenden, waar hij een nieuwe aanvraag moet indienen, tezamen met een geneeskundige verklaring van de behandelende arts, zulks telkens voor het einde van de in de voorgaande geneeskundige verklaring van de behandelende arts genoemde rustperiode. In dergelijke gevallen handelt de C.N.S.S. overeenkomstig het in het tweede lid bepaalde.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. De werknemer die krachtens de Nederlandse wettelijke regeling een uitkering ontvangt en die van de bevoegde bedrijfsvereniging toestemming heeft om tijdelijk in Marokko te verblijven, blijft onderworpen aan controle door de bevoegde bedrijfsvereniging. Voor de uitoefening van deze controle roept de bedrijfsvereniging de werknemer op om in Nederland medisch te worden onderzocht door de eigen verzekeringsarts. De werknemer dient onverwijld aan een dergelijke oproep gevolg te geven. Eventuele extra reiskosten die in verband met de gezondheidstoestand van de werknemer worden gemaakt om aan bovenbedoelde oproep gevolg te geven, zullen op vertoon van de bewijsstukken aan de betrokkene worden vergoed.
 
 2. Indien de werknemer zich niet in staat acht aan een dergelijke oproep gevolg te geven, is artikel 8, vierde en vijfde lid, op overeenkomstige wijze van toepassing.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. De werknemer die krachtens de Nederlandse wettelijke regeling een uitkering ontvangt en van de bevoegde bedrijfsvereniging toestemming heeft om deze uitkering te blijven ontvangen na overbrenging van zijn woonplaats naar Marokkaans grondgebied, dient zich voor de door de bedrijfsvereniging aangegeven datum tot de C.N.S.S. te wenden, waar hij de bevestiging van de toestemming van de bedrijfsvereniging moet overleggen, alsmede een door de behandelende arts afgegeven geneeskundige verklaring.
 
@@ -156,7 +181,7 @@ De C.N.S.S. zendt het rapport van de door hem aangewezen arts onverwijld door na
 
 Eventuele reiskosten die worden gemaakt om gevolg te geven aan de in artikel 8, derde lid, genoemde oproep, zullen op vertoon van bewijsstukken aan de betrokkene worden vergoed.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Om in Nederland in aanmerking te komen voor een uitkering krachtens de Marokkaanse wettelijke regeling, dient de arbeidsongeschikte werknemer die zich in dat land bevindt een aanvraag in te dienen bij de Nieuwe Algemene Bedrijfsvereniging onder vermelding van de naam en het adres van zijn werkgever. Dit orgaan doet de aanvraag onverwijld aan de C.N.S.S. toekomen, waarbij een geneeskundige verklaring van de verzekeringsarts wordt gevoegd.
 
@@ -164,15 +189,15 @@ Eventuele reiskosten die worden gemaakt om gevolg te geven aan de in artikel 8, 
 
 3. De C.N.S.S. is als enige bevoegd te beslissen over aanspraken op uitkeringen of verstrekkingen, behoudens de bevoegdheid van de Marokkaanse rechter in geval van geschillen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, legt de in [artikel 11, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde werknemer aan het orgaan van zijn nieuwe woonplaats een verklaring over waarin het bevoegde orgaan hem toestemming verleent na de overbrenging van zijn woonplaats het recht op verstrekkingen te behouden. Het bovenbedoelde orgaan vermeldt in deze verklaring, in voorkomend geval, voor welk tijdvak de verstrekkingen ten hoogste mogen worden verleend, krachtens de door dat orgaan toegepaste wettelijke regeling. Het bevoegde orgaan kan de verklaring op verzoek van de werknemer of van het orgaan van de nieuwe woonplaats afgeven na de overbrenging van de woonplaats, wanneer de verklaring niet eerder kon worden opgemaakt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Teneinde de toestemming te verkrijgen die voor toekenning van de in [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) bedoelde verstrekkingen vereist is, richt het orgaan van de woonplaats een verzoek tot het bevoegde orgaan. Dit laatstgenoemde orgaan heeft een termijn van dertig dagen, te rekenen vanaf de verzending van dit verzoek, om in voorkomend geval zijn bezwaren gemotiveerd kenbaar te maken; het orgaan van de woonplaats kent de verstrekkingen toe, indien het na het verstrijken van deze termijn geen kennisgeving van bezwaren heeft ontvangen.
 
@@ -180,7 +205,7 @@ Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, l
 
 3. Onmiskenbare spoedgevallen in de zin van [artikel 11, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11) zijn die gevallen, waarin het verlenen van de verstrekking niet kan worden uitgesteld zonder het leven of de gezondheid van de betrokkene ernstig in gevaar te brengen. Ingeval een prothese of een hulpmiddel door een ongeval is gebroken of beschadigd, is het, om de onmiskenbare spoed vast te stellen, voldoende de noodzaak van reparatie of vervanging van deze prothese of dit hulpmiddel aan te tonen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Om in aanmerking te komen voor de verstrekkingen krachtens [artikel 12 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=12), schrijft de werknemer zichzelf en zijn gezinsleden in bij het orgaan van de woonplaats, onder overlegging van een verklaring waaruit blijkt dat hij recht heeft op deze verstrekkingen, voor zichzelf en zijn gezinsleden. Deze verklaring wordt afgegeven door het bevoegde orgaan, aan de hand van, in voorkomend geval, door de werkgever verstrekte gegevens. Indien de werknemer of zijn gezinsleden deze verklaring niet overleggen, verzoekt het orgaan van de woonplaats het bevoegde orgaan om toezending.
 
@@ -192,7 +217,7 @@ Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, l
 
 5. De werknemer of zijn gezinsleden dienen het orgaan van de woonplaats in kennis te stellen van iedere verandering in hun situatie waardoor het recht op verstrekkingen kan veranderen, met name beëindiging of verandering van een dienstbetrekking of uitoefening van een beroep van de werknemer of iedere overbrenging van de woon- of verblijfplaats van hem of van een van zijn gezinsleden. Het bevoegde orgaan stelt tevens het orgaan van de woonplaats in kennis van de beëindiging van de aansluiting of van de beëindiging van de rechten op verstrekkingen van de werknemer. Het orgaan van de woonplaats kan het bevoegde orgaan te allen tijde verzoeken om verstrekking van alle gegevens met betrekking tot de aansluiting of de rechten van de werknemer.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Om in het land van zijn woonplaats in aanmerking te komen voor verstrekkingen, schrijft de in [artikel 13, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde pensioengerechtigde zich en zijn gezinsleden in bij het orgaan van zijn woonplaats, waarbij hij de volgende stukken overlegt:
 
@@ -212,15 +237,15 @@ Om in het land van zijn nieuwe woonplaats recht op verstrekkingen te behouden, l
 
 7. Het in artikel 13 bepaalde is van overeenkomstige toepassing op de in [artikel 13, derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde gezinsleden.
 
-#### Artikel 14a
+##### Artikel 14a
 
 In de in [artikel 13, vierde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) bedoelde gevallen verzoekt het bevoegde orgaan, zo nodig, het orgaan van de laatste woonplaats om gegevens met betrekking tot het tijdvak waarin verstrekkingen zijn verleend dat onmiddellijk voorafging aan de overbrenging van de woonplaats naar het grondgebied van de bevoegde Staat.
 
-#### Artikel 14b
+##### Artikel 14b
 
 De werkelijke bedragen van de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens [artikel 10, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=10), en [artikel 11, tweede en zesde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=11), worden door de bevoegde organen vergoed aan de organen die bedoelde verstrekkingen hebben verleend, en wel op grond van de boekhouding van de laatstgenoemde organen.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. Voor de uitgaven met betrekking tot de verstrekkingen die zijn verleend krachtens [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=12) en [artikel 13, tweede en derde lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=13) wordt voor elk kalenderjaar een vast bedrag vastgesteld.
 
@@ -238,17 +263,17 @@ Dit bedrag wordt berekend aan de hand van statistieken die door de bevoegde Maro
 
 5. De toepassing van het vierde lid kan aanleiding geven tot verschillende berekeningen al naar gelang de leeftijdsgroep waartoe de verzekerden behoren.
 
-#### Artikel 14d
+##### Artikel 14d
 
 De in [artikel 14 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=14) bedoelde vergoedingen geschieden door tussenkomst van de verbindingsorganen. Voor de toepassing van artikel 14b en 14c kunnen de in dit artikel bedoelde organen regelingen treffen met betrekking tot het verstrekken van voorschotten.
 
-#### Artikel 14e
+##### Artikel 14e
 
 De in artikel 14b en 14c bedoelde bedragen worden met 10 % vermeerderd wegens administratiekosten.
 
 ### HOOFDSTUK 3. Invaliditeit
 
-#### Artikel 16
+##### Artikel 16
 
 1. In het in [artikel 16, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=16) bedoelde geval gelden voor het indienen van de aanvraag de volgende voorschriften:
 
@@ -262,7 +287,7 @@ De in artikel 14b en 14c bedoelde bedragen worden met 10 % vermeerderd wegens ad
 
 2. Het Nederlandse verbindingsorgaan reikt op verzoek van het Marokkaanse bevoegde orgaan een verklaring uit inzake de krachtens de Nederlandse wettelijke regeling vervulde tijdvakken van verzekering. Bij dit verzoek moet een overzicht zijn gevoegd van de in Nederland vervulde tijdvakken van arbeid, met vermelding van de namen en adressen van de Nederlandse werkgevers volgens de door de werknemer verstrekte gegevens.
 
-#### Artikel 17
+##### Artikel 17
 
 - a. Wanneer de bedrijfsvereniging waarbij een in Marokko wonende werknemer of een met hem gelijkgestelde aanspraak kan maken op een arbeidsongeschiktheidsuitkering krachtens de Nederlandse wettelijke regeling niet zelf de controle uitoefent, kan dit orgaan de CNSS verzoeken een geneeskundig rapport op te maken met betrekking tot de gezondheidstoestand van de werknemer en de administratieve controle uit te oefenen. In het verzoek van het Nederlandse orgaan wordt de aard van het geneeskundig of administratief onderzoek vermeld.
 
@@ -280,23 +305,23 @@ De in artikel 14b en 14c bedoelde bedragen worden met 10 % vermeerderd wegens ad
 
 - d. Indien de rechthebbende zich om medische redenen niet in staat acht naar Marokko te reizen, stelt hij onmiddellijk het betrokken Marokkaanse orgaan daarvan in kennis. Hij dient dan naar het orgaan van zijn woonplaats te gaan. Dit orgaan laat de rechthebbende medisch onderzoeken en doet de CNSS een verklaring toekomen die met name de medische reden bevat waarom betrokkene niet naar Marokko kan reizen en het tijdvak waarna de medische gronden niet meer van toepassing zijn.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Voor de toepassing van artikel 17 van dit Akkoord doet de Caisse Nationale de Sécurité Sociale, onderscheidenlijk de Nieuwe Algemene Bedrijfsvereniging, het onderzoek zodanig verrichten, dat het mogelijk is de mate van invaliditeit van de belanghebbende vast te stellen met het oog op het behouden, het herzien, het schorsen of het intrekken van de uitkering.
 
 2. Het rapport omtrent dit onderzoek wordt onverwijld gezonden aan het bevoegde orgaan dat om de controle heeft verzocht.
 
-#### Artikel 19
+##### Artikel 19
 
 Indien de rechthebbende op een invaliditeitspensioen of -uitkering het werk hervat, zendt de Caisse Nationale de Sécurité Sociale, onderscheidenlijk de Nieuwe Algemene Bedrijfsvereniging, een rapport aan het andere orgaan. Dit rapport vermeldt de aard van de verrichte werkzaamheden, de verdiensten van de betrokken werknemer, de normale beloning welke in dezelfde streek door een werknemer van dezelfde beroepsgroep als die waartoe hij behoort gewoonlijk wordt genoten, alsmede eventueel de mening van een medisch deskundige over de gezondheidstoestand van de belanghebbende.
 
-#### Artikel 20
+##### Artikel 20
 
 Wanneer een verzekerde, na schorsing of intrekking van het pensioen of de uitkering, overeenkomstig [artikel 18 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=18) zijn recht op invaliditeitspensioen of -uitkering herkrijgt terwijl hij woont in het land dat niet het pensioen verschuldigd is, verstrekken de betrokken organen elkaar alle inlichtingen welke met het oog op het hervatten van de betaalbaarstelling van belang zijn.
 
 ### HOOFDSTUK 4. Ouderdom en overlijden
 
-#### Artikel 21
+##### Artikel 21
 
 1. Om in aanmerking te komen voor uitkeringen overeenkomstig [artikel 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=19), dient de in Nederland wonende werknemer of nagelaten betrekking van een werknemer zijn aanvraag om uitkering krachtens de Marokkaanse wettelijke regeling in bij het Districtskantoor van de Sociale Verzekeringsbank binnen welks gebied hij zijn woonplaats heeft. Indien de aanvraag bij een ander Nederlands orgaan wordt ingediend, vermeldt dit orgaan de datum van ontvangst op de aanvraag en zendt deze onverwijld aan het bevoegde het Districtskantoor van de Sociale Verzekeringsbank door.
 
@@ -306,17 +331,17 @@ Wanneer een verzekerde, na schorsing of intrekking van het pensioen of de uitker
 
 4. Wanneer het gaat om een weduwenpensioen, reserveert het Marokkaanse orgaan in het voorkomende geval het bedrag van de eventuele achterstallige termijnen ten behoeve van het Nederlandse orgaan. Bij de definitieve afdoening van de aanvraag om uitkeringen wordt het door het Districtskantoor van de Sociale Verzekeringsbank te veel betaalde op het bedrag van de achterstallige termijnen ingehouden door de Caisse Nationale de Sécurité Sociale, die dit overmaakt aan vorenbedoeld Nederlands orgaan.
 
-#### Artikel 22
+##### Artikel 22
 
 Voor de toepassing van [artikel 19 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=19) verstrekt het Nederlandse verbindingsorgaan, indien het Marokkaanse orgaan dat belast is met de behandeling van een aanvraag om uitkering voor een in Marokko wonende aanvrager, hierom verzoekt, een opsomming en samenvatting van de krachtens de Nederlandse wettelijke regeling vervulde tijdvakken van verzekering.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De in Marokko wonende werknemer die in aanmerking wil komen voor een ouderdomspensioen krachtens de Nederlandse wettelijke regeling, dient zijn aanvraag in bij de Caisse Nationale de Sécurité Sociale.
 
 2. De Caisse Nationale de Sécurité Sociale gaat na of het aanvraagformulier volledig is ingevuld en bevestigt de juistheid van de door de aanvrager gedane opgaven. Bovendien vermeldt zij, voor de toepassing van [artikel 21, tweede lid, van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=21), de door de echtgenote van de aanvrager volgens de Marokkaanse wettelijke regeling vervulde tijdvakken van verplichte verzekering welke recht geven op een ouderdomspensioen, alsmede de tijdvakken gedurende welke zij eventueel een zodanig pensioen geniet. Vervolgens zendt zij de aanvraag aan de Sociale Verzekeringsbank.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Om in aanmerking te komen voor uitkeringen op grond van de Nederlandse wettelijke regeling moeten de in Marokko wonende nagelaten betrekkingen van een werknemer een aanvraag bij de Caisse Nationale de Sécurité Sociale indienen.
 
@@ -324,15 +349,15 @@ Voor de toepassing van [artikel 19 van het Verdrag](https://wetten.overheid.nl/j
 
 3. De Caisse Nationale de Sécurité Sociale gaat na of de aanvraag volledig is ingevuld en bevestigt de juistheid van de door de aanvrager gedane opgaven; zij zendt de aanvraag vervolgens aan de Sociale Verzekeringsbank en geeft daarbij aan of de overledene op het tijdstip van zijn overlijden in Marokko verplicht verzekerd was.
 
-#### Artikel 25
+##### Artikel 25
 
 De Sociale Verzekeringsbank neemt een beslissing op de aanvraag. Deze beslissing, waarin de rechtsmiddelen en beroepstermijnen vermeld worden, wordt aan het Marokkaanse verbindingsorgaan toegezonden. Dit orgaan stelt de aanvrager ervan in kennis in zijn moedertaal door middel van een samenvatting waarbij de beslissing wordt gevoegd. De beroepstermijnen vangen eerst aan op de datum waarop de aanvrager de samenvatting ontvangt.
 
-#### Artikel 26
+##### Artikel 26
 
 Voor de berekening van het weduwenpensioen ingevolge de Nederlandse wettelijke regeling, wordt de volgens deze wettelijke regeling maximaal mogelijke verzekeringsduur, zoals bedoeld in artikel 22, tweede lid, van het Verdrag, gerekend van de datum waarop de verzekerde de leeftijd van 15 jaar heeft bereikt.
 
-#### Artikel 27
+##### Artikel 27
 
 Wanneer twee of meer personen recht hebben op een weduwenpensioen uit hoofde van het overlijden van eenzelfde verzekerde, geschiedt de in [artikel 23 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=23) bedoelde verdeling van, het pensioen dat krachtens de Nederlandse wettelijke regeling door het Nederlandse orgaan verschuldigd is, of, in het in [artikel 22 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=22) bedoelde geval, van het pensioen dat overeenkomstig het tweede lid van laatstbedoeld artikel wordt berekend, als volgt:
 
@@ -340,13 +365,13 @@ Wanneer twee of meer personen recht hebben op een weduwenpensioen uit hoofde van
 
 ### HOOFDSTUK 5. Kinderbijslag
 
-#### Artikel 28
+##### Artikel 28
 
 De gegevens inzake de gezinssamenstelling die voorkomen op de aanvraag kinderbijslag, verschuldigd krachtens de wettelijke regeling van een van de landen, voor een recht op kinderbijslag voor kinderen die in het andere land wonen dat ontstaat vóór 2 januari 2021, worden op verzoek van het bevoegde orgaan door bemiddeling van de betrokken verbindingsorganen geverifieerd.
 
 ### HOOFDSTUK 6. Werkloosheid
 
-#### Artikel 29
+##### Artikel 29
 
 1. Om in aanmerking te komen voor de toepassing van [artikel 27 van het Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011&artikel=27) dient de aanvrager aan het Nederlandse bevoegde orgaan een verklaring over te leggen met betrekking tot de in aanmerking te nemen tijdvakken van arbeid in Marokko, voor zover het noodzakelijk is hierop een beroep te doen om de tijdvakken welke reeds krachtens de Nederlandse wettelijke regeling zijn vervuld, aan te vullen.
 
@@ -354,7 +379,7 @@ De gegevens inzake de gezinssamenstelling die voorkomen op de aanvraag kinderbij
 
 ### Hoofdstuk 6A. Bijstand
 
-#### Artikel 30a
+##### Artikel 30a
 
 De volgende leden zijn van toepassing in het kader van de controle van de rechtmatigheid van bijstandsuitkeringen:
 
@@ -380,7 +405,7 @@ De volgende leden zijn van toepassing in het kader van de controle van de rechtm
 
 ### HOOFDSTUK 7. Diverse bepalingen
 
-#### Artikel 30
+##### Artikel 30
 
 Teneinde in aanmerking te komen voor een uitkering krachtens de Nederlandse wettelijke regelingen of een dergelijke uitkering te kunnen behouden, zijn de werknemer, de met hem gelijkgestelde of zijn nabestaanden verplicht de CNSS een officieel legitimatiebewijs te tonen.
 
@@ -388,13 +413,13 @@ De CNSS identificeert de werknemer aan de hand van zijn legitimatiebewijs. Onder
 
 De CNSS bewijst aan het bevoegde Nederlandse orgaan dat de identiteit van de bovengenoemde personen naar behoren is geverifieerd door een kopie van het legitimatiebewijs toe te zenden met het verzoek, het administratieve verslag of het geneeskundige rapport.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De door het orgaan van een land verschuldigde uitkeringen aan rechthebbenden die in het andere land wonen, worden rechtstreeks en op de vervaldagen voorzien in de door dit orgaan toegepaste wetgeving, uitbetaald hetzij per internationale postwissel, hetzij per bank.
 
 2. Op de uitkeringen welke aan de rechthebbenden worden uitbetaald, worden geen porti of bankkosten in mindering gebracht.
 
-#### Artikel 31a
+##### Artikel 31a
 
 De volgende leden zijn van toepassing in het kader van de controle van de rechtmatigheid van de socialezekerheidsuitkeringen:
 
@@ -408,23 +433,23 @@ De volgende leden zijn van toepassing in het kader van de controle van de rechtm
 
 - 5. De in dit artikel bedoelde gegevens omvatten in het bijzonder adres, identiteit, gezinssituatie, arbeidssituatie, arbeidsgeschiktheid, gezondheidstoestand, overlijden, inkomen, schoolgang van de kinderen of detentie.
 
-#### Artikel 32
+##### Artikel 32
 
 De uit de medische controle voortvloeiende kosten worden gedragen door het orgaan dat de controle heeft gevraagd. Vergoeding van deze kosten geschiedt tegen overlegging van een gespecificeerde rekening, verhoogd met 10% wegens administratiekosten.
 
-#### Artikel 33
+##### Artikel 33
 
 Alle meningsverschillen met betrekking tot de toepassing van dit Akkoord worden opgelost door een commissie, samengesteld uit vertegenwoordigers van de bevoegde autoriteiten, die zich door deskundigen kunnen laten bijstaan. De commissie vergadert voor zover nodig eenmaal per jaar beurtelings in het ene en het andere land.
 
-#### Artikel 34
+##### Artikel 34
 
 De verbindingsorganen stellen in onderlinge overeenstemming de voor de toepassing van het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011) benodigde formulieren en andere bescheiden vast.
 
-#### Artikel 34a
+##### Artikel 34a
 
 Het orgaan van de woonplaats verleent zijn goede diensten aan het bevoegde orgaan teneinde een vordering in te stellen tegen de uitkeringsgerechtigde die onverschuldigd uitkeringen heeft verkregen. De wijze van toepassing wordt met wederzijds goedvinden vastgesteld door de bevoegde organen van beide landen.
 
-#### Artikel 35
+##### Artikel 35
 
 Dit akkoord treedt op dezelfde dag in werking als het [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0001011). Het heeft dezelfde duur als het Verdrag, met dien verstande dat in geval van opzegging van het Verdrag artikel 31a van dit Akkoord van toepassing blijft.
 

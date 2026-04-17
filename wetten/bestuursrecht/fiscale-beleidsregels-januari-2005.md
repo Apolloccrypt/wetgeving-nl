@@ -1,13 +1,37 @@
 ---
 title: "Fiscale beleidsregels januari 2005"
 identifier: "BWBR0017997"
-categorie: "Bestuursrecht"
-publicatiedatum: 2005-02-11
-laatste_update: 2005-02-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017997"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2005-02-11"
+last_updated: "2005-02-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017997"
+soort: "beleidsregel"
+stam_id: "6847333"
+version_id: "11725442"
+internal_id: "C15807951"
+label_id: "6835474"
+original_entry_into_force: "2005-02-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017997/2005-02-11/0"
+intitule_bron: "Stcrt.2005-30"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-02-08"
+intitule_published: "2005-02-11"
+intitule_in_force: "2005-02-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2005-30"
+original_signed_date: "2005-02-08"
+original_published_date: "2005-02-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2005-30-p11-SC68908"
+entry_into_force_date: "2005-02-11"
+jci_1_3: "jci1.3:c:BWBR0017997&z=2005-02-11&g=2005-02-11"
+jci_1_0: "1.0:c:BWBR0017997&g=2005-02-11"
+citeertitel_status: "redactioneel"
+signed_date: "2005-02-08"
+entry_into_force: "2005-02-11"
 ---
-
 # Fiscale beleidsregels januari 2005
 
 De Staatssecretaris van Financiën geeft kennis van het volgende.

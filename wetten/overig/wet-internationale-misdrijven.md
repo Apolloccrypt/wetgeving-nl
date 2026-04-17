@@ -1,14 +1,42 @@
 ---
-title: "Wet internationale misdrijven"
+title: "Wet van 19 juni 2003, houdende regels met betrekking tot ernstige schendingen van het internationaal humanitair recht (Wet internationale misdrijven)"
 identifier: "BWBR0015252"
-categorie: "Overig"
-publicatiedatum: 2020-01-01
-laatste_update: 2020-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015252"
+country: "nl"
+rank: "wet"
+publication_date: "2020-01-01"
+last_updated: "2020-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015252"
+soort: "wet"
+stam_id: "4949603"
+version_id: "17607562"
+internal_id: "C24364921"
+label_id: "4927344"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015252/2020-01-01/0"
+intitule_bron: "Stb.2003-270"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-06-19"
+intitule_published: "2003-07-03"
+intitule_in_force: "2003-09-02"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0015252&z=2020-01-01&g=2020-01-01"
+jci_1_0: "1.0:c:BWBR0015252&g=2020-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet internationale misdrijven"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Wet internationale misdrijven
+# Wet van 19 juni 2003, houdende regels met betrekking tot ernstige schendingen van het internationaal humanitair recht (Wet internationale misdrijven)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet wordt verstaan onder:
 
@@ -54,7 +82,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de [artikelen 131 tot en met 134](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=131), [140](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=40), [189](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=189), [416 tot en met 417bis](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=416) en [420bis tot en met 420quater van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=420bis), indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de [artikelen 3 tot en met 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=3&z=2020-01-01&g=2020-01-01) van deze wet.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) bepaalde is de Nederlandse strafwet toepasselijk:
 
@@ -68,7 +96,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 #### § 2. Strafbepalingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. Hij die met het oogmerk om een nationale, etnische of godsdienstige groep, dan wel een groep behorend tot een bepaald ras, geheel of gedeeltelijk, als zodanig te vernietigen:
 
@@ -86,7 +114,7 @@ wordt als schuldig aan genocide gestraft met levenslange gevangenisstraf of tijd
 
 2. De samenspanning en de opruiing tot genocide die in het openbaar, mondeling of bij geschrift of afbeelding, plaatsvindt, worden gestraft gelijk de poging.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Als schuldig aan een misdrijf tegen de menselijkheid wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie, hij die een van de volgende handelingen begaat, indien gepleegd als onderdeel van een wijdverbreide of stelselmatige aanval gericht tegen een burgerbevolking, met kennis van de aanval:
 
@@ -124,7 +152,7 @@ wordt als schuldig aan genocide gestraft met levenslange gevangenisstraf of tijd
 
 3. Onder «uitroeiing» wordt in dit artikel mede verstaan: het opzettelijk opleggen van levensomstandigheden, onder andere de onthouding van toegang tot voedsel en geneesmiddelen, gericht op de vernietiging van een deel van een bevolking.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij die zich in geval van een internationaal gewapend conflict schuldig maakt aan een van de ernstige inbreuken op de Verdragen van Genève, te weten de volgende feiten indien begaan tegen door genoemde verdragen beschermde personen:
 
@@ -290,7 +318,7 @@ wordt de schuldige gestraft met levenslange gevangenisstraf of tijdelijke van te
 
 - b. betreft het geval dat bloed wordt afgestaan voor transfusie of huid voor transplantatie, mits dit vrijwillig en zonder enige dwang of aandrang geschiedt, en dan nog slechts voor therapeutische doeleinden, onder omstandigheden die beantwoorden aan de algemeen aanvaarde medische normen en maatregelen van toezicht, die zowel het belang van de donor als van de ontvanger beogen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Hij die zich in geval van een niet-internationaal gewapend conflict schuldig maakt aan schending van het gemeenschappelijk artikel 3 van de Verdragen van Genève, te weten het begaan jegens personen die niet rechtstreeks aan de vijandelijkheden deelnemen, met inbegrip van personeel van strijdkrachten dat de wapens heeft neergelegd, of jegens personen die buiten gevecht zijn gesteld door ziekte, verwonding, gevangenschap of enig andere oorzaak, van een van de volgende feiten:
 
@@ -354,7 +382,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 4. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het derde lid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Hij die zich in het geval van een internationaal of niet-internationaal gewapend conflict schuldig maakt aan een schending van de wetten en gebruiken van de oorlog anders dan bedoeld in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01) of [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01) wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
@@ -370,7 +398,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 3. [Artikel 5, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), is van overeenkomstige toepassing op een feit als bedoeld in het eerste lid.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Foltering door een ambtenaar of anderszins ten dienste van de overheid werkzame persoon in de uitoefening van zijn functie wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
@@ -382,7 +410,7 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 #### § 3. Uitbreiding van de strafbaarheid
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met gelijke straf als gesteld op de in [§ 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&z=2020-01-01&g=2020-01-01) en in [artikel 1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), bedoelde feiten wordt gestraft de meerdere die:
 
@@ -396,11 +424,11 @@ wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete v
 
 #### § 3. Uitbreiding van de strafbaarheid
 
-#### Artikel 10
+##### Artikel 10
 
 De in deze wet strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Dat een in deze wet omschreven misdrijf is begaan ter uitvoering van een voorschrift, gegeven door de wetgevende macht van een staat, of ter uitvoering van een bevel van een meerdere, heft de strafbaarheid van het betrokken feit niet op.
 
@@ -408,23 +436,23 @@ De in deze wet strafbaar gestelde feiten zijn misdrijven.
 
 3. Voor de toepassing van het tweede lid wordt een bevel tot het plegen van genocide, een misdrijf tegen de menselijkheid of gedwongen verdwijning van een persoon geacht kennelijk onbevoegd gegeven te zijn.
 
-#### Artikel 12
+##### Artikel 12
 
 De misdrijven, omschreven in deze wet, worden voor de toepassing van de [Uitleveringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002559) of de [Wet overlevering inzake oorlogsmisdrijven](https://wetten.overheid.nl/jci1.3:c:BWBR0002134) niet beschouwd als strafbare feiten van politieke aard.
 
-#### Artikel 13
+##### Artikel 13
 
 Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01), en, voor zover met die feiten verband houdend, de feiten, bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=3&artikel=9&z=2020-01-01&g=2020-01-01) – verjaart het recht tot strafvordering niet. [Artikel 6:1:22 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=6:1:22) en [artikel 77d, derde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=77d) zijn op die misdrijven niet van toepassing.
 
-#### Artikel 14
+##### Artikel 14
 
 Bij veroordeling tot een gevangenisstraf van ten minste een jaar wegens een der in deze wet omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
-#### Artikel 15
+##### Artikel 15
 
 Van de misdrijven omschreven in deze wet neemt de rechtbank Den Haag kennis, behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789).
 
-#### Artikel 16
+##### Artikel 16
 
 Strafvervolging voor een der in deze wet omschreven misdrijven is uitgesloten ten aanzien van:
 
@@ -434,29 +462,29 @@ Strafvervolging voor een der in deze wet omschreven misdrijven is uitgesloten te
 
 #### § 4a. Bonaire, Sint Eustatius en Saba
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet Oorlogsstrafrecht.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Wetboek van Strafrecht.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Wijzigt de Wet overlevering inzake oorlogsmisdrijven.
 
 #### § 6. Slotbepalingen
 
-#### Artikel 19
+##### Artikel 19
 
 De [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453) wordt ingetrokken.
 
-#### Artikel 20
+##### Artikel 20
 
 De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409) wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=5&z=2020-01-01&g=2020-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=6&z=2020-01-01&g=2020-01-01)[of 7 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=7&z=2020-01-01&g=2020-01-01), overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in [artikel 15 van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2020-01-01&g=2020-01-01), wordt de zaak bij dezelfde rechter voortgezet.
 
@@ -466,41 +494,41 @@ De [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 4. [Artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=2&z=2020-01-01&g=2020-01-01) is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970.
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 23
+##### Artikel 23
 
 Deze wet wordt aangehaald als: Wet internationale misdrijven.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 16a
+##### Artikel 16a
 
 Onverminderd de overige artikelen van deze paragraaf is deze wet mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
-#### Artikel 16b
+##### Artikel 16b
 
 In afwijking van [artikel 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), heeft de uitdrukking ambtenaar in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES, met dien verstande dat voor de toepassing van het Wetboek van Strafrecht BES onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.
 
-#### Artikel 16c
+##### Artikel 16c
 
 In afwijking van [artikel 1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=1&artikel=1&z=2020-01-01&g=2020-01-01), hebben de uitdrukkingen samenspanning en zwaar lichamelijk letsel in deze wet dezelfde betekenis als in het Wetboek van Strafrecht BES.
 
-#### Artikel 16d
+##### Artikel 16d
 
 Voor de toepassing van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=8&z=2020-01-01&g=2020-01-01) wordt onder de middelen waarvan in het tweede lid, onder a en b, wordt gesproken, verstaan de middelen, bedoeld in artikel 49, eerste lid, onder 2°, van het Wetboek van Strafrecht BES.
 
-#### Artikel 16e
+##### Artikel 16e
 
 In [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=13&z=2020-01-01&g=2020-01-01) wordt in plaats van de tweede volzin gelezen: Artikel 78 van het Wetboek van Strafrecht BES is op die misdrijven niet van toepassing.
 
-#### Artikel 16f
+##### Artikel 16f
 
 Voor de toepassing van [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=14&z=2020-01-01&g=2020-01-01) wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES.
 
-#### Artikel 16g
+##### Artikel 16g
 
 In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=4&artikel=15&z=2020-01-01&g=2020-01-01) neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag.
 
@@ -510,7 +538,7 @@ In afwijking van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&pa
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8a
+##### Artikel 8a
 
 1. Hij die zich schuldig maakt aan gedwongen verdwijning van een persoon, bedoeld in [artikel 4, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0015252&paragraaf=2&artikel=4&z=2020-01-01&g=2020-01-01), wordt gestraft met een gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
@@ -536,13 +564,13 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 21a
+##### Artikel 21a
 
 In geval van strafvervolging voor een van de in deze wet, de [Uitvoeringswet folteringverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0004409), de [Uitvoeringswet genocideverdrag](https://wetten.overheid.nl/jci1.3:c:BWBR0002453), dan wel de [Wet oorlogsstrafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0002099) omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) betreffende het slachtoffer en de benadeelde partij van toepassing.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Hij die, in de positie verkerende daadwerkelijk controle uit te oefenen over of leiding te geven aan het politieke of militaire optreden van een staat, een daad van agressie die door zijn aard, ernst en schaal een onmiskenbare schending vormt van het Handvest van de Verenigde Naties, plant, voorbereidt, in gang zet of uitvoert, wordt als schuldig aan het misdrijf agressie gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de zesde categorie.
 

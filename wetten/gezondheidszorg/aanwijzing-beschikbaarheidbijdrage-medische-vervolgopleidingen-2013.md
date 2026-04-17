@@ -1,13 +1,38 @@
 ---
-title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2012, MC-U-3131142, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
 identifier: "BWBR0032024"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2014-04-01
-laatste_update: 2014-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032024"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-04-01"
+last_updated: "2014-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032024"
+soort: "ministeriele-regeling"
+stam_id: "11851803"
+version_id: "19702072"
+internal_id: "C27638011"
+label_id: "11823924"
+original_entry_into_force: "2012-11-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032024/2014-04-01/0"
+intitule_bron: "Stcrt.2012-20041"
+intitule_effect: "wijziging"
+intitule_signed: "2012-09-17"
+intitule_published: "2012-10-12"
+intitule_in_force: "2012-10-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-19375"
+original_signed_date: "2012-09-17"
+original_published_date: "2012-09-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-19375"
+entry_into_force_date: "2012-11-01"
+jci_1_3: "jci1.3:c:BWBR0032024&z=2014-04-01&g=2014-04-01"
+jci_1_0: "1.0:c:BWBR0032024&g=2014-04-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013"
+signed_date: "2012-09-17"
+entry_into_force: "2012-11-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2012, MC-U-3131142, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake beschikbaarheidbijdrage (medische) vervolgopleidingen 2013
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -22,7 +47,7 @@ het verslag van 3 juli 2012 van een schriftelijk overleg met de vaste commissie 
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -48,27 +73,27 @@ In deze aanwijzing wordt verstaan onder:
 
 - k. **ggz:** geestelijke gezondheidszorg.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op activiteiten ten behoeve van het beschikbaar hebben van zorg als bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0031971&artikel=2), juncto onderdeel B, onder 1, sub a en b, van de [bijlage bij het besluit](onbekend) en heeft betrekking op het kalenderjaar 2013.
 
-#### Artikel 3. opdracht
+##### Artikel 3. opdracht
 
 De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 januari 2013 regels of beleidsregels vast
 
-#### Artikel 4. dienst van algemeen belang
+##### Artikel 4. dienst van algemeen belang
 
 1. De zorgautoriteit belast een opleidende zorgaanbieder op diens aanvraag met een dienst van algemeen belang voor opleidingsactiviteiten voor een vervolgopleiding als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=2&z=2014-04-01&g=2014-04-01).
 
 2. De zorgautoriteit toetst de aanvraag aan het verdeelplan dat ik met betrekking tot het jaar 2013 vaststel, en wat betreft de doorstroom tevens aan de opleidingsoverzichten die de voor de desbetreffende vervolgopleidingen relevante registratiecommissies met betrekking tot het jaar 2013 bijhouden.
 
-#### Artikel 5. verstrekken beschikbaarheidbijdrage
+##### Artikel 5. verstrekken beschikbaarheidbijdrage
 
 1. De zorgautoriteit verleent en stelt een beschikbaarheidbijdrage vast ter compensatie voor het verlenen van de dienst van algemeen belang, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=4&z=2014-04-01&g=2014-04-01). Zij vermeldt daarbij, met inachtneming van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0032024&artikel=7&z=2014-04-01&g=2014-04-01), per vervolgopleiding of de beschikbaarheidbijdrage ten laste van het Algemeen Fonds Bijzondere Ziektekosten, dan wel het Zorgverzekeringsfonds bij het Zorginstituut in rekening kan worden gebracht.
 
 2. De zorgautoriteit stelt de beschikbaarheidbijdrage vast op basis van het aantal gerealiseerde opleidingsplaatsen. Daarbij laat zij verrekening van rente in verband met een eventueel verschil tussen verlening en vaststelling achterwege.
 
-#### Artikel 6. berekenen beschikbaarheidbijdrage
+##### Artikel 6. berekenen beschikbaarheidbijdrage
 
 1. De zorgautoriteit berekent de beschikbaarheidbijdrage met betrekking tot de onderscheiden vervolgopleidingen aan de hand van de bedragen genoemd in de navolgende tabellen 1 tot en met 4.
 
@@ -151,7 +176,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 | Huisarts | 84.100 |
 | Specialist ouderengeneeskunde | 75.600 |
 
-#### Artikel 7. financieringsbron
+##### Artikel 7. financieringsbron
 
 1. Ten laste van het Algemeen Fonds Bijzondere Ziektekosten komen beschikbaarheidbijdragen voor de vervolgopleiding tot:
 
@@ -169,7 +194,7 @@ De zorgautoriteit stelt ter uitvoering van deze aanwijzing tijdig vóór 1 janua
 
 2. Ten laste van het Zorgverzekeringsfonds komen de beschikbaarheidbijdragen voor de overige vervolgopleidingen.
 
-#### Artikel 8. citeertitel
+##### Artikel 8. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing beschikbaarheidbijdrage (medische) vervolgopleidingen 2013
 

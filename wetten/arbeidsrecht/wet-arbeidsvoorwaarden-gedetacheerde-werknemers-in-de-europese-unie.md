@@ -1,14 +1,42 @@
 ---
-title: "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
+title: "Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)"
 identifier: "BWBR0038054"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2024-01-01
-laatste_update: 2024-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038054"
+country: "nl"
+rank: "wet"
+publication_date: "2024-01-01"
+last_updated: "2024-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038054"
+soort: "wet"
+stam_id: "13650083"
+version_id: "29398972"
+internal_id: "C42007811"
+label_id: "13617014"
+dtd_version: "2.0"
+original_entry_into_force: "2023-02-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038054/2024-01-01/0"
+intitule_bron: "Stb.2016-219"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-06-01"
+intitule_published: "2016-06-17"
+intitule_in_force: "2016-06-17"
+intitule_status: "goed"
+original_publication: "Stb.2023-151"
+original_signed_date: "2023-02-22"
+original_published_date: "2023-05-10"
+original_effect: "structuurwijziging"
+original_dossier: "36166"
+original_url_id: "stb-2023-151"
+entry_into_force_date: "2023-02-22"
+entry_into_force_dossier: "36166"
+jci_1_3: "jci1.3:c:BWBR0038054&z=2024-01-01&g=2024-01-01"
+jci_1_0: "1.0:c:BWBR0038054&g=2024-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie"
+signed_date: "2023-02-22"
+entry_into_force: "2023-02-22"
 ---
-
-# Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie
+# Wet van 1 juni 2016, houdende Regeling van de arbeidsvoorwaarden van gedetacheerde werknemers in verband met de implementatie van Richtlijn 2014/67/EU van het Europees Parlement en de Raad van 15 mei 2014 inzake de handhaving van de detacheringsrichtlijn en tot wijziging van de IMI-verordening over de administratieve samenwerking via het Informatiesysteem interne markt (Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie)
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk I. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -64,7 +92,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk II. Arbeidsvoorwaarden gedetacheerde werknemers
 
-#### Artikel 2
+##### Artikel 2
 
 1. De volgende artikelen zijn van toepassing op gedetacheerde werknemers wier arbeidsovereenkomst wordt beheerst door ander recht dan het Nederlandse recht:
 
@@ -82,7 +110,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 4. Indien een gedetacheerde werknemer door de dienstverrichter wordt vervangen door een andere gedetacheerde werknemer die op dezelfde plaats hetzelfde werk uitvoert, is de duur van de detachering de totale duur van de perioden van detachering van de afzonderlijke gedetacheerde werknemers gezamenlijk.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een werknemer die tijdelijk buiten Nederland arbeid verricht of heeft verricht in een lidstaat kan, ongeacht het recht dat de arbeidsovereenkomst beheerst, met betrekking tot die arbeid aanspraken ontlenen aan het recht dat die lidstaat heeft vastgesteld ter uitvoering van de detacheringsrichtlijn.
 
@@ -102,7 +130,7 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 ### Hoofdstuk III. Informatie, administratieve samenwerking en melding
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij Onze Minister berust het verbindingsbureau, bedoeld in artikel 4 van de detacheringsrichtlijn, voor de administratieve samenwerking, bedoeld in artikel 5, onderdeel b, van de IMI-verordening, tussen de lidstaten in verband met het toezicht op de naleving van de arbeidsvoorwaarden en de arbeidsomstandigheden, bedoeld in artikel 3 van de detacheringsrichtlijn. Door Onze Minister aangewezen ambtenaren zijn belast met de verwerking van gegevens over gedetacheerde werknemers en dienstverrichters ten behoeve van deze administratieve samenwerking.
 
@@ -118,13 +146,13 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de gegevens die verwerkt worden op grond van dit artikel, de wijze waarop die gegevens worden verwerkt alsmede de bij de gegevensverstrekkingen in acht te nemen termijnen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de door Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De dienstverrichter verstrekt desgevraagd aan Onze Minister en de door Onze Minister aangewezen ambtenaren, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=5&z=2024-01-01&g=2024-01-01), alle gegevens en inlichtingen, die noodzakelijk zijn voor de uitvoering van deze wet.
 
@@ -136,11 +164,11 @@ Zo is het dat Wij, de Afdeling advisering van de Raad van State gehoord, en met 
 
 - b. of een gedetacheerde werknemer tijdelijk arbeid in Nederland verricht.
 
-#### Artikel 7
+##### Artikel 7
 
 De dienstverrichter wijst voor de periode van transnationale dienstverrichting een contactpersoon, die als aanspreekpunt van de dienstverrichter fungeert en die in de lidstaat waar de arbeid wordt verricht beschikbaar is voor het verzenden en ontvangen van informatie met betrekking tot de transnationale dienstverrichting, aan in Nederland ten behoeve van Onze Minister in verband met de detachering naar Nederland.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De dienstverrichter, die een werknemer detacheert naar Nederland, is verplicht dit schriftelijk of elektronisch aan Onze Minister te melden op een tijdstip voor aanvang van de werkzaamheden, waarbij hij meldt:
 
@@ -172,7 +200,7 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 9. De dienstverrichter en de zelfstandige voor wie de verplichting geldt, bedoeld in artikel 8, zesde lid, houden de melding actueel.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Tijdens de periode van detachering draagt de dienstverrichter er zorg voor dat op de werkplek, bedoeld in [artikel 8, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01), schriftelijk of elektronisch beschikbaar zijn:
 
@@ -216,7 +244,7 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 ### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij besluit van Onze Minister aangewezen ambtenaren zijn bevoegd voor de wederzijdse bijstand, bedoeld in Hoofdstuk VI van de handhavingsrichtlijn, voor de wederzijdse bijstand, bedoeld in artikel 1, elfde lid, van de mobiliteitsrichtlijn en voor de wederzijdse bijstand, bedoeld in artikel 6 van bijlage 31, deel A, afdeling 2, behorende bij artikel 463, vierde lid, van de Handels- en samenwerkingsovereenkomst EU-VK.
 
@@ -234,11 +262,11 @@ De dienstverrichter wijst voor de periode van transnationale dienstverrichting e
 
 6. Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de gronden voor afwijzing van het verzoek, bedoeld in het tweede lid.
 
-#### Artikel 11
+##### Artikel 11
 
 De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=10&z=2024-01-01&g=2024-01-01), komen toe aan het Rijk.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onze Minister kan een bestuurlijke boete opleggen voor de overtredingen, bedoeld in het tweede lid.
 
@@ -258,19 +286,19 @@ De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [
 
 3. Indien de dienstverrichter een overtreding begaat als bedoeld in het tweede lid, onder d of e, wordt de verzender, expediteur, contractant of subcontractant geacht dezelfde overtreding te hebben begaan wanneer hij wist of, rekening houdend met alle relevante omstandigheden, had moeten weten dat de vervoersdienst waartoe hij opdracht gaf, een inbreuk zou inhouden op deze bepalingen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Onverminderd [artikel 5:48, tweede lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:48) vermeldt het rapport in ieder geval de bij de overtreding betrokken persoon of personen.
 
 2. Het rapport wordt toegezonden aan de daartoe door Onze Minister aangewezen ambtenaar.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een daartoe door Onze Minister aangewezen, onder hem ressorterende, ambtenaar legt namens hem de bestuurlijke boete op aan degene op wie de verplichtingen rusten die voortvloeien uit deze wet, voor zover het niet naleven daarvan is aangeduid als een overtreding.
 
 2. De terzake van deze wet gestelde overtredingen, gelden ten opzichte van elke persoon, met of ten aanzien van wie een overtreding is begaan.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De bestuurlijke boete die voor een overtreding kan worden opgelegd bedraagt ten hoogste het bedrag van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=23).
 
@@ -286,45 +314,45 @@ De bedragen van de ingevorderde administratieve sancties of boetes, bedoeld in [
 
 7. In afwijking van [artikel 8:69 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=8:69) kan de rechter in beroep of hoger beroep de hoogte van de bestuurlijke boete ook ten nadele van de belanghebbende wijzigen.
 
-#### Artikel 16
+##### Artikel 16
 
 Indien een bestuurlijke boete ten onrechte is opgelegd, wordt deze binnen zes weken nadat is vastgesteld dat de bestuurlijke boete ten onrechte is opgelegd, aan de rechthebbende terugbetaald.
 
 ### Hoofdstuk V. Wijziging van andere wetten
 
-#### Artikel 17
+##### Artikel 17
 
 Wijzigt de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten.
 
-#### Artikel 18
+##### Artikel 18
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
-#### Artikel 18a
+##### Artikel 18a
 
 Wijzigt het Burgerlijk Wetboek Boek 7.
 
 ### Hoofdstuk IV. Wederzijdse bijstand bij handhaving en bestuurlijke handhaving
 
-#### Artikel 19
+##### Artikel 19
 
 Onze Minister zendt binnen twee jaar na inwerkingtreding van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit artikel in de praktijk.
 
-#### Artikel 20
+##### Artikel 20
 
 De [Wet arbeidsvoorwaarden grensoverschrijdende arbeid](https://wetten.overheid.nl/jci1.3:c:BWBR0010925) wordt ingetrokken.
 
-#### Artikel 21
+##### Artikel 21
 
 De artikelen van deze wet treden in werking op bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. In dat besluit wordt zo nodig toepassing gegeven aan [artikel 12, eerste lid, van de Wet raadgevend referendum](https://wetten.overheid.nl/jci1.3:c:BWBR0036443&artikel=12).
 
-#### Artikel 22
+##### Artikel 22
 
 Deze wet wordt aangehaald als: Wet arbeidsvoorwaarden gedetacheerde werknemers in de Europese Unie.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. De werknemer die ter beschikking is gesteld in de zin van onderdeel 3 van transnationale dienstverrichting als bedoeld in [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), en door de dienstontvanger in het kader van transnationale dienstverrichting ter beschikking wordt gesteld om tijdelijk arbeid te verrichten in een andere lidstaat dan de lidstaat waar de werknemer gewoonlijk werkt voor hetzij de dienstverrichter, hetzij de dienstontvanger, wordt geacht in die lidstaat ter beschikking te zijn gesteld door de dienstverrichter.
 
@@ -342,7 +370,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 3b
+##### Artikel 3b
 
 De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werknemer een gerechtelijke of administratieve procedure start om de in deze wet of de in [artikel 2a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) aan hem toegekende rechten geldend te maken.
 
@@ -356,7 +384,7 @@ De werkgever mag de werknemer niet benadelen wegens de omstandigheid dat de werk
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. In de artikelen van dit hoofdstuk wordt verstaan onder:
 
@@ -376,7 +404,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 2. In afwijking van [artikel 1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=I&artikel=1&z=2024-01-01&g=2024-01-01), wordt voor de toepassing van dit hoofdstuk onder lidstaat verstaan: een staat binnen de Europese Unie en bij ministeriële regeling aangewezen staten.
 
-#### Artikel 9b
+##### Artikel 9b
 
 1. Een bestuurder wordt aangemerkt als gedetacheerde werknemer, indien hij:
 
@@ -414,15 +442,15 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 - c. door Nederland heen rijdt zonder dat er vracht wordt geladen of gelost en zonder dat er passagiers in- of uitstappen.
 
-#### Artikel 9c
+##### Artikel 9c
 
 Voor de toepassing van [artikel 2, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), wordt de detachering van een gedetacheerde bestuurder geacht te zijn beëindigd wanneer hij bij het verrichten van het internationaal vervoer van goederen of personen Nederland verlaat. Deze detacheringsperiode wordt niet gecumuleerd met eerdere detacheringsperiodes in het kader van dergelijke internationale activiteiten van dezelfde bestuurder of van de bestuurder die hij vervangt.
 
-#### Artikel 9d
+##### Artikel 9d
 
 In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01) wijst de dienstverrichter die een gedetacheerde bestuurder detacheert als contactpersoon de vervoersmanager of een andere persoon in de lidstaat van vestiging aan, die optreedt als tussenpersoon met de door Onze Minister aangewezen ambtenaren en met wie documenten of berichten worden uitgewisseld.
 
-#### Artikel 9e
+##### Artikel 9e
 
 1. In afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=8&z=2024-01-01&g=2024-01-01) is de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, verplicht om op een tijdstip voor aanvang van de werkzaamheden een detacheringsverklaring in te dienen bij Onze Minister via het IMI, met de volgende informatie:
 
@@ -442,7 +470,7 @@ In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoo
 
 2. De dienstverrichter houdt de detacheringsverklaringen actueel in het IMI.
 
-#### Artikel 9f
+##### Artikel 9f
 
 1. In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een gedetacheerde bestuurder detacheert naar Nederland, er zorg voor dat deze bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
 
@@ -464,7 +492,7 @@ In afwijking van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoo
 
 - e. een bewijs, waaruit blijkt welk loon aan de bestuurder is voldaan.
 
-#### Artikel 9g
+##### Artikel 9g
 
 In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=9&z=2024-01-01&g=2024-01-01) draagt de dienstverrichter, die een bestuurder in Nederland arbeid in de wegvervoersector laat verrichten in de zin van onderdeel 1 van de begripsbepaling van transnationale dienstverrichting, zonder als gedetacheerde bestuurder te worden aangemerkt, er zorg voor dat de bestuurder schriftelijk of elektronisch beschikbaar heeft en ter beschikking stelt wanneer daar bij een wegcontrole om wordt verzocht:
 
@@ -472,11 +500,11 @@ In afwijking van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoo
 
 - b. de tachograafgegevens, met name de landsymbolen van de lidstaten waar de bestuurder zich bevond tijdens internationaal wegvervoer of cabotage, in overeenstemming met de registratievoorschriften in het kader van [Verordening 561/2006/EG](32006R0561) en [Verordening 165/2014](32014R0165)/EU.
 
-#### Artikel 9h
+##### Artikel 9h
 
 Voor de toepassing van dit hoofdstuk, van het bepaalde bij of krachtens de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=II&artikel=2&z=2024-01-01&g=2024-01-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=4&z=2024-01-01&g=2024-01-01), [6](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=6&z=2024-01-01&g=2024-01-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=III&artikel=7&z=2024-01-01&g=2024-01-01), [12](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=12&z=2024-01-01&g=2024-01-01) en [14](https://wetten.overheid.nl/jci1.3:c:BWBR0038054&hoofdstuk=IV&artikel=14&z=2024-01-01&g=2024-01-01) van deze wet en van de [artikelen 2a](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=2a) en [10a van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](https://wetten.overheid.nl/jci1.3:c:BWBR0001987&artikel=10a), wordt degene die vanuit het Verenigd Koninkrijk een gedetacheerde bestuurder ter beschikking stelt om tijdelijk arbeid te verrichten in Nederland, bestaande in het vervoer van goederen over de weg, aangemerkt als dienstverrichter.
 
-#### Artikel 9i
+##### Artikel 9i
 
 In een derde land gevestigde vervoersondernemingen mogen geen gunstiger behandeling krijgen dan gelijksoortige in een lidstaat gevestigde ondernemingen.
 

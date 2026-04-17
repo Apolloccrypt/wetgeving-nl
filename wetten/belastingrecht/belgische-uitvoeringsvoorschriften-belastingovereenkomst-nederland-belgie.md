@@ -1,13 +1,37 @@
 ---
 title: "Belgische uitvoeringsvoorschriften belastingovereenkomst Nederland-België"
 identifier: "BWBR0004780"
-categorie: "Belastingrecht"
-publicatiedatum: 1997-06-19
-laatste_update: 1997-06-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004780"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-06-19"
+last_updated: "1997-06-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004780"
+soort: "ministeriele-regeling"
+stam_id: "5317403"
+version_id: "9562312"
+internal_id: "C12861531"
+label_id: "5293044"
+dtd_version: "2.0"
+original_entry_into_force: "1991-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004780/1997-06-19/0"
+intitule_bron: "Stcrt.1990-108"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-06-07"
+intitule_published: "1990-06-07"
+intitule_in_force: "1990-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-108"
+original_signed_date: "1990-06-07"
+original_published_date: "1990-06-07"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1991-01-01"
+jci_1_3: "jci1.3:c:BWBR0004780&z=1997-06-19&g=1997-06-19"
+jci_1_0: "1.0:c:BWBR0004780&g=1997-06-19"
+citeertitel_status: "officieel"
+signed_date: "1990-06-07"
+entry_into_force: "1991-01-01"
 ---
-
 # Belgische uitvoeringsvoorschriften belastingovereenkomst Nederland-België
 
 Besluit:
@@ -16,7 +40,7 @@ Door plaatsing in de Staatscourant het navolgende ter kennis van belanghebbende 
 
 Regeling inzake vermindering of vrijstelling van Belgische belasting op dividenden, interest en royalty's genoten door inwoners van Nederland.
 
-#### Artikel 1. Aanspraken van inwoners van Nederland
+##### Artikel 1. Aanspraken van inwoners van Nederland
 
 Aan de op 19 oktober 1970 tussen Nederland en België gesloten Overeenkomst tot het vermijden van dubbele belasting op het gebied van belastingen naar het inkomen en naar het vermogen en tot het vaststellen van enige andere regelen verband houdende met de belastingheffing (Trb. 1970, 192 en Trb. 1971, 174) kunnen inwoners van Nederland onder meer de volgende aanspraken ontlenen, geregeld in de hieronder tussen haakjes vermelde artikelen van de Overeenkomst:
 
@@ -36,7 +60,7 @@ Aan de op 19 oktober 1970 tussen Nederland en België gesloten Overeenkomst tot 
 
 De hierboven vermelde verminderingen of vrijstellingen zijn niet van toepassing, indien de genieter van de dividenden, de interest of de royalty's in België een vaste inrichting heeft en het aandelenbezit uit hoofde waarvan de dividenden worden betaald, de vordering uit hoofde waarvan de interest verschuldigd is, of het recht of het goed uit hoofde waarvan de royalty's verschuldigd zijn, tot het bedrijfsvermogen van die vaste inrichting behoort.
 
-#### Artikel 2. Belgische regeling
+##### Artikel 2. Belgische regeling
 
 Ter uitvoering van vorenstaande bepalingen is van Belgische zijde de volgende regeling getroffen:
 
@@ -90,11 +114,11 @@ Ter uitvoering van vorenstaande bepalingen is van Belgische zijde de volgende re
 
 - e. **Verkrijgbaarheid van de formulieren** De formulieren Nr. 276 Div.-Aut., Nr. 276 Int.-Aut. en Nr. 276 R. zijn, behalve bij het Centraal Taxatiekantoor Brussel-Buitenland, Sint Lazaruslaan 10, 1210 Brussel, voor belanghebbenden ook (kosteloos) verkrijgbaar bij de Belastingdienst/Centrum voor facilitaire dienstverlening, Afdeling Logistiek reprografisch centrum, Postbus 1314, 7301 BN Apeldoorn.
 
-#### Artikel 3. Intrekking
+##### Artikel 3. Intrekking
 
 De beschikking van de Staatssecretaris van Financiën van 5 september 1985, nr. 085-2086 (Stcrt. 1985, nr. 176) wordt ingetrokken.
 
-#### Artikel 4. Inwerkingtreding
+##### Artikel 4. Inwerkingtreding
 
 1. Deze regeling kan worden aangehaald als: Belgische uitvoeringsvoorschriften belastingovereenkomst Nederland-België.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs"
+title: "Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 augustus 2018, nr. MBO/1335781, houdende regels tot aanwijzing van een getuigschrift waaruit blijkt dat wordt voldaan aan de vastgestelde bekwaamheidseisen voor onderwijsondersteunend personeel (Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs)"
 identifier: "BWBR0041267"
-categorie: "Onderwijs"
-publicatiedatum: 2021-08-01
-laatste_update: 2021-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041267"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-08-01"
+last_updated: "2021-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041267"
+soort: "ministeriele-regeling"
+stam_id: "14701403"
+version_id: "25191782"
+internal_id: "C36022111"
+label_id: "14653354"
+dtd_version: "2.0"
+original_entry_into_force: "2018-08-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041267/2021-08-01/0"
+intitule_bron: "Stcrt.2018-48253"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-08-20"
+intitule_published: "2018-08-29"
+intitule_in_force: "2018-08-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-48253"
+original_signed_date: "2018-08-20"
+original_published_date: "2018-08-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-48253"
+entry_into_force_date: "2018-08-30"
+jci_1_3: "jci1.3:c:BWBR0041267&z=2021-08-01&g=2021-08-01"
+jci_1_0: "1.0:c:BWBR0041267&g=2021-08-01"
+citeertitel_status: "officieel"
+short_title: "Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs"
+signed_date: "2018-08-20"
+entry_into_force: "2018-08-30"
 ---
-
 # Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 20 augustus 2018, nr. MBO/1335781, houdende regels tot aanwijzing van een getuigschrift waaruit blijkt dat wordt voldaan aan de vastgestelde bekwaamheidseisen voor onderwijsondersteunend personeel (Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs)
 
 Gelet op [artikel 4.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.2);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -24,7 +50,7 @@ In deze regeling wordt verstaan onder:
 
 - **WHW:** [Wet op het hoger onderwijs en wetenschappelijk onderzoek](https://wetten.overheid.nl/jci1.3:c:BWBR0005682).
 
-#### Artikel 2. Aanwijzing getuigschrift
+##### Artikel 2. Aanwijzing getuigschrift
 
 Als getuigschrift, bedoeld in [artikel 4.2.2, eerste lid, onderdeel b, van de WEB](https://wetten.overheid.nl/jci1.3:c:BWBR0007625&artikel=4.2.2) wordt aangewezen:
 
@@ -68,11 +94,11 @@ Als getuigschrift, bedoeld in [artikel 4.2.2, eerste lid, onderdeel b, van de WE
 
 - xvi. 80167 Ad Educatief Professional Beroepsonderwijs
 
-#### Artikel 3. Inwerkingtreding
+##### Artikel 3. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant, waarin zij wordt geplaatst, en werkt terug tot en met 1 augustus 2018.
 
-#### Artikel 4. Citeertitel
+##### Artikel 4. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling aanwijzing getuigschrift voor onderwijsondersteunende werkzaamheden van instructeurs beroepsonderwijs.
 

@@ -1,13 +1,37 @@
 ---
 title: "Indexering vaste toelage onregelmatig werken personenchauffeurs"
 identifier: "BWBR0012788"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2001-10-01
-laatste_update: 2001-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012788"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-10-01"
+last_updated: "2001-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012788"
+soort: "circulaire"
+stam_id: "6265863"
+version_id: "10948242"
+internal_id: "C14843771"
+label_id: "6254714"
+original_entry_into_force: "2001-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012788/2001-10-01/0"
+intitule_bron: "Stcrt.2001-181"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-08-27"
+intitule_published: "2001-09-19"
+intitule_in_force: "2001-09-19"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-181"
+original_signed_date: "2001-08-27"
+original_published_date: "2001-09-19"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-181-p9-SC30970"
+entry_into_force_date: "2001-10-01"
+jci_1_3: "jci1.3:c:BWBR0012788&z=2001-10-01&g=2001-10-01"
+jci_1_0: "1.0:c:BWBR0012788&g=2001-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-08-27"
+entry_into_force: "2001-10-01"
 ---
-
 # Indexering vaste toelage onregelmatig werken personenchauffeurs
 
 ### I. Inleiding/managementinformatie

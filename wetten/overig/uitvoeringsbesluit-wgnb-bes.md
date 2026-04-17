@@ -1,13 +1,39 @@
 ---
-title: "Uitvoeringsbesluit Wgnb BES"
+title: "Besluit van 10 juli 2023, houdende regels ter uitvoering van de Wet grondslagen natuurbeheer- en bescherming BES, alsmede houdende wijziging van het Visserijbesluit BES in verband met het uitbreiden van verboden vistuigen en vistechnieken, redactionele verbeteringen en technische wijzigingen (Uitvoeringsbesluit Wgnb BES)"
 identifier: "BWBR0048396"
-categorie: "Overig"
-publicatiedatum: 2023-07-15
-laatste_update: 2023-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048396"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2023-07-15"
+last_updated: "2023-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048396"
+soort: "AMvB-BES"
+stam_id: "16803133"
+version_id: "29520322"
+internal_id: "C42205471"
+label_id: "16716894"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048396/2023-07-15/0"
+intitule_bron: "Stb.2023-261"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-07-10"
+intitule_published: "2023-07-14"
+intitule_in_force: "2023-07-14"
+intitule_status: "goed"
+original_publication: "Stb.2023-261"
+original_signed_date: "2023-07-10"
+original_published_date: "2023-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2023-261"
+entry_into_force_date: "2023-07-15"
+jci_1_3: "jci1.3:c:BWBR0048396&z=2023-07-15&g=2023-07-15"
+jci_1_0: "1.0:c:BWBR0048396&g=2023-07-15"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Wgnb BES"
+signed_date: "2023-07-10"
+entry_into_force: "2023-07-15"
 ---
-
 # Besluit van 10 juli 2023, houdende regels ter uitvoering van de Wet grondslagen natuurbeheer- en bescherming BES, alsmede houdende wijziging van het Visserijbesluit BES in verband met het uitbreiden van verboden vistuigen en vistechnieken, redactionele verbeteringen en technische wijzigingen (Uitvoeringsbesluit Wgnb BES)
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Natuur en Stikstof van 11 juli 2022, nr. WJZ/22271787;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop rustende bepalingen wordt verstaan onder:
 
@@ -40,11 +66,11 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 2. Beschermingsmaatregelen Yarari-reservaat
 
-#### Artikel 2
+##### Artikel 2
 
 Alle binnen het Yarari-reservaat van nature in het wild voorkomende soorten haaien en roggen die niet al zijn opgenomen in Bijlage II of Bijlage III bij het SPAW-protocol worden aangemerkt als beschermde soorten als bedoeld in artikel 10, eerste lid, van het SPAW-protocol.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden om binnen het Yarari-reservaat:
 
@@ -56,7 +82,7 @@ Alle binnen het Yarari-reservaat van nature in het wild voorkomende soorten haai
 
 2. Bij toeval gevangen haaien en roggen worden onmiddellijk teruggezet, op zodanige wijze dat de kans op overleving zo groot mogelijk is.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het is verboden om binnen het Yarari-reservaat haaien en roggen van daar van nature in het wild voorkomende soorten die niet zijn opgenomen in Bijlage II bij het SPAW-protocol opzettelijk te verstoren.
 
@@ -80,23 +106,23 @@ Alle binnen het Yarari-reservaat van nature in het wild voorkomende soorten haai
 
 4. Onze minister kan ontheffing verlenen van het verbod, bedoeld in het eerste lid, onder de voorwaarde dat het duurzaam voortbestaan van de populaties van haaien en roggen in het Yarari-reservaat niet in gevaar komt.
 
-#### Artikel 5
+##### Artikel 5
 
 Het is binnen het Yarari-reservaat verboden dieren van niet-inheemse soorten of eieren van die dieren uit te zetten.
 
 ### Hoofdstuk 3. Wijzigingen in andere regelgeving
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigt het Visserijbesluit BES.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Uitvoeringsbesluit Wgnb BES.
 

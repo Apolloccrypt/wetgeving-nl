@@ -1,13 +1,39 @@
 ---
-title: "Dienstenbesluit centraal loket"
+title: "Besluit van 26 november 2009, houdende regels ter uitvoering van de Dienstenwet met betrekking tot het centraal loket (Dienstenbesluit centraal loket)"
 identifier: "BWBR0026761"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-12-07
-laatste_update: 2009-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026761"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-12-07"
+last_updated: "2009-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026761"
+soort: "AMvB"
+stam_id: "10299463"
+version_id: "16876312"
+internal_id: "C23243121"
+label_id: "10274974"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026761/2009-12-07/0"
+intitule_bron: "Stb.2009-504"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-11-26"
+intitule_published: "2009-12-04"
+intitule_in_force: "2009-12-04"
+intitule_status: "goed"
+original_publication: "Stb.2009-504"
+original_signed_date: "2009-11-26"
+original_published_date: "2009-12-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-504"
+entry_into_force_date: "2009-12-07"
+jci_1_3: "jci1.3:c:BWBR0026761&z=2009-12-07&g=2009-12-07"
+jci_1_0: "1.0:c:BWBR0026761&g=2009-12-07"
+citeertitel_status: "officieel"
+short_title: "Dienstenbesluit centraal loket"
+signed_date: "2009-11-26"
+entry_into_force: "2009-12-07"
 ---
-
 # Besluit van 26 november 2009, houdende regels ter uitvoering van de Dienstenwet met betrekking tot het centraal loket (Dienstenbesluit centraal loket)
 
 Op de voordracht van Onze Minister van Economische Zaken van 15 mei 2009, nr. WJZ / 9082391;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -32,7 +58,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. Het centraal loket ten behoeve van de transactiefunctie
 
-#### Artikel 2
+##### Artikel 2
 
 Het centraal loket is zodanig ingericht dat:
 
@@ -48,7 +74,7 @@ Het centraal loket is zodanig ingericht dat:
 
 - f. doorzending van berichten tussen bevoegde instanties via dat loket mogelijk is.
 
-#### Artikel 3
+##### Artikel 3
 
 Het centraal loket is zodanig ingericht dat de aansluiting van een dienstverrichter op dat loket een uitsluitend voor hem toegankelijke elektronische omgeving biedt waar in ieder geval:
 
@@ -58,7 +84,7 @@ Het centraal loket is zodanig ingericht dat de aansluiting van een dienstverrich
 
 - c. de berichten, bedoeld onder a en b, door hem kunnen worden ingezien, kunnen worden vernietigd of ongewijzigd kunnen worden overgebracht naar een systeem voor gegevensverwerking buiten het centraal loket, zolang een vernietigingstermijn als bedoeld in [artikel 2, onder e](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&artikel=2&z=2009-12-07&g=2009-12-07), niet is verstreken.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het centraal loket is zodanig ingericht dat de aansluiting van een bevoegde instantie op dat loket haar in staat stelt via het loket verzonden of ontvangen procedureberichten te verwerken.
 
@@ -68,7 +94,7 @@ Het centraal loket is zodanig ingericht dat de aansluiting van een dienstverrich
 
 - b. een bevoegde instantie het formulier zelf elektronisch toegankelijk heeft gemaakt voor gebruik, maar niet op zodanige wijze dat verzending daarvan op enigerlei wijze via het centraal loket mogelijk is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het centraal loket is zodanig ingericht dat het tijdstip wordt geregistreerd waarop een procedurebericht:
 
@@ -84,13 +110,13 @@ Het centraal loket is zodanig ingericht dat de aansluiting van een dienstverrich
 
 #### § 3. Het centraal loket ten behoeve van de bijstandsfunctie
 
-#### Artikel 6
+##### Artikel 6
 
 De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&artikel=2&z=2009-12-07&g=2009-12-07), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&artikel=3&z=2009-12-07&g=2009-12-07)en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&artikel=5&z=2009-12-07&g=2009-12-07), zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor «een bevoegde instantie» telkens wordt gelezen: Onze Minister, voor «dienstverrichter»: zakelijke afnemer, en voor «procedurebericht»: bijstandsbericht.
 
 #### § 4. De beveiliging van het centraal loket
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het centraal loket is zodanig ingericht dat de nodige maatregelen van technische en organisatorische aard zijn getroffen ter beveiliging van de in het centraal loket opgenomen gegevens tegen verlies of aantasting van deze gegevens en tegen onbevoegde kennisneming, opneming, wijziging, verwijdering of verstrekking van deze gegevens.
 
@@ -118,15 +144,15 @@ De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&art
 
 #### § 5. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inrichting van het centraal loket, bedoeld in de [artikelen 2 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=2&artikel=2&z=2009-12-07&g=2009-12-07), en [7 eerste tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026761&paragraaf=4&artikel=7&z=2009-12-07&g=2009-12-07).
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit besluit wordt aangehaald als: Dienstenbesluit centraal loket.
 

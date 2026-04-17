@@ -1,13 +1,39 @@
 ---
-title: "Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
+title: "Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
 identifier: "BWBR0042812"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2019-11-27
-laatste_update: 2019-11-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042812"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-11-27"
+last_updated: "2019-11-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042812"
+soort: "zbo"
+stam_id: "15257563"
+version_id: "26278142"
+internal_id: "C37344681"
+label_id: "15204124"
+dtd_version: "2.0"
+original_entry_into_force: "2019-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042812/2019-11-27/0"
+intitule_bron: "Stcrt.2019-64418"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-11-19"
+intitule_published: "2019-11-27"
+intitule_in_force: "2019-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-64418"
+original_signed_date: "2019-11-19"
+original_published_date: "2019-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-64418"
+entry_into_force_date: "2019-11-27"
+jci_1_3: "jci1.3:c:BWBR0042812&z=2019-11-27&g=2019-11-27"
+jci_1_0: "1.0:c:BWBR0042812&g=2019-11-27"
+citeertitel_status: "redactioneel"
+short_title: "Besluit lijst verwerkingen persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens"
+signed_date: "2019-11-19"
+entry_into_force: "2019-11-27"
 ---
-
 # Besluit inzake lijst van verwerkingen van persoonsgegevens waarvoor een gegevensbeschermingseffectbeoordeling (DPIA) verplicht is, Autoriteit Persoonsgegevens
 
 Besluit

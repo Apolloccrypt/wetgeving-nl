@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen)"
+title: "Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen"
 identifier: "BWBR0009524"
-categorie: "Onderwijs"
-publicatiedatum: 2005-08-03
-laatste_update: 2005-08-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009524"
+country: "nl"
+rank: "wet"
+publication_date: "2005-08-03"
+last_updated: "2005-08-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009524"
+soort: "wet"
+stam_id: "2648693"
+version_id: "4006962"
+internal_id: "C4006961"
+label_id: "2593404"
+dtd_version: "2.0"
+original_entry_into_force: "1998-04-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009524/2005-08-03/0"
+intitule_bron: "Stb.1998-216"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-04-02"
+intitule_published: "1998-04-16"
+intitule_in_force: "1998-04-16"
+intitule_status: "goed"
+original_publication: "Stb.1998-216"
+original_signed_date: "1998-04-02"
+original_published_date: "1998-04-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "25370"
+original_url_id: "stb-1998-216"
+entry_into_force_date: "1998-04-17"
+entry_into_force_dossier: "25370"
+jci_1_3: "jci1.3:c:BWBR0009524&z=2005-08-03&g=2005-08-03"
+jci_1_0: "1.0:c:BWBR0009524&g=2005-08-03"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen)"
+signed_date: "1998-04-02"
+entry_into_force: "1998-04-17"
 ---
-
-# Wijzigingswet Wet op het hoger onderwijs en wetenschappelijk onderzoek en Wet op de studiefinanciering (uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen)
+# Wet van 2 april 1998, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek en de Wet op de studiefinanciering ter uitvoering van in het hoger onderwijs- en onderzoekplan 1996 aangekondigde maatregelen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,67 +46,67 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Artikel I, onderdeel FFFa werkt terug tot en met 19 maart 1997 wat betreft de openbare universiteiten. Artikel I, onderdeel FFFa werkt terug tot en met 11 juli 1997 wat betreft de Open Universiteit. Artikel VIIa werkt terug tot en met 1 augustus 1997. Artikel I onderdeel N onder 2 werkt terug tot en met 1 september 1997.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel IA
+##### Artikel IA
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt de Wet op de studiefinanciering.
 
-#### Artikel IIIa
+##### Artikel IIIa
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 Vervallen
 
-#### Artikel V
+##### Artikel V
 
 Vervallen
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIIa
+##### Artikel VIIa
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel VIIIa
+##### Artikel VIIIa
 
 Vervallen
 
-#### Artikel VIIIb
+##### Artikel VIIIb
 
 Vervallen
 
-#### Artikel VIIIc
+##### Artikel VIIIc
 
 Vervallen
 
-#### Artikel VIIId
+##### Artikel VIIId
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 1. Deze wet treedt in werking met ingang van 1 september 1998, met dien verstande dat de bepalingen, genoemd in het tweede tot en met negende lid, in werking treden met ingang van de in die leden vermelde tijdstippen.
 

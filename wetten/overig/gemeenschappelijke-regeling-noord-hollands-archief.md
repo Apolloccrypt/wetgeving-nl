@@ -1,13 +1,38 @@
 ---
 title: "Gemeenschappelijke Regeling Noord-Hollands Archief"
 identifier: "BWBR0039546"
-categorie: "Overig"
-publicatiedatum: 2016-12-30
-laatste_update: 2016-12-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039546"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-12-30"
+last_updated: "2016-12-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039546"
+soort: "ministeriele-regeling"
+stam_id: "14000933"
+version_id: "24092672"
+internal_id: "C34620461"
+label_id: "13963294"
+dtd_version: "2.0"
+original_entry_into_force: "2016-12-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039546/2016-12-30/0"
+intitule_bron: "Stcrt.2016-71888"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-24"
+intitule_published: "2016-12-30"
+intitule_in_force: "2016-12-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-71888"
+original_signed_date: "2016-05-24"
+original_published_date: "2016-12-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-71888"
+entry_into_force_date: "2016-12-30"
+jci_1_3: "jci1.3:c:BWBR0039546&z=2016-12-30&g=2016-12-30"
+jci_1_0: "1.0:c:BWBR0039546&g=2016-12-30"
+citeertitel_status: "officieel"
+signed_date: "2016-05-24"
+entry_into_force: "2016-12-30"
 ---
-
 # Gemeenschappelijke Regeling Noord-Hollands Archief
 
 Gelet op [hoofdstukken VIII](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=VIII) en [I van de Wet gemeenschappelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0003740&hoofdstuk=I);
@@ -18,7 +43,7 @@ tot het treffen van de navolgende gemeenschappelijke regeling tot de instelling 
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze gemeenschappelijke regeling wordt verstaan onder:
 
@@ -40,7 +65,7 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Het openbaar lichaam
 
-#### Artikel 2. Belang van de regeling
+##### Artikel 2. Belang van de regeling
 
 1. De regeling wordt getroffen met het doel de belangen van de Minister en de colleges bij alle aangelegenheden betreffende de archiefbescheiden, collecties, individuele documenten en dergelijke die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten, in gezamenlijkheid te behartigen. Het Noord-Hollands Archief is mede ingesteld met het doel diensten aan derden te leveren ten aanzien van het beheer van archiefbescheiden en collecties.
 
@@ -48,13 +73,13 @@ In deze gemeenschappelijke regeling wordt verstaan onder:
 
 3. De Minister en de gemeenten kunnen gezamenlijk algemene aanwijzingen geven omtrent de wijze waarop het Noord-Hollands Archief de belangen, bedoeld in het eerste lid, behartigt.
 
-#### Artikel 2a. Het openbaar lichaam
+##### Artikel 2a. Het openbaar lichaam
 
 1. Er is een openbaar lichaam genaamd Noord-Hollands Archief.
 
 2. Het Noord-Hollands Archief is gevestigd te Haarlem.
 
-#### Artikel 2b. Bevoegdheden bestuur
+##### Artikel 2b. Bevoegdheden bestuur
 
 Aan het bestuur van het Noord-Hollands Archief zijn de navolgende werkzaamheden, taken en bevoegdheden van de colleges en de Minister overgedragen:
 
@@ -70,11 +95,11 @@ Aan het bestuur van het Noord-Hollands Archief zijn de navolgende werkzaamheden,
 
 ### Hoofdstuk 3. Het algemeen bestuur
 
-#### Artikel 3. Vaststelling regels omtrent kosten
+##### Artikel 3. Vaststelling regels omtrent kosten
 
 Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=19), bij unanimiteit vast en volgt daarbij zoveel mogelijk de regels die de Minister op grond van artikel 19 van de Archiefwet heeft vastgesteld voor het Nationaal Archief.
 
-#### Artikel 4. Samenstelling algemeen bestuur
+##### Artikel 4. Samenstelling algemeen bestuur
 
 1. Het algemeen bestuur bestaat uit zes leden.
 
@@ -98,7 +123,7 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 11. Een lid van het algemeen bestuur dat zijn lidmaatschap ter beschikking heeft gesteld, blijft in functie totdat een nieuw lid is aangewezen.
 
-#### Artikel 5. Stemming
+##### Artikel 5. Stemming
 
 1. Ieder lid van het algemeen bestuur heeft één stem.
 
@@ -118,13 +143,13 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 7. Bij een schriftelijke stemming wordt onder het uitbrengen van een stem verstaan het inleveren van een behoorlijk ingevuld stembriefje.
 
-#### Artikel 5a. Vergaderorde
+##### Artikel 5a. Vergaderorde
 
 1. Het algemeen bestuur vergadert zo dikwijls als één of meer leden van het algemeen bestuur dit nodig oordelen, doch minimaal tweemaal per jaar.
 
 2. Het algemeen bestuur stelt voor zijn vergaderingen en andere werkzaamheden een reglement van orde vast.
 
-#### Artikel 6. Bevoegdheden
+##### Artikel 6. Bevoegdheden
 
 1. Aan het algemeen bestuur behoren ter uitvoering van de aan het Noord-Hollands Archief toegekende taak alle bevoegdheden die niet aan een ander orgaan zijn opgedragen.
 
@@ -136,23 +161,23 @@ Het algemeen bestuur stelt de regels omtrent de kosten, bedoeld in [artikel 19 A
 
 5. Het algemeen bestuur besluit slechts tot oprichting van en de deelneming in stichtingen, maatschappen, vennootschappen, verenigingen, coöperaties en onderlinge waarborgmaatschappijen, indien dat in het bijzonder aangewezen moet worden geacht voor de behartiging van het daarmee te dienen belang. Het besluit wordt niet genomen dan raden van de gemeenten en de Minister in de gelegenheid zijn gesteld hun wensen en bedenkingen ter kennis van het algemeen bestuur te brengen. Het besluit wordt genomen bij unanimiteit.
 
-#### Artikel 7. Inlichtingenplicht algemeen bestuur
+##### Artikel 7. Inlichtingenplicht algemeen bestuur
 
 Het algemeen bestuur verstrekt zo spoedig mogelijk schriftelijk aan de Minister, de raden en colleges van burgemeester en wethouders van de gemeenten de door hen gevraagde inlichtingen.
 
-#### Artikel 8. Inlichtingenplicht lid algemeen bestuur
+##### Artikel 8. Inlichtingenplicht lid algemeen bestuur
 
 1. Een lid van het algemeen bestuur dat door de Minister is aangewezen verstrekt aan de Minister zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door de Minister gevraagde inlichtingen.
 
 2. Een lid van het algemeen bestuur verstrekt aan het betreffende college van burgemeester en wethouders of de colleges van burgemeester en wethouders die hem in gezamenlijkheid hebben aangewezen en aan de betreffende raad of raden van de gemeenten zo spoedig mogelijk doch in ieder geval binnen 45 dagen de door een of meer leden gevraagde inlichtingen.
 
-#### Artikel 9. Ontslag lid algemeen bestuur
+##### Artikel 9. Ontslag lid algemeen bestuur
 
 De Minister en de colleges van de gemeenten kunnen een door hen aangewezen lid van het algemeen bestuur, dat hun vertrouwen niet meer geniet, ontslag verlenen.
 
 ### Hoofdstuk 4. Het dagelijks bestuur
 
-#### Artikel 10. Samenstelling dagelijks bestuur
+##### Artikel 10. Samenstelling dagelijks bestuur
 
 1. Het dagelijks bestuur bestaat uit de voorzitter en twee andere door het algemeen bestuur uit zijn midden aan te wijzen leden.
 
@@ -168,15 +193,15 @@ De Minister en de colleges van de gemeenten kunnen een door hen aangewezen lid v
 
 7. Indien het vereiste aantal leden niet tegenwoordig is, belegt de voorzitter, onder verwijzing naar dit artikel, opnieuw een vergadering.
 
-#### Artikel 11. Vergaderorde
+##### Artikel 11. Vergaderorde
 
 Het dagelijks bestuur vergadert zo dikwijls als één of meer leden van het dagelijks bestuur dit nodig oordelen.
 
-#### Artikel 12. Reglement
+##### Artikel 12. Reglement
 
 Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
-#### Artikel 13. Bevoegdheden
+##### Artikel 13. Bevoegdheden
 
 1. Het dagelijks bestuur is in ieder geval bevoegd:
 
@@ -202,7 +227,7 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 ### Hoofdstuk 5. De voorzitter
 
-#### Artikel 14. De voorzitter
+##### Artikel 14. De voorzitter
 
 1. Het algemeen bestuur wijst een van de leden die door het college van Haarlem is aangewezen aan als voorzitter. Indien de burgemeester van Haarlem als één van deze leden is aangewezen, wijst het algemeen bestuur hem aan als voorzitter.
 
@@ -218,7 +243,7 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 ### Hoofdstuk 6. Financiële bepalingen
 
-#### Artikel 15. Tegemoetkoming en vergoeding
+##### Artikel 15. Tegemoetkoming en vergoeding
 
 1. Het algemeen bestuur kan besluiten dat de leden van het algemeen en dagelijks bestuur, voor zover zij niet de functie vervullen van burgemeester of wethouder, of als ambtenaar in rijks- of gemeentedienst werkzaam zijn, een vergoeding ontvangen voor hun werkzaamheden ten behoeve van het Noord-Hollands Archief.
 
@@ -226,7 +251,7 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 3. De in de voorgaande leden bedoelde vergoeding en tegemoetkoming worden door het algemeen bestuur vastgesteld en als afzonderlijke post opgenomen in de jaarlijkse begroting.
 
-#### Artikel 16. Bijdragen
+##### Artikel 16. Bijdragen
 
 1. De voor de uitvoering van deze regeling ter beschikking te stellen middelen worden verschaft door de Minister en de raden van de gemeenten door het verstrekken van jaarlijkse bijdragen op basis van een goedgekeurde vastgestelde begroting. Bij de aanvang van het Noord-Hollands Archief luiden de bijdragen zoals vastgesteld in de bijlage bij deze regeling.
 
@@ -242,7 +267,7 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 7. Indien de Minister of de gemeenten een bijzondere taak opdragen als bedoeld in [artikel 2b, aanhef en onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=2&artikel=2b&z=2016-12-30&g=2016-12-30), waarvan de kosten niet zijn op te vangen in de begroting, wordt daarvoor door de opdrachtgever in aanvulling op de jaarlijkse bijdrage een tevoren overeengekomen vergoeding betaald.
 
-#### Artikel 17. Beleidsplan
+##### Artikel 17. Beleidsplan
 
 1. Het dagelijks bestuur stelt eenmaal per vier jaar een vierjarig beleidsplan op, dat door het algemeen bestuur wordt vastgesteld.
 
@@ -252,11 +277,11 @@ Het dagelijks bestuur stelt regels voor zijn vergaderingen vast.
 
 4. De Minister en de colleges maken, binnen twee maanden na ontvangst van de in het derde lid genoemde stukken, gezamenlijk afspraken met het Noord-Hollands Archief over de te behalen resultaten voor de komende vier jaren.
 
-#### Artikel 17a. Algemene financiële en beleidsmatige kaders en voorlopige jaarrekening
+##### Artikel 17a. Algemene financiële en beleidsmatige kaders en voorlopige jaarrekening
 
 Het dagelijks bestuur zendt vóór 15 april van het jaar voorafgaande aan dat waarvoor de begroting dient, de algemene financiële en beleidsmatige kaders en de voorlopige jaarrekening aan de raden van de deelnemende gemeenten en de Minister.
 
-#### Artikel 18. Begroting
+##### Artikel 18. Begroting
 
 1. Het dagelijks bestuur stelt jaarlijks vóór 15 april een ontwerpbegroting met een toelichting op voor het volgende kalenderjaar en een meerjarenbegroting met toelichting voor ten minste drie op het begrotingsjaar volgende jaren, een en ander met inachtneming van het archiefbeleid en het cultuurbeleid, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=2&artikel=2&z=2016-12-30&g=2016-12-30), de algemene aanwijzingen, bedoeld in artikel 2, derde lid en met inachtneming van de afspraken bedoeld in [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=6&artikel=17&z=2016-12-30&g=2016-12-30).
 
@@ -276,19 +301,19 @@ Het dagelijks bestuur zendt vóór 15 april van het jaar voorafgaande aan dat wa
 
 9. Het dagelijks bestuur zendt de begroting vóór 1 augustus van het jaar bedoeld in het zevende lid ter kennisneming aan gedeputeerde staten van de provincie.
 
-#### Artikel 19. Wijziging van de begroting
+##### Artikel 19. Wijziging van de begroting
 
 1. Besluiten tot wijziging van de begroting kunnen tot uiterlijk het eind van het desbetreffende begrotingsjaar worden genomen.
 
 2. [Artikel 18](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=6&artikel=18&z=2016-12-30&g=2016-12-30) is van overeenkomstige toepassing, met uitzondering van die wijzigingen waarbij geen verandering wordt gebracht in de bijdragen, bedoeld in [artikel 16, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=6&artikel=16&z=2016-12-30&g=2016-12-30). Het dagelijks bestuur zendt de begrotingswijziging binnen vier weken na de vaststelling aan gedeputeerde staten van de provincie.
 
-#### Artikel 20. Voorschotbetaling bijdragen
+##### Artikel 20. Voorschotbetaling bijdragen
 
 1. De Minister en de gemeenten voldoen de verschuldigde bijdrage bij wijze van voorschot in twaalf maandelijkse termijnen.
 
 2. In afwijking van het eerste lid kunnen de Minister en de gemeenten de bijdragen bij wijze van voorschot voldoen in door hen nader te bepalen termijnen.
 
-#### Artikel 21. Jaarrekening
+##### Artikel 21. Jaarrekening
 
 1. Het algemeen bestuur stelt de jaarrekening vast in het jaar volgende op het jaar waarop deze betrekking heeft.
 
@@ -302,17 +327,17 @@ Het dagelijks bestuur zendt vóór 15 april van het jaar voorafgaande aan dat wa
 
 6. Het dagelijks bestuur stelt de in het eerste en derde lid bedoelde stukken algemeen verkrijgbaar.
 
-#### Artikel 22. Reserve
+##### Artikel 22. Reserve
 
 1. Een batig saldo kan worden bestemd voor vorming van of toevoeging aan de reserve. De hoogte van deze reserve wordt bepaald door het algemeen bestuur, gehoord de Minister en de raden van de gemeenten. Voor zover een batig saldo niet wordt aangewend voor de reserve wordt het saldo naar rato van de jaarlijkse bijdrage uitgekeerd aan de Minister en de gemeenten.
 
 2. De reserve in enig jaar bedraagt niet meer dan tien procent van de gezamenlijke bijdragen van de Minister en de gemeenten van dat jaar.
 
-#### Artikel 23. Vaststelling definitieve bijdragen
+##### Artikel 23. Vaststelling definitieve bijdragen
 
 Bij de begroting stelt het algemeen bestuur de definitieve bijdragen vast.
 
-#### Artikel 24. Financiële administratie
+##### Artikel 24. Financiële administratie
 
 1. Het algemeen bestuur stelt regels vast met betrekking tot de organisatie van de financiële administratie en van het kasbeheer en de boekhouding van het Noord-Hollands Archief.
 
@@ -322,13 +347,13 @@ Bij de begroting stelt het algemeen bestuur de definitieve bijdragen vast.
 
 4. Het algemeen bestuur neemt de besluiten, bedoeld in het eerste en derde lid, met een meerderheid van twee derde van de uitgebrachte stemmen.
 
-#### Artikel 25. Financieel beheer
+##### Artikel 25. Financieel beheer
 
 De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het financieel en materieel beheer, over de inrichting van de begroting, het financieel verslag, het jaarverslag en aandachtspunten voor de accountantscontrole.
 
 ### Hoofdstuk 7. Archief
 
-#### Artikel 26. Archief
+##### Artikel 26. Archief
 
 1. Overeenkomstig door het algemeen bestuur vast te stellen regels, die aan gedeputeerde staten van de provincie worden medegedeeld, draagt het dagelijks bestuur zorg voor de archiefbescheiden van het Noord-Hollands Archief.
 
@@ -336,13 +361,13 @@ De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het fi
 
 ### Hoofdstuk 8. Informatieplicht en toezicht
 
-#### Artikel 27. Informatieplicht en toezicht
+##### Artikel 27. Informatieplicht en toezicht
 
 1. Het Noord-Hollands Archief verstrekt desgevraagd aan de Minister en de gemeenten de voor de uitoefening van hun taak benodigde inlichtingen. De Minister en de gemeenten kunnen inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.
 
 2. Het Noord-Hollands Archief stelt de Minister en de gemeenten te allen tijde in de gelegenheid toezicht te houden op het bepaalde bij of krachtens de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) ten aanzien van de archiefbescheiden die berusten in de rijksarchiefbewaarplaats in de provincie en de archiefbewaarplaatsen van de gemeenten.
 
-#### Artikel 28. Mededelingen
+##### Artikel 28. Mededelingen
 
 1. De bestuursorganen van de Minister en de gemeenten doen het dagelijks bestuur mededeling van de bij hen in voorbereiding zijnde maatregelen en plannen die voor de behartiging van de belangen, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=2&artikel=2&z=2016-12-30&g=2016-12-30), voor het Noord-Hollands Archief van belang zijn.
 
@@ -350,13 +375,13 @@ De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het fi
 
 ### Hoofdstuk 9. Directeur en overig personeel
 
-#### Artikel 29. Benoeming directeur
+##### Artikel 29. Benoeming directeur
 
 1. Het dagelijks bestuur beslist omtrent benoeming, schorsing en ontslag van de directeur van het Noord-Hollands Archief.
 
 2. Het dagelijks bestuur maakt voor de benoeming van de directeur een voordracht op.
 
-#### Artikel 30. Taken directeur
+##### Artikel 30. Taken directeur
 
 1. De directeur is belast met de uitvoering van de werkzaamheden, taken en bevoegdheden van het Noord-Hollands Archief die voortvloeien uit de behartiging van de belangen, bedoeld in [artikel 2b](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=2&artikel=2b&z=2016-12-30&g=2016-12-30), voor zover die uitvoering niet is opgedragen aan het algemeen bestuur, het dagelijks bestuur of de voorzitter.
 
@@ -364,17 +389,17 @@ De Minister en de gemeenten kunnen gezamenlijk nadere regels stellen over het fi
 
 3. Het dagelijks bestuur regelt de vervanging van de directeur.
 
-#### Artikel 31. Bijstand directeur
+##### Artikel 31. Bijstand directeur
 
 1. De directeur staat het algemeen bestuur, het dagelijks bestuur en de voorzitter bij de uitoefening van hun taak terzijde. Hij vervult de rol van secretaris van het algemeen en dagelijks bestuur, is in de vergaderingen van het algemeen en dagelijks bestuur aanwezig en heeft daarin een adviserende stem.
 
 2. Met inachtneming van [artikel 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0039546&hoofdstuk=5&artikel=14&z=2016-12-30&g=2016-12-30), worden alle stukken, die van het algemeen of het dagelijks bestuur uitgaan door de directeur mede ondertekend.
 
-#### Artikel 32. Benoeming overig personeel
+##### Artikel 32. Benoeming overig personeel
 
 Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het dagelijks bestuur. Het dagelijks bestuur is bevoegd deze bevoegdheden aan de directeur te mandateren.
 
-#### Artikel 33. Rechtspositie
+##### Artikel 33. Rechtspositie
 
 1. Het dagelijks bestuur stelt voor het personeel van het openbaar lichaam de rechtspositie vast zoveel mogelijk conform de cao CAR/UWO voor het gemeentepersoneel.
 
@@ -382,17 +407,17 @@ Het overige personeel wordt in dienst genomen, geschorst of ontslagen door het d
 
 3. Het dagelijks bestuur beslist over de toepassing van overige arbeidsvoorwaarden.
 
-#### Artikel 34. Provincie
+##### Artikel 34. Provincie
 
 (Vervallen)
 
 ### Hoofdstuk 10. Toetreding, uittreding, wijziging en opheffing regeling
 
-#### Artikel 35. Toetreding
+##### Artikel 35. Toetreding
 
 Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van de Minister en de colleges van de gemeenten alsmede de toe te treden bestuursorganen of rechtspersonen.
 
-#### Artikel 36. Uittreding
+##### Artikel 36. Uittreding
 
 1. Uittreding uit de regeling kan geschieden door toezending van een daartoe strekkend besluit van de Minister en de colleges. De colleges overleggen daarbij ook het besluit tot toestemming van de raad van de gemeente.
 
@@ -400,35 +425,35 @@ Toetreding tot de regeling kan geschieden bij daartoe strekkende besluiten van d
 
 3. De kosten van uittreding komen voor rekening van de uittredende partij.
 
-#### Artikel 37. Wijziging
+##### Artikel 37. Wijziging
 
 Deze regeling kan worden gewijzigd bij daartoe stekkende besluiten van de Minister en de colleges van burgemeester en wethouders van de gemeenten.
 
-#### Artikel 38. Opheffing
+##### Artikel 38. Opheffing
 
 Deze regeling kan worden opgeheven bij besluit van de Minister en de colleges van burgemeester en wethouders van de gemeenten. Het algemeen bestuur stelt een liquidatieplan op dat voorziet in de verplichting van de Minister en de raden colleges van de gemeenten om alle rechten en plichten van het openbaar lichaam over de deelnemers te verdelen op een in het plan te bepalen wijze.
 
 ### Hoofdstuk 11. Geschillen
 
-#### Artikel 39. Geschillenregeling
+##### Artikel 39. Geschillenregeling
 
 (Vervallen)
 
 ### Hoofdstuk 12. Slotbepalingen
 
-#### Artikel 40. Inwerkingtreding
+##### Artikel 40. Inwerkingtreding
 
 Deze regeling treedt in werking na plaatsing in de Staatscourant. Het gemeentebestuur van Haarlem zendt de regeling hiertoe aan gedeputeerde staten van de provincie.
 
-#### Artikel 41. Citeertitel
+##### Artikel 41. Citeertitel
 
 Deze regeling wordt aangehaald als: Gemeenschappelijke Regeling Noord-Hollands Archief.
 
-#### Artikel 42. Plaatsing Staatscourant
+##### Artikel 42. Plaatsing Staatscourant
 
 Deze regeling zal met de toelichting door de Minister van Onderwijs, Cultuur en Wetenschap in de Staatscourant worden geplaatst.
 
-#### Artikel 43
+##### Artikel 43
 
 1. De [gemeenschappelijke Regeling Regionaal Historisch Centrum in Noord-Holland](https://wetten.overheid.nl/jci1.3:c:BWBR0017935), gepubliceerd als bijlage bij het Besluit van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 24 januari 2005, nr. DCE/05/1760 (Stcrt. 2005, 226), wordt ingetrokken.
 

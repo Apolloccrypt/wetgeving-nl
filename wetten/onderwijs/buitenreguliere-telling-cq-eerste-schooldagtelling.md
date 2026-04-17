@@ -1,13 +1,36 @@
 ---
 title: "Buitenreguliere telling c.q. eerste schooldagtelling"
 identifier: "BWBR0010584"
-categorie: "Onderwijs"
-publicatiedatum: 1999-07-14
-laatste_update: 1999-07-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010584"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1999-07-14"
+last_updated: "1999-07-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010584"
+soort: "beleidsregel"
+stam_id: "6510143"
+version_id: "11206162"
+internal_id: "C15136621"
+label_id: "6498754"
+original_entry_into_force: "1999-07-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010584/1999-07-14/0"
+intitule_bron: "Uitleg.1999-18b"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-07-05"
+intitule_published: "1999-07-14"
+intitule_in_force: "1999-07-14"
+intitule_status: "goed"
+original_publication: "Uitleg.1999-18b"
+original_signed_date: "1999-07-05"
+original_published_date: "1999-07-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1999-07-14"
+jci_1_3: "jci1.3:c:BWBR0010584&z=1999-07-14&g=1999-07-14"
+jci_1_0: "1.0:c:BWBR0010584&g=1999-07-14"
+citeertitel_status: "redactioneel"
+signed_date: "1999-07-05"
+entry_into_force: "1999-07-14"
 ---
-
 # Buitenreguliere telling c.q. eerste schooldagtelling
 
 ### 1. Inleiding

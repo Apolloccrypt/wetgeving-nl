@@ -1,13 +1,39 @@
 ---
-title: "Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren"
+title: "Besluit van 29 januari 2014, houdende regels ter waarborging van de kwaliteit van curatoren, bewindvoerders en mentoren (Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren)"
 identifier: "BWBR0034760"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-01-01
-laatste_update: 2022-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034760"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-01-01"
+last_updated: "2022-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034760"
+soort: "AMvB"
+stam_id: "12568973"
+version_id: "21210692"
+internal_id: "C30512621"
+label_id: "12539614"
+dtd_version: "2.0"
+original_entry_into_force: "2014-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034760/2022-01-01/0"
+intitule_bron: "Stb.2014-46"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-01-29"
+intitule_published: "2014-01-31"
+intitule_in_force: "2014-02-21"
+intitule_status: "goed"
+original_publication: "Stb.2014-46"
+original_signed_date: "2014-01-29"
+original_published_date: "2014-01-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2014-46"
+entry_into_force_date: "2014-04-01"
+jci_1_3: "jci1.3:c:BWBR0034760&z=2022-01-01&g=2022-01-01"
+jci_1_0: "1.0:c:BWBR0034760&g=2022-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren"
+signed_date: "2014-01-29"
+entry_into_force: "2014-04-01"
 ---
-
 # Besluit van 29 januari 2014, houdende regels ter waarborging van de kwaliteit van curatoren, bewindvoerders en mentoren (Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren)
 
 Op de voordracht van de Staatssecretaris van Veiligheid en Justitie van 4 december 2013, nr. 456543;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 2, zevend
 
 ### Hoofdstuk 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In dit besluit wordt verstaan onder:
 
 #### Eisen betreffende de werving (integriteit), opleiding, scholing en begeleiding
 
-#### Artikel 2
+##### Artikel 2
 
 1. De curator beschikt over een verklaring omtrent het gedrag, afgegeven voor het uitoefenen van de taken van curator, van hemzelf en van de personen door wie hij de taken van een curator uitoefent.
 
@@ -64,7 +90,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het eerste tot en met derde lid zijn van overeenkomstige toepassing op bewindvoerders en mentoren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De curator heeft ten minste:
 
@@ -86,7 +112,7 @@ In dit besluit wordt verstaan onder:
 
 #### Eisen omtrent de omgang met de betrokkene
 
-#### Artikel 4
+##### Artikel 4
 
 1. De curator gaat bij zijn taakvervulling uit van de levensovertuiging, godsdienstige gezindheid en culturele achtergrond van de onder curatele gestelde.
 
@@ -94,7 +120,7 @@ In dit besluit wordt verstaan onder:
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op bewindvoerders en mentoren.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De curator stelt, zo mogelijk in overleg met de onder curatele gestelde, het doel van de curatele vast en de wederzijdse afspraken om dat doel te bereiken. De curator verstrekt aan de onder curatele gestelde een op schrift gesteld document met het doel en, voor zover mogelijk, de gemaakte afspraken, waarin wordt toegelicht wat de curator en de onder curatele gestelde wederzijds van elkaar mogen verwachten. De curator licht het document mondeling toe. De curator overlegt het document aan de kantonrechter voorafgaande aan zijn benoeming.
 
@@ -114,7 +140,7 @@ In dit besluit wordt verstaan onder:
 
 9. Het eerste tot en met vijfde lid zijn van overeenkomstige toepassing op mentoren, met dien verstande dat in het tweede lid wordt gedoeld op het tijdstip, bedoeld in [artikel 459, derde lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=459).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De curator heeft een klachtenregeling en verstrekt deze bij of onverwijld na zijn benoeming aan de onder curatele gestelde.
 
@@ -140,7 +166,7 @@ In dit besluit wordt verstaan onder:
 
 #### Eisen omtrent bedrijfsvoering
 
-#### Artikel 7
+##### Artikel 7
 
 1. De curator draagt zorg voor het vormen, wekelijks bijhouden en sluiten van een dossier van iedere onder curatele gestelde.
 
@@ -156,7 +182,7 @@ In dit besluit wordt verstaan onder:
 
 4. Het eerste lid en het tweede lid, onderdelen b en c, zijn van overeenkomstige toepassing op mentoren.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De curator heeft een beschrijving van:
 
@@ -198,7 +224,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 7. Het eerste lid, het tweede lid, onderdelen b, d, e en f, en het derde en vijfde lid zijn van overeenkomstige toepassing op mentoren.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De curator geniet, direct of indirect, geen ander voordeel uit zijn positie als curator dan de beloning die hij voor zijn curatorschap ontvangt. In het bijzonder:
 
@@ -228,7 +254,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing op bewindvoerders en mentoren.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Uit de administratie van de curator blijkt, per 31 december van het voorafgaande jaar:
 
@@ -250,7 +276,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 ### Hoofdstuk 3. Verklaring en verslag van de accountant en de deskundige
 
-#### Artikel 11
+##### Artikel 11
 
 1. De curator verleent opdracht aan een accountant om te onderzoeken of de curator voldoet aan de in [artikel 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2022-01-01&g=2022-01-01) gestelde eisen, alsmede aan de verplichtingen, bedoeld in [artikel 386, derde lid, van Boek 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=386) en in [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2022-01-01&g=2022-01-01), dan wel, voor zover van toepassing, in [titel 9 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&titeldeel=9).
 
@@ -278,7 +304,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 9. Onverminderd hetgeen is bepaald in de [artikelen 383, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), en [435, negende lid, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=435) zijn notarissen en gerechtsdeurwaarders vrijgesteld van het in het eerste lid bedoelde onderzoek van de accountant naar de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=8&z=2022-01-01&g=2022-01-01) gestelde eisen. Voor zover de taken van een curator of bewindvoerder worden uitgeoefend door middel van een rechtspersoon, geldt deze vrijstelling uitsluitend indien het bestuur van die rechtspersoon geheel of in meerderheid bestaat uit de in de eerste zin bedoelde personen, en deelnemingen in die rechtspersoon door andere personen dan de in de eerste zin bedoelde personen gezamenlijk slechts een minderheidsbelang vormen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De kantonrechter kan op verzoek van de mentor of ambtshalve een deskundige benoemen die bericht over de vraag of de mentor voldoet aan de eisen gesteld in de [artikelen 7 tot en met 10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=7&z=2022-01-01&g=2022-01-01).
 
@@ -286,7 +312,7 @@ en werkt in overeenstemming met deze waarborgen.
 
 3. De deskundige die zijn benoeming heeft aanvaard, is verplicht de opdrachten die uit de benoeming voortvloeien, onafhankelijk en naar beste weten te volbrengen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De curator legt, tezamen met zijn verklaring, bedoeld in [artikel 383, achtste lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=383), aan de kantonrechter die hem benoemt, dan wel ten overstaan van wie hij rekening en verantwoording aflegt, de documenten over, bedoeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=2&z=2022-01-01&g=2022-01-01), [3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=3&z=2022-01-01&g=2022-01-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBR0034760&hoofdstuk=2&artikel=10&z=2022-01-01&g=2022-01-01).
 
@@ -304,11 +330,11 @@ en werkt in overeenstemming met deze waarborgen.
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking gelijktijdig met het tijdstip waarop [artikel I, onderdeel E, onder 2, zevende tot en met negende lid van artikel 383, onderdeel P, zevende tot en met negende lid van artikel 435, onderdeel AA, onder 3, van de Wet wijziging curatele, beschermingsbewind en mentorschap](https://wetten.overheid.nl/jci1.3:c:BWBR0034090&artikel=I) volledig in werking treedt.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit kwaliteitseisen curatoren, beschermingsbewindvoerders en mentoren.
 

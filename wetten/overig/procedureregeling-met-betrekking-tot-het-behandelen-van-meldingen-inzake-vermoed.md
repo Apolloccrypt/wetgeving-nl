@@ -1,13 +1,39 @@
 ---
-title: "Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2018, nr. 8f0daaaa-or1-1.0., tot vaststelling van procedureregels voor het omgaan met een melding van een vermoeden van een misstand bij de AIVD (Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD)"
 identifier: "BWBR0041130"
-categorie: "Overig"
-publicatiedatum: 2018-07-11
-laatste_update: 2018-07-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0041130"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2018-07-11"
+last_updated: "2018-07-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0041130"
+soort: "ministeriele-regeling"
+stam_id: "14671133"
+version_id: "25125952"
+internal_id: "C35928461"
+label_id: "14623904"
+dtd_version: "2.0"
+original_entry_into_force: "2018-07-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0041130/2018-07-11/0"
+intitule_bron: "Stcrt.2018-38374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-06-29"
+intitule_published: "2018-07-10"
+intitule_in_force: "2018-07-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2018-38374"
+original_signed_date: "2018-06-29"
+original_published_date: "2018-07-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2018-38374"
+entry_into_force_date: "2018-07-11"
+jci_1_3: "jci1.3:c:BWBR0041130&z=2018-07-11&g=2018-07-11"
+jci_1_0: "1.0:c:BWBR0041130&g=2018-07-11"
+citeertitel_status: "officieel"
+short_title: "Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD"
+signed_date: "2018-06-29"
+entry_into_force: "2018-07-11"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 29 juni 2018, nr. 8f0daaaa-or1-1.0., tot vaststelling van procedureregels voor het omgaan met een melding van een vermoeden van een misstand bij de AIVD (Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD)
 
 Handelende in overeenstemming met de Minister van Defensie;
@@ -18,7 +44,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ In deze regeling wordt verstaan onder:
 
 - p. **Wvo:** [Wet veiligheidsonderzoeken](https://wetten.overheid.nl/jci1.3:c:BWBR0008277).
 
-#### Artikel 2
+##### Artikel 2
 
 1. De minister draagt er zorg voor dat een melder als gevolg van het te goeder trouw en naar behoren melden van een vermoeden van een misstand, of een vertrouwenspersoon vanwege diens functie bij de uitoefening daarvan, geen nadelige gevolgen ondervindt tijdens en na de behandeling van de melding.
 
@@ -62,7 +88,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Procedure voor het melden van een misstand
 
-#### Artikel 3
+##### Artikel 3
 
 1. De minister wijst een of meer vertrouwenspersonen aan binnen de AIVD.
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 4. De vertrouwenspersoon maakt de identiteit van de melder niet bekend zonder schriftelijke instemming van de melder.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Voor zover een melder werkzaam is bij de AIVD doet de melder een melding bij zijn direct leidinggevende, bij een hogere leidinggevende, bij de BVA of bij een vertrouwenspersoon. Indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks melding doen bij de afdeling klachtbehandeling.
 
@@ -84,19 +110,19 @@ In deze regeling wordt verstaan onder:
 
 3. Voor zover een melder niet werkzaam is of is geweest bij de AIVD, maar wel betrokken is of is geweest bij de uitvoering van de [Wiv 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0039896) of de [Wvo](https://wetten.overheid.nl/jci1.3:c:BWBR0008277), doet de melder een melding bij de BVA of bij een vertrouwenspersoon. Indien dit niet in redelijkheid van hem kan worden gevraagd, kan hij rechtstreeks melding doen bij de afdeling klachtbehandeling.
 
-#### Artikel 5
+##### Artikel 5
 
 Degene bij wie een melding is gedaan, stelt de secretaris-generaal, door tussenkomst van de directeur-generaal of bij diens afwezigheid de plaatsvervangend directeur-generaal, onverwijld in kennis van de melding en de datum waarop deze is ontvangen.
 
-#### Artikel 6
+##### Artikel 6
 
 Diegenen die betrokken zijn bij de behandeling van de melding gaan vertrouwelijk met de melding en de identiteit van de melder om.
 
-#### Artikel 7
+##### Artikel 7
 
 De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de melder, al dan niet door tussenkomst van de vertrouwenspersoon, en informeert de persoon of personen op wie de melding betrekking heeft over de melding, tenzij daardoor een onderzoeksbelang of een belang van de melder onnodig of onevenredig kan worden geschaad.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De secretaris-generaal stelt onverwijld een onderzoek in naar het vermoeden van een misstand dat door de melder is gemeld, tenzij:
 
@@ -124,7 +150,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 6. De interne commissie rapporteert haar bevindingen, door tussenkomst van de directeur-generaal of bij diens afwezigheid de plaatsvervangend directeur-generaal, aan de secretaris-generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De secretaris-generaal stelt de melder, al dan niet via de vertrouwenspersoon, binnen twaalf weken na de melding schriftelijk en gemotiveerd in kennis van de bevindingen van het onderzoek, het oordeel daarover en de eventuele consequenties die daaraan worden verbonden.
 
@@ -134,7 +160,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 4. Bij de kennisgeving, bedoeld in het eerste lid, wordt mededeling gedaan van de mogelijkheid het vermoeden van een misstand te melden bij de afdeling klachtbehandeling.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien de melder een melding wil doen die betrekking heeft op een of meer gezamenlijke teams van de AIVD en de MIVD, kan de melder zich zowel tot de AIVD als de MIVD richten.
 
@@ -158,7 +184,7 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 ### Hoofdstuk 3. Financiële tegemoetkoming
 
-#### Artikel 11
+##### Artikel 11
 
 1. De melder, de vertrouwenspersoon of de gewezen vertrouwenspersoon, die bezwaar maakt of een gerechtelijke procedure instelt, kan aanspraak maken op een tegemoetkoming in de kosten van die procedure, op voorwaarde dat:
 
@@ -176,23 +202,23 @@ De secretaris-generaal bevestigt de ontvangst van de melding schriftelijk aan de
 
 4. Aanspraak op een tegemoetkoming bestaat alleen voor zover in verband met de in het eerste en tweede lid bedoelde procedures daadwerkelijk kosten worden of zijn gemaakt met betrekking tot door een derde beroepsmatig verleende rechtsbijstand.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De tegemoetkoming voor iedere afzonderlijke procedure, bedoeld in [artikel 11, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0041130&hoofdstuk=3&artikel=11&z=2018-07-11&g=2018-07-11), is gelijk aan tweemaal het bedrag, genoemd in onderdeel B1 van de [bijlage bij het Besluit proceskosten bestuursrecht](onbekend).
 
 2. [Artikel 3 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=3) is van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De secretaris-generaal beslist binnen zes weken op het verzoek.
 
 2. De secretaris-generaal kan de beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.
 
-#### Artikel 14
+##### Artikel 14
 
 Degene aan wie een tegemoetkoming, zoals bedoeld in dit hoofdstuk, is toegekend, kan worden verplicht tot terugbetaling, indien hij de procedure waarop de tegemoetkoming betrekking heeft voortijdig staakt. Deze verplichting geldt niet, indien het staken van de procedure direct voortvloeit uit de intrekking door de minister van de beslissing of het herzien van de handeling, waartegen de procedure is gericht.
 
-#### Artikel 15
+##### Artikel 15
 
 Als een beslissing of handeling of een voorgenomen beslissing of handeling waarvoor op grond van dit hoofdstuk aanspraak bestaat op een tegemoetkoming in de kosten van de procedures, in de bezwaarprocedure of zienswijzeprocedure wordt herroepen wegens een aan het bevoegd gezag te wijten onrechtmatigheid of de bestreden beslissing of handeling als gevolg van een uitspraak van de rechter die onherroepelijk is geworden wordt vernietigd, waarbij de rechtsgevolgen niet in stand worden gelaten, worden alle daadwerkelijk en in redelijkheid door hem gemaakte kosten als bedoeld in [artikel 1 van het Besluit proceskosten bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0006358&artikel=1) vergoed voor iedere afzonderlijke procedure, met dien verstande dat:
 
@@ -204,11 +230,11 @@ Als een beslissing of handeling of een voorgenomen beslissing of handeling waarv
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 mei 2018.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling wordt aangehaald als: Procedureregeling met betrekking tot het behandelen van meldingen inzake vermoedens van misstanden AIVD.
 

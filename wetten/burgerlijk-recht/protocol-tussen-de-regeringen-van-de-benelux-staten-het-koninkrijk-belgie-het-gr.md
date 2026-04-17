@@ -1,13 +1,35 @@
 ---
 title: "Protocol tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Regering van de Republiek Servië ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en de Republiek Servië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven"
 identifier: "BWBV0006121"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2019-02-01
-laatste_update: 2019-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006121"
+country: "nl"
+rank: "verdrag"
+publication_date: "2019-02-01"
+last_updated: "2019-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006121"
+soort: "verdrag"
+stam_id: "10005040033"
+version_id: "10005370302"
+internal_id: "C10009509731"
+label_id: "10005023584"
+dtd_version: "2.0"
+original_entry_into_force: "2019-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006121/2019-02-01/0"
+intitule_bron: "Trb.2013-57"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-03-25"
+intitule_in_force: "2019-01-25"
+intitule_status: "goed"
+original_publication: "Trb.2013-57"
+original_published_date: "2013-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-57"
+entry_into_force_date: "2019-02-01"
+jci_1_3: "jci1.3:c:BWBV0006121&z=2019-02-01&g=2019-02-01"
+jci_1_0: "1.0:c:BWBV0006121&g=2019-02-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-02-01"
 ---
-
 # Protocol tussen de Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden) en de Regering van de Republiek Servië ter uitvoering van de Overeenkomst tussen de Europese Gemeenschap en de Republiek Servië betreffende de overname van personen die zonder vergunning op het grondgebied verblijven
 
 De Regeringen van de Benelux-Staten (het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden)
@@ -24,7 +46,7 @@ Hierna genoemd: „de Overeenkomst”,
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Bevoegde autoriteiten
+##### Artikel 1. Bevoegde autoriteiten
 
 1. De voor de uitvoering van de Overeenkomst bevoegde autoriteiten staan in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2019-02-01&g=2019-02-01) bij dit Protocol vermeld.
 
@@ -32,7 +54,7 @@ Zijn het volgende overeengekomen:
 
 3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=1&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde bevoegde autoriteiten.
 
-#### Artikel 2. Grensovergangen
+##### Artikel 2. Grensovergangen
 
 1. De voor de toepassing van de Overeenkomst te gebruiken grensovergangen staan in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2019-02-01&g=2019-02-01) bij dit Protocol vermeld.
 
@@ -40,7 +62,7 @@ Zijn het volgende overeengekomen:
 
 3. De Partijen stellen elkaar rechtstreeks onverwijld en langs diplomatieke weg in kennis van iedere wijziging in de lijst van de in [Bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=2&z=2019-02-01&g=2019-02-01) bij dit Protocol vermelde grensovergangen.
 
-#### Artikel 3. Procedure voor de overname van onderdanen van de Partijen
+##### Artikel 3. Procedure voor de overname van onderdanen van de Partijen
 
 1. Het overnameverzoek genoemd in artikel 7 van de Overeenkomst bevat de in Bijlage 6 bij de Overeenkomst vermelde gegevens.
 
@@ -62,7 +84,7 @@ Zijn het volgende overeengekomen:
 
 10. Na ontvangst van het positieve antwoord op het overnameverzoek stellen de bevoegde autoriteiten van de verzoekende Partij de bevoegde autoriteiten van de aangezochte Partij, in kennis van de overdracht overeenkomstig Bijlage 4 bij dit Protocol en zoals bepaald in artikel 11, lid 1, van de Overeenkomst.
 
-#### Artikel 4. Ondervragingen
+##### Artikel 4. Ondervragingen
 
 1. Indien de verzoekende Partij geen van de in de Bijlagen 1, 2 en 5 bij de Overeenkomst vermelde documenten kan overleggen, kan, overeenkomstig artikel 8, lid 3, en artikel 9, lid 6, van de Overeenkomst een ondervraging worden verricht teneinde de nationaliteit van de over te nemen persoon vast te stellen.
 
@@ -70,11 +92,11 @@ Zijn het volgende overeengekomen:
 
 3. De aangezochte Partij bericht onverwijld en uiterlijk binnen drie werkdagen volgend op de ondervraging over de resultaten van de ondervraging.
 
-#### Artikel 5. Versnelde procedure
+##### Artikel 5. Versnelde procedure
 
 Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig artikel 6, lid 3, en artikel 10, lid 2, bij de Overeenkomst.
 
-#### Artikel 6. Procedure voor de overname van onderdanen van derde landen en staatloze personen
+##### Artikel 6. Procedure voor de overname van onderdanen van derde landen en staatloze personen
 
 1. Het overnameverzoek voor onderdanen van derde landen of staatloze personen bevat de in Bijlage 6 bij de Overeenkomst vermelde gegevens.
 
@@ -88,7 +110,7 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 6. Na ontvangst van het positieve antwoord op het overnameverzoek geven de bevoegde autoriteiten van de verzoekende Partij een reisdocument overeenkomstig artikel 3, lid 4, en artikel 5, lid 4, van de Overeenkomt af en stellen zij de bevoegde autoriteiten van de aangezochte Partij in kennis van de mededeling inzake de overdracht, overeenkomstig [Bijlage 4](https://wetten.overheid.nl/jci1.3:c:BWBV0006121&bijlage=4&z=2019-02-01&g=2019-02-01) bij dit Protocol en zoals bepaald in artikel 11, lid 1, van de Overeenkomst.
 
-#### Artikel 7. Procedure voor doorgeleiding van onderdanen van derde landen en staatloze personen
+##### Artikel 7. Procedure voor doorgeleiding van onderdanen van derde landen en staatloze personen
 
 1. Het doorgeleidingsverzoek voor onderdanen van derde landen of staatloze personen bevat de in Bijlage 7 bij de Overeenkomst vermelde gegevens en een verklaring van de verzoekende Partij dat de overname tot de eindbestemming is verzekerd.
 
@@ -100,7 +122,7 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 5. In geval van een verandering van datum of van andere praktische aspecten van de doorgeleiding die voorafgaand is meegedeeld aan en is toegestaan door de aangezochte Partij, dienen de bevoegde autoriteiten van de verzoekende Partij de aangezochte Partij daarvan naar behoren in kennis te stellen. Is zulks aanvaardbaar, dan zal de aangezochte Partij de doorgeleiding dienovereenkomstig toestaan.
 
-#### Artikel 8. Begeleiding
+##### Artikel 8. Begeleiding
 
 1. Een begeleider is een door de verzoekende Partij aangewezen persoon belast met de begeleiding van de over te nemen of door te geleiden persoon.
 
@@ -110,7 +132,7 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 4. In het antwoord op het doorgeleidingsverzoek bericht de aangezochte Partij of zij in de gevraagde ondersteuning kan voorzien.
 
-#### Artikel 9. Verplichtingen van de begeleiders
+##### Artikel 9. Verplichtingen van de begeleiders
 
 1. De bevoegdheden van de begeleiders zijn beperkt tot zelfverdediging. Daarnaast kunnen de begeleiders, bij afwezigheid van de terzake bevoegde ambtenaren van de aangezochte Partij of ter ondersteuning van deze ambtenaren, bij een onmiddellijke en ernstige dreiging op redelijke en proportionele wijze optreden om te voorkomen dat de betrokkene vlucht, zichzelf of derden letsel toebrengt dan wel schade aan goederen veroorzaakt.
 
@@ -118,27 +140,27 @@ Indien de versnelde procedure wordt aangegeven, wordt zij gevolgd overeenkomstig
 
 3. De autoriteiten van de aangezochte Partij verlenen de begeleiders bij de uitoefening van hun taken in het kader van de Overeenkomst dezelfde bescherming en bijstand als aan de eigen terzake bevoegde ambtenaren.
 
-#### Artikel 10. Kosten
+##### Artikel 10. Kosten
 
 1. De toewijzing van alle kosten verbonden aan het proces van overname en doorgeleiding is vastgesteld in artikel 15 van de Overeenkomst.
 
 2. Alle door de aangezochte Partij gemaakte kosten worden door de verzoekende Partij vergoed door middel van een bankoverschrijving binnen zestig dagen na de datum van overhandiging van de factuur in euro’s.
 
-#### Artikel 11. Vergadering van deskundigen
+##### Artikel 11. Vergadering van deskundigen
 
 1. De Partijen werken samen bij het analyseren van kwesties omtrent de toepassing van de Overeenkomst en dit Protocol.
 
 2. Hiertoe kan een vergadering van deskundigen worden bijeengeroepen op verzoek van één der Partijen.
 
-#### Artikel 12. Taal
+##### Artikel 12. Taal
 
 De Partijen communiceren met elkaar in de Engelse taal.
 
-#### Artikel 13. Bijlagen
+##### Artikel 13. Bijlagen
 
 De Bijlagen 1 tot en met 5 vormen een integrerend onderdeeldeel van het Uitvoeringsprotocol.
 
-#### Artikel 14. Wijzigingen
+##### Artikel 14. Wijzigingen
 
 1. Dit Protocol en zijn bijlagen kunnen in onderlinge overeenstemming tussen de Partijen worden gewijzigd.
 
@@ -146,15 +168,15 @@ De Bijlagen 1 tot en met 5 vormen een integrerend onderdeeldeel van het Uitvoeri
 
 3. Wijzigingen van de Bijlagen treden in werking op een door de partijen te bepalen datum.
 
-#### Artikel 15. Territoriale toepassing
+##### Artikel 15. Territoriale toepassing
 
 Dit Protocol is van toepassing op het grondgebied van de Republiek Servië, het grondgebied van het Koninkrijk België, het grondgebied van het Groothertogdom Luxemburg en het grondgebied van het Koninkrijk der Nederlanden waar het Verdrag betreffende de werking van de Europese Unie op dit grondgebied van toepassing is.
 
-#### Artikel 16. Depositaris
+##### Artikel 16. Depositaris
 
 Het Koninkrijk België is depositaris van dit Protocol. De depositaris zal alle Partijen een voor eensluidend verklaard afschrift daarvan doen toekomen.
 
-#### Artikel 17. Inwerkingtreding en opzegging
+##### Artikel 17. Inwerkingtreding en opzegging
 
 1. De Partijen stellen elkaar en de depositaris in kennis van de voltooiing van hun nationale wettelijke procedures voor de inwerkingtreding van het Protocol.
 

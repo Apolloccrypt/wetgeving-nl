@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake het recht dat van toepassing is op erfopvolging"
 identifier: "BWBV0002000"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-08-01
-laatste_update: 1989-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002000"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-08-01"
+last_updated: "1989-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002000"
+soort: "verdrag"
+stam_id: "10002599213"
+version_id: "10002596342"
+internal_id: "C10006984791"
+label_id: "10002588704"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002000/1989-08-01/0"
+intitule_bron: "Trb.1994-49"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-09-27"
+intitule_published: "1994-03-11"
+intitule_status: "nogniet"
+original_publication: "Trb.1994-49"
+original_signed_date: "1996-09-27"
+original_published_date: "1994-03-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1994-49"
+jci_1_3: "jci1.3:c:BWBV0002000&z=1989-08-01&g=1989-08-01"
+jci_1_0: "1.0:c:BWBV0002000&g=1989-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "1996-09-27"
+entry_into_force: "1994-03-11"
 ---
-
 # Verdrag inzake het recht dat van toepassing is op erfopvolging
 
 De Staten die dit Verdrag hebben ondertekend,
@@ -18,7 +40,7 @@ Hebben besloten hiertoe een Verdrag te sluiten en zijn het volgende overeengekom
 
 ### HOOFDSTUK I. TOEPASSINGSGEBIED VAN HET VERDRAG
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit Verdrag bepaalt welk recht van toepassing is op erfopvolging.
 
@@ -32,13 +54,13 @@ Hebben besloten hiertoe een Verdrag te sluiten en zijn het volgende overeengekom
 
 - d. rechten en goederen, in het leven geroepen of overgedragen op andere wijze dan door erfopvolging, zoals aan verschillende personen gemeenschappelijke eigendom welke overgaat op de langstlevende, pensioenregelingen, verzekeringsovereenkomsten of regelingen van soortgelijke aard.
 
-#### Artikel 2
+##### Artikel 2
 
 Het Verdrag is van toepassing zelfs als het toepasselijk recht dat van een niet-Verdragsluitende Staat is.
 
 ### HOOFDSTUK II. HET TOEPASSELIJKE RECHT
 
-#### Artikel 3
+##### Artikel 3
 
 1. De erfopvolging wordt beheerst door het recht van de Staat waar de overledene zijn gewone verblijfplaats had op het tijdstip van zijn overlijden, indien hij op dat tijdstip de nationaliteit van die Staat bezat.
 
@@ -46,11 +68,11 @@ Het Verdrag is van toepassing zelfs als het toepasselijk recht dat van een niet-
 
 3. Voor het overige wordt de erfopvolging beheerst door het recht van de Staat waarvan de overledene op het tijdstip van zijn overlijden de nationaliteit bezat, tenzij hij op dat tijdstip nauwere banden had met een andere Staat, in welk geval het recht van laatstbedoelde Staat van toepassing is.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien het ingevolge artikel 3 toepasselijk recht het recht van een niet-Verdragsluitende Staat is, en indien de verwijzingsregels van die Staat ten aanzien van het geheel of een gedeelte van de nalatenschap verwijst naar het recht van een andere niet-Verdragsluitende Staat die zijn eigen recht zou toepassen, is het recht van die andere Staat van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een persoon kan het recht van een bepaalde Staat aanwijzen als het recht dat de vererving van zijn gehele nalatenschap beheerst. De aanwijzing heeft alleen gevolg indien deze persoon op het tijdstip van de aanwijzing of van zijn overlijden de nationaliteit van die Staat bezat of daar zijn gewone verblijfplaats had.
 
@@ -60,11 +82,11 @@ Indien het ingevolge artikel 3 toepasselijk recht het recht van een niet-Verdrag
 
 4. Tenzij de overledene uitdrukkelijk anders heeft bepaald, wordt voor de toepassing van dit artikel de aanwijzing van het toepasselijke recht geacht betrekking te hebben op de vererving van de gehele nalatenschap, ongeacht of de overledene zonder een uiterste wil te hebben gemaakt is overleden dan bij uiterste wil over het geheel of een gedeelte van zijn nalatenschap heeft beschikt.
 
-#### Artikel 6
+##### Artikel 6
 
 Een persoon kan het recht van één of meer Staten aanwijzen als het recht dat de vererving van bepaalde goederen in zijn nalatenschap beheerst. Deze aanwijzing laat evenwel de toepassing van de dwingende bepalingen van het ingevolge artikel 3 of artikel 5, eerste lid, toepasselijke recht onverlet.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Behoudens het bepaalde in artikel 6 beheerst het ingevolge de artikelen 3 en 5, eerste lid, toepasselijke recht de vererving van de gehele nalatenschap, ongeacht waar de goederen zich bevinden.
 
@@ -84,27 +106,27 @@ Een persoon kan het recht van één of meer Staten aanwijzen als het recht dat d
 
 ### HOOFDSTUK III. OVEREENKOMSTEN INZAKE ERFOPVOLGING
 
-#### Artikel 8
+##### Artikel 8
 
 Voor de toepassing van dit Hoofdstuk is een overeenkomst inzake erfopvolging een schriftelijke of uit wederkerige testamentaire beschikkingen voortvloeiende overeenkomst die, met of zonder tegenprestatie, rechten op de toekomstige nalatenschap van één of meer personen die partij zijn bij een zodanige overeenkomst, in het leven roept, wijzigt of doet vervallen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Wanneer de overeenkomst slechts betrekking heeft op de nalatenschap van één persoon, worden de materiële geldigheid en de gevolgen van de overeenkomst, alsmede de omstandigheden die het tenietgaan van deze gevolgen meebrengen, bepaald door het recht dat ingevolge de artikelen 3 of 5, eerste lid, van toepassing zou zijn geweest op de erfopvolging van deze persoon indien hij op de dag waarop de overeenkomst is gesloten, zou zijn overleden.
 
 2. Indien de overeenkomst volgens dat recht ongeldig is, wordt zij niettemin als geldig beschouwd indien zij geldig is volgens het recht dat ingevolge de artikelen 3 of 5, eerste lid, op het tijdstip van overlijden op de erfopvolging van toepassing is. Ditzelfde recht beheerst dan de gevolgen van de overeenkomst en de omstandigheden die het tenietgaan van deze gevolgen meebrengen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wanneer de overeenkomst betrekking heeft op de nalatenschappen van meer dan één persoon, is de overeenkomst alleen dan materieel geldig, indien zij aldus wordt beschouwd volgens elk recht dat ingevolge de artikelen 3 of 5, eerste lid, de erfopvolging van elk van deze personen zou hebben beheerst indien hij op de dag waarop de overeenkomst is gesloten, zou zijn overleden.
 
 2. De gevolgen van deze overeenkomst en de omstandigheden die het tenietgaan van die gevolgen meebrengen zijn die, welke in alle toepasselijke rechtsstelsels worden erkend.
 
-#### Artikel 11
+##### Artikel 11
 
 De partijen kunnen door een uitdrukkelijke aanwijzing overeenkomen dat de overeenkomst, voor zover het betreft haar materiële geldigheid, de gevolgen en de omstandigheden die het tenietgaan daarvan meebrengen, onderworpen is aan het recht van een Staat waar de persoon of één van de personen wiens nalatenschap zij betreft, op het tijdstip waarop de overeenkomst werd gesloten zijn gewone verblijfplaats heeft of waarvan hij op dat tijdstip de nationaliteit bezit.
 
-#### Artikel 12
+##### Artikel 12
 
 1. De materiële geldigheid van een overeenkomst die geldig is volgens het recht dat ingevolge de artikelen 9, 10 of 11 van toepassing is, kan niet worden bestreden op grond van het feit dat de overeenkomst volgens het recht dat ingevolge de artikelen 3 of 5, eerste lid, van toepassing is, als ongeldig zou worden beschouwd.
 
@@ -112,33 +134,33 @@ De partijen kunnen door een uitdrukkelijke aanwijzing overeenkomen dat de overee
 
 ### HOOFDSTUK IV. ALGEMENE BEPALINGEN
 
-#### Artikel 13
+##### Artikel 13
 
 Wanneer twee of meer personen wier erfopvolging door verschillende rechtsstelsels wordt beheerst, overlijden onder omstandigheden waaronder onzeker is in welke volgorde zij zijn overleden, en wanneer deze situatie in die rechtsstelsels op uiteenlopende wijze is geregeld of in het geheel niet is geregeld, heeft geen van de overleden personen rechten ten aanzien van de nalatenschap van de ander of anderen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Wanneer bij uiterste wilsbeschikking een trust in het leven wordt geroepen, belet de toepassing van het ingevolge dit Verdrag toepasselijk recht op de erfopvolging niet, dat op de trust een ander recht wordt toegepast. Omgekeerd belet de toepassing op de trust van het daarop betrekking hebbende recht niet, dat op de erfopvolging het ingevolge dit Verdrag toepasselijke recht wordt toegepast.
 
 2. Dezelfde regels zijn van overeenkomstige toepassing op stichtingen en soortgelijke instellingen die in het leven zijn geroepen bij uiterste wilsbeschikkingen.
 
-#### Artikel 15
+##### Artikel 15
 
 Het ingevolge het Verdrag toepasselijke recht maakt geen inbreuk op bijzondere erfrechtsregimes waaraan bepaalde onroerende goederen, ondernemingen of andere bijzondere categorieën goederen in de Staat waar zij zich bevinden zijn onderworpen uit hoofde van hun economische of maatschappelijke bestemming, dan wel hun belang voor de familie.
 
-#### Artikel 16
+##### Artikel 16
 
 Wanneer er volgens het ingevolge het Verdrag toepasselijke recht geen erfgenaam of legataris is uit hoofde van een uiterste wilsbeschikking, noch een natuurlijke persoon die wettelijk erfgenaam is, belet de toepassing van het aldus bepaalde recht niet dat een Staat of een daartoe door die Staat aangewezen instantie zich de goederen uit de nalatenschap die zich op zijn grondgebied bevinden, toeëigent.
 
-#### Artikel 17
+##### Artikel 17
 
 In dit Verdrag wordt, behoudens het bepaalde in artikel 4, onder recht verstaan de rechtsregels die in een Staat gelden, met uitzondering van de verwijzingsregels.
 
-#### Artikel 18
+##### Artikel 18
 
 De toepassing van een door dit Verdrag aangewezen recht kan slechts worden geweigerd indien deze kennelijk in strijd zou zijn met de openbare orde.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Wanneer een Staat twee of meer gebiedsdelen omvat, waarvan elk zijn eigen rechtsstelsel of zijn eigen rechtsregels ter zake van erfopvolging heeft, dient volgens de bepalingen van dit artikel te worden vastgesteld welk recht ingevolge dit Verdrag van toepassing is.
 
@@ -164,15 +186,15 @@ De toepassing van een door dit Verdrag aangewezen recht kan slechts worden gewei
 
 Wanneer de vereiste verblijfsduur is bereikt, en de overledene op dat tijdstip zijn gewone verblijfplaats in die Staat had, maar geen gewone verblijfplaats in een bepaald gebiedsdeel van die Staat, is toepasselijk het recht van het gebiedsdeel waarin de overledene het laatst verbleef, tenzij hij op dat tijdstip nauwere banden had met een ander gebiedsdeel van die Staat, in welk geval het recht van dat laatste gebiedsdeel van toepassing is.
 
-#### Artikel 20
+##### Artikel 20
 
 Wanneer een Staat ter zake van erfopvolging twee of meer rechtsstelsels heeft die van toepassing zijn op verschillende categorieën van personen, wordt ter bepaling van het volgens dit Verdrag toepasselijke recht elke verwijzing naar het recht van een dergelijke Staat beschouwd als een verwijzing naar het rechtsstelsel dat wordt aangewezen door de regels die in die Staat van kracht zijn. Bij gebreke van dergelijke regels wordt de verwijzing beschouwd als verwijzing naar het rechtsstelsel waarmee de overledene de nauwste banden had.
 
-#### Artikel 21
+##### Artikel 21
 
 Een Verdragsluitende Staat waarin verschillende rechtsstelsels of meer dan één geheel van rechtsregels van toepassing zijn op erfopvolging, is niet gehouden de regels van het Verdrag toe te passen op conflicten uitsluitend tussen deze verschillende rechtsstelsels of rechtsregels.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Het Verdrag is in een Verdragsluitende Staat van toepassing op de erfopvolging van personen die overlijden nadat het Verdrag voor die Staat in werking is getreden.
 
@@ -180,13 +202,13 @@ Een Verdragsluitende Staat waarin verschillende rechtsstelsels of meer dan één
 
 3. Wanneer de partijen bij een overeenkomst inzake erfopvolging op een tijdstip voorafgaand aan de inwerkingtreding van het Verdrag in die Staat het op die overeenkomst toepasselijke recht hebben aangewezen, wordt die aanwijzing daarin als geldig beschouwd indien zij voldoet aan de bepalingen van artikel 11.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Het Verdrag laat onverlet de toepassing van internationale akten waarbij Verdragsluitende Staten partij zijn of worden en die bepalingen bevatten omtrent bij dit Verdrag geregelde onderwerpen, tenzij door de Staten die partij zijn bij dergelijke akten een andersluidende verklaring wordt afgelegd.
 
 2. Het eerste lid van dit artikel is eveneens van toepassing op eenvormige wetten die berusten op tussen de betrokken Staten bestaande bijzondere banden van regionale aard.
 
-#### Artikel 24
+##### Artikel 24
 
 1. Elke Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding het voorbehoud maken:
 
@@ -210,19 +232,19 @@ Een Verdragsluitende Staat waarin verschillende rechtsstelsels of meer dan één
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 25
+##### Artikel 25
 
 1. Het Verdrag staat open voor ondertekening door Staten die Lid waren van de Haagsche Conferentie voor Internationaal Privaatrecht ten tijde van haar Zestiende Zitting.
 
 2. Het dient te worden bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring dienen te worden nedergelegd bij het Ministerie van Buitenlandse Zaken van het Koninkrijk der Nederlanden, dat depositaris van het Verdrag is.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Iedere andere Staat kan toetreden tot het Verdrag nadat het in werking is getreden ingevolge artikel 28, eerste lid.
 
 2. De akten van toetreding dienen te worden nedergelegd bij de depositaris.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Indien een Staat twee of meer gebiedsdelen heeft waarin verschillende rechtsstelsels van toepassing zijn ter zake van onderwerpen die bij dit Verdrag worden geregeld, kan hij op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren dat dit Verdrag zich zal uitstrekken tot al zijn gebiedsdelen of slechts tot één of meer daarvan en kan hij te allen tijde deze verklaring wijzigen door middel van een nieuwe verklaring.
 
@@ -230,7 +252,7 @@ Een Verdragsluitende Staat waarin verschillende rechtsstelsels of meer dan één
 
 3. Indien een Staat geen verklaring als bedoeld in dit artikel afgeeft, strekt het Verdrag zich uit tot alle gebiedsdelen van die Staat.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het Verdrag treedt in werking op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de nederlegging van de derde akte van bekrachtiging, aanvaarding of goedkeuring bedoeld in artikel 25.
 
@@ -240,17 +262,17 @@ Een Verdragsluitende Staat waarin verschillende rechtsstelsels of meer dan één
 
 - b. voor de gebiedsdelen waartoe het Verdrag zich uitstrekt overeenkomstig artikel 27, op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden na de kennisgeving bedoeld in dat artikel.
 
-#### Artikel 29
+##### Artikel 29
 
 Na inwerkingtreding van een akte waarbij dit Verdrag wordt herzien, kan een Staat slechts Partij worden bij het Verdrag in zijn herziene vorm.
 
-#### Artikel 30
+##### Artikel 30
 
 1. Een Staat die Partij is bij dit Verdrag kan het Verdrag, of alleen Hoofdstuk III van het Verdrag, opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht op de eerste dag van de maand volgend op het verstrijken van een tijdvak van drie maanden nadat de kennisgeving door de depositaris is ontvangen. Wanneer in de kennisgeving een langere termijn voor de van kracht wording van de opzegging is bepaald, wordt de opzegging van kracht zodra de desbetreffende termijn is verstreken nadat de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 31
+##### Artikel 31
 
 De depositaris geeft aan de Lidstaten van de Haagsche Conferentie voor Internationaal Privaatrecht en aan de Staten die zijn toegetreden in overeenstemming met artikel 26 kennis van:
 

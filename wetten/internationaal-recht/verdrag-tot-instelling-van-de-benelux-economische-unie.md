@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tot instelling van de Benelux Economische Unie"
 identifier: "BWBV0005047"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-01-01
-laatste_update: 2012-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005047"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-01-01"
+last_updated: "2012-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005047"
+soort: "verdrag"
+stam_id: "10004449723"
+version_id: "10005550842"
+internal_id: "C10008580251"
+label_id: "10004436254"
+dtd_version: "2.0"
+original_entry_into_force: "2012-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005047/2012-01-01/0"
+intitule_bron: "Trb.2014-72"
+intitule_effect: "intrekking-regeling"
+intitule_published: "2014-04-08"
+intitule_in_force: "2014-04-08"
+intitule_status: "vervallen"
+original_publication: "Trb.2014-72"
+original_published_date: "2014-04-08"
+original_effect: "intrekking-regeling"
+original_url_id: "trb-2014-72"
+entry_into_force_date: "2012-01-01"
+jci_1_3: "jci1.3:c:BWBV0005047&z=2012-01-01&g=2012-01-01"
+jci_1_0: "1.0:c:BWBV0005047&g=2012-01-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2012-01-01"
 ---
-
 # Verdrag tot instelling van de Benelux Economische Unie
 
 Zijne Majesteit de Koning der Belgen,
@@ -50,237 +72,237 @@ die, na hun in goede en behoorlijke vorm bevonden volmachten te hebben overgeleg
 
 ## Deel 1. BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ## Deel 2. INSTELLINGEN
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
 ### HOOFDSTUK 1. Van het Comité van Ministers
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
 ### HOOFDSTUK 2. Van de Raadgevende Interparlementaire Raad
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
 ### HOOFDSTUK 3. Van de Raad van de Economische Unie
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### HOOFDSTUK 4. Van de Commissies en de Bijzondere Commissies
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
 ### HOOFDSTUK 5. Van het Secretariaat-Generaal
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 Vervallen
 
 ### HOOFDSTUK 6. Van de Gemeenschappelijke Diensten
 
-#### Artikel 40
+##### Artikel 40
 
 Vervallen
 
 ### HOOFDSTUK 7. Van het College van Scheidsrechters
 
-#### Artikel 41
+##### Artikel 41
 
 Vervallen
 
-#### Artikel 42
+##### Artikel 42
 
 Vervallen
 
-#### Artikel 43
+##### Artikel 43
 
 Vervallen
 
-#### Artikel 44
+##### Artikel 44
 
 Vervallen
 
-#### Artikel 45
+##### Artikel 45
 
 Vervallen
 
-#### Artikel 46
+##### Artikel 46
 
 Vervallen
 
-#### Artikel 47
+##### Artikel 47
 
 Vervallen
 
-#### Artikel 48
+##### Artikel 48
 
 Vervallen
 
-#### Artikel 49
+##### Artikel 49
 
 Vervallen
 
-#### Artikel 50
+##### Artikel 50
 
 Vervallen
 
-#### Artikel 51
+##### Artikel 51
 
 Vervallen
 
-#### Artikel 52
+##### Artikel 52
 
 Vervallen
 
-#### Artikel 53
+##### Artikel 53
 
 Vervallen
 
 ### HOOFDSTUK 8. Van de Economische en Sociale Raad van Advies
 
-#### Artikel 54
+##### Artikel 54
 
 Vervallen
 
@@ -288,199 +310,199 @@ Vervallen
 
 ### HOOFDSTUK 1. Van de nationale behandeling, de bewegingsvrijheid en de uitoefening van economische en beroepswerkzaamheden
 
-#### Artikel 55
+##### Artikel 55
 
 Vervallen
 
-#### Artikel 56
+##### Artikel 56
 
 Vervallen
 
-#### Artikel 57
+##### Artikel 57
 
 Vervallen
 
-#### Artikel 58
+##### Artikel 58
 
 Vervallen
 
-#### Artikel 59
+##### Artikel 59
 
 Vervallen
 
-#### Artikel 60
+##### Artikel 60
 
 Vervallen
 
-#### Artikel 61
+##### Artikel 61
 
 Vervallen
 
-#### Artikel 62
+##### Artikel 62
 
 Vervallen
 
-#### Artikel 63
+##### Artikel 63
 
 Vervallen
 
 ### HOOFDSTUK 2. Van de coördinatie van het beleid
 
-#### Artikel 64
+##### Artikel 64
 
 Vervallen
 
-#### Artikel 65
+##### Artikel 65
 
 Vervallen
 
-#### Artikel 66
+##### Artikel 66
 
 Vervallen
 
-#### Artikel 67
+##### Artikel 67
 
 Vervallen
 
-#### Artikel 68
+##### Artikel 68
 
 Vervallen
 
-#### Artikel 69
+##### Artikel 69
 
 Vervallen
 
-#### Artikel 70
+##### Artikel 70
 
 Vervallen
 
-#### Artikel 71
+##### Artikel 71
 
 Vervallen
 
 ### HOOFDSTUK 3. Van de economische en financiële betrekkingen met het buitenland
 
-#### Artikel 72
+##### Artikel 72
 
 Vervallen
 
-#### Artikel 73
+##### Artikel 73
 
 Vervallen
 
-#### Artikel 74
+##### Artikel 74
 
 Vervallen
 
-#### Artikel 75
+##### Artikel 75
 
 Vervallen
 
-#### Artikel 76
+##### Artikel 76
 
 Vervallen
 
-#### Artikel 77
+##### Artikel 77
 
 Vervallen
 
 ### HOOFDSTUK 4. Van de douane- en belastingaangelegenheden
 
-#### Artikel 78
+##### Artikel 78
 
 Vervallen
 
-#### Artikel 79
+##### Artikel 79
 
 Vervallen
 
-#### Artikel 80
+##### Artikel 80
 
 Vervallen
 
-#### Artikel 81
+##### Artikel 81
 
 Vervallen
 
-#### Artikel 82
+##### Artikel 82
 
 Vervallen
 
-#### Artikel 83
+##### Artikel 83
 
 Vervallen
 
-#### Artikel 84
+##### Artikel 84
 
 Vervallen
 
 ### HOOFDSTUK 5. Van het vrije verkeer van vervoerdiensten
 
-#### Artikel 85
+##### Artikel 85
 
 Vervallen
 
-#### Artikel 86
+##### Artikel 86
 
 Vervallen
 
-#### Artikel 87
+##### Artikel 87
 
 Vervallen
 
-#### Artikel 88
+##### Artikel 88
 
 Vervallen
 
-#### Artikel 89
+##### Artikel 89
 
 Vervallen
 
 ### HOOFDSTUK 6. Van de statistiek
 
-#### Artikel 90
+##### Artikel 90
 
 Vervallen
 
-#### Artikel 91
+##### Artikel 91
 
 Vervallen
 
-#### Artikel 92
+##### Artikel 92
 
 Vervallen
 
 ## Deel 4. SLOTBEPALINGEN
 
-#### Artikel 93
+##### Artikel 93
 
 Vervallen
 
-#### Artikel 94
+##### Artikel 94
 
 Vervallen
 
-#### Artikel 95
+##### Artikel 95
 
 Vervallen
 
-#### Artikel 96
+##### Artikel 96
 
 Vervallen
 
-#### Artikel 97
+##### Artikel 97
 
 Vervallen
 
-#### Artikel 98
+##### Artikel 98
 
 Vervallen
 
-#### Artikel 99
+##### Artikel 99
 
 Vervallen
 
-#### Artikel 100
+##### Artikel 100
 
 Vervallen
 
@@ -494,37 +516,37 @@ De Hoge Verdragsluitende Partijen bij het heden ondertekende Verdrag tot instell
 
 ### HOOFDSTUK 1. Van de nationale behandeling, de bewegingsvrijheid en de uitoefening van economische en beroepswerkzaamheden
 
-#### Artikel 1
+##### Artikel 1
 
 Vóór 1 januari 1959 stellen de Hoge Verdragsluitende Partijen een overeenkomst op, welke de wijze van uitvoering van de artikelen 55 en 56 van het Unieverdrag bepaalt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Zolang de wetgevingen inzake de uitoefening van zelfstandige economische en beroepswerkzaamheden niet zijn geharmoniseerd en hieruit voor één of meer Hoge Verdragsluitende Partijen belangrijke moeilijkheden kunnen ontstaan, kan het Comité van Ministers gedurende een tijdvak van ten hoogste vijf jaar en in afwijking van de bepalingen van artikel 2, lid 2, onder **b**), van het Unieverdrag aan ieder der Hoge Verdragsluitende Partijen toestaan aan de onderdanen van de andere Verdragsluitende Partijen eisen te stellen voor de uitoefening van beroepswerkzaamheden op het gebied van ambacht, kleinhandel, groothandel, industrie en dienstenverlening, welke niet voor de eigen onderdanen worden gesteld.
 
 2. Indien een Hoge Verdragsluitende Partij op grond van lid 1 van dit artikel voor de onderdanen der andere Verdragsluitende Partijen zwaardere eisen stelt dan die welke zij aan haar eigen onderdanen oplegt, mogen deze eisen in geen geval zwaarder zijn dan die welke de andere Verdragsluitende Partijen aan hun onderdanen opleggen noch mogen zij zwaarder zijn dan die welke de eerstgenoemde Verdragsluitende Partij aan onderdanen van derde landen oplegt.
 
-#### Artikel 3
+##### Artikel 3
 
 De bepalingen van artikel 2, lid 2, onder **b**), van het Unieverdrag zijn gedurende een tijdvak van ten hoogste vijf jaar niet van toepassing op de visserij in de territoriale wateren.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Gedurende een tijdvak van ten hoogste drie jaar kunnen, overeenkomstig regelingen welke voortvloeien uit overeenkomsten tussen de Hoge Verdragsluitende Partijen, maatregelen worden genomen, ingeval een belangrijke ongelijkheid mocht bestaan tussen de aanbestedingen gegund door de overheidsinstellingen van een Hoge Verdragsluitende Partij aan de onderdanen van een andere Verdragsluitende Partij en aanbestedingen gegund door de overheidsinstellingen van die Verdragsluitende Partij aan de onderdanen van de eerstgenoemde Verdragsluitende Partij; deze maatregelen kunnen eventueel afwijken van de bepalingen van artikel 62 van het Unieverdrag.
 
 2. In het in lid 1 van dit artikel bedoelde geval doet het College van Scheidsrechters bedoeld in artikel 15 van het Unieverdrag uitsluitend ex aequo et bono uitspraak.
 
-#### Artikel 5
+##### Artikel 5
 
 Gedurende een tijdvak van ten hoogste drie jaar zal artikel 62 van het Unieverdrag op de aanbestedingen van de overheidsinstellingen, bedoeld in artikel 63, onder B. **b**), van dat Verdrag, alleen van toepassing zijn voor zover de Staat hierop daadwerkelijk invloed uitoefent.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Binnen een tijdvak van ten hoogste vijf jaar stellen de Hoge Verdragsluitende Partijen de overeenkomst op bedoeld in artikel 58, lid 3, van het Unieverdrag.
 
 2. Tot aan de inwerkingtreding van de in lid 1 van dit artikel bedoelde overeenkomst is artikel 58, lid 2, van het Unieverdrag niet van toepassing op het gebied van verzekeringen, spaarkassen en bouwkassen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Indien de stand van de arbeidsmarkt de tewerkstelling van werknemers in bepaalde tijdvakken, streken of beroepen niet zou toestaan, plegen de Hoge Verdragsluitende Partijen onmiddellijk overleg, teneinde in onderlinge overeenstemming de nodige tijdelijke maatregelen te treffen.
 
@@ -532,17 +554,17 @@ Gedurende een tijdvak van ten hoogste drie jaar zal artikel 62 van het Unieverdr
 
 3. Het door dit artikel ingestelde regime vervalt uiterlijk na verloop van een tijdvak van vijf jaar na de inwerkingtreding van het Unieverdrag; vóór de afloop van dit tijdvak kan het Comité van Ministers te allen tijde dit regime beëindigen.
 
-#### Artikel 8
+##### Artikel 8
 
 Tenzij het Comité van Ministers anders beslist, zijn gedurende een tijdvak van ten hoogste vijf jaar de bepalingen van artikel 2, lid 2, onder **b),** van het Unieverdrag niet van toepassing op werknemers die door een arbeidsovereenkomst voor schepelingen zijn gebonden.
 
 ### HOOFDSTUK 2. Van het handelsverkeer tussen de grondgebieden van de Hoge Verdragsluitende Partijen
 
-#### Artikel 9
+##### Artikel 9
 
 De Hoge Verdragsluitende Partijen verbinden zich, binnen een tijdvak van ten hoogste vijf jaar de coördinatie tot stand te brengen van de wettelijke of uitvoerende voorschriften en de andere publiekrechtelijke voorschriften bedoeld in de artikelen 6 en 7 van het Unieverdrag, die een ongerechtvaardigde belemmering voor het vrije verkeer vormen, teneinde die belemmering weg te nemen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onverminderd de bepalingen van de artikelen 11 tot en met 24 van deze Overeenkomst is ieder der Hoge Verdragsluitende Partijen bevoegd in afwijking van artikel 3 van het Unieverdrag die beperkingen op het vrije handelsverkeer te handhaven welke op het ogenblik van de inwerkingtreding van het Unieverdrag van kracht zijn.
 
@@ -552,19 +574,19 @@ De Hoge Verdragsluitende Partijen verbinden zich, binnen een tijdvak van ten hoo
 
 ### HOOFDSTUK 3. Van de landbouw
 
-#### Artikel 11
+##### Artikel 11
 
 In afwachting van de verwezenlijking van de voorwaarden voor een volledige vrijmaking van het handelsverkeer in landbouwprodukten tussen de grondgebieden van de Hoge Verdragsluitende Partijen kan ieder hunner binnen haar grondgebied maatregelen tot valorisatie treffen; deze maatregelen kunnen een beperking of een verbod van de uitvoer van de gevaloriseerde produkten inhouden. Iedere Hoge Verdragsluitende Partij kan tevens maatregelen treffen ter bescherming van haar binnenlandse markt tegenover de andere Verdragsluitende Partijen binnen de grenzen en onder de voorwaarden van de artikelen 12 tot en met 24 van deze Overeenkomst.
 
-#### Artikel 12
+##### Artikel 12
 
 In afwijking van de artikelen 3, 7, 10 en 11 van het Unieverdrag is ieder der Hoge Verdragsluitende Partijen bevoegd heffingen of licentierechten op te leggen bij de in- en uitvoer van landbouwprodukten en voedingsmiddelen. Deze heffingen kunnen echter alleen ten aanzien van de andere Verdragsluitende Partijen worden toegepast, indien zij tevens worden toegepast ten aanzien van derde landen. De opbrengsten van zodanige heffingen of licentierechten vormen geen gemeenschappelijke inkomsten.
 
-#### Artikel 13
+##### Artikel 13
 
 In afwijking van de artikelen 3, 7, 10 en 11 van het Unieverdrag zijn de produkten, voorkomende op de bij deze Overeenkomst gevoegde lijst A, onderworpen aan het stelsel van minimumprijzen.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De minimumprijzen worden in onderlinge overeenstemming door de Commissie voor landbouw, voedselvoorziening en visserij vastgesteld op basis van de kostprijzen, verhoogd met een passende winstmarge. Bij verschil van mening in deze Commissie omtrent een minimumprijs of zijn toepassing wordt het geschil onmiddellijk voorgelegd aan een overeenkomstig artikel 21 van het Unieverdrag ingestelde Werkgroep. De beslissing van de Werkgroep is onmiddellijk van toepassing.
 
@@ -572,13 +594,13 @@ Indien binnen acht dagen na de vergadering van de Werkgroep nog geen beslissing 
 
 2. De Commissie voor landbouw, voedselvoorziening en visserij stelt eventueel de kwaliteiten, typen en variëteiten vast van de produkten die aan het stelsel van minimumprijzen zijn onderworpen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Teneinde de toepassing te verzekeren van de overeenkomstig de bepalingen van artikel 14 van deze Overeenkomst vastgestelde minimumprijzen, wordt aan een permanente delegatie uit de Commissie voor landbouw, voedselvoorziening en visserij, samengesteld uit afgevaardigden van de Hoge Verdragsluitende Partijen, opgedragen de ontwikkeling der prijzen voortdurend te volgen. Wanneer deze delegatie constateert dat de geldende prijzen beneden het vastgestelde peil blijven, dan is het invoerende land zonder meer bevoegd om bij wijze van conservatoire maatregel de invoer van de betrokken produkten op te schorten, totdat de Commissie voor landbouw, voedselvoorziening en visserij - daartoe binnen drie dagen bijeenkomende - of de vergadering van de in artikel 14 van deze Overeenkomst vermelde Werkgroep een beslissing heeft genomen. Evenzo zal een eventueel door genoemde delegatie geconstateerd herstel der prijzen op het vastgestelde peil zonder meer de afschaffing van de door het invoerende land genomen maatregel met zich meebrengen.
 
 2. Bij de uitoefening van haar taak zal de permanente delegatie de procedure volgen welke door de Commissie voor landbouw, voedselvoorziening en visserij wordt vastgesteld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Teneinde de krachtens artikel 14 van deze Overeenkomst vastgestelde minimumprijzen te waarborgen worden heffingen vastgesteld, welke gelijk zijn aan het verschil tussen de overeengekomen minimumprijs en de prijs franco grens. De prijs franco grens wordt vastgesteld op grond van de prijs op de binnenlandse markt vermeerderd met de werkelijke kosten.
 
@@ -586,31 +608,31 @@ Indien binnen acht dagen na de vergadering van de Werkgroep nog geen beslissing 
 
 3. Het totale bedrag van deze heffingen, welke worden gelegd op het onderling handelsverkeer tussen Nederland en de Belgisch-Luxemburgse Economische Unie, wordt na afloop van ieder kwartaal gelijkelijk tussen beide verdeeld.
 
-#### Artikel 17
+##### Artikel 17
 
 De Hoge Verdragsluitende Partijen verlenen elkaar preferentie bij de invoer van landbouwprodukten waarvoor een minimumprijs van kracht is. De produkten, voorkomend op lijst A, kunnen slechts in onderlinge overeenstemming worden vrijgemaakt ten aanzien van derde landen.
 
-#### Artikel 18
+##### Artikel 18
 
 De bepalingen van artikel 12 van deze Overeenkomst zijn niet van toepassing op produkten waarvoor een minimumprijs van kracht is.
 
-#### Artikel 19
+##### Artikel 19
 
 1. In afwijking van de artikelen 3, 7, 10 en 11 van het Unieverdrag kan ieder der Hoge Verdragsluitende Partijen ten aanzien van de produkten, voorkomende op de bij deze Overeenkomst gevoegde lijst B, een bijzonder regime toepassen dat door het Comité van Ministers wordt vastgesteld.
 
 2. In elk geval kennen de Hoge Verdragsluitende Partijen elkaar het meest gunstige regime toe dat ten aanzien van derde landen van kracht is.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Ten aanzien van de produkten, voorkomende op de bij deze Overeenkomst gevoegde lijst C, is het Groothertogdom Luxemburg bevoegd een autonoom invoerregime tegenover de andere Verdragsluitende Partijen toe te passen.
 
 2. In elk geval kent het Groothertogdom Luxemburg de andere Hoge Verdragsluitende Partijen het meest gunstige regime toe dat ten aanzien van derde landen van kracht is.
 
-#### Artikel 21
+##### Artikel 21
 
 De lijsten A, B en C kunnen door het Comité van Ministers worden gewijzigd, de Commissie voor landbouw, voedselvoorziening en visserij gehoord.
 
-#### Artikel 22
+##### Artikel 22
 
 1. De harmonisatie van het landbouwbeleid wordt verwezenlijkt binnen een tijdvak van ten hoogste vijf jaar.
 
@@ -618,21 +640,21 @@ De lijsten A, B en C kunnen door het Comité van Ministers worden gewijzigd, de 
 
 3. Een Werkgroep, ingesteld op grond van artikel 21 van het Unieverdrag, onderzoekt jaarlijks in de herfst de voortgang in deze harmonisatie en stelt het programma voor het volgende jaar vast.
 
-#### Artikel 23
+##### Artikel 23
 
 Voor zover geen gemeenschappelijke regelingen bestaan, kan ieder der Hoge Verdragsluitende Partijen in afwijking van de artikelen 3, 10 en 11 van het Unieverdrag gedurende een tijdvak van ten hoogste vijf jaar maatregelen nemen waardoor de uitvoer van bepaalde landbouwprodukten of voedingsmiddelen wordt verboden of beperkt met het oogmerk om een regelmatige voorziening van haar binnenlandse markt te verzekeren.
 
-#### Artikel 24
+##### Artikel 24
 
 Totdat een gecoördineerd regime tot stand is gekomen, heeft ieder der Hoge Verdragsluitende Partijen de bevoegdheid in afwijking van de artikelen 3, 10 en 11 van het Unieverdrag maatregelen te nemen op het gebied van de samenstelling of hoedanigheid van landbouwprodukten of voedingsmiddelen alsmede op het gebied van rassen.
 
-#### Artikel 25
+##### Artikel 25
 
 Zolang het Comité van Ministers niet anders beslist, blijven de Studiecommissie voor de kostprijzen en de Commissie tot harmonisatie van de landbouwpolitiek, welke werden ingesteld bij de op 3 mei 1955 genomen Beslissing van het Comité van Ministers, voorzien in het Protocol van 24 juli 1953 betreffende de coördinatie van de economische en sociale politiek, de hun toevertrouwde taken vervullen niettegenstaande de intrekking van de genoemde Beslissing.
 
 ### HOOFDSTUK 4. Van de economische en financiële betrekkingen met het buitenland
 
-#### Artikel 26
+##### Artikel 26
 
 1. De Hoge Verdragsluitende Partijen verbinden zich vóór 1 januari 1959 een gemeenschappelijk beleid inzake de buitenlandse handel en de daarop betrekking hebbende betalingen te verwezenlijken in overeenstemming met de bepalingen van artikel 10 van het Unieverdrag.
 
@@ -640,23 +662,23 @@ Zolang het Comité van Ministers niet anders beslist, blijven de Studiecommissie
 
 3. Zolang een van de Hoge Verdragsluitende Partijen krachtens dit artikel afzonderlijk onderhandelt over akkoorden betreffende het goederenverkeer, kunnen waarnemers van de andere Verdragsluitende Partijen deze besprekingen bijwonen.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De in- en uitvoercontingenten zijn niet gemeenschappelijk voor de produkten waarin het handelsverkeer niet vrij is op grond van de artikelen 10 tot en met 24 van deze Overeenkomst.
 
 2. Het Comité van Ministers kan uitzonderingen op de bepaling van lid 1 van dit artikel vaststellen.
 
-#### Artikel 28
+##### Artikel 28
 
 Het Comité van Ministers kan gescheiden uitvoercontingenten tegenover een derde land vaststellen voor produkten ten aanzien waarvan een Hoge Verdragsluitende Partij maatregelen heeft genomen of waarborgen heeft toegekend met betrekking tot prijs, kwaliteit of beheer van het contingent, voor zover de andere Verdragsluitende Partijen niet dezelfde maatregelen en dezelfde waarborgen kunnen toepassen.
 
-#### Artikel 29
+##### Artikel 29
 
 De Hoge Verdragsluitende Partijen stellen vóór 1 januari 1959 de in artikel 76, lid 2, van het Unieverdrag voorziene overeenkomsten op.
 
 ### HOOFDSTUK 6. Van de douane- en belastingaangelegenheden
 
-#### Artikel 30
+##### Artikel 30
 
 1. De Hoge Verdragsluitende Partijen verbinden zich de maatregelen, welke zij, in afwijking van de bepalingen van het Unieverdrag, op het gebied van de betalingen tussen hun ingezetenen toepassen op het ogenblik van de inwerkingtreding van dat Verdrag, op te heffen, zodra en naarmate de verhoudingen in het internationale betalingsverkeer hiertoe de mogelijkheid bieden. De Commissie voor monetaire en financiële vraagstukken brengt over deze punten ten minste eens per jaar verslag uit aan het Comité van Ministers.
 
@@ -666,25 +688,25 @@ De Hoge Verdragsluitende Partijen stellen vóór 1 januari 1959 de in artikel 76
 
 ### HOOFDSTUK 6. Van de douane- en belastingaangelegenheden
 
-#### Artikel 31
+##### Artikel 31
 
 1. In afwachting van de opheffing van de moeilijkheden welke de volledige toepassing van het [Verdrag tot unificatie van accijnzen en van het waarborgrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005676), ondertekend te 's-Gravenhage op 18 februari 1950, met zich brengt, kan iedere Hoge Verdragsluitende Partij in afwijking van de artikelen 3, 11, 78 en 80 van het Unieverdrag bij invoer herkomstig uit derde landen of uit de grondgebieden der andere Hoge Verdragsluitende Partijen deze rechten en retributies autonoom heffen.
 
 2. De Hoge Verdragsluitende Partijen streven naar de geleidelijke toepassing van het in lid 1 van dit artikel bedoelde [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005676).
 
-#### Artikel 32
+##### Artikel 32
 
 1. In afwachting van de opheffing van de moeilijkheden welke de instelling van het in artikel 79 van het Unieverdrag voorziene regime met zich brengt, kan ieder der Hoge Verdragsluitende Partijen in afwijking van de artikelen 3, 5, 11, 78 en 79 van het Unieverdrag autonoom de overdrachttaxe, de omzetbelasting en andere soortgelijke belastingen heffen bij invoer uit derde landen of uit de grondgebieden der andere Verdragsluitende Partijen.
 
 2. De Hoge Verdragsluitende Partijen streven naar de geleidelijke instelling van het in lid 1 van dit artikel bedoelde regime.
 
-#### Artikel 33
+##### Artikel 33
 
 Wat de niet in de artikelen 78 tot en met 80 van het Unieverdrag bedoelde belastingen aangaat, verminderen de Hoge Verdragsluitende Partijen geleidelijk de verschillen waardoor de mededingingsvoorwaarden kunnen worden verstoord.
 
 ### HOOFDSTUK 7. Van het vervoerswezen
 
-#### Artikel 34
+##### Artikel 34
 
 Binnen een tijdvak van ten hoogste drie jaar schaffen de Hoge Verdragsluitende Partijen geleidelijk de kwantitatieve beperkingen af inzake:
 
@@ -692,17 +714,17 @@ Binnen een tijdvak van ten hoogste drie jaar schaffen de Hoge Verdragsluitende P
 
 - b). het ongeregelde reizigersvervoer over de weg vanuit het grondgebied ener Hoge Verdragsluitende Partij naar derde landen.
 
-#### Artikel 35
+##### Artikel 35
 
 Het vervoer te water van uit Nederland in België ingevoerd rivierzand en riviergrint kan wat betreft het gebruik van binnenschepen gedurende een periode van vijf jaar geschieden overeenkomstig de regelingen welke op het ogenblik van de inwerkingtreding van het Unieverdrag van toepassing zijn op de invoer van zand en grint.
 
 ### HOOFDSTUK 8. Slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Onverminderd de bepalingen van artikel 22 van deze Overeenkomst onderzoekt het Comité van Ministers jaarlijks de afwijkingen, voorzien in deze Overeenkomst, teneinde een beslissing te nemen over de mogelijkheid van hun afschaffing.
 
-#### Artikel 37
+##### Artikel 37
 
 Het Comité van Ministers kan ingeval van gebleken noodzaak de in deze Overeenkomst voorziene tijdvakken met twee jaar verlengen.
 
@@ -712,11 +734,11 @@ De Hoge Verdragsluitende Partijen bij het heden ondertekende Verdrag tot instell
 
 **Hebben besloten** een Uitvoeringsprotocol te sluiten en zijn de volgende bepalingen overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Tot aan de inwerkingtreding van de overeenkomst, voorzien in artikel 1 van de Overgangsovereenkomst, bepalen het Vestigings- en Arbeidsverdrag tussen België en Nederland, ondertekend te Genève op 20 februari 1933, en het Vestigings- en Arbeidsverdrag tussen het Groothertogdom Luxemburg en Nederland, ondertekend te 's-Gravenhage op 1 april 1933, binnen de grenzen van hun toepassingsgebied de wijze van uitvoering van de artikelen 55 en 56 van het Unieverdrag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het op 6 juli 1956 te Brussel ondertekende [Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen](https://wetten.overheid.nl/jci1.3:c:BWBV0004734) bepaalt de wijze van uitvoering van de artikelen 62 en 63 van het Unieverdrag, alsmede van artikel 4 van de Overgangsovereenkomst.
 
@@ -724,7 +746,7 @@ Tot aan de inwerkingtreding van de overeenkomst, voorzien in artikel 1 van de Ov
 
 3. Het Comité van Ministers kan de bepalingen wijzigen van de artikelen 3, 4, leden A tot en met D, 5, 6, 7 en 8, vierde tot en met negende lid, van het in lid 1 van dit artikel genoemde [Protocol](https://wetten.overheid.nl/jci1.3:c:BWBV0004734).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het op 7 juni 1956 te 's-Gravenhage ondertekende [Arbeidsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004805) bepaalt de wijze van uitvoering van artikel 60 van het Unieverdrag wat betreft de behandeling van de onderdanen van de Hoge Verdragsluitende Partijen met betrekking tot het vervullen van een betrekking in loondienst bij een particuliere werkgever.
 
@@ -734,7 +756,7 @@ Tot aan de inwerkingtreding van de overeenkomst, voorzien in artikel 1 van de Ov
 
 4. De toepassing van het [Arbeidsverdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0004805) vormt geen belemmering voor de toepassing van de nationale economische voorschriften betreffende het beroep van handelsreiziger.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Wat betreft de aanspraken inzake sociale zekerheid genieten de onderdanen van ieder der Hoge Verdragsluitende Partijen de behandeling voorzien in de tussen de Hoge Verdragsluitende Partijen bestaande bilaterale overeenkomsten en in de multilaterale overeenkomsten waarbij Zij partij zijn.
 
@@ -744,29 +766,29 @@ Tot aan de inwerkingtreding van de overeenkomst, voorzien in artikel 1 van de Ov
 
 4. De bepalingen van de in lid 1 van dit artikel bedoelde bilaterale overeenkomsten betreffende de geschillen met betrekking tot de toepassing van die overeenkomsten worden gedurende de looptijd van het Unieverdrag vervangen door de bepalingen van Deel 2, Hoofdstuk 7, van dat Verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het in de artikelen 11 en 78 van het Unieverdrag bedoelde gemeenschappelijke tarief van invoerrechten is het tarief, met inbegrip van de Inleidende Bepalingen daarvan, dat de Hoge Verdragsluitende Partijen toepassen op het tijdstip van de inwerkingtreding van het Unieverdrag.
 
 2. De bevoegdheden welke de Inleidende Bepalingen van het in lid 1 van dit artikel bedoelde tarief toekennen aan de Administratieve Raad voor de Douaneregelingen worden uitgeoefend door de Commissie voor Douane en Belastingen, voorzien in artikel 28 van het Unieverdrag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het op 18 februari 1950 te 's-Gravenhage ondertekende [Verdrag tot unificatie van accijnzen en van het waarborgrecht](https://wetten.overheid.nl/jci1.3:c:BWBV0005676) en de aanvullende Protocollen bij dat Verdrag bepalen de wijze van uitvoering van de artikelen 11, 78 en 80 van het Unieverdrag.
 
 2. De bevoegdheden welke het in lid 1 van dit artikel bedoelde [Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005676) toekent aan de Administratieve Raad voor de Douaneregelingen worden uitgeoefend door de Commissie voor Douane en Belastingen, voorzien in artikel 28 van het Unieverdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Het Verdrag nopens wederkerige bijstand inzake de invordering van belastingschulden en het Verdrag nopens de samenwerking op het stuk van douanen en van accijnzen, ondertekend te Brussel op 5 september 1952, bepalen binnen de grenzen van hun gebied van toepassing de wijze van uitvoering van artikel 83 van het Unieverdrag.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het op 8 juli 1954 te Brussel ondertekende Accoord inzake de liberalisering van het kapitaalverkeer tussen de Belgisch-Luxemburgse Economische Unie en Nederland bepaalt de wijze van toepassing van artikel 4 van het Unieverdrag en van artikel 30 van de Overgangsovereenkomst.
 
 2. In artikel 10 van het in lid 1 van dit artikel bedoelde Accoord worden de woorden „Comité van Ministers, ingesteld bij artikel 12 van het Protocol betreffende de coördinatie van de economische en sociale politiek, ondertekend te 's-Gravenhage op 24 juli 1953”, vervangen door de woorden „Comité van Ministers, voorzien in artikel 15 van het Verdrag tot instelling van de Benelux Economische Unie”.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Met het oog op de uitvoering van de artikelen 2, 5, 6, 7, 85 en 87 van het Unieverdrag streven de Hoge Verdragsluitende Partijen naar harmonisatie van de wettelijke en uitvoerende bepalingen, alsmede van alle andere publiekrechtelijke voorschriften, betreffende het binnenlands vervoer per spoor, over de weg en per binnenschip.
 
@@ -784,7 +806,7 @@ Het Verdrag nopens wederkerige bijstand inzake de invordering van belastingschul
 
 6. Op het gebied van de luchtvaart passen de Hoge Verdragsluitende Partijen de bepalingen van artikel 9 van het Unieverdrag in het bijzonder toe op de technische vraagstukken welke in het kader van internationale burgerluchtvaartorganisaties het onderwerp van onderzoek of besprekingen uitmaken. Op verzoek van een hunner onderzoeken zij de mogelijkheid en de wenselijkheid deze coördinatie van het beleid uit te strekken tot andere vraagstukken en meer in het bijzonder tot hun betrekkingen met derde landen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Met het oog op de uitvoering van de artikelen 6 en 7 van het Unieverdrag verbindt iedere Hoge Verdragsluitende Partij zich de andere Hoge Verdragsluitende Partijen te raadplegen, alvorens een beslissing te nemen over de maatregelen welke de publiekrechtelijke bedrijfsorganisaties aan haar goedkeuring dienen voor te leggen en welke bovendien voor een andere Verdragsluitende Partij van wezenlijk belang zijn.
 
@@ -794,7 +816,7 @@ Het Verdrag nopens wederkerige bijstand inzake de invordering van belastingschul
 
 4. De procedure van voorafgaand overleg, voorzien in lid 1 van dit artikel, is niet van toepassing indien dwingende overwegingen van tijd of markttechniek zich daartegen verzetten. In dat geval is de procedure van lid 3 van dit artikel van toepassing. De betrokken Hoge Verdragsluitende Partij stelt in dit geval de andere Verdragsluitende Partijen in kennis van de dwingende overwegingen waarop zij beroep doet.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Met het oog op de uitvoering van artikel 8 van het Unieverdrag neemt een Hoge Verdragsluitende Partij, indien haar door een andere Verdragsluitende Partij wordt verzocht maatregelen te nemen tegen een misbruik van economische macht, voortvloeiend uit een privaatrechtelijke overeenkomst of afspraak inzake economische samenwerking of uit een marktbeheersende positie van één of meer ondernemingen, slechts na voorafgaande raadpleging van de andere Verdragsluitende Partijen een beslissing; hetzelfde is het geval indien één van de Hoge Verdragsluitende Partijen overweegt tegen dergelijke misbruiken maatregelen te treffen welke voor een andere Verdragsluitende Partij van wezenlijk belang zijn.
 
@@ -806,7 +828,7 @@ Het Verdrag nopens wederkerige bijstand inzake de invordering van belastingschul
 
 5. De bepalingen van de leden 1 tot en met 4 van dit artikel worden toegepast naarmate in de drie landen wetgevingen in werking treden welke het de Hoge Verdragsluitende Partijen mogelijk maken gecoördineerde maatregelen te nemen. Deze bepaling doet geen afbreuk aan de verplichtingen welke de Hoge Verdragsluitende Partijen in artikel 8 van het Unieverdrag op zich hebben genomen en zij verzet zich niet tegen het optreden van het Comité van Ministers binnen zijn bevoegdheid teneinde de uitvoering van die verplichtingen te verzekeren.
 
-#### Artikel 12
+##### Artikel 12
 
 Met ingang van de inwerkingtreding van het Unieverdrag zijn afgeschaft:
 
@@ -866,11 +888,11 @@ Met ingang van de inwerkingtreding van het Unieverdrag zijn afgeschaft:
 
 - 28). het Interim-Arbeidsakkoord, ondertekend te Brussel op 20 maart 1957.
 
-#### Artikel 13
+##### Artikel 13
 
 Na afloop van het tijdvak, voorzien in artikel 4 van de Overgangsovereenkomst, worden afgeschaft de [artikelen 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004734&artikel=9) en [10 van het Protocol betreffende de nationale behandeling bij de aanbesteding van werken en de aankoop van goederen](https://wetten.overheid.nl/jci1.3:c:BWBV0004734&artikel=10), ondertekend te Brussel op 6 juli 1956.
 
-#### Artikel 14
+##### Artikel 14
 
 Gedurende de looptijd van het Unieverdrag worden geschorst:
 
@@ -926,218 +948,218 @@ GEDAAN te 's-Gravenhage, 3 februari 1958, in drievoud in de Nederlandse en in de
 
 ### HOOFDSTUK 1. Van de nationale behandeling, de bewegingsvrijheid en de uitoefening van economische en beroepswerkzaamheden
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
 ### HOOFDSTUK 2. Van het handelsverkeer tussen de grondgebieden van de Hoge Verdragsluitende Partijen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
 ### HOOFDSTUK 3. Van de landbouw
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
-#### Artikel 15
+##### Artikel 15
 
 Vervallen
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Vervallen
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
 ### HOOFDSTUK 4. Van de economische en financiële betrekkingen met het buitenland
 
-#### Artikel 26
+##### Artikel 26
 
 Vervallen
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
-#### Artikel 28
+##### Artikel 28
 
 Vervallen
 
-#### Artikel 29
+##### Artikel 29
 
 Vervallen
 
 ### HOOFDSTUK 5. Van het betalingsverkeer
 
-#### Artikel 30
+##### Artikel 30
 
 Vervallen
 
-#### Artikel 31
+##### Artikel 31
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Vervallen
 
-#### Artikel 33
+##### Artikel 33
 
 Vervallen
 
 ### HOOFDSTUK 7. Van het vervoerswezen
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 Vervallen
 
 ### HOOFDSTUK 8. Slotbepalingen
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 Vervallen
 
-#### Artikel 1
+##### Artikel 1
 
 Vervallen
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen

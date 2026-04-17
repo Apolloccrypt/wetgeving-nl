@@ -1,20 +1,46 @@
 ---
-title: "Besluit bekendmaking demografisch bereik vergunningen voor niet-landelijke commerciële radio inzake verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01 t/m B54"
+title: "Kennisgeving van de Minister van Economische Zaken en Klimaat van 4 april 2022, nr. DE/ 22138904, inzake de bekendmaking van het demografisch bereik van vergunningen voor niet-landelijke commerciële radio ten behoeve van de verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01 t/m B54"
 identifier: "BWBR0046519"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-04-06
-laatste_update: 2022-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046519"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2022-04-06"
+last_updated: "2022-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046519"
+soort: "ministeriele-regeling"
+stam_id: "16319853"
+version_id: "28528672"
+internal_id: "C40252941"
+label_id: "16244784"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046519/2022-04-06/0"
+intitule_bron: "Stcrt.2022-9461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-04"
+intitule_published: "2022-04-05"
+intitule_in_force: "2022-04-05"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9461"
+original_signed_date: "2022-04-04"
+original_published_date: "2022-04-05"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9461"
+entry_into_force_date: "2022-04-06"
+jci_1_3: "jci1.3:c:BWBR0046519&z=2022-04-06&g=2022-04-06"
+jci_1_0: "1.0:c:BWBR0046519&g=2022-04-06"
+citeertitel_status: "redactioneel"
+short_title: "Besluit bekendmaking demografisch bereik vergunningen voor niet-landelijke commerciële radio inzake verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01 t/m B54"
+signed_date: "2022-04-04"
+entry_into_force: "2022-04-06"
 ---
-
 # Kennisgeving van de Minister van Economische Zaken en Klimaat van 4 april 2022, nr. DE/ 22138904, inzake de bekendmaking van het demografisch bereik van vergunningen voor niet-landelijke commerciële radio ten behoeve van de verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01 t/m B54
 
 Gelet op [artikel 1, onderdeel e, van de Regeling voorwaardelijke veiling niet-landelijke commerciële vergunningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&artikel=1);
 
 Maakt bekend:
 
-#### Artikel 1
+##### Artikel 1
 
 Het demografisch bereik van de vergunningen voor niet-landelijke commerciële radio bedraagt het bij de betrokken kavel bepaalde percentage in onderstaande tabel. Van deze percentages dient te worden uitgegaan ter bepaling van de beschikbare demografische ruimte, bedoeld in [artikel 1, onderdeel e, van de Regeling voorwaardelijke veiling niet-landelijke commerciële vergunningen](https://wetten.overheid.nl/jci1.3:c:BWBR0044725&artikel=1), bij het indienen van een aanvraag om in aanmerking te komen voor de verdeling van vergunningen voor niet-landelijke commerciële radio-omroep kavels B01, B03, B04, B06 t/m B26, B35 en B37.
 
@@ -75,6 +101,6 @@ Het demografisch bereik van de vergunningen voor niet-landelijke commerciële ra
 | **B53** | 0,0049% |
 | **B54** | 0,049% |
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking op de dag na datum van uitgifte van de Staatscourant waarin het wordt geplaatst.

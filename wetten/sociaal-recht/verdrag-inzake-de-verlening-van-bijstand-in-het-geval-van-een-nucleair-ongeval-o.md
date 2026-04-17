@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake de verlening van bijstand in het geval van een nucleair ongeval of een calamiteit met radioactieve stoffen"
 identifier: "BWBV0002141"
-categorie: "Sociaal recht"
-publicatiedatum: 1991-10-24
-laatste_update: 1991-10-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002141"
+country: "nl"
+rank: "verdrag"
+publication_date: "1991-10-24"
+last_updated: "1991-10-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002141"
+soort: "verdrag"
+stam_id: "10002674273"
+version_id: "10002672442"
+internal_id: "C10006979141"
+label_id: "10002662634"
+dtd_version: "2.0"
+original_entry_into_force: "1991-10-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002141/1991-10-24/0"
+intitule_bron: "Trb.1986-126"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1986-09-26"
+intitule_published: "1986-10-21"
+intitule_in_force: "1991-10-16"
+intitule_status: "goed"
+original_publication: "Trb.1986-126"
+original_signed_date: "1986-09-26"
+original_published_date: "1986-10-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1986-126"
+entry_into_force_date: "1991-10-24"
+jci_1_3: "jci1.3:c:BWBV0002141&z=1991-10-24&g=1991-10-24"
+jci_1_0: "1.0:c:BWBV0002141&g=1991-10-24"
+citeertitel_status: "officieel"
+signed_date: "1986-09-26"
+entry_into_force: "1991-10-24"
 ---
-
 # Verdrag inzake de verlening van bijstand in het geval van een nucleair ongeval of een calamiteit met radioactieve stoffen
 
 De Staten die Partij bij dit Verdrag zijn,
@@ -26,7 +51,7 @@ Gezien de werkzaamheden van de Internationale Organisatie voor Atoomenergie bij 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1. De Staten die Partij bij dit Verdrag zijn, werken onderling samen en met de Internationale Organisatie voor Atoomenergie (hierna te noemen: de „Organisatie”) in overeenstemming met de bepalingen van dit Verdrag om de onmiddellijke verlening van bijstand in geval van een nucleair ongeval of een calamiteit met radioactieve stoffen te vergemakkelijken, ten einde de gevolgen daarvan zoveel mogelijk te verzachten en leven, goederen en het milieu te beschermen tegen de gevolgen van vrijgekomen radioactieve stoffen.
 
@@ -34,7 +59,7 @@ Zijn als volgt overeengekomen:
 
 3. De Staten die Partij bij dit Verdrag zijn, verzoeken de Organisatie, die handelt binnen het kader van haar [Statuut](https://wetten.overheid.nl/jci1.3:c:BWBV0004777), overeenkomstig de bepalingen van dit Verdrag alles in het werk te stellen om de in dit Verdrag voorziene samenwerking tussen de Staten die Partij bij dit Verdrag zijn, te bevorderen, te vergemakkelijken en te steunen.
 
-#### Artikel 2. Verlening van bijstand
+##### Artikel 2. Verlening van bijstand
 
 1. Indien een Staat die Partij bij dit Verdrag is, bijstand nodig heeft in het geval van een nucleair ongeval of een calamiteit met radioactieve stoffen, ongeacht of dit ongeval of deze calamiteit binnen haar grondgebied, onder haar rechtsmacht of toezicht is ontstaan, kan deze Staat om deze bijstand verzoeken aan iedere andere Staat die Partij bij dit Verdrag is, rechtstreeks of door tussenkomst van de Organisatie, en aan de Organisatie, of, waar nodig, aan andere internationale intergouvernementele organisaties (hierna te noemen: „internationale organisaties).
 
@@ -54,7 +79,7 @@ Zijn als volgt overeengekomen:
 
 - c). indien de verzoekende Staat zulks vraagt, de aldus beschikbaar komende bijstand op internationaal niveau te coördineren.
 
-#### Artikel 3. Leiding van en toezicht op de bijstand
+##### Artikel 3. Leiding van en toezicht op de bijstand
 
 Tenzij anders overeengekomen:
 
@@ -66,7 +91,7 @@ Tenzij anders overeengekomen:
 
 - d). coördineert een Staat die Partij bij dit Verdrag is en bijstand verleent ingevolge een verzoek krachtens het bepaalde in het vijfde lid van artikel 2, deze bijstand binnen zijn grondgebied.
 
-#### Artikel 4. Bevoegde autoriteiten en contactpunten
+##### Artikel 4. Bevoegde autoriteiten en contactpunten
 
 1. Elke Staat die Partij bij dit Verdrag is, stelt de Organisatie en de overige Staten die Partij bij dit Verdrag zijn rechtstreeks of door tussenkomst van de Organisatie in kennis van zijn bevoegde autoriteiten en het contactpunt dat gemachtigd is verzoeken om bijstand te doen en te ontvangen en aanbiedingen van bijstand te aanvaarden. Deze contactpunten, alsmede een centraal punt binnen de Organisatie, dienen permanent bereikbaar te zijn.
 
@@ -74,7 +99,7 @@ Tenzij anders overeengekomen:
 
 3. De Organisatie zendt de in het eerste en het tweede lid bedoelde gegevens periodiek en onverwijld toe aan de Staten die Partij bij dit Verdrag zijn, de Lidstaten en de relevante internationale organisaties.
 
-#### Artikel 5. Taken van de Organisatie
+##### Artikel 5. Taken van de Organisatie
 
 De Staten die Partij bij dit Verdrag zijn, verzoeken de Organisatie overeenkomstig het bepaalde in het derde lid van artikel 1 en behoudens de overige bepalingen van dit Verdrag, om
 
@@ -102,13 +127,13 @@ De Staten die Partij bij dit Verdrag zijn, verzoeken de Organisatie overeenkomst
 
 - e). contacten te leggen en te onderhouden met de relevante internationale organisaties voor het verkrijgen en uitwisselen van relevante informatie en gegevens, en een lijst van deze organisaties op te stellen en ter beschikking te stellen van de Staten die Partij bij dit Verdrag zijn, de Lidstaten en de eerdergenoemde organisaties.
 
-#### Artikel 6. Vertrouwelijkheid en publieke bekendmaking
+##### Artikel 6. Vertrouwelijkheid en publieke bekendmaking
 
 1. De verzoekende Staat en de bijstandsverlenende partij beschermen het vertrouwelijke karakter van alle vertrouwelijke informatie die elk van hen ter beschikking wordt gesteld in verband met de bijstandverlening in geval van een nucleair ongeval of een calamiteit met radioactieve stoffen. Deze informatie dient uitsluitend te worden gebruikt voor het doel van de overeengekomen bijstand.
 
 2. De bijstandverlenende partij stelt alles in het werk om samen te werken met de verzoekende Staat alvorens informatie vrij te geven voor het publiek met betrekking tot de bijstand die is verleend in geval van een nucleair ongeval of een calamiteit met radioactieve stoffen.
 
-#### Artikel 7. Vergoeding van de kosten
+##### Artikel 7. Vergoeding van de kosten
 
 1. Een bijstandverlenende partij kan kosteloze bijstand aanbieden aan de verzoekende Staat. Bij het overwegen van de vraag of bijstand op deze grondslag moet worden verleend, houdt de bijstandverlenende partij rekening met:
 
@@ -126,7 +151,7 @@ De Staten die Partij bij dit Verdrag zijn, verzoeken de Organisatie overeenkomst
 
 3. Niettegenstaande het bepaalde in het tweede lid kan de bijstandverlenende partij te allen tijde afzien van, of toestemmen in uitstel van betaling van, de gehele vergoeding of een gedeelte daarvan. Bij het overnemen van de vraag of van deze vergoeding moet worden afgezien of uitstel van betaling moet worden verleend, houden de bijstandverlenende partijen terdege rekening met de behoeften van de ontwikkelingslanden.
 
-#### Artikel 8. Voorrechten, immuniteiten en faciliteiten
+##### Artikel 8. Voorrechten, immuniteiten en faciliteiten
 
 1. De verzoekende Staat verleent de leden van het personeel van de bijstandverlenende partij en de leden van het personeel dat namens die partij optreedt, de noodzakelijke voorrechten, immuniteiten en faciliteiten voor het uitvoeren van hun taken in verband met de bijstandverlening.
 
@@ -156,11 +181,11 @@ De Staten die Partij bij dit Verdrag zijn, verzoeken de Organisatie overeenkomst
 
 10. Een Staat die Partij bij dit Verdrag is en een verklaring heeft afgegeven overeenkomstig het bepaalde in het negende lid, kan te allen tijde deze verklaring herroepen door middel van een kennisgeving aan de depositaris.
 
-#### Artikel 9. Doorgang van personeel, uitrusting en goederen
+##### Artikel 9. Doorgang van personeel, uitrusting en goederen
 
 Op verzoek van de verzoekende Staat of de bijstandverlenende partij tracht elke Staat die Partij bij dit Verdrag is, de doorgang over zijn grondgebied van naar behoren aangemelde leden van het personeel, uitrusting en goederen, betrokken bij de bijstandverlening, naar en vanuit de verzoekende Staat te vergemakkelijken.
 
-#### Artikel 10. Vorderingen en schadeloosstelling
+##### Artikel 10. Vorderingen en schadeloosstelling
 
 1. De Staten die Partij bij dit Verdrag zijn, werken nauw samen om de afdoening van gerechtelijke procedures en vorderingen krachtens het bepaalde in dit artikel te vergemakkelijken.
 
@@ -192,15 +217,15 @@ behalve indien er sprake is van opzettelijk onjuist handelen van de personen die
 
 6. Een Staat die Partij bij dit Verdrag is en een verklaring heeft afgegeven overeenkomstig het bepaalde in het vijfde lid, kan deze te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
 
-#### Artikel 11. Beëindiging van de bijstand
+##### Artikel 11. Beëindiging van de bijstand
 
 De verzoekende Staat of de bijstandverlenende partij kan te allen tijde, na passend overleg en door middel van een schriftelijke kennisgeving, verzoeken de krachtens dit Verdrag ontvangen bijstand te beëindigen onderscheidenlijk de verleende bijstand te mogen beëindigen. Zodra dit verzoek is gedaan, plegen de betrokken partijen overleg met elkaar om regelingen te treffen voor de passende beëindiging van de bijstand.
 
-#### Artikel 12. Verhouding tot andere internationale overeenkomsten
+##### Artikel 12. Verhouding tot andere internationale overeenkomsten
 
 Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit Verdrag zijnde Staten krachtens bestaande internationale overeenkomsten die betrekking hebben op de in dit Verdrag voorziene aangelegenheden, of krachtens toekomstige internationale overeenkomsten die worden gesloten in overeenstemming met het onderwerp en het doel van dit Verdrag, niet aan.
 
-#### Artikel 13. Regeling van geschillen
+##### Artikel 13. Regeling van geschillen
 
 1. Ingeval zich een geschil voordoet tussen Staten die Partij bij dit Verdrag zijn, of tussen een Staat die Partij bij dit Verdrag is, en de Organisatie betreffende de uitlegging of de toepassing van dit Verdrag, plegen de partijen bij het geschil overleg, ten einde het geschil te regelen door middel van onderhandeling of door enig ander vreedzaam middel voor de regeling van geschillen dat voor hen aanvaardbaar is.
 
@@ -210,7 +235,7 @@ Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit 
 
 4. Een Staat die Partij bij dit Verdrag is en een verklaring heeft afgegeven overeenkomstig het bepaalde in het derde lid, kan deze te allen tijde intrekken door middel van een kennisgeving aan de depositaris.
 
-#### Artikel 14. Inwerkingtreding
+##### Artikel 14. Inwerkingtreding
 
 1. Dit Verdrag staat open voor ondertekening door alle Staten en door Namibië, vertegenwoordigd door de Raad voor Namibië van de Verenigde Naties, op de Zetel van de Internationale Organisatie voor Atoomenergie te Wenen, alsmede op de Zetel van de Verenigde Naties te New York, met ingang van 26 september 1986 onderscheidenlijk 6 oktober 1986 tot aan de inwerkingtreding ervan of gedurende twaalf maanden, welk van deze tijdvakken het langst is.
 
@@ -228,11 +253,11 @@ Dit Verdrag tast de wederzijdse rechten en verplichtingen van de Partij bij dit 
 
 - d). Een dergelijke organisatie heeft geen aanvullende stem bij de stemmen van haar Lidstaten.
 
-#### Artikel 15. Voorlopige toepassing
+##### Artikel 15. Voorlopige toepassing
 
 Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag voor deze Staat in werking treedt, verklaren dit Verdrag voorlopig toe te passen.
 
-#### Artikel 16. Wijzigingen
+##### Artikel 16. Wijzigingen
 
 1. Een Staat die Partij bij dit Verdrag is, kan voorstellen tot wijziging van dit Verdrag doen. De voorgestelde wijziging wordt voorgelegd aan de depositaris, die deze onmiddellijk toezendt aan alle overige Staten die Partij bij dit Verdrag zijn.
 
@@ -240,13 +265,13 @@ Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag vo
 
 3. Het protocol treedt in werking dertig dagen nadat drie Staten hun instemming door dit protocol gebonden te worden tot uitdrukking hebben gebracht. Voor elke Staat die na de inwerkingtreding van het protocol zijn instemming door dit protocol gebonden te worden tot uitdrukking brengt, treedt het protocol in werking dertig dagen na de datum waarop zijn instemming tot uitdrukking is gebracht.
 
-#### Artikel 17. Opzegging
+##### Artikel 17. Opzegging
 
 1. Een Staat die Partij bij dit Verdrag is, kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de depositaris.
 
 2. De opzegging wordt van kracht één jaar na de datum waarop de kennisgeving door de depositaris is ontvangen.
 
-#### Artikel 18. Depositaris
+##### Artikel 18. Depositaris
 
 1. De Directeur-Generaal van de Organisatie is de depositaris van dit Verdrag.
 
@@ -264,7 +289,7 @@ Een Staat kan, bij ondertekening of op een later tijdstip voordat dit Verdrag vo
 
 - f). een opzegging, geschied krachtens het bepaalde in artikel 17.
 
-#### Artikel 19. Authentieke teksten en gewaarmerkte afschriften
+##### Artikel 19. Authentieke teksten en gewaarmerkte afschriften
 
 Het origineel van dit Verdrag, waarvan de Arabische, de Chinese, de Engelse, de Franse, de Russische en de Spaanse tekst gelijkelijk authentiek zijn, wordt nedergelegd bij de Directeur-Generaal van de Internationale Organisatie voor Atoomenergie, die een gewaarmerkt afschrift toezendt aan alle Staten die Partij bij dit Verdrag zijn, en aan alle overige Staten.
 

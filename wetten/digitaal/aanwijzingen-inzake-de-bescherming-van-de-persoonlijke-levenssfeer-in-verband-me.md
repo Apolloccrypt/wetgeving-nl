@@ -1,13 +1,37 @@
 ---
 title: "Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid"
 identifier: "BWBR0002958"
-categorie: "Digitaal en privacy"
-publicatiedatum: 1975-04-01
-laatste_update: 1975-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002958"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1975-04-01"
+last_updated: "1975-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002958"
+soort: "ministeriele-regeling"
+stam_id: "4675653"
+version_id: "6491932"
+internal_id: "C6740261"
+label_id: "4653904"
+dtd_version: "2.0"
+original_entry_into_force: "1975-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002958/1975-04-01/0"
+intitule_bron: "Stcrt.1975-50"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1975-03-07"
+intitule_published: "1975-03-12"
+intitule_in_force: "1975-03-12"
+intitule_status: "goed"
+original_publication: "Stcrt.1975-50"
+original_signed_date: "1975-03-07"
+original_published_date: "1975-03-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1975-04-01"
+jci_1_3: "jci1.3:c:BWBR0002958&z=1975-04-01&g=1975-04-01"
+jci_1_0: "1.0:c:BWBR0002958&g=1975-04-01"
+citeertitel_status: "officieel"
+signed_date: "1975-03-07"
+entry_into_force: "1975-04-01"
 ---
-
 # Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer in verband met geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen bij de Rijksoverheid
 
 Handelende in overeenstemming met het gevoelen van de Raad van Ministers.
@@ -18,7 +42,7 @@ tot het vaststellen van de hier bijgevoegde Aanwijzingen inzake de bescherming v
 
 ## Aanwijzingen inzake de bescherming van de persoonlijke levenssfeer
 
-#### **Inleiding**
+##### **Inleiding**
 
 De onderhavige aanwijzingen strekken ertoe voor de gehele rijksdienst richtlijnen te stellen waarmee bij de inrichting, het beheer en het gebruik van geautomatiseerde systemen, waarin persoonsgegevens zijn opgenomen, rkening dient te worden gehouden. Deze richtlijnen hebben vooral ten doel te verzekeren dat met betrekking tot de werking van die systemen voldoende waarborgen bestaan voor de bescherming van de persoonlijke levenssfeer.
 
@@ -44,7 +68,7 @@ Waarborgen met betrekking tot de activiteiten van deze diensten worden op andere
 
 ### I. **Aanwijzingen**
 
-#### A. **Algemeen**
+##### A. **Algemeen**
 
 1. Een geautomatiseerde registratie waarin persoonsgegevens zijn opgenomen treedt eerst in werking nadat daarvoor een regeling is vastgesteld. Het bevoegd gezag draagt hiervoor zorg.
 
@@ -74,7 +98,7 @@ Van medische, psychologische of andere gegevens waarvan rechtstreeks kennisnemin
 
 Deze voorzieningen betreffen in elk geval de onderwerpen hierna te noemen in paragraaf C.
 
-#### B. **Inhoud van de regelingen**
+##### B. **Inhoud van de regelingen**
 
 9. De regeling bevat een nauwkeurige omschrijving van de doelstelling van de registratie.
 
@@ -98,7 +122,7 @@ Tenzij de regeling anders bepaalt vindt kennisgeving plaats door het verstrekken
 
 In de gevallen bedoeld in het eerste lid geeft de regeling aan op welke wijze belanghebbenden het daar bedoelde toezicht kunnen inroepen.
 
-#### C. **Organisatie en beveiliging**
+##### C. **Organisatie en beveiliging**
 
 17. Ter bescherming van de gegevens tegen verlies of beschadiging door brand, water, straling of luchtverontreiniging en andere calamiteiten zijn de nodige voorzieningen aanwezig.
 
@@ -168,7 +192,7 @@ Deze voorzieningen zijn met name erop gericht, dat een derde niet meer of andere
 
 24. Op de deugdelijkheid en naleving van alle ter bescherming van de gegevens getroffen voorzieningen vindt een periodieke controle plaats.
 
-#### D. Slot
+##### D. Slot
 
 25. Op geautomatiseerde registraties welke op 1 januari 1975 reeds in werking zijn, zijn de bovenstaande aanwijzingen van toepassing met dien verstande dat een regeling als bedoeld in aanwijzing 1 uiterlijk op 1 januari 1976 dient te zijn vastgesteld.
 
@@ -176,7 +200,7 @@ Deze voorzieningen zijn met name erop gericht, dat een derde niet meer of andere
 
 ### II. **Toelichting op de aanwijzingen**
 
-#### A. Algemeen
+##### A. Algemeen
 
 1. De onderhavige aanwijzingen hebben betrekking op geautomatiseerde systemen waarin persoonsgegevens zijn opgenomen. Daarvan gaat deze aanwijzing dan ook uit. Om redenen van duidelijkheid, met name omdat verkorte aanhalingen in het vervolg dan begrijpelijker zijn, is echter de term "registratie" gebruikt.
 
@@ -264,7 +288,7 @@ Het voorgaande betekent dat de omvang van de protocolplicht uit de verschillende
 
 Voor een belangrijk deel hebben de onderhavige voorzieningen kort gezegd ten doel te verzekeren dat de regeling kan worden nageleefd. In de meeste gevallen verdient het echter geen aanbeveling beveilingsmaatregelen in de regeling zelf op te nemen. Ook daarom is tussen paragraaf B en C onderscheiden.
 
-#### B. Inhoud van de regelingen
+##### B. Inhoud van de regelingen
 
 9. Na hetgeen over de betekenis van de doelstelling is opgemerkt in de toelichting bij aanwijzing 3 kan hier met een enkel woord worden volstaan. Men dient te streven naar een beknopte en duidelijke omschrijving, waaruit de strekking van de registratie eenvoudig valt af te leiden. Zo mogelijk vermeldt de regeling ook een benaming. In dit verband is het van belang erop te wijzen, dat het soms voorkomt dat gegevens in de registratie worden opgenomen uitsluitend met het doel ze te kunnen doorgeven aan een instantie als bijvoorbeeld het Centraal Bureau voor de Statistiek. Een dergelijk nevendoel dient uiteraard ook te worden vermeld.
 
@@ -318,7 +342,7 @@ Het tweede lid is erop gericht te verzekeren dat een verkregen correctie ook bin
 
 Of voor de instelling van een dergelijke commissie aanleiding bestaat hangt uiteraard van de aard van de registratie af. Met name voor de gevallen waar kennisneming door de betrokkenen niet tot de mogelijkheden behoort zal aan een zeker institutioneel toezicht behoefte kunnen bestaan. Dit toezicht laat uiteraard de verantwoordelijkheid van de houder voor de werking van de registratie onverlet. Het is duidelijk dat de bevoegdheden en de werkwijze van de bedoelde instantie in de regeling aan de orde moeten komen. Denkbaar is intussen dat voor de regeling van het toezicht aansluiting bij reeds bestaande instanties mogelijk is.
 
-#### C. Organisatie en beveiliging
+##### C. Organisatie en beveiliging
 
 De aanwijzingen in deze paragraaf hebben betrekking op de technische en organisatorische voorzieningen die de bescherming van de persoonlijke levenssfeer ook metterdaad mogelijk moeten maken. Aangezien de inhoud van deze aanwijzingen voor deskundigen op het gebied van de organisatie en beveiliging van geautomatiseerde systemen weinig toelichting zal behoeven, kan hier met enkele algemene opmerkingen worden volstaan.
 
@@ -332,6 +356,6 @@ Het spreekt vanzelf na het vorenstaande dat met name computercentra binnen de ov
 
 Tenslotte dient te worden opgemerkt dat de daadwerkelijke bescherming van de persoonlijke levenssfeer niet alleen een zaak is van voldoende technische en organisatorische voorzieningen, hoezeer deze ook noodzakelijk zijn. De Staatscommissie-Koopmans heeft er terecht op gewezen (interim-rapport, blz. 18), dat alle betrokkenen zelf doordrongen moeten zijn van het besef dat het privacy-aspect in de opzet en het functioneren van registratiesystemen verdisconteerd behoort te zijn.
 
-#### D. Slot
+##### D. Slot
 
 Op de aanwijzingen in deze paragraaf bevat de inleiding reeds alle nodige toelichting.

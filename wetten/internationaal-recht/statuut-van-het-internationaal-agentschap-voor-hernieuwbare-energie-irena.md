@@ -1,13 +1,35 @@
 ---
 title: "Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA)"
 identifier: "BWBV0003141"
-categorie: "Internationaal recht"
-publicatiedatum: 2011-01-12
-laatste_update: 2011-01-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003141"
+country: "nl"
+rank: "verdrag"
+publication_date: "2011-01-12"
+last_updated: "2011-01-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003141"
+soort: "verdrag"
+stam_id: "10003355223"
+version_id: "10003391352"
+internal_id: "C10006998451"
+label_id: "10003340954"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003141/2011-01-12/0"
+intitule_bron: "Trb.2009-49"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-04-03"
+intitule_in_force: "2011-02-17"
+intitule_status: "goed"
+original_publication: "Trb.2009-49"
+original_published_date: "2009-04-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-49"
+entry_into_force_date: "2011-01-12"
+jci_1_3: "jci1.3:c:BWBV0003141&z=2011-01-12&g=2011-01-12"
+jci_1_0: "1.0:c:BWBV0003141&g=2011-01-12"
+citeertitel_status: "redactioneel"
+entry_into_force: "2011-01-12"
 ---
-
 # Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA)
 
 De partijen bij dit Statuut,
@@ -30,13 +52,13 @@ de wens bevestigend een internationale organisatie voor hernieuwbare energie op 
 
 zijn het volgende overeengekomen:
 
-#### Artikel I. Oprichting van het Agentschap
+##### Artikel I. Oprichting van het Agentschap
 
 A. De partijen bij dit Statuut richten hierbij het Internationaal Agentschap voor hernieuwbare energie op (hierna te noemen „het Agentschap”) in overeenstemming met de volgende voorwaarden en bepalingen.
 
 B. Het Agentschap is gebaseerd op het beginsel van gelijkheid van al zijn leden en neemt bij de uitvoering van zijn werkzaamheden de soevereine rechten en bevoegdheden van zijn leden zorgvuldig in acht.
 
-#### Artikel II. Doelstellingen
+##### Artikel II. Doelstellingen
 
 Het Agentschap bevordert de grootschalige en verdere invoering en het duurzame gebruik van alle vormen van hernieuwbare energie, en houdt daarbij rekening met:
 
@@ -44,7 +66,7 @@ Het Agentschap bevordert de grootschalige en verdere invoering en het duurzame g
 
 - b. de bijdrage die hernieuwbare energie levert aan milieubehoud, door vermindering van de druk op natuurlijke hulpbronnen en het terugdringen van ontbossing, met name de ontbossing in de tropen, woestijnvorming en het verlies van biodiversiteit, aan klimaatbescherming, aan economische groei en sociale cohesie met inbegrip van armoedebestrijding en duurzame ontwikkeling, aan toegang tot en zekerheid van energievoorziening, aan regionale ontwikkeling en aan de verantwoordelijkheid die de generaties jegens elkaar hebben.
 
-#### Artikel III. Begripsomschrijving
+##### Artikel III. Begripsomschrijving
 
 Onder „hernieuwbare energie” worden in dit Statuut verstaan alle vormen van energie die op duurzame wijze worden opgewekt uit hernieuwbare bronnen, waaronder:
 
@@ -60,7 +82,7 @@ Onder „hernieuwbare energie” worden in dit Statuut verstaan alle vormen van 
 
 - 6. windenergie.
 
-#### Artikel IV. Werkzaamheden
+##### Artikel IV. Werkzaamheden
 
 A. Als kenniscentrum op het gebied van technologie voor hernieuwbare energie en als facilitator en katalysator, waarbij ervaring ter beschikking wordt gesteld ten behoeve van praktische toepassingen en beleid, ondersteuning wordt geboden bij alle aangelegenheden die betrekking hebben op hernieuwbare energie en landen hulp wordt geboden om profijt te trekken uit de doelmatige ontwikkeling en overdracht van kennis en technologie, voert het Agentschap de volgende werkzaamheden uit:
 
@@ -100,13 +122,13 @@ C. Het Agentschap:
 
 - 3. stelt zijn leden in kennis van de raadpleging van en samenwerking met bestaande internationale organisaties die op dit terrein werkzaam zijn en van het door hen uitgevoerde werk.
 
-#### Artikel V. Werkprogramma en projecten
+##### Artikel V. Werkprogramma en projecten
 
 A. Het Agentschap verricht zijn werkzaamheden op basis van het jaarlijkse werkprogramma dat door het Secretariaat wordt opgesteld, door de Raad wordt bestudeerd en door de Vergadering wordt aangenomen.
 
 B. Het Agentschap kan, naast zijn werkprogramma, na raadpleging van zijn leden en, in geval van onenigheid, na goedkeuring door de Vergadering, projecten uitvoeren die door leden worden geïnitieerd en gefinancierd, onder voorbehoud van de beschikbaarheid van niet-financiële middelen van het Agentschap.
 
-#### Artikel VI. Lidmaatschap
+##### Artikel VI. Lidmaatschap
 
 A. Het lidmaatschap staat open voor de staten die lid zijn van de Verenigde Naties en voor regionale intergouvernementele organisaties voor economische integratie die bereid zijn en in staat zijn te handelen in overeenstemming met de in dit Statuut vervatte doelstellingen en werkzaamheden. Om in aanmerking te komen voor het lidmaatschap van het Agentschap dient een regionale intergouvernementele organisatie voor economische integratie te zijn opgericht door soevereine staten, waarvan er ten minste een lid is van het Agentschap, en dienen haar lidstaten er bevoegdheden aan te hebben overgedragen ter zake van ten minste een van de aangelegenheden binnen het kader van het Agentschap.
 
@@ -118,7 +140,7 @@ B. Dergelijke staten en regionale intergouvernementele organisaties voor economi
 
 C. In het geval van een regionale intergouvernementele organisatie voor economische integratie beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen uit hoofde van dit Statuut. De organisatie en haar lidstaten zijn niet gerechtigd gelijktijdig de uit dit Statuut voortvloeiende rechten, met inbegrip van stemrechten, uit te oefenen. In hun akten van bekrachtiging of toetreding geven de bovenbedoelde organisaties de reikwijdte van hun bevoegdheden ter zake van door dit Statuut geregelde aangelegenheden aan. Deze organisaties doen de regering die depositaris is tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden. Bij een stemming over aangelegenheden die binnen hun bevoegdheden liggen, stemmen de regionale intergouvernementele organisaties voor economische integratie met het aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun lidstaten die tevens lid van dit Agentschap zijn.
 
-#### Artikel VII. Waarnemers
+##### Artikel VII. Waarnemers
 
 A. De Vergadering kan de status van waarnemer toekennen aan:
 
@@ -130,7 +152,7 @@ A. De Vergadering kan de status van waarnemer toekennen aan:
 
 B. Waarnemers kunnen zonder stemrecht deelnemen aan de openbare zittingen van de Vergadering en haar hulporganen.
 
-#### Artikel VIII. Organen
+##### Artikel VIII. Organen
 
 A. Hierbij worden als de hoofdorganen van het Agentschap ingesteld:
 
@@ -142,7 +164,7 @@ A. Hierbij worden als de hoofdorganen van het Agentschap ingesteld:
 
 B. De Vergadering en de Raad kunnen, op voorwaarde van goedkeuring door de Vergadering, de hulporganen oprichten die zij nodig achten voor de uitoefening van hun taken overeenkomstig dit Statuut.
 
-#### Artikel IX. De Vergadering
+##### Artikel IX. De Vergadering
 
 - 1. De Vergadering is het hoogste orgaan van het Agentschap.
 
@@ -196,7 +218,7 @@ I. De Vergadering stelt de zetel van het Agentschap vast en wijst de Directeur-G
 
 J. Tijdens haar eerste zitting bestudeert de Vergadering en verleent zij goedkeuring aan, naar gelang wat van toepassing is, alle besluiten, conceptovereenkomsten, bepalingen en richtlijnen die door de Voorbereidende Commissie zijn opgesteld, in overeenstemming met de stemprocedures voor de desbetreffende kwestie zoals vervat in [artikel IX, leden F tot en met I](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=IX&z=2011-01-12&g=2011-01-12).
 
-#### Artikel X. De Raad
+##### Artikel X. De Raad
 
 A. De Raad bestaat uit ten minste 11 en ten hoogste 21 vertegenwoordigers van de leden van het Agentschap, gekozen door de Vergadering. Het concrete aantal vertegenwoordigers tussen 11 en 21 correspondeert met het naar boven afgeronde equivalent van een derde van de leden van het Agentschap dat wordt berekend op basis van het aantal leden van het Agentschap bij aanvang van de desbetreffende verkiezing voor leden van de Raad. De leden van de Raad worden bij toerbeurt gekozen zoals vervat in het reglement van orde van de Vergadering, teneinde de effectieve deelname van ontwikkelingslanden en ontwikkelde landen te waarborgen en een eerlijke en billijke geografische verdeling en doelmatige aanpak van het werk van de Raad te bewerkstelligen. De leden van de Raad worden gekozen voor een termijn van twee jaar.
 
@@ -228,7 +250,7 @@ F. De Raad:
 
 - 9. richt, zo nodig, hulporganen op, in overeenstemming met [artikel VIII, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VIII&z=2011-01-12&g=2011-01-12), en stelt het reglement van orde en de termijn ervan vast.
 
-#### Artikel XI. Het Secretariaat
+##### Artikel XI. Het Secretariaat
 
 A. Het Secretariaat ondersteunt de Vergadering, de Raad en hun hulporganen bij het vervullen van hun taken. Het Secretariaat voert tevens de andere taken uit die hem uit hoofde van dit Statuut zijn opgedragen, alsmede de taken die door de Vergadering of de Raad aan hem zijn overgedragen.
 
@@ -256,7 +278,7 @@ E. Het Secretariaat:
 
 F. Bij de vervulling van hun werkzaamheden mogen de Directeur-Generaal en de overige leden van het personeel geen instructies vragen of ontvangen van enige regering of van enige andere bron buiten het Agentschap. Zij dienen zich te onthouden van handelingen die hun positie als internationale ambtenaren die alleen aan de Vergadering en de Raad verantwoording verschuldigd zijn zouden kunnen schaden. Elk lid verbindt zich ertoe het uitsluitend internationale karakter van de taken van de Directeur-Generaal en de overige leden van het personeel te eerbiedigen en niet te trachten hen te beïnvloeden bij de vervulling van deze taken.
 
-#### Artikel XII. De begroting
+##### Artikel XII. De begroting
 
 A. De begroting van het Agentschap wordt gefinancierd door:
 
@@ -272,17 +294,17 @@ B. De ontwerpbegroting van het Agentschap wordt opgesteld door het Secretariaat 
 
 C. De Vergadering benoemt een externe accountant die deze functie voor een termijn van vier jaar vervult en voor een nieuwe termijn kan worden benoemd. De eerste accountant vervult de functie voor een termijn van twee jaar. De accountant controleert de rekeningen van het Agentschap en plaatst de opmerkingen en doet de aanbevelingen die hij nodig acht ter zake van de doeltreffendheid van het management en de interne financiële controle.
 
-#### Artikel XIII. Rechtspersoonlijkheid, voorrechten en immuniteiten
+##### Artikel XIII. Rechtspersoonlijkheid, voorrechten en immuniteiten
 
 A. Het Agentschap bezit internationale rechtspersoonlijkheid. Op het grondgebied van elk lid en met inachtneming van zijn nationale wetgeving, beschikt het Agentschap over de handelingsbevoegdheid die nodig is voor het uitoefenen van zijn taken en het verwezenlijken van zijn doelstellingen.
 
 B. De leden beslissen over een afzonderlijke regeling inzake voorrechten en immuniteiten.
 
-#### Artikel XIV. Betrekkingen met andere organisaties
+##### Artikel XIV. Betrekkingen met andere organisaties
 
 Onder voorbehoud van goedkeuring door de Vergadering is de Raad gemachtigd namens het Agentschap overeenkomsten te sluiten en passende betrekkingen met de Verenigde Naties tot stand te brengen alsook met alle andere organisaties wier werkzaamheden verband houden met die van het Agentschap. De bepalingen van dit Statuut laten de rechten en verplichtingen van elk lid die voortvloeien uit bestaande internationale verdragen onverlet.
 
-#### Artikel XV. Wijzigingen en terugtrekking, herziening
+##### Artikel XV. Wijzigingen en terugtrekking, herziening
 
 A. Wijzigingen van dit Statuut kunnen door elk lid worden voorgesteld. Gewaarmerkte afschriften van de tekst van een voorgestelde wijziging worden door de Directeur-Generaal opgesteld en door hem ten minste negentig dagen voor de bestudering ervan door de Vergadering ter kennis gebracht van alle leden.
 
@@ -296,23 +318,23 @@ C. Elk lid kan zich te allen tijde na het verstrijken van een periode van vijf j
 
 D. Een dergelijke terugtrekking wordt van kracht aan het eind van het jaar waarin deze kenbaar is gemaakt. De terugtrekking door een lid uit het Agentschap laat zijn contractuele verplichtingen uit hoofde van [artikel V, lid B](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=V&z=2011-01-12&g=2011-01-12), of zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt onverlet.
 
-#### Artikel XVI. Beslechting van geschillen
+##### Artikel XVI. Beslechting van geschillen
 
 A. Mogelijke geschillen betreffende de interpretatie of toepassing van dit Statuut worden door de leden op vreedzame wijze beslecht in overeenstemming met [artikel 2, derde lid, van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=2) en zij maken daartoe gebruik van de middelen die staan aangegeven in [artikel 33, eerste lid, van het Handvest van de Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=33).
 
 B. De Raad kan met alle door hem nodig geachte middelen een bijdrage leveren aan de beslechting van het geschil, met inbegrip van het aanbieden van zijn goede diensten, het oproepen van de leden bij een geschil aan te vangen met de procedure van hun keuze voor de beslechting van het geschil en het aanbevelen van een termijn voor een overeengekomen procedure.
 
-#### Artikel XVII. Tijdelijke opschorting van rechten
+##### Artikel XVII. Tijdelijke opschorting van rechten
 
 A. Elk lid van het Agentschap dat achterstallig is met de betaling van zijn financiële bijdragen aan het Agentschap mag zijn stemrecht niet uitoefenen indien het bedrag van zijn achterstalligheid gelijk is aan of hoger dan dat van de bijdragen over de voorgaande twee jaren. De Vergadering kan het betreffende lid evenwel toestaan zijn stemrecht uit te oefenen indien zij ervan overtuigd is dat de achterstalligheid te wijten is aan omstandigheden buiten de macht van dat lid.
 
 B. Een lid dat voortdurend de bepalingen van dit Statuut of van enige uit hoofde van dit Statuut door hem gesloten overeenkomst heeft geschonden, kan op aanbeveling van de Raad door de Vergadering met een meerderheid van twee derde van de aanwezige leden die hun stem uitbrengen worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.
 
-#### Artikel XVIII. Zetel van het Agentschap
+##### Artikel XVIII. Zetel van het Agentschap
 
 De zetel van het Agentschap wordt vastgesteld door de Vergadering tijdens haar eerste zitting.
 
-#### Artikel XIX. Ondertekening, bekrachtiging, inwerkingtreding en toetreding
+##### Artikel XIX. Ondertekening, bekrachtiging, inwerkingtreding en toetreding
 
 A. Dit Statuut staat tijdens de Oprichtingsconferentie open voor ondertekening door alle staten die lid zijn van de Verenigde Naties en door de regionale intergouvernementele organisaties voor economische integratie zoals omschreven in [artikel VI, lid A](https://wetten.overheid.nl/jci1.3:c:BWBV0003141&artikel=VI&z=2011-01-12&g=2011-01-12). Het Statuut blijft openstaan voor ondertekening tot aan de datum van inwerkingtreding ervan.
 
@@ -326,7 +348,7 @@ E. Voor staten of regionale intergouvernementele organisaties voor economische i
 
 F. Ten aanzien van de bepalingen van dit Statuut mogen geen voorbehouden worden gemaakt.
 
-#### Artikel XX. Depositaris, registratie, authentieke tekst
+##### Artikel XX. Depositaris, registratie, authentieke tekst
 
 A. De Regering van de Bondsrepubliek Duitsland wordt hierbij aangewezen als de depositaris van dit Statuut en van elke akte van bekrachtiging of toetreding.
 

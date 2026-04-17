@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen het Wasserverband Netterdenscher Kanal en het waterschap Rijn en IJssel inzake het gemaal Kandia"
 identifier: "BWBV0004076"
-categorie: "Milieu"
-publicatiedatum: 2009-04-01
-laatste_update: 2008-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004076"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-04-01"
+last_updated: "2008-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004076"
+soort: "verdrag"
+stam_id: "10003899493"
+version_id: "10004007742"
+internal_id: "C10008430301"
+label_id: "10003884254"
+dtd_version: "2.0"
+original_entry_into_force: "2009-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004076/2009-04-01/0"
+intitule_bron: "Trb.2010-83"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-03-16"
+intitule_in_force: "2010-03-16"
+intitule_status: "goed"
+original_publication: "Trb.2010-83"
+original_published_date: "2010-03-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-83"
+entry_into_force_date: "2009-04-01"
+jci_1_3: "jci1.3:c:BWBV0004076&z=2009-04-01&g=2009-04-01"
+jci_1_0: "1.0:c:BWBV0004076&g=2009-04-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2009-04-01"
 ---
-
 # Overeenkomst tussen het Wasserverband Netterdenscher Kanal en het waterschap Rijn en IJssel inzake het gemaal Kandia
 
 Het Wasserverband Netterdenscher Kanal (hierna te noemen: het Wasserverband), vertegenwoordigd door de voorzitter en het waterschap Rijn en IJssel (hierna te noemen: het waterschap), vertegenwoordigd door de dijkgraaf gaan van de volgende overwegingen uit:

@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
+title: "Wet van 24 december 1992 tot wijziging van de Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
 identifier: "BWBR0005808"
-categorie: "Belastingrecht"
-publicatiedatum: 1993-01-01
-laatste_update: 1993-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005808"
+country: "nl"
+rank: "wet"
+publication_date: "1993-01-01"
+last_updated: "1993-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005808"
+soort: "wet"
+stam_id: "529193"
+version_id: "777562"
+internal_id: "C777561"
+label_id: "513934"
+dtd_version: "2.0"
+original_entry_into_force: "1993-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005808/1993-01-01/0"
+intitule_bron: "Stb.1992-711"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-24"
+intitule_status: "goed"
+original_publication: "Stb.1992-711"
+original_signed_date: "1992-12-24"
+original_effect: "nieuwe-regeling"
+original_dossier: "22697"
+entry_into_force_date: "1993-01-01"
+entry_into_force_dossier: "22697"
+jci_1_3: "jci1.3:c:BWBR0005808&z=1993-01-01&g=1993-01-01"
+jci_1_0: "1.0:c:BWBR0005808&g=1993-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen"
+signed_date: "1992-12-24"
+entry_into_force: "1993-01-01"
 ---
-
-# Wijzigingswet Wet op de accijns in verband met de afschaffing van de fiscale grenzen
+# Wet van 24 december 1992 tot wijziging van de Wet op de accijns in verband met de afschaffing van de fiscale grenzen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +40,11 @@ Alzo Wij in overweging genomen hebben, dat de wetgeving inzake accijnzen dient t
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 1. Tot 1 januari 1994 kunnen bij algemene maatregel van bestuur nadere, zonodig van de wet afwijkende regels worden gesteld.
 
@@ -34,7 +58,7 @@ Bevat wijzigingen in andere regelgeving.
 
 4. Indien naar het oordeel van Onze Minister het spoedeisende karakter van de in het eerste lid bedoelde regels zulks rechtvaardigt kunnen deze regels, in afwijking van het eerste lid, worden gesteld bij ministeriële regeling. Alsdan is het derde lid van overeenkomstige toepassing.
 
-#### Artikel III
+##### Artikel III
 
 1. Tot 1 juli 1999 wordt, onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen vrijstelling van accijns verleend ter zake van de uitslag van accijnsgoederen uit een accijnsgoederenplaats, gelegen op een luchthaven of op een haventerrein, die worden meegevoerd in de persoonlijke bagage van een reiziger die zich door de lucht of over zee naar een andere Lid-Staat of naar een derde land begeeft.
 
@@ -46,27 +70,27 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Deze wet treedt in werking met ingang van 1 januari 1993.
 

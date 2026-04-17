@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden, enerzijds, en de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, anderzijds"
 identifier: "BWBV0001784"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-02-20
-laatste_update: 2002-03-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001784"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-02-20"
+last_updated: "2002-03-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001784"
+soort: "verdrag"
+stam_id: "10002456443"
+version_id: "10002449512"
+internal_id: "C10006994001"
+label_id: "10002445914"
+dtd_version: "2.0"
+original_entry_into_force: "2006-02-20"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001784/2006-02-20/0"
+intitule_bron: "Trb.2002-94"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-01-30"
+intitule_published: "2002-05-03"
+intitule_in_force: "2006-03-20"
+intitule_status: "goed"
+original_publication: "Trb.2002-94"
+original_signed_date: "2006-01-30"
+original_published_date: "2002-05-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2002-94"
+entry_into_force_date: "2006-02-20"
+jci_1_3: "jci1.3:c:BWBV0001784&z=2006-02-20&g=2006-02-20"
+jci_1_0: "1.0:c:BWBV0001784&g=2006-02-20"
+citeertitel_status: "redactioneel"
+signed_date: "2006-01-30"
+entry_into_force: "2006-02-20"
 ---
-
 # Verdrag inzake samenwerking tussen het Koninkrijk der Nederlanden, enerzijds, en de Franse Gemeenschap van België, het Waalse Gewest en de Franse Gemeenschapscommissie van het Brussels Hoofdstedelijk Gewest, anderzijds
 
 Het Koninkrijk der Nederlanden, enerzijds,
@@ -28,7 +53,7 @@ Overwegend dat bilaterale samenwerking en de ontwikkeling van synergieën met be
 
 Zijn het volgende overeengekomen:
 
-#### Sectie 1
+##### Sectie 1
 
 1. De Verdragsluitende Partijen besluiten aan hun bilaterale relaties een nieuwe dimensie van verstandhouding en partnerschap toe te voegen.
 
@@ -44,11 +69,11 @@ Deze bevoegdheden worden vermeld in een Bijlage bij het Verdrag.
 
 De Verdragsluitende Partijen zullen hun grensoverschrijdende samenwerking intensiveren, in het kader van programma's die in het bijzonder door de Europese Unie worden ontwikkeld.
 
-#### Sectie 2
+##### Sectie 2
 
 Ten einde de doelen zoals in sectie 1 omschreven, te bereiken zullen de Verdragsluitende Partijen contacten ontwikkelen tussen hun diensten die belast zijn met de internationale betrekkingen door middel van de uitwisseling van informatie, documentatie en door regelmatig overleg.
 
-#### Sectie 3
+##### Sectie 3
 
 1. De Verdragsluitende Partijen zullen de rechtstreekse samenwerking tussen hun overheden, organisaties, instellingen en personen bevorderen.
 
@@ -56,19 +81,19 @@ Ten einde de doelen zoals in sectie 1 omschreven, te bereiken zullen de Verdrags
 
 3. De Verdragsluitende Partijen zullen voor hen de toegang tot internationale partnerschapsnetwerken bevorderen aansluitend bij multilaterale of supranationale programma's, in het bijzonder welke door de Europese Unie worden geïnitieerd.
 
-#### Sectie 4
+##### Sectie 4
 
 De Verdragsluitende Partijen zullen elkaar regelmatig op politiek niveau bezoeken om hun bilaterale samenwerking te evalueren en om concrete onderwerpen van gemeenschappelijk belang te bespreken.
 
-#### Sectie 5
+##### Sectie 5
 
 De Verdragsluitende Partijen zullen bijdragen aan het scheppen van gunstige voorwaarden voor het leggen van rechtstreekse contacten en voor de activiteiten van bedrijven en andere rechtspersonen, voor het aanmoedigen van investeringen en het bevorderen van de uitwisseling van economische informatie.
 
-#### Sectie 6
+##### Sectie 6
 
 De Verdragsluitende Partijen zullen de uitwisseling bevorderen onder jongeren tegen de achtergrond van hun aansluiting op de arbeidsmarkt, het vergroten van internationale bewustwording en het opdoen van ervaring met bilaterale contacten.
 
-#### Sectie 7
+##### Sectie 7
 
 1. Het beheer van het onderhavige Verdrag wordt toevertrouwd aan:
 
@@ -82,7 +107,7 @@ Deze Commissie vergadert ten minste één keer per drie jaar, afwisselend in Wal
 
 De Commissie stelt een werkprogramma op met betrekking tot de door de Verdragsluitende Partijen te prioriteren sectoren. Zij evalueert de uitvoering van het Verdrag.
 
-#### Sectie 8
+##### Sectie 8
 
 1. Wat betreft het Koninkrijk der Nederlanden is dit Verdrag van toepassing op het deel van het Rijk in Europa, de Nederlandse Antillen en Aruba, tenzij anders is bepaald in de in sectie 8, tweede lid, bedoelde kennisgeving.
 

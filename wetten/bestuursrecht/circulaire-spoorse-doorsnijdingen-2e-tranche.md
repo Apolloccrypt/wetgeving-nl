@@ -1,13 +1,39 @@
 ---
-title: "Circulaire spoorse doorsnijdingen 2e tranche"
+title: "Circulaire ter bekendmaking van de wijze van verkrijging van een decentralisatie-uitkering uit het Gemeentefonds ten behoeve van projecten van gemeenten tot opheffen of verminderen van knelpunten rondom het spoor (Circulaire spoorse doorsnijdingen 2e tranche)"
 identifier: "BWBR0024770"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-11-28
-laatste_update: 2008-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024770"
+country: "nl"
+rank: "circulaire"
+publication_date: "2008-11-28"
+last_updated: "2008-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024770"
+soort: "circulaire"
+stam_id: "9779883"
+version_id: "15863182"
+internal_id: "C21760801"
+label_id: "9756694"
+dtd_version: "2.0"
+original_entry_into_force: "2008-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024770/2008-11-28/0"
+intitule_bron: "Stcrt.2008-232"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-11-24"
+intitule_published: "2008-11-28"
+intitule_in_force: "2008-11-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-232"
+original_signed_date: "2008-11-24"
+original_published_date: "2008-11-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-1075"
+entry_into_force_date: "2008-11-28"
+jci_1_3: "jci1.3:c:BWBR0024770&z=2008-11-28&g=2008-11-28"
+jci_1_0: "1.0:c:BWBR0024770&g=2008-11-28"
+citeertitel_status: "redactioneel"
+short_title: "Circulaire spoorse doorsnijdingen 2e tranche"
+signed_date: "2008-11-24"
+entry_into_force: "2008-11-28"
 ---
-
 # Circulaire ter bekendmaking van de wijze van verkrijging van een decentralisatie-uitkering uit het Gemeentefonds ten behoeve van projecten van gemeenten tot opheffen of verminderen van knelpunten rondom het spoor (Circulaire spoorse doorsnijdingen 2e tranche)
 
 Aan de colleges van burgemeester en wethouders,
@@ -52,7 +78,7 @@ In [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0024770&bijlage=1&z=2008-
 
 ### Voorwaarden om in aanmerking te komen voor een decentralisatie-uitkering spoorse doorsnijdingen
 
-#### Artikel 1. Begripomschrijvingen
+##### Artikel 1. Begripomschrijvingen
 
 In deze bijlage wordt verstaan onder:
 
@@ -68,7 +94,7 @@ In deze bijlage wordt verstaan onder:
 
 - f. **decentralisatie-uitkering:** decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=5), waarbij het in deze circulaire steeds gaat om de decentralisatie-uitkering spoorse doorsnijdingen.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Een gemeente die doorsneden wordt door spoor, kan voor een decentralisatie-uitkering in aanmerking komen voor de uitvoering van een project gericht op opheffen of verminderen van knelpunten rondom het spoor met betrekking tot stedelijke bereikbaarheid en op:
 
@@ -78,7 +104,7 @@ Een gemeente die doorsneden wordt door spoor, kan voor een decentralisatie-uitke
 
 - c. een positief effect op het spoorgebruik.
 
-#### Artikel 3. Hoogte van de decentralisatie-uitkering
+##### Artikel 3. Hoogte van de decentralisatie-uitkering
 
 1. Het totale beschikbare bedrag voor de decentralisatie-uitkeringen met toepassing van deze bijlage bedraagt € 141 miljoen.
 
@@ -128,7 +154,7 @@ Een gemeente die doorsneden wordt door spoor, kan voor een decentralisatie-uitke
 
 6. Indien vast staat dat voor de uitvoering van een project in het kader van het MIRT een bijdrage zal worden verstrekt door de minister, wordt de decentralisatie-uitkering zodanig verlaagd dat de totale bijdrage niet meer bedraagt dan 25% van de kosten, bedoeld in het derde lid, met een maximum van € 15 miljoen.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. De aanvraag voor een decentralisatie-uitkering wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier zoals opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0024770&bijlage=2&z=2008-11-28&g=2008-11-28), inclusief een begroting van het project opgebouwd volgens de Standaard Systematiek Kostenramingen, (SSK, CROW publicatie 137, 2e druk), prijspeil 2008.
 
@@ -160,7 +186,7 @@ Indien een aanvraag per post wordt ingediend wordt geen ontvangstbevestiging afg
 
 9. Een aanvraag die wordt ingediend voor 27 november 2008 of na 30 juni 2009 wordt niet geregistreerd en niet in behandeling genomen. Voorts zullen aanvragen die per email of per fax worden toegezonden niet in behandeling worden genomen.
 
-#### Artikel 5. Weigeringsgronden
+##### Artikel 5. Weigeringsgronden
 
 Een gemeente komt niet voor een decentralisatie-uitkering in aanmerking indien:
 
@@ -176,7 +202,7 @@ Een gemeente komt niet voor een decentralisatie-uitkering in aanmerking indien:
 
 - f. de uitvoeringswerkzaamheden voor het project al zijn gestart voordat deze circulaire is gepubliceerd in de Staatscourant.
 
-#### Artikel 6. Procedure
+##### Artikel 6. Procedure
 
 De aanvragen worden behandeld in volgorde van datum en tijdstip van indiening bij Pels Rijcken & Droogleever Fortuijn, op de wijze als hiervoor omschreven.
 

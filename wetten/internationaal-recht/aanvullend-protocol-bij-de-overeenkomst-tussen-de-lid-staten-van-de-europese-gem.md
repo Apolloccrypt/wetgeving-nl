@@ -1,13 +1,35 @@
 ---
 title: "Aanvullend Protocol bij de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds, in verband met de toetreding van de Helleense Republiek tot de Gemeenschap"
 identifier: "BWBV0004878"
-categorie: "Internationaal recht"
-publicatiedatum: 1988-03-01
-laatste_update: 1988-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004878"
+country: "nl"
+rank: "verdrag"
+publication_date: "1988-03-01"
+last_updated: "1988-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004878"
+soort: "verdrag"
+stam_id: "10004359663"
+version_id: "10004561402"
+internal_id: "C10006980521"
+label_id: "10004344584"
+dtd_version: "2.0"
+original_entry_into_force: "1988-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004878/1988-03-01/0"
+intitule_bron: "Trb.1980-210"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1980-12-31"
+intitule_in_force: "1989-02-21"
+intitule_status: "goed"
+original_publication: "Trb.1980-210"
+original_published_date: "1980-12-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1980-210"
+entry_into_force_date: "1988-03-01"
+jci_1_3: "jci1.3:c:BWBV0004878&z=1988-03-01&g=1988-03-01"
+jci_1_0: "1.0:c:BWBV0004878&g=1988-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "1988-03-01"
 ---
-
 # Aanvullend Protocol bij de Overeenkomst tussen de Lid-Staten van de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Kolen en Staal, enerzijds, en het Koninkrijk Noorwegen, anderzijds, in verband met de toetreding van de Helleense Republiek tot de Gemeenschap
 
 Het Koninkrijk België,
@@ -48,19 +70,19 @@ Hebben besloten om in gemeenschappelijk overleg de aanpassingen en overgangsmaat
 
 en dit Protocol te sluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De Helleense Republiek treedt hierbij toe tot de Overeenkomst.
 
 ## TITEL I. Aanpassingen
 
-#### Artikel 2
+##### Artikel 2
 
 Van de Overeenkomst en de slotakte met de daaraan gehechte verklaringen wordt een tekst in de Griekse taal opgesteld, die evenzeer authentiek is als de oorspronkelijke teksten. Het Gemengd Comité keurt de Griekse tekst goed.
 
 ## TITEL II. Overgangsmaatregelen
 
-#### Artikel 3
+##### Artikel 3
 
 Voor de onder de Overeenkomst vallende produkten schaft de Helleense Republiek ten opzichte van Noorwegen, en Noorwegen ten opzichte van de Helleense Republiek de invoerrechten geleidelijk af volgens het onderstaande tijdschema:
 
@@ -78,11 +100,11 @@ Voor de onder de Overeenkomst vallende produkten schaft de Helleense Republiek t
 
 - -. 1 januari 1986.
 
-#### Artikel 4
+##### Artikel 4
 
 Het basisrecht waarop de in artikel 3 bedoelde achtereenvolgende verlagingen moeten worden toegepast, is voor elk produkt het op 1 juli 1980 werkelijk toegepaste recht.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De Helleense Republiek schaft de heffingen van gelijke werking als invoerrechten op produkten van oorsprong uit Noorwegen geleidelijk af volgens het onderstaande tijdschema:
 
@@ -104,11 +126,11 @@ Het basisrecht waarop de in artikel 3 bedoelde achtereenvolgende verlagingen moe
 
 3. Elke heffing van gelijke werking als een invoerrecht, die met ingang van 1 januari 1979 in het handelsverkeer tussen Griekenland en Noorwegen werd ingesteld, wordt per 1 januari 1981 afgeschaft.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de Helleense Republiek rechten of heffingen van gelijke werking op uit de Gemeenschap in haar huidige samenstelling ingevoerde produkten in een sneller tempo dan het vastgestelde tijdschema van verlagingen schorst of verlaagt, zal de Helleense Republiek die rechten of heffingen van gelijke werking eveneens ten aanzien van produkten van oorsprong uit Noorwegen tot hetzelfde niveau schorsen of verlagen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De in Griekenland op 31 december 1980 geldende zekerheidsstelling bij invoer en contante betaling met betrekking tot invoer van produkten van oorsprong uit Noorwegen worden geleidelijk over een periode van drie jaar, te rekenen van 1 januari 1981, afgeschaft.
 
@@ -124,7 +146,7 @@ De bedragen van de zekerheidsstelling bij invoer en contante betaling worden ver
 
 2. Indien de Helleense Republiek ten opzichte van de Gemeenschap in haar huidige samenstelling de bedragen van de zekerheidsstelling bij invoer of contante betaling sneller verlaagt dan volgens het in lid 1 vastgestelde tijdschema past de Helleense Republiek dezelfde verlaging toe op de invoer van produkten van oorsprong uit Noorwegen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Tot en met 31 december 1985 mogen de ijzer- en staalondernemingen in Griekenland gebruik maken van het stelsel van keuze van meer dan een punt als grondslag voor het opstellen van hun prijsschalen.
 
@@ -134,19 +156,19 @@ Het bepaalde in de vorige alinea heeft alleen betrekking op aanpassing van Noors
 
 ## TITEL III. Algemene en slotbepalingen
 
-#### Artikel 9
+##### Artikel 9
 
 Het Gemengd Comité dient alle amendementen in die met betrekking tot de regels inzake de oorsprong noodzakelijk kunnen zijn als gevolg van de toetreding van de Helleense Republiek tot de Europese Gemeenschappen.
 
-#### Artikel 10
+##### Artikel 10
 
 Dit Protocol vormt een integrerend deel van de Overeenkomst.
 
-#### Artikel 11
+##### Artikel 11
 
 Dit Protocol wordt door de Partijen bij de Overeenkomst volgens hun eigen procedures goedgekeurd. Het treedt in werking op 1 januari 1981, mits de Partijen bij de Overeenkomst elkaar vóór die datum hebben kennisgegeven dat de te dien einde noodzakelijke procedures zijn voltooid. Na deze datum treedt het Protocol in werking op de eerste dag van de tweede maand volgend op die kennisgeving.
 
-#### Artikel 12
+##### Artikel 12
 
 Dit Protocol is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse en de Noorse taal, zijnde alle teksten gelijkelijk authentiek.
 

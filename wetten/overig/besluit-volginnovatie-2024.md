@@ -1,13 +1,39 @@
 ---
-title: "Besluit volginnovatie 2024"
+title: "Besluit van de Minister van Economische Zaken van 20 maart 2025 inzake volginnovatie 2024"
 identifier: "BWBR0050916"
-categorie: "Overig"
-publicatiedatum: 2025-04-02
-laatste_update: 2025-04-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050916"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-04-02"
+last_updated: "2025-04-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050916"
+soort: "ministeriele-regeling"
+stam_id: "17397383"
+version_id: "30671882"
+internal_id: "C43970901"
+label_id: "17300594"
+dtd_version: "2.0"
+original_entry_into_force: "2025-04-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050916/2025-04-02/0"
+intitule_bron: "Stcrt.2025-11189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-03-20"
+intitule_published: "2025-04-01"
+intitule_in_force: "2025-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-11189"
+original_signed_date: "2025-03-20"
+original_published_date: "2025-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-11189"
+entry_into_force_date: "2025-04-02"
+jci_1_3: "jci1.3:c:BWBR0050916&z=2025-04-02&g=2025-04-02"
+jci_1_0: "1.0:c:BWBR0050916&g=2025-04-02"
+citeertitel_status: "redactioneel"
+short_title: "Besluit volginnovatie 2024"
+signed_date: "2025-03-20"
+entry_into_force: "2025-04-02"
 ---
-
 # Besluit van de Minister van Economische Zaken van 20 maart 2025 inzake volginnovatie 2024
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -22,7 +48,7 @@ Gelet op [artikel 3.1 van de Wet open overheid](https://wetten.overheid.nl/jci1.
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens gepubliceerd met betrekking tot:
 
@@ -48,7 +74,7 @@ De gegevens worden niet eerder dan twee weken na de bekendmaking van dit besluit
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
-title: "Besluit gezagsregisters"
+title: "Besluit van 26 november 1969, tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 244 van Boek 1 van het Burgerlijk Wetboek"
 identifier: "BWBR0002685"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002685"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002685"
+soort: "AMvB"
+stam_id: "1209133"
+version_id: "1782212"
+internal_id: "C1782211"
+label_id: "1171044"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002685/2026-01-01/0"
+intitule_bron: "Stb.1969-526"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-11-26"
+intitule_status: "goed"
+original_publication: "Stb.1997-613"
+original_signed_date: "1997-12-03"
+original_published_date: "1997-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-1997-613"
+entry_into_force_date: "1998-01-01"
+jci_1_3: "jci1.3:c:BWBR0002685&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002685&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit gezagsregisters"
+signed_date: "1997-12-03"
+entry_into_force: "1998-01-01"
 ---
-
 # Besluit van 26 november 1969, tot vaststelling van een algemene maatregel van bestuur, bedoeld in artikel 244 van Boek 1 van het Burgerlijk Wetboek
 
 Op de voordracht van Onze Minister van Justitie van 24 september 1969, Stafafdeling Wetgeving nieuw Burgerlijk Wetboek, nr. 373/669;
@@ -20,11 +44,11 @@ Gezien het nader rapport van Onze voornoemde Minister van 21 november 1969, Staf
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 In het ingevolge [artikel 244 van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=244) bij elke rechtbank berustende openbaar register tekent de griffier rechtsfeiten aan, die betrekking hebben op de gezagsuitoefening over minderjarigen.
 
-#### Artikel 2
+##### Artikel 2
 
 In het register wordt aantekening gehouden van:
 
@@ -54,7 +78,7 @@ In het register wordt aantekening gehouden van:
 
 - m. in kracht van gewijsde gegane uitspraken die een adoptie inhouden.
 
-#### Artikel 3
+##### Artikel 3
 
 Indien ingevolge het vorige artikel een aantekening over een minderjarige in het register is opgenomen, wordt daarin tevens aantekening gehouden van de volgende op hem betrekking hebbende gegevens:
 
@@ -64,31 +88,31 @@ Indien ingevolge het vorige artikel een aantekening over een minderjarige in het
 
 - c. een in kracht van gewijsde gegane rechterlijke uitspraak, inhoudende de vaststelling van het ouderschap, de gegrondverklaring van de ontkenning van het vaderschap of moederschap, de vernietiging van zijn erkenning, de gegrondverklaring van een betwisting of inroeping van zijn staat, of de vernietiging van zulk een uitspraak, van welke gegevens de griffiers van de Hoge Raad en de gerechtshoven onverwijld kennis geven aan de griffier van de rechtbank waar de zaak in eerste aanleg heeft gediend.
 
-#### Artikel 4
+##### Artikel 4
 
 Het register wordt in digitale vorm gehouden.
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 6
+##### Artikel 6
 
 Elke inschrijving wordt voorzien van de datum van de inschrijving en indien van toepassing van de datum van de beslissing aangaande het gezag.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Binnen de eerste drie maanden van elk kalenderjaar worden de gegevens betreffende degenen die in het vorig kalenderjaar achttien jaar geleden geboren werden, uit het gezagsregister gelicht en overgebracht naar een digitale archiefbewaarplaats.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0028899) bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.
 
@@ -96,15 +120,15 @@ Binnen de eerste drie maanden van elk kalenderjaar worden de gegevens betreffend
 
 3. Aan overheidsorganen en derden kan rechtstreeks toegang tot het register worden verleend voorzover deze toegang noodzakelijk is voor de goede vervulling van hun taken. Deze toegang heeft betrekking op een bepaalde minderjarige.
 
-#### Artikel 11
+##### Artikel 11
 
 Ons besluit van 24 juli 1948, **Stb.** I 342, wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Dit besluit treedt in werking op het tijdstip waarop de Invoeringswet Boek 1 nieuw B.W. in werking treedt.
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit wordt aangehaald als: Besluit gezagsregisters.
 

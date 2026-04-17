@@ -1,13 +1,37 @@
 ---
 title: "Aanpassing toelage onregelmatige dienst personenchauffeurs en vergoeding privé-ruimte telewerken"
 identifier: "BWBR0013588"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2001-10-01
-laatste_update: 2001-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013588"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-10-01"
+last_updated: "2001-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013588"
+soort: "circulaire"
+stam_id: "6375753"
+version_id: "11041452"
+internal_id: "C14940621"
+label_id: "6364614"
+original_entry_into_force: "2001-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013588/2001-10-01/0"
+intitule_bron: "Stcrt.2002-87"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-04-10"
+intitule_published: "2002-05-08"
+intitule_in_force: "2002-05-08"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-87"
+original_signed_date: "2002-04-10"
+original_published_date: "2002-05-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-087-p9-SC34451"
+entry_into_force_date: "2001-10-01"
+jci_1_3: "jci1.3:c:BWBR0013588&z=2001-10-01&g=2001-10-01"
+jci_1_0: "1.0:c:BWBR0013588&g=2001-10-01"
+citeertitel_status: "redactioneel"
+signed_date: "2002-04-10"
+entry_into_force: "2001-10-01"
 ---
-
 # Aanpassing toelage onregelmatige dienst personenchauffeurs en vergoeding privé-ruimte telewerken
 
 ### I. Inleiding/managementinformatie

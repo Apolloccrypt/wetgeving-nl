@@ -1,13 +1,39 @@
 ---
-title: "Besluit voorraadvorming aardolieproducten 2013"
+title: "Besluit van 27 maart 2013, houdende regels inzake het aanhouden van voorraden aardolieproducten (Besluit voorraadvorming aardolieproducten 2013)"
 identifier: "BWBR0033115"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033115"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033115"
+soort: "AMvB"
+stam_id: "12169673"
+version_id: "20321512"
+internal_id: "C28587631"
+label_id: "12141234"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033115/2013-04-01/0"
+intitule_bron: "Stb.2013-118"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-03-27"
+intitule_published: "2013-03-29"
+intitule_in_force: "2013-03-29"
+intitule_status: "goed"
+original_publication: "Stb.2013-118"
+original_signed_date: "2013-03-27"
+original_published_date: "2013-03-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2013-118"
+entry_into_force_date: "2013-04-01"
+jci_1_3: "jci1.3:c:BWBR0033115&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0033115&g=2013-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit voorraadvorming aardolieproducten 2013"
+signed_date: "2013-03-27"
+entry_into_force: "2013-04-01"
 ---
-
 # Besluit van 27 maart 2013, houdende regels inzake het aanhouden van voorraden aardolieproducten (Besluit voorraadvorming aardolieproducten 2013)
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 februari 2013, nr. WJZ / 13014857;
@@ -22,19 +48,19 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder wet: [Wet voorraadvorming aardolieproducten 2012](https://wetten.overheid.nl/jci1.3:c:BWBR0032775).
 
 ### Hoofdstuk 2. Voorraadplicht
 
-#### Artikel 2
+##### Artikel 2
 
 1. De hoogte van de drempel, bedoeld in [artikel 4, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=4), bedraagt 100.000 ton aardolieproducten.
 
 2. Het percentage, bedoeld in [artikel 5, tweede lid, onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=5), bedraagt 12.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een verzoek als bedoeld in [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=19), gaat vergezeld van de volgende informatie:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder wet: [Wet voorraadvorming aardolieproducten 
 
 2. Een verzoek als bedoeld in [artikel 19, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=19), gaat vergezeld van de aangifte of het verzoek, bedoeld in [artikel 1, eerste lid, van de Faillissementswet](https://wetten.overheid.nl/jci1.3:c:BWBR0001860&artikel=1).
 
-#### Artikel 4
+##### Artikel 4
 
 1. Bij het verlenen van de ontheffing op grond van [artikel 19, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=19), kan Onze Minister het percentage, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033115&hoofdstuk=2&artikel=2&z=2013-04-01&g=2013-04-01), verlagen met ten hoogste 10 procentpunten.
 
@@ -58,7 +84,7 @@ In dit besluit wordt verstaan onder wet: [Wet voorraadvorming aardolieproducten 
 
 ### Hoofdstuk 3. Beheer en overdracht voorraad
 
-#### Artikel 5
+##### Artikel 5
 
 1. Uiterlijk vier weken voor de datum van een voorgenomen overdracht, wijziging of verlenging wordt ingediend bij Onze Minister:
 
@@ -74,7 +100,7 @@ In dit besluit wordt verstaan onder wet: [Wet voorraadvorming aardolieproducten 
 
 3. Onze Minister maakt desgevraagd kenbaar hoe een verzoek als bedoeld in het eerste lid, wordt ingediend indien de schriftelijke of de elektronische weg door overmacht of uitzonderlijke omstandigheden niet toegankelijk is.
 
-#### Artikel 6
+##### Artikel 6
 
 Een verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=11), [artikel 14, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=14), artikel 14, tweede lid, of [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=28), gaat vergezeld van de volgende informatie:
 
@@ -96,7 +122,7 @@ Een verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jc
 
 - 2°. het adres van de plaats waar de aardolieproducten worden opgeslagen.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Onze Minister besluit uiterlijk één week voor de datum van een voorgenomen overdracht, wijziging of verlenging op het verzoek, bedoeld in de [artikel 11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=11), [artikel 14, eerste lid, onder b of c](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=14), artikel 14, tweede lid, of [artikel 28, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0032775&artikel=28).
 
@@ -112,11 +138,11 @@ Een verzoek als bedoeld in [artikel 11, derde lid](https://wetten.overheid.nl/jc
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking op 1 april 2013.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit besluit wordt aangehaald als: Besluit voorraadvorming aardolieproducten 2013.
 

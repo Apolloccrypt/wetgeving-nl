@@ -1,13 +1,38 @@
 ---
 title: "Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid"
 identifier: "BWBR0033486"
-categorie: "Bestuursrecht"
-publicatiedatum: 2013-04-15
-laatste_update: 2013-04-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033486"
+country: "nl"
+rank: "circulaire"
+publication_date: "2013-04-15"
+last_updated: "2013-04-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033486"
+soort: "circulaire"
+stam_id: "12275933"
+version_id: "20552682"
+internal_id: "C28901221"
+label_id: "12247414"
+dtd_version: "2.0"
+original_entry_into_force: "2013-04-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033486/2013-04-15/0"
+intitule_bron: "Stcrt.2013-14743"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-05-29"
+intitule_published: "2013-06-07"
+intitule_in_force: "2013-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-14743"
+original_signed_date: "2013-05-29"
+original_published_date: "2013-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-14743"
+entry_into_force_date: "2013-04-15"
+jci_1_3: "jci1.3:c:BWBR0033486&z=2013-04-15&g=2013-04-15"
+jci_1_0: "1.0:c:BWBR0033486&g=2013-04-15"
+citeertitel_status: "redactioneel"
+signed_date: "2013-05-29"
+entry_into_force: "2013-04-15"
 ---
-
 # Circulaire uitvoering Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid
 
 Bijgevoegd treft u de Overeenkomst Sociaal Beleid Rijk: van werk naar werk (VWNW) beleid – verder de VWNW-overeenkomst genoemd – zoals die op 11 april jl. in het Sectoroverleg Rijk is vastgesteld. In deze circulaire wordt nadere informatie gegeven die van belang is ten behoeve van de uitvoering van de VWNW-overeenkomst.

@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden"
 identifier: "BWBR0035226"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-06-04
-laatste_update: 2014-06-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035226"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-06-04"
+last_updated: "2014-06-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035226"
+soort: "beleidsregel"
+stam_id: "12698703"
+version_id: "21469622"
+internal_id: "C30830441"
+label_id: "12668794"
+dtd_version: "2.0"
+original_entry_into_force: "2014-06-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035226/2014-06-04/0"
+intitule_bron: "Stcrt.2014-16954"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-06-11"
+intitule_published: "2014-06-20"
+intitule_in_force: "2014-06-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-16954"
+original_signed_date: "2014-06-11"
+original_published_date: "2014-06-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-16954"
+entry_into_force_date: "2014-06-04"
+jci_1_3: "jci1.3:c:BWBR0035226&z=2014-06-04&g=2014-06-04"
+jci_1_0: "1.0:c:BWBR0035226&g=2014-06-04"
+citeertitel_status: "officieel"
+signed_date: "2014-06-11"
+entry_into_force: "2014-06-04"
 ---
-
 # Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden
 
 **De Staatssecretaris van Financiën maakt het volgende bekend.**
@@ -22,17 +47,17 @@ Teneinde de bepalingen ten uitvoer te kunnen brengen van het Verdrag tussen het 
 
 ### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 Op basis van artikel 29 (uitwisseling van inlichtingen) van het Verdrag en in overeenstemming met dit Memorandum, spannen de bevoegde autoriteiten van Nederland en de Republiek Argentinië zich in elkaar automatisch inlichtingen te verstrekken als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035226&artikel=3&z=2014-06-04&g=2014-06-04), betreffende personen die ingezetenen zijn van een van beide Staten.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit Memorandum van Overeenstemming is van toepassing op belastingen die vallen onder de bepalingen van het Verdrag.
 
 ### Uitwisseling van inlichtingen
 
-#### Artikel 3
+##### Artikel 3
 
 1. De bevoegde autoriteiten spannen zich in elkaar automatisch inlichtingen te verstrekken met betrekking tot het volgende:
 
@@ -64,19 +89,19 @@ Dit Memorandum van Overeenstemming is van toepassing op belastingen die vallen o
 
 ### Termijnen en voorwaarden
 
-#### Artikel 4
+##### Artikel 4
 
 Met betrekking tot de automatische inlichtingenuitwisseling op basis van dit Memorandum zijn de bepalingen van het Verdrag betreffende de bescherming van personen, beperkingen ten aanzien van de verplichting tot het verstrekken van bijstand en geheimhouding volledig van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 De informatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035226&artikel=3&z=2014-06-04&g=2014-06-04) van dit Memorandum zal zoveel mogelijk worden verstuurd in een elektronisch format gebruikende AES 256 bit encryptie of een encryptie die bilateraal is overeengekomen. Mocht dit niet beschikbaar zijn bij de bevoegde autoriteit, dan wordt de informatie in papieren vorm verstuurd. Deze informatie bevat, zoveel mogelijk, het belasting identificatie nummer (BSN nummer) van het woon- en bronland van de niet-ingezetene ontvangers van inkomsten en/of enige andere informatie die bijdraagt aan een correcte identificatie van de persoon waarop de informatie betrekking heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de door een Staat verstrekte informatie, die deel uitmaakt van de automatische inlichtingenuitwisseling, niet juist of onvolledig wordt bevonden, maakt de bevoegde autoriteit dit zo spoedig mogelijk bekend aan de andere Staat. Terugkoppeling wordt gegeven indien dat nuttig is voor de verzendende Staat.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De informatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035226&artikel=3&z=2014-06-04&g=2014-06-04) wordt periodiek, tenminste eenmaal per kalenderjaar, verstrekt aan:
 
@@ -88,13 +113,13 @@ Indien de door een Staat verstrekte informatie, die deel uitmaakt van de automat
 
 ### Toepassing en titel
 
-#### Artikel 8
+##### Artikel 8
 
 1. Dit Memorandum treedt in werking op de datum van de laatste handtekening en is van toepassing tot deze wordt opgezegd door middel van een schriftelijk bericht van de ene bevoegde autoriteit aan de andere bevoegde autoriteit. Dit MOU kan op elk moment worden gewijzigd door overeenstemming tussen de bevoegde autoriteiten.
 
 2. Het Memorandum is eerder dan de hiervoor genoemde datum van toepassing op informatie als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035226&artikel=3&z=2014-06-04&g=2014-06-04) dat betrekking heeft op het kalenderjaar 2012.
 
-#### Artikel 9
+##### Artikel 9
 
 Dit Memorandum kan worden aangehaald als ‘Memorandum van Overeenstemming tussen de bevoegde autoriteiten van de Republiek Argentinië en Nederland inzake automatische inlichtingenuitwisseling voor belastingdoeleinden’.
 

@@ -1,13 +1,39 @@
 ---
-title: "Regeling precursoren voor explosieven 2021"
+title: "Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Infrastructuur en Waterstaat van 29 maart 2021 nr. 3241615 houdende regels ter uitvoering van de Wet precursoren voor explosieven (Regeling precursoren voor explosieven 2021)"
 identifier: "BWBR0045043"
-categorie: "Overig"
-publicatiedatum: 2021-04-26
-laatste_update: 2021-04-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045043"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2021-04-26"
+last_updated: "2021-04-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045043"
+soort: "ministeriele-regeling"
+stam_id: "15926723"
+version_id: "27696452"
+internal_id: "C39114691"
+label_id: "15861424"
+dtd_version: "2.0"
+original_entry_into_force: "2021-04-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045043/2021-04-26/0"
+intitule_bron: "Stcrt.2021-18153"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-03-29"
+intitule_published: "2021-04-14"
+intitule_in_force: "2021-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-18153"
+original_signed_date: "2021-03-29"
+original_published_date: "2021-04-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-18153"
+entry_into_force_date: "2021-04-26"
+jci_1_3: "jci1.3:c:BWBR0045043&z=2021-04-26&g=2021-04-26"
+jci_1_0: "1.0:c:BWBR0045043&g=2021-04-26"
+citeertitel_status: "officieel"
+short_title: "Regeling precursoren voor explosieven 2021"
+signed_date: "2021-03-29"
+entry_into_force: "2021-04-26"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Infrastructuur en Waterstaat van 29 maart 2021 nr. 3241615 houdende regels ter uitvoering van de Wet precursoren voor explosieven (Regeling precursoren voor explosieven 2021)
 
 Gelet op de verordening (EU) nr. 2019/1148 van het Europees parlement en de Raad van 20 juni 2019, over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907) en tot intrekking van Verordening (EU) nr. 98/2013 (PbEU L 186) en [artikel 4, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=4), [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=5), [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=6), [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=8) en [artikel 9, derde lid, van de Wet precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=9);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop de Wet tot Wijziging van de Wet precurs
 
 #### § 1. Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -30,7 +56,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Aanvraag om een vergunning door particulier
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag tot verlening van een vergunning wordt gericht aan de minister van Justitie en Veiligheid en gezonden aan de Inspectie Leefomgeving en Transport.
 
@@ -44,29 +70,29 @@ In deze regeling wordt verstaan onder:
 
 - c. documenten die inzicht geven in de opslagvoorzieningen die zijn voorgesteld om ervoor te zorgen dat de gevraagde precursor veilig wordt opgeslagen.
 
-#### Artikel 3
+##### Artikel 3
 
 Wezenlijke veiligheidsbelangen en redenen van openbare orde als bedoeld in [artikel 6, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0037995&artikel=6) worden in ieder geval aangenomen ingeval van een relevant lopend onderzoek naar de aanvrager door de politie of de inlichtingen- en veiligheidsdiensten, waaruit naar voren kan komen dat de aanvrager mogelijk betrokken is bij misbruik van explosieven of grondstoffen daarvoor.
 
 #### § 3. Informatieverplichtingen marktdeelnemers en onlinemarktplaatsen
 
-#### Artikel 4
+##### Artikel 4
 
 1. Marktdeelnemers die precursoren voor explosieven waarvoor een beperking geldt, aanbieden aan een andere marktdeelnemer informeren deze andere marktdeelnemer schriftelijk dat voor het verwerven, het binnenbrengen, het bezit of het gebruik door particulieren van die precursor een vergunning is vereist door een duidelijke vermelding van een van de in de bijlage onder I vermelde teksten op het product, in het productblad, of op een andere bij het product behorende schriftelijke bijlage.
 
 2. Marktdeelnemers die gereguleerde precursoren voor explosieven aanbieden aan een andere marktdeelnemer, informeren deze andere marktdeelnemer schriftelijk dat het verwerven, binnenbrengen, het bezit of het gebruik door particulieren van die gereguleerde precursor voor explosieven onderworpen is aan de meldplicht, bedoeld in artikel 9 van de verordening, door een duidelijke vermelding van een van de in de bijlage onder II vermelde teksten op het product, in het productblad of op een andere bij het product behorende schriftelijke bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 Marktdeelnemers die gereguleerde precursoren voor explosieven aanbieden aan een professionele gebruiker of een particulier instrueren hun personeel schriftelijk over het herkennen van de gereguleerde precursoren voor explosieven en over de verplichtingen die voortvloeien uit de verordening en de wettelijke voorschriften.
 
-#### Artikel 6
+##### Artikel 6
 
 Onlinemarktplaatsen verstrekken marktdeelnemers die met gebruikmaking van de onlinemarktplaats gereguleerde precursoren voor explosieven aanbieden op duidelijke en doeltreffende wijze informatie over de verplichtingen die voor de marktdeelnemer voortvloeien uit de verordening.
 
 #### § 4. Verificatie gegevens bij verkoop
 
-#### Artikel 7
+##### Artikel 7
 
 1. Marktdeelnemers die precursoren voor explosieven waarvoor een beperking geldt, aanbieden aan een particulier vragen met het oog op verificatie van de bevoegdheid de betreffende transactie aan te gaan voor afronding van die transactie aan de particulier de vereiste vergunning te tonen.
 
@@ -94,7 +120,7 @@ Onlinemarktplaatsen verstrekken marktdeelnemers die met gebruikmaking van de onl
 
 - 9°. Indien mogelijk, het batchnummer.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Marktdeelnemers die precursoren voor explosieven waarvoor een beperking geldt aanbieden aan professionele gebruikers of marktdeelnemers nemen met het oog op de toepassing van artikel 8 van de verordening de volgende regels in acht:
 
@@ -138,13 +164,13 @@ Onlinemarktplaatsen verstrekken marktdeelnemers die met gebruikmaking van de onl
 
 2. Van het gestelde in het eerste lid, onder a, b en c kan worden afgeweken indien de verificatie van de klant binnen een termijn van een jaar voorafgaande aan de datum van de transactie heeft plaatsgevonden en de transactie niet aanzienlijk afwijkt van eerdere transacties.
 
-#### Artikel 9
+##### Artikel 9
 
 Onlinemarktplaatsen stellen aan marktdeelnemers die met gebruikmaking van de onlinemarktplaats precursoren voor explosieven waarvoor een beperking geldt aanbieden instrumenten ter beschikking die de naleving van de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBR0045043&paragraaf=4&artikel=7&z=2021-04-26&g=2021-04-26) en [8](https://wetten.overheid.nl/jci1.3:c:BWBR0045043&paragraaf=4&artikel=8&z=2021-04-26&g=2021-04-26) van deze regeling alsmede die van artikel 8 van de verordening ondersteunen.
 
 #### § 5. Meldplicht
 
-#### Artikel 10
+##### Artikel 10
 
 1. Een melding als bedoeld in artikel 9 van de verordening wordt gedaan bij het Meldpunt Verdachte Transacties Chemicaliën.
 
@@ -170,15 +196,15 @@ Onlinemarktplaatsen stellen aan marktdeelnemers die met gebruikmaking van de onl
 
 #### § 6. Slotbepalingen
 
-#### Artikel 11
+##### Artikel 11
 
 De [Regeling precursoren voor explosieven](https://wetten.overheid.nl/jci1.3:c:BWBR0038208) wordt ingetrokken.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling precursoren voor explosieven 2021.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling treedt in werking met ingang van de dag waarop de Wet tot Wijziging van de Wet precursoren voor explosieven en de Wet op de economische delicten ter uitvoering van Verordening (EU) 2019/1148 van het Europees parlement en de Raad van 20 juni 2019 over het op de markt brengen en het gebruik van precursoren voor explosieven, tot wijziging van [Verordening (EG) nr. 1907/2006](32006R1907) en tot intrekking van Verordening (EU) nr. 98/2013 (PbEU 2019, L 186) in werking treedt.
 

@@ -1,13 +1,35 @@
 ---
 title: "Europees Cultureel Verdrag"
 identifier: "BWBV0005098"
-categorie: "Internationaal recht"
-publicatiedatum: 1956-02-08
-laatste_update: 1956-02-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005098"
+country: "nl"
+rank: "verdrag"
+publication_date: "1956-02-08"
+last_updated: "1956-02-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005098"
+soort: "verdrag"
+stam_id: "10004464753"
+version_id: "10004675992"
+internal_id: "C10007195031"
+label_id: "10004449624"
+dtd_version: "2.0"
+original_entry_into_force: "1956-02-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005098/1956-02-08/0"
+intitule_bron: "Trb.1955-117"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-08-18"
+intitule_in_force: "1956-03-15"
+intitule_status: "goed"
+original_publication: "Trb.1955-117"
+original_published_date: "1955-08-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-117"
+entry_into_force_date: "1956-02-08"
+jci_1_3: "jci1.3:c:BWBV0005098&z=1956-02-08&g=1956-02-08"
+jci_1_0: "1.0:c:BWBV0005098&g=1956-02-08"
+citeertitel_status: "redactioneel"
+entry_into_force: "1956-02-08"
 ---
-
 # Europees Cultureel Verdrag
 
 De Regeringen welke dit Verdrag hebben ondertekend, Leden van de Raad van Europa;
@@ -22,11 +44,11 @@ Besloten hebbende een algemeen Europees Cultureel Verdrag te sluiten, dat ten do
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Iedere Verdragsluitende Partij neemt passende maatregelen om de ontwikkeling van haar eigen bijdrage aan het gemeenschappelijke culturele erfdeel van Europa veilig te stellen en aan te moedigen.
 
-#### Artikel 2
+##### Artikel 2
 
 Iedere Verdragsluitende Partij zal, voor zover mogelijk,
 
@@ -34,19 +56,19 @@ Iedere Verdragsluitende Partij zal, voor zover mogelijk,
 
 - (b). ernaar streven om de studie van haar taal of talen, geschiedenis en beschaving op het grondgebied van de andere Verdragsluitende Partijen te bevorderen en faciliteiten verlenen aan de onderdanen van deze Partijen om op haar grondgebied in bovengenoemde onderwerpen te studeren.
 
-#### Artikel 3
+##### Artikel 3
 
 De Verdragsluitende Partijen plegen in het kader van de Raad van Europa met elkaar overleg met het oog op het gemeenschappelijk bevorderen van culturele activiteiten welke van Europees belang zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere Verdragsluitende Partij vergemakkelijkt, voor zover mogelijk, de vrijheid van verkeer en de uitwisseling zowel van personen als van voorwerpen van culturele waarde opdat de artikelen 2 en 3 ten uitvoer kunnen worden gelegd.
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere Verdragsluitende Partij beschouwt de voorwerpen van Europese culturele waarde die onder haar bescherming zijn gesteld als integrerende bestanddelen van het gemeenschappelijke culturele erfdeel van Europa, neemt passende maatregelen om deze te beveiligen en verzekert de toegang hiertoe binnen de grenzen van het redelijke.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Voorstellen voor de toepassing der bepalingen van dit Verdrag en kwesties betreffende de interpretatie daarvan worden behandeld op vergaderingen van de Commissie van culturele deskundigen van de Raad van Europa.
 
@@ -60,11 +82,11 @@ Iedere Verdragsluitende Partij beschouwt de voorwerpen van Europese culturele wa
 
 6. Indien mocht blijken dat bepaalde voorstellen voor de toepassing van dit Verdrag slechts een beperkt aantal van de Verdragsluitende Partijen interesseren, kunnen zulke voorstellen verder worden behandeld overeenkomstig de bepalingen van artikel 7, mits de uitvoering daarvan geen uitgaven voor de Raad van Europa met zich medebrengt.
 
-#### Artikel 7
+##### Artikel 7
 
 Indien, ten einde de doelstellingen van dit Verdrag te bevorderen, twee of meer Verdragsluitende Partijen vergaderingen wensen te beleggen ter plaatse waar de Raad van Europa is gevestigd, naast die, genoemd in lid 1 van artikel 6, verleent de Secretaris-Generaal van de Raad hun alle administratieve bijstand welke zij nodig hebben.
 
-#### Artikel 8
+##### Artikel 8
 
 Geen der bepalingen van dit Verdrag wordt geacht van invloed te zijn op
 
@@ -72,7 +94,7 @@ Geen der bepalingen van dit Verdrag wordt geacht van invloed te zijn op
 
 - (b). de verplichting van een ieder om de wetten en voorschriften na te leven welke op het grondgebied van enige Verdragsluitende Partij betreffende het binnenkomen, het verblijf en het vertrek van vreemdelingen van kracht zijn.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit Verdrag staat ter ondertekening voor de Leden van de Raad van Europa open. Het wordt bekrachtigd en de akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -84,11 +106,11 @@ Geen der bepalingen van dit Verdrag wordt geacht van invloed te zijn op
 
 5. De Secretaris-Generaal van de Raad van Europa stelt alle Leden van de Raad en alle toetredende Staten in kennis van het nederleggen van alle akten van bekrachtiging en toetreding.
 
-#### Artikel 10
+##### Artikel 10
 
 Iedere Verdragsluitende Partij kan aangeven op welke gebiedsdelen de bepalingen van dit Verdrag van toepassing zullen zijn door aan de Secretaris-Generaal van de Raad van Europa een verklaring te doen toekomen, welke door laatstgenoemde ter kennis van alle andere Verdragsluitende Partijen zal worden gebracht.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Iedere Verdragsluitende Partij kan dit Verdrag opzeggen op ieder tijdstip nadat het gedurende een periode van vijf jaar van kracht is geweest, door middel van een schriftelijke kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa, die de andere Verdragsluitende Partij inlicht.
 

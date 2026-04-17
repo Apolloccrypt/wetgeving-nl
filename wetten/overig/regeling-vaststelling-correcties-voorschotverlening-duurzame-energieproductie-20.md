@@ -1,13 +1,39 @@
 ---
-title: "Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016"
+title: "Regeling van de Minister van Economische Zaken van 2 november 2015, nr. WJZ/15147884, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2016 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016)"
 identifier: "BWBR0037159"
-categorie: "Overig"
-publicatiedatum: 2016-01-01
-laatste_update: 2016-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0037159"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-01-01"
+last_updated: "2016-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0037159"
+soort: "ministeriele-regeling"
+stam_id: "13295203"
+version_id: "22760072"
+internal_id: "C32904141"
+label_id: "13263134"
+dtd_version: "2.0"
+original_entry_into_force: "2016-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0037159/2016-01-01/0"
+intitule_bron: "Stcrt.2015-38490"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-11-02"
+intitule_published: "2015-11-04"
+intitule_in_force: "2015-11-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-38490"
+original_signed_date: "2015-11-02"
+original_published_date: "2015-11-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-38490"
+entry_into_force_date: "2016-01-01"
+jci_1_3: "jci1.3:c:BWBR0037159&z=2016-01-01&g=2016-01-01"
+jci_1_0: "1.0:c:BWBR0037159&g=2016-01-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016"
+signed_date: "2015-11-02"
+entry_into_force: "2016-01-01"
 ---
-
 # Regeling van de Minister van Economische Zaken van 2 november 2015, nr. WJZ/15147884, tot vaststelling van de correcties voor de voorschotverlening duurzame energieproductie 2016 (Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016)
 
 Gelet op de [artikelen 14, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), [22, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), [31, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), en [47, vijfde lid, van het Besluit stimulering duurzame energieproductie](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47);
@@ -16,7 +42,7 @@ Besluit:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -44,7 +70,7 @@ In deze regeling wordt verstaan onder:
 
 #### § 2. Correctiebedragen hernieuwbare elektriciteit
 
-#### Artikel 2
+##### Artikel 2
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -155,7 +181,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 | [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=20) | Vrije stromingsenergie, valhoogte < 50 cm | € 0,042 per kWh | € 0 per kWh |
 | [Artikel 62](https://wetten.overheid.nl/jci1.3:c:BWBR0036245&artikel=62) | Wind op land, overgangsregeling | € 0,048 per kWh | € 0 per kWh |
 
-#### Artikel 3
+##### Artikel 3
 
 De correcties op het tenderbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 als volgt vastgesteld: voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=22), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 22, eerste lid, onderdelen b en c, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -166,7 +192,7 @@ De correcties op het tenderbedrag voor subsidie voor een productie-installatie a
 
 #### § 3. Correctiebedragen hernieuwbaar gas
 
-#### Artikel 4
+##### Artikel 4
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 als volgt vastgesteld: voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=31), het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 31, eerste lid, onderdeel b, van het besluit, het in de vierde kolom genoemde bedrag.
 
@@ -229,7 +255,7 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 4. Correctiebedragen hernieuwbare warmte en gecombineerde opwekking van hernieuwbare elektriciteit en hernieuwbare warmte
 
-#### Artikel 5
+##### Artikel 5
 
 De correcties op het basisbedrag voor subsidie voor een productie-installatie als bedoeld in het in de eerste kolom genoemde artikel, worden voor 2016 als volgt vastgesteld: voor wat betreft de elektriciteits- of energieprijs, bedoeld in [artikel 14, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=14), of [47, eerste lid, onderdeel a, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0022735&artikel=47) het in de derde kolom genoemde bedrag en voor wat betreft de correcties, bedoeld in artikel 14, eerste lid, onderdelen b en c, of artikel 47, eerste lid, onderdelen b en c, het in de vierde kolom genoemde bedrag.
 
@@ -317,11 +343,11 @@ De correcties op het basisbedrag voor subsidie voor een productie-installatie al
 
 #### § 5. Slotbepalingen
 
-#### Artikel 6
+##### Artikel 6
 
 Deze regeling treedt in werking met ingang van 1 januari 2016.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2016.
 

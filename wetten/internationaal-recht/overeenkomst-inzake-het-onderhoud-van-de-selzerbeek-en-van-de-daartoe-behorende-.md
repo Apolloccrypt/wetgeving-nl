@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst inzake het onderhoud van de Selzerbeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied"
 identifier: "BWBV0002497"
-categorie: "Internationaal recht"
-publicatiedatum: 1992-04-01
-laatste_update: 1992-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002497"
+country: "nl"
+rank: "verdrag"
+publication_date: "1992-04-01"
+last_updated: "1992-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002497"
+soort: "verdrag"
+stam_id: "10002907883"
+version_id: "10002908242"
+internal_id: "C10006976741"
+label_id: "10002895084"
+dtd_version: "2.0"
+original_entry_into_force: "1992-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002497/1992-04-01/0"
+intitule_bron: "Trb.1991-66"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-04-01"
+intitule_published: "1991-05-01"
+intitule_in_force: "1997-09-11"
+intitule_status: "goed"
+original_publication: "Trb.1991-66"
+original_signed_date: "1992-04-01"
+original_published_date: "1991-05-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1991-66"
+entry_into_force_date: "1992-04-01"
+jci_1_3: "jci1.3:c:BWBV0002497&z=1992-04-01&g=1992-04-01"
+jci_1_0: "1.0:c:BWBV0002497&g=1992-04-01"
+citeertitel_status: "officieel"
+signed_date: "1992-04-01"
+entry_into_force: "1992-04-01"
 ---
-
 # Overeenkomst inzake het onderhoud van de Selzerbeek en van de daartoe behorende kunstwerken in het Nederlands-Duitse grensgebied
 
 De stad Aken, vertegenwoordigd door de Oberstadtdirektor Dr. Berger en
@@ -18,7 +43,7 @@ verder partijen genoemd,
 
 sluiten, gelet op Hoofdstuk 4, artikel 59, lid 2 van het op 8 april 1960 tussen het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland gesloten grensverdrag, de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 De Partijen verplichten zich - zonder de plichten van derden te verminderen - de Selzerbeek tussen grenssteen 197 en grenssteen 201 te onderhouden voor wat betreft de op de bijgevoegde overzichtskaart aangeduide beekgedeelten. Daarbij dient in het bijzonder de meanderende staat van de watergang te worden behouden en het afvoerprofiel vrijgehouden te worden.
 
@@ -26,7 +51,7 @@ De overeenkomst is van kracht binnen het raam van de vigerende wettelijke bepali
 
 De overzichtskaart, schaal 1 : 25.000 maakt deel uit van deze overeenkomst (bijlage 1).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het onderhoud omvat:
 
@@ -38,11 +63,11 @@ De overzichtskaart, schaal 1 : 25.000 maakt deel uit van deze overeenkomst (bijl
 
 2. De noodzakelijke omvang van de onderhoudswerkzaamheden wordt bij de jaarlijkse gemeenschappelijke schouw over de watergang vastgelegd. Afvoerobstakels, welke tot schade aan de bodem, de taluds en de kunstwerken, dan wel tot wijzigingen van het beekverloop, kunnen leiden, dienen onmiddellijk door de onderhoudsplichtigen te worden opgeruimd.
 
-#### Artikel 3
+##### Artikel 3
 
 Het tijdstip van het uitvoeren van de gemeenschappelijk vastgelegde onderhoudswerkzaamheden dient met de verantwoordelijke landschapsinstanties te worden afgestemd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het geheel aan Duitse zijde gelegen beekgedeelte bij Lemiers vormt geen onderdeel van deze overeenkomst. Dit beekgedeelte wordt door de stad Aken onderhouden.
 
@@ -54,7 +79,7 @@ Het tijdstip van het uitvoeren van de gemeenschappelijk vastgelegde onderhoudswe
 
 3. De partijen verplichten zich het in haar gebied bij de bevoegde instanties te bewerkstelligen, dat de niet door haar te onderhouden werken in en aan de watergang door de daartoe verplichte derden worden onderhouden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Voor het toezicht op het onderhoud wordt een schouwcommissie van vier leden gevormd. Zij bestaat uit twee vertegenwoordigers van het Waterschap Roer en Overmaas en twee vertegenwoordigers van de stad Aken.
 
@@ -82,17 +107,17 @@ De partijen, de toezichthoudende organen, alsmede het Staatliches Amt für Wasse
 
 9. De partijen verbinden zich elkaar behulpzaam te zijn bij het verkrijgen van de vereiste grensbescheiden voor de leden van de schouwcommissie en de deskundigen die hun terzijde staan. Dit geldt ook voor de uitvoering van de onderhoudswerkzaamheden.
 
-#### Artikel 6
+##### Artikel 6
 
 Wijzigingen in de overeenkomst behoeven de goedkeuring van de regeringen van het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De overeenkomst wordt gesloten voor de tijdsduur van tien jaren. Wordt zij niet drie jaren voor de expiratiedatum opgezegd, dan wordt zij geacht stilzwijgend te zijn verlengd met telkens tien jaren.
 
 2. De opzegging dient te geschieden bij aangetekend schrijven.
 
-#### Artikel 8
+##### Artikel 8
 
 Deze overeenkomst behoeft de goedkeuring van de regeringen van het Koninkrijk der Nederlanden en de Bondsrepubliek Duitsland. Zij treedt in werking een maand na ontvangst van de laatste kennisgeving van goedkeuring bij één van de partijen. De partijen stellen het tijdstip van inwerkingtreding schriftelijk vast.
 

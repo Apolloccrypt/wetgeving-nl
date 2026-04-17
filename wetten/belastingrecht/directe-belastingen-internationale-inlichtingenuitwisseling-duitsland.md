@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, Internationale inlichtingenuitwisseling; Duitsland"
 identifier: "BWBR0045773"
-categorie: "Belastingrecht"
-publicatiedatum: 2021-10-15
-laatste_update: 2021-10-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045773"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2021-10-15"
+last_updated: "2021-10-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045773"
+soort: "beleidsregel"
+stam_id: "16119043"
+version_id: "28119052"
+internal_id: "C39653011"
+label_id: "16049454"
+dtd_version: "2.0"
+original_entry_into_force: "2021-10-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045773/2021-10-15/0"
+intitule_bron: "Stcrt.2021-45227"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-10-15"
+intitule_published: "2021-11-03"
+intitule_in_force: "2021-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-45227"
+original_signed_date: "2021-10-15"
+original_published_date: "2021-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-45227"
+entry_into_force_date: "2021-10-15"
+jci_1_3: "jci1.3:c:BWBR0045773&z=2021-10-15&g=2021-10-15"
+jci_1_0: "1.0:c:BWBR0045773&g=2021-10-15"
+citeertitel_status: "redactioneel"
+signed_date: "2021-10-15"
+entry_into_force: "2021-10-15"
 ---
-
 # Directe belastingen, Internationale inlichtingenuitwisseling; Duitsland
 
 **De Staatssecretaris van Financiën – Fiscaliteit en Belastingdienst maakt het volgende bekend.**

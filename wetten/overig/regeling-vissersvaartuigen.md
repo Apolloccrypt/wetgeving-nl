@@ -1,13 +1,38 @@
 ---
 title: "Regeling vissersvaartuigen"
 identifier: "BWBR0016372"
-categorie: "Overig"
-publicatiedatum: 2013-04-01
-laatste_update: 2013-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016372"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-04-01"
+last_updated: "2013-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016372"
+soort: "ministeriele-regeling"
+stam_id: "5701863"
+version_id: "18528112"
+internal_id: "C25856391"
+label_id: "5682214"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016372/2013-04-01/0"
+intitule_bron: "Stcrt.2004-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-02-09"
+intitule_published: "2004-02-17"
+intitule_in_force: "2004-02-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-7314"
+original_signed_date: "2011-04-19"
+original_published_date: "2011-04-29"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-7314"
+entry_into_force_date: "2011-04-19"
+jci_1_3: "jci1.3:c:BWBR0016372&z=2013-04-01&g=2013-04-01"
+jci_1_0: "1.0:c:BWBR0016372&g=2013-04-01"
+citeertitel_status: "officieel"
+signed_date: "2011-04-19"
+entry_into_force: "2011-04-19"
 ---
-
 # Regeling vissersvaartuigen
 
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en met de Minister van Vervoer en Communicatie van Aruba;
@@ -18,17 +43,17 @@ Besluit:
 
 #### § 1. Aanvullende voorschriften voor de boomkorvisserij
 
-#### Artikel 1.1
+##### Artikel 1.1
 
 Deze paragraaf is van toepassing op vissersvaartuigen waarmee de boomkorvisserij wordt uitgeoefend.
 
-#### Artikel 1.2
+##### Artikel 1.2
 
 1. De luikopeningen, bedoeld in [artikel 3.3 van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.3), zijn zodanig aangebracht dat bij een hellingshoek van 30° of minder geen buitenboordswater de onder het bovendek gelegen ruimten kan binnendringen indien deze luiken geopend zijn.
 
 2. Het eerste lid geldt niet indien aan het bepaalde in [artikel 3.2, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=3.2) omtrent de stabiliteit nog steeds wordt voldaan wanneer die ruimten geheel of gedeeltelijk vervuld zijn geraakt.
 
-#### Artikel 1.3
+##### Artikel 1.3
 
 Tijdens het vissen worden de volgende maatregelen genomen:
 
@@ -36,11 +61,11 @@ Tijdens het vissen worden de volgende maatregelen genomen:
 
 - b. een vastgelopen tuig wordt niet losgetrokken aan een over het uiteinde van de giek lopende vislijn.
 
-#### Artikel 1.4
+##### Artikel 1.4
 
 De inrichting van het vaartuig en de tuigage van de gieken zijn zodanig uitgevoerd dat de gieken in getopte stand zeevast kunnen worden gezet.
 
-#### Artikel 1.5
+##### Artikel 1.5
 
 1. De vislijnen worden gescheerd door geleideblokken die nabij het scheepsboord permanent zijn opgesteld, en vervolgens door blokken aan de uiteinden van de gieken.
 
@@ -48,11 +73,11 @@ De inrichting van het vaartuig en de tuigage van de gieken zijn zodanig uitgevoe
 
 #### § 2. Plaats van de elektrische noodkrachtbron
 
-#### Artikel 2.1
+##### Artikel 2.1
 
 De onafhankelijk werkende elektrische noodkrachtbron, bedoeld in [artikel 4.17, eerste lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=4.17), is opgesteld boven het bovenste doorlopende dek en is niet geplaatst voor het aanvaringsschot.
 
-#### Artikel 2.2
+##### Artikel 2.2
 
 1. Indien de elektrische noodkrachtbron een generator is als bedoeld in [artikel 4.17, vierde lid, onder a, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=4.17), wordt deze bij het uitvallen van de elektrische voeding vanaf de elektrische hoofdkrachtbron automatisch gestart en vervolgens automatisch op het noodschakelbord geschakeld.
 
@@ -60,7 +85,7 @@ De onafhankelijk werkende elektrische noodkrachtbron, bedoeld in [artikel 4.17, 
 
 #### § 3. Voorschriften voor elektrisch lassen
 
-#### Artikel 3.1
+##### Artikel 3.1
 
 Ten aanzien van elektrische lastoestellen die deel uitmaken van de uitrusting van een vissersvaartuig, gelden de volgende voorschriften:
 
@@ -76,7 +101,7 @@ Ten aanzien van elektrische lastoestellen die deel uitmaken van de uitrusting va
 
 - f. de schipper laat regelmatig nagaan of de elektrische lastoestellen aan boord nog voldoen aan de voorschriften onder a tot en met e en houdt daarvan aantekening in het scheepsdagboek.
 
-#### Artikel 3.2
+##### Artikel 3.2
 
 1. In afwijking van [artikel 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2013-04-01&g=2013-04-01) mogen elektrische lastoestellen die reeds op 15 november 2001 deel uitmaakten van de uitrusting van een vissersvaartuig en die niet voldoen aan [artikel 3.1, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=3&artikel=3.1&z=2013-04-01&g=2013-04-01), tot ten hoogste vier jaar na genoemde datum in gebruik blijven aan boord van dat vaartuig, mits de voorschriften van het tweede tot en met zesde lid in acht worden genomen.
 
@@ -90,7 +115,7 @@ Ten aanzien van elektrische lastoestellen die deel uitmaken van de uitrusting va
 
 6. De voltmeter, bedoeld in het vijfde lid, is van een deugdelijke constructie en is voorts tegen mechanische beschadiging beschermd. De nominale waarde van de verlaagde nullast spanning is op duidelijke wijze op de meterschaal aangegeven.
 
-#### Artikel 3.3
+##### Artikel 3.3
 
 Ten aanzien van het uitvoeren van laswerkzaamheden met elektrische lastoestellen, ongeacht of wisselspanning of gelijkspanning wordt toegepast, gelden de volgende voorschriften:
 
@@ -104,7 +129,7 @@ Ten aanzien van het uitvoeren van laswerkzaamheden met elektrische lastoestellen
 
 #### § 4. Voorschriften voor de werkruimten
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Een noodstopvoorziening van de vislieren als bedoeld in [artikel 6.14, tweede lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=6.14) voldoet aan de volgende voorschriften:
 
@@ -118,13 +143,13 @@ Een noodstopvoorziening van de vislieren als bedoeld in [artikel 6.14, tweede li
 
 - e. het wederom in bedrijf stellen van de vislier kan alleen handmatig geschieden en is pas mogelijk nadat de noodstopvoorziening in de oorspronkelijke bedrijfstoestand is teruggebracht en de bedieningsorganen in de ruststand zijn geplaatst.
 
-#### Artikel 4.2
+##### Artikel 4.2
 
 1. De vislierinstallatie kan in beide richtingen worden aangedreven. De aandrijving van de vislierinstallatie, alsmede de remmen en de koppelingen van de trommels zijn vanuit het stuurhuis bedienbaar.
 
 2. In het stuurhuis is nabij de bedieningsplaats van de vislier een afzonderlijke voorziening aangebracht waarmee, na gebruik van de noodstopvoorziening, bedoeld in [artikel 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4&artikel=4.1&z=2013-04-01&g=2013-04-01), de remmen van de liertrommels kunnen worden gelicht teneinde een onder spanning staande visdraad vrij te laten vieren. Deze voorziening is zodanig uitgevoerd dat deze bij het loslaten automatisch in de ruststand terugkeert.
 
-#### Artikel 4.3
+##### Artikel 4.3
 
 Vislieren met elektrische of hydraulische aandrijving zijn zodanig ingericht dat:
 
@@ -138,17 +163,17 @@ Vislieren met elektrische of hydraulische aandrijving zijn zodanig ingericht dat
 
 #### § 4a. Nieuwe vissersvaartuigen, gebouwd op of na 1 januari 2003
 
-#### Artikel 5.1
+##### Artikel 5.1
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 5.2
+##### Artikel 5.2
 
 Deze regeling wordt aangehaald als: Regeling vissersvaartuigen.
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-#### Artikel 4a.1
+##### Artikel 4a.1
 
 1. Vissersvaartuigen die zijn gebouwd op of na 1 januari 2003 voldoen aan de voorschriften van [richtlijn nr. 2002/35/EG](32002L0035) van de Commissie van de Europese Gemeenschappen van 25 april 2002 (PbEG L 112) tot wijziging van [Richtlijn 97/70/EG](31997L0070) van de Raad betreffende de invoering van een geharmoniseerde veiligheidsregeling voor vissersvaartuigen waarvan de lengte 24 m of meer bedraagt.
 
@@ -158,7 +183,7 @@ Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Cou
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-#### Artikel 4b.1
+##### Artikel 4b.1
 
 Tussentijdse onderzoeken als bedoeld in [artikel 1.12, vierde lid, van het Vissersvaartuigenbesluit 2002](https://wetten.overheid.nl/jci1.3:c:BWBR0013342&artikel=1.12) vinden eenmaal per twee jaar plaats in de periode van drie maanden voor tot drie maanden na de dag en de maand van afgifte van het certificaat van overeenstemming.
 
@@ -166,11 +191,11 @@ Tussentijdse onderzoeken als bedoeld in [artikel 1.12, vierde lid, van het Visse
 
 Deze regeling zal met de toelichting in de Staatscourant, in de Curaçaosche Courant en in het Afkondigingsblad van Aruba worden geplaatst.
 
-#### Artikel 4c.1
+##### Artikel 4c.1
 
 Deze paragraaf is slechts van toepassing op Nederlandse vissersvaartuigen en vissersvaartuigen die dienstdoen in de binnenwateren of territoriale wateren van het Europese deel van Nederland, of hun vangst aan land brengen in een haven in het Europese deel van Nederland.
 
-#### Artikel 4c.2
+##### Artikel 4c.2
 
 Vissersvaartuigen met een lengte over alles van meer dan 15 meter zijn volgens het volgende tijdschema uitgerust met een automatisch identificatiesysteem (klasse A) dat voldoet aan de door de IMO ontwikkelde prestatienormen:
 
@@ -182,11 +207,11 @@ Vissersvaartuigen met een lengte over alles van meer dan 15 meter zijn volgens h
 
 - –. vissersvaartuigen met een lengte over alles van meer dan 15 meter, doch minder dan 18 meter: uiterlijk op 31 mei 2014.
 
-#### Artikel 4c.3
+##### Artikel 4c.3
 
 De schipper van een vaartuig dat is uitgerust met een automatisch identificatiesysteem is verplicht dat systeem te allen tijde operationeel te houden in overeenstemming met voorschrift V/19.2.4.7 van het op 1 november 1974 te Londen tot stand gekomen Verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen, tenzij dit in uitzonderlijke omstandigheden naar het oordeel van de schipper gevaar oplevert voor de veiligheid of de beveiliging van het vissersvaartuig.
 
-#### Artikel 4c.4
+##### Artikel 4c.4
 
 Overtreding van [artikel 4c.2](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4c&artikel=4c.2&z=2013-04-01&g=2013-04-01) door buitenlandse vissersvaartuigen en overtreding van [artikel 4c.3](https://wetten.overheid.nl/jci1.3:c:BWBR0016372&paragraaf=4c&artikel=4c.3&z=2013-04-01&g=2013-04-01) zijn strafbare feiten.
 

@@ -1,14 +1,38 @@
 ---
-title: "Wet vernieuwing hypothecaire inschrijvingen 1964"
+title: "Wet van 2 juni 1965, houdende vernieuwing van hypothecaire inschrijvingen en van overschrijvingen van processen-verbaal van beslag"
 identifier: "BWBR0002490"
-categorie: "Overig"
-publicatiedatum: 1965-08-01
-laatste_update: 1965-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002490"
+country: "nl"
+rank: "wet"
+publication_date: "1965-08-01"
+last_updated: "1965-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002490"
+soort: "wet"
+stam_id: "402943"
+version_id: "592002"
+internal_id: "C592001"
+label_id: "392524"
+dtd_version: "2.0"
+original_entry_into_force: "1965-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002490/1965-08-01/0"
+intitule_bron: "Stb.1965-294"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1965-06-02"
+intitule_status: "goed"
+original_publication: "Stb.1965-294"
+original_signed_date: "1965-06-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "7710"
+entry_into_force_date: "1965-08-01"
+entry_into_force_dossier: "7710"
+jci_1_3: "jci1.3:c:BWBR0002490&z=1965-08-01&g=1965-08-01"
+jci_1_0: "1.0:c:BWBR0002490&g=1965-08-01"
+citeertitel_status: "officieel"
+short_title: "Wet vernieuwing hypothecaire inschrijvingen 1964"
+signed_date: "1965-06-02"
+entry_into_force: "1965-08-01"
 ---
-
-# Wet vernieuwing hypothecaire inschrijvingen 1964
+# Wet van 2 juni 1965, houdende vernieuwing van hypothecaire inschrijvingen en van overschrijvingen van processen-verbaal van beslag
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treff
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Met afwijking van artikel 1236 van het Burgerlijk Wetboek zijn de vóór 1 juli 1948 genomen hypothecaire inschrijvingen onderworpen aan vernieuwing binnen een tijdvak van twee jaren, aanvangend op een door onze Minister van Financiën vast te stellen en in de **Nederlandse Staatscourant** bekend te maken tijdstip.
 
@@ -24,7 +48,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. Het bepaalde in het eerste en het tweede lid vindt overeenkomstige toepassing ten aanzien van de vóór 1 juli 1948 overgeschreven processen-verbaal van beslag.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Om de vernieuwing van een hypothecaire inschrijving te bewerkstelligen worden door tussenkomst van een notaris bij de bewaarder van de hypotheken, het kadaster en de scheepsbewijzen, binnen wiens ambtsgebied het onroerend goed is gelegen of te wiens kantore het schip is teboekgesteld, ter inschrijving ingeleverd twee door of namens de schuldeiser ondertekende borderellen.
 
@@ -44,7 +68,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 4. Indien niet voldaan is aan de in de vorige leden gestelde vereisten weigert de hypotheekbewaarder de inschrijving.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De vóór 1 juli 1948 genomen hypothecaire inschrijvingen verliezen hun kracht met ingang van de dagtekening van de herinschrijving, of, zo zij niet binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002490&artikel=1&z=1965-08-01&g=1965-08-01) gestelde termijn zijn vernieuwd, met ingang van de dag, volgende op die, waarop die termijn is verstreken. Bij het opmaken van afschriften en getuigschriften, als bedoeld zijn in artikel 1265 van het Burgerlijk Wetboek, worden de inschrijvingen welke ingevolge de vorige volzin hun kracht hebben verloren, buiten aanmerking gelaten.
 
@@ -52,11 +76,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 3. De schuldeiser kan de binnen genoemde termijn niet vernieuwde inschrijving opnieuw doen bewerkstelligen overeenkomstig de bepalingen van het Burgerlijk Wetboek; alsdan worden de rang en de rechten van de belanghebbenden bepaald naar de dagtekening van de nieuwe inschrijving en is [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002490&artikel=6&z=1965-08-01&g=1965-08-01) niet van toepassing.
 
-#### Artikel 4
+##### Artikel 4
 
 Toeziende voogden en toeziende curatoren zijn op straffe van vergoeding van kosten, schaden en interessen verplicht toe te zien, dat de hypothecaire inschrijvingen tot zekerheid van het beheer van voogden en curatoren genomen, worden vernieuwd binnen de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002490&artikel=1&z=1965-08-01&g=1965-08-01) gestelde termijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Om de vernieuwing van een proces-verbaal van beslag te bewerkstelligen wordt door de beslaglegger bij de desbetreffende bewaarder van de hypotheken, het kadaster en de scheepsbewijzen het proces-verbaal van beslag opnieuw ter overschrijving aangeboden.
 
@@ -64,7 +88,7 @@ Toeziende voogden en toeziende curatoren zijn op straffe van vergoeding van kost
 
 3. Op de in het eerste lid genoemde overschrijving zijn van toepassing de wettelijke bepalingen inzake de overschrijving van processen-verbaal van beslag.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De verrichtingen van de hypotheekbewaarders, betrekking hebbende op de voorbereiding en de totstandkoming van de vernieuwing geschieden kosteloos.
 
@@ -74,7 +98,7 @@ Toeziende voogden en toeziende curatoren zijn op straffe van vergoeding van kost
 
 Zij zijn bevoegd voor hun diensten ten laste van de schuldenaar een bedrag in rekening te brengen van f 10,- voor een hypothecaire vordering van f 2000,- of minder, f 20,- voor een vordering van meer dan f 2000,- doch niet meer dan f 5000,-, f 30,- voor een vordering van meer dan f 5000,- doch niet meer dan f 20 000,-, en f 50,- voor een vordering van meer dan f 20 000,-, behoudens vergoeding van hetgeen door hen voor belanghebbenden mocht zijn voorgeschoten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Deze wet kan worden aangehaald als: Wet vernieuwing hypothecaire inschrijvingen 1964.
 

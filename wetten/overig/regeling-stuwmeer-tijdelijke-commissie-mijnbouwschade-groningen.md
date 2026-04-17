@@ -1,20 +1,46 @@
 ---
-title: "Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen"
+title: "Regeling van de Minister van Economische Zaken en Klimaat van 3 juli 2019, nr. WJZ/ 19151179, houdende maatregelen aanpak stuwmeer schademeldingen Tijdelijke Commissie Mijnbouwschade Groningen (Regeling Stuwmeer TCMG)"
 identifier: "BWBR0042372"
-categorie: "Overig"
-publicatiedatum: 2019-07-05
-laatste_update: 2019-07-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042372"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-07-05"
+last_updated: "2019-07-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042372"
+soort: "ministeriele-regeling"
+stam_id: "15115393"
+version_id: "25911042"
+internal_id: "C36921071"
+label_id: "15063744"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042372/2019-07-05/0"
+intitule_bron: "Stcrt.2019-38034"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-07-03"
+intitule_published: "2019-07-04"
+intitule_in_force: "2019-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-38034"
+original_signed_date: "2019-07-03"
+original_published_date: "2019-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-38034"
+entry_into_force_date: "2019-07-05"
+jci_1_3: "jci1.3:c:BWBR0042372&z=2019-07-05&g=2019-07-05"
+jci_1_0: "1.0:c:BWBR0042372&g=2019-07-05"
+citeertitel_status: "officieel"
+short_title: "Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen"
+signed_date: "2019-07-03"
+entry_into_force: "2019-07-05"
 ---
-
 # Regeling van de Minister van Economische Zaken en Klimaat van 3 juli 2019, nr. WJZ/ 19151179, houdende maatregelen aanpak stuwmeer schademeldingen Tijdelijke Commissie Mijnbouwschade Groningen (Regeling Stuwmeer TCMG)
 
 Gelet op [artikel 4:81](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) en [afdeling 10.1.1 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=10.1.1);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - c. wettelijke rente.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De Commissie heeft tot taak te besluiten op verzoeken om vergoeding als bedoeld in [artikel 3, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), het nemen van beslissingen op bezwaren tegen die besluiten, het voeren van verweer in beroepsprocedures tegen de beslissingen op bezwaar en het voeren van hoger beroepsprocedures tegen uitspraken van de rechtbank.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 3. De leden van de Commissie, het aan haar ter beschikking gestelde personeel en de door de Commissie ingeschakelde deskundigen verlangen of ontvangen geen instructies van derden die op een individuele zaak betrekking hebben.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een aanvrager die vóór 13 juni 2019 een aanvraag als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) heeft ingediend, kan, indien ten tijde van zijn verzoek op grond van dit artikel nog geen besluit op die aanvraag is genomen door de Commissie, de Commissie verzoeken zijn aanvraag als bedoeld in artikel 3, tweede lid, van het Besluit te wijzigen in een aanvraag op grond van deze regeling om eenmalig een vaste vergoeding in geld toe te kennen ter hoogte van € 5.000,-, bestaande uit;
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 5. De Commissie informeert aanvragers die aanvragen als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) hebben ingediend schriftelijk vóór 14 juli 2019 of zij in aanmerking komen voor het gebruik van deze regeling en, voor zover zij voor het gebruik van deze regeling in aanmerking komen, dat het voortzetten van de procedure op grond van het [Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584) na die datum er ingevolge het derde lid, onderdeel c, toe leidt dat zij geen beroep kunnen doen op deze regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De Commissie verbindt aan een besluit op een aanvraag als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), de voorwaarde dat aanvrager desgevraagd medewerking verleent of laat verlenen aan het uitvoeren van een nulmeting aan het gebouw of werk waarop de aanvraag betrekking had.
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 3. De Commissie kan aan haar besluit op een aanvraag als bedoeld in [artikel 3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), nadere voorwaarden stellen waaraan de facturen moeten voldoen. De Commissie publiceert deze voorwaarden ook op haar website.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het verzoek tot wijziging van een aanvraag als bedoeld in [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) in een aanvraag als bedoeld in[artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), wordt bij de Commissie ingediend door middel van een door de Commissie vastgesteld digitaal formulier.
 
@@ -114,25 +140,25 @@ In deze regeling wordt verstaan onder:
 
 - b. afwijken van [artikel 3, derde lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), ten einde onbillijkheden van overwegende aard te voorkomen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een verzoek als bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), wijzigt alle aanvragen die de aanvrager heeft ingediend op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) waarop ten tijde van het verzoek tot wijziging van de aanvraag nog geen besluit is genomen door de Commissie.
 
 2. Indien de Commissie een aanvraag, bedoeld in [artikel 3, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0042372&artikel=3&z=2019-07-05&g=2019-07-05), afwijst, herleeft de aanvraag op grond van [artikel 3, tweede lid, van het Besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0040584&artikel=3) zodra het afwijzende besluit op grond van deze regeling onherroepelijk is geworden.
 
-#### Artikel 7
+##### Artikel 7
 
 Wijzigt het Besluit mijnbouwschade Groningen.
 
-#### Artikel 8
+##### Artikel 8
 
 Wijzigt de Regeling waardevermeerdering woningen gaswinning Groningenveld.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 3 juli 2019.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling Stuwmeer Tijdelijke Commissie Mijnbouwschade Groningen.
 

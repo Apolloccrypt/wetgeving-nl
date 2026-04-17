@@ -1,14 +1,40 @@
 ---
-title: "Wet op de vennootschapsbelasting 1969"
+title: "Wet van 8 oktober 1969, houdende vervanging van het Besluit op de Vennootschapsbelasting 1942 door een nieuwe wettelijke regeling"
 identifier: "BWBR0002672"
-categorie: "Belastingrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002672"
+country: "nl"
+rank: "wet"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002672"
+soort: "wet"
+stam_id: "2697283"
+version_id: "30519642"
+internal_id: "C43752641"
+label_id: "2643414"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002672/2026-01-01/0"
+intitule_bron: "Stb.1969-445"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1969-10-08"
+intitule_status: "goed"
+original_publication: "Stb.2024-435"
+original_signed_date: "2024-12-18"
+original_published_date: "2024-12-23"
+original_effect: "structuurwijziging"
+original_dossier: "36603"
+original_url_id: "stb-2024-435"
+entry_into_force_date: "2024-12-18"
+entry_into_force_dossier: "36603"
+jci_1_3: "jci1.3:c:BWBR0002672&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0002672&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de vennootschapsbelasting 1969"
+signed_date: "2024-12-18"
+entry_into_force: "2024-12-18"
 ---
-
-# Wet op de vennootschapsbelasting 1969
+# Wet van 8 oktober 1969, houdende vervanging van het Besluit op de Vennootschapsbelasting 1942 door een nieuwe wettelijke regeling
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,11 +44,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk I. Belastingplicht
 
-#### Artikel 1
+##### Artikel 1
 
 Onder de naam 'vennootschapsbelasting' wordt een directe belasting geheven van de lichamen vermeld in de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als binnenlandse belastingplichtigen zijn aan de belasting onderworpen de in Nederland gevestigde:
 
@@ -68,7 +94,7 @@ Onder de naam 'vennootschapsbelasting' wordt een directe belasting geheven van d
 
 - b. een alternatieve beleggingsinstelling als bedoeld in [artikel 4, vijfde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=4).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Als buitenlandse belastingplichtigen zijn aan de belasting onderworpen de niet in Nederland gevestigde:
 
@@ -160,7 +186,7 @@ heeft die belastingplichtige voor de toepassing van het vierde lid, onderdeel b,
 
 - b. recht geeft op meer dan 50% van de winst van het lichaam.
 
-#### Artikel 4
+##### Artikel 4
 
 Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), en in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), wordt mede verstaan:
 
@@ -170,7 +196,7 @@ Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achts
 
 - c. het zijn van medegerechtigde tot het vermogen van een onderneming, voor zover dit niet opkomt uit effectenbezit, waarbij de medegerechtigdheid zich niet behoeft uit te strekken tot een eventueel liquidatiesaldo.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Wij behouden Ons voor bij algemene maatregel van bestuur onder daarbij te stellen voorwaarden van de belasting vrij te stellen:
 
@@ -210,7 +236,7 @@ Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achts
 
 5. Voor de toepassing van het eerste lid, aanhef en onderdeel b, worden met werknemers gelijkgesteld: deelnemers aan een pensioenregeling als bedoeld in [artikel 1.7, tweede lid, onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=1.7).
 
-#### Artikel 6
+##### Artikel 6
 
 1. Lichamen als bedoeld in [artikel 2, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 3, derde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), zijn met betrekking tot een jaar van de belasting vrijgesteld, indien de winst van het jaar – opgevat overeenkomstig [hoofdstuk II](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&z=2026-01-01&g=2026-01-01) van deze wet met uitzondering van [artikel 9a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=9a&z=2026-01-01&g=2026-01-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=12&z=2026-01-01&g=2026-01-01) – niet meer bedraagt dan € 15 000, dan wel van het jaar en de daaraan voorafgaande vier jaren tezamen niet meer bedraagt dan € 75 000. Indien in een jaar verlies geleden wordt, wordt de winst voor dat jaar gesteld op nihil.
 
@@ -222,7 +248,7 @@ Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achts
 
 ### Hoofdstuk II. Voorwerp van de belasting bij binnenlandse belastingplichtigen
 
-#### Artikel 7
+##### Artikel 7
 
 1. Ten aanzien van binnenlandse belastingplichtigen wordt de belasting geheven naar het belastbare bedrag.
 
@@ -234,7 +260,7 @@ Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achts
 
 5. Bij ministeriële regeling kunnen regels worden gesteld in welke gevallen de inspecteur onder door hem te stellen voorwaarden de belastingplichtige op zijn verzoek kan toestaan het belastbare bedrag te berekenen in een andere geldeenheid dan de euro. Daarbij wordt onder meer aangegeven tegen welke koers de in de wetgeving opgenomen bedragen in euro’s worden omgerekend in de andere geldeenheid en tegen welke koers het in de andere geldeenheid berekende belastbare bedrag wordt omgerekend in euro’s. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De winst wordt opgevat en bepaald op de voet van de [artikelen 3.8](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.8), [3.11](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.11) en [3.12](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.12), [3.13, eerste lid, onderdelen g, h en i](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.13), [3.14, eerste lid, onderdelen b tot en met i, en tweede tot en met vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.14), [3.21 tot en met 3.30](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.20a), [3.30a, eerste tot en met zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.30a), 3.31 tot en met 3.52, 3.53, eerste lid, onderdelen a en b, en tweede lid, 3.54, [3.55 tot en met 3.57](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55), [10.10](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.10), [10a.2](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.2), [10a.3](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.3) en [10a.18 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10a.18), waarbij voor ondernemer wordt gelezen belastingplichtige.
 
@@ -282,11 +308,11 @@ Onder het drijven van een onderneming als bedoeld in [artikel 2, tweede en achts
 
 16. Het vierde lid is niet van toepassing indien de belastingplichtige deel heeft uitgemaakt van een fiscale eenheid en sinds het ontvoegingstijdstip minder dan zes jaren zijn verstreken, behoudens voor zover de belastingplichtige aannemelijk maakt dat de in dat lid bedoelde voordelen niet tot zijn winst zouden behoren, indien hij geen deel zou hebben uitgemaakt van de fiscale eenheid. [Artikel 15ac, tweede lid, tweede zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ac&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 8a
+##### Artikel 8a
 
 Tot de winst behoort niet het bedrag waarmee de af te dragen dividendbelasting ingevolge [artikel 11, eerste lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=11) is verminderd.
 
-#### Artikel 8b
+##### Artikel 8b
 
 1. Indien een lichaam, onmiddellijk of middellijk, deelneemt aan de leiding van of het toezicht op, dan wel in het kapitaal van een ander lichaam en tussen deze lichamen ter zake van hun onderlinge rechtsverhoudingen voorwaarden worden overeengekomen of opgelegd (verrekenprijzen) die afwijken van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen, wordt de winst van die lichamen bepaald alsof die laatstbedoelde voorwaarden zouden zijn overeengekomen.
 
@@ -294,7 +320,7 @@ Tot de winst behoort niet het bedrag waarmee de af te dragen dividendbelasting i
 
 3. De in het eerste en tweede lid bedoelde lichamen nemen in hun administratie gegevens op waaruit blijkt op welke wijze de in dat lid bedoelde verrekenprijzen tot stand zijn gekomen en waaruit kan worden opgemaakt of er met betrekking tot de totstandgekomen verrekenprijzen sprake is van voorwaarden die in het economische verkeer door onafhankelijke partijen zouden zijn overeengekomen.
 
-#### Artikel 8c
+##### Artikel 8c
 
 1. Bij het bepalen van de winst blijven buiten aanmerking de door de belastingplichtige van onderscheidenlijk aan lichamen of natuurlijke personen die behoren tot het concern waarvan de belastingplichtige deel uitmaakt, ontvangen en betaalde:
 
@@ -314,7 +340,7 @@ De belastingplichtige dient aannemelijk te maken dat dit bedrag aan eigen vermog
 
 4. Onder een concern wordt verstaan: de belastingplichtige tezamen met de met hem verbonden lichamen en verbonden natuurlijke personen, bedoeld in [artikel 10a, vierde en zevende lid, onderscheidenlijk vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=10a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij het bepalen van de winst komen mede in aftrek:
 
@@ -342,7 +368,7 @@ De belastingplichtige dient aannemelijk te maken dat dit bedrag aan eigen vermog
 
 6. Bij ministeriële regeling kunnen ter voorkoming van concurrentieverstoring, lichamen, groepen lichamen of activiteiten worden uitgezonderd van de toepassing van het eerste lid, onderdeel g.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Bij het bepalen van de winst komen niet in aftrek:
 
@@ -378,7 +404,7 @@ De belastingplichtige dient aannemelijk te maken dat dit bedrag aan eigen vermog
 
 4. Bij het begin van het kalenderjaar wordt het in het eerste lid, onderdeel j, genoemde bedrag bij ministeriële regeling vervangen door een ander bedrag. Dit bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10.2), en vervolgens de nodig geachte afronding aan te brengen. Indien in het voorafgaande kalenderjaar een dergelijke afronding is toegepast, kan bij vervanging worden uitgegaan van het niet-afgeronde bedrag.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Bij het bepalen van de winst komen mede niet in aftrek renten – kosten en valutaresultaten daaronder begrepen – ter zake van schulden rechtens dan wel in feite direct of indirect verschuldigd aan een verbonden lichaam of verbonden natuurlijk persoon, voor zover die schulden rechtens dan wel in feite direct of indirect verband houden met een van de volgende rechtshandelingen:
 
@@ -424,11 +450,11 @@ De belastingplichtige dient aannemelijk te maken dat dit bedrag aan eigen vermog
 
 11. Voor de toepassing van het derde lid, onderdeel b, worden onder een naar de winst geheven belasting mede verstaan een kwalificerende binnenlandse bijheffing als bedoeld in [artikel 1.2 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2), een kwalificerende inkomen-inclusiemaatregel als bedoeld in dat artikel en een kwalificerende onderbelastewinstmaatregel als bedoeld in dat artikel.
 
-#### Artikel 10b
+##### Artikel 10b
 
 Indien de belastingplichtige van een lichaam waarmee hij is gelieerd in de zin van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8b&z=2026-01-01&g=2026-01-01) een geldlening heeft verkregen welke geen vaste aflossingsdatum heeft of een aflossingsdatum die meer dan 10 jaar is gelegen na het tijdstip van het aangaan daarvan, terwijl rechtens dan wel in feite geen vergoeding op die lening is overeengekomen of een vergoeding die in belangrijke mate lager is dan hetgeen in het economische verkeer door onafhankelijke partijen zou zijn overeengekomen, komen bij het bepalen van de winst vergoedingen op die lening en waardemutaties van die lening niet in aftrek. Bij verschuiving van de aflossingsdatum naar een later tijdstip wordt voor de toepassing van de eerste volzin de geldlening geacht vanaf het tijdstip van totstandkoming die nieuwe aflossingsdatum te hebben gehad.
 
-#### Artikel 10c
+##### Artikel 10c
 
 1. Bij het bepalen van de winst blijven buiten aanmerking voordelen uit hoofde van als tijdelijke belegging ingekochte eigen aandelen en aandelen in een vennootschap die voor tenminste een derde gedeelte belang heeft in de belastingplichtige.
 
@@ -438,17 +464,17 @@ Indien de belastingplichtige van een lichaam waarmee hij is gelieerd in de zin v
 
 4. Voor de toepassing van dit artikel wordt met een aandeel als bedoeld in het eerste lid gelijk gesteld een recht om een zodanig aandeel te verwerven alsmede een recht waarvan de waarde direct of indirect verband houdt met de waardeverandering van een zodanig aandeel.
 
-#### Artikel 10d
+##### Artikel 10d
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Bij het bepalen van de winst komt een aan een commissaris-natuurlijk persoon die in het lichaam een aanmerkelijk belang heeft in de zin van [artikel 4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.6) of [4.7 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=4.7) ter zake van de uitoefening van zijn taak toegekende beloning, welke per jaar meer dan € 1815 bedraagt slechts voor de helft doch tot ten minste € 1815 en ten hoogste € 9076 in aftrek. Indien en voor zover wordt aangetoond dat de beloning toegekend ter zake van de toezichthoudende taak uitgeoefend ten behoeve van niet-aandeelhouders en ter zake van het bijkomstig deelhebben aan de bestuurstaak, het op grond van de vorige volzin in aftrek komende bedrag te boven gaat, komt dit meerdere mede in aftrek.
 
 2. Het op grond van het eerste lid niet in aftrek komende gedeelte van een beloning van een commissaris wordt, indien die beloning ten goede komt aan een lichaam dat in de belastingplichtige een deelneming heeft als bedoeld is in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13&z=2026-01-01&g=2026-01-01), aangemerkt als een voordeel uit hoofde van die deelneming.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Lichamen die zijn aangemerkt als culturele instelling alsmede lichamen zonder aandeelhouders of deelgerechtigden die een sociaal belang behartigen en de winst hoofdzakelijk behalen met behulp van vrijwilligers, kunnen een bestedingsreserve vormen tot vermindering van de in aanmerking te nemen kosten bedoeld in het tweede lid, indien en zolang het voornemen bestaat tot het maken van die kosten.
 
@@ -470,7 +496,7 @@ Vervallen
 
 - b. waarbij aan de aanschaf, voortbrenging of verbetering van het bedrijfsmiddel respectievelijk voorbereiding van het project een begin van uitvoering is gegeven, maar verdere uitvoering is vertraagd door bijzondere omstandigheden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Bij het bepalen van de winst blijven buiten aanmerking de voordelen uit hoofde van een deelneming, alsmede de kosten ter zake van de verwerving of de vervreemding van die deelneming (deelnemingsvrijstelling).
 
@@ -566,7 +592,7 @@ Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel a, 
 
 20. Voor de toepassing van het elfde lid, onderdeel a, het dertiende lid en de [artikelen 13a, eerste lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13a&z=2026-01-01&g=2026-01-01), [13aa, zevende lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13aa&z=2026-01-01&g=2026-01-01), [13ba, vierde en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13ba&z=2026-01-01&g=2026-01-01), en [13d, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01), wordt onder een belasting naar de winst mede verstaan een kwalificerende binnenlandse bijheffing als bedoeld in [artikel 1.2 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2).
 
-#### Artikel 13a
+##### Artikel 13a
 
 1. De belastingplichtige die al dan niet tezamen met een verbonden lichaam een als belegging gehouden belang heeft van 25% of meer in een lichaam:
 
@@ -580,7 +606,7 @@ Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel a, 
 
 4. In afwijking van het eerste lid wordt een waardeverandering van het belang in een lichaam niet in aanmerking genomen voor zover die waardeverandering rechtstreeks samenhangt met voordelen die uit hoofde van [artikel 13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13ab&z=2026-01-01&g=2026-01-01) bij het bepalen van de winst van de belastingplichtige in aanmerking zijn genomen of in mindering kunnen worden gebracht op grond van het zevende lid van dat artikel.
 
-#### Artikel 13b
+##### Artikel 13b
 
 1. Indien een schuldvordering op een lichaam (schuldenaar) waarin de belastingplichtige of een met hem verbonden lichaam een deelneming heeft, is afgewaardeerd ten laste van de in Nederland belastbare winst van de belastingplichtige of een met hem verbonden lichaam, wordt, indien de schuldvordering door de belastingplichtige wordt vervreemd of overgebracht als bedoeld in het tweede lid, ter zake van die vervreemding of overbrenging tot de winst van de belastingplichtige gerekend een bedrag gelijk aan die afwaardering voorzover met betrekking tot die schuldvordering niet reeds een bedrag op de voet van dit artikel tot de winst van de belastingplichtige of een met hem verbonden lichaam is gerekend.
 
@@ -596,7 +622,7 @@ Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel a, 
 
 5. Dit artikel is van overeenkomstige toepassing indien de belastingplichtige of een met hem verbonden lichaam via een deelneming middellijk een belang van 5% of meer in de schuldenaar heeft.
 
-#### Artikel 13ba
+##### Artikel 13ba
 
 1. Indien de belastingplichtige een schuldvordering heeft op een lichaam (schuldenaar) waarin hij of een met hem verbonden lichaam een deelneming heeft en die schuldvordering is afgewaardeerd ten laste van de in Nederland belastbare winst van de belastingplichtige of een met hem verbonden lichaam of ten laste van het in Nederland belastbare resultaat uit een werkzaamheid van een met hem verbonden natuurlijk persoon, wordt, indien zich een omstandigheid voordoet als bedoeld in het tweede lid, tot de winst van de belastingplichtige gerekend een bedrag gelijk aan die afwaardering. Het in de eerste volzin bedoelde bedrag kan gelijktijdig ten laste van de winst worden toegevoegd aan een reserve (opwaarderingsreserve).
 
@@ -644,19 +670,19 @@ Bij vervreemding van een gedeelte van de deelneming aan een met de belastingplic
 
 14. Dit artikel is niet van toepassing indien de in het eerste lid bedoelde deelneming een beleggingsdeelneming niet zijnde een kwalificerende beleggingsdeelneming is.
 
-#### Artikel 13bb
+##### Artikel 13bb
 
 Vervallen
 
-#### Artikel 13c
+##### Artikel 13c
 
 Vervallen
 
-#### Artikel 13ca
+##### Artikel 13ca
 
 Vervallen
 
-#### Artikel 13d
+##### Artikel 13d
 
 1. De deelnemingsvrijstelling vindt geen toepassing ten aanzien van een verlies op een deelneming dat tot uitdrukking komt nadat het lichaam waarin de belastingplichtige deelneemt is ontbonden (liquidatieverlies).
 
@@ -740,7 +766,7 @@ Indien op de voet van [artikel 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 19. Indien op enig tijdstip aandelen of bewijzen van deelgerechtigdheid worden toegerekend aan een lichaam, terwijl op het onmiddellijk aan dat tijdstip voorafgaande tijdstip die aandelen of bewijzen van deelgerechtigdheid werden toegerekend aan de participanten in dat lichaam naar rato van ieders gerechtigdheid op grond van [artikel 2.14bis, tweede lid, aanhef en onderdeel b, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=2.14bis), worden die aandelen of bewijzen van deelgerechtigdheid voor de toepassing van het negende lid, derde zin, geacht op het eerstbedoelde tijdstip door die participanten te zijn gestort op hun aandelen of bewijzen van deelgerechtigdheid in dat lichaam.
 
-#### Artikel 13e
+##### Artikel 13e
 
 1. Indien de onderneming van het ontbonden lichaam geheel of gedeeltelijk is voortgezet door de belastingplichtige wordt het op de voet van [artikel 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01) berekende liquidatieverlies in aanmerking genomen zodra de onderneming door de belastingplichtige geheel is gestaakt, of geheel of gedeeltelijk is voortgezet uitsluitend door een ander dan de belastingplichtige of een met hem verbonden lichaam, mits wordt voldaan aan de voorwaarden van artikel 13d, veertiende lid, onderdelen a en d, met dien verstande dat voor de toepassing van genoemd onderdeel d, het aldaar genoemde onderdeel c buiten beschouwing blijft. Indien de belastingplichtige de onderneming nagenoeg geheel staakt of het besluit neemt tot staking van de onderneming, vindt de eerste zin in zoverre slechts toepassing indien de voortgezette onderneming door de belastingplichtige geheel is gestaakt, of geheel of gedeeltelijk is voortgezet uitsluitend door een ander dan de belastingplichtige of een met hem verbonden lichaam, in uiterlijk het derde kalenderjaar na het kalenderjaar waarin de onderneming nagenoeg geheel is gestaakt, onderscheidenlijk is besloten tot staking van de onderneming, tenzij de belastingplichtige doet blijken dat het op een later tijdstip staken van de onderneming niet is gericht op het ontgaan of uitstellen van belastingheffing.
 
@@ -752,15 +778,15 @@ Indien op de voet van [artikel 13ba](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - b. de in het tweede lid bedoelde verhoging van het opgeofferde bedrag verminderd met het op de voet van [artikel 15j](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15j&z=2026-01-01&g=2026-01-01) naar die deelneming doorgeschoven saldo, voor zover dit saldo bij die deelneming als stakingsverlies als bedoeld in [artikel 15i](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15i&z=2026-01-01&g=2026-01-01) in aftrek is gekomen en heeft geleid tot een winstvermindering.
 
-#### Artikel 13f
+##### Artikel 13f
 
 Vervallen
 
-#### Artikel 13g
+##### Artikel 13g
 
 Vervallen
 
-#### Artikel 13h
+##### Artikel 13h
 
 Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belastingplichtige met toepassing van [artikel 3.55](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57), [3.56](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) of [3.57 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57) een voordeel uit de vervreemding van aandelen of winstbewijzen die geen deelneming vormen, niet in aanmerking is genomen terwijl de door hem verkregen aandelen of winstbewijzen op het tijdstip van de aandelenfusie of de overgang onder algemene titel in het kader van een fusie of een splitsing van een rechtspersoon dan wel op enig tijdstip daarna wel een deelneming vormen of tot een deelneming gaan behoren:
 
@@ -768,7 +794,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 - b. wordt voor de bepaling van het opgeofferde bedrag, bedoeld in [artikel 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01), de verkrijgingsprijs niet hoger gesteld dan het bedrag hetwelk de belastingplichtige voor de in het kader van de aandelenfusie, de juridische splitsing of de juridische fusie vervreemde aandelen of winstbewijzen heeft opgeofferd.
 
-#### Artikel 13i
+##### Artikel 13i
 
 1. Indien de belastingplichtige aandelen of winstbewijzen die een deelneming vormen, in het kader van een aandelenfusie als bedoeld in [artikel 3.55 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) vervreemdt,
 
@@ -782,7 +808,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 - b. worden de verkregen aandelen of winstbewijzen, ingeval deze geen deelneming vormen, in afwijking in zoverre van het genoemde artikel, te boek gesteld op de waarde in het economische verkeer verminderd met het bedrag dat ingevolge het tweede lid van dat artikel, buiten aanmerking is gebleven.
 
-#### Artikel 13j
+##### Artikel 13j
 
 1. Indien vermogen van een rechtspersoon waarin de belastingplichtige een deelneming heeft, in het kader van een splitsing onder algemene titel overgaat, wordt de in [artikel 3.56, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.56) bedoelde vervreemding van aandelen en schuldvorderingen geacht te hebben plaatsgevonden aan een met de belastingplichtige en de splitsende rechtspersoon verbonden lichaam.
 
@@ -802,7 +828,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 - b. door een andere rechtspersoon dan de rechtspersoon op wie de vermogensbestanddelen onder algemene titel overgaan.
 
-#### Artikel 13k
+##### Artikel 13k
 
 1. Indien het vermogen van een rechtspersoon waarin de belastingplichtige een deelneming heeft, in het kader van een fusie onder algemene titel overgaat, wordt de in [artikel 3.57, eerste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.57) bedoelde vervreemding van aandelen en schuldvorderingen geacht te hebben plaatsgevonden aan een met de belastingplichtige en de verdwijnende rechtspersoon verbonden lichaam.
 
@@ -822,7 +848,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 6. De vorige leden zijn van overeenkomstige toepassing indien in het kader van de fusie aandelen worden uitgereikt door een andere rechtspersoon dan de rechtspersoon op wie de vermogensbestanddelen onder algemene titel overgaan.
 
-#### Artikel 14
+##### Artikel 14
 
 1. De belastingplichtige die zijn gehele onderneming of een zelfstandig onderdeel van een onderneming overdraagt (overdrager) aan een ander lichaam dat reeds belastingplichtig is of door de overname belastingplichtig wordt (overnemer), tegen uitreiking van aandelen in de overnemer (bedrijfsfusie), behoeft de winst behaald met of bij de overdracht niet in aanmerking te nemen, mits voor het bepalen van de winst bij de overdrager en de overnemer dezelfde bepalingen van toepassing zijn, de overnemer niet aanspraak kan maken op voorwaartse verrekening van verliezen op de voet van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), op vermindering ter voorkoming van dubbele belasting ter zake van buitenlandse resultaten, op toepassing van de innovatiebox, op voortwenteling van een saldo aan renten op de voet van [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), op toepassing van de objectvrijstelling voor buitenlandse ondernemingswinsten, op toepassing van de deelnemingsverrekening, op toepassing van de verrekening bij buitenlandse ondernemingswinsten of op voortwenteling van voorheffingen op de voet van [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VI&artikel=25a&z=2026-01-01&g=2026-01-01), de overdrager niet aanspraak kan maken op toepassing van de innovatiebox en latere heffing is verzekerd. Indien de winst niet in aanmerking wordt genomen, treedt de overnemer ten aanzien van alle vermogensbestanddelen die in het kader van de bedrijfsfusie zijn verkregen in de plaats van de overdrager.
 
@@ -842,7 +868,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 9. De overdrager of de overnemer die voorafgaande aan een voorgenomen vervreemding van aandelen als bedoeld in de laatste volzin van het vierde lid, zekerheid wil hebben omtrent de vraag of, niettegenstaande de vervreemding, aannemelijk is dat de overdracht niet in overwegende mate is gericht op het ontgaan of uitstellen van belastingheffing, kan een verzoek indienen bij de inspecteur, die daarop bij voor bezwaar vatbare beschikking beslist.
 
-#### Artikel 14a
+##### Artikel 14a
 
 1. Indien vermogen van een belastingplichtige onder algemene titel in het kader van een splitsing overgaat (de splitsende rechtspersoon), wordt:
 
@@ -870,7 +896,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 11. Het tweede tot en met het tiende lid vinden slechts toepassing indien de splitsende en de verkrijgende rechtspersonen in Nederland zijn gevestigd, of in de zin van [artikel 3.55, vijfde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) zijn gevestigd in een lidstaat van de Europese Unie of een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 14b
+##### Artikel 14b
 
 1. Indien vermogen van een belastingplichtige onder algemene titel in het kader van een fusie overgaat (de verdwijnende rechtspersoon), wordt de verdwijnende rechtspersoon geacht zijn vermogensbestanddelen ten tijde van de fusie te hebben overgedragen aan de rechtspersoon waarop deze vermogensbestanddelen onder algemene titel overgaan (verkrijgende rechtspersoon) en ten tijde van de fusie te zijn opgehouden uit de onderneming in Nederland belastbare winst te genieten.
 
@@ -888,7 +914,7 @@ Indien bij het bepalen van de in een jaar genoten winst ten aanzien van de belas
 
 8. Het tweede tot en met het zevende lid vinden slechts toepassing indien de verdwijnende en de verkrijgende rechtspersoon in Nederland zijn gevestigd, of in de zin van [artikel 3.55, vijfde lid, Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.55) zijn gevestigd in een lidstaat van de Europese Unie of een bij ministeriële regeling aangewezen staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.
 
-#### Artikel 14c
+##### Artikel 14c
 
 1. Indien een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid die uitsluitend natuurlijke personen als aandeelhouder heeft, wordt ontbonden en de door de vennootschap gedreven onderneming door de aandeelhouders wordt voortgezet, kan Onze Minister op gezamenlijk verzoek van de belastingplichtige en de voortzettende aandeelhouders onder door hem nader te stellen voorwaarden toestaan dat de winst die bij of als gevolg van de ontbinding tot uitdrukking komt, niet in aanmerking wordt genomen. De aandeelhouders treden met betrekking tot de vermogensbestanddelen waarmee zij de onderneming voortzetten en die zij in het kader van de ontbinding verkrijgen, ieder voor zijn gedeelte, in de plaats van de belastingplichtige, behalve voorzover bij de te stellen voorwaarden anders is bepaald.
 
@@ -928,7 +954,7 @@ Voor zover de winst, bedoeld in het eerste lid, wel in aanmerking wordt genomen,
 
 8. Voor de toepassing van dit artikel wordt onder een naamloze vennootschap of besloten vennootschap met beperkte aansprakelijkheid mede verstaan een daarmee qua rechtsvorm vergelijkbaar lichaam dat is opgericht of aangegaan naar het op de BES eilanden geldende recht dan wel het recht van Aruba, Curaçao, Sint Maarten, een lidstaat van de Europese Unie of een staat in de relatie waarmee een met Nederland gesloten verdrag ter voorkoming van dubbele belasting van toepassing is waarin een bepaling is opgenomen die discriminatie naar nationaliteit verbiedt voor rechtspersonen die overigens in dezelfde omstandigheden verkeren als de hiervoor genoemde naar Nederlands recht opgerichte lichamen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ingeval een belastingplichtige (moedermaatschappij) de gehele juridische en economische eigendom bezit van ten minste 95% van de aandelen in het nominaal gestorte kapitaal van een andere belastingplichtige (dochtermaatschappij) en dit bezit ten minste 95% van de statutaire stemrechten in de dochtermaatschappij vertegenwoordigt en in alle gevallen recht geeft op ten minste 95% van de winst en ten minste 95% van het vermogen van de dochtermaatschappij, wordt op verzoek van beide belastingplichtigen de belasting van hen geheven alsof er één belastingplichtige is, in die zin dat de werkzaamheden en het vermogen van de dochtermaatschappij deel uitmaken van de werkzaamheden en het vermogen van de moedermaatschappij. De belasting wordt geheven bij de moedermaatschappij. De belastingplichtigen tezamen worden in dat geval aangemerkt als fiscale eenheid. Van een fiscale eenheid kan meer dan één dochtermaatschappij deel uitmaken.
 
@@ -1036,7 +1062,7 @@ In afwijking van het eerste en tweede lid kunnen de voorwaarden, bedoeld in de e
 
 18. Voor de toepassing van het zestiende lid worden onder de saldi aan renten, bedoeld in [artikel 15ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15ba&z=2026-01-01&g=2026-01-01), verstaan de saldi aan renten toerekenbaar aan een belastingplichtige als ware er geen fiscale eenheid in de zin van dit artikel. Voor zover door de toepassing van de eerste zin de saldi aan renten niet langer kunnen worden voortgewenteld naar het volgende jaar, kunnen die saldi aan renten niet in aftrek komen bij het bepalen van de winst van de belastingplichtige waarin het uiteindelijke belang in belangrijke mate is gewijzigd als bedoeld in artikel 15ba.
 
-#### Artikel 15aa
+##### Artikel 15aa
 
 1. Voor de toepassing van de [artikelen 15ab tot en met 15al](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ab&z=2026-01-01&g=2026-01-01) wordt verstaan onder:
 
@@ -1048,7 +1074,7 @@ In afwijking van het eerste en tweede lid kunnen de voorwaarden, bedoeld in de e
 
 2. Indien zonder toepassing van [artikel 3.54 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) bij de vervreemding van een goed de boekwinst die daarbij tot uitdrukking komt ingevolge goed koopmansgebruik is doorgeschoven naar een ander goed, wordt voor de toepassing van de [artikelen 15ab tot en met 15aj](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ab&z=2026-01-01&g=2026-01-01) het reserveren van deze winst, alsmede de afboeking daarvan op de aanschaffingskosten of voortbrengingskosten van het andere goed, geacht te hebben plaatsgevonden met toepassing van artikel 3.54 van de Wet inkomstenbelasting 2001.
 
-#### Artikel 15ab
+##### Artikel 15ab
 
 1. Op het tijdstip onmiddellijk voorafgaand aan het tijdstip van voeging van een dochtermaatschappij stelt de moedermaatschappij haar belang, dan wel indien gelijktijdig ook andere dochtermaatschappijen worden gevoegd, stellen de moedermaatschappij en de gelijktijdig gevoegde dochtermaatschappijen hun belang in die dochtermaatschappij te boek op de waarde in het economische verkeer.
 
@@ -1070,7 +1096,7 @@ Bij de toepassing van de eerste zin wordt een liquidatieverlies in een jaar slec
 
 7. Het zesde lid is niet van toepassing voor zover met betrekking tot de schuldvordering reeds een bedrag op de voet van de [artikelen 13b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13b&z=2026-01-01&g=2026-01-01) of [13ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13ba&z=2026-01-01&g=2026-01-01) in aanmerking is genomen bij de maatschappij die de schuldvordering houdt of bij een met hem verbonden lichaam als bedoeld in [artikel 10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=10a&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 15ac
+##### Artikel 15ac
 
 1. Bij het bepalen van de winst van een fiscale eenheid worden voor de toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=11&z=2026-01-01&g=2026-01-01) tantièmes en salarissen, door een dochtermaatschappij toegekend aan anderen dan de moedermaatschappij, geacht als zodanig te zijn toegekend door de moedermaatschappij.
 
@@ -1094,11 +1120,11 @@ Bij de toepassing van de eerste zin wordt een liquidatieverlies in een jaar slec
 
 worden slechts in aanmerking genomen voor zover deze niet rechtens dan wel in feite, direct of indirect verband houden met aan een andere maatschappij, die tot dezelfde fiscale eenheid behoort of heeft behoord als de belastingplichtige, toe te rekenen negatieve bedragen aan winst van de fiscale eenheid. Voor zover een waardevermindering van een schuldvordering, of een soortgelijk vermogensbestanddeel, op grond van de eerste volzin niet in aanmerking is genomen bij het bepalen van de winst en met die waardevermindering geen rekening is gehouden bij de toepassing van [artikel 8, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8&z=2026-01-01&g=2026-01-01), bij een ander lichaam, wordt een latere waardestijging van die schuldvordering of dat vermogensbestanddeel eveneens niet in aanmerking genomen bij het bepalen van de winst.
 
-#### Artikel 15ad
+##### Artikel 15ad
 
 Vervallen
 
-#### Artikel 15ae
+##### Artikel 15ae
 
 1. Voor de toepassing van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), vindt:
 
@@ -1120,7 +1146,7 @@ Vervallen
 
 6. Voor de toepassing van het eerste lid wordt de aan een met ingang van haar oprichting gevoegde dochtermaatschappij toe te rekenen winst van de fiscale eenheid aangemerkt als winst van de maatschappijen die deze dochtermaatschappij hebben opgericht, naar rato van hun kapitaalinbreng. Indien de eerste zin toepassing vindt en bij een maatschappij die de met ingang van haar oprichting gevoegde dochtermaatschappij heeft opgericht sprake is van verliezen als bedoeld in [artikel 34i, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIII&artikel=34i&z=2026-01-01&g=2026-01-01), worden voor de toepassing van dat artikel de werkzaamheden en het vermogen van deze dochtermaatschappij aangemerkt als de werkzaamheden en het vermogen van die andere maatschappij, naar rato van haar kapitaalinbreng.
 
-#### Artikel 15af
+##### Artikel 15af
 
 1. Vanaf het tijdstip van ontvoeging van een dochtermaatschappij worden voor de toepassing van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), de volgende verliezen verrekend met de door die dochtermaatschappij na dat tijdstip genoten belastbare winst:
 
@@ -1140,13 +1166,13 @@ Vervallen
 
 7. Ten aanzien van een ontvoegde dochtermaatschappij die op de voet van het eerste lid, onderdeel b, verliezen van de fiscale eenheid mag verrekenen, wordt in [artikel 20a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20a&z=2026-01-01&g=2026-01-01) voor «de belastingplichtige» gelezen: de maatschappij.
 
-#### Artikel 15ag
+##### Artikel 15ag
 
 1. Vanaf de beëindiging van de fiscale eenheid ten aanzien van de moedermaatschappij worden voor de toepassing van [artikel 20, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), voorvoegingsverliezen van die moedermaatschappij niet verrekend met de door haar na dat tijdstip genoten belastbare winst voor zover die winst betrekking heeft op vermogensbestanddelen die door haar tijdens het bestaan van de fiscale eenheid zijn verkregen van een dochtermaatschappij en die winst op de voet van [artikel 15ah, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ah&z=2026-01-01&g=2026-01-01), niet aan de moedermaatschappij zou zijn toegerekend indien de fiscale eenheid met die dochtermaatschappij niet zou zijn beëindigd.
 
 2. Het eerste lid vindt geen toepassing indien met betrekking tot de vermogensbestanddelen [artikel 15ai, eerste of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ai&z=2026-01-01&g=2026-01-01), toepassing heeft gevonden.
 
-#### Artikel 15ah
+##### Artikel 15ah
 
 1. Voor de toepassing van de [artikelen 13d, twaalfde en dertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01), [15ab, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ab&z=2026-01-01&g=2026-01-01), [15ac, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ac&z=2026-01-01&g=2026-01-01), [15ae](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ae&z=2026-01-01&g=2026-01-01) en [15ak, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ak&z=2026-01-01&g=2026-01-01), wordt onder de aan een maatschappij toe te rekenen winst van de fiscale eenheid verstaan de winst van die maatschappij berekend alsof zij geen deel uitmaakt van de fiscale eenheid, voorzover deze winst bij de fiscale eenheid tot uitdrukking komt en met inachtneming van het tweede en derde lid.
 
@@ -1164,7 +1190,7 @@ Vervallen
 
 4. Indien aan het voornemen tot herinvestering bedoeld in [artikel 3.54 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), gevolg is gegeven door een andere maatschappij van de fiscale eenheid dan de maatschappij die het bedrijfsmiddel heeft vervreemd ter zake waarvan de herinvesteringsreserve is gevormd, wordt het bedrijfsmiddel waarin is geherinvesteerd voor de toepassing van het tweede lid geacht te zijn verworven door de maatschappij die het bedrijfsmiddel heeft vervreemd en onmiddellijk daarna te zijn overgedragen aan die andere maatschappij.
 
-#### Artikel 15ai
+##### Artikel 15ai
 
 1. Indien in enig jaar door een maatschappij (overdrager) een vermogensbestanddeel is overgedragen aan een andere maatschappij (overnemer) waarvan de waarde in het economische verkeer op het moment van de overdracht hoger was dan de boekwaarde, wordt op het tijdstip onmiddellijk voorafgaand aan het ontvoegingstijdstip van die overdrager of overnemer, dat vermogensbestanddeel te boek gesteld op de waarde in het economische verkeer. Indien met betrekking tot een in de vorige volzin bedoeld vermogensbestanddeel door de overnemer een reserve is gevormd als bedoeld in [artikel 3.54 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54), wordt deze reserve op het tijdstip onmiddellijk voorafgaande aan het in de eerste volzin bedoelde ontvoegingstijdstip opgenomen in de winst van de fiscale eenheid. Indien de reserve, bedoeld in de tweede volzin, reeds is afgeboekt op de aanschaffings- of voortbrengingskosten van een vervangend bedrijfsmiddel, wordt dat bedrijfsmiddel op het tijdstip onmiddellijk voorafgaand aan het in de eerste volzin bedoelde ontvoegingstijdstip te boek gesteld op de waarde in het economische verkeer.
 
@@ -1184,7 +1210,7 @@ Vervallen
 
 6. Het eerste en tweede lid vinden geen toepassing met betrekking tot een overgedragen vermogensbestanddeel waarop [artikel 15c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10&artikel=15c&z=2026-01-01&g=2026-01-01) van toepassing is.
 
-#### Artikel 15aj
+##### Artikel 15aj
 
 1. Herinvesteringsreserves als bedoeld in [artikel 3.54 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) bedragen op het tijdstip onmiddellijk voorafgaand aan het ontvoegingstijdstip van een dochtermaatschappij niet meer dan hetgeen deze volgens het genoemde [artikel 3.54](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) bij de moedermaatschappij en de ontvoegde dochtermaatschappij gezamenlijk zouden hebben belopen als de dochtermaatschappij geen deel zou hebben uitgemaakt van de fiscale eenheid.
 
@@ -1208,7 +1234,7 @@ Vervallen
 
 7. Indien op het ontvoegingstijdstip van een maatschappij tot het vermogen van die maatschappij een deelneming behoort waarvan de onderneming geheel of nagenoeg geheel is gestaakt, dan wel daartoe is besloten, en die deelneming tijdens het bestaan van de fiscale eenheid van een andere maatschappij is verkregen, wordt op het ontvoegingstijdstip het door die maatschappij voor de deelneming opgeofferde bedrag niet hoger gesteld dan de waarde in het economische verkeer van de deelneming op het tijdstip van verkrijging van de deelneming door die maatschappij.
 
-#### Artikel 15a
+##### Artikel 15a
 
 1. Van een centrale maatschappij en haar ledenmaatschappijen wordt, op verzoek van al deze belastingplichtigen en ten vroegste met ingang van het jaar waarin het verzoek is ingediend, de belasting van hen geheven alsof er één belastingplichtige is, in die zin dat de werkzaamheden en het vermogen van de ledenmaatschappijen deel uitmaken van de werkzaamheden en het vermogen van de centrale maatschappij. De belasting wordt geheven bij de centrale maatschappij. De belastingplichtigen tezamen worden in dat geval aangemerkt als fiscale eenheid.
 
@@ -1244,7 +1270,7 @@ Vervallen
 
 10. Het bepaalde in [artikel 15ac, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ac&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 15b
+##### Artikel 15b
 
 1. Bij het bepalen van de in een jaar genoten winst komt het saldo aan renten niet in aftrek voor zover dat meer bedraagt dan het hoogste van de volgende bedragen:
 
@@ -1282,23 +1308,23 @@ waarbij de gecorrigeerde winst ten minste op nihil wordt gesteld.
 
 7. Voor zover een bedrag aan renten als bedoeld in het zesde lid, onderdeel d, meer bedraagt dan het hoogste van de bedragen, bedoeld in het eerste lid, worden die renten in afwijking van [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8&z=2026-01-01&g=2026-01-01) juncto [artikel 3.25](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.25) en [3.29b van de Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.29b), niet geactiveerd als voortbrengingskosten van het activum en komen die renten niet in aftrek bij het bepalen van de in een jaar genoten winst. Daarbij geldt dat indien het saldo aan renten in een jaar naast uit renten ter zake van geldleningen als bedoeld in het zesde lid, onderdeel d, bestaat uit overige rentelasten ter zake van geldleningen, die overige rentelasten in dat jaar bij voorrang niet in aftrek komen.
 
-#### Artikel 15ba
+##### Artikel 15ba
 
 1. Indien aannemelijk is dat in vergelijking met het begin van het oudste jaar waarvan een saldo aan renten als bedoeld in [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01) nog niet volledig in aftrek is gekomen, het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, worden de saldi aan renten die zijn ontstaan vóór het tijdstip waarop de wijziging heeft plaatsgevonden, in afwijking in zoverre van artikel 15b, vijfde lid, niet meer in aanmerking genomen bij het bepalen van de winst na het tijdstip van de bedoelde wijziging. Het saldo aan renten dat in het jaar waarin de wijziging, bedoeld in de eerste zin, heeft plaatsgevonden, is ontstaan na het tijdstip waarop die wijziging heeft plaatsgevonden, wordt in dat jaar niet in aanmerking genomen bij het bepalen van de winst genoten vóór het tijdstip van die wijziging. Voor de toepassing van de eerste en de tweede zin worden het saldo aan renten en de gecorrigeerde winst vóór en na het tijdstip van de wijziging, bedoeld in de eerste zin, in het jaar waarin de wijziging, bedoeld in de eerste zin, heeft plaatsgevonden afzonderlijk bepaald en wordt het bedrag, genoemd in artikel 15b, eerste lid, onderdeel b, in dat jaar naar tijdsgelang in aanmerking genomen.
 
 2. Voor de toepassing van het eerste lid is [artikel 20a, tweede tot en met achtste lid, tiende lid, onderdelen a, b en c, en elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20a&z=2026-01-01&g=2026-01-01), van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van artikel 20a, vierde, zesde, zevende en elfde lid, voor verlies wordt gelezen: saldo aan renten.
 
-#### Artikel 15c
+##### Artikel 15c
 
 1. Indien een belastingplichtige voor de toepassing van deze wet of een verdrag ter voorkoming van dubbele belasting dan wel de [Belastingregeling voor het Koninkrijk](https://wetten.overheid.nl/jci1.3:c:BWBR0002464), de Belastingregeling voor het land Nederland niet meer wordt aangemerkt als inwoner van Nederland, worden de bestanddelen van zijn vermogen waarvan de voordelen dientengevolge niet meer begrepen worden in de belastbare winst, op het tijdstip onmiddellijk voorafgaande aan het ophouden van het hiervoor bedoelde inwonerschap geacht te zijn vervreemd tegen de waarde in het economische verkeer.
 
 2. Het eerste lid is van overeenkomstige toepassing met betrekking tot de vermogensbestanddelen die bij een fiscale eenheid afkomstig zijn van een dochtermaatschappij indien zich ten aanzien van die dochtermaatschappij een omstandigheid voordoet als bedoeld in het eerste lid.
 
-#### Artikel 15d
+##### Artikel 15d
 
 Voordelen die niet reeds uit anderen hoofde in aanmerking zijn genomen, worden gerekend tot de winst van het jaar waarin de belastingplichtige ophoudt in Nederland belastbare winst te genieten. In dat geval worden de bestanddelen van zijn vermogen voor de toepassing van de desinvesteringsbijtelling geacht te zijn vervreemd tegen de waarde in het economische verkeer.
 
-#### Artikel 15e
+##### Artikel 15e
 
 1. Bij de belastingplichtige met winst uit een andere staat wordt de winst verminderd met de positieve en de negatieve bedragen van de winst uit die staat (objectvrijstelling voor buitenlandse ondernemingswinsten).
 
@@ -1342,7 +1368,7 @@ Voordelen die niet reeds uit anderen hoofde in aanmerking zijn genomen, worden g
 
 13. Voor de toepassing van het vijfde lid en de [artikelen 15g, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15g&z=2026-01-01&g=2026-01-01), en [15h, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15h&z=2026-01-01&g=2026-01-01), wordt onder een belastingheffing naar de winst, onderscheidenlijk een belasting naar de winst, mede verstaan een kwalificerende binnenlandse bijheffing als bedoeld in [artikel 1.2 van de Wet minimumbelasting 2024](https://wetten.overheid.nl/jci1.3:c:BWBR0049111&artikel=1.2).
 
-#### Artikel 16
+##### Artikel 16
 
 1. Aftrekbare giften zijn de in het jaar gedane en met schriftelijke bescheiden gestaafde giften aan algemeen nut beogende instellingen en steunstichtingen SBBI. De aftrek bedraagt ten hoogste 50 percent van de winst met een maximum van € 100 000.
 
@@ -1358,7 +1384,7 @@ Voordelen die niet reeds uit anderen hoofde in aanmerking zijn genomen, worden g
 
 ### Hoofdstuk III. Voorwerp van de belasting bij buitenlandse belastingplichtigen
 
-#### Artikel 17
+##### Artikel 17
 
 1. Ten aanzien van buitenlandse belastingplichtigen wordt de belasting geheven naar het belastbare Nederlandse bedrag; [artikel 7, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.1&artikel=7&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
@@ -1384,7 +1410,7 @@ Voordelen die niet reeds uit anderen hoofde in aanmerking zijn genomen, worden g
 
 - b. sprake is van geldige zakelijke redenen die de economische realiteit weerspiegelen.
 
-#### Artikel 17a
+##### Artikel 17a
 
 Tot een Nederlandse onderneming worden gerekend:
 
@@ -1406,7 +1432,7 @@ Tot een Nederlandse onderneming worden gerekend:
 
 - g. stemrechten, kapitaalbelangen of winstrechten in een omgekeerd hybride lichaam als bedoeld in [artikel 2, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), die worden gehouden door een lichaam dat gevestigd is in een staat die het omgekeerde hybride lichaam niet als een belastingplichtige voor een naar de winst geheven belasting beschouwt, indien ten aanzien van deze stemrechten, kapitaalbelangen of winstrechten zonder toepassing van artikel 2, derde lid, belastbare winst uit een in Nederland gedreven onderneming in de zin van [artikel 17, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=III&artikel=17&z=2026-01-01&g=2026-01-01), al dan niet in samenhang met één of meer van de onderdelen a tot en met f van dit artikel, zou zijn genoten.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De belastbare winst uit onderneming wordt opgevat en bepaald op de voet van [artikel 8, eerste tot en met het achtste, elfde, dertiende en zestiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8&z=2026-01-01&g=2026-01-01), alsmede de [artikelen 8b tot en met 15aj](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=9&z=2026-01-01&g=2026-01-01), [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), [artikel 15ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15ba&z=2026-01-01&g=2026-01-01), de [artikelen 15bd tot en met 15bh](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15bd&z=2026-01-01&g=2026-01-01) en [artikel 15d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10&artikel=15d&z=2026-01-01&g=2026-01-01).
 
@@ -1418,7 +1444,7 @@ Tot een Nederlandse onderneming worden gerekend:
 
 5. Het belastbare inkomen uit aanmerkelijk belang wordt opgevat en berekend volgens de regels van [hoofdstuk 4 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&hoofdstuk=4), met dien verstande dat geheven bronbelasting niet tot de aftrekbare kosten behoort.
 
-#### Artikel 19
+##### Artikel 19
 
 Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt wordt ingenomen, wordt niet als het drijven van een binnenlandse onderneming door een niet in Nederland gevestigd lichaam aangemerkt:
 
@@ -1428,7 +1454,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 ### Hoofdstuk IV. Verrekening van verliezen
 
-#### Artikel 20
+##### Artikel 20
 
 1. Indien de berekening van de belastbare winst of van het Nederlandse inkomen leidt tot een negatief bedrag, wordt dit aangemerkt als een verlies.
 
@@ -1442,7 +1468,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 6. Het vijfde lid is van toepassing op verliezen die zijn toe te rekenen aan kosten en lasten van schade als gevolg van risico's die andere belastingplichtigen die wat betreft aard en omvang van de bedrijfsactiviteiten in een vergelijkbare positie verkeren als de belastingplichtige, plegen te verzekeren.
 
-#### Artikel 20a
+##### Artikel 20a
 
 1. Indien aannemelijk is dat in vergelijking met het begin van het oudste jaar waarvan een verlies nog niet volledig is verrekend, het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, zijn de verliezen geleden voor het tijdstip waarop de wijziging heeft plaatsgevonden, in afwijking in zoverre van [artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), niet meer voorwaarts verrekenbaar. Daarbij worden de vóór het tijdstip van de in de eerste volzin bedoelde wijziging genoten winst na giftenaftrek van het jaar waarin die wijziging heeft plaatsgevonden en de na dat tijdstip in dat jaar genoten winst na giftenaftrek afzonderlijk berekend. Bij een negatieve uitkomst wordt het bedrag toegerekend aan de belastbare winst van het voorafgaande respectievelijk het volgende jaar. Indien toerekening aan een ander jaar niet mogelijk is omdat de belastingplicht is aangevangen met het jaar waarin zich de wijziging heeft voorgedaan of is geëindigd bij het einde van dat jaar, wordt het negatieve bedrag niet in aanmerking genomen.
 
@@ -1494,7 +1520,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 12. Indien een belastingplichtige vanaf enig tijdstip als gevolg van de toepassing van dit artikel verliezen niet meer kan verrekenen met winsten na dat tijdstip, kan hij op het onmiddellijk daaraan voorafgaande tijdstip een herinvesteringsreserve in de winst opnemen en de boekwaarde van zijn bezittingen verhogen tot ten hoogste de waarde in het economische verkeer, behoudens voorzover die verhoging gepaard zou moeten gaan met een verhoging van de boekwaarde van een verplichting.
 
-#### Artikel 20b
+##### Artikel 20b
 
 1. De inspecteur stelt het bedrag van een verlies van een jaar vast bij voor bezwaar vatbare beschikking, gelijktijdig met het vaststellen van de aanslag over dat jaar.
 
@@ -1504,7 +1530,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 4. De in het eerste lid bedoelde beschikking wordt herzien voorzover de verrekening van het verlies ingevolge [artikel 15af](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15af&z=2026-01-01&g=2026-01-01) toekomt aan een andere belastingplichtige.
 
-#### Artikel 21
+##### Artikel 21
 
 1. De verrekening van een verlies met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van een voorafgaand jaar geschiedt door vermindering van de aanslag bij voor bezwaar vatbare beschikking van de inspecteur. De beschikking wordt gegeven gelijktijdig met het vaststellen van de aanslag over het jaar waarin het verlies is ontstaan.
 
@@ -1512,7 +1538,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 3. Voorafgaand aan de vermoedelijke vaststelling van de in het eerste lid bedoelde beschikking kan de inspecteur bij voor bezwaar vatbare beschikking volgens door Onze Minister te stellen regelen een voorlopige verliesverrekening verlenen tot ten hoogste het bedrag waarop de vermindering vermoedelijk zal worden vastgesteld. Een voorlopige verliesverrekening kan door één of meer voorlopige verliesverrekeningen worden aangevuld. Voorlopige verliesverrekeningen worden verrekend bij de in het eerste lid bedoelde beschikking dan wel, indien een dergelijke beschikking niet wordt vastgesteld, met de aanslag over het jaar waarover het verlies dat tot een voorlopige verliesverrekening heeft geleid, is aangegeven.
 
-#### Artikel 21a
+##### Artikel 21a
 
 1. Het bedrag van een met de belastbare winst, onderscheidenlijk het Nederlandse inkomen, van een volgend jaar verrekend verlies wordt door de inspecteur, gelijktijdig met het vaststellen van de aanslag over dat jaar, vastgesteld bij voor bezwaar vatbare beschikking.
 
@@ -1522,7 +1548,7 @@ Indien in het land waar de onderneming is gevestigd een overeenkomstig standpunt
 
 ### Hoofdstuk V. Tarief
 
-#### Artikel 22
+##### Artikel 22
 
 De belasting wordt bepaald aan de hand van de volgende tabel.
 
@@ -1532,15 +1558,15 @@ De belasting wordt bepaald aan de hand van de volgende tabel.
 | – | € 200.000 | – | 19% |
 | € 200.000 | – | € 38.000 | 25,8% |
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 23a
+##### Artikel 23a
 
 Vervallen
 
-#### Artikel 23b
+##### Artikel 23b
 
 1. Bij een aangewezen bank of beleggingsinstelling als bedoeld in [artikel 5.14 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14), wordt in de ingroeiperiode, bedoeld in dat artikel, voor elke maand van die periode de volgens [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=22&z=2026-01-01&g=2026-01-01) of krachtens [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28&z=2026-01-01&g=2026-01-01) verschuldigde belasting vermeerderd met een lumpsumheffing. De lumpsumheffing wordt berekend naar de situatie aan het eind van de maand en bedraagt 0,2 % van het verschil tussen het van beleggers aangetrokken vermogen en 100/70 van hetgeen daarvan is aangewend ten behoeve van projecten als bedoeld in [artikel 5.14, derde lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=5.14).
 
@@ -1548,15 +1574,15 @@ Vervallen
 
 ### Hoofdstuk VA
 
-#### Artikel 23c
+##### Artikel 23c
 
 Vervallen
 
-#### Artikel 23d
+##### Artikel 23d
 
 Vervallen
 
-#### Artikel 23e
+##### Artikel 23e
 
 1. De op de voet van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&z=2026-01-01&g=2026-01-01) berekende belasting wordt verminderd wegens de verrekening bij voordelen uit hoofde van een gecontroleerd lichaam als bedoeld in [artikel 13ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13ab&z=2026-01-01&g=2026-01-01).
 
@@ -1576,19 +1602,19 @@ Vervallen
 
 7. Rechtsmiddelen tegen een beschikking als bedoeld in het vijfde lid kunnen uitsluitend betrekking hebben op de grootte van het over te brengen bedrag voor zover dat niet eerder is vastgesteld.
 
-#### Artikel 23f
+##### Artikel 23f
 
 Vervallen
 
 ### Hoofdstuk VI. Wijze van heffing
 
-#### Artikel 24
+##### Artikel 24
 
 1. De belasting wordt geheven bij wege van aanslag.
 
 2. Ingeval [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15&z=2026-01-01&g=2026-01-01) of [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15a&z=2026-01-01&g=2026-01-01) toepassing vindt, wordt de aanslag gesteld ten name van de moedermaatschappij onderscheidenlijk de centrale maatschappij.
 
-#### Artikel 25
+##### Artikel 25
 
 1. Als voorheffingen worden aangewezen de geheven dividendbelasting, uitgezonderd de belasting die op de voet van [artikel 12, eerste lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=12) is geheven, en naar prijzen van kansspelen geheven kansspelbelasting, betrekking hebbende op bestanddelen van de winst en van het Nederlandse inkomen. Ten aanzien van een belastingplichtige die is aangemerkt als een beleggingsinstelling als bedoeld in [artikel 28](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28&z=2026-01-01&g=2026-01-01), wordt de dividendbelasting niet als een voorheffing aangewezen.
 
@@ -1614,7 +1640,7 @@ Vervallen
 
 5. In afwijking van het eerste lid wordt dividendbelasting die is ingehouden ten laste van een lichaam als bedoeld in [artikel 2, elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), niet als voorheffing in aanmerking genomen voor zover de dividendbelasting betrekking heeft op bestanddelen van de winst die aftrekbaar is op grond van [artikel 9, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=9&z=2026-01-01&g=2026-01-01), dan wel inhouding van dividendbelasting op grond van [artikel 4, dertiende lid, van de Wet op de dividendbelasting 1965](https://wetten.overheid.nl/jci1.3:c:BWBR0002515&artikel=4) niet achterwege mag blijven.
 
-#### Artikel 25a
+##### Artikel 25a
 
 1. Geen aanslag wordt vastgesteld, dan wel een aanslag wordt vastgesteld op nihil, indien de berekening van de belasting niet leidt tot een positief bedrag.
 
@@ -1624,17 +1650,17 @@ Vervallen
 
 4. Voor zover in een jaar voorheffingen ingevolge het derde lid niet worden verrekend met een aanslag worden deze, gezamenlijk met de voortgewentelde voorheffingen uit voorgaande jaren, voortgewenteld naar het volgende jaar en in dat jaar verrekend voor zover de voorheffingen in dat jaar lager zijn dan het bedrag, bedoeld in het derde lid. Het verrekenen van voorheffingen die ingevolge het derde lid niet zijn verrekend, geschiedt in de volgorde van de jaren waarin de voorheffingen zijn geheven. De voortwenteling en de verrekening, bedoeld in de eerste zin, vinden alleen plaats indien het naar het volgende jaar voort te wentelen bedrag aan voorheffingen door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.
 
-#### Artikel 26
+##### Artikel 26
 
 Ingeval [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15&z=2026-01-01&g=2026-01-01) of [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15a&z=2026-01-01&g=2026-01-01) toepassing vindt, kan de inspecteur in afwijking in zoverre van [artikel 6, eerste lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=6) uitsluitend de moedermaatschappij onderscheidenlijk de centrale maatschappij uitnodigen tot het doen van aangifte voor de vennootschapsbelasting.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 ### Hoofdstuk VII. Aanvullende regelingen
 
-#### Artikel 28
+##### Artikel 28
 
 1. Wij behouden Ons voor bij algemene maatregel van bestuur nadere, van de bepalingen van deze wet afwijkende, regelen te geven met betrekking tot de heffing van de belasting van beleggingsinstellingen.
 
@@ -1696,7 +1722,7 @@ Vervallen
 
 6. Met ingang van het jaar dat een lichaam wordt aangemerkt als een vrijgestelde beleggingsinstelling als bedoeld in [artikel 6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=6a&z=2026-01-01&g=2026-01-01) vindt dit artikel geen toepassing meer.
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. Bij een omzetting op de voet van [artikel 18 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=18) van een rechtspersoon in een andere rechtsvorm, anders dan van een naamloze vennootschap in een besloten vennootschap met beperkte aansprakelijkheid of omgekeerd dan wel van een vereniging in een stichting of omgekeerd, wordt:
 
@@ -1710,7 +1736,7 @@ Vervallen
 
 3. Onze Minister kan op verzoek, onder door hem te stellen voorwaarden, de inspecteur toestaan afwijkingen toe te staan van het eerste en het tweede lid. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking waarin de in de vorige volzin bedoelde voorwaarden zijn opgenomen. De voorwaarden mogen slechts strekken ter verzekering van de heffing en de invordering van de belastingen.
 
-#### Artikel 28b
+##### Artikel 28b
 
 1. Indien de belastingplichtige een negatief valutaresultaat uit hoofde van een deelneming ten laste van de winst brengt, of heeft gebracht, en dit negatieve valutaresultaat daadwerkelijk in het jaar of enig voorafgaand jaar ten laste van de winst komt, of is gekomen, vindt in het jaar, in afwijking in zoverre van [artikel 13, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13&z=2026-01-01&g=2026-01-01), de deelnemingsvrijstelling geen toepassing op opgekomen positieve valutaresultaten uit hoofde van deelnemingen.
 
@@ -1720,7 +1746,7 @@ Vervallen
 
 4. Het eerste lid is niet van toepassing op een positief valutaresultaat als dit resultaat indien het negatief was geweest niet ten laste van de winst gebracht zou kunnen worden.
 
-#### Artikel 29
+##### Artikel 29
 
 Wij behouden Ons voor bij algemene maatregel van bestuur:
 
@@ -1728,17 +1754,17 @@ Wij behouden Ons voor bij algemene maatregel van bestuur:
 
 - b. andere in het kader van de wet passende nadere regelen te geven ter aanvulling van in de wet geregelde onderwerpen.
 
-#### Artikel 29a
+##### Artikel 29a
 
 Vervallen
 
 ### Hoofdstuk VI. Wijze van heffing
 
-#### Artikel 30
+##### Artikel 30
 
 Voor de berekening van het in [artikel 13d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01) bedoelde liquidatieverlies wordt bij het begin van het eerste jaar waarover de winst volgens deze wet wordt bepaald het bedrag dat voor de verkrijging van een deelneming is opgeofferd niet hoger gesteld dan de boekwaarde aan het einde van het laatste jaar waarover de winst volgens het Besluit op de Vennootschapsbelasting 1942 is bepaald.
 
-#### Artikel 31
+##### Artikel 31
 
 Indien de belasting wordt geheven over een jaar dat aanvangt voor de datum van inwerkingtreding van een wijziging van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=22&z=2026-01-01&g=2026-01-01) en op of na die datum eindigt, wordt deze in afwijking in zoverre van dat artikel berekend volgens de formule:
 
@@ -1754,27 +1780,27 @@ To voorstelt: de verschuldigde belasting op de voet van [artikel 22](https://wet
 
 Tn voorstelt: de verschuldigde belasting op de voet van [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=22&z=2026-01-01&g=2026-01-01), zoals dat luidt met ingang van de datum van inwerkingtreding van de wijziging.
 
-#### Artikel 31a
+##### Artikel 31a
 
 [Artikel I, onderdeel E, van hoofdstuk 2 van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) vindt overeenkomstige toepassing.
 
-#### Artikel 31b
+##### Artikel 31b
 
 [Artikel I, onderdelen H en G, van hoofdstuk 2 van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) vinden overeenkomstige toepassing.
 
-#### Artikel 31c
+##### Artikel 31c
 
 [Artikel I, onderdeel J, vierde lid, van hoofdstuk 2 van de Invoeringswet Wet inkomstenbelasting 2001](onbekend) is van overeenkomstige toepassing.
 
-#### Artikel 31d
+##### Artikel 31d
 
 Vervallen
 
-#### Artikel 32
+##### Artikel 32
 
 Indien in het kader van een bedrijfsfusie artikel VII van de Wet van 28 december 1989, **Stb.** 601, tot invoering in de inkomstenbelasting en de vennootschapsbelasting van een investeringsaftrek voor investeringen van een beperkte omvang en intrekking van de Wet investeringsrekening toepassing vindt, vindt [artikel 14, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.6&artikel=14&z=2026-01-01&g=2026-01-01), overeenkomstige toepassing.
 
-#### Artikel 33
+##### Artikel 33
 
 1. Indien immateriële activa die bij een publiekrechtelijke rechtspersoon of een privaatrechtelijk overheidslichaam deel uitmaken van vermogen waarmee geen belastbare winst wordt behaald, op enig tijdstip bij dezelfde rechtspersoon of hetzelfde lichaam of bij een verbonden lichaam deel gaan uitmaken van vermogen waarmee belastbare winst wordt behaald, worden zij op dat tijdstip te boek gesteld voor de in het derde tot en met vijfde lid bedoelde waarde.
 
@@ -1786,13 +1812,13 @@ Indien in het kader van een bedrijfsfusie artikel VII van de Wet van 28 december
 
 5. In afwijking van het derde lid vindt de teboekstelling plaats voor nihil indien de activa door de rechtspersoon of het lichaam zijn verkregen van een ten tijde van de verkrijging verbonden lichaam en de vervreemding bij dat verbonden lichaam niet heeft geleid tot belastbare winst.
 
-#### Artikel 33a
+##### Artikel 33a
 
 1. Voor een recht dat periodieke uitkeringen of verstrekkingen oplevert (stamrecht) waarop het met ingang van 1 januari 1992 vervallen artikel 19 van de Wet op de inkomstenbelasting 1964, dan wel het met ingang van die datum vervallen artikel 44j, derde lid, van die wet is toegepast, blijft het met ingang van die datum vervallen [artikel 23a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=23a&z=2026-01-01&g=2026-01-01) van kracht.
 
 2. Het eerste lid is niet van toepassing indien het stamrecht is bedongen vóór 1 januari 1973.
 
-#### Artikel 33b
+##### Artikel 33b
 
 1. Bij de aanwezigheid van een op basis van een regeling ter voorkoming van dubbele belasting naar een jaar dat aanvangt op of na 1 januari 2012 over te brengen bedrag aan negatieve buitenlandse winst uit een staat, vindt de objectvrijstelling voor buitenlandse ondernemingswinsten, bedoeld in [artikel 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01), met betrekking tot de positieve buitenlandse winst uit die staat van dat jaar en van de daaropvolgende jaren, geen toepassing tot in totaal een bedrag gelijk aan dat van het over te brengen bedrag aan negatieve buitenlandse winst.
 
@@ -1816,11 +1842,11 @@ In afwijking van de eerste volzin vindt [artikel 13c](https://wetten.overheid.nl
 
 6. Bij de toepassing van het vijfde lid blijven de [artikelen 2, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), [10a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=10a&z=2026-01-01&g=2026-01-01), [13ba, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13ba&z=2026-01-01&g=2026-01-01), [13d, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13d&z=2026-01-01&g=2026-01-01), en [18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=III&artikel=18&z=2026-01-01&g=2026-01-01), zoals deze luidden op 31 december 2011, van toepassing.
 
-#### Artikel 34
+##### Artikel 34
 
 Vervallen
 
-#### Artikel 35
+##### Artikel 35
 
 1. Indien de belastingplichtige in de boekjaren die aanvangen op of na 1 juli 2019 en voor 1 januari 2022 van een aan hem gelieerd lichaam een bedrijfsmiddel heeft verkregen waarop bij de aanvang van het eerste boekjaar dat aanvangt op of na 1 januari 2022 of een daaropvolgend boekjaar nog kan worden afgeschreven en de belastingplichtige niet aannemelijk maakt dat, indien [artikel 8bc, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8bc&z=2026-01-01&g=2026-01-01), op het tijdstip van de verkrijging van toepassing zou zijn geweest, voor de teboekstelling van dat bedrijfsmiddel de op basis van het zakelijkheidsbeginsel bepaalde verrekenprijs in aanmerking zou zijn genomen, worden de afschrijvingen op dat bedrijfsmiddel met ingang van het eerste boekjaar dat aanvangt op of na 1 januari 2022 waarin op dat bedrijfsmiddel kan worden afgeschreven, berekend op basis van het laagste van de volgende bedragen:
 
@@ -1834,11 +1860,11 @@ Vervallen
 
 - b. de op basis van het zakelijkheidsbeginsel bepaalde verrekenprijs: de waarde in het economische verkeer op het tijdstip van de verkrijging.
 
-#### Artikel 36
+##### Artikel 36
 
 Vervallen
 
-#### Artikel 37
+##### Artikel 37
 
 1. Het Besluit op de Vennootschapsbelasting 1942 (**Verord.bl.** 51), het Invoeringsbesluit Vennootschapsbelasting 1942 (**Stcrt.** 85, verbeterd bij publikatie in **Stcrt.** 90 en 94), het besluit van de secretaris-generaal van het Departement van Financiën van 3 juni 1942 (**Stcrt.** 113) tot wijziging van het Invoeringsbesluit Vennootschapsbelasting 1942, de verordening van de Rijkscommissaris voor het bezette Nederlandse gebied van 26 juni 1943 (**Verord.bl.** 60), houdende wijziging van het Besluit op de Vennootschapsbelasting 1942 en van de Zegelwet, en het Besluit op de Winstbelasting 1940 (**Verord.bl.** 83), vervallen.
 
@@ -1850,11 +1876,11 @@ Vervallen
 
 5. [Hoofdstuk IV](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&z=2026-01-01&g=2026-01-01) is voor zoveel nodig mede van toepassing op naar de bepalingen van het Besluit op de Vennootschapsbelasting 1942 te berekenen verliezen, winsten en binnenlandse inkomens.
 
-#### Artikel 38
+##### Artikel 38
 
 Vervallen
 
-#### Artikel 39
+##### Artikel 39
 
 1. Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het **Staatsblad** waarin zij is geplaatst.
 
@@ -1868,7 +1894,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 2.2. Algemene artikelen inzake bepaling van de winst
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. Indien aannemelijk is dat op enig tijdstip het uiteindelijke belang in de belastingplichtige in belangrijke mate is gewijzigd, gelden in afwijking in zoverre van [artikel 3.54 van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=3.54) de volgende regels:
 
@@ -1896,13 +1922,13 @@ De eerste volzin is niet van toepassing indien de belastingplichtige aannemelijk
 
 ### Afdeling 2.3. Octrooibox
 
-#### Artikel 12b
+##### Artikel 12b
 
 De kwalificerende voordelen uit hoofde van een door de belastingplichtige zelf voortgebracht kwalificerend immaterieel activum worden, indien hij daarvoor bij de aangifte over een jaar kiest, met ingang van dat jaar in aanmerking genomen voor 9/H gedeelte. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=22&z=2026-01-01&g=2026-01-01), geldend voor het jaar waarin het kwalificerende voordeel is genoten. De eerste volzin vindt slechts toepassing voor zover het saldo van de kwalificerende voordelen uit kwalificerende immateriële activa bij de belastingplichtige positief is.
 
 ### Afdeling 2.3. Innovatiebox
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Op gezamenlijk verzoek van de belastingplichtige en alle met hem verbonden lichamen in de zin van het vijfde lid die zijn onderworpen aan de vennootschapsbelasting, wordt bij hem en bij die verbonden lichamen het groepsrentesaldo als bedoeld in het derde lid bij het bepalen van de winst in aanmerking genomen voor 5/H gedeelte. Daarbij staat H voor het percentage van het hoogste tarief, bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=22&z=2026-01-01&g=2026-01-01), geldend voor het jaar van het groepsrentesaldo.
 
@@ -1940,7 +1966,7 @@ De kwalificerende voordelen uit hoofde van een door de belastingplichtige zelf v
 
 ### Afdeling 2.4. Groepsrentebox
 
-#### Artikel 13aa
+##### Artikel 13aa
 
 1. Indien de belastingplichtige voordelen geniet uit hoofde van beleggingsdeelnemingen niet zijnde kwalificerende beleggingsdeelnemingen, wordt een gebruteerd bedrag van die voordelen tot de winst gerekend en wordt ter verrekening van de op die voordelen drukkende winstbelasting de verschuldigde vennootschapsbelasting verminderd volgens [artikel 23c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=Va&artikel=23c&z=2026-01-01&g=2026-01-01) (deelnemingsverrekening).
 
@@ -1986,7 +2012,7 @@ Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel c, 
 
 ### Hoofdstuk III. Voorwerp van de belasting bij buitenlandse belastingplichtigen
 
-#### Artikel 23c
+##### Artikel 23c
 
 1. De op de voet van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&z=2026-01-01&g=2026-01-01) berekende belasting wordt verminderd wegens deelnemingsverrekening, bedoeld in [artikel 13aa](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.5&artikel=13aa&z=2026-01-01&g=2026-01-01).
 
@@ -2026,7 +2052,7 @@ Indien een vergoeding of betaling als bedoeld in de eerste volzin, onderdeel c, 
 
 ### Hoofdstuk Va. Deelnemingsverrekening
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -2036,7 +2062,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Van de belasting wordt op verzoek vrijgesteld een beleggingsinstelling of icbe als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, welker doel en feitelijke werkzaamheid bestaat uit de belegging van gelden of andere goederen en die uitsluitend belegt in financiële instrumenten, met toepassing van het beginsel van risicospreiding, waarbij de aandelen of bewijzen van deelgerechtigdheid (rechten van deelneming) op verzoek van de deelnemers ten laste van de activa van de instelling direct of indirect worden ingekocht of terugbetaald (vrijgestelde beleggingsinstelling).
 
@@ -2090,7 +2116,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk VI. Wijze van heffing
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -2100,7 +2126,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8d
+##### Artikel 8d
 
 Bij het bepalen van de winst blijven buiten aanmerking de subsidies, bedoeld in [artikel 57, eerste lid, van de Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181&artikel=57), ontvangen door verenigingen en stichtingen die op de voet van de [Woningwet](https://wetten.overheid.nl/jci1.3:c:BWBR0005181) bij koninklijk besluit zijn toegelaten als instellingen die in het belang van de volkshuisvesting werkzaam zijn.
 
@@ -2120,7 +2146,7 @@ Bij het bepalen van de winst blijven buiten aanmerking de subsidies, bedoeld in 
 
 ### Hoofdstuk V. Tarief
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
@@ -2130,7 +2156,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 9a
+##### Artikel 9a
 
 1. Bij het bepalen van de winst komen mede in aftrek:
 
@@ -2166,11 +2192,11 @@ Op verzoek worden de in de eerste volzin, onderdeel b, bedoelde uitkeringen reed
 
 ### Afdeling 2.7. Splitsing, juridische fusie en bestuurlijke herindeling of herschikking
 
-#### Artikel 15f
+##### Artikel 15f
 
 Vervallen
 
-#### Artikel 15g
+##### Artikel 15g
 
 1. Voor de toepassing van [artikel 15e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01), is een buitenlandse onderneming een laagbelaste buitenlandse beleggingsonderneming indien:
 
@@ -2184,7 +2210,7 @@ Vervallen
 
 - b. de werkzaamheden bestaan uit het houden van onroerende zaken – daaronder mede begrepen rechten die direct of indirect betrekking hebben op onroerende zaken – die niet in het bezit zijn van een lichaam dat is aangemerkt als beleggingsinstelling of vrijgestelde beleggingsinstelling.
 
-#### Artikel 15h
+##### Artikel 15h
 
 1. Ingeval in een jaar het gezamenlijke bedrag aan winst uit buitenlandse onderneming waarop ingevolge [artikel 15e, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01), de objectvrijstelling voor buitenlandse-ondernemingswinsten geen toepassing vindt, positief is, wordt, ter verrekening van op die winst drukkende buitenlandse winstbelasting, op de door de belastingplichtige verschuldigde vennootschapsbelasting van dat jaar een vermindering verleend volgens [artikel 23d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=Va&artikel=23d&z=2026-01-01&g=2026-01-01) (verrekening bij buitenlandse ondernemingswinsten).
 
@@ -2194,7 +2220,7 @@ Vervallen
 
 4. Dit artikel vindt geen toepassing ten aanzien van een belastingplichtige die als beleggingsinstelling is aangemerkt.
 
-#### Artikel 15i
+##### Artikel 15i
 
 1. Ingeval de belastingplichtige ophoudt winst uit een andere staat te genieten, vindt de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing met betrekking tot het op de voet van dit artikel berekende verlies uit die staat (stakingsverlies).
 
@@ -2218,7 +2244,7 @@ Vervallen
 
 8. Het saldo van de positieve en negatieve bedragen aan winst uit een andere staat wordt op verzoek door de inspecteur bij voor bezwaar vatbare beschikking vastgesteld, mits de belastingplichtige een berekening heeft overgelegd waarop naar zijn oordeel het saldo zou moeten worden vastgesteld. Indien het saldo op een onjuist bedrag is vastgesteld, kan de inspecteur de beschikking bij voor bezwaar vatbare beschikking herzien. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na de vaststelling van de beschikking.
 
-#### Artikel 15j
+##### Artikel 15j
 
 1. Indien de belastingplichtige ophoudt winst uit een andere staat te genieten en de activiteiten die tot die winst hebben geleid in belangrijke mate reeds zijn of worden voortgezet door een met de belastingplichtige verbonden lichaam, wordt het saldo van de positieve en de negatieve bedragen aan winst uit die andere staat dat bij de belastingplichtige in aanmerking is genomen op de voet van [artikel 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01), doorgeschoven naar het verbonden lichaam dat de activiteiten voortzet en bij dat lichaam aangemerkt als bestanddelen die door dat lichaam op de voet van artikel 15e in aanmerking zijn genomen. Ingeval de activiteiten door meer dan een met de belastingplichtige verbonden lichaam zijn of worden voortgezet, vindt de eerste volzin naar evenredigheid toepassing.
 
@@ -2234,7 +2260,7 @@ Vervallen
 
 ### Hoofdstuk IV. Verrekening van verliezen
 
-#### Artikel 23d
+##### Artikel 23d
 
 1. De op de voet van [hoofdstuk V](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&z=2026-01-01&g=2026-01-01) berekende belasting wordt verminderd wegens de verrekening bij buitenlandse ondernemingswinsten, bedoeld in [artikel 15h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15h&z=2026-01-01&g=2026-01-01).
 
@@ -2256,7 +2282,7 @@ Vervallen
 
 ### Hoofdstuk III. Voorwerp van de belasting bij buitenlandse belastingplichtigen
 
-#### Artikel 27
+##### Artikel 27
 
 1. De inspecteur herziet een voorlopige aanslag op verzoek voor zover die voorlopige aanslag op een ander bedrag is vastgesteld dan het bedrag waarop de aanslag, na verrekening van voorheffingen en reeds opgelegde voorlopige aanslagen, vermoedelijk zal worden vastgesteld.
 
@@ -2272,7 +2298,7 @@ Vervallen
 
 ### Hoofdstuk VII. Aanvullende regelingen
 
-#### Artikel 33c
+##### Artikel 33c
 
 1. Een bij een belastingplichtige met betrekking tot een laagbelaste buitenlandse beleggingsonderneming als bedoeld in [artikel 15g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15g&z=2026-01-01&g=2026-01-01), op basis van een regeling ter voorkoming van dubbele belasting naar een jaar dat aanvangt op of na 1 januari 2012 over te brengen bedrag aan te verrekenen belasting, wordt voor de toepassing van [artikel 23d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=Va&artikel=23d&z=2026-01-01&g=2026-01-01) aangemerkt als een naar dat jaar over te brengen bedrag als bedoeld in het vijfde lid van dat artikel.
 
@@ -2286,7 +2312,7 @@ Vervallen
 
 4. [Artikel 33b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIII&artikel=33b&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 33d
+##### Artikel 33d
 
 1. Voor de bepaling van het stakingsverlies uit een staat, bedoeld in [artikel 15i, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15i&z=2026-01-01&g=2026-01-01), worden mede als op de voet van [artikel 15e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01) in aanmerking genomen bedragen aan winst uit die staat beschouwd de positieve bedragen aan buitenlandse winst uit die staat die de belastingplichtige in de vijf jaren voorgaande aan het eerste jaar dat aanvangt op of na 1 januari 2012 heeft genoten. De eerste volzin vindt geen toepassing voor zover een positief bedrag aan buitenlandse winst uit een staat is verrekend met een negatief bedrag aan winst uit die staat van een ander jaar.
 
@@ -2294,7 +2320,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13l
+##### Artikel 13l
 
 Vervallen
 
@@ -2312,7 +2338,7 @@ Vervallen
 
 ### Hoofdstuk VII. Aanvullende regelingen
 
-#### Artikel 34a
+##### Artikel 34a
 
 De dividendbelasting die op grond van [artikel 10bis.5, achtste lid, van de Wet inkomstenbelasting 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353&artikel=10bis.5) niet als voorheffing in aanmerking wordt genomen, wordt mede als voorheffing als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VI&artikel=25&z=2026-01-01&g=2026-01-01) aangewezen:
 
@@ -2322,7 +2348,7 @@ De dividendbelasting die op grond van [artikel 10bis.5, achtste lid, van de Wet 
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 28c
+##### Artikel 28c
 
 1. Indien de belastingplichtige een belang heeft in een lichaam waarop de deelnemingsvrijstelling:
 
@@ -2366,7 +2392,7 @@ Ingeval onderdeel a van toepassing is, kan de toevoeging van een belaste compart
 
 ### Hoofdstuk VI. Wijze van heffing
 
-#### Artikel 34c
+##### Artikel 34c
 
 1. Indien de belastingplichtige een belang heeft in een lichaam waarop vóór 14 juni 2013 een sfeerovergang als bedoeld in [artikel 28c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28c&z=2026-01-01&g=2026-01-01) heeft plaatsgevonden, wordt een in dat artikel bedoelde reserve gevormd op het tijdstip direct voorafgaande aan het moment waarop:
 
@@ -2386,7 +2412,7 @@ Op het tijdstip, bedoeld in het eerste lid, wordt de boekwaarde van het belang v
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34b
+##### Artikel 34b
 
 1. Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de [artikelen 11, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=11), en [37 van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=37), zoals die op 31 december 2013 luidden, blijft [artikel 23a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=V&artikel=23a&z=2026-01-01&g=2026-01-01), zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van [artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=39f), van toepassing.
 
@@ -2396,7 +2422,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 6b
+##### Artikel 6b
 
 1. Van de belasting zijn vrijgesteld lichamen die uitsluitend of nagenoeg uitsluitend:
 
@@ -2418,7 +2444,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 2. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld voor de toepassing van het eerste lid op lichamen als bedoeld in [artikel 2, eerste lid, onderdelen a, b en e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), en [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), niet zijnde een lichaam als bedoeld in artikel 3, derde lid, onderdeel a.
 
-#### Artikel 6c
+##### Artikel 6c
 
 Vervallen
 
@@ -2426,7 +2452,7 @@ Vervallen
 
 ### Afdeling 2.2. Algemene artikelen inzake bepaling van de winst
 
-#### Artikel 8e
+##### Artikel 8e
 
 1. Bij het bepalen van de winst van een lichaam als bedoeld in [artikel 2, eerste lid, onderdeel g, of tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), dan wel [artikel 3, derde lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), blijven buiten aanmerking voordelen uit:
 
@@ -2490,7 +2516,7 @@ Vervallen
 
 - b. die vermogensbestanddelen bij het privaatrechtelijke overheidslichaam waaraan die ter beschikking worden gesteld, worden aangewend ten behoeve van activiteiten waarvan de voordelen in aanmerking worden genomen bij het bepalen van de winst.
 
-#### Artikel 8f
+##### Artikel 8f
 
 1. Bij het bepalen van de winst van een privaatrechtelijk overheidslichaam blijven buiten aanmerking voordelen uit:
 
@@ -2522,7 +2548,7 @@ Vervallen
 
 4. [Artikel 8e, derde, vierde en achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8e&z=2026-01-01&g=2026-01-01), is van overeenkomstige toepassing.
 
-#### Artikel 8g
+##### Artikel 8g
 
 1. Bij het bepalen van de winst blijven buiten aanmerking:
 
@@ -2554,7 +2580,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 14ba
+##### Artikel 14ba
 
 1. Indien vermogen van een onderneming van een gemeente, provincie of waterschap of behorende tot een ministerie (overdragende partij) in het kader van een bestuurlijke herindeling of herschikking overgaat naar een andere gemeente of provincie, een ander waterschap of een ander ministerie (verkrijgende partij), wordt de overdragende partij geacht de vermogensbestanddelen van de onderneming die in het kader van de bestuurlijke herindeling of herschikking overgaan ten tijde van die bestuurlijke herindeling of herschikking te hebben overgedragen aan de verkrijgende partij.
 
@@ -2578,7 +2604,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Hoofdstuk VI. Wijze van heffing
 
-#### Artikel 29b
+##### Artikel 29b
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
@@ -2620,7 +2646,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 - i. **systematische nalatigheid in relatie tot een staat:** het door een staat die een in werking zijnde overeenkomst met Nederland heeft die voorziet in de automatische uitwisseling van landenrapporten, om andere redenen dan die welke in overeenstemming zijn met de bepalingen van die overeenkomst, opschorten van die automatische uitwisseling, dan wel het anderszins stelselmatig nalaten door die staat om aan Nederland automatisch de landenrapporten te verstrekken die die staat in zijn bezit heeft en die multinationale groepen betreffen met groepsentiteiten in Nederland.
 
-#### Artikel 29c
+##### Artikel 29c
 
 1. Een uiteindelijkemoederentiteit die haar fiscale vestigingsplaats in Nederland heeft, verstrekt de inspecteur binnen twaalf maanden na de laatste dag van een verslagjaar een landenrapport als bedoeld in [artikel 29e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29e&z=2026-01-01&g=2026-01-01) dat betrekking heeft op dat verslagjaar.
 
@@ -2650,7 +2676,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 6. Bij ministeriële regeling worden nadere regels gesteld over de vorm en de inhoud van het bericht, bedoeld in het derde lid.
 
-#### Artikel 29d
+##### Artikel 29d
 
 1. Een groepsentiteit van een multinationale groep die fiscaal inwoner is van Nederland, bericht de inspecteur uiterlijk op de laatste dag van het verslagjaar van die multinationale groep of zij de uiteindelijkemoederentiteit, de surrogaatmoederentiteit of de aangewezen groepsentiteit, bedoeld in [artikel 29c, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29c&z=2026-01-01&g=2026-01-01), is.
 
@@ -2660,7 +2686,7 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 4. Bij ministeriële regeling worden nadere regels gesteld over de vorm en de inhoud van het bericht, bedoeld in het eerste tot en met derde lid.
 
-#### Artikel 29e
+##### Artikel 29e
 
 1. Het landenrapport is een rapport over de multinationale groep met:
 
@@ -2670,11 +2696,11 @@ Voor de toepassing van dit hoofdstuk wordt verstaan onder:
 
 2. Bij ministeriële regeling worden nadere regels gesteld over de vorm en de inhoud van het landenrapport, waaronder regels over de bij het opmaken van het landenrapport te gebruiken definities en richtlijnen.
 
-#### Artikel 29f
+##### Artikel 29f
 
 De inspecteur gebruikt het landenrapport voor het beoordelen van substantiële verrekenprijsrisico’s en van andere risico’s voor Nederland die verband houden met uitholling van de belastinggrondslag en winstverschuivingen, daaronder begrepen het risico van het niet naleven van de van toepassing zijnde verrekenprijsregels door leden van de multinationale groep, en, waar nodig, voor het maken van economische en statistische analyses. Een aanpassing van verrekenprijzen door de inspecteur wordt niet gebaseerd op het landenrapport.
 
-#### Artikel 29g
+##### Artikel 29g
 
 1. Een groepsentiteit die belastingplichtig is in Nederland neemt, binnen de termijn gesteld voor het indienen van haar aangifte voor de heffing van vennootschapsbelasting, een groepsdossier en een lokaal dossier inzake het jaar waarop de aangifte betrekking heeft in haar administratie op. Het groepsdossier en het lokale dossier worden in de Nederlandse of in de Engelse taal opgesteld.
 
@@ -2686,7 +2712,7 @@ De inspecteur gebruikt het landenrapport voor het beoordelen van substantiële v
 
 5. Bij ministeriële regeling worden nadere regels gesteld over de vorm en de inhoud van het groepsdossier en het lokale dossier.
 
-#### Artikel 29h
+##### Artikel 29h
 
 1. Indien het aan opzet of grove schuld is te wijten dat niet, niet tijdig, niet volledig of niet juist is of wordt nagekomen:
 
@@ -2704,7 +2730,7 @@ vormt dit een vergrijp ter zake waarvan de inspecteur de rapporterende entiteit,
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12ba
+##### Artikel 12ba
 
 1. Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder een kwalificerend immaterieel activum:
 
@@ -2742,7 +2768,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. Als kwalificerende immateriële activa worden niet aangemerkt merken, logo’s en daarmee vergelijkbare vermogensbestanddelen.
 
-#### Artikel 12bb
+##### Artikel 12bb
 
 1. De kwalificerende voordelen uit hoofde van een kwalificerend immaterieel activum, bedoeld in [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12b&z=2026-01-01&g=2026-01-01), worden gesteld op K/T gedeelte, maar niet meer dan het geheel, van de voordelen uit hoofde van een kwalificerend immaterieel activum, na vermindering van deze voordelen met de drempel, bedoeld in [artikel 12bc](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12bc&z=2026-01-01&g=2026-01-01), waarbij wordt verstaan onder:
 
@@ -2768,7 +2794,7 @@ T: de totale uitgaven in het jaar zelf en in alle voorafgaande jaren ten behoeve
 
 8. Als uitgaven worden voor de toepassing van deze afdeling en de daarop berustende bepalingen niet in aanmerking genomen: uitgaven ter zake van schulden, uitgaven ter zake van huisvesting en andere uitgaven die niet direct verband houden met het speur- en ontwikkelingswerk dat heeft geleid tot het immateriële activum.
 
-#### Artikel 12bc
+##### Artikel 12bc
 
 1. De drempel, bedoeld in [artikel 12bb, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12bb&z=2026-01-01&g=2026-01-01), is gelijk aan:
 
@@ -2792,7 +2818,7 @@ T: de totale uitgaven in het jaar zelf en in alle voorafgaande jaren ten behoeve
 
 3. Indien enig feit grond oplevert voor het vermoeden dat het saldo, bedoeld in het tweede lid, te laag is vastgesteld, kan de inspecteur de aldaar bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is. [Artikel 16, tweede lid, aanhef en onderdeel c, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16) is van overeenkomstige toepassing. Rechtsmiddelen tegen een beschikking als bedoeld in het tweede lid kunnen uitsluitend betrekking hebben op de bedragen, bedoeld in het tweede lid, onderdeel b, en de verminderingen ingevolge het tweede lid, onderdelen c en d.
 
-#### Artikel 12bd
+##### Artikel 12bd
 
 1. In afwijking van [artikel 12bb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12bb&z=2026-01-01&g=2026-01-01) wordt bij de belastingplichtige die in het jaar of in een van de twee voorafgaande jaren een kwalificerend immaterieel activum heeft voortgebracht en die hiervoor kiest, het saldo van de kwalificerende voordelen uit kwalificerende immateriële activa voor de toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12b&z=2026-01-01&g=2026-01-01) gesteld op 25% van de winst vóór toepassing van [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12b&z=2026-01-01&g=2026-01-01), met een maximum van € 25.000. De eerste volzin vindt slechts toepassing indien de aldaar bedoelde winst positief is.
 
@@ -2800,7 +2826,7 @@ T: de totale uitgaven in het jaar zelf en in alle voorafgaande jaren ten behoeve
 
 3. Ingeval bij een belastingplichtige de kwalificerende voordelen uit kwalificerende immateriële activa op basis van het eerste lid worden bepaald, wordt de vermindering, bedoeld in [artikel 12bc, tweede lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12bc&z=2026-01-01&g=2026-01-01), gesteld op nihil.
 
-#### Artikel 12be
+##### Artikel 12be
 
 1. Indien in enig jaar ter zake van een immaterieel activum dat met toepassing van [artikel 12ba, eerste lid, onderdeel b, aanhef en onder 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12ba&z=2026-01-01&g=2026-01-01), als kwalificerend immaterieel activum is aangemerkt en waarop [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12b&z=2026-01-01&g=2026-01-01) toepassing vindt, komt vast te staan dat de aanvraag voor het octrooi of kwekersrecht niet wordt toegewezen:
 
@@ -2812,11 +2838,11 @@ T: de totale uitgaven in het jaar zelf en in alle voorafgaande jaren ten behoeve
 
 3. Het eerste lid vindt geen toepassing voor zover de belastingplichtige doet blijken dat het immateriële activum, bedoeld in dat lid, in de jaren, bedoeld in dat lid, onderdeel b, met toepassing van [artikel 12ba, eerste lid, onderdeel a of onderdeel b, aanhef en onder 1°, 3°, 4°, 5°, 6˚, 7˚ of 8˚](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12ba&z=2026-01-01&g=2026-01-01), als kwalificerend immaterieel activum wordt aangemerkt.
 
-#### Artikel 12bf
+##### Artikel 12bf
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere regels, waaronder nadere voorwaarden, worden gesteld voor de toepassing van deze afdeling. Daarbij kunnen tevens regels worden gesteld voor de bepaling van de kwalificerende voordelen uit hoofde van een kwalificerend immaterieel activum en voor de bepaling welk deel van de door een andere Mogendheid geheven belasting over kwalificerende voordelen die onder [artikel 12b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&artikel=12b&z=2026-01-01&g=2026-01-01) vallen, op basis van regelingen ter voorkoming van dubbele belasting, kan worden verrekend met de verschuldigde vennootschapsbelasting.
 
-#### Artikel 12bg
+##### Artikel 12bg
 
 1. Indien de belastingplichtige kiest voor toepassing van artikel 12b neemt hij, in aanvulling op de bij te houden administratie, bedoeld in artikel 24, eerste lid, van de Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen, in zijn administratie gegevens op waaruit blijkt:
 
@@ -2846,7 +2872,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels, waaronder 
 
 ### Hoofdstuk V. Tarief
 
-#### Artikel 34d
+##### Artikel 34d
 
 1. Een immaterieel activum dat de belastingplichtige vóór 1 januari 2017 doch na 31 december 2006 heeft voortgebracht waarvoor aan de belastingplichtige een octrooi of kwekersrecht is verleend en waarvan de te verwachten voordelen in belangrijke mate hun oorzaak vinden in het aan de belastingplichtige verleende octrooi of kwekersrecht, wordt voor de toepassing van [afdeling 2.3](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.3&z=2026-01-01&g=2026-01-01) en de daarop berustende bepalingen aangemerkt als een kwalificerend immaterieel activum.
 
@@ -2864,7 +2890,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere regels, waaronder 
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34e
+##### Artikel 34e
 
 1. Voor de waardering van pensioenverplichtingen bij een lichaam als bedoeld in [artikel 19a, eerste lid, onderdelen d en e, van de Wet op de loonbelasting 1964](https://wetten.overheid.nl/jci1.3:c:BWBR0002471&artikel=19a), zoals dat artikel luidde op 31 december 2016, blijven de [artikelen 8, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8&z=2026-01-01&g=2026-01-01), en [31d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIII&artikel=31d&z=2026-01-01&g=2026-01-01), zoals die artikelen luidden op 31 december 2016, van toepassing.
 
@@ -2876,7 +2902,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 34f
+##### Artikel 34f
 
 In afwijking van [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29c&z=2026-01-01&g=2026-01-01) is een groepsentiteit als bedoeld in het tweede of derde lid van dat artikel niet verplicht de inspecteur binnen twaalf maanden na de laatste dag van een verslagjaar van de multinationale groep waarvan zij een groepsentiteit is een landenrapport als bedoeld in [artikel 29e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29e&z=2026-01-01&g=2026-01-01) te verstrekken indien die multinationale groep binnen die termijn een zodanig landenrapport beschikbaar stelt via een uiteindelijkemoederentiteit die dat rapport verstrekt aan de belastingautoriteiten van de staat waarvan zij fiscaal inwoner is, mits:
 
@@ -2890,13 +2916,13 @@ In afwijking van [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&h
 
 - e. de inspecteur op basis van [artikel 29d, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29d&z=2026-01-01&g=2026-01-01), is bericht dat die groepsentiteit uiteindelijkemoederentiteit is.
 
-#### Artikel 34g
+##### Artikel 34g
 
 In afwijking van [artikel 34f, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIII&artikel=34f&z=2026-01-01&g=2026-01-01), hoeft een groepsentiteit als bedoeld in dat artikel met betrekking tot het eerste verslagjaar van de multinationale groep waarvan zij een groepsentiteit is dat begint op of na 1 januari 2016 niet aan de verplichting, bedoeld in [artikel 29c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29c&z=2026-01-01&g=2026-01-01), te voldoen indien de staat waarvan de uiteindelijkemoederentiteit fiscaal inwoner is uiterlijk achttien maanden na de laatste dag van dat verslagjaar het landenrapport, bedoeld in [artikel 29e](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIIa&artikel=29e&z=2026-01-01&g=2026-01-01), dat betrekking heeft op dat verslagjaar heeft uitgewisseld met de Nederlandse autoriteiten.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 13ab
+##### Artikel 13ab
 
 1. Bij het bepalen van de winst worden in aanmerking genomen de voordelen uit hoofde van een gecontroleerd lichaam naar tijdsgelang en naar rato van het belang dat de belastingplichtige in dat gecontroleerde lichaam heeft. De voordelen uit hoofde van een gecontroleerd lichaam zijn de in een jaar door dat lichaam genoten besmette voordelen, zijnde:
 
@@ -2964,7 +2990,7 @@ tenzij dat lichaam volgens de fiscale regelgeving van een andere staat dan een a
 
 ### Afdeling 2.7. Splitsing, juridische fusie en bestuurlijke herindeling of herschikking
 
-#### Artikel 15aha
+##### Artikel 15aha
 
 1. Voor de toepassing van [artikel 15b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), komen de voor het voegingstijdstip van een maatschappij ontstane saldi aan renten die zijn voortgewenteld naar het volgende jaar (voorvoegingsrenten) in aftrek bij het bepalen van de winst van de fiscale eenheid van een jaar voor zover:
 
@@ -2986,7 +3012,7 @@ tenzij dat lichaam volgens de fiscale regelgeving van een andere staat dan een a
 
 6. Voor de toepassing van dit artikel wordt onder ruimte voor het in aftrek brengen van voortgewentelde saldi aan renten verstaan: het bedrag waarmee het hoogste van de bedragen, bedoeld in [artikel 15b, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), het saldo aan renten van het jaar overschrijdt.
 
-#### Artikel 15ahb
+##### Artikel 15ahb
 
 1. Vanaf het ontvoegingstijdstip van een dochtermaatschappij worden voor de toepassing van [artikel 15b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), de volgende voortgewentelde saldi aan renten (ontvoegingsrenten) in aanmerking genomen bij het bepalen van de door die dochtermaatschappij na dat tijdstip genoten winst:
 
@@ -3020,19 +3046,19 @@ tenzij dat lichaam volgens de fiscale regelgeving van een andere staat dan een a
 
 ### Hoofdstuk Va. Deelnemingsverrekening, verrekening bij buitenlandse ondernemingswinsten en verrekening bij voordelen uit hoofde van een gecontroleerd lichaam
 
-#### Artikel 34h
+##### Artikel 34h
 
 1. Een bedrag aan rente dat ingevolge [artikel 14a, twaalfde tot en met veertiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.7&artikel=14a&z=2026-01-01&g=2026-01-01), [artikel 14b, negende tot en met elfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.7&artikel=14b&z=2026-01-01&g=2026-01-01), of [artikel 15ad, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ad&z=2026-01-01&g=2026-01-01), zoals die artikelen luidden op 31 december 2018 niet in aftrek is gekomen en ingevolge artikel 15ad, achtste lid, zoals dat artikel luidde op 31 december 2018 of met overeenkomstige toepassing van dat artikel is overgebracht naar het volgende jaar, wordt voor de toepassing van [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), in het eerste jaar dat aanvangt op of na 1 januari 2019, toegevoegd aan het saldo aan renten, bedoeld in artikel 15b, tweede lid. Voor de toepassing van artikel 15b, derde lid, onderdeel c, blijft de eerste zin buiten beschouwing.
 
 2. Een bedrag aan rente dat ingevolge [artikel 14a, achtste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.7&artikel=14a&z=2026-01-01&g=2026-01-01), [artikel 14b, zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.7&artikel=14b&z=2026-01-01&g=2026-01-01), of [artikel 15ad, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ad&z=2026-01-01&g=2026-01-01), zoals die artikelen luidden op 31 december 2006 niet in aftrek is gekomen en dat ingevolge [artikel VIIIc van de Wet werken aan winst](https://wetten.overheid.nl/jci1.3:c:BWBR0020645&artikel=VIIIc) zoals dat artikel luidde op 31 december 2018 wordt verrekend met het belastbare bedrag van een volgend jaar, wordt voor de toepassing van [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), in het eerste jaar dat aanvangt op of na 1 januari 2019, toegevoegd aan het saldo aan renten, bedoeld in artikel 15b, tweede lid. Voor de toepassing van artikel 15b, derde lid, onderdeel c, blijft de eerste zin buiten beschouwing.
 
-#### Artikel 34i
+##### Artikel 34i
 
 Met betrekking tot te verrekenen verliezen die zijn geleden vóór de aanvang van het eerste boekjaar dat aanvangt op of na 1 januari 2019 en waarop [artikel 20, vierde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=IV&artikel=20&z=2026-01-01&g=2026-01-01), zoals dat artikel luidde op 31 december 2018 van toepassing was, blijft artikel 20, vierde tot en met zesde lid, zoals dat artikel luidde op 31 december 2018 van toepassing. Voor de toepassing van de eerste zin vindt verrekening in een jaar slechts plaats tot een bedrag van € 1.000.000 vermeerderd met 50% van de belastbare winst, onderscheidenlijk het Nederlandse inkomen, bedoeld in artikel 20, vierde lid, zoals dat artikel luidde op 31 december 2018, van dat jaar, nadat die winst, onderscheidenlijk dat inkomen, is verminderd met een bedrag van € 1.000.000. Voor de toepassing van de eerste zin blijven voorts de [artikelen 15ae, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15ae&z=2026-01-01&g=2026-01-01), en [15af, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15af&z=2026-01-01&g=2026-01-01), zoals die artikelen luidden op 31 december 2018 van overeenkomstige toepassing.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12abis
+##### Artikel 12abis
 
 Vervallen
 
@@ -3062,7 +3088,7 @@ Vervallen
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 12aa
+##### Artikel 12aa
 
 1. Bij het bepalen van de winst komen mede niet in aftrek:
 
@@ -3098,7 +3124,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 6. Het eerste lid, onderdeel d, is slechts van toepassing voor zover bij of krachtens de wet van de staat van de ontvanger met betrekking tot de vergoedingen of betalingen geen met [artikel 15e, negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.10a&artikel=15e&z=2026-01-01&g=2026-01-01), vergelijkbare bepaling wordt toegepast.
 
-#### Artikel 12ab
+##### Artikel 12ab
 
 1. Bij het bepalen van de winst worden mede tot de winst gerekend vergoedingen, betalingen en veronderstelde betalingen als bedoeld in [artikel 12aa, eerste lid, onderdelen a, b, c, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12aa&z=2026-01-01&g=2026-01-01), door een aan de belastingplichtige gelieerd lichaam of gelieerde natuurlijk persoon, tussen hoofdhuis en vaste inrichting, tussen twee of meer vaste inrichtingen van hetzelfde lichaam of uit hoofde van een gestructureerde regeling mits bij of krachtens de wet van de staat van de betaler met betrekking tot die vergoedingen, betalingen, onderscheidenlijk veronderstelde betalingen, geen met artikel 12aa vergelijkbare bepaling wordt toegepast. Voor zover vergoedingen, betalingen of veronderstelde betalingen ingevolge de eerste zin tot de winst worden gerekend, vinden ten aanzien van die vergoedingen, betalingen, onderscheidenlijk veronderstelde betalingen, de deelnemingsvrijstelling, de deelnemingsverrekening en de objectvrijstelling voor buitenlandse ondernemingswinsten geen toepassing.
 
@@ -3106,7 +3132,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Het eerste lid is slechts van toepassing indien ten aanzien van de vergoedingen, betalingen of veronderstelde betalingen, bedoeld in dat lid, Nederland als staat van de ontvanger wordt aangemerkt.
 
-#### Artikel 12ac
+##### Artikel 12ac
 
 1. Voor de toepassing van deze afdeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -3144,13 +3170,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. redelijkerwijs kan worden verwacht dat de vergoeding, onderscheidenlijk betaling, in de staat van de ontvanger in een toekomstig belastingtijdvak in een naar de winst geheven belasting wordt betrokken en betalingsvoorwaarden gelden die door onafhankelijke partijen zouden zijn overeengekomen.
 
-#### Artikel 12ad
+##### Artikel 12ad
 
 1. Bij het bepalen van de winst komen mede niet in aftrek vergoedingen of betalingen voor zover die rechtens dan wel in feite direct of indirect door middel van een transactie of reeks transacties tussen aan de belastingplichtige gelieerde lichamen of gelieerde natuurlijk personen, of in het kader van een gestructureerde regeling, dienen ter financiering van aftrek van kosten waarop in Nederland [artikel 12aa](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12aa&z=2026-01-01&g=2026-01-01) van toepassing zou zijn, indien Nederland de staat van de betaler was geweest.
 
 2. Het eerste lid is niet van toepassing voor zover in een van de bij de transactie of reeks transacties betrokken staten met betrekking tot vergoedingen of betalingen een met het eerste lid vergelijkbare bepaling wordt toegepast of een met de [artikelen 12aa](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12aa&z=2026-01-01&g=2026-01-01) of [12ab](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12ab&z=2026-01-01&g=2026-01-01) vergelijkbare bepaling wordt toegepast.
 
-#### Artikel 12ae
+##### Artikel 12ae
 
 1. Indien een binnenlandse belastingplichtige tevens door een andere staat als fiscaal inwoner van die staat wordt aangemerkt, wordt geen aftrek van vergoedingen, betalingen, lasten of verliezen toegestaan voor zover dit een aftrek betreft voor vergoedingen, betalingen, lasten, onderscheidenlijk verliezen, die tevens wordt toegestaan door die andere staat en die aftrek niet wordt afgezet tegen dubbel in aanmerking genomen inkomen.
 
@@ -3158,7 +3184,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Indien de aftrek, voordat deze wordt afgezet tegen dubbel in aanmerking genomen inkomen als bedoeld in het eerste lid (totale aftrek), hoger is dan het bedrag dat dubbel in aanmerking genomen inkomen is en de totale aftrek bestaat uit rentelasten ter zake van geldleningen als bedoeld in [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01) of renten ter zake van geldleningen als bedoeld in [artikel 15bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15bd&z=2026-01-01&g=2026-01-01) (renteaftrek) en overige vergoedingen, betalingen, veronderstelde betalingen, lasten of verliezen (overige aftrek), worden de renteaftrek en de overige aftrek naar evenredigheid van de totale aftrek afgezet tegen dat bedrag.
 
-#### Artikel 12af
+##### Artikel 12af
 
 1. Bij het bepalen van de winst komt een bedrag van dubbel in aanmerking genomen inkomen in aftrek voor zover in enig eerder jaar geen aftrek is toegestaan ten aanzien van vergoedingen, betalingen, veronderstelde betalingen, lasten of verliezen op grond van [artikel 12aa, eerste lid, onderdelen e, f of g](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12aa&z=2026-01-01&g=2026-01-01), of [artikel 12ae](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12ae&z=2026-01-01&g=2026-01-01) dan wel voor zover op grond van [artikel 12ab, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2a&artikel=12ab&z=2026-01-01&g=2026-01-01), vergoedingen, betalingen of veronderstelde betalingen als bedoeld in artikel 12aa, eerste lid, onderdelen e of f, mede tot de winst zijn gerekend. Met de aftrek, bedoeld in de eerste zin, wordt ten aanzien van het dubbel in aanmerking genomen inkomen, bedoeld in de eerste zin, slechts eenmaal rekening gehouden.
 
@@ -3166,7 +3192,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Indien het totaal aan vergoedingen, betalingen of veronderstelde betalingen die in eerdere jaren mede tot de winst zijn gerekend als bedoeld in het eerste lid (totale inkomsten) bestaat uit rentebaten ter zake van geldleningen als bedoeld in [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01) (rentebaten) en overige vergoedingen, betalingen of veronderstelde betalingen (overige inkomsten), wordt het bedrag van dubbel in aanmerking genomen inkomen dat door de toepassing van het eerste lid in aftrek komt, geacht naar evenredigheid van de totale inkomsten te bestaan uit rentebaten en overige inkomsten.
 
-#### Artikel 12ag
+##### Artikel 12ag
 
 1. Een belastingplichtige neemt in zijn administratie gegevens op waaruit blijkt in hoeverre en op welke wijze ten aanzien van een vergoeding, betaling, veronderstelde betaling, last of verlies deze afdeling met betrekking tot een jaar van toepassing is.
 
@@ -3176,13 +3202,13 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 ### Afdeling 2.3. Innovatiebox
 
-#### Artikel 15bb
+##### Artikel 15bb
 
 1. De inspecteur stelt het bedrag van het voort te wentelen saldo aan renten, bedoeld in [artikel 15b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), vast bij voor bezwaar vatbare beschikking, gelijktijdig met de aanslag over het jaar waarin dat saldo is ontstaan. Het bedrag, bedoeld in de eerste zin, wordt op het aanslagbiljet afzonderlijk vermeld.
 
 2. Indien enig feit grond oplevert voor het vermoeden dat het bedrag, bedoeld in het eerste lid, te hoog is vastgesteld, kan de inspecteur de beschikking, bedoeld in dat lid, herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is. [Artikel 16, tweede lid, aanhef en onderdeel c, derde lid en vierde lid, van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=16) is van overeenkomstige toepassing.
 
-#### Artikel 15bc
+##### Artikel 15bc
 
 1. Het voortgewentelde saldo aan renten dat ingevolge [artikel 15b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), in aftrek komt bij het bepalen van de winst van een jaar wordt door de inspecteur, gelijktijdig met het vaststellen van de aanslag over dat jaar, vastgesteld bij voor bezwaar vatbare beschikking.
 
@@ -3190,7 +3216,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Rechtsmiddelen tegen de beschikking, bedoeld in het eerste lid, kunnen uitsluitend betrekking hebben op de toepassing van de [artikelen 15b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01), en [15ba](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15ba&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 15bd
+##### Artikel 15bd
 
 1. Voor de toepassing van deze afdeling wordt verstaan onder:
 
@@ -3216,7 +3242,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 - b. renten ter zake van geldleningen die zijn verkregen van groepslichamen voor zover de belastingplichtige aannemelijk maakt dat deze geldleningen niet direct verband houden met geldleningen die zijn verkregen van niet-groepslichamen of natuurlijke personen.
 
-#### Artikel 15be
+##### Artikel 15be
 
 1. Indien een belastingplichtige het bedrijf van bank uitoefent, komt bij het bepalen van de in een jaar genoten winst niet in aftrek het gedeelte van de renten ter zake van geldleningen dat wordt gesteld op (10,6-L)/(100-L). Daarbij wordt onder L verstaan de aangepaste leverage ratio met betrekking tot 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.1&artikel=7&z=2026-01-01&g=2026-01-01), aanvangt. Indien geen kalenderjaar voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in artikel 7, vierde lid, aanvangt, wordt onder L verstaan de aangepaste leverage ratio met betrekking tot 31 december van het kalenderjaar waarin het jaar, bedoeld in artikel 7, vierde lid, aanvangt. De aangepaste leverage ratio bedraagt ten hoogste 10,6.
 
@@ -3224,7 +3250,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 3. Voor de toepassing van het tweede lid wordt uitgegaan van de leverage ratio die met betrekking tot de belastingplichtige wordt berekend op basis van de geconsolideerde situatie, bedoeld in deel 1, titel II, hoofdstuk 2 van de verordening kapitaalvereisten, dan wel, indien met betrekking tot de belastingplichtige niet op basis van de geconsolideerde situatie een leverage ratio wordt berekend, van de leverage ratio die met betrekking tot de belastingplichtige wordt berekend op individuele basis, bedoeld in deel 1, titel II, hoofdstuk 1, van de verordening kapitaalvereisten.
 
-#### Artikel 15bf
+##### Artikel 15bf
 
 1. Indien een belastingplichtige het bedrijf van verzekeraar uitoefent, komt bij het bepalen van de in een jaar genoten winst niet in aftrek het gedeelte van de renten ter zake van geldleningen dat wordt gesteld op (10,6-ER)/(100-ER). Daarbij wordt onder ER verstaan de eigenvermogenratio op 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.1&artikel=7&z=2026-01-01&g=2026-01-01), aanvangt. Indien geen kalenderjaar voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in artikel 7, vierde lid, aanvangt, wordt onder ER verstaan de eigenvermogenratio op 31 december van het kalenderjaar waarin het jaar, bedoeld in artikel 7, vierde lid, aanvangt. De eigenvermogenratio bedraagt ten hoogste 10,6.
 
@@ -3246,11 +3272,11 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 4. Indien de belastingplichtige een verzekeraar met beperkte risico-omvang als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1) is en ingevolge de [artikelen 3:72, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:72), of [3:73c, tweede lid, van die wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=3:73c) de jaarrekening, het bestuursverslag en de overige gegevens openbaar maakt, wordt voor de toepassing van het eerste lid de eigenvermogenratio bepaald aan de hand van het daarin opgenomen eigen vermogen en balanstotaal.
 
-#### Artikel 15bg
+##### Artikel 15bg
 
 Ingeval een belastingplichtige in een jaar zowel het bedrijf van bank als het bedrijf van verzekeraar uitoefent, vindt in dat jaar [artikel 15be](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15be&z=2026-01-01&g=2026-01-01) of [artikel 15bf](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15bf&z=2026-01-01&g=2026-01-01) toepassing, al naar gelang van welk van die bedrijfsactiviteiten van de belastingplichtige de omvang, bepaald aan de hand van het balanstotaal op 31 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.1&artikel=7&z=2026-01-01&g=2026-01-01), aanvangt, het grootst is. Indien geen kalenderjaar voorafgaat aan het kalenderjaar waarin het jaar, bedoeld in artikel 7, vierde lid, aanvangt, wordt de omvang van de bedrijfsactiviteiten van de belastingplichtige in dat jaar bepaald aan de hand van het balanstotaal op 31 december van het laatstbedoelde kalenderjaar.
 
-#### Artikel 15bh
+##### Artikel 15bh
 
 Voor zover door de toepassing van [artikel 15b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9a&artikel=15b&z=2026-01-01&g=2026-01-01) bij het bepalen van de in een jaar genoten winst een saldo aan renten niet in aftrek komt, wordt voor de toepassing van de [artikelen 15be](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15be&z=2026-01-01&g=2026-01-01) en [15bf](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9b&artikel=15bf&z=2026-01-01&g=2026-01-01) het gedeelte van de renten ter zake van geldleningen zoals dat op grond van die artikelen zonder toepassing van dit artikel niet in aftrek komt bij het bepalen van de in dat jaar genoten winst met dat saldo verminderd, doch niet verder dan tot nihil.
 
@@ -3298,7 +3324,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 8ba
+##### Artikel 8ba
 
 Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8bb&z=2026-01-01&g=2026-01-01), [8bc](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8bc&z=2026-01-01&g=2026-01-01), [8bd](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8bd&z=2026-01-01&g=2026-01-01) en [35](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VIII&artikel=35&z=2026-01-01&g=2026-01-01) wordt verstaan onder:
 
@@ -3306,7 +3332,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 - b. **een aan de belastingplichtige gelieerd lichaam:** een lichaam waarmee de belastingplichtige is gelieerd in de zin van [artikel 8b](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.2&artikel=8b&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 8bb
+##### Artikel 8bb
 
 1. Bij het bepalen van de winst blijft buiten aanmerking een neerwaartse aanpassing van de winst ter zake van een onderlinge rechtsverhouding tussen de belastingplichtige en een aan hem gelieerd lichaam voor zover de belastingplichtige niet aannemelijk maakt dat ter zake van die rechtsverhouding bij dat gelieerde lichaam een corresponderende opwaartse aanpassing wordt betrokken in een naar de winst geheven belasting.
 
@@ -3320,7 +3346,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Onder een belang als bedoeld in het derde lid, onderdeel b, wordt mede verstaan een middellijk belang, mits op het lichaam of de lichamen via welke het middellijke belang wordt gehouden, het derde lid, onderdeel a, van toepassing zou zijn, indien dit lichaam, onderscheidenlijk die lichamen, het lichaam waarmee de onderlinge rechtsverhouding bestaat zou, onderscheidenlijk zouden, zijn.
 
-#### Artikel 8bc
+##### Artikel 8bc
 
 1. Indien de belastingplichtige in het jaar een vermogensbestanddeel, niet zijnde een schuld, verkrijgt van een aan hem gelieerd lichaam en ter zake van die verkrijging de met inachtneming van het zakelijkheidsbeginsel bepaalde verrekenprijs hoger is dan de tussen de belastingplichtige en het gelieerde lichaam overeengekomen of opgelegde verrekenprijs, wordt voor de teboekstelling van dat vermogensbestanddeel de verhoging van de laatstbedoelde verrekenprijs naar de met inachtneming van het zakelijkheidsbeginsel bepaalde verrekenprijs slechts in aanmerking genomen voor zover de belastingplichtige aannemelijk maakt dat bij het gelieerde lichaam die hogere verrekenprijs wordt betrokken in een naar de winst geheven belasting.
 
@@ -3334,7 +3360,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 4. Onder een belang als bedoeld in het derde lid, onderdeel b, wordt mede verstaan een middellijk belang, mits op het lichaam of de lichamen via welke het middellijke belang wordt gehouden, het derde lid, onderdeel a, van toepassing zou zijn, indien het vermogensbestanddeel zou worden overgedragen door dit lichaam, onderscheidenlijk die lichamen.
 
-#### Artikel 8bd
+##### Artikel 8bd
 
 1. Indien de belastingplichtige in het jaar een vermogensbestanddeel, niet zijnde een schuld, verkrijgt van een aan hem gelieerd lichaam door middel van een kapitaalstorting, winstuitdeling, teruggaaf van gestort kapitaal, liquidatie-uitkering of een daarmee vergelijkbare rechtshandeling, en de waarde in het economische verkeer van dat vermogensbestanddeel op het tijdstip van de verkrijging hoger is dan de waarde die bij het gelieerde lichaam ter zake van de overdracht van dat vermogensbestanddeel wordt betrokken in een naar de winst geheven belasting, wordt voor de teboekstelling van dat vermogensbestanddeel de laatstbedoelde waarde in aanmerking genomen. De belastingplichtige dient de waarde die bij het gelieerde lichaam wordt betrokken in een naar de winst geheven belasting aannemelijk te maken.
 
@@ -3348,7 +3374,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Afdeling 2.8. Geruisloze terugkeer uit BV
 
-#### Artikel 15ak
+##### Artikel 15ak
 
 1. Voor de toepassing van [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VI&artikel=25a&z=2026-01-01&g=2026-01-01), worden de voor het voegingstijdstip van een maatschappij geheven voorheffingen die zijn voortgewenteld naar het jaar dat aanvangt op het voegingstijdstip (voorvoegingsvoorheffingen) verrekend met een aanslag van de moedermaatschappij van een jaar voor zover:
 
@@ -3376,7 +3402,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 7. Dit artikel is van overeenkomstige toepassing op een fiscale eenheid als bedoeld in [artikel 15a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15a&z=2026-01-01&g=2026-01-01), met dien verstande dat daarbij voor moedermaatschappij wordt gelezen: centrale maatschappij.
 
-#### Artikel 15al
+##### Artikel 15al
 
 1. Vanaf het ontvoegingstijdstip van een dochtermaatschappij worden voor de toepassing van [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VI&artikel=25a&z=2026-01-01&g=2026-01-01), de volgende voorheffingen verrekend met een aan die dochtermaatschappij opgelegde aanslag over het jaar dat aanvangt op het ontvoegingstijdstip:
 
@@ -3410,7 +3436,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 ### Hoofdstuk Va. Deelnemingsverrekening, verrekening bij buitenlandse ondernemingswinsten en verrekening bij voordelen uit hoofde van een gecontroleerd lichaam
 
-#### Artikel 25b
+##### Artikel 25b
 
 1. De inspecteur stelt het bedrag aan voort te wentelen voorheffingen, bedoeld in [artikel 25a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VI&artikel=25a&z=2026-01-01&g=2026-01-01), vast bij voor bezwaar vatbare beschikking, gelijktijdig met het vaststellen van de aanslag over het jaar waarin sprake is van een bedrag aan voort te wentelen voorheffingen. Het bedrag, bedoeld in de eerste zin, wordt op het aanslagbiljet afzonderlijk vermeld.
 
@@ -3424,7 +3450,7 @@ Voor de toepassing van de [artikelen 8bb](https://wetten.overheid.nl/jci1.3:c:BW
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 1a
+##### Artikel 1a
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen, met uitzondering van de [artikelen 2, eerste lid, onderdelen d en h](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=2&z=2026-01-01&g=2026-01-01), [3, eerste tot en met derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=3&z=2026-01-01&g=2026-01-01), [6a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=I&artikel=6a&z=2026-01-01&g=2026-01-01), [14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.8&artikel=14c&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28&z=2026-01-01&g=2026-01-01) en [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28a&z=2026-01-01&g=2026-01-01), en van de op de [artikelen 14c](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.8&artikel=14c&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=II&afdeling=2.9&artikel=15&z=2026-01-01&g=2026-01-01), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28&z=2026-01-01&g=2026-01-01) en [28a](https://wetten.overheid.nl/jci1.3:c:BWBR0002672&hoofdstuk=VII&artikel=28a&z=2026-01-01&g=2026-01-01) berustende bepalingen, worden onder naamloze vennootschappen, besloten vennootschappen met beperkte aansprakelijkheid, coöperaties en verenigingen op coöperatieve grondslag, onderlinge waarborgmaatschappijen, verenigingen welke op onderlinge grondslag als verzekeraar of bank optreden, verenigingen, stichtingen, kerkgenootschappen alsmede hun zelfstandige onderdelen en lichamen waarin zij zijn verenigd, fondsen voor gemene rekening en Nederlandse publiekrechtelijke rechtspersonen mede verstaan daarmee qua rechtsvorm vergelijkbare naar het recht van een andere staat opgerichte of aangegane lichamen.
 
@@ -3466,7 +3492,7 @@ Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat a
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 29i
+##### Artikel 29i
 
 Voor de toepassing van deze wet blijft buiten beschouwing een constructie of een reeks van constructies die is opgezet met als hoofddoel of een van de hoofddoelen een belastingvoordeel te verkrijgen dat het doel of de toepassing van deze wet ondermijnt, en die, alle relevante feiten en omstandigheden in aanmerking genomen, kunstmatig is, waarbij:
 

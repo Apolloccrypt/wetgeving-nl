@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van overeenstemming tussen het Directoraat-Generaal Belastingdienst van Nederland en de afdeling diensten van de bevoegde authoriteit van de belastingdienst van Canada voor de uitvoering van gelijktijdige boekenonderzoeken"
 identifier: "BWBR0020258"
-categorie: "Belastingrecht"
-publicatiedatum: 2006-09-14
-laatste_update: 2005-09-20
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020258"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2006-09-14"
+last_updated: "2005-09-20"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020258"
+soort: "beleidsregel"
+stam_id: "8590563"
+version_id: "13548752"
+internal_id: "C29288781"
+label_id: "8570754"
+dtd_version: "2.0"
+original_entry_into_force: "2006-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020258/2006-09-14/0"
+intitule_bron: "Stcrt.2006-177"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-09-05"
+intitule_published: "2006-09-12"
+intitule_in_force: "2006-09-12"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-177"
+original_signed_date: "2006-09-05"
+original_published_date: "2006-09-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-177-p13-SC76802"
+entry_into_force_date: "2006-09-14"
+jci_1_3: "jci1.3:c:BWBR0020258&z=2006-09-14&g=2006-09-14"
+jci_1_0: "1.0:c:BWBR0020258&g=2006-09-14"
+citeertitel_status: "redactioneel"
+signed_date: "2006-09-05"
+entry_into_force: "2006-09-14"
 ---
-
 # Memorandum van overeenstemming tussen het Directoraat-Generaal Belastingdienst van Nederland en de afdeling diensten van de bevoegde authoriteit van de belastingdienst van Canada voor de uitvoering van gelijktijdige boekenonderzoeken
 
 De Directeur-Generaal Belastingdienst geeft namens de Minister van Financiën kennis van het volgende:

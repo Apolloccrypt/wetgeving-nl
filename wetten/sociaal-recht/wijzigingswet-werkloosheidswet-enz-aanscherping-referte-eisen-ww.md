@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Werkloosheidswet, enz. (aanscherping referte-eisen WW)"
+title: "Wet van 22 december 1994, houdende wijziging van de Werkloosheidswet en enkele andere wetten (aanscherping referte-eisen WW)"
 identifier: "BWBR0007156"
-categorie: "Sociaal recht"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007156"
+country: "nl"
+rank: "wet"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007156"
+soort: "wet"
+stam_id: "2795303"
+version_id: "4302562"
+internal_id: "C4302561"
+label_id: "2743534"
+dtd_version: "2.0"
+original_entry_into_force: "1995-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007156/2006-01-01/0"
+intitule_bron: "Stb.1994-955"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-12-22"
+intitule_in_force: "1995-02-16"
+intitule_status: "goed"
+original_publication: "Stb.1994-955"
+original_signed_date: "1994-12-22"
+original_effect: "nieuwe-regeling"
+original_dossier: "23985"
+entry_into_force_date: "1995-03-01"
+jci_1_3: "jci1.3:c:BWBR0007156&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0007156&g=2006-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Werkloosheidswet, enz. (aanscherping referte-eisen WW)"
+signed_date: "1994-12-22"
+entry_into_force: "1995-03-01"
 ---
-
-# Wijzigingswet Werkloosheidswet, enz. (aanscherping referte-eisen WW)
+# Wet van 22 december 1994, houdende wijziging van de Werkloosheidswet en enkele andere wetten (aanscherping referte-eisen WW)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,51 +40,51 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de toetredingsvoorwa
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Vervallen.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 1. De door het Tijdelijk instituut voor coördinatie en afstemming gestelde en door het College van toezicht sociale verzekeringen goedgekeurde regels op grond van [artikel 17, vijfde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17), zoals deze regels luiden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gelden als regels op grond van [artikel 17**a**, vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=17a) die door het Tijdelijk instituut voor coördinatie en afstemming zijn gesteld en door Onze Minister op grond van artikel 116, eerste lid, van die wet zijn goedgekeurd.
 
 2. De door het Tijdelijk instituut voor coördinatie en afstemming gestelde regels op grond van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=16), zevende lid, en [20, zesde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=20), zoals deze regels luiden op de datum vóór het tijdstip van inwerkingtreding van deze wet, gelden als regels die door het Tijdelijk instituut voor coördinatie en afstemming zijn gesteld en door Onze Minister zijn goedgekeurd op grond van [artikel 116, eerste lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=116).
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt deze wet.
 
-#### Artikel X
+##### Artikel X
 
 Vervallen
 
-#### Artikel XI
+##### Artikel XI
 
 Na de inwerkingtreding van deze wet berust:
 
@@ -70,7 +94,7 @@ Na de inwerkingtreding van deze wet berust:
 
 - 3°. het Besluit op grond van [artikel 21, derde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21) op [artikel 21, vierde lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21).
 
-#### Artikel XII
+##### Artikel XII
 
 1. Indien de eerste dag van werkloosheid ligt voor de datum waarop de [onderdelen A tot en met H, K tot en met W, Y en Z van artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=I&z=2006-01-01&g=2006-01-01) van deze wet in werking treden, blijven de artikelen van de [Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045) en de daarop berustende bepalingen zoals deze luidden voor bovenbedoelde datum van toepassing ten aanzien van het recht op uitkering, het geldend maken van het recht op uitkering, de betaling van de uitkering en de duur en hoogte van de loondervingsuitkering en van de vervolguitkering.
 
@@ -86,7 +110,7 @@ Na de inwerkingtreding van deze wet berust:
 
 7. [Artikel 2, eerste lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](https://wetten.overheid.nl/jci1.3:c:BWBR0004044&artikel=2) en de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=12) en [21 van de Invoeringswet stelselherziening sociale zekerheid](https://wetten.overheid.nl/jci1.3:c:BWBR0004046&artikel=21) zoals deze luidden op de dag voorafgaande aan de inwerkingtreding van de [artikelen II, onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=II&z=2006-01-01&g=2006-01-01), en [IV, onderdelen A en B](https://wetten.overheid.nl/jci1.3:c:BWBR0007156&artikel=IV&z=2006-01-01&g=2006-01-01), blijven van toepassing ten aanzien van de persoon wiens eerste dag van werkloosheid ligt voor de datum van inwerkingtreding van deze onderdelen.
 
-#### Artikel XIII
+##### Artikel XIII
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

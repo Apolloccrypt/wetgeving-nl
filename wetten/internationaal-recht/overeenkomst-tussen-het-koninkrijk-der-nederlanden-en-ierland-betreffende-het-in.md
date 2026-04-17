@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en Ierland betreffende het internationale goederenvervoer over de weg"
 identifier: "BWBV0002935"
-categorie: "Internationaal recht"
-publicatiedatum: 1984-01-29
-laatste_update: 1984-01-29
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002935"
+country: "nl"
+rank: "verdrag"
+publication_date: "1984-01-29"
+last_updated: "1984-01-29"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002935"
+soort: "verdrag"
+stam_id: "10003258393"
+version_id: "10003279622"
+internal_id: "C10006978871"
+label_id: "10003244554"
+dtd_version: "2.0"
+original_entry_into_force: "1984-01-29"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002935/1984-01-29/0"
+intitule_bron: "Trb.1983-102"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-12-30"
+intitule_published: "1983-06-24"
+intitule_in_force: "1984-01-05"
+intitule_status: "goed"
+original_publication: "Trb.1983-102"
+original_signed_date: "1983-12-30"
+original_published_date: "1983-06-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1983-102"
+entry_into_force_date: "1984-01-29"
+jci_1_3: "jci1.3:c:BWBV0002935&z=1984-01-29&g=1984-01-29"
+jci_1_0: "1.0:c:BWBV0002935&g=1984-01-29"
+citeertitel_status: "officieel"
+signed_date: "1983-12-30"
+entry_into_force: "1984-01-29"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en Ierland betreffende het internationale goederenvervoer over de weg
 
 De Regering van het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Besloten hebbende een Overeenkomst te sluiten ten einde bestaande faciliteiten t
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
@@ -30,11 +55,11 @@ Voor de toepassing van deze Overeenkomst wordt verstaan onder:
 
 - b. „voertuig” ieder mechanisch voortbewogen voertuig voor gebruik op de weg dat is gebouwd of ingericht voor het vervoer van goederen, met inbegrip van de aanhangwagen of oplegger die met dat voertuig een combinatie vormt.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 De bepalingen van deze Overeenkomst zijn van toepassing op het internationale goederenvervoer over de weg tegen betaling (beroepsvervoer) of voor eigen rekening tussen het Koninkrijk der Nederlanden en Ierland, in doorvoer over het grondgebied van beide landen en naar of vanuit andere landen.
 
-#### Artikel 3. Vervoer
+##### Artikel 3. Vervoer
 
 Elk der Overeenkomstsluitende Partijen staat vervoerders die op het grondgebied van de andere Overeenkomstsluitende Partij zijn gevestigd, toe zonder bijzondere vergunning goederen te vervoeren:
 
@@ -42,23 +67,23 @@ Elk der Overeenkomstsluitende Partijen staat vervoerders die op het grondgebied 
 
 - b. in doorvoer over haar eigen grondgebied.
 
-#### Artikel 4. Verbod van binnenlands vervoer
+##### Artikel 4. Verbod van binnenlands vervoer
 
 Niets in deze Overeenkomst wordt geacht een vervoerder van het ene land toe te staan goederen te laden op enige plaats in het andere land ten einde deze op enige andere plaats in dat land af te leveren.
 
-#### Artikel 5. Uitzonderlijke gewichten en afmetingen
+##### Artikel 5. Uitzonderlijke gewichten en afmetingen
 
 Indien het gewicht of de afmetingen van een voertuig of combinatie van voertuigen, geregistreerd op het grondgebied van een der Overeenkomstsluitende Partijen en gebruikt voor internationaal vervoer krachtens de bepalingen van deze Overeenkomst, het toelaatbare maximum op het grondgebied van de andere Overeenkomstsluitende Partij overschrijdt, is een bijzondere vergunning vereist.
 
-#### Artikel 6. Naleving van de nationale wetgeving
+##### Artikel 6. Naleving van de nationale wetgeving
 
 Vervoerders van beide landen en de bemanningen van hun voertuigen dienen, wanneer zij zich in het andere land bevinden, de wetten en voorschriften die in dat land van kracht zijn, na te leven.
 
-#### Artikel 7. Overtredingen
+##### Artikel 7. Overtredingen
 
 In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoerder die op het grondgebied van een der Overeenkomstsluitende Partijen is gevestigd, kan de Overeenkomstsluitende Partij op wier grondgebied de overtreding plaatsvond, hiervan kennisgeven aan de andere Overeenkomstsluitende Partij, die de in haar nationale wetten eventueel voorziene maatregelen neemt.
 
-#### Artikel 8. Belastingen en heffingen inzake voertuigen
+##### Artikel 8. Belastingen en heffingen inzake voertuigen
 
 1. Voertuigen die
 
@@ -72,11 +97,11 @@ In geval van overtreding van de bepalingen van deze Overeenkomst door een vervoe
 
 4. Geen van beide Overeenkomstsluitende Partijen wordt echter door het eerste of het derde lid verplicht gesteld deze vrijstelling te verlenen ten aanzien van voertuigen die eigendom zijn van op haar grondgebied woonachtige personen.
 
-#### Artikel 9. Brandstof in reservoirs van voertuigen
+##### Artikel 9. Brandstof in reservoirs van voertuigen
 
 De zich in de normale reservoirs van de voertuigen, genoemd in artikel 1, bevindende brandstof, alsmede de uitsluitend voor de goede werking van die voertuigen bestemde smeermiddelen, zijn op het grondgebied van de andere Overeenkomstsluitende Partij vrijgesteld van invoerrechten en andere belastingen en betalingen.
 
-#### Artikel 10. Uitvoering
+##### Artikel 10. Uitvoering
 
 1. De bevoegde autoriteiten van de beide Overeenkomstsluitende Partijen regelen alle vraagstukken betreffende de uitvoering en de toepassing van deze Overeenkomst.
 
@@ -84,19 +109,19 @@ De zich in de normale reservoirs van de voertuigen, genoemd in artikel 1, bevind
 
 3. De Gemengde Commissie komt bijeen op verzoek van een der Overeenkomstsluitende Partijen.
 
-#### Artikel 11. Uitwisseling van gegevens
+##### Artikel 11. Uitwisseling van gegevens
 
 Elke bevoegde autoriteit verschaft de andere alle ter zake dienende gegevens die ter beschikking kunnen worden gesteld betreffende de wijze waarop het vervoer waarop deze Overeenkomst van toepassing is, zich heeft ontwikkeld.
 
-#### Artikel 12. Protocol
+##### Artikel 12. Protocol
 
 De Overeenkomstsluitende Partijen leggen nauwkeurige voorschriften inzake de uitvoering van deze Overeenkomst vast in een Protocol, dat op hetzelfde tijdstip als de Overeenkomst wordt ondertekend. De overeenkomstig de bepalingen van artikel 10 ingestelde Gemengde Commissie is bevoegd het bedoelde Protocol te wijzigen. Elke wijziging waarover de Gemengde Commissie overeenstemming heeft bereikt, wordt van kracht op een door een diplomatieke nota uitwisseling vast te stellen tijdstip.
 
-#### Artikel 13. Toepassingsgebied voor Nederland
+##### Artikel 13. Toepassingsgebied voor Nederland
 
 Wat het Koninkrijk der Nederlanden betreft, is deze Overeenkomst alleen van toepassing op het in Europa gelegen grondgebied van het Koninkrijk.
 
-#### Artikel 14. Inwerkingtreding en duur
+##### Artikel 14. Inwerkingtreding en duur
 
 1. Elke Overeenkomstsluitende Partij deelt langs diplomatieke weg de andere Overeenkomstsluitende Partij het tijdstip mede waarop de maatregelen die nodig zijn om deze Overeenkomst in haar land van kracht te doen zijn, genomen zijn. De Overeenkomst treedt in werking op de dertigste dag na de datum van ontvangst van de laatste kennisgeving.
 

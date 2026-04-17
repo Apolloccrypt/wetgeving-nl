@@ -1,13 +1,36 @@
 ---
-title: "Besluit modellen jaarrekening"
+title: "Besluit van 23 december 1983 tot vaststelling van modelschema's voor de inrichting van jaarrekeningen"
 identifier: "BWBR0003648"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-11-01
-laatste_update: 2015-11-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0003648"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-11-01"
+last_updated: "2015-11-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0003648"
+soort: "AMvB"
+stam_id: "718283"
+version_id: "1047402"
+internal_id: "C1047401"
+label_id: "696294"
+dtd_version: "2.0"
+original_entry_into_force: "1984-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0003648/2015-11-01/0"
+intitule_bron: "Stb.1983-666"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1983-12-23"
+intitule_in_force: "1983-12-21"
+intitule_status: "goed"
+original_publication: "Stb.1983-666"
+original_signed_date: "1983-12-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1984-01-01"
+jci_1_3: "jci1.3:c:BWBR0003648&z=2015-11-01&g=2015-11-01"
+jci_1_0: "1.0:c:BWBR0003648&g=2015-11-01"
+citeertitel_status: "officieel"
+short_title: "Besluit modellen jaarrekening"
+signed_date: "1983-12-23"
+entry_into_force: "1984-01-01"
 ---
-
 # Besluit van 23 december 1983 tot vaststelling van modelschema's voor de inrichting van jaarrekeningen
 
 Op de voordracht van Onze Minister van Justitie van 10 november 1983, nr. 615/683;
@@ -24,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 Datum inwerking treding 1 januari 1984
 
-#### Artikel 1
+##### Artikel 1
 
 1. De balans van een naamloze of besloten vennootschap moet zijn ingericht overeenkomstig [model A](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=A&z=2015-11-01&g=2015-11-01) of [model B](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=B&z=2015-11-01&g=2015-11-01), de winst- en verliesrekening overeenkomstig [model E](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=E&z=2015-11-01&g=2015-11-01) of [model F](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=F&z=2015-11-01&g=2015-11-01). Deze modellen zijn als bijlage bij dit besluit gevoegd.
 
@@ -32,15 +55,15 @@ Datum inwerking treding 1 januari 1984
 
 3. Dit besluit is niet van toepassing op een rechtspersoon als bedoeld in [artikel 395a van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=395a).
 
-#### Artikel 2
+##### Artikel 2
 
 Vervallen
 
-#### Artikel 3
+##### Artikel 3
 
 De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. Zo veel mogelijk worden daarnaast de bedragen voor het voorafgaande boekjaar gegeven. Boven de kolommen wordt in de balans de balansdatum en in de winst- en verliesrekening het boekjaar vermeld waarop zij betrekking hebben.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanduiding van het gekozen model mag worden weggelaten; het lettertype is vrij.
 
@@ -48,7 +71,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 3. Posten zonder bedrag worden weggelaten, tenzij een bedrag voor het voorafgaande jaar moet worden vermeld. De aanwezigheid van een post in een model laat de bevoegdheid open geen bedrag in te vullen, wanneer de wet dat toestaat.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van de benamingen Vaste activa, Vlottende activa, Kortlopende schulden, Langlopende schulden, Voorzieningen en Eigen vermogen mag niet worden afgeweken.
 
@@ -58,7 +81,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 4. Tussentellingen en eindtellingen in de modellen die niet worden genoemd in de [artikelen 364 tot en met 377 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=364) of, voor zover het betreft banken dan wel, voor zover het betreft verzekeringsmaatschappijen, in de [artikelen 429 tot en met 440 van dat boek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=429), in het [Besluit jaarrekening banken](https://wetten.overheid.nl/jci1.3:c:BWBR0005980) mogen onbenoemd blijven. Opeenvolgende tussentellingen die onderling niet verschillen wegens het ontbreken van tussenliggende posten, mogen worden samengevoegd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De volgorde van de posten is die van het gekozen model. De post "aandeel in winst/verlies van ondernemingen waarin wordt deelgenomen" mag ook aan alle financiële baten en lasten vooraf gaan.
 
@@ -66,7 +89,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 3. Onder participatiemaatschappij wordt in dit artikel verstaan een rechtspersoon of vennootschap waarvan de werkzaamheid is beperkt tot uitsluitend of nagenoeg uitsluitend het deelnemen in andere rechtspersonen of vennootschappen zonder zich in te laten met de bedrijfsvoering daarvan, tenzij door het uitoefenen van aandeelhoudersrechten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Aan de posten van de modellen mag een uitsplitsing worden toegevoegd; zij mogen door een uitsplitsing worden vervangen.
 
@@ -76,7 +99,7 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 4. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, moeten deze afzonderlijk als eerste post van de financiële baten worden opgenomen onder de benaming: uitkeringen uit niet op netto-vermogenswaarde e.d. gewaardeerde deelnemingen. Waardeveranderingen op deze deelnemingen worden hetzij afzonderlijk opgenomen onmiddellijk na de waardeveranderingen van vorderingen die tot de vaste activa behoren en van effecten, hetzij met die post samengevoegd; in het laatste geval wordt de benaming zo nodig aangepast.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Elke ononderbroken reeks met arabische cijfers genummerde posten in een model kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de balans, met herhaling van de som.
 
@@ -84,11 +107,11 @@ De posten worden afzonderlijk, overzichtelijk in een of meer kolommen ingevuld. 
 
 3. Voor zover dit artikel wordt toegepast, worden de reeksen in de toelichting opgenomen in de volgorde van het gekozen model.
 
-#### Artikel 9
+##### Artikel 9
 
 Wanneer een bedrag onder meer dan een post zou kunnen worden opgenomen, moet in de toelichting worden vermeld onder welke andere post of posten het bedrag kon worden opgenomen, hoe groot het bedrag is en waarop het betrekking heeft, een en ander indien het in [artikel 362 lid 1 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=362) bedoelde inzicht daardoor wordt gediend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. In een geconsolideerde jaarrekening mogen alle benamingen worden aangepast om het groepskarakter aan te geven.
 
@@ -96,11 +119,11 @@ Wanneer een bedrag onder meer dan een post zou kunnen worden opgenomen, moet in 
 
 3. In een geconsolideerde winst- en verliesrekening wordt het aandeel van derden in het geconsolideerde resultaat na belastingen afzonderlijk gegeven; indien het gesplitst wordt gegeven, moet dit geschieden na het resultaat uit gewone bedrijfsuitoefening na belastingen en na het buitengewone resultaat na belastingen.
 
-#### Artikel 11
+##### Artikel 11
 
 Bovenaan de balans wordt aangegeven of daarin de bestemming van het resultaat is verwerkt. Is de bestemming van het resultaat niet verwerkt, dan moet op de balans het resultaat na belastingen afzonderlijk worden vermeld als laatste post van het eigen vermogen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. In de modellen A, B, C en D mag de post "overlopende activa" ook na de liquide middelen zelfstandig worden opgenomen.
 
@@ -108,21 +131,21 @@ Bovenaan de balans wordt aangegeven of daarin de bestemming van het resultaat is
 
 3. In de toelichting en in de modellen B en R mogen de uitsplitsing van de kortlopende en die van de langlopende schulden gezamenlijk worden gegeven, mits de onderverdeling weer uit de toelichting blijkt.
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 1. In [model F](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=F&z=2015-11-01&g=2015-11-01) mogen de posten Som der kosten en Netto-omzetresultaat achterwege blijven.
 
 2. In de [modellen I](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=I&z=2015-11-01&g=2015-11-01) en [J](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&bijlage=J&z=2015-11-01&g=2015-11-01)mag van de kolomindeling worden afgeweken.
 
-#### Artikel 15
+##### Artikel 15
 
 Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar van de jaarrekening zijn gesteld, mag op andere exemplaren daarvan worden volstaan met vermelding van de namen der ondertekenaren. Indien een handtekening op het oorspronkelijke exemplaar ontbreekt, wordt de reden daarvan op de andere exemplaren vermeld.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Op banken als bedoeld in [artikel 415 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=415) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2015-11-01&g=2015-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2015-11-01&g=2015-11-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2015-11-01&g=2015-11-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2015-11-01&g=2015-11-01) van toepassing.
 
@@ -142,7 +165,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 9. Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen L en M kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.
 
-#### Artikel 16a
+##### Artikel 16a
 
 1. Op verzekeringsmaatschappijen als bedoeld in [artikel 427 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=427) zijn de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=3&z=2015-11-01&g=2015-11-01), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=4&z=2015-11-01&g=2015-11-01), [5 leden 3 en 4, 6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2015-11-01&g=2015-11-01), [7 leden 2 en 3, 8 leden 1 en 3, 9, 10, 11 en 15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2015-11-01&g=2015-11-01) van toepassing.
 
@@ -162,7 +185,7 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 9. Elke ononderbroken reeks met arabische cijfers genummerde posten in de modellen O en P kan geheel of ten dele in de toelichting worden opgenomen, in plaats van op de winst- en verliesrekening, met herhaling van de som. De reeksen worden in de toelichting opgenomen in de volgorde van het gekozen model.
 
-#### Artikel 16b
+##### Artikel 16b
 
 1. Op beleggingsmaatschappijen of maatschappijen voor collectieve belegging in effecten als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](https://wetten.overheid.nl/jci1.3:c:BWBR0020368&artikel=1:1), zijn de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=2&z=2015-11-01&g=2015-11-01), [5, leden 3 en 4](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=5&z=2015-11-01&g=2015-11-01), [6 lid 1, eerste zin](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=6&z=2015-11-01&g=2015-11-01), [7 leden 1 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=7&z=2015-11-01&g=2015-11-01), [8 tot en met 11](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=8&z=2015-11-01&g=2015-11-01), [12 lid 3](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=12&z=2015-11-01&g=2015-11-01), en [15](https://wetten.overheid.nl/jci1.3:c:BWBR0003648&artikel=15&z=2015-11-01&g=2015-11-01) van toepassing.
 
@@ -176,11 +199,11 @@ Voor zover de wettelijk vereiste handtekeningen op het oorspronkelijke exemplaar
 
 6. Indien opbrengsten moeten worden verantwoord uit deelnemingen die niet overeenkomstig [artikel 389 van boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=389) zijn gewaardeerd, worden deze afzonderlijk en onmiddellijk volgend op de opbrengsten uit deelnemingen verantwoord onder de benaming: opbrengsten uit niet op netto-vermogenswaarde gewaardeerde deelnemingen.
 
-#### Artikel 17
+##### Artikel 17
 
 Dit besluit kan worden aangehaald als "Besluit modellen jaarrekening".
 
-#### Artikel 18
+##### Artikel 18
 
 1. Dit besluit treedt in werking met ingang van de dag waarop titel 8 van boek 2 van het Burgerlijk Wetboek kracht van wet verkrijgt.
 

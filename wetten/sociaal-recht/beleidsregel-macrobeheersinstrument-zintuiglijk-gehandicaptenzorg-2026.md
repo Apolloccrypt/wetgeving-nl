@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2026"
 identifier: "BWBR0051269"
-categorie: "Sociaal recht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051269"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051269"
+soort: "zbo"
+stam_id: "17476653"
+version_id: "30822802"
+internal_id: "C44172991"
+label_id: "17379004"
+dtd_version: "2.0"
+original_entry_into_force: "2026-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051269/2026-01-01/0"
+intitule_bron: "Stcrt.2025-24209"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-07-08"
+intitule_published: "2025-07-16"
+intitule_in_force: "2025-07-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-24209"
+original_signed_date: "2025-07-08"
+original_published_date: "2025-07-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-24209"
+entry_into_force_date: "2026-01-01"
+jci_1_3: "jci1.3:c:BWBR0051269&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0051269&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2025-07-08"
+entry_into_force: "2026-01-01"
 ---
-
 # Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2026
 
 **Grondslag**
@@ -18,7 +43,7 @@ Gelet op [artikel 50, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:
 
 Gelet op [artikel 59, aanhef, en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=59) heeft de Minister van VWS (hierna: de Minister) met brief van 14 juli 2014, met [kenmerk 642422-123511-MC](https://wetten.overheid.nl/jci1.3:c:BWBR0035400), ten behoeve van de voorliggende beleidsregel een aanwijzing op grond van [artikel 7, eerste lid, onder b, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7), aan de NZa heeft gegeven.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -40,15 +65,15 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zvw](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 Het doel van deze beleidsregel is om vast te leggen op welke wijze de NZa gebruik maakt van haar bevoegdheid om uitvoering te geven aan de in de aanwijzing van 14 juli 2014, met kenmerk 642422-123511-MC, neergelegde opdracht van de Minister om op basis van [artikel 50, tweede lid, aanhef en onder c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50) een instrument te ontwikkelen waarmee met ingang van 2015 het integraal macrobudget voor zintuiglijk gehandicaptenzorg kan worden beheerst.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zintuiglijk gehandicaptenzorg als omschreven bij of krachtens de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
-#### Artikel 4. Vaststelling bovengrens
+##### Artikel 4. Vaststelling bovengrens
 
 1. Voorafgaand aan een kalenderjaar stelt de NZa voor alle zorgaanbieders die onder de reikwijdte van deze beleidsregel vallen, in een collectief tariefbesluit een (landelijke) bovengrens vast voor de in dat jaar te realiseren omzet. De som van de door afzonderlijke zorgaanbieders gezamenlijk te realiseren omzet mag deze bovengrens niet overschrijden.
 
@@ -56,11 +81,11 @@ Deze beleidsregel is van toepassing op zintuiglijk gehandicaptenzorg als omschre
 
 3. De NZa maakt de hiervoor genoemde beschikkingen bekend door publicatie op haar website, toezending aan branche- en koepelorganisaties en door publicatie in de Staatscourant.
 
-#### Artikel 5. Onderschrijding van de bovengrens
+##### Artikel 5. Onderschrijding van de bovengrens
 
 Indien en nadat de Minister aan de NZa heeft meegedeeld dat de in het vorige artikel genoemde landelijke bovengrens niet is overschreden, stelt de NZa voor alle zorgaanbieders in een collectief tariefbesluit de bovengrens per individuele zorgaanbieder vast op het niveau van de door die zorgaanbieder gerealiseerde omzet over het desbetreffende jaar.
 
-#### Artikel 6. Overschrijding van de bovengrens
+##### Artikel 6. Overschrijding van de bovengrens
 
 1. Indien en nadat de Minister aan de NZa heeft meegedeeld dat en met welk bedrag de in [artikel 4 lid 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051269&artikel=4&z=2026-01-01&g=2026-01-01) genoemde bovengrens in jaar t is overschreden, stelt de NZa voor elke zorgaanbieder afzonderlijk in een individuele beschikking vast welk deel van deze overschrijding aan de zorgaanbieder wordt toegerekend.
 
@@ -72,7 +97,7 @@ Indien en nadat de Minister aan de NZa heeft meegedeeld dat de in het vorige art
 
 5. De NZa kan besluiten om voorafgaand aan de in het vorige lid bedoelde aanwijzing één of meer (voorlopige) beschikkingen af te geven.
 
-#### Artikel 7. Opbouw individuele omzet
+##### Artikel 7. Opbouw individuele omzet
 
 De individuele omzet van een zorgaanbieder, die onder meer noodzakelijk is voor de in [artikel 6, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051269&artikel=6&z=2026-01-01&g=2026-01-01), bedoelde toerekening bestaat uit de omzet van de prestaties zoals omschreven in de Beleidsregel zintuiglijk gehandicaptenzorg, te weten:
 
@@ -84,7 +109,7 @@ De individuele omzet van een zorgaanbieder, die onder meer noodzakelijk is voor 
 
 Bij de omzetbepaling wordt rekening gehouden met een eventuele bijstelling van de omzet om aansluiting te vinden bij de verrekening tussen zorgverzekeraar en zorgaanbieder.
 
-#### Artikel 8. Informatieverplichting
+##### Artikel 8. Informatieverplichting
 
 1. De NZa legt in de Regeling macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025 vast op welke wijze en op welk moment zorgaanbieders haar over de gerealiseerde omzet dienen te informeren.
 
@@ -94,11 +119,11 @@ Bij de omzetbepaling wordt rekening gehouden met een eventuele bijstelling van d
 
 4. In de in het eerste lid genoemde regeling bepaalt de NZa dat indien de kosten in verband met de afdracht en inning van het af te dragen bedrag hoger zijn dan de baten, inning niet hoeft te plaatsvinden.
 
-#### Artikel 9. Intrekken oude beleidsregel
+##### Artikel 9. Intrekken oude beleidsregel
 
 Gelijktijdig met de inwerkingtreding van deze beleidsregel wordt de [Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051251), met kenmerk BR/REG-25122a, ingetrokken.
 
-#### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
+##### Artikel 10. Toepasselijkheid voorafgaande beleidsregel, bekendmaking, inwerkingtreding, terugwerkende kracht en citeertitel
 
 De [Beleidsregel macrobeheersinstrument zintuiglijk gehandicaptenzorg 2025](https://wetten.overheid.nl/jci1.3:c:BWBR0051251) met kenmerk BR/REG-25122a, blijft van toepassing op besluiten en aangelegenheden die hun grondslag vinden in die beleidsregel en die betrekking hebben op de periode waarvoor die beleidsregel gold.
 

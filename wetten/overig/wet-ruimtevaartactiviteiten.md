@@ -1,14 +1,42 @@
 ---
-title: "Wet ruimtevaartactiviteiten"
+title: "Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)"
 identifier: "BWBR0021418"
-categorie: "Overig"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0021418"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0021418"
+soort: "wet"
+stam_id: "8976053"
+version_id: "17606962"
+internal_id: "C24364321"
+label_id: "8955424"
+dtd_version: "2.0"
+original_entry_into_force: "2010-05-17"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0021418/2025-07-01/0"
+intitule_bron: "Stb.2007-80"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-01-24"
+intitule_published: "2007-03-06"
+intitule_in_force: "2007-12-13"
+intitule_status: "goed"
+original_publication: "Stb.2010-350"
+original_signed_date: "2010-05-17"
+original_published_date: "2010-09-01"
+original_effect: "structuurwijziging"
+original_dossier: "31959"
+original_url_id: "stb-2010-350"
+entry_into_force_date: "2010-05-17"
+entry_into_force_dossier: "31959"
+jci_1_3: "jci1.3:c:BWBR0021418&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0021418&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet ruimtevaartactiviteiten"
+signed_date: "2010-05-17"
+entry_into_force: "2010-05-17"
 ---
-
-# Wet ruimtevaartactiviteiten
+# Wet van 24 januari 2007, houdende regels omtrent ruimtevaartactiviteiten en de instelling van een register van ruimtevoorwerpen (Wet ruimtevaartactiviteiten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +46,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +64,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - g. Aansprakelijkheidsverdrag: de op 29 maart 1972 te Londen/Moskou/Washington tot stand gekomen Overeenkomst inzake de internationale aansprakelijkheid voor schade veroorzaakt door ruimtevoorwerpen (Trb. 1981, 37).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Deze wet is van toepassing op ruimtevaartactiviteiten die worden verricht in of vanuit Nederland dan wel op of vanaf een Nederlands schip of Nederlands luchtvaartuig.
 
@@ -50,7 +78,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Vergunning voor ruimtevaartactiviteiten
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het is verboden zonder daartoe verleende vergunning van Onze Minister ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01) te verrichten.
 
@@ -80,7 +108,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 1. Vergunning voor ruimtevaartactiviteiten
 
-#### Artikel 4
+##### Artikel 4
 
 1. De aanvraag om een vergunning wordt ingediend bij Onze Minister.
 
@@ -92,13 +120,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - b. het verkregen hebben van toestemming voor het gebruik van frequentieruimte.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister beslist op een aanvraag om een vergunning binnen zes maanden na de ontvangst daarvan.
 
 2. Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0026759&artikel=28) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&paragraaf=4.1.3.3) niet van toepassing op een aanvraag om een vergunning.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een vergunning wordt geweigerd indien:
 
@@ -120,7 +148,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 - e. de bescherming van de belangen, genoemd in [artikel 3, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), dit vordert.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De vergunning wordt ingetrokken indien:
 
@@ -148,13 +176,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Op de gronden, genoemd in het tweede lid, kan Onze Minister in plaats van de vergunning intrekken deze ook wijzigen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De vergunning is niet overdraagbaar.
 
 2. Onze Minister kan op verzoek de tenaamstelling van de vergunning aanpassen indien de vergunning gehouden wordt door een rechtspersoon die fuseert, wordt gesplitst of verandert van naam.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Bij algemene maatregel van bestuur kan worden bepaald dat ter dekking van de kosten van werkzaamheden of diensten ter uitvoering van het bij of krachtens deze wet bepaalde een vergoeding verschuldigd is door degene ten behoeve van wie werkzaamheden of diensten zijn verricht overeenkomstig bij of krachtens algemene maatregel van bestuur gestelde regels.
 
@@ -164,7 +192,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 3. Calamiteiten
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien zich een voorval voordoet of heeft voorgedaan dat gevaar kan opleveren voor de veiligheid van personen en goederen, de bescherming van het milieu in de ruimte, de bescherming van de openbare orde of de veiligheid van de staat, of anderszins schade kan opleveren, treft de vergunninghouder onverwijld de maatregelen die redelijkerwijs van hem kunnen worden verlangd om de gevolgen van die gebeurtenis te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, zoveel mogelijk te beperken en ongedaan te maken.
 
@@ -180,7 +208,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 3. Register ruimtevoorwerpen
 
-#### Artikel 11
+##### Artikel 11
 
 1. Onze Minister houdt een register met gegevens betreffende ruimtevoorwerpen die gebruikt worden in het kader van ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01).
 
@@ -192,7 +220,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 3. Register ruimtevoorwerpen
 
-#### Artikel 12
+##### Artikel 12
 
 1. In het geval de staat op grond van artikel VII van het Ruimteverdrag of het Aansprakelijkheidsverdrag gehouden is tot betaling van schadevergoeding, heeft de staat het recht deze geheel of gedeeltelijk te verhalen op degene wiens ruimtevaartactiviteit de schade heeft veroorzaakt.
 
@@ -204,59 +232,59 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 4. Regres
 
-#### Artikel 13
+##### Artikel 13
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), en [11, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.
 
 2. Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01) en [11, tweede en vierde lid, van deze wet](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01).
 
 2. Voor de toepassing van het eerste lid is vereiste spoed als bedoeld in [artikel 5:24, vijfde lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:24) in elk geval aanwezig indien het niet naleven van de in het eerste lid bedoelde verplichtingen een ernstige en directe bedreiging vormt voor de veiligheid van personen en goederen, de veiligheid van de staat of de openbare orde.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Ingeval van overtreding van het bepaalde bij of krachtens [artikelen 3, eerste, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=1&artikel=3&z=2025-07-01&g=2025-07-01), [7, derde lid, derde volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=2&artikel=7&z=2025-07-01&g=2025-07-01), [10](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=2&paragraaf=3&artikel=10&z=2025-07-01&g=2025-07-01), of van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=5:20), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 450 000, of, indien dat meer is, 10 procent van de relevante jaaromzet van de onderneming in Nederland.
 
 2. Ingeval van overtreding van het bepaalde bij of krachtens [artikel 11, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=3&artikel=11&z=2025-07-01&g=2025-07-01), kan Onze Minister een bestuurlijke boete opleggen van ten hoogste € 100 000.
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Vervallen
 
-#### Artikel 18
+##### Artikel 18
 
 Vervallen
 
-#### Artikel 19
+##### Artikel 19
 
 Vervallen
 
-#### Artikel 20
+##### Artikel 20
 
 Vervallen
 
-#### Artikel 21
+##### Artikel 21
 
 Vervallen
 
-#### Artikel 22
+##### Artikel 22
 
 Vervallen
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
 ### Hoofdstuk 6. Wijziging in andere wetgeving
 
-#### Artikel 24
+##### Artikel 24
 
 1. Wijzigt de Wet op de economische delicten.
 
@@ -264,27 +292,27 @@ Vervallen
 
 ### Hoofdstuk 6. Wijziging in andere wetgeving
 
-#### Artikel 25
+##### Artikel 25
 
 1. Ruimtevaartactiviteiten als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0021418&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01) die op de datum van inwerkingtreding van deze wet plaatsvinden, kunnen zonder vergunning worden voortgezet gedurende een periode van twaalf maanden vanaf deze datum.
 
 2. Eenieder deelt binnen zes maanden na de datum van inwerkingtreding van deze wet aan Onze Minister de ruimtevaartactiviteiten mee die hij verricht en waarop deze wet betrekking kan hebben.
 
-#### Artikel 26
+##### Artikel 26
 
 Wijzigt deze wet.
 
-#### Artikel 27
+##### Artikel 27
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 28
+##### Artikel 28
 
 Deze wet wordt aangehaald als: Wet ruimtevaartactiviteiten.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 2a
+##### Artikel 2a
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.
 

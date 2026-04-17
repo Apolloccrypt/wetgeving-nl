@@ -1,13 +1,39 @@
 ---
-title: "Besluit beperkingen openbaarheid Adoptiedossiers Raad voor de Kinderbescherming"
+title: "Beperkingen aan de openbaarheid van de Adoptiedossiers van de Raad voor de Kinderbescherming"
 identifier: "BWBR0048982"
-categorie: "Overig"
-publicatiedatum: 2023-12-01
-laatste_update: 2023-12-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048982"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-12-01"
+last_updated: "2023-12-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048982"
+soort: "ministeriele-regeling"
+stam_id: "16942373"
+version_id: "29776072"
+internal_id: "C42670501"
+label_id: "16853054"
+dtd_version: "2.0"
+original_entry_into_force: "2023-12-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048982/2023-12-01/0"
+intitule_bron: "Stcrt.2023-32787"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-11-15"
+intitule_published: "2023-11-30"
+intitule_in_force: "2023-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-32787"
+original_signed_date: "2023-11-15"
+original_published_date: "2023-11-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-32787"
+entry_into_force_date: "2023-12-01"
+jci_1_3: "jci1.3:c:BWBR0048982&z=2023-12-01&g=2023-12-01"
+jci_1_0: "1.0:c:BWBR0048982&g=2023-12-01"
+citeertitel_status: "redactioneel"
+short_title: "Besluit beperkingen openbaarheid Adoptiedossiers Raad voor de Kinderbescherming"
+signed_date: "2023-11-15"
+entry_into_force: "2023-12-01"
 ---
-
 # Beperkingen aan de openbaarheid van de Adoptiedossiers van de Raad voor de Kinderbescherming
 
 Gelet op [artikel 15, lid 1, onder a Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=15), [artikel 10 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=10) en het advies van het Nationaal Archief d.d.19-9-2023, met kenmerk 1117237.
@@ -16,7 +42,7 @@ Besluit:
 
 Tot de volgende beperkingen aan de openbaarheid van de Adoptiedossiers van de Raad voor de Kinderbescherming, geboortejaren tot en met 1969.
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom. Het gaat om dossiers met o.a. bijzondere persoonsgegevens van de (mogelijk) nog levende personen.
 
@@ -12095,14 +12121,14 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 | 12138 | 2055 |
 | 12139 | 2067 |
 
-#### Artikel 2
+##### Artikel 2
 
 Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048982&artikel=1&z=2023-12-01&g=2023-12-01), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris. Deze toestemming wordt verleend volgens de bij het Nationaal Archief geldende procedure voor het gebruik van beperkt openbare archieven die bijzondere persoonsgegevens bevatten. Alleen schriftelijke verzoeken tot raadpleging worden in behandeling genomen. De algemene rijksarchivaris kan aan zijn toestemming voorwaarden verbinden.
 
-#### Artikel 3
+##### Artikel 3
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0048982&artikel=1&z=2023-12-01&g=2023-12-01), is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van Adoptiedossiers van de Raad voor de Kinderbescherming, geboortejaren tot en met 1969’.

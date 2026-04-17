@@ -1,20 +1,46 @@
 ---
-title: "Vervolgsubsidieregeling BANS klimaatconvenant 2007"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 december 2006, nr. KvI2006327794, houdende regels voor de subsidiëring van nieuwe gemeentelijke en provinciale projecten, gericht op CO2-reductie (Vervolgsubsidieregeling BANS klimaatconvenant 2007)"
 identifier: "BWBR0020852"
-categorie: "Milieu"
-publicatiedatum: 2010-10-01
-laatste_update: 2010-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0020852"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2010-10-01"
+last_updated: "2010-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0020852"
+soort: "ministeriele-regeling"
+stam_id: "8834623"
+version_id: "14026022"
+internal_id: "C19076941"
+label_id: "8814394"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0020852/2010-10-01/0"
+intitule_bron: "Stcrt.2006-250"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-12-12"
+intitule_published: "2006-12-22"
+intitule_in_force: "2006-12-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2006-250"
+original_signed_date: "2006-12-12"
+original_published_date: "2006-12-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2006-250-p51-SC78456"
+entry_into_force_date: "2007-01-02"
+jci_1_3: "jci1.3:c:BWBR0020852&z=2010-10-01&g=2010-10-01"
+jci_1_0: "1.0:c:BWBR0020852&g=2010-10-01"
+citeertitel_status: "officieel"
+short_title: "Vervolgsubsidieregeling BANS klimaatconvenant 2007"
+signed_date: "2006-12-12"
+entry_into_force: "2007-01-02"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 12 december 2006, nr. KvI2006327794, houdende regels voor de subsidiëring van nieuwe gemeentelijke en provinciale projecten, gericht op CO2-reductie (Vervolgsubsidieregeling BANS klimaatconvenant 2007)
 
 Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=15.13);
 
 Besluit:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze regeling wordt verstaan onder:
 
@@ -32,11 +58,11 @@ In deze regeling wordt verstaan onder:
 
 - g. Minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft als doel de uitvoering van het gemeentelijk en provinciaal klimaatbeleid verder te stimuleren, opdat gemeenten en provincies die reeds subsidie hebben ontvangen op grond van de [Subsidieregeling BANS klimaatconvenant](https://wetten.overheid.nl/jci1.3:c:BWBR0013383), gedurende een jaar hun bijdrage aan de reductie van de CO2 uitstoot in Nederland intensiveren.
 
-#### Artikel 3. Beoordelingscriteria
+##### Artikel 3. Beoordelingscriteria
 
 Een gemeente of een provincie komt voor subsidie in aanmerking indien:
 
@@ -44,7 +70,7 @@ Een gemeente of een provincie komt voor subsidie in aanmerking indien:
 
 - b. de aanvraag tot subsidieverlening vergezeld gaat van een plan van aanpak, opgesteld volgens een door de Minister beschikbaar gesteld model.
 
-#### Artikel 4. Subsidiabele kosten
+##### Artikel 4. Subsidiabele kosten
 
 1. Als subsidiabele kosten worden de volgende noodzakelijke, rechtstreeks aan de uitvoering van het plan van aanpak toe te rekenen en door de aanvrager tot subsidieverlening gemaakte en betaalde kosten in aanmerking genomen:
 
@@ -58,7 +84,7 @@ Een gemeente of een provincie komt voor subsidie in aanmerking indien:
 
 3. In afwijking van het eerste lid, mag de berekening van het uurloon en de vaststelling van het opslagpercentage voor algemene kosten met inbegrip van indirecte loonkosten en kosten van toezicht houdend personeel geschieden overeenkomstig een voor de gehele organisatie van de aanvrager tot subsidieverlening geldende en controleerbare methodiek.
 
-#### Artikel 5. Hoogte van de subsidie
+##### Artikel 5. Hoogte van de subsidie
 
 1. Per gemeente bedraagt de subsidie voor het basispakket het laagste bedrag van één van de volgende berekeningen:
 
@@ -106,7 +132,7 @@ Een gemeente of een provincie komt voor subsidie in aanmerking indien:
 
 5. Voor het aantal inwoners en het aantal hectare of vierkante kilometer grondoppervlak, bedoeld in het eerste tot en met het vierde lid, onderdelen b, wordt uitgegaan van het laatstelijk op Statline van het Centraal Bureau voor de Statistiek bekendgemaakte inwonertal en grondoppervlak van de desbetreffende gemeente of provincie.
 
-#### Artikel 6. Verplichtingen van de subsidieontvanger
+##### Artikel 6. Verplichtingen van de subsidieontvanger
 
 De subsidieontvanger is verplicht:
 
@@ -114,11 +140,11 @@ De subsidieontvanger is verplicht:
 
 - b. het verslag omtrent het verloop, de uitvoering en de resultaten van het plan van aanpak, bedoeld in [artikel 14, tweede lid, onderdeel a, van het Besluit milieusubsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0010065&artikel=14) binnen zes maanden na uitvoering van het plan van aanpak aan de Minister te verstrekken aan de hand van een door de Minister voorgeschreven model.
 
-#### Artikel 7. Subsidieplafond
+##### Artikel 7. Subsidieplafond
 
 Het subsidieplafond voor 2007 bedraagt: € 6.000.000,–.
 
-#### Artikel 8. Aanvraag tot subsidieverlening en subsidievaststelling
+##### Artikel 8. Aanvraag tot subsidieverlening en subsidievaststelling
 
 1. Een aanvraag tot subsidieverlening kan worden ingediend door het bevoegde bestuursorgaan:
 
@@ -142,7 +168,7 @@ waaraan op grond van de [Subsidieregeling BANS klimaatconvenant](https://wetten.
 
 5. Bij de subsidieverlening wordt beslist in de volgorde van ontvangst van de aanvragen, met dien verstande dat, wanneer de aanvrager tot subsidieverlening krachtens [artikel 4:5 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, als datum van ontvangst van de aanvraag geldt.
 
-#### Artikel 9. Voorschotten
+##### Artikel 9. Voorschotten
 
 Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0020852&artikel=8&z=2010-10-01&g=2010-10-01), waaraan subsidie is verleend, worden voorschotten ter beschikking gesteld ter grootte van:
 
@@ -150,15 +176,15 @@ Aan een bestuursorgaan als bedoeld in [artikel 8, eerste lid](https://wetten.ove
 
 - b. 45% van het verleende subsidiebedrag en wel binnen twee weken, nadat zes maanden zijn verstreken na de dagtekening van de beschikking tot subsidieverlening.
 
-#### Artikel 10. Intrekking [Subsidieregeling BANS klimaatconvenant](https://wetten.overheid.nl/jci1.3:c:BWBR0013383)
+##### Artikel 10. Intrekking [Subsidieregeling BANS klimaatconvenant](https://wetten.overheid.nl/jci1.3:c:BWBR0013383)
 
 De [Subsidieregeling BANS klimaatconvenant](https://wetten.overheid.nl/jci1.3:c:BWBR0013383) wordt ingetrokken.
 
-#### Artikel 11. Inwerkingtreding
+##### Artikel 11. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 2 januari 2007.
 
-#### Artikel 12. Citeertitel
+##### Artikel 12. Citeertitel
 
 Deze regeling wordt aangehaald als: Vervolgsubsidieregeling BANS klimaatconvenant 2007.
 

@@ -1,22 +1,47 @@
 ---
-title: "Briefwisseling tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken inzake een verdrag houdende bepalingen inzake de status van de brigadestaf van de „United Nations Stand-by Forces High Readiness Brigade" (Shirbrig) in Denemarken"
+title: "Briefwisseling tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken inzake een verdrag houdende bepalingen inzake de status van de brigadestaf van de „United Nations Stand-by Forces High Readiness Brigade\" (Shirbrig) in Denemarken"
 identifier: "BWBV0001335"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-03-01
-laatste_update: 1999-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001335"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-03-01"
+last_updated: "1999-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001335"
+soort: "verdrag"
+stam_id: "10001410963"
+version_id: "10001480392"
+internal_id: "C10006990381"
+label_id: "10001411154"
+dtd_version: "2.0"
+original_entry_into_force: "1999-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001335/1999-03-01/0"
+intitule_bron: "Trb.1998-141"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-05-13"
+intitule_published: "1998-06-12"
+intitule_in_force: "1999-02-19"
+intitule_status: "goed"
+original_publication: "Trb.1998-141"
+original_signed_date: "1998-05-13"
+original_published_date: "1998-06-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-141"
+entry_into_force_date: "1999-03-01"
+jci_1_3: "jci1.3:c:BWBV0001335&z=1999-03-01&g=1999-03-01"
+jci_1_0: "1.0:c:BWBV0001335&g=1999-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1998-05-13"
+entry_into_force: "1999-03-01"
 ---
-
 # Briefwisseling tussen het Koninkrijk der Nederlanden en het Koninkrijk Denemarken inzake een verdrag houdende bepalingen inzake de status van de brigadestaf van de „United Nations Stand-by Forces High Readiness Brigade" (Shirbrig) in Denemarken
 
-#### Artikel 1. Basis voor de oprichting en de werking van de kernbrigadestaf
+##### Artikel 1. Basis voor de oprichting en de werking van de kernbrigadestaf
 
 1. De kernbrigadestaf wordt opgericht in overeenstemming met de bepalingen genoemd in het Memorandum van Overeenstemming inzake de werking, de financiering, het beheer en de rechtspositie van de kernbrigadestaf van de Multinationale United Nations Stand-by Forces High Readiness Brigade, dat in eerste instantie door Denemarken is ondertekend op 14 maart 1997, en staat onder toezicht van de Stuurgroep voor de Multinationale United Nations Stand-by Forces High Readiness Brigade, zoals omschreven in het Memorandum van Overeenstemming inzake de Stuurgroep, dat in eerste instantie door Denemarken is ondertekend op 9 maart 1997.
 
 2. De rechtspositie van de kernbrigadestaf, van de functionarissen hiervan en van de commandant van de Multinationale United Nations Stand-by Forces High Readiness Brigade wanneer deze zich op Deens grondgebied bevinden, is vastgelegd in de volgende Bepalingen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 In het navolgende wordt verstaan onder:
 
@@ -34,7 +59,7 @@ In het navolgende wordt verstaan onder:
 
 - g. „Regering", de Regering van Denemarken.
 
-#### Artikel 3. Rechtspersoonlijkheid en handelingsbevoegdheid
+##### Artikel 3. Rechtspersoonlijkheid en handelingsbevoegdheid
 
 1. De kernbrigadestaf is bevoegd:
 
@@ -48,13 +73,13 @@ In het navolgende wordt verstaan onder:
 
 2. De kernbrigadestaf en het Deense Ministerie van Defensie kunnen overeenkomen dat de Deense autoriteiten bij elke gerechtelijke procedure voor Deense rechtbanken waarbij de kernbrigadestaf partij is, optreden namens de kernbrigadestaf. De kosten die verband houden met het nakomen van contracten of het voeren van gerechtelijke procedures worden gedragen door de kernbrigadestaf.
 
-#### Artikel 4. Vertegenwoordigers in Denemarken
+##### Artikel 4. Vertegenwoordigers in Denemarken
 
 1. De SHIRBRIG-commandant wordt geplaatst bij de kernbrigadestaf teneinde zijn in het Memorandum van Overeenstemming inzake de werking, de financiering, het beheer en de rechtspositie van de kernbrigadestaf vastgelegde werkzaamheden te verrichten.
 
 2. De kernbrigadestaf wordt in Denemarken vertegenwoordigd door de stafchef.
 
-#### Artikel 5. Rechtspositie van het terrein en de gebouwen
+##### Artikel 5. Rechtspositie van het terrein en de gebouwen
 
 1. Tenzij in deze Bepalingen anders wordt bepaald, is de Deense wet van toepassing op het terrein en de gebouwen van de kernbrigadestaf.
 
@@ -76,7 +101,7 @@ In het navolgende wordt verstaan onder:
 
 9. De bevoegde Deense autoriteiten stellen al het mogelijke in het werk om in de door de kernbrigadestaf benodigde openbare diensten te voorzien. De openbare diensten worden geleverd in overeenstemming met het bovengenoemde Memorandum van Overeenstemming inzake de werking, de financiering en het beheer van de kernbrigadestaf.
 
-#### Artikel 6. Vrije toegang
+##### Artikel 6. Vrije toegang
 
 1. Onverminderd het bepaalde in artikel 9, wordt door de bevoegde Deense autoriteiten de toegang naar of het vertrek van de kernbrigadestaf of naar of van de SHIRBRIG-commandant aan personen die daar een officiële functie hebben of aan personen die daar in verband met de officiële werkzaamheden van de kernbrigadestaf zijn uitgenodigd, bij hun aankomst in of vertrek uit Denemarken niet belet.
 
@@ -96,7 +121,7 @@ In het navolgende wordt verstaan onder:
 
 - c. De in het tweede lid bedoelde personen zijn niet uitgezonderd van de toepassing van quarantaineregelingen of andere voorschriften inzake de volksgezondheid.
 
-#### Artikel 7. Communicatievoorzieningen
+##### Artikel 7. Communicatievoorzieningen
 
 1. Wat betreft alle officiële communicatie per post, telefoon, telegraaf, telefoto, telefax en langs elektronische weg, kent de Regering aan de kernbrigadestaf een behandeling toe die gelijkwaardig is aan die welke wordt toegekend aan de Deense strijdkrachten.
 
@@ -114,7 +139,7 @@ In het navolgende wordt verstaan onder:
 
 - e. De in dit artikel genoemde voorzieningen kunnen, voor zover nodig voor de goede werking ervan, na toestemming van de bevoegde Deense autoriteiten, buiten de kernbrigadestaf worden opgericht en bediend.
 
-#### Artikel 8. Eigendommen, gelden en financiële middelen van de kernbrigadestaf
+##### Artikel 8. Eigendommen, gelden en financiële middelen van de kernbrigadestaf
 
 - a. De kernbrigadestaf is vrijgesteld van douaneheffingen op goederen die door de kernbrigadestaf zelf worden ingevoerd. Ingevoerde goederen zijn bij invoer niet onderworpen aan omzetbelasting. De kernbrigadestaf is vrijgesteld van motorrijtuigenbelasting geheven krachtens de „[Deense] Wet inzake de belasting op het gewicht van motorrijtuigen". Indien de kernbrigadestaf voor officieel gebruik roerende zaken aanschaft waarover belasting toegevoegde waarde is of kan worden geheven, treffen de desbetreffende Deense autoriteiten, waar mogelijk, de nodige administratieve regelingen voor de teruggaaf of ontheffing van het bedrag van de belasting toegevoegde waarde.
 
@@ -126,7 +151,7 @@ In het navolgende wordt verstaan onder:
 
 3. De eigendommen en financiële middelen van de kernbrigadestaf zijn gevrijwaard van doorzoeking, vordering, inbeslagname, onteigening en alle andere vormen van bemoeienis, hetzij door executoire, administratieve, juridische of wettelijke actie, tenzij de Stuurgroep voor de Multinationale United Nations Stand-by Forces High Readiness Brigade afstand heeft gedaan van deze immuniteit.
 
-#### Artikel 9. Voorrechten en immuniteiten van functionarissen van de kernbrigadestaf
+##### Artikel 9. Voorrechten en immuniteiten van functionarissen van de kernbrigadestaf
 
 1. De functionarissen van de kernbrigadestaf, met uitzondering van het lokaal in dienst genomen personeel en het door de Deense strijdkrachten toegewezen personeel of daaraan gerelateerde categorieën, genieten de volgende voorrechten en immuniteiten. De voorrechten en immuniteiten worden eveneens aan hun echtgenoten en de van hen afhankelijke gezinsleden toegekend, indien zij in de volgende bepalingen worden genoemd:
 
@@ -164,7 +189,7 @@ In het navolgende wordt verstaan onder:
 
 - c. De aan een bij de kernbrigadestaf werkzame of hieraan toegewezen functionaris verleende immuniteit wordt ingetrokken wanneer deze de rechtsgang zou belemmeren en kan worden ingetrokken zonder afbreuk te doen aan het belang van de kernbrigadestaf. De immuniteit kan worden ingetrokken door de Staat waartoe de functionaris behoort.
 
-#### Artikel 10. Samenwerking met de Deense autoriteiten en uitvoering van de Bepalingen
+##### Artikel 10. Samenwerking met de Deense autoriteiten en uitvoering van de Bepalingen
 
 1. De SHIRBRIG-commandant en de stafchef werken te allen tijde samen met de bevoegde autoriteiten ter bevordering van een goede rechtsbedeling, ter naleving van de politievoorschriften en ter voorkoming van misbruik met betrekking tot de in deze Bepalingen genoemde faciliteiten, voorrechten en immuniteiten.
 

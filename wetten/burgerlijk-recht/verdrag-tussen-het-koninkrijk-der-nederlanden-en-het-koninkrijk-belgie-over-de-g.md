@@ -1,13 +1,35 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de grensoverschrijdende uitwisseling van gegevens met het oog op het identificeren van personen die ervan verdacht worden inbreuken te hebben begaan in het kader van het gebruik van de weg"
 identifier: "BWBV0006170"
-categorie: "Burgerlijk recht"
-publicatiedatum: 2016-06-01
-laatste_update: 2016-06-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006170"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-06-01"
+last_updated: "2016-06-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006170"
+soort: "verdrag"
+stam_id: "10005070673"
+version_id: "10005406482"
+internal_id: "C10009074671"
+label_id: "10005053634"
+dtd_version: "2.0"
+original_entry_into_force: "2016-06-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006170/2016-06-01/0"
+intitule_bron: "Trb.2013-91"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-05-30"
+intitule_in_force: "2016-05-18"
+intitule_status: "goed"
+original_publication: "Trb.2013-91"
+original_published_date: "2013-05-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-91"
+entry_into_force_date: "2016-06-01"
+jci_1_3: "jci1.3:c:BWBV0006170&z=2016-06-01&g=2016-06-01"
+jci_1_0: "1.0:c:BWBV0006170&g=2016-06-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2016-06-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en het Koninkrijk België over de grensoverschrijdende uitwisseling van gegevens met het oog op het identificeren van personen die ervan verdacht worden inbreuken te hebben begaan in het kader van het gebruik van de weg
 
 Het Koninkrijk der Nederlanden
@@ -28,13 +50,13 @@ Overwegende dat het Verdrag vooruitlopend op omzetting van de [Richtlijn 2011/82
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Doel en toepassingsgebied
+##### Artikel 1. Doel en toepassingsgebied
 
 1. Dit Verdrag beoogt de grensoverschrijdende uitwisseling van de in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006170&artikel=3&z=2016-06-01&g=2016-06-01), benoemde gegevens te vergemakkelijken door middel van de geautomatiseerde bevraging van kentekengegevens wanneer met een voertuig dat is ingeschreven in een andere Verdragsluitende Partij een inbreuk wordt begaan in het kader van het gebruik van de weg.
 
 2. Dit Verdrag is van toepassing op gegevens betreffende inbreuken begaan in het kader van het gebruik van de weg die niet onder de Richtlijn vallen en op inbreuken begaan in het kader van het gebruik van de weg die onder de Richtlijn vallen, zolang deze niet is geïmplementeerd door de Verdragsluitende Partijen.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -52,7 +74,7 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 - g. „houder van het voertuig”: de persoon op wiens naam het voertuig is ingeschreven, als gedefinieerd in het recht van de Verdragsluitende Partij van inschrijving.
 
-#### Artikel 3. De uitwisseling van gegevens uit kentekenregisters
+##### Artikel 3. De uitwisseling van gegevens uit kentekenregisters
 
 1. Ten behoeve van het onderzoek naar een inbreuk begaan in het kader van het gebruik van de weg verleent een Verdragsluitende Partij het nationale contactpunt van een andere Verdragsluitende Partij toegang tot de volgende nationale gegevens uit kentekenregisters, met de bevoegdheid geautomatiseerde bevragingen uit te voeren:
 
@@ -68,7 +90,7 @@ Het bepaalde in artikel 26, tweede lid, en artikel 30, tweede, derde en vierde l
 
 4. De Verdragsluitende Partij van de overtreding gebruikt uit hoofde van dit Verdrag de verkregen gegevens om vast te stellen wie persoonlijk aansprakelijk is voor de bedoelde inbreuken in het kader van het gebruik van de weg.
 
-#### Artikel 4. Nationale contactpunten
+##### Artikel 4. Nationale contactpunten
 
 1. De Verdragsluitende Partijen wijzen elk één nationaal contactpunt aan dat bevoegd is voor de uitwisseling van gegevens uit kentekenregisters.
 
@@ -76,19 +98,19 @@ Het bepaalde in artikel 26, tweede lid, en artikel 30, tweede, derde en vierde l
 
 3. Uitwerkingen van in dit Verdrag voorgeschreven procedures worden, indien nodig, vastgelegd in uitvoeringsafspraken tussen de nationale contactpunten. Daaronder begrepen is de vaststelling van codes voor inbreuken begaan in het kader van het gebruik van de weg die niet onder de Richtlijn vallen.
 
-#### Artikel 5. Verhouding tot andere verdragen
+##### Artikel 5. Verhouding tot andere verdragen
 
 Dit Verdrag laat de in bestaande verdragen tussen de Verdragsluitende Partijen vastgelegde rechten of verplichtingen onverlet, voor zover deze niet strijdig zijn met de rechten en verplichtingen van dit Verdrag.
 
-#### Artikel 6. Geschillen
+##### Artikel 6. Geschillen
 
 Geschillen betreffende de interpretatie en de toepassing van dit Verdrag worden langs diplomatieke weg beslecht.
 
-#### Artikel 7. Overgangsrecht
+##### Artikel 7. Overgangsrecht
 
 Dit Verdrag is uitsluitend van toepassing op inbreuken begaan in het kader van het gebruik van de weg die na de inwerkingtreding van dit Verdrag zijn gepleegd.
 
-#### Artikel 8. Slotbepalingen
+##### Artikel 8. Slotbepalingen
 
 1. Dit Verdrag zal worden bekrachtigd en de akten van bekrachtiging zullen worden neergelegd bij de Secretaris-generaal van de Benelux Unie, die de Verdragsluitende Partijen van de ontvangst van de akten in kennis stelt.
 
@@ -98,7 +120,7 @@ Dit Verdrag is uitsluitend van toepassing op inbreuken begaan in het kader van h
 
 4. Dit Verdrag kan door elke Verdragsluitende Partij te allen tijde langs diplomatieke weg worden opgezegd door de neerlegging van een schriftelijke verklaring bij de Secretaris-generaal van de Benelux Unie. De opzegging wordt zes maanden na de neerlegging van deze schriftelijke verklaring van kracht.
 
-#### Artikel 9. Territoriale werkingssfeer
+##### Artikel 9. Territoriale werkingssfeer
 
 Het territoriale toepassingsgebied van dit Verdrag is:
 

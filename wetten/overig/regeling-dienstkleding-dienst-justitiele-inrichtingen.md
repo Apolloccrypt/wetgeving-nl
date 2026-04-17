@@ -1,24 +1,50 @@
 ---
-title: "Regeling dienstkleding Dienst Justitiële Inrichtingen"
+title: "Regeling van de Staatssecretaris van Veiligheid en Justitie van 26 maart 2015, houdende regels voor het verstrekken en dragen van dienstkleding van ambtenaren van de Dienst Justitiële Inrichtingen (Regeling dienstkleding Dienst Justitiële Inrichtingen)"
 identifier: "BWBR0036468"
-categorie: "Overig"
-publicatiedatum: 2016-03-31
-laatste_update: 2016-03-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036468"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2016-03-31"
+last_updated: "2016-03-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036468"
+soort: "ministeriele-regeling"
+stam_id: "13123133"
+version_id: "22358822"
+internal_id: "C32009251"
+label_id: "13091874"
+dtd_version: "2.0"
+original_entry_into_force: "2015-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036468/2016-03-31/0"
+intitule_bron: "Stcrt.2015-8794"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-03-26"
+intitule_published: "2015-03-27"
+intitule_in_force: "2015-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-8794"
+original_signed_date: "2015-03-26"
+original_published_date: "2015-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-8794"
+entry_into_force_date: "2015-04-01"
+jci_1_3: "jci1.3:c:BWBR0036468&z=2016-03-31&g=2016-03-31"
+jci_1_0: "1.0:c:BWBR0036468&g=2016-03-31"
+citeertitel_status: "officieel"
+short_title: "Regeling dienstkleding Dienst Justitiële Inrichtingen"
+signed_date: "2015-03-26"
+entry_into_force: "2015-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Veiligheid en Justitie van 26 maart 2015, houdende regels voor het verstrekken en dragen van dienstkleding van ambtenaren van de Dienst Justitiële Inrichtingen (Regeling dienstkleding Dienst Justitiële Inrichtingen)
 
 Gelet op [artikel 65 van het Algemeen Rijksambtenarenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0001950&artikel=65);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder dienstkleding: de ingevolge deze regeling door de Dienst Justitiële Inrichtingen aan de ambtenaar verstrekte, gedurende de voor deze geldende werktijden te dragen kleding en schoeisel.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het bevoegd gezag draagt zorg voor de verstrekking van:
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder dienstkleding: de ingevolge deze regeling 
 
 3. De verplichtingen, bedoeld in het eerste lid, onderdeel a, onder 2° en 3°, zijn niet van toepassing op ambtenaren die werkzaamheden verrichten in het Pieter Baan Centrum.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het bevoegd gezag draagt er zorg voor dat de aan de functie van de ambtenaar gebonden dienstkleding kosteloos ter beschikking wordt gesteld overeenkomstig de voor die functie in de bijlage aangegeven kledingstukken.
 
@@ -68,7 +94,7 @@ In deze regeling wordt verstaan onder dienstkleding: de ingevolge deze regeling 
 
 6. De ambtenaar is verantwoordelijk voor de aan deze verstrekte dienstkleding en voor de reiniging daarvan.
 
-#### Artikel 4
+##### Artikel 4
 
 De ambtenaar draagt de dienstkleding:
 
@@ -76,7 +102,7 @@ De ambtenaar draagt de dienstkleding:
 
 - b. indien het bevoegd gezag dit de ambtenaar opdraagt of hiervoor toestemming verleent. Op verzoek van het bevoegd gezag draagt de ambtenaar bij officiële of plechtige gelegenheden een ceremonieel tenue volgens de daarvoor geldende richtlijnen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het bevoegd gezag kan de ambtenaar toestemming verlenen af te wijken van het bepaalde in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0036468&artikel=4&z=2016-03-31&g=2016-03-31) indien:
 
@@ -88,7 +114,7 @@ De ambtenaar draagt de dienstkleding:
 
 2. Toepassing van het eerste lid laat het bepaalde bij of krachtens de [Arbeidsomstandighedenwet 1998](https://wetten.overheid.nl/jci1.3:c:BWBR0010346) onverlet.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De ambtenaar is verantwoordelijk voor het op de juiste wijze dragen van de dienstkleding, waarbij niet is toegestaan:
 
@@ -114,13 +140,13 @@ De ambtenaar draagt de dienstkleding:
 
 - b. deel te nemen aan demonstraties, protestmarsen en politieke bijeenkomsten of soortgelijke publieke bijeenkomsten.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het is de ambtenaar die dienstkleding draagt niet toegestaan daarbij kledingstukken en sieraden te dragen die mogelijk uitdrukking geven aan een religieuze overtuiging.
 
 2. Het eerste lid is van overeenkomstige toepassing op de ambtenaar, zijnde de directeur als bedoeld in [artikel 1, aanhef en onder d, van de Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709&artikel=1), het hoofd van een rijksinrichting als bedoeld in [artikel 1, aanhef en onder g, van de Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765&artikel=1) en de directeur van een rijksinrichting als bedoeld in [artikel 1, aanhef en onder i, van de Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756&artikel=1).
 
-#### Artikel 8
+##### Artikel 8
 
 De ambtenaar is verplicht de aan deze verstrekte dienstkleding te doen inleveren indien:
 
@@ -132,11 +158,11 @@ De ambtenaar is verplicht de aan deze verstrekte dienstkleding te doen inleveren
 
 - d. deze niet langer verplicht is de dienstkleding te dragen bij benoeming in een andere functie.
 
-#### Artikel 9
+##### Artikel 9
 
 Deze regeling treedt in werking met ingang van 1 april 2015.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze regeling wordt aangehaald als: Regeling dienstkleding Dienst Justitiële Inrichtingen.
 

@@ -1,20 +1,46 @@
 ---
-title: "Regeling bijzondere uitkering versterking openbaar bestuur BES"
+title: "Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 oktober 2016, nr. 2016-0000571578, houdende regels inzake bijzondere uitkeringen voor de versterking van het openbaar bestuur in Caribisch Nederland (Regeling bijzondere uitkering versterking openbaar bestuur BES)"
 identifier: "BWBR0038675"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-11-02
-laatste_update: 2016-11-02
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038675"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2016-11-02"
+last_updated: "2016-11-02"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038675"
+soort: "ministeriele-regeling-BES"
+stam_id: "13783393"
+version_id: "23636532"
+internal_id: "C34026991"
+label_id: "13749644"
+dtd_version: "2.0"
+original_entry_into_force: "2016-11-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038675/2016-11-02/0"
+intitule_bron: "Stcrt.2016-57618"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-10-20"
+intitule_published: "2016-11-01"
+intitule_in_force: "2016-11-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-57618"
+original_signed_date: "2016-10-20"
+original_published_date: "2016-11-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-57618"
+entry_into_force_date: "2016-11-02"
+jci_1_3: "jci1.3:c:BWBR0038675&z=2016-11-02&g=2016-11-02"
+jci_1_0: "1.0:c:BWBR0038675&g=2016-11-02"
+citeertitel_status: "officieel"
+short_title: "Regeling bijzondere uitkering versterking openbaar bestuur BES"
+signed_date: "2016-10-20"
+entry_into_force: "2016-11-02"
 ---
-
 # Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 20 oktober 2016, nr. 2016-0000571578, houdende regels inzake bijzondere uitkeringen voor de versterking van het openbaar bestuur in Caribisch Nederland (Regeling bijzondere uitkering versterking openbaar bestuur BES)
 
 Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](https://wetten.overheid.nl/jci1.3:c:BWBR0028151&artikel=92);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -22,7 +48,7 @@ In deze regeling wordt verstaan onder:
 
 - **minister:** Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 
-#### Artikel 2. Doel bijzondere uitkering openbaar bestuur
+##### Artikel 2. Doel bijzondere uitkering openbaar bestuur
 
 De minister kan aan de openbare lichamen bijzondere uitkeringen versterking openbaar bestuur verstrekken voor activiteiten die de verbetering van het openbaar bestuur in het Caribische deel van Nederland ten doel hebben onder meer door:
 
@@ -30,13 +56,13 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 - b. de verbetering van de dienstverlening van de openbare lichamen, zowel in de fysieke en sociale leefomgeving als in de verschillende wijken.
 
-#### Artikel 3. Totale beschikbare bedrag
+##### Artikel 3. Totale beschikbare bedrag
 
 1. Het totale beschikbare bedrag voor bijzondere uitkeringen versterking openbaar bestuur bedraagt voor 2016 € 620.000 en voor 2017 € 650.000.
 
 2. De bedragen, bedoeld in het eerste lid, worden verdeeld op volgorde van binnenkomst van de aanvragen.
 
-#### Artikel 4. Aanvraag
+##### Artikel 4. Aanvraag
 
 1. Een aanvraag voor een bijzondere uitkering versterking openbaar bestuur wordt ingediend door het bestuurscollege van het openbaar lichaam met gebruikmaking van een door de minister beschikbaar gesteld formulier.
 
@@ -52,7 +78,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 3. Een bestuurscollege kan meerdere aanvragen indienen.
 
-#### Artikel 5. Beslissing op de aanvraag
+##### Artikel 5. Beslissing op de aanvraag
 
 1. De minister besluit binnen drie maanden op een aanvraag, maar op een aanvraag die voor 1 november van enig jaar is ingediend, op uiterlijk 31 december van het desbetreffende jaar.
 
@@ -68,7 +94,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 - e. het in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=3&z=2016-11-02&g=2016-11-02), genoemde beschikbare bedrag voor het desbetreffende jaar niet wordt overschreden als gevolg van het verlenen van de uitkering.
 
-#### Artikel 6. Verplichtingen
+##### Artikel 6. Verplichtingen
 
 1. Indien een openbaar lichaam een bijzondere uitkering versterking openbaar bestuur ontvangt:
 
@@ -80,7 +106,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 3. Zodra aannemelijk is dat activiteiten waarvoor een bijzondere uitkering versterking openbaar bestuur is verstrekt niet, niet tijdig of niet geheel zullen worden uitgevoerd of dat niet, niet tijdig of niet geheel aan de aan de verstrekking van de uitkering verbonden voorschriften zal worden voldaan, doet het bestuurscollege daarvan onverwijld melding aan de minister.
 
-#### Artikel 7. Betaling
+##### Artikel 7. Betaling
 
 1. De minister verstrekt een voorschot op de verleende bijzondere uitkering versterking openbaar bestuur.
 
@@ -94,7 +120,7 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 - b. verleende voorschotten zijn besteed aan een ander doel dan waarvoor de bijzondere uitkering versterking openbaar bestuur is verstrekt.
 
-#### Artikel 8. Intrekken besluit tot verstrekken bijzondere uitkering openbaar bestuur
+##### Artikel 8. Intrekken besluit tot verstrekken bijzondere uitkering openbaar bestuur
 
 1. Zolang de bijzondere uitkering versterking openbaar bestuur nog niet overeenkomstig [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=9&z=2016-11-02&g=2016-11-02), is vastgesteld, kan de minister het besluit, bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=5&z=2016-11-02&g=2016-11-02), wijzigen of intrekken, indien:
 
@@ -110,17 +136,17 @@ De minister kan aan de openbare lichamen bijzondere uitkeringen versterking open
 
 2. De wijziging of intrekking werkt terug tot en met het tijdstip waarop een omstandigheid als bedoeld in het eerste lid, die aanleiding is om tot wijziging of intrekking over te gaan, zich heeft voorgedaan, tenzij bij het besluit tot wijziging of intrekking anders is bepaald.
 
-#### Artikel 9. Vaststelling en terugvordering
+##### Artikel 9. Vaststelling en terugvordering
 
 1. De minister stelt de bijzondere uitkering versterking openbaar bestuur vast uiterlijk vier maanden na indiening van de jaarrekening over het laatste uitvoeringsjaar.
 
 2. Voor zover de bijzondere uitkering versterking openbaar bestuur niet op de wijze, bedoeld in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0038675&artikel=6&z=2016-11-02&g=2016-11-02), is besteed kan de minister het reeds betaalde bedrag terugvorderen.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt gepubliceerd en werkt terug tot en met 1 september 2016.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling bijzondere uitkering versterking openbaar bestuur BES.
 

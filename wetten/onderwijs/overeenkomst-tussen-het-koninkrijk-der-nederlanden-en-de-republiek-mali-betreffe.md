@@ -1,13 +1,32 @@
 ---
 title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Mali betreffende samenwerking bij de opleiding van leraren voor het hoger landbouwonderwijs in Mali"
 identifier: "BWBV0003791"
-categorie: "Onderwijs"
-publicatiedatum: 1977-05-31
-laatste_update: 1977-05-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003791"
+country: "nl"
+rank: "verdrag"
+publication_date: "1977-05-31"
+last_updated: "1977-05-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003791"
+soort: "verdrag"
+stam_id: "10003712863"
+version_id: "10003774592"
+internal_id: "C10006981381"
+label_id: "10003698084"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003791/1977-05-31/0"
+intitule_bron: "Trb.1977-127"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1977-08-24"
+intitule_status: "nogniet"
+original_publication: "Trb.1977-127"
+original_published_date: "1977-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1977-127"
+jci_1_3: "jci1.3:c:BWBV0003791&z=1977-05-31&g=1977-05-31"
+jci_1_0: "1.0:c:BWBV0003791&g=1977-05-31"
+citeertitel_status: "redactioneel"
+entry_into_force: "1977-08-24"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Republiek Mali betreffende samenwerking bij de opleiding van leraren voor het hoger landbouwonderwijs in Mali
 
 De Regering van het Koninkrijk der Nederlanden en
@@ -22,7 +41,7 @@ Verlangend samen te werken in het kader van een project voor de opleiding van le
 
 Zijn overeengekomen als volgt:
 
-#### Artikel I. Doelstellingen en duur van het project
+##### Artikel I. Doelstellingen en duur van het project
 
 1. De Overeenkomstsluitende Partijen verbinden zich samen te werken in het kader van een project voor de opleiding van leraren voor het hoger landbouwonderwijs in Mali (hierna te noemen „het project”).
 
@@ -38,7 +57,7 @@ Zijn overeengekomen als volgt:
 
 4. De duur van het project is voorshands bepaald op drie jaar.
 
-#### Artikel II. Bijdragen van iedere Overeenkomstsluitende Partij
+##### Artikel II. Bijdragen van iedere Overeenkomstsluitende Partij
 
 1. De Nederlandse Regering verbindt zich ertoe:
 
@@ -60,7 +79,7 @@ De waarde van de Nederlandse bijdrage beloopt 2,5 miljoen gulden. Deze bijdrage 
 
 - -. in het algemeen alle maatregelen te nemen waardoor de uitvoering van het project wordt bevorderd.
 
-#### Artikel III. Maatregelen te nemen door de Regering van Mali ten behoeve van het Nederlandse personeel
+##### Artikel III. Maatregelen te nemen door de Regering van Mali ten behoeve van het Nederlandse personeel
 
 1. In het kader van dit project zal de Regering van Mali:
 
@@ -86,11 +105,11 @@ De waarde van de Nederlandse bijdrage beloopt 2,5 miljoen gulden. Deze bijdrage 
 
 In het kader van dit artikel zijn de Nederlandse personeelsleden en hun gezinsleden evenwel verplicht de Malinese instellingen alsmede de in Mali van kracht zijnde wetten en reglementen te eerbiedigen.
 
-#### Artikel IV. Maatregelen te nemen door de Regering van Mali ten behoeve van de Nederlandse uitrusting
+##### Artikel IV. Maatregelen te nemen door de Regering van Mali ten behoeve van de Nederlandse uitrusting
 
 De Regering van Mali stelt de door de Nederlandse Regering in het kader van het project verschafte uitrusting (met inbegrip van motorvoertuigen) en andere goederen vrij van alle in- en uitvoerrechten en andere fiscale heffingen.
 
-#### Artikel V. Rechtspositie van het Nederlandse personeel
+##### Artikel V. Rechtspositie van het Nederlandse personeel
 
 1. De Nederlandse autoriteiten wijzen een teamleider aan, die aan de Nederlandse autoriteiten verantwoording verschuldigd is voor de Nederlandse bijstand aan het project.
 
@@ -100,11 +119,11 @@ De Regering van Mali stelt de door de Nederlandse Regering in het kader van het 
 
 4. De Regering van Mali kan de Nederlandse Regering verzoeken één of meer leden van het Nederlandse personeel terug te roepen indien het gedrag bij de beroepsuitoefening of het persoonlijk gedrag van de betrokken persoon of personen een zodanige maatregel rechtvaardigt.
 
-#### Artikel VI. Nederlandse uitrusting
+##### Artikel VI. Nederlandse uitrusting
 
 De gehele uitrusting en alle materialen die door de Nederlandse Regering worden verschaft in het kader van het project, worden aan het einde van het project overgedragen aan de Regering van Mali.
 
-#### Artikel VII. Bevoegde en uitvoerende autoriteiten
+##### Artikel VII. Bevoegde en uitvoerende autoriteiten
 
 1. De Nederlandse autoriteit is de Minister voor Ontwikkelingssamenwerking.
 
@@ -116,7 +135,7 @@ De Malinese bevoegde autoriteit is de Minister van Onderwijs.
 
 De Malinese bevoegde autoriteit wijst de Algemene Directie van Hoger Onderwijs en Wetenschappelijk Onderzoek aan als de Malinese uitvoerende autoriteit.
 
-#### Artikel VIII. Werkplan
+##### Artikel VIII. Werkplan
 
 1. De bevoegde autoriteiten van beide Partijen stellen een Werkplan op waarin nauwkeurig zijn aangegeven de bijdrage van iedere Partij, de taken van de deskundigen, de omschrijving van hun werkzaamheden, de duur van hun uitzending en de omschrijving van de uitrusting en de materialen die ten behoeve van het project beschikbaar moeten worden gesteld. Het Werkplan omvat een uitvoerige begroting van de bijdrage van iedere Partij, een prioriteitenprogramma, een tijdschema en lijsten met de uitrusting en de materialen die door iedere Partij beschikbaar moeten worden gesteld.
 
@@ -124,21 +143,21 @@ De Malinese bevoegde autoriteit wijst de Algemene Directie van Hoger Onderwijs e
 
 3. Het Werkplan kan worden gewijzigd in overleg tussen de uitvoerende autoriteiten.
 
-#### Artikel IX. Verslaggeving
+##### Artikel IX. Verslaggeving
 
 De teamleider en zijn Malinese counterpart leggen ieder kwartaal aan beide uitvoerende autoriteiten een in het Frans gesteld verslag voor over de voortgang van de werkzaamheden in het kader van het project.
 
 Aan het eind van het project leggen zij aan alle betrokken Partijen een in het Frans gesteld eindverslag voor over alle aspecten van de werkzaamheden die zijn uitgevoerd in het kader van het project.
 
-#### Artikel X. Evaluatie
+##### Artikel X. Evaluatie
 
 De Overeenkomstsluitende Partijen maken ieder jaar een evaluaties van de resultaten van het project.
 
-#### Artikel XI. Geschillen
+##### Artikel XI. Geschillen
 
 Ieder geschil met betrekking tot de uitlegging of de uitvoering van deze Overeenkomst wordt langs diplomatieke weg geregeld.
 
-#### Artikel XII. Slotbepalingen
+##### Artikel XII. Slotbepalingen
 
 1. Deze Overeenkomst treedt, met terugwerkende kracht vanaf 1 januari 1977, in werking op de datum waarop beide Regeringen elkaar schriftelijk hebben medegedeeld dat aan de door de grondwetten van beide landen vereiste procedures is voldaan.
 

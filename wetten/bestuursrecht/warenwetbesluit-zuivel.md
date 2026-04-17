@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit Zuivel"
+title: "Besluit van 25 oktober 1994, houdende het Warenwetbesluit Zuivel"
 identifier: "BWBR0006982"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006982"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006982"
+soort: "AMvB"
+stam_id: "1451223"
+version_id: "12277532"
+internal_id: "C16515411"
+label_id: "1410274"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006982/2026-01-01/0"
+intitule_bron: "Stb.1994-813"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-10-25"
+intitule_published: "1994-11-29"
+intitule_in_force: "1994-11-29"
+intitule_status: "goed"
+original_publication: "Stb.2005-439"
+original_signed_date: "2005-08-24"
+original_published_date: "2005-09-13"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2005-439"
+entry_into_force_date: "2005-09-14"
+jci_1_3: "jci1.3:c:BWBR0006982&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0006982&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit Zuivel"
+signed_date: "2005-08-24"
+entry_into_force: "2005-09-14"
 ---
-
 # Besluit van 25 oktober 1994, houdende het Warenwetbesluit Zuivel
 
 Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 11 mei 1994, nr DGVgz/VVP/L 94916, gedaan in overeenstemming met Onze Minister van Economische Zaken en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij;
@@ -42,7 +68,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -86,7 +112,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - −. **zuivelproduct:** zuivelproduct als bedoeld in bijlage VII, deel III, van [verordening (EU) 1308/2013](32013R1308).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden te handelen in strijd met de eisen gesteld bij of krachtens artikel 78, tweede tot en met vijfde lid, en bijlage VII, deel III en IV, van [verordening (EU) 1308/2013](32013R1308) voor zover deze betrekking hebben op melk en zuivelproducten voor menselijke consumptie.
 
@@ -96,13 +122,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2. Rauwe melk, bestemd voor directe aflevering aan particulieren
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
 #### § 3. Uitvoering EU-richtlijnen
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister stelt nadere regels vast ter uitvoering van:
 
@@ -112,13 +138,13 @@ Onze Minister stelt nadere regels vast ter uitvoering van:
 
 #### § 3a. uitvoering EG-verordeningen
 
-#### Artikel 4a
+##### Artikel 4a
 
 Vervallen
 
 #### § 4. Stremsel bij de bereiding van kaas
 
-#### Artikel 5
+##### Artikel 5
 
 1. Bij de bereiding van kaas worden geen andere stremsels gebruikt dan:
 
@@ -132,11 +158,11 @@ Vervallen
 
 #### § 5. Etikettering van producten op basis van melk
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
-#### Artikel 7
+##### Artikel 7
 
 De aanduiding karnemelk mag uitsluitend worden gebezigd voor het uitsluitend uit melk door doelmatige microbiologische verzuring verkregen vloeibare zuivelproduct, met als kenmerkende eigenschappen:
 
@@ -150,7 +176,7 @@ De aanduiding karnemelk mag uitsluitend worden gebezigd voor het uitsluitend uit
 
 - e. een pH van ten hoogste 5,0.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aanduiding yoghurt mag uitsluitend worden gebezigd voor het uitsluitend uit melk door doelmatige verzuring met behulp van micro-organismen van yoghurt-cultuur verkregen vloeibare zuivelproduct, met als kenmerkende eigenschappen:
 
@@ -176,7 +202,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 3. Indien aan een op de voet van dit artikel aangeduide waar caseïnaat onderscheidenlijk wei-eiwitconcentraat is toegevoegd, wordt een vermelding gebezigd, die aangeeft welk percentage van deze stoffen is toegevoegd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De aanduiding kaas mag uitsluitend worden gebezigd voor een al dan niet gerijpt zacht, halfhard, hard of extra hard product, waarin de verhouding wei-eiwit/caseïne niet hoger is dan bij melk, en dat wordt verkregen door:
 
@@ -186,7 +212,7 @@ waaraan voor, tijdens of na de verzuring uitsluitend wei-eiwitconcentraat of cas
 
 2. Onverminderd de benamingen, genoemd in de [artikelen 2.28 tot en met 2.30 van de Regeling dierlijke producten](https://wetten.overheid.nl/jci1.3:c:BWBR0032462&artikel=2.28) en de kwaliteitsregelingen geregistreerd op grond van [verordening (EU) 2024/1143](32024R1143) mag voor kaas een van de benamingen, bedoeld in de bijlage worden gebezigd, voor zover het een waar betreft waarvan de aard en de samenstelling voldoet aan de desbetreffende kaasstandaard.
 
-#### Artikel 10
+##### Artikel 10
 
 Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01) aangeduide waar, aanwezig in een verpakking, wordt een van toepassing zijnde vermelding uit kolom A gebezigd inzake het vetgehalte van de droge stof van die waar:
 
@@ -208,11 +234,11 @@ Ten aanzien van een op de voet van [artikel 9](https://wetten.overheid.nl/jci1.3
 
 Aan de vermeldingen 50+, 48+ en 45+ mag worden toegevoegd: volvet(te).
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Gehele kaas als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01), die onverpakt is en aanwezig is in een winkel of in enige andere voor het publiek toegankelijke verkoopplaats, is voorzien van de benaming, bedoeld in [artikel 8, eerste lid, van het Warenwetbesluit informatie levensmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0033323&artikel=8) en van een vermelding van het vetgehalte van de droge stof.
 
@@ -226,11 +252,11 @@ Vervallen
 
 3. Indien de consistentie van een in dit artikel bedoelde kaas zodanig is dat het tweede lid geen toepassing kan vinden, dan worden de in het eerste lid bedoelde benaming en vermelding aangebracht op het voorwerp waarin of waarop de betrokken waar zich bevindt, of op een onmiddellijk boven bedoeld voorwerp geplaatst(e) bord of kaart.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Op de korst van kaas als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01) mogen slechts zijn aangebracht de bij ministeriële regeling aangewezen bedekkingsmiddelen onder de voorwaarden gesteld in die regeling.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aanduiding kwark of verse kaas mag uitsluitend worden gebezigd voor het product bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=5&artikel=9&z=2026-01-01&g=2026-01-01), dat zonder rijping wordt verkregen en waarvan het eiwitgehalte in de vetvrije droge stof ten minste 60% en het vochtgehalte ten hoogste 87% van de vetvrije waar bedraagt.
 
@@ -244,7 +270,7 @@ Op de korst van kaas als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.
 | halfvolle | ten minste 10% en minder dan 35% |
 | magere | minder dan 10%. |
 
-#### Artikel 14
+##### Artikel 14
 
 1. De aanduiding vla mag uitsluitend worden gebezigd voor het dikvloeibare samengestelde zuivelproduct met:
 
@@ -262,11 +288,11 @@ Op de korst van kaas als bedoeld in [artikel 9](https://wetten.overheid.nl/jci1.
 
 - c. een melkvetgehalte van ten minste 2,6%.
 
-#### Artikel 15
+##### Artikel 15
 
 De aanduiding chocolademelk mag uitsluitend worden gebezigd voor het uit melk en, voor wat betreft het aromatiserende deel, door het toevoegen van cacaobestanddelen verkregen samengestelde vloeibare zuivelproduct, met een totaal vetgehalte van ten minste 2,5%.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De aanduiding room mag uitsluitend worden gebezigd voor het uitsluitend uit melk door verhoging van het vetgehalte verkregen vloeibare of dikvloeibare zuivelproduct met een vetgehalte van ten minste 10%.
 
@@ -274,7 +300,7 @@ De aanduiding chocolademelk mag uitsluitend worden gebezigd voor het uit melk en
 
 #### § 6. De aanduidingen halfvol en mager bij vloeibare of dikvloeibare producten op basis van melk
 
-#### Artikel 17
+##### Artikel 17
 
 Van de aanduiding van een vloeibaar of dikvloeibaar product op basis van melk mag onderdeel uitmaken:
 
@@ -284,7 +310,7 @@ Van de aanduiding van een vloeibaar of dikvloeibaar product op basis van melk ma
 
 #### § 7. Slotbepalingen
 
-#### Artikel 18
+##### Artikel 18
 
 1. Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de bij dit besluit bedoelde waren al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, chromatografische en andere scheidingsmethoden, organoleptische bepalingsmethoden en detectiemethoden, alsmede de daartoe door een andere lid-staat van de Europese Unie aangewezen methoden.
 
@@ -296,7 +322,7 @@ Van de aanduiding van een vloeibaar of dikvloeibaar product op basis van melk ma
 
 5. Onze Minister kan nadere regels stellen met betrekking tot het eerste lid.
 
-#### Artikel 19
+##### Artikel 19
 
 Ingetrokken worden:
 
@@ -312,15 +338,15 @@ Ingetrokken worden:
 
 - f. het Warenwetbesluit Warmtebehandelde melk.
 
-#### Artikel 20
+##### Artikel 20
 
 Na de inwerkingtreding van het besluit van 4 november 2025 houdende wijziging van het Warenwetbesluit Vlees, gehakt en vleesproducten, het Warenwetbesluit Zuivel en het Warenwetbesluit bestuurlijke boeten in verband met wijzigingen in Europese regelgeving en enkele technische aanpassingen (Stb. 2025, 335), berusten de [Warenwetregeling gedehydrateerde melk 2003](https://wetten.overheid.nl/jci1.3:c:BWBR0014856) en de [Warenwetregeling caseïne en caseïnaten 2016](https://wetten.overheid.nl/jci1.3:c:BWBR0038717) mede op [artikel 4, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0006982&paragraaf=3&artikel=4&z=2026-01-01&g=2026-01-01), respectievelijk artikel 4, onderdeel b, van dit besluit.
 
-#### Artikel 21
+##### Artikel 21
 
 Dit besluit treedt in werking met ingang van 1 januari 1995.
 
-#### Artikel 22
+##### Artikel 22
 
 Dit besluit wordt aangehaald als: Warenwetbesluit Zuivel.
 

@@ -1,13 +1,37 @@
 ---
 title: "Besluit beheer sociale-huursector (BBSH). Toepassing van het toezicht"
 identifier: "BWBR0014528"
-categorie: "Sociaal recht"
-publicatiedatum: 2002-12-24
-laatste_update: 2002-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0014528"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-12-24"
+last_updated: "2002-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0014528"
+soort: "circulaire"
+stam_id: "6394903"
+version_id: "11057152"
+internal_id: "C14961001"
+label_id: "6383764"
+original_entry_into_force: "2002-12-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0014528/2002-12-24/0"
+intitule_bron: "Stcrt.2002-248"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-12-20"
+intitule_published: "2002-12-24"
+intitule_in_force: "2002-12-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-248"
+original_signed_date: "2002-12-20"
+original_published_date: "2002-12-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-248-p63-SC37898"
+entry_into_force_date: "2002-12-24"
+jci_1_3: "jci1.3:c:BWBR0014528&z=2002-12-24&g=2002-12-24"
+jci_1_0: "1.0:c:BWBR0014528&g=2002-12-24"
+citeertitel_status: "redactioneel"
+signed_date: "2002-12-20"
+entry_into_force: "2002-12-24"
 ---
-
 # Besluit beheer sociale-huursector (BBSH). Toepassing van het toezicht
 
 Geacht College/Bestuur,

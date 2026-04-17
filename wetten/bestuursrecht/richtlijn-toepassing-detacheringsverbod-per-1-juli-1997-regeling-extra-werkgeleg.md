@@ -1,13 +1,34 @@
 ---
 title: "Richtlijn toepassing detacheringsverbod per 1 juli 1997 Regeling extra werkgelegenehid langdurig werklozen"
 identifier: "BWBR0008486"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-06-30
-laatste_update: 1997-06-30
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008486"
+country: "nl"
+rank: "circulaire"
+publication_date: "1997-06-30"
+last_updated: "1997-06-30"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008486"
+soort: "circulaire"
+stam_id: "6417813"
+version_id: "11084882"
+internal_id: "C14997301"
+label_id: "6406654"
+original_entry_into_force: "1997-06-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008486/1997-06-30/0"
+intitule_bron: "Stcrt.1997-121"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1997-06-30"
+intitule_in_force: "1997-06-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1997-121"
+original_published_date: "1997-06-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1997-121-p12-SC9759"
+entry_into_force_date: "1997-06-30"
+jci_1_3: "jci1.3:c:BWBR0008486&z=1997-06-30&g=1997-06-30"
+jci_1_0: "1.0:c:BWBR0008486&g=1997-06-30"
+citeertitel_status: "redactioneel"
+entry_into_force: "1997-06-30"
 ---
-
 # Richtlijn toepassing detacheringsverbod per 1 juli 1997 Regeling extra werkgelegenehid langdurig werklozen
 
 ### Inleiding

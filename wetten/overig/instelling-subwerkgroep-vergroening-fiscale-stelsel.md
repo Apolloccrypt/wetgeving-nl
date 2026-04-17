@@ -1,13 +1,38 @@
 ---
-title: "Instelling subwerkgroep vergroening fiscale stelsel"
+title: "Instelling subwerkgroep vergroening van het fiscale stelsel van de Werkgroep fiscaal-technische herziening loon- en inkomstenbelasting"
 identifier: "BWBR0007297"
-categorie: "Overig"
-publicatiedatum: 1995-05-01
-laatste_update: 1995-05-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007297"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1995-05-01"
+last_updated: "1995-05-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007297"
+soort: "ministeriele-regeling"
+stam_id: "3960213"
+version_id: "5733402"
+internal_id: "C5936131"
+label_id: "3940314"
+dtd_version: "2.0"
+original_entry_into_force: "1995-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007297/1995-05-01/0"
+intitule_bron: "Stcrt.1995-62"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1995-03-24"
+intitule_published: "1995-03-28"
+intitule_in_force: "1995-03-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1995-62"
+original_signed_date: "1995-03-24"
+original_published_date: "1995-03-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-05-01"
+jci_1_3: "jci1.3:c:BWBR0007297&z=1995-05-01&g=1995-05-01"
+jci_1_0: "1.0:c:BWBR0007297&g=1995-05-01"
+citeertitel_status: "officieel"
+short_title: "Instelling subwerkgroep vergroening fiscale stelsel"
+signed_date: "1995-03-24"
+entry_into_force: "1995-05-01"
 ---
-
 # Instelling subwerkgroep vergroening van het fiscale stelsel van de Werkgroep fiscaal-technische herziening loon- en inkomstenbelasting
 
 Overwegende dat het wenselijk is een werkgroep vergroening van het fiscale stelsel als subwerkgroep van de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting bij afzonderlijk besluit in te stellen;
@@ -18,11 +43,11 @@ Besluit:
 
 #### § 1. Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een werkgroep vergroening van het fiscale stelsel als subwerkgroep van de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De subwerkgroep heeft als taak om te bezien welke mogelijkheden kunnen worden ingezet binnen het fiscale stelsel die het belang van de bescherming van het milieu dienen en een duurzame ontwikkeling van de economie bevorderen.
 
@@ -38,7 +63,7 @@ Er is een werkgroep vergroening van het fiscale stelsel als subwerkgroep van de 
 
 7. De subwerkgroep zal het reiskostenforfait, de autokostenfictie en in het algemeen de behandeling van de auto in de loon- en inkomstenbelasting bezien vanuit de in lid 1 genoemde invalshoek.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het doen van voorstellen neemt de subwerkgroep de volgende voorwaarden in acht:
 
@@ -48,7 +73,7 @@ Bij het doen van voorstellen neemt de subwerkgroep de volgende voorwaarden in ac
 
 #### § 2. Samenstelling en werkwijze
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot lid, tevens voorzitter van de subwerkgroep wordt benoemd: drs. ir. J. van der Vaart
 
@@ -94,29 +119,29 @@ Bij het doen van voorstellen neemt de subwerkgroep de volgende voorwaarden in ac
 
 - mr. Th. O. Vreugdenhil.
 
-#### Artikel 5
+##### Artikel 5
 
 Ter uitvoering van haar taak kan de subwerkgroep zich rechtstreeks tot derden wenden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hen hun mening nader uiteen te laten zetten.
 
-#### Artikel 6
+##### Artikel 6
 
 De subwerkgroep rapporteert aan de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting in de vorm van aan de Staatssecretaris van Financiën voor te leggen adviezen. De werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting rapporteert aan de Staatssecretaris haar bevindingen omtrent deze adviezen, onder inachtneming van de in dit besluit opgenomen bepalingen.
 
-#### Artikel 7
+##### Artikel 7
 
 De subwerkgroep brengt op verzoek van de Staatssecretaris van Financiën tussentijds verslag uit. In elk geval wordt gerapporteerd in tussenrapportages: voor de zomer 95; einde 1995; maart 96. Indien de subwerkgroep van mening is dat haar werkzaamheden nog niet zijn afgerond op het moment dat de werkgroep fiscaal-technische herziening van de loon- en inkomstenbelasting haar werkzaamheden volgens de huidige opdracht moet hebben afgerond (1 april 1996), kan de subwerkgroep dit aangeven.
 
 #### § 3. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De leden van de subwerkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfkosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit 's-Rijks kas.
 
-#### Artikel 9
+##### Artikel 9
 
 Een ieder die betrokken is bij de werkzaamheden van de subwerkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit wordt bekend gemaakt in de Staatscourant.
 

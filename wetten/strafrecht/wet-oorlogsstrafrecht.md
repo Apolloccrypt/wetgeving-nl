@@ -1,14 +1,40 @@
 ---
-title: "Wet oorlogsstrafrecht"
+title: "Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht"
 identifier: "BWBR0002099"
-categorie: "Strafrecht"
-publicatiedatum: 2013-10-01
-laatste_update: 2013-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002099"
+country: "nl"
+rank: "wet"
+publication_date: "2013-10-01"
+last_updated: "2013-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002099"
+soort: "wet"
+stam_id: "903843"
+version_id: "20435612"
+internal_id: "C28719831"
+label_id: "876904"
+dtd_version: "2.0"
+original_entry_into_force: "2012-12-13"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002099/2013-10-01/0"
+intitule_bron: "Stb.1952-408"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1952-07-10"
+intitule_status: "goed"
+original_publication: "Stb.2013-25"
+original_signed_date: "2012-12-13"
+original_published_date: "2013-01-24"
+original_effect: "structuurwijziging"
+original_dossier: "33429"
+original_url_id: "stb-2013-25"
+entry_into_force_date: "2012-12-13"
+entry_into_force_dossier: "33429"
+jci_1_3: "jci1.3:c:BWBR0002099&z=2013-10-01&g=2013-10-01"
+jci_1_0: "1.0:c:BWBR0002099&g=2013-10-01"
+citeertitel_status: "officieel"
+short_title: "Wet oorlogsstrafrecht"
+signed_date: "2012-12-13"
+entry_into_force: "2012-12-13"
 ---
-
-# Wet oorlogsstrafrecht
+# Wet van 10 Juli 1952, houdende vaststelling van de Wet Oorlogsstrafrecht alsmede van enige daarmede verband houdende wijzigingen in het Wetboek van Strafrecht, het Wetboek van Militair Strafrecht en de Invoeringswet Militair Straf- en Tuchtrecht
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +42,11 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is bepalingen vast te s
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WET OORLOGSSTRAFRECHT
 
-#### Artikel 1
+##### Artikel 1
 
 1. De bepalingen van deze wet zijn van toepassing op de misdrijven, in geval van oorlog begaan of eerst in geval van oorlog strafbaar, welke zijn omschreven in:
 
@@ -36,11 +62,11 @@ De navolgende bepalingen worden vastgesteld, die kunnen worden aangehaald als WE
 
 3. Onder oorlog wordt begrepen burgeroorlog.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor zover in deze wet niet anders is bepaald, vinden ten aanzien van de in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoelde misdrijven de bepalingen van het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) en die ter uitvoering daarvan alsmede, behoudens de uitzonderingen bij dat Wetboek vastgesteld, de bepalingen van het gemene strafrecht toepassing, met dien verstande, dat waar in het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) of in de bepalingen ter uitvoering daarvan gesproken wordt van de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), of van in [artikel 2 van de Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789&artikel=2) genoemde personen, daaronder worden begrepen de bij deze wet aangewezen gerechten onderscheidenlijk de personen vallende onder de rechtsmacht van deze gerechten.
 
-#### Artikel 3
+##### Artikel 3
 
 Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854) en het [Wetboek van Militair Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001869) bepaalde is de Nederlandse strafwet toepasselijk:
 
@@ -50,17 +76,17 @@ Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](https://wetten.
 
 - 3°. op de Nederlander, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld.
 
-#### Artikel 4
+##### Artikel 4
 
 De Nederlander, die vrijwillig in krijgsdienst treedt bij een buitenlandse mogendheid, wetende, dat deze met Nederland in oorlog is, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Hij die in geval van oorlog opzettelijk een ander blootstelt aan opsporing, vervolging, vrijheidsberoving of -beperking, enige straf of enige maatregel door of vanwege de vijand of diens helpers, wordt gestraft met gevangenisstraf van ten hoogste tien jaren of geldboete van de vijfde categorie.
 
 2. Levenslange gevangenisstraf, of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie wordt opgelegd, indien het feit zwaar lichamelijk letsel, de dood of de vermissing, waaruit redelijkerwijze de dood is af te leiden, ten gevolge heeft.
 
-#### Artikel 6
+##### Artikel 6
 
 Hij die een misdrijf begaat en daartoe gebruik maakt of dreigt te maken van macht, gelegenheid of middel, hem door de vijand geboden, wordt gestraft met:
 
@@ -68,31 +94,31 @@ Hij die een misdrijf begaat en daartoe gebruik maakt of dreigt te maken van mach
 
 - 2°. levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren, of geldboete van de vijfde categorie indien op dat misdrijf gevangenisstraf van meer dan tien jaren is gesteld;
 
-#### Artikel 7
+##### Artikel 7
 
 Hij die in geval van oorlog opzettelijk gebruik maakt of dreigt te maken van macht, gelegenheid of middel hem door de vijand geboden, om een ander in zijn vermogen wederrechtelijk te benadelen of om zich of een ander wederrechtelijk te bevoordelen, wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie.
 
-#### Artikel 8
+##### Artikel 8
 
 Vervallen
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 10a
+##### Artikel 10a
 
 Bij veroordeling tot een gevangenisstraf van tenminste een jaar wegens een der in de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2013-10-01&g=2013-10-01) bedoelde feiten kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=28) vermelde recht worden uitgesproken.
 
-#### Artikel 11
+##### Artikel 11
 
 De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=4&z=2013-10-01&g=2013-10-01) strafbaar gestelde feiten worden beschouwd als misdrijven.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Van de misdrijven, in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=1&z=2013-10-01&g=2013-10-01) bedoeld, door wie ook begaan, nemen, behoudens het bepaalde in het tweede lid, kennis de gerechten bedoeld in de [Wet militaire strafrechtspraak](https://wetten.overheid.nl/jci1.3:c:BWBR0004789), de Hoge Raad daaronder begrepen, op de wijze als in die wet bepaald.
 
@@ -104,13 +130,13 @@ De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 5. Eveneens behouden Wij Ons voor bij algemene maatregel van bestuur te bepalen, dat na afloop van feitelijke oorlogshandelingen, ook wanneer daaraan niet een vijandelijke bezetting van het Rijk in Europa of van een gedeelte daarvan is voorafgegaan, het tweede lid in verband met de omvang en de aard der te berechten feiten toepassing zal vinden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De bijzondere rechtbanken en het Bijzondere Hooggerechtshof worden door Ons ingesteld en samengesteld.
 
 2. Het rechtsgebied en de plaats van vestiging der bijzondere rechtbanken en de plaats van vestiging van het Bijzondere Hooggerechtshof worden door Ons bij algemene maatregel van bestuur bepaald.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Het Bijzondere Hooggerechtshof en de bijzondere rechtbanken zijn samengesteld uit een rechtsgeleerde president en zoveel rechtsgeleerde vice-presidenten en rechtsgeleerde en militaire leden als nodig zal blijken.
 
@@ -118,7 +144,7 @@ De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 3. Wij kunnen plaatsvervangende rechtsgeleerde en militaire leden benoemen.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Tot de in [artikel 14](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=14&z=2013-10-01&g=2013-10-01) genoemde betrekkingen met uitzondering van die van militair lid en plaatsvervangend militair lid zijn benoembaar:
 
@@ -134,23 +160,23 @@ De bij de [artikelen 4 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - 2°. in de bijzondere rechtbanken officieren, al dan niet in actieve dienst, die ten minste de rang van hoofdofficier hebben.
 
-#### Artikel 16
+##### Artikel 16
 
 De leden van de bijzondere colleges ontvangen een bezoldiging, die bij de bijzondere rechtbanken een derde gedeelte van de bezoldiging voor overeenkomstige bedieningen bij de arrondissements-rechtbanken, en bij het Bijzondere Hooggerechtshof een derde gedeelte van de bezoldiging voor overeenkomstige bedieningen bij de Hoge Raad der Nederlanden bedraagt.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Het Bijzondere Hooggerechtshof vonnist met vijf leden, waaronder tenminste een en ten hoogste twee militaire leden; indien er twee militaire leden zijn, zal zoveel mogelijk een hunner tot de zeemacht en een tot de landmacht behoren.
 
 2. De bijzondere rechtbanken vonnissen met drie leden, waaronder één militair lid.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Tegen de vonnissen der bijzondere rechtbanken staat geen hoger beroep open.
 
 2. Tegen deze vonnissen kan beroep in cassatie op de voet van [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=19&z=2013-10-01&g=2013-10-01) worden ingesteld bij het Bijzondere Hooggerechtshof.
 
-#### Artikel 19
+##### Artikel 19
 
 Onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=34&z=2013-10-01&g=2013-10-01) vernietigt het Bijzondere Hooggerechtshof de vonnissen der bijzondere rechtbanken:
 
@@ -160,11 +186,11 @@ Onverminderd het bepaalde in [artikel 34](https://wetten.overheid.nl/jci1.3:c:BW
 
 - 3°. wegens overschrijding van rechtsmacht.
 
-#### Artikel 20
+##### Artikel 20
 
 De bepalingen van de [wet op de rechterlijke organisatie](https://wetten.overheid.nl/jci1.3:c:BWBR0001830) en het beleid der justitie, met uitzondering van de [artikelen 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=8&z=2013-10-01&g=2013-10-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=15&z=2013-10-01&g=2013-10-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=17&z=2013-10-01&g=2013-10-01) en [18](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=18&z=2013-10-01&g=2013-10-01), en de ter uitvoering van die wet gegeven regelingen zijn met betrekking tot de bijzondere colleges van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat ten aanzien van de bijzondere rechtbanken de bepalingen met betrekking tot de arrondissements-rechtbanken en ten aanzien van het Bijzondere Hooggerechtshof de bepalingen betreffende de Hoge Raad van overeenkomstige toepassing zijn, behoudens dat ten aanzien van het Bijzondere Hooggerechtshof aanbevelingen - voor vacatures waarin na de instelling moet worden voorzien - geschieden op de wijze als voor de gerechtshoven voorgeschreven.
 
-#### Artikel 21
+##### Artikel 21
 
 Op de rechtspleging bij de bijzondere rechtbanken en bij het Bijzondere Hooggerechtshof zijn de bepalingen van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) van overeenkomstige toepassing, indien en voor zover van die bepalingen niet in deze wet wordt afgeweken, met dien verstande dat:
 
@@ -174,25 +200,25 @@ Op de rechtspleging bij de bijzondere rechtbanken en bij het Bijzondere Hooggere
 
 - 3°. hetgeen daarin met betrekking tot de rechtbank of het gerechtshof en de leden der rechterlijke macht bij een dezer gerechten is bepaald, te dezen buiten toepassing blijft.
 
-#### Artikel 22
+##### Artikel 22
 
 Onze Minister van Justitie kan bepalen, dat in geval van een misdrijf, waarop deze wet van toepassing is, een bevel tot inverzekeringstelling, als bedoeld in [artikel 57 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=57), gedurende een langere dan de in artikel 58, tweede lid, van dat Wetboek genoemde termijn van twee dagen van kracht zal zijn, met dien verstande dat de inverzekeringstelling niet langer dan een jaar mag duren.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Onze Minister van Justitie kan, indien zulks voor de goede gang van zaken nodig is, bepalen, dat bij een bijzondere rechtbank één of meer rechters belast worden met vereenvoudigde gerechtelijke afdoening van strafzaken overeenkomstig het bepaalde in deze afdeling.
 
 2. Deze worden op voordracht van de president voor de tijd van één jaar uit de rechtsgeleerde leden of plaatsvervangende leden van de bijzondere rechtbank door Onze Minister van Justitie aangewezen.
 
-#### Artikel 24
+##### Artikel 24
 
 Indien naar het aanvankelijk oordeel van het openbaar ministerie in een zaak als hoofdstraf gevangenisstraf van ten hoogste zes jaren, hechtenis of geldboete dient te worden opgelegd en de zaak naar het aanvankelijk oordeel van het openbaar ministerie voor vereenvoudigde gerechtelijke afdoening in aanmerking komt, stelt het de stukken, vergezeld van een schriftelijke vordering tot oplegging van een bepaalde straf, te dien einde in handen van de rechter.
 
-#### Artikel 25
+##### Artikel 25
 
 Indien de rechter oordeelt, dat de zaak niet voor vereenvoudigde gerechtelijke afdoening in aanmerking komt, geeft hij daarvan kennis aan het openbaar ministerie onder wederoverlegging der stukken.
 
-#### Artikel 26
+##### Artikel 26
 
 1. Indien de rechter op grond van de stukken en het verhoor van de verdachte de overtuiging heeft bekomen, dat deze een misdrijf heeft begaan, waarop de bepalingen van deze wet van toepassing zijn, en deswege strafbaar is, kan hij de verdachte straf opleggen. De rechter is niet bevoegd tot oplegging van andere hoofdstraffen dan gevangenisstraf van ten hoogste zes jaren, hechtenis en geldboete.
 
@@ -202,7 +228,7 @@ Indien de rechter oordeelt, dat de zaak niet voor vereenvoudigde gerechtelijke a
 
 4. De rechter geeft de beslissing, in dit artikel bedoeld, bij schriftelijke beschikking.
 
-#### Artikel 27
+##### Artikel 27
 
 1. De rechter geeft de beschikking niet alvorens de verdachte te hebben gehoord. Hij doet de verdachte, die in verzekerde bewaring is, voor zich verschijnen. Indien de verdachte in vrijheid is, beveelt hij diens dagvaarding; indien de verdachte niet op de dagvaarding verschijnt, doet hij hem andermaal dagvaarden; hij kan daarbij diens medebrenging bevelen of zodanig bevel later uitvaardigen.
 
@@ -212,29 +238,29 @@ Indien de rechter oordeelt, dat de zaak niet voor vereenvoudigde gerechtelijke a
 
 4. Het openbaar ministerie en de raadsman van de verdachte zijn bevoegd het verhoor bij te wonen. In dat geval worden zij in de gelegenheid gesteld het woord te voeren.
 
-#### Artikel 28
+##### Artikel 28
 
 1. De beschikking behelst de naam van de rechter, de dag waarop de beschikking is genomen, en voor zover mogelijk naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.
 
 2. De beschikking bevat voorts de beslissing op grond van [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=26&z=2013-10-01&g=2013-10-01) genomen. In geval van een beslissing als in het eerste lid van dat artikel bedoeld, vermeldt de beschikking de opgelegde straf en het strafbare feit volgens de wettelijke omschrijving ter zake waarvan de straf is opgelegd, met vermelding omstreeks welke tijd en waar ter plaatse het is begaan.
 
-#### Artikel 29
+##### Artikel 29
 
 1. De rechter doet de beschikking met de stukken onverwijld toekomen aan het openbaar ministerie.
 
 2. De beschikking wordt aan de verdachte in persoon betekend, tenzij zij is genomen en aan de verdachte in afschrift is uitgereikt aanstonds na het verhoor. In het laatste geval maakt de rechter van de uitreiking een acte op. Bij de uitreiking of betekening wordt de verdachte opmerkzaam gemaakt op de bevoegdheden, hem toegekend in de [artikelen 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2013-10-01&g=2013-10-01) en [31](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=31&z=2013-10-01&g=2013-10-01).
 
-#### Artikel 30
+##### Artikel 30
 
 1. De verdachte is bevoegd uiterlijk binnen drie weken na de dagtekening van de beschikking, welke hem bij gelegenheid van zijn verhoor is uitgereikt, of anders binnen drie weken na de datum, waarop de beschikking hem in persoon is betekend, een verklaring van bezwaar af te leggen. De artikelen 449-452 van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903) zijn van overeenkomstige toepassing.
 
 2. Gelijke bevoegdheid komt toe aan het openbaar ministerie binnen twee weken na dagtekening van de beschikking.
 
-#### Artikel 31
+##### Artikel 31
 
 Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid om een verklaring van bezwaar af te leggen. [Artikel 454 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=454) is van overeenkomstige toepassing, met dien verstande dat het openbaar ministerie en de verdachte ook aanstonds na de uitreiking van het afschrift van de beschikking bij gelegenheid van het verhoor afstand kunnen doen van de bevoegdheid een verklaring van bezwaar af te leggen; in dat geval wordt de acte door de rechter opgemaakt.
 
-#### Artikel 32
+##### Artikel 32
 
 1. Door een verklaring van bezwaar vervalt de beschikking.
 
@@ -242,7 +268,7 @@ Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid o
 
 3. Wanneer de termijn, in [artikel 30](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=30&z=2013-10-01&g=2013-10-01) genoemd, is verstreken zonder dat een verklaring van bezwaar is afgelegd, of zoveel eerder als zowel door het openbaar ministerie als door de verdachte afstand is gedaan van de bevoegdheid om een verklaring van bezwaar af te leggen, geldt de beschikking als een einduitspraak van de bijzondere rechtbank, waartegen geen gewoon rechtsmiddel openstaat.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De verdachte kan ter terechtzitting van het Bijzondere Hooggerechtshof omtrent zijn persoon en zijn persoonlijke omstandigheden worden gehoord.
 
@@ -252,41 +278,41 @@ Het openbaar ministerie en de verdachte kunnen afstand doen van de bevoegdheid o
 
 4. Indien het Bijzondere Hooggerechtshof een nader onderzoek naar de omstandigheden, waaronder het misdrijf is begaan, of naar de persoon of de persoonlijke omstandigheden van de verdachte noodzakelijk oordeelt, zijn de [artikelen 316](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=316) en [317 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=317) van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van de rechtbank, de officier van justitie en de rechter-commissaris is bepaald, ten deze geldt voor het Bijzondere Hooggerechtshof, de procureur-generaal bij dat hof en de rechter-commissaris bij de bijzondere rechtbank, die in eerste aanleg uitspraak heeft gedaan.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien een onderzoek als in [artikel 33, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=33&z=2013-10-01&g=2013-10-01), bedoeld, mede leidt tot het oordeel, dat de verdachte niet strafbaar is, kan het Bijzondere Hooggerechtshof de verdachte van rechtsvervolging ontslaan.
 
-#### Artikel 35
+##### Artikel 35
 
 Indien alleen door de verdachte beroep in cassatie is ingesteld, kan hij ter zake van hetgeen in eerste aanleg te zijnen aanzien bewezen is verklaard, slechts met eenparigheid van stemmen tot een zwaardere straf worden veroordeeld dan hem bij het vonnis van de bijzondere rechtbank is opgelegd.
 
-#### Artikel 36
+##### Artikel 36
 
 1. In afwijking in zoverre van het bepaalde in [artikel 471, eerste lid, van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=471) geschiedt zowel in het daar als ook in het in [artikel 472, eerste en tweede lid, van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=472) bedoelde geval, de verwijzing naar een bijzondere rechtbank.
 
 2. Hetgeen bij de [artikelen 473](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=473) en [476 van dat Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=476), alsmede bij de artikelen, waarnaar daarin wordt verwezen, omtrent het gerechtshof, deszelfs voorzitter en de advocaat-generaal is bepaald, is ten aanzien van de bijzondere rechtbank, derzelver voorzitter en de officier van justitie van overeenkomstige toepassing.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel Ia
+##### Artikel Ia
 
 De Wet oorlogsstrafrecht is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat voor de toepassing van de [artikelen 3, onderdelen 1° tot en met 3°](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=3&z=2013-10-01&g=2013-10-01), en [12, tweede en vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002099&artikel=12&z=2013-10-01&g=2013-10-01), van de Wet oorlogsstrafrecht in plaats van «het rijk in Europa» telkens wordt gelezen: Nederland.
 
 Lasten en bevelen, dat deze in het **Staatsblad** zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-#### Artikel 37
+##### Artikel 37
 
 1. In afwijking in zoverre van [artikel 482g van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=482g), geschiedt in het daar bedoelde geval, de verwijzing naar een bijzondere rechtbank.
 

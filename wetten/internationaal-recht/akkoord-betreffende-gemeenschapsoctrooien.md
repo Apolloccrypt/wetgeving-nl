@@ -1,13 +1,35 @@
 ---
 title: "Akkoord betreffende Gemeenschapsoctrooien"
 identifier: "BWBV0002414"
-categorie: "Internationaal recht"
-publicatiedatum: 1989-12-15
-laatste_update: 1989-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002414"
+country: "nl"
+rank: "verdrag"
+publication_date: "1989-12-15"
+last_updated: "1989-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002414"
+soort: "verdrag"
+stam_id: "10002872053"
+version_id: "10002875182"
+internal_id: "C10006985021"
+label_id: "10002862444"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002414/1989-12-15/0"
+intitule_bron: "Trb.1990-121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-08-20"
+intitule_published: "1990-08-24"
+intitule_status: "nogniet"
+original_publication: "Trb.1990-121"
+original_signed_date: "1992-08-20"
+original_published_date: "1990-08-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1990-121"
+jci_1_3: "jci1.3:c:BWBV0002414&z=1989-12-15&g=1989-12-15"
+jci_1_0: "1.0:c:BWBV0002414&g=1989-12-15"
+citeertitel_status: "officieel"
+signed_date: "1992-08-20"
+entry_into_force: "1990-08-24"
 ---
-
 # Akkoord betreffende Gemeenschapsoctrooien
 
 Preambule
@@ -42,7 +64,7 @@ Overtuigd derhalve dat het sluiten van dit Akkoord noodzakelijk is om de uitvoer
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Inhoud van het Akkoord
+##### Artikel 1. Inhoud van het Akkoord
 
 1. Het Verdrag betreffende het Europese octrooi voor de gemeenschappelijke markt, ondertekend te Luxemburg op 15 december 1975, hierna genoemd „Gemeenschapsoctrooiverdrag", zoals gewijzigd bij het onderhavige Akkoord, wordt als bijlage aan dit Akkoord gehecht.
 
@@ -58,7 +80,7 @@ Zijn het volgende overeengekomen:
 
 4. Wanneer dit Akkoord in werking treedt, komt het in de plaats van het Gemeenschapsoctrooiverdrag, zoals dat op 15 december 1975 te Luxemburg is ondertekend.
 
-#### Artikel 2. Verhouding tot de rechtsorde van de Gemeenschap
+##### Artikel 2. Verhouding tot de rechtsorde van de Gemeenschap
 
 1. Geen bepaling van het onderhavige Akkoord kan worden ingeroepen om toepassing van het Verdrag tot oprichting van de Europese Economische Gemeenschap te beletten.
 
@@ -66,7 +88,7 @@ Zijn het volgende overeengekomen:
 
 3. Wanneer een Lid-Staat of de Commissie van de Europese Gemeenschappen van mening is dat een beslissing van het Gemeenschappelijk Hof van Beroep die een daar aanhangige procedure afsluit, niet overeenstemt met het in de vorige leden neergelegde beginsel, kan die Lid-Staat of de Commissie het Hof van Justitie van de Europese Gemeenschappen om een beslissing verzoeken. De beslissing van het Hof van Justitie naar aanleiding van een zodanig verzoek tast de beslissing van het Gemeenschappelijk Hof van Beroep die tot dit verzoek heeft geleid, niet aan. De griffier van het Hof van Justitie stelt de Lid-Staten, de Raad en indien een Lid-Staat het verzoek heeft gedaan, de Commissie van de Europese Gemeenschappen van het verzoek in kennis; zij hebben dan het recht binnen twee maanden na de kennisgeving bij het Hof memorin of schriftelijke opmerkingen in te dienen. Voor de in dit lid bedoelde procedure worden geen kosten of uitgaven vereist of terugbetaald.
 
-#### Artikel 3. Uitlegging van bepalingen betreffende de bevoegdheid
+##### Artikel 3. Uitlegging van bepalingen betreffende de bevoegdheid
 
 1. Het Hof van Justitie van de Europese Gemeenschappen is bevoegd een prejudicile beslissing te geven over de uitlegging van de bepalingen betreffende de bevoegdheid die van toepassing zijn op bij de nationale rechterlijke instanties ingestelde rechtsvorderingen inzake Gemeenschapsoctrooien, en die zijn opgenomen in Deel VI, Hoofdstuk I, van het Gemeenschapsoctrooiverdrag en in het Geschillenprotocol.
 
@@ -104,23 +126,23 @@ Zijn het volgende overeengekomen:
 
 4. Indien een vraag te dien aanzien voor een in het tweede lid, sub b), vermelde rechterlijke instantie wordt opgeworpen, kan deze instantie het Hof van Justitie onder de in het eerste lid vastgestelde voorwaarden, verzoeken een uitspraak te doen.
 
-#### Artikel 4. Reglement voor de procesvoering van het Hof van Justitie
+##### Artikel 4. Reglement voor de procesvoering van het Hof van Justitie
 
 1. Het Protocol betreffende het Statuut van het Hof van Justitie van de Europese Economische Gemeenschap en het reglement voor de procesvoering van het Hof van Justitie zijn van toepassing op de in de artikelen 2 en 3 genoemde procedures.
 
 2. Het reglement voor de procesvoering wordt indien nodig, gewijzigd en aangevuld overeenkomstig artikel 188 van het Verdrag tot oprichting van de Europese Economische Gemeenschap.
 
-#### Artikel 5. Bevoegdheid van het Gemeenschappelijk Hof van Beroep
+##### Artikel 5. Bevoegdheid van het Gemeenschappelijk Hof van Beroep
 
 Behoudens de artikelen 2 en 3 ziet het Gemeenschappelijk Hof van Beroep toe op de eenheid in de uitlegging en toepassing van dit Akkoord en van de ter uitvoering daarvan vastgestelde bepalingen voor zover deze geen nationale bepalingen zijn.
 
-#### Artikel 6. Ondertekening - Bekrachtiging
+##### Artikel 6. Ondertekening - Bekrachtiging
 
 1. Dit Akkoord is tot en met 21 december 1989 opengesteld voor ondertekening door de Staten die partij zijn bij het Verdrag tot oprichting van de Europese Economische Gemeenschap.
 
 2. Dit Akkoord dient door de twaalf ondertekenende Staten te worden bekrachtigd. De akten van bekrachtiging worden nedergelegd bij de Secretaris-Generaal van de Raad van de Europese Gemeenschappen.
 
-#### Artikel 7. Toetreding
+##### Artikel 7. Toetreding
 
 1. Staten die lid worden van de Europese Economische Gemeenschap, kunnen tot dit Akkoord toetreden.
 
@@ -130,31 +152,31 @@ Behoudens de artikelen 2 en 3 ziet het Gemeenschappelijk Hof van Beroep toe op d
 
 4. Tussen de Verdragsluitende Staten en de toetredende Staat kan een bijzondere overeenkomst worden gesloten ter vaststelling van bijzondere toepassingsregels voor dit Akkoord, die door de toetreding van deze Staat noodzakelijk zijn geworden.
 
-#### Artikel 8. Deelneming door derde Staten
+##### Artikel 8. Deelneming door derde Staten
 
 De Raad van de Europese Gemeenschappen kan met eenparigheid van stemmen elke Staat die partij is bij het Europees Octrooiverdrag en met de Europese Economische Gemeenschap een douane-unie of een vrijhandelszone vormt, uitnodigen onderhandelingen aan te knopen over deelneming aan het onderhavige Akkoord op basis van een bijzondere overeenkomst tussen de Verdragsluitende Staten van het onderhavige Akkoord en de bedoelde derde Staat; in deze overeenkomst worden de voorwaarden voor en de wijze van toepassing van het onderhavige Akkoord voor deze Staat vastgesteld.
 
-#### Artikel 9. Toepassing op de zee en de onderzeese gebieden
+##### Artikel 9. Toepassing op de zee en de onderzeese gebieden
 
 Dit Akkoord is van toepassing op de zee en de onderzeese gebieden die grenzen aan een grondgebied waarop het Akkoord van toepassing is en waarover een van de Verdragsluitende Staten soevereine rechten of rechtsmacht naar internationaal recht bezit.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit Akkoord kan pas in werking treden wanneer het bekrachtigd is door de twaalf ondertekenende Staten. Het treedt in werking op de eerste dag van de derde maand die volgt op het nederleggen van de akte van bekrachtiging door de Staat die als laatste deze handeling verricht. Indien het Europees Octrooiverdrag evenwel op een latere datum in werking treedt voor Staten die dit Akkoord hebben ondertekend, treedt het Akkoord op de laatste van deze data in werking.
 
-#### Artikel 11. Waarnemers
+##### Artikel 11. Waarnemers
 
 Zolang dit Akkoord ten aanzien van een Lid-Staat van de Europese Economische Gemeenschap die dit Akkoord niet heeft ondertekend, niet in werking is getreden, kan die Staat als waarnemer deelnemen aan vergaderingen van de Beperkte Commissie van de Raad van Bestuur van de Europese Octrooiorganisatie, hierna genoemd „Beperkte Commissie" en aan die van de Administratieve Commissie van het Gemeenschappelijk Hof van Beroep, hierna genoemd „Administratieve Commissie" en kan hij in elk van deze organen voor dit doel een vertegenwoordiger en een plaatsvervangend vertegenwoordiger benoemen.
 
-#### Artikel 12. Tijdsduur
+##### Artikel 12. Tijdsduur
 
 Dit Akkoord wordt voor onbeperkte tijd gesloten.
 
-#### Artikel 13. Herziening
+##### Artikel 13. Herziening
 
 Indien een meerderheid van de Lid-Staten van de Europese Economische Gemeenschap herziening van dit Akkoord verzoekt, roept de Voorzitter van de Raad van de Europese Gemeenschappen een herzieningsconferentie bijeen. Deze Conferentie wordt voorbereid door de Beperkte Commissie of door de Administratieve Commissie, die elk handelt binnen de grenzen van haar bevoegdheid.
 
-#### Artikel 14. Geschillen lussen Verdragsluitende Staten
+##### Artikel 14. Geschillen lussen Verdragsluitende Staten
 
 1. Een geschil tussen Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Akkoord, dat niet door onderhandelingen wordt bijgelegd, wordt op verzoek van een van de betrokken Staten naar gelang van het geval voorgelegd aan de Beperkte Commissie dan wel aan de Administratieve Commissie. De instantie waaraan het geschil wordt voorgelegd, zal trachten deze Staten tot overeenstemming te brengen.
 
@@ -162,15 +184,15 @@ Indien een meerderheid van de Lid-Staten van de Europese Economische Gemeenschap
 
 3. Indien het Hof van Justitie beslist dat een Verdragsluitende Staat een krachtens dit Akkoord op deze Staat rustende verplichting niet is nagekomen, is deze Staat gehouden de maatregelen te nemen, die nodig zijn ter uitvoering van de beslissing van het Hof van Justitie.
 
-#### Artikel 15. Begripsomschrijving
+##### Artikel 15. Begripsomschrijving
 
 Voor de toepassing van dit Akkoord betekent „Verdragsluitende Staat" een Staat waarvoor het Akkoord in werking is getreden.
 
-#### Artikel 16. Oorspronkelijk exemplaar van het Akkoord
+##### Artikel 16. Oorspronkelijk exemplaar van het Akkoord
 
 Dit Akkoord, opgesteld in één exemplaar in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Ierse, de Italiaanse, de Nederlandse, de Portugese en de Spaanse taal, zijnde de tien teksten gelijkelijk authentiek, zal worden nedergelegd in het archief van het Secretariaat-Generaal van de Raad van de Europese Gemeenschappen. De Secretaris-Generaal zal de Regering van elke Lid-Staat van de Europese Economische Gemeenschap een voor eensluidend gewaarmerkt afschrift hiervan doen toekomen.
 
-#### Artikel 17. Kennisgevingen
+##### Artikel 17. Kennisgevingen
 
 De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Lid-Staten van de Europese Economische Gemeenschap in kennis van:
 
@@ -186,13 +208,13 @@ De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Lid-S
 
 ### HOOFDSTUK I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Gemeenschappelijk octrooirecht
+##### Artikel 1. Gemeenschappelijk octrooirecht
 
 1. Bij dit Verdrag wordt een voor de Verdragsluitende Staten gemeenschappelijk recht op het gebied van octrooien in het leven geroepen.
 
 2. Dit gemeenschappelijk recht is van toepassing op de Europese octrooien die voor de Verdragsluitende Staten zijn verleend krachtens het Verdrag betreffende de verlening van Europese octrooien, hierna genoemd Europees Octrooiverdrag, en op de Europese octrooiaanvragen waarin deze Staten zijn aangewezen.
 
-#### Artikel 2. Gemeenschapsoctrooi
+##### Artikel 2. Gemeenschapsoctrooi
 
 1. De voor de Verdragsluitende Staten verleende Europese octrooien worden Gemeenschapsoctrooien genoemd.
 
@@ -200,11 +222,11 @@ De Secretaris-Generaal van de Raad van de Europese Gemeenschappen stelt de Lid-S
 
 3. Het Gemeenschapsoctrooi is zelfstandig. Het is slechts onderworpen aan de bepalingen van dit Verdrag en aan die bepalingen van het Europees Octrooiverdrag, welke dwingend van toepassing zijn op elk Europees octrooi en derhalve als bepalingen van het onderhavige Verdrag worden beschouwd.
 
-#### Artikel 3. Gezamenlijke aanwijzing
+##### Artikel 3. Gezamenlijke aanwijzing
 
 De aanwijzing, overeenkomstig artikel 79 van het Europees Octrooiverdrag, van de Staten die partij zijn bij het onderhavige Verdrag, kan slechts gezamenlijk geschieden. De aanwijzing van een of meer van deze Staten geldt als aanwijzing van al deze Staten.
 
-#### Artikel 4. Instelling van bijzondere organen
+##### Artikel 4. Instelling van bijzondere organen
 
 De volgende voor de Verdragsluitende Staten gemeenschappelijke organen passen de in dit Verdrag voorgeschreven procedures toe:
 
@@ -212,13 +234,13 @@ De volgende voor de Verdragsluitende Staten gemeenschappelijke organen passen de
 
 - b. het Gemeenschappelijk Hof van Beroep dat is ingesteld bij het Protocol betreffende de beslechting van geschillen inzake inbreuken op en de geldigheid van Gemeenschapsoctrooien, hierna genoemd Geschillenprotocol.
 
-#### Artikel 5. Nationale octrooien
+##### Artikel 5. Nationale octrooien
 
 Dit Verdrag laat onverlet het recht van de Verdragsluitende Staten, nationale octrooien te verlenen.
 
 ### HOOFDSTUK II. BIJZONDERE ORGANEN VAN HET EUROPEES OCTROOIBUREAU
 
-#### Artikel 6. Bijzondere organen
+##### Artikel 6. Bijzondere organen
 
 De bijzondere organen zijn de volgende:
 
@@ -226,7 +248,7 @@ De bijzondere organen zijn de volgende:
 
 - b. een of meer nietigheidsafdelingen.
 
-#### Artikel 7. Afdeling voor de administratie van octrooien
+##### Artikel 7. Afdeling voor de administratie van octrooien
 
 1. De afdeling voor de administratie van octrooien is bevoegd tot alle handelingen van het Europees Octrooibureau, die een Gemeenschapsoctrooi betreffen, voor zover daartoe niet andere organen van dit Bureau bevoegd zijn. Zij is met name bevoegd tot het nemen van beslissingen inzake inschrijvingen en doorhalingen in het Register van Gemeenschapsoctrooien.
 
@@ -234,13 +256,13 @@ De bijzondere organen zijn de volgende:
 
 3. De leden van de afdeling voor de administratie van octrooien mogen geen deel uitmaken van de bij het Europees Octrooiverdrag ingestelde kamers van beroep of de Grote Kamer van beroep.
 
-#### Artikel 8. Nietigheidsafdelingen
+##### Artikel 8. Nietigheidsafdelingen
 
 1. De nietigheidsafdelingen zijn bevoegd de verzoeken te behandelen tot beperking en tot nietigverklaring van Gemeenschapsoctrooien en tot vaststelling van de vergoeding bedoeld in artikel 43, vijfde lid.
 
 2. Een nietigheidsafdeling bestaat uit een rechtsgeleerd lid, dat als voorzitter optreedt, en twee technische leden. De nietigheidsafdeling kan de voorbereiding van de beslissing op een verzoek opdragen aan een van haar leden. De mondelinge behandeling vindt voor de nietigheidsafdeling zelf plaats.
 
-#### Artikel 9. Verschoning en wraking
+##### Artikel 9. Verschoning en wraking
 
 1. De leden van de nietigheidsafdelingen mogen niet aan de behandeling van een zaak deelnemen, indien zij bij de zaak een persoonlijk belang hebben, indien zij daarin voordien in de hoedanigheid van vertegenwoordiger van een van de partijen zijn opgetreden, of indien zij in de verleningsprocedure of de oppositieprocedure hebben deelgenomen aan de eindbeslissing over deze zaak.
 
@@ -250,7 +272,7 @@ De bijzondere organen zijn de volgende:
 
 4. In de gevallen bedoeld in het tweede en derde lid beslissen de nietigheidsafdelingen zonder dat het desbetreffende lid daaraan deelneemt. Voor het nemen van deze beslissing wordt dit lid in de afdeling vervangen door zijn plaatsvervanger.
 
-#### Artikel 10. Talen van procedures en publikaties
+##### Artikel 10. Talen van procedures en publikaties
 
 1. De officiële talen van het Europees Octrooibureau zijn ook de officiële talen van de bijzondere organen.
 
@@ -272,19 +294,19 @@ De bijzondere organen zijn de volgende:
 
 ### HOOFDSTUK III. BEPERKTE COMMISSIE VAN DE RAAD VAN BESTUUR
 
-#### Artikel 11. Samenstelling
+##### Artikel 11. Samenstelling
 
 1. De Beperkte Commissie van de Raad van Bestuur bestaat uit vertegenwoordigers van de Verdragsluitende Staten en van de Commissie van de Europese Gemeenschappen, alsmede uit hun plaatsvervangers. Elke Verdragsluitende Staat en de Commissie van de Europese Gemeenschappen hebben het recht in de Beperkte Commissie een vertegenwoordiger en een plaatsvervanger te benoemen. De Verdragsluitende Staten worden in de Raad van Bestuur en in de Beperkte Commissie door dezelfde leden vertegenwoordigd.
 
 2. De leden van de Beperkte Commissie kunnen zich op de door het Reglement van Orde bepaalde wijze doen bijstaan door adviseurs of deskundigen.
 
-#### Artikel 12. Voorzitterschap
+##### Artikel 12. Voorzitterschap
 
 1. De Beperkte Commissie van de Raad van Bestuur kiest uit de vertegenwoordigers van de Verdragsluitende Staten en hun plaatsvervangers een Voorzitter en een Ondervoorzitter. De Ondervoorzitter vervangt ambtshalve de Voorzitter indien deze is verhinderd.
 
 2. De Voorzitter en de Ondervoorzitter hebben zitting voor een periode van drie jaar. Zij zijn herkiesbaar.
 
-#### Artikel 13. Dagelijks Bestuur
+##### Artikel 13. Dagelijks Bestuur
 
 1. De Beperkte Commissie van de Raad van Bestuur kan een Dagelijks Bestuur instellen, bestaande uit vijf van haar leden.
 
@@ -294,7 +316,7 @@ De bijzondere organen zijn de volgende:
 
 4. Het Dagelijks Bestuur voert de taken uit, waarmee het door de Beperkte Commissie overeenkomstig het Reglement van Orde wordt belast.
 
-#### Artikel 14. Vergaderingen
+##### Artikel 14. Vergaderingen
 
 1. De Beperkte Commissie van de Raad van Bestuur wordt door haar Voorzitter in vergadering bijeengeroepen.
 
@@ -306,13 +328,13 @@ De bijzondere organen zijn de volgende:
 
 5. Elk onderwerp waarvan een Verdragsluitende Staat met inachtneming van het Reglement van Orde plaatsing op de agenda vraagt, wordt op de voorlopige agenda geplaatst.
 
-#### Artikel 15. Talen van de Beperkte Commissie
+##### Artikel 15. Talen van de Beperkte Commissie
 
 1. De beraadslagingen van de Beperkte Commissie van de Raad van Bestuur worden gehouden in de Duitse, de Engelse en de Franse taal.
 
 2. De stukken die aan de Beperkte Commissie worden voorgelegd en de notulen van haar beraadslagingen worden in de in het eerste lid genoemde drie talen gesteld.
 
-#### Artikel 16. Bevoegdheden van de Beperkte Commissie in bepaalde gevallen
+##### Artikel 16. Bevoegdheden van de Beperkte Commissie in bepaalde gevallen
 
 1. De Beperkte Commissie van de Raad van Bestuur is bevoegd de volgende bepalingen van dit Verdrag te wijzigen:
 
@@ -328,13 +350,13 @@ De bijzondere organen zijn de volgende:
 
 - c. haar Reglement van Orde.
 
-#### Artikel 17. Stemrecht
+##### Artikel 17. Stemrecht
 
 1. Alleen de Verdragsluitende Staten hebben stemrecht in de Beperkte Commissie van de Raad van Bestuur.
 
 2. Elke Verdragsluitende Staat beschikt over één stem, onverminderd de toepassing van het bepaalde in artikel 19.
 
-#### Artikel 18. Wijze van stemmen
+##### Artikel 18. Wijze van stemmen
 
 1. Onverminderd het tweede lid neemt de Beperkte Commissie van de Raad van Bestuur haar beslissingen met gewone meerderheid van de stemmen uitgebracht voor de vertegenwoordigde Verdragsluitende Staten.
 
@@ -342,13 +364,13 @@ De bijzondere organen zijn de volgende:
 
 3. Een onthouding geldt niet als een stem.
 
-#### Artikel 19. Weging van de stemmen
+##### Artikel 19. Weging van de stemmen
 
 Voor de aanvaarding of wijziging van het Reglement betreffende de taksen, alsmede voor de in artikel 21, sub a), bedoelde goedkeuring indien de financiële lasten van de Verdragsluitende Staten daardoor toenemen, vindt de stemming plaats overeenkomstig artikel 36 van het Europees Octrooiverdrag. Onder „Verdragsluitende Staten” in dat artikel worden dan de Staten verstaan, die partij zijn bij het onderhavige Verdrag.
 
 ### HOOFDSTUK IV. FINANCIËLE BEPALINGEN
 
-#### Artikel 20. Financiële verplichtingen en inkomsten
+##### Artikel 20. Financiële verplichtingen en inkomsten
 
 1. Het bedrag dat de Staten die partij zijn bij dit Verdrag verschuldigd zijn krachtens artikel 146 van het Europees Octrooiverdrag, wordt betaald uit de financiële bijdragen die voor elke Staat worden vastgesteld overeenkomstig de in het derde lid bepaalde verdeelsleutel.
 
@@ -380,7 +402,7 @@ Voor de aanvaarding of wijziging van het Reglement betreffende de taksen, alsmed
 
 6. Vijf jaar na de inwerkingtreding van het Akkoord betreffende Gemeenschapsoctrooien zal een aanvang worden gemaakt met de werkzaamheden die nodig zijn om te onderzoeken onder welke voorwaarden en op welk tijdstip de financieringsregeling volgens het eerste tot en met het vijfde lid kan worden vervangen door een andere regeling die met inachtneming van de ontwikkeling binnen de Europese Gemeenschappen op Gemeenschapsfinanciering berust. Deze regeling kan betrekking hebben op de bedragen welke door de Staten die partij zijn bij dit Verdrag verschuldigd zijn krachtens het Europees Octrooiverdrag, alsmede op de bedragen die deze Staten toekomen uit hoofde van het laatstgenoemde Verdrag. Na afloop van dit onderzoek kunnen dit artikel en eventueel artikel 19, bij besluit van de Raad van de Europese Gemeenschappen op voorstel van de Commissie met eenparigheid van stemmen worden gewijzigd.
 
-#### Artikel 21. Bevoegdheden van de Beperkte Commissie van de Raad van Bestuur op begrotingsgebied
+##### Artikel 21. Bevoegdheden van de Beperkte Commissie van de Raad van Bestuur op begrotingsgebied
 
 De Beperkte Commissie van de Raad van Bestuur heeft tot taak:
 
@@ -390,7 +412,7 @@ De Beperkte Commissie van de Raad van Bestuur heeft tot taak:
 
 - c. de jaarrekening van de Europese Octrooiorganisatie met betrekking tot de uitvoering van dit Verdrag en het deel van het rapport van de overeenkomstig artikel 49, eerste lid, van het Europees Octrooiverdrag benoemde accountants, dat op deze jaarrekening betrekking heeft, goed te keuren en de Voorzitter van het Europees Octrooibureau kwijting te verlenen.
 
-#### Artikel 22. Reglement betreffende de taksen
+##### Artikel 22. Reglement betreffende de taksen
 
 In het Reglement betreffende de taksen worden in het bijzonder vastgesteld de bedragen van de taksen en de wijze waarop deze moeten worden betaald.
 
@@ -398,7 +420,7 @@ In het Reglement betreffende de taksen worden in het bijzonder vastgesteld de be
 
 ### HOOFDSTUK I. RECHT OP HET GEMEENSCHAPSOCTROOI
 
-#### Artikel 23. Opeising van het recht op het Gemeenschapsoctrooi
+##### Artikel 23. Opeising van het recht op het Gemeenschapsoctrooi
 
 1. Indien een Gemeenschapsoctrooi is verleend aan een persoon die hierop geen recht heeft ingevolge artikel 60, eerste lid, van het Europees Octrooiverdrag, kan degene die ingevolge genoemd lid wel recht heeft op het octrooi, eisen dat het octrooi aan hem wordt overgedragen, onverminderd alle andere rechten of rechtsvorderingen.
 
@@ -408,7 +430,7 @@ In het Reglement betreffende de taksen worden in het bijzonder vastgesteld de be
 
 4. Het instellen van een rechtsvordering wordt ingeschreven in het Register van Gemeenschapsoctrooien. Ook wordt ingeschreven de in kracht van gewijsde gegane beslissing op deze vordering of een andere beindiging van de procedure.
 
-#### Artikel 24. Gevolgen van verandering in hel houderschap
+##### Artikel 24. Gevolgen van verandering in hel houderschap
 
 1. Bij een volledige verandering in het houderschap van een Gemeenschapsoctrooi ingevolge een rechtsvordering op grond van artikel 23, vervallen licenties en andere rechten door inschrijving van de rechthebbende in het Register van Gemeenschapsoctrooien.
 
@@ -424,7 +446,7 @@ kan hij de toepassing voortzetten mits hij de nieuwe in het Register van Gemeens
 
 ### HOOFDSTUK II. RECHTSGEVOLGEN VAN HET GEMEENSCHAPSOCTROOI EN VAN DE EUROPESE OCTROOIAANVRAGE
 
-#### Artikel 25. Verbod van directe toepassing van de uitvinding
+##### Artikel 25. Verbod van directe toepassing van de uitvinding
 
 Het Gemeenschapsoctrooi geeft de octrooihouder het recht, iedere derde die niet zijn toestemming hiertoe heeft verkregen, te verbieden:
 
@@ -434,7 +456,7 @@ Het Gemeenschapsoctrooi geeft de octrooihouder het recht, iedere derde die niet 
 
 - c. een voortbrengsel dat rechtstreeks volgens de werkwijze waarop het octrooi betrekking heeft, is verkregen, aan te bieden, in het verkeer te brengen, te gebruiken, dan wel daartoe in te voeren of in voorraad te hebben.
 
-#### Artikel 26. Verbod van indirecte toepassing van de uitvinding
+##### Artikel 26. Verbod van indirecte toepassing van de uitvinding
 
 1. Het Gemeenschapsoctrooi geeft de octrooihouder ook het recht, iedere derde die niet zijn toestemming hiertoe heeft verkregen, te verbieden, op de grondgebieden van de Verdragsluitende Staten aan een ander dan degene die gerechtigd is de uitvinding toe te passen, middelen betreffende een wezenlijk bestanddeel van de uitvinding aan te bieden of te leveren voor de toepassing van de geoctrooieerde uitvinding op die grondgebieden, indien de derde weet dan wel het gezien de omstandigheden duidelijk is, dat deze middelen voor die toepassing geschikt en bestemd zijn.
 
@@ -442,7 +464,7 @@ Het Gemeenschapsoctrooi geeft de octrooihouder het recht, iedere derde die niet 
 
 3. Zij die de in artikel 27, sub a) tot en met sub c), bedoelde handelingen verrichten, worden niet geacht in de zin van het eerste lid gerechtigd te zijn tot toepassing van de uitvinding.
 
-#### Artikel 27. Beperking van de rechtsgevolgen van het Gemeenschapsoctrooi
+##### Artikel 27. Beperking van de rechtsgevolgen van het Gemeenschapsoctrooi
 
 De uit een Gemeenschapsoctrooi voortvloeiende rechten strekken zich niet uit tot:
 
@@ -458,11 +480,11 @@ De uit een Gemeenschapsoctrooi voortvloeiende rechten strekken zich niet uit tot
 
 - f. de handelingen vermeld in artikel 27 van het Verdrag van 7 december 1944 inzake de internationale burgerlijke luchtvaart, wanneer deze handelingen betrekking hebben op een luchtvaartuig van een niet bij het onderhavige Verdrag aangesloten Staat, waarvoor genoemd artikel van toepassing is.
 
-#### Artikel 28. Uitputting van de uit het Gemeenschapsoctrooi voortvloeiende rechten
+##### Artikel 28. Uitputting van de uit het Gemeenschapsoctrooi voortvloeiende rechten
 
 De uit een Gemeenschapsoctrooi voortvloeiende rechten strekken zich niet uit tot handelingen die een door dit octrooi beschermd voortbrengsel betreffen en op de grondgebieden van de Verdragsluitende Staten worden verricht, nadat dit voortbrengsel door de octrooihouder of met zijn uitdrukkelijke toestemming in een van die Staten in het verkeer is gebracht, tenzij er redenen bestaan die het volgens de regels van het Gemeenschapsrecht rechtvaardigen dat de uit het Gemeenschapsoctrooi voortvloeiende rechten zich tot die handelingen uitstrekken.
 
-#### Artikel 29. Vertaling van de conclusies in de onderzoek en oppositieprocedure
+##### Artikel 29. Vertaling van de conclusies in de onderzoek en oppositieprocedure
 
 1. De aanvrager moet binnen de in het Uitvoeringsreglement voorgeschreven termijn bij het Europees Octrooibureau van de conclusies waarop de verlening van het Europees octrooi moet berusten, een vertaling indienen in een van de officiële talen van elk van de Verdragsluitende Staten die niet als een officiële taal het Duits, het Engels of het Frans hebben.
 
@@ -478,7 +500,7 @@ De uit een Gemeenschapsoctrooi voortvloeiende rechten strekken zich niet uit tot
 
 7. Wanneer de vertaling van de conclusies in een van de officiële talen van een Verdragsluitende Staat ondeugdelijk is, kan iedereen die een uitvinding in de bewuste Staat heeft toegepast of daartoe daadwerkelijke en wezenlijke voorbereidingen heeft getroffen, welke toepassing in de ondeugdelijke vertaling van de conclusies geen inbreuk op het octrooi vormt, kosteloos met die toepassing doorgaan nadat de herziene vertaling van kracht is geworden. Dit geldt niet wanneer blijkt dat de betrokken persoon niet te goeder trouw heeft gehandeld.
 
-#### Artikel 30. Vertaling van het Gemeenschapsoctrooischrift
+##### Artikel 30. Vertaling van het Gemeenschapsoctrooischrift
 
 1. Behalve de in artikel 29, eerste lid, bedoelde vertalingen, moet de aanvrager vóór het verstrijken van de in het Uitvoeringsreglement voorgeschreven termijn bij het Europees Octrooibureau een vertaling indienen van de aanvrage die de grondslag vormt voor de verlening van het Gemeenschapsoctrooi in een van de officiële talen van elke Verdragsluitende Staat waar de procestaal geen officiële taal is.
 
@@ -494,11 +516,11 @@ De uit een Gemeenschapsoctrooi voortvloeiende rechten strekken zich niet uit tot
 
 7. Artikel 29, zesde en zevende lid, is van overeenkomstige toepassing op de in het eerste en het tweede lid voorgeschreven vertalingen.
 
-#### Artikel 31. Rechtskracht van de vertalingen
+##### Artikel 31. Rechtskracht van de vertalingen
 
 De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen die overeenkomstig het recht van een Verdragsluitende Staat daartoe gemachtigd zijn, worden in die Staat geacht in overeenstemming te zijn met het origineel, tenzij het tegendeel wordt bewezen.
 
-#### Artikel 32. Rechten voortvloeiende uit een Europese octrooiaanvrage na publikatie
+##### Artikel 32. Rechten voortvloeiende uit een Europese octrooiaanvrage na publikatie
 
 1. Een gezien de omstandigheden redelijke vergoeding kan worden geëist van een derde die, tussen de datum van publikatie van een Europese octrooiaanvrage waarin de Verdragsluitende Staten zijn aangewezen en de datum van publikatie van de verlening van het Europese octrooi, de uitvinding heeft toegepast op een wijze die na deze periode verboden zou zijn op grond van het Gemeenschapsoctrooi.
 
@@ -512,7 +534,7 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 4. Een Verdragsluitende Staat die krachtens het tweede lid een bepaling aanneemt, kan voorschrijven dat, wanneer de vertaling van de conclusies ondeugdelijk is, van een ieder die de uitvinding in die Staat heeft toegepast of daartoe daadwerkelijke en wezenlijke voorbereidingen heeft getroffen, welke toepassing in de oorspronkelijke vertaling van de conclusies geen inbreuk op de aanvrage vormt, overeenkomstig het eerste lid een redelijke vergoeding pas kan worden geist vanaf het tijdstip waarop de herziene vertaling van de conclusies is gepubliceerd of door hem is ontvangen, tenzij blijkt dat hij niet te goeder trouw heeft gehandeld, in welk geval van hem een redelijke vergoeding overeenkomstig het eerste lid pas kan worden geëist vanaf het tijdstip waarop aan de vereisten van het tweede lid is voldaan.
 
-#### Artikel 33. Rechtsgevolgen van herroeping en nietigheid van het Gemeenschapsoctrooi
+##### Artikel 33. Rechtsgevolgen van herroeping en nietigheid van het Gemeenschapsoctrooi
 
 1. Een Europese octrooiaanvrage waarin de Verdragsluitende Staten zijn aangewezen, en het Gemeenschapsoctrooi waartoe deze aanvrage heeft geleid, worden geacht van de aanvang af niet de in dit hoofdstuk genoemde rechtsgevolgen te hebben gehad naargelang het octrooi geheel of gedeeltelijk nietig is verklaard.
 
@@ -522,13 +544,13 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 - b. een vóór de herroeping of de nietigverklaring gesloten overeenkomst, voor zover deze vóór de nietigverklaring of de herroeping is uitgevoerd; uit billijkheidsoverwegingen kan echter terugbetaling worden geëist van op grond van deze overeenkomst betaalde bedragen, en wel in de mate als door de omstandigheden gerechtvaardigd is.
 
-#### Artikel 34. Aanvullende toepassing van het nationaal recht inzake inbreuk
+##### Artikel 34. Aanvullende toepassing van het nationaal recht inzake inbreuk
 
 1. De rechtsgevolgen van een Gemeenschapsoctrooi worden uitsluitend beheerst door de bepalingen van dit Verdrag. In ander opzicht is inbreuk op een Gemeenschapsoctrooi onderworpen aan het nationale recht inzake inbreuk op nationale octrooien overeenkomstig de bepalingen van het Geschillenprotocol.
 
 2. Het eerste lid is van overeenkomstige toepassing op een Europese octrooiaanvrage die tot de verlening van een Gemeenschapsoctrooi kan leiden.
 
-#### Artikel 35. Bewijslast
+##### Artikel 35. Bewijslast
 
 1. Indien een Gemeenschapsoctrooi betrekking heeft op een werkwijze tot vervaardiging van een nieuw voortbrengsel, wordt zulk een voortbrengsel dat door een ander dan de octrooihouder is vervaardigd, behoudens tegenbewijs, geacht met toepassing van de geoctrooieerde werkwijze te zijn vervaardigd.
 
@@ -536,13 +558,13 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 ### HOOFDSTUK III. NATIONALE RECHTEN
 
-#### Artikel 36. Oudere nationale rechten
+##### Artikel 36. Oudere nationale rechten
 
 1. Ten opzichte van een Gemeenschapsoctrooi dat een latere aanvraagdatum of, indien voorrang is ingeroepen, een latere voorrangsdatum heeft dan een op of na die datum in een Verdragsluitende Staat voor het publiek toegankelijk geworden nationale octrooiaanvrage of nationaal octrooi, heeft de nationale octrooiaanvrage of het nationaal octrooi, als een ouder recht, voor deze Staat dezelfde rechtsgevolgen als een gepubliceerde Europese octrooiaanvrage waarin deze Staat zou zijn aangewezen.
 
 2. Indien in een Verdragsluitende Staat een nationale octrooiaanvrage of een nationaal octrooi, waarvan de publikatie niet heeft plaatsgevonden op grond van de nationale wetgeving van die Staat inzake geheimhouding van uitvindingen, ten opzichte van een nationaal octrooi met een latere indieningsdatum of, indien voorrang is ingeroepen, een latere voorrangsdatum, in die Staat rechtsgevolgen heeft als een ouder recht, geldt zulks in die Staat ook voor een Gemeenschapsoctrooi.
 
-#### Artikel 37. Recht van voorgebruik en van persoonlijk bezit
+##### Artikel 37. Recht van voorgebruik en van persoonlijk bezit
 
 1. Degene die in een Verdragsluitende Staat een recht van voorgebruik of een recht van persoonlijk bezit met betrekking tot een uitvinding zou hebben verworven indien voor deze uitvinding een nationaal octrooi zou zijn verleend, geniet in deze Staat hetzelfde recht ten aanzien van het Gemeenschapsoctrooi dat op deze uitvinding betrekking heeft.
 
@@ -550,7 +572,7 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 ### HOOFDSTUK IV. HET GEMEENSCHAPSOCTROOI ALS DEEL VAN HET VERMOGEN
 
-#### Artikel 38. Behandeling van het Gemeenschapsoctrooi als een nationaal octrooi
+##### Artikel 38. Behandeling van het Gemeenschapsoctrooi als een nationaal octrooi
 
 1. Behoudens andersluidende bepalingen van dit Verdrag wordt een Gemeenschapsoctrooi als deel van het vermogen, in zijn geheel en voor alle grondgebieden waarop het rechtsgevolgen heeft, beschouwd als een nationaal octrooi in de Verdragsluitende Staat op welks grondgebied, volgens het Europees Octrooiregister bedoeld in het Europees Octrooiverdrag,
 
@@ -566,7 +588,7 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 4. Indien in een overeenkomstig de voorgaande leden bepaalde Verdragsluitende Staat een recht op een nationaal octrooi eerst gevolgen heeft na inschrijving ervan in het nationaal Octrooiregister, heeft een recht op een Gemeenschapsoctrooi eerst gevolgen nadat dit recht is ingeschreven in het Register van Gemeenschapsoctrooien.
 
-#### Artikel 39. Overgang
+##### Artikel 39. Overgang
 
 1. Overdracht van een Gemeenschapsoctrooi geschiedt bij een schriftelijke akte ondertekend door de partijen bij de overeenkomst, behalve indien de overdracht het gevolg is van een rechterlijke beslissing.
 
@@ -574,17 +596,17 @@ De in de artikelen 29 en 30 bedoelde vertalingen die gemaakt zijn door personen 
 
 3. Een overgang kan eerst na inschrijving in het Register van Gemeenschapsoctrooien aan derden worden tegengeworpen, en wel in de omvang die blijkt uit de stukken bedoeld in het Uitvoeringsreglement. De overgang kan evenwel vóór de inschrijving worden tegengeworpen aan derden die na de datum van de overgang rechten hebben verkregen maar bij de verkrijging van deze rechten kennis van de overgang droegen.
 
-#### Artikel 40. Executieprocedure
+##### Artikel 40. Executieprocedure
 
 Inzake executieprocedures betreffende een Gemeenschapsoctrooi zijn uitsluitend bevoegd de rechterlijke instanties en de andere autoriteiten van de overeenkomstig artikel 38 bepaalde Verdragsluitende Staat.
 
-#### Artikel 41. Faillissementsprocedure en soortgelijke procedures
+##### Artikel 41. Faillissementsprocedure en soortgelijke procedures
 
 1. Totdat ter zake gemeenschappelijke bepalingen tussen de Verdragsluitende Staten in werking treden, kan een Gemeenschapsoctrooi in een faillissementsprocedure of een soortgelijke procedure slechts in de Verdragsluitende Staat worden betrokken, waar deze procedure het eerst werd ingeleid.
 
 2. In geval van medehouderschap van een Gemeenschapsoctrooi is het eerste lid van overeenkomstige toepassing op het aandeel van een medehouder.
 
-#### Artikel 42. Contractuele licenties
+##### Artikel 42. Contractuele licenties
 
 1. Een Gemeenschapsoctrooi kan geheel of gedeeltelijk het onderwerp zijn van licenties voor alle of voor een deel van de grondgebieden waarop het octrooi rechtsgevolgen heeft. Een licentie kan al dan niet uitsluitend zijn.
 
@@ -592,7 +614,7 @@ Inzake executieprocedures betreffende een Gemeenschapsoctrooi zijn uitsluitend b
 
 3. Het tweede en derde lid van artikel 39 zijn van overeenkomstige toepassing op de verlening of de overdracht van een licentie op een Gemeenschapsoctrooi.
 
-#### Artikel 43. Licenties van rechtswege
+##### Artikel 43. Licenties van rechtswege
 
 1. Indien de houder van een Gemeenschapsoctrooi bij het Europees Octrooibureau een schriftelijke verklaring indient dat hij bereid is een ieder toe te staan als licentiehouder de uitvinding toe te passen tegen betaling van een redelijke vergoeding, worden de jaartaksen voor instandhouding van het Gemeenschapsoctrooi, die na ontvangst van de verklaring vervallen, verlaagd; het bedrag van de verlaging wordt vastgesteld in het Reglement betreffende de taksen. Bij een volledige verandering in het houderschap van het octrooi ingevolge een krachtens artikel 23 ingestelde rechtsvordering wordt de verklaring geacht te zijn ingetrokken op de dag waarop de rechthebbende in het Register van Gemeenschapsoctrooien is ingeschreven.
 
@@ -606,7 +628,7 @@ Inzake executieprocedures betreffende een Gemeenschapsoctrooi zijn uitsluitend b
 
 6. Een verzoek tot inschrijving van een uitsluitende licentie in het Register van Gemeenschapsoctrooien is niet ontvankelijk nadat de in het eerste lid bedoelde verklaring is ingediend, tenzij deze is ingetrokken of geacht wordt te zijn ingetrokken.
 
-#### Artikel 44. De Europese octrooiaanvrage als deel van het vermogen
+##### Artikel 44. De Europese octrooiaanvrage als deel van het vermogen
 
 1. De bepalingen van de artikelen 38 tot en met 42 zijn van overeenkomstige toepassing op een Europese octrooiaanvrage waarin de Verdragsluitende Staten zijn aangewezen, waarbij in plaats van het Register van Gemeenschapsoctrooien moet worden gelezen het Europees Octrooiregister bedoeld in het Europees Octrooiverdrag.
 
@@ -614,7 +636,7 @@ Inzake executieprocedures betreffende een Gemeenschapsoctrooi zijn uitsluitend b
 
 ### HOOFDSTUK V. GEDWONGEN LICENTIES OP HET GEMEENSCHAPSOCTROOI
 
-#### Artikel 45. Gedwongen licenties
+##### Artikel 45. Gedwongen licenties
 
 1. De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in de verlening van gedwongen licenties op nationale octrooien, zijn van toepassing op Gemeenschapsoctrooien. De omvang en de rechtsgevolgen van op Gemeenschapsoctrooien verleende gedwongen licenties zijn beperkt tot het grondgebied van de betrokken Staat; artikel 28 is niet van toepassing.
 
@@ -624,11 +646,11 @@ Inzake executieprocedures betreffende een Gemeenschapsoctrooi zijn uitsluitend b
 
 4. Voor de toepassing van dit Verdrag omvat de term „gedwongen licentie” mede ambtshalve verleende licenties en elk recht tot toepassing van een geoctrooieerde uitvinding in het algemeen belang.
 
-#### Artikel 46. Gedwongen licenties wegens niet of onvoldoende toepassing
+##### Artikel 46. Gedwongen licenties wegens niet of onvoldoende toepassing
 
 Gedwongen licenties op een Gemeenschapsoctrooi wegens niet of onvoldoende toepassing kunnen niet worden verleend, indien het voortbrengsel dat door het octrooi is beschermd en in een Verdragsluitende Staat is vervaardigd, op het grondgebied van een andere Verdragsluitende Staat waarvoor zulk een licentie is gevraagd, in voldoende hoeveelheid in het verkeer wordt gebracht om aan de behoeften op het grondgebied van laatstgenoemde Staat te voldoen. Deze bepaling is niet van toepassing op gedwongen licenties die in het algemeen belang worden verleend.
 
-#### Artikel 47. Gedwongen licenties ten behoeve van afhankelijke octrooien
+##### Artikel 47. Gedwongen licenties ten behoeve van afhankelijke octrooien
 
 De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in de verlening van gedwongen licenties op oudere octrooien ten behoeve van jongere, afhankelijke octrooien, zijn tevens van toepassing op de verhouding tussen Gemeenschapsoctrooien en nationale octrooien, alsmede op de verhouding tussen Gemeenschapsoctrooien onderling.
 
@@ -636,7 +658,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 ### HOOFDSTUK I. INSTANDHOUDING EN EINDE
 
-#### Artikel 48. Jaartaksen
+##### Artikel 48. Jaartaksen
 
 1. Voor Gemeenschapsoctrooien moeten aan het Europees Octrooibureau jaartaksen worden betaald, overeenkomstig de bepalingen van het Uitvoeringsreglement. Deze taksen moeten worden betaald voor de jaren volgend op het jaar bedoeld in artikel 86, vierde lid, van het Europees Octrooiverdrag; evenwel behoeft geen taks te worden betaald voor de eerste twee jaren na de datum van indiening van de aanvrage.
 
@@ -644,7 +666,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 3. Indien, een jaartaks voor een Gemeenschapsoctrooi vervalt binnen twee maanden nadat de verlening van het Europees octrooi is bekendgemaakt, wordt deze jaartaks geacht rechtsgeldig te zijn betaald als hij binnen die termijn is betaald. In dit geval behoeft geen toeslag te worden betaald.
 
-#### Artikel 49. Afstand
+##### Artikel 49. Afstand
 
 1. Van een Gemeenschapsoctrooi kan slechts in zijn geheel afstand worden gedaan.
 
@@ -652,7 +674,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 3. De afstand wordt slechts in het Register van Gemeenschapsoctrooien ingeschreven met toestemming van degene die een in dit register ingeschreven zakelijk recht heeft of op wiens naam een inschrijving overeenkomstig artikel 23, vierde lid, eerste zin, is verricht. Indien een licentie in genoemd register is ingeschreven, wordt de afstand eerst ingeschreven indien de octrooihouder aantoont dat hij vooraf de licentiehouder in kennis heeft gesteld van zijn voornemen afstand te doen; de inschrijving van de afstand geschiedt na het verstrijken van de in het Uitvoeringsreglement vastgestelde termijn.
 
-#### Artikel 50. Einde
+##### Artikel 50. Einde
 
 1. Een Gemeenschapsoctrooi eindigt:
 
@@ -670,7 +692,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 ### HOOFDSTUK II. BEPERKINGSPROCEDURE
 
-#### Artikel 51. Verzoek tot beperking
+##### Artikel 51. Verzoek tot beperking
 
 1. Op verzoek van de octrooihouder kan een Gemeenschapsoctrooi worden beperkt in de vorm van een wijziging van de conclusies, beschrijving of tekeningen. Voor een of meer Verdragsluitende Staten kan een beperking slechts in het in artikel 36, eerste lid, bedoelde geval worden gevraagd.
 
@@ -682,7 +704,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 5. Indien tijdens een beperkingsprocedure een verzoek tot nietigverklaring van het Gemeenschapsoctrooi wordt ingediend, schorst de nietigheidsafdeling de beperkingsprocedure, totdat een beslissing op het verzoek tot nietigverklaring in kracht van gewijsde is gegaan.
 
-#### Artikel 52. Behandeling van het verzoek
+##### Artikel 52. Behandeling van het verzoek
 
 1. De nietigheidsafdeling onderzoekt of de in artikel 56, eerste lid, sub a) tot en met d), genoemde nietigheidsgronden het in stand blijven van het Gemeenschapsoctrooi in de gewijzigde vorm in de weg staan.
 
@@ -690,7 +712,7 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 3. Indien de octrooihouder binnen de gestelde termijn geen gehoor geeft aan een verzoek dat de nietigheidsafdeling overeenkomstig het tweede lid tot hem heeft gericht wordt het verzoek tot beperking als ingetrokken beschouwd.
 
-#### Artikel 53. Afwijzing van het verzoek, of beperking van het Gemeenschapsoctrooi
+##### Artikel 53. Afwijzing van het verzoek, of beperking van het Gemeenschapsoctrooi
 
 1. Indien de nietigheidsafdeling naar aanleiding van het in artikel 52 bedoelde onderzoek de wijzigingen niet aanvaardbaar acht, wijst zij het verzoek af.
 
@@ -706,13 +728,13 @@ De bepalingen van de wetgeving van een Verdragsluitende Staat, die voorzien in d
 
 4. Het besluit tot beperking van het Gemeenschapsoctrooi treedt eerst in werking op de dag waarop de vermelding van dit besluit is opgenomen in het Blad van Gemeenschapsoctrooien.
 
-#### Artikel 54. Publikatie van een nieuw octrooischrift na de beperkingsprocedure
+##### Artikel 54. Publikatie van een nieuw octrooischrift na de beperkingsprocedure
 
 Nadat het Gemeenschapsoctrooi krachtens artikel 53, tweede lid, is beperkt, publiceert het Europees Octrooibureau, tegelijk met de vermelding van het besluit tot beperking, een nieuw octrooischrift van het Gemeenschapsoctrooi, dat in gewijzigde vorm de beschrijving, de conclusies en eventueel de tekeningen bevat. Artikel 30, derde en vierde lid, is van overeenkomstige toepassing.
 
 ### HOOFDSTUK III. NIETIGHE1DSPROCEDURE
 
-#### Artikel 55. Verzoek tot nietigverklaring
+##### Artikel 55. Verzoek tot nietigverklaring
 
 1. Een ieder kan bij het Europees Octrooibureau een verzoek tot nietigverklaring van een Gemeenschapsoctrooi indienen; in het geval bedoeld in artikel 56, eerste lid, sub e), kan het verzoek echter slechts worden ingediend door de persoon die het recht heeft als enige houder, of door de personen gezamenlijk die het recht hebben als medehouders van het octrooi overeenkomstig artikel 23 te worden ingeschreven in het Register van Gemeenschapsoctrooien.
 
@@ -726,7 +748,7 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 53, tweede lid, is beperkt, publ
 
 6. Indien de verzoeker geen woonplaats of zetel heeft op het grondgebied van een van de Verdragsluitende Staten, moet hij op vordering van de octrooihouder zekerheid stellen voor de proceskosten. De nietigheidsafdeling stelt naar billijkheid het bedrag van de zekerheid vast en bepaalt de termijn binnen welke deze moet worden gesteld. Indien de zekerheid niet binnen de bepaalde termijn is gesteld, wordt het verzoek geacht te zijn ingetrokken.
 
-#### Artikel 56. Nietigheidsgronden
+##### Artikel 56. Nietigheidsgronden
 
 1. Een verzoek tot nietigverklaring van een Gemeenschapsoctrooi kan slechts op de volgende gronden berusten:
 
@@ -746,13 +768,13 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 53, tweede lid, is beperkt, publ
 
 3. In het in het eerste lid, sub f), bedoelde geval wordt de nietigheid slechts uitgesproken voor de Verdragsluitende Staat waar de nationale octrooiaanvrage of het nationale octrooi voor het publiek toegankelijk is geworden.
 
-#### Artikel 57. Behandeling van het verzoek
+##### Artikel 57. Behandeling van het verzoek
 
 1. Indien de verzoeker tot nietigverklaring van het Gemeenschapsoctrooi ontvankelijk is, onderzoekt de nietigheidsafdeling of de in artikel 56 genoemde nietigheidsgronden het in stand blijven van het octrooi in de weg staan.
 
 2. Tijdens de behandeling van het verzoek, die plaatsvindt overeenkomstig de bepalingen van het Uitvoeringsreglement, verzoekt de nietigheidsafdeling zo dikwijls als nodig partijen binnen een door deze afdeling te stellen termijn te antwoorden op kennisgevingen die zij tot hen heeft gericht of op mededelingen van andere partijen.
 
-#### Artikel 58. Nietigverklaring of instandhouding van het octrooi
+##### Artikel 58. Nietigverklaring of instandhouding van het octrooi
 
 1. Indien de nietigheidsafdeling van oordeel is dat de in artikel 56 genoemde nietigheidsgronden zich verzetten tegen het in stand blijven van het Gemeenschapsoctrooi, verklaart zij het octrooi nietig.
 
@@ -768,11 +790,11 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 53, tweede lid, is beperkt, publ
 
 4. Indien een vertaling niet tijdig is ingediend of de taks voor het drukken van een nieuw octrooischrift niet tijdig is betaald, wordt het octrooi nietig verklaard, tenzij binnen de in het Uitvoeringsreglement vastgestelde extra termijn deze handelingen alsnog worden verricht en een toeslag wordt betaald.
 
-#### Artikel 59. Publikatie van een nieuw octrooischrift na de nietigheidsprocedure
+##### Artikel 59. Publikatie van een nieuw octrooischrift na de nietigheidsprocedure
 
 Nadat het Gemeenschapsoctrooi krachtens artikel 58, derde lid, is gewijzigd, publiceert het Europees Octrooibureau, tegelijk met de vermelding van de beslissing op het verzoek tot nietigverklaring, een nieuw octrooischrift van het Gemeenschapsoctrooi, dat in gewijzigde vorm de beschrijving, de conclusies en eventueel de tekeningen bevat. Artikel 30, derde en vierde lid, is van overeenkomstige toepassing.
 
-#### Artikel 60. Kosten
+##### Artikel 60. Kosten
 
 1. Elke bij de nietigheidsprocedure betrokken partij draagt de door haargemaakte kosten, behalve indien de nietigheidsafdeling overeenkomstig het Uitvoeringsreglement, of het Gemeenschappelijk Hof van Beroep overeenkomstig zijn reglement voor de procesvoering, op gronden van billijkheid besluit tot een andere verdeling van de door een mondelinge procedure of een bewijslevering veroorzaakte kosten. Op verzoek kan een beslissing over de verdeling van de kosten ook worden genomen indien het verzoek tot nietigverklaring is ingetrokken of indien het Gemeenschapsoctrooi is geëindigd.
 
@@ -782,7 +804,7 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 58, derde lid, is gewijzigd, pub
 
 ## DEEL VIERDE. BEROEPSPROCEDURE
 
-#### Artikel 61. Beroep
+##### Artikel 61. Beroep
 
 1. Tegen de beslissingen van een nietigheidsafdeling of van de afdeling voor de administratie van octrooien kan beroep worden ingesteld.
 
@@ -790,7 +812,7 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 58, derde lid, is gewijzigd, pub
 
 ## DEEL VIJFDE. GEMEENSCHAPPELIJKE BEPALINGEN
 
-#### Artikel 62. Algemene bepalingen betreffende de procedure en vertegenwoordiging
+##### Artikel 62. Algemene bepalingen betreffende de procedure en vertegenwoordiging
 
 1. De bepalingen van de hoofdstukken I en III van het Zevende Deel van het Europees Octrooiverdrag, met uitzondering van artikel 124, zijn voor wat het onderhavige Verdrag betreft, van overeenkomstige toepassing, met dien verstande dat:
 
@@ -810,15 +832,15 @@ Nadat het Gemeenschapsoctrooi krachtens artikel 58, derde lid, is gewijzigd, pub
 
 - b. de Staat waarvan hij de nationaliteit bezit of op welks grondgebied hij kantoor houdt of werkzaam is, ten aanzien van de vertegenwoordiging bij de centrale dienst voor de industriële eigendom van deze Staat, bepalingen toepast die beantwoorden aan de eisen van wederkerigheid die door de Beperkte Commissie van de Raad van Bestuur kunnen worden gesteld.
 
-#### Artikel 63. Register van Gemeenschapsoctrooien
+##### Artikel 63. Register van Gemeenschapsoctrooien
 
 Bij het Europees Octrooibureau wordt een register, genaamd „Register van Gemeenschapsoctrooien” gehouden, waarin alle gegevens worden aangetekend, waarvan dit Verdrag de inschrijving voorschrijft. Het Register is openbaar.
 
-#### Artikel 64. Blad van Gemeenschapsoctrooien
+##### Artikel 64. Blad van Gemeenschapsoctrooien
 
 Het Europees Octrooibureau geeft regelmatig een blad, genaamd „Blad van Gemeenschapsoctrooien” uit, dat de inschrijvingen in het Register van Gemeenschapsoctrooien bevat, alsmede alle andere gegevens waarvan dit Verdrag publikatie voorschrijft.
 
-#### Artikel 65. Voorlichting van het publiek en officiële instanties
+##### Artikel 65. Voorlichting van het publiek en officiële instanties
 
 De artikelen 128, vierde lid, en 130 tot en met 132 van het Europees Octrooiverdrag zijn van overeenkomstige toepassing, waarbij onder „Verdragsluitende Staten” de Staten worden verstaan, die partij zijn bij het onderhavige Verdrag.
 
@@ -826,11 +848,11 @@ De artikelen 128, vierde lid, en 130 tot en met 132 van het Europees Octrooiverd
 
 ### HOOFDSTUK I. BEVOEGDHEID EN EXECUTIE
 
-#### Artikel 66. Algemene bepalingen
+##### Artikel 66. Algemene bepalingen
 
 Tenzij anders bepaald in het onderhavige Verdrag, zijn de bepalingen van het Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, ondertekend te Brussel op 27 september 1968, zoals gewijzigd bij de Verdragen houdende toetreding tot dat Verdrag van de tot de Europese Gemeenschappen toetredende landen, welk geheel van dat Verdrag en van deze Toetredingsverdragen hierna wordt genoemd „Bevoegdheids- en Executieverdrag”, van toepassing op andere rechtsvorderingen betreffende Gemeenschapsoctrooien dan die waarop het Geschillenprotocol van toepassing is, en op beslissingen op deze rechtsvorderingen.
 
-#### Artikel 67. Bevoegdheid van nationale rechterlijke instanties inzake rechtsvorderingen betreffende Gemeenschapsoctrooien
+##### Artikel 67. Bevoegdheid van nationale rechterlijke instanties inzake rechtsvorderingen betreffende Gemeenschapsoctrooien
 
 De volgende rechterlijke instanties zijn uitsluitend bevoegd:
 
@@ -838,7 +860,7 @@ De volgende rechterlijke instanties zijn uitsluitend bevoegd:
 
 - b. inzake rechtsvorderingen betreffende het recht op octrooi, waar werkgevers en werknemers tegenover elkaar staan, de rechterlijke instanties van de Verdragsluitende Staat waarvan overeenkomstig artikel 60, eerste lid, tweede zin, van het Europees Octrooiverdrag de wetgeving het recht op een Europees octrooi bepaalt. Een bevoegdheidsovereenkomst is slechts geldig voor zover zij toelaatbaar is volgens de nationale wetgeving betreffende arbeidsovereenkomsten.
 
-#### Artikel 68. Aanvullende bepalingen inzake bevoegdheid
+##### Artikel 68. Aanvullende bepalingen inzake bevoegdheid
 
 1. In de Verdragsluitende Staat waar de rechterlijke instanties volgens het bepaalde in de artikelen 66 en 67 bevoegd zijn, worden rechtsvorderingen ingesteld bij de rechterlijke instanties die absoluut en relatief bevoegd zouden zijn indien het rechtsvorderingen inzake een in die Staat verleend nationaal octrooi zou betreffen.
 
@@ -846,39 +868,39 @@ De volgende rechterlijke instanties zijn uitsluitend bevoegd:
 
 3. Indien op grond van de artikelen 66 en 67 en van het eerste en het tweede lid van het onderhavige artikel geen rechterlijke instantie bevoegd is inzake een rechtsvordering betreffende een Gemeenschapsoctrooi, kan deze rechtsvordering worden ingesteld bij de rechterlijke instanties van de Bondsrepubliek Duitsland.
 
-#### Artikel 69. Aanvullende bepalingen inzake erkenning en tenuitvoerlegging
+##### Artikel 69. Aanvullende bepalingen inzake erkenning en tenuitvoerlegging
 
 1. Artikel 27, punten 3 en 4, van het Bevoegdheids- en Executieverdrag is niet van toepassing op beslissingen inzake het recht op een Gemeenschapsoctrooi.
 
 2. In geval van strijdige beslissingen inzake het recht op een Gemeenschapsoctrooi, gegeven tussen dezelfde partijen wordt slechts de beslissing erkend van de rechterlijke instantie waarbij de zaak het eerst aanhangig is gemaakt. Geen van de partijen kan zich beroepen op een andere beslissing, zelfs niet in de Verdragsluitende Staat waar deze beslissing is gegeven.
 
-#### Artikel 70. Nationale autoriteiten
+##### Artikel 70. Nationale autoriteiten
 
 Ten aanzien van rechtsvorderingen betreffende het recht op een Gemeenschapsoctrooi of betreffende gedwongen licenties op een Gemeenschapsoctrooi, worden onder „rechterlijke instanties” in dit Verdrag en onder „gerechten” in het Bevoegdheids- en Executieverdrag ook verstaan de bevoegde autoriteiten die krachtens de wetgeving van een Verdragsluitende Staat bevoegd zijn uitspraak te doen ten aanzien van zulke rechtsvorderingen betreffende nationale octrooien die in de desbetreffende Staat zijn verleend. De Verdragsluitende Staten delen het Europees Octrooibureau mede aan welke autoriteit een zodanige bevoegdheid is verleend; het Europees Octrooibureau stelt de andere Verdragsluitende Staten daarvan in kennis.
 
 ### HOOFDSTUK II. PROCEDURE
 
-#### Artikel 71. Procedureregels
+##### Artikel 71. Procedureregels
 
 Tenzij dit Verdrag anders bepaalt, zijn de rechtsvorderingen bedoeld in de artikelen 66, 67 en 68 onderworpen aan de procedureregels van het nationaal recht, die van toepassing zijn op gelijksoortige rechtsvorderingen inzake nationale octrooien.
 
-#### Artikel 72. Verplichting van de nationale rechterlijke instantie
+##### Artikel 72. Verplichting van de nationale rechterlijke instantie
 
 De nationale rechterlijke instantie waarbij een rechtsvordering betreffende een Gemeenschapsoctrooi wordt ingesteld anders dan die bedoeld in het Geschillenprocotol, moet dat octrooi als geldig beschouwen.
 
-#### Artikel 73. Schorsing van de procedure
+##### Artikel 73. Schorsing van de procedure
 
 1. Indien de beslissing van een nationale rechterlijke instantie op een rechtsvordering anders dan een rechtsvordering bedoeld in het Geschillenprotocol betreffende een Europese octrooiaanvrage die kan leiden tot de verlening van een Gemeenschapsoctrooi, afhankelijk is van de octrooieerbaarheid van de uitvinding, kan deze beslissing eerst worden gegeven nadat het Europees Octrooibureau het Gemeenschapsoctrooi heeft verleend of de aanvrage heeft afgewezen. Nadat het Gemeenschapsoctrooi is verleend, is het tweede lid van toepassing.
 
 2. Indien oppositie is ingesteld of indien een verzoek tot beperking of nietigverklaring van een Gemeenschapsoctrooi is ingediend, kan de nationale rechterlijke instantie op verzoek van een van de partijen en na de andere partijen te hebben gehoord, een procedure betreffende het Gemeenschapsoctrooi schorsen, voor zover haar beslissing afhankelijk is van de geldigheid van het octrooi. Op verzoek van een van de partijen doet de rechterlijke instantie zich de stukken van de oppositie-, beperkings- of nietigheidsprocedure voorleggen met het oog op de beslissing over het verzoek tot schorsing.
 
-#### Artikel 74. Strafrechtelijke sancties op inbreuk
+##### Artikel 74. Strafrechtelijke sancties op inbreuk
 
 In geval van inbreuk op een Gemeenschapsoctrooi zijn de nationale strafbepalingen ten aanzien van inbreuk van toepassing, voor zover het handelingen betreft, die strafbaar zouden zijn indien zij inbreuk zouden maken op een nationaal octrooi.
 
 ## DEEL ZEVENDE. GEVOLGEN VOOR HET NATIONALE RECHT
 
-#### Artikel 75. Verbod van dubbele bescherming
+##### Artikel 75. Verbod van dubbele bescherming
 
 1. Voorzover een in een Verdragsluitende Staat verleend nationaal octrooi betrekking heeft op een uitvinding waarvoor aan dezelfde uitvinder of aan zijn rechtverkrijgende een Gemeenschapsoctrooi is verleend met dezelfde aanvraagdatum of, indien voorrang is ingeroepen, met dezelfde voorrangsdatum, heeft dit nationaal octrooi, voor zover het dezelfde uitvinding als het Gemeenschapsoctrooi beschermt, geen rechtsgevolgen meer vanaf de datum waarop:
 
@@ -894,7 +916,7 @@ In geval van inbreuk op een Gemeenschapsoctrooi zijn de nationale strafbepalinge
 
 4. Tot de in het eerste lid bedoelde datum bestaat er dubbele bescherming door een Gemeenschapsoctrooi of een Europese octrooiaanvrage en door een nationaal octrooi of een aanvrage om een nationaal octrooi, tenzij de nationale wetgeving van een Verdragsluitende Staat anders bepaalt.
 
-#### Artikel 76. Uitputting van de uit nationale octrooien voortvloeiende rechten
+##### Artikel 76. Uitputting van de uit nationale octrooien voortvloeiende rechten
 
 1. De rechten voortvloeiend uit een nationaal octrooi in een Verdragsluitende Staat, strekken zich niet uit tot handelingen die een door dit octrooi beschermd voortbrengsel betreffen en op het grondgebied van die Staat worden verricht, nadat dit voortbrengsel door de octrooihouder of met zijn uitdrukkelijke toestemming in een van de Verdragsluitende Staten in het verkeer is gebracht, tenzij er redenen bestaan die het volgens de regels van het Gemeenschapsrecht rechtvaardigen dat de uit het octrooi voortvloeiende rechten zich tot die handelingen uitstrekken.
 
@@ -902,17 +924,17 @@ In geval van inbreuk op een Gemeenschapsoctrooi zijn de nationale strafbepalinge
 
 3. Het eerste en het tweede lid zijn niet van toepassing indien het voortbrengsel onder een gedwongen licentie in het verkeer is gebracht.
 
-#### Artikel 77. Gedwongen licenties op een nationaal octrooi
+##### Artikel 77. Gedwongen licenties op een nationaal octrooi
 
 Artikel 46 is van overeenkomstige toepassing op de verlening van gedwongen licenties wegens niet of onvoldoende exploitatie van een nationaal octrooi.
 
-#### Artikel 78. Rechtsgevolgen van niet gepubliceerde nationale octrooiaanvragen en octrooien
+##### Artikel 78. Rechtsgevolgen van niet gepubliceerde nationale octrooiaanvragen en octrooien
 
 1. Indien het bepaalde in artikel 36, tweede lid, van toepassing is, heeft het Gemeenschapsoctrooi geen rechtsgevolgen in de desbetreffende Verdragsluitende Staat voor zover het dezelfde uitvinding beschermt als de nationale octrooiaanvrage of het nationaal octrooi.
 
 2. De vaststelling dat op grond van het bepaalde in het eerste lid een Gemeenschapsoctrooi in deze Verdragsluitende Staat geen rechtsgevolgen heeft, geschiedt in deze Staat volgens de procedure die zou zijn gevolgd voor het nietig en zonder rechtsgevolgen verklaren van het Gemeenschapsoctrooi indien dit een nationaal octrooi was geweest.
 
-#### Artikel 79. Nationale gebruiksmodellen en gebruikscertificaten
+##### Artikel 79. Nationale gebruiksmodellen en gebruikscertificaten
 
 1. De artikelen 36, 75 en 76 zijn van overeenkomstige toepassing op gebruiksmodellen en op gebruikscertificaten, alsmede op aanvragen daarvoor, in de Verdragsluitende Staten waarvan de wetgeving in deze vormen van bescherming voorziet.
 
@@ -920,11 +942,11 @@ Artikel 46 is van overeenkomstige toepassing op de verlening van gedwongen licen
 
 ## DEEL ACHTSTE. OVERGANGSBEPALINGEN
 
-#### Artikel 80. Toepassing van het Bevoegdheids- en Executieverdrag
+##### Artikel 80. Toepassing van het Bevoegdheids- en Executieverdrag
 
 De bepalingen van het Bevoegdheids- en Executieverdrag, die krachtens de voorgaande artikelen van toepassing zijn, worden ten aanzien van een Verdragsluitende Staat waarvoor dat Verdrag nog niet in werking is getreden, eerst van kracht wanneer het voor deze Staat in werking treedt.
 
-#### Artikel 81. Keuze tussen Gemeenschapsoctrooi en Europees octrooi
+##### Artikel 81. Keuze tussen Gemeenschapsoctrooi en Europees octrooi
 
 1. Behoudens het derde lid is dit Verdrag niet van toepassing op Europese octrooiaanvragen die gedurende een overgangsperiode worden ingediend, noch op de daarop verleende Europese octrooien, indien de aanvrager binnen de in het Uitvoeringsreglement voorgeschreven termijn bij het Europees Octrooibureau een verklaring indient dat hij geen Gemeenschapsoctrooi wenst te verkrijgen, met vermelding van de Verdragsluitende Staten waarvan de aanwijzing gehandhaafd moet blijven. Zolang de voorgeschreven taksen niet zijn voldaan, wordt de verklaring geacht niet te zijn ingediend. De verklaring kan niet worden herroepen.
 
@@ -936,11 +958,11 @@ De bepalingen van het Bevoegdheids- en Executieverdrag, die krachtens de voorgaa
 
 5. Het in het vierde lid bedoelde besluit wordt met eenparigheid van stemmen genomen.
 
-#### Artikel 82. Latere keuze van een Gemeenschapsoctrooi
+##### Artikel 82. Latere keuze van een Gemeenschapsoctrooi
 
 De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verleend op een Europese octrooiaanvrage waarin alle Verdragsluitende Staten zijn aangewezen en die is ingediend voor de inwerkingtreding van dit Verdrag, mits voor het verstrijken van de termijn bedoeld in artikel 97, tweede lid, sub b), van het Europees Octrooiverdrag de aanvrager bij het Europees Octrooibureau een schriftelijke verklaring indient dat hij een Gemeenschapsoctrooi wenst te verkrijgen.
 
-#### Artikel 83. Voorbehoud betreffende gedwongen licenties
+##### Artikel 83. Voorbehoud betreffende gedwongen licenties
 
 1. Elke ondertekenende Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging verklaren dat hij zich het recht voorbehoudt, te bepalen dat de artikelen 46 en 77 op zijn grondgebied niet van toepassing zijn op Gemeenschapsoctrooien, noch op Europese octrooien die voor, of nationale octrooien die door deze Staat zijn verleend.
 
@@ -952,7 +974,7 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 5. Het voorbehoud blijft van kracht voor gedwongen licenties, verleend vóór de datum waarop het voorbehoud zijn geldigheid verliest.
 
-#### Artikel 84. Andere overgangsbepalingen
+##### Artikel 84. Andere overgangsbepalingen
 
 1. De artikelen 159, 161 en 163 van het Europees Octrooiverdrag zijn van overeenkomstige toepassing, met dien verstande dat:
 
@@ -964,7 +986,7 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 ## DEEL NEGENDE. SLOTBEPALINGEN
 
-#### Artikel 85. Uitvoeringsreglement
+##### Artikel 85. Uitvoeringsreglement
 
 1. Het Uitvoeringsreglement vormt een wezenlijk bestanddeel van dit Verdrag.
 
@@ -974,7 +996,7 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 ### HOOFDSTUK I. ORGANISATIE VAN DE BIJZONDERE ORGANEN
 
-#### Regel 1. Taakverdeling over de organen in eerste aanleg
+##### Regel 1. Taakverdeling over de organen in eerste aanleg
 
 1. De Voorzitter van het Europees Octrooibureau bepaalt het aantal nietigheidsafdelingen. Hij verdeelt de taken over deze afdelingen aan de hand van de internationale classificatie.
 
@@ -984,7 +1006,7 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 4. De Voorzitter van het Europees Octrooibureau kan bepaalde taken, die op de afdeling voor de administratie van octrooien of op de nietigheidsafdelingen rusten en geen bijzondere technische of juridische moeilijkheden opleveren, toevertrouwen aan personeelsleden die geen technisch of rechtsgeleerd lid zijn.
 
-#### Regel 2. Administratieve opbouw van de bijzondere organen
+##### Regel 2. Administratieve opbouw van de bijzondere organen
 
 1. De nietigheidsafdelingen kunnen administratief met de onderzoekafdelingen en de oppositieafdelingen worden samengevoegd tot directoraten, of met de afdeling voor de administratie van octrooien een directoraat vormen.
 
@@ -992,7 +1014,7 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 ### HOOFDSTUK II. TALEN VAN DE BIJZONDERE ORGANEN
 
-#### Regel 3. Procestaal
+##### Regel 3. Procestaal
 
 1. De regels 1 tot en met 3, 5, 6, tweede lid, en 7, van het Uitvoeringsreglement bij het Europees Octrooiverdrag zijn van overeenkomstige toepassing op de procedures voor de bijzondere organen.
 
@@ -1000,11 +1022,11 @@ De bepalingen van dit Verdrag zijn van toepassing op een Europees octrooi, verle
 
 ## DEEL TWEEDE. BEPALINGEN TER UITVOERING VAN HET TWEEDE DEEL VAN HET VERDRAG
 
-#### Regel 4. Schorsing van de procedure
+##### Regel 4. Schorsing van de procedure
 
 Regel 13 van het Uitvoeringsreglement bij het Europees Octrooiverdrag is van overeenkomstige toepassing op beperkings- en nietigheidsprocedures.
 
-#### Regel 5. Inschrijving van rechtsvorderingen inzake opeising van een Gemeenschapsoctrooi
+##### Regel 5. Inschrijving van rechtsvorderingen inzake opeising van een Gemeenschapsoctrooi
 
 De in artikel 23, vierde lid, genoemde inschrijvingen geschieden:
 
@@ -1012,7 +1034,7 @@ De in artikel 23, vierde lid, genoemde inschrijvingen geschieden:
 
 - b. op verzoek van de eiser of van een andere belanghebbende.
 
-#### Regel 6. Verzoek tot indiening van vertalingen in onderzoek- en oppositieprocedures
+##### Regel 6. Verzoek tot indiening van vertalingen in onderzoek- en oppositieprocedures
 
 1. Tegelijk met het in regel 51, zesde lid, van het Uitvoeringsreglement bij het Europees Octrooiverdrag bedoelde verzoek nodigt het Europees Octrooibureau de aanvrager uit binnen de door het Bureau gestelde termijn de in artikel 29, eerste lid, voorgeschreven vertalingen in te dienen en binnen dezelfde termijn de taks voor publikatie van de vertalingen van de conclusies te betalen.
 
@@ -1022,15 +1044,15 @@ De in artikel 23, vierde lid, genoemde inschrijvingen geschieden:
 
 4. Indien de krachtens het tweede lid vereiste handelingen niet tijdig worden verricht, kunnen ze alsnog geldig geschieden binnen twee maanden na de kennisgeving van de mededeling dat de termijn verstreken is, op voorwaarde dat binnen deze termijn van twee maanden een toeslag overeenkomstig het Reglement betreffende de taksen betaald wordt.
 
-#### Regel 7. Toezending van vertalingen
+##### Regel 7. Toezending van vertalingen
 
 Het Europees Octrooibureau schrijft in het Register van Gemeenschapsoctrooien de datum in waarop de in artikel 30 voorgeschreven vertalingen zijn ingediend. De afschriften van de vertalingen worden uiterlijk binnen drie dagen na het verstrijken van de in regel 6, derde lid, bedoelde termijn per post aan de centrale diensten voor de industrile eigendom van de betrokken Verdragsluitende Staten toegezonden.
 
-#### Regel 8. Herziening van de vertaling
+##### Regel 8. Herziening van de vertaling
 
 De in artikel 29, zesde lid, bedoelde herziene vertaling heeft pas rechtsgevolgen nadat de taks voor de publikatie ervan is betaald.
 
-#### Regel 9. Inschrijving van overdrachten, en van licenties en andere rechten betreffende Gemeenschapsoctrooien in het Register
+##### Regel 9. Inschrijving van overdrachten, en van licenties en andere rechten betreffende Gemeenschapsoctrooien in het Register
 
 1. De regels 20 tot en met 22 van het Uitvoeringsreglement bij het Europees Octrooiverdrag zijn van overeenkomstige toepassing op inschrijvingen in het Register van Gemeenschapsoctrooien.
 
@@ -1042,7 +1064,7 @@ De in artikel 29, zesde lid, bedoelde herziene vertaling heeft pas rechtsgevolge
 
 5. Indien een Europese octrooiaanvrage waarin de Verdragsluitende Staten zijn aangewezen, betrokken is bij een faillissementsprocedure of een soortgelijke procedure, zijn het derde en vierde lid van overeenkomstige toepassing, waarbij in plaats van het Register van Gemeenschapsoctrooien moet worden gelezen het Europees Octrooiregister bedoeld in het Europees Octrooiverdrag.
 
-#### Regel 10. Licenties van rechtswege
+##### Regel 10. Licenties van rechtswege
 
 1. Degene die op grond van de in artikel 43, eerste lid, bedoelde verklaring de uitvinding wenst toe te passen, moet de octrooihouder per aangetekende brief daarvan kennis geven. Deze kennisgeving wordt geacht te zijn gedaan n week nadat de aangetekende brief bij de post ter verzending is aangeboden. Een afschrift van de kennisgeving met opgave van de datum waarop deze brief bij de post ter verzending is aangeboden, moet aan het Europees Octrooibureau worden gezonden. Bij gebreke hiervan beschouwt het Europees Octrooibureau in geval van intrekking van de verklaring de kennnisgeving als niet te zijn gedaan.
 
@@ -1056,23 +1078,23 @@ De in artikel 29, zesde lid, bedoelde herziene vertaling heeft pas rechtsgevolge
 
 ### HOOFDSTUK I. JAARTAKSEN
 
-#### Regel 11. Betaling van jaartaksen
+##### Regel 11. Betaling van jaartaksen
 
 1. Het eerste en tweede lid van regel 37 van het Uitvoeringsreglement bij het Europees Octrooiverdrag zijn van toepassing op de betalingen van jaartaksen voor Gemeenschapsoctrooien.
 
 2. In de zin van artikel 48, tweede lid, geldt de toeslag als gelijktijdig te zijn betaald indien hij binnen de in dat lid genoemde termijn is betaald.
 
-#### Regel 12. Termijn voor inschrijving van afstand
+##### Regel 12. Termijn voor inschrijving van afstand
 
 De in artikel 49, derde lid, bedoelde termijn bedraagt drie maanden te rekenen van de dag af waarop de octrooihouder het Europees Octrooibureau heeft aangetoond dat hij de licentiehouder in kennis heeft gesteld van zijn voornemen afstand te doen. Indien de octrooihouder vóór het verstrijken van deze termijn het Europees Octrooibureau aantoont dat de licentiehouder instemt met de afstand, kan deze onmiddellijk worden ingeschreven.
 
 ### HOOFDSTUK II. BEPERKINGSPROCEDURE
 
-#### Regel 13. Termijn voor indiening van het verzoek tot beperking
+##### Regel 13. Termijn voor indiening van het verzoek tot beperking
 
 Regel 12 is van overeenkomstige toepassing op de indiening van een verzoek om beperking van een Gemeenschapsoctrooi.
 
-#### Regel 14. Inhoud van het verzoek tot beperking
+##### Regel 14. Inhoud van het verzoek tot beperking
 
 Een verzoek tot beperking van een Gemeenschapsoctrooi dient de volgende gegevens te bevatten:
 
@@ -1082,11 +1104,11 @@ Een verzoek tot beperking van een Gemeenschapsoctrooi dient de volgende gegevens
 
 - c. indien de octrooihouder een gemachtigde heeft aangewezen, diens naam en kantooradres, overeenkomstig regel 26, tweede lid, sub c), van het Uitvoeringsreglement bij het Europees Octrooiverdrag.
 
-#### Regel 15. Niet-ontvankelijkverklaring van de verzoeker tot beperking
+##### Regel 15. Niet-ontvankelijkverklaring van de verzoeker tot beperking
 
 Indien de nietigheidsafdeling vaststelt dat het verzoek tot beperking van het Gemeenschapsoctrooi niet in overeenstemming is met artikel 51, eersteen derde lid, en met regel 14, geeft zij de octrooihouder hiervan kennis en verzoekt zij hem, de vastgestelde gebreken binnen een door haar te stellen termijn op te heffen. Indien deze gebreken niet tijdig zijn opgeheven, verklaart de nietigheidsafdeling de verzoeker niet ontvankelijk.
 
-#### Regel 16. Behandeling van het verzoek tot beperking
+##### Regel 16. Behandeling van het verzoek tot beperking
 
 1. Indien de verzoeker tot beperking van het Gemeenschapsoctrooi ontvankelijk is, moet een overeenkomstig artikel 52, tweede lid, gedane kennisgeving eventueel het verzoek aan de octrooihouder bevatten tot het in gewijzigde vorm indienen van de beschrijving, conclusies en tekeningen.
 
@@ -1098,21 +1120,21 @@ Indien de nietigheidsafdeling vaststelt dat het verzoek tot beperking van het Ge
 
 5. In de beslissing tot beperking van het Gemeenschapsoctrooi wordt de tekst van het beperkte octrooi vermeld.
 
-#### Regel 17. Hervatting van de beperkingsprocedure
+##### Regel 17. Hervatting van de beperkingsprocedure
 
 Indien de beperkingsprocedure is geschorst in verband met een nietigheidsprocedure die heeft geleid tot een in artikel 58, tweede of derde lid, bedoelde beslissing, deelt na publikatie van de vermelding van deze beslissing de nietigheidsafdeling de octrooihouder mede dat de procedure zal worden hervat nadat deze mededeling hem officieel is gedaan. Regel 13, vijfde lid, van het Uitvoeringsreglement bij het Europees Octrooiverdrag is van overeenkomstige toepassing.
 
-#### Regel 18. Andere conclusies, beschrijving en tekeningen in geval van beperking
+##### Regel 18. Andere conclusies, beschrijving en tekeningen in geval van beperking
 
 Indien tot beperking van het Gemeenschapsoctrooi voor een of meer Verdragsluitende Staten is besloten, kan het Gemeenschapsoctrooi voor die Staat of Staten eventueel andere conclusies bevatten met, zo de nietigheidsafdeling dit nodig acht, een beschrijving en tekeningen, welke afwijken van die voor de overige Verdragsluitende Staten.
 
-#### Regel 19. Vorm van het nieuwe octrooischrift na de beperkingsprocedure
+##### Regel 19. Vorm van het nieuwe octrooischrift na de beperkingsprocedure
 
 De Voorzitter van het Europees Octrooibureau bepaalt de vorm waarin het nieuwe Gemeenschapsoctrooischrift wordt gepubliceerd, alsmede de vermeldingen die daarin moeten worden opgenomen.
 
 ### HOOFDSTUK III. NIETIGHEIDSPROCEDURE
 
-#### Regel 20. Inhoud van het verzoek tot nietigverklaring
+##### Regel 20. Inhoud van het verzoek tot nietigverklaring
 
 Het verzoek tot nietigverklaring van een Gemeenschapsoctrooi dient de volgende gegevens te bevatten:
 
@@ -1124,11 +1146,11 @@ Het verzoek tot nietigverklaring van een Gemeenschapsoctrooi dient de volgende g
 
 - d. indien de verzoeker een gemachtigde heeft aangewezen, diens naam en kantooradres, overeenkomstig regel 26, tweede lid, sub c), van het Uitvoeringsreglement bij het Europees Octrooiverdrag.
 
-#### Regel 21. Zekerheidstelling voor de proceskosten
+##### Regel 21. Zekerheidstelling voor de proceskosten
 
 Zekerheid voor de proceskosten moet worden gesteld in een muntsoort waarin de taksen kunnen worden betaald. De zekerheid dient gesteld te worden bij een financiële instelling of bij een bank, die voorkomt op een lijst opgesteld door de Voorzitter van het Europese Octrooibureau. De zekerheidstelling is onderworpen aan de bepalingen van de wetgeving van de Verdragsluitende Staat op het grondgebied waarvan de instelling of bank is gevestigd.
 
-#### Regel 22. Niet-ontvankelijkverklaring van de verzoeker tot nietigverklaring
+##### Regel 22. Niet-ontvankelijkverklaring van de verzoeker tot nietigverklaring
 
 1. De nietigheidsafdeling stelt de octrooihouder van het verzoek tot nietigverklaring in kennis; deze kan binnen een maand opmerkingen maken inzake de ontvankelijkheid.
 
@@ -1136,13 +1158,13 @@ Zekerheid voor de proceskosten moet worden gesteld in een muntsoort waarin de ta
 
 3. Een beslissing waarbij een verzoeker tot nietigverklaring niet ontvankelijk wordt verklaard, wordt aan de octrooihouder medegedeeld.
 
-#### Regel 23. Voorbereiding van de behandeling van het verzoek tot nietigverklaring
+##### Regel 23. Voorbereiding van de behandeling van het verzoek tot nietigverklaring
 
 1. Indien de verzoeker tot nietigverklaring ontvankelijk is, verzoekt de nietigheidsafdeling de octrooihouder binnen een door haar te stellen termijn opmerkingen te maken en eventueel wijzigingen in de beschrijving, conclusies en tekeningen in te dienen.
 
 2. De opmerkingen van de octrooihouder en de wijzigingen die hij heeft ingediend, worden de verzoeker medegedeeld door de nietigheidsafdeling die, indien zij dit wenselijk acht, de verzoeker uitnodigt te antwoorden binnen een door haar te stellen termijn.
 
-#### Regel 24. Behandeling van het verzoek tot nietigverklaring
+##### Regel 24. Behandeling van het verzoek tot nietigverklaring
 
 1. De overeenkomstig artikel 57, tweede lid, gedane kennisgevingen en mededelingen, en de antwoorden hierop, worden ter kennis van alle partijen gebracht.
 
@@ -1158,27 +1180,27 @@ Zekerheid voor de proceskosten moet worden gesteld in een muntsoort waarin de ta
 
 7. In het besluit tot instandhouding van het octrooi in gewijzigde vorm wordt de tekst van het octrooi vermeld, waarmee het octrooi in stand blijft.
 
-#### Regel 25. Voeging van verzoeken tot nietigverklaring
+##### Regel 25. Voeging van verzoeken tot nietigverklaring
 
 1. De nietigheidsafdeling kan verzoeken tot nietigverklaring van een zelfde Gemeenschapsoctrooi voegen met het oog op gezamenlijke behandeling en beslissing.
 
 2. De nietigheidsafdeling kan een voeging waartoe zij krachtens het eerste lid heeft besloten, ongedaan maken.
 
-#### Regel 26. Andere conclusies, beschrijving en tekeningen in geval van nietigverklaring
+##### Regel 26. Andere conclusies, beschrijving en tekeningen in geval van nietigverklaring
 
 Indien tot nietigverklaring van het Gemeenschapsoctrooi voor een of meer Verdragsluitende Staten is besloten, is regel 18 van overeenkomstige toepassing.
 
-#### Regel 27. Vorm van het nieuwe octrooischrift na de nietigheidsprocedure
+##### Regel 27. Vorm van het nieuwe octrooischrift na de nietigheidsprocedure
 
 Regel 19 is van toepassing op het nieuwe octrooischrift van het Gemeenschapsoctrooi als bedoeld in artikel 59.
 
-#### Regel 28. Andere bepalingen voor de nietigheidsprocedure
+##### Regel 28. Andere bepalingen voor de nietigheidsprocedure
 
 De regels 59, 60 en 63 van het Uitvoeringsreglement bij het Europees Octrooiverdrag zijn van overeenkomstige toepassing op onderscheidenlijk het opvragen van bescheiden, de ambtshalve voortzetting van de nietigheidsprocedure en de kosten van de nietigheidsprocedure.
 
 ## DEEL VIERDE. BEPALINGEN TER UITVOERING VAN HET VIJFDE DEEL VAN HET VERDRAG
 
-#### Regel 29. Inschrijving in het Register van Gemeenschapsoctrooien
+##### Regel 29. Inschrijving in het Register van Gemeenschapsoctrooien
 
 1. Regel 92, eerste lid, sub a) tot en met sub 1), sub o), sub q) tot en met sub u), en sub w) en het tweede en derde lid van het Uitvoeringsreglement bij het Europees Octrooiverdrag is van overeenkomstige toepassing op het Register van Gemeenschapsoctrooien.
 
@@ -1200,11 +1222,11 @@ De regels 59, 60 en 63 van het Uitvoeringsreglement bij het Europees Octrooiverd
 
 - h. de aan het Europees Octrooibureau medegedeelde gegevens betreffende de in het Geschillenprotocol bedoelde procedures.
 
-#### Regel 30. Andere publikaties van het Europees Octrooibureau
+##### Regel 30. Andere publikaties van het Europees Octrooibureau
 
 De Voorzitter van het Europees Octrooibureau bepaalt de vorm waarin de vertalingen die overeenkomstig dit Verdrag door de aanvrager of de octrooihouder zijn ingediend en eventueel herziene vertalingen worden gepubliceerd; hij beslist of bijzonderheden van deze vertalingen in het Blad van Gemeenschapsoctrooien zullen worden opgenomen.
 
-#### Regel 31. Andere gemeenschappelijke bepalingen
+##### Regel 31. Andere gemeenschappelijke bepalingen
 
 De regels 36 en 106 en de bepalingen van het Zevende Deel van het Uitvoeringsreglement bij het Europees Octrooiverdrag, met uitzondering van de regels 85, derde lid, 86, 87, 92 en 96, zijn van overeenkomstige toepassing, met dien verstande dat:
 
@@ -1216,7 +1238,7 @@ De regels 36 en 106 en de bepalingen van het Zevende Deel van het Uitvoeringsreg
 
 ## DEEL VIJFDE. BEPALING TER UITVOERING VAN HET ACHTSTE DEEL VAN HET VERDRAG
 
-#### Regel 32. Keuze tussen Gemeenschapsoctrooi en Europees octrooi
+##### Regel 32. Keuze tussen Gemeenschapsoctrooi en Europees octrooi
 
 1. De in artikel 81, eerste lid, bedoelde verklaring moet worden ingediend en de taksen moeten worden betaald voordat of wanneer de aanvrager overeenkomstig regel 51, vierde lid, van het Uitvoeringsreglement bij het Europees Octrooiverdrag instemt met de tekst waarin het octrooi zal worden verleend.
 

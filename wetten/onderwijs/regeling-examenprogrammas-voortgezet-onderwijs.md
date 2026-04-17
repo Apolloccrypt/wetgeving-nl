@@ -1,13 +1,39 @@
 ---
-title: "Regeling examenprogramma’s voortgezet onderwijs"
+title: "Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juni 2007 nr. VO/OK/2007/13731, houdende vaststelling van de examenprogramma’s v.w.o., h.a.v.o. en v.m.b.o. (Regeling examenprogramma’s voortgezet onderwijs)"
 identifier: "BWBR0022061"
-categorie: "Onderwijs"
-publicatiedatum: 2025-02-12
-laatste_update: 2025-02-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022061"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-02-12"
+last_updated: "2025-02-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022061"
+soort: "ministeriele-regeling"
+stam_id: "9115353"
+version_id: "29886052"
+internal_id: "C42923371"
+label_id: "9094284"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022061/2025-02-12/0"
+intitule_bron: "Stcrt.2007-111"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-04"
+intitule_published: "2007-06-13"
+intitule_in_force: "2007-06-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-94"
+original_signed_date: "2023-12-03"
+original_published_date: "2024-01-10"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2024-94"
+entry_into_force_date: "2024-01-11"
+jci_1_3: "jci1.3:c:BWBR0022061&z=2025-02-12&g=2025-02-12"
+jci_1_0: "1.0:c:BWBR0022061&g=2025-02-12"
+citeertitel_status: "officieel"
+short_title: "Regeling examenprogramma’s voortgezet onderwijs"
+signed_date: "2023-12-03"
+entry_into_force: "2024-01-11"
 ---
-
 # Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 4 juni 2007 nr. VO/OK/2007/13731, houdende vaststelling van de examenprogramma’s v.w.o., h.a.v.o. en v.m.b.o. (Regeling examenprogramma’s voortgezet onderwijs)
 
 Mede namens de Minister van Landbouw, Natuur en Voedselkwaliteit;
@@ -16,15 +42,15 @@ Gelet op [artikel 7 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](h
 
 Besluit:
 
-#### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
+##### Artikel 1. Vaststelling examenprogramma’s v.w.o en h.a.v.o.
 
 De examenprogramma’s v.w.o. en h.a.v.o. worden vastgesteld zoals aangegeven in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0022061&bijlage=1&z=2025-02-12&g=2025-02-12) bij deze regeling.
 
-#### Artikel 2. Vaststelling examenprogramma’s vmbo
+##### Artikel 2. Vaststelling examenprogramma’s vmbo
 
 De examenprogramma’s v.m.b.o. worden vastgesteld zoals aangegeven in bijlage 2 bij deze regeling.
 
-#### Artikel 3. Intrekking regelingen examenprogramma’s v.w.o. en h.a.v.o.
+##### Artikel 3. Intrekking regelingen examenprogramma’s v.w.o. en h.a.v.o.
 
 De volgende regelingen worden ingetrokken:
 
@@ -68,7 +94,7 @@ De volgende regelingen worden ingetrokken:
 
 - t. [Regeling toelating centraal examen vwo en havo](https://wetten.overheid.nl/jci1.3:c:BWBR0013576).
 
-#### Artikel 4. Intrekking regelingen examenprogramma’s vmbo
+##### Artikel 4. Intrekking regelingen examenprogramma’s vmbo
 
 De volgende regelingen worden ingetrokken:
 
@@ -118,15 +144,15 @@ De volgende regelingen worden ingetrokken:
 
 - w. [Regeling intrasectoraal programma zorg-en-welzijn-breed vmbo](https://wetten.overheid.nl/jci1.3:c:BWBR0011318)
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 augustus 2007 en is voor het eerst van toepassing op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vwo of havo en op de leerlingen die in het schooljaar 2007–2008 beginnen met het vierde leerjaar vmbo.
 
-#### Artikel 6. Citeertitel
+##### Artikel 6. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onderwijs.
 
@@ -136,7 +162,7 @@ Deze regeling wordt aangehaald als: Regeling examenprogramma’s voortgezet onde
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 6a
+##### Artikel 6a
 
 Vervallen
 
@@ -5174,7 +5200,7 @@ Doelzin: De leerling gebruikt doelgericht rekenvaardigheden tijdens het uitvoere
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd in de bibliotheek van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
-#### Artikel 1a. Omhangbepaling
+##### Artikel 1a. Omhangbepaling
 
 Deze regeling berust op [artikel 2.54 van de Wet voortgezet onderwijs 2020](https://wetten.overheid.nl/jci1.3:c:BWBR0044212&artikel=2.54).
 

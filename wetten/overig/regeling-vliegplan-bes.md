@@ -1,24 +1,49 @@
 ---
 title: "Regeling vliegplan BES"
 identifier: "BWBR0028687"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028687"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028687"
+soort: "ministeriele-regeling-BES"
+stam_id: "10934113"
+version_id: "17918712"
+internal_id: "C24987671"
+label_id: "10908714"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028687/2010-10-10/0"
+intitule_bron: "Stcrt.2010-14858"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-21"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2010-14858"
+original_signed_date: "2010-09-21"
+original_published_date: "2010-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2010-14858"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028687&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028687&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-09-21"
+entry_into_force: "2010-10-10"
 ---
-
 # Regeling vliegplan BES
 
 Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uur in het Europese deel van Nederland.
 
-#### Artikel 1
+##### Artikel 1
 
 - 1. Voor het opgeven van de gegevens van een vliegplan wordt gebruik gemaakt van het vliegplanformulier, en de daarbij behorende aanwijzingen, als aangegeven in ICAO DOC 4444 ATM/501 (Procedures for Air Navigation Services Air Traffic Management) in appendix 2 ‘flightplan’, zoals opgenomen in de bijlage ‘ICAO documenten behorende bij diverse luchtvaartregelingen’.
 
 - 2. Van een wijziging in de bijlage wordt mededeling gedaan in de Staatscourant.
 
-#### Artikel 2
+##### Artikel 2
 
 - 1. Behoudens het gestelde in het derde lid wordt een vliegplan ingediend vóór de aanvang van een vlucht bij een luchtverkeersmeldingspost op het luchtvaartterrein van vertrek op een vliegplanformulier als bedoeld in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028687&artikel=1&z=2010-10-10&g=2010-10-10).
 
@@ -50,13 +75,13 @@ Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uu
 
 - 8. Een vliegplan kan tijdens de vlucht per radio worden gezonden, indien het vliegplan slechts betrekking heeft op een deel van de vlucht. Dit is niet van toepassing op lokale vluchten.
 
-#### Artikel 3
+##### Artikel 3
 
 - 1. Indien het vertrek van een vlucht waarvoor een vliegplan is ingediend dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken luchtverkeersmeldingspost of luchtverkeersdienst, voor zover er geen luchtverkeersmeldingspost aanwezig is nadat het oorspronkelijke vliegplan is geannuleerd.
 
 - 2. Indien een vlucht waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken luchtverkeersdienst daarover terstond ingelicht door annulering van het vliegplan.
 
-#### Artikel 4
+##### Artikel 4
 
 - 1. Zo spoedig mogelijk na afloop van een vlucht, of deel van een vlucht, waarvoor een vliegplan is ingediend tot aan het luchtvaartterrein van bestemming, wordt in persoon of per radio een aankomstmelding gedaan aan de betrokken luchtverkeersleidingdienst op het luchtvaartterrein van aankomst.
 
@@ -80,11 +105,11 @@ Treedt in werking om 00:00 uur in Bonaire, Sint Eustatius en Saba en om 06:00 uu
 
 - 6. Het eerste lid is niet van toepassing indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerd luchtvaartterrein tijdens de periode waarin plaatselijke luchtverkeersleiding wordt verleend.
 
-#### Artikel 5
+##### Artikel 5
 
 Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein anders dan het luchtvaartterrein van bestemming volgens het geldend vliegplan, wordt bij aankomst de melding, zo spoedig mogelijk na afloop van de vlucht telefonisch gedaan aan de luchtverkeersmeldingspost van het luchtvaartterrein van bestemming dan wel de betrokken luchtverkeersdienst.
 
-#### Artikel 6
+##### Artikel 6
 
 - 1. Voor een vlucht met als bestemming een ongecontroleerd luchtvaartterrein op Bonaire, Sint Eustatius en Saba is de luchthavenmeester van het luchtvaartterrein van bestemming belast met het initiëren van de alarmering.
 
@@ -94,13 +119,13 @@ Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein an
 
 De supervisor stelt zo spoedig mogelijk de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba in kennis van de alarmering.
 
-#### Artikel 7
+##### Artikel 7
 
 - 1. De [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0028687&artikel=1&z=2010-10-10&g=2010-10-10), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0028687&artikel=2&z=2010-10-10&g=2010-10-10) en [3](https://wetten.overheid.nl/jci1.3:c:BWBR0028687&artikel=3&z=2010-10-10&g=2010-10-10) zijn niet van toepassing als een ‘RPL’ ( repetitive flight plan) is ingediend. Een RPL kan worden gebruikt voor een IFR vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor tenminste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.
 
 - 2. Een RPL wordt slechts gebruikt voor vluchten die vanaf het luchtvaartterrein van vertrek tot het luchtvaartterrein van bestemming worden uitgevoerd.
 
-#### Artikel 8
+##### Artikel 8
 
 - 1. Een RPL wordt ingediend in de vorm van een lijst die de vereiste vliegplangegevens bevat, gebruik makend van het ‘ICAO model repetitive flight plan (RPL) listing form’, overeenkomstig de aanwijzingen gegeven in ICAO DOC 4444 ATM/501 (Procedures for Air Navigation Services Air Traffic Management) in appendix 2 ‘flightplan’ of in een andere overeengekomen vorm.
 
@@ -110,11 +135,11 @@ De supervisor stelt zo spoedig mogelijk de Kustwacht voor Aruba, Curaçao en Sin
 
 - 4. Vliegplangegevens die niet van een repeterende aard zijn worden door of namens de gezagvoerder ten tijde van het vertrek verzonden naar de luchtverkeersmeldingspost.
 
-#### Artikel 9
+##### Artikel 9
 
 RPL wijzigingen van duurzame aard betreffende het invoegen van nieuwe vluchten en het annuleren of wijzigen van bestaande vluchten, worden ingediend in de vorm van gewijzigde lijsten, die de luchtverkeersmeldingspost tenminste twee weken voordat zij van kracht worden dienen te bereiken.
 
-#### Artikel 10
+##### Artikel 10
 
 - 1. RPL wijzigingen van incidentele aard met betrekking tot het type luchtvaartuig en de zogturbulentie-categorie, snelheid of kruishoogte, worden voor elke individuele vlucht zo snel mogelijk en niet later dan 60 minuten vóór vertrek ingediend bij de betrokken luchtverkeersmeldingspost. Slechts een wijziging van een kruishoogte kan bij het eerste radiocontact met de plaatselijke luchtverkeersleidingsdienst worden doorgegeven.
 
@@ -126,18 +151,18 @@ RPL wijzigingen van duurzame aard betreffende het invoegen van nieuwe vluchten e
 
 - 5. Zodra bekend is dat een vlucht waarvoor een repeterend vliegplan is ingediend geannuleerd is, wordt dit gemeld aan de plaatselijke luchtverkeersleidingdienst en de betrokken luchtverkeersmeldingspost.
 
-#### Artikel 11
+##### Artikel 11
 
 De laatste vliegplangegevens met betrekking tot een bepaalde vlucht, met inbegrip van permanente en incidentele wijzigingen die tijdig aan de betrokken instantie zijn verstrekt, worden tevens aan de gezagvoerder bekendgemaakt teneinde de gezagvoerder in staat te stellen eventuele voor die vlucht vereiste wijzigingen te onderkennen en te melden aan de betrokken luchtverkeersdienst.
 
-#### Artikel 12
+##### Artikel 12
 
 Het bepaalde in de voorgaande artikelen geldt niet indien door de betrokken luchtverkeersleidingdienst ontheffing wordt verleend.
 
-#### Artikel 13
+##### Artikel 13
 
 Deze regeling wordt aangeduid als: Regeling vliegplan BES
 
-#### Artikel 14
+##### Artikel 14
 
 Deze regeling berust op [artikel 103, tweede lid, van het Besluit luchtverkeer BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028639&artikel=103).

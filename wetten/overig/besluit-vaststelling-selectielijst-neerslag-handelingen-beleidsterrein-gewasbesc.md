@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1953 (College voor de Toelating van Bestrijdingsmiddelen )"
+title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1953 (College voor de Toelating van Bestrijdingsmiddelen)"
 identifier: "BWBR0022257"
-categorie: "Overig"
-publicatiedatum: 2007-07-26
-laatste_update: 2007-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0022257"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2007-07-26"
+last_updated: "2007-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0022257"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "9158963"
+version_id: "14654452"
+internal_id: "C25327151"
+label_id: "9137764"
+dtd_version: "2.0"
+original_entry_into_force: "2007-07-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0022257/2007-07-26/0"
+intitule_bron: "Stcrt.2007-140"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-04"
+intitule_published: "2007-07-24"
+intitule_in_force: "2007-07-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2007-140"
+original_signed_date: "2007-07-04"
+original_published_date: "2007-07-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2007-140-p28-SC81327"
+entry_into_force_date: "2007-07-26"
+jci_1_3: "jci1.3:c:BWBR0022257&z=2007-07-26&g=2007-07-26"
+jci_1_0: "1.0:c:BWBR0022257&g=2007-07-26"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1953 (College voor de Toelating van Bestrijdingsmiddelen )"
+signed_date: "2007-07-04"
+entry_into_force: "2007-07-26"
 ---
-
 # Besluit vaststelling selectielijst neerslag handelingen beleidsterrein Gewasbescherming vanaf 1953 (College voor de Toelating van Bestrijdingsmiddelen)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995;](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5)
@@ -16,11 +42,11 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 28 juni 2007, 
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van het College voor de Toelating van Bestrijdingsmiddelen en de onder hem ressorterende actoren op het beleidsterrein Gewasbescherming over de periode vanaf 1953’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

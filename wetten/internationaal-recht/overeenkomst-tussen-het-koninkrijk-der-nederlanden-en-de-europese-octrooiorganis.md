@@ -1,13 +1,39 @@
 ---
-title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in 's-Gravenhage, inclusief Afzonderlijke overeenkomst"
+title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage, inclusief Afzonderlijke overeenkomst"
 identifier: "BWBV0001811"
-categorie: "Internationaal recht"
-publicatiedatum: 2006-06-27
-laatste_update: 2006-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001811"
+country: "nl"
+rank: "verdrag"
+publication_date: "2006-06-27"
+last_updated: "2006-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001811"
+soort: "verdrag"
+stam_id: "10002519253"
+version_id: "10002505622"
+internal_id: "C10009093841"
+label_id: "10002508884"
+dtd_version: "2.0"
+original_entry_into_force: "2006-06-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001811/2006-06-27/0"
+intitule_bron: "Trb.2006-155"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-06-27"
+intitule_published: "2006-08-10"
+intitule_in_force: "2006-08-10"
+intitule_status: "goed"
+original_publication: "Trb.2006-155"
+original_signed_date: "2006-06-27"
+original_published_date: "2006-08-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2006-155"
+entry_into_force_date: "2006-06-27"
+jci_1_3: "jci1.3:c:BWBV0001811&z=2006-06-27&g=2006-06-27"
+jci_1_0: "1.0:c:BWBV0001811&g=2006-06-27"
+citeertitel_status: "redactioneel"
+short_title: "Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in 's-Gravenhage, inclusief Afzonderlijke overeenkomst"
+signed_date: "2006-06-27"
+entry_into_force: "2006-06-27"
 ---
-
 # Overeenkomst tussen het Koninkrijk der Nederlanden en de Europese Octrooiorganisatie betreffende het onderdeel van het Europees Octrooibureau in ’s-Gravenhage, inclusief Afzonderlijke overeenkomst
 
 Het Koninkrijk der Nederlanden
@@ -24,7 +50,7 @@ Overwegende dat ingevolge artikel 6 van genoemd Verdrag het Europees Octrooibure
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In deze Overeenkomst:
 
@@ -44,21 +70,21 @@ In deze Overeenkomst:
 
 - h. wordt onder „Afzonderlijke overeenkomst’’ verstaan de Afzonderlijke overeenkomst houdende de omschrijving van inwonende gezinsleden van een personeelslid.
 
-#### Artikel 2. Onschendbaarheid van het archief
+##### Artikel 2. Onschendbaarheid van het archief
 
 De in artikel 2 van het Protocol bedoelde onschendbaarheid geldt voor het gehele archief, de correspondentie, documenten, manuscripten, foto’s, films, geluidsopnamen, computer- en mediagegevens, gegevensdragers en alle overige, soortgelijke materialen die aan de Organisatie toebehoren of die zij onder zich houdt, ongeacht waar deze zich bevinden en bij wie zij berusten, en voor alle daarin vervatte informatie.
 
-#### Artikel 3. Afstand van immuniteit
+##### Artikel 3. Afstand van immuniteit
 
 In geval van beslaglegging door een derde, ingevolge een beslissing van de administratieve of gerechtelijke autoriteiten, op de salarissen en emolumenten die de Organisatie aan een personeelslid verschuldigd is, doet de Organisatie afstand van de immuniteit die zij ingevolge artikel 3, eerste lid, van het Protocol geniet, tenzij zij de bevoegde autoriteiten binnen veertien dagen na de datum van kennisgeving van de beslissing mededeelt, dat zij geen afstand doet van haar immuniteit.
 
-#### Artikel 4. Vrijstelling van belasting
+##### Artikel 4. Vrijstelling van belasting
 
 1. Voor de toepassing van artikel 4, eerste lid, van het Protocol omvat „directe belastingen’’ alle directe rijksbelastingen en alle directe belastingen, rechten en heffingen opgelegd door een provincie, gemeente of waterschap, zulks onverminderd het bepaalde in het derde lid van genoemd artikel.
 
 2. De Organisatie wordt op verzoek vrijgesteld van motorrijtuigenbelasting voor haar motorrijtuigen die voor officiële doeleinden worden gebruikt.
 
-#### Artikel 5. Terugbetaling van belastingen en rechten
+##### Artikel 5. Terugbetaling van belastingen en rechten
 
 1. De onderstaande belastingen en rechten worden met name geacht te vallen onder artikel 4, tweede lid, van het Protocol:
 
@@ -80,7 +106,7 @@ De Organisatie verbindt zich ertoe de verificatie door de bevoegde autoriteiten 
 
 Er wordt geen terugbetaling verleend, indien de prijs van de geleverde goederen of de verrichte diensten niet hoger is dan 225 euro per transactie.
 
-#### Artikel 6. Vervreemding van goederen
+##### Artikel 6. Vervreemding van goederen
 
 1. Door de Organisatie op de voorwaarden vervat in artikel 4, tweede lid, van het Protocol verworven goederen mogen niet worden verkocht, weggegeven, verhuurd of op andere wijze vervreemd, tenzij de bevoegde autoriteiten vooraf daarvan in kennis zijn gesteld en de desbetreffende omzetbelasting is betaald. De te betalen belasting wordt berekend op basis van de alsdan geldende waarde van de goederen.
 
@@ -88,7 +114,7 @@ Er wordt geen terugbetaling verleend, indien de prijs van de geleverde goederen 
 
 3. De op de aangifte ten invoer aangegeven waarde dient te zijn de waarde van de goederen op de dag van aangifte; het op de datum van aangifte van kracht zijnde tarief is van toepassing.
 
-#### Artikel 7. Tewerkstellingsvergunning, verblijfsvergunning, verplichte registratie
+##### Artikel 7. Tewerkstellingsvergunning, verblijfsvergunning, verplichte registratie
 
 1. Personeelsleden van het Bureau die hun werkzaamheden in Nederland uitoefenen:
 
@@ -104,7 +130,7 @@ Er wordt geen terugbetaling verleend, indien de prijs van de geleverde goederen 
 
 4. Onverminderd het bepaalde in het derde lid, hebben voormalige personeelsleden van het Bureau en hun inwonende gezinsleden of voormalige inwonende gezinsleden aanspraak op verblijfsrecht in Nederland conform de Nederlandse vreemdelingenwetgeving. Voor de verkrijging van het verblijfsrecht ingevolge de Nederlandse vreemdelingenwetgeving wordt elke periode van legitiem verblijf in Nederland, als geprivilegieerd persoon of ingevolge de vreemdelingenwetgeving, opgebouwd vóór of tijdens het dienstverband van het betrokken personeelslid bij het onderdeel, in aanmerking genomen en meegeteld.
 
-#### Artikel 8. Identiteitskaarten
+##### Artikel 8. Identiteitskaarten
 
 1. De Organisatie zal de Regering onverwijld in kennis stellen van:
 
@@ -134,7 +160,7 @@ Er wordt geen terugbetaling verleend, indien de prijs van de geleverde goederen 
 
 6. De Organisatie zal de identiteitskaarten van de in het tweede lid genoemde personen onmiddellijk na beëindiging van de tewerkstelling van de betrokken personen terugzenden, met inachtneming van de in artikel 7, derde lid, gestelde redelijke termijn.
 
-#### Artikel 9. Voorrechten en immuniteiten van de Voorzitter en het hoofd van het onderdeel
+##### Artikel 9. Voorrechten en immuniteiten van de Voorzitter en het hoofd van het onderdeel
 
 1. De Voorzitter van het Bureau geniet bij bezoeken aan Nederland dezelfde voorrechten en immuniteiten als die welke door Nederland worden verleend aan hoofden van diplomatieke vertegenwoordigingen in Nederland overeenkomstig het Verdrag van Wenen.
 
@@ -146,7 +172,7 @@ Er wordt geen terugbetaling verleend, indien de prijs van de geleverde goederen 
 
 5. Dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland.
 
-#### Artikel 10. Voorrechten en immuniteiten van de personeelsleden van het Bureau
+##### Artikel 10. Voorrechten en immuniteiten van de personeelsleden van het Bureau
 
 1. Personeelsleden van het Bureau die hun werkzaamheden in Nederland uitoefenen,
 
@@ -166,21 +192,21 @@ genieten dezelfde voorrechten en immuniteiten als die welke door Nederland worde
 
 6. Dit artikel is niet van toepassing op personen die de Nederlandse nationaliteit bezitten of duurzaam verblijf houden in Nederland.
 
-#### Artikel 11. Bedienden
+##### Artikel 11. Bedienden
 
 1. Voor de tijdsduur van hun verblijf in Nederland is het personeelsleden van het Bureau die hun werkzaamheden in Nederland uitoefenen toegestaan om huisbedienden of, waar van toepassing, particuliere bedienden in dienst te hebben.
 
 2. De in het eerste lid bedoelde huis- of particuliere bedienden behoeven geen tewerkstellingsvergunning en geen verblijfsvergunning te hebben.
 
-#### Artikel 12. Progressie
+##### Artikel 12. Progressie
 
 Bij de berekening van de belasting die verschuldigd is over inkomsten uit andere bronnen zal Nederland geen door de Organisatie verrichte betalingen in aanmerking nemen die ingevolge het Protocol zijn vrijgesteld van nationale inkomstenbelasting.
 
-#### Artikel 13. Rijbewijs
+##### Artikel 13. Rijbewijs
 
 Voor de tijdsduur van hun tewerkstelling is het personeelsleden van het Bureau, hun inwonende gezinsleden en hun huis- of particuliere bedienden toegestaan een Nederlands rijbewijs te verkrijgen onder overlegging van hun geldige buitenlandse rijbewijs dan wel met hun eigen, geldige buitenlandse rijbewijs te blijven rijden, mits de houder in het bezit is van een door de Regering afgegeven identiteitskaart.
 
-#### Artikel 14. Binnenkomst, verblijf en vertrek
+##### Artikel 14. Binnenkomst, verblijf en vertrek
 
 1. De Regering vergemakkelijkt het binnenkomen, het verblijf en het vertrek van de hierna vermelde personen:
 
@@ -196,43 +222,43 @@ Voor de tijdsduur van hun tewerkstelling is het personeelsleden van het Bureau, 
 
 3. Deze regeling laat de mogelijkheid onverlet om te verlangen dat redelijk bewijs wordt geleverd waaruit blijkt dat personen die zich beroepen op de behandeling waarin deze regeling voorziet, tot de in het eerste lid omschreven categorieën behoren.
 
-#### Artikel 15. Onderdanen en personen die duurzaam verblijf houden
+##### Artikel 15. Onderdanen en personen die duurzaam verblijf houden
 
 1. Personen van Nederlandse nationaliteit en personen zoals bedoeld in artikel 22, letter (b), van het Protocol die hun werkzaamheden in Nederland uitoefenen, genieten niet de voorrechten en immuniteiten vervat in artikel 12, eerste lid, letters (a), (e) en (f), artikel 13, artikel 14, letters (b), (e) en (g), en artikel 15, letter (c) van het Protocol, en artikel 7, eerste lid, letter (c), van deze Overeenkomst.
 
 2. Personeelsleden van het Bureau die de Nederlandse nationaliteit bezitten of de personeelsleden bedoeld in artikel 22, letter (b), van het Protocol, die hun werkzaamheden in Nederland uitoefenen, wier namen, uit hoofde van hun taak, zijn opgenomen op een door de Organisatie opgestelde en door de Minister van Defensie van het Koninkrijk der Nederlanden goedgekeurde lijst, zijn vrijgesteld van militaire dienstplicht. Ingeval andere personen van Nederlandse nationaliteit en andere personen duurzaam verblijf houden in Nederland, worden opgeroepen voor militaire dienst, verleent de Minister van Defensie van het Koninkrijk der Nederlanden hun op verzoek van de Organisatie zodanig uitstel als vereist is om onderbreking van noodzakelijk werk te vermijden.
 
-#### Artikel 16. Bureaufaciliteiten
+##### Artikel 16. Bureaufaciliteiten
 
 De Regering erkent dat bepaalde diensten, voorzieningen en ondersteuning nodig zijn voor het naar behoren en efficiënte functioneren van het Bureau en zal zich inspannen om het Bureau bij te staan bij het bewerkstelligen en in stand houden van het naar behoren functioneren van de faciliteiten van het Bureau in Nederland.
 
-#### Artikel 17. Kantoorruimten van het onderdeel
+##### Artikel 17. Kantoorruimten van het onderdeel
 
 De kantoorruimten van het onderdeel in de zin van artikel 1 van het Protocol omvatten gebouwen, delen van gebouwen en daarbij behorende grond of voorzieningen, daaronder begrepen installaties en voorzieningen die aan de Organisatie in Nederland ter beschikking zijn gesteld of door haar worden onderhouden, ingenomen of gebruikt voor de uitoefening van haar officiële werkzaamheden. De Voorzitter van het Bureau doet de Regering een plattegrond hiervan toekomen.
 
-#### Artikel 18. Gezamenlijke overlegcommissie
+##### Artikel 18. Gezamenlijke overlegcommissie
 
 1. Een Gezamenlijke overlegcommissie vergemakkelijkt de uitvoering van deze Overeenkomst en kan zich via overleg tussen de desbetreffende autoriteiten van het Koninkrijk der Nederlanden en de Organisatie ook over andere administratieve vraagstukken buigen. De Commissie vergadert ten minste eenmaal per jaar en kan op verzoek van de Regering of de Organisatie op elk ander tijdstip bijeenkomen.
 
 2. De Voorzitter van de Commissie wordt benoemd bij wederzijdse overeenkomst tussen de Regering en de Organisatie.
 
-#### Artikel 19. Geschillen
+##### Artikel 19. Geschillen
 
 Geschillen voortvloeiend uit de uitleg of toepassing van deze Overeenkomst die niet rechtstreeks tussen de partijen kunnen worden beslecht, kunnen door een der partijen worden voorgelegd aan een scheidsgerecht. Artikel 23, vierde lid, en artikel 24 van het Protocol zijn van toepassing.
 
-#### Artikel 20. Wijzigingen
+##### Artikel 20. Wijzigingen
 
 Op verzoek van de Regering of van de Organisatie vindt overleg plaats omtrent de uitvoering of wijziging van deze Overeenkomst.
 
-#### Artikel 21. Gunstigste behandeling
+##### Artikel 21. Gunstigste behandeling
 
 Indien en voor zover de Regering in de toekomst een overeenkomst aangaat met, of haar beleid wijzigt ten aanzien van, een intergouvernementele organisatie met in deze overeenkomst of dit beleid voorwaarden die voor die organisatie gunstiger zijn dan vergelijkbare voorwaarden in deze Overeenkomst, zal op verzoek van de Organisatie overleg worden aangegaan met als doel te bespreken of dezelfde behandeling aan de Organisatie kan worden verleend.
 
-#### Artikel 22. Status van de Afzonderlijke overeenkomst
+##### Artikel 22. Status van de Afzonderlijke overeenkomst
 
 De gelijktijdig met deze Overeenkomst gesloten Afzonderlijke overeenkomst is een integrerend onderdeel van deze Overeenkomst. Iedere verwijzing naar deze Overeenkomst omvat mede de Afzonderlijke overeenkomst.
 
-#### Artikel 23. Inwerkingtreding en duur
+##### Artikel 23. Inwerkingtreding en duur
 
 1. Deze Overeenkomst treedt in werking op de dag van ondertekening. Zij blijft van kracht zolang het Verdrag en het Protocol van kracht blijven voor het Koninkrijk der Nederlanden.
 

@@ -1,13 +1,35 @@
 ---
-title: "Kortingsbesluit WIV"
+title: "Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet"
 identifier: "BWBR0004490"
-categorie: "Bestuursrecht"
-publicatiedatum: 2015-02-01
-laatste_update: 2015-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004490"
+country: "nl"
+rank: "amvb"
+publication_date: "2015-02-01"
+last_updated: "2015-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004490"
+soort: "AMvB"
+stam_id: "437553"
+version_id: "642292"
+internal_id: "C642291"
+label_id: "425544"
+dtd_version: "2.0"
+original_entry_into_force: "1983-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004490/2015-02-01/0"
+intitule_bron: "Stb.1989-54"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1989-01-23"
+intitule_status: "goed"
+original_publication: "Stb.1989-54"
+original_signed_date: "1989-01-23"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1983-01-01"
+jci_1_3: "jci1.3:c:BWBR0004490&z=2015-02-01&g=2015-02-01"
+jci_1_0: "1.0:c:BWBR0004490&g=2015-02-01"
+citeertitel_status: "officieel"
+short_title: "Kortingsbesluit WIV"
+signed_date: "1989-01-23"
+entry_into_force: "1983-01-01"
 ---
-
 # Besluit van 23 januari 1989, houdende regels betreffende de met het buitengewoon pensioen te verrekenen inkomsten, bedoeld in artikel 16, eerste lid, van de Wet buitengewoon pensioen Indisch verzet
 
 Op de voordracht van Onze Minister van Welzijn, Volksgezondheid en Cultuur van 12 juli 1988, DVV/WJZ/U-11958;
@@ -22,7 +44,7 @@ Gezien het nader rapport van Onze Minister van Welzijn, Volksgezondheid en Cultu
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder:
 
@@ -34,7 +56,7 @@ Hebben goedgevonden en verstaan:
 
 2. Voor de toepassing van dit besluit worden mede als gehuwd of als echtgenoot aangemerkt degenen die als zodanig worden aangemerkt ingevolge het bepaalde bij of krachtens [artikel 1, derde tot en met vijfde lid, van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=1) (**Stb.** 1990, 129).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Als het bedrag van de te verrekenen inkomsten, bedoeld in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=16) en [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=23), wordt, behoudens het bepaalde in of krachtens [artikel 16, tweede lid, onder b, derde en vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=16) en in de volgende artikelen van dit besluit, aangemerkt het totaal van de door de gepensioneerde verworven inkomensbestanddelen, verminderd met het buitengewoon pensioen ingevolge de wet.
 
@@ -48,7 +70,7 @@ Hebben goedgevonden en verstaan:
 
 4. Indien inkomen in verband met arbeid in beroep of bedrijf wordt genoten, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen het totale bedrag in aanmerking genomen of, voor zover het pensioenen of wachtgelden betreft, welke krachtens een van overheidswege vastgesteld voorschrift in verband met het genot van inkomsten aan vermindering onderworpen zijn, het uit dien hoofde verminderde bedrag.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Inkomsten uit vermogen, daaronder mede begrepen de belastbare inkomsten uit eigen woning in de zin van de [Wet IB 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0011353), worden met het buitengewoon pensioen verrekend.
 
@@ -56,7 +78,7 @@ Hebben goedgevonden en verstaan:
 
 3. Indien het bedrag van de inkomsten uit vermogen, bedoeld in het eerste en tweede lid, negatief is, wordt daarmede geen rekening gehouden.
 
-#### Artikel 4
+##### Artikel 4
 
 Indien een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221) wordt genoten, wordt voor de verrekening van dat inkomensbestanddeel met het buitengewoon pensioen in aanmerking genomen:
 
@@ -70,7 +92,7 @@ Indien een ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten
 
 - e. indien de gepensioneerde ongehuwd is en niet behoort tot de categorie, bedoeld onder **d**, het bruto-ouderdomspensioen krachtens de [Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221).
 
-#### Artikel 5
+##### Artikel 5
 
 Voor de verrekening met het buitengewoon pensioen worden niet in aanmerking genomen:
 
@@ -90,35 +112,35 @@ Voor de verrekening met het buitengewoon pensioen worden niet in aanmerking geno
 
 - h. de tegemoetkoming, bedoeld in [artikel 29a van de Algemene nabestaandenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0007795&artikel=29a) en [artikel 33a van de Algemene Ouderdomswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002221&artikel=33a).
 
-#### Artikel 6
+##### Artikel 6
 
 Ten aanzien van in het buitenland verworven inkomensbestanddelen vergelijkbaar met de in dit besluit genoemde inkomensbestanddelen vindt dit besluit overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Indien een gepensioneerde inkomsten geniet of gaat genieten, die ingevolge dit besluit voor verrekening met het buitengewoon pensioen in aanmerking komen, doet hij terstond mededeling aan de Sociale verzekeringsbank van de aard van die inkomsten en het daarmede gemoeide bedrag.
 
-#### Artikel 9
+##### Artikel 9
 
 Met de controle op de in de [artikelen 16](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=16) en [23 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003968&artikel=23) bedoelde inkomsten zijn in het bijzonder belast de inspecteurs der belastingen. Zij ontvangen van de Sociale verzekeringsbank opgave van de gepensioneerden die in hun ambtsgebied woonachtig zijn en handelen overigens naar de door Onze Minister van Financiën te geven aanwijzingen.
 
-#### Artikel 10
+##### Artikel 10
 
 Vervallen
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
-#### Artikel 12
+##### Artikel 12
 
 Vervallen
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst en werkt met uitzondering van de [artikelen 1, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=1&z=2015-02-01&g=2015-02-01), en [4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) terug tot en met 1 januari 1983.
 
@@ -126,7 +148,7 @@ Vervallen
 
 3. [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0004490&artikel=4&z=2015-02-01&g=2015-02-01) werkt terug tot en met 1 april 1988.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit kan worden aangehaald als Kortingsbesluit WIV.
 

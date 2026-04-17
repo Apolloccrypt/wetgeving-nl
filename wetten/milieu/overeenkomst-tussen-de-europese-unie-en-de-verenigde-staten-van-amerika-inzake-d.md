@@ -1,13 +1,35 @@
 ---
 title: "Overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake de verwerking en overdracht van persoonsgegevens van passagiers (PNR-gegevens) door luchtvaartmaatschappijen aan het Ministerie van Binnenlandse Veiligheid van de Verenigde Staten van Amerika (PNR-Overeenkomst 2007)"
 identifier: "BWBV0002630"
-categorie: "Milieu"
-publicatiedatum: 2007-07-26
-laatste_update: 2007-07-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002630"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-07-26"
+last_updated: "2007-07-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002630"
+soort: "verdrag"
+stam_id: "10002954653"
+version_id: "10002957272"
+internal_id: "C10008275161"
+label_id: "10002941314"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002630/2007-07-26/0"
+intitule_bron: "Trb.2007-129"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-07-26"
+intitule_published: "2007-08-08"
+intitule_status: "nogniet"
+original_publication: "Trb.2007-129"
+original_signed_date: "2007-07-26"
+original_published_date: "2007-08-08"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2007-129"
+jci_1_3: "jci1.3:c:BWBV0002630&z=2007-07-26&g=2007-07-26"
+jci_1_0: "1.0:c:BWBV0002630&g=2007-07-26"
+citeertitel_status: "redactioneel"
+signed_date: "2007-07-26"
+entry_into_force: "2007-08-08"
 ---
-
 # Overeenkomst tussen de Europese Unie en de Verenigde Staten van Amerika inzake de verwerking en overdracht van persoonsgegevens van passagiers (PNR-gegevens) door luchtvaartmaatschappijen aan het Ministerie van Binnenlandse Veiligheid van de Verenigde Staten van Amerika (PNR-Overeenkomst 2007)
 
 De Europese Unie

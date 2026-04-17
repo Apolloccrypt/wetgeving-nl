@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies 2022"
 identifier: "BWBR0047275"
-categorie: "Verkeer"
-publicatiedatum: 2022-10-14
-laatste_update: 2022-10-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047275"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-10-14"
+last_updated: "2022-10-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047275"
+soort: "zbo"
+stam_id: "16513713"
+version_id: "28945382"
+internal_id: "C40975411"
+label_id: "16435394"
+dtd_version: "2.0"
+original_entry_into_force: "2022-10-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047275/2022-10-14/0"
+intitule_bron: "Stcrt.2022-26929"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-03"
+intitule_published: "2022-10-13"
+intitule_in_force: "2022-10-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-26929"
+original_signed_date: "2022-10-03"
+original_published_date: "2022-10-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-26929"
+entry_into_force_date: "2022-10-14"
+jci_1_3: "jci1.3:c:BWBR0047275&z=2022-10-14&g=2022-10-14"
+jci_1_0: "1.0:c:BWBR0047275&g=2022-10-14"
+citeertitel_status: "officieel"
+signed_date: "2022-10-03"
+entry_into_force: "2022-10-14"
 ---
-
 # Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies 2022
 
 Gelet op de [artikelen 48, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=48), en [149a, tweede lid, van de Wegenverkeerswet 1994](https://wetten.overheid.nl/jci1.3:c:BWBR0006622&artikel=149a), [artikel 4:83 Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:83), [artikel 4 van het Kentekenreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0006951&artikel=4) en [artikel 2a van het Besluit ontheffingverlening exceptioneel vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=2a);
@@ -16,7 +41,7 @@ Besluit:
 
 #### § 1. Algemeen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 1. De begripsbepalingen van de [Regeling voertuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0025798) zijn van toepassing.
 
@@ -34,29 +59,29 @@ Besluit:
 
 - f. **intake:** een afstemming tussen de RDW en de aanvrager over het bepaalde in [artikel 2a van het Besluit ontheffingverlening exceptioneel vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=2a) in relatie tot de aanvraag en de documenten als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047275&paragraaf=3&artikel=6&z=2022-10-14&g=2022-10-14) van deze regeling.
 
-#### Artikel 2. Toepassingsgebied
+##### Artikel 2. Toepassingsgebied
 
 Deze beleidsregel is van toepassing op de behandeling van aanvragen voor ontheffingen op grond van [artikel 2a van het Besluit ontheffingverlening exceptioneel vervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0018680&artikel=2a).
 
 #### § 2. Aanvragen ontheffingen algemeen
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 1. De aanvraag wordt ingediend op het door de Dienst Wegverkeer vastgestelde model aanvraagformulier.
 
 2. Het aanvraagformulier wordt op verzoek schriftelijk beschikbaar gesteld.
 
-#### Artikel 4. Wijze van indienen van de aanvraag
+##### Artikel 4. Wijze van indienen van de aanvraag
 
 Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 
-#### Artikel 5. Intrekken van de aanvraag
+##### Artikel 5. Intrekken van de aanvraag
 
 Een ontheffingsaanvraag kan uitsluitend schriftelijk door de indiener worden ingetrokken.
 
 #### § 3. Beoordeling aanvraag
 
-#### Artikel 6. Schriftelijke stukken
+##### Artikel 6. Schriftelijke stukken
 
 1. Bij een aanvraag om een ontheffing worden in ieder geval de volgende documenten overgelegd:
 
@@ -90,11 +115,11 @@ Een ontheffingsaanvraag kan uitsluitend schriftelijk door de indiener worden ing
 
 3. Indien documenten als bedoeld in het tweede lid, onder a en b, zijn afgegeven door een bevoegde autoriteit in de lidstaat van de Europese Unie waar de voertuigen zijn of waren geregistreerd, dient hieruit te blijken dat deze een beschermingsniveau bieden dat naar het oordeel van de Dienst Wegverkeer ten minste gelijkwaardig is.
 
-#### Artikel 7. Intake
+##### Artikel 7. Intake
 
 Na ontvangst van het volledig ingevuld aanvraagformulier en bijbehorende documenten als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047275&paragraaf=3&artikel=6&z=2022-10-14&g=2022-10-14) wordt er binnen 6 weken een intake georganiseerd. Van de intake wordt een verslag opgemaakt.
 
-#### Artikel 8. Startbijeenkomst
+##### Artikel 8. Startbijeenkomst
 
 1. Ten behoeve van de behandeling van de aanvraag kan een bijeenkomst worden georganiseerd waarbij in ieder geval de volgende onderwerpen als bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0047275&paragraaf=3&artikel=6&z=2022-10-14&g=2022-10-14) aan de orde komen:
 
@@ -104,17 +129,17 @@ Na ontvangst van het volledig ingevuld aanvraagformulier en bijbehorende documen
 
 2. Bij de bijeenkomst als bedoeld in het eerste lid worden in ieder geval de wegbeheerder(s) uitgenodigd en kunnen tevens derden, ten behoeve van de advisering aan de Dienst Wegverkeer, worden uitgenodigd.
 
-#### Artikel 9. Beoordeling door middel van testen
+##### Artikel 9. Beoordeling door middel van testen
 
 Na de beoordeling van de documenten als bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0047275&paragraaf=3&artikel=6&z=2022-10-14&g=2022-10-14), en de adviezen voorkomend uit de startbijeenkomst, wordt voor een of meerdere voertuigen dan wel de verbonden voertuigen op een door de RDW aangewezen locatie(s) een nominale system safety test en een functional safetytest uitgevoerd.
 
-#### Artikel 10. Advisering door derden
+##### Artikel 10. Advisering door derden
 
 De Dienst Wegverkeer kan advies vragen aan deskundigen ten behoeve van de testen en de uitvoering van de proef.
 
 #### § 4. De Ontheffing
 
-#### Artikel 11. Soorten ontheffingen
+##### Artikel 11. Soorten ontheffingen
 
 1. Ontheffingen worden onderscheiden in incidentele ontheffingen en langlopende ontheffingen.
 
@@ -126,7 +151,7 @@ De Dienst Wegverkeer kan advies vragen aan deskundigen ten behoeve van de testen
 
 3. Een langlopende ontheffing kan uitsluitend worden afgegeven nadat er één of meerdere incidentele ontheffingen zijn afgegeven en is geldig voor ten hoogste vier kentekens van voertuigen of samenstellen van voertuigen met een maximale geldigheidsduur van één jaar.
 
-#### Artikel 12. Ontheffingsdocument met bijlagen
+##### Artikel 12. Ontheffingsdocument met bijlagen
 
 1. Een ontheffing bestaat ten minste uit:
 
@@ -140,7 +165,7 @@ De Dienst Wegverkeer kan advies vragen aan deskundigen ten behoeve van de testen
 
 2. Op aanvraag kan gedurende de geldigheidsduur van de ontheffing voor de resterende geldigheidsduur van de ontheffing, uitsluitend de bijlage beperking bestuurders worden gewijzigd met betrekking tot de persoon van de bestuurder.
 
-#### Artikel 13. Beperkingen en voorschriften verbonden aan de ontheffing
+##### Artikel 13. Beperkingen en voorschriften verbonden aan de ontheffing
 
 1. Aan iedere ontheffing worden beperkingen en algemene voorschriften verbonden en kunnen bijzondere beperkingen of bijzondere voorschriften worden verbonden.
 
@@ -150,15 +175,15 @@ De Dienst Wegverkeer kan advies vragen aan deskundigen ten behoeve van de testen
 
 #### § 5. Overgangs- en slotbepalingen
 
-#### Artikel 14. intrekking
+##### Artikel 14. intrekking
 
 De [Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies](https://wetten.overheid.nl/jci1.3:c:BWBR0039791) (Stct. 2017, 40370) wordt ingetrokken.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na uitgifte van de Staatscourant waarin zij is geplaatst. Deze regeling zal met toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 16. Citeertitel
+##### Artikel 16. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel ontheffingverlening voertuigen met geautomatiseerde functies 2022.
 

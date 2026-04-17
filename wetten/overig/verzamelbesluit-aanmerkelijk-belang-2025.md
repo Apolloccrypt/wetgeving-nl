@@ -1,13 +1,39 @@
 ---
-title: "Verzamelbesluit aanmerkelijk belang 2025"
+title: "Besluit van de Staatssecretaris van Financiën van 3 november 2025, nr. 2025-10381 over inkomstenbelasting, aanmerkelijk belang (Verzamelbesluit aanmerkelijk belang 2025)"
 identifier: "BWBR0051728"
-categorie: "Overig"
-publicatiedatum: 2025-11-12
-laatste_update: 2025-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051728"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-11-12"
+last_updated: "2025-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051728"
+soort: "ministeriele-regeling"
+stam_id: "17587953"
+version_id: "31037002"
+internal_id: "C44444081"
+label_id: "17489974"
+dtd_version: "2.0"
+original_entry_into_force: "2025-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051728/2025-11-12/0"
+intitule_bron: "Stcrt.2025-38003"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-11-03"
+intitule_published: "2025-11-11"
+intitule_in_force: "2025-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-38003"
+original_signed_date: "2025-11-03"
+original_published_date: "2025-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-38003"
+entry_into_force_date: "2025-11-12"
+jci_1_3: "jci1.3:c:BWBR0051728&z=2025-11-12&g=2025-11-12"
+jci_1_0: "1.0:c:BWBR0051728&g=2025-11-12"
+citeertitel_status: "officieel"
+short_title: "Verzamelbesluit aanmerkelijk belang 2025"
+signed_date: "2025-11-03"
+entry_into_force: "2025-11-12"
 ---
-
 # Besluit van de Staatssecretaris van Financiën van 3 november 2025, nr. 2025-10381 over inkomstenbelasting, aanmerkelijk belang (Verzamelbesluit aanmerkelijk belang 2025)
 
 **De Staatssecretaris van Financiën,**

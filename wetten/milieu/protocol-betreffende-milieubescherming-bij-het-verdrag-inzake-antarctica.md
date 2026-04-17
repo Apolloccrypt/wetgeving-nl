@@ -1,13 +1,38 @@
 ---
 title: "Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica"
 identifier: "BWBV0001835"
-categorie: "Milieu"
-publicatiedatum: 2016-12-08
-laatste_update: 2016-12-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001835"
+country: "nl"
+rank: "verdrag"
+publication_date: "2016-12-08"
+last_updated: "2016-12-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001835"
+soort: "verdrag"
+stam_id: "10002541283"
+version_id: "10002530692"
+internal_id: "C10006976581"
+label_id: "10002531534"
+dtd_version: "2.0"
+original_entry_into_force: "1998-01-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001835/2016-12-08/0"
+intitule_bron: "Trb.1992-110"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-04-14"
+intitule_published: "1992-07-31"
+intitule_in_force: "1998-07-10"
+intitule_status: "goed"
+original_publication: "Trb.1992-110"
+original_signed_date: "1994-04-14"
+original_published_date: "1992-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-110"
+entry_into_force_date: "1998-01-14"
+jci_1_3: "jci1.3:c:BWBV0001835&z=2016-12-08&g=2016-12-08"
+jci_1_0: "1.0:c:BWBV0001835&g=2016-12-08"
+citeertitel_status: "redactioneel"
+signed_date: "1994-04-14"
+entry_into_force: "1998-01-14"
 ---
-
 # Protocol betreffende milieubescherming bij het Verdrag inzake Antarctica
 
 Preambule
@@ -32,7 +57,7 @@ Geleid door de wens het [Verdrag inzake Antarctica](https://wetten.overheid.nl/j
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van dit Protocol wordt verstaan onder:
 
@@ -50,11 +75,11 @@ Voor de toepassing van dit Protocol wordt verstaan onder:
 
 - g. „Commissie": de overeenkomstig artikel 11 ingestelde Commissie voor Milieubescherming.
 
-#### Artikel 2. Doelstelling en aanwijzing
+##### Artikel 2. Doelstelling en aanwijzing
 
 De Partijen verplichten zich ertoe het Antarctisch milieu en de daarvan afhankelijke en daarmee samenhangende ecosystemen op alomvattende wijze te beschermen en wijzen hierbij Antarctica aan als natuurreservaat, ten dienste van vrede en wetenschap.
 
-#### Artikel 3. Milieubeginselen
+##### Artikel 3. Milieubeginselen
 
 1. De bescherming van het Antarctisch milieu en de daarvan afhankelijke en daarmee samenhangende ecosystemen alsmede de intrinsieke waarde van Antarctica, met inbegrip van de wildernis van Antarctica, de esthetische waarden en de waarde van Antarctica als gebied voor het verrichten van wetenschappelijk onderzoek, in het bijzonder onderzoek dat essentieel is voor inzicht in het milieu van de gehele aarde, vormen fundamentele uitgangspunten bij het plannen en uitvoeren van alle activiteiten in het gebied waarop het Verdrag inzake Antarctica van toepassing is.
 
@@ -100,17 +125,17 @@ De Partijen verplichten zich ertoe het Antarctisch milieu en de daarvan afhankel
 
 - b. worden gewijzigd, geschorst of afgelast indien deze leiden of dreigen te leiden tot effecten voor het Antarctisch milieu of de daarvan afhankelijke of daarmee samenhangende ecosystemen die niet verenigbaar zijn met deze beginselen.
 
-#### Artikel 4. Samenhang met de andere onderdelen van het Antarctisch Verdragssysteem
+##### Artikel 4. Samenhang met de andere onderdelen van het Antarctisch Verdragssysteem
 
 1. Dit Protocol is een aanvulling op het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) en verandert of wijzigt dit Verdrag niet.
 
 2. Geen enkele bepaling van dit Protocol doet afbreuk aan de rechten en verplichtingen van de Partijen bij dit Protocol krachtens andere binnen het Antarctisch Verdragssysteem van kracht zijnde internationale juridische instrumenten.
 
-#### Artikel 5. Verenigbaarheid met de andere onderdelen van het Antarctisch Verdragssysteem
+##### Artikel 5. Verenigbaarheid met de andere onderdelen van het Antarctisch Verdragssysteem
 
 De Partijen treden in overleg en werken samen met de Verdragsluitende Partijen bij de andere binnen het Antarctisch Verdragssysteem van kracht zijnde internationale juridische instrumenten en hun onderscheiden instellingen ten einde te verzekeren dat de doelstellingen van dit Protocol worden bereikt en zijn beginselen gehandhaafd en ten einde te vermijden dat het bereiken van de doelstellingen en het handhaven van de beginselen van die juridische instrumenten worden belemmerd of dat de toepassing van die juridische instrumenten en dit Protocol niet met elkaar verenigbaar zijn.
 
-#### Artikel 6. Samenwerking
+##### Artikel 6. Samenwerking
 
 1. De Partijen werken samen bij het plannen en uitvoeren van activiteiten in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is. Hiertoe streeft elke Partij ernaar:
 
@@ -130,11 +155,11 @@ De Partijen treden in overleg en werken samen met de Verdragsluitende Partijen b
 
 3. De Partijen werken samen met de Partijen die jurisdictie uitoefenen in de aan het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237)van toepassing is grenzende gebieden, ten einde te verzekeren dat activiteiten in het gebied waarop het Verdrag inzake Antarctica van toepassing is, geen nadelige effecten hebben voor het milieu in die gebieden.
 
-#### Artikel 7. Verbod van activiteiten betreffende minerale rijkdommen
+##### Artikel 7. Verbod van activiteiten betreffende minerale rijkdommen
 
 Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende minerale rijkdommen verboden.
 
-#### Artikel 8. Milieu-effectrapportage
+##### Artikel 8. Milieu-effectrapportage
 
 1. Op voorgenomen activiteiten zoals bedoeld in het tweede lid hieronder zijn de in Bijlage I beschreven procedures voor het vooraf beoordelen van de effecten van deze activiteiten voor het Antarctisch milieu of de daarvan afhankelijke en daarmee samenhangende ecosystemen van toepassing al naar gelang de effecten van deze activiteiten! worden gekenschetst als:
 
@@ -150,7 +175,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 4. Wanneer activiteiten gezamenlijk door meer Partijen worden gepland, benoemen de betrokken Partijen uit hun midden één persoon die de toepassing van de in Bijlage I beschreven milieu-effectrapportageprocedures coördineert.
 
-#### Artikel 9. Bijlagen
+##### Artikel 9. Bijlagen
 
 1. De Bijlagen bij dit Protocol maken een integrerend deel hiervan uit.
 
@@ -162,7 +187,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 5. Tenzij in een bijlage anders wordt bepaald, zijn de in de artikelen 18 tot en met 20 beschreven procedures voor de beslechting van geschillen van toepassing op de bijlagen.
 
-#### Artikel 10. Consultatieve Vergaderingen van het Verdrag inzake Antarctica
+##### Artikel 10. Consultatieve Vergaderingen van het Verdrag inzake Antarctica
 
 1. De Consultatieve Vergaderingen van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) stellen, met gebruikmaking van de beste ter beschikking staande wetenschappelijke en technische adviezen, het volgende vast:
 
@@ -172,7 +197,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 2. De Consultatieve Vergaderingen van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) bezien het werk van de Commissie en maken ten volle gebruik van haar adviezen en aanbevelingen voor het uitvoeren van de in het eerste lid hierboven bedoelde taken alsmede van de adviezen van de Wetenschappelijke Commissie voor Onderzoek op Antarctica.
 
-#### Artikel 11. Commissie voor milieubescherming
+##### Artikel 11. Commissie voor milieubescherming
 
 1. Hierbij wordt de Commissie voor Milieubescherming ingesteld.
 
@@ -186,7 +211,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 6. De Commissie stelt haar reglement van orde vast; dit dient te worden goedgekeurd door de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-#### Artikel 12. Taken van de Commissie
+##### Artikel 12. Taken van de Commissie
 
 1. De Commissie heeft tot taak de Partijen te adviseren en voor de Partijen aanbevelingen te formuleren in verband met de toepassing van dit Protocol, met inbegrip van de werking van de Bijlagen, ter bestudering op de Consultatieve Vergaderingen van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237), en verricht de andere taken die haar kunnen worden opgedragen door de Consultatieve Vergaderingen van het Verdrag inzake Antarctica. In het bijzonder dient de Commissie advies te geven inzake:
 
@@ -214,7 +239,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 2. Bij de uitvoering van haar taken treedt de Commissie eventueel in overleg met de Wetenschappelijke Commissie voor Onderzoek op Antarctica, de Wetenschappelijke Commissie voor de Instandhouding van de Levende Rijkdommen in de Antarctische Wateren en andere ter zake gespecialiseerde wetenschappelijke en technische organisaties en milieuorganisaties.
 
-#### 13. Naleving van dit Protocol
+##### 13. Naleving van dit Protocol
 
 1. Elke Partij neemt de binnen haar bevoegdheid vallende passende maatregelen, met inbegrip van het aannemen van wetten en regelingen, bestuursmaatregelen en handhavingsmaatregelen, om naleving van dit Protocol te verzekeren.
 
@@ -226,7 +251,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 5. De Consultatieve Vergaderingen van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) vestigen de aandacht van elke Staat die geen Partij is bij dit Protocol op activiteiten die worden ondernomen door die Staat, diens instanties, organen, natuurlijke personen of rechtspersonen, schepen, luchtvaartuigen of andere transportmiddelen die de uitvoering van de doelstellingen en de handhaving van de beginselen van dit Protocol raken.
 
-#### Artikel 14. Inspectie
+##### Artikel 14. Inspectie
 
 1. Ten einde de bescherming van het Antarctisch milieu en de daarvan afhankelijke en daarmee samenhangende ecosystemen te bevorderen, en de naleving van dit Verdrag te verzekeren, organiseren de Consultatieve Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237), individueel of gezamenlijk, inspecties door waarnemers, overeenkomstig [artikel VII van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=VII).
 
@@ -240,7 +265,7 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 4. Inspectierapporten worden toegezonden aan de Partijen over wier stations, installaties, materieel, schepen of luchtvaartuigen rapporten zijn opgemaakt. Nadat deze Partijen in staat zijn gesteld commentaar te geven, worden de rapporten en het commentaar daarop toegezonden aan alle Partijen en de Commissie, bestudeerd op de eerstvolgende Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237), en vervolgens ter beschikking van het publiek gesteld.
 
-#### Artikel 15. Bestrijdingsacties in noodsituaties
+##### Artikel 15. Bestrijdingsacties in noodsituaties
 
 1. Ten einde milieubedreigende noodsituaties in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, te bestrijden, stemt elke Partij ermee in:
 
@@ -256,21 +281,21 @@ Met uitzondering van wetenschappelijk onderzoek is elke activiteit betreffende m
 
 3. Voor de toepassing van dit artikel maken de Partijen gebruik van de adviezen van de ten dienste staande internationale organisaties.
 
-#### Artikel 16. Aansprakelijkheid
+##### Artikel 16. Aansprakelijkheid
 
 Overeenkomstig de doelstellingen van dit Protocol voor de alom\vattende bescherming van het Antarctisch milieu en de daarvan afhankelijke en daarmee samenhangende ecosystemen, verbinden de Partijen zich ertoe regels en procedures uit te werken ten aanzien van de aansprakelijkheid voor schade ten gevolge van activiteiten die plaatsvinden in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is en die onder dit Protocol vallen. Deze regels en procedures worden opgenomen in een of meerdere bijlagen die worden aangenomen overeenkomstig artikel 9, tweede lid.
 
-#### Artikel 17. Jaarlijks verslag van de Partijen
+##### Artikel 17. Jaarlijks verslag van de Partijen
 
 1. Elke Partij brengt jaarlijks verslag uit over de stappen die zijn ondernomen om dit Protocol toe te passen. Deze verslagen bevatten de overeenkomstig artikel 13, derde lid, gedane kennisgevingen, de overeenkomstig artikel 15 opgestelde rampenplannen en alle andere ingevolge dit Protocol vereiste kennisgevingen en informatie ten aanzien waarvan geen andere bepaling bestaat omtrent toezending en uitwisseling.
 
 2. De overeenkomstig het eerste lid hierboven opgestelde verslagen worden toegezonden aan alle Partijen en aan de Commissie, bestu\deerd op de eerstvolgende Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) en ter beschikking van het publiek gesteld.
 
-#### Artikel 18. Beslechting van geschillen
+##### Artikel 18. Beslechting van geschillen
 
 Indien een geschil ontstaat over de uitlegging of de toepassing van dit Protocol, treden de Partijen bij dit geschil, op verzoek van een van hen, zo spoedig mogelijk met elkaar in overleg om het geschil te regelen via onderhandelingen, onderzoek, bemiddeling, conciliatie, arbitrage, gerechtelijke beslissing of andere vreedzame methoden die de partijen bij het geschil overeenkomen.
 
-#### Artikel 19. Keuze van procedure voor de beslechting van geschillen
+##### Artikel 19. Keuze van procedure voor de beslechting van geschillen
 
 1. Elke Partij kan, bij ondertekening, bekrachtiging, aanvaarding of goedkeuring van, of toetreding tot dit Protocol, of te allen tijde daarna, door middel van een schriftelijke verklaring een of beide volgende middelen kiezen voor de beslechting van geschillen inzake de uitlegging of toepassing van de artikelen 7, 8 en 15, en van de bepalingen van een Bijlage, tenzij in een Bijlage anders wordt bepaald, en van artikel 13, voor zover verband houdend met deze artikelen en bepalingen:
 
@@ -292,17 +317,17 @@ Indien een geschil ontstaat over de uitlegging of de toepassing van dit Protocol
 
 8. Verklaringen en kennisgevingen zoals bedoeld in dit artikel worden nedergelegd bij de Depositaris, die afschriften hiervan doet toekomen aan alle Partijen.
 
-#### Artikel 20. Procedure voor de beslechting van geschillen
+##### Artikel 20. Procedure voor de beslechting van geschillen
 
 1. Indien de partijen bij een geschil inzake de uitlegging of toepassing van de artikelen 7,8 en 15, of inzake de bepalingen van een Bijlage, tenzij in de Bijlage anders is bepaald, of inzake artikel 13, voor zover verband houdend met deze artikelen en bepalingen, niet binnen 12 maanden na verzoek om overleg ingevolge artikel 18, overeenstemming hebben bereikt over een middel om het geschil te regelen, wordt het geschil op verzoek van een partij hierbij ter beslechting voorgelegd overeenkomstig de in artikel 19, vierde en vijfde lid, vastgestelde procedure.
 
 2. Het scheidsgerecht is niet bevoegd te beslissen in of een uitspraak te doen over een aangelegenheid die onder [artikel IV van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IV) valt. Bovendien kan geen bepaling in dit Protocol zodanig worden uitgelegd dat hiermee bevoegdheid of jurisdictie wordt toegekend aan het Internationale Gerechtshof of een ander voor de beslechting van geschillen tussen Partijen ingesteld gerecht om in een onder artikel IV van het Verdrag inzake Antarctica vallende aangelegenheid te beslissen of anderszins een uitspraak hierover te doen.
 
-#### Artikel 21. Ondertekening
+##### Artikel 21. Ondertekening
 
 Dit Protocol wordt op 4 oktober 1991 te Madrid en daarna tot 3 oktober 1992 te Washington opengesteld voor ondertekening door alle Staten die Partij zijn bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-#### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring of toetreding
+##### Artikel 22. Bekrachtiging, aanvaarding, goedkeuring of toetreding
 
 1. Dit Protocol dient door de ondertekenende Staten te worden bekrachtigd, aanvaard of goedgekeurd.
 
@@ -312,17 +337,17 @@ Dit Protocol wordt op 4 oktober 1991 te Madrid en daarna tot 3 oktober 1992 te W
 
 4. Na de datum waarop dit Protocol in werking is getreden ondernemen de Consultatieve Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) niets naar aanleiding van een kennisgeving betreffende het recht van een Verdragsluitende Partij om vertegenwoordigers te benoemen die overeenkomstig [artikel IX, tweede lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX) kunnen deelnemen aan Consultatieve Vergaderingen van het Verdrag inzake Antarctica, voordat die Partij dit Protocol heeft bekrachtigd, aanvaard of goedgekeurd, of tot dit Protocol is toegetreden.
 
-#### Artikel 23. Inwerkingtreding
+##### Artikel 23. Inwerkingtreding
 
 1. Dit Protocol treedt in werking op de dertigste dag volgende op de datum van nederlegging van de akten van bekrachtiging, aanvaarding, goedkeuring of toetreding door alle Staten die Consultatieve Partij bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) zijn op de datum waarop dit Protocol is aangenomen.
 
 2. Voor elke Partij bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) die, na de datum van inwerkingtreding van dit Protocol, een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt, treedt dit Protocol in werking op de dertigste dag volgende op deze nederlegging.
 
-#### Artikel 24. Voorbehouden
+##### Artikel 24. Voorbehouden
 
 Voorbehouden ten aanzien van dit Protocol zijn niet toegestaan.
 
-#### Artikel 25. Wijziging of amendering
+##### Artikel 25. Wijziging of amendering
 
 1. Onverminderd het bepaalde in artikel 9 kan dit Protocol te allen tijde worden gewijzigd of geamendeerd overeenkomstig de in [artikel XII, eerste lid, letters a en b, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=XII) beschreven procedures.
 
@@ -336,7 +361,7 @@ Voorbehouden ten aanzien van dit Protocol zijn niet toegestaan.
 
 - b. Indien een dergelijke wijziging of amendering niet binnen drie jaar te rekenen van de datum van aanneming hiervan in werking is getreden, kan iedere Partij op elk tijdstip daarna de Depositaris ervan in kennis stellen dat zij zich terugtrekt uit dit Protocol; deze terugtrekking wordt twee jaar nadat de Depositaris kennisgeving hiervan heeft ontvangen van kracht.
 
-#### Artikel 26. Kennisgevingen door de Depositaris
+##### Artikel 26. Kennisgevingen door de Depositaris
 
 De Depositaris stelt alle Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) in kennis van het volgende:
 
@@ -350,19 +375,19 @@ De Depositaris stelt alle Partijen bij het [Verdrag inzake Antarctica](https://w
 
 - e. iedere kennisgeving ontvangen ingevolge artikel 25, vijfde lid, letter b.
 
-#### Artikel 27. Authentieke teksten en registratie bij de Verenigde Naties
+##### Artikel 27. Authentieke teksten en registratie bij de Verenigde Naties
 
 1. Dit Protocol, opgesteld in de Engelse, de Franse, de Russische en de Spaanse taal, zijnde alle teksten gelijkelijk authentiek, wordt nedergelegd in het archief van de Regering van de Verenigde Staten van Amerika, die voor eensluidend gewaarmerkte afschriften hiervan toezendt aan alle Partijen bij het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
 2. Dit Protocol wordt door de Depositaris geregistreerd overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](https://wetten.overheid.nl/jci1.3:c:BWBV0004143&artikel=102).
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het scheidsgerecht wordt ingesteld en functioneert overeenkomstig dit Protocol, met inbegrip van dit Aanhangsel.
 
 2. De in dit Aanhangsel bedoelde Secretaris is de Secretaris-Generaal van het Permanente Hof van Arbitrage.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Elke Partij heeft het recht maximaal drie arbiters aan te wijzen, van wie ten minste een wordt aangewezen binnen drie maanden nadat dit Protocol voor die Partij in werking treedt. Elke arbiter dient ervaring te hebben met Antarctische aangelegenheden, te beschikken over grondige kennis van het internationale recht en in hoog aanzien te staan wat rechtvaardigheid, bekwaamheid en integriteit aangaat. De namen van de aldus aangewezen personen vormen de lijst van arbiters. Elke Partij handhaaft te allen tijde de naam van ten minste een arbiter op de lijst.
 
@@ -372,7 +397,7 @@ De Depositaris stelt alle Partijen bij het [Verdrag inzake Antarctica](https://w
 
 4. De Secretaris draagt er zorg voor dat een bijgewerkte lijst van de ingevolge dit artikel aangewezen arbiters wordt aangehouden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het scheidsgerecht is samengesteld uit drie arbiters, die als volgt worden benoemd:
 
@@ -390,17 +415,17 @@ De Depositaris stelt alle Partijen bij het [Verdrag inzake Antarctica](https://w
 
 3. Bij elk geschil waarbij meer dan twee partijen zijn betrokken, benoemen de partijen die hetzelfde belang hebben in onderlinge overeenstemming een arbiter, binnen het in het eerste lid, letter b, hierboven aangegeven tijdvak.
 
-#### Artikel 4
+##### Artikel 4
 
 De partij bij het geschil die de procedure begint, stelt de andere partij of partijen bij het geschil en de Secretaris schriftelijk hiervan in kennis. Deze kennisgeving bevat een uiteenzetting van de eis en de gronden waarop deze is gebaseerd. De kennisgeving wordt door de Secretaris aan alle Partijen toegezonden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Tenzij de partijen bij het geschil anders overeenkomen, vindt de arbitrage plaats te 's-Gravenhage, waar de registers van het scheidsgerecht worden bewaard. Het scheidsgerecht stelt zijn eigen procedureregels vast. Deze regels verzekeren dat elke partij bij het geschil ten volle de gelegenheid heeft te worden gehoord en haar zaak uiteen te zetten en tevens dat de procedure een vlot verloop heeft.
 
 2. Het scheidsgerecht kan tegeneisen die voortkomen uit het geschil horen en erover beslissen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien het scheidsgerecht van mening is dat het prima facie krachtens dit Protocol jurisdictie heeft, kan het:
 
@@ -414,25 +439,25 @@ De partij bij het geschil die de procedure begint, stelt de andere partij of par
 
 4. Na een beslissing van het scheidsgerecht inzake een verzoek om voorlopige noodvoorzieningen overeenkomstig het derde lid hierboven, vindt de beslechting van het geschil plaats overeenkomstig de artikelen 18, 19 en 20 van het Protocol.
 
-#### Artikel 7
+##### Artikel 7
 
 Een Partij die van mening is dat zij een algemeen dan wel individueel rechtsbelang heeft dat wezenlijk kan worden geraakt door de uitspraak van een scheidsgerecht, kan interveniëren in de procedure, tenzij het scheidsgerecht anders bepaalt.
 
-#### Artikel 8
+##### Artikel 8
 
 De partijen bij het geschil vergemakkelijken het werk van het scheidsgerecht en voorzien het met name, in overeenstemming met hun wetgeving en met gebruikmaking van alle ten dienste staande middelen, van alle relevante documenten en informatie en stellen het in staat, waar nodig, getuigen of deskundigen op te roepen en verklaringen van hen te verkrijgen.
 
-#### Artikel 9
+##### Artikel 9
 
 Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschijnt of haar zaak niet verdedigt, kan elke andere partij bij het geschil het scheidsgerecht verzoeken de procedure voort te zetten en een uitspraak te doen.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het scheidsgerecht doet een uitspraak in de aan het scheidsgerecht voorgelegde geschillen op basis van de bepalingen in het Protocol en andere van toepassing zijnde rechtsregels die niet strijdig zijn met deze bepalingen.
 
 2. Het scheidsgerecht kan ex aequo et bono in een aan het scheidsgerecht voorgelegd geschil beslissen, indien de partijen bij het geschil dit overeenkomen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Voordat het scheidsgerecht een uitspraak doet, overtuigt het zich ervan dat het bevoegd is ten aanzien van het geschil en dat de eis en de tegeneis ten aanzien van de feiten en het recht gegrond zijn.
 
@@ -444,23 +469,23 @@ Indien een van de partijen bij het geschil niet voor het scheidsgerecht verschij
 
 5. Tenzij het scheidsgerecht anders bepaalt, komen de kosten van het scheidsgerecht, met inbegrip van de honorering van zijn arbiters, gelijkelijk ten laste van de partijen bij het geschil.
 
-#### Artikel 12
+##### Artikel 12
 
 Alle beslissingen van het scheidsgerecht, met inbegrip van de beslissingen bedoeld in de artikelen 5,6 en 11, worden genomen met een meerderheid van de arbiters, die zich niet van stemming mogen onthouden.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Dit Aanhangsel kan worden geamendeerd of gewijzigd door middel van een overeenkomstig [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX) aangenomen maatregel. Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn goedgekeurd en treedt zij in werking één jaar na sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen deze termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
 2. Alle amenderingen of wijzigingen van dit Aanhangsel die in werking treden overeenkomstig het eerste lid hierboven, treden daarna in werking ten aanzien van elke andere Partij wanneer kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
-#### Artikel 1. Voorbereidingsstadium
+##### Artikel 1. Voorbereidingsstadium
 
 1. De milieu-effecten van de in artikel 8 van het Protocol bedoelde voorgenomen activiteiten worden voor aanvang bestudeerd overeenkomstig de passende nationale procedures.
 
 2. Indien van een activiteit wordt vastgesteld dat deze een minder dan gering of tijdelijk effect heeft, kan de activiteit onmiddellijk doorgang vinden.
 
-#### Artikel 2. Eerste Milieu-evaluatie
+##### Artikel 2. Eerste Milieu-evaluatie
 
 1. Tenzij is vastgesteld dat een activiteit minder dan een gering of tijdelijk effect heeft, of tenzij een Uitgebreide Milieu-evaluatie wordt opgesteld overeenkomstig artikel 3, wordt een Eerste Milieu-evaluatie opgesteld. Deze bevat voldoende details om te beoordelen of een voorgenomen activiteit meer dan een gering of tijdelijk effect heeft en bevat:
 
@@ -470,7 +495,7 @@ Alle beslissingen van het scheidsgerecht, met inbegrip van de beslissingen bedoe
 
 2. Indien uit een Eerste Milieu-evaluatie blijkt dat een voorgenomen activiteit waarschijnlijk niet meer dan een gering of tijdelijk effect heeft, kan de activiteit doorgang vinden op voorwaarde dat passende procedures, eventueel met inbegrip van toezicht, worden ingesteld om het effect van de activiteit te beoordelen en te verifiëren.
 
-#### Artikel 3. Uitgebreide Milieu-evaluatie
+##### Artikel 3. Uitgebreide Milieu-evaluatie
 
 1. Indien uit een Eerste Milieu-evaluatie blijkt of indien anderszins wordt vastgesteld dat een voorgenomen activiteit waarschijnlijk meer dan een gering of tijdelijk effect heeft, wordt een Uitgebreide Milieuevaluatie opgesteld.
 
@@ -508,11 +533,11 @@ Alle beslissingen van het scheidsgerecht, met inbegrip van de beslissingen bedoe
 
 6. Een definitieve Uitgebreide Milieu-evaluatie behandelt en bevat de op het ontwerp van de Uitgebreide Milieu-evaluatie ontvangen commentaren of een samenvatting hiervan. De definitieve Uitgebreide Milieu-evaluatie, kennisgeving van beslissingen in verband hiermee, en evaluaties van de betekenis van de voorspelde effecten in verhouding tot de voordelen van de voorgenomen activiteit, worden ten minste 60 dagen voor aanvang van de voorgenomen activiteit in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, toegezonden aan alle Partijen, die deze eveneens ter beschikking van het publiek stellen.
 
-#### Artikel 4. Beslissingen die gebaseerd dienen te worden op Uitgebreide Milieu-evaluaties
+##### Artikel 4. Beslissingen die gebaseerd dienen te worden op Uitgebreide Milieu-evaluaties
 
 Iedere beslissing over de vraag of een voorgenomen activiteit, waarop artikel 3 van toepassing is, doorgang dient te vinden, en zo ja, of dit dient te geschieden in de oorspronkelijke of in een gewijzigde vorm, dient te worden gebaseerd op de Uitgebreide Milieu-evaluatie en op andere ter zake doende overwegingen.
 
-#### Artikel 5. Toezicht
+##### Artikel 5. Toezicht
 
 1. Procedures dienen te worden ingesteld, met inbegrip van passende observatie van essentiële milieu-indicatoren, om het effect van een activiteit die doorgang vindt na de voltooiing van een Uitgebreide Milieu-evaluatie, te rapporteren en te verifiëren.
 
@@ -522,7 +547,7 @@ Iedere beslissing over de vraag of een voorgenomen activiteit, waarop artikel 3 
 
 - b. informatie te verstrekken die nuttig is om effecten te verminderen of tot een minimum te beperken, en eventueel informatie te verstrekken over de noodzaak de activiteit te schorsen, af te gelasten of te wijzigen.
 
-#### Artikel 6. Toezending van informatie
+##### Artikel 6. Toezending van informatie
 
 1. De volgende informatie wordt toegezonden aan de Partijen, voorgelegd aan de Commissie en ter beschikking van het publiek gesteld:
 
@@ -536,19 +561,19 @@ Iedere beslissing over de vraag of een voorgenomen activiteit, waarop artikel 3 
 
 2. Eerste Milieu-evaluaties opgesteld overeenkomstig artikel 2 worden op verzoek ter beschikking gesteld.
 
-#### Artikel 7. Noodgevallen
+##### Artikel 7. Noodgevallen
 
 1. Deze Bijlage is niet van toepassing in noodgevallen verband houdend met de veiligheid van mensenlevens of van schepen, luchtvaartuigen, of materieel en faciliteiten van grote waarde, of de bescherming van het milieu, waarvoor een activiteit is vereist zonder dat de in deze Bijlage beschreven procedures zijn voltooid.
 
 2. Kennisgeving van in noodgevallen ondernomen activiteiten, waarvoor anders een Uitgebreid Milieu-evaluatie dient te worden opgesteld, wordt onmiddellijk toegezonden aan de Partijen en voorgelegd aan de Commissie en een volledige toelichting op de verrichte activiteiten wordt verstrekt binnen 90 dagen na deze activiteiten.
 
-#### Artikel 8. Amendering of wijziging
+##### Artikel 8. Amendering of wijziging
 
 1. Deze Bijlage kan worden geamendeerd of gewijzigd door een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of de wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
 2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven, treden daarna in werking ten aanzien van iedere andere Partij, wanneer kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -584,13 +609,13 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - j. „Verdrag inzake de instandhouding van albatrossen en stormvogels”: het verdrag gedaan te Canberra op 19 juni 2001.
 
-#### Artikel 2. Noodgevallen
+##### Artikel 2. Noodgevallen
 
 1. De bepalingen van deze Bijlage zijn niet van toepassing in noodgevallen betreffende de veiligheid van mensenlevens of van schepen, luchtvaartuigen of materieel en faciliteiten van grote waarde, of de bescherming van het milieu.
 
 2. Van activiteiten ondernomen in noodgevallen die leiden tot onttrekking van planten of dieren aan hun populatie of schadelijk optreden wordt onverwijld kennisgeving gedaan aan alle Partijen en aan de Commissie.
 
-#### Artikel 3. Bescherming van de inheemse flora en fauna
+##### Artikel 3. Bescherming van de inheemse flora en fauna
 
 1. Het onttrekken van planten en dieren aan hun populatie of schadelijk optreden is verboden, behalve overeenkomstig een vergunning.
 
@@ -632,7 +657,7 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 11. Het onttrekken van inheemse zoogdieren en vogels aan hun populatie vindt zodanig plaats dat dit zo min mogelijk pijn en lijden met zich meebrengt.
 
-#### Artikel 4. Het in het gebied brengen van niet-inheemse soorten en ziekten
+##### Artikel 4. Het in het gebied brengen van niet-inheemse soorten en ziekten
 
 1. Er worden geen soorten van levende organismen die niet inheems zijn in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is binnengebracht op het land, op ijsplaten of in het water waarop het Verdrag inzake Antarctica van toepassing is, behalve overeenkomstig een vergunning.
 
@@ -656,11 +681,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 9. De opzettelijke invoer van niet-steriele aarde in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, is verboden. De Partijen zouden alles in het werk moeten stellen om te verzekeren dat niet-steriele aarde onbedoeld het gebied waarop het Verdrag inzake Antarctica van toepassing is wordt binnengebracht.
 
-#### Artikel 5. Informatie
+##### Artikel 5. Informatie
 
 Elke Partij maakt voor alle aanwezigen in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is alsmede voor personen die voornemens zijn er naartoe te gaan, informatie openbaar over verboden activiteiten en Speciaal Beschermde Soorten teneinde te verzekeren dat zij de bepalingen van deze Bijlage begrijpen en in acht nemen.
 
-#### Artikel 6. Uitwisseling van informatie
+##### Artikel 6. Uitwisseling van informatie
 
 1. De Partijen treffen regelingen voor:
 
@@ -670,21 +695,21 @@ Elke Partij maakt voor alle aanwezigen in het gebied waarop het [Verdrag inzake 
 
 2. Zo snel mogelijk na het eind van het zomerseizoen op het zuidelijk halfrond en in elk geval vóór 1 oktober van elk jaar lichten de Partijen elkaar en de Commissie in over ingevolge het eerste lid hierboven genomen actie en over het aantal en de aard van de vergunningen die in de daaraan voorafgaande periode tussen 1 april en 31 maart uit hoofde van deze Bijlage zijn afgegeven.
 
-#### Artikel 7. Verhouding tot andere overeenkomsten buiten het antarctisch verdragssysteem
+##### Artikel 7. Verhouding tot andere overeenkomsten buiten het antarctisch verdragssysteem
 
 De bepalingen in deze Bijlage laten de rechten en verplichtingen van de Partijen uit hoofde van het [Verdrag tot regeling van de walvisvangst](https://wetten.overheid.nl/jci1.3:c:BWBV0005482) onverlet.
 
-#### Artikel 8. Toetsing
+##### Artikel 8. Toetsing
 
 De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flora en fauna van Antarctica, daarbij rekening houdend met eventuele aanbevelingen van de Commissie.
 
-#### Artikel 9. Amendering of wijziging
+##### Artikel 9. Amendering of wijziging
 
 1. Deze Bijlage kan worden geamendeerd of gewijzigd bij een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
 2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven treden daarna in werking ten aanzien van iedere andere Partij wanneer de kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
-#### Artikel 1. Algemene verplichtingen
+##### Artikel 1. Algemene verplichtingen
 
 1. Deze Bijlage is van toepassing op activiteiten die worden ondernomen in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is en die voortvloeien uit programma's voor wetenschappelijk onderzoek, toeristische activiteiten en alle andere gouvernementele en niet-gouvernementele activiteiten in het gebied waarop het Verdrag inzake Antarctica van toepassing is en waarvan vooraf, krachtens [artikel VII, vijfde lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=VII) kennisgeving dient te worden gedaan, met inbegrip van daarmee samenhangende logistieke ondersteuning.
 
@@ -700,7 +725,7 @@ De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flo
 
 - b. dat een object of afvalmateriaal in omstandigheden waar de afvoer door middel van ongeacht welke uitvoerbare methode zou leiden tot grotere nadelige milieu-effecten dan wanneer het object of het afvalmateriaal op dezelfde plaats blijft, wordt afgevoerd.
 
-#### Artikel 2. Afvoer van afval uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) va toepassing is
+##### Artikel 2. Afvoer van afval uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) va toepassing is
 
 1. Indien de volgende soorten afval zijn ontstaan na de inwerkingtreding van deze Bijlage, worden deze door de veroorzaker hiervan afgevoerd uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is:
 
@@ -730,13 +755,13 @@ De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flo
 
 - c. in het gebied binnengebrachte vogelprodukten.
 
-#### Artikel 3. Verbranding van afval
+##### Artikel 3. Verbranding van afval
 
 1. Behoudens het tweede lid hieronder wordt ander verbrandbaar afval dan bedoeld in artikel 2, eerste lid, dat niet is afgevoerd uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, verbrand in verbrandingsovens, waarbij schadelijke emissie zo veel mogelijk wordt beperkt. Er wordt rekening gehouden met alle emissienormen en richtlijnen voor materieel die onder andere kunnen worden aanbevolen door de Commissie en de Wetenschappelijke Commissie voor Onderzoek op Antarctica. De vaste verbrandingsresten worden afgevoerd uit het gebied waarop het Verdrag inzake Antarctica van toepassing is.
 
 2. Het in de open lucht verbranden van afval wordt zo snel mogelijk stapsgewijs afgeschaft, maar uiterlijk aan het eind van het seizoen 1998/1999. In afwachting van de voltooiing van die stapsgewijze afschaffing wordt, wanneer het nodig is zich te ontdoen van afval door verbranding in de open lucht, rekening gehouden met de windrichting, de windkracht en het soort afval dat wordt verbrand om afzetting van deeltjes te beperken en te vermijden dat deze worden afgezet in gebieden van bijzondere biologische, wetenschappelijke, historische of esthetische betekenis of van betekenis als wildernis, met inbegrip van, met name, de gebieden die bescherming genieten uit hoofde van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
-#### Artikel 4. Andere wijzen van verwijderen van afval op land
+##### Artikel 4. Andere wijzen van verwijderen van afval op land
 
 1. Afval dat niet is afgevoerd, of gestort of verbrand overeenkomstig de artikelen 2 en 3 wordt niet verwijderd in ijsvrije gebieden of in zoetwatersystemen.
 
@@ -744,7 +769,7 @@ De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flo
 
 3. Afval ontstaan in bivakken wordt zoveel mogelijk door de veroorzaker van dat afval afgevoerd naar ondersteunende stations of schepen om te worden verwijderd overeenkomstig deze Bijlage.
 
-#### Artikel 5. Het lozen van afval in zee
+##### Artikel 5. Het lozen van afval in zee
 
 1. Sanitair afval alsmede vloeibaar huisafval kan direct in zee worden geloosd, daarbij rekening houdend met het assimilatievermogen van het ontvangende mariene milieu en op voorwaarde dat:
 
@@ -754,15 +779,15 @@ De Partijen toetsen voortdurend de maatregelen voor de instandhouding van de flo
 
 2. Het bijprodukt dat ontstaat bij de behandeling van sanitair afval met behulp van een roterende biologische waterzuiveringstrommel of met soortgelijke procédés kan worden verwijderd in zee mits die verwijdering geen nadelige invloed heeft op het plaatselijke milieu en mits die verwijdering in zee tevens in overeenstemming is met Bijlage IV bij het Protocol.
 
-#### Artikel 6. Opslag van afval
+##### Artikel 6. Opslag van afval
 
 Al het afval dat dient te worden afgevoerd uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, dan wel anderszins dient te worden verwijderd, wordt zodanig tijdelijk opgeslagen dat verspreiding daarvan in het milieu wordt voorkomen.
 
-#### Artikel 7. Verboden produkten
+##### Artikel 7. Verboden produkten
 
 Er worden geen polychloorbifenylen (PCB's), niet-steriele aarde, polystyrene bolletjes, chips of soortgelijke vormen van verpakking, of pesticiden (anders dan vereist voor wetenschappelijke, medische of hygiënische doeleinden) binnengebracht op het land of ijsplaten of in het water in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is.
 
-#### Artikel 8. Afvalbeheersplanning
+##### Artikel 8. Afvalbeheersplanning
 
 1. Elke Partij die zelfactiviteiten uitvoert in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, stelt ten aanzien van die activiteiten een classificatiesysteem voor het verwijderen van afval op als basis voor de registratie van afval en ten einde onderzoek te vergemakkelijken ter evaluatie van de milieu-effecten van wetenschappelijke activiteiten en daarmee samenhangende logistieke ondersteuning. Hiertoe wordt geproduceerd afval geclassificeerd als:
 
@@ -788,7 +813,7 @@ Er worden geen polychloorbifenylen (PCB's), niet-steriele aarde, polystyrene bol
 
 3. Elke Partij stelt voor zover mogelijk een inventaris op van locaties waar in het verleden activiteiten hebben plaatsgevonden (zoals overslagplaatsen, brandstofdepots, veldbases, neergestorte vliegtuigen) voordat de informatie verloren is gegaan, zodat met die locaties rekening kan worden gehouden bij het in de toekomst plannen van wetenschappelijke programma's (zoals chemisch onderzoek van het ijs, milieuvervuilende stoffen in korstmossen of het boren naar ijskernen).
 
-#### Artikel 9. Toezending en toetsing van afvalbeheersplannen
+##### Artikel 9. Toezending en toetsing van afvalbeheersplannen
 
 1. De overeenkomstig artikel 8 opgestelde afvalbeheersplannen, rapporten over de uitvoering hiervan en de inventarissen bedoeld in artikel 8, derde lid, maken onderdeel uit van de jaarlijkse informatieuitwisselingen overeenkomstig de [artikelen III](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=III) en [VII van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=VII) en daarmee verband houdende Aanbevelingen krachtens [artikel IX van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX).
 
@@ -798,7 +823,7 @@ Er worden geen polychloorbifenylen (PCB's), niet-steriele aarde, polystyrene bol
 
 4. De Partijen kunnen informatie uitwisselen en advies verstrekken over, onder andere, ter beschikking staande schone technologieën, aanpassing van bestaande installaties, speciale eisen ten aanzien van uitstromende vloeistoffen en passende verwijderings- en loosmethoden.
 
-#### Artikel 10. Beheersprocedures in de praktijk
+##### Artikel 10. Beheersprocedures in de praktijk
 
 Elke Partij:
 
@@ -808,23 +833,23 @@ Elke Partij:
 
 - c. ontmoedigt het gebruik van produkten vervaardigd van polyvinylchloride (PVC) en ziet erop toe dat haar expedities naar het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is ingelicht worden over PVC-produkten die zij eventueel binnenbrengen in het gebied waarop het Verdrag inzake Antarctica van toepassing is, zodat deze produkten vervolgens overeenkomstig deze Bijlage kunnen worden verwijderd.
 
-#### Artikel 11. Toetsing
+##### Artikel 11. Toetsing
 
 Deze Bijlage wordt aan regelmatige toetsing onderworpen ten einde te verzekeren dat deze wordt bijgewerkt om verbeteringen in de technologie en procedures voor het verwijderen van afval daarin op te nemen, en een maximale bescherming van het Antarctisch milieu te waarborgen.
 
-#### Artikel 12. Noodgevallen
+##### Artikel 12. Noodgevallen
 
 1. Deze Bijlage is niet van toepassing in noodgevallen verband houdend met de veiligheid van mensenlevens, of met de veiligheid van schepen, luchtvaartuigen of ander materieel en andere faciliteiten van grote waarde, of de bescherming van het milieu.
 
 2. Van activiteiten ondernomen in noodgevallen wordt onverwijld kennisgeving gedaan aan alle Partijen en aan de Commissie.
 
-#### Artikel 13. Amendering of wijziging
+##### Artikel 13. Amendering of wijziging
 
 1. Deze Bijlage kan worden geamendeerd of gewijzigd door een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
 2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven, treden daarna in werking ten aanzien van iedere andere Partij wanneer kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze bijlage wordt verstaan onder:
 
@@ -842,11 +867,11 @@ Voor de toepassing van deze bijlage wordt verstaan onder:
 
 - g. „schip": elk vaartuig, van welk type ook, dat in het mariene milieu opereert, waaronder begrepen: draagvleugelboten, luchtkussenvaartuigen, onderwatervaartuigen, vaartuigen in drijvende toestand, alsmede vaste of drijvende platforms.
 
-#### Artikel 2. Toepassing
+##### Artikel 2. Toepassing
 
 Deze Bijlage is, ten aanzien van elke Partij, van toepassing op schepen die gerechtigd zijn haar vlag te voeren, en ten aanzien van andere schepen die zich bezig houden met of ondersteuning verlenen aan haar werkzaamheden in het Antarctische gebied, terwijl deze dienst doen in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is.
 
-#### Artikel 3. Lozen van olie
+##### Artikel 3. Lozen van olie
 
 1. Elke lozing in zee van olie of oliehoudende mengsels is verboden, behalve in de gevallen toegestaan krachtens [Bijlage I bij MARPOL 73/78](https://wetten.overheid.nl/jci1.3:c:BWBV0003241&bijlage=I). Terwijl zij werkzaam zijn in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, dienen schepen alle oliehoudend slik, vuile ballast, tankwaswater en andere oliehoudende residuen en mengsels die niet in de zee mogen worden geloosd, aan boord te houden. Schepen mogen deze residuen alleen lozen buiten het gebied waarop het Verdrag inzake Antarctica van toepassing is, afgeven aan ontvangstinrichtingen of lozen zoals anderszins toegestaan krachtens Bijlage I bij MARPOL.
 
@@ -860,11 +885,11 @@ Deze Bijlage is, ten aanzien van elke Partij, van toepassing op schepen die gere
 
 - b. het lozen in zee van oliehoudende stoffen, indien dit gebeurt ter bestrijding van bepaalde gevallen van verontreiniging ten einde de schade door de verontreiniging tot een minimum te beperken.
 
-#### Artikel 4. Lozen van schadelijke vloeistoffen
+##### Artikel 4. Lozen van schadelijke vloeistoffen
 
 Het lozen in zee van schadelijke vloeistoffen en andere chemische of andere stoffen in hoeveelheden of concentraties die schadelijk zijn voor het mariene milieu is verboden.
 
-#### Artikel 5. Storten van vuilnis
+##### Artikel 5. Storten van vuilnis
 
 1. Het storten in zee van alle kunststoffen, met inbegrip van doch niet beperkt tot trossen en visnetten van synthetisch materiaal en plastic vuilniszakken, is verboden.
 
@@ -882,7 +907,7 @@ Het lozen in zee van schadelijke vloeistoffen en andere chemische of andere stof
 
 6. De Partijen vereisen, waar passend, het gebruik van een vuilnisjournaal.
 
-#### Artikel 6. Lozen van sanitair afval
+##### Artikel 6. Lozen van sanitair afval
 
 1. Behalve wanneer het de werkzaamheden in het Antarctisch gebied onnodig zou belemmeren:
 
@@ -892,17 +917,17 @@ Het lozen in zee van schadelijke vloeistoffen en andere chemische of andere stof
 
 2. De Partijen vereisen, waar passend, het gebruik van een journaal voor sanitair afval.
 
-#### Artikel 7. Noodgevallen
+##### Artikel 7. Noodgevallen
 
 1. De artikelen 3,4,5 en 6 van deze Bijlage zijn niet van toepassing in noodgevallen verband houdend met de veiligheid van schip en opvarenden, of om mensenlevens op zee te redden.
 
 2. Van activiteiten ondernomen in noodgevallen wordt onverwijld kennisgeving gedaan aan alle Partijen en aan de Commissie.
 
-#### Artikel 8. Gevolgen voor afhankelijke en samenhangende ecosystemen
+##### Artikel 8. Gevolgen voor afhankelijke en samenhangende ecosystemen
 
 Bij de toepassing van de bepalingen van deze Bijlage dient naar behoren aandacht te worden geschonken aan de noodzaak nadelige gevolgen te vermijden voor afhankelijke en samenhangende ecosystemen buiten het gebied waarop het[Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is.
 
-#### Artikel 9. Opslagcapaciteit van het schip en ontvangstinrichtingen
+##### Artikel 9. Opslagcapaciteit van het schip en ontvangstinrichtingen
 
 1. Elke Partij verbindt zich ertoe te verzekeren dat alle schepen die gerechtigd zijn haar vlag te voeren en alle andere schepen die zich bezig houden met of ondersteuning verlenen aan haar werkzaamheden in het Antarctisch gebied, alvorens het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is binnen te varen, aan boord zijn uitgerust met een tank of tanks van voldoende capaciteit voor het aan boord houden van alle oliehoudend slik, vuile ballast, tankwaswater en andere oliehoudende residuen en mengsels en over voldoende capaciteit voor het aan boord houden van vuilnis beschikken, terwijl zij werkzaam zijn in het gebied waarop het Verdrag inzake Antarctica van toepassing is, en regelingen hebben getroffen om zulke oliehoudende residuen en vuilnis af te geven aan een ontvangstinrichting na het verlaten van dat gebied. Schepen dienen ook te beschikken over voldoende capaciteit voor het aan boord houden van schadelijke vloeistoffen.
 
@@ -910,11 +935,11 @@ Bij de toepassing van de bepalingen van deze Bijlage dient naar behoren aandacht
 
 3. De Partijen die schepen exploiteren die vertrekken naar of aankomen uit het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, uit of in havens van andere Partijen, treden in overleg met deze Partijen ten einde te verzekeren dat de installatie van ontvangstinrichtingen in havens geen onevenredige last legt op de Partijen (wier grondgebied) grenst aan het gebied waarop het Verdrag inzake Antarctica van toepassing is.
 
-#### Artikel 10. Ontwerp, bouw, bemanning en uitrusting van schepen
+##### Artikel 10. Ontwerp, bouw, bemanning en uitrusting van schepen
 
 Bij het ontwerp, de bouw, de bemanning en de uitrusting van schepen die zich bezig houden met of ondersteuning verlenen aan werkzaamheden in het Antarctisch gebied, houdt elke Partij rekening met de doelstellingen van deze Bijlage.
 
-#### Artikel 11. Soevereine immuniteit
+##### Artikel 11. Soevereine immuniteit
 
 1. Deze Bijlage is niet van toepassing op oorlogsschepen, schepen in gebruik als marine-hulpschepen of andere schepen in eigendom van of in beheer bij een Staat die, tijdelijk, uitsluitend worden ingezet voor niet-commerciële overheidsdienst. Elke Partij waarborgt evenwel, door het nemen van passende maatregelen die de werkzaamheden of de operationele kwaliteiten van dergelijke schepen in haar eigendom of beheer niet aantasten, dat dergelijke schepen, voor zover redelijk en uitvoerbaar, opereren in overeenstemming met deze Bijlage.
 
@@ -924,7 +949,7 @@ Bij het ontwerp, de bouw, de bemanning en de uitrusting van schepen die zich bez
 
 4. De procedure voor de beslechting van geschillen beschreven in de artikelen 18 tot en met 20 van het Protocol is niet van toepassing op dit artikel.
 
-#### Artikel 12. Voorzorgsmaatregelen en voorbereiding op en bestrijding van noodsituaties
+##### Artikel 12. Voorzorgsmaatregelen en voorbereiding op en bestrijding van noodsituaties
 
 1. Ten einde doeltreffender te kunnen optreden bij voorvallen van mariene verontreiniging of de dreiging daarvan in het gebied waarop het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) van toepassing is, stellen de Partijen in overeenstemming met artikel 15 van het Protocol rampenplannen op voor de bestrijding van mariene verontreiniging in het gebied waarop het Verdrag inzake Antarctica van toepassing is, met inbegrip van rampenplannen voor schepen (niet zijnde kleine boten die deel uitmaken van de werkzaamheden van vaste plaatsen of van schepen) die dienst doen in het gebied waarop het Verdrag inzake Antarctica van toepassing is, met name voor schepen die olie als lading vervoeren en voor het wegvloeien van olie uit kustinstallaties die in het mariene milieu terechtkomt. Hiertoe:
 
@@ -934,21 +959,21 @@ Bij het ontwerp, de bouw, de bemanning en de uitrusting van schepen die zich bez
 
 2. De Partijen stellen tevens procedures op voor samenwerking bij de bestrijding van door verontreiniging veroorzaakte noodsituaties en nemen passende bestrijdingsmaatregelen in overeenstemming met zodanige procedures.
 
-#### Artikel 13. Toetsing
+##### Artikel 13. Toetsing
 
 De Partijen toetsen voortdurend de bepalingen van deze Bijlage, alsmede andere maatregelen ter voorkoming, vermindering en bestrijding van verontreiniging van het Antarctische mariene milieu, met inbegrip van eventuele wijzigingen en nieuwe voorschriften aangenomen uit hoofde van [MARPOL 73/78](https://wetten.overheid.nl/jci1.3:c:BWBV0003241), ten einde de doelstellingen van deze Bijlage te bereiken.
 
-#### Artikel 14. Betrekking met [MARPOL 73/78](https://wetten.overheid.nl/jci1.3:c:BWBV0003241)
+##### Artikel 14. Betrekking met [MARPOL 73/78](https://wetten.overheid.nl/jci1.3:c:BWBV0003241)
 
 Ten aanzien van de Partijen die tevens Partij zijn bij [MARPOL 73/78](https://wetten.overheid.nl/jci1.3:c:BWBV0003241) laten de bepalingen in deze Bijlage de specifieke rechten en verplichtingen uit hoofde van dat verdrag onverlet.
 
-#### Artikel 15. Amendering of wijziging
+##### Artikel 15. Amendering of wijziging
 
 1. Deze Bijlage kan worden geamendeerd of gewijzigd door een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders wordt aangegeven, wordt de amendering of wijziging geacht te zijn aanvaard en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke zij werd aangenomen, tenzij een of meer van de Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen die termijn ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
 2. Amenderingen of wijzigingen van deze Bijlage die in werking treden overeenkomstig het eerste lid hierboven treden daarna in werking ten aanzien van iedere andere Partij wanneer kennisgeving van haar goedkeuring door de Depositaris is ontvangen.
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 Voor de toepassing van deze Bijlage wordt verstaan onder:
 
@@ -958,11 +983,11 @@ Voor de toepassing van deze Bijlage wordt verstaan onder:
 
 - c. „Beheersplan": een plan tot beheer van de activiteiten en ter bescherming van de speciale waarde(n) in een Speciaal Beschermd Antarctisch Gebied of een Speciaal Beheerd Antarctisch gebied.
 
-#### Artikel 2. Doelstellingen
+##### Artikel 2. Doelstellingen
 
 Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebied, worden aangewezen als Speciaal Beschermd Antarctisch Gebied of Speciaal Beheerd Antarctisch Gebied. In die gebieden worden activiteiten verboden, aan beperkingen onderworpen of beheerd in overeenstemming met ingevolge de bepalingen van deze Bijlage aangenomen Beheersplannen.
 
-#### Artikel 3. Speciaal Beschermde Antarctische Gebieden
+##### Artikel 3. Speciaal Beschermde Antarctische Gebieden
 
 1. Elk gebied, met inbegrip van elk zeegebied, kan worden aangewezen als Speciaal Beschermd Antarctisch Gebied ter bescherming van opmerkelijke ecologische, wetenschappelijke, historische of esthetische waarden of de waarde als wildernis, dan wel een combinatie van deze waarden, of lopend of gepland wetenschappelijk onderzoek.
 
@@ -990,7 +1015,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 4. De toegang tot een Speciaal Beschermd Antarctisch Gebied, anders dan in overeenstemming met een ingevolge artikel 7 afgegeven vergunning, is verboden.
 
-#### Artikel 4. Speciaal Beheerde Antarctische Gebieden
+##### Artikel 4. Speciaal Beheerde Antarctische Gebieden
 
 1. Elk gebied, met inbegrip van elk zeegebied, waarin activiteiten worden verricht of in de toekomst kunnen worden verricht, kan worden aangewezen als Speciaal Beheerd Antarctisch Gebied ter ondersteuning van de planning of coördinatie van activiteiten, ter vermijding van mogelijke conflicten, ter verbetering van de samenwerking tussen Partijen of ter beperking van de milieu-effecten.
 
@@ -1004,7 +1029,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 4. Niettegenstaande het derde lid hierboven kan een Speciaal Beheerd Antarctisch Gebied één of meer Speciaal Beschermde Antarctische Gebieden omvatten, waartoe de toegang, anders dan in overeenstemming met een ingevolge artikel 7 afgegeven vergunning, is verboden.
 
-#### Artikel 5. Beheersplannen
+##### Artikel 5. Beheersplannen
 
 1. Elke Partij, de Commissie, de Wetenschappelijke Commissie voor Onderzoek op Antarctica en de Commissie voor de Instandhouding van de Levende Rijkdommen in de Antarctische Wateren kan een gebied voordragen voor aanwijzing als Speciaal Beschermd Antarctisch Gebied of Speciaal Beheerd Antarctisch Gebied door een ontwerp-Beheersplan in te dienen bij de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237).
 
@@ -1078,7 +1103,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 - k. bepalingen inzake de omstandigheden waarin de Partijen dienen te trachten informatie uit te wisselen voorafgaand aan de activiteiten die zij voornemens zijn te verrichten.
 
-#### Artikel 6. Aanwijzingsprocedures
+##### Artikel 6. Aanwijzingsprocedures
 
 1. Ontwerp-Beheersplannen dienen te worden ingediend bij de Commissie, de Wetenschappelijke Commissie voor Onderzoek op Antarctica en, indien van toepassing, de Commissie voor de Instandhouding van de Levende Rijkdommen in de Antarctische Wateren. Bij het uitbrengen van haar advies aan de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) houdt de Commissie rekening met eventuele opmerkingen van de Wetenschappelijke Commissie voor Onderzoek op Antarctica en, indien van toepassing, de Commissie voor de Instandhouding van de Levende Rijkdommen in de Antarctische Wateren. Daarna kunnen de ontwerp-Beheersplannen worden goedgekeurd door de Consultatieve Partijen bij het Verdrag inzake Antarctica door een maatregel, aangenomen tijdens een Consultatieve Vergadering van het Verdrag inzake Antarctica in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders is aangegeven, wordt het Beheersplan geacht te zijn goedgekeurd 90 dagen na de sluiting van de Consultatieve Vergadering van het Verdrag inzake Antarctica tijdens welke de maatregel werd aangenomen, tenzij één of meer Consultatieve Partijen binnen dat tijdvak de Depositaris ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 
@@ -1090,7 +1115,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 5. Na goedkeuring worden Beheersplannen onverwijld door de Depositaris toegezonden aan alle Partijen. De Depositaris houdt een register bij van alle tot dusver goedgekeurde Beheersplannen.
 
-#### Artikel 7. Vergunningen
+##### Artikel 7. Vergunningen
 
 1. Elke Partij wijst een bevoegde autoriteit aan met het oog op de afgifte van vergunningen voor de toegang tot of het ondernemen van activiteiten in een Speciaal Beschermd Antarctisch Gebied in overeenstemming met de voorschriften van het op dat gebied betrekking hebbende Beheersplan. De vergunning dient vergezeld te gaan van de desbetreffende onderdelen van het Beheersplan en dient een vermelding td bevatten aangaande de omvang en de ligging van het gebied, de activiteiten waarvoor machtiging is verleend en waar, wanneer en door wie machtiging is verleend voor de activiteiten, alsmede aangaande eventuele andere voorwaarden die het Beheersplan voorschrijft.
 
@@ -1098,7 +1123,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 3. Elke Partij verlangt dat de vergunninghouder een exemplaar van de vergunning bij zich draagt terwijl hij zich in het betrokken Speciaal Beschermd Antarctisch Gebied bevindt.
 
-#### Artikel 8. Historische plaatsen en historische monumenten
+##### Artikel 8. Historische plaatsen en historische monumenten
 
 1. Plaatsen of monumenten met een erkende historische waarde die zijn aangewezen als Speciaal Beschermde Antarctische Gebieden of Speciaal Beheerde Antarctische Gebieden, ofwel binnen zodanige gebieden zijn gelegen, worden geplaatst op de lijst van Historische Plaatsen en Historische Monumenten.
 
@@ -1110,7 +1135,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 5. De lijst van Historische Plaatsen en Historische Monumenten kan worden gewijzigd in overeenstemming met het tweede lid hierboven. De Depositaris houdt een lijst bij van tot dusver als zodanig aangemerkte Historische Plaatsen en Historische Monumenten.
 
-#### Artikel 9. Informatie en Openbaarheid
+##### Artikel 9. Informatie en Openbaarheid
 
 1. Ten einde te verzekeren dat alle personen die Antarctica bezoeken, of voornemens zijn dit te bezoeken, op de hoogte zijn van de bepalingen van deze Bijlage en deze in acht nemen, stelt elke Partij informatieve documentatie ter beschikking die, met name, omvat:
 
@@ -1126,7 +1151,7 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 3. De Partijen werken samen ten einde te verzekeren dat, indien van toepassing, de grenzen van Speciaal Beschermde Antarctische Gebieden, Speciaal Beheerde Antarctische Gebieden en Historische Plaatsen en Historische Monumenten ter plaatse op passende wijze zijn aangegeven.
 
-#### Artikel 10. Uitwisseling van informatie
+##### Artikel 10. Uitwisseling van informatie
 
 1. De Partijen treffen regelingen voor:
 
@@ -1142,13 +1167,13 @@ Voor de toepassing van deze Bijlage kan elk gebied, met inbegrip van elk zeegebi
 
 4. Elke Partij licht de andere Partijen alsmede de Commissie voor eind november van elk jaar in over maatregelen die zij heeft genomen ter uitvoering van deze Bijlage, met inbegrip van inspecties en stappen die zij heeft ondernomen om in te grijpen in geval van activiteiten die in strijd zijn met de bepalingen van het goedgekeurde Beheersplan voor een Speciaal Beschermd Antarctisch Gebied of een Speciaal Beheerd Antarctisch Gebied.
 
-#### Artikel 11. Noodgevallen
+##### Artikel 11. Noodgevallen
 
 1. De in deze Bijlage vastgelegde of toegestane beperkingen zijn niet van toepassing in noodgevallen verband houdend met de veiliheid van mensenlevens of van schepen, luchtvaartuigen, of van materieel en faciliteiten van grote waarde, of de bescherming van het milieu.
 
 2. Van activiteiten ondernomen in noodgevallen wordt onverwijld kennisgeving gedaan aan alle Partijen.
 
-#### Artikel 12. Amendering of wijziging
+##### Artikel 12. Amendering of wijziging
 
 1. Deze Bijlage kan wórden geamendeerd of gewijzigd door een maatregel aangenomen in overeenstemming met [artikel IX, eerste lid, van het Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237&artikel=IX). Tenzij in de maatregel anders is aangegeven, wórdt dé amendering of wijziging geacht te zijn goedgekeurd en treedt zij in werking één jaar na de sluiting van de Consultatieve Vergadering van het [Verdrag inzake Antarctica](https://wetten.overheid.nl/jci1.3:c:BWBV0005237) tijdens welke deze werd aangenomen, tenzij één of meer Consultatieve Partijen bij het Verdrag inzake Antarctica de Depositaris binnen dat tijdvak ervan in kennis stellen dat zij een verlenging van die termijn wensen of dat zij de maatregel niet kunnen goedkeuren.
 

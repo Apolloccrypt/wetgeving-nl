@@ -1,13 +1,32 @@
 ---
 title: "Verdrag inzake de erkenning van geregistreerde partnerschappen"
 identifier: "BWBV0004559"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-09-05
-laatste_update: 2007-09-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0004559"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-09-05"
+last_updated: "2007-09-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0004559"
+soort: "verdrag"
+stam_id: "10004189653"
+version_id: "10004365892"
+internal_id: "C10006998671"
+label_id: "10004175304"
+dtd_version: "2.0"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0004559/2007-09-05/0"
+intitule_bron: "Trb.2010-218"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2010-09-07"
+intitule_status: "nogniet"
+original_publication: "Trb.2010-218"
+original_published_date: "2010-09-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2010-218"
+jci_1_3: "jci1.3:c:BWBV0004559&z=2007-09-05&g=2007-09-05"
+jci_1_0: "1.0:c:BWBV0004559&g=2007-09-05"
+citeertitel_status: "redactioneel"
+entry_into_force: "2010-09-07"
 ---
-
 # Verdrag inzake de erkenning van geregistreerde partnerschappen
 
 Preambule
@@ -18,33 +37,33 @@ Geleid door de wens om de erkenning te vergemakkelijken in een verdragsluitende 
 
 Zijn overeengekomen als volgt:
 
-#### Artikel 1
+##### Artikel 1
 
 In de zin van dit Verdrag wordt onder „geregistreerd partnerschap” verstaan, het aangaan van een samenlevingsvorm tussen twee personen van gelijk geslacht of van verschillend geslacht, waarvan registratie plaatsvindt door een autoriteit die met openbaar gezag is bekleed, zulks met uitsluiting van het huwelijk.
 
-#### Artikel 2
+##### Artikel 2
 
 Onder voorbehoud van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) wordt een partnerschap dat in een staat is geregistreerd, in de verdragsluitende staten erkend.
 
-#### Artikel 3
+##### Artikel 3
 
 Onder voorbehoud van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) worden de rechtsgevolgen van een geregistreerd partnerschap voor de burgerlijke staat, bedoeld door de wet van de staat waarin het partnerschap is geregistreerd en vermeld in de [artikelen 4 tot en met 6](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05), in de verdragsluitende staten erkend.
 
-#### Artikel 4
+##### Artikel 4
 
 Voor zover de wet van de staat waarin het partnerschap is geregistreerd hierin voorziet, vormt het partnerschap een beletsel voor het sluiten door een van beide partners van een huwelijk of voor het aangaan van een nieuw partnerschap met een derde.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Indien een partnerschap is aangegaan tussen personen waarvan er ten minste één de nationaliteit van een verdragsluitende staat heeft, wordt de verklaring die door de partners is afgelegd ten aanzien van de naam die zij zullen hebben na de registratie van het partnerschap of door een van hen ten aanzien van de naam die deze partner zal hebben na de registratie van het partnerschap, in de verdragsluitende staten erkend indien deze verklaring is afgelegd in een verdragsluitende staat waarvan een van de partners de nationaliteit bezit of in de verdragsluitende staat waar de partners op de dag van de verklaring hun gezamenlijke gewone verblijfplaats hadden.
 
 2. In geval van beëindiging of nietigverklaring van het partnerschap wordt de verklaring via welke de partner of voormalige partner, onderdaan van een verdragsluitende staat, de naam die hij eerder had, herkrijgt of ervoor kiest de naam die hij tijdens het partnerschap had te behouden, in de verdragsluitende staten erkend indien de verklaring is afgelegd in de verdragsluitende staat of in een van de verdragsluitende staten waarvan deze partner of voormalige partner de nationaliteit bezit of in de verdragsluitende staat waar hij op de dag van de verklaring zijn gewone verblijfplaats had.
 
-#### Artikel 6
+##### Artikel 6
 
 Wanneer dezelfde partners in meerdere staten partnerschappen laten registreren, worden de rechtsgevolgen voor hun burgerlijke staat vermeld in de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05) en [5](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=5&z=2007-09-05&g=2007-09-05) en bedoeld in de wet van één of meerdere van deze staten erkend, zelfs indien deze rechtsgevolgen niet in al deze staten bij wet geregeld zijn.
 
-#### Artikel 7
+##### Artikel 7
 
 Een verdragsluitende staat kan een in een andere staat geregistreerd partnerschap slechts weigeren te erkennen op een van de volgende gronden:
 
@@ -60,13 +79,13 @@ Een verdragsluitende staat kan een in een andere staat geregistreerd partnerscha
 
 - 6. de erkenning van het partnerschap is kennelijk in strijd met de openbare orde van de staat waarin er een beroep op wordt gedaan.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De verdragsluitende staten erkennen de beëindiging of de nietigverklaring van een partnerschap dat plaats gevonden heeft of erkend is in de staat waar het partnerschap werd geregistreerd, voor zover deze beëindiging of deze nietigverklaring bepalend is voor de uit hoofde van de [artikelen 2 tot en met 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=2&z=2007-09-05&g=2007-09-05) ten aanzien van dit partnerschap erkende rechtsgevolgen.
 
 2. De in het voorgaande lid bedoelde erkenning kan slechts worden geweigerd indien deze kennelijk in strijd is met de openbare orde van de staat waarin om de erkenning wordt verzocht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De verdragsluitende staat waarin een partnerschap is geregistreerd, geeft aan elk van de partners een verklaring af die wordt opgesteld overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05) en waarin de registratie van dit partnerschap staat vermeld.
 
@@ -74,7 +93,7 @@ Een verdragsluitende staat kan een in een andere staat geregistreerd partnerscha
 
 3. De verdragsluitende staat waarin een partnerschap is geregistreerd, kan aan elk van beide voormalige partners een verklaring afgeven die is opgesteld overeenkomstig [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=13&z=2007-09-05&g=2007-09-05) en waarin wordt verklaard dat de beëindiging of de nietigverklaring van dat partnerschap in die staat wordt erkend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Wanneer de autoriteit van een verdragsluitende staat een partnerschap registreert waarbij ten minste een van de partners de nationaliteit van een andere verdragsluitende staat heeft of zijn gewone verblijfplaats in een andere verdragsluitende staat heeft, brengt de autoriteit die tot de registratie van het partnerschap is overgegaan de overeenkomstig [artikel 16, tweede lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=16&z=2007-09-05&g=2007-09-05), aangewezen autoriteiten van die staat hiervan op de hoogte door hun de in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05), bedoelde verklaring toe te zenden. De autoriteit handelt op gelijke wijze indien zij de beëindiging of de nietigverklaring van dat partnerschap erkent, door genoemde autoriteiten de in artikel 9, derde lid, bedoelde verklaring toe te zenden.
 
@@ -86,15 +105,15 @@ Een verdragsluitende staat kan een in een andere staat geregistreerd partnerscha
 
 - –. de staat of staten waarin de voormalige partners hun gewone verblijfplaats hebben.
 
-#### Artikel 11
+##### Artikel 11
 
 Indien de wet van de erkennende staat hierin voorziet, en onverminderd de in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=7&z=2007-09-05&g=2007-09-05) voorziene gronden om erkenning te weigeren, wordt het partnerschap ingeschreven in de daartoe bestemde officiële registers van die staat, zonder dat hiervoor enige procedure vereist is. De wet van die staat bepaalt welke stukken moeten worden overgelegd om deze inschrijving te verkrijgen.
 
-#### Artikel 12
+##### Artikel 12
 
 Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05), wordt de beëindiging of de nietigverklaring van het partnerschap dat plaats gevonden heeft of erkend is in de staat waarin het partnerschap werd geregistreerd, ingeschreven in de daartoe bestemde officiële registers van een andere staat indien de wet van die staat daarin voorziet, zonder dat hiervoor enige procedure vereist is. De wet van die andere staat bepaalt welke stukken moeten worden overgelegd om deze inschrijving te verkrijgen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. De in [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05) bedoelde verklaringen worden opgesteld overeenkomstig de modellen die in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=1&z=2007-09-05&g=2007-09-05) bij dit Verdrag zijn opgenomen. De vaste vermeldingen in deze verklaringen worden voorzien van numerieke codes, waarvan de lijst is opgenomen in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=2&z=2007-09-05&g=2007-09-05) bij dit Verdrag. De op de verklaringen van toepassing zijnde regels zijn vermeld in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&bijlage=3&z=2007-09-05&g=2007-09-05) bij dit Verdrag. De bijlagen 1, 2 en 3 kunnen worden gewijzigd door middel van een besluit waarover bij eenvoudige meerderheid door de vertegenwoordigers van de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en van de verdragsluitende staten die geen lid zijn, wordt gestemd. Dit besluit zal worden nedergelegd bij de Zwitserse Bondsraad en wordt, in de betrekkingen tussen de verdragsluitende staten, van kracht met ingang van de eerste dag van de zesde maand volgend op die nederlegging.
 
@@ -104,7 +123,7 @@ Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/
 
 4. Elke betrokkene kan de bevoegde autoriteit van een verdragsluitende staat waarin een verklaring wordt gebruikt, verzoeken om vertaling van de codes in de officiële taal of in een van de officiële talen van die staat of om over te gaan tot decodering van de verklaring.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Voor de toepassing van de [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=2&z=2007-09-05&g=2007-09-05), [3](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=3&z=2007-09-05&g=2007-09-05), [4](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=4&z=2007-09-05&g=2007-09-05), [6](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=6&z=2007-09-05&g=2007-09-05), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05) en [9](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=9&z=2007-09-05&g=2007-09-05) wordt de registratie van een partnerschap, van de beëindiging of van de nietigverklaring daarvan door de consulaire autoriteiten van een staat beschouwd als te hebben plaatsgevonden in die staat.
 
@@ -112,13 +131,13 @@ Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/
 
 3. Het eerste en tweede lid zijn slechts van toepassing indien de consulaire autoriteit volgens de wet van de zendende staat de bevoegdheid heeft om dergelijke akten te registreren of dergelijke verklaringen in ontvangst te nemen, voor zover de wet- en regelgeving van de staat van verblijf zich hier niet tegen verzet.
 
-#### Artikel 15
+##### Artikel 15
 
 1. De rechtsgeldigheid van en de rechtsgevolgen voor de burgerlijke staat van een partnerschap dat is geregistreerd vóór de inwerkingtreding van het Verdrag ten aanzien van een staat worden in deze staat erkend indien aan de in het Verdrag bedoelde voorwaarden voor erkenning is voldaan. Van deze erkenning wordt afgezien indien deze de rechtsgeldigheid aantast van akten die opgemaakt zijn vóór de inwerkingtreding van het Verdrag ten aanzien van die staat.
 
 2. De beëindiging of de nietigverklaring van een partnerschap dat is geregistreerd vóór de inwerkingtreding van het Verdrag ten aanzien van een staat, wordt in deze staat overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=8&z=2007-09-05&g=2007-09-05) erkend indien aan de in het Verdrag bedoelde voorwaarden voor erkenning is voldaan.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding wijst elke staat, indien van toepassing, de rechtsfiguren binnen zijn wetgeving aan die onder de begripsomschrijving van [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0004559&artikel=1&z=2007-09-05&g=2007-09-05) vallen.
 
@@ -134,25 +153,25 @@ Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/
 
 4. Elke later aangebrachte wijziging van de overeenkomstig het tweede lid gedane aanwijzingen wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de zesde maand volgend op deze nederlegging.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit Verdrag staat open voor ondertekening door de lidstaten van de Internationale Commissie voor de Burgerlijke Stand.
 
 2. Het Verdrag wordt bekrachtigd, aanvaard of goedgekeurd en de akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 18
+##### Artikel 18
 
 1. Elke andere staat kan tot dit Verdrag toetreden.
 
 2. De akten van toetreding worden nedergelegd bij de Zwitserse Bondsraad.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Dit Verdrag treedt in werking op de eerste dag van de vierde maand die volgt op de maand van de nederlegging van de tweede akte van bekrachtiging, aanvaarding of goedkeuring.
 
 2. Ten aanzien van een staat die het Verdrag na de inwerkingtreding ervan bekrachtigt, aanvaardt, goedkeurt of ertoe toetreedt, treedt het Verdrag in werking op de eerste dag van de vierde maand die volgt op de maand van de nederlegging door die staat van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Bij de ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding kan elke staat zich het recht voorbehouden:
 
@@ -168,7 +187,7 @@ Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/
 
 3. Elke staat kan te allen tijde een door hem gemaakt voorbehoud intrekken. De intrekking wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de vierde maand die volgt op de maand van ontvangst van de genoemde kennisgeving.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elke staat kan, op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding of op enig ander tijdstip daarna, verklaren dat dit Verdrag zich uitstrekt tot alle grondgebieden voor welker internationale betrekkingen hij verantwoordelijk is, of tot een of meer van deze grondgebieden.
 
@@ -176,13 +195,13 @@ Onverminderd het bepaalde in [artikel 8, tweede lid](https://wetten.overheid.nl/
 
 3. Elke verklaring die overeenkomstig het eerste lid is gedaan, kan worden ingetrokken door middel van een aan de Zwitserse Bondsraad gerichte kennisgeving. Het Verdrag houdt op van toepassing te zijn in het bedoelde grondgebied op de eerste dag van de vierde maand die volgt op de maand van ontvangst van de genoemde kennisgeving.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht.
 
 2. Elke staat die partij is bij dit Verdrag, kan het Verdrag evenwel opzeggen te allen tijde na het verstrijken van een termijn van een jaar, te rekenen vanaf de datum waarop het Verdrag voor die staat in werking is getreden. De opzegging wordt ter kennis gebracht van de Zwitserse Bondsraad en wordt van kracht op de eerste dag van de vierde maand die volgt op de maand van ontvangst van deze kennisgeving. Het Verdrag blijft van kracht tussen de andere staten.
 
-#### Artikel 23
+##### Artikel 23
 
 1. De Zwitserse Bondsraad stelt de lidstaten van de Internationale Commissie voor de Burgerlijke Stand en elke andere staat die tot dit Verdrag is toegetreden in kennis van:
 

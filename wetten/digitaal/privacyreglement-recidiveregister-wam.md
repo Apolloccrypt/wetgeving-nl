@@ -1,24 +1,48 @@
 ---
 title: "Privacyreglement Recidiveregister WAM"
 identifier: "BWBR0005854"
-categorie: "Digitaal en privacy"
-publicatiedatum: 2014-01-01
-laatste_update: 2014-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005854"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-01"
+last_updated: "2014-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005854"
+soort: "ministeriele-regeling"
+stam_id: "4315003"
+version_id: "6077612"
+internal_id: "C6281221"
+label_id: "4293444"
+dtd_version: "2.0"
+original_entry_into_force: "1993-02-02"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005854/2014-01-01/0"
+intitule_bron: "Stcrt.1993-21"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1993-01-18"
+intitule_published: "1993-02-01"
+intitule_in_force: "1993-02-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1993-21"
+original_signed_date: "1993-01-18"
+original_published_date: "1993-02-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1993-02-02"
+jci_1_3: "jci1.3:c:BWBR0005854&z=2014-01-01&g=2014-01-01"
+jci_1_0: "1.0:c:BWBR0005854&g=2014-01-01"
+citeertitel_status: "officieel"
+signed_date: "1993-01-18"
+entry_into_force: "1993-02-02"
 ---
-
 # Privacyreglement Recidiveregister WAM
 
 Overwegende dat ingevolge artikel 19 van de Wet Persoonsregistraties dient te worden voorziern in de vaststelling van een privacyreglement voor de geautomatiseerde gegevensverzameling ten dienste van de afhandeling door de Rijksdienst voor het Wegverkeer van overtredingen van [artikel 30 van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=30),
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 Het bijgevoegde Privacyreglement Recidiveregister WAM wordt vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit en het bijbehorende privacyreglement worden bekend gemaakt in Staatscourant en ter inzage gelegd op de in bedoeld privacyreglement vermelde adressen.
 
@@ -26,11 +50,11 @@ Dit besluit en het bijbehorende privacyreglement worden bekend gemaakt in Staats
 
 ### I. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit reglement wordt verstaan onder:
 
-#### Artikel 2. Doelstelling
+##### Artikel 2. Doelstelling
 
 1. De registratie heeft ten doel het vastleggen van gegevens met betrekking tot overtredingen van artikel 30 jo. artikel 2 WAM ten behoeve van de administratieve verwerking van bedoelde zaken door de RDW, alsmede ten behoeve van het constateren van recidive.
 
@@ -42,7 +66,7 @@ In dit reglement wordt verstaan onder:
 
 - het verschaffen van gegevens ten behoeve van de justitiële documentatie.
 
-#### Artikel 3. Verantwoordelijkheden
+##### Artikel 3. Verantwoordelijkheden
 
 1. De houder is verantwoordelijk voor het beheer en het goed functioneren van de registratie en treft daartoe de nodige voorzieningen op het gebied van organisatie en beveiliging.
 
@@ -50,13 +74,13 @@ In dit reglement wordt verstaan onder:
 
 3. Het hoofd van de afdeling Automatisering is als technisch beheerder verantwoordelijk voor het beheer en de goede werking van de apparatuur, een en ander overeenkomstig de bepalingen van dit reglement.
 
-#### Artikel 4. Invoer en verwerking van gegevens
+##### Artikel 4. Invoer en verwerking van gegevens
 
 De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling en verwijdering daarvan, geschiedt door daartoe in een autorisatiebeschikking door de houder aangewezen opsporingsambtenaren, werkzaam op het Bureau Handhaving binnen de Afdeling Voertuigdocumenten en Centrale Registratie van de RDW.
 
 ### II. Registratie en herkomst van gegevens
 
-#### Artikel 5. Geregistreerde personen
+##### Artikel 5. Geregistreerde personen
 
 In de registratie worden uitsluitend gegevens opgenomen omtrent de volgende categorieën natuurlijke en rechtspersonen:
 
@@ -64,7 +88,7 @@ In de registratie worden uitsluitend gegevens opgenomen omtrent de volgende cate
 
 - b. natuurlijke of rechtspersonen tegen wie proces-verbaal is opgemaakt ter zake van overtreding van artikel 30 jo. artikel 2 WAM, welk proces-verbaal door de opsporingsambtenaar is verzonden aan het parket van de officier van justitie in het arrondissement waarin de woonplaats van de betrokken natuurlijke persoon of de vestigingsplaats van de betrokken rechtspersoon is gelegen.
 
-#### Artikel 6. Geregistreerde gegevens
+##### Artikel 6. Geregistreerde gegevens
 
 Ten aanzien van de in artikel 5 sub a en b bedoelde personen worden, voor zo ver van toepassing, in de registratie ten hoogste de volgende gegevens opgenomen:
 
@@ -100,7 +124,7 @@ Ten aanzien van de in artikel 5 sub a en b bedoelde personen worden, voor zo ver
 
 - m. arrondissementskenmerk van het arrondissement behorend bij het adres van de kentekenhouder. zoals dit is opgenomen in de kentekenregistratie.
 
-#### Artikel 7. Herkomst van de gegevens
+##### Artikel 7. Herkomst van de gegevens
 
 De in artikel 6 bedoelde gegevens zijn op de volgende wijze verkregen:
 
@@ -120,7 +144,7 @@ De in artikel 6 bedoelde gegevens zijn op de volgende wijze verkregen:
 
 ### III. Verwijdering van gegevens
 
-#### Artikel 8. Verwijdering van geregistreerde gegevens
+##### Artikel 8. Verwijdering van geregistreerde gegevens
 
 1. Alle in de registratie opgenomen gegevens worden, na telling ten behoeve van de statistiek, twee jaar en zes maanden na het opnemen van de gegevens uit de registratie verwijderd. De op grond van dit lid verwijderde gegevens worden ter beschikking gesteld aan de justitiële documentatie en maken daarna geen deel meer uit van de registratie.
 
@@ -130,7 +154,7 @@ De op grond van dit lid verwijderde gegevens maken daarna geen deel meer uit van
 
 ### IV. Toegang tot en verstrekking van gegevens uit de registratie
 
-#### Artikel 9. Personen met rechtstreekse toegang tot de registratie
+##### Artikel 9. Personen met rechtstreekse toegang tot de registratie
 
 1. Rechtstreekse toegang tot de registratie en zelfstandige raadpleging van de daarin opgenomen gegevens is, voorzover nodig voor de uitoefening van hun taak en met inachtneming van het doel waarvoor de gegevens zijn verzameld, voorbehouden aan de volgende personen:
 
@@ -152,7 +176,7 @@ De op grond van dit lid verwijderde gegevens maken daarna geen deel meer uit van
 
 - b. combinatie kenteken met datum overtreding.
 
-#### Artikel 10. Personen en instanties aan wie gegevens uit de registratie worden verstrekt
+##### Artikel 10. Personen en instanties aan wie gegevens uit de registratie worden verstrekt
 
 1. Uit de registratie worden aan de volgende personen en/of instanties uitsluitend de volgende gegevens verstrekt:
 
@@ -182,7 +206,7 @@ Een verstrekking als in dit lid bedoeld vindt plaats door middel van overzichtsl
 
 ### V. Kennisneming en correcties van opgenomen gegevens
 
-#### Artikel 11. Recht op kennisneming door geregistreerde van opgenomen gegevens
+##### Artikel 11. Recht op kennisneming door geregistreerde van opgenomen gegevens
 
 1. De geregistreerde of – indien de geregistreerde de leeftijd van zestien jaar nog niet heeft bereikt, dan wel onder curatele is gesteld – diens wettelijke vertegenwoordiger, kan de houder verzoeken hem mede te delen of en zo ja welke op hem betrekking hebbende gegevens in de registratie zijn opgenomen.
 
@@ -210,7 +234,7 @@ onder vermelding van de volgende gegevens.
 
 5. Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze, en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.
 
-#### Artikel 12. Correctierecht van de geregistreerde van opgenomen gegevens
+##### Artikel 12. Correctierecht van de geregistreerde van opgenomen gegevens
 
 1. Degene aan wie overeenkomstig artikel 11 is kennis gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien deze feitelijk onjuist, voor het doel van de registratie onvolledig of niet ter zake dienend zijn, dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.
 
@@ -220,7 +244,7 @@ onder vermelding van de volgende gegevens.
 
 4. De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.
 
-#### Artikel 13. Kennisneming van verstrekking van geregistreerde gegevens aan derden
+##### Artikel 13. Kennisneming van verstrekking van geregistreerde gegevens aan derden
 
 1. De geregistreerde of – indien deze de leeftijd van zestien jaar nog niet heeft bereikt, dan wel onder curatele is gesteld – diens wettelijke vertegenwoordiger kan de houder tevens verzoeken hem mee te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.
 
@@ -230,7 +254,7 @@ onder vermelding van de volgende gegevens.
 
 4. Artikel 11, vijfde lid, is van overeenkomstige toepassing.
 
-#### Artikel 14. Vergoeding van kosten
+##### Artikel 14. Vergoeding van kosten
 
 1. Voor de berichten bedoeld in de artikelen 11 en 13 is een vergoeding verschuldigd van f 10,- per ingediend verzoek.
 
@@ -240,11 +264,11 @@ onder vermelding van de volgende gegevens.
 
 ### VI. Slotbepalingen
 
-#### Artikel 15. Verbanden met andere registraties
+##### Artikel 15. Verbanden met andere registraties
 
 De registratie staat in verband met het Centraal Register WAM en met het Kentekenregister.
 
-#### Artikel 16. Bekendmaking en terinzagelegging
+##### Artikel 16. Bekendmaking en terinzagelegging
 
 1. Dit reglement wordt bekend gemaakt in de Nederlandse Staatscourant.
 
@@ -260,7 +284,7 @@ De registratie staat in verband met het Centraal Register WAM en met het Kenteke
 
 - e. bij de arrondissementsparketten
 
-#### Artikel 17. Inwerkingtreding en verkorte aanduiding
+##### Artikel 17. Inwerkingtreding en verkorte aanduiding
 
 1. Dit reglement treedt in werking met ingang van de dag na publikatie in de Staatscourant.
 

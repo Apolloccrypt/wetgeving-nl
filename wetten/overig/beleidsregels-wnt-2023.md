@@ -1,28 +1,54 @@
 ---
-title: "Beleidsregels WNT 2023"
+title: "Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2022, nr. 2022-0000445575 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2023 (Beleidsregels WNT 2023)"
 identifier: "BWBR0047418"
-categorie: "Overig"
-publicatiedatum: 2023-01-01
-laatste_update: 2023-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047418"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-01-01"
+last_updated: "2023-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047418"
+soort: "ministeriele-regeling"
+stam_id: "16551693"
+version_id: "29013522"
+internal_id: "C41071171"
+label_id: "16472644"
+dtd_version: "2.0"
+original_entry_into_force: "2023-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047418/2023-01-01/0"
+intitule_bron: "Stcrt.2022-26382"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-10-14"
+intitule_published: "2022-11-03"
+intitule_in_force: "2022-11-03"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-26382"
+original_signed_date: "2022-10-14"
+original_published_date: "2022-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-26382"
+entry_into_force_date: "2023-01-01"
+jci_1_3: "jci1.3:c:BWBR0047418&z=2023-01-01&g=2023-01-01"
+jci_1_0: "1.0:c:BWBR0047418&g=2023-01-01"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels WNT 2023"
+signed_date: "2022-10-14"
+entry_into_force: "2023-01-01"
 ---
-
 # Besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2022, nr. 2022-0000445575 houdende vaststelling van beleidsregels inzake de toepassing van de Wet normering topinkomens met ingang van 1 januari 2023 (Beleidsregels WNT 2023)
 
 Gelet op [artikel 1.10 van de Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249&artikel=1.10)
 
 Besluit:
 
-#### Artikel I
+##### Artikel I
 
 De als bijlage bij dit besluit gevoegde beleidsregels zijn voor het jaar 2023 van toepassing op de uitvoering van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249) berustende bepalingen, daaronder begrepen de uitvoering en handhaving door of namens de ministers van die wet en de daartoe door hen aangewezen ambtenaren.
 
-#### Artikel II
+##### Artikel II
 
 Dit besluit wordt aangehaald als: Beleidsregels WNT 2023.
 
-#### Artikel III
+##### Artikel III
 
 Dit besluit treedt in werking met ingang van 1 januari 2023.
 

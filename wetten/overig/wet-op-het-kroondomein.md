@@ -1,14 +1,38 @@
 ---
-title: "Wet op het Kroondomein"
+title: "Wet van 16 maart 1971, houdende nadere voorzieningen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking (Wet op het Kroondomein 1959)"
 identifier: "BWBR0002752"
-categorie: "Overig"
-publicatiedatum: 1997-04-25
-laatste_update: 1997-04-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002752"
+country: "nl"
+rank: "wet"
+publication_date: "1997-04-25"
+last_updated: "1997-04-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002752"
+soort: "wet"
+stam_id: "1722963"
+version_id: "2545342"
+internal_id: "C2545341"
+label_id: "1675464"
+dtd_version: "2.0"
+original_entry_into_force: "1971-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002752/1997-04-25/0"
+intitule_bron: "Stb.1971-159"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1971-03-16"
+intitule_status: "goed"
+original_publication: "Stb.1971-159"
+original_signed_date: "1971-03-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "10686"
+entry_into_force_date: "1971-01-01"
+entry_into_force_dossier: "10686"
+jci_1_3: "jci1.3:c:BWBR0002752&z=1997-04-25&g=1997-04-25"
+jci_1_0: "1.0:c:BWBR0002752&g=1997-04-25"
+citeertitel_status: "officieel"
+short_title: "Wet op het Kroondomein"
+signed_date: "1971-03-16"
+entry_into_force: "1971-01-01"
 ---
-
-# Wet op het Kroondomein
+# Wet van 16 maart 1971, houdende nadere voorzieningen inzake de door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden in 1959 aan de staat gedane schenking (Wet op het Kroondomein 1959)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +40,7 @@ Alzo wij in overweging genomen hebben, dat het wenselijk is nadere wettelijke vo
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -32,21 +56,21 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 "Raad": de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=6&z=1997-04-25&g=1997-04-25) bedoelde Raad van Beheer voor het Kroondomein.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De overeenkomst, neergelegd in de in afdruk bij deze wet gevoegde akte van 29 mei 1970, houdende wijziging van enige der voorwaarden en bepalingen van de schenking door wijlen Hare Koninklijke Hoogheid Prinses Wilhelmina der Nederlanden aan de staat gedaan op 28 januari 1959, wordt bekrachtigd.
 
 2. De in het eerste lid bedoelde wijzigingsovereenkomst is mede bindend voor een ieder die in de toekomst ingevolge de in dat lid bedoelde overeenkomst van schenking rechten en verplichtingen kan verkrijgen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Het domein wordt met inachtneming van de in de akte van schenking gestelde voorwaarden en bepalingen, zoals deze bij de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=2&z=1997-04-25&g=1997-04-25) bedoelde overeenkomst zijn gewijzigd, beheerd als een economische en administratieve eenheid, zoveel mogelijk met inachtneming van bedrijfseconomische beginselen.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Het domein wordt beheerd door een rentmeester, benoemd en ontslagen door de Kroondrager.
 
@@ -58,7 +82,7 @@ Het domein wordt met inachtneming van de in de akte van schenking gestelde voorw
 
 5. De rentmeester is jegens de Kroondrager en de staat persoonlijk aansprakelijk terzake van het gevoerde beheer.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Er is een Raad van Beheer voor het Kroondomein, waarvan de leden worden benoemd en ontslagen door de Kroondrager.
 
@@ -66,19 +90,19 @@ Het domein wordt met inachtneming van de in de akte van schenking gestelde voorw
 
 3. De Kroondrager geeft voorschriften omtrent de samenstelling en de taak van de Raad.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het domein, de inkomsten daaruit en de ertoe behorende zaken kunnen niet met zekerheidsrechten worden bezwaard of weggeschonken worden.
 
 2. Tot aankoop of vervreemding van andere dan roerende lichamelijke zaken, tot vestiging van zakelijke rechten op die zaken, tot dadingen of andere overeenkomsten ter beëindiging van geschillen over rechten op die zaken en tot afstand van die rechten is de rentmeester uitsluitend bevoegd na door de Kroondrager, gehoord de Raad, verleende machtiging.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Gelden en andere zaken, verkregen door de in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=7&z=1997-04-25&g=1997-04-25), bedoelde rechtshandelingen, behoren tot het domein. Aldus verkregen gelden, alsmede uit aflossing en afschrijving verkregen gelden, worden herbelegd, behoudens voor zover zij vereist mochten zijn ter financiering van ongedekte exploitatie-uitgaven of van belegging in roerende kapitaalgoederen.
 
 2. De herbeleggingen geschieden door de rentmeester, na verkregen goedkeuring van de Raad. Het ontbreken van de goedkeuring tast de geldigheid van de terzake door de rentmeester verrichte handelingen niet aan; wel is hij deswege aansprakelijk jegens de Kroondrager en de staat.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De rentmeester stelt jaarlijks een begroting voor het domein voor het eerstvolgende kalenderjaar op. Hij zendt deze voor 1 oktober van elk jaar, de eerste maal vergezeld van een openingsbalans, aan de Raad. De Raad draagt haar, zo hij daartoe aanleiding vindt gewijzigd, aan de Kroondrager ter goedkeuring voor.
 
@@ -90,17 +114,17 @@ Het domein wordt met inachtneming van de in de akte van schenking gestelde voorw
 
 5. De rentmeester stelt periodiek ter kennisneming van de Kroondrager en van de Raad verslagen samen omtrent het gevoerde beheer.
 
-#### Artikel 10
+##### Artikel 10
 
 Van het bepaalde in de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=8&z=1997-04-25&g=1997-04-25) en [9](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=9&z=1997-04-25&g=1997-04-25) kan worden afgeweken op grond van een daartoe strekkende overeenkomst tussen de Kroondrager en de staat, goedgekeurd bij algemene maatregel van bestuur.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De Kroondrager raadpleegt Onze Minister bij het vaststellen van voorschriften en bij benoemingen en ontslagen, genoemd in deze wet, alsmede bij het verlenen van machtiging, bedoeld in [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=7&z=1997-04-25&g=1997-04-25).
 
 2. De rentmeester zendt Onze Minister afschriften van de overeenkomstig [artikel 9](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=9&z=1997-04-25&g=1997-04-25) goedgekeurde begrotingen en rekeningen, alsmede van de in dat artikel bedoelde toelichting en verslagen en licht hem in omtrent in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0002752&artikel=7&z=1997-04-25&g=1997-04-25) bedoelde rechtshandelingen.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Deze wet kan worden aangehaald als "Wet op het Kroondomein".
 

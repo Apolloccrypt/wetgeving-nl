@@ -1,13 +1,38 @@
 ---
 title: "Europees Verdrag inzake de bescherming van het archeologisch erfgoed (herzien)"
 identifier: "BWBV0002031"
-categorie: "Internationaal recht"
-publicatiedatum: 2007-12-12
-laatste_update: 1992-01-16
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002031"
+country: "nl"
+rank: "verdrag"
+publication_date: "2007-12-12"
+last_updated: "1992-01-16"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002031"
+soort: "verdrag"
+stam_id: "10002634753"
+version_id: "10002631652"
+internal_id: "C10006976601"
+label_id: "10002623814"
+dtd_version: "2.0"
+original_entry_into_force: "2007-12-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002031/2007-12-12/0"
+intitule_bron: "Trb.1992-32"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-06-11"
+intitule_published: "1992-03-12"
+intitule_in_force: "2007-07-17"
+intitule_status: "goed"
+original_publication: "Trb.1992-32"
+original_signed_date: "2007-06-11"
+original_published_date: "1992-03-12"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-32"
+entry_into_force_date: "2007-12-12"
+jci_1_3: "jci1.3:c:BWBV0002031&z=2007-12-12&g=2007-12-12"
+jci_1_0: "1.0:c:BWBV0002031&g=2007-12-12"
+citeertitel_status: "redactioneel"
+signed_date: "2007-06-11"
+entry_into_force: "2007-12-12"
 ---
-
 # Europees Verdrag inzake de bescherming van het archeologisch erfgoed (herzien)
 
 Preambule
@@ -38,7 +63,7 @@ Vaststellend de noodzaak de beginselen vervat in het Europees Verdrag inzake de 
 
 Zijn als volgt overeengekomen:
 
-#### Artikel 1. Omschrijving van het archeologische erfgoed
+##### Artikel 1. Omschrijving van het archeologische erfgoed
 
 1. Dit (herziene) Verdrag heeft tot doel het archeologische erfgoed te beschermen als bron van het Europese gemeenschappelijke geheugen en als middel voor geschiedkundige en wetenschappelijke studie.
 
@@ -52,7 +77,7 @@ Zijn als volgt overeengekomen:
 
 3. Tot het archeologische erfgoed behoren bouwwerken, gebouwen, complexen, aangelegde terreinen, roerende zaken, monumenten van andere aard, alsmede hun context, ongeacht of zij op het land of onder water zijn gelegen.
 
-#### Artikel 2. Aanduiding van het erfgoed en beschermingsmaatregelen
+##### Artikel 2. Aanduiding van het erfgoed en beschermingsmaatregelen
 
 Iedere Partij verplicht zich ertoe, op een wijze die eigen is aan de betrokken Staat, een rechtsstelsel in te stellen voor de bescherming van het archeologische erfgoed, dat voorziet in:
 
@@ -62,7 +87,7 @@ Iedere Partij verplicht zich ertoe, op een wijze die eigen is aan de betrokken S
 
 - iii. de verplichting voor de vinder om de toevallige ontdekking van bestanddelen van het archeologische erfgoed te melden aan de bevoegde autoriteiten en deze ter beschikking te stellen voor onderzoek.
 
-#### Artikel 3
+##### Artikel 3
 
 Met het oog op het behoud van het archeologische erfgoed en het waarborgen van de wetenschappelijke betekenis van het archeologisch onderzoek, verplicht iedere Partij zich ertoe:
 
@@ -80,7 +105,7 @@ Met het oog op het behoud van het archeologische erfgoed en het waarborgen van d
 
 - iii. het gebruik van metaaldetectors en andere detectie-apparatuur of werkwijzen voor archeologisch onderzoek te onderwerpen aan speciale voorafgaande machtiging wanneer het nationale recht van de Staat daarin voorziet.
 
-#### Artikel 4
+##### Artikel 4
 
 Iedere Partij verplicht zich ertoe maatregelen te nemen voor de fysieke bescherming van het archeologische erfgoed door, naar gelang de omstandigheden, zorg te dragen voor:
 
@@ -90,7 +115,7 @@ Iedere Partij verplicht zich ertoe maatregelen te nemen voor de fysieke bescherm
 
 - iii. de inrichting van passende bewaarplaatsen voor archeologische overblijfselen die van de oorspronkelijke vindplaats zijn verwijderd.
 
-#### Artikel 5. Geïntegreerd behoud van het archeologische erfgoed
+##### Artikel 5. Geïntegreerd behoud van het archeologische erfgoed
 
 Iedere Partij verplicht zich ertoe:
 
@@ -112,7 +137,7 @@ Iedere Partij verplicht zich ertoe:
 
 - v. te waarborgen dat de openstelling van archeologische vindplaatsen voor het publiek, met name de nodige voorzieningen voor het opvangen van grote aantallen bezoekers, het archeologische en wetenschappelijke karakter van die plaatsen en hun omgeving niet aantast.
 
-#### Artikel 6. De financiering van archeologisch onderzoek en behoud
+##### Artikel 6. De financiering van archeologisch onderzoek en behoud
 
 Iedere Partij verplicht zich ertoe:
 
@@ -124,7 +149,7 @@ Iedere Partij verplicht zich ertoe:
 
 - b. door in de begroting voor deze projecten een post op te nemen op dezelfde wijze als voor onderzoeken naar de effecten, noodzakelijk uit zorg voor het milieu en de ruimtelijke ordening voor voorafgaande archeologische studies en onderzoeken, voor beknopte wetenschappelijke verslagen, alsmede voor de volledige publikatie en registratie van de bevindingen.
 
-#### Artikel 7. Verzameling en verspreiding van wetenschappelijke informatie
+##### Artikel 7. Verzameling en verspreiding van wetenschappelijke informatie
 
 Ter vergemakkelijking van de bestudering van, en de verspreiding van de kennis over, archeologische vondsten, verplicht iedere Partij zich ertoe:
 
@@ -132,7 +157,7 @@ Ter vergemakkelijking van de bestudering van, en de verspreiding van de kennis o
 
 - ii. alle praktische maatregelen te treffen gericht op de opstelling, na afloop van de archeologische verrichtingen, van een publiceerbaar beknopt wetenschappelijk verslag, voorafgaand aan de noodzakelijke volledige publikatie van de specialistische studies.
 
-#### Artikel 8
+##### Artikel 8
 
 Iedere Partij verplicht zich ertoe:
 
@@ -140,7 +165,7 @@ Iedere Partij verplicht zich ertoe:
 
 - ii. de uitwisseling van informatie betreffende lopende archeologische onderzoeken en opgravingen te stimuleren en bij te dragen tot het organiseren van internationale onderzoeksprogramma's.
 
-#### Artikel 9. Bewustmaking van het publiek
+##### Artikel 9. Bewustmaking van het publiek
 
 Iedere Partij verplicht zich ertoe:
 
@@ -148,7 +173,7 @@ Iedere Partij verplicht zich ertoe:
 
 - ii. de toegang van het publiek tot belangrijke bestanddelen van het archeologisch erfgoed, met name vindplaatsen, te bevorderen en het tentoonstellen aan het publiek van geselecteerde archeologische voorwerpen te stimuleren.
 
-#### Artikel 10. Voorkoming van illegaal verkeer van bestanddelen van het archeologische erfgoed
+##### Artikel 10. Voorkoming van illegaal verkeer van bestanddelen van het archeologische erfgoed
 
 Iedere Partij verplicht zich ertoe:
 
@@ -166,11 +191,11 @@ Iedere Partij verplicht zich ertoe:
 
 - v. de overdracht van bestanddelen van het archeologische erfgoed afkomstig uit ongecontroleerde vondsten, illegale opgravingen of verduistering bij officiële opgravingen zo veel mogelijk te beperken door middel van voorlichting, informatie, waakzaamheid en samenwerking.
 
-#### Artikel 11
+##### Artikel 11
 
 Geen enkele bepaling van dit (herziene) Verdrag doet afbreuk aan bestaande of toekomstige bilaterale of multilaterale verdragen tussen Partijen inzake illegaal verkeer van bestanddelen van het archeologische erfgoed of teruggave daarvan aan de rechtmatige eigenaar.
 
-#### Artikel 12. Wederzijdse technische en wetenschappelijke bijstand
+##### Artikel 12. Wederzijdse technische en wetenschappelijke bijstand
 
 De Partijen verplichten zich ertoe:
 
@@ -178,7 +203,7 @@ De Partijen verplichten zich ertoe:
 
 - ii. overeenkomstig de desbetreffende nationale wetgeving of internationale overeenkomsten waardoor zij zijn gebonden, de uitwisseling te stimuleren van specialisten op het gebied van het behoud van het archeologische erfgoed, met inbegrip van specialisten op het gebied van de nascholing.
 
-#### Artikel 13. Toetsing van de toepassing van dit (herziene) Verdrag
+##### Artikel 13. Toetsing van de toepassing van dit (herziene) Verdrag
 
 Ten behoeve van dit (herziene) Verdrag wordt een commissie van deskundigen, ingesteld door het Comité van ministers van de Raad van Europa ingevolge [artikel 17 van het Statuut van de Raad van Europa,](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=17) belast met toetsing van de toepassing van dit (herziene) Verdrag; zij doet in het bijzonder:
 
@@ -188,7 +213,7 @@ Ten behoeve van dit (herziene) Verdrag wordt een commissie van deskundigen, inge
 
 - iii. aanbevelingen aan het Comité van ministers van de Raad van Europa betreffende uitnodigingen aan Staten die geen lid zijn van de Raad van Europa, om tot dit (herziene) Verdrag toe te treden.
 
-#### Artikel 14. Slotbepalingen
+##### Artikel 14. Slotbepalingen
 
 1. Dit (herziene) Verdrag staat open voor ondertekening door de Lidstaten van de Raad van Europa en de andere Staten die partij zijn bij het [Europees Cultureel Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098). Het dient te worden bekrachtigd, aanvaard, of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.
 
@@ -200,13 +225,13 @@ Ten behoeve van dit (herziene) Verdrag wordt een commissie van deskundigen, inge
 
 5. Ten aanzien van een Staat die dit (herziene) Verdrag heeft ondertekend en die zijn instemming hierdoor te worden gebonden later tot uitdrukking brengt, treedt het in werking zes maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Na de inwerkingtreding van dit (herziene) Verdrag kan het Comité van ministers van de Raad van Europa iedere andere Staat die geen lid is van de Raad van Europa, alsmede de Europese Economische Gemeenschap, uitnodigen tot dit (herziene) Verdrag toe te treden, zulks bij een besluit genomen met de meerderheid voorzien in [artikel 20, letter d, van het Statuut van de Raad van Europa](https://wetten.overheid.nl/jci1.3:c:BWBV0005506&artikel=20) en met algemene stemmen van de vertegenwoordigers van de Verdragsluitende Staten die het recht hebben in het Comité van ministers zitting te hebben.
 
 2. Ten aanzien van een toetredende Staat of de Europese Economische Gemeenschap, mocht deze toetreden, treedt dit (herziene) Verdrag in werking zes maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Iedere Staat kan op het tijdstip van ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aangeven waarop dit (herziene) Verdrag van toepassing zal zijn.
 
@@ -214,13 +239,13 @@ Ten behoeve van dit (herziene) Verdrag wordt een commissie van deskundigen, inge
 
 3. Een krachtens de twee voorgaande leden afgelegde verklaring kan, ten aanzien van een in die verklaring genoemd gebied, worden ingetrokken door middel van een kennisgeving gericht aan de Secretaris-Generaal. De intrekking wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Een Partij kan dit (herziene) Verdrag te allen tijde opzeggen door middel van een kennisgeving gericht aan de Secretaris-Generaal van de Raad van Europa.
 
 2. De opzegging wordt van kracht zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.
 
-#### Artikel 18
+##### Artikel 18
 
 De Secretaris-Generaal van de Raad van Europa stelt de Lidstaten van de Raad van Europa, de andere Staten die partij zijn bij het [Europese Culturele Verdrag](https://wetten.overheid.nl/jci1.3:c:BWBV0005098) en iedere Staat, of de Europese Economische Gemeenschap, die tot dit Verdrag is toegetreden of is uitgenodigd daartoe toe te treden in kennis van:
 

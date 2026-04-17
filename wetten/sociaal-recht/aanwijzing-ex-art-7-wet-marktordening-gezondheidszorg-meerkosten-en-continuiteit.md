@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing ex art. 7 Wet marktordening gezondheidszorg (meerkosten en continuïteitsbijdrage vanwege coronavirus in curatieve en forensische zorg)"
+title: "Aanwijzing van de Minister voor Medische Zorg van 23 april 2020, kenmerk 1677978-204496-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de meerkosten en continuïteitsbijdrage vanwege het coronavirus in curatieve en forensische zorg"
 identifier: "BWBR0043431"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-04-28
-laatste_update: 2020-04-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043431"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2020-04-28"
+last_updated: "2020-04-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043431"
+soort: "ministeriele-regeling"
+stam_id: "15421033"
+version_id: "26652822"
+internal_id: "C37804831"
+label_id: "15364714"
+dtd_version: "2.0"
+original_entry_into_force: "2020-04-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043431/2020-04-28/0"
+intitule_bron: "Stcrt.2020-23915"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2020-04-23"
+intitule_published: "2020-04-28"
+intitule_in_force: "2020-04-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-23915"
+original_signed_date: "2020-04-23"
+original_published_date: "2020-04-28"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-23915"
+entry_into_force_date: "2020-04-28"
+jci_1_3: "jci1.3:c:BWBR0043431&z=2020-04-28&g=2020-04-28"
+jci_1_0: "1.0:c:BWBR0043431&g=2020-04-28"
+citeertitel_status: "redactioneel"
+short_title: "Aanwijzing ex art. 7 Wet marktordening gezondheidszorg (meerkosten en continuïteitsbijdrage vanwege coronavirus in curatieve en forensische zorg)"
+signed_date: "2020-04-23"
+entry_into_force: "2020-04-28"
 ---
-
 # Aanwijzing van de Minister voor Medische Zorg van 23 april 2020, kenmerk 1677978-204496-PZO, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake de meerkosten en continuïteitsbijdrage vanwege het coronavirus in curatieve en forensische zorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -16,7 +42,7 @@ Na op 15 april 2020 schriftelijk mededeling te hebben gedaan aan de Eerste en Tw
 
 Besluit:
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -28,11 +54,11 @@ In deze aanwijzing wordt verstaan onder:
 
 - –. **zorgautoriteit:** Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=3).
 
-#### Artikel 2. Werkingssfeer
+##### Artikel 2. Werkingssfeer
 
 Deze aanwijzing is van toepassing op zorg als bedoeld in de [wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078), met uitzondering van zorg als bedoeld in de [Wet langdurige zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0035917), voor zover tarief- en prestatieregulering van toepassing is op deze zorg.
 
-#### Artikel 3. Prestatiebeschrijvingen en tarieven
+##### Artikel 3. Prestatiebeschrijvingen en tarieven
 
 1. De zorgautoriteit stelt een prestatiebeschrijving vast voor een continuïteitsbijdrage.
 
@@ -40,7 +66,7 @@ Deze aanwijzing is van toepassing op zorg als bedoeld in de [wet](https://wetten
 
 3. Voor de prestatiebeschrijvingen, bedoeld in het eerste en tweede lid, geldt een vrij tarief.
 
-#### Artikel 4. Opdracht
+##### Artikel 4. Opdracht
 
 1. De zorgautoriteit stelt ter uitvoering van deze aanwijzing beleidsregels en regels vast.
 
@@ -48,7 +74,7 @@ Deze aanwijzing is van toepassing op zorg als bedoeld in de [wet](https://wetten
 
 3. De beleidsregels en regels van de zorgautoriteit treden in werking op of rond 1 mei 2020, en werken terug tot en met 1 maart 2020. De beleidsregels en regels gelden uiterlijk tot en met 31 december 2021, voor zover noodzakelijk voor de declaratie van kosten die samenhangen met de coronapandemie.
 
-#### Artikel 5. Macrobeheersbaarheid
+##### Artikel 5. Macrobeheersbaarheid
 
 In afwijking van eerder gegeven aanwijzingen aan de zorgautoriteit, maken de tarieven, bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0043431&artikel=3&z=2020-04-28&g=2020-04-28), geen onderdeel uit van geldende macrobeheersinstrumenten.
 

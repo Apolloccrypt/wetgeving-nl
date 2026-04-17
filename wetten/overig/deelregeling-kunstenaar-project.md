@@ -1,24 +1,46 @@
 ---
 title: "Deelregeling Kunstenaar Project"
 identifier: "BWBR0044529"
-categorie: "Overig"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044529"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044529"
+soort: "zbo"
+stam_id: "15764583"
+version_id: "27318882"
+internal_id: "C38586481"
+label_id: "15702764"
+dtd_version: "2.0"
+original_entry_into_force: "2021-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044529/2025-01-01/0"
+intitule_bron: "Stcrt.2020-62370"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-12-14"
+intitule_in_force: "2020-12-14"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-62370"
+original_published_date: "2020-12-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-62370"
+entry_into_force_date: "2021-01-01"
+jci_1_3: "jci1.3:c:BWBR0044529&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0044529&g=2025-01-01"
+citeertitel_status: "officieel"
+entry_into_force: "2021-01-01"
 ---
-
 # Deelregeling Kunstenaar Project
 
 Gelet op [artikel 10, lid 4 van de Wet op het specifiek cultuurbeleid](https://wetten.overheid.nl/jci1.3:c:BWBR0005904&artikel=10);
 
 Besluit:
 
-#### Artikel 1. Doel
+##### Artikel 1. Doel
 
 Het stimuleren van talentontwikkeling door beeldend kunstenaars de mogelijkheid te geven een artistiek plan te realiseren dat van belang is voor de kwaliteit en de zichtbaarheid van de hedendaagse beeldende kunst in Nederland.
 
-#### Artikel 2. Toepasselijkheid
+##### Artikel 2. Toepasselijkheid
 
 1. Een kunstenaar die een aanvraag doet voor een projectinvestering dient minimaal één jaar als professioneel beeldend kunstenaar werkzaam te zijn. Daarbij geldt:
 
@@ -42,7 +64,7 @@ Het stimuleren van talentontwikkeling door beeldend kunstenaars de mogelijkheid 
 
 7. Geen bijdrage wordt verstrekt voor reguliere werkzaamheden, voor tentoonstellingskosten en andere presentaties van werk, voor reguliere beroepskosten of voor een werkperiode in een gastatelier in binnen- of buitenland die jaarlijks via een openbare oproep door het fonds worden aangeboden.
 
-#### Artikel 3. Aanvraag
+##### Artikel 3. Aanvraag
 
 Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overheid.nl/jci1.3:c:BWBR0044527), in het aanvraagformulier en in de toelichting daarop, dient de aanvraag vergezeld te gaan van:
 
@@ -62,7 +84,7 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 - •. indien van toepassing een curriculum of andere informatie over de instelling, waarvoor aangevraagd wordt.
 
-#### Artikel 4. Beoordeling
+##### Artikel 4. Beoordeling
 
 1. Het bestuur kan selectierondes voor onderdelen van projectinvesteringen vaststellen conform [artikel 4, eerste lid van het Algemeen Reglement van het Mondriaan Fonds](https://wetten.overheid.nl/jci1.3:c:BWBR0044527&artikel=4).
 
@@ -92,15 +114,15 @@ Naast de bepalingen vastgesteld in het [Algemeen Reglement](https://wetten.overh
 
 9. Het bestuur kan het bevoegd adviesorgaan verzoeken de positieve adviezen in volgorde van prioriteit te rangschikken op basis van het oordeel zoals bedoeld in het eerste, tweede en derde lid van dit artikel.
 
-#### Artikel 5. Overgangsbepaling
+##### Artikel 5. Overgangsbepaling
 
 De Deelregeling Projectinvestering Kunstenaar en Bemiddelaar wordt met ingang van 1 januari 2021 ingetrokken. Op aanvragen die op grond van de [Deelregeling Bijdrage Projectinvestering Kunstenaar en Bemiddelaar](https://wetten.overheid.nl/jci1.3:c:BWBR0038799) voor 1 januari 2021 zijn ingediend, blijven die regeling en het [Algemeen Reglement Mondriaan Fonds 2017](https://wetten.overheid.nl/jci1.3:c:BWBR0038798) van toepassing.
 
-#### Artikel 6. Inwerkingtreding
+##### Artikel 6. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 1 januari 2021. Indien de Staatscourant waarin deze regeling wordt geplaatst wordt uitgegeven na 31 december 2020, treedt zij in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 2021.
 
-#### Artikel 7. Citeertitel
+##### Artikel 7. Citeertitel
 
 Deze regeling wordt aangehaald als: Deelregeling Kunstenaar Project
 

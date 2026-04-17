@@ -1,13 +1,39 @@
 ---
-title: "Besluit vaststelling selectielijst van de Raad van State deelbeleidsterrein bestuursrechtspraak en algemene taken en bedrijfsvoering"
+title: "Besluit van 14 november 2011, nr. 11.002711 houdende vaststelling van een selectielijst van de Raad van State op het deelbeleidsterrein van bestuursrechtspraak en algemene taken en bedrijfsvoering"
 identifier: "BWBR0030699"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-12-03
-laatste_update: 2011-12-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030699"
+country: "nl"
+rank: "kb"
+publication_date: "2011-12-03"
+last_updated: "2011-12-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030699"
+soort: "KB"
+stam_id: "11509413"
+version_id: "18940682"
+internal_id: "C26435281"
+label_id: "11482704"
+dtd_version: "2.0"
+original_entry_into_force: "2011-12-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030699/2011-12-03/0"
+intitule_bron: "Stcrt.2011-21590"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-14"
+intitule_published: "2011-12-01"
+intitule_in_force: "2011-12-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-21590"
+original_signed_date: "2011-11-14"
+original_published_date: "2011-12-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-21590"
+entry_into_force_date: "2011-12-03"
+jci_1_3: "jci1.3:c:BWBR0030699&z=2011-12-03&g=2011-12-03"
+jci_1_0: "1.0:c:BWBR0030699&g=2011-12-03"
+citeertitel_status: "redactioneel"
+short_title: "Besluit vaststelling selectielijst van de Raad van State deelbeleidsterrein bestuursrechtspraak en algemene taken en bedrijfsvoering"
+signed_date: "2011-11-14"
+entry_into_force: "2011-12-03"
 ---
-
 # Besluit van 14 november 2011, nr. 11.002711 houdende vaststelling van een selectielijst van de Raad van State op het deelbeleidsterrein van bestuursrechtspraak en algemene taken en bedrijfsvoering
 
 Op de voordracht van de staatssecretaris van Onderwijs, Cultuur en Wetenschap van (d.d. 31 oktober, kenmerk NA/11/8195) gedaan in overeenstemming met de Raad van State;
@@ -18,11 +44,11 @@ Gezien het advies van de Raad voor Cultuur van 14 september 2011 (kenmerk bca-20
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde ‘ Selectielijst voor de Raad van State inzake bestuursrechtspraak vanaf 1994 en algemene taken en bedrijfsvoering vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 

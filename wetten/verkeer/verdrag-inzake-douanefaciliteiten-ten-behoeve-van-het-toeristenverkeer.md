@@ -1,13 +1,35 @@
 ---
 title: "Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer"
 identifier: "BWBV0005182"
-categorie: "Verkeer"
-publicatiedatum: 1967-06-06
-laatste_update: 1967-06-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005182"
+country: "nl"
+rank: "verdrag"
+publication_date: "1967-06-06"
+last_updated: "1967-06-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005182"
+soort: "verdrag"
+stam_id: "10004498263"
+version_id: "10004713672"
+internal_id: "C10007189361"
+label_id: "10004483294"
+dtd_version: "2.0"
+original_entry_into_force: "1958-06-05"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005182/1967-06-06/0"
+intitule_bron: "Trb.1955-122"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-08-20"
+intitule_in_force: "1958-07-26"
+intitule_status: "goed"
+original_publication: "Trb.1955-122"
+original_published_date: "1955-08-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-122"
+entry_into_force_date: "1958-06-05"
+jci_1_3: "jci1.3:c:BWBV0005182&z=1967-06-06&g=1967-06-06"
+jci_1_0: "1.0:c:BWBV0005182&g=1967-06-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1958-06-05"
 ---
-
 # Verdrag inzake douanefaciliteiten ten behoeve van het toeristenverkeer
 
 DE VERDRAGSLUITENDE STATEN,
@@ -16,7 +38,7 @@ DE VERDRAGSLUITENDE STATEN,
 
 **Hebben besloten** een Verdrag te sluiten en zijn het volgende overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Verdrag wordt verstaan:
 
@@ -26,7 +48,7 @@ Voor de toepassing van dit Verdrag wordt verstaan:
 
 - c). onder „Bewijs van tijdelijke invoer” het douanedocument blijkens hetwelk zekerheid is gesteld dan wel consignatie heeft plaatsgevonden voor de rechten en heffingen ter zake van de invoer welke verschuldigd zijn indien wordt nagelaten de tijdelijk ingevoerde goederen weder uit te voeren.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Behoudens de andere bepalingen van dit Verdrag zal elke Verdragsluitende Staat met tijdelijke vrijstelling van rechten en heffingen ter zake van de invoer toelaten de persoonlijke goederen die door een toerist worden ingevoerd, mits deze goederen bestemd zijn voor diens persoonlijk gebruik en hij de goederen zelf of in zijn reisbagage medevoert, mits er geen vrees voor misbruik bestaat en mits deze persoonlijke goederen door de toerist weder zullen worden uitgevoerd wanneer hij het land verlaat.
 
@@ -60,7 +82,7 @@ Voor de toepassing van dit Verdrag wordt verstaan:
 
 - sportartikelen (een vissersuitrusting, een jachtgeweer met vijftig patronen, een rijwiel zonder motor, een kano of kajak met een lengte van niet meer dan 5,50 m, een paar ski's, twee tennisrackets en andere soortgelijke artikelen).
 
-#### Artikel 3
+##### Artikel 3
 
 Behoudens de andere bepalingen van dit Verdrag zal elke Verdragsluitende Staat met vrijstelling van rechten en heffingen ter zake van de invoer toelaten de volgende goederen, welke door een toerist voor zijn persoonlijk gebruik worden ingevoerd, mits hij de goederen zelf of in zijn handbagage medevoert en mits er geen vrees voor misbruik bestaat:
 
@@ -70,7 +92,7 @@ Behoudens de andere bepalingen van dit Verdrag zal elke Verdragsluitende Staat m
 
 - c). een kwart liter toiletwater en een kleine hoeveelheid parfum.
 
-#### Artikel 4
+##### Artikel 4
 
 Behoudens de andere bepalingen van dit Verdrag en mits er geen vrees voor misbruik bestaat, verleent elke Verdragsluitende Staat aan een toerist:
 
@@ -78,27 +100,27 @@ Behoudens de andere bepalingen van dit Verdrag en mits er geen vrees voor misbru
 
 - b). machtiging om, onder ontheffing van formaliteiten met betrekking tot de deviezencontrole en met vrijstelling van uitvoerrechten, reissouvenirs welke de toerist in het land heeft gekocht, uit te voeren tot een totale waarde van niet meer dan 100 Amerikaanse dollars, mits hij de souvenirs zelf of in zijn reisbagage medevoert en mits deze souvenirs niet bestemd zijn voor handelsdoeleinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Elke Verdragsluitende Staat kan eisen, dat de in artikel 2 bedoelde voorwerpen, indien zij een hoge waarde hebben, gedekt zijn door een Bewijs van tijdelijke invoer.
 
-#### Artikel 6
+##### Artikel 6
 
 De Verdragsluitende Staten zullen ernaar streven geen douaneformaliteiten in te stellen die de ontwikkeling van het internationale toeristenverkeer zouden kunnen belemmeren.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten einde de vervulling van de douaneformaliteiten te bespoedigen, zullen aangrenzende Verdragsluitende Staten ernaar streven hun douanekantoren in elkaars onmiddellijke nabijheid te plaatsen en de tegenover elkaar gelegen douanekantoren tijdens dezelfde uren open te stellen.
 
-#### Artikel 8
+##### Artikel 8
 
 De bepalingen van dit Verdrag doen in geen enkel opzicht afbreuk aan de toepassing van politie- en andere reglementen betreffende de invoer, het bezit en het dragen van wapenen en munitie.
 
-#### Artikel 9
+##### Artikel 9
 
 Elke Verdragsluitende Staat erkent dat verboden die hij uitvaardigt met betrekking tot de invoer of de uitvoer van in dit Verdrag bedoelde goederen, slechts van toepassing zijn, voor zover die verboden gegrond zijn op overwegingen welke niet van economische aard zijn, zoals overwegingen van openbare zedelijkheid, openbare veiligheid of volksgezondheid, of wel hygiënische, veterinaire of fytopathologische overwegingen.
 
-#### Artikel 10
+##### Artikel 10
 
 De vrijstellingen en andere faciliteiten welke zijn neergelegd in dit Verdrag zijn niet van toepassing op het grensverkeer.
 
@@ -110,53 +132,53 @@ Evenmin zullen deze vrijstellingen en faciliteiten zonder meer worden toegepast:
 
 - c). ten aanzien van toeristen beneden de leeftijd van 17 jaar.
 
-#### Artikel 11
+##### Artikel 11
 
 In geval van fraude, overtreding of misbruik hebben de Verdragsluitende Staten het recht vervolging in te stellen tot invordering van de eventueel verschuldigde rechten en heffingen ter zake van de invoer, alsmede voor het opleggen van straffen waaraan de personen aan wie vrijstellingen of andere faciliteiten zijn verleend, zich hebben blootgesteld.
 
-#### Artikel 12
+##### Artikel 12
 
 Elke inbreuk op de bepalingen van dit Verdrag, elke verwisseling, valse verklaring of handeling, die tot gevolg heeft dat ten aanzien van een persoon of een voorwerp de in dit Verdrag neergelegde bepalingen met betrekking tot de tijdelijke invoer ten onrechte worden toegepast, stelt de overtreder in het land waar de overtreding is begaan, bloot aan de straffen welke zijn voorzien in de wetgeving van dat land.
 
-#### Artikel 13
+##### Artikel 13
 
 Geen enkele bepaling van dit Verdrag zal de Verdragsluitende Staten die een douane-unie of een economische unie vormen, kunnen beletten bijzondere bepalingen vast te stellen, welke van toepassing zijn op personen die hun normale verblijf hebben in de landen die deel uitmaken van die unie.
 
-#### Artikel 14
+##### Artikel 14
 
 1. Dit Verdrag staat tot en met 31 december 1954 open voor ondertekening namens iedere Staat die lid is van de Organisatie van de Verenigde Naties en namens elke andere Staat die is uitgenodigd deel te nemen aan de Conferentie van de Verenigde Naties nopens douaneformaliteiten met betrekking tot de tijdelijke invoer van voertuigen gebezigd in het toeristenverkeer en met betrekking tot het toeristenverkeer, welke Conferentie in mei en juni 1954 te New York is gehouden en die hierna zal worden aangeduid als „de Conferentie”.
 
 2. Dit Verdrag is onderworpen aan bekrachtiging en de akten van bekrachtiging zullen worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 15
+##### Artikel 15
 
 1. Van 1 januari 1955 af kan elke Staat, bedoeld in het eerste lid van artikel 14, en elke andere Staat, die hiertoe wordt uitgenodigd door de Economische en Sociale Raad van de Verenigde Naties, tot dit Verdrag toetreden. Toetreding zal eveneens mogelijk zijn namens elk trustgebied waarvoor de Organisatie van de Verenigde Naties de beherende Autoriteit is.
 
 2. De toetreding geschiedt door nederlegging van een akte van toetreding bij de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 16
+##### Artikel 16
 
 1. Dit Verdrag treedt in werking op de negentigste dag na de datum van nederlegging van de vijftiende akte van bekrachtiging of van toetreding, hetzij zonder voorbehoud, hetzij onder voorbehoud dat overeenkomstig de bepalingen van artikel 20 is aanvaard.
 
 2. Met betrekking tot elke Staat die dit Verdrag heeft bekrachtigd of die daartoe is toegetreden na de datum van nederlegging van de vijftiende akte van bekrachtiging of van toetreding, als bedoeld in het vorige lid, treedt dit Verdrag in werking op de negentigste dag na de datum van nederlegging van zijn akte van bekrachtiging of van toetreding, hetzij zonder voorbehoud, hetzij onder voorbehoud dat overeenkomstig de bepalingen van artikel 20 is aanvaard.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Nadat dit Verdrag gedurende drie jaren in werking zal zijn geweest, kan het door elke Verdragsluitende Staat worden opgezegd door een daartoe strekkende, aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving.
 
 2. De opzegging zal van kracht worden vijftien maanden na de datum van ontvangst van de kennisgeving van opzegging door de Secretaris-Generaal van de Verenigde Naties.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwerkingtreding het aantal Verdragsluitende Staten minder is dan acht gedurende een tijdvak van twaalf opeenvolgende maanden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Elke Staat kan ten tijde van de nederlegging van zijn akte van bekrachtiging of van toetreding of te eniger tijd daarna door middel van een aan de Secretaris-Generaal van de Verenigde Naties gerichte kennisgeving verklaren, dat dit Verdrag van toepassing zal zijn ten aanzien van alle of een deel van de gebieden welker internationale betrekkingen hij behartigt. Het Verdrag zal van toepassing zijn ten aanzien van de in de kennisgeving genoemde gebieden met ingang van de negentigste dag na ontvangst van die kennisgeving door de Secretaris-Generaal, indien de kennisgeving is gedaan zonder voorbehoud, of met ingang van de negentigste dag nadat de kennisgeving ingevolge artikel 20 van kracht zal zijn geworden, dan wel op de datum waarop het Verdrag ten aanzien van de desbetreffende Staat in werking treedt, zijnde de laatste van deze tijdstippen beslissend.
 
 2. Elke Staat die overeenkomstig het voorgaande lid een verklaring heeft afgelegd waardoor dit Verdrag van toepassing wordt ten aanzien van een gebied welks internationale betrekkingen hij behartigt, kan dit Verdrag overeenkomstig de bepalingen van artikel 17 met betrekking tot dit gebied afzonderlijk opzeggen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. Een voorbehoud met betrekking tot dit Verdrag, gemaakt vóór de ondertekening van de Slotakte, wordt toegelaten indien het door de Conferentie bij meerderheid van stemmen is aanvaard en in de Slotakte is neergelegd.
 
@@ -172,7 +194,7 @@ Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwer
 
 7. De Verdragsluitende Staten zijn niet verplicht aan een Staat die een voorbehoud heeft gemaakt de voorrechten toe te kennen, welke voortvloeien uit de bepalingen van het Verdrag ten aanzien waarvan het voorbehoud is gemaakt. Elke Staat die van deze bevoegdheid gebruik maakt, dient de Secretaris-Generaal daarvan in kennis te stellen, en deze zal hiervan mededeling doen aan de ondertekenende en Verdragsluitende Staten.
 
-#### Artikel 21
+##### Artikel 21
 
 1. Elk geschil tussen twee of meer Verdragsluitende Staten betreffende de uitlegging of de toepassing van dit Verdrag zal voor zoveel mogelijk worden beslecht door middel van onderhandelingen tussen de Staten waartussen geschil is gerezen.
 
@@ -180,7 +202,7 @@ Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwer
 
 3. De uitspraak van de overeenkomstig het vorige lid aangewezen scheidsrechter of scheidsrechters zal bindend zijn voor de betrokken Verdragsluitende Staten.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Nadat dit Verdrag gedurende drie jaren in werking zal zijn geweest, kan elke Verdragsluitende Staat door een kennisgeving gericht aan de Secretaris-Generaal van de Verenigde Naties de bijeenroeping van een conferentie verzoeken, ten einde dit Verdrag te herzien. De Secretaris-Generaal zal van dit verzoek mededeling doen aan alle Verdragsluitende Staten en zal een conferentie ter herziening van dit Verdrag bijeenroepen, indien binnen vier maanden na de datum van de door hem gedane mededeling ten minste de helft van de Verdragsluitende Staten hem hun instemming met dit verzoek hebben kenbaar gemaakt.
 
@@ -188,7 +210,7 @@ Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwer
 
 3. De Secretaris-Generaal zal alle Verdragsluitende Staten en alle andere Staten die lid zijn van de Organisatie van de Verenigde Naties of van een van de gespecialiseerde organisaties uitnodigen tot bijwoning van een conferentie welke overeenkomstig dit artikel wordt bijeengeroepen.
 
-#### Artikel 23
+##### Artikel 23
 
 1. Elke Verdragsluitende Staat kan een of meer wijzigingen van dit Verdrag voorstellen. De tekst van elke voorgestelde wijziging zal worden ingediend bij de Secretaris-Generaal van de Verenigde Naties, die deze tekst zal doen toekomen aan alle Verdragsluitende Staten.
 
@@ -196,7 +218,7 @@ Dit Verdrag zal ophouden van kracht te zijn, indien te eniger tijd na zijn inwer
 
 3. De Secretaris-Generaal zal alle Verdragsluitende Staten zo spoedig mogelijk ervan in kennis stellen, indien bezwaren tegen de voorgestelde wijziging zijn gemaakt. Indien geen bezwaar wordt gemaakt, zal de wijziging voor alle Verdragsluitende Staten in werking treden drie maanden na het verstrijken van de termijn van zes maanden, als is bedoeld in het vorige lid.
 
-#### Artikel 24
+##### Artikel 24
 
 De Secretaris-Generaal van de Verenigde Naties zal aan alle Staten die lid zijn van de Organisatie van de Verenigde Naties en aan alle andere Staten die zijn uitgenodigd aan de Conferentie deel te nemen, mededeling doen van:
 
@@ -212,7 +234,7 @@ De Secretaris-Generaal van de Verenigde Naties zal aan alle Staten die lid zijn 
 
 - f). De inwerkingtreding van elke wijziging overeenkomstig artikel 23.
 
-#### Artikel 25
+##### Artikel 25
 
 Het origineel van dit Verdrag zal worden nedergelegd bij de Secretaris-Generaal van de Verenigde Naties, die aan alle leden van de Organisatie van de Verenigde Naties en aan alle andere Staten die zijn uitgenodigd aan de Conferentie deel te nemen, gewaarmerkte afschriften daarvan zal doen toekomen.
 

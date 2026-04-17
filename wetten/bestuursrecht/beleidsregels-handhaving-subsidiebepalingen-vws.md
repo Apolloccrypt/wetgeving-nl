@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregels handhaving subsidiebepalingen VWS"
+title: "Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 19 september 2008, nr. FEZ-U-2874154, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS en JenG"
 identifier: "BWBR0024547"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-09-21
-laatste_update: 2022-09-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024547"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-09-21"
+last_updated: "2022-09-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024547"
+soort: "beleidsregel"
+stam_id: "9738333"
+version_id: "18543602"
+internal_id: "C25876901"
+label_id: "9715204"
+dtd_version: "2.0"
+original_entry_into_force: "2011-04-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024547/2022-09-21/0"
+intitule_bron: "Stcrt.2008-189"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-09-19"
+intitule_published: "2008-09-30"
+intitule_in_force: "2008-09-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-7999"
+original_signed_date: "2011-04-28"
+original_published_date: "2011-05-06"
+original_effect: "structuurwijziging"
+original_url_id: "stcrt-2011-7999"
+entry_into_force_date: "2011-04-28"
+jci_1_3: "jci1.3:c:BWBR0024547&z=2022-09-21&g=2022-09-21"
+jci_1_0: "1.0:c:BWBR0024547&g=2022-09-21"
+citeertitel_status: "officieel"
+short_title: "Beleidsregels handhaving subsidiebepalingen VWS"
+signed_date: "2011-04-28"
+entry_into_force: "2011-04-28"
 ---
-
 # Besluit van de Minister van Volksgezondheid, Welzijn en Sport, de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister voor Jeugd en Gezin van 19 september 2008, nr. FEZ-U-2874154, houdende vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS en JenG
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluiten:
 
-#### Artikel 1. Algemeen
+##### Artikel 1. Algemeen
 
 1. Deze beleidsregels zijn van toepassing op subsidies die worden verstrekt door de Minister van Volksgezondheid, Welzijn en Sport.
 
@@ -26,7 +52,7 @@ Besluiten:
 
 3. In deze beleidsregels wordt onder verantwoordingselement verstaan één van de volgende onderdelen van de aanvraag tot vaststelling van een verleende subsidie: de verklaring van de accountant, het verslag van de activiteiten of de financiële verantwoording.
 
-#### Artikel 2. Subsidieverlening
+##### Artikel 2. Subsidieverlening
 
 1. Aan de behandeling van aanvragen van een subsidie die tijdig zijn ingediend, wordt voorrang gegeven boven de behandeling van aanvragen van een subsidie die niet binnen de wettelijke termijn zijn ingediend.
 
@@ -38,7 +64,7 @@ Besluiten:
 
 5. Indien de aanvrager binnen de gestelde termijn nog niet voldoet aan de wettelijke voorschriften voor het in behandeling nemen van de aanvraag van een subsidie, wordt de aanvraag niet behandeld.
 
-#### Artikel 3. Voorschotten
+##### Artikel 3. Voorschotten
 
 De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsidieontvanger worden gewijzigd indien er een ernstig vermoeden bestaat dat:
 
@@ -46,7 +72,7 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 - b. de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichtingen.
 
-#### Artikel 4. De subsidievaststelling
+##### Artikel 4. De subsidievaststelling
 
 1. Indien een aanvraag tot vaststelling van een verleende subsidie niet binnen de wettelijke termijn is ingediend of indien de aanvrager niet heeft voldaan aan het gestelde bij of krachtens enig ander wettelijk voorschrift voor de aanvraag tot vaststelling van een verleende subsidie, wordt de aanvrager schriftelijk in de gelegenheid gesteld de aanvraag binnen een daarbij te stellen termijn alsnog in te dienen of aan te vullen.
 
@@ -76,25 +102,25 @@ De verlening van voorschotten kan worden ingetrokken of ten nadele van de subsid
 
 6. Onverminderd de uitkomst van een eventueel ingesteld bezwaar of beroep, zal de vaststelling van de subsidie niet worden herzien wanneer de subsidieontvanger alsnog voldoet aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie.
 
-#### Artikel 5. De subsidie overstijgende gevolgen
+##### Artikel 5. De subsidie overstijgende gevolgen
 
 Indien de aanvrager in gebreke blijft te voldoen aan het gestelde bij of krachtens de wettelijke voorschriften voor de aanvraag tot vaststelling van een verleende subsidie kan dat gevolgen hebben voor het verlenen, wijzigen of intrekken van andere subsidies ten behoeve van de aanvrager.
 
-#### Artikel 6. Intrekking vorige beleidsregels
+##### Artikel 6. Intrekking vorige beleidsregels
 
 Het [besluit van 7 mei 1997 tot vaststelling van de Beleidsregels handhaving subsidiebepalingen VWS](https://wetten.overheid.nl/jci1.3:c:BWBR0008674) (Stcrt. 1997, nr. 94) wordt ingetrokken.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregels worden aangehaald als: Beleidsregels handhaving subsidiebepalingen VWS.
 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 3a. Meldingsplicht
+##### Artikel 3a. Meldingsplicht
 
 1. Indien de subsidieontvanger niet heeft voldaan aan de aan de subsidie verbonden verplichting tot schriftelijke melding van omstandigheden die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie, wordt op het bedrag van de verstrekte subsidie in ieder geval een bedrag in mindering gebracht van:
 

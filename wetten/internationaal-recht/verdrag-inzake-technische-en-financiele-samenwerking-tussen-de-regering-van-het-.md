@@ -1,13 +1,37 @@
 ---
 title: "Verdrag inzake technische en financiële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Bulgarije"
 identifier: "BWBV0001386"
-categorie: "Internationaal recht"
-publicatiedatum: 1999-04-14
-laatste_update: 1999-04-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001386"
+country: "nl"
+rank: "verdrag"
+publication_date: "1999-04-14"
+last_updated: "1999-04-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001386"
+soort: "verdrag"
+stam_id: "10000615673"
+version_id: "10000635932"
+internal_id: "C10006990061"
+label_id: "10000615864"
+original_entry_into_force: "1999-04-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001386/1999-04-14/0"
+intitule_bron: "Trb.1998-239"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-14"
+intitule_published: "1998-10-22"
+intitule_in_force: "1999-05-12"
+intitule_status: "goed"
+original_publication: "Trb.1998-239"
+original_signed_date: "1999-04-14"
+original_published_date: "1998-10-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1998-239"
+entry_into_force_date: "1999-04-14"
+jci_1_3: "jci1.3:c:BWBV0001386&z=1999-04-14&g=1999-04-14"
+jci_1_0: "1.0:c:BWBV0001386&g=1999-04-14"
+citeertitel_status: "officieel"
+signed_date: "1999-04-14"
+entry_into_force: "1999-04-14"
 ---
-
 # Verdrag inzake technische en financiële samenwerking tussen de Regering van het Koninkrijk der Nederlanden en de Regering van de Republiek Bulgarije
 
 De Regering van het Koninkrijk der Nederlanden
@@ -26,13 +50,13 @@ Zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. ONDERWERP VAN HET VERDRAG
 
-#### Artikel 1. Werkingssfeer
+##### Artikel 1. Werkingssfeer
 
 1. Dit Verdrag is van toepassing op projecten en programma's op het gebied van technische en financiële samenwerking die zijn overeengekomen tussen de Regering van de Republiek Bulgarije en de Regering van het Koninkrijk der Nederlanden.
 
 2. De in het eerste lid bedoelde projecten en programma's zijn overeengekomen tussen de Verdragsluitende Partijen en/of tussen de Verdragsluitende Partijen en een derde partij of derde partijen. In dat geval dienen de betrokken partijen overeenstemming te bereiken over de toepassing van dit Verdrag.
 
-#### Artikel 2. Begripsomschrijvingen
+##### Artikel 2. Begripsomschrijvingen
 
 Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -56,11 +80,11 @@ Voor de toepassing van dit Verdrag wordt verstaan onder:
 
 ### HOOFDSTUK II. PROJECTEN EN PROGRAMMA'S
 
-#### Artikel 3. Algemeen
+##### Artikel 3. Algemeen
 
 Vertegenwoordigers van de Nederlandse Partij worden in de gelegenheid gesteld zich ter plaatse op de hoogte te stellen van de ontwikkeling, uitvoering en evaluatie van de in artikel 1 bedoelde projecten en programma's.
 
-#### Artikel 4. Middelen
+##### Artikel 4. Middelen
 
 1. Met betrekking tot de middelen verbindt de Republiek Bulgarije zich ertoe:
 
@@ -78,13 +102,13 @@ De Nederlandse Partij stelt de Bulgaarse Partij tijdig in kennis van de plaats w
 
 ### HOOFDSTUK III. PERSONEELSLEDEN
 
-#### Artikel 5. Administratieve procedures
+##### Artikel 5. Administratieve procedures
 
 De Nederlandse Partij doet de Bulgaarse Partij een schriftelijke mededeling omtrent de personeelsleden die de Nederlandse Partij zich voorstelt voor het onderhavige project of programma te werk te stellen.
 
 De Bulgaarse Partij deelt de Nederlandse Partij binnen een maand schriftelijk mee of zij de voorgestelde personeelsleden aanvaardt. Verstrijken van deze periode impliceert aanvaarding.
 
-#### Artikel 6. Voorrechten
+##### Artikel 6. Voorrechten
 
 1. De Republiek Bulgarije
 
@@ -116,7 +140,7 @@ De Bulgaarse Partij deelt de Nederlandse Partij binnen een maand schriftelijk me
 
 2. De Republiek Bulgarije verzekert dat de personeelsleden en hun gezinsleden op niet minder gunstige wijze worden behandeld dan vergelijkbare personeelsleden en hun gezinsleden van andere Staten of organisaties.
 
-#### Artikel 7. Immuniteiten en vorderingen
+##### Artikel 7. Immuniteiten en vorderingen
 
 1. De Republiek Bulgarije vrijwaart de personeelsleden tegen rechtsvervolging met betrekking tot enig handelen of nalaten of enig gesproken of geschreven woord in hun officiële hoedanigheid.
 
@@ -124,7 +148,7 @@ De Bulgaarse Partij deelt de Nederlandse Partij binnen een maand schriftelijk me
 
 3. Ingeval de Republiek Bulgarije het Koninkrijk der Nederlanden en de personeelsleden vrijwaart tegen een vordering of gerechtelijke stappen ter zake van buiten-contractuele aansprakelijkheid in overeenstemming met het tweede lid van dit artikel, mag de Republiek Bulgarije alle rechten doen gelden die het Koninkrijk der Nederlanden of de personeelsleden kunnen doen gelden.
 
-#### Artikel 8. Functioneren van de personeelsleden
+##### Artikel 8. Functioneren van de personeelsleden
 
 1. Onverminderd de in dit Verdrag beschreven voorrechten en immuniteiten, hebben alle personen die deze voorrechten en immuniteiten genieten de plicht de wetten en voorschriften van de Republiek Bulgarije te eerbiedigen.
 
@@ -136,19 +160,19 @@ De Bulgaarse Partij deelt de Nederlandse Partij binnen een maand schriftelijk me
 
 5. De Nederlandse Partij heeft na overleg met de Bulgaarse Partij, te allen tijde het recht een personeelslid terug te roepen. Indien een personeelslid wordt teruggeroepen, tracht de Nederlandse Partij een geschikte vervanger te vinden voor dat personeelslid.
 
-#### Artikel 9. Arrestatie, detentie
+##### Artikel 9. Arrestatie, detentie
 
 1. Onverminderd de rechten en plichten van het Koninkrijk der Nederlanden en de Republiek Bulgarije op grond van verdragen inzake consulaire betrekkingen, stelt de Republiek Bulgarije het Koninkrijk der Nederlanden er onverwijld van in kennis indien een personeelslid of een gezinslid wordt gearresteerd, in hechtenis of in voorlopige hechtenis wordt genomen, of op andere wijze in bewaring wordt gesteld. De Republiek Bulgarije zal alle berichten aan het Koninkrijk der Nederlanden van personeelsleden en hun gezinsleden in het geval van arrestatie, hechtenis, voorlopige hechtenis of inbewaringstelling onverwijld doen toekomen aan het Koninkrijk der Nederlanden.
 
 2. Vertegenwoordigers van het Koninkrijk der Nederlanden hebben het recht personeelsleden en hun gezinsleden die zijn gearresteerd, in hechtenis of voorlopige hechtenis zijn genomen of op andere wijze in bewaring zijn gesteld, te bezoeken, met hen te spreken en te corresponderen en hebben het recht regelingen te treffen voor hun vertegenwoordiging in rechte.
 
-#### Artikel 10. Beslechting van geschillen
+##### Artikel 10. Beslechting van geschillen
 
 1. Geschillen tussen het Koninkrijk der Nederlanden en de Republiek Bulgarije betreffende de uitlegging of toepassing van het Verdrag worden beslecht door middel van onderhandelingen of op andere door de Republiek Bulgarije en het Koninkrijk der Nederlanden overeengekomen vreedzame wijze.
 
 2. Indien een geschil niet kan worden beslecht met behulp van de middelen bedoeld in het eerste lid, kan het op verzoek van de Republiek Bulgarije of het Koninkrijk der Nederlanden voor definitieve en bindende arbitrage worden voorgelegd overeenkomstig de regels van het Permanente Hof van Arbitrage te 's-Gravenhage.
 
-#### Artikel 11. Inwerkingtreding, beëindiging, territoriaal werkingsgebied
+##### Artikel 11. Inwerkingtreding, beëindiging, territoriaal werkingsgebied
 
 1. Dit Verdrag treedt in werking op de datum van de laatste schriftelijke kennisgeving waarmee de Verdragsluitende Partijen elkaar langs diplomatieke weg ervan in kennis hebben gesteld dat aan al de vereisten voorzien in hun nationale wetgeving voor de inwerkingtreding van dit Verdrag, is voldaan.
 

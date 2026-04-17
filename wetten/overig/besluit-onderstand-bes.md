@@ -1,13 +1,39 @@
 ---
-title: "Besluit onderstand BES"
+title: "Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)"
 identifier: "BWBR0028595"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028595"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028595"
+soort: "AMvB-BES"
+stam_id: "10888533"
+version_id: "25485612"
+internal_id: "C36367851"
+label_id: "10863754"
+dtd_version: "2.0"
+original_entry_into_force: "2018-11-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028595/2026-01-01/0"
+intitule_bron: "Stb.2010-372"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-09-14"
+intitule_published: "2010-10-01"
+intitule_in_force: "2010-10-01"
+intitule_status: "goed"
+original_publication: "Stb.2018-453"
+original_signed_date: "2018-11-27"
+original_published_date: "2018-12-11"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-453"
+entry_into_force_date: "2018-11-27"
+jci_1_3: "jci1.3:c:BWBR0028595&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0028595&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit onderstand BES"
+signed_date: "2018-11-27"
+entry_into_force: "2018-11-27"
 ---
-
 # Besluit van 14 september 2010, houdende regels met betrekking tot het verlenen van onderstand in de openbare lichamen Bonaire, Sint Eustatius en Saba (Besluit onderstand BES)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 13 juli 2010, nr. IVV/I/2010/13018, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
@@ -24,7 +50,7 @@ Treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet 
 
 ### Hoofdstuk 1. Begripsbepalingen
 
-#### Artikel 1. Definities
+##### Artikel 1. Definities
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **pensioengerechtigde leeftijd:** leeftijd waarop recht op ouderdomspensioen ontstaat op grond van de [Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459).
 
-#### Artikel 2. Gezamenlijke huishouding
+##### Artikel 2. Gezamenlijke huishouding
 
 1. Van een gezamenlijke huishouding is sprake indien twee personen hun hoofdverblijf in dezelfde woning hebben en zij blijk geven zorg te dragen voor elkaar door middel van het leveren van een bijdrage in de kosten van de huishouding dan wel anderszins.
 
@@ -48,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien twee personen hun hoofdverblijf hebben in dezelfde woning en tussen hen bloedverwantschap bestaat tot en met de tweede graad, kan Onze Minister bepalen dat dit gelet op alle omstandigheden niet wordt aangemerkt als een gezamenlijke huishouding.
 
-#### Artikel 3. Alleenstaande, alleenstaande ouder, gezin en uitreiziger
+##### Artikel 3. Alleenstaande, alleenstaande ouder, gezin en uitreiziger
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -70,7 +96,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - **uitreiziger:** persoon ten aanzien van wie op grond van een melding van de opsporingsdiensten of inlichtingen- en veiligheidsdiensten, gericht aan Onze Minister, is gebleken dat het gegronde vermoeden bestaat dat deze persoon zich buiten de openbare lichamen bevindt met het doel om zich aan te sluiten bij een organisatie die is geplaatst op de lijst van organisaties, bedoeld in [artikel 14, vierde lid, van de Rijkswet op het Nederlanderschap](https://wetten.overheid.nl/jci1.3:c:BWBR0003738&artikel=14).
 
-#### Artikel 4. Onderstand, voorliggende voorziening, arbeidsinschakeling, arbeidsongeschiktheid en zelfstandig wonend
+##### Artikel 4. Onderstand, voorliggende voorziening, arbeidsinschakeling, arbeidsongeschiktheid en zelfstandig wonend
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -92,7 +118,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.1. Arbeidsinschakeling
 
-#### Artikel 5. Plicht tot arbeidsinschakeling
+##### Artikel 5. Plicht tot arbeidsinschakeling
 
 1. De belanghebbende van 18 jaar of ouder doch jonger dan de pensioengerechtigde leeftijd is vanaf de dag van aanvraag van onderstand verplicht:
 
@@ -112,13 +138,13 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### § 2.2. Recht op onderstand
 
-#### Artikel 6. Rechthebbenden
+##### Artikel 6. Rechthebbenden
 
 1. De persoon die rechtmatig woonachtig is in een openbaar lichaam en die naar het oordeel van Onze Minister aldaar in zodanige omstandigheden verkeert dat hij niet de middelen kan verwerven om in de noodzakelijke kosten van het bestaan te voorzien en die voldoet aan de plicht tot arbeidsinschakeling, heeft recht op onderstand van overheidswege.
 
 2. Het recht op onderstand komt de personen met een gezamenlijke huishouding gezamenlijk toe, tenzij een van deze personen geen recht heeft op onderstand.
 
-#### Artikel 7. Uitsluiting van onderstand
+##### Artikel 7. Uitsluiting van onderstand
 
 1. Geen recht op onderstand heeft de persoon:
 
@@ -142,7 +168,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. In afwijking van het eerste lid, onderdeel d, geldt voor personen die de pensioengerechtigde leeftijd hebben bereikt, een periode van dertien weken.
 
-#### Artikel 8. Niet-noodzakelijke kosten
+##### Artikel 8. Niet-noodzakelijke kosten
 
 In ieder geval worden niet tot de noodzakelijke kosten van het bestaan gerekend:
 
@@ -154,23 +180,23 @@ In ieder geval worden niet tot de noodzakelijke kosten van het bestaan gerekend:
 
 - d. de aflossing van schulden.
 
-#### Artikel 9. Voorliggende voorziening
+##### Artikel 9. Voorliggende voorziening
 
 Geen recht op onderstand bestaat voor zover een beroep kan worden gedaan op een voorliggende voorziening die, gezien haar aard en doel, wordt geacht voor de belanghebbende toereikend en passend te zijn. Het recht op onderstand strekt zich evenmin uit tot kosten die in de voorliggende voorziening als niet-noodzakelijk worden aangemerkt.
 
-#### Artikel 10. Zeer dringende redenen
+##### Artikel 10. Zeer dringende redenen
 
 Aan een persoon die geen recht op onderstand heeft, kan Onze Minister, gelet op alle omstandigheden, in afwijking van deze paragraaf onderstand verlenen, indien zeer dringende redenen daartoe noodzaken.
 
 #### § 2.3. Inlichtingenplicht en afstemming
 
-#### Artikel 11. Inlichtingenplicht
+##### Artikel 11. Inlichtingenplicht
 
 1. De belanghebbende doet aan Onze Minister op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op zijn arbeidsinschakeling of het recht op onderstand.
 
 2. Onze Minister stelt bij de uitvoering van dit besluit de identiteit van de belanghebbende vast aan de hand van een document als bedoeld in [artikel 2 van de Wet identificatieplicht BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028575&artikel=2).
 
-#### Artikel 12. Afstemming
+##### Artikel 12. Afstemming
 
 1. Onze Minister stemt de onderstand en de daaraan verbonden verplichtingen af op de omstandigheden, mogelijkheden en middelen van de belanghebbende, alsmede op het betoonde besef van verantwoordelijkheid voor de voorziening in het bestaan.
 
@@ -184,7 +210,7 @@ Aan een persoon die geen recht op onderstand heeft, kan Onze Minister, gelet op 
 
 #### § 3.1. Algemene onderstand
 
-#### Artikel 13. Basisbedragen algemene onderstand
+##### Artikel 13. Basisbedragen algemene onderstand
 
 Het basisbedrag van de algemene onderstand bedraagt per twee weken:
 
@@ -195,7 +221,7 @@ Het basisbedrag van de algemene onderstand bedraagt per twee weken:
 
 #### § 3.2. Toeslagen algemene onderstand
 
-#### Artikel 14. Toeslag voor zelfstandig wonen
+##### Artikel 14. Toeslag voor zelfstandig wonen
 
 1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor een zelfstandig wonende belanghebbende verhoogd met een toeslag per twee weken van:
 
@@ -206,7 +232,7 @@ Het basisbedrag van de algemene onderstand bedraagt per twee weken:
 
 2. Indien recht bestaat op de toeslag, bedoeld in [artikel 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), bestaat er geen recht op de toeslag, bedoeld in het eerste lid.
 
-#### Artikel 15. Toeslag voor een gezamenlijke huishouding
+##### Artikel 15. Toeslag voor een gezamenlijke huishouding
 
 Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor personen met een gezamenlijke huishouding verhoogd met een toeslag per twee weken van:
 
@@ -215,7 +241,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 | b. indien de belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius: | USD 132 per 1 januari 2026: USD 255; |
 | c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: | USD 130 per 1 januari 2026: USD 256. |
 
-#### Artikel 16. Kindertoeslag
+##### Artikel 16. Kindertoeslag
 
 1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor een gezin met een of meer ten laste komende kinderen verhoogd met een toeslag per twee weken van:
 
@@ -235,7 +261,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 3. Het gezin heeft voor ten hoogste drie kinderen recht op toeslag.
 
-#### Artikel 17. Toeslag bij volledige en duurzame arbeidsongeschiktheid
+##### Artikel 17. Toeslag bij volledige en duurzame arbeidsongeschiktheid
 
 1. Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt bij volledige en duurzame arbeidsongeschiktheid van de alleenstaande, van de alleenstaande ouder of van een van de personen dan wel beide personen die een gezamenlijke huishouding voeren, verhoogd met een enkelvoudige toeslag per twee weken van:
 
@@ -248,7 +274,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 #### § 3.3. Middelen
 
-#### Artikel 18. Middelen
+##### Artikel 18. Middelen
 
 1. Tot de middelen worden alle vermogens- en inkomensbestanddelen gerekend waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken.
 
@@ -260,7 +286,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 - c. de kerstuitkering, bedoeld in [artikel 22a van de Wet algemene ouderdomsverzekering BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028459&artikel=22a).
 
-#### Artikel 19. Vrijlating inkomsten
+##### Artikel 19. Vrijlating inkomsten
 
 1. Inkomsten uit arbeid of uit kinderalimentatie die de alleenstaande of het gezin heeft verworven over de periode waarin beroep wordt gedaan op onderstand, worden vrijgelaten voor zover de onderstand en de verworven inkomsten bij elkaar de hoogte van het minimumloon niet overschrijden.
 
@@ -270,7 +296,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 #### § 4.1. Bijzondere onderstand
 
-#### Artikel 20. Toekenning bijzondere onderstand
+##### Artikel 20. Toekenning bijzondere onderstand
 
 1. Onverminderd [paragraaf 2.2.](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&paragraaf=2.2&z=2026-01-01&g=2026-01-01) kan Onze Minister bijzondere onderstand toekennen aan de alleenstaande of het gezin voor zover de alleenstaande of het gezin niet de middelen kan verwerven om te voorzien in de uit bijzondere omstandigheden voortvloeiende noodzakelijke kosten van het bestaan en voldoet aan de plicht tot arbeidsinschakeling, behoudens in geval de omstandigheid, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), aan de orde is.
 
@@ -290,7 +316,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 #### § 4.1. Bijzondere onderstand
 
-#### Artikel 21. Aanpassing en herziening
+##### Artikel 21. Aanpassing en herziening
 
 1. Indien uit de door het Centraal Bureau voor de Statistiek vast te stellen consumentenprijsindexcijfers voor Bonaire, Sint Eustatius en Saba blijkt, dat de prijsindexcijfers voor het derde kwartaal van het lopende jaar, vergeleken met de prijsindexcijfers voor het derde kwartaal van het voorafgaande jaar zijn gestegen of gedaald, kan Onze Minister bedragen vaststellen, die met ingang van 1 januari van het komende jaar in de plaats treden van de in de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), [15](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=15&z=2026-01-01&g=2026-01-01), [16](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=16&z=2026-01-01&g=2026-01-01), [17](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17&z=2026-01-01&g=2026-01-01), [17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=17a&z=2026-01-01&g=2026-01-01), [18a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01) en [19](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=19&z=2026-01-01&g=2026-01-01) genoemde bedragen. Onze Minister bepaalt welke consumentenprijsindexcijfers zoals vastgesteld door het Centraal Bureau voor de Statistiek voor de toepassing van de eerste zin worden gebruikt. De consumentenprijsindexcijfers kunnen voor de onderscheiden openbare lichamen verschillend zijn.
 
@@ -304,11 +330,11 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 #### § 5.1. De aanvraag
 
-#### Artikel 22. Aanvraag
+##### Artikel 22. Aanvraag
 
 De aanvraag van onderstand is gericht aan Onze Minister en geschiedt in het openbaar lichaam waar de alleenstaande of het gezin rechtmatig woonachtig is.
 
-#### Artikel 23. Vaststelling op aanvraag
+##### Artikel 23. Vaststelling op aanvraag
 
 1. Onze Minister stelt het recht op onderstand op schriftelijke aanvraag of, indien een schriftelijke aanvraag niet mogelijk is, ambtshalve vast.
 
@@ -318,15 +344,15 @@ De aanvraag van onderstand is gericht aan Onze Minister en geschiedt in het open
 
 #### § 5.2. Toekenning, vaststelling en betaling
 
-#### Artikel 24. Toekenning
+##### Artikel 24. Toekenning
 
 Indien Onze Minister heeft vastgesteld dat recht op onderstand bestaat, wordt de onderstand toegekend vanaf de dag waarop dit recht is ontstaan, voor zover deze dag niet ligt voor de dag waarop de alleenstaande of het gezin de aanvraag van onderstand heeft ingediend.
 
-#### Artikel 25. Vaststelling en betaling
+##### Artikel 25. Vaststelling en betaling
 
 De algemene onderstand wordt tweewekelijks vastgesteld en betaald.
 
-#### Artikel 26. Vervreemding, verpanding, beslag en machtiging
+##### Artikel 26. Vervreemding, verpanding, beslag en machtiging
 
 1. De onderstand is niet vatbaar voor vervreemding of verpanding.
 
@@ -340,7 +366,7 @@ De algemene onderstand wordt tweewekelijks vastgesteld en betaald.
 
 #### § 6.1. Vorm onderstand
 
-#### Artikel 27. Onderstand in geld of in natura
+##### Artikel 27. Onderstand in geld of in natura
 
 1. Tenzij in dit besluit anders is bepaald, wordt de onderstand verleend om niet.
 
@@ -348,11 +374,11 @@ De algemene onderstand wordt tweewekelijks vastgesteld en betaald.
 
 3. Bijzondere onderstand wordt in natura verstrekt, tenzij naar het oordeel van Onze Minister in een individuele situatie verstrekking in geld is aangewezen.
 
-#### Artikel 28. Eigen woning
+##### Artikel 28. Eigen woning
 
 De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door het gezin bewoonde woning met bijbehorend erf, heeft recht op onderstand voor zover tegeldemaking, bezwaring of verdere bezwaring, van het in de woning met bijbehorend erf gebonden vermogen in redelijkheid niet kan worden verlangd.
 
-#### Artikel 29. Voorschot
+##### Artikel 29. Voorschot
 
 1. Onze Minister is bevoegd om bij wijze van voorschot algemene of bijzondere onderstand te verlenen in de vorm van een renteloze geldlening, zolang het recht op algemene of bijzondere onderstand niet is vastgesteld.
 
@@ -360,7 +386,7 @@ De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door h
 
 #### § 6.1. Vorm onderstand
 
-#### Artikel 30. Onjuiste gegevens en onvoldoende medewerking
+##### Artikel 30. Onjuiste gegevens en onvoldoende medewerking
 
 1. Indien de alleenstaande of het gezin de voor de verlening van onderstand van belang zijnde gegevens of de gevorderde bewijsstukken niet, niet tijdig of onvolledig heeft verstrekt en de alleenstaande of het gezin dit te verwijten valt, dan wel indien de alleenstaande of het gezin anderszins onvoldoende medewerking verleent, kan Onze Minister het recht op onderstand beëindigen.
 
@@ -368,13 +394,13 @@ De alleenstaande die of het gezin dat eigenaar is van een door hemzelf of door h
 
 #### § 6.2. Onderzoek en beëindiging recht op onderstand
 
-#### Artikel 31. Nadere verplichtingen
+##### Artikel 31. Nadere verplichtingen
 
 1. Naast de verplichtingen die op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=2&z=2026-01-01&g=2026-01-01) in elk geval aan de onderstand verbonden zijn, dan wel daaraan door Onze Minister verbonden worden, kan Onze Minister vanaf de dag waarop de alleenstaande of het gezin onderstand heeft aangevraagd als bedoeld in [artikel 22](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.1&artikel=22&z=2026-01-01&g=2026-01-01), verplichtingen opleggen die strekken tot arbeidsinschakeling, dan wel die verband houden met aard en doel van een bepaalde vorm van onderstand of die strekken tot zijn vermindering of beëindiging.
 
 2. Een verplichting als bedoeld in het eerste lid kan, op advies van een arts, inhouden het zich onderwerpen aan een noodzakelijke behandeling van medische aard.
 
-#### Artikel 32. Noodzakelijke betalingen en onderstand in natura
+##### Artikel 32. Noodzakelijke betalingen en onderstand in natura
 
 Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande of het gezin zonder hulp niet in staat is tot een verantwoorde besteding van zijn bestaansmiddelen, kan Onze Minister:
 
@@ -384,7 +410,7 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 #### § 6.4. Terugvordering
 
-#### Artikel 33. Bevoegdheid terugvordering
+##### Artikel 33. Bevoegdheid terugvordering
 
 1. Onze Minister kan kosten van onderstand terugvorderen, voor zover de onderstand:
 
@@ -404,13 +430,13 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 3. Bij gebreke van tijdige betaling kan de vordering worden verhoogd met de wettelijke rente en de op de terugvordering betrekking hebbende kosten.
 
-#### Artikel 34. Terugvordering gezinsleden
+##### Artikel 34. Terugvordering gezinsleden
 
 1. Onverminderd [artikel 33](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&artikel=33&z=2026-01-01&g=2026-01-01) kunnen kosten van onderstand, indien de onderstand aan een gezin wordt verleend, van alle gezinsleden worden teruggevorderd.
 
 2. De in het eerste lid bedoelde personen zijn hoofdelijk aansprakelijk voor de terugbetaling van kosten van onderstand die worden teruggevorderd.
 
-#### Artikel 35. Besluit tot terugvordering
+##### Artikel 35. Besluit tot terugvordering
 
 1. Een besluit tot terugvordering van kosten van onderstand vermeldt hetgeen wordt teruggevorderd, de termijn of termijnen waarbinnen moet worden betaald, alsmede de wijze waarop het besluit, bij gebreke van tijdige betaling, ten uitvoer wordt gelegd.
 
@@ -418,17 +444,17 @@ Indien en zolang er gegronde redenen zijn om aan te nemen dat de alleenstaande o
 
 #### § 6.4. Terugvordering
 
-#### Artikel 36. Inlichtingenverplichting werkgever
+##### Artikel 36. Inlichtingenverplichting werkgever
 
 1. Een ieder is verplicht desgevraagd en bevoegd uit eigen beweging aan Onze Minister kosteloos opgaven en inlichtingen te verstrekken omtrent feiten en omstandigheden die noodzakelijk zijn voor de uitvoering van dit besluit ten opzichte van een persoon te wiens behoeve onderstand is gevraagd of wordt verleend en die in zijn dienst dan wel voor hem arbeid verricht, heeft verricht of zou kunnen gaan verrichten. De verplichting strekt zich mede uit tot de inkomsten van een persoon van wie kosten van onderstand op grond van [paragraaf 6.4](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=6&paragraaf=6.4&z=2026-01-01&g=2026-01-01) worden of kunnen worden teruggevorderd.
 
 2. De opgaven en inlichtingen worden desgevraagd schriftelijk, of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een door Onze Minister schriftelijk te stellen termijn verstrekt.
 
-#### Artikel 37. Inlichtingenverplichting instanties
+##### Artikel 37. Inlichtingenverplichting instanties
 
 Bij regeling van Onze Minister aangewezen instanties en personen zijn verplicht desgevraagd aan Onze Minister kosteloos opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van dit besluit.
 
-#### Artikel 38. Geheimhoudingsplicht
+##### Artikel 38. Geheimhoudingsplicht
 
 1. Het is een ieder verboden hetgeen hem uit of in verband met enige werkzaamheid bij de uitvoering van dit besluit over de persoon of zaken van een ander blijkt of wordt meegedeeld, verder bekend te maken dan voor de uitvoering van dit besluit noodzakelijk is dan wel op grond van dit besluit is voorgeschreven of toegestaan.
 
@@ -442,17 +468,17 @@ Bij regeling van Onze Minister aangewezen instanties en personen zijn verplicht 
 
 3. Ten behoeve van wetenschappelijk onderzoek of statistiek kunnen desgevraagd gegevens aan derden worden verstrekt voor zover de persoonlijke levenssfeer van de belanghebbende daardoor niet onevenredig wordt geschaad.
 
-#### Artikel 39. Vermoeden misdrijf
+##### Artikel 39. Vermoeden misdrijf
 
 Onze Minister is verplicht, indien hij bij de uitvoering van dit besluit het gegronde vermoeden krijgt van een misdrijf dat is gepleegd ten nadele van een Nederlands of buitenlands uitvoeringsorgaan van de sociale verzekeringswetten of van een Nederlands of buitenlands overheidsorgaan, voor zover dit is belast met het verrichten van uitkeringen, het doen van verstrekkingen dan wel het heffen van bijdragen, het betrokken orgaan hiervan in kennis te stellen.
 
-#### Artikel 40. Inlichtingenverplichting Onze Minister
+##### Artikel 40. Inlichtingenverplichting Onze Minister
 
 Bij regeling van Onze Minister worden instanties en personen aangewezen aan wie Onze Minister bevoegd is om uit eigen beweging en verplicht desgevraagd uit de administratie ter zake van de uitvoering van dit besluit kosteloos gegevens te verstrekken en wordt bepaald voor welke doeleinden deze gegevens mogen worden gebruikt.
 
 ### Hoofdstuk 6a. Bekendmaking, bezwaar en beroep
 
-#### Artikel 41. Toezicht door Onze Minister
+##### Artikel 41. Toezicht door Onze Minister
 
 1. Met het toezicht op de naleving van het bij of krachtens dit besluit bepaalde zijn belast de daartoe bij regeling van Onze Minister aangewezen ambtenaren.
 
@@ -460,17 +486,17 @@ Bij regeling van Onze Minister worden instanties en personen aangewezen aan wie 
 
 ### Hoofdstuk 6a. Bekendmaking, bezwaar en beroep
 
-#### Artikel 42. Inwerkingtreding
+##### Artikel 42. Inwerkingtreding
 
 Dit besluit treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](https://wetten.overheid.nl/jci1.3:c:BWBR0028249&artikel=I) in werking treedt.
 
-#### Artikel 43. Citeertitel
+##### Artikel 43. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit onderstand BES.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 40a. Bekendmaking beschikkingen
+##### Artikel 40a. Bekendmaking beschikkingen
 
 1. De bekendmaking van een beschikking geschiedt door toezending of uitreiking aan de belanghebbende.
 
@@ -478,7 +504,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. De beschikking vermeldt de dagtekening van de beslissing, de gronden waarop deze berust, alsmede waar beroep kan worden ingesteld.
 
-#### Artikel 40b. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
+##### Artikel 40b. Toepasselijkheid [Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455)
 
 1. De belanghebbende kan tegen een beschikking op grond van dit besluit beroep instellen bij het Gerecht, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet administratieve rechtspraak BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028455&artikel=1).
 
@@ -490,7 +516,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 7. Overige bepalingen
 
-#### Artikel 41a. Advisering
+##### Artikel 41a. Advisering
 
 [Afdeling 3.3 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&afdeling=3.3) is van toepassing met dien verstande dat in:
 
@@ -502,7 +528,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 17a. Toeslag bij AOV-gerechtigde leeftijd
+##### Artikel 17a. Toeslag bij AOV-gerechtigde leeftijd
 
 Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), wordt voor de alleenstaande, de alleenstaande ouder of de personen die een gezamenlijke huishouding voeren, die de pensioengerechtigde leeftijd heeft of hebben bereikt, verhoogd met een enkelvoudige toeslag per twee weken van:
 
@@ -512,7 +538,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 - c. indien de belanghebbende woonachtig is in het openbaar lichaam Saba: USD 314 per 1 januari 2026: USD 452.
 
-#### Artikel 17b. Bovengrens onderstand
+##### Artikel 17b. Bovengrens onderstand
 
 Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.1&artikel=13&z=2026-01-01&g=2026-01-01), en de toeslagen, genoemd in de [artikelen 14 tot en met 17a](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.2&artikel=14&z=2026-01-01&g=2026-01-01), bij elkaar overschrijden niet de hoogte van het minimumloon.
 
@@ -544,7 +570,7 @@ Het basisbedrag van de algemene onderstand, genoemd in [artikel 13](https://wett
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a. Controlevoorschriften
+##### Artikel 11a. Controlevoorschriften
 
 1. Bij ministeriële regeling kunnen controlevoorschriften worden vastgesteld. Deze voorschriften gaan niet verder dan strikt noodzakelijk is voor een juiste uitvoering van dit besluit.
 
@@ -560,7 +586,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 3.3. Middelen
 
-#### Artikel 18a. Vermogen
+##### Artikel 18a. Vermogen
 
 1. Onder vermogen wordt verstaan de waarde van de bezittingen waarover de alleenstaande of het gezin beschikt of redelijkerwijs kan beschikken, verminderd met de aanwezige schulden. De waarde van bezittingen wordt vastgesteld op de waarde in het economische verkeer bij vrije oplevering.
 
@@ -632,13 +658,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk 8. Overgangs- en slotbepalingen
 
-#### Artikel 41b. Overgangsrecht uitsluiten fraudevorderingen van vermogenstoets
+##### Artikel 41b. Overgangsrecht uitsluiten fraudevorderingen van vermogenstoets
 
 Schulden die voor de inwerkingtreding van het Besluit van 2 september 2020 tot wijziging van het Besluit onderstand BES in verband met diverse verbeteringen ten aanzien van de AOV-toeslag, het uitsluiten van fraudevorderingen bij de vermogenstoets en diverse andere wijzigingen (Stb. 2020, 370) zijn ontstaan door een terugvordering, een geldboete die daarmee verband houdt, een bestuurlijke boete of geldboete op grond van de wetten, genoemd in [artikel 18a, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=3&paragraaf=3.3&artikel=18a&z=2026-01-01&g=2026-01-01), worden als schuld in aanmerking genomen voor de belanghebbende aan wie op grond van [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=5&paragraaf=5.2&artikel=24&z=2026-01-01&g=2026-01-01) onderstand is toegekend vanaf de dag gelegen voor de dag van inwerkingtreding van dat besluit, zolang dat recht op bijstand bestaat.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 41b*. Overgangsrecht uitvoering bijzondere onderstand
+##### Artikel 41b*. Overgangsrecht uitvoering bijzondere onderstand
 
 [Artikel 20](https://wetten.overheid.nl/jci1.3:c:BWBR0028595&hoofdstuk=4&paragraaf=4.1&artikel=20&z=2026-01-01&g=2026-01-01), zoals dat luidde voor de datum van inwerkingtreding van artikel I, onderdeel A, van het Besluit van 26 januari 2021 tot wijziging van het Besluit onderstand BES en het Besluit uitvoering Wet arbeid vreemdelingen BES in verband met wijziging van taken ten aanzien van de bijzondere onderstand op Saba en ten aanzien van het uitzonderen van onderwijzers van de tewerkstellingsvergunningsplicht op Saba (Stb. 2021, 43), blijft van toepassing op voor die datum ingediende aanvragen voor bijzondere onderstand van personen woonachtig in het openbaar lichaam Saba.
 

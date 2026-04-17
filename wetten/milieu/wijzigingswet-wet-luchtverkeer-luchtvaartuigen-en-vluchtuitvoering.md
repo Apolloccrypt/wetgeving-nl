@@ -1,14 +1,42 @@
 ---
-title: "Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
+title: "Wet van 29 april 1999, houdende wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
 identifier: "BWBR0010445"
-categorie: "Milieu"
-publicatiedatum: 2010-07-07
-laatste_update: 2010-07-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010445"
+country: "nl"
+rank: "wet"
+publication_date: "2010-07-07"
+last_updated: "2010-07-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010445"
+soort: "wet"
+stam_id: "2820933"
+version_id: "4336992"
+internal_id: "C4336991"
+label_id: "2769724"
+dtd_version: "2.0"
+original_entry_into_force: "1999-06-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010445/2010-07-07/0"
+intitule_bron: "Stb.1999-235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1999-04-29"
+intitule_published: "1999-06-17"
+intitule_in_force: "1999-06-17"
+intitule_status: "goed"
+original_publication: "Stb.1999-235"
+original_signed_date: "1999-04-29"
+original_published_date: "1999-06-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "26336"
+original_url_id: "stb-1999-235"
+entry_into_force_date: "1999-06-18"
+entry_into_force_dossier: "26336"
+jci_1_3: "jci1.3:c:BWBR0010445&z=2010-07-07&g=2010-07-07"
+jci_1_0: "1.0:c:BWBR0010445&g=2010-07-07"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)"
+signed_date: "1999-04-29"
+entry_into_force: "1999-06-18"
 ---
-
-# Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)
+# Wet van 29 april 1999, houdende wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,19 +46,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 Werkt terug tot en met 1 januari 1997.
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt de Wet Luchtverkeer.
 
-#### Artikel II
+##### Artikel II
 
 Vervallen
 
-#### Artikel III
+##### Artikel III
 
 Vervallen
 
-#### Artikel IV
+##### Artikel IV
 
 1. Type-certificaten, bewijzen van luchtwaardigheid, en erkenningen, afgegeven op grond van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en geldig op het tijdstip van inwerkingtreding van deze wet, worden aangemerkt als afgegeven op grond van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555), zoals die wet komt te luiden na inwerkingtreding van [artikel I, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2010-07-07&g=2010-07-07), van deze wet.
 
@@ -50,7 +78,7 @@ Vervallen
 
 9. Bewijzen van gelijkstelling met elders door of vanwege een bevoegd gezag afgegeven bewijzen van luchtwaardigheid, afgegeven op grond van de [Luchtvaartwet](https://wetten.overheid.nl/jci1.3:c:BWBR0002267) en geldig op het tijdstip van inwerkingtreding van deze wet, behouden hun geldigheid voor de termijn, waarvoor zij zijn afgegeven.
 
-#### Artikel V
+##### Artikel V
 
 1. Vergunningen tot vluchtuitvoering, verleend op grond van [artikel 104 van de Regeling Toezicht Luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0002309&artikel=104), die geldig zijn op het tijdstip van inwerkingtreding van [artikel I, onderdeel D](https://wetten.overheid.nl/jci1.3:c:BWBR0010445&artikel=I&z=2010-07-07&g=2010-07-07), van deze wet, worden voor de duur van die vergunning aangemerkt als AOC op grond van [artikel 4.1, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=4.1).
 
@@ -60,19 +88,19 @@ Vervallen
 
 4. Voor de behandeling van de aanvraag, bedoeld in het derde lid, is de aanvrager geen vergoeding verschuldigd.
 
-#### Artikel VI
+##### Artikel VI
 
 Vervallen
 
-#### Artikel VII
+##### Artikel VII
 
 Vervallen
 
-#### Artikel VIII
+##### Artikel VIII
 
 Vervallen
 
-#### Artikel IX
+##### Artikel IX
 
 De volgende op de [Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR0005555) gebaseerde besluiten en regelingen worden aangemerkt als te zijn gebaseerd op de daarna genoemde artikelen van de [Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555):
 
@@ -104,15 +132,15 @@ De volgende op de [Wet Luchtverkeer](https://wetten.overheid.nl/jci1.3:c:BWBR000
 
 - n. [Besluit beperkingen burgerluchtverkeer Waddenzee](https://wetten.overheid.nl/jci1.3:c:BWBR0010215): artikel 5.10, derde lid.
 
-#### Artikel X
+##### Artikel X
 
 Vervallen
 
-#### Artikel XI
+##### Artikel XI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XII
+##### Artikel XII
 
 Dit onderdeel is nog niet inwerking getreden
 

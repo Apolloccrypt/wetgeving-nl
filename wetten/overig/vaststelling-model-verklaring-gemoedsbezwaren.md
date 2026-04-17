@@ -1,28 +1,52 @@
 ---
 title: "Vaststelling model verklaring gemoedsbezwaren"
 identifier: "BWBR0004721"
-categorie: "Overig"
-publicatiedatum: 1990-02-28
-laatste_update: 1990-02-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004721"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-02-28"
+last_updated: "1990-02-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004721"
+soort: "ministeriele-regeling"
+stam_id: "3760243"
+version_id: "5543122"
+internal_id: "C5736211"
+label_id: "3740004"
+dtd_version: "2.0"
+original_entry_into_force: "1990-02-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004721/1990-02-28/0"
+intitule_bron: "Stcrt.1990-41"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-02-21"
+intitule_published: "1990-02-27"
+intitule_in_force: "1990-02-27"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-41"
+original_signed_date: "1990-02-21"
+original_published_date: "1990-02-27"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-02-28"
+jci_1_3: "jci1.3:c:BWBR0004721&z=1990-02-28&g=1990-02-28"
+jci_1_0: "1.0:c:BWBR0004721&g=1990-02-28"
+citeertitel_status: "officieel"
+signed_date: "1990-02-21"
+entry_into_force: "1990-02-28"
 ---
-
 # Vaststelling model verklaring gemoedsbezwaren
 
 Gelet op [artikel 18, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=18);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Het model van de verklaring, bedoeld in [artikel 18, tweede lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](https://wetten.overheid.nl/jci1.3:c:BWBR0002415&artikel=18) (Stb. 1984, 269) wordt vastgesteld zoals het is opgenomen voor natuurlijke personen in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0004721&bijlage=I&z=1990-02-28&g=1990-02-28) en voor rechtspersonen in [bijlage II](https://wetten.overheid.nl/jci1.3:c:BWBR0004721&bijlage=II&z=1990-02-28&g=1990-02-28) bij deze regeling.
 
-#### Artikel 2
+##### Artikel 2
 
 De beschikking van de Minister van Financiën van 29 juni 1984, nr. 384-7187, Stcrt. 126, Generale Thesaurie, Directie Binnenlands Geldwezen, Afdeling Verzekeringswezen, wordt ingetrokken.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

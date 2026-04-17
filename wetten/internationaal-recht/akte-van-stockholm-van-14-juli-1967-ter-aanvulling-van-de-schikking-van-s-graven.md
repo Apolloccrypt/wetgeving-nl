@@ -1,16 +1,38 @@
 ---
 title: "Akte van Stockholm van 14 juli 1967 ter aanvulling van de Schikking van 's-Gravenhage betreffende het internationaal depot van tekeningen en modellen van nijverheid, van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960 en aangevuld door de Aanvullende Akte van Monaco van 18 november 1961"
 identifier: "BWBV0006589"
-categorie: "Internationaal recht"
-publicatiedatum: 1980-11-03
-laatste_update: 1980-11-03
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006589"
+country: "nl"
+rank: "verdrag"
+publication_date: "1980-11-03"
+last_updated: "1980-11-03"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006589"
+soort: "verdrag"
+stam_id: "10005345993"
+version_id: "10005765442"
+internal_id: "C10009065571"
+label_id: "10005328734"
+dtd_version: "2.0"
+original_entry_into_force: "1979-05-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006589/1980-11-03/0"
+intitule_bron: "Trb.1969-142"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1969-12-29"
+intitule_in_force: "1979-04-04"
+intitule_status: "goed"
+original_publication: "Trb.1969-142"
+original_published_date: "1969-12-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1969-142"
+entry_into_force_date: "1979-05-28"
+jci_1_3: "jci1.3:c:BWBV0006589&z=1980-11-03&g=1980-11-03"
+jci_1_0: "1.0:c:BWBV0006589&g=1980-11-03"
+citeertitel_status: "redactioneel"
+entry_into_force: "1979-05-28"
 ---
-
 # Akte van Stockholm van 14 juli 1967 ter aanvulling van de Schikking van 's-Gravenhage betreffende het internationaal depot van tekeningen en modellen van nijverheid, van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960 en aangevuld door de Aanvullende Akte van Monaco van 18 november 1961
 
-#### Artikel 1
+##### Artikel 1
 
 In deze Aanvullende Akte wordt verstaan onder:
 
@@ -28,7 +50,7 @@ In deze Aanvullende Akte wordt verstaan onder:
 
 „Bijzondere Unie”, de Unie van 's-Gravenhage, in het leven geroepen door de Schikking van 's-Gravenhage van 6 november 1925 betreffende het internationale depot van tekeningen en modellen van nijverheid en in stand gehouden door de Akten van 1934 [en 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) en door de [Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) alsmede door de onderhavige Aanvullende Akte.
 
-#### Artikel 2
+##### Artikel 2
 
 1a). De bijzondere Unie kent een Algemene Vergadering, samengesteld uit de landen, die de onderhavige Akte hebben bekrachtigd of daartoe zijn toegetreden.
 
@@ -84,7 +106,7 @@ c). De agenda voor elke zitting wordt opgesteld door de Directeur-Generaal.
 
 5). De Algemene Vergadering stelt haar reglement van orde vast.
 
-#### Artikel 3
+##### Artikel 3
 
 1a). De taken met betrekking tot het internationale depot van tekeningen en modellen van nijverheid, alsmede de andere aan de bijzondere Unie toevallende administratieve taken, worden verricht door het Internationale Bureau.
 
@@ -102,7 +124,7 @@ c). De Directeur-Generaal en de door hem aangewezen personen nemen zonder stemre
 
 4). Het Internationale Bureau voert alle overige aan hem opgedragen taken uit.
 
-#### Artikel 4
+##### Artikel 4
 
 1a). De bijzondere Unie heeft een begroting.
 
@@ -146,7 +168,7 @@ b). Het land, bedoeld onder a), en de Organisatie hebben elk het recht de overee
 
 8). Het nazien der rekeningen wordt verricht op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.
 
-#### Artikel 5
+##### Artikel 5
 
 1). Voorstellen tot wijziging van deze Aanvullende Akte kunnen worden ingediend door elk land dat lid is van de Algemene Vergadering of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen die lid zijn van de Algemene Vergadering.
 
@@ -154,7 +176,7 @@ b). Het land, bedoeld onder a), en de Organisatie hebben elk het recht de overee
 
 3). De wijzigingen, bedoeld in het eerste lid, worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onder scheiden grondwettelijke procedures door drie vierde van de landen die lid waren van de Algemene Vergadering op het tijdstip waarop de herziening werd aanvaard. De aldus aanvaarde herziening bindt alle landen die lid zijn van de Algemene Vergadering op het tijdstip, waarop de wijziging van kracht wordt, of die op een latere datum lid worden.
 
-#### Artikel 6
+##### Artikel 6
 
 1a). Wijzigt de Overeenkomst van 's-Gravenhage van 6 november 1925 betreffende het internationaal depot van tekeningen of modellen van nijverheid, herzien te Londen op 2 juni 1934; Londen, 2 juni 1934.
 
@@ -174,7 +196,7 @@ c). De verwijzingen in [artikel 6, tweede lid, van de Aanvullende Akte van 1961]
 
 d). De verwijzingen in [artikel 7, eerste en derde lid, van de Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584&artikel=7) naar de Regering van de Zwitserse Bondsstaat dienen te worden beschouwd als betrekking hebbende op de Directeur-Generaal
 
-#### Artikel 7
+##### Artikel 7
 
 1). De verwijzingen in de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) naar het „Bureau van de Internationale Unie voor de bescherming van de industriële eigendom” of naar het „Internationale Bureau” worden geacht betrekking te hebben op het Internationale Bureau, zoals dit is omschreven in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=1&z=1980-11-03&g=1980-11-03) van de onderhavige Aanvullende Akte.
 
@@ -184,7 +206,7 @@ d). De verwijzingen in [artikel 7, eerste en derde lid, van de Aanvullende Akte 
 
 4). Wijzigt de Overeenkomst van 's-Gravenhage betreffende het internationaal depot van tekeningen of modellen van nijverheid van 6 november 1925, herzien te Londen op 2 juni 1934 en te 's-Gravenhage op 28 november 1960; 's-Gravenhage, 28 november 1960.
 
-#### Artikel 8
+##### Artikel 8
 
 1a). De landen die vóór 13 januari 1968 de Akte van 1934 of de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) hebben bekrachtigd, benevens de landen, die tot ten minste een van deze Akten zijn toegetreden, kunnen de onderhavige Aanvullende Akte ondertekenen en bekrachtigen of daartoe toetreden.
 
@@ -192,19 +214,19 @@ b). De bekrachtiging van of de toetreding tot de onderhavige Aanvullende Akte do
 
 2). De akten van bekrachtiging en toetreding worden nedergelegd bij de Directeur-Generaal.
 
-#### Artikel 9
+##### Artikel 9
 
 1). Voor de eerste vijf landen die hun akten van bekrachtiging of toetreding hebben nedergelegd treedt de onderhavige Aanvullende Akte in werking drie maanden na de datum waarop de vijfde akte van bekrachtiging of toetreding is nedergelegd.
 
 2). Voor ieder ander land treedt de onderhavige Aanvullende Akte in werking drie maanden na de datum waarop zijn bekrachtiging of toetreding door de Directeur-Generaal is bekendgemaakt, tenzij in de akte van bekrachtiging of toetreding een latere datum is vermeld. In dit laatste geval treedt voor het betrokken land de onderhavige Akte in werking op de aldus aangegeven datum.
 
-#### Artikel 10
+##### Artikel 10
 
 1). Onverminderd het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=8&z=1980-11-03&g=1980-11-03) en in het volgende lid bepaalde wordt elk land, dat de Akte van 1934 niet heeft bekrachtigd of niet daartoe is toegetreden, gebonden door de [Aanvullende Akte van 1961](https://wetten.overheid.nl/jci1.3:c:BWBV0006584) en door de artikelen 1 tot en met 6 van de onderhavige Aanvullende Akte vanaf de datum, waarop zijn toetreding tot de Akte van 1934 van kracht wordt; indien evenwel op die datum de onderhavige Aanvullende Akte nog niet ingevolge het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=9&z=1980-11-03&g=1980-11-03), in werking is getreden, is dat land niet gebonden door de genoemde artikelen van de onderhavige Aanvullende Akte dan na de inwerkingtreding van laatstgenoemde Akte ingevolge het bepaalde in artikel 9, eerste lid.
 
 2). Onverminderd het in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=8&z=1980-11-03&g=1980-11-03) en in het vorige lid bepaalde wordt elk land, dat de [Akte van 1960](https://wetten.overheid.nl/jci1.3:c:BWBV0002034) niet heeft bekrachtigd of niet daartoe is toegetreden, gebonden door de artikelen 1 tot en met 7 van de onderhavige Aanvullende Akte vanaf de datum, waarop zijn bekrachtiging van de Akte van 1960 of zijn toetreding daartoe van kracht wordt; indien evenwel op die datum de onderhavige Aanvullende Akte nog niet ingevolge het bepaalde in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006589&artikel=9&z=1980-11-03&g=1980-11-03), in werking is getreden, is dat land niet gebonden door de genoemde artikelen van de onderhavige Aanvullende Akte dan na de inwerkingtreding van laatstgenoemde Akte ingevolge het bepaalde in artikel 9, eerste lid.
 
-#### Artikel 11
+##### Artikel 11
 
 1a). De onderhavige Aanvullende Akte wordt ondertekend in één enkel exemplaar in de Franse taal en nedergelegd bij de Regering van Zweden.
 
@@ -218,7 +240,7 @@ b). Officiële teksten worden vastgesteld door de Directeur-Generaal, na raadple
 
 5). De Directeur-Generaal brengt de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de inwerkingtreding en alle overige dienstige mededelingen ter kennis van de Regeringen van alle landen van de bijzondere Unie.
 
-#### Artikel 12
+##### Artikel 12
 
 Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in de onderhavige Aanvullende Akte naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op het Bureau van de Unie, ingesteld krachtens het [Verdrag van Parijs voor de bescherming van de industriële eigendom](https://wetten.overheid.nl/jci1.3:c:BWBV0004120), respectievelijk op zijn Directeur.
 

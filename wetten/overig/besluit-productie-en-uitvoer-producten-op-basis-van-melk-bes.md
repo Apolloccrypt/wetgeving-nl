@@ -1,18 +1,43 @@
 ---
 title: "Besluit productie en uitvoer producten op basis van melk BES"
 identifier: "BWBR0028702"
-categorie: "Overig"
-publicatiedatum: 2010-10-10
-laatste_update: 2010-10-10
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0028702"
+country: "nl"
+rank: "amvb_bes"
+publication_date: "2010-10-10"
+last_updated: "2010-10-10"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0028702"
+soort: "AMvB-BES"
+stam_id: "10936813"
+version_id: "17922422"
+internal_id: "C24898811"
+label_id: "10911484"
+dtd_version: "2.0"
+original_entry_into_force: "2010-10-10"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0028702/2010-10-10/0"
+intitule_bron: "Stb.2010-671"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-10-04"
+intitule_published: "2010-10-07"
+intitule_in_force: "2010-10-07"
+intitule_status: "goed"
+original_publication: "Stb.2010-671"
+original_signed_date: "2010-10-04"
+original_published_date: "2010-10-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2010-671"
+entry_into_force_date: "2010-10-10"
+jci_1_3: "jci1.3:c:BWBR0028702&z=2010-10-10&g=2010-10-10"
+jci_1_0: "1.0:c:BWBR0028702&g=2010-10-10"
+citeertitel_status: "officieel"
+signed_date: "2010-10-04"
+entry_into_force: "2010-10-10"
 ---
-
 # Besluit productie en uitvoer producten op basis van melk BES
 
 #### § 1. Algemene voorschriften
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -38,11 +63,11 @@ In dit besluit wordt verstaan onder:
 
 - l. **Europese Commissie:** de commissie, bedoeld in artikel 7, eerste lid, en de artikelen 211 tot en met 219 van het Verdrag tot oprichting van de Europese Gemeenschap (PbEG 1997 C 340).
 
-#### Artikel 1a
+##### Artikel 1a
 
 Dit besluit berust op [artikel 3, eerste lid, onderdeel j, van de Warenwet BES](https://wetten.overheid.nl/jci1.3:c:BWBR0028619&artikel=3).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het is verboden naar het douanegebied van de Europese Gemeenschap uit te voeren: rauwe melk, warmtebehandelde melk en producten op basis van melk, met toepassing van de regels inzake producten van oorsprong, bedoeld in bijlage III bij het Besluit 2001/822/EG van de Raad van 27 november 2001 betreffende de associatie van de LGO met de Europese Economische Gemeenschap (PbEG L 314).
 
@@ -60,7 +85,7 @@ Dit besluit berust op [artikel 3, eerste lid, onderdeel j, van de Warenwet BES](
 
 #### § 2. Voorschriften voor de productie van producten op basis van melk, bestemd voor uitvoer naar het douanegebied van de Europese Gemeenschap.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het gebruik van inheemse, in de openbare lichamen Bonaire, Sint Eustatius en Saba geproduceerde, rauwe melk, warmtebehandelde melk en producten op basis van melk, hetzij vloeibaar of bevroren, alsmede het gebruik van uit derde landen ingevoerde rauwe melk en warmtebehandelde melk, hetzij vloeibare of bevroren melk, is niet toegestaan voor de productie van producten op basis van melk bestemd voor de export naar het douanegebied van de Europese Gemeenschap.
 
@@ -84,7 +109,7 @@ Dit besluit berust op [artikel 3, eerste lid, onderdeel j, van de Warenwet BES](
 
 4. Producten op basis van melk mogen niet worden onderworpen aan ioniserende straling.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De bevoegde autoriteit stelt de lijst op van erkende melkverwerkingsinrichtingen. Elke inrichting krijgt een erkenningsnummer.
 
@@ -106,11 +131,11 @@ Dit besluit berust op [artikel 3, eerste lid, onderdeel j, van de Warenwet BES](
 
 10. Het resultaat van de analyses wordt neergelegd in een verslag waarvan de conclusies of aanbevelingen ter kennis worden gebracht van de exploitant of de beheerder van de inrichting, die er zorg voor draagt dat de vastgestelde gebreken worden verholpen ter verbetering van de hygiëne.
 
-#### Artikel 5
+##### Artikel 5
 
 De thans in bedrijf zijnde inrichtingen die voornemens hebben te exporteren naar de Europese Gemeenschap dienen bij de bevoegde autoriteit een verzoek in om op basis van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=2&artikel=4&z=2010-10-10&g=2010-10-10) te worden erkend.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De bevoegde autoriteit ziet erop toe dat de exploitant of de beheerder van de melkverwerkingsinrichting alle nodige maatregelen treft om ervoor te zorgen dat de relevante voorschriften van dit besluit in alle stadia van de productie worden nageleefd. Daartoe dient de exploitant of de beheerder van de inrichting zelf constant controles uit te oefenen die gebaseerd zijn op de volgende beginselen:
 
@@ -132,7 +157,7 @@ De thans in bedrijf zijnde inrichtingen die voornemens hebben te exporteren naar
 
 4. Wanneer een gegrond vermoeden bestaat dat niet aan de eisen van dit besluit wordt voldaan, verricht de bevoegde autoriteit de nodige controles en, indien dat vermoeden wordt bevestigd, neemt zij de passende maatregelen die kunnen leiden tot schorsing van de erkenning.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De bevoegde autoriteit ziet erop toe dat in het kader van de in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10) bedoelde controles, controles worden verricht met het oog op het opsporen van residuen van stoffen met farmacologische en hormonale werking, van antibiotica, van bestrijdingsmiddelen, van detergenten en van andere stoffen die schadelijk zijn, die de organoleptische kenmerken van de producten op basis van melk kunnen beïnvloeden of die eventueel ertoe kunnen leiden dat de consumptie van producten op basis van melk gevaarlijk of schadelijk is voor de menselijke gezondheid wanneer deze residuen de toegestane toleranties overschrijden.
 
@@ -142,7 +167,7 @@ De thans in bedrijf zijnde inrichtingen die voornemens hebben te exporteren naar
 
 4. De bevoegde autoriteit stelt steekproefsgewijze onderzoek in of de voorschriften, bedoeld in het eerste lid, worden nageleefd en naar de wijze van uitvoering en de frequentie van deze controles, alsmede de in het eerste lid bedoelde toleranties en referentiemethoden.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De lokalen, de installaties en de apparatuur mogen voor andere levensmiddelen worden gebruikt mits alle passende maatregelen worden genomen om besmetting of aantasting van de producten op basis van melk te voorkomen.
 
@@ -150,11 +175,11 @@ De thans in bedrijf zijnde inrichtingen die voornemens hebben te exporteren naar
 
 3. De uitvoeringsbepalingen van dit artikel, worden door de bevoegde autoriteit met inachtneming van [bijlage B](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=B&z=2010-10-10&g=2010-10-10) vastgesteld, met name de voorschriften inzake wassen, reinigen en ontsmetten vóór gebruik, alsmede de voorschriften inzake de verpakking voor vervoer.
 
-#### Artikel 9
+##### Artikel 9
 
 De bevoegde autoriteit ziet erop toe dat de vervaardiging van in dit besluit bedoelde producten waarin een deel van de melkbestanddelen vervangen is door andere producten dan producten op basis van melk, wordt onderworpen aan de in dit landsbesluit in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&paragraaf=2&artikel=6&z=2010-10-10&g=2010-10-10) vastgestelde hygiënevoorschriften.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De bevoegde autoriteit stelt vast:
 
@@ -172,7 +197,7 @@ De bevoegde autoriteit ziet erop toe dat de vervaardiging van in dit besluit bed
 
 4. Onverminderd het in het tweede lid bepaalde ziet de bevoegde autoriteit erop toe dat alle in de handel gebrachte producten op basis van melk deugdelijke producten zijn die zijn bereid uit producten op basis van melk die voldoen aan de eisen van dit besluit.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bevoegde autoriteit belast het laboratorium, vermeld in [bijlage C, hoofdstuk I](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=C&z=2010-10-10&g=2010-10-10), met:
 
@@ -184,17 +209,17 @@ De bevoegde autoriteit ziet erop toe dat de vervaardiging van in dit besluit bed
 
 2. De bevoegdheden en taken van het in het eerste lid bedoeld laboratorium zijn, in het bijzonder voor wat betreft de in het eerste lid bedoelde werkzaamheden, vermeld in [hoofdstuk II van genoemde bijlage](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=C&z=2010-10-10&g=2010-10-10).
 
-#### Artikel 12
+##### Artikel 12
 
 Met het oog op de ondertekening van de Gezondheidsverklaring (dierengezondheid), bedoeld in onderdeel IV van de Gezondheidscertificaten, opgenomen in de bij dit besluit behorende [Bijlage D](https://wetten.overheid.nl/jci1.3:c:BWBR0028702&bijlage=D&z=2010-10-10&g=2010-10-10), wijst de bevoegde autoriteit, met inachtneming van artikel 7, eerste lid, van de Wet Inspectie voor de Volksgezondheid BES, een officieel dierenarts aan.
 
 #### § 3. Overgangs- en Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Dit besluit treedt in werking met ingang van de dag na die van de uitgifte van het Publicatieblad, waarin het is geplaatst en werkt terug tot en met 7 april 2005.
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit kan worden aangehaald als: Besluit productie en uitvoer producten op basis van melk BES.
 

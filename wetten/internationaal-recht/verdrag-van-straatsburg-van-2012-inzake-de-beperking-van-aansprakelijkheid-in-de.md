@@ -1,13 +1,35 @@
 ---
 title: "Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012)"
 identifier: "BWBV0006133"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-03-01
-laatste_update: 2025-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006133"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-03-01"
+last_updated: "2025-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006133"
+soort: "verdrag"
+stam_id: "10005044493"
+version_id: "10005376272"
+internal_id: "C10009420381"
+label_id: "10005027614"
+dtd_version: "2.0"
+original_entry_into_force: "2019-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006133/2025-03-01/0"
+intitule_bron: "Trb.2013-72"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2013-04-23"
+intitule_in_force: "2018-08-07"
+intitule_status: "goed"
+original_publication: "Trb.2013-72"
+original_published_date: "2013-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2013-72"
+entry_into_force_date: "2019-07-01"
+jci_1_3: "jci1.3:c:BWBV0006133&z=2025-03-01&g=2025-03-01"
+jci_1_0: "1.0:c:BWBV0006133&g=2025-03-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2019-07-01"
 ---
-
 # Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012)
 
 De Staten die Partij zijn bij dit Verdrag,
@@ -20,7 +42,7 @@ zijn het volgende overeengekomen:
 
 ### HOOFDSTUK I. HET RECHT OP BEPERKING
 
-#### Artikel 1. Personen die gerechtigd zijn hun aansprakelijkheid te beperken; begripsbepalingen
+##### Artikel 1. Personen die gerechtigd zijn hun aansprakelijkheid te beperken; begripsbepalingen
 
 1. Scheepseigenaren en hulpverleners, zoals hierna omschreven, kunnen hun aansprakelijkheid beperken voor de in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=2&z=2025-03-01&g=2025-03-01) genoemde vorderingen overeenkomstig de regels van dit Verdrag.
 
@@ -44,7 +66,7 @@ zijn het volgende overeengekomen:
 
 6. Het beroep op beperking van aansprakelijkheid houdt geen erkenning van aansprakelijkheid in.
 
-#### Artikel 2. Vorderingen vatbaar voor beperking
+##### Artikel 2. Vorderingen vatbaar voor beperking
 
 1. Behoudens de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=3&z=2025-03-01&g=2025-03-01) en [4](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=4&z=2025-03-01&g=2025-03-01) zijn de volgende vorderingen, ongeacht de grondslag van de aansprakelijkheid, vatbaar voor beperking van aansprakelijkheid:
 
@@ -62,7 +84,7 @@ zijn het volgende overeengekomen:
 
 2. De in het eerste lid genoemde vorderingen zijn vatbaar voor beperking van aansprakelijkheid, zelfs indien zij, al dan niet op grond van een overeenkomst, worden ingesteld bij wijze van verhaal of vrijwaring. Vorderingen genoemd in het eerste lid, letters d), e) en f), zijn echter niet vatbaar voor beperking van aansprakelijkheid voor zover zij betrekking hebben op beloning krachtens een met de aansprakelijke persoon gesloten overeenkomst.
 
-#### Artikel 3. Vorderingen uitgezonderd van beperking
+##### Artikel 3. Vorderingen uitgezonderd van beperking
 
 De regels van dit Verdrag zijn niet van toepassing op:
 
@@ -76,17 +98,17 @@ De regels van dit Verdrag zijn niet van toepassing op:
 
 - e). vorderingen van ondergeschikten van de scheepseigenaar of hulpverlener, wier werkzaamheden verband houden met het schip of de hulpverleningswerkzaamheden, daaronder begrepen vorderingen van hun erfgenamen, rechtverkrijgenden of andere personen die gerechtigd zijn zulke vorderingen in te stellen, indien de scheepseigenaar of hulpverlener volgens de wet die op de arbeidsovereenkomst tussen de scheepseigenaar of de hulpverlener en de ondergeschikten van toepassing is, niet gerechtigd is zijn aansprakelijkheid voor zulke vorderingen te beperken, of indien hij dit volgens die wet slechts kan doen tot een hoger bedrag dan dat bedoeld in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), of voor vorderingen in de zin van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01) en dit bedrag hoger is dan de overeenkomstig artikel 7 berekende aansprakelijkheidsgrens.
 
-#### Artikel 4. Gedragingen die de beperking opheffen
+##### Artikel 4. Gedragingen die de beperking opheffen
 
 Een aansprakelijke persoon is niet gerechtigd zijn aansprakelijkheid te beperken, indien bewezen wordt dat de schade het gevolg is van zijn persoonlijk handelen of nalaten, geschied hetzij met het opzet zodanige schade te veroorzaken, hetzij roekeloos en met de wetenschap dat zodanige schade er waarschijnlijk uit zou voortvloeien.
 
-#### Artikel 5. Verrekening van vorderingen
+##### Artikel 5. Verrekening van vorderingen
 
 Wanneer een persoon die krachtens de bepalingen van dit Verdrag gerechtigd is zijn aansprakelijkheid te beperken, tegen de schuldeiser een vordering heeft die voortkomt uit dezelfde gebeurtenis, worden de respectieve vorderingen met elkaar verrekend en de bepalingen van dit Verdrag zijn in dat geval slechts van toepassing op het eventuele saldo.
 
 ### HOOFDSTUK II. AANSPRAKELIJKHEIDSGRENZEN
 
-#### Artikel 6. Algemene aansprakelijkheidsgrenzen
+##### Artikel 6. Algemene aansprakelijkheidsgrenzen
 
 1. De aansprakelijkheidsgrenzen voor andere vorderingen dan die genoemd in de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01) en [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01), die voortkomen uit eenzelfde gebeurtenis, worden als volgt berekend:
 
@@ -114,7 +136,7 @@ Wanneer een persoon die krachtens de bepalingen van dit Verdrag gerechtigd is zi
 
 3. De in het eerste lid, letter d), genoemde aansprakelijkheidsgrenzen zijn eveneens van toepassing op een hulpverlener die hulp verleent aan een binnenschip en die geen werkzaamheden verricht vanaf een binnenschip of zeeschip of op een hulpverlener die uitsluitend werkzaamheden verricht aan boord van het binnenschip waaraan hij hulp verleent.
 
-#### Artikel 7. Aansprakelijkheidsgrenzen voor vorderingen wegens schade die uit het transport van schadelijke stoffen voortvloeit
+##### Artikel 7. Aansprakelijkheidsgrenzen voor vorderingen wegens schade die uit het transport van schadelijke stoffen voortvloeit
 
 1. De aansprakelijkheidsgrenzen voor een schip dat gevaarlijke stoffen vervoert voor vorderingen wegens schade die direct of indirect veroorzaakt is door de gevaarlijke aard van deze stoffen, worden als volgt berekend:
 
@@ -124,7 +146,7 @@ Wanneer een persoon die krachtens de bepalingen van dit Verdrag gerechtigd is zi
 
 2. Wanneer de aansprakelijkheidsgrens, berekend overeenkomstig het eerste lid, letter a), onvoldoende is voor de volledige voldoening van de daarin genoemde vorderingen, is de aansprakelijkheidsgrens berekend overeenkomstig het eerste lid, letter b), mede beschikbaar voor de voldoening van het onbetaalde saldo van de in het eerste lid, letter a), genoemde vorderingen en deelt dit onbetaalde saldo naar evenredigheid mee met de in het eerste lid, letter b), genoemde vorderingen.
 
-#### Artikel 8. Aansprakelijkheidsgrens voor vorderingen van passagiers
+##### Artikel 8. Aansprakelijkheidsgrens voor vorderingen van passagiers
 
 1. Met betrekking tot vorderingen die voortkomen uit eenzelfde gebeurtenis, ter zake van dood of letsel van passagiers van een schip, beloopt de aansprakelijkheidsgrens voor dit schip een bedrag van 112.600 rekeneenheden, vermenigvuldigd met:
 
@@ -140,7 +162,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 - b). die, met toestemming van de vervoerder, een voertuig of levende dieren begeleidt, waarvoor een overeenkomst van goederenvervoer is gesloten.
 
-#### Artikel 9. Rekeneenheid
+##### Artikel 9. Rekeneenheid
 
 1. De rekeneenheid, bedoeld in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), is het bijzondere trekkingsrecht, zoals gedefinieerd door het Internationale Monetaire Fonds. De in de artikelen 6 tot en met 8 en 10 genoemde bedragen worden omgerekend in de nationale munteenheid van de Staat waar de beperking van aansprakelijkheid wordt ingeroepen; de omrekening geschiedt volgens de waarde van de desbetreffende munteenheid op de datum waarop het beperkingsfonds is gevormd, de betaling is verricht of een volgens de wet van die Staat daaraan gelijkwaardige zekerheid is verstrekt.
 
@@ -148,7 +170,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 3. De Staten die Partij zijn bij dit Verdrag, kunnen op grond van de in het eerste lid genoemde berekeningsmethode de tegenwaarde van de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) genoemde bedragen in hun nationale munteenheid vaststellen in afgeronde bedragen. Wanneer, als gevolg van een verandering van de in de bijzondere trekkingsrechten uitgedrukte waarde van de nationale munteenheid, de in die munteenheid uitgedrukte bedragen meer dan 10 procent afwijken van de in de artikelen 6 tot en met 8 en 10 in bijzondere trekkingsrechten uitgedrukte werkelijke waarde, moeten de bedragen aan de werkelijke waarde worden aangepast. De Staten die Partij zijn bij dit Verdrag, delen aan de depositaris de in hun nationale munteenheid uitgedrukte bedragen mede, alsmede iedere wijziging van die bedragen.
 
-#### Artikel 10. Samenloop van vorderingen
+##### Artikel 10. Samenloop van vorderingen
 
 1. Onverminderd het tweede lid, zijn de overeenkomstig [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrenzen van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde gebeurtenis:
 
@@ -166,7 +188,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 4. De overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrens is van toepassing op het totaal van alle vorderingen die voortkomen uit eenzelfde voorval en ingesteld worden tegen de in [artikel 1, tweede lid, letter a)](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=I&artikel=1&z=2025-03-01&g=2025-03-01), genoemde persoon of personen, met betrekking tot het in artikel 8 bedoelde schip en iedere persoon voor wiens handeling, onachtzaamheid of nalatigheid hij of zij aansprakelijk is of zijn.
 
-#### Artikel 11. Beperking van aansprakelijkheid zonder vorming van een beperkingsfonds
+##### Artikel 11. Beperking van aansprakelijkheid zonder vorming van een beperkingsfonds
 
 1. De beperking van aansprakelijkheid kan worden ingeroepen ondanks het feit dat er geen beperkingsfonds, zoals bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2025-03-01&g=2025-03-01), is gevormd. Een Staat die partij is bij dit Verdrag, kan echter in zijn nationale wet bepalen dat, wanneer een rechtsvordering wordt ingesteld bij een van zijn gerechten om betaling te verkrijgen van een voor beperking vatbare vordering, een aansprakelijke persoon zich slechts op het recht op beperking van aansprakelijkheid kan beroepen, indien een beperkingsfonds is gevormd overeenkomstig de bepalingen van dit Verdrag of wordt gevormd wanneer het recht op beperking wordt ingeroepen.
 
@@ -174,7 +196,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 ### HOOFDSTUK III. HET BEPERKINGSFONDS
 
-#### Artikel 12. Het beperkingsfonds
+##### Artikel 12. Het beperkingsfonds
 
 1. Iedere persoon die aansprakelijk gehouden wordt, kan een of meer fondsen vormen bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig wordt gemaakt met betrekking tot een voor beperking vatbare vordering, of, indien geen rechtsgeding aanhangig wordt gemaakt, bij het gerecht of iedere andere bevoegde autoriteit in elke Staat die Partij is bij dit Verdrag waarin een rechtsgeding aanhangig kan worden gemaakt met betrekking tot een voor beperking vatbare vordering. Ieder fonds moet gevormd worden ten belope van het bedrag van de overeenkomstig de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) berekende aansprakelijkheidsgrens die van toepassing is op de vorderingen waarvoor de persoon die het fonds vormt, aansprakelijk kan zijn, vermeerderd met de rente daarover te rekenen vanaf de datum van de gebeurtenis die tot de aansprakelijkheid heeft geleid, tot aan de datum waarop het fonds wordt gevormd. Elk aldus gevormd fonds is uitsluitend bestemd voor de voldoening van vorderingen met betrekking waartoe beperking van aansprakelijkheid kan worden ingeroepen.
 
@@ -182,7 +204,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 3. Een fonds dat is gevormd door een van de personen, genoemd in [artikel 10, eerste lid, letters a), b) of c), of vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), dan wel door zijn verzekeraar wordt geacht te zijn gevormd door alle in artikel 10, eerste lid, letters a), b) of c), of vierde lid, genoemde personen.
 
-#### Artikel 13. Verdeling van het fonds
+##### Artikel 13. Verdeling van het fonds
 
 1. Behoudens [artikel 6, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=6&z=2025-03-01&g=2025-03-01), als ook de [artikelen 7](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=7&z=2025-03-01&g=2025-03-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=8&z=2025-03-01&g=2025-03-01) en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01), wordt het fonds verdeeld onder de schuldeisers in evenredigheid met de bedragen van hun erkende vorderingen op het fonds.
 
@@ -192,7 +214,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 4. Wanneer de aansprakelijke persoon of enige andere persoon aantoont dat hij gedwongen zou kunnen worden op een later tijdstip een zodanig bedrag aan vergoeding te betalen ter zake waarvan hij, indien de vergoeding zou zijn betaald voor de verdeling van het fonds, ingevolge het tweede en derde lid bij wege van subrogatie rechten zou hebben verkregen, dan kan het gerecht of ieder andere bevoegde autoriteit van de Staat waar het fonds is gevormd, bevelen dat voorlopig een bedrag terzijde wordt gesteld dat voldoende is om het deze persoon mogelijk te maken op dat latere tijdstip zijn rechten tegen het fonds geldend te maken.
 
-#### Artikel 14. Gevolgen van de vorming van het fonds
+##### Artikel 14. Gevolgen van de vorming van het fonds
 
 1. Wanneer overeenkomstig [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=III&artikel=12&z=2025-03-01&g=2025-03-01) een fonds is gevormd, is het een persoon die een vordering tegen het fonds geldend kan maken, niet toegestaan om met betrekking tot deze vordering enig recht uit te oefenen ten aanzien van andere vermogensbestanddelen van een persoon door of namens wie het fonds is gevormd.
 
@@ -202,7 +224,7 @@ De aansprakelijkheidsgrens mag evenwel niet lager zijn dan 2.252.000 rekeneenhed
 
 ### HOOFDSTUK IV. TOEPASSINGSGEBIED
 
-#### Artikel 15
+##### Artikel 15
 
 1. Dit Verdrag is van toepassing op de beperking van de aansprakelijkheid van de scheepseigenaar of van een hulpverlener, wanneer op het tijdstip van de gebeurtenis waaruit de vorderingen zijn voortgekomen:
 
@@ -238,7 +260,7 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 ### HOOFDSTUK V. SLOTBEPALINGEN
 
-#### Artikel 16. Ondertekening, bekrachtiging en toetreding
+##### Artikel 16. Ondertekening, bekrachtiging en toetreding
 
 1. Dit Verdrag staat van 27 september 2012 tot en met 26 september 2014 open voor ondertekening door Staten op de zetel van de Centrale Commissie voor de Rijnvaart te Straatsburg.
 
@@ -252,13 +274,13 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 3. De bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een officiële akte bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart.
 
-#### Artikel 17. Inwerkingtreding
+##### Artikel 17. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de maand na het verstrijken van een periode van een jaar, te rekenen vanaf de datum waarop vier Staten hun akte van bekrachtiging, aanvaarding, goedkeuring of toetreding hebben nedergelegd, of op de datum waarop het Verdrag van Straatsburg van 1988 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI) buiten werking treedt, waarbij de laatste gebeurtenis maatgevend is.
 
 2. Voor een Staat, die nadat de voorwaarden voor het in werking treden van dit Verdrag zijn vervuld, een akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nederlegt, treedt het Verdrag in werking op de eerste dag van de maand die volgt op het verstrijken van een periode van drie maanden, te rekenen vanaf de datum waarop die Staat zijn akte heeft nedergelegd. In afwijking van de eerste zin treedt het Verdrag voor deze Staat in werking op de dag van de inwerkingtreding van het Verdrag overeenkomstig het eerste lid, wanneer de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding drie of meer maanden voor de inwerkingtreding van het Verdrag overeenkomstig het eerste lid werd nedergelegd.
 
-#### Artikel 18. Voorbehouden
+##### Artikel 18. Voorbehouden
 
 1. Elke Staat kan op het tijdstip van ondertekening, bekrachtiging, aanvaarding, goedkeuring of toetreding en op elk later tijdstip zich het recht voorbehouden de toepassing van de regels van het Verdrag geheel of gedeeltelijk uit te sluiten ten aanzien van:
 
@@ -278,13 +300,13 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 5. Andere voorbehouden dan voorzien in dit Verdrag zijn niet toelaatbaar.
 
-#### Artikel 19. Opzegging
+##### Artikel 19. Opzegging
 
 1. Dit Verdrag kan worden opgezegd door een Staat die Partij is bij dit Verdrag door middel van een kennisgeving gericht aan de depositaris op ieder tijdstip na afloop van een jaar nadat het Verdrag voor de desbetreffende Staat in werking is getreden.
 
 2. Onverminderd het bepaalde in [artikel 20, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=V&artikel=20&z=2025-03-01&g=2025-03-01), wordt de opzegging van kracht op de eerste dag van de maand na het verstrijken van zes maanden te rekenen vanaf de datum van ontvangst van de kennisgeving, of zoveel later als in de kennisgeving is vermeld.
 
-#### Artikel 20. Vereenvoudigde procedure ter wijziging van aansprakelijkheidsgrenzen
+##### Artikel 20. Vereenvoudigde procedure ter wijziging van aansprakelijkheidsgrenzen
 
 1. De depositaris evalueert elke vijf jaar de in de artikelen 6 tot en met 8 en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=10&z=2025-03-01&g=2025-03-01) genoemde bedragen, waarbij de eerste evaluatie plaatsvindt op 31 december 2017. Voor de evaluatie wordt uitgegaan van een inflatiefactor, overeenkomend met het cumulatieve inflatiepercentage sinds de datum van de laatste kennisgeving, bedoeld in het tweede lid, die tot een wijziging van de aansprakelijkheidsgrenzen geleid heeft of, in het geval van de eerste evaluatie sinds de datum van inwerkingtreding van het Verdrag. De te gebruiken maat voor het inflatiepercentage om de inflatiefactor te bepalen, is het gewogen gemiddelde van het jaarlijkse percentage van de stijging of daling van de indices van de consumptieprijzen van de staten waarvan de munteenheden het in [artikel 9, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0006133&hoofdstuk=II&artikel=9&z=2025-03-01&g=2025-03-01), genoemde bijzondere trekkingsrecht vormen.
 
@@ -294,7 +316,7 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 4. Ongeacht het eerste lid van dit artikel is de in het tweede lid van dit artikel bedoelde procedure te allen tijde van toepassing indien een derde van de Verdragsluitende Staten de wens daartoe te kennen geeft en indien de in het eerste lid bedoelde inflatiefactor sinds de vorige evaluatie of sinds de datum van inwerkingtreding van dit Verdrag hoger is dan vijf procent en geen eerdere evaluatie heeft plaatsgevonden. Latere evaluaties volgens de in het eerste lid van dit artikel beschreven procedure vinden plaats elke vijf jaar vanaf het einde van het vijfde jaar volgend op de datum van de evaluatie die heeft plaatsgevonden overeenkomstig dit lid.
 
-#### Artikel 21. Depositaris
+##### Artikel 21. Depositaris
 
 1. Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Centrale Commissie voor de Rijnvaart; hij is de depositaris van het Verdrag.
 
@@ -314,7 +336,7 @@ Uit de verklaring moet eenduidig blijken op welke waterweg dit Verdrag niet van 
 
 - v). iedere krachtens een bepaling van dit Verdrag vereiste verklaring.
 
-#### Artikel 22. Talen
+##### Artikel 22. Talen
 
 Dit Verdrag is in een enkel oorspronkelijk exemplaar opgesteld in de Duitse, Engelse**,** Franse en Nederlandse taal, waarbij iedere tekst gelijkelijk authentiek is.
 

@@ -1,13 +1,37 @@
 ---
 title: "Selectielijst Natuur- en landschapsbeheer voor de neerslag van handelingen van de Minister van LNV en taakvoorgangers (vanaf 1945)"
 identifier: "BWBR0011663"
-categorie: "Milieu"
-publicatiedatum: 2000-11-12
-laatste_update: 2000-11-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011663"
+country: "nl"
+rank: "archiefselectielijst"
+publication_date: "2000-11-12"
+last_updated: "2000-11-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011663"
+soort: "ministeriele-regeling-archiefselectielijst"
+stam_id: "3787313"
+version_id: "5570092"
+internal_id: "C25308351"
+label_id: "3766974"
+dtd_version: "2.0"
+original_entry_into_force: "2000-11-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011663/2000-11-12/0"
+intitule_bron: "Stcrt.2000-219"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-09-27"
+intitule_published: "2000-11-10"
+intitule_in_force: "2000-11-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-219"
+original_signed_date: "2000-09-27"
+original_published_date: "2000-11-10"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-11-12"
+jci_1_3: "jci1.3:c:BWBR0011663&z=2000-11-12&g=2000-11-12"
+jci_1_0: "1.0:c:BWBR0011663&g=2000-11-12"
+citeertitel_status: "officieel"
+signed_date: "2000-09-27"
+entry_into_force: "2000-11-12"
 ---
-
 # Selectielijst Natuur- en landschapsbeheer voor de neerslag van handelingen van de Minister van LNV en taakvoorgangers (vanaf 1945)
 
 Gelet op [artikel 5, tweede lid, onder b, van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5);
@@ -16,17 +40,17 @@ De Raad voor Cultuur gehoord (advies van de Raad voor Cultuur van 25 februari 20
 
 Besluiten:
 
-#### Artikel 1
+##### Artikel 1
 
 De bij dit besluit gevoegde `selectielijst voor de neerslag van de handelingen van de Minister van Landbouw, Natuurbeheer en Visserij en de onder hem ressorterende actoren op het beleidsterrein natuur- en landschapsbeheer over de periode vanaf 1945' en de daarbij behorende toelichting worden vastgesteld.
 
-#### Artikel 2
+##### Artikel 2
 
 Van de `Lijst houdende opgaaf van voor vernietiging in aanmerking komende stukken in de archieven van het Ministerie van Landbouw en Visserij en in de archieven van de onder dat Ministerie ressorterende commissies en ambtenaren' (vastgesteld bij beschikking van de Minister van Landbouw en Visserij en de Minister van Cultuur, Recreatie en Maatschappelijk werk, nr. PAZ 400, Afdeling Post- en Archiefzaken d.d. 29 december 1966 en beschikking nr. 133349, Afdeling Oudheidkunde en Natuurbescherming d.d. 3 februari 1967, laatstelijk gewijzigd bij beschikkingen van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Landbouw, Natuurbeheer en Visserij, nrs. R&B/OSTA/99/469 en R&B/OSTA/99/471 d.d. 3 augustus 1999 (gepubliceerd in de Staatscourant nr. 216 van 9 november 1999)) worden categorieën 21 en 114 ingetrokken voor wat betreft het natuur- en landschapsbeheer.
 
 Van de `Lijst van voor vernietiging in aanmerking komende archiefbescheiden van het onder het Ministerie van Landbouw en Visserij ressorterende Staatsbosbeheer en van de onder deze dienst ressorterende consulentschappen, houtvesterijen, commissies en ambtenaren, alsmede van het Rijksinstituut voor Natuurbeheer en het Rijksinstituut voor Onderzoek in de Bos- en Landschapsbouw `De Dorschkamp'' (vastgesteld bij beschikking van de Minister van Landbouw en Visserij en de Minister van Cultuur, Recreatie en Maatschappelijk Werk, nr. PAZ 240 d.d. 9 november 1976 en nr. Dir.MMA/Ar 186.335 d.d. 17 november 1976, laatstelijk gewijzigd bij beschikking van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen en de Minister van Landbouw, Natuurbeheer en Visserij, nr. 98.146 RWS/JW d.d. 4 maart 1998 (gepubliceerd in de Staatscourant nr. 51 van 16 maart 1998)) worden de rubrieken Natuurbeheer (1.853.2) en Landschapsbouw (1.853.217) geheel ingetrokken en de overige categorieën voor wat betreft het natuur- en landschapsbeheer.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.
 
@@ -50,7 +74,7 @@ Enkele in het oog springende kenmerken van een selectielijst zijn de volgende.
 
 Hieronder volgen toelichtingen op respectievelijk de selectielijst, het project Pivot/LNV en het achterliggende nieuwe selectiebeleid van de rijksoverheid.
 
-#### Geldigheid van deze selectielijst
+##### Geldigheid van deze selectielijst
 
 Voor het ministerie van LNV is de selectielijst Natuur- en landschapsbeheer van toepassing voor:
 
@@ -58,7 +82,7 @@ Voor het ministerie van LNV is de selectielijst Natuur- en landschapsbeheer van 
 
 - 2. Handelingen van andere actoren onder de archiefzorg van LNV, voor zover die momenteel nog bestaan of onder LNV ressorteren (zoals BBL, CBL, SBB tot 1998 en Raad voor het Natuurbeheer). Voor Staatsbosbeheer is de selectielijst Natuur- en landschapsbeheer van toepassing voor handelingen van de actor `directeur Staatsbosbeheer' in de periode vanaf 1998. De overige zorgdragers waarvan in dit rapport handelingen zijn opgenomen zijn de ministers van Financiën, VROM en Buitenlandse Zaken en Gedeputeerde Staten van de provincies. De desbetreffende handelingen zijn nog niet vastgesteld. De vastgestelde selectielijst vormt de formele grondslag voor bewerking van archiefbestanden tot vernietiging dan wel overbrenging naar de Rijksarchiefdienst. Tevens wordt de lijst toegepast in het informatiebeheer van enerzijds alle LNV-onderdelen die bij dit beleidsterrein betrokken zijn, en anderzijds van Staatsbosbeheer. De lijst heeft overigens geen betrekking op het interne functioneren van de genoemde actoren; daarvoor worden beleidsterreinoverstijgende onderzoeken toegepast naar de aandachtsgebieden financiën, personeel, organisatie, huisvesting, informatievoorziening en voorlichting. De selectielijst treedt in werking twee dagen na publicatie in de Staatscourant en blijft in de huidige vorm hoogstens 20 jaar geldig.
 
-#### Intrekking van bestaande vernietigingslijsten
+##### Intrekking van bestaande vernietigingslijsten
 
 Bij vaststelling van deze selectielijst vervallen de volgende onderdelen uit vernietigingslijsten:
 
@@ -66,7 +90,7 @@ Bij vaststelling van deze selectielijst vervallen de volgende onderdelen uit ver
 
 - 2. Uit de vernietigingslijst van LNV voor Staatsbosbeheer (incl. consulentschappen en houtvesterijen), Rijksinstituut voor Natuurbeheer en Rijksinstituut `De Dorschkamp' (Stcrt. 1976, 248) vervallen de rubrieken `Natuurbeheer' en `Landschapsbouw' geheel en de overige categorieën alleen met betrekking tot natuur- en landschapsbeheer.
 
-#### Indeling van deze selectielijst
+##### Indeling van deze selectielijst
 
 De handelingen van de voornaamste actor op dit beleidsterrein, de minister van LNV (inclusief taakvoorgangers) zijn samengebracht in deel 1 van deze lijst. Daar zijn ze nader onderverdeeld volgens dezelfde indeling als het gelijknamige rapport en met dezelfde nummering.
 
@@ -80,11 +104,11 @@ In deel 3 staan de handelingen van Staatsbosbeheer. Voor de overzichtelijkheid z
 
 In de bijlage zijn de handelingen opgenomen van actoren buiten de archiefzorg van LNV. Deze handelingen zijn nog niet vastgesteld en kunnen dus nog niet dienen als grondslag voor vernietiging dan wel overbrenging naar de Rijksarchiefdienst. De reden om ze toch op te nemen in deze lijst is dat ze wel beschreven zijn in het gelijknamige rapport van institutioneel onderzoek.
 
-#### Informatie over de actoren en de context van de beschreven handelingen
+##### Informatie over de actoren en de context van de beschreven handelingen
 
 De actoren waarvan in deze lijst handelingen zijn opgenomen, worden nader beschreven in het bijbehorende onderzoeksrapport. Daarin is tevens een beschrijving opgenomen van de context van het beleidsterrein.
 
-#### Het formeel doorlopen traject van vaststelling
+##### Het formeel doorlopen traject van vaststelling
 
 Op 29 juli 1999 heeft de directeur Facilitaire Dienst van het ministerie van LNV de ontwerp-selectielijst aangeboden aan de staatssecretaris van OC&W, die er vervolgens advies over heeft gevraagd aan de Raad voor Cultuur. De Raad heeft tegelijk een verslag gekregen van het bij LNV gevoerde driehoeksoverleg over de waarderingen van de handelingen. Vanaf 28 september 1999 lag de ontwerp-selectielijst gedurende acht weken ter publieke inzage bij de registratiebalie van het Algemeen Rijksarchief en in de bibliotheken van het ministerie van LNV, Staatsbosbeheer, het ministerie van OC&W en de rijksarchieven in de provincie. De terinzagelegging was aangekondigd in Staatscourant 185 van 27 september 1999.
 
@@ -92,11 +116,11 @@ Tijdens het bovengenoemde driehoeksoverleg was, op verzoek van de Archiefcommiss
 
 De Bijzondere Commissie Archieven van de Raad voor Cultuur heeft de ontwerp-selectielijst besproken tijdens de vergadering van 7 december 1999. Bij de voorbereiding van het advies is het verslag van het driehoeksoverleg en de reactie van de historicus mede in beschouwing genomen. Op 25 februari bracht de Raad advies uit aan de Staatssecretaris van OC&W (kenmerk arc-99.1670/2) dat behoudens enkele tekstuele correcties geen aanleiding heeft gegeven tot wijziging van de ontwerp-selectielijst.
 
-#### Pivot bij LNV
+##### Pivot bij LNV
 
 De voorliggende selectielijst en het bijbehorende onderzoeksrapport zijn producten van het projectteam Pivot/LNV.
 
-#### Het project
+##### Het project
 
 Vooruitlopend op de nieuwe Archiefwet stelde de Rijksarchiefdienst in 1991 Pivot in: Project Invoering Verkorting Overbrengingstermijn. Het project is gericht op de selectie van overheidsarchieven vanaf 1945, en gaat uit van institutioneel onderzoek op alle beleidsterreinen waarbij het Rijk betrokken is. Pivot is een interdepartementaal project op basis van convenanten tussen de Rijksarchiefdienst en alle ministeries en Hoge Colleges van Staat. Het convenant voor LNV werd op 9 december 1992 gesloten tussen de secretaris-generaal van LNV en de Algemene Rijksarchivaris.
 
@@ -112,7 +136,7 @@ Hoofdpunten van de gehanteerde methodiek van institutioneel onderzoek:
 
 - De periode van onderzoek strekt zich in principe uit van 1945 tot heden, hoewel ook relevante ontwikkelingen of wetgeving van voor 1945 beschreven worden.
 
-#### De beleidsterreinen
+##### De beleidsterreinen
 
 De LNV-beleidsterreinen zijn in het Pivot-project als volgt gedefinieerd:
 
@@ -128,11 +152,11 @@ De LNV-beleidsterreinen zijn in het Pivot-project als volgt gedefinieerd:
 
 - Overige relevante beleidsterreinen: Buitenlands beleid, Sociale voorzieningen, Staatsdeelnemingen, Politiebeleid, Waterstaat, Invoerrechten en accijnzen, Arbeidsomstandigheden
 
-#### Inbreng van LNV-directies en diensten bij de totstandkoming van de lijsten
+##### Inbreng van LNV-directies en diensten bij de totstandkoming van de lijsten
 
 Het team van Pivot/LNV onderzoekt alle LNV-beleidsterreinen in nauwe samenwerking met de betrokken directies en diensten. De inbreng van de organisatieonderdelen bestaat uit het geven van interviews, het toetsen van concepten en het deelnemen aan overleg met de Rijksarchiefdienst. Deze inbreng wordt geleverd door deskundigen inzake het beleidsterrein en inzake de archiefvorming.
 
-#### Producten van Pivot
+##### Producten van Pivot
 
 - 1. Rapport van institutioneel onderzoek (RIO) Dit rapport bevat alle handelingen van de overheidsactoren binnen het beschreven beleidsterrein, binnen de grenzen van de onderzochte periode. Daarnaast bevat het relevante contextinformatie over deze handelingen, zoals een schets van de historische ontwikkelingen, een karakterisering van de opgevoerde actoren, een aanduiding van de organisatorische ontwikkelingen binnen het voornaamste betrokken ministerie en een opsomming van de geraadpleegde wet- en regelgeving die geldt binnen het beleidsterrein. Na vaststelling wordt het rapport gedrukt.
 
@@ -140,19 +164,19 @@ Het team van Pivot/LNV onderzoekt alle LNV-beleidsterreinen in nauwe samenwerkin
 
 - 3. Selectielijst Een selectielijst is het formeel vastgestelde gedeelte van een BSD. De lijst geeft aan iedere handeling een `waardering': een keuze voor al dan niet bewaren van de neerslag, met bij de V-handelingen een vernietigingstermijn. Selectielijsten van LNV noemen bij iedere handeling tevens de directies die daarbij betrokken zijn. De reikwijdte van een selectielijst hangt samen met de zorgdragers die hem indienen. Wanneer alle zorgdragers die voorkomen in een BSD tegelijk de selectielijst zouden indienen, dan vallen BSD en selectielijst dus samen.
 
-#### Toepassing van de selectielijsten
+##### Toepassing van de selectielijsten
 
 - 1. Bewerking en overbrenging van de archieven tot 1985 Met de vastgestelde selectielijst vindt de selectie en bewerking van de archiefbestanden plaats. De bestanden met cultuurhistorische waarde worden overgebracht naar de Rijksarchiefdienst en de rest is vernietigbaar. Het ministerie van LNV heeft met de Centrale Archief Selectiedienst (CAS) een raamconvenant afgesloten, op basis waarvan LNV archieven aan kan bieden ter selectie en bewerking. Bij de bewerking en overbrenging voert de Facilitaire Dienst de coördinatie namens LNV, maar de desbetreffende directies en diensten zijn opdrachtgever voor de bewerkingen, vanwege hun archiefverantwoordelijkheid.
 
 - 2. Voorkoming van het ontstaan van nieuwe achterstanden in overbrenging De verantwoordelijkheid hiervoor ligt bij de directies en diensten. Een essentieel element bij het voorkomen van nieuwe achterstanden is de invoering van de selectielijsten in het informatiebeheer, zowel voor de papieren documenten als voor elektronische bestanden en audiovisuele materialen. De inbreng van de FD bestaat uit de ontwikkeling van een methodiek voor invoering en de advisering over toepassing daarvan.
 
-#### Toepassing van de onderzoeksrapporten
+##### Toepassing van de onderzoeksrapporten
 
 - 1. Achtergrondinformatie voor beter beheer en selectie van archief De selectiebeslissingen worden gebaseerd op de contextbeschrijving in het bijbehorende rapport. Die beschrijving kan verder dienen als input voor een archiefstructuur die aansluit op de beleidsprocessen.
 
 - 2. Informatiebron voor beleidsmedewerkers Voor beleidsmedewerkers kunnen de rapporten dienen als naslagwerk. Per beleidsterrein geven ze een compact overzicht van de geldende wet- en regelgeving, de organisatie, de maatschappelijke context en de actoren binnen en buiten LNV, en dat over een periode van ongeveer vijftig jaar. Uniek is de specifieke combinatie van een brede invalshoek, een grote hoeveelheid feitelijke gegevens en een objectieve analyse vanuit het perspectief van de overheid. De nauwe samenwerking met materiedeskundigen van binnen en buiten het ministerie verzekert de betrouwbaarheid van de rapporten.
 
-#### Toelichting op het nieuwe archiefselectiebeleid van de rijksoverheid
+##### Toelichting op het nieuwe archiefselectiebeleid van de rijksoverheid
 
 Het selectiebeleid van de rijksoverheid en dus ook van LNV is enkele jaren geleden drastisch veranderd. Voorheen vond selectie plaats op documentniveau aan de hand van vernietigingslijsten, en daarnaast kon toestemming gevraagd worden voor incidentele vernietiging. Cultuurhistorisch waardevolle gedeelten van archieven moesten binnen 50 jaar overgebracht worden naar de Rijksarchiefdienst. Na invoering van de nieuwe Archiefwet (1996) is de selectiepraktijk als volgt veranderd:
 
@@ -170,7 +194,7 @@ Het selectiebeleid van de rijksoverheid en dus ook van LNV is enkele jaren geled
 
 - Incidentele vernietiging is niet meer mogelijk.
 
-#### Handelingen en hun cultuurhistorische waarde
+##### Handelingen en hun cultuurhistorische waarde
 
 Tot voor kort bestonden er voor de archiefselectie alleen negatieve criteria, want vernietigingslijsten gaven per overheidsinstelling slechts aan welke bestanden niet in aanmerking kwamen voor overbrenging naar een Rijksarchief. Deze criteria werden toegepast op documentniveau. Afgezien van de bewerkelijkheid van deze microselectie bestonden de voornaamste nadelen van deze werkwijze uit de onoverzichtelijkheid van datgene dat wel overgebracht zou moeten worden, het gebrek aan inzicht in de grondslagen van het handelen waaruit die bestanden resulteren, en het gebrek aan inzicht in de samenhang tussen de taken van actoren die op eenzelfde beleidsterrein actief zijn.
 
@@ -184,7 +208,7 @@ De handelingen die niet voldoen aan een van de selectiecriteria worden aangemerk
 
 Wanneer een handeling geselecteerd wordt voor overbrenging naar de Rijksarchiefdienst, dan wordt in principe de complete neerslag van die handeling bewaard. Een reconstructie van het overheidshandelen zou immers niet lukken wanneer alleen de eindproducten bewaard werden. Zo is van bv. regelingen en beleidsnota's juist de totstandkomingsfase interessant, vanwege de aanvankelijke bedoelingen, de discussies en de afgekeurde versies.
 
-#### Algemene selectiecriteria
+##### Algemene selectiecriteria
 
 De cultuurhistorische waarde van handelingen wordt getoetst aan de onderstaande algemene selectiecriteria. Wanneer een handeling aan een van de onderstaande criteria voldoet, dan komt de neerslag ervan in aanmerking voor overbrenging naar de Rijksarchiefdienst (B).
 
@@ -197,7 +221,7 @@ De cultuurhistorische waarde van handelingen wordt getoetst aan de onderstaande 
 | 5. Handelingen die bepalend zijn voor de wijze waarop beleidsuitvoering op hoofdlijnen plaatsvindt | Onder beleidsuitvoering wordt de toepassing verstaan van instrumenten om de gekozen doeleinden te bereiken |
 | 6. Handelingen die betrekking hebben op beleidsuitvoering op hoofdlijnen, voorzover die in direct verband staan met voor Nederland bijzondere tijdsomstandigheden en incidenten | Zoals wanneer de ministeriële verantwoordelijkheid is opgeheven en/of in noodsituaties |
 
-#### Uitzondering op de algemene selectiecriteria
+##### Uitzondering op de algemene selectiecriteria
 
 De neerslag van handelingen die als vernietigbaar zijn aangemerkt kan soms worden uitgezonderd van vernietiging. Deze mogelijkheid gaat terug op artikel 5, onder e, van het Archiefbesluit 1995. Het gaat om bestanden die samenhangen met personen en/of gebeurtenissen van bijzonder cultureel of maatschappelijk belang. De toepassing van dit uitzonderingscriterium vindt plaats gedurende de bewerking voor overbrenging en in overleg tussen de zorgdrager, het Algemeen Rijksarchief en de bewerkers.
 
@@ -205,7 +229,7 @@ N.B. De handelingen zijn nader onderverdeeld volgens dezelfde indeling als het r
 
 ### Hoofdstuk 2. Beleid, advisering, onderzoek en verantwoording
 
-#### (1)
+##### (1)
 
 Handeling: Het formuleren en evalueren van beleidsstandpunten inzake natuur- en landschapsbeheer
 
@@ -219,7 +243,7 @@ Waardering: B, 1
 
 Opmerking: Zie voor het opstellen van Planologische Kernbeslissingen (PKB) het Pivot-rapport `Ruimtelijke Ordening'
 
-#### (2)
+##### (2)
 
 Handeling: Het deelnemen aan commissies, werkgroepen, advies- en overlegorganen inzake natuur- en landschapsbeheer waarvan de minister noch het voorzitterschap, noch het secretariaat uitoefent maar waarin de minister wel vertegenwoordigd is
 
@@ -229,7 +253,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 5 jaar
 
-#### (3)
+##### (3)
 
 Handeling: Het instellen en opheffen van vaste adviescommissies inzake natuur- en landschapsbeheer
 
@@ -241,7 +265,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 2
 
-#### (4)
+##### (4)
 
 Handeling: Het instellen en opheffen van ad-hocadviescommissies en werkgroepen inzake natuur- en landschapsbeheer
 
@@ -253,7 +277,7 @@ Waardering: B, 4
 
 Opmerking: Een voorbeeld is de in 1993 ingestelde Landelijke Werkgroep Natuurterreinen Uiterwaarden (LWNU)
 
-#### (5)
+##### (5)
 
 Handeling: Het benoemen, schorsen of ontslaan van de (adviserende) leden van adviescommissies inzake natuur- en landschapsbeheer
 
@@ -265,7 +289,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 76 jaar na geboortedatum
 
-#### (6)
+##### (6)
 
 Handeling: Het goedkeuren van de werkwijze van commissies op het terrein van het natuur- en landschapsbeheer
 
@@ -275,7 +299,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 5 jaar na opheffing
 
-#### (8)
+##### (8)
 
 Handeling: Het aanwijzen van personen die ambtshalve lid zijn van de Voorlopige Natuurbeschermingsraad
 
@@ -287,7 +311,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 76 jaar na geboortedatum
 
-#### (9)
+##### (9)
 
 Handeling: Het vaststellen van de bezoldiging of toelage voor de (adjunct-)secretaris van de (Voorlopige) Natuurbeschermingsraad en het uitkeren daarvan
 
@@ -299,7 +323,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 76 jaar na geboortedatum
 
-#### (10)
+##### (10)
 
 Handeling: Het verstrekken van onkostenvergoedingen en vacatiegelden aan de leden van de (Voorlopige) Natuurbeschermingsraad en zijn commissies en aan de (adjunct-)secretarissen
 
@@ -311,7 +335,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 76 jaar na geboortedatum
 
-#### (12)
+##### (12)
 
 Handeling: Het toevoegen van een of meer adjunct-secretarissen aan de Natuurbeschermingsraad
 
@@ -323,7 +347,7 @@ Waardering: V, 76 jaar na geboortedatum
 
 Opmerking: Op verzoek van de Natuurbeschermingsraad
 
-#### (13)
+##### (13)
 
 Handeling: Het vaststellen van aanvullende bepalingen omtrent de werkwijze van de Natuurbeschermingsraad
 
@@ -335,7 +359,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 4
 
-#### (17)
+##### (17)
 
 Handeling: Het instellen en opheffen van onderzoeksinstellingen inzake natuur- en landschapsbeheer
 
@@ -347,7 +371,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 4
 
-#### (20)
+##### (20)
 
 Handeling: Het vaststellen van onderzoeksprogramma's inzake natuur- en landschapsbeheer
 
@@ -359,7 +383,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (21)
+##### (21)
 
 Handeling: Het voorbereiden van intern (wetenschappelijk) onderzoek en het vaststellen van onderzoeksrapporten inzake natuur- en landschapsbeheer
 
@@ -369,7 +393,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (22)
+##### (22)
 
 Handeling: Het voorbereiden en begeleiden van extern (wetenschappelijk) onderzoek inzake natuur- en landschapsbeheer
 
@@ -381,7 +405,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Sinds 1999 kan dit ook onderzoek door DLO betreffen
 
-#### (23)
+##### (23)
 
 Handeling: Het verstrekken van opdrachten en het vaststellen van eindrapportages van extern (wetenschappelijk) onderzoek inzake natuur- en landschapsbeheer
 
@@ -393,7 +417,7 @@ Waardering: B, 1, 2
 
 Opmerking: Sinds 1999 kan dit ook onderzoek door DLO betreffen
 
-#### (24)
+##### (24)
 
 Handeling: Het opstellen van periodieke verslagen inzake natuur- en landschapsbeheer
 
@@ -403,7 +427,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 3
 
-#### (25)
+##### (25)
 
 Handeling: Het beantwoorden van Kamervragen inzake natuur- en landschapsbeheer
 
@@ -413,7 +437,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 3
 
-#### (26)
+##### (26)
 
 Handeling: Het informeren van de Nationale Ombudsman en parlementaire onderzoekscommissies naar aanleiding van klachten over de gevolgen of de uitvoering van het beleid inzake natuur- en landschapsbeheer
 
@@ -429,7 +453,7 @@ Opmerkingen:
 
 - (Parlementair onderzoek gebeurt meestal door de Commissies voor de Verzoekschriften
 
-#### (27)
+##### (27)
 
 Handeling: Het beantwoorden van vragen van individuele burgers, bedrijven en instellingen inzake natuur- en landschapsbeheer
 
@@ -439,7 +463,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 5 jaar
 
-#### (28)
+##### (28)
 
 Handeling: Het beslissen op beroepschriften naar aanleiding van beschikkingen inzake natuur- en landschapsbeheer en het voeren van verweer in beroepschriftprocedures voor administratiefrechtelijke organen
 
@@ -451,7 +475,7 @@ Waardering: B, 3
 
 Opmerking: Zie ook Pivot-rapport `Drie maal `s Raads recht' over de Raad van State
 
-#### (29)
+##### (29)
 
 Handeling: Het voeren van verweer bij de Raad van State inzake besluiten krachtens de Natuurbeschermingswet
 
@@ -465,7 +489,7 @@ Waardering: B, 2, 3
 
 Opmerking: Namens de minister tussen 1996 en 1998 uitgevoerd door Gedeputeerde Staten en sindsdien op vergelijkbare basis door de regionale LNV-beleidsdirecties
 
-#### (32)
+##### (32)
 
 Handeling: Het opstellen, wijzigen en intrekken van de Natuurschoonwet 1928
 
@@ -479,7 +503,7 @@ Waardering: B, 1
 
 Opmerking: Samen met de minister van Financiën
 
-#### (33)
+##### (33)
 
 Handeling: Het stellen van regels inzake de voorwaarden voor rangschikking als NSW-landgoed en de bij een verzoek tot rangschikking te overleggen stukken
 
@@ -501,7 +525,7 @@ Opmerkingen:
 
 - ( Voor wat betreft de inhoud van de bijlagen bij het verzoek deels gemandateerd aan Laser
 
-#### (34)
+##### (34)
 
 Handeling: Het opstellen, wijzigen en intrekken van aanschrijvingen en circulaires die betrekking hebben op de Natuurschoonwet
 
@@ -515,7 +539,7 @@ Waardering: B, 5
 
 Opmerking: Samen met de minister van Financiën
 
-#### (36)
+##### (36)
 
 Handeling: Het opstellen, wijzigen en intrekken van de Natuurbeschermingswet
 
@@ -527,7 +551,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (37)
+##### (37)
 
 Handeling: Het opstellen, wijzigen en intrekken van aanschrijvingen en circulaires die betrekking hebben op de Natuurbeschermingswet
 
@@ -537,7 +561,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (38)
+##### (38)
 
 Handeling: Het leveren van bijdragen aan de opstelling, wijziging en intrekking van de Wet deelneming Grevelingen
 
@@ -551,7 +575,7 @@ Waardering: B, 1
 
 ### Hoofdstuk 4. Uitvoeringsinstrumenten
 
-#### (39)
+##### (39)
 
 Handeling: Het opstellen van een bijdrageregeling voor niet-terreinbeherende natuurbeschermingsorganisaties in het kader van het natuur- en landschapsbeheer
 
@@ -563,7 +587,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (40)
+##### (40)
 
 Handeling: Het toelaten van niet-terreinbeherende natuurbeschermingsorganisaties in het kader van het natuur- en landschapsbeheer
 
@@ -575,7 +599,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (41)
+##### (41)
 
 Handeling: Het stellen van (nadere) regels inzake de inrichting en organisatie van niet-terreinbeherende natuurbeschermingsorganisaties die bijdragen ontvangen in het kader van het natuur- en landschapsbeheer
 
@@ -587,7 +611,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (42)
+##### (42)
 
 Handeling: Het vaststellen of intrekken van een bijdrage voor niet-terreinbeherende organisaties in het kader van het natuur- en landschapsbeheer
 
@@ -601,7 +625,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: De handeling bestaat o.a. uit het goedkeuren van het werkplan en personeelsplan en het verstrekken van voorschotten aan ntbo's met liquiditeitsproblemen
 
-#### (43)
+##### (43)
 
 Handeling: Het goedkeuren van de bestemming van het batig liquidatiesaldo van een ntbo die opgeheven wordt
 
@@ -613,7 +637,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 10 jaar na opheffing
 
-#### (44)
+##### (44)
 
 Handeling: Het verlenen van ontheffingen van (verbods)bepalingen uit de subsidieregeling ntbo
 
@@ -625,7 +649,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (45)
+##### (45)
 
 Handeling: Het opstellen van een bijdrageregeling voor financiële steun aan gemeenten bij het opzetten van landschapsbeleidsplannen
 
@@ -639,7 +663,7 @@ Waardering: B, 5
 
 Opmerking: Sinds 1993 door Stichting Landschapsbeheer Nederland
 
-#### (46)
+##### (46)
 
 Handeling: Het aanwijzen van deskundige bureaus die landschapsbeleidsplannen opstellen voor gemeenten
 
@@ -653,7 +677,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Tussen 1985-1987 door Staatsbosbeheer
 
-#### (47)
+##### (47)
 
 Handeling: Het toekennen van bijdragen aan gemeenten voor de kosten voor het laten opstellen van een landschapsbeleidsplan
 
@@ -667,7 +691,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Tussen 1985-1987 door Staatsbosbeheer en sinds 1993 door de Stichting Landschapsbeheer Nederland
 
-#### (48)
+##### (48)
 
 Handeling: Het vaststellen van een bijdrage aan de Stichting Landschapsbeheer Nederland voor het uitvoeren van de Regeling landschapsbeleidsplannen
 
@@ -679,7 +703,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (49)
+##### (49)
 
 Handeling: Het opstellen van bijdrageregelingen voor landschapsverzorging
 
@@ -691,7 +715,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (50)
+##### (50)
 
 Handeling: Het toekennen van een bijdrage ten behoeve van de landschapsverzorging
 
@@ -709,7 +733,7 @@ Opmerkingen:
 
 - ( Uitgevoerd door Staatsbosbeheer tussen 1972-1987
 
-#### (51)
+##### (51)
 
 Handeling: Het erkennen van deskundige bureaus die beplantingsprogramma's voor landschapsverzorging opstellen
 
@@ -721,7 +745,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (52)
+##### (52)
 
 Handeling: Het rangschikken van onroerende goederen als NSW-landgoed of het intrekken van de rangschikking
 
@@ -741,7 +765,7 @@ Opmerkingen:
 
 - ( Sinds 1997 namens de minister van LNV uitgevoerd door Laser
 
-#### (56)
+##### (56)
 
 Handeling: Het opstellen van voorwaarden inzake de velling van bossen of andere houtopstanden die behoren tot een NSW-landgoed
 
@@ -755,7 +779,7 @@ Waardering: V, na 50 jaar
 
 Opmerking: Sinds 1990 geldt hiervoor het Rangschikkingsbesluit (Stb. 612)
 
-#### (57)
+##### (57)
 
 Handeling: Het controleren of NSW-landgoederen nog voldoen aan de voorwaarden tot rangschikking en het toetsen van door landgoedeigenaren voorgenomen verrichtingen
 
@@ -769,7 +793,7 @@ Waardering: V, na 25 jaar (bij centrale beleidsdirectie Natuurbeheer na 50 jaar)
 
 Opmerking: Tussen 1982-1985 uitgevoerd door Staatsbosbeheer. Sinds 1997 namens de minister van LNV uitgevoerd door Laser
 
-#### (58)
+##### (58)
 
 Handeling: Het beslissen dat een landgoed zijn rangschikking als NSW-landgoed behoudt
 
@@ -791,7 +815,7 @@ Opmerkingen:
 
 - ( Sinds 1997 namens de minister van LNV uitgevoerd door Laser
 
-#### (59)
+##### (59)
 
 Handeling: Het vaststellen van een kortere termijn waarbinnen een niet ernstig aangetast landgoed dat zijn rangschikking verliest opnieuw kan worden voorgedragen voor rangschikking
 
@@ -815,7 +839,7 @@ Opmerkingen:
 
 - ( Sinds 1997 namens de minister van LNV uitgevoerd door Laser
 
-#### (60)
+##### (60)
 
 Handeling: Het goedkeuren van de regels voor openstelling voor het publiek van een NSW-landgoed
 
@@ -835,7 +859,7 @@ Opmerkingen:
 
 - ( Sinds 1997 namens de minister van LNV uitgevoerd door Laser
 
-#### (61)
+##### (61)
 
 Handeling: Het beslissen of een landgoed na successie, schenking of overdracht nog volgens de goedgekeurde regels is opengesteld voor het publiek
 
@@ -855,7 +879,7 @@ Opmerkingen:
 
 - ( Bij een negatief oordeel vordert de minister van Financiën alsnog successierechten e.d. van de nieuwe eigenaar
 
-#### (63)
+##### (63)
 
 Handeling: Het aanwijzen van een gebied als beschermd natuurmonument of staatsnatuurmonument dan wel het intrekken van die aanwijzing
 
@@ -879,7 +903,7 @@ Opmerkingen:
 
 - het besluiten omtrent verlenging van de termijn waarin Gedeputeerde Staten de reacties toezenden die bij hen zijn ingekomen inzake zijn overweging tot aanwijzing, dan wel tot (gedeeltelijke) intrekking van zo'n aanwijzing
 
-#### (68)
+##### (68)
 
 Handeling: Het toekennen van een schadevergoeding aan belanghebbenden die, ten gevolge van de aanwijzing van een beschermd natuurmonument of de weigering een vergunning te verlenen, op niet-redelijke wijze geschaad worden
 
@@ -893,7 +917,7 @@ Waardering: V, na 10 jaar (stukken m.b.t. Waddenzee na 20 jaar; stukken bij cent
 
 Opmerking: Tussen 1996 en 1998 namens de minister uitgevoerd door Gedeputeerde Staten, tot het desbetreffende mandaat in 1998 met terugwerkende kracht ongedaan werd gemaakt. Sinds 1998 met machtiging van de minister uitgevoerd door de regiodirecties van LNV
 
-#### (69)
+##### (69)
 
 Handeling: Het opstellen van regelingen met betrekking tot de begrenzing van natuurontwikkelingsprojecten
 
@@ -905,7 +929,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (75)
+##### (75)
 
 Handeling: Het stellen van voorwaarden met betrekking tot de begrenzingsplannen voor natuurontwikkelingsprojecten
 
@@ -925,7 +949,7 @@ Opmerking: Deel van deze handeling maakt uit:
 
 - het bedrag dat jaarlijks uit de kas bestemd is voor natuurontwikkelingsprojecten
 
-#### (77)
+##### (77)
 
 Handeling: Het goedkeuren van (de wijziging van) een begrenzingsplan van een natuurmonument
 
@@ -937,7 +961,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (78)
+##### (78)
 
 Handeling: Het opstellen van een wetsvoorstel tot onteigening van een onroerend goed in het belang van het natuurbeheer
 
@@ -953,7 +977,7 @@ Waardering: B, 5
 
 Opmerking: Deel van deze handeling is het registeren van beschouwingen van Gedeputeerde Staten (Onteigeningswet, art. 146)
 
-#### (80)
+##### (80)
 
 Handeling: Het verbieden van handelingen die het karakter aantasten van een natuurgebied dat de staat voornemens is te onteigenen, dan wel het intrekken of verlengen van dat verbod
 
@@ -971,7 +995,7 @@ Opmerkingen:
 
 - ( Verlenging gebeurt bij koninklijk besluit
 
-#### (81)
+##### (81)
 
 Handeling: Het verlenen van ontheffingen inzake handelingen die verboden zijn in een natuurgebied dat de staat voornemens is te onteigenen
 
@@ -983,7 +1007,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 50 jaar
 
-#### (82)
+##### (82)
 
 Handeling: Het beslissen over de aankoop, verkoop of ruil van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -995,7 +1019,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (83)
+##### (83)
 
 Handeling: Het uitvoeren van aankoop-, verkoop- en ruiltransacties van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -1013,7 +1037,7 @@ Opmerkingen:
 
 - ( Tussen 1946-1982 uitgevoerd door Stichting Beheer Landbouwgronden en sinds 1983 door Bureau Beheer Landbouwgronden; vanaf 1945 tevens uitgevoerd door Staatsbosbeheer
 
-#### (84)
+##### (84)
 
 Handeling: Het verlenen van bijdragen aan gemeenten voor de verwerving van natuurgebieden
 
@@ -1025,7 +1049,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 15 jaar
 
-#### (86)
+##### (86)
 
 Handeling: Het bepalen dat vanaf een bepaald tijdstip geen beroep kan worden gedaan op de koopplicht in natuurontwikkelingsprojecten
 
@@ -1039,7 +1063,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Deze bepaling is opgenomen omwille van de budgettaire beheersbaarheid van de koopplicht die aan het BBL is opgelegd
 
-#### (87)
+##### (87)
 
 Handeling: Het mede oprichten en vormgeven van een schap van natuurgebieden
 
@@ -1053,7 +1077,7 @@ Waardering: B, 5
 
 Opmerking: Bij deze handeling kunnen ook andere ministers betrokken zijn, zoals de minister van VROM
 
-#### (88)
+##### (88)
 
 Handeling: Het toetreden tot de raad van bestuur van een schap van natuurgebieden
 
@@ -1065,7 +1089,7 @@ Dienstonderdeel: DN
 
 Waardering: V, 76 jaar na geboortedatum
 
-#### (89)
+##### (89)
 
 Handeling: Het voorbereiden van het beleid inzake het beheer van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1077,7 +1101,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (91)
+##### (91)
 
 Handeling: Het aangaan van zakelijke rechten met betrekking tot staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1091,7 +1115,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. erfpacht, opstal en erfdienstbaarheden
 
-#### (92)
+##### (92)
 
 Handeling: Het aangaan van relatieve rechten met betrekking tot staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1105,7 +1129,7 @@ Waardering: V, na 15 jaar
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (93)
+##### (93)
 
 Handeling: Het opstellen van beheersplannen voor staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1119,7 +1143,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (94)
+##### (94)
 
 Handeling: Het exploiteren en onderhouden van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1131,7 +1155,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 15 jaar
 
-#### (95)
+##### (95)
 
 Handeling: Het geven van voorlichting over de instandhouding en het onderhoud van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -1143,7 +1167,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 15 jaar
 
-#### (96)
+##### (96)
 
 Handeling: Het opstellen van bijdrageregelingen voor het opheffen van achterstallig onderhoud in historische parken, tuinen en buitenplaatsen
 
@@ -1155,7 +1179,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (97)
+##### (97)
 
 Handeling: Het periodiek vaststellen van bijdragen voor het opheffen van achterstallig onderhoud in historische parken, tuinen en buitenplaatsen
 
@@ -1167,7 +1191,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (98)
+##### (98)
 
 Handeling: Het vaststellen van een beheersplan voor (een deel van) een beschermd natuurmonument en het aan eigenaren en gebruikers vergoeden van kosten en lasten die daaruit voor hen resulteren
 
@@ -1181,7 +1205,7 @@ Waardering: V, na 10 jaar (bij centrale beleidsdirectie Natuurbeheer na 50 jaar)
 
 Opmerking: Tussen 1996 en 1998 namens de minister uitgevoerd door Gedeputeerde Staten, tot het desbetreffende mandaat in 1998 met terugwerkende kracht ongedaan werd gemaakt. Sinds 1998 met machtiging van de minister uitgevoerd door de regiodirecties van LNV
 
-#### (100)
+##### (100)
 
 Handeling: Het goedkeuren van beheersplannen voor natuurgebieden
 
@@ -1195,7 +1219,7 @@ Waardering: V, na 15 jaar
 
 Opmerking: Tot 1987 tevens door Staatsbosbeheer
 
-#### (101)
+##### (101)
 
 Handeling: Het opstellen, wijzigen en intrekken van (bijdragen)regelingen inzake de aanschaf, het instandhouden en het beheer van natuurterreinen
 
@@ -1207,7 +1231,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (102)
+##### (102)
 
 Handeling: Het stellen van nadere regels inzake de aanschaf, het instandhouden en het beheer van natuurgebieden
 
@@ -1223,7 +1247,7 @@ Waardering: B, 5
 
 Opmerking: Tot 1987 tevens door Staatsbosbeheer
 
-#### (103)
+##### (103)
 
 Handeling: Het stellen van nadere regels aan de inrichting en organisatie van instellingen die bijdragen ontvangen in het kader van de aanschaf, het instandhouden en beheer van natuurgebieden
 
@@ -1235,7 +1259,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (104)
+##### (104)
 
 Handeling: Het toekennen of intrekken van (bijzondere) bijdragen aan de eigenaren en/of gebruikers van natuurgebieden voor de aanschaf, het instandhouden en het beheer
 
@@ -1253,7 +1277,7 @@ Opmerkingen:
 
 ( Tot 1987 tevens door Staatsbosbeheer
 
-#### (105)
+##### (105)
 
 Handeling: Het verlenen van vergoedingen voor het (mede) richten van de bedrijfsvoering van landbouwbedrijven op natuur- en landschapsbeheer binnen daartoe aangewezen gebieden
 
@@ -1265,7 +1289,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (106)
+##### (106)
 
 Handeling: Het stellen van nadere regels inzake de verlening van vergoedingen voor het (mede) richten van de bedrijfsvoering van landbouwbedrijven op natuur- en landschapsbeheer
 
@@ -1277,7 +1301,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (108)
+##### (108)
 
 Handeling: Het verlenen van vergunningen voor het verrichten van handelingen die schadelijk zijn voor het natuurschoon of voor de natuurwetenschappelijke betekenis van natuurmonument of die een beschermd natuurmonument ontsieren
 
@@ -1291,7 +1315,7 @@ Waardering: V, na 5 jaar (stukken m.b.t. Waddenzee na 20 jaar; stukken bij centr
 
 Opmerking: Tussen 1996 en 1998 namens de minister uitgevoerd door Gedeputeerde Staten, tot het desbetreffende mandaat in 1998 met terugwerkende kracht ongedaan werd gemaakt. Sinds 1998 met machtiging van de minister uitgevoerd door de regiodirecties van LNV
 
-#### (112)
+##### (112)
 
 Handeling: Het verlenen van ontheffingen inzake het verbod een beschermd (staats)natuurmonument te verontreinigen, planten te verwijderen, dieren te verontrusten of schade aan de natuur aan te brengen
 
@@ -1305,7 +1329,7 @@ Waardering: V, na 5 jaar (stukken m.b.t. Waddenzee na 20 jaar; stukken bij centr
 
 Opmerking: Tussen 1996 en 1998 namens de minister uitgevoerd door Gedeputeerde Staten, tot het desbetreffende mandaat in 1998 met terugwerkende kracht ongedaan werd gemaakt. Sinds 1998 met machtiging van de minister uitgevoerd door de regiodirecties van LNV
 
-#### (113)
+##### (113)
 
 Handeling: Het in het kader van de natuurbescherming opstellen van een verklaring van geen bezwaar inzake de bouw van een cultuurtechnisch werk
 
@@ -1323,7 +1347,7 @@ Opmerkingen:
 
 ( De verklaring kan namens de minister(s) worden afgeven door de directeur SBB of door houtvesters
 
-#### (115)
+##### (115)
 
 Handeling: Het instellen van een aanmoedigingsprijs inzake natuur- en landschapsbeheer, het opstellen van criteria en het instellen van beoordelingscommissies
 
@@ -1337,7 +1361,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (117)
+##### (117)
 
 Handeling: Het formuleren en evalueren van meerjaren- of kaderplannen inzake natuureducatie
 
@@ -1351,7 +1375,7 @@ Waardering: B, 1, 2
 
 Opmerking: Indien van toepassing gebeurt dit samen met andere betrokken ministers
 
-#### (118)
+##### (118)
 
 Handeling: Het opstellen en evalueren van ontwikkelings- of projectplannen inzake natuureducatie
 
@@ -1365,7 +1389,7 @@ Waardering: B, 5
 
 Opmerking: Eventueel tezamen met andere ministers en provinciale overheden
 
-#### (119)
+##### (119)
 
 Handeling: Het coördineren van de uitvoering van programma's en projecten inzake natuureducatie
 
@@ -1383,7 +1407,7 @@ Opmerkingen:
 
 - ( De handeling kan tevens betrekking hebben op het subsidiëren van organisaties die uitvoering geven aan projecten en ontwikkelingsplannen inzake natuureducatie
 
-#### (121)
+##### (121)
 
 Handeling: Het opstellen en evalueren van meerjarenplannen inzake de voorlichting op het beleidsterrein natuur- en landschapsbeheer
 
@@ -1397,7 +1421,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1, 2
 
-#### (122)
+##### (122)
 
 Handeling: Het opstellen van een jaarprogrammering inzake de voorlichting op het beleidsterrein natuur- en landschapsbeheer
 
@@ -1409,7 +1433,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (123)
+##### (123)
 
 Handeling: Het opstellen en evalueren van een communicatieplan voor een onderwerp op het beleidsterrein natuur- en landschapsbeheer
 
@@ -1423,7 +1447,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (124)
+##### (124)
 
 Handeling: Het geven van opdrachten tot het vervaardigen van voorlichtingsmiddelen inzake natuur- en landschapsbeheer
 
@@ -1435,7 +1459,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (125)
+##### (125)
 
 Handeling: Het organiseren van congressen, conferenties en andere speciale bijeenkomsten die betrekking hebben op het natuur- en landschapsbeheer
 
@@ -1453,7 +1477,7 @@ Opmerkingen:
 
 - ( De handeling omvat o.a. het uitnodigen van sprekers, het opstellen van de congresprotocollen, etc.
 
-#### (126)
+##### (126)
 
 Handeling: Het verrichten van (opinie)onderzoek naar de mening van de bevolking of een doelgroep inzake natuur- en landschapsbeheer
 
@@ -1467,7 +1491,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (127)
+##### (127)
 
 Handeling: Het redigeren en publiceren van tijdschriften die betrekking hebben op het beleidsterrein natuur- en landschapsbeheer
 
@@ -1481,7 +1505,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5 voor het gedrukte materiaal; de rest vernietigen na 5 jaar
 
-#### (128)
+##### (128)
 
 Handeling: Het vaststellen en (laten) aanbrengen van de kentekens die een beschermd natuurmonument aanduiden
 
@@ -1493,7 +1517,7 @@ Dienstonderdeel: DN, RBD's
 
 Waardering: V, na 50 jaar
 
-#### (129)
+##### (129)
 
 Handeling: Het (gedeeltelijk) afsluiten van een beschermd natuurmonument of staatsnatuurmonument
 
@@ -1507,7 +1531,7 @@ Waardering: B, 5
 
 Opmerking: Art. 17 fungeert als juridische basis om de toegang tot een bepaald water te verbieden. Bij het verbod om zich op een bepaald terrein te bevinden kan de minister verwijzen naar het Wetboek van Strafrecht
 
-#### (130)
+##### (130)
 
 Handeling: Het aanwijzen van ambtenaren die bevoegd zijn tussen zonsopgang en zonsondergang alle beschermde natuurgebieden te betreden en het vaststellen van een model van een legitimatiebewijs
 
@@ -1525,7 +1549,7 @@ Opmerking: In 1996 berustte deze bevoegdheid bij Gedeputeerde Staten (ter uitoef
 
 ### Hoofdstuk 5. Handhaving en monitoring
 
-#### (131)
+##### (131)
 
 Handeling: Het aanwijzen van toezichthouders en opsporingsambtenaren ten behoeve van de naleving van de wet- en regelgeving inzake het natuur- en landschapsbeheer
 
@@ -1541,7 +1565,7 @@ Waardering: B, 5
 
 Opmerking: De Natuurbeschermingswet bevestigt de algemene opsporingsbevoegdheid van de personen die daartoe aangewezen zijn bij het Wetboek van Strafvordering, zoals de ambtenaren van de invoerrechten en accijnzen
 
-#### (132)
+##### (132)
 
 Handeling: Het opzetten en evalueren van inspectieprojecten inzake de naleving van de wet- en regelgeving inzake het natuur- en landschapsbeheer
 
@@ -1555,7 +1579,7 @@ Waardering: B, 5
 
 Opmerking: Deze handeling wordt verricht door inspecteurs AID
 
-#### (133)
+##### (133)
 
 Handeling: Het op kosten van de overtreder doen wegnemen, beletten, verrichten of in vorige toestand herstellen van hetgeen in strijd met de Natuurbeschermingswet wordt gehouden, gemaakt, ondernomen, nagelaten of weggenomen
 
@@ -1569,7 +1593,7 @@ Waardering: V, na 20 jaar (centrale beleidsdirectie Natuurbeheer na 50 jaar)
 
 Opmerking: Tussen 1996 en 1998 namens de minister uitgevoerd door Gedeputeerde Staten, tot het desbetreffende mandaat in 1998 met terugwerkende kracht ongedaan werd gemaakt. Sinds 1998 met machtiging van de minister uitgevoerd door de regiodirecties van LNV
 
-#### 5.2 Monitoring
+##### 5.2 Monitoring
 
 (134)
 
@@ -1623,7 +1647,7 @@ Opmerking: Andere organisaties en instellingen kunnen bij deze handeling betrokk
 
 ### Hoofdstuk 6. Internationaal overleg
 
-#### (139)
+##### (139)
 
 Handeling: Het formuleren van beleidsstandpunten inzake internationaal natuur- en landschapsbeheer
 
@@ -1637,7 +1661,7 @@ Waardering: B, 1
 
 Opmerking: Andere betrokken ministeries zijn o.a. die van Buitenlandse Zaken en Ontwikkelingssamenwerking, Economische Zaken, VROM, en Verkeer en Waterstaat
 
-#### (140)
+##### (140)
 
 Handeling: Het departementaal voorbereiden van verdragen die betrekking hebben op natuur- en landschapsbeheer
 
@@ -1651,7 +1675,7 @@ Waardering: B, 1
 
 Opmerking: Overleg op basis van eenmaal tot stand gekomen verdragen valt onder de handelingen in rubriek 6.3
 
-#### (141)
+##### (141)
 
 Handeling: Het inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens overleg van de Coördinatiecommissie Internationale Milieuvraagstukken (CIM)
 
@@ -1661,7 +1685,7 @@ Dienstonderdeel: DN, IZ
 
 Waardering: B, 1
 
-#### (142)
+##### (142)
 
 Handeling: Het inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van de Coördinatie Commissie Ontwikkelingssamenwerking (COCOS)
 
@@ -1671,7 +1695,7 @@ Dienstonderdeel: DN, IZ
 
 Waardering: B, 1
 
-#### (143)
+##### (143)
 
 Handeling: Het inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens overleg in het kader van de Coördinatie Commissie Verenigde Naties (COCO-VNGO)
 
@@ -1681,7 +1705,7 @@ Dienstonderdeel: DN, IZ
 
 Waardering: B, 1
 
-#### (147)
+##### (147)
 
 Handeling: Het uitwisselen van kennis inzake natuur- en landschapsbeheer tijdens internationale (ad-hoc)conferenties en symposia
 
@@ -1691,7 +1715,7 @@ Dienstonderdeel: DN, IZ
 
 Waardering: V, na 5 jaar
 
-#### (148)
+##### (148)
 
 Handeling: Het voeren van niet-geformaliseerd bilateraal en multilateraal overleg inzake natuur- en landschapsbeheer
 
@@ -1703,7 +1727,7 @@ Waardering: B, 1
 
 Bilateraal overleg
 
-#### (149)
+##### (149)
 
 Handeling: Het voeren van geformaliseerd bilateraal overleg inzake natuur- en landschapsbeheer
 
@@ -1715,7 +1739,7 @@ Waardering: B, 1
 
 Verenigde Naties
 
-#### (150)
+##### (150)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van de Verenigde Naties
 
@@ -1727,7 +1751,7 @@ Waardering: B, 1
 
 IUCN
 
-#### (151)
+##### (151)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van de IUCN
 
@@ -1739,7 +1763,7 @@ Waardering: B, 1
 
 Conventie van Ramsar
 
-#### (152)
+##### (152)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van de Ramsar-conventie
 
@@ -1753,7 +1777,7 @@ Waardering: B, 1
 
 Benelux
 
-#### (153)
+##### (153)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van de Benelux
 
@@ -1767,7 +1791,7 @@ Waardering: B, 1
 
 Conventie van Bern
 
-#### (154)
+##### (154)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens bijeenkomsten in het kader van het Verdrag van Bern
 
@@ -1781,7 +1805,7 @@ Waardering: B, 1
 
 Europese Gemeenschap (EG)
 
-#### (155)
+##### (155)
 
 Handeling: Het opstellen en inbrengen van bijdragen en standpunten inzake natuur- en landschapsbeheer tijdens overleg in het kader van de EG
 
@@ -1793,7 +1817,7 @@ Dienstonderdeel: DN, IZ
 
 Waardering: B, 1
 
-#### (156)
+##### (156)
 
 Handeling: Het notificeren van internationale organen of andere landen over de situatie in Nederland inzake het natuur- en landschapsbeheer
 
@@ -1809,7 +1833,7 @@ Opmerking: De notificaties kunnen bijv. betrekking hebben op de aantasting van h
 
 ### Deel 2. Handelingen van actoren onder de archiefzorg van LNV
 
-#### (53)
+##### (53)
 
 Handeling: Het adviseren van de betrokken ministers inzake de rangschikking van een onroerend goed als NSW-landgoed
 
@@ -1821,7 +1845,7 @@ Dienstonderdeel: SBB
 
 Waardering: B, 5
 
-#### (82)
+##### (82)
 
 Handeling: Het beslissen over de aankoop, verkoop of ruil van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -1835,7 +1859,7 @@ Waardering: B, 5
 
 Opmerking: Voor 1983 uitgevoerd door Stichting Beheer Landbouwgronden
 
-#### (83)
+##### (83)
 
 Handeling: Het uitvoeren van aankoop-, verkoop- en ruiltransacties van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -1853,7 +1877,7 @@ Opmerkingen:
 
 - ( Voor 1983 uitgevoerd door Stichting Beheer Landbouwgronden
 
-#### (82)
+##### (82)
 
 Handeling: Het verlenen van bijdragen aan gemeenten voor de verwerving van natuurgebieden
 
@@ -1865,7 +1889,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 15 jaar
 
-#### (89)
+##### (89)
 
 Handeling: Het voorbereiden van het beleid inzake het beheer van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1877,7 +1901,7 @@ Dienstonderdeel: DLG
 
 Waardering: B, 5
 
-#### (91)
+##### (91)
 
 Handeling: Het aangaan van zakelijke rechten met betrekking tot gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1891,7 +1915,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. erfpacht, opstal en erfdienstbaarheden
 
-#### (92)
+##### (92)
 
 Handeling: Het aangaan van relatieve rechten met betrekking tot gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1905,7 +1929,7 @@ Waardering: V, na 6 jaar
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (93)
+##### (93)
 
 Handeling: Het opstellen van beheersplannen voor gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1919,7 +1943,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (94)
+##### (94)
 
 Handeling: Het exploiteren en onderhouden van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1931,7 +1955,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (95)
+##### (95)
 
 Handeling: Het geven van voorlichting over de instandhouding en het onderhoud van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -1943,7 +1967,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (114)
+##### (114)
 
 Handeling: Het adviseren van de betrokken ministers inzake het opstellen van verklaringen van geen bezwaar met betrekking tot de bouw van een cultuurtechnisch werk
 
@@ -1955,7 +1979,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (73)
+##### (73)
 
 Handeling: Het adviseren van de minister van LNV over het opstellen van regelingen inzake de begrenzing van natuurontwikkelingsprojecten
 
@@ -1969,7 +1993,7 @@ Waardering: V, na 6 jaar
 
 Opmerking: Van toepassing op een gebied waarvoor herinrichting, ruilverkaveling of aanpassingsinrichtingen uit hoofde van de Landinrichtingswet worden voorbereid
 
-#### (74)
+##### (74)
 
 Handeling: Het adviseren van de Provinciale Commissie Beheer Landbouwgronden inzake het voorontwerp-begrenzingsplan
 
@@ -1983,7 +2007,7 @@ Waardering: V, na 6 jaar
 
 Opmerking: Van toepassing op een gebied waarvoor herinrichting, ruilverkaveling of aanpassingsinrichtingen uit hoofde van de Landinrichtingswet worden voorbereid
 
-#### (114)
+##### (114)
 
 Handeling: Het adviseren van de betrokken ministers inzake het opstellen van verklaringen van geen bezwaar met betrekking tot de bouw van een cultuurtechnisch werk
 
@@ -1995,7 +2019,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (72)
+##### (72)
 
 Handeling: Het adviseren van de minister van LNV over het opstellen van regelingen inzake de begrenzing van natuurontwikkelingsprojecten
 
@@ -2007,7 +2031,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (85)
+##### (85)
 
 Handeling: Het adviseren van de minister van LNV inzake het bepalen dat vanaf een bepaald tijdstip geen beroep kan worden gedaan op de koopplicht in natuurontwikkelingsprojecten
 
@@ -2019,7 +2043,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (107)
+##### (107)
 
 Handeling: Het aan de minister van LNV kenbaar maken van een mening over nadere regels inzake de verlening van vergoedingen voor natuur- en landschapsbeheer
 
@@ -2033,7 +2057,7 @@ Waardering: B, 5
 
 Opmerking: De inbreng van de CBL verviel per 1-1-1997 krachtens de Aanpassingswet herziening adviesstelsel (Stb. 1997, 63)
 
-#### (114)
+##### (114)
 
 Handeling: Het adviseren van de betrokken ministers inzake het opstellen van verklaringen van geen bezwaar met betrekking tot de bouw van een cultuurtechnisch werk
 
@@ -2045,7 +2069,7 @@ Dienstonderdeel: JZ
 
 Waardering: V, na 10 jaar
 
-#### (119)
+##### (119)
 
 Handeling: Het coördineren van de uitvoering van programma's en projecten inzake natuureducatie
 
@@ -2063,7 +2087,7 @@ Opmerkingen:
 
 - ( De handeling kan tevens betrekking hebben op het subsidiëren van organisaties die uitvoering geven aan projecten en ontwikkelingsplannen inzake natuureducatie
 
-#### (120)
+##### (120)
 
 Handeling: Het adviseren van de minister inzake het opstellen en evalueren van plannen op het terrein van de natuureducatie
 
@@ -2083,7 +2107,7 @@ Opmerkingen:
 
 - ( In 1991 werd de commissie onderdeel van de Natuurbeschermingsraad
 
-#### (11)
+##### (11)
 
 Handeling: Het adviseren van de minister inzake natuur- en landschapsbeheer
 
@@ -2095,7 +2119,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (66)
+##### (66)
 
 Handeling: Het adviseren van minister over de aanwijzing van een gebied als beschermd natuurmonument of staatsnatuurmonument dan wel over de intrekking van die aanwijzing
 
@@ -2107,7 +2131,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (71)
+##### (71)
 
 Handeling: Het adviseren van de minister van LNV over het opstellen van regelingen inzake de begrenzing van natuurontwikkelingsprojecten
 
@@ -2119,7 +2143,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (99)
+##### (99)
 
 Handeling: Het adviseren van de minister van LNV inzake een beheersplan voor (een deel van) een beschermd natuurmonument
 
@@ -2131,7 +2155,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (110)
+##### (110)
 
 Handeling: Het adviseren van de minister van LNV en Gedeputeerde Staten inzake het verlenen van een vergunning of ontheffing die zou leiden tot ernstige aantasting van een beschermd natuurmonument
 
@@ -2143,7 +2167,7 @@ Dienstonderdeel; DN
 
 Waardering: V, na 10 jaar
 
-#### (64)
+##### (64)
 
 Handeling: Het aanmerken van gebieden die bescherming verdienen vanwege hun grote waarde voor natuur en landschap
 
@@ -2157,7 +2181,7 @@ Waardering: B, 5
 
 Opmerking: In 1969 werd de commissie een onderdeel van de Natuurbeschermingsraad
 
-#### (90)
+##### (90)
 
 Handeling: Het adviseren van Staatsbosbeheer bij het beheer van natuurgebieden
 
@@ -2171,7 +2195,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: In 1969 werd de commissie een onderdeel van de Natuurbeschermingsraad
 
-#### (75)
+##### (75)
 
 Handeling: Het opstellen van een voorontwerp-begrenzingsplan voor een natuurontwikkelingsproject
 
@@ -2183,7 +2207,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (15)
+##### (15)
 
 Handeling: Het adviseren van het bevoegde gezag inzake beleid m.b.t. natuur- en landschapsbeheer
 
@@ -2197,7 +2221,7 @@ Waardering: B, 1
 
 Opmerking: Het bevoegde gezag bestaat in dit geval uit de Eerste en Tweede Kamer, de betrokken ministers, de provinciale en gemeentelijke overheden en de besturen van de waterschappen
 
-#### (30)
+##### (30)
 
 Handeling: Het adviseren van het bevoegde gezag inzake het opstellen van wet- en regelgeving met betrekking tot natuur- en landschapsbeheer
 
@@ -2211,7 +2235,7 @@ Waardering: B, 1
 
 Opmerking: Het bevoegde gezag is hier de Eerste en Tweede Kamer, de betrokken ministers, de provinciale en gemeentelijke overheden en de besturen van de waterschappen
 
-#### (138)
+##### (138)
 
 Handeling: Het adviseren van de minister van LNV inzake internationaal natuur- en landschapsbeheer
 
@@ -2223,7 +2247,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (18)
+##### (18)
 
 Handeling: Het (jaarlijks) aan de minister van LNV doen van een onderzoeksvoorstel met betrekking tot natuur- en landschapsbeheer
 
@@ -2241,7 +2265,7 @@ Opmerkingen:
 
 ( Het voorstel past in een plan van werkzaamheden van aangewezen onderzoeksinstellingen
 
-#### (54)
+##### (54)
 
 Handeling: Het adviseren van de betrokken ministers inzake de rangschikking van een onroerend goed als NSW-landgoed
 
@@ -2253,7 +2277,7 @@ Dienstonderdeel: SBB
 
 Waardering: B, 5
 
-#### (82)
+##### (82)
 
 Handeling: Het beslissen over de aankoop, verkoop of ruil van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -2265,7 +2289,7 @@ Dienstonderdeel: DLG
 
 Waardering: B, 5
 
-#### (83)
+##### (83)
 
 Handeling: Het uitvoeren van aankoop-, verkoop- en ruiltransacties van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -2279,7 +2303,7 @@ Waardering: V, 6 jaar na vervallen eigendom
 
 Opmerking: Deze handeling omvat o.a. het aanwijzen van een driemanschap dat gronden taxeert en het (laten) taxeren van gronden
 
-#### (82)
+##### (82)
 
 Handeling: Het verlenen van bijdragen aan gemeenten voor de verwerving van natuurgebieden
 
@@ -2291,7 +2315,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 15 jaar
 
-#### (89)
+##### (89)
 
 Handeling: Het voorbereiden van het beleid inzake het beheer van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2303,7 +2327,7 @@ Dienstonderdeel: DLG
 
 Waardering: B, 5
 
-#### (91)
+##### (91)
 
 Handeling: Het aangaan van zakelijke rechten met betrekking tot gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2317,7 +2341,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. erfpacht, opstal en erfdienstbaarheden
 
-#### (92)
+##### (92)
 
 Handeling: Het aangaan van relatieve rechten met betrekking tot gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2331,7 +2355,7 @@ Waardering: V, na 6 jaar
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (93)
+##### (93)
 
 Handeling: Het opstellen van beheersplannen voor gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2345,7 +2369,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (94)
+##### (94)
 
 Handeling: Het exploiteren en onderhouden van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2357,7 +2381,7 @@ Dienstonderdeel: DLG
 
 Waardering: V, na 6 jaar
 
-#### (95)
+##### (95)
 
 Handeling: Het geven van voorlichting over de instandhouding en het onderhoud van gronden die zijn verworven in het belang van het natuur- en landschapsbeheer
 
@@ -2369,7 +2393,7 @@ Periode: 1946-1982
 
 Grondslag: Rijksbegrotingen
 
-#### (45)
+##### (45)
 
 Handeling: Het opstellen van een bijdrageregeling voor financiële steun aan gemeenten bij het opzetten van landschapsbeleidsplannen
 
@@ -2379,7 +2403,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 5
 
-#### (47)
+##### (47)
 
 Handeling: Het toekennen van bijdragen aan gemeenten voor de kosten voor het laten opstellen van een landschapsbeleidsplan
 
@@ -2393,7 +2417,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Tussen 1985-1987 door Staatsbosbeheer en tussen 1987-1993 door de minister van LNV
 
-#### (62)
+##### (62)
 
 Handeling: Het adviseren van de ministers inzake de uitvoering van maatregelen voor de duurzame instandhouding van de cultuurhistorische, natuurwetenschappelijke, landschappelijke en recreatieve waarden van landgoederen
 
@@ -2405,7 +2429,7 @@ Dienstonderdeel: DN
 
 Waardering: V, na 10 jaar
 
-#### (116)
+##### (116)
 
 Handeling: Het vaststellen wie een aanmoedigingsprijs krijgt inzake natuur- en landschapsbeheer
 
@@ -2419,7 +2443,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Voorbeeld van zo'n toetsingscommissie is de Beoordelingscommissie gemeentelijke natuurprijs
 
-#### (14)
+##### (14)
 
 Handeling: Het adviseren van de minister van LNV inzake natuur- en landschapsbeheer
 
@@ -2431,7 +2455,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (7)
+##### (7)
 
 Handeling: Het adviseren van de minister van LNV inzake de bescherming van de natuur en van het landschapsschoon
 
@@ -2443,7 +2467,7 @@ Dienstonderdeel: DN
 
 Waardering: B, 1
 
-#### (35)
+##### (35)
 
 Handeling: Het voorbereiden van de Natuurbeschermingswet
 
@@ -2461,7 +2485,7 @@ N.B. De archieven van Staatsbosbeheer tot en met 1997 vallen onder de zorg van h
 
 De handelingen zijn nader onderverdeeld volgens dezelfde indeling als het rapport Natuur- en landschapsbeheer.
 
-#### (16)
+##### (16)
 
 Handeling: Het adviseren van de minister van LNV inzake het beleid m.b.t. natuur- en landschapsbeheer
 
@@ -2471,7 +2495,7 @@ Bron: Interview
 
 Waardering: V, na 10 jaar
 
-#### (20)
+##### (20)
 
 Handeling: Het vaststellen van onderzoeksprogramma's inzake natuur- en landschapsbeheer
 
@@ -2481,7 +2505,7 @@ Grondslag: Instellingsbeschikking Rijksinstituut voor Natuurbeheer, art. 3
 
 Waardering: B, 1
 
-#### (46)
+##### (46)
 
 Handeling: Het aanwijzen van deskundige bureaus die landschapsbeleidsplannen opstellen voor gemeenten
 
@@ -2493,7 +2517,7 @@ Waardering: V, na 7 jaar
 
 Opmerking: Sinds 1987 door minister van LNV
 
-#### (47)
+##### (47)
 
 Handeling: Het toekennen van bijdragen aan gemeenten voor de kosten voor het laten opstellen van een landschapsbeleidsplan
 
@@ -2505,7 +2529,7 @@ Waardering: V, na 7 jaar
 
 Opmerking: Sinds 1987 door de minister van LNV en sinds 1993 door de Stichting Landschapsbeheer Nederland
 
-#### (50)
+##### (50)
 
 Handeling: Het toekennen van een bijdrage ten behoeve van de landschapsverzorging
 
@@ -2521,7 +2545,7 @@ Opmerkingen:
 
 - ( Sinds 1987 uitgevoerd door de minister van LNV
 
-#### (55)
+##### (55)
 
 Handeling: Het adviseren van de betrokken ministers inzake de rangschikking van een onroerend goed als NSW-landgoed
 
@@ -2531,7 +2555,7 @@ Grondslag: Natuurschoonwet, art. 3, lid 1
 
 Waardering: B, 5
 
-#### (56)
+##### (56)
 
 Handeling: Het opstellen van voorwaarden inzake de velling van bossen of andere houtopstanden die behoren tot een NSW-landgoed
 
@@ -2543,7 +2567,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Sinds 1990 geldt hiervoor het Rangschikkingsbesluit (Stb. 612)
 
-#### (57)
+##### (57)
 
 Handeling: Het controleren of NSW-landgoederen nog voldoen aan de voorwaarden tot rangschikking en het toetsen van door landgoedeigenaren voorgenomen verrichtingen
 
@@ -2555,7 +2579,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Voor 1982 en na 1985 uitgevoerd door of namens het ministerie van LNV
 
-#### (63)
+##### (63)
 
 Handeling: Het aanwijzen van een gebied als staatsnatuurmonument dan wel het intrekken van die aanwijzing
 
@@ -2565,7 +2589,7 @@ Bron: Interview
 
 Waardering: B, 5
 
-#### (82)
+##### (82)
 
 Handeling: Het beslissen over de aankoop, verkoop of ruil van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -2575,7 +2599,7 @@ Bron: Stichting beheer landbouwgronden 1946 t/m 1982. Overzicht van 37 jaar acti
 
 Waardering: B, 5
 
-#### (83)
+##### (83)
 
 Handeling: Het uitvoeren van aankoop-, verkoop- en ruiltransacties van gronden in het belang van het natuur- en landschapsbeheer
 
@@ -2587,7 +2611,7 @@ Waardering: V, 6 jaar na vervallen eigendom
 
 Opmerking: Deze handeling omvat o.a. het aanwijzen van een driemanschap dat gronden taxeert en het (laten) taxeren van gronden
 
-#### (82)
+##### (82)
 
 Handeling: Het verlenen van bijdragen aan gemeenten voor de verwerving van natuurgebieden
 
@@ -2597,7 +2621,7 @@ Bron: Interview
 
 Waardering: V, na 15 jaar
 
-#### (89)
+##### (89)
 
 Handeling: Het voorbereiden van het beleid inzake het beheer van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2607,7 +2631,7 @@ Grondslag: Rijksbegrotingen
 
 Waardering: B, 5
 
-#### (91)
+##### (91)
 
 Handeling: Het aangaan van zakelijke rechten met betrekking tot staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2619,7 +2643,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. erfpacht, opstal en erfdienstbaarheden
 
-#### (92)
+##### (92)
 
 Handeling: Het aangaan van relatieve rechten met betrekking tot staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2631,7 +2655,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (93)
+##### (93)
 
 Handeling: Het opstellen van beheersplannen voor staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2643,7 +2667,7 @@ Waardering: B, 5
 
 Opmerking: Bijv. huur, pacht, jacht- en visrecht en ingebruikgeving
 
-#### (94)
+##### (94)
 
 Handeling: Het exploiteren en onderhouden van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2653,7 +2677,7 @@ Grondslag: Rijksbegrotingen
 
 Waardering: V, na 5 jaar
 
-#### (95)
+##### (95)
 
 Handeling: Het geven van voorlichting over de instandhouding en het onderhoud van staatsnatuurmonumenten en andere natuurterreinen
 
@@ -2663,7 +2687,7 @@ Grondslag: Rijksbegrotingen
 
 Waardering: V, na 5 jaar
 
-#### (100)
+##### (100)
 
 Handeling: Het goedkeuren van beheersplannen voor natuurgebieden
 
@@ -2673,7 +2697,7 @@ Grondslag: Beschikking natuurbijdragen, art. 6, lid 2; Regeling bijdragen partic
 
 Waardering: V, na 10 jaar
 
-#### (102)
+##### (102)
 
 Handeling: Het stellen van nadere regels inzake de aanschaf, het instandhouden en het beheer van natuurgebieden
 
@@ -2685,7 +2709,7 @@ Product: Richtlijnen voor beheersplannen, projectenlijsten van tbo's
 
 Waardering: B, 5
 
-#### (104)
+##### (104)
 
 Handeling: Het toekennen of intrekken van (bijzondere) bijdragen aan de eigenaren en/of gebruikers van natuurgebieden voor de aanschaf, het instandhouden en het beheer
 
@@ -2697,7 +2721,7 @@ Waardering: V, na 7 jaar
 
 Opmerking: De handeling omvat tevens aanwijzingen inzake het beheer door eigenaars of gebruikers, of goedkeuring van een tbo-project
 
-#### (134)
+##### (134)
 
 Handeling: Het (mede) ontwerpen van systemen inzake het monitoren van de toestand van de natuur in Nederland
 
@@ -2709,7 +2733,7 @@ Waardering: B, 1
 
 Opmerking: Andere organisaties en instellingen kunnen bij deze handeling betrokken zijn, zoals het ministerie van VROM met de projectgroep Monitoring Groene Ruimte
 
-#### (135)
+##### (135)
 
 Handeling: Het (laten) opzetten en onderhouden van systemen inzake het monitoren van de toestand van de natuur in Nederland
 
@@ -2719,7 +2743,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Andere organisaties en instellingen kunnen bij deze handeling betrokken zijn
 
-#### (136)
+##### (136)
 
 Handeling: Het (laten) monitoren van de toestand van de natuur in Nederland
 
@@ -2729,7 +2753,7 @@ Waardering: V, na 10 jaar
 
 Opmerking: Andere organisaties en instellingen kunnen bij deze handeling betrokken zijn
 
-#### (137)
+##### (137)
 
 Handeling: Het opstellen van overzichten van de gegevens welke zijn verkregen door het monitoren van de toestand van de natuur in Nederland
 
@@ -2741,7 +2765,7 @@ Opmerking: Andere organisaties en instellingen kunnen bij deze handeling betrokk
 
 ### Bijlage. Nog niet vastgestelde handelingen buiten de archiefzorg van LNV
 
-#### (79)
+##### (79)
 
 Handeling: Het afgeven van een bevestiging dat de juiste procedure is gevolgd inzake de onteigening van een onroerend goed ten behoeve van de natuurbescherming
 
@@ -2749,13 +2773,13 @@ Periode: 1959-
 
 Grondslag: Onteigeningswet zoals gewijzigd in 1959 (Stb. 23), art. 150 onder 2
 
-#### (144)
+##### (144)
 
 Handeling: Het opstellen van Nederlandse bijdragen en standpunten ten behoeve van internationaal overleg over natuur- en landschapsbeheer
 
 Periode: 1970-
 
-#### (145)
+##### (145)
 
 Handeling: Het opstellen van Nederlandse bijdragen en standpunten ten behoeve van internationaal overleg inzake natuur- en landschapsbeheer in relatie met ontwikkelingssamenwerking
 
@@ -2763,7 +2787,7 @@ Periode: 1970-
 
 Opmerking: De COCOS heeft als taak het voorbereiden van besluitvorming inzake ontwikkelingssamenwerking, schuldenproblematiek ontwikkelingslanden, etc. t.a.v. ontwikkelingslanden
 
-#### (146)
+##### (146)
 
 Handeling: Het opstellen van Nederlandse bijdragen en standpunten inzake natuur- en landschapsbeheer ten behoeve van internationaal overleg in het kader van de Verenigde Naties en geassocieerde organisaties
 
@@ -2771,7 +2795,7 @@ Periode: 1945-
 
 Opmerking: De COCO VNGO heeft als taak het ontwikkelen c.q. handhaven van een eenduidig beleid van Nederland in alle VN-organisaties met betrekking tot gezamenlijke onderwerpen die in die organisaties aan de orde komen
 
-#### (31)
+##### (31)
 
 Handeling: Het adviseren van het bevoegde gezag inzake het opstellen van wet- en regelgeving met betrekking tot natuur- en landschapsbeheer
 
@@ -2779,7 +2803,7 @@ Periode: 1986-
 
 Bron: Natuurbeleidsplan
 
-#### (65)
+##### (65)
 
 Handeling: Het opstellen van een beschouwing over de aanwijzing van een gebied als beschermd natuurmonument of staatsnatuurmonument dan wel over de intrekking van die aanwijzing
 
@@ -2787,7 +2811,7 @@ Periode: 1968-
 
 Grondslag: Natuurbeschermingswet , art. 9, lid 4, art. 11, lid 2 en art. 21, lid 1
 
-#### (70)
+##### (70)
 
 Handeling: Het adviseren van de minister van LNV over het opstellen van (bijdragen)regelingen inzake de begrenzing van natuurontwikkelingsprojecten
 
@@ -2795,7 +2819,7 @@ Periode: 1991-
 
 Bron: Toelichting Regeling begrenzing natuurontwikkelingsprojecten (Stcrt. 1991, 123)
 
-#### (76)
+##### (76)
 
 Handeling: Het vaststellen, wijzigen of intrekken van een (voorontwerp-)begrenzingsplan voor een natuurontwikkelingsproject
 
@@ -2805,7 +2829,7 @@ Grondslag: Regeling begrenzing natuurontwikkelingsprojecten, artt. 3 - 14
 
 Opmerking: Het voorontwerp-begrenzingsplan wordt opgesteld door de provinciale Commissie Beheer Landbouwgronden
 
-#### (109)
+##### (109)
 
 Handeling: Het adviseren van de minister van LNV inzake het verlenen van vergunningen welke zouden leiden tot aantasting van een beschermd natuurmonument
 
@@ -2815,7 +2839,7 @@ Grondslag: Natuurbeschermingswet, art. 13, lid 1
 
 De handelingen van de minister van Financiën die voortvloeien uit de Natuurschoonwet 1928 zijn niet opgenomen in het voorliggende basisselectiedocument. Ze worden beschreven in het Pivot-rapport met betrekking tot het beleidsterrein belastingheffing krachtens heffingswetten (RIO Belastingen: de Geheiligde Schuld)
 
-#### (63)
+##### (63)
 
 Handeling: Het aanwijzen van een gebied als beschermd natuurmonument of staatsnatuurmonument dan wel het intrekken van die aanwijzing
 
@@ -2825,7 +2849,7 @@ Grondslag: Natuurbeschermingswet , art. 7, lid 1, art. 11, lid 1 en art. 21, lid
 
 Opmerking: In overeenstemming met de minister van LNV
 
-#### (19)
+##### (19)
 
 Handeling: Het adviseren van betrokken ministers omtrent de hoofdlijnen van het onderzoek op het maatschappelijk aandachtsgebied natuur- en landschapsbeheer
 
@@ -2835,7 +2859,7 @@ Bron: Voorbereidend rapport (RMNO, 1979)
 
 Product: Programma van hoofdlijnen
 
-#### (67)
+##### (67)
 
 Handeling: Het adviseren van de minister van LNV over de aanwijzing van een gebied als beschermd natuurmonument of over de intrekking van die aanwijzing
 
@@ -2843,7 +2867,7 @@ Periode: 1968-
 
 Grondslag: Natuurbeschermingswet, art. 9, lid 6 en art. 11, lid 2
 
-#### (111)
+##### (111)
 
 Handeling: Het adviseren van de minister van LNV inzake het verlenen van vergunningen, met betrekking tot natuurmonumenten, waarvan de weigering deze te verlenen het algemeen belang zou schaden
 

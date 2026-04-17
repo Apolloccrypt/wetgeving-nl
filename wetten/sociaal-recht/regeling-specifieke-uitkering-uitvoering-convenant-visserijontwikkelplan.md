@@ -1,20 +1,46 @@
 ---
-title: "Regeling specifieke uitkering uitvoering convenant visserijontwikkelplan"
+title: "Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 december 2024, nr. WJZ/ 79741882, houdende regels voor het verstrekken van specifieke uitkeringen voor de uitvoering van de convenanten visserijontwikkelplan (Regeling specifieke uitkering uitvoering convenant visserijontwikkelplan)"
 identifier: "BWBR0050522"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-12-07
-laatste_update: 2024-12-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050522"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2024-12-07"
+last_updated: "2024-12-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050522"
+soort: "ministeriele-regeling"
+stam_id: "17297223"
+version_id: "30463372"
+internal_id: "C43677961"
+label_id: "17201244"
+dtd_version: "2.0"
+original_entry_into_force: "2024-12-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050522/2024-12-07/0"
+intitule_bron: "Stcrt.2024-39522"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-12-02"
+intitule_published: "2024-12-06"
+intitule_in_force: "2024-12-06"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-39522"
+original_signed_date: "2024-12-02"
+original_published_date: "2024-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-39522"
+entry_into_force_date: "2024-12-07"
+jci_1_3: "jci1.3:c:BWBR0050522&z=2024-12-07&g=2024-12-07"
+jci_1_0: "1.0:c:BWBR0050522&g=2024-12-07"
+citeertitel_status: "redactioneel"
+short_title: "Regeling specifieke uitkering uitvoering convenant visserijontwikkelplan"
+signed_date: "2024-12-02"
+entry_into_force: "2024-12-07"
 ---
-
 # Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 2 december 2024, nr. WJZ/ 79741882, houdende regels voor het verstrekken van specifieke uitkeringen voor de uitvoering van de convenanten visserijontwikkelplan (Regeling specifieke uitkering uitvoering convenant visserijontwikkelplan)
 
 Gelet op de [artikelen 2a, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=2a), en [3 van de Kaderwet EZK- en LNV-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0007919&artikel=3);
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -38,7 +64,7 @@ In deze regeling wordt verstaan onder:
 
 - –. **uitvoeringsactiviteiten:** activiteiten zoals opgenomen in een convenant visserijontwikkelplan waarvoor een of meerdere regiopartners financiële verplichtingen aangaan, middelen beschikbaar stellen of waarvoor een of meerdere regiopartners kosten maken.
 
-#### Artikel 2. Specifieke uitkering
+##### Artikel 2. Specifieke uitkering
 
 1. De minister verleent voor een regio aan de regiokassier een specifieke uitkering om bij te dragen in de kosten van uitvoering van een convenant visserijontwikkelplan.
 
@@ -50,7 +76,7 @@ In deze regeling wordt verstaan onder:
 
 5. De specifieke uitkering wordt niet verleend voor kosten die reeds uit anderen hoofde zijn of worden gesubsidieerd.
 
-#### Artikel 3. Hoogte van de uitkering
+##### Artikel 3. Hoogte van de uitkering
 
 1. De specifieke uitkering bedraagt voor:
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 - e. provincie Zeeland, als regiokassier van regio Zuidwest Nederland: € 194.775.
 
-#### Artikel 4. Verplichtingen ontvanger
+##### Artikel 4. Verplichtingen ontvanger
 
 Iedere regiokassier:
 
@@ -86,11 +112,11 @@ Iedere regiokassier:
 
 - c. doet in de in de beschikking tot verlening opgenomen periode jaarlijks verslag van de voortgang van de uitvoeringsactiviteiten aan de minister middels beantwoording van een door de minister opgesteld format aan vragen.
 
-#### Artikel 5. Voorschot
+##### Artikel 5. Voorschot
 
 De minister verleent amtshalve aan iedere regiokassier een voorschot van 100% van het uitkeringsbedrag, dat wordt uitgekeerd uiterlijk 31 maart 2025.
 
-#### Artikel 6. Verantwoording, vaststelling en terugvordering
+##### Artikel 6. Verantwoording, vaststelling en terugvordering
 
 1. Iedere regiokassier legt jaarlijks verantwoording af over de besteding van de specifieke uitkering door de regiopartners op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008290&artikel=17a).
 
@@ -106,7 +132,7 @@ De minister verleent amtshalve aan iedere regiokassier een voorschot van 100% va
 
 5. Indien uit de verantwoordingsinformatie blijkt dat de specifieke uitkering niet, niet volledig of onrechtmatig is besteed, kan de minister de uitkering ter hoogte van het niet of onrechtmatig bestede deel terugvorderen. De minister doet binnen een jaar na ontvangst van de verantwoordingsinformatie mededeling van de terugvordering aan de regiokassier.
 
-#### Artikel 7. Inwerkingtreding
+##### Artikel 7. Inwerkingtreding
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 

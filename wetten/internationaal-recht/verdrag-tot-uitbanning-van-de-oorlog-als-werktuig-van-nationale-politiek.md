@@ -1,13 +1,37 @@
 ---
 title: "Verdrag tot uitbanning van de oorlog als werktuig van nationale politiek"
 identifier: "BWBV0006249"
-categorie: "Internationaal recht"
-publicatiedatum: 1929-07-24
-laatste_update: 1929-07-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006249"
+country: "nl"
+rank: "verdrag"
+publication_date: "1929-07-24"
+last_updated: "1929-07-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006249"
+soort: "verdrag"
+stam_id: "10005117713"
+version_id: "10005467572"
+internal_id: "C10008435801"
+label_id: "10005100554"
+dtd_version: "2.0"
+original_entry_into_force: "1929-07-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006249/1929-07-24/0"
+intitule_bron: "Stb.1929-407"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1929-08-01"
+intitule_published: "1929-08-14"
+intitule_in_force: "1929-08-14"
+intitule_status: "goed"
+original_publication: "Stb.1929-407"
+original_signed_date: "1929-08-01"
+original_published_date: "1929-08-14"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1929-07-24"
+jci_1_3: "jci1.3:c:BWBV0006249&z=1929-07-24&g=1929-07-24"
+jci_1_0: "1.0:c:BWBV0006249&g=1929-07-24"
+citeertitel_status: "redactioneel"
+signed_date: "1929-08-01"
+entry_into_force: "1929-07-24"
 ---
-
 # Verdrag tot uitbanning van de oorlog als werktuig van nationale politiek
 
 DE PRESIDENT VAN HET DUITSCHE RIJK, DE PRESIDENT VAN DE VEREENIGDE STATEN VAN AMERIKA, ZIJNE MAJESTEIT DE KONING DER BELGEN, DE PRESIDENT VAN DE FRANSCHE REPUBLIEK, ZIJNE MAJESTEIT DE KONING VAN GROOT-BRITANNIË, VAN lERLAND EN VAN DE BRITSCHE OVERZEESCHE GEBIEDEN, KEIZER VAN INDIË, ZIJNE MAJESTEIT DE KONING VAN ITALIË, ZIJNE MAJESTEIT DE KEIZER VAN JAPAN, DE PRESIDENT VAN DE REPUBLIEK POLEN, DE PRESIDENT VAN DE TSJECHOSLOWAAKSCHE REPUBLIEK,
@@ -86,15 +110,15 @@ Dr. Eduard BENÈS, Minister van Buitenlandsche Zaken;
 
 die, na elkander mededeeling te hebben gedaan van hunne volmachten, welke in goeden en behoorlijken vorm zijn bevonden, zijn overeengekomen omtrent de volgende artikelen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Hooge verdragsluitende Partijen verklaren plechtig, elk in naam van haar volk, dat zij het gebruik maken van den oorlog voor de regeling van internationale geschillen veroordeelen en daarvan afstand doen als werktuig van nationale politiek in hare betrekkingen tot elkander.
 
-#### Artikel 2
+##### Artikel 2
 
 De Hooge verdragsluitende Partijen erkennen, dat de regeling of de oplossing van alle geschillen of conflicten, van welken aard of oorsprong deze ook mogen zijn, die tusschen haar mochten rijzen, nooit anders dan door vreedzame middelen mag worden nagestreefd.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit verdrag zal door elk der Hooge verdragsluitende Partijen, in de préambule genoemd, op de door hare constitutie verlangde wijze bekrachtigd worden en het zal tusschen haar in werking treden, zoodra alle bekrachtigingsoorkonden in Washington zullen zijn neergelegd.
 

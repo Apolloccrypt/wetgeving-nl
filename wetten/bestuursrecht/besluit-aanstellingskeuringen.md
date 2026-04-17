@@ -1,13 +1,39 @@
 ---
-title: "Besluit aanstellingskeuringen"
+title: "Besluit van 23 november 2001 tot regeling van de aanstellingskeuringen"
 identifier: "BWBR0013029"
-categorie: "Bestuursrecht"
-publicatiedatum: 2012-10-01
-laatste_update: 2012-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013029"
+country: "nl"
+rank: "amvb"
+publication_date: "2012-10-01"
+last_updated: "2012-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013029"
+soort: "AMvB"
+stam_id: "1639793"
+version_id: "2419672"
+internal_id: "C2419671"
+label_id: "1593294"
+dtd_version: "2.0"
+original_entry_into_force: "2002-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013029/2012-10-01/0"
+intitule_bron: "Stb.2001-597"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-11-23"
+intitule_published: "2001-12-13"
+intitule_in_force: "2002-01-31"
+intitule_status: "goed"
+original_publication: "Stb.2001-597"
+original_signed_date: "2001-11-23"
+original_published_date: "2001-12-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2001-597"
+entry_into_force_date: "2002-02-01"
+jci_1_3: "jci1.3:c:BWBR0013029&z=2012-10-01&g=2012-10-01"
+jci_1_0: "1.0:c:BWBR0013029&g=2012-10-01"
+citeertitel_status: "officieel"
+short_title: "Besluit aanstellingskeuringen"
+signed_date: "2001-11-23"
+entry_into_force: "2002-02-01"
 ---
-
 # Besluit van 23 november 2001 tot regeling van de aanstellingskeuringen
 
 Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 4 juli 2001, kenmerk AV/RV/2001/40324;
@@ -24,7 +50,7 @@ Hebben goedgevonden en verstaan:
 
 #### Begripsbepaling
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 In dit besluit wordt verstaan onder:
 
@@ -34,13 +60,13 @@ In dit besluit wordt verstaan onder:
 
 #### Toepasselijkheid
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdeel a, onder 1° en 2°, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=1).
 
 #### § 2. De aanstellingskeuring
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een bedrijfsarts verricht slechts keuringen indien aan de vervulling van de functie, waarop de arbeidsverhouding of aanstelling in openbare dienst betrekking heeft, en de daarbij behorende taken bijzondere eisen op het punt van de medische geschiktheid moeten worden gesteld, waaronder wordt begrepen de bescherming van de gezondheid en de veiligheid van de keurling en van derden bij de uitvoering van de desbetreffende arbeid, terwijl de risico's voor de gezondheid en veiligheid niet met gangbare maatregelen, overeenkomstig de stand der wetenschap en professionele dienstverlening, kunnen worden gereduceerd. De in dit lid bedoelde keuringen worden slechts verricht door een bedrijfsarts.
 
@@ -48,11 +74,11 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 3. In afwijking van het tweede lid, hoeft de keuringvrager geen schriftelijk advies te vragen aan een bedrijfsarts over de bijzondere eisen op het punt van de medische geschiktheid voor de betreffende functie, het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld en de medische onderzoeken die mogen worden verricht voor zover deze onderdelen zijn uitgewerkt in een wettelijke regeling.
 
-#### Artikel 4
+##### Artikel 4
 
 Bij elke werving voor een functie waarvoor een keuring als bedoeld in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0013029&paragraaf=2&artikel=3&z=2012-10-01&g=2012-10-01), zal worden verricht, wordt het verrichten van die keuring vermeld.
 
-#### Artikel 5
+##### Artikel 5
 
 Onverminderd [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0008819&artikel=8) stelt de keuringvrager de keurling tijdig voor de aanvang van de keuring desgevraagd het advies van de bedrijfsarts ter beschikking en informeert de keuringvrager de keurling over de mogelijkheid om een klacht in te dienen bij de commissie klachtenbehandeling aanstellingskeuringen, bedoeld in [artikel 3 van het Besluit klachtenbehandeling aanstellingskeuringen](https://wetten.overheid.nl/jci1.3:c:BWBR0013030&artikel=3).
 
@@ -60,19 +86,19 @@ Onverminderd [artikel 8, tweede lid, van de wet](https://wetten.overheid.nl/jci1
 
 #### Evaluatie
 
-#### Artikel 6
+##### Artikel 6
 
 Vervallen
 
 #### Inwerkingtreding
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 #### Citeertitel
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit aanstellingskeuringen.
 

@@ -1,13 +1,35 @@
 ---
 title: "Aanwijzing hoge transacties"
 identifier: "BWBR0044047"
-categorie: "Bestuursrecht"
-publicatiedatum: 2020-09-04
-laatste_update: 2020-09-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0044047"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2020-09-04"
+last_updated: "2020-09-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0044047"
+soort: "beleidsregel"
+stam_id: "15618213"
+version_id: "26999752"
+internal_id: "C38207481"
+label_id: "15558584"
+dtd_version: "2.0"
+original_entry_into_force: "2020-09-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0044047/2020-09-04/0"
+intitule_bron: "Stcrt.2020-46166"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-09-04"
+intitule_in_force: "2020-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-46166"
+original_published_date: "2020-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-46166"
+entry_into_force_date: "2020-09-04"
+jci_1_3: "jci1.3:c:BWBR0044047&z=2020-09-04&g=2020-09-04"
+jci_1_0: "1.0:c:BWBR0044047&g=2020-09-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2020-09-04"
 ---
-
 # Aanwijzing hoge transacties
 
 ### Samenvatting

@@ -1,13 +1,37 @@
 ---
 title: "Beschikking vaststelling van de eisen, waaraan de lokalen moeten voldoen, welke door de gemeentebesturen beschikbaar worden gesteld voor de herkeuring, bedoeld in de IJkwet 1997 (Staatsblad no. 693)"
 identifier: "BWBR0002023"
-categorie: "Bestuursrecht"
-publicatiedatum: 1997-12-24
-laatste_update: 1997-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002023"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1997-12-24"
+last_updated: "1997-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002023"
+soort: "ministeriele-regeling"
+stam_id: "3926493"
+version_id: "5679562"
+internal_id: "C5872391"
+label_id: "3906444"
+dtd_version: "2.0"
+original_entry_into_force: "1947-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002023/1997-12-24/0"
+intitule_bron: "Stcrt.1946-255"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1946-12-24"
+intitule_published: "1946-12-31"
+intitule_in_force: "1946-12-31"
+intitule_status: "goed"
+original_publication: "Stcrt.1946-255"
+original_signed_date: "1946-12-24"
+original_published_date: "1946-12-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1947-01-01"
+jci_1_3: "jci1.3:c:BWBR0002023&z=1997-12-24&g=1997-12-24"
+jci_1_0: "1.0:c:BWBR0002023&g=1997-12-24"
+citeertitel_status: "officieel"
+signed_date: "1946-12-24"
+entry_into_force: "1947-01-01"
 ---
-
 # Beschikking vaststelling van de eisen, waaraan de lokalen moeten voldoen, welke door de gemeentebesturen beschikbaar worden gesteld voor de herkeuring, bedoeld in de IJkwet 1997 (Staatsblad no. 693)
 
 Gelet op artikel 11, eerste lid, van het Reglement op de maten, gewichten, meet- en weegwerktuigen 1939 (Staatsblad no. 664), zooals dit is gewijzigd bij het Koninklijk besluit van 17 December 1946 (Staatsblad no. G 365);

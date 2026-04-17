@@ -1,16 +1,38 @@
 ---
 title: "Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling"
 identifier: "BWBV0005585"
-categorie: "Internationaal recht"
-publicatiedatum: 2012-06-27
-laatste_update: 2012-06-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005585"
+country: "nl"
+rank: "verdrag"
+publication_date: "2012-06-27"
+last_updated: "2012-06-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005585"
+soort: "verdrag"
+stam_id: "10004748263"
+version_id: "10005018192"
+internal_id: "C10007577971"
+label_id: "10004732104"
+dtd_version: "2.0"
+original_entry_into_force: "1989-02-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005585/2012-06-27/0"
+intitule_bron: "Trb.2009-191"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2009-11-06"
+intitule_in_force: "2009-11-06"
+intitule_status: "goed"
+original_publication: "Trb.2009-191"
+original_published_date: "2009-11-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2009-191"
+entry_into_force_date: "1989-02-16"
+jci_1_3: "jci1.3:c:BWBV0005585&z=2012-06-27&g=2012-06-27"
+jci_1_0: "1.0:c:BWBV0005585&g=2012-06-27"
+citeertitel_status: "redactioneel"
+entry_into_force: "1989-02-16"
 ---
-
 # Overeenkomst betreffende de Internationale Bank voor Herstel en Ontwikkeling
 
-#### Artikel I. Doelstellingen
+##### Artikel I. Doelstellingen
 
 De doelstellingen van de Bank zijn:
 
@@ -26,7 +48,7 @@ De doelstellingen van de Bank zijn:
 
 De Bank laat zich bij al haar beslissingen leiden door de in het voorgaande vervatte doelstellingen.
 
-#### Artikel II. Lidmaatschap en kapitaal van de Bank
+##### Artikel II. Lidmaatschap en kapitaal van de Bank
 
 - a. De oorspronkelijke leden van de Bank zijn de leden van het Internationale Monetaire Fonds die het lidmaatschap van de Bank voor de in artikel XI, sectie 2, onderdeel e, vermelde datum hebben aanvaard.
 
@@ -82,7 +104,7 @@ De betaling van inschrijvingen op aandelen in goud of in Amerikaanse dollar en i
 
 De aandelen worden op generlei wijze verpand of bezwaard en zijn slechts overdraagbaar aan de Bank.
 
-#### Artikel III. Algemene voorschriften betreffende leningen en garanties
+##### Artikel III. Algemene voorschriften betreffende leningen en garanties
 
 - a. De middelen en de faciliteiten van de Bank worden uitsluitend ten behoeve van de leden gebruikt, waarbij naar billijkheid in gelijke mate rekening wordt gehouden met projecten voor ontwikkeling en projecten voor wederopbouw.
 
@@ -118,7 +140,7 @@ De Bank kan leningen garanderen, erin deelnemen of zelf verstrekken aan elk lid 
 
 - b. De bepalingen van artikel III, secties 4 en 5, onderdeel c, en van artikel IV, sectie 3, zijn niet van toepassing op leningen, garanties en deelnemingen in leningen op grond van deze sectie.
 
-#### Artikel IV. Werkzaamheden
+##### Artikel IV. Werkzaamheden
 
 - a. De Bank kan leningen, die aan de algemene voorwaarden van Artikel III voldoen, op een van de volgende wijzen verstrekken of vergemakkelijken:
 
@@ -208,7 +230,7 @@ Ieder waardepapier dat door de Bank gegarandeerd of uitgegeven wordt, is op de v
 
 De Bank en haar ambtenaren mogen zich niet in de politieke aangelegenheden van enig lid mengen; noch zullen zij zich bij hun beslissingen door het politieke karakter van het betrokken lid of de betrokken leden laten beïnvloeden. Slechts economische overwegingen zullen bij hun beslissingen ter zake dienen en deze overwegingen zullen onpartijdig afgewogen worden, teneinde de in artikel I vermelde doelstellingen te verwezenlijken.
 
-#### Artikel V. Organisatie en beheer
+##### Artikel V. Organisatie en beheer
 
 De Bank heeft een Raad van Bestuur, een College van Bewindvoerders, een President en de andere ambtenaren en employés die nodig zijn om de werkzaamheden te verrichten die de Bank kan vaststellen.
 
@@ -314,7 +336,7 @@ De Bank aanvaardt van ieder lid in plaats van een deel van de eigen valuta van h
 
 - b. Indien een deel uitgekeerd wordt, wordt als eerste betaling ten opzichte van de verdeling voor een jaar aan ieder lid een niet-cumulatief bedrag tot twee percent betaald, op basis van het gedurende het jaar gemiddeld uitstaande bedrag aan leningen ingevolge artikel IV, sectie 1, onderdeel a, onder i, uit de valuta overeenkomend met de inschrijving van het betrokken lid. Indien als eerste betaling twee percent uitgekeerd wordt, wordt het saldo dat voor uitkering overblijft, aan alle leden uitbetaald naar rato van hun aandelenbezit. De betalingen aan ieder lid vinden plaats in zijn eigen valuta of, indien deze valuta niet beschikbaar is, in een andere voor het lid aanvaardbare valuta. Indien dergelijke betalingen in andere valuta dan die van het lid zelf plaatsvinden, kan de overdracht en het gebruik van die valuta door het lid dat deze ontvangt, na betaling niet beperkt worden door de leden.
 
-#### Artikel VI. Intrekking en schorsing van het lidmaatschap; opschorting van werkzaamheden
+##### Artikel VI. Intrekking en schorsing van het lidmaatschap; opschorting van werkzaamheden
 
 Ieder lid kan zich te allen tijde terugtrekken uit de Bank door middel van een schriftelijke kennisgeving aan het hoofdkantoor van de Bank. De terugtrekking wordt van kracht op de datum van ontvangst van een dergelijke kennisgeving.
 
@@ -368,7 +390,7 @@ Ieder lid dat ophoudt lid van het Internationale Monetaire Fonds te zijn, houdt 
 
 - i. Ieder lid, dat ingevolge h hierboven door de Bank verdeelde activa ontvangt, oefent ten aanzien van deze activa dezelfde rechten uit als de Bank voorafgaand aan de verdeling uitoefende.
 
-#### Artikel VII. Status, immuniteiten en voorrechten
+##### Artikel VII. Status, immuniteiten en voorrechten
 
 Teneinde de Bank in staat te stellen de haar toevertrouwde functies te vervullen worden haar op het grondgebied van ieder lid de in dit artikel vermelde status, immuniteiten en voorrechten verleend.
 
@@ -416,7 +438,7 @@ Alle bestuursleden, bewindvoerders, plaatsvervangers, ambtenaren en employés va
 
 Ieder lid neemt op zijn grondgebied de nodige maatregelen teneinde de beginselen vervat in dit artikel overeenkomstig zijn eigen recht te implementeren en stelt de Bank nader in kennis van de genomen maatregelen.
 
-#### Artikel VIII. Amendementen
+##### Artikel VIII. Amendementen
 
 a. Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of het College van Bewindvoerders, bij de voorzitter van de Raad van Bestuur ingediend die het voorstel voorlegt aan de Raad. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt de Bank door middel van een rondschrijven of telegram alle leden of zij de voorgestelde wijziging aanvaarden. Wanneer drie vijfde van de leden, die vijfentachtig procent3)„vier vijfde” is vervangen door „vijfentachtig procent” bij wijziging van kracht op 16 februari 1989. van het totale aantal stemmen bezitten, de voorgestelde wijziging aanvaard hebben, zendt de Bank hiervan een officiële mededeling aan alle leden.
 
@@ -430,7 +452,7 @@ b. Niettegenstaande de bepalingen van a hierboven, is aanvaarding door alle lede
 
 c. Wijzigingen treden voor alle leden drie maanden na de datum van de officiële mededeling in werking, tenzij in de officiële mededeling of het telegram een kortere termijn vermeld is.
 
-#### Artikel IX. Interpretatie
+##### Artikel IX. Interpretatie
 
 a. Ieder verschil van mening omtrent de interpretatie van de bepalingen van deze Overeenkomst tussen een lid en de Bank of tussen de leden van de Bank onderling wordt ter beslissing voorgelegd aan het College van Bewindvoerders. Een lid dat nauw betrokken is bij een verschil van mening en niet gerechtigd is een bewindvoerder te benoemen kan zich laten vertegenwoordigen in overeenstemming met artikel V, sectie 4, onderdeel h.
 
@@ -438,11 +460,11 @@ b. In ieder geval waarin het College van Bewindvoerders ingevolge a hierboven ee
 
 c. Wanneer een geschil ontstaat tussen de Bank en een voormalig lid of tussen de Bank en een lid nadat de werkzaamheden van de Bank voorgoed gestaakt zijn, wordt het geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er een door de Bank benoemd wordt, een andere door het betrokken land, en een voorzitter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit, die daarvoor is aangewezen bij een door de Bank aangenomen regeling .
 
-#### Artikel X. Wanneer toestemming geacht wordt te zijn gegeven
+##### Artikel X. Wanneer toestemming geacht wordt te zijn gegeven
 
 Steeds wanneer de toestemming van een lid vereist is voordat de Bank een handeling kan verrichten, wordt, behalve wat betreft artikel VIII, de toestemming geacht te zijn gegeven, indien het lid niet binnen een redelijke termijn, die de Bank bij de mededeling aan het lid van de voorgestelde handeling kan vaststellen, bezwaar maakt.
 
-#### Artikel XI. Slotbepalingen
+##### Artikel XI. Slotbepalingen
 
 Deze Overeenkomst treedt in werking wanneer zij ondertekend is namens de regeringen, waarvan de minimum inschrijvingen tezamen ten minste 65 percent bedragen van de totale inschrijvingen vermeld in Schema A, en wanneer de in sectie 2, onderdeel a, van dit artikel genoemde akten namens hen gedeponeerd zijn, maar in geen geval treedt deze Overeenkomst voor 1 mei 1945 in werking.
 

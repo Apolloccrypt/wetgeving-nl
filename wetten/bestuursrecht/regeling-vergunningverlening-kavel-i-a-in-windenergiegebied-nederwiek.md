@@ -1,20 +1,46 @@
 ---
-title: "Regeling vergunningverlening kavel I-A in windenergiegebied Nederwiek"
+title: "Regeling van de Minister van Klimaat en Groene Groei van 15 mei 2025, nr. WJZ/ 97895810, houdende regels inzake de vergunningverlening kavel I-A in windenergiegebied Nederwiek (Regeling vergunningverlening kavel I-A in windenergiegebied Nederwiek)"
 identifier: "BWBR0051043"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051043"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051043"
+soort: "ministeriele-regeling"
+stam_id: "17429623"
+version_id: "30733422"
+internal_id: "C44050101"
+label_id: "17332614"
+dtd_version: "2.0"
+original_entry_into_force: "2025-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051043/2025-07-01/0"
+intitule_bron: "Stcrt.2025-13175"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-15"
+intitule_published: "2025-05-16"
+intitule_in_force: "2025-05-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-13175"
+original_signed_date: "2025-05-15"
+original_published_date: "2025-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-13175"
+entry_into_force_date: "2025-07-01"
+jci_1_3: "jci1.3:c:BWBR0051043&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0051043&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling vergunningverlening kavel I-A in windenergiegebied Nederwiek"
+signed_date: "2025-05-15"
+entry_into_force: "2025-07-01"
 ---
-
 # Regeling van de Minister van Klimaat en Groene Groei van 15 mei 2025, nr. WJZ/ 97895810, houdende regels inzake de vergunningverlening kavel I-A in windenergiegebied Nederwiek (Regeling vergunningverlening kavel I-A in windenergiegebied Nederwiek)
 
 Gelet op de [artikelen 10, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10), [12a, tweede, derde, vijfde en zesde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a), [14, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14), [14a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14a), [15a, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a), [24, derde en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=24), en [25b, derde en vierde lid, van de Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In deze regeling wordt verstaan onder:
 
 - **wet:** [Wet windenergie op zee](https://wetten.overheid.nl/jci1.3:c:BWBR0036752).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een aanvraag voor een vergunning voor de kavel wordt ingediend in de periode van 16 oktober 2025 tot en met 30 oktober 2025, 17:00 uur.
 
@@ -46,7 +72,7 @@ In deze regeling wordt verstaan onder:
 
 4. Indien aanvragers samenwerken in een samenwerkingsverband, dient de penvoerder namens hen de aanvraag in.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ontwerp voor het windpark, bedoeld in [artikel 12a, vierde lid, onderdeel a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a), omvat ten minste:
 
@@ -122,7 +148,7 @@ In deze regeling wordt verstaan onder:
 
 - h. het geïnstalleerd vermogen van de windparken dat de verantwoordelijke partijen voor het onderhoud en de bediening in onderhoud hebben en bedienen.
 
-#### Artikel 4
+##### Artikel 4
 
 In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051043&artikel=3&z=2025-07-01&g=2025-07-01) bevat de aanvraag:
 
@@ -150,11 +176,11 @@ In aanvulling op [artikel 12a, vierde lid, van de wet](https://wetten.overheid.n
 
 - j. indien van toepassing een beschrijving van de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de bijlage.
 
-#### Artikel 5
+##### Artikel 5
 
 De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=14) bedraagt 52 maanden nadat de vergunning onherroepelijk is geworden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Bij de beoordeling van de technische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met:
 
@@ -178,7 +204,7 @@ De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://
 
 5. Bij de beoordeling van de economische haalbaarheid van de bouw en exploitatie van een windpark wordt in ieder geval rekening gehouden met de door de aanvrager overgelegde raming van de kosten en opbrengsten, bedoeld in [artikel 12a, vierde lid, onderdeel c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=12a).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De verlening van een vergunning geschiedt met de toepassing van de procedure van een vergelijkende toets met financieel bod.
 
@@ -190,7 +216,7 @@ De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://
 
 - c. de bijdrage van het windpark aan het ecosysteem van de Nederlandse Noordzee, bedoeld in tabel 6 van de bijlage.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De onderlinge weging van de rangschikkingscriteria, genoemd in [artikel 25b, tweede lid, onderdelen a, b en c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=25b) en [artikel 7, eerste en tweede lid, onderdelen a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0051043&artikel=7&z=2025-07-01&g=2025-07-01), vindt plaats overeenkomstig de waardering in punten zoals opgenomen in de bijlage waarbij een hoger aantal punten leidt tot een hogere rangschikking.
 
@@ -206,13 +232,13 @@ De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://
 
 7. Als bij de toepassing van het zesde lid twee of meer aanvragen gelijk als hoogste worden gerangschikt, weegt de waardering in punten voor het uitgebrachte financieel bod zwaarder.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De kosten, bedoeld in [artikel 10, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=10) bedragen € 18.352.510.
 
 2. Degene aan wie de vergunning wordt verleend betaalt de vergoeding van de kosten, bedoeld in het eerste lid, op een door de minister bekendgemaakte rekening uiterlijk vier weken na de datum waarop de minister de vergunning heeft verleend.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De hoogte van de waarborgsom of bankgarantie, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) bedraagt € 100.000.000.
 
@@ -232,11 +258,11 @@ De periode bedoeld in [artikel 14, eerste lid, onderdeel d, van de wet](https://
 
 6. De bankgarantie, bedoeld in [artikel 15a, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0036752&artikel=15a) wordt afgegeven door een binnen de Europese Economische Ruimte gevestigde bank.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking met ingang van 1 juli 2025.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Regeling vergunningverlening kavel I-A in windenergiegebied Nederwiek.
 

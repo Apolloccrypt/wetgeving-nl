@@ -1,13 +1,38 @@
 ---
 title: "Overeenkomst betreffende de Europese Economische Ruimte"
 identifier: "BWBV0001070"
-categorie: "Internationaal recht"
-publicatiedatum: 2025-02-19
-laatste_update: 2014-04-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001070"
+country: "nl"
+rank: "verdrag"
+publication_date: "2025-02-19"
+last_updated: "2014-04-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001070"
+soort: "verdrag"
+stam_id: "10002354543"
+version_id: "10002360752"
+internal_id: "C10006976381"
+label_id: "10002346754"
+dtd_version: "2.0"
+original_entry_into_force: "1994-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001070/2025-02-19/0"
+intitule_bron: "Trb.1992-132"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-31"
+intitule_published: "1992-09-11"
+intitule_in_force: "1993-12-31"
+intitule_status: "goed"
+original_publication: "Trb.1992-132"
+original_signed_date: "1992-12-31"
+original_published_date: "1992-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1992-132"
+entry_into_force_date: "1994-01-01"
+jci_1_3: "jci1.3:c:BWBV0001070&z=2025-02-19&g=2025-02-19"
+jci_1_0: "1.0:c:BWBV0001070&g=2025-02-19"
+citeertitel_status: "redactioneel"
+signed_date: "1992-12-31"
+entry_into_force: "1994-01-01"
 ---
-
 # Overeenkomst betreffende de Europese Economische Ruimte
 
 de Europese Gemeenschap,
@@ -114,7 +139,7 @@ HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:
 
 ## DEEL I. DOELSTELLINGEN EN BEGINSELEN
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het doel van deze Associatieovereenkomst is de bevordering van een gestadige en evenwichtige versterking van de handel en de economische betrekkingen tussen de overeenkomstsluitende partijen onder gelijke mededingingsvoorwaarden en met inachtneming van dezelfde voorschriften met het oog op de totstandbrenging van een homogene Europese Economische Ruimte, hierna “EER” te noemen,
 
@@ -132,7 +157,7 @@ HEBBEN BESLOTEN de volgende Overeenkomst te sluiten:
 
 - f). nauwere samenwerking op andere gebieden, zoals onderzoek en ontwikkeling, het milieu, het onderwijs en het sociaal beleid.
 
-#### Artikel 2
+##### Artikel 2
 
 In deze Overeenkomst wordt verstaan onder :
 
@@ -148,7 +173,7 @@ In deze Overeenkomst wordt verstaan onder :
 
 - f). het begrip „Toetredingsakte van 9 december 2011” heeft betrekking op „de Akte betreffende de voorwaarden voor de toetreding van de Republiek Kroatië en de aanpassing van het Verdrag betreffende de Europese Unie, het Verdrag betreffende de werking van de Europese Unie en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, ondertekend te Brussel op 9 december 2011.
 
-#### Artikel 3
+##### Artikel 3
 
 De overeenkomstsluitende partijen treffen alle algemene of bijzondere maatregelen welke geschikt zijn om de nakoming van de uit deze Overeenkomst voortvloeiende verplichtingen te verzekeren.
 
@@ -156,19 +181,19 @@ Zij onthouden zich van alle maatregelen welke de verwezenlijking van de doelstel
 
 Voorts vergemakkelijken zij de samenwerking in het kader van deze Overeenkomst.
 
-#### Artikel 4
+##### Artikel 4
 
 Binnen de werkingssfeer van deze Overeenkomst en onverminderd de daarin vervatte bijzondere bepalingen, is elke discriminatie op grond van nationaliteit verboden.
 
-#### Artikel 5
+##### Artikel 5
 
 Een overeenkomstsluitende partij kan een vraagstuk dat zij van belang acht te allen tijde aan de orde stellen op het niveau van het Gemengd Comité van de EER of de EER-Raad op de respectievelijk in artikel 92, lid 2, en artikel 89, lid 2, vastgestelde wijzen.
 
-#### Artikel 6
+##### Artikel 6
 
 Onverminderd de toekomstige ontwikkelingen van de jurisprudentie, worden de bepalingen van deze Overeenkomst, voor zover zij in essentie gelijk zijn aan de overeenkomstige regels van het [Verdrag tot oprichting van de Europese Economische Gemeenschap](https://wetten.overheid.nl/jci1.3:c:BWBV0001506) en het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en de ter uitvoering van die Verdragen aangenomen besluiten, wat de tenuitvoerlegging en toepassing betreft, uitgelegd overeenkomstig de desbetreffende uitspraken van het Hof van Justitie van de Europese Gemeenschappen daterende van vóór de ondertekening van deze Overeenkomst.
 
-#### Artikel 7
+##### Artikel 7
 
 De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comité van de EER vermelde of vervatte besluiten zijn verbindend voor de overeenkomstsluitende partijen en maken deel uit van of worden opgenomen in hun interne rechtsorde, zulks op de volgende wijze :
 
@@ -180,7 +205,7 @@ De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comi
 
 ### HOOFDSTUK 1. DE GRONDBEGINSELEN
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het vrije verkeer van goederen tussen de overeenkomstsluitende partijen wordt in overeenstemming met de bepalingen van deze Overeenkomst tot stand gebracht.
 
@@ -192,7 +217,7 @@ De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comi
 
 - b). de in Protocol 3 opgenomen produkten, behoudens de in dat protocol vervatte specifieke regelingen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Protocol 4 bevat de regels inzake oorsprong. Zij doen geen afbreuk aan de internationale verplichtingen die door de overeenkomstsluitende partijen in het kader van de [Algemene Overeenkomst betreffende Tarieven en Handel](onbekend) zijn of kunnen worden aangegaan.
 
@@ -200,33 +225,33 @@ De in de bijlagen bij deze Overeenkomst of in beschikkingen van het Gemengd Comi
 
 3. Een eerste onderzoek zal plaatsvinden vóór eind 1993. Vervolgens vindt om de twee jaar een onderzoek plaats. Op basis daarvan zeggen de overeenkomstsluitende partijen toe een besluit te zullen nemen over passende in de Overeenkomst op te nemen maatregelen.
 
-#### Artikel 10
+##### Artikel 10
 
 In- en uitvoerrechten en heffingen van gelijke werking zijn tussen de overeenkomstsluitende partijen verboden. Onverminderd de in Protocol 5 opgenomen regelingen geldt zulks eveneens voor douanerechten van fiscale aard.
 
-#### Artikel 11
+##### Artikel 11
 
 Kwantitatieve invoerbeperkingen en alle maatregelen van gelijke werking zijn tussen de overeenkomstsluitende partijen verboden.
 
-#### Artikel 12
+##### Artikel 12
 
 Kwantitatieve uitvoerbeperkingen en alle maatregelen van gelijke werking zijn tussen de overeenkomstsluitende partijen verboden.
 
-#### Artikel 13
+##### Artikel 13
 
 Het bepaalde in de artikelen 11 en 12 vormt geen beletsel voor verboden of beperkingen van invoer, uitvoer of doorvoer, welke gerechtvaardigd zijn uit hoofde van bescherming van de openbare zedelijkheid, de openbare orde, de openbare veiligheid, de gezondheid en het leven van personen, dieren, planten, het nationaal artistiek, historisch en archeologisch bezit of uit hoofde van bescherming van de industriële en commerciële eigendom. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie noch een verkapte beperking van de handel tussen de overeenkomstsluitende Staten vormen.
 
-#### Artikel 14
+##### Artikel 14
 
 De overeenkomstsluitende partijen heffen op produkten van de andere overeenkomstsluitende partijen, al dan niet rechtstreeks, geen hogere binnenlandse belastingen van welke aard ook dan die welke, al dan niet rechtstreeks, op gelijksoortige nationale produkten worden geheven.
 
 Bovendien heffen de overeenkomstsluitende partijen op de produkten van de overige overeenkomstsluitende partijen geen zodanige binnenlandse belastingen, dat daardoor andere produkties zijdelings worden beschermd.
 
-#### Artikel 15
+##### Artikel 15
 
 Bij de uitvoer van produkten naar het grondgebied van een der overeenkomstsluitende partijen mag de teruggave van binnenlandse belastingen niet het bedrag overschrijden dat daarover al dan niet rechtstreeks geheven is.
 
-#### Artikel 16
+##### Artikel 16
 
 1. De overeenkomstsluitende partijen zorgen ervoor dat nationale monopolies van commerciële aard zo worden aangepast dal elke discriminatie tussen onderdanen van de Lid-Staten van de EG en onderdanen van de EVA-Staten wat de voorwaarden van de voorziening en afzet van goederen betreft, zal zijn uitgesloten.
 
@@ -234,15 +259,15 @@ Bij de uitvoer van produkten naar het grondgebied van een der overeenkomstsluite
 
 ### HOOFDSTUK 2. LANDBOUW- EN VISSERIJPRODUCTEN
 
-#### Artikel 17
+##### Artikel 17
 
 Bijlage I bevat specifieke bepalingen en regelingen op veterinair en fytosanitair gebied.
 
-#### Artikel 18
+##### Artikel 18
 
 Onverminderd de specifieke regelingen betreffende de handel in landbouwprodukten zorgen de overeenkomstsluitende partijen ervoor dat aan de in de artikelen 17 en 23, onder a) en b), vervatte regelingen, zoals deze van toepassing zijn op andere produkten dan die welke onder artikel 8, lid 3, vallen, geen afbreuk wordt gedaan door andere technische handelsbelemmeringen. Artikel 13 is van toepassing.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De overeenkomstsluitende partijen bestuderen eventuele moeilijkheden die bij hun handel in landbouwprodukten rijzen en pogen hiervoor passende oplossingen te vinden.
 
@@ -252,13 +277,13 @@ Onverminderd de specifieke regelingen betreffende de handel in landbouwprodukten
 
 4. De overeenkomstsluitende partijen zullen, in het licht van de resultaten van dat onderzoek, in het kader van het landbouwbeleid van hun respectieve landen en met inachtneming van de resultaten van de Uruguay-Ronde, binnen het kader van deze Overeenkomst op preferentiële, bilaterale of multilaterale basis, op grondslag van wederkerigheid en wederzijds voordeel beslissen over verdere verminderingen van alle soorten handelsbelemmeringen in de landbouwsector, inclusief die welke voortvloeien uit nationale monopolies van commerciële aard op landbouwgebied.
 
-#### Artikel 20
+##### Artikel 20
 
 Protocol 9 bevat bepalingen en regelingen die van toepassing zijn op vis en andere produkten van de zee.
 
 ### HOOFDSTUK 3. SAMENWERKING OP HET GEBIED VAN DOUANE-AANGELEGENHEDEN EN HANDELSBEVORDERING
 
-#### Artikel 21
+##### Artikel 21
 
 1. Ten einde de onderlinge handel te bevorderen, vereenvoudigen de overeenkomstsluitende partijen de grenscontroles en -formaliteiten. Hiertoe strekkende regelingen zijn opgenomen in Protocol 10.
 
@@ -268,13 +293,13 @@ Protocol 9 bevat bepalingen en regelingen die van toepassing zijn op vis en ande
 
 4. In afwijking van artikel 8, lid 3, is dit artikel van toepassing op alle produkten.
 
-#### Artikel 22
+##### Artikel 22
 
 Een overeenkomstsluitende partij die de verlaging overweegt van het daadwerkelijke niveau van haar rechten of heffingen van gelijke werking geldende voor derde landen die in aanmerking komen voor de meestbegunstigingsclausule of die schorsing van de toepassing daarvan overweegt, stelt het Gemengd Comité van de EER, voor zover zulks uitvoerbaar is, uiterlijk 30 dagen voordat een dergelijke verlaging of schorsing van kracht wordt, hiervan in kennis. Hij neemt nota van eventuele bezwaren van andere overeenkomstsluitende partijen ten aanzien van mogelijk hieruit voortvloeiende verstoringen.
 
 ### HOOFDSTUK 4. ANDERE VOORSCHRIFTEN INZAKE HET VRIJE VERKEER VAN GOEDEREN
 
-#### Artikel 23
+##### Artikel 23
 
 Specifieke bepalingen en regelingen zijn vervat in :
 
@@ -286,11 +311,11 @@ Specifieke bepalingen en regelingen zijn vervat in :
 
 Zij zijn van toepassing op alle produkten, tenzij anders wordt bepaald.
 
-#### Artikel 24
+##### Artikel 24
 
 Bijlage IV bevat specifieke bepalingen en regelingen betreffende energie.
 
-#### Artikel 25
+##### Artikel 25
 
 Wanneer naleving van het bepaalde in de artikelen 10 en 12 leidt tot
 
@@ -300,13 +325,13 @@ Wanneer naleving van het bepaalde in de artikelen 10 en 12 leidt tot
 
 en voornoemde situaties aanleiding geven of kunnen geven tot ernstige moeilijkheden voor de exporterende overeenkomstsluitende partij, kan die partij passende maatregelen overeenkomstig de in artikel 113 vermelde procedures treffen.
 
-#### Artikel 26
+##### Artikel 26
 
 In de betrekkingen tussen de overeenkomstsluitende partijen worden geen anti-dumpingmaatregelen, compenserende rechten en maatregelen tegen ongeoorloofde handelspraktijken van derde landen toegepast, tenzij in deze Overeenkomst anders wordt bepaald.
 
 ### HOOFDSTUK 5. KOLEN- EN STAALPRODUKTEN
 
-#### Artikel 27
+##### Artikel 27
 
 De Protocollen 14 en 25 bevatten bepalingen en regelingen betreffende kolen- en staalprodukten.
 
@@ -314,7 +339,7 @@ De Protocollen 14 en 25 bevatten bepalingen en regelingen betreffende kolen- en 
 
 ### HOOFDSTUK I. WERKNEMERS EN ZELFSTANDIGEN
 
-#### Artikel 28
+##### Artikel 28
 
 1. Tussen de Lid-Staten van de EG en de EVA-Staten wordt vrij verkeer van werknemers tot stand gebracht.
 
@@ -334,7 +359,7 @@ De Protocollen 14 en 25 bevatten bepalingen en regelingen betreffende kolen- en 
 
 5. Bijlage V bevat specifieke bepalingen inzake het vrije verkeer van werknemers.
 
-#### Artikel 29
+##### Artikel 29
 
 Met het oog op de totstandkoming van het vrije verkeer van werknemers en zelfstandigen waarborgen de overeenkomstsluitende partijen voor werknemers en zelfstandigen en hun rechthebbenden op het gebied van de sociale zekerheid, overeenkomstig bijlage VI, met name :
 
@@ -342,13 +367,13 @@ Met het oog op de totstandkoming van het vrije verkeer van werknemers en zelfsta
 
 - b). dat de uitkeringen aan personen die op het grondgebied van de overeenkomstsluitende partijen verblijven, zullen worden betaald.
 
-#### Artikel 30
+##### Artikel 30
 
 Ten einde de toegang tot en de uitoefening van werkzaamheden voor werknemers en zelfstandigen te vergemakkelijken, treffen de overeenkomstsluitende partijen overeenkomstig bijlage VII de noodzakelijke maatregelen inzake de onderlinge erkenning van diploma's, certificaten en andere titels en de coördinatie van de wettelijke en bestuursrechtelijke bepalingen van de overeenkomstsluitende partijen betreffende de toegang tot en de uitoefening van werkzaamheden door werknemers en zelfstandigen.
 
 ### HOOFDSTUK 2. RECHT VAN VESTIGING
 
-#### Artikel 31
+##### Artikel 31
 
 1. In het kader van de bepalingen van deze Overeenkomst zijn er geen beperkingen van de vrijheid van vestiging voor onderdanen van een Lid-Staat van de EG of een EVA-Staat op het grondgebied van een andere staat bij de Overeenkomst. Dit geldt eveneens voor de oprichting van agentschappen, filialen of dochterondernemingen door de onderdanen van een Lid-Staat van de EG of een EVA-Staat die op het grondgebied van een van deze staten zijn gevestigd.
 
@@ -356,33 +381,33 @@ De vrijheid van vestiging omvat, behoudens de bepalingen van hoofdstuk 4, de toe
 
 2. De bijlagen VIII tot en met XI bevatten specifieke bepalingen inzake hel recht van vestiging.
 
-#### Artikel 32
+##### Artikel 32
 
 De bepalingen van dit hoofdstuk zijn, wat de betrokken overeenkomstsluitende partij betreft, niet van toepassing op de werkzaamheden ter uitoefening van het openbaar gezag in deze overeenkomstsluitende partij, zelfs indien deze slechts voor een bepaalde gelegenheid geschieden.
 
-#### Artikel 33
+##### Artikel 33
 
 De voorschriften van dit hoofdstuk en de maatregelen uit hoofde daarvan genomen doen niet af aan de toepasselijkheid van de wettelijke en bestuursrechtelijke bepalingen waarbij een bijzondere regeling is vastgesteld voor vreemdelingen, welke bepalingen uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid gerechtvaardigd zijn.
 
-#### Artikel 34
+##### Artikel 34
 
 Vennootschappen welke in overeenstemming met de wetgeving van een Lid-Staat van de EG of een EVA-Staat zijn opgericht en welke hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging op het grondgebied van de overeenkomstsluitende partijen hebben, worden voor de toepassing van dit hoofdstuk gelijkgesteld met natuurlijke personen die onderdaan zijn van de Lid-Staten van de EG of de EVA-Staten.
 
 Onder vennootschappen worden verstaan maatschappen naar burgerlijk recht of handelsrecht, de coöperatieve verenigingen of vennootschappen daaronder begrepen, en de overige rechtspersonen naar publiek- of privaatrecht, met uitzondering van vennootschappen welke geen winst beogen.
 
-#### Artikel 35
+##### Artikel 35
 
 De bepalingen van artikel 30 zijn van toepassing op het onderwerp dat in dit hoofdstuk is geregeld.
 
 ### HOOFDSTUK 3. DIENSTEN
 
-#### Artikel 36
+##### Artikel 36
 
 1. In het kader van de bepalingen van deze Overeenkomst zijn er geen beperkingen van het vrij verrichten van diensten binnen het grondgebied van de overeenkomstsluitende partijen ten aanzien van de onderdanen van de Lid-Staten van de EG en de EVA-Staten die in een andere Lid-Staat van de EG of een EVA-Staat zijn gevestigd dan die, waarin degene is gevestigd te wiens behoeve de dienst wordt verricht.
 
 2. De bijlagen IX tot en met XI bevatten specifieke bepalingen inzake het vrij verrichten van diensten.
 
-#### Artikel 37
+##### Artikel 37
 
 In deze Overeenkomst worden als diensten beschouwd de dienstverrichtingen welke gewoonlijk tegen vergoeding geschieden, voor zover de bepalingen betreffende het vrije verkeer van goederen, kapitaal en personen op deze dienstverrichtingen niet van toepassing zijn.
 
@@ -398,31 +423,31 @@ Diensten omvatten met name werkzaamheden :
 
 Onverminderd de bepalingen van hoofdstuk 2, kan degene die de dienst verricht, daartoe zijn werkzaamheden tijdelijk uitoefenen in het land waar de dienst wordt verricht, onder dezelfde voorwaarden als die welke dat land aan zijn eigen onderdanen oplegt.
 
-#### Artikel 38
+##### Artikel 38
 
 Het vrije verkeer van diensten op het gebied van het vervoer wordt geregeld door de bepalingen van hoofdstuk 6.
 
-#### Artikel 39
+##### Artikel 39
 
 De bepalingen van de artikelen 30 en 32 tot en met 34 zijn van toepassing op het onderwerp dat in dit hoofdstuk is geregeld.
 
 ### HOOFDSTUK 4. KAPITAAL
 
-#### Artikel 40
+##### Artikel 40
 
 In het kader van de bepalingen van deze Overeenkomst zijn er tussen de overeenkomstsluitende partijen geen beperkingen van het verkeer van kapitaal toebehorende aan personen die woonachtig of gevestigd zijn in de Lid-Staten van de EG of de EVA-Staten en is er geen discriminerende behandeling op grond van de nationaliteit of van de vestigingsplaats van partijen of op grond van het gebied waar het kapitaal wordt belegd. Bijlage XII bevat de bepalingen die nodig zijn voor de tenuitvoerlegging van dit artikel.
 
-#### Artikel 41
+##### Artikel 41
 
 De lopende betalingen met betrekking tot het verkeer van goederen, personen, diensten en kapitaal tussen de overeenkomstsluitende partijen zijn in het kader van de bepalingen van deze Overeenkomst vrij van alle beperkingen.
 
-#### Artikel 42
+##### Artikel 42
 
 1. Wanneer binnenlandse voorschriften met betrekking tot de kapitaalmarkt en het kredietwezen worden toegepast op het overeenkomstig de bepalingen van deze Overeenkomst geliberaliseerd kapitaalverkeer, dan geschiedt zulks op nietdiscriminerende wijze.
 
 2. Leningen voor de middellijke of onmiddellijke financiering van een Lid-Staat van de EG of een EVA-Staat of van zijn territoriale publiekrechtelijke lichamen kunnen in de overige Lid-Staten van de EG of de EVA-Staten slechts worden uitgeschreven of geplaatst nadat tussen de betrokken staten ter zake overeenstemming is bereikt.
 
-#### Artikel 43
+##### Artikel 43
 
 1. Wanneer verschillen tussen de deviezenregelingen van de Lid-Staten van de EG en de EVA-Staten de personen die woonachtig of gevestigd zijn in een van deze landen ertoe zouden brengen de in artikel 40 bedoelde transfermogelijkheden op het grondgebied van de overeenkomstsluitende partijen te benutten, ten einde de door een van deze landen ten opzichte van derde landen getroffen regeling te ontgaan, kan de betrokken overeenkomstsluitende partij passende maatregelen treffen om deze moeilijkheden weg te nemen.
 
@@ -432,11 +457,11 @@ De lopende betalingen met betrekking tot het verkeer van goederen, personen, die
 
 4. In geval van moeilijkheden of ernstig dreigende moeilijkheden in de betalingsbalans van een Lid-Staat van de EG of een EVA-Staat, die voortvloeien hetzij uit het ontbreken van het globaal evenwicht van zijn balans hetzij uit de aard van zijn beschikbare deviezen, en die met name de werking van deze Overeenkomst in gevaar kunnen brengen, kan de betrokken overeenkomstsluitende partij beschermende maatregelen treffen.
 
-#### Artikel 44
+##### Artikel 44
 
 De Gemeenschap enerzijds en de EVA-Staten anderzijds passen hun interne procedures toe, zoals bepaald in Protocol 18 om de bepalingen van artikel 43 uit te voeren.
 
-#### Artikel 45
+##### Artikel 45
 
 1. Het Gemengd Comité van de EER wordt in kennis gesteld van de beschikkingen, adviezen en aanbevelingen verband houdende met de in artikel 43 beschreven maatregelen.
 
@@ -450,35 +475,35 @@ De Gemeenschap enerzijds en de EVA-Staten anderzijds passen hun interne procedur
 
 ### HOOFDSTUK 5. SAMENWERKING BIJ HET ECONOMISCH EN MONETAIR BELEID
 
-#### Artikel 46
+##### Artikel 46
 
 De overeenkomstsluitende partijen wisselen meningen en informatie uit over de tenuitvoerlegging van deze Overeenkomst en het effect van de integratie op hun economische bedrijvigheid en hun economisch en monetair beleid. Voorts kunnen zij macroeconomische situaties, beleid en vooruitzichten bespreken. Deze uitwisseling van meningen en informatie is niet bindend.
 
 ### HOOFDSTUK 6. VERVOER
 
-#### Artikel 47
+##### Artikel 47
 
 1. De artikelen 48 tot en met 52 zijn van toepassing op het vervoer per spoor, over de weg en over de binnenwateren.
 
 2. Bijlage XIII bevat specifieke bepalingen betreffende alle wijzen van vervoer.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De bepalingen van een Lid-Staat van de EG of een EVA-Staat betreffende het vervoer per spoor, over de weg en over de binnenwateren die niet onder bijlage XIII vallen, worden in hun rechtstreekse of zijdelingse uitwerking niet minder gunstig gemaakt voor de vervoerondernemers van de overige staten dan voor de nationale vervoerondernemers.
 
 2. Elke overeenkomstsluitende partij die van het in lid 1 vervatte beginsel afwijkt, stelt het Gemengd Comité van de EER daarvan in kennis. Indien andere overeenkomstsluitende partijen de afwijking niet aanvaarden, kunnen zij overeenkomstige tegenmaatregelen nemen.
 
-#### Artikel 49
+##### Artikel 49
 
 Met deze Overeenkomst is verenigbaar steun die beantwoordt aan de behoeften van de coördinatie van het vervoer of die overeenkomt met de vergoeding van bepaalde met het begrip "openbare dienst" verbonden, verplichte dienstverrichtingen.
 
-#### Artikel 50
+##### Artikel 50
 
 1. In het verkeer op het grondgebied van de overeenkomstsluitende partijen zijn er geen discriminaties welke daarin bestaan, dat een vervoerondernemer voor dezelfde verbindingen verschillende vrachtprijzen en vervoervoorwaarden voor gelijke goederen toepast naar gelang van het land van herkomst of bestemming van de vervoerde waren.
 
 2. De overeenkomstig deel VII bevoegde autoriteit onderzoekt eigener beweging of op verzoek van een Lid-Staat van de EG of een EVA-Staat de in dit artikel bedoelde gevallen van discriminatie en neemt in het kader van haar interne regels de noodzakelijke beschikkingen.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Behoudens machtiging van de in artikel 50, lid 2, bedoelde bevoegde autoriteit, is het verboden voor het vervoer op het grondgebied van de overeenkomstsluitende partijen de toepassing van prijzen en voorwaarden op te leggen welke enig element van steun of bescherming in het belang van een of meer ondernemingen of bepaalde industrieën inhouden.
 
@@ -488,7 +513,7 @@ De bevoegde autoriteit neemt in het kader van haar interne regels de noodzakelij
 
 3. Het in lid 1 bedoelde verbod geldt niet voor mededingingstarieven.
 
-#### Artikel 52
+##### Artikel 52
 
 De heffingen of andere rechten welke naast de vervoerprijs door een vervoerondernemer in verband met het overschrijden der grens in rekening worden gebracht, mogen een redelijk peil niet te boven gaan, gelet op de werkelijke kosten welke door die grensoverschrijding feitelijk zijn veroorzaakt. De overeenkomstsluitende partijen streven naar een geleidelijke verlaging van die kosten.
 
@@ -496,7 +521,7 @@ De heffingen of andere rechten welke naast de vervoerprijs door een vervoeronder
 
 ### HOOFDSTUK 1. REGELS VOOR ONDERNEMINGEN
 
-#### Artikel 53
+##### Artikel 53
 
 1. Onverenigbaar met de werking van deze Overeenkomst en verboden zijn alle overeenkomsten tussen ondernemingen, alle besluiten van ondernemersverenigingen en alle onderling afgestemde feitelijke gedragingen welke de handel tussen de overeenkomstsluitende partijen ongunstig kunnen beïnvloeden en ertoe strekken of ten gevolge hebben dat de mededinging op het door deze Overeenkomst bestreken grondgebied wordt verhinderd, beperkt of vervalst en met name die welke bestaan in :
 
@@ -526,7 +551,7 @@ die bijdragen tot verbetering van de produktie of van de verdeling der produkten
 
 - b). de mogelijkheid te geven, voor een wezenlijk deel van de betrokken produkten de mededinging uit te schakelen.
 
-#### Artikel 54
+##### Artikel 54
 
 Onverenigbaar met de werking van deze Overeenkomst en verboden, voor zover de handel tussen de overeenkomstsluitende partijen daardoor ongunstig kan worden beïnvloed, is het, dat een of meer ondernemingen misbruik maken van een machtspositie op het door deze Overeenkomst bestreken grondgebied af op een wezenlijk deel daarvan.
 
@@ -540,7 +565,7 @@ Dit misbruik kan met name bestaan in :
 
 - d). het feit dat het sluiten van overeenkomsten afhankelijk wordt gesteld van het aanvaarden door de handelspartners van bijkomende prestaties, welke naar hun aard of volgens het handelsgebruik geen verband houden met het onderwerp van deze overeenkomsten.
 
-#### Artikel 55
+##### Artikel 55
 
 1. Onverminderd de bepalingen die uitvoering geven aan de artikelen 53 en 54, zoals die in Protocol 21 en bijlage XIV van deze Overeenkomst zijn vervat, waken de Commissie van de EG en de in artikel 108, lid 1, bedoelde Toezichthoudende Autoriteit van de EVA over de toepassing van de in de artikelen 53 en 54 neergelegde beginselen.
 
@@ -552,7 +577,7 @@ Indien haar blijkt dat inbreuk is gepleegd, stelt zij passende middelen voor om 
 
 De bevoegde toezichthoudende autoriteit kan haar beschikking bekendmaken en de staten binnen het onderscheiden rechtsgebied machtigen de noodzakelijke tegenmaatregelen, waarvan zij de voorwaarden en de wijze van toepassing bepaalt, te treffen om de toestand te verhelpen. Zij kan de andere toezichthoudende autoriteit eveneens verzoeken om de staten binnen het onderscheiden rechtsgebied te machtigen tot het treffen van dergelijke maatregelen.
 
-#### Artikel 56
+##### Artikel 56
 
 1. Over afzonderlijke gevallen waarop artikel 53 van toepassing is, wordt door de toezichthoudende autoriteiten overeenkomstig de volgende bepalingen beslist :
 
@@ -568,7 +593,7 @@ De bevoegde toezichthoudende autoriteit kan haar beschikking bekendmaken en de s
 
 4. De termen "ondernemingen" en "omzet" worden voor de toepassing van dit artikel in Protocol 22 gedefinieerd.
 
-#### Artikel 57
+##### Artikel 57
 
 1. Concentraties die overeenkomstig lid 2 aan toezicht onderworpen zijn en die een machtspositie creëren of versterken ten gevolge waarvan een daadwerkelijke mededinging op het door deze Overeenkomst bestreken grondgebied of op een wezenlijk deel daarvan aanzienlijk wordt belemmerd, worden onverenigbaar met deze Overeenkomst verklaard.
 
@@ -578,11 +603,11 @@ De bevoegde toezichthoudende autoriteit kan haar beschikking bekendmaken en de s
 
 - b). de Toezichthoudende Autoriteit van de EVA in de gevallen die niet onder het bepaalde in punt a) vallen, wanneer de in bijlage XIV vermelde drempels op het grondgebied van de EVA-Staten zijn bereikt overeenkomstig de Protocollen 21 en 24 en bijlage XIV, zulks onverminderd de bevoegdheden van de Lid-Staten van de EG.
 
-#### Artikel 58
+##### Artikel 58
 
 De bevoegde autoriteiten werken samen overeenkomstig het bepaalde in de Protocollen 23 en 24, met het oog op de omwikkeling en het behoud van een uniform toezichtbeleid in de gehele Europese Economische Ruimte op het gebied van de mededinging en met het oog op de bevordering van een homogene tenuitvoerlegging, toepassing en interpretatie van de daartoe strekkende bepalingen van deze Overeenkomst.
 
-#### Artikel 59
+##### Artikel 59
 
 1. De overeenkomstsluitende partijen zien erop toe dat met betrekking tot de openbare bedrijven en de ondernemingen waaraan de Lid-Staten van de EG of de EVA-Staten bijzondere of uitsluitende rechten verlenen, geen enkele maatregel wordt vastgesteld of gehandhaafd welke in strijd is met de regels van deze Overeenkomst, met name die bedoeld in de artikelen 4 en 53 tot en met 63.
 
@@ -590,13 +615,13 @@ De bevoegde autoriteiten werken samen overeenkomstig het bepaalde in de Protocol
 
 3. De Commissie van de EG en de Toezichthoudende Autoriteit van de EVA waken binnen het kader van hun respectieve bevoegdheden over de toepassing van dit artikel en treffen, voor zover nodig, passende maatregelen ten aanzien van de staten binnen hun onderscheiden rechtsgebied.
 
-#### Artikel 60
+##### Artikel 60
 
 Bijlage XIV bevat specifieke bepalingen ter uitvoering van de beginselen neergelegd in de artikelen 53, 54, 57 en 59.
 
 ### HOOFDSTUK 2. STEUNMAATREGELEN VAN DE STATEN
 
-#### Artikel 61
+##### Artikel 61
 
 1. Behoudens de afwijkingen waarin deze Overeenkomst voorziet, zijn steunmaatregelen van de Lid-Staten van de EG, de EVA-Staten of in welke vorm ook met staatsmiddelen bekostigd, die de mededinging door begunstiging van bepaalde ondernemingen of bepaalde produkties vervalsen of dreigen te vervalsen, onverenigbaar met de werking van deze Overeenkomst, voor zover deze steun het handelsverkeer tussen de overeenkomstsluitende partijen ongunstig beïnvloedt.
 
@@ -618,7 +643,7 @@ Bijlage XIV bevat specifieke bepalingen ter uitvoering van de beginselen neergel
 
 - d). andere soorten van steunmaatregelen aangewezen door het Gemengd Comité van de EER overeenkomstig deel VII.
 
-#### Artikel 62
+##### Artikel 62
 
 1. Op het grondgebied van de overeenkomstsluitende partijen worden alle bestaande regelingen inzake overheidssteun en alle plannen om overheidssteun te verlenen of te wijzigen voortdurend onderzocht op hun verenigbaarheid met artikel 61. Dit onderzoek wordt uitgevoerd:
 
@@ -628,11 +653,11 @@ Bijlage XIV bevat specifieke bepalingen ter uitvoering van de beginselen neergel
 
 2. Met het oog op een uniform toezichtbeleid op het gebied van overheidssteun op het gehele door deze Overeenkomst bestreken grondgebied werken de Commissie van de EG en de Toezichthoudende Autoriteit van de EVA samen overeenkomstig het bepaalde in Protocol 27.
 
-#### Artikel 63
+##### Artikel 63
 
 Bijlage XV bevat specifieke bepalingen inzake overheidssteun.
 
-#### Artikel 64
+##### Artikel 64
 
 1. Indien een van de toezichthoudende autoriteiten van oordeel is dat de tenuitvoerlegging door de andere toezichthoudende autoriteit van de artikelen 61 en 62 van deze Overeenkomst en van artikel 5 van Protocol 14 niet in overeenstemming is met de handhaving van gelijke mededingingsvoorwaarden op het door deze Overeenkomst bestreken grondgebied, wordt daarover overeenkomstig de procedure van Protocol 27, punt f), binnen twee weken van gedachten gewisseld.
 
@@ -646,7 +671,7 @@ Indien het Gemengd Comité van de EER binnen drie maanden geen oplossing heeft k
 
 ### HOOFDSTUK 3. VERDERE GEMEENSCHAPPELIJKE REGELS
 
-#### Artikel 65
+##### Artikel 65
 
 1. Bijlage XVI bevat specifieke bepalingen en regelingen betreffende aanbestedingen die, tenzij anders bepaald, op alle vermelde produkten en diensten van toepassing zijn.
 
@@ -656,21 +681,21 @@ Indien het Gemengd Comité van de EER binnen drie maanden geen oplossing heeft k
 
 ### HOOFDSTUK 1. SOCIAAL BELEID
 
-#### Artikel 66
+##### Artikel 66
 
 De overeenkomstsluitende partijen erkennen de noodzaak, verbetering van de levensstandaard en de arbeidsvoorwaarden van de werknemers te bevorderen.
 
-#### Artikel 67
+##### Artikel 67
 
 1. De overeenkomstsluitende partijen beijveren zich om de verbetering van met name het arbeidsmilieu te bevorderen ten einde de gezondheid en de veiligheid van de werknemers te beschermen. Om dit doel te bereiken worden geleidelijk minimumeisen ingevoerd met inachtneming van de in elk van de overeenkomstsluitende partijen bestaande omstandigheden en technische voorschriften. Dergelijke minimumeisen beletten niet dat een overeenkomstsluitende partij maatregelen voor een hogere graad van bescherming van de arbeidsvoorwaarden handhaaft en treft welke met deze Overeenkomst verenigbaar zijn.
 
 2. Bijlage XVIII bevat de als de in lid I genoemde minimumeisen in te voeren bepalingen.
 
-#### Artikel 68
+##### Artikel 68
 
 De overeenkomstsluitende partijen treffen op het gebied van het arbeidsrecht de maatregelen die noodzakelijk zijn om de goede werking van deze Overeenkomst te waarborgen. Deze maatregelen zijn opgenomen in bijlage XVIII.
 
-#### Artikel 69
+##### Artikel 69
 
 1. Elke overeenkomstsluitende partij verzekert en handhaaft de toepassing van het beginsel van gelijke beloning voor mannelijke en vrouwelijke werknemers voor gelijke arbeid.
 
@@ -684,23 +709,23 @@ Gelijkheid van beloning zonder onderscheid naar kunne houdt in :
 
 2. Bijlage XVIII bevat specifieke bepalingen voor de tenuitvoerlegging van lid 1.
 
-#### Artikel 70
+##### Artikel 70
 
 De overeenkomstsluitende partijen bevorderen het beginsel van gelijke behandeling van mannelijke en vrouwelijke werknemers via de tenuitvoerlegging van de in bijlage XVIII opgenomen bepalingen.
 
-#### Artikel 71
+##### Artikel 71
 
 De overeenkomstsluitende partijen beijveren zich de dialoog tussen de sociale partners op Europees niveau te bevorderen.
 
 ### HOOFDSTUK 2. BESCHERMING VAN DE CONSUMENT
 
-#### Artikel 72
+##### Artikel 72
 
 Bijlage XIX bevat bepalingen inzake de bescherming van de consument.
 
 ### HOOFDSTUK 3. HET MILIEU
 
-#### Artikel 73
+##### Artikel 73
 
 1. Het optreden van de overeenkomstsluitende partijen op milieugebied heeft tot doel :
 
@@ -712,17 +737,17 @@ Bijlage XIX bevat bepalingen inzake de bescherming van de consument.
 
 2. Het optreden van de overeenkomstsluitende partijen op milieugebied berust op de beginselen van preventief handelen, bestrijding van milieu-aantastingen bij voorrang aan de bron en het beginsel dat de vervuiler betaalt. De eisen terzake van milieubescherming vormen een bestanddeel van de andere takken van beleid van de overeenkomstsluitende partijen
 
-#### Artikel 74
+##### Artikel 74
 
 Bijlage XX bevat de specifieke bepalingen inzake beschermende maatregelen die overeenkomstig artikel 73 van toepassing zijn.
 
-#### Artikel 75
+##### Artikel 75
 
 De in artikel 74 bedoelde beschermende maatregelen beletten niet dat een overeenkomstsluitende partij maatregelen voor een verdergaande bescherming handhaaft en treft welke met deze Overeenkomst verenigbaar zijn.
 
 ### HOOFDSTUK 4. STATISTIEKEN
 
-#### Artikel 76
+##### Artikel 76
 
 1. De overeenkomstsluitende partijen zorgen voor de produktie en verspreiding van samenhangende en vergelijkbare statistische informatie voor het beschrijven en volgen van alle ter zake doende economische, sociale en milieu-aspecten van de Europese Economische Ruimte.
 
@@ -734,13 +759,13 @@ De in artikel 74 bedoelde beschermende maatregelen beletten niet dat een overeen
 
 ### HOOFDSTUK 5. VENNOOTSCHAPSRECHT
 
-#### Artikel 77
+##### Artikel 77
 
 Bijlage XXII bevat specifieke bepalingen inzake het vennootschapsrecht.
 
 ## DEEL VI. SAMENWERKING BUITEN HET KADER VAN DE VIER VRIJHEDEN
 
-#### Artikel 78
+##### Artikel 78
 
 De overeenkomstsluitende partijen versterken en verbreden de samenwerking in het kader van de werkzaamheden van de Gemeenschap op het gebied van :
 
@@ -766,7 +791,7 @@ De overeenkomstsluitende partijen versterken en verbreden de samenwerking in het
 
 voor zover deze onderwerpen niet in andere delen van deze Overeenkomst worden geregeld.
 
-#### Artikel 79
+##### Artikel 79
 
 1. De overeenkomstsluitende partijen stellen alles in het werk, met name via de in deel VII vastgestelde procedures, om hun dialoog te versterken ten einde te bepalen op welke terreinen en voor welke werkzaamheden nauwere samenwerking zou kunnen bijdragen tot de verwezenlijking van hun gemeenschappelijke doelstellingen op de in artikel 78 genoemde gebieden.
 
@@ -774,7 +799,7 @@ voor zover deze onderwerpen niet in andere delen van deze Overeenkomst worden ge
 
 3. Deel VII is mutatis mutandis van toepassing op het onderhavige deel, wanneer zulks in laatstgenoemd deel of Protocol 31 speciaal wordt bepaald.
 
-#### Artikel 80
+##### Artikel 80
 
 De in artikel 78 bedoelde samenwerking vindt normaliter in een van de volgende vormen plaats:
 
@@ -790,7 +815,7 @@ De in artikel 78 bedoelde samenwerking vindt normaliter in een van de volgende v
 
 - -. coördinatie van inspanningen en activiteiten, wanneer zulks van wederzijds belang is, via of in het kader van internationale organisaties en van samenwerking met derde landen.
 
-#### Artikel 81
+##### Artikel 81
 
 Wanneer de samenwerking de vorm aanneemt van deelneming door EVA-Staten in een communautair kaderprogramma, specifiek programma, project of andere actie, zijn de volgende beginselen van toepassing :
 
@@ -806,7 +831,7 @@ Wanneer de samenwerking de vorm aanneemt van deelneming door EVA-Staten in een c
 
 - f). De overeenkomstsluitende partijen verbinden zich ertoe om, in overeenstemming met hun onderscheiden voorschriften en regelingen, het verkeer van deelnemers aan het programma of een andere actie in de mate waarin zulks noodzakelijk is te vergemakkelijken.
 
-#### Artikel 82
+##### Artikel 82
 
 1. Wanneer de samenwerking in het kader van dit deel een financiële deelneming van de EVA-Staten omvat, vindt die deelneming in een van de volgende vormen plaats :
 
@@ -822,27 +847,27 @@ Wanneer de samenwerking de vorm aanneemt van deelneming door EVA-Staten in een c
 
 2. Protocol 32 bevat de nadere bepalingen voor de tenuitvoerlegging van dit artikel.
 
-#### Artikel 83
+##### Artikel 83
 
 Wanneer de samenwerking de vorm van een uitwisseling van informatie tussen overheidsinstanties aanneemt, hebben de EVA-Staten dezelfde rechten om informatie te ontvangen en verplichtingen om informatie te verstrekken als de Lid-Staten van de EG, op voorwaarde dat wordt voldaan aan de eisen van vertrouwelijkheid die door het Gemengd Comité van de EER worden vastgesteld.
 
-#### Artikel 84
+##### Artikel 84
 
 Protocol 31 bevat bepalingen inzake samenwerking op bepaalde specifieke terreinen.
 
-#### Artikel 85
+##### Artikel 85
 
 Tenzij anders bepaald in Protocol 31 gelden voor op de datum van inwerkingtreding van deze Overeenkomst reeds tussen de Gemeenschap en afzonderlijke EVA-Staten bestaande samenwerking op de in artikel 78 vermelde gebieden na die datum de desbetreffende bepalingen van het onderhavige deel en van Protocol 31.
 
-#### Artikel 86
+##### Artikel 86
 
 Het Gemengd Comité van de EER geeft overeenkomstig deel VII alle beschikkingen die nodig zijn voor de tenuitvoerlegging van de artikelen 78 tot en met 85 en de daaruit voortvloeiende maatregelen, zoals bij voorbeeld het aanvullen en wijzigen van de bepalingen van Protocol 31 alsmede het invoeren van de overgangsregelingen die voor de tenuitvoerlegging van artikel 85 nodig zijn.
 
-#### Artikel 87
+##### Artikel 87
 
 De overeenkomstsluitende partijen doen het nodige om de samenwerking in het kader van de activiteiten van de Gemeenschap op niet in artikel 78 vermelde terreinen te ontwikkelen, te versterken of te verbreden, wanneer een dergelijke samenwerking wordt geacht een bijdrage te leveren aan de doelstellingen van deze Overeenkomst of anderszins door de overeenkomstsluitende partijen van wederzijds belang wordt geoordeeld. Dit kan ertoe leiden dat aan de in artikel 78 vermelde terreinen nieuwe terreinen worden toegevoegd.
 
-#### Artikel 88
+##### Artikel 88
 
 Onverminderd het bepaalde in andere delen van deze Overeenkomst beletten de bepalingen van dit deel overeenkomstsluitende partijen niet om zelfstandig maatregelen uit te werken, aan te nemen en ten uitvoer te leggen.
 
@@ -852,7 +877,7 @@ Onverminderd het bepaalde in andere delen van deze Overeenkomst beletten de bepa
 
 ### Afdeling 1. De EER-Raad
 
-#### Artikel 89
+##### Artikel 89
 
 1. Er wordt een EER-Raad ingesteld die met name verantwoordelijk is voor het geven van de politieke impulsen bij de tenuitvoerlegging van deze Overeenkomst en het vaststellen van de algemene richtsnoeren voor het Gemengd Comité van de EER.
 
@@ -862,7 +887,7 @@ Daartoe beoordeelt de EER-Raad de algemene werking en de ontwikkeling van de Ove
 
 3. De EER-Raad stelt zijn reglement van orde vast.
 
-#### Artikel 90
+##### Artikel 90
 
 1. De EER-Raad bestaat uit de leden van de Raad van de Europese Gemeenschappen en leden van de Commissie van de EG en een lid van de regering van elk van de EVA-Staten.
 
@@ -870,7 +895,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 2. De EER-Raad geeft beschikkingen op basis van overeenstemming tussen de Gemeenschap enerzijds en de EVA-Staten anderzijds.
 
-#### Artikel 91
+##### Artikel 91
 
 1. Het voorzitterschap van de EER-Raad wordt afwisselend voor een periode van zes maanden uitgeoefend door een lid van de Raad van de Europese Gemeenschappen en een lid van de regering van een EVA-Staat.
 
@@ -878,7 +903,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 ### Afdeling 2. Het Gemengd Comité van de EER
 
-#### Artikel 92
+##### Artikel 92
 
 1. Er wordt een Gemengd Comité van de EER ingesteld, dat de daadwerkelijke tenuitvoerlegging en werking van de Overeenkomst verzekert. Daartoe wisselt het denkbeelden en informatie uit en neemt het in de gevallen waarin deze Overeenkomst voorziet besluiten.
 
@@ -886,13 +911,13 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 3. Het Gemengd Comité van de EER stelt zijn reglement van orde vast.
 
-#### Artikel 93
+##### Artikel 93
 
 1. Het Gemengd Comité van de EER bestaat uit vertegenwoordigers van de overeenkomstsluitende partijen.
 
 2. Het Gemengd Comité van de EER geeft beschikkingen op basis van overeenstemming tussen de Gemeenschap enerzijds en de met één stem sprekende EVA-Staten anderzijds.
 
-#### Artikel 94
+##### Artikel 94
 
 1. Het voorzitterschap van het Gemengd Comité van de EER wordt afwisselend voor een periode van zes maanden uitgeoefend door de vertegenwoordiger van de Gemeenschap, in casu de Commissie, en de vertegenwoordiger van een van de EVA-Staten.
 
@@ -904,7 +929,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 ### Afdeling 3. Parlementaire samenwerking
 
-#### Artikel 95
+##### Artikel 95
 
 1. Er wordt een Gemengd Parlementair Comité van de EER ingesteld dat bestaat uit gelijke aantallen leden van het Europese Parlement enerzijds en de parlementen van de EVA-Staten anderzijds. Het totale aantal leden van het Comité is neergelegd in de Statuten in Protocol 36.
 
@@ -920,7 +945,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 ### Afdeling 4. Samenwerking tussen de economische en sociale partners
 
-#### Artikel 96
+##### Artikel 96
 
 1. De leden van het Economisch en Sociaal Comité en andere organen die de sociale partners in de Gemeenschap vertegenwoordigen en de overeenkomstige organen in de EVA-Staten beijveren zich om hun onderlinge contacten te versterken en georganiseerd en regelmatig samen te werken ten einde de bewustwording van de economische en sociale aspecten van de groeiende verstrengeling van de economieën en de belangen van de overeenkomstsluitende partijen in het kader van de EER te verhogen.
 
@@ -930,7 +955,7 @@ De leden van de EER-Raad kunnen worden vertegenwoordigd overeenkomstig de in zij
 
 ### HOOFDSTUK 2. DE BESLUITVORMINGSPROCEDURE
 
-#### Artikel 97
+##### Artikel 97
 
 Deze Overeenkomst doet geen afbreuk aan het recht van elke overeenkomstsluitende partij om, onverminderd het beginsel van non-discriminatie en na de overige overeenkomstsluitende partijen te hebben ingelicht, haar interne wetgeving op de door de Overeenkomst bestreken gebieden te wijzigen :
 
@@ -938,11 +963,11 @@ Deze Overeenkomst doet geen afbreuk aan het recht van elke overeenkomstsluitende
 
 - -. indien de in artikel 98 bedoelde procedures zijn afgerond.
 
-#### Artikel 98
+##### Artikel 98
 
 De bijlagen bij deze Overeenkomst en de Protocollen 1 tot en met 7, 9, 10, 11, 19 tot en met 27, 30, 31, 32, 37, 39, 41 en 47, kunnen bij besluit van het Gemengd Comité van de EER overeenkomstig de artikelen 93, lid 2, 99, 100, 102 en 103 worden gewijzigd.
 
-#### Artikel 99
+##### Artikel 99
 
 1. Zodra er door de Commissie van de EG nieuwe wetgeving wordt voorbereid op een terrein waarop deze Overeenkomst van toepassing is, wint de Commissie van de EG informeel advies in bij deskundigen uit de EVA-Staten op dezelfde wijze als zij voor de uitwerking van haar voorstellen advies inwint bij deskundigen uit de Lid-Staten van de Gemeenschap.
 
@@ -954,13 +979,13 @@ Op verzoek van een van de overeenkomstsluitende partijen vindt er in het Gemengd
 
 4. De overeenkomstsluitende partijen werken in de informatie- en overlegfase te goeder trouw samen met het uiteindelijke oogmerk de besluitvorming in het Gemengd Comité van de EER te vergemakkelijken.
 
-#### Artikel 100
+##### Artikel 100
 
 De Commissie van de EG zorgt, naargelang de betrokken terreinen, voor een zo ruim mogelijke deelneming van deskundigen van de EVA-Staten in de voorbereidende fase van ontwerp-maatregelen die vervolgens worden voorgelegd aan de commissies die de Commissie bijstaan bij de uitoefening van haar uitvoerende bevoegdheden. Bij de uitwerking van ontwerp-maatregelen worden deskundigen van de EVA-Staten dan ook in dezelfde mate door de Commissie ingeschakeld als deskundigen van de Lid-Staten van de EG.
 
 In de gevallen waarin voornoemde maatregelen overeenkomstig de procedure die past bij het soort ingeschakelde commissie, aan de Raad worden voorgelegd, deelt de Commissie van de EG de standpunten van de deskundigen van de EVA-Staten aan de Raad van de Europese Gemeenschappen mee.
 
-#### Artikel 101
+##### Artikel 101
 
 1. Wat de commissies betreft die noch onder artikel 81 noch onder artikel 100 vallen, worden deskundigen uit de EVA-Staten ingeschakeld bij de werkzaamheden wanneer de goede werking van deze Overeenkomst zulks vereist.
 
@@ -968,7 +993,7 @@ Bedoelde commissies zijn vermeld in Protocol 37. De wijze van uitvoering van dez
 
 2. Indien de overeenkomstsluitende partijen tot de conclusie komen dat een dergelijke samenwerking tot andere commissies met soortgelijke kenmerken moet worden uitgebreid, kan het Gemengd Comité van de EER Protocol 37 wijzigen.
 
-#### Artikel 102
+##### Artikel 102
 
 1. Ten einde de rechtszekerheid en de homogeniteit van de EER te waarborgen, laat het Gemengd Comité van de EER zo min mogelijk tijd verstrijken tussen zijn besluit betreffende een wijziging van een bijlage bij deze Overeenkomst en de aanneming door de Gemeenschap van de overeenkomstige nieuwe communautaire wetgeving met het oog op gelijktijdige toepassing van de communautaire wetgeving en de wijzigingen van de bijlagen bij de Overeenkomst. Met het oog hierop stelt de Gemeenschap, wanneer zij wetgeving aanneemt betreffende een onderwerp dat door deze Overeenkomst wordt geregeld, de overige overeenkomstsluitende partijen in het Gemengd Comité van de EER hiervan zo spoedig mogelijk op de hoogte.
 
@@ -984,7 +1009,7 @@ Het Gemengd Comité van de EER doet met name het nodige om een voor beide partij
 
 6. De praktische gevolgen van de in lid 5 bedoelde schorsing worden in het Gemengd Comité van de EER besproken. De rechten en verplichtingen van personen en ondernemingen krachtens deze Overeenkomst, blijven onverlet. De overeenkomstsluitende partijen besluiten welke aanpassingen in verband met de schorsing noodzakelijk zijn.
 
-#### Artikel 103
+##### Artikel 103
 
 1. Indien een besluit van het Gemengd Comité van de EER voor een overeenkomstsluitende partij slechts verbindend is nadat aan grondwettelijke eisen is voldaan, treedt dat besluit, indien het een datum bevat, op die datum in werking, mits de betrokken overeenkomstsluitende partij de andere overeenkomstsluitende partijen vóór die datum ervan in kennis heeft gesteld dat aan de grondwettelijke eisen is voldaan.
 
@@ -992,7 +1017,7 @@ Bij ontbreken van een dergelijke kennisgeving vóór die datum treedt het beslui
 
 2. Indien een dergelijke kennisgeving bij het verstrijken van een termijn van zes maanden na het besluit van het Gemengd Comité van de EER niet heeft plaatsgevonden, wordt het besluit van het Gemengd Comité van de EER voorlopig ten uitvoer gelegd totdat is voldaan aan de grondwettelijke eisen, tenzij een overeenkomstsluitende partij te kennen geeft dat voorlopige toepassing niet plaats kan vinden. In laatstgenoemd geval of indien een overeenkomstsluitende partij kennis geeft van de niet-bekrachtiging van een besluit van het Gemengd Comité van de EER, wordt de in artikel 102, lid 5, bedoelde schorsing één maand na een dergelijke kennisgeving van kracht, maar in geen geval vóór het tijdstip waarop het overeenkomstige EG-besluit in de Gemeenschap ten uitvoer wordt gelegd.
 
-#### Artikel 104
+##### Artikel 104
 
 Door het Gemengd Comité van de EER genomen besluiten in de gevallen waarin deze Overeenkomst voorziet, zijn, tenzij daarin anders wordt bepaald, vanaf hun inwerkingtreding verbindend voor de overeenkomstsluitende partijen, die de nodige maatregelen nemen om hun tenuitvoerlegging en toepassing te verzekeren.
 
@@ -1000,7 +1025,7 @@ Door het Gemengd Comité van de EER genomen besluiten in de gevallen waarin deze
 
 ### Afdeling I. Homogeniteit
 
-#### Artikel 105
+##### Artikel 105
 
 1. Met het oog op de verwezenlijking van het streven van de overeenkomstsluitende partijen om te komen tot een zo uniform mogelijke uitlegging van de bepalingen van de Overeenkomst en van die bepalingen van de communautaire wetgeving die in essentie in de Overeenkomst zijn overgenomen, handelt het Gemengd Comité van de EER overeenkomstig dit artikel.
 
@@ -1008,7 +1033,7 @@ Door het Gemengd Comité van de EER genomen besluiten in de gevallen waarin deze
 
 3. Is het Gemengd Comité van de EER, binnen twee maanden nadat het in kennis is gesteld van een verschil in jurisprudentie van beide hoven, er niet in geslaagd de homogene uitlegging van de Overeenkomst te handhaven, dan kunnen de procedures van artikel 111 worden toegepast.
 
-#### Artikel 106
+##### Artikel 106
 
 Ten einde te komen tot een zo uniform mogelijke uitlegging van deze Overeenkomst, met volledige eerbiediging van de onafhankelijkheid van de rechterlijke instanties, stelt het Gemengd Comité van de EER een systeem in voor de uitwisseling van informatie betreffende de beslissingen van het EVA-Hof. het Hof van Justitie van de Europese Gemeenschappen, het Gerecht van Eerste Aanleg van de Europese Gemeenschappen en de rechterlijke instanties van de EVA-Staten die in laatste aanleg uitspraak doen. Dit systeem omvat :
 
@@ -1018,13 +1043,13 @@ Ten einde te komen tot een zo uniform mogelijke uitlegging van deze Overeenkomst
 
 - c). toezending, door de Griffier van het Hof van Justitie van de Europese Gemeenschappen, van de documentatie aan de door elke overeenkomstsluitende partij aan te wijzen bevoegde nationale instanties.
 
-#### Artikel 107
+##### Artikel 107
 
 Protocol 34 bepaalt hoe een EVA-Staat een rechterlijke instantie kan toestaan het Hof van Justitie van de Europese Gemeenschappen te verzoeken een uitspraak te doen over de uitlegging van een EER-regel.
 
 ### Afdeling 2. Toezichtprocedure
 
-#### Artikel 108
+##### Artikel 108
 
 1. De EVA-Staten stellen een onafhankelijke toezichthoudende autoriteit in (de Toezichthoudende Autoriteit van de EVA) alsmede soortgelijke procedures als die welke in de Gemeenschap bestaan, met inbegrip van procedures voor de naleving van de verplichtingen krachtens deze Overeenkomst en voor de toetsing van de wettigheid van handelingen van de Toezichthoudende Autoriteit van de EVA op het gebied van de mededinging.
 
@@ -1038,7 +1063,7 @@ In overeenstemming met een afzonderlijke overeenkomst tussen de EVA-Staten in ve
 
 - c). de beslechting van geschillen tussen twee of meer EVA-Staten.
 
-#### Artikel 109
+##### Artikel 109
 
 1. Op de naleving van de verplichtingen krachtens deze Overeenkomst wordt toegezien door enerzijds de Toezichthoudende Autoriteit van de EVA en anderzijds de Commissie van de EG, die handelt in overeenstemming met het Verdrag tot oprichting van de Europese Economische Gemeenschap, en deze Overeenkomst.
 
@@ -1050,7 +1075,7 @@ In overeenstemming met een afzonderlijke overeenkomst tussen de EVA-Staten in ve
 
 5. Bij onenigheid tussen deze twee organen over de maatregelen die in verband met een klacht of met het resultaat van het onderzoek moeten worden genomen, kan elk van deze organen de zaak voorleggen aan het Gemengd Comité van de EER, dat overeenkomstig artikel 111 optreedt.
 
-#### Artikel 110
+##### Artikel 110
 
 De krachtens deze Overeenkomst door de Toezichthoudende Autoriteit van de EVA en de Commissie van de EG genomen beschikkingen welke voor natuurlijke of rechtspersonen met uitzondering van de staten een geldelijke verplichting inhouden, vormen executoriale titel. Hetzelfde geldt voor krachtens deze Overeenkomst gedane soortgelijke uitspraken van het Hof van Justitie van de Europese Gemeenschappen, het Gerecht van Eerste Aanleg van de Europese Gemeenschappen en het EVA-Hof.
 
@@ -1062,7 +1087,7 @@ De tenuitvoerlegging kan alleen worden geschorst krachtens een beschikking van h
 
 ### Afdeling 3. Beslechting van geschillen
 
-#### Artikel 111
+##### Artikel 111
 
 1. Geschillen betreffende de uitlegging of de toepassing van deze Overeenkomst kunnen door de Gemeenschap of een EVA-Staat overeenkomstig de volgende bepalingen aan het Gemengd Comité van de EER worden voorgelegd.
 
@@ -1080,7 +1105,7 @@ Indien het Gemengd Comité van de EER in een dergelijk geschil geen oplossing be
 
 ### HOOFDSTUK 4. VRIJWARINGSMAATREGELEN
 
-#### Artikel 112
+##### Artikel 112
 
 1. Indien er mogelijk aanhoudende ernstige economische, maatschappelijke of met het milieu verband houdende moeilijkheden van sectoriële of regionale aard rijzen, mag een overeenkomstsluitende partij overeenkomstig de in artikel 113 vastgestelde voorwaarden en procedures unilateraal passende maatregelen treffen.
 
@@ -1088,7 +1113,7 @@ Indien het Gemengd Comité van de EER in een dergelijk geschil geen oplossing be
 
 3. De vrijwaringsmaatregelen zijn ten aanzien van alle overeenkomstsluitende partijen van toepassing.
 
-#### Artikel 113
+##### Artikel 113
 
 1. Een overeenkomstsluitende partij die overweegt vrijwaringsmaatregelen overeenkomstig artikel 112 te treffen, stelt de overige overeenkomstsluitende partijen hiervan onverwijld via het Gemengd Comité van de EER in kennis en verstrekt alle relevante inlichtingen.
 
@@ -1104,7 +1129,7 @@ Voor de Gemeenschap neemt de EG-Commissie het initiatief tot de vrijwaringsmaatr
 
 Elke overeenkomstsluitende partij kan het Gemengd Comité van de EER te allen tijde om herziening van de maatregelen verzoeken.
 
-#### Artikel 114
+##### Artikel 114
 
 1. Indien een vrijwaringsmaatregel van een overeenkomstsluitende partij het evenwicht tussen de uit deze Overeenkomst voortvloeiende rechten en verplichtingen verstoort, kan elke andere overeenkomstsluitende partij ten aanzien van die partij de strikt noodzakelijke evenredige maatregelen nemen om het evenwicht te herstellen. Voorrang wordt gegeven aan maatregelen die de werking van de EER zo weinig mogelijk verstoren.
 
@@ -1112,21 +1137,21 @@ Elke overeenkomstsluitende partij kan het Gemengd Comité van de EER te allen ti
 
 ## DEEL VIII. FINANCIEEL MECHANISME
 
-#### Artikel 115
+##### Artikel 115
 
 De overeenkomstsluitende partijen zijn het erover eens dat met het oog op de bevordering van een gestadige en evenwichtige versterking van hun handel en hun economische betrekkingen, zoals bepaald in artikel 1, de economische en sociale verschillen tussen hun regio's moeten worden teruggedrongen. Zij wijzen in dit verband op de elders in deze Overeenkomst en de daarbij behorende protocollen vastgestelde desbetreffende bepalingen, inclusief sommige betreffende landbouw en visserij.
 
-#### Artikel 116
+##### Artikel 116
 
 De EVA-Staten stellen een financieel mechanisme in om in het kader van de EER en in aanvulling op de stappen die de Gemeenschap in dezen reeds heeft gezet bij te dragen tot de in artikel 115 vastgestelde doelstellingen.
 
-#### Artikel 117
+##### Artikel 117
 
 Protocol 38, Protocol 38 bis, het addendum bij Protocol 38 bis, Protocol 38 ter en het addendum bij Protocol 38 ter bevatten bepalingen betreffende het financieel mechanisme.
 
 ## DEEL IX. ALGEMENE EN SLOTBEPALINGEN
 
-#### Artikel 118
+##### Artikel 118
 
 1. Wanneer een overeenkomstsluitende partij meent dat het in het belang van alle overeenkomstsluitende partijen nuttig zou zijn de bij deze Overeenkomst tot stand gebrachte betrekkingen verder te ontwikkelen door ze uit te breiden tot niet door de Overeenkomst bestreken gebieden, legt zij daartoe in de EER-Raad een met redenen omkleed verzoek voor aan de overige overeenkomstsluitende partijen. De EER-Raad kan het Gemengd Comité van de EER opdracht geven alle aspecten van dit verzoek te onderzoeken en een verslag te publiceren.
 
@@ -1134,15 +1159,15 @@ De EER-Raad kan in voorkomend geval de politieke besluiten nemen met het oog op 
 
 2. De uit de in lid 1 bedoelde onderhandelingen voortvloeiende overeenkomsten moeten door de overeenkomstsluitende partijen overeenkomstig hun eigen procedures worden bekrachtigd of goedgekeurd.
 
-#### Artikel 119
+##### Artikel 119
 
 De bijlagen en de daarin vermelde besluiten, zoals aangepast voor de toepassing van deze Overeenkomst, en de protocollen vormen een integrerend bestanddeel van deze Overeenkomst.
 
-#### Artikel 120
+##### Artikel 120
 
 Tenzij anders wordt bepaald in deze Overeenkomst en met name in de Protocollen 41, en 43, hebben de bepalingen van de onderhavige Overeenkomst voorrang boven de bepalingen in bestaande bilaterale of multilaterale overeenkomsten tussen de Europese Economische Gemeenschap enerzijds en één of meerdere EVA-Staten anderzijds, voor zover de onderhavige Overeenkomst dezelfde onderwerpen regelt.
 
-#### Artikel 121
+##### Artikel 121
 
 De bepalingen van deze Overeenkomst vormen geen beletsel voor samenwerking :
 
@@ -1150,11 +1175,11 @@ De bepalingen van deze Overeenkomst vormen geen beletsel voor samenwerking :
 
 - b). in het kader van de regionale unie tussen Zwitserland en Liechtenstein, voor zover de doelstellingen van die unie niet door de uitvoering van deze Overeenkomst worden bereikt en de goede werking van de Overeenkomst niet wordt geschaad ;
 
-#### Artikel 122
+##### Artikel 122
 
 De vertegenwoordigers, afgevaardigden en deskundigen van de overeenkomstsluitende partijen alsmede de ambtenaren en andere personeelsleden die bij deze Overeenkomst zijn betrokken, mogen, ook nadat zij hun taken hebben beëindigd, geen ruchtbaarheid geven aan inlichtingen, die krachtens hun aard zijn onderworpen aan het beroepsgeheim en met name aan inlichtingen betreffende ondernemingen, hun handelsbetrekkingen of de elementen van hun kostprijs.
 
-#### Artikel 123
+##### Artikel 123
 
 Niets in deze Overeenkomst verhindert een overeenkomstsluitende partij maatregelen te treffen :
 
@@ -1164,15 +1189,15 @@ Niets in deze Overeenkomst verhindert een overeenkomstsluitende partij maatregel
 
 - c). die zij noodzakelijk acht voor haar eigen veiligheid in geval van ernstige binnenlandse onlusten waardoor de openbare orde wordt verstoord, in geval van oorlog of van een ernstige internationale spanning welke oorlogsgevaar inhoudt, of om te voldoen aan de verplichtingen die zij met het oog op het behoud van de vrede en van de internationale veiligheid heeft aangegaan.
 
-#### Artikel 124
+##### Artikel 124
 
 De overeenkomstsluitende partijen verlenen nationale behandeling wat betreft financiële deelneming door de onderdanen van de Lid-Staten van de EG en de EVA-Staten in het kapitaal van rechtspersonen in de zin van artikel 34, onverminderd de toepassing van de overige bepalingen van deze Overeenkomst.
 
-#### Artikel 125
+##### Artikel 125
 
 Deze Overeenkomst laat de regeling van het eigendomsrecht van de overeenkomstsluitende partijen onverlet.
 
-#### Artikel 126
+##### Artikel 126
 
 1. De Overeenkomst is van toepassing op de gebieden waar het Verdrag tot oprichting van de Europese Economische Gemeenschap van toepassing is en onder de in dat Verdrag neergelegde voorwaarden en op de grondgebieden van IJsland, het Vorstendom Liechtenstein en het Koninkrijk Noorwegen.
 
@@ -1188,19 +1213,19 @@ Deze Overeenkomst laat de regeling van het eigendomsrecht van de overeenkomstslu
 
 - c). De autoriteiten van de Ålandeilanden behandelen alle natuurlijke en rechtspersonen van de overeenkomstsluitende partijen op gelijke voet.
 
-#### Artikel 127
+##### Artikel 127
 
 Elke overeenkomstsluitende partij kan deze Overeenkomst opzeggen, mits zij daarvan ten minste twaalf maanden tevoren schriftelijk kennis geeft aan de overige overeenkomstsluitende partijen.
 
 Onmiddellijk na de kennisgeving van de voorgenomen opzegging, roepen de overige overeenkomstsluitende partijen een diplomatieke conferentie bijeen ten einde te bezien welke wijzigingen in de Overeenkomst moeten worden aangebracht.
 
-#### Artikel 128
+##### Artikel 128
 
 1. Elke Europese Staat die tot de Gemeenschap toetreedt, moet, en de Zwitserse Bondsstaat of elke Europese Staat die tot de EVA toetreedt, kan, vragen partij te worden bij deze Overeenkomst. Deze aanvragen wordt tot de EER-Raad gericht.
 
 2. De voorwaarden voor een dergelijk lidmaatschap worden vastgelegd in een overeenkomst tussen de overeenkomstsluitende partijen en de Staat die de aanvraag doet. Bedoelde overeenkomst behoeft bekrachtiging of goedkeuring door alle overeenkomstsluitende partijen overeenkomstig hun eigen procedures.
 
-#### Artikel 129
+##### Artikel 129
 
 1. Deze Overeenkomst wordt opgesteld in één exemplaar, in de Deense, de Duitse, de Engelse, de Finse, de Franse, de Griekse, de Italiaanse, de IJslandse, de Nederlandse, de Noorse, de Portugese, de Spaanse en de Zweedse taal. zijnde elk van deze teksten gelijkelijk authentiek.
 

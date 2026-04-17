@@ -1,14 +1,41 @@
 ---
-title: "Wet op de bedrijveninvesteringszones"
+title: "Wet van 19 november 2014, houdende regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones)"
 identifier: "BWBR0035933"
-categorie: "Overig"
-publicatiedatum: 2015-01-01
-laatste_update: 2015-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035933"
+country: "nl"
+rank: "wet"
+publication_date: "2015-01-01"
+last_updated: "2015-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035933"
+soort: "wet"
+stam_id: "12886453"
+version_id: "21911602"
+internal_id: "C31439371"
+label_id: "12855914"
+dtd_version: "2.0"
+original_entry_into_force: "2015-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035933/2015-01-01/0"
+intitule_bron: "Stb.2014-506"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-11-19"
+intitule_published: "2014-12-17"
+intitule_in_force: "2014-12-17"
+intitule_status: "goed"
+original_publication: "Stb.2014-506"
+original_signed_date: "2014-11-19"
+original_published_date: "2014-12-17"
+original_effect: "nieuwe-regeling"
+original_dossier: "33917"
+original_url_id: "stb-2014-506"
+entry_into_force_date: "2015-01-01"
+jci_1_3: "jci1.3:c:BWBR0035933&z=2015-01-01&g=2015-01-01"
+jci_1_0: "1.0:c:BWBR0035933&g=2015-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet op de bedrijveninvesteringszones"
+signed_date: "2014-11-19"
+entry_into_force: "2015-01-01"
 ---
-
-# Wet op de bedrijveninvesteringszones
+# Wet van 19 november 2014, houdende regels voor bedrijveninvesteringszones (Wet op de bedrijveninvesteringszones)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,7 +43,7 @@ Alzo Wij in overweging genomen hebben, dat uit evaluatie van de [Experimentenwet
 
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 1. De gemeenteraad kan onder de naam BIZ-bijdrage een belasting instellen ter zake van binnen een bepaald gebied in de gemeente (bedrijveninvesteringszone) gelegen onroerende zaken die niet in hoofdzaak tot woning dienen.
 
@@ -34,7 +61,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. De [artikelen 220a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220a), [220b](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220b), [220d](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220d), [220e](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220e) en [220h van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=220h) zijn van overeenkomstige toepassing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De heffingsmaatstaf van de BIZ-bijdrage is de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0007119&hoofdstuk=IV) voor de onroerende zaak vastgestelde waarde. De verordening kan bepalen dat de in het eerste jaar vastgestelde waarde ook voor één of meer jaren daarna van toepassing is.
 
@@ -50,13 +77,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 7. De [artikelen 230 tot en met 233a](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=230) en [236 tot en met 257 van de Gemeentewet](https://wetten.overheid.nl/jci1.3:c:BWBR0005416&artikel=236) en krachtens deze artikelen vastgestelde voorschriften zijn van overeenkomstige toepassing op de heffing en invordering van de BIZ-bijdrage.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een BIZ-bijdrage wordt ingesteld voor een periode van ten hoogste vijf jaren.
 
 2. Met overeenkomstige toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=4&z=2015-01-01&g=2015-01-01) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=5&z=2015-01-01&g=2015-01-01) kan de periode telkens met ten hoogste vijf jaren worden verlengd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De verordening waarbij de BIZ-bijdrage wordt ingesteld treedt niet in werking dan nadat gebleken is van voldoende steun onder de bijdrageplichtigen.
 
@@ -66,7 +93,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 4. Het college zorgt er voor dat de vertrouwelijkheid van de strekking van de schriftelijke verklaring van de bijdrageplichtige gewaarborgd is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Van voldoende steun is sprake indien na toepassing van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=4&z=2015-01-01&g=2015-01-01) blijkt dat:
 
@@ -84,7 +111,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - b. ten minste de helft van de gebruikers en ten minste de helft van de eigenaren zich vóór inwerkingtreding heeft uitgesproken.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De gemeenteraad besluit zo spoedig mogelijk over intrekking van de verordening indien hiervoor voldoende steun is bij bijdrageplichtigen.
 
@@ -102,7 +129,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 - b. dat in afwijking van [artikel 5, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0035933&artikel=5&z=2015-01-01&g=2015-01-01), reeds sprake is van voldoende steun voor intrekking indien ten minste de helft zich voor intrekking heeft uitgesproken.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De opbrengst van de BIZ-bijdrage wordt als subsidie verstrekt aan de bij de verordening aangewezen vereniging of stichting. De perceptiekosten kunnen hierop in mindering worden gebracht indien dit in de verordening is bepaald.
 
@@ -128,7 +155,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 5. De gemeenteraad en de bij de verordening aangewezen vereniging of stichting maken schriftelijke afspraken over het minimale niveau van dienstverlening van de gemeente voor de periode waarvoor de BIZ-bijdrage wordt ingesteld of verlengd.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De aangewezen vereniging of stichting zorgt er voor dat:
 
@@ -138,17 +165,17 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 2. De aangewezen vereniging of stichting zorgt er voor dat alle bijdrageplichtigen kosteloos kennis kunnen nemen van de begroting, de rekening en de verantwoording. De aangewezen vereniging of stichting verschaft iedere bijdrageplichtige op zijn verzoek kosteloos inzage in specifieke uitgaven.
 
-#### Artikel 9
+##### Artikel 9
 
 1. De [Experimentenwet BI-zones](https://wetten.overheid.nl/jci1.3:c:BWBR0025644) wordt ingetrokken.
 
 2. Het eerste lid laat de gelding van bij inwerkingtreding van deze wet bestaande verordeningen waarbij een BIZ-bijdrage is ingesteld onverlet.
 
-#### Artikel 10
+##### Artikel 10
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet wordt aangehaald als: Wet op de bedrijveninvesteringszones.
 

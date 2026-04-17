@@ -1,13 +1,38 @@
 ---
 title: "Beleidsregel Uitstel jaarverantwoording"
 identifier: "BWBR0050447"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050447"
+country: "nl"
+rank: "zbo"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050447"
+soort: "zbo"
+stam_id: "17279803"
+version_id: "30432872"
+internal_id: "C43641361"
+label_id: "17185144"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050447/2026-01-01/0"
+intitule_bron: "Stcrt.2024-38015"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-12"
+intitule_published: "2024-11-22"
+intitule_in_force: "2024-11-22"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38015"
+original_signed_date: "2024-11-12"
+original_published_date: "2024-11-22"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38015"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050447&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0050447&g=2026-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-11-12"
+entry_into_force: "2025-01-01"
 ---
-
 # Beleidsregel Uitstel jaarverantwoording
 
 Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81) (Awb), stelt de Nederlandse Zorgautoriteit (NZa) beleidsregels vast met betrekking tot een haar toekomende of onder haar verantwoordelijkheid uitgeoefende bevoegdheid.
@@ -18,7 +43,7 @@ De NZa heeft een wettelijke bevoegdheid om uitstel te verlenen voor het tijdstip
 
 Deze bevoegdheid is op grond van [artikel 13b van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=13b) mede van toepassing verklaard voor het tijdstip van overleggen van het niet openbaar gemaakte deel van de jaarverantwoording aan het CIBG.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
@@ -38,11 +63,11 @@ In deze beleidsregel wordt, tenzij anders vermeld, verstaan onder:
 
 Wmg: [Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078).
 
-#### Artikel 2. Doel van de beleidsregel
+##### Artikel 2. Doel van de beleidsregel
 
 In deze beleidsregel geeft de NZa aan op welke wijze zij uitvoering geeft aan haar wettelijke bevoegdheid om uitstel te verlenen voor het tijdstip van openbaarmaking van de jaarverantwoording.
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze beleidsregel is van toepassing op zorgaanbieders en geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders, met uitzondering van de zorgaanbieders en geen rechtspersoonlijkheid bezittende verbanden van zorgaanbieders waarop [artikel 40b Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=40b) niet van toepassing is verklaard in het [Besluit uitbreiding en beperking werkingssfeer WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0020326). Deze beleidsregel is ook van toepassing op combinatie-instellingen.
 
@@ -50,7 +75,7 @@ In deze beleidsregel moet in [artikelen 4](https://wetten.overheid.nl/jci1.3:c:B
 
 In deze beleidsregel moet voor de term ‘openbaren’ mede worden gelezen: ‘overleggen’ in de zin van [artikel 13b Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=13b).
 
-#### Artikel 4. In behandeling nemen van aanvragen voor uitstel
+##### Artikel 4. In behandeling nemen van aanvragen voor uitstel
 
 1. Een aanvraag voor het verlenen van uitstel wordt in behandeling genomen door de NZa indien is voldaan aan de volgende voorwaarden:
 
@@ -72,7 +97,7 @@ In deze beleidsregel moet voor de term ‘openbaren’ mede worden gelezen: ‘o
 
 3. De NZa verstuurt het verzoek tot aanvulling als bedoeld in lid 2 per e-mail, of indien een (geldig) e-mailadres ontbreekt in de aanvraag, per post naar het adres van de betrokken zorgaanbieder.
 
-#### Artikel 5. Inhoudelijke beoordeling van uitstelverzoeken
+##### Artikel 5. Inhoudelijke beoordeling van uitstelverzoeken
 
 1. Uitstel wordt toegekend wanneer uit de aanvraag blijkt dat er bijzondere omstandigheden zijn als bedoeld in leden 2, 3 of 4.
 
@@ -84,11 +109,11 @@ In deze beleidsregel moet voor de term ‘openbaren’ mede worden gelezen: ‘o
 
 5. Als uitstel wordt toegekend wegens bijzondere omstandigheden als bedoeld in lid 2 of lid 3, dan wordt uitstel verleend tot 31 december van het kalenderjaar volgend op het boekjaar. Als uitstel wordt toegekend wegens bijzondere omstandigheden als bedoeld in lid 4, dan wordt uitstel verleend tot 1 oktober van het kalenderjaar volgend op het boekjaar.
 
-#### Artikel 6. Aanvraagformulier
+##### Artikel 6. Aanvraagformulier
 
 De NZa stelt het aanvraagformulier, zoals bedoeld in [artikel 12a, vierde lid, van de Regeling openbare jaarverantwoording WMG](https://wetten.overheid.nl/jci1.3:c:BWBR0045649&artikel=12a) en [artikel 4, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0050447&artikel=4&z=2026-01-01&g=2026-01-01), van deze beleidsregel, beschikbaar via haar website ([www.nza.nl](http://www.nza.nl/)).
 
-#### Artikel 7. Inwerkingtreding / Bekendmaking
+##### Artikel 7. Inwerkingtreding / Bekendmaking
 
 Deze beleidsregel treedt in werking met ingang van 1 januari 2025.
 
@@ -96,6 +121,6 @@ Ingevolge [artikel 5, aanhef en onder e, van de Bekendmakingswet](https://wetten
 
 De beleidsregel ligt ter inzage bij de NZa en is te raadplegen op [www.nza.nl](http://www.nza.nl).
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel Uitstel jaarverantwoording.

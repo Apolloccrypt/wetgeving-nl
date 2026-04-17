@@ -1,13 +1,39 @@
 ---
-title: "Besluit videoconferentie"
+title: "Besluit van 8 mei 2006, houdende algemene eisen ten aanzien van het horen van personen per videoconferentie (Besluit videoconferentie)"
 identifier: "BWBR0019836"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-11-25
-laatste_update: 2022-11-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0019836"
+country: "nl"
+rank: "amvb"
+publication_date: "2022-11-25"
+last_updated: "2022-11-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0019836"
+soort: "AMvB"
+stam_id: "8370883"
+version_id: "13834022"
+internal_id: "C18784871"
+label_id: "8351644"
+dtd_version: "2.0"
+original_entry_into_force: "2007-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0019836/2022-11-25/0"
+intitule_bron: "Stb.2006-275"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2006-05-08"
+intitule_published: "2006-06-20"
+intitule_in_force: "2006-06-20"
+intitule_status: "goed"
+original_publication: "Stb.2006-610"
+original_signed_date: "2006-11-27"
+original_published_date: "2006-12-07"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2006-610"
+entry_into_force_date: "2007-01-01"
+jci_1_3: "jci1.3:c:BWBR0019836&z=2022-11-25&g=2022-11-25"
+jci_1_0: "1.0:c:BWBR0019836&g=2022-11-25"
+citeertitel_status: "officieel"
+short_title: "Besluit videoconferentie"
+signed_date: "2006-11-27"
+entry_into_force: "2007-01-01"
 ---
-
 # Besluit van 8 mei 2006, houdende algemene eisen ten aanzien van het horen van personen per videoconferentie (Besluit videoconferentie)
 
 Op de voordracht van Onze Minister van Justitie en Onze Minister voor Vreemdelingenzaken en Integratie van 13 januari 2006, 5396943/06/1;
@@ -20,13 +46,13 @@ Gezien het nader rapport van 28 april 2006, nr. 5415979/06/6 van Onze Minister v
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Het horen van een vreemdeling in een beroepsprocedure tegen een vrijheidsontnemende maatregel als bedoeld in de [artikelen 94](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=94) en [96 van de Vreemdelingenwet 2000](https://wetten.overheid.nl/jci1.3:c:BWBR0011823&artikel=96), kan per videoconferentie geschieden, waarbij een directe beeld- en geluidsverbinding tussen de betrokken personen totstandkomt.
 
 2. De rechtbank beslist of van videoconferentie gebruik wordt gemaakt.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In de navolgende gevallen wordt geen gebruik gemaakt van videoconferentie, tenzij met instemming van de verdachte of diens raadsman:
 
@@ -38,7 +64,7 @@ Hebben goedgevonden en verstaan:
 
 3. In afwijking van het eerste lid kan van videoconferentie gebruik worden gemaakt indien de meervoudige kamer of de rechter-commissaris bepaalt dat videoconferentie noodzakelijk is in het bijzondere belang van de beveiliging van de zitting of van het vervoer naar of van de zitting.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Indien de te horen persoon schriftelijk wordt opgeroepen teneinde te worden gehoord, geeft deze oproep aan of tijdens het horen gebruik zal worden gemaakt van videoconferentie. De oproep vermeldt op welke wijze en binnen welke termijn hij kan aangeven zich niet te kunnen verenigen met het gebruik van videoconferentie.
 
@@ -48,7 +74,7 @@ Hebben goedgevonden en verstaan:
 
 4. Indien geen schriftelijke oproep aan het horen voorafgaat, kan de te horen persoon, dan wel in voorkomende gevallen de officier van justitie, niet later dan direct bij aanvang van het verhoor aan de voorzitter van de meervoudige of enkelvoudige kamer, de rechter-commissaris of de ambtenaar die met de leiding over het horen is belast, mondeling dan wel schriftelijk mededelen zich niet te kunnen verenigen met het gebruik van videoconferentie, onder vermelding van de gronden. Op deze mededeling wordt beslist door de voorzitter van de meervoudige of enkelvoudige kamer, de rechter-commissaris of de ambtenaar die met de leiding over het horen is belast.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het systeem door middel waarvan videoconferentie wordt toegepast, is zodanig ingericht dat:
 
@@ -72,11 +98,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk III. Eisen aan het systeem
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-#### Artikel 6
+##### Artikel 6
 
 1.
 

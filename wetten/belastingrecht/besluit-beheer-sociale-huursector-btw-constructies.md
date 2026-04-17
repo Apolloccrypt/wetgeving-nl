@@ -1,13 +1,37 @@
 ---
 title: "Besluit beheer sociale-huursector (BTW-constructies)"
 identifier: "BWBR0011256"
-categorie: "Belastingrecht"
-publicatiedatum: 2000-03-27
-laatste_update: 2000-03-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011256"
+country: "nl"
+rank: "circulaire"
+publication_date: "2000-03-27"
+last_updated: "2000-03-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011256"
+soort: "circulaire"
+stam_id: "6349933"
+version_id: "11006422"
+internal_id: "C14899741"
+label_id: "6338844"
+original_entry_into_force: "2000-03-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011256/2000-03-27/0"
+intitule_bron: "Stcrt.2000-61"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-03-24"
+intitule_published: "2000-03-27"
+intitule_in_force: "2000-03-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-61"
+original_signed_date: "2000-03-24"
+original_published_date: "2000-03-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2000-61-p10-SC23288"
+entry_into_force_date: "2000-03-27"
+jci_1_3: "jci1.3:c:BWBR0011256&z=2000-03-27&g=2000-03-27"
+jci_1_0: "1.0:c:BWBR0011256&g=2000-03-27"
+citeertitel_status: "redactioneel"
+signed_date: "2000-03-24"
+entry_into_force: "2000-03-27"
 ---
-
 # Besluit beheer sociale-huursector (BTW-constructies)
 
 Geacht Bestuur/College,

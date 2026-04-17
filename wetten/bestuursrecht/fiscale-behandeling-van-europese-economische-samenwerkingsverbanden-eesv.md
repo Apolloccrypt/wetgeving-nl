@@ -1,13 +1,37 @@
 ---
 title: "Fiscale behandeling van Europese economische samenwerkingsverbanden (EESV)"
 identifier: "BWBR0004726"
-categorie: "Bestuursrecht"
-publicatiedatum: 1990-03-01
-laatste_update: 1990-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004726"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "1990-03-01"
+last_updated: "1990-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004726"
+soort: "beleidsregel"
+stam_id: "8466273"
+version_id: "13351592"
+internal_id: "C18458511"
+label_id: "8447114"
+dtd_version: "2.0"
+original_entry_into_force: "1990-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004726/1990-03-01/0"
+intitule_bron: "Infob.1990-3"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-03-01"
+intitule_published: "1990-01-01"
+intitule_in_force: "1990-01-01"
+intitule_status: "goed"
+original_publication: "Infob.1990-3"
+original_signed_date: "1990-03-01"
+original_published_date: "1990-01-01"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-03-01"
+jci_1_3: "jci1.3:c:BWBR0004726&z=1990-03-01&g=1990-03-01"
+jci_1_0: "1.0:c:BWBR0004726&g=1990-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "1990-03-01"
+entry_into_force: "1990-03-01"
 ---
-
 # Fiscale behandeling van Europese economische samenwerkingsverbanden (EESV)
 
 ### 1. Algemeen

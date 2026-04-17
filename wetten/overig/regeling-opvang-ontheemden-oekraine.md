@@ -1,13 +1,39 @@
 ---
-title: "Regeling opvang ontheemden Oekraïne"
+title: "Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Justitie en Veiligheid van 1 april 2022, nummer 3936963, houdende regels voor de huisvesting en verzorging van ontheemden als gevolg van het oorlogsgeweld in Oekraïne (Regeling opvang ontheemden Oekraïne)"
 identifier: "BWBR0046503"
-categorie: "Overig"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046503"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046503"
+soort: "ministeriele-regeling"
+stam_id: "16314213"
+version_id: "28516412"
+internal_id: "C40234071"
+label_id: "16239604"
+dtd_version: "2.0"
+original_entry_into_force: "2022-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046503/2025-10-01/0"
+intitule_bron: "Stcrt.2022-9469"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-04-01"
+intitule_published: "2022-04-01"
+intitule_in_force: "2022-04-01"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-9469"
+original_signed_date: "2022-04-01"
+original_published_date: "2022-04-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-9469"
+entry_into_force_date: "2022-04-01"
+jci_1_3: "jci1.3:c:BWBR0046503&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0046503&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Regeling opvang ontheemden Oekraïne"
+signed_date: "2022-04-01"
+entry_into_force: "2022-04-01"
 ---
-
 # Regeling van de Minister van Justitie en Veiligheid en de Staatssecretaris van Justitie en Veiligheid van 1 april 2022, nummer 3936963, houdende regels voor de huisvesting en verzorging van ontheemden als gevolg van het oorlogsgeweld in Oekraïne (Regeling opvang ontheemden Oekraïne)
 
 Gelet op [artikel 4, tweede lid, van de Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het koninklijk besluit van 31 maart 202
 
 ### Hoofdstuk I. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van deze regeling wordt verstaan onder:
 
@@ -54,7 +80,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 - k. **begeleider:** meerderjarige begeleider van een alleenstaande minderjarige ontheemde, niet zijnde de ouder of voogd, die met de alleenstaande minderjarige ontheemde in dezelfde gemeentelijke of particuliere opvanglocatie verblijft.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het college van burgemeester en wethouders draagt zorg voor de opvang van ontheemden. De in de eerste volzin bedoelde taak is niet van toepassing op alleenstaande minderjarige ontheemden.
 
@@ -72,7 +98,7 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 ### Hoofdstuk II. Toelating tot de opvang
 
-#### Artikel 3
+##### Artikel 3
 
 Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvangvoorziening beschikbaar stellen die voldoet aan de minimumnormen zoals opgenomen in deze regeling indien:
 
@@ -80,7 +106,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 - b. de specifieke situatie en bijzondere opvangbehoeften van een kwetsbare ontheemde andersoortige opvang vereist.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het college van burgemeester en wethouders kan een ontheemde uitsluiten van de opvang, bedoeld in het [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=I&artikel=2&z=2025-10-01&g=2025-10-01), indien:
 
@@ -94,7 +120,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ### Hoofdstuk III. Eisen aan de opvangvoorziening
 
-#### Artikel 5
+##### Artikel 5
 
 1. De opvangvoorziening voldoet aan een toereikend huisvestingsniveau, waaronder ten minste wordt begrepen de aanwezigheid van een adequate bescherming tegen weersinvloeden, van verwarming, sanitaire voorzieningen en zit- en slaapgelegenheid.
 
@@ -104,7 +130,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ### Hoofdstuk III. Eisen aan de opvangvoorziening
 
-#### Artikel 6
+##### Artikel 6
 
 1. De opvang omvat in elk geval de volgende verstrekkingen:
 
@@ -136,7 +162,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 - d. toegang te verlenen aan het personeel van de opvangvoorziening tot zijn woonruimte indien een redelijk vermoeden bestaat dat de ontheemde de huisregels overtreedt of indien dit voor het beheer van de opvangvoorziening redelijkerwijs noodzakelijk is.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), beperken of intrekken indien:
 
@@ -174,7 +200,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 6. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 6, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het college van burgemeester en wethouders brengt, met ingang van de eerstvolgende maand, een vergoeding in de kosten van de opvang van de meerderjarige ontheemde alsmede de opvang van diens meerderjarige gezinslid geheel of gedeeltelijk in rekening, indien de meerderjarige ontheemde of een meerderjarig gezinslid:
 
@@ -188,13 +214,13 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 2. De vergoeding bedraagt € 244,22 per maand per meerderjarige ontheemde en diens meerderjarige gezinslid tot een maximum van € 488,44.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het college van burgemeester en wethouders bepaalt in welke opvangvoorziening binnen de gemeente een ontheemde wordt geplaatst en is bevoegd een ontheemde naar een andere voorziening binnen de gemeente over te plaatsen.
 
 2. Bij de uitoefening van de bevoegdheid, bedoeld in het eerste lid, zorgt het college van burgemeester en wethouders ervoor dat de eenheid van het gezin in de mate van het mogelijke en met instemming van de betrokken gezinsleden bewaard wordt.
 
-#### Artikel 10
+##### Artikel 10
 
 1. De door de ontheemde te ontvangen financiële toelage, bedoeld in [artikel 6, eerste lid, aanhef en onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), van deze regeling, bestaat uit een bedrag ten behoeve van voedsel en een bedrag ten behoeve van kleding en andere persoonlijke uitgaven conform de Bekostigingsregeling opvang ontheemden Oekraïne.
 
@@ -218,7 +244,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 8. Het college van burgemeester en wethouders draagt zorg voor de maaltijden in de gemeentelijke opvangvoorziening waarin de bewoners niet in de gelegenheid zijn deze zelf te verzorgen.
 
-#### Artikel 11
+##### Artikel 11
 
 1. Een ontheemde kan een vergoeding ontvangen voor buitengewone kosten, als bedoeld in [artikel 6, eerste lid, onderdeel e](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01), die hij heeft gemaakt. Voor toepassing van dit artikel wordt onder buitengewone kosten mede verstaan kosten die de ontheemde heeft moeten maken die verband houden met het verblijf in een instelling voor langdurige zorg, als bedoeld in [artikel 10, zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=10&z=2025-10-01&g=2025-10-01).
 
@@ -232,7 +258,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 ### Hoofdstuk V. Verstrekkingen in particuliere opvangvoorzieningen
 
-#### Artikel 12
+##### Artikel 12
 
 1. Het college van burgemeester en wethouders verstrekt maandelijks een financiële toelage aan ontheemden die in een particuliere opvangvoorziening verblijven binnen de gemeentegrens en zijn ingeschreven in de Basisregistratie Personen.
 
@@ -260,7 +286,7 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 10. Aan een ontheemde die overeenkomstig de regeling medische zorg asielzoekers, verblijft in een instelling voor langdurige zorg die niet een particuliere opvanglocatie is en die zorg draagt voor de maaltijden, verstrekt het college van burgemeester en wethouders het bedrag voor kleding en andere persoonlijke uitgaven, bedoeld in het vierde lid.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), beperken of intrekken indien:
 
@@ -280,13 +306,13 @@ Het college van burgemeester en wethouders kan een tijdelijke alternatieve opvan
 
 3. Het college van burgemeester en wethouders kan de verstrekkingen, bedoeld in [artikel 12, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), terugvorderen indien deze ten onrechte of tot een te hoog bedrag zijn verstrekt. Het college van burgemeester en wethouders vordert niet meer terug dan er is verstrekt.
 
-#### Artikel 14
+##### Artikel 14
 
 Vervallen
 
 ### Hoofdstuk VI. Kwetsbare personen
 
-#### Artikel 15
+##### Artikel 15
 
 1. Het college van burgemeester en wethouders houdt bij uitvoering van deze regeling rekening met de specifieke situatie van kwetsbare ontheemden zoals minderjarigen, personen met een handicap, ouderen, zwangere vrouwen, alleenstaande ouders met minderjarige kinderen, personen met ernstige ziekten en personen met mentale stoornissen.
 
@@ -294,7 +320,7 @@ Vervallen
 
 3. Indien de ontheemde overeenkomstig het tweede lid bijzondere opvangbehoefte heeft, wordt naast verstrekkingen, bedoeld in [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=6&z=2025-10-01&g=2025-10-01) en [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=12&z=2025-10-01&g=2025-10-01), specifieke steun en begeleiding geboden.
 
-#### Artikel 16
+##### Artikel 16
 
 Bij de uitoefening van de bevoegdheid, bedoeld in [artikel 9, eerste lid](https://wetten.overheid.nl/BWBR0017959/2021-01-01#HoofdstukIV_Artikel11), zorgt het college van burgemeester en wethouders ervoor dat:
 
@@ -302,17 +328,17 @@ Bij de uitoefening van de bevoegdheid, bedoeld in [artikel 9, eerste lid](https:
 
 - b. afhankelijke meerderjarige ontheemden met bijzondere opvangbehoeften worden ondergebracht bij meerderjarige nauwe verwanten die zich reeds in Nederland bevinden en die volgens het recht of de praktijk voor hen verantwoordelijk zijn.
 
-#### Artikel 17
+##### Artikel 17
 
 Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit van 31 maart 2022, houdende inwerkingstelling van de [artikelen 2c](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=2c) en [4 van de Wet verplaatsing bevolking](https://wetten.overheid.nl/jci1.3:c:BWBR0002097&artikel=4) in werking treedt.
 
-#### Artikel 18
+##### Artikel 18
 
 Deze regeling wordt aangehaald als: Regeling opvang ontheemden Oekraïne.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Een ontheemde kan door het college van burgemeester en wethouders nader aan te wijzen werkzaamheden verrichten in en rondom de gemeentelijke opvangvoorziening, voor de uitvoering waarvan een vergoeding kan worden gegeven.
 
@@ -328,11 +354,11 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 2a
+##### Artikel 2a
 
 De ontheemde is verplicht om onverwijld uit eigen beweging dan wel uiterlijk binnen twee weken nadat het college van burgemeester en wethouders daarom heeft verzocht mededeling te doen over zijn inkomsten en gezinssamenstelling. De ontheemde is tevens verplicht om in geval van verandering in inkomsten of gezinssamenstelling het college van burgemeester en wethouders daarvan onverwijld mededeling te doen.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Toepassing van de [artikelen 7, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=7&z=2025-10-01&g=2025-10-01), [8](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=IV&artikel=8&z=2025-10-01&g=2025-10-01) en [13, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0046503&hoofdstuk=V&artikel=13&z=2025-10-01&g=2025-10-01), blijft achterwege als de ontheemde of een gezinslid daardoor onevenredig zwaar zou worden getroffen.
 

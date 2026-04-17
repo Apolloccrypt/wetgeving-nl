@@ -1,13 +1,38 @@
 ---
 title: "Verdrag inzake het Europees Bossen Instituut"
 identifier: "BWBV0002865"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-01-07
-laatste_update: 2003-08-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0002865"
+country: "nl"
+rank: "verdrag"
+publication_date: "2008-01-07"
+last_updated: "2003-08-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0002865"
+soort: "verdrag"
+stam_id: "10003184703"
+version_id: "10003193162"
+internal_id: "C10006996081"
+label_id: "10003170694"
+dtd_version: "2.0"
+original_entry_into_force: "2008-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0002865/2008-01-07/0"
+intitule_bron: "Trb.2003-173"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2007-11-08"
+intitule_published: "2003-11-14"
+intitule_in_force: "2007-12-06"
+intitule_status: "goed"
+original_publication: "Trb.2003-173"
+original_signed_date: "2007-11-08"
+original_published_date: "2003-11-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-173"
+entry_into_force_date: "2008-01-07"
+jci_1_3: "jci1.3:c:BWBV0002865&z=2008-01-07&g=2008-01-07"
+jci_1_0: "1.0:c:BWBV0002865&g=2008-01-07"
+citeertitel_status: "redactioneel"
+signed_date: "2007-11-08"
+entry_into_force: "2008-01-07"
 ---
-
 # Verdrag inzake het Europees Bossen Instituut
 
 De Partijen bij dit Verdrag, hierna te noemen „de Verdragsluitende Partijen",
@@ -26,11 +51,11 @@ Geleid door de wens op internationaal niveau samen te werken aan onderzoek naar 
 
 Zijn het volgende overeengekomen:
 
-#### Artikel 1. Het Instituut
+##### Artikel 1. Het Instituut
 
 Het Europees Bosseninstituut (hierna te noemen het Instituut) wordt bij dezen opgericht als een internationale organisatie. De zetel is gevestigd in Joensuu, Finland.
 
-#### Artikel 2. Doelstellingen en taken
+##### Artikel 2. Doelstellingen en taken
 
 1. Het doel van het Instituut is het verrichten van onderzoek op pan-Europees niveau naar bosbeleid, met inbegrip van de milieuaspecten, naar de ecologie, het meervoudig gebruik, de hulpbronnen en de gezondheid van Europese bossen en naar het aanbod van en de vraag naar hout en andere bosproducten en -diensten teneinde het behoud en het duurzaam beheer van bossen in Europa te bevorderen.
 
@@ -46,21 +71,21 @@ Het Europees Bosseninstituut (hierna te noemen het Instituut) wordt bij dezen op
 
 - e. coördineert en verspreidt het kennis van zijn werk en resultaten.
 
-#### Artikel 3. Informatie
+##### Artikel 3. Informatie
 
 De Verdragsluitende Partijen steunen het werk van het Instituut met informatie op het gebied van bossen indien daartoe een specifiek verzoek is ingediend, mits deze informatie niet verkregen kan worden bij andere instanties die gegevens verzamelen en voor zover zij redelijkerwijs verstrekt kan worden. Teneinde dubbel werk te voorkomen, streeft het Instituut ernaar een goede coördinatie te waarborgen met andere internationale instanties, met inbegrip van de instanties die gegevens verzamelen.
 
-#### Artikel 4. Leden, geassocieerde en geaffilieerde leden van het Instituut
+##### Artikel 4. Leden, geassocieerde en geaffilieerde leden van het Instituut
 
 1. De Verdragsluitende Partijen zijn leden van het Instituut.
 
 2. Het geassocieerd lidmaatschap staat open voor onderzoeksinstellingen, onderwijsinstellingen, commerciële organisaties, bosautoriteiten, niet-gouvernementele organisaties en instellingen van soortgelijke aard uit Europese staten (hierna te noemen geassocieerde leden). Het geaffilieerde lidmaatschap staat open voor instellingen van soortgelijke aard uit niet-Europese staten (hierna te noemen geaffilieerde leden). Geaffilieerde leden nemen niet deel aan het besluitvormingsproces van het Instituut.
 
-#### Artikel 5. Organen
+##### Artikel 5. Organen
 
 De organen van het Instituut zijn een raad, een conferentie, een bestuur en een secretariaat dat geleid wordt door een directeur.
 
-#### Artikel 6. De raad
+##### Artikel 6. De raad
 
 1. De raad bestaat uit vertegenwoordigers van de leden en komt eenmaal per drie jaar in gewone zitting bijeen. Een buitengewone zitting kan worden gehouden op verzoek van een lid of het bestuur, onder voorbehoud van goedkeuring door een gewone meerderheid van de leden.
 
@@ -80,7 +105,7 @@ De organen van het Instituut zijn een raad, een conferentie, een bestuur en een 
 
 3. Elk lid heeft een stem. Besluiten worden bij consensus genomen, tenzij in het Verdrag anders is bepaald.
 
-#### Artikel 7. De conferentie
+##### Artikel 7. De conferentie
 
 1. De conferentie bestaat uit vertegenwoordigers van de geassocieerde leden. De conferentie komt eenmaal per jaar in plenaire vergadering bijeen en neemt beslissingen met een gewone meerderheid. De geaffilieerde leden mogen deelnemen aan de jaarlijkse plenaire vergaderingen van de conferentie. Instanties en regionale of internationale organisaties die geen geassocieerd of geaffilieerd lid zijn van het Instituut kunnen uitgenodigd worden aanwezig te zijn bij de plenaire vergaderingen van de conferentie overeenkomstig de door het bestuur vastgestelde regels.
 
@@ -100,7 +125,7 @@ De organen van het Instituut zijn een raad, een conferentie, een bestuur en een 
 
 - g. zijn reglement van orde goedkeuren en wijzigen.
 
-#### Artikel 8. Het bestuur
+##### Artikel 8. Het bestuur
 
 1. Het bestuur bestaat uit acht personen met aantoonbare deskundigheid op het gebied van de activiteiten van het Instituut. Deze bestuursleden mogen ten hoogste twee opeenvolgende termijnen in functie zijn.
 
@@ -134,13 +159,13 @@ De organen van het Instituut zijn een raad, een conferentie, een bestuur en een 
 
 - i. stelt de in artikel 7, eerste lid, genoemde regels vast.
 
-#### Artikel 9. Het secretariaat
+##### Artikel 9. Het secretariaat
 
 1. Het secretariaat wordt geleid door de directeur en bestaat uit het personeel van het Instituut.
 
 2. Behoudens algemene instructies van de raad, de conferentie en het bestuur, benoemt de directeur ander personeel dat nodig is om de doelstellingen van het Instituut te realiseren op de voorwaarden en voor de uitvoering van de taken die de directeur vaststelt.
 
-#### Artikel 10. Financiële middelen
+##### Artikel 10. Financiële middelen
 
 In de financiële middelen die nodig zijn voor het functioneren van het Instituut wordt voorzien door:
 
@@ -150,19 +175,19 @@ In de financiële middelen die nodig zijn voor het functioneren van het Instituu
 
 - c. andere bronnen die mogelijk beschikbaar komen.
 
-#### Artikel 11. De begroting en de boekhouding
+##### Artikel 11. De begroting en de boekhouding
 
 De begroting en de boekhouding van het Instituut worden met een gewone meerderheid goedgekeurd door het bestuur op voorstel van de directeur.
 
-#### Artikel 12. Rechtspersoonlijkheid, voorrechten en immuniteiten
+##### Artikel 12. Rechtspersoonlijkheid, voorrechten en immuniteiten
 
 Het Instituut bezit internationale en nationale rechtspersoonlijkheid. Op het grondgebied van Finland geniet het de voorrechten en immuniteiten die noodzakelijk zijn voor het uitoefenen van zijn taken. Deze voorrechten en immuniteiten worden vastgelegd in een overeenkomst tussen het Instituut en de regering van Finland.
 
-#### Artikel 13. Geschillenbeslechting
+##### Artikel 13. Geschillenbeslechting
 
 Elk geschil dat voortvloeit uit de interpretatie of toepassing van dit Verdrag en dat niet beslecht wordt door onderhandeling of de goede diensten van het bestuur kan, met wederzijdse goedkeuring van de partijen bij het geschil, ter conciliatie worden voorgelegd ingevolge het Facultatief Reglement inzake conciliatie van het Permanente Hof van Arbitrage.
 
-#### Artikel 14. Ondertekening en instemming gebonden te worden
+##### Artikel 14. Ondertekening en instemming gebonden te worden
 
 1. Dit Verdrag staat op 28 augustus 2003 in Joensuu open voor ondertekening door Europese staten en Europese regionale organisaties voor economische integratie. Daarna blijft het tot 28 november 2003 openstaan voor ondertekening in Helsinki, bij het ministerie van Buitenlandse Zaken van Finland.
 
@@ -172,19 +197,19 @@ Elk geschil dat voortvloeit uit de interpretatie of toepassing van dit Verdrag e
 
 4. Voor de toepassing van dit Verdrag is een Europese staat een staat die als Europese staat in aanmerking komt voor het lidmaatschap van de Economische Commissie voor Europa van de Verenigde Naties.
 
-#### Artikel 15. Inwerkingtreding
+##### Artikel 15. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking zestig dagen na de datum van de nederlegging van de achtste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding.
 
 2. Voor elke staat en regionale organisatie voor economische integratie die na de nederlegging van de achtste akte van bekrachtiging, aanvaarding, goedkeuring of toetreding, dit Verdrag bekrachtigt, aanvaardt, goedkeurt, of ertoe toetreedt, treedt het Verdrag in werking zestig dagen na de datum van nederlegging van de akte van bekrachtiging, aanvaarding, goedkeuring of toetreding door die staat of regionale organisatie voor economische integratie.
 
-#### Artikel 16. Overgangsbepalingen
+##### Artikel 16. Overgangsbepalingen
 
 1. Bij de inwerkingtreding van dit Verdrag zullen de onderzoeksinstellingen, onderwijsinstellingen, commerciële organisaties, bosautoriteiten, niet-gouvernementele organisaties en instellingen van soortgelijke aard uit Europese staten die lid of geassocieerd lid zijn van het Europees Bosseninstituut dat in 1993 is opgericht als een vereniging naar Fins recht, en die voor die datum volgens het reglement geen kennisgeving van opzegging hebben ingediend, geassocieerd lid worden van het Instituut. Instellingen van soortgelijke aard uit niet-Europese staten die geassocieerd lid zijn van het genoemde Europees Bosseninstituut zullen, indien zij geen kennisgeving van opzegging hebben ingediend, geaffilieerd lid worden van het Instituut.
 
 2. Na de inwerkingtreding van dit Verdrag neemt het Instituut initiatief tot onderhandelingen met het Europees Bosseninstituut dat in 1993 is opgericht als een vereniging naar Fins recht, over de overdracht van de werkzaamheden, fondsen, activa en passiva van de laatstgenoemde aan het Instituut.
 
-#### Artikel 17. Wijzigingen
+##### Artikel 17. Wijzigingen
 
 1. Dit Verdrag kan worden gewijzigd met algemene stemmen van de leden die aanwezig zijn bij een vergadering van de raad of door een schriftelijke procedure. Elk voorstel tot wijziging wordt ten minste acht weken van tevoren door de Depositaris verspreid. In geval van een schriftelijke procedure stelt de Depositaris de termijn vast voor de antwoorden.
 
@@ -192,11 +217,11 @@ Elk geschil dat voortvloeit uit de interpretatie of toepassing van dit Verdrag e
 
 3. Tenzij de conferentie ermee instemt, laten wijzigingen de institutionele positie van geassocieerde of geaffilieerde leden onverlet.
 
-#### Artikel 18. Opzegging
+##### Artikel 18. Opzegging
 
 Een Verdragsluitende Partij kan dit Verdrag opzeggen door middel van een schriftelijke kennisgeving aan de Depositaris. De opzegging wordt van kracht een jaar nadat de Depositaris de kennisgeving van opzegging heeft ontvangen.
 
-#### Artikel 19. Beëindiging
+##### Artikel 19. Beëindiging
 
 Dit Verdrag wordt beëindigd indien er op enig moment na de inwerkingtreding minder dan acht Verdragsluitende Partijen zijn.
 

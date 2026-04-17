@@ -1,13 +1,38 @@
 ---
 title: "Besluit pensioenen Internationale Organisaties"
 identifier: "BWBR0047063"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-08-24
-laatste_update: 2022-08-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047063"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2022-08-24"
+last_updated: "2022-08-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047063"
+soort: "beleidsregel"
+stam_id: "16458793"
+version_id: "28836312"
+internal_id: "C40831791"
+label_id: "16381774"
+dtd_version: "2.0"
+original_entry_into_force: "2022-08-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047063/2022-08-24/0"
+intitule_bron: "Stcrt.2022-21897"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-08-19"
+intitule_published: "2022-08-23"
+intitule_in_force: "2022-08-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-21897"
+original_signed_date: "2022-08-19"
+original_published_date: "2022-08-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-21897"
+entry_into_force_date: "2022-08-24"
+jci_1_3: "jci1.3:c:BWBR0047063&z=2022-08-24&g=2022-08-24"
+jci_1_0: "1.0:c:BWBR0047063&g=2022-08-24"
+citeertitel_status: "officieel"
+signed_date: "2022-08-19"
+entry_into_force: "2022-08-24"
 ---
-
 # Besluit pensioenen Internationale Organisaties
 
 **De Staatssecretaris van Financiën heeft het volgende besloten.**

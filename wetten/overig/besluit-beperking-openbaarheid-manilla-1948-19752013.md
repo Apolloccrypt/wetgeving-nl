@@ -1,13 +1,39 @@
 ---
-title: "Besluit Beperking Openbaarheid, Manilla (1948) 1975–2013"
+title: "Besluit van de Minister van Buitenlandse Zaken van 15 maart 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in de Filipijnen, Ambassade Manilla(1963)1975–2013, Besluit Beperking Openbaarheid, Manilla (1948) 1975–2013"
 identifier: "BWBR0047986"
-categorie: "Overig"
-publicatiedatum: 2023-03-25
-laatste_update: 2023-03-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0047986"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-03-25"
+last_updated: "2023-03-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0047986"
+soort: "ministeriele-regeling"
+stam_id: "16700693"
+version_id: "29295622"
+internal_id: "C41726731"
+label_id: "16617554"
+dtd_version: "2.0"
+original_entry_into_force: "2023-03-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0047986/2023-03-25/0"
+intitule_bron: "Stcrt.2023-8824"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-03-15"
+intitule_published: "2023-03-24"
+intitule_in_force: "2023-03-24"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-8824"
+original_signed_date: "2023-03-15"
+original_published_date: "2023-03-24"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-8824"
+entry_into_force_date: "2023-03-25"
+jci_1_3: "jci1.3:c:BWBR0047986&z=2023-03-25&g=2023-03-25"
+jci_1_0: "1.0:c:BWBR0047986&g=2023-03-25"
+citeertitel_status: "redactioneel"
+short_title: "Besluit Beperking Openbaarheid, Manilla (1948) 1975–2013"
+signed_date: "2023-03-15"
+entry_into_force: "2023-03-25"
 ---
-
 # Besluit van de Minister van Buitenlandse Zaken van 15 maart 2023, houdende de beperking van de openbaarheid van de archiefbescheiden geborgen in het archief van de Nederlandse diplomatieke vertegenwoordiging in de Filipijnen, Ambassade Manilla(1963)1975–2013, Besluit Beperking Openbaarheid, Manilla (1948) 1975–2013
 
 Overwegende dat een aantal inventarisnummers in het archief beperkingen aan de openbaarheid behoeven;
@@ -16,7 +42,7 @@ Gelet op [artikel 15, eerste lid, onder a en b, van de Archiefwet 1995](https://
 
 Besluit
 
-#### Artikel 1
+##### Artikel 1
 
 Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede kolom.
 
@@ -49,7 +75,7 @@ Met het oog op de bescherming van de persoonlijke levenssfeer zijn de inventaris
 | 300 | 2069 |
 | 301 | 2085 |
 
-#### Artikel 2
+##### Artikel 2
 
 Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnummers, genoemd in de eerste kolom, beperkt openbaar tot 1 januari van het jaar, genoemd in de tweede klom.
 
@@ -82,17 +108,17 @@ Met het oog op het belang van de Staat of zijn bondgenoten zijn de inventarisnum
 | 392 | 2057 |
 | 393 | 2057 |
 
-#### Artikel 3
+##### Artikel 3
 
 1. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047986&artikel=1&z=2023-03-25&g=2023-03-25), is, tot openbaring, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden. (De algemene rijksarchivaris behandelt verzoeken tot raadpleging in de inventarisnummers, volgens de procedures die gelden voor inzage in archieven met (bijzondere) persoonsgegevens).
 
 2. Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers, genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0047986&artikel=2&z=2023-03-25&g=2023-03-25), is tot openbaarwording uitsluitend mogelijk na voorafgaande schriftelijke toestemming van het hieronder vermelde overheidsorgaan.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0047986&artikel=1&z=2023-03-25&g=2023-03-25) is, tot openbaarwording, uitsluitend mogelijk na voorafgaande schriftelijke toestemming van de algemene rijksarchivaris, die aan zijn toestemming voorwaarden kan verbinden.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

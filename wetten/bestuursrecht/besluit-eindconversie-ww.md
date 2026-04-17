@@ -1,13 +1,39 @@
 ---
-title: "Besluit eindconversie WW"
+title: "Besluit van 28 november 2017 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van de resterende uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze luidde voor 1 juli 2015 (Besluit eindconversie WW)"
 identifier: "BWBR0040295"
-categorie: "Bestuursrecht"
-publicatiedatum: 2018-04-01
-laatste_update: 2018-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040295"
+country: "nl"
+rank: "amvb"
+publication_date: "2018-04-01"
+last_updated: "2018-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040295"
+soort: "AMvB"
+stam_id: "14435573"
+version_id: "24686322"
+internal_id: "C35319361"
+label_id: "14396174"
+dtd_version: "2.0"
+original_entry_into_force: "2018-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040295/2018-04-01/0"
+intitule_bron: "Stb.2017-461"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-11-28"
+intitule_published: "2017-12-06"
+intitule_in_force: "2017-12-06"
+intitule_status: "goed"
+original_publication: "Stb.2017-461"
+original_signed_date: "2017-11-28"
+original_published_date: "2017-12-06"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-461"
+entry_into_force_date: "2018-04-01"
+jci_1_3: "jci1.3:c:BWBR0040295&z=2018-04-01&g=2018-04-01"
+jci_1_0: "1.0:c:BWBR0040295&g=2018-04-01"
+citeertitel_status: "officieel"
+short_title: "Besluit eindconversie WW"
+signed_date: "2017-11-28"
+entry_into_force: "2018-04-01"
 ---
-
 # Besluit van 28 november 2017 tot het bepalen van het moment en de wijze van het omzetten van het dagloon van de resterende uitkeringsrechten gebaseerd op de Werkloosheidswet zoals deze luidde voor 1 juli 2015 (Besluit eindconversie WW)
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 2 oktober 2017, nr. 2017-0000157109;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Sociale Zaken en Werkgelegenheid 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsbepaling
+##### Artikel 1. Begripsbepaling
 
 1. In dit besluit wordt verstaan onder:
 
@@ -36,7 +62,7 @@ Hebben goedgevonden en verstaan:
 
 2. [Artikel 25 van het Dagloonbesluit werknemersverzekeringen](https://wetten.overheid.nl/jci1.3:c:BWBR0033471&artikel=25) is van toepassing op een recht op uitkering dat op grond van [artikel 130z, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z), wordt omgezet.
 
-#### Artikel 2. Wijze van omzetten
+##### Artikel 2. Wijze van omzetten
 
 1. Indien een recht op uitkering op grond van [artikel 130z, tweede lid, van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=130z), wordt omgezet, wordt het dagloon van dat recht ambtshalve opnieuw berekend.
 
@@ -78,7 +104,7 @@ F voor het gemiddeld aantal arbeidsuren per kalenderweek, bedoeld in [artikel 16
 
 4. In afwijking van het tweede lid wordt het dagloon van de uitkering na omzetting niet lager vastgesteld dan het dagloon van de oWW-uitkering.
 
-#### Artikel 3. Wijze van omzetten bij twee uitkeringen
+##### Artikel 3. Wijze van omzetten bij twee uitkeringen
 
 1. In afwijking van [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040295&artikel=2&z=2018-04-01&g=2018-04-01), wordt, indien er sprake is van een werkloze werknemer die gelijktijdig recht heeft op twee uitkeringen, het dagloon van het eerst ontstane recht als volgt berekend:
 
@@ -94,7 +120,7 @@ I voor hetgeen onder C wordt verstaan in [artikel 2, tweede lid](https://wetten.
 
 3. In afwijking van het eerste lid wordt het dagloon van de uitkering na omzetting niet lager vastgesteld dan het dagloon van de oWW-uitkering.
 
-#### Artikel 4. Wijze van omzetten in geval van herleving van een oWW-uitkering
+##### Artikel 4. Wijze van omzetten in geval van herleving van een oWW-uitkering
 
 1. Het dagloon van de werkloze werknemer wiens recht herleeft op grond van [artikel 21 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21) wordt als volgt omgezet:
 
@@ -110,23 +136,23 @@ I voor hetgeen onder C wordt verstaan in [artikel 2, tweede lid](https://wetten.
 
 4. Het eerste tot en met derde lid zijn niet van toepassing op de werkloze werknemer wiens recht herleeft op grond van [artikel 21 van de Werkloosheidswet](https://wetten.overheid.nl/jci1.3:c:BWBR0004045&artikel=21), waarbij op het moment van herleving een ander WW-recht bestaat.
 
-#### Artikel 5. Omzetten van oude daglonen zonder gevolgen voor de hoogte van het dagloon
+##### Artikel 5. Omzetten van oude daglonen zonder gevolgen voor de hoogte van het dagloon
 
 Indien de [artikelen 2 tot en met 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040295&artikel=2&z=2018-04-01&g=2018-04-01) niet van toepassing zijn en aan [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0040295&artikel=6&z=2018-04-01&g=2018-04-01) geen toepassing wordt gegeven, is het dagloon van de oWW-uitkering gelijk aan het nieuwe dagloon.
 
-#### Artikel 6. Hardheidsclausule
+##### Artikel 6. Hardheidsclausule
 
 Het UWV kan de [artikelen 2 tot en met 5](https://wetten.overheid.nl/jci1.3:c:BWBR0040295&artikel=2&z=2018-04-01&g=2018-04-01) buiten toepassing laten of daarvan afwijken voor zover toepassing, gelet op het belang van het eerbiedigen van de hoogte van de uitkering na de omzetting, zal leiden tot een onbillijkheid van overwegende aard.
 
-#### Artikel 7. Geleidelijke werking
+##### Artikel 7. Geleidelijke werking
 
 Indien er geen sprake is van herleving van een recht als bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040295&artikel=4&z=2018-04-01&g=2018-04-01), vindt omzetting van het dagloon plaats met ingang van 1 oktober 2018.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van 1 april 2018.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit besluit wordt aangehaald als: Besluit eindconversie WW.
 

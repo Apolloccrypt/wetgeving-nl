@@ -1,13 +1,38 @@
 ---
 title: "Omzetbelasting, vrijstelling; artikel 11, eerste lid, onderdeel w, van de Wet op de omzetbelasting 1968, bemiddeling bij gastouderopvang"
 identifier: "BWBR0024434"
-categorie: "Belastingrecht"
-publicatiedatum: 2008-09-06
-laatste_update: 2008-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0024434"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-09-06"
+last_updated: "2008-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0024434"
+soort: "beleidsregel"
+stam_id: "9709603"
+version_id: "15698132"
+internal_id: "C21463781"
+label_id: "9686614"
+dtd_version: "2.0"
+original_entry_into_force: "2008-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0024434/2008-09-06/0"
+intitule_bron: "Stcrt.2008-171"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-08-21"
+intitule_published: "2008-09-04"
+intitule_in_force: "2008-09-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-171"
+original_signed_date: "2008-08-21"
+original_published_date: "2008-09-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-171-p10-SC87279"
+entry_into_force_date: "2008-09-06"
+jci_1_3: "jci1.3:c:BWBR0024434&z=2008-09-06&g=2008-09-06"
+jci_1_0: "1.0:c:BWBR0024434&g=2008-09-06"
+citeertitel_status: "redactioneel"
+signed_date: "2008-08-21"
+entry_into_force: "2008-09-06"
 ---
-
 # Omzetbelasting, vrijstelling; artikel 11, eerste lid, onderdeel w, van de Wet op de omzetbelasting 1968, bemiddeling bij gastouderopvang
 
 Dit besluit behandelt de gevolgen van het arrest van de Hoge Raad van 2 november 2007, nr. 37 137. Dit besluit bevat een goedkeuring voor bemiddeling door gastouderbureaus die niet zelf ook daadwerkelijke kinderopvang verzorgen.

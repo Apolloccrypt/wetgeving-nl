@@ -1,20 +1,44 @@
 ---
 title: "Skal-Reglement Bezwaar"
 identifier: "BWBR0015357"
-categorie: "Overig"
-publicatiedatum: 2003-08-25
-laatste_update: 2003-08-25
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015357"
+country: "nl"
+rank: "zbo"
+publication_date: "2003-08-25"
+last_updated: "2003-08-25"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015357"
+soort: "zbo"
+stam_id: "6564843"
+version_id: "11373302"
+internal_id: "C15316491"
+label_id: "6553314"
+original_entry_into_force: "2003-08-25"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015357/2003-08-25/0"
+intitule_bron: "Stcrt.2003-162"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-07-09"
+intitule_published: "2003-08-25"
+intitule_in_force: "2003-08-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2003-162"
+original_signed_date: "2003-07-09"
+original_published_date: "2003-08-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2003-162-p11-SC60704"
+entry_into_force_date: "2003-08-25"
+jci_1_3: "jci1.3:c:BWBR0015357&z=2003-08-25&g=2003-08-25"
+jci_1_0: "1.0:c:BWBR0015357&g=2003-08-25"
+citeertitel_status: "officieel"
+signed_date: "2003-07-09"
+entry_into_force: "2003-08-25"
 ---
-
 # Skal-Reglement Bezwaar
 
 Gelet op [artikel 10 lid 1 sub e van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=10) (Stb. 1971, 371), alsmede [artikel 14 lid 1 van de Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755&artikel=14), artikel 28 van de Statuten van Stichting Skal en de [Algemene Wet Bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537);
 
 Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door de minister, hierna te noemen: Skal-Reglement Bezwaar
 
-#### Artikel 1. Algemene bepalingen
+##### Artikel 1. Algemene bepalingen
 
 1.1. Dit reglement neemt de begrippen en omschrijvingen over van de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755) en al hetgeen bij of krachtens het Landbouwkwaliteitsbesluit biologische produktiemethode en [Landbouwkwaliteits-regeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176) is vastgesteld, alsmede de statuten van de stichting Skal te Zwolle, bij afkorting 'Skal'.
 
@@ -26,11 +50,11 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 1.5. Waar in dit reglement wordt gesproken over personen of functies, worden daarmee tevens hun functioneel-plaatsvervangers bedoeld.
 
-#### Artikel 2. Bevoegdheid
+##### Artikel 2. Bevoegdheid
 
 2.1. Bezwaar kan door een belanghebbende worden aangetekend tegen door Skal genomen besluiten, alsmede besluiten tot verlening, weigering of intrekking van een vergunning of ontheffing, waaronder tevens wordt verstaan de weigering een dergelijk besluit te nemen, in de uitoefening van zijn publiekrechtelijke bevoegdheden in het kader van de [Landbouwkwaliteitswet](https://wetten.overheid.nl/jci1.3:c:BWBR0002755), het [Landbouwkwaliteitsbesluit biologische productiemethode](https://wetten.overheid.nl/jci1.3:c:BWBR0005740) en de [Landbouwkwaliteitsregeling biologische productiemethode 1996](https://wetten.overheid.nl/jci1.3:c:BWBR0008176).
 
-#### Artikel 3. Ontvankelijkheid
+##### Artikel 3. Ontvankelijkheid
 
 3.1. Het bezwaar dient binnen 6 weken na bekendmaking van het besluit waartegen bezwaar wordt gemaakt te worden aangetekend, door inzending bij de commissie van een ondertekend geschrift, houdende naam en adres van appellant, de datum, een omschrijving van de beslissing waartegen bezwaar gemaakt wordt, dan wel een afschrift hiervan, de redenen van het bezwaar en eventueel een eigen beoordeling van appellant.
 
@@ -38,7 +62,7 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 3.3. De ontvangst van het bezwaarschrift wordt appellant zo spoedig mogelijk schriftelijk bevestigd.
 
-#### Artikel 4. Behandeling door de directeur
+##### Artikel 4. Behandeling door de directeur
 
 4.1. De directeur kan verklaren dat het bezwaar niet ontvankelijk is, indien:
 
@@ -58,7 +82,7 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 4.6. Van een besluit als in het eerste tot en met het vierde lid bedoeld, worden appellant en eventuele andere belanghebbenden ten spoedigste op de hoogte gesteld. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0015357&artikel=7&z=2003-08-25&g=2003-08-25) is van overeenkomstige toepassing.
 
-#### Artikel 5. Behandeling op de hoorzitting
+##### Artikel 5. Behandeling op de hoorzitting
 
 5.1. Na ontvangst van het bezwaarschrift ontvangen appellant en eventuele andere belanghebbenden, behalve in de gevallen bedoeld in [artikel 4, eerste tot en met het vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0015357&artikel=4&z=2003-08-25&g=2003-08-25), een aangetekende uitnodiging om op de hoorzitting te verschijnen.
 
@@ -74,7 +98,7 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 5.7. Indien na het horen van betrokkenen nog nieuwe feiten of omstandigheden bekend orden die voor het op het bezwaar te nemen besluit van aanmerkelijk belang kunnen zijn, wordt dit aan appellant meegedeeld en worden zij in de gelegenheid gesteld daarover te worden gehoord.
 
-#### Artikel 6. Werking en intrekken bezwaar
+##### Artikel 6. Werking en intrekken bezwaar
 
 6.1. Het aantekenen van bezwaar schorst het besluit niet. Tijdens de bezwaarschriftprocedure geldt het genomen besluit.
 
@@ -82,7 +106,7 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 6.3. Appellant kan zijn bezwaar ten alle tijde schriftelijk intrekken. Het mondeling intrekken van het bezwaar is slechts mogelijk op de hoorzitting.
 
-#### Artikel 7. Beslissing op bezwaar
+##### Artikel 7. Beslissing op bezwaar
 
 7.1. Na de hoorzitting heroverweegt de directeur het besluit waartegen bezwaar is aangetekend en beslist op het ingediende bezwaar. De directeur neemt de beslissing op basis van de stukken en hetgeen op de hoorzitting bekend is geworden.
 
@@ -96,13 +120,13 @@ Heeft 9 juli 2003 vastgesteld het navolgende reglement, zoals goedgekeurd door d
 
 7.6. In de beslissing op bezwaar wordt de mogelijkheid van beroep en de bevoegde beroepsinstantie vermeld.
 
-#### Artikel 8. Overige besluiten
+##### Artikel 8. Overige besluiten
 
 8.1. Dit reglement is van overeenkomstige toepassing tegen door Skal genomen besluiten die door een belanghebbende worden aangetekend, alsmede besluiten tot verlening, weigering of intrekking van een vergunning of ontheffing, waaronder tevens wordt verstaan de weigering een dergelijk besluit te nemen, in de uitoefening van niet-publiekrechtelijke bevoegdheden.
 
 8.2. Tegen de uitspraak op bezwaar tegen besluiten als bedoeld in voorgaand lid staat beroep open bij het College van Beroep van Skal conform het Skal-Reglement van Beroep.
 
-#### Artikel 9. Slotbepalingen
+##### Artikel 9. Slotbepalingen
 
 9.1. Dit reglement kan worden aangehaald onder de naam Skal-Reglement Bezwaar.
 

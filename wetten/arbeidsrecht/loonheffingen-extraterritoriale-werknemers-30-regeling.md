@@ -1,13 +1,38 @@
 ---
 title: "Loonheffingen, extraterritoriale werknemers; 30%-regeling"
 identifier: "BWBR0033855"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2013-09-12
-laatste_update: 2013-09-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033855"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2013-09-12"
+last_updated: "2013-09-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033855"
+soort: "beleidsregel"
+stam_id: "12356943"
+version_id: "20737942"
+internal_id: "C29792321"
+label_id: "12328034"
+dtd_version: "2.0"
+original_entry_into_force: "2013-09-12"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033855/2013-09-12/0"
+intitule_bron: "Stcrt.2013-25663"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2013-08-23"
+intitule_published: "2013-09-11"
+intitule_in_force: "2013-09-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2013-25663"
+original_signed_date: "2013-08-23"
+original_published_date: "2013-09-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2013-25663"
+entry_into_force_date: "2013-09-12"
+jci_1_3: "jci1.3:c:BWBR0033855&z=2013-09-12&g=2013-09-12"
+jci_1_0: "1.0:c:BWBR0033855&g=2013-09-12"
+citeertitel_status: "redactioneel"
+signed_date: "2013-08-23"
+entry_into_force: "2013-09-12"
 ---
-
 # Loonheffingen, extraterritoriale werknemers; 30%-regeling
 
 De Staatssecretaris van Financiën heeft het volgende besloten.

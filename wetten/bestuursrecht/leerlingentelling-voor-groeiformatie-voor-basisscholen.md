@@ -1,13 +1,36 @@
 ---
 title: "Leerlingentelling voor groeiformatie voor basisscholen"
 identifier: "BWBR0015103"
-categorie: "Bestuursrecht"
-publicatiedatum: 2003-06-11
-laatste_update: 2003-06-11
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0015103"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2003-06-11"
+last_updated: "2003-06-11"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0015103"
+soort: "beleidsregel"
+stam_id: "6517193"
+version_id: "11213972"
+internal_id: "C15145301"
+label_id: "6505954"
+original_entry_into_force: "2003-06-11"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0015103/2003-06-11/0"
+intitule_bron: "Uitleg.2003-15"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-05-21"
+intitule_published: "2003-06-11"
+intitule_in_force: "2003-06-11"
+intitule_status: "goed"
+original_publication: "Uitleg.2003-15"
+original_signed_date: "2003-05-21"
+original_published_date: "2003-06-11"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2003-06-11"
+jci_1_3: "jci1.3:c:BWBR0015103&z=2003-06-11&g=2003-06-11"
+jci_1_0: "1.0:c:BWBR0015103&g=2003-06-11"
+citeertitel_status: "redactioneel"
+signed_date: "2003-05-21"
+entry_into_force: "2003-06-11"
 ---
-
 # Leerlingentelling voor groeiformatie voor basisscholen
 
 ### 1. Inleiding

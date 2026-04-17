@@ -1,124 +1,150 @@
 ---
-title: "Invoeringsbesluit Waterwet"
+title: "Besluit van 2 december 2009, houdende aanpassing van besluiten met het oog op de invoering van de Waterwet (Invoeringsbesluit Waterwet)"
 identifier: "BWBR0026839"
-categorie: "Milieu"
-publicatiedatum: 2013-01-01
-laatste_update: 2013-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0026839"
+country: "nl"
+rank: "amvb"
+publication_date: "2013-01-01"
+last_updated: "2013-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0026839"
+soort: "AMvB"
+stam_id: "10315203"
+version_id: "16908362"
+internal_id: "C23329121"
+label_id: "10290924"
+dtd_version: "2.0"
+original_entry_into_force: "2009-12-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0026839/2013-01-01/0"
+intitule_bron: "Stb.2009-535"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2009-12-02"
+intitule_published: "2009-12-15"
+intitule_in_force: "2009-12-18"
+intitule_status: "goed"
+original_publication: "Stb.2009-535"
+original_signed_date: "2009-12-02"
+original_published_date: "2009-12-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2009-535"
+entry_into_force_date: "2009-12-22"
+jci_1_3: "jci1.3:c:BWBR0026839&z=2013-01-01&g=2013-01-01"
+jci_1_0: "1.0:c:BWBR0026839&g=2013-01-01"
+citeertitel_status: "officieel"
+short_title: "Invoeringsbesluit Waterwet"
+signed_date: "2009-12-02"
+entry_into_force: "2009-12-22"
 ---
-
 # Besluit van 2 december 2009, houdende aanpassing van besluiten met het oog op de invoering van de Waterwet (Invoeringsbesluit Waterwet)
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
-#### Artikel II
+##### Artikel II
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel III
+##### Artikel III
 
 Wijzigt het Besluit beheer winningsafvalstoffen.
 
-#### Artikel IV
+##### Artikel IV
 
 Wijzigt het Besluit bodemkwaliteit.
 
-#### Artikel V
+##### Artikel V
 
 Wijzigt het Besluit EOS: demo en transitie-experimenten.
 
-#### Artikel VI
+##### Artikel VI
 
 Wijzigt het Besluit gebruik meststoffen.
 
-#### Artikel VII
+##### Artikel VII
 
 Wijzigt het Besluit glastuinbouw.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Wijzigt het Besluit kwaliteitseisen en monitoring water.
 
-#### Artikel IX
+##### Artikel IX
 
 Wijzigt het Besluit lozing afvalwater huishoudens.
 
-#### Artikel X
+##### Artikel X
 
 Wijzigt het Besluit milieu-effectrapportage 1994.
 
-#### Artikel XI
+##### Artikel XI
 
 Wijzigt het Besluit milieuverslaglegging.
 
-#### Artikel XII
+##### Artikel XII
 
 Wijzigt het Besluit overige niet-meldingplichtige gevallen bodemsanering.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Wijzigt het Besluit risico’s zware ongevallen 1999.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Wijzigt het Besluit stimulering duurzame energieproductie.
 
-#### Artikel XV
+##### Artikel XV
 
 Wijzigt het Besluit vergunningen Natuurbeschermingswet 1998.
 
-#### Artikel XVI
+##### Artikel XVI
 
 Wijzigt het Besluit vervuilingswaarde ingenomen water 2009.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Wijzigt het Infiltratiebesluit bodembescherming.
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-#### Artikel XIX
+##### Artikel XIX
 
 Wijzigt het Lozingenbesluit bodembescherming.
 
-#### Artikel XX
+##### Artikel XX
 
 Wijzigt het Lozingenbesluit open teelt en veehouderij.
 
-#### Artikel XXI
+##### Artikel XXI
 
 Wijzigt het Lozingenbesluit Wvo bodemsanering en proefbronnering.
 
-#### Artikel XXII
+##### Artikel XXII
 
 Wijzigt het Lozingenbesluit Wvo huishoudelijk afvalwater.
 
-#### Artikel XXIII
+##### Artikel XXIII
 
 Wijzigt het Lozingenbesluit Wvo vaste objecten.
 
-#### Artikel XXIV
+##### Artikel XXIV
 
 Wijzigt het Scheepsafvalstoffenbesluit Rijn- en binnenvaart.
 
-#### Artikel XXV
+##### Artikel XXV
 
 Wijzigt het Transactiebesluit milieudelicten.
 
-#### Artikel XXVI
+##### Artikel XXVI
 
 Wijzigt het Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten.
 
-#### Artikel XXVII
+##### Artikel XXVII
 
 Wijzigt het Waterschapsbesluit.
 
-#### Artikel XXVIII
+##### Artikel XXVIII
 
 De volgende besluiten worden ingetrokken:
 
@@ -128,7 +154,7 @@ De volgende besluiten worden ingetrokken:
 
 - c. het [Instellingsbesluit reglementering van het Hoogheemraadschap De Stichtse Rijnlanden](https://wetten.overheid.nl/jci1.3:c:BWBR0007084).
 
-#### Artikel XXIX
+##### Artikel XXIX
 
 1. In dit artikel wordt onder beperkingenbesluit verstaan:
 
@@ -146,7 +172,7 @@ die betrekking heeft op de bodem of oever van een oppervlaktewaterlichaam, die d
 
 3. De rechtspersoon waartoe het bestuursorgaan, bedoeld in het tweede lid, behoort, is aansprakelijk voor schade die is veroorzaakt door vergissingen, verzuimen, vertragingen of andere onregelmatigheden, door hem of door personen voor wier gedragingen hij aansprakelijk is begaan bij de nakoming van de in het tweede lid voorgeschreven verplichting.
 
-#### Artikel XXX
+##### Artikel XXX
 
 1. Nadere eisen, gesteld krachtens het [Besluit glastuinbouw](https://wetten.overheid.nl/jci1.3:c:BWBR0013430) vóór 1 oktober 2009, worden gelijkgesteld met maatwerkvoorschriften krachtens dat besluit, zoals het luidt met ingang van die datum.
 
@@ -158,7 +184,7 @@ die betrekking heeft op de bodem of oever van een oppervlaktewaterlichaam, die d
 
 5. Het vierde lid geldt niet voor bescheiden die overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel XXXI
+##### Artikel XXXI
 
 1. Nadere eisen als bedoeld in de [artikelen 5, tweede en derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=5), [6, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=6), [7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=7), [10, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=10), en [11, tweede lid, van het Lozingenbesluit Wvo bodemsanering en proefbronnering](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=11), die onmiddellijk voor het tijdstip van inwerkingtreding van [artikel 6.2 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2) van kracht zijn en die zijn gesteld door de waterkwaliteitsbeheerder, worden gelijkgesteld met nadere eisen, gesteld door het bevoegd gezag, bedoeld in [artikel 1 van dat besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0008511&artikel=1).
 
@@ -166,27 +192,27 @@ die betrekking heeft op de bodem of oever van een oppervlaktewaterlichaam, die d
 
 3. Het tweede lid geldt niet voor bescheiden die overeenkomstig de [Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376) zijn overgebracht naar een archiefbewaarplaats.
 
-#### Artikel XXXII
+##### Artikel XXXII
 
 Nadere eisen, gesteld krachtens het [Besluit landbouw milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0020112) vóór 1 oktober 2009, worden gelijkgesteld met maatwerkvoorschriften krachtens dat besluit, zoals het luidt met ingang van die datum.
 
-#### Artikel XXXIII
+##### Artikel XXXIII
 
 Maatwerkvoorschriften als bedoeld in [artikel 2.2, derde lid, van het Activiteitenbesluit milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0022762&artikel=2.2) met betrekking tot het lozen in het oppervlaktewater, gesteld vóór het tijdstip van inwerkingtreding van [artikel II](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=II&z=2013-01-01&g=2013-01-01), worden gelijkgesteld met een vergunning voor het brengen van stoffen in een oppervlaktewaterlichaam als bedoeld in [artikel 6.2, eerste lid, van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=6.2).
 
-#### Artikel XXXIV
+##### Artikel XXXIV
 
 Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.
 
-#### Artikel XXXV
+##### Artikel XXXV
 
 De leggers, bedoeld in [artikel 5.1 van de Waterwet](https://wetten.overheid.nl/jci1.3:c:BWBR0025458&artikel=5.1), voor andere dan primaire waterkeringen in beheer bij het Rijk, kunnen uiterlijk drie jaar na het tijdstip van inwerkingtreding van dat artikel worden vastgesteld.
 
-#### Artikel XXXVI
+##### Artikel XXXVI
 
 Dit besluit wordt aangehaald als: Invoeringsbesluit Waterwet.
 
-#### Artikel XXXVII
+##### Artikel XXXVII
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. De [artikelen XXVII, onderdeel C](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXVII&z=2013-01-01&g=2013-01-01), [XXX, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXX&z=2013-01-01&g=2013-01-01), en [XXXII](https://wetten.overheid.nl/jci1.3:c:BWBR0026839&artikel=XXXII&z=2013-01-01&g=2013-01-01) kunnen terugwerken tot een bij dat besluit te bepalen tijdstip.
 

@@ -1,18 +1,43 @@
 ---
 title: "Regeling macrobeheersinstrument verpleging en verzorging 2025"
 identifier: "BWBR0050089"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-01-01
-laatste_update: 2025-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050089"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-01-01"
+last_updated: "2025-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050089"
+soort: "zbo"
+stam_id: "17194523"
+version_id: "30271182"
+internal_id: "C43355641"
+label_id: "17100894"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050089/2025-01-01/0"
+intitule_bron: "Stcrt.2024-25500"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-07-16"
+intitule_published: "2024-08-02"
+intitule_in_force: "2024-08-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-25500"
+original_signed_date: "2024-07-16"
+original_published_date: "2024-08-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-25500"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050089&z=2025-01-01&g=2025-01-01"
+jci_1_0: "1.0:c:BWBR0050089&g=2025-01-01"
+citeertitel_status: "officieel"
+signed_date: "2024-07-16"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling macrobeheersinstrument verpleging en verzorging 2025
 
 Gelet op de [artikelen 36](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=36), [37](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=37), [62](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=62), [68](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=68) en [76, tweede lid, van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76) (Wmg), besluit de Nederlandse Zorgautoriteit (NZa) tot vaststelling van de navolgende regeling.
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
@@ -42,7 +67,7 @@ In deze regeling wordt, tenzij anders vermeld, verstaan onder:
 
 - **Zorgverzekeringsfonds:** het fonds bedoeld in [artikel 39 van de Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450&artikel=39).
 
-#### Artikel 2. Doel van de regeling
+##### Artikel 2. Doel van de regeling
 
 Deze regeling heeft tot doel uitvoering te geven aan het macrobeheersinstrument en daarbij de navolgende voorwaarden, voorschriften en/of beperkingen te stellen:
 
@@ -52,7 +77,7 @@ Deze regeling heeft tot doel uitvoering te geven aan het macrobeheersinstrument 
 
 - –. voorschriften met betrekking tot afdracht in verband met overschrijding van een tariefgrens als bedoeld in [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 3. Reikwijdte
+##### Artikel 3. Reikwijdte
 
 Deze regeling is van toepassing op zorgaanbieders die in 2025 verpleging en verzorging leveren waarop aanspraak bestaat op grond van de [Zorgverzekeringswet](https://wetten.overheid.nl/jci1.3:c:BWBR0018450) (Zvw).
 
@@ -62,7 +87,7 @@ Deze regeling is voorts van toepassing op zorgverzekeraars als bedoeld in [artik
 
 Deze regeling is daarnaast van toepassing op degene die gegevens verzamelt, bewaart en bewerkt ten behoeve van zorgaanbieders of zorgverzekeraars zoals hierboven bedoeld, alsmede op de groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=24b), indien zorgaanbieders of zorgverzekeraars daartoe behoren.
 
-#### Artikel 4. Administratievoorschriften
+##### Artikel 4. Administratievoorschriften
 
 De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit kan worden afgeleid:
 
@@ -70,7 +95,7 @@ De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit
 
 - –. de AGB-code van de zorgaanbieder behorend bij de gerealiseerde omzet.
 
-#### Artikel 5. Gegevensverstrekking
+##### Artikel 5. Gegevensverstrekking
 
 1. De zorgverzekeraar informeert de NZa per AGB-code over het totaal van de gerealiseerde omzet over het jaar 2025.
 
@@ -90,31 +115,31 @@ De zorgverzekeraar richt haar administratie op een zodanige wijze in dat daaruit
 
 - –. een accountantsverklaring als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=7&z=2025-01-01&g=2025-01-01).
 
-#### Artikel 6. Uitzondering
+##### Artikel 6. Uitzondering
 
 [Artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=5&z=2025-01-01&g=2025-01-01) is niet van toepassing, indien door de NZa in een collectieve beschikking kenbaar is gemaakt dat de bovengrens met betrekking tot de verpleging en verzorging niet is overschreden.
 
-#### Artikel 7. Accountantscontrole gegevensverstrekking
+##### Artikel 7. Accountantscontrole gegevensverstrekking
 
 De zorgverzekeraar draagt er zorg voor dat een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0003045&artikel=393) de juistheid van de op grond van het [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=5&z=2025-01-01&g=2025-01-01) verstrekte gegevens en inlichtingen vaststelt. Dit is overeenkomstig de wijze die is bepaald in de in artikel 5.3 en 5.4 genoemde formulieren en het daarbij beschikbaar te stellen controleprotocol.
 
-#### Artikel 8. Wijze van gegevensverstrekking
+##### Artikel 8. Wijze van gegevensverstrekking
 
 1. De zorgverzekeraar verzendt de opgave als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=5&z=2025-01-01&g=2025-01-01) naar de NZa.
 
 2. Het in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=5&z=2025-01-01&g=2025-01-01) bedoelde formulier en het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0050089&artikel=7&z=2025-01-01&g=2025-01-01) bedoelde controleprotocol worden beschikbaar gesteld op de website van de NZa ([www.nza.nl](http://www.nza.nl)).
 
-#### Artikel 9. Afdracht overschrijding
+##### Artikel 9. Afdracht overschrijding
 
 1. Op grond van de geldende Beleidsregel macrobeheersinstrument verpleging en verzorging 2025, draagt de NZa in een aanwijzing als bedoeld in [artikel 76, tweede lid, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=76), de zorgaanbieder op een percentage van de door haar in jaar 2025 behaalde omzet terug te betalen. Het hiervoor genoemde percentage, dat voor iedere zorgaanbieder van verpleging en verzorging hetzelfde is, wordt vastgesteld op basis van de (procentuele) verhouding tussen de hoogte van de overschrijding van de bovengrens en de op grond van [artikel 50, tweede lid, onderdeel c, van de Wmg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50), vastgestelde macro-omzetgrens.
 
 2. De in artikel 9.1 genoemde terugbetaling geschiedt ten gunste van het Zorgverzekeringsfonds binnen een in de aanwijzing genoemde betalingstermijn.
 
-#### Artikel 10. Intrekken oude regeling
+##### Artikel 10. Intrekken oude regeling
 
 Gelijktijdig met de inwerkingtreding van deze regeling wordt de [Regeling macrobeheersinstrument verpleging en verzorging 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045378), met kenmerk NR/REG-2202, ingetrokken.
 
-#### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
+##### Artikel 11. Toepasselijkheid voorafgaande regeling, bekendmaking, inwerkingtreding en citeertitel
 
 De [Regeling macrobeheersinstrument verpleging en verzorging 2022](https://wetten.overheid.nl/jci1.3:c:BWBR0045378), met kenmerk NR/REG-2202, blijft van toepassing op gedragingen (handelen en nalaten) van zorgaanbieders, zorgverzekeraars en anderen die onder de werkingssfeer van die regeling vielen en die zijn aangevangen – en al dan niet beëindigd – in de periode dat die regeling gold.
 

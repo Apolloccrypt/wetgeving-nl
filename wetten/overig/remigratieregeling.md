@@ -1,13 +1,39 @@
 ---
-title: "Remigratieregeling"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 maart 2014, 2014-0000033986, tot vaststelling van nadere regels omtrent de uitvoering van de Remigratiewet en het Remigratiebesluit (Remigratieregeling)"
 identifier: "BWBR0034951"
-categorie: "Overig"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034951"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034951"
+soort: "ministeriele-regeling"
+stam_id: "12614833"
+version_id: "21303932"
+internal_id: "C30692731"
+label_id: "12585314"
+dtd_version: "2.0"
+original_entry_into_force: "2014-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034951/2026-01-01/0"
+intitule_bron: "Stcrt.2014-7964"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-03-13"
+intitule_published: "2014-03-21"
+intitule_in_force: "2014-04-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-7964"
+original_signed_date: "2014-03-13"
+original_published_date: "2014-03-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-7964"
+entry_into_force_date: "2014-07-01"
+jci_1_3: "jci1.3:c:BWBR0034951&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0034951&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Remigratieregeling"
+signed_date: "2014-03-13"
+entry_into_force: "2014-07-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 13 maart 2014, 2014-0000033986, tot vaststelling van nadere regels omtrent de uitvoering van de Remigratiewet en het Remigratiebesluit (Remigratieregeling)
 
 Gelet op de [artikelen 2a, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2a), [2b, vijfde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2b), [8a, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8a), en [8h, tweede lid van de Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8h) en de [artikelen 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), en [5, eerste lid, van het Remigratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5);
@@ -16,19 +42,19 @@ Besluit:
 
 Treedt in werking op het tijdstip waarop de Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet) (Stb. 2013, 331) in werking treedt.
 
-#### Artikel 1
+##### Artikel 1
 
 In deze regeling wordt verstaan onder besluit: [Remigratiebesluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905).
 
-#### Artikel 2
+##### Artikel 2
 
 De verklaring, bedoeld in [artikel 2, onderdeel b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2), wordt gedaan door indiening van een volledig ingevuld en ondertekend formulier dat daartoe door de Sociale verzekeringsbank beschikbaar wordt gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 De jaarlijkse informatie over de voortgang van de behandeling van het verzoek van de remigrant tot verkrijging van de nationaliteit van het bestemmingsland als bedoeld in [artikel 2a, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2a), wordt schriftelijk en ondertekend ingediend bij de Sociale verzekeringsbank.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot de categorie van vreemdelingen, bedoeld in [artikel 2b, vijfde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=2b), behoort:
 
@@ -80,15 +106,15 @@ De jaarlijkse informatie over de voortgang van de behandeling van het verzoek va
 
 4. Onder verblijf voor het verrichten van arbeid als zelfstandige als bedoeld in het eerste lid, onderdeel k, wordt het verblijf verstaan van de vreemdeling, bedoeld in [artikel 3, eerste lid, onderdeel b, van de Wet arbeid vreemdelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0007149&artikel=3).
 
-#### Artikel 5
+##### Artikel 5
 
 De hoogte van de bruto bedragen van de remigratie-uitkering, bedoeld in [artikel 2 van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=2), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=2&z=2026-01-01&g=2026-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 6
+##### Artikel 6
 
 De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf af te sluiten verzekering tegen ziektekosten in het bestemmingsland, bedoeld in [artikel 5, eerste lid, van het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0034905&artikel=5), wordt vastgesteld op basis van de bedragen genoemd in [bijlage 3](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=3&z=2026-01-01&g=2026-01-01), die afhankelijk zijn van de categorie van bestemmingslanden, vermeld in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0034951&bijlage=1&z=2026-01-01&g=2026-01-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De uitvoering door de Sociale verzekeringbank van de wet, bedoeld in [artikel 8a van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=8), omvat in elk geval:
 
@@ -100,25 +126,25 @@ De hoogte van de bruto bedragen van de tegemoetkoming in de kosten van de zelf a
 
 2. Over de inhoud en de uitgave van informatie en formulieren, bedoeld in het eerste lid, onderdeel c, vindt periodiek overleg plaats tussen de Sociale verzekeringsbank, het Nederlands Migratie Instituut en het Ministerie van Sociale Zaken en Werkgelegenheid.
 
-#### Artikel 8
+##### Artikel 8
 
 Op verzoek van de minister verstrekt de Sociale verzekeringsbank overeenkomstig de door hem gestelde eisen en binnen de door hem gestelde termijn alle gevraagde inlichtingen, gegevens en bescheiden, die hij voor de uitoefening van zijn taak in verband met de wet nodig acht.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In dit artikel wordt onder basisvoorzieningen verstaan de vergoedingen, bedoeld in [artikel 3, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0010424&artikel=3) zoals dat luidde op de dag voor het tijdstip van inwerkingtreding van deze regeling.
 
 2. De [artikelen 2](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&artikel=2), [3](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&artikel=3), [4](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&artikel=4) en [5 van de Regeling vaststelling bedragen Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&artikel=5), alsmede de [bijlagen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&bijlage=1) en [2 bij die regeling](https://wetten.overheid.nl/jci1.3:c:BWBR0011214&bijlage=2), zoals die luidden op de dag voor het tijdstip van inwerkingtreding van deze regeling, blijven van toepassing op personen die voor het tijdstip van de inwerkingtreding van deze regeling een ontvankelijke aanvraag tot toekenning van de basisvoorzieningen in de zin van de genoemde artikelen bij de Sociale verzekeringsbank hebben ingediend.
 
-#### Artikel 10
+##### Artikel 10
 
 De [Regeling aanwijzing vreemdelingen wegens verblijf voor een tijdelijk doel](https://wetten.overheid.nl/jci1.3:c:BWBR0011235), de [Regeling vaststelling bedragen Remigratiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0011214) en de [Regeling uitvoering en informatieverstrekking Sociale verzekeringsbank](https://wetten.overheid.nl/jci1.3:c:BWBR0011225) worden ingetrokken.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze regeling treedt in werking op het tijdstip waarop de [Wet van 10 juli 2013 tot wijziging van de Remigratiewet (heroverweging Remigratiewet)](https://wetten.overheid.nl/jci1.3:c:BWBR0033774) (Stb. 2013, 331) in werking treedt.
 
-#### Artikel 12
+##### Artikel 12
 
 Deze regeling wordt aangehaald als: Remigratieregeling.
 

@@ -1,13 +1,38 @@
 ---
 title: "Verdrag tussen het Koninkrijk der Nederlanden en Japan inzake sociale zekerheid"
 identifier: "BWBV0003018"
-categorie: "Sociaal recht"
-publicatiedatum: 2009-03-01
-laatste_update: 2009-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003018"
+country: "nl"
+rank: "verdrag"
+publication_date: "2009-03-01"
+last_updated: "2009-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003018"
+soort: "verdrag"
+stam_id: "10003293243"
+version_id: "10003318432"
+internal_id: "C10008430181"
+label_id: "10003279444"
+dtd_version: "2.0"
+original_entry_into_force: "2009-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003018/2009-03-01/0"
+intitule_bron: "Trb.2008-64"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-04-01"
+intitule_published: "2008-04-10"
+intitule_in_force: "2009-02-09"
+intitule_status: "goed"
+original_publication: "Trb.2008-64"
+original_signed_date: "2008-04-01"
+original_published_date: "2008-04-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2008-64"
+entry_into_force_date: "2009-03-01"
+jci_1_3: "jci1.3:c:BWBV0003018&z=2009-03-01&g=2009-03-01"
+jci_1_0: "1.0:c:BWBV0003018&g=2009-03-01"
+citeertitel_status: "redactioneel"
+signed_date: "2008-04-01"
+entry_into_force: "2009-03-01"
 ---
-
 # Verdrag tussen het Koninkrijk der Nederlanden en Japan inzake sociale zekerheid
 
 Het Koninkrijk der Nederlanden
@@ -22,7 +47,7 @@ Zijn het volgende overeengekomen:
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Verdrag wordt verstaan onder:
 
@@ -44,7 +69,7 @@ Zijn het volgende overeengekomen:
 
 2. Voor de toepassing van dit Verdrag heeft elke uitdrukking die in dit Verdrag niet wordt omschreven de betekenis die eraan wordt gegeven in de van toepassing zijnde wetgeving.
 
-#### Artikel 2. Materiële werkingssfeer
+##### Artikel 2. Materiële werkingssfeer
 
 Dit Verdrag is van toepassing
 
@@ -96,15 +121,15 @@ Dit Verdrag is van toepassing
 
 voor de toepassing van dit Verdrag zijn de artikelen 14 tot en met 21, 26, 30 (met uitzondering van het derde lid) en artikel 32, tweede lid, evenwel niet van toepassing op de takken van sociale zekerheid bedoeld in de onderdelen d tot en met g van dit lid, en de [artikelen 5](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=5&z=2009-03-01&g=2009-03-01), 27 en artikel 31, tweede lid, zijn niet van toepassing op de takken van sociale zekerheid bedoeld in de onderdelen d, f en g van dit lid.
 
-#### Artikel 3. Personele werkingssfeer
+##### Artikel 3. Personele werkingssfeer
 
 Dit Verdrag is van toepassing op personen op wie de wetgeving van een Verdragsluitende Staat van toepassing is of is geweest, alsmede op gezinsleden of nabestaanden die aan deze personen rechten ontlenen.
 
-#### Artikel 4. Gelijkheid van behandeling
+##### Artikel 4. Gelijkheid van behandeling
 
 Tenzij anders voorzien in dit Verdrag worden de personen omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=3&z=2009-03-01&g=2009-03-01), die gewoonlijk wonen op het grondgebied van een Verdragsluitende Staat bij de toepassing van de wetgeving van die Verdragsluitende Staat op dezelfde wijze behandeld als onderdanen van die Staat.
 
-#### Artikel 5. Betaling van uitkeringen in het buitenland
+##### Artikel 5. Betaling van uitkeringen in het buitenland
 
 1. Tenzij anders voorzien in dit Verdrag zijn bepalingen van de wetgeving van een Verdragsluitende Staat die het recht op of de betaling van uitkeringen beperken uitsluitend omdat de rechthebbende gewoonlijk woont buiten het grondgebied van die Verdragsluitende Staat niet van toepassing op personen die gewoonlijk wonen op het grondgebied van de andere Verdragsluitende Staat. Het voorgaande laat evenwel onverlet:
 
@@ -116,11 +141,11 @@ Tenzij anders voorzien in dit Verdrag worden de personen omschreven in [artikel 
 
 ## DEEL II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETGEVING
 
-#### Artikel 6. Algemene bepalingen
+##### Artikel 6. Algemene bepalingen
 
 Tenzij anders voorzien in dit Verdrag is op personen die als werknemer of als zelfstandige werkzaam zijn op het grondgebied van een Verdragsluitende Staat ter zake van dat dienstverband of die werkzaamheden als zelfstandige uitsluitend de wetgeving van die Verdragsluitende Staat van toepassing.
 
-#### Artikel 7. Bijzondere bepalingen
+##### Artikel 7. Bijzondere bepalingen
 
 1. Indien een persoon op wie de wetgeving van een Verdragsluitende Staat van toepassing is en die als werknemer op het grondgebied van die Verdragsluitende Staat in dienst is van een werkgever die zijn plaats van bedrijfsuitoefening heeft op dat grondgebied door die werkgever vanuit dat grondgebied of vanuit een grondgebied buiten beide Verdragsluitende Staten wordt uitgezonden om werkzaam te zijn op het grondgebied van de andere Verdragsluitende Staat, is op de werknemer uitsluitend de wetgeving van de eerstgenoemde Verdragsluitende Staat van toepassing als zou die werknemer op het grondgebied van de eerstgenoemde Verdragsluitende Staat werkzaam zijn, mits het tijdvak van deze detachering naar verwachting ten hoogste vijf jaar zal belopen.
 
@@ -132,29 +157,29 @@ Tenzij anders voorzien in dit Verdrag is op personen die als werknemer of als ze
 
 5. Indien de werkzaamheden als zelfstandige op het grondgebied van de andere Verdragsluitende Staat bedoeld in het vierde lid van dit artikel langer voortduren dan vijf jaar, kunnen de bevoegde autoriteiten of bevoegde organen van beide Verdragsluitende Staten overeenkomen dat op de zelfstandige uitsluitend de wetgeving van de eerstgenoemde Verdragsluitende Staat van toepassing blijft.
 
-#### Artikel 8. Werknemers aan boord van zeeschepen
+##### Artikel 8. Werknemers aan boord van zeeschepen
 
 Op personen die als werknemer werkzaam zijn aan boord van zeeschepen die onder de vlag van een de Verdragsluitende Staten varen is, ter zake van die werkzaamheden, uitsluitend de wetgeving van de Verdragsluitende Staat op het grondgebied waarvan de werkgever gevestigd is van toepassing.
 
-#### Artikel 9. Leden van diplomatieke zendingen, leden van consulaire posten en ambtenaren
+##### Artikel 9. Leden van diplomatieke zendingen, leden van consulaire posten en ambtenaren
 
 1. Dit Verdrag laat de bepalingen van het Verdrag van Wenen inzake diplomatiek verkeer van 18 april 1961 of van het Verdrag van Wenen inzake consulaire betrekkingen van 24 april 1963 onverlet.
 
 2. Behoudens het eerste lid van dit artikel, indien ambtenaren van een Verdragsluitende Staat of in de wetgeving van die Verdragsluitende Staat als zodanig aangemerkte personen naar het grondgebied van de andere Verdragsluitende Staat worden gezonden om aldaar werkzaam te zijn, is op die personen uitsluitend de wetgeving van de eerstgenoemde Verdragsluitende Staat van toepassing als zouden die personen werkzaam zijn op het grondgebied van de eerstgenoemde Verdragsluitende Staat.
 
-#### Artikel 10. Uitzonderingen op de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=6&z=2009-03-01&g=2009-03-01)
+##### Artikel 10. Uitzonderingen op de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=6&z=2009-03-01&g=2009-03-01)
 
 Op verzoek van een werknemer en een werkgever of een zelfstandige kunnen de bevoegde autoriteiten of bevoegde organen van beide Verdragsluitende Staten ermee instemmen ten behoeve van bepaalde personen of categorieën personen uitzonderingen toe te staan op de [artikelen 6 tot en met 9](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=6&z=2009-03-01&g=2009-03-01), mits op deze personen of categorieën personen uitsluitend de wetgeving van een van de Verdragsluitende Staten van toepassing is.
 
-#### Artikel 11. Echtgenote en kinderen
+##### Artikel 11. Echtgenote en kinderen
 
 Op de echtgenote of kinderen die een persoon die werkzaam is op het grondgebied van Nederland vergezellen en op wie de wetgeving van Japan in overeenstemming met [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=7&z=2009-03-01&g=2009-03-01) (met uitzondering van het derde lid), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=9&z=2009-03-01&g=2009-03-01), of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=10&z=2009-03-01&g=2009-03-01) van toepassing is, is uitsluitend de wetgeving van Japan van toepassing, tenzij zij zelf op het grondgebied van Nederland als werknemer of zelfstandige werkzaam zijn.
 
-#### Artikel 12. Verplichte verzekering
+##### Artikel 12. Verplichte verzekering
 
 Op de [artikelen 6 tot en met 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=6&z=2009-03-01&g=2009-03-01), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=9&z=2009-03-01&g=2009-03-01), en [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=11&z=2009-03-01&g=2009-03-01) zijn uitsluitend van toepassing op verplichte verzekering uit hoofde van de wetgeving van beide Verdragsluitende Staten. [Artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=7&z=2009-03-01&g=2009-03-01) is niet van toepassing op personen die als werknemer werkzaam zijn op het grondgebied van Japan bij een werkgever die een plaats van bedrijfsuitoefening heeft op dat grondgebied of op het grondgebied van Japan gewoonlijk werkzaam is als zelfstandige, indien op die personen niet de wetgeving van Japan inzake de Japanse pensioenregelingen omschreven in [artikel 2, eerste lid, onderdeel a, i tot en met v](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=2&z=2009-03-01&g=2009-03-01), van toepassing is.
 
-#### Artikel 13. Woonplaats in Nederland
+##### Artikel 13. Woonplaats in Nederland
 
 Personen op wie in overeenstemming met de bepalingen van de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=6&z=2009-03-01&g=2009-03-01), [7](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=7&z=2009-03-01&g=2009-03-01) (met uitzondering van het derde lid), [8](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=8&z=2009-03-01&g=2009-03-01), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=9&z=2009-03-01&g=2009-03-01), en [10](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=10&z=2009-03-01&g=2009-03-01) de wetgeving van Nederland van toepassing is, worden aangemerkt als zijnde woonachtig op het grondgebied van Nederland gedurende het tijdvak waarin op die personen de wetgeving van Nederland van toepassing is.
 
@@ -162,7 +187,7 @@ Personen op wie in overeenstemming met de bepalingen van de [artikelen 6](https:
 
 ### HOOFDSTUK 1. BEPALINGEN INZAKE NEDERLANDSE UITKERINGEN
 
-#### Artikel 14. Arbeidsongeschiktheidsuitkering
+##### Artikel 14. Arbeidsongeschiktheidsuitkering
 
 1. Het bevoegde orgaan van Nederland neemt ten behoeve van de vaststelling van het recht op de Nederlandse arbeidsongeschiktheidsuitkering de verzekeringstijdvakken uit hoofde van de wetgeving van Japan in aanmerking, voor zover zij niet samenvallen met de verzekeringstijdvakken uit hoofde van de wetgeving van Nederland.
 
@@ -172,7 +197,7 @@ Personen op wie in overeenstemming met de bepalingen van de [artikelen 6](https:
 
 4. De tijdvakken van arbeid en daarmee gelijkgestelde tijdvakken die voor 1 juli 1967 in Nederland zijn vervuld worden aangemerkt als verzekeringstijdvakken vervuld krachtens de wetgeving van Nederland inzake arbeidsongeschiktheidsuitkeringen voor werknemers.
 
-#### Artikel 15. Ouderdomspensioen
+##### Artikel 15. Ouderdomspensioen
 
 1. Het bevoegde orgaan van Nederland stelt het recht op ouderdomspensioen vast en berekent het bedrag uitsluitend op basis van de krachtens de wetgeving van Nederland vervulde verzekeringstijdvakken.
 
@@ -180,7 +205,7 @@ Personen op wie in overeenstemming met de bepalingen van de [artikelen 6](https:
 
 3. De in het tweede lid van dit artikel bedoelde tijdvakken worden bij de berekening van het ouderdomspensioen uitsluitend in aanmerking genomen, indien de betrokkene verzekerd is geweest krachtens de Nederlandse Algemene Ouderdomswet en na het bereiken van de leeftijd van 59 jaar ten minste zes jaar op het grondgebied van een of beide Verdragsluitende Staten heeft gewoond en alleen zolang hij op het grondgebied van een van beide Verdragsluitende Staten woont. Deze tijdvakken worden evenwel niet in aanmerking genomen indien zij samenvallen met tijdvakken die reeds in aanmerking zijn genomen voor de berekening van een ouderdomspensioen krachtens andere wetgeving dan die van Nederland.
 
-#### Artikel 16. Nabestaandenuitkering
+##### Artikel 16. Nabestaandenuitkering
 
 1. Wanneer een persoon omschreven in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=3&z=2009-03-01&g=2009-03-01) op het tijdstip van zijn overlijden onderworpen was aan de wetgeving van Japan en voordien een verzekeringstijdvak had vervuld van ten minste twaalf maanden krachtens de wetgeving van Nederland inzake nabestaandenuitkeringen, hebben zijn nabestaanden recht op een uitkering krachtens laatstgenoemde wetgeving berekend volgens het tweede lid van dit artikel.
 
@@ -188,7 +213,7 @@ Personen op wie in overeenstemming met de bepalingen van de [artikelen 6](https:
 
 ### HOOFDSTUK 2. BEPALINGEN INZAKE JAPANSE UITKERINGEN
 
-#### Artikel 17. Samentelling
+##### Artikel 17. Samentelling
 
 1. Indien een persoon onvoldoende verzekeringstijdvakken heeft vervuld om te voldoen aan de voorwaarden voor recht op Japanse uitkeringen, neemt het bevoegde orgaan van Japan voor het vaststellen van het recht op deze uitkeringen uit hoofde van dit artikel de krachtens de wetgeving van Nederland vervulde verzekeringstijdvakken in aanmerking voor zover zij niet samenvallen met de verzekeringstijdvakken vervuld krachtens de wetgeving van Japan.
 
@@ -196,7 +221,7 @@ Het voorgaande is evenwel niet van toepassing op aanvullende pensioenen voor oms
 
 2. Bij de toepassing van het eerste lid van dit artikel worden de verzekeringstijdvakken vervuld krachtens de wetgeving van Nederland in aanmerking genomen als verzekeringstijdvakken vervuld krachtens de Japanse pensioenregelingen voor werknemers en als de bijbehorende verzekeringstijdvakken krachtens het nationaal pensioen.
 
-#### Artikel 18. Bijzondere bepalingen inzake arbeidsongeschiktheidsuitkeringen en nabestaandenuitkeringen
+##### Artikel 18. Bijzondere bepalingen inzake arbeidsongeschiktheidsuitkeringen en nabestaandenuitkeringen
 
 1. Indien de wetgeving van Japan voor het recht op arbeidsongeschiktheidsuitkeringen of nabestaandenuitkeringen (met uitzondering van lumpsum betalingen gelijk aan de terugbetaling van premies of bijdragen) voorschrijft dat de datum van het eerste geneeskundige onderzoek of van overlijden binnen omschreven verzekeringstijdvakken dient te liggen, wordt voor het vaststellen van het recht op deze uitkeringen geacht aan deze voorwaarde te zijn voldaan, indien deze datum ligt binnen de verzekeringstijdvakken krachtens de wetgeving van Nederland.
 
@@ -204,7 +229,7 @@ Indien het recht op arbeidsongeschiktheidsuitkeringen of nabestaandenuitkeringen
 
 2. Bij de toepassing van het eerste lid van dit artikel op een persoon die verzekeringstijdvakken heeft vervuld krachtens twee of meer Japanse pensioenregelingen voor werknemers, wordt geacht in overeenstemming met de wetgeving van Japan aan de in dat lid bedoelde voorwaarde voor een van deze pensioenregelingen te zijn voldaan.
 
-#### Artikel 19. Berekening van het bedrag van uitkeringen
+##### Artikel 19. Berekening van het bedrag van uitkeringen
 
 1. Wanneer een recht op een Japanse uitkering wordt vastgesteld uit hoofde van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=III&hoofdstuk=2&artikel=17&z=2009-03-01&g=2009-03-01), of [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=III&hoofdstuk=2&artikel=18&z=2009-03-01&g=2009-03-01), berekent het bevoegde orgaan van Japan het bedrag van die uitkering in overeenstemming met de wetgeving van Japan met inachtneming van het tweede tot en met het vijfde lid van dit artikel.
 
@@ -216,17 +241,17 @@ Indien het recht op arbeidsongeschiktheidsuitkeringen of nabestaandenuitkeringen
 
 5. Wat betreft het aanvullend pensioen voor echtgenoten dat deel uitmaakt van het ouderdomspensioen voor werknemers en andere uitkeringen die als een vast bedrag kunnen worden toegekend in gevallen waarin de verzekeringstijdvakken krachtens de Japanse pensioenregelingen voor werknemers gelijk zijn aan of hoger dan het door de wetgeving van Japan bepaalde tijdvak, indien voldaan wordt aan de voorwaarden voor het ontvangen van dergelijke uitkeringen uit hoofde van [artikel 17, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=III&hoofdstuk=2&artikel=17&z=2009-03-01&g=2009-03-01), wordt het toe te kennen bedrag berekend naar rato van deze verzekeringstijdvakken krachtens de Japanse pensioenregelingen voor werknemers waaruit dergelijke uitkeringen voor dat omschreven tijdvak zullen worden betaald.
 
-#### Artikel 20. Verzekeringstijdvak
+##### Artikel 20. Verzekeringstijdvak
 
 Bij de toepassing van de [artikelen 17 tot en met 19](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=III&hoofdstuk=2&artikel=17&z=2009-03-01&g=2009-03-01) worden, onverminderd [artikel 1, eerste lid, onderdeel g](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=1&z=2009-03-01&g=2009-03-01), verzekeringstijdvakken die uitsluitend krachtens de wetgeving van Nederland op grond van wonen op het grondgebied van Nederland worden meegeteld, niet in aanmerking genomen.
 
-#### Artikel 21. Uitzondering op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=4&z=2009-03-01&g=2009-03-01)
+##### Artikel 21. Uitzondering op [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=4&z=2009-03-01&g=2009-03-01)
 
 [Artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=4&z=2009-03-01&g=2009-03-01) laat de bepalingen inzake aanvullende tijdvakken voor Japanse onderdanen op grond van woonplaats buiten het grondgebied van Japan krachtens de wetgeving van Japan onverlet.
 
 ## DEEL IV. DIVERSE BEPALINGEN
 
-#### Artikel 22. Administratieve samenwerking
+##### Artikel 22. Administratieve samenwerking
 
 1. De bevoegde autoriteiten van de Verdragsluitende Staten:
 
@@ -238,45 +263,45 @@ Bij de toepassing van de [artikelen 17 tot en met 19](https://wetten.overheid.nl
 
 2. De bevoegde autoriteiten en bevoegde organen van beide Verdragsluitende Staten verlenen elkaar binnen het mandaat van hun onderscheiden autoriteiten de nodige bijstand voor de uitvoering van dit Verdrag. Dergelijke bijstand wordt kosteloos verleend.
 
-#### Artikel 23. Kosten of heffingen en legalisering
+##### Artikel 23. Kosten of heffingen en legalisering
 
 1. Voor zover de wetgeving en andere relevante regelgeving van een Verdragsluitende Staat bepalingen bevat met betrekking tot vrijstelling of verlaging van administratieve of consulaire heffingen voor krachtens de wetgeving van die Verdragsluitende Staat over te leggen documenten, zijn die bepalingen eveneens van toepassing op bij de toepassing van dit Verdrag en de uitvoering van de wetgeving van de andere Verdragsluitende Staat over te leggen documenten.
 
 2. Voor documenten die voor de toepassing van dit Verdrag en de uitvoering van de wetgeving van een Verdragsluitende Staat worden overgelegd zijn geen legalisatie of andere daarmee vergelijkbare formaliteiten door diplomatieke of consulaire autoriteiten vereist.
 
-#### Artikel 24. Communicatie
+##### Artikel 24. Communicatie
 
 1. Bij de uitvoering van dit Verdrag kunnen de bevoegde autoriteiten en bevoegde organen van beide Verdragsluitende Staten rechtstreeks met elkaar en met elke betrokkene, ongeacht waar hij woont, communiceren in de Japanse, de Nederlandse of de Engelse taal.
 
 2. Bij de uitvoering van dit Verdrag mogen de bevoegde autoriteiten en bevoegde organen van een Verdragsluitende Staat geen aanvragen of andere documenten afwijzen op grond van het feit dat zij zijn opgesteld in de taal van de andere Verdragsluitende Staat.
 
-#### Artikel 25. Vertrouwelijk karakter van inlichtingen
+##### Artikel 25. Vertrouwelijk karakter van inlichtingen
 
 1. De bevoegde autoriteiten of bevoegde organen van een Verdragsluitende Staat zenden de bevoegde autoriteiten of bevoegde organen van de andere Verdragsluitende Staat in overeenstemming met zijn wet- en regelgeving uit hoofde van zijn wetgeving verzamelde inlichtingen toe, voor zover deze inlichtingen nodig zijn voor de uitvoering van dit Verdrag.
 
 2. Tenzij anderszins wordt vereist krachtens de wet- en regelgeving van een Verdragsluitende Staat, worden inlichtingen over een natuurlijke persoon die in overeenstemming met de bepaling van het eerste lid van dit artikel door de andere Verdragsluitende Staat aan die Verdragsluitende Staat worden toegezonden uitsluitend gebruikt voor de uitvoering van dit Verdrag. Deze inlichtingen ontvangen door een Verdragsluitende Staat worden beheerst door de wet- en regelgeving van deze Verdragsluitende Staat inzake de bescherming van persoonsgegevens.
 
-#### Artikel 26. Indiening van aanvragen, beroepschriften en verklaringen
+##### Artikel 26. Indiening van aanvragen, beroepschriften en verklaringen
 
 1. Indien schriftelijke aanvragen om uitkeringen, beroepschriften of andere verklaringen uit hoofde van de wetgeving van een Verdragsluitende Staat worden ingediend bij een bevoegde autoriteit of bevoegd orgaan van de andere Verdragsluitende Staat die krachtens de wetgeving van de andere Verdragsluitende Staat bevoegd is dergelijke aanvragen, beroepschriften of verklaringen te ontvangen, worden die aanvragen, beroepschriften of verklaringen geacht op dezelfde datum te zijn ingediend bij de bevoegde autoriteit of het bevoegde orgaan van de eerstgenoemde Verdragsluitende Staat en worden zij overeenkomstig de procedures en wetgeving van de eerstgenoemde Verdragsluitende Staat behandeld.
 
 2. De bevoegde autoriteit of het bevoegde orgaan van een Verdragsluitende Staat zendt de aanvragen om uitkeringen, beroepschriften of andere in overeenstemming met het eerste lid van dit artikel ingediende verklaringen onverwijld toe aan de bevoegde autoriteit of het bevoegde orgaan van de andere Verdragsluitende Staat.
 
-#### Artikel 27. Betaling van uitkeringen
+##### Artikel 27. Betaling van uitkeringen
 
 Betalingen van uitkeringen uit hoofde van dit Verdrag kunnen geschieden in de valuta van ieder van de Verdragsluitende Staten. Indien door een van de Verdragsluitende Staten bepalingen ter beperking van het wisselen of de overmaking van valuta worden ingevoerd, treden de regeringen van beide Verdragsluitende Staten onverwijld in overleg over de nodige maatregelen ter waarborging van de betaling door beide Verdragsluitende Staten van uitkeringen uit hoofde van dit Verdrag.
 
-#### Artikel 28. Geschillenregeling
+##### Artikel 28. Geschillenregeling
 
 Eventuele geschillen inzake de uitlegging of toepassing van dit Verdrag worden in overleg tussen de Verdragsluitende Staten beslecht.
 
-#### Artikel 29. Kopjes
+##### Artikel 29. Kopjes
 
 De kopjes van delen, hoofdstukken en artikelen van dit Verdrag zijn uitsluitend ingevoegd ter wille van de verwijzing en zijn niet van invloed op de uitlegging van dit Verdrag.
 
 ## DEEL V. OVERGANGS- EN SLOTBEPALINGEN
 
-#### Artikel 30. Gebeurtenissen en besluiten voorafgaand aan de inwerkingtreding
+##### Artikel 30. Gebeurtenissen en besluiten voorafgaand aan de inwerkingtreding
 
 1. Dit Verdrag doet geen rechten ontstaan op uitkeringen voor tijdvakken vóór de inwerkingtreding ervan.
 
@@ -288,13 +313,13 @@ De kopjes van delen, hoofdstukken en artikelen van dit Verdrag zijn uitsluitend 
 
 5. De toepassing van dit Verdrag leidt voor een rechthebbende niet tot verlaging van het bedrag van uitkeringen ter zake waarvan het recht was vastgesteld vóór de inwerkingtreding van dit Verdrag.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 1. Dit Verdrag treedt in werking op de eerste dag van de derde maand volgend op de maand waarin de Verdragsluitende Staten de uitwisseling van diplomatieke nota’s hebben voltooid waarin zij elkaar mededelen dat aan hun onderscheiden grondwettelijke vereisten voor de inwerkingtreding van dit Verdrag is voldaan.
 
 2. Het bedrag van uitkeringen uit hoofde van de wetgeving van Nederland dat krachtens [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=I&artikel=5&z=2009-03-01&g=2009-03-01), op en na 1 januari 2006 aan rechthebbenden op het grondgebied van Japan betaald had moeten worden, indien dit lid op of voor 1 januari 2006 zou zijn toegepast, maar niet is betaald vanwege beperkingen krachtens de nationale wetgeving van Nederland wordt met terugwerkende kracht aan deze rechthebbenden betaald.
 
-#### Artikel 32. Duur en beëindiging
+##### Artikel 32. Duur en beëindiging
 
 1. Dit Verdrag blijft voor onbepaalde tijd van kracht. Elke Verdragsluitende Staat kan de andere Verdragsluitende Staat langs diplomatieke weg schriftelijk in kennis stellen van de beëindiging van dit Verdrag. In dat geval blijft dit Verdrag van kracht tot de laatste dag van de twaalfde maand volgend op de maand waarin kennisgeving werd gedaan van de beëindiging.
 
@@ -304,13 +329,13 @@ Overeenkomstig [artikel 22, eerste lid, onderdeel a](https://wetten.overheid.nl/
 
 ## DEEL I. ALGEMENE BEPALINGEN
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 1. Voor de toepassing van dit Administratief Akkoord wordt verstaan onder „Verdrag” het Verdrag tussen het Koninkrijk der Nederlanden en Japan inzake sociale zekerheid, ondertekend te Den Haag op 21 februari 2008.
 
 2. Alle andere uitdrukkingen die in dit Administratief Akkoord worden gebruikt hebben de betekenis die daaraan in het Verdrag wordt gegeven.
 
-#### Artikel 2. Verbindingsorganen
+##### Artikel 2. Verbindingsorganen
 
 Uit hoofde van [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=IV&artikel=22&z=2009-03-01&g=2009-03-01), van het Verdrag worden de volgende organen als verbindingsorganen aangewezen:
 
@@ -334,7 +359,7 @@ Uit hoofde van [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/
 
 ## DEEL II. BEPALINGEN INZAKE DE TOEPASSELIJKE WETGEVING
 
-#### Artikel 3. Verzekering van werknemers en zelfstandigen
+##### Artikel 3. Verzekering van werknemers en zelfstandigen
 
 1. Indien uit hoofde van [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=7&z=2009-03-01&g=2009-03-01), [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=8&z=2009-03-01&g=2009-03-01), [artikel 9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=9&z=2009-03-01&g=2009-03-01), of [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=II&artikel=10&z=2009-03-01&g=2009-03-01) van het Verdrag de wetgeving van een Verdragsluitende Staat van toepassing is op een werknemer of zelfstandige, geeft het verbindingsorgaan van die Verdragsluitende Staat op verzoek van de betrokkenen een verklaring af dat de werknemer of zelfstandige onderworpen is aan de wetgeving, waarbij vermeld wordt hoe lang de verklaring geldig is. De verklaring geldt als bewijs dat de werknemer of zelfstandige is vrijgesteld van de wetgeving inzake verplichte verzekeringen van de andere Verdragsluitende Staat.
 
@@ -342,7 +367,7 @@ Uit hoofde van [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/
 
 ## DEEL III. BEPALINGEN INZAKE UITKERINGEN
 
-#### Artikel 4. Aanvragen, beroepschriften en verklaringen
+##### Artikel 4. Aanvragen, beroepschriften en verklaringen
 
 1. Indien een bevoegde autoriteit of bevoegd orgaan van een Verdragsluitende Staat een aanvraag om een uitkering, een beroepschrift of een andere verklaring uit hoofde van de wetgeving van de andere Verdragsluitende Staat ingevolge [artikel 26](https://wetten.overheid.nl/jci1.3:c:BWBV0003018&deel=IV&artikel=26&z=2009-03-01&g=2009-03-01) van het Verdrag ontvangt, zendt die bevoegde autoriteit of dat bevoegde orgaan van die Verdragsluitende Staat die aanvraag, dat beroepschrift of die verklaring onverwijld toe aan het verbindingsorgaan van de andere Verdragsluitende Staat, waarbij de datum waarop het document werd ontvangen wordt vermeld.
 
@@ -356,21 +381,21 @@ Uit hoofde van [artikel 22, eerste lid, onderdeel b](https://wetten.overheid.nl/
 
 6. Indien een aanvraag om uitkeringen uit hoofde van de wetgeving van een Verdragsluitende Staat of een andere verklaring nodig voor de betaling van een uitkering wordt ingediend bij het bevoegde orgaan van de andere Verdragsluitende Staat, stelt het bevoegde orgaan van die andere Verdragsluitende Staat het bevoegde orgaan van die Verdragsluitende Staat ervan in kennis dat de identiteit van de aanvrager naar behoren is geverifieerd.
 
-#### Artikel 5. Geneeskundige inlichtingen betreffende arbeidsongeschiktheid van aanvrager of rechthebbende
+##### Artikel 5. Geneeskundige inlichtingen betreffende arbeidsongeschiktheid van aanvrager of rechthebbende
 
 Op verzoek van het verbindingsorgaan van de andere Verdragsluitende Staat verschaft het bevoegde orgaan van een Verdragsluitende Staat voor zover zulks is toegestaan volgens de wetgeving die het uitvoert en andere van toepassing zijnde wet- en regelgeving, via zijn verbindingsorgaan beschikbare geneeskundige inlichtingen waarover het beschikt betreffende de arbeidsongeschiktheid van een aanvrager of rechthebbende.
 
 ## DEEL IV. DIVERSE BEPALINGEN
 
-#### Artikel 6. Uitwisseling van statistieken
+##### Artikel 6. Uitwisseling van statistieken
 
 De verbindingsorganen van de Verdragsluitende Staten wisselen jaarlijks statistieken met elkaar uit inzake de betalingen die zij elk hebben gedaan en de verklaringen die zijn afgegeven uit hoofde van het Verdrag.
 
-#### Artikel 7. Formulieren en nadere procedures
+##### Artikel 7. Formulieren en nadere procedures
 
 De verbindingsorganen van de Verdragsluitende Staten besluiten gezamenlijk over de formulieren en nadere procedures die nodig zijn voor de uitvoering van het Verdrag in samenwerking met de bevoegde autoriteiten.
 
-#### Artikel 8. Inwerkingtreding
+##### Artikel 8. Inwerkingtreding
 
 1. Dit Administratief Akkoord treedt in werking op de datum van inwerkingtreding van het Verdrag en blijft van kracht zolang het Verdrag van kracht blijft.
 

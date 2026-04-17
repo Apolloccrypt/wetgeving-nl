@@ -1,16 +1,38 @@
 ---
 title: "Verdrag inzake de regeling van aangelegenheden voortspruitende uit de oorlog en de bezetting"
 identifier: "BWBV0005377"
-categorie: "Internationaal recht"
-publicatiedatum: 1955-09-06
-laatste_update: 1955-09-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0005377"
+country: "nl"
+rank: "verdrag"
+publication_date: "1955-09-06"
+last_updated: "1955-09-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0005377"
+soort: "verdrag"
+stam_id: "10004593183"
+version_id: "10004834662"
+internal_id: "C10007227131"
+label_id: "10004578274"
+dtd_version: "2.0"
+original_entry_into_force: "1955-09-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0005377/1955-09-06/0"
+intitule_bron: "Trb.1955-154"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1955-11-03"
+intitule_in_force: "1955-11-03"
+intitule_status: "goed"
+original_publication: "Trb.1955-154"
+original_published_date: "1955-11-03"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1955-154"
+entry_into_force_date: "1955-09-06"
+jci_1_3: "jci1.3:c:BWBV0005377&z=1955-09-06&g=1955-09-06"
+jci_1_0: "1.0:c:BWBV0005377&g=1955-09-06"
+citeertitel_status: "redactioneel"
+entry_into_force: "1955-09-06"
 ---
-
 # Verdrag inzake de regeling van aangelegenheden voortspruitende uit de oorlog en de bezetting
 
-#### Artikel 1
+##### Artikel 1
 
 1. Bij de inwerkingtreding van dit Verdrag zal de Bondsrepubliek een administratief bureau instellen, uitrusten en van personeel voorzien, welk bureau uit hoofde van de bepalingen van dit Hoofdstuk en de daarbij behorende Bijlage juwelen, zilverwerk en antieke meubelen (indien elk afzonderlijk voorwerp een grote waarde vertegenwoordigt) en culturele goederen opspoort, terugvordert en restitueert indien dergelijke voorwerpen en culturele goederen tijdens de bezetting van enig gebied daaruit werden weggevoerd door de strijdkrachten of autoriteiten van Duitsland of zijn bondgenoten of de individuele leden daarvan (al dan niet op bevel), nadat zij door middel van dwang werden verkregen (met of zonder geweld), door diefstal, door vordering of door andere vormen van gedwongen onteigening.
 
@@ -26,7 +48,7 @@ bron: "https://wetten.overheid.nl/BWBV0005377"
 
 5. Het in lid 1 van dit artikel bedoelde bureau zal op verzoek van de Drie Mogendheden of haar vertegenwoordigers inlichtingen verstrekken aangaande door dit bureau behandelde zaken en brengt elke drie maanden rapport uit over zijn werkzaamheden. Het archief van dit bureau wordt bewaard totdat anders wordt overeengekomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Restitutie volgens artikel 1 van dit Hoofdstuk kan slechts aan de Bondsregering worden verzocht door de Regering van de Staat uit welks grondgebied de goederen werden weggevoerd. De Bondsregering kan een verzoek om restitutie verwerpen indien zulk een verzoek reeds als niet gegrond door de bevoegde instantie van een der Drie Mogendheden is afgewezen, uitgezonderd in gevallen waar bewijsmateriaal wordt aangevoerd dat voordien niet kon worden voorgelegd.
 
@@ -36,7 +58,7 @@ bron: "https://wetten.overheid.nl/BWBV0005377"
 
 4. Voorlegging van een eis tot restitutie krachtens artikel 1 van dit Hoofdstuk ten behoeve van enige persoon of rechtspersoon sluit voorlegging krachtens artikel 3 uit; op dezelfde wijze sluit een krachtens artikel 3 ondernomen actie tot restitutie een eis tot restitutie krachtens artikel 1 uit.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Ongeacht bepalingen in het Duitse recht van tegengestelde strekking, heeft elke persoon aan wie, of aan wiens rechtsvoorganger, tijdens de bezetting van een gebied goederen door diefstal of onder dwang (met of zonder geweld) door de strijdkrachten of de autoriteiten van Duitsland of zijn Bondgenoten of individuele leden daarvan zijn ontnomen (al dan niet op bevel) tegenover de huidige bezitter van die goederen aanspraak op restitutie, onder de volgende voorwaarden:
 
@@ -50,7 +72,7 @@ Een dergelijke aanspraak bestaat niet indien de huidige bezitter de goederen tie
 
 3. Geen aanspraak op restitutie kan worden gemaakt indien, vóór de inwerkingtreding van dit Verdrag, een verzoek door een Regering ten behoeve van de eiser tot restitutie van de desbetreffende goederen door een instantie van een der Drie Mogendheden als niet-gegrond werd verworpen, uitgezonderd in gevallen waar bewijsmateriaal wordt aangevoerd dat voordien niet kon worden voorgelegd.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Indien te restitueren goederen, nadat zij in Duitsland zijn geïdentificeerd, in Duitsland zijn gebruikt of verbruikt voordat zij aan de eiser werden teruggegeven of vernietigd werden, gestolen of op andere wijze van de hand werden gedaan voordat zij door de eisende Regering of door een bevoegde instantie van één van de Drie Mogendheden voor verzending naar de eiser werden ontvangen, verleent de Bondsrepubliek schadevergoeding aan eisers die anders krachtens artikel 1 of 3 van dit Hoofdstuk recht zouden hebben gehad op restitutie of wier aanspraken bij het inwerkingtreden van dit Verdrag door een van de Drie Mogendheden zijn goedgekeurd.
 
@@ -62,7 +84,7 @@ Een dergelijke aanspraak bestaat niet indien de huidige bezitter de goederen tie
 
 5. Vergoeding krachtens dit artikel wordt toegekend tot een bedrag gebaseerd op de vervangingswaarde van de betrokken goederen op de datum van toekenning.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bepalingen van dit Hoofdstuk gelden voor de volgende landen van de daarnaast vermelde data af:
 
@@ -88,11 +110,11 @@ Een dergelijke aanspraak bestaat niet indien de huidige bezitter de goederen tie
 
 2. De bepalingen van dit Hoofdstuk hebben betrekking op openbare en particuliere goederen welke uit in lid 1 van dit artikel bedoelde gebieden werden weggevoerd.
 
-#### Artikel 6
+##### Artikel 6
 
 Indien de Bondsrepubliek met enige andere Mogendheid inzake aangelegenheden welke binnen het kader van dit Hoofdstuk vallen regelingen treft welke voor die andere Mogendheid gunstiger zijn dan de overeenkomstige bepalingen van dit Hoofdstuk, worden de voordelen van die nieuwe regelingen automatisch tot alle Mogendheden waarvoor de bepalingen van dit Hoofdstuk gelden uitgebreid.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De Ondertekenende Staten stellen hierbij in een Scheidsrechterlijke Commissie voor goederen, rechten en belangen in de Bondsrepubliek Duitsland, welke optreedt overeenkomstig de bepalingen van haar Statuut, hetwelk aan dit Verdrag is toegevoegd.
 
@@ -104,13 +126,13 @@ Indien de Bondsrepubliek met enige andere Mogendheid inzake aangelegenheden welk
 
 5. De uitspraken van de Commissie zijn definitief en bindend voor de autoriteiten en de gerechtshoven van de Ondertekenende Staten en de andere Staten welke tot haar Statuut toetreden.
 
-#### Afdeling 1
+##### Afdeling 1
 
 1. De Bondsregering stelt het in lid 1 van artikel 1 van het voorgaande hoofdstuk bedoelde administratieve bureau in als de Hogere Bondsautoriteit (Bundesoberbehörde).
 
 2. Alle Duitse gerechtshoven en autoriteiten verlenen de Hogere Bondsautoriteit rechtskundige en andere officiële bijstand ingevolge artikel 35 van de „Basic Law”.
 
-#### Afdeling 2
+##### Afdeling 2
 
 1. Aanvragen om restitutie ingevolge de artikelen 1 en 2 van het voorgaande Hoofdstuk, met uitzondering van die welke zijn genoemd in lid 3 van artikel 2, omvatten:
 
@@ -122,7 +144,7 @@ Indien de Bondsrepubliek met enige andere Mogendheid inzake aangelegenheden welk
 
 2. Gewaarmerkte afschriften van de documenten welke de aanspraak op restitutie ondersteunen worden aan de aanvraag gehecht of worden nadien overgelegd.
 
-#### Afdeling 3
+##### Afdeling 3
 
 1. Aanvragen om schadevergoeding ingevolge artikel 4 van het voorgaande hoofdstuk, met uitzondering van die welke zijn genoemd in lid 3 van dat artikel, omvatten:
 
@@ -138,11 +160,11 @@ Indien de Bondsrepubliek met enige andere Mogendheid inzake aangelegenheden welk
 
 2. Gewaarmerkte afschriften van de documenten welke de eis tot schadevergoeding ondersteunen worden aan de aanvraag gehecht of worden nadien overgelegd.
 
-#### Afdeling 4
+##### Afdeling 4
 
 Processen voor de Hogere Bondsautoriteit zijn kosteloos.
 
-#### Afdeling 5
+##### Afdeling 5
 
 1. De Hogere Bondsautoriteit verricht de noodzakelijke naspeuringen. Tot dit doel kan zij uit eigen beweging (von Amts wegen) door middel van een versnelde procedure bewijsmateriaal verzamelen; in het bijzonder kan zij getuigen, deskundigen en de personen wier rechten door de restitutie worden aangetast, horen of deze personen voor een rechtbank doen horen. Indien een verhoor onder ede noodzakelijk blijkt, wordt de eed afgelegd voor een rechtbank. De Hogere Bondsautoriteit is gemachtigd een verklaring te accepteren in plaats van een eed (eides-stattliche Versicherungen).
 
@@ -150,15 +172,15 @@ Processen voor de Hogere Bondsautoriteit zijn kosteloos.
 
 3. De betrokken partijen worden in de gelegenheid gesteld hun inzichten kenbaar te maken. Zij kunnen worden vertegenwoordigd door gemachtigden of rechtskundige adviseurs. Zij worden in kennis gesteld van de data van de vastgestelde verhoren in verband met de ondervragingen ingevolge de tweede zin van lid 1 van deze Afdeling en kunnen deze verhoren bijwonen. De door de betrokken partij ingediende documenten worden aan de andere partijen doorgezonden.
 
-#### Afdeling 6
+##### Afdeling 6
 
 Indien verwezenlijking van de eis tot restitutie gevaar blijkt te lopen, geeft de Hogere Bondsautoriteit opdracht tot het nemen van de noodzakelijke tussentijdse maatregelen voor de beveiliging van de goederen.
 
-#### Afdeling 7
+##### Afdeling 7
 
 In de beslissingen van de Hogere Bondsautoriteit worden schriftelijk de redenen vermeld waarop zij zijn gebaseerd. Deze beslissingen worden aan de betrokken partijen betekend.
 
-#### Afdeling 8
+##### Afdeling 8
 
 1. De Hogere Bondsautoriteit neemt alle voor de restitutie noodzakelijke maatregelen. Indien nodig beveelt de Hogere Bondsautoriteit dat de te restitueren goederen worden onteigend ten gunste van de Bondsrepubliek welke de goederen doet toekomen (zuleiten) aan de persoon die restitutie eist.
 
@@ -166,7 +188,7 @@ In de beslissingen van de Hogere Bondsautoriteit worden schriftelijk de redenen 
 
 3. Indien de Hogere Bondsautoriteit een in artikel 4 van het voorgaande Hoofdstuk bedoelde eis inwilligt, stelt zij het schadevergoedingsbedrag vast dat door de Bondsrepubliek moet worden betaald.
 
-#### Artikel 1
+##### Artikel 1
 
 1. Voor zover dit niet reeds is gebeurd, zal de Bondsrepubliek alle maatregelen treffen welke nodig zijn om te verzekeren dat de in lid 3 van dit artikel bedoelde staten, personen en maatschappijen teruggave van hun goederen in hun huidige toestand en herstel van hun rechten en belangen in het grondgebied der Bondsrepubliek kunnen verkrijgen voor zover deze goederen, rechten of belangen aan een discriminerende behandeling onderworpen waren. De goederen, rechten en belangen van de in lid 3 bedoelde staten, personen en maatschappijen worden door de Bondsrepubliek bevrijd van alle belemmeringen en lasten van elke aard waaraan zij als gevolg van een discriminerende behandeling eventueel onderworpen zijn. Geen kosten worden in rekening gebracht, noch in verband met de teruggave of het herstel van rechten en belangen, noch in verband met het wegnemen van belemmeringen of lasten. Billijke voorwaarden kunnen echter worden opgelegd om de onrechtvaardige verrijking van enigerlei in lid 3 bedoelde staat, persoon of maatschappij tegen te gaan.
 
@@ -192,23 +214,23 @@ mits zulke onderdanen of hun rechtsopvolgers, met uitzondering van directe recht
 
 6. Onder de bepalingen van dit artikel valt niet schadevergoeding voor verlies van of schade aan goederen, rechten of belangen, veroorzaakt door een discriminerende behandeling of indirect of direct op enigerlei andere wijze het gevolg van de oorlog, doch tasten niet het recht van een lid van de Verenigde Naties aan om tijdens onderhandelingen over een vredesregeling enigerlei eis tot schadevergoeding van dien aard in te dienen met betrekking tot zijn eigen goederen, rechten of belangen of die van zijn onderdanen.
 
-#### Artikel 2
+##### Artikel 2
 
 Voor zover zij betrekking hebben op buitenlandse schuldeisers van Duitse schuldenaren, blijven de Bondswetten inzake uitsluitings- en verjaringstijdvakken van 28 December 1950 en 30 Maart 1951 (Gesetz über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen und Gesetz zur Ergänzung des Gesetzes über den Ablauf der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen, Bundesgesetzblatt 1950 Seite 821 und 1951 Teil I Seite 213) alsmede Wet No. 67 van de Geallieerde Hoge Commissie inzake dezelfde materie van kracht. Deze wetgeving wordt door de Bondsrepubliek in overeenstemming met de andere ondertekenende staten herzien op basis van de bepalingen van de Overeenkomst inzake Duitse buitenlandse schulden, gesloten te Londen op 27 Februari 1953, voor zover deze wetgeving betrekking heeft op eisen tot schadevergoeding welke in die Overeenkomst worden behandeld.
 
-#### Artikel 3
+##### Artikel 3
 
 Ongeacht de bepalingen van de uiteindelijke vredesregeling met Duitsland, genieten de leden der Verenigde Naties en hun onderdanen, op dezelfde basis als Duitse onderdanen die op het grondgebied van de Bondsrepubliek wonen, die vergoeding voor oorlogsschade met betrekking tot goederen welke zich op het grondgebied der Bondsrepubliek bevinden als door de Bondsrepubliek of een van haar „Länder” kunnen worden verschaft, doch geen Integratiehulp (Eingliederungshilfe) of Huisvestingshulp (Wohnraumhilfe).
 
-#### Artikel 4
+##### Artikel 4
 
 De Bondsrepubliek bevestigt dat volgens het Duitse recht de staat van oorlog op zichzelf niet de verplichting aantast tot betaling van geldschulden welke voortvloeien uit verplichtingen en contracten welke bestonden vóór het begin van de staat van oorlog, noch de rechten welke vóór dat tijdstip werden verworven.
 
-#### Artikel 5
+##### Artikel 5
 
 Iedere onderdaan van een lid der Verenigde Naties of de rechtsopvolger van zulk een onderdaan die ook onderdaan van een lid der Verenigde Naties is heeft het recht om binnen een jaar van de inwerkingtreding van dit Verdrag af een proces te beginnen voor de herziening van een door een Duits gerechtshof tussen 1 September 1939 en 8 Mei 1945 gedane uitspraak in enigerlei proces waarbij zulk een onderdaan partij was en physiek, zedelijk of wettelijk niet in staat was zijn zaak behoorlijk te behartigen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. In afwachting van een definitieve regeling van de vorderingen op Duitsland welke voortvloeien uit de oorlog, zijn de in lid 2 van dit artikel omschreven personen en hun goederen vrijgesteld van bijzondere belastingen, heffingen of zakelijke belastingen welke daadwerkelijk op de goederen drukken en welke worden opgelegd met de vooropgezette bedoeling daaruit onkosten te bestrijden welke voortvloeien uit de oorlog of uit herstelbetalingen of restituties aan enig lid der Verenigde Naties.
 
@@ -240,7 +262,7 @@ Iedere onderdaan van een lid der Verenigde Naties of de rechtsopvolger van zulk 
 
 8. In gevallen bedoeld in lid 2 (a) van dit artikel hebben zowel de maatschappij en iedere aandeelhouder die van mening is dat de maatschappij dient te worden vrijgesteld, recht op alle beschikbare rechtsmiddelen.
 
-#### Artikel 7
+##### Artikel 7
 
 Ten einde de belangen van buitenlandse onderdanen te beschermen, blijven de volgende wetgevingen van kracht:
 
@@ -266,7 +288,7 @@ Ten einde de belangen van buitenlandse onderdanen te beschermen, blijven de volg
 
 - (3). landeigenaars die zowel de Duitse als een niet-Duitse nationaliteit bezaten worden binnen het kader van deze wetten geacht niet-Duitse onderdanen te zijn indien hun eigendommen te eniger tijd tussen 1 September 1939 en 8 Mei 1945 onderworpen waren aan de bepalingen van de Duitse beschikking inzake de behandeling van vijandelijke eigendommen van 15 Januari 1940 of enige wijziging op deze beschikking, of enige andere regeling welke een zelfde doel beoogde. In een zodanig geval is het tot 31 December 1952 geoorloofd het land van de hand te doen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Wet No. 8 van de Geallieerde Hoge Commissie inzake de industriële, litteraire en artistieke eigendomsrechten van buitenlandse mogendheden en onderdanen, als gewijzigd bij de wetten No. 30, 39, 41 en 66 van de Geallieerde Hoge Commissie alsmede de eerste en tweede uitvoeringsbeschikking krachtens wet No. 8 van de Geallieerde Hoge Commissie van 8 Mei 1950 en 9 November 1950 (Bundesgesetzblatt Seite 357 und Seite 785) blijven van kracht.
 
@@ -276,7 +298,7 @@ Ten einde de belangen van buitenlandse onderdanen te beschermen, blijven de volg
 
 - (b). de bevoegdheden van de Bezettingsautoriteiten ingevolge de laatste zin van artikel 2 en lid 3 van artikel 7 van Wet No. 8 vervallen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. In dit Hoofdstuk heeft de uitdrukking „Leden der Verenigde Naties” dezelfde betekenis als in Wet No. 54 van de Geallieerde Hoge Commissie welke voor dit doel van kracht blijft.
 
@@ -286,15 +308,15 @@ Ten einde de belangen van buitenlandse onderdanen te beschermen, blijven de volg
 
 - (b). rechtspersonen of verenigingen van personen opgericht krachtens de wetten van de leden der Verenigde Naties.
 
-#### Artikel 10
+##### Artikel 10
 
 Indien de Bondsrepubliek met enige andere Mogendheid inzake onderwerpen welke vallen binnen het kader van de artikelen 1 tot en met 9 van dit Hoofdstuk regelingen treft welke voor een zodanige Mogendheid gunstiger zijn dan de overeenkomstige bepalingen van die artikelen, worden de voordelen van zulke nieuwe regelingen automatisch uitgestrekt tot alle Mogendheden welke van de overeenkomstige bepalingen van die artikelen genieten.
 
-#### Artikel 11
+##### Artikel 11
 
 In de verwachting dat een dergelijke gedragslijn door zodanige naties zal worden gevolgd ten aanzien van de Bondsrepubliek, verklaart de Bondsrepubliek dat zij het voornemen heeft een algemene niet-discriminerende politiek te volgen tegenover de leden der Verenigde Naties en hun onderdanen en tegenover de goederen, eigendommen en belangen van zodanige naties en onderdanen, en, in het algemeen, nationale en meestbegunstigingsbehandeling toe te kennen in kwesties waarbij zodanige naties en onderdanen en hun goederen, rechten en belangen op het gebied van vestiging en scheepvaart zijn betrokken. De Bondsrepubliek verklaart zich verder bereid met leden van de Verenigde Naties verdragen aan te gaan welke op deze beginselen zijn gebaseerd.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Tegen de volgende beslissingen kan beroep worden aangetekend bij de Scheidsrechterlijke Commissie voor goederen, rechten en belangen in de Bondsrepubliek Duitsland, bedoeld in artikel 7 van Hoofdstuk Vijf van dit Verdrag, overeenkomstig de bepalingen van haar Statuut, na een binnen dertig dagen na de betekening van een zodanige beslissing door de betrokken partij tot de Commissie gerichte aanvraag:
 
@@ -322,13 +344,13 @@ Beroepen bij de Scheidsrechterlijke Commissie ingevolge (b) tot en met (f) van d
 
 5. Beslissingen en aanwijzingen van de Commissie zijn definitief en bindend voor alle Duitse gerechtshoven en autoriteiten.
 
-#### Afdeling 1
+##### Afdeling 1
 
 1. De Bondsregering stelt een Hogere Bondsautoriteit (Bundesoberbehörde) in voor het ontvangen, overwegen en het nemen van beslissingen ten aanzien van aanvragen voor teruggave en herstel overeenkomstig lid 2 van artikel 1 van het voorgaande Hoofdstuk. De Bondsregering kan voorschriften uitvaardigen voor de tenuitvoerlegging van de bepalingen van deze Bijlage.
 
 2. Alle Duitse gerechtshoven en autoriteiten verlenen de Hogere Bondsautoriteit rechtskundige en andere officiële bijstand overeenkomstig artikel 35 van de “Basic Law”.
 
-#### Afdeling 2
+##### Afdeling 2
 
 1. Aanvragen voor teruggave of herstel worden bij de Hogere Bondsautoriteit schriftelijk ingediend of door middel van een mondelinge verklaring waarvan een proces-verbaal wordt opgemaakt.
 
@@ -344,11 +366,11 @@ Beroepen bij de Scheidsrechterlijke Commissie ingevolge (b) tot en met (f) van d
 
 4. Verder zullen alle inlichtingen en documenten waarover de eiser beschikt en welke betrekking hebben op de goederen, rechten of belangen en op de discriminerende maatregel welke ten aanzien van de goederen, rechten of belangen werd genomen, in origineel of in een gewaarmerkt afschrift aan de aanvraag worden gehecht. Op verzoek wordt het origineel overgelegd.
 
-#### Afdeling 3
+##### Afdeling 3
 
 Procedures voor de Hogere Bondsautoriteit geschieden gratis, behalve indien het lichtvaardige aanvragen betreft of aanvragen waarvan duidelijk is dat zij ongegrond zijn.
 
-#### Afdeling 4
+##### Afdeling 4
 
 1. De Hogere Bondsautoriteit verricht uit eigen beweging (von Amts wegen) de noodzakelijke naspeuringen. Tot dit doel kan zij bewijsmateriaal verzamelen; in het bijzonder kan zij getuigen, deskundigen en de betrokken partijen horen of voor een rechtbank doen horen. Indien een verhoor onder ede noodzakelijk blijkt, wordt de eed afgelegd voor een rechtbank. De Hogere Bondsautoriteit is gemachtigd een verklaring te accepteren in plaats van een eed (eidesstattliche Versicherungen).
 
@@ -356,19 +378,19 @@ Procedures voor de Hogere Bondsautoriteit geschieden gratis, behalve indien het 
 
 3. De betrokken partijen worden in de gelegenheid gesteld hun inzichten kenbaar te maken. Zij kunnen worden vertegenwoordigd door gemachtigden of rechtskundige adviseurs. Zij worden in kennis gesteld van de data van de verhoren welke zijn gelast in verband met de ondervragingen ingevolge de tweede zin van lid 1 van deze Afdeling en zij kunnen deze verhoren bijwonen. De door de betrokken partij ingediende documenten worden aan de andere partijen doorgezonden.
 
-#### Afdeling 5
+##### Afdeling 5
 
 Indien verwezenlijking van de eis tot teruggave of herstel gevaar blijkt te lopen geeft de Hogere Bondsautoriteit opdracht tot het nemen van de noodzakelijke tussentijdse maatregelen voor de beveiliging van de goederen, rechten of belangen.
 
-#### Afdeling 6
+##### Afdeling 6
 
 De Hogere Bondsautoriteit stelt zijn goede diensten ter beschikking voor het bereiken van een minnelijke schikking tussen de betrokken partijen. Van een tussen de partijen bereikt compromis wordt proces-verbaal opgemaakt.
 
-#### Afdeling 7
+##### Afdeling 7
 
 In de beslissingen van de Hogere Bondsautoriteit worden schriftelijk de redenen vermeld waarop zij zijn gebaseerd. Deze beslissingen worden aan de betrokken partijen betekend.
 
-#### Afdeling 8
+##### Afdeling 8
 
 1. De Hogere Bondsautoriteit neemt alle voor de teruggave en het herstel noodzakelijke maatregelen of zij beslist welke maatregelen dienen te worden genomen door de autoriteit welke volgens de omstandigheden van de kwestie bevoegd is.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit specifieke groepen tijdelijke huurovereenkomst"
+title: "Besluit van 5 juni 2024, houdende aanwijzing van groepen woningzoekenden met wie een huurovereenkomst voor bepaalde tijd kan worden aangegaan (Besluit specifieke groepen tijdelijke huurovereenkomst)"
 identifier: "BWBR0049798"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049798"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049798"
+soort: "AMvB"
+stam_id: "17126443"
+version_id: "30142152"
+internal_id: "C43183161"
+label_id: "17034864"
+dtd_version: "2.0"
+original_entry_into_force: "2024-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049798/2026-01-01/0"
+intitule_bron: "Stb.2024-152"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-06-05"
+intitule_published: "2024-06-11"
+intitule_in_force: "2024-06-11"
+intitule_status: "goed"
+original_publication: "Stb.2024-152"
+original_signed_date: "2024-06-05"
+original_published_date: "2024-06-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2024-152"
+entry_into_force_date: "2024-07-01"
+jci_1_3: "jci1.3:c:BWBR0049798&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0049798&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit specifieke groepen tijdelijke huurovereenkomst"
+signed_date: "2024-06-05"
+entry_into_force: "2024-07-01"
 ---
-
 # Besluit van 5 juni 2024, houdende aanwijzing van groepen woningzoekenden met wie een huurovereenkomst voor bepaalde tijd kan worden aangegaan (Besluit specifieke groepen tijdelijke huurovereenkomst)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 8 april 2024, nr. 2024-0000159345;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De categorieën van personen, bedoeld in [artikel 271, tweede lid, eerste zin, van Boek 7 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=271) zijn:
 
@@ -40,19 +66,19 @@ De categorieën van personen, bedoeld in [artikel 271, tweede lid, eerste zin, v
 
 - h. vergunninghouders als bedoeld in [artikel 1 van de Huisvestingswet 2014](https://wetten.overheid.nl/jci1.3:c:BWBR0035303&artikel=1) die direct voorafgaand aan de huurovereenkomst in een opvangvoorziening als bedoeld in [artikel 1 van de Wet op het Centraal Orgaan opvang asielzoekers](https://wetten.overheid.nl/jci1.3:c:BWBR0006685&artikel=1) verbleven en woonruimte huren in afwachting van definitieve huisvesting door de betrokken gemeente.
 
-#### Artikel 2
+##### Artikel 2
 
 Wijzigt dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 De [Wet vaste huurcontracten](https://wetten.overheid.nl/jci1.3:c:BWBR0049266) treedt in werking met ingang van 1 juli 2024.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit treedt in werking met ingang van 1 juli 2024, met uitzondering van [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0049798&artikel=2&z=2026-01-01&g=2026-01-01) dat in werking treedt op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit wordt aangehaald als: Besluit specifieke groepen tijdelijke huurovereenkomst.
 

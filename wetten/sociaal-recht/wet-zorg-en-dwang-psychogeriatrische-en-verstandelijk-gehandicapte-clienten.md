@@ -1,14 +1,41 @@
 ---
-title: "Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+title: "Wet van 24 januari 2018, houdende regels ten aanzien van zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)"
 identifier: "BWBR0040632"
-categorie: "Sociaal recht"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0040632"
+country: "nl"
+rank: "wet"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0040632"
+soort: "wet"
+stam_id: "14547993"
+version_id: "24905292"
+internal_id: "C37373371"
+label_id: "14502794"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0040632/2025-07-01/0"
+intitule_bron: "Stb.2018-36"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2018-01-24"
+intitule_published: "2018-02-16"
+intitule_in_force: "2019-11-29"
+intitule_status: "goed"
+original_publication: "Stb.2018-36"
+original_signed_date: "2018-01-24"
+original_published_date: "2018-02-16"
+original_effect: "nieuwe-regeling"
+original_dossier: "31996"
+original_url_id: "stb-2018-36"
+entry_into_force_date: "2020-01-01"
+jci_1_3: "jci1.3:c:BWBR0040632&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0040632&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten"
+signed_date: "2018-01-24"
+entry_into_force: "2020-01-01"
 ---
-
-# Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten
+# Wet van 24 januari 2018, houdende regels ten aanzien van zorg en dwang voor personen met een psychogeriatrische aandoening of een verstandelijke handicap (Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -18,7 +45,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Hoofdstuk 1. Begripsbepaling en reikwijdte
 
-#### Artikel 1
+##### Artikel 1
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -82,7 +109,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 9. Een ministeriële regeling als bedoeld in het eerste lid, onderdeel g, wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder «onvrijwillige zorg» verstaan zorg waartegen de cliënt of zijn vertegenwoordiger zich verzet en die bestaat uit:
 
@@ -114,7 +141,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2025-07-01&g=2025-07-01), [11](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01) en [11a](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=11a&z=2025-07-01&g=2025-07-01) voor het opnemen van die zorg in het zorgplan, aan de artikelen 11 en 11a indien het niet lukt die zorg binnen de in het zorgplan opgenomen termijn af te bouwen, en aan [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01) voor het toepassen van deze zorg.
 
-#### Artikel 2a
+##### Artikel 2a
 
 1. Onvrijwillige zorg, anders dan die in een accommodatie aan een cliënt wordt verleend, omvat uitsluitend de bij algemene maatregel van bestuur aangewezen vormen van onvrijwillige zorg, toegepast onder de bij die algemene maatregel van bestuur gestelde regels.
 
@@ -124,7 +151,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 4. De voordracht voor een krachtens het eerste, tweede en derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 2b
+##### Artikel 2b
 
 1. Een zorgaanbieder waarbij cliënten worden opgenomen met toepassing van hoofdstuk 3, paragraaf 2, dan wel die onvrijwillige zorg verleent, wijst een Wzd-functionaris aan.
 
@@ -132,7 +159,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 3. De zorgaanbieder draagt er zorg voor dat de Wzd-functionaris zijn taken op grond van deze wet naar behoren kan uitvoeren en waarborgt de onafhankelijkheid van de Wzd-functionaris bij de uitvoering van zijn taken op grond van deze wet. De zorgaanbieder geeft de Wzd-functionaris geen aanwijzingen met betrekking tot diens taakuitvoering op grond van deze wet.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De cliënt die de leeftijd van zestien jaar heeft bereikt neemt de beslissing over de zorg die aan hem verleend wordt en over de uitoefening van rechten en plichten op grond van deze wet. Een cliënt die de leeftijd van twaalf maar nog niet die van zestien jaar heeft bereikt, neemt de beslissing over de zorg die aan hem verleend wordt en over de uitoefening van rechten en plichten op grond van deze wet, samen met zijn ouders of voogden die gezamenlijk het gezag uitoefenen, of de ouder of voogd die alleen het gezag uitoefent. Voor een cliënt die nog niet de leeftijd van twaalf jaar heeft bereikt nemen de ouders of voogden die gezamenlijk het gezag uitoefenen, de beslissing over de zorg die aan de cliënt verleend wordt en over de uitoefening van rechten en plichten op grond van deze wet of neemt of de ouder of voogd die alleen het gezag uitoefent die beslissing.
 
@@ -150,7 +177,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 8. Indien een cliënt niet tot een redelijke waardering van zijn belangen ter zake van de uitoefening van zijn rechten en plichten op grond van deze wet in staat is en geen vertegenwoordiger optreedt, maakt de zorgaanbieder gebruik van de bevoegdheid, bedoeld in [artikel 451, tweede lid, van Boek 1 van het Burgerlijk wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=451).
 
-#### Artikel 3a
+##### Artikel 3a
 
 1. Indien de cliënt overeenkomstig het bepaalde in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=1&artikel=3&z=2025-07-01&g=2025-07-01), zelf de beslissing neemt, is er sprake van:
 
@@ -180,7 +207,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 6. Indien de ouders van een cliënt gezamenlijk de wettelijke vertegenwoordiger zijn, wordt verzet van een van beiden aangemerkt als verzet van de vertegenwoordiger.
 
-#### Artikel 4
+##### Artikel 4
 
 1. In zaken betreffende deze wet, uitgezonderd [hoofdstuk 3, paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.4&z=2025-07-01&g=2025-07-01), en [hoofdstuk 4](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4&z=2025-07-01&g=2025-07-01), is uitsluitend bevoegd de rechter van de woonplaats van de cliënt, of van de plaats waar hij hoofdzakelijk of daadwerkelijk verblijft. Zaken met betrekking tot minderjarige cliënten worden behandeld door de kinderrechter of door een meervoudige kamer waarvan de kinderrechter deel uitmaakt.
 
@@ -192,7 +219,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 5. De beschikking van de rechter is bij voorraad uitvoerbaar.
 
-#### Artikel 4a
+##### Artikel 4a
 
 1. In aanvulling op hetgeen uit deze wet voortvloeit, zijn de regels inzake de verzoekprocedure uit het [Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827) van overeenkomstige toepassing. [Artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=282) is niet van toepassing op de verzoekprocedure, bedoeld in deze wet, en zaken betreffende [hoofdstuk 3, paragraaf 2.4](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.4&z=2025-07-01&g=2025-07-01). In zaken betreffende hoofdstuk 3, paragraaf 2.4, is in afwijking van het bepaalde in het Wetboek van Burgerlijke Rechtsvordering [artikel 269 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=269) van overeenkomstige toepassing.
 
@@ -202,7 +229,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 4. Voor zover de uitvoering van de onvrijwillige zorg of de opname leidt tot vrijheidsbeneming heeft de cliënt, indien hij de Nederlandse taal niet beheerst, recht op bijstand van een tolk.
 
-#### Artikel 4b
+##### Artikel 4b
 
 1. De [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=38), [39](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=39), [40](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=40), [43 tot en met 45](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=43) en [48 van het Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903&artikel=48) zijn van overeenkomstige toepassing op de toevoeging en de taak van de advocaat, bedoeld in deze wet.
 
@@ -212,7 +239,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 #### § 2.1. Opstellen van het zorgplan
 
-#### Artikel 5
+##### Artikel 5
 
 1. De zorgaanbieder wijst voor elke cliënt een zorgverantwoordelijke aan en deelt diens naam aan de cliënt en, indien hij een vertegenwoordiger heeft, aan zijn vertegenwoordiger mee. Indien de cliënt zorg ontvangt van meer dan één zorgaanbieder, wijzen deze zorgaanbieders gezamenlijk een zorgverantwoordelijke aan.
 
@@ -220,13 +247,13 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 3. Voor zover de cliënt of zijn vertegenwoordiger daarmee instemt, verstrekt de zorgaanbieder zo spoedig mogelijk na de aanvang van de zorg, de naam en contactgegevens van een cliënt en de naam en contactgegevens van zijn vertegenwoordiger, aan de cliëntenvertrouwenspersoon, bedoeld in [artikel 57](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4a&artikel=57&z=2025-07-01&g=2025-07-01), zodat de cliëntenvertrouwenspersoon de cliënt en zijn vertegenwoordiger kan informeren over de mogelijkheid tot advies en bijstand door een cliëntenvertrouwenspersoon.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De zorgaanbieder verleent uitsluitend zorg op basis van het in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.1&artikel=7&z=2025-07-01&g=2025-07-01) bedoelde zorgplan, tenzij nog geen zorgplan is vastgesteld.
 
 2. Zolang de zorgverantwoordelijke het zorgplan nog niet heeft vastgesteld, wordt uitsluitend zorg verleend waarmee de cliënt of zijn vertegenwoordiger heeft ingestemd, dan wel waarmee de cliënt die geen vertegenwoordiger heeft redelijkerwijs geacht kan worden in te stemmen en waartegen hij zich niet verzet, niet zijnde zorg als bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=1&artikel=2&z=2025-07-01&g=2025-07-01), tenzij sprake is van een noodsituatie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 7
+##### Artikel 7
 
 1. De zorgverantwoordelijke stelt na overleg met de cliënt of zijn vertegenwoordiger zo spoedig mogelijk, doch in elk geval binnen zes weken na aanvang van de zorg, een zorgplan vast. De afspraken met de cliënt of de vertegenwoordiger worden in het zorgplan vastgelegd.
 
@@ -234,7 +261,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 3. De zorgverantwoordelijke spant zich in om de instemming van de cliënt of zijn vertegenwoordiger met het zorgplan te verkrijgen, waarbij hij zoveel als mogelijk rekening houdt met de wensen en voorkeuren van de cliënt. Van schriftelijke wilsuitingen van de cliënt of zijn vertegenwoordiger inzake zijn wensen en voorkeuren wordt een afschrift bij het zorgplan gevoegd. Indien het niet mogelijk is om hiermee rekening te houden, deelt de zorgverantwoordelijke dit schriftelijk en gemotiveerd mee aan betrokkene of zijn vertegenwoordiger.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De zorgverantwoordelijke voert zo vaak als hiertoe aanleiding is, doch in ieder geval binnen 4 weken na de aanvang van de uitvoering van het zorgplan en vervolgens ten minste elke zes maanden een evaluatie van het zorgplan uit. De cliënt of de vertegenwoordiger worden in de gelegenheid gesteld over de evaluatie gehoord te worden. De datum van de laatst uitgevoerde evaluatie wordt in het zorgplan aangetekend. Indien het zorgplan is opgesteld met toepassing van [artikel 10](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2025-07-01&g=2025-07-01) wordt de evaluatie mede uitgevoerd door een deskundigenoverleg als bedoeld in artikel 10, derde lid, en indien het zorgplan is opgesteld met toepassing van [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01), mede door het in artikel 10, tiende lid bedoelde uitgebreid deskundigenoverleg, en wordt bij de evaluatie toepassing gegeven aan artikel 10, vierde lid.
 
@@ -248,7 +275,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 #### § 2.2. Heroverweging van het zorgplan
 
-#### Artikel 9
+##### Artikel 9
 
 1. De zorgaanbieder biedt voldoende mogelijkheden voor zorg op basis van vrijwilligheid, om daarmee onvrijwillige zorg zoveel mogelijk te voorkomen.
 
@@ -274,7 +301,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 #### § 2.3. Onvrijwillige zorg in het zorgplan
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onvrijwillige zorg kan alleen als uiterste middel worden overwogen:
 
@@ -342,7 +369,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 10. Indien het niet lukt de onvrijwillige zorg voor afloop van de in het vierde lid, onder f bedoelde termijn af te bouwen, wordt opnieuw toepassing gegeven aan het derde tot en met negende lid, met dien verstande dat een niet bij de zorg betrokken deskundige deelneemt aan het in het derde lid bedoelde overleg.
 
-#### Artikel 11
+##### Artikel 11
 
 1. De zorgverantwoordelijke vraagt advies over het zorgplan aan een onafhankelijke deskundige, die niet bij de behandeling van de cliënt of de zorg aan de cliënt betrokken is, indien na het uitgebreid deskundigenoverleg als bedoeld in [artikel 10, tiende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2025-07-01&g=2025-07-01), het niet lukt de onvrijwillige zorg binnen de in het zorgplan opgenomen termijn af te bouwen.
 
@@ -352,7 +379,7 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 4. Indien op grond van de evaluatie, bedoeld in [artikel 8, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2025-07-01&g=2025-07-01), wordt geconcludeerd dat onvrijwillige zorg in overeenstemming met het advies van de onafhankelijke deskundige noodzakelijk blijft, bedraagt de termijn voor de toepassing van de onvrijwillige zorg, telkens niet langer dan zes maanden.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. Indien in het zorgplan onvrijwillige zorg is opgenomen of de onvrijwillige zorg in het zorgplan is gewijzigd, overlegt de zorgverantwoordelijke het zorgplan aan de Wzd-functionaris.
 
@@ -366,13 +393,13 @@ wordt overeenkomstige toepassing gegeven aan de [artikelen 10](https://wetten.ov
 
 #### § 2.4. Uitvoeren van het zorgplan
 
-#### Artikel 12
+##### Artikel 12
 
 1. Indien de cliënt of zijn vertegenwoordiger zich verzet tegen de uitvoering van het zorgplan of bepaalde onderdelen van het zorgplan, wordt aan dat zorgplan of die onderdelen van het zorgplan slechts uitvoering gegeven indien met toepassing van [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01) is vastgesteld dat uitvoering noodzakelijk is ter voorkoming van ernstig nadeel.
 
 2. Indien de voortgang van de uitvoering van het zorgplan of ontwikkelingen in de zorgbehoefte van de cliënt daartoe aanleiding geven, wordt een nieuw of gewijzigd zorgplan vastgesteld. De [artikelen 8 tot en met 11a](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2025-07-01&g=2025-07-01) zijn daarbij van overeenkomstige toepassing.
 
-#### Artikel 13
+##### Artikel 13
 
 De zorgverlener geeft slechts uitvoering aan in het zorgplan opgenomen onvrijwillige zorg indien de zorgverlener heeft vastgesteld dat:
 
@@ -380,13 +407,13 @@ De zorgverlener geeft slechts uitvoering aan in het zorgplan opgenomen onvrijwil
 
 - b. er in de gegeven omstandigheden geen minder ingrijpende mogelijkheden zijn om het ernstig nadeel te voorkomen of af te wenden.
 
-#### Artikel 14
+##### Artikel 14
 
 Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.1&artikel=8&z=2025-07-01&g=2025-07-01), geeft de verantwoordelijk arts van de zorgaanbieder waar de geneeskundige behandeling wordt uitgevoerd in plaats van de zorgverantwoordelijke de instemming voor het uitvoeren van de in het zorgplan opgenomen onvrijwillige zorg, overeenkomstig het bepaalde in [artikel 10, achtste lid, onderdeel 7°](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=10&z=2025-07-01&g=2025-07-01).
 
 #### § 2.5. Zorg in onvoorziene situaties
 
-#### Artikel 15
+##### Artikel 15
 
 1. In een situatie waarin het zorgplan redelijkerwijs niet heeft kunnen voorzien of in een noodsituatie die zich voordoet in de periode dat nog geen zorgplan is vastgesteld, wordt uitsluitend onvrijwillige zorg verleend, op grond van een beslissing van de zorgverantwoordelijke waarin hij heeft vastgesteld dat:
 
@@ -410,7 +437,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 #### § 2.6. Administratieve voorschriften en verplichtingen tot het verstrekken van gegevens
 
-#### Artikel 16
+##### Artikel 16
 
 1. Met het oog op de kwaliteit van de zorg en de inzichtelijkheid voor de cliënt en zijn vertegenwoordiger richt de zorgverantwoordelijke namens de zorgaanbieder een dossier in.
 
@@ -452,7 +479,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 3. Indien toepassing is gegeven aan de [artikelen 13](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.4&artikel=13&z=2025-07-01&g=2025-07-01) of [15](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2025-07-01&g=2025-07-01), draagt de zorgverantwoordelijke ervoor zorg dat, zodra de onvrijwillige zorg is verleend, daarvan melding wordt gemaakt in het dossier met een motivering van de noodzaak daartoe.
 
-#### Artikel 17
+##### Artikel 17
 
 1. De zorgaanbieder zorgt ten behoeve van het toezicht door de inspectie voor het digitaal beschikbaar zijn van in ieder geval de volgende gegevens:
 
@@ -478,13 +505,13 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 2. De zorgaanbieder verstrekt ten minste eens per zes maanden aan de inspectie een digitaal overzicht van de gegevens, bedoeld in het eerste lid. Bij algemene maatregel van bestuur kan worden bepaald dat deze gegevens in plaats van aan de inspectie op een bij of krachtens die maatregel aangewezen wijze verstrekt worden aan en verwerkt worden door een door Onze Minister aan te wijzen instantie.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De zorgaanbieder verstrekt ten minste eens per zes maanden aan de inspectie een door het bestuur van de zorgaanbieder ondertekende analyse over de onvrijwillige zorg die door hem in die periode is verleend.
 
 2. Bij regeling van Onze Minister kunnen regels worden gesteld over de inhoud en de wijze van verstrekken van de analyse.
 
-#### Artikel 18a
+##### Artikel 18a
 
 1. De zorgaanbieder bewaart de gegevens en bescheiden, bedoeld in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&artikel=17&z=2025-07-01&g=2025-07-01) gedurende de termijn, bedoeld in [artikel 7:454 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0005290&artikel=454), te rekenen vanaf het tijdstip waarop de onvrijwillige zorg wordt beëindigd.
 
@@ -504,7 +531,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 - b. het bij de wet bepaalde zich niet tegen vernietiging verzet.
 
-#### Artikel 18b
+##### Artikel 18b
 
 1. De zorgaanbieder verschaft het CIZ ten behoeve van diens taak op grond van hoofdstuk 3, inzage in het zorgplan bedoeld in [artikel 5, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.1&artikel=5&z=2025-07-01&g=2025-07-01), en het dossier bedoeld in [artikel 16, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2025-07-01&g=2025-07-01), van een cliënt voor wie een besluit tot opname en verblijf of een verzoek om een rechterlijke machtiging als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01) wordt voorbereid.
 
@@ -522,13 +549,13 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 5. Op grond van dit artikel worden geen gegevens verstrekt voor zover schriftelijk of elektronisch is vastgelegd dat de overleden cliënt die de leeftijd van twaalf jaar had bereikt en tot een redelijke waardering van zijn belangen ter zake in staat was, deze inzage niet wenst, of daarbij de persoonlijke levenssfeer van een ander wordt geschaad.
 
-#### Artikel 18ba
+##### Artikel 18ba
 
 1. Indien op grond van [artikel 18b, tweede lid, onderdeel c](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&artikel=18b&z=2025-07-01&g=2025-07-01), om inzage in of afschrift van gegevens uit het dossier van een overleden cliënt wordt gevraagd vanwege een vermoeden van een medische fout en de zorgaanbieder de gevraagde inzage of het gevraagde afschrift niet verstrekt, verstrekt de zorgaanbieder op verzoek van degene die om de inzage of het afschrift heeft gevraagd inzage in of afschrift van de gegevens aan een door de verzoeker aangewezen onafhankelijke arts.
 
 2. De arts, bedoeld in het eerste lid, beoordeelt of het niet verstrekken van de inzage of het afschrift gerechtvaardigd is. Indien de arts van oordeel is dat het niet verstrekken niet gerechtvaardigd is, verstrekt de zorgaanbieder alsnog inzage of afschrift aan de verzoeker.
 
-#### Artikel 18c
+##### Artikel 18c
 
 1. Onverminderd andere verplichtingen tot het verstrekken van gegevens die voortvloeien uit deze wet, verstrekken de zorgaanbieder, de Wzd-functionaris, de zorgverantwoordelijke, het CIZ, de burgemeester en de officier van justitie elkaar, zo nodig zonder toestemming van de cliënt of diens vertegenwoordiger, gegevens voor zover dat strikt noodzakelijk is ter voorkoming of beperking van ernstig nadeel, en dit hoort bij de uitoefening van ieders taak op grond van deze wet.
 
@@ -550,7 +577,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 7. De voordracht voor een krachtens het zesde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
-#### Artikel 19
+##### Artikel 19
 
 1. Een zorgaanbieder die onvrijwillige zorg verleent, draagt zorg voor een beleidsplan waarin hij in ieder geval vastlegt:
 
@@ -564,7 +591,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 3. Voordat een zorgaanbieder het beleidsplan vaststelt, vraagt de zorgaanbieder hierover advies aan de cliëntenraad, bedoeld in [artikel 3 van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=3). De [artikelen 6, eerste lid, eerste volzin](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=6), en [7, vijfde en zesde lid, van de Wet medezeggenschap cliënten zorginstellingen 2018](https://wetten.overheid.nl/jci1.3:c:BWBR0042294&artikel=7) zijn van toepassing.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De zorgaanbieder die onvrijwillige zorg verleent, verstrekt Onze Minister, ter opneming in een openbaar register, een opgave van de:
 
@@ -582,7 +609,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 #### § 1. Opname en verblijf zonder rechterlijke machtiging
 
-#### Artikel 21
+##### Artikel 21
 
 1. Opname en verblijf of de voortzetting van het verblijf van een cliënt van twaalf jaar of ouder die geen blijk geeft van de nodige bereidheid daartoe, maar zich er ook niet tegen verzet, vindt uitsluitend plaats in een geregistreerde accommodatie op basis van een besluit tot opname en verblijf van het CIZ.
 
@@ -602,7 +629,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld, betreffende de deskundigheidseisen waaraan het CIZ dient te voldoen.
 
-#### Artikel 22
+##### Artikel 22
 
 1. Tot het indienen van een aanvraag tot een besluit tot opname en verblijf, als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=1&artikel=21&z=2025-07-01&g=2025-07-01), zijn bevoegd:
 
@@ -644,7 +671,7 @@ Indien sprake is van een situatie als bedoeld in [artikel 8, tweede lid](https:/
 
 12. Indien op grond van het tiende lid, geoordeeld wordt dat er sprake is van onvrijwilligheid, behandelt het CIZ de aanvraag vanaf dat moment als aanvraag als bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 23
+##### Artikel 23
 
 Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden betreffende:
 
@@ -658,7 +685,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.1. De reguliere onvrijwillige opname en verblijf of voortgezet verblijf
 
-#### Artikel 24
+##### Artikel 24
 
 1. Onvrijwillige opname en verblijf of voortzetting van het verblijf van een cliënt is alleen mogelijk met een rechterlijke machtiging in een geregistreerde accommodatie.
 
@@ -694,7 +721,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.2. De aanvraag
 
-#### Artikel 25
+##### Artikel 25
 
 1. De volgende personen kunnen het CIZ vragen een verzoek om een rechterlijke machtiging, als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01), in te dienen:
 
@@ -716,7 +743,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.3. Het verzoek
 
-#### Artikel 26
+##### Artikel 26
 
 1. Het CIZ doet zo spoedig mogelijk doch binnen drie weken na de dag van ontvangst van de aanvraag, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01), bij de rechter een verzoek tot het verlenen van een machtiging. Indien het een cliënt betreft die al op grond van een machtiging tot voortzetting van de inbewaringstelling in een accommodatie verblijft, doet het CIZ het verzoek bij de rechter binnen één week na de dag van ontvangst van de aanvraag, bedoeld in artikel 25, eerste lid.
 
@@ -742,7 +769,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 8. Het CIZ vermeldt in het verzoek de gewenste duur van de machtiging.
 
-#### Artikel 27
+##### Artikel 27
 
 1. Uit de verklaring, bedoeld in [artikel 26, zesde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.3&artikel=26&z=2025-07-01&g=2025-07-01), blijkt:
 
@@ -760,7 +787,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 3. De arts die de verklaring opstelt, pleegt van tevoren overleg met de zorgaanbieder die de cliënt zorg verleent of, indien deze ontbreekt, met de huisarts van de cliënt.
 
-#### Artikel 28
+##### Artikel 28
 
 1. Het CIZ zendt een aanvraag, als bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01), tot behandeling waarvan kennelijk de officier van justitie, bedoeld in [hoofdstuk 5 van de Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635&hoofdstuk=5), bevoegd is, onverwijld door naar de officier van justitie bij het desbetreffende arrondissementsparket, onder gelijktijdige mededeling daarvan aan de afzender.
 
@@ -768,7 +795,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.3a. Voorwaardelijke machtiging jongvolwassenen
 
-#### Artikel 28aa
+##### Artikel 28aa
 
 1. De rechter kan op verzoek van het CIZ een voorwaardelijke machtiging verlenen die strekt tot opname en verblijf in een geregistreerde accommodatie van een cliënt die de leeftijd van achttien jaar heeft bereikt maar nog niet de leeftijd van drieëntwintig jaar, aansluitend op de verlening van jeugdhulp als bedoeld in de [Jeugdwet](https://wetten.overheid.nl/jci1.3:c:BWBR0034925) aan die cliënt.
 
@@ -788,7 +815,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 7. De [artikelen 38](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.6&artikel=38&z=2025-07-01&g=2025-07-01), [39, eerste tot en met derde en achtste en negende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.6&artikel=39&z=2025-07-01&g=2025-07-01), en [41](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.6&artikel=41&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing bij het afgeven van de voorwaardelijke machtiging.
 
-#### Artikel 28ab
+##### Artikel 28ab
 
 1. Een voorwaardelijke machtiging heeft een geldigheidsduur van ten hoogste een jaar na dagtekening en eindigt uiterlijk op de dag waarop de cliënt de leeftijd van drieëntwintig jaar bereikt.
 
@@ -802,7 +829,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 6. [Artikel 28aa](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.3a&artikel=28aa&z=2025-07-01&g=2025-07-01) is van overeenkomstige toepassing op de verlenging van de voorwaardelijke machtiging.
 
-#### Artikel 28ac
+##### Artikel 28ac
 
 1. Indien het ernstig nadeel niet langer buiten een geregistreerde accommodatie kan worden afgewend door naleving van de voorwaarden, dan wel de cliënt de in de machtiging opgenomen voorwaarden niet naleeft, neemt de zorgverantwoordelijke de cliënt op in een geregistreerde accommodatie. Voorafgaand aan de opname stelt de zorgverantwoordelijke zich op de hoogte van de toestand van de cliënt en vraagt hij over de voorgenomen opname advies aan een onafhankelijke deskundige als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.3&artikel=11&z=2025-07-01&g=2025-07-01).
 
@@ -814,7 +841,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 5. De personen, bedoeld in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01), kunnen de zorgverantwoordelijke verzoeken toepassing te geven aan het eerste lid.
 
-#### Artikel 28ad
+##### Artikel 28ad
 
 1. Met betrekking tot de beslissing van de zorgverantwoordelijke, bedoeld in [artikel 28ac, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.3a&artikel=28ac&z=2025-07-01&g=2025-07-01), kunnen de cliënt en de in [artikel 25, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01), genoemde personen, het CIZ vragen de beslissing van de rechter te verzoeken.
 
@@ -826,7 +853,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.4. De toepassing van [artikel 2.3 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3)
 
-#### Artikel 28a
+##### Artikel 28a
 
 1. Indien de officier van justitie een verzoekschrift om een rechterlijke machtiging met toepassing van [artikel 2.3, tweede lid, van de Wet forensische zorg overweegt](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3), gaat deze na of reeds een aanvraag voor een rechterlijke machtiging voor onvrijwillige opname voor de cliënt wordt voorbereid door het CIZ, in welk geval het CIZ en hij hierover overleg voeren.
 
@@ -852,7 +879,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 5. Indien de rechter ambtshalve toepassing van [artikel 2.3, tweede lid, van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=2.3) overweegt, verzoekt hij de officier van justitie toepassing te geven aan het bepaalde in dit artikel.
 
-#### Artikel 28b
+##### Artikel 28b
 
 1. De officier van justitie gaat onverwijld over tot tenuitvoerlegging van de rechterlijke machtiging als bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.4&artikel=28a&z=2025-07-01&g=2025-07-01).
 
@@ -866,7 +893,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 6. Bij de opneming van de betrokkene in de accommodatie geven de in het tweede lid bedoelde ambtenaren een afschrift van de beschikking van de rechter aan de zorgaanbieder die de zorg levert in de accommodatie.
 
-#### Artikel 28c
+##### Artikel 28c
 
 1. De officier van justitie zendt de machtiging bedoeld in [artikel 28a](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.4&artikel=28a&z=2025-07-01&g=2025-07-01) direct aan respectievelijk de Wlz-uitvoerder, het college van burgemeester en wethouders van de gemeente waar de cliënt ingezetene is of de zorgverzekeraar.
 
@@ -876,7 +903,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 #### § 2.5. Opname en verblijf in crisissituaties
 
-#### Artikel 29
+##### Artikel 29
 
 1. In afwijking van [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01), is onvrijwillige opname in een geregistreerde accommodatie van een persoon zonder rechterlijke machtiging mogelijk met een beschikking tot inbewaringstelling van de burgemeester van de gemeente waarin de betreffende persoon zich bevindt.
 
@@ -908,7 +935,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 9. Indien de beschikking tot inbewaringstelling betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt de beschikking tot inbewaringstelling als machtiging, als bedoeld in [artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b).
 
-#### Artikel 30
+##### Artikel 30
 
 1. De burgemeester gelast een inbewaringstelling pas nadat een ter zake deskundig arts een verklaring heeft verstrekt, waaruit blijkt waaruit de onvrijwilligheid bestaat en waaruit blijkt dat wordt voldaan aan de in [artikel 29, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), gestelde voorwaarden.
 
@@ -918,19 +945,19 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 4. De arts onderzoekt zo mogelijk de betrokkene voorafgaand aan de afgifte van de verklaring.
 
-#### Artikel 31
+##### Artikel 31
 
 1. De burgemeester zorgt ervoor dat de betrokkene binnen 24 uur na het tijdstip waarop de beschikking, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), wordt gegeven, wordt bijgestaan door een advocaat, tenzij de betrokkene of zijn vertegenwoordiger daartegen bedenkingen heeft.
 
 2. Bij algemene maatregel van bestuur, vast te stellen op de voordracht van Onze Minister in overeenstemming met Onze Minister van Justitie, kunnen regels worden gegeven ten aanzien van de toepassing van het eerste lid.
 
-#### Artikel 32
+##### Artikel 32
 
 1. De burgemeester tekent zo spoedig mogelijk op de beschikking, bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), aan, indien de ambtenaren gebruik hebben gemaakt van de bevoegdheden, bedoeld in [artikel 33, tweede tot en met vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=33&z=2025-07-01&g=2025-07-01), en overige relevante gegevens die hij ontvangt en die verband houden met de beschikking.
 
 2. Indien een beschikking niet ten uitvoer is gelegd, tekent de burgemeester daarop aan wat de reden daarvan is.
 
-#### Artikel 33
+##### Artikel 33
 
 1. De burgemeester gaat binnen 24 uur na afgifte van de beschikking, bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), over tot tenuitvoerlegging van de beschikking.
 
@@ -948,11 +975,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden bet
 
 6. Zo mogelijk worden de overeenkomstig het vierde lid ontnomen voorwerpen met de betrokkene overgebracht naar de accommodatie waarin hij wordt opgenomen. In de accommodatie wordt aan betrokkene of zijn vertegenwoordiger een bewijs van ontvangst afgegeven waarin die voorwerpen zijn omschreven. De voorwerpen worden voor betrokkene bewaard, voor zover dit niet in strijd is met enig wettelijk voorschrift.
 
-#### Artikel 34
+##### Artikel 34
 
 Indien binnen 24 uur na het tijdstip waarop de beschikking tot inbewaringstelling is gegeven, door de zorgaanbieders van de daarvoor in aanmerking komende accommodaties nog niet tot opneming is overgegaan, kan de burgemeester na overleg met de inspectie, een van de bovenbedoelde zorgaanbieders bevelen de betrokkene op te nemen. De betrokken zorgaanbieder is verplicht de betrokkene op te nemen.
 
-#### Artikel 35
+##### Artikel 35
 
 1. De burgemeester zorgt ervoor dat het CIZ en de inspectie onmiddellijk van de inbewaringstelling op de hoogte worden gesteld.
 
@@ -960,11 +987,11 @@ Indien binnen 24 uur na het tijdstip waarop de beschikking tot inbewaringstellin
 
 3. De burgemeester zorgt ervoor dat de zorgaanbieder die de zorg levert in de accommodatie waar de betrokkene wordt opgenomen een afschrift van de beschikking ontvangt alsmede van de medische verklaring, bedoeld in artikel 30, eerste lid, ten behoeve van de verplichting, bedoeld in [artikel 16, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&artikel=16&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 36
+##### Artikel 36
 
 De burgemeester stelt de ouders die het gezag uitoefenen, de echtgenoot, de geregistreerde partner of andere levensgezel van de cliënt of degene door wie de cliënt voor opname werd verzorgd en de vertegenwoordiger van de betrokkene zo mogelijk op de hoogte van de door hem op grond van [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01) gegeven beschikking.
 
-#### Artikel 37
+##### Artikel 37
 
 1. Indien het CIZ, na ontvangst van de bescheiden, bedoeld in [artikel 35, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=35&z=2025-07-01&g=2025-07-01), van oordeel is dat ten aanzien van de in bewaring gestelde persoon sprake is van een situatie als bedoeld in [artikel 29](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), doet het voordat de geldigheidsduur van de inbewaringstelling is verstreken bij de rechter een verzoek tot het verlenen van een machtiging tot voortzetting van de inbewaringstelling van die persoon. Indien het CIZ heeft besloten geen verzoekschrift in te dienen deelt het dit schriftelijk mee aan de zorgaanbieder van de accommodatie waarin de betrokkene verblijft.
 
@@ -976,7 +1003,7 @@ De burgemeester stelt de ouders die het gezag uitoefenen, de echtgenoot, de gere
 
 #### § 2.6. De rechterlijke machtiging
 
-#### Artikel 38
+##### Artikel 38
 
 1. Voordat de rechter beslist op het verzoek tot het verlenen van een machtiging tot opname en verblijf of het verzoek tot het verlenen van een machtiging tot voortzetting van de inbewaringstelling, hoort hij de cliënt, tenzij hij vaststelt dat deze niet in staat of niet bereid is zich te doen horen. Indien de cliënt in Nederland verblijft, maar niet in staat is zich naar de rechtbank te begeven, zal de rechter, door de griffier vergezeld, hem op zijn verblijfplaats horen. Indien de cliënt al in een accommodatie verblijft, wordt de rechter, vergezeld van de griffier, door de zorgaanbieder in de gelegenheid gesteld hem aldaar te horen.
 
@@ -1008,7 +1035,7 @@ De burgemeester stelt de ouders die het gezag uitoefenen, de echtgenoot, de gere
 
 10. Indien de rechtbank zich op grond van het door haar ingestelde onderzoek afvraagt of in de gegeven omstandigheden een zorgmachtiging als bedoeld in de [Wet verplichte geestelijke gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040635) niet passender is, kan zij dit gevoelen aan het CIZ en de officier van justitie bij het desbetreffende arrondissementsparket kenbaar maken en kan zij het verzoek tot het verlenen van een machtiging beschouwen als een verzoek tot het verlenen van een zorgmachtiging als bedoeld in de Wet verplichte geestelijke gezondheidszorg. Zo nodig kan de rechter daarbij bepalen dat de behandeling op een later tijdstip wordt voortgezet.
 
-#### Artikel 39
+##### Artikel 39
 
 1. De rechter beslist zo spoedig mogelijk op het verzoek tot het verlenen van een machtiging. Indien het verzoek betrekking heeft op een cliënt die reeds in een accommodatie verblijft, beslist de rechter in elk geval binnen drie weken na de datum van indiening van het verzoekschrift. Indien het verzoek een machtiging tot voortzetting van de inbewaringstelling betreft, beslist de rechter binnen drie werkdagen, te rekenen vanaf de dag na die van het indienen van het verzoek door het CIZ.
 
@@ -1028,11 +1055,11 @@ De burgemeester stelt de ouders die het gezag uitoefenen, de echtgenoot, de gere
 
 9. De beschikking van de rechter is bij voorraad uitvoerbaar.
 
-#### Artikel 40
+##### Artikel 40
 
 Indien een machtiging betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt deze als machtiging, als bedoeld in [artikel 265b van Boek 1 van het Burgerlijk Wetboek](https://wetten.overheid.nl/jci1.3:c:BWBR0002656&artikel=265b).
 
-#### Artikel 41
+##### Artikel 41
 
 1. De griffier zendt een afschrift van de beschikking inzake de rechterlijke machtiging tot opname en verblijf, de voorwaardelijke machtiging, en machtigingen tot voortzetting van de inbewaringstelling aan:
 
@@ -1056,7 +1083,7 @@ Indien een machtiging betrekking heeft op een minderjarige die onder toezicht is
 
 2. Indien afwijzend wordt beslist op het verzoek tot het verlenen van een machtiging zendt de griffier tevens een afschrift aan de bij de zorg voor de cliënt betrokken arts. Hierbij voegt de griffier een afschrift van de verklaring, bedoeld in [artikel 26, vijfde lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.3&artikel=26&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 42
+##### Artikel 42
 
 De zorgaanbieder die de zorg verleent in de accommodatie waar de cliënt wordt of blijft opgenomen, doet van deze opname zo spoedig mogelijk mededeling aan:
 
@@ -1070,13 +1097,13 @@ De zorgaanbieder die de zorg verleent in de accommodatie waar de cliënt wordt o
 
 - e. het CIZ en de inspectie.
 
-#### Artikel 43
+##### Artikel 43
 
 Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven met betrekking tot de aanvraag, bedoeld in [artikel 25](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.2&artikel=25&z=2025-07-01&g=2025-07-01), het verzoek, bedoeld in [artikel 26, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.3&artikel=26&z=2025-07-01&g=2025-07-01), en de verklaring en de deskundigheid van de arts, bedoeld in de artikel 26, zesde lid, onderdeel d, en [30, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=30&z=2025-07-01&g=2025-07-01).
 
 #### § 2.7. Schadevergoeding
 
-#### Artikel 44
+##### Artikel 44
 
 1. Indien de wet niet in acht is genomen bij het gelasten van een inbewaringstelling of bij de toepassing van [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2025-07-01&g=2025-07-01) kan de cliënt of zijn vertegenwoordiger de rechter verzoeken tot schadevergoeding door respectievelijk de gemeente of de zorgaanbieder. De rechter kent een naar billijkheid vast te stellen schadevergoeding toe.
 
@@ -1086,7 +1113,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften word
 
 #### § 3. Administratieve voorschriften bij opname en verblijf
 
-#### Artikel 45
+##### Artikel 45
 
 1. De zorgaanbieder stelt aan een cliënt en diens vertegenwoordiger zo spoedig mogelijk na diens opname een schriftelijk overzicht van de in de accommodatie geldende huisregels ter hand.
 
@@ -1094,7 +1121,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften word
 
 3. De zorgverantwoordelijke zorgt ervoor dat de cliënt en zijn vertegenwoordiger een mondelinge toelichting op de huisregels ontvangen.
 
-#### Artikel 46
+##### Artikel 46
 
 1. Een zorgaanbieder neemt een cliënt als bedoeld in de [artikelen 21](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=1&artikel=21&z=2025-07-01&g=2025-07-01), [24](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01) en [29](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01) slechts op in een accommodatie tegen overlegging van een afschrift van het besluit tot opname en verblijf, bedoeld in artikel 21, eerste lid, de rechterlijke machtiging, bedoeld in artikel 24, eerste lid, of de beschikking tot inbewaringstelling, bedoeld in artikel 29, eerste lid.
 
@@ -1102,7 +1129,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften word
 
 #### § 4. Verlof en ontslag
 
-#### Artikel 47
+##### Artikel 47
 
 1. De zorgaanbieder verleent een cliënt die met toepassing van paragraaf 2 van dit hoofdstuk in een accommodatie verblijft, ambtshalve of op verzoek van de cliënt of zijn vertegenwoordiger, gedurende een daarbij aan te geven periode, verlof om voor zover en voor zolang dit verantwoord is buiten de accommodatie te verblijven.
 
@@ -1122,7 +1149,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften word
 
 9. Aan het verlof kunnen, met instemming van de Wzd-functionaris, voorwaarden en beperkingen worden verbonden betreffende de zorg of het gedrag van de cliënt, voor zover dit gedrag samenhangt met ernstig nadeel als gevolg van de psychogeriatrische aandoening of verstandelijke handicap dan wel een daarmee gepaard gaande psychische stoornis. De zorgaanbieder verleent slechts verlof indien de cliënt dan wel, indien van toepassing, de vertegenwoordiger zich bereid heeft verklaard tot naleving van de voorwaarden en beperkingen.
 
-#### Artikel 48
+##### Artikel 48
 
 1. De zorgaanbieder verleent een met toepassing van [paragraaf 2](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&z=2025-07-01&g=2025-07-01) van dit hoofdstuk, in een accommodatie verblijvende cliënt ambtshalve of op verzoek van de cliënt of zijn vertegenwoordiger ontslag uit de accommodatie, indien:
 
@@ -1164,17 +1191,17 @@ Bij of krachtens algemene maatregel van bestuur kunnen nadere voorschriften word
 
 ### Hoofdstuk 3a. Cliënten voor wie Onze Minister van Veiligheid en Justitie medeverantwoordelijkheid draagt
 
-#### Artikel 49
+##### Artikel 49
 
 1. Een persoon die in een accommodatie verblijft en aan wie tevens de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege of de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, wordt voor de toepassing van deze wet vanaf het moment van opname in de accommodatie aangemerkt als een cliënt, die op grond van een rechterlijke machtiging tot opname en verblijf als bedoeld in [artikel 24](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01) is opgenomen.
 
 2. Een persoon die in een accommodatie verblijft en die tevens forensisch patiënt is in de zin van [artikel 1.1 van de Wet forensische zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0040634&artikel=1.1), niet zijnde een forensisch patiënt als bedoeld in het eerste lid, wordt vanaf het moment van opname in de accommodatie voor de toepassing van deze wet aangemerkt als een cliënt.
 
-#### Artikel 50
+##### Artikel 50
 
 Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een cliënt als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3a&artikel=49&z=2025-07-01&g=2025-07-01), van oordeel is dat voldaan is aan de criteria voor het verlenen van verlof of ontslag, dan wel dat de cliënt in aanmerking komt voor overplaatsing, verzoekt de zorgaanbieder Onze Minister van Veiligheid en Justitie daartoe een beslissing te nemen. De zorgaanbieder vermeldt daarbij het oordeel van de Wzd-functionaris. Onze Minister van Veiligheid en Justitie neemt zo spoedig mogelijk een beslissing. Hij betrekt daarbij de overwegingen en de voorwaarden of beperkingen die de zorgaanbieder ingevolge de [artikelen 47](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=4&artikel=47&z=2025-07-01&g=2025-07-01) en [48](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=4&artikel=48&z=2025-07-01&g=2025-07-01) nodig oordeelt.
 
-#### Artikel 51
+##### Artikel 51
 
 1. Bij de eerste opname in een accommodatie, bij de tenuitvoerlegging van een bevel als bedoeld in [artikel 2, eerste lid, aanhef, van de Wet DNA-onderzoek bij veroordeelden](https://wetten.overheid.nl/jci1.3:c:BWBR0017212&artikel=2) en voor zover dit anderszins noodzakelijk is voor de vaststelling van de identiteit, wordt de identiteit vastgesteld van een persoon die krachtens of ter uitvoering van een beslissing op grond van het [Wetboek van Strafvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001903), het [Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854), de [Penitentiaire beginselenwet](https://wetten.overheid.nl/jci1.3:c:BWBR0009709), de [Beginselenwet verpleging ter beschikking gestelden](https://wetten.overheid.nl/jci1.3:c:BWBR0008765) of de [Beginselenwet justitiële jeugdinrichtingen](https://wetten.overheid.nl/jci1.3:c:BWBR0011756) in een accommodatie is geplaatst.
 
@@ -1184,7 +1211,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van de persoonsgegevens, bedoeld in het tweede en derde lid.
 
-#### Artikel 51a
+##### Artikel 51a
 
 1. Beperkingen in het recht op het ontvangen van bezoek kunnen, anders dan als onvrijwillige zorg in een onvoorziene situatie als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.5&artikel=15&z=2025-07-01&g=2025-07-01), door de zorgverantwoordelijke aan cliënten als bedoeld in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3a&artikel=49&z=2025-07-01&g=2025-07-01) worden opgelegd indien:
 
@@ -1208,7 +1235,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 ### Hoofdstuk 4. Klachtenprocedure en schadevergoeding
 
-#### Artikel 52
+##### Artikel 52
 
 1. De zorgaanbieder stelt aan de cliënt en zijn vertegenwoordiger zo spoedig mogelijk, doch in elk geval binnen twee weken na aanvang van de zorg, een schriftelijk overzicht van de op grond van deze wet aan de cliënt toekomende rechten inclusief de in [artikel 56, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4&paragraaf=4.2&artikel=56&z=2025-07-01&g=2025-07-01), bedoelde regeling, ter hand. In dit overzicht is opgenomen het adres waaronder de zorgaanbieder bereikbaar is voor een klacht als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2025-07-01&g=2025-07-01).
 
@@ -1216,13 +1243,13 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 #### § 4.1. Instelling en taakomschrijving van de klachtencommissie
 
-#### Artikel 53
+##### Artikel 53
 
 1. De zorgaanbieder is aangesloten bij een door één of meer representatief te achten cliëntenorganisaties en één of meer representatief te achten organisaties van zorgaanbieders ingestelde klachtencommissie die bestaat uit een oneven aantal van ten minste drie leden die niet werkzaam zijn bij of voor de zorgaanbieder en die zodanig is samengesteld dat een deskundige en zorgvuldige beslissing op de klacht is gewaarborgd.
 
 2. De klachtencommissie beslist, in afwijking van [hoofdstuk 3 van de Wet kwaliteit, klachten en geschillen van zorg](https://wetten.overheid.nl/jci1.3:c:BWBR0037173&hoofdstuk=3), op klachten als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 54
+##### Artikel 54
 
 1. Ten behoeve van de vervulling van haar taak houdt de klachtencommissie zich in elk geval op de hoogte van de ontwikkelingen op het terrein van het verlenen van zorg en onvrijwillige zorg aan psychogeriatrische en verstandelijk gehandicapte cliënten.
 
@@ -1234,7 +1261,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 #### § 4.2. De klachtprocedure
 
-#### Artikel 55
+##### Artikel 55
 
 1. De cliënt, zijn vertegenwoordiger of een nabestaande van de cliënt kan een schriftelijke en gemotiveerde klacht indienen bij de klachtencommissie over de nakoming van een verplichting of over een beslissing over:
 
@@ -1252,7 +1279,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 2. Tevens kan de cliënt, zijn vertegenwoordiger of een nabestaande van de cliënt een schriftelijke en gemotiveerde klacht indienen bij de klachtencommissie over de nakoming van een verplichting of over een beslissing van de Wzd-functionaris.
 
-#### Artikel 56
+##### Artikel 56
 
 1. De klachtencommissie behandelt de klacht zodanig dat een deskundige en zorgvuldige beslissing op de klacht is gewaarborgd.
 
@@ -1268,7 +1295,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 - e. de persoonlijke levenssfeer van de betrokkenen zoveel mogelijk wordt beschermd.
 
-#### Artikel 56a
+##### Artikel 56a
 
 1. De klachtencommissie kan een beslissing waartegen de klacht is gericht, schorsen.
 
@@ -1278,7 +1305,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 4. Een klacht kan buiten behandeling worden gelaten indien een gelijke klacht van eenzelfde persoon nog in behandeling is.
 
-#### Artikel 56b
+##### Artikel 56b
 
 1. De beslissing van de klachtencommissie strekt tot:
 
@@ -1304,13 +1331,13 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 #### § 4.3. Beroep
 
-#### Artikel 56c
+##### Artikel 56c
 
 1. Nadat de klachtencommissie een beslissing heeft genomen of indien de klachtencommissie niet tijdig een beslissing heeft genomen, kan de cliënt, de vertegenwoordiger, de zorgaanbieder, degene op wie de klacht betrekking heeft of een nabestaande van de cliënt een schriftelijk en gemotiveerd verzoekschrift indienen bij de rechter ter verkrijging van een beslissing over de klacht.
 
 2. De termijn voor het indien van een verzoekschrift bedraagt binnen zes weken na de dag waarop de beslissing van de klachtencommissie aan de verzoeker is meegedeeld, dan wel zes weken na de dag waarop de klachtencommissie uiterlijk een beslissing had moeten nemen.
 
-#### Artikel 56d
+##### Artikel 56d
 
 1. Voordat de rechter op het verzoekschrift beslist, stelt hij in ieder geval de verzoeker, de cliënt, de vertegenwoordiger, de zorgaanbieder, degene op wie de klacht betrekking heeft en de zorgverantwoordelijke in de gelegenheid om te worden gehoord. Indien de cliënt in Nederland verblijft, maar niet in staat is naar de rechtbank te komen, zal de rechter, door de griffier vergezeld, hem horen op zijn verblijfplaats. Indien de cliënt in een accommodatie verblijft, wordt de rechter door de zorgaanbieder in de gelegenheid gesteld hem aldaar te horen.
 
@@ -1338,7 +1365,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 6. Indien de cliënt geen advocaat heeft, geeft de rechter aan het bestuur van de raad voor rechtsbijstand, bedoeld in de [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368), een last tot toevoeging van een advocaat aan de cliënt.
 
-#### Artikel 56e
+##### Artikel 56e
 
 1. De rechter kan de beslissing waartegen de klacht is gericht, schorsen.
 
@@ -1346,7 +1373,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 3. Tegen de beslissing van de rechter staat geen hoger beroep open.
 
-#### Artikel 56f
+##### Artikel 56f
 
 1. De beslissing van de rechter strekt tot:
 
@@ -1370,7 +1397,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 #### § 4.4. Schadevergoeding
 
-#### Artikel 56g
+##### Artikel 56g
 
 1. Bij een verzoek als bedoeld in [artikel 55](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=4&paragraaf=4.2&artikel=55&z=2025-07-01&g=2025-07-01) kan verzoeker tevens om schadevergoeding door de zorgaanbieder verzoeken. De klachtencommissie kan ook ambtshalve tot schadevergoeding door de zorgaanbieder besluiten.
 
@@ -1382,7 +1409,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 #### § 4.5. Geheimhouding
 
-#### Artikel 56h
+##### Artikel 56h
 
 1. Een ieder die betrokken is bij de uitvoering van dit hoofdstuk en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit hoofdstuk de noodzaak tot bekendmaking voortvloeit.
 
@@ -1390,7 +1417,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 ### Hoofdstuk 4a. Cliëntenvertrouwenspersoon
 
-#### Artikel 57
+##### Artikel 57
 
 1. De zorgaanbieder informeert iedere cliënt of diens vertegenwoordiger over de cliëntvertrouwenspersoon en draagt ervoor zorg dat iedere cliënt of diens vertegenwoordiger een beroep kan doen op een cliëntenvertrouwenspersoon. De zorgaanbieder informeert de cliënt en diens vertegenwoordiger op zodanige wijze over de mogelijkheden tot advies en bijstand door een cliëntenvertrouwenspersoon, dat daarmee wordt aangesloten bij de behoefte en het bevattingsvermogen van de desbetreffende cliënt. De cliëntenvertrouwenspersoon heeft tot taak de cliënt of de vertegenwoordiger advies en bijstand te verlenen in aangelegenheden die samenhangen met het verlenen van onvrijwillige zorg aan de cliënt, met zijn opname en verblijf in een accommodatie, of met het doorlopen van de klachtenprocedure, indien een cliënt of diens vertegenwoordiger daarom verzoekt.
 
@@ -1410,7 +1437,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 - c. de taken en bevoegdheden van de cliëntenvertrouwenspersoon.
 
-#### Artikel 58
+##### Artikel 58
 
 1. De cliëntenvertrouwenspersoon heeft, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is, al of niet op verzoek van de cliënt, vrije toegang tot de cliënt en behoeft van niemand toestemming om te spreken met de cliënt. De zorgaanbieder biedt hiertoe de gelegenheid.
 
@@ -1422,7 +1449,7 @@ Indien de zorgaanbieder, na overleg met de Wzd-functionaris, ten aanzien van een
 
 - c. inzage in de dossiers van de zorgaanbieder.
 
-#### Artikel 59
+##### Artikel 59
 
 De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de uitoefening van zijn taak aan hem is toevertrouwd, tenzij enig wettelijk voorschrift hem tot mededeling verplicht, uit zijn taak de noodzaak tot mededeling voortvloeit, of de cliënt toestemming geeft om vertrouwelijke informatie te delen.
 
@@ -1430,7 +1457,7 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 #### § 1. Toezicht
 
-#### Artikel 60
+##### Artikel 60
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de ambtenaren van de inspectie.
 
@@ -1442,7 +1469,7 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 5. De zorgaanbieder stelt de genoemde ambtenaren in de gelegenheid met de cliënten te spreken, al dan niet op verzoek van die cliënten.
 
-#### Artikel 60a
+##### Artikel 60a
 
 1. Indien bij de zorgaanbieder, de Wzd-functionaris, de zorgverantwoordelijke of de zorgverlener het gegronde vermoeden bestaat dat de uitvoering van de onvrijwillige zorg ernstig tekortschiet, doet hij daarvan melding bij de inspectie.
 
@@ -1450,7 +1477,7 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 #### § 2. Bestuursrechtelijke handhaving
 
-#### Artikel 61
+##### Artikel 61
 
 1. Onze Minister kan een bestuurlijke boete van ten hoogste € 33.500,- opleggen ter zake van overtreding van regels gesteld bij of krachtens artikel:
 
@@ -1576,7 +1603,7 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 #### § 3. Strafrechtelijke handhaving
 
-#### Artikel 62
+##### Artikel 62
 
 1. Met gevangenisstraf van ten hoogste drie jaar of geldboete van de derde categorie wordt gestraft hij die opzettelijk iemand van zijn vrijheid berooft of doet beroven door deze persoon tegen zijn wil op te nemen of te laten opnemen in een accommodatie, zonder dat daar een besluit tot opname en verblijf als bedoeld in [artikel 21, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=1&artikel=21&z=2025-07-01&g=2025-07-01), een rechterlijke machtiging als bedoeld in [artikel 24, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.1&artikel=24&z=2025-07-01&g=2025-07-01) of een beschikking tot inbewaringstelling als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01), aan ten grondslag ligt.
 
@@ -1584,7 +1611,7 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 3. De in het eerste en tweede lid strafbaar gestelde feiten zijn misdrijven.
 
-#### Artikel 63
+##### Artikel 63
 
 1. Met een geldboete van de tweede categorie wordt gestraft hij die:
 
@@ -1598,19 +1625,19 @@ De cliëntenvertrouwenspersoon is tot geheimhouding verplicht van hetgeen in de 
 
 #### § 4. Evaluatie
 
-#### Artikel 64
+##### Artikel 64
 
 Onze Minister zendt binnen twee jaar na de inwerkingtreding van deze wet, en vervolgens telkens om de vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.
 
 ### Hoofdstuk 6. Wijzigingsbepalingen andere wetten
 
-#### Artikel 74
+##### Artikel 74
 
 Wijzigt de Algemene wet bestuursrecht.
 
 ### Hoofdstuk 7. Overgangs- en slotbepalingen
 
-#### Artikel 76
+##### Artikel 76
 
 1. De [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) blijft van toepassing op:
 
@@ -1628,19 +1655,19 @@ Wijzigt de Algemene wet bestuursrecht.
 
 4. Een krachtens de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700) verleende last tot inbewaringstelling, waarvan de geldigheidsduur op het tijdstip van inwerkingtreding van deze wet nog niet is verstreken, wordt voor de toepassing van [hoofdstuk 3, paragraaf 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&z=2025-07-01&g=2025-07-01), aangemerkt als een last tot inbewaringstelling als bedoeld in [artikel 29, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=3&paragraaf=2&sub-paragraaf=2.5&artikel=29&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 77a
+##### Artikel 77a
 
 Een door Onze Minister op grond van [artikel 1, eerste lid, onderdeel h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](https://wetten.overheid.nl/jci1.3:c:BWBR0005700&artikel=1) als verpleeginrichting of zwakzinnigeninrichting aangemerkte zorginstelling of afdeling daarvan wordt door Onze Minister ambtshalve opgenomen in het register, bedoeld in [artikel 20, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0040632&hoofdstuk=2&paragraaf=2.6&artikel=20&z=2025-07-01&g=2025-07-01).
 
-#### Artikel 78
+##### Artikel 78
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg.
 
-#### Artikel 79
+##### Artikel 79
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit bepaald tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-#### Artikel 80
+##### Artikel 80
 
 Deze wet wordt aangehaald als: Wet zorg en dwang psychogeriatrische en verstandelijk gehandicapte cliënten.
 

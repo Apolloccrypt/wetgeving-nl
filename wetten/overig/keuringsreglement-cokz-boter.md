@@ -1,13 +1,37 @@
 ---
 title: "Keuringsreglement COKZ boter"
 identifier: "BWBR0009717"
-categorie: "Overig"
-publicatiedatum: 2006-01-01
-laatste_update: 2006-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0009717"
+country: "nl"
+rank: "zbo"
+publication_date: "2006-01-01"
+last_updated: "2006-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0009717"
+soort: "zbo"
+stam_id: "6777283"
+version_id: "11635902"
+internal_id: "C15680761"
+label_id: "6765784"
+original_entry_into_force: "1998-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0009717/2006-01-01/0"
+intitule_bron: "Stcrt.1998-187"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1998-06-24"
+intitule_published: "1998-10-01"
+intitule_in_force: "1998-10-01"
+intitule_status: "goed"
+original_publication: "Stcrt.1998-187"
+original_signed_date: "1998-06-24"
+original_published_date: "1998-10-01"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-1998-187-p16-SC15657"
+entry_into_force_date: "1998-10-01"
+jci_1_3: "jci1.3:c:BWBR0009717&z=2006-01-01&g=2006-01-01"
+jci_1_0: "1.0:c:BWBR0009717&g=2006-01-01"
+citeertitel_status: "officieel"
+signed_date: "1998-06-24"
+entry_into_force: "1998-10-01"
 ---
-
 # Keuringsreglement COKZ boter
 
 Het centraal bestuur van de Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel (bij afkorting COKZ),
@@ -18,7 +42,7 @@ heeft in zijn vergadering van 24 juni 1998 vastgesteld het navolgende Reglement
 
 ### Hoofdstuk 1. Terminologie
 
-#### Artikel 1
+##### Artikel 1
 
 Dit reglement wordt, tenzij uitdrukkelijk anders is bepaald, de terminologie van de [Landbouwkwaliteitsregeling boter](https://wetten.overheid.nl/jci1.3:c:BWBR0009799) overgenomen en wordt voorts verstaan onder
 
@@ -40,7 +64,7 @@ bestuur: centraal bestuur van het COKZ.
 
 ### Hoofdstuk 2. Voorschriften inzake rijksbotermerken
 
-#### Artikel 2
+##### Artikel 2
 
 1. Rijksbotermerken worden aangebracht:
 
@@ -54,7 +78,7 @@ bestuur: centraal bestuur van het COKZ.
 
 3. In het geval van het etiket, als bedoeld in het eerste lid onder b, dient dit etiket te worden voorzien van een doorlopend volgnummer in het rijksbotermerk of in de onmiddellijke nabijheid ervan.
 
-#### Artikel 3
+##### Artikel 3
 
 1a. Verpakkingsmateriaal dat met een rijksbotermerk is bedrukt, als bedoeld in [artikel 2, eerste lid onder a,](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01) wordt door of namens het COKZ aan de bereider of ompakker van boter verstrekt, uitsluitend om te worden gebruikt voor het verpakken van de in zijn bedrijf bereide of omgepakte boter.
 
@@ -88,7 +112,7 @@ Door of namens het bestuur kunnen aanwijzingen worden gegeven omtrent de wijze w
 
 6. Door of namens de directeur kan ontheffing worden verleend van het bepaalde in het tweede lid.
 
-#### Artikel 4
+##### Artikel 4
 
 1.a. Verpakkingsmateriaal, als bedoeld in [artikel 2, eerste lid onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=2&artikel=2&z=2006-01-01&g=2006-01-01), dat reeds is gebruikt, mag niet opnieuw worden gebruikt.
 
@@ -112,13 +136,13 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 #### A. Voorschriften inzake de keuring van boter
 
-#### Artikel 5
+##### Artikel 5
 
 1. De bereider of ompakker van boter is verplicht elke aan keuring onderworpen partij boter ten minste twee dagen voor aflevering schriftelijk ter keuring bij het COKZ aan te melden. Door of namens het bestuur kunnen met betrekking tot de melding nadere regelen worden gesteld.
 
 2. Het bepaalde in het eerste lid vindt geen toepassing indien er doorlopend boter wordt verpakt met dien verstande dat de verpakker van boter verplicht is om bij onderbreking van het verpakken van boter aan het COKZ tijdig melding te doen van de tijdstippen van aanvang en beëindiging van deze onderbreking.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De keuring van boter geschiedt steekproefsgewijs tijdens of in aansluiting op de bereiding of het ompakken van de boter.
 
@@ -162,7 +186,7 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 - -. vochtverdeling.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Het bestuur bepaalt:
 
@@ -172,7 +196,7 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 2. De directeur is bevoegd in naar zijn oordeel bijzondere gevallen af te wijken van het krachtens het eerste lid bepaalde.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde monsters worden genomen met inachtneming van het bij of krachtens dit reglement bepaalde, met dien verstande dat ten behoeve van het in [artikel 6, tweede lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), bedoelde onderzoek een monster – zoveel mogelijk zonder vervorming van de boter – wordt genomen ter grootte van ca. 2,5 kg.
 
@@ -180,13 +204,13 @@ c. De bereider of ompakker van boter is verplicht onbruikbaar geworden handelsdo
 
 3. Zo spoedig mogelijk na afloop van de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=8&z=2006-01-01&g=2006-01-01), bedoelde termijn wordt het monster van 2,5 kg onderzocht op de in [artikel 6, eerste lid onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01), genoemde criteria.
 
-#### Artikel 9
+##### Artikel 9
 
 De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&hoofdstuk=3&paragraaf=A&artikel=6&z=2006-01-01&g=2006-01-01) bedoelde keuring wordt door middel van één of meer keuringsformulieren, houdende de bemonsteringsgegevens en de analyse- en/of keuringsresultaten, aan de bereider of de ompakker van boter bekend gemaakt.
 
 #### B. De gevolgen van de keuringen van boter
 
-#### Artikel 10
+##### Artikel 10
 
 1. Het door of namens het COKZ met keuring en toezicht belaste personeel kan de aflevering verbieden van een partij boter, welke eenheden bevat, die naar het oordeel van het genoemde personeel niet voldoet aan de bij het besluit of de regeling aan boter gestelde algemene of bijzondere eisen. In voorkomend geval wordt hiervan melding gemaakt op het desbetreffende keuringsformulier.
 
@@ -202,7 +226,7 @@ De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.
 
 #### C. Administratieve voorschriften met betrekking tot boter
 
-#### Artikel 11
+##### Artikel 11
 
 1. De bereider van boter is verplicht dagelijks, voor elke door hem bereide partij boter afzonderlijk, aantekening te houden van:
 
@@ -248,7 +272,7 @@ De resultaten van de in [artikel 6, tweede lid](https://wetten.overheid.nl/jci1.
 
 ### Hoofdstuk 4
 
-#### Artikel 12
+##### Artikel 12
 
 Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling bepaalde moet worden gebruik gemaakt van de in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0009717&bijlage=2&z=2006-01-01&g=2006-01-01) opgenomen methoden van monsterneming en onderzoek. Indien voor een bepaald doel een methode ontbreekt, moet een door de directeur van het COKZ goedgekeurde en gevalideerde methode worden toegepast.
 
@@ -256,7 +280,7 @@ Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling
 
 #### A. Het maken van bezwaar tegen de monsterneming
 
-#### Artikel 13
+##### Artikel 13
 
 1. De aangeslotene kan bezwaar maken tegen
 
@@ -272,7 +296,7 @@ Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling
 
 #### B. Het maken van bezwaar tegen de keuringsuitslag
 
-#### Artikel 14
+##### Artikel 14
 
 1. Tegen een door of namens het COKZ vastgestelde keuringsuitslag staat bezwaar open bij het bestuur. Zodanig bezwaar heeft geen schorsende werking.
 
@@ -282,7 +306,7 @@ Voor de vaststelling of boter voldoet aan het bij het besluit of bij de regeling
 
 Indien bij de keuringsuitslag, waartegen bezwaar wordt aangetekend, een verbod tot aflevering van de desbetreffende partij boter is opgelegd, kan de directeur dit verbod op verzoek van de aangeslotene opheffen, al dan niet onder het stellen van voorwaarden en beperkingen. In voorkomend geval zendt hij daarvan schriftelijk bericht aan de aangeslotene.
 
-#### Artikel 15
+##### Artikel 15
 
 Het inwinnen van advies
 
@@ -294,17 +318,17 @@ Het inwinnen van advies
 
 ### Hoofdstuk 6. Algemene en slotbepalingen
 
-#### Artikel 16
+##### Artikel 16
 
 Aangeslotenen zijn verplicht alle plaatsen, waar in het kader van de regeling bereidingshandelingen worden verricht, onverwijld ter kennis te brengen van het COKZ onder opgave van het adres en de plaats van vestiging.
 
-#### Artikel 17
+##### Artikel 17
 
 1. In de gevallen, waarin het onderhavige reglement voorziet in de mogelijkheid tot verlening van een ontheffing of een toestemming, wordt deze slechts verleend op met redenen omkleed schriftelijk door betrokkene bij de directeur ingediend verzoek.
 
 2. Van elke door of namens het bestuur of de directeur verleende ontheffing wordt gelijktijdig met de verlening een afschrift gezonden aan de directeur Industrie en Handel.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit reglement kan worden aangehaald als ’Keuringsreglement COKZ boter’.
 

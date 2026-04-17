@@ -1,18 +1,43 @@
 ---
 title: "Boetetoemetingsbeleid AFM 2021"
 identifier: "BWBR0045300"
-categorie: "Strafrecht"
-publicatiedatum: 2021-07-01
-laatste_update: 2021-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0045300"
+country: "nl"
+rank: "zbo"
+publication_date: "2021-07-01"
+last_updated: "2021-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0045300"
+soort: "zbo"
+stam_id: "15999583"
+version_id: "27846112"
+internal_id: "C39273061"
+label_id: "15933354"
+dtd_version: "2.0"
+original_entry_into_force: "2021-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0045300/2021-07-01/0"
+intitule_bron: "Stcrt.2021-29600"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2021-05-18"
+intitule_published: "2021-06-29"
+intitule_in_force: "2021-06-29"
+intitule_status: "goed"
+original_publication: "Stcrt.2021-29600"
+original_signed_date: "2021-05-18"
+original_published_date: "2021-06-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2021-29600"
+entry_into_force_date: "2021-07-01"
+jci_1_3: "jci1.3:c:BWBR0045300&z=2021-07-01&g=2021-07-01"
+jci_1_0: "1.0:c:BWBR0045300&g=2021-07-01"
+citeertitel_status: "officieel"
+signed_date: "2021-05-18"
+entry_into_force: "2021-07-01"
 ---
-
 # Boetetoemetingsbeleid AFM 2021
 
 De Autoriteit Financiële Markten (AFM) heeft besloten om de volgende beleidsregel vast te stellen met betrekking tot het bepalen van de hoogte van bestuurlijke boetes die worden opgelegd wegens overtreding van de bepalingen die zijn genoemd in [paragraaf 2 van het Besluit bestuurlijke boetes financiële sector](https://wetten.overheid.nl/jci1.3:c:BWBR0026204&paragraaf=2) (Bbbfs), [hoofdstuk 10 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](https://wetten.overheid.nl/jci1.3:c:BWBR0020892&hoofdstuk=10) (Besluit Pw en Wvb), onderdeel b van de [bijlage bij de Wet handhaving consumentenbescherming](onbekend) (Whc) en [bijlage 2 bij het Besluit uitvoering EU-verordeningen financiële markten](https://wetten.overheid.nl/jci1.3:c:BWBR0032230&bijlage=2):
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -26,7 +51,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - e. **wettelijk basisbedrag:** het wettelijk vastgestelde basisbedrag van de boete, in de categorie 1, 2 of 3.
 
-#### Artikel 2. – Wettelijke boeteregimes
+##### Artikel 2. – Wettelijke boeteregimes
 
 In deze beleidsregel worden de volgende drie wettelijk vastgelegde boeteregimes onderscheiden:
 
@@ -38,7 +63,7 @@ In deze beleidsregel worden de volgende drie wettelijk vastgelegde boeteregimes 
 
 Het beleid ten aanzien van elk van deze regimes wordt hieronder uiteengezet.
 
-#### Artikel 3. – Beleid regime 1 (boete op basis van een wettelijk basisbedrag)
+##### Artikel 3. – Beleid regime 1 (boete op basis van een wettelijk basisbedrag)
 
 Overtredingen waarvoor wettelijke basisbedragen gelden, heeft de wetgever ingedeeld in drie categorieën. Voor overtredingen van categorie 1 (de laagste) geldt in beginsel een vast bedrag. Voor de categorieën 2 en 3 geldt een flexibele boetesystematiek. Het stappenplan dat hieronder wordt uiteengezet, geldt voor boetes van de categorieën 2 en 3. Bij elke stap wordt aan het einde aangegeven of deze ook geldt voor boetes van categorie 1.
 
@@ -170,7 +195,7 @@ Vastgestelde boetes worden als volgt naar beneden afgerond:
 
 - •. boetes vanaf € 5.000.000 op een veelvoud van € 50.000.
 
-#### Artikel 4. – Beleid regime 2 (voordeelgerelateerde boete)
+##### Artikel 4. – Beleid regime 2 (voordeelgerelateerde boete)
 
 Het opleggen van een voordeelgerelateerde boete, in plaats van een boete vanuit een wettelijk basisbedrag, is in de wet- en regelgeving opgenomen als een keuze.3In enkele gevallen geldt hierbij een wettelijk minimumbedrag aan behaald voordeel. De AFM kiest voor toepassing van dit regime:
 
@@ -188,7 +213,7 @@ De AFM verhoogt het na stap 5 vastgestelde boetebedrag met het bedrag van het do
 
 Indien bovenstaande wijze van verhoging geen passende bestraffing zou toelaten, stelt de AFM de boete vast op ten hoogste het wettelijk vastgestelde maximaal aantal malen het bedrag van het verkregen voordeel.
 
-#### Artikel 5. – Beleid regime 3 (omzetgerelateerde boete)
+##### Artikel 5. – Beleid regime 3 (omzetgerelateerde boete)
 
 In zaken waarin de wet de omzetgerelateerde boete dwingend voorschrijft, geldt het volgende beleid:
 
@@ -235,7 +260,7 @@ Schematisch laat het bovenstaande zich als volgt weergeven:
 
 In zaken waarin de wet de omzetgerelateerde boete als een van de opties geeft, geldt het bovenstaande beleid in beginsel eveneens. De AFM kan er echter dan ook voor kiezen om in plaats van een omzetgerelateerde boete een voordeelgerelateerde boete op te leggen, naar analogie met de uitgangspunten van artikel 4 van dit beleid.
 
-#### Artikel 6. – Slotbepalingen
+##### Artikel 6. – Slotbepalingen
 
 Het boetetoemetingsbeleid van de AFM met bijbehorend matigingsbeleid uit september 2009 (laatstelijk aangepast in maart 2015) wordt ingetrokken.
 

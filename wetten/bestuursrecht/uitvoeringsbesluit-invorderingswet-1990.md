@@ -1,13 +1,37 @@
 ---
-title: "Uitvoeringsbesluit Invorderingswet 1990"
+title: "Besluit van 30 mei 1990, houdende het uitvoeringsbesluit Invorderingswet 1990"
 identifier: "BWBR0004772"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-12
-laatste_update: 2025-12-12
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004772"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-12-12"
+last_updated: "2025-12-12"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004772"
+soort: "AMvB"
+stam_id: "995523"
+version_id: "25556462"
+internal_id: "C36481961"
+label_id: "964834"
+dtd_version: "2.0"
+original_entry_into_force: "2018-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004772/2025-12-12/0"
+intitule_bron: "Stb.1990-223"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-05-30"
+intitule_status: "goed"
+original_publication: "Stb.2018-514"
+original_signed_date: "2018-12-19"
+original_published_date: "2018-12-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2018-514"
+entry_into_force_date: "2018-12-19"
+jci_1_3: "jci1.3:c:BWBR0004772&z=2025-12-12&g=2025-12-12"
+jci_1_0: "1.0:c:BWBR0004772&g=2025-12-12"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringsbesluit Invorderingswet 1990"
+signed_date: "2018-12-19"
+entry_into_force: "2018-12-19"
 ---
-
 # Besluit van 30 mei 1990, houdende het uitvoeringsbesluit Invorderingswet 1990
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 maart 1989, nr. WDB89/106, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Directe Belastingen;
@@ -22,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 #### Algemeen
 
-#### Artikel 1
+##### Artikel 1
 
 1. Dit besluit geeft uitvoering aan de [artikelen 15](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15), [28](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28), [33a](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=33a), [36](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) en [36b van de Invorderingswet 1990](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b).
 
@@ -30,7 +54,7 @@ Hebben goedgevonden en verstaan:
 
 ### Hoofdstuk I. Versnelde tenuitvoerlegging dwangbevel
 
-#### Artikel 2
+##### Artikel 2
 
 [Artikel 15, eerste lid, aanhef en onderdeel e, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=15) vindt toepassing:
 
@@ -42,25 +66,25 @@ Hebben goedgevonden en verstaan:
 
 - 2°. een vermogensbestanddeel van de belastingschuldige aan wie reeds een dwangbevel is betekend, wordt aangetroffen.
 
-#### Artikel 3
+##### Artikel 3
 
 Vervallen
 
-#### Artikel 4
+##### Artikel 4
 
 Vervallen
 
-#### Artikel 5
+##### Artikel 5
 
 Vervallen
 
-#### Artikel 5a
+##### Artikel 5a
 
 Vervallen
 
 ### Hoofdstuk II. Renteberekening
 
-#### Artikel 6
+##### Artikel 6
 
 1. Indien het krachtens [artikel 25, vijfde of achtste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=25) verleende uitstel wordt beëindigd, wordt invorderingsrente berekend met ingang van de dag waarop zes weken zijn verstreken na de eerste dag van het jaar volgend op het jaar waarin zich de handeling of gebeurtenis voordoet op grond waarvan het uitstel wordt beëindigd.
 
@@ -68,7 +92,7 @@ Vervallen
 
 ### Hoofdstuk IIa. Aansprakelijkheid van begunstigden
 
-#### Artikel 7
+##### Artikel 7
 
 1. De mededeling, bedoeld in [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36), wordt gedaan uiterlijk twee weken na de dag waarop de verschuldigde belasting behoorde te zijn afgedragen of voldaan ingevolge [artikel 19 van de Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=19), [artikel 89, tweede of derde lid, van de Wet belastingen op milieugrondslag](https://wetten.overheid.nl/jci1.3:c:BWBR0007168&artikel=89) of [artikel 21 van de Wet op de verbruiksbelasting van alcoholvrije dranken](https://wetten.overheid.nl/jci1.3:c:BWBR0005802&artikel=21).
 
@@ -76,7 +100,7 @@ Vervallen
 
 3. Bij de mededeling wordt inzicht gegeven in de omstandigheden die ertoe hebben geleid dat de verschuldigde belasting niet op aangifte is afgedragen of voldaan of niet is betaald.
 
-#### Artikel 8
+##### Artikel 8
 
 Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7&z=2025-12-12&g=2025-12-12) of [artikel 7a](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=7a&z=2025-12-12&g=2025-12-12), doet, is gehouden aan de ontvanger:
 
@@ -84,7 +108,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 - b. boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de ontvanger - waarvan de raadpleging van belang kan zijn voor de vaststelling van de oorzaak van de betalingsonmacht, of voor de bepaling van de financiële positie van het lichaam, desgevraagd voor dit doel beschikbaar te stellen.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Aan de verplichtingen, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=III&artikel=8&z=2025-12-12&g=2025-12-12), dient binnen een door de ontvanger te stellen redelijke termijn te worden voldaan.
 
@@ -94,7 +118,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 ### Hoofdstuk IIIa. Overgangsbepaling
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit treedt in werking met ingang van 1 juni 1990.
 
@@ -102,7 +126,7 @@ Het lichaam dat de mededeling, bedoeld in [artikel 7](https://wetten.overheid.nl
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. De mededeling bedoeld in [artikel 36b, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36b), in verbinding met [artikel 36, tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=36) wordt gedaan uiterlijk twee weken na de dag waarop ingevolge de in [artikel 49](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=49) bedoelde beschikking de aansprakelijkheidsschuld had moeten zijn voldaan.
 
@@ -116,7 +140,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 ### Hoofdstuk IIa. Aansprakelijkheid van begunstigden
 
-#### Artikel 9a
+##### Artikel 9a
 
 [Artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2025-12-12&g=2025-12-12), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in [artikel 70b van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70b), wordt beëindigd.
 
@@ -124,7 +148,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 6a
+##### Artikel 6a
 
 1. Indien twee of meer van de omstandigheden, bedoeld in het tweede lid, zich voordoen, is in ieder geval aannemelijk dat er sprake is van een verhaalsconstructie als bedoeld in [artikel 33a, derde lid, onderdeel g, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=33a).
 
@@ -148,7 +172,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 6bis
+##### Artikel 6bis
 
 1. Invorderingsrente wordt niet in rekening gebracht gedurende de periode waarin het aanbod van de ontvanger geldt om de invordering ter zake van een voorlopige aanslag in de inkomstenbelasting die betrekking heeft op het tijdvak 2022 aan te houden:
 
@@ -166,7 +190,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 6ter
+##### Artikel 6ter
 
 1. Indien een aanvrager van een kinderopvangtoeslag en diens partner als bedoeld in [artikel 3 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=3) naar het oordeel van de Dienst Toeslagen in aanmerking komt voor toepassing van een herstelmaatregel als bedoeld in [artikel 2.7 van de Wet hersteloperatie toeslagen](https://wetten.overheid.nl/jci1.3:c:BWBR0047436&artikel=2.7) en dientengevolge de invordering is gepauzeerd, wordt invorderingsrente als bedoeld in [artikel 28 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=28) of rente als bedoeld in [artikel 29 van de Algemene wet inkomensafhankelijke regelingen](https://wetten.overheid.nl/jci1.3:c:BWBR0018472&artikel=29) niet in rekening gebracht over de terug te vorderen bedragen van de aanvrager en diens partner die zien op de periode tot en met de dagtekening van de brief van de Dienst Toeslagen over het einde van de pauzering van de invordering.
 
@@ -182,7 +206,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het **Staatsblad** zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.
 
-#### Artikel 9b
+##### Artikel 9b
 
 [Artikel 6, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0004772&hoofdstuk=II&artikel=6&z=2025-12-12&g=2025-12-12), is van overeenkomstige toepassing ingeval zich een handeling of gebeurtenis voordoet op grond waarvan het verleende uitstel, bedoeld in de [artikelen 70g](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70g) of [70h van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0004770&artikel=70h), wordt beëindigd.
 

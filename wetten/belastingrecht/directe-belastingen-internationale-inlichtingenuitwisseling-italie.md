@@ -1,13 +1,38 @@
 ---
 title: "Directe belastingen, internationale inlichtingenuitwisseling; Italië"
 identifier: "BWBR0035522"
-categorie: "Belastingrecht"
-publicatiedatum: 2014-08-22
-laatste_update: 2014-08-22
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035522"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2014-08-22"
+last_updated: "2014-08-22"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035522"
+soort: "beleidsregel"
+stam_id: "12786723"
+version_id: "21708112"
+internal_id: "C31152371"
+label_id: "12756454"
+dtd_version: "2.0"
+original_entry_into_force: "2014-08-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035522/2014-08-22/0"
+intitule_bron: "Stcrt.2014-25235"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-08-21"
+intitule_published: "2014-09-10"
+intitule_in_force: "2014-09-10"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-25235"
+original_signed_date: "2014-08-21"
+original_published_date: "2014-09-10"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-25235"
+entry_into_force_date: "2014-08-22"
+jci_1_3: "jci1.3:c:BWBR0035522&z=2014-08-22&g=2014-08-22"
+jci_1_0: "1.0:c:BWBR0035522&g=2014-08-22"
+citeertitel_status: "redactioneel"
+signed_date: "2014-08-21"
+entry_into_force: "2014-08-22"
 ---
-
 # Directe belastingen, internationale inlichtingenuitwisseling; Italië
 
 De Staatssecretaris van Financiën maakt het volgende bekend.
@@ -36,7 +61,7 @@ De wens van beide Deelnemers de bilaterale samenwerking in belastingzaken te ver
 
 Zijn het volgende Memorandum van Overeenstemming (hierna te noemen: het ‘Memorandum’) overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor de toepassing van dit Memorandum zijn de Bevoegde Autoriteiten:
 
@@ -73,13 +98,13 @@ In Italië:
 | Voor informatieuitwisseling op verzoek, spontaan en automatisch: **Revenue Agency** **Directorate for Tax Assessment** **International Division** **Exchange of Information Office** **Via Cristoforo Colombo 426 C/D** **00145 Rome (Italy)** **dc.acc.coopint@agenziaentrate.it** | Voor informatieuitwisseling op verzoek en spontaan: **Guardia di Finanza Headquarters** **II Department – Analysis and International Relations** **Viale XXI Aprile, 51** **00162 Rome (Italy)** **IIreparto.teletrattamento@gdf.it** |
 | --- | --- |
 
-#### Artikel 2
+##### Artikel 2
 
 Informatie wordt verstrekt op verzoek overeenkomstig artikel 27 van het Verdrag en de Richtlijn. De Bevoegde Autoriteiten verstrekken de informatie op verzoek zo spoedig mogelijk.
 
 De uitgewisselde informatie kan ook informatie bevatten van banken, andere financiële instellingen, gevolmachtigden of personen die optreden als vertegenwoordiger of trustee, of informatie die betrekking heeft op eigendomsbelangen in een persoon.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Op basis van artikel 8 van de Richtlijn en artikel 27 van het Verdrag verstrekken de Deelnemers elkaar automatisch de beschikbare informatie aangaande natuurlijke en rechtspersonen, met betrekking tot:
 
@@ -139,15 +164,15 @@ Betreffende inkomsten:
 
 - c). Vooruitbetaald bedrag ingehouden door de betaalagent (indien van toepassing).
 
-#### Artikel 4
+##### Artikel 4
 
 De Deelnemers kunnen elkaar, zonder dat een voorafgaand verzoek nodig is, van informatie voorzien betreffende natuurlijke personen, rechtspersonen en elke andere groep van personen, die is verkregen bij de reguliere uitvoeringspraktijk.
 
-#### Artikel 5
+##### Artikel 5
 
 De Bevoegde Autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere dan de in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0035522&artikel=3&z=2014-08-22&g=2014-08-22) genoemde categorieën automatisch of spontaan met elkaar uit te wisselen voor een bepaalde periode.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Op basis van artikel 11 van de Richtlijn en artikel 27 van het Verdrag wordt in bijzondere gevallen een verzoek gedaan om belastingambtenaren van de ene Staat aanwezig te laten zijn tijdens een onderzoek op het grondgebied van de andere Staat. Het gaat hierbij met name om:
 
@@ -177,11 +202,11 @@ De Bevoegde Autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 10. De tijdens het onderzoek verzamelde inlichtingen dienen te worden uitgewisseld door de ambtenaren van de bevoegde Italiaanse ‘Agenzia delle Entrate’ en ‘Guardia di Finanza’, en de Central Liaison Office van Nederland en andere bevoegde Nederlandse belastingambtenaren, op basis van de bepalingen betreffende inlichtingenuitwisseling van hoofdstuk II van de Richtlijn en artikel 27 van het Verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 De inlichtingenuitwisseling vindt plaats in het Engels of wordt vergezeld door een Engelse vertaling van de relevante informatie.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De door de Deelnemers ontvangen inlichtingen worden gebruikt en ontsloten volgens de bepalingen van de Richtlijn en het Verdrag, inzake bescherming van de vertrouwelijkheid en de beperkingen bij de inlichtingenuitwisseling. Ingeval de verstrekte informatie onjuist is dan wel niet had mogen worden verstuurd, wordt de desbetreffende Bevoegde Autoriteit daarover terstond geïnformeerd.
 
@@ -189,7 +214,7 @@ De inlichtingenuitwisseling vindt plaats in het Engels of wordt vergezeld door e
 
 3. Indien noodzakelijk plegen de Autoriteiten overleg over de wijze waarop de verplichtingen die dit Memorandum meebrengt, worden uitgevoerd.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Dit Memorandum treedt in werking op de dag volgende op de laatste datum van ondertekening door de Directeur-generaal van het Directoraat Financiën van Italië en de plaatsvervangend Directeur-generaal Belastingdienst van Nederland.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit FemFocus"
+title: "Besluit van de Staatssecretaris van Buitenlandse Zaken van 7 oktober 2025, nr. BZ2519842, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Besluit FemFocus)"
 identifier: "BWBR0051628"
-categorie: "Overig"
-publicatiedatum: 2025-12-13
-laatste_update: 2025-12-13
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051628"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-13"
+last_updated: "2025-12-13"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051628"
+soort: "ministeriele-regeling"
+stam_id: "17555673"
+version_id: "30976802"
+internal_id: "C44363981"
+label_id: "17456854"
+dtd_version: "2.0"
+original_entry_into_force: "2025-10-16"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051628/2025-12-13/0"
+intitule_bron: "Stcrt.2025-34849"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-10-07"
+intitule_published: "2025-10-15"
+intitule_in_force: "2025-10-15"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-34849"
+original_signed_date: "2025-10-07"
+original_published_date: "2025-10-15"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-34849"
+entry_into_force_date: "2025-10-16"
+jci_1_3: "jci1.3:c:BWBR0051628&z=2025-12-13&g=2025-12-13"
+jci_1_0: "1.0:c:BWBR0051628&g=2025-12-13"
+citeertitel_status: "officieel"
+short_title: "Besluit FemFocus"
+signed_date: "2025-10-07"
+entry_into_force: "2025-10-16"
 ---
-
 # Besluit van de Staatssecretaris van Buitenlandse Zaken van 7 oktober 2025, nr. BZ2519842, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Besluit FemFocus)
 
 Gelet op de [artikelen 6](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=6) en [7 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](https://wetten.overheid.nl/jci1.3:c:BWBR0018039&artikel=7);
@@ -16,11 +42,11 @@ Gelet op [artikel 4.2, eerste lid, sub d, e en f](https://wetten.overheid.nl/jci
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Voor subsidieverlening op grond van [artikel 4.2, eerste lid, sub d, e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=4.2), en [artikel 4.3, eerste lid, sub d, e en f, van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](https://wetten.overheid.nl/jci1.3:c:BWBR0019366&artikel=4.3) voor activiteiten ten behoeve van capaciteitsversterking van, dienstverlening door en het voeren van dialoog door maatschappelijke organisaties in of voor lage- en middeninkomenslanden, op de thema’s (i) stimuleren van vrouwelijk ondernemerschap, (ii) tegengaan van geweld tegen vrouwen en steun aan vrouwenrechtenverdedigers en (iii) versterken van de positie van vrouwen in vrede- en veiligheidsprocessen, gelden voor de periode vanaf inwerkingtreding van dit besluit tot en met 31 december 2030 de als bijlage bij dit besluit gevoegde beleidsregels.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Voor het in [artikel 1](https://wetten.overheid.nl/jci1.3:c:BWBR0051628&artikel=1&z=2025-12-13&g=2025-12-13) genoemde tijdvak geldt een subsidieplafond van € 209.370.000, welke middelen als volgt zijn verdeeld over de volgende thema’s:
 
@@ -32,19 +58,19 @@ Voor subsidieverlening op grond van [artikel 4.2, eerste lid, sub d, e en f](htt
 
 2. Meerjarige subsidies kunnen worden verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:34), dat daarvoor in de daarop betrekking hebbende begrotingen voldoende middelen ter beschikking worden gesteld.
 
-#### Artikel 3
+##### Artikel 3
 
 Aanvragen voor een subsidie in het kader van **FemFocus** worden ingediend in de periode 16 oktober 2025 om 12.00 uur CET, tot en met 7 januari 2026 om 23.59 uur CET, aan de hand van het daartoe door de minister vastgestelde aanvraagformulier en voorzien van de op het aanvraagformulier gevraagde bescheiden.1Het aanvraagformulier wordt geplaatst op [www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/documenten/](https://www.rijksoverheid.nl/ministeries/ministerie-van-buitenlandse-zaken/documenten/).
 
-#### Artikel 4
+##### Artikel 4
 
 De verdeling van elk van de subsidieplafonds, bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051628&artikel=2&z=2025-12-13&g=2025-12-13), vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die daaraan het beste voldoen het eerst voor subsidieverlening in aanmerking komen.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt met ingang van 1 januari 2031, met dien verstande dat het van toepassing blijft op subsidies die voor die tijd zijn verleend.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Besluit **FemFocus**.
 

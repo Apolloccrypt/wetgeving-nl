@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd"
+title: "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2024, nr. 2024-0000896682, houdende de vaststelling van een tijdelijke subsidieregeling gericht op het uitvoeren van interventies ter uitbreiding van de arbeidstijd voor wetenschappelijk onderzoek in het kader van het programma Meer uren werkt! (Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd)"
 identifier: "BWBR0050406"
-categorie: "Arbeidsrecht"
-publicatiedatum: 2025-10-01
-laatste_update: 2025-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050406"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-10-01"
+last_updated: "2025-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050406"
+soort: "ministeriele-regeling"
+stam_id: "17268373"
+version_id: "30414352"
+internal_id: "C43617591"
+label_id: "17173914"
+dtd_version: "2.0"
+original_entry_into_force: "2025-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050406/2025-10-01/0"
+intitule_bron: "Stcrt.2024-36894"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-05"
+intitule_published: "2024-11-13"
+intitule_in_force: "2024-11-13"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-36894"
+original_signed_date: "2024-11-05"
+original_published_date: "2024-11-13"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-36894"
+entry_into_force_date: "2025-01-01"
+jci_1_3: "jci1.3:c:BWBR0050406&z=2025-10-01&g=2025-10-01"
+jci_1_0: "1.0:c:BWBR0050406&g=2025-10-01"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd"
+signed_date: "2024-11-05"
+entry_into_force: "2025-01-01"
 ---
-
 # Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 5 november 2024, nr. 2024-0000896682, houdende de vaststelling van een tijdelijke subsidieregeling gericht op het uitvoeren van interventies ter uitbreiding van de arbeidstijd voor wetenschappelijk onderzoek in het kader van het programma Meer uren werkt! (Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd)
 
 Gelet op de [artikelen 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=3) en [5 van de Kaderwet SZW-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0008754&artikel=5);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Definities
+##### Artikel 1.1. Definities
 
 In deze regeling wordt verstaan onder:
 
@@ -76,7 +102,7 @@ In deze regeling wordt verstaan onder:
 
 - **werknemersorganisatie:** een vereniging met volledige rechtsbevoegdheid van werknemers, die krachtens haar statuten de belangenbehartiging van werknemers beoogt.
 
-#### Artikel 1.2. Toepasselijkheid [kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
+##### Artikel 1.2. Toepasselijkheid [kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) en benodigde formulieren
 
 1. Op het aanvragen en verstrekken van subsidies op grond van deze regeling is de [Kaderregeling subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0037603) van toepassing, met uitzondering van de [artikelen 3.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=3.1) en [7.1](https://wetten.overheid.nl/jci1.3:c:BWBR0037603&artikel=7.1).
 
@@ -84,7 +110,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Onderzoeksactiviteiten
 
-#### Artikel 2.1. Doel
+##### Artikel 2.1. Doel
 
 Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden gestimuleerd tot het uitvoeren van activiteiten in het kader van wetenschappelijk onderzoek, in alle sectoren van de arbeidsmarkt en in het bijzonder in de sectoren zorg en welzijn, onderwijs en kinderopvang, gericht op:
 
@@ -94,7 +120,7 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 - c. het bevorderen van een maatschappelijke beweging en kennisontwikkeling gericht op het stimuleren van meer uren werken.
 
-#### Artikel 2.2. Subsidiabele activiteiten
+##### Artikel 2.2. Subsidiabele activiteiten
 
 1. De Minister kan op aanvraag subsidie verstrekken voor de volgende activiteiten die passen bij het doel van deze regeling en bedoeld zijn voor deeltijdwerknemers in de sectoren zorg en welzijn, onderwijs en kinderopvang:
 
@@ -124,7 +150,7 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 7. Per aanvraag geldt, voor de activiteiten, bedoeld in het eerste lid, onderdeel a tot en met e, en het tweede lid, onderdeel a, een minimumaantal deelnemers van 250, waarvan 130 werknemers deelnemen aan de activiteit en 120 deelnemen als controlegroep. Voor de activiteit, bedoeld in het tweede lid, onderdeel b, geldt een minimumaantal deelnemers van 500, waarvan 260 werknemers deelnemen aan de activiteit en 240 deelnemen als controlegroep. Indien het aantal deelnemers hoger ligt dan het minimumaantal, worden de groepen volgens dezelfde verhouding ingedeeld.
 
-#### Artikel 2.3. Subsidiabele kosten
+##### Artikel 2.3. Subsidiabele kosten
 
 1. Voor de subsidie komen de volgende kosten in aanmerking:
 
@@ -178,7 +204,7 @@ Het doel van deze regeling is dat aanvragers of samenwerkingsverbanden worden ge
 
 7. Het zesde lid is niet van toepassing op deelnemende organisaties.
 
-#### Artikel 2.4. Niet-subsidiabele kosten
+##### Artikel 2.4. Niet-subsidiabele kosten
 
 Niet voor subsidie komen in aanmerking:
 
@@ -198,7 +224,7 @@ Niet voor subsidie komen in aanmerking:
 
 - h. externe kosten waarvoor geen factuur en betaalbewijs kan worden overgelegd.
 
-#### Artikel 2.5. Subsidieplafond en hoeveelheid aanvragen
+##### Artikel 2.5. Subsidieplafond en hoeveelheid aanvragen
 
 1. De Minister stelt in het kalenderjaar 2025 in totaal een bedrag beschikbaar van € 6.600.000, waarvan € 1.050.000 beschikbaar is voor ieder van de activiteiten, bedoeld in [artikel 2.2, eerste lid en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2025-10-01&g=2025-10-01), en € 300.000 beschikbaar is voor de activiteit, bedoeld in artikel 2.2, tweede lid, onderdeel b.
 
@@ -212,7 +238,7 @@ Niet voor subsidie komen in aanmerking:
 
 6. In afwijking van het vijfde lid, kan per sector meer dan één aanvraag per activiteit worden toegewezen, indien het beschikbare bedrag, bedoeld in het tweede en derde lid, voor een activiteit niet volledig wordt benut. Het resterende bedrag wordt in die gevallen aangewend voor de eerstvolgende volledige aanvraag voor een activiteit in een andere sector.
 
-#### Artikel 2.6. Aanvraagtijdvak
+##### Artikel 2.6. Aanvraagtijdvak
 
 1. Het eerste aanvraagtijdvak loopt van maandag 13 januari 2025 9:00 uur tot en met vrijdag 14 februari 2025 17:00 uur.
 
@@ -220,7 +246,7 @@ Niet voor subsidie komen in aanmerking:
 
 3. Het derde aanvraagtijdvak loopt van maandag 24 november 2025 9:00 uur tot en met vrijdag 5 december 2025 17:00 uur.
 
-#### Artikel 2.7. Looptijd van de activiteiten en projectperiode
+##### Artikel 2.7. Looptijd van de activiteiten en projectperiode
 
 1. De activiteiten starten uiterlijk drie maanden na de datum van de subsidieverlening, met uitzondering van de activiteiten in de sector onderwijs. Deze starten uiterlijk in de maand februari volgend op de datum van de subsidieverlening.
 
@@ -230,7 +256,7 @@ Niet voor subsidie komen in aanmerking:
 
 4. De activiteiten, bedoeld in [artikel 2.2, eerste lid, onderdeel a, b en d, en tweede lid, onderdeel a](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.2&z=2025-10-01&g=2025-10-01), hebben een looptijd van minimaal 26 weken en maximaal 52 weken, gerekend vanaf de startdatum van de activiteit.
 
-#### Artikel 2.8. Subsidieaanvraag
+##### Artikel 2.8. Subsidieaanvraag
 
 1. De subsidieaanvraag wordt ingediend door middel van een elektronisch aanvraagformulier ondertekend door een daartoe bevoegd functionaris van de aanvrager. Onderdeel van de aanvraag is in ieder geval:
 
@@ -250,13 +276,13 @@ Niet voor subsidie komen in aanmerking:
 
 4. Door het indienen van een aanvraag stemt de aanvrager of het samenwerkingsverband ermee in dat het subsidiedossier, met uitzondering van persoonsgegevens, openbaar kan worden gemaakt.
 
-#### Artikel 2.9. Behandeling subsidieaanvragen
+##### Artikel 2.9. Behandeling subsidieaanvragen
 
 1. De subsidieaanvragen worden behandeld op volgorde van ontvangst, waarbij alleen volledige subsidieaanvragen in behandeling worden genomen.
 
 2. Indien bij overschrijding van het toepasselijke subsidieplafond blijkt dat het tijdstip van ontvangst van de aanvragen op de desbetreffende dag niet is vast te stellen, zal van de op die dag ontvangen aanvragen de volgorde van ontvangst door middel van loting worden vastgesteld.
 
-#### Artikel 2.10. Aanvragers
+##### Artikel 2.10. Aanvragers
 
 1. Werkgeversorganisaties, werknemersorganisaties, O&O-fondsen, brancheorganisaties of het bevoegd gezag van een school kunnen een aanvraag indienen.
 
@@ -270,7 +296,7 @@ Niet voor subsidie komen in aanmerking:
 
 6. Betalingen van subsidie en voorschotten daarop aan de hoofdaanvrager gelden als betalingen aan het samenwerkingsverband.
 
-#### Artikel 2.11. Subsidieverlening
+##### Artikel 2.11. Subsidieverlening
 
 1. De Minister besluit binnen 13 weken na sluiting van het aanvraagtijdvak, bedoeld in [artikel 2.6](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&hoofdstuk=2&artikel=2.6&z=2025-10-01&g=2025-10-01), op de in dat tijdvak ingediende subsidieaanvragen.
 
@@ -282,7 +308,7 @@ Niet voor subsidie komen in aanmerking:
 
 5. Na 16 weken na ontvangst van het eerste voorschot wordt een tweede voorschot van 40% van het subsidiebedrag verleend.
 
-#### Artikel 2.12. Weigeringsgronden
+##### Artikel 2.12. Weigeringsgronden
 
 Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:35) wijst de Minister een aanvraag tot verlening van subsidie geheel of gedeeltelijk af, indien:
 
@@ -298,7 +324,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 - f. dezelfde subsidiabele kosten reeds uit hoofde van deze of een andere regeling worden gefinancierd.
 
-#### Artikel 2.13. Administratievoorschriften
+##### Artikel 2.13. Administratievoorschriften
 
 1. Voor de aanvrager geldt dat deze:
 
@@ -322,7 +348,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 6. De aanvrager verstrekt desgevraagd inzage in of informatie uit de administratie aan de Minister.
 
-#### Artikel 2.14. Subsidievaststelling
+##### Artikel 2.14. Subsidievaststelling
 
 1. De aanvrager dient binnen 22 weken na afloop van de projectperiode door middel van een elektronisch formulier een verzoek tot vaststelling van de subsidie in bij de Minister.
 
@@ -342,7 +368,7 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 7. Indien het subsidiebedrag wordt verlaagd dan wel de subsidieverlening wordt ingetrokken, worden onverschuldigd betaalde voorschotten teruggevorderd.
 
-#### Artikel 2.15. Intrekking en terugvordering
+##### Artikel 2.15. Intrekking en terugvordering
 
 1. Onverminderd [artikel 4:48 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:48) kan de beschikking tot subsidieverlening geheel worden ingetrokken indien:
 
@@ -356,19 +382,19 @@ Onverminderd [artikel 4:35 van de Algemene wet bestuursrecht](https://wetten.ove
 
 ### Hoofdstuk 3. Slotbepalingen
 
-#### Artikel 3.1. Evaluatie
+##### Artikel 3.1. Evaluatie
 
 1. De Minister draagt zorg voor de evaluatie van de doeltreffendheid en doelmatigheid van deze regeling.
 
 2. De aanvrager of het samenwerkingsverband werkt mee aan een door of namens de Minister ingesteld onderzoek dat erop is gericht de Minister inlichtingen te verschaffen die van belang zijn voor de evaluatie van de doeltreffendheid en de doelmatigheid van deze regeling en de ontwikkeling van het beleid van de Minister. De aanvrager verstrekt in dat kader de daartoe benodigde inlichtingen, onderzoeksbestanden, gegevens en bescheiden.
 
-#### Artikel 3.2. Inwerkingtreding en vervaldatum
+##### Artikel 3.2. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van 1 januari 2025.
 
 2. Deze regeling vervalt met ingang van 1 januari 2030, met dien verstande dat de regeling zoals die luidde voorafgaand aan de datum met ingang waarvan deze regeling vervalt van toepassing blijft op de dan lopende afwikkeling van besluiten en ingestelde gerechtelijke procedures op grond van deze regeling.
 
-#### Artikel 3.3. Citeertitel
+##### Artikel 3.3. Citeertitel
 
 Deze regeling wordt aangehaald als: Tijdelijke subsidieregeling onderzoek interventies ter uitbreiding arbeidstijd.
 
@@ -880,7 +906,7 @@ Alles wat Universiteit Utrecht inbrengt in het Deelproject, waaronder maar niet 
 
 Deze regeling zal met de toelichting en de [bijlagen](https://wetten.overheid.nl/jci1.3:c:BWBR0050406&bijlage=I&z=2025-01-01&g=2025-01-01) in de Staatscourant worden geplaatst.
 
-#### Artikel 3.1a. Overgangsbepaling
+##### Artikel 3.1a. Overgangsbepaling
 
 De subsidieregeling, zoals hij luidde op 14 februari 2025, blijft van toepassing op subsidies die zijn verstrekt op basis van het eerste aanvraagtijdvak.
 

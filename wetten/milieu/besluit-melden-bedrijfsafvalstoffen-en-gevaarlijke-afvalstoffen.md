@@ -1,13 +1,39 @@
 ---
-title: "Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
+title: "Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)"
 identifier: "BWBR0017294"
-categorie: "Milieu"
-publicatiedatum: 2025-07-01
-laatste_update: 2025-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0017294"
+country: "nl"
+rank: "amvb"
+publication_date: "2025-07-01"
+last_updated: "2025-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0017294"
+soort: "AMvB"
+stam_id: "6237473"
+version_id: "27220192"
+internal_id: "C42474871"
+label_id: "6226674"
+dtd_version: "2.0"
+original_entry_into_force: "2024-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0017294/2025-07-01/0"
+intitule_bron: "Stb.2004-522"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-10-07"
+intitule_published: "2004-10-26"
+intitule_in_force: "2004-12-30"
+intitule_status: "goed"
+original_publication: "Stb.2020-400"
+original_signed_date: "2020-09-16"
+original_published_date: "2020-10-28"
+original_effect: "structuurwijziging"
+original_url_id: "stb-2020-400"
+entry_into_force_date: "2024-01-01"
+jci_1_3: "jci1.3:c:BWBR0017294&z=2025-07-01&g=2025-07-01"
+jci_1_0: "1.0:c:BWBR0017294&g=2025-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen"
+signed_date: "2020-09-16"
+entry_into_force: "2024-01-01"
 ---
-
 # Besluit van 7 oktober 2004, houdende regels met betrekking tot de afgifte, de ontvangst en het vervoer van bedrijfsafvalstoffen en gevaarlijke afvalstoffen (Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen)
 
 Op de voordracht van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 16 april 2004, nr. MJZ2004039319, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
@@ -22,7 +48,7 @@ Hebben goedgevonden en verstaan:
 
 #### § 1. Begripsbepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -50,7 +76,7 @@ In dit besluit wordt verstaan onder:
 
 #### § 2. De ontvangstmelding
 
-#### Artikel 2
+##### Artikel 2
 
 1. De in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) gestelde verplichting geldt niet:
 
@@ -70,7 +96,7 @@ In dit besluit wordt verstaan onder:
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de wijze van registreren.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Aan [artikel 10.40, eerste lid, aanhef en onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) wordt uitvoering gegeven door het melden van de naam en het adres van degene aan wie met het oog op de desbetreffende afgifte een afvalstroomnummer is verstrekt.
 
@@ -94,13 +120,13 @@ In dit besluit wordt verstaan onder:
 
 7. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de ingevolge [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) en dit besluit te melden gegevens en de wijze waarop de melding wordt gedaan.
 
-#### Artikel 4
+##### Artikel 4
 
 In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, aanhef en onder b of c, voorzover het betreft de gebruikelijke benaming, en d tot en met f, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) en [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01) te melden gegevens reeds aan de meldingsinstantie zijn gemeld en deze gegevens niet zijn gewijzigd, wordt, zolang het voor de ontvangst van de afvalstoffen verstrekte afvalstroomnummer niet is vervallen, aan [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) uitvoering gegeven door het melden van de gegevens over een vervoerder, indien het vervoer van gevaarlijke stoffen betreft, het afvalstroomnummer, het aantal afgiften en de totale hoeveelheid afvalstoffen die met het afvalstroomnummer in de voorafgaande maand in ontvangst zijn genomen.
 
 #### § 3. De afgiftemelding
 
-#### Artikel 5
+##### Artikel 5
 
 1. De in [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) gestelde verplichting geldt niet voor andere dan de ingevolge het tweede lid aangewezen categorieën van gevallen.
 
@@ -108,7 +134,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 3. Bij regeling van Onze Minister kunnen gevallen worden aangewezen die zijn vrijgesteld van de verplichting, bedoeld in het tweede lid.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Aan [artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) in verbinding met het eerste lid, onder a, van dat artikel wordt uitvoering gegeven door het melden van het aantal afgiften dat in de voorafgaande maand heeft plaatsgevonden.
 
@@ -118,7 +144,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 4. [Artikel 3, vijfde en zevende lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 7
+##### Artikel 7
 
 1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon die op grond van [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01), verplicht is om een melding te doen als bedoeld in [artikel 10.40 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) zich van stoffen, mengsels en producten, niet zijnde bedrijfsafvalstoffen of gevaarlijke afvalstoffen, ontdoet door afgifte aan een ander persoon of deze toepast.
 
@@ -128,7 +154,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 #### § 3a. Melding stoffen, mengsels of producten
 
-#### Artikel 8
+##### Artikel 8
 
 1. Degene voor wie de in [artikel 10.40, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.40) gestelde verplichting geldt, verstrekt een afvalstroomnummer:
 
@@ -140,7 +166,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 3. Degene die door een inzameling als bedoeld in het tweede lid bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst neemt en aan wie met toepassing van het tweede lid een afvalstroomnummer is verstrekt, deelt dat afvalstroomnummer mede aan degene die zich van de afvalstoffen ontdoet.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Het afvalstroomnummer bestaat uit:
 
@@ -154,7 +180,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 #### § 5. De verstrekking van een omschrijving van aard, eigenschappen en samenstelling van afvalstoffen
 
-#### Artikel 10
+##### Artikel 10
 
 1. De in [artikel 10.39, eerste lid, onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt niet voor de categorieën van gevallen waarin de afgifte betrekking heeft op afvalstoffen als bedoeld in [artikel 2, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=2&z=2025-07-01&g=2025-07-01), en niet geschiedt aan een persoon die een stortplaats als bedoeld in [bijlage I bij het Besluit activiteiten leefomgeving](https://wetten.overheid.nl/jci1.3:c:BWBR0041330&bijlage=I) exploiteert om die afvalstoffen te laten storten.
 
@@ -200,7 +226,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 #### § 6. De begeleidingsbrief
 
-#### Artikel 11
+##### Artikel 11
 
 1. De in de [artikelen 10.39, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39), en [10.44, eerste en tweede lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.44) gestelde verplichtingen gelden niet voor het vervoer van:
 
@@ -220,7 +246,7 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 2. De in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens [artikel 3, derde lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=2&artikel=3&z=2025-07-01&g=2025-07-01), aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van [artikel 8, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=4&artikel=8&z=2025-07-01&g=2025-07-01), aan hem is verstrekt.
 
-#### Artikel 12
+##### Artikel 12
 
 1. Onverminderd het tweede lid wordt voor de begeleidingsbrief, bedoeld in [artikel 10.39, eerste lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.39) gebruik gemaakt van een bij regeling van Onze Minister vastgesteld formulier dat voor de daarbij aangegeven categorieën van gevallen verschillend kan worden vastgesteld.
 
@@ -230,15 +256,15 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 #### § 7. Slotbepalingen
 
-#### Artikel 13
+##### Artikel 13
 
 Vervallen
 
-#### Artikel 14
+##### Artikel 14
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-#### Artikel 15
+##### Artikel 15
 
 Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
@@ -258,7 +284,7 @@ Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid]
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 10a
+##### Artikel 10a
 
 1. Degene die een omschrijving verstrekt in gevallen als bedoeld in [artikel 10, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10&z=2025-07-01&g=2025-07-01), draagt er zorg voor dat ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen, monsters van de betrokken afvalstoffen worden genomen, die monsters worden geanalyseerd en dat daaromtrent gegevens worden geregistreerd.
 
@@ -294,7 +320,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 #### § 6a. Regels inzake de erkenning van personen of instellingen voor de monsterneming, bedoeld in [artikel 10a, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=5&artikel=10a&z=2014-07-03&g=2014-07-03)
 
-#### Artikel 12a
+##### Artikel 12a
 
 1. In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -310,7 +336,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 2. Deze paragraaf is uitsluitend van toepassing op monsterneming die wordt uitgevoerd ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen.
 
-#### Artikel 12b
+##### Artikel 12b
 
 1. Onze Minister kan op aanvraag een erkenning verlenen aan een persoon of een instelling voor het nemen van monsters van afvalstoffen.
 
@@ -322,7 +348,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 5. Een erkenning is niet overdraagbaar.
 
-#### Artikel 12c
+##### Artikel 12c
 
 1. Een aanvraag voor een erkenning wordt door middel van een bij regeling van Onze Minister vastgesteld formulier, ingediend bij Onze Minister.
 
@@ -338,7 +364,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde gegevens.
 
-#### Artikel 12d
+##### Artikel 12d
 
 1. Onze Minister beslist binnen acht weken na de datum van ontvangst van de aanvraag.
 
@@ -352,7 +378,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 4. Een erkenning kan geheel of gedeeltelijk worden geweigerd indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaar voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens deze paragraaf of [artikel 225 van het Wetboek van Strafrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0001854&artikel=225), voor zover de overtreding verband houdt met het nemen van monsters van afvalstoffen.
 
-#### Artikel 12e
+##### Artikel 12e
 
 1. Op verzoek van de erkende persoon of instelling kan de erkenning worden gewijzigd. [Artikel 12b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12b&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
@@ -360,7 +386,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. [Artikel 12d, tweede en vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12d&z=2025-07-01&g=2025-07-01), is van overeenkomstige toepassing.
 
-#### Artikel 12f
+##### Artikel 12f
 
 1. Met een verklaring omtrent het gedrag als bedoeld in [artikel 12c, tweede lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12c&z=2025-07-01&g=2025-07-01), wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.
 
@@ -368,7 +394,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Met een erkenning wordt gelijkgesteld een erkenning of vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de in [artikel 12c, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12c&z=2025-07-01&g=2025-07-01), gestelde eisen wordt geboden. De [artikelen 12b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12b&z=2025-07-01&g=2025-07-01), en [12l](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12l&z=2025-07-01&g=2025-07-01) zijn van overeenkomstige toepassing.
 
-#### Artikel 12g
+##### Artikel 12g
 
 1. Het is verboden monsters van afvalstoffen te nemen zonder daartoe verleende erkenning.
 
@@ -376,19 +402,19 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Het bepaalde in het eerste en tweede lid geldt niet voor zover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat.
 
-#### Artikel 12h
+##### Artikel 12h
 
 Het is een persoon of instelling verboden een resultaat van een monsterneming van afvalstoffen te gebruiken of aan een ander ter beschikking te stellen indien hij weet of redelijkerwijs had kunnen vermoeden dat dit resultaat, gelet op het doel waarvoor dit wordt gebruikt, geen betrouwbaar beeld verschaft van de eigenschappen, aard, hoedanigheid of samenstelling van de afvalstof.
 
-#### Artikel 12i
+##### Artikel 12i
 
 De houder van een erkenning meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier.
 
-#### Artikel 12j
+##### Artikel 12j
 
 Een certificeringsinstelling meldt een schorsing of intrekking van een certificaat voor de monsterneming onverwijld aan een door Onze Minister aangewezen instantie. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier.
 
-#### Artikel 12k
+##### Artikel 12k
 
 1. Onze Minister kan een erkenning geheel of gedeeltelijk intrekken:
 
@@ -410,7 +436,7 @@ Een certificeringsinstelling meldt een schorsing of intrekking van een certifica
 
 3. In geval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onder e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](https://wetten.overheid.nl/jci1.3:c:BWBR0014194&artikel=28) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning voor een periode van ten hoogste twee jaar geheel of gedeeltelijk schorsen.
 
-#### Artikel 12l
+##### Artikel 12l
 
 Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijst, bedoeld in [artikel 12b, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0017294&paragraaf=6a&artikel=12b&z=2025-07-01&g=2025-07-01).
 
@@ -438,7 +464,7 @@ Categorieën van gevaarlijke afvalstoffen als bedoeld in [artikel 8, tweede lid]
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 5a
+##### Artikel 5a
 
 1. [Artikel 10.38, derde lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.38) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in [artikel 10.37, tweede lid, onder b, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.37) gevaarlijke afvalstoffen op de locatie waar deze zijn ontstaan nuttig toepast of verwijdert.
 
@@ -446,11 +472,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 3. Dit artikel berust op [artikel 9.5.2, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2).
 
-#### Artikel 6a
+##### Artikel 6a
 
 Deze paragraaf berust op [artikel 9.2.2.1, eerste lid, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.2.2.1).
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. Elke leverancier van een voorwerp als bedoeld in artikel 3, onderdeel 33, van de EG-verordening registratie, evaluatie en autorisatie van chemische stoffen, verstrekt de informatie, bedoeld in artikel 33, eerste lid, van deze verordening, aan het Europees Agentschap voor chemische stoffen.
 

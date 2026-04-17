@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018"
+title: "Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 april 2019, nr. 19086190, houdende een correctiekorting op de diergezondheidsheffing voor bepaalde pluimveehouders voor 2018 (Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018)"
 identifier: "BWBR0042134"
-categorie: "Gezondheidszorg"
-publicatiedatum: 2019-04-24
-laatste_update: 2019-04-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042134"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2019-04-24"
+last_updated: "2019-04-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042134"
+soort: "beleidsregel"
+stam_id: "15056173"
+version_id: "25802532"
+internal_id: "C36790681"
+label_id: "15005194"
+dtd_version: "2.0"
+original_entry_into_force: "2019-04-24"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042134/2019-04-24/0"
+intitule_bron: "Stcrt.2019-23008"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-04-13"
+intitule_published: "2019-04-23"
+intitule_in_force: "2019-04-23"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-23008"
+original_signed_date: "2019-04-13"
+original_published_date: "2019-04-23"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-23008"
+entry_into_force_date: "2019-04-24"
+jci_1_3: "jci1.3:c:BWBR0042134&z=2019-04-24&g=2019-04-24"
+jci_1_0: "1.0:c:BWBR0042134&g=2019-04-24"
+citeertitel_status: "officieel"
+short_title: "Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018"
+signed_date: "2019-04-13"
+entry_into_force: "2019-04-24"
 ---
-
 # Beleidsregel van de Minister van Landbouw, Natuur en Voedselkwaliteit van 13 april 2019, nr. 19086190, houdende een correctiekorting op de diergezondheidsheffing voor bepaalde pluimveehouders voor 2018 (Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018)
 
 Gelet op [artikel 93, eerste lid, van de Gezondheids- en welzijnswet voor dieren](https://wetten.overheid.nl/jci1.3:c:BWBR0005662&artikel=93) en [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81),
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -46,7 +72,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - **vleesras:** pluimveeras dat bestemd is voor de productie van vlees.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Op de diergezondheidsheffing die over 2018 is geheven van een pluimveehouder, wordt een bedrag in mindering gebracht als deze aan elk van de volgende voorwaarden voldoet:
 
@@ -108,11 +134,11 @@ In deze beleidsregel wordt verstaan onder:
 
 - h. eenden: € 0,0035 per eend.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 4
+##### Artikel 4
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel correctiekorting diergezondheidsheffing pluimveehouders 2018.
 

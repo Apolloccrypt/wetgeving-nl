@@ -1,13 +1,35 @@
 ---
 title: "Beheersregeling documentaire informatieverzorging NWO"
 identifier: "BWBR0043110"
-categorie: "Sociaal recht"
-publicatiedatum: 2020-01-31
-laatste_update: 2020-01-31
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0043110"
+country: "nl"
+rank: "zbo"
+publication_date: "2020-01-31"
+last_updated: "2020-01-31"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0043110"
+soort: "zbo"
+stam_id: "15326863"
+version_id: "26483422"
+internal_id: "C37603521"
+label_id: "15272604"
+dtd_version: "2.0"
+original_entry_into_force: "2020-01-31"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0043110/2020-01-31/0"
+intitule_bron: "Stcrt.2020-5420"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2020-01-30"
+intitule_in_force: "2020-01-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2020-5420"
+original_published_date: "2020-01-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2020-5420"
+entry_into_force_date: "2020-01-31"
+jci_1_3: "jci1.3:c:BWBR0043110&z=2020-01-31&g=2020-01-31"
+jci_1_0: "1.0:c:BWBR0043110&g=2020-01-31"
+citeertitel_status: "officieel"
+entry_into_force: "2020-01-31"
 ---
-
 # Beheersregeling documentaire informatieverzorging NWO
 
 Gelet op [artikel 14 van het Archiefbesluit 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007748&artikel=14);
@@ -16,7 +38,7 @@ Besluit:
 
 ### Hoofdstuk 1. Begrippenkader
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -116,13 +138,13 @@ In deze regeling en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Hoofdstuk 2. Organisatie en verantwoordelijkheid
 
-#### Artikel 2. Werkingsgebied
+##### Artikel 2. Werkingsgebied
 
 Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd in [artikel 1.6](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=1&artikel=1&z=2020-01-31&g=2020-01-31) van deze regeling.
 
 ### Hoofdstuk 3. Regeling van de verantwoordelijkheden
 
-#### Artikel 3. Verantwoordelijkheden en bevoegdheden
+##### Artikel 3. Verantwoordelijkheden en bevoegdheden
 
 1. de Raad van Bestuur:
 
@@ -168,7 +190,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 ### Hoofdstuk 4. De archiefvorming
 
-#### Artikel 4. Identificatie en registratie van records
+##### Artikel 4. Identificatie en registratie van records
 
 1. Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat de identificatie van records ten minste plaatsvindt op basis van de bedrijfsvoerings- en verantwoordingsbelangen van dat orgaan.
 
@@ -180,7 +202,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 5. De beheerder ziet er op toe dat het ontsluiten van de inhoud van de records zodanig wordt verricht, dat het gebruik van deze gegevens in combinatie met andere informatiebronnen van NWO mogelijk is.
 
-#### Artikel 5. Context en authenticiteit van records
+##### Artikel 5. Context en authenticiteit van records
 
 1. Het hoofd van een archiefvormend orgaan zorgt ervoor dat van elk van de te bewaren records te allen tijde kan worden vastgesteld:
 
@@ -196,7 +218,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 2. De archiefmedewerker koppelt aan records metagegevens volgens het geldende metagegevenschema, aan de hand waarvan te allen tijde de aspecten, bedoeld in het eerste lid, kunnen worden herleid.
 
-#### Artikel 6. Afdoening van records
+##### Artikel 6. Afdoening van records
 
 1. Het hoofd van een archiefvormend orgaan stelt afdoeningstermijnen vast voor de bij dat orgaan voorkomende categorieën van records, een en ander met inachtneming van de normen gesteld in de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537), de behoorlijkheidsvereisten van de Nationale ombudsman, de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252) en de Algemene Verordening Gegevensbescherming.
 
@@ -204,7 +226,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 3. De archiefmedeweker legt de afdoeningstermijn vast en bewaakt en bewaart deze in een registratiesysteem.
 
-#### Artikel 7. Dossiervorming en archiefordening
+##### Artikel 7. Dossiervorming en archiefordening
 
 1. De beheerder ziet erop toe dat de archiefmedewerker alle ingekomen archiefwaardige stukken aangeboden krijgt ter archivering. De archiefmedewerker draagt zorg voor archivering.
 
@@ -224,7 +246,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 - d. gebruik wordt gemaakt van de vastgestelde dossieromschrijvingen.
 
-#### Artikel 8. Toegankelijkheid
+##### Artikel 8. Toegankelijkheid
 
 1. Het archiveringssysteem waarborgt de toegankelijkheid van de records zodanig dat elk van de records binnen een redelijke termijn kan worden gevonden en leesbaar of waarneembaar te maken is.
 
@@ -232,7 +254,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 ### Hoofdstuk 5. Het beheer van records
 
-#### Artikel 9. Materieel beheer
+##### Artikel 9. Materieel beheer
 
 1. Het hoofd van een archiefvormend orgaan treft zodanige voorzieningen ten aanzien van door dat orgaan opgemaakte records, die voor permanente bewaring in aanmerking komen, dat bij het raadplegen van deze records na ten minste 100 jaar geen noemenswaardige achteruitgang zal zijn te constateren.
 
@@ -242,7 +264,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 4. Indien records door de aard van de oorspronkelijk gebruikte materialen of programmatuur niet (langer) voldoen aan het in het eerste en derde lid bepaalde, dan gaat de archiefmedewerker over tot vervanging van de records door reproducties op de wijze als in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=5&artikel=12&z=2020-01-31&g=2020-01-31) van de beheersregeling wordt omschreven of in geval van programmatuur tot conversie, migratie en emulatie volgens [artikel 19](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=6&artikel=19&z=2020-01-31&g=2020-01-31).
 
-#### Artikel 10. Archiefruimten
+##### Artikel 10. Archiefruimten
 
 1. Afgesloten archiefbestanddelen worden opgeslagen in speciaal daarvoor bestemde archiefruimten.
 
@@ -250,13 +272,13 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 3. Archiefruimten waarin permanent te bewaren records berusten in afwachting van hun overbrenging naar de archiefbewaarplaats voldoen aan de normen die zijn opgenomen in [Hoofdstuk 5 van de Archiefregeling 2010](https://wetten.overheid.nl/jci1.3:c:BWBR0027041&hoofdstuk=5).
 
-#### Artikel 11. Selectie
+##### Artikel 11. Selectie
 
 1. De CIO is er verantwoordelijk voor dat ten behoeve van de onder hem ressorterende archiefvormende organen relevante, toepasbare en vastgestelde selectielijsten beschikbaar zijn.
 
 2. Het ontwerpen, onderhouden en vaststellen van een selectielijst vindt plaats volgens [artikel 5 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=5) en het geldende selectiebeleid van NWO.
 
-#### Artikel 12. Vervanging
+##### Artikel 12. Vervanging
 
 1. Vervanging kan alleen plaatsvinden indien de Raad van Bestuur een handboek vervanging heeft vastgesteld.
 
@@ -282,7 +304,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 8. In de in [artikel 8, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=8&z=2020-01-31&g=2020-01-31), van de beheersregeling genoemde inventaris wordt de datum van de vervanging van de betreffende records vermeld.
 
-#### Artikel 13. Organisatiewijzigingen
+##### Artikel 13. Organisatiewijzigingen
 
 1. Bij een organisatiewijziging, zoals reorganisatie, opheffing of privatisering, waarbij overheidsorganen worden samengevoegd, gesplitst, ingesteld of opgeheven, dan wel waarbij een of meerdere taken worden overgedragen aan een ander overheidsorgaan, neemt de CIO, in overleg met de betrokken beheerder(s), een voorziening op in de regeling tot wijziging van de organisatie voor het desbetreffende archief(onderdeel) conform [artikel 4 van de Archiefwet 1995](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=4)
 
@@ -292,7 +314,7 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 4. Bij de instelling van tijdelijke organisatieonderdelen, zoals commissies en projecten, wordt, in overleg met de beheerder, in de regeling van de instelling een voorziening opgenomen voor het archiefbeheer.
 
-#### Artikel 14. Uitbesteding
+##### Artikel 14. Uitbesteding
 
 1. Een regeling waarbij taken en bevoegdheden namens de Raad van Bestuur worden uitgevoerd door derden, bevat een voorziening omtrent het archiefbeheer bij deze taken, overeenkomstig het gestelde in de beheersregeling.
 
@@ -300,17 +322,17 @@ Deze regeling is van toepassing op de organisatieonderdelen van NWO als genoemd 
 
 3. Bij de uitbesteding van diensten en werken legt de opdrachtgever de verplichting op aan de opdrachtnemer om een verwerkersovereenkomst te ondertekenen.
 
-#### Artikel 15. Kwaliteitszorg
+##### Artikel 15. Kwaliteitszorg
 
 Het hoofd van een archiefvormend orgaan zorgt ervoor dat het beheer van zijn records voldoet aan de eisen, gebaseerd op het geldende kwaliteitssysteem voor archiveren van NWO.
 
 ### Hoofdstuk 6. Het beheer van digitale records
 
-#### Artikel 16. Beheer
+##### Artikel 16. Beheer
 
 De [artikelen 17 tot en met 21](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=6&artikel=17&z=2020-01-31&g=2020-01-31) van de beheersregeling bevatten bepalingen die uitsluitend gelden voor digitale records. De overige artikelen van de beheersregeling hebben betrekking op álle records, ongeacht hun vorm.
 
-#### Artikel 17. Metagegevens
+##### Artikel 17. Metagegevens
 
 Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digitale records, naast de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=4&z=2020-01-31&g=2020-01-31) en [5](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=5&z=2020-01-31&g=2020-01-31) genoemde registratiekenmerken ten minste de volgende kenmerken worden vastgelegd en bewaard:
 
@@ -336,13 +358,13 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 - c. het hoofd van het archiefvormend orgaan is verantwoordelijk voor de juiste uitvoering.
 
-#### Artikel 18. Duurzaamheid
+##### Artikel 18. Duurzaamheid
 
 1. de beheerder draagt zorg voor zodanige passende maatregelen, dat de risico’s van verlies van toegankelijkheid, betrouwbaarheid en authenticiteit van de digitale records voor de geldende bewaartermijn worden beperkt;
 
 2. het hoofd van het archiefvormend orgaan is verantwoordelijk voor de juiste uitvoering.
 
-#### Artikel 19. Conversie, migratie of emulatie
+##### Artikel 19. Conversie, migratie of emulatie
 
 1. Indien gerede kans bestaat dat als gevolg van wijziging of in onbruik raken van besturingsprogrammatuur of toepassingsprogrammatuur niet langer voldaan kan worden aan de gestelde eisen ten aanzien van de toegankelijkheid en geordende staat van digitale records, gaat het hoofd van een archiefvormend orgaan over tot conversie of migratie van de digitale records, dan wel dat die digitale records door toepassing van emulatie kunnen worden gebruikt of geraadpleegd overeenkomstig de wijze ten tijde van het ontvangen of opmaken ervan door het overheidsorgaan.
 
@@ -350,7 +372,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 3. Van de conversie of migratie wordt een door het hoofd van een archiefvormend orgaan ondertekende verklaring opgemaakt, die ten minste een specificatie van de geconverteerde of gemigreerde records bevat, alsmede aangeeft op welke wijze en met welk resultaat getoetst is of na de conversie of migratie, aan de eisen ten aanzien van de goede, geordende en toegankelijke staat wordt voldaan.
 
-#### Artikel 20. Opslagformaten
+##### Artikel 20. Opslagformaten
 
 1. Digitale records worden, uiterlijk op het tijdstip van overbrenging, opgeslagen in een valideerbaar en volledig gedocumenteerd bestandsformaat dat voldoet aan een open standaard, tenzij dit redelijkerwijs niet kan worden verlangd. Als dan vindt met de beheerder van de archiefruimte overleg plaats over een alternatief bestandsformaat.
 
@@ -360,7 +382,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 ### Hoofdstuk 7. De verwijdering en verplaatsing van records
 
-#### Artikel 21. Vernietiging
+##### Artikel 21. Vernietiging
 
 1. Records worden uitsluitend vernietigd op grond van een vastgestelde selectielijst, op grond van noodvernietiging of, met inachtneming van de voorschriften uit [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=5&artikel=12&z=2020-01-31&g=2020-01-31) van de beheersregeling, na vervanging van de betreffende records door reproducties.
 
@@ -370,7 +392,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 4. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=7&z=2020-01-31&g=2020-01-31), van de beheersregeling genoemde overzicht wordt vermeld op welke datum de betreffende records vernietigd zijn.
 
-#### Artikel 22. Overbrenging
+##### Artikel 22. Overbrenging
 
 1. Het hoofd van een archiefvormend orgaan draagt er verantwoordelijkheid voor dat de voor permanente bewaring in aanmerking komende records na afsluiting, binnen de wettelijke termijn ([Archiefwet artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0007376&artikel=12)) in goede, geordende en toegankelijke staat, worden overgebracht naar een archiefbewaarplaats.
 
@@ -384,7 +406,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 6. De overbrenging wordt vastgelegd in een door het hoofd van een archiefvormend orgaan ondertekende verklaring die ten minste bevat een specificatie van de records en de eventuele beperkingen aan de openbaarheid. Een exemplaar van de verklaring wordt gearchiveerd.
 
-#### Artikel 23. Vervreemding
+##### Artikel 23. Vervreemding
 
 1. Het hoofd van een archiefvormend orgaan kan records die niet naar een archiefbewaarplaats zijn overgebracht in overleg met de beheerder vervreemden.
 
@@ -394,7 +416,7 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 4. Van de vervreemding wordt een verklaring opgemaakt die een specificatie bevat van de vervreemde records, alsmede aangeeft op grond waarvan en op welke wijze en wanneer vervreemding is geschied. Een exemplaar van de verklaring wordt gearchiveerd door het hoofd van een archiefvormend orgaan waaronder de records zouden berusten indien zij niet waren vervreemd.
 
-#### Artikel 24. Overdracht
+##### Artikel 24. Overdracht
 
 1. Van een overdracht van records wordt een verklaring opgemaakt die een specificatie van de overgedragen records bevat onder vermelding van de reden tot overdracht. Deze verklaring wordt ondertekend door de hoofden van de archiefvormende organen die betrokken zijn bij de overdracht en gearchiveerd.
 
@@ -402,13 +424,13 @@ Het hoofd van een archiefvormend orgaan is er verantwoordelijk voor dat van digi
 
 3. In het in [artikel 7, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0043110&hoofdstuk=4&artikel=7&z=2020-01-31&g=2020-01-31), van de beheersregeling genoemde overzicht wordt vermeld op welke datum en aan welk organisatieonderdeel de records zijn overgedragen.
 
-#### Artikel 25. Verhuizingen
+##### Artikel 25. Verhuizingen
 
 Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd van een archiefvormend orgaan een procedure op voor de verhuizing van de betreffende archief(onderdelen), zodanig dat de documentaire informatieverzorging aansluitend op de verhuizing kan worden voortgezet.
 
 ### Hoofdstuk 8. Het toezicht en de beveiliging
 
-#### Artikel 26. Toezicht
+##### Artikel 26. Toezicht
 
 1. De directeur Bedrijfsvoering oefent toezicht uit op de naleving van de geldende regelingen op het gebied van de documentaire informatieverzorging.
 
@@ -416,7 +438,7 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 3. De beheerder verstrekt desgewenst volledige en juiste informatie met betrekking tot de staat van de records en omtrent de wijze waarop aan de zorg voor deze records vorm wordt gegeven en verleent toegang tot de ruimten en systemen waarin zich records bevinden, ten behoeve van archiefonderzoek door de directeur Bedrijfsvoering of door de Inspectie Overheidsinformatie en Erfgoed.
 
-#### Artikel 27. Beveiliging van informatie en bescherming persoonsgegevens
+##### Artikel 27. Beveiliging van informatie en bescherming persoonsgegevens
 
 1. De Chief Information Security Officer (CISO) ziet er op toe dat voor de beveiliging van records en voor de bescherming van daarin opgenomen persoonsgegevens een passend beveiligingsniveau in acht wordt genomen. Deze beveiliging is gebaseerd op de van toepassing zijnde wet- en regelgeving en het departementale beveiligingsbeleid.
 
@@ -428,13 +450,13 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 ### Hoofdstuk 9. De informatieverstrekking
 
-#### Artikel 28. Interne beschikbaarstelling van records
+##### Artikel 28. Interne beschikbaarstelling van records
 
 1. De archiefbeheerder stelt de daartoe bevoegde medewerker in staat om digitale records te raadplegen of leent desgewenst de dossiers voor een bepaalde tijd uit.
 
 2. De beheerder houdt een (geautomatiseerde) administratie bij van de in het tweede lid, bedoelde uitleningen en ziet erop toe dat uitgeleende dossiers tijdig en in oorspronkelijke staat worden terugbezorgd.
 
-#### Artikel 29. Informatieverstrekking aan derden
+##### Artikel 29. Informatieverstrekking aan derden
 
 1. Informatieverstrekking uit eigen beweging door NWO geschiedt met inachtneming van het beleid met betrekking tot openbaarheid en de bepalingen van de geldende wet- en regelgeving, waaronder de [Wet openbaarheid van bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0005252), de Algemene Verordening Gegevensbescherming, en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537).
 
@@ -450,15 +472,15 @@ Indien een archiefvormend orgaan of een deel daarvan verhuist, stelt het hoofd v
 
 ### Hoofdstuk 10. Slotbepalingen
 
-#### Artikel 30. Interne verspreiding
+##### Artikel 30. Interne verspreiding
 
 Deze regeling zal worden toegezonden aan alle hoofden van de organisatieonderdelen en zal worden bekend gemaakt aan de Inspectie Overheidsinformatie en Erfgoed.
 
-#### Artikel 31. Inwerkingtreding
+##### Artikel 31. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van de eerste dag na dagtekening van de Staatscourant waarin deze wordt geplaatst.
 
-#### Artikel 32. Citeertitel
+##### Artikel 32. Citeertitel
 
 Deze regeling wordt aangehaald als: Beheersregeling documentaire informatieverzorging NWO.
 

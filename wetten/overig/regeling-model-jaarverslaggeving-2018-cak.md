@@ -1,13 +1,38 @@
 ---
 title: "Regeling Model Jaarverslaggeving 2018 CAK"
 identifier: "BWBR0042043"
-categorie: "Overig"
-publicatiedatum: 2019-03-26
-laatste_update: 2019-03-26
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0042043"
+country: "nl"
+rank: "zbo"
+publication_date: "2019-03-26"
+last_updated: "2019-03-26"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0042043"
+soort: "zbo"
+stam_id: "15036713"
+version_id: "25762612"
+internal_id: "C36738211"
+label_id: "14986994"
+dtd_version: "2.0"
+original_entry_into_force: "2019-03-26"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0042043/2019-03-26/0"
+intitule_bron: "Stcrt.2019-14737"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2019-02-19"
+intitule_published: "2019-03-25"
+intitule_in_force: "2019-03-25"
+intitule_status: "goed"
+original_publication: "Stcrt.2019-14737"
+original_signed_date: "2019-02-19"
+original_published_date: "2019-03-25"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2019-14737"
+entry_into_force_date: "2019-03-26"
+jci_1_3: "jci1.3:c:BWBR0042043&z=2019-03-26&g=2019-03-26"
+jci_1_0: "1.0:c:BWBR0042043&g=2019-03-26"
+citeertitel_status: "redactioneel"
+signed_date: "2019-02-19"
+entry_into_force: "2019-03-26"
 ---
-
 # Regeling Model Jaarverslaggeving 2018 CAK
 
 ### 1. Algemeen

@@ -1,13 +1,39 @@
 ---
-title: "Regeling inrichtingen en activiteiten BES"
+title: "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2023, nr IENW/BSK-2023/363174, houdende vaststelling algemene regels voor inrichtingen en activiteiten (Regeling inrichtingen- en activiteiten BES)"
 identifier: "BWBR0049285"
-categorie: "Overig"
-publicatiedatum: 2024-04-01
-laatste_update: 2024-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0049285"
+country: "nl"
+rank: "ministeriele_regeling_bes"
+publication_date: "2024-04-01"
+last_updated: "2024-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0049285"
+soort: "ministeriele-regeling-BES"
+stam_id: "17012683"
+version_id: "29925832"
+internal_id: "C42892591"
+label_id: "16923544"
+dtd_version: "2.0"
+original_entry_into_force: "2024-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0049285/2024-04-01/0"
+intitule_bron: "Stcrt.2023-35121"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2023-12-15"
+intitule_published: "2023-12-21"
+intitule_in_force: "2023-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-35121"
+original_signed_date: "2023-12-15"
+original_published_date: "2023-12-21"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-35121"
+entry_into_force_date: "2024-04-01"
+jci_1_3: "jci1.3:c:BWBR0049285&z=2024-04-01&g=2024-04-01"
+jci_1_0: "1.0:c:BWBR0049285&g=2024-04-01"
+citeertitel_status: "officieel"
+short_title: "Regeling inrichtingen en activiteiten BES"
+signed_date: "2023-12-15"
+entry_into_force: "2024-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 15 december 2023, nr IENW/BSK-2023/363174, houdende vaststelling algemene regels voor inrichtingen en activiteiten (Regeling inrichtingen- en activiteiten BES)
 
 Gelet op [artikel 2.1, eerste en tweede lid, van het Inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&artikel=2.1);
@@ -18,7 +44,7 @@ Treedt in werking op het tijdstip waarop het Inrichtingen- en activiteitenbeslui
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1.1. Begripsbepalingen
+##### Artikel 1.1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -118,7 +144,7 @@ In deze regeling wordt verstaan onder:
 
 - **zuiveringsvoorziening:** werk voor het zuiveren van afvalwater dat geen zuiveringstechnisch werk is.
 
-#### Artikel 1.2. Normadressaat
+##### Artikel 1.2. Normadressaat
 
 Aan de [hoofdstukken 2 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&z=2024-04-01&g=2024-04-01) wordt voldaan door degene die een inrichting type I of type II opricht, in werking heeft, verandert of de werking daarvan verandert of de inrichting beëindigt.
 
@@ -126,7 +152,7 @@ Aan de [hoofdstukken 2 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 ### Afdeling 2.1. Kwaliteitscriteria afvalstoffen
 
-#### Artikel 2.1.1. Omgaan met afvalstoffen
+##### Artikel 2.1.1. Omgaan met afvalstoffen
 
 1. Ten behoeve van een doelmatig beheer van afvalstoffen worden, onverminderd [Hoofdstuk 4 van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0031218&hoofdstuk=4), in ieder geval geen:
 
@@ -154,17 +180,17 @@ Aan de [hoofdstukken 2 tot en met 3](https://wetten.overheid.nl/jci1.3:c:BWBR004
 
 3. Afvalstoffen worden zo vaak als nodig uit de inrichting afgevoerd naar of ingezameld door een door het bestuurscollege aangewezen inzamelaar.
 
-#### Artikel 2.1.2. Autowrakken
+##### Artikel 2.1.2. Autowrakken
 
 In een inrichting, niet zijnde een inrichting voor onderhoud en reparatie van motorrijtuigen als bedoeld in [bijlage 1, hoofdstuk 2, onderdeel 10, bij het besluit](https://wetten.overheid.nl/jci1.3:c:BWBR0049276&bijlage=1), is geen autowrak aanwezig.
 
-#### Artikel 2.1.3. Verwijderd asbest
+##### Artikel 2.1.3. Verwijderd asbest
 
 Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bodem of sloopschepen, wordt aangeboden aan een door het bestuurscollege aangewezen inzameldienst.
 
 ### Afdeling 2.2. Kwaliteitscriteria afvalwater
 
-#### Artikel 2.2.1. Lozingsroute
+##### Artikel 2.2.1. Lozingsroute
 
 1. Ter bescherming van het aquatisch milieu wordt ongezuiverd afvalwater niet geloosd op een oppervlaktewaterlichaam of op of in de bodem.
 
@@ -182,7 +208,7 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 6. Bedrijfsafvalwater dat niet kan worden gezuiverd en niet kan worden verwerkt door een zuiveringstechnisch werk, wordt niet geloosd op het openbaar afvalwaterstelsel en wordt afgevoerd per as.
 
-#### Artikel 2.2.2. Bescherming van de werking van het openbare afvalwaterstelsel en zuiveringsvoorzieningen
+##### Artikel 2.2.2. Bescherming van de werking van het openbare afvalwaterstelsel en zuiveringsvoorzieningen
 
 1. Voor een goede doorstroming en het behoud van de kwaliteit van het openbaar afvalwaterstelsel bevat het afvalwater dat hierin geloosd wordt in enig steekmonster niet meer dan 300 mg/l onopgeloste stoffen.
 
@@ -190,7 +216,7 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 3. Voor een goede doorstroming en het behoud van de kwaliteit van het openbaar afvalwaterstelsel en voor de goede werking van een zuiveringsvoorziening wordt vethoudend afvalwater dat wordt geloosd in het openbaar afvalwaterstelsel of op een zuiveringsvoorziening voor vermenging met ander afvalwater, geleid door een goed gedimensioneerde en goed onderhouden vetafscheider en slibvangput.
 
-#### Artikel 2.2.3. Lozen van afvalwater van een bodembeschermende voorziening
+##### Artikel 2.2.3. Lozen van afvalwater van een bodembeschermende voorziening
 
 1. Het afvalwater afkomstig van een bodembeschermende voorziening wordt geloosd op het openbaar afvalwaterstelsel of op een zuiveringsvoorziening.
 
@@ -200,7 +226,7 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 ### Afdeling 2.3. Kwaliteitscriteria bodem
 
-#### Artikel 2.3.1. Preventieve bodembescherming algemeen
+##### Artikel 2.3.1. Preventieve bodembescherming algemeen
 
 1. Ter voorkoming of beperking van bodemverontreiniging worden bodembedreigende stoffen:
 
@@ -220,7 +246,7 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 5. Alle tankinstallaties, leidingsystemen en appendages zijn vloeistofdicht.
 
-#### Artikel 2.3.2. Bodembescherming ondergrondse tanks
+##### Artikel 2.3.2. Bodembescherming ondergrondse tanks
 
 1. De bovengrondse delen van installaties worden tenminste eenmaal per jaar visueel geïnspecteerd op in elk geval lekkages en indien nodig onderhouden.
 
@@ -228,23 +254,23 @@ Verwijderd asbest of een verwijderd asbesthoudend product, niet zijnde grond, bo
 
 3. De resultaten van de inspectie worden bewaard totdat de resultaten van de eerstvolgende inspectie beschikbaar zijn, maar tenminste voor vijf jaar.
 
-#### Artikel 2.3.3. Preventie bodemerosie
+##### Artikel 2.3.3. Preventie bodemerosie
 
 Handelingen aan, op of in de bodem die erosie bevorderen, worden vermeden.
 
 ### Afdeling 2.4. Kwaliteitscriteria licht
 
-#### Artikel 2.4.1. Voorkomen en beperken van lichthinder
+##### Artikel 2.4.1. Voorkomen en beperken van lichthinder
 
 Ter bescherming en bevordering van de duisternis en het donkere landschap wordt ter voorkoming van lichthinder het gebruik van lichtbronnen tot een aanvaardbaar niveau beperkt.
 
 ### Afdeling 2.5. Kwaliteitscriteria geluid
 
-#### Artikel 2.5.1. Voorkomen en beperken geluidhinder
+##### Artikel 2.5.1. Voorkomen en beperken geluidhinder
 
 Ter voorkoming en beperking van geluidhinder worden luide werkzaamheden zoveel mogelijk binnen een gebouw van de inrichting uitgevoerd, waarbij de deuren en ramen zo mogelijk gesloten blijven.
 
-#### Artikel 2.5.2. Grenswaarden geluid
+##### Artikel 2.5.2. Grenswaarden geluid
 
 Ter verkoming van geluidhinder worden de onderstaande grenswaarden niet overschreden:
 
@@ -258,19 +284,19 @@ Ter verkoming van geluidhinder worden de onderstaande grenswaarden niet overschr
 
 ### Afdeling 2.6. Kwaliteitscriteria geur
 
-#### Artikel 2.6.1. Voorkomen en beperken geurhinder
+##### Artikel 2.6.1. Voorkomen en beperken geurhinder
 
 Geurhinder bij kwetsbare objecten wordt voorkomen en voor zover dat niet mogelijk is tot een aanvaardbaar niveau beperkt.
 
 ### Afdeling 2.7. Kwaliteitscriteria trilling
 
-#### Artikel 2.7.1. Preventie trillinghinder
+##### Artikel 2.7.1. Preventie trillinghinder
 
 Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van doeltreffende dempers.
 
 ### Afdeling 2.8. Kwaliteitscriteria energiegebruik
 
-#### Artikel 2.8.1. Energiebesparende maatregelen
+##### Artikel 2.8.1. Energiebesparende maatregelen
 
 1. De drijver van een inrichting neemt alle energiebesparende maatregelen met een terugverdientijd van vijf jaar of minder.
 
@@ -278,7 +304,7 @@ Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van do
 
 ### Afdeling 2.9. Kwaliteitscriteria externe veiligheid
 
-#### Artikel 2.9.1. Verpakking gevaarlijke stoffen
+##### Artikel 2.9.1. Verpakking gevaarlijke stoffen
 
 1. Op de verpakking van gevaarlijke stoffen worden de onderstaande opschriften vermeld:
 
@@ -294,7 +320,7 @@ Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van do
 
 - c. met die gevaarlijke afvalstoffen een verbinding kan vormen.
 
-#### Artikel 2.9.2. Opslag van gevaarlijke stoffen in verpakking
+##### Artikel 2.9.2. Opslag van gevaarlijke stoffen in verpakking
 
 1. Verpakte gevaarlijke stoffen en CMR-stoffen, niet zijnde asbest of vuurwerk, worden opgeslagen in een daarvoor bestemde opslagvoorziening die is uitgevoerd als brandcompartiment met een oppervlakte van maximaal 1.000 m2 en die voorzien is van een bodembeschermende voorziening.
 
@@ -304,7 +330,7 @@ Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van do
 
 - b. 10 000 kg verpakte gevaarlijke stoffen van klasse 8, verpakkingsgroep II of III, zonder bijkomend gevaar.
 
-#### Artikel 2.9.3. Verladen van gevaarlijke stoffen
+##### Artikel 2.9.3. Verladen van gevaarlijke stoffen
 
 1. Bij het verladen van een tankwagen of andere vervoerseenheid met gevaarlijke stoffen binnen de inrichting wordt het ADR in acht genomen.
 
@@ -314,11 +340,11 @@ Ten behoeve van het beperken van trillinghinder wordt apparatuur voorzien van do
 
 - b. die wordt gehanteerd bij het verladen van een opslagtank vanuit een tankwagen of een andere vervoerseenheid.
 
-#### Artikel 2.9.4. Brandvrij houden van de omgeving van een opslagvoorziening
+##### Artikel 2.9.4. Brandvrij houden van de omgeving van een opslagvoorziening
 
 Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter afstand van deze voorziening zorgvuldig vrijgehouden van begroeiing en brandbare stoffen, zoals textiel, papier en hout.
 
-#### Artikel 2.9.5. Gebruik van gasflessen
+##### Artikel 2.9.5. Gebruik van gasflessen
 
 1. Gasflessen hebben de volgende opschriften die duidelijk leesbaar en duurzaam zijn, door inslagen of etiketten:
 
@@ -346,7 +372,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 - d. maximale vulmassa en de eigen massa van de houder met uitrustingsdelen of de bruto massa, in kilogram.
 
-#### Artikel 2.9.6. Opslag van gasflessen
+##### Artikel 2.9.6. Opslag van gasflessen
 
 1. Gasflessen, waarvan de gezamenlijke waterinhoud meer bedraagt dan 125 liter worden opgeslagen in een daarvoor bestemde opslagvoorziening die voldoet aan de eisen opgenomen in [artikel 2.9.2](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.9&artikel=2.9.2&z=2024-04-01&g=2024-04-01).
 
@@ -354,13 +380,13 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 ### Afdeling 2.10. Kwaliteitscriteria brandveiligheid
 
-#### Artikel 2.10.1. Blusmiddelen
+##### Artikel 2.10.1. Blusmiddelen
 
 1. In de inrichting zijn voldoende draagbare brandblusmiddelen aanwezig om een beginnende brand te kunnen bestrijden of te onderdrukken.
 
 2. Brandblusmiddelen zijn voor iedereen duidelijk zichtbaar en gemakkelijk bereikbaar.
 
-#### Artikel 2.10.2. Onderhoud en inspectie
+##### Artikel 2.10.2. Onderhoud en inspectie
 
 1. Ieder kalenderjaar worden brandblusmiddelen en slanghaspels op deugdelijkheid gecontroleerd en voorzien van een geldige keuring.
 
@@ -372,7 +398,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 ### Afdeling 2.11. Kwaliteitscriteria lucht
 
-#### Artikel 2.11.1. Stofemissies
+##### Artikel 2.11.1. Stofemissies
 
 1. Ten behoeve van een beperking van emissies naar de lucht worden bij opslag, overslag, intern transport, breken of sorteren van puin, stenen, glas en bouw- en sloopafval, de fabricage van beton en betonproducten, maatregelen of voorzieningen getroffen waardoor:
 
@@ -392,7 +418,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 ### Afdeling 2.12. Kwaliteitscriteria zuinig gebruik grondstoffen
 
-#### Artikel 2.12.1. Beperken gebruik van grondstoffen
+##### Artikel 2.12.1. Beperken gebruik van grondstoffen
 
 1. Het gebruik van grondstoffen wordt zoveel mogelijk beperkt.
 
@@ -402,7 +428,7 @@ Een opslagvoorziening met gevaarlijke stoffen wordt tot op ten minste 3 meter af
 
 #### § 2.13.1. Koelinstallaties
 
-#### Artikel 2.13.1. Toepassingsbereik
+##### Artikel 2.13.1. Toepassingsbereik
 
 Deze paragraaf is van toepassing op een koelinstallatie met een inhoud van tenminste:
 
@@ -414,7 +440,7 @@ Deze paragraaf is van toepassing op een koelinstallatie met een inhoud van tenmi
 
 - d. 10 kilogram en ten hoogste 1.500 kilogram ammoniak.
 
-#### Artikel 2.13.2. Onderhoud en inspectie koelinstallaties
+##### Artikel 2.13.2. Onderhoud en inspectie koelinstallaties
 
 1. Koelinstallaties worden ten minste eenmaal per kalenderjaar geïnspecteerd op veilig functioneren en op lekkages door een hiervoor deskundig geacht bedrijf.
 
@@ -434,7 +460,7 @@ Deze paragraaf is van toepassing op een koelinstallatie met een inhoud van tenmi
 
 - c. de hoeveelheid in kilogrammen en het type koudemiddel dat is teruggewonnen en verwijderd.
 
-#### Artikel 2.13.3. Lekkage en het voorkomen van emissies
+##### Artikel 2.13.3. Lekkage en het voorkomen van emissies
 
 1. De drijver van de inrichting treft alle noodzakelijke voorzorgsmaatregelen om lekkages of emissies naar de lucht te voorkomen of tot een minimum te beperken.
 
@@ -444,15 +470,15 @@ Deze paragraaf is van toepassing op een koelinstallatie met een inhoud van tenmi
 
 #### § 2.13.2. Stookinstallaties
 
-#### Artikel 2.13.4. Toepassingsbereik
+##### Artikel 2.13.4. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het in werking hebben van een kleine standaard stookinstallatie met een nominaal thermisch ingangsvermogen kleiner dan 1 MWth gestookt op standaardbrandstoffen.
 
-#### Artikel 2.13.5. Opstarten en stilleggen
+##### Artikel 2.13.5. Opstarten en stilleggen
 
 Ten behoeve van een beperking van emissies in de lucht wordt de periode van het opstarten of stilleggen van een stookinstallatie zo kort mogelijk gehouden.
 
-#### Artikel 2.13.6. Emissiegrenswaarden kleine stookinstallaties
+##### Artikel 2.13.6. Emissiegrenswaarden kleine stookinstallaties
 
 Het rookgas van een stookinstallatie met een nominaal thermisch ingangsvermogen kleiner dan 1 MWth voldoet aan de volgende emissiegrenswaarden:
 
@@ -465,7 +491,7 @@ Het rookgas van een stookinstallatie met een nominaal thermisch ingangsvermogen 
 | Brandstof in gasvorm | Verbrandings-motor | 115 | – | – |
 | Brandstof in gasvorm | Gasturbine | 50 | 15 | – |
 
-#### Artikel 2.13.7. Vrijstelling emissiegrenswaarden
+##### Artikel 2.13.7. Vrijstelling emissiegrenswaarden
 
 De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.2&artikel=2.13.6&z=2024-04-01&g=2024-04-01), gelden niet voor:
 
@@ -473,7 +499,7 @@ De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/j
 
 - b. een stookinstallatie waar de gasvormige producten van het stookproces worden gebruikt voor het direct verwarmen, drogen of anderzijds behandelen van voorwerpen of materialen.
 
-#### Artikel 2.13.8. Berekening emissiegrenswaarden
+##### Artikel 2.13.8. Berekening emissiegrenswaarden
 
 1. Voor de berekening van de uitworp van rookgas door een stookinstallatie wordt de massaconcentratie van stikstofoxiden (NOx), zwaveldioxide (SO2) en totaal stof in het rookgas herleid op rookgas met een volumegehalte aan zuurstof van:
 
@@ -483,7 +509,7 @@ De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/j
 
 2. Voor de berekening van de uitworp van rookgas door een stookinstallatie, wordt de massaconcentratie aan stikstofoxiden (NOx) in het rookgas berekend als massaconcentratie van stikstofdioxide.
 
-#### Artikel 2.13.9. Meting emissiegrenswaarden
+##### Artikel 2.13.9. Meting emissiegrenswaarden
 
 1. De meting van emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.13&paragraaf=2.13.2&artikel=2.13.6&z=2024-04-01&g=2024-04-01), wordt door de drijver van de inrichting op verzoek van het bevoegd gezag uitgevoerd.
 
@@ -491,7 +517,7 @@ De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/j
 
 #### § 2.13.3. Natte koeltoren
 
-#### Artikel 2.13.10. Onderzoek risico’s legionellabesmetting
+##### Artikel 2.13.10. Onderzoek risico’s legionellabesmetting
 
 1. Ten behoeve van het waarborgen van de veiligheid wordt door de drijver van de inrichting onderzoek verricht naar de risico’s van de natte koeltoren, die water in aërosolvorm in de lucht kan brengen, voor de omgeving door legionellabesmetting.
 
@@ -524,7 +550,7 @@ De emissiegrenswaarden, bedoeld in [artikel 2.13.6](https://wetten.overheid.nl/j
 
 #### § 2.13.4. In werking hebben van een installatie voor het doorvoeren, bufferen of keren van rioolwater
 
-#### Artikel 2.13.11. Beperken geurhinder
+##### Artikel 2.13.11. Beperken geurhinder
 
 Bij het in werking hebben en bij onderhoudswerkzaamheden van een installatie voor het doorvoeren, bufferen of keren van rioolwater worden zodanige maatregelen getroffen dat geurhinder bij gevoelige gebouwen zoveel mogelijk wordt voorkomen, dan wel als dit niet mogelijk is tot een aanvaardbaar niveau wordt beperkt.
 
@@ -534,17 +560,17 @@ Bij het in werking hebben en bij onderhoudswerkzaamheden van een installatie voo
 
 #### § 3.1.1. Onderhouden, repareren of afspuiten vaartuigen
 
-#### Artikel 3.1.1. Toepassingsbereik
+##### Artikel 3.1.1. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het onderhouden, repareren of afspuiten van vaartuigen.
 
-#### Artikel 3.1.2. Afspuiten vaartuigen
+##### Artikel 3.1.2. Afspuiten vaartuigen
 
 1. Het op de wal met water onder hoge druk afspuiten van de romp onder de waterlijn van een vaartuig vindt plaats boven tenminste een aaneengesloten bodembeschermende voorziening.
 
 2. Bij het afspuiten worden windwerende voorzieningen toegepast indien dat nodig is om verwaaien van afvalwater of afvalstoffen te voorkomen.
 
-#### Artikel 3.1.3. Gedragsvoorschriften
+##### Artikel 3.1.3. Gedragsvoorschriften
 
 1. Binnen een inrichting waarin vaartuigen worden onderhouden, gerepareerd of afgespoten, zijn voor een ieder eenvoudig te raadplegen gedragsvoorschriften aanwezig.
 
@@ -552,11 +578,11 @@ Deze paragraaf is van toepassing op het onderhouden, repareren of afspuiten van 
 
 #### § 3.1.4. Afleveren vloeibare brandstoffen aan vaartuigen
 
-#### Artikel 3.1.4. Toepassingsbereik
+##### Artikel 3.1.4. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het afleveren van vloeibare brandstoffen aan vaartuigen.
 
-#### Artikel 3.1.5. Bescherming oppervlaktewaterlichaam
+##### Artikel 3.1.5. Bescherming oppervlaktewaterlichaam
 
 1. Het afleveren van vloeibare brandstoffen aan vaartuigen vindt plaats vanuit een op de wal geplaatste vaste afleverinstallatie en door of onder direct toezicht van deskundig personeel.
 
@@ -574,11 +600,11 @@ Deze paragraaf is van toepassing op het afleveren van vloeibare brandstoffen aan
 
 #### § 3.2.1. Jachthaven
 
-#### Artikel 3.2.1. Toepassingsbereik
+##### Artikel 3.2.1. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het bieden van gelegenheid tot het afmeren van vaartuigen in een jachthaven met minimaal 10 ligplaatsen.
 
-#### Artikel 3.2.2. In te nemen afvalstoffen vaartuigen
+##### Artikel 3.2.2. In te nemen afvalstoffen vaartuigen
 
 Ten behoeve van een doelmatig beheer van afvalstoffen worden van gebruikers van de jachthaven in ieder geval de volgende afvalstoffen ingenomen:
 
@@ -594,7 +620,7 @@ Ten behoeve van een doelmatig beheer van afvalstoffen worden van gebruikers van 
 
 - f. de inhoud van chemische toiletten.
 
-#### Artikel 3.2.3. Lozen van afvalwater
+##### Artikel 3.2.3. Lozen van afvalwater
 
 1. Het ingenomen afvalwater, bedoeld in [artikel 3.2.2, aanhef en onderdelen e en f](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=3&afdeling=3.2&paragraaf=3.2.1&artikel=3.2.2&z=2024-04-01&g=2024-04-01), wordt geloosd in het openbaar afvalwaterstelsel of op een zuiveringsvoorziening.
 
@@ -602,11 +628,11 @@ Ten behoeve van een doelmatig beheer van afvalstoffen worden van gebruikers van 
 
 #### § 3.2.2. Zwem- en badwater
 
-#### Artikel 3.2.4. Toepassingsbereik
+##### Artikel 3.2.4. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het exploiteren van een badinrichting.
 
-#### Artikel 3.2.5. Algemene bepalingen badinrichtingen
+##### Artikel 3.2.5. Algemene bepalingen badinrichtingen
 
 De gezondheid van de gebruikers van een badinrichting wordt zoveel mogelijk beschermd door in ieder geval zorg te dragen voor:
 
@@ -622,11 +648,11 @@ De gezondheid van de gebruikers van een badinrichting wordt zoveel mogelijk besc
 
 #### § 3.3.1. Tandheelkundige bewerkingen met amalgaam
 
-#### Artikel 3.3.1. Toepassingsbereik
+##### Artikel 3.3.1. Toepassingsbereik
 
 Deze paragraaf is van toepassing op tandheelkundige bewerkingen met amalgaam.
 
-#### Artikel 3.3.2. Lozen van afvalwater
+##### Artikel 3.3.2. Lozen van afvalwater
 
 1. Het afvalwater afkomstig van tandheelkundige bewerkingen met amalgaam wordt geloosd in het openbaar afvalwaterstelsel of in een daarvoor geschikte zuiveringsvoorziening.
 
@@ -634,11 +660,11 @@ Deze paragraaf is van toepassing op tandheelkundige bewerkingen met amalgaam.
 
 #### § 3.3.3. Chemisch reinigen textiel
 
-#### Artikel 3.3.3. Toepassingsbereik
+##### Artikel 3.3.3. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het chemisch reinigen van textiel.
 
-#### Artikel 3.3.4. Bodembescherming
+##### Artikel 3.3.4. Bodembescherming
 
 1. Ter voorkoming van verontreiniging van de bodem met tetrachlooretheen wordt textiel chemisch gereinigd boven ten minste een vloeistofdichte bodembeschermende voorziening.
 
@@ -646,13 +672,13 @@ Deze paragraaf is van toepassing op het chemisch reinigen van textiel.
 
 2. De vloeistofdichte bodembeschermende voorziening heeft geen aansluiting op het openbaar afvalwaterstelsel of op een zuiveringsvoorziening.
 
-#### Artikel 3.3.5. Lozen van afvalwater
+##### Artikel 3.3.5. Lozen van afvalwater
 
 1. Het afvalwater afkomstig van het chemisch reinigen van textiel wordt geloosd in een openbaar afvalwaterstelsel of in een zuiveringsvoorziening.
 
 2. Voor het afvalwater dat wordt geloosd in een openbaar afvalwaterstelsel geldt de emissiegrenswaarde voor tetrachlooretheen van 0,1 mg/l, gemeten in een steekmonster.
 
-#### Artikel 3.3.6. Lucht
+##### Artikel 3.3.6. Lucht
 
 Er worden uitsluitend tetrachlooretheen of niet-gechloreerde alifatische koolwaterstoffen gebruikt.
 
@@ -660,11 +686,11 @@ Er worden uitsluitend tetrachlooretheen of niet-gechloreerde alifatische koolwat
 
 #### § 3.4.1. Opslag vaste dierlijke meststoffen
 
-#### Artikel 3.4.1. Toepassingsbereik
+##### Artikel 3.4.1. Toepassingsbereik
 
 Deze paragraaf is van toepassing op het opslaan van dierlijke meststoffen met een totaal volume van meer dan 3 kubieke meter.
 
-#### Artikel 3.4.2. Bodembescherming
+##### Artikel 3.4.2. Bodembescherming
 
 1. Indien dierlijke meststoffen langer dan twee weken maar korter dan zes maanden op een onverhard oppervlak op een locatie binnen de inrichting worden opgeslagen, vindt het opslaan in elk geval plaats boven een voldoende dikke absorberende onderlaag en zodanig dat contact met hemelwater wordt voorkomen.
 
@@ -674,7 +700,7 @@ Deze paragraaf is van toepassing op het opslaan van dierlijke meststoffen met ee
 
 4. Indien pluimveemest gedurende zes maanden of langer wordt opgeslagen, wordt contact met hemelwater voorkomen.
 
-#### Artikel 3.4.3. Lozen van afvalwater
+##### Artikel 3.4.3. Lozen van afvalwater
 
 1. Het in een openbaar afvalwaterstelsel of in een zuiveringsvoorziening lozen van afvalwater afkomstig van het opslaan van dierlijke meststoffen die niet verpompbaar zijn, is verboden.
 
@@ -682,43 +708,43 @@ Deze paragraaf is van toepassing op het opslaan van dierlijke meststoffen met ee
 
 ### Hoofdstuk 4. Overgangsbepalingen
 
-#### Artikel 4.1
+##### Artikel 4.1
 
 Dit hoofdstuk is van toepassing op degene die een inrichting type I en een inrichting type II drijft.
 
 #### Paragraaf 4.1. Overgangsrecht Bonaire en Sint Eustatius
 
-#### Artikel 4.1.1. Overgangsrecht met betrekking tot een zuiveringsvoorziening voor afvalwater
+##### Artikel 4.1.1. Overgangsrecht met betrekking tot een zuiveringsvoorziening voor afvalwater
 
 [Artikel 2.2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het lozen van huishoudelijk afvalwater op een zuiveringsvoorziening niet van toepassing tot 1 januari 2029.
 
-#### Artikel 4.1.2. Overgangsrecht met betrekking tot vetafscheiders
+##### Artikel 4.1.2. Overgangsrecht met betrekking tot vetafscheiders
 
 [Artikel 2.2.2, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.2&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van vethoudend afvalwater toepassen van een vetafscheider en slibvangput niet van toepassing tot 1 januari 2026, indien dat lozen plaatsvindt buiten een rioleringsgebied op Bonaire en het gehele eilandsgebied op Sint Eustatius.
 
-#### Artikel 4.1.3. Overgangsrecht met betrekking tot een aaneengesloten bodembeschermende voorziening
+##### Artikel 4.1.3. Overgangsrecht met betrekking tot een aaneengesloten bodembeschermende voorziening
 
 1. [Artikel 2.3.1, eerste lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het gebruiken of afleveren van bodembedreigende stoffen boven een bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
 
 2. [Artikel 2.3.1, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.3&artikel=2.3.1&z=2024-04-01&g=2024-04-01), is met betrekking tot het plaatsen van een apparaat of installatie dat een vloeistofcircuit bevat boven een aaneengesloten bodembeschermende voorziening niet van toepassing tot 1 januari 2027.
 
-#### Artikel 4.1.4. Overgangsrecht met betrekking tot slibvangputten en olieafscheiders
+##### Artikel 4.1.4. Overgangsrecht met betrekking tot slibvangputten en olieafscheiders
 
 1. [Artikel 2.2.3, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.2&artikel=2.2.3&z=2024-04-01&g=2024-04-01), is met betrekking tot het voorafgaand aan het lozen van oliehoudend afvalwater toepassen van een olieafscheider en slibvangput niet van toepassing tot 1 januari 2025.
 
 2. Het eerste lid is niet van toepassing op inrichtingen waarop voorafgaand aan de inwerkingtreding van deze regeling het Hinderbesluit garagebedrijven Bonaire van toepassing is.
 
-#### Artikel 4.1.5. Overgangsrecht met betrekking tot energiebesparende maatregelen
+##### Artikel 4.1.5. Overgangsrecht met betrekking tot energiebesparende maatregelen
 
 [Artikel 2.8.1, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0049285&hoofdstuk=2&afdeling=2.8&artikel=2.8.1&z=2024-04-01&g=2024-04-01), is met betrekking tot te nemen energiebesparende maatregelen met een terugverdientijd van vijf jaar of minder niet van toepassing tot 1 januari 2026.
 
 ### Hoofdstuk 5. Slotbepalingen
 
-#### Artikel 5.1. Citeertitel
+##### Artikel 5.1. Citeertitel
 
 Deze regeling wordt aangehaald als: Regeling inrichtingen en activiteiten BES.
 
-#### Artikel 5.2. Inwerkingtreding
+##### Artikel 5.2. Inwerkingtreding
 
 Deze regeling treedt in werking op het tijdstip waarop het [Inrichtingen- en activiteitenbesluit BES](https://wetten.overheid.nl/jci1.3:c:BWBR0049276) in werking treedt.
 

@@ -1,13 +1,39 @@
 ---
-title: "Warenwetbesluit deponering informatie preparaten"
+title: "Besluit van 21 december 1995, regelende de deponering van informatie betreffende preparaten"
 identifier: "BWBR0008489"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-07-01
-laatste_update: 2011-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0008489"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-07-01"
+last_updated: "2011-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0008489"
+soort: "AMvB"
+stam_id: "1439573"
+version_id: "2159542"
+internal_id: "C2159541"
+label_id: "1398804"
+dtd_version: "2.0"
+original_entry_into_force: "1997-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0008489/2011-07-01/0"
+intitule_bron: "Stb.1996-38"
+intitule_effect: "wijziging"
+intitule_signed: "1995-12-21"
+intitule_published: "1996-01-23"
+intitule_in_force: "1996-12-23"
+intitule_status: "goed"
+original_publication: "Stb.1996-38"
+original_signed_date: "1995-12-21"
+original_published_date: "1996-01-23"
+original_effect: "wijziging"
+original_url_id: "stb-1996-38"
+entry_into_force_date: "1997-01-01"
+jci_1_3: "jci1.3:c:BWBR0008489&z=2011-07-01&g=2011-07-01"
+jci_1_0: "1.0:c:BWBR0008489&g=2011-07-01"
+citeertitel_status: "officieel"
+short_title: "Warenwetbesluit deponering informatie preparaten"
+signed_date: "1995-12-21"
+entry_into_force: "1997-01-01"
 ---
-
 # Besluit van 21 december 1995, regelende de deponering van informatie betreffende preparaten
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 4 september 1995, nr. DGVgz/VVP/P 951738, gedaan in overeenstemming met Onze Minister van Economische Zaken;
@@ -22,7 +48,7 @@ Gezien het nader rapport van de Staatssecretaris van Volksgezondheid, Welzijn en
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit wordt verstaan onder preparaten:
 
@@ -32,11 +58,11 @@ Hebben goedgevonden en verstaan:
 
 2. Dit besluit is niet van toepassing op de in artikel 1, vijfde en zesde lid, van de richtlijn, bedoeld in het eerste lid, onder a, genoemde producten.
 
-#### Artikel 2
+##### Artikel 2
 
 Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01).
 
-#### Artikel 3
+##### Artikel 3
 
 1. Degene die preparaten voor het eerst in de handel brengt of heeft gebracht, verstrekt aan het Nationaal Vergiftigingen Informatie-Centrum van het Universitair Medisch Centrum Utrecht gegevens ten aanzien van die preparaten met betrekking tot de behandeling van vergiftigingen, welke in ieder geval omvatten:
 
@@ -48,17 +74,17 @@ Het is verboden preparaten te verhandelen, voordat is voldaan aan [artikel 3](ht
 
 3. Het eerste lid is van overeenkomstige toepassing in geval van wijziging van de benaming of de samenstelling van de preparaten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum vertrouwelijk worden behandeld.
 
 2. De in [artikel 3, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0008489&artikel=3&z=2011-07-01&g=2011-07-01), bedoelde gegevens zullen door het Nationaal Vergiftigingen Informatie-Centrum uitsluitend worden gebruikt teneinde te kunnen reageren op medische verzoeken met het oog op preventie dan wel curatieve maatregelen ten aanzien van vergiftigingen.
 
-#### Artikel 5
+##### Artikel 5
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende categorieën van produkten waarin preparaten zijn verwerkt, verschillend kan worden vastgesteld.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit besluit wordt aangehaald als: Warenwetbesluit deponering informatie preparaten.
 

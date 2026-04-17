@@ -1,20 +1,45 @@
 ---
 title: "Beleidsregel uitgifte nummers 2025"
 identifier: "BWBR0051997"
-categorie: "Overig"
-publicatiedatum: 2025-12-19
-laatste_update: 2025-12-19
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051997"
+country: "nl"
+rank: "zbo"
+publication_date: "2025-12-19"
+last_updated: "2025-12-19"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051997"
+soort: "zbo"
+stam_id: "17687663"
+version_id: "31210892"
+internal_id: "C44644151"
+label_id: "17586734"
+dtd_version: "2.0"
+original_entry_into_force: "2025-12-19"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051997/2025-12-19/0"
+intitule_bron: "Stcrt.2025-43633"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-12-05"
+intitule_published: "2025-12-18"
+intitule_in_force: "2025-12-18"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-43633"
+original_signed_date: "2025-12-05"
+original_published_date: "2025-12-18"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-43633"
+entry_into_force_date: "2025-12-19"
+jci_1_3: "jci1.3:c:BWBR0051997&z=2025-12-19&g=2025-12-19"
+jci_1_0: "1.0:c:BWBR0051997&g=2025-12-19"
+citeertitel_status: "officieel"
+signed_date: "2025-12-05"
+entry_into_force: "2025-12-19"
 ---
-
 # Beleidsregel uitgifte nummers 2025
 
 Gelet op de [artikelen 4:2](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:2), [4:4](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:4), [4:5](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:5) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81), [artikel 6b van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=6b), en de [artikelen 4.1](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.1), [4.2](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.2), [4.3](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.3), [4.6](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.6), [4.7](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.7) en [4.9 van de Telecommunicatiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0009950&artikel=4.9);
 
 Besluit:
 
-#### Artikel 1. – Definities
+##### Artikel 1. – Definities
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -24,7 +49,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - –. **ACM:** de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](https://wetten.overheid.nl/jci1.3:c:BWBR0033043&artikel=2).
 
-#### Artikel 2. – Aanvraag
+##### Artikel 2. – Aanvraag
 
 1. De aanvrager gebruikt het daartoe bestemde aanvraagformulier.
 
@@ -36,7 +61,7 @@ In deze beleidsregel wordt verstaan onder:
 
 5. De aanvrager kan bij zijn aanvraag een voorkeur voor een nummer of nummers opgeven. De ACM houdt bij de beoordeling van de aanvraag voor zover mogelijk rekening met de opgegeven voorkeur.
 
-#### Artikel 3. – Toetsingscriteria
+##### Artikel 3. – Toetsingscriteria
 
 1. De ACM toetst bij een aanvraag achtereenvolgens of:
 
@@ -62,17 +87,17 @@ Als de ACM van oordeel is dat aan een van deze criteria niet is voldaan, weigert
 
 Als de ACM van oordeel is dat aan een of meerdere criteria niet is voldaan, kan de ACM een toekenning weigeren.
 
-#### Artikel 4. – Toekenning voor onbepaalde tijd
+##### Artikel 4. – Toekenning voor onbepaalde tijd
 
 De ACM kent nummers in beginsel voor onbepaalde tijd toe. De ACM kan in het belang van een doelmatige toekenning een maximumduur aan de toekenning verbinden.
 
-#### Artikel 5. – Voorschriften
+##### Artikel 5. – Voorschriften
 
 1. De ACM verbindt standaardvoorschriften aan een toekenning. Deze voorschriften kunnen per nummercategorie verschillen.
 
 2. Als daar in individuele gevallen aanleiding toe bestaat, verbindt de ACM naast de standaardvoorschriften aanvullende voorschriften aan een toekenning.
 
-#### Artikel 6. – Loting
+##### Artikel 6. – Loting
 
 1. Als de ACM op dezelfde dag meerdere aanvragen met dezelfde voorkeur voor een bepaald nummer ontvangt, dan worden deze aanvragen behandeld door middel van een loting.
 
@@ -112,16 +137,16 @@ De ACM kent nummers in beginsel voor onbepaalde tijd toe. De ACM kan in het bela
 
 - f). De ACM maakt de uitslag van de loting op de website van de ACM openbaar.
 
-#### Artikel 7. – Intrekking
+##### Artikel 7. – Intrekking
 
 Het [Uitgiftebeleid nummers 2001](https://wetten.overheid.nl/jci1.3:c:BWBR0033153)2**Stcrt**. 2001, nr. 209, p. 17, laatstelijk gewijzigd in 2013, **Stcrt**. 2013, nr. 7615. en de [Beleidsregels lotingreglement](https://wetten.overheid.nl/jci1.3:c:BWBR0033298)3**Stcrt**. 2004, nr. 172, p. 23. worden ingetrokken.
 
-#### Artikel 8. – Inwerkingtreding
+##### Artikel 8. – Inwerkingtreding
 
 1. Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.
 
 2. Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin hij wordt geplaatst.
 
-#### Artikel 9. – Citeertitel
+##### Artikel 9. – Citeertitel
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel uitgifte nummers 2025.

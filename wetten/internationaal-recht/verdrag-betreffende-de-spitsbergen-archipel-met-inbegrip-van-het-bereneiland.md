@@ -1,13 +1,37 @@
 ---
 title: "Verdrag betreffende de Spitsbergen Archipel, met inbegrip van het Bereneiland"
 identifier: "BWBV0006335"
-categorie: "Internationaal recht"
-publicatiedatum: 1925-08-14
-laatste_update: 1925-08-14
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0006335"
+country: "nl"
+rank: "verdrag"
+publication_date: "1925-08-14"
+last_updated: "1925-08-14"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0006335"
+soort: "verdrag"
+stam_id: "10005177883"
+version_id: "10005555222"
+internal_id: "C10008586071"
+label_id: "10005160994"
+dtd_version: "2.0"
+original_entry_into_force: "1925-08-14"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0006335/1925-08-14/0"
+intitule_bron: "Stb.1925-404"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1925-10-02"
+intitule_published: "1925-10-15"
+intitule_in_force: "1925-10-15"
+intitule_status: "goed"
+original_publication: "Stb.1925-404"
+original_signed_date: "1925-10-02"
+original_published_date: "1925-10-15"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1925-08-14"
+jci_1_3: "jci1.3:c:BWBV0006335&z=1925-08-14&g=1925-08-14"
+jci_1_0: "1.0:c:BWBV0006335&g=1925-08-14"
+citeertitel_status: "redactioneel"
+signed_date: "1925-10-02"
+entry_into_force: "1925-08-14"
 ---
-
 # Verdrag betreffende de Spitsbergen Archipel, met inbegrip van het Bereneiland
 
 De President van de Vereenigde Staten van Amerika; Zijne Majesteit de Koning van Groot-Britannië en Ierland en van de Britsche Overzeesche Gebieden, Keizer van Indië; Zijne Majesteit de Koning van Denemarken; de President van de Fransche Republiek; Zijne Majesteit de Koning van Italië; Zijne Majesteit de Keizer van Japan; Zijne Majesteit de Koning van Noorwegen; Hare Majesteit de Koningin der Nederlanden; Zijne Majesteit de Koning van Zweden,
@@ -76,11 +100,11 @@ Graaf J. J. A. Ehrensvärd, Buitengewoon Gezant en Gevolmachtigd Minister van Zi
 
 die, na overlegging hunner in goeden en behoorlijken vorm bevonden volmachten, omtrent de volgende bepalingen zijn overeengekomen:
 
-#### Artikel 1
+##### Artikel 1
 
 De Hooge Verdragsluitende Partijen komen overeen, om, met inachtneming van de voorwaarden neergelegd in dit verdrag, de volle en geheele souvereiniteit van Noorwegen te erkennen over den Spitsbergen-Archipel, die te zamen met het Beeren-Eiland alle eilanden omvat welke gelegen zijn tusschen de 10° en 35° O. L. van Greenwich en tusschen 74° en 81° N. B., met name: West-Spitsbergen, Noord-Oost-Land, Barents-eiland, Edge-eiland, de Wiche-eilanden, Hoop-eiland en Prins-Karel-land, te zamen met alle daarbij behoorende eilanden, eilandjes en rotsen. (Zie de bijgevoegde kaart1)Niet afgedrukt.).
 
-#### Artikel 2
+##### Artikel 2
 
 Schepen en onderdanen van alle Hooge Verdragsluitende Partijen zullen gelijkelijk in het genot worden gesteld van het visch- en jachtrecht in de gebieden aangeduid in artikel 1 en in de territoriale wateren van die gebieden.
 
@@ -88,7 +112,7 @@ Noorwegen zal bevoegd zijn de maatregelen te handhaven, te nemen of uit te vaard
 
 Zij, die grond in bezit hebben en wier rechten erkend zijn overeenkomstig de bepalingen van de artikelen 6 en 7, zullen op hun eigen grond het uitsluitend jachtrecht genieten: 1°. in de nabijheid van hun woningen, huizen, magazijnen, fabrieken en installaties aangebracht voor de ontginning van hun eigendom, op de voorwaarden vastgesteld door de plaatselijke politieregelingen; 2°. binnen een kring met een straal van 10 Kilometer getrokken van uit den hoofdzetel van hun ondernemingen of exploitaties, in beide gevallen onder voorbehoud van de nakoming van de regelingen uitgevaardigd door de Noorsche Regeering in overeenstemming met de voorwaarden, neergelegd in dit artikel.
 
-#### Artikel 3
+##### Artikel 3
 
 De onderdanen van alle Hooge Verdragsluitende Partijen zullen gelijkelijk recht van toegang en verblijf hebben, onverschillig wat hiervan de oorzaak of het doel moge zijn, in de wateren, fjorden en havens van de gebieden, aangeduid in artikel 1; met inachtneming van de plaatselijke wetten en regelingen zulen zij aldaar, zonder eenige belemmering, op voet van volkomen gelijkheid, alle maritieme, industrieele, mijnbouwkundige en commercieele werken mogen uitvoeren.
 
@@ -100,31 +124,31 @@ Overeengekomen wordt, dat in ieder opzicht, en met name wat betreft den uitvoer,
 
 Voor den uitvoer van goederen, bestemd voor het grondgebied van een der Verdragsluitende Mogendheden, zal geen belasting mogen worden geheven, of beperking worden gesteld, verschillend van of meer bezwarend dan die, welke gelden voor den uitvoer van goederen van dezelfde soort naar het grondgebied van eenige andere Verdragsluitende Mogendheid (met inbegrip van Noorwegen) of naar eenige andere bestemming.
 
-#### Artikel 4
+##### Artikel 4
 
 Ieder openbaar station van draadlooze telegrafie, dat door of met de machtiging van de Noorsche Regeering gevestigd is of gevestigd zal worden in de gebieden bedoeld in artikel 1, zal altijd op een voet van volkomen gelijkheid open moeten staan voor berichten van schepen van iedere vlag en van onderdanen van de Hooge Verdragsluitende Partijen, op de voorwaarden, vastgesteld hij het Internationaal Radiotelegraafverdrag van 5 Juli 1912 of bij het internationaal verdrag, dat later gesloten mocht worden ter vervanging van bovengenoemd verdrag.
 
 Onder voorbehoud van de internationale verplichtingen, welke voortvloeien uit een oorlogstoestand, zullen eigenaars van een onroerend goed altijd het recht hebben om ten eigen bate installaties voor draadlooze telegrafie te maken en te gebruiken, welke over particuliere aangelegenheden berichten zullen mogen overbrengen van en naar vaste of verplaatsbare stations, met inbegrip van stations gevestigd op schepen en luchtvaartuigen.
 
-#### Artikel 5
+##### Artikel 5
 
 De Hooge Verdragsluitende Partijen erkennen de wenschelijkheid om in de gebieden, aangeduid in artikel 1, een internationaal meteorologisch station te vestigen, waarvan de inrichting in een later verdrag zal worden geregeld.
 
 Eveneens zullen verdragen worden gesloten ter bepaling van de voorwaarden, waarop in de genoemde gebieden wetenschappelijke onderzoekingen zullen mogen worden uitgevoerd.
 
-#### Artikel 6
+##### Artikel 6
 
 Onder voorbehoud van de bepalingen van dit artikel zullen verkregen rechten van onderdanen van de Hooge Verdragsluitende Partijen worden erkend.
 
 Omtrent aanspraken gegrond op inbezitneming of bezetting van land op een tijdstip, voorafgaande aan de onderteekening van dit verdrag, zal worden beslist overeenkomstig de hieraan toegevoegde Bijlage, welke dezelfde kracht en werking zal hebben als dit verdrag.
 
-#### Artikel 7
+##### Artikel 7
 
 Noorwegen verbindt zich, om in de gebieden, aangeduid in artikel 1, alle onderdanen van de Hooge Verdragsluitende Partijen, wat betreft de wijze van verkrijging, genot en uitoefening van eigendomsrecht, met inbegrip van mijnrechten, te behandelen op voet van volkomen gelijkheid en overeenkomstig de bepalingen van dit verdrag.
 
 Onteigening zal uitsluitend mogen plaats hebben op grond van algemeen nut en tegen betaling van een behoorlijke schadevergoeding.
 
-#### Artikel 8
+##### Artikel 8
 
 Noorwegen verbindt zich, om voor de gebieden, aangeduid in artikel 1, een mijnreglement vast te stellen, hetwelk, met name ten aanzien van belastingen, heffingen of rechten van welken aard ook, en ten aanzien van algemeene en bijzondere arbeidsvoorwaarden, alle voorrechten, monopolie's of gunsten ten voordeele van den Staat of ten voordeele van de onderdanen van een der Hooge Verdragsluitende Partijen, met inbegrip van Noorwegen, zal uitsluiten, en hetwelk aan het gesalarieerd personeel van alle categorieën de bezoldiging en de bescherming, noodig voor hun lichamelijk, zedelijk en geestelijk welzijn, zal waarborgen.
 
@@ -134,11 +158,11 @@ Wat in het bijzonder den uitvoer van ertsen betreft, zal de Noorsche Regeering d
 
 Het ontwerp-mijnreglement zal drie maanden vóór den datum vastgesteld voor het inwerking treden ervan door de Noorsche Regeering worden medegedeeld aan de andere Verdragsluitende Partijen. Indien een of meer van genoemde Mogendheden in dit tijdsverloop mochten voorstellen, wijzigingen in dit reglement aan te brengen, alvorens dit zal worden toegepast, zal de Noorsche Regeering deze voorstellen ter kennis van de andere Verdragsluitende Partijen brengen, ten einde de voorstellen te onderwerpen aan het onderzoek en de beslissing van een Commissie, samengesteld uit één vertegenwoordiger van ieder der genoemde Mogendheden. Deze Commissie zal bijeenkomen op uitnoodiging van de Noorsche Regeering en zal binnen een tijdsverloop van drie maanden na haar eerste bijeenkomst een beslissing moeten geven. De beslissingen zullen worden genomen hij meerderheid van stemmen.
 
-#### Artikel 9
+##### Artikel 9
 
 Onder voorbehoud van de rechten en verplichtingen, welke voor Noorwegen mochten voortvloeien uit zijn toetreding tot den Volkenbond, verbindt Noorwegen zich om in de gebieden, aangeduid in artikel 1, geen marine-basis te vestigen of toe te laten, dat er een gevestigd wordt en om in de genoemde gebieden, welke nooit voor oorlogsdoeleinden gebruikt zullen mogen worden, geen versterking aan te leggen.
 
-#### Artikel 10
+##### Artikel 10
 
 In afwachting, dat de erkenning van een Russische Regeering door de Hooge Verdragsluitende Partijen het Rusland zal mogelijk maken tot dit verdrag toe te treden, zullen de Russische onderdanen en maatschappijen dezelfde rechten genieten als de onderdanen van de Hooge Verdragsluitende Partijen.
 

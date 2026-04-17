@@ -1,13 +1,37 @@
 ---
 title: "Instelling werkgroep Vergroening van het fiscale stelsel II"
 identifier: "BWBR0011356"
-categorie: "Overig"
-publicatiedatum: 2000-07-01
-laatste_update: 2000-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0011356"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2000-07-01"
+last_updated: "2000-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0011356"
+soort: "ministeriele-regeling"
+stam_id: "3960583"
+version_id: "5733762"
+internal_id: "C5936491"
+label_id: "3940674"
+dtd_version: "2.0"
+original_entry_into_force: "2000-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0011356/2000-07-01/0"
+intitule_bron: "Stcrt.2000-105"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2000-05-12"
+intitule_published: "2000-05-31"
+intitule_in_force: "2000-05-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2000-105"
+original_signed_date: "2000-05-12"
+original_published_date: "2000-05-31"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-07-01"
+jci_1_3: "jci1.3:c:BWBR0011356&z=2000-07-01&g=2000-07-01"
+jci_1_0: "1.0:c:BWBR0011356&g=2000-07-01"
+citeertitel_status: "officieel"
+signed_date: "2000-05-12"
+entry_into_force: "2000-07-01"
 ---
-
 # Instelling werkgroep Vergroening van het fiscale stelsel II
 
 Overwegende dat het wenselijk is een nieuwe werkgroep vergroening van het fiscale stelsel in te stellen;
@@ -16,11 +40,11 @@ Besluiten:
 
 #### § 1. Instelling en taak
 
-#### Artikel 1
+##### Artikel 1
 
 Er is een werkgroep Vergroening van het fiscale stelsel II.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De werkgroep heeft als taak te bezien welke mogelijkheden in vervolg op de in deze kabinetsperiode gerealiseerde fiscale maatregelen op gebied van milieu, natuur daaronder begrepen, kunnen worden ingezet binnen het fiscale stelsel die het belang van de bescherming van het milieu dienen en een duurzame ontwikkeling van de economie bevorderen. Dit gebeurt mede op basis van evaluatie van al bestaande groene belastingmaatregelen.
 
@@ -32,7 +56,7 @@ Er is een werkgroep Vergroening van het fiscale stelsel II.
 
 5. De werkgroep fungeert als klankbord voor de implementatie van de voorstellen uit de rapportages van de werkgroep Vergroening van het fiscale stelsel.
 
-#### Artikel 3
+##### Artikel 3
 
 Bij het doen van voorstellen neemt de werkgroep de volgende voorwaarden in acht:
 
@@ -44,7 +68,7 @@ Bij het doen van voorstellen neemt de werkgroep de volgende voorwaarden in acht:
 
 #### § 2. Samenstelling en werkwijze
 
-#### Artikel 4
+##### Artikel 4
 
 1. Tot lid, tevens voorzitter van de werkgroep wordt benoemd: mr. J.C. de Waard.
 
@@ -108,29 +132,29 @@ drs. J.L. de Vries
 
 mr. J.G.S. Warmerdam
 
-#### Artikel 5
+##### Artikel 5
 
 Ter uitvoering van haar taak kan de werkgroep zich rechtstreeks wenden tot derden voor het verkrijgen van inlichtingen en hen zo nodig ter vergadering uitnodigen om hen hun mening nader uiteen te laten zetten.
 
-#### Artikel 6
+##### Artikel 6
 
 De werkgroep brengt haar rapportage uiterlijk in juli 2001 aan de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Economische Zaken, de Minister van Verkeer en Waterstaat en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij uit.
 
-#### Artikel 7
+##### Artikel 7
 
 De werkgroep brengt op verzoek van de Staatssecretaris van Financiën, de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Economische Zaken, de Minister van Verkeer en Waterstaat en de Staatssecretaris van Landbouw, Natuurbeheer en Visserij tussentijds verslag uit.
 
 #### § 3. Overige bepalingen
 
-#### Artikel 8
+##### Artikel 8
 
 De leden van de werkgroep, voor zover geen ambtenaar, ontvangen vacatiegelden alsmede een vergoeding voor de reis- en verblijfskosten volgens de bestaande rijksregelingen, voor zover niet uit anderen hoofde een vergoeding van deze kosten wordt verleend uit ‘s Rijks kas.
 
-#### Artikel 9
+##### Artikel 9
 
 Een ieder die betrokken is bij de werkzaamheden van de werkgroep en daarbij de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak bij deze werkzaamheden de noodzaak tot bekendmaking voortvloeit.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Dit besluit wordt bekend gemaakt in de Staatscourant.
 

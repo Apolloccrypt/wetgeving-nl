@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit Besluit bewijzen van bevoegdheid voor de luchtvaart (uitvoering Eurocontrol eisen personeel met veiligheidstaken binnen de luchtverkeersdienstverlening)"
+title: "Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart, onder meer ter uitvoering van Eurocontrol eisen voor personeel met veiligheidstaken binnen de luchtverkeersdienstverlening, de deregulering van ongemotoriseerd luchtverkeer en de erkenning van in het buitenland verrichte medische keuringen"
 identifier: "BWBR0018714"
-categorie: "Milieu"
-publicatiedatum: 2011-03-01
-laatste_update: 2011-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0018714"
+country: "nl"
+rank: "amvb"
+publication_date: "2011-03-01"
+last_updated: "2011-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0018714"
+soort: "AMvB"
+stam_id: "7347123"
+version_id: "12300362"
+internal_id: "C16541221"
+label_id: "7334934"
+dtd_version: "2.0"
+original_entry_into_force: "2005-09-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0018714/2011-03-01/0"
+intitule_bron: "Stb.2005-453"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2005-08-31"
+intitule_published: "2005-09-20"
+intitule_in_force: "2005-09-20"
+intitule_status: "goed"
+original_publication: "Stb.2005-453"
+original_signed_date: "2005-08-31"
+original_published_date: "2005-09-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2005-453"
+entry_into_force_date: "2005-09-21"
+jci_1_3: "jci1.3:c:BWBR0018714&z=2011-03-01&g=2011-03-01"
+jci_1_0: "1.0:c:BWBR0018714&g=2011-03-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingsbesluit Besluit bewijzen van bevoegdheid voor de luchtvaart (uitvoering Eurocontrol eisen personeel met veiligheidstaken binnen de luchtverkeersdienstverlening)"
+signed_date: "2005-08-31"
+entry_into_force: "2005-09-21"
 ---
-
 # Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart, onder meer ter uitvoering van Eurocontrol eisen voor personeel met veiligheidstaken binnen de luchtverkeersdienstverlening, de deregulering van ongemotoriseerd luchtverkeer en de erkenning van in het buitenland verrichte medische keuringen
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 22 juni 2005, nr. HDJZ/LUV/2005-1425, Hoofddirectie Juridische Zaken;
@@ -20,15 +46,15 @@ Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 2
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
-#### Artikel II
+##### Artikel II
 
 Een bewijs van bevoegdheid afgegeven vóór de inwerkingtreding van dit besluit blijft geldig tot de eerst verstrijkende geldigheidsdatum van de daarop weergegeven bevoegdverklaringen en wordt op die datum vervangen door een nieuw bewijs van bevoegdheid met bevoegdverklaringen.
 
-#### Artikel III
+##### Artikel III
 
 1. Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin het wordt geplaatst.
 

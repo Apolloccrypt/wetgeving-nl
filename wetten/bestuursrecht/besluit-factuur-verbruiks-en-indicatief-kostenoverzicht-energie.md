@@ -1,13 +1,39 @@
 ---
-title: "Besluit factuur, verbruiks- en indicatief kostenoverzicht energie"
+title: "Besluit van 21 mei 2015, houdende regels over facturen en verbruiks- en indicatieve kostenoverzichten van energie in verband met de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie (Besluit factuur, verbruiks- en indicatief kostenoverzicht energie)"
 identifier: "BWBR0036646"
-categorie: "Bestuursrecht"
-publicatiedatum: 2026-01-01
-laatste_update: 2026-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036646"
+country: "nl"
+rank: "amvb"
+publication_date: "2026-01-01"
+last_updated: "2026-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036646"
+soort: "AMvB"
+stam_id: "13161543"
+version_id: "22431932"
+internal_id: "C32194781"
+label_id: "13130244"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-30"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036646/2026-01-01/0"
+intitule_bron: "Stb.2015-190"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-05-21"
+intitule_published: "2015-05-29"
+intitule_in_force: "2015-05-29"
+intitule_status: "goed"
+original_publication: "Stb.2015-190"
+original_signed_date: "2015-05-21"
+original_published_date: "2015-05-29"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2015-190"
+entry_into_force_date: "2015-05-30"
+jci_1_3: "jci1.3:c:BWBR0036646&z=2026-01-01&g=2026-01-01"
+jci_1_0: "1.0:c:BWBR0036646&g=2026-01-01"
+citeertitel_status: "officieel"
+short_title: "Besluit factuur, verbruiks- en indicatief kostenoverzicht energie"
+signed_date: "2015-05-21"
+entry_into_force: "2015-05-30"
 ---
-
 # Besluit van 21 mei 2015, houdende regels over facturen en verbruiks- en indicatieve kostenoverzichten van energie in verband met de implementatie van richtlijn 2012/27/EU betreffende energie-efficiëntie (Besluit factuur, verbruiks- en indicatief kostenoverzicht energie)
 
 Op de voordracht van Onze Minister van Economische Zaken van 3 februari 2015, nr. WJZ / 15008591;
@@ -32,27 +58,27 @@ Hebben goedgevonden en verstaan:
 
 #### § 6. Overige bepalingen
 
-#### Artikel 15
+##### Artikel 15
 
 Het [Besluit kostenoverzicht energie](https://wetten.overheid.nl/jci1.3:c:BWBR0029673) vervalt.
 
-#### Artikel 16
+##### Artikel 16
 
 Wijzigt het Besluit stimulering duurzame energieproductie.
 
-#### Artikel 17
+##### Artikel 17
 
 1. Dit besluit, met uitzondering van [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01), treedt in werking met ingang van 1 juli 2015.
 
 2. [Artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=6&artikel=16&z=2026-01-01&g=2026-01-01) treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-#### Artikel 18
+##### Artikel 18
 
 Dit besluit wordt aangehaald als: Besluit factuur en verbruiks- en indicatief kostenoverzicht energie.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -70,13 +96,13 @@ In dit besluit wordt verstaan onder:
 
 - **warmtemeter:** meter als bedoeld in bijlage VI van de richtlijn meetinstrumenten.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Een energieleverancier of een leverancier van brandstof verstrekt ten minste eenmaal per jaar een factuur aan een eindafnemer of een doorleverancier voor de afgenomen energie of voor de afgenomen brandstof.
 
 2. Een doorleverancier verstrekt ten minste eenmaal per jaar een factuur aan een eindgebruiker voor de afgenomen warmte of koude.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Een energieleverancier, een leverancier van brandstof of een doorleverancier stelt de factuur op in duidelijke en begrijpelijke taal.
 
@@ -84,7 +110,7 @@ In dit besluit wordt verstaan onder:
 
 3. Op verzoek van een eindgebruiker verstrekt een doorleverancier nadere uitleg over de totstandkoming van de factuur.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Een factuur van een energieleverancier of een doorleverancier bevat:
 
@@ -104,7 +130,7 @@ In dit besluit wordt verstaan onder:
 
 2. Het eerste lid, onderdelen a, b, en c, is van overeenkomstige toepassing op een factuur van een leverancier van brandstof, voor zover de desbetreffende gegevens beschikbaar zijn.
 
-#### Artikel 5
+##### Artikel 5
 
 1. Een energieleverancier of een leverancier van brandstof die een factuur baseert op meetgegevens die door een eindafnemer of een doorleverancier worden uitgelezen, baseert een factuur alleen op het geschatte verbruik als een eindafnemer of een doorleverancier niet tijdig de meetgegevens mededeelt.
 
@@ -112,23 +138,23 @@ In dit besluit wordt verstaan onder:
 
 #### § 3. Verbruiks- en indicatief kostenoverzicht
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een energieleverancier verstrekt ten minste een keer per jaar een verbruiks- en indicatief kostenoverzicht aan een eindafnemer of een doorleverancier.
 
 2. Een doorleverancier verstrekt ten minste een keer per jaar een verbruiks- en indicatief kostenoverzicht aan een eindgebruiker.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Een leverancier van warmte of van koude verstrekt ten minste iedere maand een verbruiks- en indicatief kostenoverzicht aan een eindafnemer van warmte of van koude die beschikt over een op afstand uitleesbare warmte- of koudemeter die op afstand wordt uitgelezen door middel van een signaal dat verder draagt dan 250 meter. Op verzoek van een eindafnemer kan de frequentie worden verlaagd.
 
 2. Een doorleverancier verstrekt ten minste iedere maand een verbruiks- en indicatief kostenoverzicht aan een eindgebruiker die beschikt over een op afstand uitleesbare warmte- of koudemeter die op afstand wordt uitgelezen door middel van een signaal dat verder draagt dan 250 meter. Op verzoek van een eindgebruiker kan de frequentie worden verlaagd.
 
-#### Artikel 8
+##### Artikel 8
 
 Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks- en indicatief kostenoverzicht bij een factuur, bij een overeenkomst, bij een transactie of bij een ontvangstbewijs aan een eindafnemer.
 
-#### Artikel 9
+##### Artikel 9
 
 1. Een energieleverancier, een leverancier van brandstof of een doorleverancier stelt het verbruiks- en indicatief kostenoverzicht op in duidelijke en begrijpelijke taal.
 
@@ -140,7 +166,7 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 5. Een verbruiks- en indicatief kostenoverzicht bevat geen betalingsverzoek.
 
-#### Artikel 10
+##### Artikel 10
 
 1. Indien één keer per jaar een verbruiks- en indicatief kostenoverzicht wordt verstrekt, bevat het verbruiks- en indicatief kostenoverzicht:
 
@@ -188,13 +214,13 @@ Een leverancier van brandstof verstrekt voor zover dit mogelijk is een verbruiks
 
 6. In afwijking van het eerste en tweede lid bevat een verbruiks- en indicatief kostenoverzicht van een eindafnemer, een doorleverancier of een eindgebruiker waarvan de factuur niet gebaseerd is op het werkelijke verbruik een duidelijke en begrijpelijke uitleg over de wijze waarop het in de factuur genoemde bedrag is berekend en de informatie bedoeld in het eerste lid, onderdeel f, en in het vijfde lid, onderdeel b.
 
-#### Artikel 11
+##### Artikel 11
 
 Vervallen
 
 #### § 4. Informatie-uitwisseling
 
-#### Artikel 12
+##### Artikel 12
 
 1. Een energieleverancier of een leverancier van brandstof verzendt een factuur en een verbruiks- en indicatief kostenoverzicht naar de desbetreffende eindafnemer of de doorleverancier langs elektronische weg, tenzij de eindafnemer of de doorleverancier verzoekt om verzending van een verbruiks- en indicatief kostenoverzicht per post of verzending langs elektronische weg niet mogelijk is.
 
@@ -202,7 +228,7 @@ Vervallen
 
 3. In aanvulling van het eerste en tweede lid kan ingeval van elektronische facturering een energieleverancier of een doorleverancier ervoor kiezen de vergelijkingen bedoeld in [artikel 10, eerste lid, onderdeel d](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=10&z=2026-01-01&g=2026-01-01), online beschikbaar te stellen en daar in de factuur naar de verwijzen.
 
-#### Artikel 13
+##### Artikel 13
 
 1. Op verzoek van de eindafnemer van brandstof, warmte of koude of de doorleverancier verstrekt een energieleverancier of leverancier van brandstof de beschikbare facturen en de verbruiks- en indicatieve kostenoverzichten aan een door een eindafnemer of een doorleverancier aangewezen aanbieder van energiediensten.
 
@@ -210,7 +236,7 @@ Vervallen
 
 #### § 5. Kosten
 
-#### Artikel 14
+##### Artikel 14
 
 1. Een energieleverancier of een leverancier van brandstof verstrekt een factuur of een verbruiks- en indicatief kostenoverzicht kosteloos aan een eindafnemer of een doorleverancier.
 
@@ -222,7 +248,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 11a
+##### Artikel 11a
 
 1. De leverancier kan op het verbruiks- en indicatief kostenoverzicht aan de eindafnemer een advies verstrekken over de energiebesparende maatregelen die de desbetreffende eindafnemer kan nemen om zijn energieverbruik te verminderen.
 
@@ -236,7 +262,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 12a
+##### Artikel 12a
 
 Vervallen
 
@@ -244,7 +270,7 @@ Vervallen
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-#### Artikel 7a
+##### Artikel 7a
 
 1. In afwijking van [artikel 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0036646&paragraaf=3&artikel=7&z=2021-07-23&g=2021-07-23), verstrekt een leverancier van warmte of van koude ten minste ieder kwartaal een verbruiks- en indicatief kostenoverzicht aan een eindafnemer van warmte of van koude die beschikt over een op afstand uitleesbare warmte- of koudemeter die door een leverancier van warmte of van koude nog niet op afstand kan worden uitgelezen. Op verzoek van een eindafnemer kan de frequentie worden verlaagd.
 

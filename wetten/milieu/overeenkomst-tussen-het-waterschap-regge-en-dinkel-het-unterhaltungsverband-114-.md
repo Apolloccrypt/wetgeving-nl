@@ -1,13 +1,35 @@
 ---
-title: "Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 "Vechte" en het Wasser- und Bodenverband "Rammelbecke" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek"
+title: "Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 \"Vechte\" en het Wasser- und Bodenverband \"Rammelbecke\" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek"
 identifier: "BWBV0003895"
-categorie: "Milieu"
-publicatiedatum: 1979-01-07
-laatste_update: 1979-01-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0003895"
+country: "nl"
+rank: "verdrag"
+publication_date: "1979-01-07"
+last_updated: "1979-01-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0003895"
+soort: "verdrag"
+stam_id: "10003761453"
+version_id: "10003825922"
+internal_id: "C10006983121"
+label_id: "10003746344"
+dtd_version: "2.0"
+original_entry_into_force: "1979-01-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0003895/1979-01-07/0"
+intitule_bron: "Trb.1978-56"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1978-05-16"
+intitule_in_force: "1979-04-02"
+intitule_status: "goed"
+original_publication: "Trb.1978-56"
+original_published_date: "1978-05-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-1978-56"
+entry_into_force_date: "1979-01-07"
+jci_1_3: "jci1.3:c:BWBV0003895&z=1979-01-07&g=1979-01-07"
+jci_1_0: "1.0:c:BWBV0003895&g=1979-01-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "1979-01-07"
 ---
-
 # Overeenkomst tussen het waterschap Regge en Dinkel, het Unterhaltungsverband 114 "Vechte" en het Wasser- und Bodenverband "Rammelbecke" over het onderhoud van zowel de Rammelbeek als de Oude Rammelbeek
 
 Het waterschap Regge en Dinkel in Almelo, in het onderstaande „waterschap” genoemd,
@@ -20,7 +42,7 @@ het Wasser- und Bodenverband „Rammelbecke” in Wengsel, in het onderstaande �
 
 sluiten op grond van de wenselijkheid de door de verbetering ontstane toestand van de Rammelbeek en de Oude Rammelbeek in de toekomst in stand te houden en de onbelemmerde afvoer van het water in overeenstemming met de afvoercapaciteit van het dwarsprofiel na de verbetering te verzekeren, gelet op hoofdstuk 4, Artikel 59 (2) van het grensverdrag tussen de Bondsrepubliek Duitsland en het Koninkrijk der Nederlanden van 8 april 1960, de volgende overeenkomst:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Deze overeenkomst betreft:
 
@@ -34,7 +56,7 @@ sluiten op grond van de wenselijkheid de door de verbetering ontstane toestand v
 
 2. De voor het onderhoud maatgevende toestand van de in sub 1 genoemde waterleidingen en van de zandvang is op een uit 4 bladen bestaand grondplan vastgelegd, dat inclusief de eventuele toekomstige wijzigingen onderdeel van deze overeenkomst is. De door de betrokkenen ondertekende bladen nr. 1 tot en met 4 bestaan uit een overzichtskaart (1: 50.000)1)[Red: De overzichtskaart is niet opgenomen.], een situatietekening van de verbeteringswerken (1:5.000), een lengteprofiel van zowel de doorsteek in Nederland als van het grensgedeelte van de Rammelbeek en een lengteprofiel van de Oude Rammelbeek.
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het onderhoud van het grensgedeelte van de nieuw aangelegde Rammelbeek en van de doorsteek op Nederlands gebied (van 20 m beneden grenssteen 48 tot grenssteen 321V) over een totale lengte van 2.426 m komt zodanig het Unterhaltungsverband en het waterschap ten laste, dat het Unterhaltungsverband het bovengedeelte over een lengte van 1.213 m (van 53 m boven de brug bij grenssteen 45 tot grenssteen 321V bij de zandvang) en het waterschap het benedengedeelte eveneens over een lengte van 1.213 m (van 20 m beneden grenssteen 48 tot 53 m boven de brug bij grenssteen 45) onderhoudt.
 
@@ -52,7 +74,7 @@ Het onderhoud van de brug in de zuidelijke kanaaldijk van het kanaal Almelo-Nord
 
 5. De zandvang bij grenssteen 32IV wordt door het Unterhaltungsverband geruimd en onderhouden.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Voor het toezicht op de uitvoering van het onderhoud volgens de regels wordt een commissie van 4 leden gevormd, die als volgt is samengesteld:
 
@@ -81,17 +103,17 @@ Het voorzitterschap berust jaarlijks afwisselend bij een vertegenwoordiger van d
 
 9. Beide zijden nemen de verplichting op zich, elkaar bij de aanschaffing van de vereiste grenspapieren voor de leden van de commissie en de aangetrokken deskundigen behulpzaam te zijn.
 
-#### Artikel 4
+##### Artikel 4
 
 Wijzigingen van de overeenkomst behoeven de goedkeuring van de regering van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De overeenkomst wordt voor een periode van 25 jaar aangegaan. Wanneer de overeenkomst niet 3 jaar voor het aflopen van deze periode wordt opgezegd, wordt de geldigheidsduur stilzwijgend telkens met vijf jaar verlengd.
 
 2. De opzegging dient per aangetekende brief te geschieden.
 
-#### Artikel 6
+##### Artikel 6
 
 Deze overeenkomst behoeft de goedkeuring van de regeringen van de Bondsrepubliek Duitsland en van het Koninkrijk der Nederlanden. Zij treedt een maand na afwikkeling van de het laatst verleende goedkeuring bij die zijde in werking. Beide zijden stellen het tijdstip van de inwerkingtreding middels briefwisseling vast.
 

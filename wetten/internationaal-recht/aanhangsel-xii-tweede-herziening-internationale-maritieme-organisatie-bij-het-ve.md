@@ -1,20 +1,44 @@
 ---
 title: "Aanhangsel XII (tweede herziening): Internationale Maritieme Organisatie bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties"
 identifier: "BWBV0001583"
-categorie: "Internationaal recht"
-publicatiedatum: 2002-04-08
-laatste_update: 2002-04-08
-status: geldig
-bron: "https://wetten.overheid.nl/BWBV0001583"
+country: "nl"
+rank: "verdrag"
+publication_date: "2002-04-08"
+last_updated: "2002-04-08"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBV0001583"
+soort: "verdrag"
+stam_id: "10000605203"
+version_id: "10000654382"
+internal_id: "C10006994881"
+label_id: "10000605254"
+original_entry_into_force: "2002-04-08"
+toestand_uri: "http://wetten.overheid.nl/id/BWBV0001583/2002-04-08/0"
+intitule_bron: "Trb.2003-114"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2003-04-04"
+intitule_published: "2003-08-04"
+intitule_in_force: "2003-08-04"
+intitule_status: "goed"
+original_publication: "Trb.2003-114"
+original_signed_date: "2003-04-04"
+original_published_date: "2003-08-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "trb-2003-114"
+entry_into_force_date: "2002-04-08"
+jci_1_3: "jci1.3:c:BWBV0001583&z=2002-04-08&g=2002-04-08"
+jci_1_0: "1.0:c:BWBV0001583&g=2002-04-08"
+citeertitel_status: "redactioneel"
+signed_date: "2003-04-04"
+entry_into_force: "2002-04-08"
 ---
-
 # Aanhangsel XII (tweede herziening): Internationale Maritieme Organisatie bij het Verdrag nopens de voorrechten en immuniteiten van de gespecialiseerde organisaties
 
-#### 1
+##### 1
 
 De in artikel VI, paragraaf 21, van de standaardbepalingen genoemde voorrechten, immuniteiten, vrijstellingen en faciliteiten worden aan de Secretaris-Generaal van de Organisatie, aan de plaatsvervangend Secretaris-Generaal, aan de Secretaris van de Maritieme Veiligheidscommissie en aan de Directeuren van de Afdeling Administratie, de Afdeling Technische Samenwerking, de Afdeling Juridische Zaken en Externe Betrekkingen, de Afdeling Conferentie en de Afdeling Mariene Milieu toegekend, mits de bepalingen van dit lid van een Lid op het grondgebied waarvan de Organisatie haar Hoofdkwartier heeft niet eisen dat het artikel VI, paragraaf 21, van de standaardbepalingen toepast op personen die de nationaliteit van dat Lid bezitten. Indien de Organisatie op enig moment de benaming van de functie van een Directeur verandert, behoudt de persoon die op dat moment de functie bekleedt de in dit lid genoemde voorrechten, immuniteiten, vrijstellingen en faciliteiten.
 
-#### 2
+##### 2
 
 a). Deskundigen (behalve functionarissen vallend onder artikel VI) die zitting hebben in commissies van, of zendingen vervullen voor, de Organisatie worden de volgende voorrechten en immuniteiten toegekend voor zover deze noodzakelijk zijn voor een doeltreffende uitoefening van hun functies, met inbegrip van de tijd gebruikt voor reizen in verband met de uitoefening van hun functies in die commissies of het vervullen van die zendingen:
 

@@ -1,14 +1,38 @@
 ---
-title: "Wijzigingswet Wet algemene bepalingen milieuhygiëne (Wet milieubeheer)"
+title: "Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening; totstandkoming algemene maatregelen van bestuur)"
 identifier: "BWBR0005584"
-categorie: "Milieu"
-publicatiedatum: 1995-01-01
-laatste_update: 1995-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005584"
+country: "nl"
+rank: "wet"
+publication_date: "1995-01-01"
+last_updated: "1995-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005584"
+soort: "wet"
+stam_id: "520333"
+version_id: "762492"
+internal_id: "C762491"
+label_id: "505514"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005584/1995-01-01/0"
+intitule_bron: "Stb.1992-415"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-07-02"
+intitule_in_force: "1993-01-29"
+intitule_status: "goed"
+original_publication: "Stb.1992-415"
+original_signed_date: "1992-07-02"
+original_effect: "nieuwe-regeling"
+original_dossier: "21163"
+entry_into_force_date: "1993-03-01"
+jci_1_3: "jci1.3:c:BWBR0005584&z=1995-01-01&g=1995-01-01"
+jci_1_0: "1.0:c:BWBR0005584&g=1995-01-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingswet Wet algemene bepalingen milieuhygiëne (Wet milieubeheer)"
+signed_date: "1992-07-02"
+entry_into_force: "1993-03-01"
 ---
-
-# Wijzigingswet Wet algemene bepalingen milieuhygiëne (Wet milieubeheer)
+# Wet van 2 juli 1992, tot uitbreiding en wijziging van de Wet algemene bepalingen milieuhygiëne en daarmee samenhangende wijzigingen van andere wetten (milieubeleidsplanning en milieukwaliteitseisen; provinciale milieuverordening; totstandkoming algemene maatregelen van bestuur)
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,75 +40,75 @@ Alzo Wij in overweging genomen hebben, dat het met het oog op een doelmatige bes
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IV
+##### Artikel IV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel V
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VI
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel VIII
+##### Artikel VIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel IX
+##### Artikel IX
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel X
+##### Artikel X
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XI
+##### Artikel XI
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XII
+##### Artikel XII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIII
+##### Artikel XIII
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XIV
+##### Artikel XIV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XV
+##### Artikel XV
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVA
+##### Artikel XVA
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVB
+##### Artikel XVB
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel XVI
+##### Artikel XVI
 
 1. Het nationale milieubeleidsplan, bedoeld in [artikel 4.3 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=4.3), wordt uiterlijk in 1994 voor het eerst vastgesteld.
 
@@ -96,15 +120,15 @@ Bevat wijzigingen in andere regelgeving.
 
 5. Het gemeentelijke rioleringsplan, bedoeld in artikel 4.22 van die wet, wordt uiterlijk in 1993 voor het eerst vastgesteld.
 
-#### Artikel XVII
+##### Artikel XVII
 
 Vervallen
 
-#### Artikel XVIII
+##### Artikel XVIII
 
 Vervallen
 
-#### Artikel XIX
+##### Artikel XIX
 
 1. Provinciale verordeningen, vastgesteld krachtens [artikel 122 van de Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227&artikel=122) of [artikel 36](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=36) of [41 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=41), zoals deze luidden voor de inwerkingtreding van de desbetreffende onderdelen van deze wet, alsmede andere provinciale verordeningen in het onderwerp waarvan deze wet voorziet, blijven van kracht tot zij door een verordening op grond van [artikel 1.2 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=1.2) zijn vervangen, doch uiterlijk tot twee jaar na het tijdstip van inwerkingtreding van [artikel I, onderdeel B](https://wetten.overheid.nl/jci1.3:c:BWBR0005584&artikel=I&z=1995-01-01&g=1995-01-01), van deze wet. Voor zover provinciale verordeningen betrekking hebben op het onderwerp, geregeld in paragraaf 4.8 van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), en de daarin opgenomen bepalingen met die wet niet in strijd zijn, blijven zij van kracht tot twee jaar na het tijdstip van inwerkingtreding van [artikel I onderdeel A](https://wetten.overheid.nl/jci1.3:c:BWBR0005584&artikel=I&z=1995-01-01&g=1995-01-01), van deze wet.
 
@@ -120,15 +144,15 @@ Vervallen
 
 5. Algemene maatregelen van bestuur en ministeriële regelingen, vastgesteld krachtens [artikel 2 van de Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731&artikel=2), [artikel 13 van de Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682&artikel=13) en [artikel 20 van de Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994&artikel=20), zoals deze artikelen luidden voor het tijdstip van inwerkingtreding van de desbetreffende onderdelen van deze wet, worden gelijkgesteld met algemene maatregelen van bestuur, onderscheidenlijk ministeriële regelingen, vastgesteld krachtens artikel 5.1, onderscheidenlijk [artikel 5.4 van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=5.4).
 
-#### Artikel XX
+##### Artikel XX
 
 Vervallen
 
-#### Artikel XXI
+##### Artikel XXI
 
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.
 
-#### Artikel XXII
+##### Artikel XXII
 
 De tekst van de [Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245), de [Kernenergiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0002402), de Afvalstoffenwet, de [Wet geluidhinder](https://wetten.overheid.nl/jci1.3:c:BWBR0003227), de [Wet inzake de luchtverontreiniging](https://wetten.overheid.nl/jci1.3:c:BWBR0002731), de [Wet verontreiniging oppervlaktewateren](https://wetten.overheid.nl/jci1.3:c:BWBR0002682), de Wet chemische afvalstoffen, de Interimwet bodemsanering, de [Wet milieugevaarlijke stoffen](https://wetten.overheid.nl/jci1.3:c:BWBR0003892), en de [Wet bodembescherming](https://wetten.overheid.nl/jci1.3:c:BWBR0003994) wordt door Onze Minister van Justitie in het **Staatsblad** geplaatst.
 

@@ -1,16 +1,38 @@
 ---
 title: "Statuten Stichting Nederlands Letterenfonds"
 identifier: "BWBR0048363"
-categorie: "Overig"
-publicatiedatum: 2023-07-04
-laatste_update: 2023-07-04
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048363"
+country: "nl"
+rank: "zbo"
+publication_date: "2023-07-04"
+last_updated: "2023-07-04"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048363"
+soort: "zbo"
+stam_id: "16793313"
+version_id: "29501372"
+internal_id: "C42183721"
+label_id: "16708294"
+dtd_version: "2.0"
+original_entry_into_force: "2023-07-04"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048363/2023-07-04/0"
+intitule_bron: "Stcrt.2023-18352"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2023-07-04"
+intitule_in_force: "2023-07-04"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-18352"
+original_published_date: "2023-07-04"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2023-18352"
+entry_into_force_date: "2023-07-04"
+jci_1_3: "jci1.3:c:BWBR0048363&z=2023-07-04&g=2023-07-04"
+jci_1_0: "1.0:c:BWBR0048363&g=2023-07-04"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-07-04"
 ---
-
 # Statuten Stichting Nederlands Letterenfonds
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze statuten wordt verstaan onder:
 
@@ -28,13 +50,13 @@ In deze statuten wordt verstaan onder:
 
 - **‘hij’:**onder hij wordt tevens verstaan iedere andere genderaanduiding die door de betreffende persoon als geëigend wordt ervaren.
 
-#### Artikel 2. Naam en zetel
+##### Artikel 2. Naam en zetel
 
 1. De naam van de stichting is: Stichting Nederlands Letterenfonds.
 
 2. De stichting heeft haar zetel in de gemeente Amsterdam.
 
-#### Artikel 3. Doel en vermogen
+##### Artikel 3. Doel en vermogen
 
 1. De stichting heeft tot doel:
 
@@ -78,7 +100,7 @@ In deze statuten wordt verstaan onder:
 
 - –. de Fair Practice Code.
 
-#### Artikel 4. Organen van de stichting
+##### Artikel 4. Organen van de stichting
 
 De stichting kent de volgende organen:
 
@@ -88,7 +110,7 @@ De stichting kent de volgende organen:
 
 - c. het bureau, als bedoeld in [artikel 13](https://wetten.overheid.nl/jci1.3:c:BWBR0048363&artikel=13&z=2023-07-04&g=2023-07-04).
 
-#### Artikel 5. Bestuur: samenstelling, benoeming en ontslag
+##### Artikel 5. Bestuur: samenstelling, benoeming en ontslag
 
 1. Het bestuur bestaat uit een door de raad van toezicht vast te stellen aantal van ten minste één en ten hoogste twee natuurlijke personen. Een niet voltallig bestuur behoudt zijn bevoegdheden. In ontstane vacatures wordt zo spoedig mogelijk voorzien
 
@@ -124,7 +146,7 @@ De stichting kent de volgende organen:
 
 9. De raad van toezicht stelt de bezoldiging en verdere arbeidsvoorwaarden van de bestuurder(s) vast met inachtneming van de [Wet normering topinkomens](https://wetten.overheid.nl/jci1.3:c:BWBR0032249), of een daarvoor in de plaats getreden regeling.
 
-#### Artikel 6. Bestuur: taak en bevoegdheden
+##### Artikel 6. Bestuur: taak en bevoegdheden
 
 1. Het bestuur is belast met het besturen van de stichting en met het beheer van en de beschikking over het vermogen van de stichting binnen de grenzen van haar doel en onverminderd het bepaalde in [artikel 17](https://wetten.overheid.nl/jci1.3:c:BWBR0048363&artikel=17&z=2023-07-04&g=2023-07-04), en binnen de grenzen van een door de raad van toezicht goed te keuren bestuursreglement.
 
@@ -156,7 +178,7 @@ Bij de vervulling van haar taak richten de bestuurders zich naar het belang van 
 
 10. De plannen behoeven de goedkeuring van de raad van toezicht.
 
-#### Artikel 7. Bestuur: vertegenwoordiging; tegenstrijdig belang
+##### Artikel 7. Bestuur: vertegenwoordiging; tegenstrijdig belang
 
 1. Het bestuur vertegenwoordigt de stichting.
 
@@ -180,11 +202,11 @@ Een bestuurder neemt niet deel aan de beraadslaging en besluitvorming indien de 
 
 Wanneer hierdoor geen bestuursbesluit kan worden genomen, wordt het besluit genomen door de raad van toezicht.
 
-#### Artikel 8. Verstrekken van subsidie
+##### Artikel 8. Verstrekken van subsidie
 
 Het bestuur beslist over het verstrekken van subsidie of andere vormen van ondersteuning met inachtneming van een of meerdere reglementen met daarin de besluitvorming, de werkwijze, de procedures, de criteria voor het verstrekken van subsidies of andere vormen van ondersteuning en de verplichtingen die aan de ontvanger worden opgelegd als bedoeld in [artikel 15](https://wetten.overheid.nl/jci1.3:c:BWBR0048363&artikel=15&z=2023-07-04&g=2023-07-04).
 
-#### Artikel 9. Goedkeuring besluiten van het bestuur
+##### Artikel 9. Goedkeuring besluiten van het bestuur
 
 1. Onverminderd het elders in deze statuten bepaalde, zijn aan de goedkeuring van de raad van toezicht onderworpen de besluiten van het bestuur omtrent:
 
@@ -222,7 +244,7 @@ Het bestuur beslist over het verstrekken van subsidie of andere vormen van onder
 
 4. Het ontbreken van goedkeuring van de raad van toezicht voor een besluit als bedoeld in dit artikel, evenwel met uitzondering ten aanzien van het vervreemden, verkrijgen of bezwaren van registergoederen, tast de vertegenwoordigingsbevoegdheid van het bestuur niet aan.
 
-#### Artikel 10. Raad van toezicht
+##### Artikel 10. Raad van toezicht
 
 1. De stichting heeft een raad van toezicht bestaande uit minimaal vijf en maximaal zeven leden, waarvan de kosten ten laste komen van de stichting.
 
@@ -260,7 +282,7 @@ Ingeval van ontstentenis of belet van alle leden van de raad van toezicht is het
 
 Onder belet wordt in dit artikel in ieder geval verstaan de omstandigheid dat het lid van de raad van toezicht gedurende een periode van meer dan één maand onbereikbaar is door een ziekte of andere oorzaken.
 
-#### Artikel 11. Raad van toezicht: taak en bevoegdheden en besluitvorming
+##### Artikel 11. Raad van toezicht: taak en bevoegdheden en besluitvorming
 
 1. De raad van toezicht heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in de stichting. Hij staat het bestuur met raad terzijde. Bij de vervulling van hun taak richten de leden van de raad van toezicht zich naar het belang van de stichting.
 
@@ -298,7 +320,7 @@ Wanneer hierdoor geen besluit van de raad van toezicht zou kunnen worden genomen
 
 14. De raad van toezicht stelt in een reglement regels vast omtrent de besluitvorming en werkwijze van de raad van toezicht alsmede regels omtrent zijn bezoldiging, in aanvulling op hetgeen daaromtrent in deze statuten is bepaald.
 
-#### Artikel 12. Gemeenschappelijke vergadering van het bestuur en de leden van de raad van toezicht
+##### Artikel 12. Gemeenschappelijke vergadering van het bestuur en de leden van de raad van toezicht
 
 1. Ten minste vier maal per jaar komen het bestuur en de raad van toezicht in gemeenschappelijke vergadering bijeen ter bespreking van de algemene lijnen van het gevoerde en in de toekomst te voeren beleid.
 
@@ -306,17 +328,17 @@ Wanneer hierdoor geen besluit van de raad van toezicht zou kunnen worden genomen
 
 3. Tot bijeenroeping van een gemeenschappelijke vergadering zijn het bestuur en de voorzitter van de raad van toezicht gelijkelijk bevoegd.
 
-#### Artikel 13. Het Bureau
+##### Artikel 13. Het Bureau
 
 Het bestuur laat zich voor het verrichten van de dagelijkse werkzaamheden bijstaan door het personeel van het bureau, waarvan de kosten ten laste komen van de stichting. Dit personeel wordt door het bestuur benoemd, geschorst en ontslagen.
 
 Nadere regelen
 
-#### Artikel 14
+##### Artikel 14
 
 Ter uitvoering van het in deze statuten bepaalde stelt het bestuur een huishoudelijk reglement vast waarin in ieder geval wordt geregeld de benoeming, samenstelling en zittingstermijn van adviescolleges, alsmede de bezoldiging van adviescolleges.
 
-#### Artikel 15. Subsidiereglementen
+##### Artikel 15. Subsidiereglementen
 
 1. Ten behoeve van het verstrekken van subsidies stelt het bestuur één of meer subsidiereglementen vast waarin worden geregeld de werkwijze, de procedures en de criteria die het bestuur bij het beslissen op aanvragen voor bijdragen hanteert, alsmede de voorschriften die aan een toekenning van een subsidie worden verbonden.
 
@@ -328,7 +350,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt het bestuur een huishoude
 
 5. Het bestuur plaatst reglementen en wijzingen daarvan zo spoedig mogelijk na goedkeuring door de minister in de Staatscourant
 
-#### Artikel 16. Boekjaar en jaarrekening
+##### Artikel 16. Boekjaar en jaarrekening
 
 1. Het boekjaar van de stichting valt samen met het kalenderjaar.
 
@@ -350,7 +372,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt het bestuur een huishoude
 
 10. De op een gegevensdrager aangebrachte gegevens, uitgezonderd de op papier gestelde jaarrekening, kunnen op een andere gegevensdrager worden overgebracht en bewaard, mits de overbrenging geschiedt met juiste en volledige weergave der gegevens en deze gegevens gedurende de volledige bewaartijd beschikbaar zijn en binnen redelijke tijd leesbaar kunnen worden gemaakt.
 
-#### Artikel 17. Vaststelling en goedkeuring van de jaarrekening
+##### Artikel 17. Vaststelling en goedkeuring van de jaarrekening
 
 1. Het bestuur stelt de jaarrekening vast en legt deze ter goedkeuring over aan de raad van toezicht.
 
@@ -358,7 +380,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt het bestuur een huishoude
 
 3. Na goedkeuring van de jaarrekening besluit de raad van toezicht omtrent het verlenen van kwijting aan het bestuur voor de uitoefening van diens taak, voor zover van die taakuitoefening blijkt uit de jaarrekening of uit informatie die anderszins voorafgaand aan de vaststelling van de jaarrekening aan de raad van toezicht is verstrekt. De reikwijdte van een verleende kwijting is onderworpen aan beperkingen op grond van de wet.
 
-#### Artikel 18. Statutenwijziging
+##### Artikel 18. Statutenwijziging
 
 1. De raad van toezicht is bevoegd de statuten te wijzigen, nadat het bestuur daartoe een voorstel heeft gedaan. Het besluit tot statutenwijziging is onderworpen aan de voorafgaande schriftelijke goedkeuring van de minister.
 
@@ -372,7 +394,7 @@ Ter uitvoering van het in deze statuten bepaalde stelt het bestuur een huishoude
 
 6. Het bestuur doet van de statutenwijziging zo spoedig mogelijk mededeling in de Staatscourant.
 
-#### Artikel 19. Ontbinding en vereffening
+##### Artikel 19. Ontbinding en vereffening
 
 1. Het bestuur is bevoegd de stichting te ontbinden, doch niet eerder dan nadat voor dit besluit voorafgaande schriftelijke goedkeuring van de raad van toezicht en van de minister is ontvangen.
 

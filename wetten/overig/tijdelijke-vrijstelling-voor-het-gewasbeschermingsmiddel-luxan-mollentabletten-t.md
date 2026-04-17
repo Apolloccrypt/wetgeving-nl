@@ -1,13 +1,39 @@
 ---
-title: "Tijdelijke vrijstelling voor het gewasbeschermingsmiddel Luxan Mollentabletten ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 18 augustus 2015, 15115580, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bescherming van de teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen (Tijdelijke vrijstelling ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015)"
 identifier: "BWBR0036958"
-categorie: "Overig"
-publicatiedatum: 2015-12-15
-laatste_update: 2015-12-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036958"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2015-12-15"
+last_updated: "2015-12-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036958"
+soort: "ministeriele-regeling"
+stam_id: "13247713"
+version_id: "22659312"
+internal_id: "C32483741"
+label_id: "13215794"
+dtd_version: "2.0"
+original_entry_into_force: "2015-12-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036958/2015-12-15/0"
+intitule_bron: "Stcrt.2015-26350"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-08-18"
+intitule_published: "2015-08-20"
+intitule_in_force: "2015-08-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-26350"
+original_signed_date: "2015-08-18"
+original_published_date: "2015-08-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-26350"
+entry_into_force_date: "2015-12-15"
+jci_1_3: "jci1.3:c:BWBR0036958&z=2015-12-15&g=2015-12-15"
+jci_1_0: "1.0:c:BWBR0036958&g=2015-12-15"
+citeertitel_status: "officieel"
+short_title: "Tijdelijke vrijstelling voor het gewasbeschermingsmiddel Luxan Mollentabletten ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015"
+signed_date: "2015-08-18"
+entry_into_force: "2015-12-15"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 18 augustus 2015, 15115580, houdende tijdelijke vrijstelling op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden ter bescherming van de teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen (Tijdelijke vrijstelling ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015)
 
 Handelende in overeenstemming met de Staatssecretaris van Infrastructuur en Milieu;
@@ -16,19 +42,19 @@ Gelet op [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](https://w
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 Tijdelijke vrijstelling als bedoeld in [artikel 38 van de Wet gewasbeschermingsmiddelen](https://wetten.overheid.nl/jci1.3:c:BWBR0021670&artikel=38) en biociden en artikel 53 van [Verordening (EG) nr. 1107/2009](32009R1107) wordt verleend voor het gebruik van het gewasbeschermingsmiddel Luxan Mollentabletten (**8717N**) ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en de overige wortel- en knolgewassen.
 
-#### Artikel 2
+##### Artikel 2
 
 De vrijstelling is slechts van toepassing bij naleving van de gebruiksvoorschriften in de bijlage bij dit besluit.
 
-#### Artikel 3
+##### Artikel 3
 
 Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt na 120 dagen, doch uiterlijk op 15 december 2015.
 
-#### Artikel 4
+##### Artikel 4
 
 Dit besluit wordt aangehaald als: (Tijdelijke vrijstelling voor het gewasbeschermingsmiddel Luxan Mollentabletten ter bescherming van de onbedekte teelt van wintergraan, graszaad, aardappelen, koolgewassen, wortelen en overige wortel- en knolgewassen 2015).
 

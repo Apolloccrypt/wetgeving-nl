@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten"
+title: "Besluit van de Staatssecretaris van Economische Zaken van 22 april 2015, nr. WJZ/14173439 tot instelling van de Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten (Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten)"
 identifier: "BWBR0036569"
-categorie: "Overig"
-publicatiedatum: 2019-01-05
-laatste_update: 2019-01-05
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0036569"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2019-01-05"
+last_updated: "2019-01-05"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0036569"
+soort: "ministeriele-regeling"
+stam_id: "13146663"
+version_id: "22407152"
+internal_id: "C32152841"
+label_id: "13115324"
+dtd_version: "2.0"
+original_entry_into_force: "2015-05-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0036569/2019-01-05/0"
+intitule_bron: "Stcrt.2015-12089"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2015-04-22"
+intitule_published: "2015-04-30"
+intitule_in_force: "2015-04-30"
+intitule_status: "goed"
+original_publication: "Stcrt.2015-12089"
+original_signed_date: "2015-04-22"
+original_published_date: "2015-04-30"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2015-12089"
+entry_into_force_date: "2015-05-01"
+jci_1_3: "jci1.3:c:BWBR0036569&z=2019-01-05&g=2019-01-05"
+jci_1_0: "1.0:c:BWBR0036569&g=2019-01-05"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten"
+signed_date: "2015-04-22"
+entry_into_force: "2015-05-01"
 ---
-
 # Besluit van de Staatssecretaris van Economische Zaken van 22 april 2015, nr. WJZ/14173439 tot instelling van de Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten (Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten)
 
 Gelet op [artikel 2, eerste lid, van de Wet vergoedingen adviescolleges en commissies](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2) en artikel 4, derde lid, van het Convenant onbedwelmd slachten volgens religieuze riten;
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 In dit besluit wordt verstaan onder:
 
@@ -24,13 +50,13 @@ In dit besluit wordt verstaan onder:
 
 - c. **convenant:** het Convenant onbedwelmd slachten volgens religieuze riten van 5 juni 2012 (Stcrt. 2012, 13162).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Er is een Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten.
 
 2. De commissie heeft tot taak de minister en de convenantspartijen te adviseren op basis van de onderzoeksresultaten van wetenschappers en instituten, bedoeld in artikel 4, vijfde lid, van het convenant.
 
-#### Artikel 3
+##### Artikel 3
 
 1. De commissie bestaat uit een voorzitter en ten minste twee en ten hoogste vijf andere leden.
 
@@ -42,7 +68,7 @@ In dit besluit wordt verstaan onder:
 
 5. De minister kan gastdeskundigen benoemen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De commissie stelt haar eigen werkwijze schriftelijk vast.
 
@@ -54,13 +80,13 @@ In dit besluit wordt verstaan onder:
 
 5. De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De voorzitter van de commissie ontvangt een vergoeding per vergadering van € 373,–.
 
 2. De andere leden van de commissie en de gastdeskundigen ontvangen een vergoeding per vergadering van € 287,–.
 
-#### Artikel 6
+##### Artikel 6
 
 Te rekenen vanaf 1 januari 2015 worden voor een periode van twee jaar tot lid van de commissie benoemd:
 
@@ -74,11 +100,11 @@ Te rekenen vanaf 1 januari 2015 worden voor een periode van twee jaar tot lid va
 
 - e. mevrouw dr. E. Peeters, te Bornem (B).
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2015.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Wetenschappelijke Adviescommissie Convenant Onbedwelmd Ritueel Slachten.
 

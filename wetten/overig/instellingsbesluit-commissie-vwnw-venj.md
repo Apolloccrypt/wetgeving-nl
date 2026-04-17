@@ -1,20 +1,46 @@
 ---
-title: "Instellingsbesluit Commissie VWNW VenJ"
+title: "Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 10 september 2014, kenmerk DP&O/14/545670, houdende instelling van de Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie (Instellingsbesluit Commissie VWNW VenJ)"
 identifier: "BWBR0035544"
-categorie: "Overig"
-publicatiedatum: 2014-09-18
-laatste_update: 2014-09-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0035544"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-09-18"
+last_updated: "2014-09-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0035544"
+soort: "ministeriele-regeling"
+stam_id: "12797823"
+version_id: "21728982"
+internal_id: "C31173891"
+label_id: "12767564"
+dtd_version: "2.0"
+original_entry_into_force: "2014-09-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0035544/2014-09-18/0"
+intitule_bron: "Stcrt.2014-25985"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-09-10"
+intitule_published: "2014-09-17"
+intitule_in_force: "2014-09-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-25985"
+original_signed_date: "2014-09-10"
+original_published_date: "2014-09-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-25985"
+entry_into_force_date: "2014-09-18"
+jci_1_3: "jci1.3:c:BWBR0035544&z=2014-09-18&g=2014-09-18"
+jci_1_0: "1.0:c:BWBR0035544&g=2014-09-18"
+citeertitel_status: "officieel"
+short_title: "Instellingsbesluit Commissie VWNW VenJ"
+signed_date: "2014-09-10"
+entry_into_force: "2014-09-18"
 ---
-
 # Besluit van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 10 september 2014, kenmerk DP&O/14/545670, houdende instelling van de Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie (Instellingsbesluit Commissie VWNW VenJ)
 
 Gehoord hebbende de centrales van overheidspersoneel,
 
 Besluit:
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In dit besluit wordt verstaan onder:
 
@@ -26,11 +52,11 @@ In dit besluit wordt verstaan onder:
 
 - d. **Minister:** Minister van Veiligheid en Justitie.
 
-#### Artikel 2. Instelling
+##### Artikel 2. Instelling
 
 Er is een Commissie Van Werk Naar Werk Ministerie van Veiligheid en Justitie, hierna te noemen: Commissie.
 
-#### Artikel 3. Taak
+##### Artikel 3. Taak
 
 De Commissie heeft tot taak:
 
@@ -48,7 +74,7 @@ De Commissie heeft tot taak:
 
 - v. bij de commissie gemelde knelpunten.
 
-#### Artikel 4. Samenstelling, benoeming en ontslag
+##### Artikel 4. Samenstelling, benoeming en ontslag
 
 1. De Commissie bestaat uit een voorzitter en ten hoogste zes andere leden. Ten minste de helft van de andere leden van de Commissie bestaat uit vertegenwoordigers van de centrales van overheidspersoneel.
 
@@ -60,7 +86,7 @@ De Commissie heeft tot taak:
 
 5. Bij tussentijds vertrek van een lid van de Commissie kan de Minister, op voordracht van de voorzitter, een nieuw lid benoemen.
 
-#### Artikel 5. Leden
+##### Artikel 5. Leden
 
 1. De commissie bestaat uit de volgende leden:
 
@@ -86,7 +112,7 @@ Op voordracht van werknemerszijde, namens de centrales van overheidspersoneel:
 
 3. De benoeming van de leden geschiedt voor de duur van de overeenkomst Sociaal Beleid Rijk: Van Werk Naar Werk beleid.
 
-#### Artikel 6. Secretariaat
+##### Artikel 6. Secretariaat
 
 1. De Commissie heeft een secretaris.
 
@@ -96,13 +122,13 @@ Op voordracht van werknemerszijde, namens de centrales van overheidspersoneel:
 
 4. De Minister draagt, na overleg met de voorzitter en de secretaris, zorg voor de nodige voorzieningen ten behoeve van de werkzaamheden van de Commissie.
 
-#### Artikel 7. Werkwijze
+##### Artikel 7. Werkwijze
 
 1. De Commissie stelt haar eigen werkwijze vast.
 
 2. De Commissie kan zich op onderdelen van haar taak laten bijstaan door personen van wie de deskundige inbreng van belang kan zijn voor de uitvoering van haar taken.
 
-#### Artikel 8. Rapport
+##### Artikel 8. Rapport
 
 1. De Commissie brengt tweemaal per jaar en desgevraagd tussentijds een rapport uit aan het Sectoroverleg Rijk.
 
@@ -110,7 +136,7 @@ Op voordracht van werknemerszijde, namens de centrales van overheidspersoneel:
 
 3. Indien onvoorziene omstandigheden naar het oordeel van de Commissie in de weg staan aan het tijdig uitbrengen van het rapport, dan stelt zij het Sectoroverleg Rijk daarvan op de hoogte.
 
-#### Artikel 9. Vergoedingen
+##### Artikel 9. Vergoedingen
 
 1. De voorzitter en de andere leden ontvangen per vergadering een vergoeding, voor zover zij niet vallen onder de uitzondering van [artikel 2, derde lid, van de Wet vergoedingen adviescolleges](https://wetten.overheid.nl/jci1.3:c:BWBR0024775&artikel=2).
 
@@ -120,11 +146,11 @@ Op voordracht van werknemerszijde, namens de centrales van overheidspersoneel:
 
 4. De vergoeding per vergadering van de voorzitter bedraagt € 285.
 
-#### Artikel 10. Inwerkingtreding
+##### Artikel 10. Inwerkingtreding
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 15 april 2013, behalve voor zover het betreft [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0035544&artikel=8&z=2014-09-18&g=2014-09-18) van dit besluit.
 
-#### Artikel 11. Citeertitel
+##### Artikel 11. Citeertitel
 
 Dit besluit wordt aangehaald als: Instellingsbesluit Commissie VWNW VenJ.
 

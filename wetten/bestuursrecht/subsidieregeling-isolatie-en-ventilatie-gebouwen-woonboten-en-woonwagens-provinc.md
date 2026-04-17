@@ -1,13 +1,39 @@
 ---
-title: "Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo"
+title: "Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 27 mei 2025, nr. 2025-0000045420, houdende de vaststelling van subsidieregels voor isolatie en ventilatie van gebouwen, woonboten en woonwagens in de provincie Groningen en de gemeenten Aa en Hunze, Tynaarlo en Noordenveld (Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo)"
 identifier: "BWBR0051079"
-categorie: "Bestuursrecht"
-publicatiedatum: 2025-12-24
-laatste_update: 2025-12-24
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0051079"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2025-12-24"
+last_updated: "2025-12-24"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0051079"
+soort: "ministeriele-regeling"
+stam_id: "17440183"
+version_id: "30752002"
+internal_id: "C44079981"
+label_id: "17343244"
+dtd_version: "2.0"
+original_entry_into_force: "2025-06-03"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0051079/2025-12-24/0"
+intitule_bron: "Stcrt.2025-18441"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2025-05-27"
+intitule_published: "2025-06-02"
+intitule_in_force: "2025-06-02"
+intitule_status: "goed"
+original_publication: "Stcrt.2025-18441"
+original_signed_date: "2025-05-27"
+original_published_date: "2025-06-02"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2025-18441"
+entry_into_force_date: "2025-06-03"
+jci_1_3: "jci1.3:c:BWBR0051079&z=2025-12-24&g=2025-12-24"
+jci_1_0: "1.0:c:BWBR0051079&g=2025-12-24"
+citeertitel_status: "officieel"
+short_title: "Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo"
+signed_date: "2025-05-27"
+entry_into_force: "2025-06-03"
 ---
-
 # Regeling van de Minister van Volkshuisvesting en Ruimtelijke Ordening van 27 mei 2025, nr. 2025-0000045420, houdende de vaststelling van subsidieregels voor isolatie en ventilatie van gebouwen, woonboten en woonwagens in de provincie Groningen en de gemeenten Aa en Hunze, Tynaarlo en Noordenveld (Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo)
 
 Gelet op de [artikelen 6, aanhef en vijfde lid, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=6), [8, eerste en tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=8), [9, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=9), [11, derde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=11), [14](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=14) en [20 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=20) en [artikel 4, eerste lid, onderdelen a, b, c, f en m, van de Kaderwet overige BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0019756&artikel=4);
@@ -16,7 +42,7 @@ Besluit:
 
 ### Hoofdstuk 1. Algemene bepalingen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze regeling wordt verstaan onder:
 
@@ -114,19 +140,19 @@ In deze regeling wordt verstaan onder:
 
 - **woonvereniging:** vereniging die eigenaar is van één of meer gebouwen en waarvan de leden het recht hebben om in een bepaalde woning die deel uitmaakt van dat gebouw of die gebouwen te wonen.
 
-#### Artikel 2. Doel en doelgroep
+##### Artikel 2. Doel en doelgroep
 
 1. Deze regeling heeft tot doel verduurzaming van gebouwen, woonboten en woonwagens in de provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo te stimuleren door middel van het verstrekken van subsidie aan de doelgroep, bedoeld in het tweede lid.
 
 2. De doelgroep van deze regeling zijn woningeigenaars, eigenaar-bewoners, verhuurders, wooncoöperaties, woonverenigingen, VvE’s en woningcorporaties met een minderheid van het totaal aantal gebouwen in een gemengde VvE, die eigenaar zijn van of opgericht zijn voor een gebouw, woonboot of woonwagen in de provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo.
 
-#### Artikel 3. Staatssteun
+##### Artikel 3. Staatssteun
 
 1. Bij de verstrekking van een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-12-24&g=2025-12-24) van deze regeling, wordt toepassing gegeven aan de de-minimisverordening.
 
 2. Bij de verstrekking van een subsidie op grond van [hoofdstuk 3](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&z=2025-12-24&g=2025-12-24) van deze regeling, wordt toepassing gegeven aan hoofdstukken I en II en artikel 38bis, leden 11, 14 tot en met 16, van de algemene groepsvrijstellingsverordening of de de-minimisverordening.
 
-#### Artikel 4. Activiteiten
+##### Artikel 4. Activiteiten
 
 1. De minister verstrekt op aanvraag van een woningeigenaar, eigenaar-bewoner, het bestuur van een VvE, verhuurder, bestuur van een wooncoöperatie of bestuur van een woonvereniging die behoort tot de doelgroep uit [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=2&z=2025-12-24&g=2025-12-24), subsidie voor de volgende activiteiten:
 
@@ -186,7 +212,7 @@ In deze regeling wordt verstaan onder:
 
 4. Doe-het-zelvers kunnen subsidie aanvragen voor de maatregelen die zijn opgenomen in de isolatie- en ventilatiemaatregelencatalogus voor doe-het-zelf. Andere aanvragers kunnen subsidie aanvragen voor de maatregelen die zijn opgenomen in de isolatie- en ventilatiemaatregelencatalogus.
 
-#### Artikel 5. Subsidieplafond, voorschot en rangschikking van de aanvragen
+##### Artikel 5. Subsidieplafond, voorschot en rangschikking van de aanvragen
 
 1. Het subsidieplafond bedraagt:
 
@@ -212,7 +238,7 @@ In deze regeling wordt verstaan onder:
 
 6. Indien gedurende een kalenderjaar voortijdig het subsidieplafond wordt bereikt, worden de aanvragen aan een wachtlijst toegevoegd om in aanmerking te komen voor een subsidie op grond van deze regeling in het daaropvolgende jaar en op 1 januari van het nieuwe jaar op volgorde van binnenkomst in behandeling genomen. De beslistermijn wordt dienovereenkomstig verlengd. Dit is niet van toepassing op het laatste subsidiejaar.
 
-#### Artikel 6. Uitbetaling van de subsidie
+##### Artikel 6. Uitbetaling van de subsidie
 
 1. De subsidie wordt uitbetaald aan de aanvrager, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-12-24&g=2025-12-24), indien het een subsidie op grond van [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&z=2025-12-24&g=2025-12-24) van deze regeling betreft, of een subsidie op grond van [artikel 13, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-12-24&g=2025-12-24), of [artikel 17, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-12-24&g=2025-12-24), of indien de aanvrager een doe-het-zelver is.
 
@@ -224,7 +250,7 @@ In deze regeling wordt verstaan onder:
 
 - c. het branchegerelateerd bedrijf dat de isolatie- en ventilatiemaatregelen waarvoor subsidie wordt verstrekt zal gaan uitvoeren of al dan niet deels heeft uitgevoerd, indien de factuur van deze maatregelen nog niet door de aanvrager, het Warmtefonds of de gemeente is betaald.
 
-#### Artikel 7. Voorwaarden
+##### Artikel 7. Voorwaarden
 
 1. Alleen de isolatie- en ventilatiemaatregelen die binnen de bestaande thermische schil vallen zijn subsidiabel, uitgaande van de situatie tot 25 april 2023.
 
@@ -262,7 +288,7 @@ In deze regeling wordt verstaan onder:
 
 18. Een eigenaar-bewoner in een VvE kan individueel een subsidie aanvragen voor de uit te voeren of uitgevoerde isolatie- en ventilatiemaatregelen aan delen van het gebouw die volgens de akte van splitsing bestemd zijn als afzonderlijk geheel te worden gebruikt.
 
-#### Artikel 8. Subsidieaanvraag met isolatieplan en voorwaarden isolatieplan
+##### Artikel 8. Subsidieaanvraag met isolatieplan en voorwaarden isolatieplan
 
 1. Indien het totaal aan kosten van de isolatie- en ventilatiemaatregelen van een aanvraag meer dan € 10.000 bedraagt of eerder op grond van deze regeling subsidie is verstrekt en het aangevraagde bedrag uit de nieuwe aanvraag, opgeteld bij het bedrag dat is toegekend op basis van de eerdere aanvraag, hoger is dan € 10.000, overlegt de aanvrager alsnog bij de aanvraag voor subsidie een isolatieplan ook al was dit oorspronkelijk niet verplicht.
 
@@ -284,7 +310,7 @@ In deze regeling wordt verstaan onder:
 
 8. Bij het treffen van isolatie- en ventilatiemaatregelen voor een bepaald onderdeel van de thermische schil op grond van deze regeling mag worden afgeweken van het isolatieplan, mits de maatregel wordt genomen voor hetzelfde onderdeel ervan en voldoet aan de doelwaarde voor isolatie. De maximale subsidiebedragen die voor deze maatregelen in het isolatieplan zijn opgenomen blijven gelden.
 
-#### Artikel 9. Subsidieaanvraag zonder isolatieplan
+##### Artikel 9. Subsidieaanvraag zonder isolatieplan
 
 1. Er hoeft geen isolatieplan te worden overgelegd bij de aanvraag voor subsidie op grond van deze regeling voor een isolatie- of ventilatiemaatregel, indien aan de volgende voorwaarden is voldaan:
 
@@ -328,7 +354,7 @@ In deze regeling wordt verstaan onder:
 
 5. Er hoeft geen isolatieplan te worden overgelegd indien het een subsidieaanvraag van een woningeigenaar of eigenaar-bewoner betreft waarbij toepassing wordt gegeven aan [artikel 17, derde lid, aanhef en onderdelen c en e](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-12-24&g=2025-12-24).
 
-#### Artikel 10. Gegevensuitwisseling
+##### Artikel 10. Gegevensuitwisseling
 
 1. Voor zover noodzakelijk voor de bepaling van het recht op subsidie, de subsidiehoogte en om dubbele subsidie te voorkomen op grond van deze regeling kunnen uitsluitend de volgende gegevens worden uitgewisseld tussen de minister, de provincies Groningen en Drenthe, de gemeenten, ontzorgende partijen die in opdracht van een gemeente subsidieaanvragers begeleiden en ondersteunen, de Minister van Binnenlandse Zaken en Koninkrijksrelaties, de Minister van Klimaat en Groene Groei en het Nationaal Warmtefonds:
 
@@ -358,7 +384,7 @@ In deze regeling wordt verstaan onder:
 
 ### Hoofdstuk 2. Subsidiabele activiteiten waartoe opdracht is verstrekt of die door een doe-het-zelver zijn gestart vanaf 25 april 2023 en vóór de datum van inwerkingtreding van deze regeling
 
-#### Artikel 11. Aanvraag tot subsidievaststelling
+##### Artikel 11. Aanvraag tot subsidievaststelling
 
 1. Een aanvraag tot vaststelling van de subsidie kan door een aanvrager van 3 juni 2025 vanaf 12.00 uur tot en met 1 oktober 2026 17.00 uur worden ingediend, indien vanaf 25 april 2023 en vóór 3 juni 2025 een opdracht is verstrekt tot uitvoering van de subsidiabele activiteiten of die door een doe-het-zelver zijn gestart. In afwijking van de vorige zin geldt voor het vervangen van bestaand glas door HR++-glas met nieuwe kozijnen, of het vervangen van een vloer, gevel of dak dat de opdracht moet zijn verstrekt of, in het geval van een doe-het-zelver, de uitvoering daarvan moet zijn gestart vanaf 25 april 2023 en vóór 10 maart 2025.
 
@@ -408,11 +434,11 @@ In deze regeling wordt verstaan onder:
 
 4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 13, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=2&artikel=13&z=2025-12-24&g=2025-12-24), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, is ingediend.
 
-#### Artikel 12. Afwijzingsgronden
+##### Artikel 12. Afwijzingsgronden
 
 Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=12) en [13 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13) wijst de minister een aanvraag voor een subsidie af voor zover op grond van deze regeling de subsidiabele kosten voor meer dan 100% zouden worden gesubsidieerd vanwege samenloop met subsidie die is verstrekt aan de aanvrager voor dezelfde isolatie- en ventilatiemaatregelen op grond van de ISDE, [SVOH](https://wetten.overheid.nl/jci1.3:c:BWBR0046234), [SVVE](https://wetten.overheid.nl/jci1.3:c:BWBR0047596) of een andere subsidieregeling.
 
-#### Artikel 13. Subsidiehoogte
+##### Artikel 13. Subsidiehoogte
 
 1. De subsidiehoogte voor de uitgevoerde isolatie- en ventilatiemaatregelen waartoe een aanvraag op grond van deze regeling is ingediend, wordt bepaald op basis van bij de aanvraag aangeleverde facturen en betaalbewijzen, met uitzondering van aanvragen van doe-het-zelvers, waarbij de subsidiehoogte wordt bepaald op basis van de in de isolatie- en ventilatiemaatregelencatalogus voor doe-het-zelf bepaalde eenheidsprijzen.
 
@@ -466,13 +492,13 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 5. Als een subsidie is toegekend aan het bestuur van een VvE, het bestuur van een wooncoöperatie of het bestuur van een woonvereniging, dan wordt het subsidiebedrag toegewezen per gebouw op basis van de door het bestuur van een VvE, wooncoöperatie of woonvereniging bij de aanvraag aangeleverde verdeelsleutel. Dat per gebouw toegewezen bedrag wordt in mindering gebracht op het voor de betreffende doelgroep geldende maximumbedrag uit het tweede en vierde lid.
 
-#### Artikel 14. Verplichtingen
+##### Artikel 14. Verplichtingen
 
 De subsidieontvanger bewaart gedurende vijf jaar de facturen en betaalbewijzen van de gesubsidieerde activiteiten, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=4&z=2025-12-24&g=2025-12-24), gerekend vanaf de dag na de verzenddatum van de beschikking tot subsidievaststelling.
 
 ### Hoofdstuk 3. Subsidiabele activiteiten waartoe opdracht is verstrekt of die door een doe-het-zelver zijn gestart vanaf de datum van inwerkingtreding van deze regeling
 
-#### Artikel 15. Aanvraag tot subsidieverlening
+##### Artikel 15. Aanvraag tot subsidieverlening
 
 1. Indien vanaf de datum van inwerkingtreding van deze regeling een opdracht is verstrekt tot uitvoering van de subsidiabele activiteiten of, in het geval van een doe-het-zelver, de uitvoering daarvan is gestart, kan een aanvraag tot verlening van de subsidie door een aanvrager worden ingediend vanaf het moment, bedoeld in [bijlage I](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&bijlage=I&z=2025-12-24&g=2025-12-24), op basis van de postcode waartoe het gebouw, de woonboot of woonwagen van de aanvrager behoort tot en met 3 juni 2035.
 
@@ -524,11 +550,11 @@ De subsidieontvanger bewaart gedurende vijf jaar de facturen en betaalbewijzen v
 
 4. Een aanvraag tot vaststelling van de aanvullende subsidie, bedoeld in [artikel 17, vierde lid, onderdeel a of b](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=17&z=2025-12-24&g=2025-12-24), kan door een aanvrager worden ingediend tegelijk met of nadat de aanvraag, bedoeld in het eerste lid, of de aanvraag, bedoeld in [artikel 19, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=19&z=2025-12-24&g=2025-12-24), is ingediend.
 
-#### Artikel 16. Afwijzingsgronden
+##### Artikel 16. Afwijzingsgronden
 
 Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=12) en [13 van het Kaderbesluit BZK-subsidies](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&artikel=13) wijst de minister een aanvraag voor een subsidie af voor zover op grond van deze regeling de subsidiabele kosten voor meer dan 100% zouden worden gesubsidieerd vanwege samenloop met subsidie die is verstrekt aan de aanvrager voor dezelfde isolatie- en ventilatiemaatregelen op grond van de ISDE, [SVOH](https://wetten.overheid.nl/jci1.3:c:BWBR0046234), [SVVE](https://wetten.overheid.nl/jci1.3:c:BWBR0047596) of een andere subsidieregeling.
 
-#### Artikel 17. Subsidiehoogte
+##### Artikel 17. Subsidiehoogte
 
 1. De subsidiehoogte voor het nemen van isolatie- en ventilatiemaatregelen waartoe een aanvraag op grond van deze regeling is ingediend, wordt bepaald op basis van de in de isolatie- en ventilatiemaatregelencatalogus bepaalde eenheidsprijzen, of, in het geval van een aanvraag van een doe-het-zelver, op basis van de in de isolatie- en ventilatiemaatregelencatalogus voor doe-het-zelf bepaalde eenheidsprijzen, of, indien de kosten van de uitgevoerde isolatie- en ventilatiemaatregelen lager zijn, op basis van bij de aanvraag tot subsidieverlening of de aanvraag tot subsidievaststelling aangeleverde facturen en betaalbewijzen.
 
@@ -622,7 +648,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 - 10°. indien sprake is van een karakteristiek, beeldbepalend dan wel beeldondersteunend gebouw, het vervangen van glas door HR++-glas, dan wel het vervangen van glas door vacuümglas indien HR++-glas niet toegepast kan worden: ten hoogste 45 vierkante meter.
 
-#### Artikel 18. Verplichtingen
+##### Artikel 18. Verplichtingen
 
 1. De aanvrager voltooit de uitvoering van de gesubsidieerde activiteiten binnen vierentwintig maanden, gerekend vanaf de dag na de verzenddatum van de beschikking tot subsidieverlening.
 
@@ -632,7 +658,7 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 4. De aanvrager laat maatregelen alleen uitvoeren door een branchegerelateerd bedrijf indien dit bedrijf zich heeft gecommitteerd aan de isolatie- en ventilatiemaatregelencatalogus. Dat bedrijf hanteert maximaal de in die catalogus genoemde bedragen voor het uitvoeren van de maatregelen.
 
-#### Artikel 19. Aanvraag tot subsidievaststelling
+##### Artikel 19. Aanvraag tot subsidievaststelling
 
 1. Een subsidieontvanger dient binnen 6 maanden na het verstrijken van de uitvoeringstermijn, bedoeld in [artikel 18, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=3&artikel=18&z=2025-12-24&g=2025-12-24), een aanvraag tot subsidievaststelling in, die ten minste de volgende gegevens bevat:
 
@@ -660,23 +686,23 @@ Onverminderd de [artikelen 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033530&a
 
 ### Hoofdstuk 4. Slotbepalingen
 
-#### Artikel 20. Verantwoording
+##### Artikel 20. Verantwoording
 
 Op verzoek van de minister verleent de aanvrager medewerking en verstrekt deze informatie ten behoeve van de voortgang en evaluatie van de doelmatigheid en doeltreffendheid van deze regeling.
 
-#### Artikel 21. Evaluatie
+##### Artikel 21. Evaluatie
 
 De minister zendt binnen één jaar na de inwerkingtreding van deze regeling aan de Staten-Generaal een verslag over de doeltreffendheid en de doelmatigheid van deze regeling.
 
-#### Artikel 22. Inwerkingtreding
+##### Artikel 22. Inwerkingtreding
 
 Deze regeling treedt in werking met ingang van 3 juni 2025.
 
-#### Artikel 23. Vervaltermijn
+##### Artikel 23. Vervaltermijn
 
 Deze regeling vervalt met ingang van 3 juni 2035, met dien verstande dat deze van toepassing blijft op aanvragen om subsidies die voor deze datum zijn ingediend.
 
-#### Artikel 24. Citeertitel
+##### Artikel 24. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling isolatie en ventilatie gebouwen, woonboten en woonwagens provincie Groningen en de gemeenten Aa en Hunze, Noordenveld en Tynaarlo.
 
@@ -690,7 +716,7 @@ Deze regeling wordt aangehaald als: Subsidieregeling isolatie en ventilatie gebo
 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
-#### Artikel 5a. Beslistermijn
+##### Artikel 5a. Beslistermijn
 
 1. De minister beslist binnen dertien weken nadat een aanvraag voor subsidie door een woningeigenaar, eigenaar-bewoner, verhuurder, bestuur van een wooncoöperatie, bestuur van een woonvereniging, bestuur van een VvE of een woningcorporatie met een minderheid van het totaal aantal gebouwen in een gemengde VvE, behorende tot de doelgroep, bedoeld in [artikel 2, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0051079&hoofdstuk=1&artikel=2&z=2025-12-24&g=2025-12-24), is ingediend.
 

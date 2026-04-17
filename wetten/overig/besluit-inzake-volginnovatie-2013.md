@@ -1,13 +1,39 @@
 ---
-title: "Besluit inzake volginnovatie 2013"
+title: "Besluit van de Minister van Economische Zaken van 20 januari 2014 inzake volginnovatie 2013"
 identifier: "BWBR0034712"
-categorie: "Overig"
-publicatiedatum: 2014-01-28
-laatste_update: 2014-01-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0034712"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2014-01-28"
+last_updated: "2014-01-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0034712"
+soort: "ministeriele-regeling"
+stam_id: "12562263"
+version_id: "21200262"
+internal_id: "C30433691"
+label_id: "12532724"
+dtd_version: "2.0"
+original_entry_into_force: "2014-01-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0034712/2014-01-28/0"
+intitule_bron: "Stcrt.2014-2252"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2014-01-20"
+intitule_published: "2014-01-27"
+intitule_in_force: "2014-01-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2014-2252"
+original_signed_date: "2014-01-20"
+original_published_date: "2014-01-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2014-2252"
+entry_into_force_date: "2014-01-28"
+jci_1_3: "jci1.3:c:BWBR0034712&z=2014-01-28&g=2014-01-28"
+jci_1_0: "1.0:c:BWBR0034712&g=2014-01-28"
+citeertitel_status: "redactioneel"
+short_title: "Besluit inzake volginnovatie 2013"
+signed_date: "2014-01-20"
+entry_into_force: "2014-01-28"
 ---
-
 # Besluit van de Minister van Economische Zaken van 20 januari 2014 inzake volginnovatie 2013
 
 Gelet op [titel 4.2 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&titeldeel=4.2);
@@ -98,7 +124,7 @@ Gelet op de [artikelen 8](https://wetten.overheid.nl/jci1.3:c:BWBR0005252&artike
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Op grond van het vorenstaande worden van alle verleende innovatiegelden in het kader van de uitvoering van bovengenoemde regelingen, de gegevens gepubliceerd met betrekking tot:
 
@@ -130,7 +156,7 @@ De gegevens worden niet eerder dan drie weken na de bekendmaking van deze beslis
 
 2. De gegevens, bedoeld in het eerste lid, hebben uitsluitend betrekking op rechtspersonen.
 
-#### Artikel 2
+##### Artikel 2
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.
 

@@ -1,13 +1,37 @@
 ---
 title: "Procedureregels bij de benoeming van een commissaris van de Koningin"
 identifier: "BWBR0012684"
-categorie: "Bestuursrecht"
-publicatiedatum: 2001-08-01
-laatste_update: 2001-08-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0012684"
+country: "nl"
+rank: "circulaire"
+publication_date: "2001-08-01"
+last_updated: "2001-08-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0012684"
+soort: "circulaire"
+stam_id: "6266393"
+version_id: "10949182"
+internal_id: "C14844841"
+label_id: "6255214"
+original_entry_into_force: "2001-08-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0012684/2001-08-01/0"
+intitule_bron: "Stcrt.2001-145"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2001-07-12"
+intitule_published: "2001-07-31"
+intitule_in_force: "2001-07-31"
+intitule_status: "goed"
+original_publication: "Stcrt.2001-145"
+original_signed_date: "2001-07-12"
+original_published_date: "2001-07-31"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2001-145-p5-SC30323"
+entry_into_force_date: "2001-08-01"
+jci_1_3: "jci1.3:c:BWBR0012684&z=2001-08-01&g=2001-08-01"
+jci_1_0: "1.0:c:BWBR0012684&g=2001-08-01"
+citeertitel_status: "redactioneel"
+signed_date: "2001-07-12"
+entry_into_force: "2001-08-01"
 ---
-
 # Procedureregels bij de benoeming van een commissaris van de Koningin
 
 Circulaire aan de provinciale besturen

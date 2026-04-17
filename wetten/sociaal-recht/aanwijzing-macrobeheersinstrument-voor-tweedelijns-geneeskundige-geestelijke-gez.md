@@ -1,13 +1,39 @@
 ---
-title: "Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
+title: "Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3145881, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
 identifier: "BWBR0032517"
-categorie: "Sociaal recht"
-publicatiedatum: 2013-02-01
-laatste_update: 2013-02-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0032517"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2013-02-01"
+last_updated: "2013-02-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0032517"
+soort: "ministeriele-regeling"
+stam_id: "11973873"
+version_id: "19904292"
+internal_id: "C27956531"
+label_id: "11945744"
+dtd_version: "2.0"
+original_entry_into_force: "2013-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0032517/2013-02-01/0"
+intitule_bron: "Stcrt.2012-26374"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2012-12-11"
+intitule_published: "2012-12-20"
+intitule_in_force: "2012-12-20"
+intitule_status: "goed"
+original_publication: "Stcrt.2012-26374"
+original_signed_date: "2012-12-11"
+original_published_date: "2012-12-20"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2012-26374"
+entry_into_force_date: "2013-02-01"
+jci_1_3: "jci1.3:c:BWBR0032517&z=2013-02-01&g=2013-02-01"
+jci_1_0: "1.0:c:BWBR0032517&g=2013-02-01"
+citeertitel_status: "officieel"
+short_title: "Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg"
+signed_date: "2012-12-11"
+entry_into_force: "2013-02-01"
 ---
-
 # Aanwijzing van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2012, MC-U-3145881, op grond van artikel 7 van de Wet marktordening gezondheidszorg, inzake het macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg
 
 Gelet op [artikel 7 van de Wet marktordening gezondheidszorg](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=7);
@@ -22,7 +48,7 @@ Gelet op de handelingen van de Eerste Kamer der Staten-Generaal van 6 maart 2012
 
 Besluit:
 
-#### Artikel 1. definities
+##### Artikel 1. definities
 
 In deze aanwijzing wordt verstaan onder:
 
@@ -42,21 +68,21 @@ In deze aanwijzing wordt verstaan onder:
 
 - h. **gebudgetteerde zorgaanbieder:** zorgaanbieder voor geneeskundige geestelijke gezondheidszorg waarvoor de zorgautoriteit de aanvaardbare kosten op basis van AWBZ-parameters heeft vastgesteld.
 
-#### Artikel 2. werkingssfeer
+##### Artikel 2. werkingssfeer
 
 Deze aanwijzing is van toepassing op de geneeskundige geestelijke gezondheidszorg. Van deze aanwijzing is uitgezonderd zorg waarvoor vrije tarieven gelden als bedoeld in [artikel 50, eerste lid, aanhef en onder a, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
-#### Artikel 3. uitvoering aanwijzing
+##### Artikel 3. uitvoering aanwijzing
 
 Ter uitvoering van deze aanwijzing stelt de zorgautoriteit tijdig vóór 1 januari 2013 beleidsregels vast.
 
-#### Artikel 4. macrogrens
+##### Artikel 4. macrogrens
 
 1. De zorgautoriteit stelt voor zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=2&z=2013-02-01&g=2013-02-01) voor alle zorgaanbieders gezamenlijk ambtshalve een macrogrens voor het jaar 2013 vast, zijnde een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50).
 
 2. De zorgautoriteit stelt de macrogrens, bedoeld in het eerste lid, vast ter hoogte van het bedrag voor zorg dat voor 2013 ten hoogste beschikbaar is, zijnde een bedrag van € 4.050 miljoen (prijspeil 2012) en stelt de individuele grenzen, bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=5&z=2013-02-01&g=2013-02-01), vast op grond van hetzelfde bedrag.
 
-#### Artikel 5. individuele grenzen
+##### Artikel 5. individuele grenzen
 
 1. De zorgautoriteit stelt ambtshalve per individuele zorgaanbieder van zorg als bedoeld in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=2&z=2013-02-01&g=2013-02-01) voor het jaar 2013 een individuele grens vast, zijnde een bovengrens als bedoeld in [artikel 50, tweede lid, aanhef en onder c, van de wet](https://wetten.overheid.nl/jci1.3:c:BWBR0020078&artikel=50). Daarbij houdt zij als volgt rekening met de macrogrens, bedoeld in [artikel 4, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=4&z=2013-02-01&g=2013-02-01):
 
@@ -72,7 +98,7 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit tijdig vóór 1 janua
 
 5. Tot de in 2013 gerealiseerde omzet van een zorgaanbieder wordt niet gerekend het verrekenbedrag dat voortvloeit uit de toepassing van de beleidsregels van de zorgautoriteit ter uitwerking van het bepaalde in artikel 7 van de Aanwijzing nhc’s.
 
-#### Artikel 6. individuele aanwijzing tot afdracht
+##### Artikel 6. individuele aanwijzing tot afdracht
 
 1. De zorgautoriteit handhaaft de macrogrens door handhaving van de individuele grenzen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=5&z=2013-02-01&g=2013-02-01).
 
@@ -82,17 +108,17 @@ Ter uitvoering van deze aanwijzing stelt de zorgautoriteit tijdig vóór 1 janua
 
 4. De zorgautoriteit geeft een aanwijzing als bedoeld in het tweede lid niet dan nadat ik haar uiterlijk 1 juli 2015 schriftelijk heb laten weten dat het bedrag, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=4&z=2013-02-01&g=2013-02-01), is overschreden, onder vermelding van het bedrag dat de zorgautoriteit als basis dient te nemen voor de handhaving van de macrogrens.
 
-#### Artikel 7. collectieve beschikking tot behoud omzet
+##### Artikel 7. collectieve beschikking tot behoud omzet
 
 1. Indien door alle zorgaanbieders samen de macrogrens niet is overschreden, stelt de zorgautoriteit ambtshalve vast dat voor iedere zorgaanbieder de individuele grens gelijk is aan de door die zorgaanbieder in 2013 gerealiseerde omzet.
 
 2. De zorgautoriteit doet een vaststelling als bedoeld in het eerste lid niet dan nadat ik haar uiterlijk 1 juli 2015 schriftelijk heb laten weten dat het bedrag, genoemd in [artikel 4, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=4&z=2013-02-01&g=2013-02-01), niet is overschreden.
 
-#### Artikel 8. informatieverstrekking
+##### Artikel 8. informatieverstrekking
 
 Ter vaststelling van de individuele grenzen, bedoeld in [artikel 5, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0032517&artikel=5&z=2013-02-01&g=2013-02-01), zijn zorgverzekeraars verplicht de zorgautoriteit een opgave te verstrekken op basis waarvan de zorgautoriteit de procentuele aandelen van de omzet van die zorgaanbieder in de totale omzet in het jaar 2013 kan vaststellen. De zorgautoriteit legt die verplichting in een regel vast.
 
-#### Artikel 9. citeertitel
+##### Artikel 9. citeertitel
 
 Deze aanwijzing wordt aangehaald als: Aanwijzing macrobeheersinstrument voor tweedelijns geneeskundige geestelijke gezondheidszorg.
 

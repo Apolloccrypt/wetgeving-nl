@@ -1,13 +1,38 @@
 ---
 title: "Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen"
 identifier: "BWBR0030626"
-categorie: "Belastingrecht"
-publicatiedatum: 2011-10-21
-laatste_update: 2011-10-21
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0030626"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2011-10-21"
+last_updated: "2011-10-21"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0030626"
+soort: "beleidsregel"
+stam_id: "11495103"
+version_id: "18907682"
+internal_id: "C26380421"
+label_id: "11468544"
+dtd_version: "2.0"
+original_entry_into_force: "2011-10-21"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0030626/2011-10-21/0"
+intitule_bron: "Stcrt.2011-20345"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2011-11-01"
+intitule_published: "2011-11-11"
+intitule_in_force: "2011-11-11"
+intitule_status: "goed"
+original_publication: "Stcrt.2011-20345"
+original_signed_date: "2011-11-01"
+original_published_date: "2011-11-11"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2011-20345"
+entry_into_force_date: "2011-10-21"
+jci_1_3: "jci1.3:c:BWBR0030626&z=2011-10-21&g=2011-10-21"
+jci_1_0: "1.0:c:BWBR0030626&g=2011-10-21"
+citeertitel_status: "officieel"
+signed_date: "2011-11-01"
+entry_into_force: "2011-10-21"
 ---
-
 # Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen
 
 De datum van inwerkingtreding ligt voor de datum van uitgifte.
@@ -24,11 +49,11 @@ De Hongaarse Nationale Belasting- en Douaneadministratie en het Directoraat-gene
 
 ### Algemene bepalingen
 
-#### Artikel 1. Juridische basis
+##### Artikel 1. Juridische basis
 
 Ingevolge de bepalingen van de Richtlijn van de Raad nr. 77/799/EEG van 19 december 1977 inzake wederzijdse bijstand door de bevoegde autoriteiten van de Lidstaten op het gebied van de directe belastingen en heffingen op verzekeringspremies zullen de bevoegde autoriteiten genoemd in [artikel 2](https://wetten.overheid.nl/jci1.3:c:BWBR0030626&artikel=2&z=2011-10-21&g=2011-10-21) van dit Memorandum automatisch en spontaan inlichtingen uitwisselen. Zij zullen eveneens inlichtingen uitwisselen door de aanwezigheid van belastingambtenaren van de ene Partij op het grondgebied van de andere Staat (in overeenstemming met het bepaalde in [artikel 6](https://wetten.overheid.nl/jci1.3:c:BWBR0030626&artikel=6&z=2011-10-21&g=2011-10-21) van dit Memorandum).
 
-#### Artikel 2. Bevoegde autoriteiten
+##### Artikel 2. Bevoegde autoriteiten
 
 1. Voor de toepassing van dit Memorandum van Overeenstemming zijn de bevoegde autoriteiten:
 
@@ -44,7 +69,7 @@ De Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 ### Uitwisseling van inlichtingen
 
-#### Artikel 3. Automatische uitwisseling van inlichtingen
+##### Artikel 3. Automatische uitwisseling van inlichtingen
 
 1. De bevoegde autoriteiten van Partijen verstrekken elkaar automatisch inlichtingen met betrekking tot:
 
@@ -68,15 +93,15 @@ De Minister van Financiën of zijn bevoegde vertegenwoordiger.
 
 3. Indien mocht blijken dat de gegevens die in het kader van de automatische uitwisseling zijn verstrekt onjuist of onvolledig zijn, zijn de bevoegde autoriteiten gehouden hierover zo spoedig mogelijk met elkaar contact op te nemen.
 
-#### Artikel 4. Spontane uitwisseling van inlichtingen
+##### Artikel 4. Spontane uitwisseling van inlichtingen
 
 Partijen verstrekken elkaar spontaan de inlichtingen die van belang zijn voor de juiste vaststelling van de belastingen naar het inkomen en vermogen in de andere Staat.
 
-#### Artikel 5. Speciale gevallen van inlichtingenuitwisseling
+##### Artikel 5. Speciale gevallen van inlichtingenuitwisseling
 
 De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere categorieën dan de hierboven genoemde, voor een bepaalde periode automatisch of spontaan met elkaar uit te wisselen.
 
-#### Artikel 6. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
+##### Artikel 6. De aanwezigheid van belastingambtenaren van de ene Staat op het grondgebied van de andere Staat
 
 1. Op verzoek van de bevoegde autoriteit van een van Partijen, kan de aangezochte bevoegde autoriteit belastingambtenaren van de verzoekende Partij toestaan om aanwezig te zijn bij de voor hen van belang zijnde onderdelen van een belastingonderzoek in de aangezochte Staat.
 
@@ -98,7 +123,7 @@ De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen ander
 
 ### Diverse bepalingen
 
-#### Artikel 7. Diverse bepalingen
+##### Artikel 7. Diverse bepalingen
 
 1. Indien noodzakelijk plegen de bevoegde autoriteiten overleg over de wijze waarop de verplichtingen die dit Memorandum meebrengt, worden uitgevoerd.
 
@@ -136,7 +161,7 @@ Betreffende inkomensten:
 
 ### Slotbepalingen
 
-#### Artikel 8. Inwerkingtreding, wijzigingen, beëindiging
+##### Artikel 8. Inwerkingtreding, wijzigingen, beëindiging
 
 1. Dit Memorandum treedt in werking op de datum van ondertekening en kan op ieder tijdstip worden gewijzigd na schriftelijke overeenstemming tussen Partijen.
 
@@ -146,11 +171,11 @@ Betreffende inkomensten:
 
 4. Het Memorandum houdt op van kracht te zijn op de laatste dag van de zesde maand na ontvangst van deze kennisgeving.
 
-#### Artikel 9. Citeertitel
+##### Artikel 9. Citeertitel
 
 Dit Memorandum kan worden aangehaald als ‘Memorandum van Overeenstemming tussen Hongarije en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen.’
 
-#### Artikel 10. Evaluatie
+##### Artikel 10. Evaluatie
 
 Dit Memorandum wordt vijf jaar na de datum van inwerkingtreding geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten van Partijen in behandeling worden genomen.
 

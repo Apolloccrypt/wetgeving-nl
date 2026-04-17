@@ -1,14 +1,36 @@
 ---
-title: "Wet vernieuwing hypothecaire inschrijvingen"
+title: "Wet van 5 juni 1878, tot vernieuwing der bestaande hypothecaire inschrijvingen"
 identifier: "BWBR0001850"
-categorie: "Overig"
-publicatiedatum: 1879-01-01
-laatste_update: 1879-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0001850"
+country: "nl"
+rank: "wet"
+publication_date: "1879-01-01"
+last_updated: "1879-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0001850"
+soort: "wet"
+stam_id: "402683"
+version_id: "591632"
+internal_id: "C591631"
+label_id: "392274"
+dtd_version: "2.0"
+original_entry_into_force: "1879-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0001850/1879-01-01/0"
+intitule_bron: "Stb.1878-90"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1878-06-05"
+intitule_status: "goed"
+original_publication: "Stb.1878-90"
+original_signed_date: "1878-06-05"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1879-01-01"
+jci_1_3: "jci1.3:c:BWBR0001850&z=1879-01-01&g=1879-01-01"
+jci_1_0: "1.0:c:BWBR0001850&g=1879-01-01"
+citeertitel_status: "officieel"
+short_title: "Wet vernieuwing hypothecaire inschrijvingen"
+signed_date: "1878-06-05"
+entry_into_force: "1879-01-01"
 ---
-
-# Wet vernieuwing hypothecaire inschrijvingen
+# Wet van 5 juni 1878, tot vernieuwing der bestaande hypothecaire inschrijvingen
 
 Allen, die deze zullen zien of hooren lezen, salut! doen te weten:
 
@@ -16,11 +38,11 @@ Alzoo Wij in overweging genomen hebben, dat het noodzakelijk is om, met afwijkin
 
 Zoo is het, dat Wij, den Raad van State gehoord en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 Met afwijking van de bepaling van art. 1236 Burgerlijk Wetboek zijn alle bij het in werking treden dezer wet bestaande hypothecaire inschrijvingen binnen twee jaren na dat in werking treden onderworpen aan vernieuwing.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De aanvraag tot vernieuwing geschiedt door den schuldeischer of door een derde namens hem.
 
@@ -40,13 +62,13 @@ Met afwijking van de bepaling van art. 1236 Burgerlijk Wetboek zijn alle bij het
 
 6. Op de vernieuwde inschrijvingen zijn alle bepalingen van het Burgerlijk Wetboek omtrent de inschrijvingen van toepassing, voor zooveel daarvan bij deze wet niet uitdrukkelijk wordt afgeweken.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Wegens de vernieuwing der inschrijving worden geene andere kosten in rekening gebragt dan het salaris van den hypotheekbewaarder, dat, tenzij het tegendeel bedongen is, voor rekening van den schuldeischer is en bepaald wordt op de helft van het gewone salaris voor de vernieuwingen aangevraagd in het jaar 1879, op drie vierden van dat salaris voor de vernieuwingen aangevraagd in de zes eerste maanden van het jaar 1880, en op het volle salaris voor die aangevraagd in de laatste zes maanden van dat jaar.
 
 2. De tot de vernieuwing vereischte borderellen worden gesteld op ongezegeld papier.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De vernieuwing, binnen den bij [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001850&artikel=1&z=1879-01-01&g=1879-01-01) gestelden termijn aangevraagd, verzekert aan de belanghebbenden denzelfden rang en dezelfde regten, die zij door de inschrijving verkregen hadden.
 
@@ -54,19 +76,19 @@ Met afwijking van de bepaling van art. 1236 Burgerlijk Wetboek zijn alle bij het
 
 3. De schuldeischer kan de binnen genoemden termijn niet vernieuwde inschrijving op nieuw doen bewerkstelligen overeenkomstig de bepalingen van het Burgerlijk Wetboek, doch in dat geval worden de kracht en de rang bepaald naar de dagteekening der nieuwe inschrijving en is [art. 3](https://wetten.overheid.nl/jci1.3:c:BWBR0001850&artikel=3&z=1879-01-01&g=1879-01-01) niet van toepassing.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De toeziende voogd en de toeziende curator zijn op straffe van vergoeding van kosten, schaden en interessen verpligt toe te zien, dat de hypothecaire inschrijvingen, tot zekerheid van het beheer van den voogd of den curator genomen, binnen den bij [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001850&artikel=1&z=1879-01-01&g=1879-01-01) gestelden termijn worden vernieuwd.
 
 2. De getrouwde vrouw, die bij huwelijksche voorwaarden hypotheek heeft bedongen, kan, zonder bijstand van haren man of magtiging van den regter, de hypothecaire inschrijving doen vernieuwen.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De overschrijvingen van processen-verbaal van beslag op onroerende goederen, die krachtens art. 505 van het Wetboek van Burgerlijke Regtsvordering vóór het in werking treden dezer wet hebben plaats gehad, kunnen binnen den bij [art. 1](https://wetten.overheid.nl/jci1.3:c:BWBR0001850&artikel=1&z=1879-01-01&g=1879-01-01) gestelden termijn worden vernieuwd op het oorspronkelijk proces-verbaal van in beslagneming, dat te dien einde door den executant of zijnen procureur aan den hypotheekbewaarder zal worden aangeboden.
 
 2. Alle overschrijvingen, waarvan op het tijdstip van het verstrijken van dien termijn de vernieuwing niet is geschied of aangevraagd, vervallen van regtswege en worden ambtshalve kosteloos doorgehaald.
 
-#### Artikel 7
+##### Artikel 7
 
 Deze wet treedt in werking den eersten Januarij 1879.
 

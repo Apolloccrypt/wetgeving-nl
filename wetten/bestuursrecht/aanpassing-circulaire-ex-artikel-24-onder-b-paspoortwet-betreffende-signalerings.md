@@ -1,13 +1,35 @@
 ---
 title: "Aanpassing circulaire ex artikel 24, onder b, Paspoortwet betreffende signaleringsprocedure vermoeden misbruik reisdocumenten"
 identifier: "BWBR0048787"
-categorie: "Bestuursrecht"
-publicatiedatum: 2023-10-01
-laatste_update: 2023-10-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0048787"
+country: "nl"
+rank: "circulaire"
+publication_date: "2023-10-01"
+last_updated: "2023-10-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0048787"
+soort: "circulaire"
+stam_id: "16891823"
+version_id: "29689022"
+internal_id: "C42537851"
+label_id: "16803864"
+dtd_version: "2.0"
+original_entry_into_force: "2023-10-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0048787/2023-10-01/0"
+intitule_bron: "Stcrt.2023-28780"
+intitule_effect: "nieuw"
+intitule_published: "2023-10-27"
+intitule_in_force: "2023-10-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2023-28780"
+original_published_date: "2023-10-27"
+original_effect: "nieuw"
+original_url_id: "stcrt-2023-28780"
+entry_into_force_date: "2023-10-01"
+jci_1_3: "jci1.3:c:BWBR0048787&z=2023-10-01&g=2023-10-01"
+jci_1_0: "1.0:c:BWBR0048787&g=2023-10-01"
+citeertitel_status: "redactioneel"
+entry_into_force: "2023-10-01"
 ---
-
 # Aanpassing circulaire ex artikel 24, onder b, Paspoortwet betreffende signaleringsprocedure vermoeden misbruik reisdocumenten
 
 ### 1. Inleiding

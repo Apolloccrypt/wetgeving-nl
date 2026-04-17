@@ -1,14 +1,41 @@
 ---
-title: "Wijzigingswet EZ-instellingswetten (aanpassing aan Kaderwet zelfstandige bestuursorganen)"
+title: "Wet van 29 april 2010 tot aanpassing van EZ-instellingswetten aan de Kaderwet zelfstandige bestuursorganen"
 identifier: "BWBR0027732"
-categorie: "Bestuursrecht"
-publicatiedatum: 2011-01-01
-laatste_update: 2011-01-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0027732"
+country: "nl"
+rank: "wet"
+publication_date: "2011-01-01"
+last_updated: "2011-01-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0027732"
+soort: "wet"
+stam_id: "10554453"
+version_id: "17401332"
+internal_id: "C24084141"
+label_id: "10529414"
+dtd_version: "2.0"
+original_entry_into_force: "2011-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0027732/2011-01-01/0"
+intitule_bron: "Stb.2010-208"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2010-04-29"
+intitule_published: "2010-06-10"
+intitule_in_force: "2010-06-10"
+intitule_status: "goed"
+original_publication: "Stb.2010-208"
+original_signed_date: "2010-04-29"
+original_published_date: "2010-06-10"
+original_effect: "nieuwe-regeling"
+original_dossier: "32151"
+original_url_id: "stb-2010-208"
+entry_into_force_date: "2011-01-01"
+jci_1_3: "jci1.3:c:BWBR0027732&z=2011-01-01&g=2011-01-01"
+jci_1_0: "1.0:c:BWBR0027732&g=2011-01-01"
+citeertitel_status: "redactioneel"
+short_title: "Wijzigingswet EZ-instellingswetten (aanpassing aan Kaderwet zelfstandige bestuursorganen)"
+signed_date: "2010-04-29"
+entry_into_force: "2011-01-01"
 ---
-
-# Wijzigingswet EZ-instellingswetten (aanpassing aan Kaderwet zelfstandige bestuursorganen)
+# Wet van 29 april 2010 tot aanpassing van EZ-instellingswetten aan de Kaderwet zelfstandige bestuursorganen
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,31 +43,31 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Mededingingswet]
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel I. (CBS/[Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926))
+##### Artikel I. (CBS/[Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926))
 
 Wijzigt de Wet op het Centraal bureau voor de statistiek.
 
-#### Artikel II. (kamers van koophandel/[Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276))
+##### Artikel II. (kamers van koophandel/[Wet op de kamers van koophandel en fabrieken 1997](https://wetten.overheid.nl/jci1.3:c:BWBR0009276))
 
 Wijzigt de Wet op de kamers van koophandel en fabrieken 1997.
 
-#### Artikel III. (NMa/[Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691))
+##### Artikel III. (NMa/[Mededingingswet](https://wetten.overheid.nl/jci1.3:c:BWBR0008691))
 
 Wijzigt de Mededingingswet.
 
-#### Artikel IV. (OPTA/[Wet Onafhankelijke post- en telecommunicatie autoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807))
+##### Artikel IV. (OPTA/[Wet Onafhankelijke post- en telecommunicatie autoriteit](https://wetten.overheid.nl/jci1.3:c:BWBR0008807))
 
 Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 
-#### Artikel V. (Verispect/[Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517))
+##### Artikel V. (Verispect/[Metrologiewet](https://wetten.overheid.nl/jci1.3:c:BWBR0019517))
 
 Wijzigt de Metrologiewet.
 
-#### Artikel VI. (waarborginstellingen/[Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275))
+##### Artikel VI. (waarborginstellingen/[Waarborgwet 1986](https://wetten.overheid.nl/jci1.3:c:BWBR0009275))
 
 Wijzigt de Waarborgwet 1986.
 
-#### Artikel VII. (nieuwe grondslag uitvoeringsregelingen)
+##### Artikel VII. (nieuwe grondslag uitvoeringsregelingen)
 
 A. Na de inwerkingtreding van [artikel I](https://wetten.overheid.nl/jci1.3:c:BWBR0027732&artikel=I&z=2011-01-01&g=2011-01-01) berust het krachtens [artikel 24, tweede lid, van de Wet op het Centraal bureau voor de statistiek](https://wetten.overheid.nl/jci1.3:c:BWBR0015926&artikel=24) genomen besluit op [artikel 14, tweede lid, van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
 
@@ -74,7 +101,7 @@ D. Na de inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:B
 
 - 4. wordt een vergoeding die door het college aan een geassocieerd lid is toegekend voor inwerkingtreding van [artikel IV](https://wetten.overheid.nl/jci1.3:c:BWBR0027732&artikel=IV&z=2011-01-01&g=2011-01-01), gelijkgesteld met een vergoeding die is toegekend krachtens [artikel 14 van de Kaderwet zelfstandige bestuursorganen](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=14).
 
-#### Artikel VIII. (wijziging wetten Ministerie van Verkeer en Waterstaat)
+##### Artikel VIII. (wijziging wetten Ministerie van Verkeer en Waterstaat)
 
 A. Wijzigt de Loodsenwet.
 
@@ -86,15 +113,15 @@ D.
 
 Wijzigt de Wet luchtvaart.
 
-#### Artikel VIIIa. (wijziging [Tijdelijke wet mediaconcentraties](https://wetten.overheid.nl/jci1.3:c:BWBR0022033))
+##### Artikel VIIIa. (wijziging [Tijdelijke wet mediaconcentraties](https://wetten.overheid.nl/jci1.3:c:BWBR0022033))
 
 Wijzigt de Tijdelijke wet mediaconcentraties.
 
-#### Artikel IX. (aanpassing Wetsvoorstel aanpassing Mededingingswet ter invoering van gedragsregels voor de overheid)
+##### Artikel IX. (aanpassing Wetsvoorstel aanpassing Mededingingswet ter invoering van gedragsregels voor de overheid)
 
 Wijzigt de Wijzigingswet Mededingingswet(invoering gedragsregels voor de overheid).
 
-#### Artikel X. (inwerkingtreding)
+##### Artikel X. (inwerkingtreding)
 
 Deze artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 

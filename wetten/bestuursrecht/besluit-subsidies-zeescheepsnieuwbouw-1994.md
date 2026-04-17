@@ -1,13 +1,38 @@
 ---
-title: "Besluit subsidies zeescheepsnieuwbouw 1994"
+title: "Besluit van 7 juni 1994, houdende regels inzake de verstrekking van subsidies ter ondersteuning van de zeescheepsnieuwbouw in 1994"
 identifier: "BWBR0006715"
-categorie: "Bestuursrecht"
-publicatiedatum: 2009-07-01
-laatste_update: 2009-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006715"
+country: "nl"
+rank: "amvb"
+publication_date: "2009-07-01"
+last_updated: "2009-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006715"
+soort: "AMvB"
+stam_id: "1002153"
+version_id: "1473202"
+internal_id: "C1473201"
+label_id: "971324"
+dtd_version: "2.0"
+original_entry_into_force: "1994-06-22"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006715/2009-07-01/0"
+intitule_bron: "Stb.1994-437"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-06-07"
+intitule_published: "1994-06-12"
+intitule_in_force: "1994-06-12"
+intitule_status: "goed"
+original_publication: "Stb.1994-437"
+original_signed_date: "1994-06-07"
+original_published_date: "1994-06-12"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1994-06-22"
+jci_1_3: "jci1.3:c:BWBR0006715&z=2009-07-01&g=2009-07-01"
+jci_1_0: "1.0:c:BWBR0006715&g=2009-07-01"
+citeertitel_status: "officieel"
+short_title: "Besluit subsidies zeescheepsnieuwbouw 1994"
+signed_date: "1994-06-07"
+entry_into_force: "1994-06-22"
 ---
-
 # Besluit van 7 juni 1994, houdende regels inzake de verstrekking van subsidies ter ondersteuning van de zeescheepsnieuwbouw in 1994
 
 Op de voordracht van Onze Minister van Economische Zaken van 8 april 1994, nr. WJA/JZ 94024689;
@@ -22,7 +47,7 @@ Hebben goedgevonden en verstaan:
 
 #### Paragraaf 1. Algemene bepalingen
 
-#### Artikel 1
+##### Artikel 1
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -34,7 +59,7 @@ Hebben goedgevonden en verstaan:
 
 2. Bij de toepassing van bepalingen in dit besluit waarin gesproken wordt over de eindprijs wordt, indien de eindprijs nog niet is vastgesteld, de contractprijs in aanmerking genomen.
 
-#### Artikel 2
+##### Artikel 2
 
 1. In dit besluit en de daarop berustende bepalingen worden onder een zeeschip verstaan de volgende schepen met een metalen casco en een eindprijs van ten minste € 1.815.120,86:
 
@@ -54,7 +79,7 @@ Hebben goedgevonden en verstaan:
 
 - b. ten minste het vaargebied II als bedoeld in de Bekendmaking aan de Zeevisvaart van 24 juli 1989, no. 5/1989.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Onze Minister verstrekt op aanvraag een subsidie aan een ondernemer ter zake van een opdracht voor de bouw in Nederland van een zeeschip, die aan hem is verstrekt in het jaar waarin laatstelijk voor hem een budget als bedoeld in [artikel 5](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=5&z=2009-07-01&g=2009-07-01) is vastgesteld dan wel het daaraan voorafgaande kalenderjaar.
 
@@ -64,13 +89,13 @@ Hebben goedgevonden en verstaan:
 
 - b. onderaanneming van werk.
 
-#### Artikel 4
+##### Artikel 4
 
 Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidieplafond vast voor het in dat jaar verlenen van subsidies krachtens dit besluit.
 
 #### Paragraaf 2. Budgetten
 
-#### Artikel 5
+##### Artikel 5
 
 1. Onze Minister verdeelt het beschikbare bedrag door voor een ondernemer jaarlijks op aanvraag een budget vast te stellen, waarbinnen aan de ondernemer subsidie kan worden verleend.
 
@@ -92,25 +117,25 @@ Onze Minister stelt ieder begrotingsjaar bij ministeriële regeling een subsidie
 
 6. De gemiddelde gewogen productiewaarde van een aanvrager is het gemiddelde van de gewogen productiewaarden, die hij heeft gerealiseerd in de twee van de drie in het vijfde lid genoemde kalenderjaren waarin hij de hoogste gewogen productiewaarden heeft gerealiseerd.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Een aanvraag om vaststelling van een budget wordt ingediend vóór een door Onze Minister bij ministeriële regeling vastgestelde datum.
 
 2. De aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat door Onze Minister wordt vastgesteld. Onze Minister kan bij ministeriële regeling hiervan vrijstelling verlenen.
 
-#### Artikel 7
+##### Artikel 7
 
 Vervallen
 
-#### Artikel 8
+##### Artikel 8
 
 Onze Minister geeft op de aanvragen om vaststelling van een budget een beschikking binnen 4 weken na de ingevolge [artikel 6, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=2&artikel=6&z=2009-07-01&g=2009-07-01), vastgestelde datum.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 1. Onze Minister besluit op een vóór 1 november van het kalenderjaar, waarop de budgetten betrekking hebben, ingediende aanvraag van de betrokkenen tot samenvoeging van de ten behoeve van hen voor dat jaar vastgestelde budgetten.
 
@@ -118,25 +143,25 @@ Vervallen
 
 #### Paragraaf 3. Subsidiebedrag
 
-#### Artikel 11
+##### Artikel 11
 
 De subsidie bedraagt een bedrag in euro’s ter grootte van een door Onze Minister bij ministeriële regeling vast te stellen percentage van een door de aanvrager te bepalen gedeelte van de eindprijs. Dit percentage kan verschillen voor opdrachten met een verschillende eindprijs, voor zeeschepen met een verschillend bruto-tonnage en voor verschillende, in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=2&z=2009-07-01&g=2009-07-01), onderscheiden categorieën zeeschepen.
 
 #### Paragraaf 4. Aanvraag om subsidie en beslissing op de aanvraag
 
-#### Artikel 12
+##### Artikel 12
 
 Een aanvraag om subsidie wordt ingediend vóór een door Onze Minister bij ministeriële regeling vastgestelde datum in het begrotingsjaar waarvoor Onze Minister laatstelijk op grond van [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=1&artikel=4&z=2009-07-01&g=2009-07-01) een subsidieplafond heeft vastgesteld.
 
-#### Artikel 13
+##### Artikel 13
 
 Een aanvraag om subsidie wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, dat door Onze Minister wordt vastgesteld. Onze Minister kan bij ministeriële regeling hiervan vrijstelling verlenen.
 
-#### Artikel 14
+##### Artikel 14
 
 Onze Minister geeft op een aanvraag om subsidie een beschikking binnen dertien weken na ontvangst van de aanvraag. Indien de beschikking niet binnen dertien weken kan worden gegeven, stelt Onze Minister de aanvrager daarvan in kennis en noemt hij daarbij een redelijke termijn waarop de beschikking wel tegemoet kan worden gezien.
 
-#### Artikel 15
+##### Artikel 15
 
 Onze Minister beslist in ieder geval afwijzend op een aanvraag:
 
@@ -148,27 +173,27 @@ Onze Minister beslist in ieder geval afwijzend op een aanvraag:
 
 #### Paragraaf 5. Subsidieverlening en verplichtingen van de subsidie-ontvanger
 
-#### Artikel 16
+##### Artikel 16
 
 Vervallen
 
-#### Artikel 17
+##### Artikel 17
 
 Op de subsidie-ontvanger rusten de in de [artikelen 18](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=18&z=2009-07-01&g=2009-07-01), [19](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=19&z=2009-07-01&g=2009-07-01) en [20](https://wetten.overheid.nl/jci1.3:c:BWBR0006715&paragraaf=5&artikel=20&z=2009-07-01&g=2009-07-01) opgenomen verplichtingen.
 
-#### Artikel 18
+##### Artikel 18
 
 1. De subsidie-ontvanger voert de opdracht voor ten minste 80 procent in Nederland uit en draagt het zeeschip aan de opdrachtgever over binnen drie jaar na de dag waarop de opdracht is verstrekt, behoudens voorafgaande schriftelijke ontheffing van Onze Minister.
 
 2. Onze Minister kan aan een ontheffing als bedoeld in het eerste lid voorschriften verbinden.
 
-#### Artikel 19
+##### Artikel 19
 
 1. De subsidie-ontvanger dient zijn aanvraag tot subsidievaststelling binnen dertien weken na de datum waarop het zeeschip blijkens het overdrachtsprotocol of een gelijkwaardig document aan de opdrachtgever is overgedragen bij Onze Minister in.
 
 2. De aanvraag wordt ingediend met gebruikmaking van het origineel van een ondertekend formulier, waarvan het model door Onze Minister wordt vastgesteld. Onze Minister kan bij ministeriële regeling hiervan vrijstelling verlenen.
 
-#### Artikel 20
+##### Artikel 20
 
 1. De subsidie-ontvanger voert een administratie die zodanig is ingericht dat daaruit te allen tijde op eenvoudige en duidelijke wijze de contractprijs, de eindprijs en de ter zake van onderaanneming van werk verschuldigde bedragen kunnen worden afgelezen.
 
@@ -176,49 +201,49 @@ Op de subsidie-ontvanger rusten de in de [artikelen 18](https://wetten.overheid.
 
 #### Paragraaf 6. Voorschotten
 
-#### Artikel 21
+##### Artikel 21
 
 1. Voorschotten kunnen eerst na de datum van de kiellegging of een gelijkwaardig stadium van bouw, op aanvraag van de subsidie-ontvanger door Onze Minister worden verstrekt op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt.
 
 2. Het voorschot bedraagt 80 procent van het bij de subsidieverlening vermelde maximale subsidiebedrag.
 
-#### Artikel 22
+##### Artikel 22
 
 Een aanvraag wordt ingediend met gebruik van het origineel van een ondertekend formulier, waarvan het model door Onze Minister wordt vastgesteld. Onze Minister kan bij ministeriële regeling hiervan vrijstelling verlenen.
 
-#### Artikel 23
+##### Artikel 23
 
 Vervallen
 
-#### Artikel 24
+##### Artikel 24
 
 Onze Minister kan in ieder geval afwijzend beschikken op een aanvraag, indien de subsidie-ontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen.
 
 #### Paragraaf 7. Subsidievaststelling
 
-#### Artikel 25
+##### Artikel 25
 
 Vervallen
 
-#### Artikel 26
+##### Artikel 26
 
 Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag dan wel nadat de voor het indienen ervan geldende termijn is verstreken. Indien de beschikking niet binnen dertien weken kan worden gegeven, stelt Onze Minister de subsidie-ontvanger daarvan in kennis en noemt hij daarbij een redelijke termijn waarop de beschikking wel tegemoet kan worden gezien.
 
-#### Artikel 27
+##### Artikel 27
 
 Vervallen
 
 #### Paragraaf 8. Overgangs- en slotbepalingen
 
-#### Artikel 28
+##### Artikel 28
 
 De Subsidieregeling zeescheepsnieuwbouw 1991 wordt ingetrokken met uitzondering van de bij die regeling behorende bijlage 1 en met dien verstande dat zij van toepassing blijft op aanvragen om subsidie die zijn ingediend voor de datum van inwerkingtreding van dit besluit.
 
-#### Artikel 29
+##### Artikel 29
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het **Staatsblad** waarin het wordt geplaatst.
 
-#### Artikel 30
+##### Artikel 30
 
 Dit besluit wordt aangehaald als: Besluit subsidies zeescheepsnieuwbouw 1994.
 

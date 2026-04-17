@@ -1,13 +1,37 @@
 ---
-title: "Besluit overbrenging in eigendom, beheer en onderhoud bij de gemeente Almere van enige weggedeelten en fietspaden"
+title: "Besluit van 7 december 1992, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Almere van enige in die gemeente gelegen weggedeelten en fietspaden"
 identifier: "BWBR0005750"
-categorie: "Burgerlijk recht"
-publicatiedatum: 1993-03-01
-laatste_update: 1993-03-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0005750"
+country: "nl"
+rank: "kb"
+publication_date: "1993-03-01"
+last_updated: "1993-03-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0005750"
+soort: "KB"
+stam_id: "802133"
+version_id: "1162872"
+internal_id: "C1162871"
+label_id: "776904"
+dtd_version: "2.0"
+original_entry_into_force: "1993-03-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0005750/1993-03-01/0"
+intitule_bron: "Stb.1992-10"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1992-12-07"
+intitule_status: "goed"
+original_publication: "Stb.1992-10"
+original_signed_date: "1992-12-07"
+original_effect: "nieuwe-regeling"
+original_dossier: "21653"
+entry_into_force_date: "1993-03-01"
+entry_into_force_dossier: "21653"
+jci_1_3: "jci1.3:c:BWBR0005750&z=1993-03-01&g=1993-03-01"
+jci_1_0: "1.0:c:BWBR0005750&g=1993-03-01"
+citeertitel_status: "officieel"
+short_title: "Besluit overbrenging in eigendom, beheer en onderhoud bij de gemeente Almere van enige weggedeelten en fietspaden"
+signed_date: "1992-12-07"
+entry_into_force: "1993-03-01"
 ---
-
 # Besluit van 7 december 1992, houdende overbrenging in eigendom, beheer en onderhoud bij de Gemeente Almere van enige in die gemeente gelegen weggedeelten en fietspaden
 
 Op de voordracht van Onze Ministers van Binnenlandse Zaken van 17 juni 1992, nr. F092/876, Directoraat-Generaal Openbaar Bestuur en van Verkeer en Waterstaat van 27 april 1992, nr. RJI 120178, Hoofddirectie van de Waterstaat, Hoofdafdeling Bestuurlijke en Juridische Zaken, en van de Staatssecretaris van Financiën van 23 november 1992, nr. DOM 92/3455-Z92/640, Directie der Domeinen, Afdeling Inspecties en Rentambten;
@@ -18,7 +42,7 @@ Gehoord de Raad van de Gemeente Almere (brief van 18 september 1991, kenmerk 179
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1
+##### Artikel 1
 
 De onderstaande onroerende rijkseigendommen gaan met ingang van de dag, volgende op die van de dagtekening van dit besluit in eigendom, beheer en onderhoud over op de Gemeente Almere.
 
@@ -71,7 +95,7 @@ De wegpercelen, kadastraal bekend Gemeente Almere.
 
 Een en ander met inbegrip van de op- en afritten, wegverhardingen, bermen, wegstrookbeplantingen, in de bermen en wegstrookbeplantingen gelegen fietspaden, glooiingen, wegslootgedeelten, duikers en de brug in de Kraanvogelweg over de Hoge Vaart.
 
-#### Artikel 2
+##### Artikel 2
 
 1. De onderstaande onroerende rijkseigendommen gaan met ingang van de dag, volgende op die van de dagtekening van dit besluit in beheer en onderhoud over de Gemeente Almere:
 
@@ -91,23 +115,23 @@ De verharding van:
 
 4. Het beheer en onderhoud van de in het eerste en tweede lid omschreven werken gaan over voor zoveel deze bij het Rijk berusten.
 
-#### Artikel 3
+##### Artikel 3
 
 Voor zover op de dag van de eigendomsoverdracht nog niet uitgevoerd, verricht het Rijk (Rijkswaterstaat, Directie Flevoland) voor zijn rekening de werkzaamheden, die zijn opgenomen in de afwerkprogramma’s van het Rijk, waarvan de inhoud aan de gemeente bekend is.
 
-#### Artikel 4
+##### Artikel 4
 
 De Gemeente Almere treedt door de overgang in eigendom, beheer en onderhoud, dan wel in beheer en onderhoud, van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005750&artikel=1&z=1993-03-01&g=1993-03-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005750&artikel=2&z=1993-03-01&g=1993-03-01) omschreven werken tegenover derden in de rechten en verplichtingen van het Rijk te dier zake.
 
-#### Artikel 5
+##### Artikel 5
 
 De overgang in eigendom, beheer en onderhoud, dan wel in beheer en onderhoud op de Gemeente Almere van de in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0005750&artikel=1&z=1993-03-01&g=1993-03-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0005750&artikel=2&z=1993-03-01&g=1993-03-01) omschreven werken geschiedt om niet.
 
-#### Artikel 6
+##### Artikel 6
 
 Aan de Gemeente Almere zal een over vijf jaar aflopende gewenningsbijdrage worden toegekend tot een totaal bedrag van f 743.499.
 
-#### Artikel 7
+##### Artikel 7
 
 Voor zover de op de Gemeente Almere in eigendom, beheer en onderhoud overgaande wegen aan een zijde dan wel aan weerszijden grenzen aan percelen, die niet in eigendom op de gemeente overgaan, wordt de begrenzing van de wegen gevormd door:
 

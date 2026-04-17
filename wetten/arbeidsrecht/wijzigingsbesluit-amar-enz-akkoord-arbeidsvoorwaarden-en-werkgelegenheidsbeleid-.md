@@ -1,13 +1,39 @@
 ---
-title: "Wijzigingsbesluit AMAR, enz (Akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie)"
+title: "Besluit van 8 maart 1996, houdende wijziging van enige besluiten naar aanleiding van het akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie"
 identifier: "BWBR0007929"
-categorie: "Arbeidsrecht"
-publicatiedatum: 1996-04-01
-laatste_update: 1996-04-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0007929"
+country: "nl"
+rank: "amvb"
+publication_date: "1996-04-01"
+last_updated: "1996-04-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0007929"
+soort: "AMvB"
+stam_id: "1458823"
+version_id: "2185492"
+internal_id: "C2185491"
+label_id: "1417404"
+dtd_version: "2.0"
+original_entry_into_force: "1996-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0007929/1996-04-01/0"
+intitule_bron: "Stb.1996-169"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1996-03-08"
+intitule_published: "1996-03-26"
+intitule_in_force: "1996-03-26"
+intitule_status: "goed"
+original_publication: "Stb.1996-169"
+original_signed_date: "1996-03-08"
+original_published_date: "1996-03-26"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-1996-169"
+entry_into_force_date: "1996-04-01"
+jci_1_3: "jci1.3:c:BWBR0007929&z=1996-04-01&g=1996-04-01"
+jci_1_0: "1.0:c:BWBR0007929&g=1996-04-01"
+citeertitel_status: "officieel"
+short_title: "Wijzigingsbesluit AMAR, enz (Akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie)"
+signed_date: "1996-03-08"
+entry_into_force: "1996-04-01"
 ---
-
 # Besluit van 8 maart 1996, houdende wijziging van enige besluiten naar aanleiding van het akkoord arbeidsvoorwaarden- en werkgelegenheidsbeleid 1995-1997 sector Defensie
 
 Op de voordracht van de Staatssecretaris van Defensie van 9 januari 1996, nr. PAV2210/96000201;
@@ -20,65 +46,65 @@ Gezien het nader rapport van de Staatssecretaris van Defensie van 4 maart 1996, 
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel I
+##### Artikel I
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel II
+##### Artikel II
 
 Bevat wijzigingen in andere regelgeving.
 
-#### Artikel III
-
-Bevat wijzigingen in andere regelgeving.
-
-Dit onderdeel is nog niet inwerking getreden
-
-#### Artikel IV
-
-Bevat wijzigingen in andere regelgeving.
-
-#### Artikel V
+##### Artikel III
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VI
+##### Artikel IV
+
+Bevat wijzigingen in andere regelgeving.
+
+##### Artikel V
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VII
+##### Artikel VI
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel VIII
+##### Artikel VII
 
 Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel IX
+##### Artikel VIII
+
+Bevat wijzigingen in andere regelgeving.
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel X
+##### Artikel IX
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XI
+##### Artikel X
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XII
+##### Artikel XI
 
 Dit onderdeel is nog niet inwerking getreden
 
-#### Artikel XIII
+##### Artikel XII
+
+Dit onderdeel is nog niet inwerking getreden
+
+##### Artikel XIII
 
 Dit besluit treedt in werking met ingang van 1 april 1996, met uitzondering van:
 

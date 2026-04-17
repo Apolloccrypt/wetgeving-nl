@@ -1,13 +1,38 @@
 ---
 title: "Model jaarverslaggeving CAK bestuurlijke verantwoording 2021"
 identifier: "BWBR0046811"
-categorie: "Bestuursrecht"
-publicatiedatum: 2022-06-28
-laatste_update: 2022-06-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0046811"
+country: "nl"
+rank: "zbo"
+publication_date: "2022-06-28"
+last_updated: "2022-06-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0046811"
+soort: "zbo"
+stam_id: "16392903"
+version_id: "28708312"
+internal_id: "C40540221"
+label_id: "16317764"
+dtd_version: "2.0"
+original_entry_into_force: "2022-06-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0046811/2022-06-28/0"
+intitule_bron: "Stcrt.2022-16110"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2022-05-31"
+intitule_published: "2022-06-27"
+intitule_in_force: "2022-06-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2022-16110"
+original_signed_date: "2022-05-31"
+original_published_date: "2022-06-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2022-16110"
+entry_into_force_date: "2022-06-28"
+jci_1_3: "jci1.3:c:BWBR0046811&z=2022-06-28&g=2022-06-28"
+jci_1_0: "1.0:c:BWBR0046811&g=2022-06-28"
+citeertitel_status: "officieel"
+signed_date: "2022-05-31"
+entry_into_force: "2022-06-28"
 ---
-
 # Model jaarverslaggeving CAK bestuurlijke verantwoording 2021
 
 ### 1. Algemeen

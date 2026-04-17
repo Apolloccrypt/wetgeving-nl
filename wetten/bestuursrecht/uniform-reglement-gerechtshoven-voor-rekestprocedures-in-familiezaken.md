@@ -1,13 +1,33 @@
 ---
 title: "Uniform reglement gerechtshoven voor rekestprocedures in familiezaken"
 identifier: "BWBR0010187"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-06-07
-laatste_update: 2004-06-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0010187"
+country: "nl"
+rank: "circulaire"
+publication_date: "2004-06-07"
+last_updated: "2004-06-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0010187"
+soort: "circulaire"
+stam_id: "6051183"
+version_id: "10667622"
+internal_id: "C14493251"
+label_id: "6040484"
+original_entry_into_force: "2000-01-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0010187/2004-06-07/0"
+intitule_bron: "Stcrt.1999-251"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "1999-12-28"
+intitule_in_force: "1999-12-28"
+intitule_status: "goed"
+original_publication: "Stcrt.1999-251"
+original_published_date: "1999-12-28"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "2000-01-01"
+jci_1_3: "jci1.3:c:BWBR0010187&z=2004-06-07&g=2004-06-07"
+jci_1_0: "1.0:c:BWBR0010187&g=2004-06-07"
+citeertitel_status: "redactioneel"
+entry_into_force: "2000-01-01"
 ---
-
 # Uniform reglement gerechtshoven voor rekestprocedures in familiezaken
 
 De gerechtshoven zijn bij elkaar te rade gegaan teneinde in aanvulling op de wettelijke regels te voorzien in een eenvormig reglement voor de voortgang van rekestprocedures in familiezaken.
@@ -16,7 +36,7 @@ De gerechtshoven hebben zich ten doel gesteld te komen tot een reglement dat bij
 
 Daartoe gelden met ingang van 1 januari 2000 de volgende regels.
 
-#### Artikel 1. Wijze van indiening
+##### Artikel 1. Wijze van indiening
 
 1. Stukken in rekestzaken kunnen bij het hof worden ingediend op de volgende wijzen:
 
@@ -62,7 +82,7 @@ Daartoe gelden met ingang van 1 januari 2000 de volgende regels.
 
 2. Na indiening per fax moet het oorspronkelijke rekest met alle bijlagen worden nagezonden per post of worden bezorgd in het vereiste aantal.
 
-#### Artikel 2. Aantal in te dienen exemplaren
+##### Artikel 2. Aantal in te dienen exemplaren
 
 1. Verzoek- en verweerschriften met bijlagen moeten worden ingediend in viervoud, te vermeerderen met:
 
@@ -72,7 +92,7 @@ Daartoe gelden met ingang van 1 januari 2000 de volgende regels.
 
 2. Bij gebreke van een voldoende aantal ingediende exemplaren bepaalt het hof of de procedure voortgang kan vinden, zoals het hem geraden voorkomt.
 
-#### Artikel 3. Verzoek- en verweerschriften
+##### Artikel 3. Verzoek- en verweerschriften
 
 1. Naam en adres van de advocaat van de wederpartij(en) in eerste aanleg moeten in het verzoekschrift worden opgegeven evenals in voorkomend geval de namen en verblijfplaatsen van te horen kinderen.
 
@@ -80,11 +100,11 @@ Daartoe gelden met ingang van 1 januari 2000 de volgende regels.
 
 3. In kinderalimentatiezaken wordt aan kinderen van 16 of 17 jaar gevraagd hun mening te geven, uitsluitend schriftelijk.
 
-#### Artikel 4. Toevoegingsbewijs
+##### Artikel 4. Toevoegingsbewijs
 
 In het verzoek- of verweerschrift moet een door de verzoeker of verweerder verkregen of aangevraagde toevoeging worden vermeld.
 
-#### Artikel 5. Andere vóór de mondelinge behandeling over te leggen stukken, uiterste termijn.
+##### Artikel 5. Andere vóór de mondelinge behandeling over te leggen stukken, uiterste termijn.
 
 1. Bij een verzoekschrift moeten tenminste de bewijsstukken en alle stukken van de eerste aanleg worden overgelegd, evenals (in kinderzaken) de rapporten.
 
@@ -108,23 +128,23 @@ In het verzoek- of verweerschrift moet een door de verzoeker of verweerder verkr
 
 Het hof zal niet letten op later aan de partijen en het hof overgelegde stukken, tenzij deze kort en eenvoudig te doorgronden zijn. Als de wederpartij geen bezwaar heeft, kan het hof desgewenst toch op latere stukken letten.
 
-#### Artikel 6. Verklaring non-appèl
+##### Artikel 6. Verklaring non-appèl
 
 Een verklaring van non-appèl wordt niet afgegeven, indien niet uit het petitum van het (aanvullende) beroepschrift blijkt dat geen beroep wordt ingesteld tegen de echtscheiding zelf.
 
 In geval van onduidelijkheid wordt een akte van berusting verlangd.
 
-#### Artikel 7. Verweertermijnen
+##### Artikel 7. Verweertermijnen
 
 1. Het hof geeft het einde van de verweertermijn op bij doorzending van een verzoekschrift of van een rekest met incidenteel beroep. Gewoonlijk beloopt de termijn vier weken.
 
 2. In niet-financiële en spoedeisende financiële zaken kan een kortere termijn worden bepaald.
 
-#### Artikel 8. Intrekking
+##### Artikel 8. Intrekking
 
 Ontvangst van een mededeling van intrekking beëindigt het ingetrokken principale dan wel het ingetrokken incidentele beroep, tenzij daarna met bekwame spoed een beslissing over de proceskosten wordt gevraagd of herhaald.
 
-#### Artikel 9. Uitstel
+##### Artikel 9. Uitstel
 
 1. Zonder uitstelmededeling van het hof mag niemand op uitstel rekenen.
 
@@ -136,19 +156,19 @@ Ontvangst van een mededeling van intrekking beëindigt het ingetrokken principal
 
 5. Lopende schikkingsonderhandelingen zijn geen reden voor uitstel.
 
-#### Artikel 10. Afdoening zonder mondelinge behandeling
+##### Artikel 10. Afdoening zonder mondelinge behandeling
 
 1. Op schriftelijke verzoek(en) van alle partijen wordt zonder mondelinge behandeling uitspraak gedaan. Op hun verzoek wordt daarin een overeenkomst vastgelegd.
 
 2. Wegens schikkingsonderhandelingen mogen partijen gezamenlijk afzien van een mondelinge behandeling in ruil voor de bevoegdheid binnen een door hen voor te stellen termijn van enkele maanden nog eenmaal schriftelijk mee te delen wat zij nuttig achten.
 
-#### Artikel 11. Mondelinge behandeling
+##### Artikel 11. Mondelinge behandeling
 
 1. Bij de mondelinge behandeling, die vooral voor vragen aan de partijen zelf dient, hebben advocaten een korte spreektijd.
 
 2. Slechts met instemming van de partijen kan het hof ter zitting toestaan dat binnen een bepaalde zeer korte termijn een eenvoudig stuk mag worden nagestuurd waarop de wederpartij dan binnen een week mag reageren. Stukken die na de behandeling buiten zo’n afspraak om of te laat worden ontvangen, zendt het hof terug.
 
-#### Artikel 12. Slotbepaling
+##### Artikel 12. Slotbepaling
 
 Indien de omstandigheden van het geval daartoe nopen, kan het hof van dit reglement afwijken.
 

@@ -1,13 +1,39 @@
 ---
-title: "Beleidslijn verklaring van geen bezwaar gekwalificeerde deelneming in een marktexploitant ex artikel 5:32d Wft"
+title: "Beleidslijn van de Minister van Financiën inzake de aanvraag of verlening van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een marktexploitant op grond van artikel 5:32d Wft"
 identifier: "BWBR0023446"
-categorie: "Bestuursrecht"
-publicatiedatum: 2008-02-07
-laatste_update: 2008-02-07
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0023446"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2008-02-07"
+last_updated: "2008-02-07"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0023446"
+soort: "beleidsregel"
+stam_id: "9413003"
+version_id: "15152422"
+internal_id: "C20656271"
+label_id: "9390494"
+dtd_version: "2.0"
+original_entry_into_force: "2008-02-07"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0023446/2008-02-07/0"
+intitule_bron: "Stcrt.2008-27"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2008-01-30"
+intitule_published: "2008-02-07"
+intitule_in_force: "2008-02-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2008-27"
+original_signed_date: "2008-01-30"
+original_published_date: "2008-02-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2008-27-p8-SC84384"
+entry_into_force_date: "2008-02-07"
+jci_1_3: "jci1.3:c:BWBR0023446&z=2008-02-07&g=2008-02-07"
+jci_1_0: "1.0:c:BWBR0023446&g=2008-02-07"
+citeertitel_status: "redactioneel"
+short_title: "Beleidslijn verklaring van geen bezwaar gekwalificeerde deelneming in een marktexploitant ex artikel 5:32d Wft"
+signed_date: "2008-01-30"
+entry_into_force: "2008-02-07"
 ---
-
 # Beleidslijn van de Minister van Financiën inzake de aanvraag of verlening van een verklaring van geen bezwaar voor een gekwalificeerde deelneming in een marktexploitant op grond van artikel 5:32d Wft
 
 ### Inleiding

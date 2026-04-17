@@ -1,13 +1,38 @@
 ---
 title: "Subsidieregeling kosteloze rechtsbijstand procedures rondom uithuisplaatsing en gezagsbeëindiging minderjarigen voor gedupeerde ouders herstelregelingen kinderopvangtoeslag"
 identifier: "BWBR0050468"
-categorie: "Sociaal recht"
-publicatiedatum: 2024-11-28
-laatste_update: 2024-11-28
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0050468"
+country: "nl"
+rank: "zbo"
+publication_date: "2024-11-28"
+last_updated: "2024-11-28"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0050468"
+soort: "zbo"
+stam_id: "17288153"
+version_id: "30447632"
+internal_id: "C43659181"
+label_id: "17192344"
+dtd_version: "2.0"
+original_entry_into_force: "2024-11-28"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0050468/2024-11-28/0"
+intitule_bron: "Stcrt.2024-38635"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2024-11-04"
+intitule_published: "2024-11-27"
+intitule_in_force: "2024-11-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2024-38635"
+original_signed_date: "2024-11-04"
+original_published_date: "2024-11-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2024-38635"
+entry_into_force_date: "2024-11-28"
+jci_1_3: "jci1.3:c:BWBR0050468&z=2024-11-28&g=2024-11-28"
+jci_1_0: "1.0:c:BWBR0050468&g=2024-11-28"
+citeertitel_status: "officieel"
+signed_date: "2024-11-04"
+entry_into_force: "2024-11-28"
 ---
-
 # Subsidieregeling kosteloze rechtsbijstand procedures rondom uithuisplaatsing en gezagsbeëindiging minderjarigen voor gedupeerde ouders herstelregelingen kinderopvangtoeslag
 
 gelet op [artikel 37b van de Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368&artikel=37b), waarin is bepaald dat het bestuur van de Raad voor Rechtsbijstand subsidie kan verstrekken ten behoeve van de verlening van rechtsbijstand voor bijzondere doeleinden en projecten,
@@ -18,7 +43,7 @@ de volgende subsidieregeling vast te stellen.
 
 ### Hoofdstuk I. Algemeen
 
-#### Artikel 1. Begripsbepalingen
+##### Artikel 1. Begripsbepalingen
 
 In deze subsidieregeling wordt verstaan onder:
 
@@ -42,13 +67,13 @@ In deze subsidieregeling wordt verstaan onder:
 
 - j. **Wrb:** [Wet op de rechtsbijstand](https://wetten.overheid.nl/jci1.3:c:BWBR0006368).
 
-#### Artikel 2. Doel
+##### Artikel 2. Doel
 
 Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand te bieden aan de rechtzoekende als bedoeld in [artikel 1 onder f](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=I&artikel=1&z=2024-11-28&g=2024-11-28).
 
 ### Hoofdstuk II. De vergoedingen
 
-#### Artikel 3. De vergoedingen
+##### Artikel 3. De vergoedingen
 
 1. Advocaten ontvangen overeenkomstig de bepalingen van deze regeling een vergoeding voor de verlening van rechtsbijstand aan de rechtzoekende ter zake een procedure met betrekking tot uithuisplaatsing of gezagsbeëindiging.
 
@@ -84,7 +109,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 ### Hoofdstuk III. Voorwaarden
 
-#### Artikel 4. Voorwaarden tot deelname voor advocaten
+##### Artikel 4. Voorwaarden tot deelname voor advocaten
 
 1. De regeling is van toepassing op advocaten die voldoen aan de in de bijlage onder I genoemde deelnamecriteria.
 
@@ -92,7 +117,7 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 ### Hoofdstuk IV. Aanvraag rechtsbijstand
 
-#### Artikel 5. Aanvraag van de rechtsbijstand
+##### Artikel 5. Aanvraag van de rechtsbijstand
 
 1. De aanvraag voor rechtsbijstand wordt door de rechtzoekende bij het bestuur ingediend.
 
@@ -108,21 +133,21 @@ Deze regeling heeft tot doel adequate en kosteloze gefinancierde rechtsbijstand 
 
 7. Indien de advocaat voor inwerkingtreding van de regeling met de rechtzoekende afspraken heeft gemaakt over betaling van de kosten voor rechtsbijstand en overeenkomstig [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=V&artikel=8&z=2024-11-28&g=2024-11-28) van de regeling die rechtsbijstand onder de werking van de regeling blijkt te vallen, kan alsnog rechtsbijstand op grond van dit artikel worden aangevraagd. De vergoeding als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0050468&hoofdstuk=II&artikel=3&z=2024-11-28&g=2024-11-28) van de regeling kan door de advocaat vervolgens worden aangevraagd onder het vereiste dat die vergoeding dan in de plaats treedt van de gemaakte afspraken.
 
-#### Artikel 6. Aanvraag van de vergoeding
+##### Artikel 6. Aanvraag van de vergoeding
 
 Uiterlijk binnen 6 maanden na afronding van de werkzaamheden die in het kader van deze regeling worden vergoed, vraagt de toegevoegde advocaat bij het bestuur de vergoeding aan met het formulier ‘Aanvraag vergoeding rechtsbijstand uithuisplaatsing kinderopvangtoeslag’. Bij dit formulier voegt de advocaat, indien van toepassing, de uitspraak of beslissing, vergezeld van een urenstaat.
 
 ### Hoofdstuk V. Overgangs- en slotbepalingen
 
-#### Artikel 7. Overgangsbepaling
+##### Artikel 7. Overgangsbepaling
 
 Procedures met betrekking tot uithuisplaatsing of gezagsbeëindiging als bedoeld in deze regeling waar op 1 januari 2022 of daarna rechtsbijstand is of wordt verleend, vallen onder deze regeling.
 
-#### Artikel 8. Citeertitel
+##### Artikel 8. Citeertitel
 
 Deze regeling wordt aangehaald als: Subsidieregeling kosteloze rechtsbijstand procedures rondom uithuisplaatsing en gezagsbeëindiging minderjarigen voor gedupeerde ouders herstelregelingen kinderopvangtoeslag.
 
-#### Artikel 9. Inwerkingtreding en vervaldatum
+##### Artikel 9. Inwerkingtreding en vervaldatum
 
 1. Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2022.
 

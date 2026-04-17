@@ -1,14 +1,37 @@
 ---
-title: "Uitvoeringswet EEG-Executieverdrag"
+title: "Wet van 4 mei 1972, houdende uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol"
 identifier: "BWBR0002815"
-categorie: "Internationaal recht"
-publicatiedatum: 2008-09-01
-laatste_update: 2008-09-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0002815"
+country: "nl"
+rank: "wet"
+publication_date: "2008-09-01"
+last_updated: "2008-09-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0002815"
+soort: "wet"
+stam_id: "1776823"
+version_id: "2641402"
+internal_id: "C2641401"
+label_id: "1732674"
+dtd_version: "2.0"
+original_entry_into_force: "1973-02-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0002815/2008-09-01/0"
+intitule_bron: "Stb.1972-240"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1972-05-04"
+intitule_status: "goed"
+original_publication: "Stb.1972-240"
+original_signed_date: "1972-05-04"
+original_effect: "nieuwe-regeling"
+original_dossier: "11154"
+entry_into_force_date: "1973-02-01"
+jci_1_3: "jci1.3:c:BWBR0002815&z=2008-09-01&g=2008-09-01"
+jci_1_0: "1.0:c:BWBR0002815&g=2008-09-01"
+citeertitel_status: "officieel"
+short_title: "Uitvoeringswet EEG-Executieverdrag"
+signed_date: "1972-05-04"
+entry_into_force: "1973-02-01"
 ---
-
-# Uitvoeringswet EEG-Executieverdrag
+# Wet van 4 mei 1972, houdende uitvoering van het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap tot stand gekomen Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
@@ -16,11 +39,11 @@ Alzo Wij in overweging genomen hebben, dat er aanleiding is om voorzieningen te 
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-#### Artikel 1
+##### Artikel 1
 
 In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brussel tussen de Lid-Staten van de Europese Economische Gemeenschap gesloten Verdrag betreffende de rechterlijke bevoegdheid en de tenuitvoerlegging van beslissingen in burgerlijke en handelszaken, met Protocol (**Trb.** 1969, 101).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Ten aanzien van het verlof tot tenuitvoerlegging bedoeld in artikel 31 van het verdrag, zijn de [artikelen 985-991 van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=985) niet van toepassing.
 
@@ -30,7 +53,7 @@ In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brus
 
 4. In afwijking van het gestelde in de tweede zin van het tweede lid is de bijstand van een advocaat niet vereist indien het bedrag dat de partij tegen wie de tenuitvoerlegging wordt gevraagd moet voldoen in hoofdsom niet hoger is dan het bedrag, genoemd in [artikel 93 onder a van het Wetboek van Burgerlijke Rechtsvordering](https://wetten.overheid.nl/jci1.3:c:BWBR0001827&artikel=93). Is het eerstbedoelde bedrag uitgedrukt in een buitenlandse munteenheid, dan moet het worden omgerekend tegen de koers van de dag van de indiening van het verzoek om verlof tot tenuitvoerlegging.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Inwilliging van het verzoek geschiedt in de vorm van een eenvoudig verlof, dat op de overgelegde expeditie van de ten uitvoer te leggen beslissing wordt gesteld.
 
@@ -40,15 +63,15 @@ In deze wet wordt onder "het verdrag" verstaan, het op 27 september 1968 te Brus
 
 4. De kennisgeving aan de verzoeker van de op het verzoek gegeven beslissing geschiedt bij brief.
 
-#### Artikel 4
+##### Artikel 4
 
 De rechtbank tot welker voorzieningenrechter het verzoek om verlof tot tenuitvoerlegging werd gericht neemt kennis van het verzet, bedoeld in de artikelen 36-39 van het verdrag.
 
-#### Artikel 5
+##### Artikel 5
 
 Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van het op verzet gewezen vonnis van de rechtbank.
 
-#### Artikel 6
+##### Artikel 6
 
 1. Het beroep, bedoeld in artikel 40 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking, waarbij het verlof is geweigerd.
 
@@ -70,7 +93,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 8. Na afloop van het verhoor deelt het gerechtshof mede, wanneer de uitspraak zal plaatsvinden.
 
-#### Artikel 7
+##### Artikel 7
 
 1. De beschikking van het gerechtshof is met redenen omkleed en wordt in het openbaar uitgesproken.
 
@@ -78,7 +101,7 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 3. Ten aanzien van de proceskosten is het bepaalde in de [tweede paragraaf van de twaalfde afdeling van de tweede titel van het eerste boek van het Wetboek van Burgerlijke Rechtsvordering](onbekend) van toepassing.
 
-#### Artikel 8
+##### Artikel 8
 
 1. Het beroep in cassatie, bedoeld in artikel 41 van het verdrag, moet worden ingesteld binnen een maand na de dagtekening van de beschikking van het gerechtshof.
 
@@ -86,15 +109,15 @@ Het beroep in cassatie, bedoeld in artikel 37, laatste lid, van het verdrag, moe
 
 3. Tegen de beschikking van de Hoge Raad is geen verzet toegelaten.
 
-#### Artikel 9
+##### Artikel 9
 
 Vervallen
 
-#### Artikel 10
+##### Artikel 10
 
 Het in de voorafgaande artikelen bepaalde is van overeenkomstige toepassing ten aanzien van executoriale titels, genoemd in de artikelen 50 en 51 van het verdrag.
 
-#### Artikel 11
+##### Artikel 11
 
 Deze wet treedt in werking op een door Ons te bepalen tijdstip.
 

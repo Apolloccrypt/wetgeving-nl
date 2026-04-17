@@ -1,13 +1,37 @@
 ---
 title: "Circulaire Inwerkingtreding EG-Insolventieverordening"
 identifier: "BWBR0013970"
-categorie: "Bestuursrecht"
-publicatiedatum: 2002-08-27
-laatste_update: 2002-08-27
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0013970"
+country: "nl"
+rank: "circulaire"
+publication_date: "2002-08-27"
+last_updated: "2002-08-27"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0013970"
+soort: "circulaire"
+stam_id: "6339783"
+version_id: "10994072"
+internal_id: "C14886791"
+label_id: "6328844"
+original_entry_into_force: "2002-08-27"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0013970/2002-08-27/0"
+intitule_bron: "Stcrt.2002-163"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2002-08-20"
+intitule_published: "2002-08-27"
+intitule_in_force: "2002-08-27"
+intitule_status: "goed"
+original_publication: "Stcrt.2002-163"
+original_signed_date: "2002-08-20"
+original_published_date: "2002-08-27"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2002-163-p11-SC36039"
+entry_into_force_date: "2002-08-27"
+jci_1_3: "jci1.3:c:BWBR0013970&z=2002-08-27&g=2002-08-27"
+jci_1_0: "1.0:c:BWBR0013970&g=2002-08-27"
+citeertitel_status: "redactioneel"
+signed_date: "2002-08-20"
+entry_into_force: "2002-08-27"
 ---
-
 # Circulaire Inwerkingtreding EG-Insolventieverordening
 
 Aan:

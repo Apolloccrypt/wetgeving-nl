@@ -1,20 +1,42 @@
 ---
 title: "Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)"
 identifier: "BWBR0033122"
-categorie: "Bestuursrecht"
-publicatiedatum: 2004-04-18
-laatste_update: 2004-04-18
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0033122"
+country: "nl"
+rank: "zbo"
+publication_date: "2004-04-18"
+last_updated: "2004-04-18"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0033122"
+soort: "zbo"
+stam_id: "12171053"
+version_id: "20324742"
+internal_id: "C28593711"
+label_id: "12142804"
+dtd_version: "2.0"
+original_entry_into_force: "2004-04-18"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0033122/2004-04-18/0"
+intitule_bron: "Stcrt.2004-73"
+intitule_effect: "nieuwe-regeling"
+intitule_published: "2004-04-16"
+intitule_in_force: "2004-04-16"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-73"
+original_published_date: "2004-04-16"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-73-p30-SC64713"
+entry_into_force_date: "2004-04-18"
+jci_1_3: "jci1.3:c:BWBR0033122&z=2004-04-18&g=2004-04-18"
+jci_1_0: "1.0:c:BWBR0033122&g=2004-04-18"
+citeertitel_status: "officieel"
+entry_into_force: "2004-04-18"
 ---
-
 # Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob)
 
 Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van regels van de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](https://wetten.overheid.nl/jci1.3:c:BWBR0013798) op de toetsing van vergunningen beroepsgoederenvervoer (Beleidsregel toetsing vergunningen beroepsgoederenvervoer aan de Wet Bibob)
 
 ### Hoofdstuk 1. Definities en toepassing
 
-#### Artikel 1
+##### Artikel 1
 
 In deze beleidsregel wordt verstaan onder:
 
@@ -34,7 +56,7 @@ In deze beleidsregel wordt verstaan onder:
 
 - h. **vergunning:** vergunning als bedoeld in [artikel 5, eerste lid en derde lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=5).
 
-#### Artikel 2
+##### Artikel 2
 
 Deze beleidsregel heeft betrekking op:
 
@@ -48,11 +70,11 @@ Deze beleidsregel heeft betrekking op:
 
 #### Paragraaf 1. Voordelen uit strafbare feiten
 
-#### Artikel 3
+##### Artikel 3
 
 De NIWO kan op grond van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=7), en [artikel 12, tweede lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=12) een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten.
 
-#### Artikel 4
+##### Artikel 4
 
 1. De NIWO neemt ingevolge het gevaar als bedoeld in [artikel 3](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=1&artikel=3&z=2004-04-18&g=2004-04-18) uitsluitend strafbare feiten in aanmerking:
 
@@ -66,7 +88,7 @@ De NIWO kan op grond van [artikel 7, tweede lid](https://wetten.overheid.nl/jci1
 
 - e. die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel economische, maatschappelijke of openbare belangen kunnen worden geschaad.
 
-#### Artikel 5
+##### Artikel 5
 
 Als strafbare feiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=1&artikel=4&z=2004-04-18&g=2004-04-18), kunnen in ieder geval worden aangemerkt:
 
@@ -134,7 +156,7 @@ Als strafbare feiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c
 
 - b. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
 
-#### Artikel 6
+##### Artikel 6
 
 1. De NIWO kan de in [artikel 4](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=1&artikel=4&z=2004-04-18&g=2004-04-18) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een gepleegd strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -158,11 +180,11 @@ Als strafbare feiten, bedoeld in [artikel 4](https://wetten.overheid.nl/jci1.3:c
 
 #### Paragraaf 2. Te plegen strafbare feiten
 
-#### Artikel 7
+##### Artikel 7
 
 De NIWO kan op grond van de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=7), en [12, tweede lid, van de Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=12) een vergunning weigeren of intrekken indien er ernstig gevaar bestaat dat de vergunning mede zal worden gebruikt om strafbare feiten te plegen.
 
-#### Artikel 8
+##### Artikel 8
 
 1. De NIWO neemt ingevolge het gevaar als bedoeld in [artikel 7](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=2&artikel=7&z=2004-04-18&g=2004-04-18) uitsluitend strafbare feiten in aanmerking:
 
@@ -174,7 +196,7 @@ De NIWO kan op grond van de [artikelen 7, tweede lid](https://wetten.overheid.nl
 
 - d. die van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel economische, maatschappelijke of openbare belangen kunnen worden geschaad.
 
-#### Artikel 9
+##### Artikel 9
 
 Als strafbare feiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-04-18&g=2004-04-18) kunnen in ieder geval worden aangemerkt:
 
@@ -228,7 +250,7 @@ Als strafbare feiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c
 
 - d. het is verboden de handelingen, bedoeld in [artikel 2, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=2), te verrichten ten aanzien van gevaarlijke stoffen en vervoermiddelen die zijn aangewezen ingevolge [artikel 3, onderdeel b](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=3), anders dan met inachtneming van de in dat onderdeel bedoelde regels ([artikel 5, WVGS](https://wetten.overheid.nl/jci1.3:c:BWBR0007606&artikel=5)).
 
-#### Artikel 10
+##### Artikel 10
 
 1. De NIWO kan de in [artikel 8](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=2&artikel=8&z=2004-04-18&g=2004-04-18) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een gepleegd strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -252,11 +274,11 @@ Als strafbare feiten, bedoeld in [artikel 8](https://wetten.overheid.nl/jci1.3:c
 
 #### Paragraaf 3. Strafbare feiten als middel
 
-#### Artikel 11
+##### Artikel 11
 
 De NIWO kan op grond van de [artikelen 7, tweede lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=7), en [12, tweede lid, van de Wet goederenvervoer](https://wetten.overheid.nl/jci1.3:c:BWBR0005443&artikel=12) een vergunning weigeren of intrekken indien feiten en omstandigheden er op wijzen of redelijkerwijze doen vermoeden dat ter verkrijging van een vergunning een strafbaar feit is gepleegd.
 
-#### Artikel 12
+##### Artikel 12
 
 De NIWO neemt ingevolge een aanwijzing of vermoeden als bedoeld in [artikel 11](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=3&artikel=11&z=2004-04-18&g=2004-04-18) uitsluitend strafbare feiten in aanmerking die:
 
@@ -268,7 +290,7 @@ De NIWO neemt ingevolge een aanwijzing of vermoeden als bedoeld in [artikel 11](
 
 - d. van zodanig gewicht zijn dat in handeling en gevolg de rechtsorde dan wel economische, maatschappelijke of openbare belangen kunnen worden geschaad.
 
-#### Artikel 13
+##### Artikel 13
 
 Als strafbare feiten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=3&artikel=12&z=2004-04-18&g=2004-04-18), kunnen in ieder geval worden aangemerkt:
 
@@ -300,7 +322,7 @@ Als strafbare feiten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:
 
 - b. het opzettelijk of met grove schuld niet of niet tijdig betalen van belasting die een rechtspersoon verplicht is af te dragen op grond van de [Wet op de omzetbelasting](https://wetten.overheid.nl/jci1.3:c:BWBR0002629), Wet op de inkomstenbelasting en de [Algemene wet inzake rijksbelastingen](https://wetten.overheid.nl/jci1.3:c:BWBR0002320) ([artikelen 67, onder f, Awr](https://wetten.overheid.nl/jci1.3:c:BWBR0002320&artikel=67)).
 
-#### Artikel 14
+##### Artikel 14
 
 1. De NIWO kan de in [artikel 12](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=3&artikel=12&z=2004-04-18&g=2004-04-18) bedoelde strafbare feiten buiten beschouwing laten indien naar zijn oordeel een strafbaar feit door de omstandigheden van het geval in geringe mate ernstig is.
 
@@ -324,7 +346,7 @@ Als strafbare feiten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:
 
 ### Hoofdstuk 3. Afweging van belangen
 
-#### Artikel 15
+##### Artikel 15
 
 1. De NIWO kan een besluit tot weigering of intrekking van een vergunning waarbij ernstig gevaar als bedoeld in [artikel 3, eerste lid Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3) of een aanwijzing of een vermoeden als bedoeld in artikel 3, zesde lid Wet Bibob is geconstateerd achterwege laten indien sprake is van andere, zwaarwegende belangen en omstandigheden.
 
@@ -348,11 +370,11 @@ Als strafbare feiten, bedoeld in [artikel 12](https://wetten.overheid.nl/jci1.3:
 
 ### Hoofdstuk 4. Aanvraag van een advies
 
-#### Artikel 16
+##### Artikel 16
 
 Alvorens de NIWO een advies als bedoeld in [artikel 9, eerste lid van de Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) aanvraagt, maakt hij redelijkerwijze gebruik van andere, bij of krachtens de [Wet goederenvervoer over de weg](https://wetten.overheid.nl/jci1.3:c:BWBR0005443) en de [Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537) toegestane middelen om te toetsen of er feiten of omstandigheden aanwezig zijn die kunnen leiden tot toepassing van [artikel 3, eerste of zesde lid Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=3).
 
-#### Artikel 17
+##### Artikel 17
 
 1. De feiten en omstandigheden die kunnen leiden tot aanvraag van een advies als bedoeld in [artikel 9, eerste lid Wet Bibob](https://wetten.overheid.nl/jci1.3:c:BWBR0013798&artikel=9) kunnen blijken uit:
 
@@ -366,7 +388,7 @@ Alvorens de NIWO een advies als bedoeld in [artikel 9, eerste lid van de Wet Bib
 
 2. De feiten of omstandigheden, bedoeld in het eerste lid, duiden op een mogelijk verband met een strafbaar feit als bedoeld in de [paragrafen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=1&z=2004-04-18&g=2004-04-18), [2](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=2&z=2004-04-18&g=2004-04-18) of [3 van hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&paragraaf=3&z=2004-04-18&g=2004-04-18).
 
-#### Artikel 18
+##### Artikel 18
 
 Onder de in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=4&artikel=17&z=2004-04-18&g=2004-04-18) genoemde kenmerken van de aanvrager of houder van een vergunning of de omgeving waarbinnen hij zijn activiteiten verricht wordt verstaan:
 
@@ -386,7 +408,7 @@ Onder de in [artikel 17, eerste lid, onder a](https://wetten.overheid.nl/jci1.3:
 
 - h. onduidelijke eigendom van in gebruik genomen panden, gronden en bedrijfsmiddelen.
 
-#### Artikel 19
+##### Artikel 19
 
 Onder de in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=4&artikel=17&z=2004-04-18&g=2004-04-18) genoemde gegevens uit gesloten of open bronnen wordt verstaan:
 
@@ -436,7 +458,7 @@ Onder de in [artikel 17, eerste lid, onder b](https://wetten.overheid.nl/jci1.3:
 
 - w. ontvangen klachten van klanten, leveranciers, afnemers en omwonenden van het bedrijf die duiden op een verband met strafbare feiten als bedoeld in [hoofdstuk 2](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=2&z=2004-04-18&g=2004-04-18).
 
-#### Artikel 20
+##### Artikel 20
 
 Onder de in [artikel 17, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=4&artikel=17&z=2004-04-18&g=2004-04-18) genoemde gedragingen van de aanvrager of houder van een vergunning wordt verstaan:
 
@@ -452,7 +474,7 @@ Onder de in [artikel 17, eerste lid, onder c](https://wetten.overheid.nl/jci1.3:
 
 - f. herhaald uitstel vragen bij het overleggen van bewijs ter voldoening aan eisen.
 
-#### Artikel 21
+##### Artikel 21
 
 Onder de in [artikel 17, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=4&artikel=17&z=2004-04-18&g=2004-04-18) genoemde objectieve kenmerken wordt verstaan:
 
@@ -474,7 +496,7 @@ Onder de in [artikel 17, eerste lid, onder d](https://wetten.overheid.nl/jci1.3:
 
 - i. één of meer buitenlandse vestigingen.
 
-#### Artikel 22
+##### Artikel 22
 
 Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofdstuk=4&artikel=16&z=2004-04-18&g=2004-04-18) wordt een advies uitsluitend aangevraagd indien op een aanvrager of houder van een vergunning:
 
@@ -484,16 +506,16 @@ Onverminderd [artikel 16](https://wetten.overheid.nl/jci1.3:c:BWBR0033122&hoofds
 
 ### Hoofdstuk 5. Bijzondere omstandigheden
 
-#### Artikel 23
+##### Artikel 23
 
 De NIWO kan in bijzondere omstandigheden van deze beleidsregel afwijken voor zover dit gelet op het achterhalen, voorkomen of tegengaan van misbruik van een vergunning niet zal leiden tot een onbillijkheid van overwegende aard.
 
 ### Hoofdstuk 6. Overige bepalingen
 
-#### Artikel 24
+##### Artikel 24
 
 Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.
 
-#### Artikel 25
+##### Artikel 25
 
 Deze beleidsregel wordt aangehaald als: Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) toetsing vergunningen beroepsgoederenvervoer over de weg aan de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur (Bibob).

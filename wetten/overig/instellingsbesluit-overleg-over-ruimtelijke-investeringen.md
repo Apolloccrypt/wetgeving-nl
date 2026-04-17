@@ -1,13 +1,37 @@
 ---
 title: "Instellingsbesluit Overleg over Ruimtelijke Investeringen"
 identifier: "BWBR0004902"
-categorie: "Overig"
-publicatiedatum: 1990-11-15
-laatste_update: 1990-11-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0004902"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "1990-11-15"
+last_updated: "1990-11-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0004902"
+soort: "ministeriele-regeling"
+stam_id: "4284973"
+version_id: "6048552"
+internal_id: "C6251951"
+label_id: "4263524"
+dtd_version: "2.0"
+original_entry_into_force: "1990-11-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0004902/1990-11-15/0"
+intitule_bron: "Stcrt.1990-234"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1990-11-15"
+intitule_published: "1990-11-30"
+intitule_in_force: "1990-11-30"
+intitule_status: "goed"
+original_publication: "Stcrt.1990-234"
+original_signed_date: "1990-11-15"
+original_published_date: "1990-11-30"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1990-11-15"
+jci_1_3: "jci1.3:c:BWBR0004902&z=1990-11-15&g=1990-11-15"
+jci_1_0: "1.0:c:BWBR0004902&g=1990-11-15"
+citeertitel_status: "officieel"
+signed_date: "1990-11-15"
+entry_into_force: "1990-11-15"
 ---
-
 # Instellingsbesluit Overleg over Ruimtelijke Investeringen
 
 Overwegende
@@ -22,11 +46,11 @@ dat besluiten over financiële participatie in investeringsprojecten per project
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 1. Er is een Overleg over Ruimtelijke Investeringen (ORI).
 
-#### Artikel 2
+##### Artikel 2
 
 1. Het ORI heeft als taak het ontwikkelen van een gemeenschappelijk referentiekader voor de ruimtelijke investeringen die door de publieke en private sector in samenwerking worden gedaan.
 
@@ -36,13 +60,13 @@ Met het oog daarop zal in het referentiekader aandacht worden besteed aan de wij
 
 3. Het ORI kan geen besluiten nemen over de financiering van concrete investeringsprojecten. Het referentiekader heeft derhalve geen verplichtend karakter.
 
-#### Artikel 3
+##### Artikel 3
 
 1. Het ORI is een informeel overlegforum.
 
 2. De resultaten van het informele overleg zullen ter kennis worden gebracht van tenminste alle in de aanhef genoemde Ministers en Staatssecretarissen, van de desbetreffende lagere overheden en vertegenwoordigende organen aan particuliere zijde, teneinde bij de beleidsbepaling mede een rol te kunnen spelen.
 
-#### Artikel 4
+##### Artikel 4
 
 1. Het overleg bestaat uit:
 
@@ -54,7 +78,7 @@ Deelnemers van de zijde van:
 
 2. De samenstelling van het ORI kan door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer worden gewijzigd na overleg met de in de aanhef genoemde bewindslieden en met de voorzitter van het ORI.
 
-#### Artikel 5
+##### Artikel 5
 
 1. De leden van het Overleg hebben op persoonlijke titel zitting in het ORI.
 
@@ -64,19 +88,19 @@ Deelnemers van de zijde van:
 
 4. De plenaire bijeenkomsten van het ORI zullen enkele malen per jaar plaatsvinden.
 
-#### Artikel 6
+##### Artikel 6
 
 1. De werkzaamheden van het ORI worden voorbereid door een projectgroep waarin medewerkers van de ORI-leden zitting hebben onder leiding van een projectleider.
 
 2. Ten behoeve van het ORI functioneert een bij de Rijksplanologische Dienst ondergebracht secretariaat.
 
-#### Artikel 7
+##### Artikel 7
 
 1. Na verloop van twee jaar wordt het ORI geëvalueerd. Op basis van de evaluatie wordt dan ook over de termijn van voortzetting van het ORI beslist.
 
 2. Het beheer van de bescheiden betreffende de werkzaamheden van het ORI geschiedt met in achtneming van de bepalingen van het Besluit Algemene Secretarie-aangelegenheden Rijksadministratie (Stb. 1980, 182) op overeenkomstige wijze als bij het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De bescheiden worden na beëindiging van de werkzaamheden van het ORI opgeborgen in het archief van het ministerie.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit treedt in werking met ingang van 15 november 1990.
 

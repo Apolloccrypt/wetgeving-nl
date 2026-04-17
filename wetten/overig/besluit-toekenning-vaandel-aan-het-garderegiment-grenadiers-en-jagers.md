@@ -1,13 +1,35 @@
 ---
-title: "Besluit toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
+title: "Besluit van 22 september 1994, houdende toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
 identifier: "BWBR0006934"
-categorie: "Overig"
-publicatiedatum: 1995-04-06
-laatste_update: 1995-04-06
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0006934"
+country: "nl"
+rank: "kb"
+publication_date: "1995-04-06"
+last_updated: "1995-04-06"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0006934"
+soort: "KB"
+stam_id: "1037333"
+version_id: "1523372"
+internal_id: "C1523371"
+label_id: "1004824"
+dtd_version: "2.0"
+original_entry_into_force: "1995-04-06"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0006934/1995-04-06/0"
+intitule_bron: "Stb.1994-778"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "1994-09-22"
+intitule_status: "goed"
+original_publication: "Stb.1994-778"
+original_signed_date: "1994-09-22"
+original_effect: "nieuwe-regeling"
+entry_into_force_date: "1995-04-06"
+jci_1_3: "jci1.3:c:BWBR0006934&z=1995-04-06&g=1995-04-06"
+jci_1_0: "1.0:c:BWBR0006934&g=1995-04-06"
+citeertitel_status: "officieel"
+short_title: "Besluit toekenning vaandel aan het Garderegiment Grenadiers en Jagers"
+signed_date: "1994-09-22"
+entry_into_force: "1995-04-06"
 ---
-
 # Besluit van 22 september 1994, houdende toekenning vaandel aan het Garderegiment Grenadiers en Jagers
 
 Op de voordracht van Onze Minister van Defensie van 13 september 1994, Bevelhebber der Landstrijdkrachten nummer KAB/8659;
@@ -18,7 +40,7 @@ Gelet op het gestelde in het Koninklijk Besluit van 7 juli 1829, nummer 104 sind
 
 Hebben goedgevonden en verstaan;
 
-#### Artikel 1
+##### Artikel 1
 
 - a. Het Garderegiment Grenadiers en het Garderegiment Jagers worden samengevoegd tot het Garderegiment Grenadiers en Jagers. Onze Minister van Defensie is belast met de vaststelling van de organisatie, die minimaal uit een, niet mobilisabel, bataljon bestaat, dat Garde Grenadier- en Garde Jager-compagnieën omvat.
 
@@ -28,7 +50,7 @@ Hebben goedgevonden en verstaan;
 
 - d. De bij het Garderegiment Grenadiers en Jagers te plaatsen officieren worden, op voordracht van de Regimentscommandant, bij Ons Besluit geplaatst. De officieren en onderofficieren zullen zoveel mogelijk, zulks ter beoordeling van de Regimentscommandant, gelijkelijk verdeeld behoren tot de Garde Grenadiers en Garde Jagers.
 
-#### Artikel 2
+##### Artikel 2
 
 - a. De traditie van het Garderegiment Grenadiers en van het Garderegiment Jagers gaat over op en wordt voortgezet door het Garderegiment Grenadiers en Jagers.
 
@@ -36,7 +58,7 @@ Hebben goedgevonden en verstaan;
 
 - c. Het vaandel van het Garderegiment Grenadiers en het vaandel van het Garderegiment Jagers zullen worden ingenomen.
 
-#### Artikel 3
+##### Artikel 3
 
 Aan het Garderegiment Grenadiers en Jagers wordt een vaandel uitgereikt:
 
@@ -44,7 +66,7 @@ Aan het Garderegiment Grenadiers en Jagers wordt een vaandel uitgereikt:
 
 - b. Waaraan, gelet op de bijlage dezes, het Metalen Kruis van Koning Willem II is gehecht.
 
-#### Artikel 4
+##### Artikel 4
 
 Het vaandel bestaat uit:
 
@@ -54,11 +76,11 @@ Het vaandel bestaat uit:
 
 - c. Het Metalen Kruis, vrijhangend aan het bijbehorende lint, dat een lengte heeft van 30 cm en dat bevestigd is aan de stok ter hoogte van de eikenkrans.
 
-#### Artikel 5
+##### Artikel 5
 
 In het Koninklijk Besluit van 12 maart 1977, nummer 101, [artikel 3 lid 2](https://wetten.overheid.nl/jci1.3:c:BWBR0006934&artikel=3&z=1995-04-06&g=1995-04-06), wordt het Garderegiment Grenadiers en Garderegiment Jagers vervangen door Garderegiment Grenadiers en Jagers. Een overzicht in de bijbehorende bijlage wordt op overeenkomstige wijze gewijzigd.
 
-#### Artikel 6
+##### Artikel 6
 
 Dit Besluit treedt per 6 april 1995 in werking.
 

@@ -1,13 +1,39 @@
 ---
-title: "Besluit bijdrage PUC"
+title: "Besluit van 3 juli 2017, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de voorziening Publicatieplatform voor uitvoeringscontent (Besluit bijdrage PUC)"
 identifier: "BWBR0039778"
-categorie: "Bestuursrecht"
-publicatiedatum: 2017-07-15
-laatste_update: 2017-07-15
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0039778"
+country: "nl"
+rank: "amvb"
+publication_date: "2017-07-15"
+last_updated: "2017-07-15"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0039778"
+soort: "AMvB"
+stam_id: "14069733"
+version_id: "24225812"
+internal_id: "C34797311"
+label_id: "14030784"
+dtd_version: "2.0"
+original_entry_into_force: "2017-07-15"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0039778/2017-07-15/0"
+intitule_bron: "Stb.2017-304"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2017-07-03"
+intitule_published: "2017-07-14"
+intitule_in_force: "2017-07-14"
+intitule_status: "goed"
+original_publication: "Stb.2017-304"
+original_signed_date: "2017-07-03"
+original_published_date: "2017-07-14"
+original_effect: "nieuwe-regeling"
+original_url_id: "stb-2017-304"
+entry_into_force_date: "2017-07-15"
+jci_1_3: "jci1.3:c:BWBR0039778&z=2017-07-15&g=2017-07-15"
+jci_1_0: "1.0:c:BWBR0039778&g=2017-07-15"
+citeertitel_status: "officieel"
+short_title: "Besluit bijdrage PUC"
+signed_date: "2017-07-03"
+entry_into_force: "2017-07-15"
 ---
-
 # Besluit van 3 juli 2017, houdende vaststelling van de grondslag voor de bijdrage van zelfstandig bestuursorganen voor het gebruik van de voorziening Publicatieplatform voor uitvoeringscontent (Besluit bijdrage PUC)
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 april 2017, nr. 2017- 0000195422;
@@ -20,7 +46,7 @@ Gezien het nader rapport van Onze Minister van Binnenlandse Zaken en Koninkrijks
 
 Hebben goedgevonden en verstaan:
 
-#### Artikel 1. Begripsomschrijvingen
+##### Artikel 1. Begripsomschrijvingen
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -36,7 +62,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 - –. **PUC:** Publicatieplatform voor uitvoeringscontent, dat in stand wordt gehouden door Onze Minister.
 
-#### Artikel 2. Eenmalige bijdrage en eenmalige compensatie
+##### Artikel 2. Eenmalige bijdrage en eenmalige compensatie
 
 1. Aan een aangesloten bestuursorgaan dat ingevolge een besluit van Onze Minister als bedoeld in [artikel 21a van de Kaderwet](https://wetten.overheid.nl/jci1.3:c:BWBR0020495&artikel=21a) gebruik zal gaan maken van het PUC wordt in het jaar waarin Onze Minister dat besluit heeft genomen een bijdrage in rekening gebracht voor de onderzoeks- en migratiekosten, de kosten voor de inrichting van het PUC ten behoeve van dat aangesloten bestuursorgaan en bijkomende kosten.
 
@@ -44,7 +70,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 3. Indien in enig jaar maatwerkaanpassingen zijn gedaan die later aan de generieke componenten van het PUC zijn toegevoegd, worden de desbetreffende aangesloten bestuursorganen eenmalig gecompenseerd voor de kosten die ingevolge het tweede lid in rekening zijn gebracht.
 
-#### Artikel 3. Structurele bijdrage
+##### Artikel 3. Structurele bijdrage
 
 1. Aan een aangesloten bestuursorgaan wordt een bijdrage per jaar in rekening gebracht die bestaat uit:
 
@@ -60,11 +86,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 4. Het deel van de bijdrage, bedoeld in het eerste lid, onder c, wordt vastgesteld op basis van de omvang van het gebruik van het PUC door het aangesloten bestuursorgaan.
 
-#### Artikel 4. Aanleveren gegevens
+##### Artikel 4. Aanleveren gegevens
 
 Een aangesloten bestuursorgaan verstrekt ieder jaar uiterlijk op 31 juli aan Onze Minister gegevens met betrekking tot het in het volgende jaar verwachte gebruik van het PUC.
 
-#### Artikel 5. Vaststelling bijdrage
+##### Artikel 5. Vaststelling bijdrage
 
 1. Onze Minister stelt ieder jaar op uiterlijk 30 september voor het volgende jaar voor elk aangesloten bestuursorgaan de bijdrage voorlopig vast op basis van de verwachte beheer- en gebruikskosten, bedoeld in [artikel 3, eerste lid, onder a, b en c](https://wetten.overheid.nl/jci1.3:c:BWBR0039778&artikel=3&z=2017-07-15&g=2017-07-15).
 
@@ -74,15 +100,15 @@ Een aangesloten bestuursorgaan verstrekt ieder jaar uiterlijk op 31 juli aan Onz
 
 4. De definitieve bijdrage wordt voor zover mogelijk verrekend met de voorlopige bijdrage voor het desbetreffende jaar of met de voorlopige bijdrage voor het volgende jaar.
 
-#### Artikel 6
+##### Artikel 6
 
 Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de vaststelling en de betaling van het voorschot en de bijdrage.
 
-#### Artikel 7
+##### Artikel 7
 
 Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 juli 2016.
 
-#### Artikel 8
+##### Artikel 8
 
 Dit besluit wordt aangehaald als: Besluit bijdrage PUC.
 

@@ -1,36 +1,61 @@
 ---
-title: "Regeling beheer autobanden"
+title: "Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 2 maart 2004, nr. SAS/2004020028, houdende regels met betrekking tot het vaststellen van formulieren in verband met de uitvoering van het Besluit beheer autobanden, alsmede wijziging van de Regeling verpakking en verpakkingsafval (Regeling beheer autobanden)"
 identifier: "BWBR0016459"
-categorie: "Overig"
-publicatiedatum: 2023-07-01
-laatste_update: 2023-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0016459"
+country: "nl"
+rank: "ministeriele_regeling"
+publication_date: "2023-07-01"
+last_updated: "2023-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0016459"
+soort: "ministeriele-regeling"
+stam_id: "5777213"
+version_id: "10345602"
+internal_id: "C13992681"
+label_id: "5757434"
+original_entry_into_force: "2004-04-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0016459/2023-07-01/0"
+intitule_bron: "Stcrt.2004-53"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2004-03-02"
+intitule_published: "2004-03-17"
+intitule_in_force: "2004-03-17"
+intitule_status: "goed"
+original_publication: "Stcrt.2004-53"
+original_signed_date: "2004-03-02"
+original_published_date: "2004-03-17"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2004-53-p22-SC64094"
+entry_into_force_date: "2004-04-01"
+jci_1_3: "jci1.3:c:BWBR0016459&z=2023-07-01&g=2023-07-01"
+jci_1_0: "1.0:c:BWBR0016459&g=2023-07-01"
+citeertitel_status: "officieel"
+short_title: "Regeling beheer autobanden"
+signed_date: "2004-03-02"
+entry_into_force: "2004-04-01"
 ---
-
 # Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van 2 maart 2004, nr. SAS/2004020028, houdende regels met betrekking tot het vaststellen van formulieren in verband met de uitvoering van het Besluit beheer autobanden, alsmede wijziging van de Regeling verpakking en verpakkingsafval (Regeling beheer autobanden)
 
 Gelet op de [artikelen 7, eerste lid](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=7), en [8 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=8) en [artikel 10.17, eerste lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=10.17);
 
 Besluit:
 
-#### Artikel 1
+##### Artikel 1
 
 De producent, bedoeld in [artikel 1 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1), of de importeur, bedoeld in artikel 1 van dat besluit, maakt bij het indienen van de melding, bedoeld in [artikel 4 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4), gebruik van het in [bijlage 1](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=1&z=2023-07-01&g=2023-07-01) bij deze regeling opgenomen formulier.
 
-#### Artikel 2
+##### Artikel 2
 
 De producent, bedoeld in [artikel 1 van het Besluit beheer autobanden](https://wetten.overheid.nl/jci1.3:c:BWBR0016038&artikel=1), of de importeur, bedoeld in artikel 1 van dat besluit, maakt bij het indienen van het verslag, bedoeld in [artikel 5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5), gebruik van het in [bijlage 2](https://wetten.overheid.nl/jci1.3:c:BWBR0016459&bijlage=2&z=2023-07-01&g=2023-07-01) bij deze regeling opgenomen formulier.
 
-#### Artikel 3
+##### Artikel 3
 
 Deze regeling berust op [artikel 9.5.2, zevende lid, van de Wet milieubeheer](https://wetten.overheid.nl/jci1.3:c:BWBR0003245&artikel=9.5.2) in samenhang met de [artikelen 4](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=4) en [5 van het Besluit regeling voor uitgebreide producentenverantwoordelijkheid](https://wetten.overheid.nl/jci1.3:c:BWBR0044197&artikel=5).
 
-#### Artikel 4
+##### Artikel 4
 
 Deze regeling treedt in werking met ingang van 1 april 2004.
 
-#### Artikel 5
+##### Artikel 5
 
 Deze regeling wordt aangehaald als: Regeling beheer autobanden.
 

@@ -1,20 +1,46 @@
 ---
-title: "Beleidsregel verlenen van ontheffingen voor micro- en minidrones"
+title: "Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 30 mei 2016, nr. ILT-2016/16814, voor het verlenen van ontheffingen voor micro- en minidrones"
 identifier: "BWBR0038018"
-categorie: "Bestuursrecht"
-publicatiedatum: 2016-07-01
-laatste_update: 2016-07-01
-status: geldig
-bron: "https://wetten.overheid.nl/BWBR0038018"
+country: "nl"
+rank: "beleidsregel"
+publication_date: "2016-07-01"
+last_updated: "2016-07-01"
+status: "in_force"
+source: "https://wetten.overheid.nl/BWBR0038018"
+soort: "beleidsregel"
+stam_id: "13644063"
+version_id: "23354532"
+internal_id: "C33668711"
+label_id: "13610754"
+dtd_version: "2.0"
+original_entry_into_force: "2016-07-01"
+toestand_uri: "http://wetten.overheid.nl/id/BWBR0038018/2016-07-01/0"
+intitule_bron: "Stcrt.2016-27761"
+intitule_effect: "nieuwe-regeling"
+intitule_signed: "2016-05-30"
+intitule_published: "2016-06-07"
+intitule_in_force: "2016-06-07"
+intitule_status: "goed"
+original_publication: "Stcrt.2016-27761"
+original_signed_date: "2016-05-30"
+original_published_date: "2016-06-07"
+original_effect: "nieuwe-regeling"
+original_url_id: "stcrt-2016-27761"
+entry_into_force_date: "2016-07-01"
+jci_1_3: "jci1.3:c:BWBR0038018&z=2016-07-01&g=2016-07-01"
+jci_1_0: "1.0:c:BWBR0038018&g=2016-07-01"
+citeertitel_status: "redactioneel"
+short_title: "Beleidsregel verlenen van ontheffingen voor micro- en minidrones"
+signed_date: "2016-05-30"
+entry_into_force: "2016-07-01"
 ---
-
 # Beleidsregel van de Staatssecretaris van Infrastructuur en Milieu, van 30 mei 2016, nr. ILT-2016/16814, voor het verlenen van ontheffingen voor micro- en minidrones
 
 Gelet op de [artikelen 2.1, vierde lid](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1), en [3.21, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.21) en [4:81 van de Algemene wet bestuursrecht](https://wetten.overheid.nl/jci1.3:c:BWBR0005537&artikel=4:81);
 
 Besluit:
 
-#### Artikel 1. Ontheffing voor vluchten met RPA’s van niet meer dan 4 kg (minidrones)
+##### Artikel 1. Ontheffing voor vluchten met RPA’s van niet meer dan 4 kg (minidrones)
 
 Op aanvraag wordt ontheffing verleend voor vluchten met een RPA als bedoeld in [artikel 10a, eerste lid, van de Regeling op afstand bestuurde luchtvaartuigen](onbekend) (Roabl), onder de in dat lid bedoelde beperkingen, van:
 
@@ -28,11 +54,11 @@ Op aanvraag wordt ontheffing verleend voor vluchten met een RPA als bedoeld in [
 
 - c. het verbod, bedoeld in [artikel 3.19a, eerste lid, aanhef en onder b, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=3.19a) om een vlucht uit te voeren met een burgerluchtvaartuig dat niet is voorzien van een geldig voor dat luchtvaartuig afgegeven geluidscertificaat of van een passende verklaring in een ander document dat door de staat van registratie is goedgekeurd voor zover dit voor dat luchtvaartuig vereist is.
 
-#### Artikel 2. Ontheffing voor vluchten met een RPA van niet meer dan 1 kg (microdrones)
+##### Artikel 2. Ontheffing voor vluchten met een RPA van niet meer dan 1 kg (microdrones)
 
 Op aanvraag wordt ontheffing verleend van het verbod, bedoeld in [artikel 2.1, eerste lid, van de Wet luchtvaart](https://wetten.overheid.nl/jci1.3:c:BWBR0005555&artikel=2.1) voor vluchten met een RPA waarvan de totale massa niet meer dan 1 kg bedraagt, die worden uitgevoerd onder de operationele beperkingen, bedoeld in [artikel 10a, eerste lid, van de Regeling op afstand bestuurde luchtvaartuigen](onbekend), waarbij [artikel 1, onderdeel a, subonderdeel 2°](https://wetten.overheid.nl/jci1.3:c:BWBR0038018&artikel=1&z=2016-07-01&g=2016-07-01) niet van toepassing is.
 
-#### Artikel 3. Voorschriften en beperkingen ontheffing
+##### Artikel 3. Voorschriften en beperkingen ontheffing
 
 Aan de ontheffingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038018&artikel=1&z=2016-07-01&g=2016-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038018&artikel=2&z=2016-07-01&g=2016-07-01), worden de volgende voorschriften en beperkingen verbonden:
 
@@ -68,11 +94,11 @@ Aan de ontheffingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1
 
 - 2°. ongevallen (=met gewonde(n) of dode(n)) na de hulpverleningsoproep direct aan: de OVV.
 
-#### Artikel 4. Aanvraagformulier
+##### Artikel 4. Aanvraagformulier
 
 De ontheffingen, bedoeld in de [artikelen 1](https://wetten.overheid.nl/jci1.3:c:BWBR0038018&artikel=1&z=2016-07-01&g=2016-07-01) en [2](https://wetten.overheid.nl/jci1.3:c:BWBR0038018&artikel=2&z=2016-07-01&g=2016-07-01), worden aangevraagd door indiening bij de Minister van een ondertekend formulier waarvan exemplaren kosteloos zijn te verkrijgen bij de Inspectie Leefomgeving en Transport.
 
-#### Artikel 5. Inwerkingtreding
+##### Artikel 5. Inwerkingtreding
 
 Deze beleidsregel treedt in werking met ingang van 1 juli 2016.
 
